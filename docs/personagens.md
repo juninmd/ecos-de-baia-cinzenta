@@ -81,7 +81,7 @@
 
 ---
 
-## Beatriz Moretti
+## Lívia Moretti
 
 *   **Idade:** 29 anos
 *   **Altura:** 1,70m
