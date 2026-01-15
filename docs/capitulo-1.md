@@ -10,7 +10,7 @@ Gabriel "Gabo" Moretti sentiu a água fria escorrer pelo pescoço, infiltrando-s
 
 O oficial apontou para um beco estreito entre dois contêineres habitacionais empilhados. A fita amarela da polícia parecia uma piada ali, uma tentativa frágil de impor ordem ao caos daquele lugar esquecido por Deus e pela prefeitura.
 
-Gabriel engoliu dois comprimidos de cafeína a seco, sentindo o gosto amargo descer pela garganta. Ele não queria entrar lá. Aos trinta anos, sentia-se como se tivesse setenta. Seus joelhos estalavam, e a insônia da semana passada fazia as luzes da cidade deixarem rastros em sua visão periférica.
+Gabriel engoliu rapidamente seu café, sentindo o gosto amargo descer pela garganta. Ele não queria entrar lá. Aos trinta anos, sentia-se como se tivesse setenta. Seus joelhos estalavam, e a insônia da semana passada fazia as luzes da cidade deixarem rastros em sua visão periférica.
 
 Ele avançou.
 
