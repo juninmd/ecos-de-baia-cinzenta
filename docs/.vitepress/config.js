@@ -4,13 +4,20 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Ler Agora', link: '/capitulo-1' }
+      { text: 'Ler Agora', link: '/capitulo-1' },
+      { text: 'Personagens', link: '/personagens' }
     ],
     sidebar: [
       {
         text: 'Parte I: A Chuva',
         items: [
           { text: 'Capítulo 1: Olhos de Vidro', link: '/capitulo-1' },
+        ]
+      },
+      {
+        text: 'Arquivos',
+        items: [
+          { text: 'Dossiê de Personagens', link: '/personagens' }
         ]
       }
     ],
