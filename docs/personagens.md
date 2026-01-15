@@ -20,6 +20,20 @@
 
 ---
 
+## Marco Moretti
+
+*   **Idade:** 35 anos
+*   **Função:** Vereador / Candidato a Prefeito.
+*   **Relação:** Irmão mais velho de Gabo.
+*   **Porte Físico:** Impecável. Bronzeado artificialmente, dentes clareados, postura treinada para comícios.
+*   **Cabelo:** O mesmo tom escuro da família, mas cortado e estilizado com produtos caros, sem um fio fora do lugar.
+*   **Olhos:** Carismáticos, mas calculistas. Sabe fazer contato visual que simula sinceridade.
+*   **Marcas Distintivas:** Usa o sobrenome "Moretti" e a memória do pai (o Comissário herói) como plataforma política, o que enfurece Gabo.
+*   **Vestuário:** Ternos italianos sob medida, broche da campanha sempre na lapela.
+*   **Perfil:** A ovelha "branca" da família. Enquanto Gabo mergulha na sujeira da cidade, Marco aperta a mão dos que a produzem. Ele prega "limpeza e ordem", mas seus financiadores são obscuros.
+
+---
+
 ## Dra. Nise (Sobrenome Desconhecido)
 
 *   **Idade:** Indefinida (Aparenta 60 anos)

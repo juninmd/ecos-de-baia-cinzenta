@@ -34,6 +34,7 @@ Gabo era um prodígio na Academia de Polícia, filho de um lendário comissário
 **Drama Pessoal & Psicologia:**
 *   **Lívia (A Ex-Esposa):** Lívia saiu de casa. Não houve sequestro ou mistério, apenas a erosão lenta causada pelo trabalho obsessivo de Gabo. Ele ainda não assinou os papéis do divórcio, mantendo uma esperança fútil.
 *   **Vícios:** Gabo é movido a cafeína e teimosia. Sua tremedeira nas mãos é puramente química, resultado de litros de café barato. Ele não dorme porque não quer parar de trabalhar.
+*   **Família Desestruturada:** Além da sombra do pai falecido, Gabo lida com seu irmão mais velho, **Marco Moretti**, um político em ascensão. Marco usa a imagem de "herói" do pai para ganhar votos, o que causa atritos constantes com Gabo, que sabe que o pai odiaria a política suja de Baía Cinzenta.
 *   **Solidão:** Frequenta a **Dra. Nise** apenas para ter com quem conversar fora do círculo policial. Ele se considera são em um mundo louco, mas sua falta de conexões humanas diz o contrário.
 
 ---
@@ -42,6 +43,7 @@ Gabo era um prodígio na Academia de Polícia, filho de um lendário comissário
 
 ### Aliados
 *   **Maya "Glitch" Sato:** Hacktivista e consultora forense. Sua tecnologia audutiva filtra "O Ruído", tornando-a imune à agressividade ambiente, mas desconectada da humanidade.
+*   **Capitão Jonas Vilar:** Chefe do departamento e antigo amigo do pai de Gabo. Ele representa o dilema moral da cidade, protegendo Gabo politicamente enquanto (possivelmente) encobre segredos para manter a "paz".
 *   **Dra. Nise:** Psicóloga cega que atende nos fundos de uma relojoaria. Uma ouvinte paciente em um mundo que só sabe gritar.
 
 ### Antagonistas
