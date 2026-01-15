@@ -10,11 +10,7 @@ Gabriel "Gabo" Moretti sentiu a água fria escorrer pelo pescoço, infiltrando-s
 
 O oficial apontou para um beco estreito entre dois contêineres habitacionais empilhados. A fita amarela da polícia parecia uma piada ali, uma tentativa frágil de impor ordem ao caos daquele lugar esquecido por Deus e pela prefeitura.
 
-Gabriel engoliu rapidamente seu café, sentindo o gosto amargo descer pela garganta. Suas mãos tremiam levemente — um espasmo involuntário que ele tentava esconder enfiando-as nos bolsos profundos do sobretudo. Era o "Ruído" chegando, aquele zumbido estático que a cidade emitia e que parecia vibrar em seus ossos.
-
-— *Respire, Gabo. 4, 7, 8. Como a Dra. Nise ensinou* — ele pensou, fechando os olhos por um segundo. A imagem de Lívia sorrindo veio à sua mente, mas foi logo substituída pela visão do apartamento vazio dela, revirado.
-
-Ele tateou o frasco de pílulas no bolso interno, mas resistiu. Não agora. Ele precisava estar afiado, mesmo que isso significasse sentir cada nervo do corpo gritar.
+Gabriel engoliu rapidamente seu café, sentindo o gosto amargo descer pela garganta. Ele não queria entrar lá. Aos trinta anos, sentia-se como se tivesse setenta. Seus joelhos estalavam, e a insônia da semana passada fazia as luzes da cidade deixarem rastros em sua visão periférica.
 
 Ele avançou.
 

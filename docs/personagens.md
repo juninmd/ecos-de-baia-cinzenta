@@ -14,22 +14,22 @@
 *   **Porte Físico:** Razoavelmente musculoso, mantido não por academia, mas pela tensão constante e a violência do trabalho. Ombros largos, mas perpetuamente tensos.
 *   **Cabelo:** Escuro, desgrenhado e oleoso. Ostenta uma barba cheia e mal aparada, salpicada de fios grisalhos precoces que também aparecem nas têmporas.
 *   **Olhos:** Castanhos profundos, quase pretos. Cercados por olheiras tão escuras que parecem hematomas. O olhar é inquieto, varrendo constantemente o ambiente – um efeito colateral da insônia crônica e do vício severo em cafeína.
-*   **Marcas Distintivas:** Mãos trêmulas devido à "Praga da Ansiedade" e ao consumo excessivo de estimulantes. Sofre de *tinnitus* (zumbido) constante, que ele descreve como o "som da cidade gritando". Uma cicatriz fina e pálida corta a sobrancelha esquerda. Tem ódio mortal de cigarros, o cheiro o enjoa. Em contrapartida, carrega sempre o aroma sutil de vinho barato, seu refúgio noturno.
+*   **Marcas Distintivas:** Mãos trêmulas devido ao consumo excessivo de café (toma cerca de 2 litros por dia) e privação de sono. Tem ódio mortal de cigarros, o cheiro o enjoa. Em contrapartida, carrega sempre o aroma sutil de vinho barato.
 *   **Vestuário:** Invariavelmente veste um sobretudo bege, manchado de fuligem e chuva ácida, sobre camisas sociais amarrotadas.
-*   **Condição Psicológica:** Diagnosticado com Transtorno de Ansiedade Generalizada e Síndrome de Desrealização. Dependente de "Calma", um supressor químico prescrito, mas prefere automedicar-se com café e trabalho.
+*   **Perfil Psicológico:** Workaholic extremo. Usa o trabalho para preencher o vazio deixado pelo fracasso de seu casamento. É cético, solitário e teimoso. Frequenta a Dra. Nise não porque acha que precisa de cura, mas porque é a única pessoa que o escuta sem julgar (ou assim ele pensa). Não tem vida social fora da delegacia.
 
 ---
 
 ## Dra. Nise (Sobrenome Desconhecido)
 
 *   **Idade:** Indefinida (Aparenta 60 anos)
-*   **Função:** Psicóloga Credenciada do Departamento / Terapeuta de Gabo.
+*   **Função:** Psicóloga Credenciada do Departamento.
 *   **Porte Físico:** Frágil, curvada, mas com olhos que demonstram uma vitalidade assustadora.
 *   **Cabelo:** Branco como osso, curto e prático.
 *   **Olhos:** Cegos, cobertos por uma película leitosa. Ela "vê" através de sensores táteis nas pontas dos dedos e uma empatia quase sobrenatural.
-*   **Marcas Distintivas:** Sempre vista manipulando peças de relógios antigos enquanto fala. O tique-taque ritmado é a única coisa que acalma Gabo durante as sessões.
+*   **Marcas Distintivas:** Sempre vista manipulando peças de relógios antigos enquanto fala. O tique-taque ritmado é a única coisa que quebra o silêncio de sua sala blindada contra tecnologia.
 *   **Vestuário:** Roupas de lã grossa e xales antigos, parecendo uma avó esquecida pelo tempo.
-*   **Perfil:** Especialista em traumas urbanos e na "Síndrome do Eco". Sua sala é um santuário analógico proibido para tecnologia digital. Ela sabe segredos sobre a mente de Gabo que ele mesmo desconhece.
+*   **Perfil:** Atende policiais que não se adaptam aos psicólogos-IA do departamento. Ela serve como uma "confessora" para Gabo.
 
 ---
 
@@ -81,16 +81,16 @@
 
 ---
 
-## Lívia Moretti (Desaparecida)
+## Lívia Moretti
 
 *   **Idade:** 29 anos
 *   **Altura:** 1,70m
 *   **Porte Físico:** Magra, mas com uma resiliência silenciosa. Seus movimentos são suaves, contrastando com a brutalidade da cidade.
-*   **Profissão:** Jornalista Investigativa Independente.
+*   **Profissão:** Jornalista.
 *   **Cabelo:** Castanho claro, natural, geralmente preso de forma prática para o trabalho.
-*   **Olhos:** Cor de mel, expressivos. A última vez que Gabo a viu, eles estavam cheios de medo.
+*   **Olhos:** Cor de mel, expressivos.
 *   **Marcas Distintivas:** Não possui implantes cibernéticos visíveis. Carrega uma pequena tatuagem de âncora no pulso esquerdo.
-*   **Status:** Desaparecida há 6 meses. O arquivo oficial diz "Fuga Voluntária", mas Gabo encontrou seu apartamento revirado e um único rastro de sangue sintético — o mesmo usado pela elite da Aeterna.
+*   **Status:** Ex-esposa (em processo de divórcio). Saiu de casa há 6 meses porque não suportava mais ser "a segunda opção" na vida de Gabo, perdendo sempre para os cadáveres e casos frios.
 *   **Vestuário:** Roupas civis sóbrias e confortáveis.
 
 ---
