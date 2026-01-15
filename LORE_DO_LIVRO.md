@@ -1,7 +1,7 @@
 # Universo Literário: Ecos de Baía Cinzenta
 
 ## 1. Premissa Central
-Um thriller policial noir moderno ambientado em uma metrópole decadente onde a chuva nunca para. A história segue um detetive de 30 anos que, ao investigar uma série de desaparecimentos, descobre que a elite da cidade está financiando um experimento social que mistura tecnologia, drogas sintéticas e controle populacional. O tom é pesado, focado no drama psicológico, na solidão urbana e na corrupção sistêmica.
+Um thriller policial noir moderno ambientado em uma metrópole decadente onde a chuva nunca para. A história segue um detetive de 30 anos que, lutando contra uma ansiedade paralisante e o desaparecimento de sua esposa, descobre que a elite da cidade está financiando um experimento social que mistura tecnologia, drogas sintéticas e controle populacional.
 
 ---
 
@@ -10,12 +10,14 @@ Um thriller policial noir moderno ambientado em uma metrópole decadente onde a 
 **A Cidade:**
 Baía Cinzenta é uma megalópole costeira fictícia localizada no sul, presa geograficamente entre uma serra íngreme e um oceano agitado. A cidade é conhecida pelo seu clima opressivo: chove 300 dias por ano e um nevoeiro perpétuo cobre os distritos mais baixos.
 
-**Geografia e Desigualdade (O Problema do Mundo Real):**
-*   **O Topo (The Highs):** Os arranha-céus que furam o nevoeiro. Onde vive a elite, banhada pelo sol que o resto da cidade não vê. Tecnologia de ponta, segurança privada militarizada.
-*   **O Nível da Rua (The Dregs):** Ruas alagadas, iluminadas apenas por neons de publicidade e faróis de carros. Aqui, o sistema de drenagem falhou há décadas. Bairros inteiros, como "Vila da Ferrugem", estão lentamente afundando no lodo. A crise imobiliária empurra a classe trabalhadora para estas áreas insalubres.
+**Geografia e Desigualdade:**
+*   **O Topo (The Highs):** Os arranha-céus que furam o nevoeiro. Onde vive a elite, banhada pelo sol que o resto da cidade não vê.
+*   **O Nível da Rua (The Dregs):** Ruas alagadas, iluminadas apenas por neons de publicidade e faróis de carros.
 
-**Atmosfera:**
-Cyberpunk-noir sem os lasers. A tecnologia existe, mas é suja, quebrada e usada para vigilância. A arquitetura é brutalista, manchada de fuligem e musgo.
+**Fenômeno Social: A Praga da Ansiedade ("O Ruído")**
+Uma epidemia silenciosa assola a cidade. Uma frequência sub-audível, gerada pelos geradores de energia maciços da Zona Industrial e pelos servidores de dados, causa um estado permanente de tensão nervosa na população.
+*   **Sintomas:** Tremores nas mãos, insônia, sensação de perseguição e "tinnitus" (zumbido) crônico.
+*   **Consequência:** A população é viciada em supressores químicos ("Calma") e entretenimento entorpecente. Gabo é uma das poucas pessoas que tenta funcionar sem os supressores pesados, o que o deixa em um estado de hipervigilância dolorosa.
 
 ---
 
@@ -26,59 +28,38 @@ Cyberpunk-noir sem os lasers. A tecnologia existe, mas é suja, quebrada e usada
 **Cargo:** Inspetor da Divisão de Casos Esquecidos (Cold Cases).
 
 **Background:**
-Gabo era um prodígio na Academia de Polícia, filho de um lendário comissário que foi assassinado sob circunstâncias misteriosas. Aos 30 anos, ele já se sente velho. Ele carrega a culpa de um caso anterior onde sua hesitação custou a vida de uma vítima adolescente.
+Gabo era um prodígio na Academia de Polícia, filho de um lendário comissário. Hoje, é um homem quebrado, segurando-se à sanidade por um fio.
 
-**Personalidade:**
-*   **Cínico, mas esperançoso:** Ele reclama do sistema, mas é o único que fica até tarde revisando arquivos que ninguém mais liga.
-*   **Insone:** Sofre de insônia crônica, o que às vezes confunde sua percepção da realidade (suspense psicológico).
-*   **Habilidade:** Tem uma memória eidética para padrões visuais, o que o torna excelente em encontrar conexões que outros perdem, mas terrível em esquecer traumas.
-
-**Drama Pessoal:**
-Ele está se divorciando de sua esposa, **Lívia**, que não suportou vê-lo ser consumido pela escuridão do trabalho. Ele tenta reconectar-se com ela, mas o caso atual o puxa cada vez mais para o fundo.
+**Drama Pessoal & Psicologia:**
+*   **Lívia (A Esposa Desaparecida):** Ela não apenas "foi embora". Lívia, uma jornalista, desapareceu enquanto investigava a Aeterna. Gabo busca por ela em cada rosto na multidão, uma obsessão que destrói sua carreira.
+*   **Ansiedade:** Gabo vive no limite de um ataque de pânico. Suas mãos tremem se ele não segura algo (geralmente um copo de café). Ele vê o mundo através de um filtro de desrealização — às vezes, a cidade parece um cenário de papelão prestes a cair.
+*   **Terapia:** Frequenta sessões clandestinas com a **Dra. Nise**, a única que parece entender que o "Ruído" não é apenas físico.
 
 ---
 
-## 4. Personagens Secundários (Bases)
+## 4. Personagens Secundários e Antagonistas
 
-### A Parceira Improvável
-**Nome:** Maya "Glitch" Sato
-**Idade:** 24 anos
-**Função:** Hacktivista convertida em consultora forense civil.
-**Descrição:** Maya odeia a polícia, mas odeia mais quem está matando as "pessoas invisíveis" da cidade. Ela traz a perspectiva da tecnologia e da vigilância moderna. Ela usa próteses auditivas devido a uma violência policial no passado, criando uma tensão constante entre ela e Gabriel.
+### Aliados
+*   **Maya "Glitch" Sato:** Hacktivista e consultora forense. Sua tecnologia audutiva filtra "O Ruído", tornando-a imune à ansiedade ambiente, mas desconectada da humanidade.
+*   **Dra. Nise:** Psicóloga cega que atende nos fundos de uma relojoaria. Ela acredita que a cidade está "doente" espiritualmente.
 
-### O Mentor Corrompido
-**Nome:** Capitão Jonas Vilar
-**Idade:** 58 anos
-**Função:** Chefe do Departamento.
-**Descrição:** Foi o melhor amigo do pai de Gabriel. Ele protege Gabriel politicamente, mas o leitor (e Gabriel) começa a suspeitar que Vilar sabe mais do que diz sobre a corrupção na cidade. Ele representa o dilema moral: "Para manter a ordem, é preciso sujar as mãos?"
-
-### A Antagonista (Inicial)
-**Nome:** Dra. Elara Vance
-**Idade:** 45 anos
-**Função:** CEO da Farmacêutica *Aeterna*.
-**Descrição:** Elegante, filantropa, intocável. Ela está lançando um programa de "revitalização urbana" que parece estar limpando os sem-teto das ruas, mas ninguém sabe para onde eles estão indo.
+### Antagonistas
+*   **Dra. Elara Vance (Aeterna):** A face pública do progresso. Fria, calculista, acredita que a humanidade precisa ser "otimizada".
+*   **Kael "O Cirurgião":** O braço armado de Elara. Um assassino silencioso com implantes médicos usados para tortura e execução. Ele representa o medo físico que complementa o terror psicológico.
 
 ---
 
-## 5. O Conflito e Suspense
+## 5. Mistérios e Conspirações
 
-**O Incidente Incitante:**
-O corpo de um jovem ativista é encontrado na "Vila da Ferrugem". Ele não tem marcas de violência, mas seus olhos foram removidos cirurgicamente e substituídos por lentes de câmeras antigas. No bolso dele, uma foto de Gabriel quando criança.
+**O Projeto Ecos:**
+Não é apenas sobre a droga **"Lázaro"**. A droga é um veículo. O verdadeiro projeto é o "Ecos": a tentativa de digitalizar a consciência humana para criar uma força de trabalho imortal e sem necessidades físicas.
+*   **O Erro:** O processo de transferência cria "fantasmas" na rede elétrica da cidade — memórias fragmentadas que assombram os sistemas digitais, causando glitches e alucinações em massa.
 
-**O Mistério ("História Incrível"):**
-Gabriel descobre que as vítimas estão ligadas a uma nova droga sintética chamada **"Lázaro"**. A droga permite que os usuários vivam em uma realidade simulada perfeita baseada em suas memórias mais felizes, enquanto seus corpos entram em coma e morrem de inanição no mundo real.
-*   **O Twist:** Alguém está usando os "viciados" como processadores biológicos para minerar dados ou treinar uma IA governamental. As pessoas não estão apenas morrendo; suas mentes estão sendo roubadas.
-
-**Problemas do Mundo Real Abordados:**
-1.  **Crise de Opioides/Vícios:** A fuga da realidade através de químicos em uma sociedade sem esperança.
-2.  **Gentrificação Agressiva:** A elite limpando os pobres não para ajudá-los, mas para tomar o terreno.
-3.  **Vigilância vs. Privacidade:** O quanto de liberdade trocamos por segurança?
-4.  **Solidão na Multidão:** A incapacidade de conectar-se humanamente em uma era digital.
+**A Droga Lázaro:**
+Permite viver em memórias felizes. O custo é a atrofia do corpo real.
 
 ---
 
-## 6. Arco Narrativo (Resumo)
+## 6. Arco Narrativo
 
-O livro começaria como um *procedural* (investigação policial clássica) e evoluiria para um *thriller de conspiração*. Gabriel precisa decidir se expõe a verdade e destrói a pouca estabilidade que a cidade tem (causando caos), ou se permite que o "mal menor" continue para evitar uma guerra civil em Baía Cinzenta.
-
-A história termina não com uma vitória limpa, mas com um compromisso doloroso, típico do gênero *Noir*, onde Gabriel salva a cidade, mas perde o resto de sua inocência.
+A jornada de Gabo é dupla: encontrar Lívia e expor a verdade sobre a Aeterna. Ele precisa enfrentar seus próprios demônios internos (ansiedade, culpa) para conseguir enfrentar os demônios reais da cidade. A presença de Kael traz um perigo físico imediato, transformando a investigação em uma caçada de gato e rato.

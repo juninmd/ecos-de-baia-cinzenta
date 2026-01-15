@@ -14,8 +14,22 @@
 *   **Porte Físico:** Razoavelmente musculoso, mantido não por academia, mas pela tensão constante e a violência do trabalho. Ombros largos, mas perpetuamente tensos.
 *   **Cabelo:** Escuro, desgrenhado e oleoso. Ostenta uma barba cheia e mal aparada, salpicada de fios grisalhos precoces que também aparecem nas têmporas.
 *   **Olhos:** Castanhos profundos, quase pretos. Cercados por olheiras tão escuras que parecem hematomas. O olhar é inquieto, varrendo constantemente o ambiente – um efeito colateral da insônia crônica e do vício severo em cafeína.
-*   **Marcas Distintivas:** Mãos trêmulas devido ao consumo excessivo de café, que lhe causa crises de ansiedade severas e náuseas ocasionais. Uma cicatriz fina e pálida corta a sobrancelha esquerda. Tem ódio mortal de cigarros, o cheiro o enjoa. Em contrapartida, carrega sempre o aroma sutil de vinho barato, seu refúgio noturno.
-*   **Vestuário:** Invariavelmente veste um sobretudo bege, manchado de fuligem e chuva ácida, sobre camisas sociais amarrotadas. Diferente da maioria de seus colegas, não cheira a tabaco, mas a café forte e, ocasionalmente, a tanino envelhecido.
+*   **Marcas Distintivas:** Mãos trêmulas devido à "Praga da Ansiedade" e ao consumo excessivo de estimulantes. Sofre de *tinnitus* (zumbido) constante, que ele descreve como o "som da cidade gritando". Uma cicatriz fina e pálida corta a sobrancelha esquerda. Tem ódio mortal de cigarros, o cheiro o enjoa. Em contrapartida, carrega sempre o aroma sutil de vinho barato, seu refúgio noturno.
+*   **Vestuário:** Invariavelmente veste um sobretudo bege, manchado de fuligem e chuva ácida, sobre camisas sociais amarrotadas.
+*   **Condição Psicológica:** Diagnosticado com Transtorno de Ansiedade Generalizada e Síndrome de Desrealização. Dependente de "Calma", um supressor químico prescrito, mas prefere automedicar-se com café e trabalho.
+
+---
+
+## Dra. Nise (Sobrenome Desconhecido)
+
+*   **Idade:** Indefinida (Aparenta 60 anos)
+*   **Função:** Psicóloga Credenciada do Departamento / Terapeuta de Gabo.
+*   **Porte Físico:** Frágil, curvada, mas com olhos que demonstram uma vitalidade assustadora.
+*   **Cabelo:** Branco como osso, curto e prático.
+*   **Olhos:** Cegos, cobertos por uma película leitosa. Ela "vê" através de sensores táteis nas pontas dos dedos e uma empatia quase sobrenatural.
+*   **Marcas Distintivas:** Sempre vista manipulando peças de relógios antigos enquanto fala. O tique-taque ritmado é a única coisa que acalma Gabo durante as sessões.
+*   **Vestuário:** Roupas de lã grossa e xales antigos, parecendo uma avó esquecida pelo tempo.
+*   **Perfil:** Especialista em traumas urbanos e na "Síndrome do Eco". Sua sala é um santuário analógico proibido para tecnologia digital. Ela sabe segredos sobre a mente de Gabo que ele mesmo desconhece.
 
 ---
 
@@ -55,16 +69,29 @@
 
 ---
 
-## Lívia (Sobrenome Redigido)
+## Kael "O Cirurgião"
+
+*   **Idade:** Desconhecida (aparenta 30-35)
+*   **Função:** Chefe de Segurança da Aeterna / Executor.
+*   **Porte Físico:** Alto e magro, quase esquelético, mas com músculos de aço sintético visíveis sob a pele translúcida nos braços.
+*   **Olhos:** Oculares cibernéticos multi-espectrais, brilhando em vermelho suave na escuridão. Nunca pisca.
+*   **Marcas Distintivas:** Suas mãos foram substituídas por instrumentos cirúrgicos retráteis de precisão. Ele não luta; ele desmonta seus oponentes anatomicamente.
+*   **Personalidade:** Não fala. Apenas executa ordens com uma eficiência robótica aterrorizante.
+*   **Vestuário:** Trajes de contenção estéreis ou ternos pretos impecáveis.
+
+---
+
+## Lívia Moretti (Desaparecida)
 
 *   **Idade:** 29 anos
 *   **Altura:** 1,70m
 *   **Porte Físico:** Magra, mas com uma resiliência silenciosa. Seus movimentos são suaves, contrastando com a brutalidade da cidade.
+*   **Profissão:** Jornalista Investigativa Independente.
 *   **Cabelo:** Castanho claro, natural, geralmente preso de forma prática para o trabalho.
-*   **Olhos:** Cor de mel, expressivos, que costumavam olhar para Gabriel com adoração e agora carregam uma tristeza resignada.
-*   **Marcas Distintivas:** Não possui implantes cibernéticos visíveis, uma raridade em Baía Cinzenta. Carrega uma pequena tatuagem de âncora no pulso esquerdo.
-*   **Vestuário:** Roupas civis sóbrias e confortáveis. Cardigans de lã e jeans, evitando os tecidos sintéticos brilhantes da moda atual.
-*   **Status:** Ex-esposa de Gabriel. A personificação da vida normal que ele perdeu.
+*   **Olhos:** Cor de mel, expressivos. A última vez que Gabo a viu, eles estavam cheios de medo.
+*   **Marcas Distintivas:** Não possui implantes cibernéticos visíveis. Carrega uma pequena tatuagem de âncora no pulso esquerdo.
+*   **Status:** Desaparecida há 6 meses. O arquivo oficial diz "Fuga Voluntária", mas Gabo encontrou seu apartamento revirado e um único rastro de sangue sintético — o mesmo usado pela elite da Aeterna.
+*   **Vestuário:** Roupas civis sóbrias e confortáveis.
 
 ---
 
