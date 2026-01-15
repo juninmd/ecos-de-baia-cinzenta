@@ -32,7 +32,7 @@ Uma frequência sub-audível, gerada deliberadamente pela elite, afeta os distri
 Gabo era um prodígio na Academia de Polícia, filho de um lendário comissário.
 
 **Drama Pessoal & Psicologia:**
-*   **Lívia (A Ex-Esposa):** Lívia saiu de casa. Não houve sequestro ou mistério, apenas a erosão lenta causada pelo trabalho obsessivo de Gabo. Ele ainda não assinou os papéis do divórcio, mantendo uma esperança fútil.
+*   **Beatriz (A Ex-Esposa):** Beatriz saiu de casa. Não houve sequestro ou mistério, apenas a erosão lenta causada pelo trabalho obsessivo de Gabo. Ele ainda não assinou os papéis do divórcio, mantendo uma esperança fútil.
 *   **Vícios:** Gabo é movido a cafeína e teimosia. Sua tremedeira nas mãos é puramente química, resultado de litros de café barato. Ele não dorme porque não quer parar de trabalhar.
 *   **Solidão:** Frequenta a **Dra. Nise** apenas para ter com quem conversar fora do círculo policial. Ele se considera são em um mundo louco, mas sua falta de conexões humanas diz o contrário.
 
