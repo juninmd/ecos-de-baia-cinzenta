@@ -11,6 +11,7 @@ module.exports = {
         text: 'Parte I: A Chuva',
         items: [
           { text: 'Capítulo 1: Olhos de Vidro', link: '/capitulo-1' },
+          { text: 'Capítulo 2: Náufragos de Concreto', link: '/capitulo-2' },
         ]
       }
     ],
