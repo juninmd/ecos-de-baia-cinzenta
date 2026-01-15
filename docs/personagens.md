@@ -7,6 +7,8 @@
 
 ## Gabriel "Gabo" Moretti
 
+![Gabriel "Gabo" Moretti](/gabo.jpg)
+
 *   **Idade:** 30 anos
 *   **Altura:** 1,75m
 *   **Porte Físico:** Razoavelmente musculoso, mantido não por academia, mas pela tensão constante e a violência do trabalho. Ombros largos, mas perpetuamente tensos.
