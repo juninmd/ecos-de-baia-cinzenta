@@ -13,6 +13,7 @@ module.exports = {
         items: [
           { text: 'Capítulo 1: Olhos de Vidro', link: '/capitulo-1' },
           { text: 'Capítulo 2: Náufragos de Concreto', link: '/capitulo-2' },
+          { text: 'Capítulo 3: O Fantasma da Máquina', link: '/capitulo-3' },
         ]
       },
       {
