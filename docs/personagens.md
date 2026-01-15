@@ -8,12 +8,12 @@
 ## Gabriel "Gabo" Moretti
 
 *   **Idade:** 30 anos
-*   **Altura:** 1,82m
-*   **Porte Físico:** Magro, quase esquelético, resultado de refeições puladas e café barato. Ombros perpetuamente tensos, como se esperasse um golpe a qualquer momento.
-*   **Cabelo:** Escuro, desgrenhado e oleoso. Fios grisalhos precoces começam a aparecer nas têmporas, espalhando-se como raízes de uma árvore morta.
-*   **Olhos:** Castanhos profundos, quase pretos. Cercados por olheiras tão escuras que parecem hematomas. O olhar é inquieto, varrendo constantemente o ambiente – um efeito colateral da insônia crônica e da paranoia profissional.
-*   **Marcas Distintivas:** Mãos trêmulas quando não está segurando um cigarro ou uma arma. Uma cicatriz fina e pálida corta a sobrancelha esquerda, lembrança de uma garrafa quebrada em uma briga de bar que ele nem se lembra de ter começado.
-*   **Vestuário:** Invariavelmente veste um sobretudo bege, manchado de fuligem e chuva ácida, sobre camisas sociais amarrotadas que viram um ferro de passar há semanas. O cheiro de tabaco velho e chuva o segue como uma sombra.
+*   **Altura:** 1,75m
+*   **Porte Físico:** Razoavelmente musculoso, mantido não por academia, mas pela tensão constante e a violência do trabalho. Ombros largos, mas perpetuamente tensos.
+*   **Cabelo:** Escuro, desgrenhado e oleoso. Ostenta uma barba cheia e mal aparada, salpicada de fios grisalhos precoces que também aparecem nas têmporas.
+*   **Olhos:** Castanhos profundos, quase pretos. Cercados por olheiras tão escuras que parecem hematomas. O olhar é inquieto, varrendo constantemente o ambiente – um efeito colateral da insônia crônica e do vício severo em cafeína.
+*   **Marcas Distintivas:** Mãos trêmulas devido ao consumo excessivo de café, que lhe causa crises de ansiedade severas e náuseas ocasionais. Uma cicatriz fina e pálida corta a sobrancelha esquerda. Tem ódio mortal de cigarros, o cheiro o enjoa. Em contrapartida, carrega sempre o aroma sutil de vinho barato, seu refúgio noturno.
+*   **Vestuário:** Invariavelmente veste um sobretudo bege, manchado de fuligem e chuva ácida, sobre camisas sociais amarrotadas. Diferente da maioria de seus colegas, não cheira a tabaco, mas a café forte e, ocasionalmente, a tanino envelhecido.
 
 ---
 
