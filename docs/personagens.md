@@ -16,9 +16,13 @@
 *   **Olhos:** Castanhos profundos, quase pretos. Cercados por olheiras tão escuras que parecem hematomas. O olhar é inquieto, varrendo constantemente o ambiente – um efeito colateral da insônia crônica, do vício severo em cafeína e de uma paranoia crescente de que está sendo perseguido.
 *   **Marcas Distintivas:** Mãos trêmulas devido ao consumo excessivo de café (toma cerca de 2 litros por dia) e privação de sono. Tem ódio mortal de cigarros, o cheiro o enjoa. Em contrapartida, carrega sempre o aroma sutil de vinho barato.
 *   **Vestuário:** Invariavelmente veste um sobretudo bege, manchado de fuligem e chuva ácida, sobre camisas sociais amarrotadas.
+*   **Histórico:** Entrou na polícia muito jovem, motivado pela morte do pai.
 *   **Bens e Equipamento:** Dirige um Sedan Azul Metálico (Cobalt), seu "queridinho". Carrega sempre uma pistola Glock.
 *   **Hábitos:** Estuda casos e teorias até de madrugada, alimentando sua insônia.
-*   **Perfil Psicológico:** Workaholic, solitário e bastante paranoico; sente frequentemente que alguém quer matá-lo. Sua obsessão principal é resolver o assassinato de seu pai, motivo pelo qual entrou para a polícia. Possui uma visão cínica e dura sobre a pobreza: detesta mendigos e acredita que o excesso de auxílio governamental gerou uma população dependente e preguiçosa. Frequenta a Dra. Nise apenas pela conversa, sem interesse real em terapia.
+*   **Vícios:** Café (consumo extremo, gera ansiedade), vinho barato. Odeia cigarros.
+*   **Pontos Fortes:** Dedicação obsessiva ao trabalho (estuda até de madrugada), memória fotográfica para padrões (implícito na investigação), persistência.
+*   **Fraquezas:** Paranoia (sente-se perseguido), insônia, ansiedade química, falta de habilidades sociais, cinismo em relação à pobreza.
+*   **Perfil Psicológico:** Workaholic, solitário e bastante paranoico; sente frequentemente que alguém quer matá-lo. Sua obsessão principal é resolver o assassinato de seu pai. Possui uma visão cínica e dura sobre a pobreza: detesta mendigos e acredita que o excesso de auxílio governamental gerou uma população dependente e preguiçosa. Frequenta a Dra. Nise apenas pela conversa, sem interesse real em terapia.
 
 ---
 
