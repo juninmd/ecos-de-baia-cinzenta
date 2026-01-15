@@ -7,6 +7,8 @@
 
 ## Gabriel "Gabo" Moretti
 
+![Gabriel "Gabo" Moretti](/gabo.jpg)
+
 *   **Idade:** 30 anos
 *   **Altura:** 1,75m
 *   **Porte Físico:** Razoavelmente musculoso, mantido não por academia, mas pela tensão constante e a violência do trabalho. Ombros largos, mas perpetuamente tensos.
@@ -50,3 +52,42 @@
 *   **Olhos:** Azul-gelo, frios e analíticos. Transmitem uma inteligência afiada e uma total falta de empatia.
 *   **Marcas Distintivas:** A pele é perfeita demais, pálida e luminosa, sugerindo tratamentos de rejuvenescimento caros e inacessíveis à plebe. Mãos longas e finas, sempre manicuradas.
 *   **Vestuário:** Alta costura minimalista. Tecidos sintéticos de última geração em tons de branco, prata ou preto carvão, que parecem repelir a sujeira. Joias discretas, mas que valem mais que o salário anual de um detetive.
+
+---
+
+## Lívia (Sobrenome Redigido)
+
+*   **Idade:** 29 anos
+*   **Altura:** 1,70m
+*   **Porte Físico:** Magra, mas com uma resiliência silenciosa. Seus movimentos são suaves, contrastando com a brutalidade da cidade.
+*   **Cabelo:** Castanho claro, natural, geralmente preso de forma prática para o trabalho.
+*   **Olhos:** Cor de mel, expressivos, que costumavam olhar para Gabriel com adoração e agora carregam uma tristeza resignada.
+*   **Marcas Distintivas:** Não possui implantes cibernéticos visíveis, uma raridade em Baía Cinzenta. Carrega uma pequena tatuagem de âncora no pulso esquerdo.
+*   **Vestuário:** Roupas civis sóbrias e confortáveis. Cardigans de lã e jeans, evitando os tecidos sintéticos brilhantes da moda atual.
+*   **Status:** Ex-esposa de Gabriel. A personificação da vida normal que ele perdeu.
+
+---
+
+## Comissário Dante Moretti (Falecido)
+
+*   **Idade:** 45 anos (na data do óbito)
+*   **Altura:** 1,80m
+*   **Porte Físico:** Robusto e imponente. Ombros largos que pareciam carregar o peso do departamento inteiro.
+*   **Cabelo:** Escuro, começando a grisalhar nas têmporas, muito parecido com o de Gabriel atualmente.
+*   **Olhos:** Escuros e perspicazes. O mesmo olhar analítico que seu filho herdou.
+*   **Marcas Distintivas:** Uma cicatriz de faca no pescoço, lembrança de um motim que ele conteve sozinho. Sorria com uma confiança que inspirava lealdade.
+*   **Vestuário:** O clássico sobretudo bege que Gabriel agora usa como uma herança mórbida.
+*   **Status:** Homenageado como herói, morto em serviço há 15 anos. Figura central no mistério que assombra o filho.
+
+---
+
+## A Menina do Orelhão (Identidade Desconhecida)
+
+*   **Idade:** Aparenta 6 anos
+*   **Altura:** Pequena e frágil.
+*   **Porte Físico:** Esquálida, com a magreza típica das crianças da Zona Baixa.
+*   **Cabelo:** Escuro e liso, grudado ao rosto pela chuva e fuligem.
+*   **Olhos:** Negros, profundos e assustadoramente serenos. Parecem ver através das pessoas.
+*   **Marcas Distintivas:** Segura obsessivamente uma boneca de pano caolha e sem um braço. Sua presença parece estar ligada a eventos inexplicáveis.
+*   **Vestuário:** Um vestido branco encardido e encharcado, inadequado para o clima tóxico.
+*   **Status:** Desconhecido. Possível testemunha ou mensageira.
