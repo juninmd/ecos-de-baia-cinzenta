@@ -12,7 +12,10 @@ Baía Cinzenta é uma megalópole costeira fictícia localizada no sul, presa ge
 
 **Geografia e Desigualdade:**
 *   **O Topo (The Highs):** Os arranha-céus que furam o nevoeiro. Onde vive a elite, banhada pelo sol que o resto da cidade não vê.
-*   **O Nível da Rua (The Dregs):** Ruas alagadas, iluminadas apenas por neons de publicidade e faróis de carros.
+*   **O Nível da Rua (The Dregs):** Ruas alagadas, iluminadas apenas por neons de publicidade e faróis de carros. A cidade é infestada de mendigos e pessoas vivendo na miséria.
+
+**Contexto Social e Político:**
+*   **Governo e Corrupção:** O governo local é profundamente corrupto, oferecendo programas de auxílio massivos que, na visão de críticos (como Gabo), geram apenas dependência e estagnação, mantendo a população dócil e pobre. A corrupção política frequentemente atrapalha o trabalho policial, impedindo investigações que tocam os poderosos.
 
 **Fenômeno Social: A Praga da Agressividade ("O Ruído")**
 Uma frequência sub-audível, gerada deliberadamente pela elite, afeta os distritos inferiores.
@@ -29,7 +32,7 @@ Uma frequência sub-audível, gerada deliberadamente pela elite, afeta os distri
 **Cargo:** Inspetor da Divisão de Casos Esquecidos (Cold Cases).
 
 **Background:**
-Gabo era um prodígio na Academia de Polícia, filho de um lendário comissário.
+Gabo era um prodígio na Academia de Polícia, filho de um lendário comissário. Sua principal motivação para entrar na força foi investigar o assassinato de seu pai, um crime nunca resolvido que assombra o departamento.
 
 **Drama Pessoal & Psicologia:**
 *   **Lívia (A Ex-Esposa):** Lívia saiu de casa. Não houve sequestro ou mistério, apenas a erosão lenta causada pelo trabalho obsessivo de Gabo. Ele ainda não assinou os papéis do divórcio, mantendo uma esperança fútil.
@@ -42,7 +45,7 @@ Gabo era um prodígio na Academia de Polícia, filho de um lendário comissário
 ## 4. Personagens Secundários e Antagonistas
 
 ### Aliados
-*   **Maya "Glitch" Sato:** Hacktivista e consultora forense. Sua tecnologia audutiva filtra "O Ruído", tornando-a imune à agressividade ambiente, mas desconectada da humanidade.
+*   **Maya "Glitch" Sato:** Hacktivista e consultora forense. Sua tecnologia auditiva filtra "O Ruído", tornando-a imune à agressividade ambiente, mas desconectada da humanidade.
 *   **Capitão Jonas Vilar:** Chefe do departamento e antigo amigo do pai de Gabo. Ele representa o dilema moral da cidade, protegendo Gabo politicamente enquanto (possivelmente) encobre segredos para manter a "paz".
 *   **Dra. Nise:** Psicóloga cega que atende nos fundos de uma relojoaria. Uma ouvinte paciente em um mundo que só sabe gritar.
 
@@ -59,7 +62,8 @@ A tentativa de digitalizar a consciência humana para criar uma força de trabal
 *   **O Erro:** O processo de transferência cria "fantasmas" na rede elétrica da cidade — memórias fragmentadas que assombram os sistemas digitais, causando glitches e alucinações em massa.
 
 **A Droga Lázaro:**
-Permite viver em memórias felizes. O custo é a atrofia do corpo real.
+Uma injeção ocular que cria uma lente de realidade virtual biológica. Permite que o usuário reviva seus melhores momentos em um loop perfeito ("O Paraíso").
+*   **O Preço:** A droga utiliza o cérebro da pessoa como um nó de processamento para minerar dados e treinar IAs corporativas enquanto ela está "viajando". É uma combinação perversa de química, hardware e inteligência artificial.
 
 ---
 

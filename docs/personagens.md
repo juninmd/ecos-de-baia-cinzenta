@@ -13,10 +13,12 @@
 *   **Altura:** 1,75m
 *   **Porte Físico:** Razoavelmente musculoso, mantido não por academia, mas pela tensão constante e a violência do trabalho. Ombros largos, mas perpetuamente tensos.
 *   **Cabelo:** Escuro, desgrenhado e oleoso. Ostenta uma barba cheia e mal aparada, salpicada de fios grisalhos precoces que também aparecem nas têmporas.
-*   **Olhos:** Castanhos profundos, quase pretos. Cercados por olheiras tão escuras que parecem hematomas. O olhar é inquieto, varrendo constantemente o ambiente – um efeito colateral da insônia crônica e do vício severo em cafeína.
+*   **Olhos:** Castanhos profundos, quase pretos. Cercados por olheiras tão escuras que parecem hematomas. O olhar é inquieto, varrendo constantemente o ambiente – um efeito colateral da insônia crônica, do vício severo em cafeína e de uma paranoia crescente de que está sendo perseguido.
 *   **Marcas Distintivas:** Mãos trêmulas devido ao consumo excessivo de café (toma cerca de 2 litros por dia) e privação de sono. Tem ódio mortal de cigarros, o cheiro o enjoa. Em contrapartida, carrega sempre o aroma sutil de vinho barato.
 *   **Vestuário:** Invariavelmente veste um sobretudo bege, manchado de fuligem e chuva ácida, sobre camisas sociais amarrotadas.
-*   **Perfil Psicológico:** Workaholic extremo. Usa o trabalho para preencher o vazio deixado pelo fracasso de seu casamento. É cético, solitário e teimoso. Frequenta a Dra. Nise não porque acha que precisa de cura, mas porque é a única pessoa que o escuta sem julgar (ou assim ele pensa). Não tem vida social fora da delegacia.
+*   **Bens e Equipamento:** Dirige um Sedan Azul Metálico (Cobalt), seu "queridinho". Carrega sempre uma pistola Glock.
+*   **Hábitos:** Estuda casos e teorias até de madrugada, alimentando sua insônia.
+*   **Perfil Psicológico:** Workaholic, solitário e bastante paranoico; sente frequentemente que alguém quer matá-lo. Sua obsessão principal é resolver o assassinato de seu pai, motivo pelo qual entrou para a polícia. Possui uma visão cínica e dura sobre a pobreza: detesta mendigos e acredita que o excesso de auxílio governamental gerou uma população dependente e preguiçosa. Frequenta a Dra. Nise apenas pela conversa, sem interesse real em terapia.
 
 ---
 
@@ -34,16 +36,32 @@
 
 ---
 
+## Helena Moretti
+
+*   **Relação:** Mãe de Gabo e Marco.
+*   **Condição:** Sofre de diabetes em estágio avançado.
+*   **Perfil:** Uma figura que exige cuidados constantes, adicionando peso à vida pessoal já caótica de Gabo.
+
+---
+
+## Clara Moretti
+
+*   **Relação:** Irmã de Gabo e Marco.
+*   **Condição:** Sofre de surtos de psicose ocasionais e possui uma compulsão severa por compras, o que frequentemente drena os recursos da família.
+
+---
+
 ## Dra. Nise (Sobrenome Desconhecido)
 
 *   **Idade:** Indefinida (Aparenta 60 anos)
 *   **Função:** Psicóloga Credenciada do Departamento.
+*   **Etnia:** Mulher negra.
 *   **Porte Físico:** Frágil, curvada, mas com olhos que demonstram uma vitalidade assustadora.
 *   **Cabelo:** Branco como osso, curto e prático.
 *   **Olhos:** Cegos, cobertos por uma película leitosa. Ela "vê" através de sensores táteis nas pontas dos dedos e uma empatia quase sobrenatural.
 *   **Marcas Distintivas:** Sempre vista manipulando peças de relógios antigos enquanto fala. O tique-taque ritmado é a única coisa que quebra o silêncio de sua sala blindada contra tecnologia.
 *   **Vestuário:** Roupas de lã grossa e xales antigos, parecendo uma avó esquecida pelo tempo.
-*   **Perfil:** Atende policiais que não se adaptam aos psicólogos-IA do departamento. Ela serve como uma "confessora" para Gabo.
+*   **Perfil:** Atende policiais que não se adaptam aos psicólogos-IA do departamento. Ela serve como uma "confessora" para Gabo, que gosta de conversar com ela apesar de seu ceticismo.
 
 ---
 
