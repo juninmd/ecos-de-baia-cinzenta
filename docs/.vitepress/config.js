@@ -17,6 +17,14 @@ module.exports = {
         ]
       },
       {
+        text: 'Parte II: Ruído Branco',
+        items: [
+          { text: 'Capítulo 4: A Torre de Marfim', link: '/capitulo-4' },
+          { text: 'Capítulo 5: Sangue e Urnas', link: '/capitulo-5' },
+          { text: 'Capítulo 6: Onde os Fantasmas Dormem', link: '/capitulo-6' },
+        ]
+      },
+      {
         text: 'Arquivos',
         items: [
           { text: 'Dossiê de Personagens', link: '/personagens' }
