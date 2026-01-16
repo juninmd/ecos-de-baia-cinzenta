@@ -14,14 +14,15 @@ module.exports = {
           { text: 'Capítulo 1: Olhos de Vidro', link: '/capitulo-1' },
           { text: 'Capítulo 2: Náufragos de Concreto', link: '/capitulo-2' },
           { text: 'Capítulo 3: O Fantasma da Máquina', link: '/capitulo-3' },
+          { text: 'Capítulo 4: A Torre de Marfim', link: '/capitulo-4' },
         ]
       },
       {
         text: 'Parte II: Ruído Branco',
         items: [
-          { text: 'Capítulo 4: A Torre de Marfim', link: '/capitulo-4' },
-          { text: 'Capítulo 5: Sangue e Urnas', link: '/capitulo-5' },
-          { text: 'Capítulo 6: Onde os Fantasmas Dormem', link: '/capitulo-6' },
+          { text: 'Capítulo 5: A Capela dos Esquecidos', link: '/capitulo-5' },
+          { text: 'Capítulo 6: O Coração da Tempestade', link: '/capitulo-6' },
+          { text: 'Capítulo 7: O Fim do Silêncio', link: '/capitulo-7' },
         ]
       },
       {

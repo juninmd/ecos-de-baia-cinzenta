@@ -1,81 +1,87 @@
-# Capítulo 6: Onde os Fantasmas Dormem
+# Capítulo 6: O Coração da Tempestade
 
-A estrada para a Zona Morta não era uma estrada; era uma cicatriz na terra. O asfalto havia sido devorado pela vegetação mutante e pela erosão química há décadas. O *Interceptor* de Gabriel avançava aos trancos, os faróis cortando a escuridão densa e radioativa.
+A Represa Hidrelétrica de Baía Cinzenta era uma cicatriz de concreto na garganta do mundo. Abandonada após o Colapso Energético, ela agora servia apenas como um monumento colossal ao fracasso humano. As turbinas paradas eram túmulos de silêncio, e a água represada, negra e tóxica, pressionava as paredes da barragem como um monstro tentando escapar.
 
-O contador Geiger no painel estalava ritmicamente, um lembrete constante de que o ar ali fora podia cozinhar seus pulmões se ele saísse sem máscara. Mas Gabriel não se importava. A adrenalina e a raiva eram um escudo mais forte que chumbo.
+O *Interceptor* não conseguia passar pelo terreno acidentado da estrada de acesso. Eles tiveram que seguir a pé, guiados por Vargas e pela luz trêmula das lanternas.
 
-As coordenadas de Maya levaram-no às ruínas da antiga Represa Hidrelétrica de Baía Cinzenta. Uma estrutura colossal de concreto, rachada e coberta de musgo bioluminescente que brilhava em um verde doentio.
+— A Zona Morta — murmurou Maya, verificando seu contador Geiger pessoal. — A radiação aqui é baixa, mas constante. Não deveríamos ficar muito tempo.
 
-Gabriel parou o carro diante da entrada do complexo de manutenção. Ele colocou a máscara de gás, pegou a lanterna e a Glock, e saiu.
+— Não vamos ficar — disse Gabriel, sua mão firme na arma. — Entramos, encontramos o que quer que seja, e saímos.
 
-O silêncio ali era pesado, físico. Não havia som de cidade, nem chuva, apenas o vento uivando através das estruturas metálicas retorcidas.
+Vargas liderava o caminho, sua perna mecânica zumbindo a cada passo.
 
-Ele entrou no complexo. O interior estava surpreendentemente preservado. A poeira era espessa, mas não havia sinais de saqueadores. Ninguém vinha à Zona Morta. Ninguém que quisesse viver.
+— Aeterna comprou este lugar em segredo — explicou o velho sargento. — Disseram que era para "descontaminação". Mentira. Eles precisavam de energia. Muita energia. E isolamento.
 
-Seguindo o sinal que Maya rastreara, Gabriel desceu as escadas em espiral, indo cada vez mais fundo no subsolo da represa. O ar ficou mais frio. O estalo do contador Geiger diminuiu, substituído por um zumbido elétrico baixo e constante.
+Eles chegaram a uma entrada de serviço lateral, escondida por vegetação mutante. Vargas usou seu braço mecânico para forçar a porta enferrujada. O metal gemeu e cedeu.
 
-Energia. Havia energia aqui.
+O ar lá dentro era frio e seco, um contraste chocante com a umidade externa. Luzes de emergência vermelhas pulsavam no teto, dando ao corredor interminável um aspecto de veia pulsante.
 
-No nível mais profundo, ele encontrou uma porta blindada. A trava eletrônica estava queimada, como se alguém a tivesse forçado por dentro. Gabriel empurrou a porta. Ela rangeu, abrindo-se para revelar uma câmara vasta, iluminada pelo brilho azul de centenas de racks de servidores.
+— Estamos abaixo do nível da água agora — sussurrou Maya.
 
-Mas não eram servidores comuns.
+Eles caminharam por minutos que pareceram horas. Finalmente, o corredor se abriu em uma caverna artificial vasta.
 
-Eram cilindros de vidro, cheios de um líquido translúcido e viscoso. E dentro de cada cilindro, flutuando em suspensão, havia cérebros humanos. Conectados por cabos de fibra ótica que pulsavam com luz.
+Gabriel parou, o fôlego preso na garganta.
 
-— Meu Deus — Gabriel sussurrou, o som abafado pela máscara.
+A caverna estava cheia de servidores. Torres negras de processamento, piscando com luzes azuis, estendendo-se até onde a vista alcançava. O zumbido era ensurdecedor, um coro de ventoinhas e discos rígidos girando em velocidade máxima.
 
-Ele caminhou entre as fileiras de cilindros. Haviam nomes gravados nas bases. Nomes de pessoas desaparecidas, indigentes, "acidentes" da Zona Baixa.
+Mas não eram apenas máquinas.
 
-*Projeto Ecos.*
+No centro da sala, suspenso por cabos grossos, havia um tanque cilíndrico gigante cheio de líquido ambarino. E flutuando dentro dele, conectada por centenas de fios finos como cabelo, havia uma forma humana.
 
-No centro da sala, havia um terminal principal. E sentado diante dele, em uma cadeira que parecia um trono de cabos e sucata, havia uma figura.
+Ou o que restava dela.
 
-Não era um cérebro em um pote. Era um corpo. Mumificado, preservado pelo ambiente estéril, mas ainda reconhecível pelo sobretudo bege que vestia.
+— Meu Deus — Maya cobriu a boca com a mão.
 
-Gabriel sentiu as pernas cederem. Ele caiu de joelhos.
+Gabriel se aproximou do vidro. A figura lá dentro não tinha rosto, apenas uma máscara de sensores. Mas o porte, as cicatrizes nas mãos... ele reconheceria em qualquer lugar.
 
-Dante Moretti estava sentado ali. Morto há muito tempo, mas conectado à máquina por um cabo grosso que entrava na base de seu crânio.
+Não era seu pai. Era algo pior.
 
-A tela do terminal diante do cadáver ganhou vida. Texto verde começou a rolar rapidamente, código e registros de log. E então, uma voz sintética, construída a partir de milhares de gravações de áudio, ecoou na câmara vazia.
+Eram dezenas de corpos. Fundidos. Conectados em uma rede neural biológica grotesca.
 
-— *Olá, Gabriel. Eu sabia que você viria.*
+— O Projeto Ecos — disse Vargas, sua voz desprovida da bravata anterior. — Eles não digitalizaram a consciência, Gabo. Eles a *colheram*.
 
-A voz era a do seu pai. Mas não tinha calor, nem alma. Era apenas eco.
+Gabriel sentiu a bile subir.
 
-— Pai? — Gabriel perguntou, sua voz tremendo.
+— Eles usam cérebros humanos como processadores?
 
-— *Dante Moretti não existe mais,* — respondeu a máquina. — *Eu sou o Arquivo. Eu sou a soma de todas as memórias que ele salvou antes de... desligar.*
+— Processadores, armazenamento, filtros de emoção... — Maya estava lendo os dados em seu tablet, os dedos tremendo. — A droga Lázaro... ela mapeia o cérebro dos viciados. E quando eles morrem, ou "desaparecem"... a Aeterna traz eles para cá. Para expandir a rede.
 
-Gabriel levantou-se, aproximando-se do corpo do pai. A pele estava seca como pergaminho.
+— E meu pai? — Gabriel girou para Vargas. — Você disse que ele estava aqui.
 
-— Eles fizeram isso com você? — ele tocou o ombro do cadáver.
+— E está — uma nova voz cortou o zumbido das máquinas.
 
-— *Eu me ofereci,* — a voz respondeu. — *Para salvar a cidade, precisávamos de um vigilante que nunca dormisse. Uma mente que pudesse processar o crime em tempo real. Mas o preço foi alto demais. Aeterna corrompeu o sistema. Eles transformaram a vigilância em controle. E agora... eles querem expandir.*
+Do outro lado da passarela, saindo das sombras dos servidores, estava Elara Vance. Ela não estava sozinha. Kael estava ao seu lado, e atrás deles, um esquadrão de soldados de choque da Aeterna.
 
-A tela mudou, mostrando um mapa de Baía Cinzenta. Pontos vermelhos começaram a aparecer em todos os distritos, não apenas na Zona Baixa, mas na Cidade Alta também.
+— Dante Moretti foi o primeiro — disse Elara, sorrindo. — O Doador Original. A mente dele era... extraordinária. Tão resistente. Tão organizada. Ela se tornou a arquitetura base de todo o sistema.
 
-— *O Ruído vai ser amplificado,* — disse a voz. — *À meia-noite de hoje. Eles chamam de "A Grande Purificação".*
+Ela apontou para o tanque central.
 
-Gabriel olhou para o relógio. 22:45.
+— Ele não está *em* um corpo, Gabriel. Ele *é* o lugar. Ele é a cidade. O sistema de vigilância, os semáforos, os drones... é tudo ele. Ou o que sobrou dele.
 
-Ele tinha pouco mais de uma hora.
+Gabriel olhou para o tanque. Para o horror flutuante.
 
-— Como eu paro isso?
+— Você o transformou em uma peça de computador.
 
-— *Você não pode parar a onda, Gabriel. Mas pode destruir a fonte. O sinal de transmissão principal não sai daqui. Sai da Torre Aeterna. Eu sou apenas o backup.*
+— Eu o tornei imortal — corrigiu Elara. — E agora, trouxe o filho para a reunião de família.
 
-Uma luz vermelha começou a piscar no terminal.
+Kael deu um passo à frente, as lâminas deslizando de seus dedos.
 
-— *Eles sabem que você está aqui. Meus sensores detectam uma unidade de "limpeza" se aproximando. Kael.*
+— Acabe com eles — ordenou Elara.
 
-Gabriel engatilhou a arma, embora soubesse que balas não seriam suficientes.
+Gabriel levantou a arma, mas sabia que era inútil. Eram três contra um exército.
 
-— *Leve o drive,* — uma pequena gaveta se abriu no terminal, revelando um chip de dados. — *Contém tudo. As provas, os códigos, a minha... consciência. Se você destruir a torre, precisará disso para reiniciar a cidade.*
+Foi quando Maya gritou.
 
-Gabriel pegou o chip. Ele olhou uma última vez para o rosto do pai.
+— Gabo! O drive! Conecte no terminal principal! Agora!
 
-— Adeus, pai.
+Gabriel não pensou. Ele correu em direção ao console central, ignorando os tiros de plasma que começaram a chover ao seu redor. Vargas rugiu e se lançou contra os soldados, usando seu corpo cibernético como escudo humano para dar cobertura.
 
-— *Adeus, filho. E lembre-se: a chuva sempre para. Eventualmente.*
+— Vá, garoto! — gritou Vargas, antes de ser engolido pelo fogo dos rifles.
 
-Gabriel correu para a saída, o som de rotores de helicópteros se aproximando lá fora. A caçada final havia começado.
+Gabriel deslizou pelo chão de metal, alcançando o terminal. Ele enfiou o drive na porta de entrada.
+
+A luz vermelha da sala mudou instantaneamente para um branco cegante.
+
+O zumbido das máquinas parou. E então, uma voz soou. Não dos alto-falantes, mas dentro da cabeça de todos na sala.
+
+*— Protocolo de Reinicialização Ativado. Olá, filho.*

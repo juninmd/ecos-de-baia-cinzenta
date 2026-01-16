@@ -1,71 +1,105 @@
 # Capítulo 4: A Torre de Marfim
 
-A Torre Aeterna não pertencia a Baía Cinzenta. Era um monólito de vidro e luz que perfurava o nevoeiro, erguendo-se como uma agulha esterilizada no coração de uma ferida gangrenada. Enquanto a Zona Baixa se afogava em lodo, a Aeterna brilhava, suas paredes externas repelindo a chuva com campos eletrostáticos que faziam a água chiar e evaporar antes de tocar a superfície imaculada.
+A chuva não tocava a Torre Aeterna. Um campo eletrostático invisível, zumbindo em uma frequência que fazia os dentes de Gabriel doerem, vaporizava cada gota dez metros antes que ela pudesse manchar o vidro imaculado e o aço branco do edifício. Era um monumento à arrogância, erguido no centro de um lago artificial de água cristalina — provavelmente mais cara que a vida de todos os habitantes da Zona Baixa somados.
 
-Gabriel estacionou o *Interceptor* a dois quarteirões de distância, em uma zona de carga onde as câmeras de segurança haviam sido "acidentalmente" quebradas por gangues locais. Ele não tinha mandado, não tinha apoio e, tecnicamente, estava fora de sua jurisdição.
+Gabriel estacionou o *Interceptor* na vaga de deficientes, ignorando o holograma de advertência que piscava em vermelho furioso. Ele saiu do carro, sentindo a mudança abrupta de pressão atmosférica. Ali, o ar era filtrado, cheirando a ozônio e pinho sintético. Nada de lixo. Nada de ferrugem. Apenas o silêncio opressor do dinheiro.
 
-— Perfeito — murmurou para si mesmo, verificando a Glock no coldre. — O jeito clássico.
+Ele caminhou até as portas automáticas, que se abriram com um suspiro hidráulico. O saguão era uma catedral de luz. O teto se perdia em uma altura vertiginosa, e as paredes eram telas gigantes exibindo paisagens de um mundo que não existia mais: florestas verdes, oceanos azuis, céu limpo.
 
-Entrar pela porta da frente estava fora de questão. O saguão da Aeterna tinha mais sensores biométricos que o Pentágono. Mas Maya tinha lhe dado uma chance. "Doca de serviço 4", ela dissera. "O sistema de reciclagem de ar ejeta resíduos a cada duas horas. Há uma janela de trinta segundos antes que os sensores térmicos reiniciem."
+— Detetive Moretti.
 
-Gabriel deslizou pelas sombras, o sobretudo pesado de água. O cheiro ali era diferente: ozônio purificado e plástico novo, mascarando o fedor da cidade. Ele encontrou a Doca 4. Uma comporta maciça de titânio sibilou, abrindo-se para expelir uma nuvem de vapor quente.
+A voz não veio de uma pessoa, mas do ar ao seu redor. Uma IA de recepção, onipresente.
 
-Ele entrou.
+Gabriel parou no centro do saguão, suas botas deixando marcas de lama no piso de mármore branco. Ele sabia que drones de limpeza já estavam a caminho antes mesmo de ele levantar o pé.
 
-O interior era um labirinto de tubos brancos e luzes clínicas. O silêncio era absoluto, perturbadoramente diferente do caos ruidoso das ruas. Gabriel avançou, seguindo o mapa esquemático que Maya projetara em seu relógio.
+— Quero falar com Elara Vance — disse ele, a voz rouca ecoando no vasto espaço vazio.
 
-— *Detectando intruso no Setor de Manutenção*, — uma voz sintética suave ecoou, sem alarmes estridentes, apenas uma constatação polida.
+— A Dra. Vance não recebe visitantes sem agendamento prévio. O tempo de espera atual para solicitações é de seis meses.
 
-Gabriel praguejou e apressou o passo, virando em um corredor que deveria levar aos elevadores de serviço. Mas o corredor não estava vazio.
+— Diga a ela que tenho algo que ela perdeu. — Gabriel bateu no bolso do casaco, onde a foto e a boneca pesavam. — Algo que saiu do laboratório dela antes da hora.
 
-No final dele, parado imóvel como uma estátua de cera, estava Kael.
+Houve uma pausa. As telas nas paredes piscaram por um milissegundo, a floresta verde sendo substituída por estática cinza antes de retornar.
 
-O chefe de segurança da Aeterna usava um terno preto que parecia absorver a luz. Seus óculos escuros escondiam os oculares cibernéticos, mas Gabriel podia sentir o peso do olhar infravermelho sobre ele.
+— Análise de padrão de voz concluída. Nível de estresse: Elevado. Batimentos cardíacos: Irregulares. Detetive, o senhor parece precisar de assistência médica. Gostaria que eu chamasse uma unidade de triagem?
 
-— Inspetor Moretti — a voz de Kael não tinha inflexão, era um som gerado por cordas vocais sintéticas. — Você está longe de casa.
+Gabriel riu, um som seco e sem humor.
 
-— Vim fazer uma entrega — disse Gabriel, mantendo a mão perto do coldre. — Uma intimação para a Dra. Vance.
+— Eu preciso de respostas, não de remédios.
 
-— A Dra. Vance não recebe visitas não agendadas. Especialmente de... funcionários públicos.
+Antes que a IA pudesse responder, um elevador privativo ao fundo do saguão se abriu. Gabriel levou a mão instintivamente ao coldre, mas parou. Não era segurança armada.
 
-Kael descruzou os braços. De suas mangas, lâminas finas e prateadas deslizaram com um som metálico suave, substituindo seus dedos.
+Era um terno de três peças, corte italiano, sorriso de tubarão e cabelos penteados com uma precisão geométrica.
 
-— Saia agora, e talvez você mantenha as mãos para segurar sua arma.
+— Gabriel? — A voz era familiar, carregada daquele carisma polido que Gabriel aprendera a desprezar.
 
-Gabriel não esperou. Ele sacou e disparou duas vezes, mirando no peito de Kael. As balas de ponta oca, projetadas para parar viciados em fúria, ricochetearam inofensivamente no terno de Kael. Tecido balístico de nível militar.
+Marco Moretti, seu irmão. O candidato favorito à prefeitura. O "Filho de Baía Cinzenta".
 
-Kael avançou. Ele não correu; ele flutuou, cobrindo a distância com uma velocidade inumana. Gabriel tentou mirar na cabeça, mas um golpe lateral das "mãos" de Kael cortou o ar e a arma de Gabriel voou longe, junto com metade da manga de seu sobretudo. Um corte fino ardeu em seu antebraço.
+Marco caminhou até ele, os sapatos de couro italiano estalando no mármore. Dois seguranças armados com rifles de pulso eletromagnético ficaram parados perto do elevador, observando.
 
-Gabriel recuou, tropeçando. Kael estava prestes a dar o golpe final quando as portas do elevador atrás dele se abriram.
+— O que você está fazendo aqui, Gabo? — Marco baixou o tom de voz, olhando para as botas sujas do irmão com desgosto indisfarçável. — E pelo amor de Deus, você está cheirando a café velho e esgoto.
 
-— Já chega, Kael.
+— Investigando um homicídio, Marco. Algo que você deveria se importar, já que sua plataforma é "Lei e Ordem".
 
-A voz era fria, mas carregava uma autoridade absoluta. Dra. Elara Vance saiu do elevador. Ela vestia branco, imaculada, como se nunca tivesse pisado no chão.
+Marco suspirou, passando a mão pelo rosto perfeitamente barbeado.
 
-— Dra. Vance — Gabriel ofegou, segurando o braço sangrando. — Seu cão de guarda é mal treinado.
+— Homicídio? Aqui? A Aeterna é a zona mais segura da cidade. Não morre ninguém aqui, Gabriel.
 
-Elara olhou para ele com um misto de tédio e pena.
+— Não aqui dentro. Mas o lixo que eles produzem acaba boiando lá embaixo. — Gabriel deu um passo à frente, invadindo o espaço pessoal do irmão. — O que *você* faz aqui? Reunião de doadores de campanha? Ou está vendendo o resto da cidade que eles ainda não compraram?
 
-— Ele é perfeitamente treinado, Inspetor. Ele não matou você porque eu ordenei que não o fizesse. Ainda.
+Os olhos de Marco endureceram. Por um segundo, a máscara do político caiu, revelando o irmão mais velho cansado e irritado.
 
-Ela se aproximou, ignorando o sangue que pingava no chão imaculado.
+— Estou garantindo o futuro, Gabriel. A Aeterna vai financiar a reconstrução dos diques da Zona Baixa. Estamos falando de salvar milhares de casas da próxima enchente.
 
-— Você está procurando fantasmas, Gabriel. O menino com as câmeras... foi um acidente lamentável. Um voluntário que não suportou o processo de... elevação.
+— A que custo? — Gabriel rosnou. — O que eles pediram em troca? Acesso aos dados biométricos? Direito de testar drogas na população dos abrigos?
 
-— Elevação? — Gabriel riu, um som seco. — Vocês arrancaram os olhos dele e o usaram como modem humano.
+— Você está paranoico. Como sempre. — Marco ajeitou a gravata. — Vá para casa. Tome um banho. E fique longe da Dra. Vance. Ela não é uma criminosa de rua que você pode intimidar.
 
-— O progresso exige sacrifícios. Seu pai entendia isso.
+— Ela é pior — retrucou Gabriel. — E se você está na cama com ela, Marco, então você também é.
 
-O mundo de Gabriel parou.
+Marco recuou, como se tivesse levado um tapa. Antes que pudesse responder, um dos seguranças tocou o ponto no ouvido e avançou.
 
-— Não fale dele.
+— Senhor Moretti, o transporte está pronto.
 
-— Dante era um homem de visão — continuou Elara, sorrindo levemente. — Ele sabia que Baía Cinzenta estava condenada. Ele queria salvar o que podia ser salvo. A mente, a essência. O corpo é apenas carne, Gabriel. Carne apodrece. Dados são eternos.
+Marco assentiu, recuperando a postura. Ele olhou para Gabriel uma última vez, com uma mistura de pena e desprezo.
 
-Ela fez um gesto para Kael, que recuou as lâminas e abriu caminho para a saída.
+— Não cave buracos que você não pode sair, irmãozinho. O Papai não está mais aqui para te tirar deles.
 
-— Vá para casa, Inspetor. Cuide do seu braço. E pare de cavar. Você pode não gostar do que vai encontrar no fundo do poço. Principalmente se descobrir que seu pai ajudou a cavá-lo.
+Gabriel assistiu Marco sair pelas portas giratórias, cercado por seus seguranças. A menção ao pai foi como uma facada nas costelas.
 
-Gabriel olhou para ela, o ódio queimando mais forte que a dor. Ele queria avançar, queria arrancar respostas à força, mas sabia que Kael o despedaçaria antes que ele desse dois passos.
+— Detetive Moretti.
 
-Ele pegou sua arma do chão e saiu, deixando um rastro de sangue no piso branco da torre de marfim. A semente da dúvida havia sido plantada, e era mais venenosa que qualquer chuva ácida.
+Gabriel se virou. Uma mulher estava parada na entrada do elevador de onde Marco saíra. Ela usava um jaleco branco impecável sobre uma roupa preta justa. Seus cabelos eram prateados, presos em um coque severo. Ela não parecia ter idade; sua pele era lisa demais, seus olhos claros demais.
+
+Dra. Elara Vance.
+
+Ao lado dela, uma figura que fez o estômago de Gabriel revirar. Um homem alto, magro como um esqueleto, vestindo um sobretudo de couro sintético. Seu rosto era coberto por uma máscara cirúrgica preta, e onde deveriam estar suas mãos, haviam luvas que escondiam, Gabriel sabia, instrumentos de precisão letais.
+
+Kael. O Cirurgião.
+
+— A IA me informou que você tem algo meu — disse Elara, sua voz suave como seda cortando vidro.
+
+Gabriel sorriu, a adrenalina finalmente substituindo o cansaço. Ele tinha conseguido a atenção dela.
+
+— Não é bem "seu", Doutora. Acho que pertence à família da vítima. Ou ao Estado.
+
+Kael deu um passo à frente, silencioso como uma sombra. Elara levantou a mão sutilmente, parando-o.
+
+— O Estado sou eu, Detetive. Pelo menos, a parte que importa. — Ela inclinou a cabeça, estudando-o como se ele fosse um espécime em uma lâmina de microscópio. — Você tem a tenacidade do seu pai. Espero que não tenha o mesmo destino.
+
+— Isso é uma ameaça?
+
+— É um diagnóstico. — Elara se virou para o elevador. — Kael, acompanhe o Detetive até a saída. Certifique-se de que ele não se perca... ou se machuque.
+
+O elevador se fechou, levando a rainha da torre para o céu. Gabriel ficou sozinho com o monstro.
+
+Kael não disse nada. Ele apenas apontou para a porta com a mão enluvada. Sob o couro, Gabriel jurou ouvir o zumbido de servos motores girando.
+
+Gabriel recuou, mantendo o contato visual. Ele sabia que não ganharia aquela luta. Não ali. Não agora.
+
+Ele saiu da Torre Aeterna para a chuva ácida, o encontro com Marco e a ameaça de Elara queimando em sua mente. Ele tinha a confirmação. A conexão era real. E agora, ele tinha um alvo nas costas.
+
+Ao entrar no carro, seu comunicador apitou. Uma mensagem de texto criptografada. Remetente desconhecido.
+
+*"Você tocou o sino, detetive. Agora todos os demônios ouviram. Encontre-me na Capela dos Esquecidos. Meia-noite. Vá sozinho."*
+
+Gabriel olhou para a torre branca brilhando no retrovisor. O jogo tinha começado.
