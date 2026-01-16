@@ -1,7 +1,7 @@
 # Arquivos do Departamento de Polícia de Baía Cinzenta: Dossiê de Indivíduos
 
 > **Nível de Acesso:** Confidencial
-> **Última Atualização:** 03:42 AM, durante a Tempestade "Kassandra"
+> **Última Atualização:** 08:15 AM, Pós-Apagão (Era da Rede)
 
 ---
 
@@ -16,27 +16,39 @@
 *   **Olhos:** Castanhos profundos, quase pretos. Cercados por olheiras tão escuras que parecem hematomas. O olhar é inquieto, varrendo constantemente o ambiente – um efeito colateral da insônia crônica, do vício severo em cafeína e de uma paranoia crescente de que está sendo perseguido.
 *   **Marcas Distintivas:** Mãos trêmulas devido ao consumo excessivo de café (toma cerca de 2 litros por dia) e privação de sono. Tem ódio mortal de cigarros, o cheiro o enjoa. Em contrapartida, carrega sempre o aroma sutil de vinho barato.
 *   **Vestuário:** Invariavelmente veste um sobretudo bege, manchado de fuligem e chuva ácida, sobre camisas sociais amarrotadas.
-*   **Histórico:** Entrou na polícia muito jovem, motivado pela morte do pai.
+*   **Histórico:** Entrou na polícia muito jovem, motivado pela morte do pai. Recentemente apelidado de "O Detetive do Apagão" pela mídia, após os eventos na Represa, um título que ele despreza.
 *   **Bens e Equipamento:** Dirige um Sedan Azul Metálico (Cobalt), seu "queridinho". Carrega sempre uma pistola Glock.
 *   **Hábitos:** Estuda casos e teorias até de madrugada, alimentando sua insônia.
 *   **Vícios:** Café (consumo extremo, gera ansiedade), vinho barato. Odeia cigarros.
 *   **Pontos Fortes:** Dedicação obsessiva ao trabalho (estuda até de madrugada), memória fotográfica para padrões (implícito na investigação), persistência.
 *   **Fraquezas:** Paranoia (sente-se perseguido), insônia, ansiedade química, falta de habilidades sociais, cinismo em relação à pobreza.
-*   **Perfil Psicológico:** Workaholic, solitário e bastante paranoico; sente frequentemente que alguém quer matá-lo. Sua obsessão principal é resolver o assassinato de seu pai. Possui uma visão cínica e dura sobre a pobreza: detesta mendigos e acredita que o excesso de auxílio governamental gerou uma população dependente e preguiçosa. Frequenta a Dra. Nise apenas pela conversa, sem interesse real em terapia.
+*   **Perfil Psicológico:** Workaholic, solitário e bastante paranoico. Após a destruição do Ecos, tornou-se ainda mais cínico, acreditando que a "liberdade" trouxe apenas um novo tipo de caos.
+
+---
+
+## Valéria "Val" Cruz
+
+*   **Idade:** 23 anos
+*   **Função:** Detetive Júnior / Especialista em Cibercrime e Análise de Redes.
+*   **Aparência:** Baixa e franzina. Seu cabelo é um corte *pixie* tingido com pigmentos holográficos que mudam de rosa para azul dependendo da luz. Possui implantes subdérmicos de LED nas maçãs do rosto que pulsam de acordo com seu humor (ou notificações).
+*   **Vestuário:** Jaquetas bomber sintéticas coloridas, calças táticas justas e tênis de cano alto com telas de LED. Sempre usa óculos de AR de última geração.
+*   **Personalidade:** Ansiosa, hiperativa e incapaz de manter contato visual físico por muito tempo (prefere a interface digital). Fala rápido, usando gírias da rede que irritam Gabo profundamente.
+*   **Vício:** "Néctar" e "Pulse", redes sociais neurais. Ela sofre de abstinência física se ficar offline por mais de uma hora.
+*   **Perfil:** Representa a nova geração de Baía Cinzenta. Enquanto Gabo resolve crimes no asfalto, Val resolve no código. Foi designada como parceira de Gabo para "modernizar" os métodos do detetive, uma relação puramente antagônica no início.
 
 ---
 
 ## Marco Moretti
 
 *   **Idade:** 35 anos
-*   **Função:** Vereador / Candidato a Prefeito.
+*   **Função:** Vereador / Líder do Movimento "Voz Livre".
 *   **Relação:** Irmão mais velho de Gabo.
 *   **Porte Físico:** Impecável. Bronzeado artificialmente, dentes clareados, postura treinada para comícios.
 *   **Cabelo:** O mesmo tom escuro da família, mas cortado e estilizado com produtos caros, sem um fio fora do lugar.
 *   **Olhos:** Carismáticos, mas calculistas. Sabe fazer contato visual que simula sinceridade.
-*   **Marcas Distintivas:** Usa o sobrenome "Moretti" e a memória do pai (o Comissário herói) como plataforma política, o que enfurece Gabo.
+*   **Marcas Distintivas:** Usa o sobrenome "Moretti" e a memória do pai (o Comissário herói) como plataforma política.
 *   **Vestuário:** Ternos italianos sob medida, broche da campanha sempre na lapela.
-*   **Perfil:** A ovelha "branca" da família. Enquanto Gabo mergulha na sujeira da cidade, Marco aperta a mão dos que a produzem. Ele prega "limpeza e ordem", mas seus financiadores são obscuros.
+*   **Perfil:** A ovelha "branca" da família. Após renunciar à candidatura de prefeito para evitar o escândalo da Aeterna, Marco se reinventou como um campeão da liberdade de expressão e dos direitos digitais, financiando influenciadores e controlando a narrativa pública. Gabo sabe que é apenas uma nova máscara para a velha corrupção.
 
 ---
 
@@ -88,6 +100,7 @@
 *   **Olhos:** Amendoados, escuros e penetrantes. Frequentemente ocultos por óculos de realidade aumentada (AR) de armação grossa e preta, refletindo linhas de código em verde âmbar.
 *   **Marcas Distintivas:** Próteses auditivas cibernéticas de nível militar em ambas as orelhas – placas de metal fosco que se conectam diretamente ao osso temporal, pulsando com uma luz fraca quando ativas. Tatuagens de circuitos percorrem seu pescoço e desaparecem sob a gola da roupa.
 *   **Vestuário:** Estilo *tech-wear* utilitário. Hoodies oversized pretos, calças cargo com múltiplos bolsos cheios de drives e ferramentas, e botas de combate com solas magnéticas.
+*   **Status Atual:** Atua como consultora freelancer após a queda da Aeterna, ajudando a reconstruir a infraestrutura da cidade, mas mantém contato próximo com Gabo.
 
 ---
 
@@ -112,6 +125,7 @@
 *   **Olhos:** Azul-gelo, frios e analíticos. Transmitem uma inteligência afiada e uma total falta de empatia.
 *   **Marcas Distintivas:** A pele é perfeita demais, pálida e luminosa, sugerindo tratamentos de rejuvenescimento caros e inacessíveis à plebe. Mãos longas e finas, sempre manicuradas.
 *   **Vestuário:** Alta costura minimalista. Tecidos sintéticos de última geração em tons de branco, prata ou preto carvão, que parecem repelir a sujeira. Joias discretas, mas que valem mais que o salário anual de um detetive.
+*   **Status:** Foragida.
 
 ---
 
@@ -124,6 +138,7 @@
 *   **Marcas Distintivas:** Suas mãos foram substituídas por instrumentos cirúrgicos retráteis de precisão. Ele não luta; ele desmonta seus oponentes anatomicamente.
 *   **Personalidade:** Não fala. Apenas executa ordens com uma eficiência robótica aterrorizante.
 *   **Vestuário:** Trajes de contenção estéreis ou ternos pretos impecáveis.
+*   **Status:** Em coma/custódia.
 
 ---
 

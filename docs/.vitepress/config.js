@@ -31,9 +31,14 @@ module.exports = {
         ]
       },
       {
-        text: 'Parte II: Ruído Branco',
+        text: 'Parte III: A Rede',
         items: [
-          { text: 'Capítulo 4: A Torre de Marfim', link: '/capitulo-4' },
+          { text: 'Capítulo 8: Ressaca Digital', link: '/capitulo-8' },
+          { text: 'Capítulo 9: Feed Infinito', link: '/capitulo-9' },
+          { text: 'Capítulo 10: A Fábrica de Sorrisos', link: '/capitulo-10' },
+          { text: 'Capítulo 11: Filtros de Realidade', link: '/capitulo-11' },
+          { text: 'Capítulo 12: Cancelamento', link: '/capitulo-12' },
+          { text: 'Capítulo 13: Shadowban', link: '/capitulo-13' },
         ]
       },
       {
