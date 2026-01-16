@@ -42,6 +42,14 @@ module.exports = {
         ]
       },
       {
+        text: 'Parte IV: O Jogo',
+        items: [
+          { text: 'Capítulo 14: Caçada ao Invisível', link: '/capitulo-14' },
+          { text: 'Capítulo 15: Protocolo de Extermínio', link: '/capitulo-15' },
+          { text: 'Capítulo 16: Zona Morta', link: '/capitulo-16' },
+        ]
+      },
+      {
         text: 'Arquivos',
         items: [
           { text: 'Dossiê de Personagens', link: '/personagens' }
