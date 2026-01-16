@@ -13,9 +13,69 @@
 *   **Altura:** 1,75m
 *   **Porte Físico:** Razoavelmente musculoso, mantido não por academia, mas pela tensão constante e a violência do trabalho. Ombros largos, mas perpetuamente tensos.
 *   **Cabelo:** Escuro, desgrenhado e oleoso. Ostenta uma barba cheia e mal aparada, salpicada de fios grisalhos precoces que também aparecem nas têmporas.
-*   **Olhos:** Castanhos profundos, quase pretos. Cercados por olheiras tão escuras que parecem hematomas. O olhar é inquieto, varrendo constantemente o ambiente – um efeito colateral da insônia crônica e do vício severo em cafeína.
-*   **Marcas Distintivas:** Mãos trêmulas devido ao consumo excessivo de café, que lhe causa crises de ansiedade severas e náuseas ocasionais. Uma cicatriz fina e pálida corta a sobrancelha esquerda. Tem ódio mortal de cigarros, o cheiro o enjoa. Em contrapartida, carrega sempre o aroma sutil de vinho barato, seu refúgio noturno.
-*   **Vestuário:** Invariavelmente veste um sobretudo bege, manchado de fuligem e chuva ácida, sobre camisas sociais amarrotadas. Diferente da maioria de seus colegas, não cheira a tabaco, mas a café forte e, ocasionalmente, a tanino envelhecido.
+*   **Olhos:** Castanhos profundos, quase pretos. Cercados por olheiras tão escuras que parecem hematomas. O olhar é inquieto, varrendo constantemente o ambiente – um efeito colateral da insônia crônica, do vício severo em cafeína e de uma paranoia crescente de que está sendo perseguido.
+*   **Marcas Distintivas:** Mãos trêmulas devido ao consumo excessivo de café (toma cerca de 2 litros por dia) e privação de sono. Tem ódio mortal de cigarros, o cheiro o enjoa. Em contrapartida, carrega sempre o aroma sutil de vinho barato.
+*   **Vestuário:** Invariavelmente veste um sobretudo bege, manchado de fuligem e chuva ácida, sobre camisas sociais amarrotadas.
+*   **Histórico:** Entrou na polícia muito jovem, motivado pela morte do pai.
+*   **Bens e Equipamento:** Dirige um Sedan Azul Metálico (Cobalt), seu "queridinho". Carrega sempre uma pistola Glock.
+*   **Hábitos:** Estuda casos e teorias até de madrugada, alimentando sua insônia.
+*   **Vícios:** Café (consumo extremo, gera ansiedade), vinho barato. Odeia cigarros.
+*   **Pontos Fortes:** Dedicação obsessiva ao trabalho (estuda até de madrugada), memória fotográfica para padrões (implícito na investigação), persistência.
+*   **Fraquezas:** Paranoia (sente-se perseguido), insônia, ansiedade química, falta de habilidades sociais, cinismo em relação à pobreza.
+*   **Perfil Psicológico:** Workaholic, solitário e bastante paranoico; sente frequentemente que alguém quer matá-lo. Sua obsessão principal é resolver o assassinato de seu pai. Possui uma visão cínica e dura sobre a pobreza: detesta mendigos e acredita que o excesso de auxílio governamental gerou uma população dependente e preguiçosa. Frequenta a Dra. Nise apenas pela conversa, sem interesse real em terapia.
+
+---
+
+## Marco Moretti
+
+*   **Idade:** 35 anos
+*   **Função:** Vereador / Candidato a Prefeito.
+*   **Relação:** Irmão mais velho de Gabo.
+*   **Porte Físico:** Impecável. Bronzeado artificialmente, dentes clareados, postura treinada para comícios.
+*   **Cabelo:** O mesmo tom escuro da família, mas cortado e estilizado com produtos caros, sem um fio fora do lugar.
+*   **Olhos:** Carismáticos, mas calculistas. Sabe fazer contato visual que simula sinceridade.
+*   **Marcas Distintivas:** Usa o sobrenome "Moretti" e a memória do pai (o Comissário herói) como plataforma política, o que enfurece Gabo.
+*   **Vestuário:** Ternos italianos sob medida, broche da campanha sempre na lapela.
+*   **Perfil:** A ovelha "branca" da família. Enquanto Gabo mergulha na sujeira da cidade, Marco aperta a mão dos que a produzem. Ele prega "limpeza e ordem", mas seus financiadores são obscuros.
+
+---
+
+## Helena Moretti
+
+*   **Idade:** 62 anos
+*   **Relação:** Mãe de Gabo, Marco e Clara.
+*   **Porte Físico:** Enfraquecida pela doença, movimenta-se com dificuldade e muitas vezes precisa de cadeira de rodas.
+*   **Cabelo:** Grisalho, mantido em um coque frouxo.
+*   **Olhos:** Cansados, mas com lampejos da antiga autoridade de uma matriarca.
+*   **Condição:** Sofre de diabetes em estágio avançado, exigindo medicação cara e constante monitoramento.
+*   **Perfil:** Uma figura que exige cuidados constantes, adicionando peso à vida pessoal já caótica de Gabo. Ela idolatra a memória do marido falecido, pressionando os filhos a honrarem seu nome.
+
+---
+
+## Clara Moretti
+
+*   **Idade:** 25 anos
+*   **Relação:** Irmã mais nova de Gabo e Marco.
+*   **Porte Físico:** Magra, vestida sempre com as últimas tendências da moda da Cidade Alta, mesmo que não possa pagar por elas.
+*   **Cabelo:** Loiro tingido (originalmente escuro), sempre mudando de estilo.
+*   **Olhos:** Inquietos e brilhantes, denunciando sua instabilidade química.
+*   **Vícios:** Compulsão severa por compras (Oniomania) como mecanismo de fuga.
+*   **Condição:** Sofre de surtos de psicose ocasionais, onde perde a conexão com a realidade e gasta fortunas que a família não tem.
+*   **Perfil:** A "caçula problema". É protegida por Marco (que paga suas dívidas para evitar escândalos) e fonte de preocupação constante para Gabo.
+
+---
+
+## Dra. Nise (Sobrenome Desconhecido)
+
+*   **Idade:** Indefinida (Aparenta 60 anos)
+*   **Função:** Psicóloga Credenciada do Departamento.
+*   **Etnia:** Mulher negra.
+*   **Porte Físico:** Frágil, curvada, mas com olhos que demonstram uma vitalidade assustadora.
+*   **Cabelo:** Branco como osso, curto e prático.
+*   **Olhos:** Cegos, cobertos por uma película leitosa. Ela "vê" através de sensores táteis nas pontas dos dedos e uma empatia quase sobrenatural.
+*   **Marcas Distintivas:** Sempre vista manipulando peças de relógios antigos enquanto fala. O tique-taque ritmado é a única coisa que quebra o silêncio de sua sala blindada contra tecnologia.
+*   **Vestuário:** Roupas de lã grossa e xales antigos, parecendo uma avó esquecida pelo tempo.
+*   **Perfil:** Atende policiais que não se adaptam aos psicólogos-IA do departamento. Ela serve como uma "confessora" para Gabo, que gosta de conversar com ela apesar de seu ceticismo.
 
 ---
 
@@ -55,16 +115,29 @@
 
 ---
 
-## Lívia (Sobrenome Redigido)
+## Kael "O Cirurgião"
+
+*   **Idade:** Desconhecida (aparenta 30-35)
+*   **Função:** Chefe de Segurança da Aeterna / Executor.
+*   **Porte Físico:** Alto e magro, quase esquelético, mas com músculos de aço sintético visíveis sob a pele translúcida nos braços.
+*   **Olhos:** Oculares cibernéticos multi-espectrais, brilhando em vermelho suave na escuridão. Nunca pisca.
+*   **Marcas Distintivas:** Suas mãos foram substituídas por instrumentos cirúrgicos retráteis de precisão. Ele não luta; ele desmonta seus oponentes anatomicamente.
+*   **Personalidade:** Não fala. Apenas executa ordens com uma eficiência robótica aterrorizante.
+*   **Vestuário:** Trajes de contenção estéreis ou ternos pretos impecáveis.
+
+---
+
+## Lívia Moretti
 
 *   **Idade:** 29 anos
 *   **Altura:** 1,70m
 *   **Porte Físico:** Magra, mas com uma resiliência silenciosa. Seus movimentos são suaves, contrastando com a brutalidade da cidade.
+*   **Profissão:** Jornalista.
 *   **Cabelo:** Castanho claro, natural, geralmente preso de forma prática para o trabalho.
-*   **Olhos:** Cor de mel, expressivos, que costumavam olhar para Gabriel com adoração e agora carregam uma tristeza resignada.
-*   **Marcas Distintivas:** Não possui implantes cibernéticos visíveis, uma raridade em Baía Cinzenta. Carrega uma pequena tatuagem de âncora no pulso esquerdo.
-*   **Vestuário:** Roupas civis sóbrias e confortáveis. Cardigans de lã e jeans, evitando os tecidos sintéticos brilhantes da moda atual.
-*   **Status:** Ex-esposa de Gabriel. A personificação da vida normal que ele perdeu.
+*   **Olhos:** Cor de mel, expressivos.
+*   **Marcas Distintivas:** Não possui implantes cibernéticos visíveis. Carrega uma pequena tatuagem de âncora no pulso esquerdo.
+*   **Status:** Ex-esposa (em processo de divórcio). Saiu de casa há 6 meses porque não suportava mais ser "a segunda opção" na vida de Gabo, perdendo sempre para os cadáveres e casos frios.
+*   **Vestuário:** Roupas civis sóbrias e confortáveis.
 
 ---
 
