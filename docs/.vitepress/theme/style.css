@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,300&family=Playfair+Display:wght@700&display=swap');
+
+:root {
+  --vp-font-family-base: "Merriweather", "Georgia", serif;
+  --vp-c-bg: #fdfbf7; /* Off-white, paper-like background */
+  --vp-c-text-1: #2c3e50; /* Dark blue-grey text */
+  --vp-c-brand: #8e44ad; /* Noir purple accent */
+}
+
+/* Dark mode overrides for noir feel */
+.dark {
+  --vp-c-bg: #1a1a1a;
+  --vp-c-text-1: #e0e0e0;
+}
+
+.vp-doc p {
+  text-align: justify;
+  line-height: 1.8;
+  font-size: 1.1rem;
+  margin-bottom: 1.5em;
+}
+
+.vp-doc h1 {
+  font-family: "Playfair Display", serif;
+  font-weight: 700;
+  border-bottom: 2px solid var(--vp-c-brand);
+  padding-bottom: 0.5rem;
+}
+
+.vp-doc h2, .vp-doc h3 {
+  font-family: "Playfair Display", serif;
+  margin-top: 2em;
+}
+
+.vp-doc blockquote {
+  border-left: 4px solid var(--vp-c-brand);
+  font-style: italic;
+  background: rgba(142, 68, 173, 0.1);
+  padding: 1rem;
+}
+
+/* Hide some technical elements to make it look more like a book */
+.edit-link, .last-updated {
+  display: none !important;
+}
+
+/* Add some padding for reading comfort */
+.content-container {
+  max-width: 800px !important;
+  margin: 0 auto;
+}
