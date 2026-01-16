@@ -2,4 +2,8 @@
 > app@1.0.0 docs:dev
 > vitepress dev docs
 
-sh: 1: vitepress: not found
+
+  vitepress v1.6.4
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
