@@ -10,7 +10,8 @@ module.exports = {
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Ler Agora', link: '/capitulo-1' },
-      { text: 'Personagens', link: '/personagens' }
+      { text: 'Personagens', link: '/personagens' },
+      { text: 'Sobre o Autor', link: '/sobre-o-autor' }
     ],
     sidebar: [
       {
@@ -52,7 +53,9 @@ module.exports = {
       {
         text: 'Arquivos',
         items: [
-          { text: 'Dossiê de Personagens', link: '/personagens' }
+          { text: 'Dossiê de Personagens', link: '/personagens' },
+          { text: 'Universo e Lore', link: '/universo' },
+          { text: 'Sobre o Autor', link: '/sobre-o-autor' }
         ]
       }
     ],
