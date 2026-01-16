@@ -42,16 +42,26 @@
 
 ## Helena Moretti
 
-*   **Relação:** Mãe de Gabo e Marco.
-*   **Condição:** Sofre de diabetes em estágio avançado.
-*   **Perfil:** Uma figura que exige cuidados constantes, adicionando peso à vida pessoal já caótica de Gabo.
+*   **Idade:** 62 anos
+*   **Relação:** Mãe de Gabo, Marco e Clara.
+*   **Porte Físico:** Enfraquecida pela doença, movimenta-se com dificuldade e muitas vezes precisa de cadeira de rodas.
+*   **Cabelo:** Grisalho, mantido em um coque frouxo.
+*   **Olhos:** Cansados, mas com lampejos da antiga autoridade de uma matriarca.
+*   **Condição:** Sofre de diabetes em estágio avançado, exigindo medicação cara e constante monitoramento.
+*   **Perfil:** Uma figura que exige cuidados constantes, adicionando peso à vida pessoal já caótica de Gabo. Ela idolatra a memória do marido falecido, pressionando os filhos a honrarem seu nome.
 
 ---
 
 ## Clara Moretti
 
-*   **Relação:** Irmã de Gabo e Marco.
-*   **Condição:** Sofre de surtos de psicose ocasionais e possui uma compulsão severa por compras, o que frequentemente drena os recursos da família.
+*   **Idade:** 25 anos
+*   **Relação:** Irmã mais nova de Gabo e Marco.
+*   **Porte Físico:** Magra, vestida sempre com as últimas tendências da moda da Cidade Alta, mesmo que não possa pagar por elas.
+*   **Cabelo:** Loiro tingido (originalmente escuro), sempre mudando de estilo.
+*   **Olhos:** Inquietos e brilhantes, denunciando sua instabilidade química.
+*   **Vícios:** Compulsão severa por compras (Oniomania) como mecanismo de fuga.
+*   **Condição:** Sofre de surtos de psicose ocasionais, onde perde a conexão com a realidade e gasta fortunas que a família não tem.
+*   **Perfil:** A "caçula problema". É protegida por Marco (que paga suas dívidas para evitar escândalos) e fonte de preocupação constante para Gabo.
 
 ---
 

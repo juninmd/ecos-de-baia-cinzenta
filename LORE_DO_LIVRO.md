@@ -65,6 +65,9 @@ A tentativa de digitalizar a consciência humana para criar uma força de trabal
 Uma injeção ocular que cria uma lente de realidade virtual biológica. Permite que o usuário reviva seus melhores momentos em um loop perfeito ("O Paraíso").
 *   **O Preço:** A droga utiliza o cérebro da pessoa como um nó de processamento para minerar dados e treinar IAs corporativas enquanto ela está "viajando". É uma combinação perversa de química, hardware e inteligência artificial.
 
+**O Incidente Incitante:**
+O corpo de um jovem ativista é encontrado na "Vila da Ferrugem". Ele não tem marcas de violência, mas seus olhos foram removidos cirurgicamente e substituídos por lentes de câmeras antigas. No bolso dele, uma foto de Gabriel quando criança, ao lado de seu pai.
+
 ---
 
 ## 6. Arco Narrativo
