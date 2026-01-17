@@ -19,7 +19,7 @@
 *   **Bens e Equipamento:**
     *   **Veículo:** Um Sedan Azul Metálico (Cobalt).
     *   **Arma de Serviço:** Pistola Glock.
-    *   **"A Solução Final":** No porta-malas do Cobalt, trancadas em um compartimento falso, ele carrega "Mara" (uma Bazuca modificada para ogivas de pulso eletromagnético/concussão) e "Vilha" (uma escopeta calibre 12 de cano serrado e tambor rotativo). Elas são seu último recurso para quando a diplomacia falha catastroficamente.
+    *   **[INFORMAÇÃO OCULTA / CONFIDENCIAL]:** No porta-malas do Cobalt, trancadas em um compartimento falso, ele carrega "Mara" (uma Bazuca modificada para ogivas de pulso eletromagnético/concussão) e "Vilha" (uma escopeta calibre 12 de cano serrado e tambor rotativo). Elas são seu último recurso para quando a diplomacia falha catastroficamente. *Nota: Esta informação não é de conhecimento público e não aparece nos relatórios oficiais.*
 *   **Gostos Pessoais:**
     *   **Comida:** Viciado em pizza. Quente, fria, de ontem ou da sarjeta. É o seu principal grupo alimentar.
     *   **Bebida:** Café (litros por dia) e vinho barato.
@@ -58,8 +58,9 @@
 *   **Idade Aparente:** 6 anos (Imutável).
 *   **Origem:** Fugitiva de um laboratório secreto da Aeterna Corp (A "Torre de Marfim"). Filha biológica (ou clone) de um antagonista poderoso do alto escalão da corporação ou governo.
 *   **Características:** Olhos negros e profundos. Carrega uma boneca de pano.
+*   **Histórico Recente:** Encontrada por Gabo em um orelhão na Zona Baixa e deixada sob custódia na delegacia (embora seu destino final permaneça incerto dada a corrupção local).
 *   **Poder/Maldição:** Resultado de experimentos genéticos com a Droga Lázaro. Ela não envelhece e possui uma conexão neural latente com "A Rede".
-*   **Relação com Gabo:** Ela vê em Gabo um protetor. Gabo sente uma necessidade instintiva e inexplicável de protegê-la, ligada a memórias reprimidas de seu passado.
+*   **Relação com Gabo:** Ela vê em Gabo um protetor. Gabo sente uma necessidade instintiva e inexplicável de protegê-la.
 
 ---
 

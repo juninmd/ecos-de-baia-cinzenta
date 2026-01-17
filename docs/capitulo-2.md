@@ -40,16 +40,24 @@ Ele avançou, a água pesada dificultando cada passo. O instinto policial gritav
 
 A menina finalmente virou a cabeça. Seus olhos encontraram os dele. Eram escuros, profundos, e carregavam uma serenidade aterrorizante que não pertencia a uma criança.
 
-Ela estendeu a mão que não segurava a boneca. Não para pedir ajuda, mas apontando. Apontando para o beco escuro atrás de Gabriel, de onde ele tinha acabado de vir.
+— Venha — disse Gabriel, estendendo a mão, surpreendendo-se com a própria gentileza.
 
-— Ele disse que a chuva traria você — a voz dela era fina, mas cortou o barulho da tempestade com uma clareza impossível.
+Para seu espanto, a menina obedeceu. Ela desceu do orelhão com uma agilidade silenciosa e segurou a mão dele. Seus dedos eram gelo puro.
 
-Gabriel girou nos calcanhares, a mão indo instintivamente para o coldre sob a axila.
+— Ele disse que a chuva traria você — a voz dela era fina, mas cortou o barulho da tempestade.
 
-O beco estava vazio. Apenas sombras e chuva.
+Gabriel sentiu um arrepio, mas não havia tempo para perguntas metafísicas. A chuva estava piorando.
 
-Quando ele se virou de volta para o orelhão, a cúpula estava vazia.
+— Vamos para o carro. Vou te levar para um lugar seguro.
 
-A menina tinha desaparecido.
+Ele a colocou no banco de trás do Cobalt, ligando o aquecedor no máximo. A menina abraçou a boneca e olhou para a janela, impassível.
 
-Apenas a boneca permanecia lá, caída na poça de lama, com seu único olho de botão encarando o céu tempestuoso de Baía Cinzenta.
+Gabriel dirigiu direto para o Distrito Policial. Não havia orfanatos abertos àquela hora, e os abrigos de emergência eram perigosos demais. A delegacia era o único lugar neutro.
+
+Ao chegar, ele a entregou aos cuidados da Oficial Marta, na recepção.
+
+— Cuide dela, Marta. Achei ela na Zona Baixa. Vou fazer o relatório depois.
+
+Gabriel olhou para a menina uma última vez antes de subir para o laboratório. Ela estava sentada na cadeira de plástico duro, balançando as pernas, observando-o com aqueles olhos antigos.
+
+Ele não sabia quem ela era, ou o que significava "ele disse que a chuva traria você", mas sabia que aquele não era o fim. Era apenas o começo de um novo problema.

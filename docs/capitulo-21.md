@@ -60,7 +60,7 @@ Eles não queriam apenas Lívia. Eles estavam recolhendo freneticamente os papé
 
 — Lívia!
 
-Gabo disparou. Derrubou um, mas eram muitos. Ele tentou correr para a varanda, pensando no porta-malas do carro lá embaixo, na "Mara" e na "Vilha" que poderiam resolver isso se ele tivesse tempo. Mas ele não tinha.
+Gabo disparou. Derrubou um, mas eram muitos. Ele tentou correr para a varanda, pensando no que deixara no carro lá embaixo, naquelas ferramentas pesadas que poderiam equilibrar o jogo. Mas estavam longe demais.
 
 Um dardo taser o atingiu.
 

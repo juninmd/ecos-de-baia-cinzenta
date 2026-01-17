@@ -22,7 +22,7 @@ Vargas riu, soltando a fumaça pela janela.
 
 Gabriel saiu do carro, ignorando o comentário. Naquela época, ele achava que Vargas era apenas cínico, não um traidor em treinamento. Mal sabia ele que Vargas já estava vendendo informações sobre as rotas de patrulha para as gangues da Zona Baixa.
 
-— Vamos a pé. E pare de reclamar — disse Gabriel, abrindo o porta-malas para verificar se a tranca falsa estava segura. Ninguém podia saber sobre a "Mara" e a "Vilha" lá dentro. Eram sua apólice de seguro contra dias piores.
+— Vamos a pé. E pare de reclamar — disse Gabriel, abrindo o porta-malas para verificar se o compartimento falso estava trancado. Ninguém podia saber sobre o que ele guardava ali. Era sua apólice de seguro contra dias piores, um segredo que ele pretendia manter enterrado até que o inferno congelasse.
 
 Eles caminharam sob a chuva. Ao chegarem à delegacia, Gabriel, distraído pela fome e pela irritação com Vargas, pisou em algo mole na calçada.
 
