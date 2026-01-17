@@ -9,20 +9,15 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Ler Agora', link: '/prologo' },
+      { text: 'Ler Agora', link: '/capitulo-0' },
       { text: 'Personagens', link: '/personagens' },
       { text: 'Sobre o Autor', link: '/sobre-o-autor' }
     ],
     sidebar: [
       {
-        text: 'Prólogo',
-        items: [
-          { text: 'Prólogo: A Queda', link: '/prologo' },
-        ]
-      },
-      {
         text: 'Parte I: A Chuva',
         items: [
+          { text: 'Capítulo 0: A Queda', link: '/capitulo-0' },
           { text: 'Capítulo 1: Olhos de Vidro', link: '/capitulo-1' },
           { text: 'Capítulo 2: Náufragos de Concreto', link: '/capitulo-2' },
           { text: 'Capítulo 3: O Fantasma da Máquina', link: '/capitulo-3' },

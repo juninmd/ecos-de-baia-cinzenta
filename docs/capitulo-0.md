@@ -1,4 +1,4 @@
-# Prólogo: A Queda
+# Capítulo 0: A Queda
 
 A chuva em Baía Cinzenta não lavava nada; apenas deixava a sujeira mais escorregadia.
 
