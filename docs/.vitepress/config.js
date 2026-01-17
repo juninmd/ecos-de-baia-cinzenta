@@ -51,6 +51,12 @@ module.exports = {
         ]
       },
       {
+        text: 'Parte V: Ecos',
+        items: [
+          { text: 'Capítulo 17: Interlúdio - O Dia em que Tudo Deu Errado', link: '/capitulo-17' },
+        ]
+      },
+      {
         text: 'Arquivos',
         items: [
           { text: 'Dossiê de Personagens', link: '/personagens' },
