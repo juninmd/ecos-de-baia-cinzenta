@@ -1,105 +1,111 @@
-# Capítulo 4: A Torre de Marfim
+# Capítulo 4: Cães de Guarda
 
-A chuva não tocava a Torre Aeterna. Um campo eletrostático invisível, zumbindo em uma frequência que fazia os dentes de Gabriel doerem, vaporizava cada gota dez metros antes que ela pudesse manchar o vidro imaculado e o aço branco do edifício. Era um monumento à arrogância, erguido no centro de um lago artificial de água cristalina — provavelmente mais cara que a vida de todos os habitantes da Zona Baixa somados.
+A Torre Aeterna não era apenas um prédio; era um insulto. Uma agulha de vidro e aço branco que perfurava o céu cinzento, erguendo-se sobre a miséria de Baía Cinzenta como um dedo médio estendido para Deus.
 
-Gabriel estacionou o *Cobalt* na vaga de deficientes, ignorando o holograma de advertência que piscava em vermelho furioso. Ele saiu do carro, sentindo a mudança abrupta de pressão atmosférica. Ali, o ar era filtrado, cheirando a ozônio e pinho sintético. Nada de lixo. Nada de ferrugem. Apenas o silêncio opressor do dinheiro.
+Gabriel estacionou o *Cobalt* na base da rampa de acesso. O contraste era brutal: seu carro, amassado e coberto de fuligem, parecia uma mancha de óleo no pavimento imaculado da entrada corporativa.
 
-Ele caminhou até as portas automáticas, que se abriram com um suspiro hidráulico. O saguão era uma catedral de luz. O teto se perdia em uma altura vertiginosa, e as paredes eram telas gigantes exibindo paisagens de um mundo que não existia mais: florestas verdes, oceanos azuis, céu limpo.
+Não havia porteiros. Apenas drones de segurança silenciosos que flutuavam a três metros do chão, suas lentes escaneando Gabriel com luzes vermelhas hostis.
 
-— Detetive Moretti.
+— *Acesso restrito. Área privada. Retorne imediatamente ou medidas de contenção serão aplicadas.*
 
-A voz não veio de uma pessoa, mas do ar ao seu redor. Uma IA de recepção, onipresente.
+A voz sintética veio de todos os lugares ao mesmo tempo.
 
-Gabriel parou no centro do saguão, suas botas deixando marcas de lama no piso de mármore branco. Ele sabia que drones de limpeza já estavam a caminho antes mesmo de ele levantar o pé.
+— Medidas de contenção — murmurou Gabriel, ajeitando o coldre sob o casaco. — Vamos ver.
 
-— Quero falar com Elara Vance — disse ele, a voz rouca ecoando no vasto espaço vazio.
+Ele caminhou até as portas de vidro. Elas não se abriram.
 
-— A Dra. Vance não recebe visitantes sem agendamento prévio. O tempo de espera atual para solicitações é de seis meses.
+— Detetive Gabriel Moretti. DPBC. Estou aqui para ver Elara Vance.
 
-— Diga a ela que tenho algo que ela perdeu. — Gabriel bateu no bolso do casaco, onde a foto e a boneca pesavam. — Algo que saiu do laboratório dela antes da hora.
+— *A Dra. Vance não recebe visitantes sem agendamento. O próximo horário disponível é em 2045. Tenha um bom dia.*
 
-Houve uma pausa. As telas nas paredes piscaram por um milissegundo, a floresta verde sendo substituída por estática cinza antes de retornar.
+Gabriel sacou o distintivo e o pressionou contra o vidro, sabendo que era inútil.
 
-— Análise de padrão de voz concluída. Nível de estresse: Elevado. Batimentos cardíacos: Irregulares. Detetive, o senhor parece precisar de assistência médica. Gostaria que eu chamasse uma unidade de triagem?
+— Eu tenho um mandado! — mentiu.
 
-Gabriel riu, um som seco e sem humor.
+— *Mentira detectada. Batimentos cardíacos elevados. Nível de ameaça: Baixo.*
 
-— Eu preciso de respostas, não de remédios.
+Gabriel socou o vidro. O material nem vibrou.
 
-Antes que a IA pudesse responder, um elevador privativo ao fundo do saguão se abriu. Gabriel levou a mão instintivamente ao coldre, mas parou. Não era segurança armada.
+Foi então que as portas laterais se abriram, e um grupo de pessoas saiu. Eram homens e mulheres de terno, rindo, segurando taças de champanhe. No centro deles, radiante e perfeitamente penteado, estava Marco Moretti.
 
-Era um terno de três peças, corte italiano, sorriso de tubarão e cabelos penteados com uma precisão geométrica.
+Seu irmão.
 
-— Gabriel? — A voz era familiar, carregada daquele carisma polido que Gabriel aprendera a desprezar.
+Gabriel correu antes que os drones pudessem reagir, interceptando o grupo.
 
-Marco Moretti, seu irmão. O candidato favorito à prefeitura. O "Filho de Baía Cinzenta".
+— Marco!
 
-Marco caminhou até ele, os sapatos de couro italiano estalando no mármore. Dois seguranças armados com rifles de pulso eletromagnético ficaram parados perto do elevador, observando.
+O riso morreu. Marco parou, o sorriso político congelando no rosto ao ver o irmão encharcado e furioso.
 
-— O que você está fazendo aqui, Gabo? — Marco baixou o tom de voz, olhando para as botas sujas do irmão com desgosto indisfarçável. — E pelo amor de Deus, você está cheirando a café velho e esgoto.
+— Gabriel? — Marco fez um gesto discreto, e dois seguranças humanos, armários em ternos pretos, deram um passo à frente. — O que você está fazendo aqui? Você parece um mendigo.
 
-— Investigando um homicídio, Marco. Algo que você deveria se importar, já que sua plataforma é "Lei e Ordem".
+— Estou trabalhando, Marco. Algo que você esqueceu como se faz. — Gabriel apontou para a torre. — Sua amiga Elara está encobrindo um homicídio. E um ataque cibernético à delegacia.
 
-Marco suspirou, passando a mão pelo rosto perfeitamente barbeado.
+Os doadores de campanha de Marco cochicharam, chocados. Marco agarrou o braço de Gabriel e o puxou para longe do grupo, com uma força surpreendente.
 
-— Homicídio? Aqui? A Aeterna é a zona mais segura da cidade. Não morre ninguém aqui, Gabriel.
+— Baixe o tom — sibilou Marco. — Você tem ideia de quem são essas pessoas? Investidores. Gente que vai salvar essa cidade.
 
-— Não aqui dentro. Mas o lixo que eles produzem acaba boiando lá embaixo. — Gabriel deu um passo à frente, invadindo o espaço pessoal do irmão. — O que *você* faz aqui? Reunião de doadores de campanha? Ou está vendendo o resto da cidade que eles ainda não compraram?
+— Gente que vai comprar o que sobrou dela. — Gabriel se soltou. — Me coloque lá dentro, Marco. Agora.
 
-Os olhos de Marco endureceram. Por um segundo, a máscara do político caiu, revelando o irmão mais velho cansado e irritado.
+— Você está louco. A Dra. Vance é intocável. E francamente, Gabo, você é uma vergonha para o nome da família aparecendo assim. O papai...
 
-— Estou garantindo o futuro, Gabriel. A Aeterna vai financiar a reconstrução dos diques da Zona Baixa. Estamos falando de salvar milhares de casas da próxima enchente.
+— Não fale dele! — Gabriel empurrou Marco.
 
-— A que custo? — Gabriel rosnou. — O que eles pediram em troca? Acesso aos dados biométricos? Direito de testar drogas na população dos abrigos?
+Foi um erro.
 
-— Você está paranoico. Como sempre. — Marco ajeitou a gravata. — Vá para casa. Tome um banho. E fique longe da Dra. Vance. Ela não é uma criminosa de rua que você pode intimidar.
+Antes que Marco pudesse se desequilibrar, uma sombra se materializou entre eles. Não, não uma sombra. Um homem.
 
-— Ela é pior — retrucou Gabriel. — E se você está na cama com ela, Marco, então você também é.
+Alto, esguio, vestido com couro cirúrgico preto. Ele se moveu com uma velocidade que não era natural. Uma mão enluvada agarrou o pulso de Gabriel, e ele sentiu uma pressão esmagadora, como se seu braço estivesse em uma morsa hidráulica.
 
-Marco recuou, como se tivesse levado um tapa. Antes que pudesse responder, um dos seguranças tocou o ponto no ouvido e avançou.
+Gabriel tentou um golpe de Hapkido, uma torção de articulação, mas foi como tentar torcer uma barra de ferro. O homem o levantou do chão apenas pelo pulso, torcendo-o levemente. Gabriel gritou, seus joelhos dobrando.
 
-— Senhor Moretti, o transporte está pronto.
+— Kael, não! — gritou Marco.
 
-Marco assentiu, recuperando a postura. Ele olhou para Gabriel uma última vez, com uma mistura de pena e desprezo.
+O homem — Kael, "O Cirurgião" — parou. Ele olhou para Gabriel com olhos que eram apenas fendas escuras em uma máscara cirúrgica. Ele não respirava. Não havia som de respiração.
 
-— Não cave buracos que você não pode sair, irmãozinho. O Papai não está mais aqui para te tirar deles.
+— Solte ele — ordenou uma voz feminina, vindo do alto da escadaria.
 
-Gabriel assistiu Marco sair pelas portas giratórias, cercado por seus seguranças. A menção ao pai foi como uma facada nas costelas.
+Elara Vance desceu os degraus como se flutuasse. Ela usava branco, imaculada, uma deusa descendo ao inferno para visitar os mortais.
 
-— Detetive Moretti.
+Kael soltou Gabriel, que caiu de joelhos, segurando o pulso dolorido.
 
-Gabriel se virou. Uma mulher estava parada na entrada do elevador de onde Marco saíra. Ela usava um jaleco branco impecável sobre uma roupa preta justa. Seus cabelos eram prateados, presos em um coque severo. Ela não parecia ter idade; sua pele era lisa demais, seus olhos claros demais.
+— Detetive Moretti — disse Elara, parando a uma distância segura. — Seu irmão fala muito de você. Diz que você é... apaixonado.
 
-Dra. Elara Vance.
+— E você é uma hacker e cúmplice de assassinato — grunhiu Gabriel, levantando-se com dificuldade.
 
-Ao lado dela, uma figura que fez o estômago de Gabriel revirar. Um homem alto, magro como um esqueleto, vestindo um sobretudo de couro sintético. Seu rosto era coberto por uma máscara cirúrgica preta, e onde deveriam estar suas mãos, haviam luvas que escondiam, Gabriel sabia, instrumentos de precisão letais.
+Elara riu, um som cristalino.
 
-Kael. O Cirurgião.
+— Acusações graves. Tem provas?
 
-— A IA me informou que você tem algo meu — disse Elara, sua voz suave como seda cortando vidro.
+— Tenho uma foto. E um cadáver com olhos de câmera que transmitiam para o seu servidor.
 
-Gabriel sorriu, a adrenalina finalmente substituindo o cansaço. Ele tinha conseguido a atenção dela.
+O sorriso de Elara desapareceu por uma fração de segundo.
 
-— Não é bem "seu", Doutora. Acho que pertence à família da vítima. Ou ao Estado.
+— Tecnologia roubada, certamente. Aeterna é vítima de pirataria industrial o tempo todo.
 
-Kael deu um passo à frente, silencioso como uma sombra. Elara levantou a mão sutilmente, parando-o.
+Ela se aproximou, invadindo o espaço pessoal de Gabriel. Ela cheirava a frio e antisséptico.
 
-— O Estado sou eu, Detetive. Pelo menos, a parte que importa. — Ela inclinou a cabeça, estudando-o como se ele fosse um espécime em uma lâmina de microscópio. — Você tem a tenacidade do seu pai. Espero que não tenha o mesmo destino.
+— Ouça com atenção, Detetive. Você é um homem pequeno tentando derrubar uma montanha com uma colher. Volte para sua delegacia úmida. Volte para seus casos frios. Deixe o futuro para quem tem estômago para construí-lo.
 
-— Isso é uma ameaça?
+— O futuro construído sobre cadáveres não dura muito — retrucou Gabriel.
 
-— É um diagnóstico. — Elara se virou para o elevador. — Kael, acompanhe o Detetive até a saída. Certifique-se de que ele não se perca... ou se machuque.
+— Ah, dura — sussurrou ela. — As pirâmides duraram.
 
-O elevador se fechou, levando a rainha da torre para o céu. Gabriel ficou sozinho com o monstro.
+Ela se virou para Kael.
 
-Kael não disse nada. Ele apenas apontou para a porta com a mão enluvada. Sob o couro, Gabriel jurou ouvir o zumbido de servos motores girando.
+— Tire esse lixo da minha entrada.
 
-Gabriel recuou, mantendo o contato visual. Ele sabia que não ganharia aquela luta. Não ali. Não agora.
+Kael deu um passo à frente. Marco interveio, colocando-se entre o irmão e o monstro.
 
-Ele saiu da Torre Aeterna para a chuva ácida, o encontro com Marco e a ameaça de Elara queimando em sua mente. Ele tinha a confirmação. A conexão era real. E agora, ele tinha um alvo nas costas.
+— Já chega, Elara. Ele vai embora. — Marco olhou para Gabriel, os olhos implorando. — Vá, Gabo. Por favor. Antes que eu não possa mais te proteger.
 
-Ao entrar no carro, seu comunicador apitou. Uma mensagem de texto criptografada. Remetente desconhecido.
+Gabriel olhou para o trio: o político corrupto, a cientista louca e o monstro mecânico. A Trindade de Baía Cinzenta.
 
-*"Você tocou o sino, detetive. Agora todos os demônios ouviram. Encontre-me na Capela dos Esquecidos. Meia-noite. Vá sozinho."*
+— Isso não acabou — disse Gabriel, cuspindo sangue no chão de mármore branco.
 
-Gabriel olhou para a torre branca brilhando no retrovisor. O jogo tinha começado.
+Ele mancou até o carro. Enquanto ligava o motor, seu comunicador no painel piscou. Uma mensagem de texto. Sem remetente.
+
+*"Bela performance, Detetive. Mas você está latindo para a árvore errada. Se quiser a raiz do problema, vá ao Cemitério dos Esquecidos. Meia-noite. Venha sozinho, ou a próxima 'arte' que você encontrar será a sua ex-esposa."*
+
+Gabriel sentiu o sangue gelar. Lívia.
+
+Ele olhou para a Torre Aeterna no retrovisor uma última vez. A guerra tinha começado, e ele já estava perdendo.
