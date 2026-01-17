@@ -2,7 +2,7 @@
 
 A chuva não tocava a Torre Aeterna. Um campo eletrostático invisível, zumbindo em uma frequência que fazia os dentes de Gabriel doerem, vaporizava cada gota dez metros antes que ela pudesse manchar o vidro imaculado e o aço branco do edifício. Era um monumento à arrogância, erguido no centro de um lago artificial de água cristalina — provavelmente mais cara que a vida de todos os habitantes da Zona Baixa somados.
 
-Gabriel estacionou o *Interceptor* na vaga de deficientes, ignorando o holograma de advertência que piscava em vermelho furioso. Ele saiu do carro, sentindo a mudança abrupta de pressão atmosférica. Ali, o ar era filtrado, cheirando a ozônio e pinho sintético. Nada de lixo. Nada de ferrugem. Apenas o silêncio opressor do dinheiro.
+Gabriel estacionou o *Cobalt* na vaga de deficientes, ignorando o holograma de advertência que piscava em vermelho furioso. Ele saiu do carro, sentindo a mudança abrupta de pressão atmosférica. Ali, o ar era filtrado, cheirando a ozônio e pinho sintético. Nada de lixo. Nada de ferrugem. Apenas o silêncio opressor do dinheiro.
 
 Ele caminhou até as portas automáticas, que se abriram com um suspiro hidráulico. O saguão era uma catedral de luz. O teto se perdia em uma altura vertiginosa, e as paredes eram telas gigantes exibindo paisagens de um mundo que não existia mais: florestas verdes, oceanos azuis, céu limpo.
 

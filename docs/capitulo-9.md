@@ -62,7 +62,7 @@ Valéria caminhou até o computador central do estúdio.
 
 Ela conectou um cabo de seu pulso diretamente na máquina. Seus olhos ficaram brancos enquanto ela entrava em transe de dados.
 
-Gabriel esperou, acendendo um cigarro imaginário (ele tinha parado, mas o hábito fantasma persistia).
+Gabriel esperou, tamborilando os dedos no coldre vazio (um tique nervoso que substituía o sono).
 
 — Achei — sussurrou Valéria, voltando a si com um suspiro. — Fragmentos de cache. Kiko estava visitando um lugar chamado "A Fábrica de Sorrisos". Fica no Setor 4.
 
