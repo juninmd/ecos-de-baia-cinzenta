@@ -9,7 +9,7 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Ler Agora', link: '/capitulo-0' },
+      { text: 'Ler Agora', link: '/capitulo-1' },
       { text: 'Personagens', link: '/personagens' },
       { text: 'Sobre o Autor', link: '/sobre-o-autor' }
     ],
@@ -17,7 +17,6 @@ module.exports = {
       {
         text: 'Parte I: A Chuva',
         items: [
-          { text: 'Capítulo 0: A Queda', link: '/capitulo-0' },
           { text: 'Capítulo 1: Olhos de Vidro', link: '/capitulo-1' },
           { text: 'Capítulo 2: Náufragos de Concreto', link: '/capitulo-2' },
           { text: 'Capítulo 3: O Fantasma da Máquina', link: '/capitulo-3' },
@@ -55,6 +54,7 @@ module.exports = {
         text: 'Parte V: Ecos',
         items: [
           { text: 'Capítulo 17: Interlúdio - O Dia em que Tudo Deu Errado', link: '/capitulo-17' },
+          { text: 'Capítulo 18: A Queda', link: '/capitulo-18' },
         ]
       },
       {

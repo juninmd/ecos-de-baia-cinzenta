@@ -7,3 +7,11 @@
 
   ➜  Local:   http://localhost:5173/
   ➜  Network: use --host to expose
+2:25:57 AM [vitepress] hmr update /capitulo-0.md
+2:26:16 AM [vitepress] docs/.vitepress/config.js changed, restarting server...
+
+
+  vitepress v1.6.4
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
