@@ -7,7 +7,7 @@
 
 ## Gabriel "Gabo" Moretti
 
-![Gabriel "Gabo" Moretti](/gabo.webp)
+![Gabriel "Gabo" Moretti](/gabo.jpg)
 
 *   **Idade:** 30 anos
 *   **Altura:** 1,75m
@@ -31,7 +31,7 @@
 
 ## Valéria "Val" Cruz
 
-![Valéria "Val" Cruz](/val.jpg)
+![Valéria "Val" Cruz](/val.png)
 
 *   **Idade:** 23 anos
 *   **Altura:** 1,60m
@@ -54,7 +54,7 @@
 
 ## Roberto Miranda (O Gerente)
 
-![Roberto Miranda](/roberto.jpg)
+![Roberto Miranda](/miranda.jpg)
 
 *   **Idade:** 34 anos
 *   **Altura:** 1,78m
@@ -79,6 +79,8 @@
 ---
 
 ## Kael "O Cirurgião"
+
+![Cirurgião](/cirurgiao.jpg)
 
 *   **Idade:** Desconhecida
 *   **Descrição:** Um ciborgue de combate sem fala, leal apenas à Dra. Elara Vance.
@@ -114,9 +116,82 @@
 *   **Legado:** Sua morte revelou a existência da "Fábrica de Sorrisos" e do esquema de manipulação mental em massa.
 
 ---
+![Cirurgião](/marco-moretti.jpg)
+
+*   **Idade:** 35 anos
+*   **Altura:** 1,80m
+*   **Porte Físico:** Impecável, moldado em academias privadas. Postura de líder, sempre ereto e confiante.
+*   **Cabelo:** Castanho escuro, perfeitamente cortado e fixado com gel caro. Nem um fio fora do lugar.
+*   **Olhos:** Castanhos como os de Gabo, mas sem as olheiras. Brilham com uma simpatia calculada.
+*   **Marcas Distintivas:** O sorriso de "campanha eleitoral" que nunca vacila, mesmo quando está mentindo.
+*   **Vestuário:** Ternos italianos sob medida, relógios de luxo e sapatos que nunca tocam a lama de Baía Cinzenta.
+*   **Bens e Equipamento:**
+    *   **Recursos:** Acesso ilimitado a fundos de campanha e uma frota de carros blindados.
+    *   **Segurança:** Sempre acompanhado por dois guarda-costas da Aeterna.
+*   **Gostos Pessoais:**
+    *   **Ambição:** Poder. Ele quer ser o Prefeito que "salvou" a cidade, custe o que custar.
+*   **Perfil Psicológico:** Narcisista e pragmático. Marco acredita que os fins justificam os meios, mesmo que os meios envolvam vender a alma da cidade para corporações.
+*   **Função:** Candidato a Prefeito / Irmão de Gabo.
+*   **Histórico:** O irmão mais velho que seguiu o caminho "limpo". Enquanto Gabo mergulhava no submundo para resolver crimes, Marco escalava a hierarquia social. Eles não se falam, exceto através de advogados ou ameaças veladas.
+
+
+![Vance](/elara-vance.jpg)
+
+*   **Idade:** Indefinida (Aparenta 40 anos graças a tratamentos genéticos)
+*   **Altura:** 1,75m
+*   **Porte Físico:** Elegante e escultural. Move-se com a precisão de um felino predador.
+*   **Cabelo:** Prateado, liso e longo, geralmente preso em penteados complexos que lembram coroas.
+*   **Olhos:** Azul gelo, frios e analíticos. Dizem que ela pode ver seus batimentos cardíacos sem aparelhos.
+*   **Marcas Distintivas:** Pele perfeita, quase translúcida. Nunca transpira.
+*   **Vestuário:** Vestidos de alta costura futurista, geralmente em branco ou prata, que contrastam com a sujeira da cidade.
+*   **Bens e Equipamento:**
+    *   **Império:** Controla a Aeterna Corp, o que significa que ela é dona da água, da luz e da internet da cidade.
+*   **Gostos Pessoais:**
+    *   **Filosofia:** Transumanismo. Acredita que a biologia humana é falha e deve ser superada pela tecnologia.
+*   **Perfil Psicológico:** Sociopata funcional. Elara não vê pessoas, vê dados e recursos. Para ela, sofrimento é apenas um bug no sistema.
+*   **Função:** CEO da Aeterna Corp / Antagonista Principal.
+*   **Histórico:** Uma cientista brilhante que tomou o controle da Aeterna em um golpe corporativo silencioso. Ela é a arquiteta por trás do Projeto Ecos e da Droga Lázaro.
+
+### Capitão Jonas Vilar
+
+![Jonas](/capitao-jonas.jpg)
+
+*   **Idade:** 58 anos
+*   **Altura:** 1,82m
+*   **Porte Físico:** Robusto, começando a ceder à idade e ao estresse. Ombros largos que carregam o peso do departamento.
+*   **Cabelo:** Grisalho, cortado em estilo militar, mas rareando no topo.
+*   **Olhos:** Cansados, cercados por rugas de preocupação. Olhos de quem já viu tudo e não gostou de nada.
+*   **Marcas Distintivas:** Voz rouca de fumante (embora esteja tentando parar). Uma cicatriz antiga no queixo.
+*   **Vestuário:** Camisas de uniforme engomadas, mas puídas nas golas. Distintivo sempre polido.
+*   **Bens e Equipamento:**
+    *   **Arma:** Um revólver clássico .44 Magnum que ele se recusa a trocar por armas de energia.
+*   **Gostos Pessoais:**
+    *   **Vício:** Uísque barato escondido na gaveta de baixo.
+*   **Perfil Psicológico:** Resiliente e pragmático. Vilar é um homem bom em um sistema ruim. Ele faz concessões morais para manter a delegacia aberta, o que o tortura diariamente.
+*   **Função:** Chefe do Departamento de Polícia.
+*   **Histórico:** Antigo parceiro e melhor amigo de Dante Moretti. Ele protege Gabo por culpa e lealdade à memória do pai, mas está chegando ao limite do que pode encobrir.
 
 ## Comissário Dante Moretti
+
+![dante](/comissario-dante-moretti.jpg)
 
 *   **Idade:** Falecido (ou desaparecido) há 15 anos.
 *   **Status Atual:** Incerto.
 *   **Lenda:** O pai de Gabo. Seu túmulo foi encontrado vazio. Mensagens enigmáticas assinadas por "D." têm guiado Gabo, sugerindo que sua consciência (ou um backup dela) pode estar ativa na Rede, ou que ele nunca morreu de verdade. Ele é a peça central do mistério do "Gamemaster".
+*   **Idade:** Despareceu aos 45 anos (Teria 60 hoje)
+*   **Altura:** 1,85m
+*   **Porte Físico:** Na época, imponente e forte. A imagem do policial herói.
+*   **Cabelo:** Preto, sempre penteado para trás.
+*   **Olhos:** Iguais aos de Gabo, mas cheios de uma determinação que Gabo luta para encontrar.
+*   **Marcas Distintivas:** Um bigode grosso e bem cuidado que se tornou símbolo da polícia na sua época.
+*   **Vestuário:** Sobretudo preto e chapéu fedora (o estilo que Gabo tenta imitar, sem sucesso).
+*   **Bens e Equipamento:**
+    *   **Legado:** Seus diários criptografados são o mapa para desvendar a conspiração atual.
+*   **Gostos Pessoais:**
+    *   **Justiça:** Acreditava na lei acima de tudo, até descobrir que a lei estava à venda.
+*   **Perfil Psicológico:** Incorruptível e idealista, o que acabou sendo sua sentença de morte.
+*   **Função:** O Fantasma / A Inspiração.
+*   **Histórico:** O maior detetive que Baía Cinzenta já viu. Sua morte "acidental" em uma explosão industrial é o evento incitante de toda a trama. Ele descobriu o Projeto Ecos antes de qualquer um, e pagou o preço máximo.
+
+# A elite
+![elite](/elite.jpg)
