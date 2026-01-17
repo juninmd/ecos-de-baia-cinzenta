@@ -61,6 +61,17 @@ module.exports = {
         ]
       },
       {
+        text: 'Parte VI: A Torre',
+        items: [
+          { text: 'Capítulo 22: O Mapa da Alma', link: '/capitulo-22' },
+          { text: 'Capítulo 23: Ratos e Reis', link: '/capitulo-23' },
+          { text: 'Capítulo 24: A Galeria dos Deformados', link: '/capitulo-24' },
+          { text: 'Capítulo 25: Elevador para o Inferno', link: '/capitulo-25' },
+          { text: 'Capítulo 26: A Sala dos Espelhos', link: '/capitulo-26' },
+          { text: 'Capítulo 27: O Pai, O Filho e a Máquina', link: '/capitulo-27' },
+        ]
+      },
+      {
         text: 'Arquivos',
         items: [
           { text: 'Dossiê de Personagens', link: '/personagens' },
