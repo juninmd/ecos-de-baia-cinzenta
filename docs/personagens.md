@@ -203,3 +203,17 @@
 *   **Marcas Distintivas:** Segura obsessivamente uma boneca de pano caolha e sem um braço. Sua presença parece estar ligada a eventos inexplicáveis.
 *   **Vestuário:** Um vestido branco encardido e encharcado, inadequado para o clima tóxico.
 *   **Status:** Desconhecido. Possível testemunha ou mensageira.
+
+---
+
+## Roberto Miranda
+
+![Roberto Miranda](/roberto.jpg)
+
+*   **Idade:** 34 anos
+*   **Função:** Ex-Policial / Informante do Submundo
+*   **Aparência:** Rosto marcado por noites mal dormidas em mesas de jogo, não em vigilância. Olhos inquietos que varrem o local em busca de oportunidades ou ameaças de agiotas. Veste-se com uma tentativa falha de elegância, ternos baratos que contrastam com a sujeira da cidade.
+*   **Personalidade:** Instável, oportunista e desprovido de ética. Viciado na adrenalina do risco, seja apostando fichas ou vidas.
+*   **Vícios:** Jogos de azar compulsivo (dívidas em todos os cassinos ilegais da Zona Baixa).
+*   **Histórico:** Ex-parceiro de Gabo na polícia. A parceria terminou quando Roberto traiu a unidade durante uma operação crítica para pagar dívidas de jogo. Sua traição quase custou a vida de Gabo e resultou em baixas na equipe. Foi expulso da corporação e hoje sobrevive de golpes e venda de informações.
+*   **Relação com Gabo:** O ódio é mútuo, mas Gabo reconhece que Roberto, como um rato de esgoto, conhece os caminhos que ninguém mais vê.
