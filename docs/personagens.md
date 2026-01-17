@@ -7,7 +7,7 @@
 
 ## Gabriel "Gabo" Moretti
 
-![Gabriel "Gabo" Moretti](/gabo.webp)
+![Gabriel "Gabo" Moretti](/gabo.jpg)
 
 *   **Idade:** 30 anos
 *   **Altura:** 1,75m
