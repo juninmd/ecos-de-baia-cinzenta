@@ -4,80 +4,68 @@
 
 A chuva em Baía Cinzenta não lavava nada; ela apenas redistribuía a sujeira. Gabriel Moretti aprendeu isso da pior maneira naquela manhã de terça-feira.
 
-O Cobalt azul metálico, seu orgulho e única possessão que não tentava matá-lo, decidiu morrer a três quarteirões da delegacia. O motor tossiu, engasgou e silenciou, deixando apenas o som rítmico e irritante da chuva ácida tamborilando no teto.
+O Cobalt azul metálico decidiu morrer a três quarteirões da delegacia. O motor tossiu e silenciou.
 
-— Vamos lá, velho amigo — Gabriel murmurou, girando a chave. O painel piscou fracamente, como um pedido de socorro, antes de apagar de vez. — Defeito no alternador. Maravilha.
+— Vamos lá, velho amigo — Gabriel murmurou. — Defeito no alternador. Maravilha.
 
-Ele bateu no volante, frustrado. Seu estômago roncou alto, um lembrete doloroso de que ele não comia há quase vinte horas. A dieta de café e ódio estava começando a cobrar seu preço.
+Ele bateu no volante. Seu estômago roncou, implorando por uma pizza, nem que fosse apenas a borda queimada.
 
-Souza, no banco do passageiro, bufou, embaçando o vidro com sua respiração pesada. Ele era um veterano da Divisão de Trânsito, realocado temporariamente para cobrir a falta de efetivo. Sua principal habilidade era fazer um sanduíche de mortadela durar um turno inteiro.
+No banco do passageiro, Vargas bufou. Vargas era seu parceiro na época. Um sujeito com sorriso fácil demais e olhos que nunca paravam quietos, sempre calculando o valor de tudo ao redor.
 
-— Moretti, sério. A gente precisa andar. Agora — reclamou Souza, segurando a barriga.
+— Moretti, sério. Esse carro é uma lata velha. Você devia aceitar aquela "ajuda de custo" que o pessoal do Sindicato oferece — disse Vargas, acendendo um cigarro eletrônico que cheirava a chiclete sintético.
 
-— Calma, Souza. É só o alternador. Vou chamar o reboque e...
+— Eu não trabalho para o Sindicato, Vargas. E apaga essa porcaria, você sabe que eu odeio cheiro de fumaça.
 
-— Não é o carro! — ele grunhiu, desajeitadamente tentando soltar o cinto de segurança que cortava sua cintura. — É aquele burrito do posto. Eu disse que o molho estava verde demais. Preciso de um banheiro. Urgente.
+Vargas riu, soltando a fumaça pela janela.
 
-Gabriel suspirou, abrindo a porta. A umidade tóxica invadiu o carro instantaneamente.
+— Você é muito puritano, Gabo. O sistema já está quebrado. A gente só tá pegando os cacos pra não cortar o pé.
 
-— Vamos a pé.
+Gabriel saiu do carro, ignorando o comentário. Naquela época, ele achava que Vargas era apenas cínico, não um traidor em treinamento. Mal sabia ele que Vargas já estava vendendo informações sobre as rotas de patrulha para as gangues da Zona Baixa.
 
-Eles saíram para a calçada oleosa. Gabriel puxou a gola do sobretudo para se proteger, caminhando a passos largos, com Souza trotando pesadamente ao seu lado, xingando cada poça que molhava seus sapatos baratos.
+— Vamos a pé. E pare de reclamar — disse Gabriel, abrindo o porta-malas para verificar se a tranca falsa estava segura. Ninguém podia saber sobre a "Mara" e a "Vilha" lá dentro. Eram sua apólice de seguro contra dias piores.
 
-Ao chegarem à entrada da delegacia, o destino decidiu rir mais uma vez. Gabriel, focado em evitar um bueiro fumegante, não viu o presente deixado por algum cão de rua — ou talvez uma criatura mutante dos esgotos, dado o tamanho.
+Eles caminharam sob a chuva. Ao chegarem à delegacia, Gabriel, distraído pela fome e pela irritação com Vargas, pisou em algo mole na calçada.
 
-Ele sentiu a substância ceder sob a sola de sua bota direita. O cheiro subiu imediatamente, rompendo a barreira da chuva e da poluição.
+— Ah, não.
 
-— Ah, não. Não, não, não.
+Vargas gargalhou.
 
-Souza parou, apoiando as mãos nos joelhos para recuperar o fôlego, e soltou uma risada rouca e engasgada.
+— Pisou na sorte, parceiro! Isso é sinal de dinheiro chegando!
 
-— Isso é... caramba, Moretti — ele disse, tapando o nariz. — Você pisou no prêmio acumulado.
+— Para você, talvez. Para mim é só merda mesmo.
 
-— Cala a boca, Souza. — Gabriel arrastou o pé no meio-fio, praguejando todos os nomes santos que sua mãe lhe ensinara. — Eu só queria um café e um donut. É pedir muito?
+Dentro da delegacia, o Capitão Vilar os esperava com a veia da testa pulsando.
 
-Eles entraram na delegacia como dois furacões de desgraça. Souza disparou para os banheiros com uma agilidade surpreendente para seu peso. Gabriel, mancando e deixando um rastro odorífero sutil, marchou em direção à sua mesa, ignorando os olhares.
+— Moretti! Vargas! Na minha sala. Agora.
 
-Mas o universo não tinha acabado com ele.
+— O que foi agora? — sussurrou Vargas. — Será que descobriram sobre... aquele lance?
 
-— Moretti! — A voz do Capitão Vilar trovejou de sua sala. — Na minha sala. Agora.
+Gabriel olhou para ele, desconfiado.
 
-Gabriel fechou os olhos. A fome era uma dor física agora, uma cólica que se misturava à humilhação do sapato sujo.
+— Que lance, Vargas?
 
-— Capitão, se for sobre o relatório da Aeterna, eu posso explicar... — ele começou, entrando na sala.
+— Nada. Esquece.
 
-— Dane-se o relatório! — Vilar bateu na mesa. — O que diabos vocês fizeram na patrulha de ontem? O Vereador Marco ligou. Disse que vocês apreenderam um drone de campanha dele?
+Vilar bateu na mesa assim que entraram.
 
-— Estava voando em zona restrita, Capitão. Espionando janelas.
+— O Vereador Marco ligou. Disse que vocês derrubaram um drone de campanha dele?
 
-— Era um drone de *marketing*, Gabriel! Distribuindo cupons holográficos! — Vilar esfregou as têmporas. — E agora ele quer a cabeça de quem derrubou o brinquedo de cinco mil créditos dele.
+— Estava voando baixo demais, Capitão — defendeu-se Gabriel. — Invadindo privacidade.
 
-Gabriel sentiu o cheiro de café vindo da caneca de Vilar. Ele encarou o líquido preto como um náufrago encara a terra firme.
+— Era um drone de *marketing*! — gritou Vilar. — E agora existe um movimento político, uma conspiração de bastidores, pressionando para cortar nosso orçamento. Eles chamam de "O Boicote". E adivinha? Vocês acabaram de dar munição para eles.
 
-— Eu estava com fome, Capitão. O drone parecia uma pizza voadora no radar.
+Gabriel sentiu o peso das palavras. O Boicote. Era real. Alguém estava sufocando a polícia, deixando a cidade à mercê das corporações de segurança privada... como a Aeterna.
 
-Vilar piscou, incrédulo.
+Vargas apenas sorriu, um sorriso que não chegava aos olhos. Ele já sabia de que lado a corda ia arrebentar.
 
-— Você atirou num drone... porque estava com fome?
+— Saiam daqui — ordenou Vilar. — E Vargas, limpe esse sorriso da cara antes que eu te mande para a patrulha de esgoto.
 
-— Foi um erro de julgamento tático induzido por hipoglicemia.
+Enquanto saíam, Gabriel olhou para o parceiro.
 
-Souza apareceu na porta, parecendo aliviado, ajeitando o cinto.
+— O que você ia dizer antes? Sobre "aquele lance"?
 
-— Chefe, o Moretti pisou na merda lá fora. O cheiro tá chegando no arquivo morto.
+Vargas deu um tapinha no ombro de Gabriel.
 
-Vilar olhou para Gabriel, depois para o sapato dele, e depois apontou para a porta.
+— Nada, Gabo. Só negócios. Um dia você vai entender que fidelidade não enche barriga. Pizza enche. Mas fidelidade? Isso mata.
 
-— Saiam. Os dois. Vão consertar aquele carro velho, comprem um sanduíche e limpem essa bota. Não quero ver vocês até amanhã.
-
-Gabriel abriu um sorriso cansado.
-
-— Sim, senhor.
-
-Enquanto caminhavam de volta para a saída, Gabriel olhou para Souza.
-
-— Você tem créditos para o almoço?
-
-— Gastei o resto no burrito — Souza respondeu, dando de ombros. — Achei que você ia pagar.
-
-Gabriel suspirou, o som se perdendo no barulho da delegacia. Era apenas mais um dia em Baía Cinzenta.
+Meses depois, Vargas desapareceria com as provas do Caso Lázaro, deixando Gabriel sozinho em um tiroteio no armazém 4. A traição que custaria a carreira de Gabo e quase sua vida. Mas naquele dia, sob a chuva e com o sapato sujo, era apenas o prenúncio de uma tempestade muito maior.

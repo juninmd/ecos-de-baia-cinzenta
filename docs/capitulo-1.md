@@ -2,56 +2,43 @@
 
 A chuva em Baía Cinzenta não lavava nada; ela apenas empurrava a sujeira de um lado para o outro.
 
-Gabriel "Gabo" Moretti sentiu a água fria escorrer pelo pescoço, infiltrando-se sob a gola do sobretudo que já cheirava a mofo e café frio. Ele estava parado na entrada da Vila da Ferrugem, onde o asfalto da cidade alta cedia lugar a passarelas de metal corroído e lama tóxica. O brilho dos neons publicitários — *COMPRE FELICIDADE, COMPRE AETERNA* — refletia nas poças como óleo derramado, distorcendo as cores em um arco-íris doentio.
+Gabriel "Gabo" Moretti sentiu a água fria escorrer pelo pescoço, infiltrando-se sob a gola do sobretudo que já cheirava a mofo e orégano velho. Ele estava parado na entrada da Vila da Ferrugem, onde o asfalto da cidade alta cedia lugar a passarelas de metal corroído e lama tóxica. O brilho dos neons publicitários — *COMPRE FELICIDADE, COMPRE AETERNA* — refletia nas poças como óleo derramado.
 
-— Você demorou, inspetor — disse o oficial de patrulha, um garoto novo que tremia, não de frio, mas do que tinha visto.
+Antes de sair do carro, Gabo abriu o porta-malas do Cobalt azul metálico. O compartimento falso estava lá, intacto. Ele passou a mão sobre o metal frio dos canos.
+— Durmam bem, meninas — sussurrou.
+Lá estavam elas: *Mara*, a bazuca modificada para situações onde a sutileza era um luxo, e *Vilha*, sua escopeta calibre 12 "Maravilha" de cano serrado. Ele esperava não precisar usá-las hoje. A "solução final" ficaria guardada. Ele fechou o porta-malas e pegou apenas a caixa de pizza fria do banco do passageiro, engolindo uma fatia de pepperoni amanhecido enquanto mastigava a ansiedade. Pizza era combustível. A única coisa pura nesta cidade maldita.
 
-— O trânsito na Ponte Sul estava um inferno, garoto. Onde está ele?
+Ele se alongou, estalando o pescoço e os ombros com movimentos precisos, resquícios de seu treino diário de Hapkido. A faixa preta não estava na cintura, mas a disciplina estava nos músculos, pronta para explodir se necessário.
 
-O oficial apontou para um beco estreito entre dois contêineres habitacionais empilhados. A fita amarela da polícia parecia uma piada ali, uma tentativa frágil de impor ordem ao caos daquele lugar esquecido por Deus e pela prefeitura.
+— Você demorou, inspetor — disse o oficial de patrulha, tremendo.
 
-Gabriel engoliu rapidamente seu café, sentindo o gosto amargo descer pela garganta. Ele não queria entrar lá. Aos trinta anos, sentia-se como se tivesse setenta. Seus joelhos estalavam, e a insônia da semana passada fazia as luzes da cidade deixarem rastros em sua visão periférica.
+— O trânsito, garoto. Onde está o corpo?
 
-Ele avançou.
+O oficial apontou para um beco. A fita amarela parecia uma piada ali.
 
-O corpo estava sentado, encostado em uma parede de zinco. Era um rapaz jovem, vinte e poucos anos, vestindo roupas de segunda mão que provavelmente pertenceram a alguém da cidade alta antes de serem descartadas. Cabelo azul desbotado, tatuagens de circuitos nos braços — um ativista, provavelmente. Alguém que acreditava que podia mudar o mundo gritando em praças públicas.
+Gabriel avançou, limpando as migalhas da barba. O corpo estava sentado, encostado em uma parede de zinco. Jovem, cabelo azul desbotado, sem marcas visíveis de violência.
 
-— Causa da morte? — Gabriel perguntou, agachando-se. A lama manchou suas botas.
+— Causa da morte? — Gabriel perguntou.
 
-— Nenhuma marca visível no corpo, senhor. Sem tiros, sem facadas. Parece... parece que ele apenas desligou.
+— Parece que ele apenas desligou. Mas olhe o rosto.
 
-— Overdose?
+Gabriel ajustou a lanterna. O facho de luz iluminou o rosto pálido. As órbitas estavam preenchidas por lentes de câmera antigas, analógicas.
 
-— Talvez. Mas... olhe o rosto.
+— Cirúrgico. E ativo — murmurou Gabriel, vendo o foco da lente se ajustar ao seu rosto. — Ele está transmitindo.
 
-Gabriel ajustou a lanterna tática. O facho de luz cortou a penumbra e iluminou o rosto pálido do rapaz. Sua boca estava entreaberta, congelada em uma expressão que não era de medo, mas de... admiração? Êxtase?
+— Tem mais uma coisa, inspetor. Estava no bolso dele.
 
-Mas foram os olhos que fizeram o estômago de Gabriel revirar.
+O oficial entregou um saco de evidências com uma fotografia física.
 
-Não havia olhos. As órbitas estavam preenchidas, perfeitamente encaixadas, por duas lentes de câmera antigas, analógicas. O vidro escuro das lentes refletia o rosto cansado de Gabriel.
+Gabriel apontou a lanterna. Era uma foto em preto e branco de um parque ensolarado, tirada há décadas.
 
-— Cirúrgico — murmurou Gabriel. — Não há sangue. Quem fez isso sabia o que estava fazendo. Não foi um açougueiro da Vila.
+No centro, um menino de cinco anos sorria, segurando um sorvete. Era Gabo.
+Atrás dele, desfocado, estava seu pai, Dante Moretti.
+Mas o que fez o sangue de Gabriel gelar não foi ver o pai morto. Foi o que estava no canto da foto, quase escondido na sombra de uma árvore.
 
-Ele aproximou a mão enluvada do rosto da vítima. As lentes focaram. Um leve zumbido mecânico, quase imperceptível sob o som da chuva, emanou de dentro do crânio do rapaz.
+Havia uma menina. Pequena, pálida, segurando uma boneca de pano. Ela olhava diretamente para a câmera com olhos negros e profundos.
+Era impossível, mas Gabriel sentiu um reconhecimento visceral. Aquela menina na foto de 25 anos atrás... parecia ter a mesma idade de uma lenda urbana que circulava nos orelhões da Zona Baixa.
 
-— Elas ainda estão ativas — disse Gabriel, sentindo um arrepio que não tinha nada a ver com a temperatura. — Ele está transmitindo.
+— Cerquem a área — a voz de Gabriel saiu rouca. — E tragam a perita Sato.
 
-— Tem mais uma coisa, inspetor — o oficial disse, estendendo um saco de evidências. — Estava no bolso da jaqueta dele.
-
-Gabriel pegou o saco. Dentro, protegida do dilúvio, havia uma fotografia física, impressa em papel fotográfico de verdade — uma raridade cara hoje em dia.
-
-Ele apontou a lanterna para a foto.
-
-Era uma imagem em preto e branco de um parque ensolarado, algo que não existia em Baía Cinzenta há décadas. No centro da foto, um menino de cerca de cinco anos sorria, segurando um sorvete derretendo.
-
-Gabriel sentiu um gosto metálico na boca. O mundo girou por um segundo. A chuva parou de fazer barulho.
-
-O menino na foto era ele.
-
-E atrás do menino, desfocado mas inconfundível, estava um homem observando. Um homem que Gabriel viu morrer há quinze anos: seu pai.
-
-— Cerquem a área — a voz de Gabriel saiu rouca, irreconhecível. — Ninguém entra, ninguém sai. E tragam a perita Sato. Agora.
-
-Ele olhou novamente para as lentes nos olhos do cadáver. Elas pareciam piscar, capturando cada milímetro de sua reação.
-
-O jogo havia começado, e Gabriel nem sabia que estava no tabuleiro.
+Ele olhou para a foto novamente. A menina parecia esperar. O jogo havia começado, e as peças estavam no tabuleiro há muito mais tempo do que ele imaginava.
