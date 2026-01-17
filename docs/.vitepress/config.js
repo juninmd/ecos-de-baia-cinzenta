@@ -64,7 +64,7 @@ module.exports = {
         text: 'Arquivos',
         items: [
           { text: 'Dossiê de Personagens', link: '/personagens' },
-          { text: 'Universo e Lore', link: '/universo' },
+          { text: 'Lore do Livro', link: '/lore-do-livro' },
           { text: 'Sobre o Autor', link: '/sobre-o-autor' }
         ]
       }
