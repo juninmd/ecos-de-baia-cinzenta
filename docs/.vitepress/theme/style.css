@@ -3,47 +3,90 @@
   --vp-c-bg: #fdfbf7; /* Off-white, paper-like background */
   --vp-c-text-1: #2c3e50; /* Dark blue-grey text */
   --vp-c-brand: #8e44ad; /* Noir purple accent */
+  --vp-c-brand-light: #a569bd;
 }
 
 /* Dark mode overrides for noir feel */
 .dark {
-  --vp-c-bg: #1a1a1a;
+  --vp-c-bg: #111111;
   --vp-c-text-1: #e0e0e0;
 }
 
+/* Typography Improvements */
 .vp-doc p {
   text-align: justify;
   line-height: 1.8;
-  font-size: 1.1rem;
+  font-size: 1.2rem; /* Increased for readability */
   margin-bottom: 1.5em;
+  font-weight: 300;
 }
+
+/* Drop cap for the first letter of the first paragraph could be cool,
+   but VitePress structure makes it tricky to target purely with CSS
+   without hitting images or headers. Skipping for stability. */
 
 .vp-doc h1 {
   font-family: "Playfair Display", serif;
   font-weight: 700;
-  border-bottom: 2px solid var(--vp-c-brand);
-  padding-bottom: 0.5rem;
+  font-size: 2.5rem;
+  text-align: center;
+  border-bottom: none; /* Cleaner look */
+  margin-bottom: 2rem;
+  color: var(--vp-c-text-1);
 }
 
-.vp-doc h2, .vp-doc h3 {
+.vp-doc h2 {
+  font-family: "Playfair Display", serif;
+  margin-top: 3em;
+  margin-bottom: 1em;
+  border-bottom: 1px solid var(--vp-c-brand-light);
+  display: inline-block;
+  padding-right: 1rem;
+}
+
+.vp-doc h3 {
   font-family: "Playfair Display", serif;
   margin-top: 2em;
+  font-style: italic;
 }
 
 .vp-doc blockquote {
-  border-left: 4px solid var(--vp-c-brand);
+  border-left: 3px solid var(--vp-c-brand);
   font-style: italic;
-  background: rgba(142, 68, 173, 0.1);
-  padding: 1rem;
+  background: rgba(142, 68, 173, 0.05);
+  padding: 1rem 1.5rem;
+  border-radius: 0 4px 4px 0;
+  margin: 2rem 0;
+  font-family: "Playfair Display", serif;
+  color: var(--vp-c-text-1);
 }
 
-/* Hide some technical elements to make it look more like a book */
-.edit-link, .last-updated {
+.vp-doc strong {
+  font-weight: 700;
+  color: var(--vp-c-brand); /* Highlight strong text lightly */
+}
+
+/* Hide technical elements */
+.edit-link, .last-updated, .VPDocFooter .edit-link-button {
   display: none !important;
 }
 
-/* Add some padding for reading comfort */
+/* Reading Container */
 .content-container {
-  max-width: 800px !important;
+  max-width: 750px !important; /* Optimal line length */
   margin: 0 auto;
+}
+
+/* Hide the sidebar toggle on mobile to force immersion? No, bad UX. */
+
+/* Custom Scrollbar for Webkit */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: var(--vp-c-bg);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--vp-c-brand);
+  border-radius: 4px;
 }
