@@ -12,24 +12,22 @@ Eles inclinaram as motos em uníssono, faíscas voando das pedaleiras quando o m
 
 Mas a rua era uma armadilha.
 
-O asfalto liso e bem cuidado terminava abruptamente, morrendo numa estrada de brita grossa e irregular, resto de uma obra pública superfaturada e jamais concluída. Mas não foi a mudança de terreno que selou o destino deles.
+O asfalto liso e bem cuidado terminava abruptamente, não por negligência, mas por design. Uma barreira de contenção de concreto armado, invisível na penumbra e sem sinalização holográfica de aviso, bloqueava o caminho. Alguém queria que aquela rota fosse um beco sem saída definitivo.
 
-Foi o lixo.
+A 300 por hora, a física não perdoa. Não houve tempo para frear, nem para rezar.
 
-Alguém — talvez crianças de rua, talvez um rival sádico, ou apenas o caos natural da cidade — havia despejado o conteúdo de uma caçamba de feira livre no meio do caminho. No centro daquele mar de detritos podres, brilhava, quase cômica sob o farol de xenônio, uma vasta quantidade de cascas de banana.
+A moto da frente colidiu com o concreto. O som foi um trovão seco, o metal se compactando em uma escultura grotesca instantânea. O piloto não foi projetado; ele foi obliterado contra a barreira, seu corpo tornando-se parte da massa de destroços fumegantes.
 
-A 300 por hora, a física não perdoa. A S1000RR da frente atingiu a massa viscosa. A roda dianteira perdeu a tração instantaneamente. Não houve tempo para frear, nem para rezar.
+O segundo piloto, numa reação de puro pânico, deitou a moto. O chassi raspou no chão, lançando um leque de faíscas que iluminou a cena como fogos de artifício no inferno. Ele deslizou, a fricção derretendo o traje sintético e a carne por baixo, até parar a centímetros dos restos mortais de seu parceiro.
 
-A moto chicoteou. O piloto foi catapultado.
+O silêncio que se seguiu foi mais alto que o impacto. Apenas o crepitar das chamas e a chuva sibilando no metal quente.
 
-Ele voou baixo, paralelo ao chão, antes de colidir com a brita. O instinto humano, falho e primitivo, fez com que ele esticasse o braço para tentar amortecer a queda.
+O sobrevivente tentou se levantar, um gemido borbulhante escapando de seus lábios quebrados. Ele olhou para cima.
 
-Foi um erro fatal.
+No topo da barreira de concreto, uma silhueta observava. Não era a polícia. A figura vestia um sobretudo escuro e segurava algo que brilhava em vermelho — um charuto eletrônico ou um olho cibernético, impossível dizer na escuridão.
 
-A brita, afiada como dentes de tubarão, encontrou a carne a uma velocidade supersônica. O atrito foi brutal, instantâneo e impiedoso. O casaco de couro sintético desintegrou-se em milissegundos. Em seguida, a pele. O músculo.
+— Serviço mal feito — a voz veio de cima, fria e metálica.
 
-O bandido deslizou por cinquenta metros, gritando um som que foi abafado pelo estrondo da moto se despedaçando logo à frente. Quando ele finalmente parou, a poeira de pedra e sangue baixando ao seu redor, tentou se apoiar.
+Um único tiro ecoou, abafado por um silenciador. O sobrevivente caiu, o corpo relaxando na poça de óleo e sangue.
 
-Olhou para o lado. Onde deveria estar seu cotovelo, havia apenas um buraco sanguinolento misturado com pedras cinzentas. O asfalto e a brita haviam devorado seu braço, mastigando osso e nervo como se fossem feitos de papel molhado.
-
-O cheiro de gasolina misturou-se ao cheiro ferroso de sangue. Em Baía Cinzenta, até a fuga mais rápida termina no chão.
+Em Baía Cinzenta, falhar no serviço é a única demissão aceita.
