@@ -31,7 +31,7 @@
 
 ## Valéria "Val" Cruz
 
-![Valéria "Val" Cruz](/val.jpg)
+![Valéria "Val" Cruz](/val.png)
 
 *   **Idade:** 23 anos
 *   **Altura:** 1,60m
@@ -54,7 +54,7 @@
 
 ## Roberto Miranda (Antigo Detetive Miranda)
 
-![Roberto Miranda](/roberto.jpg)
+![Roberto Miranda](/miranda.jpg)
 
 *   **Idade:** 34 anos
 *   **Altura:** 1,78m
@@ -95,6 +95,8 @@
 ---
 
 ## Kael "O Cirurgião"
+
+![Cirurgião](/cirurgiao.jpg)
 
 *   **Idade:** Desconhecida
 *   **Altura:** 1,90m
@@ -160,6 +162,8 @@
 
 ### Marco Moretti
 
+![Cirurgião](/marco-moretti.jpg)
+
 *   **Idade:** 35 anos
 *   **Altura:** 1,80m
 *   **Porte Físico:** Impecável, moldado em academias privadas. Postura de líder, sempre ereto e confiante.
@@ -178,6 +182,8 @@
 
 ### Dra. Elara Vance
 
+![Vance](/elara-vance.jpg)
+
 *   **Idade:** Indefinida (Aparenta 40 anos graças a tratamentos genéticos)
 *   **Altura:** 1,75m
 *   **Porte Físico:** Elegante e escultural. Move-se com a precisão de um felino predador.
@@ -194,6 +200,8 @@
 *   **Histórico:** Uma cientista brilhante que tomou o controle da Aeterna em um golpe corporativo silencioso. Ela é a arquiteta por trás do Projeto Ecos e da Droga Lázaro.
 
 ### Capitão Jonas Vilar
+
+![Jonas](/capitao-jonas.jpg)
 
 *   **Idade:** 58 anos
 *   **Altura:** 1,82m
@@ -212,6 +220,8 @@
 
 ### Comissário Dante Moretti (Falecido)
 
+![dante](/comissario-dante-moretti.jpg)
+
 *   **Idade:** Morreu aos 45 anos (Teria 60 hoje)
 *   **Altura:** 1,85m
 *   **Porte Físico:** Na época, imponente e forte. A imagem do policial herói.
@@ -226,3 +236,6 @@
 *   **Perfil Psicológico:** Incorruptível e idealista, o que acabou sendo sua sentença de morte.
 *   **Função:** O Fantasma / A Inspiração.
 *   **Histórico:** O maior detetive que Baía Cinzenta já viu. Sua morte "acidental" em uma explosão industrial é o evento incitante de toda a trama. Ele descobriu o Projeto Ecos antes de qualquer um, e pagou o preço máximo.
+
+# A elite
+![elite](/elite.jpg)
