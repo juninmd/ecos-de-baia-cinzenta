@@ -65,10 +65,6 @@
 
 ## Ex-Detetive Vargas (O Traitor)
 
-*   **Status:** Procurado / Mercenário do Sindicato.
-*   **Histórico:** Ex-parceiro de Gabo na Divisão de Homicídios.
-*   **A Traição:** Durante uma invasão a um depósito de drogas sintéticas anos atrás, Vargas "desapareceu" com as evidências e o dinheiro, deixando Gabo para morrer em uma emboscada. Hoje, ele atua como um dos executores da conspiração que controla Baía Cinzenta.
-
 ---
 
 ## Outros Personagens Relevantes
@@ -79,3 +75,28 @@
 *   **Maya "Glitch" Sato:** Hacker aliada, amiga de Gabo.
 *   **Capitão Jonas Vilar:** O chefe cansado que tenta manter a ordem.
 *   **Comissário Dante Moretti (Falecido):** Pai de Gabo, a origem de tudo.
+*   **Idade:** Aparenta 6 anos
+*   **Altura:** Pequena e frágil.
+*   **Porte Físico:** Esquálida, com a magreza típica das crianças da Zona Baixa.
+*   **Cabelo:** Escuro e liso, grudado ao rosto pela chuva e fuligem.
+*   **Olhos:** Negros, profundos e assustadoramente serenos. Parecem ver através das pessoas.
+*   **Marcas Distintivas:** Segura obsessivamente uma boneca de pano caolha e sem um braço. Sua presença parece estar ligada a eventos inexplicáveis.
+*   **Vestuário:** Um vestido branco encardido e encharcado, inadequado para o clima tóxico.
+*   **Status:** Desconhecido. Possível testemunha ou mensageira.
+
+---
+
+## Roberto Miranda Vargas
+
+![Roberto Miranda](/roberto.jpg)
+
+*   **Idade:** 34 anos
+*   **Função:** Ex-Policial / Informante do Submundo
+*   **Aparência:** Rosto marcado por noites mal dormidas em mesas de jogo, não em vigilância. Olhos inquietos que varrem o local em busca de oportunidades ou ameaças de agiotas. Veste-se com uma tentativa falha de elegância, ternos baratos que contrastam com a sujeira da cidade.
+*   **Personalidade:** Instável, oportunista e desprovido de ética. Viciado na adrenalina do risco, seja apostando fichas ou vidas.
+*   **Vícios:** Jogos de azar compulsivo (dívidas em todos os cassinos ilegais da Zona Baixa).
+*   **Histórico:** Ex-parceiro de Gabo na polícia. A parceria terminou quando Roberto traiu a unidade durante uma operação crítica para pagar dívidas de jogo. Sua traição quase custou a vida de Gabo e resultou em baixas na equipe. Foi expulso da corporação e hoje sobrevive de golpes e venda de informações.
+*   **Relação com Gabo:** O ódio é mútuo, mas Gabo reconhece que Roberto, como um rato de esgoto, conhece os caminhos que ninguém mais vê.
+*   **Status:** Procurado / Mercenário do Sindicato.
+*   **A Traição:** Durante uma invasão a um depósito de drogas sintéticas anos atrás, Vargas "desapareceu" com as evidências e o dinheiro, deixando Gabo para morrer em uma emboscada. Hoje, ele atua como um dos executores da conspiração que controla Baía Cinzenta.
+
