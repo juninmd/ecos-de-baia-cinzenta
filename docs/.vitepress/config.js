@@ -72,6 +72,34 @@ module.exports = {
         ]
       },
       {
+        text: 'Parte VII: O Apagão',
+        items: [
+          { text: 'Capítulo 28: A Voz na Caixa', link: '/capitulo-28' },
+          { text: 'Capítulo 29: O Código de Lázaro', link: '/capitulo-29' },
+          { text: 'Capítulo 30: Sacrifício de Sangue', link: '/capitulo-30' },
+          { text: 'Capítulo 31: Ruptura Total', link: '/capitulo-31' },
+          { text: 'Capítulo 32: Queda Livre', link: '/capitulo-32' },
+          { text: 'Capítulo 33: Noite Eterna', link: '/capitulo-33' },
+          { text: 'Capítulo 34: O Julgamento da Rua', link: '/capitulo-34' },
+          { text: 'Capítulo 35: Calibre 12', link: '/capitulo-35' },
+        ]
+      },
+      {
+        text: 'Parte VIII: Cinzas',
+        items: [
+          { text: 'Capítulo 36: O Ninho da Serpente', link: '/capitulo-36' },
+          { text: 'Capítulo 37: A Última Bala', link: '/capitulo-37' },
+          { text: 'Capítulo 38: A Manhã Seguinte', link: '/capitulo-38' },
+          { text: 'Capítulo 39: Dossiê Vance', link: '/capitulo-39' },
+          { text: 'Capítulo 40: Traidores e Túmulos', link: '/capitulo-40' },
+          { text: 'Capítulo 41: O Preço da Justiça', link: '/capitulo-41' },
+          { text: 'Capítulo 42: Fantasmas da Cidade', link: '/capitulo-42' },
+          { text: 'Capítulo 43: O Novo Departamento', link: '/capitulo-43' },
+          { text: 'Capítulo 44: Ecos', link: '/capitulo-44' },
+          { text: 'Capítulo 45: O Despertar', link: '/capitulo-45' },
+        ]
+      },
+      {
         text: 'Arquivos',
         items: [
           { text: 'Dossiê de Personagens', link: '/personagens' },
