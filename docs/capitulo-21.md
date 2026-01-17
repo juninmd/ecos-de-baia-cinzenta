@@ -1,77 +1,119 @@
 # Capítulo 21: Lar, Doce Inferno
 
-O apartamento de Gabriel Moretti era um mausoléu. Ele entrou, trancando a porta com as três fechaduras reforçadas.
+Antes de irem para a Torre, Gabo precisava de uma coisa. "Mara". Sua bazuca. Ela estava no porta-malas do Cobalt, estacionado perto de seu apartamento.
 
-Foi até a cozinha, abriu a geladeira. Vazia, exceto por uma garrafa de água e uma caixa de pizza de dois dias atrás. Ele pegou uma fatia fria. O queijo estava borrachudo, o molho ácido. Perfeito.
+Eles voltaram para a cidade, movendo-se pelos becos.
 
-A campainha tocou.
+Quando chegaram ao prédio de Gabo, as luzes estavam acesas.
 
-Ele olhou pelo olho mágico. Lívia.
+— Você deixou as luzes ligadas? — perguntou Valéria.
 
-Gabo destrancou a porta, o coração acelerado. Ela entrou, trazendo o cheiro de chuva e jasmim.
+— Não.
 
-— Precisamos conversar, Gabriel. — Ela colocou uma pasta marrom sobre a mesa, empurrando a Glock dele para o lado com um nervosismo visível. — Os papéis.
+Gabo correu, ignorando a discrição. Ele subiu as escadas de três em três degraus.
 
-— O divórcio? Agora?
+A porta do apartamento estava arrombada.
 
-— Eu não posso mais esperar. — Lívia olhou ao redor, os olhos varrendo as saídas de ar e os detectores de fumaça, como se procurasse algo invisível. Ela falava baixo, quase sussurrando. — Eu preciso que você assine. Preciso que isso acabe.
+Lá dentro, o caos. Móveis quebrados, livros rasgados. E no meio da sala, sentada em uma cadeira, amarrada e amordaçada, estava Lívia.
 
-Gabo sentiu um aperto no peito.
+Sua ex-esposa.
 
-— Lívia, entra. Vamos conversar direito. Você está tremendo.
+— Lívia! — Gabo correu para desamarrá-la.
 
-— Não! — Ela recuou quando ele tentou tocá-la. — Só assine. Por favor. Está tudo aí na pasta. Tudo o que... tudo o que precisamos resolver.
+Mas ela negou com a cabeça freneticamente, os olhos arregalados de terror. Ela olhou para o peito.
 
-Ela empurrou a pasta em direção a ele com uma insistência estranha, seus olhos implorando por algo que suas palavras não diziam.
+Gabo parou.
 
-— Eu deixei tudo preparado — continuou ela, elevando a voz ligeiramente, como se atuasse para uma plateia oculta. — A divisão de bens, os documentos... está tudo organizado. Você só precisa ler com atenção. Com muita atenção.
+Havia uma bomba presa ao peito dela. Um display digital contava regressivamente: *05:00*.
 
-Gabo olhou para a pasta, confuso. Havia um peso no olhar de Lívia, um medo que não combinava com uma simples separação.
+E ao lado da bomba, um bilhete.
 
-— Ok — ele disse, cansado. — Eu vou ler. Mas primeiro... eu preciso de um banho. Estou podre. Trabalhei o dia todo.
+*"O Herói sempre tem uma fraqueza. Escolha: A Torre ou a Esposa?"*
 
-— Vá — disse ela, abraçando a si mesma. — Eu espero. Mas não demore.
+— Filhos da puta — sussurrou Gabo.
 
-Gabo foi para o banheiro, a mente a mil. Por que agora? E por que ela parecia tão aterrorizada?
+Valéria entrou no apartamento, ofegante. Ela viu a bomba.
 
-Ele ligou o chuveiro. O som da água abafou o som sutil da trava da varanda sendo forçada.
+— C4 com detonador de mercúrio — diagnosticou ela instantaneamente. — Se mexer, explode. Se o tempo acabar, explode.
 
-Mas não abafou o grito.
+Gabo tirou a mordaça de Lívia.
 
-Gabo desligou o chuveiro instantaneamente.
+— Gabo, sai daqui! — ela gritou, chorando. — É uma armadilha para te segurar! Eles querem que você perca a transmissão!
 
-— Lívia?
+— Eu não vou te deixar — disse Gabo, examinando os fios. — Val, consegue desarmar?
 
-Silêncio. Um silêncio pesado, errado.
+Valéria se ajoelhou, seus olhos brilhando enquanto escaneava o mecanismo.
 
-Ele saiu do box, molhado e nu, e pegou a Glock na pia.
+— É complexo. Tem três circuitos falsos. Preciso de tempo. Dez minutos, no mínimo.
 
-— Lívia! — ele gritou, abrindo a porta do banheiro.
+— Temos quatro — disse Gabo.
 
-A sala estava na penumbra. A janela da varanda estava estilhaçada. O vento e a chuva entravam, balançando as cortinas como fantasmas.
+Lívia olhou para Gabo.
 
-A pasta estava no chão. Mas não estava apenas aberta; estava revirada. Papeis que não pareciam documentos de divórcio — mapas, fotos granuladas, relatórios financeiros com o logo da Aeterna — estavam espalhados sobre o tapete, misturados ao vidro quebrado.
+— Gabriel, por favor. A cidade precisa de você. Vá para a Torre. Me deixe.
 
-E havia sombras na sala. Três delas.
+— Cala a boca, Lívia — disse Gabo, suavemente. — Você é a cidade para mim.
 
-— Alvo localizado. O Pacote e os Arquivos.
+Ele olhou para Valéria.
 
-Eles não queriam apenas Lívia. Eles estavam recolhendo freneticamente os papéis que ela trouxera.
+— Val, esqueça o desarmamento lógico. Vamos fazer do jeito estúpido.
 
-— Lívia!
+— Jeito estúpido?
 
-Gabo disparou. Derrubou um, mas eram muitos. Ele tentou correr para a varanda, pensando no que deixara no carro lá embaixo, naquelas ferramentas pesadas que poderiam equilibrar o jogo. Mas estavam longe demais.
+— Congelar o circuito. Nitrogênio líquido.
 
-Um dardo taser o atingiu.
+— Onde vamos arranjar nitrogênio líquido numa cozinha?!
 
-Enquanto caía, paralisado, viu o mercenário arrastando Lívia para a varanda. Ela estava amordaçada, debatendo-se, enquanto outro recolhia o restante dos documentos "do divórcio".
+Gabo correu para a geladeira e arrancou o compressor na parte de trás com as próprias mãos, urrando de esforço. O gás refrigerante vazou.
 
-— Gabo! — ela tentou gritar através da mordaça, seus olhos cheios de lágrimas e pânico.
+— Não é nitrogênio, mas é frio pra cacete! — Gabo voltou com o tubo vazando. — Val, quando eu aplicar o gás no sensor de mercúrio, ele vai solidificar por alguns segundos. Você corta o fio vermelho.
 
-Um gancho desceu do céu lá fora. Um aeroccarro silencioso pairava na chuva.
+— E se for o azul?
 
-O último mercenário caminhou até Gabo e deixou uma nota sobre seu peito paralisado.
+— Então a gente se vê do outro lado.
 
-*"Assuntos de família devem permanecer privados, Detetive."*
+Gabo aplicou o gás. O contador congelou em *00:03*.
 
-Gabo gritou, um som mudo em sua garganta travada, enquanto via a mulher que amava — e os segredos que ela tentara contrabandear para ele — desaparecerem na chuva de Baía Cinzenta.
+— AGORA!
+
+Valéria cortou o fio vermelho com seu canivete.
+
+Silêncio.
+
+A bomba não explodiu. O display apagou.
+
+Gabo soltou o ar que não sabia que estava segurando. Ele abraçou Lívia, que soluçava incontrolavelmente.
+
+— Acabou — ele sussurrou.
+
+— Não — disse Lívia, afastando-se e pegando uma pasta que estava escondida sob a cadeira. — Eles não vieram só me matar. Eles vieram buscar isso.
+
+Ela abriu a pasta.
+
+— O que é isso? — perguntou Gabo.
+
+— O Dossiê que seu pai me deu antes de morrer — disse Lívia. — Ele sabia que você não estava pronto na época. Ele deixou comigo.
+
+Gabo pegou os papéis. Eram plantas. Plantas da Torre de Transmissão. E códigos de acesso.
+
+— Ele planejou tudo — disse Valéria, olhando por cima do ombro dele. — Gabo... esses códigos... eles dão controle total sobre a Rede da cidade.
+
+Gabo olhou para a janela quebrada, para a Torre brilhando ao longe na noite.
+
+— Ele não é o vilão — percebeu Gabo. — Ele está preso na Torre. O Gamemaster o está usando.
+
+Ele beijou a testa de Lívia.
+
+— Fique aqui. Tranquem a porta.
+
+— Onde você vai? — perguntou Lívia.
+
+Gabo foi até a porta, onde Valéria já o esperava, segurando a bazuca "Mara" que ela recuperara do carro.
+
+— Vou salvar o meu pai — disse Gabo. — E vou explodir todo o resto.
+
+Ele e Valéria saíram para a noite. A Tempestade Final havia começado.
+
+***
+
+**FIM DA PARTE V**

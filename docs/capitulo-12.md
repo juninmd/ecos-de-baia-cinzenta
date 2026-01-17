@@ -1,91 +1,91 @@
 # Capítulo 12: Cancelamento
 
-A Torre de Marfim erguia-se como uma agulha de vidro negro perfurando a tempestade. O topo estava envolto em nuvens estáticas, o epicentro do sinal que entorpecia Baía Cinzenta.
+O esgoto pluvial do Distrito da Névoa era um rio de lixo químico. Gabriel e Valéria caminhavam com água até os joelhos, guiados apenas pela luz fraca do relógio de Valéria.
 
-Gabriel e Valéria entraram pelo sistema de ventilação subterrâneo. Valéria tinha hackeado os drones de manutenção para ignorá-los.
+— Minhas contas foram congeladas — disse Valéria de repente, parando. Ela olhava para o ar, para telas que só ela via. — Meu ID de cidadã... inválido. Gabo, eles me apagaram.
 
-— Estamos no nível 90 — sussurrou Valéria, olhando para o holograma em seu pulso. — O transmissor está no terraço, no nível 100.
+— Bem-vinda ao clube — disse Gabriel. — Ser um fantasma tem suas vantagens. Ninguém espera que você revide.
 
-O elevador de serviço parou. As portas se abriram para um corredor branco, estéril, guardado não por humanos, mas por autômatos de combate da classe Centurião.
+— Não, você não entende! — A voz dela subiu uma oitava. — Sem ID, eu não posso comprar comida. Não posso pegar transporte. Meus implantes... eles precisam de atualizações de licença diárias. Se eu não validar... eles desligam.
 
-— Eles não economizaram na segurança — disse Gabriel.
+Ela tocou o olho biônico.
 
-— Deixa comigo — Valéria conectou-se ao painel da parede. — Vou criar um loop nos sensores visuais deles. Eles vão ver um corredor vazio.
+— Eu vou ficar cega em doze horas.
 
-Os dois avançaram com cautela. Os robôs gigantes permaneceram imóveis, seus olhos vermelhos fitando o nada.
+Gabriel parou e segurou os ombros dela.
 
-Chegaram ao telhado. O vento aqui em cima era brutal, carregado de eletricidade estática. No centro, uma antena parabólica maciça pulsava com uma luz violeta doentia.
+— Vamos resolver isso antes.
 
-E diante dela, esperando, estava Marco Moretti.
+— Como? Estamos no esgoto, falidos e sendo caçados pela cidade inteira!
 
-Ele não estava sozinho. Dois guarda-costas cibernéticos flanqueavam-no.
+— Vamos até a fonte. O bunker sob a Torre.
 
-— Gabriel — a voz de Marco foi amplificada pelo sistema de som da torre. — Eu sabia que você viria. Você sempre foi previsível. O herói trágico.
+— É impossível entrar lá. A segurança é biometria de nível genético.
 
-— Acabou, Marco — gritou Gabriel, apontando a arma. — Sabemos sobre o sinal. Sobre a hipnose em massa.
+— Eu tenho a chave — Gabriel bateu no estômago, onde o chip estava. — E tenho você.
 
-Marco riu. Ele parecia cansado, sua maquiagem perfeita começando a derreter na chuva.
+Eles continuaram. A caminhada durou horas, subindo pelos níveis da cidade através das artérias subterrâneas, evitando patrulhas de drones e scanners de rua.
 
-— Hipnose? Não, irmão. Eu chamo de "gestão de crise". Olha lá para baixo. — Ele apontou para a cidade cintilante. — Eles estão felizes. Eles trabalham, consomem, dormem. Não há motins. Não há dor. Eu dei a eles a paz que o papai sempre sonhou.
+Quando chegaram ao perímetro da Torre de Marfim, já era noite. A chuva havia parado, substituída por uma neblina densa que cobria o topo dos arranha-céus.
 
-— Você deu a eles uma coleira! — Gabriel avançou.
+A entrada do bunker ficava em uma garagem de manutenção abandonada. Gabriel arrombou a porta com um pé-de-cabra.
 
-Os guarda-costas se moveram, bloqueando o caminho.
+Lá dentro, o ar era frio e estéril. Um elevador de carga esperava.
 
-— Val, agora! — gritou Gabriel.
+— Ele só desce — disse Valéria, hackeando o painel. — E só com autorização.
 
-Enquanto Gabriel abria fogo contra os guardas, Valéria correu para o console da antena. Ela conectou seu drive.
+Gabriel colocou a mão no leitor. O sistema leu seu DNA, leu o chip em seu estômago.
 
-— Acesso negado! — gritou ela. — A criptografia é quântica!
+*— Bem-vindo, Comissário Moretti.* — A voz do sistema era antiga, pré-guerra.
 
-Gabriel rolou para evitar uma rajada de plasma. Um dos guardas avançou, socando o chão onde Gabriel estava um segundo antes. O concreto rachou.
+As portas se abriram.
 
-— Eu preciso de tempo! — gritou Valéria.
+Eles desceram. E desceram. O medidor de profundidade de Valéria enlouqueceu.
 
-— Não temos tempo! — Gabriel atirou no joelho do ciborgue, mas a bala ricocheteou na blindagem.
+— Estamos abaixo do nível do mar — sussurrou ela. — Abaixo das fundações da cidade.
 
-Marco assistia a tudo com um sorriso triste.
+O elevador parou. As portas se abriram para uma escuridão absoluta.
 
-— Você não entende, Valéria? — disse ele. — O código não pode ser quebrado. Ele se adapta. Ele aprende. É vivo.
+Gabriel acendeu um sinalizador. A luz vermelha revelou uma caverna vasta, natural. E no centro, construída como um templo profano, estava a máquina.
 
-Valéria parou. Ela olhou para o código fluindo na tela. Não era binário. Era biológico.
+Era um supercomputador gigantesco, pulsando com luz azul. Mas não era feito de silício. Era orgânico. Tubos de vidro cheios de fluido espinhal conectavam processadores a... coisas.
 
-— Lázaro... — ela sussurrou. — O código é baseado em padrões neurais.
+— O que é isso? — Valéria recuou.
 
-Ela olhou para Gabriel, que estava sendo espancado pelo guarda. Ele sangrava.
+— O Shadowban — disse uma voz vinda da escuridão.
 
-— Gabo! O sistema precisa de uma chave biológica!
+Luzes se acenderam.
 
-— Use a minha! — gritou Gabriel, cuspindo sangue.
+Cercando-os, havia dezenas de figuras. Pessoas vestidas com trapos cinzas, sem rosto. Suas faces haviam sido removidas digitalmente de qualquer registro, e fisicamente cobertas por máscaras lisas.
 
-— Não a sua! A dele! — Valéria apontou para Marco.
+E na frente deles, uma figura familiar.
 
-Gabriel entendeu. Ele rugiu e se lançou não contra o guarda, mas contra Marco. O político não esperava por isso. Gabriel o derrubou, agarrando sua mão direita — a mão que usava o anel de sinete da família, que continha os códigos de acesso biométrico.
+Roberto Miranda.
 
-— Me solta, seu louco! — gritou Marco.
+Mas ele estava diferente. Vestia um terno caro, limpo. Seu braço mecânico fora substituído por um modelo de última geração.
 
-Gabriel arrastou Marco até o console e prensou a mão dele no leitor.
+— Miranda? — Gabriel baixou o sinalizador, mas manteve a mão na arma. — Achei que você tinha fugido para o Norte.
 
-*— Acesso Autorizado. Bem-vindo, Administrador.*
+— O Norte é frio, Gabo. E eu gosto de calor. — Miranda sorriu. — Bem-vindos à Sala de Servidores da Realidade.
 
-— Val, mude o canal! — gritou Gabriel.
+— Você está trabalhando para eles — cuspiu Gabriel.
 
-Valéria digitou furiosamente.
+— Eu *sou* eles. — Miranda abriu os braços. — Ou pelo menos, sou o gerente do turno da noite. O Marco Moretti acha que controla isso, mas ele é só um usuário com privilégios de admin. O verdadeiro poder... está aqui embaixo.
 
-— Injetando o "Vírus da Verdade". Em 3... 2... 1...
+— O que é esse lugar? — perguntou Valéria.
 
-A luz violeta da antena mudou para um branco puro e cegante.
+— É onde as pessoas canceladas vêm morrer — disse Miranda. — Literalmente. Nós usamos a capacidade cerebral ociosa dos "indesejáveis" para processar o algoritmo de felicidade da cidade. É reciclagem, Gabo.
 
-Em toda a cidade, as telas que mostravam influenciadores sorridentes piscaram e mudaram. Em vez de mentiras, começaram a mostrar a realidade. As fábricas de escravos. Os corpos dissolvidos nos tanques de Lázaro. As transações financeiras de Marco.
+Gabriel olhou para as figuras mascaradas. Eram vivas, mas vazias.
 
-E o próprio Marco, covarde e encolhido no terraço da torre.
+— Você é um monstro.
 
-O feitiço quebrou.
+— Sou um sobrevivente. E você também pode ser. — Miranda estendeu a mão. — Junte-se a nós. Devolva o chip. E eu te dou o cargo do seu pai. Comissário Vitalício de uma cidade perfeita.
 
-— O que você fez? — sussurrou Marco, olhando para as telas gigantes nos prédios vizinhos, que agora mostravam seu rosto aterrorizado.
+Gabriel olhou para Valéria. Ela estava tremendo, seus implantes começando a falhar.
 
-— Eu te cancelei — disse Gabriel, soltando-o.
+Ele olhou para Miranda.
 
-Lá embaixo, o som da cidade mudou. Não era mais o zumbido mecânico. Era o som de milhões de vozes gritando.
+— Eu tenho uma contraproposta.
 
-O motim começou.
+Gabriel sacou a arma e atirou não em Miranda, mas no tanque de resfriamento principal da máquina orgânica.

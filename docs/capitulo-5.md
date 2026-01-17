@@ -1,85 +1,85 @@
 # Capítulo 5: A Capela dos Esquecidos
 
-A "Capela dos Esquecidos" não era uma igreja. Era o esqueleto de uma antiga estação de metrô, submersa pela metade quando os diques falharam vinte anos atrás. O nome vinha dos grafites religiosos que cobriam os azulejos rachados, preces desesperadas pintadas com spray neon por aqueles que buscavam salvação onde só havia lama e ratos.
+A Estação Central da Linha Vermelha fora desativada há uma década, após o grande alagamento do Setor 4. Agora, era conhecida como "A Capela". Um santuário subterrâneo para os viciados digitais, os "glitch-heads", que plugavam seus cérebros diretamente em caixas de força hackeadas para sentir a eletricidade fritar seus neurônios. Era a droga mais barata da cidade: pura voltagem.
 
-Gabriel desceu a escadaria de concreto, a lanterna tática cortando a escuridão úmida. O cheiro de mofo e óleo queimado era sufocante.
+Gabriel desceu as escadas rolantes paralisadas, o som de seus passos ecoando no silêncio úmido. Corpos esqueléticos estavam espalhados pelo chão, conectados por fios a geradores portáteis, tremendo em êxtase ou agonia. Eles não notaram Gabriel. Para eles, o mundo real era apenas um buffer de carregamento chato.
 
-Meia-noite.
+Ele encontrou Roberto Miranda no final da plataforma, sentado em um banco de plástico derretido, iluminado apenas pela luz azulada de um terminal antigo que ele tentava consertar.
 
-Ele parou na plataforma principal. O túnel à frente era uma boca negra que engolia a luz. O som de goteiras era o único ruído, um tique-taque irregular que marcava o tempo de uma cidade moribunda.
+Miranda parecia ter envelhecido vinte anos em cinco. Seus cabelos estavam ralos, a pele amarelada pela falta de sol e excesso de nicotina sintética. Ele usava um colete à prova de balas que parecia ter sido roubado de um museu.
 
-— Você veio — a voz ecoou, trêmula, vinda de trás de uma bilheteria depredada.
+— Você demorou, Gabo — disse Miranda, sem olhar para trás. — O trânsito está ruim ou você parou para apanhar do seu irmão de novo?
 
-Gabriel girou, a Glock já apontada para o som.
+— Você fala demais para um homem morto — respondeu Gabriel, mantendo a mão perto do coldre, mas sem sacar. Miranda era um covarde, mas era um covarde armado.
 
-— Saia daí. Agora.
+Miranda virou-se. Seus olhos estavam injetados, as pupilas dilatadas de quem estava usando estimulantes para ficar acordado por dias.
 
-Uma figura emergiu, mãos para o alto, segurando um objeto metálico. Não era uma arma. Era um tablet antigo.
+— Morto? Talvez. Mas eu sou o único morto que sabe onde os corpos estão enterrados. Literalmente.
 
-— Não atira, Moretti! Sou eu, droga!
+— O bilhete na foto. O relógio. O que você sabe sobre a morte do meu pai?
 
-A luz da lanterna revelou um rosto que Gabriel conhecia bem, embora estivesse mais magro e marcado por cicatrizes recentes. Os olhos eram os mesmos de um animal encurralado que ele vira na academia de polícia anos atrás.
+Miranda riu, um som seco e tosse.
 
-— Miranda? — Gabriel não baixou a arma. Pelo contrário, firmou a empunhadura. — Você tem cinco segundos para me explicar por que eu não devo estourar seus miolos e terminar o que o Sindicato começou.
+— Dante... Dante era um santo em uma cidade de demônios. Esse foi o erro dele. Ele achou que podia jogar pelas regras. — Miranda bateu no terminal. — Eu não jogo pelas regras, Gabo. Eu jogo pelas probabilidades. E as probabilidades dizem que a Aeterna vai transformar este lugar em um crematório em... — ele olhou para um relógio de pulso quebrado — ...cerca de quatro minutos.
 
-Roberto Miranda, o homem que vendeu a própria unidade por dívidas de jogo, sorriu nervosamente. Faltava-lhe um dente da frente, e seu braço esquerdo pendia inerte, provavelmente quebrado ou mal curado.
+— O quê?
 
-— Negócios, Gabo. Sempre negócios. Eu tenho algo que você quer. Algo que vale mais que a minha cabeça.
+— Eles rastrearam o upload que eu fiz para te mandar a mensagem. O "Cirurgião" não vem sozinho. Eles mandaram os Limpadores.
 
-— Você não tem nada que eu queira, rato.
+Gabriel sacou a Glock.
 
-— Tenho o "Plano B" do seu pai.
+— Então por que você me chamou aqui? Para morrermos juntos? Que romântico.
 
-Gabriel congelou. O nome do pai na boca daquele traidor era como ácido.
+— Não. Para te dar isso.
 
-— O que você disse?
+Miranda jogou um pequeno chip de memória para Gabriel. Ele o pegou no ar. Era um chip de dados biológico, do tipo que precisava de DNA específico para desbloquear.
 
-Miranda deu um passo à frente, ganhando confiança ao ver a hesitação de Gabriel.
+— O que é isso?
 
-— Dante sabia que estava marcado para morrer. Ele não confiava no Capitão Vilar. Ele não confiava em ninguém. Exceto... em quem ele podia comprar.
+— O seguro de vida do seu pai. Ele coletou evidências por anos. Sobre o Projeto Lázaro, sobre a Aeterna, sobre o Sindicato... sobre como tudo é a mesma maldita coisa. Ele me deu isso no dia em que morreu. Disse para te entregar quando você estivesse "pronto".
 
-— Ele nunca confiaria em você.
+— E você guardou isso por vinte anos? Por quê?
 
-— Não. Mas ele sabia que eu era ganancioso. E que eu guardaria qualquer segredo se o pagamento fosse bom o suficiente. — Miranda tirou um drive de dados do bolso sujo. Era um modelo militar, blindado, com o selo do Comissariado raspado. — Ele me pagou para esconder isso até que alguém "tocasse o sino" na torre da Aeterna.
+— Porque eu sou um covarde, Gabo! — gritou Miranda, e pela primeira vez, Gabriel viu lágrimas nos olhos do traidor. — Porque eu sabia que se eu te entregasse, você iria atrás deles e morreria. E eu... eu devia isso ao Dante. Manter o filho dele vivo. Mas agora... agora não importa mais.
 
-Gabriel deu um passo à frente, mas Miranda recuou, apertando o drive.
+Um som agudo cortou o ar. O zumbido de propulsores.
 
-— Ah, não. Calma lá. Isso é minha passagem de saída.
+— Drones — sibilou Gabriel.
 
-— O que você quer?
+Do túnel escuro, luzes vermelhas de varredura surgiram. Drones de combate modelo *Vespa*, rápidos e equipados com submetralhadoras.
 
-— Transporte. Um passaporte limpo e uma passagem só de ida para a Colônia Lunar ou qualquer lugar longe dessa chuva maldita. A Aeterna descobriu que eu tenho o drive. Eles estão varrendo a cidade atrás de mim. O "Cirurgião" está na minha cola, Gabo!
+— Vá! — gritou Miranda, sacando uma pistola velha e enferrujada. — Eu seguro eles.
 
-Antes que Gabriel pudesse responder, um feixe de laser vermelho cortou a escuridão, queimando o ar a centímetros da orelha de Miranda. O traidor gritou, jogando-se no chão atrás de uma coluna de concreto.
+— Não seja idiota, Miranda. Você não acerta uma garrafa a dois metros.
 
-— Droga! Eles me acharam!
+Gabriel agarrou o braço do ex-parceiro e o puxou.
 
-Do túnel escuro, sons de botas pesadas chapinharam na água. Drones de combate, pequenos e letais como insetos metálicos, zumbiram ao entrarem na estação.
+— Conheço essa estação. Tem uma saída de manutenção nos fundos que dá no sistema de esgoto pluvial. Vamos.
 
-Gabriel se jogou para trás de uma barreira de catracas, disparando duas vezes contra o primeiro drone. As balas perfuraram a carcaça leve, e a máquina explodiu em faíscas azuis.
+— Gabo, me solta! Eu sou peso morto!
 
-— Maya! — gritou Gabriel para o vazio, esperando que ela estivesse ouvindo pelo comunicador. — Preciso de uma rota de fuga!
+— Você é minha testemunha, seu desgraçado. Você não morre até eu dizer que pode.
 
-A voz de Maya crepitou em seu ouvido, cheia de estática.
+Eles correram. O primeiro drone abriu fogo, as balas ricocheteando nas paredes de azulejo e fazendo chover cacos de cerâmica. Gabriel disparou para trás, derrubando a máquina com um tiro de sorte no rotor central.
 
-— *Gabo! Estou detectando múltiplas assinaturas de calor entrando pelos túneis norte e sul. É um esquadrão de extermínio da Aeterna. Você está cercado!*
+Eles se jogaram através de uma porta de metal enferrujada, Gabriel chutando-a para fechar e travando com um pedaço de cano. Do outro lado, o som de balas batendo contra o metal era ensurdecedor.
 
-Miranda rastejou até Gabriel, sangrando de um corte na testa. Ele estendeu o drive, as mãos tremendo incontrolavelmente.
+— O esgoto vai nos levar para a Represa — ofegou Gabriel, guiando-os pela escuridão. — É longe da rede da Aeterna.
 
-— Tira a gente daqui, Moretti! Pelo amor de Deus!
+Miranda estava pálido, segurando o peito.
 
-Gabriel olhou para o drive, depois para o traidor. Ele pegou o dispositivo e o guardou no bolso.
+— O chip... Gabo... ele tem um bloqueio de DNA. Só o sangue de um Moretti pode abrir. Mas tem uma segunda camada. Uma senha.
 
-— Se sairmos vivos dessa, Miranda, você vai desejar ter morrido aqui.
+— Qual é a senha?
 
-Ele recarregou a Glock.
+Miranda sorriu, os dentes manchados de sangue.
 
-— Maya, acione os protocolos de emergência do metrô. Vamos descer para os trilhos velhos. Vamos para a Represa.
+— A última coisa que seu pai me disse. "O silêncio é a mentira mais alta."
 
-— *A Represa? Aquilo é zona radioativa, Gabo!*
+Gabriel parou por um segundo, olhando para o homem que ele odiou por anos.
 
-— É o único lugar onde eles não vão nos seguir. Agora!
+— Vamos sair dessa, Roberto.
 
-As luzes da estação explodiram quando Maya hackeou a rede elétrica, mergulhando tudo na escuridão total. Gabriel agarrou Miranda pelo colarinho e o puxou para a beira da plataforma.
+— Não prometa o que não pode cumprir, garoto. É falta de educação.
 
-— Corra, seu desgraçado. Corra.
+Eles mergulharam na escuridão dos túneis, enquanto atrás deles, a porta de metal começava a brilhar em laranja, derretendo sob o calor de um maçarico de plasma. A caçada havia começado.

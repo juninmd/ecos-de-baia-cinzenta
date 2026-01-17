@@ -1,63 +1,77 @@
 # Capítulo 14: Caçada ao Invisível
 
-A suspensão de Gabriel durou exatamente doze horas. O tempo suficiente para ele dormir quatro, beber uma garrafa de vinho barato e limpar sua Glock.
+A suspensão de Gabriel durou doze horas. Tempo suficiente para limpar a arma, beber café ruim e perceber que não conseguia ficar parado.
 
-Ele e Valéria não estavam na delegacia. O distintivo de Gabriel estava numa gaveta, mas a arma estava no coldre. Eles estavam em um furgão de vigilância blindado, estacionado nas sombras de um viaduto na Zona Industrial abandonada, o Setor 4.
+Ele e Valéria estavam estacionados em um furgão blindado (roubado da frota de apreensão da polícia) sob o viaduto da Zona Industrial.
 
-— Tem certeza que o sinal veio daqui? — Gabriel perguntou, observando a chuva ácida corroer a pintura de um armazém gigantesco à frente.
+— O chip que achamos na Torre — disse Valéria, digitando em um teclado físico. Seus implantes brilhavam com intensidade máxima. — Ele tem um receptor passivo. Ele só ativa quando recebe um sinal específico.
 
-— O chip tem uma assinatura de handshake criptografada — Valéria respondeu, seus dedos voando sobre um teclado holográfico projetado no ar. O brilho azul iluminava seu rosto pálido e o cabelo agora tingido de um cinza chumbo, camuflado para a missão. — Ele tentou se conectar com esse nó de retransmissão às 03:00 da manhã. É um servidor fantasma.
+— Um sinal de onde? — perguntou Gabriel.
 
-O armazém era uma carcaça de concreto e aço, remanescente da época pré-apagão. Janelas quebradas pareciam órbitas vazias. Não havia luzes, apenas a escuridão úmida de Baía Cinzenta.
+— Do "Gamemaster".
 
-— Parece morto — resmungou Gabriel.
+Valéria girou a tela para ele.
 
-— É o que eles querem que pareça. Mas o consumo de energia naquele subsolo é equivalente ao de um pequeno bairro.
+— Olha isso. É um convite. Está rodando na Dark Web agora mesmo. "Caçada ao Invisível: Temporada 1".
 
-Gabriel engatilhou a arma.
+Gabriel leu. Era um contrato aberto.
 
-— Vamos entrar. Sem distintivos, sem mandado. Apenas nós.
+*ALVO: Gabriel Moretti (O Ex-Herói) e Valéria Cruz (A Traidora).*
+*RECOMPENSA: 10 Milhões de Créditos + Cidadania Platinum.*
+*REGRAS: Vale tudo. Transmissão obrigatória.*
 
-Eles saíram do furgão, a chuva batendo contra seus casacos. O cheiro de enxofre e ozônio era forte. Eles se moveram silenciosamente, sombras entre sombras, aproximando-se da entrada lateral. Valéria usou um decodificador na fechadura eletrônica enferrujada. O mecanismo estalou e cedeu.
+— Estamos valendo dez milhões? — Gabriel sorriu sem humor. — Estou lisonjeado.
 
-O interior cheirava a mofo e óleo velho. Mas, sob o silêncio, Gabriel podia ouvir um zumbido grave. Servidores. Muitos deles.
+— Gabo, não é piada. — Valéria estava pálida. — O contrato não é para mercenários. É aberto ao *público*. Qualquer um com uma arma e uma câmera pode tentar nos matar.
 
-— Óculos térmicos — sussurrou Valéria, ativando os seus. — Tenho assinaturas de calor no nível inferior. Quatro... não, seis alvos. Padrão de patrulha.
+De repente, o furgão balançou. Uma batida forte na lateral.
 
-— Seguranças?
+— Abram! Sabemos que estão aí! — gritou uma voz.
 
-— Eles se movem com precisão demais para serem seguranças de shopping. Mercenários.
+Gabriel olhou pelo monitor externo. Eram três adolescentes. Um segurava um taco de beisebol com pregos, outro uma pistola caseira impressa em 3D, e o terceiro... o terceiro segurava um celular em um pau de selfie, transmitindo ao vivo.
 
-Eles desceram uma escada de metal, o som de seus passos abafado pelo zumbido crescente. O ar ficou mais frio, condicionado para as máquinas. Quando chegaram ao andar dos servidores, a visão era perturbadora.
+— "Fala galera! Achamos eles! Deixem o like para a gente arrombar a porta!" — gritava o streamer.
 
-Corredores infinitos de racks de servidores piscando em vermelho e azul. Mas não eram apenas dados. Entre os racks, havia manequins. Bonecos de teste de colisão, posicionados em cenários grotescos: uma sala de estar, uma cozinha, um quarto. E câmeras. Centenas delas, apontadas para os manequins.
+— Crianças — murmurou Gabriel. — Eles mandaram crianças.
 
-— O que é isso? — Gabriel sussurrou, sentindo o estômago revirar.
+— Eles não mandaram ninguém — disse Valéria. — O algoritmo mandou. A localização do nosso furgão vazou no mapa do jogo.
 
-— Um estúdio — Valéria respondeu, a voz trêmula. — Um cenário.
+Mais pessoas começaram a chegar. Um mecânico com uma chave inglesa gigante. Uma dona de casa com uma faca de cozinha. Um grupo de punks com correntes. Todos olhando para seus celulares, seguindo o ponto vermelho no mapa.
 
-De repente, as luzes do corredor mudaram de azul para um vermelho agressivo. O zumbido dos servidores aumentou de tom, tornando-se um guincho agudo.
+— Temos que sair daqui — disse Gabriel, ligando o motor.
 
-— *Detectado: Jogadores Não Registrados*, — uma voz sintética ecoou pelos alto-falantes. — *Iniciando Evento Dinâmico: Emboscada.*
+— Se atropelarmos eles, vamos dar audiência — avisou Valéria.
 
-— Merda! — Gabriel puxou Valéria para trás de um rack de servidores assim que o primeiro tiro estilhaçou o chão onde eles estavam pisando.
+— Segura firme.
 
-Projéteis de alto calibre rasgaram o ar. Não eram balas comuns; deixavam rastros luminosos, como traçantes de vídeo game.
+Gabriel engatou a ré e pisou fundo. O furgão cantou pneu e disparou para trás, derrubando uma pilha de latas de lixo e assustando a multidão.
 
-— Eles sabiam que viríamos! — gritou Valéria, cobrindo a cabeça.
+O streamer continuou correndo atrás deles, rindo.
 
-— É uma armadilha! — Gabriel respondeu, disparando duas vezes na direção dos tiros. Ele ouviu um grito abafado e o som de metal batendo em metal. — Quantos?
+— "Eles estão fugindo! Covardes!"
 
-— O sistema diz "Horda Nível 1". Gabo, isso é um jogo! Eles estão transmitindo a nossa morte!
+Gabriel girou o volante, entrando na avenida principal. Mas o pesadelo estava apenas começando.
 
-Passos pesados ecoaram no corredor. Figuras surgiram na luz vermelha. Eram humanos, mas vestiam armaduras que pareciam fantasias de vilões de quadrinhos, com capacetes exibindo emoticons de LED que mudavam freneticamente.
+Os semáforos ficaram todos verdes para eles... e para todos os carros que vinham na transversal.
 
-Um deles, com um capacete exibindo um sorriso sádico e empunhando uma marreta hidráulica, correu na direção deles.
+— O Gamemaster está controlando o tráfego — gritou Valéria. — Ele quer um acidente!
 
-— Sorriam para a câmera! — o mercenário rugiu.
+Um caminhão de lixo cruzou o caminho deles. Gabriel freou bruscamente. O furgão derrapou na pista molhada, girando 180 graus.
 
-Gabriel rolou para o lado e atirou no joelho do atacante. O homem caiu, mas continuou rindo enquanto se arrastava.
+Eles pararam de frente para uma parede de drones que flutuavam silenciosamente, filmando.
 
-— Primeira sangue! Os assinantes vão adorar!
+E atrás dos drones, bloqueando a rua, estava um veículo preto, fosco, com o logotipo de um touro mecânico.
 
-Gabriel percebeu com horror que não estava lutando contra soldados. Estava lutando contra artistas performáticos assassinos. E o palco era ali.
+A porta do veículo se abriu. Um homem desceu. Ele vestia uma armadura tática personalizada, pintada com cores neon vibrantes. Em seu peito, uma tela exibia a contagem de visualizações: *5 Milhões*.
+
+— Olá, finalistas! — gritou o homem, sua voz amplificada. — Eu sou o Executor! E hoje, vou cancelar a assinatura de vocês!
+
+Ele levantou um lança-chamas.
+
+— Val, sai do carro! — gritou Gabriel.
+
+O jato de fogo atingiu o furgão. O calor foi instantâneo. Gabriel chutou a porta traseira e eles rolaram para o asfalto quente, enquanto o veículo explodia em uma bola de fogo espetacular atrás deles.
+
+A multidão aplaudiu. Os drones zumbiram mais perto para pegar o melhor ângulo das queimaduras.
+
+A caçada tinha começado.

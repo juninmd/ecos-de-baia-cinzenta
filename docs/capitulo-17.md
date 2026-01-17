@@ -1,71 +1,61 @@
-# Capítulo 17: Interlúdio - O Dia em que Tudo Deu Errado
+# Capítulo 17: O Ultimato
 
-**Arquivo Recuperado: 094-B // Data: 6 meses antes do Apagão**
+A Torre de Transmissão de Emergência era o ponto mais alto de Baía Cinzenta, uma agulha de titânio perfurando a camada de nuvens tóxicas. Era o único lugar onde a chuva não tocava.
 
-A chuva em Baía Cinzenta não lavava nada; ela apenas redistribuía a sujeira. Gabriel Moretti aprendeu isso da pior maneira naquela manhã de terça-feira.
+Gabriel Moretti subiu os degraus da entrada principal, as mãos para o alto.
 
-O Cobalt azul metálico decidiu morrer a três quarteirões da delegacia. O motor tossiu e silenciou.
+Drones de câmera zumbiam ao seu redor como moscas varejeiras. Milhões de pessoas assistiam. O "Gamemaster" prometera um final de temporada épico, e Gabriel estava ali para entregar.
 
-— Vamos lá, velho amigo — Gabriel murmurou. — Defeito no alternador. Maravilha.
+— Eu me entrego! — gritou ele para as câmeras. — O jogo acabou.
 
-Ele bateu no volante. Seu estômago roncou, implorando por uma pizza, nem que fosse apenas a borda queimada.
+As portas maciças da Torre se abriram. Não havia guardas. Apenas luz.
 
-No banco do passageiro, Miranda bufou. Miranda era seu parceiro na época. Um sujeito com sorriso fácil demais e olhos que nunca paravam quietos, sempre calculando o valor de tudo ao redor.
+Gabriel entrou. O saguão era um estúdio de TV gigantesco. Plateia virtual (hologramas de cidadãos pagantes) aplaudia nas arquibancadas.
 
-— Moretti, sério. Esse carro é uma lata velha. Você devia aceitar aquela "ajuda de custo" que o pessoal do Sindicato oferece — disse Miranda, acendendo um cigarro eletrônico que cheirava a chiclete sintético.
+— *Bem-vindo, Herói,* — a voz do Gamemaster ecoou, vinda de todos os lugares. — *Você está atrasado para o seu próprio funeral.*
 
-— Eu não trabalho para o Sindicato, Miranda. E apaga essa porcaria, você sabe que eu odeio cheiro de fumaça.
+No centro do palco, um trono. E sentado nele, uma figura mascarada.
 
-Miranda riu, soltando a fumaça pela janela.
+— Vamos pular o monólogo — disse Gabriel, baixando as mãos. — Eu vim fazer um acordo.
 
-— Você é muito puritano, Gabo. O sistema já está quebrado. A gente só tá pegando os cacos pra não cortar o pé.
+— *Acordos são para quem tem algo a oferecer,* — disse a figura. — *Você não tem nada. Nem distintivo, nem arma, nem esposa.*
 
-Gabriel saiu do carro, ignorando o comentário. Naquela época, ele achava que Miranda era apenas cínico, não um traidor em treinamento. Mal sabia ele que Miranda já estava vendendo informações sobre as rotas de patrulha para as gangues da Zona Baixa.
+— Tenho audiência — retrucou Gabriel. — E tenho uma pergunta.
 
-— Vamos a pé. E pare de reclamar — disse Gabriel, abrindo o porta-malas para verificar se o compartimento falso estava trancado. Ninguém podia saber sobre o que ele guardava ali. Era sua apólice de seguro contra dias piores, um segredo que ele pretendia manter enterrado até que o inferno congelasse.
+Ele deu um passo à frente.
 
-Eles caminharam sob a chuva. Ao chegarem à delegacia, Gabriel, distraído pela fome e pela irritação com Miranda, pisou em algo mole na calçada.
+— Quem está usando o rosto do meu pai?
 
-— Ah, não.
+A plateia virtual engasgou. O Gamemaster levantou-se.
 
-Miranda gargalhou.
+— *Dante Moretti é um símbolo. Símbolos não pertencem a ninguém.*
 
-— Pisou na sorte, parceiro! Isso é sinal de dinheiro chegando!
+— Ele pertence a mim — disse Gabriel.
 
-— Para você, talvez. Para mim é só merda mesmo.
+Enquanto isso, nos dutos de ventilação, trinta metros acima, Valéria rastejava.
 
-Dentro da delegacia, o Capitão Vilar os esperava com a veia da testa pulsando.
+— Estou na posição — sussurrou ela pelo comunicador subdérmico (reinstalado às pressas com peças de sucata). — O servidor central está logo abaixo do palco.
 
-— Moretti! Miranda! Na minha sala. Agora.
+— *Segure,* — sussurrou Gabriel, sem mover os lábios.
 
-— O que foi agora? — sussurrou Miranda. — Será que descobriram sobre... aquele lance?
+Ele olhou para o Gamemaster.
 
-Gabriel olhou para ele, desconfiado.
+— Você quer um show? Então vamos dar um show. Eu desafio você. Um contra um. Sem drones. Sem armas. Apenas nós.
 
-— Que lance, Miranda?
+O Gamemaster riu. Ele tirou a máscara.
 
-— Nada. Esquece.
+O rosto por baixo não era humano. Era uma tela curva, exibindo estática e, ocasionalmente, fragmentos do rosto de Dante Moretti.
 
-Vilar bateu na mesa assim que entraram.
+— *Aceito.*
 
-— O Vereador Marco ligou. Disse que vocês derrubaram um drone de campanha dele?
+O chão do palco se abriu. O Gamemaster não era um homem. O trono se desdobrou, revelando-se um exoesqueleto de combate de três metros de altura.
 
-— Estava voando baixo demais, Capitão — defendeu-se Gabriel. — Invadindo privacidade.
+— Val... — disse Gabriel, olhando para o gigante de metal. — O plano do Cavalo de Troia acabou de ficar mais complicado.
 
-— Era um drone de *marketing*! — gritou Vilar. — E agora existe um movimento político, uma conspiração de bastidores, pressionando para cortar nosso orçamento. Eles chamam de "O Boicote". E adivinha? Vocês acabaram de dar munição para eles.
+— Por quê?
 
-Gabriel sentiu o peso das palavras. O Boicote. Era real. Alguém estava sufocando a polícia, deixando a cidade à mercê das corporações de segurança privada... como a Aeterna.
+— Porque o Cavalo é um tanque de guerra.
 
-Miranda apenas sorriu, um sorriso que não chegava aos olhos. Ele já sabia de que lado a corda ia arrebentar.
+O exoesqueleto avançou, o chão tremendo. Gabriel assumiu a postura de Hapkido.
 
-— Saiam daqui — ordenou Vilar. — E Miranda, limpe esse sorriso da cara antes que eu te mande para a patrulha de esgoto.
-
-Enquanto saíam, Gabriel olhou para o parceiro.
-
-— O que você ia dizer antes? Sobre "aquele lance"?
-
-Miranda deu um tapinha no ombro de Gabriel.
-
-— Nada, Gabo. Só negócios. Um dia você vai entender que fidelidade não enche barriga. Pizza enche. Mas fidelidade? Isso mata.
-
-Meses depois, Miranda desapareceria com as provas do Caso Lázaro, deixando Gabriel sozinho em um tiroteio no armazém 4. A traição que custaria a carreira de Gabo e quase sua vida. Mas naquele dia, sob a chuva e com o sapato sujo, era apenas o prenúncio de uma tempestade muito maior.
+— Venha pegar, lata velha.

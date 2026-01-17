@@ -1,77 +1,125 @@
 # Capítulo 10: A Fábrica de Sorrisos
 
-O Setor 4 fedia a enxofre e plástico queimado. Era o cemitério industrial de Baía Cinzenta, onde fábricas automatizadas zumbiam noite e dia produzindo bens de consumo baratos que ninguém podia pagar.
+O Setor 4 era onde a cidade escondia suas vergonhas. Fábricas de processamento de lixo, estações de tratamento de água tóxica e, agora, segundo as pistas de Kiko Vibe, algo muito pior.
 
-O armazém da "Iniciativa Lázaro Renascido" parecia inócuo por fora: um caixote de metal corrugado cercado por arame farpado. Mas Valéria detectou o consumo de energia.
+Gabriel estacionou o Cobalt a uma distância segura. Valéria ainda estava recuperando a cor no rosto após a queda da torre.
 
-— Eles estão puxando energia suficiente para iluminar um estádio — disse ela, ajustando a visão térmica de seus óculos. — E tem guardas. Muitos deles. Não são droides. São mercenários humanos.
+— Nunca mais — murmurou ela, ajustando a jaqueta. — Da próxima vez, a gente desce de escada.
 
-— "Streamer-Soldados" — disse Gabriel, observando um guarda que portava um rifle de assalto cromado e uma câmera GoPro montada no ombro. — Eles transmitem os tiroteios. Ganham bônus por headshots.
+— O local é aquele — Gabriel apontou para um galpão antigo que, segundo a placa enferrujada, pertencia a uma empresa de "Embalagens Sustentáveis".
 
-— Que horror — murmurou Valéria. — Mas o sinal deles está encriptado.
+Mas não havia nada de sustentável ali. O cheiro era de carne podre mascarada por produtos químicos industriais.
 
-— Vamos fazer barulho — disse Gabriel. — Ou entrar pelos fundos?
+Eles se aproximaram pelas sombras. Valéria usou um drone minúsculo, do tamanho de uma mosca, para espiar pelas janelas altas.
 
-— Entrar pelos fundos. Não quero virar clipe de killcam.
+— O que você vê? — sussurrou Gabriel.
 
-Eles contornaram o perímetro. Valéria hackeou a fechadura eletrônica de uma porta de serviço em segundos.
+Valéria projetou a imagem do drone em seu relógio. A imagem era granulada, mas clara o suficiente.
 
-— Estamos dentro. Silêncio no rádio.
+— É uma linha de montagem — disse ela, a voz falhando. — Mas não de embalagens.
 
-O interior do armazém era um pesadelo neon.
+Gabriel olhou. Eram pessoas. Deitadas em esteiras rolantes, passando por máquinas cirúrgicas automatizadas. Braços robóticos cortavam, inseriam, costuravam.
 
-Não era uma fábrica de produtos. Era uma colmeia.
+— O que eles estão fazendo com eles? — Gabriel sentiu o estômago revirar.
 
-Centenas de cápsulas transparentes estavam alinhadas em fileiras intermináveis. Dentro de cada uma, havia uma pessoa. A maioria jovens, bonitos, estilizados. Eles estavam conectados a tubos de alimentação e cabos de dados.
+— Estão... esvaziando-os — Valéria ampliou a imagem. — Tirando órgãos não vitais. Substituindo por hardware. Estão fazendo "bonecos".
 
-E todos eles sorriam.
+— Servidores biológicos — percebeu Gabriel. — Igual ao que a Aeterna fazia na represa. Mas em escala industrial.
 
-Acima de cada cápsula, telas mostravam o que eles estavam "vivendo". Um rapaz corria em uma praia virtual. Uma garota dançava em uma boate infinita.
+— Não, Gabo. Olha os rostos.
 
-— Eles não estão mortos — sussurrou Valéria, horrorizada. — Estão... trabalhando.
+Gabriel olhou. Os "bonecos" não eram aleatórios. Eram bonitos. Rostos simétricos, corpos esculpidos. E todos tinham uma coisa em comum: um sorriso cirurgicamente fixado.
 
-Gabriel se aproximou de uma cápsula. O painel dizia: *STATUS: TRANSMITINDO. HUMOR: EUFORIA FORÇADA NÍVEL 5.*
+— Kiko falou sobre a Rede se alimentar — disse Gabriel. — Eles estão criando os usuários perfeitos. Gente que não reclama, não pensa, só consome e gera engajamento.
 
-— Eles são os influenciadores — percebeu Gabriel. — Não são reais. Quer dizer, os corpos são. Mas as mentes...
+— Zumbis de clique — Valéria estremeceu. — Eles usam os corpos para inflar números, gerar tráfego falso, manipular a opinião pública... é uma fazenda de bots feita de carne.
 
-— Estão em loop — disse Valéria, acessando o terminal local. — Meu Deus, Gabo. Olha isso. Eles usam Lázaro modificado para manter o cérebro em estado de plasticidade máxima, e depois injetam a personalidade que o público quer. Se o público quer um bad boy, eles ajustam a química. Se querem uma garota doce, ajustam de novo.
+— Precisamos entrar.
 
-— Escravidão digital — rosnou Gabriel. — Quem está financiando isso?
+— Não podemos. Olha a segurança.
 
-— Procurando na rede financeira... — Os olhos de Valéria piscaram rapidamente. — É uma teia de laranjas, mas todos os caminhos levam a uma conta *offshore*. E a conta está ligada a uma fundação de caridade.
+A imagem mostrou guardas patrulhando o interior. Mas não eram guardas comuns. Eram criaturas humanoides, vestidas em látex preto, com movimentos espasmódicos.
 
-— Qual fundação? — Gabriel já sabia a resposta.
+— O que são aquilo?
 
-— "Fundação Moretti para o Progresso Digital".
+— "Lázaros" — disse Valéria. — Viciados que sofreram a Ruptura total. A mente se foi, sobrou só o corpo. Controlados remotamente. São fortes, não sentem dor e obedecem a qualquer comando.
 
-Gabriel socou a parede de metal.
+— Precisamos de uma distração.
 
-— Marco.
+— Eu posso sobrecarregar a rede elétrica local — sugeriu Valéria. — Causar um blecaute. Mas vai alertar o sistema central.
 
-— Ele está criando um exército de eleitores zumbis — disse Valéria. — E influenciadores perfeitos para dizer ao povo que está tudo bem.
+— Faça. Eu cuido dos guardas.
 
-De repente, o alarme soou. Luzes vermelhas giraram.
+Valéria fechou os olhos, concentrando-se. As luzes do galpão piscaram e morreram.
 
-— Intrusos detectados no Setor G — uma voz robótica anunciou.
+— Agora!
 
-As portas laterais se abriram. Uma dúzia de mercenários entrou correndo, rifles erguidos, câmeras gravando.
+Gabriel chutou a porta lateral e entrou, a Glock e a lanterna tática erguidas. A escuridão era total, exceto pelas luzes de emergência vermelhas que banhavam o matadouro tecnológico em sangue.
 
-— Sorriam para a câmera! — gritou o líder, um homem com um braço mecânico dourado.
+Os "Lázaros" viraram-se em uníssono, seus olhos brilhando com implantes de visão noturna. Eles não gritaram. Apenas correram em direção a Gabriel, em silêncio absoluto.
 
-— Val, se esconda! — gritou Gabriel, virando uma mesa de metal para usar de cobertura.
+Gabriel disparou. Headshot. O primeiro caiu, mas continuou se debatendo.
 
-O tiroteio começou. Gabriel disparou sua Glock com precisão, acertando o ombro do mercenário dourado. Mas eles eram muitos.
+— Mire nas articulações! — gritou Valéria, entrando logo atrás e disparando pulsos eletromagnéticos de uma pistola compacta. — Eles não precisam do cérebro para andar!
 
-— Preciso de cobertura! — gritou Valéria, tentando hackear as torretas de defesa do teto.
+Gabriel mirou nos joelhos. O som de ossos quebrando se misturou ao zumbido das serras cirúrgicas que, estupidamente, continuavam a operar na linha de montagem.
 
-— Estou tentando! — Gabriel trocou o pente. — Mas eles têm suporte aéreo!
+Eles avançaram, lutando passo a passo. Gabriel usava o cenário — empurrando carrinhos de instrumentos, derrubando prateleiras — para conter a maré de carne morta.
 
-Drones de combate zumbiram sobre eles, metralhando a cobertura de Gabriel.
+No final do galpão, havia um escritório elevado, com paredes de vidro. Uma figura observava lá de cima.
 
-— Consegui! — gritou Valéria.
+Um homem vestindo um jaleco branco imaculado, usando uma máscara de gás estilizada como um focinho de animal.
 
-As torretas do teto giraram e começaram a disparar contra os mercenários. O caos se instalou.
+— O Taxidermista? — perguntou Gabriel.
 
-— Vamos sair daqui! — Gabriel agarrou Valéria pelo braço e eles correram em direção à saída de emergência.
+— Não — disse Valéria. — O Taxidermista era um artista. Esse cara... esse cara é um gerente de fábrica.
 
-Atrás deles, a fábrica de sorrisos queimava, as cápsulas se quebrando, os sonhos virtuais se transformando em pesadelos reais.
+A figura no escritório apertou um botão. O chão tremeu.
+
+Do fundo do galpão, algo enorme começou a se mover. Uma amálgama de corpos e metal, um "Rei dos Ratos" feito de peças rejeitadas.
+
+— Val — disse Gabriel, recarregando a arma. — Acho que vamos precisar de um plano B.
+
+— O plano B é correr?
+
+— O plano B é explodir tudo.
+
+Gabriel viu tanques de oxigênio líquido alinhados perto das máquinas cirúrgicas.
+
+— Se eu acertar aquela válvula, isso aqui vira um picolé gigante.
+
+— Você vai nos congelar também!
+
+— Só se formos lentos. Corre para a saída!
+
+Gabriel mirou. A criatura gigante rugiu — um som feito de vozes humanas distorcidas.
+
+Ele disparou.
+
+A válvula explodiu. Uma nuvem branca de frio absoluto se expandiu em uma onda de choque. Gabriel se virou e correu, agarrando Valéria. O frio mordeu suas costas, congelando o ar em seus pulmões.
+
+Eles se jogaram para fora da porta lateral no momento em que a geada consumia tudo lá dentro. O som de metal estalando e carne congelando foi o único ruído.
+
+Do lado de fora, deitados na lama, eles olharam para o galpão agora silencioso e coberto de gelo.
+
+— Você... — Valéria batia os dentes. — Você é maluco.
+
+— Funcionou — disse Gabriel, levantando-se com dificuldade.
+
+Mas então, o celular de Valéria vibrou. Uma notificação.
+
+— Gabo... — ela olhou para a tela, horrorizada. — O canal do Kiko Vibe... ele acabou de postar um vídeo novo. Ao vivo.
+
+— O quê?
+
+Eles olharam para a tela. Kiko estava lá, perfeito, sorrindo, em um cenário de praia.
+
+*"Oi, galera! Desculpem o sumiço. Tive uns problemas técnicos, mas estou de volta! E a novidade é incrível..."*
+
+— É um deepfake — disse Valéria. — Mas é perfeito. Indetectável.
+
+Gabriel olhou para o galpão congelado.
+
+— Nós destruímos a fábrica. Mas não destruímos o sinal.
+
+A guerra pela realidade tinha apenas começado.

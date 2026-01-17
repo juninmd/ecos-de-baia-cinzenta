@@ -1,33 +1,53 @@
 # Capítulo 18: A Queda
 
-A chuva em Baía Cinzenta não lavava nada; apenas deixava a sujeira mais escorregadia.
+A luta não foi justa. Nunca é.
 
-Na Rodovia 04, o som não era humano. Era o grito agudo de duas BMW S1000RR rasgando o ar úmido, os velocímetros digitais piscando freneticamente enquanto a agulha virtual beijava a marca dos 300 km/h. O mundo ao redor era um borrão de neon distorcido e sombras alongadas.
+O exoesqueleto do Gamemaster era rápido demais para seu tamanho. Um braço hidráulico atingiu Gabriel no peito, jogando-o contra o cenário holográfico de uma "Baía Cinzenta Feliz". O cenário piscou e desapareceu.
 
-Eles não eram pilotos profissionais. Eram ladrões, mercenários de baixa patente fugindo de um serviço que deu errado no Setor 4. A adrenalina pulsava mais forte que o motor de quatro cilindros entre as pernas.
+Gabriel cuspiu sangue. Três costelas quebradas. Talvez quatro.
 
-— Corta pra esquerda! — gritou o da frente pelo comunicador, a voz distorcida pela estática e pelo vento.
+— *Decepcionante,* — zumbiu a máquina. — *A audiência está caindo.*
 
-Eles inclinaram as motos em uníssono, faíscas voando das pedaleiras quando o metal tocou o asfalto molhado. Entraram numa rua lateral, uma daquelas vielas industriais que não apareciam nos mapas oficiais do GPS da Rede. A ideia era desaparecer na labirinta de galpões abandonados.
+— Val... agora! — gritou Gabriel.
 
-Mas a rua era uma armadilha.
+Valéria, pendurada no teto pelos cabos de dados, soltou-se. Ela caiu diretamente sobre a "cabeça" do exoesqueleto. Não com uma arma, mas com um disruptor de sinal que ela montara com o micro-ondas do apartamento de Gabriel.
 
-O asfalto liso e bem cuidado terminava abruptamente, não por negligência, mas por design. Uma barreira de contenção de concreto armado, invisível na penumbra e sem sinalização holográfica de aviso, bloqueava o caminho. Alguém queria que aquela rota fosse um beco sem saída definitivo.
+Ela cravou o dispositivo na porta de acesso da máquina.
 
-A 300 por hora, a física não perdoa. Não houve tempo para frear, nem para rezar.
+— *Erro de Sistema. Interferência Externa.*
 
-A moto da frente colidiu com o concreto. O som foi um trovão seco, o metal se compactando em uma escultura grotesca instantânea. O piloto não foi projetado; ele foi obliterado contra a barreira, seu corpo tornando-se parte da massa de destroços fumegantes.
+O exoesqueleto convulsionou. Gabriel aproveitou a chance. Ele correu e deslizou por baixo das pernas de metal, chutando os cabos hidráulicos expostos nos joelhos.
 
-O segundo piloto, numa reação de puro pânico, deitou a moto. O chassi raspou no chão, lançando um leque de faíscas que iluminou a cena como fogos de artifício no inferno. Ele deslizou, a fricção derretendo o traje sintético e a carne por baixo, até parar a centímetros dos restos mortais de seu parceiro.
+Óleo negro vazou. A máquina tombou de joelhos.
 
-O silêncio que se seguiu foi mais alto que o impacto. Apenas o crepitar das chamas e a chuva sibilando no metal quente.
+— Você não é meu pai — rosnou Gabriel, arrancando a placa frontal do processador. — Você é só um brinquedo quebrado.
 
-O sobrevivente tentou se levantar, um gemido borbulhante escapando de seus lábios quebrados. Ele olhou para cima.
+Ele enfiou a mão nos circuitos e arrancou o núcleo de memória.
 
-No topo da barreira de concreto, uma silhueta observava. Não era a polícia. A figura vestia um sobretudo escuro e segurava algo que brilhava em vermelho — um charuto eletrônico ou um olho cibernético, impossível dizer na escuridão.
+— O que você pegou? — gritou Valéria, saltando da máquina antes que ela explodisse.
 
-— Serviço mal feito — a voz veio de cima, fria e metálica.
+— A chave — disse Gabriel, segurando um cilindro de dados brilhante. — Ou o mapa. Vamos descobrir.
 
-Um único tiro ecoou, abafado por um silenciador. O sobrevivente caiu, o corpo relaxando na poça de óleo e sangue.
+— *Alerta de Autodestruição,* — a voz do prédio anunciou. — *Colapso estrutural em 10 segundos.*
 
-Em Baía Cinzenta, falhar no serviço é a única demissão aceita.
+— O Gamemaster não gosta de perder — disse Valéria. — Ele vai derrubar a torre com a gente dentro!
+
+Eles correram para a janela panorâmica. 150 andares de queda livre.
+
+— Confia em mim? — perguntou Gabriel, pela segunda vez naquela semana.
+
+— Eu odeio quando você pergunta isso!
+
+Gabriel disparou contra o vidro com a arma que tomara de um drone caído. O vidro estilhaçou. O vento uivou, sugando tudo para fora.
+
+Eles pularam.
+
+Não para a morte, mas para os trilhos do Maglev (trem magnético) que passava rente à torre.
+
+Eles caíram no teto do trem em movimento, rolando violentamente. Gabriel segurou Valéria antes que ela escorregasse para o abismo.
+
+A Torre de Emergência explodiu atrás deles, um fogo de artifício de bilhões de créditos iluminando a noite.
+
+Eles estavam vivos. Machucados, quebrados, mas vivos. E tinham o núcleo.
+
+O trem mergulhou em um túnel, levando-os de volta para a escuridão, para o subsolo, para a Zona Morta. Onde a verdade os esperava.

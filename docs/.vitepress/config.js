@@ -19,7 +19,7 @@ module.exports = {
         items: [
           { text: 'Capítulo 1: Olhos de Vidro', link: '/capitulo-1' },
           { text: 'Capítulo 2: Náufragos de Concreto', link: '/capitulo-2' },
-          { text: 'Capítulo 3: O Fantasma da Máquina', link: '/capitulo-3' },
+          { text: 'Capítulo 3: Teatro de Carne', link: '/capitulo-3' },
           { text: 'Capítulo 4: A Torre de Marfim', link: '/capitulo-4' },
         ]
       },
@@ -53,7 +53,7 @@ module.exports = {
       {
         text: 'Parte V: Ecos',
         items: [
-          { text: 'Capítulo 17: Interlúdio - O Dia em que Tudo Deu Errado', link: '/capitulo-17' },
+          { text: 'Capítulo 17: O Ultimato', link: '/capitulo-17' },
           { text: 'Capítulo 18: A Queda', link: '/capitulo-18' },
           { text: 'Capítulo 19: O Código Morto', link: '/capitulo-19' },
           { text: 'Capítulo 20: Profanação', link: '/capitulo-20' },

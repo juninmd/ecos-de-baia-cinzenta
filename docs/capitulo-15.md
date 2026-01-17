@@ -1,63 +1,113 @@
 # Capítulo 15: Protocolo de Extermínio
 
-O mercenário com a marreta tentou se levantar, mas Gabriel chutou a arma para longe e acertou uma coronhada no capacete dele. O visor de LED piscou e apagou.
+Eles correram para o labirinto do Distrito 4. Fábricas abandonadas, becos sem saída, esqueletos de prédios.
 
-— Val, preciso de uma saída! — gritou Gabriel, disparando contra dois atiradores que avançavam pelo flanco esquerdo.
+Mas não havia onde se esconder.
 
-— Estou tentando! O sinal está bloqueado! — Valéria estava agachada atrás de uma unidade de resfriamento, seus dedos sangrando de tanto digitar em seu terminal de pulso. — Eles têm um jammer de nível militar. Não consigo chamar reforços, nem hackear as portas!
+— O mapa! — ofegou Valéria, correndo ao lado de Gabriel. — O mapa do jogo atualiza nossa posição a cada 30 segundos! Eles têm acesso aos meus implantes!
 
-As balas zuniam, arrancando faíscas dos servidores. O ar estava cheio de fumaça e estática.
+— Desliga eles! — gritou Gabriel, disparando para trás, para manter o "Executor" à distância.
 
-— *Evento de Audiência: Aumentar Dificuldade*, — a voz sintética anunciou.
+— Se eu desligar, eu morro! Eles controlam meu sistema nervoso autônomo!
 
-O chão tremeu. Das aberturas de ventilação no teto, drones do tamanho de gatos domésticos despencaram. Eles não atiravam. Eles *explodiam*.
+Gabriel parou. Ele olhou para Valéria. Ela estava suando, tremendo.
 
-— Cuidado! — Valéria empurrou Gabriel, ativando um escudo eletromagnético portátil que durou apenas três segundos, o suficiente para desviar a onda de choque de um drone suicida.
+— Eles hackearam você?
 
-Eles foram jogados contra a parede. Gabriel sentiu uma costela estalar. Ele tossiu, o gosto de cobre na boca.
+— Eu sou o GPS, Gabo. Eu sou a isca.
 
-— Estamos encurralados — ele grunhiu, trocando o carregador da Glock. Restavam apenas dois pentes.
+Um tiro de sniper ricocheteou na parede ao lado da cabeça de Gabriel. Ele empurrou Valéria para dentro de uma loja de departamentos em ruínas.
 
-— O jammer... — Valéria apontou para o centro do salão, onde uma torre de servidores negra pulsava com uma luz roxa. — Está ali. Se eu chegar perto, posso sobrecarregar o núcleo e causar um PEM localizado.
+Lá dentro, manequins quebrados cobriam o chão como cadáveres de plástico.
 
-— Vai fritar seus implantes, Val.
+— Precisamos tirar isso de você — disse Gabriel.
 
-— É isso ou virar estatística de *stream*!
+— Não dá! Precisa de cirurgia!
 
-Gabriel olhou para ela. Viu o medo, mas também a determinação.
+— Não temos cirurgião. Temos uma faca e um isqueiro.
 
-— Eu te dou cobertura. No meu sinal.
+Valéria olhou para ele, aterrorizada. Mas então, uma nova notificação apareceu em sua visão.
 
-Gabriel respirou fundo. A adrenalina entorpecia a dor na costela. Ele se levantou, saindo da cobertura.
+*NOVO DESAFIO: SOBREVIVA À HORDA POR 10 MINUTOS.*
 
-— EI! SEUS FILHOS DA PUTA! QUEREM SHOW? — ele gritou, atraindo o fogo para si. — ENTÃO PEGUEM!
+Do lado de fora, o som de sirenes. Não de polícia. De motos. Gangues. Atraídas pelo prêmio.
 
-Ele correu em zigue-zague, disparando com precisão letal. Um tiro, um alvo. Ele derrubou um atirador que estava em uma passarela superior. As balas dos mercenários ricocheteavam ao seu redor, rasgando seu sobretudo.
+— Eles cercaram o prédio — disse Gabriel, espiando pelas tábuas da janela. — Val, você consegue hackear o sinal do jogo?
 
-Valéria correu. Ela era pequena e rápida, deslizando sob os tiros. Ela chegou à torre negra e conectou seu cabo neural diretamente na porta de acesso.
+— Não com eles dentro da minha cabeça! O ruído é muito alto!
 
-O grito dela foi aterrorizante.
+— Então vamos fazer barulho também.
 
-O corpo de Valéria arqueou para trás enquanto a eletricidade percorria seu sistema nervoso. Os LEDs em seu rosto brilharam em um branco cegante e depois estouraram.
+Gabriel começou a arrastar os manequins para a entrada, criando uma barricada.
 
-— AGORA! — ela gritou, sua voz distorcida.
+— O que você vai fazer?
 
-A torre explodiu em uma onda de energia silenciosa. As luzes se apagaram. Os visores dos mercenários pifaram. Os drones caíram mortos no chão.
+— Você disse que eles querem um show. Vamos dar um show.
 
-Escuridão total.
+Gabriel pegou um galão de fluido de isqueiro de uma prateleira empoeirada. Ele encharcou os manequins.
 
-— Óculos noturnos queimados! — gritou um dos mercenários no escuro. — Não vejo nada!
+As motos pararam lá fora. Correntes, tacos, gritos de guerra. Eram os "Filhos da Ferrugem", uma gangue conhecida por sua brutalidade.
 
-Gabriel, acostumado à escuridão das ruas de Baía Cinzenta e guiado apenas pelo som e pelo instinto, moveu-se. Ele era o predador agora.
+— Saiam, ratos! — gritou o líder da gangue. — A gente quer a grana!
 
-*Bang. Bang. Bang.*
+Gabriel acendeu o isqueiro.
 
-Três disparos na escuridão. Três corpos caindo.
+— Val, quando eu disser, você corre para os fundos. Existe uma saída de carga.
 
-Ele tateou até encontrar Valéria. Ela estava inconsciente, cheirando a plástico queimado. Ele a pegou no colo; ela parecia leve demais.
+— E você?
 
-— Aguenta firme, parceira — ele sussurrou.
+— Eu vou cancelar a transmissão.
 
-Ele correu para a saída de emergência manual que Valéria havia indicado antes do ataque. Com um chute, ele abriu a porta enferrujada.
+Gabriel jogou o isqueiro. A barricada de manequins explodiu em chamas, criando uma parede de fogo entre eles e a horda.
 
-A chuva ácida do lado de fora nunca pareceu tão acolhedora.
+Ao mesmo tempo, Gabriel atirou nos extintores de incêndio presos no teto. A espuma química explodiu, criando uma névoa branca densa que cegou as câmeras dos drones que tentavam entrar pelas janelas.
+
+— AGORA!
+
+Valéria correu. Gabriel ficou para trás, disparando através da fumaça e do fogo, mantendo as cabeças baixas.
+
+Mas então, ele sentiu. Um zumbido. Não no ouvido, mas no osso.
+
+O Executor entrou pela parede lateral, atravessando o tijolo como se fosse papel. Sua armadura neon brilhava através da fumaça.
+
+— Truques baratos, Detetive! — O Executor riu, levantando seu lança-chamas.
+
+Gabriel não tinha para onde correr. Ele olhou para o Executor, depois para o teto, onde um lustre de cristal maciço (relíquia de quando aquilo era uma loja de luxo) estava pendurado por um fio.
+
+— O público adora uma reviravolta — disse Gabriel.
+
+Ele atirou no fio.
+
+O lustre de duas toneladas despencou. O Executor olhou para cima tarde demais.
+
+O impacto foi estrondoso. O chão cedeu sob o peso, e o mercenário, junto com sua armadura e seu ego, despencou para o porão inundado abaixo.
+
+Gabriel correu para os fundos, tossindo fumaça.
+
+Ele encontrou Valéria na saída de carga. Ela estava encolhida, segurando a cabeça.
+
+— O sinal... parou — sussurrou ela.
+
+— O quê?
+
+— O Gamemaster... ele pausou o jogo.
+
+— Por quê?
+
+Valéria apontou para o céu.
+
+Um holograma gigantesco apareceu sobre a cidade. Era um rosto mascarado.
+
+*— PARABÉNS, JOGADORES. FASE 1 CONCLUÍDA. PREPAREM-SE PARA A FASE 2: A CIDADE SEM LEI.*
+
+Todas as luzes da cidade se apagaram. Todas.
+
+O Apagão Total.
+
+Na escuridão, apenas os gritos e os tiros podiam ser ouvidos.
+
+— Eles desligaram a energia — disse Gabriel. — Sem câmeras. Sem regras.
+
+— Agora é cada um por si — disse Valéria.
+
+— Não — Gabriel segurou a mão dela. — Agora é a nossa vez de caçar.

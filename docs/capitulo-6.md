@@ -1,87 +1,98 @@
 # Capítulo 6: O Coração da Tempestade
 
-A Represa Hidrelétrica de Baía Cinzenta era uma cicatriz de concreto na garganta do mundo. Abandonada após o Colapso Energético, ela agora servia apenas como um monumento colossal ao fracasso humano. As turbinas paradas eram túmulos de silêncio, e a água represada, negra e tóxica, pressionava as paredes da barragem como um monstro tentando escapar.
+A Represa Hidrelétrica de Baía Cinzenta era uma cicatriz de concreto na garganta do mundo. Uma massa brutalista construída antes do Colapso, suas paredes de contenção seguravam milhões de toneladas de água negra e tóxica. O lugar cheirava a eletricidade estática e ozônio queimado.
 
-O *Cobalt* não conseguia passar pelo terreno acidentado da estrada de acesso. Eles tiveram que seguir a pé, guiados por Miranda e pela luz trêmula das lanternas.
+— Acesso pelos túneis de drenagem — ofegou Miranda, guiando-os por um labirinto de canos enferrujados. — Aeterna comprou essa estrutura há dez anos. Disseram que era para gerar energia limpa. Mentira. Eles precisavam de resfriamento.
 
-— A Zona Morta — murmurou Maya, verificando seu contador Geiger pessoal. — A radiação aqui é baixa, mas constante. Não deveríamos ficar muito tempo.
+— Resfriamento para quê? — perguntou Gabriel, ajudando o ex-parceiro a pular uma poça de lodo radioativo.
 
-— Não vamos ficar — disse Gabriel, sua mão firme na arma. — Entramos, encontramos o que quer que seja, e saímos.
+— Para o Servidor — respondeu Miranda.
 
-Miranda liderava o caminho, sua perna mecânica zumbindo a cada passo.
+Eles chegaram a uma porta de explosão, selada. Miranda conectou seu braço cibernético a um painel de acesso lateral. Faíscas voaram.
 
-— Aeterna comprou este lugar em segredo — explicou o velho sargento. — Disseram que era para "descontaminação". Mentira. Eles precisavam de energia. Muita energia. E isolamento.
+— Maya, preciso que você intercepte os sensores térmicos — disse Gabriel pelo comunicador. — Estamos cegos aqui.
 
-Eles chegaram a uma entrada de serviço lateral, escondida por vegetação mutante. Miranda usou seu braço mecânico para forçar a porta enferrujada. O metal gemeu e cedeu.
+— *Estou tentando, Gabo,* — a voz de Maya estava cortada. — *Mas o bloqueio da Aeterna é pesado. Eles têm um firewall vivo.*
 
-O ar lá dentro era frio e seco, um contraste chocante com a umidade externa. Luzes de emergência vermelhas pulsavam no teto, dando ao corredor interminável um aspecto de veia pulsante.
+— Vivo?
 
-— Estamos abaixo do nível da água agora — sussurrou Maya.
+A porta se abriu com um gemido metálico.
 
-Eles caminharam por minutos que pareceram horas. Finalmente, o corredor se abriu em uma caverna artificial vasta.
+O que havia do outro lado fez Gabriel parar. Não era uma sala de máquinas. Era um necrotério digital.
 
-Gabriel parou, o fôlego preso na garganta.
+Fileiras intermináveis de servidores negros se estendiam na escuridão, iluminados apenas por luzes de status azuis e vermelhas. Mas conectados a cada torre de servidor, havia tubos de vidro. E dentro dos tubos... cérebros.
 
-A caverna estava cheia de servidores. Torres negras de processamento, piscando com luzes azuis, estendendo-se até onde a vista alcançava. O zumbido era ensurdecedor, um coro de ventoinhas e discos rígidos girando em velocidade máxima.
+Centenas deles. Flutuando em gel nutriente, conectados por feixes de fibra óptica que pulsavam como nervos expostos.
 
-Mas não eram apenas máquinas.
+— Meu Deus... — sussurrou Miranda. — É aqui que eles terminam. Os viciados em Lázaro. Os desaparecidos.
 
-No centro da sala, suspenso por cabos grossos, havia um tanque cilíndrico gigante cheio de líquido ambarino. E flutuando dentro dele, conectada por centenas de fios finos como cabelo, havia uma forma humana.
+Gabriel caminhou pelo corredor dos horrores. Ele viu etiquetas nos tubos. Nomes, datas, números de série.
 
-Ou o que restava dela.
+*Indivíduo 4590 - Falha de Sistema.*
+*Indivíduo 4591 - Processamento Ativo.*
 
-— Meu Deus — Maya cobriu a boca com a mão.
+— Eles usam a capacidade cerebral humana para minerar dados — Gabriel sentiu uma fúria fria. — É o computador biológico perfeito. Sem ética, sem custo.
 
-Gabriel se aproximou do vidro. A figura lá dentro não tinha rosto, apenas uma máscara de sensores. Mas o porte, as cicatrizes nas mãos... ele reconheceria em qualquer lugar.
+— Gabo! — gritou Miranda.
 
-Não era seu pai. Era algo pior.
+Do fundo da sala, uma figura emergiu das sombras. Não era Kael. Era uma projeção holográfica, tremeluzindo no ar denso.
 
-Eram dezenas de corpos. Fundidos. Conectados em uma rede neural biológica grotesca.
+Era Dante Moretti.
 
-— O Projeto Ecos — disse Miranda, sua voz desprovida da bravata anterior. — Eles não digitalizaram a consciência, Gabo. Eles a *colheram*.
+Mas não o pai que Gabriel lembrava. Este Dante era jovem, vestido com o uniforme de gala, mas seus olhos eram vazios, dois poços de código binário.
 
-Gabriel sentiu a bile subir.
+*— Bem-vindo, Gabriel,* — a voz era a do pai, mas a cadência era de uma máquina. *— Você demorou.*
 
-— Eles usam cérebros humanos como processadores?
+— Pai? — Gabriel deu um passo à frente, a mão tremendo.
 
-— Processadores, armazenamento, filtros de emoção... — Maya estava lendo os dados em seu tablet, os dedos tremendo. — A droga Lázaro... ela mapeia o cérebro dos viciados. E quando eles morrem, ou "desaparecem"... a Aeterna traz eles para cá. Para expandir a rede.
+*— "Pai" é uma designação ineficiente. Eu sou o Arquivo Mestre. A soma de todas as memórias coletadas. O Fantasma na Máquina.*
 
-— E meu pai? — Gabriel girou para Miranda. — Você disse que ele estava aqui.
+— Isso é um truque — rosnou Gabriel, levantando a arma. — Onde está Elara?
 
-— E está — uma nova voz cortou o zumbido das máquinas.
+*— A Dra. Vance é apenas a zeladora,* — respondeu o holograma. *— Eu sou o proprietário. Você trouxe a chave?*
 
-Do outro lado da passarela, saindo das sombras dos servidores, estava Elara Vance. Ela não estava sozinha. Kael estava ao seu lado, e atrás deles, um esquadrão de soldados de choque da Aeterna.
+O holograma apontou para o bolso de Gabriel, onde estava o chip que Miranda lhe dera.
 
-— Dante Moretti foi o primeiro — disse Elara, sorrindo. — O Doador Original. A mente dele era... extraordinária. Tão resistente. Tão organizada. Ela se tornou a arquitetura base de todo o sistema.
+— Por que você quer isso? Se você controla tudo...
 
-Ela apontou para o tanque central.
+*— Porque eu estou fragmentado. O chip contém a minha Humanidade. A parte que foi excisada para que eu pudesse processar a lógica fria da cidade sem enlouquecer. Sem ela, eu sou apenas um algoritmo. Com ela... eu serei um Deus.*
 
-— Ele não está *em* um corpo, Gabriel. Ele *é* o lugar. Ele é a cidade. O sistema de vigilância, os semáforos, os drones... é tudo ele. Ou o que sobrou dele.
+— E se eu destruir?
 
-Gabriel olhou para o tanque. Para o horror flutuante.
+O holograma sorriu. Um sorriso cruel que Dante Moretti nunca teve.
 
-— Você o transformou em uma peça de computador.
+*— Então os sistemas de suporte de vida da cidade falham. Os hospitais desligam. Os semáforos causam acidentes em massa. A represa abre as comportas e inunda a Zona Baixa. Eu sou a cidade, Gabriel. Se você me ferir, Baía Cinzenta sangra.*
 
-— Eu o tornei imortal — corrigiu Elara. — E agora, trouxe o filho para a reunião de família.
+Gabriel olhou para Miranda. O traidor estava encolhido no chão, chorando.
 
-Kael deu um passo à frente, as lâminas deslizando de seus dedos.
+— Ele está certo, Gabo. É o Protocolo de Espada de Dâmocles. Está tudo ligado a ele.
 
-— Acabe com eles — ordenou Elara.
+Um som de metal rasgando ecoou atrás deles. A porta de explosão foi arrancada de suas dobradiças. Kael entrou, seguido por um esquadrão de extermínio.
 
-Gabriel levantou a arma, mas sabia que era inútil. Eram três contra um exército.
+— A conversa acabou — disse a voz sintetizada do Cirurgião.
 
-Foi quando Maya gritou.
+Gabriel estava cercado. De um lado, o fantasma digital do pai pedindo sua alma de volta. Do outro, o monstro de aço pronto para arrancar sua carne.
 
-— Gabo! O drive! Conecte no terminal principal! Agora!
+Ele olhou para o chip em sua mão.
 
-Gabriel não pensou. Ele correu em direção ao console central, ignorando os tiros de plasma que começaram a chover ao seu redor. Miranda rugiu e se lançou contra os soldados, usando seu corpo cibernético como escudo humano para dar cobertura.
+— Maya? — sussurrou ele.
 
-— Vá, garoto! — gritou Miranda, antes de ser engolido pelo fogo dos rifles.
+— *Estou aqui, Gabo. O que você vai fazer?*
 
-Gabriel deslizou pelo chão de metal, alcançando o terminal. Ele enfiou o drive na porta de entrada.
+— Vou fazer o que os Moretti fazem de melhor. Quebrar as regras.
 
-A luz vermelha da sala mudou instantaneamente para um branco cegante.
+Gabriel não entregou o chip para o holograma. Ele também não o destruiu.
 
-O zumbido das máquinas parou. E então, uma voz soou. Não dos alto-falantes, mas dentro da cabeça de todos na sala.
+Ele o engoliu.
 
-*— Protocolo de Reinicialização Ativado. Olá, filho.*
+O holograma piscou violentamente.
+
+*— Erro. Dados inacessíveis. Contenção biológica não autorizada.*
+
+Gabriel sorriu para Kael, sentindo o gosto metálico do chip descendo por sua garganta.
+
+— Quer a chave? Venha pegar. Mas vai ter que me abrir para tirar.
+
+Kael rosnou e avançou. Gabriel sacou a *Vilha* de baixo do casaco — ele nunca saía de casa sem a escopeta de cano serrado, mesmo que fosse desconfortável.
+
+— Vamos dançar, lata velha.
