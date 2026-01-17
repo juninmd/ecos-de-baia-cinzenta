@@ -28,6 +28,8 @@
 
 ## Valéria "Val" Cruz
 
+![Valéria "Val" Cruz](/val.jpg)
+
 *   **Idade:** 23 anos
 *   **Função:** Detetive Júnior / Especialista em Cibercrime e Análise de Redes.
 *   **Aparência:** Baixa e franzina. Seu cabelo é um corte *pixie* tingido com pigmentos holográficos que mudam de rosa para azul dependendo da luz. Possui implantes subdérmicos de LED nas maçãs do rosto que pulsam de acordo com seu humor (ou notificações).
@@ -39,6 +41,8 @@
 ---
 
 ## Marco Moretti
+
+![Marco Moretti](/marco.jpg)
 
 *   **Idade:** 35 anos
 *   **Função:** Vereador / Líder do Movimento "Voz Livre".
@@ -54,6 +58,8 @@
 
 ## Helena Moretti
 
+![Helena Moretti](/helena.jpg)
+
 *   **Idade:** 62 anos
 *   **Relação:** Mãe de Gabo, Marco e Clara.
 *   **Porte Físico:** Enfraquecida pela doença, movimenta-se com dificuldade e muitas vezes precisa de cadeira de rodas.
@@ -65,6 +71,8 @@
 ---
 
 ## Clara Moretti
+
+![Clara Moretti](/clara.jpg)
 
 *   **Idade:** 25 anos
 *   **Relação:** Irmã mais nova de Gabo e Marco.
@@ -78,6 +86,8 @@
 ---
 
 ## Dra. Nise (Sobrenome Desconhecido)
+
+![Dra. Nise](/nise.jpg)
 
 *   **Idade:** Indefinida (Aparenta 60 anos)
 *   **Função:** Psicóloga Credenciada do Departamento.
@@ -93,6 +103,8 @@
 
 ## Maya "Glitch" Sato
 
+![Maya "Glitch" Sato](/maya.jpg)
+
 *   **Idade:** 24 anos
 *   **Altura:** 1,60m
 *   **Porte Físico:** Pequena e ágil, com uma postura curvada típica de quem passa a vida debruçada sobre terminais. Movimenta-se com uma economia de energia felina.
@@ -106,6 +118,8 @@
 
 ## Capitão Jonas Vilar
 
+![Capitão Jonas Vilar](/jonas.jpg)
+
 *   **Idade:** 58 anos
 *   **Altura:** 1,88m
 *   **Porte Físico:** Um gigante envelhecido. Ainda possui a estrutura maciça de um ex-boxeador, mas a musculatura começou a ceder lugar ao peso da idade e do estresse, criando uma silhueta de "touro cansado".
@@ -117,6 +131,8 @@
 ---
 
 ## Dra. Elara Vance
+
+![Dra. Elara Vance](/elara.jpg)
 
 *   **Idade:** 45 anos
 *   **Altura:** 1,78m
@@ -131,6 +147,8 @@
 
 ## Kael "O Cirurgião"
 
+![Kael "O Cirurgião"](/kael.jpg)
+
 *   **Idade:** Desconhecida (aparenta 30-35)
 *   **Função:** Chefe de Segurança da Aeterna / Executor.
 *   **Porte Físico:** Alto e magro, quase esquelético, mas com músculos de aço sintético visíveis sob a pele translúcida nos braços.
@@ -143,6 +161,8 @@
 ---
 
 ## Lívia Moretti
+
+![Lívia Moretti](/livia.jpg)
 
 *   **Idade:** 29 anos
 *   **Altura:** 1,70m
@@ -158,6 +178,8 @@
 
 ## Comissário Dante Moretti (Falecido)
 
+![Comissário Dante Moretti](/dante.jpg)
+
 *   **Idade:** 45 anos (na data do óbito)
 *   **Altura:** 1,80m
 *   **Porte Físico:** Robusto e imponente. Ombros largos que pareciam carregar o peso do departamento inteiro.
@@ -170,6 +192,8 @@
 ---
 
 ## A Menina do Orelhão (Identidade Desconhecida)
+
+![A Menina do Orelhão](/menina.jpg)
 
 *   **Idade:** Aparenta 6 anos
 *   **Altura:** Pequena e frágil.
