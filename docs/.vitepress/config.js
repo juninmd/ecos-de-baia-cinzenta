@@ -9,11 +9,17 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Ler Agora', link: '/capitulo-1' },
+      { text: 'Ler Agora', link: '/prologo' },
       { text: 'Personagens', link: '/personagens' },
       { text: 'Sobre o Autor', link: '/sobre-o-autor' }
     ],
     sidebar: [
+      {
+        text: 'Prólogo',
+        items: [
+          { text: 'Prólogo: A Queda', link: '/prologo' },
+        ]
+      },
       {
         text: 'Parte I: A Chuva',
         items: [
