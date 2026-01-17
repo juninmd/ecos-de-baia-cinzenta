@@ -54,6 +54,7 @@ module.exports = {
         text: 'Parte V: Ecos',
         items: [
           { text: 'Capítulo 17: Interlúdio - O Dia em que Tudo Deu Errado', link: '/capitulo-17' },
+          { text: 'Capítulo 18: A Queda', link: '/capitulo-18' },
         ]
       },
       {
