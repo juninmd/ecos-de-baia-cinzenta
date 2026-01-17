@@ -56,6 +56,8 @@ module.exports = {
           { text: 'Capítulo 17: Interlúdio - O Dia em que Tudo Deu Errado', link: '/capitulo-17' },
           { text: 'Capítulo 18: A Queda', link: '/capitulo-18' },
           { text: 'Capítulo 19: O Código Morto', link: '/capitulo-19' },
+          { text: 'Capítulo 20: Profanação', link: '/capitulo-20' },
+          { text: 'Capítulo 21: Lar, Doce Inferno', link: '/capitulo-21' },
         ]
       },
       {

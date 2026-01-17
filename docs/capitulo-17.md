@@ -10,19 +10,19 @@ O Cobalt azul metálico, seu orgulho e única possessão que não tentava matá-
 
 Ele bateu no volante, frustrado. Seu estômago roncou alto, um lembrete doloroso de que ele não comia há quase vinte horas. A dieta de café e ódio estava começando a cobrar seu preço.
 
-Valéria, no banco do passageiro, estava batendo o pé freneticamente no assoalho. Seus LEDs faciais pulsavam em um vermelho urgente.
+Souza, no banco do passageiro, bufou, embaçando o vidro com sua respiração pesada. Ele era um veterano da Divisão de Trânsito, realocado temporariamente para cobrir a falta de efetivo. Sua principal habilidade era fazer um sanduíche de mortadela durar um turno inteiro.
 
-— Gabo, sério. A gente precisa andar. Agora.
+— Moretti, sério. A gente precisa andar. Agora — reclamou Souza, segurando a barriga.
 
-— Calma, Val. É só o alternador. Vou chamar o reboque e...
+— Calma, Souza. É só o alternador. Vou chamar o reboque e...
 
-— Não é o carro! — ela gritou, segurando a fivela do cinto de segurança. — Eu preciso mijar. Tipo, nível crítico. Aquela bebida energética "Turbo-Caffeine" que você me deu? Acho que era diurético industrial.
+— Não é o carro! — ele grunhiu, desajeitadamente tentando soltar o cinto de segurança que cortava sua cintura. — É aquele burrito do posto. Eu disse que o molho estava verde demais. Preciso de um banheiro. Urgente.
 
 Gabriel suspirou, abrindo a porta. A umidade tóxica invadiu o carro instantaneamente.
 
 — Vamos a pé.
 
-Eles saíram para a calçada oleosa. Gabriel puxou a gola do sobretudo para se proteger, caminhando a passos largos, com Valéria trotando ao seu lado, saltitando de poça em poça.
+Eles saíram para a calçada oleosa. Gabriel puxou a gola do sobretudo para se proteger, caminhando a passos largos, com Souza trotando pesadamente ao seu lado, xingando cada poça que molhava seus sapatos baratos.
 
 Ao chegarem à entrada da delegacia, o destino decidiu rir mais uma vez. Gabriel, focado em evitar um bueiro fumegante, não viu o presente deixado por algum cão de rua — ou talvez uma criatura mutante dos esgotos, dado o tamanho.
 
@@ -30,13 +30,13 @@ Ele sentiu a substância ceder sob a sola de sua bota direita. O cheiro subiu im
 
 — Ah, não. Não, não, não.
 
-Valéria parou, olhando para baixo, e soltou uma gargalhada histérica, ignorando sua própria bexiga por um segundo.
+Souza parou, apoiando as mãos nos joelhos para recuperar o fôlego, e soltou uma risada rouca e engasgada.
 
-— Isso é... orgânico? — ela perguntou, cobrindo o nariz. — Cara, você pisou numa mina terrestre biológica.
+— Isso é... caramba, Moretti — ele disse, tapando o nariz. — Você pisou no prêmio acumulado.
 
-— Cala a boca, Val. — Gabriel arrastou o pé no meio-fio, praguejando todos os nomes santos que sua mãe lhe ensinara. — Eu só queria um café e um donut. É pedir muito?
+— Cala a boca, Souza. — Gabriel arrastou o pé no meio-fio, praguejando todos os nomes santos que sua mãe lhe ensinara. — Eu só queria um café e um donut. É pedir muito?
 
-Eles entraram na delegacia como dois furacões de desgraça. Valéria disparou para os banheiros sem nem olhar para o balcão de recepção. Gabriel, mancando e deixando um rastro odorífero sutil, marchou em direção à sua mesa, ignorando os olhares.
+Eles entraram na delegacia como dois furacões de desgraça. Souza disparou para os banheiros com uma agilidade surpreendente para seu peso. Gabriel, mancando e deixando um rastro odorífero sutil, marchou em direção à sua mesa, ignorando os olhares.
 
 Mas o universo não tinha acabado com ele.
 
@@ -62,9 +62,9 @@ Vilar piscou, incrédulo.
 
 — Foi um erro de julgamento tático induzido por hipoglicemia.
 
-Valéria apareceu na porta, parecendo aliviada, mas ainda com os LEDs em amarelo-alerta.
+Souza apareceu na porta, parecendo aliviado, ajeitando o cinto.
 
-— Chefe, o Gabo pisou na merda lá fora. O cheiro tá chegando no arquivo morto.
+— Chefe, o Moretti pisou na merda lá fora. O cheiro tá chegando no arquivo morto.
 
 Vilar olhou para Gabriel, depois para o sapato dele, e depois apontou para a porta.
 
@@ -74,10 +74,10 @@ Gabriel abriu um sorriso cansado.
 
 — Sim, senhor.
 
-Enquanto caminhavam de volta para a saída, Gabriel olhou para Valéria.
+Enquanto caminhavam de volta para a saída, Gabriel olhou para Souza.
 
 — Você tem créditos para o almoço?
 
-— Gastei tudo em skins novas pro meu avatar — ela respondeu, dando de ombros. — Achei que você ia pagar.
+— Gastei o resto no burrito — Souza respondeu, dando de ombros. — Achei que você ia pagar.
 
 Gabriel suspirou, o som se perdendo no barulho da delegacia. Era apenas mais um dia em Baía Cinzenta.
