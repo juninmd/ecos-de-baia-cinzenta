@@ -83,7 +83,3 @@ Mas era o caos deles. Não o roteiro de uma máquina.
 Ele olhou para Val e Lívia. Sua família.
 
 — Vamos para casa. Tenho uma pizzaria para assaltar no caminho. Estou morrendo de fome.
-
-***
-
-**FIM**
