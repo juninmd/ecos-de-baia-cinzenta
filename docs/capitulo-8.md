@@ -1,105 +1,105 @@
 # Capítulo 8: Ressaca Digital
 
-Seis meses sem "O Ruído" e Baía Cinzenta parecia mais barulhenta do que nunca.
+Seis meses sem a IA central. Seis meses desde que Baía Cinzenta "acordou".
 
-Gabriel Moretti acordou com o som de britadeiras. A reconstrução da cidade era uma sinfonia desordenada de aço rangendo e concreto sendo despejado. Ele rolou para fora do colchão no chão — a cama ainda não havia sido consertada desde que um drone de vigilância caiu através do teto do seu apartamento durante o Apagão.
+Gabriel Moretti desejava que a cidade tivesse apertado o botão de soneca.
 
-Ele caminhou até a janela, pisando em cacos de vidro que jurava ter varrido semana passada. Lá fora, a chuva ácida caía em lençóis cinzentos, lavando a fuligem dos novos outdoors holográficos que brotavam como fungos nos arranha-céus.
+Ele estava deitado no chão de seu apartamento, encarando o teto manchado de umidade. A chuva lá fora não era mais controlada por satélites climáticos; agora chovia quando a natureza queria, o que significava o tempo todo. O silêncio do "Ruído" — a frequência subliminar que a Aeterna transmitia — havia sido substituído por algo pior: o barulho humano.
 
-— Liberdade — resmungou ele, acendendo o fogão elétrico para a cafeteira. — Grande merda.
+Gritos, buzinas, música alta, propaganda não regulada. A liberdade era barulhenta.
 
-O café acabou. Claro que acabou.
+Gabriel rolou, sentindo as cicatrizes no estômago repuxarem. O chip ainda estava lá, encapsulado em tecido cicatricial, um tumor de dados que ele se recusava a remover.
 
-Gabriel vestiu seu sobretudo bege, agora remendado com fita adesiva prateada no ombro esquerdo, e saiu. O elevador estava quebrado, então ele desceu os doze andares de escada, sentindo cada degrau nos joelhos.
+— Café — resmungou ele.
 
-A rua estava um caos. Sem a IA central para coordenar o tráfego, os carros manuais e os riquixás cibernéticos disputavam cada centímetro de asfalto esburacado. Gabriel desviou de uma poça de óleo iridescente e entrou na "Mercearia do Seu Zé", um buraco na parede que cheirava a mofo e especiarias sintéticas.
+A cafeteira estava quebrada. O sistema de água do prédio estava racionado. Gabriel bebeu um gole de uísque barato direto da garrafa e vestiu o sobretudo.
 
-Ele foi direto para o balcão do café, mas parou.
+Ao sair do prédio, o mundo o agrediu. Sem a censura da Aeterna, os outdoors holográficos agora exibiam pornografia softcore, propaganda de armas ilegais e cultos religiosos apocalípticos.
 
-Havia uma comoção perto da seção de enlatados. Um homem corpulento, vestindo uma camiseta com o logo do movimento "Voz Livre", estava gritando com um entregador. O entregador era um refugiado da Zona Baixa, sua pele manchada por vitiligo químico, segurando um pacote de fraldas.
+Ele caminhou até a delegacia. O prédio estava cercado por manifestantes.
 
-— ...vocês ratos de esgoto acham que podem subir aqui e respirar nosso ar filtrado? — o homem gritou, empurrando o peito do rapaz. — A Aeterna caiu, mas a gente ainda sabe o lugar de vocês.
+— *Queremos a Rede de volta!* — gritava uma mulher segurando um cartaz com a foto de Dante Moretti rabiscada com chifres. — *Pelo menos os trens chegavam na hora!*
 
-O rapaz encolheu-se, murmurando desculpas em um dialeto misturado.
+Gabriel empurrou a multidão, ignorando os insultos. "O Herói do Apagão", eles o chamavam. Alguns com ironia, outros com ódio.
 
-— Volta pro buraco de onde você saiu! — O homem levantou a mão para bater.
+Dentro da DPBC, o caos era institucional. Pilhas de papel (papel de verdade, porque os servidores ainda eram instáveis) cobriam as mesas.
 
-Gabriel não pensou. O movimento foi automático, memória muscular de anos de rua. Ele agarrou o pulso do homem no ar.
+— Moretti! — A voz do Capitão Vilar cortou o zumbido.
 
-O homem girou, surpreso.
+Vilar estava mais magro, o cabelo completamente branco. Ele estava em pé no meio do esquadrão, segurando um tablet.
 
-— Quem diabos é voc... — A frase morreu na garganta quando ele viu os olhos de Gabriel. Eram olhos de tubarão, mortos e frios.
+— Na minha sala. E traga sua nova babá.
 
-— Ele vai pagar pelas fraldas — disse Gabriel, sua voz um sussurro rouco. — E você vai pagar pelo meu café.
+Gabriel franziu a testa.
 
-— Você sabe quem eu sou? Eu sou um contribuinte! Eu sigo o Marco Moretti! — o homem tentou puxar o braço, mas o aperto de Gabriel era de ferro.
+— Minha o quê?
 
-— Marco Moretti é meu irmão — disse Gabriel. — E ele é um idiota.
+Uma garota estava sentada na cadeira de Gabriel, girando e mascando chiclete. Ela parecia um erro de renderização. Cabelo rosa neon, jaqueta bomber oversized cheia de patches animados, e implantes dérmicos que faziam suas bochechas brilharem em padrões geométricos.
 
-Gabriel torceu o pulso do homem, apenas o suficiente para ouvir o estalo satisfatório de cartilagem. O homem gritou e caiu de joelhos.
+Ela parou de girar e olhou para ele. Seus olhos eram artificiais, íris violetas com retículos de mira.
 
-— Fora daqui — disse Gabriel, soltando-o.
+— Oi, Boomer — disse ela, estourando uma bola de chiclete. — Você é o cara que comeu o chip? Maneiro. Meio nojento, mas maneiro.
 
-O homem saiu correndo, segurando o pulso, derrubando uma pilha de latas de "Carne-Soja". Gabriel virou-se para o refugiado, que o olhava com terror.
+— Quem é você? — Gabriel sentiu a dor de cabeça habitual começar.
 
-— Pegue as fraldas. Vá para casa.
+— Valéria Cruz. Cibercrimes. Ou o que sobrou dela. — Ela se levantou. Era baixa, mas tinha a postura de quem carregava uma faca na bota. — Vilar disse que você precisa de alguém que fale binário, já que você mal sabe usar o micro-ondas.
 
-Gabriel jogou algumas notas de crédito no balcão para o dono da mercearia, que assistia a tudo boquiaberto.
+Gabriel olhou para Vilar, que estava na porta do escritório.
 
-— O café. Preto. Sem açúcar.
+— Não — disse Gabriel.
 
-***
+— Sim — retrucou Vilar. — O caso é digital, Gabo. E você é um analógico. Aceite a ajuda ou entregue o distintivo.
 
-Meia hora depois, Gabriel entrou na delegacia. O lugar estava irreconhecível. As paredes cinzentas foram cobertas por telas de monitoramento em tempo real. Jovens policiais com óculos de realidade aumentada corriam de um lado para o outro, gesticulando no ar para fechar janelas invisíveis.
+Gabriel bufou e entrou na sala, seguido pela garota rosa.
 
-— Detetive Moretti — a voz do Capitão Vilar trovejou de seu escritório. — Na minha sala. Agora.
+— O que temos?
 
-Gabriel suspirou e entrou no aquário de vidro. Vilar parecia mais velho. O estresse da reconstrução cavou trincheiras profundas em seu rosto.
+Vilar projetou uma imagem na parede. Era um quarto de luxo, decorado com gosto duvidoso. Na cama, um corpo.
 
-— Você quebrou o pulso de um civil hoje de manhã — disse Vilar, sem levantar os olhos de um relatório holográfico.
+Não havia sangue. O homem, jovem e bonito, estava deitado pacificamente, conectado a um headset VR de última geração.
 
-— Ele escorregou — mentiu Gabriel, sentando-se sem ser convidado.
+— Este é Kiko Vibe — disse Vilar. — Influencer nível Diamante. 10 milhões de seguidores. Encontrado morto esta manhã pela faxineira.
 
-— Havia três drones de *streamers* amadores filmando, Gabo. O vídeo já tem cinquenta mil visualizações. A legenda é "Policial Brutal ataca Patriota".
+— Overdose? — perguntou Gabriel.
 
-Gabriel deu de ombros.
+— De certa forma — disse Valéria, adiantando-se. Ela tocou na projeção, ampliando o headset. — O cérebro dele foi frito. Literalmente. A temperatura interna do crânio chegou a 60 graus. Cozinhou a massa cinzenta.
 
-— Comentários?
+— Falha de hardware?
 
-— A maioria diz que você precisa de um corte de cabelo. — Vilar desligou o holograma. — Escute, as coisas mudaram. Não podemos mais quebrar narizes e esperar que o Departamento de Relações Públicas limpe a bagunça. O povo está assistindo. O tempo todo.
+— Não. — Valéria sorriu, um sorriso sem humor. — Foi um ataque. Alguém invadiu o stream dele e enviou um pacote de dados maliciosos. Um "Killware". O headset converteu o código em um pico de voltagem direcionado.
 
-— O povo está entediado — retrucou Gabriel.
+— Quem mataria um garoto que faz vídeos de dança?
 
-— O povo está *assustado* — corrigiu Vilar. — E é por isso que você vai precisar de ajuda.
+— Kiko não estava dançando ontem à noite — disse Vilar. — Ele estava prestes a vazar algo. Ele chamou a transmissão de "O Grande Reset".
 
-A porta do escritório se abriu. Uma garota entrou.
+Gabriel sentiu o instinto despertar. O velho faro de caçador.
 
-Gabriel piscou. Ela parecia ter saído de um videoclipe de J-Pop distópico. Cabelo rosa curto, jaqueta tática cheia de patches brilhantes e implantes de LED nas bochechas que pulsavam em um azul suave. Ela mascava chiclete de forma ruidosa.
+— O que ele ia vazar?
 
-— Esta é a Detetive Valéria Cruz — apresentou Vilar. — Transferida da Cibercrimes.
+— Não sabemos — disse Valéria. — O arquivo foi deletado da nuvem dele no momento da morte. E a conta dele... sumiu.
 
-A garota estourou uma bola de chiclete.
+— Como assim sumiu?
 
-— E aí, Boomer. — Ela sorriu, e seus dentes eram perfeitamente brancos, provavelmente implantes de cerâmica. — Ouvi dizer que você derrubou uma IA com um pen drive. "Vintage". Adorei.
+— Shadowban total. — Valéria parecia impressionada e assustada. — Não apenas bloqueada. *Apagada*. Fotos, vídeos, comentários, menções em outros perfis... é como se Kiko Vibe nunca tivesse existido. Alguém está limpando a história dele da rede em tempo real.
 
-Gabriel olhou para Vilar com incredulidade.
+Gabriel olhou para a foto do garoto morto.
 
-— Você está brincando.
+— Primeiro eles matam o corpo. Depois matam a memória.
 
-— Ela é a melhor analista de dados que temos — disse Vilar. — E você, Moretti, é um dinossauro analógico em um mundo digital. Vocês vão trabalhar juntos no caso do "Suicida Sorridente".
+— Exato — disse Valéria. — E se não agirmos rápido, a única prova de que ele existiu será o cadáver no necrotério.
 
-— Eu trabalho sozinho — rosnou Gabriel.
+Gabriel pegou seu casaco.
 
-— Não mais — Vilar jogou um arquivo físico na mesa. — Um corpo foi encontrado nos Setores Industriais. Um influencer famoso. O terceiro essa semana. Todos mortos durante uma transmissão ao vivo. Todos sorrindo.
+— Onde ele morava?
 
-Valéria pegou o arquivo, mas nem o abriu. Seus olhos varriam dados invisíveis em suas lentes de contato.
+— Na Cobertura da Torre Solaris. Distrito de Prata.
 
-— @Kiko_Vibe — disse ela. — 2 milhões de seguidores. O stream dele cortou há quarenta minutos. A localização bate. — Ela olhou para Gabriel. — Vamos lá, parceiro. Meu carro dirige sozinho, então você pode beber seu café nojento sem derramar.
+— Ótimo. — Gabriel verificou a arma. — Vamos ver o que o fantasma deixou para trás. Vamos, Rosa.
 
-Gabriel olhou para Vilar, implorando silenciosamente por clemência. O Capitão apenas apontou para a porta.
+— É Val — corrigiu ela, seguindo-o. — E não me chame de Rosa, ou eu hackeio seu marcapasso.
 
-Gabriel levantou-se, pegou seu copo de isopor e seguiu a mancha rosa para fora da sala.
+— Eu não tenho marcapasso.
 
-— Isso vai ser um inferno — murmurou ele para si mesmo.
+— Ainda.
 
-— Eu ouvi isso! — gritou Valéria do corredor. — Meus implantes auditivos captam frequências de cachorro, velhote!
+Eles saíram para a chuva. A cidade estava quebrada, mas o crime... o crime tinha acabado de receber um upgrade.

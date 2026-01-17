@@ -1,71 +1,71 @@
 # Capítulo 11: Filtros de Realidade
 
-O esconderijo seguro era o porão da antiga casa da Dra. Nise. A psicóloga cega serviu chá de ervas enquanto Gabriel enfaixava um corte no braço. Valéria estava sentada no canto, tremendo. Ela estava sem conexão há duas horas.
+A "realidade" em Baía Cinzenta sempre fora uma sugestão, nunca um fato. Mas agora, Gabriel e Valéria estavam descobrindo que ela era editável.
 
-— Você precisa se acalmar, menina — disse Nise, sua voz como papel amassado. — O silêncio também é uma resposta.
+O esconderijo de Dr. Nise ficava no subsolo do Distrito da Névoa, sob uma antiga lavanderia automática. O lugar cheirava a detergente barato e ozônio.
 
-— Eu não consigo... — Valéria gaguejou. — Sem o feed, minha cabeça... é muito quieta. Eu ouço meus próprios pensamentos e eles são horríveis.
+— Fiquem parados — ordenou a voz rouca vinda das sombras.
 
-Gabriel olhou para ela com uma mistura de pena e raiva.
+Dr. Nise não era um homem. Era uma mulher idosa, cega, com implantes oculares grosseiramente removidos, deixando cicatrizes profundas. Ela "via" através de um enxame de micro-drones que zumbiam ao seu redor como moscas metálicas.
 
-— Marco está usando isso contra todos nós. Não é só a droga. É o sinal.
+— Estamos limpos, Doutora — disse Valéria, levantando as mãos. — Precisamos de ajuda.
 
-Ele jogou um tablet na mesa. Mostrava um discurso ao vivo de Marco Moretti.
+— Você está limpa — retrucou Nise, aproximando-se de Valéria e tocando seu rosto com dedos calejados. — Mas ele... — ela apontou para Gabriel. — Ele fede a Aeterna.
 
-*"Terroristas digitais atacaram hoje um centro de reabilitação para jovens viciados,"* dizia Marco, com o rosto cheio de gravidade simulada. *"A Iniciativa Lázaro Renascido era um farol de esperança. Meu irmão, infelizmente, se juntou a esses anarquistas."*
+— Eu engoli um chip — disse Gabriel. — Longa história.
 
-— Ele inverteu a narrativa — disse Gabriel. — Claro que inverteu.
+Nise riu, um som seco.
 
-— Gabo... — Valéria levantou a cabeça. Seus olhos estavam vermelhos. — Eu analisei o código que roubei da fábrica. O sinal que eles transmitem... não é apenas vídeo.
+— Entrem. Antes que os drones de busca sintam o cheiro do medo de vocês.
 
-— O que é?
+O laboratório de Nise era um museu de tecnologia obsoleta. Monitores de tubo, teclados mecânicos, servidores resfriados a ventiladores barulhentos.
 
-— É uma frequência subliminar. Embutida no áudio. Ela inibe o córtex pré-frontal. Reduz o pensamento crítico. Aumenta a sugestibilidade.
+— Kiko Vibe esteve aqui — disse Gabriel, indo direto ao ponto. Mostrou a foto que acharam.
 
-— Eles estão hipnotizando a cidade — concluiu Gabriel.
+— O menino sorridente — Nise suspirou, servindo um chá que cheirava a ferrugem. — Ele veio pedir para eu tirar o implante dele. O "Modulador de Humor".
 
-— Pior — disse Nise, tocando as engrenagens de seu relógio. — Eles estão criando dependência. Se o sinal parar, as pessoas entram em colapso. Como a menina ali.
+— O que ele descobriu? — perguntou Valéria.
 
-Gabriel olhou para Valéria. Ela estava suando frio.
+— Que o implante não modulava apenas o dele. Modulava o de quem assistia.
 
-— Onde é a fonte? — perguntou Gabriel. — Onde Marco está transmitindo isso?
+Nise ligou um monitor antigo. A tela tremeluziu e mostrou linhas de onda de áudio.
 
-— Não é Marco — disse Valéria, acessando o tablet com mãos trêmulas. — Marco é o rosto. Mas a infraestrutura... é muito avançada para ele. Ele está alugando o serviço.
+— Kiko gravou isso antes de morrer. É o sinal oculto nas transmissões da nova rede.
 
-— De quem?
+Valéria se aproximou.
 
-— O sinal vem da Torre de Marfim. O antigo QG da Aeterna.
+— É uma onda infra-som — disse ela. — Abaixo da audição humana. Mas... o padrão... é hipnótico.
 
-— Mas a torre está vazia. Foi condenada.
+— Induz passividade — explicou Nise. — Reduz o pensamento crítico. Aumenta a necessidade de aprovação social. É uma droga digital, transmitida pelo Wi-Fi.
 
-— Aparentemente não — Valéria mostrou um mapa de calor. — O topo da torre está emitindo radiação de micro-ondas suficiente para fritar um pássaro a um quilômetro de distância. É lá que está o transmissor.
+Gabriel sentiu um gosto amargo.
 
-Gabriel verificou sua arma. Restavam dois pentes.
+— Eles estão transformando a população em viciados obedientes.
 
-— Vamos derrubar a torre. De novo.
+— E Kiko ia contar tudo — disse Valéria. — Por isso o mataram. E apagaram ele.
 
-— Você não pode ir lá sozinho — disse Nise. — É suicídio.
+— Mas quem? — perguntou Gabriel. — Marco Moretti é um político, não um gênio da neurociência.
 
-— Eu tenho a Val — disse Gabriel.
+— Marco é apenas o rosto — disse Nise. Ela digitou algo no teclado. — O sinal tem uma origem. Uma fonte primária.
 
-Valéria riu, um som histérico.
+Um mapa de Baía Cinzenta apareceu na tela. Um ponto vermelho pulsava no centro do Distrito de Prata.
 
-— Eu? Eu sou uma viciada em abstinência, Gabo. Eu mal consigo segurar uma arma.
+— A Torre de Marfim? — perguntou Gabriel. — A antiga sede da Aeterna?
 
-Gabriel caminhou até ela e segurou seu rosto com as duas mãos.
+— Não — disse Valéria. — Está vindo do subsolo da Torre. Dos antigos bunkers de dados.
 
-— Você é a melhor hacker dessa cidade maldita. E você sabe que o que você está sentindo agora? Essa dor? É a prova de que você é real. Eles querem tirar isso de você. Eles querem te transformar em uma daquelas bonecas sorridentes no tanque. Você vai deixar?
+— Onde meu pai está enterrado — murmurou Gabriel. — Ou o que sobrou dele.
 
-Valéria olhou nos olhos escuros de Gabriel. Ela viu o cansaço, a dor, mas também uma vontade de ferro.
+De repente, o alarme de Nise disparou.
 
-Ela respirou fundo.
+— Eles acharam vocês — disse a velha, sem pânico. — Meus drones detectaram uma unidade de "Cancelamento" se aproximando.
 
-— Não. Não vou deixar.
+— Temos que sair — disse Gabriel, sacando a arma.
 
-Ela se levantou, limpando o suor da testa.
+— Saiam pelos fundos. Dá no esgoto pluvial. — Nise pegou uma espingarda debaixo do balcão. — Eu seguro eles.
 
-— Mas se vamos invadir a Torre, precisamos de um plano melhor do que "entrar atirando".
+— Você vai morrer — disse Valéria.
 
-— Qual é o plano? — perguntou Gabriel.
+— Eu já estou morta há dez anos, menina. Só esqueci de deitar. — Nise sorriu, seus dentes de metal brilhando. — Vão! E derrubem aquela maldita torre!
 
-— Nós não vamos desligar o sinal — disse Valéria, um sorriso travesso (e real) aparecendo. — Nós vamos mudar o canal.
+Gabriel e Valéria correram para os fundos. O som de explosões começou a sacudir a lavanderia acima deles.

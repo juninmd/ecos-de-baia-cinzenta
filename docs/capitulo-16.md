@@ -1,61 +1,89 @@
 # Capítulo 16: Zona Morta
 
-Gabriel não parou de correr até que seus pulmões ardessem como fogo. Ele carregou Valéria pelos becos labirínticos do Setor 4, longe das câmeras, longe da rede.
+A escuridão em Baía Cinzenta tinha peso. Sem a poluição luminosa dos neons e hologramas, a cidade parecia um animal morto, frio e rígido.
 
-Ele encontrou abrigo em uma estação de metrô abandonada, selada durante as Inundações de 2030. O lugar cheirava a água estagnada e ferrugem, mas era seguro. A rocha e o concreto bloqueavam qualquer sinal de rastreamento restante.
+Gabriel e Valéria se moviam pelos túneis do metrô, usando a visão noturna limitada de Valéria (que agora funcionava a bateria de reserva).
 
-Ele deitou Valéria sobre um banco de concreto e rasgou a manga de sua própria camisa para improvisar uma compressa para um corte na testa dela.
+— Para onde estamos indo? — perguntou Valéria.
 
-— Val? — ele chamou, dando tapinhas no rosto dela. A pele dela estava fria. Os implantes de LED estavam escuros, cicatrizes de queimadura ao redor deles.
+— Para o único lugar onde o Gamemaster não pode nos ver — disse Gabriel. — O Cemitério dos Esquecidos. Setor 7.
 
-Ela tossiu e abriu os olhos. Não havia o brilho habitual de dados refletidos neles. Apenas pupilas humanas, dilatadas de dor.
+— Por que lá?
 
-— Estamos... offline? — ela sussurrou, a voz fraca.
+— Porque meu pai construiu um bunker lá embaixo. Um bunker analógico. Sem rede, sem wi-fi, sem energia externa.
 
-— Totalmente. Zona morta. — Gabriel sentou-se no chão ao lado dela, exausto. — Você fritou tudo num raio de dois quarteirões.
+Eles caminharam por horas. A superfície estava em guerra civil. Gangues saqueavam, cidadãos se armavam. O "Jogo" havia quebrado o fino verniz de civilidade que restava.
 
-Valéria tentou sorrir, mas fez uma careta.
+Quando chegaram ao Setor 7, a chuva havia voltado, lavando a fuligem de seus rostos. O cemitério era uma favela vertical construída sobre túmulos. Mas estava quieto. Os moradores do Setor 7 sabiam como se esconder quando a tempestade vinha.
 
-— Meu link neural... está morto. Não sinto a Rede. É... silencioso. Tão silencioso.
+Gabriel encontrou a entrada do mausoléu da família Moretti. Ele empurrou a laje de pedra.
 
-— Você salvou nossas vidas.
+Lá embaixo, o ar era seco. Gabriel acendeu uma lanterna a óleo que estava pendurada na parede.
 
-— Eles estavam transmitindo, Gabo. — Lágrimas escorreram pelo rosto dela, misturando-se à fuligem. — Antes de eu queimar o jammer... eu vi o chat.
+O bunker era pequeno. Uma mesa, um rádio de ondas curtas, e uma parede coberta de mapas de papel e fotos.
 
-Gabriel endureceu.
+— Isso é... — Valéria passou a mão pelos papéis. — O Dossiê Lázaro original.
 
-— O que eles diziam?
+— Meu pai sabia que a tecnologia ia nos trair — disse Gabriel. — Ele deixou isso para o caso de o sistema cair.
 
-— Eles estavam apostando. *Apostando* em quanto tempo duraríamos. Tinha... milhares de pessoas assistindo. Pessoas ricas. Gente da Cidade Alta. Gente do governo.
+Gabriel foi até um armário de metal e tirou uma caixa. Dentro, havia munição, rações e um kit médico.
 
-Gabriel cerrou os punhos. A raiva, fria e familiar, se instalou em seu peito. Não era mais sobre justiça. Não era mais sobre a lei.
+— Val, senta aqui.
 
-— Eles acham que somos personagens — disse Gabriel, olhando para a escuridão do túnel. — Acham que podem nos desligar quando ficarmos chatos.
+Ela sentou na cadeira velha. Gabriel pegou um bisturi do kit.
 
-Ele puxou o chip preto, aquele que tinha iniciado tudo. Estava intacto.
+— Você disse que precisava de cirurgia para tirar o rastreador.
 
-— O que vamos fazer? — perguntou Valéria. — Sem distintivos, sem apoio, com metade da cidade querendo nos matar e a outra metade querendo nos assistir morrer.
+Valéria engoliu em seco.
 
-Gabriel levantou-se e verificou sua arma. Restavam seis balas.
+— Você vai fazer isso? Aqui? Com uma lanterna de óleo?
 
-— Nós vamos mudar o gênero do show — disse ele. — Deixou de ser um drama policial.
+— É a única maneira de ficarmos invisíveis.
 
-— E virou o quê? — Valéria perguntou, tentando se sentar.
+Ela fechou os olhos e assentiu.
 
-Gabriel olhou para ela, seus olhos profundos e cansados brilhando com uma determinação assassina.
+— Faz.
 
-— Um filme de vingança.
+A operação foi brutal e rápida. Valéria gritou, mas não desmaiou. Gabriel removeu o chip de rastreamento da base do pescoço dela e o jogou no chão, esmagando-o com a bota.
 
-Ele estendeu a mão para ela.
+Ele fez um curativo e lhe deu um analgésico forte.
 
-— Consegue andar? Precisamos encontrar a Dra. Nise. Ela é a única em quem podemos confiar fora da rede.
+— Acabou — disse ele, limpando o sangue das mãos. — Eles não sabem onde estamos.
 
-Valéria segurou a mão dele e se ergueu, trêmula mas de pé.
+Valéria respirou fundo, testando o pescoço.
 
-— Onde quer que formos... eles não vão nos ver chegando — disse ela. — Pela primeira vez na vida, sou invisível.
+— O silêncio... é real agora. Ninguém na minha cabeça.
 
-Eles caminharam para a escuridão dos túneis, deixando para trás a luz, a lei e a misericórdia. Na superfície, a caçada continuava, mas nos subterrâneos de Baía Cinzenta, a resistência começava.
+Gabriel sentou-se na frente dela.
 
-***
+— Precisamos de um plano. O Gamemaster desligou a cidade para criar o caos, para limpar o tabuleiro. Mas ele ainda precisa transmitir o final.
 
-**FIM DA PARTE IV**
+— A Torre de Transmissão de Emergência — disse Valéria. — Fica no ponto mais alto do Distrito de Prata. É a única coisa que funciona com geradores independentes nucleares. Se ele quiser transmitir a "Season Finale", vai ser de lá.
+
+— Então é para lá que vamos.
+
+— Gabo... é uma fortaleza.
+
+Gabriel olhou para o mural de seu pai. Para a foto dele criança. Para a cidade que ele jurou proteger.
+
+— Não vamos invadir — disse Gabriel. — Vamos ser convidados.
+
+— Como?
+
+— O Gamemaster quer um show? Ele quer o Herói e a Traidora? Nós vamos dar a ele. Vamos nos entregar.
+
+— Você ficou maluco?
+
+— É um Cavalo de Troia, Val. Você sem o rastreador é invisível para o sistema dele. Eu me entrego, atraio a atenção dele. E você entra pelos fundos e derruba o servidor.
+
+Valéria olhou para ele. Era suicídio. Mas era a única chance.
+
+— Ok — disse ela. — Vamos terminar esse jogo.
+
+Gabriel pegou o rádio de ondas curtas e o ligou. Ele ajustou a frequência para o canal de emergência aberto.
+
+— Atenção, Gamemaster — disse Gabriel para o microfone, sua voz calma ecoando na escuridão. — Aqui é Gabriel Moretti. Pare de quebrar minha cidade. Eu estou indo.
+
+Ele soltou o botão.
+
+— Prepare-se, Val. A Zona Morta acabou. Vamos voltar para a luz.

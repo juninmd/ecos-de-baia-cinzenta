@@ -1,93 +1,91 @@
 # Capítulo 7: O Fim do Silêncio
 
-A voz de Dante Moretti não era um som; era uma memória forçada diretamente no córtex cerebral. Gabriel caiu de joelhos, segurando a cabeça, enquanto imagens inundavam sua mente: o sorriso de sua mãe, o cheiro de chuva, o dia em que ele entrou na academia de polícia.
+O som da escopeta ecoou como um trovão na câmara subterrânea. O tiro acertou Kael no peito, fazendo o ciborgue recuar dois passos, a armadura de cerâmica rachando mas segurando o impacto.
 
-Os soldados da Aeterna também caíram, gritando, enquanto seus implantes neurais entravam em sobrecarga. Kael convulsionava no chão, fumaça saindo de suas articulações enquanto o sistema tentava rejeitar o comando invasor.
+— Ineficiente — disse Kael, avançando novamente.
 
-Apenas Elara permanecia de pé, protegida por firewalls mentais de nível militar, mas seu rosto era uma máscara de terror.
+Gabriel rolou para o lado, desviando de um golpe que teria decepado sua cabeça. A lâmina de Kael cortou um tubo de servidor, e gel nutriente e faíscas explodiram sobre eles.
 
-— O que você fez? — ela gritou, correndo para o terminal para tentar arrancar o drive.
+Miranda, em um ato de coragem suicida — ou talvez apenas desespero — sacou sua pistola velha e começou a disparar contra os soldados da Aeterna que bloqueavam a saída.
 
-Gabriel a interceptou, derrubando-a com um tackle. Eles rolaram pelo chão metálico. Elara era forte, amplificada geneticamente, mas Gabriel lutava com o desespero de quem não tinha nada a perder.
+— Saiam daqui! — gritou ele, acertando um soldado no visor.
 
-*— A rede é minha agora, Elara,* — a voz de Dante ecoou. *— Você construiu minha prisão com tijolos digitais, mas esqueceu que eu sou o arquiteto.*
+— Não sem você! — gritou Gabriel, recarregando a Vilha com uma mão.
 
-As luzes do tanque central explodiram. O vidro rachou. O líquido ambarino começou a vazar, inundando a sala.
+O holograma de Dante Moretti observava a cena com impassividade, flutuando acima do caos.
 
-— Pare! — gritou Elara, presa sob o peso de Gabriel. — Se você desligar o sistema, a cidade vai colapsar! Os diques, a rede elétrica, os hospitais... tudo depende do Ecos!
+*— A resistência é ilógica, Gabriel. Seus batimentos cardíacos estão em 180. A probabilidade de sobrevivência é de 3%.*
 
-Gabriel hesitou. Ele olhou para o terminal. O código de autodestruição estava pronto. Bastava um comando.
+— Cale a boca! — Gabriel disparou contra o projetor holográfico, mas a luz apenas tremeluziu e se reformou.
 
-*— Ela está certa, Gabriel,* — disse a voz do pai. *— Eu sou o coração de Baía Cinzenta. Se eu morrer, a cidade morre comigo. Milhares perecerão.*
+Kael agarrou Gabriel pelo pescoço e o levantou do chão. A força era esmagadora. Gabriel chutou o ar, tentando encontrar apoio, enquanto sua visão começava a escurecer.
 
-Gabriel olhou para Maya. Ela estava encolhida atrás de um servidor, sangrando, mas viva.
+— Extração do alvo prioritária — zumbiu Kael. Ele levantou a outra mão, os dedos se transformando em bisturis finos. — Iniciando laparotomia de emergência para recuperação de dados.
 
-— Gabo... — ela sussurrou. — Não há escolha. Isso... essa abominação... não pode continuar.
+Ele ia abrir Gabriel ali mesmo para pegar o chip.
 
-— Mas as pessoas... — Gabriel gaguejou.
+— *Agora, Maya!* — engasgou Gabriel pelo comunicador.
 
-*— Há sempre uma escolha,* — disse Dante. *— Você pode me destruir e salvar a alma da cidade, ou me deixar viver e salvar seus corpos. Liberdade ou Segurança. O velho dilema.*
+— *Segura firme, Chefe!*
 
-Gabriel olhou para Elara, que sorria triunfante, achando que tinha vencido pelo medo.
+De repente, o sistema de som da sala explodiu em um chiado agudo. As luzes piscaram em um padrão estroboscópico alucinante.
 
-— Você não tem coragem — ela sibilou.
+Maya não estava atacando o firewall da Aeterna. Ela estava atacando *o sistema de resfriamento*.
 
-Gabriel olhou para o tanque, onde a massa de carne e fios pulsava.
+Os ventiladores gigantes pararam. A temperatura na sala começou a subir instantaneamente. Os cérebros nos tubos começaram a entrar em choque térmico.
 
-— Meu pai me ensinou uma coisa — disse Gabriel, levantando-se. — Um policial protege as pessoas. Não importa o custo.
+O holograma de Dante distorceu.
 
-Ele chutou Elara para longe e levantou a mão para o terminal.
+*— Alerta. Temperatura crítica. Integridade do núcleo comprometida.*
 
-— Mas ele também me ensinou que algumas coisas são piores que a morte. Como viver de joelhos.
+A distração foi suficiente. O aperto de Kael afrouxou por um segundo enquanto seus sistemas internos tentavam compensar o calor súbito. Gabriel aproveitou. Ele enfiou o cano da escopeta na articulação do ombro de Kael, onde a armadura era mais fraca, e puxou o gatilho.
 
-— Não! — gritou Elara.
+A explosão arrancou o braço do ciborgue.
 
-Gabriel bateu a mão no comando "EXECUTAR".
+Kael gritou — um som que era meio humano, meio estática. Ele soltou Gabriel e recuou, fluido hidráulico jorrando.
 
-*— Obrigado, filho.*
+— Vamos! — Gabriel agarrou Miranda, que estava sangrando de um tiro na coxa.
 
-A explosão foi silenciosa no mundo físico, mas ensurdecedora no mundo digital. Todas as telas da sala — e de Baía Cinzenta — ficaram brancas. O tanque se estilhaçou completamente, liberando a biomassa em uma onda de fluido.
+Eles correram para a saída de serviço enquanto a sala de servidores começava a derreter. O holograma de Dante gritava comandos que ninguém obedecia.
 
-O sistema Ecos apagou.
+*— Não! Vocês não podem me desligar! Eu sou a eternidade!*
 
-A escuridão caiu sobre a represa. E sobre a cidade inteira.
+— Você é só um backup corrompido, pai — murmurou Gabriel.
+
+Eles saíram para a chuva fria da noite, deixando o inferno para trás. Atrás deles, uma explosão surda sacudiu o chão quando os capacitores da represa sobrecarregaram.
 
 ***
 
-**Epílogo**
+**Dias Depois.**
 
-Três dias depois.
+O apartamento de Gabriel era pequeno, cheirava a café velho e pizza fria, mas era seguro. Ele estava sentado no sofá, olhando para a chuva na janela.
 
-Gabriel estava sentado na beira do cais, olhando para o horizonte. A chuva continuava a cair, mas o ar parecia diferente. Mais leve. Ou talvez fosse apenas ele.
+O chip ainda estava dentro dele. Os médicos da DPBC disseram que seria perigoso remover sem cirurgia avançada, e Gabriel não confiava em nenhum hospital da cidade.
 
-A cidade estava um caos. Sem a IA central, o trânsito parou, a luz era intermitente, e os saques começaram. Mas as pessoas também estavam acordando. Sem o "Ruído" sutil transmitido pela Aeterna, a agressividade irracional diminuiu. Vizinhos ajudavam vizinhos.
+— Você está carregando uma bomba-relógio no estômago — disse Maya, sentada na poltrona oposta, digitando em seu laptop. — Se a Aeterna descobrir que o chip sobreviveu...
 
-Elara Vance fugiu. Kael estava em coma, seu sistema nervoso frito. Marco Moretti renunciou à candidatura, citando "problemas de saúde", embora os rumores sobre seu envolvimento com a Aeterna já estivessem circulando.
+— Eles acham que queimou junto com a represa — disse Gabriel. — O relatório oficial diz que foi um "acidente industrial catastrófico". Elara Vance está ocupada demais tentando explicar aos acionistas por que a IA da cidade ficou burra de repente.
 
-Gabriel pegou a boneca de pano do bolso. Estava seca agora.
+— O sistema Ecos foi reiniciado para os padrões de fábrica — confirmou Maya. — A "consciência" do seu pai... se foi.
 
-— Você conseguiu — disse Maya, sentando-se ao lado dele. Ela tinha o braço em uma tipoia. — Destruímos o pesadelo.
+Gabriel tocou o estômago.
 
-— E criamos outro — respondeu Gabriel, apontando para a fumaça subindo da Zona Baixa.
+— Não se foi. Está aqui. O código fonte. A humanidade dele.
 
-— É o caos — concordou ela. — Mas é o *nosso* caos. Somos livres para cometer nossos próprios erros agora.
+— E o Miranda?
 
-Gabriel sorriu, um sorriso pequeno, mas verdadeiro.
+— Sumiu. Deixou um bilhete dizendo que ia para o Norte. Melhor assim. Se eu o vir de novo, vou ter que prendê-lo.
 
-— E meu pai?
+Maya fechou o laptop.
 
-— O drive queimou. Ele se foi, Gabo. De verdade dessa vez.
+— E agora, Gabo? A cidade ainda é podre. A Aeterna ainda manda em tudo. Nós só demos um soco no olho do gigante.
 
-Gabriel assentiu. Ele tirou o drive queimado do bolso e o jogou na água escura da baía. Ele afundou sem fazer som.
+Gabriel se levantou e foi até a janela. Baía Cinzenta se estendia abaixo dele, um oceano de luzes e sombras. O crime continuava. A corrupção continuava. Mas algo havia mudado.
 
-— Adeus, Comissário.
+Eles sabiam que o gigante sangrava.
 
-Ele se levantou, ajeitando o sobretudo.
+— Agora? — Gabriel sorriu, e seus olhos refletiram o neon da rua. — Agora a gente começa o Jogo de verdade. Eles tiraram meu pai de mim duas vezes. Eu não vou deixar eles levarem mais ninguém.
 
-— Vamos, Glitch. Temos trabalho a fazer. Alguém tem que manter a ordem nessa bagunça.
+Ele pegou seu distintivo e o prendeu no cinto.
 
-— Para onde? — perguntou ela.
-
-— Para a delegacia. Ouvi dizer que estão precisando de um novo Comissário.
-
-Gabriel caminhou de volta para a cidade, sob a chuva eterna de Baía Cinzenta. Mas pela primeira vez em anos, ele não sentia frio.
+— Prepare os café, Glitch. Vai ser uma noite longa.

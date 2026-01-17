@@ -1,3 +1,5 @@
+<!-- ATENÇÃO: Nunca remova detalhes deste arquivo. Todos os perfis (Principais e Relevantes) devem seguir o esquema estrito: Idade, Altura, Porte Físico, Cabelo, Olhos, Marcas Distintivas, Vestuário, Equipamento, Gostos/Traços, Perfil Psicológico, Função e Histórico. -->
+
 # Arquivos do Departamento de Polícia de Baía Cinzenta: Dossiê de Indivíduos
 
 > **Nível de Acesso:** Confidencial
@@ -7,7 +9,7 @@
 
 ## Gabriel "Gabo" Moretti
 
-![Gabriel "Gabo" Moretti](/gabo.jpg)
+![Gabriel "Gabo" Moretti](/gabo.webp)
 
 *   **Idade:** 30 anos
 *   **Altura:** 1,75m
@@ -19,19 +21,19 @@
 *   **Bens e Equipamento:**
     *   **Veículo:** Um Sedan Azul Metálico (Cobalt).
     *   **Arma de Serviço:** Pistola Glock.
-    *   **[INFORMAÇÃO OCULTA / CONFIDENCIAL]:** No porta-malas do Cobalt, trancadas em um compartimento falso, ele carrega "Mara" (uma Bazuca modificada para ogivas de pulso eletromagnético/concussão) e "Vilha" (uma escopeta calibre 12 de cano serrado e tambor rotativo). Elas são seu último recurso para quando a diplomacia falha catastroficamente. *Nota: Esta informação não é de conhecimento público e não aparece nos relatórios oficiais.*
+    *   **[INFORMAÇÃO OCULTA / CONFIDENCIAL]:** No porta-malas do Cobalt, trancadas em um compartimento falso, ele carrega "Mara" (uma Bazuca modificada para ogivas de pulso eletromagnético/concussão) e "Vilha" (uma escopeta calibre 12 de cano serrado e tambor rotativo).
 *   **Gostos Pessoais:**
     *   **Comida:** Viciado em pizza. Quente, fria, de ontem ou da sarjeta. É o seu principal grupo alimentar.
     *   **Bebida:** Café (litros por dia) e vinho barato.
 *   **Perfil Psicológico:** Workaholic, paranoico e cínico. Acredita em uma conspiração política global para boicotar a cidade. Protege os inocentes com uma fúria silenciosa.
-*   **Função:** Inspetor da Divisão de Casos Esquecidos (Cold Cases).
-*   **Histórico:** Filho do lendário Comissário Dante Moretti. Viu sua carreira promissora na Homicídios ser destruída após ser traído por seu parceiro em uma operação fracassada.
+*   **Função:** Inspetor da Divisão de Casos Esquecidos (Cold Cases) / "O Herói do Apagão".
+*   **Histórico:** Filho do lendário Comissário Dante Moretti. Viu sua carreira promissora na Homicídios ser destruída após ser traído por seu parceiro em uma operação fracassada. Atualmente lidera a resistência contra o "Gamemaster".
 
 ---
 
 ## Valéria "Val" Cruz
 
-![Valéria "Val" Cruz](/val.png)
+![Valéria "Val" Cruz](/val.jpg)
 
 *   **Idade:** 23 anos
 *   **Altura:** 1,60m
@@ -46,72 +48,30 @@
 *   **Gostos Pessoais:**
     *   **Comida:** Bebidas energéticas fluorescentes e noodles instantâneos.
     *   **Hobby:** Hackear outdoors da cidade para exibir arte anarquista.
-*   **Perfil Psicológico:** Otimista (na medida do possível para o cenário), hiperativa e viciada em informação. É a bússola moral digital de Gabo, tentando mantê-lo conectado ao presente enquanto ele vive no passado.
+*   **Perfil Psicológico:** Otimista (na medida do possível), hiperativa e viciada em informação. É a bússola moral digital de Gabo. Sofreu abstinência severa após a remoção forçada de seus chips de conexão para se tornar "invisível" ao sistema.
 *   **Função:** Detetive Júnior / Especialista em Cibercrime.
-*   **Histórico:** Uma prodígio que hackeou o sistema da academia de polícia aos 16 anos. Ao invés de ser presa, foi recrutada pelo Capitão Vilar. Nutre uma paixão secreta por Gabo, admirando sua integridade analógica.
+*   **Histórico:** Uma prodígio que hackeou o sistema da academia de polícia aos 16 anos. Ao invés de ser presa, foi recrutada pelo Capitão Vilar, que viu potencial onde outros viram crime. Nutre uma lealdade feroz e uma paixão secreta por Gabo.
 
 ---
 
-## Roberto Miranda (Antigo Detetive Miranda)
+## Roberto Miranda (O Gerente)
 
-![Roberto Miranda](/miranda.jpg)
+![Roberto Miranda](/roberto.jpg)
 
 *   **Idade:** 34 anos
 *   **Altura:** 1,78m
-*   **Porte Físico:** Magro de uma forma doentia, com a pele pálida e úmida de quem vive nos esgotos e bares do submundo.
+*   **Porte Físico:** Magro de uma forma doentia, com a pele pálida e úmida de quem vive nos esgotos, agora complementada por um braço mecânico de última geração.
 *   **Cabelo:** Ralo, oleoso, penteado para trás para esconder a calvície incipiente.
-*   **Olhos:** Inquietos, injetados de sangue e com pupilas dilatadas pelo uso constante de estimulantes baratos.
-*   **Marcas Distintivas:** Falta-lhe o braço esquerdo, substituído por uma prótese mecânica de segunda mão que range constantemente. Cicatriz de queimadura no pescoço.
-*   **Vestuário:** Ternos baratos que um dia foram elegantes, agora manchados e puídos.
+*   **Olhos:** Inquietos, injetados de sangue e com pupilas dilatadas pelo uso constante de estimulantes.
+*   **Marcas Distintivas:** Falta-lhe o braço esquerdo, substituído por uma prótese mecânica de combate. Cicatriz de queimadura no pescoço.
+*   **Vestuário:** Ternos caros, comprados com dinheiro sujo do Sindicato, que não disfarçam sua aura de decadência.
 *   **Bens e Equipamento:**
-    *   **Arma:** Um revólver calibre .38 enferrujado com a numeração raspada.
-    *   **Gadgets:** Vários chips de dados roubados costurados no forro do casaco.
+    *   **Arma:** Braço cibernético com escudo de energia integrado e pistola de plasma oculta.
 *   **Gostos Pessoais:**
-    *   **Vício:** Jogos de azar em cassinos virtuais ilegais e apostas em rinhas de androides.
-*   **Perfil Psicológico:** Covarde, manipulador e desesperado. Miranda é movido puramente pela autopreservação e pela ganância imediata. Ele não tem lealdade, apenas dívidas.
-*   **Função:** Informante do Submundo (Ex-Policial).
-*   **Histórico:** Ex-parceiro de Gabo. Vendeu sua unidade para o Sindicato para pagar dívidas de jogo, causando a emboscada que quase matou Gabo. Expulso da força, hoje vive como um rato nos becos que jurou limpar.
-
----
-
-## O Taxidermista (Alvo Prioritário #1)
-
-*   **Idade:** Desconhecida (Estimada: 40-50 anos)
-*   **Altura:** 1,85m
-*   **Porte Físico:** Desengonçado, com movimentos espasmódicos e teatrais.
-*   **Cabelo:** Careca, com couro cabeludo coberto por cicatrizes de auto-cirurgias.
-*   **Olhos:** Usa óculos de joalheiro com múltiplas lentes de aumento acopladas.
-*   **Marcas Distintivas:** Cheiro constante de formol e óleo de máquina antigo. Dedos longos e calejados, manchados de tinta e sangue seco.
-*   **Vestuário:** Avental de couro pesado de açougueiro sobre roupas vitorianas anacrônicas.
-*   **Bens e Equipamento:**
-    *   **Ferramentas:** Um kit cirúrgico antigo e ferramentas de relojoaria de precisão.
-    *   **Arma:** Bisturis de diamante e serras ósseas.
-*   **Gostos Pessoais:**
-    *   **Obsessão:** A "perfeição" mecânica. Ele despreza a carne ("suja e perecível") e a eletrônica moderna ("fria e sem alma").
-*   **Perfil Psicológico:** Psicopata clássico com delírios artísticos. Vê suas vítimas não como pessoas, mas como "telas" imperfeitas que precisam ser consertadas com mecanismos de relógio.
-*   **Função:** Serial Killer (Nível 5).
-*   **Histórico:** Identidade desconhecida. Suspeita-se que seja um ex-cirurgião ou relojoeiro que enlouqueceu após perder a família em um acidente industrial causado pela Aeterna.
-
----
-
-## Kael "O Cirurgião"
-
-![Cirurgião](/cirurgiao.jpg)
-
-*   **Idade:** Desconhecida
-*   **Altura:** 1,90m
-*   **Porte Físico:** Esguio e artificialmente alongado. Sua estrutura óssea foi reforçada com titânio.
-*   **Cabelo:** Nenhum. Pele sintética branca cobre todo o crânio.
-*   **Olhos:** Sensores óticos vermelhos escondidos atrás de óculos escuros ou visores táticos.
-*   **Marcas Distintivas:** Não possui boca visível (coberta por uma máscara cirúrgica integrada à pele). Removeu as próprias cordas vocais.
-*   **Vestuário:** Trajes táticos de couro cirúrgico preto, feitos sob medida para não fazer barulho.
-*   **Bens e Equipamento:**
-    *   **Implantes:** Mãos modificadas com lâminas retráteis e injetores de neurotoxinas nos dedos.
-*   **Gostos Pessoais:**
-    *   **Silêncio:** Ele odeia ruídos desnecessários.
-*   **Perfil Psicológico:** Um executor sem empatia ou remorso. Kael é uma ferramenta viva, leal apenas a quem detém seus códigos de controle (Dra. Elara Vance).
-*   **Função:** Chefe de Segurança Especial da Aeterna Corp / Assassino.
-*   **Histórico:** Um experimento da divisão militar da Aeterna. Acredita-se que tenha sido um soldado ferido mortalmente e "reconstruído" para ser a arma perfeita.
+    *   **Vício:** Jogos de azar, poder e rinhas de androides.
+*   **Perfil Psicológico:** Covarde, manipulador e desesperado. Miranda é movido puramente pela autopreservação e inveja. Ele não tem lealdade, apenas dívidas. Vendeu sua alma e sua unidade policial.
+*   **Função:** Gerente do "Shadowban" / Traidor.
+*   **Histórico:** Ex-parceiro de Gabo. Tornou-se o carcereiro digital dos "Cancelados" no bunker sob a Torre de Marfim antes de ser derrubado durante a revolta.
 
 ---
 
@@ -133,36 +93,13 @@
     *   **Interesse:** Arquivos antigos em papel e bibliotecas esquecidas.
 *   **Perfil Psicológico:** Obstinada e destemida. Lívia é movida por um senso de justiça tão forte quanto o de Gabo, mas acredita que a "caneta" (ou o upload) é mais forte que a espada.
 *   **Função:** Jornalista Investigativa Sênior.
-*   **Histórico:** Casada com Gabo, mas separada. Afastou-se dele para protegê-lo de si mesmo e para investigar a morte de Dante Moretti sem o peso emocional de Gabo atrapalhando.
+*   **Histórico:** Casada com Gabo, mas separada (o divórcio nunca foi assinado). Afastou-se dele para protegê-lo de si mesmo e para investigar a morte de Dante Moretti sem o peso emocional de Gabo atrapalhando. Foi alvo de sequestro pelo Gamemaster.
 
 ---
 
-## A Menina do Orelhão (Cobaia "Aria")
+## Marco Moretti
 
-![A Menina do Orelhão](/menina.jpg)
-
-*   **Idade:** Desconhecida (Aparenta 6 anos)
-*   **Altura:** 1,10m
-*   **Porte Físico:** Frágil, desnutrida.
-*   **Cabelo:** Preto, longo e embaraçado.
-*   **Olhos:** Totalmente negros (esclera e íris), resultado da exposição direta à Droga Lázaro no útero ou em laboratório.
-*   **Marcas Distintivas:** Código de barras brilhante na nuca. Não fala verbalmente, comunica-se por projeção empática ou manipulação de eletrônicos próximos.
-*   **Vestuário:** Uma camisola hospitalar suja e um casaco grande demais (provavelmente dado por Gabo).
-*   **Bens e Equipamento:**
-    *   **Item:** Uma boneca de pano remendada que parece funcionar como um "foco" para suas habilidades.
-*   **Gostos Pessoais:**
-    *   **Desconhecido:** Parece ter medo da chuva e de luzes muito fortes.
-*   **Perfil Psicológico:** Uma mente fraturada e poderosa. Aria oscila entre o medo infantil e uma sabedoria antiga e terrível conectada à Rede.
-*   **Função:** O "MacGuffin" vivo. A chave para o Projeto Ecos.
-*   **Histórico:** Fugitiva da Torre de Marfim. Encontrada por Gabo em um orelhão na Zona Baixa, esperando por uma ligação que nunca viria. Ela é a prova viva dos crimes da Aeterna.
-
----
-
-## Outros Personagens Relevantes
-
-### Marco Moretti
-
-![Cirurgião](/marco-moretti.jpg)
+![Marco Moretti](/marco.jpg)
 
 *   **Idade:** 35 anos
 *   **Altura:** 1,80m
@@ -173,16 +110,18 @@
 *   **Vestuário:** Ternos italianos sob medida, relógios de luxo e sapatos que nunca tocam a lama de Baía Cinzenta.
 *   **Bens e Equipamento:**
     *   **Recursos:** Acesso ilimitado a fundos de campanha e uma frota de carros blindados.
-    *   **Segurança:** Sempre acompanhado por dois guarda-costas da Aeterna.
+    *   **Segurança:** Sempre acompanhado por dois guarda-costas da Aeterna (antes da queda).
 *   **Gostos Pessoais:**
     *   **Ambição:** Poder. Ele quer ser o Prefeito que "salvou" a cidade, custe o que custar.
 *   **Perfil Psicológico:** Narcisista e pragmático. Marco acredita que os fins justificam os meios, mesmo que os meios envolvam vender a alma da cidade para corporações.
-*   **Função:** Candidato a Prefeito / Irmão de Gabo.
-*   **Histórico:** O irmão mais velho que seguiu o caminho "limpo". Enquanto Gabo mergulhava no submundo para resolver crimes, Marco escalava a hierarquia social. Eles não se falam, exceto através de advogados ou ameaças veladas.
+*   **Função:** Ex-Candidato a Prefeito / Irmão de Gabo.
+*   **Histórico:** O irmão mais velho que seguiu o caminho "limpo". Enquanto Gabo mergulhava no submundo, Marco escalava a hierarquia. Foi exposto como fantoche da Aeterna e "cancelado" durante a revolta.
 
-### Dra. Elara Vance
+---
 
-![Vance](/elara-vance.jpg)
+## Dra. Elara Vance
+
+![Dra. Elara Vance](/elara.jpg)
 
 *   **Idade:** Indefinida (Aparenta 40 anos graças a tratamentos genéticos)
 *   **Altura:** 1,75m
@@ -192,37 +131,41 @@
 *   **Marcas Distintivas:** Pele perfeita, quase translúcida. Nunca transpira.
 *   **Vestuário:** Vestidos de alta costura futurista, geralmente em branco ou prata, que contrastam com a sujeira da cidade.
 *   **Bens e Equipamento:**
-    *   **Império:** Controla a Aeterna Corp, o que significa que ela é dona da água, da luz e da internet da cidade.
+    *   **Império:** Controlava a Aeterna Corp (água, luz, internet).
 *   **Gostos Pessoais:**
     *   **Filosofia:** Transumanismo. Acredita que a biologia humana é falha e deve ser superada pela tecnologia.
 *   **Perfil Psicológico:** Sociopata funcional. Elara não vê pessoas, vê dados e recursos. Para ela, sofrimento é apenas um bug no sistema.
-*   **Função:** CEO da Aeterna Corp / Antagonista Principal.
-*   **Histórico:** Uma cientista brilhante que tomou o controle da Aeterna em um golpe corporativo silencioso. Ela é a arquiteta por trás do Projeto Ecos e da Droga Lázaro.
+*   **Função:** Ex-CEO da Aeterna Corp.
+*   **Histórico:** Uma cientista brilhante que tomou o controle da Aeterna em um golpe corporativo silencioso. Arquiteta do Projeto Ecos e da Droga Lázaro.
 
-### Capitão Jonas Vilar
+---
 
-![Jonas](/capitao-jonas.jpg)
+## Capitão Jonas Vilar
+
+![Capitão Jonas Vilar](/jonas.jpg)
 
 *   **Idade:** 58 anos
 *   **Altura:** 1,82m
 *   **Porte Físico:** Robusto, começando a ceder à idade e ao estresse. Ombros largos que carregam o peso do departamento.
 *   **Cabelo:** Grisalho, cortado em estilo militar, mas rareando no topo.
 *   **Olhos:** Cansados, cercados por rugas de preocupação. Olhos de quem já viu tudo e não gostou de nada.
-*   **Marcas Distintivas:** Voz rouca de fumante (embora esteja tentando parar). Uma cicatriz antiga no queixo.
+*   **Marcas Distintivas:** Voz rouca de fumante. Uma cicatriz antiga no queixo.
 *   **Vestuário:** Camisas de uniforme engomadas, mas puídas nas golas. Distintivo sempre polido.
 *   **Bens e Equipamento:**
     *   **Arma:** Um revólver clássico .44 Magnum que ele se recusa a trocar por armas de energia.
 *   **Gostos Pessoais:**
     *   **Vício:** Uísque barato escondido na gaveta de baixo.
-*   **Perfil Psicológico:** Resiliente e pragmático. Vilar é um homem bom em um sistema ruim. Ele faz concessões morais para manter a delegacia aberta, o que o tortura diariamente.
+*   **Perfil Psicológico:** Resiliente e pragmático. Vilar é um homem bom em um sistema ruim.
 *   **Função:** Chefe do Departamento de Polícia.
 *   **Histórico:** Antigo parceiro e melhor amigo de Dante Moretti. Ele protege Gabo por culpa e lealdade à memória do pai, mas está chegando ao limite do que pode encobrir.
 
-### Comissário Dante Moretti (Falecido)
+---
 
-![dante](/comissario-dante-moretti.jpg)
+## Comissário Dante Moretti
 
-*   **Idade:** Morreu aos 45 anos (Teria 60 hoje)
+![Comissário Dante Moretti](/dante.jpg)
+
+*   **Idade:** Falecido aos 45 anos (Teria 60 hoje)
 *   **Altura:** 1,85m
 *   **Porte Físico:** Na época, imponente e forte. A imagem do policial herói.
 *   **Cabelo:** Preto, sempre penteado para trás.
@@ -234,8 +177,171 @@
 *   **Gostos Pessoais:**
     *   **Justiça:** Acreditava na lei acima de tudo, até descobrir que a lei estava à venda.
 *   **Perfil Psicológico:** Incorruptível e idealista, o que acabou sendo sua sentença de morte.
-*   **Função:** O Fantasma / A Inspiração.
-*   **Histórico:** O maior detetive que Baía Cinzenta já viu. Sua morte "acidental" em uma explosão industrial é o evento incitante de toda a trama. Ele descobriu o Projeto Ecos antes de qualquer um, e pagou o preço máximo.
+*   **Função:** O Fantasma / A Inspiração / "O Gamemaster" (Usurpado).
+*   **Histórico:** O maior detetive que Baía Cinzenta já viu. Sua morte "acidental" em uma explosão industrial é o evento incitante. Seu túmulo foi encontrado vazio, e sua imagem foi usada pelo Gamemaster para manipular a cidade.
 
-# A elite
-![elite](/elite.jpg)
+---
+
+## O Taxidermista (Alvo Prioritário #1)
+
+*   **Idade:** Desconhecida (Estimada: 40-50 anos)
+*   **Altura:** 1,85m
+*   **Porte Físico:** Desengonçado, com movimentos espasmódicos e teatrais.
+*   **Cabelo:** Careca, com couro cabeludo coberto por cicatrizes de auto-cirurgias.
+*   **Olhos:** Usa óculos de joalheiro com múltiplas lentes de aumento acopladas.
+*   **Marcas Distintivas:** Cheiro constante de formol e óleo de máquina antigo. Dedos longos e calejados, manchados de tinta e sangue seco.
+*   **Vestuário:** Avental de couro pesado de açougueiro sobre roupas vitorianas anacrônicas.
+*   **Bens e Equipamento:**
+    *   **Ferramentas:** Um kit cirúrgico antigo e ferramentas de relojoaria de precisão.
+    *   **Arma:** Bisturis de diamante e serras ósseas.
+*   **Gostos Pessoais:**
+    *   **Obsessão:** A "perfeição" mecânica. Despreza a carne ("suja e perecível") e a eletrônica moderna ("fria e sem alma").
+*   **Perfil Psicológico:** Psicopata clássico com delírios artísticos. Vê suas vítimas como "telas" imperfeitas.
+*   **Função:** Serial Killer (Nível 5).
+*   **Histórico:** Identidade desconhecida. Suspeita-se que seja um ex-cirurgião ou relojoeiro que enlouqueceu após perder a família em um acidente industrial causado pela Aeterna.
+
+---
+
+## Kael "O Cirurgião"
+
+![Kael "O Cirurgião"](/kael.jpg)
+
+*   **Idade:** Desconhecida
+*   **Altura:** 1,90m
+*   **Porte Físico:** Esguio e artificialmente alongado. Estrutura óssea reforçada com titânio.
+*   **Cabelo:** Nenhum. Pele sintética branca cobre todo o crânio.
+*   **Olhos:** Sensores óticos vermelhos escondidos atrás de óculos escuros.
+*   **Marcas Distintivas:** Não possui boca visível (coberta por uma máscara cirúrgica integrada à pele). Removeu as próprias cordas vocais.
+*   **Vestuário:** Trajes táticos de couro cirúrgico preto, feitos sob medida para não fazer barulho.
+*   **Bens e Equipamento:**
+    *   **Implantes:** Mãos modificadas com lâminas retráteis e injetores de neurotoxinas nos dedos.
+*   **Gostos Pessoais:**
+    *   **Silêncio:** Odeia ruídos desnecessários.
+*   **Perfil Psicológico:** Um executor sem empatia ou remorso. Uma ferramenta viva, leal apenas a quem detém seus códigos de controle.
+*   **Função:** Executor da Aeterna Corp.
+*   **Histórico:** Um experimento da divisão militar da Aeterna. Destruído durante a batalha na Represa (Braço arrancado e sistemas fritos).
+
+---
+
+## Dra. Nise (A Oráculo do Submundo)
+
+![Dra. Nise](/nise.jpg)
+
+*   **Idade:** 70+
+*   **Altura:** 1,55m
+*   **Porte Físico:** Frágil, curvada pela idade, mas com mãos firmes de cirurgiã.
+*   **Cabelo:** Branco, preso em um coque desleixado.
+*   **Olhos:** Cegos, leitosos. Ela "vê" através de drones sonoros.
+*   **Marcas Distintivas:** Cicatrizes profundas ao redor das órbitas oculares onde removeu seus próprios implantes.
+*   **Vestuário:** Jaleco médico manchado sobre roupas de lã confortáveis.
+*   **Bens e Equipamento:**
+    *   **Tecnologia:** Enxame de micro-drones sonoros ("Morcegos").
+    *   **Local:** Opera uma clínica clandestina sob uma lavanderia no Distrito da Névoa.
+*   **Gostos Pessoais:**
+    *   **Bebida:** Chá de ervas amargas.
+*   **Perfil Psicológico:** Sábia, cínica e maternal. Uma sobrevivente da velha guarda que não teme mais nada.
+*   **Função:** Mentora e curandeira da resistência.
+*   **Histórico:** Psicóloga e neurocirurgiã que se recusou a trabalhar para a Aeterna. Ajuda viciados e vítimas da tecnologia.
+
+---
+
+## Maya "Glitch" Sato
+
+![Maya "Glitch" Sato](/maya.jpg)
+
+*   **Idade:** 25 anos
+*   **Altura:** 1,65m
+*   **Porte Físico:** Sedentária, postura curvada de quem vive no computador.
+*   **Cabelo:** Curto, preto, com mechas roxas.
+*   **Olhos:** Castanhos, sempre atrás de óculos AR.
+*   **Marcas Distintivas:** Dedos sempre manchados de tinta de caneta ou graxa.
+*   **Vestuário:** Moletons largos e tênis surrados.
+*   **Bens e Equipamento:**
+    *   **Laboratório:** Um porão cheio de sucata tecnológica no subsolo da delegacia.
+*   **Gostos Pessoais:**
+    *   **Hobby:** Colecionar hardware "vintage".
+*   **Perfil Psicológico:** Genial e sarcástica. Prefere máquinas a pessoas.
+*   **Função:** Analista Forense / Hacker.
+*   **Histórico:** Aliada confiável de Gabo na DPBC.
+
+---
+
+## Helena Moretti
+
+![Helena Moretti](/helena.jpg)
+
+*   **Idade:** 55 anos (na época do desaparecimento)
+*   **Altura:** 1,68m
+*   **Porte Físico:** Magra e elegante.
+*   **Cabelo:** Castanho com fios brancos, sempre preso.
+*   **Olhos:** Castanhos, gentis.
+*   **Marcas Distintivas:** Sempre usava um colar de pérolas falso.
+*   **Vestuário:** Vestidos simples e cardigãs.
+*   **Bens e Equipamento:**
+    *   **Item:** Álbum de fotos da família.
+*   **Gostos Pessoais:**
+    *   **Amor:** Família e jardinagem.
+*   **Perfil Psicológico:** Protetora e resiliente.
+*   **Função:** Mãe de Gabo e Marco.
+*   **Histórico:** Desapareceu misteriosamente após a morte de Dante.
+
+---
+
+## Clara Moretti
+
+![Clara Moretti](/clara.jpg)
+
+*   **Idade:** 18 anos (na época do desaparecimento)
+*   **Altura:** 1,65m
+*   **Porte Físico:** Jovem e saudável.
+*   **Cabelo:** Longo e ondulado.
+*   **Olhos:** Castanhos brilhantes.
+*   **Marcas Distintivas:** Uma cicatriz pequena no joelho.
+*   **Vestuário:** Uniforme escolar ou roupas casuais.
+*   **Bens e Equipamento:**
+    *   **Item:** Diário pessoal.
+*   **Gostos Pessoais:**
+    *   **Sonho:** Ser escritora.
+*   **Perfil Psicológico:** Sonhadora e inocente.
+*   **Função:** Irmã caçula de Gabo.
+*   **Histórico:** Desapareceu junto com a mãe. Gabo ainda as procura.
+
+---
+
+## Kiko Vibe (Falecido)
+
+*   **Idade:** 20 anos
+*   **Altura:** 1,75m
+*   **Porte Físico:** Magro, estilizado para câmeras.
+*   **Cabelo:** Loiro platinado, corte moderno.
+*   **Olhos:** Verdes (lentes de contato cosméticas sobre implantes).
+*   **Marcas Distintivas:** Sorriso perfeito (facetas de cerâmica).
+*   **Vestuário:** Roupas de grife streetwear, tênis de coleção.
+*   **Bens e Equipamento:**
+    *   **Tech:** Headset VR de última geração, estúdio de transmissão na cobertura.
+*   **Gostos Pessoais:**
+    *   **Vício:** Aprovação social e métricas de engajamento.
+*   **Perfil Psicológico:** Carente, narcisista, mas no fundo, assustado e preso.
+*   **Função:** Influenciador Digital / Vítima.
+*   **Histórico:** Estrela da rede "Cidadão Modelo". Sua morte ao vivo (hackeada) expôs a Fábrica de Sorrisos.
+
+---
+
+## A Menina do Orelhão (Aria)
+
+![A Menina do Orelhão](/menina.jpg)
+
+*   **Idade:** Desconhecida (Aparenta 6 anos)
+*   **Altura:** 1,10m
+*   **Porte Físico:** Frágil, desnutrida.
+*   **Cabelo:** Preto, longo e embaraçado.
+*   **Olhos:** Totalmente negros (esclera e íris), resultado da exposição à Droga Lázaro no útero ou em laboratório.
+*   **Marcas Distintivas:** Código de barras brilhante na nuca. Não fala verbalmente, comunica-se por projeção empática ou manipulação de eletrônicos.
+*   **Vestuário:** Camisola hospitalar suja e um casaco grande demais (provavelmente dado por Gabo).
+*   **Bens e Equipamento:**
+    *   **Item:** Uma boneca de pano remendada que parece funcionar como um "foco" para suas habilidades.
+*   **Gostos Pessoais:**
+    *   **Medo:** Luzes fortes e barulho de estática.
+*   **Perfil Psicológico:** Mente fraturada e poderosa. Aria oscila entre o medo infantil e uma sabedoria antiga e terrível conectada à Rede.
+*   **Função:** O "MacGuffin" vivo / Chave do Projeto Ecos.
+*   **Histórico:** Cobaia fugitiva da Torre de Marfim. Encontrada por Gabo em um orelhão na Zona Baixa. Ela é a prova viva dos crimes da Aeterna.

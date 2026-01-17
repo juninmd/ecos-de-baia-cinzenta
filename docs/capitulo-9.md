@@ -1,91 +1,107 @@
 # Capítulo 9: Feed Infinito
 
-O carro de Valéria não era um carro; era uma boate sobre rodas. O interior pulsava com luzes neon e uma batida eletrônica repetitiva saía dos alto-falantes ocultos.
+A Torre Solaris era o tipo de lugar onde o ar era perfumado artificialmente para cheirar a dinheiro. O elevador subiu 200 andares em dez segundos, deixando o estômago de Gabriel no térreo.
 
-— Você pode desligar isso? — pediu Gabriel, massageando as têmporas.
+Valéria, por outro lado, estava ocupada invadindo o sistema de segurança do prédio pelo seu implante neural. Seus olhos brilhavam em violeta.
 
-— Desligar o quê? O "vibe"? — Valéria estava sentada no banco do motorista, mas suas mãos estavam ocupadas digitando no ar. O volante girava sozinho. — Isso ajuda a concentrar. É *lo-fi beats to investigate to*.
+— Segurança frouxa — comentou ela. — Para um prédio de elite, o firewall deles é um queijo suíço. Alguém passou por aqui antes de nós e deixou a porta dos fundos aberta.
 
-Eles chegaram ao local do crime: um loft abandonado no Distrito Fabril, agora gentrificado e ocupado por estúdios de criação de conteúdo. A fita amarela da polícia (agora holográfica e flutuante) bloqueava a entrada.
+A cobertura de Kiko Vibe era um templo ao narcisismo. Paredes espelhadas, estátuas dele mesmo em tamanho real, e uma vista panorâmica da cidade que custava mais do que o salário anual de Gabriel.
 
-Gabriel saiu do carro, grato pela chuva fria em seu rosto. Valéria saltou logo atrás, ajustando seus óculos AR.
+Mas o lugar estava revirado. Não bagunçado, mas *varrido*. Gavetas abertas, buracos nas paredes onde cofres deveriam estar.
 
-— Ok, transmissão cortada às 09:42 — disse ela. — A audiência estava em pico. 300 mil simultâneos.
+— Profissionais — disse Gabriel, analisando a sala. — Não levaram a eletrônica cara. Procuravam informação.
 
-Eles subiram a escada de incêndio. O loft era um cenário perfeito: paredes de tijolos expostos, plantas sintéticas luxuriantes, e um anel de luz profissional iluminando o centro da sala.
+Valéria caminhou até a estação de transmissão no centro da sala. Era uma cadeira que parecia um cockpit de nave espacial, cercada por monitores curvos.
 
-No meio do anel de luz, sentado em uma cadeira gamer que parecia um trono, estava o corpo.
+— O equipamento ainda está ligado — ela sentou na cadeira, seus dedos voando sobre um teclado holográfico. — Tentaram limpar o cache local, mas deixaram migalhas. Amadores ou estavam com pressa.
 
-Kiko Vibe, um garoto de não mais que 20 anos, estava morto. Seus olhos estavam abertos, vidrados, fixos na câmera desligada. Mas o mais perturbador era o sorriso. Um rictus largo, exagerado, esticando a pele do rosto de forma antinatural.
+Enquanto Valéria trabalhava, Gabriel foi até o quarto. O cheiro de ozônio ainda pairava sobre a cama onde Kiko morrera.
 
-— Causa da morte? — perguntou Gabriel, calçando as luvas.
+Ele notou algo na mesa de cabeceira. Uma foto física. Kiko, sorrindo, abraçado a uma garota que não parecia uma modelo. Ela tinha olheiras, roupas simples e um olhar assombrado.
 
-— Parada cardíaca massiva — respondeu o legista, um droide médico modelo antigo. — Mas a química do sangue dele está... estranha.
+Gabriel pegou a foto. Atrás, escrito à mão: *"Liza, Setor 4, Clínica do Dr. N."*
 
-Gabriel se aproximou. Ele notou um pequeno ponto de injeção no pescoço do rapaz.
+— Val! — chamou ele. — Consegue identificar essa garota?
 
-— Ele estava usando alguma coisa?
+Ele voltou para a sala e mostrou a foto. Valéria escaneou a imagem com os olhos.
 
-— Dopamina pura, serotonina, e traços de... algo sintético — Valéria estava agachada ao lado do corpo, escaneando-o com seu relógio. — O sistema dele estava inundado de felicidade química. Ele morreu no auge da euforia.
+— Reconhecimento facial... processando... Bingo. Liza Mendes. Desaparecida há três meses. A polícia arquivou como "fuga voluntária". Ela era moderadora do canal do Kiko.
 
-Gabriel olhou ao redor. O cenário era falso. Os livros na estante eram apenas lombadas coladas. A janela com "vista para o mar" era uma tela de alta resolução.
+— E o "Dr. N"?
 
-— Tudo mentira — murmurou Gabriel. — Até a morte foi encenada.
+Valéria franziu a testa.
 
-— Ele era parte do programa "Cidadão Modelo" — disse Valéria, sua voz perdendo o tom de brincadeira. — Um projeto subsidiado pelo governo para promover "otimismo e resiliência" pós-apagão.
+— Dr. Nise? É um mito urbano. Dizem que é um médico que opera na Zona Baixa, removendo implantes de viciados que querem ficar "limpos" da tecnologia.
 
-— O governo está pagando garotos para sorrirem na internet enquanto a cidade afunda na lama? — Gabriel sentiu o gosto amargo da bile.
+— Um médico que remove tecnologia? — Gabriel guardou a foto. — Isso soa como alguém que Kiko procuraria se quisesse sair do sistema.
 
-— É mais complexo que isso — Valéria gesticulou, e um gráfico holográfico apareceu entre eles. Gabriel recuou, irritado com a luz. — Olha o padrão de engajamento. Kiko não estava apenas transmitindo. Ele estava *recebendo*.
+— Gabo, olha isso. — Valéria apontou para uma das telas. — Recuperei um fragmento do vídeo que ele ia transmitir. São só cinco segundos, mas...
 
-— Recebendo o quê?
+Ela apertou o play.
 
-— Feedback neural. — Valéria apontou para um pequeno implante na base do crânio de Kiko. — O público dava likes, e o implante liberava uma microdode de prazer. É o ciclo perfeito. Ele performa, eles aplaudem, ele sente prazer.
+A imagem estava tremida. Kiko, suando, com os olhos arregalados de terror, falava para a câmera:
 
-Gabriel tocou o implante frio.
+*"...não é um algoritmo! Eles não estão prevendo o que a gente quer. Eles estão decidindo! A Rede... a nova Rede... ela se alimenta de..."*
 
-— Mas alguém aumentou a dose.
+O vídeo cortou para estática, e depois para o logo de um "Sorriso Amarelo".
 
-— Explodiu o coração dele — concluiu Valéria. — Mas olha isso, Gabo. — Ela ampliou uma linha de código flutuante. — O comando para a overdose não veio do público. Não foi um "super like". Veio de uma fonte externa. Um backdoor no sistema.
+— Se alimenta de quê? — perguntou Gabriel.
 
-— Assassinato — disse Gabriel.
+— Não sei. Mas olha o metadado do arquivo. Foi enviado de um servidor proxy. Adivinha onde?
 
-— Ou queima de arquivo — Valéria desligou o holograma. — Kiko ia fazer um anúncio hoje. A tag do stream era #AverdadeDoi.
+— Setor 4 — completou Gabriel.
 
-Gabriel foi até a "janela" e a desligou. A vista do mar desapareceu, revelando a parede de tijolos sujos do beco ao lado.
+— Exato. Perto das velhas fábricas de processamento de carne.
 
-— Alguém não queria que ele falasse. O que mais ele tinha?
+Gabriel sentiu um arrepio. Carne.
 
-Valéria caminhou até o computador central do estúdio.
+De repente, as luzes do apartamento ficaram vermelhas. As janelas inteligentes escureceram, trancando-os lá dentro.
 
-— O disco está limpo. Formatado remotamente no segundo que o coração parou. Mas... — ela sorriu, um sorriso predador. — Eles esqueceram que eu sou a rainha do lixo digital.
+— Val? — Gabriel sacou a arma.
 
-Ela conectou um cabo de seu pulso diretamente na máquina. Seus olhos ficaram brancos enquanto ela entrava em transe de dados.
+— Não fui eu! — Valéria digitava freneticamente. — Estamos sendo hackeados! O sistema de defesa do prédio ativou o modo "Cerco".
 
-Gabriel esperou, tamborilando os dedos no coldre vazio (um tique nervoso que substituía o sono).
+— *Intrusos detectados,* — uma voz suave anunciou. — *Eliminação autorizada.*
 
-— Achei — sussurrou Valéria, voltando a si com um suspiro. — Fragmentos de cache. Kiko estava visitando um lugar chamado "A Fábrica de Sorrisos". Fica no Setor 4.
+Drones de limpeza, pequenos discos que normalmente aspiravam pó, saíram de seus nichos nas paredes. Mas estes tinham modificações: serras circulares e tasers.
 
-— Setor 4? — Gabriel franziu a testa. — Aquilo é zona industrial pesada. Não tem nada lá além de refinarias e...
+— Aspiradores assassinos? Sério? — Gabriel chutou o primeiro drone que se aproximou, enviando-o contra a parede.
 
-— E um armazém registrado em nome de uma empresa de fachada — completou Valéria. — A empresa chama "Iniciativa Lázaro Renascido".
+— Eles hackearam a IOT (Internet das Coisas)! — gritou Valéria. — A geladeira, o forno, as cortinas... tudo está tentando nos matar!
 
-Gabriel sentiu um calafrio. Lázaro. A droga que a Aeterna usava para escravizar mentes.
+O forno de micro-ondas na cozinha apitou e explodiu, jogando estilhaços de vidro na sala.
 
-— Achei que tivéssemos destruído todo o estoque — disse ele.
+— Saída! Agora! — gritou Gabriel.
 
-— Parece que alguém guardou a receita — Valéria desconectou o cabo. — E agora estão cozinhando algo novo.
+— O elevador está bloqueado!
 
-Gabriel olhou para o corpo sorridente de Kiko Vibe.
+Gabriel olhou para a janela panorâmica. Vidro blindado.
 
-— Vamos para o Setor 4 — disse ele, puxando sua arma e verificando o pente. — E Valéria?
+— Val, você confia em mim?
 
-— Sim?
+— Não!
 
-— Se você tentar colocar música no carro de novo, eu atiro no rádio.
+— Ótimo. Segura firme!
 
-Valéria riu.
+Gabriel correu em direção à janela, não para quebrá-la, mas mirando na moldura de metal. Ele disparou três vezes nos pontos de tensão que seu pai lhe ensinara anos atrás. O vidro estalou, a integridade estrutural comprometida.
 
-— Entendido, parceiro. Silêncio analógico.
+Ele agarrou Valéria pela cintura e se jogou contra o vidro.
 
-Eles saíram do loft, deixando o cadáver e seu sorriso eterno para trás, mergulhando de volta na chuva de Baía Cinzenta.
+Eles atravessaram a janela em uma chuva de diamantes falsos, caindo no ar frio da noite, duzentos andares acima do chão.
+
+— VOCÊ É LOUCO! — gritou Valéria enquanto caíam.
+
+Gabriel acionou o gancho de rapel de seu cinto — equipamento padrão que ele nunca usava. O cabo disparou, prendendo-se em uma gárgula ornamental dois andares abaixo. O tranco quase deslocou seu quadril, mas eles pararam, pendurados sobre o abismo de neon.
+
+Acima deles, na cobertura, os drones zumbiam frustrados.
+
+— Vamos descer — ofegou Gabriel. — O Setor 4 nos espera.
+
+Valéria estava pálida, agarrada a ele como um carrapato.
+
+— Se eu sobreviver — disse ela, tremendo — eu vou apagar todo o seu histórico de navegação. É uma promessa.
+
+Gabriel riu, balançando ao vento.
+
+— Fechado.

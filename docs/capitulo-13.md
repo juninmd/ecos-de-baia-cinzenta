@@ -1,81 +1,105 @@
 # Capítulo 13: Shadowban
 
-A queda de Marco Moretti foi rápida e brutal. Mas não foi a justiça que Gabriel esperava.
+O vidro do tanque explodiu. Fluido criogênico e biomassa jorraram, inundando o chão da caverna. O supercomputador orgânico gritou — um som agudo, digital e humano ao mesmo tempo.
 
-A multidão não invadiu a torre para prender Marco. Eles invadiram para *destruir*. O caos consumiu a Cidade Alta. Prédios queimavam. A polícia perdeu o controle.
+— NÃO! — gritou Miranda.
 
-Três semanas depois, a poeira ainda estava baixando.
+As figuras mascaradas — os "Cancelados" — começaram a convulsionar. Sem o controle central, suas mentes estavam voltando, desordenadas e furiosas.
 
-Gabriel estava em seu escritório na delegacia, empacotando suas coisas. Ele tinha sido suspenso. "Uso excessivo de força e incitação à desordem pública", dizia o relatório.
+— Val, agora! — gritou Gabriel.
 
-Valéria entrou. Ela parecia diferente. Menos colorida. Seu cabelo rosa estava desbotado, e ela não usava seus óculos AR.
+Valéria correu para o terminal principal, ignorando os avisos de erro em sua visão. Ela conectou-se fisicamente.
 
-— Então é isso? — perguntou ela, encostada na porta.
+— Estou dentro! O firewall caiu junto com o resfriamento!
 
-— O Capitão disse que preciso de férias — disse Gabriel, fechando a caixa de papelão. — Marco fugiu. Fugiu para uma ilha privada em algum lugar sem extradição. Ele saiu impune.
+Miranda sacou uma arma de energia e disparou. O raio queimou o ombro de Gabriel, jogando-o contra uma parede de rocha.
 
-— Não impune — corrigiu Valéria. — Ele perdeu tudo. O poder, a reputação. Ele é um pária.
+— Você estragou tudo! — Miranda rugia, seu rosto contorcido. — Tínhamos ordem! Tínhamos paz!
 
-— Ele está vivo. E rico. — Gabriel pegou seu casaco. — E a cidade está em chamas. Trocamos a tirania pela anarquia. De novo.
+Gabriel levantou-se, ignorando a dor.
 
-— É o processo — disse Valéria. — Dói curar.
+— Paz de cemitério não conta, Miranda.
 
-Gabriel parou na frente dela.
+Eles trocaram tiros. Gabriel se escondia atrás das colunas de servidores enquanto Miranda avançava, protegido por um escudo de energia pessoal gerado por seu braço novo.
 
-— E você? Como está a abstinência?
+— Val, quanto tempo? — gritou Gabriel.
 
-— Melhor. — Ela tocou a têmpora. — Ainda ouço o zumbido às vezes. A vontade de conectar. Mas... estou aprendendo a gostar do silêncio.
+— Estou reescrevendo o protocolo! — gritou Valéria, seus dedos sangrando sobre o teclado. — Vou liberar o "Shadowban"! Vou devolver a identidade de todo mundo!
 
-— Fico feliz.
+— Se você fizer isso, a cidade entra em colapso! — gritou Miranda. — O sistema econômico, os registros criminais, as dívidas... tudo vai voltar! Vai ser o caos!
 
-Gabriel começou a sair, mas Valéria segurou seu braço.
+— É, eu sei — disse Gabriel, sorrindo. — Eu adoro o caos.
 
-— Gabo. Tem uma coisa que eu não te contei.
+Ele saiu da cobertura e correu em direção a Miranda. O traidor disparou, mas Gabriel deslizou pelo chão molhado de fluido, passando por baixo do escudo de energia.
 
-A seriedade na voz dela fez Gabriel parar. Ele fechou a porta.
+Ele chutou o joelho de Miranda, quebrando a perna dele com um estalo seco. Miranda caiu, gritando.
 
-— O que foi?
+Gabriel colocou o cano da Glock na testa do ex-parceiro.
 
-Valéria tirou um pequeno chip do bolso.
+— Acabou, Roberto.
 
-— Quando hackeei a antena na Torre... eu vi o tráfego de dados. O sinal de Marco... ele não estava apenas sendo transmitido para a cidade. Ele estava sendo *retransmitido*.
+Miranda olhou para ele, ofegante.
 
-— Retransmitido para onde?
+— Você não tem coragem. Nós somos irmãos de farda.
 
-— Para fora. Para um servidor que não está em nenhum mapa. Uma conexão via satélite de banda ultra-larga.
+— Eu entreguei meu distintivo — disse Gabriel.
 
-Gabriel franziu a testa.
+— GABRIEL, FEITO! — gritou Valéria.
 
-— Quem estava recebendo?
+Ela apertou o Enter.
 
-— Alguém que estava assistindo tudo. O tempo todo. Não só os influenciadores. Mas a gente. A invasão, a luta, a queda de Marco. Tudo.
+O zumbido da máquina parou. As luzes da caverna ficaram verdes.
 
-Valéria engoliu em seco.
+E então, em milhões de telas pela cidade, em milhões de implantes oculares, o véu caiu.
 
-— Gabo... a queda de Marco... gerou o maior pico de audiência que eu já vi nesse canal oculto.
+As contas bancárias descongelaram. Os históricos de crimes de políticos apareceram em outdoors. As mentiras dos influenciadores foram substituídas pelos vídeos brutos, sem filtro.
 
-Gabriel sentiu um frio na espinha.
+A cidade acordou de uma ressaca coletiva.
 
-— Você está dizendo que alguém *queria* que isso acontecesse?
+No bunker, os "Cancelados" arrancaram suas máscaras. Eram pessoas comuns. Jornalistas, ativistas, cientistas. E eles estavam muito, muito bravos.
 
-— Estou dizendo que para alguém... nós somos apenas a segunda temporada.
+Eles cercaram Miranda.
 
-Gabriel pegou o chip e o olhou. Era preto, sem marcas, exceto por um pequeno símbolo gravado a laser: um olho estilizado dentro de um triângulo.
+— Gabo... — Miranda olhou para a multidão, aterrorizado. — Me prenda. Por favor. Me leve para a delegacia.
 
-— Quem é o Administrador? — perguntou Gabriel.
+Gabriel guardou a arma.
 
-— Eu não sei — disse Valéria, sua voz tremendo. — Mas acho que acabamos de ser renovados.
+— Sinto muito. Isso aqui não é jurisdição da polícia. É o tribunal do povo.
 
-Gabriel guardou o chip no bolso. Ele olhou pela janela da delegacia. A chuva continuava a cair sobre Baía Cinzenta, lavando o sangue das ruas, mas não os pecados.
+Ele deu as costas e caminhou até Valéria.
 
-Ele sorriu, um sorriso sem humor.
+— Vamos sair daqui.
 
-— Então vamos dar a eles um show que eles nunca vão esquecer.
-
-Ele colocou seu chapéu.
-
-— Vamos, parceira. Temos um canal para derrubar.
+Enquanto eles subiam pelo elevador, os gritos de Miranda ecoaram pelo poço, logo abafados pelo som de máquinas sendo destruídas.
 
 ***
 
-**FIM DA PARTE III**
+**Superfície.**
+
+A cidade estava em chamas. Mas eram chamas de revolta, não de destruição. As pessoas estavam nas ruas, quebrando as telas de propaganda, derrubando as estátuas da Aeterna.
+
+Valéria sentou-se na calçada, exausta. Seus implantes brilharam com um azul forte e saudável.
+
+— Minha licença renovou — disse ela, rindo e chorando ao mesmo tempo. — Eu sou eu de novo.
+
+Gabriel sentou-se ao lado dela, segurando o braço queimado.
+
+— Conseguimos.
+
+— E agora? — perguntou ela. — O Marco Moretti vai cair. O sistema caiu. O que sobrou?
+
+Gabriel olhou para o horizonte, onde o sol tentava nascer através da poluição.
+
+— Sobraram os Ecos — disse ele. — E alguém tem que limpar a bagunça.
+
+Valéria encostou a cabeça no ombro dele.
+
+— Parceiros?
+
+— Parceiros — concordou Gabriel.
+
+Mas enquanto olhava para a cidade, Gabriel sabia que não tinha acabado. O chip em seu estômago vibrou, quente. Uma mensagem, vinda não de fora, mas de dentro.
+
+*— Nível 1 Concluído. Iniciando Fase 2.*
+
+Gabriel fechou os olhos. O jogo estava apenas começando.
