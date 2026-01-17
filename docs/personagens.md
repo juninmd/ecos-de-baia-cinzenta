@@ -121,6 +121,8 @@
 
 ## Dra. Elara Vance
 
+![Dra. Elara Vance](/elara.jpg)
+
 *   **Idade:** Indefinida (Aparenta 40 anos graças a tratamentos genéticos)
 *   **Altura:** 1,75m
 *   **Porte Físico:** Elegante e escultural. Move-se com a precisão de um felino predador.
@@ -140,6 +142,8 @@
 
 ## Capitão Jonas Vilar
 
+![Capitão Jonas Vilar](/jonas.jpg)
+
 *   **Idade:** 58 anos
 *   **Altura:** 1,82m
 *   **Porte Físico:** Robusto, começando a ceder à idade e ao estresse. Ombros largos que carregam o peso do departamento.
@@ -158,6 +162,8 @@
 ---
 
 ## Comissário Dante Moretti
+
+![Comissário Dante Moretti](/dante.jpg)
 
 *   **Idade:** Falecido aos 45 anos (Teria 60 hoje)
 *   **Altura:** 1,85m
@@ -198,6 +204,8 @@
 
 ## Kael "O Cirurgião"
 
+![Kael "O Cirurgião"](/kael.jpg)
+
 *   **Idade:** Desconhecida
 *   **Altura:** 1,90m
 *   **Porte Físico:** Esguio e artificialmente alongado. Estrutura óssea reforçada com titânio.
@@ -217,6 +225,8 @@
 
 ## Dra. Nise (A Oráculo do Submundo)
 
+![Dra. Nise](/nise.jpg)
+
 *   **Idade:** 70+
 *   **Altura:** 1,55m
 *   **Porte Físico:** Frágil, curvada pela idade, mas com mãos firmes de cirurgiã.
@@ -232,6 +242,69 @@
 *   **Perfil Psicológico:** Sábia, cínica e maternal. Uma sobrevivente da velha guarda que não teme mais nada.
 *   **Função:** Mentora e curandeira da resistência.
 *   **Histórico:** Psicóloga e neurocirurgiã que se recusou a trabalhar para a Aeterna. Ajuda viciados e vítimas da tecnologia.
+
+---
+
+## Maya "Glitch" Sato
+
+![Maya "Glitch" Sato](/maya.jpg)
+
+*   **Idade:** 25 anos
+*   **Altura:** 1,65m
+*   **Porte Físico:** Sedentária, postura curvada de quem vive no computador.
+*   **Cabelo:** Curto, preto, com mechas roxas.
+*   **Olhos:** Castanhos, sempre atrás de óculos AR.
+*   **Marcas Distintivas:** Dedos sempre manchados de tinta de caneta ou graxa.
+*   **Vestuário:** Moletons largos e tênis surrados.
+*   **Bens e Equipamento:**
+    *   **Laboratório:** Um porão cheio de sucata tecnológica no subsolo da delegacia.
+*   **Gostos Pessoais:**
+    *   **Hobby:** Colecionar hardware "vintage".
+*   **Perfil Psicológico:** Genial e sarcástica. Prefere máquinas a pessoas.
+*   **Função:** Analista Forense / Hacker.
+*   **Histórico:** Aliada confiável de Gabo na DPBC.
+
+---
+
+## Helena Moretti
+
+![Helena Moretti](/helena.jpg)
+
+*   **Idade:** 55 anos (na época do desaparecimento)
+*   **Altura:** 1,68m
+*   **Porte Físico:** Magra e elegante.
+*   **Cabelo:** Castanho com fios brancos, sempre preso.
+*   **Olhos:** Castanhos, gentis.
+*   **Marcas Distintivas:** Sempre usava um colar de pérolas falso.
+*   **Vestuário:** Vestidos simples e cardigãs.
+*   **Bens e Equipamento:**
+    *   **Item:** Álbum de fotos da família.
+*   **Gostos Pessoais:**
+    *   **Amor:** Família e jardinagem.
+*   **Perfil Psicológico:** Protetora e resiliente.
+*   **Função:** Mãe de Gabo e Marco.
+*   **Histórico:** Desapareceu misteriosamente após a morte de Dante.
+
+---
+
+## Clara Moretti
+
+![Clara Moretti](/clara.jpg)
+
+*   **Idade:** 18 anos (na época do desaparecimento)
+*   **Altura:** 1,65m
+*   **Porte Físico:** Jovem e saudável.
+*   **Cabelo:** Longo e ondulado.
+*   **Olhos:** Castanhos brilhantes.
+*   **Marcas Distintivas:** Uma cicatriz pequena no joelho.
+*   **Vestuário:** Uniforme escolar ou roupas casuais.
+*   **Bens e Equipamento:**
+    *   **Item:** Diário pessoal.
+*   **Gostos Pessoais:**
+    *   **Sonho:** Ser escritora.
+*   **Perfil Psicológico:** Sonhadora e inocente.
+*   **Função:** Irmã caçula de Gabo.
+*   **Histórico:** Desapareceu junto com a mãe. Gabo ainda as procura.
 
 ---
 
