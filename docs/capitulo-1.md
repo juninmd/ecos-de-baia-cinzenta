@@ -2,11 +2,11 @@
 
 A chuva em Baía Cinzenta não lavava nada; ela apenas empurrava a sujeira de um lado para o outro.
 
-Gabriel "Gabo" Moretti sentiu a água fria escorrer pelo pescoço, infiltrando-se sob a gola do sobretudo que já cheirava a mofo e orégano velho. Ele estava parado na entrada da Vila da Ferrugem, onde o asfalto da cidade alta cedia lugar a passarelas de metal corroído e lama tóxica. O brilho dos neons publicitários — *COMPRE FELICIDADE, COMPRE AETERNA* — refletia nas poças como óleo derramado.
+Gabriel "Gabo" Moretti sentiu a água fria escorrer pelo pescoço, infiltrando-se sob a gola do sobretudo que já cheirava a mofo e café frio. Ele estava parado na entrada da Vila da Ferrugem, onde o asfalto da cidade alta cedia lugar a passarelas de metal corroído e lama tóxica. O brilho dos neons publicitários — *COMPRE FELICIDADE, COMPRE AETERNA* — refletia nas poças como óleo derramado.
 
 Antes de sair do carro, Gabo abriu o porta-malas do Cobalt azul metálico. O compartimento falso estava lá, intacto. Ele passou a mão sobre o metal frio dos canos.
 — Durmam bem, meninas — sussurrou.
-Lá estavam elas: *Mara*, a bazuca modificada para situações onde a sutileza era um luxo, e *Vilha*, sua escopeta calibre 12 "Maravilha" de cano serrado. Ele esperava não precisar usá-las hoje. A "solução final" ficaria guardada. Ele fechou o porta-malas e pegou apenas a caixa de pizza fria do banco do passageiro, engolindo uma fatia de pepperoni amanhecido enquanto mastigava a ansiedade. Pizza era combustível. A única coisa pura nesta cidade maldita.
+Lá estavam elas: *Mara*, a bazuca modificada para situações onde a sutileza era um luxo, e *Vilha*, sua escopeta calibre 12 "Maravilha" de cano serrado. Ele esperava não precisar usá-las hoje. A "solução final" ficaria guardada. Ele fechou o porta-malas e pegou sua garrafa térmica amassada do banco do passageiro, engolindo o último gole de um café preto e amargo que queimou sua garganta. Cafeína era combustível. A única coisa pura nesta cidade maldita.
 
 Ele se alongou, estalando o pescoço e os ombros com movimentos precisos, resquícios de seu treino diário de Hapkido. A faixa preta não estava na cintura, mas a disciplina estava nos músculos, pronta para explodir se necessário.
 
@@ -16,7 +16,7 @@ Ele se alongou, estalando o pescoço e os ombros com movimentos precisos, resqu�
 
 O oficial apontou para um beco. A fita amarela parecia uma piada ali.
 
-Gabriel avançou, limpando as migalhas da barba. O corpo estava sentado, encostado em uma parede de zinco. Jovem, cabelo azul desbotado, sem marcas visíveis de violência.
+Gabriel avançou, limpando a boca com as costas da mão. O corpo estava sentado, encostado em uma parede de zinco. Jovem, cabelo azul desbotado, sem marcas visíveis de violência.
 
 — Causa da morte? — Gabriel perguntou.
 

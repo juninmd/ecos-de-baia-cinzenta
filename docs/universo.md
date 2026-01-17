@@ -52,7 +52,6 @@ Gabo era um prodígio na Academia de Polícia, filho de um lendário comissário
 ### Antagonistas
 *   **Dra. Elara Vance (Aeterna):** A face pública do progresso. Fria, calculista, acredita que a humanidade precisa ser "otimizada" e que a violência dos pobres é apenas "seleção natural assistida".
 *   **Kael "O Cirurgião":** O braço armado de Elara. Um assassino silencioso com implantes médicos usados para tortura e execução.
-*   **Roberto Miranda:** Ex-parceiro de Gabo, expulso da força. Viciado em jogos e instável, ele traiu Gabo em uma operação passada e agora opera como um elemento imprevisível e corrupto no submundo.
 
 ---
 
