@@ -2,17 +2,17 @@
 
 A Represa Hidrelétrica de Baía Cinzenta era uma cicatriz de concreto na garganta do mundo. Abandonada após o Colapso Energético, ela agora servia apenas como um monumento colossal ao fracasso humano. As turbinas paradas eram túmulos de silêncio, e a água represada, negra e tóxica, pressionava as paredes da barragem como um monstro tentando escapar.
 
-O *Cobalt* não conseguia passar pelo terreno acidentado da estrada de acesso. Eles tiveram que seguir a pé, guiados por Vargas e pela luz trêmula das lanternas.
+O *Cobalt* não conseguia passar pelo terreno acidentado da estrada de acesso. Eles tiveram que seguir a pé, guiados por Miranda e pela luz trêmula das lanternas.
 
 — A Zona Morta — murmurou Maya, verificando seu contador Geiger pessoal. — A radiação aqui é baixa, mas constante. Não deveríamos ficar muito tempo.
 
 — Não vamos ficar — disse Gabriel, sua mão firme na arma. — Entramos, encontramos o que quer que seja, e saímos.
 
-Vargas liderava o caminho, sua perna mecânica zumbindo a cada passo.
+Miranda liderava o caminho, sua perna mecânica zumbindo a cada passo.
 
 — Aeterna comprou este lugar em segredo — explicou o velho sargento. — Disseram que era para "descontaminação". Mentira. Eles precisavam de energia. Muita energia. E isolamento.
 
-Eles chegaram a uma entrada de serviço lateral, escondida por vegetação mutante. Vargas usou seu braço mecânico para forçar a porta enferrujada. O metal gemeu e cedeu.
+Eles chegaram a uma entrada de serviço lateral, escondida por vegetação mutante. Miranda usou seu braço mecânico para forçar a porta enferrujada. O metal gemeu e cedeu.
 
 O ar lá dentro era frio e seco, um contraste chocante com a umidade externa. Luzes de emergência vermelhas pulsavam no teto, dando ao corredor interminável um aspecto de veia pulsante.
 
@@ -38,7 +38,7 @@ Não era seu pai. Era algo pior.
 
 Eram dezenas de corpos. Fundidos. Conectados em uma rede neural biológica grotesca.
 
-— O Projeto Ecos — disse Vargas, sua voz desprovida da bravata anterior. — Eles não digitalizaram a consciência, Gabo. Eles a *colheram*.
+— O Projeto Ecos — disse Miranda, sua voz desprovida da bravata anterior. — Eles não digitalizaram a consciência, Gabo. Eles a *colheram*.
 
 Gabriel sentiu a bile subir.
 
@@ -46,7 +46,7 @@ Gabriel sentiu a bile subir.
 
 — Processadores, armazenamento, filtros de emoção... — Maya estava lendo os dados em seu tablet, os dedos tremendo. — A droga Lázaro... ela mapeia o cérebro dos viciados. E quando eles morrem, ou "desaparecem"... a Aeterna traz eles para cá. Para expandir a rede.
 
-— E meu pai? — Gabriel girou para Vargas. — Você disse que ele estava aqui.
+— E meu pai? — Gabriel girou para Miranda. — Você disse que ele estava aqui.
 
 — E está — uma nova voz cortou o zumbido das máquinas.
 
@@ -74,9 +74,9 @@ Foi quando Maya gritou.
 
 — Gabo! O drive! Conecte no terminal principal! Agora!
 
-Gabriel não pensou. Ele correu em direção ao console central, ignorando os tiros de plasma que começaram a chover ao seu redor. Vargas rugiu e se lançou contra os soldados, usando seu corpo cibernético como escudo humano para dar cobertura.
+Gabriel não pensou. Ele correu em direção ao console central, ignorando os tiros de plasma que começaram a chover ao seu redor. Miranda rugiu e se lançou contra os soldados, usando seu corpo cibernético como escudo humano para dar cobertura.
 
-— Vá, garoto! — gritou Vargas, antes de ser engolido pelo fogo dos rifles.
+— Vá, garoto! — gritou Miranda, antes de ser engolido pelo fogo dos rifles.
 
 Gabriel deslizou pelo chão de metal, alcançando o terminal. Ele enfiou o drive na porta de entrada.
 

@@ -1,75 +1,106 @@
 # Universo Literário: Ecos de Baía Cinzenta
 
-## 1. Premissa Central
-Um thriller policial noir moderno ambientado em uma metrópole decadente onde a chuva nunca para. A história segue um detetive de 30 anos que, lutando contra o cansaço extremo e o fracasso de sua vida pessoal, descobre que a elite da cidade está financiando um experimento social que mistura tecnologia, drogas sintéticas e controle populacional.
+## 1. Premissa Central e Tom
+"Ecos de Baía Cinzenta" é um thriller policial noir cyberpunk, focado em drama psicológico, corrupção sistêmica e a erosão da realidade pela tecnologia.
+*   **O Tom:** Pesado, chuvoso, opressivo. Uma mistura de *Se7en* com *Blade Runner*. A cidade é um personagem hostil.
+*   **A "Constituição":** Este arquivo define as regras imutáveis do universo.
 
 ---
 
 ## 2. Cenário: Baía Cinzenta (Gray Bay)
 
-**A Cidade:**
-Baía Cinzenta é uma megalópole costeira fictícia localizada no sul, presa geograficamente entre uma serra íngreme e um oceano agitado. A cidade é conhecida pelo seu clima opressivo: chove 300 dias por ano e um nevoeiro perpétuo cobre os distritos mais baixos.
+Uma megalópole gótica e retrofuturista, isolada geograficamente e politicamente. A cidade é um labirinto vertical de desigualdade.
 
-**Geografia e Desigualdade:**
-*   **O Topo (The Highs):** Os arranha-céus que furam o nevoeiro. Onde vive a elite, banhada pelo sol que o resto da cidade não vê.
-*   **O Nível da Rua (The Dregs):** Ruas alagadas, iluminadas apenas por neons de publicidade e faróis de carros. A cidade é infestada de mendigos e pessoas vivendo na miséria.
+### Geografia e Distritos
+A cidade é dividida em "Níveis" (Levels), tanto físicos quanto sociais.
 
-**Contexto Social e Político:**
-*   **Governo e Corrupção:** O governo local é profundamente corrupto, oferecendo programas de auxílio massivos que, na visão de críticos (como Gabo), geram apenas dependência e estagnação, mantendo a população dócil e pobre. A corrupção política frequentemente atrapalha o trabalho policial, impedindo investigações que tocam os poderosos.
+1.  **Distrito de Prata (O Topo):**
+    *   Acima da camada de poluição (O "Smog"). Onde vive a elite corporativa (Aeterna Corp, políticos).
+    *   *Estética:* Vidro limpo, jardins sintéticos, luz solar artificial.
+    *   *Segurança:* Drones privados, IA de vigilância total.
 
-**Fenômeno Social: A Praga da Agressividade ("O Ruído")**
-Uma frequência sub-audível, gerada deliberadamente pela elite, afeta os distritos inferiores.
-*   **Propósito:** Incitar violência entre as classes baixas, fazendo com que "se matem sozinhos", facilitando a limpeza da área para novos empreendimentos imobiliários.
-*   **Sintomas:** Irritabilidade extrema, surtos de fúria repentina e insônia. Apenas os ricos (que vivem acima da frequência) e os muito medicados estão imunes.
-*   **Vício Tecnológico:** Para fugir da realidade brutal, a população é viciada em implantes neurais, IAs de companhia e entretenimento imersivo.
+2.  **Distrito Central (O Meio):**
+    *   Onde a burocracia acontece. Delegacia Central, Prefeitura, hospitais públicos falidos.
+    *   *Estética:* Brutalismo de concreto, neons piscando com defeito, chuva constante.
 
----
+3.  **Distrito da Névoa (The Lows/Zona Baixa):**
+    *   O nível da rua e subsolos. Sempre escuro, iluminado por hologramas de publicidade agressiva.
+    *   *Vila da Ferrugem:* Favelas construídas com sucata de navios e contêineres.
+    *   *Zona Industrial:* Fábricas abandonadas e laboratórios clandestinos de drogas.
 
-## 3. O Protagonista
+4.  **Cemitério dos Esquecidos (Setor 7):**
+    *   Uma vasta necrópole na periferia, onde os túmulos são empilhados verticalmente devido à falta de espaço.
 
-**Nome:** Detetive Gabriel "Gabo" Moretti
-**Idade:** 30 anos
-**Cargo:** Inspetor da Divisão de Casos Esquecidos (Cold Cases).
-
-**Background:**
-Gabo era um prodígio na Academia de Polícia, filho de um lendário comissário. Sua principal motivação para entrar na força foi investigar o assassinato de seu pai, um crime nunca resolvido que assombra o departamento.
-
-**Drama Pessoal & Psicologia:**
-*   **Lívia (A Ex-Esposa):** Lívia saiu de casa. Não houve sequestro ou mistério, apenas a erosão lenta causada pelo trabalho obsessivo de Gabo. Ele ainda não assinou os papéis do divórcio, mantendo uma esperança fútil.
-*   **Vícios:** Gabo é movido a cafeína e teimosia. Sua tremedeira nas mãos é puramente química, resultado de litros de café barato. Ele não dorme porque não quer parar de trabalhar.
-*   **Família Desestruturada:** Além da sombra do pai falecido, Gabo lida com seu irmão mais velho, **Marco Moretti**, um político em ascensão. Marco usa a imagem de "herói" do pai para ganhar votos, o que causa atritos constantes com Gabo, que sabe que o pai odiaria a política suja de Baía Cinzenta.
-*   **Solidão:** Frequenta a **Dra. Nise** apenas para ter com quem conversar fora do círculo policial. Ele se considera são em um mundo louco, mas sua falta de conexões humanas diz o contrário.
+### O Clima
+*   **Chuva Ácida:** Chove 300 dias por ano. A chuva corrói metal barato e mancha a pele.
+*   **O "Smog":** Uma neblina tóxica amarelada que cobre os distritos baixos ao amanhecer.
 
 ---
 
-## 4. Personagens Secundários e Antagonistas
+## 3. Estrutura de Poder e Facções
 
-### Aliados
-*   **Maya "Glitch" Sato:** Hacktivista e consultora forense. Sua tecnologia auditiva filtra "O Ruído", tornando-a imune à agressividade ambiente, mas desconectada da humanidade.
-*   **Capitão Jonas Vilar:** Chefe do departamento e antigo amigo do pai de Gabo. Ele representa o dilema moral da cidade, protegendo Gabo politicamente enquanto (possivelmente) encobre segredos para manter a "paz".
-*   **Dra. Nise:** Psicóloga cega que atende nos fundos de uma relojoaria. Uma ouvinte paciente em um mundo que só sabe gritar.
+### Departamento de Polícia de Baía Cinzenta (DPBC)
+Uma instituição à beira do colapso, sufocada por falta de verbas e corrupção endêmica.
+*   **A Divisão de Casos Esquecidos (Cold Cases):** O "purgatório" onde Gabo trabalha.
+*   **O Boicote:** Uma conspiração política para desacreditar a polícia pública e justificar a privatização total da segurança pela Aeterna Corp.
+*   **Corrupção:** 70% dos policiais estão na folha de pagamento do Sindicato ou da Aeterna.
 
-### Antagonistas
-*   **Dra. Elara Vance (Aeterna):** A face pública do progresso. Fria, calculista, acredita que a humanidade precisa ser "otimizada" e que a violência dos pobres é apenas "seleção natural assistida".
-*   **Kael "O Cirurgião":** O braço armado de Elara. Um assassino silencioso com implantes médicos usados para tortura e execução.
+### Aeterna Corp
+A megacorporação que controla a energia, a saúde e a rede digital da cidade.
+*   **Lema:** "A Evolução é o nosso Negócio."
+*   **Dra. Elara Vance:** A CEO visionária e sociopata.
 
----
-
-## 5. Mistérios e Conspirações
-
-**O Projeto Ecos:**
-A tentativa de digitalizar a consciência humana para criar uma força de trabalho imortal e sem necessidades físicas.
-*   **O Erro:** O processo de transferência cria "fantasmas" na rede elétrica da cidade — memórias fragmentadas que assombram os sistemas digitais, causando glitches e alucinações em massa.
-
-**A Droga Lázaro:**
-Uma injeção ocular que cria uma lente de realidade virtual biológica. Permite que o usuário reviva seus melhores momentos em um loop perfeito ("O Paraíso").
-*   **O Preço:** A droga utiliza o cérebro da pessoa como um nó de processamento para minerar dados e treinar IAs corporativas enquanto ela está "viajando". É uma combinação perversa de química, hardware e inteligência artificial.
-
-**O Incidente Incitante:**
-O corpo de um jovem ativista é encontrado na "Vila da Ferrugem". Ele não tem marcas de violência, mas seus olhos foram removidos cirurgicamente e substituídos por lentes de câmeras antigas. No bolso dele, uma foto de Gabriel quando criança, ao lado de seu pai.
+### O Submundo (O Sindicato)
+Uma confederação de gangues e traficantes que controla o fluxo de drogas e peças ilegais.
+*   **Líder:** Desconhecido (chamado apenas de "O Arquiteto").
 
 ---
 
-## 6. Arco Narrativo
+## 4. Elementos Sobrenaturais / Sci-Fi
 
-A jornada de Gabo começa como uma investigação de homicídio comum e escala para uma luta pela alma da cidade. Ele precisa aceitar o fim de seu casamento e encontrar um novo propósito antes que Kael ou a exaustão o matem.
+### A Droga Lázaro ("O Paraíso Líquido")
+*   **Efeito:** Uma injeção ocular que transporta a mente do usuário para uma simulação perfeita de seus desejos mais profundos.
+*   **Custo:** O corpo catatônico é usado como processador biológico para minerar criptomoedas e treinar IAs.
+*   **Overdose:** Ocorre a "Ruptura". A mente fica presa no servidor, e o corpo morre ou vira um "Vazio" (zumbi sem mente).
+
+### "O Ruído"
+Uma frequência subliminar transmitida pelas antenas da cidade. Aumenta a agressividade, paranoia e taxas de suicídio nos distritos pobres.
+
+---
+
+## 5. Galeria de Vilões e Ameaças
+
+Além da corrupção corporativa, Baía Cinzenta é lar de predadores únicos.
+
+### Kael "O Cirurgião"
+*   **Perfil:** Mercenário de elite da Aeterna.
+*   **Modus Operandi:** Usa implantes médicos modificados para tortura. Ele não fala, apenas executa.
+
+### O Taxidermista (Serial Killer)
+*   **Identidade:** Desconhecida.
+*   **Obsessão:** Acredita que a carne humana é "imperfeita" e a cibernética é "feia". Ele tenta criar a "fusão perfeita".
+*   **Assinatura:** Suas vítimas são encontradas em poses teatrais, com órgãos substituídos por mecanismos de relógios antigos e caixas de música. Ele costura as pálpebras abertas.
+
+### Roberto Miranda (O Traidor)
+*   **Perfil:** Ex-parceiro de Gabo. Viciado em jogo e dívidas.
+*   **Status:** Informante do Sindicato. A personificação da decadência moral da polícia.
+
+---
+
+## 6. O Protagonista: Gabriel "Gabo" Moretti
+
+*   **Arquétipo:** O Cavaleiro Solitário em um mundo sem honra.
+*   **Motivação:** A morte não resolvida do pai (Dante Moretti) e a proteção dos "Invisíveis" (as vítimas que a cidade ignora).
+*   **Equipamento:**
+    *   Carro: Cobalt Azul (blindado artesanalmente).
+    *   Armas: Pistola Glock (serviço), "Mara" (Bazuca no porta-malas), "Vilha" (Escopeta).
+*   **Psicologia:** Cínico, insone, mas incapaz de virar as costas para um pedido de socorro.
+
+---
+
+## 7. Regras de Narrativa
+
+1.  **Nada é Fácil:** Cada pista custa sangue ou sanidade.
+2.  **Tecnologia é Maldição:** High tech, low life. A tecnologia serve para oprimir, não libertar.
+3.  **Realismo Sujo:** As lutas são feias, os machucados infeccionam, o café é ruim.
+4.  **O Mistério é Prioridade:** A ação deve servir à investigação, não o contrário.

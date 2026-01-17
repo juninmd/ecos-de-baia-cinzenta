@@ -13,7 +13,7 @@ Esta análise resume as alterações e a lógica narrativa aplicada para garanti
     *   **Foto (Cap 1):** A foto encontrada no corpo mostra apenas Gabo e seu pai, Dante. A Menina *não* aparece na foto, mantendo sua origem envolta em mistério para ser revelada posteriormente.
 3.  **Lívia e a Investigação:**
     *   Reescrita do Cap 21 para revelar que sua motivação para o divórcio/afastamento era, na verdade, uma missão suicida para investigar a morte de Dante e libertar Gabo do trauma. O sequestro agora tem duplo motivo: silenciá-la e capturar as provas que ela reuniu, que são reveladas ao leitor apenas após o ataque.
-4.  **O Traidor (Vargas):**
+4.  **O Traidor (Miranda):**
     *   Introduzido no flashback (Cap 17) como o parceiro corrupto que semeia a dúvida e representa o sistema podre, culminando na traição mencionada no lore.
 5.  **Valéria "Val" Cruz:**
     *   Perfil atualizado para enfatizar inteligência e interesse romântico. (Refletido em `personagens.md` e sutilmente na dinâmica geral).
@@ -21,7 +21,7 @@ Esta análise resume as alterações e a lógica narrativa aplicada para garanti
 ## Linha do Tempo Revisada
 
 *   **15 Anos Atrás:** Morte do Comissário Dante Moretti. A foto de Gabo com seu pai remete a uma época anterior a isso.
-*   **6 Meses Atrás (Flashback - Cap 17):** Gabo e Vargas trabalham juntos. O carro quebra. Indícios da corrupção de Vargas e do "Boicote" político contra a polícia.
+*   **6 Meses Atrás (Flashback - Cap 17):** Gabo e Miranda trabalham juntos. O carro quebra. Indícios da corrupção de Miranda e do "Boicote" político contra a polícia.
 *   **Tempo Presente (Parte I - Cap 1-3):**
     *   Gabo encontra o corpo com olhos de câmera.
     *   Encontra a foto de si mesmo com o pai.
@@ -29,11 +29,11 @@ Esta análise resume as alterações e a lógica narrativa aplicada para garanti
     *   Valéria entra como parceira para modernizar a investigação.
 *   **Parte II a IV (O Desenrolar):** A investigação aprofunda. Gabo usa suas habilidades e lida com a tensão com Val.
 *   **Parte V (O Clímax Pessoal - Cap 21):**
-    *   Lívia retorna com o "Divórcio" que na verdade é a entrega das provas contra a conspiração/Vargas.
+    *   Lívia retorna com o "Divórcio" que na verdade é a entrega das provas contra a conspiração/Miranda.
     *   O ataque dos mercenários. Lívia é levada. Gabo é deixado vivo mas quebrado, motivando a fúria que virá a seguir.
 
 ## Próximos Passos Sugeridos (Para o Usuário)
 
 *   Explorar a reação de Gabo após o Cap 21: A caçada para resgatar Lívia usando o arsenal pesado ("Mara" e "Vilha") que será finalmente revelado.
 *   Revelar a origem exata da Menina (Projeto Lázaro/Aeterna).
-*   O confronto final com Vargas.
+*   O confronto final com Miranda.

@@ -1,97 +1,112 @@
-# Capítulo 3: O Fantasma da Máquina
+# Capítulo 3: Teatro de Carne
 
-A boneca de pano, encharcada pela chuva ácida, parecia pesar uma tonelada nas mãos de Gabriel. Ele a virou, examinando o olho de botão remanescente. Não havia tecnologia ali, nem chips, nem câmeras. Apenas tecido barato, enchimento sintético e um cheiro vago de lavanda que destoava violentamente do fedor de ozônio e lixo da Zona Baixa.
+A fita amarela da polícia dançava violentamente ao vento, um aviso frágil contra a tempestade que açoitava o Distrito Industrial. Gabriel Moretti passou por baixo dela, suas botas afundando na lama oleosa misturada com sangue.
 
-"Ele disse que a chuva traria você."
+— Chegou cedo, Moretti. Ou tarde, dependendo da perspectiva.
 
-A frase da menina ecoava em sua mente, competindo com o trovão. Gabriel guardou a boneca no bolso do sobretudo, ao lado do frasco de pílulas. O peso em seu peito não era apenas da umidade; era a velha familiaridade do medo.
+O oficial de patrulha, um novato pálido que vomitava atrás de uma caçamba de lixo, nem olhou para cima. Gabriel o ignorou e caminhou até o centro do galpão abandonado onde as luzes azuis e vermelhas das viaturas pintavam sombras grotescas nas paredes enferrujadas.
 
-Ele voltou para o *Cobalt*. O carro parecia um casulo de calor e luz fraca em meio ao dilúvio. Gabriel jogou o corpo no banco do motorista e bateu a porta, isolando o som da tempestade. Suas mãos tremiam — abstinência de cafeína ou choque? Talvez ambos. Ele engoliu mais um comprimido, mastigando-o dessa vez para que o efeito fosse mais rápido. O gosto amargo explodiu em sua boca, trazendo um foco nítido, quase doloroso.
+Lá estava ele. O corpo.
 
-— Computador de bordo — ele rosnou. — Rota para o Laboratório Forense Central. Prioridade um.
+Não era apenas um cadáver; era uma instalação artística macabra. O menino, não mais que dezesseis anos, estava suspenso por cabos de aço presos às vigas do teto. Seus braços estavam abertos em uma imitação profana de um anjo ou de uma marionete.
 
-— *Rota calculada. Tempo estimado: trinta e cinco minutos. Alerta de tráfego intenso nos setores industriais.*
+Mas foram os olhos que fizeram Gabriel parar.
 
-Gabriel ignorou o alerta e pisou fundo. O veículo respondeu com um gemido metálico, os pneus cantando enquanto ele cortava o trânsito parado, subindo a rampa de acesso para a Via Expressa Suspensa.
+Eles não existiam. No lugar das órbitas, lentes de câmeras antigas, daquelas com obturador mecânico, haviam sido cirurgicamente implantadas. Elas zumbiam baixinho, focando e desfocando ritmicamente.
+
+— *Click. Click. Click.*
+
+— O legista diz que ele ainda estava vivo quando fizeram a troca — disse uma voz atrás de Gabriel.
+
+Era o Capitão Vilar. Ele parecia mais velho sob a luz crua dos refletores.
+
+— Quem chamou a Divisão de Casos Esquecidos, Jonas? Isso é um homicídio fresco.
+
+— O M.O. — Vilar apontou para o peito da vítima. — Olha a incisão.
+
+Gabriel se aproximou. O peito do garoto havia sido aberto e costurado novamente com fio de ouro industrial. Mas o que chamava a atenção era o objeto costurado *sobre* o coração: uma boneca de pano, encharcada e suja, segurando uma foto plastificada.
+
+— O Taxidermista? — perguntou Gabriel, sentindo o gosto amargo da bile.
+
+— Ou um imitador muito talentoso. De qualquer forma, a boneca... ela tem o seu nome bordado na etiqueta, Gabo.
+
+Gabriel sentiu o mundo girar. Ele arrancou uma luva de látex do bolso e a vestiu, puxando a boneca com cuidado. O tecido barato cheirava a lavanda e formol. Ele virou a foto que a boneca segurava.
+
+Era uma imagem em preto e branco. Um homem alto, fardado, segurando a mão de um menino de cinco anos.
+Dante Moretti. E Gabriel.
+
+— Essa foto sumiu dos arquivos da minha casa há vinte anos — sussurrou Gabriel.
+
+— Tem mais — disse Vilar, a voz tensa. — As lentes nos olhos dele. A Técnica diz que elas estão transmitindo.
+
+— Para onde?
+
+— Não sabemos. Mas estão transmitindo *o que você vê*. Agora.
+
+Gabriel olhou diretamente para as lentes nas órbitas do cadáver. O obturador clicou. Alguém, em algum lugar, estava assistindo.
+
+— Corte os cabos — ordenou Gabriel, virando-se. — Eu vou levar a boneca e a cabeça.
+
+— Você não pode levar a cabeça, Moretti! Isso é uma cena de crime!
+
+— O corpo fica. A cabeça vem comigo. Preciso que a Maya analise aquelas lentes antes que a bateria acabe. Se isso é uma mensagem, Jonas, eu quero saber quem está do outro lado da linha.
 
 ***
 
-O Laboratório Forense ficava no subsolo do Distrito Policial, um bunker de concreto e aço projetado para resistir a bombardeios, mas que cheirava a antisséptico e café requentado.
+O laboratório de Maya "Glitch" Sato era um santuário de silêncio no subsolo da delegacia, isolado acusticamente do caos lá fora.
 
-Maya "Glitch" Sato estava onde sempre estava: cercada por monitores holográficos flutuantes, seus dedos dançando sobre um teclado tátil com uma velocidade que faria um androide sentir inveja. A luz azul dos monitores refletia em seu cabelo neon e nos óculos AR.
+Gabriel colocou a cabeça decepada (agora dentro de um recipiente de contenção biológica) e a boneca sobre a mesa de metal.
 
-— Você está molhando meu piso, Gabo — disse ela sem se virar. — E traz uma aura de estática que está interferindo nos meus sensores. O que você quebrou dessa vez?
+— Você me traz flores, chocolates? Não. Você me traz pesadelos biomecânicos — reclamou Maya, ajustando seus óculos de realidade aumentada. Ela não parecia chocada; em Baía Cinzenta, o choque era um luxo que ninguém podia pagar.
 
-Gabriel encostou-se no batente da porta, deixando uma poça d'água se formar ao redor de suas botas.
+— Analise as lentes, Maya. Rastreie o sinal.
 
-— Encontrei um fantasma, Maya. E preciso que você o dissecque.
+Enquanto Maya trabalhava, conectando cabos finos como cabelo nas portas de dados das câmeras oculares, Gabriel pegou a foto novamente.
 
-Maya girou a cadeira. O zumbido de suas próteses auditivas aumentou ligeiramente. Ela baixou os óculos para a ponta do nariz, revelando olhos escuros e curiosos.
+— Analise isso também.
 
-— O garoto das lentes? O corpo acabou de chegar. O legista está tendo um ataque. Diz que nunca viu uma integração neural tão... invasiva.
+Maya projetou a imagem no ar.
 
-— Esqueça o corpo por um minuto. — Gabriel tirou a foto encharcada do bolso, agora protegida por um saco plástico, e a boneca. Colocou ambos na mesa de metal escovado.
+— Papel real. Emulsão de prata. Mas olhe aqui... — Ela ampliou o pulso do pai de Gabriel. — O relógio dele.
 
-Maya pegou a boneca com uma pinça, torcendo o nariz, mas foi a foto que prendeu sua atenção. Ela a pegou, analisando-a sob a luz de um scanner.
+Gabriel apertou os olhos.
 
-— Papel fotográfico de emulsão de prata. Século XX ou início do XXI. A datação do carbono no papel sugere que foi impresso recentemente, mas a imagem... a granulação é autêntica de uma câmera antiga.
+— O que tem?
 
-— O menino sou eu — disse Gabriel, a voz falhando por um instante. — E o homem atrás... é meu pai.
+— A data no mostrador. 14 de Outubro. O dia em que ele morreu. Mas a hora... 18:30. A explosão da fábrica foi às 14:00.
 
-Maya ficou em silêncio. Ela sabia da história. Todo mundo na delegacia sabia, embora ninguém tivesse coragem de falar sobre isso na frente de Gabriel. O Detetive Dante Moretti, herói da força, morto em uma explosão "acidental" em uma fábrica da Aeterna Corp há quinze anos. Caso encerrado, arquivo selado.
+O silêncio no laboratório ficou pesado.
 
-— Gabo... — ela começou, o tom de sarcasmo desaparecendo.
+— Ele estava vivo — disse Gabriel, a voz falhando. — Quatro horas depois de ser declarado morto.
 
-— Analise a imagem, Maya. Não o papel, a imagem. Quero saber se é real ou uma deepfake de alta qualidade. E quero que você verifique as lentes nos olhos do garoto morto. Ele estava transmitindo. Para onde?
+— Gabo, tem algo errado com o sinal das lentes — a voz de Maya subiu uma oitava. — Não é apenas uma transmissão de vídeo. É um handshake. Uma troca de dados de duas vias.
 
-Maya assentiu, vestindo sua máscara profissional novamente. Ela colocou os óculos e seus dedos voltaram a voar.
+— O que isso significa?
 
-— A transmissão... — ela murmurou enquanto gráficos de onda apareciam no ar. — O sinal era de banda larga, criptografia militar. Cessou assim que o coração dele parou, mas consegui pegar o rastro do handshake final. O destino não é um servidor, Gabo.
+— Significa que quem quer que esteja assistindo... acabou de ganhar acesso à nossa rede local através da conexão que eu fiz.
 
-— O que é então?
+As luzes do laboratório piscaram e ficaram vermelhas. As telas holográficas foram tomadas por estática, e então, por um símbolo: uma ampulheta quebrada.
 
-— É um endereço físico. Um nó de retransmissão antigo na Zona Morta, perto das ruínas da velha represa.
+— *Eles estão aqui* — gritou Maya, seus dedos voando sobre o teclado físico para cortar a conexão. — Estão tentando apagar os arquivos do Caso Lázaro!
 
-Gabriel sentiu um frio na espinha. A Zona Morta era terra de ninguém, uma área isolada pela radiação residual das Guerras Corporativas.
+— De onde vem o ataque? — Gabriel sacou sua arma, apontando inutilmente para o servidor central.
 
-— E a foto? — ele pressionou.
+— Rastreando... Proxy na Zona Sul... desviado para um satélite morto... — Maya suava frio. — Peguei! A fonte do sinal.
 
-Maya ampliou a imagem holográfica da foto. Ela isolou o rosto do homem ao fundo. Pixels dançaram e se reconfiguraram até formar uma imagem nítida.
+Ela projetou um mapa da cidade. Um ponto vermelho pulsava no distrito mais alto, acima das nuvens.
 
-— Não é deepfake — confirmou Maya. — A luz, as sombras, a refração... é tudo consistente. Mas tem algo estranho.
+— A Torre Aeterna — disse Gabriel. — É claro.
 
-Ela apontou para o relógio de pulso do pai de Gabriel na foto.
+Maya conseguiu puxar o cabo, cortando a conexão. O laboratório mergulhou na escuridão, iluminado apenas pelas luzes de emergência.
 
-— Amplie aqui.
+— Eles sabem que sabemos, Gabo.
 
-A imagem explodiu em detalhes. O mostrador do relógio estava visível.
+Gabriel guardou a foto no bolso interno do sobretudo, perto do coração.
 
-— 14 de Outubro — leu Maya. — A data da morte dele.
+— Ótimo. Eu odeio surpresas.
 
-Gabriel se aproximou, o coração martelando contra as costuras.
+Ele se virou para a porta, o rosto uma máscara de fúria fria.
 
-— Mas olhe a hora — continuou Maya. — 18:30.
+— Onde você vai?
 
-— E daí?
-
-— O relatório oficial diz que a explosão ocorreu às 14:00. Se essa foto é real, e foi tirada às 18:30...
-
-— ...então meu pai estava vivo quatro horas depois de ter morrido — completou Gabriel.
-
-Um bipe estridente cortou o ar. Maya olhou para um dos monitores laterais.
-
-— Gabo, o firewall do necrotério acabou de ser violado. Alguém está tentando apagar os dados da autópsia do garoto das lentes. Remotamente.
-
-Gabriel sacou sua arma, embora soubesse que não podia atirar em um hacker através de uma tela.
-
-— Rastreie!
-
-— Estou tentando! É rápido, muito rápido. Está vindo de... — Maya parou, sua boca se abrindo levemente. — Está vindo de dentro do prédio da Aeterna.
-
-Gabriel sentiu a adrenalina limpar o cansaço. Ele guardou a boneca e a foto.
-
-— Mantenha os dados seguros, Maya. Isole o sistema. Eu vou fazer uma visita.
-
-— Gabo, espere! A Aeterna é intocável. O Capitão Vilar vai arrancar seu distintivo se você...
-
-— Ele pode tentar — Gabriel já estava na porta, o sobretudo esvoaçando como uma capa suja. — Mas fantasmas não precisam de distintivos.
+— Vou fazer uma visita à realeza. E Maya? Se aquele corpo no necrotério começar a se mexer... queime-o.
