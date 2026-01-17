@@ -11,7 +11,7 @@ hero:
       link: /capitulo-1
     - theme: alt
       text: Sobre o Universo
-      link: /
+      link: /lore-do-livro
 features:
   - title: Noir Moderno
     details: Uma metrópole decadente, chuva constante e mistérios que se escondem nas sombras dos neons.
