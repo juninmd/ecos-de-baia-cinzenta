@@ -6,7 +6,7 @@ A boneca de pano, encharcada pela chuva ácida, parecia pesar uma tonelada nas m
 
 A frase da menina ecoava em sua mente, competindo com o trovão. Gabriel guardou a boneca no bolso do sobretudo, ao lado do frasco de pílulas. O peso em seu peito não era apenas da umidade; era a velha familiaridade do medo.
 
-Ele voltou para o *Interceptor*. O carro parecia um casulo de calor e luz fraca em meio ao dilúvio. Gabriel jogou o corpo no banco do motorista e bateu a porta, isolando o som da tempestade. Suas mãos tremiam — abstinência de cafeína ou choque? Talvez ambos. Ele engoliu mais um comprimido, mastigando-o dessa vez para que o efeito fosse mais rápido. O gosto amargo explodiu em sua boca, trazendo um foco nítido, quase doloroso.
+Ele voltou para o *Cobalt*. O carro parecia um casulo de calor e luz fraca em meio ao dilúvio. Gabriel jogou o corpo no banco do motorista e bateu a porta, isolando o som da tempestade. Suas mãos tremiam — abstinência de cafeína ou choque? Talvez ambos. Ele engoliu mais um comprimido, mastigando-o dessa vez para que o efeito fosse mais rápido. O gosto amargo explodiu em sua boca, trazendo um foco nítido, quase doloroso.
 
 — Computador de bordo — ele rosnou. — Rota para o Laboratório Forense Central. Prioridade um.
 

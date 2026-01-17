@@ -2,7 +2,7 @@
 
 A Represa Hidrelétrica de Baía Cinzenta era uma cicatriz de concreto na garganta do mundo. Abandonada após o Colapso Energético, ela agora servia apenas como um monumento colossal ao fracasso humano. As turbinas paradas eram túmulos de silêncio, e a água represada, negra e tóxica, pressionava as paredes da barragem como um monstro tentando escapar.
 
-O *Interceptor* não conseguia passar pelo terreno acidentado da estrada de acesso. Eles tiveram que seguir a pé, guiados por Vargas e pela luz trêmula das lanternas.
+O *Cobalt* não conseguia passar pelo terreno acidentado da estrada de acesso. Eles tiveram que seguir a pé, guiados por Vargas e pela luz trêmula das lanternas.
 
 — A Zona Morta — murmurou Maya, verificando seu contador Geiger pessoal. — A radiação aqui é baixa, mas constante. Não deveríamos ficar muito tempo.
 

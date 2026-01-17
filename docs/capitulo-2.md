@@ -2,7 +2,7 @@
 
 A chuva, que antes era uma presença constante e melancólica, transformou-se em uma besta furiosa. O céu de Baía Cinzenta parecia ter desabado, despejando torrentes de água ácida que faziam as calhas dos prédios vomitarem lodo preto sobre as calçadas.
 
-Gabriel dirigia seu velho *Interceptor* pelas ruas da Zona Baixa, o limpador de para-brisa lutando uma batalha perdida contra o dilúvio. O motor a hidrogênio engasgava, protestando contra a umidade excessiva. O rádio da viatura cuspia estática misturada com alertas automáticos de enchentes nos níveis inferiores.
+Gabriel dirigia seu velho *Cobalt* pelas ruas da Zona Baixa, o limpador de para-brisa lutando uma batalha perdida contra o dilúvio. O motor a hidrogênio engasgava, protestando contra a umidade excessiva. O rádio do carro cuspia estática misturada com alertas automáticos de enchentes nos níveis inferiores.
 
 — *Atenção, todas as unidades. Deslizamento no Setor 7. Trânsito desviado para a Via Costeira.*
 
