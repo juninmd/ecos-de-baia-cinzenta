@@ -34,12 +34,21 @@
 ![Valéria "Val" Cruz](/val.jpg)
 
 *   **Idade:** 23 anos
+*   **Altura:** 1,60m
+*   **Porte Físico:** Pequena e esguia, mas com uma postura rígida de quem passa horas conectada a interfaces neurais.
+*   **Cabelo:** Curto (*pixie cut*), tingido com tinta holográfica que muda entre rosa neon e azul elétrico dependendo da luz ambiente.
+*   **Olhos:** Modificados ciberneticamente com implantes de realidade aumentada (íris prateadas).
+*   **Marcas Distintivas:** Implantes subcutâneos de LED nas maçãs do rosto que pulsam de acordo com seu humor ou processamento de dados. Tatuagem de código de barras no pescoço.
+*   **Vestuário:** Jaquetas de couro sintético com patches de bandas punk digitais, coturnos de plataforma e calças cargo cheias de gadgets.
+*   **Bens e Equipamento:**
+    *   **Deck:** Um computador de pulso customizado "Phantom V3".
+    *   **Drones:** Controla um enxame de micro-drones de vigilância chamados "Vagalumes".
+*   **Gostos Pessoais:**
+    *   **Comida:** Bebidas energéticas fluorescentes e noodles instantâneos.
+    *   **Hobby:** Hackear outdoors da cidade para exibir arte anarquista.
+*   **Perfil Psicológico:** Otimista (na medida do possível para o cenário), hiperativa e viciada em informação. É a bússola moral digital de Gabo, tentando mantê-lo conectado ao presente enquanto ele vive no passado.
 *   **Função:** Detetive Júnior / Especialista em Cibercrime.
-*   **Aparência:** Baixa, franzina, cabelo *pixie* holográfico (rosa/azul) e implantes de LED nas maçãs do rosto.
-*   **Intelecto:** Gênia certificada. Seu raciocínio lógico processa padrões mais rápido que os computadores do departamento.
-*   **Relacionamento:** Nutre um interesse romântico mal disfarçado por Gabo. Ela vê através da casca grossa e cínica dele, admirando sua integridade (e, secretamente, achando seu estilo "noir destruído" atraente). Tenta chamar a atenção dele com provocações intelectuais ou "melhorando" o equipamento dele sem permissão.
-*   **Vício:** Redes sociais neurais ("Néctar", "Pulse").
-*   **Perfil:** O oposto de Gabo. Otimista (na medida do possível), hiperconectada e brilhante. Atua como o "anjo digital" de Gabo.
+*   **Histórico:** Uma prodígio que hackeou o sistema da academia de polícia aos 16 anos. Ao invés de ser presa, foi recrutada pelo Capitão Vilar. Nutre uma paixão secreta por Gabo, admirando sua integridade analógica.
 
 ---
 
@@ -47,26 +56,60 @@
 
 ![Roberto Miranda](/roberto.jpg)
 
-*   **Status:** Procurado / Informante do Submundo.
-*   **Histórico:** Ex-parceiro de Gabo. Um homem de 34 anos destruído pelo vício em jogos de azar cibernéticos.
-*   **A Traição:** Vendeu a localização de uma testemunha chave para o Sindicato em troca do perdão de suas dívidas, resultando na quase morte de Gabo e sua própria expulsão da força. Hoje, ele opera nas sombras, vendendo segredos para quem pagar mais. É uma figura patética e perigosa.
+*   **Idade:** 34 anos
+*   **Altura:** 1,78m
+*   **Porte Físico:** Magro de uma forma doentia, com a pele pálida e úmida de quem vive nos esgotos e bares do submundo.
+*   **Cabelo:** Ralo, oleoso, penteado para trás para esconder a calvície incipiente.
+*   **Olhos:** Inquietos, injetados de sangue e com pupilas dilatadas pelo uso constante de estimulantes baratos.
+*   **Marcas Distintivas:** Falta-lhe o braço esquerdo, substituído por uma prótese mecânica de segunda mão que range constantemente. Cicatriz de queimadura no pescoço.
+*   **Vestuário:** Ternos baratos que um dia foram elegantes, agora manchados e puídos.
+*   **Bens e Equipamento:**
+    *   **Arma:** Um revólver calibre .38 enferrujado com a numeração raspada.
+    *   **Gadgets:** Vários chips de dados roubados costurados no forro do casaco.
+*   **Gostos Pessoais:**
+    *   **Vício:** Jogos de azar em cassinos virtuais ilegais e apostas em rinhas de androides.
+*   **Perfil Psicológico:** Covarde, manipulador e desesperado. Miranda é movido puramente pela autopreservação e pela ganância imediata. Ele não tem lealdade, apenas dívidas.
+*   **Função:** Informante do Submundo (Ex-Policial).
+*   **Histórico:** Ex-parceiro de Gabo. Vendeu sua unidade para o Sindicato para pagar dívidas de jogo, causando a emboscada que quase matou Gabo. Expulso da força, hoje vive como um rato nos becos que jurou limpar.
 
 ---
 
 ## O Taxidermista (Alvo Prioritário #1)
 
-*   **Status:** Ativo / Identidade Desconhecida.
-*   **Classificação:** Serial Killer de Nível 5.
-*   **Modus Operandi:** Sequestra cidadãos "invisíveis" (sem registros digitais) e realiza "obras de arte" grotescas, fundindo carne e mecanismos de relojoaria antiga.
-*   **Assinatura:** Deixa caixas de música tocando canções de ninar dentro da cavidade torácica das vítimas.
+*   **Idade:** Desconhecida (Estimada: 40-50 anos)
+*   **Altura:** 1,85m
+*   **Porte Físico:** Desengonçado, com movimentos espasmódicos e teatrais.
+*   **Cabelo:** Careca, com couro cabeludo coberto por cicatrizes de auto-cirurgias.
+*   **Olhos:** Usa óculos de joalheiro com múltiplas lentes de aumento acopladas.
+*   **Marcas Distintivas:** Cheiro constante de formol e óleo de máquina antigo. Dedos longos e calejados, manchados de tinta e sangue seco.
+*   **Vestuário:** Avental de couro pesado de açougueiro sobre roupas vitorianas anacrônicas.
+*   **Bens e Equipamento:**
+    *   **Ferramentas:** Um kit cirúrgico antigo e ferramentas de relojoaria de precisão.
+    *   **Arma:** Bisturis de diamante e serras ósseas.
+*   **Gostos Pessoais:**
+    *   **Obsessão:** A "perfeição" mecânica. Ele despreza a carne ("suja e perecível") e a eletrônica moderna ("fria e sem alma").
+*   **Perfil Psicológico:** Psicopata clássico com delírios artísticos. Vê suas vítimas não como pessoas, mas como "telas" imperfeitas que precisam ser consertadas com mecanismos de relógio.
+*   **Função:** Serial Killer (Nível 5).
+*   **Histórico:** Identidade desconhecida. Suspeita-se que seja um ex-cirurgião ou relojoeiro que enlouqueceu após perder a família em um acidente industrial causado pela Aeterna.
 
 ---
 
 ## Kael "O Cirurgião"
 
-*   **Afiliação:** Aeterna Corp (Segurança Especial).
-*   **Perfil:** Um executor silencioso. Kael removeu as próprias cordas vocais para garantir que nunca revelaria os segredos de seus mestres. Especialista em anatomia e dor.
-*   **Aparência:** Alto, magro, veste couro cirúrgico e máscaras.
+*   **Idade:** Desconhecida
+*   **Altura:** 1,90m
+*   **Porte Físico:** Esguio e artificialmente alongado. Sua estrutura óssea foi reforçada com titânio.
+*   **Cabelo:** Nenhum. Pele sintética branca cobre todo o crânio.
+*   **Olhos:** Sensores óticos vermelhos escondidos atrás de óculos escuros ou visores táticos.
+*   **Marcas Distintivas:** Não possui boca visível (coberta por uma máscara cirúrgica integrada à pele). Removeu as próprias cordas vocais.
+*   **Vestuário:** Trajes táticos de couro cirúrgico preto, feitos sob medida para não fazer barulho.
+*   **Bens e Equipamento:**
+    *   **Implantes:** Mãos modificadas com lâminas retráteis e injetores de neurotoxinas nos dedos.
+*   **Gostos Pessoais:**
+    *   **Silêncio:** Ele odeia ruídos desnecessários.
+*   **Perfil Psicológico:** Um executor sem empatia ou remorso. Kael é uma ferramenta viva, leal apenas a quem detém seus códigos de controle (Dra. Elara Vance).
+*   **Função:** Chefe de Segurança Especial da Aeterna Corp / Assassino.
+*   **Histórico:** Um experimento da divisão militar da Aeterna. Acredita-se que tenha sido um soldado ferido mortalmente e "reconstruído" para ser a arma perfeita.
 
 ---
 
@@ -75,10 +118,20 @@
 ![Lívia Moretti](/livia.jpg)
 
 *   **Idade:** 29 anos
-*   **Profissão:** Jornalista Investigativa.
-*   **Motivação Secreta:** Embora tenha pedido o divórcio, Lívia nunca deixou de amar Gabo. Sua separação foi estratégica: ela percebeu que a obsessão de Gabo pela morte do pai (Dante) o estava destruindo. Ela começou sua própria investigação paralela sobre a morte de Dante para "resolver o caso" e libertar Gabo desse fantasma, permitindo que ele finalmente fosse o marido que ela precisava.
-*   **Perfil:** Corajosa e obstinada. Mantém um quadro de conspiração escondido que faria o de Gabo parecer brincadeira de criança.
-*   **Investigação:** Dedica-se a expor a corrupção da Aeterna Corp.
+*   **Altura:** 1,70m
+*   **Porte Físico:** Elegante e ágil. Pratica defesa pessoal, mas sua força reside na discrição e na inteligência.
+*   **Cabelo:** Castanho claro, geralmente preso em um coque profissional ou rabo de cavalo prático.
+*   **Olhos:** Verdes e penetrantes. O tipo de olhar que faz entrevistados confessarem segredos sem perceber.
+*   **Marcas Distintivas:** Sempre usa um pingente antigo (presente de Dante Moretti) que contém um micro-gravador disfarçado.
+*   **Vestuário:** Blazers funcionais, botas confortáveis para correr se necessário, e sobretudos discretos para se misturar na multidão.
+*   **Bens e Equipamento:**
+    *   **Tecnologia:** Câmeras espiãs de última geração e softwares de criptografia jornalística.
+    *   **Veículo:** Uma moto elétrica silenciosa.
+*   **Gostos Pessoais:**
+    *   **Interesse:** Arquivos antigos em papel e bibliotecas esquecidas.
+*   **Perfil Psicológico:** Obstinada e destemida. Lívia é movida por um senso de justiça tão forte quanto o de Gabo, mas acredita que a "caneta" (ou o upload) é mais forte que a espada.
+*   **Função:** Jornalista Investigativa Sênior.
+*   **Histórico:** Casada com Gabo, mas separada. Afastou-se dele para protegê-lo de si mesmo e para investigar a morte de Dante Moretti sem o peso emocional de Gabo atrapalhando.
 
 ---
 
@@ -86,20 +139,26 @@
 
 ![A Menina do Orelhão](/menina.jpg)
 
-*   **Idade Aparente:** 6 anos (Imutável).
-*   **Origem:** Fugitiva de um laboratório secreto da Aeterna Corp (A "Torre de Marfim"). Filha biológica (ou clone) de um antagonista poderoso do alto escalão da corporação ou governo.
-*   **Características:** Olhos negros e profundos. Carrega uma boneca de pano.
-*   **Histórico Recente:** Encontrada por Gabo em um orelhão na Zona Baixa e deixada sob custódia na delegacia.
-*   **Poder/Maldição:** Resultado de experimentos genéticos com a Droga Lázaro. Ela não envelhece e possui uma conexão neural latente com "A Rede".
-*   **Relação com Gabo:** Ela vê em Gabo um protetor. Gabo sente uma necessidade instintiva e inexplicável de protegê-la.
+*   **Idade:** Desconhecida (Aparenta 6 anos)
+*   **Altura:** 1,10m
+*   **Porte Físico:** Frágil, desnutrida.
+*   **Cabelo:** Preto, longo e embaraçado.
+*   **Olhos:** Totalmente negros (esclera e íris), resultado da exposição direta à Droga Lázaro no útero ou em laboratório.
+*   **Marcas Distintivas:** Código de barras brilhante na nuca. Não fala verbalmente, comunica-se por projeção empática ou manipulação de eletrônicos próximos.
+*   **Vestuário:** Uma camisola hospitalar suja e um casaco grande demais (provavelmente dado por Gabo).
+*   **Bens e Equipamento:**
+    *   **Item:** Uma boneca de pano remendada que parece funcionar como um "foco" para suas habilidades.
+*   **Gostos Pessoais:**
+    *   **Desconhecido:** Parece ter medo da chuva e de luzes muito fortes.
+*   **Perfil Psicológico:** Uma mente fraturada e poderosa. Aria oscila entre o medo infantil e uma sabedoria antiga e terrível conectada à Rede.
+*   **Função:** O "MacGuffin" vivo. A chave para o Projeto Ecos.
+*   **Histórico:** Fugitiva da Torre de Marfim. Encontrada por Gabo em um orelhão na Zona Baixa, esperando por uma ligação que nunca viria. Ela é a prova viva dos crimes da Aeterna.
 
 ---
 
 ## Outros Personagens Relevantes
 
-*   **Marco Moretti:** Irmão de Gabo, político ambicioso e manipulador.
-*   **Helena Moretti:** Mãe de Gabo, doente e presa ao passado.
-*   **Dra. Nise:** Psicóloga cega do departamento, mentora espiritual.
-*   **Maya "Glitch" Sato:** Hacker aliada, amiga de Gabo. (Veja Valéria Cruz - *Nota: Maya Sato parece ser um personagem redundante ou alternativo a Valéria Cruz nos arquivos antigos, mas mantida aqui por referência histórica ou como personagem distinta se a trama assim exigir.*)
-*   **Capitão Jonas Vilar:** O chefe cansado que tenta manter a ordem.
-*   **Comissário Dante Moretti (Falecido):** Pai de Gabo, a origem de tudo.
+*   **Marco Moretti:** Irmão de Gabo. Político carismático, corrupto e ambicioso. Representa tudo o que Gabo despreza.
+*   **Dra. Elara Vance:** CEO da Aeterna. Fria, calculista e visionária. Acredita que a humanidade precisa ser "otimizada".
+*   **Capitão Jonas Vilar:** O último policial honesto (ou quase). Tenta equilibrar a política e a justiça para manter o departamento funcionando.
+*   **Comissário Dante Moretti (Falecido):** A lenda. O pai de Gabo e Marco. Sua morte é a sombra que cobre toda a história.
