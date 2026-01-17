@@ -96,7 +96,7 @@ module.exports = {
           { text: 'Capítulo 42: Fantasmas da Cidade', link: '/capitulo-42' },
           { text: 'Capítulo 43: O Novo Departamento', link: '/capitulo-43' },
           { text: 'Capítulo 44: Ecos', link: '/capitulo-44' },
-          { text: 'Prelúdio: Livro 2', link: '/preludio-livro-2' },
+          { text: 'Capítulo 45: O Despertar', link: '/capitulo-45' },
         ]
       },
       {

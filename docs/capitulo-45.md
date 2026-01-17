@@ -1,4 +1,4 @@
-# Prelúdio: O Despertar
+# Capítulo 45: O Despertar
 
 **Localização:** Desconhecida. Profundezas do Oceano Atlântico.
 **Instalação:** "Arca N.O.A." (Nexo de Operações Avançadas).
@@ -37,7 +37,3 @@ Ele caminhou até o console e digitou um código.
 Lá fora, nas profundezas, enormes portões se abriram. E algo gigantesco começou a subir em direção à superfície.
 
 A verdadeira tempestade estava apenas começando.
-
-***
-
-**Ecos de Baía Cinzenta retornará no Livro 2: O Dilúvio de Ferro.**

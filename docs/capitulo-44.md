@@ -39,7 +39,3 @@ Ele engatou a primeira marcha.
 O Cobalt azul acelerou, rasgando a chuva, indo em direção ao desconhecido.
 
 A chuva continuava a cair, lavando os pecados de Baía Cinzenta. Mas os ecos... os ecos nunca morrem.
-
-***
-
-**FIM DO LIVRO UM**
