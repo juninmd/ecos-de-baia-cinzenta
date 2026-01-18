@@ -115,6 +115,7 @@ module.exports = {
         text: 'Arquivos',
         items: [
           { text: 'Dossiê de Personagens', link: '/personagens' },
+          { text: 'Cronologia e Resumo', link: '/cronologia' },
           { text: 'Lore do Livro', link: '/lore-do-livro' },
           { text: 'Sobre o Autor', link: '/sobre-o-autor' }
         ]

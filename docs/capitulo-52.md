@@ -2,7 +2,9 @@
 
 O flutuante do Dourado balançava violentamente, mas não era por causa da maré.
 
-Gabo chutou a porta de metal reforçado. A fechadura cedeu com um gemido de aço torto. Ele entrou com a Glock em punho, os olhos varrendo o salão enfumaçado.
+Gabo firmou a base. Os servos de seu exoesqueleto nas pernas zumbiram baixo, um som agudo que ele já começava a ignorar, apesar da dor fantasma na coluna esmagada semanas antes. Ele concentrou a força hidráulica na perna direita e chutou a porta de metal reforçado.
+
+A fechadura cedeu com um gemido de aço torto, explodindo para dentro. Ele entrou com a Glock em punho, os olhos varrendo o salão enfumaçado.
 
 O lugar estava estranhamente silencioso.
 
