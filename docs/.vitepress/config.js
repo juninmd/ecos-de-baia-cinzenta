@@ -103,6 +103,9 @@ module.exports = {
         text: 'Parte IX: Dilúvio',
         items: [
           { text: 'Capítulo 46: A Maré Montante', link: '/capitulo-46' },
+          { text: 'Capítulo 47: Quebra de Ossos', link: '/capitulo-47' },
+          { text: 'Capítulo 48: Fantasma na Máquina', link: '/capitulo-48' },
+          { text: 'Capítulo 49: A Isca Perfeita', link: '/capitulo-49' },
         ]
       },
       {
