@@ -16,11 +16,20 @@ const initSynth = () => {
     synth.value = window.speechSynthesis
 
     const loadVoices = () => {
-      // Get all voices and filter for pt-BR
+      // Get all voices
       const allVoices = synth.value.getVoices()
-      availableVoices.value = allVoices.filter(v => v.lang === 'pt-BR' || v.lang === 'pt_BR')
 
-      // Heuristic to find a male voice:
+      // Filter for pt-BR
+      const ptVoices = allVoices.filter(v => v.lang === 'pt-BR' || v.lang === 'pt_BR')
+
+      // If we have PT voices, use them. Otherwise, fall back to all voices.
+      if (ptVoices.length > 0) {
+        availableVoices.value = ptVoices
+      } else {
+        availableVoices.value = allVoices
+      }
+
+      // Heuristic to find a male voice within the available voices:
       // - "Microsoft Daniel" is a common male voice on Windows
       // - "Google Português do Brasil" is usually female
       // - Look for names containing "Daniel", "Felipe", "Ricardo" or "Microsoft" (often higher quality)
@@ -30,9 +39,9 @@ const initSynth = () => {
         (v.name.includes('Google') === false) // Prefer non-Google if Google is the only other option (often female)
       )
 
-      // Default logic: Male/Better quality -> First pt-BR -> First available
+      // Default logic: Male/Better quality -> First available
       if (!selectedVoice.value) {
-        selectedVoice.value = maleVoice || availableVoices.value[0] || allVoices[0]
+        selectedVoice.value = maleVoice || availableVoices.value[0]
       }
     }
 
@@ -81,17 +90,26 @@ const play = () => {
   utterance.value = new SpeechSynthesisUtterance(text)
 
   // Ensure we use the user-selected voice
-  // If selectedVoice is a proxy/ref object, getting the raw object is safer, but usually fine in Vue 3
   if (selectedVoice.value) {
     // We need to match the name back to the actual voice object in the synth list
     // because some browsers might invalidate voice objects on reload
     const currentVoices = synth.value.getVoices()
     const voiceObj = currentVoices.find(v => v.name === selectedVoice.value.name)
-    utterance.value.voice = voiceObj || selectedVoice.value
+
+    if (voiceObj) {
+        utterance.value.voice = voiceObj
+        // Use the voice's native language to prevent silence due to mismatch
+        utterance.value.lang = voiceObj.lang
+    } else {
+        // Fallback to the stored value if we can't find it in the current list
+        utterance.value.voice = selectedVoice.value
+        utterance.value.lang = selectedVoice.value.lang || 'pt-BR'
+    }
+  } else {
+    utterance.value.lang = 'pt-BR'
   }
 
   utterance.value.rate = rate.value
-  utterance.value.lang = 'pt-BR'
 
   utterance.value.onend = () => {
     isPlaying.value = false
