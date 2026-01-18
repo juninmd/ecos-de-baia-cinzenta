@@ -1,3 +1,6 @@
+---
+image: /cidade.jpg
+---
 # Capítulo 19: O Código Morto
 
 O silêncio na Zona Morta do Setor 7 era pesado. Tinha massa, textura e um cheiro inconfundível de ferrugem e água estagnada.

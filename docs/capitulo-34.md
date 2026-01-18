@@ -1,3 +1,6 @@
+---
+image: /cidade.jpg
+---
 # Capítulo 34: O Julgamento da Rua
 
 Dirigir pelo Distrito Central sem a Rede de Tráfego era como navegar em um campo minado. Destroços de drones caídos, barricadas improvisadas e crateras de explosões pontuavam a avenida.

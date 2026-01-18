@@ -1,3 +1,6 @@
+---
+image: /cidade.jpg
+---
 # Capítulo 25: Elevador para o Inferno
 
 O contraste era brutal. Eles saíram do esgoto vitoriano diretamente para o futuro estéril de um laboratório de alta tecnologia. O piso branco refletia suas silhuetas sujas e armadas.

@@ -1,3 +1,6 @@
+---
+image: /cidade.jpg
+---
 # Capítulo 27: O Pai, O Filho e a Máquina
 
 A sala de servidores era um inferno de lasers e balas. As torres automatizadas disparavam sem parar. Valéria estava atrás de um console, digitando com uma mão e segurando o ombro sangrando com a outra. Lívia disparava sua pistola contra os sensores das torres, tentando cegá-las.

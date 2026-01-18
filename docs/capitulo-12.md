@@ -1,3 +1,6 @@
+---
+image: /cidade.jpg
+---
 # Capítulo 12: Cancelamento
 
 O esgoto pluvial do Distrito da Névoa era um rio de lixo químico. Gabriel e Valéria caminhavam com água até os joelhos, guiados apenas pela luz fraca do relógio de Valéria.

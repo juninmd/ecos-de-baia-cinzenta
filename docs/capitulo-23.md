@@ -1,3 +1,6 @@
+---
+image: /cidade.jpg
+---
 # Capítulo 23: Ratos e Reis
 
 O "Palácio de Jade" não era um palácio, e a única coisa verde lá dentro era o feltro mofado das mesas de jogo e a luz doente dos neons quebrados. Ficava encravado na Zona Industrial, um tumor de concreto entre fábricas desativadas.

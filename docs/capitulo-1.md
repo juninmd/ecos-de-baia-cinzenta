@@ -1,3 +1,6 @@
+---
+image: /gabo.webp
+---
 # Capítulo 1: Olhos de Vidro
 
 A chuva em Baía Cinzenta não lavava nada; ela apenas empurrava a sujeira de um lado para o outro.

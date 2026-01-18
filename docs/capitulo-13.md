@@ -1,3 +1,6 @@
+---
+image: /cidade.jpg
+---
 # Capítulo 13: Shadowban
 
 O vidro do tanque explodiu. Fluido criogênico e biomassa jorraram, inundando o chão da caverna. O supercomputador orgânico gritou — um som agudo, digital e humano ao mesmo tempo.

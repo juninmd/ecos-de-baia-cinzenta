@@ -1,3 +1,6 @@
+---
+image: /cidade.jpg
+---
 # Capítulo 37: A Última Bala
 
 O som do disparo foi ensurdecedor no escritório pequeno.

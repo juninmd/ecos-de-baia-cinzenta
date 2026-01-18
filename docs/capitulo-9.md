@@ -1,3 +1,6 @@
+---
+image: /cidade.jpg
+---
 # Capítulo 9: Feed Infinito
 
 A Torre Solaris era o tipo de lugar onde o ar era perfumado artificialmente para cheirar a dinheiro. O elevador subiu 200 andares em dez segundos, deixando o estômago de Gabriel no térreo.

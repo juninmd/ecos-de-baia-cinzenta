@@ -1,3 +1,6 @@
+---
+image: /cidade.jpg
+---
 # Capítulo 16: Zona Morta
 
 A escuridão em Baía Cinzenta tinha peso. Sem a poluição luminosa dos neons e hologramas, a cidade parecia um animal morto, frio e rígido.

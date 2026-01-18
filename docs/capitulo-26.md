@@ -1,3 +1,6 @@
+---
+image: /cidade.jpg
+---
 # Capítulo 26: A Sala dos Espelhos
 
 Eles arrombaram a porta do Nível 100. Esperavam guardas, esperavam Kael (se ele tivesse sido reconstruído), esperavam o próprio diabo.

@@ -1,3 +1,6 @@
+---
+image: /cidade.jpg
+---
 # Capítulo 6: O Coração da Tempestade
 
 A Represa Hidrelétrica de Baía Cinzenta era uma cicatriz de concreto na garganta do mundo. Uma massa brutalista construída antes do Colapso, suas paredes de contenção seguravam milhões de toneladas de água negra e tóxica. O lugar cheirava a eletricidade estática e ozônio queimado.

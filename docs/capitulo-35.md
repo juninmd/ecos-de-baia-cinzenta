@@ -1,3 +1,6 @@
+---
+image: /cidade.jpg
+---
 # Capítulo 35: Calibre 12
 
 Eles não andaram mais de dois quilômetros. A explosão tinha atraído atenção.

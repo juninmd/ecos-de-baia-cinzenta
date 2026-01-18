@@ -1,3 +1,6 @@
+---
+image: /cidade.jpg
+---
 # Capítulo 43: O Novo Departamento
 
 Seis meses depois.

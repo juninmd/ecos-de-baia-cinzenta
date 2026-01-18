@@ -1,3 +1,6 @@
+---
+image: /cidade.jpg
+---
 # Capítulo 20: Profanação
 
 O Cemitério dos Esquecidos era uma favela vertical de túmulos. Caixões de concreto empilhados uns sobre os outros, criando arranha-céus de morte.

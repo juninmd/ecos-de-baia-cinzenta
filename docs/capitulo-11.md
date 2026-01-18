@@ -1,3 +1,6 @@
+---
+image: /cidade.jpg
+---
 # Capítulo 11: Filtros de Realidade
 
 A "realidade" em Baía Cinzenta sempre fora uma sugestão, nunca um fato. Mas agora, Gabriel e Valéria estavam descobrindo que ela era editável.

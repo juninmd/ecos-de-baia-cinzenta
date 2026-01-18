@@ -1,3 +1,6 @@
+---
+image: /gabo-compra-cafe.jpeg
+---
 # Capítulo 2: Náufragos de Concreto
 
 A chuva, que antes era uma presença constante e melancólica, transformou-se em uma besta furiosa. O céu de Baía Cinzenta parecia ter desabado, despejando torrentes de água ácida que faziam as calhas dos prédios vomitarem lodo preto sobre as calçadas.

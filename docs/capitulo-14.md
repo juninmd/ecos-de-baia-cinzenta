@@ -1,3 +1,6 @@
+---
+image: /cidade.jpg
+---
 # Capítulo 14: Caçada ao Invisível
 
 A suspensão de Gabriel durou doze horas. Tempo suficiente para limpar a arma, beber café ruim e perceber que não conseguia ficar parado.

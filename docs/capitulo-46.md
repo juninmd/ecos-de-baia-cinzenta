@@ -1,3 +1,6 @@
+---
+image: /gabo-compra-cafe.jpeg
+---
 # Capítulo 46: A Maré Montante
 
 **Três meses após a Queda da Torre.**

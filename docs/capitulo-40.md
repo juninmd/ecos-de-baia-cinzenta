@@ -1,3 +1,6 @@
+---
+image: /cidade.jpg
+---
 # Capítulo 40: Traidores e Túmulos
 
 O Cemitério dos Esquecidos nunca fez jus ao nome. As pessoas ali eram esquecidas em vida, mas na morte, seus túmulos empilhados eram lembretes constantes.

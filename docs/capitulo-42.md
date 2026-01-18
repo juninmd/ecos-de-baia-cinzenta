@@ -1,3 +1,6 @@
+---
+image: /cidade.jpg
+---
 # Capítulo 42: Fantasmas da Cidade
 
 As semanas seguintes foram de uma reconstrução lenta. A cidade aprendia a viver sem a Rede.

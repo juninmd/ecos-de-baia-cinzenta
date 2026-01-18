@@ -1,3 +1,6 @@
+---
+image: /elite.jpg
+---
 # Capítulo 4: A Torre de Marfim
 
 A Torre Aeterna não pertencia a Baía Cinzenta. Era um corpo estranho, um implante de luxo em um organismo necrosado. Enquanto a cidade abaixo se afogava em smog e chuva ácida, a torre perfurava as nuvens, brilhando sob o sol que os pobres haviam esquecido que existia.

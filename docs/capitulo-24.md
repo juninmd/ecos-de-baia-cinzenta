@@ -1,3 +1,6 @@
+---
+image: /cidade.jpg
+---
 # Capítulo 24: A Galeria dos Deformados
 
 O cheiro não era apenas de esgoto. Era um cheiro químico, doce e podre, como flores em decomposição e carne queimada.

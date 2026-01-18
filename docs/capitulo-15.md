@@ -1,3 +1,6 @@
+---
+image: /cidade.jpg
+---
 # Capítulo 15: Protocolo de Extermínio
 
 Eles correram para o labirinto do Distrito 4. Fábricas abandonadas, becos sem saída, esqueletos de prédios.

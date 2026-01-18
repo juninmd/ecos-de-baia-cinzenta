@@ -1,3 +1,6 @@
+---
+image: /cidade.jpg
+---
 # Capítulo 32: Queda Livre
 
 Descer 28 andares de escada com uma perna quebrada e carregando uma pessoa ferida é um tipo especial de inferno. Gabo já não sentia o joelho; a adrenalina e a dor tinham se fundido em um zumbido constante.

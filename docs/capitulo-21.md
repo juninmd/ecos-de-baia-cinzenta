@@ -1,3 +1,6 @@
+---
+image: /livia.jpg
+---
 # Capítulo 21: Lar, Doce Inferno
 
 Antes de irem para a Torre, Gabo precisava de uma coisa. "Mara". Sua bazuca. Ela estava no porta-malas do Cobalt, estacionado perto de seu apartamento.

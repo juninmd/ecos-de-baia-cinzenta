@@ -1,3 +1,6 @@
+---
+image: /cidade.jpg
+---
 # Capítulo 36: O Ninho da Serpente
 
 A Delegacia do Setor 4 parecia uma fortaleza sitiada. Barreiras de concreto tinham sido arrastadas para a frente da entrada. Policiais armados com fuzis patrulhavam o perímetro, nervosos. Mas não havia eletricidade. Apenas fogueiras em latões de óleo iluminavam a fachada.

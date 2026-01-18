@@ -1,3 +1,6 @@
+---
+image: /cidade.jpg
+---
 # Capítulo 30: Sacrifício de Sangue
 
 O corredor do nível 50 virou uma zona de guerra. Gabo usava o servidor tombado como escudo, as balas arrancando lascas de metal e faíscas que queimavam sua pele. Ele não tinha mais munição para a escopeta, estava usando uma pistola que pegara de um segurança caído.

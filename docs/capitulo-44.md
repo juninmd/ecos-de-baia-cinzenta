@@ -1,3 +1,6 @@
+---
+image: /cidade.jpg
+---
 # Capítulo 44: Ecos
 
 Gabo dirigia pela orla. O mar cinzento batia contra o cais de concreto.
