@@ -13,21 +13,21 @@
 
 *   **Idade:** 30 anos
 *   **Altura:** 1,75m
-*   **Porte Físico:** Atlético e denso. Embora pareça cansado, seu corpo é uma arma viva, moldado por anos de treinamento rigoroso em Hapkido (Faixa Preta), uma disciplina que ele usa tanto para subjugar suspeitos sem armas quanto para controlar sua própria raiva.
+*   **Porte Físico:** Atlético e denso. Embora pareça cansado, seu corpo é uma arma viva, moldado por anos de treinamento rigoroso em Hapkido (Faixa Preta), uma disciplina que ele usa tanto para subjugar suspeitos sem armas quanto para controlar sua própria raiva. Agora utiliza um exoesqueleto nas pernas para compensar a lesão na coluna (de uso limitado/temporário).
 *   **Cabelo:** Escuro, desgrenhado e oleoso. Ostenta uma barba cheia e mal aparada, salpicada de fios grisalhos precoces.
 *   **Olhos:** Castanhos profundos, quase pretos. Cercados por olheiras severas. O olhar é inquieto, varrendo constantemente o ambiente – um efeito da insônia e da paranoia.
 *   **Marcas Distintivas:** Mãos trêmulas (pelo café), mas que firmam instantaneamente em combate. Tique nervoso de tamborilar os dedos no coldre (não fuma).
 *   **Vestuário:** Sobretudo bege manchado de fuligem sobre camisas sociais amarrotadas.
 *   **Bens e Equipamento:**
-    *   **Veículo:** Um Sedan Azul Metálico (Cobalt).
+    *   **Veículo:** Um Sedan Azul Metálico (Cobalt) antigo e enferrujado, que mal se sustenta inteiro.
     *   **Arma de Serviço:** Pistola Glock.
     *   **[INFORMAÇÃO OCULTA / CONFIDENCIAL]:** No porta-malas do Cobalt, trancadas em um compartimento falso, ele carrega "Mara" (uma Bazuca modificada para ogivas de pulso eletromagnético/concussão) e "Vilha" (uma escopeta calibre 12 de cano serrado e tambor rotativo).
 *   **Gostos Pessoais:**
     *   **Comida:** Viciado em pizza. Quente, fria, de ontem ou da sarjeta. É o seu principal grupo alimentar.
     *   **Bebida:** Café (litros por dia) e vinho barato.
-*   **Perfil Psicológico:** Workaholic, paranoico e cínico. Acredita em uma conspiração política global para boicotar a cidade. Protege os inocentes com uma fúria silenciosa.
+*   **Perfil Psicológico:** Workaholic, paranoico e cada vez mais cínico e violento. Acredita em uma conspiração política global para boicotar a cidade. Protege os inocentes com uma fúria silenciosa, mas está perdendo a paciência com métodos pacíficos.
 *   **Função:** Inspetor da Divisão de Casos Esquecidos (Cold Cases) / "O Herói do Apagão".
-*   **Histórico:** Filho do lendário Comissário Dante Moretti. Viu sua carreira promissora na Homicídios ser destruída após ser traído por seu parceiro em uma operação fracassada. Atualmente lidera a resistência contra o "Gamemaster".
+*   **Histórico:** Filho do lendário Comissário Dante Moretti. Viu sua carreira promissora na Homicídios ser destruída após ser traído por seu parceiro em uma operação fracassada. Atualmente lidera a resistência contra a conspiração do Dilúvio.
 
 ---
 
@@ -50,28 +50,89 @@
     *   **Hobby:** Hackear outdoors da cidade para exibir arte anarquista.
 *   **Perfil Psicológico:** Otimista (na medida do possível), hiperativa e viciada em informação. É a bússola moral digital de Gabo. Sofreu abstinência severa após a remoção forçada de seus chips de conexão para se tornar "invisível" ao sistema.
 *   **Função:** Detetive Júnior / Especialista em Cibercrime.
-*   **Histórico:** Uma prodígio que hackeou o sistema da academia de polícia aos 16 anos. Ao invés de ser presa, foi recrutada pelo Capitão Vilar, que viu potencial onde outros viram crime. Nutre uma lealdade feroz e uma paixão secreta por Gabo.
+*   **Histórico:** Uma prodígio que hackeou o sistema da academia de polícia aos 16 anos. Ao invés de ser presa, foi recrutada pelo Capitão Vilar, que viu potencial onde outros viram crime. Nutre uma lealdade feroz e uma paixão cada vez mais explícita por Gabo.
 
 ---
 
-## Roberto Miranda (O Gerente)
+## Roberto Miranda (O Chefe de Segurança)
 
 ![Roberto Miranda](/roberto.jpg)
 
 *   **Idade:** 34 anos
 *   **Altura:** 1,78m
-*   **Porte Físico:** Magro de uma forma doentia, com a pele pálida e úmida de quem vive nos esgotos, agora complementada por um braço mecânico de última geração.
+*   **Porte Físico:** Magro, mas agora com múltiplos aprimoramentos cibernéticos visíveis sob o terno.
 *   **Cabelo:** Ralo, oleoso, penteado para trás para esconder a calvície incipiente.
-*   **Olhos:** Inquietos, injetados de sangue e com pupilas dilatadas pelo uso constante de estimulantes.
-*   **Marcas Distintivas:** Falta-lhe o braço esquerdo, substituído por uma prótese mecânica de combate. Cicatriz de queimadura no pescoço.
-*   **Vestuário:** Ternos caros, comprados com dinheiro sujo do Sindicato, que não disfarçam sua aura de decadência.
+*   **Olhos:** Cibernéticos, vermelhos, permitindo controle remoto de unidades drônicas.
+*   **Marcas Distintivas:** Braço esquerdo mecânico de nível militar e uma interface neural na têmpora.
+*   **Vestuário:** Ternos blindados caros, símbolo de seu novo status.
 *   **Bens e Equipamento:**
-    *   **Arma:** Braço cibernético com escudo de energia integrado e pistola de plasma oculta.
+    *   **Comando:** Controlador mestre dos Protótipos CP-Z.
+    *   **Arma:** Pistola de plasma integrada ao braço.
 *   **Gostos Pessoais:**
-    *   **Vício:** Jogos de azar, poder e rinhas de androides.
-*   **Perfil Psicológico:** Covarde, manipulador e desesperado. Miranda é movido puramente pela autopreservação e inveja. Ele não tem lealdade, apenas dívidas. Vendeu sua alma e sua unidade policial.
-*   **Função:** Gerente do "Shadowban" / Traidor.
-*   **Histórico:** Ex-parceiro de Gabo. Tornou-se o carcereiro digital dos "Cancelados" no bunker sob a Torre de Marfim antes de ser derrubado durante a revolta.
+    *   **Vício:** Poder e controle. Sente prazer em ver seus antigos colegas implorarem.
+*   **Perfil Psicológico:** Sádico, manipulador e invejoso. Miranda deixou de ser apenas um traidor covarde para se tornar um executor implacável. Ele odeia Gabo profundamente.
+*   **Função:** Chefe de Segurança da "Nova Baía" / Antagonista Principal de Campo.
+*   **Histórico:** Ex-parceiro de Gabo que vendeu a alma ao Sindicato e agora serve diretamente a Marco Moretti como seu cão de guarda, controlando a força policial robotizada corrupta.
+
+---
+
+## Marco Moretti
+
+![Marco Moretti](/marco.jpg)
+
+*   **Idade:** 35 anos
+*   **Altura:** 1,80m
+*   **Porte Físico:** Impecável, moldado em academias privadas. Postura de líder, sempre ereto e confiante.
+*   **Cabelo:** Castanho escuro, perfeitamente cortado e fixado com gel caro. Nem um fio fora do lugar.
+*   **Olhos:** Castanhos como os de Gabo, mas frios e desprovidos de empatia. Brilham com uma malícia calculada.
+*   **Marcas Distintivas:** O sorriso de "campanha eleitoral" que nunca vacila. Um broche da Aeterna Corp sempre na lapela.
+*   **Vestuário:** Ternos italianos sob medida, relógios de luxo e sapatos que nunca tocam a lama de Baía Cinzenta.
+*   **Bens e Equipamento:**
+    *   **Recursos:** Controle total sobre os fundos da prefeitura, a polícia privada da cidade e o vigilante "O Santo".
+    *   **Segurança:** Guarda-costas cibernéticos de elite.
+*   **Gostos Pessoais:**
+    *   **Ambição:** "Higienização Social". Ele vê a pobreza como uma doença e a enchente como a cura.
+*   **Perfil Psicológico:** Narcisista, psicopata e messiânico. Acredita ser o salvador que terá a coragem de fazer o que é "necessário" (o genocídio dos pobres) para transformar Baía Cinzenta em uma utopia. Cego pelo poder, ele manipula todos, inclusive sua família.
+*   **Função:** Prefeito de Baía Cinzenta / Vilão Principal / Mestre das Marionetes.
+*   **Histórico:** O irmão mais velho que seguiu o caminho "limpo". Fingiu ser um fantoche para assumir o poder total após a queda da Torre. Ele é o arquiteto da sabotagem das barragens e o verdadeiro comandante por trás das ações do "Santo".
+
+---
+
+## Isadora Vane (A Espiã)
+
+*   **Idade:** 28 anos
+*   **Altura:** 1,72m
+*   **Porte Físico:** Escultural, usa sua aparência como arma.
+*   **Cabelo:** Loiro platinado, longo e sedoso.
+*   **Olhos:** Verdes esmeralda, hipnóticos.
+*   **Marcas Distintivas:** Um perfume de jasmim sintético que nunca a abandona.
+*   **Vestuário:** Vestidos provocantes que escondem armas e gravadores.
+*   **Bens e Equipamento:**
+    *   **Arma:** Batom com neurotoxina e agulhas envenenadas.
+    *   **Item:** Frascos da Droga Lázaro de alta pureza.
+*   **Gostos Pessoais:**
+    *   **Objetivo:** Sobrevivência e ascensão social a qualquer custo.
+*   **Perfil Psicológico:** Ambiciosa, sedutora e traiçoeira. Ela trabalha para Marco Moretti, mas planeja derrubá-lo para assumir seu lugar. Vê em Gabo uma ferramenta útil.
+*   **Função:** Agente Dupla / Femme Fatale.
+*   **Histórico:** Uma ex-atriz que se tornou espiã corporativa. Especializada em manipulação psicológica e chantagem.
+
+---
+
+## Protótipos CP-Z (A Tropa de Choque)
+
+*   **Tipo:** Unidades Robóticas de Policiamento Autônomo (Fase Beta).
+*   **Aparência:** Humanoides, blindagem preto-fosco, visores de LED vermelho. Mal acabados, com fiação exposta.
+*   **Armamento:** Bastões de choque e armas de dispersão de multidão letais.
+*   **Falha:** Programação corrupta que os faz vazar dados confidenciais e agir com violência excessiva contra civis de baixa renda.
+*   **Função:** "Limpeza" dos distritos alagados e controle dos mendigos.
+
+---
+
+## O Santo (Vigilante)
+
+*   **Identidade:** Desconhecida (Classificado).
+*   **Modus Operandi:** Quebra o pescoço e as mãos de criminosos.
+*   **Afiliação Real:** Uma ferramenta de "limpeza" controlada secretamente por Marco Moretti para eliminar competidores do submundo e criar uma falsa sensação de justiça, pavimentando o caminho para a aceitação da polícia robotizada.
 
 ---
 
@@ -94,28 +155,6 @@
 *   **Perfil Psicológico:** Obstinada e destemida. Lívia é movida por um senso de justiça tão forte quanto o de Gabo, mas acredita que a "caneta" (ou o upload) é mais forte que a espada.
 *   **Função:** Jornalista Investigativa Sênior.
 *   **Histórico:** Casada com Gabo, mas separada (o divórcio nunca foi assinado). Afastou-se dele para protegê-lo de si mesmo e para investigar a morte de Dante Moretti sem o peso emocional de Gabo atrapalhando. Foi alvo de sequestro pelo Gamemaster.
-
----
-
-## Marco Moretti
-
-![Marco Moretti](/marco.jpg)
-
-*   **Idade:** 35 anos
-*   **Altura:** 1,80m
-*   **Porte Físico:** Impecável, moldado em academias privadas. Postura de líder, sempre ereto e confiante.
-*   **Cabelo:** Castanho escuro, perfeitamente cortado e fixado com gel caro. Nem um fio fora do lugar.
-*   **Olhos:** Castanhos como os de Gabo, mas sem as olheiras. Brilham com uma simpatia calculada.
-*   **Marcas Distintivas:** O sorriso de "campanha eleitoral" que nunca vacila, mesmo quando está mentindo.
-*   **Vestuário:** Ternos italianos sob medida, relógios de luxo e sapatos que nunca tocam a lama de Baía Cinzenta.
-*   **Bens e Equipamento:**
-    *   **Recursos:** Acesso ilimitado a fundos de campanha e uma frota de carros blindados.
-    *   **Segurança:** Sempre acompanhado por dois guarda-costas da Aeterna (antes da queda).
-*   **Gostos Pessoais:**
-    *   **Ambição:** Poder. Ele quer ser o Prefeito que "salvou" a cidade, custe o que custar.
-*   **Perfil Psicológico:** Narcisista e pragmático. Marco acredita que os fins justificam os meios, mesmo que os meios envolvam vender a alma da cidade para corporações.
-*   **Função:** Ex-Candidato a Prefeito / Irmão de Gabo.
-*   **Histórico:** O irmão mais velho que seguiu o caminho "limpo". Enquanto Gabo mergulhava no submundo, Marco escalava a hierarquia. Foi exposto como fantoche da Aeterna e "cancelado" durante a revolta.
 
 ---
 
@@ -178,7 +217,7 @@
     *   **Justiça:** Acreditava na lei acima de tudo, até descobrir que a lei estava à venda.
 *   **Perfil Psicológico:** Incorruptível e idealista, o que acabou sendo sua sentença de morte.
 *   **Função:** O Fantasma / A Inspiração / "O Gamemaster" (Usurpado).
-*   **Histórico:** O maior detetive que Baía Cinzenta já viu. Sua morte "acidental" em uma explosão industrial é o evento incitante. Seu túmulo foi encontrado vazio, e sua imagem foi usada pelo Gamemaster para manipular a cidade.
+*   **Histórico:** O maior detetive que Baía Cinzenta já viu. Sua morte "acidental" em uma explosão industrial é o evento incitante. Seu cérebro foi usado organicamente para hackear a IA "Gamemaster" por dentro, deixando pistas (como a foto de Gabo) para o filho o encontrar.
 
 ---
 
@@ -270,20 +309,20 @@
 
 ![Helena Moretti](/helena.jpg)
 
-*   **Idade:** 55 anos (na época do desaparecimento)
+*   **Idade:** 55 anos (no momento da morte)
 *   **Altura:** 1,68m
-*   **Porte Físico:** Magra e elegante.
+*   **Porte Físico:** Magra e frágil no final.
 *   **Cabelo:** Castanho com fios brancos, sempre preso.
-*   **Olhos:** Castanhos, gentis.
-*   **Marcas Distintivas:** Sempre usava um colar de pérolas falso.
-*   **Vestuário:** Vestidos simples e cardigãs.
+*   **Olhos:** Castanhos, gentis, mas marcados pela tristeza.
+*   **Marcas Distintivas:** Sempre usava um colar de pérolas falso. Marcas de agulha (insulina).
+*   **Vestuário:** Vestidos simples e cardigãs puídos.
 *   **Bens e Equipamento:**
     *   **Item:** Álbum de fotos da família.
 *   **Gostos Pessoais:**
-    *   **Amor:** Família e jardinagem.
-*   **Perfil Psicológico:** Protetora e resiliente.
+    *   **Amor:** Família e jardinagem (antes da chuva ácida destruir tudo).
+*   **Perfil Psicológico:** Protetora e resiliente, mas quebrada pelo abandono dos filhos e a pobreza.
 *   **Função:** Mãe de Gabo e Marco.
-*   **Histórico:** Desapareceu misteriosamente após a morte de Dante.
+*   **Histórico:** Testemunhou o início da era da IA e sempre temeu a tecnologia. Morreu devido à falta de insulina causada pelo bloqueio de suprimentos ordenado indiretamente por seu próprio filho, Marco.
 
 ---
 
@@ -291,20 +330,20 @@
 
 ![Clara Moretti](/clara.jpg)
 
-*   **Idade:** 18 anos (na época do desaparecimento)
+*   **Idade:** 18 anos
 *   **Altura:** 1,65m
-*   **Porte Físico:** Jovem e saudável.
+*   **Porte Físico:** Jovem e magra, com a tensão constante de quem vive em perigo.
 *   **Cabelo:** Longo e ondulado.
-*   **Olhos:** Castanhos brilhantes.
+*   **Olhos:** Castanhos brilhantes, agora endurecidos.
 *   **Marcas Distintivas:** Uma cicatriz pequena no joelho.
-*   **Vestuário:** Uniforme escolar ou roupas casuais.
+*   **Vestuário:** Roupas de segunda mão, botas de borracha.
 *   **Bens e Equipamento:**
-    *   **Item:** Diário pessoal.
+    *   **Item:** Diário pessoal e o relógio quebrado do pai.
 *   **Gostos Pessoais:**
-    *   **Sonho:** Ser escritora.
-*   **Perfil Psicológico:** Sonhadora e inocente.
+    *   **Sonho:** Ser escritora e sair de Baía Cinzenta.
+*   **Perfil Psicológico:** Sonhadora que foi forçada a acordar. Sente-se abandonada por Gabo e traída por Marco.
 *   **Função:** Irmã caçula de Gabo.
-*   **Histórico:** Desapareceu junto com a mãe. Gabo ainda as procura.
+*   **Histórico:** Cuidou da mãe até o fim sozinha. Acumulou dívidas para tentar salvá-la e se tornou alvo de agiotas. É a última conexão humana pura que resta a Gabo.
 
 ---
 

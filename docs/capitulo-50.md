@@ -28,11 +28,55 @@ Clara tentou de novo. E de novo. Na terceira vez, jogou o aparelho na água suja
 
 Helena tossiu, um som úmido e fraco. Clara correu para o lado dela, limpando o suor frio da testa da mãe.
 
-— Gabo... — Helena sussurrou, os olhos vidrados focando no nada. — Diga a ele... para comer...
+— Gabo... — Helena sussurrou, os olhos vidrados focando no nada.
 
-— Eu digo, mãe. Eu digo.
+A mente de Helena viajava, perdida em memórias antigas.
 
-A respiração de Helena tornou-se irregular. O peito subia e descia com esforço, como uma máquina engrenada. Clara segurou a mão dela com força, sentindo as lágrimas quentes escorrerem pelo rosto e pingarem na água fria aos seus pés.
+***
+
+*Flashback: 25 anos atrás. A Era Pré-Rede.*
+
+*A casa era seca e quente. O cheiro de café fresco e bolo de fubá enchia a cozinha. Dante Moretti, jovem e forte, entrou pela porta carregando uma caixa grande com o logotipo da nascente Aeterna Corp.*
+
+*— O que é isso, Dante? — perguntou Helena, limpando as mãos no avental.*
+
+*— O futuro, Lena — disse Dante, sorrindo. Ele abriu a caixa, revelando o primeiro terminal doméstico. Uma tela grossa, teclado mecânico. — Eles dizem que isso vai conectar a cidade inteira. Sem mais arquivos de papel, sem mais burocracia.*
+
+*O pequeno Gabo, com cinco anos, correu para ver. Marco, com dez, olhou com desconfiança, mas logo se aproximou, fascinado pelo brilho azul da tela.*
+
+*— É seguro? — perguntou Helena.*
+
+*— É apenas uma máquina — riu Dante, beijando a testa dela. — Ela observa, calcula, mas não sente. O que poderia dar errado?*
+
+*Helena olhou para a luz fria do monitor. Ela sentiu um arrepio, um presságio que nenhuma mãe deveria ter. A máquina parecia estar olhando de volta.*
+
+***
+
+A tosse trouxe Helena de volta ao presente frio e úmido.
+
+— Diga a ele... — Helena apertou a mão de Clara com uma força surpreendente. — Diga a Gabo... que o pai dele... sabia.
+
+— Sabia o quê, mãe?
+
+— O "acidente"... — Helena engasgou.
+
+***
+
+*Flashback: 15 anos atrás. O Funeral de Dante.*
+
+*Chovia, como sempre. Mas era uma chuva diferente, carregada de fuligem da explosão na fábrica.*
+
+*O caixão estava fechado. "Não sobrou nada para ver", disseram os oficiais da Aeterna. "Foi rápido."*
+
+*Helena segurava a mão de um Gabo adolescente e furioso. Marco estava ao lado deles, vestindo um terno preto impecável, sem derramar uma lágrima. Ele já estava conversando com os executivos da empresa, aceitando condolências e cartões de visita.*
+
+*— Foi uma tragédia, Sra. Moretti — disse um homem de terno prateado. — A Aeterna vai cuidar de tudo. A pensão, a educação das crianças...*
+
+*Helena viu o olhar de Marco. Era ambição, não luto. Ela viu Gabo cerrar os punhos até os nós dos dedos ficarem brancos.*
+
+*Naquele dia, ela percebeu que havia perdido não apenas o marido, mas os dois filhos. Um para a raiva, outro para a máquina.*
+
+***
 
 — Não vai, mãe. Por favor. O remédio... eu vou conseguir o remédio.
 
@@ -44,9 +88,25 @@ Não houve tempo para o luto. O luto em Baía Cinzenta é um luxo de quem mora n
 
 O corpo precisava ser movido antes que a água subisse mais ou os ratos viessem. Não havia terra seca para enterrar. A única opção era o Incinerador Industrial do Distrito da Ferrugem, controlado pelo Sindicato dos Barqueiros.
 
-Clara cobriu o corpo da mãe com um lençol plástico. Ela vestiu sua capa de chuva remendada e saiu para a noite tempestuosa. Ela precisava de créditos. Muitos créditos.
+Clara cobriu o corpo da mãe com um lençol plástico. Ela arrastou o corpo magro até o pequeno barco de sucata. A chuva misturava-se com o suor e as lágrimas em seu rosto.
 
-Ela remou seu pequeno barco de sucata até as luzes neon de um flutuante ancorado perto das ruínas de um antigo shopping. O letreiro piscava: "Empréstimos O Dourado - Soluções Rápidas".
+A viagem até o Incinerador foi um cortejo fúnebre solitário. O céu brilhava com os relâmpagos roxos da tempestade eterna.
+
+Ao chegar às docas industriais, as chaminés cuspiam fumaça negra. O operador, um homem sem rosto com uma máscara de gás, apenas estendeu a mão para o pagamento.
+
+Clara entregou o relógio de ouro de Dante. A única herança que restava.
+
+— É pouco — disse o homem, voz abafada.
+
+— É tudo o que eu tenho — disse Clara.
+
+O homem deu de ombros e acionou a esteira.
+
+Clara viu o corpo de sua mãe, envolto em plástico barato, deslizar para dentro da fornalha ardente. Não houve padre. Não houve flores. Apenas o rugido do fogo consumindo a história de uma mulher que amou demais em um mundo que não amava ninguém.
+
+Ela vestiu sua capa de chuva remendada e saiu para a noite tempestuosa. Ela precisava de créditos agora. Para sobreviver.
+
+Ela remou seu barco vazio até as luzes neon de um flutuante ancorado perto das ruínas de um antigo shopping. O letreiro piscava: "Empréstimos O Dourado - Soluções Rápidas".
 
 Clara entrou. O ar cheirava a charuto barato e ozônio.
 
@@ -56,7 +116,7 @@ O homem atrás do balcão, gordo e com dentes folheados a ouro sintético, sorri
 
 — Cinco mil é muito dinheiro para uma ratinha do esgoto. O que você tem de garantia?
 
-— Minha vida — disse Clara. — Eu trabalho. Faço qualquer coisa. Só preciso pagar... a passagem da minha mãe.
+— Minha vida — disse Clara. — Eu trabalho. Faço qualquer coisa.
 
 O Dourado riu.
 
@@ -64,7 +124,7 @@ O Dourado riu.
 
 Clara engoliu em seco. Ela assinou o contrato digital com o polegar.
 
-Enquanto voltava para buscar o corpo da mãe, a chuva continuava a cair, lavando as lágrimas que ela já não tinha forças para chorar.
+Enquanto voltava para o vazio de sua casa alagada, Clara jurou que, se Gabo aparecesse, ela não o abraçaria. Ela o faria sangrar.
 
 ***
 
@@ -80,4 +140,4 @@ Ele olhou para o painel de comunicações. Uma luz amarela piscava em uma linha 
 
 "Prioridades", pensou ele, engolindo dois analgésicos. "O trabalho primeiro."
 
-Ele apagou a luz amarela e virou-se para o mapa.
+Ele apagou a luz amarela e virou-se para o mapa, sem saber que tinha acabado de perder a última chance de dizer adeus.

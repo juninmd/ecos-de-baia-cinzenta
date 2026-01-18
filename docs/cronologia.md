@@ -4,13 +4,15 @@ Esta linha do tempo organiza os eventos históricos e narrativos do universo de 
 
 ## Era Pré-Narrativa (O Passado)
 
+*   **25 Anos Atrás (Início da Era da IA):**
+    *   Chegada dos primeiros terminais domésticos da Aeterna. Dante Moretti traz um para casa. Helena pressente o perigo.
 *   **20 Anos Atrás:**
     *   Início da construção da **Aeterna Tower** e da privatização gradual dos serviços públicos.
     *   Abertura da **Arca N.O.A.** (Projeto Dilúvio) e seu subsequente fechamento/abandono.
 *   **15 Anos Atrás:**
-    *   Morte do Comissário **Dante Moretti** (Pai de Gabo). Oficialmente um acidente/ataque cardíaco, na verdade ele foi conectado à força como processador biológico do Gamemaster.
-    *   A **"Grande Enchente"** (Evento que moldou a geografia atual dos Distritos Baixos).
-    *   Gabriel Moretti (15 anos) tira a foto no parque, pouco antes da morte do pai.
+    *   **Morte do Comissário Dante Moretti (Pai de Gabo):** Oficialmente um acidente em uma fábrica, na verdade ele foi conectado à força como processador biológico do Gamemaster. Antes disso, ele implantou um "vírus de consciência" para ajudar o filho no futuro.
+    *   **A "Grande Enchente":** Evento que moldou a geografia atual dos Distritos Baixos.
+    *   **Funeral de Dante:** Marco Moretti (irmão mais velho) se alia à Aeterna, enquanto Gabo jura vingança.
 *   **5 Anos Atrás:**
     *   Ascensão da **Dra. Elara Vance** como CEO da Aeterna Corp.
     *   Implementação total da **Rede** e das câmeras de vigilância integradas.
@@ -23,7 +25,7 @@ Esta linha do tempo organiza os eventos históricos e narrativos do universo de 
 ## A Narrativa (O Livro)
 
 ### Parte I: A Chuva (Capítulos 1-4)
-*   **Dia 1:** Gabo encontra o corpo do "Observador" (olhos de câmera) na Vila da Ferrugem. Descobre a foto de sua infância no bolso da vítima.
+*   **Dia 1:** Gabo encontra o corpo do "Observador" (olhos de câmera) na Vila da Ferrugem. Descobre a foto de sua infância no bolso da vítima (pista deixada por Dante).
 *   **Dia 2:** Gabo encontra "A Menina do Orelhão" e a coloca sob proteção.
 *   **Dia 3:** Valéria Cruz junta-se à investigação. Primeira pista ligando os crimes à Aeterna Corp.
 
@@ -53,13 +55,15 @@ Esta linha do tempo organiza os eventos históricos e narrativos do universo de 
 *   **A Reestruturação:** Capitão Jonas Vilar assume o controle provisório do DPBC, tentando restaurar a ordem.
 *   **O Despertar:** Nas profundezas do oceano, um antigo vilão (ligado ao Projeto Dilúvio) acorda devido à falha nos sistemas de contenção causada pelo blackout.
 
-### Parte IX: Dilúvio (Capítulos 46-52)
-*   **A Maré Montante:** O nível do mar sobe drasticamente devido à sabotagem nas comportas (Projeto Dilúvio).
-*   **O Taxidermista:** Gabo confronta o serial killer em um matadouro.
+### Parte IX: Dilúvio (Capítulos 46-55...)
+*   **Dia 30 Pós-Apagão:** O nível do mar começa a subir drasticamente devido à sabotagem nas comportas (Projeto Dilúvio).
+*   **O Taxidermista:** Gabo confronta o serial killer.
 *   **A Lesão (Cap 47):** O Taxidermista esmaga a coluna de Gabo. Ele sobrevive, mas perde o movimento das pernas.
-*   **A Recuperação (Off-screen/Implícita):** Gabo recebe exoesqueletos experimentais de Val/Nise para voltar a andar, embora com dor e limitações.
-*   **A Tragédia Familiar (Cap 50):** Helena Moretti (mãe de Gabo) morre por falta de insulina durante a enchente. Clara (irmã) contrai dívidas com o agiota "O Dourado".
-*   **O Santo (Cap 52):** Um novo vigilante mata o agiota e salva Clara. Gabo chega tarde demais para salvar a família, mas a tempo de ver o surgimento do novo "predador".
+*   **A Tragédia Familiar (Cap 50):** Helena Moretti morre. Clara contrai dívidas.
+*   **O Santo (Cap 52):** O novo vigilante (controlado por Marco Moretti) "limpa" o agiota.
+*   **O Retorno (Cap 53):** Gabo usa um exoesqueleto temporário. Reunião da equipe. Revelação de que Marco Moretti é o Prefeito e vilão principal.
+*   **Dia 45 do Dilúvio (Cap 54):** Gabo visita a Catedral de Ferro. Confronto com robôs policiais corrompidos (CP-Z). O exoesqueleto falha definitivamente.
+*   **Dia 46 do Dilúvio (Cap 55):** A espiã Isadora Vane tenta seduzir Gabo com a droga Lázaro. Gabo recusa e descobre que Roberto Miranda é o comandante dos robôs e torturador de Isadora. Isadora se torna agente dupla.
 
 ---
 
@@ -67,4 +71,4 @@ Esta linha do tempo organiza os eventos históricos e narrativos do universo de 
 
 *   **Arco da Aeterna (Parte I-VI):** A luta contra o controle corporativo e a IA Gamemaster. Termina com a vitória pirrica de Gabo (liberdade ao custo do caos).
 *   **Arco da Sobrevivência (Parte VII-VIII):** Lidar com as consequências da queda da tecnologia.
-*   **Arco do Dilúvio (Parte IX):** A luta contra as consequências físicas (enchente) e o surgimento de vilões mais "físicos" e brutais (Taxidermista, O Santo), preparando o terreno para a próxima fase da história.
+*   **Arco do Dilúvio (Parte IX):** A luta contra a enchente artificial, a tirania do Prefeito Marco Moretti, a brutalidade de Roberto Miranda e seus robôs, e a busca por justiça em um mundo que está literalmente afundando.

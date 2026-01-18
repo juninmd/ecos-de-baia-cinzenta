@@ -109,6 +109,9 @@ module.exports = {
           { text: 'Capítulo 50: O Silêncio da Chuva', link: '/capitulo-50' },
           { text: 'Capítulo 51: Mãos Limpas', link: '/capitulo-51' },
           { text: 'Capítulo 52: Dívida Eterna', link: '/capitulo-52' },
+          { text: 'Capítulo 53: Café, Código e Conspiração', link: '/capitulo-53' },
+          { text: 'Capítulo 54: Fé e Ferrugem', link: '/capitulo-54' },
+          { text: 'Capítulo 55: A Tentação de Lázaro', link: '/capitulo-55' },
         ]
       },
       {
