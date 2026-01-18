@@ -2,12 +2,16 @@
 
 > *Um thriller noir cyberpunk sobre memórias roubadas, chuva ácida e a busca pela verdade em uma cidade que nunca dorme.*
 
+🔴 **[ACESSE O LIVRO ONLINE AQUI](https://ecos-de-baia-cinzenta.netlify.app/)** 🔴
+
 ![Banner do Projeto](/public/banner_placeholder.jpg)
 *(Nota: Adicionar banner conceitual aqui)*
 
 ## 📖 Sobre o Projeto
 
 **Ecos de Baía Cinzenta** é um livro interativo sendo desenvolvido como um site estático usando [VitePress](https://vitepress.dev/). A narrativa combina elementos clássicos de *Film Noir* com a estética e temáticas *Cyberpunk*.
+
+Você pode ler a versão mais recente online em: **[ecos-de-baia-cinzenta.netlify.app](https://ecos-de-baia-cinzenta.netlify.app/)**
 
 A história acompanha **Gabriel "Gabo" Moretti**, um detetive da Divisão de Casos Esquecidos, enquanto ele desvenda uma conspiração que envolve megacorporações, drogas de realidade virtual e serial killers teatrais.
 
