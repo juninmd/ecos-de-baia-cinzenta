@@ -16,22 +16,21 @@
 .vp-doc p {
   text-align: justify;
   line-height: 1.8;
-  font-size: 1.2rem; /* Increased for readability */
+  font-size: 1.15rem; /* Increased for readability, slightly adjusted */
   margin-bottom: 1.5em;
   font-weight: 300;
+  font-family: "Merriweather", serif;
 }
 
-/* Drop cap for the first letter of the first paragraph could be cool,
-   but VitePress structure makes it tricky to target purely with CSS
-   without hitting images or headers. Skipping for stability. */
-
+/* Heading Typography */
 .vp-doc h1 {
   font-family: "Playfair Display", serif;
   font-weight: 700;
-  font-size: 2.5rem;
+  font-size: 2.8rem;
   text-align: center;
-  border-bottom: none; /* Cleaner look */
-  margin-bottom: 2rem;
+  border-bottom: 2px solid var(--vp-c-brand-light); /* Added subtle separator */
+  margin-bottom: 2.5rem;
+  padding-bottom: 1rem;
   color: var(--vp-c-text-1);
 }
 
@@ -42,28 +41,37 @@
   border-bottom: 1px solid var(--vp-c-brand-light);
   display: inline-block;
   padding-right: 1rem;
+  font-size: 1.8rem;
 }
 
 .vp-doc h3 {
   font-family: "Playfair Display", serif;
   margin-top: 2em;
   font-style: italic;
+  font-size: 1.4rem;
 }
 
+/* Blockquotes styling for letters/documents */
 .vp-doc blockquote {
-  border-left: 3px solid var(--vp-c-brand);
+  border-left: 4px solid var(--vp-c-brand);
   font-style: italic;
-  background: rgba(142, 68, 173, 0.05);
-  padding: 1rem 1.5rem;
-  border-radius: 0 4px 4px 0;
+  background: rgba(142, 68, 173, 0.08); /* Slightly more visible bg */
+  padding: 1.5rem 2rem;
+  border-radius: 4px;
   margin: 2rem 0;
   font-family: "Playfair Display", serif;
   color: var(--vp-c-text-1);
+  box-shadow: 2px 2px 10px rgba(0,0,0,0.05); /* Paper lift effect */
+}
+
+/* Emphasize actions/sound effects */
+.vp-doc em {
+  color: var(--vp-c-brand);
 }
 
 .vp-doc strong {
   font-weight: 700;
-  color: var(--vp-c-brand); /* Highlight strong text lightly */
+  color: var(--vp-c-text-1);
 }
 
 /* Hide technical elements */
@@ -71,13 +79,11 @@
   display: none !important;
 }
 
-/* Reading Container */
+/* Reading Container - Book Mode */
 .content-container {
-  max-width: 750px !important; /* Optimal line length */
+  max-width: 750px !important;
   margin: 0 auto;
 }
-
-/* Hide the sidebar toggle on mobile to force immersion? No, bad UX. */
 
 /* Custom Scrollbar for Webkit */
 ::-webkit-scrollbar {
@@ -89,4 +95,18 @@
 ::-webkit-scrollbar-thumb {
   background: var(--vp-c-brand);
   border-radius: 4px;
+}
+
+/* Images - Polaroid Style */
+.vp-doc img {
+  border: 5px solid white;
+  box-shadow: 3px 3px 8px rgba(0,0,0,0.2);
+  transform: rotate(-1deg);
+  transition: transform 0.3s ease;
+  margin: 2rem auto;
+  display: block;
+}
+
+.vp-doc img:hover {
+  transform: rotate(0deg) scale(1.02);
 }
