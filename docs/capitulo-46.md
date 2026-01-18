@@ -51,7 +51,7 @@ Um container de carga, enferrujado, que havia sido arrastado pelas ondas até a 
 
 E dentro dele...
 
-Gabo acendeu um cigarro — um hábito que ele jurara largar, mas que a chuva sempre trazia de volta. Não, ele não fumava. Ele apenas batia o filtro nos dentes. *Tic nervoso.*
+Gabo tamborilou os dedos no coldre da arma — um tique nervoso que a chuva sempre trazia de volta. O ritmo era frenético, como o de um relógio em contagem regressiva.
 
 Ele entrou no container.
 

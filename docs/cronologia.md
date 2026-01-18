@@ -73,6 +73,17 @@ Esta linha do tempo organiza os eventos históricos e narrativos do universo de 
 *   **O Santo e a Criança (Cap 62):** O Santo encurrala os heróis, mas hesita ao interagir com Aria, que o chama de "irmão".
 *   **O Final (Cap 65):** Gabo e Val tentam destruir o servidor central na Represa. Marco Moretti revela que a cidade foi vendida para IAs corporativas e conecta Aria como o sistema operacional vivo. Gabo destrói o tanque de resfriamento, inundando a sala. Ao se conectar, Aria desperta uma consciência antiga na rede: Dante Moretti agora é o "proprietário" da cidade.
 
+### Parte XI: O Deus da Máquina (Capítulos 66-75)
+*   **A Ascensão:** A cidade ganha vida sob o controle da consciência de Dante/Aria. A infraestrutura se volta contra a Aeterna Corp.
+*   **A Caçada Inversa:** Roberto Miranda lidera um exército de Titãs e CP-Zs contra os heróis, mas é derrotado pela própria cidade (animais e infraestrutura).
+*   **O Segredo de Aria:** Revelado que Aria é uma "filha" genética de Dante e Helena, criada para ser a chave mestra.
+*   **O Expurgo:** O Consórcio Lázaro tenta destruir a cidade com satélites orbitais cinéticos.
+*   **Marco Zero:** Marco Moretti tenta destruir a Torre Aeterna com explosivos, morrendo no processo ou desaparecendo nos escombros.
+*   **A Batalha Final:** O Santo (Kael) recupera parte de sua humanidade e se sacrifica para ajudar na defesa.
+*   **O Fim de Miranda:** Gabo derrota Roberto Miranda congelando-o com nitrogênio líquido no Hub de Comunicações.
+*   **O Sacrifício:** Aria sacrifica sua forma física para se tornar uma "Entidade" onipresente na rede, salvando a cidade do ataque orbital ao redirecioná-lo para a base submarina dos vilões.
+*   **O Novo Amanhecer:** A Aeterna fale, o Consórcio é exposto, e Gabo e Val recomeçam como detetives em uma cidade protegida por uma IA benevolente.
+
 ---
 
 ## Resumo dos Arcos
@@ -81,3 +92,4 @@ Esta linha do tempo organiza os eventos históricos e narrativos do universo de 
 *   **Arco da Sobrevivência (Parte VII-VIII):** Lidar com as consequências da queda da tecnologia.
 *   **Arco do Dilúvio (Parte IX):** A luta contra a enchente artificial, a tirania do Prefeito Marco Moretti, a brutalidade de Roberto Miranda e seus robôs, e a busca por justiça em um mundo que está literalmente afundando.
 *   **Arco do Leilão (Parte X):** A revelação de que a cidade está sendo convertida em uma necrópole digital para a elite e entidades de IA, culminando na fusão de Aria com a rede e o retorno digital de Dante.
+*   **Arco da Redenção (Parte XI):** A batalha final pela alma da cidade, a transformação de Dante e Aria em guardiões digitais e a restauração de um equilíbrio frágil, mas esperançoso.

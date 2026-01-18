@@ -130,6 +130,21 @@ module.exports = {
         ]
       },
       {
+        text: 'Parte XI: O Deus da Máquina',
+        items: [
+          { text: 'Capítulo 66: Respirar', link: '/capitulo-66' },
+          { text: 'Capítulo 67: Cidade Viva', link: '/capitulo-67' },
+          { text: 'Capítulo 68: A Caçada Inversa', link: '/capitulo-68' },
+          { text: 'Capítulo 69: O Fantasma no Shell', link: '/capitulo-69' },
+          { text: 'Capítulo 70: O Expurgo', link: '/capitulo-70' },
+          { text: 'Capítulo 71: Marco Zero', link: '/capitulo-71' },
+          { text: 'Capítulo 72: A Ofensiva', link: '/capitulo-72' },
+          { text: 'Capítulo 73: Carne e Metal', link: '/capitulo-73' },
+          { text: 'Capítulo 74: O Sacrifício de Lázaro', link: '/capitulo-74' },
+          { text: 'Capítulo 75: Horizonte de Eventos', link: '/capitulo-75' },
+        ]
+      },
+      {
         text: 'Arquivos',
         items: [
           { text: 'Dossiê de Personagens', link: '/personagens' },
