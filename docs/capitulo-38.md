@@ -1,3 +1,6 @@
+---
+image: /cidade.jpg
+---
 # Capítulo 38: A Manhã Seguinte
 
 Amanheceu, mas o sol não apareceu. O "Smog" ainda cobria a cidade, agora mais denso porque os filtros de ar das torres corporativas estavam desligados. A luz era cinzenta, difusa.

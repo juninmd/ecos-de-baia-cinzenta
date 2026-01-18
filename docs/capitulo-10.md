@@ -1,3 +1,6 @@
+---
+image: /cidade.jpg
+---
 # Capítulo 10: A Fábrica de Sorrisos
 
 O Setor 4 era onde a cidade escondia suas vergonhas. Fábricas de processamento de lixo, estações de tratamento de água tóxica e, agora, segundo as pistas de Kiko Vibe, algo muito pior.

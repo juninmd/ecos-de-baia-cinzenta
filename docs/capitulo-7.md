@@ -1,3 +1,6 @@
+---
+image: /cidade.jpg
+---
 # Capítulo 7: O Fim do Silêncio
 
 O som da escopeta ecoou como um trovão na câmara subterrânea. O tiro acertou Kael no peito, fazendo o ciborgue recuar dois passos, a armadura de cerâmica rachando mas segurando o impacto.

@@ -1,3 +1,6 @@
+---
+image: /cidade.jpg
+---
 # Capítulo 33: Noite Eterna
 
 A cidade sem luz era uma criatura diferente. O que antes eram becos sombrios agora eram abismos impenetráveis. A chuva caía mais pesada, como se o céu também estivesse chorando pelo fim da era das máquinas.

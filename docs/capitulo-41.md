@@ -1,3 +1,6 @@
+---
+image: /cidade.jpg
+---
 # Capítulo 41: O Preço da Justiça
 
 A fábrica na Zona Industrial era uma relíquia. Mas agora, tudo se movia.

@@ -1,3 +1,6 @@
+---
+image: /cidade.jpg
+---
 # Capítulo 22: O Mapa da Alma
 
 A chuva batia no teto do Cobalt como balas de pequeno calibre. O carro estava estacionado sob a estrutura de um viaduto abandonado no Distrito da Névoa, longe das câmeras da Aeterna Corp, longe dos olhos brilhantes dos drones que varriam a cidade em busca do "terrorista" Gabriel Moretti.

@@ -1,3 +1,6 @@
+---
+image: /cidade.jpg
+---
 # Capítulo 29: O Código de Lázaro
 
 O elevador de serviço despencava, não descia. Valéria tinha hackeado o controle para ignorar os andares de segurança, mas a gravidade parecia ter outras ideias. As luzes da cabine piscavam, alternando entre a escuridão total e o brilho estroboscópico de emergência.

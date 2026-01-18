@@ -1,3 +1,6 @@
+---
+image: /cidade.jpg
+---
 # Capítulo 31: Ruptura Total
 
 O vento a 50 andares de altura não apenas soprava; ele espancava. Gabo amarrou Valéria em suas costas com cabos de fibra ótica trançados. Lívia prendeu a outra ponta do cabo improvisado em uma viga de aço da estrutura do servidor.

@@ -1,3 +1,6 @@
+---
+image: /beco.jpeg
+---
 # Capítulo 5: A Capela dos Esquecidos
 
 A Estação Central da Linha Vermelha fora desativada há uma década, após o grande alagamento do Setor 4. Agora, era conhecida como "A Capela". Um santuário subterrâneo para os viciados digitais, os "glitch-heads", que plugavam seus cérebros diretamente em caixas de força hackeadas para sentir a eletricidade fritar seus neurônios. Era a droga mais barata da cidade: pura voltagem.

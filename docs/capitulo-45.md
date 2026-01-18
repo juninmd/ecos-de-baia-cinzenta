@@ -1,3 +1,6 @@
+---
+image: /cidade.jpg
+---
 # Capítulo 45: O Despertar
 
 **Localização:** Desconhecida. Profundezas do Oceano Atlântico.

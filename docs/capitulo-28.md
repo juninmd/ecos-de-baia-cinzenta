@@ -1,3 +1,6 @@
+---
+image: /cidade.jpg
+---
 # Capítulo 28: A Voz na Caixa
 
 O som de metal retorcido ecoou pela câmara. Gabo ainda sentia o peso do pai nos braços, mesmo depois de tê-lo deitado suavemente sobre o piso de grade metálica. O fluido ambarino do tanque escorria, misturando-se com o sangue e a água da chuva que entrava pela claraboia estilhaçada.

@@ -1,3 +1,6 @@
+---
+image: /gabo-arma.jpeg
+---
 # Capítulo 17: O Ultimato
 
 A Torre de Transmissão de Emergência era o ponto mais alto de Baía Cinzenta, uma agulha de titânio perfurando a camada de nuvens tóxicas. Era o único lugar onde a chuva não tocava.

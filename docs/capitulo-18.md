@@ -1,3 +1,6 @@
+---
+image: /gabo-cansado.jpeg
+---
 # Capítulo 18: A Queda
 
 A luta não foi justa. Nunca é.

@@ -1,3 +1,6 @@
+---
+image: /cidade.jpg
+---
 # Capítulo 39: Dossiê Vance
 
 Não havia internet para vazar os documentos. Não havia telejornais. A "Mídia" estava morta.
