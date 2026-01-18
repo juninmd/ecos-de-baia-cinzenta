@@ -154,7 +154,7 @@
     *   **Interesse:** Arquivos antigos em papel e bibliotecas esquecidas.
 *   **Perfil Psicológico:** Obstinada e destemida. Lívia é movida por um senso de justiça tão forte quanto o de Gabo, mas acredita que a "caneta" (ou o upload) é mais forte que a espada.
 *   **Função:** Jornalista Investigativa Sênior.
-*   **Histórico:** Casada com Gabo, mas separada (o divórcio nunca foi assinado). Afastou-se dele para protegê-lo de si mesmo e para investigar a morte de Dante Moretti sem o peso emocional de Gabo atrapalhando. Foi alvo de sequestro pelo Gamemaster.
+*   **Histórico:** Casada com Gabo, mas separada (o divórcio nunca foi assinado). Fugiu da cidade durante o "Dilúvio" para levar o dossiê com provas da conspiração para autoridades fora da cúpula de censura, garantindo que a verdade sobreviva mesmo se Baía Cinzenta cair.
 
 ---
 
@@ -196,7 +196,7 @@
     *   **Vício:** Uísque barato escondido na gaveta de baixo.
 *   **Perfil Psicológico:** Resiliente e pragmático. Vilar é um homem bom em um sistema ruim.
 *   **Função:** Chefe do Departamento de Polícia.
-*   **Histórico:** Antigo parceiro e melhor amigo de Dante Moretti. Ele protege Gabo por culpa e lealdade à memória do pai, mas está chegando ao limite do que pode encobrir.
+*   **Histórico:** Antigo parceiro e melhor amigo de Dante Moretti. Ele protege Gabo por culpa e lealdade à memória do pai. Recentemente chantageado por Roberto Miranda, recusou-se a trair Gabo, consolidando sua posição como aliado inabalável da resistência.
 
 ---
 
@@ -382,5 +382,5 @@
 *   **Gostos Pessoais:**
     *   **Medo:** Luzes fortes e barulho de estática.
 *   **Perfil Psicológico:** Mente fraturada e poderosa. Aria oscila entre o medo infantil e uma sabedoria antiga e terrível conectada à Rede.
-*   **Função:** O "MacGuffin" vivo / Chave do Projeto Ecos.
-*   **Histórico:** Cobaia fugitiva da Torre de Marfim. Encontrada por Gabo em um orelhão na Zona Baixa. Ela é a prova viva dos crimes da Aeterna.
+*   **Função:** O "MacGuffin" vivo / Chave do Projeto Ecos / Sistema Operacional Orgânico.
+*   **Histórico:** Cobaia fugitiva da Torre de Marfim. Encontrada por Gabo em um orelhão na Zona Baixa. Ela é a prova viva dos crimes da Aeterna e foi revelada como o receptáculo final para a consciência digital da cidade.
