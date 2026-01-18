@@ -2,7 +2,7 @@
 
 O som da escopeta ecoou como um trovão na câmara subterrânea. O tiro acertou Kael no peito, fazendo o ciborgue recuar dois passos, a armadura de cerâmica rachando mas segurando o impacto.
 
-— Ineficiente — disse Kael, avançando novamente.
+O visor de Kael brilhou com intensidade letal. Ele avançou novamente, silencioso como a morte.
 
 Gabriel rolou para o lado, desviando de um golpe que teria decepado sua cabeça. A lâmina de Kael cortou um tubo de servidor, e gel nutriente e faíscas explodiram sobre eles.
 
@@ -20,7 +20,7 @@ O holograma de Dante Moretti observava a cena com impassividade, flutuando acima
 
 Kael agarrou Gabriel pelo pescoço e o levantou do chão. A força era esmagadora. Gabriel chutou o ar, tentando encontrar apoio, enquanto sua visão começava a escurecer.
 
-— Extração do alvo prioritária — zumbiu Kael. Ele levantou a outra mão, os dedos se transformando em bisturis finos. — Iniciando laparotomia de emergência para recuperação de dados.
+— Extração do alvo prioritária — uma voz sintética ecoou do traje de Kael. Ele levantou a outra mão, os dedos se transformando em bisturis finos. — Iniciando laparotomia de emergência para recuperação de dados.
 
 Ele ia abrir Gabriel ali mesmo para pegar o chip.
 
@@ -42,7 +42,7 @@ A distração foi suficiente. O aperto de Kael afrouxou por um segundo enquanto 
 
 A explosão arrancou o braço do ciborgue.
 
-Kael gritou — um som que era meio humano, meio estática. Ele soltou Gabriel e recuou, fluido hidráulico jorrando.
+Kael emitiu um guincho de metal torturado e estática. Ele soltou Gabriel e recuou, fluido hidráulico jorrando.
 
 — Vamos! — Gabriel agarrou Miranda, que estava sangrando de um tiro na coxa.
 

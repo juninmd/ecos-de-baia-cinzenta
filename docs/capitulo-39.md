@@ -36,6 +36,6 @@ Valéria se aproximou, segurando um jornal impresso às pressas. A manchete dizi
 
 — Eles estão chamando você de herói, Gabo.
 
-— Heróis morrem no final — disse Gabo, acendendo um cigarro. — Eu sou apenas um sobrevivente.
+— Heróis morrem no final — disse Gabo, tamborilando os dedos no coldre. — Eu sou apenas um sobrevivente.
 
 Eles caminharam de volta para o Cobalt azul. O motor pegou na primeira tentativa.

@@ -2,7 +2,7 @@
 
 Dirigir pelo Distrito Central sem a Rede de Tráfego era como navegar em um campo minado. Destroços de drones caídos, barricadas improvisadas e crateras de explosões pontuavam a avenida.
 
-Gabo dirigia com uma mão, a outra segurando um cigarro apagado entre os dedos. Lívia mantinha a pistola no colo, os olhos varrendo as sombras projetadas pelos faróis.
+Gabo dirigia com uma mão, a outra tamborilando impacientemente no volante. Lívia mantinha a pistola no colo, os olhos varrendo as sombras projetadas pelos faróis.
 
 — Pare — disse Lívia, tensa.
 
