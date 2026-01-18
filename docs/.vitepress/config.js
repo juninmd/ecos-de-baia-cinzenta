@@ -115,6 +115,21 @@ module.exports = {
         ]
       },
       {
+        text: 'Parte X: O Leilão',
+        items: [
+          { text: 'Capítulo 56: O Preço do Amanhã', link: '/capitulo-56' },
+          { text: 'Capítulo 57: Zona de Interesse', link: '/capitulo-57' },
+          { text: 'Capítulo 58: O Dilema do Capitão', link: '/capitulo-58' },
+          { text: 'Capítulo 59: A Fundação', link: '/capitulo-59' },
+          { text: 'Capítulo 60: Despejo', link: '/capitulo-60' },
+          { text: 'Capítulo 61: Tinta no Papel', link: '/capitulo-61' },
+          { text: 'Capítulo 62: O Santo e a Criança', link: '/capitulo-62' },
+          { text: 'Capítulo 63: Águas Profundas', link: '/capitulo-63' },
+          { text: 'Capítulo 64: A Cidade Fantasma', link: '/capitulo-64' },
+          { text: 'Capítulo 65: O Novo Inquilino', link: '/capitulo-65' },
+        ]
+      },
+      {
         text: 'Arquivos',
         items: [
           { text: 'Dossiê de Personagens', link: '/personagens' },

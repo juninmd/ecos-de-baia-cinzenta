@@ -65,6 +65,14 @@ Esta linha do tempo organiza os eventos históricos e narrativos do universo de 
 *   **Dia 45 do Dilúvio (Cap 54):** Gabo visita a Catedral de Ferro. Confronto com robôs policiais corrompidos (CP-Z). O exoesqueleto falha definitivamente.
 *   **Dia 46 do Dilúvio (Cap 55):** A espiã Isadora Vane tenta seduzir Gabo com a droga Lázaro. Gabo recusa e descobre que Roberto Miranda é o comandante dos robôs e torturador de Isadora. Isadora se torna agente dupla.
 
+### Parte X: O Leilão (Capítulos 56-65)
+*   **Dia 47 do Dilúvio:** Lívia Moretti foge da cidade para levar o dossiê para fora da cúpula de censura. Gabo assume a proteção total de Aria.
+*   **A Especulação:** Gabo descobre que a inundação é uma ferramenta de limpeza social para o projeto "Nova Baía". Drones mapeiam ruínas para venda.
+*   **O Dilema de Vilar (Cap 58):** O Capitão Vilar é chantageado por Roberto Miranda, mas recusa-se a trair Gabo.
+*   **A Descoberta:** Gabo, Val e Aria descobrem que a "Nova Baía" não é residencial, mas um colossal complexo de servidores para hospedar consciências digitais de ricos (Projeto Lázaro em escala urbana).
+*   **O Santo e a Criança (Cap 62):** O Santo encurrala os heróis, mas hesita ao interagir com Aria, que o chama de "irmão".
+*   **O Final (Cap 65):** Gabo e Val tentam destruir o servidor central na Represa. Marco Moretti revela que a cidade foi vendida para IAs corporativas e conecta Aria como o sistema operacional vivo. Gabo destrói o tanque de resfriamento, inundando a sala. Ao se conectar, Aria desperta uma consciência antiga na rede: Dante Moretti agora é o "proprietário" da cidade.
+
 ---
 
 ## Resumo dos Arcos
@@ -72,3 +80,4 @@ Esta linha do tempo organiza os eventos históricos e narrativos do universo de 
 *   **Arco da Aeterna (Parte I-VI):** A luta contra o controle corporativo e a IA Gamemaster. Termina com a vitória pirrica de Gabo (liberdade ao custo do caos).
 *   **Arco da Sobrevivência (Parte VII-VIII):** Lidar com as consequências da queda da tecnologia.
 *   **Arco do Dilúvio (Parte IX):** A luta contra a enchente artificial, a tirania do Prefeito Marco Moretti, a brutalidade de Roberto Miranda e seus robôs, e a busca por justiça em um mundo que está literalmente afundando.
+*   **Arco do Leilão (Parte X):** A revelação de que a cidade está sendo convertida em uma necrópole digital para a elite e entidades de IA, culminando na fusão de Aria com a rede e o retorno digital de Dante.
