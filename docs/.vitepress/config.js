@@ -100,6 +100,12 @@ module.exports = {
         ]
       },
       {
+        text: 'Parte IX: Dilúvio',
+        items: [
+          { text: 'Capítulo 46: A Maré Montante', link: '/capitulo-46' },
+        ]
+      },
+      {
         text: 'Arquivos',
         items: [
           { text: 'Dossiê de Personagens', link: '/personagens' },
