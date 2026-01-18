@@ -106,6 +106,9 @@ module.exports = {
           { text: 'Capítulo 47: Quebra de Ossos', link: '/capitulo-47' },
           { text: 'Capítulo 48: Fantasma na Máquina', link: '/capitulo-48' },
           { text: 'Capítulo 49: A Isca Perfeita', link: '/capitulo-49' },
+          { text: 'Capítulo 50: O Silêncio da Chuva', link: '/capitulo-50' },
+          { text: 'Capítulo 51: Mãos Limpas', link: '/capitulo-51' },
+          { text: 'Capítulo 52: Dívida Eterna', link: '/capitulo-52' },
         ]
       },
       {
