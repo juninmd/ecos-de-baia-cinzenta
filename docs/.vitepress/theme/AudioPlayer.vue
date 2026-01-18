@@ -7,7 +7,7 @@ const isPlaying = ref(false)
 const isPaused = ref(false)
 const synth = ref(null)
 const utterance = ref(null)
-const rate = ref(0.9)
+const rate = ref(1) // Changed default to 1x
 const availableVoices = ref([])
 const selectedVoice = ref(null)
 
@@ -127,7 +127,7 @@ const play = () => {
 }
 
 const pause = () => {
-  if (synth.value && isPlaying.value) {
+  if (synth.value) {
     synth.value.pause()
     isPaused.value = true
   }
