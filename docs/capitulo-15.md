@@ -27,13 +27,25 @@ Lá dentro, manequins quebrados cobriam o chão como cadáveres de plástico.
 
 — Não dá! Precisa de cirurgia!
 
-— Não temos cirurgião. Temos uma faca e um isqueiro.
+— O sinal... parou — sussurrou ela.
 
-Valéria olhou para ele, aterrorizada. Mas então, uma nova notificação apareceu em sua visão.
+— O Gamemaster pausou?
 
-*NOVO DESAFIO: SOBREVIVA À HORDA POR 10 MINUTOS.*
+— Não, Gabo. Eu parei.
 
-Do lado de fora, o som de sirenes. Não de polícia. De motos. Gangues. Atraídas pelo prêmio.
+Valéria olhou para suas mãos trêmulas.
+
+— Eu tentei forçar um desligamento no meu chip para eles pararem de me rastrear. Executei o comando "Kill-All" no meu kernel raiz. O código que eu escrevi na Aeterna... ele está em tudo. Nos semáforos, nas usinas, nos marcapassos.
+
+Ela olhou para a cidade escura.
+
+— Eu mandei tudo que tinha a minha assinatura desligar. E tudo nessa maldita cidade tem a minha assinatura.
+
+Todas as luzes da cidade se apagaram. Todas.
+
+O Apagão Total. Não foi um ataque terrorista. Foi um erro de cálculo.
+
+Na escuridão, o silêncio durou um segundo, antes do caos explodir. Gangues. Atraídas pelo prêmio.
 
 — Eles cercaram o prédio — disse Gabriel, espiando pelas tábuas da janela. — Val, você consegue hackear o sinal do jogo?
 
@@ -87,30 +99,29 @@ O impacto foi estrondoso. O chão cedeu sob o peso, e o mercenário, junto com s
 
 Gabriel correu para os fundos, tossindo fumaça.
 
-Ele encontrou Valéria na saída de carga. Ela estava encolhida, segurando a cabeça.
+Ele encontrou Valéria na saída de carga. Ela estava encolhida, com os punhos cerrados e os olhos fechados. Sangue escorria de seu nariz.
 
-— O sinal... parou — sussurrou ela.
+— Val? O que foi?
 
-— O quê?
+— Eu... eu consegui — sussurrou ela, a voz rouca. — Eu não aguentava mais. O sinal deles na minha cabeça... eu o reverti. Criei um feedback loop, usei a própria rede deles para fritar o servidor-mestre.
 
-— O Gamemaster... ele pausou o jogo.
+Gabriel olhou para o céu, esperando o holograma do Gamemaster, a próxima fase doentia. Mas não havia nada.
 
-— Por quê?
+— Você parou o jogo? — perguntou ele, incrédulo.
 
-Valéria apontou para o céu.
+— Eu acho que sim. O sinal... parou.
 
-Um holograma gigantesco apareceu sobre a cidade. Era um rosto mascarado.
+Mas então, um som começou. Um gemido baixo e profundo, vindo da própria cidade. As luzes começaram a piscar, primeiro nos prédios distantes, depois se aproximando, como uma onda. Um outdoor gigante de neon engasgou e morreu. Depois outro.
 
-*— PARABÉNS, JOGADORES. FASE 1 CONCLUÍDA. PREPAREM-SE PARA A FASE 2: A CIDADE SEM LEI.*
+— O que está acontecendo? — disse Gabriel.
 
-Todas as luzes da cidade se apagaram. Todas.
+Valéria olhou para as próprias mãos, horrorizada.
+— A rede do jogo estava interligada com a grade de energia da cidade. Para controlar o trânsito, as luzes... tudo. Ao sobrecarregar o servidor deles... eu acho... eu acho que criei uma sobrecarga em cascata.
+
+Como se para confirmar suas palavras, o último distrito iluminado da cidade mergulhou na escuridão. O silêncio foi substituído por uma nova onda de som: alarmes de carros, gritos distantes e, em seguida, o som inconfundível de vidro quebrando.
 
 O Apagão Total.
 
-Na escuridão, apenas os gritos e os tiros podiam ser ouvidos.
+— Eu fiz isso — sussurrou Valéria, as lágrimas começando a rolar por seu rosto. — Eu apaguei a cidade.
 
-— Eles desligaram a energia — disse Gabriel. — Sem câmeras. Sem regras.
-
-— Agora é cada um por si — disse Valéria.
-
-— Não — Gabriel segurou a mão dela. — Agora é a nossa vez de caçar.
+— Você nos salvou — disse Gabriel, a voz firme, tentando convencê-la e a si mesmo. Ele segurou a mão dela. A mão que salvara suas vidas, mas condenara a cidade ao caos. — Agora, é a nossa vez de caçar.

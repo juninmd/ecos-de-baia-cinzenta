@@ -11,7 +11,7 @@ Limusines antigravitacionais deslizavam silenciosamente até a entrada, deposita
 
 Ele precisava de um jeito de entrar. E o jeito veio na forma de um entregador de catering que parou para fumar um cigarro na doca de carga lateral.
 
-Cinco minutos depois, Gabriel vestia um uniforme branco engomado, apertado demais nos ombros, e empurrava um carrinho de canapés sintéticos de luxo pelos corredores de serviço da Torre. Ele deixou a arma no carro; os scanners biométricos teriam detectado a pólvora antes mesmo dele pisar no tapete vermelho. Mas ele manteve o distintivo no bolso interno, um talismã de autoridade que não valia nada ali dentro.
+Cinco minutos depois, Gabriel vestia um uniforme branco engomado, apertado demais nos ombros. O tecido sintético cheirava a sabão industrial barato misturado com o suor seco do último funcionário que o usara. Ele empurrava um carrinho de canapés sintéticos de luxo pelos corredores de serviço da Torre. Ele deixou a arma no carro; os scanners biométricos teriam detectado a pólvora antes mesmo dele pisar no tapete vermelho. Mas ele manteve o distintivo no bolso interno, um talismã de autoridade que não valia nada ali dentro.
 
 O salão de festas ficava no 150º andar. As paredes eram de vidro inteligente, mostrando a cidade lá embaixo como um mapa de luzes tristes. A música era suave, tocada por uma orquestra de androides indistinguíveis de humanos.
 
@@ -85,6 +85,10 @@ Uma mensagem. Criptografada. Mas a chave era a data no relógio da foto.
 
 *"Você faz muito barulho, Detetive. Se quiser respostas, pare de gritar e comece a ouvir. O Padre está esperando no confessionário. Estação Central abandonada. Linha Vermelha. Venha sozinho. Traga o perdão, ou traga munição."*
 
-Gabriel se levantou, limpando o sangue da boca. A chuva lavava a humilhação, mas deixava a fúria.
+Gabriel se levantou, limpando o sangue da boca com as costas da mão suja de lama. Ele cuspiu um coágulo escuro no asfalto molhado e tocou o lábio partido. Ardia como o inferno, mas os dentes ainda estavam todos lá.
+
+— Ótimo — resmungou, sentindo o gosto de ferro. — Menos mal.
+
+A chuva lavava a humilhação externa, mas deixava a fúria intacta.
 
 — Estação Central — murmurou ele, mancando em direção ao carro. — Miranda.

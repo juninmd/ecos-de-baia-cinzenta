@@ -15,7 +15,7 @@ Eles chegaram a uma porta de explosão, selada. Miranda conectou seu braço cibe
 
 — Maya, preciso que você intercepte os sensores térmicos — disse Gabriel pelo comunicador. — Estamos cegos aqui.
 
-— *Estou tentando, Gabo,* — a voz de Maya estava cortada. — *Mas o bloqueio da Aeterna é pesado. Eles têm um firewall vivo.*
+— *Estou nisso, Gabo,* — a voz de Maya estava tensa, o som de teclas sendo espancadas ao fundo. — *Mas o bloqueio... merda. É um Kernel Proteus v2. Eu... eu conheço essa sintaxe. Eu a escrevi. Verão de 2038, estágio júnior. Droga, por que eu fui tão eficiente?*
 
 — Vivo?
 

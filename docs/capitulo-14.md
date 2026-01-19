@@ -15,13 +15,20 @@ Ele e Valéria estavam estacionados em um furgão blindado (roubado da frota de 
 
 Valéria girou a tela para ele.
 
-— Olha isso. É um convite. Está rodando na Dark Web agora mesmo. "Caçada ao Invisível: Temporada 1".
+— Olha isso. É um convite. Está rodando na Dark Web agora mesmo. "Caçada ao Invisível: Temporada 1". Mas não é só isso. O jogo... ele é sádico. Ele usa sua vida como mecânica.
 
-Gabriel leu. Era um contrato aberto.
+Gabriel leu. Era um contrato aberto, mas com detalhes doentios.
 
 *ALVO: Gabriel Moretti (O Ex-Herói) e Valéria Cruz (A Traidora).*
 *RECOMPENSA: 10 Milhões de Créditos + Cidadania Platinum.*
 *REGRAS: Vale tudo. Transmissão obrigatória.*
+
+*CONQUISTAS ESPECIAIS:*
+*- "Café Amargo": Force o alvo a passar pela cafeteria onde ele terminou seu casamento. (Bônus: 50.000 Créditos)*
+*- "Eco do Fracasso": Neutralize os alvos no mesmo beco onde o antigo parceiro de Gabriel foi morto. (Bônus: 200.000 Créditos)*
+*- "Dose Dupla": Se a parceira atual morrer da mesma forma que a antiga, o prêmio dobra.*
+
+— Que filho da puta... — sussurrou Gabriel. Ele conhecia aqueles lugares. Eram capítulos sombrios de sua história, agora transformados em pontos de interesse num mapa de caça.
 
 — Estamos valendo dez milhões? — Gabriel sorriu sem humor. — Estou lisonjeado.
 
@@ -73,8 +80,13 @@ Ele levantou um lança-chamas.
 
 — Val, sai do carro! — gritou Gabriel.
 
-O jato de fogo atingiu o furgão. O calor foi instantâneo. Gabriel chutou a porta traseira e eles rolaram para o asfalto quente, enquanto o veículo explodia em uma bola de fogo espetacular atrás deles.
+O jato de fogo atingiu o furgão. O calor foi instantâneo. Gabriel chutou a porta traseira e eles rolaram para o asfalto quente.
 
-A multidão aplaudiu. Os drones zumbiram mais perto para pegar o melhor ângulo das queimaduras.
+Uma projeção holográfica surgiu no ar, visível para toda a rua:
+
+*CONQUISTA DESBLOQUEADA: CHURRASCO DE FAMÍLIA.*
+*BÔNUS: TRAUMA EXTRA.*
+
+A multidão aplaudiu a crueldade. Os drones zumbiram mais perto...
 
 A caçada tinha começado.

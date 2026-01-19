@@ -15,6 +15,12 @@ O oficial apontou para um beco estreito entre dois contêineres habitacionais em
 
 Gabriel engoliu rapidamente seu café, sentindo o gosto amargo descer pela garganta. Ele não queria entrar lá. Aos trinta anos, sentia-se como se tivesse setenta. Seus joelhos estalavam, e a insônia da semana passada fazia as luzes da cidade deixarem rastros em sua visão periférica.
 
+Para piorar, sua bexiga protestava. Três canecas de café na última hora estavam cobrando o preço, mas não havia onde aliviar-se ali sem contaminar a cena ou ser visto pelos drones de imprensa que zumbiam como mosquitos no perímetro. Ele cerrou os dentes.
+
+E havia o Ruído. Aquele zumbido onipresente de baixa frequência que a cidade emitia 24 horas por dia. Hoje, estava mais forte. Gabo sentiu a pressão atrás dos olhos aumentar, pulsando em compasso com os neons. Ele passou a mão pelo nariz e viu sangue na luva. "Ótimo", pensou. "Mais um pouco e meu cérebro escorre pelo ouvido."
+
+O desconforto era apenas mais um ruído de fundo.
+
 Ele avançou.
 
 O corpo estava sentado, encostado em uma parede de zinco. Era um rapaz jovem, vinte e poucos anos, vestindo roupas de segunda mão que provavelmente pertenceram a alguém da cidade alta antes de serem descartadas. Cabelo azul desbotado, tatuagens de circuitos nos braços — um ativista, provavelmente. Alguém que acreditava que podia mudar o mundo gritando em praças públicas.
@@ -37,7 +43,15 @@ Não havia olhos. As órbitas estavam preenchidas, perfeitamente encaixadas, por
 
 Ele aproximou a mão enluvada do rosto da vítima. As lentes focaram. Um leve zumbido mecânico, quase imperceptível sob o som da chuva, emanou de dentro do crânio do rapaz.
 
-— Elas ainda estão ativas — disse Gabriel, sentindo um arrepio que não tinha nada a ver com a temperatura. — Ele está transmitindo.
+— Elas ainda estão ativas — disse Gabriel, sentindo um arrepio.
+
+Ele puxou um pequeno frasco de metal do bolso do sobretudo — seu kit de reagentes portátil. Pingou uma gota de uma solução azulada na junção entre a pele e o metal da órbita. O líquido efervesceu e ficou roxo.
+
+— Polímero condutivo de grau militar — murmurou ele, limpando o resíduo. — Isso não é sucata da Vila. A conexão neural é direta.
+
+— O que isso significa? — perguntou o oficial.
+
+— Significa que ele não apenas "está transmitindo". Ele está fazendo *streaming* em 8K. Alguém assistiu a morte desse garoto em primeira pessoa.
 
 — Tem mais uma coisa, inspetor — o oficial disse, estendendo um saco de evidências. — Estava no bolso da jaqueta dele.
 

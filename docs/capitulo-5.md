@@ -43,7 +43,9 @@ Miranda jogou um pequeno chip de memória para Gabriel. Ele o pegou no ar. Era u
 
 — E você guardou isso por vinte anos? Por quê?
 
-— Porque eu sou um covarde, Gabo! — gritou Miranda, e pela primeira vez, Gabriel viu lágrimas nos olhos do traidor. — Porque eu sabia que se eu te entregasse, você iria atrás deles e morreria. E eu... eu devia isso ao Dante. Manter o filho dele vivo. Mas agora... agora não importa mais.
+— Porque eu sou um covarde, Gabo! — gritou Miranda, e pela primeira vez, Gabriel viu lágrimas nos olhos do traidor. — Porque eu sabia que se eu te entregasse, você iria atrás deles. E a Aeterna... ela não só te mata. Ela te muda. Ela pega suas melhores partes e as vende, e deixa só o lixo. Olhe para mim. Olhe para a "Maya". Ninguém sai limpo.
+
+Eu devia isso ao Dante. Manter o filho dele vivo. Mas agora... agora não importa mais.
 
 Um som agudo cortou o ar. O zumbido de propulsores.
 

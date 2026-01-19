@@ -57,6 +57,8 @@ Eles correram para a saída de serviço enquanto a sala de servidores começava 
 
 Eles saíram para a chuva fria da noite, deixando o inferno para trás. Atrás deles, uma explosão surda sacudiu o chão quando os capacitores da represa sobrecarregaram.
 
+Eles caíram na lama da margem, tossindo água podre. O cheiro do esgoto impregnava cada poro. Gabriel arrancou a camisa encharcada, a pele ardendo onde o lodo tóxico tocara. Ele ajudou Miranda a lavar o ferimento na coxa com a água da chuva, que, embora ácida, era mais limpa que o conteúdo dos túneis. Eles tremiam, não só de frio, mas de choque. A adrenalina dava lugar à náusea.
+
 ***
 
 **Dias Depois.**

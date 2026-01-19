@@ -67,23 +67,23 @@ Roberto Miranda.
 
 Mas ele estava diferente. Vestia um terno caro, limpo. Seu braço mecânico fora substituído por um modelo de última geração.
 
-— Miranda? — Gabriel baixou o sinalizador, mas manteve a mão na arma. — Achei que você tinha fugido para o Norte.
+— Miranda? — A voz de Gabriel era um fio de incredulidade. O homem que ele considerava um amigo, um parceiro de trincheira na guerra contra o sistema, estava ali, no coração da besta. — O que você fez?
 
-— O Norte é frio, Gabo. E eu gosto de calor. — Miranda sorriu. — Bem-vindos à Sala de Servidores da Realidade.
+— Eu fiz o que você não teve coragem de fazer, Gabo. Eu escolhi o lado que vence. — O sorriso de Miranda não alcançou os olhos. Havia um cansaço ali, mas também uma ponta de desprezo. — Você achou mesmo que a gente ia mudar o mundo com um blog e uma pistola? A gente reclamava da cidade doente, mas era ela que nos mantinha vivos.
 
-— Você está trabalhando para eles — cuspiu Gabriel.
+— Eles te compraram. Esse terno, esse braço... — Gabriel cuspiu as palavras. A dor da traição era mais afiada que qualquer faca. — Por quanto você vendeu sua alma, Roberto?
 
-— Eu *sou* eles. — Miranda abriu os braços. — Ou pelo menos, sou o gerente do turno da noite. O Marco Moretti acha que controla isso, mas ele é só um usuário com privilégios de admin. O verdadeiro poder... está aqui embaixo.
+— Eu não vendi,— Eu *sou* eles. — Miranda abriu os braços. — Ou pelo menos, sou o gerente do turno da noite. O Marco Moretti acha que controla isso, mas ele é só um usuário com privilégios de admin. Seu pai construiu a jaula, garoto. Eu só estou cobrando o ingresso. O verdadeiro poder... está aqui embaixo. Este lugar... — ele gesticulou para a máquina orgânica — ...é o motor da cidade. Ele funciona com os "cancelados", os indesejáveis. Nós os reciclamos. Transformamos o lixo social em poder de processamento.
 
-— O que é esse lugar? — perguntou Valéria.
+Gabriel olhou para as figuras mascaradas, para o vazio onde deveriam estar seus rostos, e sentiu o estômago gelar.
 
-— É onde as pessoas canceladas vêm morrer — disse Miranda. — Literalmente. Nós usamos a capacidade cerebral ociosa dos "indesejáveis" para processar o algoritmo de felicidade da cidade. É reciclagem, Gabo.
+— Você está usando pessoas como combustível.
 
-Gabriel olhou para as figuras mascaradas. Eram vivas, mas vazias.
+— E qual a diferença do que a cidade sempre fez? — Miranda riu, um som oco e sem alegria. — Pelo menos aqui eles têm um propósito. São úteis. Você sempre foi sentimental, Gabo. Via pessoas onde eu só via peças no tabuleiro.
 
-— Você é um monstro.
+Ele estendeu a mão, não como um convite, mas como uma ordem.
 
-— Sou um sobrevivente. E você também pode ser. — Miranda estendeu a mão. — Junte-se a nós. Devolva o chip. E eu te dou o cargo do seu pai. Comissário Vitalício de uma cidade perfeita.
+— Chega de brincar de herói. Me dê o chip do seu pai. Ele pertence ao sistema. E eu te dou uma vida de verdade, não essa caça às bruxas. Você pode ter tudo o que sempre quis. Poder, segurança... uma identidade.
 
 Gabriel olhou para Valéria. Ela estava tremendo, seus implantes começando a falhar.
 

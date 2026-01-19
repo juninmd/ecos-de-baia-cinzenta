@@ -49,7 +49,15 @@ Gabriel sentiu um gosto amargo.
 
 — Mas quem? — perguntou Gabriel. — Marco Moretti é um político, não um gênio da neurociência.
 
-— Marco é apenas o rosto — disse Nise. Ela digitou algo no teclado. — O sinal tem uma origem. Uma fonte primária.
+— Marco é apenas o rosto — disse Nise. Ela digitou algo no teclado. — O Dante sabia.
+	
+Gabriel congelou.
+	
+— O quê?
+	
+— Seu pai não estava apenas investigando, Gabriel. Ele era Consultor de Segurança Sênior. Ele assinou a autorização para os testes beta do sinal no Distrito 4. Ele achava que podia "sanear" a violência com frequência de rádio. Quando percebeu que virava controle mental, tentou voltar atrás. Mas você não se demite da Aeterna.
+	
+— O sinal tem uma origem — continuou Nise, ignorando o choque de Gabriel. — Uma fonte primária.
 
 Um mapa de Baía Cinzenta apareceu na tela. Um ponto vermelho pulsava no centro do Distrito de Prata.
 
@@ -58,6 +66,10 @@ Um mapa de Baía Cinzenta apareceu na tela. Um ponto vermelho pulsava no centro 
 — Não — disse Valéria. — Está vindo do subsolo da Torre. Dos antigos bunkers de dados.
 
 — Onde meu pai está enterrado — murmurou Gabriel. — Ou o que sobrou dele.
+
+Nise virou seu rosto cego na direção dele, e seus drones zumbiram mais perto. — Seu pai era um homem complicado, Gabriel. Ele sabia que a Aeterna estava construindo uma gaiola. Ele só não imaginava que o filho seria o pássaro. Ele sabia do sinal. Achava que podia controlá-lo.
+
+A revelação atingiu Gabriel como um soco. Seu pai, o herói da cidade, era cúmplice?
 
 De repente, o alarme de Nise disparou.
 

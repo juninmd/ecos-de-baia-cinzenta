@@ -29,7 +29,7 @@ Gabo olhou para o irmão. O ódio queimava mais forte que a dor.
 
 Ele viu o vidro da sala de servidores vibrando com a energia do upload.
 
-Gabo tateou o chão. Sua mão encontrou a "Mara" — a bazuca compacta que ele tinha arrastado consigo, mas que estava sem munição.
+Gabo tateou o chão. Sua mão encontrou a "Mara" — o lançador compacto que ele tinha arrastado consigo, mas que estava sem carga.
 
 Não, espere. Tinha uma carga. A carga EMP (Pulso Eletromagnético).
 

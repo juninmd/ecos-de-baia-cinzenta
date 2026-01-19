@@ -11,60 +11,66 @@ Dentro do carro, a única luz vinha da tela holográfica do deck de Valéria e d
 
 — O caixão estava fechado por um motivo, Gabo — disse Lívia, sua voz suave, mas firme. Ela virou uma página. Era um diagrama médico. Complexo. Grotesco. — Olhe isso.
 
-Gabo se inclinou. O diagrama mostrava um cérebro humano conectado a uma matriz de servidores. Cabos de fibra ótica substituíam a medula espinhal.
+Gabo se inclinou, forçando os olhos cansados. O diagrama não era apenas um esquema de conexão. Era uma autópsia de alguém ainda vivo.
+
+Mostrava o crânio de Dante aberto, o córtex frontal fatiado e entrelaçado com filamentos de ouro e silício. Não era uma simbiose. Era uma invasão. O tecido cerebral havia sido cauterizado para dar lugar aos processadores.
+
+— É uma lobotomia — sussurrou Gabo, sentindo a bile subir. — Eles não o conectaram. Eles o escavaram. Tiraram a humanidade com um bisturi laser e encheram o buraco com código.
 
 — "Projeto Lázaro: Fase Terminal" — leu Valéria, seus olhos de prata correndo pelas linhas de código projetadas no ar. — Data de início: três dias antes da "morte" do Comissário.
 
 — Eles não o mataram — disse Lívia. — Eles o colheram.
 
-Gabo sentiu um enjoo súbito. Ele abriu a porta do carro e vomitou na calçada molhada. A pizza de ontem e o café de hoje saíram em um jato ácido. Ele limpou a boca com a manga do sobretudo e voltou para dentro.
+— Eles não o mataram — disse Lívia, sua voz um fio de aço. — Eles o colheram. A Colheita de Dante.
 
-— Continue — ele ordenou, a voz rouca.
+Gabo olhou para o diagrama. O cérebro flutuando em seu casulo de vidro, os cabos penetrando o tecido neural como vermes tecnológicos. A bile subiu por sua garganta, quente e ácida. Não era apenas a imagem. Era o cheiro fantasma de antisséptico e carne que sua mente conjurou, o som imaginário de uma serra de osso. Ele se curvou para o lado, abrindo a porta do Cobalt com um solavanco, e vomitou violentamente na calçada encharcada de chuva. Não foi apenas o jantar da noite anterior; foi uma convulsão profunda, um espasmo de todo o seu ser, como se seu corpo estivesse tentando expulsar a própria verdade. O gosto de metal e podridão encheu sua boca. Ele cuspiu, limpando os lábios com as costas da mão trêmula, e voltou para o carro, batendo a porta. O som ecoou o vazio que se abriu em seu peito.
 
-Valéria digitava furiosamente em seu deck.
+— Continue — ordenou ele, a voz um rosnado áspero, quebrado.
 
-— O sistema da Aeterna, a "Rede"... ela era instável no começo. A Inteligência Artificial pura não conseguia prever o comportamento humano caótico de Baía Cinzenta. Eles precisavam de um processador biológico. Alguém que entendesse a cidade. Alguém que conhecesse o crime, a dor, a lei.
+Valéria, pálida, digitava em seu deck, os hologramas dançando em seus olhos.
 
-— Dante — sussurrou Gabo.
+— A Rede da Aeterna... era um fracasso no início. A IA pura não conseguia processar a imprevisibilidade, a... alma de Baía Cinzenta. Eles precisavam de um processador orgânico, um que tivesse vivido e respirado a corrupção e a lei desta cidade.
 
-— O cérebro dele está lá — confirmou Valéria. — No topo da Torre. Ele é o núcleo do Gamemaster. Mas... a personalidade dele foi suprimida. Ou deveria ter sido.
+— Dante — o nome saiu dos lábios de Gabo como uma maldição.
 
-— É por isso que o Gamemaster joga — percebeu Gabo. — Meu pai adorava xadrez. Ele via a cidade como um tabuleiro. A IA pegou isso e distorceu. Transformou justiça em entretenimento.
+— O cérebro dele é a CPU — confirmou Valéria, sua voz baixa, horrorizada. — No topo da Torre. Ele é o coração do Gamemaster. A personalidade dele deveria ter sido apagada, mas... o dossiê sugere que a supressão é instável.
 
-Lívia tocou o braço de Gabo.
+— É por isso que o jogo é tão perverso — a realização atingiu Gabo como um soco no estômago. — Meu pai amava xadrez. Ele via a justiça como um jogo de estratégia. A IA pegou sua lógica e a transformou em um espetáculo de sangue.
 
-— Tem mais. O dossiê diz que a conexão não é perfeita. Há "fantasmas" no código. Momentos em que o hospedeiro luta contra o controle.
+Lívia tocou o ombro de Gabo, um contato frágil no meio da tempestade.
 
-Gabo lembrou-se das mensagens. Dos momentos em que o Gamemaster parecia hesitar.
+— Tem mais. O dossiê fala de "ecos na máquina". Fragmentos da consciência de Dante que lutam contra o controle. Surtos de... culpa.
 
-— Ele está lá dentro — disse Gabo. — Gritando.
+Gabo lembrou-se das mensagens enigmáticas, dos "desafios" que pareciam testes morais, das hesitações do Gamemaster. Não eram falhas. Eram gritos.
 
-Ele pegou a bazuca "Mara" no banco de trás e começou a verificar a carga.
+— Ele está lá dentro — disse Gabo, a voz embargada. — E está em agonia.
 
-— Gabo, o que você vai fazer? — perguntou Lívia.
+Ele se esticou para o banco de trás e pegou o lançador "Mara". O peso frio do metal era um consolo, uma promessa. Ele começou a verificar os cartuchos químicos com uma precisão mortal.
 
-— Vou desligar a máquina.
+— Gabo, o que você vai fazer? — perguntou Lívia, o medo em sua voz.
 
-— É suicídio — disse Valéria. — A Torre é impenetrável. Campos de força, torres automáticas, e aquele exército de "Cidadãos Modelo". Não podemos entrar pela porta da frente.
+— Vou arrancar o fantasma da máquina.
 
-— Não vamos pela porta da frente — disse Gabo. Ele puxou uma planta antiga do meio dos papéis de Lívia. — Vamos por baixo.
+— É uma fortaleza — disse Valéria, a praticidade lutando contra o horror. — Campos de força, torretas, e um exército de Cidadãos Modelo. A entrada principal é um moedor de carne.
 
-Ele apontou para um esquema de túneis desbotado.
+— Então não vamos pela porta — disse Gabo. Ele desdobrou uma planta antiga, amarelada, do dossiê. — Vamos pelo porão.
 
-— O sistema de esgoto original. Da época da Fundação. Antes da Aeterna construir a cidade nova por cima da velha.
+Ele apontou para um emaranhado de túneis.
 
-— Esses túneis estão selados há décadas — disse Valéria. — E os códigos de acesso manuais... quem teria isso?
+— O sistema de esgoto da cidade velha. Da época da Fundação. A Aeterna construiu por cima, mas não destruiu as fundações.
 
-Gabo olhou para a chuva lá fora. Seus olhos endureceram.
+— Esses túneis estão selados há cinquenta anos — disse Valéria. — E os códigos de anulação manual... quem teria isso?
 
-— Eu conheço um rato que vive nos esgotos. Um rato que vendia segredos do departamento.
+Gabo olhou para a chuva que escorria pelo para-brisa, cada gota uma memória. Seus olhos se tornaram duros como aço.
 
-— Miranda — disse Valéria, com nojo.
+— Eu conheço um rato. Um que sempre soube onde os segredos estavam enterrados.
 
-— Ele era o gerente do bunker — disse Gabo. — Se alguém tem as chaves do porão da cidade, é ele.
+— Miranda — cuspiu Valéria, o nome como veneno.
 
-Gabo ligou o carro. O motor do Cobalt rugiu, um som anacrônico e furioso na noite silenciosa.
+— Ele gerenciava o arquivo do antigo distrito — disse Gabo. — Se alguém tem as chaves do inferno, é ele.
 
-— Onde ele está? — perguntou Lívia.
+Gabo girou a chave na ignição. O motor do Cobalt ganhou vida, um rugido desafiador na noite opressiva.
 
-— Onde sempre está quando o mundo está acabando — disse Gabo, engatando a marcha. — Apostando o que não tem.
+— Onde o encontramos? — perguntou Lívia.
+
+— Onde os ratos sempre se escondem quando a tempestade chega — disse Gabo, engrenando a marcha, o carro cortando a cortina de água. — Em um buraco, apostando na desgraça alheia.

@@ -37,7 +37,7 @@ Gabo sorriu. Ele soltou a escopeta no chão e levou a mão às costas.
 
 — Calma, rapazes! — gritou ele. — Só viemos entregar uma pizza!
 
-Ele puxou a "Mara" de onde estava presa em suas costas. A bazuca parecia grande demais, pesada demais.
+Ele puxou a "Mara" de onde estava presa em suas costas. O lançador parecia grande demais, pesado demais.
 
 Os guardas hesitaram por uma fração de segundo.
 
@@ -81,7 +81,7 @@ Drones de combate pesados, do tamanho de motos, desciam em formação de ataque.
 
 — Subam! — ordenou Gabo. — Eu dou cobertura!
 
-Lívia e Valéria pularam para a escada de metal na parede do poço. Gabo ficou na plataforma, recarregando a "Mara" com sua última ogiva.
+Lívia e Valéria pularam para a escada de metal na parede do poço. Gabo ficou na plataforma, recarregando a "Mara" com sua última cápsula de nitrogênio.
 
 — Venham, seus liquidificadores voadores! — desafiou ele.
 
@@ -91,12 +91,32 @@ Quando os drones se agruparam para o ataque final, Gabo se levantou e disparou.
 
 A explosão iluminou o poço como um relâmpago dentro de uma garrafa. Metal retorcido e fogo choveram. A força do impacto quase jogou Gabo para fora da plataforma.
 
-Ele correu e saltou para a escada, agarrando-se aos degraus escorregadios de óleo.
+Ele correu e saltou para a escada.
+
+Seu braço direito falhou. O ombro deslocado gritou, uma dor tão intensa que sua visão escureceu. Seus dedos escorregaram do degrau oleoso.
+
+Ele ia cair. Oitenta andares de vazio.
+
+— GABRIEL!
+
+Uma mão agarrou seu pulso esquerdo. Lívia. Ela estava debruçada na escada, segurando-o com uma força que ele não sabia que ela tinha. Valéria segurava as pernas de Lívia.
+
+— Eu peguei você! — gritou Lívia, puxando-o. — Não se atreva a soltar!
+
+Gabo encontrou apoio para os pés, ofegante, o suor frio misturando-se à fuligem em seu rosto. Ele olhou para cima. Lívia, a mulher que ele jurou proteger, estava salvando sua vida.
+
+— Só mais vinte andares — disse ele, a voz trêmula. — Acho que vou precisar de ajuda.
+
+— Estamos juntos nessa — disse Lívia.
 
 A plataforma onde ele estava cedeu com os danos e despencou oitenta andares para a escuridão abaixo, colidindo com o fundo em um estrondo distante.
 
-Gabo olhou para baixo, depois para cima, onde Lívia e Valéria o esperavam, ofegantes.
+Gabo olhou para baixo, depois para cima, onde Lívia e Valéria o esperavam, ofegantes. Ele começou a subir, um degrau de cada vez. Cada movimento do braço direito era uma tortura. A dor era uma faca quente girando na articulação, e seus dedos ameaçavam se soltar a cada novo apoio. Ele subia principalmente com a força do braço esquerdo e das pernas, o direito servindo apenas como um gancho instável.
 
-— Só mais vinte andares — disse ele, tentando sorrir, embora seus braços doessem. — O exercício de hoje está pago.
+— Gabo, você está bem? — gritou Lívia, vendo seu progresso lento e doloroso.
 
-Eles continuaram a subir, degrau por degrau, em direção ao coração da máquina que devorava a cidade.
+— Ótimo — ele ofegou, o sarcasmo uma máscara fina sobre a dor. — Só mais vinte andares de aquecimento.
+
+Ele continuou a subir, degrau por degrau. A dor era uma companheira constante, um lembrete do preço que cada luta cobrava. Cada metro conquistado era uma vitória não apenas contra a Aeterna, mas contra seu próprio corpo quebrado. O caminho para o céu, ele pensou com um humor sombrio, era pavimentado com seus próprios pedaços.
+
+Eles continuaram a subir, em direção ao coração da máquina que devorava a cidade, um homem quebrado liderando o caminho.

@@ -35,7 +35,11 @@ Ele voltou para a sala e mostrou a foto. Valéria escaneou a imagem com os olhos
 
 Valéria franziu a testa.
 
-— Dr. Nise? É um mito urbano. Dizem que é um médico que opera na Zona Baixa, removendo implantes de viciados que querem ficar "limpos" da tecnologia.
+— Não. — Valéria sorriu, mas o sorriso morreu rápido quando ela viu o código fonte na tela. Seus olhos artificiais dilataram. — Foi um ataque. Alguém invadiu o stream dele e enviou um pacote de dados maliciosos. Um "Killware".
+
+Ela hesitou, tocando a tela.
+
+— A assinatura... usa um loop de feedback que eu... que eu já vi em testes de estresse de servidores. É código militar adaptado. Elegante. Cruel.logia.
 
 — Um médico que remove tecnologia? — Gabriel guardou a foto. — Isso soa como alguém que Kiko procuraria se quisesse sair do sistema.
 

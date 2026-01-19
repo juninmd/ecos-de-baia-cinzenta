@@ -17,7 +17,21 @@ Ele girou o volante, os pneus cantando no asfalto molhado enquanto o carro derra
 
 A visibilidade era nula. Os neons da cidade se transformaram em borrões de luz difusa, fantasmas coloridos dançando na neblina. O trajeto que levaria vinte minutos agora se arrastava por quase uma hora. Cada semáforo parecia durar uma eternidade, cada cruzamento era uma armadilha potencial de água parada.
 
-Foi quando o trânsito parou completamente em uma rua lateral, bloqueado por um caminhão de lixo tombado. Gabriel desligou o motor para economizar célula de combustível e olhou pela janela, esfregando os olhos cansados.
+Foi quando o trânsito parou completamente em uma rua lateral, bloqueado por um caminhão de lixo tombado. Gabriel desligou o motor para economizar célula de combustível.
+
+Seu estômago rugiu, um som áspero que o lembrou de que não comia "comida de verdade" há quase vinte e quatro horas. Ele tateou o banco do passageiro, empurrando papéis e cartuchos vazios... e parou.
+
+Seus dedos tocaram algo frio e cilíndrico. Ele puxou.
+
+Uma ampola de vidro azulado. Lázaro. Confiscada de um garoto na semana passada e "esquecida" ali. Gabo levantou o frasco contra a luz difusa da cidade. O líquido dentro girava, hipnótico. Dizia-se que uma dose levava você para onde você mais queria estar. Para ele, isso significava um churrasco de domingo, quinze anos atrás. Seu pai rindo, a mãe viva.
+
+Ele tremeu. Seria tão fácil. Apenas um clique, uma injeção no globo ocular, e a chuva e a dor desapareceriam. Ele voltaria para casa.
+
+Gabo grunhiu, guardando a ampola no porta-luvas com violência, antes que a vontade vencesse a razão. "Não hoje, diabo. Não hoje."
+
+Ele continuou tateando até encontrar uma barra de proteína sintética pela metade. A embalagem estava rasgada. Ele mordeu a massa dura e sem sabor de chocolate artificial. Era como mastigar argamassa, mas enganaria a fome por mais algumas horas. Ele engoliu a seco, sentindo o bolo descer arranhando.
+
+Ele olhou pela janela, esfregando os olhos cansados.
 
 No canto da rua, ilhada por uma poça que mais parecia um lago, havia uma relíquia do século passado: um orelhão de telefone. A cúpula de acrílico estava rachada e coberta de pichações de gangues rivais e adesivos de serviços de acompanhantes sintéticas.
 

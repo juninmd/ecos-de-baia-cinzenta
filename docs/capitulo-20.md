@@ -21,17 +21,21 @@ O caixão de mogno de Dante Moretti estava no centro. A tampa havia sido arranca
 
 E estava vazio.
 
-Não havia corpo. Não havia ossos. Apenas um terno velho, dobrado com cuidado, e um objeto brilhante em cima dele.
+Não havia corpo. Não havia ossos. Apenas um terno velho, dobrado com uma precisão militar, e um objeto brilhante em cima dele.
 
-Gabo se aproximou. Era o distintivo de Comissário. Limpo. Polido.
+Gabo se aproximou, o braço ferido protestando a cada passo. Era o distintivo de Comissário. Limpo. Polido. Como se estivesse esperando por ele.
 
-— Ele não está aqui — disse Gabo, a voz falhando. — Ele nunca esteve aqui.
+— Ele não está aqui — disse Gabo, a voz desprovida de emoção. — Ele nunca esteve aqui. Foi tudo uma mentira. Meu luto, minha carreira... tudo uma peça de teatro.
 
-— Gabo... — Valéria tocou o braço dele. — Olha a parede.
+— Gabo... — Valéria tocou seu braço bom. — Olha a parede.
 
 Gabo virou a lanterna. Na parede de pedra da cripta, alguém havia pichado com tinta spray neon vermelha:
 
 *NÃO BUSQUE O PASSADO. SALVE O FUTURO. - D.*
+
+Gabo passou os dedos sobre a tinta seca. A curvatura do "S". O traço agressivo do "D".
+
+— É a letra dele — sussurrou ele, a voz quebrando. — Ele esteve aqui. Ele escreveu isso pra mim.
 
 E abaixo da mensagem, coordenadas.
 
@@ -41,7 +45,7 @@ E abaixo da mensagem, coordenadas.
 
 — Seu pai está trabalhando com o Gamemaster? — Valéria parecia confusa.
 
-— Não — Gabo apertou o distintivo do pai na mão até doer. — Meu pai *é* o Gamemaster. Ou alguém quer muito que eu acredite nisso.
+— Não — Gabo apertou o distintivo do pai na mão até o metal cortar a pele. — Meu pai *é* o Gamemaster. A cidade inteira... minha vida inteira... foi um jogo que ele criou. E eu cansei de jogar.
 
 De repente, o chão tremeu.
 
@@ -53,7 +57,7 @@ As portas da cripta se fecharam com um estrondo. Gás começou a sibilar das abe
 
 — Gabo, o teto! — Valéria apontou para uma rachadura antiga na pedra.
 
-Gabo uniu as mãos.
+Gabo, ignorando a dor lancinante em seu ombro, uniu as mãos.
 
 — Sobe!
 
@@ -67,8 +71,8 @@ Eles caíram na lama do lado de fora, tossindo.
 
 — Estamos vivos — ofegou Valéria.
 
-— Por enquanto — disse Gabo, olhando para o distintivo em sua mão. — Mas a família acabou de ficar menor.
+— Por enquanto — disse Gabo, olhando para o distintivo em sua mão. Ele o apertou com força, o metal frio uma âncora para sua nova e terrível clareza. — Não existe mais família.
 
-Ele se levantou.
+Ele se levantou, o corpo quebrado, mas a vontade forjada em aço.
 
-— Vamos para a Torre. Vamos terminar isso. Pai contra Filho.
+— Vamos para a Torre. Vamos terminar isso. Pai contra Filho. O fim do jogo.

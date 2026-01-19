@@ -33,31 +33,41 @@ Gabriel foi até um armário de metal e tirou uma caixa. Dentro, havia munição
 
 — Val, senta aqui.
 
-Ela sentou na cadeira velha. Gabriel pegou um bisturi do kit.
+Ela obedeceu, o maxilar travado. A confiança que ela depositava nele era um peso, uma honra. Ele pegou um bisturi esterilizado do kit.
 
 — Você disse que precisava de cirurgia para tirar o rastreador.
 
-Valéria engoliu em seco.
+Valéria engoliu em seco, o medo visível em seus olhos, mas sua voz era firme.
+
+— Você vai fazer isso? Aqui? Com uma lanterna a óleo?
+
+Ela fechou os olhos, uma lágrima solitária escorrendo por sua têmpora.
+
+— Eu confio, Gabo. Sempre confiei.
 
 — Você vai fazer isso? Aqui? Com uma lanterna de óleo?
 
-— É a única maneira de ficarmos invisíveis.
+— É. — Gabriel segurou o bisturi. A lâmina tremeu, depois parou. — Preciso que você confie em mim, Val. Mais do que já confiou em qualquer código.
 
-Ela fechou os olhos e assentiu.
+Valéria olhou nos olhos dele. Viu o medo, mas também a determinação. Ela puxou o cabelo para cima, expondo a nuca pálida e marcada por portas de conexão.
 
-— Faz.
+— Tira essa merda de mim, Gabo.
 
-A operação foi brutal e rápida. Valéria gritou, mas não desmaiou. Gabriel removeu o chip de rastreamento da base do pescoço dela e o jogou no chão, esmagando-o com a bota.
+A operação foi açougueira. Não havia anestesia, apenas um pedaço de couro para ela morder. Gabriel cortou a pele, o sangue quente cobrindo seus dedos, escorregadio e metálico. Valéria gritou, um som abafado e animal, seu corpo convulsionando. Ele teve que segurá-la com uma mão enquanto escavava com a outra, raspando no osso cervical até encontrar o implante.
 
-Ele fez um curativo e lhe deu um analgésico forte.
+Quando ele finalmente puxou o chip — um besouro preto de silício e carne — Valéria desmaiou por um segundo.
 
-— Acabou — disse ele, limpando o sangue das mãos. — Eles não sabem onde estamos.
+Gabriel jogou a coisa no chão e a esmagou com a bota, reduzindo-a a pó.
 
-Valéria respirou fundo, testando o pescoço.
+Ele fez um curativo compressivo, suas mãos manchadas de vermelho tremendo incontrolavelmente agora que tinha acabado.
 
-— O silêncio... é real agora. Ninguém na minha cabeça.
+— Acabou — sussurrou ele, limpando o rosto dela com um pano úmido. — Você é só você agora.
 
-Gabriel sentou-se na frente dela.
+Valéria abriu os olhos, vidrados de dor, mas límpidos.
+
+— O silêncio... — ela respirou, tocando a mão dele. — É a coisa mais linda que eu já ouvi. Gabriel, obrigada. Só você.
+
+Gabriel sentou-se na frente dela, o peso do que acabara de fazer assentando sobre ele.
 
 — Precisamos de um plano. O Gamemaster desligou a cidade para criar o caos, para limpar o tabuleiro. Mas ele ainda precisa transmitir o final.
 

@@ -128,16 +128,26 @@ Enquanto voltava para o vazio de sua casa alagada, Clara jurou que, se Gabo apar
 
 ***
 
-Do outro lado da cidade, no escritório seco e quente acima da oficina náutica, Gabo sentiu uma pontada súbita no peito. Ele largou a caneca de café, a mão tremendo levemente.
+Do outro lado da cidade, no escritório seco e quente acima da oficina náutica, Gabo estava debruçado sobre o mapa holográfico.
 
-— Val? — ele chamou pelo intercomunicador.
+— Val? — ele chamou, a voz tensa.
 
 — O que foi, Chefe? Achou alguma coisa sobre o Taxidermista?
 
-— Não... — Gabo esfregou o esterno, onde a angústia se alojava como uma bala velha. — Só... uma sensação ruim.
+— Achei o padrão de energia. Ele está operando na Zona Sul. Eu tenho certeza.
 
-Ele olhou para o painel de comunicações. Uma luz amarela piscava em uma linha antiga, criptografada, que ele usava para emergências familiares anos atrás. Ele pensou em verificar. Mas o holograma do mapa da cidade piscou com um novo alerta de crime.
+Gabo estendeu a mão para pegar sua jaqueta. Foi quando o painel de comunicações piscou.
 
-"Prioridades", pensou ele, engolindo dois analgésicos. "O trabalho primeiro."
+Uma luz amarela. Pulsante. Uma linha antiga, analógica, que ele mantinha criptografada para uma única finalidade: emergências familiares. Ele sabia que era Clara. Ela nunca ligava.
 
-Ele apagou a luz amarela e virou-se para o mapa, sem saber que tinha acabado de perder a última chance de dizer adeus.
+A luz piscava em ritmo com seu coração acelerado. *Atenda*, uma voz gritou em sua cabeça. *Esqueça o Taxidermista por um segundo.*
+
+Mas o holograma do mapa piscou com um novo alerta de crime na Zona Sul. Exatamente onde ele previu. Era a chance. A chance de acabar com isso. De salvar a cidade inteira, incluindo Clara e Helena.
+
+— Gabo? — chamou Val. — O carro está pronto. Você vem?
+
+Gabo olhou para a luz amarela uma última vez. Seu dedo pairou sobre o botão de atender.
+
+— Estou indo — disse ele, apagando a luz amarela e virando as costas para o painel.
+
+Ele saiu para a chuva, convencido de que estava fazendo a coisa certa, o "sacrifício necessário". Ele não sabia que aquele silêncio no rádio seria o som mais alto que ouviria pelo resto da vida.

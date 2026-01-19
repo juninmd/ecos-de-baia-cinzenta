@@ -81,38 +81,50 @@ Ela desconectou o cabo.
 
 — Podemos ir, Gabo.
 
-Gabo olhou para Miranda, que tremia no chão.
+Gabo olhou para Miranda, que tremia no chão, um patético amálgama de carne e metal quebrado.
 
-— Você ia me vender — disse Gabo. — De novo.
+— Você ia me vender — disse Gabo, a voz desprovida de emoção. — De novo.
 
-— É a natureza do jogo, Gabo — sussurrou Miranda, sorrindo com sangue nos dentes. — Alguém sempre perde.
+Miranda cuspiu um dente ensanguentado. Um riso borbulhante escapou de seus lábios.
 
-Gabo se afastou.
+— É a natureza do jogo, Gabo. Alguém sempre tem que perder para que o outro possa ganhar.
 
-— Não hoje.
+Gabo se afastou, o som de seus passos ecoando a finalidade d— Não hoje.
 
-Ele se virou para sair.
+Gabo se virou para sair.
 
-— Gabo! — gritou Miranda. — Você não pode entrar lá! O que está guardando a fundação... não é humano! Nem o Taxidermista ousa descer tão fundo!
+— Gabo! — A voz de Miranda era um gorgolejo úmido. Ele tossiu sangue preto. — O velho... Dante... ele tentou parar.
 
-Gabo parou.
+Gabo parou, mas não olhou para trás.
 
-— O que está lá embaixo, Roberto?
+— O quê?
 
-— Os erros — riu Miranda, histérico. — Os protótipos que a Aeterna descartou. Eles estão com fome, Gabo! Com fome!
+— O código... no pescoço dele... — Miranda riu, um som fraco. — Ele inseriu um erro. Um backdoor. Ele sabia que ia perder a cabeça. Ele queria que alguém desligasse. Ele queria... dormir.
 
-Gabo não respondeu. Ele desceu as escadas, Valéria em seu encalço.
+Miranda caiu para trás, os olhos fixos no teto sujo.
+
+— Aposto... no vermelho... — ele sussurrou, e morreu.
+
+Gabo fechou os olhos por um segundo., deixando Miranda para os abutres que certamente viriam.
+
+— O que está lá embaixo, Roberto? O que guarda a fundação?
+
+Miranda riu de novo, um som que se transformou em um soluço.
+
+— Os erros! Os protótipos que a Aeterna não conseguiu controlar! A primeira tentativa deles de um "anjo da guarda". Eles estão com fome, Gabo! E eles se lembram de seu criador!
+
+Gabo não respondeu. Ele desceu as escadas, Valéria em seu encalço, deixando o riso maníaco de Miranda para trás, um eco distorcido de um aviso ou talvez... um último, desesperado, ato de arrependimento.
 
 Lívia já estava no volante do Cobalt quando eles saíram.
 
 — Conseguiram? — perguntou ela.
 
-— Sim — disse Gabo, entrando no carro. — Vamos para o esgoto.
+— Sim — disse Gabo, entrando no carro. — Vamos para o inferno.
 
-Enquanto o Cobalt se afastava na chuva, Gabo olhou pelo retrovisor. As luzes de viaturas da polícia se aproximavam do "Palácio de Jade". Miranda teria que explicar o braço arrancado e o carro na sala de estar para o Capitão Vilar.
+Enquanto o Cobalt se afastava na chuva, Gabo olhou pelo retrovisor. As luzes de viaturas da polícia se aproximavam do "Palácio de Jade". Miranda teria sua própria festa particular com o Capitão Vilar.
 
-Gabo sentiu uma pontada de satisfação. Mas as palavras de Miranda ecoavam em sua mente.
+Gabo sentiu uma pontada de satisfação sombria. Mas as palavras de Miranda, seu último momento de clareza distorcida, cravaram-se em sua mente.
 
-*Os erros. Os protótipos.*
+*Se você o matar... você mata a todos nós.*
 
-O caminho para o céu passava pelo inferno.
+O caminho para a salvação estava pavimentado com mais do que apenas boas intenções.

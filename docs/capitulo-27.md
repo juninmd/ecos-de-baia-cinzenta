@@ -19,7 +19,7 @@ Gabo olhou para o vidro reforçado. Olhou para o rosto do pai. Parecia que ele e
 
 — **Não faça isso, filho** — a voz de Dante sussurrou em sua mente, projetada diretamente pelos alto-falantes. — **Se você me destruir, a Rede cai. A cidade mergulha no caos. Os hospitais param. O trânsito para. Milhares morrerão.**
 
-Gabo hesitou. A mão dele tremeu sobre o gatilho da "Mara". A bazuca estava vazia, mas ele tinha a coronha pesada. Ele tinha os explosivos plásticos que Val lhe dera.
+Gabo hesitou. A mão dele tremeu sobre o gatilho da "Mara". O lançador estava sem reagentes, mas ele tinha a coronha pesada. Ele tinha os explosivos plásticos que Val lhe dera.
 
 — É verdade? — gritou Gabo.
 

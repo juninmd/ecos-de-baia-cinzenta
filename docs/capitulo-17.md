@@ -21,19 +21,19 @@ No centro do palco, um trono. E sentado nele, uma figura mascarada.
 
 — Vamos pular o monólogo — disse Gabriel, baixando as mãos. — Eu vim fazer um acordo.
 
-— *Acordos são para quem tem algo a oferecer,* — disse a figura. — *Você não tem nada. Nem distintivo, nem arma, nem esposa.*
+— *Acordos são para quem tem algo a oferecer,* — disse a figura. — *E você, Gabriel... você não tem nada. Nem distintivo, nem arma, nem esposa. Apenas sua moralidade patética. Diga-me, quantas regras você quebrou hoje para chegar aqui? Quantos dos seus próprios princípios você pisoteou? Você se diz um herói, mas rasteja na lama como todos os outros.*
 
-— Tenho audiência — retrucou Gabriel. — E tenho uma pergunta.
+— Tenho audiência — retrucou Gabriel, ignorando a ferroada. — E tenho uma pergunta.
 
 Ele deu um passo à frente.
 
 — Quem está usando o rosto do meu pai?
 
-A plateia virtual engasgou. O Gamemaster levantou-se.
+A plateia virtual engasgou. O Gamemaster levantou-se, aplaudindo lentamente.
 
-— *Dante Moretti é um símbolo. Símbolos não pertencem a ninguém.*
+— *Ah, a Busca Pela Verdade. Tão previsível.* — A voz distorceu. — *Você não entende, Gabriel? Você não é o jogador. Você é um NPC. Um Personagem Não Jogável com um script de "Herói Trágico". Eu escrevo o roteiro, você sangra nas cenas certas. Dante Moretti é um símbolo. Símbolos não pertencem a ninguém.*
 
-— Ele pertence a mim — disse Gabriel.
+— Ele pertence a mim — disse Gabriel, entre dentes.
 
 Enquanto isso, nos dutos de ventilação, trinta metros acima, Valéria rastejava.
 

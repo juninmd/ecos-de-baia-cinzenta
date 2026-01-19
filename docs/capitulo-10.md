@@ -45,7 +45,13 @@ A imagem mostrou guardas patrulhando o interior. Mas não eram guardas comuns. E
 
 — O que são aquilo?
 
-— "Lázaros" — disse Valéria. — Viciados que sofreram a Ruptura total. A mente se foi, sobrou só o corpo. Controlados remotamente. São fortes, não sentem dor e obedecem a qualquer comando.
+— "Lázaros" — disse Valéria. Ela levou a mão à boca, segurando um acesso de vômito. — Eles... eles estão rodando o Protocolo Sincronia.
+	
+— O que é isso?
+	
+— Foi meu TCC. Era para sincronizar próteses em veteranos de guerra. Eles pegaram meu código de cura e transformaram em um marionetista. — Valéria tremia. — Viciados que sofreram a Ruptura total. A mente se foi, sobrou só o corpo. Controlados remotamente. São fortes, não sentem dor e obedecem a qualquer comando. A interface de controle, a forma como os corpos eram reanimados... era uma versão distorcida, pervertida, de um projeto em que ela trabalhou anos atrás. Um projeto para reabilitar vítimas de acidentes neurológicos. — Eles pegaram minha pesquisa... e transformaram em monstros.
+
+Gabriel a encarou, vendo a raiva impotente em seus olhos. A luta tinha acabado de se tornar pessoal para ela também.
 
 — Precisamos de uma distração.
 

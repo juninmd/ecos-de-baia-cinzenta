@@ -45,12 +45,14 @@ Gabriel disparou contra o vidro com a arma que tomara de um drone caído. O vidr
 
 Eles pularam.
 
-Não para a morte, mas para os trilhos do Maglev (trem magnético) que passava rente à torre.
+Não para a morte, mas para os trilhos do Maglev que passava rente à torre.
 
-Eles caíram no teto do trem em movimento, rolando violentamente. Gabriel segurou Valéria antes que ela escorregasse para o abismo.
+Eles caíram no teto do trem em movimento, rolando violentamente. Gabriel segurou Valéria antes que ela escorregasse para o abismo, mas o impacto cobrou o preço.
+
+Ele sentiu um estalo nauseante no ombro direito. O mundo ficou branco de dor. Seu braço pendeu inútil, o úmero deslocado, talvez fraturado. Ele gritou, o som perdido no vento do túnel.
 
 A Torre de Emergência explodiu atrás deles, um fogo de artifício de bilhões de créditos iluminando a noite.
 
-Eles estavam vivos. Machucados, quebrados, mas vivos. E tinham o núcleo.
+Eles estavam vivos. Valéria estava inteira. Mas Gabriel estava quebrado. A dor era um novo passageiro, e ela não ia descer tão cedo. Gabo embalou o braço inútil junto ao peito, a dor uma âncora pesada em sua consciência.
 
 O trem mergulhou em um túnel, levando-os de volta para a escuridão, para o subsolo, para a Zona Morta. Onde a verdade os esperava.

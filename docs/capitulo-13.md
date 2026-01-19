@@ -63,9 +63,13 @@ No bunker, os "Cancelados" arrancaram suas máscaras. Eram pessoas comuns. Jorna
 
 Eles cercaram Miranda.
 
-— Gabo... — Miranda olhou para a multidão, aterrorizado. — Me prenda. Por favor. Me leve para a delegacia.
+— Gabo... — Miranda olhou para a multidão, aterrorizado. — Me prenda. Por favor. Me leve para a delegacia. Dante vai me proteger. Ele sempre soube.
 
-Gabriel guardou a arma.
+— Gabo... — Miranda olhou para a multidão. O terror deu lugar a uma aceitação maníaca. Ele começou a rir.
+
+— Você acha que venceu? — ele cuspiu sangue. — Dante não queria salvar a cidade, Gabo. Ele queria *resetá-la*. Eu só estava seguindo o cronograma dele. Você é o executor do testamento do papai!
+
+Gabriel guardou a arma, sentindo o frio na espinha.
 
 — Sinto muito. Isso aqui não é jurisdição da polícia. É o tribunal do povo.
 
@@ -73,7 +77,7 @@ Ele deu as costas e caminhou até Valéria.
 
 — Vamos sair daqui.
 
-Enquanto eles subiam pelo elevador, os gritos de Miranda ecoaram pelo poço, logo abafados pelo som de máquinas sendo destruídas.
+Enquanto eles subiam pelo elevador, a risada de Miranda ecoou pelo poço, misturada aos gritos da multidão, até ser silenciada abruptamente.
 
 ***
 

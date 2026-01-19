@@ -27,7 +27,7 @@ Gabo sentiu o sangue ferver. Não era a raiva fria de detetive. Era ódio puro.
 
 — O que você vai fazer? — perguntou ela, pulando para o banco do motorista.
 
-Gabo foi até o porta-malas. Abriu. Lá dentro, envolta em panos oleosos, estava "Mara". Uma bazuca RPG-7, velha, soviética, ilegal em doze sistemas solares.
+Gabo foi até o porta-malas. Abriu. Lá dentro, envolta em panos oleosos, estava "Mara". Não uma arma soviética velha, mas uma monstruosidade de tubos de PVC reforçado e câmaras de pressão, pintada de preto fosco. Ilegal em qualquer jurisdição que prezasse a segurança pública.
 
 Ele colocou o foguete no tubo. O clique de travamento foi o som mais satisfatório da noite.
 

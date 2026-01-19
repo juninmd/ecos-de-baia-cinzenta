@@ -9,7 +9,7 @@ Gabriel Moretti passou por baixo da fita, o sobretudo de couro sintético pesado
 
 — Está atrasado, "Herói". O show já começou.
 
-Capitão Jonas Vilar estava parado na entrada do galpão abandonado, fumando um cigarro eletrônico que brilhava em azul no escuro. Ele parecia cansado, as rugas ao redor dos olhos mais profundas do que Gabriel lembrava.
+Gabo ignorou o comentário. Ele puxou um frasco de colírio barato do bolso e pingou duas gotas em cada olho. O arce no globo ocular foi instantâneo, uma dor aguda que limpou sua mente por um segundo. Ele piscou furiosamente, deixando as lágrimas artificiais lavarem a fuligem e o cansaço.
 
 — O trânsito no Distrito da Névoa estava um inferno, Jonas. O que temos?
 
@@ -24,6 +24,10 @@ Um rapaz, talvez dezenove anos, suspenso por fios de monofilamento invisíveis, 
 O peito havia sido aberto. As costelas, separadas cirurgicamente e mantidas abertas por afastadores de prata polida. Dentro, não havia coração, pulmões ou estômago. Havia o vazio, preenchido meticulosamente com engrenagens de relógios antigos, molas de latão e tubos de vácuo que brilhavam com uma luz âmbar fraca.
 
 — O Taxidermista — sussurrou Gabriel, sentindo o estômago revirar. Não pelo sangue, mas pela precisão. Não havia frenesi ali. Havia paciência.
+
+— Olhe o detalhe — disse Vilar, apontando para a incisão. — Ele substituiu órgãos falhos por mecanismos eternos.
+
+— "A Evolução é o nosso Negócio" — citou Gabriel, a voz pingando ácido. Era o slogan da Aeterna Corp, pintado em cada maldito dirigível da cidade. — Esse desgraçado não está apenas matando, Jonas. Ele está fazendo uma sátira. Ou pior... uma proposta de emprego.
 
 — Tem mais — disse Vilar, apontando para o rosto da vítima.
 

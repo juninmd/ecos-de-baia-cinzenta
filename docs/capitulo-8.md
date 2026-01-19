@@ -11,7 +11,9 @@ Ele estava deitado no chão de seu apartamento, encarando o teto manchado de umi
 
 Gritos, buzinas, música alta, propaganda não regulada. A liberdade era barulhenta.
 
-Gabriel rolou, sentindo as cicatrizes no estômago repuxarem. O chip ainda estava lá, encapsulado em tecido cicatricial, um tumor de dados que ele se recusava a remover.
+Gabriel rolou, sentindo as cicatrizes no estômago repuxarem. O chip ainda estava lá, encapsulado em tecido cicatricial, um tumor de dados. Às vezes, quando a cidade estava muito silenciosa, ele podia *ouvir* o chip. Não vozes, mas dados brutos. E uma frase recorrente que ele pescou de um log descriptografado: *"A sobrevivência da colônia justifica o sacrifício de 45% dos zangões. Eficiência acima de empatia."*
+
+Era a voz do seu pai. Mas sem a alma.
 
 — Café — resmungou ele.
 
