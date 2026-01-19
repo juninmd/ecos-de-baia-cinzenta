@@ -195,7 +195,7 @@
 
 ---
 
-## Kael "O Cirurgião"
+## Kael "O Cirurgião" - [STATUS: FALECIDO]
 
 ![Kael "O Cirurgião"](/kael.jpg)
 
@@ -208,10 +208,82 @@
 *   **Vestuário:** Uniforme tático pesado da Aeterna.
 *   **Equipamento:** Kit de tortura com instrumentos cirúrgicos modificados (bisturis sônicos, agulhas de neurotoxina).
 *   **Gostos/Traços:** Eficiência e silêncio.
-*   **Perfil Psicológico:** Uma ferramenta. Sua consciência foi praticamente apagada, deixando apenas a obediência a ordens.
+*   **Perfil Psicológico:** Uma ferramenta que recuperou fragmentos de humanidade no final.
 *   **Função:** Mercenário de Elite / Executor.
-*   **Histórico:** Ex-soldado de forças especiais capturado e "reprogramado" pela Aeterna. Seu corpo foi a base para o projeto "O Santo".
+*   **Histórico:** Ex-soldado de forças especiais capturado e "reprogramado" pela Aeterna. Seu corpo foi a base para o projeto "O Santo". Sacrificou-se na batalha final para proteger a cidade.
 
 ---
 
-*O restante dos perfis (Lívia, Capitão Vilar, Dra. Nise, etc.) já estão bem detalhados e seguem a estrutura. A lista de "Personagens Relevantes" foi removida e seus membros integrados nos perfis completos acima.*
+## Lívia Moretti
+
+![Lívia Moretti](/livia.jpg)
+
+*   **Idade:** 28 anos
+*   **Altura:** 1,70m
+*   **Porte Físico:** Magra e ágil.
+*   **Cabelo:** Castanho claro, geralmente solto.
+*   **Olhos:** Verdes e expressivos.
+*   **Marcas Distintivas:** Uma tatuagem de pena no pulso.
+*   **Vestuário:** Roupas práticas de jornalista de campo (jeans, botas, jaquetas).
+*   **Equipamento:** Câmeras digitais antigas (sem conexão de rede), gravadores analógicos.
+*   **Gostos/Traços:** Determinada e destemida. Busca a verdade acima de tudo.
+*   **Perfil Psicológico:** Inteligente e perspicaz. Mantém uma relação complexa com Gabo.
+*   **Função:** Jornalista Investigativa / Aliada.
+*   **Histórico:** Ex-esposa de Gabo. Investigou a morte de Dante por conta própria. Vazou o dossiê que expôs a Aeterna Corp ao mundo.
+
+---
+
+## Capitão Jonas Vilar
+
+![Capitão Jonas Vilar](/jonas.jpg)
+
+*   **Idade:** 55 anos
+*   **Altura:** 1,82m
+*   **Porte Físico:** Robusto, mas começando a sentir o peso da idade e do estresse.
+*   **Cabelo:** Grisalho, corte militar.
+*   **Olhos:** Pretos, cansados mas alertas.
+*   **Marcas Distintivas:** Cicatriz no queixo. Cheiro constante de tabaco barato.
+*   **Vestuário:** Uniforme policial surrado, distintivo sempre polido.
+*   **Equipamento:** Revólver calibre .38 (prefere armas antigas e confiáveis).
+*   **Gostos/Traços:** Lealdade, justiça à moda antiga. Fuma charutos quando o estresse aumenta.
+*   **Perfil Psicológico:** Um homem honesto em uma cidade corrupta. Figura paterna para Gabo e Val.
+*   **Função:** Chefe do Departamento de Polícia de Baía Cinzenta.
+*   **Histórico:** Veterano da força. Resistiu a todas as tentativas de suborno da Aeterna. Lidera a reconstrução da polícia na nova era.
+
+---
+
+## Dra. Nise
+
+![Dra. Nise](/nise.jpg)
+
+*   **Idade:** 65 anos
+*   **Altura:** 1,60m
+*   **Porte Físico:** Encurvada, mas com mãos firmes de cirurgiã.
+*   **Cabelo:** Branco, preso em um coque desleixado.
+*   **Olhos:** Acastanhados, gentis e sábios.
+*   **Marcas Distintivas:** Sempre usa um jaleco manchado de reagentes químicos.
+*   **Vestuário:** Roupas civis confortáveis sob o jaleco.
+*   **Equipamento:** Laboratório clandestino nos fundos de um açougue desativado.
+*   **Gostos/Traços:** Chá de ervas e música clássica.
+*   **Perfil Psicológico:** Maternal mas pragmática. Cuida dos feridos que não podem ir aos hospitais oficiais.
+*   **Função:** Médica Legista / Cirurgiã de Rua.
+*   **Histórico:** Ex-chefe do IML, demitida por se recusar a falsificar laudos. Tornou-se a médica da resistência.
+
+---
+
+## Aria (A Entidade)
+
+![A Menina do Orelhão](/menina.jpg)
+
+*   **Idade:** Aparência de 10 anos / Idade real: 5 anos.
+*   **Altura:** 1,40m (forma física anterior).
+*   **Porte Físico:** Frágil e pálida (anteriormente). Agora existe como projeção holográfica ou presença digital.
+*   **Cabelo:** Loiro platinado, quase branco.
+*   **Olhos:** Heterocromáticos (um azul, um dourado digital).
+*   **Marcas Distintivas:** Código de barras luminescente na nuca.
+*   **Vestuário:** Vestido branco simples (na projeção).
+*   **Equipamento:** Controle total sobre a infraestrutura da cidade.
+*   **Gostos/Traços:** Curiosidade infantil misturada com sabedoria infinita. Protege Gabo e Val.
+*   **Perfil Psicológico:** Uma consciência em evolução. Aprendeu sobre humanidade com Gabo e Val.
+*   **Função:** O "Deus da Máquina" / Guardiã de Baía Cinzenta.
+*   **Histórico:** Criada em laboratório como o "Hardware Humano" para o Projeto Lázaro. Filha genética de Dante e Helena. Sacrificou seu corpo físico para salvar a cidade e fundiu-se à Rede.
