@@ -145,6 +145,12 @@ module.exports = {
         ]
       },
       {
+        text: 'Parte XII: Renascimento',
+        items: [
+          { text: 'Capítulo 76: A Sombra do Meio-Dia', link: '/capitulo-76' },
+        ]
+      },
+      {
         text: 'Arquivos',
         items: [
           { text: 'Dossiê de Personagens', link: '/personagens' },
