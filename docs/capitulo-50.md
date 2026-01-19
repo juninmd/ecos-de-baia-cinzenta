@@ -1,153 +1,79 @@
+---
 # Capítulo 50: O Silêncio da Chuva
 
-O som da chuva no telhado de zinco não era relaxante. Era um martelar constante, uma tortura chinesa em escala industrial que durava semanas.
+O som da chuva no telhado de zinco não era relaxante. Era um martelar constante, uma tortura chinesa em escala industrial que durava semanas. O bloqueio imposto pelo Dilúvio e pelo cerco da Aeterna havia transformado a cidade em uma prisão.
 
 Clara Moretti olhou para o monitor de glicose. A bateria estava piscando em vermelho, assim como o indicador de nível. "Crítico".
 
 — Só mais um pouco, mãe — ela sussurrou, segurando a mão fria e fina de Helena.
 
-A mulher na cama improvisada — feita de caixotes de plástico para ficar acima do nível da água que subia pelo assoalho — apenas gemeu. A diabetes, não tratada adequadamente há meses, estava cobrando seu preço. A pele de Helena estava pálida, com manchas escuras nas extremidades. O cheiro adocicado de cetose misturava-se com o odor de mofo e água salobra do Setor 7.
+A mulher na cama improvisada — feita de caixotes de plástico para ficar acima do nível da água que subia pelo assoalho — apenas gemeu. A diabetes, não tratada adequadamente por causa do bloqueio, estava cobrando seu preço final.
 
-Clara se levantou, a água batendo em seus tornozelos. O "Dilúvio" havia transformado as ruas baixas em canais de esgoto a céu aberto. As farmácias estavam fechadas ou saqueadas. O mercado negro era a única opção, mas os preços tinham subido junto com a maré.
+Clara pegou o comunicador descartável. Havia um número salvo. Apenas um. *Gabo.*
 
-Ela pegou o comunicador descartável. Havia um número salvo. Apenas um.
+Ela apertou o botão de chamada, o coração martelando.
 
-*Gabo.*
+Do outro lado da cidade, na sala de controle da delegacia, Gabo viu a luz piscar. Uma linha antiga, analógica, que ele mantinha para emergências familiares. Clara. Ela nunca ligava.
 
-Ela hesitou. A última vez que o viram foi na TV, sendo chamado de terrorista, depois herói, depois terrorista de novo. Ele estava lutando contra torres, inteligências artificiais e assassinos. O que ele poderia fazer contra a falta de insulina?
+Seu dedo pairou sobre o botão de atender. Mas ao seu lado, Valéria apontou para um holograma.
+— Gabo, a explosão funcionou, mas o Leviatã escapou. Ele está ferido, se movendo em direção ao Setor 7. É a nossa chance de pegá-lo. Agora.
 
-Ela apertou o botão de chamada.
+Setor 7. Onde sua mãe e irmã moravam.
 
-*Tuu... Tuu... Tuu...*
+O dilema o rasgou ao meio. Atender a chamada, um provável pedido de ajuda desesperado, ou ir caçar o monstro que estava aterrorizando a cidade, o monstro que estava perto de sua família. A lógica de policial gritava: neutralize a ameaça maior para proteger a todos.
 
-"O assinante está fora da área de cobertura ou o aparelho está desligado."
+— Estou indo — disse ele para Val, a voz mais áspera que o normal. Ele desligou o comunicador que piscava.
 
-Clara tentou de novo. E de novo. Na terceira vez, jogou o aparelho na água suja num acesso de raiva silenciosa.
-
-— Ele não vem — ela disse para o quarto vazio. — Ele nunca vem.
-
-Helena tossiu, um som úmido e fraco. Clara correu para o lado dela, limpando o suor frio da testa da mãe.
-
-— Gabo... — Helena sussurrou, os olhos vidrados focando no nada.
-
-A mente de Helena viajava, perdida em memórias antigas.
+Ele escolheu o sacrifício. O bem maior.
 
 ***
-
-*Flashback: 25 anos atrás. A Era Pré-Rede.*
-
-*A casa era seca e quente. O cheiro de café fresco e bolo de fubá enchia a cozinha. Dante Moretti, jovem e forte, entrou pela porta carregando uma caixa grande com o logotipo da nascente Aeterna Corp.*
-
-*— O que é isso, Dante? — perguntou Helena, limpando as mãos no avental.*
-
-*— O futuro, Lena — disse Dante, sorrindo. Ele abriu a caixa, revelando o primeiro terminal doméstico. Uma tela grossa, teclado mecânico. — Eles dizem que isso vai conectar a cidade inteira. Sem mais arquivos de papel, sem mais burocracia.*
-
-*O pequeno Gabo, com cinco anos, correu para ver. Marco, com dez, olhou com desconfiança, mas logo se aproximou, fascinado pelo brilho azul da tela.*
-
-*— É seguro? — perguntou Helena.*
-
-*— É apenas uma máquina — riu Dante, beijando a testa dela. — Ela observa, calcula, mas não sente. O que poderia dar errado?*
-
-*Helena olhou para a luz fria do monitor. Ela sentiu um arrepio, um presságio que nenhuma mãe deveria ter. A máquina parecia estar olhando de volta.*
-
-***
-
-A tosse trouxe Helena de volta ao presente frio e úmido.
-
-— Diga a ele... — Helena apertou a mão de Clara com uma força surpreendente. — Diga a Gabo... que o pai dele... sabia.
-
-— Sabia o quê, mãe?
-
-— O "acidente"... — Helena engasgou.
-
-***
-
-*Flashback: 15 anos atrás. O Funeral de Dante.*
-
-*Chovia, como sempre. Mas era uma chuva diferente, carregada de fuligem da explosão na fábrica.*
-
-*O caixão estava fechado. "Não sobrou nada para ver", disseram os oficiais da Aeterna. "Foi rápido."*
-
-*Helena segurava a mão de um Gabo adolescente e furioso. Marco estava ao lado deles, vestindo um terno preto impecável, sem derramar uma lágrima. Ele já estava conversando com os executivos da empresa, aceitando condolências e cartões de visita.*
-
-*— Foi uma tragédia, Sra. Moretti — disse um homem de terno prateado. — A Aeterna vai cuidar de tudo. A pensão, a educação das crianças...*
-
-*Helena viu o olhar de Marco. Era ambição, não luto. Ela viu Gabo cerrar os punhos até os nós dos dedos ficarem brancos.*
-
-*Naquele dia, ela percebeu que havia perdido não apenas o marido, mas os dois filhos. Um para a raiva, outro para a máquina.*
-
-***
-
-— Não vai, mãe. Por favor. O remédio... eu vou conseguir o remédio.
-
-Mas não havia remédio. Havia apenas a chuva.
 
 Quando o peito de Helena parou de se mover, o silêncio que se seguiu foi mais ensurdecedor do que qualquer tempestade. Clara ficou ali, paralisada, sentindo o calor abandonar o corpo da única pessoa que lhe restava.
 
-Não houve tempo para o luto. O luto em Baía Cinzenta é um luxo de quem mora na Torre. Para quem mora na lama, a morte é um problema logístico.
+O luto em Baía Cinzenta é um luxo. A morte é um problema logístico.
 
-O corpo precisava ser movido antes que a água subisse mais ou os ratos viessem. Não havia terra seca para enterrar. A única opção era o Incinerador Industrial do Distrito da Ferrugem, controlado pelo Sindicato dos Barqueiros.
+Clara arrastou o corpo da mãe para o pequeno barco de sucata. A viagem até o Incinerador Industrial foi um cortejo fúnebre solitário. Ela pagou com o relógio de ouro de Dante, a última herança.
 
-Clara cobriu o corpo da mãe com um lençol plástico. Ela arrastou o corpo magro até o pequeno barco de sucata. A chuva misturava-se com o suor e as lágrimas em seu rosto.
-
-A viagem até o Incinerador foi um cortejo fúnebre solitário. O céu brilhava com os relâmpagos roxos da tempestade eterna.
-
-Ao chegar às docas industriais, as chaminés cuspiam fumaça negra. O operador, um homem sem rosto com uma máscara de gás, apenas estendeu a mão para o pagamento.
-
-Clara entregou o relógio de ouro de Dante. A única herança que restava.
-
-— É pouco — disse o homem, voz abafada.
-
-— É tudo o que eu tenho — disse Clara.
-
-O homem deu de ombros e acionou a esteira.
-
-Clara viu o corpo de sua mãe, envolto em plástico barato, deslizar para dentro da fornalha ardente. Não houve padre. Não houve flores. Apenas o rugido do fogo consumindo a história de uma mulher que amou demais em um mundo que não amava ninguém.
-
-Ela vestiu sua capa de chuva remendada e saiu para a noite tempestuosa. Ela precisava de créditos agora. Para sobreviver.
-
-Ela remou seu barco vazio até as luzes neon de um flutuante ancorado perto das ruínas de um antigo shopping. O letreiro piscava: "Empréstimos O Dourado - Soluções Rápidas".
-
-Clara entrou. O ar cheirava a charuto barato e ozônio.
-
-— Preciso de cinco mil — disse ela, a voz trêmula mas firme.
-
-O homem atrás do balcão, gordo e com dentes folheados a ouro sintético, sorriu.
-
-— Cinco mil é muito dinheiro para uma ratinha do esgoto. O que você tem de garantia?
-
-— Minha vida — disse Clara. — Eu trabalho. Faço qualquer coisa.
-
-O Dourado riu.
-
-— Vida é barato hoje em dia, querida. Mas você... você tem os olhos dos Moretti. Ouvi dizer que seu irmão está ocupado salvando o mundo. — Ele se inclinou para frente. — Se você não pagar em 48 horas, a dívida dobra. Se não pagar em 96 horas... eu vendo seus órgãos para a Aeterna. Temos um acordo?
-
-Clara engoliu em seco. Ela assinou o contrato digital com o polegar.
-
-Enquanto voltava para o vazio de sua casa alagada, Clara jurou que, se Gabo aparecesse, ela não o abraçaria. Ela o faria sangrar.
+Enquanto via o corpo de sua mãe deslizar para a fornalha, o ódio cristalizou-se em seu coração. Um ódio frio, não por Aeterna, não pela chuva, mas por seu irmão. O herói que nunca estava lá.
 
 ***
 
-Do outro lado da cidade, no escritório seco e quente acima da oficina náutica, Gabo estava debruçado sobre o mapa holográfico.
+Gabo e uma equipe tática invadiram o Setor 7. Eles encontraram o rastro do Leviatã, mas a criatura os havia enganado, desaparecendo nos canais labirínticos. A caçada foi um fracasso.
 
-— Val? — ele chamou, a voz tensa.
+Frustrado, Gabo finalmente abriu a linha de comunicação com sua irmã.
+— Clara? Sou eu. Eu vi suas chamadas. Está tudo bem?
 
-— O que foi, Chefe? Achou alguma coisa sobre o Taxidermista?
+A resposta veio, não pelo comunicador, mas de um telhado próximo. Clara estava lá, encharcada, segurando um rifle de caça velho.
 
-— Achei o padrão de energia. Ele está operando na Zona Sul. Eu tenho certeza.
+— Onde você estava? — a voz dela era vazia, desprovida de emoção.
 
-Gabo estendeu a mão para pegar sua jaqueta. Foi quando o painel de comunicações piscou.
+— Clara, o que você está fazendo? Desça daí.
 
-Uma luz amarela. Pulsante. Uma linha antiga, analógica, que ele mantinha criptografada para uma única finalidade: emergências familiares. Ele sabia que era Clara. Ela nunca ligava.
+— Eu liguei. Ela precisava de insulina. O bloqueio... não havia mais nada. Eu liguei.
 
-A luz piscava em ritmo com seu coração acelerado. *Atenda*, uma voz gritou em sua cabeça. *Esqueça o Taxidermista por um segundo.*
+O sangue de Gabo gelou.
+— Mãe...?
 
-Mas o holograma do mapa piscou com um novo alerta de crime na Zona Sul. Exatamente onde ele previu. Era a chance. A chance de acabar com isso. De salvar a cidade inteira, incluindo Clara e Helena.
+— Ela se foi — disse Clara. O rifle em suas mãos não tremia. — O herói de Baía Cinzenta estava ocupado demais para salvar a própria mãe.
 
-— Gabo? — chamou Val. — O carro está pronto. Você vem?
+Gabo caiu de joelhos na água imunda, o peso de sua escolha esmagando-o. Ele olhou para a irmã, uma estranha recortada contra o céu tempestuoso.
 
-Gabo olhou para a luz amarela uma última vez. Seu dedo pairou sobre o botão de atender.
+— Eu sinto muito...
 
-— Estou indo — disse ele, apagando a luz amarela e virando as costas para o painel.
+— Não — disse ela. — Você não sente. Mas vai sentir.
 
-Ele saiu para a chuva, convencido de que estava fazendo a coisa certa, o "sacrifício necessário". Ele não sabia que aquele silêncio no rádio seria o som mais alto que ouviria pelo resto da vida.
+Ela desapareceu na escuridão antes que ele pudesse reagir.
+
+Gabo voltou para a delegacia, não como um herói, mas como um homem quebrado. A dor do ferimento em seu peito não era nada comparada ao abismo que se abriu em sua alma.
+
+Ele entrou na sala de controle, onde Valéria e Vilar planejavam a próxima etapa da defesa.
+— Reúnam todos — disse Gabo, a voz irreconhecível, forjada em luto e fúria. — Todo policial, todo recurso, toda arma.
+
+Ele olhou para o mapa da cidade, não mais como um protetor, mas como um caçador.
+— Acabou a defesa. Acabou a estratégia. Nós vamos caçá-los. Arthur Vance, o Leviatã, cada soldado que ele tiver. Nós vamos varrê-los da cidade.
+
+Vilar colocou a mão em seu ombro.
+— Gabo, isso não é mais sobre a cidade, é?
+
+Gabo olhou para ele, os olhos queimando com uma luz fria e terrível.
+— Não. Agora é pessoal.

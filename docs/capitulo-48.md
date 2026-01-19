@@ -1,54 +1,49 @@
 ---
 layout: doc
 title: "Capítulo 48: Fantasma na Máquina"
-description: "Val assume o comando enquanto Gabo luta sua própria batalha no hospital."
+description: "Val lidera a defesa digital contra a Aeterna enquanto Gabo se recupera."
 ---
 
 # Capítulo 48: Fantasma na Máquina
 
-O bipe do monitor cardíaco era o único som na sala privada da clínica subterrânea da Dra. Nise. Era um ritmo constante, irritantemente humano, que contrastava com o caos digital que corria pelos meus olhos.
+O bipe do monitor médico era o único som na enfermaria improvisada da delegacia. Era um ritmo constante, irritantemente humano, que contrastava com o caos digital que corria pelos meus olhos.
 
-Gabo estava apagado. Sedado até a alma.
+Gabo estava deitado, o peito enfaixado, recebendo uma transfusão de sangue sintético. O ferimento era profundo, mas a Dra. Nise, que Vilar trouxera em um comboio blindado, já o havia estabilizado. Ele estava acordado, mas furioso por estar fora de ação.
 
-Eu estava sentada na poltrona de vinil rasgada no canto, meus joelhos puxados contra o peito. Meus LEDs faciais estavam em um tom azul escuro, quase preto, refletindo o modo *stealth* da minha própria ansiedade.
+— Eu deveria estar lá fora — rosnou ele, tentando se sentar.
 
-— A cirurgia foi um sucesso, Valéria — a voz da Dra. Nise veio da porta. Ela segurava uma xícara de chá fumegante. — A medula estava comprimida, não seccionada. Os nano-estimuladores vão fazer o trabalho, mas ele precisa de tempo. Semanas. Talvez meses.
+— Fica quieto, seu Rambo de posto de gasolina — eu disse, sem tirar os olhos dos hologramas que flutuavam ao meu redor. Eu estava sentada no chão, no meio da sala de servidores, transformada em meu ninho digital. — Você não serve pra nada com um buraco no peito. Eu sirvo.
 
-— Ele não tem meses, Nise — respondi, minha voz saindo metálica. Eu estava processando três feeds de notícias policiais e duas frequências de rádio criptografadas ao mesmo tempo. — Você viu o relatório da transferência?
+— O que você tem aí, Val?
 
-Nise suspirou, sentando-se na beirada da cama de Gabo. Ela ajeitou o lençol sobre ele com um carinho maternal que parecia estranho em uma ex-cirurgiã do submundo.
-— O comboio da prisão. Eu soube.
+— O hack. É da Aeterna, mas é diferente. Não é a força bruta da IA que derrubamos. Isso é... arte. Um fantasma na máquina. Ele não está tentando quebrar as portas, está abrindo as fechaduras por dentro. Ele desativou os sistemas de bombeamento de água da cidade, está redirecionando a energia para setores desabitados e, o pior de tudo...
 
-— Não foi uma falha mecânica — projetei um holograma pequeno da palma da minha mão, mostrando a filmagem granulada de uma câmera de trânsito. O caminhão blindado capotando, a porta traseira sendo cortada de dentro para fora. — O Taxidermista tinha sub-rotinas de backup. Implantes que os scanners da delegacia não pegaram porque eram feitos de polímeros orgânicos, não metal.
+Eu parei, meus dedos congelados sobre o teclado virtual.
+— Ele está no nosso sistema. Aqui. Agora.
 
-Na imagem, a figura deformada do Taxidermista mancava para longe dos destroços, desaparecendo na neblina do Distrito da Névoa.
+— Impossível! Eu reforcei o firewall na semana passada!
 
-— Ele vai vir atrás dele — eu disse, desligando o holograma. — Ele é obsessivo. Gabo quebrou a "obra-prima" dele. Ele quer terminar o serviço.
+— Seu firewall é um muro de tijolos. Ele veio pelo encanamento — projetei um holograma para Gabo ver. Linhas de código fluíam como uma cachoeira. — Ele usou a rede de manutenção dos semáforos para criar um backdoor. Ele está caçando informações. Nossas posições, nossos recursos, nossos nomes.
 
-— Então precisamos mover o Gabo — Nise começou a se levantar.
+Gabo cerrou os punhos.
+— O Imperador... Arthur Vance. Ele está no comando.
 
-— Não — cortei. — Se movermos ele, ele acorda. Se ele acordar, ele vai tentar lutar. E se ele tentar lutar nesse estado, ele vai ficar em uma cadeira de rodas para sempre.
+— Exato. E ele está jogando xadrez enquanto nós jogamos damas. Ele não quer só destruir a cidade. Ele quer controlá-la.
 
-Olhei para o rosto de Gabo. Sem a carranca habitual, ele parecia mais jovem. E vulnerável. Ele passou a vida inteira protegendo essa cidade ingrata. Protegendo a mim.
+Eu me levantei, meus LEDs faciais brilhando em um tom laranja de concentração total.
+— Preciso de acesso irrestrito. Vilar me deu o controle da rede da polícia, mas preciso de mais. Preciso da rede civil. Energia, trânsito, comunicações. Tudo.
 
-Eu me levantei. Meus coturnos fizeram um som pesado no chão de linóleo.
-— Ele fica. Eu vou.
+— Isso é poder demais, Val.
 
-— Val... — Nise avisou. — Ele não é um hacker de script. Ele é um monstro que desmembra pessoas com ferramentas industriais.
+— E estamos enfrentando um poder que não vemos há cinquenta anos! — retruquei. — Gabo, você luta contra os monstros lá fora. Eu luto contra o monstro que está em todo lugar. Confia em mim.
 
-— Eu não vou brigar com ele, Nise — sorri, e meus LEDs piscaram em um rosa perigoso. — Eu não sou o Gabo. Eu não dou socos. Eu dou *Enter*.
+Ele olhou para mim, a dor do ferimento misturada com a frustração. Ele sabia que eu estava certa.
+— O que você vai fazer?
 
-Puxei meu deck de pulso e conectei o cabo à porta de dados atrás da minha orelha. A torrente de informações inundou meu cérebro. Câmeras de segurança, sensores térmicos de esgoto, logs de consumo de energia de fábricas abandonadas.
+— O Leviatã disse que a maré vai subir. Eu vou construir uma barragem digital. Vou caçar esse fantasma e trancá-lo em uma garrafa. Vou usar a própria rede dele contra ele.
 
-Se o Taxidermista queria brincar de médico, eu ia mostrar a ele como se faz uma cirurgia invasiva.
+Puxei meu deck de pulso e conectei um cabo de fibra óptica diretamente na espinha dorsal da rede da cidade. A torrente de informações inundou meu cérebro. Era um oceano de dados, e em algum lugar nele, um tubarão estava à espreita.
 
-— Onde estão as chaves do Cobalt? — perguntei.
+— Hora de pescar — murmurei, meus olhos brilhando com a luz dos dados.
 
-Nise apontou para a mesa de cabeceira.
-— Val, tenha cuidado.
-
-Peguei as chaves. O chaveiro era um pequeno distintivo de plástico barato que eu tinha dado a Gabo no meu primeiro dia.
-
-— Cuidado é para quem tem corpo biológico 100% funcional — falei, já hackeando o sistema de ignição remota do carro, estacionado três quarteirões acima. — Eu tenho backup na nuvem.
-
-Saí da sala, deixando o fantasma de Gabo descansar. Agora, a cidade era minha. E eu ia limpar o lixo.
+Gabo recostou-se, impotente. Ele era um homem de ação, preso a uma cama. Agora, a guerra não seria vencida com balas, mas com bytes. E a general, por enquanto, era eu.
