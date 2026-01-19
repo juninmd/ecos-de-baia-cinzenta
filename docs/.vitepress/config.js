@@ -148,6 +148,7 @@ module.exports = {
         text: 'Parte XII: Renascimento',
         items: [
           { text: 'Capítulo 76: A Sombra do Meio-Dia', link: '/capitulo-76' },
+          { text: 'Capítulo 77: Anjos da Morte', link: '/capitulo-77' },
         ]
       },
       {

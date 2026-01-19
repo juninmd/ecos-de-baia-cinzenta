@@ -84,6 +84,10 @@ Esta linha do tempo organiza os eventos históricos e narrativos do universo de 
 *   **O Sacrifício:** Aria sacrifica sua forma física para se tornar uma "Entidade" onipresente na rede, salvando a cidade do ataque orbital ao redirecioná-lo para a base submarina dos vilões.
 *   **O Novo Amanhecer:** A Aeterna fale, o Consórcio é exposto, e Gabo e Val recomeçam como detetives em uma cidade protegida por uma IA benevolente.
 
+### Parte XII: Renascimento (Capítulos 76-...)
+*   **A Sombra do Meio-Dia (Cap 76):** Um novo mistério "analógico" surge sob o sol do meio-dia. Um assassinato impossível e sombras que se movem de forma independente.
+*   **Anjos da Morte (Cap 77):** Gabo e Val investigam uma série de mortes no Hospital Central. Descobrem uma rede de técnicos usando toxinas orgânicas ("O Toque Invisível") para matar pacientes e "alimentar o silêncio", driblando a vigilância de Aria.
+
 ---
 
 ## Resumo dos Arcos
@@ -93,3 +97,4 @@ Esta linha do tempo organiza os eventos históricos e narrativos do universo de 
 *   **Arco do Dilúvio (Parte IX):** A luta contra a enchente artificial, a tirania do Prefeito Marco Moretti, a brutalidade de Roberto Miranda e seus robôs, e a busca por justiça em um mundo que está literalmente afundando.
 *   **Arco do Leilão (Parte X):** A revelação de que a cidade está sendo convertida em uma necrópole digital para a elite e entidades de IA, culminando na fusão de Aria com a rede e o retorno digital de Dante.
 *   **Arco da Redenção (Parte XI):** A batalha final pela alma da cidade, a transformação de Dante e Aria em guardiões digitais e a restauração de um equilíbrio frágil, mas esperançoso.
+*   **Arco do Renascimento (Parte XII):** A paz é desafiada por ameaças analógicas e sobrenaturais que escapam à onisciência da nova Entidade (Aria).
