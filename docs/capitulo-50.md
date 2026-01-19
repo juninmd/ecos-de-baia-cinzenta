@@ -1,4 +1,6 @@
 ---
+image: /cidade.jpg
+---
 # Capítulo 50: O Silêncio da Chuva
 
 O som da chuva no telhado de zinco não era relaxante. Era um martelar constante, uma tortura chinesa em escala industrial que durava semanas. O bloqueio imposto pelo Dilúvio e pelo cerco da Aeterna havia transformado a cidade em uma prisão.
