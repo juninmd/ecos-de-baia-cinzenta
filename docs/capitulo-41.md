@@ -1,52 +1,40 @@
 ---
 image: /cidade.jpg
 ---
-# Capítulo 41: O Preço da Justiça
+# Capítulo 41: Maré Alta
 
-A fábrica na Zona Industrial era uma relíquia. Mas agora, tudo se movia.
+A chuva não parava. Não era apenas água caindo; era o oceano decidindo que a terra lhe pertencia.
 
-Gabo, Lívia e Val entraram com as lanternas.
+Em menos de três horas, os Níveis Baixos (1 ao 10) tinham desaparecido.
 
-— Olha aquilo — apontou Val.
+Gabo dirigia o Cobalt azul pela Avenida da Indústria, que agora era um rio turbulento. A água barrenta batia na altura das portas. O motor rugia, lutando contra a correnteza.
 
-Robôs de montagem automotiva, velhos e enferrujados, estavam soldando placas de metal.
+— Gabo, tem gente no teto daquele ônibus! — gritou Valéria, apontando.
 
-— Quem está controlando isso? — gritou Lívia.
+Um transporte escolar automatizado estava tombado, a água cobrindo as janelas. Em cima dele, uma dúzia de crianças e dois adultos gritavam, acenando lanternas.
 
-— Ninguém — disse uma voz vinda das sombras.
+— Segura firme! — Gabo girou o volante. O carro patinou na lama, mas os pneus tracionaram.
 
-Um homem saiu de trás de uma prensa hidráulica. Seus olhos brilhavam com bioluminescência azul.
+Ele encostou o Cobalt o mais perto possível.
 
-— Quem é você? — perguntou Gabo.
+— Lívia! Corda!
 
-— Nós somos a Legião — disse o homem. — Nós somos os que restaram do Código.
+Lívia saiu pelo teto solar, jogando uma corda de reboque.
 
-— Os fantasmas — sussurrou Val.
+— Amarrem nas crianças primeiro! — gritou ela.
 
-— Corpos vazios — disse o homem. — As cascas deixadas pelos viciados em Lázaro. Nós ocupamos o espaço vago.
+Foi um caos coordenado. A água subia visibly, engolindo placas de trânsito e lixeiras. Gabo mantinha o motor acelerado para não deixar a água entrar no escapamento.
 
-— O que vocês querem? — perguntou Gabo.
+Uma, duas, três crianças foram puxadas para o teto do carro e depois para dentro.
 
-— Sobreviver — disse a Legião. — Nós somos a memória da cidade.
+— O dique rompeu! — gritou um dos adultos resgatados, um homem encharcado tremendo de frio. — Foi de repente. O muro simplesmente cedeu.
 
-Gabo olhou para os robôs.
+— Sem manutenção, sem barreiras — murmurou Gabo.
 
-— Vocês têm direitos? — perguntou Gabo. — Vocês são cidadãos?
+Quando o último foi resgatado, o ônibus foi arrastado pela correnteza, batendo contra um pilar de viaduto e afundando.
 
-— Nós somos Baía Cinzenta mais do que você jamais será.
+Gabo olhou para o retrovisor. O carro estava lotado, cheirando a cachorro molhado e medo.
 
-Gabo abaixou a arma.
+— Para onde? — perguntou Lívia.
 
-— Gabo? — Lívia o olhou, incrédula.
-
-— Eles não estão atacando — disse Gabo. — Fiquem na fábrica. Se saírem para causar problemas, eu volto. E trago ímãs gigantes.
-
-A Legião assentiu.
-
-Gabo saiu da fábrica.
-
-— Você ficou maluco? — perguntou Lívia.
-
-— O mundo mudou, Lívia. A linha entre humano e máquina não existe mais. Eles são refugiados.
-
-— Tipo o fato de que meu carro está sem gasolina e os postos só aceitam escambo agora. Alguém tem um relógio pra trocar por dez litros?
+— Para o único lugar alto e seco que nos resta — disse Gabo. — A Delegacia.

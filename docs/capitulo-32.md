@@ -1,60 +1,60 @@
 ---
 image: /cidade.jpg
 ---
-# Capítulo 32: Queda Livre
+# Capítulo 32: O Vazio do Silêncio
 
-Descer 28 andares de escada com uma perna quebrada e carregando uma pessoa ferida é um tipo especial de inferno. Gabo já não sentia o joelho; a adrenalina e a dor tinham se fundido em um zumbido constante.
+Descer 28 andares de escada com uma perna quebrada e carregando uma pessoa ferida é um tipo especial de inferno. Gabo já não sentia o joelho; a adrenalina e a dor tinham se fundido em um zumbido branco e furioso em sua mente.
 
-A escadaria estava lotada. Pessoas gritavam, empurravam, tropeçavam. A escuridão era quebrada apenas pelas luzes de celulares e algumas lanternas de emergência fracas.
+A escadaria era um pandemônio. Pessoas gritavam, empurravam, tropeçavam na escuridão quase total, quebrada apenas por flashes de celulares e lanternas de emergência fracas.
 
-— Saiam da frente! — gritava Lívia, abrindo caminho com a coronha da pistola. — Polícia!
+— Saiam da frente! — gritava Lívia, usando a coronha da pistola para forçar passagem. — Polícia!
 
-Ninguém ligava. O pânico era absoluto.
+A palavra não significava mais nada. O pânico era a única autoridade ali.
 
-No 15º andar, a multidão estancou. As portas corta-fogo estavam trancadas eletronicamente e, sem energia, não abriam.
+No 15º andar, a multidão parou, espremida contra as portas corta-fogo. Trancadas eletronicamente. Mortas.
 
-— Estamos presos! — gritou uma mulher. — Vamos morrer aqui!
+— Estamos presos! — gritou uma mulher, a voz estridente de pavor. — Vamos morrer aqui!
 
 — Afastem-se! — rugiu Gabo.
 
-Ele colocou Val no chão, encostada na parede. Mancou até a porta. As dobradiças eram internas. O painel eletrônico estava morto.
+Ele colocou Val no chão com cuidado. Mancou até a porta. As dobradiças eram internas, o painel eletrônico, inútil.
 
-— Lívia, a "Vilha" — pediu Gabo.
+— Lívia, a "Vilha" — pediu ele, estendendo a mão.
 
-— Está sem munição — lembrou ela.
+— Sem munição — lembrou ela.
 
-— Não preciso atirar. Preciso de uma alavanca.
+— Não preciso de balas. Preciso de uma alavanca.
 
-Gabo encaixou o cano da escopeta na fresta da porta. Lívia ajudou. Juntos, fizeram força. O metal rangeu.
+Gabo encaixou o cano da escopeta na fresta da porta. Lívia o ajudou. Juntos, fizeram força, os músculos tensos. O metal gemeu em protesto.
 
-— Um... dois... três!
+— Um... dois... TRÊS!
 
-A porta cedeu com um estalo, abrindo apenas o suficiente para passar uma pessoa de cada vez.
+A porta cedeu com um estalo metálico, abrindo uma fresta estreita. A multidão avançou como uma onda, quase esmagando-os.
 
-A multidão avançou como uma onda, quase esmagando Gabo e Lívia.
-
-— Calma! — gritou Gabo, empurrando um executivo que tentava passar por cima de uma criança. — Animais! Comportem-se como gente!
+— Calma! — gritou Gabo, agarrando um executivo pelo colarinho e o jogando para trás. — Comportem-se como gente!
 
 Eles esperaram o fluxo diminuir antes de pegar Val e continuar a descida.
 
-Quando chegaram ao térreo, o saguão da Aeterna Tower era uma cena de apocalipse. As portas giratórias de vidro estavam estilhaçadas. A rua lá fora estava tomada por uma multidão confusa. Carros autônomos parados no meio da via, buzinando inutilmente.
+Quando finalmente alcançaram o térreo, o saguão da Aeterna Tower era uma cena de apocalipse. As portas de vidro estavam estilhaçadas. A rua, uma massa de gente confusa e desorientada. Carros autônomos, agora tijolos inúteis, bloqueavam a via, suas buzinas presas em um lamento eletrônico que logo silenciou.
 
-Mas o mais assustador não era o caos. Era o céu.
+Mas o mais assustador não era o caos visual. Era a ausência de som.
 
-Sem a poluição luminosa dos hologramas e dos neons, sem os holofotes da torre, a noite de Baía Cinzenta era de um negrume absoluto. Não se via um palmo à frente do nariz sem uma lanterna.
+O "Ruído", aquele zumbido onipresente de dados, tráfego e vida eletrônica que todos haviam aprendido a ignorar, desaparecera. O silêncio que ficou não era paz. Era um vácuo. Um vazio sensorial tão profundo que causava vertigem.
 
-E o silêncio.
+O zumbido constante do "Ruído", aquela frequência que todos aprenderam a ignorar, tinha sumido. A ausência dele deixava um vazio físico nos ouvidos, uma tontura violenta.
 
-O zumbido constante do "Ruído", aquela frequência que todos aprenderam a ignorar, tinha sumido. A ausência dele deixava um vazio físico nos ouvidos, uma tontura. As pessoas na rua colocavam as mãos na cabeça, desorientadas, como se tivessem acabado de sair de um show de rock muito alto.
+Ao redor deles, pessoas caíam de joelhos, vomitando. Não era apenas medo. Era abstinência. O labirinto de seus ouvidos, acostumado com a pressão constante da Rede, estava em colapso.
 
-— O Ruído parou — disse Val, a voz fraca. — Estamos limpos.
+— O Ruído parou — disse Val, segurando a cabeça com as duas mãos, balançando. — Gabo... o mundo está girando.
 
-Gabo olhou para a rua escura e chuvosa.
+— Respirem! — ordenou Gabo, embora ele mesmo sentisse o chão inclinar. — É só o silêncio. Vocês nunca ouviram o silêncio antes. Ele é pesado.
 
-— Estamos cegos — corrigiu ele. — E agora começa a verdadeira selva.
+Gabo sentiu a própria bile subir. Ele se apoiou em um pilar, respirando fundo, lutando contra a tontura. Olhou para a rua escura e chuvosa.
 
-Um tiro ecoou na escuridão, seguido de gritos. O saque tinha começado.
+— Estamos perdidos — corrigiu ele. — E agora a verdadeira selva começa.
 
-— Precisamos sair da avenida principal — disse Gabo. — Vamos para os becos. Conheço o caminho até o metrô abandonado.
+Um tiro ecoou na escuridão, seguido por gritos agudos. O saque já havia começado.
 
-Eles mergulharam na sombra, deixando a torre moribunda para trás.
+— Precisamos sair da avenida — disse Gabo, recuperando o equilíbrio. — Becos. Conheço o caminho para o metrô abandonado.
+
+Eles mergulharam na sombra, deixando a torre moribunda e a cidade nauseada para trás.

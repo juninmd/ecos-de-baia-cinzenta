@@ -1,44 +1,46 @@
 ---
 image: /cidade.jpg
 ---
-# Capítulo 42: Fantasmas da Cidade
+# Capítulo 42: O Campo de Refugiados
 
-As semanas seguintes foram de uma reconstrução lenta. A cidade aprendia a viver sem a Rede.
+A Delegacia Central do Setor 4 não era mais um prédio da lei. Era um barco salva-vidas de concreto.
 
-Valéria estava passando por uma crise de abstinência brutal. Sem a conexão neural constante, ela se sentia surda.
+O saguão estava coberto de colchões improvisados. Famílias inteiras se amontoavam nos corredores. O cheiro era uma mistura densa de roupas molhadas, sopa comunitária e antisséptico barato.
 
-Gabo a encontrou no telhado do prédio dele.
+Gabo entrou mancando, carregando uma caixa de suprimentos que saquearam de um mercado abandonado.
 
-— Dói? — perguntou ele.
+Lívia estava no centro do comando, gritando ordens. Ela não usava distintivo, usava uma braçadeira vermelha improvisada.
 
-— É como se faltasse um pedaço do meu cérebro — disse ela.
+— Eu disse triagem médica no segundo andar! — gritava ela para um grupo de voluntários. — Casos de hipotermia na sala de interrogatório 1! Febre na sala 2! E alguém consiga mais baldes para as goteiras!
 
-— Você é Valéria Cruz — disse Gabo. — A melhor hacker que eu conheço.
+Ela viu Gabo e correu até ele.
 
-Lívia subiu ao telhado. Ela não usava mais o uniforme da polícia.
+— Como está lá fora?
 
-— Tenho novidades — disse ela. — O julgamento da Vance foi marcado. Tribunal Internacional. Vão levá-la para Genebra.
+— Pior — disse Gabo, largando a caixa. — A água chegou no Nível 15. A Zona Industrial já era.
 
-— Longe daqui — disse Gabo. — Bom.
+— Temos trezentas pessoas aqui, Gabo. A comida dura dois dias. A água potável... talvez um.
 
-— E eu... — Lívia hesitou. — Eu recebi uma oferta. Para ir junto. Testemunha chave. E depois... talvez um cargo na Interpol.
+— Jonas? — perguntou Gabo.
 
-Gabo olhou para ela. Ele sabia que Baía Cinzenta era pequena demais para Lívia.
+— Está no telhado tentando consertar a antena de rádio. Ele acha que pode pedir ajuda para as Cidades Altas.
 
-— Você deve ir — disse ele.
+Gabo riu, sem humor.
 
-— E deixar vocês?
+— As Cidades Altas devem estar ocupadas construindo muros para não deixarem a gente entrar.
 
-— Nós somos ratos de esgoto, Lívia — disse Gabo, sorrindo. — Você nasceu para brilhar em lugares limpos.
+Valéria apareceu, segurando um tablet com a tela rachada.
 
-Ela o abraçou.
+— Gabo, Lívia... temos um problema maior que a comida.
 
-— Não morra, Moretti.
+— O que pode ser maior que morrer de fome?
 
-— Sem promessas.
+— Morrer envenenado. Os sensores químicos que restaram na rede mesh local estão gritando. A água que está subindo não é só chuva e mar. Ela lavou os depósitos químicos da Aeterna no subsolo.
 
-Lívia desceu as escadas. Gabo e Val ficaram olhando a cidade.
+Val mostrou o gráfico. Vermelho sangue.
 
-— Só sobrou a gente — disse Val.
+— Mercúrio, chumbo, resíduos experimentais. Essa água é tóxica. Quem beber... morre em horas.
 
-— E a cidade — completou Gabo. — Sempre sobra a cidade.
+Gabo olhou para as famílias bebendo a água da chuva coletada em lonas lá fora.
+
+— Merda.

@@ -1,88 +1,68 @@
 ---
 image: /cidade.jpg
 ---
-# Capítulo 27: O Pai, O Filho e a Máquina
+# Capítulo 27: O Filho Sacrifica o Pai
 
-A sala de servidores era um inferno de lasers e balas. As torres automatizadas disparavam sem parar. Valéria estava atrás de um console, digitando com uma mão e segurando o ombro sangrando com a outra. Lívia disparava sua pistola contra os sensores das torres, tentando cegá-las.
+A sala de servidores era um pandemônio. Lasers das torres de defesa cortavam o ar, transformando os racks de metal em queijo suíço. Valéria, com o ombro sangrando, digitava freneticamente em um console, tentando criar uma brecha. Lívia a cobria, seus tiros precisos cegando os sensores ópticos de uma torre por vez.
 
-Gabo corria em direção ao tanque central, esquivando-se dos disparos. Seu sobretudo estava rasgado, seu corpo cheio de cortes, mas ele não parava.
+Gabo não via nada disso. Seu mundo se resumia ao cilindro de vidro no centro da sala e ao homem flutuando lá dentro.
 
-— **VOCÊ NÃO PODE PARAR O FUTURO** — trovejou a voz do Gamemaster. — **EU SOU A EVOLUÇÃO.**
+— **VOCÊ ESTÁ DESTRUINDO A ORDEM POR UM CAPRICHO SENTIMENTAL** — a voz do Gamemaster era uma tempestade nos alto-falantes. — **MILHARES MORRERÃO NO CAOS.**
 
-Gabo chegou à base do tanque. O corpo de Dante flutuava serenamente lá dentro, alheio ao caos.
+Ele alcançou a base do tanque. O corpo de Dante estava sereno, mas o cérebro acima dele pulsava em fúria.
 
-— Val! — gritou Gabo. — Como eu desligo?!
+— Val! Como desligo essa coisa?! — gritou Gabo por cima do barulho.
 
-— Não tem botão de desligar! — gritou Valéria. — Ele é o sistema! Você tem que destruir o núcleo! O tanque!
+— Não tem um botão! — gritou Valéria de volta. — O sistema é descentralizado, mas o núcleo de processamento... o cérebro... precisa do suporte de vida do corpo! Você tem que... oh, Deus... você tem que desligar o suporte de vida dele. Manualmente.
 
-Gabo olhou para o vidro reforçado. Olhou para o rosto do pai. Parecia que ele estava apenas dormindo. Se ele quebrasse aquele vidro, se ele destruísse o suporte de vida... seria ele quem mataria Dante Moretti. Pela segunda e última vez.
+Valéria apontou para um painel de controle na base do tanque, protegido por uma cobertura de acrílico. Mostrava os sinais vitais de Dante. Batimento cardíaco, fluxo sanguíneo, oxigenação. Tudo artificial.
 
-— **Não faça isso, filho** — a voz de Dante sussurrou em sua mente, projetada diretamente pelos alto-falantes. — **Se você me destruir, a Rede cai. A cidade mergulha no caos. Os hospitais param. O trânsito para. Milhares morrerão.**
+Gabo estilhaçou a cobertura com a coronha da escopeta. Seus dedos pairaram sobre os controles.
 
-Gabo hesitou. A mão dele tremeu sobre o gatilho da "Mara". O lançador estava sem reagentes, mas ele tinha a coronha pesada. Ele tinha os explosivos plásticos que Val lhe dera.
+— **Filho, não** — a voz que saiu dos alto-falantes não era a do Gamemaster. Era a voz de Dante. Não a simulação, mas a consciência presa, falando através da máquina. Era fraca, cheia de estática, mas inconfundivelmente dele. — **Por favor. Eu estou com medo.**
 
-— É verdade? — gritou Gabo.
+Gabo congelou. A mão dele tremia.
 
-— Sim! — respondeu Valéria. — Ele controla tudo! Se ele cair, Baía Cinzenta volta para a Idade da Pedra!
+— Pai?
 
-Gabo olhou para Lívia. Ela estava recarregando a arma, o rosto sujo de fuligem.
+— **Eu não quero morrer de novo, Gabriel** — a voz choramingou. — **Aqui... eu ainda existo. Eu vejo seus passos, eu ouço suas vitórias. Eu tenho orgulho de você. Se você desligar... será o nada. O silêncio. Por favor, filho. Tenha piedade.**
 
-— A liberdade tem um preço, Gabo! — gritou ela. — Vale a pena viver numa jaula dourada?
+Lívia olhou para Gabo, o rosto contorcido em agonia. — Gabo, não escuta! É a máquina!
 
-— **Eu trouxe a paz!** — insistiu o Gamemaster.
+— Não é! — gritou Gabo, lágrimas escorrendo pelo seu rosto. — Sou eu, pai. Sou eu.
 
-— Você trouxe controle! — gritou Gabo. — Você tirou nossa escolha!
+Ele olhou para o rosto do pai no tanque. E pela primeira vez, viu uma contração de dor. Uma expressão de súplica. A máquina estava usando a consciência de Dante, forçando-o a implorar pela própria vida.
 
-Ele olhou para o pai uma última vez. E viu, ou imaginou ver, uma lágrima flutuando no fluido, saindo do olho fechado de Dante.
+— **Eu te amo, meu filho. Não me mate** — a voz de Dante era um sussurro que cortava mais fundo que qualquer bala.
 
-*Liberta-me*, pareceu dizer o rosto sereno.
+Gabo fechou os olhos, o coração se partindo em mil pedaços. Ele se lembrou do que seu pai verdadeiro lhe ensinou: "Às vezes, o ato de maior amor é o de maior crueldade."
 
-Gabo armou os explosivos no vidro do tanque.
+— Eu também te amo, pai — sussurrou Gabo. — É por isso que eu tenho que fazer isso.
 
-— A cidade vai sobreviver — disse Gabo. — Nós somos baratas, lembra? Nós sobrevivemos a tudo. Até à liberdade.
+Com um grito que rasgou sua própria alma, ele bateu a mão no painel, desligando um por um os suportes.
 
-Ele se afastou.
+*FLUXO SANGUÍNEO: OFFLINE.*
+*OXIGENAÇÃO: OFFLINE.*
+*ESTIMULAÇÃO NEURAL: OFFLINE.*
 
-— **NÃO!**
+A voz de Dante se transformou em um grito eletrônico de agonia, que diminuiu até virar um gemido e, por fim, silêncio. O cérebro no tanque parou de pulsar. Sua luz se apagou.
 
-Gabo apertou o detonador.
+As torres de defesa congelaram. As luzes da sala piscaram e morreram, substituídas por um vermelho de emergência. O zumbido dos servidores desceu para um silêncio mortal.
 
-A explosão foi abafada, mas devastadora. O vidro temperado estilhaçou. O fluido ambarino jorrou para fora, inundando o chão.
+O corpo de Dante Moretti afundou lentamente no fluido escuro, não mais um rei, apenas um cadáver.
 
-O corpo de Dante Moretti caiu do tanque, deslizando pelos cabos arrebentados, e aterrissou nos braços de Gabo.
+Gabo caiu de joelhos, o som de seu próprio soluço ecoando na quietude. Ele não apenas derrotou o vilão. Ele matou o próprio pai. Com as próprias mãos.
 
-As luzes da sala piscaram violentamente. As torres de defesa pararam, congeladas no meio do movimento. O som ensurdecedor dos servidores morrendo encheu o ar – um gemido eletrônico descendente.
+Lá fora, as luzes de Baía Cinzenta piscaram uma última vez e se apagaram. A cidade mergulhou na escuridão total.
 
-Gabo segurou o corpo frágil e envelhecido do pai. Dante abriu os olhos por um segundo. Olhos reais. Sem brilho digital.
+O Blackout.
 
-— Gabriel... — sussurrou a voz verdadeira, fraca como um suspiro. — Acabou a chuva?
+Gabo se levantou, vazio por dentro. Ele olhou para a janela, para a cidade agora cega.
 
-Gabo olhou para cima. O teto da torre tinha uma claraboia. Através dela, a tempestade eterna continuava. Mas pela primeira vez, parecia apenas... chuva. Água caindo do céu. Limpa.
+— E agora? — perguntou Lívia, a voz suave na escuridão.
 
-— Sim, pai — mentiu Gabo, chorando. — O céu está azul.
+— Agora... — disse Gabo, a voz quebrada, mas com um fio de aço por baixo. — Agora nós o honramos. Vivendo. De verdade.
 
-Dante sorriu e fechou os olhos. Seu peito parou de subir.
+Ele se virou para as duas. Sua nova família, forjada no fogo e na perda.
 
-A luz vermelha do Gamemaster nos monitores se apagou. A tela ficou preta.
-
-Silêncio.
-
-Valéria se aproximou, mancando. Lívia veio logo atrás. Elas olharam para Gabo segurando o pai morto no meio dos destroços da máquina de Deus.
-
-De repente, lá fora, as luzes da cidade piscaram e se apagaram. O "Blackout" total.
-
-Gabo se levantou, deixando o corpo de Dante descansar finalmente.
-
-— E agora? — perguntou Lívia, na escuridão.
-
-Gabo caminhou até a janela quebrada da torre. O vento uivava. A cidade lá embaixo era um oceano de sombras, pontilhada apenas por fogueiras e luzes de emergência independentes.
-
-O caos começaria em breve. Saques, medo, anarquia. A "Ressaca Digital" seria brutal.
-
-Mas era o caos deles. Não o roteiro de uma máquina.
-
-— Agora? — disse Gabo, recarregando sua escopeta com o último cartucho. — Agora nós descemos. E ensinamos essa cidade a viver de verdade outra vez.
-
-Ele olhou para Val e Lívia. Sua família.
-
-— Vamos para casa. Tenho uma pizzaria para assaltar no caminho. Estou morrendo de fome.
+— Vamos para casa.

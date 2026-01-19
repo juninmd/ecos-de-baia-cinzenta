@@ -1,44 +1,52 @@
 ---
 image: /cidade.jpg
 ---
-# Capítulo 37: A Última Bala
+# Capítulo 37: A Linha Azul
 
-O som do disparo foi ensurdecedor no escritório pequeno.
+O primeiro coquetel molotov atingiu as barricadas de concreto lá fora dez minutos depois. O fogo iluminou a noite sem lua, revelando a horda do Sindicato avançando pela avenida. Eram centenas. Motoqueiros, punks aprimorados, mercenários.
 
-Mas não foi a arma de Roberto que disparou. Foi a de Gabo.
+— Eles estão vindo! — gritou um sargento na janela.
 
-Um único tiro de escopeta à queima-roupa. Roberto Miranda foi jogado contra a parede, a cadeira virando. O buraco no peito era definitivo. A pistola dele caiu no chão, inútil.
+Gabo estava no saguão, usando um megafone que achara no arsenal.
 
-Gabo ficou parado, a arma fumegante na mão. O cheiro de pólvora queimada encheu a sala, mascarando o cheiro do uísque. Ele não sentia triunfo. Não sentia raiva. Apenas um cansaço infinito.
+— Escutem! — Sua voz ecoou, rouca e autoritária. — Eles acham que porque as luzes apagaram, a lei acabou. Eles acham que somos presas fáceis. Jonas ia vender vocês. Eu não vou.
 
-Lívia correu para checar o pulso de Roberto, por hábito.
+Os policiais olharam para Jonas, que estava encolhido em um canto, desarmado sob a vigilância de Lívia. Depois olharam para Gabo.
 
-— Ele se foi — disse ela.
+— Nós temos munição — continuou Gabo. — Temos paredes grossas. E temos algo que eles não têm: disciplina. Ninguém entra aqui. Ninguém passa por essa porta. Hoje, nós desenhamos a linha.
 
-Gabo olhou para o Capitão Jonas, que tremia na cadeira, os olhos arregalados, o rosto salpicado de sangue.
+Um rugido de aprovação subiu dos homens cansados. Era desesperado, mas era real.
 
-— Desamarre ele — disse Gabo para Lívia.
+— Posições! — gritou Lívia, assumindo o comando tático com naturalidade. — Atiradores no segundo andar! Contenção no saguão! Equipe Charlie, cubra os fundos!
 
-— Gabo, ele é corrupto — protestou Lívia.
+O tiroteio começou instantes depois. Foi ensurdecedor. Balas picavam a fachada da delegacia, arrancando pedaços de concreto. Vidros estilhaçavam.
 
-— Ele é o Capitão — disse Gabo. — E nós precisamos da delegacia. Precisamos de um lugar seguro para a Val e para tratar minha perna. Jonas, se você quiser viver, vai colocar seus homens para proteger este prédio e distribuir suprimentos para a população. Entendeu?
+Gabo se posicionou atrás de uma coluna no saguão, a "Vilha" pronta.
 
-Jonas assentiu freneticamente.
+— Val, você está segura? — gritou ele pelo rádio de curta distância.
 
-— Sim... sim, Moretti. O que você quiser.
+— Estou no cofre de evidências com os civis! — respondeu Val, a voz distorcida pela estática. — Gabo, o scanner sísmico do meu implante está pegando vibrações pesadas. Tem um caminhão vindo! Eles vão tentar arrombar a entrada!
 
-— Ótimo. E Jonas?
+Gabo olhou pela fresta da barricada. Um caminhão de lixo blindado com chapas de aço acelerava pela rua deserta, direto para as portas principais.
 
-— Sim?
+— Lívia! O lançador de gás! — gritou Gabo.
 
-— Se você vender alguém para o Sindicato de novo... eu volto. E eu ainda tenho cartuchos na "Vilha".
+Lívia apareceu na varanda interna do segundo andar, com um lançador de granadas de gás lacrimogêneo de 40mm.
 
-Gabo se virou e caminhou até o corpo de Roberto. Ele se abaixou e fechou os olhos do ex-parceiro. Pegou o maço de cigarros do bolso da camisa de Roberto. Estava vazio.
+— Coma isso! — gritou ela, disparando.
 
-— Idiota — murmurou Gabo.
+A granada traçou um arco perfeito e entrou pela janela quebrada da cabine do caminhão. A fumaça branca explodiu lá dentro. O caminhão guinou violentamente para a esquerda, derrapando no asfalto molhado. Ele bateu com estrondo em um poste de luz, derrubando-o, e parou a poucos metros da entrada.
 
-Lívia começou a limpar a ferida no joelho de Gabo com o uísque que restara na outra garrafa de Roberto. Valéria, sentada no canto, chorava silenciosamente.
+As barricadas aguentaram.
 
-A noite lá fora continuava escura e cheia de tiros, mas dentro da delegacia, uma nova ordem começava a se formar.
+Gabo avançou, mancando, atirando nos mercenários que tentavam usar a carcaça do caminhão como cobertura.
 
-Eles passaram a noite ali. Gabo dormiu sentado, a escopeta no colo, sonhando com chuva limpa.
+*BAM! BAM!*
+
+Cada tiro da 12 era um trovão que fazia os inimigos recuarem.
+
+— RECUAR! — gritou alguém lá fora. — ELES ESTÃO ARMADOS PESADO!
+
+O cerco durou a noite toda. Ataque após ataque, onda após onda. Mas quando o sol cinzento nasceu, iluminando as cápsulas de balas que cobriam o chão como um tapete de latão, a delegacia ainda estava de pé.
+
+A linha azul não tinha sido cruzada.

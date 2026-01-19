@@ -1,44 +1,48 @@
 ---
 image: /cidade.jpg
 ---
-# Capítulo 44: Ecos
+# Capítulo 44: O Que Saiu do Ralo
 
-Gabo dirigia pela orla. O mar cinzento batia contra o cais de concreto.
+O depósito da Alfândega era um labirinto de containers empilhados. A água batia nos joelhos de Gabo e Lívia enquanto eles avançavam com as lanternas táticas.
 
-Ele parou o carro e olhou para a silhueta da Torre Aeterna no horizonte. Ela estava escura, uma lápide gigante para a arrogância humana.
+— Ali — apontou Lívia. — Containers marcados com a cruz vermelha. Suprimentos médicos.
 
-Ele pensou no pai. Em Lívia, agora na Europa. Em Roberto, enterrado na lama.
+Eles avançaram. O silêncio era quebrado apenas pelo som da água e da chuva no telhado de zinco.
 
-O rádio do carro chiou.
+De repente, um barulho de metal sendo rasgado.
 
-— *Gabo?* — era a voz de Val. — *Você não vai acreditar nisso.*
+Gabo parou, levantando a mão.
 
-— O quê?
+Algo estava se movendo na água à frente deles. Não era um saqueador. O movimento era... errado. Rápido demais. Fluido demais.
 
-— *Recebi um sinal. Criptografado. Frequência antiga.*
+Uma forma humanaoide emergiu de trás de um container. Tinha pele cinza, sem pelos. Guelras pulsavam no pescoço. Os olhos eram totalmente negros, sem esclera.
 
-— Da Aeterna?
+— O que é isso? — sussurrou Lívia.
 
-— *Não. Do seu pai.*
+A criatura sibilou, abrindo uma boca cheia de dentes de agulha.
 
-Gabo congelou.
+— Experimentos — disse Gabo, destravando a escopeta. — Aeterna Labs. Quando os laboratórios inundaram... eles abriram as jaulas.
 
-— Val, meu pai está morto. Eu o enterrei.
+A criatura saltou. Era incrivelmente rápida.
 
-— *Eu sei. Mas a assinatura digital é dele. E tem coordenadas.*
+Gabo disparou. O tiro acertou o ombro da aberração, jogando-a na água escura. Sangue azulado manchou a superfície.
 
-Gabo olhou para o mar.
+Mas outras surgiram. Três, quatro, cinco delas. Rastejando pelas laterais dos containers como lagartixas.
 
-— Onde?
+— Pegue a atropina! — gritou Gabo. — Eu seguro eles!
 
-— *No meio do oceano. Numa plataforma de petróleo abandonada. O "Ponto Zero".*
+— São muitos!
 
-Gabo desligou o rádio. Ele olhou para o reflexo de seus olhos no retrovisor. Olhos cansados. Olhos de vidro.
+— PEGA A PORRA DA CAIXA!
 
-Ele engatou a primeira marcha.
+Ele disparou de novo, explodindo a cabeça de um que tentava flanquear Lívia.
 
-— Nunca acaba — murmurou ele, sorrindo. — Ainda bem.
+Eles eram rápidos, mas Gabo tinha o ódio. E uma calibre 12.
 
-O Cobalt azul acelerou, rasgando a chuva, indo em direção ao desconhecido.
+Foi um massacre lamacento. Gabo recarregava e atirava num ritmo frenético, seu joelho gritando a cada recuo. Lívia arrastou duas caixas de suprimentos para o barco.
 
-A chuva continuava a cair, lavando os pecados de Baía Cinzenta. Mas os ecos... os ecos nunca morrem.
+— VAMOS! — gritou ela, ligando o motor.
+
+Gabo deu um último tiro e pulou para dentro do barco. Eles aceleraram, deixando para trás os gritos gorgolejantes das criaturas que devoravam seus próprios mortos.
+
+— Eles não vão ficar no porto — disse Gabo, ofegante, limpando o sangue azul do rosto. — Eles vão vir para onde tem comida. Para os refúgios.

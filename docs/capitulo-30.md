@@ -1,72 +1,62 @@
 ---
 image: /cidade.jpg
 ---
-# Capítulo 30: Sacrifício de Sangue
+# Capítulo 30: O Preço da Liberdade
 
-O corredor do nível 50 virou uma zona de guerra. Gabo usava o servidor tombado como escudo, as balas arrancando lascas de metal e faíscas que queimavam sua pele. Ele não tinha mais munição para a escopeta, estava usando uma pistola que pegara de um segurança caído.
+O corredor do Nível 70 se transformou em um matadouro de metal e luz. Gabo e Lívia usavam os racks de servidores como barricadas, o ar sibilando com o fogo cruzado. Os guardas da Aeterna, equipados com o melhor que o dinheiro podia comprar, avançavam implacavelmente.
 
-— Eles estão flanqueando! — gritou Lívia, trocando o carregador de sua arma. — São muitos!
+— O upload está em 50%! — gritou Valéria por cima do barulho, os dedos dançando sobre o teclado. — A rede da cidade está começando a se desfazer!
 
-Kael, "O Cirurgião", surgiu da fumaça como um demônio de aço. Ele usava um exoesqueleto leve, e em vez de uma mão, tinha uma lâmina cirúrgica vibratória acoplada ao braço direito. Ele não corria, ele caminhava, desviando das balas com movimentos desumanos.
+Então, os guardas pararam. Eles abriram caminho para uma figura que caminhava calmamente através da fumaça e dos flashes de disparo.
 
-— Moretti — sibilou Kael, a voz amplificada por um sintetizador. — A Dra. Vance manda lembranças.
+Kael, "O Cirurgião".
 
-Gabo se levantou e disparou três vezes. Duas balas atingiram o peito de Kael, ricocheteando na armadura. A terceira acertou o visor do capacete, rachando-o, mas não penetrando.
+Seu novo corpo era uma obra-prima do aprimoramento ilegal. Um exoesqueleto de combate que se movia com a graça de um predador, e no lugar de seu braço direito, uma lâmina de osso de cerâmica, longa e serrilhada, que vibrava com um zumbido baixo e mortal.
 
-Kael avançou, a lâmina zunindo em direção ao pescoço de Gabo. Gabo bloqueou com o cabo do machado de incêndio. O metal gritou, faíscas voaram. A força do golpe jogou Gabo contra a parede.
+— Moretti — a voz de Kael, filtrada por um sintetizador, era fria como o metal de seu corpo. — A Dra. Vance me enviou para coletar o que lhe é devido. Sua dor.
 
-— Val! — gritou Gabo, lutando para manter a lâmina longe de sua garganta. — Quanto tempo?!
+Gabo se levantou da cobertura e disparou. As balas ricochetearam no peito de Kael como chuva. Ele nem sequer vacilou. Com uma velocidade assustadora, Kael avançou, a lâmina cortando o ar.
 
-— 90%!! — gritou Val, sem tirar os olhos da tela. — Os fantasmas estão saindo! A Rede está colapsando com o tráfego!
+Gabo tentou bloquear com sua escopeta vazia, mas a lâmina de Kael a partiu em duas. O golpe seguinte foi um chute lateral que quebrou as costelas de Gabo e o jogou contra um painel de vidro, que se estilhaçou com o impacto.
 
-Lívia pulou nas costas de Kael, tentando enfiar uma faca na junção do pescoço da armadura. Kael girou, jogando-a longe como se fosse uma boneca de pano. Ela bateu contra um rack de servidores e caiu imóvel.
+Lívia atacou Kael por trás, mas ele a agarrou pelo pescoço e a arremessou contra a parede oposta. Ela caiu, desacordada.
 
-— LÍVIA! — gritou Gabo.
+Kael se virou para Gabo, que tentava se levantar, cuspindo sangue.
 
-A distração custou caro. Kael chutou o joelho de Gabo, que ouviu um estalo nauseante. Ele caiu, gritando de dor.
+— Você tirou o brinquedo favorito dela — sibilou Kael, aproximando-se. — Agora, vou tirar o seu. Sua capacidade de andar.
 
-Kael levantou a lâmina para o golpe final.
+Ele ergueu a lâmina. Gabo rolou para o lado, mas não foi rápido o suficiente. A lâmina desceu com uma força esmagadora, atravessando a perna de Gabo logo abaixo do joelho.
 
-De repente, as telas ao redor deles explodiram em luz branca.
+O som foi um estalo úmido e nauseante de osso e metal se partindo.
 
-**"UPLOAD CONCLUÍDO."**
+A dor foi um sol branco que explodiu na mente de Gabo. Ele gritou, um som animal, primal. Sua perna direita, do joelho para baixo, estava... errada. Torcida em um ângulo impossível, presa ao resto do corpo apenas por tiras de músculo e pele.
 
-Val arrancou o cabo de conexão e correu. Não para a saída, mas para Kael. Ela segurava um dispositivo improvisado – uma bateria de servidor sobrecarregada.
+Kael riu, um som áspero e sintético. Ele levantou a lâmina para o golpe final, mirando no pescoço de Gabo.
 
-— SAI DE PERTO DELE! — gritou Val.
+— **UPLOAD CONCLUÍDO** — anunciou a voz de Valéria, não pelo corredor, mas por todos os alto-falantes ao mesmo tempo. — **ADEUS, ESCRAVIDÃO.**
 
-Ela se jogou contra Kael, detonando a bateria.
+As telas explodiram em luz branca. Os rostos dos fantasmas digitais olharam para Kael por um instante, e então desapareceram, substituídos por uma única palavra: **LIVRES**.
 
-A explosão eletromagnética foi contida, mas devastadora para qualquer coisa cibernética. O exoesqueleto de Kael travou instantaneamente. Seus implantes oculares estouraram. Ele caiu duro no chão, debatendo-se como um peixe fora d'água enquanto seus sistemas fritavam.
+A própria torre pareceu gritar quando a infraestrutura que a sustentava foi arrancada. Luzes de emergência explodiram. Cabos de energia estalaram como chicotes, soltando arcos de eletricidade. O chão tremeu.
 
-Val foi jogada para trás pela força da explosão, batendo a cabeça com força no chão de metal.
+A sobrecarga atingiu Kael em cheio. Seu exoesqueleto travou, faíscas jorrando de suas articulações. Seus implantes ópticos explodiram, e ele caiu de joelhos, cego e paralisado, antes de tombar para o lado como uma estátua de metal.
 
-Gabo se arrastou até ela, ignorando a dor no joelho.
+Gabo, em agonia, se arrastou pelo chão, deixando um rastro de sangue. Ele pegou um cabo de energia que se contorcia no chão como uma serpente elétrica.
 
-— Val! Val!
+Com um último esforço, ele o pressionou contra o capacete de Kael. O cheiro de metal queimado e carne cozida encheu o ar. O Cirurgião teve sua última convulsão e ficou quieto.
 
-Ela abriu os olhos. O implante em seu rosto estava apagado, queimado. Metade do seu rosto estava chamuscado.
+Valéria correu até Gabo, o rosto pálido de horror ao ver sua perna.
 
-— Eu... desconectei... — sussurrou ela. — O silêncio... é bom.
+— Gabo! Meu Deus!
 
-— Você conseguiu, garota. Você conseguiu — disse Gabo, segurando a mão dela.
+— Lívia... — ofegou ele, a consciência se esvaindo. — Veja a Lívia...
 
-Lívia se mexeu nos destroços, gemendo. Ela estava viva.
+Valéria correu até a parceira caída, que começava a se mexer, gemendo. Ela estava viva.
 
-Gabo olhou para o corredor. Os outros guardas recuaram, seus comunicadores e armas inteligentes inutilizados pelo pulso EMP localizado.
+Val voltou para Gabo, tentando estancar o sangue com as mãos. — Temos que sair daqui! A torre está colapsando!
 
-— Temos que sair daqui — disse Gabo, levantando Val com dificuldade. — Antes que a purga comece.
+Gabo olhou para a sua perna destruída. Ele riu, um som borbulhante e delirante. Ele finalmente entendera. O preço da liberdade não era a dor. Era um pedaço de si mesmo. Um sacrifício de sangue para pagar pelos pecados da cidade.
 
-— Gabo... — Val apontou para o painel da porta de segurança. — O EMP... fritou o circuito da porta. Ela travou.
+— Eles estão livres, Val — sussurrou ele, enquanto a escuridão o envolvia. — Diga a eles... que valeu a pena.
 
-Eles estavam presos no nível 50. E o gás começaria em três minutos.
-
-Gabo olhou para a janela de vidro reforçado que dava para o exterior da torre. Lá fora, a chuva caía. 50 andares de altura.
-
-— Lívia, pega os cabos de rede! — ordenou Gabo. — Vamos fazer rapel.
-
-— Com a Val desse jeito? E sua perna? — perguntou Lívia, mancando até eles.
-
-— É isso ou respirar veneno — disse Gabo, quebrando a janela com o machado. O vento uivante invadiu a sala, trazendo a chuva fria.
-
-Era uma loucura. Mas era a única saída.
+Ele desmaiou nos braços dela, enquanto o som da torre morrendo era o único som no novo silêncio de Baía Cinzenta.

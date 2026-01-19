@@ -1,44 +1,50 @@
 ---
 image: /cidade.jpg
 ---
-# Capítulo 33: Noite Eterna
+# Capítulo 33: A Sabedoria da Ferrugem
 
-A cidade sem luz era uma criatura diferente. O que antes eram becos sombrios agora eram abismos impenetráveis. A chuva caía mais pesada, como se o céu também estivesse chorando pelo fim da era das máquinas.
+A cidade sem luz era uma criatura diferente, um labirinto de concreto e sombras. O que antes eram becos familiares agora eram abismos impenetráveis. A chuva caía mais pesada, lavando a fuligem de uma era que acabara de morrer.
 
-Gabo, Lívia e Val avançavam tateando as paredes de tijolo molhado. A única luz vinha da lanterna tática da pistola de Lívia, cujo feixe cortava a escuridão como uma lâmina.
+Gabo, Lívia e Val avançavam rente às paredes de tijolo molhado. A única luz vinha da lanterna tática da pistola de Lívia, um feixe solitário que cortava a escuridão como uma lâmina cirúrgica.
 
-— Precisamos do carro — disse Gabo, parando para respirar. O joelho latejava. — Eu deixei o Cobalt num estacionamento subterrâneo na Rua 4, antes de me entregar.
+— Precisamos do carro — disse Gabo, parando para respirar, a dor no joelho uma brasa latejante. — Deixei o Cobalt num estacionamento subterrâneo na Rua 4. Uma lata velha que ninguém daria valor.
 
-— Está a cinco quarteirões — disse Lívia, consultando o mapa mental da cidade, já que seu GPS estava morto. — É arriscado.
+— Está a cinco quarteirões daqui — disse Lívia, seu mapa mental da cidade funcionando perfeitamente, ao contrário dos GPS inúteis. — É uma aposta.
 
-— Mais arriscado que andar a pé com uma perna quebrada e uma hacker cega? — retrucou Gabo. — Além disso, tenho suprimentos no porta-malas.
+— Mais arriscado que virar estatística? — retrucou Gabo. — Tenho suprimentos no porta-malas. E o mais importante: ele funciona sem a Rede.
 
-Eles avançaram. O "Apagão" tinha transformado as ruas em uma terra de ninguém. Carros autônomos parados bloqueavam as vias. Lojas saqueadas. Gritos distantes.
+A aposta valia a pena. Eles avançaram pela escuridão, um mundo transformado em terra de ninguém. Carros autônomos, silenciosos e mortos, bloqueavam as vias como lápides. Lojas saqueadas, com vitrines quebradas como bocas famintas. Gritos distantes e o som de vidro quebrando eram a nova trilha sonora da cidade.
 
-Quando chegaram ao estacionamento, o portão automático estava travado.
+O portão automático do estacionamento estava, como esperado, travado.
 
 — Val? — Gabo olhou para ela.
 
-— Sem energia, sem hack — disse ela, tateando a grade. — Mas posso tentar um curto-circuito no motor da corrente se tivermos uma bateria.
+— Sem energia, sem hack — disse ela, os dedos tateando a grade fria. — Se tivéssemos uma bateria de 12 volts, talvez eu pudesse dar um curto no motor da corrente.
 
-— Esquece — disse Gabo. — Lívia, me ajuda.
+— Plano B — disse Gabo. — Lívia, sua vez.
 
-Eles forçaram o portão pequeno de pedestres. Estava emperrado, mas cedeu com um chute bem dado de Lívia.
+Eles forçaram o portão de pedestres. Emperrado pela ferrugem, ele cedeu com um chute certeiro de Lívia no ponto certo.
 
-Desceram a rampa escura. O cheiro de mofo e óleo era reconfortante para Gabo. Lá no fundo, coberto de poeira, estava o Cobalt azul metálico. Uma relíquia analógica em um mundo digital morto.
+Desceram a rampa escura, o ar pesado com o cheiro de mofo, óleo e concreto úmido. Para Gabo, era o cheiro de um santuário. E lá no fundo, coberto por uma fina camada de poeira, estava ele: o Cobalt azul metálico. Uma relíquia. Um dinossauro.
 
-Gabo mancou até o carro e passou a mão no capô.
+Gabo mancou até o carro e passou a mão no capô. A poeira cobria o metal frio.
 
 — Oi, garota. Sentiu minha falta?
 
-Ele destrancou a porta com a chave física. O motor de combustão rugiu ao girar a ignição, um som gutural que ecoou no concreto. Os faróis se acenderam, iluminando o subsolo.
+Ele puxou a chave do bolso. Não um cartão magnético, não um chip de presença. Um pedaço de metal serrilhado. Ele a inseriu na fechadura. O clique mecânico soou como um tiro na garagem silenciosa.
+
+Ele girou a ignição. O motor de combustão rugiu, um som gutural, sujo e maravilhoso. Nada de elétrico. Apenas explosões controladas de gasolina e ar.
+
+— Isso é música — disse Gabo. O motor de combustão, uma peça de museu barulhenta e ineficiente, tossiu uma, duas vezes, e então rugiu, um som gutural e poderoso que ecoou pelo concreto. Os faróis se acenderam, duas lanças de luz que perfuraram a escuridão.
+
+O carro era burro. Não tinha conexão com a Rede, não tinha piloto automático, não tinha interface neural. Tinha um motor, quatro rodas e um volante. E por isso, naquele momento, era o objeto mais valioso da cidade.
 
 — Ar condicionado! — gemeu Val, jogando-se no banco de trás.
 
-Lívia sentou no carona.
+Lívia sentou no carona, a tensão em seus ombros diminuindo um pouco.
 
 — Para onde agora? Delegacia?
 
-Gabo engatou a ré, os pneus cantando.
+Gabo engatou a ré, os pneus cantando no piso liso.
 
-— Sim. Mas vamos devagar. A cidade está cheia de predadores esta noite. E nós somos a única coisa com faróis acesos.
+— Sim. Mas vamos com calma. A cidade está cheia de predadores, e nós somos a única vela acesa na escuridão.

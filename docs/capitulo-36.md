@@ -19,40 +19,30 @@ Eles subiram para o andar dos detetives. A sala estava vazia, papéis espalhados
 
 Gabo fez sinal de silêncio. Ele se aproximou da porta entreaberta.
 
-Lá dentro, Roberto Miranda estava sentado na cadeira do capitão, os pés sobre a mesa. Ele segurava uma garrafa de uísque caro e uma pistola. Na frente dele, amarrado a uma cadeira, estava o próprio Capitão Jonas Vilar.
+Lá dentro, o Capitão Jonas Vilar estava falando em um rádio de emergência, uma mala cheia de armas em cima da mesa.
 
-— O mundo acabou, Jonas — dizia Roberto, a voz pastosa. — E sabe o que é engraçado? Eu nunca me senti tão bem.
+— Sim, eu tenho os códigos do arsenal. — A voz de Jonas tremia. — Quero passagem segura para o Distrito Alto. E uma vaga no helicóptero da Vance.
 
-— Você é louco, Miranda! — cuspiu Jonas. — A Aeterna vai retomar o controle.
+Gabo sentiu um gosto amargo na boca. O mundo acabando e os ratos continuavam negociando queijo.
 
-— Eles não vão voltar! — gritou Roberto. — O velho Dante destruiu a caixa de brinquedos! Agora somos só nós. Os ratos.
+Ele empurrou a porta com o cano da escopeta "Vilha".
 
-Gabo empurrou a porta e entrou, a escopeta "Vilha" apontada para a cabeça de Roberto.
+— Acho que o voo foi cancelado, Jonas — disse Gabo.
 
-— A festa acabou, parceiro — disse Gabo.
+Jonas pulou da cadeira, derrubando o rádio. Ele levou a mão ao coldre, mas parou quando viu o cano duplo apontado para seu peito.
 
-Roberto sorriu, sem se surpreender.
+— Moretti... — Jonas engoliu em seco. — Você... você está vivo.
 
-— Gabo! O herói do blecaute! Ouvi dizer que você explodiu uma van lá fora. Sempre dramático.
+— Infelizmente para você. — Gabo entrou na sala, mancando. Lívia e Val cobriram a retaguarda. — Vendendo a delegacia para o Sindicato? Depois de tudo?
 
-— Vim buscar o que é meu — disse Gabo. — E garantir que você não machuque mais ninguém.
+— Não tem mais delegacia, Gabo! — gritou Jonas, o suor escorrendo pela careca. — Acabou! A Aeterna caiu. O Sindicato está vindo. Eles vão massacrar a gente. Eu só estou tentando salvar...
 
-Roberto riu.
+— Sua pele? — cortou Gabo. — Enquanto seus homens lá fora seguram as barricadas com paus e pedras?
 
-— Machucar? Eu estou fazendo um favor! Jonas aqui estava vendendo as rotas de fuga da polícia para o Sindicato. Eu só estou... renegociando.
+Gabo caminhou até a mesa e fechou a mala de armas.
 
-— Solta a arma, Roberto — ordenou Lívia, entrando na sala.
+— O Sindicato quer entrar? — Gabo sorriu, um sorriso sem humor. — Vamos deixar. Mas vai custar caro.
 
-Roberto olhou para Lívia, depois para Val.
+— Você é louco — sussurrou Jonas.
 
-— Olha só, a família reunida. Que lindo.
-
-Ele levantou a pistola lentamente.
-
-— Não faça isso — avisou Gabo, o dedo tensionando no gatilho da 12.
-
-— Sabe, Gabo... eu sempre tive inveja de você. Você é um fracassado, um bêbado, um lixo. Mas você dorme à noite. Eu não.
-
-Roberto engatilhou a arma.
-
-— Eu só quero dormir, Gabo.
+— Não. Eu sou o novo Capitão. — Gabo bateu com a coronha da arma na mesa. — E você vai me ajudar a defender esse forte ou vai ser o primeiro corpo que eles vão pular para entrar. Escolha.

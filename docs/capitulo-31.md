@@ -3,44 +3,56 @@ image: /cidade.jpg
 ---
 # Capítulo 31: Ruptura Total
 
-O vento a 50 andares de altura não apenas soprava; ele espancava. Gabo amarrou Valéria em suas costas com cabos de fibra ótica trançados. Lívia prendeu a outra ponta do cabo improvisado em uma viga de aço da estrutura do servidor.
+O vento a 50 andares de altura não apenas soprava; ele espancava, um predador invisível tentando arrancá-los da estrutura. Gabo olhou para o abismo escuro e chuvoso. Não havia para onde ir, exceto para baixo.
 
-— T-minus 30 segundos para a purga! — avisou a voz automatizada da torre, abafada pelo vento.
+— T-minus 5 segundos para a purga! — avisou a voz automatizada da torre, abafada pelo vento.
 
-— Vamos! — gritou Gabo.
+— AGORA! — gritou Gabo.
 
-Eles pularam.
+Não houve tempo para pensar. Não houve tempo para rezar.
 
-A descida não foi graciosa. Foi uma queda controlada pelo pânico. O cabo queimava as luvas de Gabo. O vento os jogava contra a fachada de vidro e metal da Aeterna Tower. Cada impacto enviava ondas de dor pela perna quebrada de Gabo.
+Lívia terminava de prender Valéria, desacordada, nas costas de Gabo com um emaranhado de cabos de rede. Não era seguro. Não era um plano. Era a única opção.
 
-Acima deles, nas janelas quebradas do nível 50, uma fumaça verde começou a sair. O gás. Tinham escapado por segundos.
+— Não vai aguentar! — gritou Lívia, sua voz quase perdida no uivo do vento. — Isso não foi feito para suportar nosso peso!
 
-Mas o problema agora era outro. O sistema da torre estava em colapso total. Painéis solares se soltavam e caíam como guilhotinas. Drones de manutenção, sem comando, colidiam uns com os outros e explodiam no ar.
+— Não temos escolha! — berrou Gabo de volta. Ele se agarrou a um feixe de cabos de fibra ótica que pendia da estrutura danificada, a outra ponta balançando solta no vazio. — É isso ou fritar no gás. No três... um...
 
-— O cabo vai acabar! — gritou Lívia, que descia um pouco abaixo deles.
+Ele não disse "dois".
 
-Eles estavam na altura do nível 30. Ainda muito alto para pular.
+Gabo saltou.
 
-— Ali! — Gabo apontou para uma varanda executiva no nível 28. — Balance!
+A gravidade os puxou com uma violência brutal. Não foi uma descida, foi uma queda livre interrompida por espasmos de pânico. O feixe de fibra ótica deslizou por suas luvas, queimando o material sintético e a pele por baixo. O balanço descontrolado os arremessou contra a fachada de vidro e metal da Aeterna. Cada impacto era uma agonia, especialmente na perna quebrada de Gabo, que gritava em protesto.
 
-Eles usaram o impulso do vento para balançar em direção à varanda. Na terceira tentativa, Lívia conseguiu agarrar a grade e soltou o cabo, caindo no terraço. Gabo veio em seguida, o peso de Val quase o fazendo perder a pegada. Lívia o puxou para dentro.
+Acima, uma fumaça verde e densa começou a vazar pelas janelas quebradas do andar 50. O gás. Escaparam por um piscar de olhos.
 
-Eles caíram no chão de mármore molhado, ofegantes.
+O prédio inteiro parecia estar se desintegrando. Painéis solares despencavam como guilhotinas. Drones de manutenção, agora sem controle, colidiam em explosões inúteis.
 
-Dentro do escritório de luxo, o caos reinava. Executivos da Aeterna corriam de um lado para o outro, gritando. As luzes piscavam. As telas holográficas mostravam o logotipo da empresa distorcido, substituído por rostos gritando – os "fantasmas" que Val libertara.
+— A fibra está partindo! — gritou Lívia, que se agarrava a um cabo paralelo alguns metros abaixo.
 
-— O que está acontecendo? — perguntou um homem de terno caro, vendo o trio ensopado e armado entrar pela varanda. — Quem são vocês?
+Eles estavam talvez no trigésimo andar. Uma queda mortal.
 
-— Suporte técnico — rosnou Gabo. — O sistema caiu.
+— Ali! — Gabo avistou uma varanda executiva no nível 28, uma pequena saliência na parede de vidro. — Temos que balançar!
 
-De repente, o prédio estremeceu. Um som grave, profundo, veio das entranhas da torre.
+Era um movimento suicida. Usaram o próprio peso e o impulso de um golpe de vento particularmente forte. Na primeira tentativa, passaram a metros de distância. Na segunda, os dedos de Lívia roçaram a grade de metal. Na terceira, ela se lançou, um ato de fé cega, soltando o cabo e se agarrando à grade com a força do desespero. Ela conseguiu, caindo com um baque no terraço.
 
-— Os reatores... — murmurou Val, ainda grogue nas costas de Gabo. — Sem o Gamemaster para regular a temperatura... eles vão entrar em desligamento de emergência.
+Gabo veio em seguida. O peso extra de Val quase o arrancou da estrutura. Seus dedos escorregaram, a pegada falhou. Por um instante, ele ficou pendurado por uma única mão. Lívia se esticou e o agarrou pelo colarinho, puxando-o para a segurança com uma força que ela não sabia que tinha.
 
-As luzes do escritório se apagaram. As luzes da cidade lá fora, visíveis através das janelas panorâmicas, começaram a piscar. Bairros inteiros sumiam na escuridão, um a um, como dominós caindo.
+Eles desabaram no chão de mármore, ofegantes, a chuva começando a encharcá-los.
+
+Dentro do escritório de luxo, o caos era um espelho do lado de fora. Executivos da Aeterna, a elite da cidade, corriam sem rumo, seus rostos iluminados por telas holográficas que agora exibiam apenas estática e os "fantasmas" que Val libertara — rostos digitais congelados em gritos silenciosos.
+
+— O que diabos está acontecendo? — gaguejou um homem de terno caro, recuando ao ver o trio armado e ensopado.
+
+— Fim do expediente — rosnou Gabo.
+
+De repente, o prédio tremeu violentamente. Um som grave e profundo, como o gemido de um gigante morrendo, subiu das fundações da torre.
+
+— Os reatores de fusão — sussurrou Val, recuperando a consciência nas costas de Gabo. — Sem o Gamemaster para regular a energia... o desligamento de emergência vai causar uma sobrecarga em cascata.
+
+As luzes do escritório piscaram e morreram. Lá fora, através das janelas panorâmicas, a cidade começou a se apagar. Bairros inteiros piscavam e sumiam na escuridão, um após o outro, como velas sendo sopradas.
 
 O "Apagão" tinha começado.
 
-— A saída de emergência! — gritou Lívia, apontando para as escadas. Os elevadores estavam mortos.
+— Escadas! — gritou Lívia, apontando para a saída de emergência. Os elevadores estavam mortos.
 
-Eles correram para as escadas, juntando-se à multidão de funcionários em pânico. Não havia mais elite ou ralé. Na escuridão, todos eram apenas ratos tentando fugir do navio que afundava.
+Eles se juntaram à debandada de funcionários em pânico. Na escuridão, não havia mais castas. Eram todos apenas ratos fugindo do navio que afundava.

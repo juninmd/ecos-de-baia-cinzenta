@@ -1,36 +1,38 @@
 ---
 image: /cidade.jpg
 ---
-# Capítulo 43: O Novo Departamento
+# Capítulo 43: Água Negra
 
-Seis meses depois.
+O aviso de Valéria chegou tarde demais para alguns.
 
-A chuva caía fina e persistente. O letreiro da Delegacia Central lia-se "DEPARTAMENTO DE POLÍ IA".
+Na enfermaria improvisada (antiga sala de descanso dos oficiais), cinco crianças vomitavam um líquido preto. A pele delas estava pálida, as veias escuras visíveis sob a epiderme.
 
-Gabo entrou, sacudindo o guarda-chuva. O lugar estava diferente. Mais luz natural, menos telas.
+— Não é cólera — disse a Dra. Nise, que tinha conseguido chegar à delegacia com sua maleta médica. Ela analisava uma amostra de vômito. — É envenenamento químico agudo misturado com patógenos biológicos. Nanoplásticos corrompidos.
 
-— Moretti! — gritou o Capitão Jonas. — Tem um cliente pra você.
+— Aeterna — rosnou Gabo. — Até mortos eles matam a gente.
 
-Gabo foi até a mesa dele. Havia um homem sentado, nervoso.
+— Precisamos de filtros de carvão ativado de grau industrial — disse Nise. — E atropina. Muita atropina.
 
-— Este é o Sr. Kovač — disse Jonas. — Ele diz que a filha desapareceu.
+— Onde? — perguntou Lívia.
 
-— Desaparecimento? — Gabo suspirou. — Sr. Kovač, metade da cidade ainda está desaparecida.
+— O Hospital Central está submerso — disse Val. — Mas tem o depósito da Alfândega no porto. Eles apreendiam cargas ilegais de suprimentos médicos. Fica no Nível 20. A água ainda não deve ter chegado lá.
 
-— Não, detetive — disse o homem. — Ela foi levada ontem. Por algo que saiu do esgoto. Com olhos vermelhos. E cheirava a ozônio.
+— Deve estar cheio de saqueadores — disse Jonas, entrando na sala.
 
-Gabo trocou um olhar com Jonas. Ozônio.
+— Ou coisa pior — disse Gabo. — O Sindicato controla o porto.
 
-— Valéria — chamou Gabo pelo rádio. — Temos um caso. Prepare o scanner. Acho que temos um "eco" da Aeterna à solta.
+Ele checou a carga da "Vilha". Dois cartuchos.
 
-— *Copiado, Gabo* — respondeu a voz de Val. — *A Legião detectou um pico de energia no subsolo do Setor 7. Algo acordou.*
+— Eu vou — disse Gabo.
 
-Gabo sentiu um arrepio.
+— Eu vou junto — disse Lívia. — Você não consegue carregar caixas com esse joelho.
 
-— Sr. Kovač — disse Gabo, pegando seu casaco. — Vamos achar sua filha.
+— E quem cuida do forte? — perguntou Gabo.
 
-Ele saiu da delegacia, entrando na chuva. O Cobalt azul o esperava.
+— Jonas — disse Lívia. — É a chance dele de não ser um covarde por um dia.
 
-A cidade estava ferida, mas viva. E enquanto ela respirasse, ele estaria lá para limpar suas feridas.
+Jonas engoliu em seco, mas assentiu.
 
-Era um trabalho sujo. Mas alguém tinha que fazê-lo.
+— Tragam a atropina. Eu seguro as pontas.
+
+Gabo e Lívia saíram na chuva, entrando no barco inflável que tinham confiscado. O motor de popa tossiu e pegou. Eles navegaram pelas ruas que um dia foram asfalto, agora rios de morte negra.

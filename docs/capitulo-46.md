@@ -1,11 +1,11 @@
 ---
 image: /gabo-compra-cafe.jpeg
 ---
-# Capítulo 46: A Maré Montante
+# Capítulo 46: O Dilúvio
 
 **Três meses após a Queda da Torre.**
 
-O nível do mar estava subindo. Não de forma metafórica, como a violência ou a corrupção que sempre inundavam Baía Cinzenta. Desta vez, era água mesmo.
+O nível do mar estava subindo. Não de forma metafórica, como a violência ou a corrupção que sempre inundavam Baía Cinzenta. Desta vez, era água mesmo. O Dilúvio, como os noticiários apelidaram, era uma realidade fria e úmida.
 
 A maré alta no Distrito da Ferrugem agora lambia os calcanhares dos prédios residenciais. As ruas mais baixas haviam se tornado canais permanentes de água salobra e óleo.
 
@@ -13,102 +13,47 @@ Gabriel Moretti observava a linha d'água da janela de seu novo escritório impr
 
 — O café está horrível — disse Valéria, sentada no balcão, desmontando um drone que parecia um inseto gigante. Seu cabelo holográfico estava roxo, pulsando em um ritmo lento.
 
-— É café solúvel vencido — respondeu Gabo, virando-se. Ele parecia mais leve. A barba estava aparada. A tensão constante nos ombros havia diminuído, mas não desaparecido. O "Herói do Apagão" ainda tinha pesadelos com corredores de espelhos.
+— É café solúvel vencido — respondeu Gabo, virando-se. Ele parecia mais leve. A barba estava aparada. A tensão constante nos ombros havia diminuído, mas não desaparecido.
 
-— O Sindicato está quieto demais — comentou Valéria. — Desde que o Gamemaster foi... desligado... a rede criminosa se fragmentou. É como se as baratas não soubessem para onde correr sem a luz acesa.
+De repente, os comunicadores da delegacia ganharam vida com um chiado de pânico. A voz do Capitão Vilar, distorcida pela estática, gritava ordens incompreensíveis.
 
-— Aproveite o silêncio, Val. Ele não dura.
+— Val, o que é isso? — perguntou Gabo, a tranquilidade se esvaindo.
 
-Alguém bateu na porta. Uma batida pesada, urgente.
+Valéria conectou-se à rede da polícia. Seus olhos se arregalaram.
+— Múltiplos ataques. Coordenados. Aeterna. Mas não são os ciborgues de sempre. São... diferentes. Mais rápidos. Mais fortes.
 
-Gabo e Valéria trocaram um olhar. Gabo pegou a "Vilha" que descansava sob a mesa — velhos hábitos nunca morrem — e a colocou sobre o colo, coberta por um jornal.
+Gabo pegou a "Vilha" que descansava sob a mesa.
+— Onde?
 
-— Entre — disse ele.
-
-A porta se abriu. Era o Capitão Jonas Vilar. Ele parecia dez anos mais velho. O uniforme estava molhado, e ele não usava capa de chuva.
-
-— Gabo. Valéria.
-
-— Capitão — cumprimentou Gabo. — Veio me prender por estacionamento ilegal de novo?
-
-Vilar não sorriu. Ele tirou o quepe e passou a mão pelos cabelos grisalhos encharcados.
-
-— Preciso que venham comigo. Agora.
-
-— A gente não trabalha mais pro Departamento, Jonas — disse Valéria. — Somos consultores independentes. E caros.
-
-— Não é trabalho de polícia — disse Vilar. Sua voz falhou. — É... algo que não deveria existir.
+— Em todo lugar. Mas o pior é na Orla Norte.
 
 ***
 
-A cena do crime era na Orla Norte, uma área que já deveria ter sido evacuada devido às inundações. A água batia nos pneus das viaturas.
+A cena na Orla Norte era um pandemônio. Viaturas em chamas, policiais recuando sob fogo pesado de armas que Gabo nunca tinha visto. Os agressores eram figuras humanoides, mas grotescamente alteradas. Bio-Soldados. Sua pele tinha um brilho fosforescente, e seus movimentos eram uma mistura de fluidez animal e precisão militar.
 
-Mas o que chamava a atenção não era a água.
+No meio do caos, um container de carga, arrastado pela maré, estava com as portas abertas. Dentro, uma única cápsula de vidro, intacta, brilhava com uma luz azul leitosa.
 
-Era o container.
+Dentro dela, flutuando, havia um homem em um traje de mergulho antigo.
 
-Um container de carga, enferrujado, que havia sido arrastado pelas ondas até a praia de cascalho. As portas estavam abertas.
-
-E dentro dele...
-
-Gabo tamborilou os dedos no coldre da arma — um tique nervoso que a chuva sempre trazia de volta. O ritmo era frenético, como o de um relógio em contagem regressiva.
-
-Ele entrou no container.
-
-Estava cheio de cápsulas. Cápsulas de vidro, do tamanho de caixões. A maioria estava quebrada.
-
-Mas uma estava intacta.
-
-Dentro dela, flutuando em um líquido azul leitoso, havia um homem.
-
-Gabo se aproximou, limpando o vidro com a luva.
-
-O homem usava um traje de mergulho antigo, do século passado. Mas o rosto...
-
-Gabo recuou, como se tivesse levado um soco.
+Gabo se aproximou, usando o caos como cobertura. Ele limpou o vidro com a luva. O rosto...
 
 — Impossível — sussurrou ele.
 
-Valéria entrou logo atrás, seu deck iluminando o interior escuro.
+Valéria, ao seu lado, acessou o banco de dados.
+— Arthur Vance. Fundador da Aeterna. Morto há quarenta anos.
 
-— O que foi, Gabo? Quem é?
+De repente, a luz da cápsula mudou de azul para vermelho. Um alarme soou. O líquido começou a drenar.
 
-Gabo olhou para Vilar, que estava na entrada do container, pálido.
+Os olhos de Arthur Vance se abriram. Eram totalmente negros.
 
-— Vocês identificaram? — perguntou Gabo.
+*"Onde está o meu Filho?"* — a voz, uma mistura de estática e metal rasgando, ecoou na mente de Gabo, não pelos seus ouvidos.
 
-— O DNA bateu com os arquivos antigos — disse Vilar. — Arquivos de cinquenta anos atrás.
+O vidro da cápsula estalou.
 
-Gabo olhou para o homem na cápsula novamente.
+No mesmo instante, os Bio-Soldados intensificaram o ataque, como se respondessem a um comando silencioso. Eles não estavam atacando a esmo. Estavam criando uma distração.
 
-— Arthur Vance — disse Gabo. — O fundador da Aeterna Corp. O homem que construiu a Torre.
+— Gabo, temos que sair daqui! — gritou Valéria, puxando-o para trás de uma viatura virada.
 
-— Ele morreu há quarenta anos — disse Valéria, acessando o banco de dados. — Acidente de avião.
+Quando olharam novamente, a cápsula estava vazia. Pegadas molhadas e pesadas seguiam em direção à cidade, ignoradas pelos Bio-Soldados que agora focavam em dizimar as forças policiais.
 
-— Pelo visto, o avião caiu no lugar errado — disse Gabo.
-
-De repente, a luz interna da cápsula mudou de azul para vermelho. Um som de alarme abafado começou a soar.
-
-*BIP. BIP. BIP.*
-
-— Val! — gritou Gabo.
-
-— Não sou eu! — gritou ela, recuando. — O sistema está ativando sozinho!
-
-O líquido começou a drenar. Os olhos de Arthur Vance se abriram.
-
-Eles não eram humanos. Eram totalmente negros, como poços de petróleo.
-
-A boca dele se abriu, e mesmo através do vidro, eles ouviram a voz. Não era uma voz orgânica. Era o som de estática, de metal rasgando.
-
-*"Onde está o meu Filho?"*
-
-O vidro estalou.
-
-— CORRAM! — rugiu Gabo.
-
-A explosão de pressão jogou os três para fora do container, direto na lama da praia.
-
-Quando Gabo se levantou, a "Vilha" em punho, o container estava vazio. Pegadas molhadas, pesadas e desniveladas, seguiam em direção à cidade.
-
-A Maré havia trazido algo do passado. E esse algo estava com fome.
+A Maré não apenas trouxe a água. Ela trouxe o Imperador. E seu exército.

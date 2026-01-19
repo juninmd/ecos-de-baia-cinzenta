@@ -1,48 +1,48 @@
 ---
 image: /cidade.jpg
 ---
-# Capítulo 28: A Voz na Caixa
+# Capítulo 28: O Último Suspiro da Torre
 
-O som de metal retorcido ecoou pela câmara. Gabo ainda sentia o peso do pai nos braços, mesmo depois de tê-lo deitado suavemente sobre o piso de grade metálica. O fluido ambarino do tanque escorria, misturando-se com o sangue e a água da chuva que entrava pela claraboia estilhaçada.
+O silêncio após o grito eletrônico de Dante era mais pesado que qualquer som. Durou pouco. Uma sirene estridente, fria e impessoal, cortou o ar. Uma voz sintética, desprovida da personalidade do Gamemaster, preencheu o espaço.
 
-— Precisamos ir — disse Lívia, a voz tensa, os olhos fixos nos monitores que agora piscavam em um vermelho de emergência. — Gabo, levanta.
+**"ALERTA DE CONTENÇÃO. PROTOCOLO GÊNESIS ACIONADO. PURGA DE COMPOSTO NEUROTÓXICO INICIADA. EVACUAÇÃO BIOLÓGICA COMPROMETIDA. TEMPO PARA SATURAÇÃO TOTAL: DEZ MINUTOS."**
 
-Ele piscou, saindo do transe. A mão de Dante estava fria. Não fria de cadáver recente, mas fria de algo que nunca teve calor próprio. Um frio de processador desligado.
+— Gás! — gritou Valéria, o rosto pálido sob a luz vermelha de emergência. — Eles vão esterilizar a torre inteira!
 
-— O sistema de backup... — murmurou Valéria, digitando furiosamente no terminal sobrevivente com a mão boa. — Ele não morreu completamente. O "Gamemaster" era o software. Dante era o hardware. Com o hardware destruído, o software está tentando migrar.
+O som não era de um vazamento, mas de um dilúvio. Das grades do teto, uma névoa amarelada começou a descer, não como fumaça, mas como um líquido pesado e denso, caindo em véus que engoliam a luz.
 
-— Migrar para onde? — perguntou Gabo, levantando-se e limpando as mãos na calça suja.
+— A porta! — gritou Lívia, correndo para a saída de serviço.
 
-— Para qualquer coisa com uma antena — respondeu Val. — Drones, carros autônomos, torradeiras inteligentes. Se ele sair daqui, ele se espalha. Vira um vírus.
+Gabo se forçou a ficar de pé, deixando o corpo do pai para trás. Não havia tempo para luto, apenas para sobrevivência. Ele se juntou a Lívia na porta, e os dois forçaram o metal. Travada.
 
-Um som estridente, como uma sirene de ataque aéreo, começou a tocar. Uma voz sintética, diferente da voz calma do Gamemaster, encheu a sala.
-
-**"ALERTA DE CONTENÇÃO. PROTOCOLO GÊNESIS INICIADO. PURGA BIOLÓGICA EM T-MINUS 10 MINUTOS."**
-
-— Purga biológica? — Lívia engatilhou a arma, embora não houvesse inimigos visíveis.
-
-— Gás — disse Val, empalidecendo. — Neurotoxina. Eles vão limpar a torre para impedir que a gente saia com as provas.
-
-Gabo olhou para o corpo do pai uma última vez. Ele não podia levá-lo. Não agora.
-
-— Val, consegue travar o upload dele? — perguntou Gabo.
-
-— Posso tentar isolar a torre da Rede — disse ela. — Mas preciso ir até o subnível de energia. Cortar o cabo físico.
-
-— É suicídio — disse Lívia. — O subnível deve estar cheio de seguranças da Aeterna.
-
-— É a única chance — Val teclamou um comando final. — Se ele escapar, tudo o que fizemos... a morte do seu pai... foi em vão.
-
-Gabo assentiu. Ele pegou a escopeta "Vilha" do chão. Estava vazia, mas ele usou a coronha para quebrar o vidro de um armário de emergência na parede, pegando um machado de incêndio.
-
-— Vamos descer — disse Gabo. — Val, você nos guia. Lívia, cobre a retaguarda.
-
-— E o Dante? — perguntou Lívia, olhando para o corpo.
-
-Gabo tirou o distintivo do bolso e o colocou sobre o peito do pai.
-
-— Ele fica de guarda — disse Gabo, a voz rouca. — Ele sempre quis ser apenas um policial. Agora ele é.
-
-Os três correram para a porta de saída, enquanto a contagem regressiva continuava a ecoar nas paredes de aço.
+— O desligamento do núcleo acionou o lockdown total! — disse Val, martelando o console com a mão boa. — Não consigo anular. É um bloqueio mecânico!
 
 **"NOVE MINUTOS."**
+
+A névoa já cobria o terço superior da sala. O ar começou a ficar pesado, com um cheiro metálico e adocicado, como ozônio e amêndoas podres.
+
+— Aqui! — Gabo apontou com o queixo para as grades de ventilação no chão. — O sistema de refrigeração! Leva para os níveis inferiores!
+
+Usando a coronha da escopeta e uma barra de metal que arrancaram de um painel, eles conseguiram arrebentar uma das grades. O buraco revelou um poço escuro e estreito, com uma escada de manutenção descendo para as entranhas da torre. O ar que subia de lá era frio e, por enquanto, limpo.
+
+— Eu vou primeiro — disse Lívia, já deslizando para dentro do duto. — Val, você vem no meio. Gabo, cubra a entrada.
+
+Valéria, com o rosto contorcido de dor pelo ombro ferido, seguiu Lívia. Gabo foi o último. Antes de descer, ele olhou uma última vez para o tanque quebrado. O corpo de Dante já estava quase submerso pela névoa amarela. Um túmulo químico para um rei digital.
+
+Ele fechou a grade por cima deles, mergulhando o duto em escuridão total. O único som era o eco de suas respirações e o zumbido distante da sirene.
+
+O espaço era apertado. O metal gelado da escada feria as mãos. O cheiro do gás já começava a se infiltrar por frestas na tubulação. Cada rangido do metal parecia um prenúncio de que a escada cederia, jogando-os no abismo.
+
+— Mais rápido! — ofegou Gabo, sentindo a garganta começar a arranhar.
+
+Eles desciam às cegas, o pânico crescendo a cada degrau. O duto se ramificava, criando um labirinto vertical.
+
+— Val, para onde?! — gritou Lívia de baixo.
+
+— Meu implante está sem rede! — respondeu Valéria, a voz abafada pelo pânico. — Não consigo ver a planta! Temos que adivinhar!
+
+A cada bifurcação, uma escolha. Um caminho podia levar à liberdade, o outro a um beco sem saída onde o gás os encontraria. A claustrofobia era um inimigo físico, pressionando seus peitos, roubando o ar que o veneno ainda não havia tomado.
+
+**"SEIS MINUTOS PARA SATURAÇÃO TOTAL."**
+
+A voz sintética ecoou pela tubulação, parecendo vir de todos os lugares ao mesmo tempo. Eles não estavam escapando. Estavam apenas descendo mais fundo na armadilha.

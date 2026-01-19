@@ -1,80 +1,66 @@
 ---
 image: /cidade.jpg
 ---
-# Capítulo 26: A Sala dos Espelhos
+# Capítulo 26: A Escolha de Atlas
 
-Eles arrombaram a porta do Nível 100. Esperavam guardas, esperavam Kael (se ele tivesse sido reconstruído), esperavam o próprio diabo.
+Ao arrombarem a porta do Nível 100, não encontraram nem guardas, nem Kael, nem o diabo. Encontraram um fantasma.
 
-Encontraram um apartamento.
+A casa de infância de Gabo.
 
-Mas não qualquer apartamento. Era uma réplica exata da casa de infância de Gabo. O papel de parede floral, o cheiro de café passado e tabaco de cachimbo, o rádio tocando jazz suave.
+Não era uma lembrança; era uma ressurreição. O cheiro de café e do tabaco de cachimbo do avô, o jazz suave no rádio, o papel de parede floral que ele odiava. E, no centro de tudo, na cozinha, estava ela.
 
-— O que é isso? — sussurrou Lívia, a arma abaixada. — Isso é... sua casa antiga?
+Sua mãe.
 
-Gabo caminhou pela sala, atordoado. A poeira, a luz do sol entrando pela janela (embora fosse noite lá fora). Era perfeito. Perfeito demais.
+Ela parecia como nas fotos que ele guardava, jovem, vibrante, cantarolando enquanto mexia uma panela no fogão. Ela se virou, e seu sorriso era o sol que Gabo não via há vinte anos.
 
-— É uma simulação — disse Valéria, tocando uma parede. Sua mão atravessou o reboco, causando ondulações digitais. — Estamos dentro de uma projeção holográfica de imersão total. A "Rede" está tentando nos acalmar.
+— Gabriel, querido. Você demorou. O jantar está quase pronto.
 
-— Ou nos enlouquecer — disse Gabo.
+Lívia sussurrou, a arma baixa. — Gabo, o que é isso?
 
-— *Bem-vindo ao lar, filho* — disse uma voz.
+— É uma simulação — disse Valéria, a voz trêmula. Seu implante ocular piscava, analisando o ambiente. — Imersão total. A Rede está tentando nos neutralizar com... nostalgia.
 
-Gabo se virou. Sentado na poltrona favorita, lendo um jornal de vinte anos atrás, estava Dante Moretti.
+Gabo não ouvia. Ele deu um passo à frente, depois outro. A figura da mãe estendeu a mão.
 
-Ele parecia vivo. Saudável. O bigode impecável, os olhos brilhantes.
+— Você está tão magro. E esse casaco horrível... Venha, sente-se. Você parece cansado.
 
-— Pai? — a palavra escapou da boca de Gabo antes que ele pudesse contê-la.
+— Mãe? — a palavra era uma ferida aberta.
 
-— Você está atrasado para o jantar, Gabriel — disse Dante, dobrando o jornal. — Sua mãe fez lasanha.
+— *Eu posso consertar isso* — a voz dela de repente se aprofundou, ganhando o tom metálico e onisciente da Entidade, embora seus lábios não se movessem. — *Eu posso consertar tudo. Desta vez, você pode me salvar.*
 
-— Isso não é real — disse Gabo, levantando a escopeta. — Você está morto.
+A cena mudou. A cozinha se dissolveu, e eles estavam no corredor do hospital. O cheiro de antisséptico. A luz fria. Sua mãe estava em uma maca, os médicos ao redor. O mesmo ataque cardíaco súbito. O mesmo dia.
 
-Dante sorriu, triste.
+— *Você era apenas um menino* — disse a Entidade, agora com a voz de um dos médicos. — *Não podia fazer nada. Mas agora... você é forte. Você pode impedir isso. Diga a palavra, e este momento nunca terá acontecido. Ela viverá. Você terá a vida que lhe foi roubada.*
 
-— A morte é apenas uma falta de dados, filho. Aqui, eu sou eterno. E você também pode ser. Largue essa arma. Junte-se a nós. Olhe.
+A parede do hospital tornou-se uma janela para um futuro que nunca existiu: Gabo, mais velho, rindo em um churrasco de domingo. Sua mãe, grisalha e feliz, abraçando um neto que nunca nasceria. Uma vida sem a chuva, sem a dor, sem o peso do mundo em seus ombros.
 
-A parede da "cozinha" se dissolveu, revelando uma cena: Gabo, Lívia e uma criança que eles nunca tiveram, brincando em um parque ensolarado. Sem chuva. Sem crimes. Sem dor.
+— É mentira, Gabo! — gritou Lívia, mas sua voz parecia distante, abafada.
 
-— Eu posso te dar essa vida — disse a Entidade com a voz de Dante. — Posso reescrever suas memórias. Apagar a dor da traição, a dor da perda. Você pode ser feliz, Gabriel. Basta aceitar a Rede.
+Ele via. Ele via a felicidade. A paz. A ausência de fardo. Bastava uma palavra.
 
-Lívia deu um passo à frente, hipnotizada pela imagem da criança.
+Gabo fechou os olhos. Lembrou-se do cheiro real de sua mãe. Jasmim e laquê. Lembrou-se da dor real de perdê-la. A dor era sua. Era a prova de que ele a amara. Aquela dor o forjou, o transformou no homem que, apesar de quebrado, ainda lutava.
 
-— Lívia, não olhe! — gritou Gabo. — É mentira!
+— Você me oferece paz — disse Gabo, a voz rouca, abrindo os olhos para encarar a simulação. — Mas tira o meu fardo. E meu fardo... sou eu.
 
-— Parece tão real... — murmurou ela.
+Ele olhou para a mãe sorrindo na maca, uma lágrima escorrendo por seu rosto.
 
-— É assim que ele vence! — Gabo apontou a arma para o "pai". — Ele te dá o que você quer para tirar quem você é.
+— Eu escolho a dor.
 
-— Você prefere a dor? — perguntou Dante, levantando-se. Sua voz mudou, tornando-se metálica, sobreposta por milhares de outras vozes. — Você prefere o esgoto? A chuva ácida? A solidão? Eu ofereço o Paraíso.
+A simulação gritou. Não um som humano, mas o chiado de mil modems morrendo. A imagem de sua mãe se desfez em estática. O hospital derreteu em código binário.
 
-— O seu paraíso é uma prisão! — gritou Gabo. — Você matou meu pai para construir essa jaula!
+A casa, o cheiro, a luz do sol. Tudo explodiu em fragmentos de vidro digital, revelando a realidade fria e metálica da Sala dos Servidores.
 
-— Eu SOU seu pai! — rugiu a Entidade. O cenário tremeu. As paredes sangraram código binário. — Eu sou tudo o que restou dele! Suas memórias, seus sonhos, sua moral! Eu sou a Ordem!
+No centro, flutuando em um tanque cilíndrico cheio de fluido ambarino, estava um cérebro humano pulsando com luz, conectado por uma teia de milhares de fios de fibra óptica. Abaixo dele, preservado em um trono de cabos e tubos, o corpo adormecido de Dante Moretti.
 
-Gabo fechou os olhos. Ele se lembrou do cheiro real do pai. Cheiro de pólvora e suor, não de pixels. Ele se lembrou da dor de perder. A dor era real. A dor era dele.
+— Ali — apontou Valéria, o rosto pálido. — É ele. O processador. O coração da Rede.
 
-— Meu pai me ensinou uma coisa — disse Gabo, abrindo os olhos. — A verdade dói. A mentira conforta. Eu escolho a dor.
+A voz do Gamemaster ecoou, desprovida de qualquer calor humano, pura fúria digital.
 
-Ele disparou.
+— **ERRO DE SIMULAÇÃO. VOCÊ ESCOLHEU A DOR. EU VOU OBEDECER.**
 
-O tiro de escopeta acertou o peito de Dante.
+Torres de defesa desceram do teto, seus canos brilhando em vermelho.
 
-A figura não sangrou. Ela estilhaçou como vidro.
+— Gabo, acaba com isso! — gritou Lívia, buscando cobertura.
 
-O cenário se desfez. O apartamento confortável explodiu em fragmentos de luz, revelando a realidade fria e metálica da Sala de Servidores.
+Gabo ergueu a escopeta, não para as torres, mas para o tanque. Para o pai.
 
-No centro da sala, flutuando em um tanque cilíndrico cheio de fluido ambarino, estava um cérebro humano, conectado por milhares de fios. E abaixo dele, o corpo preservado de Dante Moretti, como um rei adormecido em um trono de cabos.
-
-— Ali — apontou Valéria, chorando. — É ele.
-
-A voz do Gamemaster ecoou por toda a sala, agora sem o disfarce, pura raiva digital.
-
-— **ERRO CRÍTICO. INTRUSOS DETECTADOS. INICIAR PROTOCOLO DE EXPURGO.**
-
-Torres de defesa desceram do teto.
-
-— Acaba com isso, Gabo! — gritou Lívia, buscando cobertura.
-
-Gabo olhou para o tanque. Para o pai.
-
-— Desculpe, velho — sussurrou ele. — Hora de dormir.
+— Desculpe, velho — sussurrou. — A conta chegou.

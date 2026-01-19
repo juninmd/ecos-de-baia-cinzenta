@@ -1,44 +1,34 @@
 ---
 image: /cidade.jpg
 ---
-# Capítulo 38: A Manhã Seguinte
+# Capítulo 38: A Ressaca
 
-Amanheceu, mas o sol não apareceu. O "Smog" ainda cobria a cidade, agora mais denso porque os filtros de ar das torres corporativas estavam desligados. A luz era cinzenta, difusa.
+Amanheceu, mas o sol não apareceu. O "Smog" ainda cobria a cidade, agora mais denso porque os filtros de ar das torres corporativas estavam desligados. A luz era cinzenta, difusa, doente.
 
-Gabo acordou com o cheiro de café. Café ruim, requentado, de delegacia.
+Gabo estava sentado nos degraus da entrada da delegacia, limpando a fuligem da escopeta. O cheiro de cordite e pneus queimados impregnava o ar.
 
-Lívia estava servindo copos de isopor para os policiais exaustos. Valéria dormia em um sofá feito de caixas de arquivo.
+Dentro da delegacia, a euforia da vitória tinha dado lugar a algo mais sombrio.
 
-Gabo tentou se levantar. O joelho doía menos, enfaixado firmemente. Ele mancou até a janela.
+Gabo entrou no saguão. A cena era patética. Policiais durões, homens e mulheres que tinham enfrentado tiros horas antes, agora estavam sentados no chão, tremendo. Alguns olhavam fixamente para as telas negras de seus comunicadores, apertando botões que não funcionavam, em um tique nervoso repetitivo. Outros roíam as unhas até sangrar. Um oficial vomitava em um canto.
 
-A cidade estava mudada. Sem os hologramas, os prédios pareciam esqueletos de concreto. A publicidade agressiva tinha sumido. Baía Cinzenta estava nua.
+— O que há com eles? — perguntou Lívia, que distribuía garrafas de água.
 
-— Bonito, não é? — disse Jonas, parando ao lado dele. Ele parecia ter envelhecido dez anos.
+— Abstinência — disse Valéria, surgindo da sombra. Ela tinha olheiras profundas e parecia pálida. — O cérebro deles viciou na dopamina constante das notificações, dos feeds de dados, da conexão neural. Sem isso... é como tirar heroína de um viciado de longa data. Ansiedade, paranoia, tremores, náusea física.
 
-— Parece um cemitério — disse Gabo.
+— Você está bem? — perguntou Gabo.
 
-— É um recomeço — disse Jonas. — O Sindicato recuou depois que souberam o que você fez com a van deles. Estão com medo. A Aeterna... bem, a torre ainda está lá, mas está silenciosa. Dizem que a Dra. Vance fugiu num helicóptero.
+— Eu sou analógica por necessidade, lembra? Fui cortada da Rede anos atrás. — Ela tocou o implante queimado no rosto. — Mas eles... eles estão perdidos. O silêncio dentro da cabeça deles é ensurdecedor.
 
-— Ela não vai longe — disse Gabo. — O sistema bancário caiu. O dinheiro dela não vale nada.
+Jonas Vilar se aproximou. Ele parecia ter envelhecido dez anos, mas não tremia. O medo real da morte na noite anterior parecia tê-lo curado temporariamente do vício digital. Ou talvez fosse apenas o instinto de sobrevivência.
 
-— Moretti, sobre ontem... — começou Jonas.
+— Sobrevivemos — disse Jonas, a voz rouca. — O Sindicato recuou para a Zona Industrial.
 
-— Esqueça — cortou Gabo. — Estamos quites. Mas agora eu quero uma coisa.
+— Por enquanto — disse Gabo. — Eles vão voltar quando a fome apertar. Precisamos consolidar. Jonas, quero acesso aos arquivos físicos. Papel. Tudo o que vocês tiverem sobre o Projeto Lázaro e a Dra. Vance.
 
-— O quê?
+— A maioria foi digitalizada e apagada quando a Aeterna comprou o departamento — disse Jonas.
 
-— Acesso aos arquivos físicos. Papel. Tudo o que vocês tiverem sobre o Projeto Lázaro e a Dra. Vance.
+— Nem tudo — disse Gabo. — O arquivo morto no porão. Ninguém mexe lá há décadas. A burocracia antiga.
 
-— A maioria foi apagada — disse Jonas.
+Ele foi até a escada que levava ao subsolo, mancando forte.
 
-— Nem tudo — disse Gabo, sorrindo. — O Roberto era paranoico. Ele guardava cópias.
-
-Gabo foi até a mesa onde Roberto morreu. Abriu a gaveta falsa no fundo. Lá estava. Um envelope pardo, grosso.
-
-— O seguro de vida dele — disse Gabo, pegando o envelope. — E a condenação da Vance.
-
-Valéria acordou, esfregando os olhos.
-
-— Bom dia. Ainda estamos vivos?
-
-— Estamos — disse Gabo. — E agora vamos derrubar o que sobrou deles.
+— Vamos cavar os fantasmas de papel. Se não podemos usar a internet para derrubar a Vance, vamos usar a verdade impressa.

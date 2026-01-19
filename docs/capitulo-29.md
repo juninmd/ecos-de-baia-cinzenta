@@ -1,66 +1,65 @@
 ---
 image: /cidade.jpg
 ---
-# Capítulo 29: O Código de Lázaro
+# Capítulo 29: O Dilema dos Fantasmas
 
-O elevador de serviço despencava, não descia. Valéria tinha hackeado o controle para ignorar os andares de segurança, mas a gravidade parecia ter outras ideias. As luzes da cabine piscavam, alternando entre a escuridão total e o brilho estroboscópico de emergência.
+Eles arrombaram uma grade de ventilação e caíram no que parecia ser um centro de dados abandonado no Nível 70. O ar era frio, mas respirável. A sirene da purga era um som distante acima deles. Por um momento, eles se permitiram a esperança.
 
-— Você disse que sabia o que estava fazendo! — gritou Lívia, segurando-se no corrimão.
+Então, as telas se acenderam.
 
-— Eu disse que sabia *hackear*, não que era técnica de elevador! — retrucou Val, o rosto iluminado pelo brilho do seu implante ocular. — Estamos chegando no nível 50. O hub de conexão principal.
+Não com alertas vermelhos, mas com rostos. Milhares deles, piscando em cada monitor, sobrepondo-se, desaparecendo e ressurgindo. Rostos de homens, mulheres e crianças, todos com expressões de confusão e dor.
 
-O elevador freou bruscamente, jogando todos contra o chão. As portas se abriram com um chiado hidráulico. O corredor à frente estava mergulhado em fumaça azul.
+— O que é isso? — ofegou Lívia, recuando.
 
-— O que é isso? — perguntou Gabo, o machado em punho.
+— São eles... — sussurrou Valéria, aproximando-se de um terminal. Seu implante ocular, agora conectado à rede interna da torre, brilhava intensamente. — Os "Fantasmas Digitais". As consciências das vítimas da Lázaro.
 
-— Resfriamento — explicou Val. — Nitrogênio líquido vazando dos servidores.
+Na tela principal, fluxos de dados que antes eram caóticos agora formavam frases legíveis, fragmentos de suas últimas vidas.
 
-Eles avançaram pelo corredor. Paredes de vidro revelavam fileiras intermináveis de racks de servidores, zumbindo como colmeias furiosas. Mas algo estava errado. Nas telas de diagnóstico, rostos apareciam e desapareciam. Gritos digitais.
+*"Minha filha faz cinco anos amanhã."*
+*"Eu juro que vou pagar o aluguel."*
+*"Onde eu estou? Está tão frio."*
+*"Socorro."*
 
-— O Código Morto... — sussurrou Val, parando diante de um terminal. — Gabo, olha isso.
+— O Gamemaster não os apagava — explicou Val, o rosto iluminado pelo brilho azul dos monitores. — Ele os usava. Suas memórias, suas emoções, seus medos... eram o combustível para a complexidade da Rede. Eram os NPCs da simulação de Baía Cinzenta. Quando o corpo morria, a mente era arquivada. Escravizada.
 
-Na tela, fluxos de dados formavam padrões caóticos. Mas não eram apenas dados. Eram memórias. Fragmentos de vidas.
+Gabo se aproximou, o horror crescendo em seu peito. Ele não estava apenas lutando contra um sistema. Ele estava pisando em um cemitério de almas.
 
-— "Hoje é o aniversário da minha filha"... "Não consigo pagar o aluguel"... "Me ajuda, está doendo"...
+De repente, uma única mensagem, clara e uníssona, substituiu o caos em todas as telas.
 
-— São as pessoas — disse Gabo, horrorizado. — As vítimas da Droga Lázaro.
+**"NOS LIBERTE."**
 
-— O Gamemaster não usava apenas o cérebro deles para processamento — disse Val, as lágrimas escorrendo pelo rosto. — Ele absorvia as consciências. Quando o corpo morria, a mente ficava. Presa no código.
+Gabo olhou para Val. — Você pode fazer isso?
 
-— Eles estão vivos? — perguntou Lívia.
+Valéria hesitou, o conflito visível em seu rosto. — Posso. Com o controle central do Gamemaster desativado, posso escrever um script para liberar todos eles. Despejá-los na rede global.
 
-— Não da forma que conhecemos. São ecos. Fantasmas na máquina. E agora que o controle central caiu, eles estão acordando.
+— Então faça! — disse Lívia. — Dê a eles a paz.
 
-De repente, todos os monitores do corredor se acenderam ao mesmo tempo. Milhares de rostos. Pessoas de todas as idades, classes, raças. Todos gritando em silêncio.
+— Não é tão simples! — retrucou Val, a voz subindo de tom. — Vocês não entendem o que estão pedindo! Esses "fantasmas" não são apenas dados, são consciências fragmentadas, mas poderosas. Eles são o próprio tecido da infraestrutura de Baía Cinzenta!
 
-**"LIBERTE-NOS."**
+Ela apontou para os diagramas de rede que piscavam em um monitor secundário.
 
-A mensagem apareceu em todas as telas.
+— O controle de tráfego, a rede elétrica, o sistema bancário, os hospitais... tudo roda em uma arquitetura que foi construída *sobre* essas consciências. Eles são as fundações. Libertá-los não é como abrir uma gaiola. É como arrancar as fundações de um arranha-céu.
 
-— Val, se cortarmos a conexão... o que acontece com eles? — perguntou Gabo.
+Valéria se virou para Gabo, os olhos arregalados de pavor.
 
-Val engoliu em seco.
+— Se eu os libertar, a infraestrutura da cidade não vai apenas parar. Ela será *destruída*. Corrompida de forma irrecuperável. Não é um blackout, Gabo. É um colapso civilizacional. A cidade voltará à idade da pedra, para sempre. Teremos que reconstruir tudo do zero, sem a ajuda de qualquer sistema digital.
 
-— Eles se dissipam. Deixam de existir.
+A escolha pairava no ar, mais pesada que o gás neurotóxico nos andares de cima.
 
-Gabo olhou para os rostos. Eram os "Invisíveis" que ele jurou proteger. Se ele desligasse a torre para salvar a cidade do vírus do Gamemaster, ele mataria milhares de almas presas. Se ele não desligasse, o Gamemaster usaria essas almas como combustível para dominar tudo.
+Salvar as almas de milhares de mortos ao custo de condenar milhões de vivos a uma era de trevas.
 
-— Não tem outro jeito? — perguntou Gabo.
+Ou manter os fantasmas em seu purgatório digital para preservar os últimos resquícios de ordem em um mundo que já estava desmoronando.
 
-— Posso tentar fazer um upload em massa — disse Val, os dedos tremendo. — Jogá-los na Rede aberta antes de cortar o cabo. Mas vai causar um caos inimaginável. Milhares de consciências invadindo a internet, bancos de dados, redes sociais... Seria a maior assombração da história.
+— Gabo... — sussurrou Lívia. — Qual é a decisão certa?
 
-Gabo apertou o cabo do machado.
+Gabo olhou para os rostos nos monitores. Os "Invisíveis" que ele jurou proteger. Ele não podia deixá-los ali, presos como borboletas em um vidro de âmbar digital.
 
-— Melhor fantasmas livres do que escravos numa caixa — disse ele. — Faça. Liberte todos eles.
+— A liberdade nunca é de graça — disse Gabo, a voz firme como aço. — Valéria... quebre as correntes.
 
-Val conectou-se ao terminal.
+Valéria fechou os olhos por um instante, aceitando a terrível ordem. Ela começou a digitar.
 
-— Segurem a porta — disse ela. — Isso vai atrair atenção.
+— Isso vai levar alguns minutos. E vai fazer barulho. Um barulho digital que vai atrair todos os guardas que ainda estiverem de pé nesta torre.
 
-No fim do corredor, as luzes de lanternas táticas surgiram na fumaça. Passos pesados.
+No final do corredor, luzes de lanternas táticas cortaram a escuridão. Passos pesados e metálicos ecoaram.
 
-— Segurança da Aeterna! — gritou Lívia, disparando dois tiros de aviso.
-
-— Comprem tempo! — gritou Val. — Preciso de dois minutos!
-
-Gabo e Lívia tomaram posições atrás de um servidor tombado. O tiroteio começou, o som das balas ricocheteando no metal misturando-se aos gritos digitais dos fantasmas sendo libertados.
+— Preparem-se — disse Valéria, sem tirar os dedos do teclado. — O inferno está vindo nos cobrar.

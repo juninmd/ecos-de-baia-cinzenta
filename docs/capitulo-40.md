@@ -1,42 +1,44 @@
 ---
 image: /cidade.jpg
 ---
-# Capítulo 40: Traidores e Túmulos
+# Capítulo 40: O Céu Quebrou
 
-O Cemitério dos Esquecidos nunca fez jus ao nome. As pessoas ali eram esquecidas em vida, mas na morte, seus túmulos empilhados eram lembretes constantes.
+O Cemitério dos Esquecidos parecia mais abandonado do que nunca. Sem os drones de manutenção, o mato já começava a crescer sobre as lápides digitais apagadas.
 
-Gabo estava diante do túmulo de Dante Moretti. O verdadeiro túmulo.
+Gabo estava diante do túmulo de Dante Moretti. O verdadeiro túmulo, onde jaziam os restos mortais que ele recuperara da Torre no dia anterior, antes de fugir. Foi uma cerimônia rápida, só ele, Lívia e Val.
 
-— Você conseguiu, pai — disse Gabo para a pedra. — A chuva parou.
+— Você conseguiu, pai — disse Gabo para a terra revirada. — A chuva parou.
 
-Era mentira. Chovia fraco. Mas era chuva de verdade.
+Era mentira. E ele sabia.
 
-Lívia estava alguns metros atrás. Valéria tinha ficado no carro.
+Ele olhou para o céu. As nuvens não eram mais o manto cinza uniforme e controlado do Smog industrial. Eram negras, turbulentas, girando em padrões caóticos que ele nunca tinha visto. Pareciam feridas no céu.
 
-Gabo tirou o distintivo do bolso e o colocou sobre a lápide.
+O vento estava quente. Úmido. Cheirava a ozônio, eletricidade estática e mar podre.
 
-— Eu não sou você — disse Gabo. — Eu nunca vou ser o "Policial Modelo". Mas eu mantive a promessa. A cidade é nossa de novo.
+Uma gota caiu em sua mão. Grossa. Morna. Viscosa.
 
-Ele se virou para sair. Mas parou diante de outra cova aberta. Dois coveiros jogavam terra sobre um caixão de pinho barato.
+— O clima está quebrando — murmurou Gabo. — Sem a Aeterna para controlar as barreiras de tempestade e os ionizadores atmosféricos... a natureza está cobrando a dívida.
 
-Roberto Miranda.
+Um trovão sacudiu o chão. Não um estalo elétrico seco, mas um rugido profundo, geológico, que fez seus dentes vibrarem.
 
-Ninguém estava lá por ele.
+Quando ele voltou para o Cobalt, estacionado no portão, Valéria estava do lado de fora, olhando para o horizonte sul com um binóculo analógico que acharam na delegacia.
 
-Gabo caminhou até lá. Ele pegou um punhado de terra e jogou sobre o caixão.
+— Gabo... olha aquilo.
 
-— Descanse, seu filho da mãe — disse Gabo. — Espero que tenha uísque no inferno.
+Gabo pegou o binóculo.
 
-Quando ele voltou para o carro, Valéria estava agitada.
+Uma parede de nuvens roxas se erguia sobre o mar, avançando rápido em direção à costa. Era colossal. Relâmpagos vermelhos dançavam dentro da massa de nuvens.
 
-— Gabo, Lívia! Chamado no rádio. Código 10-90 na Zona Industrial.
+— O que é aquilo? — perguntou Lívia.
 
-— O que é 10-90? — perguntou Lívia.
+— Um super-ciclone — disse Val, a voz trêmula. — Sem a rede de satélites para dissipar... ele está vindo com força total. Gabo, o barômetro do carro caiu para níveis impossíveis.
 
-— "Atividade Paranormal ou Inexplicável" — traduziu Gabo.
+— É o Dilúvio — disse Gabo, sentindo um arrepio na espinha que não tinha nada a ver com o frio. — A conta chegou.
 
-— O chamado diz que as máquinas de uma fábrica desativada começaram a funcionar sozinhas — disse Val.
+O rádio da polícia no painel do carro chiou.
 
-Gabo suspirou e entrou no carro.
+— *Código Vermelho. Atenção todas as unidades. As comportas do dique sul estão falhando. Repito: falha estrutural nas comportas do sul. A água está subindo.*
 
-— O trabalho nunca acaba — disse ele, girando a chave.
+Gabo suspirou e entrou no carro, jogando a escopeta no banco de trás. A paz tinha durado pouco.
+
+— Vamos — disse ele, ligando o motor. — Temos que voltar para a delegacia e levar todos para os andares altos. Antes que essa cidade vire um aquário.

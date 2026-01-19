@@ -87,11 +87,11 @@ module.exports = {
       {
         text: 'Parte VIII: Cinzas',
         items: [
-          { text: 'Capítulo 36: O Ninho da Serpente', link: '/capitulo-36' },
-          { text: 'Capítulo 37: A Última Bala', link: '/capitulo-37' },
-          { text: 'Capítulo 38: A Manhã Seguinte', link: '/capitulo-38' },
-          { text: 'Capítulo 39: Dossiê Vance', link: '/capitulo-39' },
-          { text: 'Capítulo 40: Traidores e Túmulos', link: '/capitulo-40' },
+          { text: 'Capítulo 36: O Covil do Capitão', link: '/capitulo-36' },
+          { text: 'Capítulo 37: A Nova Ordem', link: '/capitulo-37' },
+          { text: 'Capítulo 38: Ressaca Digital', link: '/capitulo-38' },
+          { text: 'Capítulo 39: Vírus de Papel', link: '/capitulo-39' },
+          { text: 'Capítulo 40: O Prenúncio', link: '/capitulo-40' },
           { text: 'Capítulo 41: O Preço da Justiça', link: '/capitulo-41' },
           { text: 'Capítulo 42: Fantasmas da Cidade', link: '/capitulo-42' },
           { text: 'Capítulo 43: O Novo Departamento', link: '/capitulo-43' },

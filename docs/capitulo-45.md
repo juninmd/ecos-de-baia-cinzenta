@@ -1,42 +1,42 @@
 ---
 image: /cidade.jpg
 ---
-# Capítulo 45: O Despertar
+# Capítulo 45: Protocolo N.O.A.
 
-**Localização:** Desconhecida. Profundezas do Oceano Atlântico.
-**Instalação:** "Arca N.O.A." (Nexo de Operações Avançadas).
-**Status:** Inativo há 20 anos.
+**Localização:** Ponto Zero. Fossa Oceânica a 200km da costa.
+**Profundidade:** 4.000 metros.
 
-A escuridão era total e a pressão esmagadora.
+No silêncio esmagador do abismo, uma luz vermelha começou a piscar.
 
-Dentro da base subaquática, o silêncio reinou por duas décadas. Até hoje.
+A base "Arca N.O.A." não recebia o sinal de "keep-alive" da Torre Aeterna há 72 horas.
 
-Uma luz vermelha piscou no painel principal. Depois outra. E outra.
+**> ERRO DE SINCRONIA.**
+**> TORRE CENTRAL: OFFLINE.**
+**> PROTOCOLO DE CONTINGÊNCIA: ATIVADO.**
 
-O sistema de suporte de vida roncou, despertando de seu sono criogênico.
+O sistema interpretou o silêncio como a queda da civilização na superfície. E ele tinha ordens para esse cenário. Ordens antigas, escritas pelo próprio fundador da Aeterna antes de Dante Moretti assumir o controle local.
 
-**> DETECTADA FALHA NO NÓ CENTRAL (BAÍA CINZENTA).**
-**> PROTOCOLO DE CONTENÇÃO FALHOU.**
-**> INICIANDO SEQUÊNCIA DE REINICIALIZAÇÃO.**
+Uma câmara de estase se abriu.
 
-Uma cápsula se abriu com um silvo de descompressão. Gás frio escapou para a sala.
+O homem que acordou não parecia ter envelhecido um dia. Sua pele era pálida como mármore, seus músculos definidos por eletroestimulação constante durante o sono. Ele arrancou os tubos de sua garganta com um movimento brusco, sem demonstrar dor.
 
-Uma mão pálida agarrou a borda da cápsula. Dedos longos, elegantes, com anéis de ouro em cada falange.
+Ele caminhou nu até o terminal central.
 
-A figura se sentou, tossindo o fluido de preservação.
+As telas mostravam o caos em Baía Cinzenta. A enchente. O colapso.
 
-Ele olhou para a tela à sua frente. A imagem da Aeterna Tower apagada brilhava no monitor.
+— Lindo — disse ele. Sua voz era profunda, acostumada a dar ordens que mudavam o destino de nações. — A limpeza começou. Dante era mole demais. Elara era ambiciosa demais.
 
-— Elara falhou — disse a voz, suave e culta. — Como eu previ.
+Ele digitou uma sequência de comando.
 
-Ele se levantou. O reflexo no vidro mostrou um homem de meia-idade, com uma cicatriz que ia da testa ao queixo. Ele sorriu.
+**> INICIAR FASE 2: PACIFICAÇÃO.**
+**> LIBERAR UNIDADES LEVIATÃ.**
 
-— Está na hora de voltar para casa.
+Lá fora, nas trevas do oceano, hangares gigantescos se abriram. Luzes submarinas iluminaram formas colossais, máquinas de guerra anfíbias que esperavam há décadas por esse momento.
 
-Ele caminhou até o console e digitou um código.
+O homem sorriu, olhando para o reflexo de seu próprio rosto, marcado por implantes de ouro subdérmicos que formavam uma coroa em sua testa.
 
-**> ATIVAR PROJETO: DILÚVIO.**
+— Eu sou o dilúvio — disse o Imperador da Aeterna. — E eu trago a paz.
 
-Lá fora, nas profundezas, enormes portões se abriram. E algo gigantesco começou a subir em direção à superfície.
+Ele apertou "ENTER".
 
-A verdadeira tempestade estava apenas começando.
+A terra tremeu.
