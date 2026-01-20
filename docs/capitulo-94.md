@@ -1,0 +1,46 @@
+---
+image: /hive-heart.jpg
+---
+# Capítulo 94: O Coração da Colmeia
+
+**Ruas de Baía Cinzenta - Manhã do Último Dia**
+
+O comboio era patético e heroico.
+
+Na frente, Vilar e os remanescentes dos Puros abriam caminho com lança-chamas (a única arma eficaz contra o Jardim). No centro, Gabo e Val empurravam uma maca hospitalar reforçada. Sobre ela, não havia um paciente, mas o servidor negro de Aria, conectado a baterias portáteis.
+
+Dra. Nise ficara para trás para cuidar dos feridos e manter as defesas do hospital.
+
+— *Estou vendo... muitas cores...* — a voz de Aria saía de um alto-falante acoplado ao servidor. — *O mundo é tão... verde.*
+
+— Concentre-se, garota — disse Gabo, disparando contra um "Cão" de raízes que saltou de um beco. — Guarde sua energia.
+
+O caminho até o Memorial do Dilúvio era um pesadelo. Prédios haviam se curvado como árvores ao vento, formando arcos sobre as ruas. O chão era macio, esponjoso, respirando sob as botas deles.
+
+— Estamos a 500 metros! — gritou Val, consultando um mapa desenhado à mão (GPS estava morto).
+
+De repente, o chão se abriu.
+
+Não foi um buraco. Foi uma boca.
+
+Uma planta carnívora colossal, camuflada como asfalto, engoliu a vanguarda de Vilar. Homens gritaram enquanto eram dissolvidos por ácido digestivo.
+
+— Vilar! — gritou Gabo.
+
+O Capitão rolou para o lado, escapando por pouco, mas seu lança-chamas caiu na garganta da besta.
+
+— Continuem! — rugiu Vilar, puxando um facão de cerâmica. — Eu seguro essas coisas!
+
+Mais criaturas surgiram das paredes. Humanoides de casca de árvore, com espinhos no lugar de dedos. Eram os "Integrados".
+
+— Não parem! — Vilar investiu contra eles, um guerreiro velho e caolho lutando contra a própria natureza.
+
+Gabo e Val empurraram a maca ladeira acima, em direção à cúpula pulsante do Sol Negro que pairava sobre o Memorial.
+
+— *Eles estão com dor, Gabo* — sussurrou Aria. — *As pessoas dentro das árvores... elas gritam em silêncio.*
+
+— Vamos acabar com isso, Aria. Prometo.
+
+Eles chegaram à entrada do antigo bunker. As portas de aço tinham sido arrancadas. O túnel descia para a escuridão, pulsando com luz violeta.
+
+— É aqui — disse Gabo. — O ventre da besta.
