@@ -9,9 +9,13 @@ Gabriel "Gabo" Moretti sentiu a água fria escorrer pelo pescoço, infiltrando-s
 
 — Você demorou, inspetor — disse o oficial de patrulha, um garoto novo que tremia, não de frio, mas do que tinha visto.
 
-— O trânsito na Ponte Sul estava um inferno, garoto. Onde está ele?
+— O trânsito na Ponte Sul estava um inferno, garoto. Já isolou o perímetro e colheu depoimentos dos vizinhos?
 
-O oficial apontou para um beco estreito entre dois contêineres habitacionais empilhados. A fita amarela da polícia parecia uma piada ali, uma tentativa frágil de impor ordem ao caos daquele lugar esquecido por Deus e pela prefeitura.
+— Ninguém viu nada, senhor. Como sempre.
+
+— Sempre alguém vê algo. Eles só têm medo de falar. — Gabo suspirou, puxando um bloco de notas encharcado. — Anote as placas de qualquer drone de entrega que passou por aqui na última hora. As câmeras deles gravam tudo, mesmo que os donos não queiram. É o básico, soldado.
+
+O oficial assentiu, envergonhado, e apontou para um beco estreito entre dois contêineres habitacionais empilhados. A fita amarela da polícia parecia uma piada ali, uma tentativa frágil de impor ordem ao caos daquele lugar esquecido por Deus e pela prefeitura.
 
 Gabriel engoliu rapidamente seu café, sentindo o gosto amargo descer pela garganta. Ele não queria entrar lá. Aos trinta anos, sentia-se como se tivesse setenta. Seus joelhos estalavam, e a insônia da semana passada fazia as luzes da cidade deixarem rastros em sua visão periférica.
 
@@ -21,11 +25,15 @@ E havia o Ruído. Aquele zumbido onipresente de baixa frequência que a cidade e
 
 O desconforto era apenas mais um ruído de fundo.
 
-Ele avançou.
+Ele avançou, desviando de poças que refletiam o céu cinza como espelhos quebrados. A chuva gelada batia em seu rosto, trazendo uma memória indesejada. A mesma chuva caía na noite em que encontraram Beatriz. Bia... sua parceira, seu amor, sua âncora.
+
+Ele ainda podia ver o corpo dela estendido no asfalto, o buraco de bala no peito fumegante. O relatório oficial dizia "assalto mal sucedido", mas Gabo sabia a verdade. Ele vira a sombra de Roberto Miranda se afastando no beco. Miranda, o amigo que virou carrasco. A dor daquela perda nunca cicatrizou; apenas calcificou, transformando-se em uma armadura de cinismo que ele vestia todos os dias.
+
+Ele sacudiu a cabeça, forçando o fantasma de Bia de volta para o fundo de sua mente. Agora não. Havia um trabalho a fazer.
 
 O corpo estava sentado, encostado em uma parede de zinco. Era um rapaz jovem, vinte e poucos anos, vestindo roupas de segunda mão que provavelmente pertenceram a alguém da cidade alta antes de serem descartadas. Cabelo azul desbotado, tatuagens de circuitos nos braços — um ativista, provavelmente. Alguém que acreditava que podia mudar o mundo gritando em praças públicas.
 
-— Causa da morte? — Gabriel perguntou, agachando-se. A lama manchou suas botas.
+— Causa da morte? — Gabriel perguntou, agachando-se e calçando luvas de látex sintético. A lama manchou suas botas.
 
 — Nenhuma marca visível no corpo, senhor. Sem tiros, sem facadas. Parece... parece que ele apenas desligou.
 
