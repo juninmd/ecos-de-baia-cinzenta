@@ -149,6 +149,31 @@ module.exports = {
         items: [
           { text: 'Capítulo 76: A Sombra do Meio-Dia', link: '/capitulo-76' },
           { text: 'Capítulo 77: Anjos da Morte', link: '/capitulo-77' },
+          { text: 'Capítulo 78: O Jardim de Concreto', link: '/capitulo-78' },
+          { text: 'Capítulo 79: Frequências Fantasmas', link: '/capitulo-79' },
+          { text: 'Capítulo 80: A Autópsia de um Deus', link: '/capitulo-80' },
+          { text: 'Capítulo 81: Sangue e Óleo', link: '/capitulo-81' },
+          { text: 'Capítulo 82: O Profeta Mudo', link: '/capitulo-82' },
+          { text: 'Capítulo 83: Raízes', link: '/capitulo-83' },
+          { text: 'Capítulo 84: A Primeira Colheita', link: '/capitulo-84' },
+          { text: 'Capítulo 85: O Sol Negro', link: '/capitulo-85' },
+        ]
+      },
+      {
+        text: 'Parte XIII: A Carne Mecânica',
+        items: [
+          { text: 'Capítulo 86: Simbiose', link: '/capitulo-86' },
+          { text: 'Capítulo 87: O Novo Sacerdócio', link: '/capitulo-87' },
+          { text: 'Capítulo 88: Sintomas de Abstinência', link: '/capitulo-88' },
+          { text: 'Capítulo 89: Memória Genética', link: '/capitulo-89' },
+          { text: 'Capítulo 90: O Arquivista', link: '/capitulo-90' },
+          { text: 'Capítulo 91: Protocolo Gênesis', link: '/capitulo-91' },
+          { text: 'Capítulo 92: A Praga de Ferro', link: '/capitulo-92' },
+          { text: 'Capítulo 93: Fome', link: '/capitulo-93' },
+          { text: 'Capítulo 94: O Coração da Colmeia', link: '/capitulo-94' },
+          { text: 'Capítulo 95: Sacrifício Necessário', link: '/capitulo-95' },
+          { text: 'Capítulo 96: A Grande Convergência', link: '/capitulo-96' },
+          { text: 'Capítulo 97: O Último Suspiro', link: '/capitulo-97' },
         ]
       },
       {
