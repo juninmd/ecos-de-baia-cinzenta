@@ -7,13 +7,15 @@ A fita de isolamento da polícia, um amarelo berrante e artificial, era a única
 
 Gabriel Moretti passou por baixo da fita, o sobretudo de couro sintético pesado de água. O cheiro era o primeiro a bater: ozônio, lixo queimado e aquele adocicado inconfundível de cobre e vísceras expostas.
 
-— Está atrasado, "Herói". O show já começou.
+Ele notou dois agentes da Corregedoria em ternos cinza impecáveis — secos, apesar da chuva — observando do canto, tomando notas em tablets. Abutres.
 
-Gabo ignorou o comentário. Ele puxou um frasco de colírio barato do bolso e pingou duas gotas em cada olho. O arce no globo ocular foi instantâneo, uma dor aguda que limpou sua mente por um segundo. Ele piscou furiosamente, deixando as lágrimas artificiais lavarem a fuligem e o cansaço.
+— Está atrasado, "Herói". O show já começou — disse o Capitão Vilar, interceptando-o antes que os agentes o fizessem. — E temos plateia. O Dantas mandou os cães de guarda dele para garantir que você siga o protocolo. Nada de "intuição" hoje, Gabriel. Quero Luvas, propés e cadeia de custódia assinada.
+
+Gabo ignorou o comentário sobre a plateia, embora seu pescoço tenha ficado tenso. Ele puxou um frasco de colírio barato do bolso e pingou duas gotas em cada olho. O ardor no globo ocular foi instantâneo, uma dor aguda que limpou sua mente por um segundo.
 
 — O trânsito no Distrito da Névoa estava um inferno, Jonas. O que temos?
 
-— Arte. Pura e doente arte.
+— Arte. Pura e doente arte. Mas cuidado. Se você espirrar errado, eles vão usar isso para tirar seu distintivo.
 
 Eles entraram. O galpão era vasto, uma catedral de indústria morta. No centro, sob a luz crua e impiedosa dos refletores forenses, estava a vítima.
 
@@ -39,13 +41,13 @@ As pálpebras haviam sido removidas. No lugar dos olhos, lentes de câmeras anal
 
 O som foi mecânico, vindo de dentro do crânio do rapaz. As lentes giraram, focando.
 
-— Elas estão ativas — disse a perita técnica, uma mulher baixa chamada Maya "Glitch" Sato, que digitava furiosamente em um tablet holográfico ao lado do corpo. — Não apenas ativas. Estão transmitindo.
+— Elas estão ativas — disse a perita técnica, uma mulher baixa chamada Maya "Glitch" Sato, que estava sentada no chão, cercada por cabos físicos conectados a um terminal portátil pesado. Nada de hologramas flutuantes aqui; apenas código rolando em telas de fósforo verde. — Não apenas ativas. Estão transmitindo.
 
-— Para onde? — perguntou Gabriel.
+— Para onde? — perguntou Gabriel, agachando-se ao lado dela, notando a marca dos cabos: *Aeterna-Mil-Spec*.
 
-— Não é um feed aberto. É ponto a ponto. Criptografia militar de nível Aeterna, mas com uma assinatura... artística.
+— Não é um feed aberto. É ponto a ponto. Estou tentando triangular, mas o sinal está ricocheteando em dezenas de proxies. Coreia, Nova Berlim, Lua... — Ela limpou o suor da testa. — A criptografia é pesada. Camadas de ruído branco sobrepostas.
 
-Gabriel se inclinou mais perto, encarando as lentes.
+Gabriel se inclinou mais perto, encarando as lentes no rosto do morto.
 
 — O que ele está vendo? O que *eles* estão vendo?
 
@@ -93,9 +95,11 @@ Gabriel olhou para as lentes nos olhos do cadáver uma última vez. Ele se aprox
 
 — Maya, rastreie o salto do sinal. Não me diga que é impossível. Apenas faça.
 
-— O sinal está ricocheteando em torres de retransmissão no Distrito de Prata — disse Maya, os olhos arregalados. — Gabo... o sinal final não está indo para a Dark Web. Está indo para um servidor privado na Torre Aeterna.
+Maya digitou por mais alguns minutos, mordendo o lábio. — Consegui isolar o nó de saída. Não é a Dark Web. É uma sub-rede corporativa. O endereço IP está mascarado, mas o padrão de tráfego... — Ela virou a tela para ele. — Olha esse handshake. É proprietário.
 
-— Aeterna — Gabriel soltou uma risada seca. — Claro. Por que seria fácil?
+Gabriel semicerrou os olhos. — Protocolo Lazarus. É da Aeterna Corp. Mas especificamente de uma subsidiária fantasma que comprou os antigos armazéns do porto mês passado.
+
+— Aeterna — Gabriel soltou uma risada seca. — Claro. Por que seria fácil? Mas agora temos um endereço físico, não apenas digital.
 
 Ele se virou para sair.
 
