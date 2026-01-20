@@ -41,7 +41,7 @@ As portas de emergência se fecharam. Os esporos batiam contra o vidro reforçad
 
 — Vilar, evacue o prédio — ordenou Gabo. — Isso não é um ataque hacker. É uma infecção.
 
-Gabo correu para o painel de controle da porta. Ele precisava tirar Nise de lá antes que o sistema de purificação — que provavelmente incineraria a sala — fosse ativado.
+Gabo correu para o painel de controle da porta, suas órteses metálicas estalando a cada passo pesado. Ele precisava tirar Nise de lá antes que o sistema de purificação — que provavelmente incineraria a sala — fosse ativado.
 
 — Nise, vá para a câmara de descontaminação! Agora!
 

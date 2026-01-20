@@ -110,3 +110,14 @@
 .vp-doc img:hover {
   transform: rotate(0deg) scale(1.02);
 }
+
+/* Drop Cap */
+.vp-doc p:first-of-type::first-letter {
+  font-size: 3.5em;
+  line-height: 0.8;
+  float: left;
+  margin-right: 0.1em;
+  color: var(--vp-c-brand);
+  font-family: "Playfair Display", serif;
+  font-weight: 700;
+}

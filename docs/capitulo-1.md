@@ -7,11 +7,15 @@ A chuva em Baía Cinzenta não lavava nada; ela apenas empurrava a sujeira de um
 
 Gabriel "Gabo" Moretti sentiu a água fria escorrer pelo pescoço, infiltrando-se sob a gola do sobretudo que já cheirava a mofo e café frio. Ele estava parado na entrada da Vila da Ferrugem, onde o asfalto da cidade alta cedia lugar a passarelas de metal corroído e lama tóxica. O brilho dos neons publicitários — *COMPRE FELICIDADE, COMPRE AETERNA* — refletia nas poças como óleo derramado, distorcendo as cores em um arco-íris doentio.
 
-— Você demorou, inspetor — disse o oficial de patrulha, um garoto novo que tremia, não de frio, mas do que tinha visto.
+— Você demorou, inspetor — disse o oficial de patrulha, um garoto novo que tremia, não de frio, mas do que tinha visto. Ele deu um passo para o lado, e a bota dele chapinhou em uma poça escura perto do corpo.
 
-— O trânsito na Ponte Sul estava um inferno, garoto. Já isolou o perímetro e colheu depoimentos dos vizinhos?
+— Cuidado onde pisa, soldado! — Gabo rosnou, empurrando o ombro do rapaz. — Você quer contaminar a única cena de crime limpa que temos esta semana? Se misturar suas pegadas com as do assassino, eu mesmo te denuncio para a Corregedoria.
 
-— Ninguém viu nada, senhor. Como sempre.
+— D-desculpe, senhor.
+
+— O trânsito na Ponte Sul estava um inferno. Já isolou o perímetro e colheu depoimentos dos vizinhos? — Gabo olhou para as janelas fechadas dos contêineres acima. Cortinas se mexiam rapidamente. Olhos assustados espiavam através das frestas.
+
+— Ninguém viu nada, senhor. Bateram portas na minha cara. Como sempre.
 
 — Sempre alguém vê algo. Eles só têm medo de falar. — Gabo suspirou, puxando um bloco de notas encharcado. — Anote as placas de qualquer drone de entrega que passou por aqui na última hora. As câmeras deles gravam tudo, mesmo que os donos não queiram. É o básico, soldado.
 
@@ -23,9 +27,9 @@ Para piorar, sua bexiga protestava. Três canecas de café na última hora estav
 
 E havia o Ruído. Aquele zumbido onipresente de baixa frequência que a cidade emitia 24 horas por dia. Hoje, estava mais forte. Gabo sentiu a pressão atrás dos olhos aumentar, pulsando em compasso com os neons. Ele passou a mão pelo nariz e viu sangue na luva. "Ótimo", pensou. "Mais um pouco e meu cérebro escorre pelo ouvido."
 
-O desconforto era apenas mais um ruído de fundo.
+O desconforto era apenas mais um ruído de fundo. O cheiro era o pior. Uma mistura de ozônio queimado, lixo apodrecendo na umidade e aquele odor metálico e adocicado de sangue velho. Gabo puxou um lenço do bolso e cobriu o nariz e a boca por um segundo, inspirando o cheiro de tabaco impregnado no tecido para mascarar a morte.
 
-Ele avançou, desviando de poças que refletiam o céu cinza como espelhos quebrados. A chuva gelada batia em seu rosto, trazendo uma memória indesejada. A mesma chuva caía na noite em que encontraram Beatriz. Bia... sua parceira, seu amor, sua âncora.
+Ele avançou, desviando de poças que refletiam o céu cinza como espelhos quebrados. Iluminou o chão com sua lanterna, procurando marcas de pneus, bitucas de cigarro, qualquer coisa que a chuva ainda não tivesse levado. A água gelada batia em seu rosto, trazendo uma memória indesejada. A mesma chuva caía na noite em que encontraram Beatriz. Bia... sua parceira, seu amor, sua âncora.
 
 Ele ainda podia ver o corpo dela estendido no asfalto, o buraco de bala no peito fumegante. O relatório oficial dizia "assalto mal sucedido", mas Gabo sabia a verdade. Ele vira a sombra de Roberto Miranda se afastando no beco. Miranda, o amigo que virou carrasco. A dor daquela perda nunca cicatrizou; apenas calcificou, transformando-se em uma armadura de cinismo que ele vestia todos os dias.
 
@@ -55,13 +59,15 @@ Ele aproximou a mão enluvada do rosto da vítima. As lentes focaram. Um leve zu
 
 Ele puxou um pequeno frasco de metal do bolso do sobretudo — seu kit de reagentes portátil. Pingou uma gota de uma solução azulada na junção entre a pele e o metal da órbita. O líquido efervesceu e ficou roxo.
 
-— Polímero condutivo de grau militar — murmurou ele, limpando o resíduo. — Isso não é sucata da Vila. A conexão neural é direta.
+— Polímero condutivo de grau militar — murmurou ele, recolhendo uma amostra com uma pinça e depositando-a em um tubo de ensaio. — Isso não é sucata da Vila. A conexão neural é direta. Vou precisar que o laboratório confirme a origem, mas aposto meu distintivo que veio dos depósitos da Zona Industrial.
 
 — O que isso significa? — perguntou o oficial.
 
-— Significa que ele não apenas "está transmitindo". Ele está fazendo *streaming* em 8K. Alguém assistiu a morte desse garoto em primeira pessoa.
+— Significa que ele não apenas "está transmitindo". A largura de banda aqui... — Gabo seguiu um fio fino que corria da nuca do rapaz até um transmissor sob a gola da camisa. — Alguém assistiu a morte desse garoto. Talvez ainda esteja assistindo.
 
-— Tem mais uma coisa, inspetor — o oficial disse, estendendo um saco de evidências. — Estava no bolso da jaqueta dele.
+Ele cortou o fio com um canivete. O zumbido parou abruptamente. Gabo ensacou o transmissor.
+
+— Tem mais uma coisa, inspetor — o oficial disse, estendendo um saco de evidências. — Estava no bolso da jaqueta dele. Eu usei luvas, juro.
 
 Gabriel pegou o saco. Dentro, protegida do dilúvio, havia uma fotografia física, impressa em papel fotográfico de verdade — uma raridade cara hoje em dia.
 
