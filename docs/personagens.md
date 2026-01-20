@@ -29,23 +29,23 @@
 
 ---
 
-## Valéria "Val" Cruz - [STATUS: EM ESTASE / PETRIFICADA]
+## Valéria "Val" Cruz - [STATUS: PETRIFICADA/EM ESTASE]
 
 ![Valéria "Val" Cruz](/val.jpg)
 
 *   **Idade:** 23 anos
 *   **Altura:** 1,60m
-*   **Porte Físico:** Pequena e esguia. Atualmente imobilizada em um estado de petrificação biológica.
-*   **Cabelo:** Curto (*pixie cut*), com tinta holográfica (agora desbotada para cinza).
-*   **Olhos:** Cibernéticos, congelados.
-*   **Marcas Distintivas:** Corpo transformado em uma estátua de material orgânico cinzento semelhante a pedra/madeira.
-*   **Vestuário:** Jaqueta de couro sintético petrificada junto ao corpo.
-*   **Equipamento:** Deck de pulso "Phantom V3" (inutilizado).
-*   **Gostos/Traços:** (Anteriormente) Viciada em bebidas energéticas e noodles.
-*   **Perfil Psicológico:** Otimista e hiperativa. Sacrificou-se para proteger Gabo no bunker do Projeto Gênesis.
-*   **Função:** Detetive Júnior / Mártir.
-*   **Histórico:** Infectada pela praga do Jardineiro ao defender a missão final. Permanece no parque central como um monumento à vitória da humanidade, com sinais vitais mínimos detectados, aguardando uma possível cura.
-
+*   **Porte Físico:** Pequena e esguia, com postura rígida de quem passa horas em interfaces neurais. Atualmente imobilizada em um estado de petrificação biológica
+*   **Cabelo:** Curto (*pixie cut*), com tinta holográfica que muda entre rosa neon e azul elétrico.
+*   **Olhos:** Cibernéticos, com íris prateadas de realidade aumentada.
+*   **Marcas Distintivas:** Implantes de LED nas maçãs do rosto que pulsam com seu humor. Tatuagem de código de barras no pescoço.
+*   **Vestuário:** Jaquetas de couro sintético, coturnos de plataforma e calças cargo.
+*   **Equipamento:** Deck de pulso "Phantom V3", enxame de micro-drones "Vagalumes".
+*   **Gostos/Traços:** Viciada em bebidas energéticas e noodles. Hackear outdoors por diversão.
+*   **Perfil Psicológico:** Otimista e hiperativa. A bússola moral digital de Gabo. Lealdade feroz e uma paixão crescente por ele.
+*   **Função:** Detetive Júnior (Afastada) / Símbolo da Resistência.
+*   **Histórico:** Prodígio recrutada para a polícia. Ajudou Gabo em todas as crises. Foi infectada pela "Praga de Ferro" ao tentar salvar o servidor central no final da Parte XIII. Atualmente encontra-se em estado de petrificação (estase) no Parque Memorial, aguardando cura.
+ 
 ---
 
 ## Marco Moretti - [STATUS: FALECIDO / ABSORVIDO]

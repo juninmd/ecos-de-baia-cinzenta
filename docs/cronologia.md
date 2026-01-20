@@ -97,6 +97,15 @@ Esta linha do tempo organiza os eventos históricos e narrativos do universo de 
 *   **A Grande Convergência:** Gabo conecta Aria à árvore-mestre biológica. A Entidade purga a infecção digital, mas o custo é o fim da era tecnológica avançada.
 *   **O Último Suspiro (Cap 97):** A infecção cessa. O sol brilha sobre uma cidade em ruínas, sem IA e sem rede. Gabo e Vilar contemplam um futuro onde a reconstrução será manual. Val permanece petrificada como um monumento à vitória.
 
+### Parte XIII: A Carne Mecânica (Capítulos 86-97)
+*   **Simbiose:** A cidade enfrenta uma infestação de tecnologia orgânica descontrolada.
+*   **A Praga de Ferro:** Uma infecção biomecânica começa a transformar cidadãos em estátuas vivas ("Jardim de Carne").
+*   **O Sacrifício:** Para parar a praga, a conexão com a Entidade (Aria/Dante) precisa ser cortada.
+*   **O Último Suspiro (Cap 97):** A infecção cessa, mas deixa as vítimas em estase (petrificadas), incluindo Valéria Cruz. Toda a tecnologia avançada da cidade morre. Começa a era do silêncio.
+
+### Parte XIV: O Vazio (Capítulos 98-...)
+*   **A Cidade Silenciosa (Cap 98):** Três meses após o apagão total. A cidade está sendo reconstruída manualmente. Gabo investiga um corpo encontrado com um cubo tecnológico ativo, sugerindo que o silêncio não é absoluto.
+
 ---
 
 ## Resumo dos Arcos

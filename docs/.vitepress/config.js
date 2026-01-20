@@ -177,6 +177,12 @@ module.exports = {
         ]
       },
       {
+        text: 'Parte XIV: O Vazio',
+        items: [
+          { text: 'Capítulo 98: A Cidade Silenciosa', link: '/capitulo-98' },
+        ]
+      },
+      {
         text: 'Arquivos',
         items: [
           { text: 'Dossiê de Personagens', link: '/personagens' },
