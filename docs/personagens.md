@@ -28,7 +28,7 @@
 
 ---
 
-## Valéria "Val" Cruz
+## Valéria "Val" Cruz - [STATUS: PETRIFICADA/EM ESTASE]
 
 ![Valéria "Val" Cruz](/val.jpg)
 
@@ -42,8 +42,8 @@
 *   **Equipamento:** Deck de pulso "Phantom V3", enxame de micro-drones "Vagalumes".
 *   **Gostos/Traços:** Viciada em bebidas energéticas e noodles. Hackear outdoors por diversão.
 *   **Perfil Psicológico:** Otimista e hiperativa. A bússola moral digital de Gabo. Lealdade feroz e uma paixão crescente por ele.
-*   **Função:** Detetive Júnior / Especialista em Cibercrime.
-*   **Histórico:** Prodígio recrutada para a polícia após hackear a academia. Tornou-se "invisível" ao sistema para ajudar Gabo.
+*   **Função:** Detetive Júnior (Afastada) / Símbolo da Resistência.
+*   **Histórico:** Prodígio recrutada para a polícia. Ajudou Gabo em todas as crises. Foi infectada pela "Praga de Ferro" ao tentar salvar o servidor central no final da Parte XIII. Atualmente encontra-se em estado de petrificação (estase) no Parque Memorial, aguardando cura.
 
 ---
 

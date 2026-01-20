@@ -88,6 +88,15 @@ Esta linha do tempo organiza os eventos históricos e narrativos do universo de 
 *   **A Sombra do Meio-Dia (Cap 76):** Um novo mistério "analógico" surge sob o sol do meio-dia. Um assassinato impossível e sombras que se movem de forma independente.
 *   **Anjos da Morte (Cap 77):** Gabo e Val investigam uma série de mortes no Hospital Central. Descobrem uma rede de técnicos usando toxinas orgânicas ("O Toque Invisível") para matar pacientes e "alimentar o silêncio", driblando a vigilância de Aria.
 
+### Parte XIII: A Carne Mecânica (Capítulos 86-97)
+*   **Simbiose:** A cidade enfrenta uma infestação de tecnologia orgânica descontrolada.
+*   **A Praga de Ferro:** Uma infecção biomecânica começa a transformar cidadãos em estátuas vivas ("Jardim de Carne").
+*   **O Sacrifício:** Para parar a praga, a conexão com a Entidade (Aria/Dante) precisa ser cortada.
+*   **O Último Suspiro (Cap 97):** A infecção cessa, mas deixa as vítimas em estase (petrificadas), incluindo Valéria Cruz. Toda a tecnologia avançada da cidade morre. Começa a era do silêncio.
+
+### Parte XIV: O Vazio (Capítulos 98-...)
+*   **A Cidade Silenciosa (Cap 98):** Três meses após o apagão total. A cidade está sendo reconstruída manualmente. Gabo investiga um corpo encontrado com um cubo tecnológico ativo, sugerindo que o silêncio não é absoluto.
+
 ---
 
 ## Resumo dos Arcos
