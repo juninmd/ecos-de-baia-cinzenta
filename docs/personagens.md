@@ -24,7 +24,7 @@
 *   **Gostos/Traços:** Viciado em pizza e café. Insone e paranoico.
 *   **Perfil Psicológico:** Cínico e violento, mas com um código de honra rígido. Protege os inocentes com uma fúria silenciosa.
 *   **Função:** Inspetor da Divisão de Casos Esquecidos / "O Herói do Apagão".
-*   **Histórico:** Filho do Comissário Dante Moretti. Carreira destruída por traição. Lidera a resistência contra a conspiração do Dilúvio.
+*   **Histórico:** Filho do Comissário Dante Moretti. Carreira destruída por traição e pela morte de sua parceira, Beatriz. Lidera a resistência contra a conspiração do Dilúvio.
 
 ---
 
@@ -81,7 +81,7 @@
 *   **Gostos/Traços:** Viciado em poder, controle e jogos de azar.
 *   **Perfil Psicológico:** Sádico com uma lealdade distorcida. Via-se como um "sobrevivente realista", não um traidor.
 *   **Função:** Chefe de Segurança da "Nova Baía" / Antagonista.
-*   **Histórico:** Ex-parceiro de Gabo. Vendeu a alma ao Sindicato para pagar dívidas. Congelado e estilhaçado por Gabo.
+*   **Histórico:** Ex-parceiro de Gabo. Vendeu a alma ao Sindicato para pagar dívidas. Responsável pela execução de Beatriz Vargas, o que selou seu destino como inimigo mortal de Gabo. Congelado e estilhaçado por Gabo.
 
 ---
 
@@ -178,6 +178,23 @@
 
 ---
 
+## Beatriz "Bia" Vargas (In Memoriam)
+
+*   **Idade:** 29 anos (ao falecer)
+*   **Altura:** 1,72m
+*   **Porte Físico:** Atlética, postura de combate.
+*   **Cabelo:** Curto e preto, prático.
+*   **Olhos:** Castanhos, duros mas que sorriam para Gabo.
+*   **Marcas Distintivas:** Uma cicatriz de bala no ombro, ganha salvando um civil.
+*   **Vestuário:** Jaqueta de couro marrom e jeans.
+*   **Equipamento:** Pistola 9mm padrão.
+*   **Gostos/Traços:** Detestava burocracia e café frio. Amava jazz antigo.
+*   **Perfil Psicológico:** Idealista e incorruptível. Acreditava na lei acima de tudo, o que foi sua ruína.
+*   **Função:** A Ferida Aberta.
+*   **Histórico:** Ex-namorada e parceira de Gabo. Assassinada brutalmente no início da carreira de ambos. Gabo descobriu tarde demais que o executor foi Roberto Miranda, sob ordens superiores, para encobrir o início do Projeto Dilúvio. Sua morte transformou Gabo no homem cínico que é hoje.
+
+---
+
 ## Kiko Vibe (Falecido)
 
 *   **Idade:** 20 anos
@@ -249,6 +266,23 @@
 *   **Perfil Psicológico:** Um homem honesto em uma cidade corrupta. Figura paterna para Gabo e Val.
 *   **Função:** Chefe do Departamento de Polícia de Baía Cinzenta.
 *   **Histórico:** Veterano da força. Resistiu a todas as tentativas de suborno da Aeterna. Lidera a reconstrução da polícia na nova era.
+
+---
+
+## Inspetor Rangel
+
+*   **Idade:** 45 anos
+*   **Altura:** 1,78m
+*   **Porte Físico:** Começando a engordar, rosto inchado pelo álcool caro.
+*   **Cabelo:** Ralo, penteado para esconder a calvície.
+*   **Olhos:** Pequenos e desconfiados.
+*   **Marcas Distintivas:** Está sempre mastigando um palito de dente. Usa sapatos italianos que não condizem com o salário.
+*   **Vestuário:** Ternos cinza que parecem um uniforme burocrático.
+*   **Equipamento:** Tablet de relatórios e caneta de ouro.
+*   **Gostos/Traços:** Adora exercer autoridade sobre subordinados e lamber as botas dos superiores. Odeia Gabo com paixão.
+*   **Perfil Psicológico:** O burocrata corrupto clássico. Covarde diante do perigo real, mas cruel quando tem o poder da caneta.
+*   **Função:** Rival de Gabo / O Espião da Corregedoria.
+*   **Histórico:** Um policial medíocre que subiu na carreira fazendo favores políticos e encobrindo sujeira da Aeterna Corp. Vive tentando encontrar um motivo para expulsar Gabo e Vilar da força, agindo como os olhos dos "departamentos superiores" que querem manter o status quo.
 
 ---
 

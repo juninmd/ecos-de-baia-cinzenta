@@ -7,9 +7,23 @@ A chuva, que antes era uma presença constante e melancólica, transformou-se em
 
 Gabriel dirigia seu velho *Cobalt* pelas ruas da Zona Baixa, o limpador de para-brisa lutando uma batalha perdida contra o dilúvio. O motor a hidrogênio engasgava, protestando contra a umidade excessiva. O rádio do carro cuspia estática misturada com alertas automáticos de enchentes nos níveis inferiores.
 
+De repente, a frequência mudou. A estática foi cortada por uma voz anasalada e irritante que Gabo conhecia bem demais.
+
+— *Moretti? Está na escuta?*
+
+Gabo revirou os olhos antes de apertar o botão do comunicador. — O que você quer, Rangel? Estou ocupado.
+
+— *Sempre ocupado salvando o mundo, não é?* — A voz do Inspetor Rangel gotejava sarcasmo. — *A Corregedoria ligou. Eles estão curiosos sobre por que você acionou a perícia de nível 5 para um drogado na Vila da Ferrugem. O orçamento não é infinito, Gabriel. E os superiores da Aeterna Security não gostam quando gastamos recursos da empresa com lixo.*
+
+— Não era um drogado, Rangel. E o caso é meu.
+
+— *Por enquanto. Cuidado onde pisa, "herói". Se eu achar uma vírgula fora do lugar no seu relatório, vou ter o maior prazer em te mandar para a guarda de trânsito. Desligando.*
+
+— Bastardo — murmurou Gabo. A pressão estava aumentando. Não bastava o crime, ele tinha que lutar contra o próprio departamento.
+
 — *Atenção, todas as unidades. Deslizamento no Setor 7. Trânsito desviado para a Via Costeira.*
 
-— Droga — praguejou Gabriel, socando o volante.
+— Droga — praguejou Gabriel, socando o volante, ignorando a raiva residual da conversa com seu rival.
 
 A Via Costeira era um suicídio logístico. Estreita, mal iluminada e frequentada por gangues que roubavam peças de carros em movimento. Mas ele não tinha escolha. A foto do menino — a foto *dele* — queimava em seu bolso como se fosse feita de brasas, exigindo respostas que ele só encontraria (talvez) nos arquivos mortos da delegacia ou no fundo de uma garrafa.
 
