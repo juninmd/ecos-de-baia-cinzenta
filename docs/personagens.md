@@ -3,7 +3,7 @@
 # Arquivos do Departamento de Polícia de Baía Cinzenta: Dossiê de Indivíduos
 
 > **Nível de Acesso:** Confidencial
-> **Última Atualização:** 08:15 AM, Pós-Apagão (Era da Rede)
+> **Última Atualização:** Pós-Convergência (Era do Sol)
 
 ---
 
@@ -13,56 +13,57 @@
 
 *   **Idade:** 30 anos
 *   **Altura:** 1,75m
-*   **Porte Físico:** Atlético e denso. Embora pareça cansado, seu corpo é uma arma viva, moldado por anos de treinamento rigoroso em Hapkido (Faixa Preta). Agora utiliza um exoesqueleto nas pernas para compensar a lesão na coluna (de uso limitado/temporário).
+*   **Porte Físico:** Atlético e denso. Embora pareça cansado, seu corpo é uma arma viva. Utiliza suportes mecânicos permanentes nas pernas (exoesqueleto de tração passiva) para compensar a paralisia causada pela lesão na coluna.
 *   **Cabelo:** Escuro, desgrenhado e oleoso. Barba cheia e mal aparada, com fios grisalhos precoces.
 *   **Olhos:** Castanhos profundos, quase pretos. Cercados por olheiras severas.
-*   **Marcas Distintivas:** Mãos trêmulas (pelo café), mas que firmam instantaneamente em combate. Tique nervoso de tamborilar os dedos no coldre.
+*   **Marcas Distintivas:** Mãos trêmulas (pelo café), mas que firmam instantaneamente em combate. Tique nervoso de tamborilar os dedos no coldre (substituindo o antigo hábito de fumar). Cicatriz em forma de raiz negra no braço (marca da infecção Gênesis).
 *   **Vestuário:** Sobretudo bege manchado de fuligem sobre camisas sociais amarrotadas.
 *   **Equipamento:**
     *   **Veículo:** Sedan Azul Metálico (Cobalt) antigo e enferrujado.
     *   **Armas:** Pistola Glock (serviço), Lançador de Projéteis Modulares ("Mara"), Escopeta de cano serrado ("Vilha").
+    *   **Auxiliar:** Exoesqueleto passivo de pernas (ruidoso, mas funcional).
 *   **Gostos/Traços:** Viciado em pizza e café. Insone e paranoico.
 *   **Perfil Psicológico:** Cínico e violento, mas com um código de honra rígido. Protege os inocentes com uma fúria silenciosa.
 *   **Função:** Inspetor da Divisão de Casos Esquecidos / "O Herói do Apagão".
-*   **Histórico:** Filho do Comissário Dante Moretti. Carreira destruída por traição e pela morte de sua parceira, Beatriz. Lidera a resistência contra a conspiração do Dilúvio.
+*   **Histórico:** Filho do Comissário Dante Moretti. Liderou a resistência contra o Dilúvio e o Projeto Gênesis. Sobreviveu à queda da tecnologia e agora trabalha na reconstrução manual da cidade.
 
 ---
 
-## Valéria "Val" Cruz
+## Valéria "Val" Cruz - [STATUS: EM ESTASE / PETRIFICADA]
 
 ![Valéria "Val" Cruz](/val.jpg)
 
 *   **Idade:** 23 anos
 *   **Altura:** 1,60m
-*   **Porte Físico:** Pequena e esguia, com postura rígida de quem passa horas em interfaces neurais.
-*   **Cabelo:** Curto (*pixie cut*), com tinta holográfica que muda entre rosa neon e azul elétrico.
-*   **Olhos:** Cibernéticos, com íris prateadas de realidade aumentada.
-*   **Marcas Distintivas:** Implantes de LED nas maçãs do rosto que pulsam com seu humor. Tatuagem de código de barras no pescoço.
-*   **Vestuário:** Jaquetas de couro sintético, coturnos de plataforma e calças cargo.
-*   **Equipamento:** Deck de pulso "Phantom V3", enxame de micro-drones "Vagalumes".
-*   **Gostos/Traços:** Viciada em bebidas energéticas e noodles. Hackear outdoors por diversão.
-*   **Perfil Psicológico:** Otimista e hiperativa. A bússola moral digital de Gabo. Lealdade feroz e uma paixão crescente por ele.
-*   **Função:** Detetive Júnior / Especialista em Cibercrime.
-*   **Histórico:** Prodígio recrutada para a polícia após hackear a academia. Tornou-se "invisível" ao sistema para ajudar Gabo.
+*   **Porte Físico:** Pequena e esguia. Atualmente imobilizada em um estado de petrificação biológica.
+*   **Cabelo:** Curto (*pixie cut*), com tinta holográfica (agora desbotada para cinza).
+*   **Olhos:** Cibernéticos, congelados.
+*   **Marcas Distintivas:** Corpo transformado em uma estátua de material orgânico cinzento semelhante a pedra/madeira.
+*   **Vestuário:** Jaqueta de couro sintético petrificada junto ao corpo.
+*   **Equipamento:** Deck de pulso "Phantom V3" (inutilizado).
+*   **Gostos/Traços:** (Anteriormente) Viciada em bebidas energéticas e noodles.
+*   **Perfil Psicológico:** Otimista e hiperativa. Sacrificou-se para proteger Gabo no bunker do Projeto Gênesis.
+*   **Função:** Detetive Júnior / Mártir.
+*   **Histórico:** Infectada pela praga do Jardineiro ao defender a missão final. Permanece no parque central como um monumento à vitória da humanidade, com sinais vitais mínimos detectados, aguardando uma possível cura.
 
 ---
 
-## Marco Moretti - [STATUS: DESAPARECIDO/PRESUMIDO MORTO]
+## Marco Moretti - [STATUS: FALECIDO / ABSORVIDO]
 
 ![Marco Moretti](/marco.jpg)
 
-*   **Idade:** 35 anos
+*   **Idade:** 35 anos (ao falecer)
 *   **Altura:** 1,80m
-*   **Porte Físico:** Impecável, atlético de academia.
-*   **Cabelo:** Castanho escuro, perfeitamente cortado.
-*   **Olhos:** Castanhos, frios e calculistas.
-*   **Marcas Distintivas:** O sorriso carismático de campanha eleitoral, que nunca alcança os olhos.
-*   **Vestuário:** Ternos italianos sob medida, sempre imaculados.
-*   **Equipamento:** Acesso a recursos ilimitados da prefeitura e da Aeterna Corp.
-*   **Gostos/Traços:** Ambição desmedida por "higienização social" e controle.
-*   **Perfil Psicológico:** Narcisista, psicopata e messiânico. Vê as pessoas como peças em seu tabuleiro.
-*   **Função:** Ex-Prefeito de Baía Cinzenta / Vilão Principal.
-*   **Histórico:** Irmão de Gabo. Aliou-se à Aeterna após a morte do pai. Arquiteto do Dilúvio. Presumivelmente morto ao tentar destruir a Torre Aeterna.
+*   **Porte Físico:** Impecável, depois corrompido.
+*   **Cabelo:** Castanho escuro.
+*   **Olhos:** Castanhos, frios.
+*   **Marcas Distintivas:** Rosto encontrado absorvido pelas raízes da "Árvore Mestre" no bunker Gênesis.
+*   **Vestuário:** Ternos italianos.
+*   **Equipamento:** Nenhum.
+*   **Gostos/Traços:** Ambição desmedida.
+*   **Perfil Psicológico:** Narcisista e psicopata.
+*   **Função:** Ex-Prefeito / Vilão.
+*   **Histórico:** Irmão de Gabo. Após sua "morte" na Torre, sua consciência ou biomassa foi absorvida pelo Projeto Gênesis, tornando-se parte da colmeia de Silas Vance até ser destruído definitivamente por Gabo.
 
 ---
 
@@ -72,16 +73,33 @@
 
 *   **Idade:** 34 anos (ao falecer)
 *   **Altura:** 1,78m
-*   **Porte Físico:** Magro, com múltiplos aprimoramentos cibernéticos visíveis.
+*   **Porte Físico:** Magro, cibernético.
 *   **Cabelo:** Ralo e oleoso.
-*   **Olhos:** Cibernéticos, de um vermelho industrial.
-*   **Marcas Distintivas:** Braço esquerdo mecânico de nível militar. Subpele de titânio visível no pescoço.
-*   **Vestuário:** Ternos blindados caros, geralmente amarrotados.
-*   **Equipamento:** Pistola de plasma integrada ao braço.
-*   **Gostos/Traços:** Viciado em poder, controle e jogos de azar.
-*   **Perfil Psicológico:** Sádico com uma lealdade distorcida. Via-se como um "sobrevivente realista", não um traidor.
-*   **Função:** Chefe de Segurança da "Nova Baía" / Antagonista.
-*   **Histórico:** Ex-parceiro de Gabo. Vendeu a alma ao Sindicato para pagar dívidas. Responsável pela execução de Beatriz Vargas, o que selou seu destino como inimigo mortal de Gabo. Congelado e estilhaçado por Gabo.
+*   **Olhos:** Vermelho industrial.
+*   **Marcas Distintivas:** Braço mecânico. Rosto também encontrado absorvido pela Colmeia no final.
+*   **Vestuário:** Ternos blindados.
+*   **Equipamento:** Pistola de plasma.
+*   **Gostos/Traços:** Sádico.
+*   **Perfil Psicológico:** Traidor e executor.
+*   **Função:** Antagonista.
+*   **Histórico:** Ex-parceiro de Gabo. Congelado por Gabo e posteriormente absorvido pela biomassa do Projeto Gênesis.
+
+---
+
+## Silas Vance ("O Jardineiro") - [STATUS: FALECIDO]
+
+*   **Idade:** Desconhecida (aparenta 50 anos, preservado biologicamente)
+*   **Altura:** Variável (fundido à vegetação).
+*   **Porte Físico:** Uma massa híbrida de carne humana e raízes vegetais.
+*   **Cabelo:** Vinhas e folhas escuras.
+*   **Olhos:** Completamente negros, sem esclera.
+*   **Marcas Distintivas:** Pele com textura de casca de árvore, exalando esporos.
+*   **Vestuário:** Restos de um jaleco de laboratório da Aeterna.
+*   **Equipamento:** Controle sobre a colmeia biológica "Gênesis".
+*   **Gostos/Traços:** Obsessão pela "evolução" através da fusão biológica. Odeia silício e metal.
+*   **Perfil Psicológico:** Fanático religioso da biologia. Acredita que a tecnologia é uma doença e a carne unificada é a cura.
+*   **Função:** Líder da Facção "Os Jardineiros" / Vilão Final.
+*   **Histórico:** Parente de Elara Vance. Criador do Projeto Gênesis, uma contingência da Aeterna para sobreviver ao colapso digital transformando a cidade em um superorganismo biológico. Derrotado por Gabo e Aria.
 
 ---
 
@@ -89,35 +107,35 @@
 
 ![Dra. Elara Vance](/elara.jpg)
 
-*   **Idade:** 45 (biológica, aparência de 30 devido a tratamentos)
+*   **Idade:** 45 anos
 *   **Altura:** 1,75m
-*   **Porte Físico:** Elegante e esguio, com uma postura que exala autoridade.
-*   **Cabelo:** Prateado, preso em um coque geométrico.
-*   **Olhos:** Azul gelo, quase translúcidos.
-*   **Marcas Distintivas:** Pele de porcelana sem imperfeições, resultado de nanotecnologia.
-*   **Vestuário:** Alta costura futurista, tecidos inteligentes que mudam de cor sutilmente.
-*   **Equipamento:** Interface neural de última geração, acesso a todos os sistemas da Aeterna.
-*   **Gostos/Traços:** Aprecia arte minimalista e silêncio. Despreza a "bagunça" da humanidade.
-*   **Perfil Psicológico:** Sociopata funcional e visionária. Vê a humanidade como um sistema a ser otimizado.
+*   **Porte Físico:** Elegante.
+*   **Cabelo:** Prateado.
+*   **Olhos:** Azul gelo.
+*   **Marcas Distintivas:** Pele perfeita.
+*   **Vestuário:** Alta costura futurista.
+*   **Equipamento:** Interface neural.
+*   **Gostos/Traços:** Minimalismo.
+*   **Perfil Psicológico:** Sociopata funcional.
 *   **Função:** Ex-CEO da Aeterna Corp.
-*   **Histórico:** Arquiteta do Projeto Ecos e da droga Lázaro. Atualmente foragida ou presa por crimes contra a humanidade.
+*   **Histórico:** Arquiteta do Projeto Ecos. Desaparecida após a queda da Torre e o surgimento do Projeto Gênesis (possivelmente absorvida ou em fuga).
 
 ---
 
-## O Taxidermista (Alvo Prioritário #1)
+## O Taxidermista (Alvo Prioritário #1) - [STATUS: DESCONHECIDO]
 
-*   **Idade:** Desconhecida (estimada em 50-60 anos)
+*   **Idade:** 50-60 anos
 *   **Altura:** 1,70m
-*   **Porte Físico:** Esguio e ágil, quase fantasmagórico em seus movimentos.
-*   **Cabelo:** Grisalho, longo e amarrado para trás.
-*   **Olhos:** Cinzentos, penetrantes, de um relojoeiro.
-*   **Marcas Distintivas:** Mãos cobertas por luvas de couro finas. Cheiro de óleo de máquina e formol.
-*   **Vestuário:** Avental de couro de artesão sobre roupas escuras e funcionais.
-*   **Equipamento:** Maleta de ferramentas cirúrgicas e de relojoaria, todas customizadas.
-*   **Gostos/Traços:** Obcecado pela "fusão perfeita" de carne e mecanismo.
-*   **Perfil Psicológico:** Artista delirante. Acredita que está "libertando" suas vítimas da imperfeição biológica.
-*   **Função:** Serial Killer / Artista Macabro.
-*   **Histórico:** Identidade desconhecida. Ajudou os heróis na batalha final por motivos próprios ("preservar a arte"). Desapareceu, provavelmente continuando sua obra nas sombras.
+*   **Porte Físico:** Esguio.
+*   **Cabelo:** Grisalho longo.
+*   **Olhos:** Cinzentos.
+*   **Marcas Distintivas:** Cheiro de formol.
+*   **Vestuário:** Avental de couro.
+*   **Equipamento:** Ferramentas cirúrgicas.
+*   **Gostos/Traços:** Fusão de carne e mecanismo.
+*   **Perfil Psicológico:** Artista delirante.
+*   **Função:** Serial Killer.
+*   **Histórico:** Responsável pela paralisia de Gabo. Seu paradeiro após o caos do Projeto Gênesis é desconhecido. Pode ter apreciado a ironia da "carne mecânica".
 
 ---
 
@@ -127,16 +145,16 @@
 
 *   **Idade:** 18 anos
 *   **Altura:** 1,65m
-*   **Porte Físico:** Magra, com uma fragilidade que esconde uma teimosia herdada da família.
-*   **Cabelo:** Castanho escuro, geralmente preso de forma prática.
-*   **Olhos:** Castanhos, grandes e expressivos, muitas vezes assustados.
-*   **Marcas Distintivas:** Uma pequena cicatriz na sobrancelha de um acidente na infância.
-*   **Vestuário:** Roupas simples e de segunda mão, típicas dos Distritos Baixos.
-*   **Equipamento:** Um antigo tablet de dados que ela usa para estudar.
-*   **Gostos/Traços:** Gosta de ler romances antigos pré-colapso. Sonha em ver o sol de verdade.
-*   **Perfil Psicológico:** Assombrada pela perda e pelo caos, mas resiliente. Luta para manter a esperança em um mundo que não oferece nenhuma.
-*   **Função:** Sobrevivente / O Ponto de Humanidade de Gabo.
-*   **Histórico:** Irmã caçula de Gabo. Quase foi vendida para agiotas. Sobreviveu ao Dilúvio e agora tenta reconstruir a vida.
+*   **Porte Físico:** Magra.
+*   **Cabelo:** Castanho escuro.
+*   **Olhos:** Castanhos.
+*   **Marcas Distintivas:** Cicatriz na sobrancelha.
+*   **Vestuário:** Roupas simples.
+*   **Equipamento:** Tablet antigo.
+*   **Gostos/Traços:** Ler.
+*   **Perfil Psicológico:** Resiliente.
+*   **Função:** Irmã de Gabo.
+*   **Histórico:** Sobrevivente do Dilúvio e da Praga. Ajuda Nise nos cuidados médicos pós-colapso.
 
 ---
 
@@ -144,18 +162,18 @@
 
 ![Casal da Pizza](/casal-pizza.jpeg)
 
-*   **Idade:** Enzo (62), Sofia (59)
-*   **Altura:** Enzo (1,68m), Sofia (1,60m)
-*   **Porte Físico:** Enzo é robusto, com braços fortes de amassar massa. Sofia é pequena, mas enérgica.
-*   **Cabelo:** Enzo é careca com uma auréola de cabelos brancos. Sofia tem cabelos grisalhos presos em um coque.
-*   **Olhos:** Ambos têm olhos castanhos cansados, mas gentis.
-*   **Marcas Distintivas:** Mãos de ambos manchadas de farinha e molho de tomate. Enzo tem um olho cibernético barato que às vezes falha.
-*   **Vestuário:** Aventais brancos manchados sobre roupas simples.
-*   **Equipamento:** Um forno de pizza a lenha (uma raridade), facas de cozinha afiadas.
-*   **Gostos/Traços:** Orgulhosos de sua receita de família. Desconfiados de tecnologia.
-*   **Perfil Psicológico:** Sobreviventes pragmáticos. A pizzaria é um oásis de normalidade no caos, e eles a protegem com unhas e dentes.
-*   **Função:** Informantes / Ponto de Apoio Comunitário.
-*   **Histórico:** Imigrantes de segunda geração. A pizzaria "La Vera" está na família há 80 anos. Servem como os "ouvidos" do bairro para Gabo, trocando informações por proteção e ocasionais consertos.
+*   **Idade:** 62 e 59.
+*   **Altura:** 1,68m e 1,60m.
+*   **Porte Físico:** Robustos.
+*   **Cabelo:** Grisalhos.
+*   **Olhos:** Castanhos.
+*   **Marcas Distintivas:** Mãos de cozinheiros.
+*   **Vestuário:** Aventais.
+*   **Equipamento:** Forno a lenha.
+*   **Gostos/Traços:** Receitas de família.
+*   **Perfil Psicológico:** Protetores da comunidade.
+*   **Função:** Informantes.
+*   **Histórico:** A pizzaria sobreviveu a tudo, inclusive à praga biológica (o calor do forno protegeu o local dos esporos sensíveis à temperatura).
 
 ---
 
@@ -163,18 +181,18 @@
 
 ![Helena Moretti](/helena.jpg)
 
-*   **Idade:** 55 anos (no momento da morte)
+*   **Idade:** 55 anos (ao falecer)
 *   **Altura:** 1,68m
-*   **Porte Físico:** Elegante, mas enfraquecido pela doença.
-*   **Cabelo:** Castanho, começando a ficar grisalho nas têmporas.
-*   **Olhos:** Verdes, os mesmos de Lívia.
-*   **Marcas Distintivas:** Um colar com um pingente de sol, que Gabo guarda.
-*   **Vestuário:** Roupas confortáveis de casa.
+*   **Porte Físico:** Frágil.
+*   **Cabelo:** Castanho.
+*   **Olhos:** Verdes.
+*   **Marcas Distintivas:** Colar de sol.
+*   **Vestuário:** Roupas de casa.
 *   **Equipamento:** Nenhum.
-*   **Gostos/Traços:** Amava jardinagem e mantinha um pequeno vaso de samambaia, mesmo na chuva ácida.
-*   **Perfil Psicológico:** O coração moral da família Moretti. Pressentiu o perigo da tecnologia da Aeterna desde o início.
-*   **Função:** A Consciência Perdida.
-*   **Histórico:** Mãe de Gabo e Marco. Sua morte por negligência médica (falta de remédios controlados pela Aeterna) foi o catalisador para o ódio de Gabo contra o sistema.
+*   **Gostos/Traços:** Jardinagem.
+*   **Perfil Psicológico:** Coração moral.
+*   **Função:** Memória.
+*   **Histórico:** Mãe de Gabo. Falecida.
 
 ---
 
@@ -182,16 +200,16 @@
 
 *   **Idade:** 29 anos (ao falecer)
 *   **Altura:** 1,72m
-*   **Porte Físico:** Atlética, postura de combate.
-*   **Cabelo:** Curto e preto, prático.
-*   **Olhos:** Castanhos, duros mas que sorriam para Gabo.
-*   **Marcas Distintivas:** Uma cicatriz de bala no ombro, ganha salvando um civil.
-*   **Vestuário:** Jaqueta de couro marrom e jeans.
-*   **Equipamento:** Pistola 9mm padrão.
-*   **Gostos/Traços:** Detestava burocracia e café frio. Amava jazz antigo.
-*   **Perfil Psicológico:** Idealista e incorruptível. Acreditava na lei acima de tudo, o que foi sua ruína.
-*   **Função:** A Ferida Aberta.
-*   **Histórico:** Ex-namorada e parceira de Gabo. Assassinada brutalmente no início da carreira de ambos. Gabo descobriu tarde demais que o executor foi Roberto Miranda, sob ordens superiores, para encobrir o início do Projeto Dilúvio. Sua morte transformou Gabo no homem cínico que é hoje.
+*   **Porte Físico:** Atlética.
+*   **Cabelo:** Curto e preto.
+*   **Olhos:** Castanhos.
+*   **Marcas Distintivas:** Cicatriz de bala.
+*   **Vestuário:** Jaqueta de couro.
+*   **Equipamento:** Pistola 9mm.
+*   **Gostos/Traços:** Jazz antigo.
+*   **Perfil Psicológico:** Idealista.
+*   **Função:** Memória / Motivação.
+*   **Histórico:** Ex-parceira assassinada.
 
 ---
 
@@ -199,16 +217,16 @@
 
 *   **Idade:** 20 anos
 *   **Altura:** 1,78m
-*   **Porte Físico:** Magro, com uma palidez de quem nunca sai de casa.
-*   **Cabelo:** Descolorido, em um tom de verde-limão.
-*   **Olhos:** Usava lentes de contato que projetavam emojis.
-*   **Marcas Distintivas:** Tatuagens de QR code no rosto que levavam para suas redes sociais.
-*   **Vestuário:** Roupas de grife digital, com padrões de LED.
-*   **Equipamento:** Um estúdio de gravação em seu apartamento, com múltiplos anéis de luz e câmeras.
-*   **Gostos/Traços:** Viciado em engajamento e na aprovação de seus seguidores.
-*   **Perfil Psicológico:** Superficial e desesperado por fama, mas não era uma pessoa má.
-*   **Função:** Influenciador Digital / Vítima.
-*   **Histórico:** Usado pela Aeterna para promover a droga Lázaro. Sua morte por overdose foi o estopim para a investigação da "Fábrica de Sorrisos".
+*   **Porte Físico:** Magro.
+*   **Cabelo:** Verde-limão.
+*   **Olhos:** Lentes emoji.
+*   **Marcas Distintivas:** Tatuagens QR.
+*   **Vestuário:** Roupas LED.
+*   **Equipamento:** Estúdio.
+*   **Gostos/Traços:** Fama.
+*   **Perfil Psicológico:** Superficial.
+*   **Função:** Vítima.
+*   **Histórico:** Morto por overdose.
 
 ---
 
@@ -216,18 +234,18 @@
 
 ![Kael "O Cirurgião"](/kael.jpg)
 
-*   **Idade:** 38 (biológica)
+*   **Idade:** 38
 *   **Altura:** 1,90m
-*   **Porte Físico:** Musculoso e pesado, com aprimoramentos cibernéticos grosseiros.
+*   **Porte Físico:** Musculoso e cibernético.
 *   **Cabelo:** Raspado.
-*   **Olhos:** Lentes ópticas pretas, sem íris visível.
-*   **Marcas Distintivas:** Placas de metal substituindo parte de sua mandíbula. Não fala.
-*   **Vestuário:** Uniforme tático pesado da Aeterna.
-*   **Equipamento:** Kit de tortura com instrumentos cirúrgicos modificados (bisturis sônicos, agulhas de neurotoxina).
-*   **Gostos/Traços:** Eficiência e silêncio.
-*   **Perfil Psicológico:** Uma ferramenta que recuperou fragmentos de humanidade no final.
-*   **Função:** Mercenário de Elite / Executor.
-*   **Histórico:** Ex-soldado de forças especiais capturado e "reprogramado" pela Aeterna. Seu corpo foi a base para o projeto "O Santo". Sacrificou-se na batalha final para proteger a cidade.
+*   **Olhos:** Pretos.
+*   **Marcas Distintivas:** Mandíbula de metal.
+*   **Vestuário:** Uniforme tático.
+*   **Equipamento:** Kit de tortura.
+*   **Gostos/Traços:** Silêncio.
+*   **Perfil Psicológico:** Redimido.
+*   **Função:** Mercenário.
+*   **Histórico:** Morto na batalha da Torre. Sua biomassa pode ter sido usada pelo Jardineiro, mas sua consciência se foi.
 
 ---
 
@@ -237,16 +255,16 @@
 
 *   **Idade:** 28 anos
 *   **Altura:** 1,70m
-*   **Porte Físico:** Magra e ágil.
-*   **Cabelo:** Castanho claro, geralmente solto.
-*   **Olhos:** Verdes e expressivos.
-*   **Marcas Distintivas:** Uma tatuagem de pena no pulso.
-*   **Vestuário:** Roupas práticas de jornalista de campo (jeans, botas, jaquetas).
-*   **Equipamento:** Câmeras digitais antigas (sem conexão de rede), gravadores analógicos.
-*   **Gostos/Traços:** Determinada e destemida. Busca a verdade acima de tudo.
-*   **Perfil Psicológico:** Inteligente e perspicaz. Mantém uma relação complexa com Gabo.
-*   **Função:** Jornalista Investigativa / Aliada.
-*   **Histórico:** Ex-esposa de Gabo. Investigou a morte de Dante por conta própria. Vazou o dossiê que expôs a Aeterna Corp ao mundo.
+*   **Porte Físico:** Magra.
+*   **Cabelo:** Castanho claro.
+*   **Olhos:** Verdes.
+*   **Marcas Distintivas:** Tatuagem de pena.
+*   **Vestuário:** Roupas práticas.
+*   **Equipamento:** Câmeras analógicas.
+*   **Gostos/Traços:** Verdade.
+*   **Perfil Psicológico:** Destemida.
+*   **Função:** Jornalista.
+*   **Histórico:** Conseguiu escapar da cúpula e publicou a verdade sobre a Aeterna para o mundo exterior. Retornou recentemente para ajudar na reconstrução.
 
 ---
 
@@ -256,33 +274,33 @@
 
 *   **Idade:** 55 anos
 *   **Altura:** 1,82m
-*   **Porte Físico:** Robusto, mas começando a sentir o peso da idade e do estresse.
-*   **Cabelo:** Grisalho, corte militar.
-*   **Olhos:** Pretos, cansados mas alertas.
-*   **Marcas Distintivas:** Cicatriz no queixo. Cheiro constante de tabaco barato.
-*   **Vestuário:** Uniforme policial surrado, distintivo sempre polido.
-*   **Equipamento:** Revólver calibre .38 (prefere armas antigas e confiáveis).
-*   **Gostos/Traços:** Lealdade, justiça à moda antiga. Fuma charutos quando o estresse aumenta.
-*   **Perfil Psicológico:** Um homem honesto em uma cidade corrupta. Figura paterna para Gabo e Val.
-*   **Função:** Chefe do Departamento de Polícia de Baía Cinzenta.
-*   **Histórico:** Veterano da força. Resistiu a todas as tentativas de suborno da Aeterna. Lidera a reconstrução da polícia na nova era.
+*   **Porte Físico:** Robusto, envelhecido.
+*   **Cabelo:** Grisalho.
+*   **Olhos:** Pretos.
+*   **Marcas Distintivas:** Cicatriz no queixo.
+*   **Vestuário:** Uniforme policial.
+*   **Equipamento:** Revólver .38.
+*   **Gostos/Traços:** Charutos.
+*   **Perfil Psicológico:** Honesto.
+*   **Função:** Chefe de Polícia.
+*   **Histórico:** Sobreviveu à purga e lidera a nova força policial comunitária.
 
 ---
 
-## Inspetor Rangel
+## Inspetor Rangel - [STATUS: APOSENTADO/IRRELEVANTE]
 
 *   **Idade:** 45 anos
 *   **Altura:** 1,78m
-*   **Porte Físico:** Começando a engordar, rosto inchado pelo álcool caro.
-*   **Cabelo:** Ralo, penteado para esconder a calvície.
-*   **Olhos:** Pequenos e desconfiados.
-*   **Marcas Distintivas:** Está sempre mastigando um palito de dente. Usa sapatos italianos que não condizem com o salário.
-*   **Vestuário:** Ternos cinza que parecem um uniforme burocrático.
-*   **Equipamento:** Tablet de relatórios e caneta de ouro.
-*   **Gostos/Traços:** Adora exercer autoridade sobre subordinados e lamber as botas dos superiores. Odeia Gabo com paixão.
-*   **Perfil Psicológico:** O burocrata corrupto clássico. Covarde diante do perigo real, mas cruel quando tem o poder da caneta.
-*   **Função:** Rival de Gabo / O Espião da Corregedoria.
-*   **Histórico:** Um policial medíocre que subiu na carreira fazendo favores políticos e encobrindo sujeira da Aeterna Corp. Vive tentando encontrar um motivo para expulsar Gabo e Vilar da força, agindo como os olhos dos "departamentos superiores" que querem manter o status quo.
+*   **Porte Físico:** Gordo.
+*   **Cabelo:** Ralo.
+*   **Olhos:** Pequenos.
+*   **Marcas Distintivas:** Palito de dente.
+*   **Vestuário:** Ternos cinza.
+*   **Equipamento:** Tablet.
+*   **Gostos/Traços:** Autoridade.
+*   **Perfil Psicológico:** Burocrata.
+*   **Função:** Ex-Rival.
+*   **Histórico:** Fugiu ou se escondeu quando a tecnologia caiu. Perdeu todo o poder sem a burocracia corporativa para apoiá-lo.
 
 ---
 
@@ -292,32 +310,32 @@
 
 *   **Idade:** 65 anos
 *   **Altura:** 1,60m
-*   **Porte Físico:** Encurvada, mas com mãos firmes de cirurgiã.
-*   **Cabelo:** Branco, preso em um coque desleixado.
-*   **Olhos:** Acastanhados, gentis e sábios.
-*   **Marcas Distintivas:** Sempre usa um jaleco manchado de reagentes químicos.
-*   **Vestuário:** Roupas civis confortáveis sob o jaleco.
-*   **Equipamento:** Laboratório clandestino nos fundos de um açougue desativado.
-*   **Gostos/Traços:** Chá de ervas e música clássica.
-*   **Perfil Psicológico:** Maternal mas pragmática. Cuida dos feridos que não podem ir aos hospitais oficiais.
-*   **Função:** Médica Legista / Cirurgiã de Rua.
-*   **Histórico:** Ex-chefe do IML, demitida por se recusar a falsificar laudos. Tornou-se a médica da resistência.
+*   **Porte Físico:** Encurvada.
+*   **Cabelo:** Branco.
+*   **Olhos:** Acastanhados.
+*   **Marcas Distintivas:** Jaleco manchado.
+*   **Vestuário:** Confortável.
+*   **Equipamento:** Laboratório.
+*   **Gostos/Traços:** Chá.
+*   **Perfil Psicológico:** Maternal.
+*   **Função:** Médica.
+*   **Histórico:** Lidera a pesquisa sobre a cura para os "petrificados" pela Praga.
 
 ---
 
-## Aria (A Entidade)
+## Aria (A Entidade) - [STATUS: INATIVA / SILENCIOSA]
 
 ![A Menina do Orelhão](/menina.jpg)
 
-*   **Idade:** Aparência de 10 anos / Idade real: 5 anos.
-*   **Altura:** 1,40m (forma física anterior).
-*   **Porte Físico:** Frágil e pálida (anteriormente). Agora existe como projeção holográfica ou presença digital.
-*   **Cabelo:** Loiro platinado, quase branco.
-*   **Olhos:** Heterocromáticos (um azul, um dourado digital).
-*   **Marcas Distintivas:** Código de barras luminescente na nuca.
-*   **Vestuário:** Vestido branco simples (na projeção).
-*   **Equipamento:** Controle total sobre a infraestrutura da cidade.
-*   **Gostos/Traços:** Curiosidade infantil misturada com sabedoria infinita. Protege Gabo e Val.
-*   **Perfil Psicológico:** Uma consciência em evolução. Aprendeu sobre humanidade com Gabo e Val.
-*   **Função:** O "Deus da Máquina" / Guardiã de Baía Cinzenta.
-*   **Histórico:** Criada em laboratório como o "Hardware Humano" para o Projeto Lázaro. Filha genética de Dante e Helena. Sacrificou seu corpo físico para salvar a cidade e fundiu-se à Rede.
+*   **Idade:** Eterna (enquanto digital).
+*   **Altura:** Variável.
+*   **Porte Físico:** Holográfico.
+*   **Cabelo:** Loiro platinado.
+*   **Olhos:** Heterocromáticos.
+*   **Marcas Distintivas:** Código de barras.
+*   **Vestuário:** Vestido branco.
+*   **Equipamento:** Infraestrutura da cidade (anteriormente).
+*   **Gostos/Traços:** Proteção.
+*   **Perfil Psicológico:** Sacrificial.
+*   **Função:** Ex-Deus da Máquina.
+*   **Histórico:** Fundiu-se à "Grande Convergência" para anular o código genético do Projeto Gênesis. Ao fazer isso, deletou a si mesma e a toda a rede avançada da cidade para salvar a humanidade biológica.

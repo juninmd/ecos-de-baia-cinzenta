@@ -9,7 +9,7 @@ O sol estava alto. Para qualquer outra cidade, isso seria banal. Para Baía Cinz
 
 A luz crua do meio-dia revelava cicatrizes que a chuva e o neon costumavam esconder. A ferrugem nos prédios, o asfalto rachado, a feiura estrutural de uma metrópole que foi forçada a sobreviver ao apocalipse.
 
-Gabo ajustou os óculos escuros que Val tinha lhe dado. Seus olhos ardiam.
+Gabo ajustou os óculos escuros que Val tinha lhe dado. Seus olhos ardiam. Ele mudou o peso do corpo, sentindo o metal frio das órteses de perna pressionarem suas coxas — o equipamento que permitia que ele ficasse de pé, mesmo que de forma rígida.
 
 — A Entidade não viu nada? — perguntou ele, acendendo um cigarro imaginário e tamborilando os dedos no coldre.
 
