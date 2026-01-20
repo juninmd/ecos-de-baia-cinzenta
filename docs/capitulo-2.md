@@ -55,7 +55,13 @@ Em cima da cúpula do orelhão, equilibrando-se precariamente, havia uma crianç
 
 Era uma menina, não devia ter mais de seis anos. Seu vestido, outrora branco, estava grudado ao corpo esquálido, cinza pela fuligem da chuva. O cabelo molhado escorria pelo rosto como algas escuras.
 
-Ela não chorava. Ela não gritava por ajuda. Ela apenas estava lá, imóvel como uma gárgula, olhando para o nada.
+Ela não chorava. Ela não gritava por ajuda. Mas ela não estava em silêncio. Gabo, ao se aproximar, ouviu um som baixo, melódico e arrepiante. Ela estava cantarolando.
+
+*"Dez soldadinhos foram jantar; um engasgou-se e então sobraram nove..."*
+
+A melodia infantil, distorcida pela estática da chuva, fez os pelos da nuca de Gabo se eriçaçem. Era uma rima antiga, algo que sua avó costumava cantar. Por que uma criança de rua saberia disso?
+
+Ela apenas estava lá, imóvel como uma gárgula, olhando para o nada, repetindo o verso final em um loop sussurrado.
 
 Em seus braços, apertada contra o peito com uma força desesperada, estava uma boneca. Faltava-lhe um braço e um dos olhos de botão pendia por um fio, mas a menina a segurava como se fosse a coisa mais preciosa do mundo.
 
@@ -75,7 +81,9 @@ A menina finalmente virou a cabeça. Seus olhos encontraram os dele. Eram escuro
 
 Para seu espanto, a menina obedeceu. Ela desceu do orelhão com uma agilidade silenciosa e segurou a mão dele. Seus dedos eram gelo puro.
 
-— Ele disse que a chuva traria você — a voz dela era fina, mas cortou o barulho da tempestade.
+— Ele disse que a chuva traria você — a voz dela era fina, mas cortou o barulho da tempestade. — O homem de chapéu. O homem triste.
+
+"Homem triste?", Gabo pensou. Seria uma referência a ele? Ou... a garota teria visto o assassino? Um amante rejeitado, talvez? Crimes passionais eram comuns na chuva, e aquele lenço de seda sugeria um caso proibido. Por um segundo, Gabo considerou se estava perseguindo uma conspiração quando a resposta poderia ser apenas um coração partido e violento. A navalha de Ockham. Mas o instinto dizia que não.
 
 Gabriel sentiu um arrepio, mas não havia tempo para perguntas metafísicas. A chuva estava piorando.
 

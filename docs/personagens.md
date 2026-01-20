@@ -205,10 +205,10 @@
 *   **Marcas Distintivas:** Tatuagens de QR code no rosto que levavam para suas redes sociais.
 *   **Vestuário:** Roupas de grife digital, com padrões de LED.
 *   **Equipamento:** Um estúdio de gravação em seu apartamento, com múltiplos anéis de luz e câmeras.
-*   **Gostos/Traços:** Viciado em engajamento e na aprovação de seus seguidores.
-*   **Perfil Psicológico:** Superficial e desesperado por fama, mas não era uma pessoa má.
-*   **Função:** Influenciador Digital / Vítima.
-*   **Histórico:** Usado pela Aeterna para promover a droga Lázaro. Sua morte por overdose foi o estopim para a investigação da "Fábrica de Sorrisos".
+*   **Gostos/Traços:** Viciado em engajamento e na aprovação de seus seguidores. Colecionava segredos.
+*   **Perfil Psicológico:** Superficial na aparência, mas calculista nos bastidores. Usava sua influência para extorquir informações de seus patronos ricos.
+*   **Função:** Influenciador Digital / Vítima / Chantagista Amador.
+*   **Histórico:** Usado pela Aeterna para promover a droga Lázaro, mas tentou jogar um jogo perigoso de chantagem contra seus manipuladores. Sua morte não foi apenas uma "queima de arquivo", mas uma punição exemplar.
 
 ---
 

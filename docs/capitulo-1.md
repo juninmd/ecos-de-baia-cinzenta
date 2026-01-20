@@ -43,6 +43,14 @@ O corpo estava sentado, encostado em uma parede de zinco. Era um rapaz jovem, vi
 
 Gabriel ajustou a lanterna tática. O facho de luz cortou a penumbra e iluminou o rosto pálido do rapaz. Sua boca estava entreaberta, congelada em uma expressão que não era de medo, mas de... admiração? Êxtase?
 
+Ele se inclinou mais perto, e um cheiro familiar e perturbador invadiu suas narinas, cortando o fedor da lama e do lixo.
+
+— Amêndoas amargas — sussurrou Gabo, franzindo o nariz. — Cianeto?
+
+— Impossível, senhor — disse o oficial. — Cianeto é coisa de livro de história. Ninguém usa isso há cem anos.
+
+— Exatamente. Um veneno clássico para um crime moderno. Quem fez isso tem apreço pelos velhos costumes.
+
 Mas foram os olhos que fizeram o estômago de Gabriel revirar.
 
 Não havia olhos. As órbitas estavam preenchidas, perfeitamente encaixadas, por duas lentes de câmera antigas, analógicas. O vidro escuro das lentes refletia o rosto cansado de Gabriel.
@@ -61,9 +69,13 @@ Ele puxou um pequeno frasco de metal do bolso do sobretudo — seu kit de reagen
 
 — Significa que ele não apenas "está transmitindo". Ele está fazendo *streaming* em 8K. Alguém assistiu a morte desse garoto em primeira pessoa.
 
-— Tem mais uma coisa, inspetor — o oficial disse, estendendo um saco de evidências. — Estava no bolso da jaqueta dele.
+— Tem mais uma coisa, inspetor — o oficial disse, estendendo um saco de evidências. — Encontramos isso no bolso interno. Não faz sentido nenhum.
 
-Gabriel pegou o saco. Dentro, protegida do dilúvio, havia uma fotografia física, impressa em papel fotográfico de verdade — uma raridade cara hoje em dia.
+Gabriel pegou o saco. Dentro, protegida do dilúvio, havia uma fotografia física, impressa em papel fotográfico de verdade — uma raridade cara hoje em dia. Mas junto com a foto, havia outro objeto que parou a respiração de Gabo.
+
+Um lenço de seda pura, branco e imaculado, com iniciais bordadas em fio de ouro: *E.V.*. O tecido estava perfumado com lavanda, um contraste gritante com a podridão do beco.
+
+— Seda real? — Gabo passou o polegar pelo plástico do saco. — Esse garoto vestia trapos, mas carregava um lenço que vale mais que o meu carro. Isso não é um roubo. É uma mensagem. Ou um descuido fatal.
 
 Ele apontou a lanterna para a foto.
 
