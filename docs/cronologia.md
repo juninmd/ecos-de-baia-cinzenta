@@ -84,9 +84,18 @@ Esta linha do tempo organiza os eventos históricos e narrativos do universo de 
 *   **O Sacrifício:** Aria sacrifica sua forma física para se tornar uma "Entidade" onipresente na rede, salvando a cidade do ataque orbital ao redirecioná-lo para a base submarina dos vilões.
 *   **O Novo Amanhecer:** A Aeterna fale, o Consórcio é exposto, e Gabo e Val recomeçam como detetives em uma cidade protegida por uma IA benevolente.
 
-### Parte XII: Renascimento (Capítulos 76-...)
-*   **A Sombra do Meio-Dia (Cap 76):** Um novo mistério "analógico" surge sob o sol do meio-dia. Um assassinato impossível e sombras que se movem de forma independente.
-*   **Anjos da Morte (Cap 77):** Gabo e Val investigam uma série de mortes no Hospital Central. Descobrem uma rede de técnicos usando toxinas orgânicas ("O Toque Invisível") para matar pacientes e "alimentar o silêncio", driblando a vigilância de Aria.
+### Parte XII: Renascimento (Capítulos 76-85)
+*   **A Sombra do Meio-Dia (Cap 76):** Um novo mistério "analógico" surge sob o sol do meio-dia. Um assassinato impossível e sombras que se movem de forma independente desafiam a onisciência de Aria.
+*   **Anjos da Morte (Cap 77):** Gabo e Val investigam mortes no Hospital Central, descobrindo técnicos que utilizam venenos orgânicos ("O Toque Invisível") para "alimentar o silêncio".
+*   **A Infecção:** O surgimento de esporos negros e fungos que devoram metal e dados. A cidade começa a sofrer uma mutação biológica.
+*   **O Jardim de Concreto:** Prédios são tomados por uma vegetação carnívora acelerada. A tecnologia começa a falhar diante da biologia agressiva.
+
+### Parte XIII: A Carne Mecânica (Capítulos 86-97)
+*   **Projeto Gênesis:** Revelado que a Aeterna Corp tinha um plano de contingência biológica. Silas Vance ("O Jardineiro") busca fundir carne e máquina para criar uma imortalidade orgânica.
+*   **Simbiose Forçada:** A população começa a ser infectada e absorvida pela "Colmeia".
+*   **O Sacrifício de Val (Cap 95):** Valéria é infectada ao proteger Gabo no bunker final. Ela entra em um estado de estase/petrificação enquanto Gabo avança.
+*   **A Grande Convergência:** Gabo conecta Aria à árvore-mestre biológica. A Entidade purga a infecção digital, mas o custo é o fim da era tecnológica avançada.
+*   **O Último Suspiro (Cap 97):** A infecção cessa. O sol brilha sobre uma cidade em ruínas, sem IA e sem rede. Gabo e Vilar contemplam um futuro onde a reconstrução será manual. Val permanece petrificada como um monumento à vitória.
 
 ---
 
@@ -97,4 +106,5 @@ Esta linha do tempo organiza os eventos históricos e narrativos do universo de 
 *   **Arco do Dilúvio (Parte IX):** A luta contra a enchente artificial, a tirania do Prefeito Marco Moretti, a brutalidade de Roberto Miranda e seus robôs, e a busca por justiça em um mundo que está literalmente afundando.
 *   **Arco do Leilão (Parte X):** A revelação de que a cidade está sendo convertida em uma necrópole digital para a elite e entidades de IA, culminando na fusão de Aria com a rede e o retorno digital de Dante.
 *   **Arco da Redenção (Parte XI):** A batalha final pela alma da cidade, a transformação de Dante e Aria em guardiões digitais e a restauração de um equilíbrio frágil, mas esperançoso.
-*   **Arco do Renascimento (Parte XII):** A paz é desafiada por ameaças analógicas e sobrenaturais que escapam à onisciência da nova Entidade (Aria).
+*   **Arco do Renascimento (Parte XII):** A paz é desafiada por ameaças analógicas e sobrenaturais que escapam à onisciência da nova Entidade (Aria), introduzindo o horror biológico.
+*   **Arco da Carne Mecânica (Parte XIII):** A conclusão da saga com o enfrentamento final entre a tecnologia pura (Aria) e a biologia corrompida (Projeto Gênesis), resultando em um mundo pós-tecnológico.
