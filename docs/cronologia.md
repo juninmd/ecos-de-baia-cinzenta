@@ -105,6 +105,7 @@ Esta linha do tempo organiza os eventos históricos e narrativos do universo de 
 
 ### Parte XIV: O Vazio (Capítulos 98-...)
 *   **A Cidade Silenciosa (Cap 98):** Três meses após o apagão total. A cidade está sendo reconstruída manualmente. Gabo investiga um corpo encontrado com um cubo tecnológico ativo, sugerindo que o silêncio não é absoluto.
+*   **O Despertar da Máquina (Cap 99):** O grupo é atacado por um híbrido mecânico (Scavenger) nas ruínas. Após derrotá-lo usando o ambiente, descobrem que o cubo projeta um mapa do subsolo e uma mensagem de socorro de Elara Vance, alertando sobre uma nova ameaça que "consome" algo além de comida.
 
 ---
 
