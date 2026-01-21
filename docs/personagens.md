@@ -291,16 +291,16 @@
 
 *   **Idade:** 45 anos
 *   **Altura:** 1,78m
-*   **Porte Físico:** Gordo, mas visivelmente mais magro devido à escassez de alimentos processados.
-*   **Cabelo:** Ralo e sempre oleoso.
+*   **Porte Físico:** Gordo, mas agora com a robustez de quem carrega caixas.
+*   **Cabelo:** Ralo.
 *   **Olhos:** Pequenos e cansados.
-*   **Marcas Distintivas:** Palito de dente sempre no canto da boca.
-*   **Vestuário:** O mesmo terno cinza de sempre, agora remendado e gasto.
-*   **Equipamento:** Bloco de notas e caneta (odeia a falta de tablets).
-*   **Gostos/Traços:** Reclamar da "Idade da Pedra".
-*   **Perfil Psicológico:** Cínico, burocrata e pragmático. Adaptou-se mal à falta de tecnologia, mas continua sendo um policial competente à sua maneira torta.
-*   **Função:** Inspetor Sênior.
-*   **Histórico:** Após o colapso, tentou fugir, mas acabou retornando quando a comida acabou. Foi reintegrado por Vilar devido à falta de pessoal experiente. Trabalha na nova delegacia (Biblioteca), reclamando de cada relatório datilografado.
+*   **Marcas Distintivas:** Palito de dente e manchas de tinta de máquina de escrever nos dedos.
+*   **Vestuário:** Camisas de manga curta e suspensórios.
+*   **Equipamento:** Máquina de escrever Olivetti e revólver .38 de cano curto.
+*   **Gostos/Traços:** Reclamar da falta de ar-condicionado.
+*   **Perfil Psicológico:** Burocrata adaptado. Encontrou seu lugar organizando o caos do "mundo de papel".
+*   **Função:** Detetive / Administrador da Delegacia da Biblioteca.
+*   **Histórico:** Reintegrado por Vilar após o Apagão. Sua habilidade com papelada e procedimentos revelou-se vital para organizar a nova força policial sem computadores.
 
 ---
 
