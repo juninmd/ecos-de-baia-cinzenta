@@ -15,9 +15,13 @@ Gabo ignorou o comentário sobre a plateia, embora seu pescoço tenha ficado ten
 
 — O trânsito no Distrito da Névoa estava um inferno, Jonas. O que temos?
 
-— Arte. Pura e doente arte. Mas cuidado. Se você espirrar errado, eles vão usar isso para tirar seu distintivo.
+— Arte. Pura e doente arte. Mas cuidado. Se você espirrar errado, eles vão usar isso para tirar seu distintivo. O promotor já ligou três vezes. Ele quer "eficiência cirúrgica", o que significa que se não resolvermos isso em 48 horas, ele vai arquivar como "acidente industrial" para não assustar os investidores da Aeterna.
 
-Eles entraram. O galpão era vasto, uma catedral de indústria morta. No centro, sob a luz crua e impiedosa dos refletores forenses, estava a vítima.
+Eles entraram, vestindo os trajes de proteção completos que chiavam com o movimento. Gabo odiava aquilo; isolava os sentidos, abafava o som, o cheiro. Investigação era contato, era sentir o ar. Mas com a Corregedoria fungando no cangote, ele vestiu o maldito macacão.
+
+O galpão era vasto, uma catedral de indústria morta. Fotógrafos forenses circulavam o corpo, flashes estourando como relâmpagos artificiais, documentando cada ângulo antes que alguém tocasse em qualquer coisa.
+
+No centro, sob a luz crua e impiedosa dos refletores, estava a vítima.
 
 Não era apenas um corpo. Era uma instalação.
 
@@ -41,11 +45,15 @@ As pálpebras haviam sido removidas. No lugar dos olhos, lentes de câmeras anal
 
 O som foi mecânico, vindo de dentro do crânio do rapaz. As lentes giraram, focando.
 
-— Elas estão ativas — disse a perita técnica, uma mulher baixa chamada Maya "Glitch" Sato, que estava sentada no chão, cercada por cabos físicos conectados a um terminal portátil pesado. Nada de hologramas flutuantes aqui; apenas código rolando em telas de fósforo verde. — Não apenas ativas. Estão transmitindo.
+— Elas estão ativas — disse a perita técnica, uma mulher baixa chamada Maya "Glitch" Sato, que estava sentada no chão, cercada por cabos físicos conectados a um terminal portátil pesado. Nada de hologramas flutuantes aqui; apenas código rolando em telas de fósforo verde e o cheiro de processadores superaquecidos. — Não apenas ativas. Estão transmitindo.
 
-— Para onde? — perguntou Gabriel, agachando-se ao lado dela, notando a marca dos cabos: *Aeterna-Mil-Spec*.
+— Para onde? — perguntou Gabriel, agachando-se ao lado dela. Ele notou a sujeira nas unhas dela; Maya tinha passado as últimas duas horas rastreando cabos físicos enterrados no concreto para encontrar o link.
 
-— Não é um feed aberto. É ponto a ponto. Estou tentando triangular, mas o sinal está ricocheteando em dezenas de proxies. Coreia, Nova Berlim, Lua... — Ela limpou o suor da testa. — A criptografia é pesada. Camadas de ruído branco sobrepostas.
+— Não consigo rastrear o sinal wireless, é muito volátil. Mas... — Ela apontou para um conduíte enferrujado na parede. — Eu segui a interferência estática com o medidor de campo. Há um repetidor físico instalado naquele quadro de força secundário. Quem fez isso teve que vir aqui, abrir a caixa com uma chave mestra e plugar o hardware manualmente.
+
+— Manualmente? — Gabo sorriu, um sorriso de predador. — Ótimo. Hardware deixa impressões digitais. Deixa rastros de DNA. Esqueça o ciberespaço, Maya. Vamos desmontar aquela caixa de força e ver quem tocou nela.
+
+— Vou chamar a equipe de datiloscopia — disse Maya, aliviada por ter algo tangível.
 
 Gabriel se inclinou mais perto, encarando as lentes no rosto do morto.
 
@@ -89,19 +97,23 @@ Ele virou a foto. No verso, escrito com uma caligrafia elegante e antiquada em t
 
 Gabriel olhou para as lentes nos olhos do cadáver uma última vez. Ele se aproximou, até que seu rosto preenchesse todo o campo de visão da transmissão.
 
-— Se você está me ouvindo — disse ele para a câmera, para o assassino, para o abismo — eu não vou apenas te prender. Eu vou te desmontar. Peça por peça.
+— Se você está me ouvindo — disse ele para a câmera, para o assassino, para o abismo — eu não vou apenas te prender. Eu vou te caçar. Vou entrevistar cada vizinho, revirar cada lata de lixo, e quando eu te encontrar, você vai desejar ter ficado no escuro.
 
 *Click.* O obturador disparou uma última vez, como se concordasse.
 
-— Maya, rastreie o salto do sinal. Não me diga que é impossível. Apenas faça.
+— Maya, o que a caixa de força nos diz? — gritou Gabo.
 
-Maya digitou por mais alguns minutos, mordendo o lábio. — Consegui isolar o nó de saída. Não é a Dark Web. É uma sub-rede corporativa. O endereço IP está mascarado, mas o padrão de tráfego... — Ela virou a tela para ele. — Olha esse handshake. É proprietário.
+Maya estava com as mãos sujas de graxa, segurando um módulo transmissor queimado que ela arrancara da parede.
 
-Gabriel semicerrou os olhos. — Protocolo Lazarus. É da Aeterna Corp. Mas especificamente de uma subsidiária fantasma que comprou os antigos armazéns do porto mês passado.
+— Número de série raspado, mas deixaram a etiqueta de inventário interna. — Ela usou uma lupa. — Lote 49-B. Distribuído para a manutenção dos antigos armazéns do porto.
 
-— Aeterna — Gabriel soltou uma risada seca. — Claro. Por que seria fácil? Mas agora temos um endereço físico, não apenas digital.
+Gabriel semicerrou os olhos. — Armazéns do porto. Área abandonada, sem câmeras oficiais. O lugar perfeito para um estúdio de arte macabra.
 
-Ele se virou para sair.
+— Aeterna Corp é a dona do terreno — completou Vilar, lendo o relatório no tablet. — Compraram mês passado através de uma subsidiária fantasma.
+
+— Aeterna — Gabriel soltou uma risada seca. — Claro. Por que seria fácil? Mas agora temos um endereço físico, tijolo e argamassa.
+
+Ele se virou para sair, tirando as luvas com violência.
 
 — Onde você vai? — gritou Vilar.
 
