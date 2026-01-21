@@ -61,7 +61,7 @@ Kael avançou. Gabriel sabia que não podia vencer numa luta corporal, não cont
 
 Ele agarrou a toalha da mesa mais próxima e puxou. Cristais, garrafas caras e pratos de caviar voaram, estilhaçando-se no chão com um estrondo que parou a festa inteira.
 
-— Isso é o que vocês são! — gritou Gabriel, enquanto os convidados recuavam gritando. — Fachada bonita escondendo sujeira!
+— Sorriam para as câmeras! — gritou Gabriel, erguendo o distintivo manchado de sangue. — O show de horrores começou! — Fachada bonita escondendo sujeira!
 
 Kael o alcançou antes que ele pudesse dar mais um passo. O movimento foi um borrão. Gabriel sentiu um impacto no estômago que tirou todo o ar de seus pulmões, seguido por uma rasteira que o fez bater o rosto no chão polido.
 

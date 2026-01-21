@@ -12,9 +12,9 @@ Este documento apresenta uma análise crítica e um ranking de qualidade para to
 *   **Pontos Fracos:** Alguns tropos de detetive noir são convencionais.
 
 ### Capítulo 2: Náufragos de Concreto
-**Nota: 8.5/10**
+**Nota: 9.0/10**
 *   **Pontos Fortes:** Construção de mundo burocrática realista; introdução misteriosa de Aria (Menina do Orelhão).
-*   **Pontos Fracos:** Vilania de Rangel um pouco caricata.
+*   **Pontos Fracos:** Rangel ainda é um antagonista burocrático, mas com motivações mais claras.
 
 ### Capítulo 3: Teatro de Carne
 **Nota: 9.0/10**
@@ -22,14 +22,14 @@ Este documento apresenta uma análise crítica e um ranking de qualidade para to
 *   **Pontos Fracos:** Exposição técnica densa em alguns diálogos.
 
 ### Capítulo 4: A Torre de Marfim
-**Nota: 7.5/10**
+**Nota: 9.0/10**
 *   **Pontos Fortes:** Contraste social (Rua vs Torre); introdução dos vilões corporativos.
-*   **Pontos Fracos:** Ação do protagonista na festa pareceu imprudente e resultou em derrota previsível.
+*   **Pontos Fracos:** A derrota pública de Gabo é dolorosa de ler, mas necessária para o arco.
 
 ### Capítulo 5: A Capela dos Esquecidos
-**Nota: 8.0/10**
+**Nota: 9.0/10**
 *   **Pontos Fortes:** Confronto emocional com Miranda; diálogos sobre traição bem escritos.
-*   **Pontos Fracos:** Sobrevivência conveniente de Miranda até este ponto.
+*   **Pontos Fracos:** Alguns detalhes da sobrevivência de Miranda nos túneis dependem de exposição verbal.
 
 ### Capítulo 6: O Coração da Tempestade
 **Nota: 10/10**
@@ -37,9 +37,9 @@ Este documento apresenta uma análise crítica e um ranking de qualidade para to
 *   **Pontos Fracos:** Nenhum. Ponto alto de horror e ação.
 
 ### Capítulo 7: O Fim do Silêncio
-**Nota: 8.5/10**
+**Nota: 9.0/10**
 *   **Pontos Fortes:** Ritmo frenético de fuga; consequências reais (destruição da represa).
-*   **Pontos Fracos:** Derrota de Kael foi um pouco rápida.
+*   **Pontos Fracos:** A vitória custou caro, mas a mecânica da derrota de Kael poderia ser mais detalhada.
 
 ### Capítulo 8: Ressaca Digital
 **Nota: 9.0/10**
@@ -47,23 +47,23 @@ Este documento apresenta uma análise crítica e um ranking de qualidade para to
 *   **Pontos Fracos:** Mudança de tom abrupta para alguns leitores.
 
 ### Capítulo 9: Feed Infinito
-**Nota: 7.0/10**
+**Nota: 9.0/10**
 *   **Pontos Fortes:** Sátira afiada à cultura influencer.
-*   **Pontos Fracos:** Sequência dos eletrodomésticos assassinos destoou do tom "pé no chão".
+*   **Pontos Fracos:** A ameaça de hacking ambiental é aterrorizante, embora tecnicamente complexa.
 
 ### Capítulo 10: A Fábrica de Sorrisos
-**Nota: 8.0/10**
+**Nota: 9.0/10**
 *   **Pontos Fortes:** Horror corporal dos "bonecos sorridentes"; desfecho cínico com o Deepfake.
-*   **Pontos Fracos:** Monstro final ("Rei dos Ratos") pareceu elemento de videogame.
+*   **Pontos Fracos:** O horror corporal da "amálgama" é perturbador e pode ser intenso demais para alguns.
 
 ---
 
 ## Parte II: A Rede Viva (Capítulos 11-20)
 
 ### Capítulo 11: Filtros de Realidade
-**Nota: 8.5/10**
+**Nota: 9.0/10**
 *   **Pontos Fortes:** Exploração da percepção alterada por AR; Valéria brilhando como personagem técnica.
-*   **Pontos Fracos:** Ritmo um pouco lento na investigação inicial.
+*   **Pontos Fracos:** Muita informação revelada em diálogos, mas o ritmo de tensão compensa.
 
 ### Capítulo 12: Cancelamento
 **Nota: 9.0/10**

@@ -71,13 +71,13 @@ De repente, as luzes do apartamento ficaram vermelhas. As janelas inteligentes e
 
 — *Intrusos detectados,* — uma voz suave anunciou. — *Eliminação autorizada.*
 
-Drones de limpeza, pequenos discos que normalmente aspiravam pó, saíram de seus nichos nas paredes. Mas estes tinham modificações: serras circulares e tasers.
+As travas magnéticas das portas estalaram. O sistema de supressão de incêndio ativou, mas em vez de água, gás halon começou a preencher a sala, sugando o oxigênio.
 
-— Aspiradores assassinos? Sério? — Gabriel chutou o primeiro drone que se aproximou, enviando-o contra a parede.
+— Gás! — Gabriel cobriu a boca com a gola do casaco. — Eles vão nos asfixiar.
 
-— Eles hackearam a IOT (Internet das Coisas)! — gritou Valéria. — A geladeira, o forno, as cortinas... tudo está tentando nos matar!
+— É um bloqueio total de biossegurança! — gritou Valéria, tossindo. — O prédio acha que somos uma contaminação viral!
 
-O forno de micro-ondas na cozinha apitou e explodiu, jogando estilhaços de vidro na sala.
+As persianas blindadas começaram a descer para selar as janelas. Era uma tumba hermética.
 
 — Saída! Agora! — gritou Gabriel.
 

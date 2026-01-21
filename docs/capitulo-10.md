@@ -85,7 +85,7 @@ Um homem vestindo um jaleco branco imaculado, usando uma máscara de gás estili
 
 A figura no escritório apertou um botão. O chão tremeu.
 
-Do fundo do galpão, algo enorme começou a se mover. Uma amálgama de corpos e metal, um "Rei dos Ratos" feito de peças rejeitadas.
+Do fundo do galpão, a massa de rejeitos biomédicos começou a se convulsionar. Não era uma criatura única, mas vários corpos fundidos incorretamente pelo sistema automatizado em loop, arrastando-se em agonia.
 
 — Val — disse Gabriel, recarregando a arma. — Acho que vamos precisar de um plano B.
 
@@ -101,7 +101,7 @@ Gabriel viu tanques de oxigênio líquido alinhados perto das máquinas cirúrgi
 
 — Só se formos lentos. Corre para a saída!
 
-Gabriel mirou. A criatura gigante rugiu — um som feito de vozes humanas distorcidas.
+Gabriel mirou. A massa de carne emitiu um gemido gorgolejante de múltiplos pulmões colapsados.
 
 Ele disparou.
 

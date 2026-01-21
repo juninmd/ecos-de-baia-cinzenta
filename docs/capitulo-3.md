@@ -93,7 +93,7 @@ Ele virou a foto. No verso, escrito com uma caligrafia elegante e antiquada em t
 
 — Ele ainda está vivo? — Gabriel guardou a foto em um saco de evidências.
 
-— Vivo e se escondendo como um rato nos túneis do Setor 7. A Inteligência diz que ele está tentando vender informações para o Sindicato.
+— Ele conhece os túneis de drenagem da época da construção. Ninguém mapeou aquilo. É o único lugar que os sensores da Aeterna não alcançam. A Inteligência diz que ele está tentando vender informações para o Sindicato.
 
 Gabriel olhou para as lentes nos olhos do cadáver uma última vez. Ele se aproximou, até que seu rosto preenchesse todo o campo de visão da transmissão.
 
