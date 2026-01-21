@@ -287,20 +287,20 @@
 
 ---
 
-## Inspetor Rangel - [STATUS: APOSENTADO/IRRELEVANTE]
+## Inspetor Rangel - [STATUS: ATIVO/REINTEGRADO]
 
 *   **Idade:** 45 anos
 *   **Altura:** 1,78m
-*   **Porte Físico:** Gordo.
-*   **Cabelo:** Ralo.
-*   **Olhos:** Pequenos.
-*   **Marcas Distintivas:** Palito de dente.
-*   **Vestuário:** Ternos cinza.
-*   **Equipamento:** Tablet.
-*   **Gostos/Traços:** Autoridade.
-*   **Perfil Psicológico:** Burocrata.
-*   **Função:** Ex-Rival.
-*   **Histórico:** Fugiu ou se escondeu quando a tecnologia caiu. Perdeu todo o poder sem a burocracia corporativa para apoiá-lo.
+*   **Porte Físico:** Gordo, mas visivelmente mais magro devido à escassez de alimentos processados.
+*   **Cabelo:** Ralo e sempre oleoso.
+*   **Olhos:** Pequenos e cansados.
+*   **Marcas Distintivas:** Palito de dente sempre no canto da boca.
+*   **Vestuário:** O mesmo terno cinza de sempre, agora remendado e gasto.
+*   **Equipamento:** Bloco de notas e caneta (odeia a falta de tablets).
+*   **Gostos/Traços:** Reclamar da "Idade da Pedra".
+*   **Perfil Psicológico:** Cínico, burocrata e pragmático. Adaptou-se mal à falta de tecnologia, mas continua sendo um policial competente à sua maneira torta.
+*   **Função:** Inspetor Sênior.
+*   **Histórico:** Após o colapso, tentou fugir, mas acabou retornando quando a comida acabou. Foi reintegrado por Vilar devido à falta de pessoal experiente. Trabalha na nova delegacia (Biblioteca), reclamando de cada relatório datilografado.
 
 ---
 

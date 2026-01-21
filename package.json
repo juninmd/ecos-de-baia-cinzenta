@@ -23,5 +23,8 @@
   "homepage": "https://github.com/juninmd/meu-livro#readme",
   "devDependencies": {
     "vitepress": "^1.6.4"
+  },
+  "dependencies": {
+    "medium-zoom": "^1.1.0"
   }
 }
