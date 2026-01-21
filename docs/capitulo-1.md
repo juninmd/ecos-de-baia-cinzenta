@@ -17,11 +17,23 @@ Gabriel "Gabo" Moretti sentiu a água fria escorrer pelo pescoço, infiltrando-s
 
 — Ninguém viu nada, senhor. Bateram portas na minha cara. Como sempre.
 
-— Sempre alguém vê algo. Eles só têm medo de falar. — Gabo suspirou, puxando um bloco de notas encharcado. — Anote as placas de qualquer drone de entrega que passou por aqui na última hora. As câmeras deles gravam tudo, mesmo que os donos não queiram. É o básico, soldado.
+— Sempre alguém vê algo. Eles só têm medo de falar. Vá de porta em porta de novo. Ameace com obstrução de justiça se for preciso, mas consiga um nome. — Gabo suspirou, puxando um bloco de notas encharcado. — E verifique as lixeiras num raio de dois quarteirões. O assassino pode ter descartado luvas ou ferramentas. É o básico, soldado. Trabalho de perna, não de máquina.
 
-O oficial assentiu, envergonhado, e apontou para um beco estreito entre dois contêineres habitacionais empilhados. A fita amarela da polícia parecia uma piada ali, uma tentativa frágil de impor ordem ao caos daquele lugar esquecido por Deus e pela prefeitura.
+O oficial assentiu, engolindo em seco, e apontou para um beco estreito entre dois contêineres habitacionais empilhados. A fita amarela da polícia parecia uma piada ali, uma tentativa frágil de impor ordem ao caos.
 
-Gabriel engoliu rapidamente seu café, sentindo o gosto amargo descer pela garganta. Ele não queria entrar lá. Aos trinta anos, sentia-se como se tivesse setenta. Seus joelhos estalavam, e a insônia da semana passada fazia as luzes da cidade deixarem rastros em sua visão periférica.
+Antes que Gabo pudesse avançar, seu comunicador de pulso vibrou. Uma luz vermelha: *PRIORIDADE: CORREGEDORIA*.
+
+— Moretti — ele atendeu, a voz ríspida.
+
+— *Inspetor* — a voz do Diretor Dantas era seca como papel lixa. — *O sistema de monitoramento de recursos indica que você solicitou uma equipe forense completa para a Vila da Ferrugem. O orçamento do departamento está sangrando, Moretti. Se isso for mais um drogado que teve uma overdose, vou descontar o custo do reagente químico do seu fundo de pensão.*
+
+— É um homicídio, Diretor. Tenho um corpo.
+
+— *Certifique-se de que tenha um culpado também, e rápido. A Prefeitura quer as ruas limpas para o festival da semana que vem, não manchetes sobre assassinatos na favela. Você tem 24 horas antes que eu repasse o caso para a Divisão de IA.*
+
+A linha ficou muda. Gabo praguejou baixinho.
+
+Gabriel engoliu rapidamente o resto de seu café, sentindo o gosto amargo descer pela garganta misturado com a bile da raiva. Ele não queria entrar lá. Aos trinta anos, sentia-se como se tivesse setenta. Seus joelhos estalavam, e a insônia da semana passada fazia as luzes da cidade deixarem rastros em sua visão periférica.
 
 Para piorar, sua bexiga protestava. Três canecas de café na última hora estavam cobrando o preço, mas não havia onde aliviar-se ali sem contaminar a cena ou ser visto pelos drones de imprensa que zumbiam como mosquitos no perímetro. Ele cerrou os dentes.
 
@@ -57,9 +69,13 @@ Ele aproximou a mão enluvada do rosto da vítima. As lentes focaram. Um leve zu
 
 — Elas ainda estão ativas — disse Gabriel, sentindo um arrepio.
 
-Ele puxou um pequeno frasco de metal do bolso do sobretudo — seu kit de reagentes portátil. Pingou uma gota de uma solução azulada na junção entre a pele e o metal da órbita. O líquido efervesceu e ficou roxo.
+Ele não usou um scanner. Em vez disso, puxou uma lupa de relojoeiro do bolso e aproximou o rosto da órbita mutilada, ignorando o cheiro de decomposição que começava a subir. Ele iluminou a junção da pele com uma lanterna de penlight, observando a inflamação, os micro-cortes.
 
-— Polímero condutivo de grau militar — murmurou ele, recolhendo uma amostra com uma pinça e depositando-a em um tubo de ensaio. — Isso não é sucata da Vila. A conexão neural é direta. Vou precisar que o laboratório confirme a origem, mas aposto meu distintivo que veio dos depósitos da Zona Industrial.
+— A incisão é irregular nas bordas, mas o encaixe é perfeito — murmurou ele, passando o dedo enluvado pela borda metálica. — Não foi laser. Foi bisturi. A moda antiga. Quem fez isso queria sentir a carne cedendo.
+
+Ele puxou um pequeno frasco de metal do bolso do sobretudo — seu kit de reagentes portátil. Pingou uma gota de uma solução azulada na junção entre a pele e o metal. O líquido efervesceu e ficou roxo.
+
+— Reação positiva para selante biológico de alto custo — disse ele, recolhendo uma amostra com uma lâmina e depositando-a em um saco de evidência. — Isso não é sucata da Vila. Vou precisar que o laboratório faça a espectrografia, vai demorar uns dois dias com a fila de espera, mas aposto meu distintivo que veio dos estoques médicos roubados da Zona Industrial.
 
 — O que isso significa? — perguntou o oficial.
 
