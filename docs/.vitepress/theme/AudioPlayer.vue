@@ -93,46 +93,49 @@ const play = () => {
   // Cancel any pending speech to ensure clean state
   synth.value.cancel()
 
-  const u = new SpeechSynthesisUtterance(text)
-  utterance.value = u
+  // Use a small timeout to allow cancel() to complete in some browsers
+  setTimeout(() => {
+      const u = new SpeechSynthesisUtterance(text)
+      utterance.value = u
 
-  // Ensure we use the user-selected voice
-  const voice = toRaw(selectedVoice.value)
+      // Ensure we use the user-selected voice
+      const voice = toRaw(selectedVoice.value)
 
-  if (voice) {
-    // We try to match the name back to the actual voice object in the synth list
-    // because some browsers might invalidate voice objects on reload
-    const currentVoices = synth.value.getVoices()
-    const voiceObj = currentVoices.find(v => v.name === voice.name)
+      if (voice) {
+        // We try to match the name back to the actual voice object in the synth list
+        // because some browsers might invalidate voice objects on reload
+        const currentVoices = synth.value.getVoices()
+        const voiceObj = currentVoices.find(v => v.name === voice.name)
 
-    if (voiceObj) {
-        u.voice = voiceObj
-        // Use the voice's native language to prevent silence due to mismatch
-        u.lang = voiceObj.lang
-    } else {
-        // Fallback to the stored value if we can't find it in the current list
-        u.voice = voice
-        u.lang = voice.lang || 'pt-BR'
-    }
-  } else {
-    u.lang = 'pt-BR'
-  }
+        if (voiceObj) {
+            u.voice = voiceObj
+            // Use the voice's native language to prevent silence due to mismatch
+            u.lang = voiceObj.lang
+        } else {
+            // Fallback to the stored value if we can't find it in the current list
+            u.voice = voice
+            u.lang = voice.lang || 'pt-BR'
+        }
+      } else {
+        u.lang = 'pt-BR'
+      }
 
-  u.rate = rate.value
+      u.rate = rate.value
 
-  u.onend = () => {
-    isPlaying.value = false
-    isPaused.value = false
-  }
+      u.onend = () => {
+        isPlaying.value = false
+        isPaused.value = false
+      }
 
-  u.onerror = (e) => {
-    console.error('Speech synthesis error', e)
-    isPlaying.value = false
-    isPaused.value = false
-  }
+      u.onerror = (e) => {
+        console.error('Speech synthesis error', e)
+        isPlaying.value = false
+        isPaused.value = false
+      }
 
-  synth.value.speak(u)
-  isPlaying.value = true
+      synth.value.speak(u)
+      isPlaying.value = true
+  }, 50)
 }
 
 const pause = () => {
