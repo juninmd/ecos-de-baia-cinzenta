@@ -1,15 +1,15 @@
 <script setup>
-import { ref, onMounted, onUnmounted, watch } from 'vue'
+import { ref, onMounted, onUnmounted, watch, shallowRef, toRaw } from 'vue'
 import { useRoute } from 'vitepress'
 
 const route = useRoute()
 const isPlaying = ref(false)
 const isPaused = ref(false)
-const synth = ref(null)
-const utterance = ref(null)
+const synth = shallowRef(null)
+const utterance = shallowRef(null)
 const rate = ref(1) // Changed default to 1x
-const availableVoices = ref([])
-const selectedVoice = ref(null)
+const availableVoices = shallowRef([])
+const selectedVoice = shallowRef(null)
 
 const initSynth = () => {
   if (typeof window !== 'undefined' && 'speechSynthesis' in window) {
@@ -85,44 +85,53 @@ const play = () => {
   }
 
   const text = getText()
-  if (!text) return
-
-  utterance.value = new SpeechSynthesisUtterance(text)
-
-  // Ensure we use the user-selected voice
-  if (selectedVoice.value) {
-    // We need to match the name back to the actual voice object in the synth list
-    // because some browsers might invalidate voice objects on reload
-    const currentVoices = synth.value.getVoices()
-    const voiceObj = currentVoices.find(v => v.name === selectedVoice.value.name)
-
-    if (voiceObj) {
-        utterance.value.voice = voiceObj
-        // Use the voice's native language to prevent silence due to mismatch
-        utterance.value.lang = voiceObj.lang
-    } else {
-        // Fallback to the stored value if we can't find it in the current list
-        utterance.value.voice = selectedVoice.value
-        utterance.value.lang = selectedVoice.value.lang || 'pt-BR'
-    }
-  } else {
-    utterance.value.lang = 'pt-BR'
+  if (!text) {
+    console.warn('AudioPlayer: Nenhum texto encontrado para ler.')
+    return
   }
 
-  utterance.value.rate = rate.value
+  // Cancel any pending speech to ensure clean state
+  synth.value.cancel()
 
-  utterance.value.onend = () => {
+  const u = new SpeechSynthesisUtterance(text)
+  utterance.value = u
+
+  // Ensure we use the user-selected voice
+  const voice = toRaw(selectedVoice.value)
+
+  if (voice) {
+    // We try to match the name back to the actual voice object in the synth list
+    // because some browsers might invalidate voice objects on reload
+    const currentVoices = synth.value.getVoices()
+    const voiceObj = currentVoices.find(v => v.name === voice.name)
+
+    if (voiceObj) {
+        u.voice = voiceObj
+        // Use the voice's native language to prevent silence due to mismatch
+        u.lang = voiceObj.lang
+    } else {
+        // Fallback to the stored value if we can't find it in the current list
+        u.voice = voice
+        u.lang = voice.lang || 'pt-BR'
+    }
+  } else {
+    u.lang = 'pt-BR'
+  }
+
+  u.rate = rate.value
+
+  u.onend = () => {
     isPlaying.value = false
     isPaused.value = false
   }
 
-  utterance.value.onerror = (e) => {
+  u.onerror = (e) => {
     console.error('Speech synthesis error', e)
     isPlaying.value = false
     isPaused.value = false
   }
 
-  synth.value.speak(utterance.value)
+  synth.value.speak(u)
   isPlaying.value = true
 }
 
@@ -163,8 +172,9 @@ const stop = () => {
       <div class="controls-settings">
         <div class="setting-group">
           <label for="voice-select" class="label-icon" title="Escolher Voz">🗣️</label>
-          <select id="voice-select" v-model="selectedVoice" class="voice-select">
-            <option v-for="voice in availableVoices" :key="voice.name" :value="voice">
+          <select id="voice-select" v-model="selectedVoice" class="voice-select" :disabled="availableVoices.length === 0">
+             <option v-if="availableVoices.length === 0" :value="null">Carregando vozes...</option>
+             <option v-for="voice in availableVoices" :key="voice.name" :value="voice">
               {{ voice.name.replace('Microsoft ', '').replace('Google ', '') }}
             </option>
           </select>
