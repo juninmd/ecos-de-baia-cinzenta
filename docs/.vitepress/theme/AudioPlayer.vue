@@ -1,15 +1,19 @@
 <script setup>
-import { ref, onMounted, onUnmounted, watch } from 'vue'
+import { ref, onMounted, onUnmounted, watch, shallowRef, toRaw } from 'vue'
 import { useRoute } from 'vitepress'
 
 const route = useRoute()
 const isPlaying = ref(false)
 const isPaused = ref(false)
-const synth = ref(null)
-const utterance = ref(null)
+const synth = shallowRef(null)
+const utterance = shallowRef(null)
 const rate = ref(1) // Changed default to 1x
-const availableVoices = ref([])
-const selectedVoice = ref(null)
+const availableVoices = shallowRef([])
+const selectedVoice = shallowRef(null)
+
+// Chunking state
+const segments = shallowRef([])
+const currentSegmentIndex = ref(0)
 
 const initSynth = () => {
   if (typeof window !== 'undefined' && 'speechSynthesis' in window) {
@@ -69,6 +73,66 @@ const getText = () => {
   return content ? content.innerText : ''
 }
 
+// Split text into meaningful chunks (sentences) to avoid browser timeouts
+const chunkText = (text) => {
+  // Split by common sentence terminators but keep the punctuation
+  // This regex looks for (. ? ! or :) followed by whitespace
+  const rawSegments = text.match(/[^.?!:]+[.?!:]+/g) || [text]
+  return rawSegments.map(s => s.trim()).filter(s => s.length > 0)
+}
+
+const speakSegment = () => {
+  if (!synth.value || currentSegmentIndex.value >= segments.value.length) {
+    isPlaying.value = false
+    isPaused.value = false
+    currentSegmentIndex.value = 0
+    return
+  }
+
+  const textSegment = segments.value[currentSegmentIndex.value]
+  const u = new SpeechSynthesisUtterance(textSegment)
+  utterance.value = u
+
+  // Ensure we use the user-selected voice
+  const voice = toRaw(selectedVoice.value)
+
+  if (voice) {
+    const currentVoices = synth.value.getVoices()
+    const voiceObj = currentVoices.find(v => v.name === voice.name)
+
+    if (voiceObj) {
+        u.voice = voiceObj
+        u.lang = voiceObj.lang
+    } else {
+        u.voice = voice
+        u.lang = voice.lang || 'pt-BR'
+    }
+  } else {
+    u.lang = 'pt-BR'
+  }
+
+  u.rate = rate.value
+
+  u.onend = () => {
+    // Successfully finished this segment, move to next
+    currentSegmentIndex.value++
+    if (isPlaying.value) { // Check if we are still supposed to be playing
+        speakSegment()
+    }
+  }
+
+  u.onerror = (e) => {
+    console.error('Speech synthesis error', e)
+    // Try to skip to next segment on error
+    currentSegmentIndex.value++
+    if (isPlaying.value) {
+        speakSegment()
+    }
+  }
+
+  synth.value.speak(u)
+}
+
 const play = () => {
   if (!synth.value) return
 
@@ -79,51 +143,29 @@ const play = () => {
     return
   }
 
-  // If already playing but not paused, stop first (restart)
+  // If already playing, stop first to restart (or handle as "restart" logic)
   if (isPlaying.value) {
     stop()
   }
 
   const text = getText()
-  if (!text) return
-
-  utterance.value = new SpeechSynthesisUtterance(text)
-
-  // Ensure we use the user-selected voice
-  if (selectedVoice.value) {
-    // We need to match the name back to the actual voice object in the synth list
-    // because some browsers might invalidate voice objects on reload
-    const currentVoices = synth.value.getVoices()
-    const voiceObj = currentVoices.find(v => v.name === selectedVoice.value.name)
-
-    if (voiceObj) {
-        utterance.value.voice = voiceObj
-        // Use the voice's native language to prevent silence due to mismatch
-        utterance.value.lang = voiceObj.lang
-    } else {
-        // Fallback to the stored value if we can't find it in the current list
-        utterance.value.voice = selectedVoice.value
-        utterance.value.lang = selectedVoice.value.lang || 'pt-BR'
-    }
-  } else {
-    utterance.value.lang = 'pt-BR'
+  if (!text) {
+    console.warn('AudioPlayer: Nenhum texto encontrado para ler.')
+    return
   }
 
-  utterance.value.rate = rate.value
+  // Cancel any pending speech
+  synth.value.cancel()
 
-  utterance.value.onend = () => {
-    isPlaying.value = false
-    isPaused.value = false
-  }
-
-  utterance.value.onerror = (e) => {
-    console.error('Speech synthesis error', e)
-    isPlaying.value = false
-    isPaused.value = false
-  }
-
-  synth.value.speak(utterance.value)
+  // Initialize segments
+  segments.value = chunkText(text)
+  currentSegmentIndex.value = 0
   isPlaying.value = true
+
+  // Use a small timeout to allow cancel() to complete
+  setTimeout(() => {
+    speakSegment()
+  }, 50)
 }
 
 const pause = () => {
@@ -138,6 +180,7 @@ const stop = () => {
     synth.value.cancel()
     isPlaying.value = false
     isPaused.value = false
+    currentSegmentIndex.value = 0
   }
 }
 </script>
@@ -163,8 +206,9 @@ const stop = () => {
       <div class="controls-settings">
         <div class="setting-group">
           <label for="voice-select" class="label-icon" title="Escolher Voz">🗣️</label>
-          <select id="voice-select" v-model="selectedVoice" class="voice-select">
-            <option v-for="voice in availableVoices" :key="voice.name" :value="voice">
+          <select id="voice-select" v-model="selectedVoice" class="voice-select" :disabled="availableVoices.length === 0">
+             <option v-if="availableVoices.length === 0" :value="null">Carregando vozes...</option>
+             <option v-for="voice in availableVoices" :key="voice.name" :value="voice">
               {{ voice.name.replace('Microsoft ', '').replace('Google ', '') }}
             </option>
           </select>
@@ -185,6 +229,9 @@ const stop = () => {
 
     <div v-if="isPlaying" class="status-bar">
       <span class="status-text">Narrando: {{ selectedVoice?.name }}</span>
+      <span class="progress-text" v-if="segments.length > 0">
+        ({{ Math.round(((currentSegmentIndex) / segments.length) * 100) }}%)
+      </span>
     </div>
   </div>
 </template>
@@ -276,6 +323,8 @@ select {
   padding-top: 8px;
   font-size: 0.8rem;
   color: var(--vp-c-text-2);
+  display: flex;
+  justify-content: space-between;
 }
 
 .status-text {

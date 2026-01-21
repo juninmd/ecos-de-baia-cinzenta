@@ -27,7 +27,7 @@ O laboratório de Nise era um museu de tecnologia obsoleta. Monitores de tubo, t
 
 — O menino sorridente — Nise suspirou, servindo um chá que cheirava a ferrugem. — Ele veio pedir para eu tirar o implante dele. O "Modulador de Humor".
 
-— O que ele descobriu? — perguntou Valéria.
+— Ele descobriu a Frequência Fantasma. — Nise interrompeu, a voz grave. — O implante dele não modulava apenas o humor dele. Modulava o de quem assistia.
 
 — Que o implante não modulava apenas o dele. Modulava o de quem assistia.
 
@@ -71,9 +71,9 @@ Nise virou seu rosto cego na direção dele, e seus drones zumbiram mais perto. 
 
 A revelação atingiu Gabriel como um soco. Seu pai, o herói da cidade, era cúmplice?
 
-De repente, o alarme de Nise disparou.
+O chão tremeu antes do som chegar. Poeira caiu do teto baixo.
 
-— Eles acharam vocês — disse a velha, sem pânico. — Meus drones detectaram uma unidade de "Cancelamento" se aproximando.
+— Unidade de Cancelamento. Nível 5. — Nise engatilhou a espingarda com um movimento fluido, sem pânico. — Meus drones detectaram uma unidade de "Cancelamento" se aproximando.
 
 — Temos que sair — disse Gabriel, sacando a arma.
 
