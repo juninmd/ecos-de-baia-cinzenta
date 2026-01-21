@@ -180,6 +180,7 @@ module.exports = {
         text: 'Parte XIV: O Vazio',
         items: [
           { text: 'Capítulo 98: A Cidade Silenciosa', link: '/capitulo-98' },
+          { text: 'Capítulo 99: O Despertar da Máquina', link: '/capitulo-99' },
         ]
       },
       {

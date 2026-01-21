@@ -121,3 +121,15 @@
   font-family: "Playfair Display", serif;
   font-weight: 700;
 }
+
+/* Medium Zoom Customization */
+.medium-zoom-overlay {
+  z-index: 100 !important;
+  background: var(--vp-c-bg) !important;
+}
+.medium-zoom-image--opened {
+  z-index: 101 !important;
+  border: none !important;
+  transform: none !important;
+  box-shadow: none !important;
+}

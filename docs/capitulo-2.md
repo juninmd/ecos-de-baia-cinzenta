@@ -17,9 +17,13 @@ Gabo revirou os olhos antes de apertar o botão do comunicador. — O que você 
 
 — Não era um Zé Ninguém, Rangel. E o caso é meu.
 
-— *Para a Aeterna, se não paga impostos, é lixo. O orçamento do trimestre estourou, Gabriel. Se aquele corpo não for de um filho de acionista, vai sair do seu salário. E eu já preenchi o Formulário 88-C recomendando sua suspensão preventiva se isso for alarme falso. Cuidado onde pisa, "herói". Se eu achar uma vírgula fora do lugar no seu relatório, vou ter o maior prazer em te mandar para a guarda de trânsito. Desligando.*
+— *Para a Aeterna, se não paga impostos, é lixo. O orçamento do trimestre estourou, Gabriel. Se aquele corpo não for de um filho de acionista, vai sair do seu salário. A Corregedoria já está revirando seus arquivos antigos, Moretti. O caso do Porto? Eles reabriram. Estão procurando qualquer desculpa, um deslize, uma evidência contaminada, para tirar seu distintivo e sua pensão.*
 
-— Bastardo — murmurou Gabo. A pressão estava aumentando. Não bastava o crime, ele tinha que lutar contra o próprio departamento.
+Rangel fez uma pausa dramática.
+
+— *Eu já preenchi o Formulário 88-C recomendando sua suspensão preventiva. Só falta assinar. Cuidado onde pisa, "herói". Se eu achar uma vírgula fora do lugar no seu relatório, ou se você quebrar o nariz de algum suspeito sem a papelada adequada, você cai. Desligando.*
+
+— Bastardo — murmurou Gabo, sentindo o estômago apertar. Não era apenas rivalidade; era uma caçada institucional.
 
 — *Atenção, todas as unidades. Deslizamento no Setor 7. Trânsito desviado para a Via Costeira.*
 
@@ -35,17 +39,25 @@ Gabo não hesitou. O instinto falou mais alto que o cansaço. Ele freou bruscame
 
 Dois dos vândalos correram para o esgoto. O terceiro, mais lento, tentou puxar uma faca. Gabo avançou, ignorando a lama. Um chute preciso no joelho fez o homem dobrar. Um golpe com a coronha da pistola na nuca o fez beijar o asfalto.
 
-— Você tem o direito de ficar calado — Gabo rosnou, algemando o homem à grade de proteção da encosta. — Não que alguém vá ouvir.
+— Você tem o direito de ficar calado — Gabo rosnou, apertando as algemas de plástico até o homem chiar de dor. Ele o prendeu à grade de proteção da encosta. — Não que alguém vá ouvir.
+
+Gabo agarrou o rosto do homem, forçando-o a olhar para ele.
+
+— Antes de eu chamar a viatura... ouvi boatos na rua. Pessoas desaparecendo. Olhos sendo roubados. Sabe de alguma coisa?
+
+O bandido cuspiu sangue e riu. — Eu roubo cobre, seu porco. Não olhos. Mas o "Cirurgião"... dizem que ele paga bem por peças frescas. Pergunte no *Velvet*, se tiver coragem.
+
+Gabo soltou o homem com nojo. Era uma pista. Tênue, suja, mas uma pista.
 
 Ele bateu no vidro do ônibus. — Você está bem?
 
 O motorista assentiu, trêmulo.
 
-— Chamei uma unidade de transporte. Eles vêm buscar esse lixo — Gabo apontou para o bandido algemado, que gemia na chuva. — Mas não espere sentado.
+— Chamei uma unidade de transporte. Eles vêm buscar esse lixo — Gabo apontou para o bandido algemado. — Mas não espere sentado.
 
-Ele voltou para o carro, sentindo a adrenalina diminuir e dar lugar à exaustão de novo. Era como tentar esvaziar o oceano com uma colher. Prendia um, nasciam três. Mas era o trabalho.
+Ele voltou para o carro, anotando mentalmente: *Investigar o Velvet*. A adrenalina diminuía, dando lugar à exaustão de novo. Era como tentar esvaziar o oceano com uma colher. Prendia um, nasciam três. Mas era o trabalho.
 
-A foto do menino — a foto *dele* — queimava em seu bolso como se fosse feita de brasas, exigindo respostas que ele só encontraria (talvez) nos arquivos mortos da delegacia ou no fundo de uma garrafa.
+A foto do menino — a foto *dele* — queimava em seu bolso como se fosse feita de brasas. Ele precisava de respostas. Respostas que não viriam de bancos de dados corrompidos, mas de pressionar as pessoas certas até elas quebrarem.
 
 Ele girou o volante, os pneus cantando no asfalto molhado enquanto o carro derrapava levemente antes de recuperar a tração.
 
