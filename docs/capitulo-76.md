@@ -104,7 +104,7 @@ A luz crua do meio-dia revelava cicatrizes que a chuva e o neon costumavam escon
 
 Gabo ajustou os óculos escuros que Val tinha lhe dado. Seus olhos ardiam. Ele mudou o peso do corpo, sentindo o metal frio das órteses de perna pressionarem suas coxas — o equipamento que permitia que ele ficasse de pé, mesmo que de forma rígida.
 
-— A Entidade não viu nada? — perguntou ele, acendendo um cigarro imaginário e tamborilando os dedos no coldre.
+— A Entidade não viu nada? — perguntou ele, tamborilando os dedos no coldre, um ritmo frenético para focar os pensamentos.
 
 Val estava agachada ao lado do corpo, conectada ao seu deck. O cadáver era de um homem de meia-idade, vestido com roupas corporativas baratas. Sua cabeça tinha sido esmagada.
 

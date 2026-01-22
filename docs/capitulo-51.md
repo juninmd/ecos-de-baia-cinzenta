@@ -20,7 +20,7 @@ Gabo sentiu um gosto amargo na boca. Insulina.
 
 — Roubo?
 
-— Carteira cheia, relógio de ouro no pulso. Não levaram nada. — Vilar tragou o cigarro. — Exceto a vida. E a dignidade.
+— Carteira cheia, relógio de ouro no pulso. Não levaram nada. — Vilar tragou o cigarro. Gabo desviou o rosto, incomodado com a fumaça. — Exceto a vida. E a dignidade.
 
 — Isso não é coisa de gangue — murmurou Gabo, examinando os hematomas no pescoço. — Marcas de dedos. Polegares na traqueia. Força bruta, mas aplicada com precisão cirúrgica. Quem fez isso sabia exatamente onde apertar para desligar o cérebro.
 

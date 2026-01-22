@@ -31,7 +31,7 @@ Ao sair para a rua, o som o atingiu. Não o zumbido constante dos servidores ou 
 
 Gabo continuou andando. O Departamento de Polícia operava agora no antigo prédio da Biblioteca Municipal, já que a delegacia original tinha sido engolida por uma cratera durante a Queda da Torre.
 
-Dentro, a cena parecia saída de um filme noir do século passado. Máquinas de escrever tec-tec-tecavam (resgatadas de museus e sótãos), arquivos de papel se empilhavam em mesas de madeira, e a fumaça de cigarros baratos pairava no ar — um vício que voltou com força total quando os inibidores de saúde digitais pararam de funcionar.
+Dentro, a cena parecia saída de um filme noir do século passado. Máquinas de escrever tec-tec-tecavam (resgatadas de museus e sótãos), arquivos de papel se empilhavam em mesas de madeira, e a fumaça de cigarros baratos pairava no ar — um vício que voltou com força total quando os inibidores de saúde digitais pararam de funcionar. Gabo prendeu a respiração momentaneamente, reprimindo a náusea que o cheiro lhe causava.
 
 — Moretti — chamou o Capitão Vilar de sua sala de vidro.
 

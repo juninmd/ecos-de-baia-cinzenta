@@ -35,13 +35,13 @@ A linha ficou muda. Gabo praguejou baixinho.
 
 Gabriel engoliu rapidamente o resto de seu café, sentindo o gosto amargo descer pela garganta misturado com a bile da raiva. Ele não queria entrar lá. Aos trinta anos, sentia-se como se tivesse setenta. Seus joelhos estalavam, e a insônia da semana passada fazia as luzes da cidade deixarem rastros em sua visão periférica.
 
-Seus dedos da mão direita tamborilaram ritmicamente no couro do coldre, um tique nervoso que substituíra o maço de cigarros há três anos. O vício em nicotina se fora, mas a necessidade de movimento constante permanecia.
+Seus dedos da mão direita tamborilaram ritmicamente no couro do coldre, um tique nervoso para dar vazão à ansiedade acumulada. Ele nunca fumou — odiava o vício que consumira seu pai —, mas a necessidade de movimento constante era sua própria forma de dependência.
 
 Para piorar, sua bexiga protestava. Três canecas de café na última hora estavam cobrando o preço, mas não havia onde aliviar-se ali sem contaminar a cena ou ser visto pelos drones de imprensa que zumbiam como mosquitos no perímetro. Ele cerrou os dentes.
 
 E havia o Ruído. Aquele zumbido onipresente de baixa frequência que a cidade emitia 24 horas por dia. Hoje, estava mais forte. Gabo sentiu a pressão atrás dos olhos aumentar, pulsando em compasso com os neons. Ele passou a mão pelo nariz e viu sangue na luva. "Ótimo", pensou. "Mais um pouco e meu cérebro escorre pelo ouvido."
 
-O desconforto era apenas mais um ruído de fundo. O cheiro era o pior. Uma mistura de ozônio queimado, lixo apodrecendo na umidade e aquele odor metálico e adocicado de sangue velho. Gabo puxou um lenço do bolso e cobriu o nariz e a boca por um segundo, inspirando o cheiro de tabaco impregnado no tecido para mascarar a morte.
+O desconforto era apenas mais um ruído de fundo. O cheiro era o pior. Uma mistura de ozônio queimado, lixo apodrecendo na umidade e aquele odor metálico e adocicado de sangue velho. Gabo puxou um lenço do bolso e cobriu o nariz e a boca por um segundo, inspirando o cheiro forte de cânfora e menta que ele usava para mascarar o fedor da morte.
 
 Ele avançou, desviando de poças que refletiam o céu cinza como espelhos quebrados. Iluminou o chão com sua lanterna, procurando marcas de pneus, bitucas de cigarro, qualquer coisa que a chuva ainda não tivesse levado. A água gelada batia em seu rosto, trazendo uma memória indesejada. A mesma chuva caía na noite em que encontraram Beatriz. Bia... sua parceira, seu amor, sua âncora.
 

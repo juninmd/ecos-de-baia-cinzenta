@@ -7,7 +7,7 @@ image: /belly-of-the-beast.jpg
 
 O Cobalt azul-metálico cortava a neblina como uma lâmina cega. O motor tossia, engasgando com a gasolina de baixa octanagem que Gabo conseguira comprar no mercado negro trocando três caixas de antibióticos.
 
-Ele não fumava, mas seus dedos tamborilavam no volante em um ritmo frenético, um tique nervoso que substituía a nicotina. Ao seu lado, no banco do passageiro, o cubo preto repousava, silencioso e inerte, como uma bomba esperando o detonador.
+Ele não fumava — na verdade, detestava o cheiro, uma herança maldita do pai —, mas seus dedos tamborilavam no volante em um ritmo frenético, um tique nervoso para manter a mente alerta. Ao seu lado, no banco do passageiro, o cubo preto repousava, silencioso e inerte, como uma bomba esperando o detonador.
 
 Gabo parou o carro diante da entrada lacrada da estação "Jardim das Flores". O nome era uma piada cruel de um urbanista morto há décadas; não havia flores ali, apenas concreto, pichações e o cheiro acre de enxofre.
 
