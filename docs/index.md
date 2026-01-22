@@ -17,6 +17,6 @@ features:
     details: Uma metrópole decadente, chuva constante e mistérios que se escondem nas sombras dos neons.
   - title: Suspense Psicológico
     details: Acompanhe Gabriel Moretti em sua descida à loucura enquanto investiga uma conspiração que envolve a elite da cidade.
-  - title: Atualizações Diárias
-    details: Um novo capítulo todos os dias. Acompanhe a história em tempo real.
+  - title: Experimento Criativo de IA
+    details: Diariamente, o agente Jules (IA) abre um Pull Request com um novo capítulo, supervisionado por Antonio Carlos, para medir a criatividade artificial.
 ---

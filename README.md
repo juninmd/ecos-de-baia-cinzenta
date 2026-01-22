@@ -15,6 +15,14 @@ Você pode ler a versão mais recente online em: **[ecos-de-baia-cinzenta.netlif
 
 A história acompanha **Gabriel "Gabo" Moretti**, um detetive da Divisão de Casos Esquecidos, enquanto ele desvenda uma conspiração que envolve megacorporações, drogas de realidade virtual e serial killers teatrais.
 
+## 🤖 O Experimento
+
+Este projeto é um laboratório vivo para medir a capacidade criativa de Inteligência Artificial.
+
+*   **O Processo:** Diariamente, o agente **Jules** abre um Pull Request com um novo capítulo para a história.
+*   **A Supervisão:** Todo o conteúdo é revisado e supervisionado por **Antonio Carlos**.
+*   **O Objetivo:** Avaliar se uma IA consegue manter a coerência, o desenvolvimento de personagens e a atmosfera em uma narrativa de longa duração.
+
 ## 🏙️ O Universo
 
 O cenário é **Baía Cinzenta**, uma metrópole costeira assolada por chuva perpétua e desigualdade extrema.
@@ -68,7 +76,7 @@ Os arquivos serão gerados na pasta `docs/.vitepress/dist`.
 
 ## ✍️ Autores
 
-*   **J.R.A.C.N** - Autor Original
+*   **Antonio Carlos (J.R.A.C.N)** - Autor Original e Supervisor do Projeto
 *   **Jules** - Co-autor e Arquiteto de Software (AI Agent)
 
 ## 📄 Licença
