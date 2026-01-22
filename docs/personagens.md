@@ -67,22 +67,22 @@
 
 ---
 
-## Roberto Miranda - [STATUS: FALECIDO]
+## Roberto Miranda - [STATUS: REANIMADO / CYBORG BIOLÓGICO]
 
 ![Roberto Miranda](/roberto.jpg)
 
-*   **Idade:** 34 anos (ao falecer)
-*   **Altura:** 1,78m
-*   **Porte Físico:** Magro, cibernético.
-*   **Cabelo:** Ralo e oleoso.
-*   **Olhos:** Vermelho industrial.
-*   **Marcas Distintivas:** Braço mecânico. Rosto também encontrado absorvido pela Colmeia no final.
-*   **Vestuário:** Ternos blindados.
-*   **Equipamento:** Pistola de plasma.
-*   **Gostos/Traços:** Sádico.
-*   **Perfil Psicológico:** Traidor e executor.
-*   **Função:** Antagonista.
-*   **Histórico:** Ex-parceiro de Gabo. Congelado por Gabo e posteriormente absorvido pela biomassa do Projeto Gênesis.
+*   **Idade:** Indefinida (Biomassa Reciclada)
+*   **Altura:** 1,85m (aumentada por próteses)
+*   **Porte Físico:** Fusão grotesca de carne humana, tecido sintético translúcido e maquinaria hidráulica.
+*   **Cabelo:** Ausente do lado esquerdo; o lado direito mantém o corte militar oleoso.
+*   **Olhos:** Um olho humano castanho, o outro substituído por um conjunto de sensores óticos vermelhos.
+*   **Marcas Distintivas:** Metade do corpo fundida à "Cadeira de Controle" do Berçário (conectada por tubos ao teto). Voz sintetizada, ecoando através do sistema de som.
+*   **Vestuário:** Nenhum convencional; envolto em cabos e polímeros biológicos.
+*   **Equipamento:** Acesso total aos sistemas de defesa do Berçário; controle sobre os "Protótipos".
+*   **Gostos/Traços:** Sádico, irônico e obcecado por poder. Mantém a memória de sua vida anterior mas sem a moralidade humana.
+*   **Perfil Psicológico:** Psicopata funcional. Vê sua condição atual não como uma maldição, mas como uma evolução forçada.
+*   **Função:** Guardião do Berçário / Executor do Gênesis.
+*   **Histórico:** Ex-parceiro de Gabo e assassino de Bia. Após ser dado como morto na Torre Aeterna, seu corpo (ou o que restou dele) foi recuperado pelos sistemas automatizados do Projeto Gênesis e "reciclado" para servir como interface biológica de segurança.
 
 ---
 

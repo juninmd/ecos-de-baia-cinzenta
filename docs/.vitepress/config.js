@@ -182,6 +182,7 @@ module.exports = {
           { text: 'Capítulo 98: A Cidade Silenciosa', link: '/capitulo-98' },
           { text: 'Capítulo 99: O Despertar da Máquina', link: '/capitulo-99' },
           { text: 'Capítulo 100: O Ventre da Besta', link: '/capitulo-100' },
+          { text: 'Capítulo 101: Ressonância', link: '/capitulo-101' },
         ]
       },
       {
