@@ -103,7 +103,7 @@
 
 ---
 
-## Dra. Elara Vance
+## Dra. Elara Vance - [STATUS: DESAPARECIDA / ATIVA NO SUBMUNDO]
 
 ![Dra. Elara Vance](/elara.jpg)
 
@@ -118,7 +118,7 @@
 *   **Gostos/Traços:** Minimalismo.
 *   **Perfil Psicológico:** Sociopata funcional.
 *   **Função:** Ex-CEO da Aeterna Corp.
-*   **Histórico:** Arquiteta do Projeto Ecos. Desaparecida após a queda da Torre e o surgimento do Projeto Gênesis (possivelmente absorvida ou em fuga).
+*   **Histórico:** Arquiteta do Projeto Ecos. Presumida morta, mas um sinal de SOS detectado recentemente no "Berçário" (subsolo) indica que ela pode estar viva e operando nas sombras contra uma nova ameaça.
 
 ---
 
@@ -323,19 +323,19 @@
 
 ---
 
-## Aria (A Entidade) - [STATUS: INATIVA / SILENCIOSA]
+## Aria (A Entidade) - [STATUS: ONIPRESENTE / SILENCIOSA]
 
 ![A Menina do Orelhão](/menina.jpg)
 
 *   **Idade:** Eterna (enquanto digital).
 *   **Altura:** Variável.
-*   **Porte Físico:** Holográfico.
+*   **Porte Físico:** Holográfico (ausente).
 *   **Cabelo:** Loiro platinado.
 *   **Olhos:** Heterocromáticos.
 *   **Marcas Distintivas:** Código de barras.
 *   **Vestuário:** Vestido branco.
-*   **Equipamento:** Infraestrutura da cidade (anteriormente).
+*   **Equipamento:** Nenhum.
 *   **Gostos/Traços:** Proteção.
 *   **Perfil Psicológico:** Sacrificial.
-*   **Função:** Ex-Deus da Máquina.
-*   **Histórico:** Fundiu-se à "Grande Convergência" para anular o código genético do Projeto Gênesis. Ao fazer isso, deletou a si mesma e a toda a rede avançada da cidade para salvar a humanidade biológica.
+*   **Função:** Guardiã Silenciosa.
+*   **Histórico:** Fundiu-se à "Grande Convergência" para anular o código genético do Projeto Gênesis. Embora sua interface direta tenha desaparecido ("O Silêncio"), sua essência permeia a infraestrutura básica, garantindo que o pesadelo digital não retorne.
