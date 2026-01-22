@@ -35,6 +35,8 @@ A linha ficou muda. Gabo praguejou baixinho.
 
 Gabriel engoliu rapidamente o resto de seu café, sentindo o gosto amargo descer pela garganta misturado com a bile da raiva. Ele não queria entrar lá. Aos trinta anos, sentia-se como se tivesse setenta. Seus joelhos estalavam, e a insônia da semana passada fazia as luzes da cidade deixarem rastros em sua visão periférica.
 
+Seus dedos da mão direita tamborilaram ritmicamente no couro do coldre, um tique nervoso que substituíra o maço de cigarros há três anos. O vício em nicotina se fora, mas a necessidade de movimento constante permanecia.
+
 Para piorar, sua bexiga protestava. Três canecas de café na última hora estavam cobrando o preço, mas não havia onde aliviar-se ali sem contaminar a cena ou ser visto pelos drones de imprensa que zumbiam como mosquitos no perímetro. Ele cerrou os dentes.
 
 E havia o Ruído. Aquele zumbido onipresente de baixa frequência que a cidade emitia 24 horas por dia. Hoje, estava mais forte. Gabo sentiu a pressão atrás dos olhos aumentar, pulsando em compasso com os neons. Ele passou a mão pelo nariz e viu sangue na luva. "Ótimo", pensou. "Mais um pouco e meu cérebro escorre pelo ouvido."
@@ -49,7 +51,9 @@ Ele sacudiu a cabeça, forçando o fantasma de Bia de volta para o fundo de sua 
 
 O corpo estava sentado, encostado em uma parede de zinco. Era um rapaz jovem, vinte e poucos anos, vestindo roupas de segunda mão que provavelmente pertenceram a alguém da cidade alta antes de serem descartadas. Cabelo azul desbotado, tatuagens de circuitos nos braços — um ativista, provavelmente. Alguém que acreditava que podia mudar o mundo gritando em praças públicas.
 
-— Causa da morte? — Gabriel perguntou, agachando-se e calçando luvas de látex sintético. A lama manchou suas botas.
+— Causa da morte? — Gabriel perguntou.
+
+Ele se agachou com um movimento controlado, distribuindo o peso para poupar os joelhos — um reflexo dos anos de treino em Hapkido que a academia de polícia tentara, sem sucesso, substituir por táticas de força bruta. Ele calçou as luvas de látex sintético. A lama manchou suas botas.
 
 — Nenhuma marca visível no corpo, senhor. Sem tiros, sem facadas. Parece... parece que ele apenas desligou.
 

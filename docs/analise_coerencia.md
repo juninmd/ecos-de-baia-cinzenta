@@ -32,8 +32,27 @@ Esta análise resume as alterações e a lógica narrativa aplicada para garanti
     *   Lívia retorna com o "Divórcio" que na verdade é a entrega das provas contra a conspiração/Miranda.
     *   O ataque dos mercenários. Lívia é levada. Gabo é deixado vivo mas quebrado, motivando a fúria que virá a seguir.
 
-## Próximos Passos Sugeridos (Para o Usuário)
+## Próximos Passos Sugeridos (Para o Usuário - Histórico)
 
 *   Explorar a reação de Gabo após o Cap 21: A caçada para resgatar Lívia usando o arsenal pesado ("Mara" e "Vilha") que será finalmente revelado.
 *   Revelar a origem exata da Menina (Projeto Lázaro/Aeterna).
 *   O confronto final com Miranda.
+
+---
+
+## Análise da Parte XIV: O Vazio (Atualização Recente)
+
+A narrativa evoluiu de um Cyberpunk clássico para um cenário de "Analog Noir" ou "Pós-Cyberpunk", onde a tecnologia avançada falhou e a humanidade retornou a métodos manuais.
+
+### Coerência Temática
+*   **O Silêncio:** A ausência de HUDs, redes neurais e comunicação instantânea (Cap 98) cria um contraste nítido com o início da obra. Isso reforça o peso do sacrifício de Aria e Valéria.
+*   **Tecnologia Residual:** O uso de baterias de carro, máquinas de escrever e armas de fogo cinéticas (Cap 98, 99) é consistente com um mundo onde a infraestrutura digital colapsou.
+*   **Ameaça Biológica:** A transição do "Deus da Máquina" para o horror biológico do "Berçário" (Cap 100) mantém a escalada de ameaças, movendo-se do controle mental para a corrupção física.
+
+### Continuidade de Personagens
+*   **Gabo:** A dependência do exoesqueleto passivo e o tique de tamborilar os dedos (em vez de fumar) estão bem estabelecidos e mantidos (Cap 1, 98, 100).
+*   **Elara Vance:** A revelação de que ela está viva e ativa no submundo (Cap 100) adiciona uma nova camada de complexidade, transformando uma antiga vilã/corporate em uma aliada relutante ou fonte de aviso.
+*   **Aria:** Sua onipresença silenciosa como "A Entidade" respeita o final da Parte XIII, onde ela se fundiu à infraestrutura sem assumir uma forma avatar direta.
+
+### Conclusão
+A história mantém uma forte coerência interna, respeitando as consequências dos eventos cataclísmicos das partes anteriores. A mudança de tom é justificada pela narrativa e enriquece o universo.
