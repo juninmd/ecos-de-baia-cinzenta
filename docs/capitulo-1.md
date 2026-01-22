@@ -5,7 +5,7 @@ image: /gabo.webp
 
 A chuva em Baía Cinzenta não lavava nada; ela apenas empurrava a sujeira de um lado para o outro. Era uma sopa química, ácida e oleosa, que corroía o ânimo tanto quanto o metal das estruturas habitacionais.
 
-Gabriel "Gabo" Moretti sentiu a água fria escorrer pelo pescoço, infiltrando-se sob a gola do sobretudo que já cheirava a mofo, tabaco velho e café requentado. Ele estava parado na entrada da Vila da Ferrugem, onde o asfalto da cidade alta cedia lugar a passarelas de metal corroído e lama tóxica. O brilho dos neons publicitários — *COMPRE FELICIDADE, COMPRE AETERNA* — refletia nas poças como óleo derramado, distorcendo as cores em um arco-íris doentio.
+Gabriel "Gabo" Moretti sentiu a água fria escorrer pelo pescoço, infiltrando-se sob a gola do sobretudo que já cheirava a mofo, óleo e café requentado. Ele estava parado na entrada da Vila da Ferrugem, onde o asfalto da cidade alta cedia lugar a passarelas de metal corroído e lama tóxica. O brilho dos neons publicitários — *COMPRE FELICIDADE, COMPRE AETERNA* — refletia nas poças como óleo derramado, distorcendo as cores em um arco-íris doentio.
 
 — Você demorou, inspetor — disse o oficial de patrulha, um garoto novo chamado Silva, que tremia, não de frio, mas do que tinha visto. Ele deu um passo para trás, escorregando na lama, e sua bota quase tocou a mão da vítima.
 
