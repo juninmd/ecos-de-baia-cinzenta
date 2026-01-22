@@ -7,120 +7,98 @@ A fita de isolamento da polícia, um amarelo berrante e artificial, era a única
 
 Gabriel Moretti passou por baixo da fita, o sobretudo de couro sintético pesado de água. O cheiro era o primeiro a bater: ozônio, lixo queimado e aquele adocicado inconfundível de cobre e vísceras expostas.
 
-Ele notou dois agentes da Corregedoria em ternos cinza impecáveis — secos, apesar da chuva — observando do canto, tomando notas em tablets. Abutres.
+Ele notou dois homens em ternos cinza impecáveis — secos, apesar da chuva, protegidos por um campo eletrostático portátil de alta classe — observando do canto, tomando notas em tablets holográficos. Abutres da Corregedoria.
 
-— Está atrasado, "Herói". O show já começou — disse o Capitão Vilar, interceptando-o antes que os agentes o fizessem. — E temos plateia. O Dantas mandou os cães de guarda dele para garantir que você siga o protocolo. Nada de "intuição" hoje, Gabriel. Quero Luvas, propés e cadeia de custódia assinada.
+— Está atrasado, "Herói". O show já começou — disse o Capitão Vilar, interceptando-o antes que os agentes o fizessem. — E temos plateia. O Dantas mandou os cães de guarda dele para garantir que você siga o protocolo. Eles estão cronometrando quanto tempo você leva para processar a cena. Nada de "intuição" hoje, Gabriel. Quero luvas, propés e cadeia de custódia assinada em triplicata.
 
-Gabo ignorou o comentário sobre a plateia, embora seu pescoço tenha ficado tenso. Ele puxou um frasco de colírio barato do bolso e pingou duas gotas em cada olho. O ardor no globo ocular foi instantâneo, uma dor aguda que limpou sua mente por um segundo.
+Gabo ignorou o comentário, embora seu pescoço tenha ficado tenso. Ele puxou um frasco de colírio barato do bolso e pingou duas gotas em cada olho. O ardor no globo ocular foi instantâneo, uma dor aguda que limpou sua mente por um segundo.
 
-— O trânsito no Distrito da Névoa estava um inferno, Jonas. O que temos?
+— Eu estava seguindo uma pista sobre o selante biológico. Um nome: Kiko Vibe.
 
-— Arte. Pura e doente arte. Mas cuidado. Se você espirrar errado, eles vão usar isso para tirar seu distintivo. O promotor já ligou três vezes. Ele quer "eficiência cirúrgica", o que significa que se não resolvermos isso em 48 horas, ele vai arquivar como "acidente industrial" para não assustar os investidores da Aeterna.
+— Esqueça o Kiko por agora. O Promotor já ligou três vezes. Ele quer "eficiência cirúrgica", o que significa que se não resolvermos isso em 48 horas, ele vai arquivar como "acidente industrial" para não assustar os investidores da Aeterna.
 
-Eles entraram, vestindo os trajes de proteção completos que chiavam com o movimento. Gabo odiava aquilo; isolava os sentidos, abafava o som, o cheiro. Investigação era contato, era sentir o ar. Mas com a Corregedoria fungando no cangote, ele vestiu o maldito macacão.
+Eles entraram no galpão, vestindo os trajes de proteção completos que chiavam com o movimento. Gabo odiava aquilo; isolava os sentidos, abafava o som, o cheiro. Investigação era contato, era sentir a granulação da poeira. Mas com a Corregedoria fungando no cangote, ele vestiu o maldito macacão.
 
-O galpão era vasto, uma catedral de indústria morta. Fotógrafos forenses circulavam o corpo, flashes estourando como relâmpagos artificiais, documentando cada ângulo antes que alguém tocasse em qualquer coisa.
+O galpão era vasto, uma catedral de indústria morta. Fotógrafos forenses circulavam o corpo, flashes estourando como relâmpagos artificiais.
 
 No centro, sob a luz crua e impiedosa dos refletores, estava a vítima.
 
 Não era apenas um corpo. Era uma instalação.
 
-Um rapaz, talvez dezenove anos, suspenso por fios de monofilamento invisíveis, flutuando a meio metro do chão. Seus braços estavam abertos, mas não como um cristo; como uma marionete esperando o comando.
+Um rapaz, talvez dezenove anos, suspenso por fios de monofilamento invisíveis, flutuando a meio metro do chão. O peito havia sido aberto. As costelas, separadas cirurgicamente e mantidas abertas por afastadores de prata polida. Dentro, não havia coração, pulmões ou estômago. Havia o vazio, preenchido meticulosamente com engrenagens de relógios antigos, molas de latão e tubos de vácuo que brilhavam com uma luz âmbar fraca.
 
-O peito havia sido aberto. As costelas, separadas cirurgicamente e mantidas abertas por afastadores de prata polida. Dentro, não havia coração, pulmões ou estômago. Havia o vazio, preenchido meticulosamente com engrenagens de relógios antigos, molas de latão e tubos de vácuo que brilhavam com uma luz âmbar fraca.
+— "A Evolução é o nosso Negócio" — citou Gabriel, a voz pingando ácido. Era o slogan da Aeterna Corp. — Esse desgraçado não está apenas matando, Jonas. Ele está fazendo uma sátira.
 
-— O Taxidermista — sussurrou Gabriel, sentindo o estômago revirar. Não pelo sangue, mas pela precisão. Não havia frenesi ali. Havia paciência.
+— Tem mais — disse Vilar. — Olhe o rosto.
 
-— Olhe o detalhe — disse Vilar, apontando para a incisão. — Ele substituiu órgãos falhos por mecanismos eternos.
+Gabriel se aproximou, desviando das poças de sangue coagulado.
 
-— "A Evolução é o nosso Negócio" — citou Gabriel, a voz pingando ácido. Era o slogan da Aeterna Corp, pintado em cada maldito dirigível da cidade. — Esse desgraçado não está apenas matando, Jonas. Ele está fazendo uma sátira. Ou pior... uma proposta de emprego.
+As pálpebras haviam sido removidas. No lugar dos olhos, lentes de câmeras analógicas, objetivas Leica antigas, haviam sido enxertadas nas órbitas.
 
-— Tem mais — disse Vilar, apontando para o rosto da vítima.
+— Elas estão ativas? — perguntou Gabo.
 
-Gabriel se aproximou, desviando das poças de sangue coagulado. Ele olhou para o rosto do garoto e prendeu a respiração.
+Maya "Glitch" Sato, a perita técnica, estava deitada no chão sujo de óleo, xingando baixinho enquanto tentava conectar um cabo de fibra ótica na base do crânio da vítima.
 
-As pálpebras haviam sido removidas. No lugar dos olhos, lentes de câmeras analógicas, objetivas Leica antigas, haviam sido enxertadas nas órbitas. O vidro escuro das lentes refletia o rosto de Gabriel distorcido.
+— O sinal wireless está morto — disse ela, limpando a graxa da testa com as costas da mão. — A tempestade iônica lá fora fritou o transmissor remoto. Estou tendo que fazer um *bypass* físico. Me dêem luz aqui!
 
-*Zzzzt. Click.*
+Gabo segurou a lanterna enquanto Maya desencapava um fio com os dentes. Faíscas voaram.
 
-O som foi mecânico, vindo de dentro do crânio do rapaz. As lentes giraram, focando.
+— Consegui! — gritou ela. A tela do terminal portátil dela piscou, mostrando estática e depois uma imagem granulada em preto e branco.
 
-— Elas estão ativas — disse a perita técnica, uma mulher baixa chamada Maya "Glitch" Sato, que estava sentada no chão, cercada por cabos físicos conectados a um terminal portátil pesado. Nada de hologramas flutuantes aqui; apenas código rolando em telas de fósforo verde e o cheiro de processadores superaquecidos. — Não apenas ativas. Estão transmitindo.
+— O que ele está vendo? — perguntou Vilar.
 
-— Para onde? — perguntou Gabriel, agachando-se ao lado dela. Ele notou a sujeira nas unhas dela; Maya tinha passado as últimas duas horas rastreando cabos físicos enterrados no concreto para encontrar o link.
+— Nós — respondeu Gabo, vendo seu próprio rosto distorcido na tela. — É um circuito fechado.
 
-— Não consigo rastrear o sinal wireless, é muito volátil. Mas... — Ela apontou para um conduíte enferrujado na parede. — Eu segui a interferência estática com o medidor de campo. Há um repetidor físico instalado naquele quadro de força secundário. Quem fez isso teve que vir aqui, abrir a caixa com uma chave mestra e plugar o hardware manualmente.
+— Não, espera... — Maya digitou furiosamente. — Tem um sinal de saída. Está indo para um cabo subterrâneo. Analógico. Nada de satélite.
 
-— Manualmente? — Gabo sorriu, um sorriso de predador. — Ótimo. Hardware deixa impressões digitais. Deixa rastros de DNA. Esqueça o ciberespaço, Maya. Vamos desmontar aquela caixa de força e ver quem tocou nela.
+Gabo olhou para os conduítes na parede. — Temos que seguir o fio. Fisicamente.
 
-— Vou chamar a equipe de datiloscopia — disse Maya, aliviada por ter algo tangível.
+Ele e Vilar caminharam até a parede do fundo. Gabo usou um pé-de-cabra que estava no chão para arrancar uma placa de metal enferrujada. Atrás dela, um ninho de ratos e cabos. Um fio vermelho novo se destacava na sujeira.
 
-Gabriel se inclinou mais perto, encarando as lentes no rosto do morto.
+— Ele plugou na rede telefônica antiga da cidade — disse Gabo. — Inteligente. Ninguém monitora essas linhas há vinte anos.
 
-— O que ele está vendo? O que *eles* estão vendo?
+Maya gritou lá de trás: — Consegui triangular o nó de recepção! É um endereço físico. Lote 49-B.
 
-— A nós, Gabo — respondeu Maya, sem tirar os olhos da tela. — Estão transmitindo o "Aftershow". A reação da polícia. A sua reação.
+— Onde é isso?
 
-Gabriel sentiu a raiva fria subir pelo pescoço. Ele olhou para a cavidade torácica novamente. Entre as engrenagens, algo destoava. Um pedaço de papel, preso por um alfinete de gravata, bem no lugar onde deveria estar o coração.
+— Zona Portuária. Armazéns da Aeterna — disse Vilar, consultando o tablet.
 
-Com uma pinça oferecida por um assistente, Gabriel puxou o papel. Era uma fotografia antiga, impressa em papel de verdade, com bordas brancas. A umidade não a tocara.
+Gabo voltou para o corpo. Algo brilhava dentro da caixa torácica, entre as engrenagens.
 
-A foto mostrava dois homens em frente a uma delegacia. Um era alto, com o uniforme de comissário impecável. O outro era uma criança, segurando um sorvete derretendo.
+— O que é aquilo? — Ele apontou.
 
-Dante Moretti. E Gabriel, aos sete anos.
+— Parece papel — disse Maya.
 
-Mas havia algo errado. Gabriel puxou uma lupa de bolso e examinou a imagem sob a luz forense.
+Gabo estendeu a mão enluvada, enfiando-a na cavidade torácica do rapaz. Ele sentiu o frio do metal e a viscosidade do selante. Seus dedos pinçaram o objeto.
 
-— O que foi? — perguntou Vilar, aproximando-se.
+Uma fotografia. Presa por um alfinete de gravata bem onde deveria estar o coração.
 
-— O relógio do meu pai — murmurou Gabriel. — Na foto... ele está marcando 14:45.
+Ele a trouxe para a luz. Era uma foto antiga. Dois homens em frente a uma delegacia. Dante Moretti, seu pai. E ele mesmo, Gabriel, criança.
 
-— E daí?
+Gabo sentiu o chão sumir sob seus pés. Ele puxou a lupa de bolso, ignorando o protocolo que exigia ensacar a prova primeiro.
 
-— Essa foto foi tirada no dia da inauguração da nova sede. A cerimônia foi de manhã. Às 14:45, meu pai estava em uma cirurgia de emergência depois de levar um tiro no ombro durante uma batida.
+— O relógio... — murmurou. — 14:45. Meu pai levou um tiro naquela manhã. Ele deveria estar no hospital a essa hora.
 
-Vilar ficou em silêncio.
+— É falsa? — perguntou Vilar.
 
-— É uma montagem? — sugeriu Maya.
-
-— Não — Gabriel passou o dedo sobre a textura da foto. — É real. O que significa que a memória que eu tenho... ou a realidade que nos contaram... está errada.
-
-Ele virou a foto. No verso, escrito com uma caligrafia elegante e antiquada em tinta tinteiro:
+— Não. O papel é real. A emulsão é real. — Gabo olhou para o verso.
 
 *"A verdade é um quebra-cabeça onde as peças não se encaixam, Detetive. Pergunte ao traidor onde ele enterrou a chave."*
 
-— O traidor — Vilar bufou. — Miranda?
+— O traidor — Vilar bufou. — Miranda? Aquele rato ainda está vivo?
 
-— Ele ainda está vivo? — Gabriel guardou a foto em um saco de evidências.
+— Ele conhece os túneis de drenagem da época da construção — disse Gabo, a voz fria. — Se alguém sabe como usar as linhas telefônicas antigas para transmitir um show de horror, é ele.
 
-— Ele conhece os túneis de drenagem da época da construção. Ninguém mapeou aquilo. É o único lugar que os sensores da Aeterna não alcançam. A Inteligência diz que ele está tentando vender informações para o Sindicato.
+Gabriel guardou a foto no saco de evidências, mas sua mente já estava longe dali.
 
-Gabriel olhou para as lentes nos olhos do cadáver uma última vez. Ele se aproximou, até que seu rosto preenchesse todo o campo de visão da transmissão.
+— Onde você vai? — gritou Vilar quando Gabo começou a tirar o macacão de proteção com violência, rasgando o zíper.
 
-— Se você está me ouvindo — disse ele para a câmera, para o assassino, para o abismo — eu não vou apenas te prender. Eu vou te caçar. Vou entrevistar cada vizinho, revirar cada lata de lixo, e quando eu te encontrar, você vai desejar ter ficado no escuro.
+— Vou fazer uma visita.
 
-*Click.* O obturador disparou uma última vez, como se concordasse.
+— Moretti! Você não tem mandado! Os agentes da Corregedoria vão te suspender antes de você chegar ao carro!
 
-— Maya, o que a caixa de força nos diz? — gritou Gabo.
+Gabriel parou na porta do galpão. A chuva batia em seu rosto, lavando o suor frio. Ele olhou para os agentes de terno cinza, que agora falavam em seus comunicadores, olhando para ele.
 
-Maya estava com as mãos sujas de graxa, segurando um módulo transmissor queimado que ela arrancara da parede.
+— Deixe que tentem — disse Gabo, tocando a coronha da arma sob o casaco. — A burocracia pode esperar, Jonas. A morte não.
 
-— Número de série raspado, mas deixaram a etiqueta de inventário interna. — Ela usou uma lupa. — Lote 49-B. Distribuído para a manutenção dos antigos armazéns do porto.
-
-Gabriel semicerrou os olhos. — Armazéns do porto. Área abandonada, sem câmeras oficiais. O lugar perfeito para um estúdio de arte macabra.
-
-— Aeterna Corp é a dona do terreno — completou Vilar, lendo o relatório no tablet. — Compraram mês passado através de uma subsidiária fantasma.
-
-— Aeterna — Gabriel soltou uma risada seca. — Claro. Por que seria fácil? Mas agora temos um endereço físico, tijolo e argamassa.
-
-Ele se virou para sair, tirando as luvas com violência.
-
-— Onde você vai? — gritou Vilar.
-
-— Vou fazer uma visita à família. Parece que meu irmão e seus novos amigos têm um gosto peculiar por arte moderna.
-
-— Moretti! Você não tem mandado! Isso é suicídio político!
-
-Gabriel parou na porta do galpão, a silhueta recortada contra a chuva torrencial.
-
-— A política morreu com o meu pai, Jonas. Agora só sobrou a limpeza.
+Ele saiu para a tempestade, deixando para trás o teatro de carne e as câmeras que continuavam a observar, eternamente vigilantes.

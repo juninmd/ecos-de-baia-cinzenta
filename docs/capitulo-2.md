@@ -5,140 +5,102 @@ image: /gabo-compra-cafe.jpeg
 
 A chuva, que antes era uma presença constante e melancólica, transformou-se em uma besta furiosa. O céu de Baía Cinzenta parecia ter desabado, despejando torrentes de água ácida que faziam as calhas dos prédios vomitarem lodo preto sobre as calçadas.
 
-Gabriel dirigia seu velho *Cobalt* pelas ruas da Zona Baixa, o limpador de para-brisa lutando uma batalha perdida contra o dilúvio. O motor a hidrogênio engasgava, protestando contra a umidade excessiva. O rádio do carro cuspia estática misturada com alertas automáticos de enchentes nos níveis inferiores.
+Gabriel dirigia seu velho *Cobalt* pelas ruas da Zona Baixa, o limpador de para-brisa lutando uma batalha perdida contra o dilúvio. O motor a hidrogênio engasgava, protestando contra a umidade excessiva. O painel analógico do carro, uma modificação pessoal para evitar rastreamento remoto, brilhava com uma luz laranja fraca.
 
-De repente, a frequência mudou. A estática foi cortada por uma voz anasalada e irritante que Gabo conhecia bem demais.
+O rádio de comunicação da polícia, pendurado no painel, chiou.
 
 — *Moretti? Está na escuta?*
 
-Gabo revirou os olhos antes de apertar o botão do comunicador. — O que você quer, Rangel? Estou ocupado.
+Gabo revirou os olhos antes de pegar o microfone com fio. — O que você quer, Rangel? Estou no meio de uma diligência.
 
-— *Sempre ocupado salvando o mundo, não é?* — A voz do Inspetor Rangel gotejava sarcasmo. — *O Diretor da Corregedoria, Dantas, acabou de sair da minha sala. Ele tem um dossiê grosso sobre suas "liberdades procedimentais", Moretti. Eles estão curiosos sobre por que você acionou a perícia de nível 5 e a equipe de biossegurança para um Zé Ninguém na Vila da Ferrugem.*
+— *Diligência? O Diretor Dantas chama de "desperdício de recursos". Ele acabou de sair da minha sala. Ele tem um dossiê grosso sobre suas "liberdades procedimentais", Moretti. E adivinhe? A Corregedoria está curiosa sobre o uso daquele reagente nível 5.*
 
-— Não era um Zé Ninguém, Rangel. E o caso é meu.
+— Era necessário.
 
-— *Para a Aeterna, se não paga impostos, é lixo. O orçamento do trimestre estourou, Gabriel. Se aquele corpo não for de um filho de acionista, vai sair do seu salário. A Corregedoria já está revirando seus arquivos antigos, Moretti. O caso do Porto? Eles reabriram. Estão procurando qualquer desculpa, um deslize, uma evidência contaminada, para tirar seu distintivo e sua pensão.*
+— *Para um Zé Ninguém na Vila da Ferrugem? O orçamento do trimestre estourou, Gabriel. Se aquele corpo não for de um filho de acionista, vai sair do seu salário. Eu já preenchi o Formulário 88-C recomendando sua suspensão preventiva. Só falta assinar. Se eu achar uma vírgula fora do lugar no seu relatório, ou se você quebrar o nariz de algum suspeito sem a papelada adequada de "resistência à prisão", você cai.*
 
-Rangel fez uma pausa dramática.
+— Guarde sua tinta, Rangel. — Gabo desligou o rádio com força.
 
-— *Eu já preenchi o Formulário 88-C recomendando sua suspensão preventiva. Só falta assinar. Cuidado onde pisa, "herói". Se eu achar uma vírgula fora do lugar no seu relatório, ou se você quebrar o nariz de algum suspeito sem a papelada adequada, você cai. Desligando.*
+— Bastardo — murmurou, sentindo o estômago apertar. A ameaça era real. A Aeterna Corp queria a polícia automatizada, eficiente e barata. Detetives como ele eram dinossauros caros.
 
-— Bastardo — murmurou Gabo, sentindo o estômago apertar. Não era apenas rivalidade; era uma caçada institucional.
+Logo na entrada da Via Costeira, os faróis do Cobalt iluminaram uma cena que fez seu sangue ferver. Um ônibus de transporte público enguiçado, cercado por três figuras encapuzadas que arrancavam os painéis solares do teto com barras de ferro. O motorista estava encolhido dentro da cabine, aterrorizado.
 
-— *Atenção, todas as unidades. Deslizamento no Setor 7. Trânsito desviado para a Via Costeira.*
+Gabo não hesitou. O instinto falou mais alto que o cansaço ou a burocracia. Ele freou bruscamente, o carro derrapando na lama.
 
-— Droga — praguejou Gabriel, socando o volante, ignorando a raiva residual da conversa com seu rival.
+— Polícia! Mãos na cabeça! — ele gritou, saindo do carro já com a Glock em punho.
 
-A Via Costeira era um suicídio logístico. Estreita, mal iluminada e frequentada por gangues que roubavam peças de carros em movimento. Mas ele não tinha escolha.
+Dois dos vândalos correram imediatamente para o esgoto, desaparecendo na escuridão. O terceiro, maior e mais lento, hesitou. Ele segurava uma barra de ferro e olhou para Gabo, avaliando o detetive cansado e manco.
 
-Logo na entrada da via, os faróis do Cobalt iluminaram uma cena comum: três figuras encapuzadas arrancando os painéis solares de um ônibus de transporte público enguiçado. O motorista estava encolhido dentro da cabine, aterrorizado.
+— Vai embora, tio — rosnou o bandido, avançando.
 
-Gabo não hesitou. O instinto falou mais alto que o cansaço. Ele freou bruscamente, a porta do carro já se abrindo antes da parada total.
+Gabo suspirou. — Tinha que ser do jeito difícil.
 
-— Polícia! Mãos na cabeça! — ele gritou, sacando a Glock. Sua voz não tinha a hesitação do oficial novato. Era a voz de quem já tinha atirado e acertado.
+O homem balançou a barra de ferro visando a cabeça de Gabo. Gabriel, ignorando a dor aguda em seus joelhos mecânicos, esquivou-se para a esquerda. Ele usou o movimento do agressor contra ele, aplicando uma chave de pulso do Hapkido que fez o osso estalar. O bandido gritou e soltou a barra.
 
-Dois dos vândalos correram para o esgoto. O terceiro, mais lento, tentou puxar uma faca. Gabo avançou, ignorando a lama. Um chute preciso no joelho fez o homem dobrar. Um golpe com a coronha da pistola na nuca o fez beijar o asfalto.
+Gabo chutou a perna de apoio do homem, jogando-o de cara na lama. Em segundos, ele estava com o joelho nas costas do suspeito, algemando-o com presilhas de plástico.
 
-— Você tem o direito de ficar calado — Gabo rosnou, apertando as algemas de plástico até o homem chiar de dor. Ele o prendeu à grade de proteção da encosta. — Não que alguém vá ouvir.
+— Você tem o direito de ficar calado — Gabo ofegou, limpando a lama do rosto. — Mas eu sugiro que comece a falar.
 
-Gabo agarrou o rosto do homem, forçando-o a olhar para ele.
+Ele puxou o homem pelos cabelos, forçando-o a olhar para ele.
 
-— Antes de eu chamar a viatura... ouvi boatos na rua. Pessoas desaparecendo. Olhos sendo roubados. Sabe de alguma coisa?
+— Onde você consegue peças médicas? Selante biológico? Quem está vendendo isso na Zona Baixa?
 
-O bandido cuspiu sangue e riu. — Eu roubo cobre, seu porco. Não olhos. Mas o "Cirurgião"... dizem que ele paga bem por peças frescas. Pergunte no *Velvet*, se tiver coragem.
+— Eu não sei de nada! Eu só roubo cobre! — O homem cuspiu sangue.
 
-Gabo soltou o homem com nojo. Era uma pista. Tênue, suja, mas uma pista.
+Gabo pressionou o cano da arma (fria, desligada, mas o bandido não sabia) na nuca do homem.
+
+— O "Cirurgião". Ouvi boatos. Olhos sendo roubados. Quem é o fornecedor?
+
+O bandido tremeu. — Não é gente nossa! É o Kiko! Kiko Vibe! Ele diz que tem um contato novo no necrotério da Aeterna. Ele fica no *Velvet*, na Rua 9. É tudo o que eu sei, juro!
+
+Gabo soltou o homem com nojo. Era uma pista. Kiko Vibe. Um informante barato e chantagista.
 
 Ele bateu no vidro do ônibus. — Você está bem?
 
-O motorista assentiu, trêmulo.
+O motorista assentiu, pálido.
 
-— Chamei uma unidade de transporte. Eles vêm buscar esse lixo — Gabo apontou para o bandido algemado. — Mas não espere sentado.
+— Chamei uma unidade de transporte para levar esse lixo — Gabo apontou para o bandido algemado à grade de proteção. — Se ele tentar fugir, atropele-o.
 
-Ele voltou para o carro, anotando mentalmente: *Investigar o Velvet*. A adrenalina diminuía, dando lugar à exaustão de novo. Era como tentar esvaziar o oceano com uma colher. Prendia um, nasciam três. Mas era o trabalho.
+Ele voltou para o carro, encharcado, com as articulações gritando. Anotou no bloco: *Investigar Kiko Vibe / Velvet*.
 
-A foto do menino — a foto *dele* — queimava em seu bolso como se fosse feita de brasas. Ele precisava de respostas. Respostas que não viriam de bancos de dados corrompidos, mas de pressionar as pessoas certas até elas quebrarem.
+Ele continuou dirigindo, a fome começando a corroer seu estômago. O trânsito parou em uma rua lateral. Gabo encostou o carro perto de uma loja de conveniência blindada para comprar algo que enganasse o estômago.
 
-Ele girou o volante, os pneus cantando no asfalto molhado enquanto o carro derrapava levemente antes de recuperar a tração.
+Enquanto mastigava uma barra de proteína com gosto de serragem, ele viu algo pelo retrovisor.
 
-A visibilidade era nula. Os neons da cidade se transformaram em borrões de luz difusa, fantasmas coloridos dançando na neblina. O trajeto que levaria vinte minutos agora se arrastava por quase uma hora. Cada semáforo parecia durar uma eternidade, cada cruzamento era uma armadilha potencial de água parada.
+No canto da rua, sob a chuva torrencial, havia um orelhão de telefone antigo. A cúpula estava rachada. Mas não estava vazio.
 
-Foi quando o trânsito parou completamente em uma rua lateral, bloqueado por um caminhão de lixo tombado. Gabriel desligou o motor para economizar célula de combustível.
+Uma figura pequena estava lá dentro.
 
-Seu estômago rugiu, um som áspero que o lembrou de que não comia "comida de verdade" há quase vinte e quatro horas. Ele tateou o banco do passageiro, empurrando papéis e cartuchos vazios... e parou.
+Gabo semicerrou os olhos. Crianças de rua eram comuns, mas elas se escondiam em bueiros ou abrigos, não ficavam expostas assim. Ele desceu do carro novamente, a mão próxima ao coldre.
 
-Seus dedos tocaram algo frio e cilíndrico. Ele puxou.
+— Ei! — ele gritou, competindo com o trovão. — Garota! O que está fazendo aí?
 
-Uma ampola de vidro azulado. Lázaro. Confiscada de um garoto na semana passada e "esquecida" ali. Gabo levantou o frasco contra a luz difusa da cidade. O líquido dentro girava, hipnótico. Dizia-se que uma dose levava você para onde você mais queria estar. Para ele, isso significava um churrasco de domingo, quinze anos atrás. Seu pai rindo, a mãe viva.
+A menina não respondeu. Ela parecia estar em transe, segurando uma boneca quebrada.
 
-Ele tremeu. Seria tão fácil. Apenas um clique, uma injeção no globo ocular, e a chuva e a dor desapareceriam. Ele voltaria para casa.
+Quando Gabo se aproximou, ela tentou correr. Foi um movimento rápido, animalesco. Ela saltou para fora do orelhão e tentou se esgueirar por um buraco na grade.
 
-Gabo grunhiu, guardando a ampola no porta-luvas com violência, antes que a vontade vencesse a razão. "Não hoje, diabo. Não hoje."
+— Espere! — Gabo avançou, agarrando o braço dela antes que ela pudesse desaparecer no beco escuro.
 
-Ele continuou tateando até encontrar uma barra de proteína sintética pela metade. A embalagem estava rasgada. Ele mordeu a massa dura e sem sabor de chocolate artificial. Era como mastigar argamassa, mas enganaria a fome por mais algumas horas. Ele engoliu a seco, sentindo o bolo descer arranhando.
+A menina se debateu, arranhando a mão dele com unhas sujas, mas ele a segurou firme.
 
-Ele olhou pela janela, esfregando os olhos cansados.
+— Me solta! — ela sibilou, e sua voz não parecia de uma criança. Era rouca, metálica.
 
-No canto da rua, ilhada por uma poça que mais parecia um lago, havia uma relíquia do século passado: um orelhão de telefone. A cúpula de acrílico estava rachada e coberta de pichações de gangues rivais e adesivos de serviços de acompanhantes sintéticas.
+— Calma. Sou da polícia. Não vou te machucar. — Gabo se agachou, ficando na altura dela, ignorando a água que entrava em suas botas. — O que você está fazendo aqui fora nessa tempestade? Onde estão seus pais?
 
-Gabo olhou ao redor. A rua parecia deserta, mas ele sabia melhor. Ele caminhou até uma pequena loja de conveniência blindada, cujas luzes ainda piscavam fracamente. Bateu no vidro reforçado com a coronha da arma.
+Ela parou de lutar. Seus olhos encontraram os dele. Eram escuros, profundos, poços de piche sem fim.
 
-— Abre! Polícia!
+— Ele disse que a chuva traria você — disse ela.
 
-Uma janelinha de metal deslizou. Um par de olhos assustados apareceu.
+Gabo congelou. — Quem disse?
 
-— Já paguei a taxa de proteção essa semana — disse o dono, um homem idoso com sotaque do leste europeu.
+A menina apontou para o orelhão mudo, com o fio cortado pendurado.
 
-— Não sou cobrador da milícia. Sou da Homicídios. — Gabo mostrou o distintivo. — Viu alguma coisa estranha nas últimas horas? Carros pretos? Drones não registrados?
+— O telefone. Ele tocou. E disse que o homem triste viria me buscar.
 
-O homem hesitou, olhando para os lados. — Não vi carros. Mas vi a menina.
+Um calafrio percorreu a espinha de Gabo. O telefone estava quebrado há anos.
 
-— Que menina?
+— Vamos. — Ele a levantou, sentindo como ela era leve, quase etérea. — Você vem comigo. A delegacia é mais segura que essa esquina.
 
-— Aquela. — O homem apontou um dedo trêmulo para o orelhão. — Ela está lá há horas. Parada. Como uma estátua. Eu tentei chamar, mas ela não responde. É má sorte, inspetor. Coisa do diabo. Eu tranquei a porta.
+Ele a colocou no banco de trás do Cobalt. Ela abraçou a boneca e olhou para a janela, impassível, enquanto Gabo voltava para o volante, as mãos tremendo levemente.
 
-Gabo franziu a testa e se virou.
-
-Mas não foi o telefone que fez o coração de Gabriel falhar uma batida.
-
-Em cima da cúpula do orelhão, equilibrando-se precariamente, havia uma criança.
-
-Era uma menina, não devia ter mais de seis anos. Seu vestido, outrora branco, estava grudado ao corpo esquálido, cinza pela fuligem da chuva. O cabelo molhado escorria pelo rosto como algas escuras.
-
-Ela não chorava. Ela não gritava por ajuda. Ela apenas estava lá, imóvel como uma gárgula, olhando para o nada.
-
-Em seus braços, apertada contra o peito com uma força desesperada, estava uma boneca. Faltava-lhe um braço e um dos olhos de botão pendia por um fio, mas a menina a segurava como se fosse a coisa mais preciosa do mundo.
-
-Gabriel abriu a porta do carro, ignorando a água gelada que imediatamente encharcou suas botas até o tornozelo.
-
-— Ei! — ele gritou, sua voz competindo com o trovão que estremeceu as janelas dos prédios ao redor. — Garota!
-
-Ela não se moveu.
-
-Ele avançou, a água pesada dificultando cada passo. O instinto policial gritava que aquilo estava errado. Crianças não ficavam sozinhas na Zona Baixa, não naquela hora, não naquela tempestade. Ou elas estavam em casa, ou... ou já não estavam mais em lugar nenhum.
-
-— Saia daí! É perigoso! — Gabriel tentou novamente, aproximando-se do orelhão.
-
-A menina finalmente virou a cabeça. Seus olhos encontraram os dele. Eram escuros, profundos, e carregavam uma serenidade aterrorizante que não pertencia a uma criança.
-
-— Venha — disse Gabriel, estendendo a mão, surpreendendo-se com a própria gentileza.
-
-Para seu espanto, a menina obedeceu. Ela desceu do orelhão com uma agilidade silenciosa e segurou a mão dele. Seus dedos eram gelo puro.
-
-— Ele disse que a chuva traria você — a voz dela era fina, mas cortou o barulho da tempestade.
-
-Gabriel sentiu um arrepio, mas não havia tempo para perguntas metafísicas. A chuva estava piorando.
-
-— Vamos para o carro. Vou te levar para um lugar seguro.
-
-Ele a colocou no banco de trás do Cobalt, ligando o aquecedor no máximo. A menina abraçou a boneca e olhou para a janela, impassível.
-
-Gabriel dirigiu direto para o Distrito Policial. Não havia orfanatos abertos àquela hora, e os abrigos de emergência eram perigosos demais. A delegacia era o único lugar neutro.
-
-Ao chegar, ele a entregou aos cuidados da Oficial Marta, na recepção.
-
-— Cuide dela, Marta. Achei ela na Zona Baixa. Vou fazer o relatório depois.
-
-Gabriel olhou para a menina uma última vez antes de subir para o laboratório. Ela estava sentada na cadeira de plástico duro, balançando as pernas, observando-o com aqueles olhos antigos.
-
-Ele não sabia quem ela era, ou o que significava "ele disse que a chuva traria você", mas sabia que aquele não era o fim. Era apenas o começo de um novo problema.
+Kiko Vibe. O Cirurgião. O telefone quebrado. As peças estavam na mesa, mas a imagem que formavam era de um pesadelo.

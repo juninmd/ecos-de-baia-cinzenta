@@ -213,20 +213,20 @@
 
 ---
 
-## Kiko Vibe (Falecido)
+## Kiko Vibe - [STATUS: ATIVO / PROCURADO]
 
 *   **Idade:** 20 anos
 *   **Altura:** 1,78m
-*   **Porte Físico:** Magro.
-*   **Cabelo:** Verde-limão.
-*   **Olhos:** Lentes emoji.
-*   **Marcas Distintivas:** Tatuagens QR.
-*   **Vestuário:** Roupas LED.
-*   **Equipamento:** Estúdio.
-*   **Gostos/Traços:** Fama.
-*   **Perfil Psicológico:** Superficial.
-*   **Função:** Vítima.
-*   **Histórico:** Morto por overdose.
+*   **Porte Físico:** Magro, "elétrico".
+*   **Cabelo:** Verde-limão neon.
+*   **Olhos:** Lentes de contato com emojis animados.
+*   **Marcas Distintivas:** Tatuagens QR Code no pescoço.
+*   **Vestuário:** Roupas com painéis de LED.
+*   **Equipamento:** Estúdio de gravação móvel, drones de paparazzi.
+*   **Gostos/Traços:** Fama, fofoca e dinheiro fácil.
+*   **Perfil Psicológico:** Chantagista profissional. Um parasita digital que sabe tudo sobre todos.
+*   **Função:** Informante do Submundo / Negociante de segredos.
+*   **Histórico:** Dono do clube "Velvet" e principal fonte de rumores na Zona Baixa. Suspeito de negociar vídeos ilícitos e implantes roubados.
 
 ---
 
@@ -339,3 +339,37 @@
 *   **Perfil Psicológico:** Sacrificial.
 *   **Função:** Guardiã Silenciosa.
 *   **Histórico:** Fundiu-se à "Grande Convergência" para anular o código genético do Projeto Gênesis. Embora sua interface direta tenha desaparecido ("O Silêncio"), sua essência permeia a infraestrutura básica, garantindo que o pesadelo digital não retorne.
+
+---
+
+## Diretor Dantas
+
+*   **Idade:** 50 anos
+*   **Altura:** 1,75m
+*   **Porte Físico:** Magro, rígido.
+*   **Cabelo:** Preto, penteado com gel excessivo.
+*   **Olhos:** Castanhos, frios.
+*   **Marcas Distintivas:** Voz anasalada.
+*   **Vestuário:** Ternos corporativos impecáveis.
+*   **Equipamento:** Tablet de alta segurança.
+*   **Gostos/Traços:** Eficiência, cortes de orçamento.
+*   **Perfil Psicológico:** Corporativista. Vê a cidade como uma planilha de excel.
+*   **Função:** Diretor da Corregedoria.
+*   **Histórico:** Representante dos interesses da Aeterna dentro da força policial. Sua missão é reduzir custos e manter a imagem pública, custe o que custar.
+
+---
+
+## Maya "Glitch" Sato
+
+*   **Idade:** 26 anos
+*   **Altura:** 1,55m
+*   **Porte Físico:** Pequena, ágil.
+*   **Cabelo:** Roxo curto.
+*   **Olhos:** Amendoados, frequentemente cobertos por óculos de realidade aumentada.
+*   **Marcas Distintivas:** Dedos manchados de graxa e solda.
+*   **Vestuário:** Macacão de técnico cheio de bolsos.
+*   **Equipamento:** Terminal portátil customizado, kit de ferramentas físicas.
+*   **Gostos/Traços:** Resolver quebra-cabeças, café forte.
+*   **Perfil Psicológico:** Focada e pragmática. Prefere máquinas a pessoas.
+*   **Função:** Perita Técnica Forense.
+*   **Histórico:** Uma das poucas especialistas em hardware capaz de consertar tecnologia antiga e nova. Trabalha diretamente com Gabo quando a "tecnologia mágica" falha.
