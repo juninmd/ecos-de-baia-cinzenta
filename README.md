@@ -76,8 +76,7 @@ Os arquivos serão gerados na pasta `docs/.vitepress/dist`.
 
 ## ✍️ Autores
 
-*   **J.R.A.C.N** - Autor Original
-*   **Antonio Carlos** - Supervisor do Projeto
+*   **Antonio Carlos (J.R.A.C.N)** - Autor Original e Supervisor do Projeto
 *   **Jules** - Co-autor e Arquiteto de Software (AI Agent)
 
 ## 📄 Licença
