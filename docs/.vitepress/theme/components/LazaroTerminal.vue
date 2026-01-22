@@ -56,6 +56,16 @@ const commands = {
       { type: 'system', text: 'Nós somos o backup.' }
     ]
   },
+  bercario: () => {
+    return [
+      { type: 'success', text: '>> ACESSO CONCEDIDO: NÍVEL 0' },
+      { type: 'danger', text: 'AVISO: CONTAMINAÇÃO BIOLÓGICA DETECTADA' },
+      { type: 'system', text: 'Localização: Subsolo da Linha Vermelha' },
+      { type: 'text', text: 'Status dos Tanques: ATIVOS' },
+      { type: 'warning', text: 'Mensagem de Elara Vance: "Eles têm fome."' },
+      { type: 'text', text: 'Dica: O silêncio é a chave.' }
+    ]
+  },
   clear: () => {
     output.value = []
     return []
