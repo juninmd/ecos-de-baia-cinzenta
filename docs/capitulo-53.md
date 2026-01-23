@@ -1,3 +1,6 @@
+---
+image: /cidade.jpg
+---
 # Capítulo 53: Café, Código e Conspiração
 
 A chuva batia na vitrine da "Cafeteria do Fim do Mundo" com uma insistência rítmica. Era um estabelecimento irônico no Distrito da Ferrugem: um lugar que servia café de verdade (contrabandeado, claro) em canecas de cerâmica lascada, enquanto o resto da cidade bebia ração sintética em tubos de plástico.

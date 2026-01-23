@@ -1,3 +1,6 @@
+---
+image: /cidade.jpg
+---
 # Capítulo 52: Dívida Eterna
 
 O flutuante do Dourado balançava violentamente, mas não era por causa da maré.

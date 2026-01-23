@@ -2,6 +2,7 @@
 layout: doc
 title: "Capítulo 49: A Isca Perfeita"
 description: "Val e Gabo preparam uma armadilha mortal para as forças da Aeterna."
+image: /cidade.jpg
 ---
 
 # Capítulo 49: A Isca Perfeita
