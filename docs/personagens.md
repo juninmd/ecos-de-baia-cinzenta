@@ -67,6 +67,15 @@
 
 ---
 
+## Dante Moretti (In Memoriam / Ameaça Latente)
+
+![Dante Moretti](/dante.jpg)
+
+*   **Status:** [FALECIDO / ID: 001 NO GÊNESIS]
+*   **Histórico:** Pai de Gabo e Comissário lendário. Morto anos atrás. Revelado no Capítulo 102 como o "Paciente Zero" ou "Prioridade Máxima" do Projeto Gênesis. O sistema aguarda um hospedeiro viável para baixar seu backup digital (contido no Cubo/Coroa que Gabo carrega).
+
+---
+
 ## Roberto Miranda - [STATUS: REANIMADO / CYBORG BIOLÓGICO]
 
 ![Roberto Miranda](/roberto.jpg)
@@ -118,7 +127,7 @@
 *   **Gostos/Traços:** Minimalismo.
 *   **Perfil Psicológico:** Sociopata funcional.
 *   **Função:** Ex-CEO da Aeterna Corp.
-*   **Histórico:** Arquiteta do Projeto Ecos. Presumida morta, mas um sinal de SOS detectado recentemente no "Berçário" (subsolo) indica que ela pode estar viva e operando nas sombras contra uma nova ameaça.
+*   **Histórico:** Arquiteta do Projeto Ecos. Presumida morta, mas descoberta na "Fila de Processamento" do Projeto Gênesis (Capítulo 102). O sistema pretende apagar sua mente para usar seu corpo como hospedeiro.
 
 ---
 

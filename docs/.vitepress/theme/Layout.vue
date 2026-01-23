@@ -9,6 +9,7 @@ const { Layout } = DefaultTheme
 const { frontmatter } = useData()
 
 const isTerminalOpen = ref(false)
+const progress = ref(0)
 
 const toggleTerminal = () => {
   isTerminalOpen.value = !isTerminalOpen.value
@@ -22,16 +23,27 @@ const handleKeydown = (e) => {
   }
 }
 
+const updateProgress = () => {
+  const scrollTop = window.scrollY
+  const docHeight = document.body.scrollHeight - window.innerHeight
+  if (docHeight > 0) {
+    progress.value = (scrollTop / docHeight) * 100
+  }
+}
+
 onMounted(() => {
   window.addEventListener('keydown', handleKeydown)
+  window.addEventListener('scroll', updateProgress)
 })
 
 onUnmounted(() => {
   window.removeEventListener('keydown', handleKeydown)
+  window.removeEventListener('scroll', updateProgress)
 })
 </script>
 
 <template>
+  <div class="reading-progress-bar" :style="{ width: progress + '%' }"></div>
   <Layout>
     <template #doc-before>
       <div v-if="frontmatter.image" class="chapter-cover-container">
@@ -51,6 +63,17 @@ onUnmounted(() => {
 </template>
 
 <style>
+.reading-progress-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 4px;
+  background: var(--vp-c-brand);
+  z-index: 9999;
+  transition: width 0.1s ease;
+  box-shadow: 0 0 10px var(--vp-c-brand);
+}
+
 .chapter-cover-container {
   margin-bottom: 2rem;
   border-radius: 8px;
