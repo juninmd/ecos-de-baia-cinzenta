@@ -53,6 +53,11 @@ A narrativa evoluiu de um Cyberpunk clássico para um cenário de "Analog Noir" 
 *   **Gabo:** A dependência do exoesqueleto passivo e o tique de tamborilar os dedos (em vez de fumar) estão bem estabelecidos e mantidos (Cap 1, 98, 100).
 *   **Elara Vance:** A revelação de que ela está viva e ativa no submundo (Cap 100) adiciona uma nova camada de complexidade, transformando uma antiga vilã/corporate em uma aliada relutante ou fonte de aviso.
 *   **Aria:** Sua onipresença silenciosa como "A Entidade" respeita o final da Parte XIII, onde ela se fundiu à infraestrutura sem assumir uma forma avatar direta.
+*   **Roberto Miranda (Cap 101):** O retorno de Miranda como um ciborgue biológico ("reciclado") fecha o arco de sua suposta morte na Torre Aeterna, justificando-a com a tecnologia do "Projeto Gênesis" que foi estabelecida previamente. Isso cria um antagonista pessoal e emocionalmente carregado para o clímax deste arco.
+
+### Verificação de Consistência (Auditoria Recente)
+*   **Gabo e o Cigarro:** Foi realizada uma varredura completa nos textos. A regra de que Gabo **nunca fuma** (devido ao trauma com o pai) está sendo rigorosamente seguida. Todas as menções a "fumaça" ou "cigarros" são ambientais ou referem-se a outros personagens (como Vilar).
+*   **Lívia:** Sua transformação de "donzela em perigo" (Parte III) para "guerrilheira de túnel" (Parte XIV) é justificada pelo salto temporal e pela convivência no submundo, evitando a trope de personagem feminina passiva.
 
 ### Conclusão
 A história mantém uma forte coerência interna, respeitando as consequências dos eventos cataclísmicos das partes anteriores. A mudança de tom é justificada pela narrativa e enriquece o universo.
