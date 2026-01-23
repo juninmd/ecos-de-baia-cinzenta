@@ -1,3 +1,6 @@
+---
+image: /cidade.jpg
+---
 # Capítulo 51: Mãos Limpas
 
 A chuva ácida de Baía Cinzenta tem o hábito de lavar as evidências, mas aquele corpo estava estranhamente imaculado.

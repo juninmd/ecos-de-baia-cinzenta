@@ -2,6 +2,7 @@
 layout: doc
 title: "Capítulo 48: Fantasma na Máquina"
 description: "Val lidera a defesa digital contra a Aeterna enquanto Gabo se recupera."
+image: /cidade.jpg
 ---
 
 # Capítulo 48: Fantasma na Máquina

@@ -32,15 +32,14 @@ for filename in files:
 
     # Check if frontmatter exists (starts with ---)
     if content.startswith('---'):
-        # Check if image property already exists
-        if 'image:' not in content.split('---')[1]:
-            # Insert image property into existing frontmatter
-            # Find the end of the frontmatter
-            parts = content.split('---', 2)
-            if len(parts) >= 3:
-                frontmatter = parts[1]
-                body = parts[2]
+        # Split into parts
+        parts = content.split('---', 2)
+        if len(parts) >= 3:
+            frontmatter = parts[1]
+            body = parts[2]
 
+            # Check if image property already exists
+            if 'image:' not in frontmatter:
                 # Add image to frontmatter
                 new_frontmatter = frontmatter.rstrip() + f'\nimage: {image_to_use}\n'
                 new_content = f'---{new_frontmatter}---{body}'
