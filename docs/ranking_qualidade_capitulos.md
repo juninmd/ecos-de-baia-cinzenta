@@ -1,4 +1,6 @@
-# Ranking de Qualidade dos Capítulos (1-99)
+# Ranking de Qualidade dos Capítulos
+
+*Nota: A divisão de "Partes" neste documento segue blocos de análise e pode não corresponder exatamente à estrutura oficial de publicação (ver `docs/config.js` ou `docs/linha_do_tempo.md`).*
 
 Este documento apresenta uma análise crítica e um ranking de qualidade para todos os capítulos escritos da narrativa até o momento, avaliando atmosfera, desenvolvimento de personagens, trama e impacto emocional.
 
@@ -490,7 +492,7 @@ Este documento apresenta uma análise crítica e um ranking de qualidade para to
 
 ---
 
-## Parte X: O Fim da Máquina (Capítulos 91-99)
+## Parte XIII: A Carne Mecânica (Conclusão - Capítulos 91-97)
 
 ### Capítulo 91: Protocolo Gênesis
 **Nota: 9.0/10**
@@ -527,12 +529,26 @@ Este documento apresenta uma análise crítica e um ranking de qualidade para to
 *   **Pontos Fortes:** Resolução do conflito principal; vitória amarga (pyrrhic victory).
 *   **Pontos Fracos:** Nenhum.
 
+---
+
+## Parte XIV: O Vazio (Capítulos 98-Atual)
+
 ### Capítulo 98: A Cidade Silenciosa
 **Nota: 10/10**
 *   **Pontos Fortes:** Atmosfera "O Vazio"; silêncio absoluto; terror psicológico puro.
-*   **Pontos Fracos:** Nenhum. Masterclass de atmosfera.
+*   **Pontos Fracos:** Nenhum. Masterclass de atmosfera e reinvenção do cenário.
 
 ### Capítulo 99: O Despertar da Máquina
 **Nota: 9.5/10**
 *   **Pontos Fortes:** Introdução dos "Necro-Mecânicos"; ação física e brutal; cliffhanger excelente com o retorno de Lívia e a voz de Elara.
 *   **Pontos Fracos:** Nenhum. Prepara o terreno perfeitamente para o próximo livro/arco.
+
+### Capítulo 100: O Ventre da Besta
+**Nota: 9.0/10**
+*   **Pontos Fortes:** Retorno do Horror Biológico; descrição visceral do "Berçário"; Lívia como combatente competente.
+*   **Pontos Fracos:** Exposição necessária sobre o "Projeto Gênesis" pode parecer repetitiva para quem leu atentamente a Parte IX.
+
+### Capítulo 101: Ressonância
+**Nota: 9.5/10**
+*   **Pontos Fortes:** Ação tensa com limitações físicas (exoesqueleto); o Cubo como mecânica de controle; revelação bombástica do retorno de Roberto Miranda como ciborgue biológico.
+*   **Pontos Fracos:** A obediência imediata das criaturas ao cubo resolveu o conflito físico muito rápido (embora tenha criado um pior: Miranda).
