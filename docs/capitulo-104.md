@@ -13,9 +13,9 @@ Gabo emergiu do bueiro de manutenção, puxando-se com os braços. Suas pernas, 
 
 Ele rolou para o asfalto úmido, ofegante. O céu acima era de um cinza chumbo, clareando lentamente no leste. A alvorada estava chegando, uma mancha pálida tentando perfurar a camada eterna de poluição.
 
-— Gabo? — A voz de Lívia veio de baixo.
+— Gabo? — A voz de Elena veio de baixo.
 
-Ele se virou e estendeu a mão. Lívia subiu, o rosto manchado de graxa e poeira, os olhos verdes arregalados de choque. Ela segurava a escopeta com tanta força que seus dedos estavam brancos.
+Ele se virou e estendeu a mão. Elena subiu, o rosto manchado de graxa e poeira, os olhos verdes arregalados de choque. Ela segurava a escopeta com tanta força que seus dedos estavam brancos.
 
 E então, o terceiro.
 
@@ -51,9 +51,9 @@ Dois carros da polícia, modelos antigos recuperados, frearam bruscamente a vint
 
 Inspetor Rangel saiu do primeiro veículo, a barriga forçando os botões da camisa, o revólver na mão trêmula. Atrás dele, o Oficial Silva e outros dois recrutas apontavam lanternas e armas.
 
-— Parados! — gritou Rangel. — Gabo? Lívia?
+— Parados! — gritou Rangel. — Gabo? Elena?
 
-— Somos nós, Rangel! — gritou Lívia, levantando as mãos vazias.
+— Somos nós, Rangel! — gritou Elena, levantando as mãos vazias.
 
 Rangel baixou a arma, soltando um suspiro que balançou seu bigode.
 
@@ -95,7 +95,7 @@ Rangel engoliu em seco.
 
 — Louvável — disse Dante. Ele retirou a mão e olhou para o horizonte, onde o sol finalmente rompia a barreira de fumaça, banhando a cidade em uma luz acobreada e doente. — Mas a sobrevivência não é suficiente. A cidade precisa de propósito. Ela precisa de... direção.
 
-— O que você vai fazer? — perguntou Lívia, a voz trêmula.
+— O que você vai fazer? — perguntou Elena, a voz trêmula.
 
 Dante se virou para ela. Seus olhos refletiam o nascer do sol, mas pareciam conter um abismo muito mais profundo.
 

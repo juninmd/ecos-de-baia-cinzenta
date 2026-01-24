@@ -11,9 +11,9 @@ O vento a 50 andares de altura não apenas soprava; ele espancava, um predador i
 
 Não houve tempo para pensar. Não houve tempo para rezar.
 
-Lívia terminava de prender Valéria, desacordada, nas costas de Gabo com um emaranhado de cabos de rede. Não era seguro. Não era um plano. Era a única opção.
+Elena terminava de prender Valéria, desacordada, nas costas de Gabo com um emaranhado de cabos de rede. Não era seguro. Não era um plano. Era a única opção.
 
-— Não vai aguentar! — gritou Lívia, sua voz quase perdida no uivo do vento. — Isso não foi feito para suportar nosso peso!
+— Não vai aguentar! — gritou Elena, sua voz quase perdida no uivo do vento. — Isso não foi feito para suportar nosso peso!
 
 — Não temos escolha! — berrou Gabo de volta. Ele se agarrou a um feixe de cabos de fibra ótica que pendia da estrutura danificada, a outra ponta balançando solta no vazio. — É isso ou fritar no gás. No três... um...
 
@@ -27,15 +27,15 @@ Acima, uma fumaça verde e densa começou a vazar pelas janelas quebradas do and
 
 O prédio inteiro parecia estar se desintegrando. Painéis solares despencavam como guilhotinas. Drones de manutenção, agora sem controle, colidiam em explosões inúteis.
 
-— A fibra está partindo! — gritou Lívia, que se agarrava a um cabo paralelo alguns metros abaixo.
+— A fibra está partindo! — gritou Elena, que se agarrava a um cabo paralelo alguns metros abaixo.
 
 Eles estavam talvez no trigésimo andar. Uma queda mortal.
 
 — Ali! — Gabo avistou uma varanda executiva no nível 28, uma pequena saliência na parede de vidro. — Temos que balançar!
 
-Era um movimento suicida. Usaram o próprio peso e o impulso de um golpe de vento particularmente forte. Na primeira tentativa, passaram a metros de distância. Na segunda, os dedos de Lívia roçaram a grade de metal. Na terceira, ela se lançou, um ato de fé cega, soltando o cabo e se agarrando à grade com a força do desespero. Ela conseguiu, caindo com um baque no terraço.
+Era um movimento suicida. Usaram o próprio peso e o impulso de um golpe de vento particularmente forte. Na primeira tentativa, passaram a metros de distância. Na segunda, os dedos de Elena roçaram a grade de metal. Na terceira, ela se lançou, um ato de fé cega, soltando o cabo e se agarrando à grade com a força do desespero. Ela conseguiu, caindo com um baque no terraço.
 
-Gabo veio em seguida. O peso extra de Val quase o arrancou da estrutura. Seus dedos escorregaram, a pegada falhou. Por um instante, ele ficou pendurado por uma única mão. Lívia se esticou e o agarrou pelo colarinho, puxando-o para a segurança com uma força que ela não sabia que tinha.
+Gabo veio em seguida. O peso extra de Val quase o arrancou da estrutura. Seus dedos escorregaram, a pegada falhou. Por um instante, ele ficou pendurado por uma única mão. Elena se esticou e o agarrou pelo colarinho, puxando-o para a segurança com uma força que ela não sabia que tinha.
 
 Eles desabaram no chão de mármore, ofegantes, a chuva começando a encharcá-los.
 
@@ -53,6 +53,6 @@ As luzes do escritório piscaram e morreram. Lá fora, através das janelas pano
 
 O "Apagão" tinha começado.
 
-— Escadas! — gritou Lívia, apontando para a saída de emergência. Os elevadores estavam mortos.
+— Escadas! — gritou Elena, apontando para a saída de emergência. Os elevadores estavam mortos.
 
 Eles se juntaram à debandada de funcionários em pânico. Na escuridão, não havia mais castas. Eram todos apenas ratos fugindo do navio que afundava.

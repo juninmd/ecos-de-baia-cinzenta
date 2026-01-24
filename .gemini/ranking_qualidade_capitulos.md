@@ -305,8 +305,8 @@ Este documento apresenta uma análise crítica e um ranking de qualidade para to
 
 ### Capítulo 56: O Preço do Amanhã
 **Nota: 8.0/10**
-*   **Pontos Fortes:** Fuga de Lívia; expansão do mundo para fora do domo.
-*   **Pontos Fracos:** A trama de Lívia parece desconexa do núcleo principal por enquanto.
+*   **Pontos Fortes:** Fuga de Elena; expansão do mundo para fora do domo.
+*   **Pontos Fracos:** A trama de Elena parece desconexa do núcleo principal por enquanto.
 
 ### Capítulo 57: Zona de Interesse
 **Nota: 7.5/10**
@@ -540,12 +540,12 @@ Este documento apresenta uma análise crítica e um ranking de qualidade para to
 
 ### Capítulo 99: O Despertar da Máquina
 **Nota: 9.5/10**
-*   **Pontos Fortes:** Introdução dos "Necro-Mecânicos"; ação física e brutal; cliffhanger excelente com o retorno de Lívia e a voz de Elara.
+*   **Pontos Fortes:** Introdução dos "Necro-Mecânicos"; ação física e brutal; cliffhanger excelente com o retorno de Elena e a voz de Elara.
 *   **Pontos Fracos:** Nenhum. Prepara o terreno perfeitamente para o próximo livro/arco.
 
 ### Capítulo 100: O Ventre da Besta
 **Nota: 9.0/10**
-*   **Pontos Fortes:** Retorno do Horror Biológico; descrição visceral do "Berçário"; Lívia como combatente competente.
+*   **Pontos Fortes:** Retorno do Horror Biológico; descrição visceral do "Berçário"; Elena como combatente competente.
 *   **Pontos Fracos:** Exposição necessária sobre o "Projeto Gênesis" pode parecer repetitiva para quem leu atentamente a Parte IX.
 
 ### Capítulo 101: Ressonância

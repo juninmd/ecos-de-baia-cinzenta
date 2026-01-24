@@ -5,9 +5,9 @@ image: /capitulo_34.jpg
 
 Dirigir pelo Distrito Central sem a Rede de Tráfego era como navegar num campo minado. Destroços de drones, barricadas improvisadas e as carcaças de carros autônomos pontuavam a avenida.
 
-Gabo dirigia com uma mão, a outra batucando no volante. Lívia mantinha a pistola no colo, os olhos varrendo as sombras que dançavam e fugiam da luz dos faróis.
+Gabo dirigia com uma mão, a outra batucando no volante. Elena mantinha a pistola no colo, os olhos varrendo as sombras que dançavam e fugiam da luz dos faróis.
 
-— Para — disse Lívia, a voz baixa e tensa.
+— Para — disse Elena, a voz baixa e tensa.
 
 Gabo freou, o carro deslizando um pouco no asfalto molhado.
 
@@ -23,7 +23,7 @@ Um dos bandidos ergueu uma pistola e atirou na cabeça do idoso. O corpo caiu se
 
 O sangue de Gabo ferveu. Não era a raiva fria e calculista do detetive. Era ódio.
 
-— Lívia, assume o volante — ordenou Gabo, já abrindo a porta.
+— Elena, assume o volante — ordenou Gabo, já abrindo a porta.
 
 — O que você vai fazer? — perguntou ela, deslizando para o banco do motorista.
 
@@ -57,6 +57,6 @@ Os reféns olhavam para Gabo, paralisados entre o medo e a gratidão.
 
 Ele se arrastou de volta para o carro, o rosto pálido e suado.
 
-— Isso foi... barulhento — comentou Lívia, quando ele caiu no banco do passageiro.
+— Isso foi... barulhento — comentou Elena, quando ele caiu no banco do passageiro.
 
 — Eu não faço sutil — disse Gabo, ofegante, segurando o joelho. — Eu faço o trabalho. Acelera. Antes que eu desmaie.

@@ -11,7 +11,7 @@ Era um sol fraco, filtrado por camadas de poluição residual, mas era sol. A ch
 
 Gabo estava sentado no parapeito do que restou do seu apartamento. A cidade estava em ruínas, mas estava viva. As pessoas estavam nas ruas, limpando os escombros. Não havia polícia corporativa. Não havia drones.
 
-A Aeterna Corp tinha declarado falência e abandonado a cidade após a destruição de seus ativos globais. O "Consórcio Lázaro" estava sendo investigado por tribunais internacionais graças ao dossiê que Lívia vazou.
+A Aeterna Corp tinha declarado falência e abandonado a cidade após a destruição de seus ativos globais. O "Consórcio Lázaro" estava sendo investigado por tribunais internacionais graças ao dossiê que Elena vazou.
 
 — Café? — Val apareceu, segurando duas canecas amassadas.
 

@@ -15,7 +15,7 @@ Ela parecia como nas fotos que ele guardava, jovem, vibrante, cantarolando enqua
 
 — Gabriel, querido. Você demorou. O jantar está quase pronto.
 
-Lívia sussurrou, a arma baixa. — Gabo, o que é isso?
+Elena sussurrou, a arma baixa. — Gabo, o que é isso?
 
 — É uma simulação — disse Valéria, a voz trêmula. Seu implante ocular piscava, analisando o ambiente. — Imersão total. A Rede está tentando nos neutralizar com... nostalgia.
 
@@ -33,7 +33,7 @@ A cena mudou. A cozinha se dissolveu, e eles estavam no corredor do hospital. O 
 
 A parede do hospital tornou-se uma janela para um futuro que nunca existiu: Gabo, mais velho, rindo em um churrasco de domingo. Sua mãe, grisalha e feliz, abraçando um neto que nunca nasceria. Uma vida sem a chuva, sem a dor, sem o peso do mundo em seus ombros.
 
-— É mentira, Gabo! — gritou Lívia, mas sua voz parecia distante, abafada.
+— É mentira, Gabo! — gritou Elena, mas sua voz parecia distante, abafada.
 
 Ele via. Ele via a felicidade. A paz. A ausência de fardo. Bastava uma palavra.
 
@@ -59,7 +59,7 @@ A voz do Gamemaster ecoou, desprovida de qualquer calor humano, pura fúria digi
 
 Torres de defesa desceram do teto, seus canos brilhando em vermelho.
 
-— Gabo, acaba com isso! — gritou Lívia, buscando cobertura.
+— Gabo, acaba com isso! — gritou Elena, buscando cobertura.
 
 Gabo ergueu a escopeta, não para as torres, mas para o tanque. Para o pai.
 

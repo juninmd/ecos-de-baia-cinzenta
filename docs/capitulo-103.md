@@ -23,7 +23,7 @@ Silas Vance estava lá. Ele não parecia o monstro vegetal que as lendas de Part
 
 — Gabriel. E a intrépida Srta. Moretti. — Silas abriu os braços. — Vocês chegaram a tempo para o batizado.
 
-Lívia levantou a escopeta, mas antes que pudesse mirar, algo enorme caiu do teto, pousando entre eles e Silas com um estrondo que fez a passarela tremer.
+Elena levantou a escopeta, mas antes que pudesse mirar, algo enorme caiu do teto, pousando entre eles e Silas com um estrondo que fez a passarela tremer.
 
 Roberto Miranda. O lado esquerdo de seu corpo agora estava inchado, os músculos artificiais rasgando a pele sintética, revelando pistões hidráulicos e fibras musculares vermelhas expostas. O ácido havia derretido parte de seu rosto falso, deixando o crânio de metal à mostra em um sorriso permanente.
 
@@ -31,9 +31,9 @@ Roberto Miranda. O lado esquerdo de seu corpo agora estava inchado, os músculos
 
 — Cuidem dele! — ordenou Silas, virando as costas e digitando em um console holográfico que projetava luz azul sobre o vidro do Ventre. — A transferência começa em dois minutos.
 
-— Gabo, vai! — gritou Lívia. — Eu seguro o Frankenstein!
+— Gabo, vai! — gritou Elena. — Eu seguro o Frankenstein!
 
-Roberto avançou como um trem de carga. Lívia rolou para o lado, disparando a escopeta à queima-roupa no joelho mecânico da criatura. O tiro explodiu em faíscas e fluido preto, mas Roberto apenas vacilou, girando o braço modificado em um arco mortal.
+Roberto avançou como um trem de carga. Elena rolou para o lado, disparando a escopeta à queima-roupa no joelho mecânico da criatura. O tiro explodiu em faíscas e fluido preto, mas Roberto apenas vacilou, girando o braço modificado em um arco mortal.
 
 Gabo não olhou para trás. Ele correu — ou o mais próximo que suas pernas permitiam — em direção a Silas. O som rítmico de *clique-hiss, clique-hiss* de suas órteses marcava o tempo de sua fúria.
 
@@ -63,15 +63,15 @@ Mas sua mão não obedeceu. O cubo estava *magnetizado* ou... vivo. Gavinhas de 
 
 Atrás dele, um grito. Gabo olhou por cima do ombro.
 
-Lívia estava encurralada contra o parapeito. Roberto a segurava pelo pescoço com sua garra mecânica, erguendo-a sobre o vazio.
+Elena estava encurralada contra o parapeito. Roberto a segurava pelo pescoço com sua garra mecânica, erguendo-a sobre o vazio.
 
 — *Escolha, Gabo!* — riu Roberto. — *O pai ou a filha? Você pode salvar o legado... ou o futuro.*
 
-Gabo olhou para Silas, que observava o monitor de transferência atingir 80%. Depois olhou para Lívia, debatendo-se, o rosto ficando roxo.
+Gabo olhou para Silas, que observava o monitor de transferência atingir 80%. Depois olhou para Elena, debatendo-se, o rosto ficando roxo.
 
 O tempo parou. O som do mundo se reduziu ao *tump-tump* do coração de Gabo e ao zumbido elétrico do Ventre.
 
-Se ele parasse a máquina, Roberto mataria Lívia. Se ele salvasse Lívia, Dante renasceria — e com ele, talvez, o pesadelo da Aeterna.
+Se ele parasse a máquina, Roberto mataria Elena. Se ele salvasse Elena, Dante renasceria — e com ele, talvez, o pesadelo da Aeterna.
 
 "Foda-se o legado", pensou Gabo.
 
@@ -81,7 +81,7 @@ Ele colidiu com Roberto como uma bala de canhão humana.
 
 O impacto jogou ambos contra o parapeito. O metal cedeu.
 
-Gabo, Lívia e Roberto caíram na plataforma inferior, uma confusão de membros e metal. A garra de Roberto soltou Lívia. Gabo montou sobre o ciborgue, usando o próprio peso do exoesqueleto para prender o peito da criatura.
+Gabo, Elena e Roberto caíram na plataforma inferior, uma confusão de membros e metal. A garra de Roberto soltou Elena. Gabo montou sobre o ciborgue, usando o próprio peso do exoesqueleto para prender o peito da criatura.
 
 — *Você é patético!* — cuspiu Roberto.
 
@@ -91,7 +91,7 @@ Gabo arrancou um tubo grosso do pescoço de Roberto. Fluido vital jorrou.
 
 Ele começou a socar. Esquerda, direita, esquerda. Metal contra metal e carne sintética. Ele bateu até os olhos vermelhos de Roberto se apagarem. Até o rosto do ex-parceiro ser apenas uma massa irreconhecível de circuitos e tecido.
 
-— Gabo! A máquina! — gritou Lívia, tossindo.
+— Gabo! A máquina! — gritou Elena, tossindo.
 
 Gabo olhou para cima.
 
@@ -103,7 +103,7 @@ Um trovão silencioso sacudiu a caverna. A luz âmbar do Ventre tornou-se um bra
 
 O vidro explodiu.
 
-Fluido e estilhaços choveram sobre eles. Gabo cobriu Lívia com seu corpo.
+Fluido e estilhaços choveram sobre eles. Gabo cobriu Elena com seu corpo.
 
 Quando a poeira baixou, Silas estava de joelhos, chorando de êxtase.
 
@@ -117,7 +117,7 @@ Silas rastejou até ele.
 
 — Bem-vindo de volta, Comissário. Bem-vindo à carne.
 
-A figura olhou para Silas. Depois olhou para baixo, para Gabo e Lívia.
+A figura olhou para Silas. Depois olhou para baixo, para Gabo e Elena.
 
 Um sorriso lento, desprovido de qualquer calor humano, curvou os lábios de Dante.
 
@@ -127,7 +127,7 @@ Ele estendeu a mão para Silas. As raízes negras que permeavam a sala responder
 
 Silas gritou enquanto era drenado, sua biomassa sendo sugada para fortalecer o novo hospedeiro.
 
-— Gabo... — Lívia sussurrou, agarrando o braço dele.
+— Gabo... — Elena sussurrou, agarrando o braço dele.
 
 — Corra — disse Gabo, sem tirar os olhos da coisa que vestia o rosto de seu pai. — Não pare até ver o sol.
 

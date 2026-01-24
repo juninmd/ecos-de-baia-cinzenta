@@ -11,7 +11,7 @@ Dentro da delegacia, a euforia da vitória tinha dado lugar a algo mais sombrio.
 
 Gabo entrou no saguão. A cena era patética. Policiais durões, homens e mulheres que tinham enfrentado tiros horas antes, agora estavam sentados no chão, tremendo. Alguns olhavam fixamente para as telas negras de seus comunicadores, apertando botões que não funcionavam, em um tique nervoso repetitivo. Outros roíam as unhas até sangrar. Um oficial vomitava em um canto.
 
-— O que há com eles? — perguntou Lívia, que distribuía garrafas de água.
+— O que há com eles? — perguntou Elena, que distribuía garrafas de água.
 
 — Abstinência — disse Valéria, surgindo da sombra. Ela tinha olheiras profundas e parecia pálida. — O cérebro deles viciou na dopamina constante das notificações, dos feeds de dados, da conexão neural. Sem isso... é como tirar heroína de um viciado de longa data. Ansiedade, paranoia, tremores, náusea física.
 

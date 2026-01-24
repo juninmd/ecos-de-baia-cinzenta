@@ -17,13 +17,13 @@ Gabo manteve o revólver apontado para a cabeça humana de Roberto, embora suspe
 
 — *O fogo purifica* — a voz nos alto-falantes riu. — *A carne queima, a gordura derrete, mas os dados... ah, Gabo, os dados persistem. A Aeterna tinha backups de todo o seu pessoal chave. Minha consciência foi salva trinta segundos antes do meu coração parar. E quando o "Jardineiro" precisou de alguém com experiência em... controle de pragas... ele me cultivou de novo.*
 
-Lívia deu um passo à frente, a espingarda engatilhada. Seus olhos varriam os monitores atrás de Roberto. Telas de tubo antigas, verdes e âmbar, exibiam gráficos de crescimento celular e frequências cerebrais.
+Elena deu um passo à frente, a espingarda engatilhada. Seus olhos varriam os monitores atrás de Roberto. Telas de tubo antigas, verdes e âmbar, exibiam gráficos de crescimento celular e frequências cerebrais.
 
 — Vocês não estão apenas cultivando monstros lá fora — disse ela, o horror amanhecendo em sua voz. — Aqueles "protótipos"... eles não são armas. São recipientes.
 
 Roberto bateu palmas, um som úmido, já que suas mãos agora eram garras de osso fundidas ao metal da cadeira.
 
-— *Bingo, detetive. Sempre perspicaz. O mundo digital acabou, Lívia. A "Nuvem" caiu. Mas as mentes que viviam nela... as consciências ricas e poderosas que compraram a imortalidade digital com a Aeterna... elas ficaram presas no escuro. Gritando no vácuo.*
+— *Bingo, detetive. Sempre perspicaz. O mundo digital acabou, Elena. A "Nuvem" caiu. Mas as mentes que viviam nela... as consciências ricas e poderosas que compraram a imortalidade digital com a Aeterna... elas ficaram presas no escuro. Gritando no vácuo.*
 
 Ele se inclinou para frente, os tubos em suas costas chiando.
 
@@ -41,7 +41,7 @@ Um tentáculo de metal e vinha chicoteou do teto, rápido como uma cobra. Gabo s
 
 — *Sem truques digitais hoje, Gabo* — zombou Roberto. — *Aqui embaixo, somos apenas nós e a biologia.*
 
-Lívia disparou. O tiro de escopeta atingiu o ombro de Roberto, arrancando pedaços de carne pálida e circuitos. Ele nem piscou.
+Elena disparou. O tiro de escopeta atingiu o ombro de Roberto, arrancando pedaços de carne pálida e circuitos. Ele nem piscou.
 
 — *Isso é rude.*
 
@@ -49,7 +49,7 @@ Mais tentáculos desceram do teto escuro. O laboratório inteiro parecia estar v
 
 — Aos monitores! — gritou Gabo, rolando para trás de uma bancada de metal enquanto um chicote biológico esmagava uma fileira de provetas.
 
-— O que tem neles? — Lívia se agachou ao lado dele, recarregando a arma com mãos trêmulas.
+— O que tem neles? — Elena se agachou ao lado dele, recarregando a arma com mãos trêmulas.
 
 — Se ele é o gerente, ele tem uma lista. Precisamos saber quem eles estão trazendo de volta!
 
@@ -59,7 +59,7 @@ Gabo se levantou e disparou três vezes contra o rosto de Roberto. As balas rico
 
 O chão tremeu. As raízes sob a cadeira de Roberto começaram a se erguer, levantando-o como um rei em um trono de pesadelos.
 
-Lívia correu para os terminais laterais, seus dedos voando sobre o teclado mecânico barulhento.
+Elena correu para os terminais laterais, seus dedos voando sobre o teclado mecânico barulhento.
 
 — Gabo! Segura ele!
 
@@ -77,9 +77,9 @@ Ele gritou — um som humano de dor genuína desta vez. A barreira de esporos fa
 
 As portas laterais da sala se abriram. Dois dos "Protótipos" entraram, movendo-se com aquela agilidade quebrada e perturbadora.
 
-— Lívia! — chamou Gabo, recuando para a parede.
+— Elena! — chamou Gabo, recuando para a parede.
 
-— Achei! — Lívia arrancou uma folha de papel contínuo que a impressora matricial do terminal estava cuspindo. — Gabo, temos que ir! Eu sei onde ela está!
+— Achei! — Elena arrancou uma folha de papel contínuo que a impressora matricial do terminal estava cuspindo. — Gabo, temos que ir! Eu sei onde ela está!
 
 — Quem?
 
@@ -89,7 +89,7 @@ Um dos protótipos saltou sobre Gabo. Ele usou o braço reforçado do exoesquele
 
 Gabo urrou, ativando os pistões hidráulicos de sua perna direita e chutando o joelho da criatura. O osso estalou com um som seco. A coisa caiu, e Gabo aproveitou para descarregar a coronha do lançador no crânio sem rosto.
 
-— Saída de emergência! Atrás dos servidores! — apontou Lívia.
+— Saída de emergência! Atrás dos servidores! — apontou Elena.
 
 Gabo agarrou o braço dela e eles correram. Atrás deles, Roberto, ainda limpando o ácido dos olhos biônicos, gritava ordens para o sistema.
 
@@ -103,7 +103,7 @@ Ficaram em silêncio por um momento, apenas o som de suas respirações ofegante
 
 — Você está bem? — perguntou Gabo, acendendo um sinalizador químico que banhou o túnel em luz vermelha.
 
-Lívia assentiu, apertando o papel impresso contra o peito.
+Elena assentiu, apertando o papel impresso contra o peito.
 
 — Gabo... a lista. Não é só a Elara.
 
@@ -118,7 +118,7 @@ Gabo amassou o papel, sentindo uma náusea súbita.
 
 — Eles querem meu pai — sussurrou ele. — O Cubo... a "Coroa"... é a chave para baixá-lo.
 
-— Roberto disse que eles querem trazer os deuses de volta — disse Lívia, sua voz dura. — Seu pai não era um deus, Gabo. Mas ele sabia onde todos os corpos estavam enterrados. Literalmente.
+— Roberto disse que eles querem trazer os deuses de volta — disse Elena, sua voz dura. — Seu pai não era um deus, Gabo. Mas ele sabia onde todos os corpos estavam enterrados. Literalmente.
 
 Gabo olhou para a escuridão do túnel à frente. O caminho para o inferno não era pavimentado com boas intenções. Era pavimentado com raízes, carne e códigos antigos que se recusavam a morrer.
 

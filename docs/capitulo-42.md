@@ -9,7 +9,7 @@ O saguão estava coberto de colchões improvisados. Famílias inteiras se amonto
 
 Gabo entrou mancando, carregando uma caixa de suprimentos que saquearam de um mercado abandonado.
 
-Lívia estava no centro do comando, gritando ordens. Ela não usava distintivo, usava uma braçadeira vermelha improvisada.
+Elena estava no centro do comando, gritando ordens. Ela não usava distintivo, usava uma braçadeira vermelha improvisada.
 
 — Eu disse triagem médica no segundo andar! — gritava ela para um grupo de voluntários. — Casos de hipotermia na sala de interrogatório 1! Febre na sala 2! E alguém consiga mais baldes para as goteiras!
 
@@ -31,7 +31,7 @@ Gabo riu, sem humor.
 
 Valéria apareceu, segurando um tablet com a tela rachada.
 
-— Gabo, Lívia... temos um problema maior que a comida.
+— Gabo, Elena... temos um problema maior que a comida.
 
 — O que pode ser maior que morrer de fome?
 

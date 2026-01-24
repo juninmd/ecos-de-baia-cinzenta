@@ -9,7 +9,7 @@
 
 ## Gabriel "Gabo" Moretti
 
-![Gabriel "Gabo" Moretti](/gabo.jpg)
+![Gabriel "Gabo" Moretti](/personagens/gabo.jpg)
 
 *   **Idade:** 30 anos
 *   **Altura:** 1,75m
@@ -31,18 +31,18 @@
 *   **Partes I-VII (A Queda):** Investigou a conspiração da Aeterna Corp, sofreu "cancelamento" social e morte digital. Liderou a resistência inicial.
 *   **Partes VIII-XI (O Dilúvio):** Sobreviveu à enchente catastrófica que submergiu a cidade. Perdeu sua mãe, Helena. Invadiu o núcleo dos servidores para desligar o escudo climático.
 *   **Parte XII-XIII (O Renascimento):** Enfrentou a seita "Os Jardineiros". Foi infectado pela "Praga de Ferro", resultando na necessidade de biotecnologia para sobreviver.
-*   **Parte XIV (O Vazio):** Atua na reconstrução manual da cidade ("Analog Noir"). Desceu ao "Berçário" subterrâneo com Lívia. Confrontou e destruiu a forma ciborgue de Roberto Miranda e testemunhou a queda de Silas Vance.
+*   **Parte XIV (O Vazio):** Atua na reconstrução manual da cidade ("Analog Noir"). Desceu ao "Berçário" subterrâneo com Elena. Confrontou e destruiu a forma ciborgue de Roberto Miranda e testemunhou a queda de Silas Vance.
 
 ---
 
 ## Valéria "Val" Cruz - [STATUS: PETRIFICADA/EM ESTASE]
 
-![Valéria "Val" Cruz](/val.jpg)
+![Valéria "Val" Cruz](/personagens/val_realistic.png)
 
 *   **Idade:** 23 anos
 *   **Altura:** 1,60m
 *   **Porte Físico:** Pequena e esguia, com postura rígida de quem passa horas em interfaces neurais. Atualmente imobilizada em um estado de petrificação biológica
-*   **Cabelo:** Curto (*pixie cut*), com tinta holográfica que muda entre rosa neon e azul elétrico.
+*   **Cabelo:** Até os ombros, com tinta holográfica que muda entre rosa neon e azul elétrico.
 *   **Olhos:** Cibernéticos, com íris prateadas de realidade aumentada.
 *   **Marcas Distintivas:** Implantes de LED nas maçãs do rosto que pulsam com seu humor. Tatuagem de código de barras no pescoço.
 *   **Vestuário:** Jaquetas de couro sintético, coturnos de plataforma e calças cargo.
@@ -61,7 +61,7 @@
 
 ## Marco Moretti - [STATUS: FALECIDO / ABSORVIDO]
 
-![Marco Moretti](/marco.jpg)
+![Marco Moretti](/personagens/marco.png)
 
 *   **Idade:** 35 anos (ao falecer)
 *   **Altura:** 1,80m
@@ -84,7 +84,7 @@
 
 ## Dante Moretti - [STATUS: RESSURGIDO / HOSPEDEIRO BIOLÓGICO]
 
-![Dante Moretti](/dante.jpg)
+![Dante Moretti](/personagens/dante_generated.png)
 
 *   **Status:** [ATIVO / CONSCIÊNCIA DIGITAL EM CORPO BIOLÓGICO]
 *   **Função:** Lenda Policial / Nova Entidade.
@@ -93,12 +93,12 @@
 *   **Pré-Série:** Comissário lendário de Baía Cinzenta. Pai de Gabo e Marco. Falecido anos antes do início da trama.
 *   **Parte V:** Seu túmulo foi aberto e encontrado vazio, levantando suspeitas sobre seu destino real.
 *   **Parte XIV (A Convergência):** Revelado que sua consciência foi preservada digitalmente. No Capítulo 103, o "Projeto Gênesis" completou o download dessa consciência para um corpo clonado perfeito (hospedeiro biológico), criando uma entidade híbrida com o conhecimento da nuvem e a forma física de seu auge.
-*   **Capítulo 104:** Dante Moretti retorna à superfície em seu corpo biológico (Projeto Gênesis). Gabo e Lívia testemunham sua interação fria e calculista com o Inspetor Rangel. Dante assume o controle da infraestrutura física da cidade, sinalizando o fim da era do "Vazio".
+*   **Capítulo 104:** Dante Moretti retorna à superfície em seu corpo biológico (Projeto Gênesis). Gabo e Elena testemunham sua interação fria e calculista com o Inspetor Rangel. Dante assume o controle da infraestrutura física da cidade, sinalizando o fim da era do "Vazio".
 ---
 
 ## Roberto Miranda - [STATUS: DESTRUÍDO / INATIVO]
 
-![Roberto Miranda](/roberto.jpg)
+![Roberto Miranda](/personagens/roberto_generated.png)
 
 *   **Idade:** Indefinida (Biomassa Inerte)
 *   **Altura:** 1,85m (destroçada)
@@ -121,6 +121,8 @@
 
 ## Silas Vance ("O Jardineiro") - [STATUS: ABSORVIDO / MORTO]
 
+![Silas Vance](/personagens/silas_generated.png)
+
 *   **Idade:** Cessada.
 *   **Altura:** Nula.
 *   **Porte Físico:** Drenado.
@@ -141,7 +143,7 @@
 
 ## Dra. Elara Vance - [STATUS: DESAPARECIDA / ATIVA NO SUBMUNDO]
 
-![Dra. Elara Vance](/elara.jpg)
+![Dra. Elara Vance](/personagens/elara.png)
 
 *   **Idade:** 45 anos
 *   **Altura:** 1,75m
@@ -164,6 +166,8 @@
 
 ## O Taxidermista (Alvo Prioritário #1) - [STATUS: DESCONHECIDO]
 
+![O Taxidermista](/personagens/taxidermista_generated.png)
+
 *   **Idade:** 50-60 anos
 *   **Altura:** 1,70m
 *   **Porte Físico:** Esguio.
@@ -184,7 +188,7 @@
 
 ## Clara Moretti
 
-![Clara Moretti](/clara.jpg)
+![Clara Moretti](/personagens/clara.png)
 
 *   **Idade:** 18 anos
 *   **Altura:** 1,65m
@@ -206,7 +210,7 @@
 
 ## Enzo e Sofia Rossi (O Casal da Pizza)
 
-![Casal da Pizza](/casal-pizza.jpeg)
+![Casal da Pizza](/personagens/enzo_sofia.png)
 
 *   **Idade:** 62 e 59.
 *   **Altura:** 1,68m e 1,60m.
@@ -228,7 +232,7 @@
 
 ## Helena Moretti (In Memoriam)
 
-![Helena Moretti](/helena.jpg)
+![Helena Moretti](/personagens/helena.png)
 
 *   **Idade:** 55 anos (ao falecer)
 *   **Altura:** 1,68m
@@ -289,7 +293,7 @@
 
 ## Kael "O Cirurgião" - [STATUS: FALECIDO]
 
-![Kael "O Cirurgião"](/kael.jpg)
+![Kael "O Cirurgião"](/personagens/cirurgiao.jpg)
 
 *   **Idade:** 38
 *   **Altura:** 1,90m
@@ -310,9 +314,9 @@
 
 ---
 
-## Lívia Moretti
+## Elena Moretti
 
-![Lívia Moretti](/livia.jpg)
+![Elena Moretti](/personagens/elena.png)
 
 *   **Idade:** 28 anos
 *   **Altura:** 1,70m
@@ -336,7 +340,7 @@
 
 ## Capitão Jonas Vilar
 
-![Capitão Jonas Vilar](/jonas.jpg)
+![Capitão Jonas Vilar](/personagens/jonas.jpg)
 
 *   **Idade:** 55 anos
 *   **Altura:** 1,82m
@@ -378,7 +382,7 @@
 
 ## Dra. Nise
 
-![Dra. Nise](/nise.jpg)
+![Dra. Nise](/personagens/nise.jpg)
 
 *   **Idade:** 65 anos
 *   **Altura:** 1,60m
@@ -400,7 +404,7 @@
 
 ## Aria (A Entidade) - [STATUS: ONIPRESENTE / SILENCIOSA]
 
-![A Menina do Orelhão](/menina.jpg)
+![Aria (A Entidade)](/personagens/aria.png)
 
 *   **Idade:** Eterna (enquanto digital).
 *   **Altura:** Variável.

@@ -9,7 +9,7 @@ Gabo não bateu. Ele entrou com o Cobalt através da parede de vidro fosco da en
 
 O carro derrapou pelo saguão, espalhando cacos de vidro e mesas de plástico. Jogadores — viciados em Lázaro, ciborgues de baixa renda, e desgraçados em geral — se espalharam como baratas quando a luz acende.
 
-Gabo saiu do carro, a escopeta "Vilha" na mão. Valéria saltou do lado do passageiro, seu deck já ativo, bloqueando as comunicações do local. Lívia ficou no carro, protegendo o dossiê.
+Gabo saiu do carro, a escopeta "Vilha" na mão. Valéria saltou do lado do passageiro, seu deck já ativo, bloqueando as comunicações do local. Elena ficou no carro, protegendo o dossiê.
 
 — Onde ele está?! — rugiu Gabo.
 
@@ -115,7 +115,7 @@ Miranda riu de novo, um som que se transformou em um soluço.
 
 Gabo não respondeu. Ele desceu as escadas, Valéria em seu encalço, deixando o riso maníaco de Miranda para trás, um eco distorcido de um aviso ou talvez... um último, desesperado, ato de arrependimento.
 
-Lívia já estava no volante do Cobalt quando eles saíram.
+Elena já estava no volante do Cobalt quando eles saíram.
 
 — Conseguiram? — perguntou ela.
 

@@ -3,7 +3,7 @@ image: /capitulo_30.jpg
 ---
 # Capítulo 30: O Preço da Liberdade
 
-O corredor do Nível 70 se transformou em um matadouro de metal e luz. Gabo e Lívia usavam os racks de servidores como barricadas, o ar sibilando com o fogo cruzado. Os guardas da Aeterna, equipados com o melhor que o dinheiro podia comprar, avançavam implacavelmente.
+O corredor do Nível 70 se transformou em um matadouro de metal e luz. Gabo e Elena usavam os racks de servidores como barricadas, o ar sibilando com o fogo cruzado. Os guardas da Aeterna, equipados com o melhor que o dinheiro podia comprar, avançavam implacavelmente.
 
 — O upload está em 50%! — gritou Valéria por cima do barulho, os dedos dançando sobre o teclado. — A rede da cidade está começando a se desfazer!
 
@@ -19,7 +19,7 @@ Gabo se levantou da cobertura e disparou. As balas ricochetearam no peito de Kae
 
 Gabo tentou bloquear com sua escopeta vazia, mas a lâmina de Kael a partiu em duas. O golpe seguinte foi um chute lateral que quebrou as costelas de Gabo e o jogou contra um painel de vidro, que se estilhaçou com o impacto.
 
-Lívia atacou Kael por trás, mas ele a agarrou pelo pescoço e a arremessou contra a parede oposta. Ela caiu, desacordada.
+Elena atacou Kael por trás, mas ele a agarrou pelo pescoço e a arremessou contra a parede oposta. Ela caiu, desacordada.
 
 Kael se virou para Gabo, que tentava se levantar, cuspindo sangue.
 
@@ -49,7 +49,7 @@ Valéria correu até Gabo, o rosto pálido de horror ao ver sua perna.
 
 — Gabo! Meu Deus!
 
-— Lívia... — ofegou ele, a consciência se esvaindo. — Veja a Lívia...
+— Elena... — ofegou ele, a consciência se esvaindo. — Veja a Elena...
 
 Valéria correu até a parceira caída, que começava a se mexer, gemendo. Ela estava viva.
 

@@ -9,7 +9,7 @@ Então, as telas se acenderam.
 
 Não com alertas vermelhos, mas com rostos. Milhares deles, piscando em cada monitor, sobrepondo-se, desaparecendo e ressurgindo. Rostos de homens, mulheres e crianças, todos com expressões de confusão e dor.
 
-— O que é isso? — ofegou Lívia, recuando.
+— O que é isso? — ofegou Elena, recuando.
 
 — São eles... — sussurrou Valéria, aproximando-se de um terminal. Seu implante ocular, agora conectado à rede interna da torre, brilhava intensamente. — Os "Fantasmas Digitais". As consciências das vítimas da Lázaro.
 
@@ -32,7 +32,7 @@ Gabo olhou para Val. — Você pode fazer isso?
 
 Valéria hesitou, o conflito visível em seu rosto. — Posso. Com o controle central do Gamemaster desativado, posso escrever um script para liberar todos eles. Despejá-los na rede global.
 
-— Então faça! — disse Lívia. — Dê a eles a paz.
+— Então faça! — disse Elena. — Dê a eles a paz.
 
 — Não é tão simples! — retrucou Val, a voz subindo de tom. — Vocês não entendem o que estão pedindo! Esses "fantasmas" não são apenas dados, são consciências fragmentadas, mas poderosas. Eles são o próprio tecido da infraestrutura de Baía Cinzenta!
 
@@ -50,7 +50,7 @@ Salvar as almas de milhares de mortos ao custo de condenar milhões de vivos a u
 
 Ou manter os fantasmas em seu purgatório digital para preservar os últimos resquícios de ordem em um mundo que já estava desmoronando.
 
-— Gabo... — sussurrou Lívia. — Qual é a decisão certa?
+— Gabo... — sussurrou Elena. — Qual é a decisão certa?
 
 Gabo olhou para os rostos nos monitores. Os "Invisíveis" que ele jurou proteger. Ele não podia deixá-los ali, presos como borboletas em um vidro de âmbar digital.
 

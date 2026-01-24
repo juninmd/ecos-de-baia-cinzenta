@@ -55,7 +55,7 @@ Ou pior... será que os nomes nos servidores eram de pessoas que foram "uploadad
 
 — Temos que sair daqui — disse Gabo, puxando Aria. — Temos que contar isso para... para alguém.
 
-Mas para quem? Vilar estava comprometido. A imprensa estava comprada. Lívia estava longe.
+Mas para quem? Vilar estava comprometido. A imprensa estava comprada. Elena estava longe.
 
 Um som metálico atrás deles fez Gabo girar.
 

@@ -5,11 +5,11 @@ image: /capitulo_22.jpg
 
 A chuva batia no teto do Cobalt como balas de pequeno calibre. O carro estava estacionado sob a estrutura de um viaduto abandonado no Distrito da Névoa, longe das câmeras da Aeterna Corp, longe dos olhos brilhantes dos drones que varriam a cidade em busca do "terrorista" Gabriel Moretti.
 
-Dentro do carro, a única luz vinha da tela holográfica do deck de Valéria e de uma lanterna tática que Lívia segurava sobre os papéis amarelados do dossiê.
+Dentro do carro, a única luz vinha da tela holográfica do deck de Valéria e de uma lanterna tática que Elena segurava sobre os papéis amarelados do dossiê.
 
 — Isso não faz sentido — murmurou Gabo, esfregando o rosto com as mãos. Ele sentia o cheiro de ozônio e medo que impregnava suas roupas. — Meu pai morreu. Eu vi o caixão fechado. O Capitão Vilar assinou o atestado.
 
-— O caixão estava fechado por um motivo, Gabo — disse Lívia, sua voz suave, mas firme. Ela virou uma página. Era um diagrama médico. Complexo. Grotesco. — Olhe isso.
+— O caixão estava fechado por um motivo, Gabo — disse Elena, sua voz suave, mas firme. Ela virou uma página. Era um diagrama médico. Complexo. Grotesco. — Olhe isso.
 
 Gabo se inclinou, forçando os olhos cansados. O diagrama não era apenas um esquema de conexão. Era uma autópsia de alguém ainda vivo.
 
@@ -19,9 +19,9 @@ Mostrava o crânio de Dante aberto, o córtex frontal fatiado e entrelaçado com
 
 — "Projeto Lázaro: Fase Terminal" — leu Valéria, seus olhos de prata correndo pelas linhas de código projetadas no ar. — Data de início: três dias antes da "morte" do Comissário.
 
-— Eles não o mataram — disse Lívia. — Eles o colheram.
+— Eles não o mataram — disse Elena. — Eles o colheram.
 
-— Eles não o mataram — disse Lívia, sua voz um fio de aço. — Eles o colheram. A Colheita de Dante.
+— Eles não o mataram — disse Elena, sua voz um fio de aço. — Eles o colheram. A Colheita de Dante.
 
 Gabo olhou para o diagrama. O cérebro flutuando em seu casulo de vidro, os cabos penetrando o tecido neural como vermes tecnológicos. A bile subiu por sua garganta, quente e ácida. Não era apenas a imagem. Era o cheiro fantasma de antisséptico e carne que sua mente conjurou, o som imaginário de uma serra de osso. Ele se curvou para o lado, abrindo a porta do Cobalt com um solavanco, e vomitou violentamente na calçada encharcada de chuva. Não foi apenas o jantar da noite anterior; foi uma convulsão profunda, um espasmo de todo o seu ser, como se seu corpo estivesse tentando expulsar a própria verdade. O gosto de metal e podridão encheu sua boca. Ele cuspiu, limpando os lábios com as costas da mão trêmula, e voltou para o carro, batendo a porta. O som ecoou o vazio que se abriu em seu peito.
 
@@ -37,7 +37,7 @@ Valéria, pálida, digitava em seu deck, os hologramas dançando em seus olhos.
 
 — É por isso que o jogo é tão perverso — a realização atingiu Gabo como um soco no estômago. — Meu pai amava xadrez. Ele via a justiça como um jogo de estratégia. A IA pegou sua lógica e a transformou em um espetáculo de sangue.
 
-Lívia tocou o ombro de Gabo, um contato frágil no meio da tempestade.
+Elena tocou o ombro de Gabo, um contato frágil no meio da tempestade.
 
 — Tem mais. O dossiê fala de "ecos na máquina". Fragmentos da consciência de Dante que lutam contra o controle. Surtos de... culpa.
 
@@ -47,7 +47,7 @@ Gabo lembrou-se das mensagens enigmáticas, dos "desafios" que pareciam testes m
 
 Ele se esticou para o banco de trás e pegou o lançador "Mara". O peso frio do metal era um consolo, uma promessa. Ele começou a verificar os cartuchos químicos com uma precisão mortal.
 
-— Gabo, o que você vai fazer? — perguntou Lívia, o medo em sua voz.
+— Gabo, o que você vai fazer? — perguntou Elena, o medo em sua voz.
 
 — Vou arrancar o fantasma da máquina.
 
@@ -71,6 +71,6 @@ Gabo olhou para a chuva que escorria pelo para-brisa, cada gota uma memória. Se
 
 Gabo girou a chave na ignição. O motor do Cobalt ganhou vida, um rugido desafiador na noite opressiva.
 
-— Onde o encontramos? — perguntou Lívia.
+— Onde o encontramos? — perguntou Elena.
 
 — Onde os ratos sempre se escondem quando a tempestade chega — disse Gabo, engrenando a marcha, o carro cortando a cortina de água. — Em um buraco, apostando na desgraça alheia.

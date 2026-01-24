@@ -9,7 +9,7 @@ Eles caminhavam pelos túneis da Fundação há uma hora. A água escura batia e
 
 — Estamos perto — sussurrou ela. — A entrada de serviço da Torre fica logo após a câmara de tratamento antiga.
 
-— Por que está tão quieto? — perguntou Lívia. Ela segurava uma pistola que Gabo lhe dera, segurando-a com as duas mãos, tremendo levemente.
+— Por que está tão quieto? — perguntou Elena. Ela segurava uma pistola que Gabo lhe dera, segurando-a com as duas mãos, tremendo levemente.
 
 Gabo parou. Ele ergueu o punho.
 
@@ -23,7 +23,7 @@ Eram corpos.
 
 Dezenas deles. Embutidos nas paredes de concreto, fundidos com a alvenaria. Alguns tinham partes mecânicas grosseiras substituindo membros. Outros tinham o peito aberto, expondo órgãos que pulsavam com uma luz bioluminescente fraca.
 
-— Meu Deus — Lívia cobriu a boca.
+— Meu Deus — Elena cobriu a boca.
 
 — Arte — disse uma voz vinda da escuridão. Uma voz aguda, arranhada, polida.
 
@@ -55,9 +55,9 @@ O túnel explodiu em som e fúria. O primeiro disparo da "Vilha" desintegrou uma
 
 — Estou tentando! O mecanismo é antigo, está quase fundido! — Valéria estava conectada a um painel na parede, seus dedos dançando sobre o holograma de seu deck.
 
-Lívia disparou sua pistola, os tiros soando como estalidos perto do rugido da escopeta. Ela acertou um atacante no pescoço, mas ele apenas cambaleou.
+Elena disparou sua pistola, os tiros soando como estalidos perto do rugido da escopeta. Ela acertou um atacante no pescoço, mas ele apenas cambaleou.
 
-— Na cabeça, Lívia! O cérebro ainda comanda os motores! — instruiu Gabo, disparando novamente.
+— Na cabeça, Elena! O cérebro ainda comanda os motores! — instruiu Gabo, disparando novamente.
 
 O Taxidermista ria, uma cacofonia aguda que cortava o barulho da batalha.
 
@@ -81,7 +81,7 @@ Por um segundo, Gabo temeu que Valéria fosse atacá-lo. Mas em vez disso, ela s
 
 — Entrem! — ordenou Gabo.
 
-Lívia e Valéria passaram por baixo da porta semi-aberta.
+Elena e Valéria passaram por baixo da porta semi-aberta.
 
 Gabo se virou para o Taxidermista. O assassino estava parado, admirando a cena.
 
@@ -101,7 +101,7 @@ Ele lançou a granada. O Taxidermista arregalou os olhos. Gabo mergulhou sob a p
 
 A explosão sacudiu as fundações da cidade. O túnel atrás deles colapsou, soterrando a "galeria" e seu criador.
 
-Do outro lado, Gabo se levantou. Lívia estava pálida, mas assentiu. Valéria, no entanto, tremia de raiva, os punhos cerrados.
+Do outro lado, Gabo se levantou. Elena estava pálida, mas assentiu. Valéria, no entanto, tremia de raiva, os punhos cerrados.
 
 — Ele usou meu trabalho — ela sussurrou, a voz cheia de veneno. — Ele pegou algo que eu criei para ajudar e transformou em um pesadelo.
 

@@ -5,7 +5,7 @@ image: /capitulo_36.jpg
 
 A Delegacia do Setor 4 parecia uma fortaleza sitiada. Barreiras de concreto tinham sido arrastadas para a frente da entrada. Policiais armados com fuzis patrulhavam o perímetro, nervosos. Mas não havia eletricidade. Apenas fogueiras em latões de óleo iluminavam a fachada.
 
-— Como vamos entrar? — perguntou Lívia, observando de longe, dentro do carro agora com o pneu trocado. — Eles vão atirar em qualquer coisa que se mova.
+— Como vamos entrar? — perguntou Elena, observando de longe, dentro do carro agora com o pneu trocado. — Eles vão atirar em qualquer coisa que se mova.
 
 — Pela entrada de detentos — disse Gabo. — Fica nos fundos. A fechadura é mecânica, velha. Ninguém usa há anos porque os drones faziam o transporte.
 
@@ -33,7 +33,7 @@ Jonas pulou da cadeira, derrubando o rádio. Ele levou a mão ao coldre, mas par
 
 — Moretti... — Jonas engoliu em seco. — Você... você está vivo.
 
-— Infelizmente para você. — Gabo entrou na sala, mancando. Lívia e Val cobriram a retaguarda. — Vendendo a delegacia para o Sindicato? Depois de tudo?
+— Infelizmente para você. — Gabo entrou na sala, mancando. Elena e Val cobriram a retaguarda. — Vendendo a delegacia para o Sindicato? Depois de tudo?
 
 — Não tem mais delegacia, Gabo! — gritou Jonas, o suor escorrendo pela careca. — Acabou! A Aeterna caiu. O Sindicato está vindo. Eles vão massacrar a gente. Eu só estou tentando salvar...
 

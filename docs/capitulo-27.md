@@ -3,7 +3,7 @@ image: /capitulo_27.jpg
 ---
 # Capítulo 27: O Filho Sacrifica o Pai
 
-A sala de servidores era um pandemônio. Lasers das torres de defesa cortavam o ar, transformando os racks de metal em queijo suíço. Valéria, com o ombro sangrando, digitava freneticamente em um console, tentando criar uma brecha. Lívia a cobria, seus tiros precisos cegando os sensores ópticos de uma torre por vez.
+A sala de servidores era um pandemônio. Lasers das torres de defesa cortavam o ar, transformando os racks de metal em queijo suíço. Valéria, com o ombro sangrando, digitava freneticamente em um console, tentando criar uma brecha. Elena a cobria, seus tiros precisos cegando os sensores ópticos de uma torre por vez.
 
 Gabo não via nada disso. Seu mundo se resumia ao cilindro de vidro no centro da sala e ao homem flutuando lá dentro.
 
@@ -27,7 +27,7 @@ Gabo congelou. A mão dele tremia.
 
 — **Eu não quero morrer de novo, Gabriel** — a voz choramingou. — **Aqui... eu ainda existo. Eu vejo seus passos, eu ouço suas vitórias. Eu tenho orgulho de você. Se você desligar... será o nada. O silêncio. Por favor, filho. Tenha piedade.**
 
-Lívia olhou para Gabo, o rosto contorcido em agonia. — Gabo, não escuta! É a máquina!
+Elena olhou para Gabo, o rosto contorcido em agonia. — Gabo, não escuta! É a máquina!
 
 — Não é! — gritou Gabo, lágrimas escorrendo pelo seu rosto. — Sou eu, pai. Sou eu.
 
@@ -59,7 +59,7 @@ O Blackout.
 
 Gabo se levantou, vazio por dentro. Ele olhou para a janela, para a cidade agora cega.
 
-— E agora? — perguntou Lívia, a voz suave na escuridão.
+— E agora? — perguntou Elena, a voz suave na escuridão.
 
 — Agora... — disse Gabo, a voz quebrada, mas com um fio de aço por baixo. — Agora nós o honramos. Vivendo. De verdade.
 

@@ -11,13 +11,13 @@ Gabo estava no saguão, usando um megafone que achara no arsenal.
 
 — Escutem! — Sua voz ecoou, rouca e autoritária. — Eles acham que porque as luzes apagaram, a lei acabou. Eles acham que somos presas fáceis. Jonas ia vender vocês. Eu não vou.
 
-Os policiais olharam para Jonas, que estava encolhido em um canto, desarmado sob a vigilância de Lívia. Depois olharam para Gabo.
+Os policiais olharam para Jonas, que estava encolhido em um canto, desarmado sob a vigilância de Elena. Depois olharam para Gabo.
 
 — Nós temos munição — continuou Gabo. — Temos paredes grossas. E temos algo que eles não têm: disciplina. Ninguém entra aqui. Ninguém passa por essa porta. Hoje, nós desenhamos a linha.
 
 Um rugido de aprovação subiu dos homens cansados. Era desesperado, mas era real.
 
-— Posições! — gritou Lívia, assumindo o comando tático com naturalidade. — Atiradores no segundo andar! Contenção no saguão! Equipe Charlie, cubra os fundos!
+— Posições! — gritou Elena, assumindo o comando tático com naturalidade. — Atiradores no segundo andar! Contenção no saguão! Equipe Charlie, cubra os fundos!
 
 O tiroteio começou instantes depois. Foi ensurdecedor. Balas picavam a fachada da delegacia, arrancando pedaços de concreto. Vidros estilhaçavam.
 
@@ -29,9 +29,9 @@ Gabo se posicionou atrás de uma coluna no saguão, a "Vilha" pronta.
 
 Gabo olhou pela fresta da barricada. Um caminhão de lixo blindado com chapas de aço acelerava pela rua deserta, direto para as portas principais.
 
-— Lívia! O lançador de gás! — gritou Gabo.
+— Elena! O lançador de gás! — gritou Gabo.
 
-Lívia apareceu na varanda interna do segundo andar, com um lançador de granadas de gás lacrimogêneo de 40mm.
+Elena apareceu na varanda interna do segundo andar, com um lançador de granadas de gás lacrimogêneo de 40mm.
 
 — Coma isso! — gritou ela, disparando.
 

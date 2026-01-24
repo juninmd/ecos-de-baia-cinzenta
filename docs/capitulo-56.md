@@ -13,7 +13,7 @@ Em sua mão, um pedaço de papel amassado. A letra era cursiva, elegante, inconf
 
 *"Não me procure. O que eu carrego é grande demais para ser escondido em um porão. Preciso levar isso para fora da cúpula, para onde a Aeterna não pode apagar os arquivos. Cuide de Aria. Ela é a chave, Gabo. E, por favor, tente não morrer. — L."*
 
-Lívia tinha ido. Partira no último comboio de refugiados clandestinos, misturada entre os desesperados que vendiam tudo o que tinham por um lugar em um caminhão de carga rumo às Terras Altas. Era melhor assim. Ela era um alvo agora, e tê-la por perto era garantir uma bala na cabeça de ambos.
+Elena tinha ido. Partira no último comboio de refugiados clandestinos, misturada entre os desesperados que vendiam tudo o que tinham por um lugar em um caminhão de carga rumo às Terras Altas. Era melhor assim. Ela era um alvo agora, e tê-la por perto era garantir uma bala na cabeça de ambos.
 
 Mas ela tinha deixado algo para trás. Ou melhor, alguém.
 

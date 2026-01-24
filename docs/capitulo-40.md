@@ -5,7 +5,7 @@ image: /capitulo_40.jpg
 
 O Cemitério dos Esquecidos parecia mais abandonado do que nunca. Sem os drones de manutenção, o mato já começava a crescer sobre as lápides digitais apagadas.
 
-Gabo estava diante do túmulo de Dante Moretti. O verdadeiro túmulo, onde jaziam os restos mortais que ele recuperara da Torre no dia anterior, antes de fugir. Foi uma cerimônia rápida, só ele, Lívia e Val.
+Gabo estava diante do túmulo de Dante Moretti. O verdadeiro túmulo, onde jaziam os restos mortais que ele recuperara da Torre no dia anterior, antes de fugir. Foi uma cerimônia rápida, só ele, Elena e Val.
 
 — Você conseguiu, pai — disse Gabo para a terra revirada. — A chuva parou.
 
@@ -29,7 +29,7 @@ Gabo pegou o binóculo.
 
 Uma parede de nuvens roxas se erguia sobre o mar, avançando rápido em direção à costa. Era colossal. Relâmpagos vermelhos dançavam dentro da massa de nuvens.
 
-— O que é aquilo? — perguntou Lívia.
+— O que é aquilo? — perguntou Elena.
 
 — Um super-ciclone — disse Val, a voz trêmula. — Sem a rede de satélites para dissipar... ele está vindo com força total. Gabo, o barômetro do carro caiu para níveis impossíveis.
 

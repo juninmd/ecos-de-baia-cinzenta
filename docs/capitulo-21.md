@@ -17,11 +17,11 @@ Gabo correu, ignorando a discrição. Ele subiu as escadas de três em três deg
 
 A porta do apartamento estava arrombada.
 
-Lá dentro, o caos. Móveis quebrados, livros rasgados. E no meio da sala, sentada em uma cadeira, amarrada e amordaçada, estava Lívia.
+Lá dentro, o caos. Móveis quebrados, livros rasgados. E no meio da sala, sentada em uma cadeira, amarrada e amordaçada, estava Elena.
 
 Sua ex-esposa.
 
-— Lívia! — Gabo correu para desamarrá-la.
+— Elena! — Gabo correu para desamarrá-la.
 
 Mas ela negou com a cabeça freneticamente, os olhos arregalados de terror. Ela olhou para o peito.
 
@@ -39,7 +39,7 @@ Valéria entrou no apartamento, ofegante. Ela viu a bomba.
 
 — C4 com detonador de mercúrio — diagnosticou ela instantaneamente. — Se mexer, explode. Se o tempo acabar, explode.
 
-Gabo tirou a mordaça de Lívia.
+Gabo tirou a mordaça de Elena.
 
 — Gabo, sai daqui! — ela gritou, a voz rouca pelo pânico. — É uma armadilha! Eles querem te atrasar!
 
@@ -51,13 +51,13 @@ Valéria ajoelhou-se, seus aprimoramentos ópticos brilhando enquanto escaneava 
 
 — Temos quatro — disse Gabo, o maxilar travado.
 
-Lívia sacudiu a cabeça, lágrimas escorrendo por seu rosto.
+Elena sacudiu a cabeça, lágrimas escorrendo por seu rosto.
 
 — Não, Gabo. Por favor. A cidade... o que você começou... é maior do que eu. É maior do que nós. Vá. Me deixe.
 
 Gabo parou de analisar a bomba e olhou nos olhos dela. O caos do apartamento, o tique-taque do relógio, tudo desapareceu. Havia uma aceitação terrível em seu rosto, uma que ele se recusava a espelhar.
 
-— Eu já perdi tudo uma vez, Lívia. Perdi meu parceiro, minha carreira, perdi você. Não vou perder mais ninguém. Se esta cidade precisa de um mártir, que seja eu. Mas não vou deixar você para trás.
+— Eu já perdi tudo uma vez, Elena. Perdi meu parceiro, minha carreira, perdi você. Não vou perder mais ninguém. Se esta cidade precisa de um mártir, que seja eu. Mas não vou deixar você para trás.
 
 Ele se virou para Valéria, uma nova determinação queimando em seus olhos.
 
@@ -75,7 +75,7 @@ Ele olhou para o sensor de mercúrio. Era pequeno, delicado. Se o jato de gás e
 
 — Gabo, isso vai necrose seus dedos!
 
-— Melhor os dedos do que a Lívia. Corta o fio vermelho quando eu der o sinal. Se explodir, eu levo o impacto.
+— Melhor os dedos do que a Elena. Corta o fio vermelho quando eu der o sinal. Se explodir, eu levo o impacto.
 
 Gabo não esperou. Ele agarrou o sensor com a mão esquerda nua e aplicou o gás. A dor foi imediata, como se mil agulhas de vidro perfurassem sua pele. O frio queimava mais que fogo. Ele viu a pele dos dedos ficar branca, depois cinza.
 
@@ -101,9 +101,9 @@ Um silêncio ensurdecedor.
 
 O display se apagou. A luzinha vermelha piscou uma última vez e morreu.
 
-Gabo caiu de joelhos, o ar saindo de seus pulmões num silvo. Ele não abraçou Lívia imediatamente. Ele apenas ficou ali, a cabeça baixa, o alívio tão pesado quanto o medo. Ele tinha escolhido. Ele tinha se recusado a sacrificar outra pessoa, mesmo que isso significasse o sacrifício de todos.
+Gabo caiu de joelhos, o ar saindo de seus pulmões num silvo. Ele não abraçou Elena imediatamente. Ele apenas ficou ali, a cabeça baixa, o alívio tão pesado quanto o medo. Ele tinha escolhido. Ele tinha se recusado a sacrificar outra pessoa, mesmo que isso significasse o sacrifício de todos.
 
-Lívia, soluçando, conseguiu se desvencilhar das cordas soltas. Ela não o abraçou. Em vez disso, pegou uma pasta escondida sob a cadeira.
+Elena, soluçando, conseguiu se desvencilhar das cordas soltas. Ela não o abraçou. Em vez disso, pegou uma pasta escondida sob a cadeira.
 
 — Eles não vieram só por mim, Gabo. Vieram por isto.
 
@@ -121,7 +121,7 @@ Gabo olhou para a janela, para a silhueta da Torre contra o céu doente. A verda
 
 — Ele não é o vilão. Ele é a bateria. O Gamemaster o está usando.
 
-Ele se levantou, o corpo dolorido, mas a mente afiada. Beijou a testa de Lívia, um gesto rápido, final.
+Ele se levantou, o corpo dolorido, mas a mente afiada. Beijou a testa de Elena, um gesto rápido, final.
 
 — Fique aqui. Tranque tudo.
 

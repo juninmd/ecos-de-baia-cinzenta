@@ -9,7 +9,7 @@ O contraste era brutal. Eles saíram do esgoto vitoriano diretamente para o futu
 
 O alarme começou a tocar. Não uma sirene estridente, mas um pulso sonoro grave e luzes vermelhas que giravam suavemente. A Aeterna era elegante até em suas emergências.
 
-— Eles sabem que estamos aqui — disse Lívia.
+— Eles sabem que estamos aqui — disse Elena.
 
 — Ótimo — disse Gabo. — Cansei de me esconder.
 
@@ -25,7 +25,7 @@ Eles correram pelo corredor. Portas laterais se abriram e drones de segurança �
 
 — Abaixa! — gritou Gabo.
 
-Ele e Lívia abriram fogo. O corredor virou uma zona de guerra de luzes estroboscópicas e balas traçantes. Valéria corria agachada, hackeando as portas para fechá-las na cara dos reforços que chegavam.
+Ele e Elena abriram fogo. O corredor virou uma zona de guerra de luzes estroboscópicas e balas traçantes. Valéria corria agachada, hackeando as portas para fechá-las na cara dos reforços que chegavam.
 
 Eles chegaram ao saguão do elevador de carga. Era uma plataforma enorme, capaz de levantar caminhões.
 
@@ -45,7 +45,7 @@ Gabo puxou o gatilho.
 
 A ogiva de concussão atingiu o chão no meio do esquadrão. A explosão não foi de fogo, mas de força pura. Os guardas foram arremessados como bonecos de pano contra as paredes. A onda de choque estourou os vidros do saguão.
 
-— Entrem! — Gabo correu para a plataforma, puxando Lívia.
+— Entrem! — Gabo correu para a plataforma, puxando Elena.
 
 Valéria correu para o painel do elevador e conectou seu deck.
 
@@ -55,7 +55,7 @@ A plataforma deu um solavanco e começou a ascender rapidamente pelo poço gigan
 
 Eles viam os andares passando como borrões. Escritórios, laboratórios, servidores.
 
-— Estamos indo para o topo? — gritou Lívia sobre o vento do poço.
+— Estamos indo para o topo? — gritou Elena sobre o vento do poço.
 
 — Para a Antena — disse Gabo. — Nível 100.
 
@@ -69,7 +69,7 @@ Gabo olhou para cima. O poço continuava por mais vinte andares na escuridão.
 
 — Tem uma escada de manutenção — disse ele, apontando para a lateral do poço.
 
-— Vinte andares? — Lívia olhou para cima, desanimada.
+— Vinte andares? — Elena olhou para cima, desanimada.
 
 — É melhor do que esperar aqui para sermos alvos de tiro ao alvo — disse Gabo.
 
@@ -81,7 +81,7 @@ Drones de combate pesados, do tamanho de motos, desciam em formação de ataque.
 
 — Subam! — ordenou Gabo. — Eu dou cobertura!
 
-Lívia e Valéria pularam para a escada de metal na parede do poço. Gabo ficou na plataforma, recarregando a "Mara" com sua última cápsula de nitrogênio.
+Elena e Valéria pularam para a escada de metal na parede do poço. Gabo ficou na plataforma, recarregando a "Mara" com sua última cápsula de nitrogênio.
 
 — Venham, seus liquidificadores voadores! — desafiou ele.
 
@@ -99,21 +99,21 @@ Ele ia cair. Oitenta andares de vazio.
 
 — GABRIEL!
 
-Uma mão agarrou seu pulso esquerdo. Lívia. Ela estava debruçada na escada, segurando-o com uma força que ele não sabia que ela tinha. Valéria segurava as pernas de Lívia.
+Uma mão agarrou seu pulso esquerdo. Elena. Ela estava debruçada na escada, segurando-o com uma força que ele não sabia que ela tinha. Valéria segurava as pernas de Elena.
 
-— Eu peguei você! — gritou Lívia, puxando-o. — Não se atreva a soltar!
+— Eu peguei você! — gritou Elena, puxando-o. — Não se atreva a soltar!
 
-Gabo encontrou apoio para os pés, ofegante, o suor frio misturando-se à fuligem em seu rosto. Ele olhou para cima. Lívia, a mulher que ele jurou proteger, estava salvando sua vida.
+Gabo encontrou apoio para os pés, ofegante, o suor frio misturando-se à fuligem em seu rosto. Ele olhou para cima. Elena, a mulher que ele jurou proteger, estava salvando sua vida.
 
 — Só mais vinte andares — disse ele, a voz trêmula. — Acho que vou precisar de ajuda.
 
-— Estamos juntos nessa — disse Lívia.
+— Estamos juntos nessa — disse Elena.
 
 A plataforma onde ele estava cedeu com os danos e despencou oitenta andares para a escuridão abaixo, colidindo com o fundo em um estrondo distante.
 
-Gabo olhou para baixo, depois para cima, onde Lívia e Valéria o esperavam, ofegantes. Ele começou a subir, um degrau de cada vez. Cada movimento do braço direito era uma tortura. A dor era uma faca quente girando na articulação, e seus dedos ameaçavam se soltar a cada novo apoio. Ele subia principalmente com a força do braço esquerdo e das pernas, o direito servindo apenas como um gancho instável.
+Gabo olhou para baixo, depois para cima, onde Elena e Valéria o esperavam, ofegantes. Ele começou a subir, um degrau de cada vez. Cada movimento do braço direito era uma tortura. A dor era uma faca quente girando na articulação, e seus dedos ameaçavam se soltar a cada novo apoio. Ele subia principalmente com a força do braço esquerdo e das pernas, o direito servindo apenas como um gancho instável.
 
-— Gabo, você está bem? — gritou Lívia, vendo seu progresso lento e doloroso.
+— Gabo, você está bem? — gritou Elena, vendo seu progresso lento e doloroso.
 
 — Ótimo — ele ofegou, o sarcasmo uma máscara fina sobre a dor. — Só mais vinte andares de aquecimento.
 

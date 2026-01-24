@@ -1,4 +1,3 @@
-# Guia de Arte e Geração de Imagens - Baía Cinzenta
 
 Este documento estabelece o fluxo de trabalho ("workflow") e os padrões visuais para a geração de imagens do universo de **Baía Cinzenta**.
 

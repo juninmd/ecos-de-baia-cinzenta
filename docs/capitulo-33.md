@@ -5,11 +5,11 @@ image: /capitulo_33.jpg
 
 A cidade sem luz era uma criatura diferente, um labirinto de concreto e sombras. O que antes eram becos familiares agora eram abismos impenetráveis. A chuva caía mais pesada, lavando a fuligem de uma era que acabara de morrer.
 
-Gabo, Lívia e Val avançavam rente às paredes de tijolo molhado. A única luz vinha da lanterna tática da pistola de Lívia, um feixe solitário que cortava a escuridão como uma lâmina cirúrgica.
+Gabo, Elena e Val avançavam rente às paredes de tijolo molhado. A única luz vinha da lanterna tática da pistola de Elena, um feixe solitário que cortava a escuridão como uma lâmina cirúrgica.
 
 — Precisamos do carro — disse Gabo, parando para respirar, a dor no joelho uma brasa latejante. — Deixei o Cobalt num estacionamento subterrâneo na Rua 4. Uma lata velha que ninguém daria valor.
 
-— Está a cinco quarteirões daqui — disse Lívia, seu mapa mental da cidade funcionando perfeitamente, ao contrário dos GPS inúteis. — É uma aposta.
+— Está a cinco quarteirões daqui — disse Elena, seu mapa mental da cidade funcionando perfeitamente, ao contrário dos GPS inúteis. — É uma aposta.
 
 — Mais arriscado que virar estatística? — retrucou Gabo. — Tenho suprimentos no porta-malas. E o mais importante: ele funciona sem a Rede.
 
@@ -21,9 +21,9 @@ O portão automático do estacionamento estava, como esperado, travado.
 
 — Sem energia, sem hack — disse ela, os dedos tateando a grade fria. — Se tivéssemos uma bateria de 12 volts, talvez eu pudesse dar um curto no motor da corrente.
 
-— Plano B — disse Gabo. — Lívia, sua vez.
+— Plano B — disse Gabo. — Elena, sua vez.
 
-Eles forçaram o portão de pedestres. Emperrado pela ferrugem, ele cedeu com um chute certeiro de Lívia no ponto certo.
+Eles forçaram o portão de pedestres. Emperrado pela ferrugem, ele cedeu com um chute certeiro de Elena no ponto certo.
 
 Desceram a rampa escura, o ar pesado com o cheiro de mofo, óleo e concreto úmido. Para Gabo, era o cheiro de um santuário. E lá no fundo, coberto por uma fina camada de poeira, estava ele: o Cobalt azul metálico. Uma relíquia. Um dinossauro.
 
@@ -41,7 +41,7 @@ O carro era burro. Não tinha conexão com a Rede, não tinha piloto automático
 
 — Ar condicionado! — gemeu Val, jogando-se no banco de trás.
 
-Lívia sentou no carona, a tensão em seus ombros diminuindo um pouco.
+Elena sentou no carona, a tensão em seus ombros diminuindo um pouco.
 
 — Para onde agora? Delegacia?
 

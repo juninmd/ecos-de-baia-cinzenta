@@ -7,7 +7,7 @@ Descer 28 andares de escada com uma perna quebrada e carregando uma pessoa ferid
 
 A escadaria era um pandemônio. Pessoas gritavam, empurravam, tropeçavam na escuridão quase total, quebrada apenas por flashes de celulares e lanternas de emergência fracas.
 
-— Saiam da frente! — gritava Lívia, usando a coronha da pistola para forçar passagem. — Polícia!
+— Saiam da frente! — gritava Elena, usando a coronha da pistola para forçar passagem. — Polícia!
 
 A palavra não significava mais nada. O pânico era a única autoridade ali.
 
@@ -19,13 +19,13 @@ No 15º andar, a multidão parou, espremida contra as portas corta-fogo. Trancad
 
 Ele colocou Val no chão com cuidado. Mancou até a porta. As dobradiças eram internas, o painel eletrônico, inútil.
 
-— Lívia, a "Vilha" — pediu ele, estendendo a mão.
+— Elena, a "Vilha" — pediu ele, estendendo a mão.
 
 — Sem munição — lembrou ela.
 
 — Não preciso de balas. Preciso de uma alavanca.
 
-Gabo encaixou o cano da escopeta na fresta da porta. Lívia o ajudou. Juntos, fizeram força, os músculos tensos. O metal gemeu em protesto.
+Gabo encaixou o cano da escopeta na fresta da porta. Elena o ajudou. Juntos, fizeram força, os músculos tensos. O metal gemeu em protesto.
 
 — Um... dois... TRÊS!
 

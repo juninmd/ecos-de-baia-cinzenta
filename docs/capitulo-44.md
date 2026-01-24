@@ -3,9 +3,9 @@ image: /capitulo_44.jpg
 ---
 # Capítulo 44: O Que Saiu do Ralo
 
-O depósito da Alfândega era um labirinto de containers empilhados. A água batia nos joelhos de Gabo e Lívia enquanto eles avançavam com as lanternas táticas.
+O depósito da Alfândega era um labirinto de containers empilhados. A água batia nos joelhos de Gabo e Elena enquanto eles avançavam com as lanternas táticas.
 
-— Ali — apontou Lívia. — Containers marcados com a cruz vermelha. Suprimentos médicos.
+— Ali — apontou Elena. — Containers marcados com a cruz vermelha. Suprimentos médicos.
 
 Eles avançaram. O silêncio era quebrado apenas pelo som da água e da chuva no telhado de zinco.
 
@@ -17,7 +17,7 @@ Algo estava se movendo na água à frente deles. Não era um saqueador. O movime
 
 Uma forma humanaoide emergiu de trás de um container. Tinha pele cinza, sem pelos. Guelras pulsavam no pescoço. Os olhos eram totalmente negros, sem esclera.
 
-— O que é isso? — sussurrou Lívia.
+— O que é isso? — sussurrou Elena.
 
 A criatura sibilou, abrindo uma boca cheia de dentes de agulha.
 
@@ -35,11 +35,11 @@ Mas outras surgiram. Três, quatro, cinco delas. Rastejando pelas laterais dos c
 
 — PEGA A PORRA DA CAIXA!
 
-Ele disparou de novo, explodindo a cabeça de um que tentava flanquear Lívia.
+Ele disparou de novo, explodindo a cabeça de um que tentava flanquear Elena.
 
 Eles eram rápidos, mas Gabo tinha o ódio. E uma calibre 12.
 
-Foi um massacre lamacento. Gabo recarregava e atirava num ritmo frenético, seu joelho gritando a cada recuo. Lívia arrastou duas caixas de suprimentos para o barco.
+Foi um massacre lamacento. Gabo recarregava e atirava num ritmo frenético, seu joelho gritando a cada recuo. Elena arrastou duas caixas de suprimentos para o barco.
 
 — VAMOS! — gritou ela, ligando o motor.
 

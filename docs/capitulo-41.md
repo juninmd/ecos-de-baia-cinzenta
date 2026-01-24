@@ -17,9 +17,9 @@ Um transporte escolar automatizado estava tombado, a água cobrindo as janelas. 
 
 Ele encostou o Cobalt o mais perto possível.
 
-— Lívia! Corda!
+— Elena! Corda!
 
-Lívia saiu pelo teto solar, jogando uma corda de reboque.
+Elena saiu pelo teto solar, jogando uma corda de reboque.
 
 — Amarrem nas crianças primeiro! — gritou ela.
 
@@ -35,6 +35,6 @@ Quando o último foi resgatado, o ônibus foi arrastado pela correnteza, batendo
 
 Gabo olhou para o retrovisor. O carro estava lotado, cheirando a cachorro molhado e medo.
 
-— Para onde? — perguntou Lívia.
+— Para onde? — perguntou Elena.
 
 — Para o único lugar alto e seco que nos resta — disse Gabo. — A Delegacia.

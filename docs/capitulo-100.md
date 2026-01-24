@@ -15,19 +15,19 @@ Ele desceu do carro, ajustando as cintas do exoesqueleto nas pernas. O *clique-c
 
 — Você demorou — disse uma voz vinda das sombras da bilheteria.
 
-Lívia Moretti saiu da escuridão. Ela não parecia mais a jornalista idealista que tentara salvar o legado do irmão. Seu cabelo estava curto, cortado irregularmente com faca. Ela vestia um casaco militar grande demais e botas pesadas cobertas de lama seca. Em suas mãos, uma espingarda de cano serrado.
+Elena Moretti saiu da escuridão. Ela não parecia mais a jornalista idealista que tentara salvar o legado do irmão. Seu cabelo estava curto, cortado irregularmente com faca. Ela vestia um casaco militar grande demais e botas pesadas cobertas de lama seca. Em suas mãos, uma espingarda de cano serrado.
 
 — O trânsito estava ruim — Gabo tentou sorrir, mas a dor nas pernas transformou a expressão em uma careta. — O apocalipse engarrafou a Avenida Central.
 
-Lívia não sorriu. Seus olhos varreram a rua deserta atrás dele.
+Elena não sorriu. Seus olhos varreram a rua deserta atrás dele.
 
 — Você trouxe?
 
-Gabo apontou para o carro. Lívia foi até lá, pegou o cubo e o examinou com uma intensidade quase religiosa.
+Gabo apontou para o carro. Elena foi até lá, pegou o cubo e o examinou com uma intensidade quase religiosa.
 
 — Elara estava certa — murmurou ela. — Eles conseguiram compactar.
 
-— Compactar o quê? — perguntou Gabo, aproximando-se. — O que é o Berçário, Lívia?
+— Compactar o quê? — perguntou Gabo, aproximando-se. — O que é o Berçário, Elena?
 
 Ela o encarou, e Gabo viu um medo profundo naqueles olhos, um medo que ele só vira em veteranos que encararam o "Santo" nos olhos.
 
@@ -39,11 +39,11 @@ Ela fez um sinal para que ele a seguisse. Eles pularam a catraca quebrada e come
 
 Eles caminharam pelos trilhos por quase uma hora. A escuridão era absoluta, quebrada apenas pelas lanternas táticas. O ar ficava mais quente e úmido à medida que desciam. O cheiro mudou. Não era mais esgoto. Cheirava a... estufa. Terra molhada e algo doce, enjoativo.
 
-— Estamos chegando — avisou Lívia.
+— Estamos chegando — avisou Elena.
 
 Eles pararam diante de uma porta blindada maciça, marcada com o logo da Aeterna e pichada com símbolos estranhos — espirais e olhos — feitos com tinta vermelha.
 
-— O sistema é isolado — disse Lívia, conectando um terminal portátil, uma relíquia cheia de fios expostos, ao painel da porta. — Sem wi-fi, sem bluetooth. Apenas cabo. Como nos velhos tempos.
+— O sistema é isolado — disse Elena, conectando um terminal portátil, uma relíquia cheia de fios expostos, ao painel da porta. — Sem wi-fi, sem bluetooth. Apenas cabo. Como nos velhos tempos.
 
 Ela digitou furiosamente. Gabo observou a tela verde monocromática.
 
@@ -51,7 +51,7 @@ Ela digitou furiosamente. Gabo observou a tela verde monocromática.
 
 — Não é uma senha. É uma localização. Eles esconderam o acesso na geografia da cidade.
 
-Lívia digitou: `BERCARIO`.
+Elena digitou: `BERCARIO`.
 
 O terminal bipou.
 
@@ -71,7 +71,7 @@ Ele se aproximou de um dos tanques. O vidro estava embaçado, mas ele limpou com
 
 Dentro, flutuando no líquido amniótico sintético, havia uma forma humanoide. Sem rosto, sem pele, apenas músculo exposto e fios metálicos entrelaçados nas fibras.
 
-— Protótipos — disse Lívia, parando ao lado dele. — "Carne Mecânica". É isso que o Silas Vance e os Jardineiros estão protegendo. Eles não estão cultivando plantas, Gabo. Estão cultivando anjos.
+— Protótipos — disse Elena, parando ao lado dele. — "Carne Mecânica". É isso que o Silas Vance e os Jardineiros estão protegendo. Eles não estão cultivando plantas, Gabo. Estão cultivando anjos.
 
 O chão estremeceu. Um som grave, como o bater de um tambor gigante, veio do casulo central.
 
@@ -79,13 +79,13 @@ O chão estremeceu. Um som grave, como o bater de um tambor gigante, veio do cas
 
 — Está vivo? — perguntou Gabo, sentindo o tremor nas pernas mecânicas.
 
-— Pior — respondeu Lívia, engatilhando a espingarda. — Está com fome. E nós acabamos de tocar a campainha do jantar.
+— Pior — respondeu Elena, engatilhando a espingarda. — Está com fome. E nós acabamos de tocar a campainha do jantar.
 
 Da escuridão atrás dos tanques, silhuetas começaram a se erguer. Elas não tinham o andar desajeitado dos robôs, nem a fluidez humana. Elas se moviam como aranhas, rápidas e silenciosas.
 
 Gabo sacou seu revólver. O cubo no bolso de seu casaco começou a vibrar violentamente, entrando em ressonância com o coração gigante.
 
-— Gabo — disse Lívia, a voz firme. — Se não sairmos daqui, nós viramos adubo.
+— Gabo — disse Elena, a voz firme. — Se não sairmos daqui, nós viramos adubo.
 
 — Então vamos fazer barulho — disse ele.
 

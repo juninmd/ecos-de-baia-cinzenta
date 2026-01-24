@@ -11,9 +11,9 @@ O silêncio após o grito eletrônico de Dante era mais pesado que qualquer som.
 
 O som não era de um vazamento, mas de um dilúvio. Das grades do teto, uma névoa amarelada começou a descer, não como fumaça, mas como um líquido pesado e denso, caindo em véus que engoliam a luz.
 
-— A porta! — gritou Lívia, correndo para a saída de serviço.
+— A porta! — gritou Elena, correndo para a saída de serviço.
 
-Gabo se forçou a ficar de pé, deixando o corpo do pai para trás. Não havia tempo para luto, apenas para sobrevivência. Ele se juntou a Lívia na porta, e os dois forçaram o metal. Travada.
+Gabo se forçou a ficar de pé, deixando o corpo do pai para trás. Não havia tempo para luto, apenas para sobrevivência. Ele se juntou a Elena na porta, e os dois forçaram o metal. Travada.
 
 — O desligamento do núcleo acionou o lockdown total! — disse Val, martelando o console com a mão boa. — Não consigo anular. É um bloqueio mecânico!
 
@@ -25,9 +25,9 @@ A névoa já cobria o terço superior da sala. O ar começou a ficar pesado, com
 
 Usando a coronha da escopeta e uma barra de metal que arrancaram de um painel, eles conseguiram arrebentar uma das grades. O buraco revelou um poço escuro e estreito, com uma escada de manutenção descendo para as entranhas da torre. O ar que subia de lá era frio e, por enquanto, limpo.
 
-— Eu vou primeiro — disse Lívia, já deslizando para dentro do duto. — Val, você vem no meio. Gabo, cubra a entrada.
+— Eu vou primeiro — disse Elena, já deslizando para dentro do duto. — Val, você vem no meio. Gabo, cubra a entrada.
 
-Valéria, com o rosto contorcido de dor pelo ombro ferido, seguiu Lívia. Gabo foi o último. Antes de descer, ele olhou uma última vez para o tanque quebrado. O corpo de Dante já estava quase submerso pela névoa amarela. Um túmulo químico para um rei digital.
+Valéria, com o rosto contorcido de dor pelo ombro ferido, seguiu Elena. Gabo foi o último. Antes de descer, ele olhou uma última vez para o tanque quebrado. O corpo de Dante já estava quase submerso pela névoa amarela. Um túmulo químico para um rei digital.
 
 Ele fechou a grade por cima deles, mergulhando o duto em escuridão total. O único som era o eco de suas respirações e o zumbido distante da sirene.
 
@@ -37,7 +37,7 @@ O espaço era apertado. O metal gelado da escada feria as mãos. O cheiro do gá
 
 Eles desciam às cegas, o pânico crescendo a cada degrau. O duto se ramificava, criando um labirinto vertical.
 
-— Val, para onde?! — gritou Lívia de baixo.
+— Val, para onde?! — gritou Elena de baixo.
 
 — Meu implante está sem rede! — respondeu Valéria, a voz abafada pelo pânico. — Não consigo ver a planta! Temos que adivinhar!
 

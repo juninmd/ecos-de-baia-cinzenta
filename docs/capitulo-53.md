@@ -65,11 +65,11 @@ Gabo olhou para a chuva lá fora. Dante não tinha apenas morrido. Ele tinha lut
 
 Horas depois, o esconderijo — o porão da antiga delegacia, agora convertida em base de operações da resistência — estava cheio.
 
-Lívia estava lá, organizando mapas físicos sobre uma mesa de bilhar. Dra. Nise ajustava os servos da perna de Gabo com uma chave inglesa. Maya "Glitch" Sato monitorava as frequências da polícia.
+Elena estava lá, organizando mapas físicos sobre uma mesa de bilhar. Dra. Nise ajustava os servos da perna de Gabo com uma chave inglesa. Maya "Glitch" Sato monitorava as frequências da polícia.
 
 — Estamos sozinhos nessa — disse Gabo, olhando para sua equipe heterogênea. — O Capitão Vilar está sob custódia domiciliar. A metade honesta da polícia foi demitida ou presa. Não podemos contar com reforços.
 
-— Melhor assim — disse Lívia. — Menos gente para trair a gente.
+— Melhor assim — disse Elena. — Menos gente para trair a gente.
 
 — Qual é o plano? — perguntou Val.
 
@@ -85,13 +85,13 @@ Marco Moretti. O Prefeito.
 
 O silêncio na sala foi pesado.
 
-— Seu irmão — disse Lívia.
+— Seu irmão — disse Elena.
 
 — Ele não é meu irmão — disse Gabo, a voz fria. — Ele é o homem que matou minha mãe para "limpar" a cidade. O plano dele é simples: inundar os Distritos Baixos, matar os "improdutivos", e reconstruir uma cidade de luxo sobre os nossos ossos. É a gentrificação final.
 
 — Precisamos fechar as comportas — disse Glitch. — Mas o sistema é isolado. *Air-gapped*. Não dá pra hackear daqui.
 
-— Então vamos até lá — disse Gabo. — Val, preciso que você prepare os drones para criar uma distração cega. Lívia, você vai vazar os documentos da Aeterna para a imprensa internacional assim que começarmos. Nise, preciso de estimulantes. Muitos.
+— Então vamos até lá — disse Gabo. — Val, preciso que você prepare os drones para criar uma distração cega. Elena, você vai vazar os documentos da Aeterna para a imprensa internacional assim que começarmos. Nise, preciso de estimulantes. Muitos.
 
 — E você? — perguntou Val.
 

@@ -7,7 +7,7 @@ Não havia internet para vazar os documentos. Não havia telejornais. A "Mídia"
 
 Então eles fizeram do jeito antigo.
 
-Gabo, Lívia e Val usaram a impressora offset da delegacia, uma relíquia barulhenta que cheirava a óleo. Imprimiram milhares de cópias do resumo do Dossiê Vance. Fotos dos experimentos. Gráficos de lucro sobre as mortes. E-mails de Elara Vance confessando o controle populacional.
+Gabo, Elena e Val usaram a impressora offset da delegacia, uma relíquia barulhenta que cheirava a óleo. Imprimiram milhares de cópias do resumo do Dossiê Vance. Fotos dos experimentos. Gráficos de lucro sobre as mortes. E-mails de Elara Vance confessando o controle populacional.
 
 Eles distribuíram os panfletos. De mão em mão. Colaram nos postes. Jogaram de cima dos viadutos.
 
@@ -35,7 +35,7 @@ Ela cuspiu no chão, mas suas mãos tremiam.
 
 Gabo observou enquanto a colocavam na viatura.
 
-— Acabou, Gabo — disse Lívia, tocando o ombro dele.
+— Acabou, Gabo — disse Elena, tocando o ombro dele.
 
 — A Vance caiu — disse ele. — Mas a Aeterna é maior que ela. Eles virão.
 

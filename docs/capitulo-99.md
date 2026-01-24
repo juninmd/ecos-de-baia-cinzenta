@@ -119,6 +119,6 @@ Ele pegou sua bengala e se dirigiu à porta.
 
 Gabo parou na porta, a silhueta recortada contra a chuva que começava a cair lá fora.
 
-— A única pessoa que conhece o subsolo melhor que os ratos. Lívia.
+— A única pessoa que conhece o subsolo melhor que os ratos. Elena.
 
 A paz tinha acabado. A caçada recomeçava.

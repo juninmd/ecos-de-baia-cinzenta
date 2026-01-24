@@ -13,7 +13,7 @@ Na enfermaria improvisada (antiga sala de descanso dos oficiais), cinco criança
 
 — Precisamos de filtros de carvão ativado de grau industrial — disse Nise. — E atropina. Muita atropina.
 
-— Onde? — perguntou Lívia.
+— Onde? — perguntou Elena.
 
 — O Hospital Central está submerso — disse Val. — Mas tem o depósito da Alfândega no porto. Eles apreendiam cargas ilegais de suprimentos médicos. Fica no Nível 20. A água ainda não deve ter chegado lá.
 
@@ -25,14 +25,14 @@ Ele checou a carga da "Vilha". Dois cartuchos.
 
 — Eu vou — disse Gabo.
 
-— Eu vou junto — disse Lívia. — Você não consegue carregar caixas com esse joelho.
+— Eu vou junto — disse Elena. — Você não consegue carregar caixas com esse joelho.
 
 — E quem cuida do forte? — perguntou Gabo.
 
-— Jonas — disse Lívia. — É a chance dele de não ser um covarde por um dia.
+— Jonas — disse Elena. — É a chance dele de não ser um covarde por um dia.
 
 Jonas engoliu em seco, mas assentiu.
 
 — Tragam a atropina. Eu seguro as pontas.
 
-Gabo e Lívia saíram na chuva, entrando no barco inflável que tinham confiscado. O motor de popa tossiu e pegou. Eles navegaram pelas ruas que um dia foram asfalto, agora rios de morte negra.
+Gabo e Elena saíram na chuva, entrando no barco inflável que tinham confiscado. O motor de popa tossiu e pegou. Eles navegaram pelas ruas que um dia foram asfalto, agora rios de morte negra.

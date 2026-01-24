@@ -9,7 +9,7 @@ A dor na coluna de Gabo era um lembrete constante de sua mortalidade. Sem o exoe
 
 Ele estava sozinho no bar improvisado do esconderijo, tentando afogar a dor em uísque barato, quando ela entrou.
 
-Não era Val, nem Lívia. Era uma mulher que ele nunca tinha visto, mas que parecia conhecer cada um de seus pesadelos.
+Não era Val, nem Elena. Era uma mulher que ele nunca tinha visto, mas que parecia conhecer cada um de seus pesadelos.
 
 Ela usava um vestido vermelho que parecia líquido, deslizando sobre curvas perigosas. Seu cabelo platinado capturava a pouca luz do ambiente. O cheiro de jasmim sintético invadiu o ar viciado do porão.
 

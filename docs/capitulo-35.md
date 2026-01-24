@@ -5,9 +5,9 @@ image: /capitulo_35.jpg
 
 Eles não andaram mais de dois quilômetros. A explosão, como esperado, atraiu atenção indesejada.
 
-Ao entrarem na Avenida da Indústria, uma barreira de carros velhos e lixo bloqueava a passagem. Antes que Lívia pudesse sequer pensar em dar meia-volta, coquetéis molotov voaram das janelas dos prédios ao redor, explodindo no asfalto à frente e atrás do Cobalt.
+Ao entrarem na Avenida da Indústria, uma barreira de carros velhos e lixo bloqueava a passagem. Antes que Elena pudesse sequer pensar em dar meia-volta, coquetéis molotov voaram das janelas dos prédios ao redor, explodindo no asfalto à frente e atrás do Cobalt.
 
-— Emboscada! — gritou Lívia.
+— Emboscada! — gritou Elena.
 
 Pneus estouraram com o som seco de tiros de rifle. O carro derrapou e parou, um alvo fácil.
 
@@ -23,7 +23,7 @@ Ele se arrastou até o porta-malas ainda aberto. O lançador improvisado estava 
 
 Gabo pegou a arma e encheu os bolsos do sobretudo com cartuchos extras.
 
-— Lívia, cubra a esquerda! — gritou ele.
+— Elena, cubra a esquerda! — gritou ele.
 
 Ignorando a dor, Gabo se levantou. Um bandido correu em direção a eles, um facão brilhando sob a luz das chamas.
 
@@ -45,13 +45,13 @@ O medo na voz deles era palpável, mais eficaz que qualquer bala. Gabo recarrego
 
 — Apareçam! — desafiou Gabo, a voz um trovão. — Eu tenho chumbo para todos vocês!
 
-Um terceiro tentou flanquear pela direita. Lívia, fria e precisa, o derrubou com dois tiros de pistola no peito.
+Um terceiro tentou flanquear pela direita. Elena, fria e precisa, o derrubou com dois tiros de pistola no peito.
 
 O resto do bando, percebendo que o carro não valia a vida, bateu em retirada. O som de suas botas correndo ecoou e depois sumiu na escuridão.
 
 Gabo baixou a escopeta. O cano estava quente, e a chuva chiava ao tocar no metal.
 
-— Você está bem? — perguntou Lívia, recarregando sua arma.
+— Você está bem? — perguntou Elena, recarregando sua arma.
 
 — O pneu furou — reclamou Gabo, olhando para o pobre Cobalt. — Vou ter que trocar.
 
@@ -63,6 +63,6 @@ Ele cuspiu no chão, uma mistura de sangue e saliva.
 
 — Me ajuda com a roda. Precisamos sair daqui. Conheço um lugar. O bunker da Nise. Se há um lugar seguro e com suprimentos médicos nesta cidade, é lá.
 
-— Para quem? — perguntou Lívia, encaixando o macaco.
+— Para quem? — perguntou Elena, encaixando o macaco.
 
 — Para a única pessoa que pode remendar meu joelho sem fazer perguntas — disse Gabo, olhando para o norte. — A Dra. Nise. Espero que o hospital dela ainda esteja de pé.
