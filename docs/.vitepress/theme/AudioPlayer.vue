@@ -217,17 +217,23 @@ const speakSegment = () => {
   // Check if finished
   if (currentSegmentIndex.value >= segments.value.length) {
     const isContinuous = getStorage()
-    console.log('[AudioPlayer] Finished segments. Continuous:', isContinuous, 'Next:', page.value.next)
 
-    if (isContinuous && page.value.next) {
-        console.log('[AudioPlayer] Showing modal and scheduling navigation...')
+    // Check for next page availability (both from metadata and DOM)
+    const nextLinkEl = typeof document !== 'undefined' ? document.querySelector('.pager-link.next') : null
+    const hasNextPage = page.value.next || nextLinkEl
+
+    if (isContinuous && hasNextPage) {
         showNavigationModal.value = true
+
+        // Force update just in case reactivity is lagging
+        nextTick(() => {
+          showNavigationModal.value = true
+        })
+
         setTimeout(() => {
-            const nextLink = document.querySelector('.pager-link.next')
-            console.log('[AudioPlayer] Navigating. Link found:', !!nextLink)
-            if (nextLink) {
-                nextLink.click()
-            } else {
+            if (nextLinkEl) {
+                nextLinkEl.click()
+            } else if (page.value.next) {
                 router.go(page.value.next.link)
             }
         }, 3000)
