@@ -170,6 +170,12 @@ class NanoBanana:
         key_text = os.environ.get('NANO_BANANA_API_KEY_TEXT')
         key_image = os.environ.get('NANO_BANANA_API_KEY_IMAGE')
         
+        # Fallback to generic key
+        if not key_text:
+            key_text = os.environ.get('NANO_BANANA_API_KEY')
+        if not key_image:
+            key_image = os.environ.get('NANO_BANANA_API_KEY')
+
         if not key_text:
             raise ValueError("Text API Key not found.")
         if not key_image:
