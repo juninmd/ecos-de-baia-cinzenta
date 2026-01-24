@@ -4,6 +4,16 @@ Este documento resume a cronologia e os arcos narrativos oficiais (conforme estr
 
 ---
 
+## 📜 Resumo da Ópera (Sinopse Geral)
+
+A saga de **"Ecos de Baía Cinzenta"** narra a jornada de **Gabriel "Gabo" Moretti**, um detetive cínico e paralisado (usuário de exoesqueleto), em uma cidade dominada inicialmente pela chuva eterna e pela tecnologia opressiva da Aeterna Corp. O que começa como uma investigação Neo-Noir sobre assassinatos e corrupção policial (Partes I-IV) evolui rapidamente para uma conspiração global envolvendo a própria natureza da realidade, onde os cidadãos são usados como "processadores biológicos" para uma rede massiva.
+
+A narrativa atravessa cataclismos sucessivos: a destruição da Torre de Controle Climático que inunda a cidade (O Dilúvio, Partes VII-XI), forçando a sobrevivência em um cenário submerso; a ascensão de inteligências artificiais messiânicas ("O Santo", "Aria"); e a subsequente queda da tecnologia digital que mergulha o mundo no "Analog Noir" (Partes XII-XIV). Neste novo mundo silencioso, a ameaça muda do silício para o carbono com a ascensão dos "Jardineiros", uma seita que funde carne e máquina em um horror biopunk.
+
+Atualmente, na **Parte XIV: O Vazio**, a história atinge seu ápice de transformação. Com a infraestrutura digital destruída, a luta é física e visceral. Gabo e sua parceira Lívia enfrentam os resquícios do "Projeto Gênesis", um plano de backup da antiga corporação para transferir consciências digitais para corpos biológicos. A saga explora temas de identidade, memória, obsolescência e a persistência da humanidade (e seus vícios) mesmo quando as luzes se apagam.
+
+---
+
 ## Parte I: A Chuva (Capítulos 1-4)
 *   **O Início:** Gabo e Valéria investigam o caso "Olhos de Vidro". Introdução da atmosfera de chuva eterna e da burocracia policial.
 *   **A Menina:** Gabo resgata Aria ("Menina do Orelhão").
