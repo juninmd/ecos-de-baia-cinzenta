@@ -7,6 +7,11 @@ on:
         description: 'Chapter Number to generate art for (e.g., 102)'
         required: true
         type: string
+      style:
+        description: 'Optional style/prompt modifier'
+        required: false
+        type: string
+        default: ''
 
 jobs:
   generate-art:
@@ -28,7 +33,7 @@ jobs:
         env:
           NANO_BANANA_API_KEY: ${{ secrets.NANO_BANANA_API_KEY }}
         run: |
-          python3 scripts/nano_banana_gen.py ${{ inputs.chapter }}
+          python3 scripts/nano_banana_gen.py ${{ inputs.chapter }} --style "${{ inputs.style }}"
 
       - name: Config Git
         run: |

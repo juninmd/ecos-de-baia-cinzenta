@@ -184,6 +184,7 @@ module.exports = {
           { text: 'Capítulo 100: O Ventre da Besta', link: '/capitulo-100' },
           { text: 'Capítulo 101: Ressonância', link: '/capitulo-101' },
           { text: 'Capítulo 102: Raízes Amargas', link: '/capitulo-102' },
+          { text: 'Capítulo 103: A Convergência', link: '/capitulo-103' },
         ]
       },
       {

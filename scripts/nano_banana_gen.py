@@ -193,6 +193,7 @@ class NanoBanana:
 def main():
     parser = argparse.ArgumentParser(description="Generate Art for a Chapter using Nano Banana")
     parser.add_argument('chapter', type=int, help="Chapter number (e.g., 102)")
+    parser.add_argument('--style', type=str, help="Optional style/prompt modifier", default="")
     args = parser.parse_args()
 
     # Paths
@@ -227,7 +228,11 @@ def main():
     prompt = f"Digital Art, Cyberpunk Noir Style, High Contrast, Gritty Atmosphere.\n\n"
     prompt += f"SCENE CONTEXT:\n{summary[:500]}...\n\n"
     prompt += f"MAIN CHARACTER: {main_char['name']}\n{main_char['description']}\n"
-    prompt += "\nSTYLE: Analog photography aesthetic, rain-slicked streets, neon lights reflecting on wet surfaces."
+
+    if args.style:
+         prompt += f"\nSTYLE: {args.style}"
+    else:
+         prompt += "\nSTYLE: Analog photography aesthetic, rain-slicked streets, neon lights reflecting on wet surfaces."
 
     # Define Output Path
     output_filename = f"capitulo_{args.chapter}.jpg"
