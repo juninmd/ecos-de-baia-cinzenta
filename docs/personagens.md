@@ -348,3 +348,9 @@
 *   **Perfil Psicológico:** Sacrificial.
 *   **Função:** Guardiã Silenciosa.
 *   **Histórico:** Fundiu-se à "Grande Convergência" para anular o código genético do Projeto Gênesis. Embora sua interface direta tenha desaparecido ("O Silêncio"), sua essência permeia a infraestrutura básica, garantindo que o pesadelo digital não retorne.
+
+---
+
+### ⏳ Linha do Tempo
+
+*   **Capítulo 104:** Dante Moretti retorna à superfície em seu corpo biológico (Projeto Gênesis). Gabo e Lívia testemunham sua interação fria e calculista com o Inspetor Rangel. Dante assume o controle da infraestrutura física da cidade, sinalizando o fim da era do "Vazio".
