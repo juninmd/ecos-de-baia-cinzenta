@@ -1,5 +1,5 @@
 ---
-image: /gabo-compra-cafe.jpeg
+image: /capitulo_2.jpg
 ---
 # Capítulo 2: Náufragos de Concreto
 
