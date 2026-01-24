@@ -14,6 +14,7 @@ const rate = ref(1) // Changed default to 1x
 const availableVoices = shallowRef([])
 const selectedVoice = shallowRef(null)
 const statusMessage = ref('')
+const showNavigationModal = ref(false)
 
 // Chunking state
 const segments = shallowRef([])
@@ -86,6 +87,7 @@ const _stop = () => {
     isPaused.value = false
     currentSegmentIndex.value = 0
     statusMessage.value = ''
+    showNavigationModal.value = false
     clearHighlights()
   }
 }
@@ -203,7 +205,7 @@ const speakSegment = () => {
   // Check if finished
   if (currentSegmentIndex.value >= segments.value.length) {
     if (getStorage() && page.value.next) {
-        statusMessage.value = 'Próximo capítulo em 3s...'
+        showNavigationModal.value = true
         setTimeout(() => {
             router.go(page.value.next.link)
         }, 3000)
@@ -373,6 +375,13 @@ const pause = () => {
     <div v-if="(isPlaying || statusMessage) && segments.length > 0" class="progress-container">
         <div class="progress-fill" :style="{ width: ((currentSegmentIndex / segments.length) * 100) + '%' }"></div>
     </div>
+
+    <div v-if="showNavigationModal" class="navigation-modal-overlay">
+      <div class="navigation-modal">
+        <div class="spinner"></div>
+        <p>Carregando próximo capítulo...</p>
+      </div>
+    </div>
   </div>
 </template>
 
@@ -399,6 +408,47 @@ const pause = () => {
 </style>
 
 <style scoped>
+.navigation-modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.7);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 10000;
+  backdrop-filter: blur(5px);
+}
+
+.navigation-modal {
+  background-color: var(--vp-c-bg);
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.4);
+  text-align: center;
+  border: 1px solid var(--vp-c-brand);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+}
+
+.spinner {
+  width: 40px;
+  height: 40px;
+  border: 4px solid var(--vp-c-divider);
+  border-top: 4px solid var(--vp-c-brand);
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
 .progress-container {
   width: 100%;
   height: 4px;
