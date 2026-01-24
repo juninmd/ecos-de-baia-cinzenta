@@ -1,5 +1,5 @@
 <script setup>
-import { ref, onMounted, onUnmounted, watch, shallowRef, toRaw } from 'vue'
+import { ref, onMounted, onUnmounted, watch, shallowRef, toRaw, nextTick } from 'vue'
 import { useRoute, useData, useRouter } from 'vitepress'
 
 const route = useRoute()
@@ -73,6 +73,12 @@ const initSynth = () => {
   }
 }
 
+const clearHighlights = () => {
+  if (typeof document === 'undefined') return
+  const highlighted = document.querySelectorAll('.active-reading')
+  highlighted.forEach(el => el.classList.remove('active-reading'))
+}
+
 const _stop = () => {
   if (synth.value) {
     synth.value.cancel()
@@ -80,6 +86,7 @@ const _stop = () => {
     isPaused.value = false
     currentSegmentIndex.value = 0
     statusMessage.value = ''
+    clearHighlights()
   }
 }
 
@@ -88,13 +95,90 @@ const stop = () => {
   _stop()
 }
 
+// Function to attach markers and click listeners to paragraphs
+const attachParagraphListeners = () => {
+  if (typeof document === 'undefined') return
+
+  // Clean up old segments since we're re-parsing
+  segments.value = []
+
+  const paragraphs = document.querySelectorAll('.vp-doc p')
+  let segmentCounter = 0
+  const newSegments = []
+
+  paragraphs.forEach((p, index) => {
+    // Skip empty paragraphs
+    const text = p.innerText.trim()
+    if (!text) return
+
+    // Add play icon/marker if not present
+    if (!p.querySelector('.tts-marker')) {
+      const marker = document.createElement('span')
+      marker.className = 'tts-marker'
+      marker.innerHTML = ' ▶'
+      marker.title = 'Ouvir a partir daqui'
+      marker.style.cursor = 'pointer'
+      marker.style.color = 'var(--vp-c-brand)'
+      marker.style.opacity = '0.5'
+      marker.style.fontSize = '0.8em'
+      marker.style.marginLeft = '5px'
+
+      // Prevent selecting text when clicking marker
+      marker.style.userSelect = 'none'
+
+      marker.onclick = (e) => {
+        e.stopPropagation()
+        // Find the start index for this paragraph
+        const targetIndex = newSegments.findIndex(s => s.element === p)
+        if (targetIndex !== -1) {
+            startFromSegment(targetIndex)
+        }
+      }
+
+      p.appendChild(marker)
+    }
+
+    // Split paragraph text into chunks for better TTS handling
+    // We match sentences but keep them associated with this paragraph element
+    const rawChunks = text.match(/[^.?!:]+[.?!:]+/g) || [text]
+    const chunks = rawChunks.map(s => s.trim()).filter(s => s.length > 0)
+
+    chunks.forEach(chunk => {
+        newSegments.push({
+            text: chunk,
+            element: p,
+            originalIndex: index
+        })
+    })
+  })
+
+  segments.value = newSegments
+}
+
+const startFromSegment = (index) => {
+    // If playing, stop but don't reset everything completely (keep segments)
+    if (synth.value) synth.value.cancel()
+
+    updateStorage(true) // Ensure continuous mode is on if user manually clicks
+    currentSegmentIndex.value = index
+    isPlaying.value = true
+    isPaused.value = false
+    statusMessage.value = ''
+
+    speakSegment()
+}
+
 onMounted(() => {
   initSynth()
-  if (getStorage()) {
-    setTimeout(() => {
+
+  // Initial setup of markers
+  setTimeout(() => {
+    attachParagraphListeners()
+
+    if (getStorage()) {
         _play()
-    }, 500)
-  }
+    }
+  }, 500)
 })
 
 onUnmounted(() => {
@@ -103,25 +187,15 @@ onUnmounted(() => {
 
 watch(() => route.path, () => {
   _stop()
-  if (getStorage()) {
-    setTimeout(() => {
+  // Re-attach listeners on new page
+  setTimeout(() => {
+    attachParagraphListeners()
+    if (getStorage()) {
         _play()
-    }, 500)
-  }
+    }
+  }, 500)
 })
 
-const getText = () => {
-  const content = document.querySelector('.vp-doc')
-  return content ? content.innerText : ''
-}
-
-// Split text into meaningful chunks (sentences) to avoid browser timeouts
-const chunkText = (text) => {
-  // Split by common sentence terminators but keep the punctuation
-  // This regex looks for (. ? ! or :) followed by whitespace
-  const rawSegments = text.match(/[^.?!:]+[.?!:]+/g) || [text]
-  return rawSegments.map(s => s.trim()).filter(s => s.length > 0)
-}
 
 const speakSegment = () => {
   if (!synth.value) return
@@ -139,11 +213,21 @@ const speakSegment = () => {
     isPlaying.value = false
     isPaused.value = false
     currentSegmentIndex.value = 0
+    clearHighlights()
     return
   }
 
-  const textSegment = segments.value[currentSegmentIndex.value]
-  const u = new SpeechSynthesisUtterance(textSegment)
+  const segment = segments.value[currentSegmentIndex.value]
+
+  // Highlight logic
+  clearHighlights()
+  if (segment.element) {
+    segment.element.classList.add('active-reading')
+    // Scroll into view if needed
+    segment.element.scrollIntoView({ behavior: 'smooth', block: 'center' })
+  }
+
+  const u = new SpeechSynthesisUtterance(segment.text)
   utterance.value = u
 
   // Ensure we use the user-selected voice
@@ -196,33 +280,31 @@ const _play = () => {
     return
   }
 
-  // If already playing, stop first to restart (or handle as "restart" logic)
-  if (isPlaying.value) {
-    _stop()
+  // If segments are empty (e.g. fresh load), ensure we have them
+  if (segments.value.length === 0) {
+    attachParagraphListeners()
   }
 
-  const text = getText()
-  if (!text) {
-    console.warn('AudioPlayer: Nenhum texto encontrado para ler.')
-    return
+  if (segments.value.length === 0) {
+      console.warn('AudioPlayer: Nenhum texto encontrado.')
+      return
   }
 
-  // Cancel any pending speech
-  synth.value.cancel()
-
-  // Initialize segments
-  segments.value = chunkText(text)
-  currentSegmentIndex.value = 0
   isPlaying.value = true
 
-  // Use a small timeout to allow cancel() to complete
-  setTimeout(() => {
-    speakSegment()
-  }, 50)
+  // If we are essentially restarting or just starting:
+  // If currentSegmentIndex is 0, start from beginning.
+  // If it is non-zero, it means we paused or selected a specific point.
+
+  speakSegment()
 }
 
 const play = () => {
   updateStorage(true)
+  // Check if we need to reset index (e.g. if we finished previously)
+  if (!isPlaying.value && !isPaused.value && currentSegmentIndex.value >= segments.value.length) {
+      currentSegmentIndex.value = 0
+  }
   _play()
 }
 
@@ -293,6 +375,28 @@ const pause = () => {
     </div>
   </div>
 </template>
+
+<style>
+/* Global styles for markers and highlighting */
+.active-reading {
+    background-color: rgba(255, 255, 0, 0.1); /* Subtle yellow highlight */
+    border-left: 3px solid var(--vp-c-brand);
+    padding-left: 8px;
+    transition: all 0.3s ease;
+}
+
+.tts-marker {
+    display: inline-block;
+    opacity: 0;
+    transition: opacity 0.2s ease;
+}
+
+.vp-doc p:hover .tts-marker {
+    opacity: 1 !important;
+}
+
+/* Ensure opacity is visible on mobile touches if needed, or leave as hover-only for clean UI */
+</style>
 
 <style scoped>
 .progress-container {

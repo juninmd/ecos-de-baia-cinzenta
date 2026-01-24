@@ -23,12 +23,34 @@ Este projeto é um laboratório vivo para medir a capacidade criativa de Intelig
 *   **A Supervisão:** Todo o conteúdo é revisado e supervisionado por **Antonio Carlos**.
 *   **O Objetivo:** Avaliar se uma IA consegue manter a coerência, o desenvolvimento de personagens e a atmosfera em uma narrativa de longa duração.
 
+## 🎧 Funcionalidades de Leitura Imersiva
+
+Para melhorar a acessibilidade e a imersão, o projeto conta com um **Player de Áudio (TTS)** personalizado:
+
+*   **Leitura Contínua:** Ao ativar o player, o sistema narra o capítulo atual e avança automaticamente para o próximo após uma breve pausa.
+*   **Navegação por Parágrafo:** Cada parágrafo possui um marcador oculto (visível ao passar o mouse ou clicar) que permite iniciar a leitura a partir daquele ponto exato.
+*   **Acompanhamento Visual:**
+    *   **Barra de Progresso:** Indica quanto do capítulo já foi narrado.
+    *   **Destaque de Leitura:** O parágrafo que está sendo lido é destacado visualmente para facilitar o acompanhamento.
+*   **Controles:** Pausa, Play, Stop, ajuste de velocidade (0.8x a 1.5x) e seleção de vozes (pt-BR).
+
+## 💻 Terminal do Sistema
+
+Pressione **`Ctrl + K`** ou clique no botão flutuante `_>` para acessar o **Terminal Lázaro**, uma interface CLI que permite explorar segredos do universo, verificar status de personagens e acessar arquivos confidenciais.
+
+Comandos disponíveis:
+- `status`: Exibe o status do sistema.
+- `personagens`: Lista o dossiê dos envolvidos.
+- `genesis`: [ACESSO RESTRITO]
+- `bercario`: [ACESSO RESTRITO - PERIGO BIOLÓGICO]
+
 ## 🏙️ O Universo
 
 O cenário é **Baía Cinzenta**, uma metrópole costeira assolada por chuva perpétua e desigualdade extrema.
 *   **Aeterna Corp:** A empresa que controla tudo, da energia à saúde.
 *   **Droga Lázaro:** O escapismo definitivo que custa a alma do usuário.
 *   **O Taxidermista:** Um serial killer que transforma vítimas em "arte".
+*   **O Vazio (Parte XIV):** A nova realidade da cidade, onde o silêncio reina e a tecnologia falha.
 
 Para mais detalhes sobre as regras do mundo, consulte a [Constituição do Universo (Lore)](docs/lore-do-livro.md).
 
