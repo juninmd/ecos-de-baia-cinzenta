@@ -1,0 +1,33 @@
+name: Nano Banana Art Generation
+
+on:
+  workflow_dispatch:
+    inputs:
+      chapter:
+        description: 'Chapter Number to generate art for (e.g., 102)'
+        required: true
+        type: string
+
+jobs:
+  generate-art:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Run Nano Banana Generator
+        env:
+          NANO_BANANA_API_KEY: ${{ secrets.NANO_BANANA_API_KEY }}
+        run: |
+          python3 scripts/nano_banana_gen.py ${{ inputs.chapter }}
+
+      - name: Upload Mock Artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: generated-art-chapter-${{ inputs.chapter }}
+          path: docs/public/generated_art_mock.png

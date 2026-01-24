@@ -2,6 +2,7 @@ import os
 import re
 import argparse
 import sys
+import shutil
 
 class CharacterDatabase:
     def __init__(self, filepath):
@@ -124,6 +125,13 @@ class ChapterContext:
 class NanoBanana:
     def __init__(self):
         print("🍌 Initializing Nano Banana Core...")
+        api_key = os.environ.get('NANO_BANANA_API_KEY')
+        if not api_key:
+            print("⚠️ WARNING: NANO_BANANA_API_KEY environment variable is not set!")
+            print("⚠️ Mock generation will proceed, but remote endpoints are unreachable.")
+        else:
+            print(f"🍌 API Key detected: {api_key[:4]}****")
+
         print("🍌 Loading Neural Models...")
         print("🍌 Status: READY.")
 
@@ -144,8 +152,19 @@ class NanoBanana:
         print("... Synthesizing Pixel Latents ...")
         print("... Refining Details (Cyber-Noir Filter) ...")
 
-        # Mock Output
-        output_path = "docs/public/generated_art_mock.png"
+        # Mock Output - Actually creating a dummy file now for artifacts
+        output_dir = "docs/public"
+        output_path = f"{output_dir}/generated_art_mock.png"
+
+        # Ensure directory exists
+        if not os.path.exists(output_dir):
+            os.makedirs(output_dir)
+
+        # Create a simple placeholder file
+        with open(output_path, 'wb') as f:
+            # Writing 1KB of null bytes as a dummy image
+            f.write(b'\x00' * 1024)
+
         print(f"\n✅ IMAGE GENERATED SUCCESSFULLY!")
         print(f"📂 Output saved to: {output_path} (Mock)")
         print("="*50 + "\n")
