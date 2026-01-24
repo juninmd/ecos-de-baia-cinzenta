@@ -67,10 +67,22 @@ const initSynth = () => {
       }
     }
 
+    // Force load voices immediately if available, otherwise wait for event
     loadVoices()
     if (speechSynthesis.onvoiceschanged !== undefined) {
       speechSynthesis.onvoiceschanged = loadVoices
     }
+
+    // Fallback: If after 1s no voices are loaded, just enable the UI anyway with default
+    // This fixes the "button disabled" issue if getVoices() is empty initially or fails
+    setTimeout(() => {
+        if (availableVoices.value.length === 0) {
+            console.warn('[AudioPlayer] No voices detected after timeout, enabling UI anyway.')
+            // Mock a default voice to enable UI
+            availableVoices.value = [{ name: 'Default Voice', lang: 'pt-BR' }]
+            selectedVoice.value = availableVoices.value[0]
+        }
+    }, 1000)
   }
 }
 
@@ -204,10 +216,15 @@ const speakSegment = () => {
 
   // Check if finished
   if (currentSegmentIndex.value >= segments.value.length) {
-    if (getStorage() && page.value.next) {
+    const isContinuous = getStorage()
+    console.log('[AudioPlayer] Finished segments. Continuous:', isContinuous, 'Next:', page.value.next)
+
+    if (isContinuous && page.value.next) {
+        console.log('[AudioPlayer] Showing modal and scheduling navigation...')
         showNavigationModal.value = true
         setTimeout(() => {
             const nextLink = document.querySelector('.pager-link.next')
+            console.log('[AudioPlayer] Navigating. Link found:', !!nextLink)
             if (nextLink) {
                 nextLink.click()
             } else {
@@ -381,12 +398,14 @@ const pause = () => {
         <div class="progress-fill" :style="{ width: ((currentSegmentIndex / segments.length) * 100) + '%' }"></div>
     </div>
 
-    <div v-if="showNavigationModal" class="navigation-modal-overlay">
-      <div class="navigation-modal">
-        <div class="spinner"></div>
-        <p>Carregando próximo capítulo...</p>
+    <Teleport to="body">
+      <div v-if="showNavigationModal" class="navigation-modal-overlay">
+        <div class="navigation-modal">
+          <div class="spinner"></div>
+          <p>Carregando próximo capítulo...</p>
+        </div>
       </div>
-    </div>
+    </Teleport>
   </div>
 </template>
 
