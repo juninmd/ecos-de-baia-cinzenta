@@ -9,7 +9,7 @@
 
 ## Gabriel "Gabo" Moretti
 
-![Gabriel "Gabo" Moretti](/docs/public/gabo.jpg)
+![Gabriel "Gabo" Moretti](/gabo.jpg)
 
 *   **Idade:** 30 anos
 *   **Altura:** 1,75m
@@ -67,48 +67,48 @@
 
 ---
 
-## Dante Moretti (In Memoriam / Ameaça Latente)
+## Dante Moretti - [STATUS: RESSURGIDO / HOSPEDEIRO BIOLÓGICO]
 
 ![Dante Moretti](/dante.jpg)
 
-*   **Status:** [FALECIDO / ID: 001 NO GÊNESIS]
-*   **Histórico:** Pai de Gabo e Comissário lendário. Morto anos atrás. Revelado no Capítulo 102 como o "Paciente Zero" ou "Prioridade Máxima" do Projeto Gênesis. O sistema aguarda um hospedeiro viável para baixar seu backup digital (contido no Cubo/Coroa que Gabo carrega).
+*   **Status:** [ATIVO / CONSCIÊNCIA DIGITAL EM CORPO BIOLÓGICO]
+*   **Histórico:** Pai de Gabo e Comissário lendário. Sua consciência, preservada digitalmente, foi baixada com sucesso para um corpo clonado perfeito durante a "Convergência" (Capítulo 103). Agora é uma entidade híbrida, possuindo o conhecimento da nuvem e a forma física de seu auge.
 
 ---
 
-## Roberto Miranda - [STATUS: REANIMADO / CYBORG BIOLÓGICO]
+## Roberto Miranda - [STATUS: DESTRUÍDO / INATIVO]
 
 ![Roberto Miranda](/roberto.jpg)
 
-*   **Idade:** Indefinida (Biomassa Reciclada)
-*   **Altura:** 1,85m (aumentada por próteses)
-*   **Porte Físico:** Fusão grotesca de carne humana, tecido sintético translúcido e maquinaria hidráulica.
-*   **Cabelo:** Ausente do lado esquerdo; o lado direito mantém o corte militar oleoso.
-*   **Olhos:** Um olho humano castanho, o outro substituído por um conjunto de sensores óticos vermelhos.
-*   **Marcas Distintivas:** Metade do corpo fundida à "Cadeira de Controle" do Berçário (conectada por tubos ao teto). Voz sintetizada, ecoando através do sistema de som.
-*   **Vestuário:** Nenhum convencional; envolto em cabos e polímeros biológicos.
-*   **Equipamento:** Acesso total aos sistemas de defesa do Berçário; controle sobre os "Protótipos".
-*   **Gostos/Traços:** Sádico, irônico e obcecado por poder. Mantém a memória de sua vida anterior mas sem a moralidade humana.
-*   **Perfil Psicológico:** Psicopata funcional. Vê sua condição atual não como uma maldição, mas como uma evolução forçada.
-*   **Função:** Guardião do Berçário / Executor do Gênesis.
-*   **Histórico:** Ex-parceiro de Gabo e assassino de Bia. Após ser dado como morto na Torre Aeterna, seu corpo (ou o que restou dele) foi recuperado pelos sistemas automatizados do Projeto Gênesis e "reciclado" para servir como interface biológica de segurança.
+*   **Idade:** Indefinida (Biomassa Inerte)
+*   **Altura:** 1,85m (destroçada)
+*   **Porte Físico:** Massa irreconhecível de carne e metal.
+*   **Cabelo:** Queimado.
+*   **Olhos:** Destruídos.
+*   **Marcas Distintivas:** Crânio esmagado pelo exoesqueleto de Gabo.
+*   **Vestuário:** Nenhum.
+*   **Equipamento:** Nenhum.
+*   **Gostos/Traços:** Silêncio eterno.
+*   **Perfil Psicológico:** Nulo.
+*   **Função:** Ex-Guardião.
+*   **Histórico:** Ex-parceiro de Gabo e assassino de Bia. Reanimado como ciborgue pelo Projeto Gênesis, foi finalmente destruído por Gabo durante a batalha no Berçário (Capítulo 103).
 
 ---
 
-## Silas Vance ("O Jardineiro") - [STATUS: FALECIDO]
+## Silas Vance ("O Jardineiro") - [STATUS: ABSORVIDO / MORTO]
 
-*   **Idade:** Desconhecida (aparenta 50 anos, preservado biologicamente)
-*   **Altura:** Variável (fundido à vegetação).
-*   **Porte Físico:** Uma massa híbrida de carne humana e raízes vegetais.
-*   **Cabelo:** Vinhas e folhas escuras.
-*   **Olhos:** Completamente negros, sem esclera.
-*   **Marcas Distintivas:** Pele com textura de casca de árvore, exalando esporos.
-*   **Vestuário:** Restos de um jaleco de laboratório da Aeterna.
-*   **Equipamento:** Controle sobre a colmeia biológica "Gênesis".
-*   **Gostos/Traços:** Obsessão pela "evolução" através da fusão biológica. Odeia silício e metal.
-*   **Perfil Psicológico:** Fanático religioso da biologia. Acredita que a tecnologia é uma doença e a carne unificada é a cura.
-*   **Função:** Líder da Facção "Os Jardineiros" / Vilão Final.
-*   **Histórico:** Parente de Elara Vance. Criador do Projeto Gênesis, uma contingência da Aeterna para sobreviver ao colapso digital transformando a cidade em um superorganismo biológico. Derrotado por Gabo e Aria.
+*   **Idade:** Cessada.
+*   **Altura:** Nula.
+*   **Porte Físico:** Drenado.
+*   **Cabelo:** Seco.
+*   **Olhos:** Vazios.
+*   **Marcas Distintivas:** Corpo mumificado após ter sua biomassa drenada.
+*   **Vestuário:** Jaleco vazio.
+*   **Equipamento:** Nenhum.
+*   **Gostos/Traços:** Nenhum.
+*   **Perfil Psicológico:** Nenhum.
+*   **Função:** Ex-Líder.
+*   **Histórico:** Parente de Elara Vance. Criador do Projeto Gênesis. No momento de seu triunfo, foi traído e absorvido pela entidade "Dante Moretti" recém-acordada, servindo como combustível biológico para o novo hospedeiro.
 
 ---
 

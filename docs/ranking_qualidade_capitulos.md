@@ -552,3 +552,13 @@ Este documento apresenta uma análise crítica e um ranking de qualidade para to
 **Nota: 9.5/10**
 *   **Pontos Fortes:** Ação tensa com limitações físicas (exoesqueleto); o Cubo como mecânica de controle; revelação bombástica do retorno de Roberto Miranda como ciborgue biológico.
 *   **Pontos Fracos:** A obediência imediata das criaturas ao cubo resolveu o conflito físico muito rápido (embora tenha criado um pior: Miranda).
+
+### Capítulo 102: Raízes Amargas
+**Nota: 9.0/10**
+*   **Pontos Fortes:** Diálogo tenso entre Gabo e Roberto; revelação sobre a sobrevivência das consciências da Nuvem; perigo imediato dos protótipos.
+*   **Pontos Fracos:** A fuga pelo túnel de drenagem é um tropo clássico.
+
+### Capítulo 103: A Convergência
+**Nota: 10/10**
+*   **Pontos Fortes:** Clímax explosivo; a queda de Silas; o retorno aterrorizante de Dante; ação visceral (Gabo vs Roberto).
+*   **Pontos Fracos:** Nenhum. O cliffhanger redefine a ameaça central.
