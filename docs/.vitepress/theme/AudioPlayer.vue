@@ -207,7 +207,12 @@ const speakSegment = () => {
     if (getStorage() && page.value.next) {
         showNavigationModal.value = true
         setTimeout(() => {
-            router.go(page.value.next.link)
+            const nextLink = document.querySelector('.pager-link.next')
+            if (nextLink) {
+                nextLink.click()
+            } else {
+                router.go(page.value.next.link)
+            }
         }, 3000)
         return
     }
