@@ -13,7 +13,7 @@
 
 *   **Idade:** 30 anos
 *   **Altura:** 1,75m
-*   **Porte Físico:** Atlético e denso. Embora pareça cansado, seu corpo é uma arma viva. Utiliza suportes mecânicos permanentes nas pernas (exoesqueleto de tração passiva) para compensar a paralisia causada pela lesão na coluna.
+*   **Porte Físico:** Atlético e denso. Embora pareça cansado, seu corpo é uma arma viva. Utiliza suportes mecânicos temporários nas pernas (exoesqueleto de tração passiva) para suportar o peso e a dor das múltiplas fraturas na coluna.
 *   **Cabelo:** Escuro, desgrenhado e oleoso. Barba cheia e mal aparada, com fios grisalhos precoces.
 *   **Olhos:** Castanhos profundos, quase pretos. Cercados por olheiras severas.
 *   **Marcas Distintivas:** Mãos trêmulas (pelo café), mas que firmam instantaneamente em combate. Tique nervoso de tamborilar os dedos no coldre (para canalizar a ansiedade). Odeia cigarro e nunca fumou (trauma relacionado ao pai). Cicatriz em forma de raiz negra no braço (marca da infecção Gênesis).
@@ -92,7 +92,7 @@
 
 ## Dante Moretti - [STATUS: RESSURGIDO / HOSPEDEIRO BIOLÓGICO]
 
-![Dante Moretti](/personagens/dante.png)
+![Dante Moretti](/personagens/dante.jpg)
 
 *   **Status:** [ATIVO / CONSCIÊNCIA DIGITAL EM CORPO BIOLÓGICO]
 *   **Função:** Lenda Policial / O Arquiteto da Resistência.
@@ -410,8 +410,6 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 ---
 
 ## Dra. Nise
-
-![Dra. Nise](/personagens/nise.jpg)
 
 *   **Idade:** 65 anos
 *   **Altura:** 1,60m

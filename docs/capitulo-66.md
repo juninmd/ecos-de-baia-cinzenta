@@ -11,7 +11,7 @@ Gabo sentiu seus pulmões queimarem. Ele estava submerso, preso aos escombros de
 
 *Respire*, a voz de seu pai ecoou em sua mente, clara como se estivesse ao seu lado. *Não é a sua hora.*
 
-Gabo usou o braço bom para se impulsionar. Suas pernas, inúteis pesos mortos, arrastavam-se atrás dele. A paralisia era uma sentença de morte debaixo d'água. Mas então, algo agarrou seu colete tático.
+Gabo usou o braço bom para se impulsionar. Suas pernas, pesadas pelo exoesqueleto molhado e pela dor lancinante dos ossos recém-colados, eram um fardo. A rigidez era uma sentença de morte debaixo d'água. Mas então, algo agarrou seu colete tático.
 
 Valéria.
 
