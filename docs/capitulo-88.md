@@ -1,5 +1,5 @@
 ---
-image: /withdrawal.jpg
+image: /capitulo_88.jpg
 ---
 # Capítulo 88: Sintomas de Abstinência
 

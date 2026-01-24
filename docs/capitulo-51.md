@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_51.jpg
 ---
 # Capítulo 51: Mãos Limpas
 

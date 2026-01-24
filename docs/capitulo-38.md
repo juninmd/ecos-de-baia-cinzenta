@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_38.jpg
 ---
 # Capítulo 38: A Ressaca
 

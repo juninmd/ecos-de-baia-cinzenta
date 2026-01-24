@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_56.jpg
 ---
 # Capítulo 56: O Preço do Amanhã
 

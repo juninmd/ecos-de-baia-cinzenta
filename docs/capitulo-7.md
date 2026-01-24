@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_7.jpg
 ---
 # Capítulo 7: O Fim do Silêncio
 

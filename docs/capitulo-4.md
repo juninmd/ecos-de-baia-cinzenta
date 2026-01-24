@@ -1,5 +1,5 @@
 ---
-image: /elite.jpg
+image: /capitulo_4.jpg
 ---
 # Capítulo 4: A Torre de Marfim
 

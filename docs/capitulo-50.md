@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_50.jpg
 ---
 # Capítulo 50: O Silêncio da Chuva
 

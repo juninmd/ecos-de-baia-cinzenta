@@ -1,5 +1,5 @@
 ---
-image: /convergence.jpg
+image: /capitulo_96.jpg
 ---
 # Capítulo 96: A Grande Convergência
 

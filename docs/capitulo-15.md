@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_15.jpg
 ---
 # Capítulo 15: Protocolo de Extermínio
 

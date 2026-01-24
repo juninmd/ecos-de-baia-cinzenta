@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_12.jpg
 ---
 # Capítulo 12: Cancelamento
 

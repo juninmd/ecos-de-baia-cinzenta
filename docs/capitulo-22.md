@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_22.jpg
 ---
 # Capítulo 22: O Mapa da Alma
 

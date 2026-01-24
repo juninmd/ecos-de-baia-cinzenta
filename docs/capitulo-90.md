@@ -1,5 +1,5 @@
 ---
-image: /archivist.jpg
+image: /capitulo_90.jpg
 ---
 # Capítulo 90: O Arquivista
 

@@ -1,5 +1,5 @@
 ---
-image: /cult.jpg
+image: /capitulo_82.jpg
 ---
 # Capítulo 82: O Profeta Mudo
 

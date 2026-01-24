@@ -1,5 +1,5 @@
 ---
-image: /ruins.jpg
+image: /capitulo_78.jpg
 ---
 # Capítulo 78: O Jardim de Concreto
 

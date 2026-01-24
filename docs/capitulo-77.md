@@ -1,5 +1,5 @@
 ---
-image: /hospital.jpg
+image: /capitulo_77.jpg
 ---
 # Capítulo 77: Anjos da Morte
 

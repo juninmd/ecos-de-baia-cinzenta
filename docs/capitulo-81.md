@@ -1,5 +1,5 @@
 ---
-image: /lab-fire.jpg
+image: /capitulo_81.jpg
 ---
 # Capítulo 81: Sangue e Óleo
 

@@ -2,7 +2,9 @@ import os
 import re
 import argparse
 import sys
-import shutil
+from google import genai
+from PIL import Image
+import io
 
 class CharacterDatabase:
     def __init__(self, filepath):
@@ -30,7 +32,14 @@ class CharacterDatabase:
 
             image_match = re.search(r'!\[.*?\]\((.*?)\)', section)
             image_path = image_match.group(1) if image_match else None
-
+            
+            # Resolve relative image path to absolute if possible
+            if image_path:
+                if image_path.startswith('/'):
+                    # Assuming / refers to docs/public or root
+                     # Heuristic: try finding it in docs/public relative to project root
+                    pass 
+                
             description = []
             for line in lines:
                 if any(key in line for key in ["Porte Físico:", "Vestuário:", "Marcas Distintivas:", "Cabelo:", "Olhos:"]):
@@ -95,23 +104,7 @@ class ChapterContext:
         else:
             self.body = self.content
 
-    def has_image(self):
-        return 'image:' in self.frontmatter
-
-    def get_context_summary(self):
-        paragraphs = [p for p in self.body.split('\n\n') if p.strip()]
-        if not paragraphs:
-            return "No text found."
-
-        intro = "\n".join(paragraphs[:2])
-        outro = "\n".join(paragraphs[-2:]) if len(paragraphs) > 2 else ""
-        middle = paragraphs[len(paragraphs)//2] if len(paragraphs) > 5 else ""
-
-        return f"{intro}\n...\n{middle}\n...\n{outro}"
-
     def update_frontmatter(self, image_path):
-        # Clean image path for frontmatter (usually relative to public or root, typical VitePress is /image.jpg)
-        # Ensure it starts with /
         if not image_path.startswith('/'):
             public_path = '/' + os.path.basename(image_path)
         else:
@@ -119,13 +112,10 @@ class ChapterContext:
 
         if self.frontmatter:
             if 'image:' in self.frontmatter:
-                # Replace existing
                 self.frontmatter = re.sub(r'image:.*', f'image: {public_path}', self.frontmatter)
             else:
-                # Append
                 self.frontmatter = self.frontmatter.rstrip() + f'\nimage: {public_path}\n'
         else:
-            # Create new
             self.frontmatter = f'\nimage: {public_path}\n'
 
         new_content = f'---{self.frontmatter}---{self.body}'
@@ -134,119 +124,260 @@ class ChapterContext:
             f.write(new_content)
         print(f"✅ Updated {self.filepath} with image: {public_path}")
 
+class CostCalculator:
+    def __init__(self):
+        # Pricing constants (USD) - Gemini Flash Tier (Approximate)
+        self.PRICE_INPUT_1M = 0.075
+        self.PRICE_OUTPUT_1M = 0.30
+        self.PRICE_IMAGE_GEN = 0.040 # Imagen 3 Fast / Flash Image approx
+        self.USD_TO_BRL = 6.00
+        
+        self.total_input_tokens = 0
+        self.total_output_tokens = 0
+        self.total_images = 0
+
+    def add_text_usage(self, usage):
+        if usage:
+            self.total_input_tokens += usage.prompt_token_count
+            self.total_output_tokens += usage.candidates_token_count
+
+    def add_image_gen(self, count=1):
+        self.total_images += count
+
+    def print_summary(self):
+        cost_input = (self.total_input_tokens / 1_000_000) * self.PRICE_INPUT_1M
+        cost_output = (self.total_output_tokens / 1_000_000) * self.PRICE_OUTPUT_1M
+        cost_images = self.total_images * self.PRICE_IMAGE_GEN
+        
+        total_usd = cost_input + cost_output + cost_images
+        total_brl = total_usd * self.USD_TO_BRL
+        
+        print("\n" + "-"*30)
+        print("💰 ESTIMATIVA DE CUSTOS")
+        print("-"*30)
+        print(f"🔤 Text Input ({self.total_input_tokens} toks): ${cost_input:.6f}")
+        print(f"💬 Text Output ({self.total_output_tokens} toks): ${cost_output:.6f}")
+        print(f"🎨 Images ({self.total_images}): ${cost_images:.4f}")
+        print(f"💵 Total (USD): ${total_usd:.4f}")
+        print(f"🇧🇷 Total (BRL): R$ {total_brl:.4f}")
+        print("-"*30 + "\n")
+
 class NanoBanana:
     def __init__(self):
-        print("🍌 Initializing Nano Banana Core...")
-        api_key = os.environ.get('NANO_BANANA_API_KEY')
-        if not api_key:
-            print("⚠️ WARNING: NANO_BANANA_API_KEY environment variable is not set!")
-            print("⚠️ Mock generation will proceed.")
-        else:
-            print(f"🍌 API Key detected: {api_key[:4]}****")
+        print("🍌 Initializing Nano Banana Core (Gemini 2.5 Powered - via google.genai)...")
+        
+        # Load keys from env or default
+        key_text = os.environ.get('NANO_BANANA_API_KEY_TEXT')
+        key_image = os.environ.get('NANO_BANANA_API_KEY_IMAGE')
+        
+        if not key_text:
+            raise ValueError("Text API Key not found.")
+        if not key_image:
+            raise ValueError("Image API Key not found.")
+        
+        # Initialize separate clients
+        self.client_text = genai.Client(api_key=key_text)
+        self.client_image = genai.Client(api_key=key_image)
+        
+        # Models
+        self.text_model_name = 'gemini-2.5-flash'
+        self.generation_model_name = 'gemini-2.5-flash-image' 
+        
+        # Cost Tracker
+        self.costs = CostCalculator()
 
-        print("🍌 Loading Neural Models...")
+    def get_real_image_path(self, char_data, project_root):
+        image_rel_path = char_data.get('image')
+        if not image_rel_path:
+            return None
+            
+        if image_rel_path.startswith('/'):
+            real_path = os.path.join(project_root, 'docs/public', image_rel_path.lstrip('/'))
+        else:
+             real_path = os.path.join(project_root, 'docs', image_rel_path)
+             
+        if os.path.exists(real_path):
+            return real_path
+        return None
+
+    def extract_scene(self, chapter_text, active_characters):
+        """Uses Gemini Text to pick a scene and prompt"""
+        char_names = ", ".join([c['name'] for c in active_characters])
+        
+        prompt = (
+            f"Analyze the following book chapter text.\n"
+            f"Characters present: {char_names}\n\n"
+            f"TASK:\n"
+            f"1. Select the most visually striking scene.\n"
+            f"2. Write a detailed image generation prompt for this scene. "
+            f"Describe the setting, lighting, action, and atmosphere. "
+            f"Do NOT describe the main character's face in detail (we have their photo), but DO describe their pose and expression. "
+            f"Focus on the ACTION and ENVIRONMENT.\n\n"
+            f"CHAPTER TEXT:\n{chapter_text[:1000]}..."
+        )
+        
+        response = self.client_text.models.generate_content(
+            model=self.text_model_name,
+            contents=prompt
+        )
+        # Track usage
+        if response.usage_metadata:
+            self.costs.add_text_usage(response.usage_metadata)
+            
+        return response.text
 
     def generate_art(self, prompt, ref_image_path, output_path):
         print("\n" + "="*50)
         print("🍌 NANO BANANA GENERATION REQUEST 🍌")
         print("="*50)
         print(f"**PROMPT:**\n{prompt}\n")
-        print(f"**REFERENCE IMAGE:** {ref_image_path}")
-        print(f"**OUTPUT DESTINATION:** {output_path}")
-
-        print("\n... Processing Context Vectors ...")
-        print("... Synthesizing Pixel Latents ...")
-
-        # Mock Generation: Copy reference image to output
-        # Resolve reference path. docs/personagens.md usually has /image.jpg.
-        # We need to map that to docs/public/image.jpg
-
-        source_path = None
+        
+        contents = [prompt]
         if ref_image_path:
-            # Remove leading / if present
-            clean_ref = ref_image_path.lstrip('/')
+            print(f"**REFERENCE IMAGE:** {ref_image_path}")
+            try:
+                reference_image = Image.open(ref_image_path)
+                contents.append(reference_image)
+            except Exception as e:
+                print(f"⚠️ Failed to load reference image: {e}")
 
-            # Check if path already starts with docs/public or similar
-            if clean_ref.startswith('docs/public/'):
-                potential_path = clean_ref
-            else:
-                potential_path = os.path.join('docs/public', clean_ref)
+        try:
+            print(f"... Generating with {self.generation_model_name}...")
+            response = self.client_image.models.generate_content(
+                model=self.generation_model_name,
+                contents=contents
+            )
+            
+            # Track Usage (Text part if available, plus image count)
+            if response.usage_metadata:
+                self.costs.add_text_usage(response.usage_metadata)
+            
+            generated = False
+            if response.parts:
+                for part in response.parts:
+                    if part.inline_data:
+                        print("✅ Image data received.")
+                        # The SDK part.as_image() is safest if available as per user snippet
+                        try:
+                            img = part.as_image()
+                        except:
+                            # Fallback if as_image is not there but bytes are
+                            img = Image.open(io.BytesIO(part.inline_data.data))
+                            
+                        img.save(output_path)
+                        print(f"✅ IMAGE GENERATED: {output_path}")
+                        self.costs.add_image_gen(1) # Track successful image
+                        generated = True
+                        return output_path
+                    elif part.text:
+                        print(f"ℹ️ Model Text Output: {part.text}")
+            
+            if not generated:
+                print("❌ No image generated in response.")
+                return None
+                
+        except Exception as e:
+            print(f"❌ Generation Failed: {e}")
+            return None
 
-            if os.path.exists(potential_path):
-                source_path = potential_path
-            else:
-                print(f"⚠️ Reference image not found at {potential_path}")
+def process_chapter(chapter_num, engine, db, project_root, style):
+    print(f"\n📂 PROCESSING CHAPTER {chapter_num}...")
+    try:
+        chapter = ChapterContext(chapter_num)
+        
+        print(f"Reading Chapter {chapter_num}...")
+        active_chars = db.find_characters_in_text(chapter.body)
+        
+        char_names = [c['name'] for c in active_chars]
+        print(f"Detected Characters: {', '.join(char_names)}")
 
-        if source_path:
-            shutil.copy(source_path, output_path)
-            print(f"✅ IMAGE GENERATED (Mocked by copying {source_path})")
+        # Extract Scene
+        print("🧠 Analyzing text for scene selection...")
+        scene_prompt = engine.extract_scene(chapter.body, active_chars)
+        
+        final_prompt = scene_prompt
+        if style:
+            final_prompt += f"\nSTYLE: {style}"
         else:
-            # Create dummy if source not found
-            with open(output_path, 'wb') as f:
-                f.write(b'\x00' * 1024)
-            print(f"✅ IMAGE GENERATED (Dummy file created)")
+            final_prompt += "\nSTYLE: Digital Art, Cinematic Lighting."
 
-        print(f"📂 Output saved to: {output_path}")
-        print("="*50 + "\n")
-        return output_path
+        # Find Main Character Image
+        ref_image_path = None
+        if active_chars:
+            main_char = active_chars[0]
+            ref_image_path = engine.get_real_image_path(main_char, project_root)
+            if ref_image_path:
+                print(f"⭐️ Using Reference Image for: {main_char['name']}")
+                final_prompt += f"\n(Generate the image featuring the character from the provided reference image in the described scene.)"
+        
+        # Define Output
+        output_filename = f"capitulo_{chapter_num}.jpg"
+        output_path = os.path.join(project_root, "docs/public", output_filename)
+        
+        # Ensure dir exists
+        os.makedirs(os.path.dirname(output_path), exist_ok=True)
+
+        # Generate
+        result_path = engine.generate_art(final_prompt, ref_image_path, output_path)
+        
+        if result_path:
+            # Update Chapter only if success
+            chapter.update_frontmatter(f"/{output_filename}")
+            return True
+        else:
+            print(f"❌ Skipping frontmatter update for Chapter {chapter_num} due to generation failure.")
+            return False
+        
+    except Exception as e:
+        print(f"❌ Error processing Chapter {chapter_num}: {e}")
+        return False
 
 def main():
     parser = argparse.ArgumentParser(description="Generate Art for a Chapter using Nano Banana")
-    parser.add_argument('chapter', type=int, help="Chapter number (e.g., 102)")
+    parser.add_argument('chapters', type=str, help="Chapter number (e.g., '102') or range (e.g., '7-104')")
     parser.add_argument('--style', type=str, help="Optional style/prompt modifier", default="")
     args = parser.parse_args()
 
-    # Paths
-    char_file = "docs/personagens.md"
+    project_root = os.getcwd()
+    char_file = os.path.join(project_root, "docs/personagens.md")
 
-    # Initialize
-    db = CharacterDatabase(char_file)
-    chapter = ChapterContext(args.chapter)
-
-    # Check if image already exists
-    if chapter.has_image():
-        print(f"ℹ️ Chapter {args.chapter} already has an image configured in frontmatter.")
-        # Proceeding anyway as per user "surpreenda-me" / explicit instruction to generate
-
-    # Analyze
-    print(f"Reading Chapter {args.chapter}...")
-    summary = chapter.get_context_summary()
-    active_chars = db.find_characters_in_text(chapter.content)
-
-    char_names = [c['name'] for c in active_chars]
-    print(f"Detected Characters: {', '.join(char_names)}")
-
-    if not active_chars:
-        print("❌ No known characters found in chapter. Cannot generate character-based art.")
-        sys.exit(1)
-
-    # Pick main character (first one found)
-    main_char = active_chars[0]
-    print(f"⭐️ Selected Main Character for Reference: {main_char['name']}")
-
-    # Construct Prompt
-    prompt = f"Digital Art, Cyberpunk Noir Style, High Contrast, Gritty Atmosphere.\n\n"
-    prompt += f"SCENE CONTEXT:\n{summary[:500]}...\n\n"
-    prompt += f"MAIN CHARACTER: {main_char['name']}\n{main_char['description']}\n"
-
-    if args.style:
-         prompt += f"\nSTYLE: {args.style}"
+    # Parse Range
+    chapter_list = []
+    # Remove spaces just in case
+    clean_args = args.chapters.replace(' ', '')
+    
+    if ',' in clean_args:
+        parts = clean_args.split(',')
+        for part in parts:
+            if '-' in part:
+                start, end = map(int, part.split('-'))
+                chapter_list.extend(range(start, end + 1))
+            else:
+                chapter_list.append(int(part))
+    elif '-' in clean_args:
+        start, end = map(int, clean_args.split('-'))
+        chapter_list = list(range(start, end + 1))
     else:
-         prompt += "\nSTYLE: Analog photography aesthetic, rain-slicked streets, neon lights reflecting on wet surfaces."
+        chapter_list = [int(clean_args)]
+    
+    # Sort and unique
+    chapter_list = sorted(list(set(chapter_list)))
 
-    # Define Output Path
-    output_filename = f"capitulo_{args.chapter}.jpg"
-    output_path = os.path.join("docs/public", output_filename)
-
-    # Generate
-    engine = NanoBanana()
-    engine.generate_art(prompt, main_char['image'], output_path)
-
-    # Update Chapter
-    chapter.update_frontmatter(f"/{output_filename}")
-
-    # Output for GitHub Actions
-    print(f"::set-output name=generated_image_path::{output_path}")
+    try:
+        engine = NanoBanana()
+        db = CharacterDatabase(char_file)
+        
+        for chapter_num in chapter_list:
+            process_chapter(chapter_num, engine, db, project_root, args.style)
+            
+        # Print Final Costs
+        print("\n" + "="*50)
+        print("🏁 BATCH COMPLETE")
+        engine.costs.print_summary()
+        
+    except Exception as e:
+        print(f"❌ Fatal Global Error: {e}")
+        sys.exit(1)
 
 if __name__ == "__main__":
     main()

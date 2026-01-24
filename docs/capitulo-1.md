@@ -1,5 +1,5 @@
 ---
-image: /gabo.webp
+image: /capitulo_1.jpg
 ---
 # Capítulo 1: Olhos de Vidro
 

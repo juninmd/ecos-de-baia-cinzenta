@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_62.jpg
 ---
 # Capítulo 62: O Santo e a Criança
 

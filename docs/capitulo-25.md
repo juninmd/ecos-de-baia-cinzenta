@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_25.jpg
 ---
 # Capítulo 25: Elevador para o Inferno
 

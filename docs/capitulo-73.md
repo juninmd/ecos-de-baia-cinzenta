@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_73.jpg
 ---
 # Capítulo 73: Carne e Metal
 

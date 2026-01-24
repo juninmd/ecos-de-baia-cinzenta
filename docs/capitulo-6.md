@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_6.jpg
 ---
 # Capítulo 6: O Coração da Tempestade
 

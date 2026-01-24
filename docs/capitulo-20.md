@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_20.jpg
 ---
 # Capítulo 20: Profanação
 

@@ -1,5 +1,5 @@
 ---
-image: /eclipse.jpg
+image: /capitulo_85.jpg
 ---
 # Capítulo 85: O Sol Negro
 

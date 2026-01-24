@@ -1,5 +1,5 @@
 ---
-image: /morgue.jpg
+image: /capitulo_80.jpg
 ---
 # Capítulo 80: A Autópsia de um Deus
 

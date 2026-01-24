@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_40.jpg
 ---
 # Capítulo 40: O Céu Quebrou
 

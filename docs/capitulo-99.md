@@ -1,5 +1,5 @@
 ---
-image: /machine-awakening.jpg
+image: /capitulo_99.jpg
 ---
 # Capítulo 99: O Despertar da Máquina
 

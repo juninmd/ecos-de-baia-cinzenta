@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_69.jpg
 ---
 # Capítulo 69: O Fantasma no Shell
 

@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_44.jpg
 ---
 # Capítulo 44: O Que Saiu do Ralo
 

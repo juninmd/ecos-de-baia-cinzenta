@@ -1,5 +1,5 @@
 ---
-image: /hunger.jpg
+image: /capitulo_93.jpg
 ---
 # Capítulo 93: Fome
 

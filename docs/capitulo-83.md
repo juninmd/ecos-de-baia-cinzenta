@@ -1,5 +1,5 @@
 ---
-image: /roots.jpg
+image: /capitulo_83.jpg
 ---
 # Capítulo 83: Raízes
 

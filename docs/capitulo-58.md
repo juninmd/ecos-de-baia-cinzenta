@@ -1,5 +1,5 @@
 ---
-image: /jonas.jpg
+image: /capitulo_58.jpg
 ---
 # Capítulo 58: O Dilema do Capitão
 

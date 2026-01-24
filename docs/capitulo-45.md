@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_45.jpg
 ---
 # Capítulo 45: Protocolo N.O.A.
 

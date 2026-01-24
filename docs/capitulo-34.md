@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_34.jpg
 ---
 # Capítulo 34: O Julgamento da Rua
 

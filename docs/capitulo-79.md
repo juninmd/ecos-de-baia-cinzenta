@@ -1,5 +1,5 @@
 ---
-image: /radio.jpg
+image: /capitulo_79.jpg
 ---
 # Capítulo 79: Frequências Fantasmas
 

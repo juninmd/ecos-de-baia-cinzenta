@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_68.jpg
 ---
 # Capítulo 68: A Caçada Inversa
 

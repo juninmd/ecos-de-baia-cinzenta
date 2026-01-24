@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_35.jpg
 ---
 # Capítulo 35: Calibre 12
 

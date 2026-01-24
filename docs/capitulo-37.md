@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_37.jpg
 ---
 # Capítulo 37: A Linha Azul
 

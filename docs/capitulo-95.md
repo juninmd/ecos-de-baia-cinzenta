@@ -1,5 +1,5 @@
 ---
-image: /sacrifice.jpg
+image: /capitulo_95.jpg
 ---
 # Capítulo 95: Sacrifício Necessário
 

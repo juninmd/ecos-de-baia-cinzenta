@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_39.jpg
 ---
 # Capítulo 39: Dossiê Vance
 

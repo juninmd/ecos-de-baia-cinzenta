@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_29.jpg
 ---
 # Capítulo 29: O Dilema dos Fantasmas
 

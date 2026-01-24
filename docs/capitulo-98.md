@@ -1,5 +1,5 @@
 ---
-image: /sunrise-ruins.jpg
+image: /capitulo_98.jpg
 ---
 # Capítulo 98: A Cidade Silenciosa
 

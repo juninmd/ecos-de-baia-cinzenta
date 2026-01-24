@@ -1,5 +1,5 @@
 ---
-image: /belly-of-the-beast.jpg
+image: /capitulo_100.jpg
 ---
 # Capítulo 100: O Ventre da Besta
 

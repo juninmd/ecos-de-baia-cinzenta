@@ -1,5 +1,5 @@
 ---
-image: /genesis-lab.jpg
+image: /capitulo_91.jpg
 ---
 # Capítulo 91: Protocolo Gênesis
 

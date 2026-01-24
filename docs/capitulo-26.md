@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_26.jpg
 ---
 # Capítulo 26: A Escolha de Atlas
 

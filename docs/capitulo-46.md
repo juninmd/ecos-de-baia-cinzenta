@@ -1,5 +1,5 @@
 ---
-image: /gabo-compra-cafe.jpeg
+image: /capitulo_46.jpg
 ---
 # Capítulo 46: O Dilúvio
 

@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_70.jpg
 ---
 # Capítulo 70: O Expurgo
 

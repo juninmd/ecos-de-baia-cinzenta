@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_24.jpg
 ---
 # Capítulo 24: A Galeria dos Deformados
 

@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_36.jpg
 ---
 # Capítulo 36: O Ninho da Serpente
 

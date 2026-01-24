@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_8.jpg
 ---
 # Capítulo 8: Ressaca Digital
 

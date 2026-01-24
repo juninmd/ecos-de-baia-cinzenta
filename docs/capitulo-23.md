@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_23.jpg
 ---
 # Capítulo 23: Ratos e Reis
 

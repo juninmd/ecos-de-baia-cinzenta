@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_59.jpg
 ---
 # Capítulo 59: A Fundação
 

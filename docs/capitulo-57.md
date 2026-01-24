@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_57.jpg
 ---
 # Capítulo 57: Zona de Interesse
 

@@ -1,5 +1,5 @@
 ---
-image: /livia.jpg
+image: /capitulo_21.jpg
 ---
 # Capítulo 21: Lar, Doce Inferno
 

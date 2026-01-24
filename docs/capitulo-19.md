@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_19.jpg
 ---
 # Capítulo 19: O Código Morto
 

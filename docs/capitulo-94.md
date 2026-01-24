@@ -1,5 +1,5 @@
 ---
-image: /hive-heart.jpg
+image: /capitulo_94.jpg
 ---
 # Capítulo 94: O Coração da Colmeia
 

@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_67.jpg
 ---
 # Capítulo 67: Cidade Viva
 

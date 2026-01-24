@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_76.jpg
 ---
 # Capítulo 76: A Sombra do Meio-Dia
 

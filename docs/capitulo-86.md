@@ -1,5 +1,5 @@
 ---
-image: /symbiosis.jpg
+image: /capitulo_86.jpg
 ---
 # Capítulo 86: Simbiose
 

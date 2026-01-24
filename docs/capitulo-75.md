@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_75.jpg
 ---
 # Capítulo 75: Horizonte de Eventos
 

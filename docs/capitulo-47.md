@@ -2,7 +2,7 @@
 layout: doc
 title: "Capítulo 47: Cerco Anfíbio"
 description: "A delegacia é sitiada por Bio-Soldados liderados por uma nova ameaça."
-image: /cidade.jpg
+image: /capitulo_47.jpg
 ---
 
 # Capítulo 47: Cerco Anfíbio

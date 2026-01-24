@@ -1,5 +1,5 @@
 ---
-image: /priest.jpg
+image: /capitulo_87.jpg
 ---
 # Capítulo 87: O Novo Sacerdócio
 

@@ -1,5 +1,5 @@
 ---
-image: /ressonancia.jpg
+image: /capitulo_101.jpg
 ---
 # Capítulo 101: Ressonância
 

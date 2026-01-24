@@ -1,5 +1,5 @@
 ---
-image: /beco.jpeg
+image: /capitulo_5.jpg
 ---
 # Capítulo 5: A Capela dos Esquecidos
 

@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_31.jpg
 ---
 # Capítulo 31: Ruptura Total
 

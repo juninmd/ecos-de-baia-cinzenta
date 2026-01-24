@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_30.jpg
 ---
 # Capítulo 30: O Preço da Liberdade
 

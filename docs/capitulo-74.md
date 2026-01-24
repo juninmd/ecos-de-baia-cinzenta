@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_74.jpg
 ---
 # Capítulo 74: O Sacrifício de Lázaro
 

@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_66.jpg
 ---
 # Capítulo 66: Respirar
 

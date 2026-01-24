@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_60.jpg
 ---
 # Capítulo 60: Despejo
 

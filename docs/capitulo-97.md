@@ -1,5 +1,5 @@
 ---
-image: /sunrise-final.jpg
+image: /capitulo_97.jpg
 ---
 # Capítulo 97: O Último Suspiro
 

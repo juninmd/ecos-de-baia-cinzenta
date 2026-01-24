@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_72.jpg
 ---
 # Capítulo 72: A Ofensiva
 

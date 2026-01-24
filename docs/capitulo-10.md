@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_10.jpg
 ---
 # Capítulo 10: A Fábrica de Sorrisos
 

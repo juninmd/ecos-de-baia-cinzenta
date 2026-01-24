@@ -1,5 +1,5 @@
 ---
-image: /blood-memory.jpg
+image: /capitulo_89.jpg
 ---
 # Capítulo 89: Memória Genética
 

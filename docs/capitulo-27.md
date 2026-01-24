@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_27.jpg
 ---
 # Capítulo 27: O Filho Sacrifica o Pai
 

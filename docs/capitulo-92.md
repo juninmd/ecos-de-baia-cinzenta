@@ -1,5 +1,5 @@
 ---
-image: /rust.jpg
+image: /capitulo_92.jpg
 ---
 # Capítulo 92: A Praga de Ferro
 

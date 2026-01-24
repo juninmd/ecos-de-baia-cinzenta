@@ -1,5 +1,5 @@
 ---
-image: /subway.jpg
+image: /capitulo_84.jpg
 ---
 # Capítulo 84: A Primeira Colheita
 

@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_11.jpg
 ---
 # Capítulo 11: Filtros de Realidade
 

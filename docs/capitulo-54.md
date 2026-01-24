@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_54.jpg
 ---
 # Capítulo 54: Fé e Ferrugem
 

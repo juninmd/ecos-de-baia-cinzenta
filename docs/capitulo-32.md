@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_32.jpg
 ---
 # Capítulo 32: O Vazio do Silêncio
 

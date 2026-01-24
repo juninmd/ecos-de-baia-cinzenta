@@ -1,5 +1,5 @@
 ---
-image: /delegacia.jpeg
+image: /capitulo_3.jpg
 ---
 # Capítulo 3: Teatro de Carne
 

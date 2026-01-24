@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_71.jpg
 ---
 # Capítulo 71: Marco Zero
 

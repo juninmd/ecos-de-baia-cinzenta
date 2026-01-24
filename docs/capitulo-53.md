@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_53.jpg
 ---
 # Capítulo 53: Café, Código e Conspiração
 

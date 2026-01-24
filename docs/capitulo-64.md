@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_64.jpg
 ---
 # Capítulo 64: A Cidade Fantasma
 

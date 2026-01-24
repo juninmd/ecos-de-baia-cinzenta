@@ -1,15 +1,18 @@
-# Diretrizes para Agentes de IA
+# AGENTS.md
 
-Este arquivo contém instruções específicas para agentes de IA que trabalham neste repositório.
+## Development Environment
+This project uses `uv` for Python dependency management.
 
-## Documentação de Personagens (`docs/personagens.md`)
-
-*   **Preservação Histórica:** Ao atualizar o perfil de um personagem, **NUNCA** sobrescreva o histórico existente com um novo resumo.
-*   **Linha do Tempo:** Utilize a seção `### ⏳ Linha do Tempo` para adicionar novos eventos cronologicamente.
-*   **Formato:**
-    ```markdown
-    ### ⏳ Linha do Tempo
-    *   **Evento Anterior:** Descrição...
-    *   **[NOVO EVENTO]:** Descrição do que aconteceu no capítulo recente...
-    ```
-*   **Objetivo:** Manter um registro evolutivo do personagem ao longo das Partes da história, evitando que desenvolvimentos anteriores sejam esquecidos.
+### Setup
+1. Install `uv`: `pip install uv` (or follow official docs)
+2. Create virtual environment:
+   ```bash
+   uv venv
+   ```
+3. Activate virtual environment:
+   - Windows: `.venv\Scripts\activate`
+   - Linux/Mac: `source .venv/bin/activate`
+4. Install dependencies:
+   ```bash
+   uv pip install -r requirements.txt
+   ```

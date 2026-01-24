@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_16.jpg
 ---
 # Capítulo 16: Zona Morta
 

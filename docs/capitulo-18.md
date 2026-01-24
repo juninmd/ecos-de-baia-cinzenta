@@ -1,5 +1,5 @@
 ---
-image: /gabo-cansado.jpeg
+image: /capitulo_18.jpg
 ---
 # Capítulo 18: A Queda
 

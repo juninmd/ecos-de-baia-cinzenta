@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_42.jpg
 ---
 # Capítulo 42: O Campo de Refugiados
 

@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_33.jpg
 ---
 # Capítulo 33: A Sabedoria da Ferrugem
 

@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_28.jpg
 ---
 # Capítulo 28: O Último Suspiro da Torre
 

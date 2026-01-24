@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_14.jpg
 ---
 # Capítulo 14: Caçada ao Invisível
 

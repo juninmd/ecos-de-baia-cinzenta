@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_61.jpg
 ---
 # Capítulo 61: Tinta no Papel
 

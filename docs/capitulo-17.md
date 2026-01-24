@@ -1,5 +1,5 @@
 ---
-image: /gabo-arma.jpeg
+image: /capitulo_17.jpg
 ---
 # Capítulo 17: O Ultimato
 

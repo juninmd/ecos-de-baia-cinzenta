@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_63.jpg
 ---
 # Capítulo 63: Águas Profundas
 

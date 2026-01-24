@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_55.jpg
 ---
 # Capítulo 55: A Tentação de Lázaro
 

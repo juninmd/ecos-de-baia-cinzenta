@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_9.jpg
 ---
 # Capítulo 9: Feed Infinito
 

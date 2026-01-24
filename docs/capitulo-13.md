@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_13.jpg
 ---
 # Capítulo 13: Shadowban
 

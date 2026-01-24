@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_41.jpg
 ---
 # Capítulo 41: Maré Alta
 
