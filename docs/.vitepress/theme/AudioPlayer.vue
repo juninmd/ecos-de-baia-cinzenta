@@ -1,8 +1,11 @@
 <script setup>
 import { ref, onMounted, onUnmounted, watch, shallowRef, toRaw } from 'vue'
-import { useRoute } from 'vitepress'
+import { useRoute, useData, useRouter } from 'vitepress'
 
 const route = useRoute()
+const { page } = useData()
+const router = useRouter()
+
 const isPlaying = ref(false)
 const isPaused = ref(false)
 const synth = shallowRef(null)
@@ -10,10 +13,24 @@ const utterance = shallowRef(null)
 const rate = ref(1) // Changed default to 1x
 const availableVoices = shallowRef([])
 const selectedVoice = shallowRef(null)
+const statusMessage = ref('')
 
 // Chunking state
 const segments = shallowRef([])
 const currentSegmentIndex = ref(0)
+
+const updateStorage = (val) => {
+  if (typeof window !== 'undefined') {
+    sessionStorage.setItem('tts_continuous', val ? 'true' : 'false')
+  }
+}
+
+const getStorage = () => {
+  if (typeof window !== 'undefined') {
+    return sessionStorage.getItem('tts_continuous') === 'true'
+  }
+  return false
+}
 
 const initSynth = () => {
   if (typeof window !== 'undefined' && 'speechSynthesis' in window) {
@@ -56,16 +73,41 @@ const initSynth = () => {
   }
 }
 
+const _stop = () => {
+  if (synth.value) {
+    synth.value.cancel()
+    isPlaying.value = false
+    isPaused.value = false
+    currentSegmentIndex.value = 0
+    statusMessage.value = ''
+  }
+}
+
+const stop = () => {
+  updateStorage(false)
+  _stop()
+}
+
 onMounted(() => {
   initSynth()
+  if (getStorage()) {
+    setTimeout(() => {
+        _play()
+    }, 500)
+  }
 })
 
 onUnmounted(() => {
-  stop()
+  _stop()
 })
 
 watch(() => route.path, () => {
-  stop()
+  _stop()
+  if (getStorage()) {
+    setTimeout(() => {
+        _play()
+    }, 500)
+  }
 })
 
 const getText = () => {
@@ -82,7 +124,18 @@ const chunkText = (text) => {
 }
 
 const speakSegment = () => {
-  if (!synth.value || currentSegmentIndex.value >= segments.value.length) {
+  if (!synth.value) return
+
+  // Check if finished
+  if (currentSegmentIndex.value >= segments.value.length) {
+    if (getStorage() && page.value.next) {
+        statusMessage.value = 'Próximo capítulo em 3s...'
+        setTimeout(() => {
+            router.go(page.value.next.link)
+        }, 3000)
+        return
+    }
+
     isPlaying.value = false
     isPaused.value = false
     currentSegmentIndex.value = 0
@@ -133,7 +186,7 @@ const speakSegment = () => {
   synth.value.speak(u)
 }
 
-const play = () => {
+const _play = () => {
   if (!synth.value) return
 
   if (isPaused.value) {
@@ -145,7 +198,7 @@ const play = () => {
 
   // If already playing, stop first to restart (or handle as "restart" logic)
   if (isPlaying.value) {
-    stop()
+    _stop()
   }
 
   const text = getText()
@@ -168,20 +221,21 @@ const play = () => {
   }, 50)
 }
 
-const pause = () => {
+const play = () => {
+  updateStorage(true)
+  _play()
+}
+
+const _pause = () => {
   if (synth.value) {
     synth.value.pause()
     isPaused.value = true
   }
 }
 
-const stop = () => {
-  if (synth.value) {
-    synth.value.cancel()
-    isPlaying.value = false
-    isPaused.value = false
-    currentSegmentIndex.value = 0
-  }
+const pause = () => {
+  updateStorage(false)
+  _pause()
 }
 </script>
 
@@ -227,16 +281,35 @@ const stop = () => {
       </div>
     </div>
 
-    <div v-if="isPlaying" class="status-bar">
-      <span class="status-text">Narrando: {{ selectedVoice?.name }}</span>
-      <span class="progress-text" v-if="segments.length > 0">
-        ({{ Math.round(((currentSegmentIndex) / segments.length) * 100) }}%)
+    <div v-if="isPlaying || statusMessage" class="status-bar">
+      <span class="status-text">{{ statusMessage || (selectedVoice ? `Narrando: ${selectedVoice.name}` : '') }}</span>
+      <span class="progress-text" v-if="segments.length > 0 && !statusMessage">
+        {{ Math.round(((currentSegmentIndex) / segments.length) * 100) }}%
       </span>
+    </div>
+
+    <div v-if="(isPlaying || statusMessage) && segments.length > 0" class="progress-container">
+        <div class="progress-fill" :style="{ width: ((currentSegmentIndex / segments.length) * 100) + '%' }"></div>
     </div>
   </div>
 </template>
 
 <style scoped>
+.progress-container {
+  width: 100%;
+  height: 4px;
+  background-color: var(--vp-c-divider);
+  border-radius: 2px;
+  overflow: hidden;
+  margin-top: 5px;
+}
+
+.progress-fill {
+  height: 100%;
+  background-color: var(--vp-c-brand);
+  transition: width 0.3s ease;
+}
+
 .audio-player {
   margin-bottom: 2rem;
   padding: 1rem;
