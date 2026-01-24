@@ -25,7 +25,13 @@
 *   **Gostos/Traços:** Viciado em pizza e café. Insone e paranoico.
 *   **Perfil Psicológico:** Cínico e violento, mas com um código de honra rígido. Protege os inocentes com uma fúria silenciosa.
 *   **Função:** Inspetor da Divisão de Casos Esquecidos / "O Herói do Apagão".
-*   **Histórico:** Filho do Comissário Dante Moretti. Liderou a resistência contra o Dilúvio e o Projeto Gênesis. Sobreviveu à queda da tecnologia e agora trabalha na reconstrução manual da cidade.
+
+### ⏳ Linha do Tempo
+*   **Pré-Série:** Filho do Comissário Dante Moretti. Sofreu lesão na coluna causada pelo "Taxidermista".
+*   **Partes I-VII (A Queda):** Investigou a conspiração da Aeterna Corp, sofreu "cancelamento" social e morte digital. Liderou a resistência inicial.
+*   **Partes VIII-XI (O Dilúvio):** Sobreviveu à enchente catastrófica que submergiu a cidade. Perdeu sua mãe, Helena. Invadiu o núcleo dos servidores para desligar o escudo climático.
+*   **Parte XII-XIII (O Renascimento):** Enfrentou a seita "Os Jardineiros". Foi infectado pela "Praga de Ferro", resultando na necessidade de biotecnologia para sobreviver.
+*   **Parte XIV (O Vazio):** Atua na reconstrução manual da cidade ("Analog Noir"). Desceu ao "Berçário" subterrâneo com Lívia. Confrontou e destruiu a forma ciborgue de Roberto Miranda e testemunhou a queda de Silas Vance.
 
 ---
 
@@ -44,8 +50,13 @@
 *   **Gostos/Traços:** Viciada em bebidas energéticas e noodles. Hackear outdoors por diversão.
 *   **Perfil Psicológico:** Otimista e hiperativa. A bússola moral digital de Gabo. Lealdade feroz e uma paixão crescente por ele.
 *   **Função:** Detetive Júnior (Afastada) / Símbolo da Resistência.
-*   **Histórico:** Prodígio recrutada para a polícia. Ajudou Gabo em todas as crises. Foi infectada pela "Praga de Ferro" ao tentar salvar o servidor central no final da Parte XIII. Atualmente encontra-se em estado de petrificação (estase) no Parque Memorial, aguardando cura.
- 
+
+### ⏳ Linha do Tempo
+*   **Pré-Série:** Prodígio tecnológica recrutada para a força policial.
+*   **Partes I-XII:** Braço direito de Gabo. Hackeou os sistemas da Aeterna e operou como "Olhos de Deus" para a resistência.
+*   **Parte XIII:** Durante a tentativa de salvar o servidor central da corrupção biológica, foi infectada pela "Praga de Ferro".
+*   **Atualidade:** Encontra-se em estado de estase (petrificada) no Parque Memorial, aguardando uma possível cura desenvolvida pela Dra. Nise.
+
 ---
 
 ## Marco Moretti - [STATUS: FALECIDO / ABSORVIDO]
@@ -63,7 +74,11 @@
 *   **Gostos/Traços:** Ambição desmedida.
 *   **Perfil Psicológico:** Narcisista e psicopata.
 *   **Função:** Ex-Prefeito / Vilão.
-*   **Histórico:** Irmão de Gabo. Após sua "morte" na Torre, sua consciência ou biomassa foi absorvida pelo Projeto Gênesis, tornando-se parte da colmeia de Silas Vance até ser destruído definitivamente por Gabo.
+
+### ⏳ Linha do Tempo
+*   **Parte VI (A Torre):** Irmão de Gabo, revelou-se um antagonista chave. Presumido morto durante a queda da Torre.
+*   **Pós-Morte:** Sua consciência (ou restos biológicos) foi absorvida pelo "Projeto Gênesis", tornando-se parte da colmeia mental.
+*   **Parte XIV:** Reapareceu como uma manifestação na "Árvore Mestre", mas foi definitivamente destruído por Gabo e pela dissolução da rede de Silas Vance.
 
 ---
 
@@ -72,7 +87,12 @@
 ![Dante Moretti](/dante.jpg)
 
 *   **Status:** [ATIVO / CONSCIÊNCIA DIGITAL EM CORPO BIOLÓGICO]
-*   **Histórico:** Pai de Gabo e Comissário lendário. Sua consciência, preservada digitalmente, foi baixada com sucesso para um corpo clonado perfeito durante a "Convergência" (Capítulo 103). Agora é uma entidade híbrida, possuindo o conhecimento da nuvem e a forma física de seu auge.
+*   **Função:** Lenda Policial / Nova Entidade.
+
+### ⏳ Linha do Tempo
+*   **Pré-Série:** Comissário lendário de Baía Cinzenta. Pai de Gabo e Marco. Falecido anos antes do início da trama.
+*   **Parte V:** Seu túmulo foi aberto e encontrado vazio, levantando suspeitas sobre seu destino real.
+*   **Parte XIV (A Convergência):** Revelado que sua consciência foi preservada digitalmente. No Capítulo 103, o "Projeto Gênesis" completou o download dessa consciência para um corpo clonado perfeito (hospedeiro biológico), criando uma entidade híbrida com o conhecimento da nuvem e a forma física de seu auge.
 
 ---
 
@@ -91,7 +111,11 @@
 *   **Gostos/Traços:** Silêncio eterno.
 *   **Perfil Psicológico:** Nulo.
 *   **Função:** Ex-Guardião.
-*   **Histórico:** Ex-parceiro de Gabo e assassino de Bia. Reanimado como ciborgue pelo Projeto Gênesis, foi finalmente destruído por Gabo durante a batalha no Berçário (Capítulo 103).
+
+### ⏳ Linha do Tempo
+*   **Pré-Série:** Ex-parceiro de Gabo. Revelou-se corrupto e assassino de Bia Vargas.
+*   **Parte II:** Confrontado por Gabo nos túneis do metrô.
+*   **Parte XIV:** Reanimado pelo Projeto Gênesis como um ciborgue grotesco para guardar o "Berçário". Travou uma batalha final contra Gabo (Capítulo 103), onde teve seu crânio esmagado e foi permanentemente destruído.
 
 ---
 
@@ -108,7 +132,10 @@
 *   **Gostos/Traços:** Nenhum.
 *   **Perfil Psicológico:** Nenhum.
 *   **Função:** Ex-Líder.
-*   **Histórico:** Parente de Elara Vance. Criador do Projeto Gênesis. No momento de seu triunfo, foi traído e absorvido pela entidade "Dante Moretti" recém-acordada, servindo como combustível biológico para o novo hospedeiro.
+
+### ⏳ Linha do Tempo
+*   **Parte XII:** Surgiu como líder da seita "Os Jardineiros", pregando a supremacia biológica sobre a tecnológica.
+*   **Parte XIV:** Arquiteto do "Projeto Gênesis". No momento de seu aparente triunfo (a ressurreição de Dante), foi traído pela própria criação. A entidade Dante absorveu sua biomassa para estabilizar o novo corpo, matando Silas instantaneamente.
 
 ---
 
@@ -127,7 +154,11 @@
 *   **Gostos/Traços:** Minimalismo.
 *   **Perfil Psicológico:** Sociopata funcional.
 *   **Função:** Ex-CEO da Aeterna Corp.
-*   **Histórico:** Arquiteta do Projeto Ecos. Presumida morta, mas descoberta na "Fila de Processamento" do Projeto Gênesis (Capítulo 102). O sistema pretende apagar sua mente para usar seu corpo como hospedeiro.
+
+### ⏳ Linha do Tempo
+*   **Partes I-VI:** Antagonista corporativa principal, responsável pelo projeto dos chips neurais e pela "Chuva".
+*   **Parte VII (O Apagão):** Desapareceu após a queda da Torre e o colapso da Aeterna.
+*   **Parte XIV:** Descoberta na "Fila de Processamento" do Projeto Gênesis (Capítulo 102), marcada para ter a mente apagada e o corpo usado como hospedeiro. Escapou ou foi libertada no caos, paradeiro atual desconhecido.
 
 ---
 
@@ -144,7 +175,10 @@
 *   **Gostos/Traços:** Fusão de carne e mecanismo.
 *   **Perfil Psicológico:** Artista delirante.
 *   **Função:** Serial Killer.
-*   **Histórico:** Responsável pela paralisia de Gabo. Seu paradeiro após o caos do Projeto Gênesis é desconhecido. Pode ter apreciado a ironia da "carne mecânica".
+
+### ⏳ Linha do Tempo
+*   **Pré-Série:** Responsável pela tortura e paralisia original de Gabo Moretti.
+*   **Atualidade:** Seu paradeiro permanece desconhecido após o caos do Projeto Gênesis. Suspeita-se que ainda opere nas sombras.
 
 ---
 
@@ -163,7 +197,10 @@
 *   **Gostos/Traços:** Ler.
 *   **Perfil Psicológico:** Resiliente.
 *   **Função:** Irmã de Gabo.
-*   **Histórico:** Sobrevivente do Dilúvio e da Praga. Ajuda Nise nos cuidados médicos pós-colapso.
+
+### ⏳ Linha do Tempo
+*   **Parte IX (Dilúvio):** Sobreviveu à enchente e à destruição de sua casa.
+*   **Atualidade:** Trabalha como assistente da Dra. Nise, ajudando nos cuidados médicos dos sobreviventes e dos petrificados.
 
 ---
 
@@ -182,7 +219,10 @@
 *   **Gostos/Traços:** Receitas de família.
 *   **Perfil Psicológico:** Protetores da comunidade.
 *   **Função:** Informantes.
-*   **Histórico:** A pizzaria sobreviveu a tudo, inclusive à praga biológica (o calor do forno protegeu o local dos esporos sensíveis à temperatura).
+
+### ⏳ Linha do Tempo
+*   **Geral:** A pizzaria serviu como refúgio e ponto de encontro para Gabo durante todas as crises.
+*   **Parte XIII:** O calor do forno a lenha protegeu o estabelecimento dos esporos da praga biológica.
 
 ---
 
@@ -201,7 +241,10 @@
 *   **Gostos/Traços:** Jardinagem.
 *   **Perfil Psicológico:** Coração moral.
 *   **Função:** Memória.
-*   **Histórico:** Mãe de Gabo. Falecida.
+
+### ⏳ Linha do Tempo
+*   **Pré-Série:** Mãe amorosa de Gabo e Marco.
+*   **Parte IX (Dilúvio):** Faleceu tragicamente durante a enchente, marcando profundamente o psicológico de Gabo.
 
 ---
 
@@ -218,7 +261,9 @@
 *   **Gostos/Traços:** Jazz antigo.
 *   **Perfil Psicológico:** Idealista.
 *   **Função:** Memória / Motivação.
-*   **Histórico:** Ex-parceira assassinada.
+
+### ⏳ Linha do Tempo
+*   **Pré-Série:** Ex-parceira de Gabo. Descobriu a corrupção na força policial e foi assassinada por Roberto Miranda para ser silenciada.
 
 ---
 
@@ -235,7 +280,10 @@
 *   **Gostos/Traços:** Fama.
 *   **Perfil Psicológico:** Superficial.
 *   **Função:** Vítima.
-*   **Histórico:** Morto por overdose.
+
+### ⏳ Linha do Tempo
+*   **Parte II:** Celebridade digital usada pela Aeterna Corp.
+*   **Parte IV:** Encontrado morto por overdose (induzida ou acidental) da droga Lázaro.
 
 ---
 
@@ -254,7 +302,11 @@
 *   **Gostos/Traços:** Silêncio.
 *   **Perfil Psicológico:** Redimido.
 *   **Função:** Mercenário.
-*   **Histórico:** Morto na batalha da Torre. Sua biomassa pode ter sido usada pelo Jardineiro, mas sua consciência se foi.
+
+### ⏳ Linha do Tempo
+*   **Partes I-VI:** Atuou como mercenário implacável a serviço da Aeterna.
+*   **Parte VIII (Cinzas):** Reapareceu transformado no vigilante "O Santo", protegendo os fracos nas favelas.
+*   **Parte XIII:** Caiu em combate.
 
 ---
 
@@ -273,7 +325,12 @@
 *   **Gostos/Traços:** Verdade.
 *   **Perfil Psicológico:** Destemida.
 *   **Função:** Jornalista.
-*   **Histórico:** Conseguiu escapar da cúpula e publicou a verdade sobre a Aeterna para o mundo exterior. Retornou recentemente para ajudar na reconstrução.
+
+### ⏳ Linha do Tempo
+*   **Pré-Série:** Ex-esposa de Gabo, deixou a cidade antes do bloqueio.
+*   **Parte V:** Retornou a Baía Cinzenta e foi sequestrada, sendo usada como peão contra Gabo.
+*   **Partes VI-XIII:** Atuou como jornalista independente, expondo os crimes da Aeterna para o mundo exterior.
+*   **Parte XIV:** Acompanhou Gabo na invasão ao "Berçário" subterrâneo, lutando ao seu lado com uma escopeta.
 
 ---
 
@@ -292,7 +349,10 @@
 *   **Gostos/Traços:** Charutos.
 *   **Perfil Psicológico:** Honesto.
 *   **Função:** Chefe de Polícia.
-*   **Histórico:** Sobreviveu à purga e lidera a nova força policial comunitária.
+
+### ⏳ Linha do Tempo
+*   **Partes I-VII:** Um dos poucos policiais honestos na força corrupta.
+*   **Parte XIV:** Sobreviveu a todas as purgas e agora lidera a "Polícia Comunitária", tentando manter a ordem na era sem tecnologia.
 
 ---
 
@@ -309,7 +369,10 @@
 *   **Gostos/Traços:** Reclamar da falta de ar-condicionado.
 *   **Perfil Psicológico:** Burocrata adaptado. Encontrou seu lugar organizando o caos do "mundo de papel".
 *   **Função:** Detetive / Administrador da Delegacia da Biblioteca.
-*   **Histórico:** Reintegrado por Vilar após o Apagão. Sua habilidade com papelada e procedimentos revelou-se vital para organizar a nova força policial sem computadores.
+
+### ⏳ Linha do Tempo
+*   **Partes I-VII:** Burocrata ineficiente que atrapalhava Gabo com papelada.
+*   **Parte XIV:** Foi reintegrado por Vilar. Sua obsessão por procedimentos e arquivos físicos tornou-se vital para a administração da polícia após o colapso dos computadores.
 
 ---
 
@@ -328,7 +391,10 @@
 *   **Gostos/Traços:** Chá.
 *   **Perfil Psicológico:** Maternal.
 *   **Função:** Médica.
-*   **Histórico:** Lidera a pesquisa sobre a cura para os "petrificados" pela Praga.
+
+### ⏳ Linha do Tempo
+*   **Geral:** Médica legista e aliada de longa data.
+*   **Atualidade:** Lidera os esforços de pesquisa para encontrar uma cura para as vítimas petrificadas pela Praga de Ferro, incluindo Valéria.
 
 ---
 
@@ -347,4 +413,8 @@
 *   **Gostos/Traços:** Proteção.
 *   **Perfil Psicológico:** Sacrificial.
 *   **Função:** Guardiã Silenciosa.
-*   **Histórico:** Fundiu-se à "Grande Convergência" para anular o código genético do Projeto Gênesis. Embora sua interface direta tenha desaparecido ("O Silêncio"), sua essência permeia a infraestrutura básica, garantindo que o pesadelo digital não retorne.
+
+### ⏳ Linha do Tempo
+*   **Parte I:** Conhecida como "A Menina do Orelhão", foi resgatada por Gabo.
+*   **Parte XI:** Fundiu sua consciência digital à infraestrutura da cidade ("A Grande Convergência") para anular o controle da Aeterna e o Projeto Gênesis.
+*   **Parte XIV:** Permanece como uma presença silenciosa na infraestrutura básica, garantindo que o pesadelo digital não retorne.
