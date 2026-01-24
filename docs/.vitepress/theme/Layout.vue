@@ -10,6 +10,9 @@ const { frontmatter } = useData()
 
 const isTerminalOpen = ref(false)
 const progress = ref(0)
+let docHeight = 0
+let ticking = false
+let resizeObserver = null
 
 const toggleTerminal = () => {
   isTerminalOpen.value = !isTerminalOpen.value
@@ -23,22 +26,47 @@ const handleKeydown = (e) => {
   }
 }
 
+const calculateDocHeight = () => {
+  docHeight = document.body.scrollHeight - window.innerHeight
+}
+
 const updateProgress = () => {
-  const scrollTop = window.scrollY
-  const docHeight = document.body.scrollHeight - window.innerHeight
-  if (docHeight > 0) {
-    progress.value = (scrollTop / docHeight) * 100
+  if (!ticking) {
+    window.requestAnimationFrame(() => {
+      const scrollTop = window.scrollY
+      if (docHeight > 0) {
+        progress.value = (scrollTop / docHeight) * 100
+      }
+      ticking = false
+    })
+    ticking = true
   }
 }
 
 onMounted(() => {
   window.addEventListener('keydown', handleKeydown)
+
+  // Initialize and track document height changes efficiently
+  calculateDocHeight()
+  window.addEventListener('resize', calculateDocHeight)
+
+  if (window.ResizeObserver) {
+    resizeObserver = new ResizeObserver(() => {
+      calculateDocHeight()
+    })
+    resizeObserver.observe(document.body)
+  }
+
   window.addEventListener('scroll', updateProgress)
 })
 
 onUnmounted(() => {
   window.removeEventListener('keydown', handleKeydown)
+  window.removeEventListener('resize', calculateDocHeight)
   window.removeEventListener('scroll', updateProgress)
+  if (resizeObserver) {
+    resizeObserver.disconnect()
+  }
 })
 </script>
 
