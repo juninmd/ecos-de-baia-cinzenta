@@ -93,7 +93,7 @@
 *   **Pré-Série:** Comissário lendário de Baía Cinzenta. Pai de Gabo e Marco. Falecido anos antes do início da trama.
 *   **Parte V:** Seu túmulo foi aberto e encontrado vazio, levantando suspeitas sobre seu destino real.
 *   **Parte XIV (A Convergência):** Revelado que sua consciência foi preservada digitalmente. No Capítulo 103, o "Projeto Gênesis" completou o download dessa consciência para um corpo clonado perfeito (hospedeiro biológico), criando uma entidade híbrida com o conhecimento da nuvem e a forma física de seu auge.
-
+*   **Capítulo 104:** Dante Moretti retorna à superfície em seu corpo biológico (Projeto Gênesis). Gabo e Lívia testemunham sua interação fria e calculista com o Inspetor Rangel. Dante assume o controle da infraestrutura física da cidade, sinalizando o fim da era do "Vazio".
 ---
 
 ## Roberto Miranda - [STATUS: DESTRUÍDO / INATIVO]
@@ -413,6 +413,7 @@
 *   **Gostos/Traços:** Proteção.
 *   **Perfil Psicológico:** Sacrificial.
 *   **Função:** Guardiã Silenciosa.
+*   **Histórico:** Fundiu-se à "Grande Convergência" para anular o código genético do Projeto Gênesis. Embora sua interface direta tenha desaparecido ("O Silêncio"), sua essência permeia a infraestrutura básica, garantindo que o pesadelo digital não retorne.
 
 ### ⏳ Linha do Tempo
 *   **Parte I:** Conhecida como "A Menina do Orelhão", foi resgatada por Gabo.

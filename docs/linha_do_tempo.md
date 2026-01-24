@@ -84,3 +84,4 @@ Atualmente, na **Parte XIV: O Vazio**, a história atinge seu ápice de transfor
 *   **O Berçário:** Gabo e Lívia descem aos túneis.
 *   **Retorno de Miranda:** Roberto Miranda reaparece como uma fusão de carne e máquina, guardião do "Projeto Gênesis".
 *   **A Convergência:** Gabo e Lívia confrontam Silas e Roberto. O upload da consciência de Dante Moretti para um novo corpo biológico é completado, iniciando uma nova era.
+*   **O Preço da Alvorada:** Dante Moretti, agora uma entidade biológica perfeita, emerge na superfície e assume o comando da infraestrutura remanescente, encerrando o silêncio do "Vazio" com uma eficiência aterrorizante.

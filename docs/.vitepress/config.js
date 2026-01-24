@@ -185,6 +185,7 @@ module.exports = {
           { text: 'Capítulo 101: Ressonância', link: '/capitulo-101' },
           { text: 'Capítulo 102: Raízes Amargas', link: '/capitulo-102' },
           { text: 'Capítulo 103: A Convergência', link: '/capitulo-103' },
+          { text: 'Capítulo 104: O Preço da Alvorada', link: '/capitulo-104' },
         ]
       },
       {
