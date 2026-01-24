@@ -73,8 +73,10 @@ Uma frequência subliminar transmitida pelas antenas da cidade. Aumenta a agress
 Além da corrupção corporativa, Baía Cinzenta é lar de predadores únicos.
 
 ### Kael "O Cirurgião"
-*   **Perfil:** Mercenário de elite da Aeterna.
-*   **Modus Operandi:** Usa implantes médicos modificados para tortura. Ele não fala, apenas executa.
+*   **Perfil:** Mercenário de elite da Aeterna e filósofo da dor.
+*   **Modus Operandi:** Kael não mata rápido. Ele desativa o sistema nervoso das vítimas para que elas sintam tudo, mas não possam se mover ou desmaiar. Ele trata a tortura como uma "autópsia em vida", buscando a verdade biológica escondida sob a pele.
+*   **O Mito:** Dizem que ele substituiu suas cordas vocais por um modulador que emite infrassom, causando náusea em quem está perto. Nos distritos baixos, mães ameaçam crianças malcomportadas dizendo: "O Cirurgião vai te consertar". Ele é a razão pela qual ninguém negocia com a Aeterna.
+*   **Assinatura:** Ele sempre deixa uma incisão perfeita em forma de "Y" no peito das vítimas sobreviventes. A marca da autópsia.
 
 ### O Taxidermista (Serial Killer)
 *   **Identidade:** Desconhecida.
@@ -104,3 +106,21 @@ Além da corrupção corporativa, Baía Cinzenta é lar de predadores únicos.
 2.  **Tecnologia é Maldição:** High tech, low life. A tecnologia serve para oprimir, não libertar.
 3.  **Realismo Sujo:** As lutas são feias, os machucados infeccionam, o café é ruim.
 4.  **O Mistério é Prioridade:** A ação deve servir à investigação, não o contrário.
+5.  **Conteúdo Seguro (Safe Content):** Não há nudez ou conteúdo sexual explícito na narrativa. O foco é na tensão psicológica e na violência estilizada.
+
+## 8. Detalhes Adicionais do Mundo (Lore Expandida)
+
+*   **O Palácio de Jade:** O centro nervoso do submundo, encravado na Zona Industrial. Um cassino que serve de zona neutra para políticos corruptos e líderes de gangue.
+*   **O Shadowban:** Um fenômeno onde cidadãos têm sua identidade digital apagada, tornando-se invisíveis para os serviços públicos e portas automáticas. Eles formam uma subclasse de "Fantasmas".
+*   **A Culinária de Rua:** Devido à poluição, a comida de verdade é um luxo. A maioria consome "Ração K" (barras de proteína de inseto) ou "Noodles Sintéticos" nos balcões de rua iluminados por neon. A pizza do casal Rossi é lendária não pelo sabor, mas por usar farinha real (contrabandeada).
+*   **Moda:** A estética é utilitária. Capas de chuva transparentes, máscaras de filtro customizadas e couro sintético reforçado. Ninguém anda com pele exposta devido à chuva ácida.
+
+## 9. Manual de Estilo Neo-Noir (Regras de Escrita)
+
+Para manter o tom solicitado:
+
+1.  **A Luz é Inimiga:** Nunca descreva o sol como algo bom. Ele é "impiedoso", "cru", "revelador de cicatrizes". A luz de neon deve ser descrita como "sintética", "doente", "vibrando com falha".
+2.  **Cinismo na Voz:** A narração de Gabo deve sempre assumir o pior. Um barulho não é um gato, é um assassino. Um sorriso não é amizade, é manipulação. O otimismo é um luxo que ele não pode pagar.
+3.  **Moralidade Cinzenta:** Ninguém é puramente bom. Até Valéria hackeia por diversão. Até Elena mata sem hesitar. Os "heróis" são apenas as pessoas que escolheram o mal menor.
+4.  **A Cidade como Personagem:** Descreva a arquitetura como se ela odiasse os habitantes. Prédios que "esmagam o horizonte", ruas que "engolem esperanças", chuva que "tenta afogar a história".
+5.  **Tecnologia Falha:** Nada funciona perfeitamente. Telas piscam, baterias morrem, implantes rejeitam. O futuro é quebrado e consertado com fita adesiva.

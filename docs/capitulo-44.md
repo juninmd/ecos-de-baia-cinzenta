@@ -19,9 +19,11 @@ Uma forma humanaoide emergiu de trás de um container. Tinha pele cinza, sem pel
 
 — O que é isso? — sussurrou Elena.
 
-A criatura sibilou, abrindo uma boca cheia de dentes de agulha.
+A criatura sibilou. Não era apenas um monstro. O rosto, distorcido e sem nariz, ainda tinha resquícios humanos. Uma tatuagem desbotada no ombro dizia "Mamãe". Ela usava restos de um uniforme de paciente da Aeterna.
 
-— Experimentos — disse Gabo, destravando a escopeta. — Aeterna Labs. Quando os laboratórios inundaram... eles abriram as jaulas.
+— Por Deus... — Gabo baixou a arma por um segundo perigoso. — Eles não são criações novas. São os pacientes da ala de rejeitados. Eles... adaptaram.
+
+— Experimentos de evolução forçada — disse Elena, com nojo e pena. — Quando a água subiu, eles não se afogaram. Eles mudaram.
 
 A criatura saltou. Era incrivelmente rápida.
 

@@ -3,25 +3,55 @@ image: /capitulo_23.jpg
 ---
 # Capítulo 23: Ratos e Reis
 
-O "Palácio de Jade" não era um palácio, e a única coisa verde lá dentro era o feltro mofado das mesas de jogo e a luz doente dos neons quebrados. Ficava encravado na Zona Industrial, um tumor de concreto entre fábricas desativadas.
+O "Palácio de Jade" exalava o cheiro doce e podre de privilégio decadente. Encravado entre as chaminés mortas da Zona Industrial, parecia um tumor de neon pulsando na carne cinzenta da cidade. Não era apenas um cassino; era um ecossistema. Aqui, o dinheiro impresso pela Aeterna Corp era lavado com o sangue do Sindicato.
 
-Gabo não bateu. Ele entrou com o Cobalt através da parede de vidro fosco da entrada.
+Gabo parou o Cobalt a uma quadra de distância. A chuva tamborilava no teto blindado, um ritmo nervoso que combinava com o de seus dedos no volante.
 
-O carro derrapou pelo saguão, espalhando cacos de vidro e mesas de plástico. Jogadores — viciados em Lázaro, ciborgues de baixa renda, e desgraçados em geral — se espalharam como baratas quando a luz acende.
+— Tem certeza que ele está aí? — perguntou Elena, verificando a trava de sua pistola pela terceira vez.
 
-Gabo saiu do carro, a escopeta "Vilha" na mão. Valéria saltou do lado do passageiro, seu deck já ativo, bloqueando as comunicações do local. Elena ficou no carro, protegendo o dossiê.
+— Ratos de esgoto gostam de queijo caro — disse Gabo. — E Miranda sempre teve um gosto refinado para a imundície.
 
-— Onde ele está?! — rugiu Gabo.
+Ele olhou para a entrada. Dois gorilas com implantes dérmicos de blindagem (grau militar, proibidos para civis) guardavam as portas duplas. Carros de luxo flutuavam ou rodavam até o valet, despejando a elite corrupta de Baía Cinzenta: vereadores que votavam contra a saúde pública, lobistas da Aeterna com sorrisos de porcelana e traficantes de órgãos com ternos de seda sintética.
 
-Um segurança, um armário de músculos sintéticos baratos, tentou sacar uma arma. Gabo disparou no joelho dele. O homem caiu gritando.
+— Val, você tem a planta? — perguntou Gabo.
 
-— Roberto Miranda! — gritou Gabo novamente.
+— O lugar é uma gaiola de Faraday — respondeu Valéria, frustrada, batendo no deck. — Sem sinal lá dentro. Mas consegui interceptar uma lista de convidados vip.
 
-No mezanino, uma figura tentou correr para a saída de incêndio. O braço esquerdo da figura brilhava com metal cromado sob a luz estroboscópica.
+Ela projetou os nomes no painel do carro.
 
-— Val! — gritou Gabo.
+*   **Senador Vargas:** O homem que legalizou a servidão por dívida.
+*   **Madame Li:** A rainha do tráfico de sintéticos da Zona Norte.
+*   **Os Gêmeos Kray:** Executores do Sindicato.
 
-Valéria fez um gesto com a mão. As portas automáticas da saída de incêndio travaram com um baque metálico.
+— "Ratos e Reis" — murmurou Gabo. — Estão todos no mesmo buraco.
+
+— O plano? — perguntou Elena.
+
+— Sutileza zero — disse Gabo, engatando a primeira marcha. — Vamos bater na porta. Com o para-choque.
+
+Ele pisou fundo. O motor V8 rugiu, acordando a rua morta. O Cobalt disparou como um míssil azul.
+
+Os seguranças nem tiveram tempo de sacar as armas. Gabo não atropelou ninguém — ele era um policial, afinal, mesmo sem distintivo — mas atravessou a parede de vidro fosco ao lado da entrada principal com a delicadeza de um aríete.
+
+O mundo explodiu em estilhaços e gritos.
+
+O carro derrapou pelo saguão de mármore falso, espalhando mesas de baccarat e jogando fichas de crédito para o ar como confete. A música eletrônica parou. O silêncio que se seguiu foi quebrado apenas pelo som do motor do Cobalt morrendo e pelo tinir de vidro caindo.
+
+Gabo chutou a porta do motorista. Ele saiu, a escopeta "Vilha" descansando no ombro. Valéria saltou do outro lado, bloqueando instantaneamente os sistemas de alarme locais com um pulso EMP de curto alcance. Elena ficou na retaguarda, cobrindo os flancos.
+
+Gabo olhou ao redor. O Senador Vargas estava encolhido debaixo de uma mesa de blackjack, sua imunidade parlamentar inútil contra calibre 12. Madame Li mantinha a compostura, segurando sua taça de champanhe, embora o líquido tremesse.
+
+— Ninguém sai! — rugiu Gabo. — A festa acabou.
+
+Um segurança, um armário de músculos sintéticos baratos, tentou sacar uma submetralhadora. Gabo nem mirou. O disparo da Vilha atingiu o joelho do homem, pulverizando a rótula de titânio. Ele caiu gritando, o som ecoando no salão cavernoso.
+
+— Eu quero o gerente! — gritou Gabo, caminhando entre as mesas. Ninguém ousou respirar. — Eu quero Roberto Miranda!
+
+No mezanino, protegido por vidro à prova de balas (ou assim ele pensava), uma figura conhecida tentou se esgueirar para a saída de incêndio. O braço esquerdo da figura brilhava com um cromo novo e caro sob a luz estroboscópica de emergência.
+
+— Val! — sinalizou Gabo.
+
+Valéria fez um gesto cortante no ar. As travas magnéticas das portas de emergência, que Miranda havia instalado com tanta paranoia, agora se voltavam contra ele. Elas selaram com um baque surdo de caixão fechando.
 
 Miranda olhou para a porta trancada, depois para Gabo lá embaixo. Ele sorriu, um sorriso nervoso e cheio de dentes.
 

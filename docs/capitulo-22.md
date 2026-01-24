@@ -27,7 +27,21 @@ Gabo olhou para o diagrama. O cérebro flutuando em seu casulo de vidro, os cabo
 
 — Continue — ordenou ele, a voz um rosnado áspero, quebrado.
 
-Valéria, pálida, digitava em seu deck, os hologramas dançando em seus olhos.
+Valéria, pálida, tentava quebrar a criptografia do arquivo, mas a tela exibia 'ACESSO NEGADO'.
+
+— Está bloqueado biometricamente — disse ela, frustrada. — Mas a chave não é uma impressão digital. É... um padrão de batimentos cardíacos. Ou algo análogo.
+
+Gabo tocou o peito. No bolso interno do casaco, ele carregava o relógio de bolso antigo do pai, quebrado na hora da morte. Ele o tirou.
+
+— Não é um batimento — disse Gabo. — É um tique-taque.
+
+Ele aproximou o relógio do sensor do deck de Val. O som rítmico, mecânico e imperfeito, foi captado. A tela piscou. *ACESSO CONCEDIDO: USUÁRIO DANTE_LEGACY.*
+
+Valéria olhou para ele, atônita.
+
+— Ele usou o som do próprio tempo parando como senha.
+
+Os hologramas finalmente se abriram, dançando nos olhos dela.
 
 — A Rede da Aeterna... era um fracasso no início. A IA pura não conseguia processar a imprevisibilidade, a... alma de Baía Cinzenta. Eles precisavam de um processador orgânico, um que tivesse vivido e respirado a corrupção e a lei desta cidade.
 

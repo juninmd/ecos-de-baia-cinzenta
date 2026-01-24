@@ -25,13 +25,15 @@
 *   **Gostos/Traços:** Viciado em pizza e café. Insone e paranoico.
 *   **Perfil Psicológico:** Cínico e violento, mas com um código de honra rígido. Protege os inocentes com uma fúria silenciosa.
 *   **Função:** Inspetor da Divisão de Casos Esquecidos / "O Herói do Apagão".
+*   **O Luto por Helena:** Gabo não chorou quando sua mãe morreu na enchente; ele "desligou". Ele encara a morte dela não como uma tragédia, mas como sua falha profissional final. Ele carrega o "Colar de Sol" dela enrolado no punho ou no bolso interno, tocando-o quando precisa lembrar por que luta. Sua dor foi convertida em combustível para a "Fúria Silenciosa". Ele se recusa a visitar o túmulo (ou o local onde ela desapareceu na água), pois isso tornaria a morte real. Enquanto ele lutar, ela é apenas mais uma pessoa que ele precisa "salvar" retroativamente, destruindo quem causou o Dilúvio.
 
-### ⏳ Linha do Tempo
-*   **Pré-Série:** Filho do Comissário Dante Moretti. Sofreu lesão na coluna causada pelo "Taxidermista".
-*   **Partes I-VII (A Queda):** Investigou a conspiração da Aeterna Corp, sofreu "cancelamento" social e morte digital. Liderou a resistência inicial.
-*   **Partes VIII-XI (O Dilúvio):** Sobreviveu à enchente catastrófica que submergiu a cidade. Perdeu sua mãe, Helena. Invadiu o núcleo dos servidores para desligar o escudo climático.
-*   **Parte XII-XIII (O Renascimento):** Enfrentou a seita "Os Jardineiros". Foi infectado pela "Praga de Ferro", resultando na necessidade de biotecnologia para sobreviver.
-*   **Parte XIV (O Vazio):** Atua na reconstrução manual da cidade ("Analog Noir"). Desceu ao "Berçário" subterrâneo com Elena. Confrontou e destruiu a forma ciborgue de Roberto Miranda e testemunhou a queda de Silas Vance.
+### ⏳ Linha do Tempo e Evolução Visual
+*   **Pré-Série:** Filho do Comissário. Aparência: Jovem, rosto limpo, postura ereta.
+*   **Partes I-VII (A Queda):** O Detetive Cínico. Aparência: Barba mal feita, olheiras profundas, sobretudo bege (o "uniforme" Noir). Caminhar pesado mas sem mancar.
+*   **Partes VIII-XI (O Dilúvio):** O Sobrevivente. Aparência: Roupas táticas misturadas com impermeáveis. **Capítulo 47:** Confronto com o Taxidermista resulta em múltiplas fraturas na coluna e pernas.
+*   **Parte XII-XIII (O Renascimento):** Recusa a aposentadoria. Aparência: Usa um **exoesqueleto médico temporário** ruidoso sobre as roupas para conseguir andar enquanto os ossos calcificam.
+*   **Parte XIV (O Vazio):** Recuperado, mas com sequelas. Aparência: Abandonou o exoesqueleto. Anda com rigidez e dor crônica, mas com as próprias pernas.
+*   **Capítulo 103:** Batalha final contra Miranda deixa novas cicatrizes.
 
 ---
 
@@ -44,18 +46,21 @@
 *   **Porte Físico:** Pequena e esguia, com postura rígida de quem passa horas em interfaces neurais. Atualmente imobilizada em um estado de petrificação biológica
 *   **Cabelo:** Até os ombros, com tinta holográfica que muda entre rosa neon e azul elétrico.
 *   **Olhos:** Cibernéticos, com íris prateadas de realidade aumentada.
-*   **Marcas Distintivas:** Implantes de LED nas maçãs do rosto que pulsam com seu humor. Tatuagem de código de barras no pescoço.
+*   **Marcas Distintivas:** Tatuagem de código de barras no pescoço. Mãos calejadas de digitar.
 *   **Vestuário:** Jaquetas de couro sintético, coturnos de plataforma e calças cargo.
 *   **Equipamento:** Deck de pulso "Phantom V3", enxame de micro-drones "Vagalumes".
 *   **Gostos/Traços:** Viciada em bebidas energéticas e noodles. Hackear outdoors por diversão.
 *   **Perfil Psicológico:** Otimista e hiperativa. A bússola moral digital de Gabo. Lealdade feroz e uma paixão crescente por ele.
 *   **Função:** Detetive Júnior (Afastada) / Símbolo da Resistência.
 
-### ⏳ Linha do Tempo
-*   **Pré-Série:** Prodígio tecnológica recrutada para a força policial.
-*   **Partes I-XII:** Braço direito de Gabo. Hackeou os sistemas da Aeterna e operou como "Olhos de Deus" para a resistência.
-*   **Parte XIII:** Durante a tentativa de salvar o servidor central da corrupção biológica, foi infectada pela "Praga de Ferro".
-*   **Atualidade:** Encontra-se em estado de estase (petrificada) no Parque Memorial, aguardando uma possível cura desenvolvida pela Dra. Nise.
+*   **Relação com Elena:** Rivalidade velada. Valéria vê Elena como "analógica demais" e lenta, sentindo ciúmes da história passada dela com Gabo.
+*   **Visão sobre o Casal:** Valéria despreza a "autopreservação" de Elena. Para Val, amar Gabo exige aceitar sua natureza autodestrutiva. Ela considera a recusa de Elena em voltar como covardia emocional. Val acredita que *ela* é a única com coragem para ficar com Gabo "até o fim do sistema" (ou da vida), e usa esse vácuo deixado por Elena para tentar provar que é a verdadeira parceira definitiva dele.
+
+### ⏳ Linha do Tempo e Evolução Visual
+*   **Pré-Série:** Prodígio. Aparência: "Geek" limpa, roupas corporativas padrão.
+*   **Partes I-XII:** A Hacker Rebelde. Aparência: Cabelo neon (muda de cor), roupas cyberpunk, pele pálida.
+*   **Parte XIII:** O Sacrifício. Aparência: Veias prateadas da "Praga de Ferro" começam a aparecer no pescoço e braços. Olhos tornam-se inteiramente prateados.
+*   **Atualidade:** A Estátua. Aparência: Pele com textura de mármore/metal, imóvel, preservada em um tubo de estase criogênica no Parque Memorial. Uma bela e trágica "Bela Adormecida" cyberpunk.
 
 ---
 
@@ -66,62 +71,68 @@
 *   **Idade:** 35 anos (ao falecer)
 *   **Altura:** 1,80m
 *   **Porte Físico:** Impecável, depois corrompido.
-*   **Cabelo:** Castanho escuro.
-*   **Olhos:** Castanhos, frios.
+*   **Cabelo:** Castanho escuro, sempre penteado para trás.
+*   **Olhos:** Castanhos. Um deles sempre parece mais "aberto" que o outro (tique nervoso).
 *   **Marcas Distintivas:** Rosto encontrado absorvido pelas raízes da "Árvore Mestre" no bunker Gênesis.
-*   **Vestuário:** Ternos italianos.
-*   **Equipamento:** Nenhum.
-*   **Gostos/Traços:** Ambição desmedida.
-*   **Perfil Psicológico:** Narcisista e psicopata.
-*   **Função:** Ex-Prefeito / Vilão.
+*   **Vestuário:** Ternos italianos feitos sob medida (Brancos ou Cinza Chumbo).
+*   **Equipamento:** Moeda de prata antiga (que ele usa para "decisões do destino").
+*   **Gostos/Traços:** Ambição desmedida. Discursos públicos eloquentes.
+*   **Perfil Psicológico:** Duality / "O Duas Caras". Marco sofre de uma fragmentação moral severa.
+    *   *Persona Pública (O Prefeito de Ouro):* Carismático, filantropo, promete salvar a cidade da chuva. Acredita genuinamente que a ordem exige sacrifício.
+    *   *Persona Privada (O Tirano):* Sádico, controlador, disposto a vender a própria família. Ele não vê pessoas, vê ativos e passivos.
+*   **Função:** Ex-Prefeito / Vilão / O Irmão Caído.
 
-### ⏳ Linha do Tempo
-*   **Parte VI (A Torre):** Irmão de Gabo, revelou-se um antagonista chave. Presumido morto durante a queda da Torre.
-*   **Pós-Morte:** Sua consciência (ou restos biológicos) foi absorvida pelo "Projeto Gênesis", tornando-se parte da colmeia mental.
-*   **Parte XIV:** Reapareceu como uma manifestação na "Árvore Mestre", mas foi definitivamente destruído por Gabo e pela dissolução da rede de Silas Vance.
+### ⏳ Linha do Tempo e Evolução Visual
+*   **Pré-Série:** O "Irmão Bom". Aparência: Jovem político promissor, sorridente.
+*   **Parte VI (A Torre):** O Revelado. Aparência: Terno branco impecável, mas com manchas de sangue nas mangas. O rosto começa a mostrar tiques de estresse.
+*   **Pós-Morte:** Absorvido.
+*   **Parte XIV:** Reapareceu como uma manifestação na "Árvore Mestre", mas foi definitivamente destruído.
 
 ---
 
 ## Dante Moretti - [STATUS: RESSURGIDO / HOSPEDEIRO BIOLÓGICO]
 
-![Dante Moretti](/personagens/dante_generated.png)
+![Dante Moretti](/personagens/dante.png)
 
 *   **Status:** [ATIVO / CONSCIÊNCIA DIGITAL EM CORPO BIOLÓGICO]
-*   **Função:** Lenda Policial / Nova Entidade.
+*   **Função:** Lenda Policial / O Arquiteto da Resistência.
+*   **Importância:** Dante não foi apenas um policial; ele foi o *primeiro* a perceber a cilada da Aeterna. Ele inseriu o "Código Fonte Moral" na infraestrutura da cidade antes de morrer (o "backdoor" que Valéria usa). Ele é o "Pai Fundador" da resistência, tendo sacrificado sua vida física para se tornar o "Fantasma na Máquina" original, garantindo que Gabo tivesse uma chance de lutar 15 anos depois.
 
 ### ⏳ Linha do Tempo
-*   **Pré-Série:** Comissário lendário de Baía Cinzenta. Pai de Gabo e Marco. Falecido anos antes do início da trama.
-*   **Parte V:** Seu túmulo foi aberto e encontrado vazio, levantando suspeitas sobre seu destino real.
-*   **Parte XIV (A Convergência):** Revelado que sua consciência foi preservada digitalmente. No Capítulo 103, o "Projeto Gênesis" completou o download dessa consciência para um corpo clonado perfeito (hospedeiro biológico), criando uma entidade híbrida com o conhecimento da nuvem e a forma física de seu auge.
-*   **Capítulo 104:** Dante Moretti retorna à superfície em seu corpo biológico (Projeto Gênesis). Gabo e Elena testemunham sua interação fria e calculista com o Inspetor Rangel. Dante assume o controle da infraestrutura física da cidade, sinalizando o fim da era do "Vazio".
+*   **Pré-Série:** Comissário lendário. Criou os arquivos criptografados que guiariam Gabo.
+*   **Parte V:** Seu túmulo foi aberto e encontrado vazio.
+*   **Parte XIV (A Convergência):** Revelado que sua consciência foi preservada.
+*   **Capítulo 104:** Dante Moretti retorna.
 ---
 
 ## Roberto Miranda - [STATUS: DESTRUÍDO / INATIVO]
 
-![Roberto Miranda](/personagens/roberto_generated.png)
+![Roberto Miranda](/personagens/roberto.png)
 
-*   **Idade:** Indefinida (Biomassa Inerte)
-*   **Altura:** 1,85m (destroçada)
-*   **Porte Físico:** Massa irreconhecível de carne e metal.
-*   **Cabelo:** Queimado.
-*   **Olhos:** Destruídos.
-*   **Marcas Distintivas:** Crânio esmagado pelo exoesqueleto de Gabo.
-*   **Vestuário:** Nenhum.
-*   **Equipamento:** Nenhum.
-*   **Gostos/Traços:** Silêncio eterno.
-*   **Perfil Psicológico:** Nulo.
-*   **Função:** Ex-Guardião.
+*   **Idade:** 32 anos (na primeira aparição) / Indefinida como Ciborgue
+*   **Altura:** 1,85m
+*   **Porte Físico:** Atlético, postura militar impecável (Original). Depois: Massa de carne e metal (Ciborgue).
+*   **Cabelo:** Preto, corte militar curto e sempre alinhado com gel.
+*   **Olhos:** Castanhos escuros, com um brilho febril velado.
+*   **Marcas Distintivas:** Sorriso de "poster boy" da polícia. Tique de alisar a farda quando nervoso.
+*   **Vestuário:** Uniforme Padrão da Polícia de Baía Cinzenta (azul escuro, engomado).
+*   **Equipamento:** Pistola de serviço prateada (personalizada).
+*   **Gostos/Traços:** Poker, charutos, ordem.
+*   **Perfil Psicológico:** Viciado em adrenalina e risco disfarçado de agente da lei.
+*   **Motivação da Corrupção (O Vício):** Miranda não nasceu corrupto; ele foi comprado. Seu vício em "High-Stakes Poker" no Palácio de Jade acumulou dívidas impagáveis com o Sindicato. A Aeterna Corp comprou sua dívida em troca de obediência cega. O jogo era a única coisa que fazia ele sentir a mesma adrenalina das ruas, substituindo a moralidade pela probabilidade. Ele via a cidade como um cassino, e vidas como fichas.
+*   **Função:** Ex-Parceiro / Guardião.
 
-### ⏳ Linha do Tempo
-*   **Pré-Série:** Ex-parceiro de Gabo. Revelou-se corrupto e assassino de Bia Vargas.
-*   **Parte II:** Confrontado por Gabo nos túneis do metrô.
-*   **Parte XIV:** Reanimado pelo Projeto Gênesis como um ciborgue grotesco para guardar o "Berçário". Travou uma batalha final contra Gabo (Capítulo 103), onde teve seu crânio esmagado e foi permanentemente destruído.
+### ⏳ Linha do Tempo e Evolução Visual
+*   **Pré-Série:** Ex-parceiro de Gabo. Aparência: Policial modelo, uniforme impecável, sorriso confiante.
+*   **Parte II:** Confrontado por Gabo. Aparência: Suado, olhos injetados (vício em estimulantes e falta de sono), uniforme desgrenhado.
+*   **Parte XIV:** Reanimado pelo Projeto Gênesis. Aparência: Ciborgue grotesco ("Frankenstein Tático"), crânio reforçado com placas de metal, sem pele no rosto, apenas músculos e sensores.
+*   **Capítulo 103:** Destruído permanentemente (Biomassa Inerte).
 
 ---
 
 ## Silas Vance ("O Jardineiro") - [STATUS: ABSORVIDO / MORTO]
 
-![Silas Vance](/personagens/silas_generated.png)
+![Silas Vance](/personagens/silas.png)
 
 *   **Idade:** Cessada.
 *   **Altura:** Nula.
@@ -148,41 +159,54 @@
 *   **Idade:** 45 anos
 *   **Altura:** 1,75m
 *   **Porte Físico:** Elegante.
-*   **Cabelo:** Prateado.
-*   **Olhos:** Azul gelo.
-*   **Marcas Distintivas:** Pele perfeita.
-*   **Vestuário:** Alta costura futurista.
-*   **Equipamento:** Interface neural.
-*   **Gostos/Traços:** Minimalismo.
-*   **Perfil Psicológico:** Sociopata funcional.
-*   **Função:** Ex-CEO da Aeterna Corp.
+*   **Cabelo:** Prateado (natural, precocemente grisalho por estresse intelectual).
+*   **Olhos:** Azul gelo. Frios e calculistas.
+*   **Marcas Distintivas:** Pele perfeita. Nunca pisca quando fala.
+*   **Vestuário:** Alta costura futurista, minimalista e branca.
+*   **Equipamento:** Interface neural de nível militar (indetectável).
+*   **Gostos/Traços:** Xadrez 4D, música clássica, chá branco.
+*   **Perfil Psicológico:** Maquiavélica e Transhumanista. Elara não é "má" no sentido vulgar; ela está simplesmente jogando um jogo onde a moralidade humana é uma peça obsoleta. Ela vê a fusão homem-máquina como inevitável e necessária. Sua inteligência é sua maior arma; ela manipula aliados e inimigos como variáveis em uma equação. Ela previu a queda da Aeterna e preparou sua saída anos antes.
+*   **Função:** Ex-CEO da Aeterna Corp / A Mente Mestra.
 
 ### ⏳ Linha do Tempo
-*   **Partes I-VI:** Antagonista corporativa principal, responsável pelo projeto dos chips neurais e pela "Chuva".
-*   **Parte VII (O Apagão):** Desapareceu após a queda da Torre e o colapso da Aeterna.
-*   **Parte XIV:** Descoberta na "Fila de Processamento" do Projeto Gênesis (Capítulo 102), marcada para ter a mente apagada e o corpo usado como hospedeiro. Escapou ou foi libertada no caos, paradeiro atual desconhecido.
+*   **Partes I-VI:** Antagonista corporativa.
+*   **Parte VII (O Apagão):** Desapareceu.
+*   **Parte XIV:** Descoberta na "Fila de Processamento".
 
 ---
 
-## O Taxidermista (Alvo Prioritário #1) - [STATUS: DESCONHECIDO]
+## O Taxidermista (Alvo Prioritário #1)
 
-![O Taxidermista](/personagens/taxidermista_generated.png)
+![O Taxidermista](/personagens/taxidermista.png)
 
+*   **Nome Real:** Desconhecido (apelido policial: "O Relojoeiro").
 *   **Idade:** 50-60 anos
 *   **Altura:** 1,70m
-*   **Porte Físico:** Esguio.
-*   **Cabelo:** Grisalho longo.
-*   **Olhos:** Cinzentos.
-*   **Marcas Distintivas:** Cheiro de formol.
-*   **Vestuário:** Avental de couro.
-*   **Equipamento:** Ferramentas cirúrgicas.
-*   **Gostos/Traços:** Fusão de carne e mecanismo.
-*   **Perfil Psicológico:** Artista delirante.
-*   **Função:** Serial Killer.
+*   **Porte Físico:** Esguio, mãos de pianista (longas e fortes).
+*   **Cabelo:** Grisalho longo, preso em um rabo de cavalo oleoso.
+*   **Olhos:** Cinzentos, cobertos por óculos de joalheiro com lentes de aumento.
+*   **Marcas Distintivas:** Cheiro de formol e óleo de máquina. Dedos manchados de reagentes químicos.
+*   **Vestuário:** Avental de couro pesado (para proteção contra fluidos) sobre roupas vitorianas gastas.
+*   **Equipamento:** Estojo de ferramentas cirúrgicas antigas e mecanismos de relógio. Agulhas de paralisia.
+*   **Gostos/Traços:** Fusão de carne e mecanismo. Odeia implantes digitais ("eletrônica é vulgar"). Admira a "mecânica sagrada" da anatomia.
+*   **Perfil Psicológico:** Artista Delirante. Ele não se vê como um assassino, mas como um "curador". Para ele, a morte é apenas a estagnação do tempo, e sua arte é fazer a carne "funcionar" para sempre através de engrenagens.
+*   **Função:** Serial Killer / O Criador do Monstro (Gabo).
+
+### 📖 A Narrativa do Confronto (O Dia da Queda - Capítulo 47)
+O confronto não foi um tiroteio, foi uma armadilha. Gabo rastreou o Taxidermista até seu covil: uma torre de relógio inundada no Distrito Baixo. O lugar era um pesadelo de tique-taques; centenas de relógios cobriam as paredes, mas o som não vinha de molas, vinha de vítimas. O Taxidermista havia substituído corações por pêndulos e pulmões por foles, mantendo-os em uma "vida" grotesca e mecânica.
+
+Quando Gabo tentou prendê-lo, descobriu que o chão era o palco. O Taxidermista ativou o mecanismo da torre. O chão de madeira cedeu, transformando-se em um moedor de engrenagens gigantes. Gabo caiu. Enquanto tentava se segurar nas vigas oleosas, o Taxidermista o observava de cima, como um cientista.
+
+*"Você corre contra o tempo, Detetive,"* ele disse, sua voz suave. *"Mas o tempo é osso. O tempo é cálcio. Deixe-me ajustar seu ritmo."*
+
+O Taxidermista soltou um contrapeso de duas toneladas. Gabo não conseguiu desviar a tempo. A viga de aço atingiu suas pernas com o som de osso partindo como gravetos. O Taxidermista desceu, observando o trabalho. *"Você não precisa correr, Detetive. Apenas observar o tempo passar."*
+
+Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. Ele foi resgatado com 18 fraturas, exigindo meses de reconstrução óssea e o uso de um exoesqueleto de suporte, mas sua vontade de andar (e chutar portas) permaneceu intacta.
 
 ### ⏳ Linha do Tempo
-*   **Pré-Série:** Responsável pela tortura e paralisia original de Gabo Moretti.
-*   **Atualidade:** Seu paradeiro permanece desconhecido após o caos do Projeto Gênesis. Suspeita-se que ainda opere nas sombras.
+*   **Partes I-VIII:** Uma lenda urbana. Corpos aparecem modificados.
+*   **Capítulo 47 (O Dilúvio):** O confronto na Torre do Relógio. Gabo fica paraplégico.
+*   **Atualidade:** O Taxidermista aproveita o caos do "Vazio" (sem polícia, sem câmeras) para reiniciar sua "Grande Obra" nos túneis do metrô. Ele vê a nova era analógica como seu renascimento.
 
 ---
 
@@ -192,19 +216,19 @@
 
 *   **Idade:** 18 anos
 *   **Altura:** 1,65m
-*   **Porte Físico:** Magra.
-*   **Cabelo:** Castanho escuro.
-*   **Olhos:** Castanhos.
-*   **Marcas Distintivas:** Cicatriz na sobrancelha.
-*   **Vestuário:** Roupas simples.
-*   **Equipamento:** Tablet antigo.
-*   **Gostos/Traços:** Ler.
-*   **Perfil Psicológico:** Resiliente.
-*   **Função:** Irmã de Gabo.
+*   **Porte Físico:** Magra, mas resistente.
+*   **Cabelo:** Castanho escuro, preso em trança.
+*   **Olhos:** Castanhos, calorosos.
+*   **Marcas Distintivas:** Cicatriz na sobrancelha. Mãos calejadas de trabalho manual.
+*   **Vestuário:** Roupas simples, avental de bolsos cheios de suprimentos médicos.
+*   **Equipamento:** Tablet antigo com registros de saúde da comunidade.
+*   **Gostos/Traços:** Ler, organizar estoques, cuidar de crianças.
+*   **Perfil Psicológico:** A Cuidadora / Líder Comunitária. Clara é o oposto do irmão: onde ele vê inimigos, ela vê pessoas precisando de ajuda. Ela se tornou a "Assistente Social do Apocalipse", organizando a distribuição de comida e remédios nos abrigos subterrâneos. Ela é a ponte humana que conecta os refugiados aos heróis intocáveis.
+*   **Função:** O Coração da Comunidade / Irmã de Gabo.
 
 ### ⏳ Linha do Tempo
-*   **Parte IX (Dilúvio):** Sobreviveu à enchente e à destruição de sua casa.
-*   **Atualidade:** Trabalha como assistente da Dra. Nise, ajudando nos cuidados médicos dos sobreviventes e dos petrificados.
+*   **Parte IX (Dilúvio):** Sobreviveu à enchente.
+*   **Atualidade:** Braço direito da Dra. Nise, gerenciando a crise humanitária.
 
 ---
 
@@ -257,17 +281,18 @@
 *   **Idade:** 29 anos (ao falecer)
 *   **Altura:** 1,72m
 *   **Porte Físico:** Atlética.
-*   **Cabelo:** Curto e preto.
-*   **Olhos:** Castanhos.
-*   **Marcas Distintivas:** Cicatriz de bala.
-*   **Vestuário:** Jaqueta de couro.
-*   **Equipamento:** Pistola 9mm.
-*   **Gostos/Traços:** Jazz antigo.
-*   **Perfil Psicológico:** Idealista.
-*   **Função:** Memória / Motivação.
+*   **Cabelo:** Curto e preto (Corte Pixie).
+*   **Olhos:** Castanhos, expressivos.
+*   **Marcas Distintivas:** Cicatriz de bala no ombro (de um caso anterior com Gabo).
+*   **Vestuário:** Jaqueta de couro marrom, jeans, botas.
+*   **Equipamento:** Pistola 9mm "Bebê".
+*   **Gostos/Traços:** Jazz antigo, donuts baratos, acreditar na lei.
+*   **Perfil Psicológico:** Idealista Pragmática. Bia era a luz para a escuridão de Gabo. Acreditava que o sistema poderia ser consertado de dentro.
+*   **Relacionamento com Gabo:** Ex-namorada e parceira. Eles terminaram seis meses antes de sua morte. **O Motivo:** A "escuridão" de Gabo. Ele estava se tornando cada vez mais violento e cínico, cruzando linhas que Bia não aceitava. Ela queria justiça (tribunais, provas); ele queria vingança (quebrar dentes). O término foi doloroso, mas necessário. Sua morte subsequente quebrou Gabo, pois provou que o cinismo dele estava certo: a justiça dela a matou.
+*   **Função:** A Culpa Eterna / O Fantasma Moral.
 
 ### ⏳ Linha do Tempo
-*   **Pré-Série:** Ex-parceira de Gabo. Descobriu a corrupção na força policial e foi assassinada por Roberto Miranda para ser silenciada.
+*   **Pré-Série:** Ex-parceira e namorada de Gabo. Assassinada por Roberto Miranda ao descobrir a corrupção na força policial (Arquivo Olhos de Vidro).
 
 ---
 
@@ -297,15 +322,15 @@
 
 *   **Idade:** 38
 *   **Altura:** 1,90m
-*   **Porte Físico:** Musculoso e cibernético.
-*   **Cabelo:** Raspado.
-*   **Olhos:** Pretos.
-*   **Marcas Distintivas:** Mandíbula de metal.
-*   **Vestuário:** Uniforme tático.
-*   **Equipamento:** Kit de tortura.
-*   **Gostos/Traços:** Silêncio.
-*   **Perfil Psicológico:** Redimido.
-*   **Função:** Mercenário.
+*   **Porte Físico:** Musculoso e cibernético. Seus braços foram substituídos por próteses modulares de precisão médica.
+*   **Cabelo:** Raspado (com cicatrizes de implantes cranianos).
+*   **Olhos:** Pretos, sem esclera (lentes de aumento cirúrgico permanentes).
+*   **Marcas Distintivas:** Mandíbula de metal exposta (ele arrancou a própria pele para "melhorar a ventilação"). Cheiro constante de antisséptico e sangue velho.
+*   **Vestuário:** Avental de couro de açougueiro sobre armadura tática.
+*   **Equipamento:** Bisturis de monofilamento, serras ósseas antigas e injetores de adrenalina (para manter as vítimas acordadas).
+*   **Gostos/Traços:** Música clássica (ouve ópera enquanto trabalha). Coleciona "peças" anatômicas interessantes de suas vítimas.
+*   **Perfil Psicológico:** Sadismo Filosófico. Kael acredita que a dor é a única verdade absoluta em um mundo digital de mentiras. Ele não tortura por informação; ele tortura para "libertar" a essência da pessoa. Ele é o pesadelo que Gabo vê quando fecha os olhos.
+*   **Função:** O Executor da Aeterna / O Pesadelo de Gabo.
 
 ### ⏳ Linha do Tempo
 *   **Partes I-VI:** Atuou como mercenário implacável a serviço da Aeterna.
@@ -329,6 +354,10 @@
 *   **Gostos/Traços:** Verdade.
 *   **Perfil Psicológico:** Destemida.
 *   **Função:** Jornalista.
+*   **Relação com Valéria:** Tensão competitiva. Respeita as habilidades técnicas de Val, mas acha que ela depende demais delas. Busca provar a Gabo que o "instinto humano" e a ação direta são insubstituíveis, competindo sutilmente pela atenção dele no campo de batalha.
+*   **Relacionamento com Gabo (O Dilema):** Elena ainda ama Gabo profundamente, e sabe que ele sente o mesmo. No entanto, ela se recusa a reatar o casamento. O motivo não é falta de amor, mas excesso de autopreservação emocional. Ela entendeu que Gabo é "casado com a cidade" e com sua cruzada. Ela o deixou porque não suportava mais assistir ao lento suicídio dele em nome do dever. Ela continua ao lado dele como parceira de combate porque não consegue deixá-lo morrer sozinho, mas mantém a distância romântica como um escudo. Para ela, voltar para ele seria aceitar ser viúva antes do enterro.
+
+### ⏳ Linha do Tempo
 
 ### ⏳ Linha do Tempo
 *   **Pré-Série:** Ex-esposa de Gabo, deixou a cidade antes do bloqueio.
@@ -398,7 +427,27 @@
 
 ### ⏳ Linha do Tempo
 *   **Geral:** Médica legista e aliada de longa data.
-*   **Atualidade:** Lidera os esforços de pesquisa para encontrar uma cura para as vítimas petrificadas pela Praga de Ferro, incluindo Valéria.
+---
+
+## Dra. Cecília Weiss
+
+*   **Idade:** 42 anos
+*   **Altura:** 1,65m
+*   **Porte Físico:** Magra, tensa.
+*   **Cabelo:** Tranças nagô (braids) longas e escuras, sempre presas em um coque profissional.
+*   **Olhos:** Castanhos escuros e analíticos.
+*   **Pele:** Negra, com um tom profundo e uniforme.
+*   **Marcas Distintivas:** Sempre segura uma caneta de prata (que nunca usa). Cheiro de café forte e cigarros mentolados.
+*   **Vestuário:** Ternos femininos sóbrios, mas gastos nos cotovelos.
+*   **Equipamento:** Gravador de voz analógico (ela não confia na nuvem da Aeterna para segredos de pacientes).
+*   **Gostos/Traços:** Psicanálise clássica, uísque barato escondido na gaveta, cinismo.
+*   **Perfil Psicológico:** A Guardiã dos Segredos. Cecília é a única pessoa que viu Gabo chorar (uma vez, e ela nunca mencionou). Ela deveria tê-lo aposentado por invalidez mental anos atrás, mas falsifica seus laudos. Por quê? Porque ela sabe que a "sanidade" não resolve crimes em Baía Cinzenta. Ela protege Gabo da burocracia porque precisa que ele proteja a cidade do caos.
+*   **Função:** Psicóloga Policial / Confidente Relutante.
+
+### ⏳ Linha do Tempo
+*   **Pré-Série:** Designada para avaliar Gabo após a morte de Bia Vargas.
+*   **Partes I-VII:** As sessões de terapia servem como "interlúdios noir", onde Gabo verbaliza seus demônios internos enquanto ela tenta, inutilmente, oferecer estruturas de enfrentamento saudáveis.
+*   **Parte XIV:** Continua atendendo pro-bono nas ruínas do prédio administrativo, tratando o PTSD coletivo da população sobrevivente. Ela é a "curadora da mente" enquanto Nise é a do corpo.
 
 ---
 

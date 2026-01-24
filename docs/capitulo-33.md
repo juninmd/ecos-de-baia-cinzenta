@@ -33,11 +33,13 @@ Gabo mancou até o carro e passou a mão no capô. A poeira cobria o metal frio.
 
 Ele puxou a chave do bolso. Não um cartão magnético, não um chip de presença. Um pedaço de metal serrilhado. Ele a inseriu na fechadura. O clique mecânico soou como um tiro na garagem silenciosa.
 
-Ele girou a ignição. O motor de combustão rugiu, um som gutural, sujo e maravilhoso. Nada de elétrico. Apenas explosões controladas de gasolina e ar.
+Ele girou a ignição. O motor de combustão, uma peça de museu, tossiu uma, duas vezes. Engasgou como um velho fumante acordando. Gabo prendeu a respiração.
 
-— Isso é música — disse Gabo. O motor de combustão, uma peça de museu barulhenta e ineficiente, tossiu uma, duas vezes, e então rugiu, um som gutural e poderoso que ecoou pelo concreto. Os faróis se acenderam, duas lanças de luz que perfuraram a escuridão.
+Então, rugiu.
 
-O carro era burro. Não tinha conexão com a Rede, não tinha piloto automático, não tinha interface neural. Tinha um motor, quatro rodas e um volante. E por isso, naquele momento, era o objeto mais valioso da cidade.
+Não o zumbido estéril dos elétricos, mas um rosnado gutural de explosões controladas, cheiro de gasolina e vibração crua que sacudiu o chassi. Os faróis se acenderam, amarelos e quentes, cortando a escuridão asséptica da garagem.
+
+Era uma máquina burra, ineficiente e barulhenta. E por isso, era a única coisa viva e livre na cidade morta.
 
 — Ar condicionado! — gemeu Val, jogando-se no banco de trás.
 

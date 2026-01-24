@@ -51,11 +51,15 @@ De repente, todos os monitores de Val piscaram. O rosto de Aria, o avatar da men
 
 — *Não. É como se... não estivesse lá. Mas eu sinto a dor. Eles estão cortando meus nervos.*
 
-A transmissão do rádio analógico aumentou de volume subitamente, sobrepondo-se à voz de Aria.
+A transmissão do rádio analógico aumentou de volume subitamente, sobrepondo-se à voz de Aria e ficando nítida, sem estática.
 
-*"O SILÊNCIO VOLTOU. O SILÊNCIO VOLTOU."*
+*"Gabo... o relógio do seu pai parou... mas o meu ainda bate."*
 
-O rádio explodiu em faíscas. Val recuou, praguejando.
+Gabo gelou. A voz. Não era um monstro, nem um efeito sonoro. Era a voz de Roberto Miranda. Mas Miranda estava morto.
+
+O rádio não explodiu. Ele apenas clicou e desligou. Um fim de transmissão definitivo.
+
+Val recuou, olhando para o aparelho silencioso como se fosse uma bomba.
 
 — Eles sabem que estamos ouvindo — disse ela.
 

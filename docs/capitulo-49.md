@@ -5,60 +5,44 @@ description: "Val e Gabo preparam uma armadilha mortal para as forças da Aetern
 image: /capitulo_49.jpg
 ---
 
-# Capítulo 49: A Isca Perfeita
+# Capítulo 49: A Vigília
 
-— É uma péssima ideia — disse Gabo, a voz chiando pelo comunicador em meu ouvido. Ele estava observando tudo da sala de controle da delegacia, uma coruja ferida e impaciente.
+A chuva lá fora soava como estática de TV. Dentro do bunker médico improvisado, o único som era o bip rítmico do monitor cardíaco e o zumbido dos servidores refrigerando a sala.
 
-— As melhores ideias sempre são — respondi, agachada no telhado de um armazém inundado no Cais 17. A chuva batia na minha jaqueta sintética. Abaixo, um dos canais principais, agora mais largo e profundo por causa do Dilúvio.
+Gabo estava deitado na mesa, pálido, enfaixado do peito aos pés. A Dra. Nise havia trabalhado por doze horas seguidas para remontar o que o Taxidermista havia esmagado. Dezoito fraturas. Pélvis, fêmures, vértebras lombares.
 
-A "isca" não era um carro, mas algo muito maior. Uma barcaça de transporte de combustível, velha e enferrujada, que eu havia "requisitado" do pátio de sucata da Marinha. Eu a ancorei bem no meio do canal.
+Valéria estava sentada no chão, de costas para a mesa de operação, com a submetralhadora "Vetor" no colo. Seus olhos não estavam no paciente; estavam na porta de aço reforçado.
 
-— Val, os relatórios dizem que eles se movem em pequenos esquadrões. Eles não vão usar uma rota de transporte tão óbvia.
+— Você deveria dormir, Val — disse Nise, limpando o sangue das luvas.
 
-— Eles vão se o sistema de navegação deles disser que é a única rota segura — falei, meus dedos dançando sobre um teclado holográfico. — O fantasma de Vance está na rede, mas eu também estou. Eu não o expulsei. Eu o isolei. Criei um jardim murado para ele brincar, e dentro desse jardim, eu reescrevi os mapas. Para os Bio-Soldados dele, este canal é a única passagem desobstruída para o centro da cidade.
+— O sono é um app que eu desinstalei — respondeu Valéria, sem piscar. Seus olhos prateados varriam o espectro infravermelho, térmico e sonoro do corredor lá fora. — O Taxidermista não trabalha sozinho. Ele tem "clientes". E agora que o Gabo está fora de combate, eles virão terminar o serviço.
 
-— Você está usando a tática deles contra eles.
+— Quem?
 
-— Eu aprendo rápido — sorri.
+— Todos eles. O Sindicato. Os mercenários da Aeterna. — Val engatilhou a arma. — Gabo chutou o formigueiro, e agora a rainha mandou as operárias limparem a bagunça.
 
-Soltei meus *Vagalumes*. Os micro-drones zumbiram e se posicionaram, me dando uma visão de 360 graus. No porão da barcaça de combustível, não havia combustível. Havia algo que Gabo conseguiu com velhos contatos do mercado negro: uma dúzia de minas navais magnéticas, ligadas a um único detonador sem fio sob meu controle.
+Um sensor de movimento apitou silenciosamente na lente de contato de Val.
 
-Esperamos. Uma hora. Duas.
+Três assinaturas de calor no corredor leste. Movimento tático. Armamento pesado.
 
-Então, um dos drones captou movimento. Uma barcaça de transporte de tropas inimiga, longa e baixa na água, movendo-se silenciosamente pelo canal. Estava cheia de Bio-Soldados, dezenas deles, e no centro da embarcação, o próprio Comandante Leviatã, seus apêndices biomecânicos brilhando sob a luz fraca da tempestade.
+Valéria se levantou. Seu cabelo holográfico, geralmente um show de luzes neon, estava fixo em um vermelho sólido e estático. Modo de Combate.
 
-Eles estavam se movendo para o coração da cidade, esperando encontrar uma resistência enfraquecida.
+— Nise, apague as luzes. Fique no chão.
 
-— Alvo na rede — murmurei.
+— O que você vai fazer? — perguntou a médica, a voz trêmula.
 
-A barcaça inimiga aproximou-se da nossa isca. Eles a viram, mas a ignoraram, um pedaço de lixo flutuante em seu caminho para a conquista.
+Valéria conectou seu deck à rede de segurança do prédio. As câmeras do corredor se apagaram. As travas magnéticas das portas laterais se abriram.
 
-— Gabo, você está vendo isso? — perguntei, o coração virtual batendo mais rápido.
+— Vou mostrar a eles por que você nunca deve tentar desligar o computador de um hacker.
 
-— Estou vendo. Val... é um alvo grande.
+Ela saiu para a escuridão do corredor.
 
-A barcaça de tropas passou ao lado da barcaça de combustível. O momento perfeito.
+Os três assassinos avançavam com óculos de visão noturna, silenciadores erguidos. Eles não viram Valéria. Eles viram apenas fantasmas digitais — projeções holográficas que Val espalhou pelo corredor para confundi-los. Quando dispararam contra as sombras, Valéria disparou contra a carne.
 
-— *Game Over* — eu disse.
+Foi rápido. Brutal. Silencioso.
 
-Apertei o *Enter* no meu pulso.
+Valéria voltou para a enfermaria minutos depois, limpando uma mancha de sangue da bochecha. Ela se sentou novamente ao lado de Gabo, pegou a mão inerte dele e entrelaçou seus dedos cibernéticos nos dedos calejados dele.
 
-A explosão não foi apenas um estrondo. Foi um terremoto. Uma coluna de fogo e água subiu aos céus, iluminando a noite como um sol doente. A onda de choque quebrou janelas a quilômetros de distância.
+— Ninguém toca nele — sussurrou ela para a escuridão. — Ninguém.
 
-A barcaça de tropas foi partida ao meio, o metal retorcido cuspido em todas as direções. Os Bio-Soldados foram vaporizados ou jogados na água fervente.
-
-Mas quando a fumaça começou a se dissipar, meu drone focado no Leviatã mostrou algo que fez meu processador central vacilar.
-
-O Comandante não estava na barcaça.
-
-No último segundo, ele saltou, usando seus apêndices para se lançar no ar. Ele pousou no telhado de um prédio próximo, a couraça chamuscada e danificada, mas vivo.
-
-Ele se virou e olhou diretamente para a minha posição, como se soubesse exatamente onde eu estava. Seus olhos ópticos brilharam com uma fúria vermelha.
-
-— Ele sabia — sussurrei. — Era uma armadilha dentro de uma armadilha.
-
-— Val, saia daí! AGORA! — gritou Gabo no meu ouvido.
-
-O Leviatã soltou um rugido que não era de dor, mas de desafio. Ele sabia meu nome, mesmo que eu não o tivesse dito. Ele me viu na rede.
-
-A caçada havia se tornado pessoal.
+Gabo continuou dormindo, alheio à anja da morte que velava seu sono. A dívida de sangue estava apenas começando a ser paga.

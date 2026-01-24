@@ -23,7 +23,7 @@ Ele fechou o capô e se virou.
 
 Valéria Cruz estava encostada no batente da porta da garagem improvisada. Algo estava diferente. Levou um segundo para Gabo perceber: ela estava "desligada".
 
-O cabelo holográfico estava estático, um rosa pálido e opaco. As linhas de LED em sua pele estavam apagadas. Ela usava óculos escuros grossos, algo que nunca precisou antes, já que suas retinas eram modificadas para filtrar qualquer espectro de luz.
+O cabelo holográfico estava estático, um rosa pálido e opaco. Ela usava óculos escuros grossos, algo que nunca precisou antes, já que suas retinas eram modificadas para filtrar qualquer espectro de luz.
 
 — O sol está fritando meus sensores ópticos — disse ela, ajeitando os óculos. — A ironia é palpável. Sobrevivemos ao apocalipse digital para sermos derrotados pelos raios UV.
 
@@ -91,7 +91,7 @@ Gabo caminhou até o Cobalt e abriu a porta. O motor rugiu, uma besta de combust
 
 — Bem-vinda de volta ao trabalho, parceira.
 
-Val sorriu, um sorriso tenso, mas genuíno. Ela tocou a têmpora e, por um breve momento, seus LEDs piscaram em vermelho.
+Val sorriu, um sorriso tenso, mas genuíno. Ela tocou a têmpora e, por um breve momento, seu cabelo piscou um tom de vermelho vivo.
 
 — Eu dirijo — disse ela, contornando o carro. — Você ainda dirige como um idoso.
 

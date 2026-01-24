@@ -81,8 +81,8 @@ Gabo ofegava. Ele olhou para os robôs destruídos. Na lataria branca, agora man
 
 Ele pegou seu celular e escaneou.
 
-O resultado apareceu na tela: **ATIVO IMOBILIÁRIO - LOTE 404. PROPRIETÁRIO: FUNDO DE INVESTIMENTOS OMEGA.**
+O resultado apareceu na tela: **ATIVO IMOBILIÁRIO - LOTE 404. PROPRIETÁRIO: AETERNA PRIME.** 
 
 Gabo cuspiu no chão.
 
-— Eles estão comprando a cidade peça por peça — disse ele. — E nós somos o entulho.
+— Não é um novo consórcio — disse ele, percebendo a mentira. — É a mesma velha Aeterna, vestindo roupa nova. Eles estão comprando a própria cidade falida.

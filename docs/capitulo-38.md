@@ -9,7 +9,7 @@ Gabo estava sentado nos degraus da entrada da delegacia, limpando a fuligem da e
 
 Dentro da delegacia, a euforia da vitória tinha dado lugar a algo mais sombrio.
 
-Gabo entrou no saguão. A cena era patética. Policiais durões, homens e mulheres que tinham enfrentado tiros horas antes, agora estavam sentados no chão, tremendo. Alguns olhavam fixamente para as telas negras de seus comunicadores, apertando botões que não funcionavam, em um tique nervoso repetitivo. Outros roíam as unhas até sangrar. Um oficial vomitava em um canto.
+Gabo entrou no saguão. A cena era um hospital de campanha para almas. Policiais durões, que enfrentaram tiros sem piscar, agora estavam encolhidos em posição fetal. Um oficial arranhava o próprio antebraço onde ficava o plugin neural, a pele em carne viva. Outro gritava com uma tela desligada, implorando por uma atualização de feed que nunca viria. O silêncio digital não era paz; era tortura.
 
 — O que há com eles? — perguntou Elena, que distribuía garrafas de água.
 

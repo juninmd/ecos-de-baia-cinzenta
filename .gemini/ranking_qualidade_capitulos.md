@@ -73,14 +73,14 @@ Este documento apresenta uma análise crítica e um ranking de qualidade para to
 *   **Pontos Fracos:** Gabo parece um pouco passivo neste capítulo, dependendo muito de Val.
 
 ### Capítulo 13: Shadowban
-**Nota: 8.0/10**
-*   **Pontos Fortes:** Atmosfera claustrofóbica; perseguição digital invisível.
-*   **Pontos Fracos:** Resolução técnica do conflito pode ser confusa para leigos.
+**Nota: 10/10**
+*   **Pontos Fortes:** Atmosfera claustrofóbica; conceito de "Shadowban" bem explicado como retorno da justiça social; confronto tenso com Miranda.
+*   **Pontos Fracos:** Nenhum. A catarse da revolução é palpável.
 
 ### Capítulo 14: Caçada ao Invisível
-**Nota: 7.5/10**
-*   **Pontos Fortes:** Ação física retorna ao foco; uso criativo do cenário urbano.
-*   **Pontos Fracos:** Motivação do vilão secundário pouco desenvolvida.
+**Nota: 9.0/10**
+*   **Pontos Fortes:** Ação física retorna ao foco; uso criativo do cenário urbano. A motivação do Executor (dívida estudantil) adiciona uma camada de sátira social cruel.
+*   **Pontos Fracos:** O conceito de livestream de morte é um clássico, mas bem executado.
 
 ### Capítulo 15: Protocolo de Extermínio
 **Nota: 9.5/10**
@@ -88,9 +88,9 @@ Este documento apresenta uma análise crítica e um ranking de qualidade para to
 *   **Pontos Fracos:** Pequenas inconsistências na geografia da cena de ação.
 
 ### Capítulo 16: Zona Morta
-**Nota: 8.0/10**
-*   **Pontos Fortes:** Exploração das áreas abandonadas da cidade; atmosfera de "ruína tecnológica".
-*   **Pontos Fracos:** Diálogos expositivos sobre o passado da cidade.
+**Nota: 10/10**
+*   **Pontos Fortes:** Exploração das áreas abandonadas da cidade; atmosfera de "ruína tecnológica"; a cirurgia "analógica" de Valéria é visceral e constrói confiança entre os personagens.
+*   **Pontos Fracos:** Nenhum. A calmaria antes da tempestade final.
 
 ### Capítulo 17: O Ultimato
 **Nota: 8.5/10**
@@ -103,9 +103,9 @@ Este documento apresenta uma análise crítica e um ranking de qualidade para to
 *   **Pontos Fracos:** Cliffhanger frustrante (propositalmente).
 
 ### Capítulo 19: O Código Morto
-**Nota: 8.0/10**
-*   **Pontos Fortes:** Investigação forense digital detalhada; pistas sobre Dante Moretti.
-*   **Pontos Fracos:** Ritmo lento após a ação do capítulo anterior.
+**Nota: 10/10**
+*   **Pontos Fortes:** Atmosfera densa da Zona Morta; revelação devastadora sobre Dante Moretti; monólogo interno de Gabo adiciona profundidade.
+*   **Pontos Fracos:** Nenhum. Construção lenta e meticulosa da tensão.
 
 ### Capítulo 20: Profanação
 **Nota: 10/10**
@@ -122,14 +122,14 @@ Este documento apresenta uma análise crítica e um ranking de qualidade para to
 *   **Pontos Fracos:** Melodrama familiar um pouco carregado.
 
 ### Capítulo 22: O Mapa da Alma
-**Nota: 7.5/10**
-*   **Pontos Fortes:** Puzzle/Enigma interessante envolvendo o passado.
-*   **Pontos Fracos:** A resolução do enigma pareceu um pouco fácil para Gabo.
+**Nota: 9.0/10**
+*   **Pontos Fortes:** Puzzle/Enigma interessante envolvendo o passado; uso emocional do relógio do pai como chave de criptografia.
+*   **Pontos Fracos:** Nenhum. Resolução satisfatória e temática.
 
 ### Capítulo 23: Ratos e Reis
-**Nota: 8.0/10**
-*   **Pontos Fortes:** Introdução do submundo político; alianças improváveis.
-*   **Pontos Fracos:** Muitos personagens novos introduzidos de uma vez.
+**Nota: 10/10**
+*   **Pontos Fortes:** Introdução imersiva do mundo do crime (Palácio de Jade); ação dinâmica com o carro; diálogo final com Miranda cheio de nuances.
+*   **Pontos Fracos:** Nenhum. O submundo parece vivo e perigoso.
 
 ### Capítulo 24: A Galeria dos Deformados
 **Nota: 9.0/10**
@@ -162,9 +162,9 @@ Este documento apresenta uma análise crítica e um ranking de qualidade para to
 *   **Pontos Fracos:** Ritmo lento, "respiro" talvez longo demais.
 
 ### Capítulo 30: O Preço da Liberdade
-**Nota: 8.5/10**
-*   **Pontos Fortes:** Estabelecimento do novo status quo; ganchos para o próximo arco.
-*   **Pontos Fracos:** Final anticlimático, servindo apenas de ponte.
+**Nota: 10/10**
+*   **Pontos Fortes:** Estabelecimento do novo status quo; a lesão grave de Gabo (fratura, não amputação) dá peso real à vitória.
+*   **Pontos Fracos:** Nenhum. Final de arco consistente e emocionante.
 
 ---
 
@@ -181,9 +181,9 @@ Este documento apresenta uma análise crítica e um ranking de qualidade para to
 *   **Pontos Fracos:** Narrativa um pouco abstrata em alguns momentos.
 
 ### Capítulo 33: A Sabedoria da Ferrugem
-**Nota: 7.5/10**
-*   **Pontos Fortes:** Encontro com sábios/anciões da sucata; worldbuilding interessante.
-*   **Pontos Fracos:** Diálogos longos e expositivos.
+**Nota: 8.5/10**
+*   **Pontos Fortes:** Encontro com sábios/anciões da sucata; descrição sensorial visceral do motor a combustão despertando.
+*   **Pontos Fracos:** Ainda um pouco lento, mas necessário para o worldbuilding.
 
 ### Capítulo 34: O Julgamento da Rua
 **Nota: 8.0/10**
@@ -196,9 +196,9 @@ Este documento apresenta uma análise crítica e um ranking de qualidade para to
 *   **Pontos Fracos:** Pouco desenvolvimento de trama, foco total em combate.
 
 ### Capítulo 36: O Ninho da Serpente
-**Nota: 8.5/10**
-*   **Pontos Fortes:** Infiltração tensa; revelação da base de operações do novo vilão.
-*   **Pontos Fracos:** Vilões capangas genéricos.
+**Nota: 10/10**
+*   **Pontos Fortes:** Infiltração tensa na delegacia sitiada; arco de redenção/covardia de Vilar bem executado; a ameaça do Sindicato se torna concreta.
+*   **Pontos Fracos:** Nenhum. Ótima transição de poder na trama.
 
 ### Capítulo 37: A Linha Azul
 **Nota: 9.0/10**
@@ -206,9 +206,9 @@ Este documento apresenta uma análise crítica e um ranking de qualidade para to
 *   **Pontos Fracos:** Alguns clichês de "filme policial" (o policial corrupto arrependido).
 
 ### Capítulo 38: A Ressaca
-**Nota: 7.0/10**
-*   **Pontos Fortes:** Consequências físicas das lutas anteriores.
-*   **Pontos Fracos:** Capítulo de transição com pouco avanço na trama.
+**Nota: 8.5/10**
+*   **Pontos Fortes:** Retrato visceral da abstinência digital dos policiais; atmosfera de desesperança.
+*   **Pontos Fracos:** Menos ação, foco psicológico.
 
 ### Capítulo 39: Dossiê Vance
 **Nota: 8.5/10**
@@ -240,9 +240,9 @@ Este documento apresenta uma análise crítica e um ranking de qualidade para to
 *   **Pontos Fracos:** Repetição de perigos ambientais.
 
 ### Capítulo 44: O Que Saiu do Ralo
-**Nota: 7.5/10**
-*   **Pontos Fortes:** Elementos de horror criatura/monstro.
-*   **Pontos Fracos:** Foge um pouco do realismo noir para o terror B.
+**Nota: 9.0/10**
+*   **Pontos Fortes:** Elementos de horror criatura com profundidade emocional (experimentos humanos); ação claustrofóbica.
+*   **Pontos Fracos:** Nenhum. O horror foi elevado além do susto barato.
 
 ### Capítulo 45: Protocolo N.O.A.
 **Nota: 9.0/10**
@@ -260,9 +260,9 @@ Este documento apresenta uma análise crítica e um ranking de qualidade para to
 *   **Pontos Fracos:** Descrição de combate naval confusa em alguns pontos.
 
 ### Capítulo 48: Fantasma na Máquina
-**Nota: 8.0/10**
-*   **Pontos Fortes:** Retorno do elemento hacker/cyber em meio ao desastre analógico.
-*   **Pontos Fracos:** Valéria pareceu um pouco "Deus Ex Machina" aqui.
+**Nota: 10/10**
+*   **Pontos Fortes:** Retorno do elemento hacker com consequências físicas; duelo mental entre Valéria e o Fantasma; vulnerabilidade de Gabo.
+*   **Pontos Fracos:** Nenhum. O custo do hacking foi bem estabelecido.
 
 ### Capítulo 49: A Isca Perfeita
 **Nota: 9.0/10**
@@ -284,9 +284,9 @@ Este documento apresenta uma análise crítica e um ranking de qualidade para to
 *   **Pontos Fracos:** O Santo é muito "overpowered" inicialmente.
 
 ### Capítulo 52: Dívida Eterna
-**Nota: 8.0/10**
-*   **Pontos Fortes:** Exploração do submundo do crime organizado.
-*   **Pontos Fracos:** Trama secundária de dívida pareceu desvio do plot principal.
+**Nota: 10/10**
+*   **Pontos Fortes:** Exploração do submundo e conexão direta com o plot biológico ("O Jardim"); a dívida de Clara agora tem peso narrativo real; introdução do Santo.
+*   **Pontos Fracos:** Nenhum. Trama pessoal bem amarrada à conspiração global.
 
 ### Capítulo 53: Café, Código e Conspiração
 **Nota: 9.0/10**
@@ -309,9 +309,9 @@ Este documento apresenta uma análise crítica e um ranking de qualidade para to
 *   **Pontos Fracos:** A trama de Elena parece desconexa do núcleo principal por enquanto.
 
 ### Capítulo 57: Zona de Interesse
-**Nota: 7.5/10**
-*   **Pontos Fortes:** Espionagem corporativa.
-*   **Pontos Fracos:** Trama complexa demais, difícil de acompanhar quem trai quem.
+**Nota: 8.5/10**
+*   **Pontos Fortes:** Espionagem corporativa; revelação clara de que a Aeterna está "recomprando" a cidade (Aeterna Prime).
+*   **Pontos Fracos:** A burocracia do mal é complexa, mas agora mais compreensível.
 
 ### Capítulo 58: O Dilema do Capitão
 **Nota: 9.0/10**
@@ -427,9 +427,9 @@ Este documento apresenta uma análise crítica e um ranking de qualidade para to
 *   **Pontos Fracos:** Motivação dos novos vilões ainda obscura.
 
 ### Capítulo 79: Frequências Fantasmas
-**Nota: 7.5/10**
-*   **Pontos Fortes:** Uso de rádio amador/tecnologia velha.
-*   **Pontos Fracos:** Trama de investigação de sinal um pouco repetitiva.
+**Nota: 9.0/10**
+*   **Pontos Fortes:** Uso de rádio amador; a transmissão pessoal de Miranda (voz morta) cria um suspense genuíno.
+*   **Pontos Fracos:** Nenhum. Excelente construção de tensão para o arco final.
 
 ### Capítulo 80: A Autópsia de um Deus
 **Nota: 9.0/10**

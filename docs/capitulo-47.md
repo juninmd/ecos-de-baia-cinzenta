@@ -7,57 +7,61 @@ image: /capitulo_47.jpg
 
 # Capítulo 47: Cerco Anfíbio
 
-A delegacia do 13º Distrito era uma fortaleza de concreto e aço, mas naquela noite, parecia uma lata de sardinha prestes a ser aberta. A chuva e as ondas do Dilúvio batiam contra as barricadas improvisadas, mas o verdadeiro inimigo já estava dentro.
+# Capítulo 47: O Mecanismo da Queda
 
-Gabo e Valéria conseguiram recuar para a delegacia junto com os sobreviventes do massacre da Orla Norte. As luzes de emergência piscavam, pintando a cena em tons de vermelho e escuridão.
+**Torre do Relógio, Distrito Baixo (Inundado).**
 
-— Eles estão cortando a comunicação! — gritou Valéria de seu posto improvisado na sala de servidores, cabos conectados diretamente em seu deck. — É um hack da Aeterna, mas o código é... antigo. Elegante.
+O som não era de água. Era de tempo.
 
-Gabo estava na linha de frente, no saguão principal, trocando tiros com os Bio-Soldados que tentavam romper a entrada principal. A "Vilha" rugia em suas mãos, cada disparo derrubando uma das criaturas, mas para cada uma que caía, duas novas surgiam da escuridão aquática.
+Centenas de relógios preenchiam as paredes circulares da torre antiga, um pesadelo de latão e engrenagens que tiquetaqueava em desarmonia. Mas Gabo sabia que aqueles não eram relógios comuns. Os pêndulos eram costelas humanas. Os pesos eram fêmures calcificados.
 
-Então, a porta de metal maciço da entrada principal rangeu e começou a se curvar para dentro, como se atingida por um aríete invisível.
+O "Relojoeiro" — o tal Taxidermista que a polícia vinha caçando há meses — havia transformado o lugar em um templo à sua loucura: a crença de que a carne é temporária, mas a engrenagem é eterna.
 
-— Recuem! — gritou Gabo.
+— Você está atrasado, detetive — ecoou a voz, vindo de cima, nas sombras das vigas.
 
-A porta foi arrancada de suas dobradiças e arremessada para dentro do saguão.
+Gabo apontou a lanterna para o alto. A água da enchente já batia em seus joelhos, subindo rápido. O Dilúvio lá fora estava rompendo as comportas.
 
-Na entrada, recortado contra a tempestade, estava ele. Um Bio-Soldado Alpha, maior e mais blindado que os outros. Sua pele era quase uma carapaça iridescente, e de suas costas saíam apêndices biomecânicos que estalavam com energia. Este não era um soldado raso. Era um comandante. Um Leviatã.
+— Desça! — gritou Gabo, a "Vilha" firme em suas mãos. — Acabou. O prédio está condenado.
 
-— Onde está o humano chamado Moretti? — a voz da criatura era um barítono gutural, amplificado por um vocoder em sua garganta.
+— Tudo está condenado, Sr. Moretti. — O Taxidermista desceu por uma corda de roldana, um vulto esguio com avental de açougueiro e óculos de lentes grossas. — Carne apodrece. Pulmões falham. Apenas o mecanismo perdura.
 
-Gabo deu um passo à frente.
-— Sou eu. O que você quer?
+Gabo disparou.
 
-O Comandante Leviatã inclinou a cabeça.
-— O Imperador despertou. A cidade pertence a ele. Seus recursos, sua tecnologia, seu povo. Entreguem-se ou sejam purgados.
+Foi um erro. O tiro ecoou, mas o Taxidermista não estava lá para ser atingido. Ele puxou uma alavanca de ferro enferrujada.
 
-— A gente já ouviu essa música antes — rosnou Gabo, levantando a "Vilha".
+O chão sob os pés de Gabo — um tablado de madeira podre — se abriu.
 
-Ele disparou. O Leviatã moveu-se com uma velocidade impossível para seu tamanho, desviando da maior parte do disparo. Apenas alguns projéteis ricochetearam em sua couraça.
+Ele caiu. Não na água, mas em um fosso de manutenção seco, três metros abaixo. O impacto lhe tirou o ar, mas ele rolou, tentando se levantar. Foi quando ouviu o som de correntes se soltando.
 
-— Primitivo — disse o Comandante.
+— O tempo é peso, detetive.
 
-Um de seus apêndices disparou como um chicote, envolvendo o cano da "Vilha" e arrancando-a das mãos de Gabo. Outro apêndice atingiu-o no peito, uma garra de metal que rasgou seu colete tático e a carne por baixo, jogando-o contra uma pilastra.
+Gabo olhou para cima a tempo de ver um contrapeso de duas toneladas — um bloco de ferro maciço usado para o sino da torre — despencando.
 
-Gabo caiu, sentindo a dor aguda no ombro e o sangue quente escorrendo por seu peito. Ele tentou se levantar, mas o golpe o deixou atordoado.
+Ele tentou se jogar para o lado.
 
-O Leviatã avançou, ignorando os outros policiais, seu foco inteiramente em Gabo. Ele ergueu uma lâmina de osso e metal que se projetava de seu antebraço.
+Não foi rápido o suficiente.
 
-— O Imperador envia suas saudações.
+*CRACK.*
 
-Antes que o golpe pudesse descer, uma série de disparos de alta precisão atingiu a articulação do ombro do Leviatã, fazendo-o recuar com um rugido de dor e surpresa.
+O som não foi metálico. Foi úmido. O bloco atingiu suas pernas e a base da coluna com a força de um julgamento divino. A dor não veio imediatamente; o que veio foi um clarão branco e, depois, o silêncio absoluto em metade do seu corpo.
 
-Capitão Vilar, empunhando um rifle de assalto experimental, estava no alto da escadaria.
-— No meu distrito, não!
+Gabo tentou gritar, mas o ar não entrava. Ele olhou para baixo. Suas pernas estavam presas, esmagadas sob a massa de ferro.
 
-O Leviatã, ferido mas não derrotado, olhou para Vilar, depois para Gabo no chão, e então para as forças policiais se reagrupando. Com um comando gutural, os Bio-Soldados recuaram para a escuridão, tão rápido quanto apareceram.
+O Taxidermista desceu calmamente pela escada lateral. Ele parou ao lado de Gabo, que tentava, inutilmente, empurrar duas toneladas de ferro com as mãos trêmulas.
 
-O Comandante deu um último olhar para Gabo.
-— A maré vai subir. E todos vocês vão se afogar.
+O assassino se agachou. Cheirava a formol e óleo velho. Ele acariciou o rosto de Gabo com dedos manchados de reagente químico.
 
-Ele desapareceu na noite chuvosa, deixando para trás um rastro de destruição e a promessa de um retorno sangrento.
+— Você ia passar a vida correndo atrás de bandidos, detetive. Correndo até seus joelhos falharem, até seu coração parar. — Ele sorriu, um sorriso triste. — Eu te dei um presente. Eu parei seu relógio. Agora você pode observar.
 
-Valéria correu até Gabo.
-— Gabo! Você tá bem?
+A água começou a transbordar da borda do fosso. Água suja, óleo, debris. O nível subia rápido.
 
-— Eu vou viver — disse ele, pressionando a mão sobre o ferimento. — Mas isso foi só o começo. Eles não estavam tentando tomar a delegacia. Estavam testando nossas defesas.
+— Você vai se afogar... — sussurrou Gabo, cuspindo sangue.
+
+— Talvez. Mas eu flutuo. Você... você é uma âncora agora.
+
+Com um estrondo final, a parede externa da torre cedeu à pressão da enchente. Uma parede de água invadiu o recinto. O Taxidermista foi varrido para as sombras superiores.
+
+Gabo inspirou uma última vez antes que a água escura cobrisse seu rosto. Ele estava preso. Quebrado. Sozinho no escuro.
+
+Naquela escuridão, Gabriel Moretti morreu.
+E algo muito mais frio começou a nascer.

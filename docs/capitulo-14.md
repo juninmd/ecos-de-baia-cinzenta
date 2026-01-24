@@ -74,9 +74,9 @@ E atrás dos drones, bloqueando a rua, estava um veículo preto, fosco, com o lo
 
 A porta do veículo se abriu. Um homem desceu. Ele vestia uma armadura tática personalizada, pintada com cores neon vibrantes. Em seu peito, uma tela exibia a contagem de visualizações: *5 Milhões*.
 
-— Olá, finalistas! — gritou o homem, sua voz amplificada. — Eu sou o Executor! E hoje, vou cancelar a assinatura de vocês!
+— Olá, finalistas! — gritou o homem, sua voz amplificada, mas trêmula de adrenalina. — Eu sou o Executor! A Aeterna prometeu perdoar minha dívida estudantil e a hipoteca da minha mãe se eu fritar vocês! Nada pessoal, é apenas economia de mercado!
 
-Ele levantou um lança-chamas.
+Ele levantou um lança-chamas, os olhos arregalados de desespero e fanatismo, olhando não para Gabo, mas para a câmera em seu peito, buscando a aprovação da audiência.
 
 — Val, sai do carro! — gritou Gabriel.
 

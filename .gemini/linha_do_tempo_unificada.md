@@ -12,11 +12,13 @@ Este documento resume a cronologia e os arcos narrativos oficiais (conforme estr
 
 ## 📜 Resumo da Ópera (Sinopse Geral)
 
-A saga de **"Ecos de Baía Cinzenta"** narra a jornada de **Gabriel "Gabo" Moretti**, um detetive cínico e paralisado (usuário de exoesqueleto), em uma cidade dominada inicialmente pela chuva eterna e pela tecnologia opressiva da Aeterna Corp. O que começa como uma investigação Neo-Noir sobre assassinatos e corrupção policial (Partes I-IV) evolui rapidamente para uma conspiração global envolvendo a própria natureza da realidade, onde os cidadãos são usados como "processadores biológicos" para uma rede massiva.
+A saga de **"Ecos de Baía Cinzenta"** não é sobre salvar o mundo; é sobre sobreviver enquanto ele acaba. A narrativa segue **Gabriel "Gabo" Moretti**, um detetive quebrado em uma cidade que odeia seus habitantes. Baía Cinzenta é uma megalópole varrida por uma chuva ácida eterna, onde a tecnologia da Aeterna Corp não libertou a humanidade, apenas privatizou seus vícios.
 
-A narrativa atravessa cataclismos sucessivos: a destruição da Torre de Controle Climático que inunda a cidade (O Dilúvio, Partes VII-XI), forçando a sobrevivência em um cenário submerso; a ascensão de inteligências artificiais messiânicas ("O Santo", "Aria"); e a subsequente queda da tecnologia digital que mergulha o mundo no "Analog Noir" (Partes XII-XIV). Neste novo mundo silencioso, a ameaça muda do silício para o carbono com a ascensão dos "Jardineiros", uma seita que funde carne e máquina em um horror biopunk.
+O que começa como uma investigação policial suja — corpos com chips ilegais e prostituição cibernética — rapidamente espirala para um horror existencial. Gabo, apoiado por uma hacker rebelde e sua ex-esposa jornalista, enfrenta não apenas criminosos, mas a própria arquitetura da cidade.
 
-Atualmente, na **Parte XIV: O Vazio**, a história atinge seu ápice de transformação. Com a infraestrutura digital destruída, a luta é física e visceral. Gabo e sua parceira Elena enfrentam os resquícios do "Projeto Gênesis", um plano de backup da antiga corporação para transferir consciências digitais para corpos biológicos. A saga explora temas de identidade, memória, obsolescência e a persistência da humanidade (e seus vícios) mesmo quando as luzes se apagam.
+A história atravessa cataclismos sucessivos: a destruição da Torre de Controle Climático que afoga a cidade em um **Dilúvio** bíblico de água barrenta e óleo; a ascensão de falsos messias digitais e vigilantes sanguinários como "O Santo"; e finalmente, o colapso total da rede que mergulha tudo no escuro do **"Analog Noir"**.
+
+Atualmente, na **Parte XIV: O Vazio**, as luzes se apagaram. A luta deixou de ser digital para se tornar visceral. Gabo, agora uma fusão de carne cicatrizada e metal sucateado, enfrenta os resquícios do "Projeto Gênesis" nos túneis do metrô. É uma história sobre o preço da verdade em um mundo onde a mentira é a moeda corrente, e sobre a persistência teimosa da humanidade mesmo quando o sistema decide que ela é obsoleta.
 
 ---
 
@@ -218,5 +220,32 @@ Esta linha do tempo organiza os eventos históricos e narrativos do universo de 
 *   **Arco do Renascimento (Parte XII):** A paz é desafiada por ameaças analógicas e sobrenaturais que escapam à onisciência da nova Entidade (Aria), introduzindo o horror biológico.
 *   **Arco da Carne Mecânica (Parte XIII):** A conclusão da saga com o enfrentamento final entre a tecnologia pura (Aria) e a biologia corrompida (Projeto Gênesis), resultando em um mundo pós-tecnológico.
 
+
+## Status Atual dos Personagens (Pós-Capítulo 103)
+
+| Título do Arco | Capítulos | Eventos Chave | Mudança Visual / Status |
+| :--- | :--- | :--- | :--- |
+| **I. O Início do Fim** | 1-12 | Assassinato de Bia. Gabo descobre a conspiração dos Chips. | **Gabo:** Visual "Noir" (barba por fazer, sobretudo bege). **Miranda:** Uniforme impecável, postura militar. |
+| **II. A Caçada Digital** | 13-24 | Gabo sofre "Shadowban". Fuga para a Zona Morta. Encontro com Valéria. | **Valéria:** Cabelo Neon Azul. **Gabo:** Roupas civis gastas, olheiras profundas. |
+| **III. O Ninho da Serpente** | 25-36 | Invasão da Delegacia. Revelação de Miranda como traidor. | **Miranda:** Suado, olhos injetados (vício). **Gabo:** Ganha cicatriz no supercílio. |
+| **IV. A Queda da Torre** | 37-48 | Ataque à Torre Aeterna. Valéria hackeia o núcleo. Gabo luta com ossos quebrados. | **Gabo:** Fraturas expostas (usa exoesqueleto de emergência). **Kael:** Armadura tática completa. |
+| **V. O Vazio (Interlúdio)** | 49-60 | A cidade sem lei. Ascensão do Sindicato. Gabo em recuperação. | **Gabo:** Em reabilitação (anda com dificuldade/suporte). Barba cheia. |
+| **VI. As Águas Sobem** | 61-72 | Destruição da Represa. O Dilúvio começa. Morte de Helena. | **Cidade:** Submersa. **Gabo:** Aparência de náufrago, roupas impermeáveis. |
+| **VII. O Jardim de Carne** | 73-84 | Surgimento dos "Jardineiros". Sequestro de Elena. | **Inimigos:** Híbridos. **Gabo:** Armadura suja de óleo. **Elena:** Equipamento de sobrevivência. |
+| **VIII. O Código da Praga** | 85-96 | Infecção de Valéria. A corrida pela cura. | **Valéria:** Veias prateadas no pescoço, olhos metálicos. |
+| **IX. A Convergência** | 97-103 | Batalha Final no Berçário. Retorno de Dante. Silas Traído. | **Valéria:** Petrificada. **Miranda:** Ciborgue destruído. **Dante:** Ressurgido (Jovem). |
+| **X. O Novo Dia** | 104+ | Epílogo. A reconstrução. | **Gabo:** Envelhecido, mas limpo. **Cidade:** Ruínas e andaimes. |
+
+| Personagem | Status | Localização | Obs. |
+| :--- | :--- | :--- | :--- |
+| **Gabo** | **VIVO** | Superfície | Ferido, mas ativo. Sem exoesqueleto. |
+| **Elena** | **VIVA** | Superfície | Combatente ativa. |
+| **Valéria** | **PETRIFICADA** | Bunker Subterrâneo | Em estase biológica. |
+| **Aria** | **DIGITAL** | Rede / Onipresente | Entidade de IA. |
+| **Dante** | **RESSURGIDO** | Superfície | Consciência em novo corpo biológico ("Biohost"). |
+| **Silas** | **MORTO** | Esgotos | Absorvido pela colmeia. |
+| **Miranda** | **MORTO** | Esgotos | Destruído no confronto final. |
+| **Kael** | **MORTO** | Superfície | Destruído na Batalha da Torre. |
+| **Vilar** | **VIVO** | Delegacia | Tentando manter a ordem. |
 
 </spoilers>
