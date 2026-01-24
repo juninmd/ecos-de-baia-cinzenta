@@ -61,3 +61,34 @@ A narrativa evoluiu de um Cyberpunk clássico para um cenário de "Analog Noir" 
 
 ### Conclusão
 A história mantém uma forte coerência interna, respeitando as consequências dos eventos cataclísmicos das partes anteriores. A mudança de tom é justificada pela narrativa e enriquece o universo.
+
+---
+
+## Auditoria de Relacionamentos e Expansão (Novo)
+
+Esta seção detalha a dinâmica atual entre os personagens principais e avalia o potencial de expansão da lore sem quebrar a coerência estabelecida.
+
+### Matriz de Relacionamentos
+
+| Relacionamento | Status Atual | Dinâmica | Nota de Coerência |
+| :--- | :--- | :--- | :--- |
+| **Gabo x Cigarro** | **Ódio Absoluto** | Gabo jamais fuma. O cheiro o enjoa. Seu tique nervoso é motor (tamborilar dedos), não oral. Verificado em todos os capítulos. | **10/10** |
+| **Gabo x Dante (Pai)** | **Resolução** | Começou como ressentimento pelo abandono/profissão. Evoluiu para compreensão ao descobrir os arquivos secretos. Culminou na "Convergência" (Cap 103) onde Gabo literalmente salva a consciência do pai. O conflito Édipo foi resolvido não com morte, mas com ressurreição tecnológica. | **9.5/10** |
+| **Gabo x Lívia** | **Parceria Bélica** | Não é mais um romance meloso ou de resgate. É uma parceria forjada na sobrevivência. Lívia é a âncora de realidade para Gabo, impedindo que ele se perca na violência. Ela age como a "memória" da humanidade dele. | **10/10** |
+| **Gabo x Val** | **Luto Ativo** | A ausência de Val é um personagem por si só. Gabo fala com ela (ou com a ausência dela) constantemente. O "silêncio" da cidade é um lembrete constante de que a voz dela se foi. Isso motiva sua recusa em aceitar novas IAs. | **10/10** |
+| **Gabo x Cidade** | **Antagonismo** | A cidade deixou de ser um cenário high-tech para ser um labirinto de ruínas e biologia hostil. Gabo luta *contra* o ambiente tanto quanto contra os vilões. | **9.0/10** |
+
+### Expansão de Lore: Limites e Possibilidades
+
+A transição para o "Biopunk" (Carne + Máquina) abriu portas interessantes, mas exige cuidado para não virar fantasia pura.
+
+1.  **Possibilidades Coerentes (Luz Verde):**
+    *   **Exploração do Subterrâneo:** A infraestrutura de esgoto/túneis da cidade antiga (pré-tecnológica) é um terreno fértil para mistérios "analógicos".
+    *   **Cultos da Ferrugem:** Grupos que adoram a tecnologia morta como relíquias religiosas.
+    *   **A "Nova" Valéria:** Se Val retornar, ela não pode voltar humana. Explorar a ideia de uma consciência fragmentada em vários "bonecos" ou sistemas seria trágico e coerente.
+
+2.  **Riscos de Incoerência (Luz Vermelha):**
+    *   **Retorno da Magia Tech:** Fazer os HUDs e a internet voltarem a funcionar "do nada" invalidaria todo o peso do arco "O Vazio". A tecnologia deve ser reconquistada fio a fio.
+    *   **Cura Mágica:** Gabo não deve ser curado de sua paralisia. O exoesqueleto barulhento e doloroso é parte essencial de sua caracterização física agora.
+
+**Veredito Final:** A narrativa está sólida. Os personagens agem de acordo com seus traumas estabelecidos. A expansão deve focar na *reconstrução* difícil, não no retorno ao status quo anterior.
