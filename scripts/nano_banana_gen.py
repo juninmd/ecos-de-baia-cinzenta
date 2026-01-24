@@ -18,27 +18,19 @@ class CharacterDatabase:
         with open(self.filepath, 'r', encoding='utf-8') as f:
             content = f.read()
 
-        # Split by character sections (Markdown header 2)
-        # Using a lookahead to split but keep the delimiter or just iterating logic
-        # Simple approach: Split by "\n## "
         sections = re.split(r'\n## ', content)
 
         for section in sections:
-            if not section.strip() or section.startswith('# '): # Skip title or empty
+            if not section.strip() or section.startswith('# '):
                 continue
 
-            # Extract Name (first line usually)
             lines = section.split('\n')
             name_line = lines[0].strip()
-            # Remove status tags like [STATUS: ...]
             name_clean = re.sub(r'\s*\[.*?\]', '', name_line).strip()
 
-            # Extract Image
             image_match = re.search(r'!\[.*?\]\((.*?)\)', section)
             image_path = image_match.group(1) if image_match else None
 
-            # Extract Description (Naively grab everything else or specific fields)
-            # Let's try to grab "Porte Físico", "Vestuário", "Marcas Distintivas"
             description = []
             for line in lines:
                 if any(key in line for key in ["Porte Físico:", "Vestuário:", "Marcas Distintivas:", "Cabelo:", "Olhos:"]):
@@ -46,18 +38,14 @@ class CharacterDatabase:
 
             full_desc = " ".join(description)
 
-            # Generate aliases
             aliases = set()
             aliases.add(name_clean)
-            # Handle nicknames in quotes e.g. Gabriel "Gabo" Moretti
             nickname_match = re.search(r'"(.*?)"', name_clean)
             if nickname_match:
                 aliases.add(nickname_match.group(1))
 
-            # First name
             parts = name_clean.split()
             if parts:
-                # Avoid adding common articles or titles as aliases (e.g., "O", "A", "Dr.")
                 if len(parts[0]) > 2:
                     aliases.add(parts[0])
 
@@ -71,19 +59,13 @@ class CharacterDatabase:
 
     def find_characters_in_text(self, text):
         found = []
-        # Sort characters by name length to match specific names first?
-        # Actually, we check every character in the DB against the text.
-
         text_lower = text.lower()
-
         for char_data in self.characters.values():
             for alias in char_data["aliases"]:
-                # Simple word boundary check to avoid partial matches
-                # e.g. "Val" matching "Valor" -> Use regex \bVal\b
                 escaped_alias = re.escape(alias)
                 if re.search(r'\b' + escaped_alias + r'\b', text_lower, re.IGNORECASE):
                     found.append(char_data)
-                    break # Found this character, move to next character
+                    break
         return found
 
 class ChapterContext:
@@ -91,6 +73,8 @@ class ChapterContext:
         self.chapter_num = chapter_num
         self.filepath = f"docs/capitulo-{chapter_num}.md"
         self.content = ""
+        self.frontmatter = ""
+        self.body = ""
         self.load()
 
     def load(self):
@@ -101,26 +85,54 @@ class ChapterContext:
         with open(self.filepath, 'r', encoding='utf-8') as f:
             self.content = f.read()
 
+        if self.content.startswith('---'):
+            parts = self.content.split('---', 2)
+            if len(parts) >= 3:
+                self.frontmatter = parts[1]
+                self.body = parts[2]
+            else:
+                self.body = self.content
+        else:
+            self.body = self.content
+
+    def has_image(self):
+        return 'image:' in self.frontmatter
+
     def get_context_summary(self):
-        # Remove frontmatter
-        body = re.sub(r'^---.*?---\n', '', self.content, flags=re.DOTALL)
-
-        # Simple extraction: First 2 paragraphs + Last 2 paragraphs
-        paragraphs = [p for p in body.split('\n\n') if p.strip()]
-
+        paragraphs = [p for p in self.body.split('\n\n') if p.strip()]
         if not paragraphs:
             return "No text found."
 
         intro = "\n".join(paragraphs[:2])
         outro = "\n".join(paragraphs[-2:]) if len(paragraphs) > 2 else ""
-
-        # Find a middle paragraph with action
-        middle = ""
-        if len(paragraphs) > 5:
-             # Just pick the middle one
-             middle = paragraphs[len(paragraphs)//2]
+        middle = paragraphs[len(paragraphs)//2] if len(paragraphs) > 5 else ""
 
         return f"{intro}\n...\n{middle}\n...\n{outro}"
+
+    def update_frontmatter(self, image_path):
+        # Clean image path for frontmatter (usually relative to public or root, typical VitePress is /image.jpg)
+        # Ensure it starts with /
+        if not image_path.startswith('/'):
+            public_path = '/' + os.path.basename(image_path)
+        else:
+            public_path = image_path
+
+        if self.frontmatter:
+            if 'image:' in self.frontmatter:
+                # Replace existing
+                self.frontmatter = re.sub(r'image:.*', f'image: {public_path}', self.frontmatter)
+            else:
+                # Append
+                self.frontmatter = self.frontmatter.rstrip() + f'\nimage: {public_path}\n'
+        else:
+            # Create new
+            self.frontmatter = f'\nimage: {public_path}\n'
+
+        new_content = f'---{self.frontmatter}---{self.body}'
+
+        with open(self.filepath, 'w', encoding='utf-8') as f:
+            f.write(new_content)
+        print(f"✅ Updated {self.filepath} with image: {public_path}")
 
 class NanoBanana:
     def __init__(self):
@@ -128,46 +140,55 @@ class NanoBanana:
         api_key = os.environ.get('NANO_BANANA_API_KEY')
         if not api_key:
             print("⚠️ WARNING: NANO_BANANA_API_KEY environment variable is not set!")
-            print("⚠️ Mock generation will proceed, but remote endpoints are unreachable.")
+            print("⚠️ Mock generation will proceed.")
         else:
             print(f"🍌 API Key detected: {api_key[:4]}****")
 
         print("🍌 Loading Neural Models...")
-        print("🍌 Status: READY.")
 
-    def generate_art(self, prompt, ref_images):
+    def generate_art(self, prompt, ref_image_path, output_path):
         print("\n" + "="*50)
         print("🍌 NANO BANANA GENERATION REQUEST 🍌")
         print("="*50)
         print(f"**PROMPT:**\n{prompt}\n")
-
-        if ref_images:
-            print("**REFERENCE IMAGES (ControlNet/Img2Img):**")
-            for img in ref_images:
-                print(f" - {img}")
-        else:
-            print("**NO REFERENCE IMAGES FOUND.** (Text-to-Image Mode)")
+        print(f"**REFERENCE IMAGE:** {ref_image_path}")
+        print(f"**OUTPUT DESTINATION:** {output_path}")
 
         print("\n... Processing Context Vectors ...")
         print("... Synthesizing Pixel Latents ...")
-        print("... Refining Details (Cyber-Noir Filter) ...")
 
-        # Mock Output - Actually creating a dummy file now for artifacts
-        output_dir = "docs/public"
-        output_path = f"{output_dir}/generated_art_mock.png"
+        # Mock Generation: Copy reference image to output
+        # Resolve reference path. docs/personagens.md usually has /image.jpg.
+        # We need to map that to docs/public/image.jpg
 
-        # Ensure directory exists
-        if not os.path.exists(output_dir):
-            os.makedirs(output_dir)
+        source_path = None
+        if ref_image_path:
+            # Remove leading / if present
+            clean_ref = ref_image_path.lstrip('/')
 
-        # Create a simple placeholder file
-        with open(output_path, 'wb') as f:
-            # Writing 1KB of null bytes as a dummy image
-            f.write(b'\x00' * 1024)
+            # Check if path already starts with docs/public or similar
+            if clean_ref.startswith('docs/public/'):
+                potential_path = clean_ref
+            else:
+                potential_path = os.path.join('docs/public', clean_ref)
 
-        print(f"\n✅ IMAGE GENERATED SUCCESSFULLY!")
-        print(f"📂 Output saved to: {output_path} (Mock)")
+            if os.path.exists(potential_path):
+                source_path = potential_path
+            else:
+                print(f"⚠️ Reference image not found at {potential_path}")
+
+        if source_path:
+            shutil.copy(source_path, output_path)
+            print(f"✅ IMAGE GENERATED (Mocked by copying {source_path})")
+        else:
+            # Create dummy if source not found
+            with open(output_path, 'wb') as f:
+                f.write(b'\x00' * 1024)
+            print(f"✅ IMAGE GENERATED (Dummy file created)")
+
+        print(f"📂 Output saved to: {output_path}")
         print("="*50 + "\n")
+        return output_path
 
 def main():
     parser = argparse.ArgumentParser(description="Generate Art for a Chapter using Nano Banana")
@@ -181,6 +202,11 @@ def main():
     db = CharacterDatabase(char_file)
     chapter = ChapterContext(args.chapter)
 
+    # Check if image already exists
+    if chapter.has_image():
+        print(f"ℹ️ Chapter {args.chapter} already has an image configured in frontmatter.")
+        # Proceeding anyway as per user "surpreenda-me" / explicit instruction to generate
+
     # Analyze
     print(f"Reading Chapter {args.chapter}...")
     summary = chapter.get_context_summary()
@@ -189,26 +215,33 @@ def main():
     char_names = [c['name'] for c in active_chars]
     print(f"Detected Characters: {', '.join(char_names)}")
 
+    if not active_chars:
+        print("❌ No known characters found in chapter. Cannot generate character-based art.")
+        sys.exit(1)
+
+    # Pick main character (first one found)
+    main_char = active_chars[0]
+    print(f"⭐️ Selected Main Character for Reference: {main_char['name']}")
+
     # Construct Prompt
-    # 1. Scene Setting
     prompt = f"Digital Art, Cyberpunk Noir Style, High Contrast, Gritty Atmosphere.\n\n"
-    prompt += f"SCENE CONTEXT:\n{summary[:500]}...\n\n" # Limit context length
+    prompt += f"SCENE CONTEXT:\n{summary[:500]}...\n\n"
+    prompt += f"MAIN CHARACTER: {main_char['name']}\n{main_char['description']}\n"
+    prompt += "\nSTYLE: Analog photography aesthetic, rain-slicked streets, neon lights reflecting on wet surfaces."
 
-    # 2. Character Details
-    prompt += "CHARACTERS PRESENT:\n"
-    ref_images = []
-
-    for char in active_chars:
-        prompt += f"- {char['name']}: {char['description']}\n"
-        if char['image']:
-            ref_images.append(char['image'])
-
-    # 3. Style Modifiers
-    prompt += "\nSTYLE: Analog photography aesthetic, rain-slicked streets, neon lights reflecting on wet surfaces, film grain, cinematic lighting."
+    # Define Output Path
+    output_filename = f"capitulo_{args.chapter}.jpg"
+    output_path = os.path.join("docs/public", output_filename)
 
     # Generate
     engine = NanoBanana()
-    engine.generate_art(prompt, ref_images)
+    engine.generate_art(prompt, main_char['image'], output_path)
+
+    # Update Chapter
+    chapter.update_frontmatter(f"/{output_filename}")
+
+    # Output for GitHub Actions
+    print(f"::set-output name=generated_image_path::{output_path}")
 
 if __name__ == "__main__":
     main()

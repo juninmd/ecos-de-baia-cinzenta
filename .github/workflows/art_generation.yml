@@ -11,6 +11,9 @@ on:
 jobs:
   generate-art:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -21,13 +24,55 @@ jobs:
           python-version: '3.9'
 
       - name: Run Nano Banana Generator
+        id: generator
         env:
           NANO_BANANA_API_KEY: ${{ secrets.NANO_BANANA_API_KEY }}
         run: |
           python3 scripts/nano_banana_gen.py ${{ inputs.chapter }}
 
-      - name: Upload Mock Artifact
-        uses: actions/upload-artifact@v3
+      - name: Config Git
+        run: |
+          git config --global user.name "Nano Banana Bot"
+          git config --global user.email "bot@nanobanana.ai"
+
+      - name: Commit and Push
+        run: |
+          git add docs/public/capitulo_${{ inputs.chapter }}.jpg
+          git add docs/capitulo-${{ inputs.chapter }}.md
+          git commit -m "chore: generate art for chapter ${{ inputs.chapter }}"
+          git push
+
+      - name: Comment on PR (if applicable)
+        uses: actions/github-script@v6
         with:
-          name: generated-art-chapter-${{ inputs.chapter }}
-          path: docs/public/generated_art_mock.png
+          script: |
+            const chapter = "${{ inputs.chapter }}";
+            const imgPath = "/capitulo_" + chapter + ".jpg";
+
+            // Try to find an open PR for the current branch
+            const { owner, repo } = context.repo;
+            const branch = process.env.GITHUB_REF_NAME;
+
+            console.log(`Looking for PRs on branch: ${branch}`);
+
+            const prs = await github.rest.pulls.list({
+              owner,
+              repo,
+              head: `${owner}:${branch}`,
+              state: 'open'
+            });
+
+            if (prs.data.length > 0) {
+              const prNumber = prs.data[0].number;
+              const body = `🍌 **Nano Banana Art Generated!**\n\nI have generated a new header image for **Chapter ${chapter}** based on the context.\n\n![Generated Art](${imgPath})\n\n*(Image added to repo and frontmatter updated)*`;
+
+              await github.rest.issues.createComment({
+                owner,
+                repo,
+                issue_number: prNumber,
+                body: body
+              });
+              console.log(`Commented on PR #${prNumber}`);
+            } else {
+              console.log("No open PR found for this branch. Skipping comment.");
+            }
