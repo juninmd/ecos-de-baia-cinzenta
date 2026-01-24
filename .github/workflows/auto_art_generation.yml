@@ -1,0 +1,72 @@
+name: Auto Generate Chapter Art
+
+on:
+  push:
+    paths:
+      - 'docs/capitulo-*.md'
+
+jobs:
+  auto-generate-art:
+    # Prevent infinite loops by skipping commits made by this workflow
+    if: "!contains(github.event.head_commit.message, 'chore: generate art')"
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 2 # Need at least 2 commits to diff
+
+      - name: Identify Changed Chapter
+        id: get_chapter
+        run: |
+          # Find changed markdown files in docs/
+          # We check the difference between the current commit and its parent
+          changed_files=$(git diff --name-only HEAD~1 HEAD -- docs/capitulo-*.md)
+
+          echo "Detected changed files: $changed_files"
+
+          # Extract the first valid chapter number found
+          for file in $changed_files; do
+            if [[ $file =~ docs/capitulo-([0-9]+)\.md ]]; then
+              chapter_num="${BASH_REMATCH[1]}"
+              echo "Found Chapter: $chapter_num"
+              echo "chapter=$chapter_num" >> $GITHUB_OUTPUT
+              break
+            fi
+          done
+
+      - name: Set up Python
+        if: steps.get_chapter.outputs.chapter
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Run Nano Banana Generator
+        if: steps.get_chapter.outputs.chapter
+        env:
+          NANO_BANANA_API_KEY: ${{ secrets.NANO_BANANA_API_KEY }}
+        run: |
+          python3 scripts/nano_banana_gen.py ${{ steps.get_chapter.outputs.chapter }}
+
+      - name: Config Git
+        if: steps.get_chapter.outputs.chapter
+        run: |
+          git config --global user.name "Nano Banana Bot"
+          git config --global user.email "bot@nanobanana.ai"
+
+      - name: Commit and Push
+        if: steps.get_chapter.outputs.chapter
+        run: |
+          git add docs/public/capitulo_${{ steps.get_chapter.outputs.chapter }}.jpg
+          git add docs/capitulo-${{ steps.get_chapter.outputs.chapter }}.md
+
+          # Only commit if there are changes
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: generate art for chapter ${{ steps.get_chapter.outputs.chapter }} [skip ci]"
+            git push
+            echo "✅ Art generated and pushed."
+          else
+            echo "ℹ️ No changes to commit (Image might already exist)."
+          fi
