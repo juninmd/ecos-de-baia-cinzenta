@@ -118,6 +118,37 @@ class ChapterContext:
             f.write(new_content)
         print(f"✅ Updated {self.filepath} with image: {public_path}")
 
+class OllamaClient:
+    def __init__(self, model="llama2"):
+        self.model = model
+        self.api_url = "http://localhost:11434/api/generate"
+        print(f"🦙 Initializing Ollama Client (Model: {self.model})...")
+
+    def extract_scene(self, chapter_text, active_characters):
+        char_names = ", ".join([c['name'] for c in active_characters])
+
+        prompt = (
+            f"You are an expert visual director. Your task is to identify the most visually striking scene from the text and write a detailed image generation prompt for it.\n\n"
+            f"Analyze this chapter snippet.\n"
+            f"Characters present: {char_names}\n\n"
+            f"CHAPTER TEXT:\n{chapter_text[:1500]}...\n\n"
+            f"Write a single paragraph describing the visual scene for an image generator. Focus on lighting, atmosphere, and action. Do not include dialogue."
+        )
+
+        try:
+            response = requests.post(self.api_url, json={
+                "model": self.model,
+                "prompt": prompt,
+                "stream": False
+            })
+            response.raise_for_status()
+            result = response.json()
+            return result.get("response", "").strip()
+        except Exception as e:
+            print(f"⚠️ Ollama Text Extraction Failed: {e}")
+            print("Make sure Ollama is running (ollama serve) and the model is pulled.")
+            return "Dark dystopian city scene, high contrast, cinematic lighting."
+
 class HuggingFaceClient:
     def __init__(self):
         print("🤗 Initializing Open Source Fallback (Hugging Face Inference API)...")
@@ -202,7 +233,7 @@ class HuggingFaceClient:
             print(f"❌ Generation Failed: {e}")
             return None
 
-def process_chapter(chapter_num, engine, db, project_root, style):
+def process_chapter(chapter_num, text_engine, image_engine, db, project_root, style):
     print(f"\n📂 PROCESSING CHAPTER {chapter_num} (FALLBACK MODE)...")
     try:
         chapter = ChapterContext(chapter_num)
@@ -210,11 +241,10 @@ def process_chapter(chapter_num, engine, db, project_root, style):
         char_names = [c['name'] for c in active_chars]
         print(f"Detected Characters: {', '.join(char_names)}")
 
-        # Extract Scene
-        scene_prompt = engine.extract_scene(chapter.body, active_chars)
+        # Extract Scene using Text Engine
+        scene_prompt = text_engine.extract_scene(chapter.body, active_chars)
 
-        # Build Final Prompt
-        # Note: SD2.1 handles direct descriptions better than mixed instruction
+        # Build Final Prompt for Image Engine
         final_prompt = f"{scene_prompt}, {style}, 8k resolution, cinematic lighting, masterpiece"
 
         # Add minimal character visual cues since SD doesn't support image input easily via simple API
@@ -229,8 +259,8 @@ def process_chapter(chapter_num, engine, db, project_root, style):
         output_path = os.path.join(project_root, "docs/public", output_filename)
         os.makedirs(os.path.dirname(output_path), exist_ok=True)
 
-        # Generate
-        result_path = engine.generate_art(final_prompt, output_path)
+        # Generate using Image Engine (always HF for now)
+        result_path = image_engine.generate_art(final_prompt, output_path)
 
         if result_path:
             chapter.update_frontmatter(f"/{output_filename}")
@@ -245,17 +275,26 @@ def main():
     parser = argparse.ArgumentParser(description="Generate Art (Fallback Mode)")
     parser.add_argument('chapters', type=str, help="Chapter number")
     parser.add_argument('--style', type=str, help="Style modifier", default="cyberpunk, noir")
+    parser.add_argument('--ollama', action='store_true', help="Use Ollama (local) for text analysis instead of HF")
+    parser.add_argument('--ollama-model', type=str, default="llama2", help="Model to use with Ollama")
     args = parser.parse_args()
 
     project_root = os.getcwd()
     char_file = os.path.join(project_root, "docs/personagens.md")
 
     try:
-        engine = HuggingFaceClient()
+        # Image Engine is always Hugging Face for now in fallback script
+        image_engine = HuggingFaceClient()
+
+        # Text Engine depends on flag
+        if args.ollama:
+            text_engine = OllamaClient(model=args.ollama_model)
+        else:
+            text_engine = image_engine # HF Client handles both
+
         db = CharacterDatabase(char_file)
 
-        # Simple single chapter support for fallback for now
-        process_chapter(int(args.chapters), engine, db, project_root, args.style)
+        process_chapter(int(args.chapters), text_engine, image_engine, db, project_root, args.style)
 
     except ValueError as ve:
         print(f"ℹ️ CONFIGURATION NEEDED: {ve}")
