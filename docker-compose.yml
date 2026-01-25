@@ -23,8 +23,7 @@ services:
     volumes:
       - .:/app
     working_dir: /app
-    environment:
-      - HF_API_KEY=${HF_API_KEY}
+    # Ensure system deps for building some python packages if needed (usually slim is fine for torch wheel, but let's be safe)
     command: tail -f /dev/null
 
 volumes:

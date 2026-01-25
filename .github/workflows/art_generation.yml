@@ -1,83 +1,76 @@
-name: Nano Banana Art Generation
+name: Official Art Generation (Local/Ollama)
 
 on:
   workflow_dispatch:
     inputs:
       chapter:
-        description: 'Chapter Number to generate art for (e.g., 102)'
+        description: 'Chapter Number'
         required: true
-        type: string
+        default: '104'
       style:
-        description: 'Optional style/prompt modifier'
+        description: 'Art Style'
         required: false
-        type: string
-        default: ''
+        default: 'cyberpunk, noir'
 
 jobs:
-  generate-art:
+  generate-local-art:
     runs-on: ubuntu-latest
     permissions:
       contents: write
       pull-requests: write
     steps:
-      - name: Checkout repository
+      - name: Checkout Code
         uses: actions/checkout@v3
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v2
+
+      - name: Start Ollama Service
+        run: docker compose up -d ollama
+
+      - name: Wait for Ollama
+        run: |
+          echo "Waiting for Ollama to be ready..."
+          timeout 60s bash -c 'until curl -s http://localhost:11434 > /dev/null; do sleep 2; done'
+          echo "Ollama is ready!"
+
+      - name: Pull Llama2 Model
+        run: docker compose exec ollama ollama pull llama2
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.9'
+          python-version: '3.12'
 
-      - name: Run Nano Banana Generator
-        id: generator
-        env:
-          NANO_BANANA_API_KEY: ${{ secrets.NANO_BANANA_API_KEY }}
+      - name: Install Dependencies
+        # Using lighter torch CPU version to save bandwidth if possible, but diffusers usually grabs full torch.
+        # Accelerate and Transformers needed for Diffusers.
         run: |
-          python3 scripts/nano_banana_gen.py ${{ inputs.chapter }} --style "${{ inputs.style }}"
+          pip install --upgrade pip
+          pip install requests pillow diffusers transformers accelerate torch --index-url https://download.pytorch.org/whl/cpu
+
+      - name: Run Local Art Generation
+        # No API Keys needed!
+        run: |
+          python scripts/local_art_gen.py ${{ inputs.chapter }} \
+            --style "${{ inputs.style }}" \
+            --ollama-model llama2
 
       - name: Config Git
         run: |
-          git config --global user.name "Nano Banana Bot"
-          git config --global user.email "bot@nanobanana.ai"
+          git config --global user.name "Ollama Art Bot"
+          git config --global user.email "bot@ollama.local"
 
       - name: Commit and Push
         run: |
           git add docs/public/capitulo_${{ inputs.chapter }}.jpg
           git add docs/capitulo-${{ inputs.chapter }}.md
-          git commit -m "chore: generate art for chapter ${{ inputs.chapter }}"
+          # Handle case where nothing changed (if generation failed but didn't crash)
+          git commit -m "chore: generate art for chapter ${{ inputs.chapter }} (Ollama/Local)" || echo "No changes to commit"
           git push
 
-      - name: Comment on PR (if applicable)
-        uses: actions/github-script@v6
+      - name: Upload Artifacts
+        uses: actions/upload-artifact@v3
         with:
-          script: |
-            const chapter = "${{ inputs.chapter }}";
-            const imgPath = "/capitulo_" + chapter + ".jpg";
-
-            // Try to find an open PR for the current branch
-            const { owner, repo } = context.repo;
-            const branch = process.env.GITHUB_REF_NAME;
-
-            console.log(`Looking for PRs on branch: ${branch}`);
-
-            const prs = await github.rest.pulls.list({
-              owner,
-              repo,
-              head: `${owner}:${branch}`,
-              state: 'open'
-            });
-
-            if (prs.data.length > 0) {
-              const prNumber = prs.data[0].number;
-              const body = `🍌 **Nano Banana Art Generated!**\n\nI have generated a new header image for **Chapter ${chapter}** based on the context.\n\n![Generated Art](${imgPath})\n\n*(Image added to repo and frontmatter updated)*`;
-
-              await github.rest.issues.createComment({
-                owner,
-                repo,
-                issue_number: prNumber,
-                body: body
-              });
-              console.log(`Commented on PR #${prNumber}`);
-            } else {
-              console.log("No open PR found for this branch. Skipping comment.");
-            }
+          name: generated-art-local
+          path: docs/public/capitulo_*.jpg
