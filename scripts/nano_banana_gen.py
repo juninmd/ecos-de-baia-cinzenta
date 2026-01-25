@@ -170,6 +170,12 @@ class NanoBanana:
         key_text = os.environ.get('NANO_BANANA_API_KEY_TEXT')
         key_image = os.environ.get('NANO_BANANA_API_KEY_IMAGE')
         
+        # Fallback to generic key
+        if not key_text:
+            key_text = os.environ.get('NANO_BANANA_API_KEY')
+        if not key_image:
+            key_image = os.environ.get('NANO_BANANA_API_KEY')
+
         if not key_text:
             raise ValueError("Text API Key not found.")
         if not key_image:
@@ -226,20 +232,29 @@ class NanoBanana:
             
         return response.text
 
-    def generate_art(self, prompt, ref_image_path, output_path):
+    def generate_art(self, prompt, ref_image_paths, output_path):
         print("\n" + "="*50)
         print("🍌 NANO BANANA GENERATION REQUEST 🍌")
         print("="*50)
         print(f"**PROMPT:**\n{prompt}\n")
         
         contents = [prompt]
-        if ref_image_path:
-            print(f"**REFERENCE IMAGE:** {ref_image_path}")
+        if ref_image_paths and isinstance(ref_image_paths, list):
+            for ref_path in ref_image_paths:
+                print(f"**REFERENCE IMAGE:** {ref_path}")
+                try:
+                    reference_image = Image.open(ref_path)
+                    contents.append(reference_image)
+                except Exception as e:
+                    print(f"⚠️ Failed to load reference image {ref_path}: {e}")
+        elif ref_image_paths:
+            # Fallback for single path string
+            print(f"**REFERENCE IMAGE:** {ref_image_paths}")
             try:
-                reference_image = Image.open(ref_image_path)
+                reference_image = Image.open(ref_image_paths)
                 contents.append(reference_image)
             except Exception as e:
-                print(f"⚠️ Failed to load reference image: {e}")
+                print(f"⚠️ Failed to load reference image {ref_image_paths}: {e}")
 
         try:
             print(f"... Generating with {self.generation_model_name}...")
@@ -301,14 +316,17 @@ def process_chapter(chapter_num, engine, db, project_root, style):
         else:
             final_prompt += "\nSTYLE: Digital Art, Cinematic Lighting."
 
-        # Find Main Character Image
-        ref_image_path = None
+        # Collect Character Images
+        ref_image_paths = []
         if active_chars:
-            main_char = active_chars[0]
-            ref_image_path = engine.get_real_image_path(main_char, project_root)
-            if ref_image_path:
-                print(f"⭐️ Using Reference Image for: {main_char['name']}")
-                final_prompt += f"\n(Generate the image featuring the character from the provided reference image in the described scene.)"
+            for char_data in active_chars:
+                ref_path = engine.get_real_image_path(char_data, project_root)
+                if ref_path:
+                    ref_image_paths.append(ref_path)
+                    print(f"⭐️ Found Reference Image for: {char_data['name']}")
+
+            if ref_image_paths:
+                final_prompt += f"\n(Generate the image featuring the characters from the provided reference images in the described scene.)"
         
         # Define Output
         output_filename = f"capitulo_{chapter_num}.jpg"
@@ -318,7 +336,7 @@ def process_chapter(chapter_num, engine, db, project_root, style):
         os.makedirs(os.path.dirname(output_path), exist_ok=True)
 
         # Generate
-        result_path = engine.generate_art(final_prompt, ref_image_path, output_path)
+        result_path = engine.generate_art(final_prompt, ref_image_paths, output_path)
         
         if result_path:
             # Update Chapter only if success

@@ -1,0 +1,30 @@
+version: '3.8'
+
+services:
+  ollama:
+    image: ollama/ollama:latest
+    container_name: ollama
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_data:/root/.ollama
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:11434"]
+      interval: 5s
+      timeout: 3s
+      retries: 5
+
+  art-gen:
+    image: python:3.12-slim
+    container_name: art-gen
+    depends_on:
+      ollama:
+        condition: service_healthy
+    volumes:
+      - .:/app
+    working_dir: /app
+    # Ensure system deps for building some python packages if needed (usually slim is fine for torch wheel, but let's be safe)
+    command: tail -f /dev/null
+
+volumes:
+  ollama_data:
