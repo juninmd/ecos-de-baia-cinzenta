@@ -34,7 +34,7 @@
 *   **Parte XII-XIII (O Renascimento):** Recusa a aposentadoria. Aparência: Usa um **exoesqueleto médico temporário** ruidoso sobre as roupas para conseguir andar enquanto os ossos calcificam.
 *   **Parte XIV (O Vazio):** Recuperado, mas com sequelas. Aparência: Abandonou o exoesqueleto. Anda com rigidez e dor crônica, mas com as próprias pernas.
 *   **Capítulo 103:** Batalha final contra Miranda deixa novas cicatrizes.
-*   **Capítulo 105:** Retorna à Delegacia Central. Testemunha a "Ascensão" de Dante enquanto lida com a falha mecânica de suas órteses.
+*   **Capítulo 105 (A Ascensão):** Retorna à Delegacia Central. Lida com a falha mecânica de seu exoesqueleto (42% de eficiência) e assiste com horror e ceticismo enquanto Dante assume o controle da cidade, temendo que tenham "ligado um novo demônio na tomada".
 
 ---
 
@@ -102,8 +102,8 @@
 *   **Pré-Série:** Comissário lendário. Criou os arquivos criptografados que guiariam Gabo.
 *   **Parte V:** Seu túmulo foi aberto e encontrado vazio.
 *   **Parte XIV (A Convergência):** Revelado que sua consciência foi preservada.
-*   **Capítulo 104:** Dante Moretti retorna.
-*   **Capítulo 105:** Assume o comando da "Polícia Comunitária" e reativa a infraestrutura da cidade (luzes, câmeras) com sua mera presença, iniciando a "Ascensão".
+*   **Capítulo 104:** Dante Moretti retorna em um corpo biológico.
+*   **Capítulo 105:** Assume o comando da "Polícia Comunitária" e inicia a "Otimização" da cidade. Reativa a infraestrutura (luzes, câmeras, terminais) com sua mera presença, demonstrando ser a "Voz da Cidade" encarnada. A morte para ele agora é apenas "uma ineficiência biológica corrigida".
 ---
 
 ## Roberto Miranda
@@ -385,6 +385,7 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 ### ⏳ Linha do Tempo
 *   **Partes I-VII:** Um dos poucos policiais honestos na força corrupta.
 *   **Parte XIV:** Sobreviveu a todas as purgas e agora lidera a "Polícia Comunitária", tentando manter a ordem na era sem tecnologia.
+*   **Capítulo 105:** Testemunha o retorno impossível de Dante. O choque de ver seu antigo colega morto agora como uma entidade quase divina o deixa visivelmente abalado.
 
 ---
 
@@ -405,7 +406,7 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 ### ⏳ Linha do Tempo
 *   **Partes I-VII:** Burocrata ineficiente que atrapalhava Gabo com papelada.
 *   **Parte XIV:** Foi reintegrado por Vilar. Sua obsessão por procedimentos e arquivos físicos tornou-se vital para a administração da polícia após o colapso dos computadores.
-*   **Capítulo 105:** Testemunha o retorno de Dante, que reativa sua máquina de escrever elétrica e os sistemas da delegacia.
+*   **Capítulo 105:** Testemunha o retorno de Dante. Entra em choque quando sua máquina de escrever elétrica (supostamente quebrada) e os computadores da delegacia ganham vida sozinhos sob a influência do novo Comissário.
 
 ---
 

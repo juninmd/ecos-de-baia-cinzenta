@@ -10,6 +10,7 @@ module.exports = {
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Ler Agora', link: '/capitulo-1' },
+      { text: 'Cronologia', link: '/cronologia' },
       { text: 'Personagens', link: '/personagens' },
       { text: 'Sobre o Autor', link: '/sobre-o-autor' }
     ],
