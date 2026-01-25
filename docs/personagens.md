@@ -35,6 +35,7 @@
 *   **Parte XIV (O Vazio):** Recuperado, mas com sequelas. Aparência: Abandonou o exoesqueleto. Anda com rigidez e dor crônica, mas com as próprias pernas.
 *   **Capítulo 103:** Batalha final contra Miranda deixa novas cicatrizes.
 *   **Capítulo 105:** Retorna à Delegacia Central. Testemunha a "Ascensão" de Dante enquanto lida com a falha mecânica de suas órteses.
+*   **Capítulo 106:** Tenta reparar seu exoesqueleto sem sucesso. Intervém para impedir que Dante use força letal contra os manifestantes "Desconectados", descobrindo a existência da ameaça do "Silêncio".
 
 ---
 
@@ -104,6 +105,7 @@
 *   **Parte XIV (A Convergência):** Revelado que sua consciência foi preservada.
 *   **Capítulo 104:** Dante Moretti retorna.
 *   **Capítulo 105:** Assume o comando da "Polícia Comunitária" e reativa a infraestrutura da cidade (luzes, câmeras) com sua mera presença, iniciando a "Ascensão".
+*   **Capítulo 106:** Implementa uma gestão algorítmica na delegacia. Neutraliza um protesto violento usando a infraestrutura urbana (câmeras e drones) sem disparar um tiro pessoalmente. Revela a Gabo a ameaça do "Silêncio" que devora a rede.
 ---
 
 ## Roberto Miranda
@@ -406,6 +408,7 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 *   **Partes I-VII:** Burocrata ineficiente que atrapalhava Gabo com papelada.
 *   **Parte XIV:** Foi reintegrado por Vilar. Sua obsessão por procedimentos e arquivos físicos tornou-se vital para a administração da polícia após o colapso dos computadores.
 *   **Capítulo 105:** Testemunha o retorno de Dante, que reativa sua máquina de escrever elétrica e os sistemas da delegacia.
+*   **Capítulo 106:** Torna-se o braço direito executivo de Dante, sobrecarregado pela velocidade de processamento do novo Comandante.
 
 ---
 

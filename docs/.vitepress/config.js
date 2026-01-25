@@ -192,6 +192,7 @@ module.exports = {
         text: 'Parte XV: A Ascensão',
         items: [
           { text: 'Capítulo 105: O Silêncio de Concreto', link: '/capitulo-105' },
+          { text: 'Capítulo 106: Fios Invisíveis', link: '/capitulo-106' },
         ]
       },
       {
