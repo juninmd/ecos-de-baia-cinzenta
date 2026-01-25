@@ -34,10 +34,11 @@
 *   **Parte XII-XIII (O Renascimento):** Recusa a aposentadoria. Aparência: Usa um **exoesqueleto médico temporário** ruidoso sobre as roupas para conseguir andar enquanto os ossos calcificam.
 *   **Parte XIV (O Vazio):** Recuperado, mas com sequelas. Aparência: Abandonou o exoesqueleto. Anda com rigidez e dor crônica, mas com as próprias pernas.
 *   **Capítulo 103:** Batalha final contra Miranda deixa novas cicatrizes.
+*   **Capítulo 105:** Retorna à Delegacia Central. Testemunha a "Ascensão" de Dante enquanto lida com a falha mecânica de suas órteses.
 
 ---
 
-## Valéria "Val" Cruz - [STATUS: PETRIFICADA/EM ESTASE]
+## Valéria "Val" Cruz
 
 ![Valéria "Val" Cruz](/personagens/val_realistic.png)
 
@@ -64,7 +65,7 @@
 
 ---
 
-## Marco Moretti - [STATUS: FALECIDO / ABSORVIDO]
+## Marco Moretti
 
 ![Marco Moretti](/personagens/marco.png)
 
@@ -90,11 +91,10 @@
 
 ---
 
-## Dante Moretti - [STATUS: RESSURGIDO / HOSPEDEIRO BIOLÓGICO]
+## Dante Moretti
 
 ![Dante Moretti](/personagens/dante.jpg)
 
-*   **Status:** [ATIVO / CONSCIÊNCIA DIGITAL EM CORPO BIOLÓGICO]
 *   **Função:** Lenda Policial / O Arquiteto da Resistência.
 *   **Importância:** Dante não foi apenas um policial; ele foi o *primeiro* a perceber a cilada da Aeterna. Ele inseriu o "Código Fonte Moral" na infraestrutura da cidade antes de morrer (o "backdoor" que Valéria usa). Ele é o "Pai Fundador" da resistência, tendo sacrificado sua vida física para se tornar o "Fantasma na Máquina" original, garantindo que Gabo tivesse uma chance de lutar 15 anos depois.
 
@@ -103,9 +103,10 @@
 *   **Parte V:** Seu túmulo foi aberto e encontrado vazio.
 *   **Parte XIV (A Convergência):** Revelado que sua consciência foi preservada.
 *   **Capítulo 104:** Dante Moretti retorna.
+*   **Capítulo 105:** Assume o comando da "Polícia Comunitária" e reativa a infraestrutura da cidade (luzes, câmeras) com sua mera presença, iniciando a "Ascensão".
 ---
 
-## Roberto Miranda - [STATUS: DESTRUÍDO / INATIVO]
+## Roberto Miranda
 
 ![Roberto Miranda](/personagens/roberto.png)
 
@@ -130,7 +131,7 @@
 
 ---
 
-## Silas Vance ("O Jardineiro") - [STATUS: ABSORVIDO / MORTO]
+## Silas Vance ("O Jardineiro")
 
 ![Silas Vance](/personagens/silas.png)
 
@@ -152,7 +153,7 @@
 
 ---
 
-## Dra. Elara Vance - [STATUS: DESAPARECIDA / ATIVA NO SUBMUNDO]
+## Dra. Elara Vance
 
 ![Dra. Elara Vance](/personagens/elara.png)
 
@@ -316,7 +317,7 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 
 ---
 
-## Kael "O Cirurgião" - [STATUS: FALECIDO]
+## Kael "O Cirurgião"
 
 ![Kael "O Cirurgião"](/personagens/cirurgiao.jpg)
 
@@ -358,8 +359,6 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 *   **Relacionamento com Gabo (O Dilema):** Elena ainda ama Gabo profundamente, e sabe que ele sente o mesmo. No entanto, ela se recusa a reatar o casamento. O motivo não é falta de amor, mas excesso de autopreservação emocional. Ela entendeu que Gabo é "casado com a cidade" e com sua cruzada. Ela o deixou porque não suportava mais assistir ao lento suicídio dele em nome do dever. Ela continua ao lado dele como parceira de combate porque não consegue deixá-lo morrer sozinho, mas mantém a distância romântica como um escudo. Para ela, voltar para ele seria aceitar ser viúva antes do enterro.
 
 ### ⏳ Linha do Tempo
-
-### ⏳ Linha do Tempo
 *   **Pré-Série:** Ex-esposa de Gabo, deixou a cidade antes do bloqueio.
 *   **Parte V:** Retornou a Baía Cinzenta e foi sequestrada, sendo usada como peão contra Gabo.
 *   **Partes VI-XIII:** Atuou como jornalista independente, expondo os crimes da Aeterna para o mundo exterior.
@@ -389,7 +388,7 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 
 ---
 
-## Inspetor Rangel - [STATUS: ATIVO/REINTEGRADO]
+## Inspetor Rangel
 
 *   **Idade:** 45 anos
 *   **Altura:** 1,78m
@@ -406,6 +405,7 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 ### ⏳ Linha do Tempo
 *   **Partes I-VII:** Burocrata ineficiente que atrapalhava Gabo com papelada.
 *   **Parte XIV:** Foi reintegrado por Vilar. Sua obsessão por procedimentos e arquivos físicos tornou-se vital para a administração da polícia após o colapso dos computadores.
+*   **Capítulo 105:** Testemunha o retorno de Dante, que reativa sua máquina de escrever elétrica e os sistemas da delegacia.
 
 ---
 
@@ -449,7 +449,7 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 
 ---
 
-## Aria (A Entidade) - [STATUS: ONIPRESENTE / SILENCIOSA]
+## Aria (A Entidade)
 
 ![Aria (A Entidade)](/personagens/aria.png)
 
