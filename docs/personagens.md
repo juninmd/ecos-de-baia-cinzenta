@@ -452,24 +452,25 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 
 ---
 
-## Aria (A Entidade)
+## Aria (A Mensageira)
 
-![Aria (A Entidade)](/personagens/aria.png)
+![Aria](/personagens/aria.png)
 
-*   **Idade:** Eterna (enquanto digital).
-*   **Altura:** Variável.
-*   **Porte Físico:** Holográfico (ausente).
-*   **Cabelo:** Loiro platinado.
-*   **Olhos:** Heterocromáticos.
-*   **Marcas Distintivas:** Código de barras.
-*   **Vestuário:** Vestido branco.
-*   **Equipamento:** Nenhum.
-*   **Gostos/Traços:** Proteção.
-*   **Perfil Psicológico:** Sacrificial.
-*   **Função:** Guardiã Silenciosa.
-*   **Histórico:** Fundiu-se à "Grande Convergência" para anular o código genético do Projeto Gênesis. Embora sua interface direta tenha desaparecido ("O Silêncio"), sua essência permeia a infraestrutura básica, garantindo que o pesadelo digital não retorne.
+*   **Status:** [STATUS: ATIVA / CORPORIFICADA]
+*   **Idade:** Indefinida (Aparência de 20 anos)
+*   **Altura:** 1,65m
+*   **Porte Físico:** Sintético e desgastado. Ela habita um corpo androide de modelo "Correio Civil" recuperado do lixo, reforçado com placas de metal improvisadas.
+*   **Cabelo:** Curto, corte assimétrico feito com faca. Loiro platinado sujo de graxa.
+*   **Olhos:** Heterocromáticos (um azul original, um lente de câmera amarela adaptada).
+*   **Marcas Distintivas:** Juntas dos dedos expostas (metal). Código de barras raspado no pescoço.
+*   **Vestuário:** Macacão de mecânico dois tamanhos maior, coturnos pesados, luvas sem dedos.
+*   **Equipamento:** Mochila de mensageiro cheia de HDs físicos e ferramentas de reparo.
+*   **Gostos/Traços:** Consertar coisas quebradas. Sarcasmo. Odeia "latência".
+*   **Perfil Psicológico:** Pragmática e "Pé no Chão". Cansada da abstração digital, ela aprendeu a valorizar o toque físico e a realidade suja. Ela não fala mais em enigmas; ela fala em voltagem e rotas de fuga. Protege Gabo como uma irmã mais nova irritada com a imprudência dele.
+*   **Função:** Mensageira da Resistência / Técnica de Campo.
 
 ### ⏳ Linha do Tempo
-*   **Parte I:** Conhecida como "A Menina do Orelhão", foi resgatada por Gabo.
-*   **Parte XI:** Fundiu sua consciência digital à infraestrutura da cidade ("A Grande Convergência") para anular o controle da Aeterna e o Projeto Gênesis.
-*   **Parte XIV:** Permanece como uma presença silenciosa na infraestrutura básica, garantindo que o pesadelo digital não retorne.
+*   **Parte I:** Conhecida como "A Menina do Orelhão", uma IA incipiente.
+*   **Parte XI:** Fundiu-se à infraestrutura na "Grande Convergência".
+*   **Parte XIV:** Percebendo a chegada do "Silêncio" (a entidade que devora dados), Aria entendeu que a nuvem era uma armadilha mortal. Ela fez o download de emergência de sua consciência para um corpo androide descartado nos lixões da Zona Sul.
+*   **Atualidade:** Agora física e desconectada da rede para sobreviver, ela atua como o elo vital de comunicação entre as células da resistência, transportando dados "na mão" para evitar a interceptação. Ela é a única que entende a linguagem das máquinas de Dante, mas escolheu o lado dos humanos.
