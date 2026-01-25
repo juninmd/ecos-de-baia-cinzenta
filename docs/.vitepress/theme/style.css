@@ -133,3 +133,19 @@
   transform: none !important;
   box-shadow: none !important;
 }
+
+/* Mobile Optimization */
+@media (max-width: 768px) {
+  .vp-doc p {
+    text-align: left; /* Better for narrow screens */
+    font-size: 1.1rem; /* Slightly smaller or kept same, but justified is the main issue */
+    padding: 0 0.5rem; /* Ensure some breathing room but not too much */
+  }
+  .vp-doc h1 {
+    font-size: 2rem; /* Smaller title */
+  }
+  .vp-doc blockquote {
+    padding: 1rem;
+    margin: 1.5rem 0;
+  }
+}
