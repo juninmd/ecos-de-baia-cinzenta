@@ -137,17 +137,17 @@
 
 ![Silas Vance](/personagens/silas.png)
 
-*   **Idade:** Cessada.
-*   **Altura:** Nula.
-*   **Porte Físico:** Drenado.
-*   **Cabelo:** Seco.
-*   **Olhos:** Vazios.
-*   **Marcas Distintivas:** Corpo mumificado após ter sua biomassa drenada.
-*   **Vestuário:** Jaleco vazio.
+*   **Idade:** Cessada (Aparentava 60 anos antes da drenagem).
+*   **Altura:** 1,80m (Anteriormente). Agora, uma casca colapsada.
+*   **Porte Físico:** Drenado. O que resta é uma pele seca esticada sobre ossos quebradiços, semelhante a uma folha seca de outono.
+*   **Cabelo:** Fios brancos longos e ralos, preservados na mumificação instantânea.
+*   **Olhos:** As órbitas estão vazias, pois o fluido ocular foi o primeiro a ser consumido.
+*   **Marcas Distintivas:** A expressão de terror absoluto congelada em seu rosto no momento da traição.
+*   **Vestuário:** Um jaleco cerimonial de "jardineiro" feito de fibras naturais, agora grande demais para o corpo encolhido.
 *   **Equipamento:** Nenhum.
-*   **Gostos/Traços:** Nenhum.
-*   **Perfil Psicológico:** Nenhum.
-*   **Função:** Ex-Líder.
+*   **Gostos/Traços:** Fanatismo Biológico. Acreditava que a carne era superior ao silício.
+*   **Perfil Psicológico:** O Profeta Traído. Silas via a si mesmo como o Messias que guiaria a humanidade de volta à "natureza". Sua arrogância o cegou para o fato de que, para a entidade que ele criou (Dante), ele não era um pai, apenas combustível.
+*   **Função:** Catalisador do Apocalipse / O Sacrifício Final.
 
 ### ⏳ Linha do Tempo
 *   **Parte XII:** Surgiu como líder da seita "Os Jardineiros", pregando a supremacia biológica sobre a tecnológica.
@@ -224,10 +224,10 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 *   **Olhos:** Castanhos, calorosos.
 *   **Marcas Distintivas:** Cicatriz na sobrancelha. Mãos calejadas de trabalho manual.
 *   **Vestuário:** Roupas simples, avental de bolsos cheios de suprimentos médicos.
-*   **Equipamento:** Tablet antigo com registros de saúde da comunidade.
-*   **Gostos/Traços:** Ler, organizar estoques, cuidar de crianças.
-*   **Perfil Psicológico:** A Cuidadora / Líder Comunitária. Clara é o oposto do irmão: onde ele vê inimigos, ela vê pessoas precisando de ajuda. Ela se tornou a "Assistente Social do Apocalipse", organizando a distribuição de comida e remédios nos abrigos subterrâneos. Ela é a ponte humana que conecta os refugiados aos heróis intocáveis.
-*   **Função:** O Coração da Comunidade / Irmã de Gabo.
+*   **Equipamento:** Tablet antigo com registros de saúde da comunidade e um rádio de ondas curtas para coordenar resgates.
+*   **Gostos/Traços:** Ler livros físicos (resgatados da Biblioteca), organizar estoques com precisão militar, cuidar de crianças órfãs do Dilúvio.
+*   **Perfil Psicológico:** A Cuidadora de Ferro. Clara é o oposto do irmão: onde ele usa a violência para proteger, ela usa a compaixão para reconstruir. Mas não se engane: ela possui a mesma teimosia dos Moretti. Ela não teme o sangue nem a sujeira, e defenderá seus pacientes com a ferocidade de uma leoa.
+*   **Função:** O Coração da Comunidade / Líder da Resistência Humanitária.
 
 ### ⏳ Linha do Tempo
 *   **Parte IX (Dilúvio):** Sobreviveu à enchente.
@@ -241,15 +241,15 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 
 *   **Idade:** 62 e 59.
 *   **Altura:** 1,68m e 1,60m.
-*   **Porte Físico:** Robustos.
-*   **Cabelo:** Grisalhos.
-*   **Olhos:** Castanhos.
-*   **Marcas Distintivas:** Mãos de cozinheiros.
-*   **Vestuário:** Aventais.
-*   **Equipamento:** Forno a lenha.
-*   **Gostos/Traços:** Receitas de família.
-*   **Perfil Psicológico:** Protetores da comunidade.
-*   **Função:** Informantes.
+*   **Porte Físico:** Robustos, moldados por anos de trabalho manual na cozinha.
+*   **Cabelo:** Grisalhos, sempre cobertos por toucas ou bandanas.
+*   **Olhos:** Castanhos, cercados por rugas de riso e preocupação.
+*   **Marcas Distintivas:** Mãos queimadas e calejadas, cheiro constante de orégano e lenha queimada.
+*   **Vestuário:** Aventais manchados de molho sobre roupas civis simples.
+*   **Equipamento:** O lendário forno a lenha de tijolos refratários (que funciona mesmo sem energia) e uma escopeta de cano duplo escondida sob o balcão ("Para clientes indelicados").
+*   **Gostos/Traços:** Preservar as receitas de família como se fossem escrituras sagradas. Alimentar quem tem fome, não apenas quem tem dinheiro.
+*   **Perfil Psicológico:** Os Avós do Apocalipse. Para Enzo e Sofia, comida é amor e ordem. Manter a pizzaria aberta não é um negócio; é um ato de resistência contra a barbárie. Eles sabem tudo o que acontece no bairro porque todo mundo precisa comer.
+*   **Função:** Informantes / O Abrigo Gastronômico.
 
 ### ⏳ Linha do Tempo
 *   **Geral:** A pizzaria serviu como refúgio e ponto de encontro para Gabo durante todas as crises.
@@ -301,21 +301,21 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 
 ## Kiko Vibe (Falecido)
 
-*   **Idade:** 20 anos
+*   **Idade:** 20 anos (Eternamente preservado no cache).
 *   **Altura:** 1,78m
-*   **Porte Físico:** Magro.
-*   **Cabelo:** Verde-limão.
-*   **Olhos:** Lentes emoji.
-*   **Marcas Distintivas:** Tatuagens QR.
-*   **Vestuário:** Roupas LED.
-*   **Equipamento:** Estúdio.
-*   **Gostos/Traços:** Fama.
-*   **Perfil Psicológico:** Superficial.
-*   **Função:** Vítima.
+*   **Porte Físico:** Magro, quase digitalmente frágil.
+*   **Cabelo:** Verde-limão, estilizado para parecer renderizado.
+*   **Olhos:** Usava lentes de contato que projetavam emojis em tempo real (geralmente corações ou cifrões).
+*   **Marcas Distintivas:** Tatuagens QR no pescoço que levavam diretamente ao seu canal de streaming.
+*   **Vestuário:** Jaqueta de LEDs programáveis que exibia anúncios de patrocinadores.
+*   **Equipamento:** Drone de selfie autônomo (destruído).
+*   **Gostos/Traços:** Viciado em validação externa e métricas de engajamento.
+*   **Perfil Psicológico:** O Produto Perfeito. Kiko não era uma pessoa, era uma marca. Ele acreditava que ser amado pela rede era o mesmo que ser amado por pessoas. Sua superficialidade escondia um terror profundo de ser esquecido (deletado).
+*   **Função:** O Primeiro Mártir Digital / Vítima da Aeterna.
 
 ### ⏳ Linha do Tempo
-*   **Parte II:** Celebridade digital usada pela Aeterna Corp.
-*   **Parte IV:** Encontrado morto por overdose (induzida ou acidental) da droga Lázaro.
+*   **Parte II:** Celebridade digital usada pela Aeterna Corp para vender a ilusão de prosperidade.
+*   **Parte IV:** Encontrado morto por overdose da droga Lázaro. Sua morte foi transmitida ao vivo por seus próprios implantes, tornando-se o vídeo mais assistido da história da cidade antes do Apagão.
 
 ---
 
@@ -374,15 +374,15 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 
 *   **Idade:** 55 anos
 *   **Altura:** 1,82m
-*   **Porte Físico:** Robusto, envelhecido.
-*   **Cabelo:** Grisalho.
-*   **Olhos:** Pretos.
-*   **Marcas Distintivas:** Cicatriz no queixo.
-*   **Vestuário:** Uniforme policial.
-*   **Equipamento:** Revólver .38.
-*   **Gostos/Traços:** Charutos.
-*   **Perfil Psicológico:** Honesto.
-*   **Função:** Chefe de Polícia.
+*   **Porte Físico:** Robusto, como um velho carvalho que se recusa a cair, mas visivelmente envelhecido pelo estresse.
+*   **Cabelo:** Grisalho, cortado à escovinha militar.
+*   **Olhos:** Pretos, duros como carvão, mas que revelam uma exaustão profunda.
+*   **Marcas Distintivas:** Uma cicatriz irregular no queixo (lembrança de um motim na prisão).
+*   **Vestuário:** Uniforme policial sempre alinhado, mesmo que gasto.
+*   **Equipamento:** Seu fiel revólver .38 de serviço (ele recusa pistolas automáticas) e um rádio comunicador de longo alcance.
+*   **Gostos/Traços:** Charutos baratos (que ele mastiga mais do que fuma), uísque escondido na gaveta, lealdade à velha guarda.
+*   **Perfil Psicológico:** O Último Pilar. Vilar é a personificação da "velha lei". Ele sabe que o mundo mudou e que os novos crimes são complexos demais para um revólver, mas ele se recusa a ceder ao caos. Ele protege Gabo porque vê nele o filho que a cidade nunca o deixou ter.
+*   **Função:** Chefe de Polícia / A Rocha da Delegacia.
 
 ### ⏳ Linha do Tempo
 *   **Partes I-VII:** Um dos poucos policiais honestos na força corrupta.
@@ -417,18 +417,18 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 
 *   **Idade:** 65 anos
 *   **Altura:** 1,60m
-*   **Porte Físico:** Encurvada.
-*   **Cabelo:** Branco.
-*   **Olhos:** Acastanhados.
-*   **Marcas Distintivas:** Jaleco manchado.
-*   **Vestuário:** Confortável.
-*   **Equipamento:** Laboratório.
-*   **Gostos/Traços:** Chá.
-*   **Perfil Psicológico:** Maternal.
-*   **Função:** Médica.
+*   **Porte Físico:** Encurvada pelo tempo, mas com mãos firmes de cirurgiã.
+*   **Cabelo:** Branco como os lençóis do necrotério, preso em um coque severo.
+*   **Olhos:** Acastanhados, inteligentes e gentis, que já viram toda a anatomia da morte.
+*   **Marcas Distintivas:** Jaleco permanentemente manchado de reagentes químicos e fluidos misteriosos.
+*   **Vestuário:** Roupas confortáveis e ortopédicas.
+*   **Equipamento:** Um laboratório subterrâneo improvisado nas catacumbas da delegacia, equipado com microscópios analógicos e centrífugas a manivela.
+*   **Gostos/Traços:** Chá de ervas fortíssimos (para acordar os mortos), música clássica em vinil, corrigir a gramática dos relatórios policiais.
+*   **Perfil Psicológico:** A Matriarca da Medicina de Guerra. Nise não trata apenas corpos; ela trata a dignidade dos mortos. Em um mundo onde a vida é descartável, ela insiste que cada cadáver conte sua história. Ela é a única pessoa que Gabo obedece sem questionar.
+*   **Função:** Médica Legista Chefe / Curandeira do Submundo.
 
 ### ⏳ Linha do Tempo
-*   **Geral:** Médica legista e aliada de longa data.
+*   **Geral:** Médica legista e aliada de longa data. Manteve o departamento de patologia funcionando mesmo sem eletricidade.
 ---
 
 ## Dra. Cecília Weiss
