@@ -9,6 +9,15 @@ Este documento mantém um registro da avaliação de qualidade narrativa, ritmo 
 
 ## 🟢 Arco Atual: Partes XIV & XV (O Vazio / A Ascensão)
 
+### Capítulo 106: Fios Invisíveis
+*   **Nota:** ⭐ **9.0/10**
+*   **Pontos Fortes:**
+    *   A introdução dos "Desconectados" adiciona uma camada sociopolítica realista.
+    *   O uso da infraestrutura da cidade como arma não-letal por Dante é assustadoramente eficiente.
+    *   O final com Aria no porto cria um excelente gancho para o conflito ideológico (Ordem vs Harmonia).
+*   **Pontos Fracos:**
+    *   A cena do mapa holográfico é um pouco expositiva, mas necessária.
+
 ### Capítulo 105: O Silêncio de Concreto
 *   **Nota:** ⭐ **9.2/10**
 *   **Pontos Fortes:**

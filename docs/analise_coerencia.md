@@ -1,6 +1,6 @@
 # Relatório de Análise de Coerência e Narrativa
 
-> **Data da Análise:** Pós-Capítulo 105
+> **Data da Análise:** Pós-Capítulo 106
 > **Status:** Aprovado com Ressalvas (Monitoramento Contínuo)
 
 ---
@@ -9,52 +9,50 @@
 
 ### Gabriel "Gabo" Moretti vs. Elena Moretti
 *   **Dinâmica:** "Parceiros de Trincheira".
-*   **Análise:** A relação se mantém coerente com o histórico estabelecido. Elena continua sendo a âncora pragmática para a fúria emocional de Gabo. Não houve recaída romântica forçada ("beijo no meio do tiroteio"), o que preserva a maturidade e o tom "noir" da separação. A cooperação deles no "Berçário" foi profissional e desesperada, fiel aos personagens.
+*   **Análise:** A relação se mantém coerente com o histórico estabelecido. Elena continua sendo a âncora pragmática para a fúria emocional de Gabo. Não houve recaída romântica forçada, o que preserva a maturidade e o tom "noir".
 *   **Veredito:** ✅ Coerente.
 
 ### Gabriel "Gabo" Moretti vs. Dante Moretti (A Entidade)
-*   **Dinâmica:** "O Criador vs. A Criação".
-*   **Análise:** A introdução de Dante ressuscitado em Ch. 104/105 cria um contraste fascinante. Gabo (o filho humano, falho, sujo de graxa) vs. Dante (o pai idealizado, agora "perfeito", limpo e frio). A reação de Gabo (horror e náusea) ao ver o pai "otimizar" a cidade é psicologicamente precisa. Ele não vê um milagre; vê uma violação.
+*   **Dinâmica:** "O Caos Humano vs. A Ordem Perfeita".
+*   **Análise:** Em Ch. 106, a tensão escala. Dante vê Gabo como um "arquivo corrompido" e tenta "consertá-lo" (a cena da chave de fenda). Gabo resiste, preferindo sua dor humana à eficiência fria do pai. Essa dicotomia é o coração emocional do arco atual.
 *   **Veredito:** ✅ Coerente e Promissor.
 
-### Gabo vs. Roberto Miranda (Final)
-*   **Dinâmica:** "Ódio Puro".
-*   **Análise:** O desfecho no Capítulo 103 foi satisfatório. A luta não foi vencida com um "hack" ou uma arma mágica, mas com brutalidade física (socar até quebrar), o que fecha o arco de rivalidade pessoal deles perfeitamente.
-*   **Veredito:** ✅ Coerente (Arco Encerrado).
+### Dante Moretti vs. Aria (A Mensageira)
+*   **Dinâmica:** "A Ascensão (Ordem) vs. O Silêncio (Harmonia)".
+*   **Análise:** Ch. 106 estabelece o conflito central. Dante é a imposição de controle; Aria é a aceitação do fluxo. Enquanto Dante usa câmeras e drones para vigiar, Aria usa o "Silêncio" para esconder. Eles são opostos ideológicos perfeitos.
+*   **Veredito:** ✅ Novo Arco Estabelecido com Sucesso.
 
 ---
 
 ## 2. Verificação de Integridade de Personagem (Character Integrity Check)
 
 ### O "Fator Nicotina" (Gabo e o Cigarro)
-*   **Regra Canônica:** Gabo odeia cigarro. Nunca fumou. Seu pai (o Dante original) fumava muito, e Gabo associa o cheiro à decadência e à ausência do pai.
-*   **Verificação de Texto (Grep Audit):**
-    *   *Capítulo 1:* "Ele nunca fumou — odiava o vício que consumira seu pai".
-    *   *Capítulo 51:* "Gabo desviou o rosto, incomodado com a fumaça."
-    *   *Capítulo 100:* "Ele não fumava — na verdade, detestava o cheiro".
-    *   *Capítulo 105:* Observa a falta de manchas de nicotina na mão do novo Dante como um sinal de "artificialidade".
-*   **Conclusão:** A regra foi estritamente respeitada em todos os 105 capítulos. Não há deslizes.
+*   **Regra Canônica:** Gabo odeia cigarro. Nunca fumou.
+*   **Verificação de Texto (Grep Audit Completo - Ch 1-106):**
+    *   *Capítulo 1:* Referência explícita ao ódio pelo vício do pai.
+    *   *Capítulo 51:* Vilar fuma; Gabo se incomoda com a fumaça.
+    *   *Capítulo 105:* Gabo nota a ausência de manchas de nicotina na mão do novo Dante como sinal de artificialidade.
+    *   *Capítulo 106:* Nenhuma violação encontrada.
+*   **Conclusão:** A regra foi estritamente respeitada em todos os capítulos.
 *   **Veredito:** ✅ 100% Coerente.
 
 ---
 
-## 3. Expansão de Lore: A Virada "Biopunk" (Part XIV)
+## 3. Expansão de Lore: A Virada "Biopunk" e o "Silêncio"
 
 ### A Premissa
-A transição do Cyberpunk (Alta Tecnologia Digital) para o Biopunk (Horror Biológico/Carne Mecânica) na Parte XIV gerou questionamentos sobre a consistência do universo.
+A narrativa evoluiu de Biopunk (carne como hardware) para um conflito teológico-tecnológico.
 
 ### Análise de Coerência
-*   **O Problema:** Como justificar "monstros de carne" em um thriller policial?
-*   **A Justificativa Narrativa:** O "Apagão" (The Blackout) na Parte VII destruiu a infraestrutura digital confiável (A Nuvem). Sem servidores de silício, a Aeterna Corp e seus sucessores (Os Jardineiros) precisaram de um novo meio de armazenamento para dados complexos (consciências).
-*   **A Solução Lógica:** O cérebro humano/DNA é o "disco rígido" mais denso que existe. O Projeto Gênesis não é magia; é engenharia de armazenamento de dados usando "wetware" (biologia) em vez de hardware.
-*   **Estética:** A mudança de "neon e chuva" para "raízes, fluidos e escuridão subterrânea" amplia o horror. Em vez da frieza dos chips, temos a viscosidade da carne. Isso renova a ameaça para Gabo, que sabe lutar contra robôs, mas se sente enojado por aberrações biológicas.
+*   **A Ascensão (Dante):** O retorno da infraestrutura (luzes, câmeras) sob comando de uma mente digital em corpo biológico faz sentido dentro da lógica estabelecida. Dante não é mágico; ele é um administrador de sistemas com privilégios de "root" na cidade.
+*   **O Silêncio (Aria):** A ideia de uma zona onde dados são devorados (Porto) cria um contraponto tático necessário. Se Dante vê tudo, os heróis precisam de um lugar onde não possam ser vistos. O "Silêncio" é essa mecânica de furtividade elevada a nível de lore.
 
 ### Veredito
-A expansão é **Coerente**. Ela respeita a regra "High Tech, Low Life" (Alta Tecnologia, Vida Baixa), apenas mudando a tecnologia de silício para carbono. A atmosfera opressiva permanece intacta.
+A expansão mantém a coerência interna. O mundo está ficando mais estranho, mas segue suas próprias regras.
 
 ---
 
 ## 4. Pontos de Atenção (Watchlist)
 
-1.  **Nível de Poder de Dante:** O novo Dante (Ch. 105) parece quase onipotente ("A Ascensão"). A narrativa deve tomar cuidado para não transformá-lo em um "Deus Ex Machina" que resolve tudo, ou um vilão invencível. Ele deve ter limitações (provavelmente a necessidade de biomassa ou energia).
-2.  **A Tecnologia de Gabo:** Com o retorno da "ordem" por Dante, o exoesqueleto improvisado de Gabo (que falhou em Ch. 105) deve ser um ponto de trama. Ele aceitará "conserto" do novo regime? Isso geraria um conflito interessante.
+1.  **Onipotência de Dante:** No Ch 106, Dante neutralizou um protesto inteiro usando a cidade. Ele está muito poderoso. A narrativa precisa explorar suas limitações (consumo de energia? necessidade de manutenção do corpo biológico?) em breve.
+2.  **A Agência de Gabo:** Com Dante resolvendo problemas e Aria sendo a "escolhida" para detê-lo, Gabo corre o risco de virar espectador. Ele precisa ter um papel ativo na resolução, não apenas testemunhar a luta de titãs. A falha de seu exoesqueleto simboliza essa impotência atual, que precisa ser superada.
