@@ -98,12 +98,14 @@
 ![Dante Moretti](/personagens/dante.jpg)
 
 *   **Função:** Lenda Policial / O Arquiteto da Resistência.
-*   **Importância:** Dante não foi apenas um policial; ele foi o *primeiro* a perceber a cilada da Aeterna. Ele inseriu o "Código Fonte Moral" na infraestrutura da cidade antes de morrer (o "backdoor" que Valéria usa). Ele é o "Pai Fundador" da resistência, tendo sacrificado sua vida física para se tornar o "Fantasma na Máquina" original, garantindo que Gabo tivesse uma chance de lutar 15 anos depois.
+*   **Importância:** Dante não foi apenas um policial; ele foi o *primeiro* a perceber a cilada da Aeterna. Ele descobriu que a droga Lázaro não era apenas veneno, mas uma ferramenta de mineração neural. Krell o emboscou com um exército de mercenários. Dante lutou até a última bala. Quando tentou detonar uma carga de C4 para levar os segredos consigo, foi impedido por ciborgues de elite.
+*   **O Destino Cruel:** Dante não morreu naquele dia. Ele foi levado para o subsolo da Torre Aetherna. Seu cérebro foi removido e colocado em um tanque de nutrientes (O "Think Tank"), conectado a milhares de fios. Krell usou a mente tática e o código moral inquebrável de Dante como base para treinar a Inteligência Artificial da Aetherna Sec. Cada drone que patrulha a cidade se move com a fluidez de Dante; cada protocolo de segurança é uma perversão de sua honra.
 
 ### ⏳ Linha do Tempo
-*   **Pré-Série:** Comissário lendário. Criou os arquivos criptografados que guiariam Gabo.
-*   **Parte V:** Seu túmulo foi aberto e encontrado vazio.
-*   **Parte XIV (A Convergência):** Revelado que sua consciência foi preservada.
+*   **A Queda (15 anos atrás):** Emboscado na Zona Industrial. Lutou contra 50 agentes. Neutralizado por ciborgues Série-Z. Oficialmente declarado morto em "acidente".
+*   **O Cativeiro Digital:** Passou 15 anos tendo sua mente dissecada digitalmente por Krell. Inseriu o "Código Fonte Moral" como um vírus adormecido na rede da Aetherna durante esse processo.
+*   **Parte V:** Seu túmulo foi aberto e encontrado vazio (porque nunca houve corpo, apenas um caixão lastreado).
+*   **Parte XIV (A Convergência):** Sua consciência finalmente se libertou do "Think Tank" e habitou um novo corpo biológico.
 *   **Capítulo 104:** Dante Moretti retorna.
 *   **Capítulo 105:** Assume o comando da "Polícia Comunitária" e reativa a infraestrutura da cidade (luzes, câmeras) com sua mera presença, iniciando a "Ascensão".
 *   **Capítulo 106:** Implementa uma gestão algorítmica na delegacia. Neutraliza um protesto violento usando a infraestrutura urbana (câmeras e drones) sem disparar um tiro pessoalmente. Revela a Gabo a ameaça do "Silêncio" que devora a rede.
@@ -385,6 +387,7 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 *   **Gostos/Traços:** Charutos baratos (que ele mastiga mais do que fuma), uísque escondido na gaveta, lealdade à velha guarda.
 *   **Perfil Psicológico:** O Último Pilar. Vilar é a personificação da "velha lei". Ele sabe que o mundo mudou e que os novos crimes são complexos demais para um revólver, mas ele se recusa a ceder ao caos. Ele protege Gabo porque vê nele o filho que a cidade nunca o deixou ter.
 *   **Função:** Chefe de Polícia / A Rocha da Delegacia.
+*   **Inimigos Políticos:** Vilar vive em guerra fria com o **Prefeito Augusto Vale**. Ele se recusa a liberar a Aetherna Sec para operar livremente nas zonas pobres, o que faz com que seu orçamento seja estrangulado mensalmente.
 
 ### ⏳ Linha do Tempo
 *   **Partes I-VII:** Um dos poucos policiais honestos na força corrupta.
@@ -479,3 +482,70 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 *   **Parte XIV:** Com o retorno de Dante e a "Ascensão", Aria percebeu que não pode mais se esconder. O "Silêncio" que Dante detecta no porto não é um vazio; é a área de proteção dela. Ela é a única coisa que os sensores de Dante não conseguem decifrar.
 *   **Atualidade:** Ela se prepara para o confronto. Enquanto Dante controla a infraestrutura (câmeras, luzes), Aria "fala" com a biologia e com os códigos mortos que Dante ignora. Ela é a única capaz de "desligar" o novo Deus de Baía Cinzenta sem destruir a cidade no processo.
 *   **Capítulo 107:** Cria uma "Jaula de Faraday" em escala urbana no porto para proteger os refugiados da vigilância de Dante. Prepara-se para usar o "erro humano" como arma contra a lógica fria dele.
+
+---
+
+## Viktor Krell
+
+![Viktor Krell](/personagens/krell.jpg)
+
+*   **Idade:** 50 anos.
+*   **Altura:** 1,35m (Nanismo).
+*   **Porte Físico:** Pequeno, mas irradia uma presença aterrorizante.
+*   **Cabelo:** Loiro platinado, sempre penteado para trás com gel fixador.
+*   **Olhos:** Azul Aetherna (Cibernéticos). Eles nunca demonstram calor, apenas cálculo.
+*   **Marcas Distintivas:** Caminha com o auxílio de uma bengala de titânio negro, que na verdade é uma lâmina disfarçada e um emissor de choque neural.
+*   **Vestuário:** Ternos de alfaiataria sob medida, sempre impecáveis, projetados para impor respeito.
+*   **Equipamento:** Link neural mestre que lhe dá acesso a todas as câmeras e microfones da cidade.
+*   **Gostos/Traços:** Música clássica, xadrez, tortura psicológica e coleção de "Troféus Biológicos".
+*   **Perfil Psicológico:** O Sádico Intelectual. Krell compensa sua estatura com uma crueldade sem limites. Ele tem um desprezo visceral por força física, preferindo derrotar seus inimigos com inteligência e tecnologia. Ele não apenas mata; ele converte seus inimigos em ferramentas.
+*   **O Segredo Sombrio:** Krell usa os corpos de seus maiores adversários como troféus. O maior deles é **Dante Moretti**, cujo cérebro ele mantém vivo para alimentar sua IA de segurança.
+*   **Função:** CEO da Aetherna Corp / O Carcereiro da Cidade.
+
+### ⏳ Linha do Tempo
+*   **Passado:** Subiu na hierarquia corporativa eliminando rivais fisicamente mais fortes através de chantagem e veneno.
+*   **O Confronto com Dante:** Quando Dante descobriu a verdade sobre a droga Lázaro, Krell orquestrou a emboscada. Ele assistiu à luta final de Dante por câmeras, fascinado pela resistência do policial. Em vez de matá-lo, ordenou que os ciborgues o capturassem vivo para extrair sua "essência tática".
+*   **Atualidade:** Usa o caos gerado pela droga Lázaro (agora um minerador de dados biológicos) para vender a solução de segurança da Aetherna.
+
+---
+
+## Prefeito Augusto Vale
+
+![Prefeito Augusto Vale](/personagens/vale.jpg)
+
+*   **Idade:** 58 anos
+*   **Altura:** 1,70m
+*   **Porte Físico:** Obeso, com sinais de estresse cardíaco.
+*   **Cabelo:** Grisalho, ralo, sempre suado.
+*   **Olhos:** Castanhos, esquivos.
+*   **Marcas Distintivas:** Lenço de seda sempre na mão para enxugar a testa.
+*   **Vestuário:** Ternos caros que não caem bem.
+*   **Equipamento:** Botão de pânico direto para a Aetherna Sec.
+*   **Gostos/Traços:** Banquetes, poder sem responsabilidade.
+*   **Perfil Psicológico:** O Covarde no Trono. Vale foi um líder sindical que vendeu seus ideais por conforto. Agora, ele vive aterrorizado. Ele sabe que é descartável para Krell e odiado pelo povo. Sua crueldade vem do medo; ele ataca Vilar e a Polícia porque precisa mostrar serviço aos seus donos.
+*   **Função:** Prefeito de Baía Cinzenta / Fantoche.
+
+### ⏳ Linha do Tempo
+*   **Eleição:** Ganhou com financiamento recorde da Aetherna.
+*   **Atuação:** Assina decretos de desapropriação e cortes de verba policial. Evita aparecer em público sem escolta pesada.
+
+---
+
+## Veronica Lux
+
+![Veronica Lux](/personagens/lux.jpg)
+
+*   **Idade:** Indeterminada (Aparenta 25).
+*   **Altura:** 1,75m
+*   **Porte Físico:** Modelo.
+*   **Cabelo:** Loiro ouro, sempre perfeito.
+*   **Olhos:** Violeta (Lentes cosméticas de marca).
+*   **Marcas Distintivas:** A voz. Uma voz modulada para inspirar confiança e submissão.
+*   **Vestuário:** Roupas de âncora futurista, cores vibrantes que contrastam com o cinza da cidade.
+*   **Equipamento:** Estúdio de transmissão neural.
+*   **Gostos/Traços:** Ser adorada.
+*   **Perfil Psicológico:** A Narcisista Digital. Veronica acredita nas próprias mentiras? Ninguém sabe. Ela trata tragédias como entretenimento e vítimas como estatísticas de audiência. Ela é o rosto bonito que diz que "está tudo bem" enquanto o mundo queima.
+*   **Função:** Âncora Chefe da Nexus News / A Voz da Mentira.
+
+### ⏳ Linha do Tempo
+*   **Diária:** Apresenta o "Bom Dia Baía Cinzenta", o programa mais assistido, onde distorce a realidade para favorecer a Aetherna.
