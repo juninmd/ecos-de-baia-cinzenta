@@ -23,7 +23,7 @@ Rangel engoliu em seco e correu para cumprir a ordem.
 
 No canto do salão, sentado em uma caixa de munição vazia, Gabo tentava consertar a própria perna.
 
-Ele tinha uma chave de fenda enferrujada na mão e o painel do exoesqueleto aberto. O cheiro de ozônio queimado e graxa velha subia de suas calças. O servo-motor do joelho direito estava morto. Peso morto.
+Ele tinha uma chave de fenda enferrujada na mão e o painel da órtese aberto. O cheiro de ozônio queimado e graxa velha subia de suas calças. O mecanismo hidráulico do joelho direito estava morto. Peso morto.
 
 — Merda — sussurrou Gabo, forçando um parafuso espanado. A chave deslizou e cortou seu dedo. Ele nem sentiu. A dor fantasma na coluna era mais alta.
 
