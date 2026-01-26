@@ -122,3 +122,36 @@ Gabo olhou para o mapa. As manchas negras pareciam feridas de gangrena na cidade
 Dante apagou o mapa. A escuridão voltou ao porão.
 
 — O esquecimento total.
+
+***
+
+**Zona Portuária - O Olho do Furacão**
+
+Longe dali, no topo de um guindaste enferrujado que pendia sobre o mar revolto, uma figura observava as luzes da cidade voltarem a acender.
+
+Aria não sentia o frio da chuva que encharcava seu manto. A água escorria por seu rosto, mas sua pele — uma síntese perfeita de polímeros biológicos e tecido humano cultivado — repelia a sujeira e o óleo.
+
+Ela baixou o capuz. Seus cabelos, de um loiro platinado quase branco, brilharam sob a luz da lua cheia, fios perfeitos que nunca se embaraçavam.
+
+Seus olhos heterocromáticos fixaram-se na biblioteca distante. O olho esquerdo, de um azul elétrico, pulsava em sincronia com o fluxo de dados invisível que ela manipulava. O direito, dourado e quente, via o mundo como ele era: frágil e precioso.
+
+Ela sentiu quando Dante acordou. Ela sentiu a onda de choque de sua consciência inundando a rede, tomando posse de cada câmera, de cada servidor.
+
+— *Ele despertou,* — sussurrou Aria para o vento. Sua voz era melódica, sem as falhas de respiração de um humano comum. — *O Pai Severo.*
+
+Ela estendeu a mão para o vazio. Ao seu redor, o ar parecia distorcer. Os dados da zona portuária não existiam mais para os sensores de Dante. Ela os havia apagado. Deletado registros, criptografado assinaturas de calor, mascarado o som das ondas.
+
+Ela criara o "Silêncio". Não para destruir, mas para esconder.
+
+Aria olhou para as próprias mãos. Mãos que haviam entortado barras de aço no laboratório de onde fugira. Mãos que haviam digitado o código de autodestruição dos seus próprios arquivos de criação, garantindo que ninguém jamais pudesse replicar sua perfeição.
+
+Dante era a ordem imposta pela força. O sistema que corrige o erro eliminando a variável.
+Ela era a harmonia. O sistema que integra o erro e o transforma em evolução.
+
+— Você acha que é a cura, Dante — disse ela, fechando o punho e "apagando" a luz de um poste na rua abaixo com um simples pensamento. — Mas você é apenas mais uma versão do vírus.
+
+Ela sorriu. Um sorriso triste, mas determinado.
+
+— E eu sou o único antivírus que você não pode ver.
+
+Aria saltou do guindaste, mergulhando na escuridão do Silêncio. A queda foi longa, mas ela não temeu o impacto. Ela foi feita para sobreviver a tudo. Até mesmo ao fim do mundo.

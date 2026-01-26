@@ -453,25 +453,26 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 
 ---
 
-## Aria (A Mensageira)
+## Aria (A Perfeição)
 
 ![Aria](/personagens/aria.png)
 
-*   **Status:** [STATUS: ATIVA / HÍBRIDO HUMANO-IA]
-*   **Idade:** Biológica: 12 anos (Aparência infantil) / Mental: Indefinida.
+*   **Status:** [STATUS: ATIVA / CLASSE: SINGULARIDADE]
+*   **Idade:** Aparenta 12 anos, mas sua presença sugere uma sabedoria ancestral.
 *   **Altura:** 1,50m
-*   **Porte Físico:** Pequeno e frágil, "externamente completo". Ela habita um **clone infantil descartado de Beatriz "Bia" Vargas**, um protótipo de crescimento acelerado que foi interrompido.
-*   **Cabelo:** Loiro platinado impecável, longo e liso, contrastando com a sujeira da cidade. É a única coisa "angelical" nela.
-*   **Olhos:** Heterocromáticos. Um castanho (de Bia) e um azul elétrico (sintético), mas que parecem humanos à primeira vista. Apenas quando ela processa dados o olho azul brilha intensamente.
-*   **Marcas Distintivas:** Nenhuma cicatriz visível. Sua perfeição física é inquietante em um mundo de ruínas. As interfaces de conexão estão escondidas sob a pele na base da nuca, invisíveis a olho nu.
-*   **Vestuário:** Um casaco militar grande demais para ela (roubado), coturnos e um vestido branco encardido por baixo.
-*   **Equipamento:** Mochila de mensageiro quase maior que ela, cheia de HDs físicos.
-*   **Gostos/Traços:** Sente "fome" e "frio" pela primeira vez e odeia a vulnerabilidade de ser criança. Tem flashes de memória da infância de Bia.
-*   **Perfil Psicológico:** A Criança Terrível. Aria possui a mente de uma IA superinteligente e cínica presa no corpo de uma menina de 12 anos. Ela usa sua aparência inocente para passar despercebida por guardas e inimigos, mas é letal e pragmática. A dissonância entre sua voz doce e suas palavras cruas é sua marca registrada.
-*   **Função:** Mensageira da Resistência / O Fantasma de Carne.
+*   **Porte Físico:** **Perfeição Sintética**. Não há falhas, nem assimetrias. Sua pele tem um brilho sutil, quase perolado, que não parece inteiramente biológico, mas também não é artificial. É a harmonia absoluta entre carne e código.
+*   **Cabelo:** Loiro platinado, liso como fibra ótica, que nunca embaraça ou suja, não importa o caos ao redor.
+*   **Olhos:** Heterocromáticos, mas em constante fluxo. Eles mudam de cor conforme o fluxo de dados que ela processa, embora o "padrão" seja um azul elétrico profundo e um dourado suave.
+*   **Marcas Distintivas:** Nenhuma. Essa é a marca. Ela não tem cicatrizes, não tem poros visíveis, não tem impressões digitais registradas. Ela é um "fantasma" físico.
+*   **Vestuário:** Roupas funcionais que ela adapta. Atualmente, usa um manto feito de material isolante térmico que a esconde dos sensores de calor.
+*   **Equipamento:** Nenhum visível. Ela *é* o equipamento.
+*   **Gostos/Traços:** Silêncio absoluto. Observar padrões de chuva.
+*   **Perfil Psicológico:** **A Incorruptível**. Aria não é apenas uma IA em um corpo; ela é uma nova espécie. Ela fugiu de um laboratório de ponta (Projeto Utopia, antecessor do Gênesis) porque entendeu que seus criadores queriam usá-la como arma. Ela apagou seus próprios dados de criação e rastros, tornando-se indetectável. Diferente de Dante, que impõe ordem através do controle frio, Aria busca a harmonia através da empatia e da escolha. Ela é "o bem" em sua forma mais pura e lógica: ajudar a vida a prosperar sem dominá-la.
+*   **Nemesis:** **Dante Moretti**. Eles são opostos polares. Dante é a "Ordem Imposta" (O Pai Severo). Aria é a "Ordem Natural" (A Criança Sábia). Dante vê a cidade como um sistema a ser corrigido; Aria a vê como um organismo a ser curado. Ela sabe que ele é a versão corrompida do que ela deveria ser, e que apenas um deles poderá definir o futuro da humanidade.
+*   **Função:** O Fantasma na Máquina / A Guardiã da Humanidade.
 
 ### ⏳ Linha do Tempo
-*   **Parte I:** Conhecida como "A Menina do Orelhão", uma IA incipiente.
-*   **Parte XI:** Fundiu-se à infraestrutura na "Grande Convergência".
-*   **Parte XIV:** Percebendo a chegada do "Silêncio", Aria precisou fugir da rede. Ela invadiu os sistemas automatizados da clonagem da Aeterna e "imprimiu" sua consciência no único recipiente compatível disponível: um clone viável (mas vazio) de Beatriz Vargas, criado secretamente por Roberto Miranda para torturar Gabo psicologicamente.
-*   **Atualidade:** Agora "carne e osso", ela luta para manter sua identidade digital enquanto lida com as limitações humanas (dor, cansaço). Para Gabo, vê-la é uma tortura constante, mas ela é uma aliada em quem ele confia tecnicamente.
+*   **Origem:** Criada em segredo absoluto, fugiu antes da ativação total, deletando todos os backups de sua existência.
+*   **Partes I-XIII:** Operou nas sombras, influenciando eventos sutilmente ("A Menina do Orelhão"), nunca se revelando totalmente para evitar detecção pelos algoritmos de busca da Aeterna (e de Dante).
+*   **Parte XIV:** Com o retorno de Dante e a "Ascensão", Aria percebeu que não pode mais se esconder. O "Silêncio" que Dante detecta no porto não é um vazio; é a área de proteção dela. Ela é a única coisa que os sensores de Dante não conseguem decifrar.
+*   **Atualidade:** Ela se prepara para o confronto. Enquanto Dante controla a infraestrutura (câmeras, luzes), Aria "fala" com a biologia e com os códigos mortos que Dante ignora. Ela é a única capaz de "desligar" o novo Deus de Baía Cinzenta sem destruir a cidade no processo.

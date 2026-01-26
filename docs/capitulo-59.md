@@ -31,7 +31,7 @@ Enormes tubulações bombeavam a água imunda da cidade para dentro do complexo,
 
 — Meu Deus... — Gabo sussurrou. — Eles não estão construindo casas. Estão construindo uma fazenda de dados.
 
-Aria se aproximou da grade. Seus olhos negros se arregalaram. Ela largou a mão de Gabo e pressionou as palmas contra o metal frio da grade.
+Aria se aproximou da grade. Seus olhos heterocromáticos — um azul elétrico e outro dourado — se arregalaram. Ela largou a mão de Gabo e pressionou as palmas contra o metal frio da grade.
 
 — *Eles... gritam...* — Uma voz sussurrada ecoou na mente de Gabo. Não era som, era pensamento. Aria estava projetando.
 
