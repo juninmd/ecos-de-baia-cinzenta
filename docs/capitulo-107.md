@@ -9,7 +9,9 @@ A dor não era vermelha, como Gabo costumava descrever. Era branca. Um branco ce
 
 — O tecido humano é um design lamentável — disse Dante. Sua voz não tinha inflexão. Era a leitura de um diagnóstico. — As terminações nervosas transmitem sinais de alerta muito tempo depois do dano ter sido registrado. É redundante.
 
-Gabo trincou os dentes, segurando o grito na garganta. Ele estava deitado em uma mesa de metal frio. Dante estava "consertando" seu exoesqueleto, mas, para isso, precisava realinhar os pinos de sustentação que se conectavam diretamente aos seus ossos da tíbia.
+Gabo trincou os dentes, segurando o grito na garganta. Sua mão direita buscou instintivamente o bolso interno, onde seus dedos se fecharam ao redor do "Colar de Sol" de Helena. O metal frio do pingente era sua única âncora na realidade.
+
+Ele estava deitado em uma mesa de metal frio. Dante estava "consertando" seu exoesqueleto, mas, para isso, precisava realinhar os pinos de sustentação que se conectavam diretamente aos seus ossos da tíbia.
 
 Sem anestesia.
 

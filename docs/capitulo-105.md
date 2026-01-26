@@ -13,7 +13,9 @@ Ao lado dele, Elena segurava a escopeta no colo, o cano apontado para a porta. E
 
 Quando pararam em frente à antiga Biblioteca Municipal, agora convertida em Delegacia Central, a alvorada já havia dado lugar a uma manhã cinzenta e úmida.
 
-— Chegamos — disse Gabo, a voz rouca. Ele tentou sair do carro, mas a perna direita falhou. O motor do exoesqueleto travou com um chiado metálico, enviando uma pontada de dor pela espinha. Ele praguejou, batendo no suporte de titânio.
+— Chegamos — disse Gabo, a voz rouca. Ele olhou para o banco do passageiro, onde "Vilha", sua velha escopeta de cano serrado, repousava. Decidiu deixá-la lá. Não precisava de chumbo para entrar na sua própria casa.
+
+Ele tentou sair do carro, mas a perna direita falhou. O motor do exoesqueleto travou com um chiado metálico, enviando uma pontada de dor pela espinha que fez a cicatriz em forma de raiz negra em seu braço — a marca da infecção Gênesis — latejar em simpatia. Ele praguejou, batendo no suporte de titânio.
 
 Antes que Elena pudesse se mover, a porta traseira se abriu. Dante saiu. Ele caminhou até a porta do motorista e, com uma gentileza perturbadora, ofereceu a mão a Gabo.
 
