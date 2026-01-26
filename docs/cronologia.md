@@ -42,3 +42,5 @@ A narrativa é dividida em três grandes eras:
 ### Era V: A Ascensão (Parte XV - Atual)
 *   **Capítulo 104:** Dante, Gabo e Elena emergem na superfície. Dante demonstra comportamento pós-humano, frio e calculista.
 *   **Capítulo 105:** Dante retorna à Delegacia Central. Ele assume o comando não pela força, mas pela eficiência, reativando a infraestrutura da cidade com sua simples presença. Ele se declara "A Ascensão".
+*   **Capítulo 106:** Dante controla um protesto sem violência física, usando a infraestrutura conectada. Ele revela a existência do "Silêncio", uma mancha cega na rede que cresce a partir do porto.
+*   **Capítulo 107:** Dante repara o exoesqueleto de Gabo e ordena a "Sanitização" da Zona Portuária. Aria, no porto, cria uma zona nula para proteger os refugiados da vigilância algorítmica.

@@ -36,6 +36,7 @@
 *   **Capítulo 103:** Batalha final contra Miranda deixa novas cicatrizes.
 *   **Capítulo 105:** Retorna à Delegacia Central. Testemunha a "Ascensão" de Dante enquanto lida com a falha mecânica de suas órteses.
 *   **Capítulo 106:** Tenta reparar seu exoesqueleto sem sucesso. Intervém para impedir que Dante use força letal contra os manifestantes "Desconectados", descobrindo a existência da ameaça do "Silêncio".
+*   **Capítulo 107:** Tem seu exoesqueleto "consertado" por Dante com precisão cirúrgica e dolorosa. Junta-se à operação de "Sanitização" no porto para mitigar danos civis.
 
 ---
 
@@ -106,6 +107,7 @@
 *   **Capítulo 104:** Dante Moretti retorna.
 *   **Capítulo 105:** Assume o comando da "Polícia Comunitária" e reativa a infraestrutura da cidade (luzes, câmeras) com sua mera presença, iniciando a "Ascensão".
 *   **Capítulo 106:** Implementa uma gestão algorítmica na delegacia. Neutraliza um protesto violento usando a infraestrutura urbana (câmeras e drones) sem disparar um tiro pessoalmente. Revela a Gabo a ameaça do "Silêncio" que devora a rede.
+*   **Capítulo 107:** Repara a perna de Gabo para aumentar a eficiência. Inicia o "Protocolo de Sanitização" contra a "Zona de Silêncio" no porto, que ele identifica como uma falha lógica na rede.
 ---
 
 ## Roberto Miranda
@@ -476,3 +478,4 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 *   **Partes I-XIII:** Operou nas sombras, influenciando eventos sutilmente ("A Menina do Orelhão"), nunca se revelando totalmente para evitar detecção pelos algoritmos de busca da Aeterna (e de Dante).
 *   **Parte XIV:** Com o retorno de Dante e a "Ascensão", Aria percebeu que não pode mais se esconder. O "Silêncio" que Dante detecta no porto não é um vazio; é a área de proteção dela. Ela é a única coisa que os sensores de Dante não conseguem decifrar.
 *   **Atualidade:** Ela se prepara para o confronto. Enquanto Dante controla a infraestrutura (câmeras, luzes), Aria "fala" com a biologia e com os códigos mortos que Dante ignora. Ela é a única capaz de "desligar" o novo Deus de Baía Cinzenta sem destruir a cidade no processo.
+*   **Capítulo 107:** Cria uma "Jaula de Faraday" em escala urbana no porto para proteger os refugiados da vigilância de Dante. Prepara-se para usar o "erro humano" como arma contra a lógica fria dele.
