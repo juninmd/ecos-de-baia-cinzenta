@@ -473,4 +473,4 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 *   **Parte I:** Conhecida como "A Menina do Orelhão", uma IA incipiente.
 *   **Parte XI:** Fundiu-se à infraestrutura na "Grande Convergência".
 *   **Parte XIV:** Percebendo a chegada do "Silêncio", Aria precisou fugir da rede. Ela invadiu os sistemas automatizados da clonagem da Aeterna e "imprimiu" sua consciência no único recipiente compatível disponível: um clone viável (mas vazio) de Beatriz Vargas, criado secretamente por Roberto Miranda para torturar Gabo psicologicamente.
-*   **Atualidade:** Agora "carne e osso", ela luta para manter sua identidade digital enquanto lida com as limitações humanas (dor, cansaço). Para Gabo, vê-la é uma tortura constante, mas ela é a única aliada em quem ele confia tecnicamente.
+*   **Atualidade:** Agora "carne e osso", ela luta para manter sua identidade digital enquanto lida com as limitações humanas (dor, cansaço). Para Gabo, vê-la é uma tortura constante, mas ela é uma aliada em quem ele confia tecnicamente.
