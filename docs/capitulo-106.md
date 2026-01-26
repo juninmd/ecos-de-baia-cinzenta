@@ -9,6 +9,8 @@ A eficiência tinha um som. Não era o som de engrenagens ou pistões, mas o som
 
 Dante Moretti transformara o caos da Delegacia da Biblioteca em uma sinfonia burocrática. Ele estava sentado na mesa do Comissário — que ele se recusou a ocupar oficialmente, preferindo uma mesa simples no centro do salão — processando pilhas de relatórios que Inspetor Rangel lhe entregava com mãos trêmulas.
 
+Atrás dele, movendo-se com um silêncio antisséptico, estavam três figuras vestidas de branco imaculado. "Os Enfermeiros". Eram homens e mulheres de expressão vazia, usando máscaras cirúrgicas que cobriam metade do rosto. Eles não falavam. Apenas pegavam os papéis assinados por Dante e os arquivavam ou despachavam com uma eficiência robótica. Eram a nova Guarda Branca da cidade, os executores da "higiene pública" que Dante impunha.
+
 Dante não lia. Ele escaneava. Seus olhos varriam as páginas em frações de segundo.
 
 — Desvio de suprimentos no Setor 4 — disse Dante, sem levantar a cabeça. — O Tenente Barros está retendo 15% da penicilina para troca no mercado negro. Remova-o do comando. Coloque a Sargento Lima.
@@ -93,17 +95,45 @@ Ele se virou para Gabo.
 
 ***
 
-No porão da biblioteca, onde os arquivos mortos mofavam, Dante limpou uma mesa com um gesto. Ele puxou um mapa da cidade.
+No porão da biblioteca, o ar era frio e cheirava a papel velho. Dante guiou Gabo por entre as estantes de arquivos mortos até uma sala isolada nos fundos.
 
-Mas não era um mapa de papel. Ele tocou a superfície da mesa e, através de seus dedos, projetou luz. A mesa de madeira tornou-se uma tela holográfica improvisada.
+Lá dentro, iluminado apenas por uma lâmpada fraca, um homem estava sentado em uma escrivaninha pequena, cercado por montanhas de formulários. Ele escrevia sem parar, sua caneta movendo-se com uma velocidade febril. Ele estava magro, o terno antes impecável agora largo nos ombros, a barba por fazer.
 
-O mapa de Baía Cinzenta brilhava em azul. Mas havia manchas negras. Grandes vazios onde a luz não chegava.
+Gabo parou, o choque travando sua garganta.
 
-— Você acha que eu tomei o controle por vaidade? — perguntou Dante.
+— Marco?
 
-— Eu acho que você é um programa rodando em um cadáver, achando que é Deus — respondeu Gabo, sentindo o suor frio da dor.
+O homem não levantou a cabeça. Continuou preenchendo planilhas de logística de distribuição de água.
 
-— Olhe — Dante apontou para as manchas negras. — Isso não são áreas sem energia. São áreas onde a rede foi... devorada.
+— Ele não vai responder a menos que eu autorize — disse Dante, fechando a porta. — Eu extraí Marco da consciência coletiva do Gênesis. Separei o "Administrador" do "Político". O ego, a ambição, a crueldade... tudo foi deletado. O que restou foi a capacidade de processamento. Ele é útil agora.
+
+Gabo olhou para o irmão. Marco parecia um autômato, uma casca executando funções.
+
+— Isso é pior que a morte — sussurrou Gabo.
+
+— Isso é redenção através do serviço — corrigiu Dante. Ele caminhou até o centro da sala e limpou uma mesa com um gesto. — E eu posso fazer mais, Gabriel.
+
+Dante tocou a superfície da mesa. Luz brotou de seus dedos, formando um holograma tridimensional. Mas não era um mapa.
+
+Era uma mulher. Ela estava na cozinha da casa antiga deles, sorrindo enquanto regava uma samambaia. O sol batia em seu rosto, iluminando as linhas de expressão que Gabo conhecia tão bem.
+
+Helena Moretti.
+
+Gabo deu um passo para trás, batendo nas estantes.
+
+— Desligue isso. Agora.
+
+— Ela está preservada, Gabriel. O backup neural que Marco fez dela... está intacto. Eu posso trazê-la de volta. Não como Marco, não como uma ferramenta. Mas como ela era. — Dante olhou para o holograma com uma expressão indescritível. — Eu posso nos dar a família de volta. O irmão eficiente. A mãe amorosa. O pai protetor. Basta você aceitar a Ordem.
+
+Gabo olhou para a imagem da mãe. Era perfeita. A tentação perfurou seu peito mais fundo que qualquer bala. Ter ela de volta. Ouvir a voz dela.
+
+Ele fechou os olhos, a mão tremendo sobre a arma.
+
+— Minha mãe odiava gaiolas, Dante. Mesmo as douradas. — Gabo abriu os olhos. Eram aço frio. — E ela preferiria estar morta a ver o que você fez com o Marco.
+
+Dante suspirou. O holograma piscou e transformou-se em um mapa da cidade, brilhando em azul com manchas negras.
+
+— Decepcionante. Mas previsível. — Dante apontou para as manchas negras. — Se você não luta pela família, lutará pela sobrevivência. Olhe. Isso não são áreas sem energia. São áreas onde a rede foi... devorada.
 
 Gabo se aproximou. As manchas estavam crescendo. Elas vinham do leste, da zona portuária abandonada.
 
@@ -143,7 +173,7 @@ Ela estendeu a mão para o vazio. Ao seu redor, o ar parecia distorcer. Os dados
 
 Ela criara o "Silêncio". Não para destruir, mas para esconder.
 
-Aria olhou para as próprias mãos. Mãos que haviam entortado barras de aço no laboratório de onde fugira. Mãos que haviam digitado o código de autodestruição dos seus próprios arquivos de criação, garantindo que ninguém jamais pudesse replicar sua perfeição.
+Aria olhou para as próprias mãos. Mãos finas, delicadas como porcelana, que jamais levantariam uma arma. Mas mãos que haviam quebrado as criptografias mais complexas do laboratório de onde fugira. Mãos que haviam digitado o código de autodestruição dos seus próprios arquivos de criação, garantindo que ninguém jamais pudesse replicar sua perfeição.
 
 Dante era a ordem imposta pela força. O sistema que corrige o erro eliminando a variável.
 Ela era a harmonia. O sistema que integra o erro e o transforma em evolução.

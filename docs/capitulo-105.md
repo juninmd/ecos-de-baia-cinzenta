@@ -96,3 +96,37 @@ Gabo olhou para Elena, depois para Vilar. O medo nos olhos do velho Capitão era
 Gabo sentiu o tique nervoso em seus dedos, tamborilando no coldre vazio. Ele olhou para a porta fechada, onde o novo deus de Baía Cinzenta começava seu trabalho.
 
 — Nós não o trouxemos de volta, Jonas — disse Gabo, sentindo o gosto de bile. — Nós o ligamos na tomada.
+
+***
+
+**Enfermaria Improvisada - Subsolo**
+
+Minutos depois, longe do zumbido elétrico do salão principal, Gabo encontrou o único lugar onde o silêncio ainda parecia humano.
+
+A enfermaria improvisada cheirava a éter e mofo. Dra. Nise estava curvada sobre uma maca no canto mais escuro, ajustando um soro amarelado.
+
+— Ela está acordando — disse Nise, sem se virar.
+
+Gabo mancou até a maca. Seu coração falhou uma batida.
+
+Valéria não era mais uma estátua. A carapaça cinzenta que a cobrira durante semanas — o que todos achavam ser o fim, a petrificação da Praga de Ferro — havia rachado. Pedaços da casca estavam no chão como cascas de ovo.
+
+Por baixo, a pele de Val estava pálida, translúcida, mas quente. As veias prateadas em seu pescoço pulsavam com uma luz fraca, rítmica.
+
+— O que aconteceu? — sussurrou Gabo, tocando a mão dela. Os dedos dela se fecharam levemente ao redor dos dele.
+
+— Não era morte — explicou Nise, limpando o suor da testa de Val com um pano úmido. — Era um casulo. O corpo dela entrou em um estado de hibernação extrema para processar a infecção. Ela não estava morrendo, Gabo. Ela estava evoluindo.
+
+Val abriu os olhos. As íris, antes cibernéticas e frias, agora tinham um brilho líquido, como mercúrio vivo.
+
+— Gabo... — a voz dela era um sussurro rouco, mas havia um sorriso fraco em seus lábios rachados. — Você... parece uma merda.
+
+Gabo sorriu, sentindo uma lágrima quente escorrer pela barba suja.
+
+— Você também, garota. Você também.
+
+— O sistema... — ela tentou se levantar, mas Nise a segurou. — Eu senti... uma onda de choque. O firewall caiu?
+
+— O firewall mudou de dono — disse Gabo, apertando a mão dela. — Descanse, Val. Vamos precisar desse seu cérebro gigante em breve.
+
+Val fechou os olhos, a respiração estabilizando. Ela não estava petrificada. Ela estava viva. E pela primeira vez em meses, Gabo sentiu que talvez, apenas talvez, eles tivessem uma chance.
