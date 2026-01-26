@@ -3,13 +3,9 @@ image: /capitulo_1.jpg
 ---
 # Capítulo 1: Olhos de Vidro
 
-— *... e o índice de segurança urbana atingiu níveis históricos de aprovação, graças à nova parceria entre a Prefeitura e a Aetherna Sec. Durmam tranquilos, cidadãos. O amanhã é brilhante.*
+A chuva em Baía Cinzenta não lavava nada; ela apenas empurrava a sujeira de um lado para o outro.
 
-A voz de Veronica Lux, a âncora perfeita da Nexus News, ecoava dos alto-falantes de um outdoor holográfico de trinta metros acima deles. Seu sorriso era imune à chuva ácida, seus dentes brancos brilhando como pérolas falsas contra o céu cinza-chumbo.
-
-Lá embaixo, na lama real, a chuva em Baía Cinzenta não lavava nada; ela apenas empurrava a sujeira de um lado para o outro.
-
-Gabriel "Gabo" Moretti cuspiu no chão, misturando saliva com a fuligem oleosa, enquanto ouvia a mentira sendo transmitida em alta definição. Ele sentiu a água fria escorrer pelo pescoço, infiltrando-se sob a gola do sobretudo que já cheirava a mofo e café frio. Ele estava parado na entrada da Vila da Ferrugem, onde o asfalto da cidade alta cedia lugar a passarelas de metal corroído. O brilho dos neons publicitários — *COMPRE FELICIDADE, COMPRE AETERNA* — refletia nas poças como óleo derramado.
+Gabriel "Gabo" Moretti sentiu a água fria escorrer pelo pescoço, infiltrando-se sob a gola do sobretudo que já cheirava a mofo e café frio. Ele estava parado na entrada da Vila da Ferrugem, onde o asfalto da cidade alta cedia lugar a passarelas de metal corroído e lama tóxica. O brilho dos neons publicitários — *COMPRE FELICIDADE, COMPRE AETERNA* — refletia nas poças como óleo derramado, distorcendo as cores em um arco-íris doentio.
 
 — Você demorou, inspetor — disse o oficial de patrulha, um garoto novo que tremia, não de frio, mas do que tinha visto. Ele deu um passo para o lado, e a bota dele chapinhou em uma poça escura perto do corpo.
 
@@ -29,11 +25,11 @@ Antes que Gabo pudesse avançar, seu comunicador de pulso vibrou. Uma luz vermel
 
 — Moretti — ele atendeu, a voz ríspida.
 
-— *Inspetor* — a voz do Diretor Dantas era seca como papel lixa. — *O sistema de monitoramento de recursos indica que você solicitou uma equipe forense completa para a Vila da Ferrugem. O orçamento do departamento está sangrando, Moretti. O Prefeito Vale acabou de cortar mais 10% da nossa verba para redirecionar para os drones da Aetherna.*
+— *Inspetor* — a voz do Diretor Dantas era seca como papel lixa. — *O sistema de monitoramento de recursos indica que você solicitou uma equipe forense completa para a Vila da Ferrugem. O orçamento do departamento está sangrando, Moretti. Se isso for mais um drogado que teve uma overdose, vou descontar o custo do reagente químico do seu fundo de pensão.*
 
 — É um homicídio, Diretor. Tenho um corpo.
 
-— *Eu não dou a mínima se você tem um corpo ou um coral de anjos. O que eu tenho é o gabinete do Prefeito respirando no meu pescoço. O CEO Viktor Krell vai inaugurar uma nova torre amanhã, e eles querem a zona "sanitizada". Se isso virar manchete no jornal da manhã e derrubar as ações da Aetherna, quem vai rodar sou eu, e eu levo você junto. Você tem 24 horas antes que a Segurança Privada assuma e varra tudo para debaixo do tapete.*
+— *Certifique-se de que tenha um culpado também, e rápido. A Prefeitura quer as ruas limpas para o festival da semana que vem, não manchetes sobre assassinatos na favela. Você tem 24 horas antes que eu repasse o caso para a Divisão de IA.*
 
 A linha ficou muda. Gabo praguejou baixinho.
 
@@ -76,8 +72,6 @@ Não havia olhos. As órbitas estavam preenchidas, perfeitamente encaixadas, por
 Ele aproximou a mão enluvada do rosto da vítima. As lentes focaram. Um leve zumbido mecânico, quase imperceptível sob o som da chuva, emanou de dentro do crânio do rapaz.
 
 — Elas ainda estão ativas — disse Gabriel, sentindo um arrepio.
-
-Era isso que ele odiava. A tecnologia não tinha moral. Aquelas câmeras não se importavam em estar aninhadas no crânio de um garoto morto; elas apenas cumpriam sua programação de transmitir. Mas alguém havia programado aquilo. Alguém havia segurado o bisturi. A máquina era fria, mas a intenção por trás dela era humana e fervia de maldade.
 
 Ele não usou um scanner. Em vez disso, puxou uma lupa de relojoeiro do bolso e aproximou o rosto da órbita mutilada, ignorando o cheiro de decomposição que começava a subir. Ele iluminou a junção da pele com uma lanterna de penlight, observando a inflamação, os micro-cortes.
 

@@ -17,7 +17,7 @@ Gabo revirou os olhos antes de apertar o botão do comunicador. — O que você 
 
 — Não era um Zé Ninguém, Rangel. E o caso é meu.
 
-— *Para a Aeterna, se não paga impostos, é biomassa. O orçamento do trimestre estourou, Gabriel. E tem mais: o Prefeito Vale está pressionando para privatizar a Divisão de Homicídios. Dizem que a Aetherna Sec pode resolver crimes com "algoritmos preditivos" por metade do preço. Se aquele corpo não for de um filho de acionista, vai sair do seu salário. A Corregedoria já está revirando seus arquivos antigos, Moretti. Eles querem uma desculpa para te demitir e entregar seu distintivo para um drone.*
+— *Para a Aeterna, se não paga impostos, é lixo. O orçamento do trimestre estourou, Gabriel. Se aquele corpo não for de um filho de acionista, vai sair do seu salário. A Corregedoria já está revirando seus arquivos antigos, Moretti. O caso do Porto? Eles reabriram. Estão procurando qualquer desculpa, um deslize, uma evidência contaminada, para tirar seu distintivo e sua pensão.*
 
 Rangel fez uma pausa dramática.
 
@@ -25,39 +25,27 @@ Rangel fez uma pausa dramática.
 
 — Bastardo — murmurou Gabo, sentindo o estômago apertar. Não era apenas rivalidade; era uma caçada institucional.
 
-— *Atenção, todas as unidades. Bloqueio de Segurança Privada no Setor 7 para passagem de comboio executivo. Trânsito desviado para a Via Costeira.*
+— *Atenção, todas as unidades. Deslizamento no Setor 7. Trânsito desviado para a Via Costeira.*
 
-— Droga — praguejou Gabriel, socando o volante. — Eles fecham uma avenida inteira para o Krell passar e nós que nos explodamos na lama.
+— Droga — praguejou Gabriel, socando o volante, ignorando a raiva residual da conversa com seu rival.
 
-A Via Costeira era um suicídio logístico. Estreita, mal iluminada e frequentada por gangues que roubavam peças de carros em movimento. Mas ele não tinha escolha; a Aetherna Sec atiraria em qualquer um que furasse o bloqueio da avenida principal.
+A Via Costeira era um suicídio logístico. Estreita, mal iluminada e frequentada por gangues que roubavam peças de carros em movimento. Mas ele não tinha escolha.
 
-Logo na entrada da via, os faróis do Cobalt iluminaram uma cena que resumia a cidade: sob um cartaz rasgado do Prefeito Vale prometendo "Ordem e Progresso", três figuras encapuzadas arrancavam os painéis solares de um ônibus de transporte público enguiçado. O motorista estava encolhido dentro da cabine, aterrorizado.
+Logo na entrada da via, os faróis do Cobalt iluminaram uma cena comum: três figuras encapuzadas arrancando os painéis solares de um ônibus de transporte público enguiçado. O motorista estava encolhido dentro da cabine, aterrorizado.
 
 Gabo não hesitou. O instinto falou mais alto que o cansaço. Ele freou bruscamente, a porta do carro já se abrindo antes da parada total.
 
-— Polícia! Mãos na cabeça! — ele gritou, sacando a Glock.
+— Polícia! Mãos na cabeça! — ele gritou, sacando a Glock. Sua voz não tinha a hesitação do oficial novato. Era a voz de quem já tinha atirado e acertado.
 
-Dois dos vândalos correram para o esgoto. O terceiro, mais lento e vestindo um macacão da "Portuária Unificada" sujo de graxa, tentou puxar uma barra de ferro. Gabo avançou, ignorando a lama. Um chute preciso no joelho fez o homem dobrar.
+Dois dos vândalos correram para o esgoto. O terceiro, mais lento, tentou puxar uma faca. Gabo avançou, ignorando a lama. Um chute preciso no joelho fez o homem dobrar. Um golpe com a coronha da pistola na nuca o fez beijar o asfalto.
 
-— Não me bata! — gritou o homem, erguendo as mãos calejadas. — Eu só preciso vender as células de energia! Meus filhos não comem há dois dias!
+— Você tem o direito de ficar calado — Gabo rosnou, apertando as algemas de plástico até o homem chiar de dor. Ele o prendeu à grade de proteção da encosta. — Não que alguém vá ouvir.
 
-Gabo parou, a Glock apontada para o peito do homem. Ele viu o crachá pendurado no pescoço do sujeito: *OPERADOR DE EMPILHADEIRA - DEMITIDO*. Motivo: *Substituição por Automação Série-K*.
+Gabo agarrou o rosto do homem, forçando-o a olhar para ele.
 
-— Você era do porto — disse Gabo, baixando a arma ligeiramente.
+— Antes de eu chamar a viatura... ouvi boatos na rua. Pessoas desaparecendo. Olhos sendo roubados. Sabe de alguma coisa?
 
-— Nós éramos trezentos — o homem cuspiu, misturando raiva e choro. — Krell botou aqueles robôs malditos lá. Eles não cansam, não pedem salário, não têm filhos. O que sobrou pra gente? Roubar sucata de ônibus que nem roda mais?
-
-Gabo sentiu o gosto amargo na boca. O "progresso" da Aetherna não criava empregos; criava criminosos desesperados.
-
-— Você tem o direito de ficar calado — Gabo rosnou, mas não apertou as algemas com força total. Ele o prendeu à grade de proteção. — Vou chamar o transporte. Se tiver sorte, vai pegar uma cela quente e comida. É melhor do que o que tem lá fora.
-
-O homem o encarou, derrotado. — O futuro chegou, seu guarda. E ele não tem lugar pra gente.
-
-Gabo agarrou o ombro do homem antes de se afastar.
-
-— Antes de eu chamar a viatura... ouvi boatos. Pessoas desaparecendo. Olhos sendo roubados. Sabe de alguma coisa?
-
-— Eu roubo cobre, não olhos. Mas... os drones de limpeza da Aetherna. Eles varrem a Vila da Ferrugem à noite. Dizem que o que eles pegam, não vai pro lixo. Vai pro "Laboratório".
+O bandido cuspiu sangue e riu. — Eu roubo cobre, seu porco. Não olhos. Mas o "Cirurgião"... dizem que ele paga bem por peças frescas. Pergunte no *Velvet*, se tiver coragem.
 
 Gabo soltou o homem com nojo. Era uma pista. Tênue, suja, mas uma pista.
 
@@ -81,25 +69,9 @@ Seu estômago rugiu, um som áspero que o lembrou de que não comia "comida de v
 
 Seus dedos tocaram algo frio e cilíndrico. Ele puxou.
 
-Uma ampola de vidro azulado. Lázaro. Confiscada de um garoto na semana passada e "esquecida" ali. Gabo levantou o frasco contra a luz difusa da cidade. O líquido dentro girava, hipnótico.
+Uma ampola de vidro azulado. Lázaro. Confiscada de um garoto na semana passada e "esquecida" ali. Gabo levantou o frasco contra a luz difusa da cidade. O líquido dentro girava, hipnótico. Dizia-se que uma dose levava você para onde você mais queria estar. Para ele, isso significava um churrasco de domingo, quinze anos atrás. Seu pai rindo, a mãe viva.
 
-De repente, a chuva no para-brisa desapareceu. Ele estava de volta à sala estéril, cheiro de lavanda e ar condicionado.
-
-*"Você está olhando para a saída de emergência de novo, Gabriel?"*
-
-A voz da Dra. Cecília Weiss era calma, mas penetrante. Ela estava sentada à frente dele, anotando em um caderno de papel, a caneta de prata dançando.
-
-*"Eu não preciso disso, Cecília,"* o Gabo da memória respondeu, irritado. *"Eu preciso de dormir."*
-
-*"O Lázaro te dá sono, mas não te dá descanso,"* ela retrucou, ajustando os óculos. *"Você odeia a tecnologia, diz que ela tirou a alma da cidade. Mas está disposto a injetar uma nanotecnologia líquida no seu cérebro para fugir da realidade. Por que, Gabo?"*
-
-*"Porque a máquina não julga. A máquina apenas executa."*
-
-*"Errado,"* Cecília se inclinou, seus olhos escuros fixos nos dele. *"Essa é a mentira que eles vendem. A tecnologia não é neutra, Gabriel. Atrás de cada linha de código, existe um desejo humano. Ganância, controle, medo. Você não confia no silício porque sabe que, no fundo, ele é apenas uma máscara para a maldade dos homens. O Lázaro não é uma fuga; é uma rendição a eles."*
-
-A visão se desfez. O trovão trouxe Gabo de volta para o carro frio e úmido.
-
-Ele tremeu, olhando para a ampola. "Uma rendição". Cecília estava certa, como sempre. Se ele usasse aquilo, estaria deixando Krell e seus algoritmos vencerem.
+Ele tremeu. Seria tão fácil. Apenas um clique, uma injeção no globo ocular, e a chuva e a dor desapareceriam. Ele voltaria para casa.
 
 Gabo grunhiu, guardando a ampola no porta-luvas com violência, antes que a vontade vencesse a razão. "Não hoje, diabo. Não hoje."
 

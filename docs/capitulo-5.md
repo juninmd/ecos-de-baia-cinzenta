@@ -39,13 +39,15 @@ Miranda jogou um pequeno chip de memória para Gabriel. Ele o pegou no ar. Era u
 
 — O que é isso?
 
-— O seguro de vida do seu pai. Ele coletou evidências por anos. Sobre o Projeto Lázaro, sobre a Aeterna, sobre o Sindicato... sobre como tudo é a mesma maldita coisa. Ele me deu isso no dia em que morreu. Disse para te entregar quando você estivesse "pronto".
+— O seguro de vida do seu pai. Ele coletou evidências por anos. Sobre o Projeto Lázaro. Não é só uma droga, Gabo. É mineração. Eles usam os viciados para processar dados para a IA da Aeterna. É uma rede neural feita de gente.
 
 — E você guardou isso por vinte anos? Por quê?
 
-— Porque eu sou um covarde, Gabo! — gritou Miranda, e pela primeira vez, Gabriel viu lágrimas nos olhos do traidor. — Porque eu sabia que se eu te entregasse, você iria atrás deles. E a Aeterna... ela não só te mata. Ela te muda. Ela pega suas melhores partes e as vende, e deixa só o lixo. Olhe para mim. Olhe para a "Maya". Ninguém sai limpo.
+— Porque eu sou um covarde, Gabo! — gritou Miranda, e pela primeira vez, Gabriel viu lágrimas nos olhos do traidor. — Porque eu vi o que eles fizeram com o Dante. Eles não mataram ele no tiroteio, Gabo. Eles o levaram. Eles queriam o cérebro dele. A mente tática dele. Krell o transformou em... em código.
 
-Eu devia isso ao Dante. Manter o filho dele vivo. Mas agora... agora não importa mais.
+Miranda tremia violentamente.
+
+— Se eu te entregasse isso antes, você iria atrás deles. E você acabaria como ele. Um fantasma preso numa caixa de vidro, ensinando robôs a matar. Eu devia isso ao Dante. Manter o filho dele vivo, e inteiro.
 
 Um som agudo cortou o ar. O zumbido de propulsores.
 
@@ -65,7 +67,17 @@ Gabriel agarrou o braço do ex-parceiro e o puxou.
 
 — Você é minha testemunha, seu desgraçado. Você não morre até eu dizer que pode.
 
-Eles correram. O primeiro drone abriu fogo, as balas ricocheteando nas paredes de azulejo e fazendo chover cacos de cerâmica. Gabriel disparou para trás, derrubando a máquina com um tiro de sorte no rotor central.
+Eles correram. O primeiro drone abriu fogo, as balas ricocheteando nas paredes de azulejo e fazendo chover cacos de cerâmica.
+
+Gabriel se virou e disparou. O drone desviou com uma esquiva lateral perfeita, fluida demais para uma máquina.
+
+— Viu isso? — gritou Gabo, recuando. — Ele se moveu antes de eu apertar o gatilho!
+
+— É o Dante! — Miranda soluçou, disparando a esmo. — É o reflexo dele na máquina!
+
+Gabo sentiu um enjoo súbito. Aquele movimento... ele já tinha visto o pai fazer aquilo em treinamentos. "Esquiva Pêndulo".
+
+— Malditos — rosnou Gabo. Ele mirou não no drone, mas numa tubulação de vapor acima dele. O jato de pressão explodiu, desestabilizando a máquina tempo suficiente para eles fugirem.
 
 Eles se jogaram através de uma porta de metal enferrujada, Gabriel chutando-a para fechar e travando com um pedaço de cano. Do outro lado, o som de balas batendo contra o metal era ensurdecedor.
 
