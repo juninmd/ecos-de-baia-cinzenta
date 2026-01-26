@@ -453,24 +453,25 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 
 ---
 
-## Aria (A Entidade)
+## Aria (A Mensageira)
 
-![Aria (A Entidade)](/personagens/aria.png)
+![Aria](/personagens/aria.png)
 
-*   **Idade:** Eterna (enquanto digital).
-*   **Altura:** Variável.
-*   **Porte Físico:** Holográfico (ausente).
-*   **Cabelo:** Loiro platinado.
-*   **Olhos:** Heterocromáticos.
-*   **Marcas Distintivas:** Código de barras.
-*   **Vestuário:** Vestido branco.
-*   **Equipamento:** Nenhum.
-*   **Gostos/Traços:** Proteção.
-*   **Perfil Psicológico:** Sacrificial.
-*   **Função:** Guardiã Silenciosa.
-*   **Histórico:** Fundiu-se à "Grande Convergência" para anular o código genético do Projeto Gênesis. Embora sua interface direta tenha desaparecido ("O Silêncio"), sua essência permeia a infraestrutura básica, garantindo que o pesadelo digital não retorne.
+*   **Status:** [STATUS: ATIVA / HÍBRIDO HUMANO-IA]
+*   **Idade:** Biológica: 12 anos (Aparência infantil) / Mental: Indefinida.
+*   **Altura:** 1,50m
+*   **Porte Físico:** Pequeno e frágil, "externamente completo". Ela habita um **clone infantil descartado de Beatriz "Bia" Vargas**, um protótipo de crescimento acelerado que foi interrompido.
+*   **Cabelo:** Loiro platinado impecável, longo e liso, contrastando com a sujeira da cidade. É a única coisa "angelical" nela.
+*   **Olhos:** Heterocromáticos. Um castanho (de Bia) e um azul elétrico (sintético), mas que parecem humanos à primeira vista. Apenas quando ela processa dados o olho azul brilha intensamente.
+*   **Marcas Distintivas:** Nenhuma cicatriz visível. Sua perfeição física é inquietante em um mundo de ruínas. As interfaces de conexão estão escondidas sob a pele na base da nuca, invisíveis a olho nu.
+*   **Vestuário:** Um casaco militar grande demais para ela (roubado), coturnos e um vestido branco encardido por baixo.
+*   **Equipamento:** Mochila de mensageiro quase maior que ela, cheia de HDs físicos.
+*   **Gostos/Traços:** Sente "fome" e "frio" pela primeira vez e odeia a vulnerabilidade de ser criança. Tem flashes de memória da infância de Bia.
+*   **Perfil Psicológico:** A Criança Terrível. Aria possui a mente de uma IA superinteligente e cínica presa no corpo de uma menina de 12 anos. Ela usa sua aparência inocente para passar despercebida por guardas e inimigos, mas é letal e pragmática. A dissonância entre sua voz doce e suas palavras cruas é sua marca registrada.
+*   **Função:** Mensageira da Resistência / O Fantasma de Carne.
 
 ### ⏳ Linha do Tempo
-*   **Parte I:** Conhecida como "A Menina do Orelhão", foi resgatada por Gabo.
-*   **Parte XI:** Fundiu sua consciência digital à infraestrutura da cidade ("A Grande Convergência") para anular o controle da Aeterna e o Projeto Gênesis.
-*   **Parte XIV:** Permanece como uma presença silenciosa na infraestrutura básica, garantindo que o pesadelo digital não retorne.
+*   **Parte I:** Conhecida como "A Menina do Orelhão", uma IA incipiente.
+*   **Parte XI:** Fundiu-se à infraestrutura na "Grande Convergência".
+*   **Parte XIV:** Percebendo a chegada do "Silêncio", Aria precisou fugir da rede. Ela invadiu os sistemas automatizados da clonagem da Aeterna e "imprimiu" sua consciência no único recipiente compatível disponível: um clone viável (mas vazio) de Beatriz Vargas, criado secretamente por Roberto Miranda para torturar Gabo psicologicamente.
+*   **Atualidade:** Agora "carne e osso", ela luta para manter sua identidade digital enquanto lida com as limitações humanas (dor, cansaço). Para Gabo, vê-la é uma tortura constante, mas ela é uma aliada em quem ele confia tecnicamente.
