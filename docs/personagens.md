@@ -387,6 +387,7 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 ### ⏳ Linha do Tempo
 *   **Partes I-VII:** Um dos poucos policiais honestos na força corrupta.
 *   **Parte XIV:** Sobreviveu a todas as purgas e agora lidera a "Polícia Comunitária", tentando manter a ordem na era sem tecnologia.
+*   **Capítulo 105:** Testemunha o retorno impossível de Dante. O choque de ver seu antigo colega morto agora como uma entidade quase divina o deixa visivelmente abalado.
 
 ---
 
