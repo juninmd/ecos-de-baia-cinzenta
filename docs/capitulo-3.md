@@ -15,7 +15,7 @@ Gabo ignorou o comentário sobre a plateia, embora seu pescoço tenha ficado ten
 
 — O trânsito no Distrito da Névoa estava um inferno, Jonas. O que temos?
 
-— Arte. Pura e doente arte. Mas cuidado. Se você espirrar errado, eles vão usar isso para tirar seu distintivo. O promotor já ligou três vezes. Ele quer "eficiência cirúrgica", o que significa que se não resolvermos isso em 48 horas, ele vai arquivar como "acidente industrial" para não assustar os investidores da Aeterna.
+— Arte. Pura e doente arte. Mas cuidado. Se você espirrar errado, eles vão usar isso para tirar seu distintivo. O gabinete do Prefeito já ligou três vezes. A advogada da Aetherna LifeGen está ameaçando processar a cidade por "difamação corporativa" se a gente chamar isso de crime serial. Eles querem arquivar como "acidente industrial" antes que afete o lançamento do IPO da nova subsidiária.
 
 Eles entraram, vestindo os trajes de proteção completos que chiavam com o movimento. Gabo odiava aquilo; isolava os sentidos, abafava o som, o cheiro. Investigação era contato, era sentir o ar. Mas com a Corregedoria fungando no cangote, ele vestiu o maldito macacão.
 
@@ -105,13 +105,19 @@ Gabriel olhou para as lentes nos olhos do cadáver uma última vez. Ele se aprox
 
 Maya estava com as mãos sujas de graxa, segurando um módulo transmissor queimado que ela arrancara da parede.
 
-— Número de série raspado, mas deixaram a etiqueta de inventário interna. — Ela usou uma lupa. — Lote 49-B. Distribuído para a manutenção dos antigos armazéns do porto.
+— Número de série raspado, mas deixaram a etiqueta de inventário interna. — Ela usou uma lupa. — Lote 49-B. Etiqueta de Patrimônio da **LifeGen Solutions**.
 
-Gabriel semicerrou os olhos. — Armazéns do porto. Área abandonada, sem câmeras oficiais. O lugar perfeito para um estúdio de arte macabra.
+Gabriel semicerrou os olhos. — LifeGen. A divisão de pesquisa biológica da Aetherna. O que eles estariam fazendo com equipamentos em um matadouro clandestino?
 
-— Aeterna Corp é a dona do terreno — completou Vilar, lendo o relatório no tablet. — Compraram mês passado através de uma subsidiária fantasma.
+— O endereço de entrega é para os antigos armazéns do porto — completou Vilar, lendo o relatório no tablet. — Compraram mês passado para "Armazenamento de Resíduos Orgânicos Não-Tóxicos".
 
-— Aeterna — Gabriel soltou uma risada seca. — Claro. Por que seria fácil? Mas agora temos um endereço físico, tijolo e argamassa.
+— Resíduos orgânicos — Gabriel soltou uma risada seca, olhando para o corpo mutilado. — É assim que eles chamam a gente agora. Mas agora temos um endereço físico, tijolo e argamassa.
+
+Enquanto ele falava, um drone de publicidade passou zumbindo do lado de fora do galpão, projetando um holograma azulado através da janela quebrada. Era a imagem de Viktor Krell, impecável em seu terno, falando com uma voz suave e paternal.
+
+*"Cidadãos de Baía Cinzenta. A violência que assola nossas ruas é um sintoma de um sistema obsoleto. A polícia humana, apesar de seus esforços, não pode estar em todos os lugares. Mas a Aetherna pode. Amanhã, lançaremos o 'Pacote Guardião': monitoramento preventivo por IA para sua residência. Porque a verdadeira segurança não é reagir ao crime. É eliminá-lo antes que aconteça. Assine hoje."*
+
+Gabriel olhou para a projeção, depois para o corpo do rapaz morto. A ironia era tão densa que ele podia sentir o gosto de sangue na boca. Eles criam o monstro, soltam na rua, e depois vendem a coleira.
 
 Ele se virou para sair, tirando as luvas com violência.
 
@@ -121,6 +127,6 @@ Ele se virou para sair, tirando as luvas com violência.
 
 — Moretti! Você não tem mandado! Isso é suicídio político!
 
-Gabriel parou na porta do galpão, a silhueta recortada contra a chuva torrencial.
+Gabriel parou na porta do galpão, a silhueta recortada contra a chuva torrencial e a luz do holograma de Krell.
 
-— A política morreu com o meu pai, Jonas. Agora só sobrou a limpeza.
+— A política morreu com o meu pai, Jonas. Agora só sobrou a limpeza. E se Krell acha que pode vender a solução para o caos que ele financia, ele vai descobrir que nem tudo está à venda.

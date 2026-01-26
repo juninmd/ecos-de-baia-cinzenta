@@ -385,6 +385,7 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 *   **Gostos/Traços:** Charutos baratos (que ele mastiga mais do que fuma), uísque escondido na gaveta, lealdade à velha guarda.
 *   **Perfil Psicológico:** O Último Pilar. Vilar é a personificação da "velha lei". Ele sabe que o mundo mudou e que os novos crimes são complexos demais para um revólver, mas ele se recusa a ceder ao caos. Ele protege Gabo porque vê nele o filho que a cidade nunca o deixou ter.
 *   **Função:** Chefe de Polícia / A Rocha da Delegacia.
+*   **Inimigos Políticos:** Vilar vive em guerra fria com o **Prefeito Augusto Vale**. Ele se recusa a liberar a Aetherna Sec para operar livremente nas zonas pobres, o que faz com que seu orçamento seja estrangulado mensalmente.
 
 ### ⏳ Linha do Tempo
 *   **Partes I-VII:** Um dos poucos policiais honestos na força corrupta.
@@ -479,3 +480,68 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 *   **Parte XIV:** Com o retorno de Dante e a "Ascensão", Aria percebeu que não pode mais se esconder. O "Silêncio" que Dante detecta no porto não é um vazio; é a área de proteção dela. Ela é a única coisa que os sensores de Dante não conseguem decifrar.
 *   **Atualidade:** Ela se prepara para o confronto. Enquanto Dante controla a infraestrutura (câmeras, luzes), Aria "fala" com a biologia e com os códigos mortos que Dante ignora. Ela é a única capaz de "desligar" o novo Deus de Baía Cinzenta sem destruir a cidade no processo.
 *   **Capítulo 107:** Cria uma "Jaula de Faraday" em escala urbana no porto para proteger os refugiados da vigilância de Dante. Prepara-se para usar o "erro humano" como arma contra a lógica fria dele.
+
+---
+
+## Viktor Krell
+
+![Viktor Krell](/personagens/krell.jpg)
+
+*   **Idade:** 50 anos (Aparenta 35 graças a terapias genéticas).
+*   **Altura:** 1,88m
+*   **Porte Físico:** Atlético, de uma perfeição quase artificial.
+*   **Cabelo:** Loiro platinado, corte militar moderno.
+*   **Olhos:** Azul Aetherna (Cibernéticos de alto desempenho).
+*   **Marcas Distintivas:** Sorriso de tubarão. Nunca é visto sem um broche de lapela da Aetherna feito de diamante sintético.
+*   **Vestuário:** Ternos de tecidos inteligentes que repelem sujeira e regulam temperatura.
+*   **Equipamento:** Link neural direto com a "Rede da Cidade".
+*   **Gostos/Traços:** Arquitetura brutalista, vinho de safras extintas, controle absoluto.
+*   **Perfil Psicológico:** O Sociopata Corporativo. Krell não odeia os pobres; ele apenas os considera ineficientes. Para ele, a cidade é um hardware que precisa de upgrade, e a população atual é um software legado cheio de bugs. Ele é calmo, polido e letal.
+*   **Função:** CEO da Aetherna Corp / O Verdadeiro Dono da Cidade.
+
+### ⏳ Linha do Tempo
+*   **Pré-Série:** Assumiu a Aetherna após o desaparecimento de Elara Vance, prometendo uma "Era de Ouro".
+*   **Atuação:** Manipula o Prefeito Vale e a mídia para garantir que os interesses da Aetherna sejam lei. É o arquiteto do "Projeto Ascensão".
+
+---
+
+## Prefeito Augusto Vale
+
+![Prefeito Augusto Vale](/personagens/vale.jpg)
+
+*   **Idade:** 58 anos
+*   **Altura:** 1,70m
+*   **Porte Físico:** Obeso, com sinais de estresse cardíaco.
+*   **Cabelo:** Grisalho, ralo, sempre suado.
+*   **Olhos:** Castanhos, esquivos.
+*   **Marcas Distintivas:** Lenço de seda sempre na mão para enxugar a testa.
+*   **Vestuário:** Ternos caros que não caem bem.
+*   **Equipamento:** Botão de pânico direto para a Aetherna Sec.
+*   **Gostos/Traços:** Banquetes, poder sem responsabilidade.
+*   **Perfil Psicológico:** O Covarde no Trono. Vale foi um líder sindical que vendeu seus ideais por conforto. Agora, ele vive aterrorizado. Ele sabe que é descartável para Krell e odiado pelo povo. Sua crueldade vem do medo; ele ataca Vilar e a Polícia porque precisa mostrar serviço aos seus donos.
+*   **Função:** Prefeito de Baía Cinzenta / Fantoche.
+
+### ⏳ Linha do Tempo
+*   **Eleição:** Ganhou com financiamento recorde da Aetherna.
+*   **Atuação:** Assina decretos de desapropriação e cortes de verba policial. Evita aparecer em público sem escolta pesada.
+
+---
+
+## Veronica Lux
+
+![Veronica Lux](/personagens/lux.jpg)
+
+*   **Idade:** Indeterminada (Aparenta 25).
+*   **Altura:** 1,75m
+*   **Porte Físico:** Modelo.
+*   **Cabelo:** Loiro ouro, sempre perfeito.
+*   **Olhos:** Violeta (Lentes cosméticas de marca).
+*   **Marcas Distintivas:** A voz. Uma voz modulada para inspirar confiança e submissão.
+*   **Vestuário:** Roupas de âncora futurista, cores vibrantes que contrastam com o cinza da cidade.
+*   **Equipamento:** Estúdio de transmissão neural.
+*   **Gostos/Traços:** Ser adorada.
+*   **Perfil Psicológico:** A Narcisista Digital. Veronica acredita nas próprias mentiras? Ninguém sabe. Ela trata tragédias como entretenimento e vítimas como estatísticas de audiência. Ela é o rosto bonito que diz que "está tudo bem" enquanto o mundo queima.
+*   **Função:** Âncora Chefe da Nexus News / A Voz da Mentira.
+
+### ⏳ Linha do Tempo
+*   **Diária:** Apresenta o "Bom Dia Baía Cinzenta", o programa mais assistido, onde distorce a realidade para favorecer a Aetherna.
