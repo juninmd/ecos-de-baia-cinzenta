@@ -129,15 +129,15 @@ Vilar observou os robôs com um olhar estranho, quase assustado.
 
 — É tática de supressão básica — Gabo deu de ombros.
 
-— Não é básica. É a "Manobra 7". — Vilar olhou para Gabo, pálido. — Seu pai inventou essa formação em 98. Ele só ensinou para a Elite. Ninguém mais usa isso porque exige uma sincronia perfeita.
+— Não é básica. É instinto. — Vilar olhou para Gabo, com uma ruga de preocupação na testa. — Eu vi homens treinados levarem anos para se moverem com essa fluidez. Aquelas coisas... elas se movem como se tivessem memória muscular.
 
-Gabo olhou para os drones frios e sem rosto. Eles se moviam com uma fluidez humana, quase familiar. Um arrepio subiu por sua espinha.
+Gabo olhou para os drones frios e sem rosto. Eles se moviam com uma precisão perturbadora, quase humana. Um arrepio subiu por sua espinha, uma sensação de déjà vu que ele não conseguiu explicar.
 
-— Eles devem ter roubado os manuais antigos da Academia — disse Gabo, tentando afastar o pensamento perturbador.
+— É só código, Jonas — disse Gabo, tentando convencer a si mesmo, afastando o pensamento incômodo. — Código caro e letal.
 
-— Ou alguém ensinou a eles — murmurou Vilar. — Alguém que sabia exatamente como Dante pensava.
+— Talvez — murmurou Vilar, ainda observando as máquinas. — Mas parece... pessoal.
 
-Gabriel olhou para a projeção de Krell, depois para o corpo do rapaz morto, e finalmente para os drones que imitavam os movimentos de seu pai morto. A ironia era tão densa que ele podia sentir o gosto de sangue na boca. Eles não apenas vendiam a coleira; eles usavam a alma do antigo protetor da cidade para forjá-la.
+Gabriel olhou para a projeção de Krell, depois para o corpo do rapaz morto, e finalmente para os drones. A ironia era densa. Eles criam o monstro, soltam na rua, e depois vendem a coleira. Mas havia algo mais ali, uma sombra nas engrenagens que Gabo ainda não conseguia ver, apenas sentir.
 
 Ele se virou para sair, tirando as luvas com violência.
 
