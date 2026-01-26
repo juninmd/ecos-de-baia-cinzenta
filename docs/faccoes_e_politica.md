@@ -10,15 +10,18 @@
 A Aetherna não é apenas uma empresa; é o sistema nervoso da cidade. Ela controla a água, a energia, a rede de dados e, extraoficialmente, a vida e a morte.
 
 *   **Slogan:** *"Evolução é o nosso Negócio."*
-*   **O Objetivo Oculto (Projeto Ascensão):** A busca pela imortalidade digital para a elite pagante, custeada pela biomassa e processamento neural da população pobre (os "desconectados").
+*   **O Verdadeiro Modelo de Negócios (A Mineração Neural):** A droga "Lázaro" não é um narcótico recreativo; é um agente de nanotecnologia viral. Uma vez na corrente sanguínea, ela sequestra a capacidade de processamento ocioso do cérebro humano.
+    *   **O Golpe:** A Aetherna cria o caos social através da droga.
+    *   **A Venda:** Vende segurança privada para as elites.
+    *   **O Lucro Real:** Usa a população viciada como um supercomputador biológico distribuído ("A Nuvem de Carne") para treinar suas IAs a custo zero.
 
-### Liderança: O Conselho das Sombras
-A Aetherna é gerida por um triunvirato, mas possui uma face pública carismática.
+### Liderança: O Ditador Corporativo
 
-#### **Viktor Krell (CEO e Face Pública)**
-*   **Alcunha:** "O Arquiteto do Amanhã".
-*   **Perfil:** Carismático, visionário, brutalmente pragmático. Krell aparece em todas as telas, prometendo um futuro brilhante enquanto assina ordens de despejo em massa. Ele vê a cidade como um hardware que precisa de otimização; as pessoas são apenas bits ineficientes.
-*   **Interesse:** Consolidação de poder absoluto e a eliminação do "caos biológico" (doença, velhice, desobediência).
+#### **Viktor Krell (CEO)**
+*   **Alcunha:** "O Pequeno Grande Homem" (Sussurrado com medo).
+*   **Perfil Físico:** Krell possui nanismo (1,35m), uma característica que ele se recusou a "corrigir" geneticamente, usando-a como uma prova de sua superioridade intelectual sobre os "gigantes estúpidos".
+*   **Perfil Psicológico:** Sádico e Megalomaníaco. Krell odeia fisicalidade bruta. Ele sente prazer em dominar, quebrar e controlar homens fortes, transformando-os em marionetes ou troféus. Ele vê a cidade não como um lar, mas como um tabuleiro de xadrez onde todas as peças são feitas de carne.
+*   **O Troféu Supremo:** Ele mantém uma coleção privada de "inimigos derrotados", preservados em estase ou convertidos em ciborgues lobotomizados.
 
 #### **Subsidiárias Chave:**
 *   **Aetherna Sec (Segurança Privada):** Uma força paramilitar com equipamento superior à polícia. Eles têm jurisdição sobre as Zonas Altas e "direito de intervenção" em áreas de interesse corporativo.

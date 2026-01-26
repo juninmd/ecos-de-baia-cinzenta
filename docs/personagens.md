@@ -98,12 +98,14 @@
 ![Dante Moretti](/personagens/dante.jpg)
 
 *   **Função:** Lenda Policial / O Arquiteto da Resistência.
-*   **Importância:** Dante não foi apenas um policial; ele foi o *primeiro* a perceber a cilada da Aeterna. Ele inseriu o "Código Fonte Moral" na infraestrutura da cidade antes de morrer (o "backdoor" que Valéria usa). Ele é o "Pai Fundador" da resistência, tendo sacrificado sua vida física para se tornar o "Fantasma na Máquina" original, garantindo que Gabo tivesse uma chance de lutar 15 anos depois.
+*   **Importância:** Dante não foi apenas um policial; ele foi o *primeiro* a perceber a cilada da Aeterna. Ele descobriu que a droga Lázaro não era apenas veneno, mas uma ferramenta de mineração neural. Krell o emboscou com um exército de mercenários. Dante lutou até a última bala. Quando tentou detonar uma carga de C4 para levar os segredos consigo, foi impedido por ciborgues de elite.
+*   **O Destino Cruel:** Dante não morreu naquele dia. Ele foi levado para o subsolo da Torre Aetherna. Seu cérebro foi removido e colocado em um tanque de nutrientes (O "Think Tank"), conectado a milhares de fios. Krell usou a mente tática e o código moral inquebrável de Dante como base para treinar a Inteligência Artificial da Aetherna Sec. Cada drone que patrulha a cidade se move com a fluidez de Dante; cada protocolo de segurança é uma perversão de sua honra.
 
 ### ⏳ Linha do Tempo
-*   **Pré-Série:** Comissário lendário. Criou os arquivos criptografados que guiariam Gabo.
-*   **Parte V:** Seu túmulo foi aberto e encontrado vazio.
-*   **Parte XIV (A Convergência):** Revelado que sua consciência foi preservada.
+*   **A Queda (15 anos atrás):** Emboscado na Zona Industrial. Lutou contra 50 agentes. Neutralizado por ciborgues Série-Z. Oficialmente declarado morto em "acidente".
+*   **O Cativeiro Digital:** Passou 15 anos tendo sua mente dissecada digitalmente por Krell. Inseriu o "Código Fonte Moral" como um vírus adormecido na rede da Aetherna durante esse processo.
+*   **Parte V:** Seu túmulo foi aberto e encontrado vazio (porque nunca houve corpo, apenas um caixão lastreado).
+*   **Parte XIV (A Convergência):** Sua consciência finalmente se libertou do "Think Tank" e habitou um novo corpo biológico.
 *   **Capítulo 104:** Dante Moretti retorna.
 *   **Capítulo 105:** Assume o comando da "Polícia Comunitária" e reativa a infraestrutura da cidade (luzes, câmeras) com sua mera presença, iniciando a "Ascensão".
 *   **Capítulo 106:** Implementa uma gestão algorítmica na delegacia. Neutraliza um protesto violento usando a infraestrutura urbana (câmeras e drones) sem disparar um tiro pessoalmente. Revela a Gabo a ameaça do "Silêncio" que devora a rede.
@@ -487,21 +489,23 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 
 ![Viktor Krell](/personagens/krell.jpg)
 
-*   **Idade:** 50 anos (Aparenta 35 graças a terapias genéticas).
-*   **Altura:** 1,88m
-*   **Porte Físico:** Atlético, de uma perfeição quase artificial.
-*   **Cabelo:** Loiro platinado, corte militar moderno.
-*   **Olhos:** Azul Aetherna (Cibernéticos de alto desempenho).
-*   **Marcas Distintivas:** Sorriso de tubarão. Nunca é visto sem um broche de lapela da Aetherna feito de diamante sintético.
-*   **Vestuário:** Ternos de tecidos inteligentes que repelem sujeira e regulam temperatura.
-*   **Equipamento:** Link neural direto com a "Rede da Cidade".
-*   **Gostos/Traços:** Arquitetura brutalista, vinho de safras extintas, controle absoluto.
-*   **Perfil Psicológico:** O Sociopata Corporativo. Krell não odeia os pobres; ele apenas os considera ineficientes. Para ele, a cidade é um hardware que precisa de upgrade, e a população atual é um software legado cheio de bugs. Ele é calmo, polido e letal.
-*   **Função:** CEO da Aetherna Corp / O Verdadeiro Dono da Cidade.
+*   **Idade:** 50 anos.
+*   **Altura:** 1,35m (Nanismo).
+*   **Porte Físico:** Pequeno, mas irradia uma presença aterrorizante.
+*   **Cabelo:** Loiro platinado, sempre penteado para trás com gel fixador.
+*   **Olhos:** Azul Aetherna (Cibernéticos). Eles nunca demonstram calor, apenas cálculo.
+*   **Marcas Distintivas:** Caminha com o auxílio de uma bengala de titânio negro, que na verdade é uma lâmina disfarçada e um emissor de choque neural.
+*   **Vestuário:** Ternos de alfaiataria sob medida, sempre impecáveis, projetados para impor respeito.
+*   **Equipamento:** Link neural mestre que lhe dá acesso a todas as câmeras e microfones da cidade.
+*   **Gostos/Traços:** Música clássica, xadrez, tortura psicológica e coleção de "Troféus Biológicos".
+*   **Perfil Psicológico:** O Sádico Intelectual. Krell compensa sua estatura com uma crueldade sem limites. Ele tem um desprezo visceral por força física, preferindo derrotar seus inimigos com inteligência e tecnologia. Ele não apenas mata; ele converte seus inimigos em ferramentas.
+*   **O Segredo Sombrio:** Krell usa os corpos de seus maiores adversários como troféus. O maior deles é **Dante Moretti**, cujo cérebro ele mantém vivo para alimentar sua IA de segurança.
+*   **Função:** CEO da Aetherna Corp / O Carcereiro da Cidade.
 
 ### ⏳ Linha do Tempo
-*   **Pré-Série:** Assumiu a Aetherna após o desaparecimento de Elara Vance, prometendo uma "Era de Ouro".
-*   **Atuação:** Manipula o Prefeito Vale e a mídia para garantir que os interesses da Aetherna sejam lei. É o arquiteto do "Projeto Ascensão".
+*   **Passado:** Subiu na hierarquia corporativa eliminando rivais fisicamente mais fortes através de chantagem e veneno.
+*   **O Confronto com Dante:** Quando Dante descobriu a verdade sobre a droga Lázaro, Krell orquestrou a emboscada. Ele assistiu à luta final de Dante por câmeras, fascinado pela resistência do policial. Em vez de matá-lo, ordenou que os ciborgues o capturassem vivo para extrair sua "essência tática".
+*   **Atualidade:** Usa o caos gerado pela droga Lázaro (agora um minerador de dados biológicos) para vender a solução de segurança da Aetherna.
 
 ---
 

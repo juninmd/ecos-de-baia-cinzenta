@@ -117,7 +117,27 @@ Enquanto ele falava, um drone de publicidade passou zumbindo do lado de fora do 
 
 *"Cidadãos de Baía Cinzenta. A violência que assola nossas ruas é um sintoma de um sistema obsoleto. A polícia humana, apesar de seus esforços, não pode estar em todos os lugares. Mas a Aetherna pode. Amanhã, lançaremos o 'Pacote Guardião': monitoramento preventivo por IA para sua residência. Porque a verdadeira segurança não é reagir ao crime. É eliminá-lo antes que aconteça. Assine hoje."*
 
-Gabriel olhou para a projeção, depois para o corpo do rapaz morto. A ironia era tão densa que ele podia sentir o gosto de sangue na boca. Eles criam o monstro, soltam na rua, e depois vendem a coleira.
+Atrás do holograma de Krell, dois drones de segurança "Sentinela V4" pousaram silenciosamente no perímetro, suas armas escaneando a multidão de curiosos.
+
+Vilar observou os robôs com um olhar estranho, quase assustado.
+
+— Você notou, Gabo? — sussurrou o Capitão.
+
+— O quê? Que eles são feios?
+
+— Não. O movimento. — Vilar apontou discretamente. — Olha como o da esquerda se posiciona. Joelhos flexionados, arma na linha do peito, cobrindo o ponto cego do parceiro. Isso não é algoritmo padrão de fábrica.
+
+— É tática de supressão básica — Gabo deu de ombros.
+
+— Não é básica. É a "Manobra 7". — Vilar olhou para Gabo, pálido. — Seu pai inventou essa formação em 98. Ele só ensinou para a Elite. Ninguém mais usa isso porque exige uma sincronia perfeita.
+
+Gabo olhou para os drones frios e sem rosto. Eles se moviam com uma fluidez humana, quase familiar. Um arrepio subiu por sua espinha.
+
+— Eles devem ter roubado os manuais antigos da Academia — disse Gabo, tentando afastar o pensamento perturbador.
+
+— Ou alguém ensinou a eles — murmurou Vilar. — Alguém que sabia exatamente como Dante pensava.
+
+Gabriel olhou para a projeção de Krell, depois para o corpo do rapaz morto, e finalmente para os drones que imitavam os movimentos de seu pai morto. A ironia era tão densa que ele podia sentir o gosto de sangue na boca. Eles não apenas vendiam a coleira; eles usavam a alma do antigo protetor da cidade para forjá-la.
 
 Ele se virou para sair, tirando as luvas com violência.
 
