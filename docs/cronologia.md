@@ -4,10 +4,17 @@
 
 "Ecos de Baía Cinzenta" narra a descida de **Gabriel "Gabo" Moretti**, um detetive cínico da Divisão de Casos Esquecidos, ao coração podre de uma megalópole onde a chuva nunca para. O que começa como uma investigação policial noir sobre corrupção corporativa (**Aeterna Corp**) evolui para uma luta metafísica pela alma da humanidade.
 
-A narrativa é dividida em três grandes eras:
+A narrativa é dividida em dois livros principais:
+
+### **LIVRO 1: O DILÚVIO (Partes I - XIV)**
+A saga da queda de Baía Cinzenta.
 1.  **A Era Digital (Partes I-VII):** Aeterna Corp controla a realidade através da "Nuvem" e da droga Lázaro. Gabo luta contra o sistema tecnológico.
 2.  **O Colapso (Partes VIII-XIII):** Após o "Grande Apagão" e o "Dilúvio", a tecnologia falha. A cidade reverte ao analógico. Surgem cultos biológicos ("Os Jardineiros") e o horror torna-se físico.
-3.  **A Convergência (Partes XIV-XV):** O digital e o biológico se fundem. O "Projeto Gênesis" usa carne humana para armazenar consciências digitais preservadas. **Dante Moretti**, o pai de Gabo, é ressuscitado como uma entidade híbrida que impõe uma ordem absoluta e fria sobre a cidade.
+3.  **O Vazio (Parte XIV):** A batalha final no subterrâneo. O confronto com Silas Vance e a tentativa desesperada de impedir o Projeto Gênesis, culminando na fuga para a superfície.
+
+### **LIVRO 2: A ASCENSÃO (Parte XV - Atual)**
+A era da reconstrução autoritária.
+*   **A Nova Ordem:** **Dante Moretti**, o pai de Gabo, retorna não como um homem, mas como a "Voz da Cidade". Ele funde o biológico e o digital para impor uma paz absoluta e aterrorizante. Gabo e a resistência precisam lidar com um ditador que não usa armas, mas sim a própria infraestrutura urbana.
 
 ---
 

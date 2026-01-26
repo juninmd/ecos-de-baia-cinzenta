@@ -46,15 +46,15 @@
 
 *   **Idade:** 23 anos
 *   **Altura:** 1,60m
-*   **Porte Físico:** Pequena e esguia, com postura rígida de quem passa horas em interfaces neurais. Atualmente imobilizada em um estado de petrificação biológica
+*   **Porte Físico:** Pequena e esguia, com postura rígida de quem passa horas em interfaces neurais. Recuperando-se de um estado de coma biológico induzido.
 *   **Cabelo:** Até os ombros, com tinta holográfica que muda entre rosa neon e azul elétrico.
 *   **Olhos:** Cibernéticos, com íris prateadas de realidade aumentada.
-*   **Marcas Distintivas:** Tatuagem de código de barras no pescoço. Mãos calejadas de digitar.
+*   **Marcas Distintivas:** Tatuagem de código de barras no pescoço. Mãos calejadas de digitar. Cicatrizes prateadas no pescoço onde a "Praga" recuou.
 *   **Vestuário:** Jaquetas de couro sintético, coturnos de plataforma e calças cargo.
 *   **Equipamento:** Deck de pulso "Phantom V3", enxame de micro-drones "Vagalumes".
 *   **Gostos/Traços:** Viciada em bebidas energéticas e noodles. Hackear outdoors por diversão.
 *   **Perfil Psicológico:** Otimista e hiperativa. A bússola moral digital de Gabo. Lealdade feroz e uma paixão crescente por ele.
-*   **Função:** Detetive Júnior (Afastada) / Símbolo da Resistência.
+*   **Função:** Detetive Júnior / Especialista em Redes da Nova Ordem.
 
 *   **Relação com Elena:** Rivalidade velada. Valéria vê Elena como "analógica demais" e lenta, sentindo ciúmes da história passada dela com Gabo.
 *   **Visão sobre o Casal:** Valéria despreza a "autopreservação" de Elena. Para Val, amar Gabo exige aceitar sua natureza autodestrutiva. Ela considera a recusa de Elena em voltar como covardia emocional. Val acredita que *ela* é a única com coragem para ficar com Gabo "até o fim do sistema" (ou da vida), e usa esse vácuo deixado por Elena para tentar provar que é a verdadeira parceira definitiva dele.
@@ -63,7 +63,7 @@
 *   **Pré-Série:** Prodígio. Aparência: "Geek" limpa, roupas corporativas padrão.
 *   **Partes I-XII:** A Hacker Rebelde. Aparência: Cabelo neon (muda de cor), roupas cyberpunk, pele pálida.
 *   **Parte XIII:** O Sacrifício. Aparência: Veias prateadas da "Praga de Ferro" começam a aparecer no pescoço e braços. Olhos tornam-se inteiramente prateados.
-*   **Atualidade:** A Estátua. Aparência: Pele com textura de mármore/metal, imóvel, preservada em um tubo de estase criogênica no Parque Memorial. Uma bela e trágica "Bela Adormecida" cyberpunk.
+*   **Atualidade:** O Despertar. Aparência: A "petrificação" revelou-se um casulo de cura regenerativa. Ela emerge fraca, com a pele pálida e translúcida, mas viva. As veias prateadas recuaram, deixando apenas trilhas brilhantes sob a derme.
 
 ---
 
@@ -79,17 +79,17 @@
 *   **Marcas Distintivas:** Rosto encontrado absorvido pelas raízes da "Árvore Mestre" no bunker Gênesis.
 *   **Vestuário:** Ternos italianos feitos sob medida (Brancos ou Cinza Chumbo).
 *   **Equipamento:** Moeda de prata antiga (que ele usa para "decisões do destino").
-*   **Gostos/Traços:** Ambição desmedida. Discursos públicos eloquentes.
+*   **Gostos/Traços:** Ambição desmedida (agora contida). Discursos públicos eloquentes (agora silencioso).
 *   **Perfil Psicológico:** Duality / "O Duas Caras". Marco sofre de uma fragmentação moral severa.
-    *   *Persona Pública (O Prefeito de Ouro):* Carismático, filantropo, promete salvar a cidade da chuva. Acredita genuinamente que a ordem exige sacrifício.
-    *   *Persona Privada (O Tirano):* Sádico, controlador, disposto a vender a própria família. Ele não vê pessoas, vê ativos e passivos.
-*   **Função:** Ex-Prefeito / Vilão / O Irmão Caído.
+    *   *Persona Pública (O Prefeito de Ouro):* Carismático, filantropo.
+    *   *Persona Atual (O Administrador):* Dante extraiu apenas a capacidade de processamento logístico de Marco, suprimindo o ego e a crueldade. Ele agora trabalha com uma eficiência mecânica, humilhado e silencioso, servindo à nova administração como uma calculadora humana.
+*   **Função:** Ex-Prefeito / Administrador Municipal.
 
 ### ⏳ Linha do Tempo e Evolução Visual
 *   **Pré-Série:** O "Irmão Bom". Aparência: Jovem político promissor, sorridente.
-*   **Parte VI (A Torre):** O Revelado. Aparência: Terno branco impecável, mas com manchas de sangue nas mangas. O rosto começa a mostrar tiques de estresse.
-*   **Pós-Morte:** Absorvido.
-*   **Parte XIV:** Reapareceu como uma manifestação na "Árvore Mestre", mas foi definitivamente destruído.
+*   **Parte VI (A Torre):** O Revelado. Aparência: Terno branco impecável, mas com manchas de sangue nas mangas.
+*   **Parte XIV:** Absorvido pela "Árvore Mestre" do Projeto Gênesis.
+*   **Parte XV (A Ascensão):** "Extraído" por Dante. Marco foi separado da consciência coletiva para servir como gerenciador logístico. Ele trabalha em uma sala sem janelas no subsolo, pálido, magro, cercado por pilhas de papel, sem o antigo brilho nos olhos.
 
 ---
 
@@ -462,7 +462,7 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 *   **Status:** [STATUS: ATIVA / CLASSE: SINGULARIDADE]
 *   **Idade:** Aparenta 12 anos, mas sua presença sugere uma sabedoria ancestral.
 *   **Altura:** 1,50m
-*   **Porte Físico:** **Perfeição Sintética**. Não há falhas, nem assimetrias. Sua pele tem um brilho sutil, quase perolado, que não parece inteiramente biológico, mas também não é artificial. É a harmonia absoluta entre carne e código.
+*   **Porte Físico:** **Perfeição Sintética / Frágil**. Não há falhas, nem assimetrias. Sua pele tem um brilho sutil, quase perolado. Apesar de sua capacidade mental infinita, seu corpo é fisicamente vulnerável, leve como um pássaro e quebrável como vidro. Ela não luta com os punhos; ela luta com a realidade.
 *   **Cabelo:** Loiro platinado, liso como fibra ótica, que nunca embaraça ou suja, não importa o caos ao redor.
 *   **Olhos:** Heterocromáticos, mas em constante fluxo. Eles mudam de cor conforme o fluxo de dados que ela processa, embora o "padrão" seja um azul elétrico profundo e um dourado suave.
 *   **Marcas Distintivas:** Nenhuma. Essa é a marca. Ela não tem cicatrizes, não tem poros visíveis, não tem impressões digitais registradas. Ela é um "fantasma" físico.
