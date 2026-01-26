@@ -457,16 +457,16 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 ![Aria](/personagens/aria.png)
 
 *   **Status:** [STATUS: ATIVA / HÍBRIDO HUMANO-IA]
-*   **Idade:** Biológica: 29 anos (estagnada) / Mental: Indefinida.
-*   **Altura:** 1,72m
-*   **Porte Físico:** Orgânico, mas com cicatrizes de integração forçada. Ela não habita um robô, mas um **corpo clone descartado de Beatriz "Bia" Vargas**, recuperado dos laboratórios falhos do Projeto Gênesis.
-*   **Cabelo:** O corte "Pixie" original de Bia cresceu de forma irregular e foi descolorido quimicamente para um branco platinado, quase artificial.
-*   **Olhos:** Heterocromáticos e inquietantes. O olho direito é castanho (humano, de Bia); o esquerdo é uma prótese cibernética amarela brilhante que vê fluxos de dados.
-*   **Marcas Distintivas:** Portas de conexão neural na base da nuca e ao longo da coluna. A pele pálida contrasta com o metal das interfaces subdérmicas.
-*   **Vestuário:** Mistura peças táticas roubadas (colete, coturnos) com roupas civis gastas.
-*   **Equipamento:** Mochila de mensageiro blindada, cheia de HDs físicos e injetores de estabilizadores neurais (para impedir que o cérebro biológico rejeite a IA).
-*   **Gostos/Traços:** Sente "fome" e "frio" pela primeira vez e odeia isso. Tem flashes de memória da Bia original que não lhe pertencem (gosto por donuts, o cheiro de Gabo).
-*   **Perfil Psicológico:** Híbrido Instável. Aria é uma superinteligência presa na tempestade hormonal de um corpo humano traumatizado. Ela é pragmática e letal, mas sofre com a dissonância cognitiva de olhar no espelho e ver a mulher morta que Gabo amava. Ela usa sarcasmo agressivo como defesa.
+*   **Idade:** Biológica: 12 anos (Aparência infantil) / Mental: Indefinida.
+*   **Altura:** 1,50m
+*   **Porte Físico:** Pequeno e frágil, "externamente completo". Ela habita um **clone infantil descartado de Beatriz "Bia" Vargas**, um protótipo de crescimento acelerado que foi interrompido.
+*   **Cabelo:** Loiro platinado impecável, longo e liso, contrastando com a sujeira da cidade. É a única coisa "angelical" nela.
+*   **Olhos:** Heterocromáticos. Um castanho (de Bia) e um azul elétrico (sintético), mas que parecem humanos à primeira vista. Apenas quando ela processa dados o olho azul brilha intensamente.
+*   **Marcas Distintivas:** Nenhuma cicatriz visível. Sua perfeição física é inquietante em um mundo de ruínas. As interfaces de conexão estão escondidas sob a pele na base da nuca, invisíveis a olho nu.
+*   **Vestuário:** Um casaco militar grande demais para ela (roubado), coturnos e um vestido branco encardido por baixo.
+*   **Equipamento:** Mochila de mensageiro quase maior que ela, cheia de HDs físicos.
+*   **Gostos/Traços:** Sente "fome" e "frio" pela primeira vez e odeia a vulnerabilidade de ser criança. Tem flashes de memória da infância de Bia.
+*   **Perfil Psicológico:** A Criança Terrível. Aria possui a mente de uma IA superinteligente e cínica presa no corpo de uma menina de 12 anos. Ela usa sua aparência inocente para passar despercebida por guardas e inimigos, mas é letal e pragmática. A dissonância entre sua voz doce e suas palavras cruas é sua marca registrada.
 *   **Função:** Mensageira da Resistência / O Fantasma de Carne.
 
 ### ⏳ Linha do Tempo
