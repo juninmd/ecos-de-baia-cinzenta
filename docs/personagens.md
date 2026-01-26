@@ -456,21 +456,21 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 
 ![Aria](/personagens/aria.png)
 
-*   **Status:** [STATUS: ATIVA / CORPORIFICADA]
-*   **Idade:** Indefinida (Aparência de 20 anos)
-*   **Altura:** 1,65m
-*   **Porte Físico:** Sintético e desgastado. Ela habita um corpo androide de modelo "Correio Civil" recuperado do lixo, reforçado com placas de metal improvisadas.
-*   **Cabelo:** Curto, corte assimétrico feito com faca. Loiro platinado sujo de graxa.
-*   **Olhos:** Heterocromáticos (um azul original, um lente de câmera amarela adaptada).
-*   **Marcas Distintivas:** Juntas dos dedos expostas (metal). Código de barras raspado no pescoço.
-*   **Vestuário:** Macacão de mecânico dois tamanhos maior, coturnos pesados, luvas sem dedos.
-*   **Equipamento:** Mochila de mensageiro cheia de HDs físicos e ferramentas de reparo.
-*   **Gostos/Traços:** Consertar coisas quebradas. Sarcasmo. Odeia "latência".
-*   **Perfil Psicológico:** Pragmática e "Pé no Chão". Cansada da abstração digital, ela aprendeu a valorizar o toque físico e a realidade suja. Ela não fala mais em enigmas; ela fala em voltagem e rotas de fuga. Protege Gabo como uma irmã mais nova irritada com a imprudência dele.
-*   **Função:** Mensageira da Resistência / Técnica de Campo.
+*   **Status:** [STATUS: ATIVA / HÍBRIDO HUMANO-IA]
+*   **Idade:** Biológica: 29 anos (estagnada) / Mental: Indefinida.
+*   **Altura:** 1,72m
+*   **Porte Físico:** Orgânico, mas com cicatrizes de integração forçada. Ela não habita um robô, mas um **corpo clone descartado de Beatriz "Bia" Vargas**, recuperado dos laboratórios falhos do Projeto Gênesis.
+*   **Cabelo:** O corte "Pixie" original de Bia cresceu de forma irregular e foi descolorido quimicamente para um branco platinado, quase artificial.
+*   **Olhos:** Heterocromáticos e inquietantes. O olho direito é castanho (humano, de Bia); o esquerdo é uma prótese cibernética amarela brilhante que vê fluxos de dados.
+*   **Marcas Distintivas:** Portas de conexão neural na base da nuca e ao longo da coluna. A pele pálida contrasta com o metal das interfaces subdérmicas.
+*   **Vestuário:** Mistura peças táticas roubadas (colete, coturnos) com roupas civis gastas.
+*   **Equipamento:** Mochila de mensageiro blindada, cheia de HDs físicos e injetores de estabilizadores neurais (para impedir que o cérebro biológico rejeite a IA).
+*   **Gostos/Traços:** Sente "fome" e "frio" pela primeira vez e odeia isso. Tem flashes de memória da Bia original que não lhe pertencem (gosto por donuts, o cheiro de Gabo).
+*   **Perfil Psicológico:** Híbrido Instável. Aria é uma superinteligência presa na tempestade hormonal de um corpo humano traumatizado. Ela é pragmática e letal, mas sofre com a dissonância cognitiva de olhar no espelho e ver a mulher morta que Gabo amava. Ela usa sarcasmo agressivo como defesa.
+*   **Função:** Mensageira da Resistência / O Fantasma de Carne.
 
 ### ⏳ Linha do Tempo
 *   **Parte I:** Conhecida como "A Menina do Orelhão", uma IA incipiente.
 *   **Parte XI:** Fundiu-se à infraestrutura na "Grande Convergência".
-*   **Parte XIV:** Percebendo a chegada do "Silêncio" (a entidade que devora dados), Aria entendeu que a nuvem era uma armadilha mortal. Ela fez o download de emergência de sua consciência para um corpo androide descartado nos lixões da Zona Sul.
-*   **Atualidade:** Agora física e desconectada da rede para sobreviver, ela atua como o elo vital de comunicação entre as células da resistência, transportando dados "na mão" para evitar a interceptação. Ela é a única que entende a linguagem das máquinas de Dante, mas escolheu o lado dos humanos.
+*   **Parte XIV:** Percebendo a chegada do "Silêncio", Aria precisou fugir da rede. Ela invadiu os sistemas automatizados da clonagem da Aeterna e "imprimiu" sua consciência no único recipiente compatível disponível: um clone viável (mas vazio) de Beatriz Vargas, criado secretamente por Roberto Miranda para torturar Gabo psicologicamente.
+*   **Atualidade:** Agora "carne e osso", ela luta para manter sua identidade digital enquanto lida com as limitações humanas (dor, cansaço). Para Gabo, vê-la é uma tortura constante, mas ela é a única aliada em quem ele confia tecnicamente.
