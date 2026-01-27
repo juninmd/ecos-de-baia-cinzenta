@@ -23,7 +23,7 @@ Rangel engoliu em seco e correu para cumprir a ordem.
 
 No canto do salão, sentado em uma caixa de munição vazia, Gabo tentava consertar a própria perna.
 
-Ele tinha uma chave de fenda enferrujada na mão e o painel do exoesqueleto aberto. O cheiro de ozônio queimado e graxa velha subia de suas calças. O servo-motor do joelho direito estava morto. Peso morto.
+Ele tinha uma chave de fenda enferrujada na mão e o painel da órtese aberto. O cheiro de ozônio queimado e graxa velha subia de suas calças. O mecanismo hidráulico do joelho direito estava morto. Peso morto.
 
 — Merda — sussurrou Gabo, forçando um parafuso espanado. A chave deslizou e cortou seu dedo. Ele nem sentiu. A dor fantasma na coluna era mais alta.
 
@@ -48,6 +48,8 @@ Gabo se levantou, apoiando o peso na perna boa e arrastando a morta. Ele mancou 
 Lá fora, na chuva que voltava a cair fina e ácida, uma multidão se reunia. Não eram bandidos. Eram sobreviventes. Pessoas com roupas feitas de lona plástica, segurando tochas e pedaços de pau.
 
 — Não queremos a Máquina de volta! — gritou uma mulher, jogando uma pedra contra a fachada da biblioteca. — Morte aos Conectados!
+
+Nas paredes da praça, pichações em tinta neon, remanescentes do estoque de contrabandistas, brilhavam sob a chuva: "Kiko Vibe Vive" e rostos estilizados do Mártir Digital chorando pixels.
 
 Eles eram os "Desconectados". Gente que viu o que a tecnologia fez com a cidade — o Projeto Gênesis, a Aeterna, os chips mentais — e decidiu que a Idade da Pedra era melhor.
 
@@ -97,7 +99,9 @@ Ele se virou para Gabo.
 
 No porão da biblioteca, o ar era frio e cheirava a papel velho. Dante guiou Gabo por entre as estantes de arquivos mortos até uma sala isolada nos fundos.
 
-Lá dentro, iluminado apenas por uma lâmpada fraca, um homem estava sentado em uma escrivaninha pequena, cercado por montanhas de formulários. Ele escrevia sem parar, sua caneta movendo-se com uma velocidade febril. Ele estava magro, o terno antes impecável agora largo nos ombros, a barba por fazer.
+Lá dentro, iluminado apenas por uma lâmpada fraca, um homem estava sentado em uma escrivaninha pequena, cercado por montanhas de formulários. Ele escrevia sem parar, sua caneta movendo-se com uma velocidade febril. Sobre uma pilha de documentos finalizados, uma moeda de prata antiga repousava intocada — o único resquício de uma personalidade que costumava deixar tudo ao acaso.
+
+Ele estava magro, o terno antes impecável agora largo nos ombros, a barba por fazer.
 
 Gabo parou, o choque travando sua garganta.
 
