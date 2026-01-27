@@ -196,7 +196,6 @@ body.reader-mode-active {
 
 body.reader-mode-active .VPNav,
 body.reader-mode-active .VPSidebar,
-body.reader-mode-active .VPDocFooter,
 body.reader-mode-active .VPFooter,
 body.reader-mode-active .on-this-page-container,
 body.reader-mode-active .reading-progress-bar {
