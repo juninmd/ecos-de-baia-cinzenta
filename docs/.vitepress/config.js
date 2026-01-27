@@ -220,6 +220,8 @@ module.exports = {
               { text: 'Capítulo 105: O Silêncio de Concreto', link: '/capitulo-105' },
               { text: 'Capítulo 106: Fios Invisíveis', link: '/capitulo-106' },
               { text: 'Capítulo 107: O Teorema da Chuva', link: '/capitulo-107' },
+              { text: 'Capítulo 108: Ratos de Cais', link: '/capitulo-108' },
+              { text: 'Capítulo 109: Falso Positivo', link: '/capitulo-109' },
             ]
           },
         ]

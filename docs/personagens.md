@@ -415,6 +415,7 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 *   **Parte XIV:** Foi reintegrado por Vilar. Sua obsessão por procedimentos e arquivos físicos tornou-se vital para a administração da polícia após o colapso dos computadores.
 *   **Capítulo 105:** Testemunha o retorno de Dante, que reativa sua máquina de escrever elétrica e os sistemas da delegacia.
 *   **Capítulo 106:** Torna-se o braço direito executivo de Dante, sobrecarregado pela velocidade de processamento do novo Comandante.
+*   **Capítulo 107:** É designado para liderar a força-tarefa de solo na operação de "Sanitização" do Porto, sob a supervisão do algoritmo.
 
 ---
 
@@ -549,3 +550,23 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 
 ### ⏳ Linha do Tempo
 *   **Diária:** Apresenta o "Bom Dia Baía Cinzenta", o programa mais assistido, onde distorce a realidade para favorecer a Aetherna.
+
+---
+
+## Oficial Silva ("O Novo Modelo")
+
+*   **Idade:** 24 anos
+*   **Altura:** 1,80m
+*   **Porte Físico:** Atlético, aprimorado por suplementos de desempenho autorizados.
+*   **Cabelo:** Corte militar regulamentar, raspado nas laterais.
+*   **Olhos:** Castanhos, quase sempre ocultos por óculos táticos de Realidade Aumentada (AR).
+*   **Marcas Distintivas:** Postura robótica. Ele não caminha; ele patrulha. Fala em códigos policiais mesmo em conversas casuais.
+*   **Vestuário:** O novo uniforme da "Polícia Comunitária" desenhado por Dante: polímero cinza chumbo, sem insígnias individuais, apenas códigos QR de identificação.
+*   **Equipamento:** Óculos AR conectados à Rede da Cidade, Pistola Taser de alta voltagem, Submetralhadora compacta.
+*   **Gostos/Traços:** Eficiência. Despreza a "bagunça" humana (emoções, sujeira, dúvida).
+*   **Perfil Psicológico:** A Geração Algorítmica. Silva não conheceu o mundo antes da Aeterna. Para ele, liberdade é ineficiência. Ele idolatra Dante não como um herói, mas como o sistema operacional perfeito. Ele não questiona ordens porque acredita que o Algoritmo já calculou o melhor resultado moral.
+*   **Função:** Oficial de Campo / O Olho de Dante.
+
+### ⏳ Linha do Tempo
+*   **Academia:** Graduado com honras na primeira turma supervisionada pela IA.
+*   **Capítulo 108:** Designado como parceiro (e monitor) do Inspetor Rangel na incursão ao Porto. Sua função real é garantir que o "fator humano" de Rangel não comprometa a missão.
