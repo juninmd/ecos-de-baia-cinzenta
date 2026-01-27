@@ -29,11 +29,13 @@ O Inspetor apertou o gatilho.
 
 *Bang.*
 
-O tiro acertou o peito de Silva. Mas o oficial não caiu. O kevlar de nova geração absorveu o impacto. Silva nem recuou. Ele avançou num borrão.
+O tiro acertou o peito de Silva. Mas o oficial não caiu. O kevlar de nova geração absorveu o impacto, embora o oficial tenha dado um passo para trás, o ar saindo de seus pulmões.
 
-Rangel sentiu o ar sair de seus pulmões quando o punho aprimorado de Silva atingiu seu estômago. Ele voou três metros, batendo as costas contra um contêiner. O revólver caiu na lama.
+Antes que Rangel pudesse disparar novamente, Silva avançou. Ele não usou artes marciais complexas; foi um tackle de rugby, derrubando o velho inspetor na lama com força bruta. Rangel sentiu o ar sair de seus pulmões quando o punho de Silva atingiu seu estômago.
 
-Silva caminhou até ele, sacando sua pistola.
+O revólver voou para longe.
+
+Silva se levantou, limpando a lama do uniforme, e sacou sua pistola.
 
 — Aposentadoria compulsória, Inspetor.
 
@@ -45,9 +47,9 @@ Era algo caindo do céu.
 
 Uma massa escura aterrissou exatamente entre Silva e Rangel, rachando o concreto do cais.
 
-Silva recuou, ajustando seus sensores.
+Silva recuou, ajustando seus sensores, a mão tremendo ligeiramente pelo impacto no colete.
 
-A poeira baixou. Gabo Moretti se ergueu. Seu sobretudo estava encharcado, mas o que chamava a atenção era a perna direita. O novo implante de Dante zumbia com uma luz azulada, liberando vapor na chuva fria.
+A poeira baixou. Gabo Moretti se ergueu. Seu sobretudo estava encharcado, pesado. Sua perna direita fazia um barulho horrível, um *clank-clank* metálico a cada movimento, soltando fumaça.
 
 — Gabo? — sussurrou Rangel.
 
@@ -55,7 +57,7 @@ Gabo não olhou para trás. Ele encarava Silva.
 
 — Você bate em velhos agora, garoto? — perguntou Gabo. Sua voz era cascalho puro.
 
-— Identificado: Gabriel Moretti. Aliado nível Alfa — disse Silva, confuso. — Afaste-se. Este indivíduo é um traidor.
+— Identificado: Gabriel Moretti. — Silva parecia confuso. — Afaste-se. A ordem é absoluta.
 
 — Não — disse Gabo. Ele estalou o pescoço. — Ele é o único policial de verdade que sobrou nessa cidade.
 
@@ -65,31 +67,37 @@ Silva levantou a arma.
 
 Silva disparou.
 
-Gabo não desviou. Ele avançou. A bala ricocheteou em uma placa de blindagem improvisada que ele usava sob o casaco.
+Gabo não teve tempo de ser herói. Ele se jogou para o lado, rolando na lama. A bala ricocheteou em um contêiner atrás dele. A perna mecânica travou por um segundo, enferrujada e pesada, quase o impedindo de levantar.
 
-Silva tentou usar sua velocidade, mas Gabo conhecia a brutalidade da rua. Quando Silva tentou um golpe tático no pescoço, Gabo simplesmente o agarrou pelo colete.
+Silva aproveitou a abertura e avançou. Ele era mais rápido, mais jovem e estava dopado de estimulantes. Ele chutou o peito de Gabo, jogando-o contra a parede de aço.
 
-— Protocolo de combate ativado — disse a voz robótica de Silva. — Hackeando implante inferior direito...
+Gabo sentiu gosto de sangue. Ele tentou socar, mas Silva desviou com facilidade e acertou uma coronhada na têmpora de Gabo.
 
-A perna de Gabo travou. A luz azul ficou vermelha. Dante estava tentando paralisá-lo remotamente através do link de Silva.
+— Sua tecnologia é obsoleta — disse Silva, apontando a arma para o rosto de Gabo. — Você é lento.
 
-Gabo urrou. Não de dor, mas de raiva. Ele socou o rosto de Silva. O visor AR estilhaçou.
+Gabo cuspiu sangue no visor tático de Silva.
 
-— Desliga... essa... MERDA!
+— E você é limpo demais.
 
-Gabo ignorou o travamento da perna. Ele usou o peso morto do metal como uma âncora e girou o corpo, arremessando Silva contra a parede de aço com força suficiente para amassar o contêiner.
+Gabo não tentou levantar. Em vez disso, ele chutou o joelho de Silva com a perna mecânica. O metal pesado da suspensão de caminhão colidiu com a articulação biológica de Silva.
 
-Silva caiu, espasmando. Fios saíam de seu pescoço.
+O som de osso quebrando foi audível.
 
-Gabo mancou até ele, a perna arrastando, e arrancou o processador de comunicação do colete de Silva com as próprias mãos.
+Silva gritou e caiu. Não havia software que impedisse a física.
 
-O zumbido parou. A perna de Gabo voltou ao azul.
+Gabo se arrastou para cima dele. Silva tentou disparar, mas Gabo segurou o slide da pistola, impedindo o ciclo da arma. Eles rolaram na lama, uma briga de bar, feia e sem honra. Silva arranhou o rosto de Gabo, tentando furar seus olhos. Gabo usou a testa para dar uma cabeçada no nariz de Silva.
 
-— A conexão caiu — disse Gabo, ofegante.
+Uma, duas, três vezes.
+
+Silva parou de lutar, o rosto uma máscara de sangue.
+
+Gabo rolou para o lado, ofegante. Sua perna mecânica estava soltando faíscas e óleo hidráulico vazava na chuva.
+
+— A conexão... caiu — disse Gabo, tentando recuperar o fôlego.
 
 Ele se virou para Rangel e estendeu a mão. O velho inspetor a pegou, tremendo.
 
-— Você sabia? — perguntou Rangel, olhando para o corpo do oficial ciborgue. — Que eles matavam os seus próprios?
+— Você sabia? — perguntou Rangel, olhando para o corpo do oficial inconsciente. — Que eles matavam os seus próprios?
 
 — Eu suspeitava — disse Gabo. — Mas agora temos a prova.
 
@@ -97,6 +105,6 @@ A garota com a mochila ainda estava lá, paralisada de medo. Gabo fez um sinal c
 
 — E agora? — perguntou Rangel, pegando seu revólver da lama. — Eu não posso voltar para a delegacia.
 
-Gabo olhou para a torre da Aetherna brilhando ao longe, perfurando as nuvens.
+Gabo olhou para a torre da Aetherna brilhando ao longe, perfurando as nuvens. A perna dele doía como o inferno. Não havia vitória fácil.
 
-— Não — disse Gabo. — Agora você é um de nós, Rangel. Bem-vindo à resistência.
+— Não — disse Gabo, limpando o sangue do rosto. — Agora você é um de nós, Rangel. Bem-vindo à resistência.
