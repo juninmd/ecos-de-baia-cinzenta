@@ -564,7 +564,7 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 *   **Vestuário:** O novo uniforme da "Polícia Comunitária" desenhado por Dante: polímero cinza chumbo, sem insígnias individuais, apenas códigos QR de identificação.
 *   **Equipamento:** Óculos AR conectados à Rede da Cidade, Pistola Taser de alta voltagem, Submetralhadora compacta.
 *   **Gostos/Traços:** Eficiência. Despreza a "bagunça" humana (emoções, sujeira, dúvida).
-*   **Perfil Psicológico:** A Geração Algorítmica. Silva não conheceu o mundo antes da Aeterna. Para ele, liberdade é ineficiência. Ele idolatra Dante não como um herói, mas como o sistema operacional perfeito. Ele não questiona ordens porque acredita que o Algoritmo já calculou o melhor resultado moral.
+*   **Perfil Psicológico:** A Geração Algorítmica. Silva não conheceu o mundo antes da Aetherna. Para ele, liberdade é ineficiência. Ele idolatra Dante não como um herói, mas como o sistema operacional perfeito. Ele não questiona ordens porque acredita que o Algoritmo já calculou o melhor resultado moral.
 *   **Função:** Oficial de Campo / O Olho de Dante.
 
 ### ⏳ Linha do Tempo
