@@ -63,10 +63,8 @@ Gabriel checou o pulso de Miranda. Fraco, mas presente. O ferimento na perna est
 
 Ele olhou para a silhueta da Torre Aeterna no horizonte, brilhando com sua arrogância neon, intocada. Eles tinham machucado a besta, sim. Mas ela ainda estava faminta.
 
-Gabriel levantou Miranda mais uma vez, gemendo com a dor em suas próprias costelas quebradas.
+Gabriel levantou Miranda mais uma vez, gemendo com a dor em suas próprias costelas quebradas. Seu estômago doía, um peso sólido e desconfortável lembrando-o do que ele carregava. O chip. A verdade estava enterrada dentro dele agora, literalmente.
 
 — Vamos, Roberto. Tem uma clínica clandestina a duas quadras daqui. O "Doutor" não faz perguntas se pagarmos em dinheiro vivo.
-
-Ele tateou o bolso interno do casaco. O chip de dados ainda estava lá, frio e duro contra seu peito. A verdade.
 
 Gabriel começou a caminhar sob a chuva, arrastando seu fardo. Não houve vitória naquela noite. Apenas sobrevivência. E em Baía Cinzenta, isso era o máximo que se podia esperar.

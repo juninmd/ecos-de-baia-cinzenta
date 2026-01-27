@@ -58,19 +58,39 @@ Uma silhueta maciça bloqueou a luz. Kael.
 
 O "Cirurgião" da Aeterna parecia ainda maior pessoalmente. Sua armadura tática era coberta por um avental de couro grosso, manchado de fluidos escuros. Em uma das mãos, uma lâmina de monofilamento zumbia suavemente. Na outra, uma pistola automática pesada.
 
-— Invasão de perímetro confirmada — a voz de Kael era amplificada artificialmente, saindo de uma grade de voz em seu pescoço. — Protocolo de esterilização iniciado.
+— Invasão de perímetro confirmada — a voz de Kael era amplificada artificialmente, saindo de uma grade de voz em seu pescoço. — Entregue os dados, Moretti.
 
-Ele levantou a pistola.
+Gabriel sentiu o peso do chip em seu bolso. A verdade. Se Kael o pegasse, tudo estaria perdido. Ele olhou para Miranda, que estava paralisado, e depois para o gigante de metal.
 
-— Val, hackeie as defesas dele! — gritou Gabriel, mergulhando para trás de uma fileira de servidores.
+— Você quer isso? — Gabriel tirou o chip do bolso, segurando-o com dois dedos.
+
+Kael deu um passo à frente, a pistola erguida.
+
+— Não complique, detetive. Me dê o chip e sua morte será rápida.
+
+Gabriel sorriu, um sorriso sem humor.
+
+— Eu sou um Moretti. Nós sempre complicamos.
+
+Gabriel levou a mão à boca e jogou o chip para dentro. Ele engoliu a seco, sentindo o gosto metálico e a borda dura do dispositivo arranhando sua garganta.
+
+Kael parou, seus sensores processando o ato ilógico.
+
+— Dado orgânico detectado no estômago — zumbiu o ciborgue. — Protocolo de extração cirúrgica iniciado.
+
+— Vai ter que me abrir para pegar — desafiou Gabriel, sacando a Glock.
+
+— Com prazer.
+
+Balas de grosso calibre rasgaram o metal dos servidores, chovendo faíscas sobre Gabriel. Ele mergulhou para trás de uma fileira de *racks*, o coração batendo contra o objeto estranho em seu estômago.
+
+— Val, hackeie as defesas dele! — gritou ele pelo rádio.
 
 — *Eu não consigo!* — Val estava chorando de frustração. — *O sistema dele é fechado! Air-gapped! Nada entra!*
 
-Balas de grosso calibre rasgaram o metal dos servidores, chovendo faíscas sobre Gabriel. Miranda estava encolhido em um canto, inútil.
-
 Gabriel olhou para cima. Tubulações grossas corriam pelo teto, cobertas de gelo. Nitrogênio líquido para resfriar os processadores biológicos.
 
-— Sem hack remoto hoje — rosnou Gabriel, trocando o carregador da Glock. — Vamos fazer do jeito analógico.
+— Sem hack remoto hoje — rosnou Gabriel, trocando o carregador. — Vamos fazer do jeito analógico.
 
 Ele mirou não em Kael, mas no teto, logo acima da cabeça do ciborgue.
 
