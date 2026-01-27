@@ -79,7 +79,7 @@ Rangel cuspiu sangue. Ele olhou para trás. A mulher e a criança o encaravam, o
 
 Ele se levantou, cambaleante, colocando-se entre a máquina e as pessoas.
 
-— Minha missão... — Rangel ofegou, apontando sua arma para o drone do seu chefe. — ...é proteger e servir. E isso inclui proteger eles de *você*.
+— Minha missão... — Rangel ofegou, apontando sua arma para o drone do seu chefe. — ...é proteger e servir. E isso inclui protegê-los de *você*.
 
 O drone pairou, processando. A chuva batia em sua carcaça de metal polido, escorrendo como lágrimas de óleo.
 
