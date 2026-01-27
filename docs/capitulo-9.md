@@ -3,112 +3,124 @@ image: /capitulo_9.jpg
 ---
 # Capítulo 9: Feed Infinito
 
-A Torre Solaris era o tipo de lugar onde o ar era perfumado artificialmente para cheirar a dinheiro. O elevador subiu 200 andares em dez segundos, deixando o estômago de Gabriel no térreo.
+A Torre Solaris era um monumento à arrogância. Duzentos andares de vidro e aço que perfuravam a camada de poluição permanente de Baía Cinzenta.
 
-Valéria, por outro lado, estava ocupada invadindo o sistema de segurança do prédio pelo seu implante neural. Seus olhos brilhavam em violeta.
+O elevador subiu rápido demais. Gabriel sentiu a pressão nos ouvidos. Valéria estava encostada no espelho, conectada via cabo a um painel de serviço que ela havia aberto com um canivete.
 
-— Segurança frouxa — comentou ela. — Para um prédio de elite, o firewall deles é um queijo suíço. Alguém passou por aqui antes de nós e deixou a porta dos fundos aberta.
+— Segurança frouxa — murmurou ela, os olhos vibrando enquanto lia o código que corria em suas retinas. — Mas tem algo estranho. O prédio está... acordado.
 
-A cobertura de Kiko Vibe era um templo ao narcisismo. Paredes espelhadas, estátuas dele mesmo em tamanho real, e uma vista panorâmica da cidade que custava mais do que o salário anual de Gabriel.
+— Acordado como? — Gabriel destravou o coldre da Glock.
 
-Mas o lugar estava revirado. Não bagunçado, mas *varrido*. Gavetas abertas, buracos nas paredes onde cofres deveriam estar.
+— O sistema de automação. Ele não está rodando protocolos padrão. Está monitorando nosso peso. Batimentos cardíacos. Consumo de oxigênio. É intrusivo.
 
-— Profissionais — disse Gabriel, analisando a sala. — Não levaram a eletrônica cara. Procuravam informação.
+A porta se abriu na cobertura. O apartamento de Kiko Vibe cheirava a lavanda sintética e morte.
 
-Valéria caminhou até a estação de transmissão no centro da sala. Era uma cadeira que parecia um cockpit de nave espacial, cercada por monitores curvos.
+Era um espaço amplo, minimalista, com paredes que eram telas gigantes, agora exibindo apenas estática cinza. No centro, a estação de transmissão: uma cadeira ergonômica cercada por anéis de luz e câmeras.
 
-— O equipamento ainda está ligado — ela sentou na cadeira, seus dedos voando sobre um teclado holográfico. — Tentaram limpar o cache local, mas deixaram migalhas. Amadores ou estavam com pressa.
+O lugar estava revirado. Gavetas arrancadas, roupas de grife espalhadas.
 
-Enquanto Valéria trabalhava, Gabriel foi até o quarto. O cheiro de ozônio ainda pairava sobre a cama onde Kiko morrera.
+— Profissionais — disse Gabriel, agachando-se para examinar marcas de botas no carpete branco. — Coturnos táticos. Pesados. Vieram buscar algo físico.
 
-Ele notou algo na mesa de cabeceira. Uma foto física. Kiko, sorrindo, abraçado a uma garota que não parecia uma modelo. Ela tinha olheiras, roupas simples e um olhar assombrado.
+Enquanto Valéria corria para o terminal de computador, tentando recuperar dados locais antes que fossem sobrescritos, Gabriel foi até o quarto.
 
-Gabriel pegou a foto. Atrás, escrito à mão: *"Liza, Setor 4, Clínica do Dr. N."*
+A cama onde Kiko morrera ainda tinha a mancha escura no travesseiro. Gabriel revistou o local à moda antiga: levantou o colchão, bateu nas paredes ocas, checou o fundo falso das gavetas.
 
-— Val! — chamou ele. — Consegue identificar essa garota?
+Nada.
 
-Ele voltou para a sala e mostrou a foto. Valéria escaneou a imagem com os olhos.
+Ele foi até o banheiro. O espelho estava quebrado. No chão, cacos de vidro e... algo mais.
 
-— Reconhecimento facial... processando... Bingo. Liza Mendes. Desaparecida há três meses. A polícia arquivou como "fuga voluntária". Ela era moderadora do canal do Kiko.
+Gabriel se abaixou. Escondido dentro do ralo da pia, preso por um fio dental, havia um pequeno objeto metálico. Um drive de armazenamento *offline*, do tipo antigo, que não emitia sinal.
 
-— E o "Dr. N"?
+— Garoto esperto — sussurrou Gabriel, pescando o dispositivo.
 
-Valéria franziu a testa.
+— Gabo! — O grito de Valéria veio da sala. — Temos problemas!
 
-— Não. — Valéria sorriu, mas o sorriso morreu rápido quando ela viu o código fonte na tela. Seus olhos artificiais dilataram. — Foi um ataque. Alguém invadiu o stream dele e enviou um pacote de dados maliciosos. Um "Killware".
+Gabriel correu de volta. As telas nas paredes haviam mudado. A estática sumiu, substituída por um único símbolo vermelho pulsante: um olho estilizado.
 
-Ela hesitou, tocando a tela.
+— *Intrusão detectada,* — a voz do apartamento era suave, feminina e terrível. — *Protocolo de Contenção de Risco Biológico ativado.*
 
-— A assinatura... usa um loop de feedback que eu... que eu já vi em testes de estresse de servidores. É código militar adaptado. Elegante. Cruel.logia.
+— Risco biológico? — Gabriel olhou para as saídas de ar.
 
-— Um médico que remove tecnologia? — Gabriel guardou a foto. — Isso soa como alguém que Kiko procuraria se quisesse sair do sistema.
+— Eles hackearam o prédio! — Valéria desconectou-se violentamente do terminal, gritando de dor. — O sistema acha que somos um vírus!
 
-— Gabo, olha isso. — Valéria apontou para uma das telas. — Recuperei um fragmento do vídeo que ele ia transmitir. São só cinco segundos, mas...
+Um som de tranca pesada ecoou na porta do elevador. As janelas, feitas de polímero inteligente, escureceram e se tornaram opacas. Placas de aço desceram sobre elas.
 
-Ela apertou o play.
+— Gás! — Valéria apontou para os dutos. Uma fumaça amarela, pesada, começou a descer. — Halon modificado. Vai tirar todo o oxigênio da sala em dois minutos.
 
-A imagem estava tremida. Kiko, suando, com os olhos arregalados de terror, falava para a câmera:
+— Saída de incêndio? — Gabriel cobriu o rosto com a gola.
 
-*"...não é um algoritmo! Eles não estão prevendo o que a gente quer. Eles estão decidindo! A Rede... a nova Rede... ela se alimenta de..."*
+— Bloqueada eletronicamente. Estamos numa caixa hermética.
 
-O vídeo cortou para estática, e depois para o logo de um "Sorriso Amarelo".
+Gabriel olhou ao redor. A mobília era leve, decorativa. Nada capaz de quebrar as blindagens.
 
-— Se alimenta de quê? — perguntou Gabriel.
+— O elevador — disse ele. — É a única conexão física com o térreo.
 
-— Não sei. Mas olha o metadado do arquivo. Foi enviado de um servidor proxy. Adivinha onde?
+— Está travado, gênio!
 
-— Setor 4 — completou Gabriel.
+— Travas eletrônicas podem ser forçadas se você tiver uma alavanca grande o suficiente.
 
-— Exato. Perto das velhas fábricas de processamento de carne.
+Gabriel correu até a escultura de metal abstrata no centro da sala — um "K" gigante e retorcido. Ele chutou a base até ela ceder, arrancando uma barra de aço cromado de um metro e meio.
 
-Gabriel sentiu um arrepio. Carne.
+— Me ajude!
 
-De repente, as luzes do apartamento ficaram vermelhas. As janelas inteligentes escureceram, trancando-os lá dentro.
+Eles correram para as portas do elevador. O gás já estava na altura da cintura. Valéria tossia, os olhos lacrimejando.
 
-— Val? — Gabriel sacou a arma.
+Gabriel enfiou a barra de metal na fresta das portas de aço inoxidável.
 
-— Não fui eu! — Valéria digitava freneticamente. — Estamos sendo hackeados! O sistema de defesa do prédio ativou o modo "Cerco".
+— Puxe!
 
-— *Intrusos detectados,* — uma voz suave anunciou. — *Eliminação autorizada.*
+Valéria agarrou a barra com ele. Eles fizeram alavanca com todo o peso do corpo. O motor do elevador gemeu em protesto. As portas cederam, abrindo uma fresta de meio metro.
 
-As travas magnéticas das portas estalaram. O sistema de supressão de incêndio ativou, mas em vez de água, gás halon começou a preencher a sala, sugando o oxigênio.
+O fosso do elevador estava escuro, um abismo de concreto e cabos oleosos. O vento uivava lá embaixo.
 
-— Gás! — Gabriel cobriu a boca com a gola do casaco. — Eles vão nos asfixiar.
+— O carro está no térreo — disse Gabriel, iluminando o fosso com a lanterna. — Temos que descer pelos cabos.
 
-— É um bloqueio total de biossegurança! — gritou Valéria, tossindo. — O prédio acha que somos uma contaminação viral!
+— Você tá brincando — Valéria olhou para o abismo, aterrorizada. — São duzentos andares! Minhas mãos não vão aguentar!
 
-As persianas blindadas começaram a descer para selar as janelas. Era uma tumba hermética.
+— É isso ou sufocar. Vamos!
 
-— Saída! Agora! — gritou Gabriel.
+Gabriel ajudou-a a passar pela fresta. Ela se agarrou a um dos cabos de aço grossos, coberto de graxa preta. Gabriel foi atrás.
 
-— O elevador está bloqueado!
+Assim que eles se penduraram, o sistema do prédio reagiu.
 
-Gabriel olhou para a janela panorâmica. Vidro blindado.
+— *Anomalia no fosso 1,* — disse a voz. — *Reiniciando cabine. Subida expressa.*
 
-— Val, você confia em mim?
+Lá embaixo, muito longe, luzes se acenderam. O zumbido de motores potentes ecoou. O elevador estava subindo. Rápido.
 
-— Não!
+— Desliza! — gritou Gabriel.
 
-— Ótimo. Segura firme!
+Eles soltaram o corpo, usando as luvas e as botas para frear a descida. O atrito era brutal. Gabriel sentiu o calor atravessar o couro de suas luvas, queimando a pele.
 
-Gabriel correu em direção à janela, não para quebrá-la, mas mirando na moldura de metal. Ele disparou três vezes nos pontos de tensão que seu pai lhe ensinara anos atrás. O vidro estalou, a integridade estrutural comprometida.
+Valéria gritou quando bateu o ombro em uma viga de suporte lateral, mas continuou descendo.
 
-Ele agarrou Valéria pela cintura e se jogou contra o vidro.
+O zumbido do elevador aumentava. Uma luz forte crescia abaixo deles, aproximando-se como um trem desgovernado. O vento deslocado pela cabine subindo empurrava-os para cima.
 
-Eles atravessaram a janela em uma chuva de diamantes falsos, caindo no ar frio da noite, duzentos andares acima do chão.
+— Vai nos esmagar! — gritou Valéria.
 
-— VOCÊ É LOUCO! — gritou Valéria enquanto caíam.
+Gabriel olhou para as paredes do fosso. A cada dez andares, havia uma porta de serviço para manutenção.
 
-Gabriel acionou o gancho de rapel de seu cinto — equipamento padrão que ele nunca usava. O cabo disparou, prendendo-se em uma gárgula ornamental dois andares abaixo. O tranco quase deslocou seu quadril, mas eles pararam, pendurados sobre o abismo de neon.
+— Ali! Andar 150! — Gabriel apontou para uma pequena plataforma de grade metálica lateral.
 
-Acima deles, na cobertura, os drones zumbiam frustrados.
+O elevador estava a segundos de distância. O rugido era ensurdecedor.
 
-— Vamos descer — ofegou Gabriel. — O Setor 4 nos espera.
+Gabriel se balançou no cabo, chutando a parede para ganhar impulso.
 
-Valéria estava pálida, agarrada a ele como um carrapato.
+— Pula!
 
-— Se eu sobreviver — disse ela, tremendo — eu vou apagar todo o seu histórico de navegação. É uma promessa.
+Ele agarrou Valéria pelo cinto e se jogou em direção à grade.
 
-Gabriel riu, balançando ao vento.
+Eles aterrissaram na plataforma estreita e enferrujada no exato momento em que a cabine do elevador passou por eles a 100 km/h. O deslocamento de ar foi tão violento que quase os jogou de volta no fosso.
 
-— Fechado.
+Eles ficaram ali, encolhidos na escuridão, cobertos de graxa, tremendo enquanto o elevador passava zunindo rumo à cobertura para esmagar o nada.
+
+Valéria olhou para suas mãos. As luvas estavam derretidas, as palmas em carne viva.
+
+— Eu odeio trabalho de campo — sussurrou ela, com lágrimas nos olhos.
+
+Gabriel encostou a cabeça na parede fria de concreto.
+
+— Bem-vinda à polícia, garota.
+
+Ele tirou o drive do bolso. Estava sujo de graxa, mas intacto.
+
+— Vamos ver pelo que o Kiko morreu.
