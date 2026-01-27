@@ -9,6 +9,23 @@ Este documento mantém um registro da avaliação de qualidade narrativa, ritmo 
 
 ## 🟢 Arco Atual: Partes XIV & XV (O Vazio / A Ascensão)
 
+### Capítulo 108: Ratos de Cais
+*   **Nota:** ⭐ **9.4/10**
+*   **Pontos Fortes:**
+    *   Ação tática "low-tech" vs "high-tech" (tambores contra armas sônicas) é criativa e bem coreografada.
+    *   **Melhor Arco:** A virada de Rangel. O momento em que ele usa o escudo para proteger a família define o personagem para sempre.
+    *   A entrada triunfal de Aria no final ("A Linha de Corte").
+*   **Pontos Fracos:**
+    *   Os "Ratos de Cais" poderiam ter tido mais falas para humanizá-los antes do tiroteio começar.
+
+### Capítulo 107: O Teorema da Chuva
+*   **Nota:** ⭐ **8.9/10**
+*   **Pontos Fortes:**
+    *   O horror "body horror" da cena de reparo da perna (furadeira industrial, sucata). Reforça o tom sujo e doloroso da narrativa.
+    *   Dante tratando a guerra como uma equação matemática ("O medo é calculável").
+*   **Pontos Fracos:**
+    *   A transição geográfica da delegacia para o porto acontece muito rápido (teleporte narrativo).
+
 ### Capítulo 106: Fios Invisíveis
 *   **Nota:** ⭐ **9.0/10**
 *   **Pontos Fortes:**

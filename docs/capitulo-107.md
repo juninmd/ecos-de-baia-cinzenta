@@ -7,33 +7,31 @@ image: /capitulo_107.jpg
 
 A dor não era vermelha, como Gabo costumava descrever. Era branca. Um branco cegante, asséptico, como a luz da lâmpada halógena que Dante segurava sobre a perna dele.
 
-— O tecido humano é um design lamentável — disse Dante. Sua voz não tinha inflexão. Era a leitura de um diagnóstico. — As terminações nervosas transmitem sinais de alerta muito tempo depois do dano ter sido registrado. É redundante.
+— O tecido humano é um design lamentável — disse Dante. Sua voz não tinha inflexão. Era a leitura de um diagnóstico. — Frágil. Inconsistente.
 
-Gabo trincou os dentes, segurando o grito na garganta. Sua mão direita buscou instintivamente o bolso interno, onde seus dedos se fecharam ao redor do "Colar de Sol" de Helena. O metal frio do pingente era sua única âncora na realidade.
+Gabo trincou os dentes, segurando o grito na garganta enquanto a furadeira industrial gemia contra o osso. Sua mão direita buscou instintivamente o bolso interno, onde seus dedos se fecharam ao redor do "Colar de Sol" de Helena. O metal frio do pingente era sua única âncora na realidade.
 
-Ele estava deitado em uma mesa de metal frio. Dante estava "otimizando" sua órtese, mas, para isso, precisava realinhar os pinos de sustentação que se conectavam diretamente aos seus ossos da tíbia.
+Ele estava deitado em uma bancada de trabalho suja de graxa no subsolo. Dante estava "reparando" sua órtese, mas não com a tecnologia limpa da Aetherna. Ali, na escuridão do mundo real, ele usava o que tinha: sucata.
 
 Sem anestesia.
 
-— Você podia... usar morfina — arfou Gabo, suando frio.
+— Você podia... parar de furar... — arfou Gabo, suando frio.
 
-— A dor é um dado, Gabriel — respondeu Dante, soldando um pistão hidráulico com uma precisão milimétrica. O cheiro de metal derretido e pele chamuscada encheu o ar. — Ela informa a integridade estrutural. Se eu suprimir o sinal, não saberei se a calibragem está correta.
+— A integridade estrutural exige fixação profunda, Gabriel — respondeu Dante, apertando um parafuso oxidado com força desumana. O cheiro de metal lixado e sangue encheu o ar. — Meus recursos físicos são limitados aqui. Tive que improvisar com pistões de uma prensa hidráulica quebrada e chapas de aço do revestimento da caldeira.
 
-Dante parou. Ele olhou para Gabo. Seus olhos, antes tão cheios da fúria justa do velho Comissário, agora eram poços de lógica pura.
+Dante parou. Ele olhou para Gabo. Seus olhos, antes tão cheios da fúria justa do velho Comissário, agora eram poços de lógica pura, analisando o trabalho grosseiro.
 
 — Pronto. Levante-se.
 
-Gabo hesitou. A perna parecia pesada, estranha. Ele desceu da mesa. Quando o pé tocou o chão, ele esperou a pontada familiar de agonia.
+Gabo hesitou. A perna parecia uma âncora de navio. Ele desceu da mesa. Quando o pé tocou o chão, o som foi pesado. *Clank*.
 
-Nada.
+Ele deu um passo. O servomotor recuperado gemeu alto, um som de protesto mecânico. O movimento foi brusco, forte, mas sem qualquer graça.
 
-Ele deu um passo. O servomotor zumbiu suavemente, quase imperceptível. O movimento foi fluido, perfeito. Melhor do que sua perna original jamais fora.
+— Eficiência motora restaurada aos parâmetros mínimos — informou Dante, limpando graxa das mãos em um trapo velho. — É feio. É barulhento. É ineficiente. Uma ofensa à engenharia.
 
-— Eficiência aumentada em 42% — informou Dante, limpando as mãos que não estavam sujas. — Removi a folga das juntas e reforcei a estrutura com liga de titânio recuperada dos destroços da Aeterna.
+Gabo olhou para a perna. Era um amontoado de ferro e fios expostos, cicatrizes de solda bruta marcando a superfície. Uma obra de chaveiro, não de cientista.
 
-Gabo olhou para a perna. Era uma obra de arte de engenharia. E ele odiava aquilo.
-
-— Obrigado — disse ele, secamente. — Agora, sobre o "Silêncio".
+— Funciona — disse ele, sentindo o peso familiar do metal ruim. — Eu prefiro assim. Agora, sobre o "Silêncio".
 
 Dante caminhou até o mapa holográfico projetado na mesa central. A mancha negra sobre a Zona Portuária pulsava.
 
