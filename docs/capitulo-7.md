@@ -3,94 +3,70 @@ image: /capitulo_7.jpg
 ---
 # Capítulo 7: O Fim do Silêncio
 
-O som da escopeta ecoou como um trovão na câmara subterrânea. O tiro acertou Kael no peito, fazendo o ciborgue recuar dois passos, a armadura de cerâmica rachando mas segurando o impacto.
+A sala de servidores havia se tornado um inferno branco. O nitrogênio líquido sibilava violentamente, congelando o chão e criando uma neblina tão densa que Gabriel mal podia ver a ponta de sua própria arma.
 
-O visor de Kael brilhou com intensidade letal. Ele avançou novamente, silencioso como a morte.
+Ele avançava agachado, ouvindo. O som das botas pesadas de Kael esmagando o gelo era sua única bússola.
 
-Gabriel rolou para o lado, desviando de um golpe que teria decepado sua cabeça. A lâmina de Kael cortou um tubo de servidor, e gel nutriente e faíscas explodiram sobre eles.
+— Você acha que o frio me para, detetive? — A voz de Kael vinha de toda parte e de lugar nenhum, amplificada pela acústica metálica da sala. — Meus sensores táticos já se adaptaram. Você apenas cavou sua própria cova congelada.
 
-Miranda, em um ato de coragem suicida — ou talvez apenas desespero — sacou sua pistola velha e começou a disparar contra os soldados da Aeterna que bloqueavam a saída.
+Um vulto cortou a neblina à esquerda. Gabriel girou e disparou a *Vilha*. O tiro de escopeta acertou uma torre de servidores, espalhando destroços.
 
-— Saiam daqui! — gritou ele, acertando um soldado no visor.
+Uma lâmina zuniu no ar, errando o pescoço de Gabriel por centímetros e cortando a alça de seu colete. Kael estava rápido demais.
 
-— Não sem você! — gritou Gabriel, recarregando a Vilha com uma mão.
+Gabriel rolou pelo chão escorregadio, batendo as costas contra um tanque de contenção. O vidro vibrou. Dentro, um cérebro pulsava em pânico silencioso.
 
-O holograma de Dante Moretti observava a cena com impassividade, flutuando acima do caos.
+— *Gabo!* — A voz de Val falhou no ouvido. — *A temperatura do núcleo está caindo muito rápido! Se os tanques congelarem, os cérebros morrem. A IA está desviando toda a energia para as travas de segurança!*
 
-*— A resistência é ilógica, Gabriel. Seus batimentos cardíacos estão em 180. A probabilidade de sobrevivência é de 3%.*
+— Isso significa que a porta dos fundos está aberta? — Gabriel gritou, levantando-se.
 
-— Cale a boca! — Gabriel disparou contra o projetor holográfico, mas a luz apenas tremeluziu e se reformou.
+— *Talvez! Mas você tem que passar por ele!*
 
-Kael agarrou Gabriel pelo pescoço e o levantou do chão. A força era esmagadora. Gabriel chutou o ar, tentando encontrar apoio, enquanto sua visão começava a escurecer.
+Kael surgiu da névoa como um demônio de aço. O lado direito de sua armadura estava coberto de escarcha branca. Ele levantou o braço modificado, a serra óssea girando com um guincho agudo.
 
-— Extração do alvo prioritária — uma voz sintética ecoou do traje de Kael. Ele levantou a outra mão, os dedos se transformando em bisturis finos. — Iniciando laparotomia de emergência para recuperação de dados.
+Gabriel não recuou. Ele esperou.
 
-Ele ia abrir Gabriel ali mesmo para pegar o chip.
+Quando Kael atacou, Gabriel pisou em um cabo solto no chão congelado e deslizou intencionalmente para baixo, passando por baixo da guarda do ciborgue.
 
-— *Agora, Maya!* — engasgou Gabriel pelo comunicador.
+Ele encostou o cano serrado da *Vilha* na articulação do joelho de Kael — o único ponto onde a armadura tinha uma fresta para mobilidade.
 
-— *Segura firme, Chefe!*
+— Cirurgia de campo — rosnou Gabriel.
 
-De repente, o sistema de som da sala explodiu em um chiado agudo. As luzes piscaram em um padrão estroboscópico alucinante.
+BOOM.
 
-Maya não estava atacando o firewall da Aeterna. Ela estava atacando *o sistema de resfriamento*.
+A explosão à queima-roupa vaporizou a perna mecânica de Kael. O gigante de metal rugiu — um som de fúria digital — e desabou, o peso de sua armadura arrastando-o para o chão. Fluidos hidráulicos negros jorraram sobre o gelo branco.
 
-Os ventiladores gigantes pararam. A temperatura na sala começou a subir instantaneamente. Os cérebros nos tubos começaram a entrar em choque térmico.
+Gabriel não esperou para ver o estrago. Ele correu até onde Miranda estava encolhido.
 
-O holograma de Dante distorceu.
+— Levanta! — Gabriel puxou o homem pelo colete.
 
-*— Alerta. Temperatura crítica. Integridade do núcleo comprometida.*
+— Eu não consigo... — Miranda estava azul de frio.
 
-A distração foi suficiente. O aperto de Kael afrouxou por um segundo enquanto seus sistemas internos tentavam compensar o calor súbito. Gabriel aproveitou. Ele enfiou o cano da escopeta na articulação do ombro de Kael, onde a armadura era mais fraca, e puxou o gatilho.
+— Você consegue ou morre aqui. Escolha.
 
-A explosão arrancou o braço do ciborgue.
+Eles mancaram em direção à saída de serviço. Atrás deles, Kael tentava se arrastar usando os braços, a serra cortando o chão, gritando promessas de tortura eterna.
 
-Kael emitiu um guincho de metal torturado e estática. Ele soltou Gabriel e recuou, fluido hidráulico jorrando.
+Eles atravessaram a porta de manutenção e caíram na escuridão úmida dos túneis de esgoto da represa.
 
-— Vamos! — Gabriel agarrou Miranda, que estava sangrando de um tiro na coxa.
+A fuga foi um borrão de dor e sujeira. Eles correram por quilômetros de galerias subterrâneas, com a água fétida na altura da cintura. Ratos do tamanho de gatos passavam por eles, fugindo da enchente tóxica que a sabotagem na represa havia causado.
 
-Eles correram para a saída de serviço enquanto a sala de servidores começava a derreter. O holograma de Dante gritava comandos que ninguém obedecia.
+Gabriel carregava Miranda quase inteiramente agora. O ex-parceiro estava delirando, murmurando códigos e nomes de pessoas mortas.
 
-*— Não! Vocês não podem me desligar! Eu sou a eternidade!*
+Quando finalmente encontraram uma saída — uma grade enferrujada que dava para um beco na Zona Industrial — a noite já estava alta. A chuva caía pesada, lavando o lodo do esgoto, mas não o cheiro.
 
-— Você é só um backup corrompido, pai — murmurou Gabriel.
+Eles caíram no asfalto molhado, exaustos.
 
-Eles saíram para a chuva fria da noite, deixando o inferno para trás. Atrás deles, uma explosão surda sacudiu o chão quando os capacitores da represa sobrecarregaram.
+Gabriel checou o pulso de Miranda. Fraco, mas presente. O ferimento na perna estava feio, a infecção já se espalhando pelas veias escuras.
 
-Eles caíram na lama da margem, tossindo água podre. O cheiro do esgoto impregnava cada poro. Gabriel arrancou a camisa encharcada, a pele ardendo onde o lodo tóxico tocara. Ele ajudou Miranda a lavar o ferimento na coxa com a água da chuva, que, embora ácida, era mais limpa que o conteúdo dos túneis. Eles tremiam, não só de frio, mas de choque. A adrenalina dava lugar à náusea.
+— *Gabo...* — Val sussurrou no rádio, sua voz exausta. — *Vocês saíram? Eu perdi o sinal por dez minutos. Achei que...*
 
-***
+— Estamos vivos, Val. — Gabriel tossiu, cuspindo bile. — Mas por pouco.
 
-**Dias Depois.**
+Ele olhou para a silhueta da Torre Aeterna no horizonte, brilhando com sua arrogância neon, intocada. Eles tinham machucado a besta, sim. Mas ela ainda estava faminta.
 
-O apartamento de Gabriel era pequeno, cheirava a café velho e pizza fria, mas era seguro. Ele estava sentado no sofá, olhando para a chuva na janela.
+Gabriel levantou Miranda mais uma vez, gemendo com a dor em suas próprias costelas quebradas.
 
-O chip ainda estava dentro dele. Os médicos da DPBC disseram que seria perigoso remover sem cirurgia avançada, e Gabriel não confiava em nenhum hospital da cidade.
+— Vamos, Roberto. Tem uma clínica clandestina a duas quadras daqui. O "Doutor" não faz perguntas se pagarmos em dinheiro vivo.
 
-— Você está carregando uma bomba-relógio no estômago — disse Maya, sentada na poltrona oposta, digitando em seu laptop. — Se a Aeterna descobrir que o chip sobreviveu...
+Ele tateou o bolso interno do casaco. O chip de dados ainda estava lá, frio e duro contra seu peito. A verdade.
 
-— Eles acham que queimou junto com a represa — disse Gabriel. — O relatório oficial diz que foi um "acidente industrial catastrófico". Elara Vance está ocupada demais tentando explicar aos acionistas por que a IA da cidade ficou burra de repente.
-
-— O sistema Ecos foi reiniciado para os padrões de fábrica — confirmou Maya. — A "consciência" do seu pai... se foi.
-
-Gabriel tocou o estômago.
-
-— Não se foi. Está aqui. O código fonte. A humanidade dele.
-
-— E o Miranda?
-
-— Sumiu. Deixou um bilhete dizendo que ia para o Norte. Melhor assim. Se eu o vir de novo, vou ter que prendê-lo.
-
-Maya fechou o laptop.
-
-— E agora, Gabo? A cidade ainda é podre. A Aeterna ainda manda em tudo. Nós só demos um soco no olho do gigante.
-
-Gabriel se levantou e foi até a janela. Baía Cinzenta se estendia abaixo dele, um oceano de luzes e sombras. O crime continuava. A corrupção continuava. Mas algo havia mudado.
-
-Eles sabiam que o gigante sangrava.
-
-— Agora? — Gabriel sorriu, e seus olhos refletiram o neon da rua. — Agora a gente começa o Jogo de verdade. Eles tiraram meu pai de mim duas vezes. Eu não vou deixar eles levarem mais ninguém.
-
-Ele pegou seu distintivo e o prendeu no cinto.
-
-— Prepare os café, Glitch. Vai ser uma noite longa.
+Gabriel começou a caminhar sob a chuva, arrastando seu fardo. Não houve vitória naquela noite. Apenas sobrevivência. E em Baía Cinzenta, isso era o máximo que se podia esperar.
