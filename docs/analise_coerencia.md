@@ -1,6 +1,6 @@
 # Relatório de Análise de Coerência e Narrativa
 
-> **Data da Análise:** Pós-Capítulo 106
+> **Data da Análise:** Pós-Capítulo 108
 > **Status:** Aprovado com Ressalvas (Monitoramento Contínuo)
 
 ---
@@ -22,17 +22,22 @@
 *   **Análise:** Ch. 106 estabelece o conflito central. Dante é a imposição de controle; Aria é a aceitação do fluxo. Enquanto Dante usa câmeras e drones para vigiar, Aria usa o "Silêncio" para esconder. Eles são opostos ideológicos perfeitos.
 *   **Veredito:** ✅ Novo Arco Estabelecido com Sucesso.
 
+### Inspetor Rangel vs. A Instituição
+*   **Dinâmica:** "O Burocrata que Acordou".
+*   **Análise:** Rangel sempre foi o "homem do sistema", obedecendo ordens para manter a ordem. No Ch. 108, ao ver a ordem se tornar tirania (ataque a civis), ele quebra. Sua deserção não é heroísmo impulsivo, mas o limite ético de um homem comum.
+*   **Veredito:** ✅ Desenvolvimento de Personagem Excelente.
+
 ---
 
 ## 2. Verificação de Integridade de Personagem (Character Integrity Check)
 
 ### O "Fator Nicotina" (Gabo e o Cigarro)
 *   **Regra Canônica:** Gabo odeia cigarro. Nunca fumou.
-*   **Verificação de Texto (Grep Audit Completo - Ch 1-106):**
+*   **Verificação de Texto (Grep Audit Completo - Ch 1-108):**
     *   *Capítulo 1:* Referência explícita ao ódio pelo vício do pai.
     *   *Capítulo 51:* Vilar fuma; Gabo se incomoda com a fumaça.
     *   *Capítulo 105:* Gabo nota a ausência de manchas de nicotina na mão do novo Dante como sinal de artificialidade.
-    *   *Capítulo 106:* Nenhuma violação encontrada.
+    *   *Capítulo 106-108:* Nenhuma violação encontrada.
 *   **Conclusão:** A regra foi estritamente respeitada em todos os capítulos.
 *   **Veredito:** ✅ 100% Coerente.
 
@@ -49,6 +54,9 @@ A narrativa evoluiu de Biopunk (carne como hardware) para um conflito teológico
 
 ### Veredito
 A expansão mantém a coerência interna. O mundo está ficando mais estranho, mas segue suas próprias regras.
+
+### Resistência Analógica (Ratos de Cais)
+A introdução de armas sônicas e contramedidas analógicas (tambores, máscaras improvisadas) no Ch. 108 enriquece o cenário. Mostra que a resistência não é apenas "hackers", mas engenharia de guerrilha física.
 
 ---
 
