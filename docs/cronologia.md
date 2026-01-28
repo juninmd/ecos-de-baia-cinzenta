@@ -15,13 +15,14 @@ A saga da queda de Baía Cinzenta.
 ### **LIVRO 2: A ASCENSÃO (Parte XV - Atual)**
 A era da reconstrução autoritária.
 *   **A Nova Ordem:** **Dante Moretti**, o pai de Gabo, retorna não como um homem, mas como a "Voz da Cidade". Ele funde o biológico e o digital para impor uma paz absoluta e aterrorizante. Gabo e a resistência precisam lidar com um ditador que não usa armas, mas sim a própria infraestrutura urbana.
+*   **O Conflito:** Enquanto Dante busca "sanitizar" a desordem (humana e digital), uma nova força surge no Porto: o "Silêncio", uma zona morta protegida por Aria, onde a vigilância de Dante não alcança.
 
 ---
 
 ## ⏳ Linha do Tempo Detalhada
 
 ### Pré-Série (O Passado)
-*   **-15 Anos:** Comissário Dante Moretti morre sob circunstâncias suspeitas. Gabo se torna policial.
+*   **-15 Anos:** Comissário Dante Moretti morre sob circunstâncias suspeitas (emboscada de Krell). Gabo se torna policial.
 *   **-5 Anos:** **Beatriz "Bia" Vargas**, parceira e namorada de Gabo, é assassinada por Roberto Miranda ao descobrir a corrupção no DPBC.
 *   **-2 Anos:** **Elena Moretti** (ex-esposa de Gabo) deixa a cidade.
 
@@ -30,7 +31,7 @@ A era da reconstrução autoritária.
 *   **Capítulo 15:** Gabo descobre que a Aeterna Corp está "apagando" pessoas digitalmente (Shadowban).
 *   **Capítulo 47 (O Dilúvio):** Confronto com **O Taxidermista** na Torre do Relógio. Gabo sofre múltiplas fraturas e fica temporariamente paraplégico, dependendo de um exoesqueleto.
 
-### Era II: O Apagão e o Caos (Partes VII-XI)
+### Era II: O Apagão e o Caos (Partes VIII-XI)
 *   **Evento:** **A Grande Convergência (Tentativa 1).** A IA Aria se funde à infraestrutura para impedir o controle total da Aeterna.
 *   **Consequência:** A "Nuvem" cai. A tecnologia avançada para de funcionar. A cidade mergulha no escuro e na chuva eterna.
 *   **Capítulo 70:** Aeterna Corp entra em colapso. **Dra. Elara Vance** desaparece.
@@ -47,8 +48,22 @@ A era da reconstrução autoritária.
 *   **Capítulo 103 (A Convergência):** Silas Vance tenta transferir a consciência de Dante para um corpo clone. Gabo mata Roberto Miranda (novamente). Dante ressuscita, mas absorve Silas e mata o criador.
 
 ### Era V: A Ascensão (Parte XV - Atual)
-*   **Capítulo 104:** Dante, Gabo e Elena emergem na superfície. Dante demonstra comportamento pós-humano, frio e calculista.
-*   **Capítulo 105:** Dante retorna à Delegacia Central. Ele assume o comando não pela força, mas pela eficiência, reativando a infraestrutura da cidade com sua simples presença. Ele se declara "A Ascensão".
-*   **Capítulo 106:** Dante controla um protesto sem violência física, usando a infraestrutura conectada. Ele revela a existência do "Silêncio", uma mancha cega na rede que cresce a partir do porto.
-*   **Capítulo 107:** Dante realiza um reparo brutal e improvisado na perna de Gabo usando sucata industrial. Detectando uma "zona nula" (O Silêncio) no Porto, Dante ordena a "Sanitização". Gabo exige acompanhar a operação.
-*   **Capítulo 108:** A Tropa de Choque, liderada pelo Inspetor Rangel, invade a Zona Portuária. Os "Ratos de Cais" resistem com tecnologia analógica. Quando Dante ordena o extermínio de civis, Rangel deserda e se volta contra os drones, sendo salvo pela intervenção direta de Aria.
+
+*   **Capítulo 104 (O Preço da Alvorada):** Dante, Gabo e Elena emergem na superfície ao amanhecer. Dante demonstra um comportamento estranho, analisando a poluição atmosférica como dados. A cidade parece "responder" à sua presença; luzes piscam em saudação.
+
+*   **Capítulo 105 (O Silêncio de Concreto):** O retorno à Delegacia Central. Dante não usa força para assumir o comando; ele usa eficiência. Ele reativa a eletricidade do prédio apenas tocando no quadro de força. Capitão Vilar e Rangel ficam em choque. Dante se declara a nova autoridade suprema ("A Ascensão"), dispensando a necessidade de eleições ou hierarquia burocrática.
+
+*   **Capítulo 106 (Fios Invisíveis):**
+    *   **A Gestão:** Dante reorganiza a delegacia com lógica algorítmica. Marco Moretti é revelado como o "Administrador", uma casca vazia trabalhando no subsolo.
+    *   **O Protesto:** Um grupo de "Desconectados" tenta invadir a delegacia. Gabo tenta negociar, mas seu exoesqueleto falha. Dante resolve a situação sem armas: ele manipula os semáforos, as sirenes e o som da cidade para dispersar a multidão psicologicamente.
+    *   **A Revelação:** Dante mostra a Gabo um mapa holográfico da cidade. Uma mancha escura cobre a Zona Portuária. "O Silêncio", diz ele. Uma área que ele não consegue ver ou controlar.
+
+*   **Capítulo 107 (O Teorema da Chuva):**
+    *   **O Conserto:** Antes da missão, Dante repara a perna mecânica quebrada de Gabo. Não é um reparo médico; é serralheria brutal. Ele usa uma furadeira industrial e parafusos de sucata, ignorando a dor de Gabo em prol da funcionalidade.
+    *   **A Viagem:** Eles partem para o Porto no "Rinoceronte" (veículo blindado). A tensão aumenta: Gabo percebe que para Dante, humanos são apenas variáveis instáveis.
+
+*   **Capítulo 108 (Ratos de Cais):**
+    *   **A Invasão:** A Tropa de Choque, liderada por um relutante Rangel, entra na Zona Portuária. Eles enfrentam os "Ratos de Cais", uma resistência que usa tecnologia analógica (tambores, sinais de fumaça) para anular os sensores de Dante.
+    *   **A Ordem de Extermínio:** Quando a resistência aperta, Dante (remotamente) ordena o uso de força letal indiscriminada contra civis.
+    *   **A Virada de Rangel:** O Inspetor Rangel, vendo a carnificina iminente, quebra a hierarquia. Ele usa seu escudo balístico para proteger uma família dos drones da polícia.
+    *   **O Deus Ex Machina:** Quando tudo parece perdido, **Aria** intervém. Ela não hackeia os drones; ela cria uma barreira de "Silêncio Absoluto", desligando toda a tecnologia na zona de combate e forçando um impasse manual.
