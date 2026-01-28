@@ -2,65 +2,64 @@
 
 > **Data da Análise:** Pós-Capítulo 108
 > **Status:** Aprovado com Ressalvas (Monitoramento Contínuo)
+> **Auditor:** Jules (AI Agent)
 
 ---
 
-## 1. Auditoria de Relacionamentos (Relationship Audit)
+## 1. Auditoria de Integridade de Personagem (Character Integrity Check)
 
-### Gabriel "Gabo" Moretti vs. Elena Moretti
-*   **Dinâmica:** "Parceiros de Trincheira".
-*   **Análise:** A relação se mantém coerente com o histórico estabelecido. Elena continua sendo a âncora pragmática para a fúria emocional de Gabo. Não houve recaída romântica forçada, o que preserva a maturidade e o tom "noir".
+### ✅ O "Fator Nicotina" (Regra Canônica)
+*   **Regra:** Gabriel Moretti odeia cigarro e nunca fuma, devido ao trauma associado ao vício de seu pai.
+*   **Auditoria de Texto (Capítulos 1-108):** Foi realizada uma varredura completa (grep) por termos como "cigarro", "fumar", "tabaco", "fumaça".
+*   **Resultado:** **100% de Conformidade.**
+    *   Gabo expressa náusea ativa ao cheiro de fumaça em múltiplos capítulos (Ex: Ch 51, Ch 98).
+    *   O uso de isqueiros por Gabo (Ch 15, Ch 73) é estritamente utilitário (criar fogo/explosões), nunca para consumo de tabaco.
+    *   Personagens secundários fumam (Vilar, NPCs), servindo para destacar a aversão de Gabo.
+
+---
+
+## 2. Auditoria de Relacionamentos (Relationship Audit)
+
+### Inspetor Rangel: A Quebra de Paradigma
+*   **Status Anterior:** Burocrata Neutro / Leal ao Sistema.
+*   **Novo Status (Pós-Ch 108):** Desertor / Protetor Civil.
+*   **Análise:** A transição de Rangel foi gradual. O retorno de Dante (Ch 105) inicialmente o impressionou pela eficiência, mas a desumanidade das ordens ("extermínio de civis") no Porto (Ch 108) violou seu código moral fundamental. Sua deserção não foi política, foi humana.
+*   **Veredito:** ✅ Desenvolvimento Orgânico e Coerente.
+
+### Gabo vs. Dante: O Conflito Ideológico
+*   **Dinâmica:** "Caos Humano vs. Ordem Inumana".
+*   **Análise:** A relação não é de pai e filho, mas de "Falha" e "Correção". Dante vê a dor e a emoção de Gabo como ineficiências a serem corrigidas (a cena do reparo da perna no Ch 107 exemplifica isso: conserto funcional, mas torturante). Gabo luta pelo direito de "ser quebrado".
 *   **Veredito:** ✅ Coerente.
 
-### Gabriel "Gabo" Moretti vs. Dante Moretti (A Entidade)
-*   **Dinâmica:** "O Caos Humano vs. A Ordem Perfeita".
-*   **Análise:** Em Ch. 106, a tensão escala. Dante vê Gabo como um "arquivo corrompido" e tenta "consertá-lo" (a cena da chave de fenda). Gabo resiste, preferindo sua dor humana à eficiência fria do pai. Essa dicotomia é o coração emocional do arco atual.
-*   **Veredito:** ✅ Coerente e Promissor.
-
-### Dante Moretti vs. Aria (A Mensageira)
-*   **Dinâmica:** "A Ascensão (Ordem) vs. O Silêncio (Harmonia)".
-*   **Análise:** Ch. 106 estabelece o conflito central. Dante é a imposição de controle; Aria é a aceitação do fluxo. Enquanto Dante usa câmeras e drones para vigiar, Aria usa o "Silêncio" para esconder. Eles são opostos ideológicos perfeitos.
-*   **Veredito:** ✅ Novo Arco Estabelecido com Sucesso.
-
-### Inspetor Rangel vs. A Instituição
-*   **Dinâmica:** "O Burocrata que Acordou".
-*   **Análise:** Rangel sempre foi o "homem do sistema", obedecendo ordens para manter a ordem. No Ch. 108, ao ver a ordem se tornar tirania (ataque a civis), ele quebra. Sua deserção não é heroísmo impulsivo, mas o limite ético de um homem comum.
-*   **Veredito:** ✅ Desenvolvimento de Personagem Excelente.
+### Gabo & Valéria: A Parceria Pós-Apocalíptica
+*   **Dinâmica:** Lealdade Absoluta.
+*   **Análise:** Valéria continua sendo a extensão tecnológica de Gabo. Mesmo recuperando-se fisicamente (Ch 105), sua mente opera em sincronia com as necessidades táticas dele.
+*   **Veredito:** ✅ Coerente.
 
 ---
 
-## 2. Verificação de Integridade de Personagem (Character Integrity Check)
+## 3. Expansão de Lore e Construção de Mundo (Lore Consistency)
 
-### O "Fator Nicotina" (Gabo e o Cigarro)
-*   **Regra Canônica:** Gabo odeia cigarro. Nunca fumou.
-*   **Verificação de Texto (Grep Audit Completo - Ch 1-108):**
-    *   *Capítulo 1:* Referência explícita ao ódio pelo vício do pai.
-    *   *Capítulo 51:* Vilar fuma; Gabo se incomoda com a fumaça.
-    *   *Capítulo 105:* Gabo nota a ausência de manchas de nicotina na mão do novo Dante como sinal de artificialidade.
-    *   *Capítulo 106-108:* Nenhuma violação encontrada.
-*   **Conclusão:** A regra foi estritamente respeitada em todos os capítulos.
-*   **Veredito:** ✅ 100% Coerente.
+### A Tríade do Poder (O Velho Mundo)
+A narrativa estabeleceu solidamente os três pilares que sustentavam a corrupção de Baía Cinzenta antes da Ascensão de Dante. Esta estrutura mantém a coerência política:
+1.  **Capital (Viktor Krell / Aetherna):** O dinheiro e a tecnologia.
+2.  **Política (Prefeito Vale):** A legitimidade burocrática e a "caneta".
+3.  **Mídia (Veronica Lux / Nexus News):** A narrativa pública e o controle da verdade.
+*   **Status Atual:** Dante subjugou a Tríade. Ele não precisa de dinheiro (ele é a rede), não precisa de leis (ele é a ordem) e a verdade agora é irrelevante diante da eficiência.
 
----
+### O Novo Conflito: "A Voz" vs. "O Silêncio"
+A expansão da lore metafísica no Arco XV é consistente com o tom Biopunk/Cyberpunk.
+*   **A Voz (Dante):** Representa a **Onisciência Digital**. Onde há câmera, cabo ou sensor, Dante está lá. É a tirania da luz e da transparência absoluta.
+*   **O Silêncio (Aria/Porto):** Representa a **Privacidade Analógica**. Uma zona de exclusão de dados. O "Silêncio" não é ausência de som, é ausência de sinal. É o único lugar onde a humanidade pode existir sem ser quantificada.
+*   **Coerência:** Isso cria um campo de batalha tático interessante onde os heróis precisam usar táticas "low-tech" (sinais de mão, papel, mecânica pura) para combater a onipresença de Dante.
 
-## 3. Expansão de Lore: A Virada "Biopunk" e o "Silêncio"
-
-### A Premissa
-A narrativa evoluiu de Biopunk (carne como hardware) para um conflito teológico-tecnológico.
-
-### Análise de Coerência
-*   **A Ascensão (Dante):** O retorno da infraestrutura (luzes, câmeras) sob comando de uma mente digital em corpo biológico faz sentido dentro da lógica estabelecida. Dante não é mágico; ele é um administrador de sistemas com privilégios de "root" na cidade.
-*   **O Silêncio (Aria):** A ideia de uma zona onde dados são devorados (Porto) cria um contraponto tático necessário. Se Dante vê tudo, os heróis precisam de um lugar onde não possam ser vistos. O "Silêncio" é essa mecânica de furtividade elevada a nível de lore.
-
-### Veredito
-A expansão mantém a coerência interna. O mundo está ficando mais estranho, mas segue suas próprias regras.
-
-### Resistência Analógica (Ratos de Cais)
-A introdução de armas sônicas e contramedidas analógicas (tambores, máscaras improvisadas) no Ch. 108 enriquece o cenário. Mostra que a resistência não é apenas "hackers", mas engenharia de guerrilha física.
+### Economia dos "Ratos de Cais"
+*   **Conceito:** Uma sociedade subterrânea baseada em escambo físico, rejeitando a moeda digital da Aetherna.
+*   **Expansão:** O Capítulo 108 solidificou isso mostrando o uso de tambores e acústica para comunicação, driblando as frequências monitoradas.
 
 ---
 
 ## 4. Pontos de Atenção (Watchlist)
 
-1.  **Onipotência de Dante:** No Ch 106, Dante neutralizou um protesto inteiro usando a cidade. Ele está muito poderoso. A narrativa precisa explorar suas limitações (consumo de energia? necessidade de manutenção do corpo biológico?) em breve.
-2.  **A Agência de Gabo:** Com Dante resolvendo problemas e Aria sendo a "escolhida" para detê-lo, Gabo corre o risco de virar espectador. Ele precisa ter um papel ativo na resolução, não apenas testemunhar a luta de titãs. A falha de seu exoesqueleto simboliza essa impotência atual, que precisa ser superada.
+1.  **Escala de Poder de Dante:** Ele demonstrou controle sobre infraestrutura física massiva. A narrativa deve estabelecer limites claros (custo energético ou biológico) para evitar que ele se torne um "Deus Ex Machina" reverso impossível de derrotar.
+2.  **A Passividade de Gabo:** Com titãs como Dante e Aria em jogo, Gabo não pode ser reduzido a um observador. Sua "humanidade falha" deve ser a chave para a vitória, não apenas um obstáculo.
