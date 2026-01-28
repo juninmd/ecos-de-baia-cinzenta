@@ -45,25 +45,59 @@ Ele apontou para o porto.
 
 — O medo é calculável. O que está lá não é medo. É... nulidade. — Dante estreitou os olhos. — Detectei padrões de interferência. Alguém construiu uma Jaula de Faraday em escala urbana. Eles estão bloqueando a "Voz da Cidade". E o que não pode ser monitorado, não pode ser controlado.
 
-Dante virou-se para a porta, onde o Inspetor Rangel aguardava com uma prancheta, parecendo aterrorizado.
+Dante virou-se para a porta.
 
-— Rangel, inicie o Protocolo de Sanitização. Mobilize as unidades de controle de distúrbio. Ativar drones classe "Sentinela".
+— Rangel, prepare o transporte. Vamos iniciar o Protocolo de Sanitização.
 
-— Espera — Gabo deu um passo à frente. O zumbido da perna nova foi o único som. — "Sanitização"? O que isso significa?
+***
 
-— Significa limpar a infecção — disse Dante. — Vamos remover a obstrução.
+**Em Trânsito - Viatura Blindada "Rinoceronte"**
 
-— Você vai mandar um exército para cima de refugiados? — gritou Gabo.
+O interior do blindado cheirava a suor velho, óleo diesel e medo. Não havia janelas, apenas telas táticas que mostravam a chuva varrendo as ruas vazias lá fora.
 
-— Eu vou mandar a ordem para cima do caos.
+O veículo sacudia violentamente a cada buraco no asfalto degradado da Zona Industrial. Gabo estava sentado no banco de metal, segurando o rifle entre os joelhos. Sua perna nova pulsava com uma dor surda, rítmica, sincronizada com a vibração do motor.
 
-Gabo agarrou o braço de Dante. O toque foi como segurar uma estátua de gelo.
+Ele olhou para Dante.
 
-— Eu vou junto — disse Gabo. — Se você disparar um tiro sem minha autorização, eu juro por Deus, Dante... eu arranco essa perna nova e bato na sua cabeça com ela.
+O Comissário estava sentado em frente a ele, imóvel. Enquanto Gabo balançava com o movimento do veículo, Dante permanecia perfeitamente estático, seu corpo compensando cada solavanco com microajustes imperceptíveis. Ele nem piscava.
 
-Dante olhou para a mão de Gabo em seu braço. Depois, para os olhos do filho.
+— Você não sente? — perguntou Gabo, tentando quebrar o silêncio opressivo.
 
-— Sua presença é... estatisticamente irrelevante para o resultado. Mas pode servir como fator de mitigação de estresse para a população civil. Aceito.
+— O quê? — Dante não moveu a cabeça.
+
+— O cheiro. A vibração. O desconforto.
+
+— Eu registro os dados sensoriais — respondeu Dante. — Mas não atribuo valor emocional a eles. O desconforto é apenas um sinal de que o ambiente é subótimo.
+
+Gabo riu, um som seco. Ele tirou um cantil amassado do bolso e tomou um gole de água morna. Sua garganta estava seca.
+
+— É isso que nos separa, pai. Você quer otimizar o mundo. Eu só estou tentando sobreviver a ele.
+
+— A sobrevivência é o nível mais baixo de existência, Gabriel. É o instinto do animal. Eu ofereço evolução.
+
+— Você oferece correntes.
+
+O veículo freou bruscamente. Pneus cantaram no asfalto molhado.
+
+— Estamos chegando ao perímetro — anunciou a voz de Rangel pelo intercomunicador. — A partir daqui, estamos cegos. Os drones perderam o link.
+
+Gabo olhou para a tela tática. A imagem estava cheia de estática, chuviscos digitais engolindo o mapa. Eles estavam entrando na zona morta.
+
+A porta traseira do blindado se abriu com um silvo hidráulico.
+
+O ar frio e úmido entrou, trazendo o cheiro do mar e de lixo queimado. A chuva caía pesada, tamborilando no teto de metal.
+
+Dante se levantou.
+
+— Mantenha-se atrás de mim — disse ele. — Suas reações biológicas são lentas.
+
+Gabo engatilhou a arma, a dor na perna gritando quando ele pisou no asfalto.
+
+— Vamos logo com isso. Antes que eu desista e te dê um tiro nas costas.
+
+— A probabilidade de você fazer isso é de 12.4% — disse Dante, descendo a rampa. — E a probabilidade de sucesso é zero.
+
+Eles avançaram para a escuridão do porto.
 
 ***
 
@@ -97,6 +131,6 @@ Aria sorriu. Um sorriso triste, de quem sabe o preço do que está por vir.
 
 — O erro humano.
 
-No horizonte, as luzes dos drones da polícia surgiram como um enxame de vaga-lumes assassinos, cortando a chuva em direção ao porto.
+No horizonte, as luzes dos faróis do Rinoceronte surgiram como olhos de um monstro na neblina, cortando a chuva em direção ao porto.
 
 A Linha de Corte havia sido traçada.
