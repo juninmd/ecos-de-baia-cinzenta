@@ -9,6 +9,15 @@ Este documento mantém um registro da avaliação de qualidade narrativa, ritmo 
 
 ## 🟢 Arco Atual: Partes XIV & XV (O Vazio / A Ascensão)
 
+### Capítulo 109: Frequência Fantasma
+*   **Nota:** ⭐ **9.3/10**
+*   **Pontos Fortes:**
+    *   **Tensão Psicológica:** A confusão de Rangel ao ver o rosto de Bia em Aria adiciona uma camada emocional profunda.
+    *   **Power-Scaling:** Mostra que Aria não precisa de força física; sua mente é a arma, o que contrasta perfeitamente com a brutalidade do blindado Rinoceronte.
+    *   O diálogo final ("Agora é o nosso caixão móvel") estabelece a urgência imediata.
+*   **Pontos Fracos:**
+    *   A fuga no veículo acontece um pouco rápido demais, sem mostrar muito dos obstáculos no caminho, mas o foco estava na tensão interna da cabine.
+
 ### Capítulo 108: Ratos de Cais
 *   **Nota:** ⭐ **9.4/10**
 *   **Pontos Fortes:**
