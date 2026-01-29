@@ -2,7 +2,5 @@
   command = "npm run docs:build"
   publish = "docs/.vitepress/dist"
 
-[[headers]]
-  for = "/*"
-  [headers.values]
-    Cache-Control = "public, max-age=0, must-revalidate"
+[context.production]
+  environment = { NODE_VERSION = "20" }

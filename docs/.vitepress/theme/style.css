@@ -633,3 +633,28 @@
   pointer-events: none;
   z-index: 1;
 }
+
+/* ============================================
+   READER MODE
+   ============================================ */
+body.reader-mode-active .VPSidebar,
+body.reader-mode-active .VPDocAside,
+body.reader-mode-active .VPLocalNav,
+body.reader-mode-active .VPNav {
+  display: none !important;
+}
+
+body.reader-mode-active .VPContent {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  padding-top: 40px !important;
+}
+
+body.reader-mode-active .VPDoc {
+  max-width: 800px !important;
+  margin: 0 auto;
+}
+
+body.reader-mode-active .vp-doc h1 {
+  margin-top: 2rem;
+}
