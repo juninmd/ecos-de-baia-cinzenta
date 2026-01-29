@@ -1,72 +1,193 @@
+/* ============================================
+   ECOS DE BAÍA CINZENTA - Cyberpunk Noir Theme
+   ============================================ */
+
+/* ---------- CSS Variables (Design Tokens) ---------- */
 :root {
+  /* Typography */
   --vp-font-family-base: "Merriweather", "Georgia", serif;
-  --vp-c-bg: #fdfbf7; /* Off-white, paper-like background */
-  --vp-c-text-1: #2c3e50; /* Dark blue-grey text */
-  --vp-c-brand: #8e44ad; /* Noir purple accent */
+  --vp-font-family-display: "Orbitron", "Rajdhani", sans-serif;
+  --vp-font-family-mono: "Fira Code", monospace;
+
+  /* Light Mode (off-white paper) */
+  --vp-c-bg: #fdfbf7;
+  --vp-c-bg-soft: #f5f2eb;
+  --vp-c-text-1: #2c3e50;
+  --vp-c-text-2: #4a5568;
+  --vp-c-brand: #8e44ad;
   --vp-c-brand-light: #a569bd;
+  --vp-c-brand-dark: #6c3483;
 }
 
-/* Dark mode overrides for noir feel */
+/* Dark Mode - The TRUE Noir Experience */
 .dark {
-  --vp-c-bg: #111111;
-  --vp-c-text-1: #e0e0e0;
+  /* Backgrounds */
+  --vp-c-bg: #0a0a0f;
+  --vp-c-bg-soft: #12121a;
+  --vp-c-bg-mute: #1a1a24;
+  --vp-c-bg-alt: #0d0d14;
+
+  /* Neon Palette */
+  --neon-purple: #a855f7;
+  --neon-purple-light: #c084fc;
+  --neon-purple-dark: #7c3aed;
+  --neon-cyan: #06b6d4;
+  --neon-cyan-light: #22d3ee;
+  --neon-red: #ef4444;
+  --neon-green: #10b981;
+  --neon-amber: #f59e0b;
+
+  /* VitePress overrides */
+  --vp-c-text-1: rgba(255, 255, 255, 0.92);
+  --vp-c-text-2: rgba(255, 255, 255, 0.7);
+  --vp-c-text-3: rgba(255, 255, 255, 0.5);
+  --vp-c-brand: var(--neon-purple);
+  --vp-c-brand-light: var(--neon-purple-light);
+  --vp-c-brand-dark: var(--neon-purple-dark);
+
+  /* Dividers */
+  --vp-c-divider: rgba(168, 85, 247, 0.15);
+  --vp-c-divider-light: rgba(168, 85, 247, 0.08);
+
+  /* Hero gradient */
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: linear-gradient(135deg, var(--neon-purple-light) 0%, var(--neon-cyan) 100%);
+
+  /* Button gradients */
+  --vp-button-brand-bg: linear-gradient(135deg, var(--neon-purple) 0%, var(--neon-purple-dark) 100%);
+  --vp-button-brand-hover-bg: linear-gradient(135deg, var(--neon-purple-light) 0%, var(--neon-purple) 100%);
 }
 
-/* Typography Improvements */
+/* ---------- Global Background Effects ---------- */
+.dark body {
+  background:
+    /* Subtle noise texture */
+    url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='4' /%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.03'/%3E%3C/svg%3E"),
+    /* Gradient base */
+    linear-gradient(180deg, #0a0a0f 0%, #0d0d18 50%, #0a0a0f 100%);
+  background-attachment: fixed;
+}
+
+/* Scanline effect overlay (subtle) */
+.dark .VPContent::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  background: repeating-linear-gradient(0deg,
+      transparent,
+      transparent 2px,
+      rgba(0, 0, 0, 0.03) 2px,
+      rgba(0, 0, 0, 0.03) 4px);
+  z-index: 9998;
+}
+
+/* ---------- Typography ---------- */
 .vp-doc p {
   text-align: justify;
-  line-height: 1.8;
-  font-size: 1.15rem; /* Increased for readability, slightly adjusted */
+  line-height: 1.9;
+  font-size: 1.15rem;
   margin-bottom: 1.5em;
   font-weight: 300;
   font-family: "Merriweather", serif;
+  letter-spacing: 0.01em;
 }
 
-/* Heading Typography */
+/* Heading Typography - Now with GLOW */
 .vp-doc h1 {
-  font-family: "Playfair Display", serif;
+  font-family: "Orbitron", "Playfair Display", serif;
   font-weight: 700;
-  font-size: 2.8rem;
+  font-size: 2.6rem;
   text-align: center;
-  border-bottom: 2px solid var(--vp-c-brand-light); /* Added subtle separator */
   margin-bottom: 2.5rem;
   padding-bottom: 1rem;
   color: var(--vp-c-text-1);
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  position: relative;
+}
+
+.dark .vp-doc h1 {
+  text-shadow:
+    0 0 10px rgba(168, 85, 247, 0.5),
+    0 0 30px rgba(168, 85, 247, 0.3),
+    0 0 60px rgba(168, 85, 247, 0.1);
+  border-bottom: 2px solid transparent;
+  background: linear-gradient(var(--vp-c-bg), var(--vp-c-bg)) padding-box,
+    linear-gradient(90deg, transparent, var(--neon-purple), transparent) border-box;
 }
 
 .vp-doc h2 {
-  font-family: "Playfair Display", serif;
+  font-family: "Orbitron", "Playfair Display", serif;
   margin-top: 3em;
   margin-bottom: 1em;
-  border-bottom: 1px solid var(--vp-c-brand-light);
-  display: inline-block;
-  padding-right: 1rem;
-  font-size: 1.8rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  position: relative;
+  padding-left: 1rem;
+}
+
+.dark .vp-doc h2::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 4px;
+  height: 70%;
+  background: linear-gradient(180deg, var(--neon-purple), var(--neon-cyan));
+  border-radius: 2px;
+  box-shadow: 0 0 10px var(--neon-purple);
 }
 
 .vp-doc h3 {
   font-family: "Playfair Display", serif;
   margin-top: 2em;
   font-style: italic;
-  font-size: 1.4rem;
+  font-size: 1.35rem;
+  color: var(--vp-c-text-2);
 }
 
-/* Blockquotes styling for letters/documents */
+/* Blockquotes - Noir Letter Style */
 .vp-doc blockquote {
   border-left: 4px solid var(--vp-c-brand);
   font-style: italic;
-  background: rgba(142, 68, 173, 0.08); /* Slightly more visible bg */
   padding: 1.5rem 2rem;
-  border-radius: 4px;
+  border-radius: 0 8px 8px 0;
   margin: 2rem 0;
   font-family: "Playfair Display", serif;
   color: var(--vp-c-text-1);
-  box-shadow: 2px 2px 10px rgba(0,0,0,0.05); /* Paper lift effect */
+  position: relative;
+  overflow: hidden;
 }
 
-/* Emphasize actions/sound effects */
-.vp-doc em {
-  color: var(--vp-c-brand);
+.dark .vp-doc blockquote {
+  background: linear-gradient(135deg, rgba(168, 85, 247, 0.08) 0%, rgba(6, 182, 212, 0.05) 100%);
+  border-left-color: var(--neon-purple);
+  box-shadow:
+    inset 0 0 30px rgba(168, 85, 247, 0.05),
+    0 4px 20px rgba(0, 0, 0, 0.3);
+}
+
+.dark .vp-doc blockquote::before {
+  content: '"';
+  position: absolute;
+  top: -10px;
+  left: 15px;
+  font-size: 5rem;
+  font-family: "Playfair Display", serif;
+  color: rgba(168, 85, 247, 0.15);
+  line-height: 1;
+}
+
+/* Emphasis styling */
+.dark .vp-doc em {
+  color: var(--neon-cyan);
+  text-shadow: 0 0 8px rgba(6, 182, 212, 0.3);
 }
 
 .vp-doc strong {
@@ -74,78 +195,390 @@
   color: var(--vp-c-text-1);
 }
 
-/* Hide technical elements */
-.edit-link, .last-updated, .VPDocFooter .edit-link-button {
+.dark .vp-doc strong {
+  color: var(--neon-purple-light);
+}
+
+/* Drop Cap removed - was too large */
+
+/* ---------- Hide Technical Elements ---------- */
+.edit-link,
+.last-updated,
+.VPDocFooter .edit-link-button {
   display: none !important;
 }
 
-/* Reading Container - Book Mode */
+/* ---------- Reading Container ---------- */
 .content-container {
   max-width: 750px !important;
   margin: 0 auto;
 }
 
-/* Custom Scrollbar for Webkit */
+/* ---------- Custom Scrollbar ---------- */
 ::-webkit-scrollbar {
-  width: 8px;
+  width: 10px;
 }
+
 ::-webkit-scrollbar-track {
   background: var(--vp-c-bg);
 }
+
 ::-webkit-scrollbar-thumb {
-  background: var(--vp-c-brand);
-  border-radius: 4px;
+  background: linear-gradient(180deg, var(--vp-c-brand), var(--vp-c-brand-dark));
+  border-radius: 5px;
 }
 
-/* Images - Polaroid Style */
+.dark ::-webkit-scrollbar-thumb {
+  box-shadow: 0 0 10px rgba(168, 85, 247, 0.5);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--vp-c-brand-light);
+}
+
+/* ---------- Images ---------- */
 .vp-doc img {
-  border: 5px solid white;
-  box-shadow: 3px 3px 8px rgba(0,0,0,0.2);
-  transform: rotate(-1deg);
-  transition: transform 0.3s ease;
+  border-radius: 8px;
   margin: 2rem auto;
   display: block;
+  max-width: 100%;
 }
 
-.vp-doc img:hover {
-  transform: rotate(0deg) scale(1.02);
+.dark .vp-doc img {
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
 }
 
-/* Drop Cap */
-.vp-doc p:first-of-type::first-letter {
-  font-size: 3.5em;
-  line-height: 0.8;
-  float: left;
-  margin-right: 0.1em;
-  color: var(--vp-c-brand);
-  font-family: "Playfair Display", serif;
-  font-weight: 700;
-}
-
-/* Medium Zoom Customization */
+/* ---------- Medium Zoom ---------- */
 .medium-zoom-overlay {
   z-index: 100 !important;
-  background: var(--vp-c-bg) !important;
+  background: rgba(10, 10, 15, 0.95) !important;
 }
+
 .medium-zoom-image--opened {
   z-index: 101 !important;
   border: none !important;
   transform: none !important;
-  box-shadow: none !important;
+  box-shadow: 0 0 60px rgba(168, 85, 247, 0.4) !important;
 }
 
-/* Mobile Optimization */
+/* ---------- Homepage Hero Enhancements ---------- */
+.dark .VPHero {
+  position: relative;
+}
+
+.dark .VPHero::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 600px;
+  height: 600px;
+  background: radial-gradient(circle, rgba(168, 85, 247, 0.15) 0%, transparent 70%);
+  pointer-events: none;
+  z-index: -1;
+}
+
+.dark .VPHero .name {
+  font-family: "Orbitron", sans-serif !important;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.dark .VPHero .text {
+  background: linear-gradient(135deg, var(--neon-purple-light), var(--neon-cyan));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.dark .VPHero .tagline {
+  color: var(--vp-c-text-2);
+  font-family: "Merriweather", serif;
+  font-style: italic;
+}
+
+/* Hero image glow */
+.dark .VPHero .image-container img {
+  border-radius: 12px;
+  box-shadow:
+    0 0 40px rgba(168, 85, 247, 0.3),
+    0 0 80px rgba(168, 85, 247, 0.15),
+    0 20px 60px rgba(0, 0, 0, 0.5);
+}
+
+/* Feature Cards - Glassmorphism */
+.dark .VPFeature {
+  background: linear-gradient(135deg, rgba(168, 85, 247, 0.08) 0%, rgba(6, 182, 212, 0.05) 100%) !important;
+  border: 1px solid rgba(168, 85, 247, 0.2) !important;
+  border-radius: 12px !important;
+  backdrop-filter: blur(10px);
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  position: relative;
+  overflow: hidden;
+}
+
+.dark .VPFeature::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(168, 85, 247, 0.1), transparent);
+  transition: left 0.6s ease;
+}
+
+.dark .VPFeature:hover::before {
+  left: 100%;
+}
+
+.dark .VPFeature:hover {
+  border-color: var(--neon-purple) !important;
+  box-shadow:
+    0 0 20px rgba(168, 85, 247, 0.2),
+    0 10px 40px rgba(0, 0, 0, 0.3);
+  transform: translateY(-4px);
+}
+
+.dark .VPFeature .title {
+  color: var(--neon-purple-light) !important;
+  font-family: "Orbitron", sans-serif;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+.dark .VPFeature .details {
+  color: var(--vp-c-text-2) !important;
+}
+
+/* ---------- Sidebar Enhancements ---------- */
+.dark .VPSidebar {
+  background: linear-gradient(180deg, rgba(10, 10, 15, 0.98) 0%, rgba(13, 13, 20, 0.98) 100%) !important;
+  border-right: 1px solid rgba(168, 85, 247, 0.15) !important;
+}
+
+.dark .VPSidebarItem .text {
+  transition: all 0.3s ease;
+}
+
+.dark .VPSidebarItem.is-active>.item>.link>.text {
+  color: var(--neon-purple-light) !important;
+  text-shadow: 0 0 10px rgba(168, 85, 247, 0.5);
+}
+
+.dark .VPSidebarItem .link:hover .text {
+  color: var(--neon-cyan) !important;
+}
+
+/* Sidebar group titles */
+.dark .VPSidebarItem.level-0>.item>.text {
+  font-family: "Orbitron", sans-serif;
+  font-size: 0.75rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--neon-purple) !important;
+}
+
+/* ---------- Navigation Enhancements ---------- */
+.dark .VPNav {
+  background: rgba(10, 10, 15, 0.9) !important;
+  backdrop-filter: blur(20px);
+  border-bottom: 1px solid rgba(168, 85, 247, 0.1) !important;
+}
+
+.dark .VPNavBarTitle .title {
+  font-family: "Orbitron", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  background: linear-gradient(135deg, var(--neon-purple-light), var(--neon-cyan));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.dark .VPNavBarMenuLink:hover {
+  color: var(--neon-purple-light) !important;
+  text-shadow: 0 0 10px rgba(168, 85, 247, 0.5);
+}
+
+/* ---------- Buttons ---------- */
+.dark .VPButton.brand {
+  background: linear-gradient(135deg, var(--neon-purple) 0%, var(--neon-purple-dark) 100%) !important;
+  border: none !important;
+  box-shadow: 0 0 20px rgba(168, 85, 247, 0.3);
+  transition: all 0.3s ease;
+  font-family: "Orbitron", sans-serif;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.dark .VPButton.brand:hover {
+  box-shadow:
+    0 0 30px rgba(168, 85, 247, 0.5),
+    0 0 60px rgba(168, 85, 247, 0.2);
+  transform: translateY(-2px);
+}
+
+.dark .VPButton.alt {
+  border: 1px solid var(--neon-purple) !important;
+  color: var(--neon-purple-light) !important;
+  background: transparent !important;
+}
+
+.dark .VPButton.alt:hover {
+  background: rgba(168, 85, 247, 0.1) !important;
+  box-shadow: 0 0 15px rgba(168, 85, 247, 0.3);
+}
+
+/* ---------- Code Blocks ---------- */
+.dark .vp-code-group,
+.dark div[class*="language-"] {
+  background: rgba(13, 13, 20, 0.8) !important;
+  border: 1px solid rgba(168, 85, 247, 0.15);
+  box-shadow: inset 0 0 30px rgba(0, 0, 0, 0.3);
+}
+
+/* ---------- Links ---------- */
+.dark .vp-doc a {
+  color: var(--neon-cyan);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: all 0.3s ease;
+}
+
+.dark .vp-doc a:hover {
+  color: var(--neon-cyan-light);
+  border-bottom-color: var(--neon-cyan);
+  text-shadow: 0 0 10px rgba(6, 182, 212, 0.5);
+}
+
+/* ---------- Horizontal Rules ---------- */
+.dark .vp-doc hr {
+  border: none;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, var(--neon-purple), transparent);
+  margin: 3rem 0;
+}
+
+/* ---------- Tables ---------- */
+.dark .vp-doc table {
+  border: 1px solid rgba(168, 85, 247, 0.2);
+  background: rgba(13, 13, 20, 0.5);
+}
+
+.dark .vp-doc th {
+  background: rgba(168, 85, 247, 0.1);
+  color: var(--neon-purple-light);
+  font-family: "Orbitron", sans-serif;
+  text-transform: uppercase;
+  font-size: 0.85rem;
+  letter-spacing: 0.05em;
+}
+
+.dark .vp-doc td {
+  border-color: rgba(168, 85, 247, 0.1);
+}
+
+/* ---------- Animations ---------- */
+@keyframes neon-pulse {
+
+  0%,
+  100% {
+    opacity: 1;
+  }
+
+  50% {
+    opacity: 0.8;
+  }
+}
+
+@keyframes glow-breathe {
+
+  0%,
+  100% {
+    box-shadow: 0 0 20px rgba(168, 85, 247, 0.3);
+  }
+
+  50% {
+    box-shadow: 0 0 40px rgba(168, 85, 247, 0.5);
+  }
+}
+
+@keyframes glitch {
+  0% {
+    transform: translate(0);
+  }
+
+  20% {
+    transform: translate(-2px, 2px);
+  }
+
+  40% {
+    transform: translate(-2px, -2px);
+  }
+
+  60% {
+    transform: translate(2px, 2px);
+  }
+
+  80% {
+    transform: translate(2px, -2px);
+  }
+
+  100% {
+    transform: translate(0);
+  }
+}
+
+/* Apply subtle animation to hero title */
+.dark .VPHero .name {
+  animation: neon-pulse 4s ease-in-out infinite;
+}
+
+/* ---------- Mobile Optimization ---------- */
 @media (max-width: 768px) {
   .vp-doc p {
-    text-align: left; /* Better for narrow screens */
-    font-size: 1.1rem; /* Slightly smaller or kept same, but justified is the main issue */
-    padding: 0 0.5rem; /* Ensure some breathing room but not too much */
+    text-align: left;
+    font-size: 1.05rem;
+    line-height: 1.8;
+    padding: 0 0.5rem;
   }
+
   .vp-doc h1 {
-    font-size: 2rem; /* Smaller title */
+    font-size: 1.8rem;
+    letter-spacing: 0.02em;
   }
+
+  .vp-doc h2 {
+    font-size: 1.3rem;
+  }
+
   .vp-doc blockquote {
     padding: 1rem;
     margin: 1.5rem 0;
+  }
+
+  .vp-doc p:first-of-type::first-letter {
+    font-size: 3em;
+  }
+
+  .dark .VPHero::before {
+    width: 300px;
+    height: 300px;
+  }
+}
+
+/* ---------- Print Styles ---------- */
+@media print {
+  .dark body {
+    background: white;
+    color: black;
+  }
+
+  .vp-doc h1,
+  .vp-doc h2,
+  .vp-doc h3 {
+    text-shadow: none;
   }
 }

@@ -9,7 +9,6 @@ const { Layout } = DefaultTheme
 const { frontmatter } = useData()
 
 const isTerminalOpen = ref(false)
-const isReaderMode = ref(false)
 const progress = ref(0)
 let docHeight = 0
 let ticking = false
@@ -19,19 +18,10 @@ const toggleTerminal = () => {
   isTerminalOpen.value = !isTerminalOpen.value
 }
 
-const toggleReaderMode = () => {
-  isReaderMode.value = !isReaderMode.value
-  if (isReaderMode.value) {
-    document.body.classList.add('reader-mode-active')
-  } else {
-    document.body.classList.remove('reader-mode-active')
-  }
-}
-
 const handleKeydown = (e) => {
   // Toggle on '`' (backtick) or Ctrl+K
   if (e.key === '`' || (e.ctrlKey && e.key === 'k')) {
-    e.preventDefault() // Prevent writing the character
+    e.preventDefault()
     toggleTerminal()
   }
 }
@@ -55,8 +45,6 @@ const updateProgress = () => {
 
 onMounted(() => {
   window.addEventListener('keydown', handleKeydown)
-
-  // Initialize and track document height changes efficiently
   calculateDocHeight()
   window.addEventListener('resize', calculateDocHeight)
 
@@ -68,16 +56,12 @@ onMounted(() => {
   }
 
   window.addEventListener('scroll', updateProgress)
-
-  // Check if reader mode was persisted (optional, but good UX)
-  // For now, we start with it off to avoid flashing
 })
 
 onUnmounted(() => {
   window.removeEventListener('keydown', handleKeydown)
   window.removeEventListener('resize', calculateDocHeight)
   window.removeEventListener('scroll', updateProgress)
-  document.body.classList.remove('reader-mode-active') // Cleanup
   if (resizeObserver) {
     resizeObserver.disconnect()
   }
@@ -96,160 +80,104 @@ onUnmounted(() => {
 
     <!-- Floating Action Button for Terminal -->
     <template #layout-bottom>
-      <div class="fabs-container">
-        <button class="fab-btn reader-fab" @click="toggleReaderMode" :title="isReaderMode ? 'Sair do Modo Leitura' : 'Modo Leitura'">
-          <span class="icon">{{ isReaderMode ? '✕' : '📖' }}</span>
-        </button>
-        <button class="fab-btn terminal-fab" @click="toggleTerminal" aria-label="Abrir Terminal Lázaro" title="Acessar Sistema">
-          <span class="terminal-icon">_></span>
-        </button>
-      </div>
+      <button class="fab-btn terminal-fab" @click="toggleTerminal" aria-label="Abrir Terminal Lázaro" title="Acessar Sistema">
+        <span class="terminal-icon">_></span>
+      </button>
       <LazaroTerminal :is-open="isTerminalOpen" @close="isTerminalOpen = false" />
     </template>
   </Layout>
 </template>
 
 <style>
+/* ===== READING PROGRESS BAR ===== */
 .reading-progress-bar {
   position: fixed;
   top: 0;
   left: 0;
   height: 4px;
-  background: var(--vp-c-brand);
+  background: linear-gradient(90deg, var(--neon-purple, #a855f7), var(--neon-cyan, #06b6d4));
   z-index: 9999;
   transition: width 0.1s ease;
-  box-shadow: 0 0 10px var(--vp-c-brand);
+  box-shadow: 
+    0 0 10px var(--neon-purple, #a855f7),
+    0 0 25px rgba(168, 85, 247, 0.5),
+    0 2px 10px rgba(168, 85, 247, 0.3);
 }
 
+/* ===== CHAPTER COVER ===== */
 .chapter-cover-container {
-  margin-bottom: 2rem;
-  border-radius: 8px;
+  margin-bottom: 2.5rem;
+  border-radius: 12px;
   overflow: hidden;
-  box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+  position: relative;
+}
+
+.chapter-cover-container::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, transparent 50%, rgba(10, 10, 15, 0.9) 100%);
+  pointer-events: none;
+  z-index: 1;
 }
 
 .chapter-cover {
   width: 100%;
-  max-height: 400px;
+  max-height: 450px;
   object-fit: cover;
   display: block;
+  filter: contrast(1.05) saturate(1.1);
 }
 
-.fabs-container {
+.dark .chapter-cover-container {
+  box-shadow: 
+    0 8px 40px rgba(0, 0, 0, 0.5),
+    0 0 60px rgba(168, 85, 247, 0.15),
+    inset 0 0 0 1px rgba(168, 85, 247, 0.2);
+}
+
+/* ===== FLOATING ACTION BUTTON ===== */
+.terminal-fab {
   position: fixed;
-  bottom: 20px;
-  right: 20px;
-  display: flex;
-  flex-direction: column;
-  gap: 15px;
-  z-index: 9998;
-  align-items: center;
-}
-
-.fab-btn {
-  width: 50px;
-  height: 50px;
+  bottom: 24px;
+  right: 24px;
+  width: 52px;
+  height: 52px;
   border-radius: 50%;
   display: flex;
   align-items: center;
   justify-content: center;
   cursor: pointer;
-  transition: all 0.3s ease;
+  z-index: 9998;
+  background: linear-gradient(135deg, #0d0d0d 0%, #1a1a1a 100%);
+  border: 1px solid #10b981;
+  color: #10b981;
+  font-family: "Fira Code", monospace;
   font-weight: bold;
   font-size: 1.2rem;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+  box-shadow: 
+    0 4px 20px rgba(16, 185, 129, 0.3),
+    inset 0 0 20px rgba(16, 185, 129, 0.1);
+  animation: terminal-pulse 3s ease-in-out infinite;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.fab-btn:hover {
-  transform: scale(1.1);
-}
-
-.terminal-fab {
-  background-color: #0d0d0d;
-  border: 1px solid #33ff00;
-  color: #33ff00;
-  font-family: monospace;
-  box-shadow: 0 0 10px rgba(51, 255, 0, 0.4);
+@keyframes terminal-pulse {
+  0%, 100% { box-shadow: 0 4px 20px rgba(16, 185, 129, 0.3), inset 0 0 20px rgba(16, 185, 129, 0.1); }
+  50% { box-shadow: 0 4px 30px rgba(16, 185, 129, 0.5), inset 0 0 30px rgba(16, 185, 129, 0.15); }
 }
 
 .terminal-fab:hover {
-  box-shadow: 0 0 15px rgba(51, 255, 0, 0.7);
-  background-color: #1a1a1a;
+  transform: scale(1.1) translateY(-2px);
+  box-shadow: 
+    0 0 30px rgba(16, 185, 129, 0.6),
+    0 0 60px rgba(16, 185, 129, 0.3),
+    inset 0 0 20px rgba(16, 185, 129, 0.2);
+  border-color: #34d399;
+  color: #34d399;
 }
 
-.reader-fab {
-  background-color: #f4ecd8;
-  border: 1px solid #d4c5a3;
-  color: #5c4b37;
-}
-
-.reader-fab:hover {
-  background-color: #fff;
-  box-shadow: 0 0 15px rgba(255, 255, 255, 0.5);
-}
-
-/* READER MODE STYLES */
-body.reader-mode-active {
-  background-color: #f4ecd8 !important;
-  overflow-x: hidden;
-}
-
-body.reader-mode-active .VPNav,
-body.reader-mode-active .VPSidebar,
-body.reader-mode-active .VPFooter,
-body.reader-mode-active .on-this-page-container,
-body.reader-mode-active .reading-progress-bar {
-  display: none !important;
-}
-
-body.reader-mode-active .VPContent {
-  padding: 0 !important;
-  margin: 0 !important;
-  max-width: 100% !important;
-  background-color: #f4ecd8 !important;
-  min-height: 100vh;
-}
-
-body.reader-mode-active .VPContent .container {
-  max-width: 800px !important;
-  margin: 0 auto !important;
-  padding: 40px 20px !important;
-}
-
-body.reader-mode-active .VPContent .content-container {
-  max-width: 100% !important;
-}
-
-body.reader-mode-active .main {
-  max-width: 800px !important;
-  margin: 0 auto !important;
-}
-
-body.reader-mode-active :is(h1, h2, h3, h4, h5, h6, p, li, span, div, strong, em) {
-  font-family: 'Merriweather', serif !important;
-  color: #2c2c2c !important;
-}
-
-body.reader-mode-active p {
-  font-size: 1.3rem !important;
-  line-height: 2 !important;
-  margin-bottom: 1.5rem !important;
-  text-align: justify;
-}
-
-body.reader-mode-active h1 {
-  font-family: 'Playfair Display', serif !important;
-  font-size: 3rem !important;
-  text-align: center;
-  margin-bottom: 3rem !important;
-  color: #1a1a1a !important;
-}
-
-body.reader-mode-active blockquote {
-  border-left: 4px solid #8b7d6b !important;
-  background-color: rgba(0,0,0,0.05) !important;
-  color: #5c4b37 !important;
-  font-style: italic;
-  padding: 1rem !important;
+.terminal-icon {
+  text-shadow: 0 0 10px currentColor;
 }
 </style>

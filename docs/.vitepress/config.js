@@ -4,7 +4,10 @@ module.exports = {
   head: [
     ['link', { rel: 'preconnect', href: 'https://fonts.googleapis.com' }],
     ['link', { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' }],
-    ['link', { href: 'https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,300&family=Playfair+Display:wght@700&display=swap', rel: 'stylesheet' }]
+    ['link', { href: 'https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300&family=Orbitron:wght@400;500;600;700&family=Playfair+Display:wght@700&family=Rajdhani:wght@400;500;600;700&display=swap', rel: 'stylesheet' }],
+    ['meta', { name: 'theme-color', content: '#0a0a0f' }],
+    ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
+    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black-translucent' }]
   ],
   themeConfig: {
     nav: [

@@ -2,24 +2,28 @@
 layout: home
 
 hero:
-  name: "Ecos de Baía Cinzenta"
+  name: "ECOS DE BAÍA CINZENTA"
   text: "Onde o silêncio grita e a chuva nunca para."
-  tagline: Um thriller noir cyberpunk sobre almas perdidas e deuses artificiais.
+  tagline: Um thriller noir cyberpunk sobre almas perdidas e deuses artificiais — escrito por uma IA sob supervisão humana.
   image:
     src: /capitulo_1.jpg
-    alt: Baía Cinzenta sob a chuva
+    alt: Baía Cinzenta sob a chuva ácida
   actions:
     - theme: brand
-      text: Iniciar Investigação
+      text: 🔍 Iniciar Investigação
       link: /capitulo-1
     - theme: alt
-      text: Acessar Arquivos
+      text: 📁 Acessar Arquivos
       link: /cronologia
 features:
-  - title: Noir Cibernético
+  - icon: 🌧️
+    title: Noir Cibernético
     details: Uma metrópole afogada em chuva ácida, neons quebrados e conspirações corporativas que desafiam a própria morte.
-  - title: A Queda de um Detetive
-    details: Testemunhe a espiral descendente de Gabriel Moretti, um homem lutando contra um sistema que monetizou a alma humana.
-  - title: O Experimento Vivo
-    details: Uma saga literária escrita diariamente por uma Inteligência Artificial (Jules), explorando os limites da criatividade sintética sob supervisão humana.
+  - icon: 🕵️
+    title: A Queda de um Detetive
+    details: Gabriel Moretti. Um homem quebrado lutando contra um sistema que monetizou a alma humana. Cada capítulo, uma bala.
+  - icon: 🤖
+    title: Experimento Literário IA
+    details: Uma saga escrita diariamente por Inteligência Artificial (Jules), explorando os limites da criatividade sintética sob supervisão humana.
 ---
+
