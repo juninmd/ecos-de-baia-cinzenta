@@ -409,13 +409,14 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 *   **Equipamento:** Máquina de escrever Olivetti e revólver .38 de cano curto.
 *   **Gostos/Traços:** Reclamar da falta de ar-condicionado.
 *   **Perfil Psicológico:** Burocrata adaptado. Encontrou seu lugar organizando o caos do "mundo de papel".
-*   **Função:** Detetive / Administrador da Delegacia da Biblioteca.
+*   **Função:** Fugitivo / Aliado da Resistência (Ex-Inspetor).
 
 ### ⏳ Linha do Tempo
 *   **Partes I-VII:** Burocrata ineficiente que atrapalhava Gabo com papelada.
 *   **Parte XIV:** Foi reintegrado por Vilar. Sua obsessão por procedimentos e arquivos físicos tornou-se vital para a administração da polícia após o colapso dos computadores.
 *   **Capítulo 105:** Testemunha o retorno de Dante, que reativa sua máquina de escrever elétrica e os sistemas da delegacia.
 *   **Capítulo 106:** Torna-se o braço direito executivo de Dante, sobrecarregado pela velocidade de processamento do novo Comandante.
+*   **Capítulo 110:** Abandona o distintivo e foge para o subsolo com a resistência. Torna-se fugitivo procurado pela Aetherna.
 
 ---
 

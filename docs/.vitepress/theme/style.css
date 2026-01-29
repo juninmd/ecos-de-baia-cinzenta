@@ -580,3 +580,56 @@
     text-shadow: none;
   }
 }
+/* ---------- System Logs / Terminal Style ---------- */
+.system-log {
+  font-family: var(--vp-font-family-mono);
+  background: rgba(10, 10, 15, 0.95);
+  border: 1px solid var(--neon-green);
+  color: var(--neon-green);
+  padding: 1.5rem;
+  border-radius: 4px;
+  margin: 2rem 0;
+  box-shadow: 0 0 10px rgba(16, 185, 129, 0.1);
+  position: relative;
+  font-size: 0.9rem;
+  line-height: 1.6;
+  overflow: hidden;
+}
+
+.system-log::before {
+  content: "SYSTEM LOG // ENCRYPTED";
+  display: block;
+  margin-bottom: 1rem;
+  border-bottom: 1px dashed var(--neon-green);
+  padding-bottom: 0.5rem;
+  font-weight: 700;
+  opacity: 0.8;
+}
+
+.system-log.danger {
+  border-color: var(--neon-red);
+  color: var(--neon-red);
+  box-shadow: 0 0 10px rgba(239, 68, 68, 0.1);
+}
+
+.system-log.danger::before {
+  content: "AETHERNA SECURITY GRID // ALERT";
+  border-bottom-color: var(--neon-red);
+}
+
+/* Scanline for logs */
+.system-log::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    transparent 50%,
+    rgba(0, 0, 0, 0.25) 50%
+  );
+  background-size: 100% 4px;
+  pointer-events: none;
+  z-index: 1;
+}

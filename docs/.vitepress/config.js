@@ -225,6 +225,7 @@ module.exports = {
               { text: 'Capítulo 107: O Teorema da Chuva', link: '/capitulo-107' },
               { text: 'Capítulo 108: Ratos de Cais', link: '/capitulo-108' },
               { text: 'Capítulo 109: Frequência Fantasma', link: '/capitulo-109' },
+              { text: 'Capítulo 110: Ponto Cego', link: '/capitulo-110' },
             ]
           },
         ]
