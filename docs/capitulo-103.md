@@ -45,7 +45,7 @@ Silas não se virou.
 
 O console emitiu um sinal sonoro agudo. Dentro da esfera, o corpo de Dante convulsionou.
 
-Gabo sacou a "Mara". Não tinha mais granadas, mas o lançador servia como um porrete de cinco quilos de aço reforçado.
+Gabo sacou a "Leviatã". Não tinha mais granadas, mas o lançador servia como um porrete de cinco quilos de aço reforçado.
 
 Ele alcançou a plataforma. Silas se virou, sacando uma pistola de agulhas com uma velocidade surpreendente para um cientista.
 

@@ -21,7 +21,7 @@ Um rugido de aprovação subiu dos homens cansados. Era desesperado, mas era rea
 
 O tiroteio começou instantes depois. Foi ensurdecedor. Balas picavam a fachada da delegacia, arrancando pedaços de concreto. Vidros estilhaçavam.
 
-Gabo se posicionou atrás de uma coluna no saguão, a "Vilha" pronta.
+Gabo se posicionou atrás de uma coluna no saguão, a "Caronte" pronta.
 
 — Val, você está segura? — gritou ele pelo rádio de curta distância.
 

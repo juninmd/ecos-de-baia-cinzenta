@@ -65,7 +65,7 @@ Ele precisava de algo maior que uma 9mm.
 
 Gabo correu de volta para o carro, ziguezagueando entre os disparos. Ele se jogou no banco do motorista e apertou um botão escondido sob o painel. O banco traseiro se abriu, revelando o compartimento secreto.
 
-Ele puxou "Vilha", a escopeta de cano serrado.
+Ele puxou "Caronte", a escopeta de cano serrado.
 
 — Vamos ver se vocês gostam de chumbo grosso — rosnou ele, saindo do carro.
 

@@ -96,6 +96,6 @@ Gabriel sorriu para Kael, sentindo o gosto metálico do chip descendo por sua ga
 
 — Quer a chave? Venha pegar. Mas vai ter que me abrir para tirar.
 
-Kael rosnou e avançou. Gabriel sacou a *Vilha* de baixo do casaco — ele nunca saía de casa sem a escopeta de cano serrado, mesmo que fosse desconfortável.
+Kael rosnou e avançou. Gabriel sacou a *Caronte* de baixo do casaco — ele nunca saía de casa sem a escopeta de cano serrado, mesmo que fosse desconfortável.
 
 — Vamos dançar, lata velha.

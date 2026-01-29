@@ -81,7 +81,7 @@ Gabo virou o resto do seu uísque. Ele olhou para o sol lá fora, que agora pare
 
 — Alguém descobriu como ficar invisível para Deus, Val.
 
-Ele pegou sua jaqueta de couro surrada e a velha espingarda "Vilha" que estava encostada na parede.
+Ele pegou sua jaqueta de couro surrada e a velha espingarda "Caronte" que estava encostada na parede.
 
 — Onde você vai? — perguntou Val.
 

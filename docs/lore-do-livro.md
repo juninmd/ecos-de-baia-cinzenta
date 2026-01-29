@@ -95,7 +95,7 @@ Além da corrupção corporativa, Baía Cinzenta é lar de predadores únicos.
 *   **Motivação:** A morte não resolvida do pai (Dante Moretti) e a proteção dos "Invisíveis" (as vítimas que a cidade ignora).
 *   **Equipamento:**
     *   Carro: Cobalt Azul (blindado artesanalmente).
-    *   Armas: Pistola Glock (serviço), "Mara" (Bazuca no porta-malas), "Vilha" (Escopeta).
+    *   Armas: Pistola Glock (serviço), "Leviatã" (Bazuca no porta-malas - antiga "Mara"), "Caronte" (Escopeta - antiga "Vilha").
 *   **Psicologia:** Cínico, insone, mas incapaz de virar as costas para um pedido de socorro.
 
 ---

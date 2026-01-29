@@ -19,7 +19,7 @@ No 15º andar, a multidão parou, espremida contra as portas corta-fogo. Trancad
 
 Ele colocou Val no chão com cuidado. Mancou até a porta. As dobradiças eram internas, o painel eletrônico, inútil.
 
-— Elena, a "Vilha" — pediu ele, estendendo a mão.
+— Elena, a "Caronte" — pediu ele, estendendo a mão.
 
 — Sem munição — lembrou ela.
 

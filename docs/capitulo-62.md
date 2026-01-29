@@ -45,7 +45,7 @@ Ele olhou para Aria, depois para as próprias mãos enluvadas.
 
 — Quem... é você? — perguntou O Santo.
 
-Gabo aproveitou a distração. Ele pegou a escopeta "Vilha" que tinha caído ao seu lado.
+Gabo aproveitou a distração. Ele pegou a escopeta "Caronte" que tinha caído ao seu lado.
 
 Mas ele não atirou. Ele viu algo estranho. O Santo estava tremendo.
 

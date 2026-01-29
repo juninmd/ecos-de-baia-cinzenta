@@ -13,7 +13,7 @@ Miranda, em um ato de coragem suicida — ou talvez apenas desespero — sacou s
 
 — Saiam daqui! — gritou ele, acertando um soldado no visor.
 
-— Não sem você! — gritou Gabriel, recarregando a Vilha com uma mão.
+— Não sem você! — gritou Gabriel, recarregando a Caronte com uma mão.
 
 O holograma de Dante Moretti observava a cena com impassividade, flutuando acima do caos.
 

@@ -22,7 +22,7 @@ De repente, os comunicadores da delegacia ganharam vida com um chiado de pânico
 Valéria conectou-se à rede da polícia. Seus olhos se arregalaram.
 — Múltiplos ataques. Coordenados. Aeterna. Mas não são os ciborgues de sempre. São... diferentes. Mais rápidos. Mais fortes.
 
-Gabo pegou a "Vilha" que descansava sob a mesa.
+Gabo pegou a "Caronte" que descansava sob a mesa.
 — Onde?
 
 — Em todo lugar. Mas o pior é na Orla Norte.

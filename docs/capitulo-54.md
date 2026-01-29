@@ -49,7 +49,7 @@ A impaciência que vinha fervendo nele há semanas explodiu. Ele não pensou. El
 
 — Gabo, não! — gritou Val.
 
-Gabo saltou os degraus da catedral, aterrissando na água com um estrondo. Ele sacou a escopeta "Vilha" e disparou à queima-roupa no peito do primeiro robô.
+Gabo saltou os degraus da catedral, aterrissando na água com um estrondo. Ele sacou a escopeta "Caronte" e disparou à queima-roupa no peito do primeiro robô.
 
 O impacto jogou a máquina para trás, faíscas voando. Mas os outros dois giraram instantaneamente, os olhos vermelhos focando nele.
 

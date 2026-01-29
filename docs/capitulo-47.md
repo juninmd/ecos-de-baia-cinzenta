@@ -21,7 +21,7 @@ O "Relojoeiro" — o tal Taxidermista que a polícia vinha caçando há meses �
 
 Gabo apontou a lanterna para o alto. A água da enchente já batia em seus joelhos, subindo rápido. O Dilúvio lá fora estava rompendo as comportas.
 
-— Desça! — gritou Gabo, a "Vilha" firme em suas mãos. — Acabou. O prédio está condenado.
+— Desça! — gritou Gabo, a "Caronte" firme em suas mãos. — Acabou. O prédio está condenado.
 
 — Tudo está condenado, Sr. Moretti. — O Taxidermista desceu por uma corda de roldana, um vulto esguio com avental de açougueiro e óculos de lentes grossas. — Carne apodrece. Pulmões falham. Apenas o mecanismo perdura.
 

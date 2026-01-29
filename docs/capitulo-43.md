@@ -21,7 +21,7 @@ Na enfermaria improvisada (antiga sala de descanso dos oficiais), cinco criança
 
 — Ou coisa pior — disse Gabo. — O Sindicato controla o porto.
 
-Ele checou a carga da "Vilha". Dois cartuchos.
+Ele checou a carga da "Caronte". Dois cartuchos.
 
 — Eu vou — disse Gabo.
 

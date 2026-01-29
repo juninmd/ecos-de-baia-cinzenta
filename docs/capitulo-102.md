@@ -63,7 +63,7 @@ Elena correu para os terminais laterais, seus dedos voando sobre o teclado mecâ
 
 — Gabo! Segura ele!
 
-— Estou tentando! — Gabo largou o revólver vazio e puxou a "Mara", seu lançador de projéteis. Ele só tinha uma granada incendiária caseira restante.
+— Estou tentando! — Gabo largou o revólver vazio e puxou a "Leviatã", seu lançador de projéteis. Ele só tinha uma granada incendiária caseira restante.
 
 Ele mirou não em Roberto, mas no aglomerado de tubos de alimentação acima dele.
 

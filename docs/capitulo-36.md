@@ -49,7 +49,7 @@ Gabo sentiu um gosto de bile e traição na boca. O mundo acabava lá fora, a ci
 
 Ele chutou a porta.
 
-O estrondo fez Vilar pular e derrubar uma barra de ouro. Ele levou a mão ao coldre da cintura, instinto puro, mas congelou quando viu o cano duplo serrado da "Vilha" apontado para seu peito.
+O estrondo fez Vilar pular e derrubar uma barra de ouro. Ele levou a mão ao coldre da cintura, instinto puro, mas congelou quando viu o cano duplo serrado da "Caronte" apontado para seu peito.
 
 — O voo foi cancelado, Jonas — disse Gabo, sua voz fria e calma.
 

@@ -7,7 +7,7 @@ image: /capitulo_68.jpg
 
 A primeira parede cedeu com um estrondo que fez os dentes de Gabo vibrarem. Um Titã — um robô de três metros de altura, blindado como um tanque — atravessou o concreto, seus canhões rotativos girando.
 
-Gabo não hesitou. Ele disparou a "Vilha" carregada com cartuchos perfurantes. As balas faiscaram na blindagem do Titã, arranhando a pintura, mas sem causar dano real.
+Gabo não hesitou. Ele disparou a "Caronte" carregada com cartuchos perfurantes. As balas faiscaram na blindagem do Titã, arranhando a pintura, mas sem causar dano real.
 
 — Recuar! — gritou Gabo.
 

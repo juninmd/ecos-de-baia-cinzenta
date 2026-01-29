@@ -27,7 +27,7 @@ Dezenas deles. Embutidos nas paredes de concreto, fundidos com a alvenaria. Algu
 
 — Arte — disse uma voz vinda da escuridão. Uma voz aguda, arranhada, polida.
 
-Gabo girou, apontando a "Vilha".
+Gabo girou, apontando a "Caronte".
 
 Uma figura emergiu das sombras no final do túnel. Usava um avental de couro pesado, manchado de óleos escuros. Óculos de joalheiro brilhavam em seus olhos.
 
@@ -49,7 +49,7 @@ As criaturas avançaram, um coro de gemidos e metal rangendo.
 
 — Fogo! — gritou Gabo.
 
-O túnel explodiu em som e fúria. O primeiro disparo da "Vilha" desintegrou uma das abominações. Mas elas continuavam vindo, indiferentes.
+O túnel explodiu em som e fúria. O primeiro disparo da "Caronte" desintegrou uma das abominações. Mas elas continuavam vindo, indiferentes.
 
 — Val, a porta! Agora! — gritou Gabo, recarregando.
 

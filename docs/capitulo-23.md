@@ -37,13 +37,13 @@ O mundo explodiu em estilhaços e gritos.
 
 O carro derrapou pelo saguão de mármore falso, espalhando mesas de baccarat e jogando fichas de crédito para o ar como confete. A música eletrônica parou. O silêncio que se seguiu foi quebrado apenas pelo som do motor do Cobalt morrendo e pelo tinir de vidro caindo.
 
-Gabo chutou a porta do motorista. Ele saiu, a escopeta "Vilha" descansando no ombro. Valéria saltou do outro lado, bloqueando instantaneamente os sistemas de alarme locais com um pulso EMP de curto alcance. Elena ficou na retaguarda, cobrindo os flancos.
+Gabo chutou a porta do motorista. Ele saiu, a escopeta "Caronte" descansando no ombro. Valéria saltou do outro lado, bloqueando instantaneamente os sistemas de alarme locais com um pulso EMP de curto alcance. Elena ficou na retaguarda, cobrindo os flancos.
 
 Gabo olhou ao redor. O Senador Vargas estava encolhido debaixo de uma mesa de blackjack, sua imunidade parlamentar inútil contra calibre 12. Madame Li mantinha a compostura, segurando sua taça de champanhe, embora o líquido tremesse.
 
 — Ninguém sai! — rugiu Gabo. — A festa acabou.
 
-Um segurança, um armário de músculos sintéticos baratos, tentou sacar uma submetralhadora. Gabo nem mirou. O disparo da Vilha atingiu o joelho do homem, pulverizando a rótula de titânio. Ele caiu gritando, o som ecoando no salão cavernoso.
+Um segurança, um armário de músculos sintéticos baratos, tentou sacar uma submetralhadora. Gabo nem mirou. O disparo da Caronte atingiu o joelho do homem, pulverizando a rótula de titânio. Ele caiu gritando, o som ecoando no salão cavernoso.
 
 — Eu quero o gerente! — gritou Gabo, caminhando entre as mesas. Ninguém ousou respirar. — Eu quero Roberto Miranda!
 
@@ -87,7 +87,7 @@ Mas Gabo não esperou. Ele não hesitou. Ele não teve um monólogo moral.
 
 Ele disparou.
 
-Não na cabeça, mas no ombro mecânico. O tiro da "Vilha" era devastador a curta distância. O impacto jogou Miranda contra a parede, destruindo a articulação do braço biônico. O membro caiu no chão, soltando faíscas.
+Não na cabeça, mas no ombro mecânico. O tiro da "Caronte" era devastador a curta distância. O impacto jogou Miranda contra a parede, destruindo a articulação do braço biônico. O membro caiu no chão, soltando faíscas.
 
 Miranda gritou, segurando o toco do ombro.
 

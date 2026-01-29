@@ -59,7 +59,7 @@ Gabo lembrou-se das mensagens enigmáticas, dos "desafios" que pareciam testes m
 
 — Ele está lá dentro — disse Gabo, a voz embargada. — E está em agonia.
 
-Ele se esticou para o banco de trás e pegou o lançador "Mara". O peso frio do metal era um consolo, uma promessa. Ele começou a verificar os cartuchos químicos com uma precisão mortal.
+Ele se esticou para o banco de trás e pegou o lançador "Leviatã". O peso frio do metal era um consolo, uma promessa. Ele começou a verificar os cartuchos químicos com uma precisão mortal.
 
 — Gabo, o que você vai fazer? — perguntou Elena, o medo em sua voz.
 

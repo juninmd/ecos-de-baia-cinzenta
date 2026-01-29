@@ -20,7 +20,7 @@
 *   **Vestuário:** Sobretudo bege manchado de fuligem sobre camisas sociais amarrotadas.
 *   **Equipamento:**
     *   **Veículo:** Sedan Azul Metálico (Cobalt) antigo e enferrujado.
-    *   **Armas:** Pistola Glock (serviço), Lançador de Projéteis Modulares ("Mara"), Escopeta de cano serrado ("Vilha").
+    *   **Armas:** Pistola Glock (serviço), Lançador de Projéteis Modulares ("Leviatã" - antiga "Mara"), Escopeta de cano serrado ("Caronte" - antiga "Vilha").
     *   **Auxiliar:** Exoesqueleto passivo de pernas (ruidoso, mas funcional).
 *   **Gostos/Traços:** Viciado em pizza e café. Insone e paranoico.
 *   **Perfil Psicológico:** Cínico e violento, mas com um código de honra rígido. Protege os inocentes com uma fúria silenciosa.

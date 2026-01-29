@@ -19,7 +19,7 @@ Eles rolaram para fora do carro, usando a lataria como um escudo precário. Bala
 
 — Vão ter que tirar da minha mão fria e morta — rosnou Gabo.
 
-Ele se arrastou até o porta-malas ainda aberto. O lançador improvisado estava inútil. Mas ao lado dele, sua velha amiga descansava: "Vilha". Uma escopeta calibre 12, cano serrado, carregada com balotes de chumbo.
+Ele se arrastou até o porta-malas ainda aberto. O lançador improvisado estava inútil. Mas ao lado dele, sua velha amiga descansava: "Caronte". Uma escopeta calibre 12, cano serrado, carregada com balotes de chumbo.
 
 Gabo pegou a arma e encheu os bolsos do sobretudo com cartuchos extras.
 

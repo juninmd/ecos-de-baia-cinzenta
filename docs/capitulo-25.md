@@ -37,7 +37,7 @@ Gabo sorriu. Ele soltou a escopeta no chão e levou a mão às costas.
 
 — Calma, rapazes! — gritou ele. — Só viemos entregar uma pizza!
 
-Ele puxou a "Mara" de onde estava presa em suas costas. O lançador parecia grande demais, pesado demais.
+Ele puxou a "Leviatã" de onde estava presa em suas costas. O lançador parecia grande demais, pesado demais.
 
 Os guardas hesitaram por uma fração de segundo.
 
@@ -81,7 +81,7 @@ Drones de combate pesados, do tamanho de motos, desciam em formação de ataque.
 
 — Subam! — ordenou Gabo. — Eu dou cobertura!
 
-Elena e Valéria pularam para a escada de metal na parede do poço. Gabo ficou na plataforma, recarregando a "Mara" com sua última cápsula de nitrogênio.
+Elena e Valéria pularam para a escada de metal na parede do poço. Gabo ficou na plataforma, recarregando a "Leviatã" com sua última cápsula de nitrogênio.
 
 — Venham, seus liquidificadores voadores! — desafiou ele.
 

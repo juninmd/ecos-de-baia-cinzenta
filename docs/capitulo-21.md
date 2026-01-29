@@ -3,7 +3,7 @@ image: /capitulo_21.jpg
 ---
 # Capítulo 21: Lar, Doce Inferno
 
-Antes de irem para a Torre, Gabo precisava de uma coisa. "Mara". Seu Lançador Modular. Ele estava no porta-malas do Cobalt, estacionado perto de seu apartamento.
+Antes de irem para a Torre, Gabo precisava de uma coisa. "Leviatã". Seu Lançador Modular. Ele estava no porta-malas do Cobalt, estacionado perto de seu apartamento.
 
 Eles voltaram para a cidade, movendo-se pelos becos.
 
@@ -127,7 +127,7 @@ Ele se levantou, o corpo dolorido, mas a mente afiada. Beijou a testa de Elena, 
 
 — Onde você vai?
 
-Valéria já estava na porta, segurando o lançador "Mara" que recuperara do carro. A arma parecia uma extensão sombria de sua própria determinação.
+Valéria já estava na porta, segurando o lançador "Leviatã" que recuperara do carro. A arma parecia uma extensão sombria de sua própria determinação.
 
 — Vou buscar meu pai — disse Gabo, a voz ressoando com o peso de uma promessa antiga. — E vou queimar o resto até as cinzas.
 
