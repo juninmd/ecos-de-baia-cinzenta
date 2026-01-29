@@ -63,7 +63,7 @@ Eles recuaram para a zona de maquinário pesado. Prensas hidráulicas gigantes, 
 
 — Eu compro tempo.
 
-Gabriel sacou a escopeta *Vilha*. Ele se posicionou na passarela estreita que levava ao painel.
+Gabriel sacou a escopeta *Caronte*. Ele se posicionou na passarela estreita que levava ao painel.
 
 — Venham pegar, seus desgraçados sorridentes.
 

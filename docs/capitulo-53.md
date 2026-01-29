@@ -65,7 +65,7 @@ Gabo olhou para a chuva lá fora. Dante não tinha apenas morrido. Ele tinha lut
 
 Horas depois, o esconderijo — o porão da antiga delegacia, agora convertida em base de operações da resistência — estava cheio.
 
-Elena estava lá, organizando mapas físicos sobre uma mesa de bilhar. Dra. Nise ajustava os servos da perna de Gabo com uma chave inglesa. Maya "Glitch" Sato monitorava as frequências da polícia.
+Elena estava lá, organizando mapas físicos sobre uma mesa de bilhar. Dra. Nise ajustava os servos da perna de Gabo com uma chave inglesa. Valéria "Val" Cruz monitorava as frequências da polícia.
 
 — Estamos sozinhos nessa — disse Gabo, olhando para sua equipe heterogênea. — O Capitão Vilar está sob custódia domiciliar. A metade honesta da polícia foi demitida ou presa. Não podemos contar com reforços.
 

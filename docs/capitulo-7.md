@@ -9,7 +9,7 @@ Ele avançava agachado, ouvindo. O som das botas pesadas de Kael esmagando o gel
 
 — Você acha que o frio me para, detetive? — A voz de Kael vinha de toda parte e de lugar nenhum, amplificada pela acústica metálica da sala. — Meus sensores táticos já se adaptaram. Você apenas cavou sua própria cova congelada.
 
-Um vulto cortou a neblina à esquerda. Gabriel girou e disparou a *Vilha*. O tiro de escopeta acertou uma torre de servidores, espalhando destroços.
+Um vulto cortou a neblina à esquerda. Gabriel girou e disparou a *Caronte*. O tiro de escopeta acertou uma torre de servidores, espalhando destroços.
 
 Uma lâmina zuniu no ar, errando o pescoço de Gabriel por centímetros e cortando a alça de seu colete. Kael estava rápido demais.
 
@@ -27,7 +27,7 @@ Gabriel não recuou. Ele esperou.
 
 Quando Kael atacou, Gabriel pisou em um cabo solto no chão congelado e deslizou intencionalmente para baixo, passando por baixo da guarda do ciborgue.
 
-Ele encostou o cano serrado da *Vilha* na articulação do joelho de Kael — o único ponto onde a armadura tinha uma fresta para mobilidade.
+Ele encostou o cano serrado da *Caronte* na articulação do joelho de Kael — o único ponto onde a armadura tinha uma fresta para mobilidade.
 
 — Cirurgia de campo — rosnou Gabriel.
 

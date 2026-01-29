@@ -51,7 +51,7 @@ A porta lateral se abriu com um chute mecânico.
 
 — Rangel! Entra! Agora! — A voz de Gabo era um trovão rouco.
 
-Gabo estava pendurado na porta, segurando-se com uma mão enquanto a outra empunhava a *Vilha*, sua escopeta de cano serrado. Ele parecia um demônio saído do inferno: encharcado, com o rosto manchado de graxa e sangue seco, e as "órteses" nas pernas chiando a cada movimento.
+Gabo estava pendurado na porta, segurando-se com uma mão enquanto a outra empunhava a *Caronte*, sua escopeta de cano serrado. Ele parecia um demônio saído do inferno: encharcado, com o rosto manchado de graxa e sangue seco, e as "órteses" nas pernas chiando a cada movimento.
 
 — Gabo? — Rangel olhou para a menina, depois para o blindado. — Mas o que diabos...
 
