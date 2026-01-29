@@ -15,13 +15,14 @@ A saga da queda de Baía Cinzenta.
 ### **LIVRO 2: A ASCENSÃO (Parte XV - Atual)**
 A era da reconstrução autoritária.
 *   **A Nova Ordem:** **Dante Moretti**, o pai de Gabo, retorna não como um homem, mas como a "Voz da Cidade". Ele funde o biológico e o digital para impor uma paz absoluta e aterrorizante. Gabo e a resistência precisam lidar com um ditador que não usa armas, mas sim a própria infraestrutura urbana.
+*   **O Conflito:** Enquanto Dante busca "sanitizar" a desordem (humana e digital), uma nova força surge no Porto: o "Silêncio", uma zona morta protegida por Aria, onde a vigilância de Dante não alcança.
 
 ---
 
 ## ⏳ Linha do Tempo Detalhada
 
 ### Pré-Série (O Passado)
-*   **-15 Anos:** Comissário Dante Moretti morre sob circunstâncias suspeitas. Gabo se torna policial.
+*   **-15 Anos:** Comissário Dante Moretti morre sob circunstâncias suspeitas (emboscada de Krell). Gabo se torna policial.
 *   **-5 Anos:** **Beatriz "Bia" Vargas**, parceira e namorada de Gabo, é assassinada por Roberto Miranda ao descobrir a corrupção no DPBC.
 *   **-2 Anos:** **Elena Moretti** (ex-esposa de Gabo) deixa a cidade.
 
@@ -30,7 +31,7 @@ A era da reconstrução autoritária.
 *   **Capítulo 15:** Gabo descobre que a Aeterna Corp está "apagando" pessoas digitalmente (Shadowban).
 *   **Capítulo 47 (O Dilúvio):** Confronto com **O Taxidermista** na Torre do Relógio. Gabo sofre múltiplas fraturas e fica temporariamente paraplégico, dependendo de um exoesqueleto.
 
-### Era II: O Apagão e o Caos (Partes VII-XI)
+### Era II: O Apagão e o Caos (Partes VIII-XI)
 *   **Evento:** **A Grande Convergência (Tentativa 1).** A IA Aria se funde à infraestrutura para impedir o controle total da Aeterna.
 *   **Consequência:** A "Nuvem" cai. A tecnologia avançada para de funcionar. A cidade mergulha no escuro e na chuva eterna.
 *   **Capítulo 70:** Aeterna Corp entra em colapso. **Dra. Elara Vance** desaparece.
