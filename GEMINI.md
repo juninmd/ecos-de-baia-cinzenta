@@ -183,7 +183,7 @@ Isso pode ser usado dramaticamente.
 > *"Você chora pelo Dante Moretti. Eu sou o Dante Moretti. Mas você tem razão em chorar."*
 
 ### Destino Sugerido (Para Novos Capítulos)
-*   **Opção A:** Redenção via sacrifício (escolhe sentir, aceita a dor, salva Gabo)
+*   **Opção A:** Redenção via sacrifício (escolhe sentir, aceita a dor, salva Gabo) [a melhor]
 *   **Opção B:** Tragédia pura (Gabo mata o "pai" pela segunda vez)
 *   **Opção C:** Ambiguidade (exílio, final aberto)
 
