@@ -7,12 +7,6 @@ O som da chuva no telhado de zinco não era relaxante. Era um martelar constante
 
 Clara Moretti olhou para o monitor de glicose. A bateria estava piscando em vermelho, assim como o indicador de nível. "Crítico".
 
-# Capítulo 50: O Silêncio da Chuva
-
-O som da chuva no telhado de zinco não era relaxante. Era um martelar constante.
-
-Clara Moretti olhou para o monitor de glicose. "Crítico".
-
 — Só mais um pouco, mãe — ela sussurrou.
 
 Helena apenas gemeu.
