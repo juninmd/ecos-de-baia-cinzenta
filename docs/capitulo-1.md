@@ -35,7 +35,7 @@ A linha ficou muda. Gabo praguejou baixinho.
 
 Gabriel engoliu rapidamente o resto de seu café, sentindo o gosto amargo descer pela garganta misturado com a bile da raiva. Ele não queria entrar lá. Aos trinta anos, sentia-se como se tivesse setenta. Seus joelhos estalavam, e a insônia da semana passada fazia as luzes da cidade deixarem rastros em sua visão periférica.
 
-Seus dedos da mão direita tamborilaram ritmicamente no couro do coldre, um tique nervoso para dar vazão à ansiedade acumulada. Ele nunca fumou — odiava o vício que consumira seu pai —, mas a necessidade de movimento constante era sua própria forma de dependência.
+Seus dedos da mão direita tamborilaram ritmicamente no couro do coldre, um tique nervoso para dar vazão à ansiedade acumulada. Ele nunca fumou — o cheiro de cigarro o enjoava desde criança, uma aversão visceral que nunca conseguiu explicar —, mas a necessidade de movimento constante era sua própria forma de dependência.
 
 Para piorar, sua bexiga protestava. Três canecas de café na última hora estavam cobrando o preço, mas não havia onde aliviar-se ali sem contaminar a cena ou ser visto pelos drones de imprensa que zumbiam como mosquitos no perímetro. Ele cerrou os dentes.
 
