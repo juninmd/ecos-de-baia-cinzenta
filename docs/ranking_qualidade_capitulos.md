@@ -73,6 +73,151 @@ Este documento mantém um registro da avaliação de qualidade narrativa, ritmo 
 
 ---
 
+## 📊 Batch 1: A Introdução (Capítulos 1-10)
+
+### Capítulo 1: Olhos de Vidro
+*   **Nota:** ⭐ **8.7/10**
+*   **Pontos Fortes:**
+    *   **Atmosfera Noir Impecável:** Chuva ácida, neons refletindo em poças, cheiro de mofo e café frio. Excelente setup sensorial.
+    *   **Introdução do Protagonista:** Gabo é apresentado com todos os tropos noir clássicos — cínico, cansado, mas competente. O detalhe de **tamborilar os dedos** é consistente.
+    *   **Mistério Central:** As lentes de câmera nos olhos + foto pessoal de Gabo = gancho narrativo forte.
+    *   **Investigação Policial:** Gabriel usa métodos analógicos (lupa, reagentes químicos), não scanners mágicos. **"Show, don't tell"** em ação.
+    *   **Confirmação:** Gabo **NUNCA fuma**. Apenas café. ✅
+*   **Pontos Fracos:**
+    *   A menção à "perita Sato" (linha 104) **conflita** com `personagens.md`. O nome correto é **Valéria Cruz**, não "Maya Glitch Sato". Esse é um erro de draft antigo que precisa ser corrigido.
+    *   A interação com o oficial novato é funcional, mas um pouco genérica.
+
+---
+
+### Capítulo 2: Náufragos de Concreto
+*   **Nota:** ⭐ **8.5/10**
+*   **Pontos Fortes:**
+    *   **Elementos Policiais:** Tiroteio rápido com bandidos na Via Costeira, Gabriel detém um suspeito à moda antiga. Ação crível.
+    *   **Burocracia Opressora:** Rangel introduzido como antagonista institucional. A ameaça de suspensão adiciona tensão externa.
+    *   **Aria (Menina do Orelhão):** Primeiro encontro com a misteriosa criança. Frase críptica ("Ele disse que a chuva traria você") planta sementes narrativas.
+    *   **Tentação de Lázaro:** Gabo resiste à droga, mas o momento de fraqueza humaniza o personagem.
+*   **Pontos Fracos:**
+    *   A sequência de resgate da menina é um pouco rápida demais. Poderia explorar mais o conflito interno de Gabo ao decidir ajudar.
+    *   O ritmo oscila entre ação frenética (tiroteio) e slow burn (carro parado no trânsito).
+
+---
+
+### Capítulo 3: Teatro de Carne
+*   **Nota:** ⭐ **9.0/10**
+*   **Pontos Fortes:**
+    *   **Body Horror Cyberpunk:** A instalação do Taxidermista (coração substituído por engrenagens) é visualmente chocante e temática.  
+    *   **Valéria Introduzida CORRETAMENTE:** Ela é "Maya Glitch Sato" aqui (linha 48), o que mantém o erro de draft, mas a personalidade está alinhada — hacker rebelde, cabos físicos, terminal portátil.
+    *   **Investigação Física:** Gabo segue cabos elétricos, abre quadros de força. Isso é **Analog Noir** do jeito certo.
+    *   **Se7en Vibes:** O serial killer tem uma mensagem filosófica. Noir perfeito.
+*   **Pontos Fracos:**
+    *   A "corregedoria assistindo" é mencionada mas não explorada. Perde uma chance de aumentar a tensão.
+    *   **ERRO DE PERSONAGEM:** "Maya Sato" deve ser **Valéria Cruz** em toda a narrativa.
+
+---
+
+### Capítulo 4: A Torre de Marfim
+*   **Nota:** ⭐ **8.8/10**
+*   **Pontos Fortes:**
+    *   **Contraste Social:** Gabo infiltrado no evento de gala = crítica de classe. Luxo vs. miséria.
+    *   **Krell Introduzido:** O antagonista corporativo é intimidante apesar (ou por causa) de sua estatura. O diálogo sobre "liberação de mão de obra" é afiado.
+    *   **Kael vs. Gabo:** Gabriel apanha, mas não sem criar uma cena. Isso reforça que ele é teimoso, não invencível.
+    *   **Consequências:** Gabo sai sangrando, com nariz quebrado. Violência tem **custo.**
+*   **Pontos Fracos:**
+    *   A infiltração como garçom é um clichê, mas funcional.
+    *   Marco Moretti está pouco desenvolvido aqui — apenas "terno branco, sorrindo".
+
+---
+
+### Capítulo 5: A Capela dos Esquecidos
+*   **Nota:** ⭐ **9.2/10**
+*   **Pontos Fortes:**
+    *   **Worldbuilding:** A "Capela" como santuário de viciados digitais é visualmente rica e distópica.
+    *   **Revelação de Lore:** O Projeto Lázaro não é droga, é **computação distribuída**. Dante está vivo como "Ghost na máquina".
+    *   **Perseguição por Drones:** Os drones *Vespa* executam a "Esquiva Pêndulo" de Dante. Isso é **horror psicológico** — Gabo luta contra o fantasma do pai.
+    *   **Valéria em Ação:** Ela tenta hackear remotamente, mas é sobrepujada. Mostra que mesmo Tech-Sidekicks têm limites.
+*   **Pontos Fracos:**
+    *   A fuga pelos túneis é eletrizante, mas talvez rápida demais. Poderia prolongar o suspense.
+
+---
+
+### Capítulo 6: O Coração da Tempestade
+*   **Nota:** ⭐ **9.3/10**
+*   **Pontos Fortes:**
+    *   **Body Horror Científico:** Cérebros flutuando em tanques = imagens de pesadelo. **Blade Runner + Dark City.**
+    *   **Gabo vs. Kael (Round 2):** Gabriel **engole o chip** para proteger os dados. Isso é puro noir — decisões desesperadas.
+    *   **Analog Tactics:** Gabo NÃO tenta hackear Kael. Ele atira no teto de nitrogênio líquido. Problema analógico, solução analógica.
+    *   **Arma:** Gabriel usa "Caronte" (antiga Vilha) — **CORRETO** segundo `GEMINI.md`.
+*   **Pontos Fracos:**
+    *   **ERRO NA LINHA 99:** Menciona "Vilha" em vez de "Caronte". Inconsistência de nomenclatura que precisa ser corrigida.
+    *   **ERRO NA LINHA 107:** Repete "escopeta Vilha" quando deveria ser "Caronte".
+
+---
+
+### Capítulo 7: O Fim do Silêncio
+*   **Nota:** ⭐ **9.0/10**
+*   **Pontos Fortes:**
+    *   **Setpiece de Ação:** Perseguição de buggy nos esgotos = Mad Max + Blade Runner. Cinematográfico.
+    *   **Consequências Físicas:** Miranda ferido, Gabo machucado. Eles não saem "limpos" dessa.
+    *   **Ritmo:** Alterna perfeitamente entre combate CQC (Gabo detona joelho de Kael) e chase (drones Vespa).
+*   **Pontos Fracos:**
+    *   A destruição dos drones é eficiente demais. Talvez um devesse escapar para gerar ameaça futura.
+    *   O buggy "Toupeira" aparece convenientemente. Um pouco de *plot armor*.
+
+---
+
+### Capítulo 8: Ressaca Digital
+*   **Nota:** ⭐ **8.9/10**
+*   **Pontos Fortes:**
+    *   **Timeskip Justificado:** 6 meses depois, a cidade é analógica e caótica. O contraste é palpável.
+    *   **Valéria em Carne e Osso:** Introdução física dela. Descrição visual alinhada: **rosa químico, olhos violetas, jaqueta de couro**. ✅
+    *   **Novo Mistério:** Kiko Vibe morto por "overdose térmica digital". Original e macabro.
+    *   **Dinâmica Gabo/Val:** O sarcasmo ("Achei que fosse mais alto") estabelece química.
+*   **Pontos Fracos:**
+    *   O capítulo é mais setup do que ação. Funciona, mas é menos eletrizante.
+    *   O chip no estômago de Gabo é mencionado mas não explorado (será usado depois?).
+
+---
+
+### Capítulo 9: Feed Infinito
+*   **Nota:** ⭐ **8.6/10**
+*   **Pontos Fortes:**
+    *   **Setpiece de Tensão:** Fuga pelo fosso do elevador. Vertigo + cronômetro (elevador subindo) = suspense puro.
+    *   **Valéria Humanizada:** Mãos queimadas, medo de altura. Ela não é super-heroína.
+    *   **Mistério Avançado:** O drive escondido no ralo = Kiko era mais esperto do que parecia.
+*   **Pontos Fracos:**
+    *   A armadilha do apartamento é genérica (gás letal, portas trancadas). Já visto em inúmeros thrillers.
+    *   A solução (forçar porta do elevador com barra de metal) é crível, mas não surpreende.
+
+---
+
+### Capítulo 10: A Fábrica de Sorrisos
+*   **Nota:** ⭐ **9.1/10**
+*   **Pontos Fortes:**
+    *   **Body Horror Extremo:** Lobotomias em linha de montagem, sorrisos forçados cirurgicamente. **Se7en + The Stuff**.
+    *   **Ação Visceral:** Gabo luta corpo a corpo contra horda de "bonecos". Brutal e consequente (ombro deslocado).
+    *   **Val Competente:** Ela hackeou a prensa. Tech-sidekick útil, não apenas comentarista.
+    *   **Imagem Final:** Rosto esmagado ainda sorrindo. Inesquecível.
+*   **Pontos Fracos:**
+    *   A solução da prensa é elegante, mas a horda é derrotada rápido demais após ser introduzida.
+    *   Incêndio do galpão elimina evidências — conveniente demais?
+
+---
+
+## 📈 Análise Geral do Batch 1
+*   **Média Geral:** **8.9/10** (Excelente introdução)
+*   **Atmosfera:** **10/10**. Chuva, neon, cinismo = Noir perfeito.
+*   **Personagens:** **9/10**. Gabo consistente. Valéria surge forte (mas nome errado em cap. 1 e 3).
+*   **Investigação:** **9/10**. Métodos analógicos, interrogatórios, perseguições.
+*   **Ação:** **9/10**. Tiroteios, fugas, body horror.
+*   **Continuidade:** **8/10**. Fluxo bom, mas há **erros de nomenclatura** (Maya vs. Valéria, Vilha vs. Caronte).
+
+### ⚠️ Correções Necessárias
+1.  **Capítulo 1, linha 104:** Trocar "perita Sato" por "Valéria Cruz" ou "perita Cruz".
+2.  **Capítulo 3, linha 48:** Trocar "Maya 'Glitch' Sato" por "Valéria 'Val' Cruz".
+3.  **Capítulo 6, linhas 99 e 107:** Trocar "Vilha" por "Caronte".
+
+---
+
 ## 🗄️ Resumo Histórico (Médias por Arco)
 
 ### Parte XIII: A Carne Mecânica (Caps 86-97)

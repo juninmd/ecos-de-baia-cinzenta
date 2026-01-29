@@ -45,21 +45,21 @@ As pálpebras haviam sido removidas. No lugar dos olhos, lentes de câmeras anal
 
 O som foi mecânico, vindo de dentro do crânio do rapaz. As lentes giraram, focando.
 
-— Elas estão ativas — disse a perita técnica, uma mulher baixa chamada Maya "Glitch" Sato, que estava sentada no chão, cercada por cabos físicos conectados a um terminal portátil pesado. Nada de hologramas flutuantes aqui; apenas código rolando em telas de fósforo verde e o cheiro de processadores superaquecidos. — Não apenas ativas. Estão transmitindo.
+— Não apenas ativas. Estão transmitindo — disse a perita técnica, uma mulher baixa chamada Valéria "Val" Cruz, que estava sentada no chão, cercada por cabos físicos conectados a um terminal portátil pesado. Nada de hologramas flutuantes aqui; apenas código rolando em telas de fósforo verde e o cheiro de processadores superaquecidos. — Não apenas ativas. Estão transmitindo.
 
-— Para onde? — perguntou Gabriel, agachando-se ao lado dela. Ele notou a sujeira nas unhas dela; Maya tinha passado as últimas duas horas rastreando cabos físicos enterrados no concreto para encontrar o link.
+— Para onde? — perguntou Gabriel, agachando-se ao lado dela. Ele notou a sujeira nas unhas dela; Valéria tinha passado as últimas duas horas rastreando cabos físicos enterrados no concreto para encontrar o link.
 
 — Não consigo rastrear o sinal wireless, é muito volátil. Mas... — Ela apontou para um conduíte enferrujado na parede. — Eu segui a interferência estática com o medidor de campo. Há um repetidor físico instalado naquele quadro de força secundário. Quem fez isso teve que vir aqui, abrir a caixa com uma chave mestra e plugar o hardware manualmente.
 
-— Manualmente? — Gabo sorriu, um sorriso de predador. — Ótimo. Hardware deixa impressões digitais. Deixa rastros de DNA. Esqueça o ciberespaço, Maya. Vamos desmontar aquela caixa de força e ver quem tocou nela.
+— Manualmente? — Gabo sorriu, um sorriso de predador. — Ótimo. Hardware deixa impressões digitais. Deixa rastros de DNA. Esqueça o ciberespaço, Val. Vamos desmontar aquela caixa de força e ver quem tocou nela.
 
-— Vou chamar a equipe de datiloscopia — disse Maya, aliviada por ter algo tangível.
+— Vou chamar a equipe de datiloscopia — disse Valéria, aliviada por ter algo tangível.
 
 Gabriel se inclinou mais perto, encarando as lentes no rosto do morto.
 
 — O que ele está vendo? O que *eles* estão vendo?
 
-— A nós, Gabo — respondeu Maya, sem tirar os olhos da tela. — Estão transmitindo o "Aftershow". A reação da polícia. A sua reação.
+— A nós, Gabo — respondeu Valéria, sem tirar os olhos da tela. — Estão transmitindo o "Aftershow". A reação da polícia. A sua reação.
 
 Gabriel sentiu a raiva fria subir pelo pescoço. Ele olhou para a cavidade torácica novamente. Entre as engrenagens, algo destoava. Um pedaço de papel, preso por um alfinete de gravata, bem no lugar onde deveria estar o coração.
 
@@ -81,7 +81,7 @@ Mas havia algo errado. Gabriel puxou uma lupa de bolso e examinou a imagem sob a
 
 Vilar ficou em silêncio.
 
-— É uma montagem? — sugeriu Maya.
+— É uma montagem? — sugeriu Valéria.
 
 — Não — Gabriel passou o dedo sobre a textura da foto. — É real. O que significa que a memória que eu tenho... ou a realidade que nos contaram... está errada.
 
@@ -101,9 +101,9 @@ Gabriel olhou para as lentes nos olhos do cadáver uma última vez. Ele se aprox
 
 *Click.* O obturador disparou uma última vez, como se concordasse.
 
-— Maya, o que a caixa de força nos diz? — gritou Gabo.
+— Val, o que a caixa de força nos diz? — gritou Gabo.
 
-Maya estava com as mãos sujas de graxa, segurando um módulo transmissor queimado que ela arrancara da parede.
+Valéria estava com as mãos sujas de graxa, segurando um módulo transmissor queimado que ela arrancara da parede.
 
 — Número de série raspado, mas deixaram a etiqueta de inventário interna. — Ela usou uma lupa. — Lote 49-B. Distribuído para a manutenção dos antigos armazéns do porto.
 

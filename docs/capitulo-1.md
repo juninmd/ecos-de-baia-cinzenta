@@ -101,7 +101,7 @@ O menino na foto era ele.
 
 E atrás do menino, desfocado mas inconfundível, estava um homem observando. Um homem que Gabriel viu morrer há quinze anos: seu pai.
 
-— Cerquem a área — a voz de Gabriel saiu rouca, irreconhecível. — Ninguém entra, ninguém sai. E tragam a perita Sato. Agora.
+— Cerquem a área — a voz de Gabriel saiu rouca, irreconhecível. — Ninguém entra, ninguém sai. E tragam a perita Cruz. Agora.
 
 Ele olhou novamente para as lentes nos olhos do cadáver. Elas pareciam piscar, capturando cada milímetro de sua reação.
 

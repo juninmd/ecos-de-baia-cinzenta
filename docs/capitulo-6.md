@@ -104,6 +104,6 @@ O sistema de alarme disparou, luzes estroboscópicas laranjas cortando a névoa.
 
 — *Alerta de temperatura crítica,* — uma voz automatizada soou. — *Falha de contenção.*
 
-Gabriel se levantou, a escopeta *Vilha* agora em suas mãos. Ele não podia ver Kael, mas sabia que os sensores térmicos do ciborgue estariam cegos pelo frio extremo do nitrogênio.
+Gabriel se levantou, a escopeta *Caronte* agora em suas mãos. Ele não podia ver Kael, mas sabia que os sensores térmicos do ciborgue estariam cegos pelo frio extremo do nitrogênio.
 
 — Agora estamos no meu mundo — sussurrou Gabriel, entrando na névoa.
