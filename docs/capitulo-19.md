@@ -52,7 +52,7 @@ Ela apontou para as linhas de código.
 
 — Olha a elegância disso. Sem loops redundantes. A arquitetura limpa. Isso é a assinatura dele. Eu estudei os manuais antigos da fundação da rede. O estilo é idêntico. Esse código foi escrito... recentemente. Ou programado para ativar agora.
 
-Gabo sentiu uma náusea súbita. As memórias de seu pai — o homem cansado que chegava em casa cheirando a cigarro barato e café velho, o policial honesto que lutava contra o sistema — começaram a se distorcer.
+Gabo sentiu uma náusea súbita. As memórias de seu pai — o homem cansado que chegava em casa cheirando a café velho e óleo de máquina, o policial honesto que lutava contra o sistema — começaram a se distorcer.
 
 — Ele era um policial — sussurrou Gabo, a negação sendo sua última linha de defesa. — Ele odiava a Aeterna. Ele morreu investigando eles.
 
