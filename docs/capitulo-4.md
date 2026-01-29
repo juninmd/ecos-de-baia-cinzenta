@@ -9,6 +9,30 @@ Gabriel não foi direto para a porta da frente. Ele sabia que tentar entrar na A
 
 Limusines antigravitacionais deslizavam silenciosamente até a entrada, depositando a elite da cidade para o que parecia ser um evento de gala. O "Baile da Evolução", diziam os outdoors holográficos.
 
+Enquanto ajustava o binóculo, sua visão embaçou por um segundo. Um flash de memória. O cheiro de lavanda e o som suave da caneta de prata no papel.
+
+*"Você tem medo de entrar lá, Gabriel?"* A voz da Dra. Cecília Weiss ecoou em sua mente.
+
+*"Eu não tenho medo de prédios, Doutora."*
+
+*"Não do prédio. Do que ele representa. Você diz que a tecnologia é fria, mas eu vejo suas mãos tremerem. Você sabe que a máquina não erra, e isso te aterroriza. Porque se a máquina é perfeita, o erro é sempre humano. E você se sente... defeituoso."*
+
+Gabo sacudiu a cabeça, afastando o fantasma da terapia. "Eu não sou defeituoso, Cecília. Eu sou o único que ainda funciona sem bateria."
+
+Ele saiu do carro. No caminho para a doca de carga, ele tropeçou em um amontoado de trapos que ele pensou ser lixo. O "lixo" gemeu.
+
+Era um homem, vestindo o uniforme cinza dos estivadores do porto. Ou o que restava dele.
+
+— Ei, amigo — Gabo se agachou. — Você está bem?
+
+O homem agarrou o braço de Gabo. Seus olhos estavam vazios, vidrados.
+
+— Eles tiraram... eles tiraram meu lugar... — o homem balbuciou. — A Série-K. Empilhadeiras que pensam. Eu trabalhei lá por trinta anos. Krell disse que era "otimização". Agora meus filhos comem rato.
+
+Gabo sentiu a raiva queimar no peito. O "progresso" de Krell.
+
+— Fique aqui — Gabo colocou uma nota de crédito amassada na mão do homem. — Vou ter uma conversinha com o seu chefe.
+
 Ele precisava de um jeito de entrar. E o jeito veio na forma de um entregador de catering que parou para fumar um cigarro na doca de carga lateral.
 
 Cinco minutos depois, Gabriel vestia um uniforme branco engomado, apertado demais nos ombros. O tecido sintético cheirava a sabão industrial barato misturado com o suor seco do último funcionário que o usara. Ele empurrava um carrinho de canapés sintéticos de luxo pelos corredores de serviço da Torre. Ele deixou a arma no carro; os scanners biométricos teriam detectado a pólvora antes mesmo dele pisar no tapete vermelho. Mas ele manteve o distintivo no bolso interno, um talismã de autoridade que não valia nada ali dentro.
@@ -17,11 +41,17 @@ O salão de festas ficava no 150º andar. As paredes eram de vidro inteligente, 
 
 Gabriel escaneou o ambiente. Viu políticos, magnatas da tecnologia, chefes de gangues "legitimados". E no centro de tudo, Marco Moretti.
 
-Seu irmão estava mais polido do que nunca. Terno de seda de aranha, um sorriso treinado, segurando uma taça de champanhe como se fosse um cetro. Ele conversava com uma mulher que irradiava poder frio: Dra. Elara Vance.
+Seu irmão estava mais polido do que nunca. Terno de seda de aranha, um sorriso treinado, segurando uma taça de champanhe como se fosse um cetro. Mas ele não era o centro das atenções.
+
+O centro era um homem pequeno, de não mais que um metro e trinta e cinco, sentado em uma cadeira flutuante ornamentada que o deixava na altura dos olhos dos outros convidados.
+
+Viktor Krell.
+
+O CEO da Aetherna parecia uma criança vestida de imperador, mas seus olhos — dois orbes de safira cibernética — irradiavam uma maldade antiga. Ele gesticulava com uma bengala de titânio negro, e os magnatas ao redor dele, homens com o dobro de seu tamanho, encolhiam-se como colegiais.
 
 Gabriel abandonou o carrinho e caminhou em direção a eles. Ele pegou uma taça de uma bandeja que passava, bebeu em um gole só para acalmar os nervos, e se infiltrou no círculo de conversa.
 
-— ...a eficiência energética do Distrito 4 aumentou 20% desde que implementamos o racionamento neural — dizia Elara, sua voz suave como veludo venenoso.
+— ...a eficiência energética do Distrito 4 aumentou 20% desde que implementamos o racionamento neural — dizia Krell, sua voz um barítono surpreendentemente profundo. — Os pobres não precisam de tanta largura de banda cognitiva. Eles só precisam saber obedecer.
 
 — É o preço do progresso — concordou Marco, acenando com a cabeça.
 
@@ -33,29 +63,31 @@ O silêncio caiu como uma guilhotina. Marco virou-se, o sorriso falhando por um 
 
 Alguns convidados riram educadamente.
 
-— É um disfarce, Marco. Algo que você usa o tempo todo, mas eu só coloco quando preciso trabalhar. — Gabriel virou-se para Elara. — Dra. Vance. Belo evento. Celebração pelo novo contrato com a Prefeitura ou pelo cadáver que vocês deixaram no Distrito Industrial?
+— É um disfarce, Marco. Algo que você usa o tempo todo, mas eu só coloco quando preciso trabalhar. — Gabriel virou-se para Krell. — Sr. Krell. Belo evento. Celebração pelo novo contrato com a Prefeitura ou pelo exército de desempregados que suas máquinas criaram no porto?
 
-Os olhos de Elara eram violeta, claramente sintéticos, e não demonstraram nenhuma emoção.
+Krell girou sua cadeira flutuante lentamente. Ele olhou para Gabriel de cima a baixo, como um entomologista analisando um besouro.
 
-— Detetive Moretti. Seu irmão mencionou sua... imaginação fértil. Cadáveres são competência do Estado, não de uma empresa de tecnologia.
+— Detetive Moretti. O filho pródigo. — Krell sorriu, revelando dentes perfeitamente alinhados. — Desemprego é uma palavra feia. Eu prefiro "liberação de mão de obra para tarefas mais... criativas".
 
-— Engraçado. O cadáver tinha olhos da Aeterna. Olhos que transmitiam para os seus servidores.
+— Criativas como morrer de fome? Ou como virar cobaia no Projeto Lázaro?
 
-— Meus servidores processam petabytes de dados por segundo, Detetive. Se alguém hackeou uma de nossas unidades ópticas, é uma falha de segurança lamentável, não uma confissão de culpa.
+A menção do projeto fez Marco empalidecer. Krell, no entanto, apenas riu. Uma risada seca, sem humor.
 
-— Eu tenho a foto, Elara. A foto do meu pai. O que o "Taxidermista" tem a ver com o Projeto Lázaro?
+— Você tem a ousadia do seu pai, Detetive. Dante também não sabia quando parar. Ele era um homem... robusto. Grande. — Krell apertou o punho de sua bengala. — Eu sempre apreciei como os grandes caem fazendo tanto barulho.
 
-A menção do projeto fez Marco empalidecer. Elara, no entanto, apenas sorriu. Um sorriso predador.
+— Eu tenho a foto, Krell. A foto do meu pai. O que o "Taxidermista" tem a ver com vocês?
+
+— Tudo está conectado, Detetive. O caos que você vê nas ruas... é apenas a matéria-prima. Nós vendemos a ordem.
 
 — Você está cansado, Gabriel. Emocional. Talvez devesse aceitar um drinque e ir para casa.
 
-Ela fez um gesto quase imperceptível. Da sombra de uma coluna, uma figura se destacou.
+Krell fez um gesto quase imperceptível com a bengala. Da sombra de uma coluna, uma figura se destacou.
 
 Kael. "O Cirurgião".
 
 Ele não usava terno, mas um traje tático de gala. Suas mãos estavam enluvadas, mas Gabriel sabia o que havia por baixo: aço e morte.
 
-— Acompanhe o Sr. Moretti até a saída — ordenou Elara.
+— Acompanhe o Sr. Moretti até a saída — ordenou Krell. — Mas não o quebre... ainda. Ele me diverte.
 
 Kael avançou. Gabriel sabia que não podia vencer numa luta corporal, não contra um ciborgue de combate classe militar. Mas ele não precisava vencer. Precisava de uma cena.
 

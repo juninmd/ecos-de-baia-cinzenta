@@ -8,6 +8,7 @@ const props = defineProps({
 const emit = defineEmits(['close'])
 
 const input = ref('')
+const isHacked = ref(false)
 const output = ref([
   { type: 'system', text: 'Conexão estabelecida...' },
   { type: 'system', text: 'Sistema Operacional Lázaro v4.0.1' },
@@ -17,6 +18,18 @@ const inputRef = ref(null)
 const terminalBodyRef = ref(null)
 
 const commands = {
+  dante: () => {
+    isHacked.value = true
+    return [
+      { type: 'danger', text: '>> PROTOCOLO DE SUBSTITUIÇÃO INICIADO' },
+      { type: 'system', text: 'Acessando infraestrutura da cidade...' },
+      { type: 'success', text: '[OK] Câmeras de Vigilância' },
+      { type: 'success', text: '[OK] Controle de Tráfego' },
+      { type: 'success', text: '[OK] Redes Elétricas' },
+      { type: 'warning', text: 'Dante Moretti: "A ordem foi restaurada. Não há necessidade de medo. Apenas obediência."' },
+      { type: 'system', text: 'Modo Administrador: ATIVO' }
+    ]
+  },
   help: () => {
     return [
       { type: 'info', text: 'Comandos Disponíveis:' },
@@ -65,6 +78,13 @@ const commands = {
       { type: 'warning', text: 'Mensagem de Elara Vance: "Eles têm fome."' },
       { type: 'text', text: 'Dica: O silêncio é a chave.' }
     ]
+  },
+  protocolo_final: () => {
+      if (!isHacked.value) return [{ type: 'error', text: 'Acesso Negado. Requer privilégios de Administrador (Dante).' }]
+      return [
+          { type: 'danger', text: '>> EXECUTANDO O SILÊNCIO DE CONCRETO...' },
+          { type: 'text', text: 'Todos os canais de comunicação não-governamentais serão encerrados em T-minus 10...' }
+      ]
   },
   clear: () => {
     output.value = []
@@ -119,9 +139,9 @@ watch(() => props.isOpen, (newVal) => {
 
 <template>
   <div v-if="isOpen" class="terminal-overlay" @click.self="emit('close')">
-    <div class="terminal-window">
+    <div :class="['terminal-window', { hacked: isHacked }]">
       <div class="terminal-header">
-        <span class="terminal-title">TERMINAL DE ACESSO LÁZARO // V4.0.1</span>
+        <span class="terminal-title">TERMINAL DE ACESSO LÁZARO // V4.0.1 {{ isHacked ? '[ADMIN]' : '' }}</span>
         <button class="close-btn" @click="emit('close')">✕</button>
       </div>
       <div class="terminal-body" ref="terminalBodyRef" @click="inputRef?.focus()">
@@ -257,4 +277,35 @@ watch(() => props.isOpen, (newVal) => {
   outline: none;
   caret-color: #33ff00;
 }
+
+/* Hacked State (Dante Mode) */
+.terminal-window.hacked {
+  border-color: #ff0000;
+  box-shadow: 0 0 20px rgba(255, 0, 0, 0.3);
+}
+
+.terminal-window.hacked .terminal-header {
+  border-bottom-color: #ff0000;
+}
+
+.terminal-window.hacked .terminal-title,
+.terminal-window.hacked .close-btn {
+  color: #ff0000;
+}
+
+.terminal-window.hacked .terminal-body {
+  color: #ff0000;
+}
+
+.terminal-window.hacked .prompt {
+  color: #ff0000;
+}
+
+.terminal-window.hacked .terminal-input {
+  caret-color: #ff0000;
+}
+
+.terminal-window.hacked .line.system { color: #ff6666; }
+.terminal-window.hacked .line.success { color: #ff0000; }
+.terminal-window.hacked .line { text-shadow: 0 0 5px rgba(255, 0, 0, 0.5); }
 </style>

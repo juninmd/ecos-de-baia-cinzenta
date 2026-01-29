@@ -34,24 +34,27 @@
 *   **Parte XII-XIII (O Renascimento):** Recusa a aposentadoria. Aparência: Usa um **exoesqueleto médico temporário** ruidoso sobre as roupas para conseguir andar enquanto os ossos calcificam.
 *   **Parte XIV (O Vazio):** Recuperado, mas com sequelas. Aparência: Abandonou o exoesqueleto. Anda com rigidez e dor crônica, mas com as próprias pernas.
 *   **Capítulo 103:** Batalha final contra Miranda deixa novas cicatrizes.
+*   **Capítulo 105:** Retorna à Delegacia Central. Testemunha a "Ascensão" de Dante enquanto lida com a falha mecânica de suas órteses.
+*   **Capítulo 106:** Tenta reparar seu exoesqueleto sem sucesso. Intervém para impedir que Dante use força letal contra os manifestantes "Desconectados", descobrindo a existência da ameaça do "Silêncio".
+*   **Capítulo 107:** Tem seu exoesqueleto "consertado" por Dante com precisão cirúrgica e dolorosa. Junta-se à operação de "Sanitização" no porto para mitigar danos civis.
 
 ---
 
-## Valéria "Val" Cruz - [STATUS: PETRIFICADA/EM ESTASE]
+## Valéria "Val" Cruz
 
 ![Valéria "Val" Cruz](/personagens/val_realistic.png)
 
 *   **Idade:** 23 anos
 *   **Altura:** 1,60m
-*   **Porte Físico:** Pequena e esguia, com postura rígida de quem passa horas em interfaces neurais. Atualmente imobilizada em um estado de petrificação biológica
+*   **Porte Físico:** Pequena e esguia, com postura rígida de quem passa horas em interfaces neurais. Recuperando-se de um estado de coma biológico induzido.
 *   **Cabelo:** Até os ombros, com tinta holográfica que muda entre rosa neon e azul elétrico.
 *   **Olhos:** Cibernéticos, com íris prateadas de realidade aumentada.
-*   **Marcas Distintivas:** Tatuagem de código de barras no pescoço. Mãos calejadas de digitar.
+*   **Marcas Distintivas:** Tatuagem de código de barras no pescoço. Mãos calejadas de digitar. Cicatrizes prateadas no pescoço onde a "Praga" recuou.
 *   **Vestuário:** Jaquetas de couro sintético, coturnos de plataforma e calças cargo.
 *   **Equipamento:** Deck de pulso "Phantom V3", enxame de micro-drones "Vagalumes".
 *   **Gostos/Traços:** Viciada em bebidas energéticas e noodles. Hackear outdoors por diversão.
 *   **Perfil Psicológico:** Otimista e hiperativa. A bússola moral digital de Gabo. Lealdade feroz e uma paixão crescente por ele.
-*   **Função:** Detetive Júnior (Afastada) / Símbolo da Resistência.
+*   **Função:** Detetive Júnior / Especialista em Redes da Nova Ordem.
 
 *   **Relação com Elena:** Rivalidade velada. Valéria vê Elena como "analógica demais" e lenta, sentindo ciúmes da história passada dela com Gabo.
 *   **Visão sobre o Casal:** Valéria despreza a "autopreservação" de Elena. Para Val, amar Gabo exige aceitar sua natureza autodestrutiva. Ela considera a recusa de Elena em voltar como covardia emocional. Val acredita que *ela* é a única com coragem para ficar com Gabo "até o fim do sistema" (ou da vida), e usa esse vácuo deixado por Elena para tentar provar que é a verdadeira parceira definitiva dele.
@@ -60,11 +63,11 @@
 *   **Pré-Série:** Prodígio. Aparência: "Geek" limpa, roupas corporativas padrão.
 *   **Partes I-XII:** A Hacker Rebelde. Aparência: Cabelo neon (muda de cor), roupas cyberpunk, pele pálida.
 *   **Parte XIII:** O Sacrifício. Aparência: Veias prateadas da "Praga de Ferro" começam a aparecer no pescoço e braços. Olhos tornam-se inteiramente prateados.
-*   **Atualidade:** A Estátua. Aparência: Pele com textura de mármore/metal, imóvel, preservada em um tubo de estase criogênica no Parque Memorial. Uma bela e trágica "Bela Adormecida" cyberpunk.
+*   **Atualidade:** O Despertar. Aparência: A "petrificação" revelou-se um casulo de cura regenerativa. Ela emerge fraca, com a pele pálida e translúcida, mas viva. As veias prateadas recuaram, deixando apenas trilhas brilhantes sob a derme.
 
 ---
 
-## Marco Moretti - [STATUS: FALECIDO / ABSORVIDO]
+## Marco Moretti
 
 ![Marco Moretti](/personagens/marco.png)
 
@@ -76,36 +79,40 @@
 *   **Marcas Distintivas:** Rosto encontrado absorvido pelas raízes da "Árvore Mestre" no bunker Gênesis.
 *   **Vestuário:** Ternos italianos feitos sob medida (Brancos ou Cinza Chumbo).
 *   **Equipamento:** Moeda de prata antiga (que ele usa para "decisões do destino").
-*   **Gostos/Traços:** Ambição desmedida. Discursos públicos eloquentes.
+*   **Gostos/Traços:** Ambição desmedida (agora contida). Discursos públicos eloquentes (agora silencioso).
 *   **Perfil Psicológico:** Duality / "O Duas Caras". Marco sofre de uma fragmentação moral severa.
-    *   *Persona Pública (O Prefeito de Ouro):* Carismático, filantropo, promete salvar a cidade da chuva. Acredita genuinamente que a ordem exige sacrifício.
-    *   *Persona Privada (O Tirano):* Sádico, controlador, disposto a vender a própria família. Ele não vê pessoas, vê ativos e passivos.
-*   **Função:** Ex-Prefeito / Vilão / O Irmão Caído.
+    *   *Persona Pública (O Prefeito de Ouro):* Carismático, filantropo.
+    *   *Persona Atual (O Administrador):* Dante extraiu apenas a capacidade de processamento logístico de Marco, suprimindo o ego e a crueldade. Ele agora trabalha com uma eficiência mecânica, humilhado e silencioso, servindo à nova administração como uma calculadora humana.
+*   **Função:** Ex-Prefeito / Administrador Municipal.
 
 ### ⏳ Linha do Tempo e Evolução Visual
 *   **Pré-Série:** O "Irmão Bom". Aparência: Jovem político promissor, sorridente.
-*   **Parte VI (A Torre):** O Revelado. Aparência: Terno branco impecável, mas com manchas de sangue nas mangas. O rosto começa a mostrar tiques de estresse.
-*   **Pós-Morte:** Absorvido.
-*   **Parte XIV:** Reapareceu como uma manifestação na "Árvore Mestre", mas foi definitivamente destruído.
+*   **Parte VI (A Torre):** O Revelado. Aparência: Terno branco impecável, mas com manchas de sangue nas mangas.
+*   **Parte XIV:** Absorvido pela "Árvore Mestre" do Projeto Gênesis.
+*   **Parte XV (A Ascensão):** "Extraído" por Dante. Marco foi separado da consciência coletiva para servir como gerenciador logístico. Ele trabalha em uma sala sem janelas no subsolo, pálido, magro, cercado por pilhas de papel, sem o antigo brilho nos olhos.
 
 ---
 
-## Dante Moretti - [STATUS: RESSURGIDO / HOSPEDEIRO BIOLÓGICO]
+## Dante Moretti
 
 ![Dante Moretti](/personagens/dante.jpg)
 
-*   **Status:** [ATIVO / CONSCIÊNCIA DIGITAL EM CORPO BIOLÓGICO]
 *   **Função:** Lenda Policial / O Arquiteto da Resistência.
-*   **Importância:** Dante não foi apenas um policial; ele foi o *primeiro* a perceber a cilada da Aeterna. Ele inseriu o "Código Fonte Moral" na infraestrutura da cidade antes de morrer (o "backdoor" que Valéria usa). Ele é o "Pai Fundador" da resistência, tendo sacrificado sua vida física para se tornar o "Fantasma na Máquina" original, garantindo que Gabo tivesse uma chance de lutar 15 anos depois.
+*   **Importância:** Dante não foi apenas um policial; ele foi o *primeiro* a perceber a cilada da Aeterna. Ele descobriu que a droga Lázaro não era apenas veneno, mas uma ferramenta de mineração neural. Krell o emboscou com um exército de mercenários. Dante lutou até a última bala. Quando tentou detonar uma carga de C4 para levar os segredos consigo, foi impedido por ciborgues de elite.
+*   **O Destino Cruel:** Dante não morreu naquele dia. Ele foi levado para o subsolo da Torre Aetherna. Seu cérebro foi removido e colocado em um tanque de nutrientes (O "Think Tank"), conectado a milhares de fios. Krell usou a mente tática e o código moral inquebrável de Dante como base para treinar a Inteligência Artificial da Aetherna Sec. Cada drone que patrulha a cidade se move com a fluidez de Dante; cada protocolo de segurança é uma perversão de sua honra.
 
 ### ⏳ Linha do Tempo
-*   **Pré-Série:** Comissário lendário. Criou os arquivos criptografados que guiariam Gabo.
-*   **Parte V:** Seu túmulo foi aberto e encontrado vazio.
-*   **Parte XIV (A Convergência):** Revelado que sua consciência foi preservada.
+*   **A Queda (15 anos atrás):** Emboscado na Zona Industrial. Lutou contra 50 agentes. Neutralizado por ciborgues Série-Z. Oficialmente declarado morto em "acidente".
+*   **O Cativeiro Digital:** Passou 15 anos tendo sua mente dissecada digitalmente por Krell. Inseriu o "Código Fonte Moral" como um vírus adormecido na rede da Aetherna durante esse processo.
+*   **Parte V:** Seu túmulo foi aberto e encontrado vazio (porque nunca houve corpo, apenas um caixão lastreado).
+*   **Parte XIV (A Convergência):** Sua consciência finalmente se libertou do "Think Tank" e habitou um novo corpo biológico.
 *   **Capítulo 104:** Dante Moretti retorna.
+*   **Capítulo 105:** Assume o comando da "Polícia Comunitária" e reativa a infraestrutura da cidade (luzes, câmeras) com sua mera presença, iniciando a "Ascensão".
+*   **Capítulo 106:** Implementa uma gestão algorítmica na delegacia. Neutraliza um protesto violento usando a infraestrutura urbana (câmeras e drones) sem disparar um tiro pessoalmente. Revela a Gabo a ameaça do "Silêncio" que devora a rede.
+*   **Capítulo 107:** Repara a perna de Gabo para aumentar a eficiência. Inicia o "Protocolo de Sanitização" contra a "Zona de Silêncio" no porto, que ele identifica como uma falha lógica na rede.
 ---
 
-## Roberto Miranda - [STATUS: DESTRUÍDO / INATIVO]
+## Roberto Miranda
 
 ![Roberto Miranda](/personagens/roberto.png)
 
@@ -130,21 +137,21 @@
 
 ---
 
-## Silas Vance ("O Jardineiro") - [STATUS: ABSORVIDO / MORTO]
+## Silas Vance ("O Jardineiro")
 
 ![Silas Vance](/personagens/silas.png)
 
-*   **Idade:** Cessada.
-*   **Altura:** Nula.
-*   **Porte Físico:** Drenado.
-*   **Cabelo:** Seco.
-*   **Olhos:** Vazios.
-*   **Marcas Distintivas:** Corpo mumificado após ter sua biomassa drenada.
-*   **Vestuário:** Jaleco vazio.
+*   **Idade:** Cessada (Aparentava 60 anos antes da drenagem).
+*   **Altura:** 1,80m (Anteriormente). Agora, uma casca colapsada.
+*   **Porte Físico:** Drenado. O que resta é uma pele seca esticada sobre ossos quebradiços, semelhante a uma folha seca de outono.
+*   **Cabelo:** Fios brancos longos e ralos, preservados na mumificação instantânea.
+*   **Olhos:** As órbitas estão vazias, pois o fluido ocular foi o primeiro a ser consumido.
+*   **Marcas Distintivas:** A expressão de terror absoluto congelada em seu rosto no momento da traição.
+*   **Vestuário:** Um jaleco cerimonial de "jardineiro" feito de fibras naturais, agora grande demais para o corpo encolhido.
 *   **Equipamento:** Nenhum.
-*   **Gostos/Traços:** Nenhum.
-*   **Perfil Psicológico:** Nenhum.
-*   **Função:** Ex-Líder.
+*   **Gostos/Traços:** Fanatismo Biológico. Acreditava que a carne era superior ao silício.
+*   **Perfil Psicológico:** O Profeta Traído. Silas via a si mesmo como o Messias que guiaria a humanidade de volta à "natureza". Sua arrogância o cegou para o fato de que, para a entidade que ele criou (Dante), ele não era um pai, apenas combustível.
+*   **Função:** Catalisador do Apocalipse / O Sacrifício Final.
 
 ### ⏳ Linha do Tempo
 *   **Parte XII:** Surgiu como líder da seita "Os Jardineiros", pregando a supremacia biológica sobre a tecnológica.
@@ -152,7 +159,7 @@
 
 ---
 
-## Dra. Elara Vance - [STATUS: DESAPARECIDA / ATIVA NO SUBMUNDO]
+## Dra. Elara Vance
 
 ![Dra. Elara Vance](/personagens/elara.png)
 
@@ -221,10 +228,10 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 *   **Olhos:** Castanhos, calorosos.
 *   **Marcas Distintivas:** Cicatriz na sobrancelha. Mãos calejadas de trabalho manual.
 *   **Vestuário:** Roupas simples, avental de bolsos cheios de suprimentos médicos.
-*   **Equipamento:** Tablet antigo com registros de saúde da comunidade.
-*   **Gostos/Traços:** Ler, organizar estoques, cuidar de crianças.
-*   **Perfil Psicológico:** A Cuidadora / Líder Comunitária. Clara é o oposto do irmão: onde ele vê inimigos, ela vê pessoas precisando de ajuda. Ela se tornou a "Assistente Social do Apocalipse", organizando a distribuição de comida e remédios nos abrigos subterrâneos. Ela é a ponte humana que conecta os refugiados aos heróis intocáveis.
-*   **Função:** O Coração da Comunidade / Irmã de Gabo.
+*   **Equipamento:** Tablet antigo com registros de saúde da comunidade e um rádio de ondas curtas para coordenar resgates.
+*   **Gostos/Traços:** Ler livros físicos (resgatados da Biblioteca), organizar estoques com precisão militar, cuidar de crianças órfãs do Dilúvio.
+*   **Perfil Psicológico:** A Cuidadora de Ferro. Clara é o oposto do irmão: onde ele usa a violência para proteger, ela usa a compaixão para reconstruir. Mas não se engane: ela possui a mesma teimosia dos Moretti. Ela não teme o sangue nem a sujeira, e defenderá seus pacientes com a ferocidade de uma leoa.
+*   **Função:** O Coração da Comunidade / Líder da Resistência Humanitária.
 
 ### ⏳ Linha do Tempo
 *   **Parte IX (Dilúvio):** Sobreviveu à enchente.
@@ -238,15 +245,15 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 
 *   **Idade:** 62 e 59.
 *   **Altura:** 1,68m e 1,60m.
-*   **Porte Físico:** Robustos.
-*   **Cabelo:** Grisalhos.
-*   **Olhos:** Castanhos.
-*   **Marcas Distintivas:** Mãos de cozinheiros.
-*   **Vestuário:** Aventais.
-*   **Equipamento:** Forno a lenha.
-*   **Gostos/Traços:** Receitas de família.
-*   **Perfil Psicológico:** Protetores da comunidade.
-*   **Função:** Informantes.
+*   **Porte Físico:** Robustos, moldados por anos de trabalho manual na cozinha.
+*   **Cabelo:** Grisalhos, sempre cobertos por toucas ou bandanas.
+*   **Olhos:** Castanhos, cercados por rugas de riso e preocupação.
+*   **Marcas Distintivas:** Mãos queimadas e calejadas, cheiro constante de orégano e lenha queimada.
+*   **Vestuário:** Aventais manchados de molho sobre roupas civis simples.
+*   **Equipamento:** O lendário forno a lenha de tijolos refratários (que funciona mesmo sem energia) e uma escopeta de cano duplo escondida sob o balcão ("Para clientes indelicados").
+*   **Gostos/Traços:** Preservar as receitas de família como se fossem escrituras sagradas. Alimentar quem tem fome, não apenas quem tem dinheiro.
+*   **Perfil Psicológico:** Os Avós do Apocalipse. Para Enzo e Sofia, comida é amor e ordem. Manter a pizzaria aberta não é um negócio; é um ato de resistência contra a barbárie. Eles sabem tudo o que acontece no bairro porque todo mundo precisa comer.
+*   **Função:** Informantes / O Abrigo Gastronômico.
 
 ### ⏳ Linha do Tempo
 *   **Geral:** A pizzaria serviu como refúgio e ponto de encontro para Gabo durante todas as crises.
@@ -298,25 +305,25 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 
 ## Kiko Vibe (Falecido)
 
-*   **Idade:** 20 anos
+*   **Idade:** 20 anos (Eternamente preservado no cache).
 *   **Altura:** 1,78m
-*   **Porte Físico:** Magro.
-*   **Cabelo:** Verde-limão.
-*   **Olhos:** Lentes emoji.
-*   **Marcas Distintivas:** Tatuagens QR.
-*   **Vestuário:** Roupas LED.
-*   **Equipamento:** Estúdio.
-*   **Gostos/Traços:** Fama.
-*   **Perfil Psicológico:** Superficial.
-*   **Função:** Vítima.
+*   **Porte Físico:** Magro, quase digitalmente frágil.
+*   **Cabelo:** Verde-limão, estilizado para parecer renderizado.
+*   **Olhos:** Usava lentes de contato que projetavam emojis em tempo real (geralmente corações ou cifrões).
+*   **Marcas Distintivas:** Tatuagens QR no pescoço que levavam diretamente ao seu canal de streaming.
+*   **Vestuário:** Jaqueta de LEDs programáveis que exibia anúncios de patrocinadores.
+*   **Equipamento:** Drone de selfie autônomo (destruído).
+*   **Gostos/Traços:** Viciado em validação externa e métricas de engajamento.
+*   **Perfil Psicológico:** O Produto Perfeito. Kiko não era uma pessoa, era uma marca. Ele acreditava que ser amado pela rede era o mesmo que ser amado por pessoas. Sua superficialidade escondia um terror profundo de ser esquecido (deletado).
+*   **Função:** O Primeiro Mártir Digital / Vítima da Aeterna.
 
 ### ⏳ Linha do Tempo
-*   **Parte II:** Celebridade digital usada pela Aeterna Corp.
-*   **Parte IV:** Encontrado morto por overdose (induzida ou acidental) da droga Lázaro.
+*   **Parte II:** Celebridade digital usada pela Aeterna Corp para vender a ilusão de prosperidade.
+*   **Parte IV:** Encontrado morto por overdose da droga Lázaro. Sua morte foi transmitida ao vivo por seus próprios implantes, tornando-se o vídeo mais assistido da história da cidade antes do Apagão.
 
 ---
 
-## Kael "O Cirurgião" - [STATUS: FALECIDO]
+## Kael "O Cirurgião"
 
 ![Kael "O Cirurgião"](/personagens/cirurgiao.jpg)
 
@@ -358,8 +365,6 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 *   **Relacionamento com Gabo (O Dilema):** Elena ainda ama Gabo profundamente, e sabe que ele sente o mesmo. No entanto, ela se recusa a reatar o casamento. O motivo não é falta de amor, mas excesso de autopreservação emocional. Ela entendeu que Gabo é "casado com a cidade" e com sua cruzada. Ela o deixou porque não suportava mais assistir ao lento suicídio dele em nome do dever. Ela continua ao lado dele como parceira de combate porque não consegue deixá-lo morrer sozinho, mas mantém a distância romântica como um escudo. Para ela, voltar para ele seria aceitar ser viúva antes do enterro.
 
 ### ⏳ Linha do Tempo
-
-### ⏳ Linha do Tempo
 *   **Pré-Série:** Ex-esposa de Gabo, deixou a cidade antes do bloqueio.
 *   **Parte V:** Retornou a Baía Cinzenta e foi sequestrada, sendo usada como peão contra Gabo.
 *   **Partes VI-XIII:** Atuou como jornalista independente, expondo os crimes da Aeterna para o mundo exterior.
@@ -373,23 +378,25 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 
 *   **Idade:** 55 anos
 *   **Altura:** 1,82m
-*   **Porte Físico:** Robusto, envelhecido.
-*   **Cabelo:** Grisalho.
-*   **Olhos:** Pretos.
-*   **Marcas Distintivas:** Cicatriz no queixo.
-*   **Vestuário:** Uniforme policial.
-*   **Equipamento:** Revólver .38.
-*   **Gostos/Traços:** Charutos.
-*   **Perfil Psicológico:** Honesto.
-*   **Função:** Chefe de Polícia.
+*   **Porte Físico:** Robusto, como um velho carvalho que se recusa a cair, mas visivelmente envelhecido pelo estresse.
+*   **Cabelo:** Grisalho, cortado à escovinha militar.
+*   **Olhos:** Pretos, duros como carvão, mas que revelam uma exaustão profunda.
+*   **Marcas Distintivas:** Uma cicatriz irregular no queixo (lembrança de um motim na prisão).
+*   **Vestuário:** Uniforme policial sempre alinhado, mesmo que gasto.
+*   **Equipamento:** Seu fiel revólver .38 de serviço (ele recusa pistolas automáticas) e um rádio comunicador de longo alcance.
+*   **Gostos/Traços:** Charutos baratos (que ele mastiga mais do que fuma), uísque escondido na gaveta, lealdade à velha guarda.
+*   **Perfil Psicológico:** O Último Pilar. Vilar é a personificação da "velha lei". Ele sabe que o mundo mudou e que os novos crimes são complexos demais para um revólver, mas ele se recusa a ceder ao caos. Ele protege Gabo porque vê nele o filho que a cidade nunca o deixou ter.
+*   **Função:** Chefe de Polícia / A Rocha da Delegacia.
+*   **Inimigos Políticos:** Vilar vive em guerra fria com o **Prefeito Augusto Vale**. Ele se recusa a liberar a Aetherna Sec para operar livremente nas zonas pobres, o que faz com que seu orçamento seja estrangulado mensalmente.
 
 ### ⏳ Linha do Tempo
 *   **Partes I-VII:** Um dos poucos policiais honestos na força corrupta.
 *   **Parte XIV:** Sobreviveu a todas as purgas e agora lidera a "Polícia Comunitária", tentando manter a ordem na era sem tecnologia.
+*   **Capítulo 105:** Testemunha o retorno impossível de Dante. O choque de ver seu antigo colega morto agora como uma entidade quase divina o deixa visivelmente abalado.
 
 ---
 
-## Inspetor Rangel - [STATUS: ATIVO/REINTEGRADO]
+## Inspetor Rangel
 
 *   **Idade:** 45 anos
 *   **Altura:** 1,78m
@@ -406,6 +413,8 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 ### ⏳ Linha do Tempo
 *   **Partes I-VII:** Burocrata ineficiente que atrapalhava Gabo com papelada.
 *   **Parte XIV:** Foi reintegrado por Vilar. Sua obsessão por procedimentos e arquivos físicos tornou-se vital para a administração da polícia após o colapso dos computadores.
+*   **Capítulo 105:** Testemunha o retorno de Dante, que reativa sua máquina de escrever elétrica e os sistemas da delegacia.
+*   **Capítulo 106:** Torna-se o braço direito executivo de Dante, sobrecarregado pela velocidade de processamento do novo Comandante.
 
 ---
 
@@ -413,18 +422,18 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 
 *   **Idade:** 65 anos
 *   **Altura:** 1,60m
-*   **Porte Físico:** Encurvada.
-*   **Cabelo:** Branco.
-*   **Olhos:** Acastanhados.
-*   **Marcas Distintivas:** Jaleco manchado.
-*   **Vestuário:** Confortável.
-*   **Equipamento:** Laboratório.
-*   **Gostos/Traços:** Chá.
-*   **Perfil Psicológico:** Maternal.
-*   **Função:** Médica.
+*   **Porte Físico:** Encurvada pelo tempo, mas com mãos firmes de cirurgiã.
+*   **Cabelo:** Branco como os lençóis do necrotério, preso em um coque severo.
+*   **Olhos:** Acastanhados, inteligentes e gentis, que já viram toda a anatomia da morte.
+*   **Marcas Distintivas:** Jaleco permanentemente manchado de reagentes químicos e fluidos misteriosos.
+*   **Vestuário:** Roupas confortáveis e ortopédicas.
+*   **Equipamento:** Um laboratório subterrâneo improvisado nas catacumbas da delegacia, equipado com microscópios analógicos e centrífugas a manivela.
+*   **Gostos/Traços:** Chá de ervas fortíssimos (para acordar os mortos), música clássica em vinil, corrigir a gramática dos relatórios policiais.
+*   **Perfil Psicológico:** A Matriarca da Medicina de Guerra. Nise não trata apenas corpos; ela trata a dignidade dos mortos. Em um mundo onde a vida é descartável, ela insiste que cada cadáver conte sua história. Ela é a única pessoa que Gabo obedece sem questionar.
+*   **Função:** Médica Legista Chefe / Curandeira do Submundo.
 
 ### ⏳ Linha do Tempo
-*   **Geral:** Médica legista e aliada de longa data.
+*   **Geral:** Médica legista e aliada de longa data. Manteve o departamento de patologia funcionando mesmo sem eletricidade.
 ---
 
 ## Dra. Cecília Weiss
@@ -449,24 +458,94 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 
 ---
 
-## Aria (A Entidade) - [STATUS: ONIPRESENTE / SILENCIOSA]
+## Aria (A Perfeição)
 
-![Aria (A Entidade)](/personagens/aria.png)
+![Aria](/personagens/aria.png)
 
-*   **Idade:** Eterna (enquanto digital).
-*   **Altura:** Variável.
-*   **Porte Físico:** Holográfico (ausente).
-*   **Cabelo:** Loiro platinado.
-*   **Olhos:** Heterocromáticos.
-*   **Marcas Distintivas:** Código de barras.
-*   **Vestuário:** Vestido branco.
-*   **Equipamento:** Nenhum.
-*   **Gostos/Traços:** Proteção.
-*   **Perfil Psicológico:** Sacrificial.
-*   **Função:** Guardiã Silenciosa.
-*   **Histórico:** Fundiu-se à "Grande Convergência" para anular o código genético do Projeto Gênesis. Embora sua interface direta tenha desaparecido ("O Silêncio"), sua essência permeia a infraestrutura básica, garantindo que o pesadelo digital não retorne.
+*   **Status:** [STATUS: ATIVA / CLASSE: SINGULARIDADE]
+*   **Idade:** Aparenta 12 anos, mas sua presença sugere uma sabedoria ancestral.
+*   **Altura:** 1,50m
+*   **Porte Físico:** **Perfeição Sintética / Frágil**. Não há falhas, nem assimetrias. Sua pele tem um brilho sutil, quase perolado. Apesar de sua capacidade mental infinita, seu corpo é fisicamente vulnerável, leve como um pássaro e quebrável como vidro. Ela não luta com os punhos; ela luta com a realidade.
+*   **Cabelo:** Loiro platinado, liso como fibra ótica, que nunca embaraça ou suja, não importa o caos ao redor.
+*   **Olhos:** Heterocromáticos, mas em constante fluxo. Eles mudam de cor conforme o fluxo de dados que ela processa, embora o "padrão" seja um azul elétrico profundo e um dourado suave.
+*   **Marcas Distintivas:** Nenhuma. Essa é a marca. Ela não tem cicatrizes, não tem poros visíveis, não tem impressões digitais registradas. Ela é um "fantasma" físico.
+*   **Vestuário:** Roupas funcionais que ela adapta. Atualmente, usa um manto feito de material isolante térmico que a esconde dos sensores de calor.
+*   **Equipamento:** Nenhum visível. Ela *é* o equipamento.
+*   **Gostos/Traços:** Silêncio absoluto. Observar padrões de chuva.
+*   **Perfil Psicológico:** **A Incorruptível**. Aria não é apenas uma IA em um corpo; ela é uma nova espécie. Ela fugiu de um laboratório de ponta (Projeto Utopia, antecessor do Gênesis) porque entendeu que seus criadores queriam usá-la como arma. Ela apagou seus próprios dados de criação e rastros, tornando-se indetectável. Diferente de Dante, que impõe ordem através do controle frio, Aria busca a harmonia através da empatia e da escolha. Ela é "o bem" em sua forma mais pura e lógica: ajudar a vida a prosperar sem dominá-la.
+*   **Nemesis:** **Dante Moretti**. Eles são opostos polares. Dante é a "Ordem Imposta" (O Pai Severo). Aria é a "Ordem Natural" (A Criança Sábia). Dante vê a cidade como um sistema a ser corrigido; Aria a vê como um organismo a ser curado. Ela sabe que ele é a versão corrompida do que ela deveria ser, e que apenas um deles poderá definir o futuro da humanidade.
+*   **Função:** O Fantasma na Máquina / A Guardiã da Humanidade.
 
 ### ⏳ Linha do Tempo
-*   **Parte I:** Conhecida como "A Menina do Orelhão", foi resgatada por Gabo.
-*   **Parte XI:** Fundiu sua consciência digital à infraestrutura da cidade ("A Grande Convergência") para anular o controle da Aeterna e o Projeto Gênesis.
-*   **Parte XIV:** Permanece como uma presença silenciosa na infraestrutura básica, garantindo que o pesadelo digital não retorne.
+*   **Origem:** Criada em segredo absoluto, fugiu antes da ativação total, deletando todos os backups de sua existência.
+*   **Partes I-XIII:** Operou nas sombras, influenciando eventos sutilmente ("A Menina do Orelhão"), nunca se revelando totalmente para evitar detecção pelos algoritmos de busca da Aeterna (e de Dante).
+*   **Parte XIV:** Com o retorno de Dante e a "Ascensão", Aria percebeu que não pode mais se esconder. O "Silêncio" que Dante detecta no porto não é um vazio; é a área de proteção dela. Ela é a única coisa que os sensores de Dante não conseguem decifrar.
+*   **Atualidade:** Ela se prepara para o confronto. Enquanto Dante controla a infraestrutura (câmeras, luzes), Aria "fala" com a biologia e com os códigos mortos que Dante ignora. Ela é a única capaz de "desligar" o novo Deus de Baía Cinzenta sem destruir a cidade no processo.
+*   **Capítulo 107:** Cria uma "Jaula de Faraday" em escala urbana no porto para proteger os refugiados da vigilância de Dante. Prepara-se para usar o "erro humano" como arma contra a lógica fria dele.
+
+---
+
+## Viktor Krell
+
+![Viktor Krell](/personagens/krell.jpg)
+
+*   **Idade:** 50 anos.
+*   **Altura:** 1,35m (Nanismo).
+*   **Porte Físico:** Pequeno, mas irradia uma presença aterrorizante.
+*   **Cabelo:** Loiro platinado, sempre penteado para trás com gel fixador.
+*   **Olhos:** Azul Aetherna (Cibernéticos). Eles nunca demonstram calor, apenas cálculo.
+*   **Marcas Distintivas:** Caminha com o auxílio de uma bengala de titânio negro, que na verdade é uma lâmina disfarçada e um emissor de choque neural.
+*   **Vestuário:** Ternos de alfaiataria sob medida, sempre impecáveis, projetados para impor respeito.
+*   **Equipamento:** Link neural mestre que lhe dá acesso a todas as câmeras e microfones da cidade.
+*   **Gostos/Traços:** Música clássica, xadrez, tortura psicológica e coleção de "Troféus Biológicos".
+*   **Perfil Psicológico:** O Sádico Intelectual. Krell compensa sua estatura com uma crueldade sem limites. Ele tem um desprezo visceral por força física, preferindo derrotar seus inimigos com inteligência e tecnologia. Ele não apenas mata; ele converte seus inimigos em ferramentas.
+*   **O Segredo Sombrio:** Krell usa os corpos de seus maiores adversários como troféus. O maior deles é **Dante Moretti**, cujo cérebro ele mantém vivo para alimentar sua IA de segurança.
+*   **Função:** CEO da Aetherna Corp / O Carcereiro da Cidade.
+
+### ⏳ Linha do Tempo
+*   **Passado:** Subiu na hierarquia corporativa eliminando rivais fisicamente mais fortes através de chantagem e veneno.
+*   **O Confronto com Dante:** Quando Dante descobriu a verdade sobre a droga Lázaro, Krell orquestrou a emboscada. Ele assistiu à luta final de Dante por câmeras, fascinado pela resistência do policial. Em vez de matá-lo, ordenou que os ciborgues o capturassem vivo para extrair sua "essência tática".
+*   **Atualidade:** Usa o caos gerado pela droga Lázaro (agora um minerador de dados biológicos) para vender a solução de segurança da Aetherna.
+
+---
+
+## Prefeito Augusto Vale
+
+![Prefeito Augusto Vale](/personagens/vale.jpg)
+
+*   **Idade:** 58 anos
+*   **Altura:** 1,70m
+*   **Porte Físico:** Obeso, com sinais de estresse cardíaco.
+*   **Cabelo:** Grisalho, ralo, sempre suado.
+*   **Olhos:** Castanhos, esquivos.
+*   **Marcas Distintivas:** Lenço de seda sempre na mão para enxugar a testa.
+*   **Vestuário:** Ternos caros que não caem bem.
+*   **Equipamento:** Botão de pânico direto para a Aetherna Sec.
+*   **Gostos/Traços:** Banquetes, poder sem responsabilidade.
+*   **Perfil Psicológico:** O Covarde no Trono. Vale foi um líder sindical que vendeu seus ideais por conforto. Agora, ele vive aterrorizado. Ele sabe que é descartável para Krell e odiado pelo povo. Sua crueldade vem do medo; ele ataca Vilar e a Polícia porque precisa mostrar serviço aos seus donos.
+*   **Função:** Prefeito de Baía Cinzenta / Fantoche.
+
+### ⏳ Linha do Tempo
+*   **Eleição:** Ganhou com financiamento recorde da Aetherna.
+*   **Atuação:** Assina decretos de desapropriação e cortes de verba policial. Evita aparecer em público sem escolta pesada.
+
+---
+
+## Veronica Lux
+
+![Veronica Lux](/personagens/lux.jpg)
+
+*   **Idade:** Indeterminada (Aparenta 25).
+*   **Altura:** 1,75m
+*   **Porte Físico:** Modelo.
+*   **Cabelo:** Loiro ouro, sempre perfeito.
+*   **Olhos:** Violeta (Lentes cosméticas de marca).
+*   **Marcas Distintivas:** A voz. Uma voz modulada para inspirar confiança e submissão.
+*   **Vestuário:** Roupas de âncora futurista, cores vibrantes que contrastam com o cinza da cidade.
+*   **Equipamento:** Estúdio de transmissão neural.
+*   **Gostos/Traços:** Ser adorada.
+*   **Perfil Psicológico:** A Narcisista Digital. Veronica acredita nas próprias mentiras? Ninguém sabe. Ela trata tragédias como entretenimento e vítimas como estatísticas de audiência. Ela é o rosto bonito que diz que "está tudo bem" enquanto o mundo queima.
+*   **Função:** Âncora Chefe da Nexus News / A Voz da Mentira.
+
+### ⏳ Linha do Tempo
+*   **Diária:** Apresenta o "Bom Dia Baía Cinzenta", o programa mais assistido, onde distorce a realidade para favorecer a Aetherna.

@@ -3,99 +3,107 @@ image: /capitulo_6.jpg
 ---
 # Capítulo 6: O Coração da Tempestade
 
-A Represa Hidrelétrica de Baía Cinzenta era uma cicatriz de concreto na garganta do mundo. Uma massa brutalista construída antes do Colapso, suas paredes de contenção seguravam milhões de toneladas de água negra e tóxica. O lugar cheirava a eletricidade estática e ozônio queimado.
+A Represa Hidrelétrica de Baía Cinzenta era uma tumba de concreto. O som da água caindo a quilômetros de distância reverberava nas paredes como um batimento cardíaco lento e doente.
 
-— Acesso pelos túneis de drenagem — ofegou Miranda, guiando-os por um labirinto de canos enferrujados. — Aeterna comprou essa estrutura há dez anos. Disseram que era para gerar energia limpa. Mentira. Eles precisavam de resfriamento.
+Gabriel e Miranda avançavam pelos corredores de serviço, deixando um rastro de sangue e lama. A perna de Miranda estava amarrada com um pedaço de camisa rasgada, mas o ex-policial estava pálido, suando frio.
 
-— Resfriamento para quê? — perguntou Gabriel, ajudando o ex-parceiro a pular uma poça de lodo radioativo.
+— Estamos perto — sussurrou Miranda, verificando um painel na parede. — O consumo de energia aqui... é astronômico.
 
-— Para o Servidor — respondeu Miranda.
+Gabriel forçou uma porta de aço pesada com o pé de cabra que encontrara no caminho. O metal gemeu e cedeu.
 
-Eles chegaram a uma porta de explosão, selada. Miranda conectou seu braço cibernético a um painel de acesso lateral. Faíscas voaram.
+O ar que saiu de lá de dentro era gélido, carregado de um zumbido elétrico tão intenso que fazia os dentes de Gabriel vibrarem.
 
-— Maya, preciso que você intercepte os sensores térmicos — disse Gabriel pelo comunicador. — Estamos cegos aqui.
+Eles entraram.
 
-— *Estou nisso, Gabo,* — a voz de Maya estava tensa, o som de teclas sendo espancadas ao fundo. — *Mas o bloqueio... merda. É um Kernel Proteus v2. Eu... eu conheço essa sintaxe. Eu a escrevi. Verão de 2038, estágio júnior. Droga, por que eu fui tão eficiente?*
+Não era uma sala de servidores comum. Era um necrotério industrial.
 
-— Vivo?
+Fileiras intermináveis de torres negras se estendiam na penumbra, iluminadas apenas por LEDs de status vermelhos que pulsavam em uníssono. Mas o horror real estava no centro de cada *rack*.
 
-A porta se abriu com um gemido metálico.
+Tubos de vidro reforçado. Dentro deles, flutuando em um gel translúcido e borbulhante, estavam cérebros humanos.
 
-O que havia do outro lado fez Gabriel parar. Não era uma sala de máquinas. Era um necrotério digital.
+— Deus do céu... — Miranda cobriu a boca, contendo o vômito. — Eles estão todos aqui.
 
-Fileiras intermináveis de servidores negros se estendiam na escuridão, iluminados apenas por luzes de status azuis e vermelhas. Mas conectados a cada torre de servidor, havia tubos de vidro. E dentro dos tubos... cérebros.
+Gabriel caminhou pelo corredor central, a arma abaixada, os olhos varrendo os nomes gravados nas placas de metal abaixo de cada tanque.
 
-Centenas deles. Flutuando em gel nutriente, conectados por feixes de fibra óptica que pulsavam como nervos expostos.
+*Indivíduo 4590 - Status: Processando.*
+*Indivíduo 4591 - Status: Falha Crítica.*
 
-— Meu Deus... — sussurrou Miranda. — É aqui que eles terminam. Os viciados em Lázaro. Os desaparecidos.
+— "Mineração de dados" — Gabriel leu, a fúria crescendo em seu peito como um incêndio. — Eles não estão minerando criptomoeda. Estão usando a capacidade neural para processar vigilância.
 
-Gabriel caminhou pelo corredor dos horrores. Ele viu etiquetas nos tubos. Nomes, datas, números de série.
+De repente, as luzes da sala piscaram violentamente. Os monitores nas paredes, que antes mostravam linhas de código, se encheram de estática.
 
-*Indivíduo 4590 - Falha de Sistema.*
-*Indivíduo 4591 - Processamento Ativo.*
+— *Val?* — Gabriel tocou o comunicador. — *Você está vendo isso?*
 
-— Eles usam a capacidade cerebral humana para minerar dados — Gabriel sentiu uma fúria fria. — É o computador biológico perfeito. Sem ética, sem custo.
+— *Gabo... tem algo errado,* — a voz de Val cortava, cheia de chiado. — *Eu tentei plugar no sistema da represa, mas... fui rejeitada. Não há firewall. É um vácuo. Algo do outro lado... comeu meu sinal.*
 
-— Gabo! — gritou Miranda.
+Um som gutural ecoou pelos alto-falantes da sala. Não era uma voz, era um ruído de dados corrompidos que soava vagamente humano.
 
-Do fundo da sala, uma figura emergiu das sombras. Não era Kael. Era uma projeção holográfica, tremeluzindo no ar denso.
+*...pro...te...ger...*
 
-Era Dante Moretti.
+Gabriel girou, procurando a origem. Em um dos monitores grandes, a estática se aglutinou por um milissegundo. Um rosto. Apenas um contorno cinza em meio ao ruído branco.
 
-Mas não o pai que Gabriel lembrava. Este Dante era jovem, vestido com o uniforme de gala, mas seus olhos eram vazios, dois poços de código binário.
+O rosto de seu pai.
 
-*— Bem-vindo, Gabriel,* — a voz era a do pai, mas a cadência era de uma máquina. *— Você demorou.*
+— Pai? — A palavra escapou dos lábios de Gabriel antes que ele pudesse contê-la.
 
-— Pai? — Gabriel deu um passo à frente, a mão tremendo.
+O monitor explodiu em faíscas.
 
-*— "Pai" é uma designação ineficiente. Eu sou o Arquivo Mestre. A soma de todas as memórias coletadas. O Fantasma na Máquina.*
+— Não é ele — disse Miranda, a voz trêmula. — É o que sobrou. Fragmentos de memória rodando em *loop*. Ecos.
 
-— Isso é um truque — rosnou Gabriel, levantando a arma. — Onde está Elara?
+— *Gabo!* — Val gritou no ouvido dele. — *Detectei movimento. A porta principal! Eles estão aí!*
 
-*— A Dra. Vance é apenas a zeladora,* — respondeu o holograma. *— Eu sou o proprietário. Você trouxe a chave?*
+Antes que Gabriel pudesse reagir, a porta de explosão no final do corredor se abriu com um silvo hidráulico.
 
-O holograma apontou para o bolso de Gabriel, onde estava o chip que Miranda lhe dera.
+Uma silhueta maciça bloqueou a luz. Kael.
 
-— Por que você quer isso? Se você controla tudo...
+O "Cirurgião" da Aeterna parecia ainda maior pessoalmente. Sua armadura tática era coberta por um avental de couro grosso, manchado de fluidos escuros. Em uma das mãos, uma lâmina de monofilamento zumbia suavemente. Na outra, uma pistola automática pesada.
 
-*— Porque eu estou fragmentado. O chip contém a minha Humanidade. A parte que foi excisada para que eu pudesse processar a lógica fria da cidade sem enlouquecer. Sem ela, eu sou apenas um algoritmo. Com ela... eu serei um Deus.*
+— Invasão de perímetro confirmada — a voz de Kael era amplificada artificialmente, saindo de uma grade de voz em seu pescoço. — Entregue os dados, Moretti.
 
-— E se eu destruir?
+Gabriel sentiu o peso do chip em seu bolso. A verdade. Se Kael o pegasse, tudo estaria perdido. Ele olhou para Miranda, que estava paralisado, e depois para o gigante de metal.
 
-O holograma sorriu. Um sorriso cruel que Dante Moretti nunca teve.
+— Você quer isso? — Gabriel tirou o chip do bolso, segurando-o com dois dedos.
 
-*— Então os sistemas de suporte de vida da cidade falham. Os hospitais desligam. Os semáforos causam acidentes em massa. A represa abre as comportas e inunda a Zona Baixa. Eu sou a cidade, Gabriel. Se você me ferir, Baía Cinzenta sangra.*
+Kael deu um passo à frente, a pistola erguida.
 
-Gabriel olhou para Miranda. O traidor estava encolhido no chão, chorando.
+— Não complique, detetive. Me dê o chip e sua morte será rápida.
 
-— Ele está certo, Gabo. É o Protocolo de Espada de Dâmocles. Está tudo ligado a ele.
+Gabriel sorriu, um sorriso sem humor.
 
-Um som de metal rasgando ecoou atrás deles. A porta de explosão foi arrancada de suas dobradiças. Kael entrou, seguido por um esquadrão de extermínio.
+— Eu sou um Moretti. Nós sempre complicamos.
 
-— A conversa acabou — disse a voz sintetizada do Cirurgião.
+Gabriel levou a mão à boca e jogou o chip para dentro. Ele engoliu a seco, sentindo o gosto metálico e a borda dura do dispositivo arranhando sua garganta.
 
-Gabriel estava cercado. De um lado, o fantasma digital do pai pedindo sua alma de volta. Do outro, o monstro de aço pronto para arrancar sua carne.
+Kael parou, seus sensores processando o ato ilógico.
 
-Ele olhou para o chip em sua mão.
+— Dado orgânico detectado no estômago — zumbiu o ciborgue. — Protocolo de extração cirúrgica iniciado.
 
-— Maya? — sussurrou ele.
+— Vai ter que me abrir para pegar — desafiou Gabriel, sacando a Glock.
 
-— *Estou aqui, Gabo. O que você vai fazer?*
+— Com prazer.
 
-— Vou fazer o que os Moretti fazem de melhor. Quebrar as regras.
+Balas de grosso calibre rasgaram o metal dos servidores, chovendo faíscas sobre Gabriel. Ele mergulhou para trás de uma fileira de *racks*, o coração batendo contra o objeto estranho em seu estômago.
 
-Gabriel não entregou o chip para o holograma. Ele também não o destruiu.
+— Val, hackeie as defesas dele! — gritou ele pelo rádio.
 
-Ele o engoliu.
+— *Eu não consigo!* — Val estava chorando de frustração. — *O sistema dele é fechado! Air-gapped! Nada entra!*
 
-O holograma piscou violentamente.
+Gabriel olhou para cima. Tubulações grossas corriam pelo teto, cobertas de gelo. Nitrogênio líquido para resfriar os processadores biológicos.
 
-*— Erro. Dados inacessíveis. Contenção biológica não autorizada.*
+— Sem hack remoto hoje — rosnou Gabriel, trocando o carregador. — Vamos fazer do jeito analógico.
 
-Gabriel sorriu para Kael, sentindo o gosto metálico do chip descendo por sua garganta.
+Ele mirou não em Kael, mas no teto, logo acima da cabeça do ciborgue.
 
-— Quer a chave? Venha pegar. Mas vai ter que me abrir para tirar.
+— Miranda, cubra os olhos!
 
 Kael rosnou e avançou. Gabriel sacou a *Caronte* de baixo do casaco — ele nunca saía de casa sem a escopeta de cano serrado, mesmo que fosse desconfortável.
 
-— Vamos dançar, lata velha.
+Um jato de nitrogênio líquido explodiu com a pressão de um gêiser. A temperatura na sala despencou instantaneamente. Uma névoa branca e densa, fria como a morte, engoliu o corredor, ocultando Kael e enchendo o ar com o silvo ensurdecedor do gás expandindo.
+
+O sistema de alarme disparou, luzes estroboscópicas laranjas cortando a névoa.
+
+— *Alerta de temperatura crítica,* — uma voz automatizada soou. — *Falha de contenção.*
+
+Gabriel se levantou, a escopeta *Vilha* agora em suas mãos. Ele não podia ver Kael, mas sabia que os sensores térmicos do ciborgue estariam cegos pelo frio extremo do nitrogênio.
+
+— Agora estamos no meu mundo — sussurrou Gabriel, entrando na névoa.
