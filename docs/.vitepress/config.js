@@ -226,6 +226,7 @@ module.exports = {
               { text: 'Capítulo 108: Ratos de Cais', link: '/capitulo-108' },
               { text: 'Capítulo 109: Frequência Fantasma', link: '/capitulo-109' },
               { text: 'Capítulo 110: Ponto Cego', link: '/capitulo-110' },
+              { text: 'Capítulo 111: Arquivos Mortos', link: '/capitulo-111' },
             ]
           },
         ]

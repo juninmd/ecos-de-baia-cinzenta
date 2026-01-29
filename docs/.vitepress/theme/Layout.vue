@@ -9,6 +9,7 @@ const { Layout } = DefaultTheme
 const { frontmatter } = useData()
 
 const isTerminalOpen = ref(false)
+const isReaderMode = ref(false)
 const progress = ref(0)
 let docHeight = 0
 let ticking = false
@@ -16,6 +17,15 @@ let resizeObserver = null
 
 const toggleTerminal = () => {
   isTerminalOpen.value = !isTerminalOpen.value
+}
+
+const toggleReaderMode = () => {
+  isReaderMode.value = !isReaderMode.value
+  if (isReaderMode.value) {
+    document.body.classList.add('reader-mode-active')
+  } else {
+    document.body.classList.remove('reader-mode-active')
+  }
 }
 
 const handleKeydown = (e) => {
@@ -65,6 +75,8 @@ onUnmounted(() => {
   if (resizeObserver) {
     resizeObserver.disconnect()
   }
+  // Cleanup reader mode class
+  document.body.classList.remove('reader-mode-active')
 })
 </script>
 
@@ -80,6 +92,9 @@ onUnmounted(() => {
 
     <!-- Floating Action Button for Terminal -->
     <template #layout-bottom>
+      <button class="fab-btn reader-fab" @click="toggleReaderMode" :aria-label="isReaderMode ? 'Sair do Modo Leitura' : 'Modo Leitura'" :title="isReaderMode ? 'Sair do Modo Leitura' : 'Modo Leitura'">
+        <span class="reader-icon">{{ isReaderMode ? '✕' : '📖' }}</span>
+      </button>
       <button class="fab-btn terminal-fab" @click="toggleTerminal" aria-label="Abrir Terminal Lázaro" title="Acessar Sistema">
         <span class="terminal-icon">_></span>
       </button>
@@ -179,5 +194,43 @@ onUnmounted(() => {
 
 .terminal-icon {
   text-shadow: 0 0 10px currentColor;
+}
+
+/* ===== READER MODE FAB ===== */
+.reader-fab {
+  position: fixed;
+  bottom: 90px;
+  right: 24px;
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  z-index: 9998;
+  background: linear-gradient(135deg, #1a1a1a 0%, #2a2a2a 100%);
+  border: 1px solid var(--neon-purple, #a855f7);
+  color: var(--neon-purple, #a855f7);
+  font-size: 1.5rem;
+  box-shadow:
+    0 4px 20px rgba(168, 85, 247, 0.3),
+    inset 0 0 20px rgba(168, 85, 247, 0.1);
+  transition: all 0.3s ease;
+}
+
+.reader-fab:hover {
+  transform: scale(1.1);
+  background: var(--neon-purple, #a855f7);
+  color: #fff;
+  box-shadow:
+    0 0 30px rgba(168, 85, 247, 0.6),
+    0 0 60px rgba(168, 85, 247, 0.3);
+}
+
+body.reader-mode-active .reader-fab {
+  background: rgba(255, 255, 255, 0.1);
+  border-color: rgba(255, 255, 255, 0.5);
+  color: #fff;
 }
 </style>
