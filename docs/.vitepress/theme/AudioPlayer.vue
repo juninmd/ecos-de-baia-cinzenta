@@ -438,40 +438,50 @@ const pause = () => {
 </style>
 
 <style scoped>
+/* ===== NAVIGATION MODAL ===== */
 .navigation-modal-overlay {
   position: fixed;
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(0, 0, 0, 0.7);
+  background-color: rgba(0, 0, 0, 0.85);
   display: flex;
   justify-content: center;
   align-items: center;
   z-index: 10000;
-  backdrop-filter: blur(5px);
+  backdrop-filter: blur(8px);
 }
 
 .navigation-modal {
-  background-color: var(--vp-c-bg);
+  background: linear-gradient(135deg, rgba(13, 13, 20, 0.95) 0%, rgba(20, 20, 30, 0.95) 100%);
   padding: 2rem;
-  border-radius: 8px;
-  box-shadow: 0 4px 20px rgba(0,0,0,0.4);
+  border-radius: 12px;
+  box-shadow: 
+    0 0 40px rgba(168, 85, 247, 0.3),
+    0 20px 60px rgba(0, 0, 0, 0.5);
   text-align: center;
-  border: 1px solid var(--vp-c-brand);
+  border: 1px solid rgba(168, 85, 247, 0.4);
   display: flex;
   flex-direction: column;
   align-items: center;
   gap: 1rem;
 }
 
+.navigation-modal p {
+  color: rgba(255, 255, 255, 0.9);
+  font-family: "Orbitron", sans-serif;
+  letter-spacing: 0.05em;
+}
+
 .spinner {
   width: 40px;
   height: 40px;
-  border: 4px solid var(--vp-c-divider);
-  border-top: 4px solid var(--vp-c-brand);
+  border: 3px solid rgba(168, 85, 247, 0.2);
+  border-top: 3px solid #a855f7;
   border-radius: 50%;
   animation: spin 1s linear infinite;
+  box-shadow: 0 0 15px rgba(168, 85, 247, 0.4);
 }
 
 @keyframes spin {
@@ -479,30 +489,39 @@ const pause = () => {
   100% { transform: rotate(360deg); }
 }
 
+/* ===== PROGRESS BAR ===== */
 .progress-container {
   width: 100%;
   height: 4px;
-  background-color: var(--vp-c-divider);
+  background: rgba(168, 85, 247, 0.15);
   border-radius: 2px;
   overflow: hidden;
-  margin-top: 5px;
+  margin-top: 8px;
 }
 
 .progress-fill {
   height: 100%;
-  background-color: var(--vp-c-brand);
+  background: linear-gradient(90deg, #a855f7, #06b6d4);
   transition: width 0.3s ease;
+  box-shadow: 0 0 10px rgba(168, 85, 247, 0.5);
 }
 
+/* ===== AUDIO PLAYER CONTAINER ===== */
 .audio-player {
   margin-bottom: 2rem;
-  padding: 1rem;
-  border: 1px solid var(--vp-c-divider);
-  border-radius: 8px;
-  background-color: var(--vp-c-bg-soft);
+  padding: 1rem 1.25rem;
+  border-radius: 12px;
   display: flex;
   flex-direction: column;
   gap: 10px;
+  
+  /* Glassmorphism Cyberpunk */
+  background: linear-gradient(135deg, rgba(13, 13, 20, 0.9) 0%, rgba(20, 20, 30, 0.85) 100%);
+  border: 1px solid rgba(168, 85, 247, 0.25);
+  box-shadow: 
+    0 4px 30px rgba(0, 0, 0, 0.4),
+    inset 0 0 30px rgba(168, 85, 247, 0.05);
+  backdrop-filter: blur(10px);
 }
 
 .controls-row {
@@ -510,7 +529,7 @@ const pause = () => {
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
-  gap: 10px;
+  gap: 12px;
 }
 
 .controls-main {
@@ -520,81 +539,140 @@ const pause = () => {
 
 .controls-settings {
   display: flex;
-  gap: 10px;
+  gap: 12px;
   align-items: center;
 }
 
 .setting-group {
   display: flex;
   align-items: center;
-  gap: 4px;
+  gap: 6px;
 }
 
+/* ===== BUTTONS - NEON STYLE ===== */
 .btn {
-  padding: 0.5rem 0.8rem;
-  border: 1px solid var(--vp-c-divider);
-  border-radius: 4px;
-  background-color: var(--vp-c-bg);
+  padding: 0.55rem 0.9rem;
+  border-radius: 6px;
   cursor: pointer;
   font-size: 0.9rem;
-  transition: all 0.2s;
+  font-weight: 500;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  font-family: "Fira Code", monospace;
+  
+  /* Cyberpunk base */
+  background: rgba(20, 20, 30, 0.8);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.btn:hover:not(:disabled) {
+  background: rgba(168, 85, 247, 0.2);
+  border-color: #a855f7;
+  color: #c084fc;
+  box-shadow: 0 0 15px rgba(168, 85, 247, 0.3);
 }
 
 .btn.primary {
   font-weight: 600;
-  border-color: var(--vp-c-brand);
-  color: var(--vp-c-brand);
+  border: 1px solid #a855f7;
+  color: #c084fc;
+  background: linear-gradient(135deg, rgba(168, 85, 247, 0.15) 0%, rgba(124, 58, 237, 0.1) 100%);
+  box-shadow: 
+    0 0 10px rgba(168, 85, 247, 0.2),
+    inset 0 0 15px rgba(168, 85, 247, 0.1);
 }
 
-.btn:hover:not(:disabled) {
-  background-color: var(--vp-c-brand);
-  color: white;
-  border-color: var(--vp-c-brand);
+.btn.primary:hover:not(:disabled) {
+  background: linear-gradient(135deg, rgba(168, 85, 247, 0.3) 0%, rgba(124, 58, 237, 0.2) 100%);
+  box-shadow: 
+    0 0 20px rgba(168, 85, 247, 0.4),
+    0 0 40px rgba(168, 85, 247, 0.2);
+  color: #e9d5ff;
 }
 
 .btn:disabled {
-  opacity: 0.5;
+  opacity: 0.4;
   cursor: not-allowed;
 }
 
+/* ===== SELECT DROPDOWNS ===== */
 select {
-  padding: 0.4rem;
-  border-radius: 4px;
-  border: 1px solid var(--vp-c-divider);
-  background-color: var(--vp-c-bg);
+  padding: 0.45rem 0.6rem;
+  border-radius: 6px;
   font-size: 0.85rem;
-  max-width: 150px;
+  font-family: "Fira Code", monospace;
+  cursor: pointer;
+  
+  /* Cyberpunk style */
+  background: rgba(20, 20, 30, 0.9);
+  border: 1px solid rgba(168, 85, 247, 0.3);
+  color: rgba(255, 255, 255, 0.85);
+  transition: all 0.3s ease;
+}
+
+select:hover {
+  border-color: #a855f7;
+  box-shadow: 0 0 10px rgba(168, 85, 247, 0.2);
+}
+
+select:focus {
+  outline: none;
+  border-color: #a855f7;
+  box-shadow: 0 0 15px rgba(168, 85, 247, 0.3);
+}
+
+select option {
+  background: #0d0d14;
+  color: rgba(255, 255, 255, 0.9);
 }
 
 .voice-select {
   max-width: 200px;
 }
 
+.rate-select {
+  max-width: 90px;
+}
+
 .label-icon {
   font-size: 1rem;
   cursor: help;
+  filter: saturate(0.8);
 }
 
+/* ===== STATUS BAR ===== */
 .status-bar {
-  border-top: 1px solid var(--vp-c-divider);
-  padding-top: 8px;
+  border-top: 1px solid rgba(168, 85, 247, 0.15);
+  padding-top: 10px;
   font-size: 0.8rem;
-  color: var(--vp-c-text-2);
   display: flex;
   justify-content: space-between;
+  font-family: "Fira Code", monospace;
 }
 
 .status-text {
-  animation: pulse 2s infinite;
+  color: #06b6d4;
+  text-shadow: 0 0 8px rgba(6, 182, 212, 0.4);
+  animation: pulse-cyan 2s infinite;
 }
 
-@keyframes pulse {
-  0% { opacity: 0.6; }
+.progress-text {
+  color: #a855f7;
+  text-shadow: 0 0 8px rgba(168, 85, 247, 0.4);
+}
+
+@keyframes pulse-cyan {
+  0% { opacity: 0.7; }
   50% { opacity: 1; }
-  100% { opacity: 0.6; }
+  100% { opacity: 0.7; }
 }
 
+/* ===== RESPONSIVE ===== */
 @media (max-width: 600px) {
+  .audio-player {
+    padding: 0.85rem 1rem;
+  }
+
   .controls-row {
     flex-direction: column;
     align-items: stretch;
@@ -605,7 +683,11 @@ select {
   }
 
   .voice-select {
-    max-width: 120px;
+    max-width: 130px;
+  }
+  
+  .rate-select {
+    max-width: 75px;
   }
 }
 </style>

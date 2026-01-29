@@ -250,15 +250,13 @@
 
 /* ---------- Medium Zoom ---------- */
 .medium-zoom-overlay {
-  z-index: 100 !important;
+  z-index: 10001 !important;
   background: rgba(10, 10, 15, 0.95) !important;
 }
 
 .medium-zoom-image--opened {
-  z-index: 101 !important;
-  border: none !important;
-  transform: none !important;
-  box-shadow: 0 0 60px rgba(168, 85, 247, 0.4) !important;
+  z-index: 10002 !important;
+  cursor: zoom-out !important;
 }
 
 /* ---------- Homepage Hero Enhancements ---------- */
