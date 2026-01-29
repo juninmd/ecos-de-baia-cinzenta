@@ -134,16 +134,58 @@ A estética do projeto é definida por três pilares:
 *   **Arco da Carne Mecânica (Parte XIII):** O enfrentamento entre a tecnologia pura (Aria) e a biologia corrompida (Projeto Gênesis).
 *   **Parte XIV: O Vazio (Atual):** O Grande Silêncio. Tecnologia morta. Gabo luta nos túneis usando métodos analógicos.
 
-### Status Atual dos Personagens (Pós-Capítulo 103)
+### Status Atual dos Personagens (Pós-Capítulo 109)
 | Personagem | Status | Localização | Obs. |
 | :--- | :--- | :--- | :--- |
-| **Gabo** | **VIVO** | Superfície | Ferido, mas ativo. Sem exoesqueleto (recuperado ou ignorando a dor). |
-| **Elena** | **VIVA** | Superfície | Combatente ativa. |
-| **Valéria** | **PETRIFICADA** | Bunker Subterrâneo | Em estase biológica. |
-| **Aria** | **DIGITAL** | Rede / Onipresente | Entidade de IA. |
-| **Dante** | **RESSURGIDO** | Superfície | Consciência em novo corpo biológico ("Biohost"). |
+| **Gabo** | **VIVO** | Superfície | Ferido, mas ativo. Exoesqueleto falho. |
+| **Elena** | **VIVA** | Superfície | Combatente ativa (irmã de Gabo). |
+| **Valéria** | **VIVA** | Superfície | Recuperada da petrificação. Olhos prateados. |
+| **Aria** | **FRAGMENTADA** | Ecos digitais | Sacrificada no Cap 96. Apenas vestígios. |
+| **Bio-Dante** | **ATIVO** | Superfície | Antagonista trágico. Ver seção abaixo. |
 | **Silas** | **MORTO** | Esgotos | Absorvido pela colmeia. |
 | **Miranda** | **MORTO** | Esgotos | Destruído no confronto final. |
+| **Helena** | **MORTA** | - | Mãe de Gabo. Morreu no Dilúvio (Cap 50). |
+
+---
+
+## 10. Bio-Dante (O Ressurgido) — NOVO PERSONAGEM
+
+### Natureza
+*   **O que é:** Consciência de Dante Moretti em corpo biológico sintético ("biohost").
+*   **NÃO é:** O Dante original. É uma **cópia imperfeita** com memórias completas mas emoções fragmentadas (~30% de capacidade emocional).
+
+### O Conflito Central
+Ele **LEMBRA** de amar Gabriel. Ele **NÃO SENTE** amar Gabriel. É como ler um livro sobre amor vs. estar apaixonado.
+
+### Por Que Não Está Feliz
+1.  **Sabe que é cópia:** Consciência da própria artificialidade.
+2.  **Memórias perfeitas, emoções mortas:** Acessa memórias de calor familiar, sente apenas dados.
+3.  **Corpo estranho:** O biohost é jovem e forte, mas não é "dele".
+4.  **Culpa amplificada sem alívio:** Lembra de todas as falhas, não consegue chorar.
+
+### Motivação
+Quer **ORDEM** para a cidade. Algoritmos > Humanidade. Acha que está **salvando** Baía Cinzenta.
+
+### Vilão ou Antagonista?
+**ANTAGONISTA TRÁGICO**, não vilão clássico:
+*   Não quer destruição, quer "consertar"
+*   Faz mal achando que faz bem
+*   Não sente prazer, sente... nada
+
+### Limitação de Memória (IMPORTANTE!)
+⚠️ Bio-Dante só tem memórias até a morte do Dante original.  
+**Ele NÃO sabe que Helena (mãe de Gabo) morreu no Dilúvio.**  
+Isso pode ser usado dramaticamente.
+
+### Frases Características
+> *"Eu lembro de te amar, Gabriel. É quase como sentir."*  
+> *"A dor humana é uma ineficiência. Eu a removi."*  
+> *"Você chora pelo Dante Moretti. Eu sou o Dante Moretti. Mas você tem razão em chorar."*
+
+### Destino Sugerido (Para Novos Capítulos)
+*   **Opção A:** Redenção via sacrifício (escolhe sentir, aceita a dor, salva Gabo)
+*   **Opção B:** Tragédia pura (Gabo mata o "pai" pela segunda vez)
+*   **Opção C:** Ambiguidade (exílio, final aberto)
 
 ---
 
