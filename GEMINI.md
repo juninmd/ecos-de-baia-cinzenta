@@ -50,8 +50,8 @@ Uma megalópole costeira, isolada e estratificada, onde chove 300 dias por ano (
 
 ### Valéria "Val" Cruz (A Hacker)
 *   **Arquétipo:** A Tech-Sidekick Genial e Rebelde.
-*   **Dinâmica com Gabo:** É a "filha/irmã mais nova" irritante que ele protege, e o "cérebro" que impede que ele morra por estupidez. Ela traz a cor (neon) para o mundo cinza dele.
-*   **Estilo:** Cabelo holográfico, gírias digitais, desprezo pela autoridade "analógica".
+*   **Dinâmica com Gabo:** É a parceira irritante que ele protege, e o "cérebro" que impede que ele morra por estupidez. Ela traz a cor (neon) para o mundo cinza dele.
+*   **Estilo:** Short Bob levemente assimétrico (bico suave), com a nuca batida, pontas desfiadas e franja lateral longa com fios de LED holográficos azuis. Gírias digitais e desprezo pela autoridade "analógica".
 
 ### Elena Moretti (A Jornalista / Ex-Esposa)
 *   **Arquétipo:** A Verdade Inconveniente.
@@ -113,7 +113,7 @@ A estética do projeto é definida por três pilares:
 
 ### Tokens de Personagens (Referência Visual)
 *   **Gabo**: `beige trench coat`, `messy dark hair`, `full beard`, `tired eyes`, `glock`.
-*   **Val**: `pixie cut pink and blue hair`, `silver cybernetic eyes`, `LED cheek implants`, `leather jacket`, `cyberdeck`.
+*   **Val**: `asymmetrical short bob`, `long side swept bangs with blue holographic LED strands`, `textured wispy ends`, `silver cybernetic eyes`, `LED cheek implants`, `leather jacket`, `cyberdeck`.
 *   **Aria**: `holographic girl`, `platinum blonde`, `heterochromatic eyes`, `glowing barcode`.
 
 ---
