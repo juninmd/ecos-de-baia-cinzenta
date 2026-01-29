@@ -47,9 +47,10 @@
 *   **Idade:** 23 anos
 *   **Altura:** 1,60m
 *   **Porte Físico:** Pequena e esguia, com postura rígida de quem passa horas em interfaces neurais. Recuperando-se de um estado de coma biológico induzido.
-*   **Cabelo:**  Short Bob levemente assimétrico (bico suave), com a nuca batida, pontas desfiadas e franja lateral longa com fios de LED holográficos azuis. Gírias digitais e desprezo pela autoridade "analógica".
-*   **Olhos:** Cibernéticos, com íris prateadas de realidade aumentada.
-*   **Marcas Distintivas:** Tatuagem de código de barras no pescoço. Mãos calejadas de digitar. Cicatrizes prateadas no pescoço onde a "Praga" recuou.
+*   **Cabelo:** Short Bob assimétrico com textura "wispy" (pontas desfiadas) e nuca batida. A franja lateral longa é entrelaçada com fios de LED holográficos azuis que brilham suavemente na chuva.
+*   **Rosto:** Pele pálida e translúcida, sem os antigos implantes faciais pesados. A tecnologia agora é sutil, interna.
+*   **Olhos:** Cibernéticos, azul-gelo com anéis de dados prateados na íris.
+*   **Marcas Distintivas:** Ausência de implantes visíveis nas bochechas (removidos ou ocultos). Tatuagem de código de barras no pescoço.
 *   **Vestuário:** Jaquetas de couro sintético, coturnos de plataforma e calças cargo.
 *   **Equipamento:** Deck de pulso "Phantom V3", enxame de micro-drones "Vagalumes".
 *   **Gostos/Traços:** Viciada em bebidas energéticas e noodles. Hackear outdoors por diversão.
