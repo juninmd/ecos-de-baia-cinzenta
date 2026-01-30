@@ -13,7 +13,7 @@ import argparse
 import re
 import sys
 from pathlib import Path
-from typing import Dict, Optional
+from typing import Dict, List, Optional
 
 import numpy as np
 
@@ -105,7 +105,7 @@ class VideoGenerator:
     
     def generate_narration(self, texto: str, output_path: Path) -> float:
         """
-        Generate TTS narration using gTTS.
+        Generate TTS narration using gTTS (stable choice).
         
         Args:
             texto: Text to narrate
@@ -123,10 +123,10 @@ class VideoGenerator:
             print(f"⚠ Text truncated from {len(texto)} to {max_chars} chars")
             texto = texto[:max_chars] + "..."
         
-        print(f"🎙 Generating narration ({len(texto)} chars)...")
+        print(f"🎙 Generating narration (Normal PT-BR)...")
         
-        # Generate TTS
-        tts = gTTS(text=texto, lang='pt', slow=False)
+        # Using pt-BR for better flow. No pitch shifting to avoid 'ET' effect.
+        tts = gTTS(text=texto, lang='pt', tld='com.br', slow=False)
         tts.save(str(output_path))
         
         # Get audio duration
@@ -135,7 +135,129 @@ class VideoGenerator:
         
         print(f"✓ Narration created: {duration:.1f}s")
         return duration
+
+    def _generate_multi_scene_images(self, chapter_num: str, texto: str) -> List[Path]:
+        """Split chapter text into 8 segments and generate an image for each."""
+        import subprocess
+        import os
+        print(f"🍌 Generating 8 dynamic scenes for Chapter {chapter_num}...")
+        
+        # Split text into 8 roughly equal parts
+        paragraphs = [p for p in texto.split('\n') if len(p.strip()) > 50]
+        if len(paragraphs) < 8:
+            sentences = re.split(r'(?<=[.!?])\s+', texto)
+            if len(sentences) < 8:
+                chunk_size = len(texto) // 8
+                chunks = [texto[i:i+chunk_size] for i in range(0, len(texto), chunk_size)][:8]
+            else:
+                step = len(sentences) // 8
+                chunks = [' '.join(sentences[i:i+step]) for i in range(0, len(sentences), step)][:8]
+        else:
+            step = len(paragraphs) // 8
+            chunks = [' '.join(paragraphs[i:i+step]) for i in range(0, len(paragraphs), step)][:8]
+            
+        image_paths = []
+        for i, chunk in enumerate(chunks, 1):
+            img_path = self.root / 'docs' / 'public' / f"capitulo_{chapter_num}_scene_{i}.jpg"
+            
+            # For testing, we can check if it's already there and not just a black placeholder
+            if img_path.exists() and img_path.stat().st_size > 5000:
+                image_paths.append(img_path)
+                continue
+                
+            print(f"  🎬 Generating scene {i}/8...")
+            try:
+                scene_script = self.temp_dir / f"gen_scene_{chapter_num}_{i}.py"
+                scene_script.write_text(self._get_scene_gen_code(chunk, img_path), encoding='utf-8')
+                
+                # Pass current ENVIRONMENT to ensure API keys are inherited
+                result = subprocess.run(
+                    [sys.executable, str(scene_script)], 
+                    check=False, 
+                    capture_output=True, 
+                    text=True,
+                    env=os.environ
+                )
+                
+                if result.returncode != 0:
+                    print(f"  ❌ Scene {i} script error: {result.stderr}")
+                
+                if img_path.exists() and img_path.stat().st_size > 5000:
+                    image_paths.append(img_path)
+                else:
+                    print(f"  ⚠️ Scene {i} produced invalid/placeholder image.")
+                    main_img = self.root / 'docs' / 'public' / f"capitulo_{chapter_num}.jpg"
+                    if main_img.exists():
+                        image_paths.append(main_img)
+            except Exception as e:
+                print(f"  ⚠️ Scene {i} execution error: {e}")
+        
+        return image_paths
+
+    def _get_scene_gen_code(self, chunk: str, output_path: Path) -> str:
+        """Return Python code to generate a single image using NanoBanana logic."""
+        # Escape backslashes for windows paths
+        safe_path = str(output_path).replace('\\', '\\\\')
+        return f"""
+import os
+import sys
+from google import genai
+from PIL import Image
+import io
+
+def generate():
+    # Try all possible key names from the project
+    api_key = (
+        os.environ.get('NANO_BANANA_API_KEY_IMAGE') or 
+        os.environ.get('NANO_BANANA_API_KEY') or 
+        os.environ.get('GOOGLE_API_KEY')
+    )
     
+    if not api_key:
+        print("Error: No API key found in environment.")
+        return False
+
+    client = genai.Client(api_key=api_key)
+    
+    # Richer narrative prompt
+    prompt = (
+        "Cinematic Cyberpunk Noir digital art. Cinematic atmospheric lighting, "
+        "high contrast, teal and orange neon, rainy night in Baía Cinzenta. "
+        "Intricate details, 8k resolution, photorealistic style. "
+        f"Scene detail: {{chunk[:1000]}}"
+    )
+
+    try:
+        # Use a more standard model name for 2026 SDK if flash-image fails
+        model_name = 'imagen-3.0-generate-001' # Standard for high quality image gen
+        
+        response = client.models.generate_content(
+            model=model_name,
+            contents=[prompt]
+        )
+        
+        if response.parts:
+            for part in response.parts:
+                if part.inline_data:
+                    img = Image.open(io.BytesIO(part.inline_data.data))
+                    img.save(r"{safe_path}")
+                    print("Success: Image saved.")
+                    return True
+        print("Error: No image parts in response.")
+        return False
+    except Exception as e:
+        print(f"Generation Exception: {{e}}")
+        return False
+
+if __name__ == "__main__":
+    if not generate():
+        # Fallback placeholder with identifiable color if it really fails
+        from PIL import Image
+        img = Image.new('RGB', (1920, 1080), color=(20, 20, 40))
+        img.save(r"{safe_path}")
+        sys.exit(1)
+"""
+
     def create_video(self, capitulo: Dict[str, str]) -> Path:
         """
         Create complete video with effects.
@@ -151,8 +273,20 @@ class VideoGenerator:
         texto = capitulo['texto']
         
         print(f"\n{'='*60}")
-        print(f"🎬 Generating video for Capítulo {numero}: {titulo}")
+        print(f"🎬 Processing Capítulo {numero}: {titulo}")
         print(f"{'='*60}")
+        
+        # Image Generation: Generate 8 images per chapter
+        image_paths = self._generate_multi_scene_images(numero, texto)
+        if not image_paths:
+            print("⚠️ No images generated. Creating minimal backup...")
+            # Create a backup image if all failed
+            backup_path = self.root / 'docs' / 'public' / f"capitulo_{numero}.jpg"
+            if not backup_path.exists():
+                from PIL import Image
+                img = Image.new('RGB', (1920, 1080), color=(10, 15, 25))
+                img.save(backup_path)
+            image_paths = [backup_path]
         
         # File paths
         output_video = self.output_dir / f"capitulo_{numero}.mp4"
@@ -164,21 +298,18 @@ class VideoGenerator:
         # Ensure minimum duration
         video_duration = max(duration, 10.0)
         
-        # Create video with simple composition (Movis alternative using moviepy)
-        print("🎨 Creating video composition...")
+        # Create animated video
+        print("🎨 Creating expanded video composition (8 scenes)...")
         self._create_simple_video(
             output_path=output_video,
             audio_path=audio_path,
             titulo=titulo,
             numero=numero,
             duration=video_duration,
-            image_path=capitulo.get('image_path')
+            image_paths=image_paths
         )
         
         print(f"✅ Video created: {output_video}")
-        print(f"   Size: {output_video.stat().st_size / (1024*1024):.1f} MB")
-        print(f"   Duration: {video_duration:.1f}s\n")
-        
         return output_video
     
     def _create_simple_video(
@@ -188,92 +319,23 @@ class VideoGenerator:
         titulo: str,
         numero: str,
         duration: float,
-        image_path: Optional[str] = None
+        image_paths: List[Path]
     ):
         """
-        Create video using MoviePy (simpler than Movis for CI/CD).
-        
-        Falls back to static image + audio if complex effects fail.
+        Create animated video with dynamic effects.
         """
-        try:
-            from moviepy.editor import (
-                AudioFileClip, 
-                ImageClip, 
-                TextClip, 
-                CompositeVideoClip,
-                ColorClip
-            )
-        except ImportError:
-            print("⚠ MoviePy not available, creating minimal video")
-            self._create_minimal_video(output_path, audio_path, duration)
-            return
+        from animated_composer import AnimatedVideoComposer
         
-        # Load audio
-        audio = AudioFileClip(str(audio_path))
-        
-        # Background
-        if image_path and (self.root / 'docs' / 'public' / image_path.lstrip('/')).exists():
-            bg_path = self.root / 'docs' / 'public' / image_path.lstrip('/')
-            bg = ImageClip(str(bg_path)).set_duration(duration)
-        else:
-            # Dark background (noir aesthetic)
-            bg = ColorClip(size=(1920, 1080), color=(10, 15, 25)).set_duration(duration)
-        
-        # Title overlay
-        try:
-            title_text = TextClip(
-                f"CAPÍTULO {numero}\n{titulo}",
-                fontsize=70,
-                color='cyan',
-                font='Arial-Bold',
-                size=(1600, None),
-                method='caption'
-            ).set_position(('center', 100)).set_duration(5).crossfadein(1).crossfadeout(1)
-            
-            video = CompositeVideoClip([bg, title_text])
-        except Exception as e:
-            print(f"⚠ Title overlay failed: {e}, using simple bg")
-            video = bg
-        
-        # Add audio and export
-        video = video.set_audio(audio)
-        video.write_videofile(
-            str(output_path),
-            fps=24,
-            codec='libx264',
-            audio_codec='aac',
-            preset='medium',
-            threads=2,
-            logger=None  # Suppress verbose output
+        # Create animated sequence
+        composer = AnimatedVideoComposer(self.temp_dir)
+        composer.create_animated_sequence(
+            image_paths=image_paths,
+            duration=duration,
+            titulo=titulo,
+            numero=numero,
+            output_path=output_path,
+            audio_path=audio_path
         )
-        
-        # Cleanup
-        audio.close()
-        video.close()
-    
-    def _create_minimal_video(self, output_path: Path, audio_path: Path, duration: float):
-        """Ultra-minimal fallback: just combine image + audio with ffmpeg."""
-        import subprocess
-        
-        # Create black frame
-        black_image = self.temp_dir / 'black.png'
-        from PIL import Image
-        img = Image.new('RGB', (1920, 1080), color=(10, 15, 25))
-        img.save(black_image)
-        
-        # Use ffmpeg
-        cmd = [
-            'ffmpeg', '-y',
-            '-loop', '1', '-i', str(black_image),
-            '-i', str(audio_path),
-            '-c:v', 'libx264', '-tune', 'stillimage',
-            '-c:a', 'aac', '-b:a', '192k',
-            '-shortest',
-            '-t', str(duration),
-            str(output_path)
-        ]
-        
-        subprocess.run(cmd, capture_output=True)
     
     def cleanup(self):
         """Remove temporary files."""

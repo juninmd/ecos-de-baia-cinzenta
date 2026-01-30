@@ -2,3 +2,12 @@ node_modules
 docs/.vitepress/dist
 docs/.vitepress/cache
 test_gemini.py
+.temp_video/
+docs/public/videos/
+scripts/__pycache__/
+*.mp3
+*.wav
+*.png
+# Don't ignore markdown or source images
+!docs/public/*.jpg
+!docs/public/*.png

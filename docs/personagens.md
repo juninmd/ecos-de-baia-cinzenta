@@ -286,6 +286,8 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 
 ## Beatriz "Bia" Vargas (In Memoriam)
 
+![Beatriz "Bia" Vargas](/personagens/bia.png)
+
 *   **Idade:** 29 anos (ao falecer)
 *   **Altura:** 1,72m
 *   **Porte Físico:** Atlética.
