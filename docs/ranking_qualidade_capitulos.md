@@ -9,6 +9,24 @@ Este documento mantém um registro da avaliação de qualidade narrativa, ritmo 
 
 ## 🟢 Arco Atual: Partes XIV & XV (O Vazio / A Ascensão)
 
+### Capítulo 111: Arquivos Mortos
+*   **Nota:** ⭐ **9.1/10**
+*   **Pontos Fortes:**
+    *   **Lore Expansion:** Introdução sólida da fraqueza térmica de Dante (40 minutos de resfriamento). Isso equilibra a balança de poder.
+    *   **Personagem:** Rangel aceitando munição ilegal ("ponta oca") é um momento simbólico de sua transição final para fora da lei.
+    *   **Atmosfera:** A tensão silenciosa dentro da Gaiola de Faraday contrasta bem com o caos externo.
+*   **Pontos Fracos:**
+    *   O capítulo é muito focado em exposição/planejamento, com pouca ação cinética, embora necessário para o setup do clímax.
+
+### Capítulo 110: Ponto Cego
+*   **Nota:** ⭐ **9.2/10**
+*   **Pontos Fortes:**
+    *   **Setting:** O "Fliperama" (bunker com tecnologia dos anos 2000) é visualmente rico e nostálgico, servindo como antítese perfeita ao futuro estéril de Dante.
+    *   **Tensão:** A fuga pelos esgotos com o contador regressivo dos drones cria suspense genuíno.
+    *   **Diálogo:** A frase final de Gabo ("Estamos na trincheira") fecha o capítulo com impacto.
+*   **Pontos Fracos:**
+    *   A explicação técnica da "Gaiola de Faraday" é um pouco didática demais, mas perdoável dado o contexto.
+
 ### Capítulo 109: Frequência Fantasma
 *   **Nota:** ⭐ **9.3/10**
 *   **Pontos Fortes:**
