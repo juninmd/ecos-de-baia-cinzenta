@@ -11,3 +11,4 @@ scripts/__pycache__/
 # Don't ignore markdown or source images
 !docs/public/*.jpg
 !docs/public/*.png
+!docs/public/personagens/*.png
