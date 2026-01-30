@@ -1,7 +1,7 @@
 # Relatório de Análise de Coerência e Narrativa
 
-> **Data da Análise:** Pós-Capítulo 108
-> **Status:** Aprovado com Ressalvas (Monitoramento Contínuo)
+> **Data da Análise:** Pós-Capítulo 112
+> **Status:** Aprovado
 > **Auditor:** Jules (AI Agent)
 
 ---
@@ -61,5 +61,6 @@ A expansão da lore metafísica no Arco XV é consistente com o tom Biopunk/Cybe
 
 ## 4. Pontos de Atenção (Watchlist)
 
-1.  **Escala de Poder de Dante:** Ele demonstrou controle sobre infraestrutura física massiva. A narrativa deve estabelecer limites claros (custo energético ou biológico) para evitar que ele se torne um "Deus Ex Machina" reverso impossível de derrotar.
-2.  **A Passividade de Gabo:** Com titãs como Dante e Aria em jogo, Gabo não pode ser reduzido a um observador. Sua "humanidade falha" deve ser a chave para a vitória, não apenas um obstáculo.
+1.  **Escala de Poder de Dante (RESOLVIDO):** O Capítulo 111 e 112 estabeleceram o "Colapso Térmico" e o "Kill Switch" de Marco Moretti. Dante não é onipotente; ele é biologicamente instável e requer ciclos de resfriamento. Isso equilibra a escala de poder.
+2.  **A Identidade de Aria:** A revelação de que ela usa o rosto de Bia Vargas (Ch 112) cria um conflito emocional potente para Gabo e Valéria, além de explicar a conexão "familiar" que Dante pode ter sentido anteriormente.
+3.  **A Passividade de Gabo:** Com titãs como Dante e Aria em jogo, Gabo não pode ser reduzido a um observador. Sua "humanidade falha" e capacidade de improvisação (ex: usar chaves manuais antigas) continuam sendo seu trunfo.

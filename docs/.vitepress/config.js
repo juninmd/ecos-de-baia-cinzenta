@@ -227,6 +227,7 @@ module.exports = {
               { text: 'Capítulo 109: Frequência Fantasma', link: '/capitulo-109' },
               { text: 'Capítulo 110: Ponto Cego', link: '/capitulo-110' },
               { text: 'Capítulo 111: Arquivos Mortos', link: '/capitulo-111' },
+              { text: 'Capítulo 112: O Peso da Memória', link: '/capitulo-112' },
             ]
           },
         ]
