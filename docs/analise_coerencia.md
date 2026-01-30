@@ -15,7 +15,7 @@
     *   Gabo expressa náusea ativa ao cheiro de fumaça em múltiplos capítulos (Ex: Ch 51, Ch 98, Ch 110).
     *   O uso de isqueiros por Gabo (Ch 15, Ch 73) é estritamente utilitário (criar fogo/explosões), nunca para consumo de tabaco.
     *   Personagens secundários fumam (Vilar, NPCs), servindo para destacar a aversão de Gabo.
-    *   **Observação Recente:** Em Ch 111, Gabo apenas limpa a arma, enquanto Rangel fuma ou não é mencionado fumando (Rangel apenas carrega balas). A regra permanece intacta.
+    *   **Observação Recente:** No Capítulo 111, a regra permanece intacta. A cena mostra Gabo limpando sua arma, sem qualquer associação com fumo, enquanto Rangel se ocupa carregando munição.
 
 ---
 
