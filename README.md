@@ -90,6 +90,53 @@ npm run docs:build
 ```
 Os arquivos serão gerados na pasta `docs/.vitepress/dist`.
 
+## 🎬 Video Generation
+
+Este projeto inclui um pipeline automatizado de geração de vídeos cinematográficos para cada capítulo usando ferramentas 100% open source.
+
+### Stack Tecnológico
+- **Kokoro TTS**: Narração natural em PT-BR com tom dramático
+- **MoviePy**: Composição e efeitos visuais
+- **GitHub Actions**: Automação completa
+
+### Geração Automática
+Vídeos são gerados automaticamente via GitHub Actions quando novos capítulos são adicionados ao repositório. Os vídeos finalizados são salvos em `docs/public/videos/`.
+
+### Teste Local
+
+#### Pré-requisitos
+- Python 3.12+
+- ffmpeg (para encoding de vídeo)
+
+#### Setup
+```bash
+# Instalar uv (gerenciador de pacotes Python)
+curl -LsSf https://astral.sh/uv/install.sh | sh
+
+# Instalar dependências
+uv pip install -r requirements.txt
+
+# Configurar ambiente
+python scripts/setup_assets.py
+```
+
+#### Gerar Vídeo
+```bash
+# Gerar vídeo para um capítulo específico
+python scripts/video_generator.py --chapter 1
+
+# Processar todos os capítulos
+python scripts/video_generator.py --all
+
+# Output: docs/public/videos/capitulo_*.mp4
+```
+
+#### Testes
+```bash
+# Executar testes unitários
+pytest scripts/test_video_generator.py -v
+```
+
 ## 📂 Estrutura do Projeto
 
 *   `docs/`: Contém todos os arquivos Markdown (capítulos e lore).

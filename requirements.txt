@@ -1,2 +1,12 @@
+# Existing dependencies
 google-genai
 pillow
+
+# Video Generation Stack (simplified - gTTS only)
+gtts>=2.5.0
+pydub>=0.25.1
+numpy>=1.24.0
+Pillow>=10.0.0
+
+# Testing
+pytest>=7.4.0
