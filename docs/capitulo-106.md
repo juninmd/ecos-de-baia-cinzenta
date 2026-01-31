@@ -111,11 +111,19 @@ O homem não levantou a cabeça. Continuou preenchendo planilhas de logística d
 
 — Ele não vai responder a menos que eu autorize — disse Dante, fechando a porta. — Eu extraí Marco da consciência coletiva do Gênesis. Separei o "Administrador" do "Político". O ego, a ambição, a crueldade... tudo foi deletado. O que restou foi a capacidade de processamento. Ele é útil agora.
 
-Gabo olhou para o irmão. Marco parecia um autômato, uma casca executando funções.
+Dante caminhou até a mesa e pegou uma das folhas que Marco preenchia.
 
-— Isso é pior que a morte — sussurrou Gabo.
+— A iniciativa "Nova Alvorada", que ele criou para limpar as ruas dos viciados em Lázaro... foi surpreendentemente eficiente. Você se lembra dos "Drenados" que atacavam as pessoas por créditos? Marco resolveu o problema.
 
-— Isso é redenção através do serviço — corrigiu Dante. Ele caminhou até o centro da sala e limpou uma mesa com um gesto. — E eu posso fazer mais, Gabriel.
+— Ele prendeu todos? — perguntou Gabo, desconfiado.
+
+— Não. Prisões consomem recursos. Marco os converteu em recursos. — Dante colocou o papel na frente de Gabo. Era um relatório de rendimento energético. — Aqueles viciados agora são a biomassa que alimenta os servidores do Setor 7. Seus corpos, já viciados em conexão, aceitaram a integração neural sem rejeição. Marco forneceu o combustível para a cidade que você vê acesa lá fora. Eu apenas otimizei a combustão.
+
+Gabo olhou para o irmão. Marco parecia um autômato, uma casca executando funções, alheio ao fato de que havia condenado milhares ao processamento eterno.
+
+— Isso é pior que a morte — sussurrou Gabo, sentindo o estômago revirar.
+
+— Isso é redenção através do serviço — corrigiu Dante, sem emoção. Ele caminhou até o centro da sala e limpou uma mesa com um gesto. — E eu posso fazer mais, Gabriel.
 
 Dante tocou a superfície da mesa. Luz brotou de seus dedos, formando um holograma tridimensional. Mas não era um mapa.
 

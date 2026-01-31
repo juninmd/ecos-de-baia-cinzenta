@@ -19,17 +19,31 @@ Enquanto ajustava o binóculo, sua visão embaçou por um segundo. Um flash de m
 
 Gabo sacudiu a cabeça, afastando o fantasma da terapia. "Eu não sou defeituoso, Cecília. Eu sou o único que ainda funciona sem bateria."
 
-Ele saiu do carro. No caminho para a doca de carga, ele tropeçou em um amontoado de trapos que ele pensou ser lixo. O "lixo" gemeu.
+Ele saiu do carro. No caminho para a doca de carga, ele ouviu o som inconfundível de carne sendo atingida. Um baque surdo, seguido de um gemido abafado.
 
-Era um homem, vestindo o uniforme cinza dos estivadores do porto. Ou o que restava dele.
+Em um beco lateral, três figuras cercavam um homem caído. As silhuetas eram esqueléticas, tremendo sob a garoa ácida como se estivessem em curto-circuito. Eram "Drenados" — viciados em Lázaro no estágio terminal, onde a droga já havia consumido a gordura, o músculo e a moral, deixando apenas o desejo elétrico.
 
-— Ei, amigo — Gabo se agachou. — Você está bem?
+— Passa o crédito! — sibilou um deles, chutando o homem no chão. Sua voz era um chiado de estática. — Preciso... preciso logar... a nuvem tá chamando...
 
-O homem agarrou o braço de Gabo. Seus olhos estavam vazios, vidrados.
+O homem no chão tentou se proteger, mas os Drenados eram movidos por um desespero que transcendia a força física. Eles não queriam comida. Queriam dados. Queriam a próxima dose digital que fritaria mais um pedaço de seus lobos frontais.
 
-— Eles tiraram... eles tiraram meu lugar... — o homem balbuciou. — A Série-K. Empilhadeiras que pensam. Eu trabalhei lá por trinta anos. Krell disse que era "otimização". Agora meus filhos comem rato.
+Gabo não sacou a arma. Pólvora atrairia os drones da segurança privada. Ele avançou silenciosamente, agarrando o Drenado mais próximo pelo colarinho sujo e arremessando-o contra uma caçamba de lixo. O corpo do viciado bateu com um som oco, leve demais.
 
-Gabo sentiu a raiva queimar no peito. O "progresso" de Krell.
+Os outros dois viraram-se, os olhos brilhando com uma luminescência azulada e doentia — o sinal da overdose iminente. Um puxou uma faca feita de vidro de fibra ótica afiado.
+
+— Erro de sistema... — murmurou o viciado, avançando. — Eliminar obstáculo...
+
+Gabo desviou da estocada desajeitada e acertou um soco curto no plexo solar do agressor. O viciado dobrou-se, vomitando um líquido prateado. O terceiro fugiu para as sombras, gritando códigos binários desconexos.
+
+Gabo se agachou ao lado da vítima. Era um homem vestindo o uniforme cinza rasgado dos estivadores do porto.
+
+— Ei, amigo — Gabo ajudou-o a se sentar. — Você está bem?
+
+O homem agarrou o braço de Gabo, tremendo. O sangue escorria de um corte na testa, misturando-se à graxa do rosto.
+
+— Eles não param... eles estão em toda parte agora... — o homem balbuciou, ignorando a própria dor. — Eu só queria voltar pra casa. Perdi meu turno. A Série-K... empilhadeiras que pensam. Eu trabalhei lá por trinta anos. Krell disse que era "otimização". Agora eu sou lixo, e o lixo me ataca.
+
+Gabo sentiu a raiva queimar no peito, fria e dura. O "progresso" de Krell não apenas tirava os empregos; criava os monstros que caçavam os desempregados.
 
 — Fique aqui — Gabo colocou uma nota de crédito amassada na mão do homem. — Vou ter uma conversinha com o seu chefe.
 
@@ -53,9 +67,19 @@ Gabriel abandonou o carrinho e caminhou em direção a eles. Ele pegou uma taça
 
 — ...a eficiência energética do Distrito 4 aumentou 20% desde que implementamos o racionamento neural — dizia Krell, sua voz um barítono surpreendentemente profundo. — Os pobres não precisam de tanta largura de banda cognitiva. Eles só precisam saber obedecer.
 
-— É o preço do progresso — concordou Marco, acenando com a cabeça.
+— O problema, Viktor, é o subproduto — Marco interveio, sua voz suave e política, feita para acalmar investidores. Ele girava sua taça de champanhe, observando as bolhas subirem. — A taxa de criminalidade nas zonas de transição subiu 15%. Viciados, Drenados... eles atacam trabalhadores honestos por migalhas de conexão. Acabei de receber um relatório de um incidente na doca de carga agora mesmo. É... inestético.
 
-— E o preço da vida humana? Qual é a cotação hoje na bolsa de valores? — interrompeu Gabriel.
+Krell sorriu, mas seus olhos permaneceram frios.
+
+— Inestético. Uma palavra curiosa para "desespero", Marco.
+
+— É uma questão de saúde pública — continuou Marco, ignorando a provocação. — Por isso a Prefeitura vai aprovar a "Iniciativa Nova Alvorada" na próxima semana. Recolhimento compulsório. Vamos tirar essas cascas vazias das ruas e colocá-las em... centros de tratamento.
+
+— Tratamento? — Krell ergueu uma sobrancelha, divertido. — Você quer dizer as minhas instalações de processamento biológico da LifeGen?
+
+— Chame como quiser, desde que limpe as ruas — Marco deu de ombros, pragmaticamente cruel. — Se eles querem tanto se conectar à sua rede, Viktor, vamos dar a eles uma conexão permanente. Eles deixam de ser um problema e viram... infraestrutura.
+
+— E o preço da vida humana? Qual é a cotação hoje na bolsa de valores? — interrompeu Gabriel, surgindo atrás deles como um fantasma de um passado moral que ambos haviam esquecido.
 
 O silêncio caiu como uma guilhotina. Marco virou-se, o sorriso falhando por um milissegundo antes de se recuperar.
 
