@@ -1,7 +1,7 @@
 # Relatório de Análise de Coerência e Narrativa
 
-> **Data da Análise:** Pós-Capítulo 111
-> **Status:** Aprovado (Coerência Mantida)
+> **Data da Análise:** Pós-Capítulo 112
+> **Status:** Aprovado
 > **Auditor:** Jules (AI Agent)
 
 ---
@@ -61,5 +61,6 @@ A narrativa estabeleceu solidamente os três pilares que sustentavam a corrupç�
 
 ## 4. Pontos de Atenção (Watchlist)
 
-1.  **Escala de Poder de Aria:** Aria demonstrou capacidade de bloquear Dante localmente, mas precisa de recarga. A dinâmica de "bateria" dela deve ser mantida para evitar que ela resolva tudo sozinha.
-2.  **A Passividade de Gabo (Resolvido):** Em Ch 111, Gabo assume a liderança tática ("Fugitivos correm, rebeldes lutam"). Ele voltou a ser o protagonista ativo, usando sua experiência de combate para orientar o grupo, equilibrando os poderes de Aria e Val.
+1.  **Escala de Poder de Dante (RESOLVIDO):** O Capítulo 111 e 112 estabeleceram o "Colapso Térmico" e o "Kill Switch" de Marco Moretti. Dante não é onipotente; ele é biologicamente instável e requer ciclos de resfriamento. Isso equilibra a escala de poder.
+2.  **A Identidade de Aria:** A revelação de que ela usa o rosto de Bia Vargas (Ch 112) cria um conflito emocional potente para Gabo e Valéria, além de explicar a conexão "familiar" que Dante pode ter sentido anteriormente.
+3.  **A Passividade de Gabo:** Com titãs como Dante e Aria em jogo, Gabo não pode ser reduzido a um observador. Sua "humanidade falha" e capacidade de improvisação (ex: usar chaves manuais antigas) continuam sendo seu trunfo.

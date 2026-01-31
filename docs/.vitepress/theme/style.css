@@ -658,3 +658,10 @@ body.reader-mode-active .VPDoc {
 body.reader-mode-active .vp-doc h1 {
   margin-top: 2rem;
 }
+
+body.reader-mode-active .vp-doc p {
+  text-align: justify;
+  font-size: 1.25rem;
+  line-height: 1.8;
+  font-family: "Merriweather", serif;
+}
