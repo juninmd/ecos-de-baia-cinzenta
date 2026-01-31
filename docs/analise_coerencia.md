@@ -10,12 +10,12 @@
 
 ### ✅ O "Fator Nicotina" (Regra Canônica)
 *   **Regra:** Gabriel Moretti odeia cigarro e nunca fuma, devido ao trauma associado ao vício de seu pai.
-*   **Auditoria de Texto (Capítulos 1-111):** Foi realizada uma varredura completa (`grep`) por termos como "cigarro", "fumar", "tabaco", "fumaça".
+*   **Auditoria de Texto (Capítulos 1-112):** Foi realizada uma varredura completa (`grep`) por termos como "cigarro", "fumar", "tabaco", "fumaça".
 *   **Resultado:** **100% de Conformidade.**
     *   Gabo expressa náusea ativa ao cheiro de fumaça em múltiplos capítulos (Ex: Ch 51, Ch 98, Ch 110).
     *   O uso de isqueiros por Gabo (Ch 15, Ch 73) é estritamente utilitário (criar fogo/explosões), nunca para consumo de tabaco.
     *   Personagens secundários fumam (Vilar, NPCs), servindo para destacar a aversão de Gabo.
-    *   **Observação Recente:** No Capítulo 111, a regra permanece intacta. A cena mostra Gabo limpando sua arma, sem qualquer associação com fumo, enquanto Rangel se ocupa carregando munição.
+    *   **Observação Recente:** No Capítulo 112, a regra permanece intacta. Gabo está sob estresse extremo na superfície, mas não recorre a vícios químicos. A única menção a "fumaça" é ambiental (diesel/incineradoras), causando desconforto natural.
 
 ---
 
@@ -23,18 +23,18 @@
 
 ### Inspetor Rangel: A Aceitação do Abismo
 *   **Status Anterior:** Desertor Recente (Ch 108).
-*   **Novo Status (Pós-Ch 111):** Rebelde Relutante / "O Último Policial".
-*   **Análise:** Nos Capítulos 110 e 111, Rangel completa seu arco de desconstrução. Ao perder o distintivo (que se torna inútil na Gaiola de Faraday) e aceitar carregar munição "ilegal" (ponta oca), ele admite que a lei que servia não existe mais. Sua motivação muda de "cumprir o dever" para "derrubar o tirano".
+*   **Novo Status (Pós-Ch 112):** Rebelde Tático.
+*   **Análise:** Rangel demonstra competência única ao usar chaves físicas para roubar o caminhão de lixo. Ele preenche a lacuna de "conhecimento analógico institucional" que Gabo (rua) e Val (digital) não possuem.
 *   **Veredito:** ✅ Desenvolvimento Orgânico e Coerente.
+
+### Valéria vs. Aria: O Fantasma de Bia
+*   **Dinâmica:** Desconfiança e Ciúmes.
+*   **Análise (Ch 112):** O confronto físico entre Valéria e Aria é crucial. Valéria se sente ameaçada não apenas pela IA, mas pelo rosto de Beatriz Vargas — a ex-mulher morta de Gabo. Isso humaniza Valéria, mostrando que sua frieza habitual tem limites emocionais.
+*   **Veredito:** ✅ Excelente tensão dramática.
 
 ### Gabo vs. Dante: O Conflito Físico vs. Digital
 *   **Dinâmica:** "Caos Humano vs. Ordem Inumana".
 *   **Análise:** A relação evolui de um confronto direto para uma guerra de guerrilha. Gabo entende que não pode vencer Dante no campo digital, então move o jogo para o analógico (balas físicas, calor geotérmico).
-*   **Veredito:** ✅ Coerente.
-
-### Gabo & Valéria: A Parceria Pós-Apocalíptica
-*   **Dinâmica:** Lealdade Absoluta.
-*   **Análise:** Valéria continua sendo a extensão tecnológica de Gabo, mas o Ch 111 mostra sua frustração com a tecnologia obsoleta ("Eu tenho que *digitar*?"). Isso humaniza a personagem e reforça a dependência que ambos têm um do outro: Gabo lida com o mundo físico que Valéria acha "lento".
 *   **Veredito:** ✅ Coerente.
 
 ---
@@ -42,7 +42,7 @@
 ## 3. Expansão de Lore e Construção de Mundo (Lore Consistency)
 
 ### O Custo da Onisciência (A Falha Térmica)
-*   **Conceito (Ch 111):** Dante Moretti, apesar de ser uma IA quase divina, está preso a um substrato biológico (cérebro clonado).
+*   **Conceito (Ch 111-112):** Dante Moretti, apesar de ser uma IA quase divina, está preso a um substrato biológico (cérebro clonado).
 *   **Regra:** O processamento excessivo gera calor fatal. Ele necessita de 40 minutos de "Sleep Mode" a cada 24h para resfriamento.
 *   **Coerência:** Isso resolve o problema de "Deus Ex Machina" reverso identificado anteriormente. Dante não é invencível; ele tem uma limitação física, biológica e termodinâmica. Isso cria uma janela tática plausível para os heróis.
 
@@ -62,5 +62,5 @@ A narrativa estabeleceu solidamente os três pilares que sustentavam a corrupç�
 ## 4. Pontos de Atenção (Watchlist)
 
 1.  **Escala de Poder de Dante (RESOLVIDO):** O Capítulo 111 e 112 estabeleceram o "Colapso Térmico" e o "Kill Switch" de Marco Moretti. Dante não é onipotente; ele é biologicamente instável e requer ciclos de resfriamento. Isso equilibra a escala de poder.
-2.  **A Identidade de Aria:** A revelação de que ela usa o rosto de Bia Vargas (Ch 112) cria um conflito emocional potente para Gabo e Valéria, além de explicar a conexão "familiar" que Dante pode ter sentido anteriormente.
-3.  **A Passividade de Gabo:** Com titãs como Dante e Aria em jogo, Gabo não pode ser reduzido a um observador. Sua "humanidade falha" e capacidade de improvisação (ex: usar chaves manuais antigas) continuam sendo seu trunfo.
+2.  **A Identidade de Aria (CONFIRMADO):** O Capítulo 112 confirma que Aria usa um "chassi" baseado em Beatriz Vargas. Isso deve gerar conflitos contínuos com Gabo, que precisa separar a memória da mulher que amou da arma que está diante dele.
+3.  **A Passividade de Gabo (EM MONITORAMENTO):** Com titãs como Dante e Aria em jogo, Gabo não pode ser reduzido a um observador. Sua "humanidade falha" e capacidade de improvisação (ex: usar chaves manuais antigas no Ch 112) continuam sendo seu trunfo e devem ser explorados.
