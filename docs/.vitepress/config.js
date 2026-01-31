@@ -228,6 +228,7 @@ module.exports = {
               { text: 'Capítulo 110: Ponto Cego', link: '/capitulo-110' },
               { text: 'Capítulo 111: Arquivos Mortos', link: '/capitulo-111' },
               { text: 'Capítulo 112: O Peso da Memória', link: '/capitulo-112' },
+              { text: 'Capítulo 113: Carga Viva', link: '/capitulo-113' },
             ]
           },
         ]
