@@ -37,6 +37,11 @@
 *   **Análise:** A relação evolui de um confronto direto para uma guerra de guerrilha. Gabo entende que não pode vencer Dante no campo digital, então move o jogo para o analógico (balas físicas, calor geotérmico).
 *   **Veredito:** ✅ Coerente.
 
+### Gabo & Valéria: A Tensão da Memória
+*   **Dinâmica:** Lealdade Testada.
+*   **Análise (Ch 112):** A parceria funcional continua, mas a revelação sobre Aria introduz uma tensão significativa. O ciúme e o luto de Valéria por Bia, confrontados com a presença de Aria, testam a dinâmica de confiança que eles tinham. A forma como Gabo lida com essa situação será crucial para o futuro da parceria.
+*   **Veredito:** ✅ Coerente e com grande potencial para desenvolvimento.
+
 ---
 
 ## 3. Expansão de Lore e Construção de Mundo (Lore Consistency)
