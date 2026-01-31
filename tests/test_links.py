@@ -1,94 +1,89 @@
 import os
 import re
 import pytest
+from pathlib import Path
 
-DOCS_DIR = os.path.join(os.path.dirname(__file__), '..', 'docs')
+# Base directory for documentation
+DOCS_DIR = Path("docs")
+PUBLIC_DIR = DOCS_DIR / "public"
 
 def get_markdown_files():
-    markdown_files = []
-    for root, dirs, files in os.walk(DOCS_DIR):
-        for file in files:
-            if file.endswith('.md'):
-                markdown_files.append(os.path.join(root, file))
-    return markdown_files
+    """Returns a list of all markdown files in the docs directory."""
+    if not DOCS_DIR.exists():
+        return []
+    return list(DOCS_DIR.rglob("*.md"))
 
-def resolve_link(current_file, link):
-    # Remove anchor
-    link = link.split('#')[0]
+def extract_links(content):
+    """Extracts all links from markdown content."""
+    # Matches standard markdown links [text](link) and images ![text](link)
+    # capture group 1 is the link url
+    # Modified regex to handle balanced parentheses in URLs (one level deep)
+    # e.g. [text](image(1).png)
+    regex = r'\]\(((?:[^)(]|\([^)(]*\))*)\)'
+    return re.findall(regex, content)
 
-    if not link:
-        return True # Just an anchor
-
-    if link.startswith('http://') or link.startswith('https://') or link.startswith('mailto:'):
-        return True # External link, ignore for now
-
-    # Check for static assets in public folder (often referenced as /image.png)
-    # VitePress maps / to public/ as well for assets, but for markdown links checking relative to docs root is safer for checking file existence.
-
-    target_path = None
-
-    if link.startswith('/'):
-        # Absolute path relative to docs root
-        # e.g. /foo/bar -> docs/foo/bar
-        target_path = os.path.join(DOCS_DIR, link.lstrip('/'))
-    else:
-        # Relative path
-        target_path = os.path.join(os.path.dirname(current_file), link)
-
-    # Clean path
-    target_path = os.path.normpath(target_path)
-
-    # Check if file exists
-    if os.path.exists(target_path):
-        return True
-
-    # Try with .md extension if missing
-    if os.path.exists(target_path + '.md'):
-        return True
-
-    # Try as directory (implies index.md)
-    if os.path.isdir(target_path):
-         if os.path.exists(os.path.join(target_path, 'index.md')):
-             return True
-
-    # Handle VitePress "pretty" links where foo -> foo.md
-    # If target_path ends with 'foo', try 'foo.md'
-    # Use dirname and basename
-    dir_name = os.path.dirname(target_path)
-    base_name = os.path.basename(target_path)
-
-    # If checking for 'foo', and 'foo.md' exists in that dir
-    candidate = os.path.join(dir_name, base_name + '.md')
-    if os.path.exists(candidate):
-        return True
-
-    # Also check public directory for assets (images, etc)
-    # docs/public is mapped to /
-    if link.startswith('/'):
-         public_path = os.path.join(DOCS_DIR, 'public', link.lstrip('/'))
-         if os.path.exists(public_path):
-             return True
-         # Also try without leading slash relative to current file? No, / implies root.
-
-    return False
-
-@pytest.mark.parametrize("filepath", get_markdown_files())
-def test_internal_links(filepath):
-    """
-    Parses a markdown file and checks if all internal links are valid.
-    """
-    with open(filepath, 'r', encoding='utf-8') as f:
-        content = f.read()
-
-    # Regex to find [text](link)
-    # This is a simple regex and might fail on nested brackets, but sufficient for most markdown
-    links = re.findall(r'\[.*?\]\((.*?)\)', content)
-
-    broken_links = []
+@pytest.mark.parametrize("file_path", get_markdown_files())
+def test_links_in_file(file_path):
+    """Checks that all local links in a markdown file point to existing files."""
+    content = file_path.read_text(encoding="utf-8")
+    links = extract_links(content)
 
     for link in links:
-        # Filter out some common non-file links
-        if not resolve_link(filepath, link):
-             broken_links.append(link)
+        # Clean the link (remove query params, title text etc if present)
+        # Markdown link can be "url 'title'", we need just url
+        link = link.split()[0]
 
-    assert not broken_links, f"Broken links found in {os.path.relpath(filepath, DOCS_DIR)}: {broken_links}"
+        # Ignore external links, mailto, etc.
+        if link.startswith(("http://", "https://", "mailto:", "ftp://", "tel:")):
+            continue
+
+        # Ignore pure anchors
+        if link.startswith("#"):
+            continue
+
+        # Split anchor from path
+        link_path_str = link.split("#")[0]
+
+        # If link was just "#anchor", link_path_str is empty
+        if not link_path_str:
+            continue
+
+        # Handle Absolute paths (starting with /)
+        if link_path_str.startswith("/"):
+            # In VitePress, '/' usually resolves to the 'docs' directory or 'public'
+            # We check both locations
+
+            # 1. Check relative to docs root
+            path_rel_to_docs = link_path_str.lstrip("/")
+            target_in_docs = DOCS_DIR / path_rel_to_docs
+
+            # 2. Check in public directory (assets often referenced as /image.png which maps to docs/public/image.png)
+            target_in_public = PUBLIC_DIR / path_rel_to_docs
+
+            exists = target_in_docs.exists() or target_in_public.exists()
+
+            # Handle clean URLs or directory links (e.g. /guide/ points to /guide/index.md)
+            if not exists and not target_in_docs.suffix:
+                 if (target_in_docs / "index.md").exists():
+                     exists = True
+
+            assert exists, f"Broken absolute link in {file_path}: {link} -> Checked {target_in_docs} and {target_in_public}"
+
+        else:
+            # Relative paths
+            target = (file_path.parent / link_path_str).resolve()
+
+            # Check existence
+            if target.exists():
+                continue
+
+            # If failed, maybe it is a directory link implying index.md
+            if (target / "index.md").exists():
+                continue
+
+            # Special case: VitePress sometimes allows omitting extension for .md?
+            # Usually better to be explicit, but let's check if .md exists
+            if not target.suffix and target.with_suffix(".md").exists():
+                continue
+
+            assert False, f"Broken relative link in {file_path}: {link} -> Resolved to {target}"
