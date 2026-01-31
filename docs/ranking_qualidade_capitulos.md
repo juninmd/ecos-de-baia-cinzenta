@@ -9,6 +9,15 @@ Este documento mantém um registro da avaliação de qualidade narrativa, ritmo 
 
 ## 🟢 Arco Atual: Partes XIV & XV (O Vazio / A Ascensão)
 
+### Capítulo 112: O Peso da Memória
+*   **Nota:** ⭐ **9.4/10**
+*   **Pontos Fortes:**
+    *   **Drama Pessoal:** O confronto entre Valéria e Aria sobre a identidade visual de Bia Vargas é visceral e necessário. Humaniza Valéria e expõe a crueldade da engenharia de Aria.
+    *   **Analog Noir:** Rangel roubando um caminhão de lixo com chaves físicas antigas é a epítome do tema "Analógico vence Digital".
+    *   **Lore Logic:** A explicação do "Kill Switch" térmico de Dante amarra pontas soltas sobre a desconfiança de Marco Moretti.
+*   **Pontos Fracos:**
+    *   A transição do esgoto para a superfície pareceu acelerada, mas justifica-se pela urgência dos drones.
+
 ### Capítulo 111: Arquivos Mortos
 *   **Nota:** ⭐ **9.1/10**
 *   **Pontos Fortes:**

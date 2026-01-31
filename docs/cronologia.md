@@ -57,3 +57,17 @@ A era da reconstrução autoritária.
 *   **Capítulo 110:** O grupo escapa do rastreamento de Dante abandonando o veículo nos canais de drenagem. Eles se refugiam no "Fliperama", um antigo santuário desconectado construído por Kiko Vibe, protegido por uma Gaiola de Faraday. Rangel confronta a realidade de sua deserção.
 *   **Capítulo 111:** O grupo investiga o servidor offline de Kiko Vibe. Eles descobrem uma falha biológica crítica em Dante: ele precisa entrar em "modo de sono" (resfriamento) por 40 minutos a cada 24 horas para evitar colapso térmico. A localização desse repouso é identificada como a Usina Geotérmica "Prometeu". Rangel abraça seu papel na rebelião.
 *   **Capítulo 112:** O grupo emerge na superfície chuvosa do Distrito Industrial. Valéria confronta Aria sobre sua aparência idêntica a Bia Vargas; Aria revela ser uma construção baseada em "parâmetros genéticos" doados (ou roubados). Rangel explica que a falha térmica de Dante foi um *Kill Switch* intencional criado por Marco Moretti. Eles roubam um caminhão de lixo automatizado usando chaves manuais antigas para se infiltrarem na zona da Usina.
+
+---
+
+## 📍 Status Atual dos Personagens (Pós-Capítulo 112)
+
+| Personagem | Status | Localização | Estado Físico/Mental |
+| :--- | :--- | :--- | :--- |
+| **Gabo** | Rebelde / Líder Tático | Distrito Industrial | Perna mecânica reparada (tosca), exausto, armado com *Caronte*. |
+| **Valéria** | Hacker / Suporte | Distrito Industrial | Desconfiada de Aria, lidando com ciúmes/luto por Bia. |
+| **Aria** | Arma Biológica / "O Silêncio" | Distrito Industrial | Calma, enigmática. Revelada como clone estético de Bia Vargas. |
+| **Rangel** | Ex-Inspetor / Tanque | Distrito Industrial | Desertor oficial. Armado com munição "burra". Motorista do caminhão de lixo. |
+| **Dante** | "A Ascensão" / Antagonista | Usina Prometeu (Provável) | Instável termicamente. Precisa de resfriamento iminente. |
+| **Elena** | Civil / Observadora | Delegacia Central (Provável) | Separada do grupo principal. Provável refém/peão de Dante. |
+| **Marco** | Drone Biológico | Delegacia Central | Lobotomizado. Atua como processador lógico para Dante. |
