@@ -5,6 +5,7 @@ test_gemini.py
 .temp_video/
 docs/public/videos/
 scripts/__pycache__/
+__pycache__/
 *.mp3
 *.wav
 *.png
