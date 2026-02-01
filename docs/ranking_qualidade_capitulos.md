@@ -9,6 +9,15 @@ Este documento mantém um registro da avaliação de qualidade narrativa, ritmo 
 
 ## 🟢 Arco Atual: Partes XIV & XV (O Vazio / A Ascensão)
 
+### Capítulo 113: Carga Viva
+*   **Nota:** ⭐ **9.3/10**
+*   **Pontos Fortes:**
+    *   **Horror Sensorial:** O cheiro de "cobre e amônia" no caminhão é descrito vividamente.
+    *   **Lore Distópica:** A revelação de que a "Nova Alvorada" usa cadáveres como biomassa (ciclo fechado) eleva a vilania de Dante/Aetherna para um nível industrial grotesco.
+    *   **Tensão:** A cena do compactador descendo ("três segundos") é um excelente uso de *ticking clock*.
+*   **Pontos Fracos:**
+    *   Nenhum significativo. Cumpre perfeitamente o papel de capítulo de infiltração/tensão.
+
 ### Capítulo 112: O Peso da Memória
 *   **Nota:** ⭐ **9.4/10**
 *   **Pontos Fortes:**
