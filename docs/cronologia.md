@@ -57,17 +57,19 @@ A era da reconstrução autoritária.
 *   **Capítulo 110:** O grupo escapa do rastreamento de Dante abandonando o veículo nos canais de drenagem. Eles se refugiam no "Fliperama", um antigo santuário desconectado construído por Kiko Vibe, protegido por uma Gaiola de Faraday. Rangel confronta a realidade de sua deserção.
 *   **Capítulo 111:** O grupo investiga o servidor offline de Kiko Vibe. Eles descobrem uma falha biológica crítica em Dante: ele precisa entrar em "modo de sono" (resfriamento) por 40 minutos a cada 24 horas para evitar colapso térmico. A localização desse repouso é identificada como a Usina Geotérmica "Prometeu". Rangel abraça seu papel na rebelião.
 *   **Capítulo 112:** O grupo emerge na superfície chuvosa do Distrito Industrial. Valéria confronta Aria sobre sua aparência idêntica a Bia Vargas; Aria revela ser uma construção baseada em "parâmetros genéticos" doados (ou roubados). Rangel explica que a falha térmica de Dante foi um *Kill Switch* intencional criado por Marco Moretti. Eles roubam um caminhão de lixo automatizado usando chaves manuais antigas para se infiltrarem na zona da Usina.
+*   **Capítulo 113:** Disfarçados como "Carga Viva" no caminhão de lixo #899, o grupo atravessa o bloqueio da Usina Prometeu. Aria manipula os sensores para ocultar seus sinais vitais, enquanto Valéria e Gabo testemunham a brutalidade do transporte de "Drenados" (viciados coletados como biomassa). Eles conseguem entrar no perímetro interno.
+*   **Capítulo 114:** O caminhão despeja sua carga no "Setor de Triagem". O grupo escapa por pouco de ser triturado junto com os corpos na "Linha de Montagem" de biomassa. Eles descobrem que a usina é patrulhada por drones "Jardineiros" e que o código de segurança possui a assinatura digital do "Taxidermista", sugerindo que o antigo inimigo de Gabo está envolvido na infraestrutura da Nova Ordem.
 
 ---
 
-## 📍 Status Atual dos Personagens (Pós-Capítulo 112)
+## 📍 Status Atual dos Personagens (Pós-Capítulo 114)
 
 | Personagem | Status | Localização | Estado Físico/Mental |
 | :--- | :--- | :--- | :--- |
-| **Gabo** | Rebelde / Líder Tático | Distrito Industrial | Perna mecânica reparada (tosca), exausto, armado com *Caronte*. |
-| **Valéria** | Hacker / Suporte | Distrito Industrial | Desconfiada de Aria, lidando com ciúmes/luto por Bia. |
-| **Aria** | Arma Biológica / "O Silêncio" | Distrito Industrial | Calma, enigmática. Revelada como clone estético de Bia Vargas. |
-| **Rangel** | Ex-Inspetor / Tanque | Distrito Industrial | Desertor oficial. Armado com munição "burra". Motorista do caminhão de lixo. |
-| **Dante** | "A Ascensão" / Antagonista | Usina Prometeu (Provável) | Instável termicamente. Precisa de resfriamento iminente. |
+| **Gabo** | Rebelde / Líder Tático | Usina Prometeu (Subsolo) | Perna mecânica reparada (tosca), exausto, armado com *Caronte*. Determinado a caçar o Taxidermista. |
+| **Valéria** | Hacker / Suporte | Usina Prometeu (Subsolo) | Traumatizada pelo massacre industrial. Tentando hackear o sistema local. |
+| **Aria** | Arma Biológica / "O Silêncio" | Usina Prometeu (Subsolo) | Focada na missão. Detectou a assinatura do Taxidermista. |
+| **Rangel** | Ex-Inspetor / Tanque | Usina Prometeu (Doca) | Separado do grupo principal. Tentando ocultar o caminhão. |
+| **Dante** | "A Ascensão" / Antagonista | Usina Prometeu (Núcleo) | Instável termicamente. Em processo de resfriamento. |
 | **Elena** | Civil / Observadora | Delegacia Central (Provável) | Separada do grupo principal. Provável refém/peão de Dante. |
 | **Marco** | Drone Biológico | Delegacia Central | Lobotomizado. Atua como processador lógico para Dante. |
