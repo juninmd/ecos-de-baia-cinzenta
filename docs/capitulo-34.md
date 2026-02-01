@@ -45,7 +45,7 @@ Mas o projétil voou. A lata sibilou pelo ar, um meteoro de fúria enferrujada, 
 
 A explosão não foi limpa. Foi suja, gutural. Metal rasgou. A van não capotou, mas a lateral se abriu como uma flor de aço retorcido. A onda de choque e uma chuva de estilhaços derrubaram os bandidos mais próximos.
 
-Gabo, ignorando a dor lancinante, largou o tubo fumegante e sacou sua pistola, usando o carro como apoio para se levantar.
+Gabo, ignorando a dor lancinante, largou o cano quente da arma e sacou sua pistola, usando o carro como apoio para se levantar.
 
 — Quem mais quer brincar?! — rugiu ele, a visão turva pela dor.
 

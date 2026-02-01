@@ -85,7 +85,7 @@ Ele se moveu. Rápido demais para um humano normal. Gabo disparou duas vezes, ma
 
 Gabo correu até a varanda, seus servos zumbindo no máximo, mas o motor do barco vizinho rugiu e a figura desapareceu na escuridão e na chuva, deixando apenas o rastro de espuma.
 
-Gabo ficou ali, a arma fumegante na mão, a água fria lavando seu rosto quente. Ele tinha acabado de encontrar o assassino mais perigoso que a cidade já vira. Um assassino que salvara sua irmã, mas que roubara as provas do DNA.
+Gabo ficou ali, a arma ainda quente na mão, a água fria lavando seu rosto quente. Ele tinha acabado de encontrar o assassino mais perigoso que a cidade já vira. Um assassino que salvara sua irmã, mas que roubara as provas do DNA.
 
 Ele voltou para dentro. Clara estava chorando agora, um choro convulso de quem finalmente permitiu que o terror saísse.
 

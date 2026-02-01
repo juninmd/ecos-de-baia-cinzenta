@@ -41,7 +41,7 @@ A caçamba de metal virou peneira. O bandido caiu gritando.
 
 — É o Moretti! — gritou alguém na escuridão, a voz embargada de pânico. — É o Demônio da Baía!
 
-O medo na voz deles era palpável, mais eficaz que qualquer bala. Gabo recarregou a arma com um movimento rápido e brutal, ejetando os cartuchos fumegantes que caíam no asfalto molhado.
+O medo na voz deles era palpável, mais eficaz que qualquer bala. Gabo recarregou a arma com um movimento rápido e brutal, ejetando os cartuchos vazios que caíam no asfalto molhado.
 
 — Apareçam! — desafiou Gabo, a voz um trovão. — Eu tenho chumbo para todos vocês!
 

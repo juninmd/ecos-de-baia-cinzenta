@@ -9,7 +9,7 @@ O esconderijo de Dr. Nise ficava no subsolo do Distrito da Névoa, sob uma antig
 
 — Fiquem parados — ordenou a voz rouca vinda das sombras.
 
-Dr. Nise não era um homem. Era uma mulher idosa, cega, com implantes oculares grosseiramente removidos, deixando cicatrizes profundas. Ela "via" através de um enxame de micro-drones que zumbiam ao seu redor como moscas metálicas.
+Dr. Nise não era um homem. Era uma mulher idosa, de olhos acastanhados atentos e pele marcada pelo tempo, o jaleco permanentemente manchado de reagentes. Um enxame de micro-drones zumbia ao seu redor como moscas metálicas, ampliando sua leitura do ambiente.
 
 — Estamos limpos, Doutora — disse Valéria, levantando as mãos. — Precisamos de ajuda.
 
@@ -50,13 +50,13 @@ Gabriel sentiu um gosto amargo.
 — Mas quem? — perguntou Gabriel. — Marco Moretti é um político, não um gênio da neurociência.
 
 — Marco é apenas o rosto — disse Nise. Ela digitou algo no teclado. — O Dante sabia.
-	
+
 Gabriel congelou.
-	
+
 — O quê?
-	
+
 — Seu pai não estava apenas investigando, Gabriel. Ele era Consultor de Segurança Sênior. Ele assinou a autorização para os testes beta do sinal no Distrito 4. Ele achava que podia "sanear" a violência com frequência de rádio. Quando percebeu que virava controle mental, tentou voltar atrás. Mas você não se demite da Aeterna.
-	
+
 — O sinal tem uma origem — continuou Nise, ignorando o choque de Gabriel. — Uma fonte primária.
 
 Um mapa de Baía Cinzenta apareceu na tela. Um ponto vermelho pulsava no centro do Distrito de Prata.

@@ -33,6 +33,28 @@ Valéria engasgou, parando de digitar por um segundo.
 
 — Para o sistema, eles são combustível — Aria respondeu, sem crueldade, apenas com uma precisão terrível. — A Usina Prometeu queima metano geotérmico, mas os bio-processadores precisam de matéria orgânica para cultivar as culturas de bactérias que filtram o enxofre. É um ciclo fechado.
 
+Valéria sentiu uma pontada de algo mais profundo que raiva. Ciúmes. Aria falava como se entendesse Gabo melhor que ela. Como se compartilhasse algo que Valéria nunca poderia tocar.
+
+— Você acha que entende dor, não é? — disse Valéria, baixinho, mas com veneno. — Com suas memórias roubadas. Seus cálculos frios. Mas você não sente nada de verdade.
+
+Aria virou-se para ela, seus olhos brilhando na escuridão.
+
+— Eu sinto — disse ela, e havia uma vulnerabilidade em sua voz que Valéria não esperava. — Eu sinto... tudo. As memórias dela. De Beatriz. O amor que ela sentia por Gabo. A maneira como ela o olhava quando ele não estava vendo. É... avassalador.
+
+Valéria sentiu como se tivesse levado um soco. Aria tinha memórias de Bia? Memórias íntimas?
+
+— Você não tem direito — sussurrou Valéria, as mãos tremendo. — Aquelas memórias não são suas. Você é apenas uma cópia. Uma ferramenta.
+
+Aria não respondeu imediatamente. Ela olhou para Gabo, que observava em silêncio, e depois de volta para Valéria.
+
+— Talvez — disse ela finalmente. — Mas eu me lembro de como ela chorou no casamento. Como ela prometeu amá-lo para sempre. E eu me pergunto... se eu sou uma cópia, o que isso faz de você?
+
+Valéria avançou um passo, os punhos cerrados. Gabo colocou-se entre elas.
+
+— Chega — disse ele, a voz cansada mas firme. — Não temos tempo para isso.
+
+Mas a tensão ficou no ar, espessa como o cheiro de morte ao redor deles.
+
 Gabo fechou os olhos, a dor em sua perna latejando em sincronia com o motor do caminhão. A "Nova Alvorada" não era apenas limpeza social. Era canibalismo industrializado.
 
 O caminhão freou bruscamente, jogando-os para frente. Gabo bateu o ombro contra a parede de metal frio.

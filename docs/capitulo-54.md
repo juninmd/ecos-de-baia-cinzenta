@@ -5,7 +5,7 @@ image: /capitulo_54.jpg
 
 **Dia 45 do Dilúvio - Distrito da Ferrugem**
 
-O Cobalt de Gabo gemia a cada curva. O motor engasgava, tossindo fumaça negra que se misturava à névoa da cidade. A suspensão rangeu violentamente ao passar por cima de um hidrante submerso, fazendo o carro balançar como um barco bêbado.
+O Cobalt de Gabo gemia a cada curva. O motor engasgava, cuspindo óleo negra que se misturava à névoa da cidade. A suspensão rangeu violentamente ao passar por cima de um hidrante submerso, fazendo o carro balançar como um barco bêbado.
 
 — Essa lata velha vai nos matar antes do inimigo — reclamou Valéria, segurando-se no painel do passageiro.
 

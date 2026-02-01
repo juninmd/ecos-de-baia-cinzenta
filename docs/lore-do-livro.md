@@ -89,6 +89,21 @@ Além da corrupção corporativa, Baía Cinzenta é lar de predadores únicos.
 
 ---
 
+## 5. Personagens Chave e Relacionamentos
+
+### Dante Moretti (Pai de Gabo)
+*   **Status:** Consciente transferida para corpo cultivado (não é IA pura)
+*   **História:** Ex-Comissário de Polícia assassinado pela Aeterna Corp. Sua consciência foi salva como backup digital e posteriormente transferida para um novo corpo biológico criado pelo Projeto Gênesis.
+*   **Personalidade:** Calculista, autoritário, mas com senso de justiça herdado por Gabo
+*   **Relação com Gabo:** Pai ausente que Gabo idolatra, fonte de conflito quando "ressuscita"
+
+### Roberto Miranda (Antagonista)
+*   **Status:** Ciborgue parcialmente biológico (consciente preservada)
+*   **Transformação:** Capturado durante queda da Torre Aeterna, "recultivado" como entidade híbrida
+*   **Motivação:** Sobrevivência através da lealdade ao Projeto Gênesis
+
+---
+
 ## 6. O Protagonista: Gabriel "Gabo" Moretti
 
 *   **Arquétipo:** O Cavaleiro Solitário em um mundo sem honra.

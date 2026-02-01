@@ -107,7 +107,7 @@ Gabo reconheceu a voz imediatamente. Era a voz de um fantasma. Ou de alguém que
 
 — Roberto — rosnou Gabo, sua mão indo instintivamente para o revólver.
 
-Roberto Miranda. O homem que matara Bia. O homem que Gabo vira morrer nas chamas da Torre Aeterna.
+Roberto Miranda. O homem que matara Bia. O homem que Gabo vira ser capturado pela Aeterna na queda da Torre Aeterna.
 
 — *Gabo, meu velho amigo* — a voz continuou, destilando ironia. — *Vejo que você ainda não largou o hábito de se meter onde não é chamado. E vejo que trouxe visitas. Elena... sempre a pedra no sapato da família.*
 
