@@ -5,7 +5,7 @@ image: /cidade.jpg
 
 O flutuante do "Dourado" balançava violentamente nas águas negras da cidade submersa, mas não era por causa da maré. O barco, uma boate adaptada sobre cascos de barcaças de lixo, era um templo de néon e vício flutuando sobre a miséria do Setor 9.
 
-Gabo firmou a base no píer escorregadio. Os servos de seu exoesqueleto nas pernas zumbiram baixo, compensando o balanço. A armadura era uma necessidade médica; desde que o Taxidermista esmagara seus ossos na Torre do Relógio com aquele maldito contrapeso, o metal era a única coisa que o mantinha em pé.
+Gabo firmou a base no píer escorregadio. Os servos das órteses nas pernas zumbiram baixo, compensando o balanço. A estrutura era uma necessidade médica; desde que o Taxidermista esmagara seus ossos na Torre do Relógio com aquele maldito contrapeso, o metal era a única coisa que o mantinha em pé.
 
 *"Você é uma âncora",* a voz do assassino ainda ecoava.
 
@@ -29,7 +29,7 @@ E todos com as mãos quebradas. Os ossos dos dedos esmagados metodicamente.
 
 Um som abafado veio dos fundos, atrás de uma cortina de contas de plástico dourado.
 
-Gabo correu, o exoesqueleto batendo pesado no tablado de madeira. Ele rasgou a cortina e parou.
+Gabo correu, as órteses batendo pesado no tablado de madeira. Ele rasgou a cortina e parou.
 
 O escritório do Dourado era uma paródia de opulência. Veludo vermelho mofado, ouro falso descascando e estátuas de querubins roubadas de igrejas alagadas. O agiota, um homem gordo com pele sintética dourada (daí o apelido), estava sentado em sua cadeira de couro de avestruz.
 
@@ -95,7 +95,7 @@ Gabo guardou a arma. Ele tirou o sobretudo pesado e o colocou sobre os ombros de
 
 — Nós não temos casa, Gabo — ela soluçou, agarrando a lapela do casaco dele. — A enchente levou tudo. O apartamento, as fotos... a mãe.
 
-— Eu sei — disse ele, levantando-a com a ajuda do exoesqueleto. — Eu sei. Mas eu tenho um lugar seguro. E eu vou descobrir quem estava comprando seu sangue. Eu prometo.
+— Eu sei — disse ele, levantando-a com a ajuda das órteses. — Eu sei. Mas eu tenho um lugar seguro. E eu vou descobrir quem estava comprando seu sangue. Eu prometo.
 
 Eles saíram do flutuante da morte, dois órfãos em um barco no meio do dilúvio. Gabo olhou para a cidade iluminada ao longe, a carcaça da Torre de Marfim ainda visível como uma lápide gigante.
 

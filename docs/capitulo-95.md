@@ -19,7 +19,7 @@ Ela tinha sido arranhada lá fora.
 
 — Val, eu não vou te deixar.
 
-— Você não tem escolha! — ela gritou, e sua voz já tinha um eco duplo, humano e vegetal. — A Grande Convergência começa em minutos. Se Aria não liberar o código, eu vou virar uma planta de qualquer jeito. E você também.
+— Você não tem escolha! — ela gritou, e sua voz já tinha um eco duplo, humano e vegetal. — A Grande Convergência começa em minutos. Se o Código Morto não rodar, eu vou virar uma planta de qualquer jeito. E você também.
 
 Ela sacou suas duas pistolas.
 
@@ -51,6 +51,6 @@ Gabo olhou para as raízes da árvore. Rostos. Milhares de rostos. Dante. O Pref
 
 — Isso não é vida — cuspiu Gabo. — É um inferno de jardim botânico.
 
-Ele conectou o cabo do servidor de Aria diretamente em uma porta de acesso na base da árvore biomecânica.
+Ele conectou o cabo do servidor do Código Morto diretamente em uma porta de acesso na base da árvore biomecânica.
 
-— Agora, Aria!
+— Agora!

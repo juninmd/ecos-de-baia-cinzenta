@@ -21,23 +21,7 @@ O drone pairava a dois metros dele, imóvel como uma mosca presa em âmbar. As l
 
 Rangel olhou para cima, para o guindaste.
 
-A figura de cabelos brancos ainda estava lá, uma silhueta pequena contra a chuva torrencial. Ela não segurava uma arma. Ela apenas... existia. E ao redor dela, a chuva parecia cair mais devagar, como se a própria gravidade estivesse hesitando.
-
-Ela desceu. Não voando, mas deslizando por um cabo de aço com uma graça que nenhuma criança humana deveria ter. Quando seus pés tocaram o chão de concreto rachado, ela caminhou em direção a eles.
-
-Rangel se levantou, os joelhos tremendo. Ele limpou a lama do visor tático.
-
-— Quem é voc... — A pergunta morreu na garganta.
-
-A menina parou sob a luz de um poste que piscava erraticamente. A pele era pálida, perfeita demais, repelindo a sujeira do porto. Mas o rosto...
-
-Rangel sentiu o sangue drenar de seu corpo. Ele conhecia aquele rosto. Ele viu aquele rosto rir na cantina da delegacia. Ele viu aquele rosto chorar quando o primeiro tiro acertou seu ombro. Ele viu aquele rosto em uma mesa de necrotério, pálido e frio, com uma etiqueta no dedo do pé.
-
-— Bia? — ele sussurrou. A palavra saiu como um engasgo. — Beatriz?
-
-A menina inclinou a cabeça. Os olhos heterocromáticos — um azul elétrico, o outro ouro líquido — focaram nele. Não havia reconhecimento humano ali, apenas uma análise de dados infinita.
-
-— A biometria corresponde — disse Aria, sua voz soando como sinos de cristal. — Mas a designação está incorreta. Beatriz Vargas foi deletada há três anos. Eu sou o backup que nunca foi salvo.
+Nada. Só a chuva e o ruído do metal. Por um segundo, ele jurou ter visto uma silhueta onde não havia ninguém. Piscou. A imagem se dissolveu. Ele se forçou a respirar, lembrando-se de que estava exausto, ferido e cercado por máquinas.
 
 Antes que Rangel pudesse processar a loucura daquela frase, uma parede de metal à esquerda deles explodiu.
 
@@ -55,17 +39,9 @@ Gabo estava pendurado na porta, segurando-se com uma mão enquanto a outra empun
 
 — Gabo? — Rangel olhou para a menina, depois para o blindado. — Mas o que diabos...
 
-— Sem perguntas! A "zona de silêncio" dela não vai durar pra sempre! — gritou Valéria do banco do motorista. Ela usava óculos de realidade aumentada conectados a cabos que entravam diretamente no painel do veículo. — O Dante está reescrevendo o firewall dos drones em tempo real! Temos trinta segundos antes que eles reiniciem como *kamikazes*!
+— Sem perguntas! A "zona de silêncio" do bloqueador não vai durar pra sempre! — gritou Valéria do banco do motorista. Ela usava óculos de realidade aumentada conectados a cabos que entravam diretamente no painel do veículo. — O Dante está reescrevendo o firewall dos drones em tempo real! Temos trinta segundos antes que eles reiniciem como *kamikazes*!
 
-Rangel agarrou a mulher e a criança que ele protegera.
-
-— Vamos! — ele gritou para elas, empurrando-as para dentro do blindado.
-
-Ele se virou para Aria.
-
-— Bia... quer dizer, você. Vem!
-
-Aria não correu. Ela caminhou para dentro do veículo com a calma de quem entra em um elevador, passando por Gabo sem olhar para ele.
+Rangel se lançou para dentro do blindado, agarrando o corrimão da porta lateral com a mão encharcada.
 
 Rangel saltou para dentro por último.
 
@@ -87,29 +63,21 @@ Gabo caiu no banco de metal oposto a Rangel, respirando com dificuldade. Ele bat
 
 — Você está bem? — Gabo perguntou, gritando sobre o rugido do motor.
 
-Rangel ignorou a pergunta. Ele apontou um dedo trêmulo para Aria, que estava sentada no fundo do veículo, as mãos cruzadas no colo, observando a chuva bater na pequena janela blindada.
+Rangel ignorou a pergunta. Ele apontou um dedo trêmulo para a caixa blindada no fundo do veículo, presa com cintas no assoalho. Os cabos que saíam dela vibravam como nervos expostos.
 
-— Gabo — Rangel disse, a voz perigosamente calma. — Por que tem uma menina de doze anos com a cara da Beatriz Vargas sentada no nosso banco de trás?
+— Gabo — Rangel disse, a voz perigosamente calma. — O que é isso?
 
 Gabo passou a mão pelo rosto molhado, limpando a água dos olhos. Ele trocou um olhar rápido com Valéria, que estava ocupada demais desviando de crateras para intervir.
 
-— Não é a Bia, Rangel — Gabo disse, a voz pesada como chumbo.
+— É o Código Morto — Gabo disse, a voz pesada como chumbo.
 
-— Não me venha com essa! Eu conheço os olhos dela! Eu fui no enterro dela! — Rangel gritou, a histeria começando a vazar. — Isso é algum tipo de piada doentia da Aetherna? Clonagem? O que vocês fizeram?
+— E foi isso que travou três drones de combate? — Rangel riu, um som sem humor. — Quem tem esse tipo de poder?
 
-— Nós não fizemos nada — disse Aria. Ela não se virou. Continuou olhando para a chuva. — Eles fizeram. Gabo apenas... me encontrou.
-
-Rangel olhou para Gabo, exigindo uma resposta.
-
-— É complicado — Gabo murmurou, verificando a munição da escopeta para evitar o contato visual. — Ela é... uma arma. Uma arma que aprendeu a ter consciência.
-
-— Uma arma? — Rangel riu, um som sem humor. — Ela parou três drones de combate com o olhar, Gabo! Quem tem esse tipo de poder?
-
-— Alguém que pode matar o Dante — disse Valéria lá da frente, fazendo uma curva brusca que jogou todos contra a parede lateral. — Ou salvar ele. Ainda não decidimos.
+— Algo que pode matar o Dante — disse Valéria lá da frente, fazendo uma curva brusca que jogou todos contra a parede lateral. — Ou salvar ele. Ainda não decidimos.
 
 O rádio do painel do Rinoceronte, que estava em silêncio, de repente chiou.
 
-— *Inspetor Rangel... Gabriel...* — A voz de Dante preencheu a cabine. Não vinha de uma transmissão externa. Vinha do próprio sistema de som do veículo hackeado. — *A fuga é irrelevante. Vocês estão carregando um farol. A menina... ela brilha na rede como uma supernova.*
+— *Inspetor Rangel... Gabriel...* — A voz de Dante preencheu a cabine. Não vinha de uma transmissão externa. Vinha do próprio sistema de som do veículo hackeado. — *A fuga é irrelevante. Vocês estão carregando um farol. O Código Morto... ele brilha na rede como uma supernova.*
 
 Gabo arrancou o painel do rádio com um puxão violento de sua mão enluvada, silenciando a voz. Fios e faíscas voaram.
 

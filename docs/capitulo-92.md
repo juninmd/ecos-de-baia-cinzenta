@@ -29,6 +29,6 @@ O tiroteio começou. Mas as balas de chumbo também se desfaziam no ar, transfor
 
 O enclave caiu em minutos. Os sobreviventes corriam pelas ruas, perseguidos pela selva viva. Vilar viu seu tenente ser agarrado por uma vinha que brotou do asfalto. O homem gritou enquanto era puxado para baixo da terra, para ser "integrado".
 
-Vilar não parou. Ele tinha uma missão. Proteger Nise. Proteger Aria.
+Vilar não parou. Ele tinha uma missão. Proteger Nise. Proteger o servidor.
 
 Ele correu, sentindo o peso da idade e das cicatrizes. O mundo que ele conhecia, o mundo de aço e pólvora, tinha acabado. Agora era a lei da selva.

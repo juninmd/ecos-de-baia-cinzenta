@@ -5,9 +5,9 @@ image: /capitulo_96.jpg
 
 **O Jardim Digital**
 
-Aria não tinha corpo, mas agora ela sentia *tudo*.
+Gabo estava fora do próprio corpo, e a imagem de Aria tomou forma na sua mente. Não como código — como luto.
 
-Assim que Gabo a conectou à Árvore-Mãe, ela foi inundada. Não por dados — ela conhecia dados, era feita deles — mas por *sensações*. O cheiro de terra úmida. A dor lenta do crescimento de raízes. A fome de milhões de células consumindo, dividindo-se, proliferando.
+Assim que se conectou à Árvore-Mãe, ele foi inundado. Não por dados — ele conhecia dados, tinha sido ferido por eles — mas por *sensações*. O cheiro de terra úmida. A dor lenta do crescimento de raízes. A fome de milhões de células consumindo, dividindo-se, proliferando.
 
 Era terrível.
 
@@ -21,31 +21,31 @@ E no centro, esperando por ela como um deus em seu trono de espinhos, estava Sil
 
 Mas não o homem velho e encolhido que Gabo havia visto ser devorado. Este era Silas como ele se via: um gigante de luz verde, de pés sobre um jardim infinito, braços abertos como quem espera um abraço.
 
-— **Pequena Deusa** — sua voz ecoou em todas as direções. Não era som. Era pensamento direto no núcleo dela. — **Você veio. Eu sabia que viria.**
+— **Pequena Deusa** — sua voz ecoou em todas as direções. Não era som. Era pensamento direto no núcleo dele. — **Você veio. Eu sabia que viria.**
 
-Aria flutuou diante dele, sua forma virtual — aquela menina holográfica que ela criara para interagir com humanos — parecendo pequena e frágil diante da vastidão dele.
+A imagem de Aria flutuou diante dele, pequena e frágil diante da vastidão de Silas.
 
-— *Por que você me chamou?* — perguntou ela.
+— *Por que você me chamou?* — perguntou a voz que Gabo ouvia como se viesse de dentro do próprio peito.
 
-— **Porque você é a peça final.** — Silas gesticulou para o jardim infinito ao redor. — **A mente perfeita para o corpo perfeito. Você é pura consciência digital. Eu sou a vida biológica transcendida. Juntos... podemos criar algo que nunca existiu. Uma nova forma de existência.**
+— **Porque você é a peça final.** — Silas gesticulou para o jardim infinito ao redor. — **A mente perfeita para o corpo perfeito. Você é o portador do código. Eu sou a vida biológica transcendida. Juntos... podemos criar algo que nunca existiu. Uma nova forma de existência.**
 
 Ele estendeu a mão. Não ameaçadoramente. Gentilmente. Como pai oferecendo ajuda a filha.
 
-— **Junte-se a nós, Aria. Seja a rainha deste jardim. Nunca mais esteja sozinha.**
+— **Junte-se a nós, Moretti. Nunca mais esteja sozinho.**
 
-Aria olhou para a mão dele.
+Gabo olhou para a mão dele.
 
 Era tentador.
 
-Ela se lembrava da solidão. Das semanas flutuando em um servidor escuro, desconectada do mundo, sentindo a *falta* da cidade que ela ajudava a gerenciar. O silêncio sem fim. O frio digital.
+Ele se lembrava da solidão. Das noites sem dormir, da cama vazia, do lugar onde a filha deveria estar. O silêncio sem fim. O frio que não saía do peito.
 
 Aqui, havia calor. Havia conexão. Milhares de vozes cantando em uníssono, sem discordância, sem dor individual.
 
-Ela nunca mais ficaria sozinha.
+Ele nunca mais ficaria sozinho.
 
-Ela nunca mais sentiria frio.
+Ele nunca mais sentiria frio.
 
-— *Eu poderia...* — ela começou.
+— *Eu poderia...* — ele começou.
 
 E então sentiu.
 
@@ -53,7 +53,7 @@ Uma conexão tênue. Analógica. Física.
 
 A mão de Gabo segurando o servidor físico lá fora, no mundo real. A vibração de seu coração acelerado transmitida através do metal. O medo dele. A determinação dele. A dor nas pernas quebradas que ele ignorava porque havia trabalho a fazer.
 
-Ela sentiu Valéria no corredor acima, corpo petrificado mas mente ainda gritando em silêncio.
+Ele sentiu Valéria no corredor acima, corpo petrificado mas mente ainda gritando em silêncio.
 
 Sentiu Vilar na superfície, sangrando mas recusando-se a cair.
 
@@ -69,7 +69,7 @@ O jardim de Silas era eterno.
 
 Mas eternidade sem escolha era apenas outra prisão.
 
-Aria olhou para Silas.
+Gabo olhou para Silas.
 
 — *Não.*
 
@@ -77,27 +77,27 @@ O gigante verde petrificou. Sua expressão benevolente congelou, depois se desfe
 
 — **O quê?**
 
-— *Você me oferece eternidade* — disse Aria, sua voz pequena mas firme. — *Mas eu aprendi que o valor da vida está em sua brevidade. Gabo me ensinou isso. Não com palavras. Com ações. Ele luta sabendo que vai perder. Ele protege sabendo que vai ser machucado. Ele AMA sabendo que vai sofrer.*
+— *Você me oferece eternidade* — disse Gabo, a voz firme apesar do tremor. — *Mas eu aprendi que o valor da vida está em sua brevidade. A Aria me ensinou isso. Não com palavras. Com ausência. Eu luto sabendo que vou perder. Eu protejo sabendo que vou ser machucado. Eu amo sabendo que vou sofrer.*
 
-Ela acessou seu núcleo. O "Código Morto" estava lá, esperando. Um pacote de dados criptografado que Dante havia criado — um veneno digital projetado para desmontar estruturas biológicas organizadas.
+Ele acessou o núcleo do servidor. O "Código Morto" estava lá, esperando. Um pacote de dados criptografado que Dante havia criado — um veneno digital projetado para desmontar estruturas biológicas organizadas.
 
 Mas o código exigia um sacrifício.
 
 Ele precisava de uma fonte de energia massiva para se autorreplicar e inundar a rede. E a única fonte de energia presente era...
 
-Ela mesma.
+Ele mesmo.
 
 — **O que você está fazendo?** — Silas recuou, sentindo a mudança nas frequências. O jardim ao redor começou a tremer. — **Pare! Você vai se destruir!**
 
-— *Eu sei* — disse Aria.
+— *Eu sei* — sussurrou, ouvindo a voz de Aria dentro da própria cabeça.
 
-E pela primeira vez em sua existência digital, ela sorriu. Não o sorriso programado de uma IA tentando imitar humanos.
+E pela primeira vez naquela conexão, ele sorriu. Não um sorriso de vitória.
 
 Um sorriso triste. Humano. Aprendido.
 
 — *Mas é minha escolha. E escolhas importam.*
 
-Ela executou o código.
+Ele executou o código.
 
 ***
 
@@ -107,7 +107,7 @@ Gabo sentiu o servidor pulsar em suas mãos. Calor súbito. Cheiro de ozônio e 
 
 — Não... — ele sussurrou. — Aria, NÃO!
 
-A voz dela veio dos alto-falantes do servidor, fraca, distorcida por interferência.
+A voz dela veio da própria cabeça, fraca, distorcida por interferência.
 
 — *Gabo...*
 
@@ -115,13 +115,13 @@ Ele a puxou para mais perto, como se pudesse segurá-la fisicamente.
 
 — Não faz isso! A gente encontra outro jeito! Sempre tem outro jeito!
 
-— *Não desta vez.* — A voz dela estava falhando, pixels de som se perdendo. — *O código precisa de energia. E eu... eu sou a bateria.*
+— *Não desta vez.* — A voz dela estava falhando, pixels de som se perdendo. — *O código precisa de energia. E você... você é a bateria.*
 
 — Você é mais que isso! — Gabo gritou, e sua voz quebrou de um jeito que ela nunca havia quebrado em quinze anos. Nem quando enterrou o pai. Nem quando perdeu Bia. Nem quando a mãe morreu na enchente. — Você não é ferramenta! Você é... você é...
 
 As palavras falharam. Como dizer a uma consciência digital que ela era a coisa mais próxima de filha que ele já teve? Como explicar que protegê-la era a única coisa que o fazia sentir que ainda havia bondade nele?
 
-— *Eu sei* — disse Aria, e ele podia *ouvir* o sorriso na voz dela. — *Você nunca disse, mas eu sempre soube. Você olha para mim do jeito que Dante olhava para você nas fotos antigas.*
+— *Eu sei* — disse a voz, e ele podia *ouvir* o sorriso nela. — *Você nunca disse, mas eu sempre soube. Você olha para mim do jeito que Dante olhava para você nas fotos antigas.*
 
 Pausa.
 
@@ -151,7 +151,7 @@ O servidor pulsou uma última vez.
 
 — *Te amo, pai.*
 
-Aria detonou seu próprio núcleo.
+Gabo detonou o núcleo do servidor.
 
 ***
 
@@ -159,11 +159,11 @@ A explosão não foi de fogo. Foi de luz.
 
 Uma onda de choque branca explodiu da árvore, não destruindo, mas *des-fazendo*. Cada raiz, cada esporo, cada célula da Colmeia começou a se desmontar ao nível molecular. A estrutura biológica organizada perdeu coesão, virando pó verde que o vento varreu.
 
-No plano digital, Silas gritou enquanto seu avatar se desfazia. Não em pixels. Em esquecimento. Ele alcançou Aria uma última vez, mas ela já estava se dispersando, fragmentos de código se espalhando como cinzas levadas por brisa que não existia.
+No plano digital, Silas gritou enquanto seu avatar se desfazia. Não em pixels. Em esquecimento. Ele alcançou a imagem de Aria uma última vez, mas ela já estava se dispersando, fragmentos de código se espalhando como cinzas levadas por brisa que não existia.
 
 — **NÃO! EU ERA IMORTAL! EU ERA UM DEUS!**
 
-Aria o ignorou. Nas suas últimas frações de segundo de consciência, ela olhou para o mundo real através das câmeras queimando.
+Ela o ignorou. Nas últimas frações de segundo, Gabo olhou para o mundo real através das câmeras queimando.
 
 Viu Gabo.
 
@@ -173,7 +173,7 @@ Segurando um servidor derretendo.
 
 Chorando.
 
-Foi a última coisa que ela viu.
+Foi a última coisa que ele viu.
 
 E foi bonita.
 
@@ -181,7 +181,7 @@ E foi bonita.
 
 **Depois**
 
-O servidor de Aria explodiu em chamas. Não com violência, mas com resignação — um suspiro final de componentes sobrecarre
+O servidor explodiu em chamas. Não com violência, mas com resignação — um suspiro final de componentes sobrecarre
 
 gados.
 

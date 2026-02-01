@@ -53,7 +53,7 @@ Um drone desceu em mergulho, atirando. Gabo rolou, o tiro queimando o chão onde
 
 — Um minuto! — gritou Val.
 
-Gabo foi atingido no ombro. Ele caiu, gritando de dor. O exoesqueleto travou de vez. Ele estava imobilizado.
+Gabo foi atingido no ombro. Ele caiu, gritando de dor. As órteses travaram de vez. Ele estava imobilizado.
 
 Um guarda se aproximou, apontando o rifle para a cabeça de Gabo.
 

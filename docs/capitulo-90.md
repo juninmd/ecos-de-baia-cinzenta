@@ -51,9 +51,9 @@ O Arquivista jogou um livro para Gabo. Era um diário de campo, encadernado em c
 
 — Você já sabe — o Arquivista sorriu, triste. — Está na única coisa que Silas não pode controlar. Na Entidade que se recusa a ser carne.
 
-— Aria.
+— O Código Morto.
 
-— Exato. Aria é a portadora do vírus. Mas para liberá-lo... ela precisa se sacrificar. Ela precisa se conectar ao Jardim e executar o comando de suicídio. Ela matará a si mesma e a toda a nova vida da cidade.
+— Exato. O Código Morto é o portador do vírus. Mas para liberá-lo... alguém precisa se sacrificar. Precisa se conectar ao Jardim e executar o comando de autodestruição do servidor. Ele vai matar a si mesmo e a toda a nova vida da cidade.
 
 Gabo olhou para o diário em suas mãos.
 

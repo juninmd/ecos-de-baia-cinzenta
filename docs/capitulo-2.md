@@ -187,7 +187,7 @@ Para seu espanto, ela obedeceu. Desceu do orelhão com uma agilidade silenciosa 
 
 E então segurou a mão dele.
 
-Seus dedos eram gelo. Não frios. *Gelo*. Como se não houvesse sangue circulando, apenas vácuo. A textura era errada — pele demais perfeita, sem as imperfeições de calos ou unhas mordidas que crianças de rua deveriam ter.
+Seus dedos eram gelo. Não frios. *Gelo*. Ou talvez fosse só a chuva e a febre da insônia, porque a textura era errada — pele demais perfeita, sem as imperfeições de calos ou unhas mordidas que crianças de rua deveriam ter.
 
 Mas o toque... o toque era confiante. Como se ela soubesse, com absoluta certeza, que Gabo não a machucaria.
 
@@ -197,11 +197,9 @@ A voz dela era fina, cristalina. Mas cortou o barulho da tempestade como vidro a
 
 Gabo abriu a boca. Fechou. As perguntas se empilhavam — quem é "ele"? Por que você? Como você sabia? — mas não havia tempo. A chuva estava piorando, e cada segundo que ficassem expostos era um segundo para algum predador noturno perceber a cena.
 
-Ele a pegou no colo. Ela não protestou. Apenas continuou segurando a boneca mutilada, observando Gabo com aqueles olhos antigos.
+Ele pegou a boneca no colo. Por um segundo, sentiu o peso de uma criança que não estava ali. O vazio tinha a forma exata dela.
 
-Ela não pesava nada. Menos que deveria. Como se os ossos fossem ocos. Ou vazios.
-
-Gabo a colocou no banco de trás do Cobalt, ligando o aquecedor no máximo. A menina se sentou, abraçou a boneca e olhou pela janela. Não curiosa. Não assustada.
+Gabo colocou a boneca no banco de trás do Cobalt, ligando o aquecedor no máximo. Na sua visão, a menina se sentou, abraçou o pano remendado e olhou pela janela. Não curiosa. Não assustada.
 
 Apenas... esperando. Como se soubesse exatamente o que viria a seguir.
 
@@ -219,9 +217,9 @@ Gabo sentiu algo apertar no peito. Não promessa. Reconhecimento. Como se ela ti
 
 ***
 
-A delegacia cheirava a café requentado e desespero institucional. Gabo entregou a menina para a Oficial Marta — uma mulher de cinquenta anos que já tinha visto de tudo e ainda conseguia ser gentil.
+A delegacia cheirava a café requentado e desespero institucional. Gabo entregou a boneca para a Oficial Marta — uma mulher de cinquenta anos que já tinha visto de tudo e ainda conseguia ser gentil.
 
-— Achei ela na Zona Baixa. — Gabo olhou para Aria. Ela estava sentada na cadeira de plástico duro, balançando as pernas, observando-o com aquela calma impossível. — Vou fazer o relatório depois.
+— Achei ela na Zona Baixa. — Gabo olhou para a cadeira de plástico duro e, por um instante, jurou ver a menina balançando as pernas. — Vou fazer o relatório depois.
 
 — Depois quando, Moretti? — Marta cruzou os braços. — Você sempre diz "depois".
 
@@ -229,7 +227,7 @@ Gabo não respondeu. Já estava subindo as escadas para o laboratório, onde um 
 
 Ele olhou para trás uma vez.
 
-Aria ainda o observava. Aqueles olhos antigos. Aquela calma que não deveria existir em uma criança.
+Para ele, Aria ainda o observava. Aqueles olhos antigos. Aquela calma que não deveria existir em uma criança.
 
 E pela primeira vez, ela piscou.
 

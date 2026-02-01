@@ -33,7 +33,7 @@ Miranda nem sentiu. Ele abriu a camisa, revelando uma subpele de titânio.
 
 — Surpresa. O Consórcio investiu pesado em mim.
 
-Ele chutou a mesa que separava os dois, jogando-a longe. Gabo tentou se levantar, mas o exoesqueleto estava falhando de novo devido à radiação da arma de Miranda.
+Ele chutou a mesa que separava os dois, jogando-a longe. Gabo tentou se levantar, mas as órteses estavam falhando de novo devido à radiação da arma de Miranda.
 
 Miranda agarrou Gabo pelo pescoço e o levantou no ar.
 

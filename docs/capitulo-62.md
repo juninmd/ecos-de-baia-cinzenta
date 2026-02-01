@@ -13,7 +13,7 @@ Ele usava seu traje tático habitual, uma mistura de padre e executor. A máscar
 
 Gabo disparou três vezes. Os tiros atingiram o peito do gigante, mas ele nem recuou. Kevlar reforçado com placas de cerâmica.
 
-O Santo avançou, rápido demais para um homem daquele tamanho. Ele agarrou Gabo pelo pescoço e o arremessou contra a parede do beco. O impacto fez o ar sair dos pulmões de Gabo e o exoesqueleto chiar em protesto.
+O Santo avançou, rápido demais para um homem daquele tamanho. Ele agarrou Gabo pelo pescoço e o arremessou contra a parede do beco. O impacto fez o ar sair dos pulmões de Gabo e as órteses chiar em protesto.
 
 Val tentou atacá-lo com uma barra de ferro, mas O Santo apenas a empurrou com o dorso da mão, jogando-a para dentro da van, desacordada.
 

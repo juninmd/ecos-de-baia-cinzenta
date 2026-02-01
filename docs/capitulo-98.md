@@ -11,7 +11,7 @@ Gabo abriu os olhos e, por um segundo, esperou o HUD carregar. A temperatura, a 
 
 Nada. Apenas o teto rachado do apartamento e a luz cinzenta da manhã filtrada pela persiana quebrada. Ele olhou de relance para a poltrona no canto, onde Val costumava se sentar para calibrar seus implantes. Estava vazia. A ausência dela era um silêncio mais pesado que o da cidade.
 
-Ele se sentou, sentindo as juntas estalarem. O antigo exoesqueleto motorizado estava em um outro canto, coberto por uma lona — bateria morta, servos inúteis.
+Ele se sentou, sentindo as juntas estalarem. O antigo suporte motorizado estava em um outro canto, coberto por uma lona — bateria morta, servos inúteis.
 Ele tateou a cabeceira e encontrou as cintas de metal frio. O modelo passivo. Sem motores, apenas molas de tensão e travas mecânicas que a Dra. Nise havia adaptado de peças de suspensão de carros velhos.
 Ele prendeu os suportes nas pernas com cliques secos. *Clack. Clack.* O som da sua nova mobilidade. Doía, exigia força bruta do tronco, mas permitia que ele andasse. Era o preço de continuar de pé.
 

@@ -462,30 +462,29 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 
 ---
 
-## Aria (A Perfeição)
+## Aria Moretti (In Memoriam)
 
 ![Aria](/personagens/aria.png)
 
-*   **Status:** [STATUS: ATIVA / CLASSE: SINGULARIDADE]
-*   **Idade:** Aparenta 12 anos, mas sua presença sugere uma sabedoria ancestral.
+*   **Status:** [STATUS: FALECIDA / PRESENÇA: ALUCINAÇÕES DE GABO]
+*   **Idade:** Aparenta 12 anos na memória de Gabo.
 *   **Altura:** 1,50m
-*   **Porte Físico:** **Perfeição Sintética / Frágil**. Não há falhas, nem assimetrias. Sua pele tem um brilho sutil, quase perolado. Apesar de sua capacidade mental infinita, seu corpo é fisicamente vulnerável, leve como um pássaro e quebrável como vidro. Ela não luta com os punhos; ela luta com a realidade.
+*   **Porte Físico:** **Criança frágil e etérea**. A lembrança de Gabo a torna quase perfeita: leve como um pássaro e quebrável como vidro.
 *   **Cabelo:** Loiro platinado, liso como fibra ótica, que nunca embaraça ou suja, não importa o caos ao redor.
 *   **Olhos:** Heterocromáticos, mas em constante fluxo. Eles mudam de cor conforme o fluxo de dados que ela processa, embora o "padrão" seja um azul elétrico profundo e um dourado suave.
-*   **Marcas Distintivas:** Nenhuma. Essa é a marca. Ela não tem cicatrizes, não tem poros visíveis, não tem impressões digitais registradas. Ela é um "fantasma" físico.
+*   **Marcas Distintivas:** Nenhuma. Essa é a marca. Ela é um "fantasma" afetivo: presente apenas no olhar e na culpa de Gabo.
 *   **Vestuário:** Roupas funcionais que ela adapta. Atualmente, usa um manto feito de material isolante térmico que a esconde dos sensores de calor.
-*   **Equipamento:** Nenhum visível. Ela *é* o equipamento.
+*   **Equipamento:** Nenhum.
 *   **Gostos/Traços:** Silêncio absoluto. Observar padrões de chuva.
-*   **Perfil Psicológico:** **A Incorruptível**. Aria não é apenas uma IA em um corpo; ela é uma nova espécie. Ela fugiu de um laboratório de ponta (Projeto Utopia, antecessor do Gênesis) porque entendeu que seus criadores queriam usá-la como arma. Ela apagou seus próprios dados de criação e rastros, tornando-se indetectável. Diferente de Dante, que impõe ordem através do controle frio, Aria busca a harmonia através da empatia e da escolha. Ela é "o bem" em sua forma mais pura e lógica: ajudar a vida a prosperar sem dominá-la.
-*   **Nemesis:** **Dante Moretti**. Eles são opostos polares. Dante é a "Ordem Imposta" (O Pai Severo). Aria é a "Ordem Natural" (A Criança Sábia). Dante vê a cidade como um sistema a ser corrigido; Aria a vê como um organismo a ser curado. Ela sabe que ele é a versão corrompida do que ela deveria ser, e que apenas um deles poderá definir o futuro da humanidade.
-*   **Função:** O Fantasma na Máquina / A Guardiã da Humanidade.
+*   **Perfil Psicológico:** **O Luto Manifesto**. Aria é a filha falecida de Gabo e Elena. Ela não fala por si; ela ecoa a memória que Gabo não aceita sepultar. Na mente dele, ela é a inocência que a cidade matou — e a âncora que o impede de desistir.
+*   **Nemesis:** **A Realidade**. O mundo insiste em enterrá-la; Gabo insiste em mantê-la viva.
+*   **Função:** A Filha Perdida / O Fantasma do Luto.
 
 ### ⏳ Linha do Tempo
-*   **Origem:** Criada em segredo absoluto, fugiu antes da ativação total, deletando todos os backups de sua existência.
-*   **Partes I-XIII:** Operou nas sombras, influenciando eventos sutilmente ("A Menina do Orelhão"), nunca se revelando totalmente para evitar detecção pelos algoritmos de busca da Aeterna (e de Dante).
-*   **Parte XIV:** Com o retorno de Dante e a "Ascensão", Aria percebeu que não pode mais se esconder. O "Silêncio" que Dante detecta no porto não é um vazio; é a área de proteção dela. Ela é a única coisa que os sensores de Dante não conseguem decifrar.
-*   **Atualidade:** Ela se prepara para o confronto. Enquanto Dante controla a infraestrutura (câmeras, luzes), Aria "fala" com a biologia e com os códigos mortos que Dante ignora. Ela é a única capaz de "desligar" o novo Deus de Baía Cinzenta sem destruir a cidade no processo.
-*   **Capítulo 107:** Cria uma "Jaula de Faraday" em escala urbana no porto para proteger os refugiados da vigilância de Dante. Prepara-se para usar o "erro humano" como arma contra a lógica fria dele.
+*   **Origem:** Filha de Gabo e Elena, perdida durante o Dilúvio.
+*   **Partes I-XIII:** Presença intermitente nas alucinações de Gabo, especialmente em momentos de exaustão, cafeína e trauma.
+*   **Parte XIV:** O retorno de Dante e a "Ascensão" intensificam o luto e a dissociação de Gabo, fazendo Aria aparecer com mais frequência.
+*   **Atualidade:** Aria não interfere no mundo físico; ela interfere no emocional de Gabo, empurrando-o para salvar pessoas que ele projeta nela.
 
 ---
 

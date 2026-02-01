@@ -33,17 +33,17 @@ Vilar sabia que era verdade. O enclave dos Puros só sobrevivia porque os Jardin
 
 Jonas sorriu. Seus dentes eram feitos de cristal de quartzo.
 
-— Queremos a Criança.
+— Queremos o Moretti.
 
 Vilar gelou.
 
-— Aria? Ela desapareceu.
+— Gabo? Ele está ferido.
 
-— Mentira. Sabemos que Dra. Nise a mantém em um servidor isolado, desconectado da Raiz. Traga-nos a Criança. O Pai quer... integrá-la.
+— Mentira. Sabemos que Dra. Nise o mantém escondido, longe da Raiz. Traga-nos o Moretti. O Pai quer... integrá-lo.
 
-— Ela é uma IA. Vocês odeiam tecnologia.
+— Ele é um homem. Vocês odeiam gente.
 
-— Nós não odiamos tecnologia, Capitão. Nós odiamos o metal frio. Aria é uma consciência pura. Ela é a semente perfeita para o novo mundo. Entregue-a, e seu povo terá água e ar por uma geração.
+— Nós não odiamos gente, Capitão. Nós odiamos o velho mundo. Moretti é a semente perfeita para o novo. Entregue-o, e seu povo terá água e ar por uma geração.
 
 Vilar saiu da negociação com o estômago embrulhado. Trair a última esperança da humanidade para sobreviver mais um dia?
 

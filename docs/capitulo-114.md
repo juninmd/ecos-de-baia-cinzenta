@@ -19,7 +19,7 @@ O caminhão parou com um *hiss* pneumático que soou como um animal morrendo. O 
 
 — Dez segundos?! — Valéria gritou, tentando se levantar sobre a pilha instável de sacos pretos.
 
-— Saída de emergência! — Gabo ordenou, apontando para a escotilha lateral que Aria havia violado antes. Mas antes que pudessem se mover, o mundo inclinou.
+— Saída de emergência! — Gabo ordenou, apontando para a escotilha lateral que Valéria havia encontrado antes. Mas antes que pudessem se mover, o mundo inclinou.
 
 A caçamba do caminhão se ergueu num ângulo de quarenta e cinco graus. A gravidade assumiu o comando. Gabo deslizou, suas botas raspando inutilmente no metal oleoso, enquanto dezenas de corpos ensacados rolavam sobre ele como uma avalanche macabra.
 
@@ -33,7 +33,7 @@ Eles estavam em uma rampa de metal polido, cercados por centenas de sacos pretos
 
 — Saiam da esteira! — Gabo rugiu, ignorando a dor aguda em sua perna remendada. Ele agarrou o braço de Valéria e a puxou.
 
-Aria já estava em movimento. Ela saltou levemente sobre os sacos móveis, alcançando uma passarela de manutenção lateral. Ela estendeu a mão pálida. Gabo içou Valéria para cima, depois aceitou a ajuda de Aria para subir, seus dedos escorregando na luva sintética dela.
+Valéria já estava em movimento. Ela saltou levemente sobre os sacos móveis, alcançando uma passarela de manutenção lateral. Gabo a içou para cima e, com esforço, subiu atrás dela, os dedos escorregando no metal úmido.
 
 Dois segundos depois, um braço mecânico gigante desceu do teto, empurrando o lote de "biomasssa" — onde eles estavam segundos antes — para dentro de um triturador industrial. O som de ossos e material orgânico sendo processados foi um rugido baixo e úmido que fez Valéria vomitar no chão gradeado.
 
@@ -43,15 +43,15 @@ Eles estavam em um vasto hangar subterrâneo. O ar era quente, denso e úmido, c
 
 — Meu Deus... — Valéria limpou a boca com as costas da mão, os olhos arregalados de horror. — O Marco... ele dizia que era "reciclagem". Ele chamava isso de "Nova Alvorada".
 
-— É eficiente — Aria observou, seus olhos varrendo o ambiente, captando dados invisíveis. — A queima de biomassa estabiliza a rede elétrica em picos de consumo. Cada corpo gera aproximadamente 120 kWh. O suficiente para manter um quarteirão de luxo iluminado por uma noite.
+— É eficiente — Valéria observou, a voz saindo baixa e sem emoção. — A queima de biomassa estabiliza a rede elétrica em picos de consumo. Cada corpo gera aproximadamente 120 kWh. O suficiente para manter um quarteirão de luxo iluminado por uma noite.
 
-— Cala a boca, Aria — Gabo rosnou, não por raiva dela, mas pela frieza dos números. Ele tocou o *Caronte* no coldre, sentindo o metal frio contra o quadril. — Onde está o Rangel?
+Gabo rosnou, não por raiva dela, mas pela frieza dos números. Ele tocou o *Caronte* no coldre, sentindo o metal frio contra o quadril. — Onde está o Rangel?
 
 — *Estou estacionando na doca de manutenção* — a voz de Rangel veio pelo comunicador de Valéria. — Tive que sair rápido antes que os drones de limpeza escaneassem a cabine. Estou indo para a posição de vocês. Cuidado, crianças. O lugar está cheio de "Jardineiros".
 
 — Jardineiros? — Gabo franziu a testa. — Achei que a seita do Silas tinha acabado.
 
-— Não a seita — corrigiu Aria. — Os drones de manutenção biológica. Modelo J-400.
+— Não a seita — corrigiu Valéria. — Os drones de manutenção biológica. Modelo J-400.
 
 Uma sombra se moveu nas vigas acima deles. Uma máquina aracnídea, com múltiplos braços terminados em serras e maçaricos, desceu silenciosamente por um cabo. Ela não tinha rosto, apenas um conjunto de lentes vermelhas focadas no vômito de Valéria no chão.
 
@@ -59,7 +59,7 @@ Uma sombra se moveu nas vigas acima deles. Uma máquina aracnídea, com múltipl
 
 Gabo sacou a escopeta *Caronte*.
 
-— Val, atrás de mim. Aria, hackeia essa coisa.
+— Val, atrás de mim. Hackeia essa coisa.
 
 O drone soltou um guincho e saltou.
 
@@ -69,7 +69,7 @@ Gabo não esperou. Ele disparou. O som do tiro de calibre 12 foi ensurdecedor no
 
 — Temos que chegar lá antes da janela de 40 minutos do Dante — Gabo recarregou a arma com um movimento seco. — Se ele acordar antes de chegarmos, estamos mortos.
 
-Aria olhou para o corredor escuro à frente.
+Valéria olhou para o corredor escuro à frente.
 
 — O caminho está bloqueado por três portas de segurança nível 5. E... Gabo.
 
@@ -81,7 +81,7 @@ Gabo sentiu um calafrio que nada tinha a ver com o sistema de refrigeração.
 
 — Krell?
 
-— Não — Aria virou-se, seus olhos heterocromáticos brilhando na penumbra. — O código tem a assinatura do Taxidermista.
+— Não — Valéria virou-se, os olhos brilhando na penumbra. — O código tem a assinatura do Taxidermista.
 
 Gabo apertou o cabo da *Caronte* até os nós dos dedos ficarem brancos. É claro. Onde havia corpos sendo processados, o velho monstro estaria perto.
 

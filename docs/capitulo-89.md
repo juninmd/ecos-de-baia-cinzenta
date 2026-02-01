@@ -23,7 +23,7 @@ A reação foi instantânea. Gavinhas saíram da parede e entraram no corte, mis
 
 A visão de Gabo mudou. Ele não estava mais na ruína. Ele estava... em todos os lugares.
 
-Ele viu através dos "olhos" das flores na praça central. Viu Vilar discutindo com seus tenentes no bunker. Viu Nise chorando ao lado do servidor de Aria.
+Ele viu através dos "olhos" das flores na praça central. Viu Vilar discutindo com seus tenentes no bunker. Viu Nise chorando ao lado do servidor do Código Morto.
 
 Mas então, ele mergulhou mais fundo. Nas memórias armazenadas no DNA da cidade.
 

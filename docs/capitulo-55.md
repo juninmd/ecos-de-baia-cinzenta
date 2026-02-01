@@ -5,7 +5,7 @@ image: /capitulo_55.jpg
 
 **Dia 46 do Dilúvio - Refúgio Subterrâneo**
 
-A dor na coluna de Gabo era um lembrete constante de sua mortalidade. Sem o exoesqueleto, ele se movia com dificuldade, apoiado em uma bengala improvisada feita de cano de PVC.
+A dor na coluna de Gabo era um lembrete constante de sua mortalidade. Sem as órteses, ele se movia com dificuldade, apoiado em uma bengala improvisada feita de cano de PVC.
 
 Ele estava sozinho no bar improvisado do esconderijo, tentando afogar a dor em uísque barato, quando ela entrou.
 

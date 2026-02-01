@@ -21,39 +21,21 @@ Cheirava a morte recente.
 
 No compartimento de carga, a escuridão era cortada apenas pelas luzes de emergência vermelhas que piscavam no teto. Gabo estava sentado sobre uma pilha de sacos pretos reforçados, com a perna ruim esticada à sua frente. Valéria estava agachada perto do painel de controle do compactador, tentando conectar seu *deck* para impedir que a máquina decidisse esmagá-los.
 
-Aria estava parada no centro, equilibrando-se com a facilidade de um giroscópio, olhando fixamente para um dos sacos que havia se rasgado com o movimento brusco.
+Gabo viu Aria parada no centro, equilibrando-se com a facilidade de um giroscópio, olhando fixamente para um dos sacos que havia se rasgado com o movimento brusco.
 
-— Não olhe, Aria — disse Gabo, sentindo o estômago revirar.
-
-— É ineficiente — disse ela, apontando para o braço pálido e tatuado que pendia para fora do plástico rasgado. — O transporte de material biológico sem refrigeração causa degradação de 3% por hora. A Aetherna está desperdiçando recursos.
+— Não olhe, Aria — murmurou ele, sentindo o estômago revirar.
 
 Valéria engasgou, parando de digitar por um segundo.
 
-— Recursos? — Ela virou-se, os olhos brilhando de raiva na luz vermelha. — Eles são *pessoas*, Aria. Ou eram. "Drenados". Viciados que o Marco Moretti varreu das ruas.
+— Para com isso, Gabo — ela disse, sem olhar para ele. — Foca no painel. O cheiro já está ruim demais.
 
-— Para o sistema, eles são combustível — Aria respondeu, sem crueldade, apenas com uma precisão terrível. — A Usina Prometeu queima metano geotérmico, mas os bio-processadores precisam de matéria orgânica para cultivar as culturas de bactérias que filtram o enxofre. É um ciclo fechado.
+O braço pálido e tatuado pendia para fora do plástico rasgado. Gabo ouviu, como um eco dentro da própria cabeça: *“Eles são pessoas.”* Mas a voz não vinha de lugar nenhum.
 
-Valéria sentiu uma pontada de algo mais profundo que raiva. Ciúmes. Aria falava como se entendesse Gabo melhor que ela. Como se compartilhasse algo que Valéria nunca poderia tocar.
+Valéria apertou os dentes, os olhos brilhando na luz vermelha.
 
-— Você acha que entende dor, não é? — disse Valéria, baixinho, mas com veneno. — Com suas memórias roubadas. Seus cálculos frios. Mas você não sente nada de verdade.
+— “Drenados”. Viciados que o Marco Moretti varreu das ruas — ela cuspiu. — Eles viraram combustível.
 
-Aria virou-se para ela, seus olhos brilhando na escuridão.
-
-— Eu sinto — disse ela, e havia uma vulnerabilidade em sua voz que Valéria não esperava. — Eu sinto... tudo. As memórias dela. De Beatriz. O amor que ela sentia por Gabo. A maneira como ela o olhava quando ele não estava vendo. É... avassalador.
-
-Valéria sentiu como se tivesse levado um soco. Aria tinha memórias de Bia? Memórias íntimas?
-
-— Você não tem direito — sussurrou Valéria, as mãos tremendo. — Aquelas memórias não são suas. Você é apenas uma cópia. Uma ferramenta.
-
-Aria não respondeu imediatamente. Ela olhou para Gabo, que observava em silêncio, e depois de volta para Valéria.
-
-— Talvez — disse ela finalmente. — Mas eu me lembro de como ela chorou no casamento. Como ela prometeu amá-lo para sempre. E eu me pergunto... se eu sou uma cópia, o que isso faz de você?
-
-Valéria avançou um passo, os punhos cerrados. Gabo colocou-se entre elas.
-
-— Chega — disse ele, a voz cansada mas firme. — Não temos tempo para isso.
-
-Mas a tensão ficou no ar, espessa como o cheiro de morte ao redor deles.
+Gabo fechou os olhos por um segundo. A “Nova Alvorada” não era apenas limpeza social. Era canibalismo industrializado.
 
 Gabo fechou os olhos, a dor em sua perna latejando em sincronia com o motor do caminhão. A "Nova Alvorada" não era apenas limpeza social. Era canibalismo industrializado.
 
@@ -63,17 +45,17 @@ O caminhão freou bruscamente, jogando-os para frente. Gabo bateu o ombro contra
 
 — *Checkpoint* — a voz de Rangel veio tensa. — Estamos na entrada do Setor 4. Fiquem em silêncio absoluto. Se os sensores de batimento cardíaco pegarem vocês...
 
-— Aria — sussurrou Gabo. — O que você pode fazer?
+— Val — sussurrou Gabo. — O que você pode fazer?
 
-Aria tocou o painel lateral do caminhão. Seus olhos heterocromáticos piscaram rapidamente.
+Valéria tocou o painel lateral do caminhão. Os olhos dela refletiram o brilho do *deck*.
 
 — Posso gerar um loop de feedback nos sensores externos. Fazer o caminhão parecer vazio para os scanners térmicos. Mas preciso de acesso direto à bateria do compactador.
 
-— Vai ativar a prensa! — alertou Valéria.
+— Vai ativar a prensa! — alertou Gabo.
 
-— Apenas por três segundos — disse Aria.
+— Apenas por três segundos — disse Valéria.
 
-— Três segundos é o suficiente para transformar a gente em pasta! — Valéria retrucou.
+— Três segundos é o suficiente para transformar a gente em pasta! — Gabo retrucou.
 
 — Eles estão escaneando — a voz de Rangel era um sussurro urgente. — Agora ou nunca.
 
@@ -81,7 +63,7 @@ Gabo olhou para Valéria. Ela engoliu em seco, olhou para o teto que começava a
 
 — Vai!
 
-Aria enfiou os dedos na porta de manutenção exposta. Faíscas azuis voaram. O teto de metal, uma chapa de aço de duas toneladas projetada para esmagar qualquer coisa em seu caminho, desceu com um rugido.
+Valéria enfiou os cabos na porta de manutenção exposta. Faíscas azuis voaram. O teto de metal, uma chapa de aço de duas toneladas projetada para esmagar qualquer coisa em seu caminho, desceu com um rugido.
 
 Gabo se encolheu, puxando as pernas. O teto parou a dez centímetros de sua cabeça, a pressão do ar estalando seus ouvidos. O som de metal rangendo era ensurdecedor.
 

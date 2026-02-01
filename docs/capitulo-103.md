@@ -81,7 +81,7 @@ Ele colidiu com Roberto como uma bala de canhão humana.
 
 O impacto jogou ambos contra o parapeito. O metal cedeu.
 
-Gabo, Elena e Roberto caíram na plataforma inferior, uma confusão de membros e metal. A garra de Roberto soltou Elena. Gabo montou sobre o ciborgue, usando o próprio peso do exoesqueleto para prender o peito da criatura.
+Gabo, Elena e Roberto caíram na plataforma inferior, uma confusão de membros e metal. A garra de Roberto soltou Elena. Gabo montou sobre o ciborgue, usando o próprio peso das órteses para prender o peito da criatura.
 
 — *Você é patético!* — cuspiu Roberto.
 

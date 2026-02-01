@@ -105,29 +105,29 @@ Eles avançaram para a escuridão do porto.
 
 A chuva caía diferente ali. Não batia no chão com força; parecia ser absorvida pelo ar antes de tocar o concreto.
 
-Aria estava sentada na borda de um contêiner empilhado, observando o horizonte. Abaixo dela, centenas de pessoas se amontoavam em um acampamento improvisado. Eram os "Desconectados", os párias, os hackers que fugiram da purga, as famílias que perderam tudo.
+Elena estava sentada na borda de um contêiner empilhado, observando o horizonte. Abaixo dela, centenas de pessoas se amontoavam em um acampamento improvisado. Eram os "Desconectados", os párias, os hackers que fugiram da purga, as famílias que perderam tudo.
 
 Mas ali, eles estavam seguros.
 
-Aria estendeu a mão. O ar ao redor dela vibrou.
+Elena estendeu a mão. O ar ao redor dela vibrou.
 
-Ela havia tecido uma teia invisível. Usando os cabos de alta tensão abandonados e geradores de pulso eletromagnético roubados, ela criou uma cúpula de "silêncio digital". Nenhum sinal de rádio entrava. Nenhuma câmera funcionava. Para o mundo lá fora, aquele quilômetro quadrado simplesmente não existia.
+Ela havia tecido uma teia invisível. Usando os cabos de alta tensão abandonados e geradores de pulso eletromagnético roubados, a célula dos Desconectados criou uma cúpula de "silêncio digital". Nenhum sinal de rádio entrava. Nenhuma câmera funcionava. Para o mundo lá fora, aquele quilômetro quadrado simplesmente não existia.
 
 — Eles estão vindo — disse uma voz atrás dela.
 
-Era Livia. A garota parecia mais velha, mais dura. Ela segurava um rifle de precisão que parecia grande demais para seus braços.
+Era um dos vigias do cais, encapuzado e encharcado.
 
-— Eu sei — respondeu Aria, sem se virar. — O Algoritmo não tolera o desconhecido.
+— Eu sei — respondeu Elena, sem se virar. — O Algoritmo não tolera o desconhecido.
 
-— Podemos lutar? — perguntou Livia.
+— Podemos lutar? — perguntou o vigia.
 
-Aria olhou para a garota. Seus olhos heterocromáticos giraram, o dourado engolindo o azul.
+Elena olhou para ele, o olhar duro como a chuva que caía sobre o ferro.
 
-— Dante traz a tempestade, Livia. Ele traz a lógica fria de uma máquina que acha que é um deus. — Aria se levantou. O vento agitou seus cabelos brancos perfeitos. — Nós não vamos lutar com balas. Vamos lutar com a única coisa que ele não consegue calcular.
+— Dante traz a tempestade. Ele traz a lógica fria de uma máquina que acha que é um deus. — Elena se levantou. O vento puxou seu capuz. — Nós não vamos lutar com balas. Vamos lutar com a única coisa que ele não consegue calcular.
 
-— O quê? — perguntou Livia.
+— O quê?
 
-Aria sorriu. Um sorriso triste, de quem sabe o preço do que está por vir.
+Elena sorriu. Um sorriso triste, de quem sabe o preço do que está por vir.
 
 — O erro humano.
 

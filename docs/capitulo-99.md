@@ -33,7 +33,7 @@ Os tiros ecoaram nas ruínas. As balas de chumbo, antigas e confiáveis, ricoche
 
 A máquina nem diminuiu o passo. Com um braço que terminava em uma garra de sucata, ela golpeou a coluna onde Rangel estava. O concreto explodiu. O inspetor foi jogado para trás, tossindo poeira.
 
-Gabo não podia correr. Seu exoesqueleto estava em casa, e suas pernas reais gritavam de dor apenas por estar de pé. Ele olhou ao redor, sua mente de detetive processando o cenário em milissegundos. *Sem rede. Sem hacks. Apenas física.*
+Gabo não podia correr. Suas órteses motorizadas estavam em casa, e suas pernas reais gritavam de dor apenas por estar de pé. Ele olhou ao redor, sua mente de detetive processando o cenário em milissegundos. *Sem rede. Sem hacks. Apenas física.*
 
 A criatura se virou para ele, ignorando os tiros de Vilar. Ela queria o cubo.
 

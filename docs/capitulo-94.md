@@ -7,13 +7,13 @@ image: /capitulo_94.jpg
 
 O comboio era patético e heroico.
 
-Na frente, Vilar e os remanescentes dos Puros abriam caminho com lança-chamas (a única arma eficaz contra o Jardim). No centro, Gabo e Val empurravam uma maca hospitalar reforçada. Sobre ela, não havia um paciente, mas o servidor negro de Aria, conectado a baterias portáteis.
+Na frente, Vilar e os remanescentes dos Puros abriam caminho com lança-chamas (a única arma eficaz contra o Jardim). No centro, Gabo e Val empurravam uma maca hospitalar reforçada. Sobre ela, não havia um paciente, mas o servidor negro do Código Morto, conectado a baterias portáteis.
 
 Dra. Nise ficara para trás para cuidar dos feridos e manter as defesas do hospital.
 
-— *Estou vendo... muitas cores...* — a voz de Aria saía de um alto-falante acoplado ao servidor. — *O mundo é tão... verde.*
+Na cabeça de Gabo, a voz de Aria sussurrou: *Estou vendo... muitas cores. O mundo é tão... verde.*
 
-— Concentre-se, garota — disse Gabo, disparando contra um "Cão" de raízes que saltou de um beco. — Guarde sua energia.
+— Foca, Gabo — disse Val, disparando contra um "Cão" de raízes que saltou de um beco. — Guarde sua energia.
 
 O caminho até o Memorial do Dilúvio era um pesadelo. Prédios haviam se curvado como árvores ao vento, formando arcos sobre as ruas. O chão era macio, esponjoso, respirando sob as botas deles.
 
@@ -37,9 +37,9 @@ Mais criaturas surgiram das paredes. Humanoides de casca de árvore, com espinho
 
 Gabo e Val empurraram a maca ladeira acima, em direção à cúpula pulsante do Sol Negro que pairava sobre o Memorial.
 
-— *Eles estão com dor, Gabo* — sussurrou Aria. — *As pessoas dentro das árvores... elas gritam em silêncio.*
+A voz de Aria voltou, baixa, quase um pensamento: *Eles estão com dor, Gabo. As pessoas dentro das árvores... elas gritam em silêncio.*
 
-— Vamos acabar com isso, Aria. Prometo.
+— Vamos acabar com isso — prometeu ele, sem saber para quem.
 
 Eles chegaram à entrada do antigo bunker. As portas de aço tinham sido arrancadas. O túnel descia para a escuridão, pulsando com luz violeta.
 

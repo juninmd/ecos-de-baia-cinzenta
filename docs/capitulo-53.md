@@ -5,7 +5,7 @@ image: /capitulo_53.jpg
 
 A chuva batia na vitrine da "Cafeteria do Fim do Mundo" com uma insistência rítmica. Era um estabelecimento irônico no Distrito da Ferrugem: um lugar que servia café de verdade (contrabandeado, claro) em canecas de cerâmica lascada, enquanto o resto da cidade bebia ração sintética em tubos de plástico.
 
-Gabo segurava a caneca com as duas mãos, sentindo o calor penetrar em seus dedos frios. O exoesqueleto em suas pernas zumbia suavemente, em modo de repouso, sob a mesa de fórmica gasta.
+Gabo segurava a caneca com as duas mãos, sentindo o calor penetrar em seus dedos frios. As órteses nas pernas zumbiam suavemente, em modo de repouso, sob a mesa de fórmica gasta.
 
 Valéria estava sentada à frente dele, mexendo em seu deck com uma mão e comendo um pedaço de torta de origem duvidosa com a outra. O cabelo dela, agora roxo néon, iluminava o rosto pálido.
 
@@ -59,7 +59,7 @@ Gabo sentiu um nó na garganta.
 
 Gabo olhou para a chuva lá fora. Dante não tinha apenas morrido. Ele tinha lutado, em silêncio, por quinze anos, dentro de uma caixa de vidro, esperando o filho ficar pronto.
 
-— Precisamos honrar isso — disse Gabo, levantando-se. O exoesqueleto travou com um clique metálico. — Chega de reagir. Vamos atacar.
+— Precisamos honrar isso — disse Gabo, levantando-se. As órteses travaram com um clique metálico. — Chega de reagir. Vamos atacar.
 
 ***
 
@@ -95,7 +95,7 @@ O silêncio na sala foi pesado.
 
 — E você? — perguntou Val.
 
-Gabo olhou para o exoesqueleto. Ele começou a se mover, testando os limites. Chutou o ar, girou. O metal gemia, mas aguentava. Ele não era mais o policial quebrado. Ele era uma máquina de vingança.
+Gabo olhou para as órteses. Ele começou a se mover, testando os limites. Chutou o ar, girou. O metal gemia, mas aguentava. Ele não era mais o policial quebrado. Ele era uma máquina de vingança.
 
 — Eu vou ter uma conversa de família com o Prefeito.
 

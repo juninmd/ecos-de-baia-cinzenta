@@ -21,9 +21,9 @@ Gabo sentou-se em um caixote de madeira reforçada, esticando a perna machucada.
 
 — Bem-vinda aos anos 2000, garota — disse Rangel. O ex-inspetor caminhava pelas estantes de metal enferrujado que forravam as paredes laterais. Elas estavam entulhadas não com drives de cristal, mas com caixas de papelão. — Kiko não confiava na nuvem. E pelo visto, ele tinha razão.
 
-Aria estava parada diante de uma parede de monitores CRT desligados, exceto pelo central, que exibia o prompt de comando piscante em verde fósforo. A luz refletia em seus olhos heterocromáticos, mas pela primeira vez, eles não mudavam de cor. Sem o fluxo constante de dados da rede da cidade, Aria parecia... menor. Mais humana. Quase uma criança perdida em um museu.
+Gabo ficou diante de uma parede de monitores CRT desligados, exceto pelo central, que exibia o prompt de comando piscante em verde fósforo. A luz verde refletiu no suor do rosto dele. A voz de Aria sussurrou na mente dele, suave, quase infantil.
 
-— Ele sabia que isso ia acontecer — disse Aria, sua voz suave competindo com o zumbido das ventoinhas antigas. — Kiko viu os padrões. Ele viu o código do Dante antes mesmo do Dante nascer.
+— Ele sabia que isso ia acontecer — disse Gabo, repetindo o pensamento como se fosse dele. — Kiko viu os padrões. Ele viu o código do Dante antes mesmo do Dante nascer.
 
 — Kiko era um *streamer* — Valéria bufou, finalmente arriscando teclar algo. O som das teclas mecânicas (Click-Clack) ecoou alto na sala. — Ele vendia energético e fazia *unboxing* de implantes.
 
@@ -50,12 +50,12 @@ Gabo levantou-se, mancando até a mesa. Ele olhou para o nome do pai no papel am
 
 — Como assim? — Valéria se aproximou. — O Dante atual é a fusão perfeita de mente e máquina. É o que o torna um "deus".
 
-— Talvez não seja tão perfeita assim — disse Aria. Ela se virou para eles. — Dante impõe ordem. Mas a biologia é caótica. O corpo que ele usa agora... é um clone forçado, acelerado pelo Gênesis. Mas a consciência dele é um código viral agressivo.
+— Talvez não seja tão perfeita assim — disse Gabo, ainda olhando para o papel. — Dante impõe ordem. Mas a biologia é caótica. O corpo que ele usa agora... é um clone forçado, acelerado pelo Gênesis. Mas a consciência dele é um código viral agressivo.
 
-Aria tocou o monitor antigo.
+Gabo tocou o monitor antigo.
 — A carne não aguenta o software. É muito processamento para um cérebro orgânico, mesmo um modificado. Kiko deixou uma nota aqui no servidor.
 
-Ela digitou um comando simples: `RUN_LOG_01.EXE`.
+Valéria digitou um comando simples: `RUN_LOG_01.EXE`.
 
 A tela piscou e texto rolou rapidamente:
 
@@ -71,7 +71,7 @@ A tela piscou e texto rolou rapidamente:
 
 — Não é sono — corrigiu Valéria, lendo os dados técnicos que surgiam. — É um *reboot* forçado. Ele precisa se desconectar da rede da cidade para resfriar o núcleo biológico. Durante esse tempo... ele fica vulnerável.
 
-— Cego — completou Aria. — Ele fica cego e surdo. A cidade continua rodando nos protocolos automáticos, mas a "Voz"... a consciência dele... apaga.
+— Cego — completou Gabo. — Ele fica cego e surdo. A cidade continua rodando nos protocolos automáticos, mas a "Voz"... a consciência dele... apaga.
 
 — De quanto tempo estamos falando? — perguntou Rangel, o instinto policial afiando sua voz.
 
@@ -81,9 +81,9 @@ Gabo olhou para o teto cheio de cabos, como se pudesse ver a cidade acima deles 
 
 — Quarenta minutos é tudo que a gente precisa — ele disse, embainhando a *Caronte*. — Mas onde ele dorme? Onde se esconde um deus?
 
-— Ele não se esconde — disse Aria. — Ele vai para a fonte. O único lugar com energia suficiente para manter o suporte de vida durante o resfriamento.
+— Ele não se esconde — disse Gabo. — Ele vai para a fonte. O único lugar com energia suficiente para manter o suporte de vida durante o resfriamento.
 
-Aria apontou para um mapa desbotado na parede, uma planta da cidade de antes da enchente. O dedo dela pousou sobre uma estrutura maciça no distrito industrial, agora submersa pela metade.
+Gabo apontou para um mapa desbotado na parede, uma planta da cidade de antes da enchente. O dedo dele pousou sobre uma estrutura maciça no distrito industrial, agora submersa pela metade.
 
 — A Usina Geotérmica "Prometeu" — leu Rangel. — Isso foi desativado depois do Dilúvio. É instável.
 

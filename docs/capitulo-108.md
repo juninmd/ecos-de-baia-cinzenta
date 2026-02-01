@@ -5,7 +5,7 @@ image: /capitulo_108.jpg
 
 **Zona Portuária - Setor 4**
 
-A chuva caía em lençóis tão densos que o mundo parecia feito de estática líquida. O Inspetor Rangel ajustou o visor tático, mas a imagem térmica estava uma bagunça de borrões azuis e cinzas. O "Domínio de Silêncio" de Aria não apenas bloqueava sinais; ele distorcia a própria leitura da realidade.
+A chuva caía em lençóis tão densos que o mundo parecia feito de estática líquida. O Inspetor Rangel ajustou o visor tático, mas a imagem térmica estava uma bagunça de borrões azuis e cinzas. O "Domínio de Silêncio" do bloqueador não apenas bloqueava sinais; ele distorcia a própria leitura da realidade.
 
 — Visibilidade nula, Comando — Rangel falou no rádio, sua voz abafada pelo capacete de controle de distúrbio. Ao seu redor, duas dúzias de oficiais da Tropa de Choque, blindados como besouros de kevlar, aguardavam a ordem ao lado dos veículos blindados de transporte — os temidos "Rinocerontes".
 
@@ -111,6 +111,4 @@ O drone acima de Rangel estremeceu. Seu motor falhou por um segundo, e ele perde
 
 — *Interferência externa...* — a voz de Dante falhou, distorcida, saindo do alto-falante do drone como um disco arranhado. — *...código... raiz... impossível...*
 
-No alto de um guindaste enferrujado que dominava a paisagem, visível através do buraco no teto, uma figura solitária estava de pé contra a tempestade. Seus cabelos brancos brilhavam como um farol na escuridão.
-
-Aria havia entrado no jogo.
+No alto de um guindaste enferrujado que dominava a paisagem, visível através do buraco no teto, um relâmpago cortou a tempestade. O pulso não veio do céu; veio de algum lugar na rede. O Código Morto havia entrado no jogo.

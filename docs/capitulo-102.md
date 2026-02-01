@@ -37,7 +37,7 @@ O olho humano de Roberto tremeu. Por um segundo, Gabo viu o homem que conhecera,
 
 — *Eu sou eu mesmo, Gabo. Alguém precisava vigiar a colheita. E, francamente, a oferta de benefícios era irrecusável. Imortalidade. Força. E a chance de terminar o que comecei com você e sua... namoradinha.*
 
-Um tentáculo de metal e vinha chicoteou do teto, rápido como uma cobra. Gabo se jogou para o lado, o exoesqueleto de suas pernas estalando violentamente. A ponta de aço perfurou o chão de metal onde ele estava um segundo antes.
+Um tentáculo de metal e vinha chicoteou do teto, rápido como uma cobra. Gabo se jogou para o lado, as órteses de suas pernas estalando violentamente. A ponta de aço perfurou o chão de metal onde ele estava um segundo antes.
 
 — *Sem truques digitais hoje, Gabo* — zombou Roberto. — *Aqui embaixo, somos apenas nós e a biologia.*
 
@@ -85,7 +85,7 @@ As portas laterais da sala se abriram. Dois dos "Protótipos" entraram, movendo-
 
 — Elara! Ela não está morta, Gabo. Ela está na fila de processamento! Eles vão apagar a mente dela para usar o corpo!
 
-Um dos protótipos saltou sobre Gabo. Ele usou o braço reforçado do exoesqueleto para bloquear as garras, sentindo o metal chiar sob a pressão. O cheiro da criatura era de amêndoas amargas e terra molhada.
+Um dos protótipos saltou sobre Gabo. Ele usou o antebraço protegido por uma braçadeira metálica para bloquear as garras, sentindo o metal chiar sob a pressão. O cheiro da criatura era de amêndoas amargas e terra molhada.
 
 Gabo urrou, ativando os pistões hidráulicos de sua perna direita e chutando o joelho da criatura. O osso estalou com um som seco. A coisa caiu, e Gabo aproveitou para descarregar a coronha do lançador no crânio sem rosto.
 

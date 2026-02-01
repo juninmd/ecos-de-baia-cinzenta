@@ -11,7 +11,7 @@ Gabo sentiu seus pulmões queimarem. Ele estava submerso, preso aos escombros de
 
 *Respire*, a voz de seu pai ecoou em sua mente, clara como se estivesse ao seu lado. *Não é a sua hora.*
 
-Gabo usou o braço bom para se impulsionar. Suas pernas, pesadas pelo exoesqueleto molhado e pela dor lancinante dos ossos recém-colados, eram um fardo. A rigidez era uma sentença de morte debaixo d'água. Mas então, algo agarrou seu colete tático.
+Gabo usou o braço bom para se impulsionar. Suas pernas, pesadas pelas órteses molhadas e pela dor lancinante dos ossos recém-colados, eram um fardo. A rigidez era uma sentença de morte debaixo d'água. Mas então, algo agarrou seu colete tático.
 
 Valéria.
 
@@ -87,7 +87,7 @@ No céu, um drone da Aeterna Corp desceu, mas em vez de atacar, ele projetou um 
 
 Gabo tentou se levantar, mas suas pernas falharam.
 
-— Eu não consigo andar. O exoesqueleto pifou.
+— Eu não consigo andar. As órteses pifaram.
 
 Aria desceu do transformador e tocou as pernas metálicas do traje de Gabo. A energia azul fluiu de suas mãos para o metal morto.
 

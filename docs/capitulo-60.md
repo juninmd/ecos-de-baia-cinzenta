@@ -13,7 +13,7 @@ A menina correu, pequena e ágil, os pés descalços não fazendo barulho no con
 
 Uma bala raspou o ombro de Gabo, rasgando o couro do sobretudo e queimando a pele por baixo. Ele grunhiu entre os dentes cerrados — mais irritação do que dor. Dor era ruído de fundo neste ponto. Seu corpo inteiro era uma sinfonia de desconfortos que ele aprendera a ignorar.
 
-O exoesqueleto nas pernas chiava a cada movimento, protestando contra a umidade que infiltrava suas juntas improvisadas. O display no visor interno — uma tela holográfica rachada que ele soldara ao capacete de motoqueiro — piscava em vermelho.
+As órteses nas pernas chiavam a cada movimento, protestando contra a umidade que infiltrava suas juntas improvisadas. O display no visor interno — uma tela holográfica rachada que ele soldara ao capacete de motoqueiro — piscava em vermelho.
 
 *ALERTA: BATERIA CRÍTICA - 8%*
 *INTEGRIDADE ESTRUTURAL: 15%*
@@ -50,7 +50,7 @@ Um jato de vapor superaquecido jorrou com a força de um trem de carga, preenche
 
 Os mercenários gritaram. Mesmo através das máscaras táticas, o calor era brutal. Viseiras embaçaram, sensores fritaram, pele exposta começou a formar bolhas. Eles recuaram em desordem, alguns arrancando os capacetes para respirar, quebrando a formação que os tornava letais.
 
-Gabo não esperou para ver o resultado. Ele correu — ou tentou. O servo direito do exoesqueleto escolheu aquele momento exato para finalmente falhar.
+Gabo não esperou para ver o resultado. Ele correu — ou tentou. O servo direito das órteses escolheu aquele momento exato para finalmente falhar.
 
 *FALHA CRÍTICA - SERVO DIREITO OFFLINE*
 
@@ -70,7 +70,7 @@ Medo. O medo de quem sabe exatamente o que está em jogo.
 
 Aria a segurou. Seus dedos eram gelo — como sempre — mas o aperto era firme. Confiante. Ela confiava nele. Deus sabe por quê.
 
-Eles correram — ou a versão que Gabo conseguia de correr com uma perna que falhava a cada terceiro passo — por corredores labirínticos que cheiravam a mofo e esquecimento. Subiram escadas de manutenção enferrujadas que gemiam sob seus pesos combinados. A cada degrau, Gabo sentia as juntas do exoesqueleto protestarem, os alertas no visor se multiplicando como pragas.
+Eles correram — ou a versão que Gabo conseguia de correr com uma perna que falhava a cada terceiro passo — por corredores labirínticos que cheiravam a mofo e esquecimento. Subiram escadas de manutenção enferrujadas que gemiam sob seus pesos combinados. A cada degrau, Gabo sentia as juntas das órteses protestarem, os alertas no visor se multiplicando como pragas.
 
 *BATERIA: 5%*
 *SERVO ESQUERDO: DEGRADAÇÃO CRÍTICA*
@@ -117,7 +117,7 @@ Valéria.
 
 Gabo pegou Aria no colo, ignorando a dor lancinante nas costas que fez sua visão piscar em branco por um segundo. A menina era leve — leve demais, como se seus ossos fossem ocos — mas cada grama parecia uma tonelada para seu corpo destruído.
 
-O exoesqueleto gemia a cada degrau da escada de metal. Alarmes silenciosos explodiam em seu visor.
+As órteses gemiam a cada degrau da escada de metal. Alarmes silenciosos explodiam em seu visor.
 
 *BATERIA: 2%*
 *SERVO DIREITO: OFFLINE*
@@ -134,11 +134,11 @@ A perna direita travou novamente, desta vez com um estalo audível de metal queb
 
 — Nunca! — Gabo rosnou entre dentes cerrados.
 
-Ele sabia que Val não estava falando do exoesqueleto. Ela estava falando dele mesmo. Do velho que insistia em carregar o mundo nas costas mesmo quando o mundo não queria ser carregado.
+Ele sabia que Val não estava falando das órteses. Ela estava falando dele mesmo. Do velho que insistia em carregar o mundo nas costas mesmo quando o mundo não queria ser carregado.
 
 Vinte segundos.
 
-Gabo forçou o exoesqueleto com pura força de vontade. Ele ouviu engrenagens quebrando, sentiu metal se deformando contra suas pernas, mas a estrutura obedeceu por mais alguns passos. Pura teimosia transformada em movimento.
+Gabo forçou as órteses com pura força de vontade. Ele ouviu engrenagens quebrando, sentiu metal se deformando contra suas pernas, mas a estrutura obedeceu por mais alguns passos. Pura teimosia transformada em movimento.
 
 Dez segundos.
 
@@ -149,7 +149,7 @@ Cinco.
 Gabo alcançou o telhado no exato momento em que seus servos finalmente morreram.
 
 *FALHA SISTÊMICA TOTAL*
-*EXOESQUELETO: OFFLINE*
+*ÓRTESES: OFFLINE*
 *MODOS DE EMERGÊNCIA: ESGOTADOS*
 *RECOMENDAÇÃO: REMOÇÃO IMEDIATA DO EQUIPAMENTO*
 
@@ -181,7 +181,7 @@ Aria não respondeu. Apenas olhou para ele com aqueles olhos antigos, heterocrom
 
 Gabo olhou para a destruição lá embaixo. Para a "Nova Baía" sendo construída sobre os ossos da velha. Para os corpos que ninguém ia enterrar. Para os gritos que ninguém ia ouvir.
 
-Ele se levantou. Foi difícil — o exoesqueleto morto pesava como uma armadura medieval, e suas pernas naturais mal lembravam como funcionavam sem ajuda. Mas ele se levantou.
+Ele se levantou. Foi difícil — as órteses mortas pesavam como uma armadura medieval, e suas pernas naturais mal lembravam como funcionavam sem ajuda. Mas ele se levantou.
 
 — Não — disse ele, a voz rouca mas firme. — Nós não vamos sair. Nós vamos descer.
 

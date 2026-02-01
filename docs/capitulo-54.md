@@ -17,7 +17,7 @@ Gabo estacionou diante da Catedral de Ferro. Era uma estrutura gótica monstruos
 
 — Informação. E munição espiritual, talvez. — Gabo abriu a porta, pisando na água até o tornozelo.
 
-O exoesqueleto em suas pernas emitiu um zumbido agudo e preocupante. A luz de carga no cinto de Gabo piscava em amarelo intermitente. "Bateria Baixa". Ele ignorou. Só precisava que durasse mais algumas horas.
+As órteses em suas pernas emitiram um zumbido agudo e preocupante. A luz de carga no cinto de Gabo piscava em amarelo intermitente. "Bateria Baixa". Ele ignorou. Só precisava que durasse mais algumas horas.
 
 Dentro da catedral, o cheiro de incenso brigava com o odor de roupa molhada e sopa comunitária. O Padre Miguel, um homem corpulento com braços tatuados sob a batina, distribuía pão para uma fila interminável de refugiados.
 
@@ -45,7 +45,7 @@ O robô mais próximo ergueu um cassetete elétrico e golpeou. O som de ossos qu
 
 Gabo viu vermelho.
 
-A impaciência que vinha fervendo nele há semanas explodiu. Ele não pensou. Ele ativou os servos do exoesqueleto no máximo.
+A impaciência que vinha fervendo nele há semanas explodiu. Ele não pensou. Ele ativou os servos das órteses no máximo.
 
 — Gabo, não! — gritou Val.
 
@@ -61,7 +61,7 @@ Ele socou a "cara" do robô, destruindo os sensores óticos. Ele queria destruir
 
 Mas o terceiro robô o flanqueou. Um bastão de choque atingiu suas costas.
 
-Gabo rugiu de dor, caindo de joelhos. O exoesqueleto travou.
+Gabo rugiu de dor, caindo de joelhos. As órteses travaram.
 
 *BZZZZT.*
 
@@ -85,7 +85,7 @@ O Padre Miguel se aproximou. Ele olhou para o robô destruído, depois para Gabo
 
 — Violência gera ferrugem, Gabriel — disse o padre, triste. — Você salvou um hoje, mas condenou todos nós a sermos alvos amanhã.
 
-— Eles iam matar o velho — cuspiu Gabo, tentando soltar as travas do exoesqueleto inútil.
+— Eles iam matar o velho — cuspiu Gabo, tentando soltar as travas das órteses inúteis.
 
 — E agora eles sabem onde estamos. — O padre suspirou. — Você não pode socar o mundo até ele consertar, Gabriel. Seu pai sabia disso.
 
@@ -95,7 +95,7 @@ Gabo conseguiu se livrar das pernas mecânicas. Ele tentou ficar de pé, cambale
 
 Gabo mancou até o carro, apoiado em Val.
 
-— Vamos embora — disse ele. — O exoesqueleto acabou. De agora em diante, é na raça.
+— Vamos embora — disse ele. — As órteses acabaram. De agora em diante, é na raça.
 
 Enquanto o Cobalt se afastava, Gabo olhou pelo retrovisor. Viu o padre ajudando o mendigo ferido. Viu a esperança nos olhos daquelas pessoas. E sentiu-se pequeno. E sujo.
 

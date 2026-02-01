@@ -11,7 +11,7 @@ A criatura que saltara sobre eles foi atingida no meio do salto. O projétil cal
 
 — Não pare! — gritou Elena, disparando sua espingarda contra outra sombra que se desprendia do teto.
 
-Gabo tentou recuar, mas suas pernas não responderam com a agilidade necessária. O exoesqueleto passivo chiava sob a tensão. *Clique-clique-clique*. O som mecânico parecia atraí-los.
+Gabo tentou recuar, mas suas pernas não responderam com a agilidade necessária. As órteses passivas chiavam sob a tensão. *Clique-clique-clique*. O som mecânico parecia atraí-los.
 
 Mais três daquelas coisas — os "Protótipos", como Elena os chamara — surgiram por trás dos tanques de cultivo. Eram pesadelos anatômicos: torsos humanos fundidos a membros alongados e articulados de forma errada, reforçados por pistões hidráulicos enferrujados que pareciam ter crescido de dentro dos ossos.
 
@@ -21,7 +21,7 @@ Mais três daquelas coisas — os "Protótipos", como Elena os chamara — surgi
 
 O cubo preto no bolso de Gabo vibrava com tanta intensidade que seus dentes doíam. A cada pulsação do coração gigante pendurado no teto, o cubo respondia. *BUM-BUM* no teto. *VIBR-VIBR* no bolso.
 
-Uma das criaturas avançou, rápida como uma aranha. Gabo firmou a base, sentindo as travas do exoesqueleto morderem suas coxas, e disparou duas vezes. A criatura cambaleou, mas não caiu. Ela não sentia dor. Não havia choque sistêmico. Era apenas carne cumprindo uma programação biológica.
+Uma das criaturas avançou, rápida como uma aranha. Gabo firmou a base, sentindo as travas das órteses morderem suas coxas, e disparou duas vezes. A criatura cambaleou, mas não caiu. Ela não sentia dor. Não havia choque sistêmico. Era apenas carne cumprindo uma programação biológica.
 
 — A porta! — Elena apontou para uma escotilha de manutenção lateral, meio coberta por vinhas pulsantes. — Temos que sair do átrio principal!
 

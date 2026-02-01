@@ -11,13 +11,13 @@ Gabo estava sentado no capô do Cobalt, estacionado sob a marquise de um posto d
 
 Em sua mão, um pedaço de papel amassado. A letra era cursiva, elegante, inconfundível.
 
-*"Não me procure. O que eu carrego é grande demais para ser escondido em um porão. Preciso levar isso para fora da cúpula, para onde a Aeterna não pode apagar os arquivos. Cuide de Aria. Ela é a chave, Gabo. E, por favor, tente não morrer. — L."*
+"Não me procure. O que eu carrego é grande demais para ser escondido em um porão. Preciso levar isso para fora da cúpula, para onde a Aeterna não pode apagar os arquivos. Cuide de você. A Aria se foi, mas a culpa não precisa te levar junto. E, por favor, tente não morrer. — L."
 
 Elena tinha ido. Partira no último comboio de refugiados clandestinos, misturada entre os desesperados que vendiam tudo o que tinham por um lugar em um caminhão de carga rumo às Terras Altas. Era melhor assim. Ela era um alvo agora, e tê-la por perto era garantir uma bala na cabeça de ambos.
 
 Mas ela tinha deixado algo para trás. Ou melhor, alguém.
 
-Gabo olhou para o banco de trás do carro. A Menina do Orelhão, Aria, dormia enrolada em um cobertor militar. Ela parecia menor do que ele lembrava. Mais frágil. A boneca de pano remendada estava apertada contra o peito dela como um escudo.
+Gabo olhou para o banco de trás do carro. A boneca de pano remendada estava ali, apertada contra o assento como um escudo. E, na mesma fração de segundo, a Menina do Orelhão apareceu em sua mente — menor do que ele lembrava, mais frágil, dormindo como se a cidade não existisse.
 
 — Estamos sozinhos, garota — murmurou Gabo, amassando o bilhete e guardando-o no bolso do sobretudo.
 
@@ -33,7 +33,7 @@ Ele viu uma placa holográfica recém-instalada sobre os escombros de uma antiga
 
 — Eles não estão perdendo tempo — disse Gabo para si mesmo.
 
-Ele entrou no carro, o movimento fazendo sua coluna protestar violentamente. O exoesqueleto nas pernas zumbiu, os servos lutando contra a ferrugem e a falta de manutenção. Ele precisava de óleo. Precisava de peças. Mas, acima de tudo, precisava tirar Aria dali.
+Ele entrou no carro, o movimento fazendo sua coluna protestar violentamente. As órteses improvisadas nas pernas rangeram, lutando contra a ferrugem e a falta de manutenção. Ele precisava de óleo. Precisava de peças. Mas, acima de tudo, precisava sair dali antes que a lembrança de Aria o esmagasse.
 
 Os "corretores" estavam chegando. E em Baía Cinzenta, uma ordem de despejo vinha acompanhada de um esquadrão de extermínio.
 

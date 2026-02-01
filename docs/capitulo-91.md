@@ -41,7 +41,7 @@ Val apontou para um gráfico no diário.
 
 Gabo olhou pela janela. A vegetação lá fora brilhava com uma bioluminescência pulsante. A cidade respirava.
 
-— Precisamos do vírus — disse ele. — Precisamos que Aria execute o Código Morto.
+— Precisamos do vírus — disse ele. — Precisamos executar o Código Morto.
 
 — Isso vai matá-la, Gabo — disse Nise. — Vai apagar a consciência dela. Ela vai voltar a ser apenas... código vazio.
 

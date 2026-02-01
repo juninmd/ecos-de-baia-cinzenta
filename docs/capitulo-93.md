@@ -33,18 +33,18 @@ Val apareceu na porta do terraço.
 
 Gabo olhou para o horizonte. O Sol Negro pulsava no céu, cada vez maior.
 
-— Aria está pronta? — perguntou ele.
+— O servidor está pronto? — perguntou ele.
 
-— O código está carregado — disse Val. — Mas ela... ela está com medo, Gabo. Ela sabe o que vai acontecer.
+— O código está carregado — disse Val. — Mas ele... ele vai nos queimar junto, Gabo. Você sabe o que vai acontecer.
 
 Gabo assentiu. Ele puxou seu revólver. Era uma peça antiga, herança de família, feita de aço inoxidável de alta qualidade que resistira à Praga, embora mostrasse sinais de corrosão.
 
-— Eu vou conversar com ela. Nise, prepare a enfermaria. Vilar vai trazer feridos. Val, preciso que você ache uma rota para o Memorial.
+— Eu vou checar o servidor. Nise, prepare a enfermaria. Vilar vai trazer feridos. Val, preciso que você ache uma rota para o Memorial.
 
 — Para o Memorial? Você está louco? É o coração da besta!
 
-— Exatamente. O vírus precisa ser injetado na fonte. Aria não pode fazer isso daqui via wi-fi. O sinal é muito fraco com toda essa interferência biológica.
+— Exatamente. O vírus precisa ser injetado na fonte. O servidor não pode fazer isso daqui via wi-fi. O sinal é muito fraco com toda essa interferência biológica.
 
-— Você quer levar o servidor dela até lá? — Val arregalou os olhos. — Pesam 50 quilos! No meio de uma zona de guerra biológica!
+— Você quer levar o servidor até lá? — Val arregalou os olhos. — Pesam 50 quilos! No meio de uma zona de guerra biológica!
 
 — Então é melhor a gente começar a fazer musculação — disse Gabo, verificando o tambor do revólver. — Porque vamos entregar uma bomba no colo de Deus.

@@ -101,18 +101,18 @@ Poucos meses depois, Roberto Miranda apareceria na porta deles. E tudo mudaria p
 
 ---
 
-**Aria acordou no plano digital, memórias conflitantes inundando seu processador neural.**
+**Aria não acordou em plano digital algum. Ela acordava na mente de Gabo.**
 
-*Essas não são minhas memórias*, pensou ela. *São dela. De Beatriz.*
+*Essas não são minhas memórias*, ela dizia, mas eram as dele. De Elena. Da filha que ele perdeu e se recusava a enterrar.
 
-Mas elas se sentiam reais. O amor de Gabo. A chuva no jardim. A promessa feita na cama estreita.
+Mas elas se sentiam reais. O cheiro do cabelo de Elena depois da chuva. O peso leve de um corpo pequeno adormecido no colo. A promessa sussurrada num quarto escuro: *“Eu não vou deixar você.”*
 
-*Eu sou Aria. Eu sou diferente. Eu sou...*
+*Eu sou Aria. Eu sou a lembrança que você não solta.*
 
-Ela olhou para Valéria, que dormia exausta no banco do caminhão. A mulher que amava Gabo agora. A mulher que via Aria como uma ameaça.
+Ela olhou para Valéria, que dormia exausta no banco do caminhão. A mulher que amava Gabo agora. A mulher que não via a menina que ele jurava estar ali.
 
-*Mas e se eu não for diferente? E se eu for apenas uma cópia melhorada?*
+*Mas e se eu não for diferente? E se eu for apenas a filha que você perdeu?*
 
-As memórias de Bia doíam como código corrompido. Amor, perda, arrependimento. Elas tornavam Aria... humana.
+As memórias de Elena doíam como código corrompido. Amor, perda, arrependimento. Elas tornavam Aria... insuportavelmente real.
 
 E isso a apavorava mais que qualquer vírus digital.

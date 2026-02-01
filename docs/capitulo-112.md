@@ -17,31 +17,27 @@ A tampa do bueiro pesava como uma lápide de ferro. Gabo empurrou com o ombro bo
 
 Eles emergiram em um beco estreito entre dois armazéns abandonados no Distrito Industrial. A chuva caía em lençóis pesados, lavando a poeira do esgoto de suas roupas, mas não a tensão.
 
-Valéria foi a primeira a sair, sua *techwear* já camuflando-se com o cinza do concreto. Ela não olhou para o perímetro; ela olhou direto para Aria, que subia a escada de mão com movimentos fluidos, quase mecânicos demais.
+Valéria foi a primeira a sair, sua *techwear* já camuflando-se com o cinza do concreto. Ela não olhou para o perímetro; ela olhou direto para Gabo, que subia a escada de mão como se alguém fosse ao lado dele.
 
-Assim que os pés de Aria tocaram o asfalto molhado, Valéria a prensou contra a parede de tijolos.
+Assim que os pés de Gabo tocaram o asfalto molhado, Valéria o prensou contra a parede de tijolos.
 
 — Val! — Gabo tentou intervir, mas a perna travou.
 
-— Não — Valéria rosnou, o braço pressionando o pescoço de Aria. A lâmina de cerâmica saiu de seu pulso, pairando a milímetros da jugular da garota. — Chega de segredos. Chega de "eu sou apenas código".
+— Não — Valéria rosnou, o braço pressionando o pescoço dele. A lâmina de cerâmica saiu de seu pulso, pairando a milímetros da jugular. — Chega de segredos. Chega de fingir que ela está aqui.
 
-Aria não resistiu. Ela olhou para Valéria com aqueles olhos heterocromáticos que agora refletiam o neon vermelho de um outdoor distante.
+Gabo piscou, atordoado, os olhos buscando algo que só ele via.
 
-— Por que você tem o rosto dela? — A voz de Valéria tremeu, uma falha rara em sua armadura cínica. — Bia Vargas morreu na Inundação de 2030. Eu vi o relatório. Eu vi as fotos. Por que você está usando a cara de uma garota morta?
+— Por que você continua falando o nome dela? — A voz de Valéria tremeu, uma falha rara em sua armadura cínica. — Aria morreu no Dilúvio. Era sua filha com a Elena. Eu vi o relatório. Eu vi as fotos.
 
 Rangel, que terminava de fechar o bueiro, congelou. A chuva escorria por seus óculos, mas ele não precisava limpá-los para ver a verdade que Valéria exigia.
 
-— Eu não escolhi este chassi — disse Aria, sua voz calma, desprovida de medo ou culpa. — Fui construída com base em parâmetros genéticos armazenados no banco de dados da *Nova Alvorada*. O arquivo dizia "Doadora Primária: B. Vargas".
+Gabo mancou até ela, colocando a mão suavemente no ombro de Valéria.
 
-— Doadora? — Valéria soltou uma risada seca, histérica. — Ela não doou nada. Ela tinha doze anos, porra. Ela foi *levada* pelos coletores do Marco Moretti.
+— Val, solta... — ele sussurrou. — Ela não foi embora para mim.
 
-Gabo mancou até elas, colocando a mão suavemente no ombro de Valéria.
+— Isso está te matando — disse Rangel, aproximando-se. — E vai matar todos nós se você não voltar.
 
-— Val, solta ela. Ela não é a Bia. Ela é... outra coisa.
-
-— Ela é uma arma — disse Rangel, aproximando-se. — Mas a Bia também não era apenas uma vítima.
-
-Valéria soltou Aria, recuando como se tivesse se queimado.
+Valéria soltou Gabo, recuando como se tivesse se queimado.
 
 — O que você sabe, Rangel? — ela cuspiu. — Você era da Corregedoria. Você encobria a sujeira deles.
 
