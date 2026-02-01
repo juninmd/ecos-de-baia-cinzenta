@@ -12,5 +12,25 @@ __pycache__/
 # Don't ignore markdown or source images
 !docs/public/*.jpg
 !docs/public/*.png
-!docs/public/personagens/*.png__pycache__/
+!docs/public/personagens/*.png
+!docs/public/icons/*.png
+__pycache__/
 tests/__pycache__/
+
+# Android Build Files
+android/
+.gradle/
+*.apk
+*.aab
+
+# Capacitor
+.capacitor/
+capacitor.config.ts
+
+# Icon generation temp files
+docs/public/icons/temp/
+
+# Keystore (NEVER commit!)
+*.keystore
+*.jks
+keystore.properties

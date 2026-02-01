@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Offline - Ecos de Baía Cinzenta</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background: linear-gradient(135deg, #0a0a0f 0%, #1a1a2e 100%);
+      color: #e0e0e0;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      text-align: center;
+    }
+    .container {
+      max-width: 600px;
+      padding: 2rem;
+    }
+    h1 {
+      font-size: 2.5rem;
+      margin-bottom: 1rem;
+      color: #00d4ff;
+      text-shadow: 0 0 10px rgba(0, 212, 255, 0.5);
+    }
+    p {
+      font-size: 1.2rem;
+      line-height: 1.6;
+      margin-bottom: 2rem;
+    }
+    .rain {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      pointer-events: none;
+      z-index: -1;
+    }
+    .rain::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: repeating-linear-gradient(
+        transparent,
+        transparent 2px,
+        rgba(255, 255, 255, 0.03) 3px,
+        transparent 4px
+      );
+      animation: rain 0.3s linear infinite;
+    }
+    @keyframes rain {
+      0% { transform: translateY(0); }
+      100% { transform: translateY(10px); }
+    }
+    button {
+      background: #00d4ff;
+      color: #0a0a0f;
+      border: none;
+      padding: 1rem 2rem;
+      font-size: 1.1rem;
+      font-weight: bold;
+      cursor: pointer;
+      border-radius: 4px;
+      transition: all 0.3s ease;
+    }
+    button:hover {
+      background: #00b8e6;
+      box-shadow: 0 0 20px rgba(0, 212, 255, 0.5);
+    }
+  </style>
+</head>
+<body>
+  <div class="rain"></div>
+  <div class="container">
+    <h1>🌧️ Sem Conexão</h1>
+    <p>A chuva em Baía Cinzenta cortou sua conexão com o mundo digital.</p>
+    <p>Você precisa estar online para acessar novos capítulos.</p>
+    <button onclick="window.location.reload()">Tentar Reconectar</button>
+  </div>
+</body>
+</html>

@@ -7,7 +7,19 @@ module.exports = {
     ['link', { href: 'https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300&family=Orbitron:wght@400;500;600;700&family=Playfair+Display:wght@700&family=Rajdhani:wght@400;500;600;700&display=swap', rel: 'stylesheet' }],
     ['meta', { name: 'theme-color', content: '#0a0a0f' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
-    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black-translucent' }]
+    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black-translucent' }],
+    ['link', { rel: 'manifest', href: '/manifest.json' }],
+    ['link', { rel: 'icon', type: 'image/png', sizes: '192x192', href: '/icons/icon-192x192.png' }],
+    ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/icons/icon-192x192.png' }],
+    ['script', { id: 'register-sw' }, `
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+          navigator.serviceWorker.register('/sw.js')
+            .then(reg => console.log('✓ Service Worker registered'))
+            .catch(err => console.log('✗ SW registration failed:', err));
+        });
+      }
+    `]
   ],
   themeConfig: {
     nav: [

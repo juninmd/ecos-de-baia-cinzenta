@@ -34,6 +34,17 @@ Para melhorar a acessibilidade e a imersão, o projeto conta com um **Player de 
     *   **Destaque de Leitura:** O parágrafo que está sendo lido é destacado visualmente para facilitar o acompanhamento.
 *   **Controles:** Pausa, Play, Stop, ajuste de velocidade (0.8x a 1.5x) e seleção de vozes (pt-BR).
 
+## 📱 App Android & PWA
+
+O livro está disponível como **Progressive Web App (PWA)** e pode ser instalado em smartphones:
+
+*   **Instalação rápida:** Acesse o site no Chrome/Edge mobile → Menu → "Adicionar à tela inicial"
+*   **Funciona offline:** Service Worker mantém cache para leitura sem internet
+*   **Atualizações automáticas:** Novo conteúdo aparece automaticamente quando publicado
+*   **App nativo:** Pode ser compilado como APK Android via Capacitor
+
+📖 **[Ver guia completo de instalação](ANDROID.md)**
+
 ## 💻 Terminal do Sistema
 
 Pressione **`Ctrl + K`** ou clique no botão flutuante `_>` para acessar o **Terminal Lázaro**, uma interface CLI que permite explorar segredos do universo, verificar status de personagens e acessar arquivos confidenciais.

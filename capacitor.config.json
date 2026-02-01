@@ -1,0 +1,23 @@
+{
+  "appId": "com.baiacinzenta.app",
+  "appName": "Ecos de Baía Cinzenta",
+  "webDir": "docs/.vitepress/dist",
+  "server": {
+    "url": "https://ecos-de-baia-cinzenta.netlify.app",
+    "cleartext": true
+  },
+  "android": {
+    "buildOptions": {
+      "keystorePath": "",
+      "keystoreAlias": ""
+    },
+    "allowMixedContent": true
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 2000,
+      "backgroundColor": "#0a0a0f",
+      "showSpinner": false
+    }
+  }
+}
