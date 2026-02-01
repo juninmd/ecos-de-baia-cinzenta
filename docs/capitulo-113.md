@@ -71,7 +71,7 @@ Valéria soltou o ar que prendia, tremendo. Gabo percebeu que estava segurando a
 
 — Estamos dentro — disse Rangel pelo rádio, sua voz aliviada, mas sombria. — Bem-vindos ao inferno, crianças. A Usina Prometeu é logo à frente.
 
-Gabo olhou ao redor, para os sacos pretos empilhados como lixo. Ele tocou o cabo da *Vilha* em seu coldre.
+Gabo olhou ao redor, para os sacos pretos empilhados como lixo. Ele tocou o cabo da *Caronte* em seu coldre.
 
 — Eles não vão ser esquecidos — ele murmurou, prometendo aos mortos silenciosos ao seu redor. — Hoje à noite, a gente cobra a conta.
 
