@@ -23,14 +23,19 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v3
+        with:
+          version: 10
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 20
-          cache: 'npm'
+          node-version: 22
+          cache: 'pnpm'
 
       - name: Install Node dependencies
-        run: npm ci
+        run: pnpm install --frozen-lockfile
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -42,10 +47,10 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run Tests
-        run: npm test
+        run: pnpm test
 
       - name: Build Documentation
-        run: npm run docs:build
+        run: pnpm run docs:build
 
       - name: Archive Build Artifacts
         run: |
@@ -70,14 +75,19 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v3
+        with:
+          version: 10
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 20
-          cache: 'npm'
+          node-version: 22
+          cache: 'pnpm'
 
       - name: Install Node dependencies
-        run: npm ci
+        run: pnpm install --frozen-lockfile
 
       - name: Download Build Artifact
         uses: actions/download-artifact@v4
