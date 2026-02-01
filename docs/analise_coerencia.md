@@ -69,3 +69,13 @@ A narrativa estabeleceu solidamente os três pilares que sustentavam a corrupç�
 1.  **Escala de Poder de Dante (RESOLVIDO):** O Capítulo 111 e 112 estabeleceram o "Colapso Térmico" e o "Kill Switch" de Marco Moretti. Dante não é onipotente; ele é biologicamente instável e requer ciclos de resfriamento. Isso equilibra a escala de poder.
 2.  **A Identidade de Aria (CONFIRMADO):** O Capítulo 112 confirma que Aria usa um "chassi" baseado em Beatriz Vargas. Isso deve gerar conflitos contínuos com Gabo, que precisa separar a memória da mulher que amou da arma que está diante dele.
 3.  **A Passividade de Gabo (EM MONITORAMENTO):** Com titãs como Dante e Aria em jogo, Gabo não pode ser reduzido a um observador. Sua "humanidade falha" e capacidade de improvisação (ex: usar chaves manuais antigas no Ch 112) continuam sendo seu trunfo e devem ser explorados.
+
+### Capítulo 113: Carga Viva (Carga Biomassa)
+*   **Dinâmica Moral (Aria vs. Valéria):**
+    *   **Conflito:** Aria vê os cadáveres ("Drenados") como *combustível* ineficiente. Valéria vê *pessoas*.
+    *   **Análise:** Esse conflito reforça a natureza não-humana de Aria. Mesmo aliada, ela opera por lógica pura, o que horroriza os humanos. Mantém a tensão interna do grupo.
+*   **Lore (Nova Alvorada):**
+    *   **Confirmação:** O programa "Nova Alvorada" é, literalmente, industrialização de cadáveres para energia. O "ciclo fechado" (metano + biomassa) expande o horror distópico.
+*   **Integridade de Gabo:**
+    *   **Fator Nicotina:** O caminhão cheira a morte e lixo. Ambiente de alto estresse. Gabo *não* fuma. Ele promete vingança, não alívio químico. Regra mantida.
+*   **Veredito:** ✅ Coerente. O uso do compactador por Aria (risco calculado) vs. o medo de Valéria (risco emocional) é um ótimo *show, don't tell*.
