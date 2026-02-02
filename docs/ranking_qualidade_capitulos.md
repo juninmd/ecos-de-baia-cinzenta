@@ -1041,3 +1041,12 @@ Este documento mantém um registro da avaliação de qualidade narrativa, ritmo 
   * **Worldbuilding Tech:** Tecnologia e limitações analógicas se equilibram.
 * **Pontos Fracos:**
   * Nenhum ponto crítico; pequenas transições poderiam respirar mais.
+
+### Capítulo 115: O Arquiteto da Carne
+* **Nota:** ⭐ **9.2/10**
+* **Pontos Fortes:**
+  * **Atmosfera Noir:** Calor industrial, cheiro de biomassa, horror sensorial ("show, don't tell").
+  * **Carga Emocional:** Tensão interna de Gabo (Luto por Bia vs. Repulsa por Aria).
+  * **Worldbuilding Tech:** O conceito de "biomassa para eficiência" expande o horror da Nova Ordem.
+* **Pontos Fracos:**
+  * Ação física limitada (setup para o próximo capítulo).

@@ -154,3 +154,15 @@ A narrativa estabeleceu solidamente os três pilares que sustentavam a corrupç�
 * **Integridade de Gabo:**
   * **Fator Nicotina:** O caminhão cheira a morte e lixo. Ambiente de alto estresse. Gabo *não* fuma. Ele promete vingança, não alívio químico. Regra mantida.
 * **Veredito:** ✅ Coerente. O uso do compactador por Aria (risco calculado) vs. o medo de Valéria (risco emocional) é um ótimo *show, don't tell*.
+
+### Capítulo 115: O Arquiteto da Carne
+
+* **Fator Nicotina (Sanity Check):**
+  * **Cenário:** Estresse extremo, calor, cheiro de carne queimada. Gatilho clássico.
+  * **Reação:** Gabo sente vontade de fumar, mas *rejeita* ativamente ("O fumo é cinza. Eu sou fogo") e usa o Colar de Sol (dor física) como substituto.
+  * **Status:** ✅ Regra reforçada com sucesso.
+* **Aria como "Bia":**
+  * **Impacto:** Gabo visualiza Bia em Aria devido à iluminação. Isso gera repulsa e dor ("bile na garganta").
+  * **Coerência:** Mantém a distinção de que Aria *parece* Bia, mas não *é* Bia. A voz fria/técnica de Aria reforça isso.
+* **Lore (O Taxidermista):**
+  * **Evolução:** O vilão deixou de ser um "açougueiro analógico" para se tornar o arquiteto da eficiência da Nova Ordem. Isso expande sua ameaça para o nível sistêmico.
