@@ -59,17 +59,18 @@ A era da reconstrução autoritária.
 *   **Capítulo 112:** O grupo emerge na superfície chuvosa do Distrito Industrial. Valéria confronta Aria sobre sua aparência idêntica a Bia Vargas; Aria revela ser uma construção baseada em "parâmetros genéticos" doados (ou roubados). Rangel explica que a falha térmica de Dante foi um *Kill Switch* intencional criado por Marco Moretti. Eles roubam um caminhão de lixo automatizado usando chaves manuais antigas para se infiltrarem na zona da Usina.
 *   **Capítulo 113:** Disfarçados como "Carga Viva" no caminhão de lixo #899, o grupo atravessa o bloqueio da Usina Prometeu. Aria manipula os sensores para ocultar seus sinais vitais, enquanto Valéria e Gabo testemunham a brutalidade do transporte de "Drenados" (viciados coletados como biomassa). Eles conseguem entrar no perímetro interno.
 *   **Capítulo 114:** O caminhão despeja sua carga no "Setor de Triagem". O grupo escapa por pouco de ser triturado junto com os corpos na "Linha de Montagem" de biomassa. Eles descobrem que a usina é patrulhada por drones "Jardineiros" e que o código de segurança possui a assinatura digital do "Taxidermista", sugerindo que o antigo inimigo de Gabo está envolvido na infraestrutura da Nova Ordem.
+*   **Capítulo 115:** Gabo, Valéria e Aria avançam para o Subnível 4. O calor aumenta e eles encontram o sistema controlado pelo "Taxidermista" (agora uma inteligência integrada à usina). O Taxidermista revela que os corpos da "Nova Alvorada" alimentam diretamente o suporte de vida de Dante. Aria (com o rosto de Bia) tenta hackear a segurança, causando dor emocional a Gabo, enquanto o inimigo ativa protocolos de eliminação com gás.
 
 ---
 
-## 📍 Status Atual dos Personagens (Pós-Capítulo 114)
+## 📍 Status Atual dos Personagens (Pós-Capítulo 115)
 
 | Personagem | Status | Localização | Estado Físico/Mental |
 | :--- | :--- | :--- | :--- |
-| **Gabo** | Rebelde / Líder Tático | Usina Prometeu (Subsolo) | Perna mecânica reparada (tosca), exausto, armado com *Caronte*. Determinado a caçar o Taxidermista. |
-| **Valéria** | Hacker / Suporte | Usina Prometeu (Subsolo) | Traumatizada pelo massacre industrial. Tentando hackear o sistema local. |
-| **Aria** | Arma Biológica / "O Silêncio" | Usina Prometeu (Subsolo) | Focada na missão. Detectou a assinatura do Taxidermista. |
-| **Rangel** | Ex-Inspetor / Tanque | Usina Prometeu (Doca) | Separado do grupo principal. Tentando ocultar o caminhão. |
+| **Gabo** | Rebelde / Líder Tático | Usina Prometeu (Subnível 4) | Lutando contra a vontade de fumar; focado na dor do Colar de Sol. Enfrentando o Taxidermista. |
+| **Valéria** | Hacker / Suporte | Usina Prometeu (Subnível 4) | Sangramento nasal por esforço neural. Horrorizada com a revelação da biomassa. |
+| **Aria** | Arma Biológica / "O Silêncio" | Usina Prometeu (Subnível 4) | Detectou anomalias lógicas. Tentando quebrar a segurança do Taxidermista. |
+| **Rangel** | Ex-Inspetor / Tanque | Usina Prometeu (Doca) | Separado do grupo principal (off-screen neste capítulo). |
 | **Dante** | "A Ascensão" / Antagonista | Usina Prometeu (Núcleo) | Instável termicamente. Em processo de resfriamento. |
 | **Elena** | Civil / Observadora | Delegacia Central (Provável) | Separada do grupo principal. Provável refém/peão de Dante. |
 | **Marco** | Drone Biológico | Delegacia Central | Lobotomizado. Atua como processador lógico para Dante. |
