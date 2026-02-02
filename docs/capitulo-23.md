@@ -125,25 +125,27 @@ Gabo se virou para sair.
 
 — Gabo! — A voz de Miranda era um gorgolejo úmido. Ele tossiu sangue preto. — O velho... Dante... ele tentou parar.
 
-Gabo parou, mas não olhou para trás.
-
-— O quê?
-
-— O código... no pescoço dele... — Miranda riu, um som fraco. — Ele inseriu um erro. Um backdoor. Ele sabia que ia perder a cabeça. Ele queria que alguém desligasse. Ele queria... dormir.
-
-Miranda caiu para trás, os olhos fixos no teto sujo.
-
-— Aposto... no vermelho... — ele sussurrou, e morreu.
-
-Gabo fechou os olhos por um segundo., deixando Miranda para os abutres que certamente viriam.
+Gabo parou e olhou para trás, encarando o ex-parceiro uma última vez.
 
 — O que está lá embaixo, Roberto? O que guarda a fundação?
 
-Miranda riu de novo, um som que se transformou em um soluço.
+Miranda riu, um som que se transformou em um acesso de tosse violenta.
 
 — Os erros! Os protótipos que a Aeterna não conseguiu controlar! A primeira tentativa deles de um "anjo da guarda". Eles estão com fome, Gabo! E eles se lembram de seu criador!
 
-Gabo não respondeu. Ele desceu as escadas, Valéria em seu encalço, deixando o riso maníaco de Miranda para trás, um eco distorcido de um aviso ou talvez... um último, desesperado, ato de arrependimento.
+Ele respirou fundo, o ar chiando nos pulmões perfurados.
+
+— O código... no pescoço do Dante... — Miranda continuou, a voz falhando. — Ele inseriu um erro. Um backdoor. Ele sabia que ia perder a cabeça. Ele queria que alguém desligasse. Ele queria... dormir.
+
+Miranda caiu para trás, os olhos fixos no teto sujo do cassino.
+
+— Aposto... no vermelho... — ele sussurrou, e o brilho em seus olhos se apagou.
+
+Gabo fechou os olhos por um segundo.
+
+— A casa ganhou dessa vez — murmurou ele.
+
+Ele desceu as escadas, Valéria em seu encalço, deixando o corpo de Miranda para os abutres que certamente viriam.
 
 Elena já estava no volante do Cobalt quando eles saíram.
 
@@ -151,9 +153,9 @@ Elena já estava no volante do Cobalt quando eles saíram.
 
 — Sim — disse Gabo, entrando no carro. — Vamos para o inferno.
 
-Enquanto o Cobalt se afastava na chuva, Gabo olhou pelo retrovisor. As luzes de viaturas da polícia se aproximavam do "Palácio de Jade". Miranda teria sua própria festa particular com o Capitão Vilar.
+Enquanto o Cobalt se afastava na chuva, Gabo olhou pelo retrovisor. As luzes de viaturas da polícia se aproximavam do "Palácio de Jade". Mas Miranda já estava além da jurisdição do Capitão Vilar.
 
-Gabo sentiu uma pontada de satisfação sombria. Mas as palavras de Miranda, seu último momento de clareza distorcida, cravaram-se em sua mente.
+Gabo sentiu o peso do que estava por vir. As palavras de Miranda, seu último momento de clareza distorcida, cravaram-se em sua mente.
 
 *Se você o matar... você mata a todos nós.*
 

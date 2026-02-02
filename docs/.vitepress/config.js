@@ -104,6 +104,7 @@ module.exports = {
               { text: 'Capítulo 28: A Voz na Caixa', link: '/capitulo-28' },
               { text: 'Capítulo 29: O Código de Lázaro', link: '/capitulo-29' },
               { text: 'Capítulo 30: Sacrifício de Sangue', link: '/capitulo-30' },
+              { text: 'Interlúdio: A Casa Sempre Ganha', link: '/capitulo-30.5' },
               { text: 'Capítulo 31: Ruptura Total', link: '/capitulo-31' },
               { text: 'Capítulo 32: Queda Livre', link: '/capitulo-32' },
               { text: 'Capítulo 33: Noite Eterna', link: '/capitulo-33' },
