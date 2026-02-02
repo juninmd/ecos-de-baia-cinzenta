@@ -18,10 +18,10 @@ Resolver as 3 inconsistências críticas antes da conclusão da história
    - Implementação: Revelação gradual nos capítulos 101-103
 
 ### Plano de Implementação:
-- [ ] Escolher abordagem (Clone Sintético)
-- [ ] Escrever capítulo explicativo curto (30.5)
-- [ ] Atualizar capítulos 101-103 com contexto
-- [ ] Verificar consistência com lore de Aeterna Corp
+- [x] Escolher abordagem (Clone Sintético/Decoy)
+- [x] Escrever capítulo explicativo curto (30.5 - "Interlúdio: A Casa Sempre Ganha")
+- [x] Corrigir morte em Capítulo 23 (Removido trecho contraditório)
+- [x] Verificar consistência com lore de Aeterna Corp (Alinhado com Cap 101)
 
 ## 🟡 PRIORIDADE 2: DANTE MORETTI (IMPORTANTE)
 **Problema:** Ambiguidade se é pai biológico ou IA pura
