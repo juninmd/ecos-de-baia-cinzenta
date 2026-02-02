@@ -9,6 +9,10 @@ const { Layout } = DefaultTheme
 const { frontmatter, page } = useData()
 const router = useRouter()
 
+// Configuration constants
+const MAX_CHAPTER = 114
+const WORDS_PER_MINUTE = 200
+
 const isTerminalOpen = ref(false)
 const isReaderMode = ref(false)
 const fontSize = ref(100) // percentage
@@ -50,24 +54,24 @@ const resetFontSize = () => {
   document.documentElement.style.setProperty('--reader-font-scale', 1)
 }
 
-// Calculate reading time (average 200 words per minute in Portuguese)
+// Calculate reading time (average words per minute in Portuguese)
 const calculateReadingTime = () => {
   const content = document.querySelector('.vp-doc')
   if (content) {
     const text = content.innerText || ''
     const words = text.trim().split(/\s+/).length
-    readingTime.value = Math.ceil(words / 200)
+    readingTime.value = Math.ceil(words / WORDS_PER_MINUTE)
   }
 }
 
 // Navigation between chapters
 const currentChapterNumber = computed(() => {
-  const match = page.value.filePath?.match(/capitulo-(\d+)\.md/)
+  const match = page.value.filePath?.match(/\/capitulo-(\d+)\.md$/)
   return match ? parseInt(match[1]) : null
 })
 
 const hasNextChapter = computed(() => {
-  return currentChapterNumber.value !== null && currentChapterNumber.value < 114
+  return currentChapterNumber.value !== null && currentChapterNumber.value < MAX_CHAPTER
 })
 
 const hasPrevChapter = computed(() => {
@@ -505,8 +509,8 @@ body.reader-mode-active .vp-doc {
 
 /* Font scale variable application */
 body.reader-mode-active .vp-doc p {
-  font-size: calc(1.15rem * var(--reader-font-scale, 1));
-  line-height: 1.9;
+  font-size: calc(1.18rem * var(--reader-font-scale, 1));
+  line-height: 1.95;
 }
 
 body.reader-mode-active .vp-doc h1 {
