@@ -83,7 +83,7 @@ Gabo olhou para baixo, para o abismo de máquinas e "processadores" humanos. E e
 
 O relógio mental de Gabo tiquetaqueava. A janela de vulnerabilidade térmica de Dante estava se fechando. Se eles voltassem para a Doca, perderiam a chance de sabotar o núcleo. Se seguissem em frente, Rangel provavelmente morreria.
 
-Era a escolha de Sofia, versão hardboiled.
+Era um dilema clássico, versão hardboiled: sacrificar o soldado para vencer a guerra.
 
 — Gabo! — Valéria insistiu.
 
