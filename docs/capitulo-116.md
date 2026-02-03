@@ -3,14 +3,6 @@ image: /cenas/cidade.jpg
 ---
 # Capítulo 116: Pressão Crítica
 
-**Data In-Game:** Imediatamente após o Capítulo 115
-**Localização:** Usina Prometeu - Subnível 4 (Corredores de Manutenção) -> Subnível 3
-**Personagens:** Gabo, Valéria, Aria, Taxidermista (Voz), Rangel (Comms)
-
----
-
-## 📖 Narrativa
-
 O mundo explodiu em branco.
 
 Não foi um flash de luz, mas de som e temperatura. Quando a carga da *Caronte* rasgou a tubulação principal de vapor, a física assumiu o comando. A pressão de mil atmosferas, contida por décadas em encanamentos de ferro-gusa, encontrou uma saída. O rugido foi o de um titã despertando, alto o suficiente para fazer os dentes de Gabo vibrarem no crânio.
@@ -110,22 +102,3 @@ Valéria olhou para Gabo como se ele fosse um estranho.
 — Você o abandonou.
 
 — Eu fiz uma escolha — Gabo respondeu, virando-se para a porta do Núcleo. Ele engatilhou a *Caronte*. — Vamos garantir que a morte dele não seja em vão. Aria, abra essa maldita porta.
-
----
-
-## 🛠 Análise Crítica (Autoavaliação)
-
-**Nota: 9/10**
-
-### Pontos Fortes:
-1.  **Atmosfera Noir/Industrial:** A descrição inicial do vapor e o horror dos "processadores biológicos" reforçam o tom sombrio e a desumanização tecnológica do cenário.
-2.  **Dilema Moral:** A escolha de Gabo de deixar Rangel para trás é classicamente *hardboiled*. Ele sacrifica o indivíduo pelo "bem maior" (ou pela missão), o que pesa em sua consciência e define o custo da guerra.
-3.  **Inovação no Lore:** A revelação de que a "Nova Alvorada" usa cérebros humanos como cluster de processamento eleva o nível de crueldade do antagonista e dá um propósito terrível aos desaparecidos.
-
-### Pontos de Atenção (Para Revisão):
-1.  **Pacing:** A transição dos dutos para a passarela foi rápida. Garantir que a sensação de tempo e esforço físico no rastejamento seja transmitida.
-2.  **Reação de Valéria:** A reação dela ao abandono de Rangel pode precisar de mais peso nos próximos capítulos. Ela não é fria como Gabo.
-
-### Auditoria de Coerência:
-*   **Fator Nicotina:** Gabo sente vontade de fumar (gatilho de estresse/cheiro ruim), mas substitui pela dor física (Colar de Sol). **APROVADO.**
-*   **Personagens:** Aria age com lógica pura (probabilidades), Rangel aceita seu dever, Taxidermista mantém o tom sádico/filosófico. **APROVADO.**
