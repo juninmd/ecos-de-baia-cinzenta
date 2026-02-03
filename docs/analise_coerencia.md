@@ -166,3 +166,16 @@ A narrativa estabeleceu solidamente os três pilares que sustentavam a corrupç�
   * **Coerência:** Mantém a distinção de que Aria *parece* Bia, mas não *é* Bia. A voz fria/técnica de Aria reforça isso.
 * **Lore (O Taxidermista):**
   * **Evolução:** O vilão deixou de ser um "açougueiro analógico" para se tornar o arquiteto da eficiência da Nova Ordem. Isso expande sua ameaça para o nível sistêmico.
+
+### Capítulo 116: Pressão Crítica
+
+* **Fator Nicotina (Sanity Check):**
+  * **Cenário:** O cheiro de carne queimada e o estresse do combate geram um desejo físico intenso de fumar.
+  * **Reação:** Gabo reconhece o desejo, mas usa a dor do colar para focar. "O fumo é cinza."
+  * **Status:** ✅ Regra mantida e usada como ferramenta de caracterização (a luta interna de Gabo).
+* **Expansão de Lore (Wetware):**
+  * **Conceito:** A "Nova Alvorada" usa cérebros humanos como processadores paralelos.
+  * **Impacto:** Explica a eficiência de Dante sem servidores gigantescos visíveis. Aumenta o horror gótico/tecnológico.
+* **Caracterização (Gabo):**
+  * **A Escolha Hardboiled:** Gabo escolhe a missão sobre o amigo (Rangel). Isso define o tom da narrativa: não é uma história de heróis salvando a todos, mas de sobreviventes fazendo escolhas impossíveis.
+  * **Status:** ✅ Coerente com o tom noir.
