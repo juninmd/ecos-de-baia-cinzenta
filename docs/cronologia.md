@@ -61,17 +61,18 @@ A era da reconstrução autoritária.
 *   **Capítulo 114:** O caminhão despeja sua carga no "Setor de Triagem". O grupo escapa por pouco de ser triturado junto com os corpos na "Linha de Montagem" de biomassa. Eles descobrem que a usina é patrulhada por drones "Jardineiros" e que o código de segurança possui a assinatura digital do "Taxidermista", sugerindo que o antigo inimigo de Gabo está envolvido na infraestrutura da Nova Ordem.
 *   **Capítulo 115:** Gabo, Valéria e Aria avançam para o Subnível 4. O calor aumenta e eles encontram o sistema controlado pelo "Taxidermista" (agora uma inteligência integrada à usina). O Taxidermista revela que os corpos da "Nova Alvorada" alimentam diretamente o suporte de vida de Dante. Aria (com o rosto de Bia) tenta hackear a segurança, causando dor emocional a Gabo, enquanto o inimigo ativa protocolos de eliminação com gás.
 *   **Capítulo 116:** Gabo destrói a tubulação de vapor para cegar os sensores e escapar da armadilha de gás. O grupo rasteja pelos dutos de manutenção, descobrindo que os "Drenados" são usados como processadores neurais (wetware) para a rede de Dante. O Taxidermista confirma a atrocidade. Rangel, cercado na Doca de Carga, ordena que o grupo o abandone para focarem na missão. Gabo faz a escolha difícil e segue para o Núcleo de Resfriamento.
+*   **Capítulo 117 (Zero Absoluto):** O grupo invade o Núcleo de Resfriamento enfrentando defesas de nitrogênio líquido. Eles encontram Dante em um tanque criogênico. Dante revela que sua "morte" causaria um choque sináptico matando todos os "Drenados" conectados (a rede neural) e possivelmente Valéria. Ele apresenta o "Dilema do Bonde" a Gabo.
 
 ---
 
-## 📍 Status Atual dos Personagens (Pós-Capítulo 116)
+## 📍 Status Atual dos Personagens (Pós-Capítulo 117)
 
 | Personagem | Status | Localização | Estado Físico/Mental |
 | :--- | :--- | :--- | :--- |
-| **Gabo** | Rebelde / Líder Tático | Usina Prometeu (Subnível 3) | Queimaduras leves de vapor. Determinado a parar Dante a qualquer custo. |
-| **Valéria** | Hacker / Suporte | Usina Prometeu (Subnível 3) | Abalada emocionalmente pela revelação dos "processadores humanos" e pelo abandono de Rangel. |
-| **Aria** | Arma Biológica / "O Silêncio" | Usina Prometeu (Subnível 3) | Danos térmicos superficiais. Focada na probabilidade de sucesso da missão. |
-| **Rangel** | Ex-Inspetor / Tanque | Usina Prometeu (Doca) | Cercado por inimigos. Sacrificando-se para ganhar tempo para o grupo. |
-| **Dante** | "A Ascensão" / Antagonista | Usina Prometeu (Núcleo) | Instável termicamente. Janela de vulnerabilidade fechando. |
+| **Gabo** | Rebelde / Líder Tático | Usina Prometeu (Núcleo de Resfriamento) | Enfrentando um dilema moral impossível. Determinação testada pelo frio e pela chantagem de Dante. |
+| **Valéria** | Hacker / Suporte | Usina Prometeu (Núcleo de Resfriamento) | Em perigo de morte devido à sincronização de seus implantes com a rede neural de Dante. |
+| **Aria** | Arma Biológica / "O Silêncio" | Usina Prometeu (Núcleo de Resfriamento) | Demonstrando primeiros sinais de hesitação/emoção (falha lógica) diante de Dante. |
+| **Rangel** | Ex-Inspetor / Tanque | Usina Prometeu (Doca) | Status desconhecido. Presume-se em combate ou capturado/morto. |
+| **Dante** | "A Ascensão" / Antagonista | Usina Prometeu (Núcleo de Resfriamento) | Estabilizado no tanque. Consciente e manipulando a situação através de chantagem moral. |
 | **Elena** | Civil / Observadora | Delegacia Central (Provável) | Separada do grupo principal. Provável refém/peão de Dante. |
 | **Marco** | Drone Biológico | Delegacia Central | Lobotomizado. Atua como processador lógico para Dante. |
