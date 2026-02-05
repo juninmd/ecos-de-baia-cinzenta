@@ -179,3 +179,25 @@ A narrativa estabeleceu solidamente os três pilares que sustentavam a corrupç�
 * **Caracterização (Gabo):**
   * **A Escolha Hardboiled:** Gabo escolhe a missão sobre o amigo (Rangel). Isso define o tom da narrativa: não é uma história de heróis salvando a todos, mas de sobreviventes fazendo escolhas impossíveis.
   * **Status:** ✅ Coerente com o tom noir.
+
+### Capítulo 117: Zero Absoluto
+
+* **Fator Nicotina (Sanity Check):**
+  * **Cenário:** O frio extremo e a tensão do confronto final poderiam desencadear o vício.
+  * **Reação:** Gabo aperta o Colar de Sol. A dor física substitui a necessidade química. Ele se foca no ódio por Dante, não no alívio.
+  * **Status:** ✅ Regra mantida.
+* **Dinâmica (O Dilema do Bonde):**
+  * **Conflito:** Dante tenta usar a moralidade utilitarista ("matar poucos para salvar muitos") contra Gabo.
+  * **Análise:** Isso reforça a visão distorcida de Dante sobre "Ordem". Ele se vê como um salvador, não um tirano.
+  * **Status:** ✅ Coerente com a caracterização messiânica de Dante.
+
+### Capítulo 118: O Colapso da Onda
+
+* **Resolução de Arco (Aria/Bia):**
+  * **Ação:** Aria escolhe se sacrificar (absorver o feedback) para salvar os inocentes (Drenados).
+  * **Análise:** Essa escolha "ilógica" para uma máquina, mas "humana" para Bia, completa o arco de Aria como uma entidade que transcendeu sua programação inicial.
+  * **Status:** ✅ Fechamento de arco satisfatório.
+* **Fator Nicotina (Final Check):**
+  * **Fala:** A última fala de Aria ("Pare de tentar fumar") é um lembrete direto e pessoal.
+  * **Impacto:** Valida toda a luta de Gabo contra o vício ao longo da série e reforça a conexão emocional entre eles.
+  * **Status:** ✅ Regra Canônica consolidada.
