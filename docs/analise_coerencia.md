@@ -35,7 +35,7 @@
 
 ### 🟢 SISTEMA: Melhorias Técnicas ✅ IMPLEMENTADAS
 
-* **Scripts Automatizados:** `analyze_coherence.py`, `fix_nicotine_violations.py`, `apply_nicotine_fixes.py`
+* **Script Automatizado:** `analyze_coherence.py`
 * **Correções Automáticas:** Fator Nicotina - 95% conformidade (4 correções aplicadas)
 * **Auditoria Contínua:** Sistema de verificação de coerência estabelecido
 * **Análise Manual:** Verificação capítulo-por-capítulo das correções críticas
