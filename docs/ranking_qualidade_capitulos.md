@@ -1050,3 +1050,31 @@ Este documento mantém um registro da avaliação de qualidade narrativa, ritmo 
   * **Worldbuilding Tech:** O conceito de "biomassa para eficiência" expande o horror da Nova Ordem.
 * **Pontos Fracos:**
   * Ação física limitada (setup para o próximo capítulo).
+
+### Capítulo 116: Pressão Crítica
+* **Nota:** ⭐ **9.4/10**
+* **Pontos Fortes:**
+  * **Carga Emocional:** A escolha de abandonar Rangel define o custo da missão. Não há heroísmo fácil.
+  * **Horror:** A revelação dos nervos humanos nos cabos é um detalhe grotesco.
+  * **Ação:** A fuga do vapor é visceral.
+* **Pontos Fracos:**
+  * A aceitação de Rangel foi um pouco rápida.
+
+### Capítulo 117: Zero Absoluto
+* **Nota:** ⭐ **8.5/10**
+* **Pontos Fortes:**
+  * **Atmosfera:** O contraste térmico (fogo/gelo) e a descrição do corpo de Dante.
+  * **Solução Analógica:** O tiro no cano é uma solução criativa.
+  * **Impasse Moral:** O "Dilema do Bonde" eleva a aposta.
+* **Pontos Fracos:**
+  * A ameaça de Dante ("todos morrem") é um tropo comum que precisa de cuidado.
+  * Valéria ficou um pouco passiva.
+
+### Capítulo 118: O Colapso da Onda
+* **Nota:** ⭐ **9.6/10**
+* **Pontos Fortes:**
+  * **Subversão do Tropo:** Aria muda a equação do dilema.
+  * **Consequência Real:** Sacrifício físico de Aria e reinício do personagem.
+  * **O Vilão:** A redução de Dante a um humano frágil é uma vitória temática.
+* **Pontos Fracos:**
+  * A explicação técnica da solução de Aria é um pouco *technobabble*.
