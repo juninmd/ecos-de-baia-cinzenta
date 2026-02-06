@@ -201,3 +201,16 @@ A narrativa estabeleceu solidamente os três pilares que sustentavam a corrupç�
   * **Fala:** A última fala de Aria ("Pare de tentar fumar") é um lembrete direto e pessoal.
   * **Impacto:** Valida toda a luta de Gabo contra o vício ao longo da série e reforça a conexão emocional entre eles.
   * **Status:** ✅ Regra Canônica consolidada.
+
+### Capítulo 119: Cinzas Frias
+
+* **Fator Nicotina (Final Check):**
+  * **Cenário:** Estresse pós-colapso, cheiro de morte e biomassa.
+  * **Reação:** Gabo deseja fumar, mas usa a dor do *Colar de Sol* como âncora ("Eu sou fogo, não cinza").
+  * **Status:** ✅ Regra Canônica mantida e reforçada.
+* **Coerência de Rangel:**
+  * **Ação:** Rangel sobreviveu mas está ferido. Isso respeita a letalidade do mundo sem matar o personagem fora de tela.
+  * **Status:** ✅ Coerente.
+* **Atmosfera (O Apagão):**
+  * **Impacto:** A cidade apagada é uma consequência direta da queda de Dante. Sem energia centralizada, sem luzes.
+  * **Status:** ✅ Consistente com a escala de poder de Dante.
