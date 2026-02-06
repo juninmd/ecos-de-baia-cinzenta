@@ -1078,3 +1078,12 @@ Este documento mantém um registro da avaliação de qualidade narrativa, ritmo 
   * **O Vilão:** A redução de Dante a um humano frágil é uma vitória temática.
 * **Pontos Fracos:**
   * A explicação técnica da solução de Aria é um pouco *technobabble*.
+
+### Capítulo 119: Cinzas Frias
+* **Nota:** ⭐ **9.2/10**
+* **Pontos Fortes:**
+  * **Visual:** A imagem de Baía Cinzenta sem luzes é poderosa e simboliza o fim da Era de Dante.
+  * **Coerência:** O ferimento de Rangel e o estado de Aria têm consequências reais. Ninguém saiu ileso.
+  * **Fator Nicotina:** Gabo sente a abstinência como resposta ao estresse, mas usa a dor física (colar) para resistir, mantendo a regra canônica.
+* **Pontos Fracos:**
+  * O capítulo é curto e serve mais como um epílogo do evento "Usina".

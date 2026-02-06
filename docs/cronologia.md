@@ -63,17 +63,18 @@ A era da reconstrução autoritária.
 *   **Capítulo 116:** Gabo destrói a tubulação de vapor para cegar os sensores e escapar da armadilha de gás. O grupo rasteja pelos dutos de manutenção, descobrindo que os "Drenados" são usados como processadores neurais (wetware) para a rede de Dante. O Taxidermista confirma a atrocidade. Rangel, cercado na Doca de Carga, ordena que o grupo o abandone para focarem na missão. Gabo faz a escolha difícil e segue para o Núcleo de Resfriamento.
 *   **Capítulo 117 (Zero Absoluto):** O grupo invade o Núcleo de Resfriamento enfrentando defesas de nitrogênio líquido. Eles encontram Dante em um tanque criogênico. Dante revela que sua "morte" causaria um choque sináptico matando todos os "Drenados" conectados (a rede neural) e possivelmente Valéria. Ele apresenta o "Dilema do Bonde" a Gabo.
 *   **Capítulo 118 (O Colapso da Onda):** Gabo recusa o jogo de Dante. Aria se conecta fisicamente ao servidor central e absorve o feedback neural, salvando os hospedeiros ("Drenados") ao custo de sua própria integridade. O tanque explode e Dante é reduzido a um estado humano vulnerável e impotente. O grupo inicia a evacuação da Usina em colapso.
+*   **Capítulo 119 (Cinzas Frias):** O grupo escapa da Usina Prometeu carregando o corpo inerte de Aria. Eles reencontram o Inspetor Rangel, ferido mas vivo, na Doca de Carga. Ao saírem para a superfície, testemunham Baía Cinzenta completamente apagada e silenciosa pela primeira vez, simbolizando a queda de Dante.
 
 ---
 
-## 📍 Status Atual dos Personagens (Pós-Capítulo 118)
+## 📍 Status Atual dos Personagens (Pós-Capítulo 119)
 
 | Personagem | Status | Localização | Estado Físico/Mental |
 | :--- | :--- | :--- | :--- |
-| **Gabo** | Rebelde / Líder Tático | Usina Prometeu (Em fuga) | Exausto. Determinado a tirar o grupo dali. |
-| **Valéria** | Hacker / Suporte | Usina Prometeu (Em fuga) | Sobrevivente do choque neural. Carregando Aria. |
-| **Aria** | Arma Biológica / "O Silêncio" | Usina Prometeu (Em fuga) | Inconsciente / Reiniciando. Núcleo lógico intacto, personalidade comprometida. |
-| **Rangel** | Ex-Inspetor / Tanque | Usina Prometeu (Doca) | Status desconhecido. Presume-se em combate ou capturado/morto. |
-| **Dante** | Derrotado / Humano | Usina Prometeu (Núcleo) | Abandonado nos escombros. Vulnerável e desconectado da rede. |
+| **Gabo** | Rebelde / Líder Tático | Perímetro Externo (Em fuga) | Exausto, mas focado. Resistindo à abstinência. |
+| **Valéria** | Hacker / Suporte | Perímetro Externo (Em fuga) | Carregando Aria. Determinada. |
+| **Aria** | Inerte / Reiniciando | Perímetro Externo (Transportada) | Sistema operacional offline. Peso morto. |
+| **Rangel** | Aliado Ferido | Perímetro Externo (Em fuga) | Ferido no ombro, mas armado e móvel. |
+| **Dante** | Derrotado / Humano | Usina Prometeu (Ruínas) | Abandonado nos escombros. Vulnerável e desconectado da rede. |
 | **Elena** | Civil / Observadora | Delegacia Central (Provável) | Separada do grupo principal. Provável refém/peão de Dante. |
-| **Marco** | Drone Biológico | Delegacia Central | Lobotomizado. Atua como processador lógico para Dante. |
+| **Marco** | Drone Biológico | Delegacia Central | Lobotomizado. Sem comando central (Dante offline). |
