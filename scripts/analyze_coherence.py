@@ -7,6 +7,17 @@ Identifica inconsistências críticas e sugere correções.
 import os
 import re
 from pathlib import Path
+from functools import lru_cache
+
+@lru_cache(maxsize=None)
+def read_file_content(path):
+    """
+    Lê o conteúdo de um arquivo e armazena em cache para evitar leituras repetidas.
+    """
+    if path.exists():
+        with open(path, 'r', encoding='utf-8') as f:
+            return f.read()
+    return ""
 
 def analyze_roberto_miranda():
     """Analisa a inconsistência crítica de Roberto Miranda"""
@@ -17,8 +28,7 @@ def analyze_roberto_miranda():
     cap101_path = Path("docs/capitulo-101.md")
     false_death = False
     if cap101_path.exists():
-        with open(cap101_path, 'r', encoding='utf-8') as f:
-            cap101 = f.read()
+        cap101 = read_file_content(cap101_path)
         if "morrer nas chamas da Torre Aeterna" in cap101:
             false_death = True
 
@@ -32,8 +42,7 @@ def analyze_roberto_miranda():
     for cap_num in [101, 102, 103]:
         cap_path = Path(f"docs/capitulo-{cap_num}.md")
         if cap_path.exists():
-            with open(cap_path, 'r', encoding='utf-8') as f:
-                content = f.read()
+            content = read_file_content(cap_path)
             roberto_count = content.count("Roberto Miranda")
             print(f"Capítulo {cap_num} - Menções a Roberto: {roberto_count} (como ciborgue)")
 
@@ -47,8 +56,7 @@ def analyze_dante_moretti():
     # Verificar caixão vazio
     cap20_path = Path("docs/capitulo-20.md")
     if cap20_path.exists():
-        with open(cap20_path, 'r', encoding='utf-8') as f:
-            cap20 = f.read()
+        cap20 = read_file_content(cap20_path)
         empty_mentions = re.findall(r'vazio|empty|não estava|não havia', cap20, re.IGNORECASE)
         print(f"Capítulo 20 - Menções ao caixão vazio: {len(empty_mentions)}")
 
@@ -56,8 +64,7 @@ def analyze_dante_moretti():
     for cap_num in [100, 102, 103]:
         cap_path = Path(f"docs/capitulo-{cap_num}.md")
         if cap_path.exists():
-            with open(cap_path, 'r', encoding='utf-8') as f:
-                content = f.read()
+            content = read_file_content(cap_path)
             dante_alive = "DANTE MORETTI" in content
             ia_mentions = content.count("IA") + content.count("inteligência artificial")
             print(f"Capítulo {cap_num} - Dante vivo: {dante_alive}, Menções IA: {ia_mentions}")
@@ -65,8 +72,7 @@ def analyze_dante_moretti():
     # Verificar se lore foi atualizado
     lore_path = Path("docs/lore-do-livro.md")
     if lore_path.exists():
-        with open(lore_path, 'r', encoding='utf-8') as f:
-            lore = f.read()
+        lore = read_file_content(lore_path)
         if "consciente transferida para corpo cultivado" in lore:
             print("✅ LORE ATUALIZADO: Dante é pai biológico com consciência transferida")
         else:
@@ -84,8 +90,7 @@ def analyze_aria_development():
     flashback_path = Path("docs/capitulo-75.5.md")
     if flashback_path.exists():
         print("✅ FLASHBACK CRIADO: Capítulo 75.5 - Memórias de Chuva")
-        with open(flashback_path, 'r', encoding='utf-8') as f:
-            flashback = f.read()
+        flashback = read_file_content(flashback_path)
         if "Beatriz Vargas" in flashback and "casamento" in flashback:
             print("✅ CONTEÚDO: Mostra casamento Gabo-Bia e memórias conflitantes")
         else:
@@ -98,8 +103,7 @@ def analyze_aria_development():
     for cap_num in [113]:
         cap_path = Path(f"docs/capitulo-{cap_num}.md")
         if cap_path.exists():
-            with open(cap_path, 'r', encoding='utf-8') as f:
-                content = f.read()
+            content = read_file_content(cap_path)
             if "memórias dela. De Beatriz" in content and "ciúmes" in content:
                 conflict_found = True
                 print(f"✅ CONFLITO INTENSIFICADO: Capítulo {cap_num} - Valéria vs Aria sobre memórias de Bia")
@@ -118,8 +122,7 @@ def analyze_aria_development():
     smoking_violations = []
 
     for cap_file in Path("docs").glob("capitulo-*.md"):
-        with open(cap_file, 'r', encoding='utf-8') as f:
-            content = f.read()
+        content = read_file_content(cap_file)
         if re.search(gabo_smoking_pattern, content, re.IGNORECASE):
             smoking_violations.append(cap_file.name)
 
@@ -130,8 +133,7 @@ def analyze_aria_development():
     # Verificar outros traços
     chapters = []
     for cap_file in Path("docs").glob("capitulo-*.md"):
-        with open(cap_file, 'r', encoding='utf-8') as f:
-            content = f.read()
+        content = read_file_content(cap_file)
         chapters.append((cap_file.name, content))
 
     # Tique nervoso de Gabo
