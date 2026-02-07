@@ -9,6 +9,7 @@ from PIL import Image, ImageDraw, ImageFont, ImageFilter
 import subprocess
 from typing import List, Tuple
 import random
+import numpy as np
 
 
 class AnimatedVideoComposer:
@@ -154,14 +155,25 @@ class AnimatedVideoComposer:
     
     def _add_gradient_overlay(self, img: Image.Image, color1: Tuple[int, int, int], color2: Tuple[int, int, int]):
         """Add vertical gradient overlay."""
-        draw = ImageDraw.Draw(img)
-        for y in range(img.height):
-            ratio = y / img.height
-            r = int(color1[0] + (color2[0] - color1[0]) * ratio)
-            g = int(color1[1] + (color2[1] - color1[1]) * ratio)
-            b = int(color1[2] + (color2[2] - color1[2]) * ratio)
-            draw.line([(0, y), (img.width, y)], fill=(r, g, b))
-    
+        # Use NumPy for vectorized gradient generation
+        c1 = np.array(color1)
+        c2 = np.array(color2)
+
+        # Generate vertical gradient (H, 1)
+        y = np.arange(img.height) / img.height
+
+        # Calculate colors: shape (H, 3)
+        gradient = (c1 + (c2 - c1) * y[:, None]).astype(np.uint8)
+
+        # Reshape to (H, 1, 3) for 1-pixel wide column
+        gradient = gradient.reshape((img.height, 1, 3))
+
+        # Create image from array and resize to full width
+        gradient_img = Image.fromarray(gradient, mode='RGB')
+        gradient_img = gradient_img.resize((img.width, img.height), resample=Image.Resampling.NEAREST)
+
+        # Paste efficiently
+        img.paste(gradient_img)
     def _add_vignette(self, img: Image.Image):
         """Add dark vignette to edges (noir style)."""
         vignette = Image.new('L', img.size, 255)
