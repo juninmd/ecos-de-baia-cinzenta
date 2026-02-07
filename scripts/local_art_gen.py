@@ -71,12 +71,36 @@ class CharacterDatabase:
     def find_characters_in_text(self, text):
         found = []
         text_lower = text.lower()
+
+        # Build map and pattern
+        alias_map = {}
+        all_aliases = []
         for char_data in self.characters.values():
             for alias in char_data["aliases"]:
-                escaped_alias = re.escape(alias)
-                if re.search(r'\b' + escaped_alias + r'\b', text_lower, re.IGNORECASE):
-                    found.append(char_data)
-                    break
+                lower_alias = alias.lower()
+                if lower_alias not in alias_map:
+                    alias_map[lower_alias] = []
+                    all_aliases.append(re.escape(lower_alias))
+                alias_map[lower_alias].append(char_data)
+
+        if not all_aliases:
+            return found
+
+        # Sort by length to match longest aliases first
+        all_aliases.sort(key=len, reverse=True)
+        pattern = r'\b(' + '|'.join(all_aliases) + r')\b'
+
+        matches = set(re.findall(pattern, text_lower))
+
+        # Deduplicate characters
+        found_ids = set()
+
+        for match in matches:
+            if match in alias_map:
+                for char_data in alias_map[match]:
+                    if char_data["name"] not in found_ids:
+                        found.append(char_data)
+                        found_ids.add(char_data["name"])
         return found
 
 class ChapterContext:
