@@ -17,6 +17,14 @@ class AnimatedVideoComposer:
     def __init__(self, temp_dir: Path):
         self.temp_dir = temp_dir
         self.temp_dir.mkdir(exist_ok=True)
+
+        # Load fonts once
+        try:
+            self.font_title = ImageFont.truetype("arial.ttf", 80)
+            self.font_subtitle = ImageFont.truetype("arial.ttf", 50)
+        except:
+            self.font_title = ImageFont.load_default()
+            self.font_subtitle = ImageFont.load_default()
     
     def create_animated_sequence(
         self,
@@ -214,20 +222,12 @@ class AnimatedVideoComposer:
         overlay = Image.new('RGBA', img.size, (0, 0, 0, 0))
         draw = ImageDraw.Draw(overlay)
         
-        # Try to load a nice font, fallback to default
-        try:
-            font_title = ImageFont.truetype("arial.ttf", 80)
-            font_subtitle = ImageFont.truetype("arial.ttf", 50)
-        except:
-            font_title = ImageFont.load_default()
-            font_subtitle = ImageFont.load_default()
-        
         # Title text
         title_text = f"CAPÍTULO {numero}"
         subtitle_text = titulo
         
         # Center position
-        title_bbox = draw.textbbox((0, 0), title_text, font=font_title)
+        title_bbox = draw.textbbox((0, 0), title_text, font=self.font_title)
         title_w = title_bbox[2] - title_bbox[0]
         x_title = (img.width - title_w) // 2
         y_title = 100
@@ -238,7 +238,7 @@ class AnimatedVideoComposer:
             draw.text(
                 (x_title + offset, y_title + offset),
                 title_text,
-                font=font_title,
+                font=self.font_title,
                 fill=glow_color
             )
         
@@ -246,19 +246,19 @@ class AnimatedVideoComposer:
         draw.text(
             (x_title, y_title),
             title_text,
-            font=font_title,
+            font=self.font_title,
             fill=(0, 255, 255, alpha)
         )
         
         # Subtitle (white, smaller)
-        subtitle_bbox = draw.textbbox((0, 0), subtitle_text, font=font_subtitle)
+        subtitle_bbox = draw.textbbox((0, 0), subtitle_text, font=self.font_subtitle)
         subtitle_w = subtitle_bbox[2] - subtitle_bbox[0]
         x_subtitle = (img.width - subtitle_w) // 2
         
         draw.text(
             (x_subtitle, y_title + 100),
             subtitle_text,
-            font=font_subtitle,
+            font=self.font_subtitle,
             fill=(255, 255, 255, alpha)
         )
         
