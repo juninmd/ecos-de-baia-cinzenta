@@ -214,3 +214,16 @@ A narrativa estabeleceu solidamente os três pilares que sustentavam a corrupç�
 * **Atmosfera (O Apagão):**
   * **Impacto:** A cidade apagada é uma consequência direta da queda de Dante. Sem energia centralizada, sem luzes.
   * **Status:** ✅ Consistente com a escala de poder de Dante.
+
+### Capítulo 120: O Silêncio de Aetherna
+
+* **Fator Nicotina (Final Check):**
+  * **Cenário:** O estresse do silêncio e da escuridão. O hábito de alcançar o bolso.
+  * **Reação:** Gabo sente o "maço fantasma", mas usa a dor do *Colar de Sol* ("Dor é realidade. Fumaça é fuga").
+  * **Status:** ✅ Regra Canônica mantida.
+* **Atmosfera (O Silêncio):**
+  * **Impacto:** A ausência de som é tratada como uma entidade física, reforçando a dependência anterior da sociedade ao ruído digital.
+  * **Status:** ✅ Coerente com o tema Cyberpunk.
+* **Tecnologia (Retorno ao Analógico):**
+  * **Ação:** O uso de um caminhão a combustão interna ("Toupeira") porque os veículos elétricos modernos estão travados pelo firmware.
+  * **Status:** ✅ Lógica impecável dentro do *worldbuilding* estabelecido (colapso da rede).
