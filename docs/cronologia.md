@@ -64,17 +64,18 @@ A era da reconstrução autoritária.
 *   **Capítulo 117 (Zero Absoluto):** O grupo invade o Núcleo de Resfriamento enfrentando defesas de nitrogênio líquido. Eles encontram Dante em um tanque criogênico. Dante revela que sua "morte" causaria um choque sináptico matando todos os "Drenados" conectados (a rede neural) e possivelmente Valéria. Ele apresenta o "Dilema do Bonde" a Gabo.
 *   **Capítulo 118 (O Colapso da Onda):** Gabo recusa o jogo de Dante. Aria se conecta fisicamente ao servidor central e absorve o feedback neural, salvando os hospedeiros ("Drenados") ao custo de sua própria integridade. O tanque explode e Dante é reduzido a um estado humano vulnerável e impotente. O grupo inicia a evacuação da Usina em colapso.
 *   **Capítulo 119 (Cinzas Frias):** O grupo escapa da Usina Prometeu carregando o corpo inerte de Aria. Eles reencontram o Inspetor Rangel, ferido mas vivo, na Doca de Carga. Ao saírem para a superfície, testemunham Baía Cinzenta completamente apagada e silenciosa pela primeira vez, simbolizando a queda de Dante.
+*   **Capítulo 120 (O Silêncio de Aetherna):** O grupo enfrenta a realidade da cidade sem energia. Rangel colapsa devido aos ferimentos. Gabo usa suas habilidades analógicas para fazer uma ligação direta em um antigo caminhão de reboque a combustão ("Toupeira"), garantindo transporte para o grupo em direção ao esconderijo "O Fliperama".
 
 ---
 
-## 📍 Status Atual dos Personagens (Pós-Capítulo 119)
+## 📍 Status Atual dos Personagens (Pós-Capítulo 120)
 
 | Personagem | Status | Localização | Estado Físico/Mental |
 | :--- | :--- | :--- | :--- |
-| **Gabo** | Rebelde / Líder Tático | Perímetro Externo (Em fuga) | Exausto, mas focado. Resistindo à abstinência. |
-| **Valéria** | Hacker / Suporte | Perímetro Externo (Em fuga) | Carregando Aria. Determinada. |
-| **Aria** | Inerte / Reiniciando | Perímetro Externo (Transportada) | Sistema operacional offline. Peso morto. |
-| **Rangel** | Aliado Ferido | Perímetro Externo (Em fuga) | Ferido no ombro, mas armado e móvel. |
+| **Gabo** | Rebelde / Motorista | Em trânsito (Caminhão Toupeira) | Exausto, focado na condução. Lutando contra a abstinência. |
+| **Valéria** | Hacker / Suporte | Em trânsito (Caminhão Toupeira) | Protegendo Aria na caçamba. Preocupada com a segurança. |
+| **Aria** | Inerte / Offline | Em trânsito (Caçamba) | Sistema desligado. Carcaça metálica inerte. |
+| **Rangel** | Aliado Ferido (Crítico) | Em trânsito (Cabine) | Ferimento grave no ombro. Perdendo sangue, mas consciente. |
 | **Dante** | Derrotado / Humano | Usina Prometeu (Ruínas) | Abandonado nos escombros. Vulnerável e desconectado da rede. |
 | **Elena** | Civil / Observadora | Delegacia Central (Provável) | Separada do grupo principal. Provável refém/peão de Dante. |
 | **Marco** | Drone Biológico | Delegacia Central | Lobotomizado. Sem comando central (Dante offline). |
