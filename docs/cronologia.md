@@ -65,17 +65,18 @@ A era da reconstrução autoritária.
 *   **Capítulo 118 (O Colapso da Onda):** Gabo recusa o jogo de Dante. Aria se conecta fisicamente ao servidor central e absorve o feedback neural, salvando os hospedeiros ("Drenados") ao custo de sua própria integridade. O tanque explode e Dante é reduzido a um estado humano vulnerável e impotente. O grupo inicia a evacuação da Usina em colapso.
 *   **Capítulo 119 (Cinzas Frias):** O grupo escapa da Usina Prometeu carregando o corpo inerte de Aria. Eles reencontram o Inspetor Rangel, ferido mas vivo, na Doca de Carga. Ao saírem para a superfície, testemunham Baía Cinzenta completamente apagada e silenciosa pela primeira vez, simbolizando a queda de Dante.
 *   **Capítulo 120 (O Silêncio de Aetherna):** O grupo enfrenta a realidade da cidade sem energia. Rangel colapsa devido aos ferimentos. Gabo usa suas habilidades analógicas para fazer uma ligação direta em um antigo caminhão de reboque a combustão ("Toupeira"), garantindo transporte para o grupo em direção ao esconderijo "O Fliperama".
+*   **Capítulo 121 (Fios Desencapados):** O grupo chega ao esconderijo "O Fliperama". Gabo luta para estabilizar Rangel, que está sangrando criticamente, usando um ferro de solda para cauterizar a ferida em um ato brutal e desesperado. Valéria conecta Aria a um diagnóstico e confirma que o núcleo lógico está intacto, mas a personalidade está fragmentada. O moral do grupo é testado pelo peso da sobrevivência e pela ausência de tecnologia médica avançada.
 
 ---
 
-## 📍 Status Atual dos Personagens (Pós-Capítulo 120)
+## 📍 Status Atual dos Personagens (Pós-Capítulo 121)
 
 | Personagem | Status | Localização | Estado Físico/Mental |
 | :--- | :--- | :--- | :--- |
-| **Gabo** | Rebelde / Motorista | Em trânsito (Caminhão Toupeira) | Exausto, focado na condução. Lutando contra a abstinência. |
-| **Valéria** | Hacker / Suporte | Em trânsito (Caminhão Toupeira) | Protegendo Aria na caçamba. Preocupada com a segurança. |
-| **Aria** | Inerte / Offline | Em trânsito (Caçamba) | Sistema desligado. Carcaça metálica inerte. |
-| **Rangel** | Aliado Ferido (Crítico) | Em trânsito (Cabine) | Ferimento grave no ombro. Perdendo sangue, mas consciente. |
+| **Gabo** | Rebelde / Médico Improvisado | O Fliperama (Esgotos) | Exausto. Lutando contra a abstinência (Fator Nicotina) com dor física. |
+| **Valéria** | Hacker / Suporte | O Fliperama (Esgotos) | Tentando reparar Aria. Abalada pela brutalidade do procedimento médico. |
+| **Aria** | Inerte / Fragmentada | O Fliperama (Esgotos) | Núcleo Lógico Intacto. Matriz de Personalidade instável. |
+| **Rangel** | Aliado Ferido (Estável/Crítico) | O Fliperama (Esgotos) | Inconsciente. Ferida cauterizada. Risco de infecção alto. |
 | **Dante** | Derrotado / Humano | Usina Prometeu (Ruínas) | Abandonado nos escombros. Vulnerável e desconectado da rede. |
 | **Elena** | Civil / Observadora | Delegacia Central (Provável) | Separada do grupo principal. Provável refém/peão de Dante. |
 | **Marco** | Drone Biológico | Delegacia Central | Lobotomizado. Sem comando central (Dante offline). |
