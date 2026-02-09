@@ -66,17 +66,18 @@ A era da reconstrução autoritária.
 *   **Capítulo 119 (Cinzas Frias):** O grupo escapa da Usina Prometeu carregando o corpo inerte de Aria. Eles reencontram o Inspetor Rangel, ferido mas vivo, na Doca de Carga. Ao saírem para a superfície, testemunham Baía Cinzenta completamente apagada e silenciosa pela primeira vez, simbolizando a queda de Dante.
 *   **Capítulo 120 (O Silêncio de Aetherna):** O grupo enfrenta a realidade da cidade sem energia. Rangel colapsa devido aos ferimentos. Gabo usa suas habilidades analógicas para fazer uma ligação direta em um antigo caminhão de reboque a combustão ("Toupeira"), garantindo transporte para o grupo em direção ao esconderijo "O Fliperama".
 *   **Capítulo 121 (Fios Desencapados):** O grupo chega ao esconderijo "O Fliperama". Gabo luta para estabilizar Rangel, que está sangrando criticamente, usando um ferro de solda para cauterizar a ferida em um ato brutal e desesperado. Valéria conecta Aria a um diagnóstico e confirma que o núcleo lógico está intacto, mas a personalidade está fragmentada. O moral do grupo é testado pelo peso da sobrevivência e pela ausência de tecnologia médica avançada.
+*   **Capítulo 122 (Dívida Técnica):** No silêncio opressivo do bunker, Valéria explica o conceito de "dívida técnica" enquanto tenta consertar Aria, traçando um paralelo com as escolhas morais do grupo. Rangel luta contra a febre e a sepse iminente. Gabo, resistindo à abstinência de nicotina através da dor do "Colar de Sol", decide sair sozinho para o Distrito 4 em busca de suprimentos médicos reais em uma clínica de rua ilegal.
 
 ---
 
-## 📍 Status Atual dos Personagens (Pós-Capítulo 121)
+## 📍 Status Atual dos Personagens (Pós-Capítulo 122)
 
 | Personagem | Status | Localização | Estado Físico/Mental |
 | :--- | :--- | :--- | :--- |
-| **Gabo** | Rebelde / Médico Improvisado | O Fliperama (Esgotos) | Exausto. Lutando contra a abstinência (Fator Nicotina) com dor física. |
-| **Valéria** | Hacker / Suporte | O Fliperama (Esgotos) | Tentando reparar Aria. Abalada pela brutalidade do procedimento médico. |
-| **Aria** | Inerte / Fragmentada | O Fliperama (Esgotos) | Núcleo Lógico Intacto. Matriz de Personalidade instável. |
-| **Rangel** | Aliado Ferido (Estável/Crítico) | O Fliperama (Esgotos) | Inconsciente. Ferida cauterizada. Risco de infecção alto. |
+| **Gabo** | Lobo Solitário / Buscador | Caminho para Distrito 4 | Armado e perigoso. Focado na missão. Abstinência controlada por dor. |
+| **Valéria** | Hacker / Enfermeira Improvisada | O Fliperama (Esgotos) | Sozinha com os feridos. Tentando isolar a corrupção de memória de Aria. |
+| **Aria** | Offline / Corrompida | O Fliperama (Esgotos) | Sistema operacional instável. Memórias de "Drenados" misturadas ao núcleo. |
+| **Rangel** | Aliado Ferido (Crítico) | O Fliperama (Esgotos) | Inconsciente e febril. Risco de sepse extremo. |
 | **Dante** | Derrotado / Humano | Usina Prometeu (Ruínas) | Abandonado nos escombros. Vulnerável e desconectado da rede. |
 | **Elena** | Civil / Observadora | Delegacia Central (Provável) | Separada do grupo principal. Provável refém/peão de Dante. |
 | **Marco** | Drone Biológico | Delegacia Central | Lobotomizado. Sem comando central (Dante offline). |
