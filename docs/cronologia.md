@@ -67,14 +67,15 @@ A era da reconstrução autoritária.
 *   **Capítulo 120 (O Silêncio de Aetherna):** O grupo enfrenta a realidade da cidade sem energia. Rangel colapsa devido aos ferimentos. Gabo usa suas habilidades analógicas para fazer uma ligação direta em um antigo caminhão de reboque a combustão ("Toupeira"), garantindo transporte para o grupo em direção ao esconderijo "O Fliperama".
 *   **Capítulo 121 (Fios Desencapados):** O grupo chega ao esconderijo "O Fliperama". Gabo luta para estabilizar Rangel, que está sangrando criticamente, usando um ferro de solda para cauterizar a ferida em um ato brutal e desesperado. Valéria conecta Aria a um diagnóstico e confirma que o núcleo lógico está intacto, mas a personalidade está fragmentada. O moral do grupo é testado pelo peso da sobrevivência e pela ausência de tecnologia médica avançada.
 *   **Capítulo 122 (Dívida Técnica):** No silêncio opressivo do bunker, Valéria explica o conceito de "dívida técnica" enquanto tenta consertar Aria, traçando um paralelo com as escolhas morais do grupo. Rangel luta contra a febre e a sepse iminente. Gabo, resistindo à abstinência de nicotina através da dor do "Colar de Sol", decide sair sozinho para o Distrito 4 em busca de suprimentos médicos reais em uma clínica de rua ilegal.
+*   **Capítulo 123 (Protocolo de Sombra):** Gabo emerge no Distrito 4 em busca de suprimentos médicos. Enfrenta o caos do apagão e negocia com Vasco, um traficante de implantes, garantindo remédios e peças para Aria. Confronta saqueadores na saída, utilizando violência calculada e racionamento de munição.
 
 ---
 
-## 📍 Status Atual dos Personagens (Pós-Capítulo 122)
+## 📍 Status Atual dos Personagens (Pós-Capítulo 123)
 
 | Personagem | Status | Localização | Estado Físico/Mental |
 | :--- | :--- | :--- | :--- |
-| **Gabo** | Lobo Solitário / Buscador | Caminho para Distrito 4 | Armado e perigoso. Focado na missão. Abstinência controlada por dor. |
+| **Gabo** | Lobo Solitário / Combatente | Distrito 4 (Retorno) | Ferido levemente. Municiado (escasso). Abstinência controlada. |
 | **Valéria** | Hacker / Enfermeira Improvisada | O Fliperama (Esgotos) | Sozinha com os feridos. Tentando isolar a corrupção de memória de Aria. |
 | **Aria** | Offline / Corrompida | O Fliperama (Esgotos) | Sistema operacional instável. Memórias de "Drenados" misturadas ao núcleo. |
 | **Rangel** | Aliado Ferido (Crítico) | O Fliperama (Esgotos) | Inconsciente e febril. Risco de sepse extremo. |
