@@ -1,0 +1,70 @@
+name: Automated Chapter Art Generation
+
+on:
+  push:
+    paths:
+      - 'docs/public/capitulo-*.md'
+      - 'docs/capitulo-*.md'
+  workflow_dispatch:
+    inputs:
+      chapter:
+        description: 'Chapter file to process'
+        required: true
+        default: 'docs/public/capitulo-10.md'
+
+permissions:
+  contents: write
+
+jobs:
+  generate-art:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: |
+          pip install -r requirements.txt
+          pip install requests diffusers transformers accelerate torch
+
+      - name: Install Ollama
+        run: |
+          curl -L https://ollama.com/download/ollama-linux-amd64 -o ollama
+          chmod +x ollama
+          ./ollama serve > ollama.log 2>&1 &
+          sleep 10
+          ./ollama pull tinyllama
+
+      - name: Generate Art
+        env:
+          SD_API_URL: ${ secrets.SD_API_URL }
+          OLLAMA_HOST: http://localhost:11434
+        run: |
+          CHAPTER="${ github.event.inputs.chapter }"
+          if [ -z "$CHAPTER" ]; then
+            # Attempt to find changed file
+            CHAPTER=$(git diff --name-only HEAD^ HEAD | grep 'capitulo-.*.md' | head -n 1 || echo "")
+          fi
+
+          if [ -z "$CHAPTER" ]; then
+            echo "No chapter specified or found in changes."
+            exit 0
+          fi
+
+          echo "Processing chapter: $CHAPTER"
+          python3 scripts/generate_chapter_art.py --chapter "$CHAPTER" --ollama-model tinyllama
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "ArtBot"
+          git config --global user.email "artbot@example.com"
+          git add docs/public/*.jpg || true
+          git add docs/public/*.md || true
+          git add docs/*.md || true
+          git commit -m "chore: generated art for chapter" || echo "No changes to commit"
+          git push
