@@ -1,0 +1,5 @@
+# Heavy ML dependencies for Art Generation
+diffusers
+transformers
+accelerate
+torch

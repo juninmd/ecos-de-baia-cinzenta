@@ -30,7 +30,7 @@ jobs:
       - name: Install Dependencies
         run: |
           pip install -r requirements.txt
-          pip install requests diffusers transformers accelerate torch
+          pip install -r requirements-art.txt
 
       - name: Install Ollama
         run: |

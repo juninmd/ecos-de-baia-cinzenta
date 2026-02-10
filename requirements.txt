@@ -1,6 +1,7 @@
 # Existing dependencies
 google-genai
 pillow
+requests
 
 # Video Generation Stack (simplified - gTTS only)
 gtts>=2.5.0
@@ -10,10 +11,3 @@ Pillow>=10.0.0
 
 # Testing
 pytest>=7.4.0
-
-# Art Generation
-requests
-diffusers
-transformers
-accelerate
-torch
