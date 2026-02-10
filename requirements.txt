@@ -1,6 +1,7 @@
 # Existing dependencies
 google-genai
 pillow
+requests
 
 # Video Generation Stack (simplified - gTTS only)
 gtts>=2.5.0
