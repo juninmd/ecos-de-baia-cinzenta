@@ -64,7 +64,7 @@
 *   **Pré-Série:** Prodígio. Aparência: "Geek" limpa, roupas corporativas padrão.
 *   **Partes I-XII:** A Hacker Rebelde. Aparência: Cabelo neon (muda de cor), roupas cyberpunk, pele pálida.
 *   **Parte XIII:** O Sacrifício. Aparência: Veias prateadas da "Praga de Ferro" começam a aparecer no pescoço e braços. Olhos tornam-se inteiramente prateados.
-*   **Atualidade:** O Despertar. Aparência: A "petrificação" revelou-se um casulo de cura regenerativa. Ela emerge fraca, com a pele pálida e translúcida, mas viva. As veias prateadas recuaram, deixando apenas trilhas brilhantes sob a derme.
+*   **Atualidade:** Atuando como suporte técnico e médico improvisado no "Fliperama". Lutando para manter Aria e Rangel funcionais com recursos limitados.
 
 ---
 
@@ -419,7 +419,7 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 *   **Capítulo 105:** Testemunha o retorno de Dante, que reativa sua máquina de escrever elétrica e os sistemas da delegacia.
 *   **Capítulo 106:** Torna-se o braço direito executivo de Dante, sobrecarregado pela velocidade de processamento do novo Comandante.
 *   **Capítulo 110:** Abandona o distintivo e foge para o subsolo com a resistência. Torna-se fugitivo procurado pela Aetherna.
-*   **Atualidade:** Ferido gravemente em combate na Usina Prometeu. Estado crítico (sepse iminente).
+*   **Atualidade:** Estabilizado após cirurgia de emergência no "Fliperama". Inconsciente, mas recebendo antibióticos para tratar a sepse.
 
 ---
 
@@ -484,7 +484,7 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 *   **Origem:** Começou como uma IA/Alucinação. Ganhou corpo físico durante a "Ascensão" de Dante, utilizando bio-engenharia roubada.
 *   **Capítulo 109:** Revela sua face física (Bia Vargas) para Rangel e bloqueia os drones de Dante.
 *   **Capítulo 118:** Sacrifica sua integridade lógica para salvar os "Drenados" do choque neural na Usina Prometeu.
-*   **Atualidade:** Corpo intacto, mas sistema operacional fragmentado e corrompido por memórias alheias. Mantida em estase no Fliperama.
+*   **Atualidade:** Offline. O núcleo lógico está fragmentado ("Dívida Técnica Espiritual"), exigindo reparo complexo para separar sua identidade das memórias absorvidas.
 
 ---
 

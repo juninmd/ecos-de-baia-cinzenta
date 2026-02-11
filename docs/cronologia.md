@@ -68,17 +68,18 @@ A era da reconstrução autoritária.
 *   **Capítulo 121 (Fios Desencapados):** O grupo chega ao esconderijo "O Fliperama". Gabo luta para estabilizar Rangel, que está sangrando criticamente, usando um ferro de solda para cauterizar a ferida em um ato brutal e desesperado. Valéria conecta Aria a um diagnóstico e confirma que o núcleo lógico está intacto, mas a personalidade está fragmentada. O moral do grupo é testado pelo peso da sobrevivência e pela ausência de tecnologia médica avançada.
 *   **Capítulo 122 (Dívida Técnica):** No silêncio opressivo do bunker, Valéria explica o conceito de "dívida técnica" enquanto tenta consertar Aria, traçando um paralelo com as escolhas morais do grupo. Rangel luta contra a febre e a sepse iminente. Gabo, resistindo à abstinência de nicotina através da dor do "Colar de Sol", decide sair sozinho para o Distrito 4 em busca de suprimentos médicos reais em uma clínica de rua ilegal.
 *   **Capítulo 123 (Protocolo de Sombra):** Gabo emerge no Distrito 4 em busca de suprimentos médicos. Enfrenta o caos do apagão e negocia com Vasco, um traficante de implantes, garantindo remédios e peças para Aria. Confronta saqueadores na saída, utilizando violência calculada e racionamento de munição.
+*   **Capítulo 124 (Carne e Cobre):** Gabo retorna ao esconderijo "O Fliperama" através dos esgotos. Ele e Valéria realizam um procedimento cirúrgico de emergência para drenar a infecção de Rangel, estabilizando-o. Valéria diagnostica Aria com "Dívida Técnica" espiritual.
 
 ---
 
-## 📍 Status Atual dos Personagens (Pós-Capítulo 123)
+## 📍 Status Atual dos Personagens (Pós-Capítulo 124)
 
 | Personagem | Status | Localização | Estado Físico/Mental |
 | :--- | :--- | :--- | :--- |
-| **Gabo** | Lobo Solitário / Combatente | Distrito 4 (Retorno) | Ferido levemente. Municiado (escasso). Abstinência controlada. |
-| **Valéria** | Hacker / Enfermeira Improvisada | O Fliperama (Esgotos) | Sozinha com os feridos. Tentando isolar a corrupção de memória de Aria. |
-| **Aria** | Offline / Corrompida | O Fliperama (Esgotos) | Sistema operacional instável. Memórias de "Drenados" misturadas ao núcleo. |
-| **Rangel** | Aliado Ferido (Crítico) | O Fliperama (Esgotos) | Inconsciente e febril. Risco de sepse extremo. |
+| **Gabo** | Líder / Combatente | O Fliperama (Esgotos) | Exausto. Mãos sujas de sangue. Foco mantido pela dor física. |
+| **Valéria** | Hacker / Médica Improvisada | O Fliperama (Esgotos) | Estressada, mas eficiente. Lidando com a fragilidade da "carne". |
+| **Aria** | Offline / Inerte | O Fliperama (Esgotos) | Hardware intacto, Software fragmentado. Em estase. |
+| **Rangel** | Estabilizado (Grave) | O Fliperama (Esgotos) | Inconsciente. Infecção drenada e medicada, mas ainda febril. |
 | **Dante** | Derrotado / Humano | Usina Prometeu (Ruínas) | Abandonado nos escombros. Vulnerável e desconectado da rede. |
 | **Elena** | Civil / Observadora | Delegacia Central (Provável) | Separada do grupo principal. Provável refém/peão de Dante. |
 | **Marco** | Drone Biológico | Delegacia Central | Lobotomizado. Sem comando central (Dante offline). |
