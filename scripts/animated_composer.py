@@ -19,6 +19,8 @@ class AnimatedVideoComposer:
         self.temp_dir = temp_dir
         self.temp_dir.mkdir(exist_ok=True)
         self._vignette_cache = {}
+        self._vignette_mask = None
+        self._black_bg = None
 
         # Load fonts once
         try:
@@ -183,6 +185,7 @@ class AnimatedVideoComposer:
 
         # Paste efficiently
         img.paste(gradient_img)
+        
     def _add_vignette(self, img: Image.Image):
         """Add dark vignette to edges (noir style)."""
         if img.size not in self._vignette_cache:
@@ -206,6 +209,38 @@ class AnimatedVideoComposer:
         img_rgb.paste(img, mask=vignette)
         img.paste(img_rgb)
     
+    def _generate_vignette_mask(self, size):
+        """Generate high-quality vignette mask using NumPy."""
+        width, height = size
+        y, x = np.ogrid[:height, :width]
+        center_y, center_x = height / 2, width / 2
+        max_dist_sq = (width / 2)**2 + (height / 2)**2
+        dist_sq = (x - center_x)**2 + (y - center_y)**2
+        
+        # Calculate normalized radius (0 at center, 1 at corner)
+        radius = np.sqrt(dist_sq) / np.sqrt(max_dist_sq)
+        
+        # Invert (1 at center, 0 at corner)
+        mask = 1 - radius
+        mask = np.clip(mask, 0, 1)
+
+        # Apply curve (gamma correction for smoother/darker edges)
+        mask = mask ** 1.5
+
+        # Convert to 0-255
+        mask_u8 = (mask * 255).astype(np.uint8)
+        return Image.fromarray(mask_u8, mode="L")
+
+    def _add_vignette(self, img: Image.Image):
+        """Add dark vignette to edges (noir style)."""
+        if self._vignette_mask is None or self._vignette_mask.size != img.size:
+            self._vignette_mask = self._generate_vignette_mask(img.size)
+            self._black_bg = Image.new("RGB", img.size, (0, 0, 0))
+
+        # Apply vignette efficiently using cached mask
+        result = Image.composite(img, self._black_bg, self._vignette_mask)
+        img.paste(result)
+
     def _add_rain_particles(self, img: Image.Image):
         """Add subtle rain effect."""
         draw = ImageDraw.Draw(img, 'RGBA')
