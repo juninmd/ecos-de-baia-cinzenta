@@ -33,10 +33,17 @@ def generate_icons(source_image_path: str, output_dir: str):
         if img.mode != 'RGBA':
             img = img.convert('RGBA')
 
-        # Generate each size
-        for size in ICON_SIZES:
-            # Resize image
-            resized = img.resize((size, size), Image.Resampling.LANCZOS)
+        # Optimization: Sort sizes descending and resize iteratively
+        # Resizing from a smaller image is faster than from the original source each time.
+        sorted_sizes = sorted(ICON_SIZES, reverse=True)
+        current_img = img
+
+        for size in sorted_sizes:
+            # Resize image from the current (potentially already downscaled) image
+            resized = current_img.resize((size, size), Image.Resampling.LANCZOS)
+
+            # Update current image for next iteration
+            current_img = resized
 
             # Save as PNG
             output_file = output_path / f"icon-{size}x{size}.png"
