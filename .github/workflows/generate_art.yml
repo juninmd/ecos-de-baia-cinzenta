@@ -34,11 +34,10 @@ jobs:
 
       - name: Install Ollama
         run: |
-          curl -L https://ollama.com/download/ollama-linux-amd64 -o ollama
-          chmod +x ollama
-          ./ollama serve > ollama.log 2>&1 &
+          curl -fsSL https://ollama.com/install.sh | sh
+          ollama serve > ollama.log 2>&1 &
           sleep 10
-          ./ollama pull tinyllama
+          ollama pull tinyllama
 
       - name: Generate Art
         env:
