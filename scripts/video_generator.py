@@ -12,6 +12,8 @@ Dependencies:
 import argparse
 import re
 import sys
+import os
+import io
 from pathlib import Path
 from typing import Dict, List, Optional
 
@@ -138,8 +140,6 @@ class VideoGenerator:
 
     def _generate_multi_scene_images(self, chapter_num: str, texto: str) -> List[Path]:
         """Split chapter text into 8 segments and generate an image for each."""
-        import subprocess
-        import os
         print(f"🍌 Generating 8 dynamic scenes for Chapter {chapter_num}...")
         
         # Split text into 8 roughly equal parts
@@ -167,20 +167,11 @@ class VideoGenerator:
                 
             print(f"  🎬 Generating scene {i}/8...")
             try:
-                scene_script = self.temp_dir / f"gen_scene_{chapter_num}_{i}.py"
-                scene_script.write_text(self._get_scene_gen_code(chunk, img_path), encoding='utf-8')
+                # Optimized: Call generation directly in-process
+                success = self._generate_single_scene(chunk, img_path)
                 
-                # Pass current ENVIRONMENT to ensure API keys are inherited
-                result = subprocess.run(
-                    [sys.executable, str(scene_script)], 
-                    check=False, 
-                    capture_output=True, 
-                    text=True,
-                    env=os.environ
-                )
-                
-                if result.returncode != 0:
-                    print(f"  ❌ Scene {i} script error: {result.stderr}")
+                if not success:
+                    print(f"  ❌ Scene {i} generation returned False")
                 
                 if img_path.exists() and img_path.stat().st_size > 5000:
                     image_paths.append(img_path)
@@ -194,69 +185,71 @@ class VideoGenerator:
         
         return image_paths
 
-    def _get_scene_gen_code(self, chunk: str, output_path: Path) -> str:
-        """Return Python code to generate a single image using NanoBanana logic."""
-        # Escape backslashes for windows paths
-        safe_path = str(output_path).replace('\\', '\\\\')
-        return f"""
-import os
-import sys
-from google import genai
-from PIL import Image
-import io
+    def _generate_single_scene(self, chunk: str, output_path: Path) -> bool:
+        """
+        Generate a single image using NanoBanana (Google GenAI) directly.
+        Includes fallback generation on failure.
+        """
+        try:
+            from google import genai
+            from PIL import Image
+        except ImportError as e:
+            print(f"Error importing dependencies: {e}")
+            return self._generate_fallback(output_path)
 
-def generate():
-    # Try all possible key names from the project
-    api_key = (
-        os.environ.get('NANO_BANANA_API_KEY_IMAGE') or 
-        os.environ.get('NANO_BANANA_API_KEY') or 
-        os.environ.get('GOOGLE_API_KEY')
-    )
-    
-    if not api_key:
-        print("Error: No API key found in environment.")
-        return False
-
-    client = genai.Client(api_key=api_key)
-    
-    # Richer narrative prompt
-    prompt = (
-        "Cinematic Cyberpunk Noir digital art. Cinematic atmospheric lighting, "
-        "high contrast, teal and orange neon, rainy night in Baía Cinzenta. "
-        "Intricate details, 8k resolution, photorealistic style. "
-        f"Scene detail: {{chunk[:1000]}}"
-    )
-
-    try:
-        # Use a more standard model name for 2026 SDK if flash-image fails
-        model_name = 'imagen-3.0-generate-001' # Standard for high quality image gen
-        
-        response = client.models.generate_content(
-            model=model_name,
-            contents=[prompt]
+        # Try all possible key names from the project
+        api_key = (
+            os.environ.get('NANO_BANANA_API_KEY_IMAGE') or
+            os.environ.get('NANO_BANANA_API_KEY') or
+            os.environ.get('GOOGLE_API_KEY')
         )
-        
-        if response.parts:
-            for part in response.parts:
-                if part.inline_data:
-                    img = Image.open(io.BytesIO(part.inline_data.data))
-                    img.save(r"{safe_path}")
-                    print("Success: Image saved.")
-                    return True
-        print("Error: No image parts in response.")
-        return False
-    except Exception as e:
-        print(f"Generation Exception: {{e}}")
-        return False
 
-if __name__ == "__main__":
-    if not generate():
-        # Fallback placeholder with identifiable color if it really fails
-        from PIL import Image
-        img = Image.new('RGB', (1920, 1080), color=(20, 20, 40))
-        img.save(r"{safe_path}")
-        sys.exit(1)
-"""
+        if not api_key:
+            print("Error: No API key found in environment.")
+            return self._generate_fallback(output_path)
+
+        client = genai.Client(api_key=api_key)
+        
+        # Richer narrative prompt
+        prompt = (
+            "Cinematic Cyberpunk Noir digital art. Cinematic atmospheric lighting, "
+            "high contrast, teal and orange neon, rainy night in Baía Cinzenta. "
+            "Intricate details, 8k resolution, photorealistic style. "
+            f"Scene detail: {chunk[:1000]}"
+        )
+
+        try:
+            # Use a more standard model name for 2026 SDK if flash-image fails
+            model_name = 'imagen-3.0-generate-001' # Standard for high quality image gen
+
+            response = client.models.generate_content(
+                model=model_name,
+                contents=[prompt]
+            )
+
+            if response.parts:
+                for part in response.parts:
+                    if part.inline_data:
+                        img = Image.open(io.BytesIO(part.inline_data.data))
+                        img.save(str(output_path))
+                        print("Success: Image saved.")
+                        return True
+            print("Error: No image parts in response.")
+            return self._generate_fallback(output_path)
+        except Exception as e:
+            print(f"Generation Exception: {e}")
+            return self._generate_fallback(output_path)
+
+    def _generate_fallback(self, output_path: Path) -> bool:
+        """Create a fallback placeholder image."""
+        try:
+            from PIL import Image
+            img = Image.new('RGB', (1920, 1080), color=(20, 20, 40))
+            img.save(str(output_path))
+            return False
+        except Exception as e:
+            print(f"Fallback generation failed: {e}")
+            return False
 
     def create_video(self, capitulo: Dict[str, str]) -> Path:
         """
