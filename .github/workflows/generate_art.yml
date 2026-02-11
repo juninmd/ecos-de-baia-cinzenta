@@ -41,10 +41,10 @@ jobs:
 
       - name: Generate Art
         env:
-          SD_API_URL: ${ secrets.SD_API_URL }
+          SD_API_URL: ${{ secrets.SD_API_URL }}
           OLLAMA_HOST: http://localhost:11434
         run: |
-          CHAPTER="${ github.event.inputs.chapter }"
+          CHAPTER="${{ github.event.inputs.chapter }}"
           if [ -z "$CHAPTER" ]; then
             # Attempt to find changed file
             CHAPTER=$(git diff --name-only HEAD^ HEAD | grep 'capitulo-.*.md' | head -n 1 || echo "")
