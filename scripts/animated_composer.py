@@ -18,6 +18,7 @@ class AnimatedVideoComposer:
     def __init__(self, temp_dir: Path):
         self.temp_dir = temp_dir
         self.temp_dir.mkdir(exist_ok=True)
+        self._vignette_cache = {}
         self._vignette_mask = None
         self._black_bg = None
 
@@ -184,6 +185,30 @@ class AnimatedVideoComposer:
 
         # Paste efficiently
         img.paste(gradient_img)
+        
+    def _add_vignette(self, img: Image.Image):
+        """Add dark vignette to edges (noir style)."""
+        if img.size not in self._vignette_cache:
+            vignette = Image.new('L', img.size, 255)
+            draw = ImageDraw.Draw(vignette)
+
+            for i in range(100, 0, -1):
+                darkness = int(255 * (i / 100))
+                draw.rectangle(
+                    [i*2, i*2, img.width - i*2, img.height - i*2],
+                    fill=darkness
+                )
+
+            # Apply vignette
+            vignette = vignette.filter(ImageFilter.GaussianBlur(100))
+            self._vignette_cache[img.size] = vignette
+
+        vignette = self._vignette_cache[img.size]
+        img.putalpha(vignette)
+        img_rgb = Image.new('RGB', img.size, (0, 0, 0))
+        img_rgb.paste(img, mask=vignette)
+        img.paste(img_rgb)
+    
     def _generate_vignette_mask(self, size):
         """Generate high-quality vignette mask using NumPy."""
         width, height = size
