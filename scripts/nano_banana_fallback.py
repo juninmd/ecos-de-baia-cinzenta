@@ -133,6 +133,8 @@ class OllamaClient:
                 if response.status_code == 200:
                     print(f"✅ Successfully connected to Ollama at {host}")
                     return True
+                else:
+                    raise Exception(f"HTTP {response.status_code}")
             except Exception as e:
                 if attempt < max_retries - 1:
                     print(f"⚠️ Connection attempt {attempt + 1} failed, retrying in {retry_delay}s...")
