@@ -172,12 +172,23 @@ class OllamaClient:
         self.api_url = f"{self.host}/api/generate"
         print(f"🦙 Initializing Ollama Client ({self.host}) with model: {self.model}...")
 
-    def check_connection(self):
-        try:
-            requests.get(self.host, timeout=5)
-            return True
-        except:
-            return False
+    def check_connection(self, max_retries=3, retry_delay=2):
+        """Check if Ollama is accessible with retries"""
+        for attempt in range(max_retries):
+            try:
+                response = requests.get(self.host, timeout=5)
+                if response.status_code == 200:
+                    print(f"✅ Successfully connected to Ollama at {self.host}")
+                    return True
+                else:
+                    raise Exception(f"HTTP {response.status_code}")
+            except Exception as e:
+                if attempt < max_retries - 1:
+                    print(f"⚠️ Connection attempt {attempt + 1} failed, retrying in {retry_delay}s...")
+                    time.sleep(retry_delay)
+                else:
+                    print(f"❌ Failed to connect to Ollama after {max_retries} attempts: {e}")
+        return False
 
     def generate_prompt(self, chapter_text, active_characters, style):
         char_descriptions = []
@@ -212,10 +223,14 @@ class OllamaClient:
 
         try:
             print("... Sending request to Ollama...")
-            response = requests.post(self.api_url, json=payload, timeout=60)
+            # Increase timeout to 5 minutes for larger models and slower systems
+            response = requests.post(self.api_url, json=payload, timeout=300)
             response.raise_for_status()
             result = response.json()
             return result.get("response", "").strip()
+        except requests.exceptions.Timeout:
+            print(f"⚠️ Ollama request timed out after 300 seconds")
+            return None
         except Exception as e:
             print(f"⚠️ Ollama Generation Failed: {e}")
             return None
@@ -271,7 +286,8 @@ class ImageGenerator:
             "sampler_name": "Euler a"
         }
         try:
-            resp = requests.post(f"{self.api_url}/sdapi/v1/txt2img", json=payload, timeout=120)
+            # Increase timeout to 5 minutes for slower image generation systems
+            resp = requests.post(f"{self.api_url}/sdapi/v1/txt2img", json=payload, timeout=300)
             resp.raise_for_status()
             r = resp.json()
             image_b64 = r['images'][0]
@@ -281,6 +297,9 @@ class ImageGenerator:
                 f.write(base64.b64decode(image_b64))
             print(f"✅ Image saved to {output_path}")
             return True
+        except requests.exceptions.Timeout:
+            print(f"❌ Remote SD API request timed out after 300 seconds")
+            return False
         except Exception as e:
             print(f"❌ Remote Generation Failed: {e}")
             return False

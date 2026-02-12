@@ -15,6 +15,7 @@ on:
 jobs:
   generate-local-art:
     runs-on: ubuntu-latest
+    timeout-minutes: 60
     permissions:
       contents: write
       pull-requests: write
@@ -35,7 +36,10 @@ jobs:
           echo "Ollama is ready!"
 
       - name: Pull Llama2 Model
-        run: docker compose exec ollama ollama pull llama2
+        run: |
+          echo "Pulling llama2 model (this may take several minutes)..."
+          docker compose exec -T ollama ollama pull llama2
+        timeout-minutes: 15
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -55,6 +59,7 @@ jobs:
           python scripts/local_art_gen.py ${{ inputs.chapter }} \
             --style "${{ inputs.style }}" \
             --ollama-model llama2
+        timeout-minutes: 30
 
       - name: Config Git
         run: |
