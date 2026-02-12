@@ -467,7 +467,7 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 
 ![Aria](/personagens/aria.png)
 
-*   **Status:** [CORPO SINTÉTICO / NÚCLEO OFFLINE]
+*   **Status:** [CORPO SINTÉTICO / NÚCLEO HÍBRIDO]
 *   **Idade:** Aparenta 12 anos (Corpo Sintético).
 *   **Altura:** 1,50m
 *   **Porte Físico:** **Androide**. Estrutura sintética leve e resistente, modelada para se assemelhar a uma criança humana.
@@ -484,7 +484,7 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 *   **Origem:** Começou como uma IA/Alucinação. Ganhou corpo físico durante a "Ascensão" de Dante, utilizando bio-engenharia roubada.
 *   **Capítulo 109:** Revela sua face física (Bia Vargas) para Rangel e bloqueia os drones de Dante.
 *   **Capítulo 118:** Sacrifica sua integridade lógica para salvar os "Drenados" do choque neural na Usina Prometeu.
-*   **Atualidade:** Offline. O núcleo lógico está fragmentado ("Dívida Técnica Espiritual"), exigindo reparo complexo para separar sua identidade das memórias absorvidas.
+*   **Atualidade:** Online (Instável). Reinicializada por Valéria, mas operando com uma mistura perigosa de protocolos de combate e as memórias da doadora (Beatriz Vargas), causando confusão de identidade.
 
 ---
 
