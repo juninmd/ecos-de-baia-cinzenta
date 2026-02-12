@@ -15,8 +15,6 @@ import sys
 from pathlib import Path
 from typing import Dict, List, Optional
 
-import numpy as np
-
 
 class ChapterParser:
     """Extracts metadata and content from markdown chapters."""
