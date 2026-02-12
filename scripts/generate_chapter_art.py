@@ -284,7 +284,8 @@ class ImageGenerator:
             "sampler_name": "Euler a"
         }
         try:
-            resp = requests.post(f"{self.api_url}/sdapi/v1/txt2img", json=payload, timeout=120)
+            # Increase timeout to 5 minutes for slower image generation systems
+            resp = requests.post(f"{self.api_url}/sdapi/v1/txt2img", json=payload, timeout=300)
             resp.raise_for_status()
             r = resp.json()
             image_b64 = r['images'][0]
@@ -294,6 +295,9 @@ class ImageGenerator:
                 f.write(base64.b64decode(image_b64))
             print(f"✅ Image saved to {output_path}")
             return True
+        except requests.exceptions.Timeout:
+            print(f"❌ Remote SD API request timed out after 300 seconds")
+            return False
         except Exception as e:
             print(f"❌ Remote Generation Failed: {e}")
             return False
