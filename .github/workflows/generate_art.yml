@@ -35,9 +35,23 @@ jobs:
       - name: Install Ollama
         run: |
           curl -fsSL https://ollama.com/install.sh | sh
+          # Start Ollama in background
           ollama serve > ollama.log 2>&1 &
-          sleep 10
+          # Wait for Ollama to be ready with proper timeout
+          echo "Waiting for Ollama to start..."
+          timeout 60s bash -c 'until curl -s http://localhost:11434 > /dev/null; do sleep 2; done' || {
+            echo "Ollama failed to start within 60 seconds"
+            cat ollama.log
+            exit 1
+          }
+          echo "Ollama is ready!"
+        timeout-minutes: 3
+
+      - name: Pull Ollama Model
+        run: |
+          echo "Pulling tinyllama model (this may take several minutes)..."
           ollama pull tinyllama
+        timeout-minutes: 15
 
       - name: Generate Art
         env:
@@ -57,6 +71,7 @@ jobs:
 
           echo "Processing chapter: $CHAPTER"
           python3 scripts/generate_chapter_art.py --chapter "$CHAPTER" --ollama-model tinyllama
+        timeout-minutes: 30
 
       - name: Commit and Push Changes
         run: |

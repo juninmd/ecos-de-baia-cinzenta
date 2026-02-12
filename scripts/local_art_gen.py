@@ -156,6 +156,23 @@ class OllamaClient:
         self.api_url = "http://localhost:11434/api/generate"
         print(f"🦙 Initializing Ollama Client (Model: {self.model})...")
 
+    def check_connection(self, max_retries=3, retry_delay=2):
+        """Check if Ollama is accessible with retries"""
+        host = "http://localhost:11434"
+        for attempt in range(max_retries):
+            try:
+                response = requests.get(host, timeout=5)
+                if response.status_code == 200:
+                    print(f"✅ Successfully connected to Ollama at {host}")
+                    return True
+            except Exception as e:
+                if attempt < max_retries - 1:
+                    print(f"⚠️ Connection attempt {attempt + 1} failed, retrying in {retry_delay}s...")
+                    time.sleep(retry_delay)
+                else:
+                    print(f"❌ Failed to connect to Ollama after {max_retries} attempts: {e}")
+        return False
+
     def extract_scene(self, chapter_text, active_characters):
         char_names = ", ".join([c['name'] for c in active_characters])
 
@@ -168,14 +185,19 @@ class OllamaClient:
         )
 
         try:
+            # Increase timeout to 5 minutes for larger models and slower systems
             response = requests.post(self.api_url, json={
                 "model": self.model,
                 "prompt": prompt,
                 "stream": False
-            })
+            }, timeout=300)
             response.raise_for_status()
             result = response.json()
             return result.get("response", "").strip()
+        except requests.exceptions.Timeout:
+            print(f"⚠️ Ollama request timed out after 300 seconds")
+            print("Using fallback prompt instead.")
+            return "Dark dystopian city scene, high contrast, cinematic lighting."
         except Exception as e:
             print(f"⚠️ Ollama Text Extraction Failed: {e}")
             print("Make sure Ollama is running (ollama serve) and the model is pulled.")
@@ -270,6 +292,11 @@ def main():
     try:
         # Initialize Engines
         text_engine = OllamaClient(model=args.ollama_model)
+        
+        # Check Ollama connection before proceeding
+        if not text_engine.check_connection():
+            print("⚠️ Ollama is not available. Using fallback prompt generation.")
+        
         image_engine = LocalDiffusionClient()
 
         db = CharacterDatabase(char_file)
