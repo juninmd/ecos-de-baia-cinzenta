@@ -37,6 +37,7 @@
 *   **Capítulo 105:** Retorna à Delegacia Central. Testemunha a "Ascensão" de Dante enquanto lida com a falha mecânica de suas órteses.
 *   **Capítulo 106:** Tenta reparar seu exoesqueleto sem sucesso. Intervém para impedir que Dante use força letal contra os manifestantes "Desconectados", descobrindo a existência da ameaça do "Silêncio".
 *   **Capítulo 107:** Tem seu exoesqueleto "consertado" por Dante com precisão cirúrgica e dolorosa. Junta-se à operação de "Sanitização" no porto para mitigar danos civis.
+*   **Atualidade:** Liderando a fuga pelos esgotos profundos (Nível 5). Fisicamente exausto e mentalmente torturado pela voz de Bia vinda de Aria, mas focado em salvar o grupo.
 
 ---
 
@@ -64,7 +65,7 @@
 *   **Pré-Série:** Prodígio. Aparência: "Geek" limpa, roupas corporativas padrão.
 *   **Partes I-XII:** A Hacker Rebelde. Aparência: Cabelo neon (muda de cor), roupas cyberpunk, pele pálida.
 *   **Parte XIII:** O Sacrifício. Aparência: Veias prateadas da "Praga de Ferro" começam a aparecer no pescoço e braços. Olhos tornam-se inteiramente prateados.
-*   **Atualidade:** Atuando como suporte técnico e médico improvisado no "Fliperama". Lutando para manter Aria e Rangel funcionais com recursos limitados.
+*   **Atualidade:** Em fuga pelos esgotos profundos após a queda do esconderijo "O Fliperama". Tenta gerenciar a instabilidade de Aria enquanto sobrevive ao ambiente hostil.
 
 ---
 
@@ -419,7 +420,7 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 *   **Capítulo 105:** Testemunha o retorno de Dante, que reativa sua máquina de escrever elétrica e os sistemas da delegacia.
 *   **Capítulo 106:** Torna-se o braço direito executivo de Dante, sobrecarregado pela velocidade de processamento do novo Comandante.
 *   **Capítulo 110:** Abandona o distintivo e foge para o subsolo com a resistência. Torna-se fugitivo procurado pela Aetherna.
-*   **Atualidade:** Estabilizado após cirurgia de emergência no "Fliperama". Inconsciente, mas recebendo antibióticos para tratar a sepse.
+*   **Atualidade:** Sendo evacuado às pressas pelos esgotos profundos. Consciente, mas fraco e delirante após a cirurgia.
 
 ---
 
@@ -484,7 +485,7 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 *   **Origem:** Começou como uma IA/Alucinação. Ganhou corpo físico durante a "Ascensão" de Dante, utilizando bio-engenharia roubada.
 *   **Capítulo 109:** Revela sua face física (Bia Vargas) para Rangel e bloqueia os drones de Dante.
 *   **Capítulo 118:** Sacrifica sua integridade lógica para salvar os "Drenados" do choque neural na Usina Prometeu.
-*   **Atualidade:** Online (Instável). Reinicializada por Valéria, mas operando com uma mistura perigosa de protocolos de combate e as memórias da doadora (Beatriz Vargas), causando confusão de identidade.
+*   **Atualidade:** Online (Crítica). A reinicialização fundiu os protocolos de combate com as memórias de Bia Vargas, fazendo-a agir e falar como a ex-namorada morta de Gabo, o que causa tensão extrema no grupo.
 
 ---
 
