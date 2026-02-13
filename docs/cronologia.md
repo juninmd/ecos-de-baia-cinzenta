@@ -70,17 +70,18 @@ A era da reconstrução autoritária.
 *   **Capítulo 123 (Protocolo de Sombra):** Gabo emerge no Distrito 4 em busca de suprimentos médicos. Enfrenta o caos do apagão e negocia com Vasco, um traficante de implantes, garantindo remédios e peças para Aria. Confronta saqueadores na saída, utilizando violência calculada e racionamento de munição.
 *   **Capítulo 124 (Carne e Cobre):** Gabo retorna ao esconderijo "O Fliperama" através dos esgotos. Ele e Valéria realizam um procedimento cirúrgico de emergência para drenar a infecção de Rangel, estabilizando-o. Valéria diagnostica Aria com "Dívida Técnica" espiritual.
 *   **Capítulo 125 (Ressonância):** Gabo lida com a abstinência e o silêncio. Valéria reinicializa Aria, que acorda com memórias fragmentadas de Bia Vargas. O silêncio da cidade é quebrado por sirenes de ataque aéreo analógicas.
+*   **Capítulo 126 (Frequência Fantasma):** As sirenes analógicas e morteiros forçam o grupo a evacuar "O Fliperama". Aria manifesta personalidade de Bia Vargas, causando tortura psicológica em Gabo. Eles fogem para os "Túneis Profundos" (Nível 5).
 
 ---
 
-## 📍 Status Atual dos Personagens (Pós-Capítulo 125)
+## 📍 Status Atual dos Personagens (Pós-Capítulo 126)
 
 | Personagem | Status | Localização | Estado Físico/Mental |
 | :--- | :--- | :--- | :--- |
-| **Gabo** | Líder / Combatente | O Fliperama (Esgotos) | Alerta. Lidando com abstinência. Preparando-se para combate. |
-| **Valéria** | Hacker / Médica Improvisada | O Fliperama (Esgotos) | Focada em reparar Aria. Monitorando ameaças externas. |
-| **Aria** | Online (Instável) | O Fliperama (Esgotos) | Reinicializada. Memórias de combate e personalidade de Bia misturadas. |
-| **Rangel** | Estabilizado (Grave) | O Fliperama (Esgotos) | Inconsciente. Infecção drenada e medicada, mas ainda febril. |
+| **Gabo** | Líder / Combatente | Túneis Profundos (Nível 5) | Alerta. Abalado psicologicamente pela voz de Bia. Dor física usada como foco. |
+| **Valéria** | Hacker / Suporte | Túneis Profundos (Nível 5) | Exausta. Tentando manter Aria funcional e carregar suprimentos. |
+| **Aria** | Glitch de Identidade | Túneis Profundos (Nível 5) | Instável. Alternando entre protocolos de combate e personalidade de Bia Vargas. |
+| **Rangel** | Crítico / Móvel | Túneis Profundos (Nível 5) | Consciente mas delirante. Carregado por Gabo. Risco de reabertura de suturas. |
 | **Dante** | Derrotado / Humano | Usina Prometeu (Ruínas) | Abandonado nos escombros. Vulnerável e desconectado da rede. |
 | **Elena** | Civil / Observadora | Delegacia Central (Provável) | Separada do grupo principal. Provável refém/peão de Dante. |
 | **Marco** | Drone Biológico | Delegacia Central | Lobotomizado. Sem comando central (Dante offline). |
