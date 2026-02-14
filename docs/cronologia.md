@@ -71,17 +71,18 @@ A era da reconstrução autoritária.
 *   **Capítulo 124 (Carne e Cobre):** Gabo retorna ao esconderijo "O Fliperama" através dos esgotos. Ele e Valéria realizam um procedimento cirúrgico de emergência para drenar a infecção de Rangel, estabilizando-o. Valéria diagnostica Aria com "Dívida Técnica" espiritual.
 *   **Capítulo 125 (Ressonância):** Gabo lida com a abstinência e o silêncio. Valéria reinicializa Aria, que acorda com memórias fragmentadas de Bia Vargas. O silêncio da cidade é quebrado por sirenes de ataque aéreo analógicas.
 *   **Capítulo 126 (Frequência Fantasma):** As sirenes analógicas e morteiros forçam o grupo a evacuar "O Fliperama". Aria manifesta personalidade de Bia Vargas, causando tortura psicológica em Gabo. Eles fogem para os "Túneis Profundos" (Nível 5).
+*   **Capítulo 127 (Catedrais de Pedra):** O grupo alcança as cisternas monumentais do Nível 5. O ambiente antigo e opressivo isola tecnologicamente Valéria. Gabo luta contra a exaustão física e o fantasma de Bia manifestado em Aria. O capítulo termina com o grupo sendo cercado por predadores ("cães") na escuridão.
 
 ---
 
-## 📍 Status Atual dos Personagens (Pós-Capítulo 126)
+## 📍 Status Atual dos Personagens (Pós-Capítulo 127)
 
 | Personagem | Status | Localização | Estado Físico/Mental |
 | :--- | :--- | :--- | :--- |
-| **Gabo** | Líder / Combatente | Túneis Profundos (Nível 5) | Alerta. Abalado psicologicamente pela voz de Bia. Dor física usada como foco. |
-| **Valéria** | Hacker / Suporte | Túneis Profundos (Nível 5) | Exausta. Tentando manter Aria funcional e carregar suprimentos. |
-| **Aria** | Glitch de Identidade | Túneis Profundos (Nível 5) | Instável. Alternando entre protocolos de combate e personalidade de Bia Vargas. |
-| **Rangel** | Crítico / Móvel | Túneis Profundos (Nível 5) | Consciente mas delirante. Carregado por Gabo. Risco de reabertura de suturas. |
+| **Gabo** | Líder / Combatente | Catedrais de Pedra (Nível 5) | Exausto. Preparando-se para combate com pouca munição. |
+| **Valéria** | Hacker / Suporte | Catedrais de Pedra (Nível 5) | Cega digitalmente (sem sonar). Armada com pistola compacta. |
+| **Aria** | Glitch de Identidade | Catedrais de Pedra (Nível 5) | Detectando ameaças biológicas com precisão, mas mantendo a persona de Bia Vargas. |
+| **Rangel** | Crítico / Inconsciente | Catedrais de Pedra (Nível 5) | Febril e incapaz de andar. Peso morto sendo carregado. |
 | **Dante** | Derrotado / Humano | Usina Prometeu (Ruínas) | Abandonado nos escombros. Vulnerável e desconectado da rede. |
 | **Elena** | Civil / Observadora | Delegacia Central (Provável) | Separada do grupo principal. Provável refém/peão de Dante. |
 | **Marco** | Drone Biológico | Delegacia Central | Lobotomizado. Sem comando central (Dante offline). |
