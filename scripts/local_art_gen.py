@@ -31,6 +31,9 @@ class CharacterDatabase:
 
         sections = re.split(r'\n## ', content)
 
+        # Optimization: Define keys once outside the loops
+        desc_keys = ("Porte Físico:", "Vestuário:", "Marcas Distintivas:", "Cabelo:", "Olhos:")
+
         for section in sections:
             if not section.strip() or section.startswith('# '):
                 continue
@@ -44,7 +47,7 @@ class CharacterDatabase:
 
             description = []
             for line in lines:
-                if any(key in line for key in ["Porte Físico:", "Vestuário:", "Marcas Distintivas:", "Cabelo:", "Olhos:"]):
+                if any(key in line for key in desc_keys):
                     description.append(line.replace('*', '').strip())
 
             full_desc = " ".join(description)
