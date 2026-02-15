@@ -1,4 +1,6 @@
-# Metadados
+---
+image: /capitulo_122.jpg
+---# Metadados
 - **Título:** Dívida Técnica
 - **Data In-Game:** 23 de Novembro, 03:45
 - **Localização:** O Fliperama (Esgotos / Subnível do Distrito Industrial)
