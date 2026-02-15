@@ -72,17 +72,18 @@ A era da reconstrução autoritária.
 *   **Capítulo 125 (Ressonância):** Gabo lida com a abstinência e o silêncio. Valéria reinicializa Aria, que acorda com memórias fragmentadas de Bia Vargas. O silêncio da cidade é quebrado por sirenes de ataque aéreo analógicas.
 *   **Capítulo 126 (Frequência Fantasma):** As sirenes analógicas e morteiros forçam o grupo a evacuar "O Fliperama". Aria manifesta personalidade de Bia Vargas, causando tortura psicológica em Gabo. Eles fogem para os "Túneis Profundos" (Nível 5).
 *   **Capítulo 127 (Catedrais de Pedra):** O grupo alcança as cisternas monumentais do Nível 5. O ambiente antigo e opressivo isola tecnologicamente Valéria. Gabo luta contra a exaustão física e o fantasma de Bia manifestado em Aria. O capítulo termina com o grupo sendo cercado por predadores ("cães") na escuridão.
+*   **Capítulo 128 (O Ventre da Besta):** O grupo luta contra uma matilha de "Quimeras" (cães ciborgues) nos esgotos. Gabo usa a dor física para resistir aos jogos psicológicos de Aria (Bia) e protege o grupo. Eles escapam para uma "Estação de Bombeamento" bio-mecânica, descobrindo que a infraestrutura da cidade bombeia um fluido semelhante a sangue.
 
 ---
 
-## 📍 Status Atual dos Personagens (Pós-Capítulo 127)
+## 📍 Status Atual dos Personagens (Pós-Capítulo 128)
 
 | Personagem | Status | Localização | Estado Físico/Mental |
 | :--- | :--- | :--- | :--- |
-| **Gabo** | Líder / Combatente | Catedrais de Pedra (Nível 5) | Exausto. Preparando-se para combate com pouca munição. |
-| **Valéria** | Hacker / Suporte | Catedrais de Pedra (Nível 5) | Cega digitalmente (sem sonar). Armada com pistola compacta. |
-| **Aria** | Glitch de Identidade | Catedrais de Pedra (Nível 5) | Detectando ameaças biológicas com precisão, mas mantendo a persona de Bia Vargas. |
-| **Rangel** | Crítico / Inconsciente | Catedrais de Pedra (Nível 5) | Febril e incapaz de andar. Peso morto sendo carregado. |
+| **Gabo** | Líder / Combatente | Estação de Bombeamento (Nível 5) | Ferido (mordida no braço). Munição crítica. Focado pela dor. |
+| **Valéria** | Hacker / Suporte | Estação de Bombeamento (Nível 5) | Cega digitalmente. Dependente de visão natural. |
+| **Aria** | Glitch de Identidade | Estação de Bombeamento (Nível 5) | Alternando entre IA tática e persona sádica de Bia Vargas. |
+| **Rangel** | Crítico / Inconsciente | Estação de Bombeamento (Nível 5) | Febril. Transportado como carga. |
 | **Dante** | Derrotado / Humano | Usina Prometeu (Ruínas) | Abandonado nos escombros. Vulnerável e desconectado da rede. |
 | **Elena** | Civil / Observadora | Delegacia Central (Provável) | Separada do grupo principal. Provável refém/peão de Dante. |
 | **Marco** | Drone Biológico | Delegacia Central | Lobotomizado. Sem comando central (Dante offline). |
