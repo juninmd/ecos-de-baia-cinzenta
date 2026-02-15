@@ -245,6 +245,25 @@ module.exports = {
               { text: 'Capítulo 114: A Linha de Montagem', link: '/capitulo-114' },
             ]
           },
+          {
+            text: 'Parte XVI: Catedrais de Pedra',
+            collapsed: false,
+            items: [
+              { text: 'Capítulo 115: O Arquiteto da Carne', link: '/capitulo-115' },
+              { text: 'Capítulo 116: Pressão Crítica', link: '/capitulo-116' },
+              { text: 'Capítulo 117: Zero Absoluto', link: '/capitulo-117' },
+              { text: 'Capítulo 118: O Colapso da Onda', link: '/capitulo-118' },
+              { text: 'Capítulo 119: Cinzas Frias', link: '/capitulo-119' },
+              { text: 'Capítulo 120: O Silêncio de Aetherna', link: '/capitulo-120' },
+              { text: 'Capítulo 121: Fios Desencapados', link: '/capitulo-121' },
+              { text: 'Capítulo 122: Dívida Técnica', link: '/capitulo-122' },
+              { text: 'Capítulo 123: Protocolo de Sombra', link: '/capitulo-123' },
+              { text: 'Capítulo 124: Carne e Cobre', link: '/capitulo-124' },
+              { text: 'Capítulo 125: Ressonância', link: '/capitulo-125' },
+              { text: 'Capítulo 126: Frequência Fantasma', link: '/capitulo-126' },
+              { text: 'Capítulo 127: Catedrais de Pedra', link: '/capitulo-127' },
+            ]
+          },
         ]
       },
       {
