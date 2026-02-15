@@ -22,6 +22,8 @@ jobs:
     steps:
       - name: Checkout Code
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -61,8 +63,18 @@ jobs:
         run: |
           CHAPTER="${{ github.event.inputs.chapter }}"
           if [ -z "$CHAPTER" ]; then
-            # Attempt to find changed file
-            CHAPTER=$(git diff --name-only HEAD^ HEAD | grep 'capitulo-.*.md' | head -n 1 || echo "")
+            # Attempt to find changed chapter file for push events
+            BEFORE_SHA="${{ github.event.before }}"
+            CURRENT_SHA="${{ github.sha }}"
+
+            if [ -n "$BEFORE_SHA" ] && [ "$BEFORE_SHA" != "0000000000000000000000000000000000000000" ]; then
+              CHAPTER=$(git diff --name-only "$BEFORE_SHA" "$CURRENT_SHA" | rg 'capitulo-.*\.md' | head -n 1 || true)
+            fi
+
+            # Fallback for initial commits or when no previous SHA is available
+            if [ -z "$CHAPTER" ]; then
+              CHAPTER=$(git show --name-only --pretty="" "$CURRENT_SHA" | rg 'capitulo-.*\.md' | head -n 1 || true)
+            fi
           fi
 
           if [ -z "$CHAPTER" ]; then
