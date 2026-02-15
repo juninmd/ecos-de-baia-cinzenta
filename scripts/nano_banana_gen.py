@@ -186,7 +186,7 @@ class NanoBanana:
         self.client_image = genai.Client(api_key=key_image)
         
         # Models
-        self.text_model_name = 'gemini-2.5-flash'
+        self.text_model_name = os.environ.get('NANO_BANANA_TEXT_MODEL', 'gemini-2.5-flash')
         self.generation_model_name = 'gemini-2.5-flash-image' 
         
         # Cost Tracker
@@ -208,18 +208,24 @@ class NanoBanana:
 
     def extract_scene(self, chapter_text, active_characters):
         """Uses Gemini Text to pick a scene and prompt"""
-        char_names = ", ".join([c['name'] for c in active_characters])
+        char_names = ", ".join([c['name'] for c in active_characters]) or "sem personagens nomeados"
+        character_bible = "\n".join(
+            f"- {c['name']}: {c['description'][:240]}" for c in active_characters[:3]
+        )
         
         prompt = (
-            f"Analyze the following book chapter text.\n"
-            f"Characters present: {char_names}\n\n"
-            f"TASK:\n"
-            f"1. Select the most visually striking scene.\n"
-            f"2. Write a detailed image generation prompt for this scene. "
-            f"Describe the setting, lighting, action, and atmosphere. "
-            f"Do NOT describe the main character's face in detail (we have their photo), but DO describe their pose and expression. "
-            f"Focus on the ACTION and ENVIRONMENT.\n\n"
-            f"CHAPTER TEXT:\n{chapter_text[:1000]}..."
+            "You are the art director of a cyberpunk noir bestseller cover pipeline.\n"
+            "Produce a prompt that feels close to Nano Banana quality: cinematic, emotional, consistent with canon.\n\n"
+            f"CHARACTERS IN SCENE: {char_names}\n"
+            f"CANON VISUAL TRAITS (mandatory):\n{character_bible}\n\n"
+            "TASK:\n"
+            "1. Select ONE scene with the highest dramatic tension and visual storytelling value.\n"
+            "2. Keep character appearance coherent with canon traits above.\n"
+            "3. Write a single production-ready prompt in English, max 170 words.\n"
+            "4. Include: camera framing, lens feeling, lighting design, weather, props, mood, action beat.\n"
+            "5. No dialogue, no bullet list, no meta commentary, no NSFW.\n"
+            "6. End with style tags: 'ultra cinematic, noir cyberpunk, volumetric rain, film grain, masterpiece'.\n\n"
+            f"CHAPTER TEXT:\n{chapter_text[:1400]}..."
         )
         
         response = self.client_text.models.generate_content(

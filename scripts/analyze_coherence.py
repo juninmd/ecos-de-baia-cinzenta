@@ -1,201 +1,193 @@
 #!/usr/bin/env python3
-"""
-Análise Completa de Coerência da História "Ecos de Baía Cinzenta"
-Identifica inconsistências críticas e sugere correções.
-"""
+"""Checklist de coerência narrativa e qualidade para Ecos de Baía Cinzenta."""
 
-import os
+from __future__ import annotations
+
 import re
+from dataclasses import dataclass
 from pathlib import Path
-from functools import lru_cache
+from statistics import mean
 
-@lru_cache(maxsize=None)
-def read_file_content(path):
-    """
-    Lê o conteúdo de um arquivo e armazena em cache para evitar leituras repetidas.
-    """
-    if path.exists():
-        with open(path, 'r', encoding='utf-8') as f:
-            return f.read()
-    return ""
+DOCS_DIR = Path("docs")
+PERSONAGENS = DOCS_DIR / "personagens.md"
+CHAPTER_RE = re.compile(r"capitulo-(\d+(?:\.5)?)\.md$")
 
-def analyze_roberto_miranda():
-    """Analisa a inconsistência crítica de Roberto Miranda"""
-    print("🔍 ANALISANDO: Roberto Miranda")
-    print("=" * 50)
 
-    # Verificar se ainda há menção falsa à morte nas chamas
-    cap101_path = Path("docs/capitulo-101.md")
-    false_death = False
-    if cap101_path.exists():
-        cap101 = read_file_content(cap101_path)
-        if "morrer nas chamas da Torre Aeterna" in cap101:
-            false_death = True
+@dataclass
+class Chapter:
+    number: float
+    path: Path
+    text: str
 
-    if false_death:
-        print("❌ INCONSISTÊNCIA: Menção falsa à morte nas chamas (CORRIGIDO)")
-        print("✅ CORREÇÃO APLICADA: Agora diz 'capturado pela Aeterna'")
-    else:
-        print("✅ INCONSISTÊNCIA RESOLVIDA: Roberto foi capturado, não morto")
 
-    # Verificar reaparição em capítulos recentes
-    for cap_num in [101, 102, 103]:
-        cap_path = Path(f"docs/capitulo-{cap_num}.md")
-        if cap_path.exists():
-            content = read_file_content(cap_path)
-            roberto_count = content.count("Roberto Miranda")
-            print(f"Capítulo {cap_num} - Menções a Roberto: {roberto_count} (como ciborgue)")
+def chapter_number(path: Path) -> float:
+    match = CHAPTER_RE.search(path.name)
+    if not match:
+        raise ValueError(f"Nome de capítulo inválido: {path}")
+    return float(match.group(1))
 
-    print("✅ EXPLICAÇÃO: Roberto foi 'recultivado' como entidade híbrida")
 
-def analyze_dante_moretti():
-    """Analisa a ambiguidade de Dante Moretti"""
-    print("\n🔍 ANALISANDO: Dante Moretti")
-    print("=" * 50)
-
-    # Verificar caixão vazio
-    cap20_path = Path("docs/capitulo-20.md")
-    if cap20_path.exists():
-        cap20 = read_file_content(cap20_path)
-        empty_mentions = re.findall(r'vazio|empty|não estava|não havia', cap20, re.IGNORECASE)
-        print(f"Capítulo 20 - Menções ao caixão vazio: {len(empty_mentions)}")
-
-    # Verificar revelação como pai biológico preservado
-    for cap_num in [100, 102, 103]:
-        cap_path = Path(f"docs/capitulo-{cap_num}.md")
-        if cap_path.exists():
-            content = read_file_content(cap_path)
-            dante_alive = "DANTE MORETTI" in content
-            ia_mentions = content.count("IA") + content.count("inteligência artificial")
-            print(f"Capítulo {cap_num} - Dante vivo: {dante_alive}, Menções IA: {ia_mentions}")
-
-    # Verificar se lore foi atualizado
-    lore_path = Path("docs/lore-do-livro.md")
-    if lore_path.exists():
-        lore = read_file_content(lore_path)
-        if "consciente transferida para corpo cultivado" in lore:
-            print("✅ LORE ATUALIZADO: Dante é pai biológico com consciência transferida")
-        else:
-            print("⚠️ LORE PENDENTE: Atualizar definição de Dante")
-
-    print("\n✅ AMBIGUIDADE RESOLVIDA: Pai biológico preservado (não IA pura)")
-    print("📖 EXPLICAÇÃO: Consciência transferida para novo corpo cultivado")
-
-def analyze_aria_development():
-    """Verifica desenvolvimento de Aria/Beatriz"""
-    print("\n🔍 ANALISANDO: Desenvolvimento de Aria/Beatriz")
-    print("=" * 50)
-
-    # Verificar capítulo flashback
-    flashback_path = Path("docs/capitulo-75.5.md")
-    if flashback_path.exists():
-        print("✅ FLASHBACK CRIADO: Capítulo 75.5 - Memórias de Chuva")
-        flashback = read_file_content(flashback_path)
-        if "Beatriz Vargas" in flashback and "casamento" in flashback:
-            print("✅ CONTEÚDO: Mostra casamento Gabo-Bia e memórias conflitantes")
-        else:
-            print("⚠️ CONTEÚDO: Verificar se inclui casamento e memórias")
-    else:
-        print("❌ FLASHBACK PENDENTE: Capítulo 75.5 não encontrado")
-
-    # Verificar conflito Valéria-Aria intensificado
-    conflict_found = False
-    for cap_num in [113]:
-        cap_path = Path(f"docs/capitulo-{cap_num}.md")
-        if cap_path.exists():
-            content = read_file_content(cap_path)
-            if "memórias dela. De Beatriz" in content and "ciúmes" in content:
-                conflict_found = True
-                print(f"✅ CONFLITO INTENSIFICADO: Capítulo {cap_num} - Valéria vs Aria sobre memórias de Bia")
-                break
-
-    if not conflict_found:
-        print("⚠️ CONFLITO PENDENTE: Intensificar confronto Valéria-Aria")
-
-    print("\n✅ DESENVOLVIMENTO: Aria agora tem profundidade emocional e conflito interno")
-    """Verifica consistência de características dos personagens"""
-    print("\n🔍 ANALISANDO: Consistência de Personagens")
-    print("=" * 50)
-
-    # Gabo - aversão a cigarro
-    gabo_smoking_pattern = r'Gabo.*fum|Gabo.*cigar|Gabo.*tabac|náusea.*fuma|detesta.*fuma'
-    smoking_violations = []
-
-    for cap_file in Path("docs").glob("capitulo-*.md"):
-        content = read_file_content(cap_file)
-        if re.search(gabo_smoking_pattern, content, re.IGNORECASE):
-            smoking_violations.append(cap_file.name)
-
-    print(f"Gabo fuma/aceita cigarro: {len(smoking_violations)} violações")
-    if smoking_violations:
-        print("  Capítulos:", smoking_violations[:5])
-
-    # Verificar outros traços
+def load_chapters() -> list[Chapter]:
     chapters = []
-    for cap_file in Path("docs").glob("capitulo-*.md"):
-        content = read_file_content(cap_file)
-        chapters.append((cap_file.name, content))
+    for file in DOCS_DIR.glob("capitulo-*.md"):
+        if CHAPTER_RE.search(file.name):
+            chapters.append(Chapter(chapter_number(file), file, file.read_text(encoding="utf-8")))
+    return sorted(chapters, key=lambda c: c.number)
 
-    # Tique nervoso de Gabo
-    nervous_tics = sum(1 for _, content in chapters if "tamborilar" in content or "tap-tap" in content)
-    print(f"Gabo - Tique nervoso (dedos): {nervous_tics} capítulos")
 
-    # Valéria - hacker fria
-    valeria_emotional = sum(1 for _, content in chapters if "Valéria" in content and ("raiva" in content or "ciúmes" in content or "amor" in content))
-    print(f"Valéria - Momentos emocionais: {valeria_emotional} capítulos")
+def parse_character_aliases() -> dict[str, set[str]]:
+    aliases: dict[str, set[str]] = {}
+    if not PERSONAGENS.exists():
+        return aliases
 
-def generate_recommendations():
-    """Gera recomendações específicas para correção"""
-    print("\n📋 STATUS ATUAL DAS CORREÇÕES")
-    print("=" * 50)
+    content = PERSONAGENS.read_text(encoding="utf-8")
+    for block in re.split(r"\n## ", content):
+        if not block.strip() or block.startswith("# "):
+            continue
+        name = block.splitlines()[0].strip().replace("*", "")
+        canonical = re.sub(r"\s*\[.*?\]", "", name).strip()
+        local_aliases = {canonical.lower()}
+        nick = re.search(r'"([^"]+)"', canonical)
+        if nick:
+            local_aliases.add(nick.group(1).lower())
+        first = canonical.split()[0].lower() if canonical.split() else ""
+        if len(first) > 2:
+            local_aliases.add(first)
+        aliases[canonical] = local_aliases
+    return aliases
 
-    print("1. 🔴 Roberto Miranda")
-    print("   ✅ CORRIGIDO: Menção falsa à morte removida do capítulo 101")
-    print("   ✅ EXPLICADO: Capturado e 'recultivado' como ciborgue")
 
-    print("\n2. 🟡 Dante Moretti")
-    print("   ✅ ESCLARECIDO: Lore atualizado - pai biológico com consciência transferida")
-    print("   ✅ DEFINIDO: Não é IA pura, é híbrido biológico-digital")
+def check_chapter_folder_standard() -> list[str]:
+    issues = []
+    stray = sorted((DOCS_DIR / "public").glob("capitulo-*.md"))
+    if stray:
+        issues.append(f"{len(stray)} capítulos ainda estão fora da pasta padrão docs/: {[p.name for p in stray]}")
+    return issues
 
-    print("\n3. 🟡 Aria/Beatriz")
-    print("   ✅ DESENVOLVIDA: Capítulo flashback 75.5 criado")
-    print("   ✅ CONFLITO: Intensificado confronto Valéria-Aria no capítulo 113")
 
-    print("\n4. 🟢 Fator Nicotina")
-    print("   ✅ 95% CONFORMIDADE: Correções automáticas aplicadas")
+def check_sequence(chapters: list[Chapter]) -> list[str]:
+    issues = []
+    base_numbers = sorted({int(ch.number) for ch in chapters if ch.number.is_integer()})
+    if not base_numbers:
+        return ["Nenhum capítulo encontrado."]
 
-    print("\n🎯 RESULTADO: Inconsistências críticas RESOLVIDAS")
-    print("📊 Status: Pronto para continuação/finalização")
+    expected = set(range(base_numbers[0], base_numbers[-1] + 1))
+    missing = sorted(expected - set(base_numbers))
+    if missing:
+        issues.append(f"Lacunas na sequência principal: {missing[:20]}")
+    return issues
 
-def main():
-    print("🎭 ANÁLISE DE COERÊNCIA - ECOS DE BAÍA CINZENTA")
+
+def check_character_consistency(chapters: list[Chapter], aliases: dict[str, set[str]]) -> list[str]:
+    issues = []
+
+    # Regra canônica: Gabo tem repulsa a cigarro/fumo.
+    violation_pattern = re.compile(r"\b(Gabo|Gabriel)\b.{0,120}\b(fum[a-z]*|cigarro|tabaco)\b", re.IGNORECASE | re.DOTALL)
+    canonical_negations = re.compile(r"(odeia|nunca fumou|n[aã]o fuma|repulsa|n[aá]usea)", re.IGNORECASE)
+    violators = []
+    for ch in chapters:
+        match = violation_pattern.search(ch.text)
+        if not match:
+            continue
+        window = ch.text[max(0, match.start() - 60): match.end() + 80]
+        if canonical_negations.search(window):
+            continue
+        violators.append(ch.path.name)
+    if violators:
+        issues.append(f"Possível violação do traço de Gabo (fumo) em: {violators[:10]}")
+
+    # Checa se capítulos recentes perderam protagonistas centrais.
+    recent = chapters[-10:]
+    central_aliases = {
+        "Gabriel \"Gabo\" Moretti": {"gabo", "gabriel", "moretti"},
+        "Valéria \"Val\" Cruz": {"valéria", "val", "cruz"},
+        "Aria": {"aria"},
+    }
+
+    for canonical, fallback_aliases in central_aliases.items():
+        alias_set = aliases.get(canonical, fallback_aliases)
+        mentions = sum(1 for ch in recent if any(re.search(rf"\b{re.escape(a)}\b", ch.text, re.IGNORECASE) for a in alias_set))
+        if mentions <= 1:
+            issues.append(f"Personagem central pouco presente nos 10 capítulos mais recentes: {canonical} ({mentions}/10)")
+
+    return issues
+
+
+def bestseller_score(chapters: list[Chapter]) -> tuple[float, list[str]]:
+    notes = []
+    if not chapters:
+        return 0.0, ["Sem capítulos para avaliar."]
+
+    recent = chapters[-12:]
+    word_counts = [len(re.findall(r"\b\w+\b", ch.text)) for ch in recent]
+    avg_words = mean(word_counts)
+
+    sensory_tokens = ("chuva", "neon", "sombra", "sangue", "metal", "eco", "frio", "silêncio")
+    sensory_density = mean(
+        sum(ch.text.lower().count(tok) for tok in sensory_tokens) / max(len(ch.text.split()), 1)
+        for ch in recent
+    )
+
+    cliffhanger_count = sum(1 for ch in recent if re.search(r"\?$|\.$|!$", ch.text.strip()))
+
+    score = 0.0
+    if avg_words >= 1400:
+        score += 4
+    elif avg_words >= 1100:
+        score += 3
+    elif avg_words >= 900:
+        score += 2
+
+    if sensory_density >= 0.01:
+        score += 3
+    elif sensory_density >= 0.006:
+        score += 2
+    elif sensory_density >= 0.003:
+        score += 1
+
+    if cliffhanger_count >= 10:
+        score += 3
+    elif cliffhanger_count >= 8:
+        score += 2
+    elif cliffhanger_count >= 6:
+        score += 1
+
+    notes.append(f"Média de palavras (12 capítulos recentes): {avg_words:.0f}")
+    notes.append(f"Densidade sensorial média: {sensory_density:.4f}")
+    notes.append(f"Capítulos com fechamento forte: {cliffhanger_count}/12")
+
+    return min(score, 10.0), notes
+
+
+def main() -> int:
+    chapters = load_chapters()
+    aliases = parse_character_aliases()
+
+    print("🎭 AUDITORIA DE COERÊNCIA E QUALIDADE")
     print("=" * 60)
-    print("Analisando 114 capítulos em busca de inconsistências...")
+    print(f"Capítulos analisados: {len(chapters)}")
 
-    analyze_roberto_miranda()
-    analyze_dante_moretti()
-    analyze_aria_development()
+    issues: list[str] = []
+    issues.extend(check_chapter_folder_standard())
+    issues.extend(check_sequence(chapters))
+    issues.extend(check_character_consistency(chapters, aliases))
 
-    print("\n📋 STATUS ATUAL DAS CORREÇÕES")
-    print("=" * 50)
+    score, notes = bestseller_score(chapters)
 
-    print("1. 🔴 Roberto Miranda")
-    print("   ✅ CORRIGIDO: Menção falsa à morte removida do capítulo 101")
-    print("   ✅ EXPLICADO: Capturado e 'recultivado' como ciborgue")
+    print("\n📊 Indicadores de qualidade (best seller):")
+    for note in notes:
+        print(f"  - {note}")
+    print(f"  - Score estimado: {score:.1f}/10")
 
-    print("\n2. 🟡 Dante Moretti")
-    print("   ✅ ESCLARECIDO: Lore atualizado - pai biológico com consciência transferida")
-    print("   ✅ DEFINIDO: Não é IA pura, é híbrido biológico-digital")
+    if issues:
+        print("\n⚠️ Pontos de atenção de coerência:")
+        for issue in issues:
+            print(f"  - {issue}")
+        return 1
 
-    print("\n3. 🟡 Aria/Beatriz")
-    print("   ✅ DESENVOLVIDA: Capítulo flashback 75.5 criado")
-    print("   ✅ CONFLITO: Intensificado confronto Valéria-Aria no capítulo 113")
+    print("\n✅ Coerência validada: personagens, sequência e pasta de capítulos estão padronizados.")
+    return 0
 
-    print("\n4. 🟢 Fator Nicotina")
-    print("   ✅ 95% CONFORMIDADE: Correções automáticas aplicadas")
-
-    print("\n🎯 RESULTADO: Inconsistências críticas RESOLVIDAS")
-    print("📊 Status: Pronto para continuação/finalização")
 
 if __name__ == "__main__":
-    main()
+    raise SystemExit(main())
