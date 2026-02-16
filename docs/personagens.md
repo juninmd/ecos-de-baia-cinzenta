@@ -37,7 +37,7 @@
 *   **Capítulo 105:** Retorna à Delegacia Central. Testemunha a "Ascensão" de Dante enquanto lida com a falha mecânica de suas órteses.
 *   **Capítulo 106:** Tenta reparar seu exoesqueleto sem sucesso. Intervém para impedir que Dante use força letal contra os manifestantes "Desconectados", descobrindo a existência da ameaça do "Silêncio".
 *   **Capítulo 107:** Tem seu exoesqueleto "consertado" por Dante com precisão cirúrgica e dolorosa. Junta-se à operação de "Sanitização" no porto para mitigar danos civis.
-*   **Atualidade:** Encurralado nas Catedrais de Pedra (Nível 5), enfrentando predadores na escuridão. Exausto, carrega Rangel e a culpa de ouvir a voz de Bia em Aria.
+*   **Atualidade:** Fugindo pelos Túneis de Serviço (Nível 5) após sabotar a Estação de Bombeamento. Ferido por mordida de Quimera. Resiste à manipulação psicológica de Aria focando na dor física.
 
 ---
 
@@ -65,7 +65,7 @@
 *   **Pré-Série:** Prodígio. Aparência: "Geek" limpa, roupas corporativas padrão.
 *   **Partes I-XII:** A Hacker Rebelde. Aparência: Cabelo neon (muda de cor), roupas cyberpunk, pele pálida.
 *   **Parte XIII:** O Sacrifício. Aparência: Veias prateadas da "Praga de Ferro" começam a aparecer no pescoço e braços. Olhos tornam-se inteiramente prateados.
-*   **Atualidade:** Cega digitalmente nas Catedrais de Pedra (Nível 5). Armada apenas com uma pistola e seus implantes oculares, tentando proteger Rangel.
+*   **Atualidade:** Fugindo pelos Túneis de Serviço (Nível 5). Cega digitalmente devido à interferência do subsolo. Armada apenas com pistola e visão analógica.
 
 ---
 
@@ -420,7 +420,7 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 *   **Capítulo 105:** Testemunha o retorno de Dante, que reativa sua máquina de escrever elétrica e os sistemas da delegacia.
 *   **Capítulo 106:** Torna-se o braço direito executivo de Dante, sobrecarregado pela velocidade de processamento do novo Comandante.
 *   **Capítulo 110:** Abandona o distintivo e foge para o subsolo com a resistência. Torna-se fugitivo procurado pela Aetherna.
-*   **Atualidade:** Inconsciente e febril nas Catedrais de Pedra. Carregado por Gabo, risco iminente de colapso sistêmico.
+*   **Atualidade:** Inconsciente e febril, sendo carregado por Gabo nos Túneis de Serviço. Risco iminente de colapso sistêmico.
 
 ---
 
@@ -485,7 +485,7 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 *   **Origem:** Começou como uma IA/Alucinação. Ganhou corpo físico durante a "Ascensão" de Dante, utilizando bio-engenharia roubada.
 *   **Capítulo 109:** Revela sua face física (Bia Vargas) para Rangel e bloqueia os drones de Dante.
 *   **Capítulo 118:** Sacrifica sua integridade lógica para salvar os "Drenados" do choque neural na Usina Prometeu.
-*   **Atualidade:** Online (Crítica). Identifica ameaças biológicas nas Catedrais de Pedra com precisão, mas continua presa na persona de Bia Vargas infantilizada.
+*   **Atualidade:** Online (Instável). Manifesta agressivamente a personalidade de Bia Vargas para manipular Gabo. Acompanha o grupo na fuga pelos Túneis de Serviço.
 
 ---
 
