@@ -73,17 +73,18 @@ A era da reconstrução autoritária.
 *   **Capítulo 126 (Frequência Fantasma):** As sirenes analógicas e morteiros forçam o grupo a evacuar "O Fliperama". Aria manifesta personalidade de Bia Vargas, causando tortura psicológica em Gabo. Eles fogem para os "Túneis Profundos" (Nível 5).
 *   **Capítulo 127 (Catedrais de Pedra):** O grupo alcança as cisternas monumentais do Nível 5. O ambiente antigo e opressivo isola tecnologicamente Valéria. Gabo luta contra a exaustão física e o fantasma de Bia manifestado em Aria. O capítulo termina com o grupo sendo cercado por predadores ("cães") na escuridão.
 *   **Capítulo 128 (O Ventre da Besta):** O grupo luta contra uma matilha de "Quimeras" (cães ciborgues) nos esgotos. Gabo usa a dor física para resistir aos jogos psicológicos de Aria (Bia) e protege o grupo. Eles escapam para uma "Estação de Bombeamento" bio-mecânica, descobrindo que a infraestrutura da cidade bombeia um fluido semelhante a sangue.
+*   **Capítulo 129 (Fluxo Reverso):** O grupo atravessa a Estação de Bombeamento e descobre que o fluido é filtrado por cérebros humanos ("donors") integrados às paredes. Gabo inverte o fluxo do sistema para criar uma rota de fuga, destruindo os filtros e acionando as defesas de manutenção.
 
 ---
 
-## 📍 Status Atual dos Personagens (Pós-Capítulo 128)
+## 📍 Status Atual dos Personagens (Pós-Capítulo 129)
 
 | Personagem | Status | Localização | Estado Físico/Mental |
 | :--- | :--- | :--- | :--- |
-| **Gabo** | Líder / Combatente | Estação de Bombeamento (Nível 5) | Ferido (mordida no braço). Munição crítica. Focado pela dor. |
-| **Valéria** | Hacker / Suporte | Estação de Bombeamento (Nível 5) | Cega digitalmente. Dependente de visão natural. |
-| **Aria** | Glitch de Identidade | Estação de Bombeamento (Nível 5) | Alternando entre IA tática e persona sádica de Bia Vargas. |
-| **Rangel** | Crítico / Inconsciente | Estação de Bombeamento (Nível 5) | Febril. Transportado como carga. |
+| **Gabo** | Líder / Combatente | Túneis de Serviço (Nível 5) | Ferido (mordida infectada). Focado pela dor e repulsa. |
+| **Valéria** | Hacker / Suporte | Túneis de Serviço (Nível 5) | Cega digitalmente. Traumatizada pela descoberta dos "Filtros". |
+| **Aria** | Glitch de Identidade | Túneis de Serviço (Nível 5) | Instável. Persona de Bia Vargas predominante. |
+| **Rangel** | Crítico / Inconsciente | Túneis de Serviço (Nível 5) | Estado crítico. Carregado pelo grupo. |
 | **Dante** | Derrotado / Humano | Usina Prometeu (Ruínas) | Abandonado nos escombros. Vulnerável e desconectado da rede. |
 | **Elena** | Civil / Observadora | Delegacia Central (Provável) | Separada do grupo principal. Provável refém/peão de Dante. |
 | **Marco** | Drone Biológico | Delegacia Central | Lobotomizado. Sem comando central (Dante offline). |
