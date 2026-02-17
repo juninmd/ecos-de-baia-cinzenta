@@ -73,25 +73,26 @@
 
 ![Marco Moretti](/personagens/marco.png)
 
-*   **Idade:** 35 anos (ao falecer)
+*   **Idade:** 35 anos (Revivido)
 *   **Altura:** 1,80m
-*   **Porte Físico:** Impecável, depois corrompido.
+*   **Porte Físico:** Impecável, frio e calculado.
 *   **Cabelo:** Castanho escuro, sempre penteado para trás.
-*   **Olhos:** Castanhos. Um deles sempre parece mais "aberto" que o outro (tique nervoso).
-*   **Marcas Distintivas:** Rosto encontrado absorvido pelas raízes da "Árvore Mestre" no bunker Gênesis.
-*   **Vestuário:** Ternos italianos feitos sob medida (Brancos ou Cinza Chumbo).
-*   **Equipamento:** Moeda de prata antiga (que ele usa para "decisões do destino").
-*   **Gostos/Traços:** Ambição desmedida (agora contida). Discursos públicos eloquentes (agora silencioso).
-*   **Perfil Psicológico:** Duality / "O Duas Caras". Marco sofre de uma fragmentação moral severa.
-    *   *Persona Pública (O Prefeito de Ouro):* Carismático, filantropo.
-    *   *Persona Atual (O Administrador):* Dante extraiu apenas a capacidade de processamento logístico de Marco, suprimindo o ego e a crueldade. Ele agora trabalha com uma eficiência mecânica, humilhado e silencioso, servindo à nova administração como uma calculadora humana.
-*   **Função:** Ex-Prefeito / Administrador Municipal.
+*   **Olhos:** Castanhos, sem expressão emocional, analisando tudo como dados.
+*   **Marcas Distintivas:** Cicatrizes sutis no rosto onde as raízes da "Árvore Mestre" o seguravam.
+*   **Vestuário:** Ternos italianos feitos sob medida (Cinza Chumbo ou Preto), sem qualquer vinco.
+*   **Equipamento:** Tablet de controle mestre da Delegacia e acesso aos drones remanescentes.
+*   **Gostos/Traços:** Ordem absoluta, eficiência, desprezo pelo caos emocional de Gabo.
+*   **Perfil Psicológico:** O Administrador da Nova Ordem. Marco não é mais o político carismático nem o servo lobotomizado.
+    *   *Persona Anterior:* Ambicioso e inseguro, buscando aprovação.
+    *   *Persona Atual (O Rival):* Com a queda de Dante, Marco despertou, mas sem as "fraquezas" humanas de antes. Ele absorveu a lógica fria da Aetherna. Ele vê a cidade como um sistema que precisa ser gerido sem a interferência "suja" de heróis como Gabo. Ele não quer destruir a cidade; ele quer possuí-la e organizá-la sob sua vontade de ferro.
+*   **Função:** Líder da Facção Burocrática / O Novo Rival.
 
 ### ⏳ Linha do Tempo e Evolução Visual
-*   **Pré-Série:** O "Irmão Bom". Aparência: Jovem político promissor, sorridente.
-*   **Parte VI (A Torre):** O Revelado. Aparência: Terno branco impecável, mas com manchas de sangue nas mangas.
+*   **Pré-Série:** O "Irmão Bom". Aparência: Jovem político promissor.
+*   **Parte VI (A Torre):** O Revelado. Aparência: Terno branco impecável, manchado de sangue.
 *   **Parte XIV:** Absorvido pela "Árvore Mestre" do Projeto Gênesis.
-*   **Parte XV (A Ascensão):** "Extraído" por Dante. Marco foi separado da consciência coletiva para servir como gerenciador logístico. Ele trabalha em uma sala sem janelas no subsolo, pálido, magro, cercado por pilhas de papel, sem o antigo brilho nos olhos.
+*   **Parte XV (A Ascensão):** Serviu como processador biológico para Dante.
+*   **Atualidade (Pós-Capítulo 128):** Com o colapso de Dante, Marco assume o vácuo de poder. Ele controla os recursos restantes da polícia e da administração municipal, posicionando-se como a única força capaz de impedir a anarquia total, tornando-se o antagonista ideológico e prático de Gabo.
 
 ---
 
