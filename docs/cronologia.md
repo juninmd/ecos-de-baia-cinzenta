@@ -74,17 +74,18 @@ A era da reconstrução autoritária.
 *   **Capítulo 127 (Catedrais de Pedra):** O grupo alcança as cisternas monumentais do Nível 5. O ambiente antigo e opressivo isola tecnologicamente Valéria. Gabo luta contra a exaustão física e o fantasma de Bia manifestado em Aria. O capítulo termina com o grupo sendo cercado por predadores ("cães") na escuridão.
 *   **Capítulo 128 (O Ventre da Besta):** O grupo luta contra uma matilha de "Quimeras" (cães ciborgues) nos esgotos. Gabo usa a dor física para resistir aos jogos psicológicos de Aria (Bia) e protege o grupo. Eles escapam para uma "Estação de Bombeamento" bio-mecânica, descobrindo que a infraestrutura da cidade bombeia um fluido semelhante a sangue.
 *   **Capítulo 129 (Fluxo Reverso):** O grupo atravessa a Estação de Bombeamento e descobre que o fluido é filtrado por cérebros humanos ("donors") integrados às paredes. Gabo inverte o fluxo do sistema para criar uma rota de fuga, destruindo os filtros e acionando as defesas de manutenção.
+*   **Capítulo 130 (Saturação):** A inversão do fluxo na Estação de Bombeamento provoca a subida de um fluído ácido de biomassa. Gabo carrega Rangel inconsciente enquanto enfrenta a tortura psicológica de Aria (Bia). O grupo escapa por pouco, adentrando um nível ainda mais profundo: a "Velha Baía", o cemitério original da cidade.
 
 ---
 
-## 📍 Status Atual dos Personagens (Pós-Capítulo 129)
+## 📍 Status Atual dos Personagens (Pós-Capítulo 130)
 
 | Personagem | Status | Localização | Estado Físico/Mental |
 | :--- | :--- | :--- | :--- |
-| **Gabo** | Líder / Combatente | Túneis de Serviço (Nível 5) | Ferido (mordida infectada). Focado pela dor e repulsa. |
-| **Valéria** | Hacker / Suporte | Túneis de Serviço (Nível 5) | Cega digitalmente. Traumatizada pela descoberta dos "Filtros". |
-| **Aria** | Glitch de Identidade | Túneis de Serviço (Nível 5) | Instável. Persona de Bia Vargas predominante. |
-| **Rangel** | Crítico / Inconsciente | Túneis de Serviço (Nível 5) | Estado crítico. Carregado pelo grupo. |
+| **Gabo** | Líder / Combatente | Velha Baía (Subsolo Profundo) | Exausto. Lutando contra a náusea e o fantasma de Bia. |
+| **Valéria** | Hacker / Suporte | Velha Baía (Subsolo Profundo) | Sem interface. Focada na sobrevivência física. |
+| **Aria** | Glitch de Identidade | Velha Baía (Subsolo Profundo) | Instável. Alternando entre Bia Vargas e Protocolo de Máquina. |
+| **Rangel** | Crítico / Inconsciente | Velha Baía (Subsolo Profundo) | Inconsciente. Peso morto sendo carregado. |
 | **Dante** | Derrotado / Humano | Usina Prometeu (Ruínas) | Abandonado nos escombros. Vulnerável e desconectado da rede. |
 | **Elena** | Civil / Observadora | Delegacia Central (Provável) | Separada do grupo principal. Provável refém/peão de Dante. |
 | **Marco** | Rival / Administrador | Delegacia Central | Ativo. Consolidando poder na ausência de Dante. |
