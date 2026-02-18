@@ -262,6 +262,10 @@ module.exports = {
               { text: 'Capítulo 125: Ressonância', link: '/capitulo-125' },
               { text: 'Capítulo 126: Frequência Fantasma', link: '/capitulo-126' },
               { text: 'Capítulo 127: Catedrais de Pedra', link: '/capitulo-127' },
+              { text: 'Capítulo 128: O Ventre da Besta', link: '/capitulo-128' },
+              { text: 'Capítulo 129: Fluxo Reverso', link: '/capitulo-129' },
+              { text: 'Capítulo 130: Saturação', link: '/capitulo-130' },
+              { text: 'Capítulo 131: Necrópole', link: '/capitulo-131' },
             ]
           },
         ]
