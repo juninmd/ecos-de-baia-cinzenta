@@ -63,7 +63,7 @@ No bunker, os "Cancelados" arrancaram suas máscaras. Eram pessoas comuns. Jorna
 
 Eles cercaram Miranda.
 
-— Gabo... — Miranda olhou para a multidão, aterrorizado. — Me prenda. Por favor. Me leve para a delegacia. Dante vai me proteger. Ele sempre soube.
+
 
 — Gabo... — Miranda olhou para a multidão. O terror deu lugar a uma aceitação maníaca. Ele começou a rir.
 

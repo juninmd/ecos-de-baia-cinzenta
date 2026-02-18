@@ -29,7 +29,6 @@ O laboratório de Nise era um museu de tecnologia obsoleta. Monitores de tubo, t
 
 — Ele descobriu a Frequência Fantasma. — Nise interrompeu, a voz grave. — O implante dele não modulava apenas o humor dele. Modulava o de quem assistia.
 
-— Que o implante não modulava apenas o dele. Modulava o de quem assistia.
 
 Nise ligou um monitor antigo. A tela tremeluziu e mostrou linhas de onda de áudio.
 
