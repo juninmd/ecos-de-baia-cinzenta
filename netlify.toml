@@ -1,5 +1,5 @@
 [build]
-  command = "npm run docs:build"
+  command = "pnpm run docs:build"
   publish = "docs/.vitepress/dist"
 
 [context.production]
