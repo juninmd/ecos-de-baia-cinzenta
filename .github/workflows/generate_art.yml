@@ -73,17 +73,17 @@ jobs:
               && [ "$BEFORE_SHA" != "0000000000000000000000000000000000000000" ] \
               && git cat-file -e "$BEFORE_SHA^{commit}" 2>/dev/null \
               && git cat-file -e "$CURRENT_SHA^{commit}" 2>/dev/null; then
-              CHAPTER=$(git diff --name-only "$BEFORE_SHA" "$CURRENT_SHA" | rg 'capitulo-.*\.md' | head -n 1 || true)
+              CHAPTER=$(git diff --name-only "$BEFORE_SHA" "$CURRENT_SHA" | grep 'capitulo-.*\.md' | head -n 1 || true)
             fi
 
             # Fallback for initial commits or when no previous SHA is available
             if [ -z "$CHAPTER" ]; then
-              CHAPTER=$(git show --name-only --pretty="" "$CURRENT_SHA" 2>/dev/null | rg 'capitulo-.*\.md' | head -n 1 || true)
+              CHAPTER=$(git show --name-only --pretty="" "$CURRENT_SHA" 2>/dev/null | grep 'capitulo-.*\.md' | head -n 1 || true)
             fi
 
             # Last fallback: current tree state (works for manual reproductions).
             if [ -z "$CHAPTER" ]; then
-              CHAPTER=$(git ls-files | rg '^(docs|docs/public)/capitulo-.*\.md$' | head -n 1 || true)
+              CHAPTER=$(git ls-files | grep -E '^(docs|docs/public)/capitulo-.*\.md$' | head -n 1 || true)
             fi
           fi
 
