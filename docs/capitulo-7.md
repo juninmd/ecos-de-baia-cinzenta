@@ -1,6 +1,3 @@
----
-image: /capitulo_7.jpg
----
 # Capítulo 7: O Fim do Silêncio
 
 A sala de servidores havia se tornado um inferno branco. O nitrogênio líquido sibilava violentamente, congelando o chão e criando uma neblina tão densa que Gabriel mal podia ver a ponta de sua própria arma.

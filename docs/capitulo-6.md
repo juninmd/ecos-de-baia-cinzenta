@@ -1,6 +1,3 @@
----
-image: /capitulo_6.jpg
----
 # Capítulo 6: O Coração da Tempestade
 
 A Represa Hidrelétrica de Baía Cinzenta era uma tumba de concreto. O som da água caindo a quilômetros de distância reverberava nas paredes como um batimento cardíaco lento e doente.

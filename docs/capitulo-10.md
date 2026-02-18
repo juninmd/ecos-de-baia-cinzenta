@@ -1,6 +1,3 @@
----
-image: /capitulo_10.jpg
----
 # Capítulo 10: A Fábrica de Sorrisos
 
 O drive de Kiko Vibe continha apenas uma coordenada GPS e uma foto: a fachada de um galpão industrial no Setor 4, com a placa enferrujada "Embalagens Sustentáveis".

@@ -1,6 +1,3 @@
----
-image: /capitulo_3.jpg
----
 # Capítulo 3: Teatro de Carne
 
 A fita de isolamento da polícia, um amarelo berrante e artificial, era a única coisa colorida no Distrito Industrial. O resto era cinza, preto e o marrom da ferrugem que sangrava das vigas expostas. A chuva caía em lençóis pesados, lavando o sangue da calçada para o bueiro, onde o sistema de esgoto da cidade engasgava.
