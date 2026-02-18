@@ -233,7 +233,7 @@ A narrativa estabeleceu solidamente os três pilares que sustentavam a corrupç�
 
 * **Fator Nicotina:**
   * **Cenário:** Estresse pós-cirúrgico.
-  * **Reação:** Gabo usa a dor da queimadura acidental (ou proposital?) e o aperto no *Colar de Sol* para focar.
+  * **Reação:** Gabo usa a dor da "queimadura fria" do metal e o aperto no *Colar de Sol* para focar.
   * **Status:** ✅ Mantido. A dor substitui a química.
 * **Coerência Médica:**
   * **Ação:** Procedimentos de campo descritos com realismo (sutura, limpeza, sepse).
