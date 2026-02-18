@@ -1,5 +1,5 @@
 [build]
-  command = "npm install -g pnpm && pnpm install && pnpm run docs:build"
+  command = "npm install && npm run docs:build"
   publish = "docs/.vitepress/dist"
 
 [context.production]
