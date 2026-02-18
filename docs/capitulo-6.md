@@ -7,7 +7,7 @@ A Represa Hidrelétrica de Baía Cinzenta era uma tumba de concreto. O som da á
 
 Gabriel e Miranda avançavam pelos corredores de serviço, deixando um rastro de sangue e lama. A perna de Miranda estava amarrada com um pedaço de camisa rasgada, mas o ex-policial estava pálido, suando frio.
 
-— Estamos perto — sussurrou Miranda, verificando um painel na parede. — O consumo de energia aqui... é astronômico.
+— Estamos perto — sussurrou Miranda, verificando um painel na parede com mãos trêmulas. — O consumo de energia aqui... é astronômico.
 
 Gabriel forçou uma porta de aço pesada com o pé de cabra que encontrara no caminho. O metal gemeu e cedeu.
 
@@ -68,17 +68,17 @@ Kael deu um passo à frente, a pistola erguida.
 
 — Não complique, detetive. Me dê o chip e sua morte será rápida.
 
-Gabriel sorriu, um sorriso sem humor.
+Gabriel sorriu, um sorriso sem humor, apertando o Colar de Sol com a mão esquerda enquanto a direita segurava o chip sobre a boca aberta.
 
 — Eu sou um Moretti. Nós sempre complicamos.
 
-Gabriel levou a mão à boca e jogou o chip para dentro. Ele engoliu a seco, sentindo o gosto metálico e a borda dura do dispositivo arranhando sua garganta.
+Gabriel jogou o chip para dentro da boca. Ele engoliu a seco, sentindo o gosto metálico e a borda dura do dispositivo arranhando sua garganta, rasgando o esôfago enquanto descia.
 
 Kael parou, seus sensores processando o ato ilógico.
 
 — Dado orgânico detectado no estômago — zumbiu o ciborgue. — Protocolo de extração cirúrgica iniciado.
 
-— Vai ter que me abrir para pegar — desafiou Gabriel, sacando a Glock.
+— Vai ter que me abrir para pegar — desafiou Gabriel, sacando a Glock com uma velocidade nascida do desespero.
 
 — Com prazer.
 
@@ -88,6 +88,8 @@ Balas de grosso calibre rasgaram o metal dos servidores, chovendo faíscas sobre
 
 — *Eu não consigo!* — Val estava chorando de frustração. — *O sistema dele é fechado! Air-gapped! Nada entra!*
 
+— *Use o ambiente!* — A voz digital de Aria cortou a transmissão, fria e precisa. — *Nitrogênio.*
+
 Gabriel olhou para cima. Tubulações grossas corriam pelo teto, cobertas de gelo. Nitrogênio líquido para resfriar os processadores biológicos.
 
 — Sem hack remoto hoje — rosnou Gabriel, trocando o carregador. — Vamos fazer do jeito analógico.
@@ -96,14 +98,14 @@ Ele mirou não em Kael, mas no teto, logo acima da cabeça do ciborgue.
 
 — Miranda, cubra os olhos!
 
-Kael rosnou e avançou. Gabriel sacou a *Caronte* de baixo do casaco — ele nunca saía de casa sem a escopeta de cano serrado, mesmo que fosse desconfortável.
+Kael rosnou e avançou, a serra girando. Gabriel sacou a *Caronte* de baixo do casaco.
 
-Um jato de nitrogênio líquido explodiu com a pressão de um gêiser. A temperatura na sala despencou instantaneamente. Uma névoa branca e densa, fria como a morte, engoliu o corredor, ocultando Kael e enchendo o ar com o silvo ensurdecedor do gás expandindo.
+Um jato de nitrogênio líquido explodiu com a pressão de um gêiser quando o chumbo grosso atingiu o cano. A temperatura na sala despencou instantaneamente. Uma névoa branca e densa, fria como a morte absoluta, engoliu o corredor, ocultando Kael e enchendo o ar com o silvo ensurdecedor do gás expandindo.
 
 O sistema de alarme disparou, luzes estroboscópicas laranjas cortando a névoa.
 
 — *Alerta de temperatura crítica,* — uma voz automatizada soou. — *Falha de contenção.*
 
-Gabriel se levantou, a escopeta *Caronte* agora em suas mãos. Ele não podia ver Kael, mas sabia que os sensores térmicos do ciborgue estariam cegos pelo frio extremo do nitrogênio.
+Gabriel se levantou, a escopeta *Caronte* agora em suas mãos, a respiração formando nuvens de vapor. Ele não podia ver Kael, mas sabia que os sensores térmicos do ciborgue estariam cegos pelo frio extremo.
 
-— Agora estamos no meu mundo — sussurrou Gabriel, entrando na névoa.
+— Agora estamos no meu mundo — sussurrou Gabriel, entrando na névoa gelada.

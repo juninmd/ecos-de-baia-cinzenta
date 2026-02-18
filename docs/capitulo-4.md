@@ -17,7 +17,7 @@ Enquanto ajustava o binóculo, sua visão embaçou por um segundo. Um flash de m
 
 *"Não do prédio. Do que ele representa. Você diz que a tecnologia é fria, mas eu vejo suas mãos tremerem. Você sabe que a máquina não erra, e isso te aterroriza. Porque se a máquina é perfeita, o erro é sempre humano. E você se sente... defeituoso."*
 
-Gabo sacudiu a cabeça, afastando o fantasma da terapia. "Eu não sou defeituoso, Cecília. Eu sou o único que ainda funciona sem bateria."
+Gabo sacudiu a cabeça, apertando o Colar de Sol com força até a dor silenciar a voz da terapeuta. "Eu não sou defeituoso, Cecília. Eu sou o único que ainda funciona sem bateria."
 
 Ele saiu do carro. No caminho para a doca de carga, ele ouviu o som inconfundível de carne sendo atingida. Um baque surdo, seguido de um gemido abafado.
 
@@ -47,9 +47,17 @@ Gabo sentiu a raiva queimar no peito, fria e dura. O "progresso" de Krell não a
 
 — Fique aqui — Gabo colocou uma nota de crédito amassada na mão do homem. — Vou ter uma conversinha com o seu chefe.
 
-Ele precisava de um jeito de entrar. E o jeito veio na forma de um entregador de catering que parou para fumar um cigarro na doca de carga lateral.
+Ele precisava de um jeito de entrar. E o jeito veio não de um disfarce, mas de um erro. Uma porta de manutenção no nível do subsolo estava com a trava magnética piscando.
 
-Cinco minutos depois, Gabriel vestia um uniforme branco engomado, apertado demais nos ombros. O tecido sintético cheirava a sabão industrial barato misturado com o suor seco do último funcionário que o usara. Ele empurrava um carrinho de canapés sintéticos de luxo pelos corredores de serviço da Torre. Ele deixou a arma no carro; os scanners biométricos teriam detectado a pólvora antes mesmo dele pisar no tapete vermelho. Mas ele manteve o distintivo no bolso interno, um talismã de autoridade que não valia nada ali dentro.
+*ACESSO CONCEDIDO: USUÁRIO ARIA.*
+
+Gabo olhou para o painel digital. O nome brilhava em verde.
+
+— Você está brincando comigo — sussurrou ele para o fantasma em sua cabeça. — Você abre portas agora?
+
+Nenhuma resposta. Apenas o som da trava se abrindo com um clique pesado.
+
+Gabo entrou. O corredor de serviço cheirava a ozônio e produtos de limpeza caros. Ele subiu as escadas de emergência, evitando as câmeras com a ajuda de *glitches* convenientes que desligavam os sensores segundos antes dele passar.
 
 O salão de festas ficava no 150º andar. As paredes eram de vidro inteligente, mostrando a cidade lá embaixo como um mapa de luzes tristes. A música era suave, tocada por uma orquestra de androides indistinguíveis de humanos.
 
@@ -63,7 +71,7 @@ Viktor Krell.
 
 O CEO da Aetherna parecia uma criança vestida de imperador, mas seus olhos — dois orbes de safira cibernética — irradiavam uma maldade antiga. Ele gesticulava com uma bengala de titânio negro, e os magnatas ao redor dele, homens com o dobro de seu tamanho, encolhiam-se como colegiais.
 
-Gabriel abandonou o carrinho e caminhou em direção a eles. Ele pegou uma taça de uma bandeja que passava, bebeu em um gole só para acalmar os nervos, e se infiltrou no círculo de conversa.
+Gabriel, ainda com o sobretudo molhado e botas sujas de lama, caminhou em direção a eles. O contraste com os convidados de gala era um grito visual. Ele pegou uma taça de uma bandeja que passava, bebeu em um gole só para acalmar os nervos, e se infiltrou no círculo de conversa.
 
 — ...a eficiência energética do Distrito 4 aumentou 20% desde que implementamos o racionamento neural — dizia Krell, sua voz um barítono surpreendentemente profundo. — Os pobres não precisam de tanta largura de banda cognitiva. Eles só precisam saber obedecer.
 
@@ -83,11 +91,11 @@ Krell sorriu, mas seus olhos permaneceram frios.
 
 O silêncio caiu como uma guilhotina. Marco virou-se, o sorriso falhando por um milissegundo antes de se recuperar.
 
-— Gabriel. — O tom era de quem encontra um cachorro molhado no sofá da sala. — Eu não sabia que você tinha sido convidado. E... servindo mesas? As coisas estão tão difíceis assim na polícia?
+— Gabriel. — O tom era de quem encontra um cachorro molhado no sofá da sala. — Eu não sabia que você tinha sido convidado. E... cheirando a esgoto? As coisas estão tão difíceis assim na polícia?
 
-Alguns convidados riram educadamente.
+Alguns convidados riram educadamente, torcendo os narizes para o cheiro de chuva ácida que emanava de Gabo.
 
-— É um disfarce, Marco. Algo que você usa o tempo todo, mas eu só coloco quando preciso trabalhar. — Gabriel virou-se para Krell. — Sr. Krell. Belo evento. Celebração pelo novo contrato com a Prefeitura ou pelo exército de desempregados que suas máquinas criaram no porto?
+— É o cheiro da cidade que você governa, Marco. O cheiro que os filtros de ar da sua torre não conseguem esconder. — Gabriel virou-se para Krell. — Sr. Krell. Belo evento. Celebração pelo novo contrato com a Prefeitura ou pelo exército de desempregados que suas máquinas criaram no porto?
 
 Krell girou sua cadeira flutuante lentamente. Ele olhou para Gabriel de cima a baixo, como um entomologista analisando um besouro.
 
@@ -117,7 +125,7 @@ Kael avançou. Gabriel sabia que não podia vencer numa luta corporal, não cont
 
 Ele agarrou a toalha da mesa mais próxima e puxou. Cristais, garrafas caras e pratos de caviar voaram, estilhaçando-se no chão com um estrondo que parou a festa inteira.
 
-— Sorriam para as câmeras! — gritou Gabriel, erguendo o distintivo manchado de sangue. — O show de horrores começou! — Fachada bonita escondendo sujeira!
+— Sorriam para as câmeras! — gritou Gabriel, erguendo o distintivo manchado de sangue. — O show de horrores começou! Fachada bonita escondendo sujeira!
 
 Kael o alcançou antes que ele pudesse dar mais um passo. O movimento foi um borrão. Gabriel sentiu um impacto no estômago que tirou todo o ar de seus pulmões, seguido por uma rasteira que o fez bater o rosto no chão polido.
 
@@ -143,8 +151,8 @@ Uma mensagem. Criptografada. Mas a chave era a data no relógio da foto.
 
 Gabriel se levantou, limpando o sangue da boca com as costas da mão suja de lama. Ele cuspiu um coágulo escuro no asfalto molhado e tocou o lábio partido. Ardia como o inferno, mas os dentes ainda estavam todos lá.
 
-— Ótimo — resmungou, sentindo o gosto de ferro. — Menos mal.
+— Ótimo — resmungou, sentindo o gosto de ferro e tocando o Colar de Sol sob a camisa para se certificar de que ainda estava inteiro. — Menos mal.
 
 A chuva lavava a humilhação externa, mas deixava a fúria intacta.
 
-— Estação Central — murmurou ele, mancando em direção ao carro. — Miranda.
+— Estação Central — murmurou ele, mancando em direção ao carro. — Miranda. O homem morto vai falar.
