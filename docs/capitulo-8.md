@@ -1,3 +1,6 @@
+---
+image: /capitulo_8.jpg
+---
 # Capítulo 8: Ressaca Digital
 
 Seis meses sem a IA central. Seis meses desde que Baía Cinzenta acordou de seu coma induzido.

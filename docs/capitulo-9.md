@@ -1,3 +1,6 @@
+---
+image: /capitulo_9.jpg
+---
 # Capítulo 9: Feed Infinito
 
 A Torre Solaris era um monumento à arrogância. Duzentos andares de vidro e aço que perfuravam a camada de poluição permanente de Baía Cinzenta.

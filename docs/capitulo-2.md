@@ -1,3 +1,6 @@
+---
+image: /capitulo_2.jpg
+---
 # Capítulo 2: Náufragos de Concreto
 
 A chuva não era mais uma presença — era uma sentença. O céu de Baía Cinzenta havia desabado, não em gotas, mas em lâminas líquidas que fatiavam a visibilidade até restar apenas um metro de mundo. A água ácida martelava o capô do *Cobalt* de Gabo como dedos impacientes de algum deus morto, corroendo a pintura já descascada em bolhas negras.

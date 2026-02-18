@@ -1,3 +1,6 @@
+---
+image: /capitulo_5.jpg
+---
 # Capítulo 5: A Capela dos Esquecidos
 
 O cheiro era o primeiro aviso: ozônio queimado misturado com urina velha e cobre.
