@@ -1,5 +1,5 @@
 [build]
-  command = "corepack enable && pnpm install --frozen-lockfile && pnpm run docs:build"
+  command = "npx --yes pnpm@9.15.4 install --frozen-lockfile && npx --yes pnpm@9.15.4 run docs:build"
   publish = "docs/.vitepress/dist"
 
 [context.production]
