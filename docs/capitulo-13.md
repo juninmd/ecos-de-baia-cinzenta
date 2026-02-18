@@ -63,8 +63,6 @@ No bunker, os "Cancelados" arrancaram suas máscaras. Eram pessoas comuns. Jorna
 
 Eles cercaram Miranda.
 
-
-
 — Gabo... — Miranda olhou para a multidão. O terror deu lugar a uma aceitação maníaca. Ele começou a rir.
 
 — Você acha que venceu? — ele cuspiu sangue. — Dante não queria salvar a cidade, Gabo. Ele queria *resetá-la*. Eu só estava seguindo o cronograma dele. Você é o executor do testamento do papai!
