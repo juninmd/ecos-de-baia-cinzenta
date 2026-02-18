@@ -1,5 +1,5 @@
 [build]
-  command = "npm install -g pnpm@9.15.4 && pnpm install --frozen-lockfile && pnpm run docs:build"
+  command = "pnpm run docs:build"
   publish = "docs/.vitepress/dist"
 
 [context.production]
