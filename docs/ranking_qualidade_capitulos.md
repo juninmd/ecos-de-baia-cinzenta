@@ -1087,3 +1087,90 @@ Este documento mantém um registro da avaliação de qualidade narrativa, ritmo 
   * **Fator Nicotina:** Gabo sente a abstinência como resposta ao estresse, mas usa a dor física (colar) para resistir, mantendo a regra canônica.
 * **Pontos Fracos:**
   * O capítulo é curto e serve mais como um epílogo do evento "Usina".
+
+
+### Capítulo 120: O Silêncio de Aetherna
+* **Nota:** ⭐ **9.5/10**
+* **Pontos Fortes:**
+  * **Atmosfera:** O conceito do silêncio como uma presença física é executado com maestria.
+  * **Fator Nicotina:** A "dor é realidade, fumaça é fuga" torna-se um mantra poderoso para Gabo.
+* **Pontos Fracos:**
+  * Nenhum significativo.
+
+### Capítulo 121: Fios Desencapados
+* **Nota:** ⭐ **9.0/10**
+* **Pontos Fortes:**
+  * **Realismo:** A cirurgia de Rangel é visceral e suja, sem "cura mágica".
+  * **Tensão:** O uso do ferro de solda cria uma tensão tátil.
+* **Pontos Fracos:**
+  * Ritmo um pouco lento no início.
+
+### Capítulo 122: Dívida Técnica
+* **Nota:** ⭐ **8.8/10**
+* **Pontos Fortes:**
+  * **Worldbuilding:** A explicação sobre a "Dívida Técnica" de Aria aprofunda a lore da IA.
+* **Pontos Fracos:**
+  * Muita exposição técnica em diálogos.
+
+### Capítulo 123: Protocolo de Sombra
+* **Nota:** ⭐ **9.2/10**
+* **Pontos Fortes:**
+  * **Ação:** A negociação com Vasco e a luta no escuro são bem coreografadas.
+  * **Caráter:** Gabo demonstra sua competência tática sem tecnologia.
+* **Pontos Fracos:**
+  * Vasco poderia ser mais desenvolvido.
+
+### Capítulo 124: Carne e Cobre
+* **Nota:** ⭐ **8.9/10**
+* **Pontos Fortes:**
+  * **Introspecção:** O momento de calma permite aprofundar o trauma de Gabo.
+* **Pontos Fracos:**
+  * Transição de cena um pouco abrupta.
+
+### Capítulo 125: Ressonância
+* **Nota:** ⭐ **9.4/10**
+* **Pontos Fortes:**
+  * **Plot Twist:** O despertar de Aria com a personalidade de Bia é perturbador e emocionante.
+  * **Atmosfera:** O retorno das sirenes analógicas cria um senso de urgência imediato.
+* **Pontos Fracos:**
+  * A reação inicial de Valéria poderia ser mais cética.
+
+### Capítulo 126: Frequência Fantasma
+* **Nota:** ⭐ **9.1/10**
+* **Pontos Fortes:**
+  * **Som:** O design de som (sirenes) é bem descrito.
+  * **Psicológico:** A tortura mental de Aria sobre Gabo começa forte.
+* **Pontos Fracos:**
+  * A evacuação do Fliperama pareceu um pouco fácil demais.
+
+### Capítulo 127: Catedrais de Pedra
+* **Nota:** ⭐ **9.5/10**
+* **Pontos Fortes:**
+  * **Ambiente:** O Nível 5 é descrito com uma grandiosidade opressiva ("Catedrais").
+  * **Lore:** A ideia de estruturas antigas esquecidas pela cidade moderna.
+* **Pontos Fracos:**
+  * A caminhada nos esgotos poderia ter mais perigos ambientais (gás, ratos).
+
+### Capítulo 128: O Ventre da Besta
+* **Nota:** ⭐ **9.3/10**
+* **Pontos Fortes:**
+  * **Combate:** A luta contra as "Quimeras" (cães ciborgues) é tensa e claustrofóbica.
+  * **Aria:** O contraste entre a inocência da voz de Bia e a violência das ações de Aria.
+* **Pontos Fracos:**
+  * A resolução da luta foi rápida.
+
+### Capítulo 129: Fluxo Reverso
+* **Nota:** ⭐ **9.0/10**
+* **Pontos Fortes:**
+  * **Horror:** A revelação dos "donors" filtrando o sangue da cidade é grotesque e brilhante.
+  * **Dilema:** Gabo escolhe o caos para salvar o grupo.
+* **Pontos Fracos:**
+  * A mecânica do "fluxo reverso" é um pouco conveniente.
+
+### Capítulo 130: Saturação
+* **Nota:** ⭐ **9.2/10**
+* **Pontos Fortes:**
+  * **Clímax:** A subida da maré de ácido/sangue cria uma contagem regressiva natural.
+  * **Diálogo:** Aria usando as memórias de Bia para ferir Gabo ("Você é ótimo em fazer o necessário").
+* **Pontos Fracos:**
+  * A sorte de encontrar a porta para a Velha Baía no último segundo.

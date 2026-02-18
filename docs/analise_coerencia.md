@@ -227,3 +227,41 @@ A narrativa estabeleceu solidamente os três pilares que sustentavam a corrupç�
 * **Tecnologia (Retorno ao Analógico):**
   * **Ação:** O uso de um caminhão a combustão interna ("Toupeira") porque os veículos elétricos modernos estão travados pelo firmware.
   * **Status:** ✅ Lógica impecável dentro do *worldbuilding* estabelecido (colapso da rede).
+
+
+### Capítulo 121: Fios Desencapados
+
+* **Fator Nicotina:**
+  * **Cenário:** Estresse pós-cirúrgico.
+  * **Reação:** Gabo usa a dor da queimadura acidental (ou proposital?) e o aperto no *Colar de Sol* para focar.
+  * **Status:** ✅ Mantido. A dor substitui a química.
+* **Coerência Médica:**
+  * **Ação:** Procedimentos de campo descritos com realismo (sutura, limpeza, sepse).
+  * **Status:** ✅ Aceitável para o gênero.
+
+### Capítulo 125: Ressonância
+
+* **Identidade de Aria:**
+  * **Evento:** Reinicialização traz fragmentos de Bia Vargas.
+  * **Impacto:** Aria alterna entre voz tática e voz infantil/emotiva.
+  * **Status:** ✅ Consistente com a teoria da "Dívida Técnica" apresentada anteriormente.
+* **Atmosfera:**
+  * **Evento:** Sirenes analógicas.
+  * **Status:** ✅ Reforça a queda da rede digital.
+
+### Capítulo 127: Catedrais de Pedra
+
+* **Geografia:**
+  * **Local:** Nível 5 (Drenagem Profunda).
+  * **Descrição:** Ambientes vastos, antigos, pedra vs. metal.
+  * **Status:** ✅ Expansão coerente do mapa da cidade.
+
+### Capítulo 130: Saturação
+
+* **Fator Nicotina (Teste de Estresse):**
+  * **Cenário:** O cheiro de sangue/ácido e a pressão de morte iminente.
+  * **Reação:** Gabo sente o "maço fantasma", a textura do papel, mas usa o cheiro de ferro e a dor física para se ancorar.
+  * **Status:** ✅ A tentação existe, a recaída não. Perfeito.
+* **Identidade de Aria:**
+  * **Comportamento:** Crueldade psicológica misturada com fatos táticos.
+  * **Status:** ✅ A fusão das personalidades está criando algo novo e perigoso.
