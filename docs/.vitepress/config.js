@@ -266,6 +266,7 @@ module.exports = {
               { text: 'Capítulo 129: Fluxo Reverso', link: '/capitulo-129' },
               { text: 'Capítulo 130: Saturação', link: '/capitulo-130' },
               { text: 'Capítulo 131: Necrópole', link: '/capitulo-131' },
+              { text: 'Capítulo 132: Esculturas de Carne', link: '/capitulo-132' },
             ]
           },
         ]
