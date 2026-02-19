@@ -7,7 +7,7 @@ O silêncio na Zona Morta do Setor 7 era uma entidade física. Tinha massa, text
 
 A estação de metrô abandonada, "Terminal Esperança", era uma catedral de concreto em ruínas. Os trilhos estavam submersos em uma água negra e oleosa que refletia o brilho intermitente das luzes de emergência. Grafites de gangues extintas cobriam os azulejos brancos, contando a história de guerras territoriais que ninguém mais lembrava.
 
-Gabriel "Gabo" Moretti estava sentado em um banco de plástico laranja, arrancado de algum vagão que não circulava há uma década. Ele limpava sua pistola Glock 19, desmontando-a peça por peça, limpando cada mola e pino com um pedaço de flanela embebido em óleo. O movimento era mecânico, meditativo. Clic. Clac. Desliza. Trava.
+Gabriel "Gabo" Moretti estava sentado em um banco de plástico laranja, arrancado de algum vagão que não circulava há uma década. Ele limpava sua pistola Glock 19, desmontando-a peça por peça, limpando cada mola e pino com um pedaço de flanela embebido em óleo. O movimento era mecânico, meditativo, exigindo um esforço brutal para ignorar a dor no ombro ferido. Clic. Clac. Desliza. Trava.
 
 Era a única coisa que mantinha suas mãos paradas.
 
