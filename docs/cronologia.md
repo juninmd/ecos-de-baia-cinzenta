@@ -76,17 +76,18 @@ A era da reconstrução autoritária.
 *   **Capítulo 129 (Fluxo Reverso):** O grupo atravessa a Estação de Bombeamento e descobre que o fluido é filtrado por cérebros humanos ("donors") integrados às paredes. Gabo inverte o fluxo do sistema para criar uma rota de fuga, destruindo os filtros e acionando as defesas de manutenção.
 *   **Capítulo 130 (Saturação):** A inversão do fluxo na Estação de Bombeamento provoca a subida de um fluído ácido de biomassa. Gabo carrega Rangel inconsciente enquanto enfrenta a tortura psicológica de Aria (Bia). O grupo escapa por pouco, adentrando um nível ainda mais profundo: a "Velha Baía", o cemitério original da cidade.
 *   **Capítulo 131 (Necrópole):** Selados no nível mais profundo da "Velha Baía", o grupo descobre que a cidade foi construída sobre um gigantesco ossário. Valéria tenta navegar sem rede em um ambiente saturado de gás metano, o que impede o uso de armas de fogo. Eles encontram evidências de que o Taxidermista está criando novas abominações ("Esculturas") nas catacumbas e se preparam para um confronto corpo a corpo.
+*   **Capítulo 132 (Esculturas de Carne):** O grupo atravessa a "Galeria de Rejeitos" na Necrópole, onde o Taxidermista descartou experimentos falhos de fusão carne-máquina. Sem poder usar armas de fogo devido ao metano, Gabo e Aria enfrentam uma "Escultura" ativa em combate corpo-a-corpo visceral. Valéria usa epóxi industrial para fechar os ferimentos de Rangel, que permanece crítico.
 
 ---
 
-## 📍 Status Atual dos Personagens (Pós-Capítulo 131)
+## 📍 Status Atual dos Personagens (Pós-Capítulo 132)
 
 | Personagem | Status | Localização | Estado Físico/Mental |
 | :--- | :--- | :--- | :--- |
-| **Gabo** | Líder / Combatente | Necrópole (Velha Baía) | Exausto. Armado com faca (devido ao risco de explosão). Focado na dor do colar para resistir ao vício. |
-| **Valéria** | Hacker / Suporte | Necrópole (Velha Baía) | Cega digitalmente. Navegando por instrumentos analógicos. |
-| **Aria** | Glitch de Identidade | Necrópole (Velha Baía) | Instável. Detectando ameaças biomecânicas ("Esculturas"). |
-| **Rangel** | Crítico / Inconsciente | Necrópole (Velha Baía) | Piora do quadro infeccioso. Peso morto sendo carregado. |
+| **Gabo** | Líder / Combatente | Necrópole (Velha Baía) | Ferido no ombro. Exausto. Armado com faca de cerâmica. |
+| **Valéria** | Hacker / Suporte | Necrópole (Velha Baía) | Usando tecnologia analógica. Sem rede. |
+| **Aria** | Glitch de Identidade | Necrópole (Velha Baía) | Alternando entre Bia (emocional) e Máquina (tática). |
+| **Rangel** | Crítico / Inconsciente | Necrópole (Velha Baía) | Estabilizado precariamente com cola industrial. |
 | **Dante** | Derrotado / Humano | Usina Prometeu (Ruínas) | Abandonado nos escombros. Vulnerável e desconectado da rede. |
 | **Elena** | Civil / Observadora | Delegacia Central (Provável) | Separada do grupo principal. Provável refém/peão de Dante. |
 | **Marco** | Rival / Administrador | Delegacia Central | Ativo. Consolidando poder na ausência de Dante. |

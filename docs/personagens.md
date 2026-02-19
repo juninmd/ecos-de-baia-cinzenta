@@ -37,7 +37,7 @@
 *   **Capítulo 105:** Retorna à Delegacia Central. Testemunha a "Ascensão" de Dante enquanto lida com a falha mecânica de suas órteses.
 *   **Capítulo 106:** Tenta reparar seu exoesqueleto sem sucesso. Intervém para impedir que Dante use força letal contra os manifestantes "Desconectados", descobrindo a existência da ameaça do "Silêncio".
 *   **Capítulo 107:** Tem seu exoesqueleto "consertado" por Dante com precisão cirúrgica e dolorosa. Junta-se à operação de "Sanitização" no porto para mitigar danos civis.
-*   **Atualidade:** Selado na Necrópole (Velha Baía) após escapar da Estação de Bombeamento. Prepara-se para combate corpo-a-corpo contra as criações do Taxidermista, impedido de usar armas de fogo pelo gás metano. Usa a dor do 'Colar de Sol' para se manter focado.
+*   **Atualidade:** Atravessando a "Galeria de Rejeitos" na Necrópole (Velha Baía). Ferido no ombro após combate com uma "Escultura". Armado apenas com uma faca de cerâmica devido ao risco de explosão de metano. Usa a dor do 'Colar de Sol' para se manter focado e resistir à abstinência.
 
 ---
 
@@ -65,7 +65,7 @@
 *   **Pré-Série:** Prodígio. Aparência: "Geek" limpa, roupas corporativas padrão.
 *   **Partes I-XII:** A Hacker Rebelde. Aparência: Cabelo neon (muda de cor), roupas cyberpunk, pele pálida.
 *   **Parte XIII:** O Sacrifício. Aparência: Veias prateadas da "Praga de Ferro" começam a aparecer no pescoço e braços. Olhos tornam-se inteiramente prateados.
-*   **Atualidade:** Navegando pela Necrópole sem acesso à rede. Utiliza conhecimentos de engenharia antiga para guiar o grupo.
+*   **Atualidade:** Navegando pela Necrópole sem acesso à rede, utilizando um medidor de gás analógico para evitar bolsões de metano. Realizou primeiros socorros de emergência em Rangel com epóxi industrial.
 
 ---
 
@@ -216,7 +216,7 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 ### ⏳ Linha do Tempo
 *   **Partes I-VIII:** Uma lenda urbana. Corpos aparecem modificados.
 *   **Capítulo 47 (O Dilúvio):** O confronto na Torre do Relógio. Gabo fica paraplégico.
-*   **Atualidade:** Transformou as catacumbas da 'Velha Baía' em seu laboratório. Criando 'Esculturas' (híbridos de carne e cerâmica) a partir dos ossos antigos e tecnologia descartada.
+*   **Atualidade:** Transformou as catacumbas da 'Velha Baía' em seu laboratório. Sua "Galeria de Rejeitos" (experimentos falhos de fusão carne-máquina) serve como primeira linha de defesa contra intrusos.
 
 ---
 
@@ -421,7 +421,7 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 *   **Capítulo 105:** Testemunha o retorno de Dante, que reativa sua máquina de escrever elétrica e os sistemas da delegacia.
 *   **Capítulo 106:** Torna-se o braço direito executivo de Dante, sobrecarregado pela velocidade de processamento do novo Comandante.
 *   **Capítulo 110:** Abandona o distintivo e foge para o subsolo com a resistência. Torna-se fugitivo procurado pela Aetherna.
-*   **Atualidade:** Inconsciente e em estado crítico na Necrópole (Velha Baía). Infecção piorando, exigindo intervenção médica urgente.
+*   **Atualidade:** Inconsciente e em estado crítico na Necrópole (Velha Baía). Ferimento abdominal temporariamente fechado com cola epóxi industrial para evitar evisceração durante o transporte.
 
 ---
 
@@ -486,7 +486,7 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 *   **Origem:** Começou como uma IA/Alucinação. Ganhou corpo físico durante a "Ascensão" de Dante, utilizando bio-engenharia roubada.
 *   **Capítulo 109:** Revela sua face física (Bia Vargas) para Rangel e bloqueia os drones de Dante.
 *   **Capítulo 118:** Sacrifica sua integridade lógica para salvar os "Drenados" do choque neural na Usina Prometeu.
-*   **Atualidade:** Detectando ameaças na Necrópole. Alterna entre a persona cruel de Bia Vargas e protocolos de análise tática.
+*   **Atualidade:** Protegendo o grupo na Necrópole. O glitch de personalidade (Bia Vargas) está se tornando mais frequente e emocionalmente manipulativo, contrastando com sua eficiência letal em combate.
 
 ---
 
