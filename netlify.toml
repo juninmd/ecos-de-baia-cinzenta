@@ -1,6 +1,5 @@
 [build]
   command = "npx --yes pnpm@9.15.4 install --frozen-lockfile && npx --yes pnpm@9.15.4 run docs:build"
- origin/master
   publish = "docs/.vitepress/dist"
 
 [build.environment]
