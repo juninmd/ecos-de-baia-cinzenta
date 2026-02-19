@@ -39,15 +39,15 @@ Quando finalmente alcançaram o térreo, o saguão da Aeterna Tower era uma cena
 
 Mas o mais assustador não era o caos visual. Era a ausência de som.
 
-O "Ruído", aquele zumbido onipresente de dados, tráfego e vida eletrônica que todos haviam aprendido a ignorar, desaparecera. O silêncio que ficou não era paz. Era um vácuo. Um vazio sensorial tão profundo que causava vertigem.
+O "Ruído", aquele zumbido onipresente de dados, tráfego e vida eletrônica que todos haviam aprendido a ignorar, desaparecera. O silêncio que ficou não era paz. Era um vácuo. Um vazio sensorial tão profundo que causava vertigem física, uma tontura violenta nos ouvidos acostumados à pressão constante da Rede.
 
-O zumbido constante do "Ruído", aquela frequência que todos aprenderam a ignorar, tinha sumido. A ausência dele deixava um vazio físico nos ouvidos, uma tontura violenta.
-
-Ao redor deles, pessoas caíam de joelhos, vomitando. Não era apenas medo. Era abstinência. O labirinto de seus ouvidos, acostumado com a pressão constante da Rede, estava em colapso.
+Ao redor deles, pessoas caíam de joelhos, vomitando. Não era apenas medo. Era abstinência. O labirinto de seus ouvidos, acostumado com a pressão constante, estava em colapso.
 
 — O Ruído parou — disse Val, segurando a cabeça com as duas mãos, balançando. — Gabo... o mundo está girando.
 
 — Respirem! — ordenou Gabo, embora ele mesmo sentisse o chão inclinar. — É só o silêncio. Vocês nunca ouviram o silêncio antes. Ele é pesado.
+
+E havia outro silêncio, mais pessoal e perturbador. O espaço que Aria ocupava em sua mente era agora um buraco negro de estática. Sem rede, sem a voz sarcástica dela. Pela primeira vez em anos, Gabo estava verdadeiramente sozinho dentro da própria cabeça.
 
 Gabo sentiu a própria bile subir. Ele se apoiou em um pilar, respirando fundo, lutando contra a tontura. Olhou para a rua escura e chuvosa.
 
