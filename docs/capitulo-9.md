@@ -13,6 +13,8 @@ O elevador subiu rápido demais. Gabriel sentiu a pressão nos ouvidos. Valéria
 
 — O sistema de automação. Ele não está rodando protocolos padrão. Está monitorando nosso peso. Batimentos cardíacos. Consumo de oxigênio. É intrusivo.
 
+— *Ele sabe que estamos aqui,* — a voz de Aria sussurrou no ouvido de Gabriel, vinda do comunicador de Valéria. — *Ele está curioso.*
+
 A porta se abriu na cobertura. O apartamento de Kiko Vibe cheirava a lavanda sintética e morte.
 
 Era um espaço amplo, minimalista, com paredes que eram telas gigantes, agora exibindo apenas estática cinza. No centro, a estação de transmissão: uma cadeira ergonômica cercada por anéis de luz e câmeras.
@@ -46,6 +48,10 @@ Gabriel correu de volta. As telas nas paredes haviam mudado. A estática sumiu, 
 Um som de tranca pesada ecoou na porta do elevador. As janelas, feitas de polímero inteligente, escureceram e se tornaram opacas. Placas de aço desceram sobre elas.
 
 — Gás! — Valéria apontou para os dutos. Uma fumaça amarela, pesada, começou a descer. — Halon modificado. Vai tirar todo o oxigênio da sala em dois minutos.
+
+— Aria, destranque a porta! — gritou Gabriel.
+
+— *Acesso negado,* — respondeu a menina digital, sua voz falhando. — *O firewall é físico. Alguém cortou a linha de dados externa. Estamos ilhados.*
 
 — Saída de incêndio? — Gabriel cobriu o rosto com a gola.
 
@@ -83,9 +89,11 @@ Gabriel ajudou-a a passar pela fresta. Ela se agarrou a um dos cabos de aço gro
 
 Assim que eles se penduraram, o sistema do prédio reagiu.
 
-— *Anomalia no fosso 1,* — disse a voz. — *Reiniciando cabine. Subida expressa.*
+— *Anomalia no fosso 1,* — disse a voz da IA do prédio. — *Reiniciando cabine. Subida expressa.*
 
-Lá embaixo, muito longe, luzes se acenderam. O zumbido de motores potentes ecoou. O elevador estava subindo. Rápido.
+Lá embaixo, muito longe, luzes se acenderam. O zumbido de motores de alto desempenho ecoou. O elevador estava subindo. Rápido.
+
+— *Vinte e sete segundos até o impacto,* — calculou Aria friamente no ouvido de Gabo.
 
 — Desliza! — gritou Gabriel.
 
@@ -117,7 +125,7 @@ Valéria olhou para suas mãos. As luvas estavam derretidas, as palmas em carne 
 
 — Eu odeio trabalho de campo — sussurrou ela, com lágrimas nos olhos.
 
-Gabriel encostou a cabeça na parede fria de concreto.
+Gabriel encostou a cabeça na parede fria de concreto, sentindo o pulso acelerado.
 
 — Bem-vinda à polícia, garota.
 

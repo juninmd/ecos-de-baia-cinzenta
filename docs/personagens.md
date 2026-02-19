@@ -37,7 +37,7 @@
 *   **Capítulo 105:** Retorna à Delegacia Central. Testemunha a "Ascensão" de Dante enquanto lida com a falha mecânica de suas órteses.
 *   **Capítulo 106:** Tenta reparar seu exoesqueleto sem sucesso. Intervém para impedir que Dante use força letal contra os manifestantes "Desconectados", descobrindo a existência da ameaça do "Silêncio".
 *   **Capítulo 107:** Tem seu exoesqueleto "consertado" por Dante com precisão cirúrgica e dolorosa. Junta-se à operação de "Sanitização" no porto para mitigar danos civis.
-*   **Atualidade:** Fugindo pelos Túneis de Serviço (Nível 5) após sabotar a Estação de Bombeamento. Ferido por mordida de Quimera. Resiste à manipulação psicológica de Aria focando na dor física.
+*   **Atualidade:** Selado na Necrópole (Velha Baía) após escapar da Estação de Bombeamento. Prepara-se para combate corpo-a-corpo contra as criações do Taxidermista, impedido de usar armas de fogo pelo gás metano. Usa a dor do 'Colar de Sol' para se manter focado.
 
 ---
 
@@ -65,7 +65,7 @@
 *   **Pré-Série:** Prodígio. Aparência: "Geek" limpa, roupas corporativas padrão.
 *   **Partes I-XII:** A Hacker Rebelde. Aparência: Cabelo neon (muda de cor), roupas cyberpunk, pele pálida.
 *   **Parte XIII:** O Sacrifício. Aparência: Veias prateadas da "Praga de Ferro" começam a aparecer no pescoço e braços. Olhos tornam-se inteiramente prateados.
-*   **Atualidade:** Fugindo pelos Túneis de Serviço (Nível 5). Cega digitalmente devido à interferência do subsolo. Armada apenas com pistola e visão analógica.
+*   **Atualidade:** Navegando pela Necrópole sem acesso à rede. Utiliza conhecimentos de engenharia antiga para guiar o grupo.
 
 ---
 
@@ -216,7 +216,7 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 ### ⏳ Linha do Tempo
 *   **Partes I-VIII:** Uma lenda urbana. Corpos aparecem modificados.
 *   **Capítulo 47 (O Dilúvio):** O confronto na Torre do Relógio. Gabo fica paraplégico.
-*   **Atualidade:** O Taxidermista aproveita o caos do "Vazio" (sem polícia, sem câmeras) para reiniciar sua "Grande Obra" nos túneis do metrô. Ele vê a nova era analógica como seu renascimento.
+*   **Atualidade:** Transformou as catacumbas da 'Velha Baía' em seu laboratório. Criando 'Esculturas' (híbridos de carne e cerâmica) a partir dos ossos antigos e tecnologia descartada.
 
 ---
 
@@ -421,7 +421,7 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 *   **Capítulo 105:** Testemunha o retorno de Dante, que reativa sua máquina de escrever elétrica e os sistemas da delegacia.
 *   **Capítulo 106:** Torna-se o braço direito executivo de Dante, sobrecarregado pela velocidade de processamento do novo Comandante.
 *   **Capítulo 110:** Abandona o distintivo e foge para o subsolo com a resistência. Torna-se fugitivo procurado pela Aetherna.
-*   **Atualidade:** Inconsciente e febril, sendo carregado por Gabo nos Túneis de Serviço. Risco iminente de colapso sistêmico.
+*   **Atualidade:** Inconsciente e em estado crítico na Necrópole (Velha Baía). Infecção piorando, exigindo intervenção médica urgente.
 
 ---
 
@@ -486,7 +486,7 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 *   **Origem:** Começou como uma IA/Alucinação. Ganhou corpo físico durante a "Ascensão" de Dante, utilizando bio-engenharia roubada.
 *   **Capítulo 109:** Revela sua face física (Bia Vargas) para Rangel e bloqueia os drones de Dante.
 *   **Capítulo 118:** Sacrifica sua integridade lógica para salvar os "Drenados" do choque neural na Usina Prometeu.
-*   **Atualidade:** Online (Instável). Manifesta agressivamente a personalidade de Bia Vargas para manipular Gabo. Acompanha o grupo na fuga pelos Túneis de Serviço.
+*   **Atualidade:** Detectando ameaças na Necrópole. Alterna entre a persona cruel de Bia Vargas e protocolos de análise tática.
 
 ---
 

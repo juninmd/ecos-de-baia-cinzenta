@@ -35,7 +35,7 @@ A linha ficou muda. Gabo praguejou baixinho.
 
 Gabriel engoliu rapidamente o resto de seu café, sentindo o gosto amargo descer pela garganta misturado com a bile da raiva. Ele não queria entrar lá. Aos trinta anos, sentia-se como se tivesse setenta. Seus joelhos estalavam, e a insônia da semana passada fazia as luzes da cidade deixarem rastros em sua visão periférica.
 
-Seus dedos da mão direita tamborilaram ritmicamente no couro do coldre, um tique nervoso para dar vazão à ansiedade acumulada. Ele nunca fumou — o cheiro de cigarro o enjoava desde criança, uma aversão visceral que nunca conseguiu explicar —, mas a necessidade de movimento constante era sua própria forma de dependência.
+Sua mão direita foi instintivamente para o peito, tateando sob a camisa até encontrar o metal frio do "Colar de Sol". Ele apertou o pingente com força, sentindo as arestas morderem a palma da mão. A dor aguda era seu âncora. Melhor que nicotina, melhor que álcool. A dor o lembrava de que ele ainda estava ali, físico e real, num mundo que tentava se dissolver em dados.
 
 Para piorar, sua bexiga protestava. Três canecas de café na última hora estavam cobrando o preço, mas não havia onde aliviar-se ali sem contaminar a cena ou ser visto pelos drones de imprensa que zumbiam como mosquitos no perímetro. Ele cerrou os dentes.
 
@@ -47,7 +47,7 @@ Ele avançou, desviando de poças que refletiam o céu cinza como espelhos quebr
 
 Ele ainda podia ver o corpo dela estendido no asfalto, o buraco de bala no peito fumegante. O relatório oficial dizia "assalto mal sucedido", mas Gabo sabia a verdade. Ele vira a sombra de Roberto Miranda se afastando no beco. Miranda, o amigo que virou carrasco. A dor daquela perda nunca cicatrizou; apenas calcificou, transformando-se em uma armadura de cinismo que ele vestia todos os dias.
 
-Ele sacudiu a cabeça, forçando o fantasma de Bia de volta para o fundo de sua mente. Agora não. Havia um trabalho a fazer.
+Ele sacudiu a cabeça, apertando o Colar de Sol mais uma vez, forçando o fantasma de Bia de volta para o fundo de sua mente. Agora não. Havia um trabalho a fazer.
 
 O corpo estava sentado, encostado em uma parede de zinco. Era um rapaz jovem, vinte e poucos anos, vestindo roupas de segunda mão que provavelmente pertenceram a alguém da cidade alta antes de serem descartadas. Cabelo azul desbotado, tatuagens de circuitos nos braços — um ativista, provavelmente. Alguém que acreditava que podia mudar o mundo gritando em praças públicas.
 
@@ -101,7 +101,7 @@ O menino na foto era ele.
 
 E atrás do menino, desfocado mas inconfundível, estava um homem observando. Um homem que Gabriel viu morrer há quinze anos: seu pai.
 
-— Cerquem a área — a voz de Gabriel saiu rouca, irreconhecível. — Ninguém entra, ninguém sai. E tragam a perita Cruz. Agora.
+— Cerquem a área — a voz de Gabriel saiu rouca, irreconhecível. — Ninguém entra, ninguém sai. E tragam a detetive Cruz. Agora.
 
 Ele olhou novamente para as lentes nos olhos do cadáver. Elas pareciam piscar, capturando cada milímetro de sua reação.
 

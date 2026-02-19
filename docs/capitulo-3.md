@@ -13,7 +13,11 @@ Ele notou dois agentes da Corregedoria em ternos cinza impecáveis — secos, ap
 
 Gabo ignorou o comentário sobre a plateia, embora seu pescoço tenha ficado tenso. Ele puxou um frasco de colírio barato do bolso e pingou duas gotas em cada olho. O ardor no globo ocular foi instantâneo, uma dor aguda que limpou sua mente por um segundo.
 
-— O trânsito no Distrito da Névoa estava um inferno, Jonas. O que temos?
+— O trânsito no Distrito da Névoa estava um inferno, Jonas. E meu carro... — Gabo olhou para o Cobalt estacionado na esquina, ainda piscando os faróis de forma errática. — Meu carro decidiu ter vontade própria no caminho para cá.
+
+— Problemas na injeção?
+
+— Problemas na alma da máquina. Mas esqueça. O que temos?
 
 — Arte. Pura e doente arte. Mas cuidado. Se você espirrar errado, eles vão usar isso para tirar seu distintivo. O promotor já ligou três vezes. Ele quer "eficiência cirúrgica", o que significa que se não resolvermos isso em 48 horas, ele vai arquivar como "acidente industrial" para não assustar os investidores da Aeterna.
 
@@ -45,11 +49,15 @@ As pálpebras haviam sido removidas. No lugar dos olhos, lentes de câmeras anal
 
 O som foi mecânico, vindo de dentro do crânio do rapaz. As lentes giraram, focando.
 
-— Não apenas ativas. Estão transmitindo — disse a perita técnica, uma mulher baixa chamada Valéria "Val" Cruz, que estava sentada no chão, cercada por cabos físicos conectados a um terminal portátil pesado. Nada de hologramas flutuantes aqui; apenas código rolando em telas de fósforo verde e o cheiro de processadores superaquecidos. — Não apenas ativas. Estão transmitindo.
+— Não apenas ativas. Estão transmitindo — disse a voz feminina vinda do chão.
 
-— Para onde? — perguntou Gabriel, agachando-se ao lado dela. Ele notou a sujeira nas unhas dela; Valéria tinha passado as últimas duas horas rastreando cabos físicos enterrados no concreto para encontrar o link.
+Sentada em posição de lótus, cercada por cabos físicos conectados a um terminal portátil pesado, estava a Detetive Valéria Cruz. Nada de hologramas flutuantes aqui; apenas código rolando em telas de fósforo verde e o cheiro de processadores superaquecidos.
 
-— Não consigo rastrear o sinal wireless, é muito volátil. Mas... — Ela apontou para um conduíte enferrujado na parede. — Eu segui a interferência estática com o medidor de campo. Há um repetidor físico instalado naquele quadro de força secundário. Quem fez isso teve que vir aqui, abrir a caixa com uma chave mestra e plugar o hardware manualmente.
+— Detetive Cruz — cumprimentou Gabo, surpreso. — Achei que você estivesse confinada no porão da Cybercrimes.
+
+Valéria levantou os olhos, um azul elétrico brilhando nas lentes de contato inteligentes.
+
+— O Dantas me soltou da coleira por bom comportamento. E porque ninguém mais na divisão sabe diferenciar um cabo coaxial de um macarrão instantâneo. — Ela voltou para a tela. — Não consigo rastrear o sinal wireless, é muito volátil. Mas... — Ela apontou para um conduíte enferrujado na parede. — Eu segui a interferência estática com o medidor de campo. Há um repetidor físico instalado naquele quadro de força secundário. Quem fez isso teve que vir aqui, abrir a caixa com uma chave mestra e plugar o hardware manualmente.
 
 — Manualmente? — Gabo sorriu, um sorriso de predador. — Ótimo. Hardware deixa impressões digitais. Deixa rastros de DNA. Esqueça o ciberespaço, Val. Vamos desmontar aquela caixa de força e ver quem tocou nela.
 
@@ -73,31 +81,29 @@ Mas havia algo errado. Gabriel puxou uma lupa de bolso e examinou a imagem sob a
 
 — O que foi? — perguntou Vilar, aproximando-se.
 
-— O relógio do meu pai — murmurou Gabriel. — Na foto... ele está marcando 14:45.
+— O relógio do meu pai — murmurou Gabriel, sentindo um gosto amargo na boca. — Na foto... ele está usando o relógio no pulso direito.
 
 — E daí?
 
-— Essa foto foi tirada no dia da inauguração da nova sede. A cerimônia foi de manhã. Às 14:45, meu pai estava em uma cirurgia de emergência depois de levar um tiro no ombro durante uma batida.
+— Meu pai era canhoto, Jonas. Ele *nunca* usava o relógio na direita. Dizia que atrapalhava o saque da arma. — Gabo passou o dedo sobre a imagem. — Essa foto foi manipulada. Ou então... não é o meu pai.
 
 Vilar ficou em silêncio.
 
 — É uma montagem? — sugeriu Valéria.
 
-— Não — Gabriel passou o dedo sobre a textura da foto. — É real. O que significa que a memória que eu tenho... ou a realidade que nos contaram... está errada.
+— Não — Gabriel balançou a cabeça. — É um código. "Direita". Ele sempre me dizia: "Se você se perder nos túneis, vire sempre à direita". — Ele virou a foto. No verso, escrito com uma caligrafia elegante e antiquada em tinta tinteiro:
 
-Ele virou a foto. No verso, escrito com uma caligrafia elegante e antiquada em tinta tinteiro:
-
-*"A verdade é um quebra-cabeça onde as peças não se encaixam, Detetive. Pergunte ao traidor onde ele enterrou a chave."*
+*"O caminho certo é aquele que ninguém vê. Pergunte ao traidor onde ele enterrou a chave."*
 
 — O traidor — Vilar bufou. — Miranda?
 
-— Ele ainda está vivo? — Gabriel guardou a foto em um saco de evidências.
+— Ele ainda está vivo? — Gabriel guardou a foto em um saco de evidências, sentindo o peso do passado esmagando suas costelas.
 
-— Ele conhece os túneis de drenagem da época da construção. Ninguém mapeou aquilo. É o único lugar que os sensores da Aeterna não alcançam. A Inteligência diz que ele está tentando vender informações para o Sindicato.
+— A Inteligência diz que ele foi visto nos níveis inferiores. Tentando vender informações para o Sindicato. Ele conhece os túneis de drenagem da época da construção. Ninguém mapeou aquilo.
 
 Gabriel olhou para as lentes nos olhos do cadáver uma última vez. Ele se aproximou, até que seu rosto preenchesse todo o campo de visão da transmissão.
 
-— Se você está me ouvindo — disse ele para a câmera, para o assassino, para o abismo — eu não vou apenas te prender. Eu vou te caçar. Vou entrevistar cada vizinho, revirar cada lata de lixo, e quando eu te encontrar, você vai desejar ter ficado no escuro.
+— Se você está me ouvindo — disse ele para a câmera, para o assassino, para a voz em seu carro — eu não vou apenas te prender. Eu vou te caçar. Vou entrevistar cada vizinho, revirar cada lata de lixo, e quando eu te encontrar, você vai desejar ter ficado no escuro.
 
 *Click.* O obturador disparou uma última vez, como se concordasse.
 
@@ -121,6 +127,6 @@ Ele se virou para sair, tirando as luvas com violência.
 
 — Moretti! Você não tem mandado! Isso é suicídio político!
 
-Gabriel parou na porta do galpão, a silhueta recortada contra a chuva torrencial.
+Gabriel parou na porta do galpão, a silhueta recortada contra a chuva torrencial. Ele apertou o Colar de Sol mais uma vez.
 
 — A política morreu com o meu pai, Jonas. Agora só sobrou a limpeza.

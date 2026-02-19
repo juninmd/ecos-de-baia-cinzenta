@@ -13,6 +13,8 @@ Valéria estava mancando. A descida pelo fosso do elevador havia torcido seu tor
 
 — E sangue — completou Gabriel. Ele conhecia aquele cheiro. Ferro e podridão.
 
+— *Detecto tráfego de rede massivo,* — a voz de Aria sussurrou. — *Mas não é internet. É... biológico. Milhares de nós. Gritando em silêncio.*
+
 Eles invadiram pelos fundos, cortando uma cerca de arame. O interior do galpão era vasto, iluminado por luzes de sódio amarelas que davam a tudo um aspecto doente.
 
 Não era uma fábrica de embalagens.
@@ -39,7 +41,7 @@ Eles viraram as cabeças para onde Gabriel e Valéria estavam escondidos.
 
 — Eles nos viram? — perguntou Valéria.
 
-— Eles sentem a gente — disse Gabriel, vendo os olhos vazios das criaturas. — Eles estão conectados na mesma rede local.
+— Eles sentem a gente — disse Gabriel, vendo os olhos vazios das criaturas.
 
 Uma voz ecoou pelos alto-falantes. Uma voz metálica e distorcida.
 
@@ -95,7 +97,9 @@ Gabriel olhou para a pilha de corpos esmagados. Um rosto, ainda intacto, sorria 
 
 — Aqui, sim — disse ele, limpando o rosto com a manga. — Mas quem construiu isso... ainda está lá fora.
 
-Ele pegou o braço de Valéria.
+— *Eles ainda estão gritando,* — disse Aria, sua voz trêmula pela primeira vez. — *Mesmo mortos, os dados continuam.*
+
+Gabriel pegou o braço de Valéria.
 
 — Vamos. Precisamos queimar este lugar antes de ir.
 
