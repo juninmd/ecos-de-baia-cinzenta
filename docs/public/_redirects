@@ -1,1 +1,2 @@
-# Valid _redirects
+# Redirects from what the browser requests to what we serve
+/test /index.html 200
