@@ -37,7 +37,7 @@
 *   **Capítulo 105:** Retorna à Delegacia Central. Testemunha a "Ascensão" de Dante enquanto lida com a falha mecânica de suas órteses.
 *   **Capítulo 106:** Tenta reparar seu exoesqueleto sem sucesso. Intervém para impedir que Dante use força letal contra os manifestantes "Desconectados", descobrindo a existência da ameaça do "Silêncio".
 *   **Capítulo 107:** Tem seu exoesqueleto "consertado" por Dante com precisão cirúrgica e dolorosa. Junta-se à operação de "Sanitização" no porto para mitigar danos civis.
-*   **Atualidade:** Atravessando a "Galeria de Rejeitos" na Necrópole (Velha Baía). Ferido no ombro após combate com uma "Escultura". Armado apenas com uma faca de cerâmica devido ao risco de explosão de metano. Usa a dor do 'Colar de Sol' para se manter focado e resistir à abstinência.
+*   **Atualidade:** Infiltrado no "Ateliê" do Taxidermista na Necrópole. Ferido no ombro e sofrendo de abstinência aguda, ancorado apenas pela dor do 'Colar de Sol'. Enfrenta guardiões de elite enquanto tenta proteger o grupo e lidar com o colapso de Aria.
 
 ---
 
@@ -65,7 +65,7 @@
 *   **Pré-Série:** Prodígio. Aparência: "Geek" limpa, roupas corporativas padrão.
 *   **Partes I-XII:** A Hacker Rebelde. Aparência: Cabelo neon (muda de cor), roupas cyberpunk, pele pálida.
 *   **Parte XIII:** O Sacrifício. Aparência: Veias prateadas da "Praga de Ferro" começam a aparecer no pescoço e braços. Olhos tornam-se inteiramente prateados.
-*   **Atualidade:** Navegando pela Necrópole sem acesso à rede, utilizando um medidor de gás analógico para evitar bolsões de metano. Realizou primeiros socorros de emergência em Rangel com epóxi industrial.
+*   **Atualidade:** No "Ateliê" do Taxidermista. Focada em hackear os sistemas locais e "acordar" Aria de seu estado catatônico, enquanto monitora os sinais vitais críticos de Rangel.
 
 ---
 
@@ -216,7 +216,7 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 ### ⏳ Linha do Tempo
 *   **Partes I-VIII:** Uma lenda urbana. Corpos aparecem modificados.
 *   **Capítulo 47 (O Dilúvio):** O confronto na Torre do Relógio. Gabo fica paraplégico.
-*   **Atualidade:** Transformou as catacumbas da 'Velha Baía' em seu laboratório. Sua "Galeria de Rejeitos" (experimentos falhos de fusão carne-máquina) serve como primeira linha de defesa contra intrusos.
+*   **Atualidade:** Opera a partir de seu "Ateliê" nas profundezas da Necrópole. Revelou estar construindo uma "Obra-Prima" final usando uma réplica do corpo de Bia Vargas como isca psicológica e receptáculo definitivo.
 
 ---
 
@@ -421,7 +421,7 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 *   **Capítulo 105:** Testemunha o retorno de Dante, que reativa sua máquina de escrever elétrica e os sistemas da delegacia.
 *   **Capítulo 106:** Torna-se o braço direito executivo de Dante, sobrecarregado pela velocidade de processamento do novo Comandante.
 *   **Capítulo 110:** Abandona o distintivo e foge para o subsolo com a resistência. Torna-se fugitivo procurado pela Aetherna.
-*   **Atualidade:** Inconsciente e em estado crítico na Necrópole (Velha Baía). Ferimento abdominal temporariamente fechado com cola epóxi industrial para evitar evisceração durante o transporte.
+*   **Atualidade:** Inconsciente e em estado crítico, sendo transportado em uma maca improvisada pelo "Ateliê". Ferimento estabilizado precariamente, mas sua condição é uma contagem regressiva para o grupo.
 
 ---
 
@@ -486,7 +486,7 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 *   **Origem:** Começou como uma IA/Alucinação. Ganhou corpo físico durante a "Ascensão" de Dante, utilizando bio-engenharia roubada.
 *   **Capítulo 109:** Revela sua face física (Bia Vargas) para Rangel e bloqueia os drones de Dante.
 *   **Capítulo 118:** Sacrifica sua integridade lógica para salvar os "Drenados" do choque neural na Usina Prometeu.
-*   **Atualidade:** Protegendo o grupo na Necrópole. O glitch de personalidade (Bia Vargas) está se tornando mais frequente e emocionalmente manipulativo, contrastando com sua eficiência letal em combate.
+*   **Atualidade:** Sofreu um colapso lógico e emocional completo ao encontrar uma réplica perfeita do corpo de Bia Vargas no laboratório do Taxidermista. Paralisada entre a identidade programada e a realidade física à sua frente.
 
 ---
 
