@@ -77,17 +77,18 @@ A era da reconstrução autoritária.
 *   **Capítulo 130 (Saturação):** A inversão do fluxo na Estação de Bombeamento provoca a subida de um fluído ácido de biomassa. Gabo carrega Rangel inconsciente enquanto enfrenta a tortura psicológica de Aria (Bia). O grupo escapa por pouco, adentrando um nível ainda mais profundo: a "Velha Baía", o cemitério original da cidade.
 *   **Capítulo 131 (Necrópole):** Selados no nível mais profundo da "Velha Baía", o grupo descobre que a cidade foi construída sobre um gigantesco ossário. Valéria tenta navegar sem rede em um ambiente saturado de gás metano, o que impede o uso de armas de fogo. Eles encontram evidências de que o Taxidermista está criando novas abominações ("Esculturas") nas catacumbas e se preparam para um confronto corpo a corpo.
 *   **Capítulo 132 (Esculturas de Carne):** O grupo atravessa a "Galeria de Rejeitos" na Necrópole, onde o Taxidermista descartou experimentos falhos de fusão carne-máquina. Sem poder usar armas de fogo devido ao metano, Gabo e Aria enfrentam uma "Escultura" ativa em combate corpo-a-corpo visceral. Valéria usa epóxi industrial para fechar os ferimentos de Rangel, que permanece crítico.
+*   **Capítulo 133 (Matéria Prima):** O grupo alcança o "Ateliê" do Taxidermista, um laboratório cirúrgico onde corpos são preparados como telas. Eles descobrem que o vilão está construindo uma "Obra-Prima" final. Aria sofre um colapso psicológico ao confrontar uma réplica perfeita do corpo de Bia Vargas preservada em uma vitrine. O Taxidermista ativa seus guardiões de elite para "proteger a arte".
 
 ---
 
-## 📍 Status Atual dos Personagens (Pós-Capítulo 132)
+## 📍 Status Atual dos Personagens (Pós-Capítulo 133)
 
 | Personagem | Status | Localização | Estado Físico/Mental |
 | :--- | :--- | :--- | :--- |
-| **Gabo** | Líder / Combatente | Necrópole (Velha Baía) | Ferido no ombro. Exausto. Armado com faca de cerâmica. |
-| **Valéria** | Hacker / Suporte | Necrópole (Velha Baía) | Usando tecnologia analógica. Sem rede. |
-| **Aria** | Glitch de Identidade | Necrópole (Velha Baía) | Alternando entre Bia (emocional) e Máquina (tática). |
-| **Rangel** | Crítico / Inconsciente | Necrópole (Velha Baía) | Estabilizado precariamente com cola industrial. |
+| **Gabo** | Líder / Combatente | Necrópole (O Ateliê) | Ferido no ombro. Abstinência severa controlada pela dor. |
+| **Valéria** | Hacker / Suporte | Necrópole (O Ateliê) | Focada em hackear o sistema local. Tensa. |
+| **Aria** | Choque / Glitch | Necrópole (O Ateliê) | Colapso de identidade ao ver o corpo de Bia. Inoperante taticamente. |
+| **Rangel** | Crítico / Inconsciente | Necrópole (O Ateliê) | Estável precariamente. Transportado em maca. |
 | **Dante** | Derrotado / Humano | Usina Prometeu (Ruínas) | Abandonado nos escombros. Vulnerável e desconectado da rede. |
 | **Elena** | Civil / Observadora | Delegacia Central (Provável) | Separada do grupo principal. Provável refém/peão de Dante. |
 | **Marco** | Rival / Administrador | Delegacia Central | Ativo. Consolidando poder na ausência de Dante. |
