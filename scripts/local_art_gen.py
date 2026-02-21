@@ -1,19 +1,42 @@
+import argparse
 import os
 import re
-import argparse
 import sys
-import requests
-import io
 import time
-from PIL import Image
+from pathlib import Path
 
-# Try to import torch/diffusers, but don't fail immediately if missing (for checking help etc)
+import requests
+
 try:
     import torch
-    from diffusers import StableDiffusionPipeline
+    from diffusers import FluxPipeline, StableDiffusionPipeline, StableDiffusionXLPipeline
 except ImportError:
     torch = None
+    FluxPipeline = None
     StableDiffusionPipeline = None
+    StableDiffusionXLPipeline = None
+
+MODEL_ALTERNATIVES = {
+    "flux-schnell": {
+        "label": "FLUX.1 Schnell (open source, melhor qualidade geral)",
+        "local_model_id": "black-forest-labs/FLUX.1-schnell",
+        "size": (768, 1024),
+        "steps": 30,
+    },
+    "sdxl": {
+        "label": "Stable Diffusion XL 1.0 (boa composição)",
+        "local_model_id": "stabilityai/stable-diffusion-xl-base-1.0",
+        "size": (768, 1024),
+        "steps": 34,
+    },
+    "sd15": {
+        "label": "Stable Diffusion 1.5 (rápido)",
+        "local_model_id": "runwayml/stable-diffusion-v1-5",
+        "size": (768, 1024),
+        "steps": 30,
+    },
+}
+
 
 class CharacterDatabase:
     def __init__(self, filepath):
@@ -23,291 +46,271 @@ class CharacterDatabase:
 
     def load(self):
         if not os.path.exists(self.filepath):
-            print(f"Error: Character file not found at {self.filepath}")
+            print(f"⚠️ Character file not found at {self.filepath}")
             return
 
-        with open(self.filepath, 'r', encoding='utf-8') as f:
+        with open(self.filepath, "r", encoding="utf-8") as f:
             content = f.read()
 
-        sections = re.split(r'\n## ', content)
-
-        for section in sections:
-            if not section.strip() or section.startswith('# '):
+        for section in re.split(r"\n## ", content):
+            if not section.strip() or section.startswith("# "):
                 continue
 
-            lines = section.split('\n')
-            name_line = lines[0].strip()
-            name_clean = re.sub(r'\s*\[.*?\]', '', name_line).strip()
-
-            image_match = re.search(r'!\[.*?\]\((.*?)\)', section)
-            image_path = image_match.group(1) if image_match else None
+            lines = section.split("\n")
+            name_line = lines[0].strip().replace("*", "")
+            name_clean = re.sub(r"\s*\[.*?\]", "", name_line).strip()
 
             description = []
             for line in lines:
-                if any(key in line for key in ["Porte Físico:", "Vestuário:", "Marcas Distintivas:", "Cabelo:", "Olhos:"]):
-                    description.append(line.replace('*', '').strip())
+                clean = line.replace("*", "").strip()
+                if any(
+                    key in clean
+                    for key in [
+                        "Porte Físico:",
+                        "Vestuário:",
+                        "Marcas Distintivas:",
+                        "Cabelo:",
+                        "Olhos:",
+                        "Rosto:",
+                        "Idade:",
+                    ]
+                ):
+                    description.append(clean)
 
-            full_desc = " ".join(description)
-
-            aliases = set()
-            aliases.add(name_clean)
-            nickname_match = re.search(r'"(.*?)"', name_clean)
-            if nickname_match:
-                aliases.add(nickname_match.group(1))
-
-            parts = name_clean.split()
-            if parts:
-                if len(parts[0]) > 2:
-                    aliases.add(parts[0])
+            aliases = {name_clean}
+            nick = re.search(r'"(.*?)"', name_clean)
+            if nick:
+                aliases.add(nick.group(1))
+            first = name_clean.split()[0] if name_clean.split() else ""
+            if len(first) > 2:
+                aliases.add(first)
 
             self.characters[name_clean] = {
                 "name": name_clean,
                 "aliases": list(aliases),
-                "image": image_path,
-                "description": full_desc,
-                "raw_section": section
+                "description": ". ".join(description),
             }
 
     def find_characters_in_text(self, text):
         found = []
-        text_lower = text.lower()
-
-        # Build map and pattern
-        alias_map = {}
-        all_aliases = []
         for char_data in self.characters.values():
             for alias in char_data["aliases"]:
-                lower_alias = alias.lower()
-                if lower_alias not in alias_map:
-                    alias_map[lower_alias] = []
-                    all_aliases.append(re.escape(lower_alias))
-                alias_map[lower_alias].append(char_data)
-
-        if not all_aliases:
-            return found
-
-        # Sort by length to match longest aliases first
-        all_aliases.sort(key=len, reverse=True)
-        pattern = r'\b(' + '|'.join(all_aliases) + r')\b'
-
-        matches = set(re.findall(pattern, text_lower))
-
-        # Deduplicate characters
-        found_ids = set()
-
-        for match in matches:
-            if match in alias_map:
-                for char_data in alias_map[match]:
-                    if char_data["name"] not in found_ids:
-                        found.append(char_data)
-                        found_ids.add(char_data["name"])
+                if re.search(rf"\b{re.escape(alias)}\b", text, re.IGNORECASE):
+                    found.append(char_data)
+                    break
         return found
+
 
 class ChapterContext:
     def __init__(self, chapter_num):
         self.chapter_num = chapter_num
-        self.filepath = f"docs/capitulo-{chapter_num}.md"
+        self.filepath = Path(f"docs/capitulo-{chapter_num}.md")
         self.content = ""
         self.frontmatter = ""
         self.body = ""
         self.load()
 
     def load(self):
-        if not os.path.exists(self.filepath):
-            print(f"Error: Chapter file not found at {self.filepath}")
-            sys.exit(1)
+        if not self.filepath.exists():
+            raise FileNotFoundError(f"Chapter file not found: {self.filepath}")
 
-        with open(self.filepath, 'r', encoding='utf-8') as f:
-            self.content = f.read()
-
-        if self.content.startswith('---'):
-            parts = self.content.split('---', 2)
+        self.content = self.filepath.read_text(encoding="utf-8")
+        if self.content.startswith("---"):
+            parts = self.content.split("---", 2)
             if len(parts) >= 3:
                 self.frontmatter = parts[1]
                 self.body = parts[2]
-            else:
-                self.body = self.content
-        else:
-            self.body = self.content
+                return
+        self.body = self.content
 
     def update_frontmatter(self, image_path):
-        if not image_path.startswith('/'):
-            public_path = '/' + os.path.basename(image_path)
-        else:
-            public_path = image_path
+        public_path = image_path if image_path.startswith("/") else f"/{os.path.basename(image_path)}"
 
         if self.frontmatter:
-            if 'image:' in self.frontmatter:
-                self.frontmatter = re.sub(r'image:.*', f'image: {public_path}', self.frontmatter)
+            if "image:" in self.frontmatter:
+                self.frontmatter = re.sub(r"image:.*", f"image: {public_path}", self.frontmatter)
             else:
-                self.frontmatter = self.frontmatter.rstrip() + f'\nimage: {public_path}\n'
+                self.frontmatter = self.frontmatter.rstrip() + f"\nimage: {public_path}\n"
         else:
-            self.frontmatter = f'\nimage: {public_path}\n'
+            self.frontmatter = f"\nimage: {public_path}\n"
 
-        new_content = f'---{self.frontmatter}---{self.body}'
-
-        with open(self.filepath, 'w', encoding='utf-8') as f:
-            f.write(new_content)
+        self.filepath.write_text(f"---{self.frontmatter}---{self.body}", encoding="utf-8")
         print(f"✅ Updated {self.filepath} with image: {public_path}")
 
+
 class OllamaClient:
-    def __init__(self, model="llama2"):
+    def __init__(self, model="qwen2.5:7b"):
         self.model = model
         self.api_url = "http://localhost:11434/api/generate"
-        print(f"🦙 Initializing Ollama Client (Model: {self.model})...")
 
     def check_connection(self, max_retries=3, retry_delay=2):
-        """Check if Ollama is accessible with retries"""
-        host = "http://localhost:11434"
         for attempt in range(max_retries):
             try:
-                response = requests.get(host, timeout=5)
-                if response.status_code == 200:
-                    print(f"✅ Successfully connected to Ollama at {host}")
+                if requests.get("http://localhost:11434", timeout=5).status_code == 200:
                     return True
-                else:
-                    raise Exception(f"HTTP {response.status_code}")
-            except Exception as e:
+            except Exception:
                 if attempt < max_retries - 1:
-                    print(f"⚠️ Connection attempt {attempt + 1} failed, retrying in {retry_delay}s...")
                     time.sleep(retry_delay)
-                else:
-                    print(f"❌ Failed to connect to Ollama after {max_retries} attempts: {e}")
         return False
 
-    def extract_scene(self, chapter_text, active_characters):
-        char_names = ", ".join([c['name'] for c in active_characters])
-
-        prompt = (
-            f"You are an expert visual director. Your task is to identify the most visually striking scene from the text and write a detailed image generation prompt for it.\n\n"
-            f"Analyze this chapter snippet.\n"
-            f"Characters present: {char_names}\n\n"
-            f"CHAPTER TEXT:\n{chapter_text[:1500]}...\n\n"
-            f"Write a single paragraph describing the visual scene for an image generator. Focus on lighting, atmosphere, and action. Do not include dialogue."
+    def build_fallback_prompt(self, chapter_text, active_characters, style):
+        canon = "; ".join(f"{c['name']}: {c['description'][:120]}" for c in active_characters[:2])
+        snippet = re.sub(r"\s+", " ", chapter_text[:240]).strip()
+        return (
+            f"Cinematic noir cyberpunk frame, {style}. "
+            f"Rainy night alley with brutal contrast and practical neon, dynamic composition, 35mm lens feeling, "
+            f"foreground subject under rim light, dense atmosphere, environmental storytelling props. "
+            f"Character continuity: {canon or 'sem personagens nomeados'}. "
+            f"Narrative beat: {snippet}. "
+            "ultra cinematic, noir cyberpunk, volumetric rain, film grain, masterpiece"
         )
 
+    def generate_prompt(self, chapter_text, active_characters, style):
+        char_context = "\n".join(f"- {c['name']}: {c['description'][:240]}" for c in active_characters[:3])
+        if not char_context:
+            char_context = "- No named characters detected"
+
+        payload = {
+            "model": self.model,
+            "stream": False,
+            "system": (
+                "You are an elite visual director generating production prompts for open-source diffusion models. "
+                "Prioritize composition clarity, character consistency and cinematic storytelling."
+            ),
+            "prompt": (
+                "Select the single best visual moment from the chapter excerpt and write ONE image prompt in English.\n"
+                f"Style target: {style}\n"
+                f"Character canon:\n{char_context}\n\n"
+                f"Chapter excerpt:\n{chapter_text[:2600]}\n\n"
+                "Requirements: include camera framing, lens feel, key props, action beat, weather, light, mood. "
+                "No bullets, no dialogue, max 180 words. "
+                "End with: ultra cinematic, noir cyberpunk, volumetric rain, film grain, masterpiece."
+            ),
+        }
+
         try:
-            # Increase timeout to 5 minutes for larger models and slower systems
-            response = requests.post(self.api_url, json={
-                "model": self.model,
-                "prompt": prompt,
-                "stream": False
-            }, timeout=300)
+            response = requests.post(self.api_url, json=payload, timeout=240)
             response.raise_for_status()
-            result = response.json()
-            return result.get("response", "").strip()
-        except requests.exceptions.Timeout:
-            print(f"⚠️ Ollama request timed out after 300 seconds")
-            print("Using fallback prompt instead.")
-            return "Dark dystopian city scene, high contrast, cinematic lighting."
-        except Exception as e:
-            print(f"⚠️ Ollama Text Extraction Failed: {e}")
-            print("Make sure Ollama is running (ollama serve) and the model is pulled.")
-            return "Dark dystopian city scene, high contrast, cinematic lighting."
+            prompt = response.json().get("response", "").strip()
+            return prompt or self.build_fallback_prompt(chapter_text, active_characters, style)
+        except Exception:
+            return self.build_fallback_prompt(chapter_text, active_characters, style)
+
 
 class LocalDiffusionClient:
-    def __init__(self):
-        print("🖥️ Initializing Local Stable Diffusion (Diffusers)...")
-        if torch is None or StableDiffusionPipeline is None:
-            raise ImportError("Missing dependencies. Please run: pip install torch diffusers transformers accelerate")
+    def __init__(self, model_family="flux-schnell"):
+        self.model_family = model_family
+        self.pipeline = None
+        self.device = "cpu"
+        self.negative_prompt = (
+            "low quality, blurry, bad anatomy, extra limbs, duplicated body, text, watermark, logo, anime, cartoon"
+        )
 
+    def _setup_pipeline(self):
+        if not (torch and StableDiffusionPipeline):
+            raise RuntimeError("Missing torch/diffusers dependencies for local generation")
+
+        cfg = MODEL_ALTERNATIVES[self.model_family]
+        model_id = os.environ.get("ART_MODEL_ID", cfg["local_model_id"])
         self.device = "cuda" if torch.cuda.is_available() else "cpu"
-        print(f"⚙️ Running on device: {self.device}")
 
-        # Use a small/compatible model. "runwayml/stable-diffusion-v1-5" is standard and widely compatible.
-        self.model_id = "runwayml/stable-diffusion-v1-5"
+        if self.model_family == "flux-schnell":
+            if FluxPipeline is None:
+                raise RuntimeError("FluxPipeline unavailable in installed diffusers version")
+            dtype = torch.bfloat16 if self.device == "cuda" else torch.float32
+            self.pipeline = FluxPipeline.from_pretrained(model_id, torch_dtype=dtype)
+        elif self.model_family == "sdxl":
+            if StableDiffusionXLPipeline is None:
+                raise RuntimeError("StableDiffusionXLPipeline unavailable")
+            dtype = torch.float16 if self.device == "cuda" else torch.float32
+            self.pipeline = StableDiffusionXLPipeline.from_pretrained(model_id, torch_dtype=dtype)
+        else:
+            self.pipeline = StableDiffusionPipeline.from_pretrained(model_id, torch_dtype=torch.float32)
 
-        print(f"... Loading model {self.model_id}...")
-        try:
-            self.pipe = StableDiffusionPipeline.from_pretrained(self.model_id, torch_dtype=torch.float32) # float32 for CPU safety
-            self.pipe = self.pipe.to(self.device)
-            # Enable attention slicing to save memory
-            self.pipe.enable_attention_slicing()
-        except Exception as e:
-             raise RuntimeError(f"Failed to load Stable Diffusion model: {e}")
+        self.pipeline.to(self.device)
+        if hasattr(self.pipeline, "enable_attention_slicing"):
+            self.pipeline.enable_attention_slicing()
 
-    def generate_art(self, prompt, output_path):
-        print("\n" + "="*50)
-        print("🖥️ LOCAL GENERATION REQUEST")
-        print("="*50)
-        print(f"**PROMPT:**\n{prompt}\n")
-
-        try:
-            print(f"... Generating image (this may take time on CPU)...")
-            # Low steps for CI speed, but enough for "proof"
-            image = self.pipe(prompt, num_inference_steps=20).images[0]
-
-            image.save(output_path)
-            print(f"✅ IMAGE GENERATED: {output_path}")
-            return output_path
-
-        except Exception as e:
-            print(f"❌ Generation Failed: {e}")
-            return None
-
-def process_chapter(chapter_num, text_engine, image_engine, db, project_root, style):
-    print(f"\n📂 PROCESSING CHAPTER {chapter_num} (LOCAL MODE)...")
-    try:
-        chapter = ChapterContext(chapter_num)
-        active_chars = db.find_characters_in_text(chapter.body)
-        char_names = [c['name'] for c in active_chars]
-        print(f"Detected Characters: {', '.join(char_names)}")
-
-        # Extract Scene using Text Engine (Ollama)
-        scene_prompt = text_engine.extract_scene(chapter.body, active_chars)
-
-        # Build Final Prompt for Image Engine
-        final_prompt = f"{scene_prompt}, {style}, 8k resolution, cinematic lighting, masterpiece"
-
-        if active_chars:
-            main_char = active_chars[0]
-            desc_snippet = active_chars[0]['description'][:100]
-            final_prompt += f", featuring character: {main_char['name']} ({desc_snippet})"
-
-        # Define Output
-        output_filename = f"capitulo_{chapter_num}.jpg"
-        output_path = os.path.join(project_root, "docs/public", output_filename)
-        os.makedirs(os.path.dirname(output_path), exist_ok=True)
-
-        # Generate using Image Engine (Local SD)
-        result_path = image_engine.generate_art(final_prompt, output_path)
-
-        if result_path:
-            chapter.update_frontmatter(f"/{output_filename}")
+    def generate_art(self, prompt, output_path, dry_run=False):
+        if dry_run:
+            print(f"🧪 [DRY RUN] Prompt final:\n{prompt}\n")
             return True
-        return False
 
-    except Exception as e:
-        print(f"❌ Error processing Chapter {chapter_num}: {e}")
-        return False
+        if self.pipeline is None:
+            self._setup_pipeline()
+
+        steps = MODEL_ALTERNATIVES[self.model_family]["steps"]
+        image = self.pipeline(
+            prompt=prompt,
+            negative_prompt=self.negative_prompt,
+            num_inference_steps=steps,
+            guidance_scale=6.5 if self.model_family == "flux-schnell" else 7.0,
+        ).images[0]
+        image.save(output_path)
+        return True
+
+
+def parse_chapter_selection(raw: str):
+    selected = []
+    for chunk in raw.replace(" ", "").split(","):
+        if "-" in chunk:
+            start, end = map(int, chunk.split("-"))
+            selected.extend(range(start, end + 1))
+        elif chunk:
+            selected.append(int(chunk))
+    return sorted(set(selected))
+
+
+def process_chapter(chapter_num, text_engine, image_engine, db, project_root, style, dry_run):
+    chapter = ChapterContext(chapter_num)
+    active_chars = db.find_characters_in_text(chapter.body)
+    prompt = text_engine.generate_prompt(chapter.body, active_chars, style)
+
+    if active_chars:
+        cast_hint = ", ".join(c["name"] for c in active_chars[:2])
+        prompt = f"{prompt}. Characters featured: {cast_hint}."
+
+    output_filename = f"capitulo_{chapter_num}.jpg"
+    output_path = Path(project_root) / "docs/public" / output_filename
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+
+    ok = image_engine.generate_art(prompt, str(output_path), dry_run=dry_run)
+    if ok and not dry_run:
+        chapter.update_frontmatter(f"/{output_filename}")
+    return ok
+
 
 def main():
-    parser = argparse.ArgumentParser(description="Generate Art (Fully Local Mode)")
-    parser.add_argument('chapters', type=str, help="Chapter number")
-    parser.add_argument('--style', type=str, help="Style modifier", default="cyberpunk, noir")
-    parser.add_argument('--ollama-model', type=str, default="llama2", help="Model to use with Ollama")
+    parser = argparse.ArgumentParser(description="Generate chapter art locally (Open Source Nano Banana quality)")
+    parser.add_argument("chapters", type=str, help="Chapter number, list (1,2,3) or range (10-14)")
+    parser.add_argument("--style", default="neo-noir cinematic cyberpunk", help="Visual style modifier")
+    parser.add_argument("--ollama-model", default="qwen2.5:7b", help="Ollama model for prompt generation")
+    parser.add_argument("--model-family", default="flux-schnell", choices=MODEL_ALTERNATIVES.keys())
+    parser.add_argument("--dry-run", action="store_true", help="Print prompts without generating images")
     args = parser.parse_args()
 
+    chapters = parse_chapter_selection(args.chapters)
     project_root = os.getcwd()
-    char_file = os.path.join(project_root, "docs/personagens.md")
+
+    text_engine = OllamaClient(model=args.ollama_model)
+    if not text_engine.check_connection():
+        print("⚠️ Ollama offline. Falling back to deterministic prompt templates.")
 
     try:
-        # Initialize Engines
-        text_engine = OllamaClient(model=args.ollama_model)
-        
-        # Check Ollama connection before proceeding
-        if not text_engine.check_connection():
-            print("⚠️ Ollama is not available. Using fallback prompt generation.")
-        
-        image_engine = LocalDiffusionClient()
+        image_engine = LocalDiffusionClient(model_family=args.model_family)
+        db = CharacterDatabase(os.path.join(project_root, "docs/personagens.md"))
 
-        db = CharacterDatabase(char_file)
+        success_count = 0
+        for chapter_num in chapters:
+            print(f"\n📂 Processing chapter {chapter_num}")
+            if process_chapter(chapter_num, text_engine, image_engine, db, project_root, args.style, args.dry_run):
+                success_count += 1
 
-        process_chapter(int(args.chapters), text_engine, image_engine, db, project_root, args.style)
-
-    except Exception as e:
-        print(f"❌ Fatal Error: {e}")
+        print(f"\n🏁 Done. Successful chapters: {success_count}/{len(chapters)}")
+    except Exception as exc:
+        print(f"❌ Fatal error: {exc}")
         sys.exit(1)
+
 
 if __name__ == "__main__":
     main()
