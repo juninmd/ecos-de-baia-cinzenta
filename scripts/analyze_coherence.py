@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import re
+import argparse
 from dataclasses import dataclass
 from pathlib import Path
 from statistics import mean
@@ -159,7 +160,44 @@ def bestseller_score(chapters: list[Chapter]) -> tuple[float, list[str]]:
     return min(score, 10.0), notes
 
 
+def render_report(chapters: list[Chapter], issues: list[str], score: float, notes: list[str]) -> str:
+    status = "✅ APROVADO" if not issues else "⚠️ REVISÃO RECOMENDADA"
+    lines = [
+        "# Relatório de Coerência Narrativa (Automatizado)",
+        "",
+        f"- **Status:** {status}",
+        f"- **Capítulos analisados:** {len(chapters)}",
+        f"- **Score de qualidade estimado:** {score:.1f}/10",
+        "",
+        "## Indicadores de qualidade",
+    ]
+    lines.extend(f"- {note}" for note in notes)
+    lines.extend(["", "## Pontos de atenção de coerência"])
+    if issues:
+        lines.extend(f"- {issue}" for issue in issues)
+    else:
+        lines.append("- Nenhuma inconsistência relevante encontrada nas regras automatizadas.")
+
+    lines.extend([
+        "",
+        "## Recomendações editoriais",
+        "- Revisar manualmente os capítulos sinalizados sobre o traço de fumo do Gabo para manter a consistência da voz do protagonista.",
+        "- Consolidar os capítulos que ainda estão em `docs/public/` para manter uma única fonte canônica em `docs/`.",
+        "- Reexecutar este script a cada novo bloco de 3 a 5 capítulos para monitoramento contínuo.",
+    ])
+    return "\n".join(lines) + "\n"
+
+
 def main() -> int:
+    parser = argparse.ArgumentParser(description="Auditoria automatizada de coerência narrativa")
+    parser.add_argument(
+        "--write-report",
+        type=Path,
+        default=None,
+        help="Caminho para salvar o relatório em markdown (ex: docs/analise_coerencia.md)",
+    )
+    args = parser.parse_args()
+
     chapters = load_chapters()
     aliases = parse_character_aliases()
 
@@ -183,10 +221,15 @@ def main() -> int:
         print("\n⚠️ Pontos de atenção de coerência:")
         for issue in issues:
             print(f"  - {issue}")
-        return 1
+    else:
+        print("\n✅ Coerência validada: personagens, sequência e pasta de capítulos estão padronizados.")
 
-    print("\n✅ Coerência validada: personagens, sequência e pasta de capítulos estão padronizados.")
-    return 0
+    if args.write_report:
+        report = render_report(chapters, issues, score, notes)
+        args.write_report.write_text(report, encoding="utf-8")
+        print(f"\n📝 Relatório markdown salvo em: {args.write_report}")
+
+    return 1 if issues else 0
 
 
 if __name__ == "__main__":
