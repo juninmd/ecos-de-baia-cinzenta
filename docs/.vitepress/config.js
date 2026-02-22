@@ -269,6 +269,7 @@ module.exports = {
               { text: 'Capítulo 132: Esculturas de Carne', link: '/capitulo-132' },
               { text: 'Capítulo 133: Matéria Prima', link: '/capitulo-133' },
               { text: 'Capítulo 134: Vale da Estranheza', link: '/capitulo-134' },
+              { text: 'Capítulo 135: Otimização de Perdas', link: '/capitulo-135' },
             ]
           },
         ]
