@@ -126,6 +126,7 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 
 # Instalar dependências
 uv pip install -r requirements.txt
+uv pip install -r requirements-art.txt
 
 # Configurar ambiente
 python scripts/setup_assets.py

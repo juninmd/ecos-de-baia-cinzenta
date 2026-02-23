@@ -6,7 +6,7 @@ from unittest.mock import patch, mock_open
 # Add scripts to path
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../scripts')))
 
-from generate_chapter_art import CharacterDatabase, ChapterContext
+from generate_chapter_art import CharacterDatabase, ChapterContext, ImageGenerator
 
 @pytest.fixture
 def mock_char_file():
@@ -58,3 +58,34 @@ def test_chapter_context_frontmatter(mock_chapter_file):
             handle.write.assert_called()
             args = handle.write.call_args[0][0]
             assert "image: /new_image.jpg" in args
+
+
+
+def test_image_generator_uses_selected_model_only(monkeypatch):
+    class DummyPipe:
+        def to(self, _):
+            return self
+
+        def enable_attention_slicing(self):
+            return None
+
+    attempts = []
+
+    def fake_sdxl(*args, **kwargs):
+        attempts.append("sdxl")
+        return DummyPipe()
+
+    def fail_if_called(*args, **kwargs):
+        raise AssertionError("unexpected model fallback")
+
+    monkeypatch.setattr("generate_chapter_art.torch", type("FakeTorch", (), {"cuda": type("Cuda", (), {"is_available": staticmethod(lambda: False)})(), "float32": object(), "float16": object(), "bfloat16": object()}))
+    monkeypatch.setattr("generate_chapter_art.FluxPipeline", type("Flux", (), {"from_pretrained": staticmethod(fail_if_called)}))
+    monkeypatch.setattr("generate_chapter_art.StableDiffusionXLPipeline", type("SDXL", (), {"from_pretrained": staticmethod(fake_sdxl)}))
+    monkeypatch.setattr("generate_chapter_art.StableDiffusionPipeline", type("SD15", (), {"from_pretrained": staticmethod(fail_if_called)}))
+
+    generator = ImageGenerator(model_family="sdxl")
+    generator._setup_local_pipeline()
+
+    assert generator.pipeline is not None
+    assert generator.model_family == "sdxl"
+    assert attempts == ["sdxl"]
