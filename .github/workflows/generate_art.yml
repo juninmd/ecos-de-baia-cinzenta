@@ -71,6 +71,11 @@ jobs:
           SD_API_URL: ${{ secrets.SD_API_URL }}
           OLLAMA_HOST: http://localhost:11434
         run: |
+          if [ -z "${SD_API_URL}" ]; then
+            echo "SD_API_URL is not configured. Skipping image generation to avoid slow CPU fallback timeout."
+            exit 0
+          fi
+
           CHAPTER="${{ github.event.inputs.chapter || '' }}"
           if [ -z "$CHAPTER" ]; then
             # Attempt to find changed chapter file for push events
