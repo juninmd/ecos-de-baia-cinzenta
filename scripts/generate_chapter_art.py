@@ -256,6 +256,13 @@ class OllamaClient:
 class ImageGenerator:
     def __init__(self, api_url=None, model_family="sdxl"):
         self.api_url = api_url or os.environ.get("SD_API_URL")
+        self.allow_cpu_fallback = os.environ.get("ART_ALLOW_CPU_FALLBACK", "0").lower() in {
+            "1",
+            "true",
+            "yes",
+            "on",
+        }
+        self.remote_timeout = int(os.environ.get("SD_API_TIMEOUT", "120"))
         self.model_family = model_family
         self.pipeline = None
         self.device = "cpu"
@@ -263,6 +270,19 @@ class ImageGenerator:
             "low quality, blurry, bad anatomy, extra limbs, deformed face, duplicated character, "
             "text, watermark, logo, frame, jpeg artifacts, cartoon, anime"
         )
+
+        if not self.api_url:
+            default_url = "http://127.0.0.1:7860"
+            if self._is_remote_available(default_url):
+                self.api_url = default_url
+                print(f"ℹ️ SD_API_URL not set. Using detected local API at {self.api_url}")
+
+    def _is_remote_available(self, base_url):
+        try:
+            response = requests.get(f"{base_url}/sdapi/v1/options", timeout=2)
+            return response.ok
+        except Exception:
+            return False
 
     def _setup_local_pipeline(self):
         if not (torch and StableDiffusionPipeline):
@@ -328,7 +348,17 @@ class ImageGenerator:
             return True
 
         if self.api_url:
-            return self._generate_remote(prompt, output_path)
+            if self._is_remote_available(self.api_url):
+                return self._generate_remote(prompt, output_path)
+            print(f"⚠️ SD API unavailable at {self.api_url}. Falling back to local backend.")
+
+        if not self.allow_cpu_fallback and not (torch and torch.cuda.is_available()):
+            print(
+                "⚠️ SD_API_URL is not configured/reachable and GPU is unavailable. "
+                "Skipping local CPU generation for performance. "
+                "Set SD_API_URL or ART_ALLOW_CPU_FALLBACK=1 to force CPU generation."
+            )
+            return False
 
         if self.pipeline is None:
             self._setup_local_pipeline()
@@ -343,7 +373,11 @@ class ImageGenerator:
         print(f"🌐 Sending to Remote SD API: {self.api_url} (model_family={self.model_family})")
         payload = self._remote_payload(prompt)
         try:
-            resp = requests.post(f"{self.api_url}/sdapi/v1/txt2img", json=payload, timeout=300)
+            resp = requests.post(
+                f"{self.api_url}/sdapi/v1/txt2img",
+                json=payload,
+                timeout=self.remote_timeout,
+            )
             resp.raise_for_status()
             image_b64 = resp.json()['images'][0]
 
@@ -353,7 +387,7 @@ class ImageGenerator:
             print(f"✅ Image saved to {output_path}")
             return True
         except requests.exceptions.Timeout:
-            print("❌ Remote SD API request timed out after 300 seconds")
+            print(f"❌ Remote SD API request timed out after {self.remote_timeout} seconds")
             return False
         except Exception as e:
             print(f"❌ Remote Generation Failed: {e}")
