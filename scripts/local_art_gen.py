@@ -198,7 +198,7 @@ class OllamaClient:
 
 
 class LocalDiffusionClient:
-    def __init__(self, model_family="flux-schnell"):
+    def __init__(self, model_family="sdxl"):
         self.model_family = model_family
         self.pipeline = None
         self.device = "cpu"
@@ -210,26 +210,29 @@ class LocalDiffusionClient:
         if not (torch and StableDiffusionPipeline):
             raise RuntimeError("Missing torch/diffusers dependencies for local generation")
 
+        self.device = "cuda" if torch.cuda.is_available() else "cpu"
         cfg = MODEL_ALTERNATIVES[self.model_family]
         model_id = os.environ.get("ART_MODEL_ID", cfg["local_model_id"])
-        self.device = "cuda" if torch.cuda.is_available() else "cpu"
 
-        if self.model_family == "flux-schnell":
-            if FluxPipeline is None:
-                raise RuntimeError("FluxPipeline unavailable in installed diffusers version")
-            dtype = torch.bfloat16 if self.device == "cuda" else torch.float32
-            self.pipeline = FluxPipeline.from_pretrained(model_id, torch_dtype=dtype)
-        elif self.model_family == "sdxl":
-            if StableDiffusionXLPipeline is None:
-                raise RuntimeError("StableDiffusionXLPipeline unavailable")
-            dtype = torch.float16 if self.device == "cuda" else torch.float32
-            self.pipeline = StableDiffusionXLPipeline.from_pretrained(model_id, torch_dtype=dtype)
-        else:
-            self.pipeline = StableDiffusionPipeline.from_pretrained(model_id, torch_dtype=torch.float32)
-
+        self.pipeline = self._load_pipeline(self.model_family, model_id)
         self.pipeline.to(self.device)
         if hasattr(self.pipeline, "enable_attention_slicing"):
             self.pipeline.enable_attention_slicing()
+
+    def _load_pipeline(self, family, model_id):
+        if family == "flux-schnell":
+            if FluxPipeline is None:
+                raise RuntimeError("FluxPipeline unavailable in installed diffusers version")
+            dtype = torch.bfloat16 if self.device == "cuda" else torch.float32
+            return FluxPipeline.from_pretrained(model_id, torch_dtype=dtype)
+
+        if family == "sdxl":
+            if StableDiffusionXLPipeline is None:
+                raise RuntimeError("StableDiffusionXLPipeline unavailable")
+            dtype = torch.float16 if self.device == "cuda" else torch.float32
+            return StableDiffusionXLPipeline.from_pretrained(model_id, torch_dtype=dtype)
+
+        return StableDiffusionPipeline.from_pretrained(model_id, torch_dtype=torch.float32)
 
     def generate_art(self, prompt, output_path, dry_run=False):
         if dry_run:
@@ -285,7 +288,7 @@ def main():
     parser.add_argument("chapters", type=str, help="Chapter number, list (1,2,3) or range (10-14)")
     parser.add_argument("--style", default="neo-noir cinematic cyberpunk", help="Visual style modifier")
     parser.add_argument("--ollama-model", default="qwen2.5:7b", help="Ollama model for prompt generation")
-    parser.add_argument("--model-family", default="flux-schnell", choices=MODEL_ALTERNATIVES.keys())
+    parser.add_argument("--model-family", default="sdxl", choices=MODEL_ALTERNATIVES.keys())
     parser.add_argument("--dry-run", action="store_true", help="Print prompts without generating images")
     args = parser.parse_args()
 

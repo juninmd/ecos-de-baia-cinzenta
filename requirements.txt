@@ -2,6 +2,7 @@
 google-genai
 pillow
 requests
+ollama>=0.4.7
 
 # Video Generation Stack (simplified - gTTS only)
 gtts>=2.5.0

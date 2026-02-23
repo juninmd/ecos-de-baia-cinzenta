@@ -48,7 +48,7 @@ def print_alternatives() -> None:
     for key, data in MODEL_ALTERNATIVES.items():
         print(f"- {key}: {data['label']}")
         print(f"  model_id: {data['local_model_id']}")
-    print("\n✅ Recomendada (implementada por padrão): flux-schnell\n")
+    print("\n✅ Recomendada (implementada por padrão): sdxl\n")
 
 
 class CharacterDatabase:
@@ -254,7 +254,7 @@ class OllamaClient:
 
 
 class ImageGenerator:
-    def __init__(self, api_url=None, model_family="flux-schnell"):
+    def __init__(self, api_url=None, model_family="sdxl"):
         self.api_url = api_url or os.environ.get("SD_API_URL")
         self.model_family = model_family
         self.pipeline = None
@@ -278,24 +278,33 @@ class ImageGenerator:
         print(f"⚙️ Initializing local pipeline '{self.model_family}' with {model_id} on {self.device}...")
 
         try:
-            if self.model_family == "flux-schnell":
-                if FluxPipeline is None:
-                    raise RuntimeError("FluxPipeline indisponível na versão atual do diffusers.")
+            pipeline = self._load_pipeline(self.model_family, model_id)
+            pipeline.to(self.device)
+            if hasattr(pipeline, "enable_attention_slicing"):
+                pipeline.enable_attention_slicing()
 
-                dtype = torch.bfloat16 if self.device == "cuda" else torch.float32
-                self.pipeline = FluxPipeline.from_pretrained(model_id, torch_dtype=dtype)
-            elif self.model_family == "sdxl":
-                dtype = torch.float16 if self.device == "cuda" else torch.float32
-                self.pipeline = StableDiffusionXLPipeline.from_pretrained(model_id, torch_dtype=dtype)
-            else:
-                self.pipeline = StableDiffusionPipeline.from_pretrained(model_id, torch_dtype=torch.float32)
-
-            self.pipeline.to(self.device)
-            if hasattr(self.pipeline, "enable_attention_slicing"):
-                self.pipeline.enable_attention_slicing()
+            self.pipeline = pipeline
+            print(f"✅ Local pipeline ready with '{self.model_family}'.")
         except Exception as e:
-            print(f"❌ Failed to load local model '{model_id}': {e}")
+            print(f"❌ Failed to load local model '{model_id}' ({self.model_family}): {e}")
             self.pipeline = None
+
+    def _load_pipeline(self, family, model_id):
+        if family == "flux-schnell":
+            if FluxPipeline is None:
+                raise RuntimeError("FluxPipeline indisponível na versão atual do diffusers.")
+
+            dtype = torch.bfloat16 if self.device == "cuda" else torch.float32
+            return FluxPipeline.from_pretrained(model_id, torch_dtype=dtype)
+
+        if family == "sdxl":
+            if StableDiffusionXLPipeline is None:
+                raise RuntimeError("StableDiffusionXLPipeline indisponível na versão atual do diffusers.")
+
+            dtype = torch.float16 if self.device == "cuda" else torch.float32
+            return StableDiffusionXLPipeline.from_pretrained(model_id, torch_dtype=dtype)
+
+        return StableDiffusionPipeline.from_pretrained(model_id, torch_dtype=torch.float32)
 
     def _remote_payload(self, prompt):
         cfg = MODEL_ALTERNATIVES[self.model_family]
@@ -389,7 +398,7 @@ def main():
     parser.add_argument('--chapter', required=False, help="Path to chapter markdown file")
     parser.add_argument('--style', default="neo-noir cyberpunk, dramatic lighting, rainy atmosphere, realistic textures", help="Art style")
     parser.add_argument('--ollama-model', default=os.environ.get('OLLAMA_MODEL', 'llama3.1:8b'), help="Ollama model to use")
-    parser.add_argument('--model-family', default=os.environ.get('ART_MODEL_FAMILY', 'flux-schnell'), choices=MODEL_ALTERNATIVES.keys(), help="Open source image model family")
+    parser.add_argument('--model-family', default=os.environ.get('ART_MODEL_FAMILY', 'sdxl'), choices=MODEL_ALTERNATIVES.keys(), help="Open source image model family")
     parser.add_argument('--dry-run', action='store_true', help="Skip image generation")
     parser.add_argument('--list-alternatives', action='store_true', help="List open source alternatives and exit")
     args = parser.parse_args()
