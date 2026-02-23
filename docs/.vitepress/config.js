@@ -270,6 +270,7 @@ module.exports = {
               { text: 'Capítulo 133: Matéria Prima', link: '/capitulo-133' },
               { text: 'Capítulo 134: Vale da Estranheza', link: '/capitulo-134' },
               { text: 'Capítulo 135: Otimização de Perdas', link: '/capitulo-135' },
+              { text: 'Capítulo 136: Peso da Carne', link: '/capitulo-136' },
             ]
           },
         ]
