@@ -15,7 +15,7 @@ on:
 jobs:
   generate-local-art:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 90
     permissions:
       contents: write
       pull-requests: write
@@ -45,6 +45,13 @@ jobs:
         uses: actions/setup-python@v4
         with:
           python-version: '3.12'
+          cache: 'pip'
+
+      - name: Cache Ollama Models
+        uses: actions/cache@v4
+        with:
+          path: ~/.ollama
+          key: ${{ runner.os }}-ollama-llama2-v1
 
       - name: Install Dependencies
         # Using lighter torch CPU version to save bandwidth if possible, but diffusers usually grabs full torch.
@@ -59,7 +66,7 @@ jobs:
           python scripts/local_art_gen.py ${{ inputs.chapter }} \
             --style "${{ inputs.style }}" \
             --ollama-model llama2
-        timeout-minutes: 30
+        timeout-minutes: 60
 
       - name: Config Git
         run: |
