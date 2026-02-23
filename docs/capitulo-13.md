@@ -108,3 +108,7 @@ Mas enquanto olhava para a cidade, Gabriel sabia que não tinha acabado. O chip 
 *— Nível 1 Concluído. Iniciando Fase 2.*
 
 Gabriel fechou os olhos. O jogo estava apenas começando.
+
+Menos de uma hora depois, os comunicados oficiais começaram a pipocar em todas as redes: a Corregedoria anunciava sua suspensão imediata por 'conduta terrorista' e liberava um mandado de captura preventiva contra ele e Valéria.
+
+Doze horas. Foi o tempo entre a queda do Shadowban e o surgimento de um novo espetáculo no submundo: um contrato público de caça com seus nomes no topo.

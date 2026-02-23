@@ -76,3 +76,9 @@ Eles caíram na lama do lado de fora, tossindo.
 Ele se levantou, o corpo quebrado, mas a vontade forjada em aço.
 
 — Vamos para a Torre. Vamos terminar isso. Pai contra Filho. O fim do jogo.
+
+Valéria segurou o pulso dele antes do primeiro passo.
+
+— Primeiro, a gente pega o Leviatã no seu carro. Sem armamento pesado, a gente não passa nem do primeiro bloqueio.
+
+Gabo concordou com um aceno curto. A guerra final podia esperar alguns minutos; morrer desarmado não era heroísmo, era burrice.

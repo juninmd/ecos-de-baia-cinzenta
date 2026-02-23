@@ -82,3 +82,13 @@ O chão tremeu antes do som chegar. Poeira caiu do teto baixo.
 — Eu já estou morta há dez anos, menina. Só esqueci de deitar. — Nise sorriu, seus dentes de metal brilhando. — Vão! E derrubem aquela maldita torre!
 
 Gabriel e Valéria correram para os fundos. O som de explosões começou a sacudir a lavanderia acima deles.
+
+Quando a porta de serviço cedeu, eles despencaram para a galeria pluvial escura sob o Distrito da Névoa. A água podre subia até os joelhos, arrastando restos químicos e seringas velhas.
+
+Valéria piscou duas vezes, tentando estabilizar a visão aumentada. Um aviso vermelho atravessou a íris dela: *Licença Biométrica Revogada*.
+
+— Gabo... meus implantes estão entrando em modo de degradação — ela disse, ofegante. — Se a gente não derrubar a fonte do sinal hoje, eu vou apagar junto com o resto dos cancelados.
+
+Gabriel assentiu, sentindo o peso do nome do pai como chumbo no estômago.
+
+— Então a gente vai para a fonte. Agora.
