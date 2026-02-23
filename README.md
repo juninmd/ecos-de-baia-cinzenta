@@ -161,7 +161,3 @@ pytest scripts/test_video_generator.py -v
 
 *   **Antonio Carlos (J.R.A.C.N)** - Autor Original e Supervisor do Projeto
 *   **Jules** - Co-autor e Arquiteto de Software (AI Agent)
-
-## 📄 Licença
-
-Todos os direitos reservados ao autor original.
