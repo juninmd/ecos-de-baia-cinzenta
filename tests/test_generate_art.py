@@ -89,3 +89,54 @@ def test_image_generator_uses_selected_model_only(monkeypatch):
     assert generator.pipeline is not None
     assert generator.model_family == "sdxl"
     assert attempts == ["sdxl"]
+
+
+def test_image_generator_skips_cpu_fallback_by_default(monkeypatch, tmp_path):
+    class FakeTorch:
+        class cuda:
+            @staticmethod
+            def is_available():
+                return False
+
+    monkeypatch.setattr("generate_chapter_art.torch", FakeTorch)
+    monkeypatch.setattr("generate_chapter_art.requests.get", lambda *args, **kwargs: (_ for _ in ()).throw(Exception("no api")))
+    monkeypatch.delenv("SD_API_URL", raising=False)
+    monkeypatch.delenv("ART_ALLOW_CPU_FALLBACK", raising=False)
+
+    generator = ImageGenerator(model_family="sdxl")
+    result = generator.generate("test prompt", str(tmp_path / "output.jpg"))
+
+    assert result is False
+
+
+def test_image_generator_uses_detected_local_api_when_env_missing(monkeypatch, tmp_path):
+    class FakeResponse:
+        ok = True
+
+        def raise_for_status(self):
+            return None
+
+        def json(self):
+            return {"images": ["aGVsbG8="]}
+
+    called = []
+
+    def fake_get(url, timeout):
+        called.append(("get", url, timeout))
+        return FakeResponse()
+
+    def fake_post(url, json, timeout):
+        called.append(("post", url, timeout))
+        return FakeResponse()
+
+    monkeypatch.setattr("generate_chapter_art.requests.get", fake_get)
+    monkeypatch.setattr("generate_chapter_art.requests.post", fake_post)
+    monkeypatch.delenv("SD_API_URL", raising=False)
+
+    output = tmp_path / "out.jpg"
+    generator = ImageGenerator(model_family="sdxl")
+    result = generator.generate("test prompt", str(output))
+
+    assert result is True
+    assert output.exists()
+    assert any(entry[0] == "post" and entry[1].endswith("/sdapi/v1/txt2img") for entry in called)
