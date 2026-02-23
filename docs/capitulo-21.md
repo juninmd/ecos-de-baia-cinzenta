@@ -87,7 +87,7 @@ O contador congelou em *00:03*.
 
 — Escolha um. Se errar, o problema acaba para todos nós.
 
-O contador marcava *00:15*.
+O contador tremeu em *00:02*.
 
 — Faça! — gritou Valéria.
 

@@ -13,7 +13,9 @@
 
 Você pode ler a versão mais recente online em: **[ecos-de-baia-cinzenta.netlify.app](https://ecos-de-baia-cinzenta.netlify.app/)**
 
-A história acompanha **Gabriel "Gabo" Moretti**, um detetive da Divisão de Casos Esquecidos, enquanto ele desvenda uma conspiração que envolve megacorporações, drogas de realidade virtual e serial killers teatrais.
+A história acompanha **Gabriel "Gabo" Moretti**, um detetive da Divisão de Casos Esquecidos, em uma investigação que começa no noir policial e escala para uma guerra pela alma de Baía Cinzenta — entre megacorporações, colapso tecnológico, cultos biológicos e uma nova ordem autoritária.
+
+Para um panorama completo dos arcos e eventos principais, consulte a [Cronologia da Ópera](docs/cronologia.md).
 
 ## 🤖 O Experimento
 
@@ -21,7 +23,7 @@ Este projeto é um laboratório vivo para medir a capacidade criativa de Intelig
 
 *   **O Processo:** Diariamente, o agente **Jules** abre um Pull Request com um novo capítulo para a história.
 *   **A Supervisão:** Todo o conteúdo é revisado e supervisionado por **Antonio Carlos**.
-*   **O Objetivo:** Avaliar se uma IA consegue manter a coerência, o desenvolvimento de personagens e a atmosfera em uma narrativa de longa duração.
+*   **O Objetivo:** Avaliar se uma IA consegue manter consistência de lore, progressão de personagens e tensão dramática em uma saga de longa duração, capítulo após capítulo.
 
 ## 🎧 Funcionalidades de Leitura Imersiva
 
