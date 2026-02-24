@@ -3,3 +3,6 @@ diffusers
 transformers
 accelerate
 torch
+# Downgrade typer/click to be compatible with gtts (click<8.2) in requirements.txt
+typer<0.10.0
+click<8.2
