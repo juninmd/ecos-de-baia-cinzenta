@@ -31,16 +31,16 @@
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
-    "semantic-release": "^23.0.0",
+    "semantic-release": "^23.1.1",
     "vitepress": "^1.6.4"
   },
   "dependencies": {
     "medium-zoom": "^1.1.0"
   },
   "optionalDependencies": {
-    "@capacitor/android": "^6.2.0",
-    "@capacitor/cli": "^6.2.0",
-    "@capacitor/core": "^6.2.0"
+    "@capacitor/android": "^6.2.1",
+    "@capacitor/cli": "^6.2.1",
+    "@capacitor/core": "^6.2.1"
   },
   "packageManager": "pnpm@9.15.4",
   "release": {
