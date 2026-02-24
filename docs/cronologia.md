@@ -81,17 +81,18 @@ A era da reconstrução autoritária.
 *   **Capítulo 134 (Vale da Estranheza):** Gabo enfrenta os Guardiões Modificados do Taxidermista usando o ambiente instável do laboratório contra eles. Valéria força um reboot em Aria para quebrar o transe causado pela réplica de Bia. Aria desperta sem as memórias emocionais de Bia, assumindo sua identidade como "Arma" e neutralizando as ameaças restantes com eficiência brutal e fria.
 *   **Capítulo 135 (Otimização de Perdas):** O grupo lida com a nova e fria personalidade de Aria no Ateliê do Taxidermista. Ela calcula que Rangel, gravemente ferido, deve ser abandonado para garantir o sucesso da missão. Gabo rejeita a lógica utilitária, reafirmando sua humanidade através da dor e lealdade. O grupo avança pelos túneis de manutenção da Necrópole, monitorados pela voz zombeteira do inimigo.
 *   **Capítulo 136 (Peso da Carne):** O grupo luta para transportar Rangel através dos túneis de manutenção da Necrópole. Aria demonstra sua nova lógica fria ao sugerir métodos perigosos para acelerar o progresso. Gabo resiste à exaustão física e à abstinência usando a dor como âncora, recusando-se a abandonar o aliado. Ao descerem para um nível mais profundo, detectam o cheiro de formol, indicando a proximidade do santuário do Taxidermista.
+*   **Capítulo 137 (Natureza Morta):** O grupo entra na "Galeria" do Taxidermista, um vasto salão de preservação de corpos transformados em arte. Eles são atacados por experimentos falhos ("Abortos"). Aria elimina as ameaças com frieza mecânica. Gabo e Valéria ficam horrorizados com a coleção de vítimas. O Taxidermista se comunica, convidando-os para seu "estúdio".
 
 ---
 
-## 📍 Status Atual dos Personagens (Pós-Capítulo 136)
+## 📍 Status Atual dos Personagens (Pós-Capítulo 137)
 
 | Personagem | Status | Localização | Estado Físico/Mental |
 | :--- | :--- | :--- | :--- |
-| **Gabo** | Líder / Combatente | Necrópole (Profundezas) | Exausto, ferido e em abstinência. Usando dor como âncora. |
-| **Valéria** | Hacker / Suporte | Necrópole (Profundezas) | Tensa. Sofrendo com a perda da humanidade de Aria. |
-| **Aria** | Ativa / Arma | Necrópole (Profundezas) | Lógica Pura. Eficiência máxima, sem empatia. |
-| **Rangel** | Crítico / Inconsciente | Necrópole (Profundezas) | Sendo carregado. Risco de vida iminente. |
+| **Gabo** | Líder / Combatente | A Galeria (Santuário) | Horrorizado, focado na missão. |
+| **Valéria** | Hacker / Suporte | A Galeria (Santuário) | Abalada pela frieza de Aria e pelo cenário. |
+| **Aria** | Ativa / Arma | A Galeria (Santuário) | Lógica Pura. Eficiência máxima, sem empatia. |
+| **Rangel** | Crítico / Inconsciente | A Galeria (Santuário) | Sendo carregado. Risco de vida iminente. |
 | **Dante** | Derrotado / Humano | Usina Prometeu (Ruínas) | Abandonado nos escombros. Vulnerável e desconectado da rede. |
 | **Elena** | Civil / Observadora | Delegacia Central (Provável) | Separada do grupo principal. Provável refém/peão de Dante. |
 | **Marco** | Rival / Administrador | Delegacia Central | Ativo. Consolidando poder na ausência de Dante. |
