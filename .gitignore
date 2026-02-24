@@ -39,3 +39,4 @@ docs/public/icons/temp/
 *.keystore
 *.jks
 keystore.properties
+venv_fix/
