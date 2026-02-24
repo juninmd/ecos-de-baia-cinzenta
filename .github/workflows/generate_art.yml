@@ -114,5 +114,11 @@ jobs:
           git add docs/public/*.jpg || true
           git add docs/public/*.md || true
           git add docs/*.md || true
-          git commit -m "chore: generated art for chapter" || echo "No changes to commit"
-          git push
+          # Create commit if changes exist
+          git diff-index --quiet HEAD || git commit -m "chore: generated art for chapter" || echo "No changes to commit"
+
+          # Pull latest changes to avoid conflicts (art generation takes time)
+          git pull --rebase origin ${{ github.ref_name }}
+
+          # Push to the current branch
+          git push origin HEAD:${{ github.ref_name }}
