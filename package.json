@@ -6,7 +6,7 @@
   "scripts": {
     "test": "pytest tests/ scripts/",
     "docs:dev": "vitepress dev docs",
-    "docs:build": "cp docs/capitulo-*.md docs/analise_capitulo_*.md docs/public/ && vitepress build docs",
+    "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs",
     "icons:generate": "python scripts/generate_icons.py",
     "android:init": "pnpm install @capacitor/core @capacitor/cli @capacitor/android && npx cap init",
