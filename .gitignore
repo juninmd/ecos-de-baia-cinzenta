@@ -39,3 +39,6 @@ docs/public/icons/temp/
 *.keystore
 *.jks
 keystore.properties
+
+# Ignore generated markdown in public
+docs/public/*.md
