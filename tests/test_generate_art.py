@@ -140,3 +140,48 @@ def test_image_generator_uses_detected_local_api_when_env_missing(monkeypatch, t
     assert result is True
     assert output.exists()
     assert any(entry[0] == "post" and entry[1].endswith("/sdapi/v1/txt2img") for entry in called)
+
+def test_image_generator_allows_cpu_fallback_when_env_set(monkeypatch, tmp_path):
+    class FakePipe:
+        def to(self, _):
+            return self
+        def enable_attention_slicing(self):
+            return None
+        def __call__(self, *args, **kwargs):
+            class Result:
+                images = [mock_open(read_data=b"image").return_value] # Mock image object
+                images[0].save = lambda p: open(p, "w").write("saved")
+            return Result()
+
+    class FakeTorch:
+        class cuda:
+            @staticmethod
+            def is_available():
+                return False
+        float32 = object()
+        float16 = object()
+        bfloat16 = object()
+
+    def fake_sdxl(*args, **kwargs):
+        return FakePipe()
+
+    monkeypatch.setattr("generate_chapter_art.torch", FakeTorch)
+    # Mocking StableDiffusionXLPipeline properly requires creating a class with from_pretrained method
+    monkeypatch.setattr("generate_chapter_art.StableDiffusionXLPipeline", type("SDXL", (), {"from_pretrained": staticmethod(fake_sdxl)}))
+    monkeypatch.setattr("generate_chapter_art.StableDiffusionPipeline", type("SD15", (), {})) # Mock this too as it is checked in _setup_local_pipeline
+
+    # Mock requests to fail connection
+    def fail_requests(*args, **kwargs):
+        raise Exception("no api")
+
+    monkeypatch.setattr("generate_chapter_art.requests.get", fail_requests)
+    monkeypatch.delenv("SD_API_URL", raising=False)
+    monkeypatch.setenv("ART_ALLOW_CPU_FALLBACK", "1")
+
+    generator = ImageGenerator(model_family="sdxl")
+    output = tmp_path / "cpu_out.jpg"
+    result = generator.generate("test prompt", str(output))
+
+    assert result is True
+    assert output.exists()
+    assert output.read_text() == "saved"
