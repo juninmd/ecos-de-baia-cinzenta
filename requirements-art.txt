@@ -3,3 +3,5 @@ diffusers
 transformers
 accelerate
 torch
+typer<0.10.0
+click<8.2
