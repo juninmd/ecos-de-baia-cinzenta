@@ -14,6 +14,7 @@ __pycache__/
 !docs/public/*.png
 !docs/public/personagens/*.png
 !docs/public/icons/*.png
+!docs/public/*.md
 __pycache__/
 tests/__pycache__/
 
