@@ -82,17 +82,19 @@ A era da reconstrução autoritária.
 *   **Capítulo 135 (Otimização de Perdas):** O grupo lida com a nova e fria personalidade de Aria no Ateliê do Taxidermista. Ela calcula que Rangel, gravemente ferido, deve ser abandonado para garantir o sucesso da missão. Gabo rejeita a lógica utilitária, reafirmando sua humanidade através da dor e lealdade. O grupo avança pelos túneis de manutenção da Necrópole, monitorados pela voz zombeteira do inimigo.
 *   **Capítulo 136 (Peso da Carne):** O grupo luta para transportar Rangel através dos túneis de manutenção da Necrópole. Aria demonstra sua nova lógica fria ao sugerir métodos perigosos para acelerar o progresso. Gabo resiste à exaustão física e à abstinência usando a dor como âncora, recusando-se a abandonar o aliado. Ao descerem para um nível mais profundo, detectam o cheiro de formol, indicando a proximidade do santuário do Taxidermista.
 *   **Capítulo 137 (Natureza Morta):** O grupo entra na "Galeria" do Taxidermista, um vasto salão de preservação de corpos transformados em arte. Eles são atacados por experimentos falhos ("Abortos"). Aria elimina as ameaças com frieza mecânica. Gabo e Valéria ficam horrorizados com a coleção de vítimas. O Taxidermista se comunica, convidando-os para seu "estúdio".
+*   **Capítulo 138 (Vernissage):** O grupo adentra o "Estúdio", um santuário estéril onde o Taxidermista se revela como uma figura de perfeição artificial. Ele apresenta sua "Obra-Prima", uma rede neural viva feita de sofrimento humano, e oferece a Gabo uma chance de "eternidade". A recusa de Gabo em aceitar a desumanização desencadeia o ataque das "Esculturas", guardiões de elite de cerâmica e músculo.
 
 ---
 
-## 📍 Status Atual dos Personagens (Pós-Capítulo 137)
+## 📍 Status Atual dos Personagens (Pós-Capítulo 138)
 
 | Personagem | Status | Localização | Estado Físico/Mental |
 | :--- | :--- | :--- | :--- |
-| **Gabo** | Líder / Combatente | A Galeria (Santuário) | Horrorizado, focado na missão. |
-| **Valéria** | Hacker / Suporte | A Galeria (Santuário) | Abalada pela frieza de Aria e pelo cenário. |
-| **Aria** | Ativa / Arma | A Galeria (Santuário) | Lógica Pura. Eficiência máxima, sem empatia. |
-| **Rangel** | Crítico / Inconsciente | A Galeria (Santuário) | Sendo carregado. Risco de vida iminente. |
+| **Gabo** | Líder / Combatente | O Estúdio (Necrópole) | Asco profundo, pronto para combate. |
+| **Valéria** | Hacker / Suporte | O Estúdio (Necrópole) | Horrorizada com a "arte" biomecânica. |
+| **Aria** | Ativa / Arma | O Estúdio (Necrópole) | Lógica Pura. Calculando probabilidades de combate. |
+| **Rangel** | Crítico / Inconsciente | O Estúdio (Necrópole) | Alvo de interesse "artístico" do Taxidermista. |
+| **Taxidermista**| Antagonista / Artista | O Estúdio (Necrópole) | Perfeição artificial. Controlando as "Esculturas". |
 | **Dante** | Derrotado / Humano | Usina Prometeu (Ruínas) | Abandonado nos escombros. Vulnerável e desconectado da rede. |
 | **Elena** | Civil / Observadora | Delegacia Central (Provável) | Separada do grupo principal. Provável refém/peão de Dante. |
 | **Marco** | Rival / Administrador | Delegacia Central | Ativo. Consolidando poder na ausência de Dante. |
