@@ -40,3 +40,4 @@ docs/public/icons/temp/
 *.jks
 keystore.properties
 venv_fix/
+.venv
