@@ -271,6 +271,8 @@ module.exports = {
               { text: 'Capítulo 134: Vale da Estranheza', link: '/capitulo-134' },
               { text: 'Capítulo 135: Otimização de Perdas', link: '/capitulo-135' },
               { text: 'Capítulo 136: Peso da Carne', link: '/capitulo-136' },
+              { text: 'Capítulo 137: Natureza Morta', link: '/capitulo-137' },
+              { text: 'Capítulo 138: Vernissage', link: '/capitulo-138' },
             ]
           },
         ]
