@@ -21,7 +21,7 @@ MODEL_ALTERNATIVES = {
         "label": "FLUX.1 Schnell (open source, melhor qualidade geral)",
         "local_model_id": "black-forest-labs/FLUX.1-schnell",
         "size": (768, 1024),
-        "steps": 30,
+        "steps": 4, # FLUX.1 Schnell is optimized for 4-8 steps
     },
     "sdxl": {
         "label": "Stable Diffusion XL 1.0 (boa composição)",
@@ -58,7 +58,8 @@ class CharacterDatabase:
 
             lines = section.split("\n")
             name_line = lines[0].strip().replace("*", "")
-            name_clean = re.sub(r"\s*\[.*?\]", "", name_line).strip()
+            # Remove anything in parentheses or brackets
+            name_clean = re.sub(r"\s*[\(\[].*?[\)\]]", "", name_line).strip()
 
             description = []
             for line in lines:
@@ -73,6 +74,7 @@ class CharacterDatabase:
                         "Olhos:",
                         "Rosto:",
                         "Idade:",
+                        "Equipamento:",
                     ]
                 ):
                     description.append(clean)
@@ -90,6 +92,7 @@ class CharacterDatabase:
                 "aliases": list(aliases),
                 "description": ". ".join(description),
             }
+        print(f"📊 Loaded {len(self.characters)} characters from database.")
 
     def find_characters_in_text(self, text):
         found = []
@@ -139,61 +142,76 @@ class ChapterContext:
 
 
 class OllamaClient:
-    def __init__(self, model="qwen2.5:7b"):
+    def __init__(self, model="qwen3:8b"):
         self.model = model
         self.api_url = "http://localhost:11434/api/generate"
 
     def check_connection(self, max_retries=3, retry_delay=2):
-        for attempt in range(max_retries):
-            try:
-                if requests.get("http://localhost:11434", timeout=5).status_code == 200:
-                    return True
-            except Exception:
-                if attempt < max_retries - 1:
-                    time.sleep(retry_delay)
+        try:
+            # Check if specified model exists, otherwise fallback to first available or qwen2.5:7b
+            resp = requests.get("http://localhost:11434/api/tags", timeout=5)
+            if resp.status_code == 200:
+                models = [m["name"] for m in resp.json().get("models", [])]
+                if self.model not in models and models:
+                    print(f"⚠️ Model {self.model} not found in Ollama. Using {models[0]}.")
+                    self.model = models[0]
+                return True
+        except Exception:
+            pass
         return False
 
     def build_fallback_prompt(self, chapter_text, active_characters, style):
-        canon = "; ".join(f"{c['name']}: {c['description'][:120]}" for c in active_characters[:2])
-        snippet = re.sub(r"\s+", " ", chapter_text[:240]).strip()
+        canon = "; ".join(f"{c['name']}: {c['description'][:150]}" for c in active_characters[:2])
+        snippet = re.sub(r"\s+", " ", chapter_text[:300]).strip()
         return (
-            f"Cinematic noir cyberpunk frame, {style}. "
-            f"Rainy night alley with brutal contrast and practical neon, dynamic composition, 35mm lens feeling, "
-            f"foreground subject under rim light, dense atmosphere, environmental storytelling props. "
-            f"Character continuity: {canon or 'sem personagens nomeados'}. "
+            f"Cinematic neo-noir cyberpunk frame, {style}. "
+            f"High-end visual storytelling, dynamic composition, 35mm film aesthetic, "
+            f"foreground subject with intense rim lighting, dense volumetric atmosphere, "
+            f"Character continuity: {canon or 'urban survivalist'}. "
             f"Narrative beat: {snippet}. "
-            "ultra cinematic, noir cyberpunk, volumetric rain, film grain, masterpiece"
+            "ultra cinematic, noir cyberpunk, film grain, masterpiece, 8k resolution"
         )
 
     def generate_prompt(self, chapter_text, active_characters, style):
-        char_context = "\n".join(f"- {c['name']}: {c['description'][:240]}" for c in active_characters[:3])
+        char_context = "\n".join(f"- {c['name']}: {c['description'][:400]}" for c in active_characters[:3])
         if not char_context:
-            char_context = "- No named characters detected"
+            char_context = "- No specific character traits provided. Use generic cyberpunk survivors."
 
         payload = {
             "model": self.model,
             "stream": False,
             "system": (
-                "You are an elite visual director generating production prompts for open-source diffusion models. "
-                "Prioritize composition clarity, character consistency and cinematic storytelling."
+                "You are an elite Hollywood visual director and concept artist. "
+                "Your specialty is 'Nano Banana' style: high-contrast, atmospheric, "
+                "emotionally charged neo-noir cyberpunk. You prioritize character consistency "
+                "and symbolic storytelling through light and shadow."
             ),
             "prompt": (
-                "Select the single best visual moment from the chapter excerpt and write ONE image prompt in English.\n"
-                f"Style target: {style}\n"
-                f"Character canon:\n{char_context}\n\n"
-                f"Chapter excerpt:\n{chapter_text[:2600]}\n\n"
-                "Requirements: include camera framing, lens feel, key props, action beat, weather, light, mood. "
-                "No bullets, no dialogue, max 180 words. "
-                "End with: ultra cinematic, noir cyberpunk, volumetric rain, film grain, masterpiece."
+                "Task: Select the most visually impactful moment from the chapter excerpt and write ONE production-ready image prompt in English.\n\n"
+                f"Visual Style: {style}\n"
+                f"Character Canon (Reference only):\n{char_context}\n\n"
+                f"Chapter Excerpt (PRIORITIZE NEW EVOLUTIONS HERE):\n{chapter_text[:3000]}\n\n"
+                "Requirements:\n"
+                "1. Focus on ONE clear composition (Medium or Wide shot preferred).\n"
+                "2. If the chapter text describes a character differently from the canon (e.g., new clothing or cybernetics), ALWAYS follow the chapter text.\n"
+                "3. Describe the lighting (Rim light, neon reflections, harsh contrast).\n"
+                "4. Include environmental details (smog, rain, textures like wet concrete or sterile chrome).\n"
+                "5. Capture the emotional weight/action beat of the scene.\n"
+                "6. No dialogue, no meta-text, max 170 words.\n"
+                "7. MUST end with: ultra cinematic, neo-noir cyberpunk, volumetric lighting, film grain, masterpiece."
             ),
         }
 
         try:
-            response = requests.post(self.api_url, json=payload, timeout=240)
+            response = requests.post(self.api_url, json=payload, timeout=300)
             response.raise_for_status()
             prompt = response.json().get("response", "").strip()
+            # Remove thinking or preamble if present
+            if "</thought>" in prompt:
+                prompt = prompt.split("</thought>")[-1].strip()
             return prompt or self.build_fallback_prompt(chapter_text, active_characters, style)
-        except Exception:
+        except Exception as e:
+            print(f"⚠️ Prompt generation failed: {e}")
             return self.build_fallback_prompt(chapter_text, active_characters, style)
 
 
@@ -247,7 +265,7 @@ class LocalDiffusionClient:
             prompt=prompt,
             negative_prompt=self.negative_prompt,
             num_inference_steps=steps,
-            guidance_scale=6.5 if self.model_family == "flux-schnell" else 7.0,
+            guidance_scale=0.0 if self.model_family == "flux-schnell" else 7.0,
         ).images[0]
         image.save(output_path)
         return True
@@ -270,7 +288,7 @@ def process_chapter(chapter_num, text_engine, image_engine, db, project_root, st
     prompt = text_engine.generate_prompt(chapter.body, active_chars, style)
 
     if active_chars:
-        cast_hint = ", ".join(c["name"] for c in active_chars[:2])
+        cast_hint = ", ".join(c["name"] for c in active_chars[:6])
         prompt = f"{prompt}. Characters featured: {cast_hint}."
 
     output_filename = f"capitulo_{chapter_num}.jpg"
