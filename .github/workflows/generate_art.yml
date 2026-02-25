@@ -118,5 +118,10 @@ jobs:
           git add docs/public/*.jpg || true
           git add docs/public/*.md || true
           git add docs/*.md || true
-          git commit -m "chore: generated art for chapter" || echo "No changes to commit"
+          # Check for changes before committing
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "chore: generated art for chapter"
           git push
