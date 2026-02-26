@@ -66,7 +66,7 @@ def main():
     
     print("\n✅ Setup complete!")
     print("\nNext steps:")
-    print("  1. Install dependencies: uv pip install -r requirements.txt")
+    print("  1. Install dependencies: uv pip install -r requirements-dev.txt")
     print("  2. Generate test video: python scripts/video_generator.py --chapter 1")
 
 

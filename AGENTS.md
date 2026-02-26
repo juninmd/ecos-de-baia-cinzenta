@@ -14,5 +14,5 @@ This project uses `uv` for Python dependency management.
    - Linux/Mac: `source .venv/bin/activate`
 4. Install dependencies:
    ```bash
-   uv pip install -r requirements.txt
+   uv pip install -r requirements-dev.txt
    ```
