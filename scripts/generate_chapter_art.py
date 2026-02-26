@@ -4,11 +4,6 @@ import re
 import sys
 import time
 
-try:
-    import requests
-except ImportError:
-    requests = None
-
 # Optional local backends
 try:
     import torch
@@ -200,6 +195,7 @@ class OllamaClient:
         print(f"🦙 Initializing Ollama Client ({self.host}) with model: {self.model}...")
 
     def check_connection(self, max_retries=3, retry_delay=2):
+        import requests
         for attempt in range(max_retries):
             try:
                 response = requests.get(self.host, timeout=5)
@@ -216,6 +212,7 @@ class OllamaClient:
         return False
 
     def generate_prompt(self, chapter_text, active_characters, style):
+        import requests
         char_descriptions = [f"- {c['name']}: {c['description'][:240]}" for c in active_characters[:3]]
         char_context = "\n".join(char_descriptions) if char_descriptions else "- No named characters detected"
 
@@ -282,6 +279,7 @@ class ImageGenerator:
 
     def _is_remote_available(self, base_url):
         try:
+            import requests
             response = requests.get(f"{base_url}/sdapi/v1/options", timeout=2)
             return response.ok
         except Exception:
@@ -373,6 +371,7 @@ class ImageGenerator:
         return False
 
     def _generate_remote(self, prompt, output_path):
+        import requests
         print(f"🌐 Sending to Remote SD API: {self.api_url} (model_family={self.model_family})")
         payload = self._remote_payload(prompt)
         try:
@@ -434,7 +433,12 @@ def validate_environment():
     print("🔍 Validating environment for Art Generation...")
 
     # Check Imports
-    print(f"   - Requests: {'✅ ' + requests.__version__ if requests else '❌ Not Found (Required for API)'}")
+    try:
+        import requests
+        print(f"   - Requests: ✅ {requests.__version__}")
+    except ImportError:
+        print(f"   - Requests: ❌ Not Found (Required for API)")
+
     print(f"   - Torch: {'✅ ' + torch.__version__ if torch else '❌ Not Found'}")
     try:
         import diffusers
@@ -515,10 +519,6 @@ def main():
 
     active_chars = db.find_characters_in_text(chapter.body)
     print(f"👥 Characters detected: {[c['name'] for c in active_chars]}")
-
-    if requests is None:
-        print("❌ Error: 'requests' library not found. Please install it (pip install requests).")
-        sys.exit(1)
 
     ollama = OllamaClient(model=args.ollama_model)
 

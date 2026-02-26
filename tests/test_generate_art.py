@@ -99,7 +99,7 @@ def test_image_generator_skips_cpu_fallback_by_default(monkeypatch, tmp_path):
                 return False
 
     monkeypatch.setattr("generate_chapter_art.torch", FakeTorch)
-    monkeypatch.setattr("generate_chapter_art.requests.get", lambda *args, **kwargs: (_ for _ in ()).throw(Exception("no api")))
+    monkeypatch.setattr("requests.get", lambda *args, **kwargs: (_ for _ in ()).throw(Exception("no api")))
     monkeypatch.delenv("SD_API_URL", raising=False)
     monkeypatch.delenv("ART_ALLOW_CPU_FALLBACK", raising=False)
 
@@ -129,8 +129,8 @@ def test_image_generator_uses_detected_local_api_when_env_missing(monkeypatch, t
         called.append(("post", url, timeout))
         return FakeResponse()
 
-    monkeypatch.setattr("generate_chapter_art.requests.get", fake_get)
-    monkeypatch.setattr("generate_chapter_art.requests.post", fake_post)
+    monkeypatch.setattr("requests.get", fake_get)
+    monkeypatch.setattr("requests.post", fake_post)
     monkeypatch.delenv("SD_API_URL", raising=False)
 
     output = tmp_path / "out.jpg"
