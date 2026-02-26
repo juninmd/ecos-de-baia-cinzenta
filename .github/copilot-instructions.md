@@ -42,7 +42,7 @@ pnpm test             # Run pytest (yes, pytest for Node project!)
 ```bash
 uv venv                              # Create venv (NOT python -m venv)
 .venv\Scripts\activate               # Windows activation
-uv pip install -r requirements.txt  # Install deps
+uv pip install -r requirements-dev.txt  # Install deps
 ```
 
 ### Video Generation

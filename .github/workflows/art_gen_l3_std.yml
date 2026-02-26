@@ -1,7 +1,7 @@
 name: Art Gen L3 - Standard
 
 on:
-  push:
+  pull_request:
     paths:
       - 'docs/capitulo-*.md'
   workflow_dispatch:
@@ -25,13 +25,14 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v4
         with:
-          fetch-depth: 2
+          fetch-depth: 0
 
       - name: Determine Chapter
         id: info
         run: |
-          if [ "${{ github.event_name }}" == "push" ]; then
-            CHAPTER=$(git diff --name-only HEAD^ HEAD | grep 'docs/capitulo-.*\.md' | sed -E 's/.*capitulo-([0-9.]+)\.md/\1/' | head -n 1)
+          if [ "${{ github.event_name }}" == "pull_request" ]; then
+            # Extract chapter from modified files in PR
+            CHAPTER=$(git diff --name-only origin/${{ github.base_ref }} HEAD | grep 'docs/capitulo-.*\.md' | sed -E 's/.*capitulo-([0-9.]+)\.md/\1/' | head -n 1)
           else
             CHAPTER=${{ inputs.chapter }}
           fi
@@ -57,10 +58,10 @@ jobs:
       - name: Generate Art
         if: steps.info.outputs.chapter != ''
         run: |
-          python scripts/local_art_gen.py ${{ steps.info.outputs.chapter }} 
-            --style "${{ inputs.style || 'cyberpunk, noir' }}" 
-            --model-family sdxl 
-            --steps 15 
+          python scripts/local_art_gen.py ${{ steps.info.outputs.chapter }} \
+            --style "${{ inputs.style || 'cyberpunk, noir' }}" \
+            --model-family sdxl \
+            --steps 15 \
             --output-suffix "_std"
 
       - name: Commit and Push

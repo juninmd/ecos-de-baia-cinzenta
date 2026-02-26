@@ -38,13 +38,13 @@ jobs:
         uses: actions/cache@v4
         with:
           path: ~/.cache/uv
-          key: ${{ runner.os }}-uv-${{ hashFiles('requirements.txt') }}
+          key: ${{ runner.os }}-uv-${{ hashFiles('requirements-dev.txt') }}
           restore-keys: |
             ${{ runner.os }}-uv-
       
       - name: Install Dependencies
         run: |
-          uv pip install --system -r requirements.txt
+          uv pip install --system -r requirements-dev.txt
           # Install ffmpeg for video encoding
           sudo apt-get update
           sudo apt-get install -y ffmpeg
