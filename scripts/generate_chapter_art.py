@@ -4,8 +4,6 @@ import re
 import sys
 import time
 
-import requests
-
 # Optional local backends
 try:
     import torch
@@ -197,6 +195,7 @@ class OllamaClient:
         print(f"🦙 Initializing Ollama Client ({self.host}) with model: {self.model}...")
 
     def check_connection(self, max_retries=3, retry_delay=2):
+        import requests
         for attempt in range(max_retries):
             try:
                 response = requests.get(self.host, timeout=5)
@@ -213,6 +212,7 @@ class OllamaClient:
         return False
 
     def generate_prompt(self, chapter_text, active_characters, style):
+        import requests
         char_descriptions = [f"- {c['name']}: {c['description'][:240]}" for c in active_characters[:3]]
         char_context = "\n".join(char_descriptions) if char_descriptions else "- No named characters detected"
 
@@ -279,6 +279,7 @@ class ImageGenerator:
 
     def _is_remote_available(self, base_url):
         try:
+            import requests
             response = requests.get(f"{base_url}/sdapi/v1/options", timeout=2)
             return response.ok
         except Exception:
@@ -370,6 +371,7 @@ class ImageGenerator:
         return False
 
     def _generate_remote(self, prompt, output_path):
+        import requests
         print(f"🌐 Sending to Remote SD API: {self.api_url} (model_family={self.model_family})")
         payload = self._remote_payload(prompt)
         try:
@@ -427,6 +429,40 @@ class ImageGenerator:
             return False
 
 
+def validate_environment():
+    print("🔍 Validating environment for Art Generation...")
+
+    # Check Imports
+    try:
+        import requests
+        print(f"   - Requests: ✅ {requests.__version__}")
+    except ImportError:
+        print(f"   - Requests: ❌ Not Found (Required for API)")
+
+    print(f"   - Torch: {'✅ ' + torch.__version__ if torch else '❌ Not Found'}")
+    try:
+        import diffusers
+        print(f"   - Diffusers: ✅ {diffusers.__version__}")
+    except ImportError:
+        print("   - Diffusers: ❌ Not Found")
+
+    # Check CUDA
+    if torch:
+        cuda_ok = torch.cuda.is_available()
+        print(f"   - CUDA Available: {'✅ Yes' if cuda_ok else '⚠️ No (CPU only)'}")
+        if cuda_ok:
+            print(f"     - Device: {torch.cuda.get_device_name(0)}")
+
+    # Check Environment Variables
+    api_url = os.environ.get("SD_API_URL")
+    print(f"   - SD_API_URL: {api_url if api_url else '⚠️ Not set (Using local fallback)'}")
+
+    fallback = os.environ.get("ART_ALLOW_CPU_FALLBACK")
+    print(f"   - ART_ALLOW_CPU_FALLBACK: {fallback if fallback else 'Default (0)'}")
+
+    print("\n✅ Validation complete.")
+
+
 def main():
     parser = argparse.ArgumentParser(description="Automated Chapter Art Generator")
     parser.add_argument('--chapter', required=False, help="Path to chapter markdown file")
@@ -435,10 +471,16 @@ def main():
     parser.add_argument('--model-family', default=os.environ.get('ART_MODEL_FAMILY', 'sdxl'), choices=MODEL_ALTERNATIVES.keys(), help="Open source image model family")
     parser.add_argument('--dry-run', action='store_true', help="Skip image generation")
     parser.add_argument('--list-alternatives', action='store_true', help="List open source alternatives and exit")
+    parser.add_argument('--force', action='store_true', help="Force regeneration even if image exists")
+    parser.add_argument('--validate', action='store_true', help="Validate environment and dependencies then exit")
     args = parser.parse_args()
 
     if args.list_alternatives:
         print_alternatives()
+        return
+
+    if args.validate:
+        validate_environment()
         return
 
     if not args.chapter:
@@ -458,6 +500,22 @@ def main():
 
     print(f"📖 Reading chapter: {chapter_path}")
     chapter = ChapterContext(chapter_path)
+
+    # Check for existing image (Skip logic)
+    base_name = os.path.basename(chapter_path).replace('.md', '.jpg').replace('-', '_')
+    output_path = os.path.join("docs/public", base_name)
+
+    image_exists_on_disk = os.path.exists(output_path)
+    image_in_frontmatter = 'image:' in (chapter.frontmatter or "")
+
+    if (image_exists_on_disk or image_in_frontmatter) and not args.force:
+        print(f"⏭️ Skipping generation for {chapter_path}")
+        if image_exists_on_disk:
+            print(f"   - Image file exists: {output_path}")
+        if image_in_frontmatter:
+            print(f"   - Frontmatter has image reference")
+        print("   Use --force to regenerate.")
+        sys.exit(0)
 
     active_chars = db.find_characters_in_text(chapter.body)
     print(f"👥 Characters detected: {[c['name'] for c in active_chars]}")
@@ -481,8 +539,9 @@ def main():
 
     print(f"\n🎨 Generated Prompt:\n{prompt}\n")
 
-    base_name = os.path.basename(chapter_path).replace('.md', '.jpg').replace('-', '_')
-    output_path = os.path.join("docs/public", base_name)
+    # Path calculation moved up for skip check, reusing here
+    # base_name = os.path.basename(chapter_path).replace('.md', '.jpg').replace('-', '_')
+    # output_path = os.path.join("docs/public", base_name)
 
     generator = ImageGenerator(model_family=args.model_family)
     success = generator.generate(prompt, output_path, dry_run=args.dry_run)
