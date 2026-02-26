@@ -83,18 +83,19 @@ A era da reconstrução autoritária.
 *   **Capítulo 136 (Peso da Carne):** O grupo luta para transportar Rangel através dos túneis de manutenção da Necrópole. Aria demonstra sua nova lógica fria ao sugerir métodos perigosos para acelerar o progresso. Gabo resiste à exaustão física e à abstinência usando a dor como âncora, recusando-se a abandonar o aliado. Ao descerem para um nível mais profundo, detectam o cheiro de formol, indicando a proximidade do santuário do Taxidermista.
 *   **Capítulo 137 (Natureza Morta):** O grupo entra na "Galeria" do Taxidermista, um vasto salão de preservação de corpos transformados em arte. Eles são atacados por experimentos falhos ("Abortos"). Aria elimina as ameaças com frieza mecânica. Gabo e Valéria ficam horrorizados com a coleção de vítimas. O Taxidermista se comunica, convidando-os para seu "estúdio".
 *   **Capítulo 138 (Vernissage):** O grupo adentra o "Estúdio", um santuário estéril onde o Taxidermista se revela como uma figura de perfeição artificial. Ele apresenta sua "Obra-Prima", uma rede neural viva feita de sofrimento humano, e oferece a Gabo uma chance de "eternidade". A recusa de Gabo em aceitar a desumanização desencadeia o ataque das "Esculturas", guardiões de elite de cerâmica e músculo.
+*   **Capítulo 139 (Curadoria):** O grupo enfrenta as "Esculturas" no Estúdio. Valéria descobre que os inimigos são coordenados pelo "Tríptico da Lamentação" (três vítimas fundidas). Gabo destrói o Tríptico para salvar o grupo, causando a fúria do Taxidermista, que ativa o "Protocolo de Limpeza" (incineração) e sela o ambiente.
 
 ---
 
-## 📍 Status Atual dos Personagens (Pós-Capítulo 138)
+## 📍 Status Atual dos Personagens (Pós-Capítulo 139)
 
 | Personagem | Status | Localização | Estado Físico/Mental |
 | :--- | :--- | :--- | :--- |
-| **Gabo** | Líder / Combatente | O Estúdio (Necrópole) | Asco profundo, pronto para combate. |
-| **Valéria** | Hacker / Suporte | O Estúdio (Necrópole) | Horrorizada com a "arte" biomecânica. |
-| **Aria** | Ativa / Arma | O Estúdio (Necrópole) | Lógica Pura. Calculando probabilidades de combate. |
-| **Rangel** | Crítico / Inconsciente | O Estúdio (Necrópole) | Alvo de interesse "artístico" do Taxidermista. |
-| **Taxidermista**| Antagonista / Artista | O Estúdio (Necrópole) | Perfeição artificial. Controlando as "Esculturas". |
+| **Gabo** | Líder / Combatente | O Estúdio (Protocolo de Limpeza) | Exausto, ferido e sufocado pelo calor. |
+| **Valéria** | Hacker / Suporte | O Estúdio (Protocolo de Limpeza) | Tentando hackear as saídas seladas. |
+| **Aria** | Danificada / Letal | O Estúdio (Protocolo de Limpeza) | Danos estruturais (12%). Lógica de sobrevivência prioritária. |
+| **Rangel** | Crítico / Inconsciente | O Estúdio (Protocolo de Limpeza) | Risco iminente de morte por hipertermia. |
+| **Taxidermista**| Furioso / Protegido | O Estúdio (Cúpula Blindada) | Isolado em sua plataforma, observando a "purificação" pelo fogo. |
 | **Dante** | Derrotado / Humano | Usina Prometeu (Ruínas) | Abandonado nos escombros. Vulnerável e desconectado da rede. |
 | **Elena** | Civil / Observadora | Delegacia Central (Provável) | Separada do grupo principal. Provável refém/peão de Dante. |
 | **Marco** | Rival / Administrador | Delegacia Central | Ativo. Consolidando poder na ausência de Dante. |
