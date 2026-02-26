@@ -307,6 +307,8 @@ def main():
     parser.add_argument("--style", default="neo-noir cinematic cyberpunk", help="Visual style modifier")
     parser.add_argument("--ollama-model", default="qwen2.5:7b", help="Ollama model for prompt generation")
     parser.add_argument("--model-family", default="sdxl", choices=MODEL_ALTERNATIVES.keys())
+    parser.add_argument("--steps", type=int, help="Override default inference steps")
+    parser.add_argument("--output-suffix", default="", help="Suffix for the output filename (e.g., _heavy)")
     parser.add_argument("--dry-run", action="store_true", help="Print prompts without generating images")
     args = parser.parse_args()
 
@@ -318,13 +320,39 @@ def main():
         print("⚠️ Ollama offline. Falling back to deterministic prompt templates.")
 
     try:
+        # Pass steps override to image engine if provided
         image_engine = LocalDiffusionClient(model_family=args.model_family)
+        if args.steps:
+            MODEL_ALTERNATIVES[args.model_family]["steps"] = args.steps
+            
         db = CharacterDatabase(os.path.join(project_root, "docs/personagens.md"))
 
         success_count = 0
         for chapter_num in chapters:
             print(f"\n📂 Processing chapter {chapter_num}")
-            if process_chapter(chapter_num, text_engine, image_engine, db, project_root, args.style, args.dry_run):
+            
+            # Custom process_chapter to handle suffix
+            chapter = ChapterContext(chapter_num)
+            active_chars = db.find_characters_in_text(chapter.body)
+            prompt = text_engine.generate_prompt(chapter.body, active_chars, args.style)
+
+            if active_chars:
+                cast_hint = ", ".join(c["name"] for c in active_chars[:6])
+                prompt = f"{prompt}. Characters featured: {cast_hint}."
+
+            output_filename = f"capitulo_{chapter_num}{args.output_suffix}.jpg"
+            output_path = Path(project_root) / "docs/public" / output_filename
+            output_path.parent.mkdir(parents=True, exist_ok=True)
+
+            ok = image_engine.generate_art(prompt, str(output_path), dry_run=args.dry_run)
+            if ok and not args.dry_run:
+                # Only update frontmatter if it's the main image (no suffix) or if we want it to be the new default
+                # For multiple versions, we might not want to overwrite 'image:' unless it's the "primary" one.
+                # But the user wants them to "work", so maybe the first one that finishes wins?
+                # For now, let's update it anyway, the last one to finish will set the default.
+                chapter.update_frontmatter(f"/{output_filename}")
+            
+            if ok:
                 success_count += 1
 
         print(f"\n🏁 Done. Successful chapters: {success_count}/{len(chapters)}")
