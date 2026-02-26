@@ -1,7 +1,7 @@
 name: Automated Chapter Art Generation
 
 on:
-  push:
+  pull_request:
     paths:
       - 'docs/public/capitulo-*.md'
       - 'docs/capitulo-*.md'
@@ -78,17 +78,21 @@ jobs:
 
           CHAPTER="${{ github.event.inputs.chapter || '' }}"
           if [ -z "$CHAPTER" ]; then
-            # Attempt to find changed chapter file for push events
-            BEFORE_SHA="${{ github.event.before }}"
-            CURRENT_SHA="${{ github.sha }}"
+            if [ "${{ github.event_name }}" == "pull_request" ]; then
+              CHAPTER=$(git diff --name-only origin/${{ github.base_ref }} HEAD | grep 'capitulo-.*\.md' | head -n 1 || true)
+            else
+              # Attempt to find changed chapter file for push events
+              BEFORE_SHA="${{ github.event.before }}"
+              CURRENT_SHA="${{ github.sha }}"
 
-            # Only diff when both SHAs resolve to real commits.
-            if [ -n "$BEFORE_SHA" ] \
-              && [ -n "$CURRENT_SHA" ] \
-              && [ "$BEFORE_SHA" != "0000000000000000000000000000000000000000" ] \
-              && git cat-file -e "$BEFORE_SHA^{commit}" 2>/dev/null \
-              && git cat-file -e "$CURRENT_SHA^{commit}" 2>/dev/null; then
-              CHAPTER=$(git diff --name-only "$BEFORE_SHA" "$CURRENT_SHA" | grep 'capitulo-.*\.md' | head -n 1 || true)
+              # Only diff when both SHAs resolve to real commits.
+              if [ -n "$BEFORE_SHA" ] \
+                && [ -n "$CURRENT_SHA" ] \
+                && [ "$BEFORE_SHA" != "0000000000000000000000000000000000000000" ] \
+                && git cat-file -e "$BEFORE_SHA^{commit}" 2>/dev/null \
+                && git cat-file -e "$CURRENT_SHA^{commit}" 2>/dev/null; then
+                CHAPTER=$(git diff --name-only "$BEFORE_SHA" "$CURRENT_SHA" | grep 'capitulo-.*\.md' | head -n 1 || true)
+              fi
             fi
 
             # Fallback for initial commits or when no previous SHA is available
