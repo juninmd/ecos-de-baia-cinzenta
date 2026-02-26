@@ -4,7 +4,10 @@ import re
 import sys
 import time
 
-import requests
+try:
+    import requests
+except ImportError:
+    requests = None
 
 # Optional local backends
 try:
@@ -431,6 +434,7 @@ def validate_environment():
     print("🔍 Validating environment for Art Generation...")
 
     # Check Imports
+    print(f"   - Requests: {'✅ ' + requests.__version__ if requests else '❌ Not Found (Required for API)'}")
     print(f"   - Torch: {'✅ ' + torch.__version__ if torch else '❌ Not Found'}")
     try:
         import diffusers
@@ -511,6 +515,10 @@ def main():
 
     active_chars = db.find_characters_in_text(chapter.body)
     print(f"👥 Characters detected: {[c['name'] for c in active_chars]}")
+
+    if requests is None:
+        print("❌ Error: 'requests' library not found. Please install it (pip install requests).")
+        sys.exit(1)
 
     ollama = OllamaClient(model=args.ollama_model)
 
