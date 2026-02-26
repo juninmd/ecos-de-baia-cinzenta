@@ -54,7 +54,7 @@ jobs:
 
       - name: Install Dependencies
         run: |
-          pip install requests pillow diffusers transformers accelerate torch --index-url https://download.pytorch.org/whl/cpu
+          pip install requests pillow diffusers transformers accelerate torch --extra-index-url https://download.pytorch.org/whl/cpu
 
       - name: Generate Art
         if: steps.info.outputs.chapter != ''

@@ -273,6 +273,7 @@ module.exports = {
               { text: 'Capítulo 136: Peso da Carne', link: '/capitulo-136' },
               { text: 'Capítulo 137: Natureza Morta', link: '/capitulo-137' },
               { text: 'Capítulo 138: Vernissage', link: '/capitulo-138' },
+              { text: 'Capítulo 139: Curadoria', link: '/capitulo-139' },
             ]
           },
         ]

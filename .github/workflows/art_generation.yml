@@ -58,7 +58,7 @@ jobs:
         # Accelerate and Transformers needed for Diffusers.
         run: |
           pip install --upgrade pip
-          pip install requests pillow diffusers transformers accelerate torch --index-url https://download.pytorch.org/whl/cpu
+          pip install requests pillow diffusers transformers accelerate torch --extra-index-url https://download.pytorch.org/whl/cpu
 
       - name: Run Local Art Generation
         # No API Keys needed!

@@ -37,7 +37,7 @@
 *   **Capítulo 105:** Retorna à Delegacia Central. Testemunha a "Ascensão" de Dante enquanto lida com a falha mecânica de suas órteses.
 *   **Capítulo 106:** Tenta reparar seu exoesqueleto sem sucesso. Intervém para impedir que Dante use força letal contra os manifestantes "Desconectados", descobrindo a existência da ameaça do "Silêncio".
 *   **Capítulo 107:** Tem seu exoesqueleto "consertado" por Dante com precisão cirúrgica e dolorosa. Junta-se à operação de "Sanitização" no porto para mitigar danos civis.
-*   **Atualidade:** No interior do "Ateliê" do Taxidermista. Sobreviveu ao confronto com os Guardiões Modificados, utilizando o ambiente perigoso como arma. Ferido e exausto, lidera o grupo em direção ao santuário interno do inimigo, preocupado com a súbita desumanização de Aria.
+*   **Atualidade:** Encurralado no "Estúdio" do Taxidermista. Acabou de destruir o "Tríptico da Lamentação" (três vítimas fundidas) para neutralizar as "Esculturas", uma decisão moralmente pesada. Agora enfrenta o "Protocolo de Limpeza" (incineração) ativado pelo inimigo, lutando contra o calor extremo e o desejo de fumar gatilhado pelo estresse.
 
 ---
 
@@ -65,7 +65,7 @@
 *   **Pré-Série:** Prodígio. Aparência: "Geek" limpa, roupas corporativas padrão.
 *   **Partes I-XII:** A Hacker Rebelde. Aparência: Cabelo neon (muda de cor), roupas cyberpunk, pele pálida.
 *   **Parte XIII:** O Sacrifício. Aparência: Veias prateadas da "Praga de Ferro" começam a aparecer no pescoço e braços. Olhos tornam-se inteiramente prateados.
-*   **Atualidade:** No "Ateliê" do Taxidermista. Conseguiu forçar um *hard reset* em Aria para salvá-la do colapso lógico, mas agora teme ter apagado a "humanidade" da amiga no processo.
+*   **Atualidade:** Presa no "Estúdio" superaquecido. Identificou a conexão neural das "Esculturas" com o Tríptico, permitindo que Gabo quebrasse a coordenação inimiga. Agora tenta desesperadamente hackear as portas seladas antes que o grupo seja incinerado.
 
 ---
 
@@ -216,7 +216,7 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 ### ⏳ Linha do Tempo
 *   **Partes I-VIII:** Uma lenda urbana. Corpos aparecem modificados.
 *   **Capítulo 47 (O Dilúvio):** O confronto na Torre do Relógio. Gabo fica paraplégico.
-*   **Atualidade:** Teve seus Guardiões destruídos por Aria e recuou para as profundezas de seu laboratório na Necrópole, perdendo o controle sobre sua "exposição".
+*   **Atualidade:** Furioso pela destruição de sua "Obra-Prima" (o Tríptico) por Gabo. Protegido por uma redoma blindada em sua plataforma de observação, ativou o "Protocolo de Limpeza" para incinerar o grupo e "limpar a tela" de seu estúdio.
 
 ---
 
@@ -486,7 +486,7 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 *   **Origem:** Começou como uma IA/Alucinação. Ganhou corpo físico durante a "Ascensão" de Dante, utilizando bio-engenharia roubada.
 *   **Capítulo 109:** Revela sua face física (Bia Vargas) para Rangel e bloqueia os drones de Dante.
 *   **Capítulo 118:** Sacrifica sua integridade lógica para salvar os "Drenados" do choque neural na Usina Prometeu.
-*   **Atualidade:** Reiniciada após o colapso no Ateliê. Rejeitou a identidade e o corpo de Bia Vargas, assumindo uma persona puramente lógica e letal ("A Arma"). Eliminou os Guardiões do Taxidermista com eficiência brutal e agora avança sem hesitação ou empatia.
+*   **Atualidade:** Operando com 12% de dano estrutural após combate corpo-a-corpo com as "Esculturas". Mantém a eficiência lógica máxima, priorizando a sobrevivência do grupo (missão) sobre a preservação individual. Decapitou uma Escultura sem hesitação após a quebra da rede neural inimiga.
 
 ---
 
