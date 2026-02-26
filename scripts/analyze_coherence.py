@@ -60,9 +60,15 @@ def parse_character_aliases() -> dict[str, set[str]]:
 
 def check_chapter_folder_standard() -> list[str]:
     issues = []
-    stray = sorted((DOCS_DIR / "public").glob("capitulo-*.md"))
+    public_chapters = sorted((DOCS_DIR / "public").glob("capitulo-*.md"))
+    stray = []
+    for pub_chap in public_chapters:
+        doc_chap = DOCS_DIR / pub_chap.name
+        if not doc_chap.exists():
+            stray.append(pub_chap.name)
+
     if stray:
-        issues.append(f"{len(stray)} capítulos ainda estão fora da pasta padrão docs/: {[p.name for p in stray]}")
+        issues.append(f"{len(stray)} capítulos estão SOMENTE em docs/public/ (devem estar em docs/ também para renderização): {stray}")
     return issues
 
 
