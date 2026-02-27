@@ -45,7 +45,7 @@ jobs:
       - name: Wait and Pull Model
         run: |
           timeout 60s bash -c 'until curl -s http://localhost:11434 > /dev/null; do sleep 2; done'
-          docker exec ollama ollama pull llama2:7b-fp16 # Lighter version for speed
+          docker exec ollama ollama pull tinyllama # Lighter version for speed
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -64,7 +64,7 @@ jobs:
             --model-family sd15 \
             --steps 8 \
             --output-suffix "_micro" \
-            --ollama-model llama2:7b-fp16
+            --ollama-model tinyllama
 
       - name: Commit and Push
         if: steps.info.outputs.chapter != ''
