@@ -84,18 +84,19 @@ A era da reconstrução autoritária.
 *   **Capítulo 137 (Natureza Morta):** O grupo entra na "Galeria" do Taxidermista, um vasto salão de preservação de corpos transformados em arte. Eles são atacados por experimentos falhos ("Abortos"). Aria elimina as ameaças com frieza mecânica. Gabo e Valéria ficam horrorizados com a coleção de vítimas. O Taxidermista se comunica, convidando-os para seu "estúdio".
 *   **Capítulo 138 (Vernissage):** O grupo adentra o "Estúdio", um santuário estéril onde o Taxidermista se revela como uma figura de perfeição artificial. Ele apresenta sua "Obra-Prima", uma rede neural viva feita de sofrimento humano, e oferece a Gabo uma chance de "eternidade". A recusa de Gabo em aceitar a desumanização desencadeia o ataque das "Esculturas", guardiões de elite de cerâmica e músculo.
 *   **Capítulo 139 (Curadoria):** O grupo enfrenta as "Esculturas" no Estúdio. Valéria descobre que os inimigos são coordenados pelo "Tríptico da Lamentação" (três vítimas fundidas). Gabo destrói o Tríptico para salvar o grupo, causando a fúria do Taxidermista, que ativa o "Protocolo de Limpeza" (incineração) e sela o ambiente.
+*   **Capítulo 140 (Ponto de Fusão):** Com o Estúdio transformando-se em uma fornalha, Aria localiza um duto de descarte de biomassa como única saída. Gabo usa a dor do metal quente para resistir à abstinência e abre a grade de ferro fundido. O grupo escorrega para a escuridão do "Lixão de Ossos" (Subnível 7) momentos antes da incineração total.
 
 ---
 
-## 📍 Status Atual dos Personagens (Pós-Capítulo 139)
+## 📍 Status Atual dos Personagens (Pós-Capítulo 140)
 
 | Personagem | Status | Localização | Estado Físico/Mental |
 | :--- | :--- | :--- | :--- |
-| **Gabo** | Líder / Combatente | O Estúdio (Protocolo de Limpeza) | Exausto, ferido e sufocado pelo calor. |
-| **Valéria** | Hacker / Suporte | O Estúdio (Protocolo de Limpeza) | Tentando hackear as saídas seladas. |
-| **Aria** | Danificada / Letal | O Estúdio (Protocolo de Limpeza) | Danos estruturais (12%). Lógica de sobrevivência prioritária. |
-| **Rangel** | Crítico / Inconsciente | O Estúdio (Protocolo de Limpeza) | Risco iminente de morte por hipertermia. |
-| **Taxidermista**| Furioso / Protegido | O Estúdio (Cúpula Blindada) | Isolado em sua plataforma, observando a "purificação" pelo fogo. |
+| **Gabo** | Líder / Combatente | Necrópole (Subnível 7 - Lixão) | Mãos gravemente queimadas. Focado pela dor. |
+| **Valéria** | Hacker / Suporte | Necrópole (Subnível 7 - Lixão) | Abalada, sem conexão com a rede. |
+| **Aria** | Danificada / Letal | Necrópole (Subnível 7 - Lixão) | Danos estruturais (15%). Monitorando sinais vitais. |
+| **Rangel** | Crítico / Inconsciente | Necrópole (Subnível 7 - Lixão) | Infecção acelerada pelo calor. Precisa de antibióticos urgente. |
+| **Taxidermista**| Furioso / Protegido | O Estúdio (Destruído) | Provável sobrevivente, reorganizando a caçada. |
 | **Dante** | Derrotado / Humano | Usina Prometeu (Ruínas) | Abandonado nos escombros. Vulnerável e desconectado da rede. |
 | **Elena** | Civil / Observadora | Delegacia Central (Provável) | Separada do grupo principal. Provável refém/peão de Dante. |
 | **Marco** | Rival / Administrador | Delegacia Central | Ativo. Consolidando poder na ausência de Dante. |
