@@ -1,88 +1,81 @@
-name: Official Art Generation (Local/Ollama)
+name: Art Gen L4 - Pro
 
 on:
+  pull_request:
+    paths:
+      - 'docs/capitulo-*.md'
   workflow_dispatch:
     inputs:
       chapter:
         description: 'Chapter Number'
         required: true
-        default: '104'
+        default: '138'
       style:
         description: 'Art Style'
         required: false
         default: 'cyberpunk, noir'
 
 jobs:
-  generate-local-art:
+  generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 180
     permissions:
       contents: write
-      pull-requests: write
     steps:
       - name: Checkout Code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - name: Set up Docker Buildx
-        uses: docker/setup-buildx-action@v2
+      - name: Determine Chapter
+        id: info
+        run: |
+          if [ "${{ github.event_name }}" == "pull_request" ]; then
+            # Extract chapter from modified files in PR
+            CHAPTER=$(git diff --name-only origin/${{ github.base_ref }} HEAD | grep 'docs/capitulo-.*\.md' | sed -E 's/.*capitulo-([0-9.]+)\.md/\1/' | head -n 1)
+          else
+            CHAPTER=${{ inputs.chapter }}
+          fi
+          echo "chapter=$CHAPTER" >> $GITHUB_OUTPUT
 
-      - name: Start Ollama Service
+      - name: Start Ollama
         run: docker compose up -d ollama
 
       - name: Wait for Ollama
         run: |
-          echo "Waiting for Ollama to be ready..."
           timeout 60s bash -c 'until curl -s http://localhost:11434 > /dev/null; do sleep 2; done'
-          echo "Ollama is ready!"
-
-      - name: Pull Llama2 Model
-        run: |
-          echo "Pulling llama2 model (this may take several minutes)..."
           docker compose exec -T ollama ollama pull llama2
-        timeout-minutes: 15
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-          cache: 'pip'
-
-      - name: Cache Ollama Models
-        uses: actions/cache@v4
-        with:
-          path: ~/.ollama
-          key: ${{ runner.os }}-ollama-llama2-v1
 
       - name: Install Dependencies
-        # Using lighter torch CPU version to save bandwidth if possible, but diffusers usually grabs full torch.
-        # Accelerate and Transformers needed for Diffusers.
         run: |
-          pip install --upgrade pip
           pip install requests pillow diffusers transformers accelerate torch --extra-index-url https://download.pytorch.org/whl/cpu
 
-      - name: Run Local Art Generation
-        # No API Keys needed!
+      - name: Generate Art
+        if: steps.info.outputs.chapter != ''
         run: |
-          python scripts/local_art_gen.py ${{ inputs.chapter }} \
-            --style "${{ inputs.style }}" \
-            --ollama-model llama2
-        timeout-minutes: 60
+          python scripts/local_art_gen.py ${{ steps.info.outputs.chapter }} \
+            --style "${{ inputs.style || 'cyberpunk, noir' }}" \
+            --model-family flux2-dev \
+            --steps 28
 
-      - name: Config Git
-        run: |
-          git config --global user.name "Ollama Art Bot"
-          git config --global user.email "bot@ollama.local"
+      - name: Upload Artifact
+        if: steps.info.outputs.chapter != ''
+        uses: actions/upload-artifact@v4
+        with:
+          name: capitulo-${{ steps.info.outputs.chapter }}-art
+          path: docs/public/capitulo_${{ steps.info.outputs.chapter }}_pro.jpg
+          retention-days: 7
 
       - name: Commit and Push
+        if: steps.info.outputs.chapter != ''
         run: |
-          git add docs/public/capitulo_${{ inputs.chapter }}.jpg
-          git add docs/capitulo-${{ inputs.chapter }}.md
-          # Handle case where nothing changed (if generation failed but didn't crash)
-          git commit -m "chore: generate art for chapter ${{ inputs.chapter }} (Ollama/Local)" || echo "No changes to commit"
+          git config --global user.name "Art Bot L4"
+          git config --global user.email "bot@meu-livro.local"
+          git add docs/public/capitulo_${{ steps.info.outputs.chapter }}_pro.jpg
+          git commit -m "chore: generate pro art for chapter ${{ steps.info.outputs.chapter }}" || echo "No changes"
           git push
-
-      - name: Upload Artifacts
-        uses: actions/upload-artifact@v3
-        with:
-          name: generated-art-local
-          path: docs/public/capitulo_*.jpg

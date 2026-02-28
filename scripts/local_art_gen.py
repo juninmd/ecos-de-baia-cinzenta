@@ -9,32 +9,18 @@ import requests
 
 try:
     import torch
-    from diffusers import FluxPipeline, StableDiffusionPipeline, StableDiffusionXLPipeline
+    from diffusers import FluxPipeline
 except ImportError:
     torch = None
     FluxPipeline = None
-    StableDiffusionPipeline = None
-    StableDiffusionXLPipeline = None
 
 MODEL_ALTERNATIVES = {
-    "flux-schnell": {
-        "label": "FLUX.1 Schnell (open source, melhor qualidade geral)",
-        "local_model_id": "black-forest-labs/FLUX.1-schnell",
+    "flux2-dev": {
+        "label": "FLUX.2 Dev (melhor qualidade geral)",
+        "local_model_id": "black-forest-labs/FLUX.2-dev",
         "size": (768, 1024),
-        "steps": 4, # FLUX.1 Schnell is optimized for 4-8 steps
-    },
-    "sdxl": {
-        "label": "Stable Diffusion XL 1.0 (boa composição)",
-        "local_model_id": "stabilityai/stable-diffusion-xl-base-1.0",
-        "size": (768, 1024),
-        "steps": 34,
-    },
-    "sd15": {
-        "label": "Stable Diffusion 1.5 (rápido)",
-        "local_model_id": "runwayml/stable-diffusion-v1-5",
-        "size": (768, 1024),
-        "steps": 30,
-    },
+        "steps": 28, # Modelos 'dev' precisam de mais passos (20-30) do que os 'schnell' (4-8)
+    }
 }
 
 
@@ -216,7 +202,7 @@ class OllamaClient:
 
 
 class LocalDiffusionClient:
-    def __init__(self, model_family="sdxl"):
+    def __init__(self, model_family="flux2-dev"):
         self.model_family = model_family
         self.pipeline = None
         self.device = "cpu"
@@ -225,7 +211,7 @@ class LocalDiffusionClient:
         )
 
     def _setup_pipeline(self):
-        if not (torch and StableDiffusionPipeline):
+        if not (torch and FluxPipeline):
             raise RuntimeError("Missing torch/diffusers dependencies for local generation")
 
         self.device = "cuda" if torch.cuda.is_available() else "cpu"
@@ -238,19 +224,10 @@ class LocalDiffusionClient:
             self.pipeline.enable_attention_slicing()
 
     def _load_pipeline(self, family, model_id):
-        if family == "flux-schnell":
-            if FluxPipeline is None:
-                raise RuntimeError("FluxPipeline unavailable in installed diffusers version")
-            dtype = torch.bfloat16 if self.device == "cuda" else torch.float32
-            return FluxPipeline.from_pretrained(model_id, torch_dtype=dtype)
-
-        if family == "sdxl":
-            if StableDiffusionXLPipeline is None:
-                raise RuntimeError("StableDiffusionXLPipeline unavailable")
-            dtype = torch.float16 if self.device == "cuda" else torch.float32
-            return StableDiffusionXLPipeline.from_pretrained(model_id, torch_dtype=dtype)
-
-        return StableDiffusionPipeline.from_pretrained(model_id, torch_dtype=torch.float32)
+        if FluxPipeline is None:
+            raise RuntimeError("FluxPipeline unavailable in installed diffusers version")
+        dtype = torch.bfloat16 if self.device == "cuda" else torch.float32
+        return FluxPipeline.from_pretrained(model_id, torch_dtype=dtype)
 
     def generate_art(self, prompt, output_path, dry_run=False):
         if dry_run:
@@ -261,11 +238,13 @@ class LocalDiffusionClient:
             self._setup_pipeline()
 
         steps = MODEL_ALTERNATIVES[self.model_family]["steps"]
+        guidance = 0.0 if "schnell" in self.model_family else 3.5 if "flux" in self.model_family else 7.0
+        
         image = self.pipeline(
             prompt=prompt,
             negative_prompt=self.negative_prompt,
             num_inference_steps=steps,
-            guidance_scale=0.0 if self.model_family == "flux-schnell" else 7.0,
+            guidance_scale=guidance,
         ).images[0]
         image.save(output_path)
         return True
@@ -306,7 +285,7 @@ def main():
     parser.add_argument("chapters", type=str, help="Chapter number, list (1,2,3) or range (10-14)")
     parser.add_argument("--style", default="neo-noir cinematic cyberpunk", help="Visual style modifier")
     parser.add_argument("--ollama-model", default="qwen2.5:7b", help="Ollama model for prompt generation")
-    parser.add_argument("--model-family", default="sdxl", choices=MODEL_ALTERNATIVES.keys())
+    parser.add_argument("--model-family", default="flux2-dev", choices=MODEL_ALTERNATIVES.keys())
     parser.add_argument("--steps", type=int, help="Override default inference steps")
     parser.add_argument("--output-suffix", default="", help="Suffix for the output filename (e.g., _heavy)")
     parser.add_argument("--dry-run", action="store_true", help="Print prompts without generating images")

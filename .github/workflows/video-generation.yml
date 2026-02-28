@@ -101,4 +101,4 @@ jobs:
         with:
           name: generated-videos
           path: docs/public/videos/*.mp4
-          retention-days: 30
+          retention-days: 7
