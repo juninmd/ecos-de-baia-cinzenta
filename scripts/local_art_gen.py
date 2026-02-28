@@ -233,8 +233,31 @@ class LocalDiffusionClient:
         
         token = os.environ.get("HF_TOKEN")
         
+        # Load quantified flux 8-bit using chunks mapped via accelerate and bitsandbytes
+        print(f"🔄 Loading {model_id} in 8-bit precision to save memory...")
+        from diffusers import FluxTransformer2DModel
+        from transformers import T5EncoderModel
+        
+        # Quantize the biggest parts of the model (Transformer + Text Encoder)
+        transformer = FluxTransformer2DModel.from_pretrained(
+            model_id,
+            subfolder="transformer",
+            torch_dtype=dtype,
+            token=token,
+            load_in_8bit=True
+        )
+        text_encoder_2 = T5EncoderModel.from_pretrained(
+            model_id,
+            subfolder="text_encoder_2",
+            torch_dtype=dtype,
+            token=token,
+            load_in_8bit=True
+        )
+        
         return DiffusionPipeline.from_pretrained(
             model_id, 
+            transformer=transformer,
+            text_encoder_2=text_encoder_2,
             torch_dtype=dtype,
             token=token
         )
