@@ -1,4 +1,5 @@
 import argparse
+import base64
 import os
 import re
 import sys
@@ -10,19 +11,19 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-try:
-    import torch
-    from diffusers import DiffusionPipeline
-except ImportError:
-    torch = None
-    DiffusionPipeline = None
-
 MODEL_ALTERNATIVES = {
-    "flux2-dev": {
-        "label": "FLUX.2 Dev (melhor qualidade geral)",
-        "local_model_id": "black-forest-labs/FLUX.2-dev",
-        "size": (768, 1024),
-        "steps": 28, # Modelos 'dev' precisam de mais passos (20-30) do que os 'schnell' (4-8)
+    "sdxl-novita": {
+        "label": "SDXL 1.0 via Novita (Fidelidade Máxima I2I)",
+        "model": "stabilityai/stable-diffusion-xl-base-1.0",
+        "provider": "novita"
+    },
+    "flux1-schnell": {
+        "label": "FLUX.1 Schnell (Rápido para API Serverless)",
+        "model": "black-forest-labs/FLUX.1-schnell"
+    },
+    "flux1-dev": {
+        "label": "FLUX.1 Dev (Melhor Composição para API Serverless)",
+        "model": "black-forest-labs/FLUX.1-dev"
     }
 }
 
@@ -41,47 +42,63 @@ class CharacterDatabase:
         with open(self.filepath, "r", encoding="utf-8") as f:
             content = f.read()
 
-        for section in re.split(r"\n## ", content):
-            if not section.strip() or section.startswith("# "):
+        # Improved parsing logic for markdown sections
+        sections = re.split(r"\n## ", "\n" + content)
+        for section in sections:
+            section = section.strip()
+            if not section or section.startswith("# "):
                 continue
 
             lines = section.split("\n")
-            name_line = lines[0].strip().replace("*", "")
-            # Remove anything in parentheses or brackets
-            name_clean = re.sub(r"\s*[\(\[].*?[\)\]]", "", name_line).strip()
+            # Extract name and remove markdown formatting/aliases in parens
+            raw_title = lines[0].strip().replace("*", "").replace("#", "")
+            name_clean = re.sub(r"\s*[\(\[].*?[\)\]]", "", raw_title).strip()
 
-            description = []
+            # Capture all relevant visual fields
+            details = {}
+            current_field = None
+            
             for line in lines:
-                clean = line.replace("*", "").strip()
-                if any(
-                    key in clean
-                    for key in [
-                        "Porte Físico:",
-                        "Vestuário:",
-                        "Marcas Distintivas:",
-                        "Cabelo:",
-                        "Olhos:",
-                        "Rosto:",
-                        "Idade:",
-                        "Equipamento:",
-                    ]
-                ):
-                    description.append(clean)
+                line_clean = line.strip()
+                # Match bullet points like "* **Field:** Value"
+                match = re.search(r"^\*?\s*\*\*(.*?):\*\*\s*(.*)$", line_clean)
+                if match:
+                    field_name = match.group(1).strip()
+                    field_value = match.group(2).strip()
+                    details[field_name] = field_value
+                elif line_clean.startswith("!["):
+                    # Image reference line
+                    pass
+
+            # Build a structured visual DNA string
+            visual_dna = []
+            for field in ["Idade", "Altura", "Porte Físico", "Cabelo", "Olhos", "Rosto", "Marcas Distintivas", "Vestuário"]:
+                if field in details:
+                    visual_dna.append(f"{field}: {details[field]}")
+            
+            if not visual_dna:
+                # Fallback to the old line-by-line collector if the bold-match fails
+                for line in lines:
+                    c = line.replace("*", "").strip()
+                    if ":" in c and any(k in c for k in ["Cabelo", "Olhos", "Vestuário", "Porte", "Marca"]):
+                        visual_dna.append(c)
 
             aliases = {name_clean}
-            nick = re.search(r'"(.*?)"', name_clean)
+            nick = re.search(r'"(.*?)"', raw_title)
             if nick:
                 aliases.add(nick.group(1))
-            first = name_clean.split()[0] if name_clean.split() else ""
-            if len(first) > 2:
-                aliases.add(first)
+            
+            # Add early version of first name as alias
+            first_parts = name_clean.split()
+            if first_parts and len(first_parts[0]) > 2:
+                aliases.add(first_parts[0])
 
             self.characters[name_clean] = {
                 "name": name_clean,
                 "aliases": list(aliases),
-                "description": ". ".join(description),
+                "description": " | ".join(visual_dna),
             }
-        print(f"📊 Loaded {len(self.characters)} characters from database.")
+        print(f"📊 Loaded {len(self.characters)} characters with Visual DNA profiles.")
 
     def find_characters_in_text(self, text):
         found = []
@@ -91,6 +108,15 @@ class CharacterDatabase:
                     found.append(char_data)
                     break
         return found
+
+    def get_character_image(self, char_data, search_dir="docs/public/personagens"):
+        for alias in char_data["aliases"]:
+            # Tenta encontrar a imagem pelo apelido ou nome (ex: gabo.jpg, val.png)
+            for ext in [".jpg", ".png", ".jpeg"]:
+                test_path = os.path.join(search_dir, alias.lower() + ext)
+                if os.path.exists(test_path):
+                    return test_path
+        return None
 
 
 class ChapterContext:
@@ -172,22 +198,24 @@ class OllamaClient:
             "system": (
                 "You are an elite Hollywood visual director and concept artist. "
                 "Your specialty is 'Nano Banana' style: high-contrast, atmospheric, "
-                "emotionally charged neo-noir cyberpunk. You prioritize character consistency "
-                "and symbolic storytelling through light and shadow."
+                "emotionally charged neo-noir cyberpunk. You emphasize character visual fidelity "
+                "by strictly adhering to provided physical traits (Visual DNA)."
             ),
             "prompt": (
-                "Task: Select the most visually impactful moment from the chapter excerpt and write ONE production-ready image prompt in English.\n\n"
-                f"Visual Style: {style}\n"
-                f"Character Canon (Reference only):\n{char_context}\n\n"
-                f"Chapter Excerpt (PRIORITIZE NEW EVOLUTIONS HERE):\n{chapter_text[:3000]}\n\n"
-                "Requirements:\n"
-                "1. Focus on ONE clear composition (Medium or Wide shot preferred).\n"
-                "2. If the chapter text describes a character differently from the canon (e.g., new clothing or cybernetics), ALWAYS follow the chapter text.\n"
-                "3. Describe the lighting (Rim light, neon reflections, harsh contrast).\n"
-                "4. Include environmental details (smog, rain, textures like wet concrete or sterile chrome).\n"
-                "5. Capture the emotional weight/action beat of the scene.\n"
-                "6. No dialogue, no meta-text, max 170 words.\n"
-                "7. MUST end with: ultra cinematic, neo-noir cyberpunk, volumetric lighting, film grain, masterpiece."
+                "Task: Generate ONE cinematic image prompt in English for the provided scene.\n\n"
+                f"Visual Style: {style}\n\n"
+                "STRICT CHARACTER VISUAL DNA (Must be accurately represented):\n"
+                f"{char_context}\n\n"
+                "CHAPTER NARRATIVE CONTEXT:\n"
+                f"{chapter_text[:2500]}\n\n"
+                "PROMPT REQUIREMENTS:\n"
+                "1. SUBJECT: Place the characters mentioned in the specified environment.\n"
+                "2. PHYSICALITY: You MUST include their specific traits (clothing, eyes, scars, hair) from the DNA in the prompt.\n"
+                "3. COMPOSITION: Cinematic wide or medium shot, dynamic perspective.\n"
+                "4. ATMOSPHERE: Dense fog, rain, neon glare, deep shadows (chiaroscuro).\n"
+                "5. TEXTURE: 35mm film grain, high technical detail, realistic skin and fabric.\n"
+                "6. NARRATIVE: Capture the specific mood of the chapter excerpt.\n"
+                "7. Output ONLY the prompt string. End with: 'masterpiece, ultra-detailed, neo-noir cyberpunk, cinematic lighting, 8k'."
             ),
         }
 
@@ -204,83 +232,67 @@ class OllamaClient:
             return self.build_fallback_prompt(chapter_text, active_characters, style)
 
 
-class LocalDiffusionClient:
-    def __init__(self, model_family="flux2-dev"):
+class HuggingFaceAPIClient:
+    def __init__(self, model_family="sdxl-novita"):
         self.model_family = model_family
-        self.pipeline = None
-        self.device = "cpu"
-        self.negative_prompt = (
-            "low quality, blurry, bad anatomy, extra limbs, duplicated body, text, watermark, logo, anime, cartoon"
-        )
+        config = MODEL_ALTERNATIVES.get(model_family, MODEL_ALTERNATIVES["sdxl-novita"])
+        model_id = config.get("model")
+        provider = config.get("provider")
 
-    def _setup_pipeline(self):
-        if not (torch and DiffusionPipeline):
-            raise RuntimeError("Missing torch/diffusers dependencies for local generation")
+        self.api_url = f"https://router.huggingface.co/hf-inference/models/{model_id}"
+        if provider:
+            self.api_url += f"?provider={provider}"
 
-        self.device = "cuda" if torch.cuda.is_available() else "cpu"
-        cfg = MODEL_ALTERNATIVES[self.model_family]
-        model_id = os.environ.get("ART_MODEL_ID", cfg["local_model_id"])
+        self.token = os.environ.get("HF_TOKEN")
+        if not self.token:
+            print("⚠️ HF_TOKEN not found in environment. API calls will likely fail with 401 Unauthorized.")
 
-        self.pipeline = self._load_pipeline(self.model_family, model_id)
-        self.pipeline.to(self.device)
-        if hasattr(self.pipeline, "enable_attention_slicing"):
-            self.pipeline.enable_attention_slicing()
-
-    def _load_pipeline(self, family, model_id):
-        if DiffusionPipeline is None:
-            raise RuntimeError("DiffusionPipeline unavailable in installed diffusers version")
-        dtype = torch.bfloat16 if self.device == "cuda" else torch.float32
-        
-        token = os.environ.get("HF_TOKEN")
-        
-        # Load quantified flux 8-bit using chunks mapped via accelerate and bitsandbytes
-        print(f"🔄 Loading {model_id} in 8-bit precision to save memory...")
-        from diffusers import FluxTransformer2DModel
-        from transformers import T5EncoderModel
-        
-        # Quantize the biggest parts of the model (Transformer + Text Encoder)
-        transformer = FluxTransformer2DModel.from_pretrained(
-            model_id,
-            subfolder="transformer",
-            torch_dtype=dtype,
-            token=token,
-            load_in_8bit=True
-        )
-        text_encoder_2 = T5EncoderModel.from_pretrained(
-            model_id,
-            subfolder="text_encoder_2",
-            torch_dtype=dtype,
-            token=token,
-            load_in_8bit=True
-        )
-        
-        return DiffusionPipeline.from_pretrained(
-            model_id, 
-            transformer=transformer,
-            text_encoder_2=text_encoder_2,
-            torch_dtype=dtype,
-            token=token
-        )
-
-    def generate_art(self, prompt, output_path, dry_run=False):
+    def generate_art(self, prompt, output_path, image_path=None, strength=0.1, dry_run=False):
         if dry_run:
             print(f"🧪 [DRY RUN] Prompt final:\n{prompt}\n")
+            if image_path:
+                print(f"🧪 [DRY RUN] Using base image for I2I: {image_path} (Strength: {strength})")
             return True
 
-        if self.pipeline is None:
-            self._setup_pipeline()
-
-        steps = MODEL_ALTERNATIVES[self.model_family]["steps"]
-        guidance = 0.0 if "schnell" in self.model_family else 3.5 if "flux" in self.model_family else 7.0
+        print(f"🌐 Requesting image from {self.api_url}...")
+        headers = {
+            "Authorization": f"Bearer {self.token}",
+            "Content-Type": "application/json"
+        }
         
-        image = self.pipeline(
-            prompt=prompt,
-            negative_prompt=self.negative_prompt,
-            num_inference_steps=steps,
-            guidance_scale=guidance,
-        ).images[0]
-        image.save(output_path)
-        return True
+        payload = {"inputs": prompt}
+        
+        # Se houver imagem base, ativa o modo Image-to-Image
+        if image_path and os.path.exists(image_path):
+            print(f"🖼️ Using character base image: {image_path}")
+            with open(image_path, "rb") as f:
+                img_base64 = base64.b64encode(f.read()).decode('utf-8')
+            payload["image"] = img_base64
+            payload["parameters"] = {
+                "strength": strength,
+                "guidance_scale": 12.0,
+                "num_inference_steps": 40
+            }
+        
+        try:
+            response = requests.post(
+                self.api_url, 
+                headers=headers, 
+                json=payload,
+                timeout=120
+            )
+            
+            if response.status_code == 200:
+                with open(output_path, "wb") as f:
+                    f.write(response.content)
+                return True
+            else:
+                print(f"❌ API Error {response.status_code}: {response.text}")
+                return False
+                
+        except Exception as e:
+            print(f"❌ Failed to reach Hugging Face API: {e}")
+            return False
 
 
 def parse_chapter_selection(raw: str):
@@ -318,8 +330,8 @@ def main():
     parser.add_argument("chapters", type=str, help="Chapter number, list (1,2,3) or range (10-14)")
     parser.add_argument("--style", default="neo-noir cinematic cyberpunk", help="Visual style modifier")
     parser.add_argument("--ollama-model", default="qwen2.5:7b", help="Ollama model for prompt generation")
-    parser.add_argument("--model-family", default="flux2-dev", choices=MODEL_ALTERNATIVES.keys())
-    parser.add_argument("--steps", type=int, help="Override default inference steps")
+    parser.add_argument("--model-family", default="sdxl-novita", choices=MODEL_ALTERNATIVES.keys())
+    parser.add_argument("--strength", type=float, default=0.1, help="I2I transformation strength (0.1 = max face fidelity)")
     parser.add_argument("--output-suffix", default="", help="Suffix for the output filename (e.g., _heavy)")
     parser.add_argument("--dry-run", action="store_true", help="Print prompts without generating images")
     args = parser.parse_args()
@@ -333,9 +345,7 @@ def main():
 
     try:
         # Pass steps override to image engine if provided
-        image_engine = LocalDiffusionClient(model_family=args.model_family)
-        if args.steps:
-            MODEL_ALTERNATIVES[args.model_family]["steps"] = args.steps
+        image_engine = HuggingFaceAPIClient(model_family=args.model_family)
             
         db = CharacterDatabase(os.path.join(project_root, "docs/personagens.md"))
 
@@ -343,9 +353,18 @@ def main():
         for chapter_num in chapters:
             print(f"\n📂 Processing chapter {chapter_num}")
             
-            # Custom process_chapter to handle suffix
             chapter = ChapterContext(chapter_num)
             active_chars = db.find_characters_in_text(chapter.body)
+            
+            # Buscar imagem do personagem principal (o primeiro encontrado)
+            image_path = None
+            if active_chars:
+                image_path = db.get_character_image(active_chars[0])
+                if image_path:
+                    print(f"👤 Primary character detected: {active_chars[0]['name']} (Image found)")
+                else:
+                    print(f"👤 Primary character detected: {active_chars[0]['name']} (No base image found)")
+
             prompt = text_engine.generate_prompt(chapter.body, active_chars, args.style)
 
             if active_chars:
@@ -356,12 +375,15 @@ def main():
             output_path = Path(project_root) / "docs/public" / output_filename
             output_path.parent.mkdir(parents=True, exist_ok=True)
 
-            ok = image_engine.generate_art(prompt, str(output_path), dry_run=args.dry_run)
+            ok = image_engine.generate_art(
+                prompt, 
+                str(output_path), 
+                image_path=image_path, 
+                strength=args.strength,
+                dry_run=args.dry_run
+            )
+            
             if ok and not args.dry_run:
-                # Only update frontmatter if it's the main image (no suffix) or if we want it to be the new default
-                # For multiple versions, we might not want to overwrite 'image:' unless it's the "primary" one.
-                # But the user wants them to "work", so maybe the first one that finishes wins?
-                # For now, let's update it anyway, the last one to finish will set the default.
                 chapter.update_frontmatter(f"/{output_filename}")
             
             if ok:
