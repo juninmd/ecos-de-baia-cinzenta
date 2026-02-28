@@ -85,10 +85,11 @@ A era da reconstrução autoritária.
 *   **Capítulo 138 (Vernissage):** O grupo adentra o "Estúdio", um santuário estéril onde o Taxidermista se revela como uma figura de perfeição artificial. Ele apresenta sua "Obra-Prima", uma rede neural viva feita de sofrimento humano, e oferece a Gabo uma chance de "eternidade". A recusa de Gabo em aceitar a desumanização desencadeia o ataque das "Esculturas", guardiões de elite de cerâmica e músculo.
 *   **Capítulo 139 (Curadoria):** O grupo enfrenta as "Esculturas" no Estúdio. Valéria descobre que os inimigos são coordenados pelo "Tríptico da Lamentação" (três vítimas fundidas). Gabo destrói o Tríptico para salvar o grupo, causando a fúria do Taxidermista, que ativa o "Protocolo de Limpeza" (incineração) e sela o ambiente.
 *   **Capítulo 140 (Ponto de Fusão):** Com o Estúdio transformando-se em uma fornalha, Aria localiza um duto de descarte de biomassa como única saída. Gabo usa a dor do metal quente para resistir à abstinência e abre a grade de ferro fundido. O grupo escorrega para a escuridão do "Lixão de Ossos" (Subnível 7) momentos antes da incineração total.
+*   **Capítulo 141 (Raízes Amargas):** No Subnível 7, o grupo se recupera no Lixão de Ossos. Gabo usa as queimaduras nas mãos para canalizar seu ódio pela fumaça e focar. Aria sugere abandonar Rangel por otimização, mas Gabo recusa veementemente. Aria descobre antigos cabos de fibra ótica da Aeterna Corp sob os restos orgânicos, revelando que o Taxidermista construiu sua base explorando infraestrutura esquecida da velha corporação. Valéria usa a fibra para tentar estabelecer uma rede cega e mapear a subida.
 
 ---
 
-## 📍 Status Atual dos Personagens (Pós-Capítulo 140)
+## 📍 Status Atual dos Personagens (Pós-Capítulo 141)
 
 | Personagem | Status | Localização | Estado Físico/Mental |
 | :--- | :--- | :--- | :--- |
