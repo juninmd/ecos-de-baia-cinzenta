@@ -41,3 +41,4 @@ docs/public/icons/temp/
 keystore.properties
 venv_fix/
 .venv
+.env

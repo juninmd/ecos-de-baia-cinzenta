@@ -57,6 +57,8 @@ jobs:
 
       - name: Generate Art
         if: steps.info.outputs.chapter != ''
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: |
           python scripts/local_art_gen.py ${{ steps.info.outputs.chapter }} \
             --style "${{ inputs.style || 'cyberpunk, noir' }}" \

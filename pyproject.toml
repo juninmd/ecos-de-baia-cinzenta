@@ -25,6 +25,7 @@ art = [
 
 [project.scripts]
 local-art-gen = "scripts.local_art_gen:main"
+video-gen = "scripts.video_gen.main:main"
 
 [build-system]
 requires = ["hatchling"]

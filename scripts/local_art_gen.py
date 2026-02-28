@@ -6,13 +6,16 @@ import time
 from pathlib import Path
 
 import requests
+from dotenv import load_dotenv
+
+load_dotenv()
 
 try:
     import torch
-    from diffusers import FluxPipeline
+    from diffusers import DiffusionPipeline
 except ImportError:
     torch = None
-    FluxPipeline = None
+    DiffusionPipeline = None
 
 MODEL_ALTERNATIVES = {
     "flux2-dev": {
@@ -211,7 +214,7 @@ class LocalDiffusionClient:
         )
 
     def _setup_pipeline(self):
-        if not (torch and FluxPipeline):
+        if not (torch and DiffusionPipeline):
             raise RuntimeError("Missing torch/diffusers dependencies for local generation")
 
         self.device = "cuda" if torch.cuda.is_available() else "cpu"
@@ -224,10 +227,17 @@ class LocalDiffusionClient:
             self.pipeline.enable_attention_slicing()
 
     def _load_pipeline(self, family, model_id):
-        if FluxPipeline is None:
-            raise RuntimeError("FluxPipeline unavailable in installed diffusers version")
+        if DiffusionPipeline is None:
+            raise RuntimeError("DiffusionPipeline unavailable in installed diffusers version")
         dtype = torch.bfloat16 if self.device == "cuda" else torch.float32
-        return FluxPipeline.from_pretrained(model_id, torch_dtype=dtype)
+        
+        token = os.environ.get("HF_TOKEN")
+        
+        return DiffusionPipeline.from_pretrained(
+            model_id, 
+            torch_dtype=dtype,
+            token=token
+        )
 
     def generate_art(self, prompt, output_path, dry_run=False):
         if dry_run:
@@ -336,6 +346,8 @@ def main():
 
         print(f"\n🏁 Done. Successful chapters: {success_count}/{len(chapters)}")
     except Exception as exc:
+        import traceback
+        traceback.print_exc()
         print(f"❌ Fatal error: {exc}")
         sys.exit(1)
 
