@@ -93,3 +93,64 @@ class VideoComposer:
             print(f"❌ ffmpeg final encode failed: {result.stderr}")
         else:
             print(f"✅ Final video created: {output_path}")
+
+    def create_video_from_image(
+        self,
+        image_path: Path,
+        audio_path: Path,
+        output_path: Path,
+        titulo: str,
+        numero: str,
+        duration_seconds: int = 12,
+    ) -> None:
+        """Create a short cinematic video from a single image using Ken Burns motion."""
+        print(f"🖼️ Building image-based video from: {image_path}")
+        overlay_img = self._create_title_overlay(titulo, numero)
+
+        # Gentle zoom-in + subtle pan to avoid static feeling.
+        ken_burns_filter = (
+            "[0:v]scale=2200:1238,"
+            "zoompan=z='min(1.18,1+0.0007*on)':"
+            "x='iw/2-(iw/zoom/2)+sin(on/30)*12':"
+            "y='ih/2-(ih/zoom/2)+cos(on/37)*8':"
+            "d=1:s=1920x1080:fps=30,"
+            "format=yuv420p[bg];"
+            "[bg][2:v]overlay=enable='between(t,0,5)'[v]"
+        )
+
+        cmd = [
+            "ffmpeg",
+            "-y",
+            "-loop",
+            "1",
+            "-t",
+            str(duration_seconds),
+            "-i",
+            str(image_path),
+            "-i",
+            str(audio_path),
+            "-i",
+            str(overlay_img),
+            "-filter_complex",
+            ken_burns_filter,
+            "-map",
+            "[v]",
+            "-map",
+            "1:a",
+            "-c:v",
+            "libx264",
+            "-preset",
+            "medium",
+            "-c:a",
+            "aac",
+            "-b:a",
+            "192k",
+            "-shortest",
+            str(output_path),
+        ]
+
+        result = subprocess.run(cmd, capture_output=True, text=True)
+        if result.returncode != 0:
+            print(f"❌ ffmpeg image-video encode failed: {result.stderr}")
+        else:
+            print(f"✅ Image-based video created: {output_path}")

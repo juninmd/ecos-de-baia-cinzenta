@@ -108,14 +108,22 @@ Os arquivos serão gerados na pasta `docs/.vitepress/dist`.
 Este projeto inclui um pipeline automatizado de geração de vídeos cinematográficos para cada capítulo usando ferramentas 100% open source.
 
 ### Stack Tecnológico
-- **Kokoro TTS**: Narração natural em PT-BR com tom dramático
-- **MoviePy**: Composição e efeitos visuais
-- **GitHub Actions**: Automação completa
+- **gTTS + pydub**: Narração em PT-BR
+- **FFmpeg**: Composição e efeitos visuais
+- **Wan2.2 (HF Inference)**: Geração text-to-video
+- **Modo image2video local**: Vídeo curto com zoom cinematográfico a partir da capa do capítulo
 
 ### Geração Automática
 Vídeos são gerados automaticamente via GitHub Actions quando novos capítulos são adicionados ao repositório. Os vídeos finalizados são salvos em `docs/public/videos/`.
 
 ### Teste Local
+
+### Alternativas para manter aparência dos personagens
+Quando a consistência visual cair entre capítulos, priorize estes fluxos:
+- **SDXL img2img com referência do personagem** (`scripts/local_art_gen.py`): usa foto base + prompt para preservar traços.
+- **LoRA/DreamBooth por personagem principal**: melhora identidade em cenas novas.
+- **IP-Adapter/ControlNet Reference** no Automatic1111/ComfyUI: preserva rosto e silhueta com mais controle.
+- **Pós-processo de face swap leve** (apenas ajuste fino), mantendo iluminação original.
 
 #### Pré-requisitos
 - Python 3.12+
@@ -137,10 +145,16 @@ python scripts/setup_assets.py
 #### Gerar Vídeo
 ```bash
 # Gerar vídeo para um capítulo específico
-python scripts/video_generator.py --chapter 1
+python -m scripts.video_gen.main --chapter 1 --mode auto
+
+# Forçar text-to-video (Wan2.2)
+python -m scripts.video_gen.main --chapter 1 --mode text2video
+
+# Gerar vídeo curto da imagem de capa (image2video)
+python -m scripts.video_gen.main --chapter 1 --mode image2video
 
 # Processar todos os capítulos
-python scripts/video_generator.py --all
+python -m scripts.video_gen.main --all --mode auto
 
 # Output: docs/public/videos/capitulo_*.mp4
 ```
@@ -148,7 +162,7 @@ python scripts/video_generator.py --all
 #### Testes
 ```bash
 # Executar testes unitários
-pytest scripts/test_video_generator.py -v
+pytest tests/test_video_gen.py -v
 ```
 
 ## 📂 Estrutura do Projeto
