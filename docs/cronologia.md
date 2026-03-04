@@ -86,18 +86,20 @@ A era da reconstrução autoritária.
 *   **Capítulo 139 (Curadoria):** O grupo enfrenta as "Esculturas" no Estúdio. Valéria descobre que os inimigos são coordenados pelo "Tríptico da Lamentação" (três vítimas fundidas). Gabo destrói o Tríptico para salvar o grupo, causando a fúria do Taxidermista, que ativa o "Protocolo de Limpeza" (incineração) e sela o ambiente.
 *   **Capítulo 140 (Ponto de Fusão):** Com o Estúdio transformando-se em uma fornalha, Aria localiza um duto de descarte de biomassa como única saída. Gabo usa a dor do metal quente para resistir à abstinência e abre a grade de ferro fundido. O grupo escorrega para a escuridão do "Lixão de Ossos" (Subnível 7) momentos antes da incineração total.
 *   **Capítulo 141 (Raízes Amargas):** No Subnível 7, o grupo se recupera no Lixão de Ossos. Gabo usa as queimaduras nas mãos para canalizar seu ódio pela fumaça e focar. Aria sugere abandonar Rangel por otimização, mas Gabo recusa veementemente. Aria descobre antigos cabos de fibra ótica da Aeterna Corp sob os restos orgânicos, revelando que o Taxidermista construiu sua base explorando infraestrutura esquecida da velha corporação. Valéria usa a fibra para tentar estabelecer uma rede cega e mapear a subida.
+*   **Capítulo 142 (Veias de Vidro):** O grupo inicia a perigosa escalada pelos poços de ventilação da Aeterna Corp. Gabo carrega Rangel, lutando contra a agonia em suas mãos e a náusea provocada pelo cheiro de poeira e ferrugem. Valéria se conecta à infraestrutura antiga para mapear o ambiente, revelando um enorme fluxo de dados. Drones de manutenção corrompidos (Scarab) descem pelas paredes, confirmando que o Taxidermista infectou a velha rede para caçá-los.
+*   **Capítulo 143 (Vértigem de Sílica):** Em um combate desesperado pendurados a quarenta metros de altura, Gabo usa a dor das mãos queimadas contra o metal frio para focar e afastar alucinações sufocantes de fumaça. Aria elimina drones com eficiência robótica destrutiva, derrubando sucata corporativa para esmagar os inimigos. Valéria descobre que os drones não são controlados ativamente, mas são um gatilho de intrusão autônomo. O grupo sobrevive à emboscada, mas agora entende que a escalada será um cerco vertical contínuo.
 
 ---
 
-## 📍 Status Atual dos Personagens (Pós-Capítulo 141)
+## 📍 Status Atual dos Personagens (Pós-Capítulo 143)
 
 | Personagem | Status | Localização | Estado Físico/Mental |
 | :--- | :--- | :--- | :--- |
-| **Gabo** | Líder / Combatente | Necrópole (Subnível 7 - Lixão) | Mãos gravemente queimadas. Focado pela dor. |
-| **Valéria** | Hacker / Suporte | Necrópole (Subnível 7 - Lixão) | Abalada, sem conexão com a rede. |
-| **Aria** | Danificada / Letal | Necrópole (Subnível 7 - Lixão) | Danos estruturais (15%). Monitorando sinais vitais. |
-| **Rangel** | Crítico / Inconsciente | Necrópole (Subnível 7 - Lixão) | Infecção acelerada pelo calor. Precisa de antibióticos urgente. |
-| **Taxidermista**| Furioso / Protegido | O Estúdio (Destruído) | Provável sobrevivente, reorganizando a caçada. |
+| **Gabo** | Líder / Combatente | Necrópole (Poço de Ventilação da Aeterna Corp) | Mãos em carne viva, pendurado a quarenta metros. Exausto, mas letal. |
+| **Valéria** | Hacker / Suporte | Necrópole (Poço de Ventilação da Aeterna Corp) | Abalada, acessando a velha infraestrutura sob estresse extremo. |
+| **Aria** | Danificada / Letal | Necrópole (Poço de Ventilação da Aeterna Corp) | Fria e letal. Eficiência destrutiva otimizada, mas com danos estruturais acumulados. |
+| **Rangel** | Crítico / Inconsciente | Necrópole (Poço de Ventilação da Aeterna Corp) | Carregado por Gabo. Infecção piorando e respiração ruidosa. |
+| **Taxidermista**| Furioso / Protegido | Desconhecido (Sistema Central) | Usando gatilhos autônomos para infectar defesas antigas e caçar o grupo. |
 | **Dante** | Derrotado / Humano | Usina Prometeu (Ruínas) | Abandonado nos escombros. Vulnerável e desconectado da rede. |
 | **Elena** | Civil / Observadora | Delegacia Central (Provável) | Separada do grupo principal. Provável refém/peão de Dante. |
 | **Marco** | Rival / Administrador | Delegacia Central | Ativo. Consolidando poder na ausência de Dante. |
