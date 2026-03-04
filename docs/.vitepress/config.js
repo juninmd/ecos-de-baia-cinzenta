@@ -21,6 +21,9 @@ module.exports = {
       }
     `]
   ],
+  rewrites: {
+    "public/:page.md": ":page.md"
+  },
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
