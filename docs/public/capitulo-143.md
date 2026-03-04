@@ -33,7 +33,7 @@ Ela não arrancou a peça. Ela enviou uma sobrecarga. O *Scarab* tremeu violenta
 
 Valéria estava espremida contra os degraus gelados, a tela holográfica do deck iluminando seu rosto pálido e suado de azul cobalto. Um grosso cabo de fibra óptica, desenterrado do Lixão de Ossos, estava plugado no painel da sua nuca, pulsando com a luz corrompida do fluxo de dados.
 
-— Estou tentando, porra! — ela rosnou, os olhos vidrados, lendo o código que caía como chuva na tela. — O Taxidermista não os controla ativamente. É um gatilho de intrusão autônomo. Ele subverteu os protocolos de manutenção da Aeterna Corp usando a biomassa como condutor. Eles nos veem como uma infecção no sistema vascular dele!
+— Estou tentando, porra! — ela rosnou, os olhos vidrados, lendo o código que caía como chuva na tela. — Não é ele... não diretamente! É um gatilho de intrusão, um alarme que ele deixou. Ele infectou os protocolos de manutenção da Aeterna... para o sistema, nós somos o vírus!
 
 O terceiro drone desceu rasgando a parede esquerda, lançando uma chuva de faíscas que atingiram o rosto de Gabo. Ele piscou, cego por uma fração de segundo.
 
