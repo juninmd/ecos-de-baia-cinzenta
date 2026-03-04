@@ -274,6 +274,10 @@ module.exports = {
               { text: 'Capítulo 137: Natureza Morta', link: '/capitulo-137' },
               { text: 'Capítulo 138: Vernissage', link: '/capitulo-138' },
               { text: 'Capítulo 139: Curadoria', link: '/capitulo-139' },
+              { text: 'Capítulo 140: Ponto de Fusão', link: '/capitulo-140' },
+              { text: 'Capítulo 141: Raízes Amargas', link: '/capitulo-141' },
+              { text: 'Capítulo 142: Veias de Vidro', link: '/capitulo-142' },
+              { text: 'Capítulo 143: Vértigem de Sílica', link: '/capitulo-143' },
             ]
           },
         ]
