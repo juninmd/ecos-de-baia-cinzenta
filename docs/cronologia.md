@@ -88,17 +88,18 @@ A era da reconstrução autoritária.
 *   **Capítulo 141 (Raízes Amargas):** No Subnível 7, o grupo se recupera no Lixão de Ossos. Gabo usa as queimaduras nas mãos para canalizar seu ódio pela fumaça e focar. Aria sugere abandonar Rangel por otimização, mas Gabo recusa veementemente. Aria descobre antigos cabos de fibra ótica da Aeterna Corp sob os restos orgânicos, revelando que o Taxidermista construiu sua base explorando infraestrutura esquecida da velha corporação. Valéria usa a fibra para tentar estabelecer uma rede cega e mapear a subida.
 *   **Capítulo 142 (Veias de Vidro):** O grupo inicia a perigosa escalada pelos poços de ventilação da Aeterna Corp. Gabo carrega Rangel, lutando contra a agonia em suas mãos e a náusea provocada pelo cheiro de poeira e ferrugem. Valéria se conecta à infraestrutura antiga para mapear o ambiente, revelando um enorme fluxo de dados. Drones de manutenção corrompidos (Scarab) descem pelas paredes, confirmando que o Taxidermista infectou a velha rede para caçá-los.
 *   **Capítulo 143 (Vértigem de Sílica):** Em um combate desesperado pendurados a quarenta metros de altura, Gabo usa a dor das mãos queimadas contra o metal frio para focar e afastar alucinações sufocantes de fumaça. Aria elimina drones com eficiência robótica destrutiva, derrubando sucata corporativa para esmagar os inimigos. Valéria descobre que os drones não são controlados ativamente, mas são um gatilho de intrusão autônomo. O grupo sobrevive à emboscada, mas agora entende que a escalada será um cerco vertical contínuo.
+*   **Capítulo 144 (Tensão de Ruptura):** Após o embate, o grupo enfrenta as consequências físicas e psicológicas da escalada. Gabo é assombrado por alucinações de fumaça devido ao cheiro de polímeros velhos, e esmaga a mão queimada no metal para usar a dor como foco e banir a náusea paralisante. Aria relata com frieza os níveis críticos de exaustão e falha sistêmica iminente do grupo. O peso e a infecção agravada de Rangel ameaçam colapsar todos.
 
 ---
 
-## 📍 Status Atual dos Personagens (Pós-Capítulo 143)
+## 📍 Status Atual dos Personagens (Pós-Capítulo 144)
 
 | Personagem | Status | Localização | Estado Físico/Mental |
 | :--- | :--- | :--- | :--- |
-| **Gabo** | Líder / Combatente | Necrópole (Poço de Ventilação da Aeterna Corp) | Mãos em carne viva, pendurado a quarenta metros. Exausto, mas letal. |
-| **Valéria** | Hacker / Suporte | Necrópole (Poço de Ventilação da Aeterna Corp) | Abalada, acessando a velha infraestrutura sob estresse extremo. |
-| **Aria** | Danificada / Letal | Necrópole (Poço de Ventilação da Aeterna Corp) | Fria e letal. Eficiência destrutiva otimizada, mas com danos estruturais acumulados. |
-| **Rangel** | Crítico / Inconsciente | Necrópole (Poço de Ventilação da Aeterna Corp) | Carregado por Gabo. Infecção piorando e respiração ruidosa. |
+| **Gabo** | Líder / Combatente | Necrópole (Poço de Ventilação da Aeterna Corp) | Mãos em carne viva, músculos em falha. Usa a dor excruciante para silenciar memórias traumáticas. |
+| **Valéria** | Hacker / Suporte | Necrópole (Poço de Ventilação da Aeterna Corp) | Risco de colapso por exaustão sistêmica (bpm a 178). Fadigada e temerosa. |
+| **Aria** | Danificada / Letal | Necrópole (Poço de Ventilação da Aeterna Corp) | Fria, letal e puramente lógica. Desprovida de empatia pela fadiga do grupo. |
+| **Rangel** | Crítico / Inconsciente | Necrópole (Poço de Ventilação da Aeterna Corp) | Carregado por Gabo. Sepse agravada, transformando-se rapidamente em um peso fatal. |
 | **Taxidermista**| Furioso / Protegido | Desconhecido (Sistema Central) | Usando gatilhos autônomos para infectar defesas antigas e caçar o grupo. |
 | **Dante** | Derrotado / Humano | Usina Prometeu (Ruínas) | Abandonado nos escombros. Vulnerável e desconectado da rede. |
 | **Elena** | Civil / Observadora | Delegacia Central (Provável) | Separada do grupo principal. Provável refém/peão de Dante. |
