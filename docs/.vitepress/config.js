@@ -281,6 +281,7 @@ module.exports = {
               { text: 'Capítulo 141: Raízes Amargas', link: '/capitulo-141' },
               { text: 'Capítulo 142: Veias de Vidro', link: '/capitulo-142' },
               { text: 'Capítulo 143: Vértigem de Sílica', link: '/capitulo-143' },
+              { text: 'Capítulo 144: Tensão de Ruptura', link: '/capitulo-144' },
             ]
           },
         ]
