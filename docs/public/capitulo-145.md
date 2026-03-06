@@ -25,7 +25,7 @@ Ele rosnou, apertando a mão direita contra o próximo degrau. A dor não foi um
 
 Aria já estava na plataforma quando Gabo finalmente puxou a si e a Rangel para o piso de grade de aço. O impacto dos joelhos de Gabo contra o metal soou como um tiro surdo. Ele ficou de quatro, o suor ácido pingando do queixo, misturando-se com a poeira de eras depositada ali.
 
-O espaço não era um andar propriamente dito, mas um nicho cravado na parede do poço — uma eclusa de manutenção da antiga Aeterna Corp. As paredes de titanio desgastado carregavam cicatrizes de uso e abandono. À frente deles, bloqueando o avanço horizontal, havia uma porta pesada, ladeada por tubulações estilhaçadas.
+O espaço não era um andar propriamente dito, mas um nicho cravado na parede do poço — uma eclusa de manutenção da antiga Aeterna Corp. As paredes de titânio desgastado carregavam cicatrizes de uso e abandono. À frente deles, bloqueando o avanço horizontal, havia uma porta pesada, ladeada por tubulações estilhaçadas.
 
 — *Analisando o bloqueio,* — Aria se moveu graciosamente até a porta. Seus movimentos eram eficientes demais, ausentes dos micro-ajustes musculares humanos que indicam fadiga ou hesitação. — *Tranca de segurança classe militar. Painel biométrico integrado à malha neural inativa da Aeterna.*
 
