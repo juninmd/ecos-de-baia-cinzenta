@@ -1,7 +1,0 @@
-[build]
-  command = "npm install -g pnpm@9.15.4 && pnpm install --frozen-lockfile --prod=false && pnpm run docs:build"
-  publish = "docs/.vitepress/dist"
-
-[build.environment]
-  NODE_VERSION = "20"
-  PYTHON_VERSION = "3.12"
