@@ -282,6 +282,7 @@ module.exports = {
               { text: 'Capítulo 142: Veias de Vidro', link: '/capitulo-142' },
               { text: 'Capítulo 143: Vértigem de Sílica', link: '/capitulo-143' },
               { text: 'Capítulo 144: Tensão de Ruptura', link: '/capitulo-144' },
+              { text: 'Capítulo 145: Sangue nas Dobradiças', link: '/capitulo-145' },
             ]
           },
         ]
