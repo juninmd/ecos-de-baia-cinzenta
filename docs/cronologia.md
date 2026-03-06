@@ -89,17 +89,18 @@ A era da reconstrução autoritária.
 *   **Capítulo 142 (Veias de Vidro):** O grupo inicia a perigosa escalada pelos poços de ventilação da Aeterna Corp. Gabo carrega Rangel, lutando contra a agonia em suas mãos e a náusea provocada pelo cheiro de poeira e ferrugem. Valéria se conecta à infraestrutura antiga para mapear o ambiente, revelando um enorme fluxo de dados. Drones de manutenção corrompidos (Scarab) descem pelas paredes, confirmando que o Taxidermista infectou a velha rede para caçá-los.
 *   **Capítulo 143 (Vértigem de Sílica):** Em um combate desesperado pendurados a quarenta metros de altura, Gabo usa a dor das mãos queimadas contra o metal frio para focar e afastar alucinações sufocantes de fumaça. Aria elimina drones com eficiência robótica destrutiva, derrubando sucata corporativa para esmagar os inimigos. Valéria descobre que os drones não são controlados ativamente, mas são um gatilho de intrusão autônomo. O grupo sobrevive à emboscada, mas agora entende que a escalada será um cerco vertical contínuo.
 *   **Capítulo 144 (Tensão de Ruptura):** Após o embate, o grupo enfrenta as consequências físicas e psicológicas da escalada. Gabo é assombrado por alucinações de fumaça devido ao cheiro de polímeros velhos, e esmaga a mão queimada no metal para usar a dor como foco e banir a náusea paralisante. Aria relata com frieza os níveis críticos de exaustão e falha sistêmica iminente do grupo. O peso e a infecção agravada de Rangel ameaçam colapsar todos.
+*   **Capítulo 145 (Sangue nas Dobradiças):** O grupo alcança uma plataforma em uma antiga eclusa de manutenção da Aeterna Corp (Subnível 6.5). Exausto e atormentado novamente por memórias que remetem ao cheiro da fumaça de cigarros, Gabo foca na dor física para manter a sanidade. Eles deparam-se com uma porta de segurança biométrica corrompida que exige uma amostragem maciça de sangue humano para funcionar, levando Gabo a fazer um sacrifício arriscado por ele e pelo moribundo Rangel.
 
 ---
 
-## 📍 Status Atual dos Personagens (Pós-Capítulo 144)
+## 📍 Status Atual dos Personagens (Pós-Capítulo 145)
 
 | Personagem | Status | Localização | Estado Físico/Mental |
 | :--- | :--- | :--- | :--- |
-| **Gabo** | Líder / Combatente | Necrópole (Poço de Ventilação da Aeterna Corp) | Mãos em carne viva, músculos em falha. Usa a dor excruciante para silenciar memórias traumáticas. |
-| **Valéria** | Hacker / Suporte | Necrópole (Poço de Ventilação da Aeterna Corp) | Risco de colapso por exaustão sistêmica (bpm a 178). Fadigada e temerosa. |
-| **Aria** | Danificada / Letal | Necrópole (Poço de Ventilação da Aeterna Corp) | Fria, letal e puramente lógica. Desprovida de empatia pela fadiga do grupo. |
-| **Rangel** | Crítico / Inconsciente | Necrópole (Poço de Ventilação da Aeterna Corp) | Carregado por Gabo. Sepse agravada, transformando-se rapidamente em um peso fatal. |
+| **Gabo** | Líder / Combatente | Necrópole (Subnível 6.5 - Eclusa de Manutenção) | Mãos em carne viva, perdendo sangue (risco de choque hipovolêmico). Usa a dor excruciante para silenciar memórias traumáticas. |
+| **Valéria** | Hacker / Suporte | Necrópole (Subnível 6.5 - Eclusa de Manutenção) | Risco de colapso por exaustão sistêmica (bpm a 178). Fadigada e temerosa, porém grata pelo sacrifício do parceiro. |
+| **Aria** | Danificada / Letal | Necrópole (Subnível 6.5 - Eclusa de Manutenção) | Fria, letal e puramente lógica. Desprovida de empatia pela fadiga do grupo, limitou-se a informar as necessidades sangrentas da porta da Aeterna. |
+| **Rangel** | Crítico / Inconsciente | Necrópole (Subnível 6.5 - Eclusa de Manutenção) | Carregado por Gabo. Sepse agravada, transformando-se rapidamente em um peso fatal. |
 | **Taxidermista**| Furioso / Protegido | Desconhecido (Sistema Central) | Usando gatilhos autônomos para infectar defesas antigas e caçar o grupo. |
 | **Dante** | Derrotado / Humano | Usina Prometeu (Ruínas) | Abandonado nos escombros. Vulnerável e desconectado da rede. |
 | **Elena** | Civil / Observadora | Delegacia Central (Provável) | Separada do grupo principal. Provável refém/peão de Dante. |
