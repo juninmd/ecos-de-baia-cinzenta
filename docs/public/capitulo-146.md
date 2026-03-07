@@ -1,7 +1,7 @@
 # Metadados
 - **Título:** O Preço da Passagem
 - **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
-- **Localização:** Necrópole (Subnível 6.5 - Eclusa de Manutenção da Aeterna Corp)
+- **Localização:** Necrópole (Subnível 6.0 - Corredor de Descontaminação)
 - **Personagens Presentes:** Gabo, Valéria, Aria (Reboot), Rangel (Inconsciente)
 - **Resumo:** A porta da eclusa se abre após o sacrifício de Gabo, revelando não um santuário, mas um corredor de descontaminação estagnado e mortal. Gabo lida com a perda de sangue e o choque hipovolêmico iminente, lutando contra o cheiro opressivo de ozônio e ferrugem. Aria mantém sua lógica utilitária, analisando a deterioração do grupo e de Rangel, enquanto Valéria busca desesperadamente suprimentos em armários antigos. O peso da liderança e a sobrevivência cobram um preço cada vez mais alto, testando a humanidade de Gabo em face de escolhas impossíveis.
 
