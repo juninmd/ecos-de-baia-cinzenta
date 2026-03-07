@@ -90,17 +90,18 @@ A era da reconstrução autoritária.
 *   **Capítulo 143 (Vértigem de Sílica):** Em um combate desesperado pendurados a quarenta metros de altura, Gabo usa a dor das mãos queimadas contra o metal frio para focar e afastar alucinações sufocantes de fumaça. Aria elimina drones com eficiência robótica destrutiva, derrubando sucata corporativa para esmagar os inimigos. Valéria descobre que os drones não são controlados ativamente, mas são um gatilho de intrusão autônomo. O grupo sobrevive à emboscada, mas agora entende que a escalada será um cerco vertical contínuo.
 *   **Capítulo 144 (Tensão de Ruptura):** Após o embate, o grupo enfrenta as consequências físicas e psicológicas da escalada. Gabo é assombrado por alucinações de fumaça devido ao cheiro de polímeros velhos, e esmaga a mão queimada no metal para usar a dor como foco e banir a náusea paralisante. Aria relata com frieza os níveis críticos de exaustão e falha sistêmica iminente do grupo. O peso e a infecção agravada de Rangel ameaçam colapsar todos.
 *   **Capítulo 145 (Sangue nas Dobradiças):** O grupo alcança uma plataforma em uma antiga eclusa de manutenção da Aeterna Corp (Subnível 6.5). Exausto e atormentado novamente por memórias que remetem ao cheiro da fumaça de cigarros, Gabo foca na dor física para manter a sanidade. Eles deparam-se com uma porta de segurança biométrica corrompida que exige uma amostragem maciça de sangue humano para funcionar, levando Gabo a fazer um sacrifício arriscado por ele e pelo moribundo Rangel.
+*   **Capítulo 146 (O Preço da Passagem):** A porta da eclusa se abre, revelando um corredor de descontaminação estéril e desprovido de recursos médicos (Subnível 6.0). O cheiro de ozônio e formol desencadeia em Gabo memórias de um legista fumante (associado a Bia), forçando-o a usar a dor severa de suas mãos queimadas para afastar a repulsa e a fraqueza. Enquanto Gabo lida com o início de um choque hipovolêmico pela perda de sangue, Aria reitera friamente a necessidade de abandonar o moribundo Rangel por otimização de recursos, o que Gabo recusa terminantemente em um embate ideológico exaustivo.
 
 ---
 
-## 📍 Status Atual dos Personagens (Pós-Capítulo 145)
+## 📍 Status Atual dos Personagens (Pós-Capítulo 146)
 
 | Personagem | Status | Localização | Estado Físico/Mental |
 | :--- | :--- | :--- | :--- |
-| **Gabo** | Líder / Combatente | Necrópole (Subnível 6.5 - Eclusa de Manutenção) | Mãos em carne viva, perdendo sangue (risco de choque hipovolêmico). Usa a dor excruciante para silenciar memórias traumáticas. |
-| **Valéria** | Hacker / Suporte | Necrópole (Subnível 6.5 - Eclusa de Manutenção) | Risco de colapso por exaustão sistêmica (bpm a 178). Fadigada e temerosa, porém grata pelo sacrifício do parceiro. |
-| **Aria** | Danificada / Letal | Necrópole (Subnível 6.5 - Eclusa de Manutenção) | Fria, letal e puramente lógica. Desprovida de empatia pela fadiga do grupo, limitou-se a informar as necessidades sangrentas da porta da Aeterna. |
-| **Rangel** | Crítico / Inconsciente | Necrópole (Subnível 6.5 - Eclusa de Manutenção) | Carregado por Gabo. Sepse agravada, transformando-se rapidamente em um peso fatal. |
+| **Gabo** | Líder / Combatente | Necrópole (Subnível 6.0 - Corredor de Descontaminação) | Mãos em carne viva, hemorragia ativa severa (tontura, início de choque hipovolêmico). Usa a dor física extrema para rejeitar memórias traumáticas associadas ao fumo. |
+| **Valéria** | Hacker / Suporte | Necrópole (Subnível 6.0 - Corredor de Descontaminação) | Exausta, desesperada por recursos médicos escassos. Tenta estancar o sangramento de Gabo. |
+| **Aria** | Danificada / Letal | Necrópole (Subnível 6.0 - Corredor de Descontaminação) | Completamente utilitária. Analisa a degradação do grupo como ineficiência, reiterando o abandono de Rangel com base em probabilidade de sobrevivência. |
+| **Rangel** | Crítico / Inconsciente | Necrópole (Subnível 6.0 - Corredor de Descontaminação) | Falência de múltiplos órgãos iminente devido à sepse avançada. |
 | **Taxidermista**| Furioso / Protegido | Desconhecido (Sistema Central) | Usando gatilhos autônomos para infectar defesas antigas e caçar o grupo. |
 | **Dante** | Derrotado / Humano | Usina Prometeu (Ruínas) | Abandonado nos escombros. Vulnerável e desconectado da rede. |
 | **Elena** | Civil / Observadora | Delegacia Central (Provável) | Separada do grupo principal. Provável refém/peão de Dante. |
