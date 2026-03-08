@@ -37,7 +37,7 @@
 *   **Capítulo 105:** Retorna à Delegacia Central. Testemunha a "Ascensão" de Dante enquanto lida com a falha mecânica de suas órteses.
 *   **Capítulo 106:** Tenta reparar seu exoesqueleto sem sucesso. Intervém para impedir que Dante use força letal contra os manifestantes "Desconectados", descobrindo a existência da ameaça do "Silêncio".
 *   **Capítulo 107:** Tem seu exoesqueleto "consertado" por Dante com precisão cirúrgica e dolorosa. Junta-se à operação de "Sanitização" no porto para mitigar danos civis.
-*   **Atualidade:** Encurralado no "Estúdio" do Taxidermista. Acabou de destruir o "Tríptico da Lamentação" (três vítimas fundidas) para neutralizar as "Esculturas", uma decisão moralmente pesada. Agora enfrenta o "Protocolo de Limpeza" (incineração) ativado pelo inimigo, lutando contra o calor extremo e o desejo de fumar gatilhado pelo estresse.
+*   **Atualidade:** Avançando pelo Corredor de Descontaminação (Subnível 6.0). Sofrendo princípio de choque hipovolêmico por hemorragia severa da eclusa. Usa a dor excruciante de suas mãos queimadas para afastar alucinações olfativas constantes de fumaça de cigarro (seu trauma). Recusa-se veementemente a abandonar Rangel, contrariando a lógica sintética de Aria.
 
 ---
 
@@ -65,7 +65,7 @@
 *   **Pré-Série:** Prodígio. Aparência: "Geek" limpa, roupas corporativas padrão.
 *   **Partes I-XII:** A Hacker Rebelde. Aparência: Cabelo neon (muda de cor), roupas cyberpunk, pele pálida.
 *   **Parte XIII:** O Sacrifício. Aparência: Veias prateadas da "Praga de Ferro" começam a aparecer no pescoço e braços. Olhos tornam-se inteiramente prateados.
-*   **Atualidade:** Presa no "Estúdio" superaquecido. Identificou a conexão neural das "Esculturas" com o Tríptico, permitindo que Gabo quebrasse a coordenação inimiga. Agora tenta desesperadamente hackear as portas seladas antes que o grupo seja incinerado.
+*   **Atualidade:** Avançando pelo Corredor de Descontaminação (Subnível 6.0). Exausta, ajudando Gabo a carregar Rangel. Ofereceu-se voluntariamente para escalar um duto de ventilação perigoso a fim de destrancar uma câmara de despressurização emperrada, evitando o abandono de Rangel sugerido por Aria.
 
 ---
 
@@ -421,7 +421,7 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 *   **Capítulo 105:** Testemunha o retorno de Dante, que reativa sua máquina de escrever elétrica e os sistemas da delegacia.
 *   **Capítulo 106:** Torna-se o braço direito executivo de Dante, sobrecarregado pela velocidade de processamento do novo Comandante.
 *   **Capítulo 110:** Abandona o distintivo e foge para o subsolo com a resistência. Torna-se fugitivo procurado pela Aetherna.
-*   **Atualidade:** Inconsciente e em estado crítico, sendo transportado em uma maca improvisada pelo "Ateliê". Ferimento estabilizado precariamente, mas sua condição é uma contagem regressiva para o grupo.
+*   **Atualidade:** Inconsciente e em estado terminal, sendo arrastado por Gabo e Valéria pelo Corredor de Descontaminação. Sua infecção por sepse avançou para falência hepática iminente, tornando-o o epicentro do conflito moral entre Gabo e Aria.
 
 ---
 
@@ -486,7 +486,7 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 *   **Origem:** Começou como uma IA/Alucinação. Ganhou corpo físico durante a "Ascensão" de Dante, utilizando bio-engenharia roubada.
 *   **Capítulo 109:** Revela sua face física (Bia Vargas) para Rangel e bloqueia os drones de Dante.
 *   **Capítulo 118:** Sacrifica sua integridade lógica para salvar os "Drenados" do choque neural na Usina Prometeu.
-*   **Atualidade:** Operando com 12% de dano estrutural após combate corpo-a-corpo com as "Esculturas". Mantém a eficiência lógica máxima, priorizando a sobrevivência do grupo (missão) sobre a preservação individual. Decapitou uma Escultura sem hesitação após a quebra da rede neural inimiga.
+*   **Atualidade:** Operando com eficiência máxima, mas totalmente despida de emoções humanas. No Corredor de Descontaminação (Subnível 6.0), ela analisa friamente o cenário, calculando as mortes iminentes e sugerindo o abandono imediato de Rangel por ser logisticamente inviável carregá-lo pelo duto de ventilação, criando conflito aberto com Gabo.
 
 ---
 

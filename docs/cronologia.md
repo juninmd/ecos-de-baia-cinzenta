@@ -91,17 +91,18 @@ A era da reconstrução autoritária.
 *   **Capítulo 144 (Tensão de Ruptura):** Após o embate, o grupo enfrenta as consequências físicas e psicológicas da escalada. Gabo é assombrado por alucinações de fumaça devido ao cheiro de polímeros velhos, e esmaga a mão queimada no metal para usar a dor como foco e banir a náusea paralisante. Aria relata com frieza os níveis críticos de exaustão e falha sistêmica iminente do grupo. O peso e a infecção agravada de Rangel ameaçam colapsar todos.
 *   **Capítulo 145 (Sangue nas Dobradiças):** O grupo alcança uma plataforma em uma antiga eclusa de manutenção da Aeterna Corp (Subnível 6.5). Exausto e atormentado novamente por memórias que remetem ao cheiro da fumaça de cigarros, Gabo foca na dor física para manter a sanidade. Eles deparam-se com uma porta de segurança biométrica corrompida que exige uma amostragem maciça de sangue humano para funcionar, levando Gabo a fazer um sacrifício arriscado por ele e pelo moribundo Rangel.
 *   **Capítulo 146 (O Preço da Passagem):** A porta da eclusa se abre, revelando um corredor de descontaminação estéril e desprovido de recursos médicos (Subnível 6.0). O cheiro de ozônio e formol desencadeia em Gabo memórias de um legista fumante (associado a Bia), forçando-o a usar a dor severa de suas mãos queimadas para afastar a repulsa e a fraqueza. Enquanto Gabo lida com o início de um choque hipovolêmico pela perda de sangue, Aria reitera friamente a necessidade de abandonar o moribundo Rangel por otimização de recursos, o que Gabo recusa terminantemente em um embate ideológico exaustivo.
+*   **Capítulo 147 (O Peso do Ar):** O grupo avança pelo corredor de descontaminação do Subnível 6.0. Gabo continua a lutar contra o choque hipovolêmico e fortes alucinações olfativas de fumaça, usando a dor física de suas mãos feridas como âncora de sanidade. O avanço é detido por uma câmara de despressurização travada por ferrugem. Aria sugere friamente abandonar Rangel, cuja falência hepática é iminente, pois o duto de ventilação alternativo é estreito demais. Gabo recusa a lógica utilitária, e Valéria se voluntaria para escalar o duto e abrir a porta por dentro.
 
 ---
 
-## 📍 Status Atual dos Personagens (Pós-Capítulo 146)
+## 📍 Status Atual dos Personagens (Pós-Capítulo 147)
 
 | Personagem | Status | Localização | Estado Físico/Mental |
 | :--- | :--- | :--- | :--- |
-| **Gabo** | Líder / Combatente | Necrópole (Subnível 6.0 - Corredor de Descontaminação) | Mãos em carne viva, hemorragia ativa severa (tontura, início de choque hipovolêmico). Usa a dor física extrema para rejeitar memórias traumáticas associadas ao fumo. |
-| **Valéria** | Hacker / Suporte | Necrópole (Subnível 6.0 - Corredor de Descontaminação) | Exausta, desesperada por recursos médicos escassos. Tenta estancar o sangramento de Gabo. |
-| **Aria** | Danificada / Letal | Necrópole (Subnível 6.0 - Corredor de Descontaminação) | Completamente utilitária. Analisa a degradação do grupo como ineficiência, reiterando o abandono de Rangel com base em probabilidade de sobrevivência. |
-| **Rangel** | Crítico / Inconsciente | Necrópole (Subnível 6.0 - Corredor de Descontaminação) | Falência de múltiplos órgãos iminente devido à sepse avançada. |
+| **Gabo** | Líder / Combatente | Necrópole (Subnível 6.0 - Corredor de Descontaminação) | Mãos em carne viva, agravamento da hemorragia e tontura (choque hipovolêmico). Usa a dor extrema para combater alucinações de fumaça. Resiste teimosamente à lógica de sacrifício. |
+| **Valéria** | Hacker / Suporte | Necrópole (Subnível 6.0 - Corredor de Descontaminação) | Exausta, mas determinada. Voluntariou-se para escalar um duto de ventilação instável para destrancar a câmara de pressão. |
+| **Aria** | Danificada / Letal | Necrópole (Subnível 6.0 - Corredor de Descontaminação) | Completamente utilitária e fria. Insiste no descarte tático de Rangel, avaliando sua utilidade como nula e sua carga logística como crítica para a sobrevivência do grupo. |
+| **Rangel** | Crítico / Inconsciente | Necrópole (Subnível 6.0 - Corredor de Descontaminação) | Sinais vitais em queda, indicando falência hepática incipiente devido à sepse. Peso morto carregado por Gabo e Valéria. |
 | **Taxidermista**| Furioso / Protegido | Desconhecido (Sistema Central) | Usando gatilhos autônomos para infectar defesas antigas e caçar o grupo. |
 | **Dante** | Derrotado / Humano | Usina Prometeu (Ruínas) | Abandonado nos escombros. Vulnerável e desconectado da rede. |
 | **Elena** | Civil / Observadora | Delegacia Central (Provável) | Separada do grupo principal. Provável refém/peão de Dante. |
