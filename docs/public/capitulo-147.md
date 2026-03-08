@@ -13,7 +13,7 @@ O corredor de descontaminação estendia-se diante deles como o esôfago de um l
 
 Gabo arrastava Rangel com o braço esquerdo, o único que ainda parecia responder aos seus comandos com alguma eficiência. O peso do inspetor, agravado pela febre e pela sepse que o consumia, ameaçava arrastá-los para o chão a cada passo. Com o antebraço direito enfaixado de forma precária por Valéria, Gabo sentia o latejar surdo do corte aberto pela biometria da eclusa, uma lembrança constante do sacrifício que os trouxera até ali.
 
-Mas o que realmente o esgotava não era a perda de sangue, embora as bordas de sua visão escurecessem em pulsos rítmicos, sincronizadas com os batimentos erráticos do próprio coração. O que o corroía por dentro era o ar.
+Mas o que realmente o esgotava não era a perda de sangue, embora as bordas de sua visão escurecessem em pulsos rítmicos, sincronizados com os batimentos erráticos do próprio coração. O que o corroía por dentro era o ar.
 
 O ar naquele corredor não era apenas rarefeito; era denso, carregado com o cheiro residual de décadas de abandono, poeira de ossos e um odor químico sutil de formol. E para Gabo, esse coquetel olfativo era um gatilho perverso. O cheiro asséptico disparou novamente a memória vívida do necrotério. Onde quer que olhasse, as sombras bruxuleantes pareciam formar a silhueta do legista, envolto em uma nuvem opressiva de fumaça de cigarro barato.
 
