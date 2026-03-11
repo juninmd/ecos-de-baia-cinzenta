@@ -103,7 +103,7 @@ A era da reconstrução autoritária.
 | :--- | :--- | :--- | :--- |
 | **Gabo** | Líder / Combatente | Necrópole (Subnível 6.0 - Setor de Purga) | Choque hipovolêmico agravado. Usa dor lancinante constante para anular espasmos de náusea causados por cheiro fantasma de fumaça. Carrega Rangel pela passarela. |
 | **Valéria** | Hacker / Suporte | Necrópole (Subnível 6.0 - Setor de Purga) | Exausta, engoliu poeira ocre no duto. Ajuda Gabo a carregar Rangel sobre a passarela oxidada de risco crítico. |
-| **Aria** | Danificada / Letal | Necrópole (Subnível 6.0 - Setor de Purga) | Inteligência puramente sintética. Rotulou o comportamento de Gabo como "Irracionalidade Humana". Lidera a perigosa marcha sobre os tanques. |
+| **Aria** | Danificada / Letal | Necrópole (Subnível 6.0 - Setor de Purga) | Inteligência puramente sintética. Rotulou o comportamento de Gabo como 'Irracionalidade Humana'. Lidera a perigosa marcha sobre os tanques. |
 | **Rangel** | Crítico / Inconsciente | Necrópole (Subnível 6.0 - Setor de Purga) | Estado terminal sem volta. Fígado falido; sepse atingiu o cérebro. Mantido vivo apenas pela recusa de Gabo em abandoná-lo. |
 | **Taxidermista**| Furioso / Protegido | Desconhecido (Sistema Central) | Usando gatilhos autônomos para infectar defesas antigas e caçar o grupo. |
 | **Dante** | Derrotado / Humano | Usina Prometeu (Ruínas) | Abandonado nos escombros. Vulnerável e desconectado da rede. |
