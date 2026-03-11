@@ -93,17 +93,18 @@ A era da reconstrução autoritária.
 *   **Capítulo 146 (O Preço da Passagem):** A porta da eclusa se abre, revelando um corredor de descontaminação estéril e desprovido de recursos médicos (Subnível 6.0). O cheiro de ozônio e formol desencadeia em Gabo memórias de um legista fumante (associado a Bia), forçando-o a usar a dor severa de suas mãos queimadas para afastar a repulsa e a fraqueza. Enquanto Gabo lida com o início de um choque hipovolêmico pela perda de sangue, Aria reitera friamente a necessidade de abandonar o moribundo Rangel por otimização de recursos, o que Gabo recusa terminantemente em um embate ideológico exaustivo.
 *   **Capítulo 147 (O Peso do Ar):** O grupo avança pelo corredor de descontaminação do Subnível 6.0. Gabo continua a lutar contra o choque hipovolêmico e fortes alucinações olfativas de fumaça, usando a dor física de suas mãos feridas como âncora de sanidade. O avanço é detido por uma câmara de despressurização travada por ferrugem. Aria sugere friamente abandonar Rangel, cuja falência hepática é iminente, pois o duto de ventilação alternativo é estreito demais. Gabo recusa a lógica utilitária, e Valéria se voluntaria para escalar o duto e abrir a porta por dentro.
 *   **Capítulo 148 (Tensão e Ferrugem):** Valéria se esgueira com dificuldade por um duto de ventilação enferrujado e sufocante para tentar destrancar a câmara de pressão. Abaixo, Gabo trava uma batalha exaustiva contra o choque hipovolêmico, o cheiro fantasma de cigarro provocado pela náusea, e a tortura psicológica da lógica fria de Aria, usando a dor de suas queimaduras para manter a lucidez. Valéria atinge o outro lado e, com um esforço extremo combinado à força mecânica de Aria do lado oposto, eles conseguem romper a trava oxidada, abrindo acesso para um misterioso setor de purga.
+*   **Capítulo 149 (Filtros de Sangue):** O grupo adentra o Setor de Purga (Subnível 6.0), um complexo de tanques de biomassa tóxica. O cheiro de resíduos químicos ativa os pesadelos olfativos de fumaça em Gabo, que combate o engasgo severo induzindo extrema dor em suas mãos queimadas. Aria avisa que a passarela oxidada à frente tem altíssimo risco de colapso devido ao peso morto de Rangel, classificando o resgate de Gabo como 'Irracionalidade Humana', mas Gabo se recusa a abandonar o amigo, iniciando a perigosa travessia sob choque hipovolêmico.
 
 ---
 
-## 📍 Status Atual dos Personagens (Pós-Capítulo 148)
+## 📍 Status Atual dos Personagens (Pós-Capítulo 149)
 
 | Personagem | Status | Localização | Estado Físico/Mental |
 | :--- | :--- | :--- | :--- |
-| **Gabo** | Líder / Combatente | Necrópole (Subnível 6.0 - Setor de Purga) | Sofrendo de choque hipovolêmico grave, esgotado pelo esforço de forçar a porta. Usa dor extrema constante para afastar alucinações olfativas de cigarro. Determinação suicida em salvar Rangel. |
-| **Valéria** | Hacker / Suporte | Necrópole (Subnível 6.0 - Setor de Purga) | Físicamente e mentalmente exausta após rastejar pelo duto sufocante e destrancar a pesada porta mecânica. |
-| **Aria** | Danificada / Letal | Necrópole (Subnível 6.0 - Setor de Purga) | Operando com frieza pragmática absoluta, desprovida de emoções humanas. Calcula friamente a entropia do grupo enquanto executa tarefas físicas extremas quando ordenado. |
-| **Rangel** | Crítico / Inconsciente | Necrópole (Subnível 6.0 - Setor de Purga) | Estado terminal. Sepse avançou para falência hepática incipiente; completamente dependente do grupo para não ser descartado. |
+| **Gabo** | Líder / Combatente | Necrópole (Subnível 6.0 - Setor de Purga) | Choque hipovolêmico agravado. Usa dor lancinante constante para anular espasmos de náusea causados por cheiro fantasma de fumaça. Carrega Rangel pela passarela. |
+| **Valéria** | Hacker / Suporte | Necrópole (Subnível 6.0 - Setor de Purga) | Exausta, engoliu poeira ocre no duto. Ajuda Gabo a carregar Rangel sobre a passarela oxidada de risco crítico. |
+| **Aria** | Danificada / Letal | Necrópole (Subnível 6.0 - Setor de Purga) | Inteligência puramente sintética. Rotulou o comportamento de Gabo como 'Irracionalidade Humana'. Lidera a perigosa marcha sobre os tanques. |
+| **Rangel** | Crítico / Inconsciente | Necrópole (Subnível 6.0 - Setor de Purga) | Estado terminal sem volta. Fígado falido; sepse atingiu o cérebro. Mantido vivo apenas pela recusa de Gabo em abandoná-lo. |
 | **Taxidermista**| Furioso / Protegido | Desconhecido (Sistema Central) | Usando gatilhos autônomos para infectar defesas antigas e caçar o grupo. |
 | **Dante** | Derrotado / Humano | Usina Prometeu (Ruínas) | Abandonado nos escombros. Vulnerável e desconectado da rede. |
 | **Elena** | Civil / Observadora | Delegacia Central (Provável) | Separada do grupo principal. Provável refém/peão de Dante. |
