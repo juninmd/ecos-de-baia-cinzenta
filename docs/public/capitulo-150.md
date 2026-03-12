@@ -24,7 +24,7 @@ Gabo apertou a mão machucada contra as costelas de Rangel. A carne viva das pal
 
 À frente deles, Aria movia-se com uma fluidez perturbadora. Onde Gabo e Valéria testavam a estabilidade de cada placa de metal enferrujada antes de transferir o peso, o corpo híbrido de silício, aço e a face roubada de Bia Vargas deslizava em um silêncio predatório. Ela não estava correndo; estava otimizando vetores de deslocamento.
 
-— *Alergia Estrutural Iminente,* — Aria anunciou, sem virar a cabeça ou alterar o ritmo constante. — *O pilar de sustentação L-4 apresenta fadiga térmica grave. Transição de carga não recomendada.*
+— *Alerta Estrutural Iminente,* — Aria anunciou, sem virar a cabeça ou alterar o ritmo constante. — *O pilar de sustentação L-4 apresenta fadiga térmica grave. Transição de carga não recomendada.*
 
 — A gente... não tem... escolha, porra! — Valéria rosnou, o suor traçando linhas claras em seu rosto sujo de poeira e fuligem. — Continua andando.
 
