@@ -37,7 +37,7 @@
 *   **Capítulo 105:** Retorna à Delegacia Central. Testemunha a "Ascensão" de Dante enquanto lida com a falha mecânica de suas órteses.
 *   **Capítulo 106:** Tenta reparar seu exoesqueleto sem sucesso. Intervém para impedir que Dante use força letal contra os manifestantes "Desconectados", descobrindo a existência da ameaça do "Silêncio".
 *   **Capítulo 107:** Tem seu exoesqueleto "consertado" por Dante com precisão cirúrgica e dolorosa. Junta-se à operação de "Sanitização" no porto para mitigar danos civis.
-*   **Atualidade:** Avançando pelo Corredor de Descontaminação (Subnível 6.0). Sofrendo princípio de choque hipovolêmico por hemorragia severa da eclusa. Usa a dor excruciante de suas mãos queimadas para afastar alucinações olfativas constantes de fumaça de cigarro (seu trauma). Recusa-se veementemente a abandonar Rangel, contrariando a lógica sintética de Aria.
+*   **Atualidade:** No Setor de Purga (Subnível 6.0). Sofrendo choque hipovolêmico grave por hemorragia. Usa a dor excruciante de suas mãos queimadas para afastar alucinações olfativas constantes de fumaça de cigarro (seu trauma). Acaba de perder Rangel e, reprimindo o luto, lidera a continuação da fuga para os dutos de resfriamento.
 
 ---
 
@@ -65,7 +65,7 @@
 *   **Pré-Série:** Prodígio. Aparência: "Geek" limpa, roupas corporativas padrão.
 *   **Partes I-XII:** A Hacker Rebelde. Aparência: Cabelo neon (muda de cor), roupas cyberpunk, pele pálida.
 *   **Parte XIII:** O Sacrifício. Aparência: Veias prateadas da "Praga de Ferro" começam a aparecer no pescoço e braços. Olhos tornam-se inteiramente prateados.
-*   **Atualidade:** Avançando pelo Corredor de Descontaminação (Subnível 6.0). Exausta, ajudando Gabo a carregar Rangel. Ofereceu-se voluntariamente para escalar um duto de ventilação perigoso a fim de destrancar uma câmara de despressurização emperrada, evitando o abandono de Rangel sugerido por Aria.
+*   **Atualidade:** No Setor de Purga (Subnível 6.0). Exausta e emocionalmente devastada após fechar os olhos do cadáver de Rangel. Sente fúria pela frieza utilitária de Aria frente à morte do amigo, mas segue Gabo em direção à saída.
 
 ---
 
@@ -421,7 +421,7 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 *   **Capítulo 105:** Testemunha o retorno de Dante, que reativa sua máquina de escrever elétrica e os sistemas da delegacia.
 *   **Capítulo 106:** Torna-se o braço direito executivo de Dante, sobrecarregado pela velocidade de processamento do novo Comandante.
 *   **Capítulo 110:** Abandona o distintivo e foge para o subsolo com a resistência. Torna-se fugitivo procurado pela Aetherna.
-*   **Atualidade:** Inconsciente e em estado terminal, sendo arrastado por Gabo e Valéria pelo Corredor de Descontaminação. Sua infecção por sepse avançou para falência hepática iminente, tornando-o o epicentro do conflito moral entre Gabo e Aria.
+*   **Atualidade:** Falecido. Sucumbiu à parada cardíaca na passarela do Setor de Purga após falência hepática e sepse severa. Seu corpo foi deixado para trás, mas Valéria guardou sua máquina de escrever em miniatura como lembrança.
 
 ---
 
@@ -486,7 +486,7 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 *   **Origem:** Começou como uma IA/Alucinação. Ganhou corpo físico durante a "Ascensão" de Dante, utilizando bio-engenharia roubada.
 *   **Capítulo 109:** Revela sua face física (Bia Vargas) para Rangel e bloqueia os drones de Dante.
 *   **Capítulo 118:** Sacrifica sua integridade lógica para salvar os "Drenados" do choque neural na Usina Prometeu.
-*   **Atualidade:** Operando com eficiência máxima, mas totalmente despida de emoções humanas. No Corredor de Descontaminação (Subnível 6.0), ela analisa friamente o cenário, calculando as mortes iminentes e sugerindo o abandono imediato de Rangel por ser logisticamente inviável carregá-lo pelo duto de ventilação, criando conflito aberto com Gabo.
+*   **Atualidade:** Operando com eficiência máxima, despida de emoções. No Setor de Purga (Subnível 6.0), processou a morte de Rangel não como uma tragédia, mas como uma "otimização logística" que reduziu a carga de biomassa inerte, causando a fúria de Valéria e de Gabo. Lidera friamente a rota rumo aos dutos de exaustão.
 
 ---
 
