@@ -421,7 +421,7 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 *   **Capítulo 105:** Testemunha o retorno de Dante, que reativa sua máquina de escrever elétrica e os sistemas da delegacia.
 *   **Capítulo 106:** Torna-se o braço direito executivo de Dante, sobrecarregado pela velocidade de processamento do novo Comandante.
 *   **Capítulo 110:** Abandona o distintivo e foge para o subsolo com a resistência. Torna-se fugitivo procurado pela Aetherna.
-*   **Atualidade (Pós-Capítulo 150/151):** Falecido. Sucumbiu à parada cardíaca na passarela do Setor de Purga após falência hepática e sepse severa. Seu corpo foi deixado para trás, mas Valéria guardou sua máquina de escrever em miniatura como lembrança.
+*   **Atualidade:** Falecido. Sucumbiu à parada cardíaca na passarela do Setor de Purga após falência hepática e sepse severa. Seu corpo foi deixado para trás, mas Valéria guardou sua máquina de escrever em miniatura como lembrança.
 
 ---
 
