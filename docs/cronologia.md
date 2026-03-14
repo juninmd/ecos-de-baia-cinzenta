@@ -105,7 +105,7 @@ A era da reconstrução autoritária.
 | Personagem | Status | Localização | Estado Físico/Mental |
 | :--- | :--- | :--- | :--- |
 | **Gabo** | Líder / Combatente | Necrópole (Subnível 5.0 - Dutos de Exaustão) | Choque hipovolêmico letal. Queimaduras de 3º grau infectadas; agora também sofrendo hipotermia leve e ferimentos graves de laceração após o ventilador industrial. Mantém a sanidade na base de dor excruciante para bloquear as alucinações olfativas de cigarro. |
-| **Valéria** | Hacker / Suporte | Necrópole (Subnível 5.0 - Dutos de Exaustão) | Exausta, traumatizada e prestes a sucumbir à hipotermia dentro dos dutos de resfriamento. |
+| **Valéria** | Hacker / Suporte | Necrópole (Subnível 5.0 - Dutos de Exaustão) | Exausta, traumatizada e prestes a sucumbir à hipotermia dentro dos dutos de exaustão. |
 | **Aria** | Danificada / Letal | Necrópole (Subnível 5.0 - Dutos de Exaustão) | IA de logística puramente fria e sintética. Imune ao frio, calculando probabilidades de colapso de Gabo e Valéria sem oferecer assistência emocional. |
 | **Rangel** | Falecido | Necrópole (Subnível 6.0 - Setor de Purga) | Corpo abandonado no Subnível 6.0. |
 | **Taxidermista**| Furioso / Protegido | Desconhecido (Sistema Central) | Usando gatilhos autônomos para infectar defesas antigas e caçar o grupo. |
