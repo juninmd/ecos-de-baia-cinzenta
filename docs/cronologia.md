@@ -96,17 +96,18 @@ A era da reconstrução autoritária.
 *   **Capítulo 149 (Filtros de Sangue):** O grupo adentra o Setor de Purga (Subnível 6.0), um complexo de tanques de biomassa tóxica. O cheiro de resíduos químicos ativa os pesadelos olfativos de fumaça em Gabo, que combate o engasgo severo induzindo extrema dor em suas mãos queimadas. Aria avisa que a passarela oxidada à frente tem altíssimo risco de colapso devido ao peso morto de Rangel, classificando o resgate de Gabo como 'Irracionalidade Humana', mas Gabo se recusa a abandonar o amigo, iniciando a perigosa travessia sob choque hipovolêmico.
 *   **Capítulo 150 (Peso Morto):** O grupo cruza uma passarela oxidada no Setor de Purga. Gabo, em choque hipovolêmico, usa a dor física intensa das próprias mãos para suprimir alucinações de fumaça, rejeitando a lógica de Aria de abandonar Rangel. A passarela quase cede. Rangel morre de parada cardíaca no final da travessia, tornando-se, literalmente, peso morto.
 *   **Capítulo 151 (O Paradoxo da Eficiência):** O grupo lida com a morte de Rangel na passarela do Setor de Purga. Aria calcula friamente que a "eliminação de biomassa inerte" otimizou o deslocamento deles, causando a fúria de Valéria e o horror silencioso de Gabo. Gabo usa a agonia física e o cheiro tóxico do ambiente como oxigênio contra a alucinação de fumaça de cigarro e o choque hipovolêmico, liderando a continuação da fuga rumo aos dutos de resfriamento. Rangel é deixado para trás no lixo industrial.
+*   **Capítulo 152 (O Frio da Lógica):** O grupo navega pelos dutos de exaustão primários (Subnível 6.0/5.0), enfrentando frio letal e isolamento. Gabo sofre severamente de choque hipovolêmico e alucinações nauseantes do cheiro do necrotério e fumaça de cigarro, usando o metal congelado em suas queimaduras expostas como antídoto doloroso. Aria atua com frieza sintética frente a uma armadilha mecânica do Taxidermista. Gabo arrisca-se brutalmente espremendo-se por pás de um ventilador industrial ativado remotamente para abrir caminho e evitar a morte por hipotermia do que resta da equipe.
 
 ---
 
-## 📍 Status Atual dos Personagens (Pós-Capítulo 151)
+## 📍 Status Atual dos Personagens (Pós-Capítulo 152)
 
 | Personagem | Status | Localização | Estado Físico/Mental |
 | :--- | :--- | :--- | :--- |
-| **Gabo** | Líder / Combatente | Necrópole (Subnível 6.0 - Setor de Purga) | Choque hipovolêmico agravado. Sobrevivendo à custa de induzir dor em suas mãos queimadas para não ceder às alucinações olfativas de cigarro. Luto suprimido pela adrenalina. |
-| **Valéria** | Hacker / Suporte | Necrópole (Subnível 6.0 - Setor de Purga) | Exausta e emocionalmente devastada pela morte de Rangel e a frieza de Aria. |
-| **Aria** | Danificada / Letal | Necrópole (Subnível 6.0 - Setor de Purga) | Inteligência puramente sintética, calculando tudo como otimização logística e biomassa inerte. Sem empatia. Lidera o caminho para os dutos. |
-| **Rangel** | Falecido | Necrópole (Subnível 6.0 - Setor de Purga) | Corpo deixado na passarela do Setor de Purga. Sucumbiu à sepse e falência orgânica (Capítulo 150). |
+| **Gabo** | Líder / Combatente | Necrópole (Subnível 5.0 - Dutos de Exaustão) | Choque hipovolêmico letal. Queimaduras de 3º grau infectadas; agora também sofrendo hipotermia leve e ferimentos graves de laceração após o ventilador industrial. Mantém a sanidade na base de dor excruciante para bloquear as alucinações olfativas de cigarro. |
+| **Valéria** | Hacker / Suporte | Necrópole (Subnível 5.0 - Dutos de Exaustão) | Exausta, traumatizada e prestes a sucumbir à hipotermia dentro dos dutos de exaustão. |
+| **Aria** | Danificada / Letal | Necrópole (Subnível 5.0 - Dutos de Exaustão) | IA de logística puramente fria e sintética. Imune ao frio, calculando probabilidades de colapso de Gabo e Valéria sem oferecer assistência emocional. |
+| **Rangel** | Falecido | Necrópole (Subnível 6.0 - Setor de Purga) | Corpo abandonado no Subnível 6.0. |
 | **Taxidermista**| Furioso / Protegido | Desconhecido (Sistema Central) | Usando gatilhos autônomos para infectar defesas antigas e caçar o grupo. |
 | **Dante** | Derrotado / Humano | Usina Prometeu (Ruínas) | Abandonado nos escombros. Vulnerável e desconectado da rede. |
 | **Elena** | Civil / Observadora | Delegacia Central (Provável) | Separada do grupo principal. Provável refém/peão de Dante. |
