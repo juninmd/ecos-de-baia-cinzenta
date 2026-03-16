@@ -32,4 +32,4 @@ O ambiente do poço do elevador é vertical, opressivo e decrépito. Cheiros de 
 2. **O plot twist deste capítulo invalida algo estabelecido nos capítulos anteriores?**
    Não há invalidação. Aria continua agindo com base em sua reprogramação estrita (Capítulo 134/135), priorizando a utilidade matemática. Valéria ainda sofre os efeitos da hipotermia do Capítulo 153. A ausência de armas de fogo justifica-se pelas condições da Necrópole (Cap. 132).
 3. **O resumo da lore foi atualizado com os novos eventos?**
-   A cronologia e os status serão atualizados. A equipe sobrevive ao encontro com a caça pesada sacrificando a infraestrutura do nível 4.5 e está a caminho do nível 4.0.
+   A cronologia e os status foram atualizados com os novos eventos. A equipe sobrevive ao encontro com a caça pesada sacrificando a infraestrutura do nível 4.5 e está a caminho do nível 4.0.
