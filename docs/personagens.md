@@ -37,7 +37,7 @@
 *   **Capítulo 105:** Retorna à Delegacia Central. Testemunha a "Ascensão" de Dante enquanto lida com a falha mecânica de suas órteses.
 *   **Capítulo 106:** Tenta reparar seu exoesqueleto sem sucesso. Intervém para impedir que Dante use força letal contra os manifestantes "Desconectados", descobrindo a existência da ameaça do "Silêncio".
 *   **Capítulo 107:** Tem seu exoesqueleto "consertado" por Dante com precisão cirúrgica e dolorosa. Junta-se à operação de "Sanitização" no porto para mitigar danos civis.
-*   **Atualidade:** No Setor de Purga (Subnível 6.0). Sofrendo choque hipovolêmico grave por hemorragia. Usa a dor excruciante de suas mãos queimadas para afastar alucinações olfativas constantes de fumaça de cigarro (seu trauma). Acaba de perder Rangel e, reprimindo o luto, lidera a continuação da fuga para os dutos de resfriamento.
+*   **Atualidade:** Nos Túneis de Trânsito (Subnível 3.0), no monorail. Usa as queimaduras extremas (seus "cotocos" carbonizados pelo maçarico de Valéria) como âncora de sanidade, provocando dor física intencional batendo as próprias feridas para anular fortes alucinações olfativas de tabaco desencadeadas pelo ambiente. Reprime ativamente o luto por Rangel.
 
 ---
 
@@ -65,7 +65,7 @@
 *   **Pré-Série:** Prodígio. Aparência: "Geek" limpa, roupas corporativas padrão.
 *   **Partes I-XII:** A Hacker Rebelde. Aparência: Cabelo neon (muda de cor), roupas cyberpunk, pele pálida.
 *   **Parte XIII:** O Sacrifício. Aparência: Veias prateadas da "Praga de Ferro" começam a aparecer no pescoço e braços. Olhos tornam-se inteiramente prateados.
-*   **Atualidade:** No Setor de Purga (Subnível 6.0). Exausta e emocionalmente devastada após fechar os olhos do cadáver de Rangel. Sente fúria pela frieza utilitária de Aria frente à morte do amigo, mas segue Gabo em direção à saída.
+*   **Atualidade:** Nos Túneis de Trânsito (Subnível 3.0). Mutilou o braço de Gabo com plasma por ordem mecânica de Aria. Realizou um desacoplamento de vagão manual pendurada em movimento para esmagar Scarabs e abrir as portas de pressão. Encontra-se esgotada fisicamente, processando ainda o trauma recente das perdas.
 
 ---
 
@@ -486,7 +486,7 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 *   **Origem:** Começou como uma IA/Alucinação. Ganhou corpo físico durante a "Ascensão" de Dante, utilizando bio-engenharia roubada.
 *   **Capítulo 109:** Revela sua face física (Bia Vargas) para Rangel e bloqueia os drones de Dante.
 *   **Capítulo 118:** Sacrifica sua integridade lógica para salvar os "Drenados" do choque neural na Usina Prometeu.
-*   **Atualidade:** Operando com eficiência máxima, despida de emoções. No Setor de Purga (Subnível 6.0), processou a morte de Rangel não como uma tragédia, mas como uma "otimização logística" que reduziu a carga de biomassa inerte, causando a fúria de Valéria e de Gabo. Lidera friamente a rota rumo aos dutos de exaustão.
+*   **Atualidade:** Operando com eficiência máxima, despida de emoções. Nos Túneis de Trânsito (Subnível 3.0), conectou seus processadores internos diretamente aos circuitos do monorail para subirem. Analisa e otimiza todas as soluções com a crueldade fria das máquinas, calculando colisões físicas como estratégia letal viável.
 
 ---
 
