@@ -57,8 +57,7 @@ A alucinação atingiu Gabo com a força de um soco no estômago. O ar em seus p
 
 Mas ele não tinha mãos para se proteger.
 
-Com um grito de raiva gutural, Gabo ergueu o braço direito e chocou violentamente o toco enfaixado contra o pilar de sustentação do monorail. O impacto foi devastador. A dor irrompeu não como uma faísca, mas como um sol em chamas. Seus joelhos cederam, e a fumaça ilusória evaporou instantaneamente de seus pulmões, expulsa pela realidade excruciante e incontestável de sua própria carne ferida.
-
+Com um grito de raiva gutural, Gabo ergueu o braço direito e chocou violentamente o toco carbonizado contra o pilar de sustentação do monorail. O impacto foi devastador. A dor irrompeu não como uma faísca, mas como um sol em chamas. Seus joelhos cederam, e a fumaça ilusória evaporou instantaneamente de seus pulmões, expulsa pela realidade excruciante e incontestável de sua própria carne ferida.
 — Vai, Val! — Gabo rugiu, a voz rasgada pelo esforço, os dentes cerrados. Ele atirou o ombro contra a escotilha de chão, destravando a dobradiça enferrujada.
 
 Valéria não hesitou. Ela se abaixou, segurando a alavanca improvisada, e se deixou escorregar para fora do vagão em movimento, o vento furioso do túnel tentando arrancá-la do lugar.
@@ -93,4 +92,4 @@ Gabo deixou a cabeça cair para trás, olhando para o abismo fumegante lá no al
 
 Ele ergueu o que restava dos braços para Valéria.
 
-— Me ajude a levantar, — disse Gabo, a Fúria Silenciosa mais uma vez endurecendo seu maxilar. — Ainda não chegamos no topo. E eu tenho um relógio para consertar.
+— Me ajude a levantar, — disse Gabo, a Fúria Silenciosa mais uma vez endurecendo seu maxilar. — Ainda não chegamos no topo. A caçada não acabou.
