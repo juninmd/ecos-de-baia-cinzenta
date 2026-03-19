@@ -65,7 +65,7 @@
 *   **Pré-Série:** Prodígio. Aparência: "Geek" limpa, roupas corporativas padrão.
 *   **Partes I-XII:** A Hacker Rebelde. Aparência: Cabelo neon (muda de cor), roupas cyberpunk, pele pálida.
 *   **Parte XIII:** O Sacrifício. Aparência: Veias prateadas da "Praga de Ferro" começam a aparecer no pescoço e braços. Olhos tornam-se inteiramente prateados.
-*   **Atualidade:** Nos Túneis de Trânsito (Subnível 3.0). Mutilou o braço de Gabo com plasma por ordem mecânica de Aria. Realizou um desacoplamento de vagão manual pendurada em movimento para esmagar Scarabs e abrir as portas de pressão. Encontra-se esgotada fisicamente, processando ainda o trauma recente das perdas.
+*   **Atualidade:** Nos Túneis de Trânsito (Subnível 3.0). Mutilou as mãos de Gabo com plasma por ordem mecânica de Aria. Realizou um desacoplamento de vagão manual pendurada em movimento para esmagar Scarabs e abrir as portas de pressão. Encontra-se esgotada fisicamente, processando ainda o trauma recente das perdas.
 
 ---
 
