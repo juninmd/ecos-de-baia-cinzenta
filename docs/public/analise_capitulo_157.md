@@ -2,7 +2,7 @@
 
 ## Metadados
 - **Capítulo:** 157 ("A Inércia do Caos")
-- **Data da Avaliação:** Atual
+- **Data da Avaliação:** [INSERIR DATA]
 
 ## Autoavaliação Técnica
 - **Ritmo (Pacing): 9/10** - O capítulo introduz uma tensão intensa e imediata (combate no trem em movimento), contrastando com a pausa sutil do capítulo anterior. O clímax com o desacoplamento funciona perfeitamente para redefinir o ambiente e apresentar o próximo desafio logístico.
