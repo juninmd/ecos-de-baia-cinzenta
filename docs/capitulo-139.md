@@ -37,11 +37,11 @@ Aria voou três metros, colidindo contra uma vitrine de vidro blindado. Ela caiu
 
 — Eles compartilham a visão — Valéria disse, os dedos voando sobre o deck holográfico de pulso. Seus olhos cibernéticos giravam freneticamente, processando o fluxo de dados do ambiente. — É uma rede *mesh* fechada. Eu não consigo entrar! A criptografia é biológica.
 
-Gabo bloqueou outro golpe, o vergalhão entortando perigosamente. Ele estava suando frio. O ar reciclado estava começando a cheirar a ozônio e sangue. Ele queria fumar. Deus, como ele queria fumar. A ansiedade era um inseto rastejando sob sua pele. Ele largou uma mão do vergalhão por um segundo e apertou o *Colar de Sol* no peito. As pontas de metal morderam a carne.
+Gabo bloqueou outro golpe, o vergalhão entortando perigosamente. Ele estava suando frio. O ar reciclado estava começando a cheirar a ozônio e sangue. A adrenalina do combate se misturou a uma exaustão profunda, e por um instante, a vontade de simplesmente parar, de deixar tudo acabar, o assaltou. A ansiedade era um inseto rastejando sob sua pele. Ele largou uma mão do vergalhão por um segundo e apertou o *Colar de Sol* no peito. As pontas de metal morderam a carne.
 
-*Dor é foco. Fumaça é fraqueza.*
+*Dor é foco. Desistir é fraqueza.*
 
-A náusea do desejo passou, substituída pela clareza adrenal.
+A náusea da apatia passou, substituída pela clareza adrenal.
 
 — Onde está o servidor? — Gabo gritou, aparando um golpe que visava suas pernas.
 
