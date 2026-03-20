@@ -82,7 +82,7 @@ Ele se deixou cair, puxando a criatura com ele, usando o peso dela contra si mes
 
 O metal estalou. O pistão cedeu.
 
-A escultura caiu pesadamente no chão de pedra, a lâmina da ceifadeira riscando faíscas perigosas que fizeram o coração de Gabo parar por um segundo. Nenhuma explosão. O gás não ignizou.
+A escultura caiu pesadamente no chão de pedra, a lâmina da ceifadeira riscando faíscas perigosas que fizeram o coração de Gabo parar por um segundo. Nenhuma explosão. O gás não se inflamou.
 
 Gabo montou nas costas da criatura, recuperou sua faca e a enterrou na base do pescoço, girando-a violentamente até sentir a conexão neural — ou o que quer que fosse aquilo — se romper. A Coisa tremeu, espasmos de óleo e sangue negro jorrando, e parou.
 
