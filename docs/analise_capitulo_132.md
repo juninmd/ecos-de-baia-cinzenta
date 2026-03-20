@@ -3,7 +3,7 @@
 ## Metadados
 *   **Título:** Esculturas de Carne
 *   **Localização:** Necrópole (Velha Baía)
-*   **Personagens:** Gabo, Valéria, Aria (Glitch), Rangel
+*   **Personagens:** Gabo, Valéria, Aria (Glitch/Bia), Rangel (Inconsciente)
 *   **Data:** Pós-Colapso
 
 ## Autoavaliação Técnica (Nota 1-10)
