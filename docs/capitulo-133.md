@@ -3,7 +3,7 @@
 - **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
 - **Localização:** Necrópole (O Ateliê do Taxidermista)
 - **Personagens Presentes:** Gabo, Valéria, Aria (Glitch/Bia), Rangel (Inconsciente)
-- **Resumo:** O grupo avança para o coração da Necrópole, encontrando o verdadeiro laboratório do Taxidermista: uma linha de montagem grotesca onde corpos são preparados como "telas" para sua arte. A atmosfera saturada de metano torna cada respiração um risco. Aria sofre uma desestabilização crítica ao confrontar réplicas falhas de si mesma, enquanto Gabo luta para manter a sanidade e a liderança sob a pressão da abstinência e da dor física.
+- **Resumo:** O grupo avança para o coração da Necrópole, encontrando o verdadeiro laboratório do Taxidermista: uma linha de montagem grotesca onde corpos são preparados como "telas" para sua arte. A atmosfera saturada de metano torna cada respiração um risco. Aria sofre uma desestabilização crítica ao confrontar uma réplica perfeita do corpo de Bia Vargas, enquanto Gabo luta para manter a sanidade e a liderança sob a pressão da abstinência e da dor física.
 
 # Narrativa
 
