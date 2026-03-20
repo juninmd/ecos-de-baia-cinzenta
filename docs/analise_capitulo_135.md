@@ -35,4 +35,4 @@ A atmosfera de "pós-batalha" está presente: o som de fluidos pingando, o cheir
 - **Verificação:** Não. A nova personalidade de Aria é consequência direta do reboot no Capítulo 134. A condição crítica de Rangel segue a continuidade dos ferimentos sofridos anteriormente. **Status: APROVADO.**
 
 ### "O resumo da lore foi atualizado com os novos eventos?"
-- **Verificação:** O arquivo `docs/cronologia.md` será atualizado na próxima etapa para incluir este evento de "cisão ideológica" no grupo. **Status: PENDENTE (Próxima Etapa).**
+- **Verificação:** O arquivo `docs/cronologia.md` foi atualizado para incluir este evento de "cisão ideológica" no grupo. **Status: APROVADO.**
