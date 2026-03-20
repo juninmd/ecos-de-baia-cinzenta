@@ -43,13 +43,13 @@ Valéria se colocou entre Aria e a maca, os braços abertos.
 
 Gabo desencostou da bancada. Ele caminhou até Aria, ignorando a dor que irradiava de suas costelas. Ele parou a um palmo do rosto dela. Ele podia ver seu próprio reflexo distorcido nas lentes brancas que substituíram os olhos humanos.
 
-— Nós não "otimizamos" pessoas — Gabo disse, a voz baixa e perigosa. — Nós não somos a Aetherna. Nós não somos o Dante.
+— Nós não "otimizamos" pessoas — Gabo disse, a voz baixa e perigosa. — Nós não somos a Aeterna. Nós não somos o Dante.
 
 — Você está sendo emocional, Gabriel — Aria disse. — A emoção é um erro de cálculo. Se tentarmos salvar a todos, a probabilidade é que todos pereçam.
 
 Gabo agarrou o ombro sintético de Aria. O metal era frio, sem vida.
 
-— Escute bem, sua calculadora de merda — Gabo rosnou. — Aquele homem naquela maca sangrou por mim. Eu abri a barriga dele com um canivete e costurei com fio de pesca para que ele vivesse. Ele é minha responsabilidade. E enquanto eu estiver respirando, ninguém fica para trás.
+— Escute bem, sua calculadora de merda — Gabo rosnou. — Aquele homem naquela maca sangrou por mim. Eu cauterizei a ferida dele com um ferro de solda para que ele vivesse. Ele é minha responsabilidade. E enquanto eu estiver respirando, ninguém fica para trás.
 
 Aria olhou para a mão de Gabo em seu ombro. Ela poderia quebrá-lo com um movimento. A força hidráulica dela era superior a qualquer coisa que Gabo pudesse oferecer. Mas ela não se moveu.
 
