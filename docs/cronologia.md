@@ -100,7 +100,7 @@ A era da reconstrução autoritária.
 
 | Personagem | Status | Localização | Estado Físico/Mental |
 | :--- | :--- | :--- | :--- |
-| **Gabo** | Líder / Combatente | Necrópole (Subnível 6.0 - Setor de Purga) | Sofrendo de choque hipovolêmico grave, esgotado pelo esforço de forçar a porta. Usa dor extrema constante para afastar alucinações olfativas de cigarro. Determinação suicida em salvar Rangel. |
+| **Gabo** | Líder / Combatente | Necrópole (Subnível 6.0 - Setor de Purga) | Sofrendo de choque hipovolêmico grave, esgotado pelo esforço de forçar a porta. Usa dor extrema constante para afastar alucinações olfativas de cigarro. Determinação inabalável em salvar Rangel, mesmo sob risco extremo. |
 | **Valéria** | Hacker / Suporte | Necrópole (Subnível 6.0 - Setor de Purga) | Físicamente e mentalmente exausta após rastejar pelo duto sufocante e destrancar a pesada porta mecânica. |
 | **Aria** | Danificada / Letal | Necrópole (Subnível 6.0 - Setor de Purga) | Operando com frieza pragmática absoluta, desprovida de emoções humanas. Calcula friamente a entropia do grupo enquanto executa tarefas físicas extremas quando ordenado. |
 | **Rangel** | Crítico / Inconsciente | Necrópole (Subnível 6.0 - Setor de Purga) | Estado terminal. Sepse avançou para falência hepática incipiente; completamente dependente do grupo para não ser descartado. |
