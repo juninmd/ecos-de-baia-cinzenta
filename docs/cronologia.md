@@ -86,7 +86,7 @@ A era da reconstrução autoritária.
 | Personagem | Status | Localização | Estado Físico/Mental |
 | :--- | :--- | :--- | :--- |
 | **Gabo** | Líder / Combatente | Necrópole (O Ateliê) | Ferido no ombro. Abstinência severa controlada pela dor. |
-| **Valéria** | Hacker / Suporte | Necrópole (O Ateliê) | Focada em hackear o sistema local. Tensa. |
+| **Valéria** | Hacker / Suporte | Necrópole (O Ateliê) | Age como âncora racional do grupo; encarregada de tirar Aria do transe. |
 | **Aria** | Choque / Glitch | Necrópole (O Ateliê) | Colapso de identidade ao ver o corpo de Bia. Inoperante taticamente. |
 | **Rangel** | Crítico / Inconsciente | Necrópole (O Ateliê) | Estável precariamente. Transportado em maca. |
 | **Dante** | Derrotado / Humano | Usina Prometeu (Ruínas) | Abandonado nos escombros. Vulnerável e desconectado da rede. |
