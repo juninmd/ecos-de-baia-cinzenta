@@ -94,7 +94,7 @@ A era da reconstrução autoritária.
 | **Valéria** | Hacker / Suporte | O Estúdio (Necrópole) | Horrorizada com a "arte" biomecânica. |
 | **Aria** | Ativa / Arma | O Estúdio (Necrópole) | Lógica Pura. Calculando probabilidades de combate. |
 | **Rangel** | Crítico / Inconsciente | O Estúdio (Necrópole) | Alvo de interesse "artístico" do Taxidermista. |
-| **Taxidermista**| Antagonista / Artista | O Estúdio (Necrópole) | Perfeição artificial. Controlando as "Esculturas". |
+| **Taxidermista** | Antagonista / Artista | O Estúdio (Necrópole) | Perfeição artificial. Controlando as "Esculturas". |
 | **Dante** | Derrotado / Humano | Usina Prometeu (Ruínas) | Abandonado nos escombros. Vulnerável e desconectado da rede. |
 | **Elena** | Civil / Observadora | Delegacia Central (Provável) | Separada do grupo principal. Provável refém/peão de Dante. |
 | **Marco** | Rival / Administrador | Delegacia Central | Ativo. Consolidando poder na ausência de Dante. |
