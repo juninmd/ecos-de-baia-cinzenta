@@ -65,7 +65,7 @@
 *   **Pré-Série:** Prodígio. Aparência: "Geek" limpa, roupas corporativas padrão.
 *   **Partes I-XII:** A Hacker Rebelde. Aparência: Cabelo neon (muda de cor), roupas cyberpunk, pele pálida.
 *   **Parte XIII:** O Sacrifício. Aparência: Veias prateadas da "Praga de Ferro" começam a aparecer no pescoço e braços. Olhos tornam-se inteiramente prateados.
-*   **Atualidade:** No "Ateliê" do Taxidermista. Focada em hackear os sistemas locais e "acordar" Aria de seu estado catatônico, enquanto monitora os sinais vitais críticos de Rangel.
+*   **Atualidade:** No "Ateliê" do Taxidermista. Tenta manter o grupo focado diante do horror psicológico e é encarregada de tirar Aria de seu estado catatônico.
 
 ---
 
