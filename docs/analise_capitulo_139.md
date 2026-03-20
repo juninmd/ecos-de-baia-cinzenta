@@ -30,8 +30,8 @@
 ## 3. Auditoria de Coerência (Sanity Check)
 
 ### "Gabo interagiu com algum fumante? Como sua repulsa foi demonstrada?"
-*   **Verificação:** Não houve interação com fumantes. No entanto, o estresse do combate gatilhou o desejo de fumar em Gabo.
-*   **Reação:** Ele sentiu a ansiedade ("inseto rastejando") e imediatamente usou a dor física do *Colar de Sol* para suprimir o desejo, mantendo a regra de que ele nunca fuma e substitui o vício por dor/foco.
+*   **Verificação:** Não houve interação com fumantes. No entanto, o estresse do combate gatilhou em Gabo um desejo de fumar, o que representa uma inconsistência com a regra de que ele nunca fumou e tem aversão ao cigarro.
+*   **Reação:** Ele sentiu a ansiedade ("inseto rastejando") e imediatamente usou a dor física do *Colar de Sol* para suprimir o desejo. A origem do desejo deve ser revisada para manter a coerência, enquanto o mecanismo de enfrentamento (dor) permanece consistente.
 
 ### "O plot twist deste capítulo invalida algo estabelecido nos capítulos anteriores?"
 *   **Verificação:** Não. A existência do Tríptico expande o conceito de "processamento biológico" estabelecido na Usina Prometeu e na Estação de Bombeamento. O comportamento de Aria (lógica pura) é consistente com o reboot do Capítulo 134.
