@@ -53,7 +53,7 @@ Das sombras entre os corredores de servidores, as abominações começaram a se 
 
 Elas se moviam em completo silêncio, a não ser pelo leve som de garras metálicas clicando contra o chão de grade de aço. Eram cinco. Seis. Sete.
 
-— *Probabilidade de vitória em combate direto nas atuais condições físicas: dezoito por cento,* — declarou Aria. Ela desceu a postura de combate, suas lâminas retráteis zumbindo em prontidão. — *Surgere redirecionamento ou neutralização ambiental.*
+— *Probabilidade de vitória em combate direto nas atuais condições físicas: dezoito por cento,* — declarou Aria. Ela desceu a postura de combate, suas lâminas retráteis zumbindo em prontidão. — *Sugestão: redirecionamento ou neutralização ambiental.*
 
 — Val, — Gabo chamou, a voz tensa, os olhos fixos nas silhuetas vermelhas que os flanqueavam. — Algum terminal limpo? Alguma coisa que não esteja cheirando a sangue?
 
