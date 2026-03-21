@@ -40,7 +40,7 @@
   - Fully automate the release pipeline (CI/CD) for seamless production deployments.
   - Automate the update process for `docs/cronologia.md` based on new chapter metadata.
 - **Low priority (technical debt, optimizations):**
-  - Audit and update third-party dependencies (`package.json`, `requirements-dev.txt`) for security and performance.
+- Audit and update third-party dependencies (`package.json`, `requirements-dev.txt`, `requirements-art.txt`) for security and performance.
 
 ### Q4: Global Launch & Community Features
 - **High priority (bugs, critical features):**
