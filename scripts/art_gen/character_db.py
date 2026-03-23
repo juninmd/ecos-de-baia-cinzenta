@@ -33,9 +33,13 @@ class CharacterDatabase:
 
         lines = section.split('\n')
         name_line = lines[0].strip()
-        name_clean = re.sub(r'\s*\[.*?\]', '', name_line).strip().replace('*', '').strip()
+        # Strip simple markdown links/brackets without risking ReDoS via non-greedy quantifiers
+        name_clean = re.sub(r'\[([^\]]+)\](?:\([^\)]+\))?', r'\1', name_line)
+        name_clean = name_clean.replace('[', '').replace(']', '')
+        name_clean = name_clean.strip().replace('*', '').strip()
 
-        image_match = re.search(r'!\[.*?\]\((.*?)\)', section)
+        # Capture markdown image links
+        image_match = re.search(r'!\[[^\]]*\]\(([^\)]+)\)', section)
         image_path = image_match.group(1) if image_match else None
 
         description_parts = self._extract_description_parts(lines)
