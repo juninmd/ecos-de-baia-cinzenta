@@ -113,7 +113,7 @@ A era da reconstrução autoritária.
 
 | Personagem | Status | Localização | Estado Físico/Mental |
 | :--- | :--- | :--- | :--- |
-| **Gabo** | Líder / Suporte / Mortalmente Ferido | Servidores Centrais (Subnível 3.0) | Ferimento no abdômen selado precariamente com espuma química cáustica. Perda severa de sangue e amputações. Mantém a sanidade canalizando a extrema dor. |
+| **Gabo** | Líder / Suporte / Mortalmente Ferido | Servidores Centrais (Subnível 3.0) | Ferimentos no abdômen (selado com espuma) e na perna. Perda severa de sangue e amputações. Mantém a sanidade canalizando a extrema dor. |
 | **Valéria** | Hacker / Exausta | Servidores Centrais (Subnível 3.0) | Com a purga iônica realizada com sucesso, lida com exaustão mental crítica e testemunha a gravidade dos ferimentos de Gabo. |
 | **Aria** | Danificada / Letal | Servidores Centrais (Subnível 3.0) | Puramente mecanicista. Registrou a vitória após prever sua própria sub-rotina de sacrifício ser impedida ilogicamente por Gabo. |
 | **Rangel** | Falecido | Necrópole (Subnível 6.0 - Setor de Purga) | Corpo abandonado no Subnível 6.0. |
