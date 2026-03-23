@@ -43,7 +43,7 @@ E havia o Ruído. Aquele zumbido onipresente de baixa frequência que a cidade e
 
 O desconforto era apenas mais um ruído de fundo. O cheiro era o pior. Uma mistura de ozônio queimado, lixo apodrecendo na umidade e aquele odor metálico e adocicado de sangue velho. Gabo puxou um lenço do bolso e cobriu o nariz e a boca por um segundo, inspirando o cheiro forte de cânfora e menta que ele usava para mascarar o fedor da morte.
 
-Ele avançou, desviando de poças que refletiam o céu cinza como espelhos quebrados. Iluminou o chão com sua lanterna, procurando marcas de pneus, bitucas de cigarro, qualquer coisa que a chuva ainda não tivesse levado. A água gelada batia em seu rosto, trazendo uma memória indesejada. A mesma chuva caía na noite em que encontraram Beatriz. Bia... sua parceira, seu amor, sua âncora.
+Ele avançou, desviando de poças que refletiam o céu cinza como espelhos quebrados. Iluminou o chão com sua lanterna, procurando marcas de pneus, cartuchos de adrenalina vazios, qualquer coisa que a chuva ainda não tivesse levado. A água gelada batia em seu rosto, trazendo uma memória indesejada. A mesma chuva caía na noite em que encontraram Beatriz. Bia... sua parceira, seu amor, sua âncora.
 
 Ele ainda podia ver o corpo dela estendido no asfalto, o buraco de bala no peito fumegante. O relatório oficial dizia "assalto mal sucedido", mas Gabo sabia a verdade. Ele vira a sombra de Roberto Miranda se afastando no beco. Miranda, o amigo que virou carrasco. A dor daquela perda nunca cicatrizou; apenas calcificou, transformando-se em uma armadura de cinismo que ele vestia todos os dias.
 
