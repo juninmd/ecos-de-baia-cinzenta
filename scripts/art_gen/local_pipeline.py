@@ -57,13 +57,13 @@ class LocalPipelineManager:
     def _load_pipeline(self, family, model_id):
         if family == "flux-schnell":
             if FluxPipeline is None:
-                raise RuntimeError("FluxPipeline indisponível na versão atual do diffusers.")
+                raise RuntimeError("FluxPipeline is unavailable in the current version of diffusers.")
             dtype = torch.bfloat16 if self.device == "cuda" else torch.float32
             return FluxPipeline.from_pretrained(model_id, torch_dtype=dtype)
 
         if family == "sdxl":
             if StableDiffusionXLPipeline is None:
-                raise RuntimeError("StableDiffusionXLPipeline indisponível na versão atual do diffusers.")
+                raise RuntimeError("StableDiffusionXLPipeline is unavailable in the current version of diffusers.")
             dtype = torch.float16 if self.device == "cuda" else torch.float32
             return StableDiffusionXLPipeline.from_pretrained(model_id, torch_dtype=dtype)
 
