@@ -6,7 +6,9 @@ from unittest.mock import patch, mock_open
 # Add scripts to path
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../scripts')))
 
-from generate_chapter_art import CharacterDatabase, ChapterContext, ImageGenerator
+from art_gen.character_db import CharacterDatabase
+from art_gen.chapter_context import ChapterContext
+from art_gen.image_generator import ImageGenerator
 
 @pytest.fixture
 def mock_char_file():
@@ -78,15 +80,15 @@ def test_image_generator_uses_selected_model_only(monkeypatch):
     def fail_if_called(*args, **kwargs):
         raise AssertionError("unexpected model fallback")
 
-    monkeypatch.setattr("generate_chapter_art.torch", type("FakeTorch", (), {"cuda": type("Cuda", (), {"is_available": staticmethod(lambda: False)})(), "float32": object(), "float16": object(), "bfloat16": object()}))
-    monkeypatch.setattr("generate_chapter_art.FluxPipeline", type("Flux", (), {"from_pretrained": staticmethod(fail_if_called)}))
-    monkeypatch.setattr("generate_chapter_art.StableDiffusionXLPipeline", type("SDXL", (), {"from_pretrained": staticmethod(fake_sdxl)}))
-    monkeypatch.setattr("generate_chapter_art.StableDiffusionPipeline", type("SD15", (), {"from_pretrained": staticmethod(fail_if_called)}))
+    monkeypatch.setattr("art_gen.local_pipeline.torch", type("FakeTorch", (), {"cuda": type("Cuda", (), {"is_available": staticmethod(lambda: False)})(), "float32": object(), "float16": object(), "bfloat16": object()}))
+    monkeypatch.setattr("art_gen.local_pipeline.FluxPipeline", type("Flux", (), {"from_pretrained": staticmethod(fail_if_called)}))
+    monkeypatch.setattr("art_gen.local_pipeline.StableDiffusionXLPipeline", type("SDXL", (), {"from_pretrained": staticmethod(fake_sdxl)}))
+    monkeypatch.setattr("art_gen.local_pipeline.StableDiffusionPipeline", type("SD15", (), {"from_pretrained": staticmethod(fail_if_called)}))
 
     generator = ImageGenerator(model_family="sdxl")
-    generator._setup_local_pipeline()
+    generator.local_manager.setup_pipeline()
 
-    assert generator.pipeline is not None
+    assert generator.local_manager.pipeline is not None
     assert generator.model_family == "sdxl"
     assert attempts == ["sdxl"]
 
@@ -98,7 +100,7 @@ def test_image_generator_skips_cpu_fallback_by_default(monkeypatch, tmp_path):
             def is_available():
                 return False
 
-    monkeypatch.setattr("generate_chapter_art.torch", FakeTorch)
+    monkeypatch.setattr("art_gen.image_generator.torch", FakeTorch)
     monkeypatch.setattr("requests.get", lambda *args, **kwargs: (_ for _ in ()).throw(Exception("no api")))
     monkeypatch.delenv("SD_API_URL", raising=False)
     monkeypatch.delenv("ART_ALLOW_CPU_FALLBACK", raising=False)
