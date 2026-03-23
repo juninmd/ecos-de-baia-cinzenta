@@ -43,7 +43,7 @@ A espuma expandiu em um flash cáustico e violento. O grito de Gabo foi seco, es
 
 — Então ele continua ouvindo. — Gabo disse, a voz ainda vacilando sob a influência do selante químico endurecendo em suas entranhas. Ele forçou o olhar para a vasta escuridão além dos corredores purgados.
 
-A dor das cauterizações recentes agora era uma lembrança constante. As abominações, as "Esculturas", antes máquinas de destruição quase perfeitas e implacáveis, agora não passavam de pilhas de cinzas úmidas e estilhaços cerâmicos inofensivos esparramados pelos corredores outrora infectados. A poeira escura de biomassa calcinada rodopiava lentamente, suspensa no pouco ar estéril que restava.
+A dor das cauterizações recentes era uma lembrança constante. Ele olhou para os corredores. Pilhas de cinzas úmidas e estilhaços de cerâmica inofensivos era tudo o que restava das "Esculturas". A poeira escura de biomassa calcinada rodopiava lentamente no ar estéril.
 
 — *Sua análise é provável.* — Aria confirmou, virando-se para a imensa porta blindada do setor, o aço liso e desgastado pelo tempo não refletindo luz alguma. — *Ele perdeu o controle deste setor, mas seus nós logísticos ainda estão intactos além deste ponto. Sugiro movimento imediato antes que protocolos alternativos de defesa entrem em ação.*
 
