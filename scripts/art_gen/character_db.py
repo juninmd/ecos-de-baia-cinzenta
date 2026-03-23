@@ -16,7 +16,7 @@ class CharacterDatabase:
         try:
             with open(self.filepath, 'r', encoding='utf-8') as f:
                 content = f.read()
-        except Exception as e:
+        except (IOError, OSError) as e:
             print(f"⚠️ Error reading character file: {e}")
             return
 

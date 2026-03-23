@@ -21,8 +21,8 @@ class OllamaClient:
                 if response.status_code == 200:
                     print(f"✅ Successfully connected to Ollama at {self.host}")
                     return True
-                raise Exception(f"HTTP {response.status_code}")
-            except Exception as e:
+                raise requests.RequestException(f"HTTP {response.status_code}")
+            except requests.RequestException as e:
                 if attempt < max_retries - 1:
                     print(f"⚠️ Connection attempt {attempt + 1} failed, retrying in {retry_delay}s...")
                     time.sleep(retry_delay)
@@ -49,10 +49,10 @@ class OllamaClient:
             response = requests.post(self.api_url, json=payload, timeout=300)
             response.raise_for_status()
             return response.json().get("response", "").strip()
-        except requests.exceptions.Timeout:
+        except requests.Timeout:
             print("⚠️ Ollama request timed out after 300 seconds")
             return None
-        except requests.exceptions.RequestException as e:
+        except requests.RequestException as e:
             print(f"⚠️ Ollama Generation Failed: {e}")
             return None
 
