@@ -1,24 +1,27 @@
+DEFAULT_SIZE = (768, 1024)
+DEFAULT_SAMPLER = "DPM++ 2M Karras"
+
 MODEL_ALTERNATIVES = {
     "flux-schnell": {
         "label": "FLUX.1 Schnell (open source, melhor qualidade geral)",
         "local_model_id": "black-forest-labs/FLUX.1-schnell",
-        "size": (768, 1024),
+        "size": DEFAULT_SIZE,
         "steps": 28,
-        "sampler": "DPM++ 2M Karras",
+        "sampler": DEFAULT_SAMPLER,
     },
     "sdxl": {
         "label": "Stable Diffusion XL 1.0 (boa fidelidade de composição)",
         "local_model_id": "stabilityai/stable-diffusion-xl-base-1.0",
-        "size": (768, 1024),
+        "size": DEFAULT_SIZE,
         "steps": 32,
-        "sampler": "DPM++ 2M Karras",
+        "sampler": DEFAULT_SAMPLER,
     },
     "sd15": {
         "label": "Stable Diffusion 1.5 (rápido, menor qualidade)",
         "local_model_id": "runwayml/stable-diffusion-v1-5",
-        "size": (768, 1024),
+        "size": DEFAULT_SIZE,
         "steps": 30,
-        "sampler": "DPM++ 2M Karras",
+        "sampler": DEFAULT_SAMPLER,
     },
 }
 

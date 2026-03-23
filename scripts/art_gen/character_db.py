@@ -13,8 +13,12 @@ class CharacterDatabase:
             print(f"⚠️ Warning: Character file not found at {self.filepath}")
             return
 
-        with open(self.filepath, 'r', encoding='utf-8') as f:
-            content = f.read()
+        try:
+            with open(self.filepath, 'r', encoding='utf-8') as f:
+                content = f.read()
+        except Exception as e:
+            print(f"⚠️ Error reading character file: {e}")
+            return
 
         sections = re.split(r'\n## ', content)
 

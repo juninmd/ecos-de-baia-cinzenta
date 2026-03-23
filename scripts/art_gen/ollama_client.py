@@ -52,7 +52,7 @@ class OllamaClient:
         except requests.exceptions.Timeout:
             print("⚠️ Ollama request timed out after 300 seconds")
             return None
-        except Exception as e:
+        except requests.exceptions.RequestException as e:
             print(f"⚠️ Ollama Generation Failed: {e}")
             return None
 
