@@ -13,8 +13,7 @@ class ChapterContext:
 
     def load(self):
         if not os.path.exists(self.filepath):
-            print(f"❌ Error: Chapter file not found at {self.filepath}")
-            sys.exit(1)
+            raise FileNotFoundError(f"Error: Chapter file not found at {self.filepath}")
 
         with open(self.filepath, 'r', encoding='utf-8') as f:
             self.content = f.read()
