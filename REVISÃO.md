@@ -9,4 +9,11 @@ Este arquivo mantém o controle de progresso sobre o processo de revisão, adequ
 
 ---
 
+## Lote 2: Capítulos 4 a 6
+- [x] **Capítulo 4: O Salão de Vidro** - Revisor sem problemas de lore encontrados. Arquivo de análise criado.
+- [x] **Capítulo 5: A Capela dos Esquecidos** - Termo "cortina de fumaça branca" substituído por "cortina de vapor denso". Arquivo de análise criado.
+- [x] **Capítulo 6: O Coração da Tempestade** - Revisor sem problemas de lore encontrados. Arquivo de análise criado.
+
+---
+
 *Lotes futuros serão atualizados abaixo conforme a instrução.*
