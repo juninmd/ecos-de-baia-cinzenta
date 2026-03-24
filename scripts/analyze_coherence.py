@@ -91,7 +91,7 @@ def check_character_consistency(chapters: list[Chapter], aliases: dict[str, set[
     issues = []
 
     # Regra canônica: Gabo tem repulsa a cigarro/fumo.
-    violation_pattern = re.compile(r"\b(Gabo|Gabriel)\b.{0,120}?\b(fum[a-z]*|cigarro|tabaco)\b", re.IGNORECASE | re.DOTALL)
+    violation_pattern = re.compile(r"\b(Gabo|Gabriel)\b[^.!?]{0,120}\b(fum[a-z]*|cigarro|tabaco)\b", re.IGNORECASE)
     canonical_negations = re.compile(r"(odeia|nunca fumou|n[aã]o fuma|repulsa|n[aá]usea)", re.IGNORECASE)
     violators = []
     for ch in chapters:
