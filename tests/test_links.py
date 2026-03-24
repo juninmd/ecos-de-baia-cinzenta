@@ -13,14 +13,17 @@ def get_markdown_files():
         return []
     return list(DOCS_DIR.rglob("*.md"))
 
+# Compile regex at module level for performance
+LINK_REGEX = re.compile(r'\]\(((?:[^)(]|\([^)(]*\))*)\)')
+IGNORE_PREFIXES = ("http://", "https://", "mailto:", "ftp://", "tel:")
+
 def extract_links(content):
     """Extracts all links from markdown content."""
     # Matches standard markdown links [text](link) and images ![text](link)
     # capture group 1 is the link url
     # Modified regex to handle balanced parentheses in URLs (one level deep)
     # e.g. [text](image(1).png)
-    regex = r'\]\(((?:[^)(]|\([^)(]*\))*)\)'
-    return re.findall(regex, content)
+    return LINK_REGEX.findall(content)
 
 @pytest.mark.parametrize("file_path", get_markdown_files())
 def test_links_in_file(file_path):
@@ -34,7 +37,7 @@ def test_links_in_file(file_path):
         link = link.split()[0]
 
         # Ignore external links, mailto, etc.
-        if link.startswith(("http://", "https://", "mailto:", "ftp://", "tel:")):
+        if link.startswith(IGNORE_PREFIXES):
             continue
 
         # Ignore pure anchors

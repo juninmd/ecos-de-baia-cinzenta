@@ -42,10 +42,10 @@ def parse_character_aliases() -> dict[str, set[str]]:
         return aliases
 
     content = PERSONAGENS.read_text(encoding="utf-8")
-    for block in re.split(r"\n## ", content):
+    for block in content.split("\n## "):
         if not block.strip() or block.startswith("# "):
             continue
-        name = block.splitlines()[0].strip().replace("*", "")
+        name = block.split("\n", 1)[0].strip().replace("*", "")
         canonical = re.sub(r"\s*\[.*?\]", "", name).strip()
         local_aliases = {canonical.lower()}
         nick = re.search(r'"([^"]+)"', canonical)
@@ -113,7 +113,9 @@ def check_character_consistency(chapters: list[Chapter], aliases: dict[str, set[
 
     for canonical, fallback_aliases in central_aliases.items():
         alias_set = aliases.get(canonical, fallback_aliases)
-        mentions = sum(1 for ch in recent if any(re.search(rf"\b{re.escape(a)}\b", ch.text, re.IGNORECASE) for a in alias_set))
+        # Combine aliases into a single regex for faster searching
+        alias_pattern = re.compile(r"\b(?:" + "|".join(re.escape(a) for a in alias_set) + r")\b", re.IGNORECASE)
+        mentions = sum(1 for ch in recent if alias_pattern.search(ch.text))
         if mentions <= 1:
             issues.append(f"Personagem central pouco presente nos 10 capítulos mais recentes: {canonical} ({mentions}/10)")
 
@@ -126,16 +128,30 @@ def bestseller_score(chapters: list[Chapter]) -> tuple[float, list[str]]:
         return 0.0, ["Sem capítulos para avaliar."]
 
     recent = chapters[-12:]
-    word_counts = [len(re.findall(r"\b\w+\b", ch.text)) for ch in recent]
-    avg_words = mean(word_counts)
-
+    # Optimization: Combine regex searches and word counting
+    word_pattern = re.compile(r"\b\w+\b")
     sensory_tokens = ("chuva", "neon", "sombra", "sangue", "metal", "eco", "frio", "silêncio")
-    sensory_density = mean(
-        sum(ch.text.lower().count(tok) for tok in sensory_tokens) / max(len(ch.text.split()), 1)
-        for ch in recent
-    )
 
-    cliffhanger_count = sum(1 for ch in recent if re.search(r"\?$|\.$|!$", ch.text.strip()))
+    total_words = 0
+    total_sensory_tokens = 0
+    cliffhanger_count = 0
+    densities = []
+
+    for ch in recent:
+        text = ch.text
+        words = word_pattern.findall(text)
+        word_count = len(words)
+        total_words += word_count
+
+        lower_text = text.lower()
+        sensory_count = sum(lower_text.count(tok) for tok in sensory_tokens)
+        densities.append(sensory_count / max(word_count, 1))
+
+        if text.strip() and text.strip()[-1] in ('?', '.', '!'):
+            cliffhanger_count += 1
+
+    avg_words = total_words / len(recent)
+    sensory_density = mean(densities)
 
     score = 0.0
     if avg_words >= 1400:

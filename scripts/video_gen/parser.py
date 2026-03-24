@@ -2,6 +2,8 @@ import re
 from pathlib import Path
 from typing import Dict
 
+# Compile regex once for performance
+NUMERO_REGEX = re.compile(r'capitulo-(\d+)')
 
 class ChapterParser:
     """Extracts metadata and content from markdown chapters."""
@@ -25,12 +27,13 @@ class ChapterParser:
         
         # Extract frontmatter
         image_path = None
-        if lines[0].strip() == '---':
+        if lines and lines[0].strip() == '---':
             for i, line in enumerate(lines[1:], 1):
-                if line.strip() == '---':
+                line_strip = line.strip()
+                if line_strip == '---':
                     break
-                if line.startswith('image:'):
-                    image_path = line.split(':', 1)[1].strip()
+                if line_strip.startswith('image:'):
+                    image_path = line_strip.split(':', 1)[1].strip()
         
         # Extract title (first # heading)
         titulo = "Capítulo"
@@ -40,8 +43,8 @@ class ChapterParser:
                 break
         
         # Extract chapter number from filename
-        numero = re.search(r'capitulo-(\d+)', chapter_path.name)
-        numero = numero.group(1) if numero else "0"
+        numero_match = NUMERO_REGEX.search(chapter_path.name)
+        numero = numero_match.group(1) if numero_match else "0"
         
         # Extract text (skip frontmatter and title)
         texto_lines = []
@@ -49,7 +52,8 @@ class ChapterParser:
         skip_title = False
         
         for line in lines:
-            if line.strip() == '---':
+            line_strip = line.strip()
+            if line_strip == '---':
                 skip_frontmatter = not skip_frontmatter
                 continue
             if skip_frontmatter:
@@ -57,7 +61,7 @@ class ChapterParser:
             if line.startswith('# ') and not skip_title:
                 skip_title = True
                 continue
-            if line.strip():
+            if line_strip:
                 texto_lines.append(line)
         
         texto = '\n'.join(texto_lines).strip()
