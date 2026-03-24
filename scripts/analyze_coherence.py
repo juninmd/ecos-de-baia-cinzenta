@@ -133,7 +133,6 @@ def bestseller_score(chapters: list[Chapter]) -> tuple[float, list[str]]:
     sensory_tokens = ("chuva", "neon", "sombra", "sangue", "metal", "eco", "frio", "silêncio")
 
     total_words = 0
-    total_sensory_tokens = 0
     cliffhanger_count = 0
     densities = []
 
