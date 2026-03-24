@@ -6,7 +6,7 @@ Currently, only the main branch (`main`) is supported with security updates. We 
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability within this project, please report it via a private GitHub issue or email the maintainer. We take all security vulnerabilities seriously and will work to address them promptly.
+If you discover a security vulnerability within this project, please report it to us privately using GitHub's private vulnerability reporting feature, which can be found under the repository's "Security" tab. If this feature is not available, please email the maintainer. We take all security vulnerabilities seriously and will work to address them promptly.
 
 **Please DO NOT open a public issue for security vulnerabilities.**
 
