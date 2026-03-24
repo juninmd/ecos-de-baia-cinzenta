@@ -4,4 +4,4 @@ transformers
 accelerate
 torch
 typer<0.25.0
-click<8.2
+click<8.4
