@@ -103,7 +103,7 @@ Gabriel agarrou o ex-parceiro pelo colarinho, arrastando-o pelo chão sujo com u
 
 — Você é minha testemunha, desgraçado. Você só morre quando eu deixar. E eu prometo que vai doer mais que isso.
 
-Gabriel disparou contra uma tubulação de vapor na parede oposta. O jato de pressão explodiu com um silvo ensurdecedor, criando uma cortina de fumaça branca e quente entre eles e as máquinas assassinas.
+Gabriel disparou contra uma tubulação de vapor na parede oposta. O jato de pressão explodiu com um silvo ensurdecedor, criando uma cortina de vapor denso e escaldante entre eles e as máquinas assassinas.
 
 Eles mergulharam na escuridão do túnel de esgoto, deslizando na lama fétida, enquanto atrás deles, o zumbido mecânico das *Vespas* mudava de tom, ativando o modo de perseguição térmica.
 
