@@ -41,4 +41,12 @@ docs/public/icons/temp/
 keystore.properties
 venv_fix/
 .venv
+# Environment and secrets
+.env.local
+.env.*.local
+*.key
+*.pem
+*.p12
+secrets/
+config/secrets.yml
 .env
