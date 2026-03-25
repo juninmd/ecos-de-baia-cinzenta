@@ -59,19 +59,13 @@ self.addEventListener('fetch', (event) => {
       } catch (error) {
         // Network failed, try cache
         const cachedResponse = await caches.match(event.request);
-        if (cachedResponse) {
-          return cachedResponse;
-        }
 
-        // Return offline page for navigation requests
-        if (event.request.mode === 'navigate') {
-          const offlinePage = await caches.match(OFFLINE_URL);
-          if (offlinePage) {
-            return offlinePage;
-          }
-        }
+        // Return offline page for navigation requests if cache misses
+        const offlineResponse = event.request.mode === 'navigate'
+          ? await caches.match(OFFLINE_URL)
+          : null;
 
-        return new Response('Offline', { status: 503 });
+        return cachedResponse || offlineResponse || new Response('Offline', { status: 503 });
       }
     })()
   );
