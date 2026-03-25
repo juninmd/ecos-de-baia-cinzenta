@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   title: "Ecos de Baía Cinzenta",
   description: "Um thriller noir cyberpunk em uma cidade onde a chuva nunca para.",
   head: [

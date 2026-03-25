@@ -1,4 +1,5 @@
 import DefaultTheme from 'vitepress/theme'
+import type { Theme, EnhanceAppContext } from 'vitepress'
 import Layout from './Layout.vue'
 import './style.css'
 import mediumZoom from 'medium-zoom'
@@ -8,7 +9,7 @@ import { useRoute } from 'vitepress'
 export default {
   ...DefaultTheme,
   Layout,
-  enhanceApp({ app }) {
+  enhanceApp({ app }: EnhanceAppContext) {
     // Custom app enhancements can go here
   },
   setup() {
@@ -25,4 +26,4 @@ export default {
       () => nextTick(() => initZoom())
     )
   }
-}
+} satisfies Theme
