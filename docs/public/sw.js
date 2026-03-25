@@ -37,6 +37,29 @@ self.addEventListener('activate', (event) => {
   self.clients.claim();
 });
 
+async function handleFetch(request) {
+  try {
+    const response = await fetch(request);
+
+    // Clone response to cache it
+    const responseToCache = response.clone();
+    const cache = await caches.open(CACHE_NAME);
+    cache.put(request, responseToCache);
+
+    return response;
+  } catch (error) {
+    // Network failed, try cache
+    const cachedResponse = await caches.match(request);
+
+    // Return offline page for navigation requests if cache misses
+    const offlineResponse = request.mode === 'navigate'
+      ? await caches.match(OFFLINE_URL)
+      : null;
+
+    return cachedResponse || offlineResponse || new Response('Offline', { status: 503 });
+  }
+}
+
 // Fetch event - network first, fallback to cache
 self.addEventListener('fetch', (event) => {
   // Skip non-GET requests
@@ -45,28 +68,5 @@ self.addEventListener('fetch', (event) => {
   // Skip chrome extensions
   if (event.request.url.startsWith('chrome-extension://')) return;
 
-  event.respondWith(
-    (async () => {
-      try {
-        const response = await fetch(event.request);
-
-        // Clone response to cache it
-        const responseToCache = response.clone();
-        const cache = await caches.open(CACHE_NAME);
-        cache.put(event.request, responseToCache);
-
-        return response;
-      } catch (error) {
-        // Network failed, try cache
-        const cachedResponse = await caches.match(event.request);
-
-        // Return offline page for navigation requests if cache misses
-        const offlineResponse = event.request.mode === 'navigate'
-          ? await caches.match(OFFLINE_URL)
-          : null;
-
-        return cachedResponse || offlineResponse || new Response('Offline', { status: 503 });
-      }
-    })()
-  );
+  event.respondWith(handleFetch(event.request));
 });

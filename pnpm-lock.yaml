@@ -14,22 +14,22 @@ importers:
     devDependencies:
       '@semantic-release/changelog':
         specifier: ^6.0.3
-        version: 6.0.3(semantic-release@23.1.1(typescript@6.0.2))
+        version: 6.0.3(semantic-release@23.1.1(typescript@5.9.3))
       '@semantic-release/git':
         specifier: ^10.0.1
-        version: 10.0.1(semantic-release@23.1.1(typescript@6.0.2))
+        version: 10.0.1(semantic-release@23.1.1(typescript@5.9.3))
       '@types/node':
-        specifier: ^25.5.0
-        version: 25.5.0
+        specifier: ^20.19.37
+        version: 20.19.37
       semantic-release:
         specifier: ^23.1.1
-        version: 23.1.1(typescript@6.0.2)
+        version: 23.1.1(typescript@5.9.3)
       typescript:
-        specifier: ^6.0.2
-        version: 6.0.2
+        specifier: ^5.9.3
+        version: 5.9.3
       vitepress:
         specifier: ^1.6.4
-        version: 1.6.4(@algolia/client-search@5.49.2)(@types/node@25.5.0)(postcss@8.5.8)(search-insights@2.17.3)(typescript@6.0.2)
+        version: 1.6.4(@algolia/client-search@5.49.2)(@types/node@20.19.37)(postcss@8.5.8)(search-insights@2.17.3)(typescript@5.9.3)
     optionalDependencies:
       '@capacitor/android':
         specifier: ^6.2.1
@@ -687,8 +687,8 @@ packages:
   '@types/mdurl@2.0.0':
     resolution: {integrity: sha512-RGdgjQUZba5p6QEFAVx2OGb8rQDL/cPRG7GiedRzMcJ1tYnUANBncjbSB1NRGwbvjcPeikRABz2nshyPk1bhWg==}
 
-  '@types/node@25.5.0':
-    resolution: {integrity: sha512-jp2P3tQMSxWugkCUKLRPVUpGaL5MVFwF8RDuSRztfwgN1wmqJeMSbKlnEtQqU8UrhTmzEmZdu2I6v2dpp7XIxw==}
+  '@types/node@20.19.37':
+    resolution: {integrity: sha512-8kzdPJ3FsNsVIurqBs7oodNnCEVbni9yUEkaHbgptDACOPW04jimGagZ51E6+lXUwJjgnBw+hyko/lkFWCldqw==}
 
   '@types/normalize-package-data@2.4.4':
     resolution: {integrity: sha512-37i+OaWTh9qeK4LSHPsyRC7NahnGotNuZvjLSgcPzblpHB3rrCJxAOgI5gCdKm7coonsaX1Of0ILiTcnZjbfxA==}
@@ -2177,8 +2177,8 @@ packages:
     resolution: {integrity: sha512-TeTSQ6H5YHvpqVwBRcnLDCBnDOHWYu7IvGbHT6N8AOymcr9PJGjc1GTtiWZTYg0NCgYwvnYWEkVChQAr9bjfwA==}
     engines: {node: '>=16'}
 
-  typescript@6.0.2:
-    resolution: {integrity: sha512-bGdAIrZ0wiGDo5l8c++HWtbaNCWTS4UTv7RaTH/ThVIgjkveJt83m74bBHMJkuCbslY8ixgLBVZJIOiQlQTjfQ==}
+  typescript@5.9.3:
+    resolution: {integrity: sha512-jl1vZzPDinLr9eUt3J/t7V6FgNEw9QjvBPdysz9KfQDD41fQrC2Y4vKQdiaUpFT4bXlb1RHhLpp8wtm6M5TgSw==}
     engines: {node: '>=14.17'}
     hasBin: true
 
@@ -2187,8 +2187,8 @@ packages:
     engines: {node: '>=0.8.0'}
     hasBin: true
 
-  undici-types@7.18.2:
-    resolution: {integrity: sha512-AsuCzffGHJybSaRrmr5eHr81mwJU3kjw6M+uprWvCXiNeN9SOGwQ3Jn8jb8m3Z6izVgknn1R0FTCEAP2QrLY/w==}
+  undici-types@6.21.0:
+    resolution: {integrity: sha512-iwDZqg0QAGrg9Rav5H4n0M64c3mkR59cJ6wQp+7C4nI0gsmExaedaYLNO44eT4AtBBwjbTiGPMlt2Md0T9H9JQ==}
 
   unicode-emoji-modifier-base@1.0.0:
     resolution: {integrity: sha512-yLSH4py7oFH3oG/9K+XWrz1pSi3dfUrWEnInbxMfArOfc1+33BlGPQtLsOYwvdMy11AwUBetYuaRxSPqgkq+8g==}
@@ -2908,15 +2908,15 @@ snapshots:
 
   '@sec-ant/readable-stream@0.4.1': {}
 
-  '@semantic-release/changelog@6.0.3(semantic-release@23.1.1(typescript@6.0.2))':
+  '@semantic-release/changelog@6.0.3(semantic-release@23.1.1(typescript@5.9.3))':
     dependencies:
       '@semantic-release/error': 3.0.0
       aggregate-error: 3.1.0
       fs-extra: 11.3.4
       lodash: 4.17.23
-      semantic-release: 23.1.1(typescript@6.0.2)
+      semantic-release: 23.1.1(typescript@5.9.3)
 
-  '@semantic-release/commit-analyzer@12.0.0(semantic-release@23.1.1(typescript@6.0.2))':
+  '@semantic-release/commit-analyzer@12.0.0(semantic-release@23.1.1(typescript@5.9.3))':
     dependencies:
       conventional-changelog-angular: 7.0.0
       conventional-commits-filter: 4.0.0
@@ -2925,7 +2925,7 @@ snapshots:
       import-from-esm: 1.3.4
       lodash-es: 4.17.23
       micromatch: 4.0.8
-      semantic-release: 23.1.1(typescript@6.0.2)
+      semantic-release: 23.1.1(typescript@5.9.3)
     transitivePeerDependencies:
       - supports-color
 
@@ -2933,7 +2933,7 @@ snapshots:
 
   '@semantic-release/error@4.0.0': {}
 
-  '@semantic-release/git@10.0.1(semantic-release@23.1.1(typescript@6.0.2))':
+  '@semantic-release/git@10.0.1(semantic-release@23.1.1(typescript@5.9.3))':
     dependencies:
       '@semantic-release/error': 3.0.0
       aggregate-error: 3.1.0
@@ -2943,11 +2943,11 @@ snapshots:
       lodash: 4.17.23
       micromatch: 4.0.8
       p-reduce: 2.1.0
-      semantic-release: 23.1.1(typescript@6.0.2)
+      semantic-release: 23.1.1(typescript@5.9.3)
     transitivePeerDependencies:
       - supports-color
 
-  '@semantic-release/github@10.3.5(semantic-release@23.1.1(typescript@6.0.2))':
+  '@semantic-release/github@10.3.5(semantic-release@23.1.1(typescript@5.9.3))':
     dependencies:
       '@octokit/core': 6.1.6
       '@octokit/plugin-paginate-rest': 11.6.0(@octokit/core@6.1.6)
@@ -2964,12 +2964,12 @@ snapshots:
       lodash-es: 4.17.23
       mime: 4.1.0
       p-filter: 4.1.0
-      semantic-release: 23.1.1(typescript@6.0.2)
+      semantic-release: 23.1.1(typescript@5.9.3)
       url-join: 5.0.0
     transitivePeerDependencies:
       - supports-color
 
-  '@semantic-release/npm@12.0.2(semantic-release@23.1.1(typescript@6.0.2))':
+  '@semantic-release/npm@12.0.2(semantic-release@23.1.1(typescript@5.9.3))':
     dependencies:
       '@semantic-release/error': 4.0.0
       aggregate-error: 5.0.0
@@ -2982,11 +2982,11 @@ snapshots:
       rc: 1.2.8
       read-pkg: 9.0.1
       registry-auth-token: 5.1.1
-      semantic-release: 23.1.1(typescript@6.0.2)
+      semantic-release: 23.1.1(typescript@5.9.3)
       semver: 7.7.4
       tempy: 3.2.0
 
-  '@semantic-release/release-notes-generator@13.0.0(semantic-release@23.1.1(typescript@6.0.2))':
+  '@semantic-release/release-notes-generator@13.0.0(semantic-release@23.1.1(typescript@5.9.3))':
     dependencies:
       conventional-changelog-angular: 7.0.0
       conventional-changelog-writer: 7.0.1
@@ -2998,7 +2998,7 @@ snapshots:
       into-stream: 7.0.0
       lodash-es: 4.17.23
       read-pkg-up: 11.0.0
-      semantic-release: 23.1.1(typescript@6.0.2)
+      semantic-release: 23.1.1(typescript@5.9.3)
     transitivePeerDependencies:
       - supports-color
 
@@ -3052,7 +3052,7 @@ snapshots:
 
   '@types/fs-extra@8.1.5':
     dependencies:
-      '@types/node': 25.5.0
+      '@types/node': 20.19.37
     optional: true
 
   '@types/hast@3.0.4':
@@ -3072,9 +3072,9 @@ snapshots:
 
   '@types/mdurl@2.0.0': {}
 
-  '@types/node@25.5.0':
+  '@types/node@20.19.37':
     dependencies:
-      undici-types: 7.18.2
+      undici-types: 6.21.0
 
   '@types/normalize-package-data@2.4.4': {}
 
@@ -3087,10 +3087,10 @@ snapshots:
 
   '@ungap/structured-clone@1.3.0': {}
 
-  '@vitejs/plugin-vue@5.2.4(vite@5.4.21(@types/node@25.5.0))(vue@3.5.30(typescript@6.0.2))':
+  '@vitejs/plugin-vue@5.2.4(vite@5.4.21(@types/node@20.19.37))(vue@3.5.30(typescript@5.9.3))':
     dependencies:
-      vite: 5.4.21(@types/node@25.5.0)
-      vue: 3.5.30(typescript@6.0.2)
+      vite: 5.4.21(@types/node@20.19.37)
+      vue: 3.5.30(typescript@5.9.3)
 
   '@vue/compiler-core@3.5.30':
     dependencies:
@@ -3156,28 +3156,28 @@ snapshots:
       '@vue/shared': 3.5.30
       csstype: 3.2.3
 
-  '@vue/server-renderer@3.5.30(vue@3.5.30(typescript@6.0.2))':
+  '@vue/server-renderer@3.5.30(vue@3.5.30(typescript@5.9.3))':
     dependencies:
       '@vue/compiler-ssr': 3.5.30
       '@vue/shared': 3.5.30
-      vue: 3.5.30(typescript@6.0.2)
+      vue: 3.5.30(typescript@5.9.3)
 
   '@vue/shared@3.5.30': {}
 
-  '@vueuse/core@12.8.2(typescript@6.0.2)':
+  '@vueuse/core@12.8.2(typescript@5.9.3)':
     dependencies:
       '@types/web-bluetooth': 0.0.21
       '@vueuse/metadata': 12.8.2
-      '@vueuse/shared': 12.8.2(typescript@6.0.2)
-      vue: 3.5.30(typescript@6.0.2)
+      '@vueuse/shared': 12.8.2(typescript@5.9.3)
+      vue: 3.5.30(typescript@5.9.3)
     transitivePeerDependencies:
       - typescript
 
-  '@vueuse/integrations@12.8.2(focus-trap@7.8.0)(typescript@6.0.2)':
+  '@vueuse/integrations@12.8.2(focus-trap@7.8.0)(typescript@5.9.3)':
     dependencies:
-      '@vueuse/core': 12.8.2(typescript@6.0.2)
-      '@vueuse/shared': 12.8.2(typescript@6.0.2)
-      vue: 3.5.30(typescript@6.0.2)
+      '@vueuse/core': 12.8.2(typescript@5.9.3)
+      '@vueuse/shared': 12.8.2(typescript@5.9.3)
+      vue: 3.5.30(typescript@5.9.3)
     optionalDependencies:
       focus-trap: 7.8.0
     transitivePeerDependencies:
@@ -3185,9 +3185,9 @@ snapshots:
 
   '@vueuse/metadata@12.8.2': {}
 
-  '@vueuse/shared@12.8.2(typescript@6.0.2)':
+  '@vueuse/shared@12.8.2(typescript@5.9.3)':
     dependencies:
-      vue: 3.5.30(typescript@6.0.2)
+      vue: 3.5.30(typescript@5.9.3)
     transitivePeerDependencies:
       - typescript
 
@@ -3406,14 +3406,14 @@ snapshots:
 
   core-util-is@1.0.3: {}
 
-  cosmiconfig@9.0.1(typescript@6.0.2):
+  cosmiconfig@9.0.1(typescript@5.9.3):
     dependencies:
       env-paths: 2.2.1
       import-fresh: 3.3.1
       js-yaml: 4.1.1
       parse-json: 5.2.0
     optionalDependencies:
-      typescript: 6.0.2
+      typescript: 5.9.3
 
   cross-spawn@7.0.6:
     dependencies:
@@ -4322,15 +4322,15 @@ snapshots:
 
   search-insights@2.17.3: {}
 
-  semantic-release@23.1.1(typescript@6.0.2):
+  semantic-release@23.1.1(typescript@5.9.3):
     dependencies:
-      '@semantic-release/commit-analyzer': 12.0.0(semantic-release@23.1.1(typescript@6.0.2))
+      '@semantic-release/commit-analyzer': 12.0.0(semantic-release@23.1.1(typescript@5.9.3))
       '@semantic-release/error': 4.0.0
-      '@semantic-release/github': 10.3.5(semantic-release@23.1.1(typescript@6.0.2))
-      '@semantic-release/npm': 12.0.2(semantic-release@23.1.1(typescript@6.0.2))
-      '@semantic-release/release-notes-generator': 13.0.0(semantic-release@23.1.1(typescript@6.0.2))
+      '@semantic-release/github': 10.3.5(semantic-release@23.1.1(typescript@5.9.3))
+      '@semantic-release/npm': 12.0.2(semantic-release@23.1.1(typescript@5.9.3))
+      '@semantic-release/release-notes-generator': 13.0.0(semantic-release@23.1.1(typescript@5.9.3))
       aggregate-error: 5.0.0
-      cosmiconfig: 9.0.1(typescript@6.0.2)
+      cosmiconfig: 9.0.1(typescript@5.9.3)
       debug: 4.4.3
       env-ci: 11.2.0
       execa: 9.6.1
@@ -4567,12 +4567,12 @@ snapshots:
 
   type-fest@4.41.0: {}
 
-  typescript@6.0.2: {}
+  typescript@5.9.3: {}
 
   uglify-js@3.19.3:
     optional: true
 
-  undici-types@7.18.2: {}
+  undici-types@6.21.0: {}
 
   unicode-emoji-modifier-base@1.0.0: {}
 
@@ -4633,16 +4633,16 @@ snapshots:
       '@types/unist': 3.0.3
       vfile-message: 4.0.3
 
-  vite@5.4.21(@types/node@25.5.0):
+  vite@5.4.21(@types/node@20.19.37):
     dependencies:
       esbuild: 0.21.5
       postcss: 8.5.8
       rollup: 4.60.0
     optionalDependencies:
-      '@types/node': 25.5.0
+      '@types/node': 20.19.37
       fsevents: 2.3.3
 
-  vitepress@1.6.4(@algolia/client-search@5.49.2)(@types/node@25.5.0)(postcss@8.5.8)(search-insights@2.17.3)(typescript@6.0.2):
+  vitepress@1.6.4(@algolia/client-search@5.49.2)(@types/node@20.19.37)(postcss@8.5.8)(search-insights@2.17.3)(typescript@5.9.3):
     dependencies:
       '@docsearch/css': 3.8.2
       '@docsearch/js': 3.8.2(@algolia/client-search@5.49.2)(search-insights@2.17.3)
@@ -4651,17 +4651,17 @@ snapshots:
       '@shikijs/transformers': 2.5.0
       '@shikijs/types': 2.5.0
       '@types/markdown-it': 14.1.2
-      '@vitejs/plugin-vue': 5.2.4(vite@5.4.21(@types/node@25.5.0))(vue@3.5.30(typescript@6.0.2))
+      '@vitejs/plugin-vue': 5.2.4(vite@5.4.21(@types/node@20.19.37))(vue@3.5.30(typescript@5.9.3))
       '@vue/devtools-api': 7.7.9
       '@vue/shared': 3.5.30
-      '@vueuse/core': 12.8.2(typescript@6.0.2)
-      '@vueuse/integrations': 12.8.2(focus-trap@7.8.0)(typescript@6.0.2)
+      '@vueuse/core': 12.8.2(typescript@5.9.3)
+      '@vueuse/integrations': 12.8.2(focus-trap@7.8.0)(typescript@5.9.3)
       focus-trap: 7.8.0
       mark.js: 8.11.1
       minisearch: 7.2.0
       shiki: 2.5.0
-      vite: 5.4.21(@types/node@25.5.0)
-      vue: 3.5.30(typescript@6.0.2)
+      vite: 5.4.21(@types/node@20.19.37)
+      vue: 3.5.30(typescript@5.9.3)
     optionalDependencies:
       postcss: 8.5.8
     transitivePeerDependencies:
@@ -4691,15 +4691,15 @@ snapshots:
       - typescript
       - universal-cookie
 
-  vue@3.5.30(typescript@6.0.2):
+  vue@3.5.30(typescript@5.9.3):
     dependencies:
       '@vue/compiler-dom': 3.5.30
       '@vue/compiler-sfc': 3.5.30
       '@vue/runtime-dom': 3.5.30
-      '@vue/server-renderer': 3.5.30(vue@3.5.30(typescript@6.0.2))
+      '@vue/server-renderer': 3.5.30(vue@3.5.30(typescript@5.9.3))
       '@vue/shared': 3.5.30
     optionalDependencies:
-      typescript: 6.0.2
+      typescript: 5.9.3
 
   web-worker@1.5.0: {}
 
