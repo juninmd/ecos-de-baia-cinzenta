@@ -41,19 +41,23 @@ async function handleFetch(request) {
   try {
     const response = await fetch(request);
     const responseToCache = response.clone();
-    const cache = await caches.open(CACHE_NAME);
-    await cache.put(request, responseToCache);
+
+    // Perform caching asynchronously without blocking the return
+    // or triggering the main catch block if caching fails.
+    (async () => {
+      try {
+        const cache = await caches.open(CACHE_NAME);
+        await cache.put(request, responseToCache);
+      } catch (cacheError) {
+        console.error('Failed to cache response', cacheError);
+      }
+    })();
+
     return response;
   } catch (error) {
     const cachedResponse = await caches.match(request);
-    if (cachedResponse) {
-      return cachedResponse;
-    }
-    if (request.mode === 'navigate') {
-      const offlineResponse = await caches.match(OFFLINE_URL);
-      return offlineResponse || new Response('Offline', { status: 503 });
-    }
-    return new Response('Offline', { status: 503 });
+    const offlineResponse = request.mode === 'navigate' ? await caches.match(OFFLINE_URL) : null;
+    return cachedResponse || offlineResponse || new Response('Offline', { status: 503 });
   }
 }
 
