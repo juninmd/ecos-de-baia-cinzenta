@@ -16,4 +16,18 @@ Este arquivo mantém o controle de progresso sobre o processo de revisão, adequ
 
 ---
 
+## Lote 3: Capítulos 7 a 9
+- [x] **Capítulo 7: O Fim do Silêncio** - Revisor sem problemas de lore encontrados. Arquivo de análise criado.
+- [x] **Capítulo 8: Ressaca Digital** - Revisor sem problemas de lore encontrados. Gabo lida com dor e álcool, não fuma. Arquivo de análise criado.
+- [x] **Capítulo 9: Feed Infinito** - Revisor sem problemas de lore encontrados. Gás químico, não fumaça de cigarro. Arquivo de análise criado.
+
+---
+
+## Lote 4: Capítulos 10 a 12
+- [x] **Capítulo 10: A Fábrica de Sorrisos** - Revisor sem problemas de lore encontrados. Sem inconsistências com fumo. Arquivo de análise criado.
+- [x] **Capítulo 11: Filtros de Realidade** - Revisor sem problemas de lore encontrados. Cheiros industriais apenas. Arquivo de análise criado.
+- [x] **Capítulo 12: Cancelamento** - Revisor sem problemas de lore encontrados. Bunker esterilizado, sem cigarros. Arquivo de análise criado.
+
+---
+
 *Lotes futuros serão atualizados abaixo conforme a instrução.*
