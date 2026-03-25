@@ -58,8 +58,10 @@ async function handleFetch(request) {
     return response;
   } catch (error) {
     const cachedResponse = await caches.match(request);
-    const offlineResponse = request.mode === 'navigate' ? await caches.match(OFFLINE_URL) : null;
-    return cachedResponse || offlineResponse || new Response('Offline', { status: 503 });
+    const offlineResponse = await caches.match(OFFLINE_URL);
+    const isNavigate = request.mode === 'navigate';
+
+    return cachedResponse || (isNavigate && offlineResponse) || new Response('Offline', { status: 503 });
   }
 }
 
