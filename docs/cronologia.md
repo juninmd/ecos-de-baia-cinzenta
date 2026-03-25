@@ -114,7 +114,7 @@ A era da reconstrução autoritária.
 
 | Personagem | Status | Localização | Estado Físico/Mental |
 | :--- | :--- | :--- | :--- |
-| **Gabo** | Líder / Suporte / Mortalmente Ferido | Câmara de Engrenagens (Subnível 3.0) | Ferimentos no abdômen e perna. Sofreu novos cortes e lesões de impacto destruindo o sentinela. Mantém a sanidade através do autoflagelo e controle da dor para combater intensa alucinação de fumaça. |
+| **Gabo** | Líder / Suporte / Mortalmente Ferido | Câmara de Engrenagens (Subnível 3.0) | Ferimentos graves (amputações, abdômen, perna), além de novos cortes e lesões de impacto. Mantém a sanidade através da dor para combater alucinações de fumaça. |
 | **Valéria** | Hacker / Exausta | Firewall Mecânico (Subnível 3.0) | Fadiga extrema pós-purga; observa de forma desoladora as atitudes kamikazes de Gabo para manter a sobrevivência do grupo. |
 | **Aria** | Danificada / Letal | Firewall Mecânico (Subnível 3.0) | Puramente mecanicista. Aceitou a irracionalidade tática de usar Gabo como alavanca humana, mantendo seu prognóstico letal atualizado. |
 | **Rangel** | Falecido | Necrópole (Subnível 6.0 - Setor de Purga) | Corpo abandonado no Subnível 6.0. |
