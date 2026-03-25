@@ -11,31 +11,40 @@ const PRECACHE_ASSETS = [
   '/manifest.json'
 ];
 
+async function cacheAssets() {
+  const cache = await caches.open(CACHE_NAME);
+  await cache.addAll(PRECACHE_ASSETS);
+}
+
 // Install event - cache essential assets
 self.addEventListener('install', (event) => {
-  event.waitUntil(
-    (async () => {
-      const cache = await caches.open(CACHE_NAME);
-      await cache.addAll(PRECACHE_ASSETS);
-    })()
-  );
+  event.waitUntil(cacheAssets());
   self.skipWaiting();
 });
 
+async function clearOldCaches() {
+  const cacheNames = await caches.keys();
+  await Promise.all(
+    cacheNames
+      .filter((cacheName) => cacheName !== CACHE_NAME)
+      .map((cacheName) => caches.delete(cacheName))
+  );
+}
+
 // Activate event - clean old caches
 self.addEventListener('activate', (event) => {
-  event.waitUntil(
-    (async () => {
-      const cacheNames = await caches.keys();
-      await Promise.all(
-        cacheNames
-          .filter((cacheName) => cacheName !== CACHE_NAME)
-          .map((cacheName) => caches.delete(cacheName))
-      );
-    })()
-  );
+  event.waitUntil(clearOldCaches());
   self.clients.claim();
 });
+
+async function cacheResponse(request, response) {
+  try {
+    const cache = await caches.open(CACHE_NAME);
+    await cache.put(request, response);
+  } catch (cacheError) {
+    console.error('Failed to cache response', cacheError);
+  }
+}
 
 async function handleFetch(request) {
   try {
@@ -44,14 +53,7 @@ async function handleFetch(request) {
 
     // Perform caching asynchronously without blocking the return
     // or triggering the main catch block if caching fails.
-    (async () => {
-      try {
-        const cache = await caches.open(CACHE_NAME);
-        await cache.put(request, responseToCache);
-      } catch (cacheError) {
-        console.error('Failed to cache response', cacheError);
-      }
-    })();
+    cacheResponse(request, responseToCache);
 
     return response;
   } catch (error) {
