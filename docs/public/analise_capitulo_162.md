@@ -31,7 +31,7 @@ As motivações se mantêm orgânicas em relação ao esgotamento do fim do cap�
    - Não há fumantes vivos. No entanto, o trauma e a repulsa visceral foram manifestados por intensas alucinações olfativas e fobia induzida pelo confinamento e pelo pânico (sintomas de seu esgotamento). A repulsa é tão extrema que ele bate os cotocos cauterizados no metal e se corta em ferrugem pura para banir a fumaça de sua mente, demonstrando controle absoluto através da dor.
 
 2. **"O plot twist deste capítulo invalida algo estabelecido nos capítulos anteriores?"**
-   - Não há invalidações. O firewall mecânico continua o fechamento lógico estabelecido por Aria no capítulo anterior. O Taxidermista continuar manipulando os odores para provocar as fraquezas emocionais dos inimigos corrobora com seu histórico em "Servidores de Carne e Silêncio".
+   - Não há invalidações. O firewall mecânico continua o fechamento lógico estabelecido por Aria no capítulo anterior. O Taxidermista continuar manipulando os odores para provocar as fraquezas emocionais dos inimigos corrobora com seu histórico em "Servidores de Carne e Silício".
 
 3. **"O resumo da lore foi atualizado com os novos eventos?"**
    - Sim, a cronologia foi atualizada com os eventos do avanço pelo firewall do Subnível 3.0.
