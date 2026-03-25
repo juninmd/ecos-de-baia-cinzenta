@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "strict": true,
+    "jsx": "preserve",
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "lib": ["esnext", "dom", "dom.iterable"]
+  },
+  "include": ["docs/**/*.ts", "docs/**/*.vue", "scripts/**/*.ts"],
+  "exclude": ["node_modules", "dist"]
+}
