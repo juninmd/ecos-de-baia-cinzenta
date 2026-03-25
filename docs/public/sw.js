@@ -49,10 +49,12 @@ self.addEventListener('fetch', (event) => {
     (async () => {
       try {
         const response = await fetch(event.request);
+
         // Clone response to cache it
         const responseToCache = response.clone();
         const cache = await caches.open(CACHE_NAME);
         cache.put(event.request, responseToCache);
+
         return response;
       } catch (error) {
         // Network failed, try cache
@@ -60,10 +62,15 @@ self.addEventListener('fetch', (event) => {
         if (cachedResponse) {
           return cachedResponse;
         }
+
         // Return offline page for navigation requests
         if (event.request.mode === 'navigate') {
-          return caches.match(OFFLINE_URL);
+          const offlinePage = await caches.match(OFFLINE_URL);
+          if (offlinePage) {
+            return offlinePage;
+          }
         }
+
         return new Response('Offline', { status: 503 });
       }
     })()
