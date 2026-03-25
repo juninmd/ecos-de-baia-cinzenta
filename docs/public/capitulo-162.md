@@ -60,7 +60,7 @@ Ele não estava sozinho.
 
 Apoiado e enraizado na grande alavanca de liberação manual da porta — o objetivo principal — estava um apêndice grotesco. Uma massa de músculos vermelhos entrelaçada com fios de cobre e sensores ópticos. Era um sentinela biológico em estágio de casulo. As raízes do parasita prendiam a alavanca firmemente.
 
-A poça de carne reagiu à aproximação de Gabo. Um sensor óptico do tamanho de um punho se abriu no centro da massa de músculos, acompanhado por um som úmido e asqueroso. Fios de cobre começaram a se esticar como tentáculos defensivos. O cheiro de podridão e cigarros velhos (uma ironia tática da mente corrompida do Taxidermista) encheu o ar.
+A poça de carne reagiu à aproximação de Gabo. Um sensor óptico do tamanho de um punho se abriu no centro da massa de músculos, acompanhado por um som úmido e asqueroso. Fios de cobre começaram a se esticar como tentáculos defensivos. O cheiro de podridão e cigarros velhos encheu o ar.
 
 Gabo não hesitou. Ele não possuía mãos para desarmar. Ele não possuía armas para atirar.
 
