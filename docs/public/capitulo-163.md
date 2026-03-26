@@ -5,15 +5,15 @@ location: "Fosso do Elevador de Manutenção (Subnível 3.0 para 2.0)"
 characters: ["Gabo", "Valéria", "Aria"]
 ---
 
-# Metadados
+## Metadados
 - **Título:** O Fosso de Aço
 - **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
 - **Localização:** Fosso do Elevador de Manutenção (Subnível 3.0 para 2.0)
 - **Personagens Presentes:** Gabo, Valéria, Aria (Reboot)
 
-# Narrativa
+## Narrativa
 
-# Capítulo 163: O Fosso de Aço
+## Capítulo 163: O Fosso de Aço
 
 O som das engrenagens cegas morrendo era um lamento metálico que ecoava pelo corredor de concreto. A imensa porta do firewall recuara completamente, revelando a escuridão absoluta do poço do elevador de manutenção principal.
 
