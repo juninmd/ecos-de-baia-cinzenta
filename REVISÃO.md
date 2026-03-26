@@ -30,4 +30,11 @@ Este arquivo mantém o controle de progresso sobre o processo de revisão, adequ
 
 ---
 
+## Lote 5: Capítulos 13 a 15
+- [x] **Capítulo 13: Shadowban** - Revisor sem problemas de lore encontrados. Arquivo de análise criado.
+- [x] **Capítulo 14: Caçada ao Invisível** - Revisor sem problemas de lore encontrados. Sem inconsistências com fumo. Arquivo de análise criado.
+- [x] **Capítulo 15: Protocolo de Extermínio** - Removida menção de "fumaça de segunda mão" para manter aversão visceral do protagonista a fumaça de qualquer tipo. Arquivo de análise criado.
+
+---
+
 *Lotes futuros serão atualizados abaixo conforme a instrução.*

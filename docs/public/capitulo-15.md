@@ -5,7 +5,7 @@ image: /capitulo_15.jpg
 
 O ar no Distrito 4 tinha gosto de metal enferrujado e chuva velha. Eles corriam pelo labirinto de fábricas mortas, o som de seus passos ecoando no concreto úmido como batidas de um coração arrítmico.
 
-Gabriel sentia cada fôlego queimar. Seus pulmões, castigados por anos de fumaça de segunda mão e ar poluído, protestavam. Mas ele não podia parar.
+Gabriel sentia cada fôlego queimar. Seus pulmões, castigados por anos de ar poluído, protestavam, e o mero pensamento em fumaça de qualquer tipo trazia uma náusea visceral que ele precisava afastar através do próprio cansaço físico. Mas ele não podia parar.
 
 — O mapa! — Valéria tropeçou, segurando o lado do corpo. Seu rosto estava pálido sob a luz dos postes piscantes. — O mapa do jogo atualiza nossa posição a cada 30 segundos! Eles têm acesso aos meus implantes!
 
