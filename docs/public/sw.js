@@ -11,60 +11,54 @@ const PRECACHE_ASSETS = [
   '/manifest.json'
 ];
 
+async function installCache() {
+  const cache = await caches.open(CACHE_NAME);
+  await cache.addAll(PRECACHE_ASSETS);
+  await self.skipWaiting();
+}
+
+async function cleanOldCaches() {
+  const cacheNames = await caches.keys();
+  const cachesToDelete = cacheNames.filter((cacheName) => cacheName !== CACHE_NAME);
+  await Promise.all(cachesToDelete.map((cacheName) => caches.delete(cacheName)));
+  await self.clients.claim();
+}
+
+async function fetchWithFallback(request) {
+  try {
+    const response = await fetch(request);
+    const responseToCache = response.clone();
+    const cache = await caches.open(CACHE_NAME);
+    await cache.put(request, responseToCache);
+    return response;
+  } catch (error) {
+    const cachedResponse = await caches.match(request);
+
+    // To respect SonarCloud complexity limits, we use flat logic here.
+    const isNavigation = request.mode === 'navigate';
+    const offlineResponse = isNavigation && await caches.match(OFFLINE_URL);
+
+    return cachedResponse || offlineResponse || new Response('Offline', { status: 503 });
+  }
+}
+
 // Install event - cache essential assets
 self.addEventListener('install', (event) => {
-  event.waitUntil(
-    caches.open(CACHE_NAME).then((cache) => {
-      return cache.addAll(PRECACHE_ASSETS);
-    })
-  );
-  self.skipWaiting();
+  event.waitUntil(installCache());
 });
 
 // Activate event - clean old caches
 self.addEventListener('activate', (event) => {
-  event.waitUntil(
-    caches.keys().then((cacheNames) => {
-      return Promise.all(
-        cacheNames
-          .filter((cacheName) => cacheName !== CACHE_NAME)
-          .map((cacheName) => caches.delete(cacheName))
-      );
-    })
-  );
-  self.clients.claim();
+  event.waitUntil(cleanOldCaches());
 });
 
 // Fetch event - network first, fallback to cache
 self.addEventListener('fetch', (event) => {
   // Skip non-GET requests
-  if (event.request.method !== 'GET') return;
+  const isGet = event.request.method === 'GET';
+  const isChromeExtension = event.request.url.startsWith('chrome-extension://');
 
-  // Skip chrome extensions
-  if (event.request.url.startsWith('chrome-extension://')) return;
+  if (!isGet || isChromeExtension) return;
 
-  event.respondWith(
-    fetch(event.request)
-      .then((response) => {
-        // Clone response to cache it
-        const responseToCache = response.clone();
-        caches.open(CACHE_NAME).then((cache) => {
-          cache.put(event.request, responseToCache);
-        });
-        return response;
-      })
-      .catch(() => {
-        // Network failed, try cache
-        return caches.match(event.request).then((cachedResponse) => {
-          if (cachedResponse) {
-            return cachedResponse;
-          }
-          // Return offline page for navigation requests
-          if (event.request.mode === 'navigate') {
-            return caches.match(OFFLINE_URL);
-          }
-          return new Response('Offline', { status: 503 });
-        });
-      })
-  );
+  event.respondWith(fetchWithFallback(event.request));
 });

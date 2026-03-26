@@ -23,7 +23,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/juninmd/meu-livro/issues"
   },
@@ -31,7 +31,9 @@
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
+    "@types/node": "^20.19.37",
     "semantic-release": "^23.1.1",
+    "typescript": "^5.9.3",
     "vitepress": "^1.6.4"
   },
   "dependencies": {

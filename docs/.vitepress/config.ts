@@ -1,4 +1,6 @@
-module.exports = {
+import { defineConfig } from 'vitepress';
+
+export default defineConfig({
   title: "Ecos de Baía Cinzenta",
   description: "Um thriller noir cyberpunk em uma cidade onde a chuva nunca para.",
   head: [
@@ -300,4 +302,4 @@ module.exports = {
     socialLinks: [
     ]
   }
-}
+});

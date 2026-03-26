@@ -4,8 +4,9 @@ import './style.css'
 import mediumZoom from 'medium-zoom'
 import { onMounted, watch, nextTick } from 'vue'
 import { useRoute } from 'vitepress'
+import type { Theme } from 'vitepress'
 
-export default {
+const theme: Theme = {
   ...DefaultTheme,
   Layout,
   enhanceApp({ app }) {
@@ -26,3 +27,5 @@ export default {
     )
   }
 }
+
+export default theme
