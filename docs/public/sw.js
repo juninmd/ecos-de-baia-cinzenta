@@ -14,14 +14,23 @@ const PRECACHE_ASSETS = [
 async function installCache() {
   const cache = await caches.open(CACHE_NAME);
   await cache.addAll(PRECACHE_ASSETS);
-  await self.skipWaiting();
+  self.skipWaiting();
 }
 
 async function cleanOldCaches() {
   const cacheNames = await caches.keys();
   const cachesToDelete = cacheNames.filter((cacheName) => cacheName !== CACHE_NAME);
   await Promise.all(cachesToDelete.map((cacheName) => caches.delete(cacheName)));
-  await self.clients.claim();
+  self.clients.claim();
+}
+
+async function getOfflineFallback(request) {
+  const isNavigation = request.mode === 'navigate';
+  if (isNavigation) {
+    const offlineResponse = await caches.match(OFFLINE_URL);
+    if (offlineResponse) return offlineResponse;
+  }
+  return new Response('Offline', { status: 503 });
 }
 
 async function fetchWithFallback(request) {
@@ -29,16 +38,13 @@ async function fetchWithFallback(request) {
     const response = await fetch(request);
     const responseToCache = response.clone();
     const cache = await caches.open(CACHE_NAME);
-    await cache.put(request, responseToCache);
+    // Don't await the cache put to avoid blocking the network response
+    cache.put(request, responseToCache).catch(() => {});
     return response;
-  } catch (error) {
+  } catch {
     const cachedResponse = await caches.match(request);
-
-    // To respect SonarCloud complexity limits, we use flat logic here.
-    const isNavigation = request.mode === 'navigate';
-    const offlineResponse = isNavigation && await caches.match(OFFLINE_URL);
-
-    return cachedResponse || offlineResponse || new Response('Offline', { status: 503 });
+    if (cachedResponse) return cachedResponse;
+    return getOfflineFallback(request);
   }
 }
 
