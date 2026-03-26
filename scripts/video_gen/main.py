@@ -102,7 +102,7 @@ def main():
     try:
         if args.all:
             futures_to_path = {}
-            with ThreadPoolExecutor() as executor:
+            with ThreadPoolExecutor(max_workers=4) as executor:
                 for cap_path in sorted(docs_dir.glob('capitulo-*.md')):
                     future = executor.submit(pipeline.process_chapter, cap_path, mode=args.mode)
                     futures_to_path[future] = cap_path
