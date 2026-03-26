@@ -3,7 +3,7 @@
 ## Metadados
 - **Capítulo:** 7 (O Fim do Silêncio)
 - **Status:** Revisado
-- **Data da Revisão:** Atual
+- **Data da Revisão:** YYYY-MM-DD
 
 ## Autoavaliação Técnica
 - **Ritmo:** 9/10
