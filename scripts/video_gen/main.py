@@ -2,6 +2,7 @@ import argparse
 import sys
 import shutil
 from pathlib import Path
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 from scripts.video_gen.parser import ChapterParser
 from scripts.video_gen.audio import generate_narration
@@ -100,11 +101,18 @@ def main():
     
     try:
         if args.all:
-            for cap_path in sorted(docs_dir.glob('capitulo-*.md')):
-                try:
-                    pipeline.process_chapter(cap_path, mode=args.mode)
-                except Exception as e:
-                    print(f"✗ Failed {cap_path.name}: {e}")
+            futures_to_path = {}
+            with ThreadPoolExecutor(max_workers=4) as executor:
+                for cap_path in sorted(docs_dir.glob('capitulo-*.md')):
+                    future = executor.submit(pipeline.process_chapter, cap_path, mode=args.mode)
+                    futures_to_path[future] = cap_path
+
+                for future in as_completed(futures_to_path):
+                    cap_path = futures_to_path[future]
+                    try:
+                        future.result()
+                    except Exception as e:
+                        print(f"✗ Failed {cap_path.name}: {e}")
         elif args.chapter:
             cap_path = docs_dir / f'capitulo-{args.chapter}.md'
             pipeline.process_chapter(cap_path, mode=args.mode)
