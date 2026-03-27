@@ -17,8 +17,12 @@ async function installWorker() {
 }
 
 async function updateCache(request, response) {
-  const cache = await caches.open(CACHE_NAME);
-  await cache.put(request, response);
+  try {
+    const cache = await caches.open(CACHE_NAME);
+    await cache.put(request, response);
+  } catch (error) {
+    console.error('Falha ao atualizar o cache:', error);
+  }
 }
 
 self.addEventListener('install', (event) => {
