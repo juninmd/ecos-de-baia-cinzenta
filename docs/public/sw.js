@@ -16,6 +16,15 @@ async function installWorker() {
   self.skipWaiting();
 }
 
+async function updateCache(request, response) {
+  try {
+    const cache = await caches.open(CACHE_NAME);
+    await cache.put(request, response);
+  } catch (error) {
+    console.error('Falha ao atualizar o cache:', error);
+  }
+}
+
 self.addEventListener('install', (event) => {
   event.waitUntil(installWorker());
 });
@@ -38,20 +47,20 @@ async function handleFetchEvent(request) {
 
     // Background cache put to not block response
     const responseToCache = response.clone();
-    (async () => {
-        const cache = await caches.open(CACHE_NAME);
-        await cache.put(request, responseToCache);
-    })();
+    updateCache(request, responseToCache);
 
     return response;
-  } catch (err) {
+  } catch {
     const cachedResponse = await caches.match(request);
     if (cachedResponse) {
       return cachedResponse;
     }
     const isNavigation = request.mode === 'navigate';
     if (isNavigation) {
-      return await caches.match(OFFLINE_URL);
+      const offlineResponse = await caches.match(OFFLINE_URL);
+      if (offlineResponse) {
+        return offlineResponse;
+      }
     }
     return new Response('Offline', { status: 503 });
   }
