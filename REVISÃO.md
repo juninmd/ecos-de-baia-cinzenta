@@ -37,4 +37,11 @@ Este arquivo mantém o controle de progresso sobre o processo de revisão, adequ
 
 ---
 
+## Lote 6: Capítulos 16 a 18
+- [x] **Capítulo 16: Zona Morta** - Revisor sem problemas de lore encontrados. Protagonista não usa cigarro; foco na dor e no pragmatismo analógico. Arquivo de análise criado.
+- [x] **Capítulo 17: O Ultimato** - Revisor sem problemas de lore encontrados. Foco na tensão psicológica e aceitação de dor corporal de Gabo, sem vícios relatados. Arquivo de análise criado.
+- [x] **Capítulo 18: A Queda** - Revisor sem problemas de lore encontrados. A dor descrita age exatamente como âncora textual conforme o lore. Arquivo de análise criado.
+
+---
+
 *Lotes futuros serão atualizados abaixo conforme a instrução.*
