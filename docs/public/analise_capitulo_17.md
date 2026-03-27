@@ -12,7 +12,7 @@
 - **Atmosfera**: 9/10. O "circo digital" e o estúdio iluminado pela luz clínica em contraste com o exterior e a infiltração de Valéria criam uma arena fatal bem definida.
 
 ## Pontos Fortes e Fracos
-- **Fortes**: A revelação visual do rosto de Dante Moretti na tela/máscara do Gamemaster, aumentando o peso psicológico do encontro. Oexoesqueleto de combate proporciona um desafio extremo contra o "Cavalo de Troia".
+- **Fortes**: A revelação visual do rosto de Dante Moretti na tela/máscara do Gamemaster, aumentando o peso psicológico do encontro. O exoesqueleto de combate proporciona um desafio extremo contra o "Cavalo de Troia".
 - **Fracos**: A infiltração de Valéria nos dutos de ventilação poderia ser explorada um pouco mais, embora a brevidade mantenha o foco na provocação de Gabo.
 
 ## Análise de Personagens
