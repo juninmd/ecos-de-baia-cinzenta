@@ -3,6 +3,7 @@ import re
 import time
 from pathlib import Path
 from typing import List
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 import requests
 
@@ -91,17 +92,28 @@ class WanVideoGenerator:
             chunks = [' '.join(paragraphs[i:i+step]) for i in range(0, len(paragraphs), step)][:8]
             
         video_paths = []
-        for i, chunk in enumerate(chunks, 1):
+
+        def process_scene(i, chunk):
             vid_path = self.output_dir / f"capitulo_{chapter_num}_scene_{i}.mp4"
             
             if vid_path.exists() and vid_path.stat().st_size > 10000:
                 print(f"  ⏭ Using cached video for scene {i}")
-                video_paths.append(vid_path)
-                continue
+                return i, vid_path, True
                 
             print(f"  🎬 Generating scene {i}/8...")
             success = self._generate_single_video(chunk, vid_path)
-            
+            return i, vid_path, success
+
+        results = []
+        with ThreadPoolExecutor(max_workers=8) as executor:
+            futures = [executor.submit(process_scene, i, chunk) for i, chunk in enumerate(chunks, 1)]
+            for future in as_completed(futures):
+                results.append(future.result())
+
+        # Sort results back by scene index to maintain order
+        results.sort(key=lambda x: x[0])
+
+        for i, vid_path, success in results:
             if success and vid_path.exists() and vid_path.stat().st_size > 5000:
                 video_paths.append(vid_path)
             else:
