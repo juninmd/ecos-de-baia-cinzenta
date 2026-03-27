@@ -12,7 +12,7 @@
 - **Atmosfera**: 9/10. O contraste entre o cenário falso do Gamemaster (quebrando) e o caos de vidro, óleo vazando e explosões até o pulo cego no vácuo de Baía Cinzenta é excelente.
 
 ## Pontos Fortes e Fracos
-- **Fortes**: A tática furtiva e bruta conjunta (Valéria usando micro-ondas modificado de Gabo como EMP/disruptor) e a fuga em queda livre dão um senso massivo de escala. Extração do núcleo de memória e do rosto de Dante Moretti são ótimos.
+- **Fortes**: A tática furtiva e bruta conjunta (Valéria usando micro-ondas modificado de Gabo como EMP/disruptor) e a fuga em queda livre dão um senso massivo de escala. A extração do núcleo de memória do Gamemaster é um ótimo ponto.
 - **Fracos**: A coincidência e timing exato do trem Maglev passando poderiam ser justificados por Valéria calculando a rota ou pela IA do trem desviando tarde demais, mas não quebra a suspensão de descrença por completo no gênero.
 
 ## Análise de Personagens
