@@ -104,14 +104,8 @@ class WanVideoGenerator:
             success = self._generate_single_video(chunk, vid_path)
             return i, vid_path, success
 
-        results = []
         with ThreadPoolExecutor(max_workers=8) as executor:
-            futures = [executor.submit(process_scene, i, chunk) for i, chunk in enumerate(chunks, 1)]
-            for future in as_completed(futures):
-                results.append(future.result())
-
-        # Sort results back by scene index to maintain order
-        results.sort(key=lambda x: x[0])
+            results = executor.map(lambda t: process_scene(*t), enumerate(chunks, 1))
 
         for i, vid_path, success in results:
             if success and vid_path.exists() and vid_path.stat().st_size > 5000:
