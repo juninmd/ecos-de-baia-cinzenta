@@ -27,4 +27,4 @@
 2.  **O plot twist deste capítulo invalida algo estabelecido nos capítulos anteriores?**
     *   Não. O capítulo aprofunda os mistérios de Aeterna introduzindo as esteiras dos servidores autônomos dentro da "gaiola de Faraday" que é o Arquivo Executivo, sugerindo defesas puramente tecnológicas, e não as abominações biológicas do Taxidermista, respeitando o "lore" de isolamento e blindagem estabelecido no Capítulo 164.
 3.  **O resumo da lore foi atualizado com os novos eventos?**
-    *   Sim. A cronologia será devidamente atualizada refletindo a progressão do grupo e a descoberta dos rastros dos servidores autônomos no Arquivo Executivo.
+*   Sim. A cronologia foi devidamente atualizada para refletir a progressão do grupo e a descoberta dos rastros dos servidores autônomos no Arquivo Executivo.
