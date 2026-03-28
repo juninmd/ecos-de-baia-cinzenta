@@ -44,4 +44,25 @@ Este arquivo mantém o controle de progresso sobre o processo de revisão, adequ
 
 ---
 
+## Lote 7: Capítulos 19 a 21
+- [x] **Capítulo 19: O Código Morto** - Revisor sem problemas de lore encontrados. Sem inconsistências com fumo, a dor foca a mente (ombro). Arquivo de análise criado.
+- [x] **Capítulo 20: Profanação** - Revisor sem problemas de lore encontrados. Armadilha de gás é sonífero, e o protagonista foca na dor física da mão apertada. Arquivo de análise criado.
+- [x] **Capítulo 21: Lar, Doce Inferno** - Revisor sem problemas de lore encontrados. Gabo suporta a necrose por frio no braço para salvar Elena, super coerente com o lore. Arquivo de análise criado.
+
+---
+
+## Lote 8: Capítulos 22 a 24
+- [x] **Capítulo 22: O Mapa da Alma** - Revisor sem problemas de lore encontrados. Cheiro de hospital o ancora em vômito e náusea, nunca cigarros. Arquivo de análise criado.
+- [x] **Capítulo 23: Ratos e Reis** - Revisor sem problemas de lore encontrados. Conflito tenso e prático. Arquivo de análise criado.
+- [x] **Capítulo 24: A Galeria dos Deformados** - Revisor sem problemas de lore encontrados. Combate bio-punk e assepsia, sem desvios do personagem. Arquivo de análise criado.
+
+---
+
+## Lote 9: Capítulos 25 a 27
+- [x] **Capítulo 25: Elevador para o Inferno** - Revisor sem problemas de lore encontrados. Escalada épica baseada em dor física intensa, coerente. Arquivo de análise criado.
+- [x] **Capítulo 26: A Escolha de Atlas** - Revisor sem problemas de lore encontrados. A sedução simulada foca no cheiro nostálgico do avô e não no trauma com o cigarro próprio. Magistral. Arquivo de análise criado.
+- [x] **Capítulo 27: O Filho Sacrifica o Pai** - Revisor sem problemas de lore encontrados. Foco emocional após o ato brutal; sem apelo a vícios não relacionados à dor. Arquivo de análise criado.
+
+---
+
 *Lotes futuros serão atualizados abaixo conforme a instrução.*
