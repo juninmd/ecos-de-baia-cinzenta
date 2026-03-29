@@ -46,10 +46,10 @@ def test_manifest():
 
 def test_service_worker():
     """Validate service worker exists."""
-    sw_path = Path("docs/public/sw.js")
+    sw_path = Path("docs/sw.ts")
 
     if not sw_path.exists():
-        print("❌ sw.js not found!")
+        print("❌ sw.ts not found!")
         return False
 
     content = sw_path.read_text()
