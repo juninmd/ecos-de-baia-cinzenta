@@ -11,7 +11,8 @@ const PRECACHE_ASSETS = [
   '/',
   '/capitulo-1',
   '/cidade.jpg',
-  '/manifest.json'
+  '/manifest.json',
+  OFFLINE_URL
 ];
 
 async function installWorker(): Promise<void> {
@@ -24,8 +25,8 @@ async function updateCache(request: Request, response: Response): Promise<void> 
   try {
     const cache = await caches.open(CACHE_NAME);
     await cache.put(request, response);
-  } catch {
-    console.error('Falha ao atualizar o cache');
+  } catch (error) {
+    console.error('Falha ao atualizar o cache:', error);
   }
 }
 
