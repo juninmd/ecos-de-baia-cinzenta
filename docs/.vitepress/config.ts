@@ -15,10 +15,13 @@ export default defineConfig({
     ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/icons/icon-192x192.png' }],
     ['script', { id: 'register-sw' }, `
       if ('serviceWorker' in navigator) {
-        window.addEventListener('load', () => {
-          navigator.serviceWorker.register('/sw.js')
-            .then(reg => console.log('✓ Service Worker registered'))
-            .catch(err => console.log('✗ SW registration failed:', err));
+        window.addEventListener('load', async () => {
+          try {
+            await navigator.serviceWorker.register('/sw.js');
+            console.log('✓ Service Worker registered');
+          } catch (err) {
+            console.error('✗ SW registration failed:', err);
+          }
         });
       }
     `]

@@ -50,3 +50,4 @@ venv_fix/
 secrets/
 config/secrets.yml
 .env
+docs/public/sw.js
