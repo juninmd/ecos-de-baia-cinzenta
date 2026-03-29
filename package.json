@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "PYTHONPATH=. pytest tests/ scripts/",
-    "build:sw": "tsc docs/sw.ts --target es2022 --module es2022 --outDir docs/public --lib webworker,es2022 --skipLibCheck",
+    "build:sw": "tsc -p docs/tsconfig.sw.json",
     "docs:dev": "npm run build:sw && vitepress dev docs",
     "docs:build": "npm run build:sw && vitepress build docs",
     "docs:preview": "vitepress preview docs",
