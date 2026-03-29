@@ -2,6 +2,7 @@ import os
 import re
 import argparse
 import sys
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from google import genai
 from PIL import Image
 import io
@@ -360,6 +361,7 @@ def main():
     parser = argparse.ArgumentParser(description="Generate Art for a Chapter using Nano Banana")
     parser.add_argument('chapters', type=str, help="Chapter number (e.g., '102') or range (e.g., '7-104')")
     parser.add_argument('--style', type=str, help="Optional style/prompt modifier", default="")
+    parser.add_argument("--max-workers", type=int, default=4, help="Maximum number of concurrent workers")
     args = parser.parse_args()
 
     project_root = os.getcwd()
@@ -391,8 +393,17 @@ def main():
         engine = NanoBanana()
         db = CharacterDatabase(char_file)
         
-        for chapter_num in chapter_list:
-            process_chapter(chapter_num, engine, db, project_root, args.style)
+        def worker(chapter_num):
+            return process_chapter(chapter_num, engine, db, project_root, args.style)
+
+        with ThreadPoolExecutor(max_workers=args.max_workers) as executor:
+            futures = {executor.submit(worker, chapter_num): chapter_num for chapter_num in chapter_list}
+            for future in as_completed(futures):
+                try:
+                    future.result()
+                except Exception as e:
+                    chapter_num = futures[future]
+                    print(f"❌ Error processing chapter {chapter_num}: {e}")
             
         # Print Final Costs
         print("\n" + "="*50)

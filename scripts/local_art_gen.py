@@ -4,6 +4,7 @@ import os
 import re
 import sys
 import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
 import requests
@@ -334,6 +335,7 @@ def main():
     parser.add_argument("--strength", type=float, default=0.1, help="I2I transformation strength (0.1 = max face fidelity)")
     parser.add_argument("--output-suffix", default="", help="Suffix for the output filename (e.g., _heavy)")
     parser.add_argument("--dry-run", action="store_true", help="Print prompts without generating images")
+    parser.add_argument("--max-workers", type=int, default=4, help="Maximum number of concurrent workers")
     args = parser.parse_args()
 
     chapters = parse_chapter_selection(args.chapters)
@@ -349,8 +351,7 @@ def main():
             
         db = CharacterDatabase(os.path.join(project_root, "docs/personagens.md"))
 
-        success_count = 0
-        for chapter_num in chapters:
+        def worker(chapter_num):
             print(f"\n📂 Processing chapter {chapter_num}")
             
             chapter = ChapterContext(chapter_num)
@@ -386,8 +387,18 @@ def main():
             if ok and not args.dry_run:
                 chapter.update_frontmatter(f"/{output_filename}")
             
-            if ok:
-                success_count += 1
+            return ok
+
+        success_count = 0
+        with ThreadPoolExecutor(max_workers=args.max_workers) as executor:
+            futures = {executor.submit(worker, chapter_num): chapter_num for chapter_num in chapters}
+            for future in as_completed(futures):
+                try:
+                    if future.result():
+                        success_count += 1
+                except Exception as e:
+                    chapter_num = futures[future]
+                    print(f"❌ Error processing chapter {chapter_num}: {e}")
 
         print(f"\n🏁 Done. Successful chapters: {success_count}/{len(chapters)}")
     except Exception as exc:
