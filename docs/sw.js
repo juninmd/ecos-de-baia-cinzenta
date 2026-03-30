@@ -47,7 +47,7 @@ async function getOfflineResponse() {
 async function handleNavigationFallback(request) {
     const isNavigation = request.mode === 'navigate';
     if (!isNavigation) {
-        return new Response('Offline', { status: 503 });
+        return new Response('', { status: 503, statusText: 'Service Unavailable' });
     }
     return getOfflineResponse();
 }
