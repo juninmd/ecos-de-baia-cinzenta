@@ -29,6 +29,6 @@ Gabo continua ancorando seu estresse na dor constante do corpo avariado. Valéri
 ## Sanity Check (Lore)
 1. Gabo fuma para se acalmar? Não. Ele usa o próprio corpo latejante para focar a mente na náusea geral.
 2. A reação à queda do sistema é crível? A abstinência cibernética descrita como sintoma físico severo (vômito, vertigem) corrobora a simbiose do homem com a máquina proposta na obra.
-3. As condições feridas se mantém? A descida de 28 andares é descrita como um "inferno" para sua perna quebrada.
+3. As condições feridas se mantêm? A descida de 28 andares é descrita como um "inferno" para sua perna quebrada.
 
 ---
