@@ -18,7 +18,7 @@ title: "Análise Crítica - Capítulo 37"
 ## Pontos Fortes e Fracos
 **Fortes:**
 - Gabo cedendo comando para Elena ("assumindo o comando tático com naturalidade"), destacando seu treinamento e competência acima dele.
-- O momento heróico de Gabo mancando ao encontro da linha de fogo do caminhão lixo para salvar as defesas, e a granada no vidro da cabine. A brutalidade física da cena o arremessando com o choque térmico e impacto real da batida.
+- O momento heroico de Gabo mancando ao encontro da linha de fogo do caminhão lixo para salvar as defesas, e a granada no vidro da cabine. A brutalidade física da cena o arremessando com o choque térmico e impacto real da batida.
 
 **Fracos:**
 - O "caminhão blindado" é contido rápido, porém plausível num choque cinético desajeitado.
