@@ -12,7 +12,7 @@ title: "Análise Crítica - Capítulo 39"
 
 ## Auto-Avaliação Técnica (Escala 1-10)
 - **Ritmo:** 8/10 - Uma montagem narrativa fluida, dos papéis distribuídos à revolta visceral na porta de Elara Vance.
-- **Diálogo:** 6/10 - Menos diálogo, focado nas imagens visuais (a multidão, a prisão datilografada).
+- **Atmosfera:** 9/10 - O cheiro de óleo da velha offset e o retorno de táticas jacobinas; tochas, papel na mão, a visceralidade humana devolvida às suas engrenagens originais (turba furiosa contra castas).
 - **Atmosfera:** 9/10 - A cheiro de óleo da velha offset e o retorno de táticas jacobinas; tochas, papel na mão, a visceralidade humana devolvida às suas engrenagens originais (turba furiosa contra castas).
 
 ## Pontos Fortes e Fracos
