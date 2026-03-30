@@ -17,7 +17,7 @@ title: "Análise Crítica - Capítulo 34"
 
 ## Pontos Fortes e Fracos
 **Fortes:**
-- O ataque improvisado com o lançador caseiro; Gabo ignora a autopreservação (e explode o joelho de dor) pela punição a gangue. A imagem da lata sibilando como "fúria enferrujada".
+- O ataque improvisado com o lançador caseiro; Gabo ignora a autopreservação (e explode o joelho de dor) pela punição à gangue. A imagem da lata sibilando como "fúria enferrujada".
 
 **Fracos:**
 - O conflito é rápido e unilateral devido ao elemento surpresa, mas serve como catarse.
