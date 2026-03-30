@@ -11,7 +11,7 @@ title: "Análise Crítica - Capítulo 31"
 - **Lore Checked:** Sem inconsistências de fumo. A dor excruciante (perna quebrada, pele rasgada) ancora a realidade.
 
 ## Auto-Avaliação Técnica (Escala 1-10)
-- **Ritmo:** 10/10 - Frético, adrenalina pura e o clímax da queda física da torre e metafórica da sociedade Aeterna.
+- **Ritmo:** 10/10 - Frenético, adrenalina pura e o clímax da queda física da torre e metafórica da sociedade Aeterna.
 - **Diálogo:** 8/10 - Gritos secos e essenciais. O barulho do vento e o caos exigem poucas palavras.
 - **Atmosfera:** 10/10 - Uma tempestade cataclísmica onde os personagens são lançados ao vazio escuro que o mundo se tornou.
 
