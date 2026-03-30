@@ -113,7 +113,10 @@ def check_character_consistency(chapters: list[Chapter], aliases: dict[str, set[
 
     for canonical, fallback_aliases in central_aliases.items():
         alias_set = aliases.get(canonical, fallback_aliases)
-        mentions = sum(1 for ch in recent if any(re.search(rf"\b{re.escape(a)}\b", ch.text, re.IGNORECASE) for a in alias_set))
+        pattern_str = r'\b(' + '|'.join(map(re.escape, alias_set)) + r')\b'
+        pattern = re.compile(pattern_str, re.IGNORECASE)
+
+        mentions = sum(1 for ch in recent if pattern.search(ch.text))
         if mentions <= 1:
             issues.append(f"Personagem central pouco presente nos 10 capítulos mais recentes: {canonical} ({mentions}/10)")
 
