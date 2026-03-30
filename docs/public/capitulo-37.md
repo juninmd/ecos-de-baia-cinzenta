@@ -35,7 +35,7 @@ Elena apareceu na varanda interna do segundo andar, com um lançador de granadas
 
 — Coma isso! — gritou ela, disparando.
 
-A granada traçou um arco perfeito e entrou pela janela quebrada da cabine do caminhão. A fumaça branca explodiu lá dentro. O caminhão guinou violentamente para a esquerda, derrapando no asfalto molhado. Ele bateu com estrondo em um poste de luz, derrubando-o, e parou a poucos metros da entrada.
+A granada traçou um arco perfeito e entrou pela janela quebrada da cabine do caminhão. O gás denso explodiu lá dentro. O caminhão guinou violentamente para a esquerda, derrapando no asfalto molhado. Ele bateu com estrondo em um poste de luz, derrubando-o, e parou a poucos metros da entrada.
 
 As barricadas aguentaram.
 

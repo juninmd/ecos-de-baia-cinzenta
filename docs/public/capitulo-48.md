@@ -39,7 +39,7 @@ Valéria parou, seus dedos congelando no ar.
 
 — Corta a conexão! — gritou Gabo.
 
-— Não! Se eu sair agora, ele bloqueia tudo. Eu tenho que lutar. — Suor começou a escorrer pela testa de Valéria. O brilho das telas refletia em seus olhos prateados, tingindo-os de vermelho alerta. — Ele está usando um algoritmo polimórfico. A cada segundo, o código de ataque muda. É como tentar segurar fumaça com as mãos.
+— Não! Se eu sair agora, ele bloqueia tudo. Eu tenho que lutar. — Suor começou a escorrer pela testa de Valéria. O brilho das telas refletia em seus olhos prateados, tingindo-os de vermelho alerta. — Ele está usando um algoritmo polimórfico. A cada segundo, o código de ataque muda. É como tentar segurar mercúrio com as mãos.
 
 Na tela holográfica, Gabo viu uma batalha abstrata acontecendo. Linhas de código azul (Valéria) tentavam erguer barreiras, firewalls e desvios, mas uma massa de código negro e roxo (o Fantasma) corroía e contornava cada defesa, movendo-se como um vírus inteligente.
 
