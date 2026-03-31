@@ -1,5 +1,5 @@
 ---
-image: /capitulo_65.jpg
+image: /capitulo_165.jpg
 ---
 # Metadados
 - **Título:** Fantasmas de Silício
@@ -20,7 +20,7 @@ Cada passo no linóleo negro era uma negociação com o abismo. E, no silêncio 
 
 O ar purificado de quarenta anos atrás deveria cheirar a nada. Mas, para as sinapses rasgadas pelo choque hipovolêmico, o "nada" era um vácuo preenchido pelo trauma.
 
-A exaustão conjurou o fantasma. O cheiro rancio e amargo do cigarro de cravo barato preencheu o corredor escuro. Era denso, adocicado e sufocante, o perfume do fracasso de seu pai. Gabo sentiu a fumaça ilusória revestir a garganta, um alcatrão invisível fechando suas vias aéreas. O pânico subiu como fel. O escritório trancado de Dante. A tosse seca. A negligência condensada em nicotina que impregnava os móveis e a alma da infância de Gabo.
+O cheiro rançoso e amargo do cigarro de cravo barato preencheu o corredor escuro.
 
 A náusea dobrou seu estômago. O instinto visceral de tossir, de expelir o ar envenenado, paralisou suas pernas. A repulsa era tamanha que o mundo começou a girar, as bordas da visão escurecendo não pela falta de sangue, mas pelo puro terror de asfixia psicológica.
 
