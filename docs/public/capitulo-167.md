@@ -1,5 +1,5 @@
 ---
-image: /capitulo_67.jpg
+image: /capitulo_167.jpg
 ---
 # Metadados
 - **Título:** O Grito no Silício
