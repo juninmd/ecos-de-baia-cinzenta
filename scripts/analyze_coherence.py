@@ -13,6 +13,12 @@ DOCS_DIR = Path("docs")
 PERSONAGENS = DOCS_DIR / "personagens.md"
 CHAPTER_RE = re.compile(r"capitulo-(\d+(?:\.5)?)\.md$")
 
+# Pre-compiled regex patterns for performance optimization
+VIOLATION_PATTERN = re.compile(r"\b(Gabo|Gabriel)\b.{0,120}\b(fum[a-z]*|cigarro|tabaco)\b", re.IGNORECASE | re.DOTALL)
+CANONICAL_NEGATIONS = re.compile(r"(odeia|nunca fumou|n[aã]o fuma|repulsa|n[aá]usea)", re.IGNORECASE)
+WORD_PATTERN = re.compile(r"\b\w+\b")
+CLIFFHANGER_PATTERN = re.compile(r"[?.!]\s*$")
+
 
 @dataclass
 class Chapter:
@@ -95,15 +101,13 @@ def check_character_consistency(chapters: list[Chapter], aliases: dict[str, set[
     issues = []
 
     # Regra canônica: Gabo tem repulsa a cigarro/fumo.
-    violation_pattern = re.compile(r"\b(Gabo|Gabriel)\b.{0,120}\b(fum[a-z]*|cigarro|tabaco)\b", re.IGNORECASE | re.DOTALL)
-    canonical_negations = re.compile(r"(odeia|nunca fumou|n[aã]o fuma|repulsa|n[aá]usea)", re.IGNORECASE)
     violators = []
     for ch in chapters:
-        match = violation_pattern.search(ch.text)
+        match = VIOLATION_PATTERN.search(ch.text)
         if not match:
             continue
         window = ch.text[max(0, match.start() - 60): match.end() + 80]
-        if canonical_negations.search(window):
+        if CANONICAL_NEGATIONS.search(window):
             continue
         violators.append(ch.path.name)
     if violators:
@@ -133,8 +137,7 @@ def bestseller_score(chapters: list[Chapter]) -> tuple[float, list[str]]:
         return 0.0, ["Sem capítulos para avaliar."]
 
     recent = chapters[-12:]
-    word_pattern = re.compile(r"\b\w+\b")
-    word_counts = [len(word_pattern.findall(ch.text)) for ch in recent]
+    word_counts = [len(WORD_PATTERN.findall(ch.text)) for ch in recent]
     avg_words = mean(word_counts)
 
     sensory_tokens = ("chuva", "neon", "sombra", "sangue", "metal", "eco", "frio", "silêncio")
@@ -143,8 +146,7 @@ def bestseller_score(chapters: list[Chapter]) -> tuple[float, list[str]]:
         for ch in recent
     )
 
-    cliffhanger_pattern = re.compile(r"[?.!]\s*$")
-    cliffhanger_count = sum(1 for ch in recent if cliffhanger_pattern.search(ch.text))
+    cliffhanger_count = sum(1 for ch in recent if CLIFFHANGER_PATTERN.search(ch.text))
 
     score = 0.0
     if avg_words >= 1400:

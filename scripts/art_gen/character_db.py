@@ -6,6 +6,8 @@ class CharacterDatabase:
     def __init__(self, filepath):
         self.filepath = filepath
         self.characters = {}
+        self._alias_map = None
+        self._compiled_pattern = None
         self.load()
 
     def load(self):
@@ -86,27 +88,30 @@ class CharacterDatabase:
 
     def find_characters_in_text(self, text):
         found = []
+        if not text:
+            return found
         text_lower = text.lower()
 
-        alias_map = self._build_alias_map()
-        all_aliases = list(alias_map.keys())
+        if self._alias_map is None:
+            self._alias_map = self._build_alias_map()
 
-        if not all_aliases:
-            return found
+        if self._compiled_pattern is None:
+            all_aliases = list(self._alias_map.keys())
+            # Avoid zero-length aliases matching empty strings
+            all_aliases = [a for a in all_aliases if a]
+            if not all_aliases:
+                return found
 
-        all_aliases.sort(key=len, reverse=True)
-        # Avoid zero-length aliases matching empty strings
-        all_aliases = [a for a in all_aliases if a]
-        if not all_aliases:
-            return found
+            all_aliases.sort(key=len, reverse=True)
+            pattern_str = r'\b(' + '|'.join(map(re.escape, all_aliases)) + r')\b'
+            self._compiled_pattern = re.compile(pattern_str)
 
-        pattern = r'\b(' + '|'.join(map(re.escape, all_aliases)) + r')\b'
-        matches = set(re.findall(pattern, text_lower))
+        matches = set(self._compiled_pattern.findall(text_lower))
 
         found_ids = set()
         for match in matches:
-            if match in alias_map:
-                for char_data in alias_map[match]:
+            if match in self._alias_map:
+                for char_data in self._alias_map[match]:
                     if char_data["name"] not in found_ids:
                         found.append(char_data)
                         found_ids.add(char_data["name"])
