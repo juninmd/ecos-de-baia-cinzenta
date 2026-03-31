@@ -143,8 +143,8 @@ def bestseller_score(chapters: list[Chapter]) -> tuple[float, list[str]]:
         for ch in recent
     )
 
-    cliffhanger_pattern = re.compile(r"\?$|\.$|!$")
-    cliffhanger_count = sum(1 for ch in recent if cliffhanger_pattern.search(ch.text.strip()))
+    cliffhanger_pattern = re.compile(r"[?.!]\s*$")
+    cliffhanger_count = sum(1 for ch in recent if cliffhanger_pattern.search(ch.text))
 
     score = 0.0
     if avg_words >= 1400:
