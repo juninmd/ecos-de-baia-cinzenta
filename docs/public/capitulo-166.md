@@ -1,5 +1,5 @@
 ---
-image: /capitulo_66.jpg
+image: /capitulo_166.jpg
 ---
 # Metadados
 - **Título:** A Lógica da Fome
@@ -26,7 +26,7 @@ Gabo e Valéria não precisavam ver a máquina inteira na penumbra para entender
 
 E, subitamente, o terror paralisante do monstro burro e de metal transmutou-se.
 
-O ar do Subnível 2.0, perfeito e estéril a cinco graus Celsius, retorceu-se sob a exaustão química de Gabo. A poeira erguida pelas pesadas esteiras magnéticas da máquina fedia a ozônio queimado, mas o córtex fraturado do detetive conjurou o seu pior inferno pessoal. O ozônio limpo adoçou-se, tornando-se rancio e amarelo. A fumaça espessa do cigarro barato de cravo invadiu o nariz e a garganta de Gabo, tão densa que ele podia mascar as cinzas invisíveis. O cheiro do escritório do pai. O necrotério enevoado. A tosse da infância.
+O ozônio limpo adoçou-se, tornando-se rançoso e amarelo.
 
 A náusea atingiu Gabo na boca do estômago com a força de um gancho. A asfixia era real para a sua mente alucinada; ele arfou em desespero cego, cambaleando para a direita enquanto o Sentinel avançava inexorável. A repulsa pelo cheiro do vício paterno o aprisionava mais rápido do que a máquina de doze toneladas.
 
