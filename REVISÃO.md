@@ -111,3 +111,8 @@ Este arquivo mantém o controle de progresso sobre o processo de revisão, adequ
 - [x] **Capítulo 47: Cerco Anfíbio** - Revisor sem problemas de lore encontrados. Foco na armadilha do Relojoeiro e o esmagamento crítico do corpo de Gabo (pélvis e pernas sob ferro). Arquivo de análise criado.
 - [x] **Capítulo 48: Fantasma na Máquina** - Revisado. Menção à "fumaça" num ditado cibernético de Valéria alterada para "mercúrio" para manter total consistência com o bloqueio a "fumaça" do protagonista. Arquivo de análise criado.
 - [x] **Capítulo 49: A Isca Perfeita** - Revisor sem problemas de lore encontrados. Consolidado o dano massivo de Gabo com dezoito fraturas, enquanto Valéria executa mercenários sem remorso. Arquivo de análise criado.
+
+## Lote 17: Capítulos 50 a 52
+- [x] **Capítulo 50: O Silêncio da Chuva** - Revisor sem problemas de lore encontrados. Protagonista está inconsciente e severamente machucado (órteses introduzidas). Luto pela morte de Helena é lidado organicamente sem cigarros. Arquivo de análise criado.
+- [x] **Capítulo 51: Mãos Limpas** - Revisor sem problemas de lore encontrados. Protagonista recusa fumaça de cigarro expressamente no texto ("desviou o rosto, incomodado com a fumaça"). Reage à dor cimentando a fisicalidade. Arquivo de análise criado.
+- [x] **Capítulo 52: Dívida Eterna** - Revisor sem problemas de lore encontrados. Nenhuma quebra na fobia ou fuga no tabagismo; ele aceita a dor nas pernas quebradas como âncora à realidade para ajudar a irmã. Arquivo de análise criado.
