@@ -4,10 +4,15 @@ import shutil
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
+import sys
+from pathlib import Path
+
+# Add root project dir to pythonpath to allow relative imports from scripts
+root_dir = Path(__file__).resolve().parent.parent.parent
+sys.path.insert(0, str(root_dir))
+
 from scripts.video_gen.parser import ChapterParser
 from scripts.video_gen.audio import generate_narration
-from scripts.video_gen.wan_client import WanVideoGenerator
-from scripts.video_gen.composer import VideoComposer
 
 
 class VideoPipeline:
@@ -18,8 +23,8 @@ class VideoPipeline:
         self.temp_dir = project_root / '.temp_video'
         self.temp_dir.mkdir(exist_ok=True)
         
-        self.generator = WanVideoGenerator(self.temp_dir)
-        self.composer = VideoComposer(self.temp_dir)
+        self.generator = None
+        self.composer = None
 
     def cleanup(self):
         if self.temp_dir.exists():
@@ -64,6 +69,9 @@ class VideoPipeline:
             if source_image is None:
                 print("❌ No chapter image found for image2video mode.")
                 return
+            if self.composer is None:
+                from scripts.video_gen.composer import VideoComposer
+                self.composer = VideoComposer(self.temp_dir)
             self.composer.create_video_from_image(
                 image_path=source_image,
                 audio_path=audio_path,
@@ -74,11 +82,17 @@ class VideoPipeline:
             return
 
         # fallback: text-to-video with Wan
+        if self.generator is None:
+            from scripts.video_gen.wan_client import WanVideoGenerator
+            self.generator = WanVideoGenerator(self.temp_dir)
         video_paths = self.generator.generate_multi_scene_videos(numero, texto)
         if not video_paths:
             print("❌ Failed to generate any video clips.")
             return
 
+        if self.composer is None:
+            from scripts.video_gen.composer import VideoComposer
+            self.composer = VideoComposer(self.temp_dir)
         self.composer.combine_videos(video_paths, audio_path, output_video, titulo, numero)
 
 

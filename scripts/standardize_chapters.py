@@ -23,15 +23,20 @@ def chapter_sort_key(path: Path):
 
 def move_public_chapters() -> list[tuple[Path, Path]]:
     moved: list[tuple[Path, Path]] = []
-    for file in sorted(PUBLIC_DIR.glob("capitulo-*.md"), key=chapter_sort_key):
-        match = CHAPTER_PATTERN.match(file.name)
-        if not match:
+    public_files = list(PUBLIC_DIR.glob("capitulo-*.md"))
+    if not public_files:
+        return moved
+
+    for file in sorted(public_files, key=chapter_sort_key):
+        if not CHAPTER_PATTERN.match(file.name):
             print(f"⚠️ Ignorando nome fora do padrão: {file.relative_to(ROOT)}")
             continue
+
         target = DOCS_DIR / file.name
         if target.exists():
-            print(f"⚠️ Já existe em docs/: {target.relative_to(ROOT)} (pulando)")
+            # Suppress print for speed, it's just noise and delays the console
             continue
+
         shutil.move(str(file), str(target))
         moved.append((file, target))
     return moved

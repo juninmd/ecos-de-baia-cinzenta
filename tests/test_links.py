@@ -13,14 +13,21 @@ def get_markdown_files():
         return []
     return list(DOCS_DIR.rglob("*.md"))
 
+LINK_REGEX = re.compile(r'\]\(((?:[^)(]|\([^)(]*\))*)\)')
+
+# Cache file existence calls by reading docs structure once
+EXISTING_FILES = set()
+if DOCS_DIR.exists():
+    for f in DOCS_DIR.rglob("*"):
+        if f.is_file():
+            EXISTING_FILES.add(f.resolve())
+
 def extract_links(content):
     """Extracts all links from markdown content."""
-    # Matches standard markdown links [text](link) and images ![text](link)
-    # capture group 1 is the link url
-    # Modified regex to handle balanced parentheses in URLs (one level deep)
-    # e.g. [text](image(1).png)
-    regex = r'\]\(((?:[^)(]|\([^)(]*\))*)\)'
-    return re.findall(regex, content)
+    return LINK_REGEX.findall(content)
+
+def check_exists(path: Path) -> bool:
+    return path.resolve() in EXISTING_FILES
 
 @pytest.mark.parametrize("file_path", get_markdown_files())
 def test_links_in_file(file_path):
@@ -60,11 +67,11 @@ def test_links_in_file(file_path):
             # 2. Check in public directory (assets often referenced as /image.png which maps to docs/public/image.png)
             target_in_public = PUBLIC_DIR / path_rel_to_docs
 
-            exists = target_in_docs.exists() or target_in_public.exists()
+            exists = check_exists(target_in_docs) or check_exists(target_in_public)
 
             # Handle clean URLs or directory links (e.g. /guide/ points to /guide/index.md)
             if not exists and not target_in_docs.suffix:
-                 if (target_in_docs / "index.md").exists():
+                 if check_exists(target_in_docs / "index.md"):
                      exists = True
 
             assert exists, f"Broken absolute link in {file_path}: {link} -> Checked {target_in_docs} and {target_in_public}"
@@ -74,16 +81,16 @@ def test_links_in_file(file_path):
             target = (file_path.parent / link_path_str).resolve()
 
             # Check existence
-            if target.exists():
+            if check_exists(target):
                 continue
 
             # If failed, maybe it is a directory link implying index.md
-            if (target / "index.md").exists():
+            if check_exists(target / "index.md"):
                 continue
 
             # Special case: VitePress sometimes allows omitting extension for .md?
             # Usually better to be explicit, but let's check if .md exists
-            if not target.suffix and target.with_suffix(".md").exists():
+            if not target.suffix and check_exists(target.with_suffix(".md")):
                 continue
 
             assert False, f"Broken relative link in {file_path}: {link} -> Resolved to {target}"
