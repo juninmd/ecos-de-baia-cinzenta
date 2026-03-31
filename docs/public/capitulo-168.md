@@ -1,5 +1,5 @@
 ---
-image: /capitulo_68.jpg
+image: /capitulo_168.jpg
 ---
 # Metadados
 - **Título:** O Peso do Chumbo
