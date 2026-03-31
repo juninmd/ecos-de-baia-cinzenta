@@ -18,7 +18,13 @@ CHAPTER_RE = re.compile(r"capitulo-(\d+(?:\.5)?)\.md$")
 class Chapter:
     number: float
     path: Path
-    text: str
+    _text: str | None = None
+
+    @property
+    def text(self) -> str:
+        if self._text is None:
+            self._text = self.path.read_text(encoding="utf-8")
+        return self._text
 
 
 def chapter_number(path: Path) -> float:
@@ -32,7 +38,7 @@ def load_chapters() -> list[Chapter]:
     chapters = []
     for file in DOCS_DIR.glob("capitulo-*.md"):
         if CHAPTER_RE.search(file.name):
-            chapters.append(Chapter(chapter_number(file), file, file.read_text(encoding="utf-8")))
+            chapters.append(Chapter(chapter_number(file), file))
     return sorted(chapters, key=lambda c: c.number)
 
 
@@ -113,7 +119,8 @@ def check_character_consistency(chapters: list[Chapter], aliases: dict[str, set[
 
     for canonical, fallback_aliases in central_aliases.items():
         alias_set = aliases.get(canonical, fallback_aliases)
-        mentions = sum(1 for ch in recent if any(re.search(rf"\b{re.escape(a)}\b", ch.text, re.IGNORECASE) for a in alias_set))
+        pattern = re.compile(rf"\b(?:{'|'.join(map(re.escape, alias_set))})\b", re.IGNORECASE)
+        mentions = sum(1 for ch in recent if pattern.search(ch.text))
         if mentions <= 1:
             issues.append(f"Personagem central pouco presente nos 10 capítulos mais recentes: {canonical} ({mentions}/10)")
 
@@ -126,7 +133,8 @@ def bestseller_score(chapters: list[Chapter]) -> tuple[float, list[str]]:
         return 0.0, ["Sem capítulos para avaliar."]
 
     recent = chapters[-12:]
-    word_counts = [len(re.findall(r"\b\w+\b", ch.text)) for ch in recent]
+    word_pattern = re.compile(r"\b\w+\b")
+    word_counts = [len(word_pattern.findall(ch.text)) for ch in recent]
     avg_words = mean(word_counts)
 
     sensory_tokens = ("chuva", "neon", "sombra", "sangue", "metal", "eco", "frio", "silêncio")
@@ -135,7 +143,8 @@ def bestseller_score(chapters: list[Chapter]) -> tuple[float, list[str]]:
         for ch in recent
     )
 
-    cliffhanger_count = sum(1 for ch in recent if re.search(r"\?$|\.$|!$", ch.text.strip()))
+    cliffhanger_pattern = re.compile(r"[?.!]\s*$")
+    cliffhanger_count = sum(1 for ch in recent if cliffhanger_pattern.search(ch.text))
 
     score = 0.0
     if avg_words >= 1400:
