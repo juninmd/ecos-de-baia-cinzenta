@@ -4,9 +4,6 @@ import shutil
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-import sys
-from pathlib import Path
-
 # Add root project dir to pythonpath to allow relative imports from scripts
 root_dir = Path(__file__).resolve().parent.parent.parent
 sys.path.insert(0, str(root_dir))
