@@ -11,6 +11,8 @@ class CharacterDatabase:
     def __init__(self, filepath):
         self.filepath = filepath
         self.characters = {}
+        self._alias_map = None
+        self._compiled_pattern = None
         self.load()
 
     def load(self):
@@ -69,13 +71,36 @@ class CharacterDatabase:
 
     def find_characters_in_text(self, text):
         found = []
+        if not text:
+            return found
         text_lower = text.lower()
-        for char_data in self.characters.values():
-            for alias in char_data["aliases"]:
-                escaped_alias = re.escape(alias)
-                if re.search(r'\b' + escaped_alias + r'\b', text_lower, re.IGNORECASE):
-                    found.append(char_data)
-                    break
+
+        if self._alias_map is None:
+            self._alias_map = {}
+            for char_data in self.characters.values():
+                for alias in char_data["aliases"]:
+                    lower_alias = alias.lower()
+                    if lower_alias not in self._alias_map:
+                        self._alias_map[lower_alias] = []
+                    self._alias_map[lower_alias].append(char_data)
+
+        if self._compiled_pattern is None:
+            all_aliases = [a for a in self._alias_map.keys() if a]
+            if not all_aliases:
+                return found
+            all_aliases.sort(key=len, reverse=True)
+            pattern_str = r'\b(' + '|'.join(map(re.escape, all_aliases)) + r')\b'
+            self._compiled_pattern = re.compile(pattern_str)
+
+        matches = set(self._compiled_pattern.findall(text_lower))
+
+        found_ids = set()
+        for match in matches:
+            if match in self._alias_map:
+                for char_data in self._alias_map[match]:
+                    if char_data["name"] not in found_ids:
+                        found.append(char_data)
+                        found_ids.add(char_data["name"])
         return found
 
 class ChapterContext:
