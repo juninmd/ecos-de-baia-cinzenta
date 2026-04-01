@@ -15,7 +15,7 @@ title: "Análise Crítica - Capítulo 55"
 - N/A
 
 # Análise de Personagens
-- Gabriel (Gabo): Mantém sua postura quebra, porém determinada. As metáforas sobre seu cansaço são todas relativas à dor ("carrega o mundo nas costas. E que as costas estão quebrando").
+- Gabriel (Gabo): Mantém sua postura quebrada, porém determinada. As metáforas sobre seu cansaço são todas relativas à dor ("carrega o mundo nas costas. E que as costas estão quebrando").
 - Valéria: Acompanha Gabo e se mostra preparada para o conflito final.
 
 # Sanity Check
