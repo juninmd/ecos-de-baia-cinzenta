@@ -116,3 +116,18 @@ Este arquivo mantém o controle de progresso sobre o processo de revisão, adequ
 - [x] **Capítulo 50: O Silêncio da Chuva** - Revisor sem problemas de lore encontrados. Protagonista está inconsciente e severamente machucado (órteses introduzidas). Luto pela morte de Helena é lidado organicamente sem cigarros. Arquivo de análise criado.
 - [x] **Capítulo 51: Mãos Limpas** - Revisor sem problemas de lore encontrados. Protagonista recusa fumaça de cigarro expressamente no texto ("desviou o rosto, incomodado com a fumaça"). Reage à dor cimentando a fisicalidade. Arquivo de análise criado.
 - [x] **Capítulo 52: Dívida Eterna** - Revisor sem problemas de lore encontrados. Nenhuma quebra na fobia ou fuga no tabagismo; ele aceita a dor nas pernas quebradas como âncora à realidade para ajudar a irmã. Arquivo de análise criado.
+
+## Lote 18: Capítulos 53 a 55
+- [x] **Capítulo 53: Café, Código e Conspiração** - Revisor sem problemas de lore encontrados. Sem apelo ao cigarro; limite físico lidado com as órteses gemendo. Arquivo de análise criado.
+- [x] **Capítulo 54: Fé e Ferrugem** - Revisor sem problemas de lore encontrados. O escape de Gabo é através do seu carro analógico e da dor/limitação das suas baterias. Arquivo de análise criado.
+- [x] **Capítulo 55** - Revisado. Menção a "fumaça" como adjetivo para uma voz ("voz era seda e fumaça") alterada para "voz era seda e lâmina" para total isolamento do léxico que causa alucinação em Gabo. Arquivo de análise criado.
+
+## Lote 19: Capítulos 56 a 58
+- [x] **Capítulo 56: O Preço do Amanhã** - Revisor sem problemas de lore encontrados. Isolamento e foco na sobrevivência através da cafeína, mantendo coerência contra vícios como tabaco. Arquivo de análise criado.
+- [x] **Capítulo 57: Zona de Interesse** - Revisor sem problemas de lore encontrados. Condução da narrativa foca na relação de Gabo com Aria e a brutalidade corporativa dos drones de Lázaro. Arquivo de análise criado.
+- [x] **Capítulo 58: O Dilema do Capitão** - Revisor sem problemas de lore encontrados. Capítulo focado no Capitão Jonas Vilar. Arquivo de análise criado.
+
+## Lote 20: Capítulos 59 a 61
+- [x] **Capítulo 59: A Fundação** - Revisor sem problemas de lore encontrados. Lore cyberpunk de choque térmico sem falhas. Arquivo de análise criado.
+- [x] **Capítulo 60: Despejo** - Revisado. Menção a "fumaça" no campo de batalha ("O ar cheirava a fumaça") corrigida para "fuligem" para isolar estritamente o gatilho narrativo de Gabo. Ação brutal ancorada em dor física genuína. Arquivo de análise criado.
+- [x] **Capítulo 61: Tinta no Papel** - Revisor sem problemas de lore encontrados. Respiro na van de Valéria. Protagonista descansa enquanto hack é operado. Arquivo de análise criado.

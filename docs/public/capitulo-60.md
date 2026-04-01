@@ -83,7 +83,7 @@ Finalmente, eles irromperam na superfície através de uma escotilha de manuten�
 
 A noite tinha caído sobre Baía Cinzenta, mas a cidade ardia.
 
-Fogueiras de barricadas pontilhavam o horizonte. O som distante de sirenes — as poucas que ainda funcionavam — misturava-se com gritos e o estalido de tiros esporádicos. O ar cheirava a fumaça, borracha queimada e o ozônio metálico da tempestade que se aproximava.
+Fogueiras de barricadas pontilhavam o horizonte. O som distante de sirenes — as poucas que ainda funcionavam — misturava-se com gritos e o estalido de tiros esporádicos. O ar cheirava a fuligem, borracha queimada e o ozônio metálico da tempestade que se aproximava.
 
 Eles saíram em um beco nos fundos de um antigo shopping center abandonado, o esqueleto de concreto de um templo de consumo que ninguém mais podia pagar. Vitrines quebradas exibiam manequins sem cabeça, testemunhas mudas de uma era de abundância que parecia mitológica agora.
 
