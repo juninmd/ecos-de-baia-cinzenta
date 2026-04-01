@@ -145,10 +145,10 @@ def bestseller_score(chapters: list[Chapter]) -> tuple[float, list[str]]:
     sensory_tokens = ("chuva", "neon", "sombra", "sangue", "metal", "eco", "frio", "silêncio")
 
     densities = []
-    for ch in recent:
+    for i, ch in enumerate(recent):
         text_lower = ch.text.lower()
         token_count = sum(text_lower.count(tok) for tok in sensory_tokens)
-        densities.append(token_count / max(len(ch.text.split()), 1))
+        densities.append(token_count / max(word_counts[i], 1))
 
     sensory_density = mean(densities) if densities else 0.0
 
