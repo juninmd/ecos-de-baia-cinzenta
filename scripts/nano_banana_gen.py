@@ -5,103 +5,14 @@ import sys
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from google import genai
 from PIL import Image
+from pathlib import Path
 import io
 
-class CharacterDatabase:
-    def __init__(self, filepath):
-        self.filepath = filepath
-        self.characters = {}
-        self._alias_map = None
-        self._compiled_pattern = None
-        self.load()
+# Add root project dir to pythonpath to allow relative imports from scripts
+root_dir = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(root_dir))
 
-    def load(self):
-        if not os.path.exists(self.filepath):
-            print(f"Error: Character file not found at {self.filepath}")
-            return
-
-        with open(self.filepath, 'r', encoding='utf-8') as f:
-            content = f.read()
-
-        sections = re.split(r'\n## ', content)
-
-        for section in sections:
-            if not section.strip() or section.startswith('# '):
-                continue
-
-            lines = section.split('\n')
-            name_line = lines[0].strip()
-            name_clean = re.sub(r'\s*\[.*?\]', '', name_line).strip()
-
-            image_match = re.search(r'!\[.*?\]\((.*?)\)', section)
-            image_path = image_match.group(1) if image_match else None
-            
-            # Resolve relative image path to absolute if possible
-            if image_path:
-                if image_path.startswith('/'):
-                    # Assuming / refers to docs/public or root
-                     # Heuristic: try finding it in docs/public relative to project root
-                    pass 
-                
-            description = []
-            for line in lines:
-                if any(key in line for key in ["Porte Físico:", "Vestuário:", "Marcas Distintivas:", "Cabelo:", "Olhos:"]):
-                    description.append(line.replace('*', '').strip())
-
-            full_desc = " ".join(description)
-
-            aliases = set()
-            aliases.add(name_clean)
-            nickname_match = re.search(r'"(.*?)"', name_clean)
-            if nickname_match:
-                aliases.add(nickname_match.group(1))
-
-            parts = name_clean.split()
-            if parts:
-                if len(parts[0]) > 2:
-                    aliases.add(parts[0])
-
-            self.characters[name_clean] = {
-                "name": name_clean,
-                "aliases": list(aliases),
-                "image": image_path,
-                "description": full_desc,
-                "raw_section": section
-            }
-
-    def find_characters_in_text(self, text):
-        found = []
-        if not text:
-            return found
-        text_lower = text.lower()
-
-        if self._alias_map is None:
-            self._alias_map = {}
-            for char_data in self.characters.values():
-                for alias in char_data["aliases"]:
-                    lower_alias = alias.lower()
-                    if lower_alias not in self._alias_map:
-                        self._alias_map[lower_alias] = []
-                    self._alias_map[lower_alias].append(char_data)
-
-        if self._compiled_pattern is None:
-            all_aliases = [a for a in self._alias_map.keys() if a]
-            if not all_aliases:
-                return found
-            all_aliases.sort(key=len, reverse=True)
-            pattern_str = r'\b(' + '|'.join(map(re.escape, all_aliases)) + r')\b'
-            self._compiled_pattern = re.compile(pattern_str)
-
-        matches = set(self._compiled_pattern.findall(text_lower))
-
-        found_ids = set()
-        for match in matches:
-            if match in self._alias_map:
-                for char_data in self._alias_map[match]:
-                    if char_data["name"] not in found_ids:
-                        found.append(char_data)
-                        found_ids.add(char_data["name"])
-        return found
+from scripts.art_gen.character_db import CharacterDatabase
 
 class ChapterContext:
     def __init__(self, chapter_num):
