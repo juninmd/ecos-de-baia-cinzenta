@@ -10,6 +10,12 @@ from pathlib import Path
 import requests
 from dotenv import load_dotenv
 
+# Add root project dir to pythonpath to allow relative imports from scripts
+root_dir = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(root_dir))
+
+from scripts.art_gen.character_db import CharacterDatabase
+
 load_dotenv()
 
 MODEL_ALTERNATIVES = {
@@ -29,95 +35,14 @@ MODEL_ALTERNATIVES = {
 }
 
 
-class CharacterDatabase:
-    def __init__(self, filepath):
-        self.filepath = filepath
-        self.characters = {}
-        self.load()
-
-    def load(self):
-        if not os.path.exists(self.filepath):
-            print(f"⚠️ Character file not found at {self.filepath}")
-            return
-
-        with open(self.filepath, "r", encoding="utf-8") as f:
-            content = f.read()
-
-        # Improved parsing logic for markdown sections
-        sections = re.split(r"\n## ", "\n" + content)
-        for section in sections:
-            section = section.strip()
-            if not section or section.startswith("# "):
-                continue
-
-            lines = section.split("\n")
-            # Extract name and remove markdown formatting/aliases in parens
-            raw_title = lines[0].strip().replace("*", "").replace("#", "")
-            name_clean = re.sub(r"\s*[\(\[].*?[\)\]]", "", raw_title).strip()
-
-            # Capture all relevant visual fields
-            details = {}
-            current_field = None
-            
-            for line in lines:
-                line_clean = line.strip()
-                # Match bullet points like "* **Field:** Value"
-                match = re.search(r"^\*?\s*\*\*(.*?):\*\*\s*(.*)$", line_clean)
-                if match:
-                    field_name = match.group(1).strip()
-                    field_value = match.group(2).strip()
-                    details[field_name] = field_value
-                elif line_clean.startswith("!["):
-                    # Image reference line
-                    pass
-
-            # Build a structured visual DNA string
-            visual_dna = []
-            for field in ["Idade", "Altura", "Porte Físico", "Cabelo", "Olhos", "Rosto", "Marcas Distintivas", "Vestuário"]:
-                if field in details:
-                    visual_dna.append(f"{field}: {details[field]}")
-            
-            if not visual_dna:
-                # Fallback to the old line-by-line collector if the bold-match fails
-                for line in lines:
-                    c = line.replace("*", "").strip()
-                    if ":" in c and any(k in c for k in ["Cabelo", "Olhos", "Vestuário", "Porte", "Marca"]):
-                        visual_dna.append(c)
-
-            aliases = {name_clean}
-            nick = re.search(r'"(.*?)"', raw_title)
-            if nick:
-                aliases.add(nick.group(1))
-            
-            # Add early version of first name as alias
-            first_parts = name_clean.split()
-            if first_parts and len(first_parts[0]) > 2:
-                aliases.add(first_parts[0])
-
-            self.characters[name_clean] = {
-                "name": name_clean,
-                "aliases": list(aliases),
-                "description": " | ".join(visual_dna),
-            }
-        print(f"📊 Loaded {len(self.characters)} characters with Visual DNA profiles.")
-
-    def find_characters_in_text(self, text):
-        found = []
-        for char_data in self.characters.values():
-            for alias in char_data["aliases"]:
-                if re.search(rf"\b{re.escape(alias)}\b", text, re.IGNORECASE):
-                    found.append(char_data)
-                    break
-        return found
-
-    def get_character_image(self, char_data, search_dir="docs/public/personagens"):
-        for alias in char_data["aliases"]:
-            # Tenta encontrar a imagem pelo apelido ou nome (ex: gabo.jpg, val.png)
-            for ext in [".jpg", ".png", ".jpeg"]:
-                test_path = os.path.join(search_dir, alias.lower() + ext)
-                if os.path.exists(test_path):
-                    return test_path
-        return None
+def get_character_image(char_data, search_dir="docs/public/personagens"):
+    for alias in char_data["aliases"]:
+        # Tenta encontrar a imagem pelo apelido ou nome (ex: gabo.jpg, val.png)
+        for ext in [".jpg", ".png", ".jpeg"]:
+            test_path = os.path.join(search_dir, alias.lower() + ext)
+            if os.path.exists(test_path):
+                return test_path
+    return None
 
 
 class ChapterContext:
@@ -360,7 +285,7 @@ def main():
             # Buscar imagem do personagem principal (o primeiro encontrado)
             image_path = None
             if active_chars:
-                image_path = db.get_character_image(active_chars[0])
+                image_path = get_character_image(active_chars[0])
                 if image_path:
                     print(f"👤 Primary character detected: {active_chars[0]['name']} (Image found)")
                 else:

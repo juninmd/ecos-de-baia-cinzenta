@@ -122,8 +122,6 @@ class CharacterDatabase:
         for char_data in self.characters.values():
             for alias in char_data["aliases"]:
                 lower_alias = alias.lower()
-                if len(lower_alias) < 3:
-                    continue
                 if lower_alias not in alias_map:
                     alias_map[lower_alias] = []
                 alias_map[lower_alias].append(char_data)

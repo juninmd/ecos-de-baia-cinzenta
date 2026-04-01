@@ -19,6 +19,12 @@ CANONICAL_NEGATIONS = re.compile(r"(odeia|nunca fumou|n[aã]o fuma|repulsa|n[aá
 WORD_PATTERN = re.compile(r"\b\w+\b")
 CLIFFHANGER_PATTERN = re.compile(r"[?.!]\s*$")
 
+CENTRAL_ALIASES = {
+    "Gabriel \"Gabo\" Moretti": {"gabo", "gabriel", "moretti"},
+    "Valéria \"Val\" Cruz": {"valéria", "val", "cruz"},
+    "Aria": {"aria"},
+}
+
 
 @dataclass
 class Chapter:
@@ -115,13 +121,9 @@ def check_character_consistency(chapters: list[Chapter], aliases: dict[str, set[
 
     # Checa se capítulos recentes perderam protagonistas centrais.
     recent = chapters[-10:]
-    central_aliases = {
-        "Gabriel \"Gabo\" Moretti": {"gabo", "gabriel", "moretti"},
-        "Valéria \"Val\" Cruz": {"valéria", "val", "cruz"},
-        "Aria": {"aria"},
-    }
 
-    for canonical, fallback_aliases in central_aliases.items():
+    # Cache compiled regex per canonical alias string during evaluation
+    for canonical, fallback_aliases in CENTRAL_ALIASES.items():
         alias_set = aliases.get(canonical, fallback_aliases)
         pattern = re.compile(rf"\b(?:{'|'.join(map(re.escape, alias_set))})\b", re.IGNORECASE)
         mentions = sum(1 for ch in recent if pattern.search(ch.text))
@@ -141,10 +143,14 @@ def bestseller_score(chapters: list[Chapter]) -> tuple[float, list[str]]:
     avg_words = mean(word_counts)
 
     sensory_tokens = ("chuva", "neon", "sombra", "sangue", "metal", "eco", "frio", "silêncio")
-    sensory_density = mean(
-        sum(ch.text.lower().count(tok) for tok in sensory_tokens) / max(len(ch.text.split()), 1)
-        for ch in recent
-    )
+
+    densities = []
+    for i, ch in enumerate(recent):
+        text_lower = ch.text.lower()
+        token_count = sum(text_lower.count(tok) for tok in sensory_tokens)
+        densities.append(token_count / max(word_counts[i], 1))
+
+    sensory_density = mean(densities) if densities else 0.0
 
     cliffhanger_count = sum(1 for ch in recent if CLIFFHANGER_PATTERN.search(ch.text))
 
