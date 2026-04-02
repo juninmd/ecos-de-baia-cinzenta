@@ -131,3 +131,8 @@ Este arquivo mantém o controle de progresso sobre o processo de revisão, adequ
 - [x] **Capítulo 59: A Fundação** - Revisor sem problemas de lore encontrados. Lore cyberpunk de choque térmico sem falhas. Arquivo de análise criado.
 - [x] **Capítulo 60: Despejo** - Revisado. Menção a "fumaça" no campo de batalha ("O ar cheirava a fumaça") corrigida para "fuligem" para isolar estritamente o gatilho narrativo de Gabo. Ação brutal ancorada em dor física genuína. Arquivo de análise criado.
 - [x] **Capítulo 61: Tinta no Papel** - Revisor sem problemas de lore encontrados. Respiro na van de Valéria. Protagonista descansa enquanto hack é operado. Arquivo de análise criado.
+
+## Lote 21: Capítulos 62 a 64
+- [x] **Capítulo 62: O Santo e a Criança** - Revisor sem problemas de lore encontrados. Sem tabaco. Gabo sobrevive ao ataque aceitando a dor extrema do estrangulamento e costelas fraturadas. Arquivo de análise criado.
+- [x] **Capítulo 63: Águas Profundas** - Revisor sem problemas de lore encontrados. Continuidade narrativa excelente recuperando o Taxidermista do Capítulo 47 em contexto onde faz sentido. Gabo totalmente dependente da dor e limitações de seu corpo destruído. Arquivo de análise criado.
+- [x] **Capítulo 64: A Cidade Fantasma** - Revisor sem problemas de lore encontrados. Protagonista rasteja incapacitado, com pernas destruídas, totalmente no lore. Sem alucinações de fumaça. Twist ético do cyberpunk executado. Arquivo de análise criado.
