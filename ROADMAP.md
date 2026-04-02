@@ -11,13 +11,14 @@
 ## 2. Current Status
 **Phase: Refinement & Depth (Phase 2)**
 - **Completed:** Initial scaffolding, repository setup, basic architecture, and Antigravity documentation alignment.
-- **In Progress:** Feature expansion (core business logic), increasing test coverage to >80%, and continuous narrative publishing (currently up to Chapter 159).
+- **In Progress:** Feature expansion (core business logic), increasing test coverage to >80%, and continuous narrative publishing (currently up to Chapter 168).
 - **Recent Milestones:** Migration of narrative content to `docs/public/`, stabilization of automated art generation scripts, and CI/CD workflow updates for robust PR validation.
 
 ## 3. Quarterly Roadmap
 
 ### Q1: Narrative Stabilization & Test Coverage
 - **High priority (bugs, critical features):**
+  - Fix CI pipeline failing ([#180](https://github.com/juninmd/meu-livro/issues/180)).
   - Consolidate all narrative chapters and analysis files within `docs/public/` to prevent CI/CD data-loss safeguard triggers.
   - Fix any flaky tests in the Python art generation script (e.g., CPU fallback validation).
 - **Medium priority (enhancements, improvements):**
