@@ -18,7 +18,8 @@
 
 ### Q1: Narrative Stabilization & Test Coverage
 - **High priority (bugs, critical features):**
-  - Fix CI pipeline failing ([#180](https://github.com/juninmd/meu-livro/issues/180)).
+  - Fix failing CI pipeline ([#180](https://github.com/juninmd/meu-livro/issues/180)).
+  - Synchronize `GEMINI.md` (Single Source of Truth) with narrative progress up to Chapter 168.
   - Consolidate all narrative chapters and analysis files within `docs/public/` to prevent CI/CD data-loss safeguard triggers.
   - Fix any flaky tests in the Python art generation script (e.g., CPU fallback validation).
 - **Medium priority (enhancements, improvements):**
