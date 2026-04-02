@@ -67,7 +67,7 @@ jobs:
 
       - name: Upload Artifact
         if: steps.info.outputs.chapter != ''
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: capitulo-${{ steps.info.outputs.chapter }}-art
           path: docs/public/capitulo_${{ steps.info.outputs.chapter }}_pro.jpg
