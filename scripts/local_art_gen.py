@@ -4,10 +4,8 @@ import os
 import re
 import sys
 import time
-from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
-import requests
 from dotenv import load_dotenv
 
 # Add root project dir to pythonpath to allow relative imports from scripts
@@ -16,6 +14,8 @@ sys.path.insert(0, str(root_dir))
 
 from scripts.art_gen.character_db import CharacterDatabase
 from scripts.art_gen.chapter_context import ChapterContext
+from scripts.art_gen.utils import parse_chapter_selection
+from scripts.art_gen.batch import run_chapter_batch_processing, build_common_argparser
 
 load_dotenv()
 
@@ -187,17 +187,6 @@ class HuggingFaceAPIClient:
             return False
 
 
-def parse_chapter_selection(raw: str):
-    selected = []
-    for chunk in raw.replace(" ", "").split(","):
-        if "-" in chunk:
-            start, end = map(int, chunk.split("-"))
-            selected.extend(range(start, end + 1))
-        elif chunk:
-            selected.append(int(chunk))
-    return sorted(set(selected))
-
-
 def process_chapter(chapter_num, text_engine, image_engine, db, project_root, style, dry_run):
     chapter = ChapterContext(Path(f"docs/capitulo-{chapter_num}.md"))
     active_chars = db.find_characters_in_text(chapter.body)
@@ -218,15 +207,12 @@ def process_chapter(chapter_num, text_engine, image_engine, db, project_root, st
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Generate chapter art locally (Open Source Nano Banana quality)")
-    parser.add_argument("chapters", type=str, help="Chapter number, list (1,2,3) or range (10-14)")
-    parser.add_argument("--style", default="neo-noir cinematic cyberpunk", help="Visual style modifier")
+    parser = build_common_argparser("Generate chapter art locally (Open Source Nano Banana quality)")
     parser.add_argument("--ollama-model", default="qwen2.5:7b", help="Ollama model for prompt generation")
     parser.add_argument("--model-family", default="sdxl-novita", choices=MODEL_ALTERNATIVES.keys())
     parser.add_argument("--strength", type=float, default=0.1, help="I2I transformation strength (0.1 = max face fidelity)")
     parser.add_argument("--output-suffix", default="", help="Suffix for the output filename (e.g., _heavy)")
     parser.add_argument("--dry-run", action="store_true", help="Print prompts without generating images")
-    parser.add_argument("--max-workers", type=int, default=4, help="Maximum number of concurrent workers")
     args = parser.parse_args()
 
     chapters = parse_chapter_selection(args.chapters)
@@ -280,16 +266,7 @@ def main():
             
             return ok
 
-        success_count = 0
-        with ThreadPoolExecutor(max_workers=args.max_workers) as executor:
-            futures = {executor.submit(worker, chapter_num): chapter_num for chapter_num in chapters}
-            for future in as_completed(futures):
-                try:
-                    if future.result():
-                        success_count += 1
-                except Exception as e:
-                    chapter_num = futures[future]
-                    print(f"❌ Error processing chapter {chapter_num}: {e}")
+        success_count = run_chapter_batch_processing(chapters, worker, args.max_workers)
 
         print(f"\n🏁 Done. Successful chapters: {success_count}/{len(chapters)}")
     except Exception as exc:

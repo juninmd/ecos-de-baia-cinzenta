@@ -14,6 +14,8 @@ sys.path.insert(0, str(root_dir))
 
 from scripts.art_gen.character_db import CharacterDatabase
 from scripts.art_gen.chapter_context import ChapterContext
+from scripts.art_gen.utils import parse_chapter_selection
+from scripts.art_gen.batch import run_chapter_batch_processing, build_common_argparser
 
 class CostCalculator:
     def __init__(self):
@@ -248,36 +250,14 @@ def process_chapter(chapter_num, engine, db, project_root, style):
         return False
 
 def main():
-    parser = argparse.ArgumentParser(description="Generate Art for a Chapter using Nano Banana")
-    parser.add_argument('chapters', type=str, help="Chapter number (e.g., '102') or range (e.g., '7-104')")
-    parser.add_argument('--style', type=str, help="Optional style/prompt modifier", default="")
-    parser.add_argument("--max-workers", type=int, default=4, help="Maximum number of concurrent workers")
+    parser = build_common_argparser("Generate Art for a Chapter using Nano Banana")
     args = parser.parse_args()
 
     project_root = os.getcwd()
     char_file = os.path.join(project_root, "docs/personagens.md")
 
     # Parse Range
-    chapter_list = []
-    # Remove spaces just in case
-    clean_args = args.chapters.replace(' ', '')
-    
-    if ',' in clean_args:
-        parts = clean_args.split(',')
-        for part in parts:
-            if '-' in part:
-                start, end = map(int, part.split('-'))
-                chapter_list.extend(range(start, end + 1))
-            else:
-                chapter_list.append(int(part))
-    elif '-' in clean_args:
-        start, end = map(int, clean_args.split('-'))
-        chapter_list = list(range(start, end + 1))
-    else:
-        chapter_list = [int(clean_args)]
-    
-    # Sort and unique
-    chapter_list = sorted(list(set(chapter_list)))
+    chapter_list = parse_chapter_selection(args.chapters)
 
     try:
         engine = NanoBanana()
@@ -286,14 +266,7 @@ def main():
         def worker(chapter_num):
             return process_chapter(chapter_num, engine, db, project_root, args.style)
 
-        with ThreadPoolExecutor(max_workers=args.max_workers) as executor:
-            futures = {executor.submit(worker, chapter_num): chapter_num for chapter_num in chapter_list}
-            for future in as_completed(futures):
-                try:
-                    future.result()
-                except Exception as e:
-                    chapter_num = futures[future]
-                    print(f"❌ Error processing chapter {chapter_num}: {e}")
+        run_chapter_batch_processing(chapter_list, worker, args.max_workers)
             
         # Print Final Costs
         print("\n" + "="*50)
