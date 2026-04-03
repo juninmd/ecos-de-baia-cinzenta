@@ -1,5 +1,4 @@
 import argparse
-import base64
 import os
 import re
 import sys
@@ -7,7 +6,6 @@ import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
-import requests
 from dotenv import load_dotenv
 
 # Add root project dir to pythonpath to allow relative imports from scripts
@@ -45,34 +43,60 @@ def get_character_image(char_data, search_dir="docs/public/personagens"):
     return None
 
 
+# Compile regex at module level for performance
+IMAGE_FRONTMATTER_RE = re.compile(r"image:.*")
+SNIPPET_CLEAN_RE = re.compile(r"\s+")
+
 class ChapterContext:
     def __init__(self, chapter_num):
         self.chapter_num = chapter_num
         self.filepath = Path(f"docs/capitulo-{chapter_num}.md")
-        self.content = ""
-        self.frontmatter = ""
-        self.body = ""
-        self.load()
+        self._content = None
+        self._frontmatter = None
+        self._body = None
 
-    def load(self):
+    def _load(self):
         if not self.filepath.exists():
             raise FileNotFoundError(f"Chapter file not found: {self.filepath}")
 
-        self.content = self.filepath.read_text(encoding="utf-8")
-        if self.content.startswith("---"):
-            parts = self.content.split("---", 2)
+        self._content = self.filepath.read_text(encoding="utf-8")
+        if self._content.startswith("---"):
+            parts = self._content.split("---", 2)
             if len(parts) >= 3:
-                self.frontmatter = parts[1]
-                self.body = parts[2]
+                self._frontmatter = parts[1]
+                self._body = parts[2]
                 return
-        self.body = self.content
+        self._body = self._content
+        self._frontmatter = ""
+
+    @property
+    def content(self):
+        if self._content is None:
+            self._load()
+        return self._content
+
+    @property
+    def frontmatter(self):
+        if self._frontmatter is None:
+            self._load()
+        return self._frontmatter
+
+    @frontmatter.setter
+    def frontmatter(self, value):
+        self._frontmatter = value
+
+    @property
+    def body(self):
+        if self._body is None:
+            self._load()
+        return self._body
 
     def update_frontmatter(self, image_path):
         public_path = image_path if image_path.startswith("/") else f"/{os.path.basename(image_path)}"
 
         if self.frontmatter:
             if "image:" in self.frontmatter:
-                self.frontmatter = re.sub(r"image:.*", f"image: {public_path}", self.frontmatter)
+                self.frontmatter = IMAGE_FRONTMATTER_RE.sub(f"image: {public_path}", self.frontmatter)
             else:
                 self.frontmatter = self.frontmatter.rstrip() + f"\nimage: {public_path}\n"
         else:
@@ -88,6 +112,7 @@ class OllamaClient:
         self.api_url = "http://localhost:11434/api/generate"
 
     def check_connection(self, max_retries=3, retry_delay=2):
+        import requests
         try:
             # Check if specified model exists, otherwise fallback to first available or qwen2.5:7b
             resp = requests.get("http://localhost:11434/api/tags", timeout=5)
@@ -103,7 +128,7 @@ class OllamaClient:
 
     def build_fallback_prompt(self, chapter_text, active_characters, style):
         canon = "; ".join(f"{c['name']}: {c['description'][:150]}" for c in active_characters[:2])
-        snippet = re.sub(r"\s+", " ", chapter_text[:300]).strip()
+        snippet = SNIPPET_CLEAN_RE.sub(" ", chapter_text[:300]).strip()
         return (
             f"Cinematic neo-noir cyberpunk frame, {style}. "
             f"High-end visual storytelling, dynamic composition, 35mm film aesthetic, "
@@ -114,6 +139,7 @@ class OllamaClient:
         )
 
     def generate_prompt(self, chapter_text, active_characters, style):
+        import requests
         char_context = "\n".join(f"- {c['name']}: {c['description'][:400]}" for c in active_characters[:3])
         if not char_context:
             char_context = "- No specific character traits provided. Use generic cyberpunk survivors."
@@ -174,6 +200,8 @@ class HuggingFaceAPIClient:
             print("⚠️ HF_TOKEN not found in environment. API calls will likely fail with 401 Unauthorized.")
 
     def generate_art(self, prompt, output_path, image_path=None, strength=0.1, dry_run=False):
+        import requests
+        import base64
         if dry_run:
             print(f"🧪 [DRY RUN] Prompt final:\n{prompt}\n")
             if image_path:

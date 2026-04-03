@@ -3,10 +3,7 @@ import re
 import argparse
 import sys
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from google import genai
-from PIL import Image
 from pathlib import Path
-import io
 
 # Add root project dir to pythonpath to allow relative imports from scripts
 root_dir = Path(__file__).resolve().parent.parent
@@ -14,32 +11,58 @@ sys.path.insert(0, str(root_dir))
 
 from scripts.art_gen.character_db import CharacterDatabase
 
+# Compile regex at module level for performance
+IMAGE_FRONTMATTER_RE = re.compile(r'image:.*')
+
 class ChapterContext:
     def __init__(self, chapter_num):
         self.chapter_num = chapter_num
         self.filepath = f"docs/capitulo-{chapter_num}.md"
-        self.content = ""
-        self.frontmatter = ""
-        self.body = ""
-        self.load()
+        self._content = None
+        self._frontmatter = None
+        self._body = None
 
-    def load(self):
+    def _load(self):
         if not os.path.exists(self.filepath):
             print(f"Error: Chapter file not found at {self.filepath}")
             sys.exit(1)
 
         with open(self.filepath, 'r', encoding='utf-8') as f:
-            self.content = f.read()
+            self._content = f.read()
 
-        if self.content.startswith('---'):
-            parts = self.content.split('---', 2)
+        if self._content.startswith('---'):
+            parts = self._content.split('---', 2)
             if len(parts) >= 3:
-                self.frontmatter = parts[1]
-                self.body = parts[2]
+                self._frontmatter = parts[1]
+                self._body = parts[2]
             else:
-                self.body = self.content
+                self._body = self._content
+                self._frontmatter = ""
         else:
-            self.body = self.content
+            self._body = self._content
+            self._frontmatter = ""
+
+    @property
+    def content(self):
+        if self._content is None:
+            self._load()
+        return self._content
+
+    @property
+    def frontmatter(self):
+        if self._frontmatter is None:
+            self._load()
+        return self._frontmatter
+
+    @frontmatter.setter
+    def frontmatter(self, value):
+        self._frontmatter = value
+
+    @property
+    def body(self):
+        if self._body is None:
+            self._load()
+        return self._body
 
     def update_frontmatter(self, image_path):
         if not image_path.startswith('/'):
@@ -49,7 +72,7 @@ class ChapterContext:
 
         if self.frontmatter:
             if 'image:' in self.frontmatter:
-                self.frontmatter = re.sub(r'image:.*', f'image: {public_path}', self.frontmatter)
+                self.frontmatter = IMAGE_FRONTMATTER_RE.sub(f'image: {public_path}', self.frontmatter)
             else:
                 self.frontmatter = self.frontmatter.rstrip() + f'\nimage: {public_path}\n'
         else:
@@ -101,6 +124,7 @@ class CostCalculator:
 
 class NanoBanana:
     def __init__(self):
+        from google import genai
         print("🍌 Initializing Nano Banana Core (Gemini 2.5 Powered - via google.genai)...")
         
         # Load keys from env or default
@@ -176,6 +200,8 @@ class NanoBanana:
         return response.text
 
     def generate_art(self, prompt, ref_image_paths, output_path):
+        from PIL import Image
+        import io
         print("\n" + "="*50)
         print("🍌 NANO BANANA GENERATION REQUEST 🍌")
         print("="*50)
