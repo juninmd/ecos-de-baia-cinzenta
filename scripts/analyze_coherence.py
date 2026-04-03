@@ -104,18 +104,22 @@ def check_sequence(chapters: list[Chapter]) -> list[str]:
 
 
 def check_character_consistency(chapters: list[Chapter], aliases: dict[str, set[str]]) -> list[str]:
+    from concurrent.futures import ThreadPoolExecutor
     issues = []
 
     # Regra canônica: Gabo tem repulsa a cigarro/fumo.
-    violators = []
-    for ch in chapters:
+    def check_violation(ch):
         match = VIOLATION_PATTERN.search(ch.text)
         if not match:
-            continue
+            return None
         window = ch.text[max(0, match.start() - 60): match.end() + 80]
         if CANONICAL_NEGATIONS.search(window):
-            continue
-        violators.append(ch.path.name)
+            return None
+        return ch.path.name
+
+    with ThreadPoolExecutor() as executor:
+        violators = list(filter(None, executor.map(check_violation, chapters)))
+
     if violators:
         issues.append(f"Possível violação do traço de Gabo (fumo) em: {violators[:10]}")
 
@@ -126,7 +130,13 @@ def check_character_consistency(chapters: list[Chapter], aliases: dict[str, set[
     for canonical, fallback_aliases in CENTRAL_ALIASES.items():
         alias_set = aliases.get(canonical, fallback_aliases)
         pattern = re.compile(rf"\b(?:{'|'.join(map(re.escape, alias_set))})\b", re.IGNORECASE)
-        mentions = sum(1 for ch in recent if pattern.search(ch.text))
+
+        def check_mention(ch):
+            return 1 if pattern.search(ch.text) else 0
+
+        with ThreadPoolExecutor() as executor:
+            mentions = sum(executor.map(check_mention, recent))
+
         if mentions <= 1:
             issues.append(f"Personagem central pouco presente nos 10 capítulos mais recentes: {canonical} ({mentions}/10)")
 
@@ -139,20 +149,22 @@ def bestseller_score(chapters: list[Chapter]) -> tuple[float, list[str]]:
         return 0.0, ["Sem capítulos para avaliar."]
 
     recent = chapters[-12:]
-    word_counts = [len(WORD_PATTERN.findall(ch.text)) for ch in recent]
-    avg_words = mean(word_counts)
 
     sensory_tokens = ("chuva", "neon", "sombra", "sangue", "metal", "eco", "frio", "silêncio")
+    results = []
+    for ch in recent:
+        text = ch.text
+        word_count = len(WORD_PATTERN.findall(text))
+        token_count = sum(text.lower().count(tok) for tok in sensory_tokens)
+        results.append((word_count, token_count / max(word_count, 1), 1 if CLIFFHANGER_PATTERN.search(text) else 0))
 
-    densities = []
-    for i, ch in enumerate(recent):
-        text_lower = ch.text.lower()
-        token_count = sum(text_lower.count(tok) for tok in sensory_tokens)
-        densities.append(token_count / max(word_counts[i], 1))
+    word_counts = [r[0] for r in results]
+    avg_words = mean(word_counts) if word_counts else 0
 
+    densities = [r[1] for r in results]
     sensory_density = mean(densities) if densities else 0.0
 
-    cliffhanger_count = sum(1 for ch in recent if CLIFFHANGER_PATTERN.search(ch.text))
+    cliffhanger_count = sum(r[2] for r in results)
 
     score = 0.0
     if avg_words >= 1400:

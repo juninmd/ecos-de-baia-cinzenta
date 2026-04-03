@@ -113,39 +113,46 @@ def _setup_arg_parser():
     return parser
 
 
-def process_chapter(args, db):
-    """Handles the core logic of processing a chapter for art generation."""
-    chapter_path = _resolve_chapter_path(args.chapter)
+def process_chapter_worker(chapter_path_str, style, ollama_model, model_family, force, dry_run, db):
+    chapter_path = _resolve_chapter_path(chapter_path_str)
     print(f"📖 Reading chapter: {chapter_path}")
     chapter = ChapterContext(chapter_path)
 
     base_name = os.path.basename(chapter_path).replace('.md', '.jpg').replace('-', '_')
     output_path = os.path.join("docs/public", base_name)
 
-    if _should_skip_generation(chapter, output_path, args.force):
-        sys.exit(0)
+    if _should_skip_generation(chapter, output_path, force):
+        return True
 
     active_chars = db.find_characters_in_text(chapter.body)
     print(f"👥 Characters detected: {[c['name'] for c in active_chars]}")
 
-    ollama = OllamaClient(model=args.ollama_model)
+    ollama = OllamaClient(model=ollama_model)
     if not ollama.check_connection():
         print(f"⚠️ Cannot connect to Ollama at {ollama.host}. Using fallback prompt.")
-        prompt = _generate_fallback_prompt(active_chars, args.style)
+        prompt = _generate_fallback_prompt(active_chars, style)
     else:
-        prompt = ollama.generate_prompt(chapter.body, active_chars, args.style)
+        prompt = ollama.generate_prompt(chapter.body, active_chars, style)
 
     if not prompt:
         print("❌ Failed to generate prompt.")
-        sys.exit(1)
+        return False
 
     print(f"\n🎨 Generated Prompt:\n{prompt}\n")
 
-    generator = ImageGenerator(model_family=args.model_family)
-    success = generator.generate(prompt, output_path, dry_run=args.dry_run)
+    generator = ImageGenerator(model_family=model_family)
+    success = generator.generate(prompt, output_path, dry_run=dry_run)
 
-    if success and not args.dry_run:
+    if success and not dry_run:
         chapter.update_frontmatter(f"/{base_name}")
+
+    return success
+
+def process_chapter(args, db):
+    """Handles the core logic of processing a chapter for art generation."""
+    success = process_chapter_worker(args.chapter, args.style, args.ollama_model, args.model_family, args.force, args.dry_run, db)
+    if not success:
+        sys.exit(1)
 
 
 def main():

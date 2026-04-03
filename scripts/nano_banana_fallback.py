@@ -2,121 +2,19 @@ import os
 import re
 import argparse
 import sys
-import requests
 import io
 import time
-from PIL import Image
 
-class CharacterDatabase:
-    def __init__(self, filepath):
-        self.filepath = filepath
-        self.characters = {}
-        self.load()
+from pathlib import Path
 
-    def load(self):
-        if not os.path.exists(self.filepath):
-            print(f"Error: Character file not found at {self.filepath}")
-            return
+# Add root project dir to pythonpath to allow relative imports from scripts
+root_dir = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(root_dir))
 
-        with open(self.filepath, 'r', encoding='utf-8') as f:
-            content = f.read()
-
-        sections = re.split(r'\n## ', content)
-
-        for section in sections:
-            if not section.strip() or section.startswith('# '):
-                continue
-
-            lines = section.split('\n')
-            name_line = lines[0].strip()
-            name_clean = re.sub(r'\s*\[.*?\]', '', name_line).strip()
-
-            image_match = re.search(r'!\[.*?\]\((.*?)\)', section)
-            image_path = image_match.group(1) if image_match else None
-
-            description = []
-            for line in lines:
-                if any(key in line for key in ["Porte Físico:", "Vestuário:", "Marcas Distintivas:", "Cabelo:", "Olhos:"]):
-                    description.append(line.replace('*', '').strip())
-
-            full_desc = " ".join(description)
-
-            aliases = set()
-            aliases.add(name_clean)
-            nickname_match = re.search(r'"(.*?)"', name_clean)
-            if nickname_match:
-                aliases.add(nickname_match.group(1))
-
-            parts = name_clean.split()
-            if parts:
-                if len(parts[0]) > 2:
-                    aliases.add(parts[0])
-
-            self.characters[name_clean] = {
-                "name": name_clean,
-                "aliases": list(aliases),
-                "image": image_path,
-                "description": full_desc,
-                "raw_section": section
-            }
-
-    def find_characters_in_text(self, text):
-        found = []
-        text_lower = text.lower()
-        for char_data in self.characters.values():
-            for alias in char_data["aliases"]:
-                escaped_alias = re.escape(alias)
-                if re.search(r'\b' + escaped_alias + r'\b', text_lower, re.IGNORECASE):
-                    found.append(char_data)
-                    break
-        return found
-
-class ChapterContext:
-    def __init__(self, chapter_num):
-        self.chapter_num = chapter_num
-        self.filepath = f"docs/capitulo-{chapter_num}.md"
-        self.content = ""
-        self.frontmatter = ""
-        self.body = ""
-        self.load()
-
-    def load(self):
-        if not os.path.exists(self.filepath):
-            print(f"Error: Chapter file not found at {self.filepath}")
-            sys.exit(1)
-
-        with open(self.filepath, 'r', encoding='utf-8') as f:
-            self.content = f.read()
-
-        if self.content.startswith('---'):
-            parts = self.content.split('---', 2)
-            if len(parts) >= 3:
-                self.frontmatter = parts[1]
-                self.body = parts[2]
-            else:
-                self.body = self.content
-        else:
-            self.body = self.content
-
-    def update_frontmatter(self, image_path):
-        if not image_path.startswith('/'):
-            public_path = '/' + os.path.basename(image_path)
-        else:
-            public_path = image_path
-
-        if self.frontmatter:
-            if 'image:' in self.frontmatter:
-                self.frontmatter = re.sub(r'image:.*', f'image: {public_path}', self.frontmatter)
-            else:
-                self.frontmatter = self.frontmatter.rstrip() + f'\nimage: {public_path}\n'
-        else:
-            self.frontmatter = f'\nimage: {public_path}\n'
-
-        new_content = f'---{self.frontmatter}---{self.body}'
-
-        with open(self.filepath, 'w', encoding='utf-8') as f:
-            f.write(new_content)
-        print(f"✅ Updated {self.filepath} with image: {public_path}")
+from scripts.art_gen.character_db import CharacterDatabase
+from scripts.art_gen.chapter_context import ChapterContext
+from scripts.art_gen.utils import parse_chapter_selection
+from scripts.art_gen.batch import run_chapter_batch_processing, build_common_argparser
 
 class OllamaClient:
     def __init__(self, model="llama2"):
@@ -126,6 +24,7 @@ class OllamaClient:
 
     def check_connection(self, max_retries=3, retry_delay=2):
         """Check if Ollama is accessible with retries"""
+        import requests
         host = "http://localhost:11434"
         for attempt in range(max_retries):
             try:
@@ -154,6 +53,7 @@ class OllamaClient:
             f"Write a single paragraph describing the visual scene for an image generator. Focus on lighting, atmosphere, and action. Do not include dialogue."
         )
 
+        import requests
         try:
             # Increase timeout to 5 minutes for larger models and slower systems
             response = requests.post(self.api_url, json={
@@ -187,10 +87,12 @@ class HuggingFaceClient:
         self.image_model_url = "https://api-inference.huggingface.co/models/stabilityai/stable-diffusion-2-1"
 
     def query_text(self, payload):
+        import requests
         response = requests.post(self.text_model_url, headers=self.headers, json=payload)
         return response.json()
 
     def query_image(self, payload):
+        import requests
         response = requests.post(self.image_model_url, headers=self.headers, json=payload)
         return response.content
 
@@ -229,6 +131,7 @@ class HuggingFaceClient:
             return "Dark dystopian city scene, high contrast, cinematic lighting."
 
     def generate_art(self, prompt, output_path):
+        from PIL import Image
         print("\n" + "="*50)
         print("🤗 HUGGING FACE GENERATION REQUEST")
         print("="*50)
@@ -260,7 +163,7 @@ class HuggingFaceClient:
 def process_chapter(chapter_num, text_engine, image_engine, db, project_root, style):
     print(f"\n📂 PROCESSING CHAPTER {chapter_num} (FALLBACK MODE)...")
     try:
-        chapter = ChapterContext(chapter_num)
+        chapter = ChapterContext(f"docs/capitulo-{chapter_num}.md")
         active_chars = db.find_characters_in_text(chapter.body)
         char_names = [c['name'] for c in active_chars]
         print(f"Detected Characters: {', '.join(char_names)}")
@@ -296,15 +199,16 @@ def process_chapter(chapter_num, text_engine, image_engine, db, project_root, st
         return False
 
 def main():
-    parser = argparse.ArgumentParser(description="Generate Art (Fallback Mode)")
-    parser.add_argument('chapters', type=str, help="Chapter number")
-    parser.add_argument('--style', type=str, help="Style modifier", default="cyberpunk, noir")
+    parser = build_common_argparser("Generate Art (Fallback Mode)")
     parser.add_argument('--ollama', action='store_true', help="Use Ollama (local) for text analysis instead of HF")
     parser.add_argument('--ollama-model', type=str, default="llama2", help="Model to use with Ollama")
     args = parser.parse_args()
 
     project_root = os.getcwd()
     char_file = os.path.join(project_root, "docs/personagens.md")
+
+    # Parse Range
+    chapter_list = parse_chapter_selection(args.chapters)
 
     try:
         # Image Engine is always Hugging Face for now in fallback script
@@ -318,7 +222,12 @@ def main():
 
         db = CharacterDatabase(char_file)
 
-        process_chapter(int(args.chapters), text_engine, image_engine, db, project_root, args.style)
+        def worker(chapter_num):
+            return process_chapter(chapter_num, text_engine, image_engine, db, project_root, args.style)
+
+        run_chapter_batch_processing(chapter_list, worker, args.max_workers)
+
+        print("\n🏁 BATCH COMPLETE")
 
     except ValueError as ve:
         print(f"ℹ️ CONFIGURATION NEEDED: {ve}")
