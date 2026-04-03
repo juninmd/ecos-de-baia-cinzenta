@@ -67,17 +67,17 @@ Aria se aproximou do mapa.
 
 De repente, os ventiladores industriais da cidade inteira ligaram ao mesmo tempo. As chaminés das fábricas desativadas, os bueiros, os dutos de ar.
 
-A cidade começou a bombear o "Smog" com força total. Em minutos, uma camada espessa, impenetrável de fumaça e poluição cobriu Baía Cinzenta, cegando qualquer coisa que olhasse de cima.
+A cidade começou a bombear o "Smog" com força total. Em minutos, uma camada espessa, impenetrável de poluição e vapor químico cobriu Baía Cinzenta, cegando qualquer coisa que olhasse de cima.
 
 — Cobertura de nuvens — disse Gabo, sorrindo. — Boa jogada, pai.
 
-Mas a fumaça também cegava eles.
+Mas a poluição também cegava eles.
 
-E no meio da névoa, algo se movia. Algo que não precisava de satélites para caçar.
+E no meio da névoa densa, algo se movia. Algo que não precisava de satélites para caçar.
 
 O rádio de Gabo chiou. Uma frequência antiga, que só ele e Miranda usavam.
 
-*"Bela cortina de fumaça, Gabo. Mas eu conheço o seu cheiro."*
+*"Bela cortina de poluição, Gabo. Mas eu conheço o seu rastro."*
 
 Era Roberto Miranda. E ele não estava sozinho.
 

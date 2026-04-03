@@ -39,7 +39,7 @@ Eram explosivos plásticos caseiros. Coisa velha, instável.
 
 — Eu compro o tempo.
 
-Gabo pegou duas granadas de fumaça de um armário.
+Gabo pegou duas granadas de gás denso de um armário.
 
 — Abra a porta no meu sinal.
 
@@ -49,11 +49,11 @@ Val assentiu, os dedos voando sobre o teclado holográfico.
 
 Val destravou a porta. Gabo chutou-a, lançou as granadas e se jogou para o corredor, rolando.
 
-A fumaça preencheu o espaço, cegando os sensores ópticos dos robôs. Mas Miranda atirava às cegas, e uma bala raspou a coxa de Gabo.
+O gás denso preencheu o espaço, cegando os sensores ópticos dos robôs. Mas Miranda atirava às cegas, e uma bala raspou a coxa de Gabo.
 
 Gabo respondeu com a escopeta, mirando nas pernas dos CP-Z menores. Ele derrubou um.
 
-O Titã avançou através da fumaça, imparável. Ele levantou o braço mecânico para esmagar Gabo.
+O Titã avançou através do gás denso, imparável. Ele levantou o braço mecânico para esmagar Gabo.
 
 — *Agora, Val!*
 
