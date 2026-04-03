@@ -136,3 +136,13 @@ Este arquivo mantém o controle de progresso sobre o processo de revisão, adequ
 - [x] **Capítulo 62: O Santo e a Criança** - Revisor sem problemas de lore encontrados. Sem tabaco. Gabo sobrevive ao ataque aceitando a dor extrema do estrangulamento e costelas fraturadas. Arquivo de análise criado.
 - [x] **Capítulo 63: Águas Profundas** - Revisor sem problemas de lore encontrados. Continuidade narrativa excelente recuperando o Taxidermista do Capítulo 47 em contexto onde faz sentido. Gabo totalmente dependente da dor e limitações de seu corpo destruído. Arquivo de análise criado.
 - [x] **Capítulo 64: A Cidade Fantasma** - Revisor sem problemas de lore encontrados. Protagonista rasteja incapacitado, com pernas destruídas, totalmente no lore. Sem alucinações de fumaça. Twist ético do cyberpunk executado. Arquivo de análise criado.
+
+## Lote 22: Capítulos 65 a 67
+- [x] **Capítulo 65: O Novo Inquilino** - Revisor sem problemas de lore encontrados. Protagonista recorre ao sacrifício de suas próprias opções (foguete no vidro e dor nos dedos) sem fumar. Arquivo de análise criado.
+- [x] **Capítulo 66: Respirar** - Revisor sem problemas de lore encontrados. Asfixia na água como foco da dor e reinicialização extrema via Aria. Arquivo de análise criado.
+- [x] **Capítulo 67: Cidade Viva** - Revisado. Menção a "fumaça" no trecho do "Smog" alterada para "poluição" e "vapor químico", assim como a citação de Miranda alterada de "cortina de fumaça e cheiro" para "cortina de poluição e rastro", blindando a aversão e fobia a fumaça de cigarro no lore de Gabo. Arquivo de análise criado.
+
+## Lote 23: Capítulos 68 a 70
+- [x] **Capítulo 68: A Caçada Inversa** - Revisado. Uso de "granadas de fumaça" pelo protagonista foi substituído por "granadas de gás denso", para manter o distanciamento total das dinâmicas que podem acionar sua náusea psicológica induzida pelo tabagismo paterno/avô. Arquivo de análise criado.
+- [x] **Capítulo 69: O Fantasma no Shell** - Revisor sem problemas de lore encontrados. Esgotos e cheiros biológicos separam Gabo de seus gatilhos. Arquivo de análise criado.
+- [x] **Capítulo 70: O Expurgo** - Revisor sem problemas de lore encontrados. O horror da fusão Kael/Marco sustenta o peso da cena sem deslizes para fuga química (fumar) pelo protagonista. Arquivo de análise criado.
