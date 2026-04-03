@@ -5,8 +5,6 @@ from pathlib import Path
 from typing import List
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-import requests
-
 
 class WanVideoGenerator:
     """Generates video using Wan-AI/Wan2.2-TI2V-5B on Hugging Face."""
@@ -22,11 +20,13 @@ class WanVideoGenerator:
             print("⚠️ HF_TOKEN environment variable not set. Assuming Space API or local URL is configured, or API will fail.")
 
     def _query(self, payload):
+        import requests
         response = requests.post(self.API_URL, headers=self.headers, json=payload, timeout=120)
         response.raise_for_status()
         return response.content
 
     def _generate_single_video(self, chunk: str, output_path: Path) -> bool:
+        import requests
         """
         Calls the Wan2.2 API with a cinematic prompt.
         Because video generation on HF API might require polling, we try an initial request.
