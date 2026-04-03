@@ -144,25 +144,19 @@ def check_character_consistency(chapters: list[Chapter], aliases: dict[str, set[
 
 
 def bestseller_score(chapters: list[Chapter]) -> tuple[float, list[str]]:
-    from concurrent.futures import ThreadPoolExecutor
     notes = []
     if not chapters:
         return 0.0, ["Sem capítulos para avaliar."]
 
     recent = chapters[-12:]
 
-    def process_chapter(ch):
+    sensory_tokens = ("chuva", "neon", "sombra", "sangue", "metal", "eco", "frio", "silêncio")
+    results = []
+    for ch in recent:
         text = ch.text
         word_count = len(WORD_PATTERN.findall(text))
-        text_lower = text.lower()
-        sensory_tokens = ("chuva", "neon", "sombra", "sangue", "metal", "eco", "frio", "silêncio")
-        token_count = sum(text_lower.count(tok) for tok in sensory_tokens)
-        density = token_count / max(word_count, 1)
-        is_cliffhanger = 1 if CLIFFHANGER_PATTERN.search(text) else 0
-        return word_count, density, is_cliffhanger
-
-    with ThreadPoolExecutor() as executor:
-        results = list(executor.map(process_chapter, recent))
+        token_count = sum(text.lower().count(tok) for tok in sensory_tokens)
+        results.append((word_count, token_count / max(word_count, 1), 1 if CLIFFHANGER_PATTERN.search(text) else 0))
 
     word_counts = [r[0] for r in results]
     avg_words = mean(word_counts) if word_counts else 0
