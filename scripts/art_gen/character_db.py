@@ -1,6 +1,11 @@
 import os
 import re
 
+# Compile regex at module level for performance
+NAME_CLEAN_RE = re.compile(r'\[([^\]]+)\](?:\([^\)]+\))?')
+IMAGE_MATCH_RE = re.compile(r'!\[[^\]]*\]\(([^\)]+)\)')
+NICKNAME_MATCH_RE = re.compile(r'"(.*?)"')
+
 
 class CharacterDatabase:
     def __init__(self, filepath):
@@ -36,12 +41,12 @@ class CharacterDatabase:
         lines = section.split('\n')
         name_line = lines[0].strip()
         # Strip simple markdown links/brackets without risking ReDoS via non-greedy quantifiers
-        name_clean = re.sub(r'\[([^\]]+)\](?:\([^\)]+\))?', r'\1', name_line)
+        name_clean = NAME_CLEAN_RE.sub(r'\1', name_line)
         name_clean = name_clean.replace('[', '').replace(']', '')
         name_clean = name_clean.strip().replace('*', '').strip()
 
         # Capture markdown image links
-        image_match = re.search(r'!\[[^\]]*\]\(([^\)]+)\)', section)
+        image_match = IMAGE_MATCH_RE.search(section)
         image_path = image_match.group(1) if image_match else None
 
         description_parts = self._extract_description_parts(lines)
@@ -76,12 +81,12 @@ class CharacterDatabase:
 
     def _generate_aliases(self, name_clean):
         aliases = {name_clean}
-        nickname_match = re.search(r'"(.*?)"', name_clean)
+        nickname_match = NICKNAME_MATCH_RE.search(name_clean)
         if nickname_match:
             aliases.add(nickname_match.group(1))
 
         parts = name_clean.split()
-        if parts and len(parts[0]) > 2:
+        if parts:
             aliases.add(parts[0])
 
         return aliases

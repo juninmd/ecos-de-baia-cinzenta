@@ -4,10 +4,8 @@ import os
 import re
 import sys
 import time
-from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
-import requests
 from dotenv import load_dotenv
 
 # Add root project dir to pythonpath to allow relative imports from scripts
@@ -15,6 +13,9 @@ root_dir = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(root_dir))
 
 from scripts.art_gen.character_db import CharacterDatabase
+from scripts.art_gen.chapter_context import ChapterContext
+from scripts.art_gen.utils import parse_chapter_selection
+from scripts.art_gen.batch import run_chapter_batch_processing, build_common_argparser
 
 load_dotenv()
 
@@ -44,43 +45,8 @@ def get_character_image(char_data, search_dir="docs/public/personagens"):
                 return test_path
     return None
 
-
-class ChapterContext:
-    def __init__(self, chapter_num):
-        self.chapter_num = chapter_num
-        self.filepath = Path(f"docs/capitulo-{chapter_num}.md")
-        self.content = ""
-        self.frontmatter = ""
-        self.body = ""
-        self.load()
-
-    def load(self):
-        if not self.filepath.exists():
-            raise FileNotFoundError(f"Chapter file not found: {self.filepath}")
-
-        self.content = self.filepath.read_text(encoding="utf-8")
-        if self.content.startswith("---"):
-            parts = self.content.split("---", 2)
-            if len(parts) >= 3:
-                self.frontmatter = parts[1]
-                self.body = parts[2]
-                return
-        self.body = self.content
-
-    def update_frontmatter(self, image_path):
-        public_path = image_path if image_path.startswith("/") else f"/{os.path.basename(image_path)}"
-
-        if self.frontmatter:
-            if "image:" in self.frontmatter:
-                self.frontmatter = re.sub(r"image:.*", f"image: {public_path}", self.frontmatter)
-            else:
-                self.frontmatter = self.frontmatter.rstrip() + f"\nimage: {public_path}\n"
-        else:
-            self.frontmatter = f"\nimage: {public_path}\n"
-
-        self.filepath.write_text(f"---{self.frontmatter}---{self.body}", encoding="utf-8")
-        print(f"✅ Updated {self.filepath} with image: {public_path}")
-
+# Compile regex at module level for performance
+SNIPPET_CLEAN_RE = re.compile(r"\s+")
 
 class OllamaClient:
     def __init__(self, model="qwen3:8b"):
@@ -103,7 +69,7 @@ class OllamaClient:
 
     def build_fallback_prompt(self, chapter_text, active_characters, style):
         canon = "; ".join(f"{c['name']}: {c['description'][:150]}" for c in active_characters[:2])
-        snippet = re.sub(r"\s+", " ", chapter_text[:300]).strip()
+        snippet = SNIPPET_CLEAN_RE.sub(" ", chapter_text[:300]).strip()
         return (
             f"Cinematic neo-noir cyberpunk frame, {style}. "
             f"High-end visual storytelling, dynamic composition, 35mm film aesthetic, "
@@ -221,19 +187,8 @@ class HuggingFaceAPIClient:
             return False
 
 
-def parse_chapter_selection(raw: str):
-    selected = []
-    for chunk in raw.replace(" ", "").split(","):
-        if "-" in chunk:
-            start, end = map(int, chunk.split("-"))
-            selected.extend(range(start, end + 1))
-        elif chunk:
-            selected.append(int(chunk))
-    return sorted(set(selected))
-
-
 def process_chapter(chapter_num, text_engine, image_engine, db, project_root, style, dry_run):
-    chapter = ChapterContext(chapter_num)
+    chapter = ChapterContext(Path(f"docs/capitulo-{chapter_num}.md"))
     active_chars = db.find_characters_in_text(chapter.body)
     prompt = text_engine.generate_prompt(chapter.body, active_chars, style)
 
@@ -252,15 +207,12 @@ def process_chapter(chapter_num, text_engine, image_engine, db, project_root, st
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Generate chapter art locally (Open Source Nano Banana quality)")
-    parser.add_argument("chapters", type=str, help="Chapter number, list (1,2,3) or range (10-14)")
-    parser.add_argument("--style", default="neo-noir cinematic cyberpunk", help="Visual style modifier")
+    parser = build_common_argparser("Generate chapter art locally (Open Source Nano Banana quality)")
     parser.add_argument("--ollama-model", default="qwen2.5:7b", help="Ollama model for prompt generation")
     parser.add_argument("--model-family", default="sdxl-novita", choices=MODEL_ALTERNATIVES.keys())
     parser.add_argument("--strength", type=float, default=0.1, help="I2I transformation strength (0.1 = max face fidelity)")
     parser.add_argument("--output-suffix", default="", help="Suffix for the output filename (e.g., _heavy)")
     parser.add_argument("--dry-run", action="store_true", help="Print prompts without generating images")
-    parser.add_argument("--max-workers", type=int, default=4, help="Maximum number of concurrent workers")
     args = parser.parse_args()
 
     chapters = parse_chapter_selection(args.chapters)
@@ -279,7 +231,7 @@ def main():
         def worker(chapter_num):
             print(f"\n📂 Processing chapter {chapter_num}")
             
-            chapter = ChapterContext(chapter_num)
+            chapter = ChapterContext(Path(f"docs/capitulo-{chapter_num}.md"))
             active_chars = db.find_characters_in_text(chapter.body)
             
             # Buscar imagem do personagem principal (o primeiro encontrado)
@@ -314,16 +266,7 @@ def main():
             
             return ok
 
-        success_count = 0
-        with ThreadPoolExecutor(max_workers=args.max_workers) as executor:
-            futures = {executor.submit(worker, chapter_num): chapter_num for chapter_num in chapters}
-            for future in as_completed(futures):
-                try:
-                    if future.result():
-                        success_count += 1
-                except Exception as e:
-                    chapter_num = futures[future]
-                    print(f"❌ Error processing chapter {chapter_num}: {e}")
+        success_count = run_chapter_batch_processing(chapters, worker, args.max_workers)
 
         print(f"\n🏁 Done. Successful chapters: {success_count}/{len(chapters)}")
     except Exception as exc:

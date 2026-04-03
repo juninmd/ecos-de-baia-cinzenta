@@ -5,6 +5,7 @@ import sys
 # Import refactored modules
 from art_gen.config import MODEL_ALTERNATIVES, print_alternatives
 from art_gen.character_db import CharacterDatabase
+
 from art_gen.chapter_context import ChapterContext
 from art_gen.ollama_client import OllamaClient
 from art_gen.image_generator import ImageGenerator

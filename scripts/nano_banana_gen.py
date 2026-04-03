@@ -13,53 +13,9 @@ root_dir = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(root_dir))
 
 from scripts.art_gen.character_db import CharacterDatabase
-
-class ChapterContext:
-    def __init__(self, chapter_num):
-        self.chapter_num = chapter_num
-        self.filepath = f"docs/capitulo-{chapter_num}.md"
-        self.content = ""
-        self.frontmatter = ""
-        self.body = ""
-        self.load()
-
-    def load(self):
-        if not os.path.exists(self.filepath):
-            print(f"Error: Chapter file not found at {self.filepath}")
-            sys.exit(1)
-
-        with open(self.filepath, 'r', encoding='utf-8') as f:
-            self.content = f.read()
-
-        if self.content.startswith('---'):
-            parts = self.content.split('---', 2)
-            if len(parts) >= 3:
-                self.frontmatter = parts[1]
-                self.body = parts[2]
-            else:
-                self.body = self.content
-        else:
-            self.body = self.content
-
-    def update_frontmatter(self, image_path):
-        if not image_path.startswith('/'):
-            public_path = '/' + os.path.basename(image_path)
-        else:
-            public_path = image_path
-
-        if self.frontmatter:
-            if 'image:' in self.frontmatter:
-                self.frontmatter = re.sub(r'image:.*', f'image: {public_path}', self.frontmatter)
-            else:
-                self.frontmatter = self.frontmatter.rstrip() + f'\nimage: {public_path}\n'
-        else:
-            self.frontmatter = f'\nimage: {public_path}\n'
-
-        new_content = f'---{self.frontmatter}---{self.body}'
-
-        with open(self.filepath, 'w', encoding='utf-8') as f:
-            f.write(new_content)
-        print(f"✅ Updated {self.filepath} with image: {public_path}")
+from scripts.art_gen.chapter_context import ChapterContext
+from scripts.art_gen.utils import parse_chapter_selection
+from scripts.art_gen.batch import run_chapter_batch_processing, build_common_argparser
 
 class CostCalculator:
     def __init__(self):
@@ -241,7 +197,7 @@ class NanoBanana:
 def process_chapter(chapter_num, engine, db, project_root, style):
     print(f"\n📂 PROCESSING CHAPTER {chapter_num}...")
     try:
-        chapter = ChapterContext(chapter_num)
+        chapter = ChapterContext(Path(f"docs/capitulo-{chapter_num}.md"))
         
         print(f"Reading Chapter {chapter_num}...")
         active_chars = db.find_characters_in_text(chapter.body)
@@ -294,36 +250,14 @@ def process_chapter(chapter_num, engine, db, project_root, style):
         return False
 
 def main():
-    parser = argparse.ArgumentParser(description="Generate Art for a Chapter using Nano Banana")
-    parser.add_argument('chapters', type=str, help="Chapter number (e.g., '102') or range (e.g., '7-104')")
-    parser.add_argument('--style', type=str, help="Optional style/prompt modifier", default="")
-    parser.add_argument("--max-workers", type=int, default=4, help="Maximum number of concurrent workers")
+    parser = build_common_argparser("Generate Art for a Chapter using Nano Banana")
     args = parser.parse_args()
 
     project_root = os.getcwd()
     char_file = os.path.join(project_root, "docs/personagens.md")
 
     # Parse Range
-    chapter_list = []
-    # Remove spaces just in case
-    clean_args = args.chapters.replace(' ', '')
-    
-    if ',' in clean_args:
-        parts = clean_args.split(',')
-        for part in parts:
-            if '-' in part:
-                start, end = map(int, part.split('-'))
-                chapter_list.extend(range(start, end + 1))
-            else:
-                chapter_list.append(int(part))
-    elif '-' in clean_args:
-        start, end = map(int, clean_args.split('-'))
-        chapter_list = list(range(start, end + 1))
-    else:
-        chapter_list = [int(clean_args)]
-    
-    # Sort and unique
-    chapter_list = sorted(list(set(chapter_list)))
+    chapter_list = parse_chapter_selection(args.chapters)
 
     try:
         engine = NanoBanana()
@@ -332,14 +266,7 @@ def main():
         def worker(chapter_num):
             return process_chapter(chapter_num, engine, db, project_root, args.style)
 
-        with ThreadPoolExecutor(max_workers=args.max_workers) as executor:
-            futures = {executor.submit(worker, chapter_num): chapter_num for chapter_num in chapter_list}
-            for future in as_completed(futures):
-                try:
-                    future.result()
-                except Exception as e:
-                    chapter_num = futures[future]
-                    print(f"❌ Error processing chapter {chapter_num}: {e}")
+        run_chapter_batch_processing(chapter_list, worker, args.max_workers)
             
         # Print Final Costs
         print("\n" + "="*50)
