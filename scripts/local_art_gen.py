@@ -1,4 +1,5 @@
 import argparse
+import base64
 import os
 import re
 import sys
@@ -6,6 +7,7 @@ import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
+import requests
 from dotenv import load_dotenv
 
 # Add root project dir to pythonpath to allow relative imports from scripts
@@ -13,6 +15,7 @@ root_dir = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(root_dir))
 
 from scripts.art_gen.character_db import CharacterDatabase
+from scripts.art_gen.chapter_context import ChapterContext
 
 load_dotenv()
 
@@ -42,69 +45,8 @@ def get_character_image(char_data, search_dir="docs/public/personagens"):
                 return test_path
     return None
 
-
 # Compile regex at module level for performance
-IMAGE_FRONTMATTER_RE = re.compile(r"image:.*")
 SNIPPET_CLEAN_RE = re.compile(r"\s+")
-
-class ChapterContext:
-    def __init__(self, chapter_num):
-        self.chapter_num = chapter_num
-        self.filepath = Path(f"docs/capitulo-{chapter_num}.md")
-        self._content = None
-        self._frontmatter = None
-        self._body = None
-
-    def _load(self):
-        if not self.filepath.exists():
-            raise FileNotFoundError(f"Chapter file not found: {self.filepath}")
-
-        self._content = self.filepath.read_text(encoding="utf-8")
-        if self._content.startswith("---"):
-            parts = self._content.split("---", 2)
-            if len(parts) >= 3:
-                self._frontmatter = parts[1]
-                self._body = parts[2]
-                return
-        self._body = self._content
-        self._frontmatter = ""
-
-    @property
-    def content(self):
-        if self._content is None:
-            self._load()
-        return self._content
-
-    @property
-    def frontmatter(self):
-        if self._frontmatter is None:
-            self._load()
-        return self._frontmatter
-
-    @frontmatter.setter
-    def frontmatter(self, value):
-        self._frontmatter = value
-
-    @property
-    def body(self):
-        if self._body is None:
-            self._load()
-        return self._body
-
-    def update_frontmatter(self, image_path):
-        public_path = image_path if image_path.startswith("/") else f"/{os.path.basename(image_path)}"
-
-        if self.frontmatter:
-            if "image:" in self.frontmatter:
-                self.frontmatter = IMAGE_FRONTMATTER_RE.sub(f"image: {public_path}", self.frontmatter)
-            else:
-                self.frontmatter = self.frontmatter.rstrip() + f"\nimage: {public_path}\n"
-        else:
-            self.frontmatter = f"\nimage: {public_path}\n"
-
-        self.filepath.write_text(f"---{self.frontmatter}---{self.body}", encoding="utf-8")
-        print(f"✅ Updated {self.filepath} with image: {public_path}")
-
 
 class OllamaClient:
     def __init__(self, model="qwen3:8b"):
@@ -112,7 +54,6 @@ class OllamaClient:
         self.api_url = "http://localhost:11434/api/generate"
 
     def check_connection(self, max_retries=3, retry_delay=2):
-        import requests
         try:
             # Check if specified model exists, otherwise fallback to first available or qwen2.5:7b
             resp = requests.get("http://localhost:11434/api/tags", timeout=5)
@@ -139,7 +80,6 @@ class OllamaClient:
         )
 
     def generate_prompt(self, chapter_text, active_characters, style):
-        import requests
         char_context = "\n".join(f"- {c['name']}: {c['description'][:400]}" for c in active_characters[:3])
         if not char_context:
             char_context = "- No specific character traits provided. Use generic cyberpunk survivors."
@@ -200,8 +140,6 @@ class HuggingFaceAPIClient:
             print("⚠️ HF_TOKEN not found in environment. API calls will likely fail with 401 Unauthorized.")
 
     def generate_art(self, prompt, output_path, image_path=None, strength=0.1, dry_run=False):
-        import requests
-        import base64
         if dry_run:
             print(f"🧪 [DRY RUN] Prompt final:\n{prompt}\n")
             if image_path:
@@ -261,7 +199,7 @@ def parse_chapter_selection(raw: str):
 
 
 def process_chapter(chapter_num, text_engine, image_engine, db, project_root, style, dry_run):
-    chapter = ChapterContext(chapter_num)
+    chapter = ChapterContext(Path(f"docs/capitulo-{chapter_num}.md"))
     active_chars = db.find_characters_in_text(chapter.body)
     prompt = text_engine.generate_prompt(chapter.body, active_chars, style)
 
@@ -307,7 +245,7 @@ def main():
         def worker(chapter_num):
             print(f"\n📂 Processing chapter {chapter_num}")
             
-            chapter = ChapterContext(chapter_num)
+            chapter = ChapterContext(Path(f"docs/capitulo-{chapter_num}.md"))
             active_chars = db.find_characters_in_text(chapter.body)
             
             # Buscar imagem do personagem principal (o primeiro encontrado)
