@@ -22,4 +22,4 @@ title: "A Ofensiva"
 
 ## Sanity Check
 - **Lore e Coerência**: Coerente. Val hackeando os satélites e o retorno de Roberto Miranda estão alinhados.
-- **Restrição de Gabo (Aversão à fumaça e fobia)**: Encontrado um termo que pode conflitar indiretamente. O Santo é descrito com "fumaça saindo de suas juntas". Embora seja fumaça mecânica, é uma boa prática substituir o termo (ex: "vapor" ou "fagulhas") para blindar a leitura contra o gatilho principal de Gabo. A ser corrigido. Gabo segue firme em sua limitação física perante a catástrofe.
+- **Restrição de Gabo (Aversão à fumaça e fobia)**: Encontrado um termo que pode conflitar indiretamente. O Santo era descrito com "fumaça saindo de suas juntas". Corrigido para "vapor" para blindar a leitura contra o gatilho principal de Gabo. Gabo segue firme em sua limitação física perante a catástrofe.
