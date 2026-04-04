@@ -27,7 +27,7 @@ No Hub, Valéria se levantou, limpando o sangue da testa.
 
 — Estamos vivos. Por enquanto.
 
-O Santo estava ajoelhado, fumaça saindo de suas juntas. Ele olhou para Gabo.
+O Santo estava ajoelhado, vapor escapando de suas juntas sob pressão. Ele olhou para Gabo.
 
 — *Vão* — disse ele. — *Satélites... 10 minutos.*
 

@@ -43,15 +43,15 @@ Gabo olhou nos olhos do traidor. Ele viu medo lá no fundo. Medo de alguém que 
 
 — Só uma — disse Gabo.
 
-Ele levou a mão ao bolso e tirou o isqueiro Zippo que pertencia a seu pai.
+Ele puxou do cinto um sinalizador de magnésio, uma das poucas ferramentas puramente analógicas que sempre carregava.
 
 — *Fogo.*
 
-Gabo acendeu o isqueiro e o jogou no rosto de Miranda. Mas não foi o fogo que machucou.
+Gabo riscou o sinalizador e a luz cegante e o calor intenso jorraram. Ele o jogou direto no rosto de Miranda. Mas não foi o calor que o derrotou.
 
-Foi o que o isqueiro ativou.
+Foi o que o sinalizador ativou.
 
-O sistema de supressão de incêndio da sala, que Val tinha hackeado segundos antes de sair.
+Os sensores térmicos do sistema de supressão de incêndio da sala, que Val tinha hackeado segundos antes de sair.
 
 Em vez de água, os sprinklers dispararam nitrogênio líquido.
 
