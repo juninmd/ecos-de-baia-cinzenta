@@ -122,7 +122,7 @@ A era da reconstrução autoritária.
 
 | Personagem | Status | Localização | Estado Físico/Mental |
 | :--- | :--- | :--- | :--- |
-| **Gabo** | Líder / Determinado pela Dor | Transição a partir do Subnível 2.0 (Arquivo Executivo) | Extrema exaustão física com três costelas seladas quimicamente e tocos de braços sangrentos recém-reabertos. Usa a dor para afastar pesadelos da fumaça e sente o peso amargo do "dever cumprido" após a destruição da máquina orgânica de seu pai. |
+| **Gabo** | Líder / Determinado pela Dor | Transição a partir do Subnível 2.0 (Arquivo Executivo) | Extrema exaustão física com três costelas seladas quimicamente e cotocos de braços sangrentos recém-reabertos. Usa a dor para afastar pesadelos da fumaça e sente o peso amargo do "dever cumprido" após a destruição da máquina orgânica de seu pai. |
 | **Valéria** | Suporte Tático / Esgotada Emocionalmente | Transição a partir do Subnível 2.0 (Arquivo Executivo) | Imersa em profundo luto e fadiga após as sucessivas perdas de Rangel e Aria. Segue Gabo rumo à superfície, sem esperança aparente na redenção digital. |
 | **Aria** | Destruída | Subnível 2.0 (Arquivo Executivo) | O núcleo de silício sobreaqueceu e derreteu irrevogavelmente após o ataque de "ruído emocional" (Bia) lançado na rede do Sentinel. A carcaça carbonizada foi deixada para trás, escorada na parede do corredor. |
 | **Rangel** | Falecido | Necrópole (Subnível 6.0 - Setor de Purga) | Corpo abandonado no Subnível 6.0. |
