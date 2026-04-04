@@ -43,13 +43,13 @@ Gabo olhou nos olhos do traidor. Ele viu medo lá no fundo. Medo de alguém que 
 
 — Só uma — disse Gabo.
 
-Ele puxou do cinto um sinalizador de magnésio, uma das poucas ferramentas puramente analógicas que sempre carregava.
+Ele arrancou uma fiação exposta de um dos servidores derretidos, expondo o cobre vivo sob a tensão residual.
 
 — *Fogo.*
 
-Gabo riscou o sinalizador e a luz cegante e o calor intenso jorraram. Ele o jogou direto no rosto de Miranda. Mas não foi o calor que o derrotou.
+Gabo encostou os fios, provocando um arco elétrico violento e uma chuva de faíscas. Ele lançou o curto-circuito improvisado contra o rosto de Miranda. Mas não foi o choque que o derrotou.
 
-Foi o que o sinalizador ativou.
+Foi o que o calor do arco elétrico ativou.
 
 Os sensores térmicos do sistema de supressão de incêndio da sala, que Val tinha hackeado segundos antes de sair.
 
