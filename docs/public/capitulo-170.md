@@ -11,7 +11,7 @@ O silêncio do Subnível 2.0 não era uma ausência de som, mas uma presença f�
 
 O *wetware* — o tecido cerebral que outrora orquestrara a farsa da Aeterna — agora não passava de biomassa apodrecendo sob as luzes de emergência.
 
-Meus cotocos sangravam. O tecido cauterizado pelo plasma no monorail havia se rompido novamente quando soquei a mesa, esmagando o vidro temperado e as válvulas de suporte de vida. O sangue escorria pelos meus antebraços, misturando-se àquele fluido viscoso da corporação.
+Meus cotocos sangravam. O tecido cauterizado pelo plasma no monorail havia se rompido novamente quando golpeei a mesa, esmagando o vidro temperado e as válvulas de suporte de vida. O sangue escorria pelos meus antebraços, misturando-se àquele fluido viscoso da corporação.
 
 Eu encarava a massa cinzenta inerte. Não havia brilho de dados, nem a pulsação suave da respiração sintética. Apenas o cheiro gélido de formol, ozônio... e fumaça.
 
