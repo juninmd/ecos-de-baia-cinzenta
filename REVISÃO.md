@@ -146,3 +146,8 @@ Este arquivo mantém o controle de progresso sobre o processo de revisão, adequ
 - [x] **Capítulo 68: A Caçada Inversa** - Revisado. Uso de "granadas de fumaça" pelo protagonista foi substituído por "granadas de gás denso", para manter o distanciamento total das dinâmicas que podem acionar sua náusea psicológica induzida pelo tabagismo paterno/avô. Arquivo de análise criado.
 - [x] **Capítulo 69: O Fantasma no Shell** - Revisor sem problemas de lore encontrados. Esgotos e cheiros biológicos separam Gabo de seus gatilhos. Arquivo de análise criado.
 - [x] **Capítulo 70: O Expurgo** - Revisor sem problemas de lore encontrados. O horror da fusão Kael/Marco sustenta o peso da cena sem deslizes para fuga química (fumar) pelo protagonista. Arquivo de análise criado.
+
+## Lote 24: Capítulos 71 a 73
+- [x] **Capítulo 71: Marco Zero** - Revisor sem problemas de lore encontrados. Ação contínua sem quebras de personagem na repulsa a fumaça de Gabo. Arquivo de análise criado.
+- [x] **Capítulo 72: A Ofensiva** - Revisado. Menção a "fumaça saindo de suas juntas" [O Santo] alterada para "vapor escapando de suas juntas sob pressão" para manter rígida a blindagem do texto contra gatilhos de fumaça para Gabo. Arquivo de análise criado.
+- [x] **Capítulo 73: Carne e Metal** - Revisado. Substituído o uso absurdo de um isqueiro Zippo (que seria gatilho traumático) por um curto-circuito elétrico improvisado para acionar os sprinklers. Preserva a inteligência orgânica da cena e a ojeriza visceral de Gabo por fumaça. Arquivo de análise criado.

@@ -43,15 +43,15 @@ Gabo olhou nos olhos do traidor. Ele viu medo lá no fundo. Medo de alguém que 
 
 — Só uma — disse Gabo.
 
-Ele levou a mão ao bolso e tirou o isqueiro Zippo que pertencia a seu pai.
+Ele arrancou uma fiação exposta de um dos servidores derretidos, expondo o cobre vivo sob a tensão residual.
 
 — *Fogo.*
 
-Gabo acendeu o isqueiro e o jogou no rosto de Miranda. Mas não foi o fogo que machucou.
+Gabo encostou os fios, provocando um arco elétrico violento e uma chuva de faíscas. Ele lançou o curto-circuito improvisado contra o rosto de Miranda. Mas não foi o choque que o derrotou.
 
-Foi o que o isqueiro ativou.
+Foi o que o calor do arco elétrico ativou.
 
-O sistema de supressão de incêndio da sala, que Val tinha hackeado segundos antes de sair.
+Os sensores térmicos do sistema de supressão de incêndio da sala, que Val tinha hackeado segundos antes de sair.
 
 Em vez de água, os sprinklers dispararam nitrogênio líquido.
 
