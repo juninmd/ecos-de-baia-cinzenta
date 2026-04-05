@@ -21,7 +21,7 @@ Gabo não se virou. Ele reconheceria o som daquelas botas em qualquer lugar, mes
 
 Ele fechou o capô e se virou.
 
-Valéria Cruz estava encostada no batente da porta da garagem improvisada. Algo estava diferente. Levou um segundo para Gabo perceber: ela estava "desligada". O cabelo holográfico estava estático, um rosa pálido e opaco. Ela usava óculos escuros grossos — algo peculiar, já que suas retinas filtravam qualquer espectro de luz natural ou artificial.
+Valéria Cruz estava encostada no batente da porta da garagem improvisada. Algo estava diferente. Levou um segundo para Gabo perceber: ela estava "desligada". O cabelo holográfico estava estático, um azul pálido e opaco. Ela usava óculos escuros grossos — algo peculiar, já que suas retinas filtravam qualquer espectro de luz natural ou artificial.
 
 — O sol está fritando meus sensores ópticos na rua. Tive que sobrepor analógico — disse ela, ajeitando os óculos. — A ironia é palpável. Sobrevivemos ao apocalipse digital para sermos derrotados pelos raios UV.
 
@@ -61,7 +61,7 @@ Ele apontou para o canto da foto.
 
 — Val, há um martelo ali. E nenhum hack neural, nenhuma sobrecarga de implante. Alguém agiu com força bruta e metal frio. Alguém encontrou uma forma de ficar invisível para Deus.
 
-Gabo pegou sua jaqueta de couro surrada e checou o tambor do seu revólver, batendo no coldre em um ritmo frenético para focar os pensamentos longe da dor latejante nos joelhos fixados.
+Gabo pegou sua jaqueta de couro surrada e checou o carregador da sua Glock, tamborilando os dedos no coldre em um ritmo frenético para focar os pensamentos longe da dor latejante nos joelhos fixados.
 
 — Eu dirijo — disse Val, contornando o carro. — Você ainda dirige como um idoso e eu não quero sentir os trancos de você pisando na embreagem com as órteses.
 
@@ -95,4 +95,4 @@ Gabo sacou sua arma num piscar de olhos, ignorando a pontada de agonia mecânica
 
 — O que foi isso? — gritou Val, puxando sua própria pistola magnética.
 
-— Não sei — disse Gabo, o suor frio escorrendo pela testa, as mãos firmes ao redor do cabo analógico do revólver. — Mas acho que a nossa utopia acabou de ganhar um ponto cego.
+— Não sei — disse Gabo, o suor frio escorrendo pela testa, as mãos firmes ao redor do cabo analógico da pistola. — Mas acho que a nossa utopia acabou de ganhar um ponto cego.
