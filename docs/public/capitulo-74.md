@@ -37,7 +37,7 @@ O corpo de Aria começou a brilhar. Não a luz suave de antes. Mas uma luz inten
 
 — *Eu não morro. Eu viro Ecos.*
 
-Os Executivos tentaram segurá-la, mas as mãos deles atravessaram o corpo dela como se fosse fumaça.
+Os Executivos tentaram segurá-la, mas as mãos deles atravessaram o corpo dela como se fosse névoa.
 
 Aria olhou para Gabo uma última vez.
 
