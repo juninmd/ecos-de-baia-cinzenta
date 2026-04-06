@@ -31,4 +31,4 @@
 *   **Verificação:** Não há plot twist, apenas o avanço espacial e emocional lógico da trama. Eles concluíram seu trabalho no Subnível 2.0 e finalmente retornaram ao térreo, onde a cidade está sem tecnologia.
 
 ### "O resumo da lore foi atualizado com os novos eventos?"
-*   **Status:** A ser atualizado na cronologia (eles subiram e alcançaram a superfície).
+*   **Status:** Atualizado na cronologia.
