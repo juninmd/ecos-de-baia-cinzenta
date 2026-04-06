@@ -118,7 +118,7 @@ def check_character_consistency(chapters: list[Chapter], aliases: dict[str, set[
             return None
         return ch.path.name
 
-    with ThreadPoolExecutor(max_workers=os.cpu_count() or 4) as executor:
+    with ThreadPoolExecutor() as executor:
         violators = list(filter(None, executor.map(check_violation, chapters)))
 
     if violators:
