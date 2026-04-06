@@ -51,3 +51,4 @@ secrets/
 config/secrets.yml
 .env
 docs/public/sw.js
+docs_dev.log

@@ -76,6 +76,7 @@ async function handleFetchEvent(request: Request): Promise<Response> {
 
     // Background cache put to not block response
     const responseToCache = response.clone();
+    // Do not await updateCache, let it run in background to parallelize
     updateCache(request, responseToCache);
 
     return response;
