@@ -43,7 +43,7 @@ Val conectou-se ao terminal da sala. Seus dedos não se moviam, mas seus olhos p
 
 — Não — disse Gabo, olhando para o corredor onde um técnico de enfermagem empurrava um carrinho de medicamentos. O homem tinha um sorriso sereno, quase beatífico. — Eles não estão editando o digital. Eles estão agindo fora dele.
 
-Gabo saiu da sala, seguido por Val. Eles mantiveram distância, observando o técnico. Ele parou na porta do quarto 304. Olhou para os lados, verificou o relógio digital na parede, e entrou.
+Gabo saiu da sala, o zumbido contido dos servomotores de suas órteses acompanhando cada passo, seguido por Val. Eles mantiveram distância, observando o técnico. Ele parou na porta do quarto 304. Olhou para os lados, verificou o relógio digital na parede, e entrou.
 
 — Val, bloqueie as câmeras — sussurrou Gabo. — Se Aria não está vendo, vamos garantir que ninguém veja o que vou fazer.
 
