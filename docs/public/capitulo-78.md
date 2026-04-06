@@ -11,7 +11,7 @@ Mas algo estava errado.
 
 Gabo estacionou o Cobalt, o metal azul fervendo sob o calor. Ele ajustou os óculos escuros, um hábito novo para olhos acostumados à penumbra eterna.
 
-— Você disse que era uma ocorrência de vandalismo — disse ele, saindo do carro.
+— Você disse que era uma ocorrência de vandalismo — disse ele, saindo do carro com um grunhido, suas pernas auxiliadas pelas órteses absorvendo o impacto no asfalto quente.
 
 O Capitão Vilar estava parado diante de um antigo armazém da Aeterna Corp. Ele parecia exausto, o uniforme desbotado pelo suor.
 
