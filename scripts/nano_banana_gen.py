@@ -98,7 +98,6 @@ class NanoBanana:
         return None
 
     def extract_scene(self, chapter_text, active_characters):
-        from google import genai
         """Uses Gemini Text to pick a scene and prompt"""
         char_names = ", ".join([c['name'] for c in active_characters]) or "sem personagens nomeados"
         character_bible = "\n".join(
