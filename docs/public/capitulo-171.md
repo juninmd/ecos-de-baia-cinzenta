@@ -7,9 +7,9 @@ Personagens Presentes: Gabo, Valéria
 
 # Capítulo 171: Luz Seca
 
-A subida pelo poço do elevador de emergência foi um exercício metódico de dor. Sem energia para acionar os guinchos do Arquivo Executivo, tivemos que escalar pelos trilhos de lubrificação, usando cada plataforma de manutenção enferrujada como um respiradouro temporário.
+A subida pelo poço do elevador de emergência foi um exercício metódico de dor. Sem energia para acionar os guinchos do Arquivo Executivo, tivemos que subir pela escada de manutenção enferrujada, usando cada plataforma como um respiradouro temporário.
 
-A escada engolia Valéria acima de mim. Cada passo dela produzia um rangido metálico fraco, engolido pelo breu que empurrávamos para baixo. Para mim, a escalada não exigia apenas força; exigia abstração. Minhas pernas suportavam o peso do chassi avariado do meu corpo, mas meus braços... meus cotocos cauterizados deslizavam no metal frio quando eu tentava usá-los como alavanca.
+A escada engolia Valéria acima de mim. Cada passo dela produzia um rangido metálico fraco, engolido pelo breu que empurrávamos para baixo. Para mim, a escalada não exigia apenas força; exigia abstração. Minhas pernas suportavam o peso do chassi avariado do meu corpo, mas meus braços... meus cotocos cauterizados deslizavam no metal frio quando eu tentava usá-los para equilíbrio.
 
 A cada dez metros, a carne recém-fechada pelo plasma era esfolada na grade. O sangue morno empapava os restos das minhas mangas, descendo pelos meus flancos onde a espuma química de Valéria mantinha minhas costelas no lugar.
 
