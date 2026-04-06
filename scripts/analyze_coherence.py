@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import re
 import argparse
+import os
 from dataclasses import dataclass
 from pathlib import Path
 from statistics import mean
@@ -134,8 +135,7 @@ def check_character_consistency(chapters: list[Chapter], aliases: dict[str, set[
         def check_mention(ch):
             return 1 if pattern.search(ch.text) else 0
 
-        with ThreadPoolExecutor() as executor:
-            mentions = sum(executor.map(check_mention, recent))
+        mentions = sum(map(check_mention, recent))
 
         if mentions <= 1:
             issues.append(f"Personagem central pouco presente nos 10 capítulos mais recentes: {canonical} ({mentions}/10)")

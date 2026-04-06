@@ -3,10 +3,7 @@ import re
 import argparse
 import sys
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from google import genai
-from PIL import Image
 from pathlib import Path
-import io
 
 # Add root project dir to pythonpath to allow relative imports from scripts
 root_dir = Path(__file__).resolve().parent.parent
@@ -57,6 +54,7 @@ class CostCalculator:
 
 class NanoBanana:
     def __init__(self):
+        from google import genai
         print("🍌 Initializing Nano Banana Core (Gemini 2.5 Powered - via google.genai)...")
         
         # Load keys from env or default
@@ -132,6 +130,8 @@ class NanoBanana:
         return response.text
 
     def generate_art(self, prompt, ref_image_paths, output_path):
+        from PIL import Image
+        import io
         print("\n" + "="*50)
         print("🍌 NANO BANANA GENERATION REQUEST 🍌")
         print("="*50)
