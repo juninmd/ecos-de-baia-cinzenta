@@ -160,4 +160,4 @@ Este arquivo mantém o controle de progresso sobre o processo de revisão, adequ
 ## Lote 26: Capítulos 77 a 79
 - [x] **Capítulo 77: Anjos da Morte** - Revisado. Adicionada a menção ao zumbido contido dos servomotores das órteses de Gabo para reforçar sua limitação física nas pernas durante sua caminhada no hospital. Nenhuma menção a fumaça. Arquivo de análise criado.
 - [x] **Capítulo 78: O Jardim de Concreto** - Revisado. Adicionada a menção à dificuldade de Gabo ao sair do carro e ao impacto nas pernas amortecido pelas órteses. Nenhum gatilho de fumaça encontrado. Arquivo de análise criado.
-- [x] **Capítulo 79: Frequências Fantasmas** - Revisor sem problemas de lore encontrados. Conversação tensa mantendo a lore intacta de rádio analógico versus hiper-digitalização sem vícios inadequados para o protagonista. Arquivo de análise criado.
+- [x] **Capítulo 79: Frequências Fantasmas** - Revisado; sem problemas de lore encontrados. Conversação tensa mantendo a lore intacta de rádio analógico versus hiper-digitalização sem vícios inadequados para o protagonista. Arquivo de análise criado.
