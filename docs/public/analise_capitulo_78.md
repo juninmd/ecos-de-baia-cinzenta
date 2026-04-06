@@ -8,7 +8,7 @@ title: Análise do Capítulo 78
 - **Título**: O Jardim de Concreto
 - **Data In-Game**: Manhã (10:00 AM).
 - **Local**: Zona Leste, Antigo Distrito Industrial - Armazém da Aeterna Corp.
-- **Personagens Presentes**: Gabo, Capitão Vilar.
+- **Personagens Presentes**: Gabo, Capitão Vilar, Técnico da Aeterna (Figura Mutante).
 
 ## Autoavaliação Técnica
 - **Ritmo (Pacing)**: 9/10. Investigação tensa que progride rapidamente para a descoberta bizarra e body-horror dentro do armazém.
