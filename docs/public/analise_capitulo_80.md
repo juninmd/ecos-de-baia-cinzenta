@@ -6,7 +6,7 @@ title: Análise do Capítulo 80
 
 ## Metadados
 - **Título**: A Autópsia de um Deus
-- **Data In-Game**: 18:00 PM.
+- **Data In-Game**: 18:00.
 - **Local**: Laboratório Subterrâneo da Torre Aeterna.
 - **Personagens Presentes**: Gabo, Vilar, Dra. Nise.
 
