@@ -20,7 +20,7 @@ CANONICAL_NEGATIONS = re.compile(r"(odeia|nunca fumou|n[aã]o fuma|repulsa|n[aá
 WORD_PATTERN = re.compile(r"\b\w+\b")
 CLIFFHANGER_PATTERN = re.compile(r"[?.!]\s*$")
 NICKNAME_RE = re.compile(r'"([^"]+)"')
-SECTION_SPLIT_RE = re.compile(r"\n## ")
+SECTION_SPLIT_RE = re.compile(r"^## ", re.MULTILINE)
 # Use negated character class instead of non-greedy match to prevent ReDoS
 BRACKET_STRIP_RE = re.compile(r"\s*\[[^\]]*\]")
 
