@@ -6,7 +6,7 @@ title: Análise do Capítulo 82
 
 ## Metadados
 - **Título**: O Profeta Mudo
-- **Data In-Game**: 22:00 PM.
+- **Data In-Game**: 22:00.
 - **Local**: Esgotos do Setor 4, "A Catedral de Ferro".
 - **Personagens Presentes**: Gabo, Valéria, O Profeta Mudo, Cultistas (ex-engenheiros da Aeterna).
 
