@@ -31,4 +31,4 @@
 *   **Verificação:** Não há *plot twists* neste capítulo, apenas a progressão lógica e a continuação da fuga iniciada no Capítulo 171. A ausência de energia da cidade e o planejamento de ir para o Distrito 4 em busca de Vasco (estabelecido no capítulo 123) são coerentes.
 
 ### "O resumo da lore foi atualizado com os novos eventos?"
-*   **Status:** A ser atualizado na `cronologia.md` no próximo passo.
+*   **Status:** Atualizado na cronologia.md.
