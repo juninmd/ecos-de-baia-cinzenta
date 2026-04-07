@@ -3,7 +3,7 @@ from pathlib import Path
 from typing import Dict
 
 
-CHAPTER_RE = re.compile(r'capitulo-(\d+)')
+CHAPTER_RE = re.compile(r'capitulo-(\d+(?:\.5)?)')
 
 class ChapterParser:
     """Extracts metadata and content from markdown chapters."""
