@@ -4,7 +4,7 @@ import re
 # Compile regex at module level for performance
 NAME_CLEAN_RE = re.compile(r'\[([^\]]+)\](?:\([^\)]+\))?')
 IMAGE_MATCH_RE = re.compile(r'!\[[^\]]*\]\(([^\)]+)\)')
-NICKNAME_MATCH_RE = re.compile(r'"(.*?)"')
+NICKNAME_MATCH_RE = re.compile(r'"([^"]+)"')
 
 
 class CharacterDatabase:
