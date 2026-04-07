@@ -21,7 +21,8 @@ WORD_PATTERN = re.compile(r"\b\w+\b")
 CLIFFHANGER_PATTERN = re.compile(r"[?.!]\s*$")
 NICKNAME_RE = re.compile(r'"([^"]+)"')
 SECTION_SPLIT_RE = re.compile(r"\n## ")
-BRACKET_STRIP_RE = re.compile(r"\s*\[.*?\]")
+# Use negated character class instead of non-greedy match to prevent ReDoS
+BRACKET_STRIP_RE = re.compile(r"\s*\[[^\]]*\]")
 
 CENTRAL_ALIASES = {
     "Gabriel \"Gabo\" Moretti": {"gabo", "gabriel", "moretti"},
