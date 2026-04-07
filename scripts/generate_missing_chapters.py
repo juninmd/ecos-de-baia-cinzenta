@@ -9,7 +9,7 @@ def parse_cronologia(filepath):
         content = f.read()
 
     # Match patterns like: *   **Capítulo 141 (Raízes Amargas):** No Subnível 7, o grupo se recupera...
-    matches = re.finditer(r'\*\s+\*\*Capítulo\s+(\d+)\s+\((.*?)\):\*\*\s+(.*?)(?=\n\*|\n---|\Z)', content, re.DOTALL)
+    matches = re.finditer(r'\*\s+\*\*Capítulo\s+(\d+)\s+\(([^)]+)\):\*\*\s+((?:(?!\n\*|\n---).)*)', content, re.DOTALL)
     for match in matches:
         ch_num = int(match.group(1))
         title = match.group(2).strip()
