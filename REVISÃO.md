@@ -163,6 +163,6 @@ Este arquivo mantém o controle de progresso sobre o processo de revisão, adequ
 - [x] **Capítulo 79: Frequências Fantasmas** - Revisado; sem problemas de lore encontrados. Conversação tensa mantendo a lore intacta de rádio analógico versus hiper-digitalização sem vícios inadequados para o protagonista. Arquivo de análise criado.
 
 ## Lote 27: Capítulos 80 a 82
-- [x] **Capítulo 80: A Autópsia de um Deus** - Revisor sem problemas de lore encontrados. Nenhuma menção a fumaça. Uso de dor física em situações de estresse. Arquivo de análise criado.
-- [x] **Capítulo 81: Sangue e Óleo** - Revisor sem problemas de lore encontrados. Ação e perigo focado em calor sem ocorrência da palavra fumaça. A dor o mantém ancorado. Arquivo de análise criado.
-- [x] **Capítulo 82: O Profeta Mudo** - Revisor sem problemas de lore encontrados. Horror biológico com a dor (infrassom causando pressão) focada na realidade, mantendo lore do personagem. Arquivo de análise criado.
+- [x] **Capítulo 80: A Autópsia de um Deus** - Revisado sem problemas de lore encontrados. Nenhuma menção a fumaça. Uso de dor física em situações de estresse. Arquivo de análise criado.
+- [x] **Capítulo 81: Sangue e Óleo** - Revisado sem problemas de lore encontrados. Ação e perigo focado em calor sem ocorrência da palavra fumaça. A dor o mantém ancorado. Arquivo de análise criado.
+- [x] **Capítulo 82: O Profeta Mudo** - Revisado sem problemas de lore encontrados. Horror biológico com a dor (infrassom causando pressão) focada na realidade, mantendo lore do personagem. Arquivo de análise criado.
