@@ -6,7 +6,7 @@ title: Análise do Capítulo 81
 
 ## Metadados
 - **Título**: Sangue e Óleo
-- **Data In-Game**: 18:05 PM.
+- **Data In-Game**: 18:05.
 - **Local**: Corredor de Acesso, Torre Aeterna.
 - **Personagens Presentes**: Gabo, Vilar, Dra. Nise.
 
