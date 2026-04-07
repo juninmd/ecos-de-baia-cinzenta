@@ -19,6 +19,9 @@ VIOLATION_PATTERN = re.compile(r"\b(Gabo|Gabriel)\b.{0,120}\b(fum[a-z]*|cigarro|
 CANONICAL_NEGATIONS = re.compile(r"(odeia|nunca fumou|n[aã]o fuma|repulsa|n[aá]usea)", re.IGNORECASE)
 WORD_PATTERN = re.compile(r"\b\w+\b")
 CLIFFHANGER_PATTERN = re.compile(r"[?.!]\s*$")
+NICKNAME_RE = re.compile(r'"([^"]+)"')
+SECTION_SPLIT_RE = re.compile(r"\n## ")
+BRACKET_STRIP_RE = re.compile(r"\s*\[.*?\]")
 
 CENTRAL_ALIASES = {
     "Gabriel \"Gabo\" Moretti": {"gabo", "gabriel", "moretti"},
@@ -61,13 +64,13 @@ def parse_character_aliases() -> dict[str, set[str]]:
         return aliases
 
     content = PERSONAGENS.read_text(encoding="utf-8")
-    for block in re.split(r"\n## ", content):
+    for block in SECTION_SPLIT_RE.split(content):
         if not block.strip() or block.startswith("# "):
             continue
         name = block.splitlines()[0].strip().replace("*", "")
-        canonical = re.sub(r"\s*\[.*?\]", "", name).strip()
+        canonical = BRACKET_STRIP_RE.sub("", name).strip()
         local_aliases = {canonical.lower()}
-        nick = re.search(r'"([^"]+)"', canonical)
+        nick = NICKNAME_RE.search(canonical)
         if nick:
             local_aliases.add(nick.group(1).lower())
         first = canonical.split()[0].lower() if canonical.split() else ""
