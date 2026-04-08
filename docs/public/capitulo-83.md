@@ -17,7 +17,7 @@ Vilar jogou o mapa holográfico da cidade sobre a mesa. Estava cheio de pontos v
 
 — E o centro da espiral? — perguntou Vilar.
 
-Gabo apontou para o ponto onde a espiral convergia. Não era a Torre Aeterna. Não era a Prefeitura.
+Gabo apontou para o ponto onde a espiral convergia, as juntas de suas órteses mecânicas nas pernas emitindo um zumbido baixo ao reajustar o peso do seu corpo frágil sobre a mesa. Não era a Torre Aeterna. Não era a Prefeitura.
 
 Era o **Memorial do Dilúvio**, o enorme parque construído sobre as ruínas dos bairros baixos que foram inundados permanentemente. Um lugar de luto, cheio de estátuas e ciprestes.
 
@@ -49,9 +49,9 @@ O comunicador de Vilar tocou. Era o chefe da manutenção do metrô.
 
 Vilar olhou para Gabo.
 
-— Começou — disse Gabo, verificando a carga de sua arma. — A Primeira Colheita.
+— Começou — disse Gabo, verificando a carga de sua arma e sentindo a pressão bruta do metal das órteses contra seus fêmures. — A Primeira Colheita.
 
-— Vamos para o Memorial — decidiu Gabo. — Se cortarmos a raiz mestra, talvez o resto pare de crescer.
+— Vamos para o Memorial — decidiu Gabo, forçando as pernas mecânicas a suportarem seu movimento até a porta. — Se cortarmos a raiz mestra, talvez o resto pare de crescer.
 
 — Ou talvez a gente descubra que a árvore é muito maior do que pensamos — disse Val, sombriamente.
 

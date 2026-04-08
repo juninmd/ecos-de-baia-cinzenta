@@ -41,6 +41,6 @@ A vibração do som fez as veias nas paredes brilharem mais forte. O túnel estr
 
 — Temos que sair daqui! — gritou Vilar.
 
-Raízes explodiram do chão, tentando agarrar suas pernas. Gabo disparou, cortando um tentáculo que se enrolava no tornozelo de Nise. O tentáculo gritou e sangrou óleo preto.
+Raízes explodiram do chão, tentando agarrar suas pernas. Gabo cravou os pés mecânicos com força no chão, resistindo ao tranco das órteses, e disparou, cortando um tentáculo que se enrolava no tornozelo de Nise. O tentáculo gritou e sangrou óleo preto.
 
 Eles correram de volta para a plataforma da estação, enquanto o "coro" das vítimas aumentava de volume, transformando-se em um grito psíquico que ecoava não nos ouvidos, mas dentro do crânio.

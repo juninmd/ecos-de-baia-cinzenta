@@ -7,7 +7,7 @@ image: /capitulo_85.jpg
 
 Deveria ser o momento mais brilhante do dia. Mas quando Gabo, Val, Nise e Vilar emergiram do metrô na superfície do Memorial, o céu estava escurecendo.
 
-Não era nuvem. Não era fumaça.
+Não era nuvem. Não era poluição.
 
 Sobre o centro do parque, flutuando acima do antigo bunker submerso, havia uma esfera maciça. Parecia um tumor planetário. Feita de detritos, carros, pedaços de prédios e árvores arrancadas, tudo mantido junto por uma teia de biomassa negra.
 
