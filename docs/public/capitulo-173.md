@@ -9,11 +9,11 @@ Personagens Presentes: Gabo, Valéria
 
 A marcha até o Distrito 4 não era uma caminhada; era um lento arrastar de cadáveres que se recusavam a aceitar a própria decomposição. A chuva ácida não dava trégua, transformando os becos apagados de Baía Cinzenta em canais de lodo tóxico e lixo não processado.
 
-Valéria seguia meio passo atrás de mim. O som de seus servos motores antes precisos agora soava como engrenagens mastigando areia. O chassi, uma vez cromado e ameaçador, estava manchado de fuligem e sangue seco. Cada poça que ela pisava expunha circuitos sem isolamento, gerando pequenas faíscas azuis que morriam instantaneamente sob a água pesada. Ela não falava. O luto por Aria havia a desligado mais rápido do que qualquer pulso eletromagnético.
+Valéria seguia meio passo atrás de mim. O som de seus servos motores antes precisos agora soava como engrenagens mastigando areia. O chassi, uma vez cromado e ameaçador, estava manchado de fuligem e sangue seco. Cada poça que ela pisava expunha circuitos sem isolamento, gerando pequenas faíscas azuis que morriam instantaneamente sob a água pesada. Ela não falava. O luto por Aria a havia desligado mais rápido do que qualquer pulso eletromagnético.
 
 Eu também não estava muito melhor. O choque hipovolêmico era uma sombra ameaçando me engolir a cada passo vacilante. Minhas roupas grudavam na pele, frias como a lona de um necrotério. Mas o frio não era o meu principal problema. Era o cheiro.
 
-Nas bordas do Distrito 4, a ordem corporativa nunca existiu de fato, e a falta de energia apenas escancarou isso. Os moradores sobreviventes haviam começado a queimar o que encontravam em tambores improvisados nas ruas para espantar a escuridão e o frio: plástico isolante veloz, pneus velhos e restos químicos.
+Nas bordas do Distrito 4, a ordem corporativa nunca existiu de fato, e a falta de energia apenas escancarou isso. Os moradores sobreviventes haviam começado a queimar o que encontravam em tambores improvisados nas ruas para espantar a escuridão e o frio: plástico isolante velho, pneus velhos e restos químicos.
 
 O vento soprou a fumaça tóxica de uma dessas fogueiras na nossa direção. O ardor nos olhos e a acidez no fundo da garganta foram imediatos. Mas, para mim, não era o cheiro de lixo queimado.
 
@@ -55,7 +55,7 @@ Os olhos do saqueador caíram para a minha ferida aberta, para o modo como o san
 
 Ergui o cotoco ensanguentado na direção dele, a poucos centímetros do seu rosto. A carne estalava e pingava.
 
-— Você está vendo isso? — minha voz saiu baixa, raspando como vidro quebrado. — Eu fiz isso em mim mesmo, só porque o cheiro dessa cidade me irritou. O que você acha que eu vou fazer com você se você não sair do meu caminho nos próximos três segundos?
+— Você está vendo isso? — minha voz saiu baixa, raspando como vidro quebrado. — Eu fiz isso em mim mesmo, só porque o cheiro dessa cidade me irritou. O que acha que eu vou fazer se não sair do meu caminho nos próximos três segundos?
 
 O silêncio reinou, cortado apenas pelo bater constante da tempestade. O cara engoliu seco. A bravata vacilou. Ele olhou para os parceiros, que já estavam recuando um passo sutil. Eles não viam um alvo fácil. Viam a loucura encarnada, alguém que já não tinha mais nada a perder e que não sentia o peso da própria dor.
 
