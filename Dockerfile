@@ -7,8 +7,7 @@ RUN pnpm install --frozen-lockfile
 COPY . .
 RUN pnpm run docs:build
 
-# Stage 2: Serve
-FROM nginx:alpine
+# Stage 2: Serve (unprivileged nginx, sem root)
+FROM nginxinc/nginx-unprivileged:alpine
 COPY --from=builder /app/docs/.vitepress/dist /usr/share/nginx/html
-EXPOSE 80
-CMD ["nginx", "-g", "daemon off;"]
+EXPOSE 8080
