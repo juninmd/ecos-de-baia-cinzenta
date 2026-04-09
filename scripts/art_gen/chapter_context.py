@@ -14,6 +14,9 @@ class ChapterContext:
         self._body = None
 
     def _load(self):
+        if self._content is not None:
+            return
+
         # We need to support mock_open testing which hooks open() instead of pathlib
         if not os.path.exists(self.filepath):
             raise FileNotFoundError(f"Chapter file not found: {self.filepath}")
