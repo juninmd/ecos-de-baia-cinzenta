@@ -20,15 +20,23 @@ class OllamaClient:
     def __init__(self, model="llama2"):
         self.model = model
         self.api_url = "http://localhost:11434/api/generate"
+        self.session = None
         print(f"🦙 Initializing Ollama Client (Model: {self.model})...")
+
+    def _get_session(self):
+        if self.session is None:
+            import requests
+            self.session = requests.Session()
+        return self.session
 
     def check_connection(self, max_retries=3, retry_delay=2):
         """Check if Ollama is accessible with retries"""
         import requests
         host = "http://localhost:11434"
+        session = self._get_session()
         for attempt in range(max_retries):
             try:
-                response = requests.get(host, timeout=5)
+                response = session.get(host, timeout=5)
                 if response.status_code == 200:
                     print(f"✅ Successfully connected to Ollama at {host}")
                     return True
@@ -54,9 +62,10 @@ class OllamaClient:
         )
 
         import requests
+        session = self._get_session()
         try:
             # Increase timeout to 5 minutes for larger models and slower systems
-            response = requests.post(self.api_url, json={
+            response = session.post(self.api_url, json={
                 "model": self.model,
                 "prompt": prompt,
                 "stream": False
@@ -85,15 +94,23 @@ class HuggingFaceClient:
         self.text_model_url = "https://api-inference.huggingface.co/models/HuggingFaceH4/zephyr-7b-beta"
         # Model for Image Generation
         self.image_model_url = "https://api-inference.huggingface.co/models/stabilityai/stable-diffusion-2-1"
+        self.session = None
+
+    def _get_session(self):
+        if self.session is None:
+            import requests
+            self.session = requests.Session()
+            self.session.headers.update(self.headers)
+        return self.session
 
     def query_text(self, payload):
-        import requests
-        response = requests.post(self.text_model_url, headers=self.headers, json=payload)
+        session = self._get_session()
+        response = session.post(self.text_model_url, json=payload)
         return response.json()
 
     def query_image(self, payload):
-        import requests
-        response = requests.post(self.image_model_url, headers=self.headers, json=payload)
+        session = self._get_session()
+        response = session.post(self.image_model_url, json=payload)
         return response.content
 
     def extract_scene(self, chapter_text, active_characters):

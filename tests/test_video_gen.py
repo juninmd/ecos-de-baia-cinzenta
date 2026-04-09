@@ -41,7 +41,7 @@ def test_audio_generation(mock_gtts, mock_audio, tmp_path):
     assert duration == 5.0
 
 
-@patch('requests.post')
+@patch('requests.Session.post')
 def test_wan_client_success(mock_post, tmp_path):
     mock_response = MagicMock()
     mock_response.status_code = 200
@@ -59,7 +59,7 @@ def test_wan_client_success(mock_post, tmp_path):
     assert vid_path.read_bytes() == b"fake_video_data"
 
 
-@patch('requests.post')
+@patch('requests.Session.post')
 @patch('time.sleep', return_value=None)
 def test_wan_client_retry_503(mock_sleep, mock_post, tmp_path):
     mock_error_response = MagicMock()
