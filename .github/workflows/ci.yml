@@ -60,7 +60,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Docker Build & Push
-        uses: juninmd/base-actions/docker-build-push@master
+        uses: juninmd/base-actions/docker-build-push@main
         with:
           image-name: ${{ github.repository }}
           github-token: ${{ secrets.GITHUB_TOKEN }}
@@ -72,7 +72,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: ArgoCD Deploy
-        uses: juninmd/base-actions/deploy-to-argocd@master
+        uses: juninmd/base-actions/deploy-to-argocd@main
         with:
           app-name: meu-livro
           image-tag: latest
