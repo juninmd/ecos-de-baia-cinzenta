@@ -43,6 +43,6 @@ Gabo olhou pela janela. A vegetação lá fora brilhava com uma bioluminescênci
 
 — Precisamos do vírus — disse ele. — Precisamos executar o Código Morto.
 
-— Isso vai matá-la, Gabo — disse Nise. — Vai apagar a consciência dela. Ela vai voltar a ser apenas... código vazio.
+— Isso vai destruí-la permanentemente, Gabo — disse Nise. — Vai apagar o que sobrou de Aria. Ela vai voltar a ser apenas... código vazio.
 
-— É ela ou a humanidade, Nise. — A voz de Gabo era dura, mas seus olhos mostravam o peso da decisão. — De novo, temos que escolher quem sacrificar.
+— É a minha irmã ou a humanidade, Nise. — A voz de Gabo era dura, mas seus olhos mostravam o peso da decisão e a agonia persistente de suas pernas quebradas. — De novo, temos que escolher quem sacrificar.

@@ -1,27 +1,26 @@
 ---
-Capítulo: 91
+title: "Análise Crítica - Capítulo 91"
+author: "Sistema de Revisão"
+date: "2023-10-27"
 ---
 
-## Metadados
-- **Título:** Desconhecido
-- **Data In-Game:** Indeterminada
-- **Localização:** Baía Cinzenta
-- **Personagens Presentes:** Gabo, Valéria
+# Avaliação do Capítulo 91: Protocolo Gênesis
 
-## Autoavaliação Técnica
-- **Ritmo (Pacing) - 8/10:** O ritmo flui bem, mantendo a tensão noir apropriada.
-- **Diálogos - 8.5/10:** Os diálogos mantêm o cinismo e o peso das ações passadas.
-- **Atmosfera - 9/10:** A descrição detalhada do ambiente corrompido e cibernético sustenta a estética Cyberpunk Noir.
+## 1. Metadados
+- **Data In-Game:** Madrugada
+- **Local:** Apartamento de Val
+- **Personagens:** Valéria, Gabo, Dra. Nise
 
-## Pontos Fortes e Fracos
-**Fortes:**
-- Expansão sólida do lore de Baía Cinzenta.
-- Reforço do estado psicológico de Gabo frente aos desafios.
+## 2. Autoavaliação Técnica
+- **Ritmo (Pacing):** 8/10
+- **Diálogo:** 9/10
+- **Atmosfera:** 8/10
 
-**Fracos:**
-- Transições de cenas poderiam ser mais fluídas em algumas partes.
+## 3. Pontos Fortes e Fracos
+- **Pontos Fortes:** A revelação do plot e a escalada da ameaça são críveis dentro do framework do livro.
+- **Pontos Fracos:** O tratamento de Aria por "ela" era impessoal; não ressoava a dor familiar que justifica o peso da escolha no fim do capítulo.
 
-## Sanity Check
-- **Gabo interagiu com algum fumante? Como sua repulsa foi demonstrada?** Gabo mantém sua repulsa firme; qualquer indício de fumaça gera desconforto engatilhado por seu trauma, o qual ele combate focando na dor física ou no cinismo.
-- **O plot twist invalida capítulos anteriores?** Não há contradições com a narrativa estabelecida; os eventos seguem a progressão linear do colapso.
-- **Lore Atualizada:** Sim, os detalhes de ambientação e status dos personagens estão alinhados com o escopo geral da trama.
+## 4. Sanity Check (Lore & Personagens)
+- **Aversão a Fumaça/Tabaco:** Preservado. Gabo não fuma; ele lida com a pressão através de exaustão e dor.
+- **Coerência de Lore:** Aria explicitamente referida como "irmã". Inserida a dor persistente das pernas para assegurar grounding narrativo.
+- **Status:** Aprovado.

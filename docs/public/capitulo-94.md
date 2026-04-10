@@ -7,7 +7,7 @@ image: /capitulo_94.jpg
 
 O comboio era patético e heroico.
 
-Na frente, Vilar e os remanescentes dos Puros abriam caminho com lança-chamas (a única arma eficaz contra o Jardim). No centro, Gabo e Val empurravam uma maca hospitalar reforçada. Sobre ela, não havia um paciente, mas o servidor negro do Código Morto, conectado a baterias portáteis.
+Na frente, Vilar e os remanescentes dos Puros abriam caminho com lança-chamas (a única arma eficaz contra o Jardim). No centro, Val empurrava uma maca hospitalar reforçada enquanto Gabo, arrastando o peso ruidoso de suas próteses de perna superaquecidas, ajudava a guiar a maca. Sobre ela, não havia um paciente, mas o servidor negro do Código Morto, conectado a baterias portáteis.
 
 Dra. Nise ficara para trás para cuidar dos feridos e manter as defesas do hospital.
 
@@ -35,9 +35,9 @@ Mais criaturas surgiram das paredes. Humanoides de casca de árvore, com espinho
 
 — Não parem! — Vilar investiu contra eles, um guerreiro velho e caolho lutando contra a própria natureza.
 
-Gabo e Val empurraram a maca ladeira acima, em direção à cúpula pulsante do Sol Negro que pairava sobre o Memorial.
+Valéria e Gabo, com as engrenagens das pernas do detetive rangendo em protesto sob a ladeira íngreme, empurraram a maca ladeira acima, em direção à cúpula pulsante do Sol Negro que pairava sobre o Memorial.
 
-A voz de Aria voltou, baixa, quase um pensamento: *Eles estão com dor, Gabo. As pessoas dentro das árvores... elas gritam em silêncio.*
+A voz de Aria voltou, baixa, enviada diretamente pela rede fragmentada para o comunicador dele, quase um pensamento: *Eles estão com dor, Gabo. As pessoas dentro das árvores... elas gritam em silêncio.*
 
 — Vamos acabar com isso — prometeu ele, sem saber para quem.
 

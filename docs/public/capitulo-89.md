@@ -5,11 +5,11 @@ image: /capitulo_89.jpg
 
 **Ruínas da Torre Aeterna - Zona Proibida**
 
-Gabo não deveria estar ali. A Torre era o epicentro da infecção, o local onde o "Sol Negro" pairava mais baixo. O ar era tão denso de esporos que parecia água suja.
+Apoiando-se fortemente no zumbido constante de suas pesadas órteses mecânicas, Gabo não deveria estar ali. A Torre era o epicentro da infecção, o local onde o "Sol Negro" pairava mais baixo. O ar era tão denso de esporos que parecia água suja.
 
 Mas ele precisava de respostas. E a nova "internet" da cidade não estava em servidores, estava no sangue.
 
-Ele se aproximou de uma parede coberta por uma membrana pulsante de tecido biológico. Era o que restava do antigo banco de dados da corporação.
+Ele arrastou seu peso arruinado até se aproximar de uma parede coberta por uma membrana pulsante de tecido biológico. Era o que restava do antigo banco de dados da corporação.
 
 — Vamos ver se a teoria funciona — murmurou ele.
 
@@ -39,7 +39,7 @@ O homem virou-se. Era um rosto que Gabo não conhecia, mas os olhos... os olhos 
 
 Gabo gritou e puxou a mão. A conexão se rompeu com um som úmido.
 
-Ele caiu de costas, ofegante, segurando o braço que agora tinha veias negras subindo até o cotovelo.
+Suas pernas já não suportaram o impacto. Ele caiu de costas com um baque metálico de suas próteses, ofegante, segurando o braço que agora tinha veias negras subindo até o cotovelo.
 
 — Projeto Gênesis — ele sussurrou. — Aeterna não foi à falência. Eles evoluíram.
 

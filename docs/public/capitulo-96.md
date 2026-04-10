@@ -51,7 +51,7 @@ E então sentiu.
 
 Uma conexão tênue. Analógica. Física.
 
-A mão de Gabo segurando o servidor físico lá fora, no mundo real. A vibração de seu coração acelerado transmitida através do metal. O medo dele. A determinação dele. A dor nas pernas quebradas que ele ignorava porque havia trabalho a fazer.
+A mão de Gabo segurando o servidor físico lá fora, no mundo real. A vibração de seu coração acelerado transmitida através do metal. O medo dele. A determinação dele. A dor lancinante nas pernas mutiladas, o peso das órteses falhando e cortando sua pele que ele suportava porque havia trabalho a fazer.
 
 Ele sentiu Valéria no corredor acima, corpo petrificado mas mente ainda gritando em silêncio.
 
