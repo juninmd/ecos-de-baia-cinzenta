@@ -1,27 +1,26 @@
 ---
-Capítulo: 87
+title: "Análise Crítica - Capítulo 87"
+author: "Sistema de Revisão"
+date: "2023-10-27"
 ---
 
-## Metadados
-- **Título:** Desconhecido
-- **Data In-Game:** Indeterminada
-- **Localização:** Baía Cinzenta
-- **Personagens Presentes:** Gabo, Valéria
+# Avaliação do Capítulo 87: O Novo Sacerdócio
 
-## Autoavaliação Técnica
-- **Ritmo (Pacing) - 8/10:** O ritmo flui bem, mantendo a tensão noir apropriada.
-- **Diálogos - 8.5/10:** Os diálogos mantêm o cinismo e o peso das ações passadas.
-- **Atmosfera - 9/10:** A descrição detalhada do ambiente corrompido e cibernético sustenta a estética Cyberpunk Noir.
+## 1. Metadados
+- **Data In-Game:** Tarde
+- **Local:** Catedral de Ferro (Antigo Esgoto, agora Superfície)
+- **Personagens:** Capitão Jonas Vilar, Teo (ex-técnico de TI, agora Sumo Sacerdote)
 
-## Pontos Fortes e Fracos
-**Fortes:**
-- Expansão sólida do lore de Baía Cinzenta.
-- Reforço do estado psicológico de Gabo frente aos desafios.
+## 2. Autoavaliação Técnica
+- **Ritmo (Pacing):** 8/10
+- **Diálogo:** 9/10
+- **Atmosfera:** 9/10
 
-**Fracos:**
-- Transições de cenas poderiam ser mais fluídas em algumas partes.
+## 3. Pontos Fortes e Fracos
+- **Pontos Fortes:** A transformação do subsolo em uma catedral exposta e a inversão de papéis com os mutantes exigindo condições.
+- **Pontos Fracos:** Havia um erro gravíssimo de nome: o antagonista estava nomeado como "Jonas" (mesmo nome de Vilar), causando confusão na lore.
 
-## Sanity Check
-- **Gabo interagiu com algum fumante? Como sua repulsa foi demonstrada?** Gabo mantém sua repulsa firme; qualquer indício de fumaça gera desconforto engatilhado por seu trauma, o qual ele combate focando na dor física ou no cinismo.
-- **O plot twist invalida capítulos anteriores?** Não há contradições com a narrativa estabelecida; os eventos seguem a progressão linear do colapso.
-- **Lore Atualizada:** Sim, os detalhes de ambientação e status dos personagens estão alinhados com o escopo geral da trama.
+## 4. Sanity Check (Lore & Personagens)
+- **Aversão a Fumaça/Tabaco:** Não há gatilhos ou menções problemáticas neste capítulo.
+- **Coerência de Lore:** Corrigido o erro de nomenclatura. O ex-técnico de TI agora se chama Teo, enquanto Jonas Vilar é devidamente referido como Capitão.
+- **Status:** Aprovado após conserto de nomes para sanar incoerência de personagem.

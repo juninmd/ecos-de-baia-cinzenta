@@ -17,7 +17,7 @@ Do lado de fora, a Colmeia gemia. Um som constante de estômagos roncando, ampli
 
 — Eles estão com fome — disse Nise, olhando do terraço.
 
-Gabo estava ao lado dela, enfaixando o braço infectado. A mancha negra tinha parado de crescer, contida por um coquetel de antifúngicos experimentais que Nise criara, mas a dor era constante.
+Apoiado rigidamente nas pesadas órteses mecânicas que mantinham o que sobrou de suas pernas funcionando, Gabo estava ao lado dela, enfaixando o braço infectado. A mancha negra tinha parado de crescer, contida por um coquetel de antifúngicos experimentais que Nise criara, mas a dor era constante.
 
 — Eles gastaram muita energia com a Praga de Ferro — analisou Gabo. — Aceleraram o metabolismo para destruir nossas defesas. Agora precisam repor.
 
@@ -47,4 +47,4 @@ Gabo assentiu. Ele puxou seu revólver. Era uma peça antiga, herança de famíl
 
 — Você quer levar o servidor até lá? — Val arregalou os olhos. — Pesam 50 quilos! No meio de uma zona de guerra biológica!
 
-— Então é melhor a gente começar a fazer musculação — disse Gabo, verificando o tambor do revólver. — Porque vamos entregar uma bomba no colo de Deus.
+— Então é melhor eu ajustar a potência máxima dos servomotores destas pernas velhas — disse Gabo, verificando o tambor do revólver. — Porque vamos entregar uma bomba no colo de Deus.

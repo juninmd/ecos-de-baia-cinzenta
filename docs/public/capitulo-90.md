@@ -7,7 +7,7 @@ image: /capitulo_90.jpg
 
 A Biblioteca era um dos poucos lugares que o Jardim ainda não tinha consumido totalmente. Talvez porque papel velho e tinta seca não fossem nutritivos para a Colmeia.
 
-Gabo navegou com um pequeno barco a remo pelos corredores inundados. As estantes formavam cânions de livros mofados.
+Mesmo com as pernas presas em pesadas órteses metálicas e seus movimentos limitados, Gabo navegou com um pequeno barco a remo pelos corredores inundados. As estantes formavam cânions de livros mofados.
 
 Ele procurava o Arquivista. Uma lenda urbana entre os sobreviventes. Alguém que sabia como o mundo era antes.
 
@@ -25,7 +25,7 @@ Uma figura apareceu no topo de uma estante que emergia da água como uma ilha. E
 
 — Dr. Silas Vance? — completou o Arquivista.
 
-Gabo congelou.
+O zumbido das órteses de Gabo pareceu travar quando ele congelou de choque.
 
 — Vance? Parente da Dra. Elara Vance?
 
@@ -55,7 +55,7 @@ O Arquivista jogou um livro para Gabo. Era um diário de campo, encadernado em c
 
 — Exato. O Código Morto é o portador do vírus. Mas para liberá-lo... alguém precisa se sacrificar. Precisa se conectar ao Jardim e executar o comando de autodestruição do servidor. Ele vai matar a si mesmo e a toda a nova vida da cidade.
 
-Gabo olhou para o diário em suas mãos.
+A dor latejante nos ligamentos arruinados era a única coisa que mantinha sua sanidade intacta. Gabo olhou para o diário em suas mãos.
 
 — Salvar a cidade ou salvar a menina. De novo.
 
