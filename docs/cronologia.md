@@ -128,8 +128,8 @@ A era da reconstrução autoritária.
 
 | Personagem | Status | Localização | Estado Físico/Mental |
 | :--- | :--- | :--- | :--- |
-| **Gabo** | Líder / Cinismo Hardboiled | Clínica de Vasco (Distrito 4) | Equipado com uma prótese industrial sucateada e dolorosa no braço direito. Utilizou a dor da cirurgia sem anestesia para afastar alucinações de fumaça. |
-| **Valéria** | Suporte Tático / Modo de Segurança | Clínica de Vasco (Distrito 4) | Sofreu um *hard reset* de energia. Operando puramente de forma mecânica e robótica, com protocolos emocionais desativados. |
+| **Gabo** | Líder / Cinismo Hardboiled | Clínica de Vasco (Distrito 4) | Extrema exaustão física e choque pós-operatório. Equipado com uma prótese industrial sucateada e dolorosa no braço direito. Utilizou a dor da cirurgia sem anestesia para afastar alucinações de fumaça. |
+| **Valéria** | Suporte Tático / Modo de Segurança | Clínica de Vasco (Distrito 4) | Sofreu um *hard reset* de energia. Operando puramente de forma mecânica e robótica, com protocolos emocionais desativados e sistemas instáveis. |
 | **Aria** | Destruída | Subnível 2.0 (Arquivo Executivo) | O núcleo de silício sobreaqueceu e derreteu irrevogavelmente após o ataque de "ruído emocional" (Bia) lançado na rede do Sentinel. A carcaça carbonizada foi deixada para trás, escorada na parede do corredor. |
 | **Rangel** | Falecido | Necrópole (Subnível 6.0 - Setor de Purga) | Corpo abandonado no Subnível 6.0. |
 | **Taxidermista**| Derrotado temporariamente / Parasítico | Desconhecido (Sistema Central) | Teve as extensões de sua "Grande Obra" dizimadas pela onda iônica e o controle ceifado no Subnível 3.0. Presume-se incapaz de permear a gaiola de Faraday impenetrável do Subnível 2.0. |
