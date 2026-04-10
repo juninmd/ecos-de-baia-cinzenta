@@ -7,7 +7,7 @@ image: /capitulo_94.jpg
 
 O comboio era patético e heroico.
 
-Na frente, Vilar e os remanescentes dos Puros abriam caminho com lança-chamas (a única arma eficaz contra o Jardim). No centro, Val empurrava uma maca hospitalar reforçada enquanto Gabo, arrastando o peso ruidoso de suas próteses de perna superaquecidas, ajudava a guiar o hospitalar reforçada. Sobre ela, não havia um paciente, mas o servidor negro do Código Morto, conectado a baterias portáteis.
+Na frente, Vilar e os remanescentes dos Puros abriam caminho com lança-chamas (a única arma eficaz contra o Jardim). No centro, Val empurrava uma maca hospitalar reforçada enquanto Gabo, arrastando o peso ruidoso de suas próteses de perna superaquecidas, ajudava a guiar a maca. Sobre ela, não havia um paciente, mas o servidor negro do Código Morto, conectado a baterias portáteis.
 
 Dra. Nise ficara para trás para cuidar dos feridos e manter as defesas do hospital.
 
