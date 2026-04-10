@@ -119,16 +119,17 @@ A era da reconstrução autoritária.
 *   **Capítulo 172 (O Peso da Chuva):** Gabo e Valéria finalmente deixam a Aeterna Corp e adentram as ruas arruinadas do Distrito Central sob uma chuva ácida e pesada. O cheiro da rua molhada engatilha fortes alucinações olfativas de cigarro e de seu pai em Gabo. Ele estilhaça a sanidade ilusória jogando brutalmente o próprio cotoco ferido contra a lataria enferrujada de um carro capotado, ancorando-se através da dor física excruciante. Eles decidem evitar o irmão de Gabo, Marco, optando por marchar em direção ao caótico Distrito 4 para buscar ajuda médica clandestina com Vasco.
 *   **Capítulo 173 (Fronteiras de Ferrugem):** A dupla chega aos limites do Distrito 4. A fuligem tóxica de fogueiras químicas desperta alucinações asfixiantes em Gabo, que combate o trauma da fumaça rasgando o cotoco cauterizado em um paralelepípedo na sarjeta. Sem a rede da cidade, Valéria apresenta falhas críticas em seus sistemas e sofre letargia emocional. O avanço é barrado por saqueadores analógicos, mas a evidente e assustadora insanidade (violência auto-infligida e olhar morto) de um mutilado Gabo quebra o moral inimigo sem disparar um único tiro. O caminho rumo a Vasco permanece aberto.
 *   **Capítulo 174 (O Açougueiro de Cobre):** Gabo e Valéria finalmente alcançam a clínica clandestina de Vasco no Distrito 4. O ambiente livre de fumaça (graças ao risco com os tanques de oxigênio) traz um leve e raro alívio psicológico para Gabo, afastando seus gatilhos. Vasco diagnostica falha crítica nos núcleos primários de Valéria, estabilizando-a na energia de emergência, e tenta tratar o severo choque hipovolêmico de Gabo. A dor excruciante do bisturi a laser, usado sem anestesia para cauterizar novamente o cotoco, age como âncora para manter a sanidade de Gabo diante do trauma.
+*   **Capítulo 175 (O Som das Engrenagens Mortas):** Na clínica clandestina, Vasco instala uma prótese industrial sucateada no coto de Gabo sem usar anestesia. Gabo abraça a dor excruciante dos pregos neurais perfurando sua carne como forma de afastar severas alucinações de tabaco ligadas ao pai. Após a cirurgia de Gabo, Valéria passa por um "hard reset" forçado pela energia instável, despertando em Modo de Segurança Operacional — estéril, robótica e desprovida de protocolos emocionais, cortando a última âncora humana que Gabo possuía.
 
 
 ---
 
-## 📍 Status Atual dos Personagens (Pós-Capítulo 174)
+## 📍 Status Atual dos Personagens (Pós-Capítulo 175)
 
 | Personagem | Status | Localização | Estado Físico/Mental |
 | :--- | :--- | :--- | :--- |
-| **Gabo** | Líder / Cinismo Hardboiled | Clínica de Vasco (Distrito 4) | Extrema exaustão física, choque hipovolêmico severo. Cotoco esfacelado intencionalmente para afastar alucinações. Sanidade mantida puramente por força de vontade intimidadora. |
-| **Valéria** | Suporte Tático / Esgotada Emocionalmente | Clínica de Vasco (Distrito 4) | Sistemas vitais apresentando falhas devido ao colapso da rede e chuva ácida. Letargia profunda pelo luto de Aria. Visor inativo. |
+| **Gabo** | Líder / Cinismo Hardboiled | Clínica de Vasco (Distrito 4) | Equipado com uma prótese industrial sucateada e dolorosa no braço direito. Utilizou a dor da cirurgia sem anestesia para afastar alucinações de fumaça. |
+| **Valéria** | Suporte Tático / Modo de Segurança | Clínica de Vasco (Distrito 4) | Sofreu um *hard reset* de energia. Operando puramente de forma mecânica e robótica, com protocolos emocionais desativados. |
 | **Aria** | Destruída | Subnível 2.0 (Arquivo Executivo) | O núcleo de silício sobreaqueceu e derreteu irrevogavelmente após o ataque de "ruído emocional" (Bia) lançado na rede do Sentinel. A carcaça carbonizada foi deixada para trás, escorada na parede do corredor. |
 | **Rangel** | Falecido | Necrópole (Subnível 6.0 - Setor de Purga) | Corpo abandonado no Subnível 6.0. |
 | **Taxidermista**| Derrotado temporariamente / Parasítico | Desconhecido (Sistema Central) | Teve as extensões de sua "Grande Obra" dizimadas pela onda iônica e o controle ceifado no Subnível 3.0. Presume-se incapaz de permear a gaiola de Faraday impenetrável do Subnível 2.0. |
