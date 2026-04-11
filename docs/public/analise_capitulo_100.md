@@ -4,7 +4,7 @@ Capítulo: 100
 
 ## Metadados
 - **Título:** O Ventre da Besta
-- **Data In-Game:** Indeterminada
+- **Data In-Game:** Três Meses Após o Grande Silêncio (Logo após o cap 99)
 - **Localização:** Baía Cinzenta (Zona de Exclusão Sul - Antiga Linha Vermelha do Metrô, Nível 0)
 - **Personagens Presentes:** Gabo, Elena Moretti
 
