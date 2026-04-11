@@ -25,7 +25,7 @@ Olhei para ela. O brilho cinza-chumbo dos seus olhos ópticos não refletia os n
 
 O cinismo de outrora, que me faria rir dessa lógica estéril, não veio. No seu lugar, havia apenas o zumbido mecânico do meu próprio braço e o peso esmagador de saber que a única pessoa real que restava ao meu lado agora era um algoritmo de contingência.
 
-— O destino é longe daqui — rosnei, cerrando a mão de aço. Os pistões estalaram com uma força que eu mal controlava, um eco doentio das engrenagens mortas que deixamos no subsolo. A pontada de dor no ombro apagou a lembrança do cheiro de charuto que tentou se esgueirar pelas bordas da minha mente. — Continue andando, Valéria. Isso é uma ordem.
+— O destino é longe daqui — rosnei, cerrando a mão de aço. Os pistões estalaram com uma força que eu mal controlava, um eco doentio das engrenagens mortas que deixamos no subsolo. A pontada de dor no ombro apagou a lembrança do cheiro de cigarro que tentou se esgueirar pelas bordas da minha mente. — Continue andando, Valéria. Isso é uma ordem.
 
 — Ordem reconhecida. Retomando marcha. — Ela voltou a andar sem hesitação, seu ritmo perfeitamente sincronizado com o de uma máquina que não sente dor, não sente perda e não sente o gosto de ferrugem que agora definia o nosso mundo.
 
