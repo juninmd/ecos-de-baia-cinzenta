@@ -105,7 +105,6 @@ def check_sequence(chapters: list[Chapter]) -> list[str]:
 
 
 def check_character_consistency(chapters: list[Chapter], aliases: dict[str, set[str]]) -> list[str]:
-    from concurrent.futures import ThreadPoolExecutor
     issues = []
 
     # Regra canônica: Gabo tem repulsa a cigarro/fumo.
@@ -118,8 +117,7 @@ def check_character_consistency(chapters: list[Chapter], aliases: dict[str, set[
             return None
         return ch.path.name
 
-    with ThreadPoolExecutor() as executor:
-        violators = list(filter(None, executor.map(check_violation, chapters)))
+    violators = list(filter(None, map(check_violation, chapters)))
 
     if violators:
         issues.append(f"Possível violação do traço de Gabo (fumo) em: {violators[:10]}")
@@ -132,10 +130,8 @@ def check_character_consistency(chapters: list[Chapter], aliases: dict[str, set[
         alias_set = aliases.get(canonical, fallback_aliases)
         pattern = re.compile(rf"\b(?:{'|'.join(map(re.escape, alias_set))})\b", re.IGNORECASE)
 
-        def check_mention(ch):
-            return 1 if pattern.search(ch.text) else 0
 
-        mentions = sum(map(check_mention, recent))
+        mentions = sum(1 for ch in recent if pattern.search(ch.text))
 
         if mentions <= 1:
             issues.append(f"Personagem central pouco presente nos 10 capítulos mais recentes: {canonical} ({mentions}/10)")
@@ -156,7 +152,7 @@ def bestseller_score(chapters: list[Chapter]) -> tuple[float, list[str]]:
         text = ch.text
         word_count = len(WORD_PATTERN.findall(text))
         token_count = sum(text.lower().count(tok) for tok in sensory_tokens)
-        results.append((word_count, token_count / max(word_count, 1), 1 if CLIFFHANGER_PATTERN.search(text) else 0))
+        results.append((word_count, token_count / max(word_count, 1), 1 if CLIFFHANGER_PATTERN.search(text, max(0, len(text) - 200)) else 0))
 
     word_counts = [r[0] for r in results]
     avg_words = mean(word_counts) if word_counts else 0

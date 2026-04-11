@@ -111,7 +111,7 @@ class CharacterDatabase:
             pattern_str = r'\b(' + '|'.join(map(re.escape, all_aliases)) + r')\b'
             self._compiled_pattern = re.compile(pattern_str)
 
-        matches = set(self._compiled_pattern.findall(text_lower))
+        matches = set(m.group() for m in self._compiled_pattern.finditer(text_lower))
 
         found_ids = set()
         for match in matches:
