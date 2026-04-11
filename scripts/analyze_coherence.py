@@ -152,7 +152,7 @@ def bestseller_score(chapters: list[Chapter]) -> tuple[float, list[str]]:
         text = ch.text
         word_count = len(WORD_PATTERN.findall(text))
         token_count = sum(text.lower().count(tok) for tok in sensory_tokens)
-        results.append((word_count, token_count / max(word_count, 1), 1 if CLIFFHANGER_PATTERN.search(text[-200:]) else 0))
+        results.append((word_count, token_count / max(word_count, 1), 1 if CLIFFHANGER_PATTERN.search(text, max(0, len(text) - 200)) else 0))
 
     word_counts = [r[0] for r in results]
     avg_words = mean(word_counts) if word_counts else 0
