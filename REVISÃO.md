@@ -72,15 +72,6 @@ Este arquivo mantém o controle de progresso sobre o processo de revisão, adequ
 
 ---
 
-## Lote 56: Capítulos 164 a 166
-- [x] **Capítulo 164: O Cofre de Concreto** - Revisor sem problemas de lore encontrados. Sem apelo ao fumo de Gabo; foco na alucinação sensorial (cheiro) combatida com a dor de seus tocos, perfeitamente alinhado. Arquivo de análise criado.
-- [x] **Capítulo 165: Fantasmas de Silício** - Revisor sem problemas de lore encontrados. Cheiro de cigarro e charuto do pai funciona como alucinação e ataque psicológico que ele ancora em realidade na dor pura. Arquivo de análise criado.
-- [x] **Capítulo 166: A Lógica da Fome** - Revisor sem problemas de lore encontrados. Protagonista não fuma e usa a dor autoinfligida para clarear a mente do cheiro alucinante. Transição impecável de biológico para puramente cibernético. Arquivo de análise criado.
-
----
-
-*Lotes futuros serão atualizados abaixo conforme a instrução.*
-
 ## Lote 11: Capítulos 31 a 33
 - [x] **Capítulo 31: Ruptura Total** - Revisor sem problemas de lore encontrados. Transição monumental para a queda da Torre e do Apagão sem desviar do estado do personagem. Arquivo de análise criado.
 - [x] **Capítulo 32: O Vazio do Silêncio** - Revisor sem problemas de lore encontrados. Abstinência sensorial abordada de forma brilhante no lore cibernético. Gabo foca na dor física da perna quebrada. Arquivo de análise criado.
@@ -196,3 +187,13 @@ Este arquivo mantém o controle de progresso sobre o processo de revisão, adequ
 - [x] **Capítulo 98: A Cidade Silenciosa** - Revisado. Corrigida violação grave de lore: removida a fumaça de cigarros baratos e o ato do personagem de prender a respiração, alterando para "cheiro de mofo e café amargo", preservando a fobia central e trauma de Gabo. A limitação física através das pernas mecânicas passivas (sem servos) foi bem estabelecida. Arquivo de análise atualizado.
 - [x] **Capítulo 99: O Despertar da Máquina** - Revisado. Menção acidental a "fumaça das velas" corrigida preventivamente para "penumbra das velas" visando isolar o gatilho. Resolução tática do combate manteve as limitações tecnológicas. Arquivo de análise atualizado.
 - [x] **Capítulo 100: O Ventre da Besta** - Revisado. Ajustada quebra de continuidade nas órteses de Gabo: a menção de "clique-clique metálico dos servos" foi corrigida para "clique-clique metálico das travas passivas" para se adequar às regras estabelecidas no Cap 98. Arquivo de análise atualizado.
+
+## Lote 34: Capítulos 101 a 103
+- [x] **Capítulo 101: Ressonância** - Revisado. Nenhuma menção a fumaça ou tabagismo. O foco se manteve perfeitamente na dor e peso físico das órteses durante as manobras evasivas de Gabo. Arquivo de análise criado.
+- [x] **Capítulo 102: Raízes Amargas** - Revisado. O termo fumaça não foi encontrado. As restrições cibernéticas de Gabo em combate com Roberto foram coerentes. Arquivo de análise criado.
+- [x] **Capítulo 103: A Convergência** - Revisado. Não foram encontrados gatilhos sobre cigarros. As consequências biológicas e físicas nos corpos modificados continuam consistentes com o lore geral. Arquivo de análise criado.
+
+## Lote 56: Capítulos 164 a 166
+- [x] **Capítulo 164: O Cofre de Concreto** - Revisor sem problemas de lore encontrados. Sem apelo ao fumo de Gabo; foco na alucinação sensorial (cheiro) combatida com a dor de seus tocos, perfeitamente alinhado. Arquivo de análise criado.
+- [x] **Capítulo 165: Fantasmas de Silício** - Revisor sem problemas de lore encontrados. Cheiro de cigarro e charuto do pai funciona como alucinação e ataque psicológico que ele ancora em realidade na dor pura. Arquivo de análise criado.
+- [x] **Capítulo 166: A Lógica da Fome** - Revisor sem problemas de lore encontrados. Protagonista não fuma e usa a dor autoinfligida para clarear a mente do cheiro alucinante. Transição impecável de biológico para puramente cibernético. Arquivo de análise criado.
