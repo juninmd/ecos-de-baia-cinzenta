@@ -131,6 +131,14 @@ def test_image_generator_uses_detected_local_api_when_env_missing(monkeypatch, t
         called.append(("post", url, timeout))
         return FakeResponse()
 
+    class FakeSession:
+        def get(self, url, timeout=None):
+            return fake_get(url, timeout)
+
+        def post(self, url, json=None, timeout=None):
+            return fake_post(url, json, timeout)
+
+    monkeypatch.setattr("requests.Session", FakeSession)
     monkeypatch.setattr("requests.get", fake_get)
     monkeypatch.setattr("requests.post", fake_post)
     monkeypatch.delenv("SD_API_URL", raising=False)

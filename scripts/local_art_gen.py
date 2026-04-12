@@ -52,11 +52,19 @@ class OllamaClient:
     def __init__(self, model="qwen3:8b"):
         self.model = model
         self.api_url = "http://localhost:11434/api/generate"
+        self.session = None
+
+    def _get_session(self):
+        if self.session is None:
+            import requests
+            self.session = requests.Session()
+        return self.session
 
     def check_connection(self, max_retries=3, retry_delay=2):
         try:
+            session = self._get_session()
             # Check if specified model exists, otherwise fallback to first available or qwen2.5:7b
-            resp = requests.get("http://localhost:11434/api/tags", timeout=5)
+            resp = session.get("http://localhost:11434/api/tags", timeout=5)
             if resp.status_code == 200:
                 models = [m["name"] for m in resp.json().get("models", [])]
                 if self.model not in models and models:
@@ -112,7 +120,8 @@ class OllamaClient:
         }
 
         try:
-            response = requests.post(self.api_url, json=payload, timeout=300)
+            session = self._get_session()
+            response = session.post(self.api_url, json=payload, timeout=300)
             response.raise_for_status()
             prompt = response.json().get("response", "").strip()
             # Remove thinking or preamble if present
@@ -138,6 +147,14 @@ class HuggingFaceAPIClient:
         self.token = os.environ.get("HF_TOKEN")
         if not self.token:
             print("⚠️ HF_TOKEN not found in environment. API calls will likely fail with 401 Unauthorized.")
+
+        self.session = None
+
+    def _get_session(self):
+        if self.session is None:
+            import requests
+            self.session = requests.Session()
+        return self.session
 
     def generate_art(self, prompt, output_path, image_path=None, strength=0.1, dry_run=False):
         if dry_run:
@@ -167,7 +184,8 @@ class HuggingFaceAPIClient:
             }
         
         try:
-            response = requests.post(
+            session = self._get_session()
+            response = session.post(
                 self.api_url, 
                 headers=headers, 
                 json=payload,

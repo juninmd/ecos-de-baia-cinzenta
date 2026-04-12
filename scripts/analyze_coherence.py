@@ -150,7 +150,7 @@ def bestseller_score(chapters: list[Chapter]) -> tuple[float, list[str]]:
     results = []
     for ch in recent:
         text = ch.text
-        word_count = len(WORD_PATTERN.findall(text))
+        word_count = sum(1 for _ in WORD_PATTERN.finditer(text))
         token_count = sum(text.lower().count(tok) for tok in sensory_tokens)
         results.append((word_count, token_count / max(word_count, 1), 1 if CLIFFHANGER_PATTERN.search(text, max(0, len(text) - 200)) else 0))
 

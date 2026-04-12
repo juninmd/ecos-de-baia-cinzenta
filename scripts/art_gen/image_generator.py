@@ -23,7 +23,14 @@ class ImageGenerator:
         )
 
         self.local_manager = LocalPipelineManager(model_family)
+        self.session = None
         self._configure_api_url()
+
+    def _get_session(self):
+        if self.session is None:
+            import requests
+            self.session = requests.Session()
+        return self.session
 
     def _configure_api_url(self):
         """Attempts to auto-detect a local SD API if no URL was explicitly provided."""
@@ -35,8 +42,8 @@ class ImageGenerator:
 
     def _is_remote_available(self, base_url):
         try:
-            import requests
-            response = requests.get(f"{base_url}/sdapi/v1/options", timeout=2)
+            session = self._get_session()
+            response = session.get(f"{base_url}/sdapi/v1/options", timeout=2)
             return response.ok
         except Exception:
             return False
@@ -101,7 +108,8 @@ class ImageGenerator:
         payload = self._remote_payload(prompt)
 
         try:
-            resp = requests.post(
+            session = self._get_session()
+            resp = session.post(
                 f"{self.api_url}/sdapi/v1/txt2img",
                 json=payload,
                 timeout=self.remote_timeout,
