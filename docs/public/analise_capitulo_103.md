@@ -6,7 +6,7 @@ Capítulo: 103
 - **Título:** A Convergência
 - **Data In-Game:** Indeterminada
 - **Localização:** Zona de Exclusão Sul - O Núcleo do Berçário
-- **Personagens Presentes:** Gabo, Elena, Silas Vance, Roberto Miranda, Dante Moretti
+- **Personagens Presentes:** Gabo, Elena, Silas Vance, Roberto Miranda, Bio-Dante
 
 ## Autoavaliação Técnica
 - **Ritmo (Pacing) - 9/10:** Clímax tenso com sacrifícios e escolhas críticas.
