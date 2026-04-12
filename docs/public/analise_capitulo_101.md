@@ -22,6 +22,6 @@ Capítulo: 101
 - Transições de cenas poderiam ser mais fluídas em algumas partes.
 
 ## Sanity Check
-- **Gabo interagiu com algum fumante? Como sua repulsa foi demonstrada?** Nenhuma interação com fumo ou menções à fumaça. As órteses nas pernas (com sons de motores e esforço hidráulico) foram usadas consistentemente durante a movimentação, solidificando as restrições físicas de Gabo.
+- **Gabo interagiu com algum fumante? Como sua repulsa foi demonstrada?** Nenhuma interação com fumo ou menções à fumaça. As órteses nas pernas (com o som seco das travas passivas e esforço mecânico) foram usadas consistentemente durante a movimentação, solidificando as restrições físicas de Gabo.
 - **O plot twist invalida capítulos anteriores?** Não há contradições com a narrativa estabelecida; os eventos seguem a progressão linear do colapso e do Gênesis.
 - **Lore Atualizada:** Sim, os detalhes de ambientação e status dos personagens estão alinhados com o escopo geral da trama.
