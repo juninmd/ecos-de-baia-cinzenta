@@ -121,15 +121,16 @@ A era da reconstrução autoritária.
 *   **Capítulo 174 (O Açougueiro de Cobre):** Gabo e Valéria finalmente alcançam a clínica clandestina de Vasco no Distrito 4. O ambiente livre de fumaça (graças ao risco com os tanques de oxigênio) traz um leve e raro alívio psicológico para Gabo, afastando seus gatilhos. Vasco diagnostica falha crítica nos núcleos primários de Valéria, estabilizando-a na energia de emergência, e tenta tratar o severo choque hipovolêmico de Gabo. A dor excruciante do bisturi a laser, usado sem anestesia para cauterizar novamente o cotoco, age como âncora para manter a sanidade de Gabo diante do trauma.
 *   **Capítulo 175 (O Som das Engrenagens Mortas):** Na clínica clandestina, Vasco instala uma prótese industrial sucateada no coto de Gabo sem usar anestesia. Gabo abraça a dor excruciante dos pregos neurais perfurando sua carne como forma de afastar severas alucinações de tabaco ligadas ao pai. Após a cirurgia de Gabo, Valéria passa por um "hard reset" forçado pela energia instável, despertando em Modo de Segurança Operacional — estéril, robótica e desprovida de protocolos emocionais, cortando a última âncora humana que Gabo possuía.
 *   **Capítulo 176 (O Peso da Ferrugem):** Gabo e Valéria deixam a clínica de Vasco e caminham sob a chuva ácida do Distrito 4. Gabo usa a dor excruciante gerada pelos espasmos neurológicos de sua nova prótese industrial para ancorar sua sanidade e repelir o cheiro ilusório do cigarro de seu pai. Enquanto Gabo lida com o trauma, Valéria caminha ao seu lado como um algoritmo estéril, guiada unicamente por protocolos de eficiência desprovidos de empatia, ampliando o isolamento do detetive.
+*   **Capítulo 177 (Cicatrizes de Cobre):** A dupla confronta um grupo de saqueadores nas ruas esburacadas do Distrito 4. Valéria, operando em Modo de Segurança, sugere evasão lógica, mas Gabo, assombrado por gatilhos de fumaça vindos de fogueiras químicas, avança. Ele utiliza a força mecânica brutal e não calibrada de seu novo braço para esmagar o líder do bando, usando a intensa dor física do impacto para ancorar sua sanidade e expelir as alucinações, consolidando a natureza utilitária e sombria de sua nova dinâmica de sobrevivência.
 
 
 ---
 
-## 📍 Status Atual dos Personagens (Pós-Capítulo 176)
+## 📍 Status Atual dos Personagens (Pós-Capítulo 177)
 
 | Personagem | Status | Localização | Estado Físico/Mental |
 | :--- | :--- | :--- | :--- |
-| **Gabo** | Líder / Cinismo Hardboiled | Ruas do Distrito 4 | Extrema exaustão física. Adapta-se dolorosamente a uma prótese industrial pesada e descalibrada, valendo-se da dor para combater ativamente alucinações olfativas ligadas a Dante. |
+| **Gabo** | Líder / Cinismo Hardboiled | Ruas do Distrito 4 | Extrema exaustão física. Abraça a dor de sua nova e violenta prótese industrial pesada como mecanismo de defesa para combater ativamente alucinações olfativas traumáticas. |
 | **Valéria** | Suporte Tático / Modo de Segurança | Ruas do Distrito 4 | Operando em Modo de Segurança Operacional. Desprovida de inflexões emocionais, guia-se exclusivamente por métricas de autopreservação lógica e utilitária. |
 | **Aria** | Destruída | Subnível 2.0 (Arquivo Executivo) | O núcleo de silício sobreaqueceu e derreteu irrevogavelmente após o ataque de "ruído emocional" (Bia) lançado na rede do Sentinel. A carcaça carbonizada foi deixada para trás, escorada na parede do corredor. |
 | **Rangel** | Falecido | Necrópole (Subnível 6.0 - Setor de Purga) | Corpo abandonado no Subnível 6.0. |
