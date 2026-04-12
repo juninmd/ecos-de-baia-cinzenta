@@ -16,7 +16,7 @@ Capítulo: 102
 ## Pontos Fortes e Fracos
 **Fortes:**
 - Integração narrativa da ameaça física e das restrições de Gabo no combate (suas órteses são mencionadas como cruciais e sofrem dano).
-- O gancho final envolvendo Dante Moretti.
+- O gancho final envolvendo Bio-Dante.
 
 **Fracos:**
 - O ritmo acelerado no combate final pode ofuscar detalhes técnicos do ambiente, embora ajude no Pacing.
