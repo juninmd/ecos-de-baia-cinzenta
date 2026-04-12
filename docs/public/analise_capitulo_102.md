@@ -3,25 +3,25 @@ Capítulo: 102
 ---
 
 ## Metadados
-- **Título:** Desconhecido
+- **Título:** Raízes Amargas
 - **Data In-Game:** Indeterminada
-- **Localização:** Baía Cinzenta
-- **Personagens Presentes:** Gabo, Valéria
+- **Localização:** Zona de Exclusão Sul - Sala de Controle do "Berçário"
+- **Personagens Presentes:** Gabo, Elena, Roberto Miranda
 
 ## Autoavaliação Técnica
-- **Ritmo (Pacing) - 8/10:** O ritmo flui bem, mantendo a tensão noir apropriada.
-- **Diálogos - 8.5/10:** Os diálogos mantêm o cinismo e o peso das ações passadas.
-- **Atmosfera - 9/10:** A descrição detalhada do ambiente corrompido e cibernético sustenta a estética Cyberpunk Noir.
+- **Ritmo (Pacing) - 8.5/10:** Excelente progressão com tensão constante.
+- **Diálogos - 9/10:** O cinismo corrompido de Roberto como oponente cibernético/biológico e a revelação final sobre Dante elevam a tensão.
+- **Atmosfera - 9/10:** Grotesca e fiel ao tema biopunk de horror cibernético.
 
 ## Pontos Fortes e Fracos
 **Fortes:**
-- Expansão sólida do lore de Baía Cinzenta.
-- Reforço do estado psicológico de Gabo frente aos desafios.
+- Integração narrativa da ameaça física e das restrições de Gabo no combate (suas órteses são mencionadas como cruciais e sofrem dano).
+- O gancho final envolvendo Dante Moretti.
 
 **Fracos:**
-- Transições de cenas poderiam ser mais fluídas em algumas partes.
+- O ritmo acelerado no combate final pode ofuscar detalhes técnicos do ambiente, embora ajude no Pacing.
 
 ## Sanity Check
-- **Gabo interagiu com algum fumante? Como sua repulsa foi demonstrada?** Gabo mantém sua repulsa firme; qualquer indício de fumaça gera desconforto engatilhado por seu trauma, o qual ele combate focando na dor física ou no cinismo.
-- **O plot twist invalida capítulos anteriores?** Não há contradições com a narrativa estabelecida; os eventos seguem a progressão linear do colapso.
-- **Lore Atualizada:** Sim, os detalhes de ambientação e status dos personagens estão alinhados com o escopo geral da trama.
+- **Gabo interagiu com algum fumante? Como sua repulsa foi demonstrada?** O termo "fumaça" não aparece no capítulo. Nenhuma interação com tabagismo. A dor e limite físico das próteses de perna são o foco das sensações corporais do protagonista.
+- **O plot twist invalida capítulos anteriores?** A revelação de que a assinatura é de Dante e do projeto para trazê-lo de volta preenche lacunas coerentemente.
+- **Lore Atualizada:** Sim. Consistente com a trama do Gênesis.
