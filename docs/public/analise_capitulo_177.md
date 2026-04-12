@@ -21,8 +21,8 @@
 ## Sanity Check
 
 *   **Gabo interagiu com algum fumante? Como sua repulsa foi demonstrada?**
-    *   Não interagiu diretamente com um fumante, mas o cheiro das fogueiras químicas desencadeou gatilhos do seu trauma olfativo (o cheiro de tabaco associado ao pai, Dante). Sua repulsa foi demonstrada ao abraçar a dor extrema, disparando os pistões da prótese em si mesmo para que a agonia física sobrepujasse a alucinação de fumaça.
+    *   Não interagiu diretamente com um fumante, mas o cheiro das fogueiras químicas desencadeou gatilhos do seu trauma olfativo (o cheiro de tabaco associado ao pai, Dante). Sua repulsa foi demonstrada ao buscar a dor extrema, ativando os pistões da prótese para que a agonia nos nervos mutilados sobrepujasse a alucinação de fumaça.
 *   **O plot twist deste capítulo invalida algo estabelecido nos capítulos anteriores?**
     *   Não. O capítulo é uma consequência direta do 176, mantendo o status de Valéria no Modo de Segurança e a recente cirurgia não anestesiada de Gabo.
 *   **O resumo da lore foi atualizado com os novos eventos?**
-    *   Ainda não (será feito na `cronologia.md`). Os eventos confirmam que Gabo agora depende de táticas de intimidação de força bruta letal e que a aliança entre ele e Valéria tornou-se puramente utilitária da perspectiva dela.
+    *   Sim, a cronologia.md foi devidamente atualizada com os eventos deste capítulo.
