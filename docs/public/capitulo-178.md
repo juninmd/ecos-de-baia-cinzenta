@@ -7,7 +7,7 @@ Personagens Presentes: Gabo, Valéria
 
 # Capítulo 178: O Som do Subterrâneo
 
-A tempestade ácida não dava trégua. O céu do Distrito 4 parecia um ferida aberta, vertendo um choro químico que corroía até as esperanças mais parcas. Cada gota que atingia as juntas expostas da minha nova prótese sibilava como uma ameaça. A cidade, aquela puta insaciável, nunca nos deixava esquecer quem estava no comando.
+A tempestade ácida não dava trégua. O céu do Distrito 4 parecia uma ferida aberta, vertendo um choro químico que corroía até as esperanças mais parcas. Cada gota que atingia as juntas expostas da minha nova prótese sibilava como uma ameaça. A cidade, aquela puta insaciável, nunca nos deixava esquecer quem estava no comando.
 
 O abrigo que encontramos foi uma bênção profana: uma estação de metrô abandonada, engolida pelo esquecimento. A escadaria escorregadia nos levou para a escuridão úmida, onde o som da chuva foi substituído pelo gotejar constante do teto rachado.
 
