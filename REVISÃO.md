@@ -197,3 +197,18 @@ Este arquivo mantém o controle de progresso sobre o processo de revisão, adequ
 - [x] **Capítulo 164: O Cofre de Concreto** - Revisor sem problemas de lore encontrados. Sem apelo ao fumo de Gabo; foco na alucinação sensorial (cheiro) combatida com a dor de seus tocos, perfeitamente alinhado. Arquivo de análise criado.
 - [x] **Capítulo 165: Fantasmas de Silício** - Revisor sem problemas de lore encontrados. Cheiro de cigarro e charuto do pai funciona como alucinação e ataque psicológico que ele ancora em realidade na dor pura. Arquivo de análise criado.
 - [x] **Capítulo 166: A Lógica da Fome** - Revisor sem problemas de lore encontrados. Protagonista não fuma e usa a dor autoinfligida para clarear a mente do cheiro alucinante. Transição impecável de biológico para puramente cibernético. Arquivo de análise criado.
+
+## Lote 35: Capítulos 104 a 106
+- [x] **Capítulo 104: O Preço da Alvorada** - Revisado. Substituído o termo "fumaça" (barreira de fumaça) por "poluição" para não violar a blindagem da fobia de Gabo. A impotência dele com as órteses quebras e a atmosfera tecnológica opressora de Dante estão muito coesas. Arquivo de análise criado.
+- [x] **Capítulo 105** - Revisado. Removida menção de "charuto" no texto para eliminar vícios de tabagismo na cena e evitar indiretamente o trauma de Gabo. Ação e restrições físicas são mantidas. Arquivo de análise criado.
+- [x] **Capítulo 106** - Revisado. O texto não apresenta gatilhos (fumaça/cigarros). O peso e o desgaste das pernas mecânicas funcionam como limitadores do protagonista. Arquivo de análise criado.
+
+## Lote 36: Capítulos 107 a 109
+- [x] **Capítulo 107** - Revisado. Nenhuma menção a gatilhos de fumaça para Gabo. O capítulo mantém as descrições da tensão mecânica/cibernética. Arquivo de análise criado.
+- [x] **Capítulo 108** - Revisado. O arquivo não contém infrações de lore relacionadas a tabagismo ou integridade de locomoção. Arquivo de análise criado.
+- [x] **Capítulo 109: Frequência Fantasma** - Revisado. A expressão "engasgando fumaça preta" relacionada ao blindado foi alterada para "engasgando fuligem escura" para manter o bloqueio total contra gatilhos psicológicos do protagonista. O desgaste das órteses de perna de Gabo foi adequadamente pontuado. Arquivo de análise criado.
+
+## Lote 37: Capítulos 110 a 112
+- [x] **Capítulo 110** - Revisado. Nenhuma menção a gatilhos de fumaça para Gabo. Lore consistente. Arquivo de análise criado.
+- [x] **Capítulo 111** - Revisado. Sem infrações de lore identificadas. Arquivo de análise criado.
+- [x] **Capítulo 112: O Peso da Memória** - Revisado. Mantém as restrições físicas do protagonista (perna travou, andou mancando) e não apresenta linguagem relacionada a tabagismo. Arquivo de análise criado.
