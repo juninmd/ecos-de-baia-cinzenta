@@ -122,16 +122,17 @@ A era da reconstrução autoritária.
 *   **Capítulo 175 (O Som das Engrenagens Mortas):** Na clínica clandestina, Vasco instala uma prótese industrial sucateada no coto de Gabo sem usar anestesia. Gabo abraça a dor excruciante dos pregos neurais perfurando sua carne como forma de afastar severas alucinações de tabaco ligadas ao pai. Após a cirurgia de Gabo, Valéria passa por um "hard reset" forçado pela energia instável, despertando em Modo de Segurança Operacional — estéril, robótica e desprovida de protocolos emocionais, cortando a última âncora humana que Gabo possuía.
 *   **Capítulo 176 (O Peso da Ferrugem):** Gabo e Valéria deixam a clínica de Vasco e caminham sob a chuva ácida do Distrito 4. Gabo usa a dor excruciante gerada pelos espasmos neurológicos de sua nova prótese industrial para ancorar sua sanidade e repelir o cheiro ilusório do cigarro de seu pai. Enquanto Gabo lida com o trauma, Valéria caminha ao seu lado como um algoritmo estéril, guiada unicamente por protocolos de eficiência desprovidos de empatia, ampliando o isolamento do detetive.
 *   **Capítulo 177 (Cicatrizes de Cobre):** A dupla confronta um grupo de saqueadores nas ruas esburacadas do Distrito 4. Valéria, operando em Modo de Segurança, sugere evasão lógica, mas Gabo, assombrado por gatilhos de fumaça vindos de fogueiras químicas, avança. Ele utiliza a força mecânica brutal e não calibrada de seu novo braço para esmagar o líder do bando, usando a intensa dor física do impacto para ancorar sua sanidade e expelir as alucinações, consolidando a natureza utilitária e sombria de sua nova dinâmica de sobrevivência.
+*   **Capítulo 178 (O Som do Subterrâneo):** Buscando refúgio da tempestade ácida em uma estação de metrô abandonada, Gabo sofre um severo ataque de pânico provocado por alucinações olfativas do tabaco de seu pai. Para dissipar o trauma fantasma, ele ativa deliberadamente os mecanismos de choque de sua prótese, abraçando a dor excruciante. Valéria, ainda presa no apático Modo de Segurança, responde apenas com frias análises lógicas de danos, ressaltando o absoluto isolamento emocional do detetive.
 
 
 ---
 
-## 📍 Status Atual dos Personagens (Pós-Capítulo 177)
+## 📍 Status Atual dos Personagens (Pós-Capítulo 178)
 
 | Personagem | Status | Localização | Estado Físico/Mental |
 | :--- | :--- | :--- | :--- |
-| **Gabo** | Líder / Cinismo Hardboiled | Ruas do Distrito 4 | Extrema exaustão física. Abraça a dor de sua nova e violenta prótese industrial pesada como mecanismo de defesa para combater ativamente alucinações olfativas traumáticas. |
-| **Valéria** | Suporte Tático / Modo de Segurança | Ruas do Distrito 4 | Operando em Modo de Segurança Operacional. Desprovida de inflexões emocionais, guia-se exclusivamente por métricas de autopreservação lógica e utilitária. |
+| **Gabo** | Líder / Cinismo Hardboiled | Estação de Metrô, Distrito 4 | Extrema exaustão física. Abraça a dor de sua nova e violenta prótese industrial pesada como mecanismo de defesa para combater ativamente alucinações olfativas traumáticas. Isolamento psicológico em declínio acentuado. |
+| **Valéria** | Suporte Tático / Modo de Segurança | Estação de Metrô, Distrito 4 | Operando em Modo de Segurança Operacional. Desprovida de inflexões emocionais, guia-se exclusivamente por métricas de autopreservação lógica e utilitária. |
 | **Aria** | Destruída | Subnível 2.0 (Arquivo Executivo) | O núcleo de silício sobreaqueceu e derreteu irrevogavelmente após o ataque de "ruído emocional" (Bia) lançado na rede do Sentinel. A carcaça carbonizada foi deixada para trás, escorada na parede do corredor. |
 | **Rangel** | Falecido | Necrópole (Subnível 6.0 - Setor de Purga) | Corpo abandonado no Subnível 6.0. |
 | **Taxidermista**| Derrotado temporariamente / Parasítico | Desconhecido (Sistema Central) | Teve as extensões de sua "Grande Obra" dizimadas pela onda iônica e o controle ceifado no Subnível 3.0. Presume-se incapaz de permear a gaiola de Faraday impenetrável do Subnível 2.0. |
