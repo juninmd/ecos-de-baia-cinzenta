@@ -62,7 +62,7 @@ jobs:
         run: |
           python scripts/local_art_gen.py ${{ steps.info.outputs.chapter }} \
             --style "${{ inputs.style || 'cyberpunk, noir' }}" \
-            --model-family flux2-dev \
+            --model-family flux1-dev \
             --steps 28
 
       - name: Upload Artifact
