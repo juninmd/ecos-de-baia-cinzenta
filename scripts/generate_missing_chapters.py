@@ -9,13 +9,10 @@ def parse_cronologia(filepath):
         content = f.read()
 
     # Match patterns like: *   **Capítulo 141 (Raízes Amargas):** No Subnível 7, o grupo se recupera...
-    matches = re.finditer(r'\*\s+\*\*Capítulo\s+(\d+)\s+\((.*?)\):\*\*\s+(.*?)(?=\n\*|\n---|\Z)', content, re.DOTALL)
-    for match in matches:
-        ch_num = int(match.group(1))
-        title = match.group(2).strip()
-        summary = match.group(3).strip()
-        events[ch_num] = {"title": title, "summary": summary}
-    return events
+    return {
+        int(match.group(1)): {"title": match.group(2).strip(), "summary": match.group(3).strip()}
+        for match in re.finditer(r'\*\s+\*\*Capítulo\s+(\d+)\s+\((.*?)\):\*\*\s+(.*?)(?=\n\*|\n---|\Z)', content, re.DOTALL)
+    }
 
 def generate_chapter(ch_num, cronologia_data):
     title = f"Capítulo {ch_num}"
