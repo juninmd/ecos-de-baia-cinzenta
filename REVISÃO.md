@@ -212,3 +212,9 @@ Este arquivo mantém o controle de progresso sobre o processo de revisão, adequ
 - [x] **Capítulo 110** - Revisado. Nenhuma menção a gatilhos de fumaça para Gabo. Lore consistente. Arquivo de análise criado.
 - [x] **Capítulo 111** - Revisado. Sem infrações de lore identificadas. Arquivo de análise criado.
 - [x] **Capítulo 112: O Peso da Memória** - Revisado. Mantém as restrições físicas do protagonista (perna travou, andou mancando) e não apresenta linguagem relacionada a tabagismo. Arquivo de análise criado.
+
+## Lote 38: Capítulos 113 a 116
+- [x] **Capítulo 113: Carga Viva** - Revisado. Nenhuma menção a gatilhos de fumaça. As pernas mecânicas e a condição física de Gabo foram mantidas. Arquivo de análise criado.
+- [x] **Capítulo 114: A Linha de Montagem** - Revisado. Nenhuma violação de lore identificada. Arquivo de análise criado.
+- [x] **Capítulo 115: O Arquiteto da Carne** - Revisado. Quebra de lore grave corrigida: A intenção de Gabo fumar foi substituída por uma alucinação de fumaça sufocante que ele expulsa causando a si próprio dor física lancinante. Arquivo de análise criado.
+- [x] **Capítulo 116: Pressão Crítica** - Revisado. Quebra de lore grave corrigida: O desejo de fumar de Gabo foi substituído por alucinação olfativa de fumaça sufocante que ele quebra infligindo a si próprio grave dor física na palma da mão e na perna machucada. Arquivo de análise criado.
