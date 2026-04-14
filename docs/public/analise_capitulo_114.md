@@ -19,7 +19,7 @@
 ## Sanity Check (Lore & Coerência)
 - **Aversão a Fumaça/Cigarro:** OK. Nenhuma menção a fumar.
 - **Condição Física:** A perna de Gabo é devidamente citada ("mancando em direção à escuridão").
-- **Evolução da Trama:** O prenúncio do Taxidermista e a mudança da rede para uma arquitetura antiga de Krell/Taxidermista preparam bem o terreno para o núcleo de resfriamento.
+- **Evolução da Trama:** O prenúncio do Taxidermista e a mudança da rede para uma arquitetura antiga de Kael/Taxidermista preparam bem o terreno para o núcleo de resfriamento.
 
 ## Conclusão
 O capítulo serve como uma excelente transição entre a viagem angustiante e a exploração tática da instalação inimiga. Nenhuma alteração foi necessária.
