@@ -7,7 +7,7 @@ Personagens Presentes: Gabo, Valéria
 
 # Capítulo 179: Ecos de Aço e Ferrugem
 
-A dor é um metronômio. Um tique-taque elétrico e sujo que conta os segundos da minha sobrevivência. Cada leve movimento do meu braço direito enviava estilhaços de agonia através dos pregos neurais implantados por Vasco. Era uma sinfonia de tortura mecânica. E, paradoxalmente, minha única salvação.
+A dor é um metrônomo. Um tique-taque elétrico e sujo que conta os segundos da minha sobrevivência. Cada leve movimento do meu braço direito enviava estilhaços de agonia através dos pregos neurais implantados por Vasco. Era uma sinfonia de tortura mecânica. E, paradoxalmente, minha única salvação.
 
 O silêncio na estação de metrô arruinada era absoluto, quebrado apenas pelo gotejar do teto e pelos zumbidos intermitentes dos servos de Valéria. Eu me forcei a levantar, raspando as costas na parede de azulejos cobertos de lodo. As sombras pareciam vivas, dançando nas poças de água ácida acumulada nos trilhos mortos.
 
