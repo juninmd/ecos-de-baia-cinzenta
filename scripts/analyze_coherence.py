@@ -47,6 +47,13 @@ def chapter_number(path: Path) -> float:
     return float(match.group(1))
 
 
+def chapter_number(path: Path) -> float:
+    match = CHAPTER_RE.search(path.name)
+    if not match:
+        raise ValueError(f"Nome de capítulo inválido: {path}")
+    return float(match.group(1))
+
+
 def load_chapters() -> list[Chapter]:
     chapters = []
     for file in DOCS_DIR.glob("capitulo-*.md"):
@@ -126,11 +133,12 @@ def check_character_consistency(chapters: list[Chapter], aliases: dict[str, set[
     recent = chapters[-10:]
 
     # Cache compiled regex per canonical alias string during evaluation
+    compiled_patterns = {}
     for canonical, fallback_aliases in CENTRAL_ALIASES.items():
         alias_set = aliases.get(canonical, fallback_aliases)
-        pattern = re.compile(rf"\b(?:{'|'.join(map(re.escape, alias_set))})\b", re.IGNORECASE)
+        compiled_patterns[canonical] = re.compile(rf"\b(?:{'|'.join(map(re.escape, alias_set))})\b", re.IGNORECASE)
 
-
+    for canonical, pattern in compiled_patterns.items():
         mentions = sum(1 for ch in recent if pattern.search(ch.text))
 
         if mentions <= 1:
