@@ -199,7 +199,7 @@ Este arquivo mantém o controle de progresso sobre o processo de revisão, adequ
 - [x] **Capítulo 166: A Lógica da Fome** - Revisor sem problemas de lore encontrados. Protagonista não fuma e usa a dor autoinfligida para clarear a mente do cheiro alucinante. Transição impecável de biológico para puramente cibernético. Arquivo de análise criado.
 
 ## Lote 35: Capítulos 104 a 106
-- [x] **Capítulo 104: O Preço da Alvorada** - Revisado. Substituído o termo "fumaça" (barreira de fumaça) por "poluição" para não violar a blindagem da fobia de Gabo. A impotência dele com as órteses quebras e a atmosfera tecnológica opressora de Dante estão muito coesas. Arquivo de análise criado.
+- [x] **Capítulo 104: O Preço da Alvorada** - Revisado. Substituído o termo "fumaça" (barreira de fumaça) por "poluição" para não violar a blindagem da fobia de Gabo. A impotência dele com as órteses quebradas e a atmosfera tecnológica opressora de Dante estão muito coesas. Arquivo de análise criado.
 - [x] **Capítulo 105** - Revisado. Removida menção de "charuto" no texto para eliminar vícios de tabagismo na cena e evitar indiretamente o trauma de Gabo. Ação e restrições físicas são mantidas. Arquivo de análise criado.
 - [x] **Capítulo 106** - Revisado. O texto não apresenta gatilhos (fumaça/cigarros). O peso e o desgaste das pernas mecânicas funcionam como limitadores do protagonista. Arquivo de análise criado.
 
