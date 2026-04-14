@@ -1,8 +1,8 @@
-# Análise do Capítulo 105: O Peso da Coroa de Fios
+# Análise do Capítulo 105: O Silêncio de Concreto
 
 ## Metadados
 - **Capítulo:** 105
-- **Título:** O Peso da Coroa de Fios (Nome inferido/genérico)
+- **Título:** O Silêncio de Concreto
 - **Data da Revisão:** Atual
 
 ## Auto-avaliação Técnica
