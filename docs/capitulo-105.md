@@ -57,7 +57,7 @@ O silêncio se espalhou pelo salão como uma onda de choque.
 
 Começou na porta e foi avançando até o fundo, conforme as cabeças se viravam. As conversas morreram. O tec-tec-tec da máquina de escrever de Rangel cessou abruptamente.
 
-Vilar se virou. O charuto caiu de sua boca.
+Vilar se virou. O rádio caiu de sua mão.
 
 — Deus do céu... — murmurou o Capitão.
 

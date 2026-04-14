@@ -6,7 +6,11 @@ import sys
 import time
 from pathlib import Path
 
-from dotenv import load_dotenv
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    pass
 
 # Add root project dir to pythonpath to allow relative imports from scripts
 root_dir = Path(__file__).resolve().parent.parent
@@ -17,7 +21,7 @@ from scripts.art_gen.chapter_context import ChapterContext
 from scripts.art_gen.utils import parse_chapter_selection
 from scripts.art_gen.batch import run_chapter_batch_processing, build_common_argparser
 
-load_dotenv()
+
 
 MODEL_ALTERNATIVES = {
     "sdxl-novita": {

@@ -29,7 +29,7 @@ Antes que Rangel pudesse processar a loucura daquela frase, uma parede de metal 
 
 Um contêiner azul foi arremessado para o lado como se fosse feito de papelão. Através da poeira e da chuva, uma besta de metal negro surgiu.
 
-O blindado de controle de distúrbio — o "Rinoceronte" — rugiu, seu motor a diesel engasgando fumaça preta. A lataria estava amassada, marcas de garras e tiros decoravam a pintura fosca, e o farol direito estava pendurado por um fio.
+O blindado de controle de distúrbio — o "Rinoceronte" — rugiu, seu motor a diesel engasgando fuligem escura. A lataria estava amassada, marcas de garras e tiros decoravam a pintura fosca, e o farol direito estava pendurado por um fio.
 
 A porta lateral se abriu com um chute mecânico.
 
