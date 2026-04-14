@@ -13,7 +13,7 @@
 - **Atmosfera:** 10/10 - O horror do caminhão de corpos funciona perfeitamente para estabelecer o canibalismo industrializado da "Nova Alvorada".
 
 ## Pontos Fortes & Fracos
-- **Fortes:** A cena de tensão no compactador (prensa) e a reflexão sobre o descaso da Aetherna com os corpos. O desenvolvimento macabro do lore da cidade.
+- **Fortes:** A cena de tensão no compactador (prensa) e a reflexão sobre o descaso da Aeterna com os corpos. O desenvolvimento macabro do lore da cidade.
 - **Fracos:** Leve repetição do termo "canibalismo industrializado" nas descrições internas.
 
 ## Sanity Check (Lore & Coerência)
