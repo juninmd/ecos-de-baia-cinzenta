@@ -1,27 +1,25 @@
----
-Capítulo: 113
----
+# Análise Crítica - Capítulo 113: Carga Viva
 
 ## Metadados
-- **Título:** Desconhecido
-- **Data In-Game:** Indeterminada
-- **Localização:** Baía Cinzenta
-- **Personagens Presentes:** Gabo, Valéria
+- **Capítulo:** 113
+- **Título:** Carga Viva
+- **Personagens Principais:** Gabo, Valéria, Aria, Rangel
+- **Localização:** Caminhão de lixo / Usina Geotérmica Prometeu
+- **Status:** Revisado (Sem quebras de lore identificadas)
 
-## Autoavaliação Técnica
-- **Ritmo (Pacing) - 8/10:** O ritmo flui bem, mantendo a tensão noir apropriada.
-- **Diálogos - 8.5/10:** Os diálogos mantêm o cinismo e o peso das ações passadas.
-- **Atmosfera - 9/10:** A descrição detalhada do ambiente corrompido e cibernético sustenta a estética Cyberpunk Noir.
+## Avaliação Técnica (1-10)
+- **Ritmo (Pacing):** 9/10 - Rápido, tenso e claustrofóbico.
+- **Diálogos:** 8/10 - Urgentes e diretos, evidenciam a pressão psicológica.
+- **Atmosfera:** 10/10 - O horror do caminhão de corpos funciona perfeitamente para estabelecer o canibalismo industrializado da "Nova Alvorada".
 
-## Pontos Fortes e Fracos
-**Fortes:**
-- Expansão sólida do lore de Baía Cinzenta.
-- Reforço do estado psicológico de Gabo frente aos desafios.
+## Pontos Fortes & Fracos
+- **Fortes:** A cena de tensão no compactador (prensa) e a reflexão sobre o descaso da Aetherna com os corpos. O desenvolvimento macabro do lore da cidade.
+- **Fracos:** Leve repetição do termo "canibalismo industrializado" nas descrições internas.
 
-**Fracos:**
-- Transições de cenas poderiam ser mais fluídas em algumas partes.
+## Sanity Check (Lore & Coerência)
+- **Aversão a Fumaça/Cigarro:** OK. Gabo não tem vontade de fumar; a ênfase é na dor de sua perna ruim e no cheiro insuportável de morte/amônia.
+- **Condição Física:** As pernas mecânicas de Gabo latejam em sincronia com o motor, coerente com seu desgaste e ferimentos.
+- **Evolução da Trama:** O sacrifício dos viciados de Baía Cinzenta sendo transformados em combustível cimenta Dante e Moretti como tiranos cruéis e desumanos.
 
-## Sanity Check
-- **Gabo interagiu com algum fumante? Como sua repulsa foi demonstrada?** Gabo mantém sua repulsa firme; qualquer indício de fumaça gera desconforto engatilhado por seu trauma, o qual ele combate focando na dor física ou no cinismo.
-- **O plot twist invalida capítulos anteriores?** Não há contradições com a narrativa estabelecida; os eventos seguem a progressão linear do colapso.
-- **Lore Atualizada:** Sim, os detalhes de ambientação e status dos personagens estão alinhados com o escopo geral da trama.
+## Conclusão
+Capítulo sólido. Estabelece muito bem o horror distópico sem descaracterizar os personagens. Nenhuma alteração estrutural foi necessária.

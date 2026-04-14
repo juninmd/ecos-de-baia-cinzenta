@@ -9,9 +9,9 @@ Gabo limpou o suor que escorria para dentro dos olhos com as costas da mão suja
 
 — A assinatura térmica está aumentando — a voz de Aria cortou o zumbido. Ela caminhava à frente, o manto térmico oscilando com o vento quente que subia das fossas de magma abaixo.
 
-Gabo olhou para ela. Por um segundo, a iluminação âmbar de emergência bateu no rosto de Aria, e ele viu Bia. A mesma linha do maxilar, o mesmo jeito de inclinar a cabeça quando estava concentrada. Ele sentiu o familiar gosto de bile na garganta. Sua mão foi instintivamente para o bolso do sobretudo, buscando o maço de cigarros que não existia.
+Gabo olhou para ela. Por um segundo, a iluminação âmbar de emergência bateu no rosto de Aria, e ele viu Bia. A mesma linha do maxilar, o mesmo jeito de inclinar a cabeça quando estava concentrada. Ele sentiu o familiar gosto de bile na garganta, seguido pelo delírio asfixiante e onipresente da fumaça invadindo seus pulmões. O trauma se manifestava no calor opressivo.
 
-*Não*, ele lembrou a si mesmo, seus dedos encontrando o metal frio do Colar de Sol de sua mãe. *O fumo é cinza. Eu sou fogo.* Ele apertou o pingente até a borda de metal morder a palma da mão. A dor era melhor. A dor era limpa.
+*Não*, ele lembrou a si mesmo, buscando a dor como âncora. Ele desceu a mão, forçando um toque violento contra o encaixe cru da sucata metálica em sua perna direita. A dor lancinante da carne ao redor do metal irradiou pelo corpo, quebrando a alucinação e devolvendo-o à realidade. A dor era melhor. A dor era limpa.
 
 — Val — Gabo grunhiu, forçando os olhos a se desviarem do fantasma de sua ex-namorada morta. — Quanto falta para o núcleo de resfriamento?
 
