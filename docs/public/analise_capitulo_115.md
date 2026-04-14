@@ -17,7 +17,7 @@
 - **Fracos:** Houve um erro de continuidade e lore relacionado ao tabagismo.
 
 ## Sanity Check (Lore & Coerência)
-- **Aversão a Fumaça/Cigarro:** **MODIFICADO**. Havia uma menção de que Gabo buscava instintivamente o maço de cigarros no bolso, o que viola frontalmente seu severo trauma fóbico com a fumaça de cigarro, ligado a seu pai. O texto foi corrigido: agora, Gabo tem uma forte alucinação (trauma fantasma) de fumaça sufocante no calor infernal e a combate infligindo dor física (apertando o pingente e batendo na própria perna ruim) como forma de se reconectar à realidade.
+- **Aversão a Fumaça/Cigarro:** **MODIFICADO**. Havia uma menção de que Gabo buscava instintivamente o maço de cigarros no bolso, o que viola frontalmente seu severo trauma fóbico com a fumaça de cigarro, ligado a seu pai. O texto foi corrigido: agora, Gabo tem uma forte alucinação (trauma fantasma) de fumaça sufocante no calor infernal e a combate infligindo dor física (batendo na própria perna ruim) como forma de se reconectar à realidade.
 - **Condição Física:** O desgaste dos restos industriais nas pernas de Gabo ("Click-clack", espasmos) é fundamental para mantê-lo ancorado na realidade da dor.
 - **Evolução da Trama:** O gás paralisante força uma situação de sacrifício/improviso violento.
 
