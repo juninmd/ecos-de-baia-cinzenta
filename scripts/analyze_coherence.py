@@ -17,8 +17,6 @@ CHAPTER_RE = re.compile(r"capitulo-(\d+(?:\.5)?)\.md$")
 # Pre-compiled regex patterns for performance optimization
 VIOLATION_PATTERN = re.compile(r"\b(Gabo|Gabriel)\b.{0,120}\b(fum[a-z]*|cigarro|tabaco)\b", re.IGNORECASE | re.DOTALL)
 CANONICAL_NEGATIONS = re.compile(r"(odeia|nunca fumou|n[aã]o fuma|repulsa|n[aá]usea)", re.IGNORECASE)
-WORD_PATTERN = re.compile(r"\b\w+\b")
-CLIFFHANGER_PATTERN = re.compile(r"[?.!]\s*$")
 
 CENTRAL_ALIASES = {
     "Gabriel \"Gabo\" Moretti": {"gabo", "gabriel", "moretti"},
@@ -158,9 +156,9 @@ def bestseller_score(chapters: list[Chapter]) -> tuple[float, list[str]]:
     results = []
     for ch in recent:
         text = ch.text
-        word_count = WORD_PATTERN.subn('', text)[1]
+        word_count = len(text.split())
         token_count = sum(text.lower().count(tok) for tok in sensory_tokens)
-        results.append((word_count, token_count / max(word_count, 1), 1 if CLIFFHANGER_PATTERN.search(text, max(0, len(text) - 200)) else 0))
+        results.append((word_count, token_count / max(word_count, 1), 1 if text.rstrip().endswith(('?', '.', '!')) else 0))
 
     word_counts = [r[0] for r in results]
     avg_words = mean(word_counts) if word_counts else 0
