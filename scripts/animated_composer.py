@@ -143,11 +143,11 @@ class AnimatedVideoComposer:
         source_w = int(width / zoom)
         source_h = int(height / zoom)
         
-        crop_x = min(pan_x, bg.width - source_w)
+        crop_x = max(0, min(pan_x, bg.width - source_w))
         crop_y = max(0, int((bg.height - source_h) / 2))
 
         cropped = bg.crop((crop_x, crop_y, crop_x + source_w, crop_y + source_h))
-        return cropped.resize((width, height), Image.Resampling.LANCZOS)
+        return cropped.resize((width, height), Image.Resampling.BICUBIC)
 
     def _apply_global_overlays(self, frame, frame_num, total_frames, titulo, numero):
         """Add noir effects and text overlays to a frame."""
