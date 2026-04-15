@@ -7,7 +7,7 @@ Personagens Presentes: Gabo, Valéria
 
 # Capítulo 180: A Fome do Abismo
 
-O lodo ácido agarrava-se às minhas botas como mãos de moribundos implorando por salvação. Deixamos a estação e nos embrenhamos mais fundo nos dutos de escoamento. O eco úmido dos nossos passos era pontuado pelo chiado baixo do braço mecânico atrelado ao meu ombro destruído. Cada giro das engrenagens enferrujadas cravava espinhos virtuais na minha carne.
+O lodo ácido agarrava-se às minhas botas como mãos de moribundos implorando por salvação. Deixamos a estação e nos embrenhamos mais fundo nos dutos de escoamento. O eco úmido dos nossos passos era pontuado pelo chiado baixo do exoesqueleto atrelado ao meu ombro destruído. Cada movimento das travas passivas cravava espinhos virtuais na minha carne.
 
 Eu precisava daquela dor.
 
