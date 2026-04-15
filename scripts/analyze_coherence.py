@@ -45,13 +45,6 @@ def chapter_number(path: Path) -> float:
     return float(match.group(1))
 
 
-def chapter_number(path: Path) -> float:
-    match = CHAPTER_RE.search(path.name)
-    if not match:
-        raise ValueError(f"Nome de capítulo inválido: {path}")
-    return float(match.group(1))
-
-
 def load_chapters() -> list[Chapter]:
     chapters = []
     for file in DOCS_DIR.glob("capitulo-*.md"):
@@ -156,8 +149,9 @@ def bestseller_score(chapters: list[Chapter]) -> tuple[float, list[str]]:
     results = []
     for ch in recent:
         text = ch.text
+        text_lower = text.lower()
         word_count = len(text.split())
-        token_count = sum(text.lower().count(tok) for tok in sensory_tokens)
+        token_count = sum(text_lower.count(tok) for tok in sensory_tokens)
         results.append((word_count, token_count / max(word_count, 1), 1 if text.rstrip().endswith(('?', '.', '!')) else 0))
 
     word_counts = [r[0] for r in results]
