@@ -181,11 +181,14 @@ class HuggingFaceAPIClient:
             with open(image_path, "rb") as f:
                 img_base64 = base64.b64encode(f.read()).decode('utf-8')
             payload["image"] = img_base64
-            payload["parameters"] = {
-                "strength": strength,
-                "guidance_scale": 12.0,
-                "num_inference_steps": 40
-            }
+
+            # Modelos flux1 na hf-inference podem falhar se passarmos 'strength' e afins em I2I
+            if "flux1" not in self.model_family:
+                payload["parameters"] = {
+                    "strength": strength,
+                    "guidance_scale": 12.0,
+                    "num_inference_steps": 40
+                }
         
         try:
             session = self._get_session()
