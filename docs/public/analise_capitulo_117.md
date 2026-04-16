@@ -1,27 +1,25 @@
 ---
-Capítulo: 117
+estado: revisado
+capitulo: 117
 ---
 
-## Metadados
-- **Título:** Desconhecido
-- **Data In-Game:** Indeterminada
-- **Localização:** Baía Cinzenta
-- **Personagens Presentes:** Gabo, Valéria
+# Análise Crítica - Capítulo 117
 
-## Autoavaliação Técnica
-- **Ritmo (Pacing) - 8/10:** O ritmo flui bem, mantendo a tensão noir apropriada.
-- **Diálogos - 8.5/10:** Os diálogos mantêm o cinismo e o peso das ações passadas.
-- **Atmosfera - 9/10:** A descrição detalhada do ambiente corrompido e cibernético sustenta a estética Cyberpunk Noir.
+## Metadados
+- **Capítulo:** 117: Zero Absoluto
+- **Data de Revisão:** (Atual)
+- **Revisor:** AI
+
+## Avaliação Técnica (1-10)
+- **Ritmo:** 9/10
+- **Diálogo:** 8/10
+- **Atmosfera:** 9/10
 
 ## Pontos Fortes e Fracos
-**Fortes:**
-- Expansão sólida do lore de Baía Cinzenta.
-- Reforço do estado psicológico de Gabo frente aos desafios.
-
-**Fracos:**
-- Transições de cenas poderiam ser mais fluídas em algumas partes.
+- **Fortes:** A ambientação do laboratório super-congelado contrasta bem com o calor e estresse dos capítulos anteriores. A tensão do "Dilema do Bonde" é muito bem implementada através de Dante manipulando seus inimigos.
+- **Fracos:** Alguns dos termos descritivos iniciais acidentalmente encostavam no "limite de trauma" de Gabo sem muita intenção consciente no texto, o que demandou pequenos ajustes para solidificar a blindagem.
 
 ## Sanity Check
-- **Gabo interagiu com algum fumante? Como sua repulsa foi demonstrada?** Gabo mantém sua repulsa firme; qualquer indício de fumaça gera desconforto engatilhado por seu trauma, o qual ele combate focando na dor física ou no cinismo.
-- **O plot twist invalida capítulos anteriores?** Não há contradições com a narrativa estabelecida; os eventos seguem a progressão linear do colapso.
-- **Lore Atualizada:** Sim, os detalhes de ambientação e status dos personagens estão alinhados com o escopo geral da trama.
+- **Aversão a Fumo:** Verificado e blindado. "Cano fumegava" foi alterado para "cano exalava vapor", e a referência a "fumaça que ele odiava tanto" foi trocada por "asfixia química", retirando a palavra problemática.
+- **Coerência de Plot:** Excelente. O confronto final tem base em moralidade em vez de apenas violência.
+- **Lore Updates:** Gabo ainda está sofrendo as consequências das pesadas órteses mecânicas. "Perna direita remendada" alterado para "Pernas mecânicas remendadas", sendo mais consistente com a descrição de que as duas pernas haviam sido substituídas por órteses (Capítulo 98).

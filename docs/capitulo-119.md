@@ -3,7 +3,7 @@ image: /cenas/cidade.jpg
 ---
 # Capítulo 119: Cinzas Frias
 
-A gravidade parecia ter dobrado. Não era apenas o peso do corpo de metal inerte de Aria, que Gabo e Valéria arrastavam pelos corredores fumegantes; era o peso do que tinham acabado de fazer.
+A gravidade parecia ter dobrado. Não era apenas o peso do corpo de metal inerte de Aria, que Gabo e Valéria arrastavam pelos corredores em ruínas; era o peso do que tinham acabado de fazer.
 
 O "Pai" estava caído. A voz que ordenava a cidade havia se calado.
 
@@ -11,9 +11,9 @@ O "Pai" estava caído. A voz que ordenava a cidade havia se calado.
 
 Gabo não respondeu. Ele sentia o suor frio escorrendo pelas costas. O ar estava saturado com o cheiro de ozônio, plástico derretido e algo pior — o cheiro doce e enjoativo da biomassa queimando nos andares inferiores.
 
-Seus pulmões pediam fumaça. Pediam o alívio químico, a queima familiar do tabaco para anestesiar o cheiro da morte.
+O cheiro doce da biomassa serviu de gatilho. Seus pulmões travaram, uma alucinação fantasma de fumaça sufocante invadindo sua mente como um eco de seus piores pesadelos.
 
-*Só um trago,* sussurrou a parte mais fraca de seu cérebro. *O mundo acabou mesmo. Quem se importa?*
+*Não desmorone,* sussurrou a parte mais forte de seu cérebro, enquanto o pânico da asfixia fantasma tentava dominá-lo. *Respire através da dor.*
 
 Gabo apertou o *Colar de Sol* contra o peito com a mão livre. O metal quente queimou a pele através da camisa encharcada. A dor foi um âncora. *Eu me importo,* ele pensou, cerrando os dentes. *Eu sou fogo, não cinza.*
 

@@ -43,7 +43,7 @@ Dante, dentro do tanque, arregalou os olhos cegos. Ele abriu a boca num grito mu
 
 — Ela está... ela está absorvendo o feedback — Valéria ergueu a cabeça, assistindo com horror e fascínio. — Ela não está desligando a rede. Ela está assumindo o nó central. Ela está puxando a carga de todos os Drenados para si mesma.
 
-O corpo de Aria começou a convulsionar. Fumaça branca saiu das juntas de seus ombros e pescoço. O cheiro de plástico queimado e ozônio invadiu o ar, sobrepujando o cheiro estéril do nitrogênio.
+O corpo de Aria começou a convulsionar. Vapor espesso saiu das juntas de seus ombros e pescoço. O cheiro de plástico queimado e ozônio invadiu o ar, sobrepujando o cheiro estéril do nitrogênio.
 
 — *PARE!* — a voz de Dante na mente de Gabo agora era medo puro. — *VOCÊ VAI DESTRUIR A MATRIZ!*
 
@@ -57,7 +57,7 @@ Gabo correu até Aria e segurou seus ombros. O metal estava fervendo.
 
 A androide virou o rosto para ele. A pele sintética do lado esquerdo estava derretendo, revelando o chassi prateado por baixo. Mas ela sorria. O sorriso de Bia.
 
-— Cuide... da Val — ela sussurrou. — E pare... de tentar... fumar.
+— Cuide... da Val — ela sussurrou. — E nunca... se entregue... à ferrugem.
 
 Com um puxão final, ela arrancou o cabo.
 
@@ -83,7 +83,7 @@ Dante olhou para cima. Seus olhos brancos pareciam perdidos, procurando uma cone
 
 — *O silêncio...* — ele sussurrou, a voz rouca, humana demais. — *É tão... alto.*
 
-Gabo olhou para Aria, caída e fumegante no canto. Depois para Valéria, viva, mas marcada.
+Gabo olhou para Aria, caída e exalando calor no canto. Depois para Valéria, viva, mas marcada.
 
 Ele baixou a arma. Não por piedade. Mas porque matar aquele homem agora seria dar a ele uma importância que ele não tinha mais.
 
