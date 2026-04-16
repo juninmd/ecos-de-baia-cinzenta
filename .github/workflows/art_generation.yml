@@ -62,7 +62,7 @@ jobs:
         run: |
           python scripts/local_art_gen.py ${{ steps.info.outputs.chapter }} \
             --style "${{ inputs.style || 'cyberpunk, noir' }}" \
-            --model-family flux1-dev
+            --model-family flux1-schnell
 
 
       - name: Upload Artifact
@@ -78,6 +78,6 @@ jobs:
         run: |
           git config --global user.name "Art Bot L4"
           git config --global user.email "bot@meu-livro.local"
-          git add docs/public/capitulo_${{ steps.info.outputs.chapter }}_pro.jpg
+          git add docs/public/capitulo_${{ steps.info.outputs.chapter }}_pro.jpg || true
           git commit -m "chore: generate pro art for chapter ${{ steps.info.outputs.chapter }}" || echo "No changes"
           git push
