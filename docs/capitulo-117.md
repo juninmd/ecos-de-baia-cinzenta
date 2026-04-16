@@ -1,5 +1,5 @@
 ---
-image: /cenas/cidade.jpg
+image: /capitulo_117_pro.jpg
 ---
 # Capítulo 117: Zero Absoluto
 
