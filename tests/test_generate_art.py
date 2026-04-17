@@ -94,6 +94,7 @@ def test_image_generator_uses_selected_model_only(monkeypatch):
 
 
 def test_image_generator_skips_cpu_fallback_by_default(monkeypatch, tmp_path):
+    pytest.importorskip("requests")
     class FakeTorch:
         class cuda:
             @staticmethod
@@ -112,6 +113,7 @@ def test_image_generator_skips_cpu_fallback_by_default(monkeypatch, tmp_path):
 
 
 def test_image_generator_uses_detected_local_api_when_env_missing(monkeypatch, tmp_path):
+    pytest.importorskip("requests")
     class FakeResponse:
         ok = True
 
