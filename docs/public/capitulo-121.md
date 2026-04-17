@@ -79,7 +79,7 @@ Valéria limpou a boca e se aproximou de Aria. Ela conectou um cabo de seu pulso
 
 — Hardware? Sim. Software? — Valéria hesitou. — Ela salvou os Drenados absorvendo a dor deles. Isso... isso muda quem você é, Gabo. Mesmo para uma máquina. Se eu a religar, não sei quem vai acordar.
 
-Gabo assentiu. Ele se sentou no chão, encostado na mesa onde Rangel respirava superficialmente. Suas mãos ainda tremiam levemente, não por vício, mas pela descarga de tensão. Ele entrelaçou os dedos, forçando-os a parar.
+Gabo assentiu. Ele se sentou no chão, encostado na mesa onde Rangel respirava superficialmente. Suas mãos ainda tremiam levemente, não por fraqueza, mas pela descarga de tensão. Ele entrelaçou os dedos, forçando-os a parar.
 
 — Temos tempo — disse ele, fechando os olhos. — O mundo lá fora parou. Pela primeira vez em anos, ninguém está nos caçando.
 

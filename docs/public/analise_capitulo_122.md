@@ -1,27 +1,25 @@
 ---
-Capítulo: 122
+estado: revisado
+capitulo: 122
 ---
 
-## Metadados
-- **Título:** Desconhecido
-- **Data In-Game:** Indeterminada
-- **Localização:** Baía Cinzenta
-- **Personagens Presentes:** Gabo, Valéria
+# Análise Crítica - Capítulo 122
 
-## Autoavaliação Técnica
-- **Ritmo (Pacing) - 8/10:** O ritmo flui bem, mantendo a tensão noir apropriada.
-- **Diálogos - 8.5/10:** Os diálogos mantêm o cinismo e o peso das ações passadas.
-- **Atmosfera - 9/10:** A descrição detalhada do ambiente corrompido e cibernético sustenta a estética Cyberpunk Noir.
+## Metadados
+- **Capítulo:** 122: Dívida Técnica
+- **Data de Revisão:** (Atual)
+- **Revisor:** AI
+
+## Avaliação Técnica (1-10)
+- **Ritmo (Pacing):** 8/10
+- **Diálogos:** 8.5/10
+- **Atmosfera:** 9/10
 
 ## Pontos Fortes e Fracos
-**Fortes:**
-- Expansão sólida do lore de Baía Cinzenta.
-- Reforço do estado psicológico de Gabo frente aos desafios.
-
-**Fracos:**
-- Transições de cenas poderiam ser mais fluídas em algumas partes.
+- **Fortes:** O paralelo genial entre a "dívida técnica" da programação corrompida de Aria e as decisões morais que Gabo precisou fazer.
+- **Fracos:** O capítulo originalmente apresentava uma enorme infração de lore, caracterizando o protagonista como um dependente de nicotina, querendo "alívio químico" do tabaco.
 
 ## Sanity Check
-- **Gabo interagiu com algum fumante? Como sua repulsa foi demonstrada?** Gabo mantém sua repulsa firme; qualquer indício de fumaça gera desconforto engatilhado por seu trauma, o qual ele combate focando na dor física ou no cinismo.
-- **O plot twist invalida capítulos anteriores?** Não há contradições com a narrativa estabelecida; os eventos seguem a progressão linear do colapso.
-- **Lore Atualizada:** Sim, os detalhes de ambientação e status dos personagens estão alinhados com o escopo geral da trama.
+- **Aversão a Fumo:** Verificado e totalmente reescrito. A infração onde Gabo sentia o gosto do tabaco e necessitava fumar como alívio foi substituída. Ele agora sofre uma intensa alucinação olfativa ligada ao seu trauma da fumaça dos charutos de seu pai. Para combater isso e quebrar a alucinação, ele novamente utiliza o seu "Colar de Sol" para infligir dor física real em si próprio, validando sua regra canônica de que "A dor é a realidade".
+- **Coerência de Plot:** Sem problemas, o encerramento envia Gabo ao Distrito 4 para iniciar um novo arco focado no pragmatismo de rua.
+- **Lore Updates:** Repulsa a fumo blindada com as correções.

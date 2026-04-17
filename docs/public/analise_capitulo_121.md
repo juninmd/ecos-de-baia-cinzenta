@@ -1,27 +1,25 @@
 ---
-Capítulo: 121
+estado: revisado
+capitulo: 121
 ---
 
-## Metadados
-- **Título:** Desconhecido
-- **Data In-Game:** Indeterminada
-- **Localização:** Baía Cinzenta
-- **Personagens Presentes:** Gabo, Valéria
+# Análise Crítica - Capítulo 121
 
-## Autoavaliação Técnica
-- **Ritmo (Pacing) - 8/10:** O ritmo flui bem, mantendo a tensão noir apropriada.
-- **Diálogos - 8.5/10:** Os diálogos mantêm o cinismo e o peso das ações passadas.
-- **Atmosfera - 9/10:** A descrição detalhada do ambiente corrompido e cibernético sustenta a estética Cyberpunk Noir.
+## Metadados
+- **Capítulo:** 121: Fios Desencapados
+- **Data de Revisão:** (Atual)
+- **Revisor:** AI
+
+## Avaliação Técnica (1-10)
+- **Ritmo (Pacing):** 8/10
+- **Diálogos:** 8.5/10
+- **Atmosfera:** 9/10
 
 ## Pontos Fortes e Fracos
-**Fortes:**
-- Expansão sólida do lore de Baía Cinzenta.
-- Reforço do estado psicológico de Gabo frente aos desafios.
-
-**Fracos:**
-- Transições de cenas poderiam ser mais fluídas em algumas partes.
+- **Fortes:** O peso psicológico e prático da operação médica improvisada aprofunda muito as escolhas dos personagens no bunker.
+- **Fracos:** Foi identificada uma inconsistência menor relacionada à forma como Gabo lidava com suas emoções em momentos de estresse.
 
 ## Sanity Check
-- **Gabo interagiu com algum fumante? Como sua repulsa foi demonstrada?** Gabo mantém sua repulsa firme; qualquer indício de fumaça gera desconforto engatilhado por seu trauma, o qual ele combate focando na dor física ou no cinismo.
-- **O plot twist invalida capítulos anteriores?** Não há contradições com a narrativa estabelecida; os eventos seguem a progressão linear do colapso.
-- **Lore Atualizada:** Sim, os detalhes de ambientação e status dos personagens estão alinhados com o escopo geral da trama.
+- **Aversão a Fumo:** Verificado e corrigido. O texto aborda o trauma da "fumaça" como um gatilho ligado ao pai abusivo de Gabo, e isso está mantido e validado pela lore. Entretanto, havia uma menção que suas mãos tremiam "não por vício", sugerindo um vício passado. Isso foi alterado para "não por fraqueza", reafirmando que o trauma dele não está ligado a vício em nicotina.
+- **Coerência de Plot:** Operação de trauma físico sem mágica de autodocs mantém a essência crua.
+- **Lore Updates:** A explicação sobre a reestruturação fragmentada da personalidade de Aria constrói excelente tensão para o futuro.
