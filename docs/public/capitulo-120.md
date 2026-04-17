@@ -29,9 +29,9 @@ Gabo olhou ao redor. A escuridão era absoluta, quebrada apenas pelos relâmpago
 
 — Não podemos ficar aqui — disse Valéria, sua voz tremendo levemente. Ela olhava para as sombras com a paranoia de quem sabe o que vive no escuro. — Sem a vigilância da Aeterna, as gangues vão sair das tocas. Os Saqueadores...
 
-— Ela tem razão — Gabo se levantou. Ele passou a mão no bolso, os dedos roçando o maço de cigarros fantasma que não estava lá. O vício arranhou sua garganta, uma coceira desesperada por nicotina para acalmar o tremor nas mãos.
+— Ela tem razão — Gabo se levantou, os servomotores de suas órteses nas pernas rangendo com o esforço, o peso do dano físico cobrando seu preço. Uma alucinação olfativa repentina de fumaça sufocante invadiu suas narinas, um eco traumático do desespero.
 
-Ele fechou os olhos e apertou o *Colar de Sol* contra o esterno. A queimadura do metal foi um lembrete: *Dor é realidade. Fumaça é fuga.*
+Ele fechou os olhos e apertou o *Colar de Sol* contra o esterno até as arestas cortarem a pele. A dor aguda varreu a alucinação: *Dor é realidade.*
 
 Ele abriu os olhos. Focou.
 
@@ -53,7 +53,7 @@ Ele tateou sob o painel, puxando os fios da ignição. Vermelho no vermelho. Ter
 
 — Vamos, sua lata velha... — sussurrou.
 
-Uma faísca. O motor tossiu, engasgou e, com um rugido sujo e vibrante, ganhou vida. Fumaça de diesel, preta e tóxica, saiu pelo escape.
+Uma faísca. O motor tossiu, engasgou e, com um rugido sujo e vibrante, ganhou vida. Vapor espesso de diesel, escuro e tóxico, saiu pelo escape.
 
 Gabo sorriu. Um sorriso triste, de canto de boca.
 
