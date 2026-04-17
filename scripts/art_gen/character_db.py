@@ -5,6 +5,7 @@ import re
 NAME_CLEAN_RE = re.compile(r'\[([^\]]+)\](?:\([^\)]+\))?')
 IMAGE_MATCH_RE = re.compile(r'!\[[^\]]*\]\(([^\)]+)\)')
 NICKNAME_MATCH_RE = re.compile(r'"(.*?)"')
+DESCRIPTION_KEYS_RE = re.compile(r'(Porte Físico|Vestuário|Marcas Distintivas|Cabelo|Olhos|Rosto|Idade):')
 
 
 class CharacterDatabase:
@@ -64,18 +65,7 @@ class CharacterDatabase:
         description_parts = []
         for line in lines:
             clean_line = line.strip().replace('*', '')
-            if any(
-                key in clean_line
-                for key in [
-                    "Porte Físico:",
-                    "Vestuário:",
-                    "Marcas Distintivas:",
-                    "Cabelo:",
-                    "Olhos:",
-                    "Rosto:",
-                    "Idade:",
-                ]
-            ):
+            if DESCRIPTION_KEYS_RE.search(clean_line):
                 description_parts.append(clean_line)
         return description_parts
 
@@ -111,7 +101,7 @@ class CharacterDatabase:
             pattern_str = r'\b(' + '|'.join(map(re.escape, all_aliases)) + r')\b'
             self._compiled_pattern = re.compile(pattern_str)
 
-        matches = set(m.group() for m in self._compiled_pattern.finditer(text_lower))
+        matches = {m.group() for m in self._compiled_pattern.finditer(text_lower)}
 
         found_ids = set()
         for match in matches:

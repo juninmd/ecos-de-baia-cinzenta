@@ -3,7 +3,8 @@ from pathlib import Path
 from unittest.mock import MagicMock, patch
 
 import pytest
-import requests
+
+requests = pytest.importorskip("requests")
 
 from scripts.video_gen.audio import generate_narration
 from scripts.video_gen.composer import VideoComposer
