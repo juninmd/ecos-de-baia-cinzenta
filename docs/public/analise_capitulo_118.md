@@ -1,27 +1,25 @@
 ---
-Capítulo: 118
+estado: revisado
+capitulo: 118
 ---
 
-## Metadados
-- **Título:** Desconhecido
-- **Data In-Game:** Indeterminada
-- **Localização:** Baía Cinzenta
-- **Personagens Presentes:** Gabo, Valéria
+# Análise Crítica - Capítulo 118
 
-## Autoavaliação Técnica
-- **Ritmo (Pacing) - 8/10:** O ritmo flui bem, mantendo a tensão noir apropriada.
-- **Diálogos - 8.5/10:** Os diálogos mantêm o cinismo e o peso das ações passadas.
-- **Atmosfera - 9/10:** A descrição detalhada do ambiente corrompido e cibernético sustenta a estética Cyberpunk Noir.
+## Metadados
+- **Capítulo:** 118: O Colapso da Onda
+- **Data de Revisão:** (Atual)
+- **Revisor:** AI
+
+## Avaliação Técnica (1-10)
+- **Ritmo:** 9/10
+- **Diálogo:** 8/10
+- **Atmosfera:** 9/10
 
 ## Pontos Fortes e Fracos
-**Fortes:**
-- Expansão sólida do lore de Baía Cinzenta.
-- Reforço do estado psicológico de Gabo frente aos desafios.
-
-**Fracos:**
-- Transições de cenas poderiam ser mais fluídas em algumas partes.
+- **Fortes:** O sacrifício de Aria é comovente e bem executado em um ambiente de sobrecarga do servidor.
+- **Fracos:** Uma falha de lore crítica precisava de correção na cena da morte. Aria manda Gabo parar de fumar, o que é um clichê de filme *noir* que o autor usava na versão antiga de Gabo, antes da reformulação do seu perfil, em que ele tem uma aversão extrema (fobia) a cigarros por causa do pai.
 
 ## Sanity Check
-- **Gabo interagiu com algum fumante? Como sua repulsa foi demonstrada?** Gabo mantém sua repulsa firme; qualquer indício de fumaça gera desconforto engatilhado por seu trauma, o qual ele combate focando na dor física ou no cinismo.
-- **O plot twist invalida capítulos anteriores?** Não há contradições com a narrativa estabelecida; os eventos seguem a progressão linear do colapso.
-- **Lore Atualizada:** Sim, os detalhes de ambientação e status dos personagens estão alinhados com o escopo geral da trama.
+- **Aversão a Fumo:** Verificado e corrigido. Menções a fumaça de Aria caindo foram alteradas ("vapor espesso" e "exalando calor"). O diálogo final de Aria foi alterado de um pedido para ele parar de fumar, para um conselho com tom cyberpunk para que ele "nunca se entregue à ferrugem", o que fortalece sua amizade com ele e a lore sem recair em clichês ultrapassados do personagem.
+- **Coerência de Plot:** Excelente. Gabo e Aria desmantelam o plano de "Dante" através do caos e empatia.
+- **Lore Updates:** Tudo coerente.
