@@ -7,7 +7,8 @@ import re
 import shutil
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[1]
+import os
+ROOT = Path(os.path.normpath(str(Path(__file__).absolute()))).parents[1]
 DOCS_DIR = ROOT / "docs"
 PUBLIC_DIR = DOCS_DIR / "public"
 CHAPTER_PATTERN = re.compile(r"^capitulo-(\d+(?:\.5)?)\.md$")

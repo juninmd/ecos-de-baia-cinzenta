@@ -104,12 +104,12 @@ class CharacterDatabase:
         matches = {m.group() for m in self._compiled_pattern.finditer(text_lower)}
 
         found_ids = set()
-        for match in matches:
-            if match in self._alias_map:
-                for char_data in self._alias_map[match]:
-                    if char_data["name"] not in found_ids:
-                        found.append(char_data)
-                        found_ids.add(char_data["name"])
+        found = [
+            char_data
+            for match in matches if match in self._alias_map
+            for char_data in self._alias_map[match]
+            if char_data["name"] not in found_ids and not found_ids.add(char_data["name"])
+        ]
         return found
 
     def _build_alias_map(self):
