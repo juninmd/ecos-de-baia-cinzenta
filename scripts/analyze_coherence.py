@@ -123,13 +123,9 @@ def check_character_consistency(chapters: list[Chapter], aliases: dict[str, set[
     # Checa se capítulos recentes perderam protagonistas centrais.
     recent = chapters[-10:]
 
-    # Cache compiled regex per canonical alias string during evaluation
-    compiled_patterns = {}
     for canonical, fallback_aliases in CENTRAL_ALIASES.items():
         alias_set = aliases.get(canonical, fallback_aliases)
-        compiled_patterns[canonical] = re.compile(rf"\b(?:{'|'.join(map(re.escape, alias_set))})\b", re.IGNORECASE)
-
-    for canonical, pattern in compiled_patterns.items():
+        pattern = re.compile(rf"\b(?:{'|'.join(map(re.escape, alias_set))})\b", re.IGNORECASE)
         mentions = sum(1 for ch in recent if pattern.search(ch.text))
 
         if mentions <= 1:
@@ -152,7 +148,12 @@ def bestseller_score(chapters: list[Chapter]) -> tuple[float, list[str]]:
         text_lower = text.lower()
         word_count = len(text.split())
         token_count = sum(text_lower.count(tok) for tok in sensory_tokens)
-        results.append((word_count, token_count / max(word_count, 1), 1 if text.rstrip().endswith(('?', '.', '!')) else 0))
+
+        # Optimize endswith matching by slicing the end of the text
+        end_text = text[-200:].rstrip() if len(text) > 200 else text.rstrip()
+        cliffhanger = 1 if end_text.endswith(('?', '.', '!')) else 0
+
+        results.append((word_count, token_count / max(word_count, 1), cliffhanger))
 
     word_counts = [r[0] for r in results]
     avg_words = mean(word_counts) if word_counts else 0
