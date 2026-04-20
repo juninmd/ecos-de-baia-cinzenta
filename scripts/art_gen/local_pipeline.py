@@ -1,14 +1,5 @@
 import os
 
-try:
-    import torch
-    from diffusers import FluxPipeline, StableDiffusionPipeline, StableDiffusionXLPipeline
-except ImportError:
-    torch = None
-    FluxPipeline = None
-    StableDiffusionPipeline = None
-    StableDiffusionXLPipeline = None
-
 from .config import MODEL_ALTERNATIVES
 
 class LocalPipelineManager:
@@ -20,7 +11,14 @@ class LocalPipelineManager:
         self.pipeline = None
 
     def setup_pipeline(self):
-        if not (torch and StableDiffusionPipeline):
+        try:
+            import torch
+            from diffusers import StableDiffusionPipeline
+            has_torch_sd = True
+        except ImportError:
+            has_torch_sd = False
+
+        if not has_torch_sd:
             print("⚠️ Diffusers/Torch not installed. Local generation unavailable.")
             return False
 
@@ -55,16 +53,20 @@ class LocalPipelineManager:
         self.pipeline = pipeline
 
     def _load_pipeline(self, family, model_id):
+        import torch
         if family == "flux-schnell":
+            from diffusers import FluxPipeline
             if FluxPipeline is None:
                 raise RuntimeError("FluxPipeline is unavailable in the current version of diffusers.")
             dtype = torch.bfloat16 if self.device == "cuda" else torch.float32
             return FluxPipeline.from_pretrained(model_id, torch_dtype=dtype)
 
         if family == "sdxl":
+            from diffusers import StableDiffusionXLPipeline
             if StableDiffusionXLPipeline is None:
                 raise RuntimeError("StableDiffusionXLPipeline is unavailable in the current version of diffusers.")
             dtype = torch.float16 if self.device == "cuda" else torch.float32
             return StableDiffusionXLPipeline.from_pretrained(model_id, torch_dtype=dtype)
 
+        from diffusers import StableDiffusionPipeline
         return StableDiffusionPipeline.from_pretrained(model_id, torch_dtype=torch.float32)

@@ -23,23 +23,29 @@ def chapter_sort_key(path: Path):
 
 
 def move_public_chapters() -> list[tuple[Path, Path]]:
+    from concurrent.futures import ThreadPoolExecutor
     moved: list[tuple[Path, Path]] = []
     public_files = list(PUBLIC_DIR.glob("capitulo-*.md"))
     if not public_files:
         return moved
 
-    for file in sorted(public_files, key=chapter_sort_key):
+    def process_move(file: Path) -> tuple[Path, Path] | None:
         if not CHAPTER_PATTERN.match(file.name):
             print(f"⚠️ Ignorando nome fora do padrão: {file.relative_to(ROOT)}")
-            continue
+            return None
 
         target = DOCS_DIR / file.name
         if target.exists():
-            # Suppress print for speed, it's just noise and delays the console
-            continue
+            return None
 
         shutil.move(str(file), str(target))
-        moved.append((file, target))
+        return (file, target)
+
+    sorted_files = sorted(public_files, key=chapter_sort_key)
+    with ThreadPoolExecutor(max_workers=os.cpu_count() or 4) as executor:
+        results = executor.map(process_move, sorted_files)
+        moved = [r for r in results if r is not None]
+
     return moved
 
 

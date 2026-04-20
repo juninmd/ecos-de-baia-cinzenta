@@ -46,10 +46,21 @@ def chapter_number(path: Path) -> float:
 
 
 def load_chapters() -> list[Chapter]:
+    from concurrent.futures import ThreadPoolExecutor
     chapters = []
-    for file in DOCS_DIR.glob("capitulo-*.md"):
+
+    def process_file(file: Path) -> Chapter | None:
         if CHAPTER_RE.search(file.name):
-            chapters.append(Chapter(chapter_number(file), file))
+            ch = Chapter(chapter_number(file), file)
+            _ = ch.text  # Eager load text to cache it in parallel
+            return ch
+        return None
+
+    files = list(DOCS_DIR.glob("capitulo-*.md"))
+    with ThreadPoolExecutor(max_workers=os.cpu_count() or 4) as executor:
+        results = executor.map(process_file, files)
+        chapters = [ch for ch in results if ch is not None]
+
     return sorted(chapters, key=lambda c: c.number)
 
 
