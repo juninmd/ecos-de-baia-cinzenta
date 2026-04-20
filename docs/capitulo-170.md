@@ -3,6 +3,7 @@ Título: O Fim do Expediente
 Data In-Game: Indeterminada (Pós-Destruição do Wetware)
 Localização: Subnível 2.0 (Arquivo Executivo, Setor Alfa-Sete)
 Personagens Presentes: Gabo, Valéria
+image: /capitulo_170_pro.jpg
 ---
 
 # Capítulo 170: O Fim do Expediente
