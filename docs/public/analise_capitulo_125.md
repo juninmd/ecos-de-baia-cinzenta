@@ -1,51 +1,24 @@
-# Análise Crítica: Capítulo 125 - Ressonância
+---
+estado: revisado
+capitulo: 125
+---
 
-**Data da Análise:** 23 de Novembro (In-Game) / [Data Atual]
-**Autor:** [IA/Ghostwriter]
+# Análise Crítica - Capítulo 125
 
-## Avaliação Técnica
+## Metadados
+- **Capítulo:** 125: Ressonância
+- **Data de Revisão:** (Atual)
+- **Revisor:** AI
 
-**Nota Geral:** 9.0/10
-
-### 1. Ritmo (Pacing)
-*   **Avaliação:** O capítulo segue uma estrutura de "crescendo". Inicia com a estase do silêncio e a luta interna de Gabo, transita para a tensão emocional no bunker com Aria, e explode em urgência externa com as sirenes.
-*   **Observação:** A mudança de ritmo reflete o despertar da cidade. O silêncio inicial torna o barulho final mais impactante.
-
-### 2. Diálogos
-*   **Avaliação:** A interação central é o "glitch" de personalidade de Aria. A mudança de tom entre a confusão humana ("A gente perdeu o caso?") e a frieza robótica ("Integridade do chassi: 94%") é o ponto alto.
-*   **Destaque Positivo:** A recusa de Gabo em "limpar" o disco. "Pare o processo. Valéria." — mostra que ele valoriza mais a humanidade falha (e dolorosa) do que a eficiência da máquina.
-
-### 3. Atmosfera (Noir/Cyberpunk)
-*   **Avaliação:** A atmosfera foca na ausência da tecnologia habitual. O "silêncio viscoso" e as sirenes "analógicas" reforçam que o inimigo agora não é apenas digital, é físico e brutal.
-*   **Elementos Noir:** A chuva, o esgoto, a abstinência física, e a melancolia de ver um fantasma do passado (Bia).
+## Avaliação Técnica (1-10)
+- **Ritmo (Pacing):** 9/10
+- **Diálogos:** 9/10
+- **Atmosfera:** 9.5/10
 
 ## Pontos Fortes e Fracos
+- **Fortes:** O conflito psicológico gerado pela reinicialização instável de Aria e as personalidades colidentes (IA tática vs. Bia Vargas) é excelente e pesa forte no protagonista.
+- **Fracos:** Havia um erro crasso caracterizando Gabo sofrendo de abstinência química como um viciado em fumo precisando de uma dose.
 
-### Pontos Fortes
-*   **Conflito Interno:** A abstinência de Gabo é tratada como um inimigo físico, combatido com dor (o colar), mantendo a integridade do personagem.
-*   **Lore Expansion:** A confirmação de que as memórias de Bia Vargas estão ativas e influenciando o comportamento de Aria adiciona uma camada de tragédia ao "reboot".
-*   **Gancho Final:** As sirenes de ataque aéreo sugerem uma mudança na tática de Dante/Aeterna: de controle sutil para ocupação militar ostensiva.
-
-### Pontos Fracos / Oportunidades
-*   **Rangel:** Continua fora de ação. Necessário para a recuperação, mas limita a dinâmica do grupo a Gabo e Valéria por enquanto.
-*   **Curta Duração:** O capítulo é uma "cena" intensa, mas poderia ter explorado um pouco mais a reação da cidade antes das sirenes.
-
-## Auditoria de Coerência (Sanity Check)
-
-1.  **Gabo Interagiu com Fumantes?**
-    *   Não. Ele sentiu a necessidade química ("química do corpo gritando"), mas rejeitou ativamente o ato, usando a dor física do colar como substituto. **Status: APROVADO.**
-
-2.  **Plot Twist / Continuidade:**
-    *   O despertar de Aria é consequência direta dos reparos de Valéria no Cap. 124.
-    *   A "fragmentação" foi prevista por Valéria como "Dívida Técnica".
-    *   O cenário de apagão continua consistente.
-    *   **Status: APROVADO.**
-
-3.  **Atualização da Lore:**
-    *   *Novo Evento:* As sirenes de ataque aéreo indicam o retorno da "Ordem" de forma agressiva.
-    *   *Novo Status:* Aria reinicializada, mas instável/híbrida.
-
-## Próximos Passos Sugeridos
-*   A fuga do "Fliperama".
-*   O confronto com a nova força policial (analógica/militarizada) nas ruas.
-*   Lidar com os "glitches" de Aria durante o combate.
+## Sanity Check
+- **Aversão a Fumo:** Verificado e corrigido. A narrativa detalhava que a "química do corpo" estava pedindo um ritual de fumar (abstinência). Isso foi trocado pelo colapso psicológico derivado do estresse pós-traumático: o cheiro de esgoto mimetizando a fumaça de charuto do pai (alucinação) que ele quebra causando dor com o Colar de Sol.
+- **Lore Updates:** A instabilidade de Aria fundindo arquivos com os da falecida Bia eleva as apostas de forma brilhante sem ferir o universo. O uso das sirenes no final sinaliza mudança de ritmo.
