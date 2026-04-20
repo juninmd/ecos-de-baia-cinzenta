@@ -15,9 +15,9 @@ Em Baía Cinzenta, o silêncio não era a ausência de som. Era uma entidade fí
 
 Gabo estava sentado na entrada do túnel de esgoto, as botas quase tocando a água oleosa que corria lenta. Ele observava a boca do túnel, onde a escuridão do subsolo encontrava a penumbra cinzenta da alvorada lá fora.
 
-Suas mãos tremiam. Não de medo, nem de frio. Era a química do corpo gritando por algo que ele se recusava a dar. Ele fechou os punhos, sentindo as unhas cravarem na palma da mão. A vontade não era de fumar — o cheiro de fumaça ainda lhe dava náuseas, trazendo memórias de incêndios e gritos paternos —, mas de preencher o vazio. Ele queria a queimação na garganta, o ritual, a pausa.
+Suas mãos tremiam. Não de medo, nem de frio. Era a exaustão acumulada em seus músculos rasgados e o trauma não processado vazando pelas rachaduras de sua mente. Ele fechou os punhos, sentindo as unhas cravarem na palma da mão. O cheiro de lixo úmido do esgoto constantemente se transformava, em sua percepção estilhaçada, no odor ácido da fumaça de charuto de seu pai. Um fantasma olfativo que o sufocava, exigindo que ele sucumbisse ao pânico.
 
-Ele levou a mão ao peito, tateando o *Colar de Sol* sob a camisa suja. A corrente de ouro barata, o único artefato que restara de sua mãe, estava fria contra a pele. Ele apertou o metal até doer. A dor era um substituto aceitável. A dor era honesta.
+Ele levou a mão ao peito, tateando o *Colar de Sol* sob a camisa suja. A corrente de ouro barata, o único artefato que restara de sua mãe, estava fria contra a pele. Ele apertou o metal até doer, usando a dor física aguda para espantar a alucinação da fumaça. A dor era um substituto aceitável. A dor era honesta e cortava a neblina de sua mente.
 
 — Gabo.
 

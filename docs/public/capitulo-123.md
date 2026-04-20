@@ -9,7 +9,7 @@
 
 # Capítulo 123: Protocolo de Sombra
 
-A tampa do bueiro pesava uma tonelada. Gabo empurrou o metal enferrujado com o ombro, sentindo os músculos protestarem, e o som de atrito ecoou como um grito abafado na rua deserta.
+A tampa do bueiro pesava uma tonelada. Gabo empurrou o metal enferrujado com o ombro, sentindo os músculos protestarem enquanto suas órteses mecânicas de perna gemiam sob o esforço, e o som de atrito ecoou como um grito abafado na rua deserta.
 
 Quando ele emergiu, a primeira coisa que o atingiu não foi o frio, mas a ausência. Baía Cinzenta sempre fora uma cacofonia de luz e som — o zumbido constante dos anúncios holográficos, o chiado dos drones de vigilância, o pulsar do neon. Agora, havia apenas o som da chuva batendo no asfalto quebrado e o cheiro acre de fumaça de incêndios não controlados.
 
@@ -17,7 +17,7 @@ O cheiro o enjoou. Fumaça. Cinzas. Lembrava o cigarro barato que seu pai costum
 
 O Distrito 4 estava morto. Sem a "Voz" de Dante para coordenar a rede elétrica, os prédios eram monólitos negros recortados contra um céu cor de hematoma. A única iluminação vinha de fogueiras em latões de lixo e dos ocasionais faróis de veículos blindados patrulhando à distância.
 
-Gabo ajustou o sobretudo, sentindo a umidade penetrar nas bandagens improvisadas sob a roupa. Ele tateou o bolso interno. Vazio. A ansiedade era uma coceira elétrica sob a pele, exigindo movimento, exigindo violência. Ele apertou o *Colar de Sol* até o metal morder a pele da palma. A dor física era sua única âncora contra o caos mental. O colar queimava frio contra sua mão, lembrando-o de quem ele era. Não o filho do comissário corrupto. Não um viciado em fumaça. Mas algo mais duro.
+Gabo ajustou o sobretudo, sentindo a umidade penetrar nas bandagens improvisadas sob a roupa. Ele tateou o bolso interno. Vazio. A ansiedade era uma coceira elétrica sob a pele, exigindo movimento, exigindo violência. Ele apertou o *Colar de Sol* até o metal morder a pele da palma. A dor física aguda era sua única âncora contra a alucinação olfativa e o caos mental. O colar queimava frio contra sua mão, lembrando-o de quem ele era. Não o filho do comissário corrupto. Não um refém do próprio trauma. Mas algo mais duro.
 
 *Missão. Rangel. Aria. Sobreviver.*
 
@@ -99,7 +99,7 @@ O cabo da Glock atingiu a têmpora do invasor com um *crack* seco. O homem caiu 
 
 Vasco disparou sua espingarda. O flash iluminou a sala como um relâmpago, revelando o caos. O tiro acertou o terceiro invasor no peito, jogando-o contra as prateleiras de vidro.
 
-O segundo homem, em pânico, tentou recarregar. Gabo soltou o corpo inerte e avançou. Um chute no joelho, quebrando a articulação, seguido de um soco descendente na nuca. Eficiente. Brutal. Silencioso.
+O segundo homem, em pânico, tentou recarregar. Gabo soltou o corpo inerte e avançou com um passo pesado de metal. Um chute com o peso morto de sua órtese de perna diretamente no joelho do atacante, estilhaçando a articulação, seguido de um soco descendente na nuca. Eficiente. Brutal. Silencioso.
 
 O silêncio voltou à loja, agora pontuado pelos gemidos dos feridos.
 
