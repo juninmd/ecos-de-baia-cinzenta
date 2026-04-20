@@ -1,12 +1,6 @@
 import os
 
-try:
-    import torch
-except ImportError:
-    torch = None
-
 from .config import MODEL_ALTERNATIVES
-from .local_pipeline import LocalPipelineManager
 
 
 class ImageGenerator:
@@ -22,6 +16,7 @@ class ImageGenerator:
             "text, watermark, logo, frame, jpeg artifacts, cartoon, anime"
         )
 
+        from .local_pipeline import LocalPipelineManager
         self.local_manager = LocalPipelineManager(model_family)
         self.session = None
         self._configure_api_url()
@@ -88,7 +83,11 @@ class ImageGenerator:
 
     def _can_use_local_generation(self):
         """Validates if local generation is allowed given the hardware and configuration."""
-        has_gpu = torch and torch.cuda.is_available()
+        try:
+            import torch
+            has_gpu = torch.cuda.is_available()
+        except ImportError:
+            has_gpu = False
 
         if not self.allow_cpu_fallback and not has_gpu:
             print(

@@ -80,10 +80,16 @@ def test_image_generator_uses_selected_model_only(monkeypatch):
     def fail_if_called(*args, **kwargs):
         raise AssertionError("unexpected model fallback")
 
-    monkeypatch.setattr("art_gen.local_pipeline.torch", type("FakeTorch", (), {"cuda": type("Cuda", (), {"is_available": staticmethod(lambda: False)})(), "float32": object(), "float16": object(), "bfloat16": object()}))
-    monkeypatch.setattr("art_gen.local_pipeline.FluxPipeline", type("Flux", (), {"from_pretrained": staticmethod(fail_if_called)}))
-    monkeypatch.setattr("art_gen.local_pipeline.StableDiffusionXLPipeline", type("SDXL", (), {"from_pretrained": staticmethod(fake_sdxl)}))
-    monkeypatch.setattr("art_gen.local_pipeline.StableDiffusionPipeline", type("SD15", (), {"from_pretrained": staticmethod(fail_if_called)}))
+    import sys
+    monkeypatch.setitem(sys.modules, "torch", type("FakeTorch", (), {"cuda": type("Cuda", (), {"is_available": staticmethod(lambda: False)})(), "float32": object(), "float16": object(), "bfloat16": object()}))
+
+    # We also need to mock diffusers module and its pipelines
+    fake_diffusers = type("FakeDiffusers", (), {
+        "FluxPipeline": type("Flux", (), {"from_pretrained": staticmethod(fail_if_called)}),
+        "StableDiffusionXLPipeline": type("SDXL", (), {"from_pretrained": staticmethod(fake_sdxl)}),
+        "StableDiffusionPipeline": type("SD15", (), {"from_pretrained": staticmethod(fail_if_called)})
+    })
+    monkeypatch.setitem(sys.modules, "diffusers", fake_diffusers)
 
     generator = ImageGenerator(model_family="sdxl")
     generator.local_manager.setup_pipeline()
@@ -101,7 +107,8 @@ def test_image_generator_skips_cpu_fallback_by_default(monkeypatch, tmp_path):
             def is_available():
                 return False
 
-    monkeypatch.setattr("art_gen.image_generator.torch", FakeTorch)
+    import sys
+    monkeypatch.setitem(sys.modules, "torch", FakeTorch)
     monkeypatch.setattr("requests.get", lambda *args, **kwargs: (_ for _ in ()).throw(Exception("no api")))
     monkeypatch.delenv("SD_API_URL", raising=False)
     monkeypatch.delenv("ART_ALLOW_CPU_FALLBACK", raising=False)
