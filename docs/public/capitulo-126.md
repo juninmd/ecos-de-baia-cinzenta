@@ -91,13 +91,13 @@ Gabo olhou para ela. Por um segundo, ele viu a máquina. Apenas a máquina.
 
 Aria conectou-se ao painel da porta. As travas giraram.
 
-Gabo passou o braço de Rangel pelo pescoço, içando o homem pesado. Rangel gritou, um som curto e agudo, mas firmou os pés.
+Gabo passou o braço de Rangel pelo pescoço, içando o homem pesado. Os servomotores das órteses de perna de Gabo ganiram em protesto sob a carga repentina, um ruído metálico de engrenagens em atrito. Rangel gritou, um som curto e agudo, mas firmou os pés.
 
 — Vamos — Gabo ordenou.
 
 Eles saíram do "Fliperama" para a escuridão absoluta do túnel principal. Atrás deles, a porta do esconderijo se fechou, selando o pouco de segurança que tiveram.
 
-Gabo não olhou para trás. Ele marchou para a escuridão, arrastando Rangel, seguido pelo zumbido suave dos servos de Aria e pelos passos leves de Valéria. A sirene continuava a uivar lá fora, mas aqui embaixo, o único som era o da respiração deles e o gotejar eterno da cidade chorando sobre suas cabeças.
+Gabo não olhou para trás. Ele marchou para a escuridão, arrastando Rangel, cada passo exigindo um esforço brutal das pernas mecânicas desgastadas, seguido pelo zumbido suave dos servos de Aria e pelos passos leves de Valéria. A sirene continuava a uivar lá fora, mas aqui embaixo, o único som era o da respiração deles e o gotejar eterno da cidade chorando sobre suas cabeças.
 
 A dor no peito de Gabo era constante. O colar. O zumbido fantasma da cidade. A voz de Bia.
 

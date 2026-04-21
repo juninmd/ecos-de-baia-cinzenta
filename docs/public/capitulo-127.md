@@ -35,7 +35,7 @@ Gabo fechou os olhos por um segundo. A memória era falsa. Bia e ele nunca desce
 
 — Isso nunca aconteceu, Aria — Gabo rosnou, ajustando Rangel nos ombros. — Economize bateria. Fique em silêncio.
 
-— Você está bravo — ela observou, com uma tristeza genuína. — Você sempre ficava bravo quando perdia o isqueiro. Mas você não fuma mais, Gabo. Você prometeu.
+— Você está bravo — ela observou, com uma tristeza genuína. — Você sempre ficava bravo quando tinha que prender a respiração, quando sentia aquele cheiro. Mas a fumaça não pode mais te machucar, Gabo. Você prometeu.
 
 Gabo soltou o ar com força pelo nariz. A mão livre foi instintivamente ao peito, apertando o *Colar de Sol* sob a camisa suja. O metal frio mordeu a pele, a dor aguda servindo como âncora. *Não é ela. É um glitche. É um erro de paridade.*
 
