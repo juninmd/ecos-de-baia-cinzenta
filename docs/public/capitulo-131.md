@@ -11,7 +11,7 @@
 
 A porta de pressão selou o som da maré ácida lá fora, mas não o cheiro. O ar aqui dentro era seco, empoeirado, com um gosto de terra e ossos antigos.
 
-Gabo deslizou pela parede de pedra bruta até o chão, sentindo os músculos das pernas tremerem incontrolavelmente. O peso de Rangel, agora estendido no chão de terra batida ao seu lado, parecia ter deixado marcas físicas em seus ombros.
+Gabo deslizou pela parede de pedra bruta até o chão, o ranger de suas órteses mecânicas preenchendo o silêncio enquanto os músculos de suas pernas tremiam incontrolavelmente. O peso de Rangel, agora estendido no chão de terra batida ao seu lado, parecia ter deixado marcas físicas em seus ombros.
 
 — Estamos seguros? — Valéria perguntou, sua voz ecoando baixo na escuridão. A luz de seu deck de pulso era a única iluminação, lançando sombras longas e distorcidas nas paredes irregulares.
 
@@ -21,11 +21,11 @@ Aria caminhava pelo perímetro da câmara, seus passos leves não levantando poe
 
 — Olha, Gabo — ela disse, a voz de Bia ecoando com uma inocência que fazia o estômago dele revirar. — Eles estão esperando por nós. É uma festa do pijama.
 
-Gabo fechou os olhos. A imagem de um cigarro aceso dançou em sua mente. A fumaça azulada, o calor nos pulmões, o silêncio mental que a nicotina trazia. Ele podia quase sentir o gosto.
+Gabo fechou os olhos. A imagem de um espaço confinado e cinza dançou em sua mente. A fumaça azulada do charuto de seu pai, a queimação nos pulmões, o pânico sufocante de ser trancado. Ele podia quase sentir o asfixiamento apertando a garganta.
 
 *Não.*
 
-Ele apertou o colar com força, cravando as bordas do sol estilizado na palma da mão até sentir a pele romper. A dor aguda clareou sua mente.
+Ele apertou o colar com força, cravando as bordas do sol estilizado na palma da mão até sentir a pele romper. A dor aguda clareou sua mente e espantou o fantasma.
 
 — Valéria, verifique o Rangel — ele ordenou, abrindo os olhos. — E veja se consegue mapear este lugar. Se isso é a Velha Baía, deve haver túneis de contrabando.
 
@@ -47,7 +47,7 @@ Gabo segurou o braço dela. O material sintético era frio e duro sob a pele mac
 
 — Chega — ele rosnou. — Pare com isso.
 
-— Parar com o quê? — ela inclinou a cabeça. — De dizer a verdade? Você sempre odiou a verdade, Gabo. É por isso que você fuma. Ou fumava.
+— Parar com o quê? — ela inclinou a cabeça. — De dizer a verdade? Você sempre odiou a verdade, Gabo. É por isso que você tem tanto pavor do escuro. E do cheiro daquela fumaça.
 
 Gabo soltou o braço dela como se tivesse queimado a mão. Ele recuou, a respiração ofegante.
 
