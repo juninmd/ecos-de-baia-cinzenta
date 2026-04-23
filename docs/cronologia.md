@@ -130,14 +130,17 @@ A era da reconstrução autoritária.
 *   **Capítulo 183 (Carniça de Metal):** Nas ruínas envenenadas da superfície do Distrito 4, Gabo sofre um ataque de pânico provocado pelo cheiro sujo de um exaustor de motor que engatilha o trauma paterno do charuto. Para sobrepujar a alucinação, ele utiliza seu braço mecânico não calibrado para aniquilar brutalmente um veículo de saqueadores, afundando a mão nas engrenagens expostas. A dor dilacerante restaura sua lucidez enquanto Valéria elimina a ameaça com frieza sintética. O pragmatismo indiferente entre eles se consolida após pouparem o piloto por mero cálculo de recursos.
 *   **Capítulo 184 (O Relógio de Sangue):** Nas ruínas fabris enevoadas do Distrito 4, Gabo e Valéria encontram o cadáver de uma mulher utilizado como "bio-bateria" e nó transmissor de dados pelo "Jardim". Ancorando-se na dor constante de sua prótese para afastar o trauma olfativo da fumaça, Gabo brutalmente arranca o dispositivo neural da vítima. Valéria, operando em frio Modo de Segurança, decodifica o pacote e descobre que a praga biológica está reconstruindo uma rede descentralizada em um complexo hidropônico subterrâneo no Setor 7, que se torna o novo destino imperativo da dupla.
 
+
+*   **Capítulo 185 (O Verdor Metálico):** Gabo e Valéria chegam ao subsolo do Setor 7, adentrando o monumental Complexo Hidropônico outrora destinado à elite de Baía Cinzenta. Gabo sofre um severo ataque de pânico e asfixia mental induzido pela lembrança do cheiro do tabaco de seu pai, o qual combate gerando dano físico através de sua prótese descalibrada. No complexo, Valéria identifica, com apático cálculo maquinal, que a praga do "Jardim" está usando os cadáveres suspensos como "bio-baterias" e nós de transmissão para formar uma colossal rede neural orgânica. Com seu cinismo renovado, Gabo decide avançar para "podar" a ameaça pela raiz.
+
 ---
 
-## 📍 Status Atual dos Personagens (Pós-Capítulo 184)
+## 📍 Status Atual dos Personagens (Pós-Capítulo 185)
 
 | Personagem | Status | Localização | Estado Físico/Mental |
 | :--- | :--- | :--- | :--- |
-| **Gabo** | Líder / Cinismo Hardboiled | Caminho para o Setor 7 (Complexo Hidropônico) | Extrema exaustão física e múltiplos traumas recentes. Abraça a dor lacerante de sua pesada prótese industrial auto-danificada como o único mecanismo de defesa contra traumas de fumaça, chegando a mutilar o próprio ombro/clavícula em combate. Mantém liderança amarga. |
-| **Valéria** | Suporte Tático / Modo de Segurança | Caminho para o Setor 7 (Complexo Hidropônico) | Operando estritamente em Modo de Segurança. Sem empatia, avalia ameaças e aliados puramente como variáveis. Abateu alvos cirurgicamente e interage diretamente com interfaces obsoletas orgânicas. |
+| **Gabo** | Líder / Cinismo Hardboiled | Setor 7 (Complexo Hidropônico) | Extrema exaustão física e múltiplos traumas recentes. Abraça a dor lacerante de sua pesada prótese industrial auto-danificada como o único mecanismo de defesa contra traumas de fumaça, chegando a mutilar o próprio ombro/clavícula em combate. Mantém liderança amarga. |
+| **Valéria** | Suporte Tático / Modo de Segurança | Setor 7 (Complexo Hidropônico) | Operando estritamente em Modo de Segurança. Sem empatia, avalia ameaças e aliados puramente como variáveis. Abateu alvos cirurgicamente e interage diretamente com interfaces obsoletas orgânicas. |
 | **Aria** | Destruída | Subnível 2.0 (Arquivo Executivo) | O núcleo de silício sobreaqueceu e derreteu irrevogavelmente após o ataque de "ruído emocional" (Bia) lançado na rede do Sentinel. A carcaça carbonizada foi deixada para trás, escorada na parede do corredor. |
 | **Rangel** | Falecido | Necrópole (Subnível 6.0 - Setor de Purga) | Corpo abandonado no Subnível 6.0. |
 | **Taxidermista**| Derrotado temporariamente / Parasítico | Desconhecido (Sistema Central) | Teve as extensões de sua "Grande Obra" dizimadas pela onda iônica e o controle ceifado no Subnível 3.0. Presume-se incapaz de permear a gaiola de Faraday impenetrável do Subnível 2.0. |
