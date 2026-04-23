@@ -11,7 +11,7 @@
 
 O silêncio que se seguiu à violência foi mais perturbador do que os gritos. No Ateliê do Taxidermista, o único som era o gotejar rítmico de fluido hidráulico dos Guardiões desmembrados, batendo nos azulejos como um metrônomo quebrado.
 
-Gabo encostou-se na bancada de aço, o ombro latejando em uma frequência que fazia seus dentes doerem. Ele levou a mão ao peito, não para verificar o coração, mas para pressionar o "Colar de Sol" contra a pele suada. As pontas de metal morderam a carne, uma dor aguda e limpa que cortou através da névoa de adrenalina e exaustão. Ele precisava disso. A vontade de fumar era um fantasma gritando em seu cérebro, exigindo a nicotina que ele recusava há anos. A dor era o substituto. A dor era real.
+Gabo encostou-se na bancada de aço, o ombro latejando em uma frequência que fazia seus dentes doerem. Ele levou a mão ao peito, não para verificar o coração, mas para pressionar o "Colar de Sol" contra a pele suada. As pontas de metal morderam a carne, uma dor aguda e limpa que cortou através da névoa de adrenalina e exaustão. Ele precisava daquela dor. O cheiro de queimado e produtos químicos despertava a alucinação sufocante do charuto de seu pai, fechando sua garganta. A dor do colar era o único antídoto contra o pânico da asfixia. A dor era real e mantinha as pernas mecânicas firmes sob seu peso.
 
 — Relatório de status — a voz de Aria cortou o ar. Não havia inflexão, nem curiosidade. Apenas dados.
 

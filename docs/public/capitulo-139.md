@@ -37,7 +37,7 @@ Aria voou três metros, colidindo contra uma vitrine de vidro blindado. Ela caiu
 
 — Eles compartilham a visão — Valéria disse, os dedos voando sobre o deck holográfico de pulso. Seus olhos cibernéticos giravam freneticamente, processando o fluxo de dados do ambiente. — É uma rede *mesh* fechada. Eu não consigo entrar! A criptografia é biológica.
 
-Gabo bloqueou outro golpe, o vergalhão entortando perigosamente. Ele estava suando frio. O ar reciclado estava começando a cheirar a ozônio e sangue. Ele queria fumar. Deus, como ele queria fumar. A ansiedade era um inseto rastejando sob sua pele. Ele largou uma mão do vergalhão por um segundo e apertou o *Colar de Sol* no peito. As pontas de metal morderam a carne.
+Gabo bloqueou outro golpe, o vergalhão entortando perigosamente. Ele estava suando frio. O ar reciclado estava começando a cheirar a ozônio e sangue. O cheiro ativou a memória traumática da asfixia; a sombra da fumaça do charuto de seu pai fechou sua garganta. A ansiedade era um inseto rastejando sob sua pele. Ele largou uma mão do vergalhão por um segundo e apertou o *Colar de Sol* no peito. As pontas de metal morderam a carne, a dor aguda dissipando a alucinação e ancorando-o de volta à luta.
 
 *Dor é foco. Fumaça é fraqueza.*
 

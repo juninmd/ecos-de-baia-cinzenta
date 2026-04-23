@@ -243,3 +243,90 @@ Este arquivo mantém o controle de progresso sobre o processo de revisão, adequ
 - [x] **Capítulo 129: Fluxo Reverso** - Revisado. Adicionado menções explícitas ao desgaste das engrenagens e servomotores das órteses de Gabo para consistência do lore sobre suas limitações físicas. Remoção da frase que atrelava Gabo ao vício de cigarro, substituindo pela memória traumática de asfixia que ele neutraliza com o Colar de Sol. Arquivo de análise criado.
 - [x] **Capítulo 130: Saturação** - Revisado. Violação grave de lore corrigida: Gabo tentava usar nicotina como silenciador para a culpa, o que foi substituído pelo pânico fóbico e repulsa do cheiro do charuto do pai. Foram incluídas descrições da tensão nas órteses mecânicas durante a escalada da escada. Arquivo de análise criado.
 - [x] **Capítulo 131: Necrópole** - Revisado. Corrigida quebra de lore (vício de cigarro novamente transformado em terror sufocante atrelado à figura paterna). Alterado diálogo de Aria para focar em seu pânico, em vez de provocá-lo sobre ser fumante. Reforçada a descrição das próteses de perna. Arquivo de análise criado.
+
+## Lote 44: Capítulos 132 a 134
+- [x] **Capítulo 132: Esculturas de Carne** - Revisado. A infração gravíssima de Gabo ter "vontade de fumar" (contradizendo seu severo trauma fóbico de fumaça) foi corrigida para representar uma alucinação de asfixia que ele neutraliza usando a dor do Colar de Sol. Arquivo de análise criado.
+- [x] **Capítulo 133: Teatro de Sombras** - Revisado. Desejo errôneo de fumo do protagonista alterado para repulsa biológica através de uma alucinação sensorial que ele espanta com dor. Adicionado ranger de suas pernas mecânicas para ancorar o contexto físico. Arquivo de análise criado.
+- [x] **Capítulo 134: Vale da Estranheza** - Revisado. Capítulo coeso sem infrações de lore identificadas. A personalidade purgada de "Bia" em Aria avança corretamente na forma de "máquina pura". Arquivo de análise criado.
+
+## Lote 45: Capítulos 135 a 137
+- [x] **Capítulo 135: Otimização de Perdas** - Revisado. Contradição grotesca consertada (Gabo implorando por "nicotina e cigarro"). Trocado pelo ataque de pânico sufocante do charuto e a necessidade de se ancorar usando a dor. Inseridas descrições das pernas mecânicas. Arquivo de análise criado.
+- [x] **Capítulo 136: Arquitetura do Abismo** - Revisado. Outra violação grosseira resolvida ("Ele precisava de nicotina"). Transformado corretamente no pavor fóbico asfixiante que ele lida machucando a si próprio com as pontas de seu colar. Arquivo de análise criado.
+- [x] **Capítulo 137: Natureza Morta** - Revisado. Sem ocorrências de quebra de fobia. Combate sujo e tático condizente. Arquivo de análise criado.
+
+## Lote 46: Capítulos 138 a 140
+- [x] **Capítulo 138: O Tríptico de Sangue** - Revisado. Sem violações do trauma de asfixia. Arquivo de análise criado.
+- [x] **Capítulo 139: O Maestro da Agonia** - Revisado. Corrigida passagem inaceitável ("Ele queria fumar. Deus, como ele queria fumar"). Redirecionado para o gatilho da lembrança do charuto asfixiante e o choque focado de dor física usando seu Colar de Sol. Arquivo de análise criado.
+- [x] **Capítulo 140: Ponto de Fusão** - Revisado. Múltiplas reincidências do delírio do "desejo de fumar" retificadas, transformadas em asfixia fóbica com alucinações de fumaça espessa, anuladas ativamente pela dor escaldante infligida pelas suas próprias mãos no colar. Inserido o ranger falho de suas próteses de perna pelo esforço físico. Arquivo de análise criado.
+
+## Lote 47: Capítulos 141 a 143
+- [x] **Capítulo 141: Raízes Amargas** - Revisado. Os gatilhos referentes à fumaça são perfeitamente tratados como alucinações fóbicas relacionadas ao trauma na infância de Gabo. A dor das queimaduras das mãos atua como excelente âncora material, seguindo rigorosamente o lore. Arquivo de análise criado.
+- [x] **Capítulo 142: Veias de Vidro** - Revisado. Sem violações identificadas. O cheiro ambiente induz fobia e náusea, nunca o desejo por um cigarro. Arquivo de análise criado.
+- [x] **Capítulo 143: Vértigem de Sílica** - Revisado. Fiel ao lore. Combate aéreo/escalada coerente com as habilidades de cada personagem; a repulsa de Gabo à fumaça (e sua defesa através do tato com o metal frio) está impecável. Arquivo de análise criado.
+
+## Lote 48: Capítulos 144 a 146
+- [x] **Capítulo 144: Carga Morta** - Revisado. A fobia segue intacta. Gabo usa a dor intensa da mão para suprimir a alucinação nauseante de fumaça, sem qualquer desejo atrelado a vícios. O comportamento frio de Aria também reflete bem o estado atual da trama. Arquivo de análise criado.
+- [x] **Capítulo 145: Portão de Sangue** - Revisado. Sem violações do lore. A temática de asfixia, combatida pelo foco no sacrifício doloroso de sua própria mão, garante o isolamento do trauma de fumo. Arquivo de análise criado.
+- [x] **Capítulo 146: Choque Hipovolêmico** - Revisado. Totalmente coerente. O cheiro do local atua como lembrança adversa e aversiva (repulsa fóbica). O choque biológico de Gabo impõe boas consequências táticas à trama. Arquivo de análise criado.
+
+## Lote 49: Capítulos 147 a 149
+- [x] **Capítulo 147: O Peso da Irracionalidade** - Revisado. Completamente livre de infrações de lore. Gabo continua rejeitando fumaça com repulsa e dor autoinfligida nas mãos queimadas. Arquivo de análise criado.
+- [x] **Capítulo 148: Ratos em Dutos de Ferrugem** - Revisado. O terror do choque hipovolêmico de Gabo funciona bem com as alucinações asfixiantes. Valéria atua coerentemente fora de seu deck de hacker por necessidade. Arquivo de análise criado.
+- [x] **Capítulo 149: Passarela de Biomassa** - Revisado. Respeito ao lore do trauma fóbico, do desgaste e fadiga extremos. As restrições da perna mecânica e da debilidade física sob choque alinham as ameaças da cena. Arquivo de análise criado.
+
+## Lote 50: Capítulos 150 a 152
+- [x] **Capítulo 150: Peso Morto** - Revisado. Conclusão coerente da utilidade da biomassa (Rangel). Nenhuma infração fóbica detectada para Gabo. Arquivo de análise criado.
+- [x] **Capítulo 151: O Cálculo Frio da Sobrevivência** - Revisado. Trama perfeitamente embasada. Gabo mantém sua repulsa biológica através de seu uso punitivo da dor no colar/metal e alucinações. Arquivo de análise criado.
+- [x] **Capítulo 152: Engrenagens de Gelo** - Revisado. Consistente. Transição para dano ambiental por frio, com Gabo mantendo sua resistência via autopunição somática para afastar asfixia/fobia. Arquivo de análise criado.
+
+## Lote 51: Capítulos 153 a 155
+- [x] **Capítulo 153: Purga Térmica** - Revisado. Combate à hipotermia e alucinações da fobia mantêm-se coerentes usando a dor do frio extremo como antídoto da alucinação. Arquivo de análise criado.
+- [x] **Capítulo 154: Caça Subterrânea** - Revisado. Placeholder/resumo coerentes com lore de fobia. Arquivo de análise criado.
+- [x] **Capítulo 155: Cauterização** - Revisado. A cauterização das feridas por maçarico atua como "reset" brutal da dor contra as alucinações de sufocamento que a fobia causa no protagonista. Lore perfeito. Arquivo de análise criado.
+
+## Lote 52: Capítulos 156 a 158
+- [x] **Capítulo 156: Trilha de Ferro** - Revisado. Subida do vagão e progressão narrativa corretas e com trauma de asfixia bem modelado na escrita. Arquivo de análise criado.
+- [x] **Capítulo 157: Impacto** - Revisado. Cena de forte tensão em que Gabo neutraliza a asfixia psicológica esmagando os próprios tocos de pele cauterizada. O sacrifício do maquinário de fuga salva a equipe. Arquivo de análise criado.
+- [x] **Capítulo 158: Ecos de Aço** - Revisado. Sem violações. Arquivo de análise criado.
+
+## Lote 53: Capítulos 159 a 161
+- [x] **Capítulo 159: Veias de Biomassa** - Revisado. Combate a alucinações nauseantes engatilhadas pelo cheiro químico são blindadas pelo próprio Gabo auto infligindo dor contra os racks dos servidores inativos. Lore seguro. Arquivo de análise criado.
+- [x] **Capítulo 160: Purga Iônica** - Revisado. Fobia como debuff mental combatido pela autopunição de ser isca letal. Funciona plenamente. Arquivo de análise criado.
+- [x] **Capítulo 161: Cinzas Digitais** - Revisado. Placeholder verificado, limpo de violações de vício de personagem. Arquivo de análise criado.
+
+## Lote 54: Capítulos 162 a 163 (Fim dos placeholders)
+- [x] **Capítulo 162: Engrenagens Corrompidas** - Revisado. Subida do vagão mantida consistente com Gabo ancorando sua mente usando seus braços (mutilados) no metal do túnel de ventilação, reprimindo as alucinações de asfixia (fumaça). Arquivo de análise criado.
+- [x] **Capítulo 163: O Abismo do Elevador** - Revisado. Progressão limpa sem problemas com o trauma base de Gabo, o qual se encontra bem definido e lidado. Arquivo de análise criado.
+
+## Lote 55: Capítulos 167 a 169
+- [x] **Capítulo 167: Fúria Silenciosa** - Revisado. Respeito integral à fobia (Gabo reconhecendo a dor como barreira contra a fumaça de Dante, sem desejo de fumar). Arquivo de análise criado.
+- [x] **Capítulo 168: Ecos no Vazio** - Revisado. Mantém as restrições fóbicas impecáveis. Gabo joga o ombro amputado contra a estante de dados para estilhaçar a alucinação sufocante. Arquivo de análise criado.
+- [x] **Capítulo 169: O Jardim Suspenso** - Revisado. Uso excelente do terror somático (asfixia por tabaco fantasma de Dante) combatido com agressão contra o próprio corpo na mesa de aço e vidro. Arquivo de análise criado.
+
+## Lote 56: Capítulos 170 a 172
+- [x] **Capítulo 170: Tela Azul** - Revisado. Fobia validada e contida pela dor no cotoco vivo, encerramento do *Wetware* coerente. Arquivo de análise criado.
+- [x] **Capítulo 171: Saguão de Cinzas** - Revisado. Sem desvios do lore base (alucinações sufocantes e punição do cotoco no concreto). Arquivo de análise criado.
+- [x] **Capítulo 172: Chuva Ácida** - Revisado. Trama perfeitamente embasada. Gabo mantém sua repulsa biológica através de seu uso punitivo na lataria enferrujada e decide seguir para o Distrito 4 (Clínica do Vasco). Arquivo de análise criado.
+
+## Lote 57: Capítulos 173 a 175
+- [x] **Capítulo 173: O Peso do Abismo** - Revisado. Coerente. Uso da punição auto infligida para manter sanidade diante do pavor da fumaça engatilhada por fogueiras químicas. Arquivo de análise criado.
+- [x] **Capítulo 174: Agulha e Fio de Cobre** - Revisado. Clínica estéril favorece o bem-estar psicológico de Gabo (afastado de fumaça). A dor do laser serve como excelente âncora de lucidez em vez de gatilho para vícios (inexistentes). Arquivo de análise criado.
+- [x] **Capítulo 175: O Som das Engrenagens Mortas** - Revisado. Alinhado com a memory base; instalação bruta da prótese pesada de Gabo para aguentar dor contra fobia, com o reboot da Valéria em Safe Mode. Arquivo de análise criado.
+
+## Lote 58: Capítulos 176 a 178
+- [x] **Capítulo 176: O Peso da Ferrugem** - Expandido do rascunho para narrativa plena. Fiel ao trauma da fumaça (dor elétrica neurológica contendo a asfixia mental), às restrições de movimento (peso, pernas mecânicas) e ao "Safe Mode" de Valéria. Arquivo de análise criado.
+- [x] **Capítulo 177: Cicatrizes de Cobre** - Expandido. Cena de rua mostrando o terror psicológico contido por brutalidade física de Gabo e a neutralidade gélida de Valéria. Lore impecável. Arquivo de análise criado.
+- [x] **Capítulo 178: O Som do Subterrâneo** - Expandido para capítulo completo. O ambiente do metrô engatilha o trauma da asfixia (tabaco fantasma), rompido pela autolesão controlada do braço mecânico de chumbo. Valéria sem emoção diagnostica os danos organicamente letais. Arquivo de análise criado.
+
+## Lote 59: Capítulos 179 a 181
+- [x] **Capítulo 179: Ecos de Aço e Ferrugem** - Expandido para texto pleno. Fiel ao embate das alucinações de asfixia, superadas por tensão em um curto na fiação do braço. Lore do Jardim reintroduzido. Arquivo de análise criado.
+- [x] **Capítulo 180: A Fome do Abismo** - Expandido para texto pleno. A repulsa somática da fobia fumaça se faz presente e é esmagada pela âncora da dor extrema no braço não calibrado. Lógica de Valéria exposta contra a ação agressiva de Gabo para abrir caminho nos dutos. Arquivo de análise criado.
+- [x] **Capítulo 181: Pedágio Fantasma** - Expandido para texto pleno. Gatilho fechado da claustrofobia vira sufocamento mental quebrado pela dor pura de um choque elétrico intencional. Perdas táticas em prol de manutenção moral. Arquivo de análise criado.
+
+## Lote 60: Capítulos 182 a 184
+- [x] **Capítulo 182: A Superfície Pálida** - Expandido do rascunho. Gabo combate a alucinação fóbica gerada por fuligem forçando conscientemente seu ombro contra um vergalhão. Atitude coerente e dramática. Arquivo de análise criado.
+- [x] **Capítulo 183: Carniça de Metal** - Expandido. Gabo enfia a pesada prótese em um motor ligado para induzir dor e evitar sufocamento por fumaça, gerando ação de combate em conjunto com a Valéria estéril. Arquivo de análise criado.
+- [x] **Capítulo 184: O Relógio de Sangue** - Expandido. Progressão limpa explorando o terror orgânico do Jardim que utiliza bio-baterias. Fobia controlada através da dor auto induzida nas costas e prótese. Arquivo de análise criado.
+
+## Lote 61: Capítulo 185
+- [x] **Capítulo 185: O Verdor Metálico** - Revisado. O capítulo segue com extrema qualidade todo o preceito do lore do personagem, do peso biológico com as bio-baterias até o uso do punho mecânico contra o metal para gerar a dor salvadora da sanidade. Arquivo de análise criado. Revisão da obra completa (até Cap. 185).

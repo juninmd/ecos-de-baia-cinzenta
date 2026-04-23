@@ -91,15 +91,15 @@ O peso era brutal. Gabo sentiu os músculos das costas gritarem. O suor escorria
 
 Lá embaixo, Aria segurava a maca com as mãos levantadas, mantendo-a nivelada com uma precisão mecânica enquanto ela descia.
 
-Quando finalmente a maca tocou o chão úmido, Gabo soltou o ar que nem percebeu que estava prendendo. Ele se encostou na parede, tremendo de exaustão.
+Quando finalmente a maca tocou o chão úmido, Gabo soltou o ar que nem percebeu que estava prendendo. Ele se encostou na parede, tremendo de exaustão, as pernas mecânicas rangendo pelo esforço.
 
 — Conseguimos — Valéria sussurrou, limpando o suor da testa.
 
-Gabo desceu pela parede, escorregando até o chão para recuperar o fôlego antes de encarar a descida. Ele olhou para suas mãos. Estavam tremendo. Não de medo, mas de fraqueza. Ele precisava de nicotina. Seu corpo implorava por isso.
+Gabo desceu pela parede, escorregando até o chão para recuperar o fôlego antes de encarar a descida. Ele olhou para suas mãos. Estavam tremendo. Não de medo, mas pelo pânico residual e o cansaço. A fobia batia contra seu peito, uma lembrança sufocante de charuto e asfixia pronta para engolfá-lo.
 
 *Não.*
 
-Ele fechou o punho sobre o colar. A dor aguda das pontas de metal perfurando a pele da palma da mão foi um choque de realidade. *Eu sou mais forte que o vício. Eu sou mais forte que a dor.*
+Ele fechou o punho sobre o colar. A dor aguda das pontas de metal perfurando a pele da palma da mão foi um choque de realidade. *Eu sou mais forte que o trauma. Eu sou mais forte que a alucinação.*
 
 — Movimento detectado no setor norte — Aria avisou lá de baixo.
 
