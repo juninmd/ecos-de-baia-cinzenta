@@ -17,6 +17,10 @@ A era da reconstrução autoritária.
 *   **A Nova Ordem:** **Dante Moretti**, o pai de Gabo, retorna não como um homem, mas como a "Voz da Cidade". Ele funde o biológico e o digital para impor uma paz absoluta e aterrorizante. Gabo e a resistência precisam lidar com um ditador que não usa armas, mas sim a própria infraestrutura urbana.
 *   **O Conflito:** Enquanto Dante busca "sanitizar" a desordem (humana e digital), uma nova força surge no Porto: o "Silêncio", uma zona morta protegida por Aria, onde a vigilância de Dante não alcança.
 
+*   **Capítulo 188 (O Abismo de Aço):** Gabo e Valéria descem o longo fosso do elevador até o Arquivo Executivo por cabos de aço desgastados. O ambiente fechado aciona a asfixia psicológica por alucinação (fumaça do charuto paterno) em Gabo, que usa a dor de esmagar o próprio ombro no concreto do túnel para manter sua mente presa à realidade. Valéria avalia os danos lógicos em apatia de Safe Mode.
+*   **Capítulo 189 (A Sentinela de Biomassa):** No duto de manutenção do Arquivo, Gabo e Valéria encontram antigas forças de segurança cibernéticas convertidas em "bio-baterias" pulsantes na teia biológica do Jardim. Sob ameaça botânica armada, Gabo afasta os pavores sufocantes do odor opressivo usando a brutalidade autoinfligida de um choque cinético para não enlouquecer. Valéria hackeia letargicamente os portões para que eles entrem no núcleo.
+*   **Capítulo 190 (O Relicário de Silício):** No coração do Arquivo Executivo de Silas Vance, a dupla descobre a extensão real do parasita: fundindo mentes humanas putrefatas com os servidores da Aeterna para hackear as comunicações sistêmicas via impulsos nervosos de dor. Gabo sofre o último colapso fóbico provocado pelo confinamento fedorento, que é rompido ao eletrocutar propositalmente sua prótese nos terminais expostos da parede para restaurar a lucidez. Valéria calcula estritamente que a única saída é a purga térmica destruindo o servidor pela fornalha.
+
 ---
 
 ## ⏳ Linha do Tempo Detalhada
@@ -141,12 +145,12 @@ A era da reconstrução autoritária.
 
 ---
 
-## 📍 Status Atual dos Personagens (Pós-Capítulo 186)
+## 📍 Status Atual dos Personagens (Pós-Capítulo 190)
 
 | Personagem | Status | Localização | Estado Físico/Mental |
 | :--- | :--- | :--- | :--- |
-| **Gabo** | Líder / Cinismo Hardboiled | Setor 7 (Acesso ao Arquivo Executivo) | Extrema exaustão física e múltiplos traumas recentes. Abraça a dor lacerante de sua pesada prótese industrial auto-danificada (incluindo autoeletrocussão) como o único mecanismo de defesa contra traumas de fumaça. Mantém liderança amarga. |
-| **Valéria** | Suporte Tático / Modo de Segurança | Setor 7 (Acesso ao Arquivo Executivo) | Operando estritamente em Modo de Segurança. Sem empatia, avalia ameaças e aliados puramente como variáveis matemáticas. |
+| **Gabo** | Líder / Cinismo Hardboiled | Setor 7 (Núcleo do Arquivo Executivo) | Extrema exaustão física e múltiplos traumas recentes. Abraça a dor lacerante de sua pesada prótese industrial auto-danificada (incluindo autoeletrocussão de alta voltagem) como o único mecanismo de defesa contra traumas de fumaça. Mantém liderança amarga no iminente embate suicida. |
+| **Valéria** | Suporte Tático / Modo de Segurança | Setor 7 (Núcleo do Arquivo Executivo) | Operando estritamente em Modo de Segurança. Sem empatia, avalia ameaças e aliados puramente como variáveis matemáticas. Identificou a necessidade de purga térmica. |
 | **Aria** | Destruída | Subnível 2.0 (Arquivo Executivo) | O núcleo de silício sobreaqueceu e derreteu irrevogavelmente após o ataque de "ruído emocional" (Bia) lançado na rede do Sentinel. A carcaça carbonizada foi deixada para trás, escorada na parede do corredor. |
 | **Rangel** | Falecido | Necrópole (Subnível 6.0 - Setor de Purga) | Corpo abandonado no Subnível 6.0. |
 | **Taxidermista**| Derrotado temporariamente / Parasítico | Desconhecido (Sistema Central) | Teve as extensões de sua "Grande Obra" dizimadas pela onda iônica e o controle ceifado no Subnível 3.0. Presume-se incapaz de permear a gaiola de Faraday impenetrável do Subnível 2.0. |
