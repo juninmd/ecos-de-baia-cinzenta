@@ -328,5 +328,6 @@ Este arquivo mantém o controle de progresso sobre o processo de revisão, adequ
 - [x] **Capítulo 183: Carniça de Metal** - Expandido. Gabo enfia a pesada prótese em um motor ligado para induzir dor e evitar sufocamento por fumaça, gerando ação de combate em conjunto com a Valéria estéril. Arquivo de análise criado.
 - [x] **Capítulo 184: O Relógio de Sangue** - Expandido. Progressão limpa explorando o terror orgânico do Jardim que utiliza bio-baterias. Fobia controlada através da dor auto induzida nas costas e prótese. Arquivo de análise criado.
 
-## Lote 61: Capítulo 185
+## Lote 61: Capítulo 185 a 187
 - [x] **Capítulo 185: O Verdor Metálico** - Revisado. O capítulo segue com extrema qualidade todo o preceito do lore do personagem, do peso biológico com as bio-baterias até o uso do punho mecânico contra o metal para gerar a dor salvadora da sanidade. Arquivo de análise criado. Revisão da obra completa (até Cap. 185).
+- [x] **Capítulo 186: Raízes de Silício** - Revisado. O capítulo integra corretamente o trauma com dor e mantém a recontextualização das bio-baterias perfeitamente engatadas no plot (arquivo executivo). Arquivo de análise criado. Revisão da obra completa (até Cap. 186).

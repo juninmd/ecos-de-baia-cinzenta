@@ -133,9 +133,12 @@ A era da reconstrução autoritária.
 
 *   **Capítulo 185 (O Verdor Metálico):** Gabo e Valéria chegam ao subsolo do Setor 7, adentrando o monumental Complexo Hidropônico outrora destinado à elite de Baía Cinzenta. Gabo sofre um severo ataque de pânico e asfixia mental induzido pela lembrança do cheiro do tabaco de seu pai, o qual combate gerando dano físico através de sua prótese descalibrada. No complexo, Valéria identifica, com apático cálculo maquinal, que a praga do "Jardim" está usando os cadáveres suspensos como "bio-baterias" e nós de transmissão para formar uma colossal rede neural orgânica. Com seu cinismo renovado, Gabo decide avançar para "podar" a ameaça pela raiz.
 
+
+*   **Capítulo 186 (Raízes de Silício):** No núcleo do Complexo Hidropônico, a degradação tecnológica se mistura à infestação do "Jardim", que usa cadáveres como nós de processamento biológico. Gabo avança combatendo asfixia alucinatória (fumaça de cravo) cravando peças enferrujadas em seu ombro mutilado. Valéria, operando como pura máquina de cálculo em *Safe Mode*, deduz que a praga não busca apenas sobrevivência, mas computação de dados via respostas de estresse cerebral. Gabo destrói fisicamente o firewall biológico com a prótese pesada, liberando a rede e revelando que a praga tem como objetivo a reativação do Arquivo Executivo.
+
 ---
 
-## 📍 Status Atual dos Personagens (Pós-Capítulo 185)
+## 📍 Status Atual dos Personagens (Pós-Capítulo 186)
 
 | Personagem | Status | Localização | Estado Físico/Mental |
 | :--- | :--- | :--- | :--- |
