@@ -21,13 +21,13 @@ Era um matadouro.
 
 — O Ateliê — Aria disse. A voz dela era a de uma criança maravilhada em uma loja de brinquedos. Bia. — Ele sempre quis um espaço maior. O sótão na Torre do Relógio era... apertado.
 
-Gabo parou, ofegante. O suor frio escorria por suas costas, misturando-se à sujeira do esgoto. Ele largou a correia da maca e pressionou a testa contra o azulejo frio da parede. A vontade de fumar veio como um soco no estômago, uma náusea violenta que fez seus joelhos tremerem.
+Gabo parou, ofegante. O suor frio escorria por suas costas, misturando-se à sujeira do esgoto. As pernas mecânicas rangiam sob o peso acumulado da descida. Ele largou a correia da maca e pressionou a testa contra o azulejo frio da parede. O cheiro de produtos químicos e morte desencadeou a velha fobia. A ilusão de uma nuvem espessa de fumaça sufocante fechou-se sobre ele, uma náusea violenta que fez seus joelhos tremerem.
 
-*Só um trago. Só para limpar o gosto de cobre da boca.*
+*Não... eu não estou trancado no carro... Não é o charuto dele.*
 
-Ele levou a mão ao peito, apertando o "Colar de Sol" através da camisa suja. O metal mordeu a pele, uma dor aguda e necessária.
+Ele levou a mão ao peito, apertando o "Colar de Sol" através da camisa suja. O metal mordeu a pele, uma dor aguda e necessária para espantar a alucinação de asfixia.
 
-— Não — ele rosnou para o vazio. — Não hoje.
+— Não — ele rosnou, o ar voltando aos pulmões. — Não hoje.
 
 — Gabo? — A voz de Aria mudou de tom. Ficou mais grave, mais tática. O glitch recuando por um segundo. — Assinaturas térmicas múltiplas à frente. Estáticas. Temperatura ambiente. Não são vivos.
 

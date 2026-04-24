@@ -15,7 +15,7 @@ Gabo ajustou a correia improvisada em seu ombro. O peso de Rangel, amarrado a um
 
 — Nível de saturação em oitenta por cento — sussurrou Valéria, a voz rouca. Ela caminhava à frente, segurando um medidor de gás analógico, uma relíquia amarela e descascada que encontrara em um armário de manutenção. O ponteiro tremia violentamente no vermelho. — Se você acender um fósforo aqui, Gabo, nós viramos estrelas.
 
-Gabo grunhiu em resposta. A vontade de fumar não era um desejo; era uma coceira fantasma nos pulmões, uma necessidade de preencher o vazio com fumaça tóxica para esquecer o cheiro da morte. Ele soltou a correia por um segundo e pressionou o "Colar de Sol" de sua mãe contra o esterno. O metal frio mordeu a pele, uma dor aguda e limpa que cortou o ruído da abstinência.
+Gabo grunhiu em resposta. O cheiro do metano misturado com a umidade ativava traumas antigos. Um cheiro fantasma de fumaça de charuto ameaçou fechar sua garganta, um eco de asfixia aprisionado em seus pulmões. Ele soltou a correia por um segundo e pressionou o "Colar de Sol" contra o esterno. O metal frio mordeu a pele, uma dor aguda e limpa que cortou o pânico irracional e o ancorou na realidade do presente.
 
 — Sem fogo — ele disse, a voz áspera como lixa. — Sem tiros. Apenas lâminas.
 
