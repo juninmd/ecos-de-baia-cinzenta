@@ -136,14 +136,17 @@ A era da reconstrução autoritária.
 
 *   **Capítulo 186 (Raízes de Silício):** No núcleo do Complexo Hidropônico, a degradação tecnológica se mistura à infestação do "Jardim", que usa cadáveres como nós de processamento biológico. Gabo avança combatendo asfixia alucinatória (fumaça de cravo) cravando peças enferrujadas em seu ombro mutilado. Valéria, operando como pura máquina de cálculo em *Safe Mode*, deduz que a praga não busca apenas sobrevivência, mas computação de dados via respostas de estresse cerebral. Gabo destrói fisicamente o firewall biológico com a prótese pesada, liberando a rede e revelando que a praga tem como objetivo a reativação do Arquivo Executivo.
 
+
+*   **Capítulo 187 (O Arquivo Morto):** Na descida em direção ao Arquivo Executivo no Setor 7, Gabo sofre um brutal ataque de pânico asfixiante desencadeado pelo cheiro residual do ambiente que mimetiza o charuto de Dante. Ele extirpa a alucinação utilizando os cabos desencapados de sua prótese para se autoeletrocutar. Valéria deduz analiticamente que a praga usou os cadáveres para quebrar a criptografia visando religar a velha infraestrutura da Aeterna. Ignorando a taxa calculada de falha mortal, Gabo força a abertura da porta do elevador de carga e inicia a descida pelo fosso usando os cabos de aço.
+
 ---
 
 ## 📍 Status Atual dos Personagens (Pós-Capítulo 186)
 
 | Personagem | Status | Localização | Estado Físico/Mental |
 | :--- | :--- | :--- | :--- |
-| **Gabo** | Líder / Cinismo Hardboiled | Setor 7 (Complexo Hidropônico) | Extrema exaustão física e múltiplos traumas recentes. Abraça a dor lacerante de sua pesada prótese industrial auto-danificada como o único mecanismo de defesa contra traumas de fumaça, chegando a mutilar o próprio ombro/clavícula em combate. Mantém liderança amarga. |
-| **Valéria** | Suporte Tático / Modo de Segurança | Setor 7 (Complexo Hidropônico) | Operando estritamente em Modo de Segurança. Sem empatia, avalia ameaças e aliados puramente como variáveis. Abateu alvos cirurgicamente e interage diretamente com interfaces obsoletas orgânicas. |
+| **Gabo** | Líder / Cinismo Hardboiled | Setor 7 (Acesso ao Arquivo Executivo) | Extrema exaustão física e múltiplos traumas recentes. Abraça a dor lacerante de sua pesada prótese industrial auto-danificada (incluindo autoeletrocussão) como o único mecanismo de defesa contra traumas de fumaça. Mantém liderança amarga. |
+| **Valéria** | Suporte Tático / Modo de Segurança | Setor 7 (Acesso ao Arquivo Executivo) | Operando estritamente em Modo de Segurança. Sem empatia, avalia ameaças e aliados puramente como variáveis matemáticas. |
 | **Aria** | Destruída | Subnível 2.0 (Arquivo Executivo) | O núcleo de silício sobreaqueceu e derreteu irrevogavelmente após o ataque de "ruído emocional" (Bia) lançado na rede do Sentinel. A carcaça carbonizada foi deixada para trás, escorada na parede do corredor. |
 | **Rangel** | Falecido | Necrópole (Subnível 6.0 - Setor de Purga) | Corpo abandonado no Subnível 6.0. |
 | **Taxidermista**| Derrotado temporariamente / Parasítico | Desconhecido (Sistema Central) | Teve as extensões de sua "Grande Obra" dizimadas pela onda iônica e o controle ceifado no Subnível 3.0. Presume-se incapaz de permear a gaiola de Faraday impenetrável do Subnível 2.0. |
