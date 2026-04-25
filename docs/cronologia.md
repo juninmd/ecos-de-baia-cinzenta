@@ -138,10 +138,12 @@ A era da reconstrução autoritária.
 
 
 *   **Capítulo 187 (O Arquivo Morto):** Na descida em direção ao Arquivo Executivo no Setor 7, Gabo sofre um brutal ataque de pânico asfixiante desencadeado pelo cheiro residual do ambiente que mimetiza o charuto de Dante. Ele extirpa a alucinação utilizando os cabos desencapados de sua prótese para se autoeletrocutar. Valéria deduz analiticamente que a praga usou os cadáveres para quebrar a criptografia visando religar a velha infraestrutura da Aeterna. Ignorando a taxa calculada de falha mortal, Gabo força a abertura da porta do elevador de carga e inicia a descida pelo fosso usando os cabos de aço.
+*   **Capítulo 188 (O Abismo de Aço):** Na descida pelo fosso do elevador até o Arquivo Executivo, Gabo é paralisado por um severo ataque de pânico asfixiante causado pelo cheiro fantasma dos charutos do pai. Para quebrar a alucinação, ele rasga intencionalmente sua prótese industrial contra o concreto da parede, usando o atrito agonizante como punição para manter a sanidade. Valéria calcula estática e impassivelmente as chances de falha mecânica, e os dois alcançam a porta selada do Arquivo Inferior, já parcialmente assimilada pelo "Jardim".
+
 
 ---
 
-## 📍 Status Atual dos Personagens (Pós-Capítulo 186)
+## 📍 Status Atual dos Personagens (Pós-Capítulo 188)
 
 | Personagem | Status | Localização | Estado Físico/Mental |
 | :--- | :--- | :--- | :--- |
