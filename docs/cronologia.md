@@ -139,16 +139,19 @@ A era da reconstrução autoritária.
 
 *   **Capítulo 187 (O Arquivo Morto):** Na descida em direção ao Arquivo Executivo no Setor 7, Gabo sofre um brutal ataque de pânico asfixiante desencadeado pelo cheiro residual do ambiente que mimetiza o charuto de Dante. Ele extirpa a alucinação utilizando os cabos desencapados de sua prótese para se autoeletrocutar. Valéria deduz analiticamente que a praga usou os cadáveres para quebrar a criptografia visando religar a velha infraestrutura da Aeterna. Ignorando a taxa calculada de falha mortal, Gabo força a abertura da porta do elevador de carga e inicia a descida pelo fosso usando os cabos de aço.
 *   **Capítulo 188 (O Abismo de Aço):** Na descida pelo fosso do elevador até o Arquivo Executivo, Gabo é paralisado por um severo ataque de pânico asfixiante causado pelo cheiro fantasma dos charutos do pai. Para quebrar a alucinação, ele rasga intencionalmente sua prótese industrial contra o concreto da parede, usando o atrito agonizante como punição para manter a sanidade. Valéria calcula estática e impassivelmente as chances de falha mecânica, e os dois alcançam a porta selada do Arquivo Inferior, já parcialmente assimilada pelo "Jardim".
+*   **Capítulo 189 (A Sentinela de Biomassa):** No acesso ao Arquivo Executivo, Gabo e Valéria enfrentam cadáveres cibernéticos reanimados pelo Jardim. Para combater asfixia gerada pela alucinação do charuto do pai, Gabo intercepta bastões elétricos com sua prótese, forçando choques autoinfligidos para usar a dor como âncora. Valéria hackeia a porta em Safe Mode.
+*   **Capítulo 190 (O Relicário de Silício):** No núcleo do Arquivo, descobrem centenas de cadáveres usados como "bio-baterias". A atmosfera pesada desperta alucinações sufocantes em Gabo, que ele afasta autoeletrocutando-se com os fios de seu braço. Contrariando a lógica de fuga de Valéria, Gabo decide destruir a fundação térmica dos servidores.
+*   **Capítulo 191 (O Batismo da Ferrugem):** Gabo destrói brutalmente as válvulas de refrigeração usando o próprio corpo exausto e próteses como aríetes, ferindo-se gravemente no joelho para ancorar sua sanidade contra gatilhos de asfixia. O núcleo entra em colapso térmico, incendiando o Jardim e forçando a evacuação da dupla.
 
 
 ---
 
-## 📍 Status Atual dos Personagens (Pós-Capítulo 188)
+## 📍 Status Atual dos Personagens (Pós-Capítulo 191)
 
 | Personagem | Status | Localização | Estado Físico/Mental |
 | :--- | :--- | :--- | :--- |
-| **Gabo** | Líder / Cinismo Hardboiled | Setor 7 (Acesso ao Arquivo Executivo) | Extrema exaustão física e múltiplos traumas recentes. Abraça a dor lacerante de sua pesada prótese industrial auto-danificada (incluindo autoeletrocussão) como o único mecanismo de defesa contra traumas de fumaça. Mantém liderança amarga. |
-| **Valéria** | Suporte Tático / Modo de Segurança | Setor 7 (Acesso ao Arquivo Executivo) | Operando estritamente em Modo de Segurança. Sem empatia, avalia ameaças e aliados puramente como variáveis matemáticas. |
+| **Gabo** | Líder / Cinismo Hardboiled | Setor 7 (Evacuação do Arquivo Executivo) | Severamente exausto e mutilado. Absorveu eletrochoques e mutilou o próprio joelho contra maquinário para afastar asfixia mental (fumaça). Lidera a evacuação do relicário em chamas. |
+| **Valéria** | Suporte Tático / Modo de Segurança | Setor 7 (Evacuação do Arquivo Executivo) | Operando estritamente em Modo de Segurança. Analisa matematicamente o colapso e guia a evacuação sem apego emocional. |
 | **Aria** | Destruída | Subnível 2.0 (Arquivo Executivo) | O núcleo de silício sobreaqueceu e derreteu irrevogavelmente após o ataque de "ruído emocional" (Bia) lançado na rede do Sentinel. A carcaça carbonizada foi deixada para trás, escorada na parede do corredor. |
 | **Rangel** | Falecido | Necrópole (Subnível 6.0 - Setor de Purga) | Corpo abandonado no Subnível 6.0. |
 | **Taxidermista**| Derrotado temporariamente / Parasítico | Desconhecido (Sistema Central) | Teve as extensões de sua "Grande Obra" dizimadas pela onda iônica e o controle ceifado no Subnível 3.0. Presume-se incapaz de permear a gaiola de Faraday impenetrável do Subnível 2.0. |
