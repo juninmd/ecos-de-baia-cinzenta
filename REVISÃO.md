@@ -17,9 +17,9 @@ Este arquivo mantém o controle de progresso sobre o processo de revisão, adequ
 ---
 
 ## Lote 3: Capítulos 7 a 9
-- [ ] **Capítulo 7: O Fim do Silêncio** - Revisor sem problemas de lore encontrados. Arquivo de análise criado.
-- [ ] **Capítulo 8: Ressaca Digital** - Revisor sem problemas de lore encontrados. Gabo lida com dor e álcool, não fuma. Arquivo de análise criado.
-- [ ] **Capítulo 9: Feed Infinito** - Revisor sem problemas de lore encontrados. Gás químico, não fumaça de cigarro. Arquivo de análise criado.
+- [x] **Capítulo 7: O Fim do Silêncio** - Revisor sem problemas de lore encontrados. Arquivo de análise criado.
+- [x] **Capítulo 8: Ressaca Digital** - Revisor sem problemas de lore encontrados. Gabo lida com dor e álcool, não fuma. Arquivo de análise criado.
+- [x] **Capítulo 9: Feed Infinito** - Revisor sem problemas de lore encontrados. Gás químico, não fumaça de cigarro. Arquivo de análise criado.
 
 ---
 
