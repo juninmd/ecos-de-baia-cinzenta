@@ -24,6 +24,8 @@ CENTRAL_ALIASES = {
     "Aria": {"aria"},
 }
 
+SENSORY_REGEX = re.compile(r"\b(chuva|neon|sombra|sangue|metal|eco|frio|silêncio)\b")
+
 
 @dataclass
 class Chapter:
@@ -152,13 +154,12 @@ def bestseller_score(chapters: list[Chapter]) -> tuple[float, list[str]]:
 
     recent = chapters[-12:]
 
-    sensory_tokens = ("chuva", "neon", "sombra", "sangue", "metal", "eco", "frio", "silêncio")
     results = []
     for ch in recent:
         text = ch.text
         text_lower = text.lower()
         word_count = len(text.split())
-        token_count = sum(text_lower.count(tok) for tok in sensory_tokens)
+        token_count = sum(1 for _ in SENSORY_REGEX.finditer(text_lower))
 
         # Optimize endswith matching by slicing the end of the text
         end_text = text[-200:].rstrip() if len(text) > 200 else text.rstrip()
