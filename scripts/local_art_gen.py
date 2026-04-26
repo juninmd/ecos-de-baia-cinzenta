@@ -13,7 +13,7 @@ except ImportError:
     pass
 
 # Add root project dir to pythonpath to allow relative imports from scripts
-root_dir = Path(__file__).resolve().parent.parent
+root_dir = Path(__file__).absolute().parent.parent
 sys.path.insert(0, str(root_dir))
 
 from scripts.art_gen.character_db import CharacterDatabase

@@ -2,6 +2,8 @@ import re
 from pathlib import Path
 from typing import Dict
 
+CHAPTER_NUM_RE = re.compile(r'capitulo-(\d+)')
+
 
 class ChapterParser:
     """Extracts metadata and content from markdown chapters."""
@@ -40,7 +42,7 @@ class ChapterParser:
                 break
         
         # Extract chapter number from filename
-        numero = re.search(r'capitulo-(\d+)', chapter_path.name)
+        numero = CHAPTER_NUM_RE.search(chapter_path.name)
         numero = numero.group(1) if numero else "0"
         
         # Extract text (skip frontmatter and title)

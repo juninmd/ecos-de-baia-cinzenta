@@ -3,9 +3,10 @@ import sys
 import shutil
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor, as_completed
+import os
 
 # Add root project dir to pythonpath to allow relative imports from scripts
-root_dir = Path(__file__).resolve().parent.parent.parent
+root_dir = Path(__file__).absolute().parent.parent.parent
 sys.path.insert(0, str(root_dir))
 
 from scripts.video_gen.parser import ChapterParser
@@ -106,7 +107,7 @@ def main():
     )
     args = parser.parse_args()
     
-    root = Path(__file__).resolve().parent.parent.parent
+    root = Path(__file__).absolute().parent.parent.parent
     docs_dir = root / 'docs'
     pipeline = VideoPipeline(root, args.output)
     
