@@ -62,12 +62,8 @@ class CharacterDatabase:
         }
 
     def _extract_description_parts(self, lines):
-        description_parts = []
-        for line in lines:
-            clean_line = line.strip().replace('*', '')
-            if DESCRIPTION_KEYS_RE.search(clean_line):
-                description_parts.append(clean_line)
-        return description_parts
+        clean_lines = (line.strip().replace('*', '') for line in lines)
+        return [cl for cl in clean_lines if DESCRIPTION_KEYS_RE.search(cl)]
 
     def _generate_aliases(self, name_clean):
         aliases = {name_clean}
