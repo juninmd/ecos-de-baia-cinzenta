@@ -23,45 +23,46 @@ class ChapterParser:
             raise FileNotFoundError(f"Chapter not found: {chapter_path}")
         
         content = chapter_path.read_text(encoding='utf-8')
-        lines = content.split('\n')
-        
-        # Extract frontmatter
-        image_path = None
-        if lines[0].strip() == '---':
-            for i, line in enumerate(lines[1:], 1):
-                if line.strip() == '---':
-                    break
-                if line.startswith('image:'):
-                    image_path = line.split(':', 1)[1].strip()
-        
-        # Extract title (first # heading)
-        titulo = "Capítulo"
-        for line in lines:
-            if line.startswith('# '):
-                titulo = line[2:].strip()
-                break
         
         # Extract chapter number from filename
         numero = CHAPTER_NUM_RE.search(chapter_path.name)
         numero = numero.group(1) if numero else "0"
-        
-        # Extract text (skip frontmatter and title)
+
+        image_path = None
+        titulo = "Capítulo"
+        texto = ""
+
+        if content.startswith('---'):
+            parts = content.split('---', 2)
+            if len(parts) >= 3:
+                frontmatter = parts[1]
+                body = parts[2]
+
+                # Extract image_path from frontmatter
+                for line in frontmatter.split('\n'):
+                    if line.startswith('image:'):
+                        image_path = line.split(':', 1)[1].strip()
+                        break
+            else:
+                body = content
+        else:
+            body = content
+
+        # Process body to extract title and text
+        body_lines = body.split('\n')
         texto_lines = []
-        skip_frontmatter = False
-        skip_title = False
-        
-        for line in lines:
-            if line.strip() == '---':
-                skip_frontmatter = not skip_frontmatter
+        found_title = False
+
+        for line in body_lines:
+            stripped = line.strip()
+            if not stripped:
                 continue
-            if skip_frontmatter:
+            if not found_title and stripped.startswith('# '):
+                titulo = stripped[2:].strip()
+                found_title = True
                 continue
-            if line.startswith('# ') and not skip_title:
-                skip_title = True
-                continue
-            if line.strip():
-                texto_lines.append(line)
-        
+            texto_lines.append(stripped)
+
         texto = '\n'.join(texto_lines).strip()
         
         return {
