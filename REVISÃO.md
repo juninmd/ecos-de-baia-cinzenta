@@ -24,9 +24,9 @@ Este arquivo mantém o controle de progresso sobre o processo de revisão, adequ
 ---
 
 ## Lote 4: Capítulos 10 a 12
-- [ ] **Capítulo 10: A Fábrica de Sorrisos** - Revisor sem problemas de lore encontrados. Sem inconsistências com fumo. Arquivo de análise criado.
-- [ ] **Capítulo 11: Filtros de Realidade** - Revisor sem problemas de lore encontrados. Cheiros industriais apenas. Arquivo de análise criado.
-- [ ] **Capítulo 12: Cancelamento** - Revisor sem problemas de lore encontrados. Bunker esterilizado, sem cigarros. Arquivo de análise criado.
+- [x] **Capítulo 10: A Fábrica de Sorrisos** - Revisão completa efetuada. História classificada como excelente. Avaliação de personagens atualizada para confirmar coerência impecável da resiliência através da dor física de Gabo e técnica de Valéria. Nenhum novo personagem se faz necessário. Sem quebras de fobia (fumaça).
+- [x] **Capítulo 11: Filtros de Realidade** - Revisão completa efetuada. História serve como forte ponte de lore. Personagens coerentes, destacando-se a ótima adição da Dr. Nise. A repulsa a vícios foi mantida.
+- [x] **Capítulo 12: Cancelamento** - Revisão completa efetuada. História entrega clímax forte e coerente. Miranda brilha como traidor crível e funcional. Fiel às regras de biometria de Valéria e métodos de dor/destruição de Gabo (sem cigarros/fumaça no bunker). Sem precisão de novos atores na trama.
 
 ---
 
