@@ -52,9 +52,9 @@ Este arquivo mantém o controle de progresso sobre o processo de revisão, adequ
 ---
 
 ## Lote 8: Capítulos 22 a 24
-- [ ] **Capítulo 22: O Mapa da Alma** - Revisor sem problemas de lore encontrados. Cheiro de hospital o ancora em vômito e náusea, nunca cigarros. Arquivo de análise criado.
-- [ ] **Capítulo 23: Ratos e Reis** - Revisor sem problemas de lore encontrados. Conflito tenso e prático. Arquivo de análise criado.
-- [ ] **Capítulo 24: A Galeria dos Deformados** - Revisor sem problemas de lore encontrados. Combate bio-punk e assepsia, sem desvios do personagem. Arquivo de análise criado.
+- [x] **Capítulo 22: O Mapa da Alma** - Revisor sem problemas de lore encontrados. Cheiro de hospital o ancora em vômito e náusea, nunca cigarros. Arquivo de análise criado.
+- [x] **Capítulo 23: Ratos e Reis** - Revisor sem problemas de lore encontrados. Conflito tenso e prático. Arquivo de análise criado.
+- [x] **Capítulo 24: A Galeria dos Deformados** - Revisor sem problemas de lore encontrados. Combate bio-punk e assepsia, sem desvios do personagem. Arquivo de análise criado.
 
 ---
 
