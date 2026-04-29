@@ -31,23 +31,23 @@ Este arquivo mantém o controle de progresso sobre o processo de revisão, adequ
 ---
 
 ## Lote 5: Capítulos 13 a 15
-- [ ] **Capítulo 13: Shadowban** - Revisor sem problemas de lore encontrados. Arquivo de análise criado.
-- [ ] **Capítulo 14: Caçada ao Invisível** - Revisor sem problemas de lore encontrados. Sem inconsistências com fumo. Arquivo de análise criado.
-- [ ] **Capítulo 15: Protocolo de Extermínio** - Removida menção de "fumaça de segunda mão" para manter aversão visceral do protagonista a fumaça de qualquer tipo. Arquivo de análise criado.
+- [x] **Capítulo 13: Shadowban** - Revisor sem problemas de lore encontrados. Arquivo de análise criado.
+- [x] **Capítulo 14: Caçada ao Invisível** - Revisor sem problemas de lore encontrados. Sem inconsistências com fumo. Arquivo de análise criado.
+- [x] **Capítulo 15: Protocolo de Extermínio** - Removida menção de "fumaça de segunda mão" para manter aversão visceral do protagonista a fumaça de qualquer tipo. Arquivo de análise criado.
 
 ---
 
 ## Lote 6: Capítulos 16 a 18
-- [ ] **Capítulo 16: Zona Morta** - Revisor sem problemas de lore encontrados. Protagonista não usa cigarro; foco na dor e no pragmatismo analógico. Arquivo de análise criado.
-- [ ] **Capítulo 17: O Ultimato** - Revisor sem problemas de lore encontrados. Foco na tensão psicológica e aceitação de dor corporal de Gabo, sem vícios relatados. Arquivo de análise criado.
-- [ ] **Capítulo 18: A Queda** - Revisor sem problemas de lore encontrados. A dor descrita age exatamente como âncora textual conforme o lore. Arquivo de análise criado.
+- [x] **Capítulo 16: Zona Morta** - Revisor sem problemas de lore encontrados. Protagonista não usa cigarro; foco na dor e no pragmatismo analógico. Arquivo de análise criado.
+- [x] **Capítulo 17: O Ultimato** - Revisor sem problemas de lore encontrados. Foco na tensão psicológica e aceitação de dor corporal de Gabo, sem vícios relatados. Arquivo de análise criado.
+- [x] **Capítulo 18: A Queda** - Revisor sem problemas de lore encontrados. A dor descrita age exatamente como âncora textual conforme o lore. Arquivo de análise criado.
 
 ---
 
 ## Lote 7: Capítulos 19 a 21
-- [ ] **Capítulo 19: O Código Morto** - Revisor sem problemas de lore encontrados. Sem inconsistências com fumo, a dor foca a mente (ombro). Arquivo de análise criado.
-- [ ] **Capítulo 20: Profanação** - Revisor sem problemas de lore encontrados. Armadilha de gás é sonífero, e o protagonista foca na dor física da mão apertada. Arquivo de análise criado.
-- [ ] **Capítulo 21: Lar, Doce Inferno** - Revisor sem problemas de lore encontrados. Gabo suporta a necrose por frio no braço para salvar Elena, super coerente com o lore. Arquivo de análise criado.
+- [x] **Capítulo 19: O Código Morto** - Revisor sem problemas de lore encontrados. Sem inconsistências com fumo, a dor foca a mente (ombro). Arquivo de análise criado.
+- [x] **Capítulo 20: Profanação** - Revisor sem problemas de lore encontrados. Armadilha de gás é sonífero, e o protagonista foca na dor física da mão apertada. Arquivo de análise criado.
+- [x] **Capítulo 21: Lar, Doce Inferno** - Revisor sem problemas de lore encontrados. Gabo suporta a necrose por frio no braço para salvar Elena, super coerente com o lore. Arquivo de análise criado.
 
 ---
 
