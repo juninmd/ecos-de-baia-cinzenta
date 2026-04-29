@@ -142,16 +142,17 @@ A era da reconstrução autoritária.
 *   **Capítulo 189 (A Sentinela de Biomassa):** No acesso ao Arquivo Executivo, Gabo e Valéria enfrentam cadáveres cibernéticos reanimados pelo Jardim. Para combater asfixia gerada pela alucinação do charuto do pai, Gabo intercepta bastões elétricos com sua prótese, forçando choques autoinfligidos para usar a dor como âncora. Valéria hackeia a porta em Safe Mode.
 *   **Capítulo 190 (O Relicário de Silício):** No núcleo do Arquivo, descobrem centenas de cadáveres usados como "bio-baterias". A atmosfera pesada desperta alucinações sufocantes em Gabo, que ele afasta autoeletrocutando-se com os fios de seu braço. Contrariando a lógica de fuga de Valéria, Gabo decide destruir a fundação térmica dos servidores.
 *   **Capítulo 191 (O Batismo da Ferrugem):** Gabo destrói brutalmente as válvulas de refrigeração usando o próprio corpo exausto e próteses como aríetes, ferindo-se gravemente no joelho para ancorar sua sanidade contra gatilhos de asfixia. O núcleo entra em colapso térmico, incendiando o Jardim e forçando a evacuação da dupla.
+*   **Capítulo 192 (A Ascensão das Cinzas):** Gabo e Valéria fogem pelo fosso do elevador enquanto o núcleo do Jardim colapsa em fogo. A fumaça real aciona gatilhos severos da asfixia olfativa de Gabo (cheiro do charuto do pai). Ele combate a alucinação forçando seu joelho já destruído para causar dor extrema. Eles escapam com sucesso para o Nível de subestação B.
 
 
 ---
 
-## 📍 Status Atual dos Personagens (Pós-Capítulo 191)
+## 📍 Status Atual dos Personagens (Pós-Capítulo 192)
 
 | Personagem | Status | Localização | Estado Físico/Mental |
 | :--- | :--- | :--- | :--- |
-| **Gabo** | Líder / Cinismo Hardboiled | Setor 7 (Evacuação do Arquivo Executivo) | Severamente exausto e mutilado. Absorveu eletrochoques e mutilou o próprio joelho contra maquinário para afastar asfixia mental (fumaça). Lidera a evacuação do relicário em chamas. |
-| **Valéria** | Suporte Tático / Modo de Segurança | Setor 7 (Evacuação do Arquivo Executivo) | Operando estritamente em Modo de Segurança. Analisa matematicamente o colapso e guia a evacuação sem apego emocional. |
+| **Gabo** | Líder / Cinismo Hardboiled | Setor 7 (Nível de Subestação B, acima do Arquivo) | Severamente exausto e mutilado. Usou dor extrema de seu joelho destruído para afastar asfixia mental (fumaça). Conseguiu escapar do fosso em chamas, mas seu corpo está falhando. |
+| **Valéria** | Suporte Tático / Modo de Segurança | Setor 7 (Nível de Subestação B, acima do Arquivo) | Operando estritamente em Modo de Segurança. Analisa matematicamente o colapso e calcula rotas de fuga com precisão estéril e sem apego emocional. |
 | **Aria** | Destruída | Subnível 2.0 (Arquivo Executivo) | O núcleo de silício sobreaqueceu e derreteu irrevogavelmente após o ataque de "ruído emocional" (Bia) lançado na rede do Sentinel. A carcaça carbonizada foi deixada para trás, escorada na parede do corredor. |
 | **Rangel** | Falecido | Necrópole (Subnível 6.0 - Setor de Purga) | Corpo abandonado no Subnível 6.0. |
 | **Taxidermista**| Derrotado temporariamente / Parasítico | Desconhecido (Sistema Central) | Teve as extensões de sua "Grande Obra" dizimadas pela onda iônica e o controle ceifado no Subnível 3.0. Presume-se incapaz de permear a gaiola de Faraday impenetrável do Subnível 2.0. |
