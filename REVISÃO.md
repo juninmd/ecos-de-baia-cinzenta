@@ -340,3 +340,8 @@ Este arquivo mantém o controle de progresso sobre o processo de revisão, adequ
 - [x] **Capítulo 189: A Sentinela de Biomassa** - Criado seguindo outline de memória. Gabo usa autolesão no braço para anular a fobia de fumaça (alucinação) e destruir os cadáveres cibernéticos. Valéria permanece estritamente em Safe Mode. Arquivo de análise criado.
 - [x] **Capítulo 190: O Relicário de Silício** - Criado seguindo outline de memória. Gabo combate a alucinação fóbica gerada por fuligem do ambiente aplicando eletrochoque no peito intencionalmente. Decisão pelo expurgo físico do núcleo. Arquivo de análise criado.
 - [x] **Capítulo 191: O Batismo da Ferrugem** - Criado estendendo o arco lógico do expurgo. Gabo realiza o expurgo físico usando golpes brutos com a prótese para destruir as fundações dos servidores enquanto reprime a fobia através da dor. Valéria em Safe Mode sugere evacuação. Arquivo de análise criado.
+
+## Lote 64: Capítulos 192 a 194
+- [x] **Capítulo 192: A Ascensão das Cinzas** - Revisado durante análise. Gabo foge do fosso colapsando e combate a fobia de fumaça usando dor crua. Valéria calcula riscos em Safe Mode. Arquivo de análise mantido.
+- [x] **Capítulo 193: O Ermitão de Cobre** - Criado. Introduz Elias no Nível B. Gabo combate a asfixia batendo a prótese no concreto para sentir dor. Valéria em Safe Mode sugere pragmatismo frio. Arquivo de análise criado.
+- [x] **Capítulo 194: O Preço da Manutenção** - Criado. Avanço para a rota de fuga secundária. Gabo usa fios expostos para receber choque elétrico e afastar o terror de asfixia após engatilhado por Elias. Gabo rompe o ombro girando uma válvula. Arquivo de análise criado.
