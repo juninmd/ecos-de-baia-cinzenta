@@ -59,28 +59,28 @@ Este arquivo mantém o controle de progresso sobre o processo de revisão, adequ
 ---
 
 ## Lote 9: Capítulos 25 a 27
-- [ ] **Capítulo 25: Elevador para o Inferno** - Revisor sem problemas de lore encontrados. Escalada épica baseada em dor física intensa, coerente. Arquivo de análise criado.
-- [ ] **Capítulo 26: A Escolha de Atlas** - Revisor sem problemas de lore encontrados. A sedução simulada foca no cheiro nostálgico do avô e não no trauma com o cigarro próprio. Magistral. Arquivo de análise criado.
-- [ ] **Capítulo 27: O Filho Sacrifica o Pai** - Revisor sem problemas de lore encontrados. Foco emocional após o ato brutal; sem apelo a vícios não relacionados à dor. Arquivo de análise criado.
+- [x] **Capítulo 25: Elevador para o Inferno** - Revisor sem problemas de lore encontrados. Escalada épica baseada em dor física intensa, coerente. Arquivo de análise criado.
+- [x] **Capítulo 26: A Escolha de Atlas** - Revisor sem problemas de lore encontrados. A sedução simulada foca no cheiro nostálgico do avô e não no trauma com o cigarro próprio. Magistral. Arquivo de análise criado.
+- [x] **Capítulo 27: O Filho Sacrifica o Pai** - Revisor sem problemas de lore encontrados. Foco emocional após o ato brutal; sem apelo a vícios não relacionados à dor. Arquivo de análise criado.
 
 ---
 
 ## Lote 10: Capítulos 28 a 30
-- [ ] **Capítulo 28: O Último Suspiro da Torre** - Revisor sem problemas de lore encontrados. Transição baseada em urgência sem uso de alucinógenos ou cigarro. Arquivo de análise criado.
-- [ ] **Capítulo 29: O Dilema dos Fantasmas** - Revisor sem problemas de lore encontrados. Conflito ético sem inconsistências para o protagonista. Arquivo de análise criado.
-- [ ] **Capítulo 30: O Preço da Liberdade** - Revisor sem problemas de lore encontrados. Cimentação do limite humano/cibernético via dor bruta (perna quebrada), mantendo coerência com lore estabelecido. Arquivo de análise criado.
+- [x] **Capítulo 28: O Último Suspiro da Torre** - Revisor sem problemas de lore encontrados. Transição baseada em urgência sem uso de alucinógenos ou cigarro. Arquivo de análise criado.
+- [x] **Capítulo 29: O Dilema dos Fantasmas** - Revisor sem problemas de lore encontrados. Conflito ético sem inconsistências para o protagonista. Arquivo de análise criado.
+- [x] **Capítulo 30: O Preço da Liberdade** - Revisor sem problemas de lore encontrados. Cimentação do limite humano/cibernético via dor bruta (perna quebrada), mantendo coerência com lore estabelecido. Arquivo de análise criado.
 
 ---
 
 ## Lote 11: Capítulos 31 a 33
-- [ ] **Capítulo 31: Ruptura Total** - Revisor sem problemas de lore encontrados. Transição monumental para a queda da Torre e do Apagão sem desviar do estado do personagem. Arquivo de análise criado.
-- [ ] **Capítulo 32: O Vazio do Silêncio** - Revisor sem problemas de lore encontrados. Abstinência sensorial abordada de forma brilhante no lore cibernético. Gabo foca na dor física da perna quebrada. Arquivo de análise criado.
-- [ ] **Capítulo 33: A Sabedoria da Ferrugem** - Revisor sem problemas de lore encontrados. Motor do Cobalt descrito metaforicamente, sem ferir a regra do protagonista não fumar. Arquivo de análise criado.
+- [x] **Capítulo 31: Ruptura Total** - Revisor sem problemas de lore encontrados. Transição monumental para a queda da Torre e do Apagão sem desviar do estado do personagem. Arquivo de análise criado.
+- [x] **Capítulo 32: O Vazio do Silêncio** - Revisor sem problemas de lore encontrados. Abstinência sensorial abordada de forma brilhante no lore cibernético. Gabo foca na dor física da perna quebrada. Arquivo de análise criado.
+- [x] **Capítulo 33: A Sabedoria da Ferrugem** - Revisor sem problemas de lore encontrados. Motor do Cobalt descrito metaforicamente, sem ferir a regra do protagonista não fumar. Arquivo de análise criado.
 
 ## Lote 12: Capítulos 34 a 36
-- [ ] **Capítulo 34: O Julgamento da Rua** - Revisor sem problemas de lore encontrados. Ação visceral e reativação da dor física (perna estourada com recuo da arma caseira) em vez de escapismos ou fumo. Arquivo de análise criado.
-- [ ] **Capítulo 35: Calibre 12** - Revisor sem problemas de lore encontrados. Sem conflitos de personagens; pragmatismo brutal de Gabo e Elena como atiradora fria e focada. Arquivo de análise criado.
-- [ ] **Capítulo 36: O Ninho da Serpente** - Revisor sem problemas de lore encontrados. O vício digital dos "Vazios" contrasta com a fisicalidade de Gabo; sem vícios biológicos atípicos no protagonista (cigarros). Arquivo de análise criado.
+- [x] **Capítulo 34: O Julgamento da Rua** - Revisor sem problemas de lore encontrados. Ação visceral e reativação da dor física (perna estourada com recuo da arma caseira) em vez de escapismos ou fumo. Arquivo de análise criado.
+- [x] **Capítulo 35: Calibre 12** - Revisor sem problemas de lore encontrados. Sem conflitos de personagens; pragmatismo brutal de Gabo e Elena como atiradora fria e focada. Arquivo de análise criado.
+- [x] **Capítulo 36: O Ninho da Serpente** - Revisor sem problemas de lore encontrados. O vício digital dos "Vazios" contrasta com a fisicalidade de Gabo; sem vícios biológicos atípicos no protagonista (cigarros). Arquivo de análise criado.
 
 ## Lote 13: Capítulos 37 a 40
 - [ ] **Capítulo 37: A Linha Azul** - Revisado. Menção à "fumaça branca" corrigida para "gás denso" para manter distanciamento de gatilhos não-relacionados ao lore de dor do protagonista. Arquivo de análise criado.
