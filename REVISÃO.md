@@ -83,35 +83,35 @@ Este arquivo mantém o controle de progresso sobre o processo de revisão, adequ
 - [x] **Capítulo 36: O Ninho da Serpente** - Revisor sem problemas de lore encontrados. O vício digital dos "Vazios" contrasta com a fisicalidade de Gabo; sem vícios biológicos atípicos no protagonista (cigarros). Arquivo de análise criado.
 
 ## Lote 13: Capítulos 37 a 40
-- [ ] **Capítulo 37: A Linha Azul** - Revisado. Menção à "fumaça branca" corrigida para "gás denso" para manter distanciamento de gatilhos não-relacionados ao lore de dor do protagonista. Arquivo de análise criado.
-- [ ] **Capítulo 38: A Ressaca** - Revisor sem problemas de lore encontrados. A dependência digital em massa, em oposição à fisicalidade do detetive. Arquivo de análise criado.
-- [ ] **Capítulo 39: Dossiê Vance** - Revisor sem problemas de lore encontrados. Retorno analógico brilhantemente representado (arquivos físicos). Arquivo de análise criado.
-- [ ] **Capítulo 40: O Céu Quebrou** - Revisor sem problemas de lore encontrados. Epílogo sombrio onde Gabo, ancorado por suas costelas fraturadas, reflete sem cair no clichê do policial fumando sob a chuva. O céu púrpura e poluído é a sua própria toxicidade narrativa. Arquivo de análise criado.
+- [x] **Capítulo 37: A Linha Azul** - Revisado. Menção à "fumaça branca" corrigida para "gás denso" para manter distanciamento de gatilhos não-relacionados ao lore de dor do protagonista. Arquivo de análise criado.
+- [x] **Capítulo 38: A Ressaca** - Revisor sem problemas de lore encontrados. A dependência digital em massa, em oposição à fisicalidade do detetive. Arquivo de análise criado.
+- [x] **Capítulo 39: Dossiê Vance** - Revisor sem problemas de lore encontrados. Retorno analógico brilhantemente representado (arquivos físicos). Arquivo de análise criado.
+- [x] **Capítulo 40: O Céu Quebrou** - Revisor sem problemas de lore encontrados. Epílogo sombrio onde Gabo, ancorado por suas costelas fraturadas, reflete sem cair no clichê do policial fumando sob a chuva. O céu púrpura e poluído é a sua própria toxicidade narrativa. Arquivo de análise criado.
 
 ## Lote 14: Capítulos 41 a 43
-- [ ] **Capítulo 41: Maré Alta** - Revisor sem problemas de lore encontrados. Foco total em resgate e na inutilização fatal da automatização urbana durante o Apagão. Arquivo de análise criado.
-- [ ] **Capítulo 42: O Campo de Refugiados** - Revisor sem problemas de lore encontrados. Contaminação química das águas e exaustão moral dominam a atmosfera (sem vícios alheios aplicados). Arquivo de análise criado.
-- [ ] **Capítulo 43: Água Negra** - Revisor sem problemas de lore encontrados. Gabo abraça as dores reais do joelho (incapaz de carregar peso), sem fumar, partindo em uma infiltração letal puramente biológica no porto e águas contaminadas. Arquivo de análise criado.
+- [x] **Capítulo 41: Maré Alta** - Revisor sem problemas de lore encontrados. Foco total em resgate e na inutilização fatal da automatização urbana durante o Apagão. Arquivo de análise criado.
+- [x] **Capítulo 42: O Campo de Refugiados** - Revisor sem problemas de lore encontrados. Contaminação química das águas e exaustão moral dominam a atmosfera (sem vícios alheios aplicados). Arquivo de análise criado.
+- [x] **Capítulo 43: Água Negra** - Revisor sem problemas de lore encontrados. Gabo abraça as dores reais do joelho (incapaz de carregar peso), sem fumar, partindo em uma infiltração letal puramente biológica no porto e águas contaminadas. Arquivo de análise criado.
 
 ## Lote 15: Capítulos 44 a 46
-- [ ] **Capítulo 44: O Que Saiu do Ralo** - Revisor sem problemas de lore encontrados. Ação contida e visceral; a dor física é a resposta orgânica de Gabo frente aos mutantes. Arquivo de análise criado.
-- [ ] **Capítulo 45: Protocolo N.O.A.** - Revisor sem problemas de lore encontrados. Foco na entidade "Imperador" e a origem do dilúvio, sem a presença de Gabo. Arquivo de análise criado.
-- [ ] **Capítulo 46: O Dilúvio** - Revisor sem problemas de lore encontrados. Timeskip. Escritório noir molhado sem o clichê do cigarro; Gabo lida com café vencido e a telepatia alienígena com terror pragmático. Arquivo de análise criado.
+- [x] **Capítulo 44: O Que Saiu do Ralo** - Revisor sem problemas de lore encontrados. Ação contida e visceral; a dor física é a resposta orgânica de Gabo frente aos mutantes. Arquivo de análise criado.
+- [x] **Capítulo 45: Protocolo N.O.A.** - Revisor sem problemas de lore encontrados. Foco na entidade "Imperador" e a origem do dilúvio, sem a presença de Gabo. Arquivo de análise criado.
+- [x] **Capítulo 46: O Dilúvio** - Revisor sem problemas de lore encontrados. Timeskip. Escritório noir molhado sem o clichê do cigarro; Gabo lida com café vencido e a telepatia alienígena com terror pragmático. Arquivo de análise criado.
 
 ## Lote 16: Capítulos 47 a 49
-- [ ] **Capítulo 47: Cerco Anfíbio** - Revisor sem problemas de lore encontrados. Foco na armadilha do Relojoeiro e o esmagamento crítico do corpo de Gabo (pélvis e pernas sob ferro). Arquivo de análise criado.
-- [ ] **Capítulo 48: Fantasma na Máquina** - Revisado. Menção à "fumaça" num ditado cibernético de Valéria alterada para "mercúrio" para manter total consistência com o bloqueio a "fumaça" do protagonista. Arquivo de análise criado.
-- [ ] **Capítulo 49: A Isca Perfeita** - Revisor sem problemas de lore encontrados. Consolidado o dano massivo de Gabo com dezoito fraturas, enquanto Valéria executa mercenários sem remorso. Arquivo de análise criado.
+- [x] **Capítulo 47: Cerco Anfíbio** - Revisor sem problemas de lore encontrados. Foco na armadilha do Relojoeiro e o esmagamento crítico do corpo de Gabo (pélvis e pernas sob ferro). Arquivo de análise criado.
+- [x] **Capítulo 48: Fantasma na Máquina** - Revisado. Menção à "fumaça" num ditado cibernético de Valéria alterada para "mercúrio" para manter total consistência com o bloqueio a "fumaça" do protagonista. Arquivo de análise criado.
+- [x] **Capítulo 49: A Isca Perfeita** - Revisor sem problemas de lore encontrados. Consolidado o dano massivo de Gabo com dezoito fraturas, enquanto Valéria executa mercenários sem remorso. Arquivo de análise criado.
 
 ## Lote 17: Capítulos 50 a 52
-- [ ] **Capítulo 50: O Silêncio da Chuva** - Revisor sem problemas de lore encontrados. Protagonista está inconsciente e severamente machucado (órteses introduzidas). Luto pela morte de Helena é lidado organicamente sem cigarros. Arquivo de análise criado.
-- [ ] **Capítulo 51: Mãos Limpas** - Revisor sem problemas de lore encontrados. Protagonista recusa fumaça de cigarro expressamente no texto ("desviou o rosto, incomodado com a fumaça"). Reage à dor cimentando a fisicalidade. Arquivo de análise criado.
-- [ ] **Capítulo 52: Dívida Eterna** - Revisor sem problemas de lore encontrados. Nenhuma quebra na fobia ou fuga no tabagismo; ele aceita a dor nas pernas quebradas como âncora à realidade para ajudar a irmã. Arquivo de análise criado.
+- [x] **Capítulo 50: O Silêncio da Chuva** - Revisor sem problemas de lore encontrados. Protagonista está inconsciente e severamente machucado (órteses introduzidas). Luto pela morte de Helena é lidado organicamente sem cigarros. Arquivo de análise criado.
+- [x] **Capítulo 51: Mãos Limpas** - Revisor sem problemas de lore encontrados. Protagonista recusa fumaça de cigarro expressamente no texto ("desviou o rosto, incomodado com a fumaça"). Reage à dor cimentando a fisicalidade. Arquivo de análise criado.
+- [x] **Capítulo 52: Dívida Eterna** - Revisor sem problemas de lore encontrados. Nenhuma quebra na fobia ou fuga no tabagismo; ele aceita a dor nas pernas quebradas como âncora à realidade para ajudar a irmã. Arquivo de análise criado.
 
 ## Lote 18: Capítulos 53 a 55
-- [ ] **Capítulo 53: Café, Código e Conspiração** - Revisor sem problemas de lore encontrados. Sem apelo ao cigarro; limite físico lidado com as órteses gemendo. Arquivo de análise criado.
-- [ ] **Capítulo 54: Fé e Ferrugem** - Revisor sem problemas de lore encontrados. O escape de Gabo é através do seu carro analógico e da dor/limitação das suas baterias. Arquivo de análise criado.
-- [ ] **Capítulo 55** - Revisado. Menção a "fumaça" como adjetivo para uma voz ("voz era seda e fumaça") alterada para "voz era seda e lâmina" para total isolamento do léxico que causa alucinação em Gabo. Arquivo de análise criado.
+- [x] **Capítulo 53: Café, Código e Conspiração** - Revisor sem problemas de lore encontrados. Sem apelo ao cigarro; limite físico lidado com as órteses gemendo. Arquivo de análise criado.
+- [x] **Capítulo 54: Fé e Ferrugem** - Revisor sem problemas de lore encontrados. O escape de Gabo é através do seu carro analógico e da dor/limitação das suas baterias. Arquivo de análise criado.
+- [x] **Capítulo 55: A Tentação de Lázaro** - Revisado. Menção a "fumaça" como adjetivo para uma voz ("voz era seda e fumaça") alterada para "voz era seda e lâmina" para total isolamento do léxico que causa alucinação em Gabo. Arquivo de análise criado.
 
 ## Lote 19: Capítulos 56 a 58
 - [ ] **Capítulo 56: O Preço do Amanhã** - Revisor sem problemas de lore encontrados. Isolamento e foco na sobrevivência através da cafeína, mantendo coerência contra vícios como tabaco. Arquivo de análise criado.
