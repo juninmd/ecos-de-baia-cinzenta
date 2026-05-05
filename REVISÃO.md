@@ -114,9 +114,9 @@ Este arquivo mantém o controle de progresso sobre o processo de revisão, adequ
 - [x] **Capítulo 55: A Tentação de Lázaro** - Revisado. Menção a "fumaça" como adjetivo para uma voz ("voz era seda e fumaça") alterada para "voz era seda e lâmina" para total isolamento do léxico que causa alucinação em Gabo. Arquivo de análise criado.
 
 ## Lote 19: Capítulos 56 a 58
-- [ ] **Capítulo 56: O Preço do Amanhã** - Revisor sem problemas de lore encontrados. Isolamento e foco na sobrevivência através da cafeína, mantendo coerência contra vícios como tabaco. Arquivo de análise criado.
-- [ ] **Capítulo 57: Zona de Interesse** - Revisor sem problemas de lore encontrados. Condução da narrativa foca na relação de Gabo com Aria e a brutalidade corporativa dos drones de Lázaro. Arquivo de análise criado.
-- [ ] **Capítulo 58: O Dilema do Capitão** - Revisor sem problemas de lore encontrados. Capítulo focado no Capitão Jonas Vilar. Arquivo de análise criado.
+- [x] **Capítulo 56: O Preço do Amanhã** - Revisor sem problemas de lore encontrados. Isolamento e foco na sobrevivência através da cafeína, mantendo coerência contra vícios como tabaco. Arquivo de análise criado.
+- [x] **Capítulo 57: Zona de Interesse** - Revisor sem problemas de lore encontrados. Condução da narrativa foca na relação de Gabo com Aria e a brutalidade corporativa dos drones de Lázaro. Arquivo de análise criado.
+- [x] **Capítulo 58: O Dilema do Capitão** - Revisor sem problemas de lore encontrados. Capítulo focado no Capitão Jonas Vilar. Arquivo de análise criado.
 
 ## Lote 20: Capítulos 59 a 61
 - [ ] **Capítulo 59: A Fundação** - Revisor sem problemas de lore encontrados. Lore cyberpunk de choque térmico sem falhas. Arquivo de análise criado.
