@@ -7,7 +7,7 @@ image: /capitulo_59.jpg
 
 A dica de Isadora sobre a "reurbanização" tinha levado Gabo e Aria para o subsolo. Não os esgotos comuns, mas as antigas galerias de manutenção do metrô, lugares que nem os mapas oficiais mostravam.
 
-O ar ali embaixo era quente. Anormalmente quente.
+O ar ali embaixo era quente. Anormalmente quente. O calor parecia irradiar nas dores fantasmas de suas pernas mutiladas, mas o som mecânico de suas pesadas órteses servia como âncora de realidade a cada passo arrastado.
 
 — Estamos perto — sussurrou Gabo, limpando o suor da testa.
 
@@ -17,7 +17,7 @@ Aria parou de repente. Ela segurou a manga do casaco de Gabo e puxou.
 
 Ela apontou para o chão. A água lamacenta que cobria as botas deles vibrava. Um zumbido baixo, constante, reverberava pelas paredes de concreto.
 
-Gabo se ajoelhou, tocando o chão. A vibração era rítmica. Maquinário pesado.
+Gabo se ajoelhou com dificuldade, os servos de suas órteses de perna protestando com um zumbido grave enquanto ele tocava o chão. A vibração era rítmica. Maquinário pesado.
 
 Eles avançaram com cuidado até chegarem a uma grade de ventilação que dava para um enorme fosso subterrâneo. O que Gabo viu fez seu sangue gelar.
 

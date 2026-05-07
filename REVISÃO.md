@@ -119,9 +119,9 @@ Este arquivo mantém o controle de progresso sobre o processo de revisão, adequ
 - [x] **Capítulo 58: O Dilema do Capitão** - Revisor sem problemas de lore encontrados. Capítulo focado no Capitão Jonas Vilar. Arquivo de análise criado.
 
 ## Lote 20: Capítulos 59 a 61
-- [ ] **Capítulo 59: A Fundação** - Revisor sem problemas de lore encontrados. Lore cyberpunk de choque térmico sem falhas. Arquivo de análise criado.
-- [ ] **Capítulo 60: Despejo** - Revisado. Menção a "fumaça" no campo de batalha ("O ar cheirava a fumaça") corrigida para "fuligem" para isolar estritamente o gatilho narrativo de Gabo. Ação brutal ancorada em dor física genuína. Arquivo de análise criado.
-- [ ] **Capítulo 61: Tinta no Papel** - Revisor sem problemas de lore encontrados. Respiro na van de Valéria. Protagonista descansa enquanto hack é operado. Arquivo de análise criado.
+- [x] **Capítulo 59: A Fundação** - Revisado. Adicionado reforço mecânico da falência física das pernas. Sem problemas de fobia encontrados. Arquivo de análise criado.
+- [x] **Capítulo 60: Despejo** - Revisado. Gatilho de fumaça mantido ausente ("fuligem", "vapor"). Foco impecável no estresse brutal das pernas quebradas servindo como âncora textual. Arquivo de análise criado.
+- [x] **Capítulo 61: Tinta no Papel** - Revisado. Adicionada descrições do esforço doloroso nas órteses mecânicas durante a interação passiva. Sem violação de gatilhos (sem menção a cigarros/fumaça). Arquivo de análise criado.
 
 ## Lote 21: Capítulos 62 a 64
 - [ ] **Capítulo 62: O Santo e a Criança** - Revisor sem problemas de lore encontrados. Sem tabaco. Gabo sobrevive ao ataque aceitando a dor extrema do estrangulamento e costelas fraturadas. Arquivo de análise criado.
