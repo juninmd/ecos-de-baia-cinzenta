@@ -21,6 +21,7 @@ class AnimatedVideoComposer:
         self._vignette_cache = {}
         self._vignette_mask = None
         self._black_bg = None
+        self._gradient_cache = {}
 
         # Load fonts once
         try:
@@ -167,22 +168,27 @@ class AnimatedVideoComposer:
     
     def _add_gradient_overlay(self, img: Image.Image, color1: Tuple[int, int, int], color2: Tuple[int, int, int]):
         """Add vertical gradient overlay."""
-        # Use NumPy for vectorized gradient generation
-        c1 = np.array(color1)
-        c2 = np.array(color2)
+        cache_key = (img.width, img.height, color1, color2)
+        if cache_key in self._gradient_cache:
+            gradient_img = self._gradient_cache[cache_key]
+        else:
+            # Use NumPy for vectorized gradient generation
+            c1 = np.array(color1)
+            c2 = np.array(color2)
 
-        # Generate vertical gradient (H, 1)
-        y = np.arange(img.height) / img.height
+            # Generate vertical gradient (H, 1)
+            y = np.arange(img.height) / img.height
 
-        # Calculate colors: shape (H, 3)
-        gradient = (c1 + (c2 - c1) * y[:, None]).astype(np.uint8)
+            # Calculate colors: shape (H, 3)
+            gradient = (c1 + (c2 - c1) * y[:, None]).astype(np.uint8)
 
-        # Reshape to (H, 1, 3) for 1-pixel wide column
-        gradient = gradient.reshape((img.height, 1, 3))
+            # Reshape to (H, 1, 3) for 1-pixel wide column
+            gradient = gradient.reshape((img.height, 1, 3))
 
-        # Create image from array and resize to full width
-        gradient_img = Image.fromarray(gradient, mode='RGB')
-        gradient_img = gradient_img.resize((img.width, img.height), resample=Image.Resampling.NEAREST)
+            # Create image from array and resize to full width
+            gradient_img = Image.fromarray(gradient, mode='RGB')
+            gradient_img = gradient_img.resize((img.width, img.height), resample=Image.Resampling.NEAREST)
+            self._gradient_cache[cache_key] = gradient_img
 
         # Paste efficiently
         img.paste(gradient_img)

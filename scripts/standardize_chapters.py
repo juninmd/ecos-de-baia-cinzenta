@@ -6,8 +6,12 @@ from __future__ import annotations
 import re
 import shutil
 from pathlib import Path
+from concurrent.futures import ThreadPoolExecutor
 
 import os
+
+MAX_WORKERS = os.cpu_count() or 4
+
 ROOT = Path(os.path.normpath(str(Path(__file__).absolute()))).parents[1]
 DOCS_DIR = ROOT / "docs"
 PUBLIC_DIR = DOCS_DIR / "public"
@@ -23,7 +27,6 @@ def chapter_sort_key(path: Path):
 
 
 def move_public_chapters() -> list[tuple[Path, Path]]:
-    from concurrent.futures import ThreadPoolExecutor
     moved: list[tuple[Path, Path]] = []
     public_files = list(PUBLIC_DIR.glob("capitulo-*.md"))
     if not public_files:
@@ -42,7 +45,7 @@ def move_public_chapters() -> list[tuple[Path, Path]]:
         return (file, target)
 
     sorted_files = sorted(public_files, key=chapter_sort_key)
-    with ThreadPoolExecutor(max_workers=os.cpu_count() or 4) as executor:
+    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
         results = executor.map(process_move, sorted_files)
         moved = [r for r in results if r is not None]
 

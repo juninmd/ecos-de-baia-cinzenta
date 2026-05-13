@@ -2,7 +2,7 @@ import argparse
 import sys
 import shutil
 from pathlib import Path
-from concurrent.futures import ThreadPoolExecutor, as_completed
+from concurrent.futures import ThreadPoolExecutor, as_completed, wait
 import os
 
 # Add root project dir to pythonpath to allow relative imports from scripts
@@ -83,8 +83,6 @@ class VideoPipeline:
         if self.generator is None:
             from scripts.video_gen.wan_client import WanVideoGenerator
             self.generator = WanVideoGenerator(self.temp_dir)
-
-        from concurrent.futures import ThreadPoolExecutor, wait
 
         with ThreadPoolExecutor(max_workers=2) as executor:
             audio_future = executor.submit(generate_narration, texto, audio_path)

@@ -6,9 +6,12 @@ from __future__ import annotations
 import re
 import argparse
 import os
+from concurrent.futures import ThreadPoolExecutor
 from dataclasses import dataclass
 from pathlib import Path
 from statistics import mean
+
+MAX_WORKERS = os.cpu_count() or 4
 
 DOCS_DIR = Path("docs")
 PERSONAGENS = DOCS_DIR / "personagens.md"
@@ -48,7 +51,6 @@ def chapter_number(path: Path) -> float:
 
 
 def load_chapters() -> list[Chapter]:
-    from concurrent.futures import ThreadPoolExecutor
     chapters = []
 
     def process_file(file: Path) -> Chapter | None:
@@ -59,7 +61,7 @@ def load_chapters() -> list[Chapter]:
         return None
 
     files = list(DOCS_DIR.glob("capitulo-*.md"))
-    with ThreadPoolExecutor(max_workers=os.cpu_count() or 4) as executor:
+    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
         results = executor.map(process_file, files)
         chapters = [ch for ch in results if ch is not None]
 
@@ -136,9 +138,16 @@ def check_character_consistency(chapters: list[Chapter], aliases: dict[str, set[
     # Checa se capítulos recentes perderam protagonistas centrais.
     recent = chapters[-10:]
 
+    # Precompile the patterns for performance
+    compiled_patterns = []
     for canonical, fallback_aliases in CENTRAL_ALIASES.items():
         alias_set = aliases.get(canonical, fallback_aliases)
-        pattern = re.compile(rf"\b(?:{'|'.join(map(re.escape, alias_set))})\b", re.IGNORECASE)
+        compiled_patterns.append((
+            canonical,
+            re.compile(rf"\b(?:{'|'.join(map(re.escape, alias_set))})\b", re.IGNORECASE)
+        ))
+
+    for canonical, pattern in compiled_patterns:
         mentions = sum(1 for ch in recent if pattern.search(ch.text))
 
         if mentions <= 1:
