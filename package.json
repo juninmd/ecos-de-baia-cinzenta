@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "PYTHONPATH=. pytest tests/ scripts/",
+    "test": "python -m pytest tests/ scripts/",
     "build:sw": "tsc -p docs/tsconfig.sw.json",
     "docs:dev": "npm run build:sw && vitepress dev docs",
     "docs:build": "npm run build:sw && vitepress build docs",
@@ -41,9 +41,9 @@
     "medium-zoom": "^1.1.0"
   },
   "optionalDependencies": {
-    "@capacitor/android": "^6.2.1",
-    "@capacitor/cli": "^6.2.1",
-    "@capacitor/core": "^6.2.1"
+    "@capacitor/android": "6.2.1",
+    "@capacitor/cli": "6.2.1",
+    "@capacitor/core": "6.2.1"
   },
   "packageManager": "pnpm@10.30.3",
   "release": {

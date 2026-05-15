@@ -1,6 +1,6 @@
 # Existing dependencies
-google-genai
-pillow
+google-genai>=2.0.0
+pillow>=10.3.0
 requests
 ollama>=0.4.7
 
@@ -8,7 +8,7 @@ ollama>=0.4.7
 gtts>=2.5.0
 pydub>=0.25.1
 numpy>=1.24.0
-Pillow>=10.0.0
+Pillow>=10.3.0
 
 # Testing
 pytest>=7.4.0

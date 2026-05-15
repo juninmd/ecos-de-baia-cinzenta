@@ -1,9 +1,9 @@
 # Stage 1: Build
 FROM node:23-alpine AS builder
-RUN npm install -g pnpm
+RUN npm install -g pnpm && npm cache clean --force
 WORKDIR /app
 COPY package.json pnpm-lock.yaml ./
-RUN pnpm install --frozen-lockfile
+RUN pnpm install --frozen-lockfile --config.store-dir=/tmp/pnpm-store
 COPY . .
 RUN pnpm run docs:build
 
