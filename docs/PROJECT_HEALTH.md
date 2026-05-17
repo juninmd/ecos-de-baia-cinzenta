@@ -33,7 +33,9 @@ This document records the repository improvement pass applied on 2026-05-17.
 - package script: docs:preview
 - package script: icons:generate
 - python script: local-art-gen
+- python script: local-art-gen
 - package script: test
+- python script: video-gen
 - python script: video-gen
 
 ## Improvement Plan
