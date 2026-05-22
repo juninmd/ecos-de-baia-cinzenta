@@ -1,5 +1,7 @@
 # Ecos de Baía Cinzenta
 
+<img width="1365" height="768" alt="image" src="https://github.com/user-attachments/assets/9a99341a-9473-49bc-a1d8-75641ec84085" />
+
 > *Um thriller noir cyberpunk sobre memórias roubadas, chuva ácida e a busca pela verdade em uma cidade que nunca dorme.*
 
 🔴 **[ACESSE O LIVRO ONLINE AQUI](https://ecos-de-baia-cinzenta.netlify.app/)** 🔴
