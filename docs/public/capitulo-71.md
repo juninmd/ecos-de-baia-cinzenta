@@ -7,7 +7,7 @@ image: /capitulo_71.jpg
 
 O Santo avançou. Ele não era apenas forte; ele era a encarnação da força bruta combinada com a precisão de uma máquina.
 
-Gabo rolou para a direita, evitando um golpe que partiu uma coluna de concreto ao meio.
+Gabo rolou para a direita, evitando por pouco um golpe que partiu uma coluna de concreto ao meio.
 
 — Val! O terminal! — gritou Gabo, disparando a escopeta nas articulações do joelho do gigante. O Santo nem vacilou.
 
