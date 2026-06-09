@@ -184,14 +184,14 @@ Este arquivo mantém o controle de progresso sobre o processo de revisão, adequ
 - [ ] **Capítulo 97: O Último Suspiro** - Revisado. Assegurada a presença do andar pesado e ranger de engrenagens no epílogo, validando a sobrevivência falha de Gabo. A cena final sem vícios clichês reforça a coesão. Arquivo de análise criado.
 
 ## Lote 33: Capítulos 98 a 100
-- [ ] **Capítulo 98: A Cidade Silenciosa** - Revisado. Corrigida violação grave de lore: removida a fumaça de cigarros baratos e o ato do personagem de prender a respiração, alterando para "cheiro de mofo e café amargo", preservando a fobia central e trauma de Gabo. A limitação física através das pernas mecânicas passivas (sem servos) foi bem estabelecida. Arquivo de análise atualizado.
-- [ ] **Capítulo 99: O Despertar da Máquina** - Revisado. Menção acidental a "fumaça das velas" corrigida preventivamente para "penumbra das velas" visando isolar o gatilho. Resolução tática do combate manteve as limitações tecnológicas. Arquivo de análise atualizado.
-- [ ] **Capítulo 100: O Ventre da Besta** - Revisado. Ajustada quebra de continuidade nas órteses de Gabo: a menção de "clique-clique metálico dos servos" foi corrigida para "clique-clique metálico das travas passivas" para se adequar às regras estabelecidas no Cap 98. Arquivo de análise atualizado.
+- [x] **Capítulo 98: A Cidade Silenciosa** - Revisado. Corrigida violação grave de lore: removida a fumaça de cigarros baratos e o ato do personagem de prender a respiração, alterando para "cheiro de mofo e café amargo", preservando a fobia central e trauma de Gabo. A limitação física através das pernas mecânicas passivas (sem servos) foi bem estabelecida. Arquivo de análise atualizado.
+- [x] **Capítulo 99: O Despertar da Máquina** - Revisado. Menção acidental a "fumaça das velas" corrigida preventivamente para "penumbra das velas" visando isolar o gatilho. Resolução tática do combate manteve as limitações tecnológicas. Arquivo de análise atualizado.
+- [x] **Capítulo 100: O Ventre da Besta** - Revisado. Ajustada quebra de continuidade nas órteses de Gabo: a menção de "clique-clique metálico dos servos" foi corrigida para "clique-clique metálico das travas passivas" para se adequar às regras estabelecidas no Cap 98. Arquivo de análise atualizado.
 
 ## Lote 34: Capítulos 101 a 103
-- [ ] **Capítulo 101: Ressonância** - Revisado. Nenhuma menção a fumaça ou tabagismo. O foco se manteve perfeitamente na dor e peso físico das órteses durante as manobras evasivas de Gabo. Arquivo de análise criado.
-- [ ] **Capítulo 102: Raízes Amargas** - Revisado. O termo fumaça não foi encontrado. As restrições cibernéticas de Gabo em combate com Roberto foram coerentes. Arquivo de análise criado.
-- [ ] **Capítulo 103: A Convergência** - Revisado. Não foram encontrados gatilhos sobre cigarros. As consequências biológicas e físicas nos corpos modificados continuam consistentes com o lore geral. Arquivo de análise criado.
+- [x] **Capítulo 101: Ressonância** - Revisado. Nenhuma menção a fumaça ou tabagismo. O foco se manteve perfeitamente na dor e peso físico das órteses durante as manobras evasivas de Gabo. Arquivo de análise criado.
+- [x] **Capítulo 102: Raízes Amargas** - Revisado. O termo fumaça não foi encontrado. As restrições cibernéticas de Gabo em combate com Roberto foram coerentes. Arquivo de análise criado.
+- [x] **Capítulo 103: A Convergência** - Revisado. Não foram encontrados gatilhos sobre cigarros. As consequências biológicas e físicas nos corpos modificados continuam consistentes com o lore geral. Arquivo de análise criado.
 
 ## Lote 56: Capítulos 164 a 166
 - [ ] **Capítulo 164: O Cofre de Concreto** - Revisor sem problemas de lore encontrados. Sem apelo ao fumo de Gabo; foco na alucinação sensorial (cheiro) combatida com a dor de seus tocos, perfeitamente alinhado. Arquivo de análise criado.
@@ -199,29 +199,29 @@ Este arquivo mantém o controle de progresso sobre o processo de revisão, adequ
 - [ ] **Capítulo 166: A Lógica da Fome** - Revisor sem problemas de lore encontrados. Protagonista não fuma e usa a dor autoinfligida para clarear a mente do cheiro alucinante. Transição impecável de biológico para puramente cibernético. Arquivo de análise criado.
 
 ## Lote 35: Capítulos 104 a 106
-- [ ] **Capítulo 104: O Preço da Alvorada** - Revisado. Substituído o termo "fumaça" (barreira de fumaça) por "poluição" para não violar a blindagem da fobia de Gabo. A impotência dele com as órteses quebradas e a atmosfera tecnológica opressora de Dante estão muito coesas. Arquivo de análise criado.
-- [ ] **Capítulo 105** - Revisado. Removida menção de "charuto" no texto para eliminar vícios de tabagismo na cena e evitar indiretamente o trauma de Gabo. Ação e restrições físicas são mantidas. Arquivo de análise criado.
-- [ ] **Capítulo 106** - Revisado. O texto não apresenta gatilhos (fumaça/cigarros). O peso e o desgaste das pernas mecânicas funcionam como limitadores do protagonista. Arquivo de análise criado.
+- [x] **Capítulo 104: O Preço da Alvorada** - Revisado. Substituído o termo "fumaça" (barreira de fumaça) por "poluição" para não violar a blindagem da fobia de Gabo. A impotência dele com as órteses quebradas e a atmosfera tecnológica opressora de Dante estão muito coesas. Arquivo de análise criado.
+- [x] **Capítulo 105** - Revisado. Removida menção de "charuto" no texto para eliminar vícios de tabagismo na cena e evitar indiretamente o trauma de Gabo. Ação e restrições físicas são mantidas. Arquivo de análise criado.
+- [x] **Capítulo 106** - Revisado. O texto não apresenta gatilhos (fumaça/cigarros). O peso e o desgaste das pernas mecânicas funcionam como limitadores do protagonista. Arquivo de análise criado.
 
 ## Lote 36: Capítulos 107 a 109
-- [ ] **Capítulo 107** - Revisado. Nenhuma menção a gatilhos de fumaça para Gabo. O capítulo mantém as descrições da tensão mecânica/cibernética. Arquivo de análise criado.
-- [ ] **Capítulo 108** - Revisado. O arquivo não contém infrações de lore relacionadas a tabagismo ou integridade de locomoção. Arquivo de análise criado.
-- [ ] **Capítulo 109: Frequência Fantasma** - Revisado. A expressão "engasgando fumaça preta" relacionada ao blindado foi alterada para "engasgando fuligem escura" para manter o bloqueio total contra gatilhos psicológicos do protagonista. O desgaste das órteses de perna de Gabo foi adequadamente pontuado. Arquivo de análise criado.
+- [x] **Capítulo 107** - Revisado. Nenhuma menção a gatilhos de fumaça para Gabo. O capítulo mantém as descrições da tensão mecânica/cibernética. Arquivo de análise criado.
+- [x] **Capítulo 108** - Revisado. O arquivo não contém infrações de lore relacionadas a tabagismo ou integridade de locomoção. Arquivo de análise criado.
+- [x] **Capítulo 109: Frequência Fantasma** - Revisado. A expressão "engasgando fumaça preta" relacionada ao blindado foi alterada para "engasgando fuligem escura" para manter o bloqueio total contra gatilhos psicológicos do protagonista. O desgaste das órteses de perna de Gabo foi adequadamente pontuado. Arquivo de análise criado.
 
 ## Lote 37: Capítulos 110 a 112
-- [ ] **Capítulo 110** - Revisado. Nenhuma menção a gatilhos de fumaça para Gabo. Lore consistente. Arquivo de análise criado.
-- [ ] **Capítulo 111** - Revisado. Sem infrações de lore identificadas. Arquivo de análise criado.
-- [ ] **Capítulo 112: O Peso da Memória** - Revisado. Mantém as restrições físicas do protagonista (perna travou, andou mancando) e não apresenta linguagem relacionada a tabagismo. Arquivo de análise criado.
+- [x] **Capítulo 110** - Revisado. Nenhuma menção a gatilhos de fumaça para Gabo. Lore consistente. Arquivo de análise criado.
+- [x] **Capítulo 111** - Revisado. Sem infrações de lore identificadas. Arquivo de análise criado.
+- [x] **Capítulo 112: O Peso da Memória** - Revisado. Mantém as restrições físicas do protagonista (perna travou, andou mancando) e não apresenta linguagem relacionada a tabagismo. Arquivo de análise criado.
 
 ## Lote 38: Capítulos 113 a 116
-- [ ] **Capítulo 113: Carga Viva** - Revisado. Nenhuma menção a gatilhos de fumaça. As pernas mecânicas e a condição física de Gabo foram mantidas. Arquivo de análise criado.
-- [ ] **Capítulo 114: A Linha de Montagem** - Revisado. Nenhuma violação de lore identificada. Arquivo de análise criado.
-- [ ] **Capítulo 115: O Arquiteto da Carne** - Revisado. Quebra de lore grave corrigida: A intenção de Gabo fumar foi substituída por uma alucinação de fumaça sufocante que ele expulsa causando a si próprio dor física lancinante. Arquivo de análise criado.
-- [ ] **Capítulo 116: Pressão Crítica** - Revisado. Quebra de lore grave corrigida: O desejo de fumar de Gabo foi substituído por alucinação olfativa de fumaça sufocante que ele quebra infligindo a si próprio grave dor física na palma da mão e na perna machucada. Arquivo de análise criado.
+- [x] **Capítulo 113: Carga Viva** - Revisado. Nenhuma menção a gatilhos de fumaça. As pernas mecânicas e a condição física de Gabo foram mantidas. Arquivo de análise criado.
+- [x] **Capítulo 114: A Linha de Montagem** - Revisado. Nenhuma violação de lore identificada. Arquivo de análise criado.
+- [x] **Capítulo 115: O Arquiteto da Carne** - Revisado. Quebra de lore grave corrigida: A intenção de Gabo fumar foi substituída por uma alucinação de fumaça sufocante que ele expulsa causando a si próprio dor física lancinante. Arquivo de análise criado.
+- [x] **Capítulo 116: Pressão Crítica** - Revisado. Quebra de lore grave corrigida: O desejo de fumar de Gabo foi substituído por alucinação olfativa de fumaça sufocante que ele quebra infligindo a si próprio grave dor física na palma da mão e na perna machucada. Arquivo de análise criado.
 
 ## Lote 39: Capítulos 117 a 119
-- [ ] **Capítulo 117: Zero Absoluto** - Revisado. Reforçada as menções a órteses mecânicas para manter o lore. Remoção do gatilho de fumaça: a expressão "mas não era a fumaça que ele odiava tanto" alterada para "mas não era a asfixia química que o incomodava", e o cano de arma "fumegava" por "exalava vapor". Arquivo de análise criado.
-- [ ] **Capítulo 118: O Colapso da Onda** - Revisado. Quebra de lore severa corrigida onde a androide pedia para ele "parar de fumar". Agora a androide pede para ele "nunca se entregar à ferrugem", o que reforça o arco deles sem vícios estúpidos. Termos como "fumegante" trocados por "vapor espesso". Arquivo de análise criado.
+- [x] **Capítulo 117: Zero Absoluto** - Revisado. Reforçada as menções a órteses mecânicas para manter o lore. Remoção do gatilho de fumaça: a expressão "mas não era a fumaça que ele odiava tanto" alterada para "mas não era a asfixia química que o incomodava", e o cano de arma "fumegava" por "exalava vapor". Arquivo de análise criado.
+- [x] **Capítulo 118: O Colapso da Onda** - Revisado. Quebra de lore severa corrigida onde a androide pedia para ele "parar de fumar". Agora a androide pede para ele "nunca se entregar à ferrugem", o que reforça o arco deles sem vícios estúpidos. Termos como "fumegante" trocados por "vapor espesso". Arquivo de análise criado.
 - [ ] **Capítulo 119: Cinzas Frias** - Revisado. Violação de lore gravíssima corrigida: Gabo ansiava por um trago de cigarro, algo impossível pelo seu trauma. Substituído pelo cheiro doce servindo de gatilho de uma alucinação de "fumaça sufocante" da qual ele escapa usando dor física para ancorar na realidade (Colar do Sol). Arquivo de análise criado.
 
 ## Lote 40: Capítulos 120 a 122
