@@ -166,22 +166,22 @@ Este arquivo mantém o controle de progresso sobre o processo de revisão, adequ
 ## Lote 29: Capítulos 86 a 88
 - [ ] **Capítulo 86: Simbiose** - Revisado. Adicionado o detalhe crucial sobre o uso contínuo de órteses mecânicas para a locomoção de Gabo na exploração do Jardim. Arquivo de análise criado.
 - [ ] **Capítulo 87: O Novo Sacerdócio** - Revisado. Corrigida inconsistência de personagens: o ex-técnico de TI agora convertido antagonista botânico chamava-se "Jonas", o mesmo nome do Capitão Jonas Vilar presente na cena, o que não faz sentido. Antagonista alterado para Teo. Arquivo de análise criado.
-- [ ] **Capítulo 88: Sintomas de Abstinência** - Revisado. Corrigida inconsistência narrativa chamando Aria de "filha", revertido para "irmã", e restaurada a âncora textual em que Gabo busca a dor física excruciante das pernas destruídas para evitar enlouquecer com a alucinação botânica. Arquivo de análise criado.
+- [x] **Capítulo 88: Sintomas de Abstinência** - Revisado. Corrigida inconsistência narrativa chamando Aria de "filha", revertido para "irmã", e restaurada a âncora textual em que Gabo busca a dor física excruciante das pernas destruídas para evitar enlouquecer com a alucinação botânica. Arquivo de análise criado.
 
 ## Lote 30: Capítulos 89 a 91
-- [ ] **Capítulo 89: Memória Genética** - Revisado. Reforçada a descrição do peso das órteses mecânicas e a dificuldade de locomoção de Gabo. A coerência de fisicalidade do personagem no pós-dano está garantida. Arquivo de análise criado.
-- [ ] **Capítulo 90: O Arquivista** - Revisado. Adicionada a restrição orgânica do corpo destruído do protagonista nas ações descritivas dentro da biblioteca. Arquivo de análise criado.
-- [ ] **Capítulo 91: Protocolo Gênesis** - Revisado. Reestabelecida a identidade de Aria como irmã de Gabo nos diálogos finais para aumentar a profundidade da escolha de sacrifício, junto à dor constante dos ligamentos. Arquivo de análise criado.
+- [x] **Capítulo 89: Memória Genética** - Revisado. Reforçada a descrição do peso das órteses mecânicas e a dificuldade de locomoção de Gabo. A coerência de fisicalidade do personagem no pós-dano está garantida. Arquivo de análise criado.
+- [x] **Capítulo 90: O Arquivista** - Revisado. Adicionada a restrição orgânica do corpo destruído do protagonista nas ações descritivas dentro da biblioteca. Arquivo de análise criado.
+- [x] **Capítulo 91: Protocolo Gênesis** - Revisado. Reestabelecida a identidade de Aria como irmã de Gabo nos diálogos finais para aumentar a profundidade da escolha de sacrifício, junto à dor constante dos ligamentos. Arquivo de análise criado.
 
 ## Lote 31: Capítulos 92 a 94
-- [ ] **Capítulo 92: A Praga de Ferro** - Revisado. Perspectiva focada em Vilar. Sem quebras de lore no protagonista, que está ausente. Arquivo de análise criado.
-- [ ] **Capítulo 93: Fome** - Revisado. Reintroduzidas as pesadas órteses mecânicas de Gabo; falas onde ele sugeria fazer esforço físico muscular de carga foram adaptadas para refletir sobrecargar os servomotores das próteses, garantindo consistência com a destruição de suas pernas. Arquivo de análise criado.
-- [ ] **Capítulo 94: O Coração da Colmeia** - Revisado. Incorporado o desgaste, ruído e superaquecimento das pernas mecânicas de Gabo enquanto ele empurrava a carga do servidor ladeira acima. A comunicação espiritual de Aria foi firmada no lore via transmissões por rede fragmentada do comunicador. Arquivo de análise criado.
+- [x] **Capítulo 92: A Praga de Ferro** - Revisado. Perspectiva focada em Vilar. Sem quebras de lore no protagonista, que está ausente. Arquivo de análise criado.
+- [x] **Capítulo 93: Fome** - Revisado. Reintroduzidas as pesadas órteses mecânicas de Gabo; falas onde ele sugeria fazer esforço físico muscular de carga foram adaptadas para refletir sobrecargar os servomotores das próteses, garantindo consistência com a destruição de suas pernas. Arquivo de análise criado.
+- [x] **Capítulo 94: O Coração da Colmeia** - Revisado. Incorporado o desgaste, ruído e superaquecimento das pernas mecânicas de Gabo enquanto ele empurrava a carga do servidor ladeira acima. A comunicação espiritual de Aria foi firmada no lore via transmissões por rede fragmentada do comunicador. Arquivo de análise criado.
 
 ## Lote 32: Capítulos 95 a 97
-- [ ] **Capítulo 95: Sacrifício Necessário** - Revisado. Inseridas menções de falência sistêmica nas engrenagens das órteses de perna de Gabo, para sustentar a lógica orgânica de seu limite físico na reta final. Arquivo de análise criado.
-- [ ] **Capítulo 96: A Grande Convergência** - Revisado. O peso da dor das mutilações e o atrito das pernas mecânicas foram enfatizados como âncoras tangíveis para a resistência mental do protagonista contra a simbiose sedutora da Colmeia. Arquivo de análise criado.
-- [ ] **Capítulo 97: O Último Suspiro** - Revisado. Assegurada a presença do andar pesado e ranger de engrenagens no epílogo, validando a sobrevivência falha de Gabo. A cena final sem vícios clichês reforça a coesão. Arquivo de análise criado.
+- [x] **Capítulo 95: Sacrifício Necessário** - Revisado. Inseridas menções de falência sistêmica nas engrenagens das órteses de perna de Gabo, para sustentar a lógica orgânica de seu limite físico na reta final. Arquivo de análise criado.
+- [x] **Capítulo 96: A Grande Convergência** - Revisado. O peso da dor das mutilações e o atrito das pernas mecânicas foram enfatizados como âncoras tangíveis para a resistência mental do protagonista contra a simbiose sedutora da Colmeia. Arquivo de análise criado.
+- [x] **Capítulo 97: O Último Suspiro** - Revisado. Assegurada a presença do andar pesado e ranger de engrenagens no epílogo, validando a sobrevivência falha de Gabo. A cena final sem vícios clichês reforça a coesão. Arquivo de análise criado.
 
 ## Lote 33: Capítulos 98 a 100
 - [ ] **Capítulo 98: A Cidade Silenciosa** - Revisado. Corrigida violação grave de lore: removida a fumaça de cigarros baratos e o ato do personagem de prender a respiração, alterando para "cheiro de mofo e café amargo", preservando a fobia central e trauma de Gabo. A limitação física através das pernas mecânicas passivas (sem servos) foi bem estabelecida. Arquivo de análise atualizado.
