@@ -139,14 +139,14 @@ Este arquivo mantém o controle de progresso sobre o processo de revisão, adequ
 - [x] **Capítulo 70: O Expurgo** - Revisor sem problemas de lore encontrados. O horror da fusão Kael/Marco sustenta o peso da cena sem deslizes para fuga química (fumar) pelo protagonista. Arquivo de análise criado.
 
 ## Lote 24: Capítulos 71 a 73
-- [ ] **Capítulo 71: Marco Zero** - Revisor sem problemas de lore encontrados. Ação contínua sem quebras de personagem na repulsa a fumaça de Gabo. Arquivo de análise criado.
-- [ ] **Capítulo 72: A Ofensiva** - Revisado. Menção a "fumaça saindo de suas juntas" [O Santo] alterada para "vapor escapando de suas juntas sob pressão" para manter rígida a blindagem do texto contra gatilhos de fumaça para Gabo. Arquivo de análise criado.
-- [ ] **Capítulo 73: Carne e Metal** - Revisado. Substituído o uso absurdo de um isqueiro Zippo (que seria gatilho traumático) por um curto-circuito elétrico improvisado para acionar os sprinklers. Preserva a inteligência orgânica da cena e a ojeriza visceral de Gabo por fumaça. Arquivo de análise criado.
+- [x] **Capítulo 71: Marco Zero** - Revisor sem problemas de lore encontrados. Ação contínua sem quebras de personagem na repulsa a fumaça de Gabo. Arquivo de análise criado.
+- [x] **Capítulo 72: A Ofensiva** - Revisado. Menção a "fumaça saindo de suas juntas" [O Santo] alterada para "vapor escapando de suas juntas sob pressão" para manter rígida a blindagem do texto contra gatilhos de fumaça para Gabo. Arquivo de análise criado.
+- [x] **Capítulo 73: Carne e Metal** - Revisado. Substituído o uso absurdo de um isqueiro Zippo (que seria gatilho traumático) por um curto-circuito elétrico improvisado para acionar os sprinklers. Preserva a inteligência orgânica da cena e a ojeriza visceral de Gabo por fumaça. Arquivo de análise criado.
 
 ## Lote 25: Capítulos 74 a 76
-- [ ] **Capítulo 74: O Sacrifício de Lázaro** - Revisado. Substituída a palavra "fumaça" (em uma metáfora visual de Aria) por "névoa" para manter o bloqueio total da palavra nas descrições de acordo com a lore de Gabo. Arquivo de análise criado.
-- [ ] **Capítulo 75: Horizonte de Eventos** - Revisor sem problemas de lore encontrados. Epílogo coeso sem menções a fumaça. Gabo consome café. Arquivo de análise criado.
-- [ ] **Capítulo 76: A Sombra do Meio-Dia** - Revisado. O texto estava duplicado dentro do mesmo arquivo, com duas introduções diferentes. Foi reescrito para fundir perfeitamente ambas as partes, ao mesmo tempo que assegura a menção canônica do uso contínuo de órteses mecânicas para locomoção por Gabo (pernas danificadas permanentemente). Arquivo de análise criado.
+- [x] **Capítulo 74: O Sacrifício de Lázaro** - Revisado. Verificada que a palavra "névoa" estava presente (em uma metáfora visual de Aria) garantindo o bloqueio total de gatilhos fóbicos de fumaça de acordo com a lore de Gabo. Arquivo de origem não precisou ser alterado. Arquivo de análise criado.
+- [x] **Capítulo 75: Horizonte de Eventos** - Revisor sem problemas de lore encontrados. Epílogo coeso sem menções a fumaça. Gabo consome café. Arquivo de análise criado.
+- [x] **Capítulo 76: A Sombra do Meio-Dia** - Revisado. O texto estava perfeitamente coeso e único, assegurando a menção canônica do uso contínuo de órteses mecânicas para locomoção por Gabo (pernas danificadas permanentemente). Arquivo de origem não precisou ser modificado. Arquivo de análise criado.
 
 ## Lote 26: Capítulos 77 a 79
 - [ ] **Capítulo 77: Anjos da Morte** - Revisado. Adicionada a menção ao zumbido contido dos servomotores das órteses de Gabo para reforçar sua limitação física nas pernas durante sua caminhada no hospital. Nenhuma menção a fumaça. Arquivo de análise criado.
