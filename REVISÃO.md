@@ -144,9 +144,9 @@ Este arquivo mantém o controle de progresso sobre o processo de revisão, adequ
 - [x] **Capítulo 73: Carne e Metal** - Revisor sem problemas de lore encontrados. A cena já utiliza coerentemente um curto-circuito com fiação exposta, sem usos de isqueiro que violariam a ojeriza visceral de Gabo por fumaça. Arquivo de análise criado.
 
 ## Lote 25: Capítulos 74 a 76
-- [ ] **Capítulo 74: O Sacrifício de Lázaro** - Revisado. Substituída a palavra "fumaça" (em uma metáfora visual de Aria) por "névoa" para manter o bloqueio total da palavra nas descrições de acordo com a lore de Gabo. Arquivo de análise criado.
-- [ ] **Capítulo 75: Horizonte de Eventos** - Revisor sem problemas de lore encontrados. Epílogo coeso sem menções a fumaça. Gabo consome café. Arquivo de análise criado.
-- [ ] **Capítulo 76: A Sombra do Meio-Dia** - Revisado. O texto estava duplicado dentro do mesmo arquivo, com duas introduções diferentes. Foi reescrito para fundir perfeitamente ambas as partes, ao mesmo tempo que assegura a menção canônica do uso contínuo de órteses mecânicas para locomoção por Gabo (pernas danificadas permanentemente). Arquivo de análise criado.
+- [x] **Capítulo 74: O Sacrifício de Lázaro** - Revisado. Substituída a palavra "fumaça" (em uma metáfora visual de Aria) por "névoa" para manter o bloqueio total da palavra nas descrições de acordo com a lore de Gabo. Arquivo de análise criado.
+- [x] **Capítulo 75: Horizonte de Eventos** - Revisor sem problemas de lore encontrados. Epílogo coeso sem menções a fumaça. Gabo consome café. Arquivo de análise criado.
+- [x] **Capítulo 76: A Sombra do Meio-Dia** - Revisado. O texto estava duplicado dentro do mesmo arquivo, com duas introduções diferentes. Foi reescrito para fundir perfeitamente ambas as partes, ao mesmo tempo que assegura a menção canônica do uso contínuo de órteses mecânicas para locomoção por Gabo (pernas danificadas permanentemente). Arquivo de análise criado.
 
 ## Lote 26: Capítulos 77 a 79
 - [ ] **Capítulo 77: Anjos da Morte** - Revisado. Adicionada a menção ao zumbido contido dos servomotores das órteses de Gabo para reforçar sua limitação física nas pernas durante sua caminhada no hospital. Nenhuma menção a fumaça. Arquivo de análise criado.
