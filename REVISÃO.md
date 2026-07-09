@@ -149,9 +149,9 @@ Este arquivo mantém o controle de progresso sobre o processo de revisão, adequ
 - [x] **Capítulo 76: A Sombra do Meio-Dia** - Revisado. O texto estava duplicado dentro do mesmo arquivo, com duas introduções diferentes. Foi reescrito para fundir perfeitamente ambas as partes, ao mesmo tempo que assegura a menção canônica do uso contínuo de órteses mecânicas para locomoção por Gabo (pernas danificadas permanentemente). Arquivo de análise criado.
 
 ## Lote 26: Capítulos 77 a 79
-- [ ] **Capítulo 77: Anjos da Morte** - Revisado. Adicionada a menção ao zumbido contido dos servomotores das órteses de Gabo para reforçar sua limitação física nas pernas durante sua caminhada no hospital. Nenhuma menção a fumaça. Arquivo de análise criado.
-- [ ] **Capítulo 78: O Jardim de Concreto** - Revisado. Adicionada a menção à dificuldade de Gabo ao sair do carro e ao impacto nas pernas amortecido pelas órteses. Nenhum gatilho de fumaça encontrado. Arquivo de análise criado.
-- [ ] **Capítulo 79: Frequências Fantasmas** - Revisado; sem problemas de lore encontrados. Conversação tensa mantendo a lore intacta de rádio analógico versus hiper-digitalização sem vícios inadequados para o protagonista. Arquivo de análise criado.
+- [x] **Capítulo 77: Anjos da Morte** - Revisado. Adicionada a menção ao zumbido contido dos servomotores das órteses de Gabo para reforçar sua limitação física nas pernas durante sua caminhada no hospital. Nenhuma menção a fumaça. Arquivo de análise criado.
+- [x] **Capítulo 78: O Jardim de Concreto** - Revisado. Adicionada a menção à dificuldade de Gabo ao sair do carro e ao impacto nas pernas amortecido pelas órteses. Nenhum gatilho de fumaça encontrado. Arquivo de análise criado.
+- [x] **Capítulo 79: Frequências Fantasmas** - Revisado; sem problemas de lore encontrados. Conversação tensa mantendo a lore intacta de rádio analógico versus hiper-digitalização sem vícios inadequados para o protagonista. Arquivo de análise criado.
 
 ## Lote 27: Capítulos 80 a 82
 - [ ] **Capítulo 80: A Autópsia de um Deus** - Revisado sem problemas de lore encontrados. Nenhuma menção a fumaça. Uso de dor física em situações de estresse. Arquivo de análise criado.
