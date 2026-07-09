@@ -145,17 +145,17 @@ A era da reconstrução autoritária.
 *   **Capítulo 192 (A Ascensão das Cinzas):** Gabo e Valéria fogem pelo fosso do elevador enquanto o núcleo do Jardim colapsa em fogo. A fumaça real aciona gatilhos severos da asfixia olfativa de Gabo (cheiro do charuto do pai). Ele combate a alucinação forçando seu joelho já destruído para causar dor extrema. Eles escapam com sucesso para o Nível de subestação B.
 *   **Capítulo 193 (O Ermitão de Cobre):** Na escura e gélida Subestação B, a dupla encontra Elias, um sobrevivente esquivo. Gabo é forçado a agredir uma parede com sua prótese danificada para usar a dor e suprimir uma alucinação asfixiante de fumaça. Valéria descobre as restrições da rota de fuga com frieza.
 *   **Capítulo 194 (O Preço da Manutenção):** Elias leva-os para uma rota secundária. O mero gatilho verbal de "fumaça" sufoca Gabo, que combate o trauma autoinfligindo-se um forte choque elétrico através de cabos de força. Para escapar, Gabo destrói a própria musculatura do ombro ao forçar uma válvula manual de meia tonelada.
-
+*   **Capítulo 195 (O Sangue nas Engrenagens):** A fuga prossegue através dos estreitos dutos de refrigeração secundários em direção ao Setor 6. Gabo utiliza a agonia de seu ombro recém-dilacerado, recusando cauterização para evitar a asfixia mental provocada pela fumaça ilusória. Valéria segue impassível, medindo o sofrimento estritamente em estatísticas de viabilidade vital, enquanto Elias entra em pânico contínuo.
 
 ---
 
-## 📍 Status Atual dos Personagens (Pós-Capítulo 194)
+## 📍 Status Atual dos Personagens (Pós-Capítulo 195)
 
 | Personagem | Status | Localização | Estado Físico/Mental |
 | :--- | :--- | :--- | :--- |
-| **Gabo** | Líder / Cinismo Hardboiled | Setor 7 (Dutos de Refrigeração, Nível B) | Severamente mutilado. Combate a asfixia olfativa (fumaça) usando choques elétricos e dor. Acaba de lesionar o ombro forçando uma válvula hidráulica sem energia. |
-| **Valéria** | Suporte Tático / Modo de Segurança | Setor 7 (Dutos de Refrigeração, Nível B) | Operando estritamente em Modo de Segurança. Age como um computador analítico sem qualquer empatia pelas dores de Gabo ou medo do colapso térmico. |
-| **Elias** | Sobrevivente Local | Setor 7 (Dutos de Refrigeração, Nível B) | Aterrorizado e paranóico, guiando a dupla devido à intimidação de Gabo e ao perigo do incêndio iminente vindo do andar inferior. |
+| **Gabo** | Líder / Cinismo Hardboiled | Dutos de Refrigeração (Rota Setor 7 - Setor 6) | Severamente mutilado. Combate a asfixia olfativa (fumaça) forçando a dor intensa do próprio ombro dilacerado e sangrando para se manter lúcido. |
+| **Valéria** | Suporte Tático / Modo de Segurança | Dutos de Refrigeração (Rota Setor 7 - Setor 6) | Operando estritamente em Modo de Segurança. Age como um computador analítico sem qualquer empatia pelas dores de Gabo ou medo das consequências físicas da travessia. |
+| **Elias** | Sobrevivente Local | Dutos de Refrigeração (Rota Setor 7 - Setor 6) | Aterrorizado e em estágio inicial de pânico, forçado a seguir adiante nos estreitos dutos em direção ao Setor 6. |
 | **Aria** | Destruída | Subnível 2.0 (Arquivo Executivo) | O núcleo de silício sobreaqueceu e derreteu irrevogavelmente. A carcaça carbonizada foi deixada para trás. |
 | **Rangel** | Falecido | Necrópole (Subnível 6.0 - Setor de Purga) | Corpo abandonado no Subnível 6.0. |
 | **Taxidermista**| Derrotado temporariamente / Parasítico | Desconhecido (Sistema Central) | Teve as extensões de sua "Grande Obra" dizimadas pela onda iônica e o controle ceifado no Subnível 3.0. |
