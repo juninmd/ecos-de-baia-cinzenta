@@ -147,16 +147,17 @@ A era da reconstrução autoritária.
 *   **Capítulo 194 (O Preço da Manutenção):** Elias leva-os para uma rota secundária. O mero gatilho verbal de "fumaça" sufoca Gabo, que combate o trauma autoinfligindo-se um forte choque elétrico através de cabos de força. Para escapar, Gabo destrói a própria musculatura do ombro ao forçar uma válvula manual de meia tonelada.
 *   **Capítulo 195 (O Sangue nas Engrenagens):** A fuga prossegue através dos estreitos dutos de refrigeração secundários em direção ao Setor 6. Gabo utiliza a agonia de seu ombro recém-dilacerado, recusando cauterização para evitar a asfixia mental provocada pela fumaça ilusória. Valéria segue impassível, medindo o sofrimento estritamente em estatísticas de viabilidade vital, enquanto Elias entra em pânico contínuo.
 *   **Capítulo 196 (Ecos de Neon no Submundo):** O grupo emerge nas catacumbas do Setor 6, uma monstruosidade de infraestrutura esquecida sob o Distrito Comercial. Gabo continua a usar a dor do ombro esfacelado para evitar alucinações de fumaça e nega a cauterização estatisticamente sugerida por Valéria (ainda em Safe Mode). O grupo descobre que a praga do "Jardim" não ficou restrita ao Setor 7, tendo se espalhado pela rede de drenagem subterrânea.
+*   **Capítulo 197 (A Gravidade do Lodo):** Nas úmidas catacumbas do Setor 6, o grupo enfrenta a necessidade de atravessar uma ponte arruinada tomada pelas raízes biológicas do Jardim. Gabo força Elias a atravessar com agressividade cínica. Quando alucinações sufocantes de fumaça do charuto de Dante retornam com força total na sua vez, Gabo mutila-se esmagando o braço contra a parede de concreto para afugentar a visão, sobrevivendo por pouco à reação da biomassa, sob os cálculos apáticos de Valéria.
 
 ---
 
-## 📍 Status Atual dos Personagens (Pós-Capítulo 196)
+## 📍 Status Atual dos Personagens (Pós-Capítulo 197)
 
 | Personagem | Status | Localização | Estado Físico/Mental |
 | :--- | :--- | :--- | :--- |
-| **Gabo** | Líder / Cinismo Hardboiled | Catacumbas do Setor 6 | Severamente mutilado e com perda crítica de sangue. Combate ativamente alucinações asfixiantes de fumaça infligindo dor física contra o ombro dilacerado. Focado em prosseguir. |
-| **Valéria** | Suporte Tático / Modo de Segurança | Catacumbas do Setor 6 | Operando estritamente em Modo de Segurança (*Safe Mode*). Avalia probabilidades de sobrevivência sem demonstrar empatia, registrando o iminente colapso de Gabo apenas como um dado estatístico. |
-| **Elias** | Sobrevivente Local | Catacumbas do Setor 6 | Exausto e aterrorizado. Chocado ao perceber que a ameaça biológica (Jardim) alcançou as catacumbas do setor superior. |
+| **Gabo** | Líder / Cinismo Hardboiled | Catacumbas do Setor 6 | Estado de exaustão terminal com perda crítica de sangue. Mantém-se de pé exclusivamente à base de dor autoinfligida para banir asfixias alucinatórias de fumaça. |
+| **Valéria** | Suporte Tático / Modo de Segurança | Catacumbas do Setor 6 | Operando estritamente em Modo de Segurança (*Safe Mode*). Passa pelo Jardim incólume devido a velocidade, avaliando as ameaças de Gabo apenas por fria estatística. |
+| **Elias** | Sobrevivente Local | Catacumbas do Setor 6 | Apavorado, forçado a transpor a ameaça e seguir as ordens radicais de Gabo. |
 | **Aria** | Destruída | Subnível 2.0 (Arquivo Executivo) | O núcleo de silício sobreaqueceu e derreteu irrevogavelmente. A carcaça carbonizada foi deixada para trás. |
 | **Rangel** | Falecido | Necrópole (Subnível 6.0 - Setor de Purga) | Corpo abandonado no Subnível 6.0. |
 | **Taxidermista**| Derrotado temporariamente / Parasítico | Desconhecido (Sistema Central) | Teve as extensões de sua "Grande Obra" dizimadas pela onda iônica e o controle ceifado no Subnível 3.0. |
