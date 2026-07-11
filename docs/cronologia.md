@@ -148,16 +148,18 @@ A era da reconstrução autoritária.
 *   **Capítulo 195 (O Sangue nas Engrenagens):** A fuga prossegue através dos estreitos dutos de refrigeração secundários em direção ao Setor 6. Gabo utiliza a agonia de seu ombro recém-dilacerado, recusando cauterização para evitar a asfixia mental provocada pela fumaça ilusória. Valéria segue impassível, medindo o sofrimento estritamente em estatísticas de viabilidade vital, enquanto Elias entra em pânico contínuo.
 *   **Capítulo 196 (Ecos de Neon no Submundo):** O grupo emerge nas catacumbas do Setor 6, uma monstruosidade de infraestrutura esquecida sob o Distrito Comercial. Gabo continua a usar a dor do ombro esfacelado para evitar alucinações de fumaça e nega a cauterização estatisticamente sugerida por Valéria (ainda em Safe Mode). O grupo descobre que a praga do "Jardim" não ficou restrita ao Setor 7, tendo se espalhado pela rede de drenagem subterrânea.
 *   **Capítulo 197 (A Gravidade do Lodo):** Nas úmidas catacumbas do Setor 6, o grupo enfrenta a necessidade de atravessar uma ponte arruinada tomada pelas raízes biológicas do Jardim. Gabo força Elias a atravessar com agressividade cínica. Quando alucinações sufocantes de fumaça do charuto de Dante retornam com força total na sua vez, Gabo mutila-se esmagando o braço contra a parede de concreto para afugentar a visão, sobrevivendo por pouco à reação da biomassa, sob os cálculos apáticos de Valéria.
+*   **Capítulo 198 (A Marcha Fúnebre):** Na jornada final pelas catacumbas até o poço de elevação, o grupo descobre que o Jardim está incubando corpos híbridos de sucata cibernética e tecido orgânico. Gabo sofre novamente asfixia pela alucinação do charuto do pai, combatendo-a com uma brutal e exaustiva agressão ao próprio ombro lacerado e forçando seu joelho mecanizado quebrado. O barulho mecânico desperta uma das abominações.
+*   **Capítulo 199 (Engrenagens de Sangue):** Perseguidos pela abominação aracnídea bio-mecânica, Elias entra em colapso. Valéria (em *Safe Mode*) sugere usar o civil de isca tática, mas Gabo, no limite da falência física e mental por conta da sufocante fumaça espectral de Dante, autoinflige dor extrema girando um vergalhão em seu toco amputado exposto para recobrar lucidez total. Ele elimina a criatura eletrocutando-a e quase matando a si mesmo no processo, e o grupo finalmente se tranca dentro do poço de elevação.
 
 ---
 
-## 📍 Status Atual dos Personagens (Pós-Capítulo 197)
+## 📍 Status Atual dos Personagens (Pós-Capítulo 199)
 
 | Personagem | Status | Localização | Estado Físico/Mental |
 | :--- | :--- | :--- | :--- |
-| **Gabo** | Líder / Cinismo Hardboiled | Catacumbas do Setor 6 | Estado de exaustão terminal com perda crítica de sangue. Mantém-se de pé exclusivamente à base de dor autoinfligida para banir asfixias alucinatórias de fumaça. |
-| **Valéria** | Suporte Tático / Modo de Segurança | Catacumbas do Setor 6 | Operando estritamente em Modo de Segurança (*Safe Mode*). Passa pelo Jardim incólume devido a velocidade, avaliando as ameaças de Gabo apenas por fria estatística. |
-| **Elias** | Sobrevivente Local | Catacumbas do Setor 6 | Apavorado, forçado a transpor a ameaça e seguir as ordens radicais de Gabo. |
+| **Gabo** | Líder / Cinismo Hardboiled | Poço de Elevação (Setor 6) | Estado de exaustão terminal, parcialmente eletrocutado, com toco amputado severamente ferido e perda crítica de sangue. Mantém-se de pé exclusivamente à base de dor excruciante autoinfligida para banir asfixias alucinatórias de fumaça. |
+| **Valéria** | Suporte Tático / Modo de Segurança | Poço de Elevação (Setor 6) | Operando estritamente em Modo de Segurança (*Safe Mode*). Avalia as ameaças com fria estatística e chegou a sugerir sacrificar civis por viabilidade tática. |
+| **Elias** | Sobrevivente Local | Poço de Elevação (Setor 6) | Entrou em colapso total de pânico e sobreviveu por pouco ao último confronto. |
 | **Aria** | Destruída | Subnível 2.0 (Arquivo Executivo) | O núcleo de silício sobreaqueceu e derreteu irrevogavelmente. A carcaça carbonizada foi deixada para trás. |
 | **Rangel** | Falecido | Necrópole (Subnível 6.0 - Setor de Purga) | Corpo abandonado no Subnível 6.0. |
 | **Taxidermista**| Derrotado temporariamente / Parasítico | Desconhecido (Sistema Central) | Teve as extensões de sua "Grande Obra" dizimadas pela onda iônica e o controle ceifado no Subnível 3.0. |
