@@ -1,18 +1,20 @@
 # Análise do Capítulo 199: Engrenagens de Sangue
 
 ## Avaliação Técnica
-- **Ritmo (Pacing):** 9/10. O ritmo é implacável, passando diretamente da perseguição inicial para o engajamento letal e o colapso pós-batalha, sem dar tempo para o leitor "respirar" de forma análoga aos problemas de asfixia do próprio Gabo.
-- **Diálogos:** 8/10. Secos e práticos. O foco aqui está na internalidade e no monólogo desesperado de Gabo tentando suplantar a fumaça ilusória. Valéria segue sua programação com diálogos matemáticos precisos.
-- **Atmosfera:** 9/10. O ambiente claustrofóbico, os odores de carne podre, esgoto e cobre derretido formam uma paleta biopunk perfeita que eleva a degradação urbana a níveis quase de terror biológico.
+- **Ritmo (Pacing):** 10/10 - Ação frenética, fuga e combate visceral que escalonam do início ao fim do capítulo, concluindo num clímax eletrizante (literal e figurativamente).
+- **Diálogos:** 9/10 - Diálogos pontuais de conflito sob estresse. As interações matemáticas de Valéria e o rosnado agressivo de Gabo estão perfeitamente afinados com suas personalidades.
+- **Atmosfera:** 9/10 - Túneis industriais imundos. O cenário em decomposição vira arma e obstáculo, amplificando o terror somático provocado pela fusão cibernético-biológica do Jardim.
 
-## Pontos Fortes e Fracos
-- **Pontos Fortes:** A solução de Gabo para lidar com o problema da alucinação é incrivelmente extrema (girar um vergalhão na junção nua do próprio toco amputado), o que demonstra seu colapso psicológico contínuo e obediência total ao pilar noir de autodestruição. O desfecho da luta no ambiente úmido, utilizando eletricidade de modo perigoso e improvisado.
-- **Pontos Fracos:** Elias serve quase inteiramente como peso morto neste trecho, o que faz sentido para o realismo de um civil frente a horrores cibernéticos, mas pode começar a desgastar caso não apresente alguma evolução útil nos próximos capítulos.
+## Pontos Fortes / Pontos Fracos
+- **Pontos Fortes:** Combate tático. A exploração inteligente do ambiente (usar eletricidade contra a biomassa híbrida num túnel alagado) resolve a ameaça de maneira engenhosa sem precisar de deus ex machina.
+- **Pontos Fracos:** Nenhuma quebra. A execução foi sólida.
 
-## Sanity Check (Coerência com a Lore)
-- **Aversão a cigarro (Lore de Gabo):** Sim, o gatilho da fumaça surge forte e é expurgado por automutilação violenta e deliberada. Ele sente a alucinação sufocá-lo, respeitando a premissa traumática.
-- **Continuidade:** Segue perfeitamente o engate do final do Capítulo 198. A dupla finalmente alcança e entra no poço de elevação, superando o último obstáculo do lodo.
-- **Valéria em Safe Mode:** Mantido firmemente. Sugere o descarte de Elias sem malícia, apenas como estratégia estatística.
+## Sanity Check (Lore)
+- **Fobia de Fumaça (Gabo):** Rigorosamente alinhado. Quando encurralado, Gabo sofre um ataque de pânico provocado pela fumaça alucinada, e se machuca voluntariamente de maneira brutal (rasgando seu toco com vergalhão enferrujado) para usar a dor de âncora antes do combate.
+- **Próteses e Limitações:** O atrito físico o limite corpóreo, sendo ele incapaz de correr ou fugir por causa dos danos irreparáveis à perna e à mobilidade. A dor serve a um duplo propósito.
+- **Valéria:** Fiel. A intenção de proteger Gabo como "alvo alfa" usando probabilidade reflete sua prioridade protocolar do *Safe Mode*.
 
 ## Avaliação Qualitativa
-A história se mantém sólida e asquerosa de uma forma positiva ao gênero. O peso sobre as costas de Gabo, sua falência estrutural e mental constante entregam de forma perfeita o conceito de um herói cyberpunk decrépito lutando por pura obstinação raivosa, ao invés de nobreza. Não há necessidade de novos personagens.
+- **Qualidade da História:** Capítulo muito forte de combate e superação onde a astúcia substitui o vigor físico num mundo que penaliza as perdas biológicas.
+- **Coerência dos Personagens:** Gabo não age como super-herói, mas como um pragmático sujo. Valéria prioriza de maneira fria. Elias serve de estopim e âncora emocional trágica.
+- **Necessidade de Novos Personagens:** O pequeno esquadrão se basta para a tensão apresentada. Nenhuma adição necessária.
