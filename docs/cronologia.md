@@ -150,10 +150,14 @@ A era da reconstrução autoritária.
 *   **Capítulo 197 (A Gravidade do Lodo):** Nas úmidas catacumbas do Setor 6, o grupo enfrenta a necessidade de atravessar uma ponte arruinada tomada pelas raízes biológicas do Jardim. Gabo força Elias a atravessar com agressividade cínica. Quando alucinações sufocantes de fumaça do charuto de Dante retornam com força total na sua vez, Gabo mutila-se esmagando o braço contra a parede de concreto para afugentar a visão, sobrevivendo por pouco à reação da biomassa, sob os cálculos apáticos de Valéria.
 *   **Capítulo 198 (A Marcha Fúnebre):** Na jornada final pelas catacumbas até o poço de elevação, o grupo descobre que o Jardim está incubando corpos híbridos de sucata cibernética e tecido orgânico. Gabo sofre novamente asfixia pela alucinação do charuto do pai, combatendo-a com uma brutal e exaustiva agressão ao próprio ombro lacerado e forçando seu joelho mecanizado quebrado. O barulho mecânico desperta uma das abominações.
 *   **Capítulo 199 (Engrenagens de Sangue):** Perseguidos pela abominação aracnídea bio-mecânica, Elias entra em colapso. Valéria (em *Safe Mode*) sugere usar o civil de isca tática, mas Gabo, no limite da falência física e mental por conta da sufocante fumaça espectral de Dante, autoinflige dor extrema girando um vergalhão em seu toco amputado exposto para recobrar lucidez total. Ele elimina a criatura eletrocutando-a e quase matando a si mesmo no processo, e o grupo finalmente se tranca dentro do poço de elevação.
+*   **Capítulo 200 (O Poço do Abismo):** Gabo, Valéria e Elias caem no poço principal do elevador do Setor 6 destruído, escapando da abominação biomecânica. Gabo usa a dor excruciante de choques autoinfligidos para suprimir as alucinações de fumaça geradas pelo trauma, agarrando-se a fiapos de sanidade.
+*   **Capítulo 201 (Degraus de Sangue e Ferrugem):** O grupo sobe por uma escada de manutenção de emergência corroída no poço do elevador para escapar do Jardim. Elias escorrega, e Gabo o segura com o braço gravemente ferido. A dor monumental do ombro rasgado ancora Gabo, dizimando uma alucinação de fumaça iminente.
+*   **Capítulo 202 (O Corredor Silencioso):** O grupo atinge um corredor de concreto estéril, livre da contaminação biológica. O ambiente silencioso permite que as alucinações de fumaça de Gabo retornem intensamente. Para combatê-las, Gabo arremessa violentamente sua prótese contra a parede de concreto, usando o trauma físico profundo como âncora de lucidez, e Valéria analisa o perigo estrutural no local.
+*   **Capítulo 203 (Sombras de Aeterna):** O grupo avança pelo corredor silencioso, encontrando um cemitério industrial de drones esmagados e portas derretidas, sinais históricos do impacto devastador da Praga de Ferro sobre a infraestrutura da Aeterna Corp. A atmosfera revela o desespero mecânico do passado, ecoando o sofrimento do próprio Gabo e indicando que os drones fugiam de algo pior.
 
 ---
 
-## 📍 Status Atual dos Personagens (Pós-Capítulo 199)
+## 📍 Status Atual dos Personagens (Pós-Capítulo 203)
 
 | Personagem | Status | Localização | Estado Físico/Mental |
 | :--- | :--- | :--- | :--- |
