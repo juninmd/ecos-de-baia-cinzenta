@@ -355,3 +355,10 @@ Este arquivo mantém o controle de progresso sobre o processo de revisão, adequ
 - [x] **Capítulo 198: A Marcha Fúnebre** - Revisado durante análise. Mantém o lore da fobia à fumaça combatido com autolesão (Gabo esmagando os próprios nervos). O estado físico e as próteses limitam organicamente o grupo. Valéria segue em Safe Mode avaliando logicamente. Arquivo de análise criado. Revisão da obra completa (até Cap. 198).
 - [x] **Capítulo 199: Engrenagens de Sangue** - Revisado durante análise. Uso coerente de automutilação (com o vergalhão enferrujado) para romper ataque de pânico asfixiante causado pela fobia e garantir sobrevivência em combate. Dinâmica do grupo intacta. Arquivo de análise criado. Revisão da obra completa (até Cap. 199).
 - [x] **Capítulo 200: O Poço do Abismo** - Revisado durante análise. Tensão psicológica da fobia mitigada pelo sofrimento das feridas autoinfligidas do combate anterior e estado das próteses danificadas. A transição para o novo arco mantém a integridade de todos os personagens intacta. Arquivo de análise criado. Revisão da obra completa (até Cap. 200).
+
+---
+
+## Lote 68: Capítulos 201 a 203
+- [x] **Capítulo 201: Degraus de Sangue e Ferrugem** - Revisor sem problemas de lore encontrados. A escalada do poço e o sacrifício físico constante de Gabo mantêm a coerência e evitam os gatilhos proibidos de fumaça. Arquivo de análise criado.
+- [x] **Capítulo 202: O Corredor Silencioso** - Revisor validou. A alucinação do pai fumando e a violenta automutilação de Gabo reforçam fortemente sua condição psicológica e *lore*. Arquivo de análise criado.
+- [x] **Capítulo 203: Sombras de Aeterna** - Revisor avaliou positivamente a introdução dos efeitos históricos da Praga de Ferro, com analogia perfeita à condição das personagens. Lore impecável. Arquivo de análise criado.
