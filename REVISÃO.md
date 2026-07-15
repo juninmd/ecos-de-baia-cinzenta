@@ -362,3 +362,6 @@ Este arquivo mantém o controle de progresso sobre o processo de revisão, adequ
 - [x] **Capítulo 201: Degraus de Sangue e Ferrugem** - Revisor sem problemas de lore encontrados. A escalada do poço e o sacrifício físico constante de Gabo mantêm a coerência e evitam os gatilhos proibidos de fumaça. Arquivo de análise criado.
 - [x] **Capítulo 202: O Corredor Silencioso** - Revisor validou. A alucinação do pai fumando e a violenta automutilação de Gabo reforçam fortemente sua condição psicológica e *lore*. Arquivo de análise criado.
 - [x] **Capítulo 203: Sombras de Aeterna** - Revisor avaliou positivamente a introdução dos efeitos históricos da Praga de Ferro, com analogia perfeita à condição das personagens. Lore impecável. Arquivo de análise criado.
+
+## Lote 69: Capítulo 204
+- [x] **Capítulo 204: O Despertar da Ferrugem** - Revisor validou que não há problemas de lore. O zumbido da órtese, dor utilizada como barreira e ausência do vício em cigarro de Gabo conferem com a base. Arquivo de análise criado.

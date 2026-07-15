@@ -1,18 +1,20 @@
 # Análise Crítica - Capítulo 204
 
-## Avaliação Técnica (Nota: 8.8/10)
-- **Ritmo (Pacing): 9/10.** O capítulo aumenta a tensão gradualmente. Começa com a atmosfera desoladora estabelecida no capítulo anterior, e acelera para um momento de iminente ameaça, mantendo o leitor envolvido na transição de exploração para conflito.
-- **Diálogos: 8.5/10.** Os diálogos refletem perfeitamente o estado de cada personagem: a frieza digital e cirúrgica de Valéria contrasta fortemente com o desespero de Elias e o cinismo endurecido pela dor de Gabo.
-- **Atmosfera: 9/10.** A poeira de ferrugem, a luz âmbar fraca e os sons mecânicos angustiantes constroem uma atmosfera sufocante e perigosa, muito fiel ao Cyberpunk Noir.
+## Avaliação Técnica
+- **Ritmo (Pacing):** 9/10 - A atmosfera começa lenta e densa, aumentando a tensão de forma gradual e orgânica até o clímax de uma nova ameaça mecânica emergir no final do capítulo.
+- **Diálogos:** 8/10 - Curtos, pragmáticos e refletindo as personalidades de cada um. Elias está assustado, Valéria é metodicamente analítica e Gabo reage com cautela e agressividade contida.
+- **Atmosfera:** 10/10 - A descrição da "Praga de Ferro" em pó avermelhado como sangue seco, somada ao galpão escuro e ameaçador e à quietude prévia ao desastre são dignas do tom Cyberpunk Noir.
 
-## Pontos Fortes
-- A forma como Gabo utiliza a dor física do ombro machucado para afastar o cheiro fantasma de tabaco é um excelente uso do "Show, Don't Tell" de seu trauma, ancorando-o narrativamente.
-- A escalada de tensão através das falas de Valéria (sensores falhando, detecção de vibrações subsolo) cria uma expectativa palpável antes da revelação do antagonista mecânico.
+## Pontos Fortes e Fracos
+- **Pontos Fortes:** O capítulo aborda perfeitamente o limite mental de Gabo ao utilizar as dores das pernas e do ombro ferido para subjugar sua fobia à fumaça. Além disso, a progressão das ameaças da Praga de Ferro, fundindo-a em um construto bizarro, evolui perfeitamente a narrativa.
+- **Pontos Fracos:** O combate em si fica no "cliffhanger", embora isso funcione bem como final de capítulo para manter a adrenalina.
 
-## Pontos Fracos
-- O capítulo termina em um *cliffhanger* muito abrupto, que poderia ter se beneficiado de uma ou duas frases adicionais descrevendo visualmente a ameaça emergente para consolidar a gravidade do perigo.
+## Sanity Check (Lore)
+- **Aversão a Fumaça/Cigarros:** Perfeito. O texto menciona explicitamente o trauma alucinatório e a rejeição completa, trocando qualquer vício por "alucinação olfativa do charuto de seu pai", evitada por via da dor autoinflingida.
+- **Pernas e Físico de Gabo:** Em sintonia total. O zumbido da órtese, o peso do maquinário, as dores e a necessidade de se apoiar fisicamente na espingarda.
+- **Valéria:** Seu "Safe Mode" analítico foi bem conduzido. Ela relata os riscos ambientais sem inflexões emocionais, validando seu estado cibernético atual.
 
-## Sanity Check
-- **Gabo interagiu com algum fumante ou fumaça?** Não. O cheiro da fumaça fantasma ameaçou surgir devido à exaustão, mas ele reprimiu isso imediatamente infligindo dor a si mesmo (flexionando os músculos rasgados do ombro e apoiando a coronha da espingarda na ferida). O lore do trauma de tabagismo está perfeitamente preservado.
-- **O plot twist/avanço invalida algo estabelecido?** Não. O surgimento de uma amálgama mecânica corrompida condiz com a destruição e o desespero das máquinas introduzidas no Capítulo 203. A Praga de Ferro foi o catalisador que forçou a adaptação mecânica.
-- **Qualitativo:** A história não necessita de novos personagens, mantendo o foco no núcleo de Gabo, Valéria e Elias. A qualidade narrativa segue alta, focada nos desafios físicos constantes e irreparáveis de Gabo e no ambiente hostil, sem recorrer a clichês fáceis. O uso orgânico de sua condição física avariada é consistente e relevante para a trama.
+## Avaliação Qualitativa
+- **Qualidade da História:** Excelente. Cumpre seu papel em apresentar o perigo iminente de Setor 6 e transicionar o grupo para um embate.
+- **Coerência de Personagens:** Gabo, Elias e Valéria agem exatamente de acordo com os marcos de estresse estabelecidos nos capítulos mais recentes e memórias-base.
+- **Necessidade de Novos Personagens:** Nenhuma. A atual trindade (Gabo, Valéria e Elias) possui ótima dinâmica para lidar com as ameaças deste arco.
