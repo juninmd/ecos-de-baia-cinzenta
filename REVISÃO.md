@@ -371,12 +371,13 @@ Este arquivo mantém o controle de progresso sobre o processo de revisão, adequ
 - [x] **Capítulo 75.5: Memórias de Chuva** - Revisor validou que não há problemas de lore. O flashback consolida o papel de Dante como fumante, justificando a fobia (trauma) de Gabo no presente, e solidifica o sofrimento da IA Aria. Arquivo de análise criado.
 - [x] **Capítulo 205: Colosso de Sucata** - Revisor validou. A transição e uso do ambiente (guindaste) garantem combate fidedigno. A dor auto-infligida contra as alucinações (fobia) por fumaça é mantida intacta. Arquivo de análise criado.
 
-## Lote 71: Capítulo Final
+## Lote 71: Capítulos Recentes
 - [x] **Capítulo 206: Ecos na Escuridão** - Revisor validou que não há problemas de lore. O trauma de fumaça de Gabo ressurge como alucinação combatida com automutilação, conforme estabelecido. Elias e Valéria mantêm coerência com seus arquétipos. Arquivo de análise criado e presente.
+- [x] **Capítulo 207: O Peso da Ferrugem** - Revisor validou que o trauma de fumaça de Gabo foi usado como tensão psicológica (claustrofobia/ataque de pânico), combatido via automutilação com o ombro lacerado. Arquivo de análise criado e presente.
 
 ---
 
-## Avaliação Geral da Obra e Personagens (Pós-Capítulo 206)
+## Avaliação Geral da Obra e Personagens (Pós-Capítulo 207)
 A revisão de todos os capítulos documentados concluiu que os personagens permanecem extremamente coerentes em seus arcos narrativos. A história flui muito bem e mantém a essência de um thriller Cyberpunk Noir com foco no horror biológico e nas limitações físicas.
 
 **Personagens Atuais:**
