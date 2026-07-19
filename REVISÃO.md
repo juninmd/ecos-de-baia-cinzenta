@@ -396,3 +396,6 @@ No momento atual, não há necessidade imediata de introduzir novos personagens.
 
 **Qualidade da História:**
 Excelente. A narrativa respeitou os tempos de tensão tática em combate e de respiro psicológico, garantindo o balanço da evolução de seus mistérios com a construção de atmosfera *Hardboiled* baseada na sobrevivência crua.
+
+## Lote 73: Capítulos 211 a 213
+- [x] **Capítulo 211: O Altar de Gelo** - Escrito e revisado. Sem problemas de lore encontrados. A alucinação do trauma da fumaça é perfeitamente mitigada por Gabo aplicando peso sobre seu músculo rasgado. Dinâmica do grupo intacta. Arquivo de análise criado e presente.
