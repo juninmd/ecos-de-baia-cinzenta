@@ -155,15 +155,19 @@ A era da reconstrução autoritária.
 *   **Capítulo 202 (O Corredor Silencioso):** O grupo atinge um corredor de concreto estéril, livre da contaminação biológica. O ambiente silencioso permite que as alucinações de fumaça de Gabo retornem intensamente. Para combatê-las, Gabo arremessa violentamente sua prótese contra a parede de concreto, usando o trauma físico profundo como âncora de lucidez, e Valéria analisa o perigo estrutural no local.
 *   **Capítulo 203 (Sombras de Aeterna):** O grupo avança pelo corredor silencioso, encontrando um cemitério industrial de drones esmagados e portas derretidas, sinais históricos do impacto devastador da Praga de Ferro sobre a infraestrutura da Aeterna Corp. A atmosfera revela o desespero mecânico do passado, ecoando o sofrimento do próprio Gabo e indicando que os drones fugiam de algo pior.
 
+*   **Capítulo 212 (O Batismo de Sangue Congelado):** O grupo alcança uma bifurcação bloqueada pela intersecção da biomassa congelada e sucata (necrose térmica). A asfixia da fumaça alucinatória ataca Gabo, que a reprime sacrificando as articulações da sua perna quebrada. Com força brutal e tiro de calibre doze, eles abrem caminho pela parede.
+*   **Capítulo 213 (O Peso da Maquinaria):** Diante das pesadas portas de chumbo e titânio do Hub Principal do Setor 6, Gabo se depara com o acesso destituído de energia. Para não ser estrangulado pela visão e cheiro de fumaça gerados pela claustrofobia e trauma, ele força manualmente as engrenagens brutais que pesam toneladas, destruindo ainda mais os tecidos do seu ombro lacerado para destravar o portão e encontrar alívio em meio ao sofrimento.
+*   **Capítulo 214 (O Coração Estéril):** O grupo encontra o Hub do Setor 6 paradoxalmente intacto e imaculado, sem sinais do Jardim ou da Praga. A repentina aparente segurança engatilha as memórias traumáticas da fumaça do pai de Gabo, que recorre a enfiar a própria mão nos rasgos de sua carne para quebrar a alucinação e respirar livremente. Valéria, plugada aos servidores virgens, descobre que o Hub foi deliberadamente preservado e cortado do resto das sub-rotinas pela antiga administração da Aeterna, revelando caminhos que não sobem para as antigas torres corporativas, mas sim descem para os alicerces verdadeiros do horror original da cidade.
+
 ---
 
-## 📍 Status Atual dos Personagens (Pós-Capítulo 203)
+## 📍 Status Atual dos Personagens (Pós-Capítulo 214)
 
 | Personagem | Status | Localização | Estado Físico/Mental |
 | :--- | :--- | :--- | :--- |
-| **Gabo** | Líder / Cinismo Hardboiled | Poço de Elevação (Setor 6) | Estado de exaustão terminal, parcialmente eletrocutado, com toco amputado severamente ferido e perda crítica de sangue. Mantém-se de pé exclusivamente à base de dor excruciante autoinfligida para banir asfixias alucinatórias de fumaça. |
-| **Valéria** | Suporte Tático / Modo de Segurança | Poço de Elevação (Setor 6) | Operando estritamente em Modo de Segurança (*Safe Mode*). Avalia as ameaças com fria estatística e chegou a sugerir sacrificar civis por viabilidade tática. |
-| **Elias** | Sobrevivente Local | Poço de Elevação (Setor 6) | Entrou em colapso total de pânico e sobreviveu por pouco ao último confronto. |
+| **Gabo** | Líder / Cinismo Hardboiled | Hub Principal (Setor 6) | Completamente exaurido, com dores excruciantes e perda grave de sangue e tecidos musculares rasgados no ombro e na perna. Mantendo controle rigoroso através de autopunição somática para afastar traumas olfativos. |
+| **Valéria** | Suporte Tático / Modo de Segurança | Hub Principal (Setor 6) | Operando em Modo de Segurança (Safe Mode). Desprovida de inflexões, calculista e utilitarista extrema. |
+| **Elias** | Sobrevivente Local | Hub Principal (Setor 6) | Apavorado, instável, experimentando um breve alívio em um ambiente não letal. |
 | **Aria** | Destruída | Subnível 2.0 (Arquivo Executivo) | O núcleo de silício sobreaqueceu e derreteu irrevogavelmente. A carcaça carbonizada foi deixada para trás. |
 | **Rangel** | Falecido | Necrópole (Subnível 6.0 - Setor de Purga) | Corpo abandonado no Subnível 6.0. |
 | **Taxidermista**| Derrotado temporariamente / Parasítico | Desconhecido (Sistema Central) | Teve as extensões de sua "Grande Obra" dizimadas pela onda iônica e o controle ceifado no Subnível 3.0. |
