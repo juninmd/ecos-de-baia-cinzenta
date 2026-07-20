@@ -200,17 +200,17 @@ Este arquivo mantém o controle de progresso sobre o processo de revisão, adequ
 
 ## Lote 35: Capítulos 104 a 106
 - [x] **Capítulo 104: O Preço da Alvorada** - Revisado. Substituído o termo "fumaça" (barreira de fumaça) por "poluição" para não violar a blindagem da fobia de Gabo. A impotência dele com as órteses quebradas e a atmosfera tecnológica opressora de Dante estão muito coesas. Arquivo de análise criado.
-- [x] **Capítulo 105** - Revisado. Removida menção de "charuto" no texto para eliminar vícios de tabagismo na cena e evitar indiretamente o trauma de Gabo. Ação e restrições físicas são mantidas. Arquivo de análise criado.
-- [x] **Capítulo 106** - Revisado. O texto não apresenta gatilhos (fumaça/cigarros). O peso e o desgaste das pernas mecânicas funcionam como limitadores do protagonista. Arquivo de análise criado.
+- [x] **Capítulo 105: O Silêncio de Concreto** - Revisado. Removida menção de "charuto" no texto para eliminar vícios de tabagismo na cena e evitar indiretamente o trauma de Gabo. Ação e restrições físicas são mantidas. Arquivo de análise criado.
+- [x] **Capítulo 106: O Cálculo de Deus** - Revisado. O texto não apresenta gatilhos (fumaça/cigarros). O peso e o desgaste das pernas mecânicas funcionam como limitadores do protagonista. Arquivo de análise criado.
 
 ## Lote 36: Capítulos 107 a 109
-- [x] **Capítulo 107** - Revisado. Nenhuma menção a gatilhos de fumaça para Gabo. O capítulo mantém as descrições da tensão mecânica/cibernética. Arquivo de análise criado.
-- [x] **Capítulo 108** - Revisado. O arquivo não contém infrações de lore relacionadas a tabagismo ou integridade de locomoção. Arquivo de análise criado.
+- [x] **Capítulo 107: O Teorema da Chuva** - Revisado. Nenhuma menção a gatilhos de fumaça para Gabo. O capítulo mantém as descrições da tensão mecânica/cibernética. Arquivo de análise criado.
+- [x] **Capítulo 108: Ratos de Cais** - Revisado. O arquivo não contém infrações de lore relacionadas a tabagismo ou integridade de locomoção. Arquivo de análise criado.
 - [x] **Capítulo 109: Frequência Fantasma** - Revisado. A expressão "engasgando fumaça preta" relacionada ao blindado foi alterada para "engasgando fuligem escura" para manter o bloqueio total contra gatilhos psicológicos do protagonista. O desgaste das órteses de perna de Gabo foi adequadamente pontuado. Arquivo de análise criado.
 
 ## Lote 37: Capítulos 110 a 112
-- [x] **Capítulo 110** - Revisado. Nenhuma menção a gatilhos de fumaça para Gabo. Lore consistente. Arquivo de análise criado.
-- [x] **Capítulo 111** - Revisado. Sem infrações de lore identificadas. Arquivo de análise criado.
+- [x] **Capítulo 110: Ponto Cego** - Revisado. Nenhuma menção a gatilhos de fumaça para Gabo. Lore consistente. Arquivo de análise criado.
+- [x] **Capítulo 111: Arquivos Mortos** - Revisado. Sem infrações de lore identificadas. Arquivo de análise criado.
 - [x] **Capítulo 112: O Peso da Memória** - Revisado. Mantém as restrições físicas do protagonista (perna travou, andou mancando) e não apresenta linguagem relacionada a tabagismo. Arquivo de análise criado.
 
 ## Lote 38: Capítulos 113 a 116
@@ -382,21 +382,6 @@ Este arquivo mantém o controle de progresso sobre o processo de revisão, adequ
 
 ---
 
-## Avaliação Geral da Obra e Personagens (Pós-Capítulo 210)
-A revisão de todos os capítulos documentados concluiu que os personagens permanecem extremamente coerentes em seus arcos narrativos. A história flui muito bem e mantém a essência de um thriller Cyberpunk Noir com foco no horror biológico e nas limitações físicas.
-
-**Personagens Atuais:**
-- **Gabo:** O arco do detetive continua excepcional. A correção contínua e rigorosa de seu trauma de fumaça, substituindo o vício em nicotina pelo pânico asfixiante que o leva à automutilação para se ancorar, consolidou um personagem único e quebrado que usa a dor como força motriz. O limite físico de seu corpo arruinado e a dependência de órteses mecânicas foram firmados ao longo de todo o texto. A progressão atual no Setor 6 (frio e falha nas pernas e ombro machucado) solidifica essa realidade.
-- **Valéria:** Sua transição e manutenção em *Safe Mode* cimentam o pragmatismo frio da personagem e a elevam como contraparte lógica perfeita para as reações passionais de Gabo perante a destruição física.
-- **Elias:** Funciona incrivelmente bem como a âncora humana, apresentando o pavor realista perante o terror do Jardim e da Praga de Ferro, e permitindo ao leitor escalar o horror das situações.
-- **Aria / Dante / O Santo / Miranda / O Taxidermista:** Todos os demais integrantes, desde IAs transcendentes a vilões biomodificados, desempenham suas funções impecavelmente na lore, suportando e validando as reações orgânicas de Gabo.
-
-**Novos Personagens Necessários?**
-No momento atual, não há necessidade imediata de introduzir novos personagens. O grupo de três possui química narrativa sólida e a introdução de novos atores enfraqueceria o forte sentimento de isolamento (sobrevivência aos perigos geográficos e biológicos do Setor 6).
-
-**Qualidade da História:**
-Excelente. A narrativa respeitou os tempos de tensão tática em combate e de respiro psicológico, garantindo o balanço da evolução de seus mistérios com a construção de atmosfera *Hardboiled* baseada na sobrevivência crua.
-
 ## Lote 73: Capítulos 211 a 213
 - [x] **Capítulo 211: O Altar de Gelo** - Escrito e revisado. Sem problemas de lore encontrados. A alucinação do trauma da fumaça é perfeitamente mitigada por Gabo aplicando peso sobre seu músculo rasgado. Dinâmica do grupo intacta. Arquivo de análise criado e presente.
 - [x] **Capítulo 212: O Batismo de Sangue Congelado** - Escrito e revisado. Sem problemas de lore encontrados. A equipe ultrapassa o bloqueio da biomassa e geada térmica com pura violência física e armamento pesado. Gabo continua anulando alucinações asfixiantes usando sofrimento autoinfligido na perna quebrada. Dinâmica fiel. Arquivo de análise criado e presente.
@@ -405,3 +390,20 @@ Excelente. A narrativa respeitou os tempos de tensão tática em combate e de re
 ## Lote 74: Capítulos 214 a 215
 - [x] **Capítulo 214: O Coração Estéril** - Escrito e revisado. Transição brutal de ambiente perigoso para um hub misteriosamente intacto e esquecido. Gabo sofre o trauma novamente e pune seu próprio machucado no braço para anular a alucinação fóbica. O grupo desvenda mais a conspiração Aeterna. Arquivo de análise criado e presente.
 - [x] **Capítulo 215: Os Alicerces do Inferno** - Escrito e revisado. Transição do hub seguro para a descida nas fundações geológicas (infraestrutura embrionária). A fobia asfixiante por fumaça é consistentemente combatida por Gabo usando a dor física da ferida mutilada no ombro. Dinâmica interpessoal coerente com Valéria fria (Safe Mode) e Elias apavorado. Arquivo de análise criado e presente.
+
+---
+
+## Avaliação Geral da Obra e Personagens (Pós-Capítulo 215)
+A revisão finalizada de todos os 215 capítulos documentados concluiu que os personagens permanecem extremamente coerentes em seus arcos narrativos. A história flui muito bem e mantém a essência de um thriller Cyberpunk Noir com foco no horror biológico e nas limitações físicas.
+
+**Personagens Atuais:**
+- **Gabo:** O arco do detetive continua excepcional. A correção contínua e rigorosa de seu trauma de fumaça, substituindo o vício em nicotina pelo pânico asfixiante que o leva à automutilação para se ancorar, consolidou um personagem único e quebrado que usa a dor como força motriz. O limite físico de seu corpo arruinado e a dependência de órteses mecânicas foram firmados ao longo de todo o texto. A progressão atual no Setor 6 e a descida às infraestruturas embrionárias sob o Hub (Capítulos 211-215) com seu braço/ombro multilado solidificam a integridade e resiliência desse lore.
+- **Valéria:** Sua transição e manutenção em *Safe Mode* cimentam o pragmatismo frio da personagem e a elevam como contraparte lógica perfeita para as reações passionais de Gabo perante a destruição física, especialmente nos tensos corredores gélidos e esquecidos de Aeterna.
+- **Elias:** Funciona incrivelmente bem como a âncora humana orgânica, apresentando o pavor realista perante o terror do Jardim e da Praga de Ferro, e permitindo ao leitor escalar o horror das situações nos alicerces do Setor 6.
+- **Aria / Dante / O Santo / Miranda / O Taxidermista:** Todos os demais integrantes, desde IAs transcendentes a vilões biomodificados, desempenharam e desempenham suas funções impecavelmente na lore estabelecida, servindo de palco para o terror psicológico e as reações físicas de Gabo e Valéria.
+
+**Novos Personagens Necessários?**
+Neste estágio (Pós-Cap. 215), não há nenhuma necessidade imediata de introduzir novos personagens. O grupo de três (Gabo, Valéria, Elias) possui química narrativa sólida e a introdução de novos atores arruinaria o forte sentimento agorafóbico e de isolamento enquanto sobrevivem aos perigos geológicos e biológicos abaixo do Setor 6.
+
+**Qualidade da História:**
+Excelente. A narrativa respeitou sistematicamente os tempos de tensão tática em combate e de respiro psicológico da dor de Gabo, garantindo o balanço da evolução de seus mistérios na Aeterna Corp com a construção robusta de uma atmosfera *Hardboiled* baseada unicamente na sobrevivência crua contra horrores e corporações de bioengenharia. Todos os arquivos e interlúdios estão devidamente revisados e consistentes com estas premissas.
