@@ -402,5 +402,6 @@ Excelente. A narrativa respeitou os tempos de tensão tática em combate e de re
 - [x] **Capítulo 212: O Batismo de Sangue Congelado** - Escrito e revisado. Sem problemas de lore encontrados. A equipe ultrapassa o bloqueio da biomassa e geada térmica com pura violência física e armamento pesado. Gabo continua anulando alucinações asfixiantes usando sofrimento autoinfligido na perna quebrada. Dinâmica fiel. Arquivo de análise criado e presente.
 - [x] **Capítulo 213: O Peso da Maquinaria** - Escrito e revisado. O esforço orgânico bruto para abrir as pesadas portas do Hub contrasta com a falência corporal de Gabo, que utiliza a agonia como refúgio do seu trauma fóbico com a fumaça de charuto. Valéria perfeitamente isolada em *Safe Mode*. Arquivo de análise criado e presente.
 
-## Lote 74: Capítulo 214
+## Lote 74: Capítulos 214 a 215
 - [x] **Capítulo 214: O Coração Estéril** - Escrito e revisado. Transição brutal de ambiente perigoso para um hub misteriosamente intacto e esquecido. Gabo sofre o trauma novamente e pune seu próprio machucado no braço para anular a alucinação fóbica. O grupo desvenda mais a conspiração Aeterna. Arquivo de análise criado e presente.
+- [x] **Capítulo 215: Os Alicerces do Inferno** - Escrito e revisado. Transição do hub seguro para a descida nas fundações geológicas (infraestrutura embrionária). A fobia asfixiante por fumaça é consistentemente combatida por Gabo usando a dor física da ferida mutilada no ombro. Dinâmica interpessoal coerente com Valéria fria (Safe Mode) e Elias apavorado. Arquivo de análise criado e presente.
