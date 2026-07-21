@@ -162,14 +162,15 @@ A era da reconstrução autoritária.
 ---
 
 *   **Capítulo 215 (Os Alicerces do Inferno):** A partir do Hub Principal intocado, Valéria revela que a estrutura intacta do Setor 6 não é um fim, mas sim um acesso ("porta dos fundos") para a infraestrutura embrionária da cidade. Aterrorizado e instável, Elias reluta em continuar a descida, mas cede ante a iminência de um ataque sistêmico. Gabo continua esmagando sua mão mutilada para reprimir ativamente os espectros asfixiantes da fumaça, ancorando sua mente à dor física constante enquanto descem por uma escotilha secular rumo às fundações geológicas.
+*   **Capítulo 216 (A Pressão do Vazio):** A descida pelo poço de fundação mergulha o grupo na escuridão claustrofóbica. Sem luz e sentindo o pânico escalar em Elias, Gabo enfrenta terríveis alucinações de asfixia pela fumaça de Dante. Ele reprime ativamente o trauma rasgando o toco de seu braço na escada e forçando sua perna destruída, usando a agonia como única âncora. Valéria analisa friamente o declínio vital de Elias e a mudança para o revestimento de chumbo nas paredes do fosso.
 
-## 📍 Status Atual dos Personagens (Pós-Capítulo 215)
+## 📍 Status Atual dos Personagens (Pós-Capítulo 216)
 
 | Personagem | Status | Localização | Estado Físico/Mental |
 | :--- | :--- | :--- | :--- |
-| **Gabo** | Líder / Cinismo Hardboiled | Acesso Subterrâneo, Setor 6 | Completamente exaurido, com dores excruciantes e perda grave de sangue e tecidos musculares rasgados no ombro e na perna. Mantendo controle rigoroso através de autopunição somática para afastar traumas olfativos. |
-| **Valéria** | Suporte Tático / Modo de Segurança | Acesso Subterrâneo, Setor 6 | Operando em Modo de Segurança (Safe Mode). Desprovida de inflexões, calculista e utilitarista extrema. |
-| **Elias** | Sobrevivente Local | Acesso Subterrâneo, Setor 6 | Apavorado, instável, experimentando um breve alívio em um ambiente não letal. |
+| **Gabo** | Líder / Cinismo Hardboiled | Poço de Manutenção Geológica, Abaixo do Setor 6 | Completamente exaurido, com dores excruciantes, perda grave de sangue, tecidos rasgados no ombro e perna seriamente avariada. Recorrendo constantemente a autopunição física brutal para combater o trauma asfixiante da fumaça fantasma. |
+| **Valéria** | Suporte Tático / Modo de Segurança | Poço de Manutenção Geológica, Abaixo do Setor 6 | Operando em Modo de Segurança (Safe Mode). Fria e puramente calculista. |
+| **Elias** | Sobrevivente Local | Poço de Manutenção Geológica, Abaixo do Setor 6 | À beira do pânico total, hiperventilando sob a pressão claustrofóbica da descida no escuro. |
 | **Aria** | Destruída | Subnível 2.0 (Arquivo Executivo) | O núcleo de silício sobreaqueceu e derreteu irrevogavelmente. A carcaça carbonizada foi deixada para trás. |
 | **Rangel** | Falecido | Necrópole (Subnível 6.0 - Setor de Purga) | Corpo abandonado no Subnível 6.0. |
 | **Taxidermista**| Derrotado temporariamente / Parasítico | Desconhecido (Sistema Central) | Teve as extensões de sua "Grande Obra" dizimadas pela onda iônica e o controle ceifado no Subnível 3.0. |
