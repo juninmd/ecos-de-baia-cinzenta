@@ -387,23 +387,24 @@ Este arquivo mantém o controle de progresso sobre o processo de revisão, adequ
 - [x] **Capítulo 212: O Batismo de Sangue Congelado** - Escrito e revisado. Sem problemas de lore encontrados. A equipe ultrapassa o bloqueio da biomassa e geada térmica com pura violência física e armamento pesado. Gabo continua anulando alucinações asfixiantes usando sofrimento autoinfligido na perna quebrada. Dinâmica fiel. Arquivo de análise criado e presente.
 - [x] **Capítulo 213: O Peso da Maquinaria** - Escrito e revisado. O esforço orgânico bruto para abrir as pesadas portas do Hub contrasta com a falência corporal de Gabo, que utiliza a agonia como refúgio do seu trauma fóbico com a fumaça de charuto. Valéria perfeitamente isolada em *Safe Mode*. Arquivo de análise criado e presente.
 
-## Lote 74: Capítulos 214 a 215
+## Lote 74: Capítulos 214 a 216
 - [x] **Capítulo 214: O Coração Estéril** - Escrito e revisado. Transição brutal de ambiente perigoso para um hub misteriosamente intacto e esquecido. Gabo sofre o trauma novamente e pune seu próprio machucado no braço para anular a alucinação fóbica. O grupo desvenda mais a conspiração Aeterna. Arquivo de análise criado e presente.
 - [x] **Capítulo 215: Os Alicerces do Inferno** - Escrito e revisado. Transição do hub seguro para a descida nas fundações geológicas (infraestrutura embrionária). A fobia asfixiante por fumaça é consistentemente combatida por Gabo usando a dor física da ferida mutilada no ombro. Dinâmica interpessoal coerente com Valéria fria (Safe Mode) e Elias apavorado. Arquivo de análise criado e presente.
+- [x] **Capítulo 216: A Pressão do Vazio** - Escrito e revisado. Descida na escuridão sob o Setor 6. Gabo utiliza a dor mutilante ao ralar o braço e bater a perna quebrada no metal para espantar a forte fobia induzida pela escuridão. Valéria (Safe Mode) e Elias se mantém perfeitamente nos seus perfis lógicos e pavorosos. Arquivo de análise criado e presente.
 
 ---
 
-## Avaliação Geral da Obra e Personagens (Pós-Capítulo 215)
-A revisão finalizada de todos os 215 capítulos documentados concluiu que os personagens permanecem extremamente coerentes em seus arcos narrativos. A história flui muito bem e mantém a essência de um thriller Cyberpunk Noir com foco no horror biológico e nas limitações físicas.
+## Avaliação Geral da Obra e Personagens (Pós-Capítulo 216)
+A revisão finalizada de todos os 216 capítulos documentados concluiu que os personagens permanecem extremamente coerentes em seus arcos narrativos. A história flui muito bem e mantém a essência de um thriller Cyberpunk Noir com foco no horror biológico e nas limitações físicas.
 
 **Personagens Atuais:**
-- **Gabo:** O arco do detetive continua excepcional. A correção contínua e rigorosa de seu trauma de fumaça, substituindo o vício em nicotina pelo pânico asfixiante que o leva à automutilação para se ancorar, consolidou um personagem único e quebrado que usa a dor como força motriz. O limite físico de seu corpo arruinado e a dependência de órteses mecânicas foram firmados ao longo de todo o texto. A progressão atual no Setor 6 e a descida às infraestruturas embrionárias sob o Hub (Capítulos 211-215) com seu braço/ombro multilado solidificam a integridade e resiliência desse lore.
+- **Gabo:** O arco do detetive continua excepcional. A correção contínua e rigorosa de seu trauma de fumaça, substituindo o vício em nicotina pelo pânico asfixiante que o leva à automutilação para se ancorar, consolidou um personagem único e quebrado que usa a dor como força motriz. O limite físico de seu corpo arruinado e a dependência de órteses mecânicas foram firmados ao longo de todo o texto. A progressão atual no Setor 6 e a descida às infraestruturas embrionárias sob o Hub (Capítulos 211-216) com seu braço/ombro multilado solidificam a integridade e resiliência desse lore.
 - **Valéria:** Sua transição e manutenção em *Safe Mode* cimentam o pragmatismo frio da personagem e a elevam como contraparte lógica perfeita para as reações passionais de Gabo perante a destruição física, especialmente nos tensos corredores gélidos e esquecidos de Aeterna.
 - **Elias:** Funciona incrivelmente bem como a âncora humana orgânica, apresentando o pavor realista perante o terror do Jardim e da Praga de Ferro, e permitindo ao leitor escalar o horror das situações nos alicerces do Setor 6.
 - **Aria / Dante / O Santo / Miranda / O Taxidermista:** Todos os demais integrantes, desde IAs transcendentes a vilões biomodificados, desempenharam e desempenham suas funções impecavelmente na lore estabelecida, servindo de palco para o terror psicológico e as reações físicas de Gabo e Valéria.
 
 **Novos Personagens Necessários?**
-Neste estágio (Pós-Cap. 215), não há nenhuma necessidade imediata de introduzir novos personagens. O grupo de três (Gabo, Valéria, Elias) possui química narrativa sólida e a introdução de novos atores arruinaria o forte sentimento agorafóbico e de isolamento enquanto sobrevivem aos perigos geológicos e biológicos abaixo do Setor 6.
+Neste estágio (Pós-Cap. 216), não há nenhuma necessidade imediata de introduzir novos personagens. O grupo de três (Gabo, Valéria, Elias) possui química narrativa sólida e a introdução de novos atores arruinaria o forte sentimento agorafóbico e de isolamento enquanto sobrevivem aos perigos geológicos e biológicos abaixo do Setor 6.
 
 **Qualidade da História:**
 Excelente. A narrativa respeitou sistematicamente os tempos de tensão tática em combate e de respiro psicológico da dor de Gabo, garantindo o balanço da evolução de seus mistérios na Aeterna Corp com a construção robusta de uma atmosfera *Hardboiled* baseada unicamente na sobrevivência crua contra horrores e corporações de bioengenharia. Todos os arquivos e interlúdios estão devidamente revisados e consistentes com estas premissas.
