@@ -29,9 +29,18 @@ def _limpar(texto: str) -> str:
     return " ".join(LIMPEZA.sub("", texto).split()).strip(" ,;")
 
 
+NAO_SAO_NOMES = {
+    "ele", "ela", "eles", "elas", "eu", "você", "voce", "vocês", "nós", "isso", "aquilo",
+    "alguém", "ninguém", "outro", "outra", "mesma", "mesmo", "sua", "seu", "minha", "meu",
+    "uma", "um", "que", "se", "me", "lhe", "ríspida", "baixa", "alta",
+}
+
+# "a voz do Diretor Dantas" (nome próprio) e "disse o oficial de patrulha" (nome comum)
+NOME_PROPRIO = r"[A-ZÀ-Ú][a-zà-ú]+(?:\s+[A-ZÀ-Ú][a-zà-ú]+)?"
+NOME_COMUM = r"[a-zà-ú]+(?:\s+de\s+[a-zà-ú]+)?"
 FIGURANTE = re.compile(
-    r"\b(?:" + "|".join(VERBOS_FALA) + r"|voz d[oe])\s+(?:d[oa]\s+)?(?:o|a)\s+([a-zà-ú]+(?:\s+de\s+[a-zà-ú]+)?)",
-    re.IGNORECASE,
+    r"\b(?:" + "|".join(VERBOS_FALA) + r"|voz)\s+(?:d[oa]s?\s+)?(?:[oa]\s+)?"
+    rf"({NOME_PROPRIO}|{NOME_COMUM})"
 )
 
 
@@ -43,8 +52,30 @@ def _figurante(atribuicao: str) -> Optional[Dict]:
     achado = FIGURANTE.search(atribuicao)
     if not achado:
         return None
-    nome = achado.group(1).strip().capitalize()
+    bruto = achado.group(1).strip()
+    if bruto.split()[0].lower() in NAO_SAO_NOMES:
+        return None  # "disse ele" não cria um personagem chamado "Ele"
+    # "Diretor Dantas" não pode virar "Diretor dantas": só capitaliza nome comum.
+    nome = bruto if bruto[:1].isupper() else bruto.capitalize()
     return {"name": nome, "aliases": [nome], "description": "", "image": None}
+
+
+INTERLOCUTOR = {"name": "Interlocutor", "aliases": ["Interlocutor"],
+                "description": "", "image": None}
+
+
+def _presente_diferente(presentes: List[Dict], conversa: List[Dict]) -> Optional[Dict]:
+    """Quem está em cena e não acabou de falar — o interlocutor mais provável.
+
+    Em ficção, parágrafos de fala consecutivos alternam entre dois interlocutores.
+    Se o único personagem em cena é quem acabou de falar, quem responde é outra pessoa
+    — sem ficha, mas com voz própria.
+    """
+    ultimo = conversa[-1] if conversa else None
+    for char in presentes:
+        if not ultimo or char["name"] != ultimo["name"]:
+            return char
+    return INTERLOCUTOR if ultimo else None
 
 
 def _quem_fala(atribuicao: str, anteriores: List[Dict]) -> Optional[Dict]:
@@ -68,20 +99,32 @@ def _quem_fala(atribuicao: str, anteriores: List[Dict]) -> Optional[Dict]:
 def parse(texto: str) -> List[Beat]:
     """Roteiro do capítulo, em ordem, alternando narração e falas."""
     beats: List[Beat] = []
-    falantes: List[Dict] = []
+    conversa: List[Dict] = []
+    presentes: List[Dict] = []
+    narracoes_seguidas = 0
 
     for paragrafo in blocos_de_texto(texto):
         if not TRAVESSAO.match(paragrafo):
             limpo = _limpar(paragrafo)
             if limpo:
                 beats.append(Beat(len(beats) + 1, "narracao", limpo))
+                presentes = characters.detect(limpo, limit=2) or presentes
+                narracoes_seguidas += 1
+                # Duas narrações seguidas = mudou de cena. Sem zerar aqui, quem falava
+                # ao telefone continua "respondendo" numa conversa duas páginas depois.
+                if narracoes_seguidas >= 2:
+                    conversa = []
             continue
 
+        narracoes_seguidas = 0
         partes = TRAVESSAO.split(paragrafo)[1:]
         falas = [_limpar(p) for p in partes[::2]]
         atribuicoes = [_limpar(p) for p in partes[1::2]]
-        falante = _quem_fala(" ".join(atribuicoes), falantes)
-        falantes.append(falante)
+        falante = _quem_fala(" ".join(atribuicoes), conversa)
+        if falante is None:
+            falante = _presente_diferente(presentes, conversa)
+        conversa.append(falante)
+        falantes = conversa
 
         for i, fala in enumerate(falas):
             if fala:
