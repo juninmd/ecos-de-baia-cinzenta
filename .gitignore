@@ -3,6 +3,7 @@ docs/.vitepress/dist
 docs/.vitepress/cache
 test_gemini.py
 .temp_video/
+.daily_telegram_out/
 docs/public/videos/
 scripts/__pycache__/
 __pycache__/
