@@ -26,6 +26,21 @@ def parse_args(argv=None):
 SEGUNDOS_POR_PLANO = 11.0
 
 
+def fit_telegram(video: Path, temp_dir: Path, limite_mb: int = 48) -> Optional[Path]:
+    """Reduz o episódio para caber no limite de 50 MB do bot, se necessário."""
+    if video.stat().st_size / (1024 * 1024) <= limite_mb:
+        return video
+    print(f"↩ {video.stat().st_size // 1024 // 1024} MB excede o limite; reencodando em 540p...")
+    reduzido = temp_dir / f"{video.stem}_540p.mp4"
+    ok = animate._run(["ffmpeg", "-y", "-i", str(video), "-vf", "scale=960:540",
+                       "-c:v", "libx264", "-preset", "medium", "-crf", "34",
+                       "-c:a", "aac", "-b:a", "96k", str(reduzido)])
+    if not ok:
+        return None
+    reduzido.replace(video)
+    return video
+
+
 def planos_do_beat(duracao: float) -> int:
     """Quantos planos cabem numa fala: 30 segundos numa imagem só vira slideshow."""
     return max(1, math.ceil(duracao / SEGUNDOS_POR_PLANO))
@@ -122,7 +137,7 @@ def build(numero: int, args, local_gen=None) -> Optional[Path]:
     destino.parent.mkdir(parents=True, exist_ok=True)
     final = animate.stitch_synced(pares, destino, temp_dir, crf=args.crf)
     if final:
-        final = animate.fit_telegram(final, temp_dir) or final
+        final = fit_telegram(final, temp_dir) or final
         print(f"🎞️ Episódio pronto: {final} ({final.stat().st_size // 1024 // 1024} MB)")
     return final
 
