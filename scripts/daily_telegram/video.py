@@ -25,53 +25,6 @@ def narrate(texto: str, output_path: Path) -> float:
     return probe_duration(output_path)
 
 
-def split_for_tts(texto: str, limite: int = 2200) -> list:
-    """Quebra o texto em blocos que o gTTS aguenta, sempre no fim de uma frase."""
-    blocos, atual = [], ""
-    for frase in re.split(r"(?<=[.!?])\s+", texto):
-        if len(atual) + len(frase) + 1 <= limite:
-            atual = f"{atual} {frase}".strip()
-            continue
-        if atual:
-            blocos.append(atual)
-        while len(frase) > limite:
-            blocos.append(frase[:limite])
-            frase = frase[limite:]
-        atual = frase
-    if atual:
-        blocos.append(atual)
-    return blocos
-
-
-def narrate_full(texto: str, output_path: Path, temp_dir: Path) -> float:
-    """Narração do capítulo inteiro: gTTS por bloco e concatenação via ffmpeg.
-
-    O `narrate` normal corta em 3000 caracteres; um episódio precisa do texto todo.
-    """
-    from gtts import gTTS
-
-    blocos = split_for_tts(clean_for_tts(texto))
-    temp_dir.mkdir(parents=True, exist_ok=True)
-    partes = []
-    for i, bloco in enumerate(blocos, 1):
-        parte = temp_dir / f"tts_{i:03d}.mp3"
-        if not parte.exists() or parte.stat().st_size == 0:
-            gTTS(text=bloco, lang="pt", tld="com.br").save(str(parte))
-        partes.append(parte)
-        print(f"🎙 bloco {i}/{len(blocos)} narrado")
-
-    lista = temp_dir / "tts_concat.txt"
-    lista.write_text("".join(f"file '{p.absolute().as_posix()}'\n" for p in partes), encoding="utf-8")
-    resultado = subprocess.run(
-        ["ffmpeg", "-y", "-f", "concat", "-safe", "0", "-i", str(lista),
-         "-c:a", "libmp3lame", "-b:a", "128k", str(output_path)],
-        capture_output=True, text=True,
-    )
-    if resultado.returncode != 0:
-        raise RuntimeError(f"concat da narração falhou: {resultado.stderr.strip()[-200:]}")
-    return probe_duration(output_path)
-
-
 def probe_duration(media_path: Path) -> float:
     result = subprocess.run(
         ["ffprobe", "-v", "error", "-show_entries", "format=duration",

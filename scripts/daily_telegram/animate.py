@@ -149,6 +149,21 @@ def stitch_synced(pares: List, destino: Path, temp_dir: Path, crf: int = 30) -> 
     return destino if ok else None
 
 
+def fit_telegram(video: Path, temp_dir: Path, limite_mb: int = 48) -> Optional[Path]:
+    """Reduz o episódio para caber no limite de 50 MB do bot, se necessário."""
+    if video.stat().st_size / (1024 * 1024) <= limite_mb:
+        return video
+    reduzido = temp_dir / f"{video.stem}_540p.mp4"
+    print(f"↩ {video.stat().st_size // 1024 // 1024} MB excede o limite; reencodando em 540p...")
+    ok = _run(["ffmpeg", "-y", "-i", str(video), "-vf", "scale=960:540",
+               "-c:v", "libx264", "-preset", "medium", "-crf", "34",
+               "-c:a", "aac", "-b:a", "96k", str(reduzido)])
+    if not ok:
+        return None
+    reduzido.replace(video)
+    return video
+
+
 def stitch(clipes: List[Path], audio: Path, destino: Path, temp_dir: Path) -> Optional[Path]:
     """Concatenate the scene clips and lay the narration over them."""
     lista = temp_dir / "concat.txt"

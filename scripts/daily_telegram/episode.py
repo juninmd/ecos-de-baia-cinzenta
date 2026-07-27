@@ -122,6 +122,7 @@ def build(numero: int, args, local_gen=None) -> Optional[Path]:
     destino.parent.mkdir(parents=True, exist_ok=True)
     final = animate.stitch_synced(pares, destino, temp_dir, crf=args.crf)
     if final:
+        final = animate.fit_telegram(final, temp_dir) or final
         print(f"🎞️ Episódio pronto: {final} ({final.stat().st_size // 1024 // 1024} MB)")
     return final
 

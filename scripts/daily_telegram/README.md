@@ -59,6 +59,25 @@ python -m scripts.daily_telegram.main --chapter 42         # envia um capítulo 
 python -m scripts.daily_telegram.main --no-video           # só imagem + texto
 ```
 
+## Episódio de série (`episode.py`) — com diálogo
+
+```bash
+.venv-gpu/Scripts/python -m scripts.daily_telegram.episode --chapter 1 --local
+```
+
+O capítulo vira um **episódio com os personagens conversando**, não uma narração corrida:
+
+1. `screenplay.py` separa o texto em *beats*: falas e narração. O falante sai da deixa
+   (`— disse o oficial de patrulha`); sem deixa, a fala alterna para o interlocutor anterior.
+   Personagens sem ficha em `personagens.md` viram figurantes com nome próprio.
+2. `voices.py` dá uma **voz fixa a cada personagem** via edge-tts (grátis, sem chave):
+   Gabo em `pt-BR-Antonio` grave, Val em `pt-BR-Francisca`, Dantas numa voz multilíngue seca.
+   O gênero vem da contagem de pronomes no dossiê, não de palpite pelo nome.
+3. Cada plano dura **exatamente** o áudio da sua fala (`stitch_synced`), então imagem e voz
+   nunca saem de sincronia — validado com desvio de 0,000s.
+4. Fala longa vira **vários planos** (padrão: um corte a cada ~11s), com a imagem ancorada em
+   quem está falando e enquadramento alternando close-up / over-the-shoulder.
+
 ## Filme da história (`story.py`)
 
 Gera **várias cenas por capítulo**, encadeia tudo e produz um filme contínuo:
