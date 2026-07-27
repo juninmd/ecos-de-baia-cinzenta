@@ -47,6 +47,31 @@ def test_edit_prompt_locks_identity_and_wardrobe():
     assert "Subnível 3" in prompt
 
 
+def test_shot_varies_across_scenes():
+    cenas = split_scenes(TEXTO, 4)
+    assert len({c.shot for c in cenas}) == 4  # sem isso toda cena vira o mesmo close-up
+
+
+def test_action_prefers_narration_over_dialogue():
+    cena = Scene(indice=1, texto="— Ameace com obstrução de justiça se for preciso, disse ele. "
+                                 "A chuva ácida escorria pelo concreto rachado do distrito.")
+    assert cena.action.startswith("A chuva ácida")
+
+
+def test_action_falls_back_to_dialogue_when_only_option():
+    cena = Scene(indice=1, texto="— Consiga um culpado antes do amanhecer, disse o inspetor.")
+    assert cena.action
+
+
+def test_compact_prompt_fits_clip_limit():
+    gabo = characters.detect("Gabo acendeu a lanterna.")[0]
+    cena = split_scenes(TEXTO, 4)[0]
+    prompt = cena.compact_prompt(gabo, "Distrito 4")
+    assert len(prompt.split()) < 60  # CLIP corta em 77 tokens
+    assert cena.shot in prompt
+    assert "Sobretudo bege" in prompt
+
+
 def test_wardrobe_extracted_from_indented_markdown():
     gabo = characters.detect("Gabo acendeu a lanterna.")[0]
     assert characters.wardrobe(gabo).startswith("Sobretudo bege")

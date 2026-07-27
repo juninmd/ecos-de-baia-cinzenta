@@ -78,6 +78,19 @@ Cada capítulo entra no filme com uma cartela de título, suas cenas animadas e 
 As imagens ficam em `docs/public/cenas/` e são reaproveitadas para sempre — rodar de novo só
 preenche o que falta, então dá para construir a história inteira aos poucos.
 
+## Prompt por motor
+
+Modelos diferentes recebem prompts diferentes, porque os limites são diferentes:
+
+| Motor | Prompt | Por quê |
+|---|---|---|
+| FLUX Kontext (local ou Space) | `Scene.edit_prompt` — identidade + vestuário + cena + descritor canônico completo | aceita prompt longo e usa o retrato como imagem-base |
+| SDXL + IP-Adapter | `Scene.compact_prompt` — enquadramento + vestuário + local + ação, ~40 palavras | o CLIP corta em **77 tokens**; com prompt longo só sobrava a identidade e toda cena virava o mesmo close-up frontal |
+
+`compact_prompt` também alterna o enquadramento por cena (`wide establishing`, `medium`,
+`over-the-shoulder`, `low angle`, `close-up`, `high angle wide`) e prefere frases de narração
+a falas — "Ameace com obstrução de justiça" é um prompt visual ruim.
+
 ## GPU local (`--local`)
 
 `scripts/daily_telegram/local_gpu.py` usa **SDXL + IP-Adapter**: o retrato do personagem entra

@@ -14,6 +14,16 @@ MOTION_HINTS = [
     "gentle crane up, flickering lights, distant sparks",
     "slow pull-back reveal, rain streaks on the lens",
 ]
+# Enquadramentos alternados: sem isso toda cena vira o mesmo close-up frontal.
+SHOTS = [
+    "wide establishing shot",
+    "medium shot",
+    "over-the-shoulder shot",
+    "low angle shot",
+    "close-up",
+    "high angle wide shot",
+]
+STYLE_CURTO = "neo-noir cyberpunk, rainy night, neon lighting, cinematic, film grain"
 
 
 @dataclass
@@ -25,6 +35,39 @@ class Scene:
     @property
     def motion_prompt(self) -> str:
         return MOTION_HINTS[(self.indice - 1) % len(MOTION_HINTS)]
+
+    @property
+    def shot(self) -> str:
+        return SHOTS[(self.indice - 1) % len(SHOTS)]
+
+    @property
+    def action(self) -> str:
+        """Frase-chave visual da cena, curta o bastante para o limite do CLIP.
+
+        Falas viram prompts ruins ("Ameace com obstrução de justiça") — a preferência
+        é sempre por narração descritiva.
+        """
+        frases = [" ".join(b.replace("*", "").split()) for b in self.texto.split(".")]
+        candidatas = [f for f in frases if len(f) > 30]
+        narrativas = [f for f in candidatas if "—" not in f and "disse" not in f.lower()]
+        escolhida = (narrativas or candidatas or [self.texto])[0]
+        return " ".join(escolhida.replace("—", " ").split())[:110]
+
+    def compact_prompt(self, anchor: Dict, local: str = "") -> str:
+        """Prompt curto para modelos com CLIP (77 tokens): SDXL corta o resto fora.
+
+        A identidade vem da imagem de referência, então aqui só entra o que o texto
+        precisa carregar: roupa, enquadramento, ação e estilo.
+        """
+        partes = [self.shot]
+        roupa = characters.wardrobe(anchor)
+        if roupa:
+            partes.append(f"man wearing {roupa[:60]}")
+        if local:
+            partes.append(local[:40])
+        partes.append(self.action)
+        partes.append(STYLE_CURTO)
+        return ", ".join(partes)
 
     def image_prompt(self, titulo: str, local: str = "") -> str:
         partes = [f"Scene from the chapter '{titulo}'"]
