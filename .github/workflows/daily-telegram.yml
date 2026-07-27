@@ -15,6 +15,11 @@ on:
         required: false
         default: false
         type: boolean
+      simple_video:
+        description: "Vídeo simples (1 imagem) em vez do animado multi-cena"
+        required: false
+        default: false
+        type: boolean
       dry_run:
         description: "Testar sem enviar nada ao Telegram"
         required: false
@@ -29,7 +34,7 @@ jobs:
   send:
     name: Send chapter to Telegram
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 45
     permissions:
       contents: write
     steps:
@@ -40,7 +45,7 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install requests gtts pillow
+        run: pip install requests gtts pillow gradio_client
 
       - name: Build CLI args
         id: args
@@ -49,12 +54,14 @@ jobs:
           if [ -n "${{ inputs.chapter }}" ]; then ARGS="$ARGS --chapter ${{ inputs.chapter }}"; fi
           if [ "${{ inputs.skip_video }}" = "true" ]; then ARGS="$ARGS --no-video"; fi
           if [ "${{ inputs.dry_run }}" = "true" ]; then ARGS="$ARGS --dry-run"; fi
+          if [ "${{ inputs.simple_video }}" != "true" ]; then ARGS="$ARGS --animated --scenes 4"; fi
           echo "value=$ARGS" >> "$GITHUB_OUTPUT"
 
       - name: Send chapter
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: python -m scripts.daily_telegram.main ${{ steps.args.outputs.value }}
 
       - name: Persist delivery state

@@ -8,10 +8,27 @@ Custo: **R$ 0,00** — tudo roda em serviços gratuitos.
 | Etapa | Serviço | Custo |
 |---|---|---|
 | Agendamento diário | GitHub Actions (`cron`) | grátis (repo público = minutos ilimitados) |
-| Imagem do capítulo | arte já commitada em `docs/public/capitulo_N.jpg`, senão [Pollinations](https://pollinations.ai) (FLUX, sem API key) | grátis |
+| Capa do capítulo | arte já commitada em `docs/public/capitulo_N.jpg`, senão [Pollinations](https://pollinations.ai) | grátis |
+| **Cenas com personagens consistentes** | Space `black-forest-labs/FLUX.1-Kontext-Dev` usando os retratos de `docs/public/personagens/` como âncora de identidade | grátis (ZeroGPU) |
+| **Movimento real das cenas** | Space `Lightricks/ltx-video-distilled` (image-to-video) | grátis (ZeroGPU) |
 | Narração | gTTS (Google Translate TTS) | grátis |
-| Vídeo | ffmpeg (Ken Burns sobre a imagem + narração), já instalado no runner | grátis |
+| Montagem | ffmpeg (concat + Ken Burns de fallback), já instalado no runner | grátis |
 | Entrega | Telegram Bot API | grátis |
+
+## Modo animado (padrão)
+
+O capítulo é quebrado em 4 cenas. Para cada cena:
+
+1. Detecta os personagens presentes (`docs/personagens.md` + aliases).
+2. Se algum tem retrato em `docs/public/personagens/`, a imagem da cena é gerada com
+   **FLUX Kontext a partir do retrato** — rosto, cabelo, barba e vestuário se mantêm entre
+   capítulos. Sem retrato, cai para texto→imagem com o descritor canônico do personagem.
+3. A imagem vira um clipe animado de verdade via LTX-Video (push-in, chuva, neon piscando),
+   com movimento diferente por cena.
+4. Os clipes são concatenados e a narração é sobreposta.
+
+Cada etapa degrada sozinha: Kontext falhou → gera sem referência; LTX falhou → Ken Burns por
+ffmpeg. O vídeo sempre sai.
 
 O estado (`.daily_telegram_state.json`) guarda o último capítulo enviado e é commitado de volta
 com `[skip ci]`, então o pipeline retoma exatamente de onde parou. Ao chegar no último capítulo,
@@ -41,6 +58,17 @@ python -m scripts.daily_telegram.main --dry-run            # testa sem enviar
 python -m scripts.daily_telegram.main --chapter 42         # envia um capítulo específico
 python -m scripts.daily_telegram.main --no-video           # só imagem + texto
 ```
+
+## Cota gratuita (o limite real do modo animado)
+
+As Spaces rodam em **ZeroGPU**, que dá alguns minutos de GPU por dia por conta gratuita.
+Na prática isso rende **~2 a 4 gerações por dia** (Kontext ~30s + LTX ~120s por clipe).
+Quando a cota acaba, o pipeline detecta a mensagem de quota, para de tentar naquele capítulo
+e termina o vídeo com Ken Burns — sem falhar e sem gastar tempo em chamadas condenadas.
+
+Para ter mais: gere localmente. A máquina do autor tem uma RTX 4060 Ti, então dá para rodar
+FLUX Kontext / LTX offline sem cota nenhuma, commitar o resultado em `docs/public/` e deixar o
+pipeline diário só reaproveitar (`find_local_art` já faz isso). Custo continua zero.
 
 ## Limites conhecidos
 
