@@ -41,6 +41,19 @@ class Scene:
         return SHOTS[(self.indice - 1) % len(SHOTS)]
 
     @property
+    def identity_scale(self) -> float:
+        """Peso da âncora de identidade conforme o enquadramento.
+
+        O IP-Adapter puxa a composição para retrato: com peso alto, plano aberto vira
+        close-up. Em plano fechado o rosto domina o quadro e o peso pode ser alto.
+        """
+        if "wide" in self.shot:
+            return 0.55
+        if self.shot in ("close-up", "medium shot"):
+            return 0.9
+        return 0.75
+
+    @property
     def action(self) -> str:
         """Frase-chave visual da cena, curta o bastante para o limite do CLIP.
 

@@ -104,7 +104,8 @@ def _load():
 
 
 def generate(reference: Path, prompt: str, destino: Path, seed: int,
-             steps: int = 30, size: int = 1024) -> Optional[Path]:
+             steps: int = 30, size: int = 1024,
+             identity_scale: float = IDENTITY_SCALE) -> Optional[Path]:
     """Scene image anchored on the character portrait — assinatura usada por animate.scene_image."""
     if reference is None or not Path(reference).exists():
         return None
@@ -113,6 +114,7 @@ def generate(reference: Path, prompt: str, destino: Path, seed: int,
         from PIL import Image
 
         pipe = _load()
+        pipe.set_ip_adapter_scale(identity_scale)
         referencia = Image.open(reference).convert("RGB")
         gerador = torch.Generator(device="cuda").manual_seed(seed)
         imagem = pipe(

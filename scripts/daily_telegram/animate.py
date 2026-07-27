@@ -27,7 +27,8 @@ def scene_image(
     ancora = characters.pick_anchor(cena.personagens)
     if ancora and local_gen is not None:
         referencia = characters.reference_image(ancora)
-        imagem = local_gen(referencia, cena.compact_prompt(ancora, local), destino, seed)
+        imagem = local_gen(referencia, cena.compact_prompt(ancora, local), destino, seed,
+                           identity_scale=cena.identity_scale)
         if imagem:
             return imagem
         print("↩ Fallback: GPU local indisponível para esta cena.")
