@@ -1,0 +1,71 @@
+name: Daily Telegram Chapter
+
+on:
+  schedule:
+    # 11:00 UTC = 08:00 BRT
+    - cron: "0 11 * * *"
+  workflow_dispatch:
+    inputs:
+      chapter:
+        description: "Capítulo específico (vazio = próximo da fila)"
+        required: false
+        type: string
+      skip_video:
+        description: "Enviar só imagem + texto (sem vídeo)"
+        required: false
+        default: false
+        type: boolean
+      dry_run:
+        description: "Testar sem enviar nada ao Telegram"
+        required: false
+        default: false
+        type: boolean
+
+concurrency:
+  group: daily-telegram
+  cancel-in-progress: false
+
+jobs:
+  send:
+    name: Send chapter to Telegram
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests gtts pillow
+
+      - name: Build CLI args
+        id: args
+        run: |
+          ARGS=""
+          if [ -n "${{ inputs.chapter }}" ]; then ARGS="$ARGS --chapter ${{ inputs.chapter }}"; fi
+          if [ "${{ inputs.skip_video }}" = "true" ]; then ARGS="$ARGS --no-video"; fi
+          if [ "${{ inputs.dry_run }}" = "true" ]; then ARGS="$ARGS --dry-run"; fi
+          echo "value=$ARGS" >> "$GITHUB_OUTPUT"
+
+      - name: Send chapter
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python -m scripts.daily_telegram.main ${{ steps.args.outputs.value }}
+
+      - name: Persist delivery state
+        if: ${{ inputs.dry_run != true }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .daily_telegram_state.json
+          if git diff --cached --quiet; then
+            echo "Nenhuma mudança de estado."
+          else
+            git commit -m "chore(telegram): estado de envio atualizado [skip ci]"
+            git push
+          fi
