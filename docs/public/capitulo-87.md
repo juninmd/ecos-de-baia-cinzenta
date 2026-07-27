@@ -7,7 +7,7 @@ image: /capitulo_87.jpg
 
 A topografia da cidade havia mudado. As raízes gigantescas que cresceram do subsolo empurraram estruturas inteiras para cima. O que antes era o esgoto, o domínio de Padre Miguel, agora era uma colina elevada, uma catedral a céu aberto feita de tubos de drenagem e árvores petrificadas.
 
-Vilar, agora usando um tapa-olho (o original fora perdido para uma infecção fúngica), liderava a milícia de "Puros". Eram os que recusavam a Simbiose. Viviam em enclaves fortificados, usando tecnologia antiga, isolados da rede biológica da cidade.
+O Capitão Jonas Vilar, agora usando um tapa-olho (o original fora perdido para uma infecção fúngica), liderava a milícia de "Puros". Eram os que recusavam a Simbiose. Viviam em enclaves fortificados, usando tecnologia antiga, isolados da rede biológica da cidade.
 
 Mas eles precisavam negociar.
 
@@ -15,13 +15,13 @@ Diante de Vilar, sentado em um trono feito de ossos e servidores derretidos, est
 
 Não era o Profeta Mudo. Aquele fora apenas um peão.
 
-Este era **Jonas**, o antigo técnico de TI da delegacia. O garoto tímido que trazia café. Agora, ele tinha quatro braços adicionais saindo das costas, membros insetoides que digitavam no ar invisível, manipulando a realidade local.
+Este era **Teo**, o antigo técnico de TI da delegacia. O garoto tímido que trazia café. Agora, ele tinha quatro braços adicionais saindo das costas, membros insetoides que digitavam no ar invisível, manipulando a realidade local.
 
-— Capitão Vilar — disse Jonas, sua voz multiplicada por cordas vocais extras. — Vocês estão consumindo muita água. A Colmeia está sedenta.
+— Capitão Vilar — disse Teo, sua voz multiplicada por cordas vocais extras. — Vocês estão consumindo muita água. A Colmeia está sedenta.
 
-— A água é de quem pega — rosnou Vilar. — Não reconhecemos sua autoridade, Jonas.
+— A água é de quem pega — rosnou Vilar. — Não reconhecemos sua autoridade, Teo.
 
-— Autoridade é uma construção do velho mundo. Nós falamos de *necessidade*. — Jonas fez um gesto, e as vinhas ao redor do trono se agitaram. — Se vocês não cederem a estação de tratamento, nós cortaremos o oxigênio do seu enclave.
+— Autoridade é uma construção do velho mundo. Nós falamos de *necessidade*. — Teo fez um gesto, e as vinhas ao redor do trono se agitaram. — Se vocês não cederem a estação de tratamento, nós cortaremos o oxigênio do seu enclave.
 
 — Vocês não podem fazer isso.
 
@@ -31,7 +31,7 @@ Vilar sabia que era verdade. O enclave dos Puros só sobrevivia porque os Jardin
 
 — O que vocês querem em troca da água? — perguntou Vilar, derrotado.
 
-Jonas sorriu. Seus dentes eram feitos de cristal de quartzo.
+Teo sorriu. Seus dentes eram feitos de cristal de quartzo.
 
 — Queremos o Moretti.
 

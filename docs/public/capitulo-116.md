@@ -47,11 +47,11 @@ Não eram apenas cabos de cobre e fibra ótica. Entrelaçados a eles, pulsando c
 
 — *Processamento distribuído* — a voz do Taxidermista sussurrou, vindo de um pequeno transceptor de manutenção na parede. — *O cérebro humano é uma máquina maravilhosa, detetive. Infinitamente mais eficiente em termos de energia do que o silício. Desperdiçá-lo seria um pecado. Aqui, os viciados, os esquecidos, os "Drenados"... eles finalmente têm um propósito. Eles pensam por Dante. Eles sonham a cidade.*
 
-Gabo sentiu a mão tremer. A vontade de fumar o atingiu como um soco físico. Ele queria queimar aquele gosto de sua boca, queria encher os pulmões com fumaça acre para não sentir o cheiro daquela abominação.
+Gabo sentiu a mão tremer. O cheiro de decomposição tecnológica ativou um gatilho profundo. De repente, a alucinação de fumaça cinzenta e sufocante invadiu sua mente, como se o ar do duto se transformasse nas nuvens tóxicas de seu passado, fechando sua garganta.
 
 *Foco.*
 
-Ele apertou o Colar de Sol. A borda de metal cortou a pele da palma da mão. A dor clareou sua mente.
+Ele apertou o Colar de Sol. A borda de metal cortou a pele da palma da mão, e ele aproveitou para socar com força o ferro em sua perna defeituosa. A dupla dor física excruciante rompeu a neblina irreal, clareando sua mente.
 
 — Val, continue movendo — ele ordenou, a voz rouca. — Se eles são processadores, nós vamos puxar a tomada.
 

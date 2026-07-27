@@ -6,10 +6,14 @@ import sys
 import time
 from pathlib import Path
 
-from dotenv import load_dotenv
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    pass
 
 # Add root project dir to pythonpath to allow relative imports from scripts
-root_dir = Path(__file__).resolve().parent.parent
+root_dir = Path(__file__).absolute().parent.parent
 sys.path.insert(0, str(root_dir))
 
 from scripts.art_gen.character_db import CharacterDatabase
@@ -17,7 +21,7 @@ from scripts.art_gen.chapter_context import ChapterContext
 from scripts.art_gen.utils import parse_chapter_selection
 from scripts.art_gen.batch import run_chapter_batch_processing, build_common_argparser
 
-load_dotenv()
+
 
 MODEL_ALTERNATIVES = {
     "sdxl-novita": {
@@ -52,11 +56,19 @@ class OllamaClient:
     def __init__(self, model="qwen3:8b"):
         self.model = model
         self.api_url = "http://localhost:11434/api/generate"
+        self.session = None
+
+    def _get_session(self):
+        if self.session is None:
+            import requests
+            self.session = requests.Session()
+        return self.session
 
     def check_connection(self, max_retries=3, retry_delay=2):
         try:
+            session = self._get_session()
             # Check if specified model exists, otherwise fallback to first available or qwen2.5:7b
-            resp = requests.get("http://localhost:11434/api/tags", timeout=5)
+            resp = session.get("http://localhost:11434/api/tags", timeout=5)
             if resp.status_code == 200:
                 models = [m["name"] for m in resp.json().get("models", [])]
                 if self.model not in models and models:
@@ -112,7 +124,8 @@ class OllamaClient:
         }
 
         try:
-            response = requests.post(self.api_url, json=payload, timeout=300)
+            session = self._get_session()
+            response = session.post(self.api_url, json=payload, timeout=300)
             response.raise_for_status()
             prompt = response.json().get("response", "").strip()
             # Remove thinking or preamble if present
@@ -139,6 +152,14 @@ class HuggingFaceAPIClient:
         if not self.token:
             print("⚠️ HF_TOKEN not found in environment. API calls will likely fail with 401 Unauthorized.")
 
+        self.session = None
+
+    def _get_session(self):
+        if self.session is None:
+            import requests
+            self.session = requests.Session()
+        return self.session
+
     def generate_art(self, prompt, output_path, image_path=None, strength=0.1, dry_run=False):
         if dry_run:
             print(f"🧪 [DRY RUN] Prompt final:\n{prompt}\n")
@@ -160,14 +181,18 @@ class HuggingFaceAPIClient:
             with open(image_path, "rb") as f:
                 img_base64 = base64.b64encode(f.read()).decode('utf-8')
             payload["image"] = img_base64
-            payload["parameters"] = {
-                "strength": strength,
-                "guidance_scale": 12.0,
-                "num_inference_steps": 40
-            }
+
+            # Modelos flux1 na hf-inference podem falhar se passarmos 'strength' e afins em I2I
+            if "flux1" not in self.model_family:
+                payload["parameters"] = {
+                    "strength": strength,
+                    "guidance_scale": 12.0,
+                    "num_inference_steps": 40
+                }
         
         try:
-            response = requests.post(
+            session = self._get_session()
+            response = session.post(
                 self.api_url, 
                 headers=headers, 
                 json=payload,

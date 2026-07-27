@@ -5,6 +5,7 @@ import re
 NAME_CLEAN_RE = re.compile(r'\[([^\]]+)\](?:\([^\)]+\))?')
 IMAGE_MATCH_RE = re.compile(r'!\[[^\]]*\]\(([^\)]+)\)')
 NICKNAME_MATCH_RE = re.compile(r'"(.*?)"')
+DESCRIPTION_KEYS_RE = re.compile(r'(Porte Físico|Vestuário|Marcas Distintivas|Cabelo|Olhos|Rosto|Idade):')
 
 
 class CharacterDatabase:
@@ -61,23 +62,8 @@ class CharacterDatabase:
         }
 
     def _extract_description_parts(self, lines):
-        description_parts = []
-        for line in lines:
-            clean_line = line.strip().replace('*', '')
-            if any(
-                key in clean_line
-                for key in [
-                    "Porte Físico:",
-                    "Vestuário:",
-                    "Marcas Distintivas:",
-                    "Cabelo:",
-                    "Olhos:",
-                    "Rosto:",
-                    "Idade:",
-                ]
-            ):
-                description_parts.append(clean_line)
-        return description_parts
+        clean_lines = (line.strip().replace('*', '') for line in lines)
+        return [cl for cl in clean_lines if DESCRIPTION_KEYS_RE.search(cl)]
 
     def _generate_aliases(self, name_clean):
         aliases = {name_clean}
@@ -111,15 +97,15 @@ class CharacterDatabase:
             pattern_str = r'\b(' + '|'.join(map(re.escape, all_aliases)) + r')\b'
             self._compiled_pattern = re.compile(pattern_str)
 
-        matches = set(self._compiled_pattern.findall(text_lower))
+        matches = {m.group() for m in self._compiled_pattern.finditer(text_lower)}
 
         found_ids = set()
-        for match in matches:
-            if match in self._alias_map:
-                for char_data in self._alias_map[match]:
-                    if char_data["name"] not in found_ids:
-                        found.append(char_data)
-                        found_ids.add(char_data["name"])
+        found = [
+            char_data
+            for match in matches if match in self._alias_map
+            for char_data in self._alias_map[match]
+            if char_data["name"] not in found_ids and not found_ids.add(char_data["name"])
+        ]
         return found
 
     def _build_alias_map(self):

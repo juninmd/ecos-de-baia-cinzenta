@@ -9,7 +9,7 @@ A neve negra cobria a cidade. Mas não eram esporos. Eram cinzas.
 
 O Jardim havia morrido tão rápido quanto crescera. As plantas monstruosas secaram e viraram pó. As raízes que prendiam os prédios se desfizeram.
 
-Gabo caminhava pelas ruas silenciosas.
+Gabo caminhava com a ajuda pesada das órteses pelas ruas silenciosas.
 
 O sol estava brilhando. Um sol normal, amarelo, quente.
 
@@ -37,7 +37,7 @@ Mas era deles.
 
 — Temos tempo — Gabo sorriu, um sorriso cansado, mas genuíno. — Pela primeira vez em anos, Capitão... o tempo é nosso.
 
-Gabo se afastou, caminhando em direção ao horizonte onde o mar encontrava o céu. O rádio em seu cinto chiou. Apenas estática. O som mais bonito do mundo.
+Gabo se afastou, com suas pernas mecânicas rangendo a cada passo em direção ao horizonte onde o mar encontrava o céu. O rádio em seu cinto chiou. Apenas estática. O som mais bonito do mundo.
 
 Ele tirou o fone do ouvido e o jogou em uma poça d'água.
 

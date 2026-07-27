@@ -7,9 +7,9 @@ image: /capitulo_86.jpg
 
 Baía Cinzenta não existia mais. Pelo menos, não como constava nos mapas. Agora, era conhecida como "O Jardim".
 
-Gabo ajustou a máscara de filtração. O ar na Zona Norte era tóxico para pulmões não modificados — carregado de pólen metálico e esporos alucinógenos.
+Apoiando seu peso nas pesadas órteses mecânicas que sustentavam suas pernas arruinadas, Gabo ajustou a máscara de filtração. O ar na Zona Norte era tóxico para pulmões não modificados — carregado de pólen metálico e esporos alucinógenos.
 
-Ele caminhava por uma rua que um dia fora uma avenida movimentada. Agora, o asfalto era um tapete de musgo que brilhava no escuro. Os prédios eram esqueletos cobertos por trepadeiras de aço e clorofila.
+Ele caminhava com dificuldade por uma rua que um dia fora uma avenida movimentada. Agora, o asfalto era um tapete de musgo que brilhava no escuro. O gemido constante dos servomotores em suas pernas acompanhava cada passo, um lembrete físico de sua limitação que o impedia de sucumbir ao delírio botânico. Os prédios eram esqueletos cobertos por trepadeiras de aço e clorofila.
 
 Ele não estava sozinho. Ao seu lado, um "Cão". Não o animal, mas um drone quadrúpede da antiga força policial que havia sido... assimilado. Sua carcaça de metal estava coberta de pele sintética, e ele se movia com a fluidez de um predador biológico, não com a rigidez de um robô. Ele obedecia a Gabo, mas não por programação. Por lealdade instintiva.
 

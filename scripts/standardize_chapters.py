@@ -6,8 +6,13 @@ from __future__ import annotations
 import re
 import shutil
 from pathlib import Path
+from concurrent.futures import ThreadPoolExecutor
 
-ROOT = Path(__file__).resolve().parents[1]
+import os
+
+MAX_WORKERS = os.cpu_count() or 4
+
+ROOT = Path(os.path.normpath(str(Path(__file__).absolute()))).parents[1]
 DOCS_DIR = ROOT / "docs"
 PUBLIC_DIR = DOCS_DIR / "public"
 CHAPTER_PATTERN = re.compile(r"^capitulo-(\d+(?:\.5)?)\.md$")
@@ -27,18 +32,23 @@ def move_public_chapters() -> list[tuple[Path, Path]]:
     if not public_files:
         return moved
 
-    for file in sorted(public_files, key=chapter_sort_key):
+    def process_move(file: Path) -> tuple[Path, Path] | None:
         if not CHAPTER_PATTERN.match(file.name):
             print(f"⚠️ Ignorando nome fora do padrão: {file.relative_to(ROOT)}")
-            continue
+            return None
 
         target = DOCS_DIR / file.name
         if target.exists():
-            # Suppress print for speed, it's just noise and delays the console
-            continue
+            return None
 
         shutil.move(str(file), str(target))
-        moved.append((file, target))
+        return (file, target)
+
+    sorted_files = sorted(public_files, key=chapter_sort_key)
+    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+        results = executor.map(process_move, sorted_files)
+        moved = [r for r in results if r is not None]
+
     return moved
 
 

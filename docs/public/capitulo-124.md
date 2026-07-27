@@ -17,7 +17,7 @@ A lanterna tática presa ao ombro do sobretudo cortava a negridão, revelando a 
 
 Gabo parou por um instante, apoiando a mão na parede fria. O suor escorria por suas costas, gelado. A adrenalina do confronto na clínica de Vasco estava baixando, deixando para trás apenas a dor surda das velhas fraturas na coluna e o latejar rítmico no ombro onde a coronha da *Caronte* batia.
 
-Ele tateou o bolso, os dedos roçando o maço de chicletes de nicotina vencidos que ele carregava como talismã, nunca usando. A vontade de algo mais forte — não fumaça, ele odiava a fumaça, o cheiro o lembrava do hálito do pai gritando — mas de um entorpecimento, era tentadora. Ele rejeitou o pensamento, mordendo o lábio até sentir o gosto metálico de sangue. Dor era foco. Dor era realidade.
+O cheiro do esgoto trazia fantasmas. Um odor fantasma de fumaça de charuto começou a se formar no fundo de sua garganta, a alucinação olfativa do trauma de infância tentando se instalar em meio à sua exaustão. A vontade de gritar, de arrancar a própria pele para escapar da memória do pai, era tentadora. Ele rejeitou o pensamento, mordendo o lábio e apertando o *Colar de Sol* no bolso até sentir o metal cortar sua mão. Dor era foco. Dor era realidade.
 
 O acesso ao "Fliperama" estava camuflado atrás de uma grade de ventilação falsa. Gabo digitou o código no painel analógico — botões físicos, nada de interfaces neurais que pudessem ser rastreadas. A trava cedeu com um gemido hidráulico.
 
@@ -77,7 +77,7 @@ A androide estava sentada em uma cadeira de conexão, cabos grossos ligados à p
 
 — O custo foi alto, Gabo. O hardware está intacto, mas o software... — Valéria tocou o rosto sintético de Aria. — É "Dívida Técnica", lembra? Ela pegou emprestado processamento que não tinha. Agora o sistema está cobrando.
 
-Gabo se levantou, a rigidez nas pernas lembrando-o de que ele também era uma máquina falha, cheia de peças remendadas e código ruim.
+Gabo se levantou, os servomotores de suas órteses de perna rangendo em protesto, lembrando-o de que ele também era uma máquina falha, cheia de peças remendadas e código ruim.
 
 — Rangel precisa de tempo. Aria precisa de código. E nós precisamos de um plano.
 

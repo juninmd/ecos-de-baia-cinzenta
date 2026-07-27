@@ -22,9 +22,9 @@ Gabo trincou os dentes, sentindo o gosto de bile. Ele não se virou. Sabia o que
 
 — Você sempre diz isso. — A "coisa" que usava o rosto de Bia saltitou para o lado dele, leve como uma pluma, ignorando o caos ao redor. — "O necessário". Como quando você não chegou a tempo na doca. Como quando você deixou o Roberto me pegar. Você é ótimo em fazer o necessário, Gabo. É em *salvar* as pessoas que você falha.
 
-Gabo fechou os olhos por um segundo, o suficiente para uma imagem intrusiva queimar sua retina: um maço de cigarros amassado no bolso. A nicotina como um silenciador para a culpa. Seu corpo implorou pelo ritual — o clique do isqueiro, a fumaça preenchendo os pulmões e expulsando o ar viciado.
+Gabo fechou os olhos por um segundo, o suficiente para uma imagem intrusiva queimar sua retina: o charuto aceso de seu pai na cabine trancada. A asfixia como um silenciador para a culpa. Seu corpo respondeu com pânico — a garganta fechando, o pavor do ar sendo substituído pela fumaça sufocante.
 
-Mas então o cheiro do fluído vermelho bateu nele novamente. Era quente e úmido. A náusea subiu violenta, um soco no estômago que o fez quase derrubar Rangel. Ele engoliu o vômito. *Não.* O vício era uma fraqueza que ele não podia se dar ao luxo. A dor em sua perna, onde a Quimera o mordera, era o único estimulante que ele aceitaria. A dor era limpa. A fumaça era apenas névoa.
+Mas então o cheiro do fluído vermelho bateu nele novamente. Era quente e úmido. A náusea subiu violenta, um soco no estômago que o fez quase derrubar Rangel. Ele engoliu o vômito. *Não.* O pânico era uma fraqueza que ele não podia se dar ao luxo. A dor em sua perna, onde a Quimera o mordera, era o único ancoradouro que ele aceitaria. A dor era limpa. A fumaça era apenas uma alucinação.
 
 — Para cima! — Gabo gritou, ignorando a alucinação. — Val, aquela escada de manutenção na parede norte!
 
@@ -50,7 +50,7 @@ Aria riu, uma risada cristalina que cortou o barulho das sirenes de alerta. Ela 
 
 — Você está com medo, Gabo? — ela sussurrou. — Deveria estar. O que está subindo não é só lixo. É memória. É tudo o que a cidade tentou esquecer e você trouxe de volta.
 
-Gabo a ignorou e continuou a subir, degrau por degrau, os músculos das costas queimando, o suor escorrendo frio pela testa. O "Colar de Sol" de sua mãe, enrolado no punho esquerdo, parecia pesar tanto quanto Rangel.
+Gabo a ignorou e continuou a subir, degrau por degrau, os músculos das costas queimando e os servos de suas pernas mecânicas estalando sob a tensão, o suor escorrendo frio pela testa. O "Colar de Sol" de sua mãe, enrolado no punho esquerdo, parecia pesar tanto quanto Rangel.
 
 Eles chegaram a uma plataforma superior, uma passarela de observação selada por uma porta de pressão pesada, estilo submarino.
 
@@ -78,7 +78,7 @@ Ele arrastou Rangel para dentro. Valéria puxou Aria. Gabo girou a roda de fecha
 
 Silêncio. Apenas a respiração ofegante dos três e o gotejar do suor de Gabo.
 
-Gabo encostou as costas na porta fria, deslizando até o chão. Suas mãos tremiam. Não de medo, mas de adrenalina tóxica. Ele tateou o bolso, sentindo o formato quadrado do maço de cigarros imaginário. A "fantasia" era tão real que ele podia sentir a textura do papel.
+Gabo encostou as costas na porta fria, deslizando até o chão enquanto suas órteses de perna raspavam no metal. Suas mãos tremiam. Não de medo, mas de adrenalina tóxica. Ele apertou a palma da mão esquerda com força, cravando as unhas na pele suja para dissipar a "fantasia" sufocante do cheiro de charuto de seu pai. A alucinação era tão real que ele podia sentir a textura esfumaçada no fundo da garganta.
 
 Ele olhou para as próprias mãos, manchadas de graxa e sangue seco. Levou-as ao rosto, inalando profundamente. O cheiro de ferro e morte o ancorou.
 

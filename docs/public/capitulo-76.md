@@ -5,7 +5,7 @@ image: /capitulo_76.jpg
 
 **Distrito de Prata - 12:00 PM.**
 
-O problema com o sol, Gabo concluiu, era que ele não sabia guardar segredos.
+O problema com o sol, Gabo concluiu encostado no capô do Cobalt, era que ele não sabia guardar segredos.
 
 Durante cinquenta anos, Baía Cinzenta foi uma amante discreta, escondendo suas cicatrizes sob o véu da chuva e do neon. A escuridão era indulgente; ela borrava as bordas da pobreza, suavizava a ferrugem e transformava becos imundos em passagens misteriosas.
 

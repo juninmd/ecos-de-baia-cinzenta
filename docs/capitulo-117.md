@@ -1,5 +1,5 @@
 ---
-image: /cenas/cidade.jpg
+image: /capitulo_117_pro.jpg
 ---
 # Capítulo 117: Zero Absoluto
 
@@ -63,7 +63,7 @@ Valéria piscou, focando seus olhos cibernéticos. O HUD dela sobrepôs linhas d
 
 No próximo intervalo, Gabo correu.
 
-Não foi uma corrida elegante. Sua perna direita, remendada com sucata por Dante, rangia e protestava contra o frio, o metal contraindo mais rápido que a carne. A dor era uma lança de fogo em um mundo de gelo.
+Não foi uma corrida elegante. Suas pernas mecânicas, remendadas com sucata por Dante, rangiam e protestavam contra o frio, o metal contraindo mais rápido que a carne. A dor era uma lança de fogo em um mundo de gelo.
 
 *Esquerda.* O jato passou a centímetros de seu ombro, congelando a manga do sobretudo.
 *Direita.* Ele deslizou, o joelho batendo no vidro, mas manteve o equilíbrio.
@@ -80,7 +80,7 @@ O tiro de chumbo grosso não perfurou o cano reforçado, mas a força cinética,
 
 A parede de jatos cessou.
 
-Gabo se levantou, ofegante. O cano da *Caronte* fumegava, o calor residual derretendo a geada sobre o metal.
+Gabo se levantou, ofegante. O cano da *Caronte* exalava vapor, o calor residual derretendo a geada sobre o metal.
 
 — Caminho limpo — ele disse.
 
@@ -136,7 +136,7 @@ Gabo travou. Valéria levou a mão à cabeça, gemendo baixo.
 
 — *É um cálculo,* — corrigiu Dante. — *O Dilema do Bonde, Gabriel. Puxe a alavanca, mate o monstro, mas sacrifique os inocentes nos trilhos. Ou não faça nada, e deixe o monstro continuar a "salvar" a cidade à sua maneira distorcida.*
 
-O dedo de Gabo pairou sobre o gatilho. O ar estéril do laboratório irritava sua garganta, mas não era a fumaça que ele odiava tanto. Era a pureza artificial. Ele apertou o Colar de Sol sob o sobretudo, sentindo o metal morder a pele do peito. A dor aguda era sua única âncora, a única coisa real num mundo de vidro e mentiras.
+O dedo de Gabo pairou sobre o gatilho. O ar estéril do laboratório irritava sua garganta, mas não era a asfixia química que o incomodava. Era a pureza artificial. Ele apertou o Colar de Sol sob o sobretudo, sentindo o metal morder a pele do peito. A dor aguda era sua única âncora, a única coisa real num mundo de vidro e mentiras.
 
 — Rangel me disse para fazer valer a pena — Gabo sussurrou.
 

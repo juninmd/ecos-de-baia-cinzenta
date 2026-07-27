@@ -39,7 +39,7 @@ Gabo tomou um gole do café. Ele sentiu o gosto da terra, da vida.
 
 — A cidade ainda tem fantasmas, Val. Crimes antigos. Pessoas desaparecidas. Injustiças que o algoritmo não consegue resolver.
 
-Ele olhou para o seu carro, o Cobalt, estacionado na rua abaixo. Estava amassado, sem para-choque, mas o motor tinha sido consertado (provavelmente por drones noturnos).
+Ele olhou para o seu carro, o Cobalt, estacionado na rua abaixo. Estava amassado, sem para-choque, mas o motor tinha sido consertado — um trabalho meticuloso, provavelmente feito por drones noturnos.
 
 — Alguém tem que cuidar dos casos esquecidos — disse Gabo.
 

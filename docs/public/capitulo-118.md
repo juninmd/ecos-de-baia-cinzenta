@@ -57,7 +57,7 @@ Gabo correu até Aria e segurou seus ombros. O metal estava fervendo.
 
 A androide virou o rosto para ele. A pele sintética do lado esquerdo estava derretendo, revelando o chassi prateado por baixo. Mas ela sorria. O sorriso de Bia.
 
-— Cuide... da Val — ela sussurrou. — E pare... de tentar... fumar.
+— Cuide... da Val — ela sussurrou. — E pare... de se machucar... para lembrar de viver.
 
 Com um puxão final, ela arrancou o cabo.
 

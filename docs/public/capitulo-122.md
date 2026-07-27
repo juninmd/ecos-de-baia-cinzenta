@@ -5,7 +5,7 @@ image: /capitulo_122.jpg
 - **Data In-Game:** 23 de Novembro, 03:45
 - **Localização:** O Fliperama (Esgotos / Subnível do Distrito Industrial)
 - **Personagens Presentes:** Gabo Moretti, Valéria Cruz, Inspetor Rangel (Estável/Precário), Aria (Offline/Fragmentada).
-- **Resumo:** O pós-operatório improvisado deixa marcas físicas e psicológicas no grupo. Enquanto Rangel luta contra a febre, Valéria explica o conceito de "dívida técnica" ao tentar reparar Aria, traçando um paralelo sombrio entre o código quebrado da androide e as escolhas morais que fizeram para derrubar Dante. Gabo enfrenta seus demônios internos sem nicotina.
+- **Resumo:** O pós-operatório improvisado deixa marcas físicas e psicológicas no grupo. Enquanto Rangel luta contra a febre, Valéria explica o conceito de "dívida técnica" ao tentar reparar Aria, traçando um paralelo sombrio entre o código quebrado da androide e as escolhas morais que fizeram para derrubar Dante. Gabo enfrenta seus demônios internos ancorado na dor física.
 
 # Narrativa
 
@@ -37,11 +37,11 @@ Valéria apontou para a tela cheia de erros hexadecimais vermelhos.
 
 — O que fizemos com Aria na usina... usar ela como para-raios para o feedback neural de milhares de mentes... foi o maior empréstimo que já vi.
 
-Gabo sentiu a garganta secar. A necessidade de fumar veio como um soco físico no diafragma. Ele podia sentir o gosto fantasma do tabaco na língua, a promessa de alívio químico para a tensão que retorcia seus músculos.
+Gabo sentiu a garganta secar. Uma alucinação olfativa de fumaça de charuto — espessa, sufocante e intrusiva — veio como um soco físico no diafragma, trazendo as memórias mais obscuras de seu passado para aterrorizá-lo e fragilizá-lo.
 
-Sua mão foi instintivamente para o bolso, mas parou no meio do caminho. *Não.*
+Sua mão tremeu instintivamente em repulsa, buscando uma âncora. *Não.*
 
-Ele desviou o movimento e agarrou o *Colar de Sol* sob a camisa. Apertou o metal até as arestas machucarem a palma da mão. A dor era uma âncora.
+Ele agarrou o *Colar de Sol* sob a camisa. Apertou o metal até as arestas cortarem a palma da mão, usando a dor excruciante para despedaçar a alucinação e se manter focado. A dor era sua âncora para a realidade.
 
 — Ela vai voltar? — perguntou Gabo, a voz rouca.
 

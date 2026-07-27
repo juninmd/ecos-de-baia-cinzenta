@@ -6,9 +6,12 @@ from __future__ import annotations
 import re
 import argparse
 import os
+from concurrent.futures import ThreadPoolExecutor
 from dataclasses import dataclass
 from pathlib import Path
 from statistics import mean
+
+MAX_WORKERS = os.cpu_count() or 4
 
 DOCS_DIR = Path("docs")
 PERSONAGENS = DOCS_DIR / "personagens.md"
@@ -17,14 +20,14 @@ CHAPTER_RE = re.compile(r"capitulo-(\d+(?:\.5)?)\.md$")
 # Pre-compiled regex patterns for performance optimization
 VIOLATION_PATTERN = re.compile(r"\b(Gabo|Gabriel)\b.{0,120}\b(fum[a-z]*|cigarro|tabaco)\b", re.IGNORECASE | re.DOTALL)
 CANONICAL_NEGATIONS = re.compile(r"(odeia|nunca fumou|n[aã]o fuma|repulsa|n[aá]usea)", re.IGNORECASE)
-WORD_PATTERN = re.compile(r"\b\w+\b")
-CLIFFHANGER_PATTERN = re.compile(r"[?.!]\s*$")
 
 CENTRAL_ALIASES = {
     "Gabriel \"Gabo\" Moretti": {"gabo", "gabriel", "moretti"},
     "Valéria \"Val\" Cruz": {"valéria", "val", "cruz"},
     "Aria": {"aria"},
 }
+
+SENSORY_REGEX = re.compile(r"\b(chuva|neon|sombra|sangue|metal|eco|frio|silêncio)\b")
 
 
 @dataclass
@@ -49,9 +52,19 @@ def chapter_number(path: Path) -> float:
 
 def load_chapters() -> list[Chapter]:
     chapters = []
-    for file in DOCS_DIR.glob("capitulo-*.md"):
+
+    def process_file(file: Path) -> Chapter | None:
         if CHAPTER_RE.search(file.name):
-            chapters.append(Chapter(chapter_number(file), file))
+            ch = Chapter(chapter_number(file), file)
+            _ = ch.text  # Eager load text to cache it in parallel
+            return ch
+        return None
+
+    files = list(DOCS_DIR.glob("capitulo-*.md"))
+    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+        results = executor.map(process_file, files)
+        chapters = [ch for ch in results if ch is not None]
+
     return sorted(chapters, key=lambda c: c.number)
 
 
@@ -105,7 +118,6 @@ def check_sequence(chapters: list[Chapter]) -> list[str]:
 
 
 def check_character_consistency(chapters: list[Chapter], aliases: dict[str, set[str]]) -> list[str]:
-    from concurrent.futures import ThreadPoolExecutor
     issues = []
 
     # Regra canônica: Gabo tem repulsa a cigarro/fumo.
@@ -118,8 +130,7 @@ def check_character_consistency(chapters: list[Chapter], aliases: dict[str, set[
             return None
         return ch.path.name
 
-    with ThreadPoolExecutor() as executor:
-        violators = list(filter(None, executor.map(check_violation, chapters)))
+    violators = list(filter(None, map(check_violation, chapters)))
 
     if violators:
         issues.append(f"Possível violação do traço de Gabo (fumo) em: {violators[:10]}")
@@ -127,15 +138,17 @@ def check_character_consistency(chapters: list[Chapter], aliases: dict[str, set[
     # Checa se capítulos recentes perderam protagonistas centrais.
     recent = chapters[-10:]
 
-    # Cache compiled regex per canonical alias string during evaluation
+    # Precompile the patterns for performance
+    compiled_patterns = []
     for canonical, fallback_aliases in CENTRAL_ALIASES.items():
         alias_set = aliases.get(canonical, fallback_aliases)
-        pattern = re.compile(rf"\b(?:{'|'.join(map(re.escape, alias_set))})\b", re.IGNORECASE)
+        compiled_patterns.append((
+            canonical,
+            re.compile(rf"\b(?:{'|'.join(map(re.escape, alias_set))})\b", re.IGNORECASE)
+        ))
 
-        def check_mention(ch):
-            return 1 if pattern.search(ch.text) else 0
-
-        mentions = sum(map(check_mention, recent))
+    for canonical, pattern in compiled_patterns:
+        mentions = sum(1 for ch in recent if pattern.search(ch.text))
 
         if mentions <= 1:
             issues.append(f"Personagem central pouco presente nos 10 capítulos mais recentes: {canonical} ({mentions}/10)")
@@ -150,13 +163,18 @@ def bestseller_score(chapters: list[Chapter]) -> tuple[float, list[str]]:
 
     recent = chapters[-12:]
 
-    sensory_tokens = ("chuva", "neon", "sombra", "sangue", "metal", "eco", "frio", "silêncio")
     results = []
     for ch in recent:
         text = ch.text
-        word_count = len(WORD_PATTERN.findall(text))
-        token_count = sum(text.lower().count(tok) for tok in sensory_tokens)
-        results.append((word_count, token_count / max(word_count, 1), 1 if CLIFFHANGER_PATTERN.search(text) else 0))
+        text_lower = text.lower()
+        word_count = len(text.split())
+        token_count = sum(1 for _ in SENSORY_REGEX.finditer(text_lower))
+
+        # Optimize endswith matching by slicing the end of the text
+        end_text = text[-200:].rstrip() if len(text) > 200 else text.rstrip()
+        cliffhanger = 1 if end_text.endswith(('?', '.', '!')) else 0
+
+        results.append((word_count, token_count / max(word_count, 1), cliffhanger))
 
     word_counts = [r[0] for r in results]
     avg_words = mean(word_counts) if word_counts else 0

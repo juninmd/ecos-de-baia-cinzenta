@@ -1,14 +1,13 @@
 # Stage 1: Build
 FROM node:23-alpine AS builder
-RUN npm install -g pnpm
+RUN npm install -g pnpm && npm cache clean --force
 WORKDIR /app
 COPY package.json pnpm-lock.yaml ./
-RUN pnpm install --frozen-lockfile
+RUN pnpm install --frozen-lockfile --config.store-dir=/tmp/pnpm-store
 COPY . .
 RUN pnpm run docs:build
 
-# Stage 2: Serve
-FROM nginx:alpine
+# Stage 2: Serve (unprivileged nginx, sem root)
+FROM nginxinc/nginx-unprivileged:alpine
 COPY --from=builder /app/docs/.vitepress/dist /usr/share/nginx/html
-EXPOSE 80
-CMD ["nginx", "-g", "daemon off;"]
+EXPOSE 8080

@@ -11,7 +11,7 @@ Ele não fumava — na verdade, detestava o cheiro, uma herança maldita do pai 
 
 Gabo parou o carro diante da entrada lacrada da estação "Jardim das Flores". O nome era uma piada cruel de um urbanista morto há décadas; não havia flores ali, apenas concreto, pichações e o cheiro acre de enxofre.
 
-Ele desceu do carro, ajustando as cintas das órteses nas pernas. O *clique-clique* metálico dos servos acompanhou seus passos até a grade.
+Ele desceu do carro, ajustando as cintas das órteses nas pernas. O *clique-clique* metálico das travas passivas acompanhou seus passos até a grade.
 
 — Você demorou — disse uma voz vinda das sombras da bilheteria.
 

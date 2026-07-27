@@ -11,15 +11,15 @@ characters:
 
 O calor ali embaixo não era apenas temperatura; era uma pressão física. O ar vibrava com o *thump-thump* colossal dos pistões, um ritmo que Gabo sentia nos dentes e na fratura recém-adquirida no antebraço.
 
-Ele apertou o torniquete improvisado com um pedaço de camisa rasgada. O sangue da mordida da Quimera já estava escuro e coagulado, misturando-se à graxa do esgoto. A dor era aguda, latejante, uma âncora necessária. Sempre que sua mente vagava para o cheiro adocicado e enjoativo do fluido que corria nos tubos — um cheiro que lembrava fumaça de incenso barato e carne queimada —, ele apertava o *Colar de Sol* contra o peito até o metal frio morder a pele.
+Ele apertou o torniquete improvisado com um pedaço de camisa rasgada. O sangue da mordida da Quimera já estava escuro e coagulado, misturando-se à graxa do esgoto. A dor era aguda, latejante, uma âncora necessária. Sempre que sua mente vagava para o cheiro adocicado e enjoativo do fluido que corria nos tubos — um cheiro que lembrava fumaça de incenso barato e carne queimada —, a memória traumática da asfixia na cabine de seu pai ameaçava sufocá-lo. Para se ater à realidade, ele apertava o *Colar de Sol* contra o peito até o metal frio morder a pele.
 
-Não havia desejo de fumar. Havia apenas repulsa. O cheiro de queima o lembrava do crematório, não de um maço de cigarros.
+A dor física espantava o cheiro de queima, varrendo a fumaça de suas narinas.
 
 — Gabo, você está pálido — a voz de Bia Vargas ecoou. Não vinha dos alto-falantes, mas da garganta sintética da garota parada à sua frente. Aria inclinou a cabeça, o cabelo loiro platinado brilhando sob as luzes de emergência âmbar. O sorriso era idêntico. Cruelmente idêntico. — Está perdendo sangue rápido. Igualzinho àquele dia no beco da Rua 7. Lembra? Quando você hesitou em atirar no traficante e eu levei um tiro de raspão?
 
 Gabo ignorou o fantasma. Ele se virou para Valéria. A hacker estava ajoelhada diante de um painel de controle manual, seus olhos cibernéticos varrendo os mostradores analógicos com frustração.
 
-— Val, relatório — ele grunhiu, içando Rangel para uma posição mais segura. O inspetor estava febril, murmurando sobre arquivos perdidos e carimbos sem tinta.
+— Val, relatório — ele grunhiu, içando Rangel para uma posição mais segura com um esforço que fez as engrenagens de suas órteses de perna protestarem com um rangido metálico afiado. O inspetor estava febril, murmurando sobre arquivos perdidos e carimbos sem tinta.
 
 — Estou cega, Gabo — Valéria respondeu, a voz tensa. Ela bateu no painel com a mão enluvada. — A interferência eletromagnética aqui embaixo é brutal. Meus drones caíram. O *deck* não conecta. Estou tendo que ler ponteiros físicos. Ponteiros! Quem projeta uma estação de bombeamento com agulhas de pressão em 2078?
 
@@ -85,7 +85,7 @@ Uma porta pesada de explosão no fundo da sala começou a se abrir lentamente, r
 
 Do teto, sombras se desprenderam. Autômatos de manutenção, parecidos com aranhas de vidro e cromo, desceram por fios de seda sintética.
 
-— Corram — Gabo gritou, levantando Rangel com um esforço que quase rasgou seus músculos. — Para o túnel!
+— Corram — Gabo gritou, levantando Rangel com um esforço que quase rasgou seus músculos e fez os servomotores de suas pernas mecânicas chiarem em sobrecarga. — Para o túnel!
 
 Enquanto corriam, Gabo olhou para trás uma última vez. Pela escotilha, ele viu os corpos nos favos se agitarem em espasmo, como se, por um breve segundo, o choque do fluxo reverso os tivesse acordado de seu pesadelo eterno.
 

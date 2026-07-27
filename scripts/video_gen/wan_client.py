@@ -15,13 +15,21 @@ class WanVideoGenerator:
         self.api_key = os.environ.get('HF_TOKEN')
         self.output_dir = output_dir
         self.headers = {"Authorization": f"Bearer {self.api_key}"} if self.api_key else {}
+        self.session = None
         
         if not self.api_key:
             print("⚠️ HF_TOKEN environment variable not set. Assuming Space API or local URL is configured, or API will fail.")
 
+    def _get_session(self):
+        if self.session is None:
+            import requests
+            self.session = requests.Session()
+            self.session.headers.update(self.headers)
+        return self.session
+
     def _query(self, payload):
-        import requests
-        response = requests.post(self.API_URL, headers=self.headers, json=payload, timeout=120)
+        session = self._get_session()
+        response = session.post(self.API_URL, json=payload, timeout=120)
         response.raise_for_status()
         return response.content
 

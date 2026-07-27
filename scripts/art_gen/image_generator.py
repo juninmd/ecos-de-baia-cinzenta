@@ -1,12 +1,6 @@
 import os
 
-try:
-    import torch
-except ImportError:
-    torch = None
-
 from .config import MODEL_ALTERNATIVES
-from .local_pipeline import LocalPipelineManager
 
 
 class ImageGenerator:
@@ -22,8 +16,16 @@ class ImageGenerator:
             "text, watermark, logo, frame, jpeg artifacts, cartoon, anime"
         )
 
+        from .local_pipeline import LocalPipelineManager
         self.local_manager = LocalPipelineManager(model_family)
+        self.session = None
         self._configure_api_url()
+
+    def _get_session(self):
+        if self.session is None:
+            import requests
+            self.session = requests.Session()
+        return self.session
 
     def _configure_api_url(self):
         """Attempts to auto-detect a local SD API if no URL was explicitly provided."""
@@ -35,8 +37,8 @@ class ImageGenerator:
 
     def _is_remote_available(self, base_url):
         try:
-            import requests
-            response = requests.get(f"{base_url}/sdapi/v1/options", timeout=2)
+            session = self._get_session()
+            response = session.get(f"{base_url}/sdapi/v1/options", timeout=2)
             return response.ok
         except Exception:
             return False
@@ -81,7 +83,11 @@ class ImageGenerator:
 
     def _can_use_local_generation(self):
         """Validates if local generation is allowed given the hardware and configuration."""
-        has_gpu = torch and torch.cuda.is_available()
+        try:
+            import torch
+            has_gpu = torch.cuda.is_available()
+        except ImportError:
+            has_gpu = False
 
         if not self.allow_cpu_fallback and not has_gpu:
             print(
@@ -101,7 +107,8 @@ class ImageGenerator:
         payload = self._remote_payload(prompt)
 
         try:
-            resp = requests.post(
+            session = self._get_session()
+            resp = session.post(
                 f"{self.api_url}/sdapi/v1/txt2img",
                 json=payload,
                 timeout=self.remote_timeout,

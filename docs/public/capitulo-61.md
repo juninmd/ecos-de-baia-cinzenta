@@ -21,7 +21,7 @@ Val hesitou.
 
 — Isso é o estranho. A assinatura não é biométrica humana. É uma chave criptográfica de nível militar. O tipo que só IAs autorizadas possuem.
 
-Gabo se aproximou da tela.
+Gabo se aproximou da tela. Suas pernas mecânicas chiaram levemente ao suportarem o peso de seu corpo quebrado.
 
 — Traduza para mim, Val. Eu bato em pessoas, não em códigos.
 
@@ -45,7 +45,7 @@ Ele apontou para um nome. *Alexander Vane*.
 
 — Aparentemente, ele comprou um loft na Nova Baía ontem — disse Val.
 
-A ficha caiu. O peso da revelação fez Gabo se sentar novamente.
+A ficha caiu. O peso da revelação fez Gabo se sentar novamente nas caixas, as travas de suas órteses estalando de alívio por retirar a tensão.
 
 — Não é imobiliária para vivos — disse ele. — É um cemitério de luxo. Eles estão comprando servidores para rodar suas consciências depois de mortos. A Nova Baía... é uma necrópole digital.
 

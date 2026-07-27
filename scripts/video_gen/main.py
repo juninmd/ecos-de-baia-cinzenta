@@ -2,10 +2,11 @@ import argparse
 import sys
 import shutil
 from pathlib import Path
-from concurrent.futures import ThreadPoolExecutor, as_completed
+from concurrent.futures import ThreadPoolExecutor, as_completed, wait
+import os
 
 # Add root project dir to pythonpath to allow relative imports from scripts
-root_dir = Path(__file__).resolve().parent.parent.parent
+root_dir = Path(__file__).absolute().parent.parent.parent
 sys.path.insert(0, str(root_dir))
 
 from scripts.video_gen.parser import ChapterParser
@@ -53,11 +54,7 @@ class VideoPipeline:
         print(f"🎬 Processing Capítulo {numero}: {titulo}")
         print(f"{'='*60}")
         
-        # 1. Generate Audio (shared by all modes)
         audio_path = self.temp_dir / f"cap_{numero}_narration.mp3"
-        generate_narration(texto, audio_path)
-
-        # 2. Generate visual track
         output_video = self.output_dir / f"capitulo_{numero}.mp4"
         source_image = self._resolve_chapter_image(image_path)
         use_image_mode = mode == 'image2video' or (mode == 'auto' and source_image is not None)
@@ -66,6 +63,10 @@ class VideoPipeline:
             if source_image is None:
                 print("❌ No chapter image found for image2video mode.")
                 return
+
+            # For image mode, narration must be completed BEFORE composing the video
+            generate_narration(texto, audio_path)
+
             if self.composer is None:
                 from scripts.video_gen.composer import VideoComposer
                 self.composer = VideoComposer(self.temp_dir)
@@ -82,7 +83,14 @@ class VideoPipeline:
         if self.generator is None:
             from scripts.video_gen.wan_client import WanVideoGenerator
             self.generator = WanVideoGenerator(self.temp_dir)
-        video_paths = self.generator.generate_multi_scene_videos(numero, texto)
+
+        with ThreadPoolExecutor(max_workers=2) as executor:
+            audio_future = executor.submit(generate_narration, texto, audio_path)
+            video_future = executor.submit(self.generator.generate_multi_scene_videos, numero, texto)
+
+            wait([audio_future, video_future])
+            video_paths = video_future.result()
+
         if not video_paths:
             print("❌ Failed to generate any video clips.")
             return
@@ -106,7 +114,7 @@ def main():
     )
     args = parser.parse_args()
     
-    root = Path(__file__).resolve().parent.parent.parent
+    root = Path(__file__).absolute().parent.parent.parent
     docs_dir = root / 'docs'
     pipeline = VideoPipeline(root, args.output)
     

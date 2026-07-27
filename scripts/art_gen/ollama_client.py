@@ -7,7 +7,14 @@ class OllamaClient:
         self.host = host or os.environ.get("OLLAMA_HOST", "http://localhost:11434")
         self.model = model
         self.api_url = f"{self.host}/api/generate"
+        self.session = None
         print(f"🦙 Initializing Ollama Client ({self.host}) with model: {self.model}...")
+
+    def _get_session(self):
+        if self.session is None:
+            import requests
+            self.session = requests.Session()
+        return self.session
 
     def check_connection(self, max_retries=3, retry_delay=2):
         """
@@ -15,9 +22,10 @@ class OllamaClient:
         Includes retry logic to account for slow container startup times in CI environments.
         """
         import requests
+        session = self._get_session()
         for attempt in range(max_retries):
             try:
-                response = requests.get(self.host, timeout=5)
+                response = session.get(self.host, timeout=5)
                 if response.status_code == 200:
                     print(f"✅ Successfully connected to Ollama at {self.host}")
                     return True
@@ -32,6 +40,7 @@ class OllamaClient:
 
     def generate_prompt(self, chapter_text, active_characters, style):
         import requests
+        session = self._get_session()
 
         system_prompt = self._build_system_prompt()
         user_prompt = self._build_user_prompt(chapter_text, active_characters, style)
@@ -46,7 +55,7 @@ class OllamaClient:
         try:
             print("... Sending request to Ollama...")
             # We use a long timeout because text generation can take several minutes on CPU
-            response = requests.post(self.api_url, json=payload, timeout=300)
+            response = session.post(self.api_url, json=payload, timeout=300)
             response.raise_for_status()
             return response.json().get("response", "").strip()
         except requests.Timeout:

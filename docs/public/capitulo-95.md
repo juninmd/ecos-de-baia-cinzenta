@@ -7,7 +7,7 @@ image: /capitulo_95.jpg
 
 O ar aqui embaixo era quente e úmido, como o interior de um pulmão. As paredes eram cobertas de carne sintética que crescia sobre o concreto.
 
-Gabo e Val arrastavam o servidor. As rodas da maca haviam quebrado; eles o carregavam no braço agora.
+Gabo, com suas órteses mecânicas zumbindo em falência térmica, e Valéria arrastavam o servidor. As rodas da maca haviam quebrado; eles o carregavam no braço agora.
 
 — Gabo... — Val parou, ofegante. Ela olhou para o braço dela. Uma pequena flor roxa estava brotando em seu pulso.
 
@@ -31,7 +31,7 @@ Gabo olhou para ela. Valéria. A melhor hacker da cidade. Sua parceira. Sua amig
 
 — Me faça um favor, Cowboy — ela sorriu, uma lágrima escorrendo pelo rosto que começava a ficar cinza. — Quando o mundo reiniciar... garanta que tenha um bom café.
 
-Gabo assentiu. Ele levantou o servidor — que parecia pesar uma tonelada — e cambaleou para a câmara final.
+Gabo assentiu. Ele levantou o servidor — que parecia pesar uma tonelada — e, ignorando os estalos e o ranger estridente das hastes de metal falhando em suas pernas, cambaleou para a câmara final.
 
 Atrás dele, ouviu os tiros de Val começarem. E depois, o som de carne rasgando. Ele não olhou para trás.
 

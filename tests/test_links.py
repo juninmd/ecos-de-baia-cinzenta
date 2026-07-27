@@ -20,14 +20,17 @@ EXISTING_FILES = set()
 if DOCS_DIR.exists():
     for f in DOCS_DIR.rglob("*"):
         if f.is_file():
-            EXISTING_FILES.add(f.resolve())
+            try:
+                EXISTING_FILES.add(os.path.normpath(str(f.absolute())))
+            except Exception:
+                pass
 
 def extract_links(content):
     """Extracts all links from markdown content."""
     return LINK_REGEX.findall(content)
 
 def check_exists(path: Path) -> bool:
-    return path.resolve() in EXISTING_FILES
+    return os.path.normpath(str(path.absolute())) in EXISTING_FILES
 
 @pytest.mark.parametrize("file_path", get_markdown_files())
 def test_links_in_file(file_path):
@@ -78,7 +81,7 @@ def test_links_in_file(file_path):
 
         else:
             # Relative paths
-            target = (file_path.parent / link_path_str).resolve()
+            target = (file_path.parent / link_path_str)
 
             # Check existence
             if check_exists(target):

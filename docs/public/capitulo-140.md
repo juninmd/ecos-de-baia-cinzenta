@@ -23,9 +23,9 @@ Valéria estava ajoelhada perto do painel de controle da entrada, os dedos voand
 
 — Não dá! — ela gritou de volta, o pânico trincando sua voz. — É *hardwire*! Ele cortou a conexão lógica. É um fechamento mecânico! Estamos trancados em um forno!
 
-Gabo sentiu o suor evaporar antes mesmo de escorrer. Sua pele pinicava. O desejo de fumar atingiu-o como um soco no estômago. *Um cigarro. Só um. Para acalmar o tremor.* A fumaça imaginária preencheu seus pulmões, uma promessa de alívio no meio do inferno.
+Gabo sentiu o suor evaporar antes mesmo de escorrer. Sua pele pinicava. O pânico de asfixia atingiu-o como um soco no estômago, engatilhado pelo cheiro de queimado que o arremessava de volta para o carro fechado de seu pai. *A fumaça... não consigo respirar...* A alucinação de fumaça sufocante preencheu seus pulmões, uma ameaça letal no meio do inferno.
 
-Ele rosnou e apertou o *Colar de Sol* com força. O metal, já quente pela temperatura da sala, queimou a palma de sua mão. A dor foi nítida, real. *Foco na dor. A dor é vida. A fumaça é morte.*
+Ele rosnou e apertou o *Colar de Sol* com força. O metal, já quente pela temperatura da sala, queimou a palma de sua mão. A dor foi nítida, real. *Foco na dor. A dor é vida. A alucinação é morte.*
 
 — Aria! — Gabo se virou para a androide. — Saída! Qualquer uma!
 
@@ -51,7 +51,7 @@ Valéria correu para o lado dele, segurando o vergalhão. Aria se juntou a eles,
 
 — Um... Dois... TRÊS!
 
-Eles puxaram. O vergalhão envergou. Os músculos de Gabo gritaram, tendões estalando. O cheiro de sua própria pele queimando em contato com o metal quente invadiu seu nariz, sobrepondo-se ao desejo de nicotina.
+Eles puxaram. O vergalhão envergou. As pernas mecânicas de Gabo rangeram contra o piso quente, quase falhando. Os músculos de Gabo gritaram, tendões estalando. O cheiro de sua própria pele queimando em contato com o metal quente invadiu seu nariz, sobrepondo-se ao pânico sufocante do trauma.
 
 *CRACK.*
 
@@ -91,4 +91,4 @@ Ele olhou para a escuridão que se estendia à frente. Túneis ainda mais antigo
 
 — Não — corrigiu Aria, seus olhos brilhando na escuridão. — A única saída é subir. E agora sabemos onde ele está.
 
-Gabo assentiu. A dor nas mãos era uma âncora. Ele não precisava fumar. Ele tinha fogo suficiente por hoje.
+Gabo assentiu. A dor nas mãos era uma âncora. Ele estava livre da asfixia fantasma. Ele tinha fogo suficiente por hoje.

@@ -21,6 +21,7 @@ class AnimatedVideoComposer:
         self._vignette_cache = {}
         self._vignette_mask = None
         self._black_bg = None
+        self._gradient_cache = {}
 
         # Load fonts once
         try:
@@ -140,13 +141,14 @@ class AnimatedVideoComposer:
         pan_x = int(50 * progress)
         
         # Calculate crop
-        new_w = int(width * zoom)
-        new_h = int(height * zoom)
-        crop_x = pan_x
-        crop_y = int((bg.height - new_h) / 2)
+        source_w = int(width / zoom)
+        source_h = int(height / zoom)
         
-        bg_resized = bg.resize((new_w, new_h), Image.Resampling.LANCZOS)
-        return bg_resized.crop((crop_x, crop_y, crop_x + width, crop_y + height))
+        crop_x = max(0, min(pan_x, bg.width - source_w))
+        crop_y = max(0, int((bg.height - source_h) / 2))
+
+        cropped = bg.crop((crop_x, crop_y, crop_x + source_w, crop_y + source_h))
+        return cropped.resize((width, height), Image.Resampling.BICUBIC)
 
     def _apply_global_overlays(self, frame, frame_num, total_frames, titulo, numero):
         """Add noir effects and text overlays to a frame."""
@@ -166,49 +168,31 @@ class AnimatedVideoComposer:
     
     def _add_gradient_overlay(self, img: Image.Image, color1: Tuple[int, int, int], color2: Tuple[int, int, int]):
         """Add vertical gradient overlay."""
-        # Use NumPy for vectorized gradient generation
-        c1 = np.array(color1)
-        c2 = np.array(color2)
+        cache_key = (img.width, img.height, color1, color2)
+        if cache_key in self._gradient_cache:
+            gradient_img = self._gradient_cache[cache_key]
+        else:
+            # Use NumPy for vectorized gradient generation
+            c1 = np.array(color1)
+            c2 = np.array(color2)
 
-        # Generate vertical gradient (H, 1)
-        y = np.arange(img.height) / img.height
+            # Generate vertical gradient (H, 1)
+            y = np.arange(img.height) / img.height
 
-        # Calculate colors: shape (H, 3)
-        gradient = (c1 + (c2 - c1) * y[:, None]).astype(np.uint8)
+            # Calculate colors: shape (H, 3)
+            gradient = (c1 + (c2 - c1) * y[:, None]).astype(np.uint8)
 
-        # Reshape to (H, 1, 3) for 1-pixel wide column
-        gradient = gradient.reshape((img.height, 1, 3))
+            # Reshape to (H, 1, 3) for 1-pixel wide column
+            gradient = gradient.reshape((img.height, 1, 3))
 
-        # Create image from array and resize to full width
-        gradient_img = Image.fromarray(gradient, mode='RGB')
-        gradient_img = gradient_img.resize((img.width, img.height), resample=Image.Resampling.NEAREST)
+            # Create image from array and resize to full width
+            gradient_img = Image.fromarray(gradient, mode='RGB')
+            gradient_img = gradient_img.resize((img.width, img.height), resample=Image.Resampling.NEAREST)
+            self._gradient_cache[cache_key] = gradient_img
 
         # Paste efficiently
         img.paste(gradient_img)
         
-    def _add_vignette(self, img: Image.Image):
-        """Add dark vignette to edges (noir style)."""
-        if img.size not in self._vignette_cache:
-            vignette = Image.new('L', img.size, 255)
-            draw = ImageDraw.Draw(vignette)
-
-            for i in range(100, 0, -1):
-                darkness = int(255 * (i / 100))
-                draw.rectangle(
-                    [i*2, i*2, img.width - i*2, img.height - i*2],
-                    fill=darkness
-                )
-
-            # Apply vignette
-            vignette = vignette.filter(ImageFilter.GaussianBlur(100))
-            self._vignette_cache[img.size] = vignette
-
-        vignette = self._vignette_cache[img.size]
-        img.putalpha(vignette)
-        img_rgb = Image.new('RGB', img.size, (0, 0, 0))
-        img_rgb.paste(img, mask=vignette)
-        img.paste(img_rgb)
-    
     def _generate_vignette_mask(self, size):
         """Generate high-quality vignette mask using NumPy."""
         width, height = size
