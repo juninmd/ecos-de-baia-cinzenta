@@ -36,6 +36,63 @@ def probe_duration(media_path: Path) -> float:
     return float(result.stdout.strip())
 
 
+def build_animated_video(
+    texto: str,
+    titulo: str,
+    local: str,
+    numero: str,
+    output_path: Path,
+    temp_dir: Path,
+    n_cenas: int = 4,
+    use_ai: bool = True,
+    max_clip_seconds: float = 12.0,
+) -> Optional[Path]:
+    """Multi-scene animated video: identity-locked art + real motion, narrated."""
+    if shutil.which("ffmpeg") is None:
+        print("⚠ ffmpeg não encontrado; pulando geração de vídeo.")
+        return None
+
+    from scripts.daily_telegram import animate
+    from scripts.daily_telegram.scenes import split_scenes
+
+    temp_dir.mkdir(parents=True, exist_ok=True)
+    audio_path = temp_dir / f"narracao_{numero}.mp3"
+    try:
+        duracao = narrate(clean_for_tts(texto), audio_path)
+    except Exception as exc:
+        print(f"⚠ Falha na narração: {exc}")
+        return None
+    print(f"🎙 Narração gerada: {duracao:.1f}s")
+
+    cenas = split_scenes(texto, n_cenas)
+    print(f"🎬 Storyboard: {len(cenas)} cenas")
+    duracao_cena = min(max_clip_seconds, duracao / len(cenas))
+
+    clipes = []
+    for cena in cenas:
+        nomes = ", ".join(c["name"] for c in cena.personagens) or "—"
+        print(f"— Cena {cena.indice}/{len(cenas)} | personagens: {nomes}")
+        imagem = animate.scene_image(
+            cena, titulo, local, temp_dir / f"cena_{numero}_{cena.indice}.jpg",
+            seed=int(numero) * 100 + cena.indice,
+        )
+        if not imagem:
+            continue
+        clipe = animate.scene_clip(imagem, cena, duracao_cena, temp_dir, use_ai)
+        if clipe:
+            clipes.append(clipe)
+
+    if not clipes:
+        print("⚠ Nenhuma cena pôde ser gerada.")
+        return None
+
+    final = animate.stitch(clipes, audio_path, output_path, temp_dir)
+    if final and final.exists() and final.stat().st_size > 0:
+        print(f"🎬 Vídeo animado pronto: {final} ({final.stat().st_size // 1024} KB)")
+        return final
+    return None
+
+
 def build_video(
     image_path: Path,
     texto: str,

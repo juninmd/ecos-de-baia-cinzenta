@@ -14,6 +14,11 @@ def parse_args(argv=None):
     parser = argparse.ArgumentParser(description="Envia um capítulo por dia no Telegram.")
     parser.add_argument("--chapter", type=int, help="Força um capítulo específico")
     parser.add_argument("--no-video", action="store_true", help="Envia só imagem + texto")
+    parser.add_argument("--animated", action="store_true",
+                        help="Vídeo multi-cena com identidade travada (FLUX Kontext) e movimento por IA")
+    parser.add_argument("--scenes", type=int, default=4, help="Número de cenas no modo animado")
+    parser.add_argument("--no-ai-motion", action="store_true",
+                        help="No modo animado, usa só Ken Burns (sem LTX)")
     parser.add_argument("--dry-run", action="store_true", help="Não envia nada ao Telegram")
     parser.add_argument("--state-file", type=Path, default=state.DEFAULT_STATE_FILE)
     return parser.parse_args(argv)
@@ -65,14 +70,28 @@ def main(argv=None) -> int:
 
     if not args.no_video and imagem:
         destino = OUTPUT_DIR / f"capitulo_{numero}.mp4"
-        arquivo = video.build_video(
-            image_path=imagem,
-            texto=dados["texto"],
-            titulo=dados["titulo"],
-            numero=str(numero),
-            output_path=destino,
-            temp_dir=OUTPUT_DIR / "tmp",
-        )
+        if args.animated:
+            arquivo = video.build_animated_video(
+                texto=dados["texto"],
+                titulo=dados["titulo"],
+                local=dados["meta"].get("Localização", ""),
+                numero=str(numero),
+                output_path=destino,
+                temp_dir=OUTPUT_DIR / "tmp",
+                n_cenas=args.scenes,
+                use_ai=not args.no_ai_motion,
+            )
+            if not arquivo:
+                print("↩ Fallback: vídeo simples de uma imagem.")
+        if not args.animated or not arquivo:
+            arquivo = video.build_video(
+                image_path=imagem,
+                texto=dados["texto"],
+                titulo=dados["titulo"],
+                numero=str(numero),
+                output_path=destino,
+                temp_dir=OUTPUT_DIR / "tmp",
+            )
         if arquivo:
             client.send_video(arquivo, f"🎬 {legenda}")
 
