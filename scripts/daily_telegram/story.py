@@ -34,8 +34,8 @@ def build_scene_art(numero: int, n_cenas: int, local_gen=None) -> List[Path]:
 
     imagens = []
     for cena in split_scenes(dados["texto"], n_cenas):
-        destino = cache.scene_path(numero, cena.indice)
-        existente = cache.cached(numero, cena.indice)
+        destino = cache.scene_path(numero, cena.indice, n_cenas)
+        existente = cache.cached(numero, cena.indice, n_cenas)
         if existente:
             print(f"  ⏭ cena {cena.indice}: cache")
             imagens.append(existente)

@@ -1,5 +1,5 @@
 from dataclasses import dataclass, field
-from typing import Dict, List
+from typing import Dict, List, Optional
 
 from scripts.daily_telegram import characters
 
@@ -31,6 +31,7 @@ class Scene:
     indice: int
     texto: str
     personagens: List[Dict] = field(default_factory=list)
+    shot_hint: Optional[str] = None
 
     @property
     def motion_prompt(self) -> str:
@@ -38,7 +39,8 @@ class Scene:
 
     @property
     def shot(self) -> str:
-        return SHOTS[(self.indice - 1) % len(SHOTS)]
+        # Diálogo pede enquadramento de conversa, não a rotação padrão de cenas.
+        return self.shot_hint or SHOTS[(self.indice - 1) % len(SHOTS)]
 
     @property
     def identity_scale(self) -> float:
@@ -65,6 +67,15 @@ class Scene:
         narrativas = [f for f in candidatas if "—" not in f and "disse" not in f.lower()]
         escolhida = (narrativas or candidatas or [self.texto])[0]
         return " ".join(escolhida.replace("—", " ").split())[:110]
+
+    def compact_prompt_sem_personagem(self, local: str = "") -> str:
+        """Plano de ambiente: sem âncora de identidade, só enquadramento, lugar e ação."""
+        partes = [self.shot]
+        if local:
+            partes.append(local[:40])
+        partes.append(self.action)
+        partes.append(STYLE_CURTO)
+        return ", ".join(partes)
 
     def compact_prompt(self, anchor: Dict, local: str = "") -> str:
         """Prompt curto para modelos com CLIP (77 tokens): SDXL corta o resto fora.
@@ -111,9 +122,27 @@ class Scene:
         return ". ".join(partes)
 
 
+def blocos_de_texto(texto: str) -> List[str]:
+    """Todos os parágrafos, sem descartar nada.
+
+    Falas curtas ("— Some daqui.") são parágrafos válidos: se forem descartadas, a
+    narração do episódio pula pedaços da história. Elas são anexadas ao bloco anterior.
+    """
+    blocos: List[str] = []
+    for linha in texto.split("\n"):
+        linha = linha.strip()
+        if not linha:
+            continue
+        if len(linha) < 60 and blocos:
+            blocos[-1] = f"{blocos[-1]} {linha}"
+        else:
+            blocos.append(linha)
+    return blocos
+
+
 def split_scenes(texto: str, quantidade: int = 4) -> List[Scene]:
-    """Split the chapter into N narrative beats, keeping paragraphs intact."""
-    paragrafos = [p.strip() for p in texto.split("\n") if len(p.strip()) > 60]
+    """Split the chapter into N narrative beats, covering the whole text."""
+    paragrafos = blocos_de_texto(texto)
     if not paragrafos:
         paragrafos = [texto.strip()]
     quantidade = max(1, min(quantidade, len(paragrafos)))
