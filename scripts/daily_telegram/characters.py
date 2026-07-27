@@ -57,6 +57,15 @@ def mention_score(char: Dict, texto_lower: str) -> int:
     )
 
 
+def wardrobe(char: Dict) -> str:
+    """Só o vestuário canônico — é o traço que os modelos mais trocam sozinhos."""
+    for bruto in (char.get("description") or "").split(". "):
+        parte = bruto.strip()  # os trechos vêm indentados do markdown
+        if parte.startswith("Vestuário:"):
+            return parte.split(":", 1)[1].strip().rstrip(".")
+    return ""
+
+
 def detect(texto: str, limit: int = 3) -> List[Dict]:
     """Characters actually mentioned in a scene, most relevant first."""
     encontrados = get_db().find_characters_in_text(texto)

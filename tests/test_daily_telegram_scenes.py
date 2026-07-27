@@ -41,10 +41,15 @@ def test_image_prompt_includes_style_and_setting():
 def test_edit_prompt_locks_identity_and_wardrobe():
     gabo = characters.detect("Gabo acendeu a lanterna.")[0]
     prompt = Scene(indice=1, texto="ele corre pelo túnel").edit_prompt(gabo, "Subnível 3")
-    assert "clothing unchanged" in prompt
+    assert "face, hair and beard unchanged" in prompt
+    assert "signature outfit: Sobretudo bege" in prompt  # vestuário como cláusula própria
     assert "canonical look that must not change" in prompt
-    assert "Sobretudo bege" in prompt  # vestuário canônico vindo de personagens.md
     assert "Subnível 3" in prompt
+
+
+def test_wardrobe_extracted_from_indented_markdown():
+    gabo = characters.detect("Gabo acendeu a lanterna.")[0]
+    assert characters.wardrobe(gabo).startswith("Sobretudo bege")
 
 
 def test_character_db_has_reference_portraits():

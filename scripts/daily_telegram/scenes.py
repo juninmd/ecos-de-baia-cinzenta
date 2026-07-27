@@ -39,9 +39,13 @@ class Scene:
     def edit_prompt(self, anchor: Dict, local: str = "") -> str:
         """Prompt for Kontext: keep the reference identity, change the scene around it."""
         partes = [
-            f"Keep this exact person's face, hair, beard and clothing unchanged: {anchor['name']}",
-            f"place the same person in this scene: {self.texto[:200]}",
+            f"Keep this exact person's face, hair and beard unchanged: {anchor['name']}",
         ]
+        roupa = characters.wardrobe(anchor)
+        if roupa:
+            # Cláusula própria e cedo no prompt: enterrado no descritor, o modelo troca a roupa.
+            partes.append(f"he must keep wearing his signature outfit: {roupa}")
+        partes.append(f"place the same person in this scene: {self.texto[:200]}")
         canonico = characters.describe(anchor)
         if canonico:
             partes.append(f"canonical look that must not change: {canonico}")

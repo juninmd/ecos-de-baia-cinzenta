@@ -59,6 +59,38 @@ python -m scripts.daily_telegram.main --chapter 42         # envia um capítulo 
 python -m scripts.daily_telegram.main --no-video           # só imagem + texto
 ```
 
+## Filme da história (`story.py`)
+
+Gera **várias cenas por capítulo**, encadeia tudo e produz um filme contínuo:
+
+```bash
+# só a arte, cacheada em docs/public/cenas/capitulo_N/ (nada é regerado)
+python -m scripts.daily_telegram.story --from 1 --to 5 --scenes 8 --art-only
+
+# filme animado dos capítulos 1 a 5
+python -m scripts.daily_telegram.story --from 1 --to 5 --scenes 8
+
+# usando a GPU local (sem cota, sem fila)
+.venv-gpu/Scripts/python -m scripts.daily_telegram.story --from 1 --to 10 --local
+```
+
+Cada capítulo entra no filme com uma cartela de título, suas cenas animadas e a narração.
+As imagens ficam em `docs/public/cenas/` e são reaproveitadas para sempre — rodar de novo só
+preenche o que falta, então dá para construir a história inteira aos poucos.
+
+## GPU local (`--local`)
+
+`scripts/daily_telegram/local_gpu.py` usa **SDXL + IP-Adapter**: o retrato do personagem entra
+como âncora de identidade (`ip_adapter_image`) e o prompt só define a cena. Sem cota, sem fila.
+
+Setup (uma vez, precisa de Python 3.12 — torch não tem wheel para 3.14):
+
+```bash
+uv venv --python 3.12 .venv-gpu
+uv pip install --python .venv-gpu/Scripts/python torch torchvision --index-url https://download.pytorch.org/whl/cu124
+uv pip install --python .venv-gpu/Scripts/python diffusers transformers accelerate safetensors requests gtts pillow gradio_client
+```
+
 ## Cota gratuita (o limite real do modo animado)
 
 As Spaces rodam em **ZeroGPU**, que dá alguns minutos de GPU por dia por conta gratuita.

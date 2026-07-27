@@ -17,9 +17,20 @@ def _run(cmd: List[str]) -> bool:
     return True
 
 
-def scene_image(cena: Scene, titulo: str, local: str, destino: Path, seed: int) -> Optional[Path]:
-    """Identity-locked image when the scene has a character portrait; else text-to-image."""
+def scene_image(
+    cena: Scene, titulo: str, local: str, destino: Path, seed: int, local_gen=None
+) -> Optional[Path]:
+    """Identity-locked image when the scene has a character portrait; else text-to-image.
+
+    Ordem de fallback definida no AGENTS.md §7: GPU local -> Space Kontext -> texto-para-imagem.
+    """
     ancora = characters.pick_anchor(cena.personagens)
+    if ancora and local_gen is not None:
+        referencia = characters.reference_image(ancora)
+        imagem = local_gen(referencia, cena.edit_prompt(ancora, local), destino, seed)
+        if imagem:
+            return imagem
+        print("↩ Fallback: GPU local indisponível para esta cena.")
     if ancora:
         referencia = characters.reference_image(ancora)
         imagem = hf_space.edit_with_identity(
@@ -71,6 +82,31 @@ def scene_clip(imagem: Path, cena: Scene, duracao: float, temp_dir: Path, use_ai
                 return ajustado
             print("↩ Fallback: não foi possível ajustar a duração do clipe de IA.")
     return _ken_burns(imagem, destino, duracao, cena.indice)
+
+
+def title_card(numero: int, titulo: str, destino: Path, duracao: float = 2.5) -> Optional[Path]:
+    """Short card announcing the chapter, so the full-story cut stays readable."""
+    from PIL import Image, ImageDraw, ImageFont
+
+    imagem = Image.new("RGB", (1280, 720), (6, 10, 14))
+    draw = ImageDraw.Draw(imagem)
+    try:
+        fonte_num = ImageFont.truetype("arialbd.ttf", 64)
+        fonte_tit = ImageFont.truetype("arial.ttf", 40)
+    except OSError:
+        fonte_num = fonte_tit = ImageFont.load_default()
+
+    for texto, fonte, y, cor in (
+        (f"CAPÍTULO {numero}", fonte_num, 300, (0, 229, 255)),
+        (titulo, fonte_tit, 400, (235, 235, 235)),
+    ):
+        largura = draw.textbbox((0, 0), texto, font=fonte)[2]
+        draw.text(((1280 - largura) // 2, y), texto, font=fonte, fill=cor)
+
+    destino.parent.mkdir(parents=True, exist_ok=True)
+    png = destino.with_suffix(".png")
+    imagem.save(png)
+    return _ken_burns(png, destino, duracao, indice=2)
 
 
 def stitch(clipes: List[Path], audio: Path, destino: Path, temp_dir: Path) -> Optional[Path]:
