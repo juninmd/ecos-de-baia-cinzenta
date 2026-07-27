@@ -3,9 +3,13 @@ import subprocess
 from pathlib import Path
 from typing import Optional
 
+from scripts.daily_telegram import film
+
 MODELO = "stabilityai/stable-video-diffusion-img2vid-xt"
 LARGURA, ALTURA = 1024, 576
-FPS_SAIDA = 24
+# Tem que ser o mesmo fps da câmera 2D: concat com -c copy de streams com fps
+# diferente desalinha os timestamps e a voz sai de sincronia com a imagem.
+FPS_SAIDA = 30
 
 _pipe = None
 
@@ -44,6 +48,12 @@ def animar(imagem: Path, destino: Path, duracao: float, seed: int,
     `motion_bucket_id` controla a intensidade do movimento: baixo demais fica parado,
     alto demais distorce o rosto — e rosto distorcido quebra a Regra Zero.
     """
+    bruto = destino.with_name(f"{destino.stem}_bruto.mp4")
+    if bruto.exists() and bruto.stat().st_size > 10_000:
+        # Já difundido antes: reaproveita os frames e só refaz o esticamento.
+        print(f"    ⏭ frames de SVD em cache para {destino.stem}")
+        return _esticar(bruto, destino, duracao)
+
     try:
         import torch
         from PIL import Image
@@ -64,7 +74,6 @@ def animar(imagem: Path, destino: Path, duracao: float, seed: int,
         for i, quadro in enumerate(quadros):
             quadro.save(pasta / f"{i:04d}.png")
 
-        bruto = destino.with_name(f"{destino.stem}_bruto.mp4")
         montado = subprocess.run(
             ["ffmpeg", "-y", "-framerate", "7", "-i", str(pasta / "%04d.png"),
              "-c:v", "libx264", "-preset", "veryfast", "-pix_fmt", "yuv420p", str(bruto)],
@@ -89,8 +98,12 @@ def _esticar(clipe: Path, destino: Path, duracao: float) -> Optional[Path]:
     if not atual:
         return None
     fator = duracao / atual
-    filtro = (f"setpts={fator:.4f}*PTS,minterpolate=fps={FPS_SAIDA}:mi_mode=mci:"
-              f"mc_mode=aobmc:vsbmc=1,scale=1280:720")
+    # `minterpolate` interpola bonito mas descarta frames no fim: o clipe saía ~8%
+    # mais curto que a fala e a sincronia acumulava desvio. `fps` duplica frames e
+    # entrega a duração exata; o tpad cobre qualquer sobra antes do corte.
+    filtro = (f"setpts={fator:.4f}*PTS,fps={FPS_SAIDA},scale=1280:720,"
+              f"tpad=stop_mode=clone:stop_duration=1,"
+              f"{film.fade_filter(duracao)}")
     resultado = subprocess.run(
         ["ffmpeg", "-y", "-i", str(clipe), "-vf", filtro, "-t", f"{duracao:.3f}",
          "-c:v", "libx264", "-preset", "veryfast", "-pix_fmt", "yuv420p", str(destino)],
