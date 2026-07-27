@@ -5,7 +5,8 @@ import sys
 from pathlib import Path
 from typing import List, Optional, Tuple
 
-from scripts.daily_telegram import animate, cache, chapter, characters, screenplay, speech
+from scripts.daily_telegram import (animate, cache, chapter, characters, film, screenplay,
+                                    speech, svd)
 from scripts.daily_telegram.scenes import Scene
 
 REPO_ROOT = Path(__file__).resolve().parents[2]
@@ -19,26 +20,14 @@ def parse_args(argv=None):
     parser.add_argument("--local", action="store_true", help="Gera as imagens na GPU local")
     parser.add_argument("--max-beats", type=int, help="Limita o número de planos (teste rápido)")
     parser.add_argument("--crf", type=int, default=32, help="Qualidade do encode final")
+    parser.add_argument("--sem-grade", action="store_true", help="Desliga o acabamento de cor")
+    parser.add_argument("--svd", type=int, default=0,
+                        help="Quantos planos-chave ganham movimento real por IA (SVD local)")
     parser.add_argument("--output", type=Path)
     return parser.parse_args(argv)
 
 
 SEGUNDOS_POR_PLANO = 11.0
-
-
-def fit_telegram(video: Path, temp_dir: Path, limite_mb: int = 48) -> Optional[Path]:
-    """Reduz o episódio para caber no limite de 50 MB do bot, se necessário."""
-    if video.stat().st_size / (1024 * 1024) <= limite_mb:
-        return video
-    print(f"↩ {video.stat().st_size // 1024 // 1024} MB excede o limite; reencodando em 540p...")
-    reduzido = temp_dir / f"{video.stem}_540p.mp4"
-    ok = animate._run(["ffmpeg", "-y", "-i", str(video), "-vf", "scale=960:540",
-                       "-c:v", "libx264", "-preset", "medium", "-crf", "34",
-                       "-c:a", "aac", "-b:a", "96k", str(reduzido)])
-    if not ok:
-        return None
-    reduzido.replace(video)
-    return video
 
 
 def planos_do_beat(duracao: float) -> int:
@@ -56,7 +45,7 @@ def beat_scene(beat, indice_dialogo: int) -> Scene:
 
 
 def beat_clip(beat, cena: Scene, duracao: float, numero: int, total: int, dados: dict,
-              local: str, temp_dir: Path, local_gen) -> Optional[Path]:
+              local: str, temp_dir: Path, local_gen, com_svd: bool = False) -> Optional[Path]:
     """Vídeo do beat: uma ou mais imagens dividindo igualmente a duração da fala."""
     quantidade = planos_do_beat(duracao)
     fatia = duracao / quantidade
@@ -71,7 +60,16 @@ def beat_clip(beat, cena: Scene, duracao: float, numero: int, total: int, dados:
         )
         if not imagem:
             continue
-        parte = animate.ken_burns(imagem, temp_dir / f"plano_{indice:05d}.mp4", fatia, indice)
+        alvo = temp_dir / f"plano_{indice:05d}.mp4"
+        parte = None
+        if com_svd and j == 0:
+            # Movimento real só no primeiro plano do beat: cada clipe de SVD custa
+            # ~5 min de GPU, então ele vai onde mais aparece.
+            parte = svd.animar(imagem, temp_dir / f"svd_{indice:05d}.mp4", fatia,
+                               seed=numero * 1000 + indice)
+            if parte:
+                print(f"    🎥 movimento real (SVD) no plano {indice}")
+        parte = parte or animate.ken_burns(imagem, alvo, fatia, indice)
         if parte:
             partes.append(parte)
 
@@ -110,6 +108,21 @@ def build(numero: int, args, local_gen=None) -> Optional[Path]:
         if silencio:
             pares.append((cartela, silencio))
 
+    # Primeira passada: sintetiza todas as falas. Só com as durações na mão dá para
+    # escolher onde investir os minutos caros de movimento real.
+    duracoes = {}
+    for beat in beats:
+        caminho = temp_dir / f"fala_{beat.indice:03d}.mp3"
+        duracao = speech.say(beat.texto, beat.personagem if beat.is_fala else None, caminho)
+        if duracao:
+            duracoes[beat.indice] = duracao
+
+    herois = set()
+    if args.svd and svd.disponivel():
+        herois = {i for i, _ in sorted(duracoes.items(), key=lambda kv: -kv[1])[:args.svd]}
+        print(f"🎥 Movimento real por IA nos {len(herois)} planos mais longos: "
+              f"{sorted(herois)}")
+
     indice_dialogo = 0
     for beat in beats:
         cena = beat_scene(beat, indice_dialogo)
@@ -117,12 +130,13 @@ def build(numero: int, args, local_gen=None) -> Optional[Path]:
             indice_dialogo += 1
 
         caminho_audio = temp_dir / f"fala_{beat.indice:03d}.mp3"
-        duracao = speech.say(beat.texto, beat.personagem if beat.is_fala else None, caminho_audio)
+        duracao = duracoes.get(beat.indice)
         if not duracao:
             continue
 
         # O clipe dura exatamente a fala: é isso que mantém imagem e voz em sincronia.
-        clipe = beat_clip(beat, cena, duracao, numero, total, dados, local, temp_dir, local_gen)
+        clipe = beat_clip(beat, cena, duracao, numero, total, dados, local, temp_dir,
+                          local_gen, com_svd=beat.indice in herois)
         if clipe:
             pares.append((clipe, caminho_audio))
             quem = beat.personagem["name"].split()[0] if beat.personagem else "narração"
@@ -135,9 +149,12 @@ def build(numero: int, args, local_gen=None) -> Optional[Path]:
 
     destino = args.output or OUTPUT_DIR / f"episodio_capitulo_{numero}.mp4"
     destino.parent.mkdir(parents=True, exist_ok=True)
-    final = animate.stitch_synced(pares, destino, temp_dir, crf=args.crf)
+    _, voz = animate.concat_trilhas(pares, temp_dir)
+    trilha = film.montar_trilha(voz, temp_dir, speech._probe(voz)) if voz else None
+    final = animate.stitch_synced(pares, destino, temp_dir, crf=args.crf,
+                                  audio_pronto=trilha, grade=not args.sem_grade)
     if final:
-        final = fit_telegram(final, temp_dir) or final
+        final = film.fit_telegram(final, temp_dir) or final
         print(f"🎞️ Episódio pronto: {final} ({final.stat().st_size // 1024 // 1024} MB)")
     return final
 

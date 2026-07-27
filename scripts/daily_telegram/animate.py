@@ -2,7 +2,7 @@ import subprocess
 from pathlib import Path
 from typing import List, Optional
 
-from scripts.daily_telegram import art, characters, hf_space
+from scripts.daily_telegram import art, camera, characters, film, hf_space
 from scripts.daily_telegram.scenes import Scene
 
 SIZE = "1280:720"
@@ -48,22 +48,7 @@ def scene_image(
     return art.generate_image(cena.image_prompt(titulo, local), destino, seed=seed)
 
 
-def ken_burns(imagem: Path, destino: Path, duracao: float, indice: int) -> Optional[Path]:
-    """Deterministic fallback motion: zoom + pan, direction varies per scene."""
-    sinal = "+" if indice % 2 else "-"
-    # d=1: cada frame de entrada vira um frame de saída. Com d>1 e imagem em loop,
-    # o zoompan multiplica os frames e o vídeo estoura para dezenas de minutos.
-    filtro = (
-        f"scale=2200:1238,zoompan=z='min(1.2,1+0.0008*on)':"
-        f"x='iw/2-(iw/zoom/2){sinal}sin(on/40)*18':"
-        f"y='ih/2-(ih/zoom/2)+cos(on/45)*10':"
-        f"d=1:s={SIZE.replace(':', 'x')}:fps={FPS},format=yuv420p"
-    )
-    # -framerate 30 na entrada: sem isso o loop entra a 25fps e o clipe sai mais curto.
-    ok = _run(["ffmpeg", "-y", "-loop", "1", "-framerate", str(FPS), "-t", str(duracao),
-               "-i", str(imagem), "-vf", filtro, "-c:v", "libx264", "-preset", "veryfast",
-               str(destino)])
-    return destino if ok else None
+ken_burns = camera.ken_burns  # mantido aqui pelo nome usado no resto do pipeline
 
 
 def _fit_duration(clipe: Path, destino: Path, duracao: float) -> Optional[Path]:
@@ -122,31 +107,38 @@ def silent_audio(duracao: float, destino: Path) -> Optional[Path]:
     return destino if ok else None
 
 
-def stitch_synced(pares: List, destino: Path, temp_dir: Path, crf: int = 30) -> Optional[Path]:
-    """Junta pares (clipe, narração) preservando a sincronia cena a cena.
-
-    Cada clipe já tem a duração exata do seu trecho narrado, então concatenar vídeo e
-    áudio na mesma ordem mantém a imagem casada com o texto que está sendo lido.
-    """
+def concat_trilhas(pares: List, temp_dir: Path):
+    """Concatena vídeo e voz na mesma ordem — é o que preserva a sincronia."""
     lista_v = temp_dir / "concat_v.txt"
     lista_a = temp_dir / "concat_a.txt"
     lista_v.write_text("".join(f"file '{c.absolute().as_posix()}'\n" for c, _ in pares), encoding="utf-8")
     lista_a.write_text("".join(f"file '{a.absolute().as_posix()}'\n" for _, a in pares), encoding="utf-8")
 
     video_mudo = temp_dir / "episodio_mudo.mp4"
-    audio_total = temp_dir / "episodio_audio.mp3"
+    voz = temp_dir / "episodio_voz.mp3"
     if not _run(["ffmpeg", "-y", "-f", "concat", "-safe", "0", "-i", str(lista_v),
                  "-c", "copy", str(video_mudo)]):
-        return None
+        return None, None
     if not _run(["ffmpeg", "-y", "-f", "concat", "-safe", "0", "-i", str(lista_a),
-                 "-c:a", "libmp3lame", "-b:a", "128k", str(audio_total)]):
+                 "-c:a", "libmp3lame", "-b:a", "128k", str(voz)]):
+        return None, None
+    return video_mudo, voz
+
+
+def stitch_synced(pares: List, destino: Path, temp_dir: Path, crf: int = 30,
+                  audio_pronto: Optional[Path] = None, grade: bool = True) -> Optional[Path]:
+    """Montagem final: vídeo + trilha, com o acabamento de cor aplicado numa passada só."""
+    video_mudo, voz = concat_trilhas(pares, temp_dir)
+    if video_mudo is None:
         return None
 
-    ok = _run(["ffmpeg", "-y", "-i", str(video_mudo), "-i", str(audio_total),
-               "-map", "0:v", "-map", "1:a", "-c:v", "libx264", "-preset", "medium",
-               "-crf", str(crf), "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "112k",
-               str(destino)])
-    return destino if ok else None
+    cmd = ["ffmpeg", "-y", "-i", str(video_mudo), "-i", str(audio_pronto or voz)]
+    if grade:
+        cmd += ["-vf", film.grade_filter()]
+    cmd += ["-map", "0:v", "-map", "1:a", "-c:v", "libx264", "-preset", "medium",
+            "-crf", str(crf), "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "128k",
+            str(destino)]
+    return destino if _run(cmd) else None
 
 
 def stitch(clipes: List[Path], audio: Path, destino: Path, temp_dir: Path) -> Optional[Path]:
