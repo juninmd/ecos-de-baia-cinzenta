@@ -59,6 +59,20 @@ python -m scripts.daily_telegram.main --chapter 42         # envia um capítulo 
 python -m scripts.daily_telegram.main --no-video           # só imagem + texto
 ```
 
+## Acabamento de cinema
+
+O que separa filme de slideshow, tudo local e sem custo:
+
+| Camada | O que faz | Onde |
+|---|---|---|
+| **Câmera** | 6 movimentos alternando por plano (push-in, pull-out, pan ←/→, tilt, diagonal) + micro fade nas pontas | `camera.py` |
+| **Movimento real** | Stable Video Diffusion local anima a imagem de verdade (~5 min de GPU por clipe, então vai só nos planos mais longos) | `svd.py`, flag `--svd N` |
+| **Grade** | Curvas neo-noir (sombras em teal, pele quente), contraste em S, vinheta, grão e **letterbox 2.39:1**, numa passada só no encode final | `film.grade_filter` |
+| **Som** | Chuva + zumbido de cidade + drone grave sintetizados pelo ffmpeg, mixados sob as falas com **sidechain ducking** e `loudnorm` | `film.ambiencia` / `film.mixar` |
+
+Nada de trilha baixada: a ambiência é gerada por `anoisesrc`/`sine`, então não há licença
+nem download envolvido.
+
 ## Episódio de série (`episode.py`) — com diálogo
 
 ```bash
