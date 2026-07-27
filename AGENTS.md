@@ -33,6 +33,8 @@
 1. **Âncora de imagem antes de texto.** Se o personagem tem retrato em
    `docs/public/personagens/`, a cena **tem** que ser gerada a partir dele (image-to-image /
    FLUX Kontext), nunca só por descrição textual. Texto sozinho reinventa o rosto a cada geração.
+   O peso da âncora se ajusta ao plano (alto em close, baixo em plano aberto): peso fixo alto
+   trava a identidade mas transforma toda cena em retrato frontal.
 2. **`docs/personagens.md` é a fonte da verdade.** Vestuário, cabelo, olhos, porte e marcas
    distintivas vão sempre no prompt, com **vestuário primeiro** — é o traço que os modelos mais
    trocam por conta própria.

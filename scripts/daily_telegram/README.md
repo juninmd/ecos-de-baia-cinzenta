@@ -87,6 +87,10 @@ Modelos diferentes recebem prompts diferentes, porque os limites são diferentes
 | FLUX Kontext (local ou Space) | `Scene.edit_prompt` — identidade + vestuário + cena + descritor canônico completo | aceita prompt longo e usa o retrato como imagem-base |
 | SDXL + IP-Adapter | `Scene.compact_prompt` — enquadramento + vestuário + local + ação, ~40 palavras | o CLIP corta em **77 tokens**; com prompt longo só sobrava a identidade e toda cena virava o mesmo close-up frontal |
 
+O peso da âncora de identidade (`Scene.identity_scale`) muda conforme o plano: **0.55** em plano
+aberto, **0.9** em close. Com peso fixo alto o IP-Adapter puxa a composição para retrato e todo
+plano aberto vira close-up frontal — a cena perde o cenário.
+
 `compact_prompt` também alterna o enquadramento por cena (`wide establishing`, `medium`,
 `over-the-shoulder`, `low angle`, `close-up`, `high angle wide`) e prefere frases de narração
 a falas — "Ameace com obstrução de justiça" é um prompt visual ruim.
