@@ -53,7 +53,11 @@
    texto-para-imagem com descritor canônico → arte já existente do capítulo. Só se cai para o
    penúltimo nível é aceitável perder fidelidade — e a cena deve ser regerada depois, quando
    houver GPU/cota.
-8. **Continuidade temporal.** Respeite a fase do personagem (`Linha do Tempo e Evolução Visual`
+8. **Identidade sonora também é canônica.** Cada personagem tem uma voz fixa em
+   `scripts/daily_telegram/voices.py`. A voz de um personagem nunca muda entre capítulos, e
+   figurante nunca recebe o timbre de um protagonista — trocar a voz confunde tanto quanto
+   trocar o rosto.
+9. **Continuidade temporal.** Respeite a fase do personagem (`Linha do Tempo e Evolução Visual`
    em `docs/personagens.md`): Gabo com exoesqueleto no cap. 105 não pode aparecer sem ele.
 
 ## 🤝 Interaction Protocol

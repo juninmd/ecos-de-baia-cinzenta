@@ -90,6 +90,21 @@ def test_planos_de_dialogo_alternam_enquadramento():
     assert a.shot != b.shot
 
 
+def test_fala_curta_usa_um_plano_so():
+    assert episode.planos_do_beat(4.0) == 1
+    assert episode.planos_do_beat(episode.SEGUNDOS_POR_PLANO) == 1
+
+
+def test_fala_longa_vira_varios_planos():
+    # 30 segundos numa imagem só vira slideshow
+    assert episode.planos_do_beat(30.0) == 3
+    assert episode.planos_do_beat(12.0) == 2
+
+
+def test_planos_do_beat_nunca_zera():
+    assert episode.planos_do_beat(0.4) == 1
+
+
 def test_episode_args_defaults():
     args = episode.parse_args([])
     assert args.chapter == 1

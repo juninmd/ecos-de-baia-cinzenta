@@ -104,7 +104,7 @@ def _load():
 
 
 def generate(reference: Path, prompt: str, destino: Path, seed: int,
-             steps: int = 30, size: int = 1024,
+             steps: int = 22, size: int = 1024,
              identity_scale: float = IDENTITY_SCALE) -> Optional[Path]:
     """Scene image anchored on the character portrait — assinatura usada por animate.scene_image."""
     try:
