@@ -34,6 +34,16 @@ Antes que Gabo pudesse avançar, seu comunicador de pulso vibrou. Uma luz vermel
 
 A linha ficou muda. Gabo praguejou baixinho.
 
+*Certifique-se de que tenha um culpado também, e rápido.*
+
+Ele já tinha ouvido aquela frase antes, dita com outras palavras, num outro plantão, catorze anos atrás. Naquela noite ele tinha um culpado e nenhuma prova, e o prazo era de quinze dias, e ele resolveu o problema.
+
+Gabo guardou o comunicador no bolso com mais força do que precisava.
+
+Na gaveta de baixo da mesa dele, na delegacia, embaixo de duas caixas de papelada morta, havia uma pasta de inquérito arquivado que ele nunca jogou fora e nunca reabriu. **BRAGA, A. — 1º Distrito.** Ele não pensava nela havia meses.
+
+Pensou agora, por três segundos, e depois voltou para o corpo com as lentes no lugar dos olhos, porque o corpo era o problema de hoje e o resto era problema de nunca.
+
 Gabriel engoliu rapidamente o resto de seu café, sentindo o gosto amargo descer pela garganta misturado com a bile da raiva. Ele não queria entrar lá. Aos trinta anos, sentia-se como se tivesse setenta. Seus joelhos estalavam, e a insônia da semana passada fazia as luzes da cidade deixarem rastros em sua visão periférica.
 
 Sua mão direita foi instintivamente para o peito, tateando sob a camisa até encontrar o metal frio do "Colar de Sol". Ele apertou o pingente com força, sentindo as arestas morderem a palma da mão. A dor aguda era seu âncora. Melhor que nicotina, melhor que álcool. A dor o lembrava de que ele ainda estava ali, físico e real, num mundo que tentava se dissolver em dados.

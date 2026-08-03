@@ -3,15 +3,14 @@
 > Gerado por `scripts/quality_gate.py` conforme o padrão do `AGENTS.md`.
 > Ordenado do pior para o melhor: a revisão manual começa no topo.
 
-- **Capítulos avaliados:** 230
-- **Reprovados em portão duro:** 55
+- **Capítulos avaliados:** 234
+- **Reprovados em portão duro:** 54
 - **Abaixo do alvo de 1100 palavras:** 103
-- **Nota média:** 8.2/10
+- **Nota média:** 8.3/10
 
 | Capítulo | Palavras | Atm | Custo | Voz | Ritmo | Conseq | Nota | Veredito | Portões |
 |---|---|---|---|---|---|---|---|---|---|
 | Capítulo 45: Protocolo N.O.A. | 275 | 1 | 1 | 1 | 2 | 1 | **6** | 🚫 REPROVADO | D1 extensão (275 palavras) |
-| Capítulo 41: Maré Alta | 279 | 1 | 0 | 2 | 2 | 1 | **6** | 🚫 REPROVADO | D1 extensão (279 palavras) |
 | Capítulo 92: A Praga de Ferro | 317 | 0 | 1 | 2 | 2 | 1 | **6** | 🚫 REPROVADO | D1 extensão (317 palavras) |
 | Capítulo 75: Horizonte de Eventos | 387 | 1 | 0 | 2 | 2 | 1 | **6** | 🚫 REPROVADO | D1 extensão (387 palavras) |
 | Capítulo 89: Memória Genética | 408 | 1 | 1 | 1 | 2 | 1 | **6** | 🚫 REPROVADO | D1 extensão (408 palavras) |
@@ -131,6 +130,7 @@
 | Capítulo 156: Condutores de Cobre | 1182 | 2 | 1 | 2 | 2 | 1 | **8** | ✅ publicável | — |
 | Capítulo 110: Ponto Cego | 1277 | 1 | 2 | 2 | 2 | 1 | **8** | ✅ publicável | — |
 | Capítulo 101: Ressonância | 1287 | 1 | 2 | 2 | 2 | 1 | **8** | ✅ publicável | — |
+| Capítulo 41: Maré Alta | 1305 | 2 | 1 | 2 | 2 | 1 | **8** | ✅ publicável | — |
 | Capítulo 219: Cuidado Perpétuo | 1341 | 1 | 2 | 2 | 2 | 1 | **8** | ✅ publicável | — |
 | Capítulo 222: O Homem que Podia Ir Embora | 1356 | 1 | 2 | 2 | 2 | 1 | **8** | ✅ publicável | — |
 | Capítulo 132: Esculturas de Carne | 1397 | 2 | 1 | 2 | 2 | 1 | **8** | ✅ publicável | — |
@@ -213,15 +213,16 @@
 | Capítulo 154: A Otimização do Abismo | 1464 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 117: Zero Absoluto | 1490 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 96: A Grande Convergência | 1551 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
+| Capítulo 230: A Conta Antiga | 1557 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 3: Teatro de Carne | 1572 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 15: Protocolo de Extermínio | 1580 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
+| Capítulo 232: O Justo | 1588 | 1 | 2 | 2 | 2 | 2 | **9** | ⭐ obra-prima | — |
 | Capítulo 155: Ferrugem e Plasma | 1608 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 47: O Mecanismo da Queda | 1633 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
-| Capítulo 1: Olhos de Vidro | 1657 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 225: O Charuto na Sala Limpa | 1852 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 70: O Expurgo | 1897 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 106: Fios Invisíveis | 1957 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
-| Capítulo 4: A Torre de Marfim | 2057 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
+| Capítulo 4: A Torre de Marfim | 2166 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 213: O Peso da Maquinaria | 676 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | curto (676) |
 | Capítulo 115: O Arquiteto da Carne | 815 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | curto (815) |
 | Capítulo 177: Cicatrizes de Cobre | 937 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | curto (937) |
@@ -239,4 +240,7 @@
 | Capítulo 23: Ratos e Reis | 1437 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 226: A Mulher de Fora | 1533 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 221: Modo de Segurança | 1584 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
+| Capítulo 231: Catraca | 1611 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
+| Capítulo 1: Olhos de Vidro | 1790 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
+| Capítulo 229: O Homem no Portão | 1835 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 60: Despejo | 2098 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |

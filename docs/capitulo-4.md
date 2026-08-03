@@ -18,6 +18,16 @@ Enquanto ajustava o binóculo, sua visão embaçou por um segundo. Um flash de m
 
 *"Não do prédio. Do que ele representa. Você diz que a tecnologia é fria, mas eu vejo suas mãos tremerem. Você sabe que a máquina não erra, e isso te aterroriza. Porque se a máquina é perfeita, o erro é sempre humano. E você se sente... defeituoso."*
 
+*"A senhora está com a caneta parada há um minuto."*
+
+*"Estou. Gabriel, na semana passada você começou uma frase com 'em catorze anos de polícia eu cruzei uma linha' e mudou de assunto. Eu deixei passar. Não vou deixar de novo."*
+
+E ali, no telhado, com o binóculo na mão e a Torre de Marfim recortada contra a chuva, Gabo fez o que fazia toda vez: guardou aquilo no mesmo lugar onde guardava o resto, embaixo de tudo, numa caixa que ele não abria nem sozinho.
+
+*"Foi força de expressão, doutora."*
+
+Ela não acreditou. Ele sabia que ela não acreditou. E o assunto morreu ali por mais alguns anos.
+
 Gabo sacudiu a cabeça, apertando o Colar de Sol com força até a dor silenciar a voz da terapeuta. "Eu não sou defeituoso, Cecília. Eu sou o único que ainda funciona sem bateria."
 
 Ele saiu do carro. No caminho para a doca de carga, ele ouviu o som inconfundível de carne sendo atingida. Um baque surdo, seguido de um gemido abafado.
