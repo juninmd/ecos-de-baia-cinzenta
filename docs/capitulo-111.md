@@ -1,5 +1,6 @@
 ---
 image: /cenas/investigacao.jpeg
+Personagens Presentes: Gabriel "Gabo" Moretti, Inspetor Rangel, Valéria "Val" Cruz, Dante Moretti, Kiko Vibe
 ---
 # Capítulo 111: Arquivos Mortos
 

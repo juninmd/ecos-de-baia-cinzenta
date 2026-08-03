@@ -1,5 +1,6 @@
 ---
 image: /capitulo_51.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Capitão Jonas Vilar, Roberto Miranda, Marco Moretti, Helena Moretti, Elena Moretti
 ---
 # Capítulo 51: Mãos Limpas
 

@@ -1,5 +1,6 @@
 ---
 image: /capitulo_101.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Roberto Miranda, Silas Vance ("O Jardineiro"), Dante Moretti
 ---
 # Capítulo 101: Ressonância
 

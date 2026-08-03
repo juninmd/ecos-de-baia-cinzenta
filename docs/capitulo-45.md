@@ -1,5 +1,6 @@
 ---
 image: /capitulo_45.jpg
+Personagens Presentes: Dante Moretti
 ---
 # Capítulo 45: Protocolo N.O.A.
 

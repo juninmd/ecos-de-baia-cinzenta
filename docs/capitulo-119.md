@@ -1,5 +1,6 @@
 ---
 image: /cenas/cidade.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Inspetor Rangel, Valéria "Val" Cruz, Aria Moretti
 ---
 # Capítulo 119: Cinzas Frias
 

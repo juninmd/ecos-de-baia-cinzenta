@@ -1,5 +1,6 @@
 ---
 image: /capitulo_13.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Roberto Miranda, Valéria "Val" Cruz
 ---
 # Capítulo 13: Shadowban
 

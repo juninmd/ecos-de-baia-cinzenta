@@ -1,5 +1,6 @@
 ---
 image: /capitulo_17.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, O Gamemaster, Dante Moretti, Valéria "Val" Cruz
 ---
 # Capítulo 17: O Ultimato
 

@@ -1,5 +1,6 @@
 ---
 image: /capitulo_37.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Capitão Jonas Vilar
 ---
 # Capítulo 37: A Linha Azul
 

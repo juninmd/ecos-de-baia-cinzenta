@@ -1,5 +1,6 @@
 ---
 image: /cenas/gabo-carro.jpeg
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Inspetor Rangel, Aria Moretti
 ---
 # Capítulo 113: Carga Viva
 

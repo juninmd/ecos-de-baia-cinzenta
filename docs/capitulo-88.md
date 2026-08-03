@@ -1,5 +1,6 @@
 ---
 image: /capitulo_88.jpg
+Personagens Presentes: Dra. Nise, Gabriel "Gabo" Moretti
 ---
 # Capítulo 88: Sintomas de Abstinência
 

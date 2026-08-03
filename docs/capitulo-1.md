@@ -1,5 +1,6 @@
 ---
 image: /capitulo_1.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Roberto Miranda
 ---
 # Capítulo 1: Olhos de Vidro
 

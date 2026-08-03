@@ -1,5 +1,6 @@
 ---
 image: /capitulo_67.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Aria Moretti, Roberto Miranda
 ---
 # Capítulo 67: Cidade Viva
 

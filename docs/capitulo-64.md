@@ -1,5 +1,6 @@
 ---
 image: /capitulo_64.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Marco Moretti, Aria Moretti, Roberto Miranda
 ---
 # Capítulo 64: A Cidade Fantasma
 

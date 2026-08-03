@@ -1,5 +1,6 @@
 ---
 image: /capitulo_100.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti
 ---
 # Capítulo 100: O Ventre da Besta
 

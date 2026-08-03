@@ -1,5 +1,6 @@
 ---
 image: /capitulo_10.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria Moretti
 ---
 # Capítulo 10: A Fábrica de Sorrisos
 

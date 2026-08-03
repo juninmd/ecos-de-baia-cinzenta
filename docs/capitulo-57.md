@@ -1,5 +1,6 @@
 ---
 image: /capitulo_57.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Aria Moretti
 ---
 # Capítulo 57: Zona de Interesse
 

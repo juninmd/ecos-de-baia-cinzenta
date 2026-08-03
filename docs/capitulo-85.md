@@ -1,5 +1,6 @@
 ---
 image: /capitulo_85.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Dra. Nise, Capitão Jonas Vilar
 ---
 # Capítulo 85: O Sol Negro
 

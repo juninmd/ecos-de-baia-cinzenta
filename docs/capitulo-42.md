@@ -1,5 +1,6 @@
 ---
 image: /capitulo_42.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti
 ---
 # Capítulo 42: O Campo de Refugiados
 

@@ -1,5 +1,6 @@
 ---
 image: /capitulo_12.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Roberto Miranda
 ---
 # Capítulo 12: Cancelamento
 

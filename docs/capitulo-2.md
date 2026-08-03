@@ -1,5 +1,6 @@
 ---
 image: /capitulo_2.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Inspetor Rangel, Aria Moretti
 ---
 # Capítulo 2: Náufragos de Concreto
 

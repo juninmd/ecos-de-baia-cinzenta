@@ -1,5 +1,6 @@
 ---
 image: /capitulo_61.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Aria Moretti
 ---
 # Capítulo 61: Tinta no Papel
 

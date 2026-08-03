@@ -1,5 +1,6 @@
 ---
 image: /capitulo_20.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, O Gamemaster
 ---
 # Capítulo 20: Profanação
 

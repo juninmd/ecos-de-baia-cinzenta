@@ -1,5 +1,6 @@
 ---
 image: /capitulo_46.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz
 ---
 # Capítulo 46: O Dilúvio
 

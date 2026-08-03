@@ -1,5 +1,6 @@
 ---
 image: /capitulo_90.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Silas Vance ("O Jardineiro"), Dante Moretti
 ---
 # Capítulo 90: O Arquivista
 

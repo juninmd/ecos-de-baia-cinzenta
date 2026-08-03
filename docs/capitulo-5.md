@@ -1,5 +1,6 @@
 ---
 image: /capitulo_5.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Roberto Miranda, Dante Moretti
 ---
 # Capítulo 5: A Capela dos Esquecidos
 

@@ -1,5 +1,6 @@
 ---
 image: /capitulo_68.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Roberto Miranda, Aria Moretti, Dante Moretti
 ---
 # Capítulo 68: A Caçada Inversa
 

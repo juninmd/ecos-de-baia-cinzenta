@@ -1,5 +1,6 @@
 ---
 image: /capitulo_99.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Inspetor Rangel, Capitão Jonas Vilar, Dra. Nise, Aria Moretti
 ---
 # Capítulo 99: O Despertar da Máquina
 

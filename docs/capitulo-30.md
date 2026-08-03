@@ -1,5 +1,6 @@
 ---
 image: /capitulo_30.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Kael "O Cirurgião", Elena Moretti, Valéria "Val" Cruz
 ---
 # Capítulo 30: O Preço da Liberdade
 

@@ -13,6 +13,39 @@
 
 Cada personagem existe para fazer **uma coisa** na história. Quando duas figuras começam a cumprir a mesma função, uma delas está sobrando — e é aí que o capítulo fica arrastado. Consulte esta tabela antes de escrever qualquer cena nova: se o personagem não está exercendo o papel dele, ou ele sai da cena, ou a cena muda.
 
+### 🧬 Por que os Moretti? (a espinha da obra — revelado no Capítulo 228)
+
+A pergunta que sustenta 228 capítulos é: *por que esta família?* Sem uma resposta estrutural, a perseguição vira coincidência e o livro vira uma sequência de azares. A resposta canônica é o **Estudo Longitudinal 001**.
+
+**O defeito do Protocolo Lázaro é a deriva.** Uma mente extraída degrada: em seis meses vira ruído, em dois anos a personalidade se dissolve e sobra uma estrutura de dados que não corresponde mais a ninguém. Produto que estraga na prateleira precisa de controle de qualidade — e para medir degradação é preciso **comparar**. Não com uma mente qualquer: com outra da mesma arquitetura. Parentesco de primeiro grau dá linha de base; três gerações dão uma curva.
+
+**A Aeterna não coletava pessoas. Coletava uma linhagem** — só uma é necessária, e cada uma custa décadas de acompanhamento.
+
+**Por que a Moretti, e não outra?** Não por genética. Pela assinatura. Dante Moretti era **Consultor de Segurança Sênior** e assinou a autorização dos testes beta do sinal no Distrito 4 (Capítulo 11), achando que autorizava radiofrequência para reduzir violência urbana. Krell escolheu a família porque o chefe dela havia carimbado a própria saída: **um consultor que autorizou o programa não pode denunciá-lo sem se autoincriminar.** Denunciar seria confessar. Foi por isso que Dante mudou de estratégia e virou vírus em vez de testemunha — era a única porta que sobrava.
+
+**O papel de cada um no estudo:**
+
+| Sujeito | Classificação no arquivo | Consequência |
+|---|---|---|
+| **Dante** | Referência adulta — imprint completo, código moral rígido, ideal como padrão de calibração | O cérebro dele roda a IA não por ser brilhante, mas por ser o **padrão de medida** |
+| **Aria** | Substrato ideal — *"ausência de trauma acumulado, arquitetura em formação, custo mínimo"* | Coletada aos cinco anos durante o Dilúvio, classificado como *perda não programada, ambiental* |
+| **Helena** | Sujeito de contexto — *"não coletar: a remoção desestabilizaria a unidade familiar"* | Poupada por ser útil viva |
+| **Marco** | *"Cooperativo. Requer manejo por incentivo. Baixa prioridade."* | Não foi comprado nem quebrado: foi classificado como barato |
+| **Clara** | *"Nascida após início do estudo. Manter em observação. Não interferir."* | Variável que ninguém teve tempo de usar |
+| **Gabo** | **EM CAMPO — NÃO COLETAR — GRUPO DE CONTROLE** | Ver abaixo |
+
+**⚠️ A reviravolta que redefine o protagonista.** Um estudo de deriva exige uma **referência viva**: um membro da linhagem exposto ao mesmo ambiente e ao mesmo estresse, mas **nunca extraído**. Sem ele não há contra o que medir a degradação dos outros. Gabo é essa referência — e a rubrica de Krell foi **renovada sessenta vezes, uma por exercício, à mão**, reconfirmando que ele devia continuar solto.
+
+Isso recontextualiza quinze anos de narrativa: **cada fuga foi uma soltura.** O Taxidermista o quebrou inteiro e subiu de volta pela corda em vez de dar um tiro na nuca. Miranda tinha ordem de partir, nunca de apagar. O Gamemaster tinha uma cidade de armas e escolheu um duelo. Marco, pela boca de Isadora no Capítulo 55: *"ele não quer te matar, ele quer te possuir."* Em 31 ocasiões documentadas a força aplicada contra Gabo foi inferior à força disponível no local, 27 delas com autorização prévia da mesma rubrica.
+
+Gabo passou a vida achando que sobreviveu por ser difícil de matar. Ele sobreviveu **porque estava no protocolo**. E Krell não tem apreço por ele: tem um controle experimental de sessenta anos, e nenhum cientista destrói um controle de sessenta anos na última semana.
+
+**Onde isso deixa a história:** a proteção só vale enquanto "solto" significar "inofensivo". Quando a gráfica de Elena começa a imprimir, o grupo de controle contamina o experimento — e Krell, pela primeira vez em sessenta anos, vai ter que aparecer pessoalmente.
+
+> **Plantio existente que sustenta a revelação** (não é reviravolta barata): Cap. 11 — *"Ele sabia que a Aeterna estava construindo uma gaiola. Ele só não imaginava que o filho seria o pássaro."* / Cap. 11 — a assinatura de Consultor Sênior. / Cap. 55 — *"ele quer te possuir"*. / Cap. 220 — Dante colabora sabendo. / Cap. 227 — a rubrica em todas as fichas.
+
+---
+
 ### 👑 A Hierarquia dos Antagonistas
 
 A obra tinha cinco figuras disputando o posto de vilão principal, e isso diluía todas. A hierarquia canônica é esta, e **não deve ser renegociada**:

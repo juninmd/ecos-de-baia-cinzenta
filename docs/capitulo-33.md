@@ -1,5 +1,6 @@
 ---
 image: /capitulo_33.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti
 ---
 # Capítulo 33: A Sabedoria da Ferrugem
 

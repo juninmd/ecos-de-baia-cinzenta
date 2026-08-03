@@ -1,5 +1,6 @@
 ---
 image: /capitulo_60.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Aria Moretti
 ---
 # Capítulo 60: Despejo
 

@@ -1,5 +1,6 @@
 ---
 image: /capitulo_62.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Aria Moretti
 ---
 # Capítulo 62: O Santo e a Criança
 

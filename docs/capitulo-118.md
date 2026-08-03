@@ -1,5 +1,6 @@
 ---
 image: /cenas/cidade.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Aria Moretti, Dante Moretti, Valéria "Val" Cruz, O Taxidermista
 ---
 # Capítulo 118: O Colapso da Onda
 

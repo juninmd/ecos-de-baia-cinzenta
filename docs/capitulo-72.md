@@ -1,5 +1,6 @@
 ---
 image: /capitulo_72.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Aria Moretti, Roberto Miranda
 ---
 # Capítulo 72: A Ofensiva
 

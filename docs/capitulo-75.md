@@ -1,5 +1,6 @@
 ---
 image: /capitulo_75.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti
 ---
 # Capítulo 75: Horizonte de Eventos
 

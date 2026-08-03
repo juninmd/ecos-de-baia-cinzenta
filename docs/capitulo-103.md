@@ -1,5 +1,6 @@
 ---
 image: /capitulo_103.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Silas Vance ("O Jardineiro"), Roberto Miranda, Elena Moretti, Dante Moretti
 ---
 # Capítulo 103: A Convergência
 

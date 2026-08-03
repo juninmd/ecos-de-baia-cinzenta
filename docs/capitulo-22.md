@@ -1,5 +1,6 @@
 ---
 image: /capitulo_22.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Elena Moretti, Dante Moretti, O Gamemaster
 ---
 # Capítulo 22: O Mapa da Alma
 

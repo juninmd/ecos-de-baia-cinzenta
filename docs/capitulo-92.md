@@ -1,5 +1,6 @@
 ---
 image: /capitulo_92.jpg
+Personagens Presentes: Capitão Jonas Vilar
 ---
 # Capítulo 92: A Praga de Ferro
 

@@ -1,5 +1,6 @@
 ---
 image: /capitulo_56.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Aria Moretti
 ---
 # Capítulo 56: O Preço do Amanhã
 

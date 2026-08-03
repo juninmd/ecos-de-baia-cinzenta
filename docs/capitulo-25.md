@@ -1,5 +1,6 @@
 ---
 image: /capitulo_25.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Valéria "Val" Cruz
 ---
 # Capítulo 25: Elevador para o Inferno
 

@@ -1,5 +1,6 @@
 ---
 image: /capitulo_50.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Clara Moretti, Valéria "Val" Cruz, Helena Moretti, Elena Moretti, Dra. Nise
 ---
 # Capítulo 50: O Silêncio da Chuva
 

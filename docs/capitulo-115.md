@@ -1,5 +1,6 @@
 ---
 image: /cenas/cidade.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Aria Moretti, O Taxidermista, Dante Moretti, Valéria "Val" Cruz
 ---
 # Capítulo 115: O Arquiteto da Carne
 

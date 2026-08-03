@@ -31,8 +31,10 @@ timeline
         Parte XIX · caps 194-217 : Oitocentos metros : O Poço : A porta de chumbo
     section Ato V · A Prova
         Parte XX · caps 218-225 : Arca Zero : A fita do pai : A superfície
-        Parte XXI · caps 226-227 : Elena volta : 47.311 admissões : A rubrica de Krell
+        Parte XXI · caps 226-228 : Elena volta : 47.311 admissões : Gabo era o grupo de controle
 ```
+
+> **A espinha da obra.** A pergunta que sustenta 228 capítulos não é *quem matou* — é **por que esta família**. A resposta está no Capítulo 228 e no bloco "Por que os Moretti?" do dossiê: o Protocolo Lázaro precisa de uma linhagem para medir deriva, e Krell escolheu a Moretti porque o chefe dela havia assinado a autorização dos testes beta e, portanto, não podia denunciar sem se autoincriminar. Gabo é o **grupo de controle** — o membro que nunca se coleta, porque sem referência viva não há contra o que medir a degradação dos outros. Quinze anos de fugas foram solturas autorizadas.
 
 ---
 
@@ -72,7 +74,7 @@ timeline
 | XVIII | 170–193 | Fronteiras de Ferrugem | A prótese de Vasco; Valéria entra em Modo de Segurança |
 | XIX | 194–217 | O Poço do Abismo | Oitocentos metros até a porta de chumbo |
 | XX | 218–225 | **Arca Zero** | A prova sai do buraco; Gabo fecha o luto do pai |
-| XXI | 226–227 | **A Rubrica** | Elena volta com as prensas; Krell é nomeado o autor de tudo |
+| XXI | 226–228 | **A Rubrica** | Elena volta com as prensas; Krell é nomeado o autor de tudo; revela-se por que a família Moretti foi escolhida |
 
 ---
 

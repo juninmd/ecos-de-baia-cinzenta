@@ -1,5 +1,6 @@
 ---
 image: /capitulo_82.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Padre Miguel
 ---
 # Capítulo 82: O Profeta Mudo
 

@@ -1,5 +1,6 @@
 ---
 image: /capitulo_66.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Aria Moretti, Dante Moretti
 ---
 # Capítulo 66: Respirar
 

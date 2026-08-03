@@ -1,5 +1,6 @@
 ---
 image: /capitulo_15.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, O Gamemaster
 ---
 # Capítulo 15: Protocolo de Extermínio
 
