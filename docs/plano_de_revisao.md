@@ -63,11 +63,20 @@ Ordem de ataque **por importância narrativa**, não por número. Capítulo de t
 |---|---|---|---|
 | [x] | Cap. 47 — O Mecanismo da Queda | 570 → **1.633** | ✅ Set piece da Torre do Relógio: mecanismo plantado antes de disparar, Taxidermista com método visível, a dor chegando como silêncio antes de chegar como dor. Nota 9. |
 | [x] | Cap. 41 — Maré Alta | 279 → **1.317** | ✅ O Dilúvio ganhou escala e crime: os diques sem manutenção desde o ano 41, o resgate do ônibus escolar com uma criança perdida e recuperada, e a revelação do funcionário da Companhia de Águas — *"as comportas abriram, sequenciadas; aquilo foi operado"*. Planta o Dilúvio como atentado, não acidente. |
-| [ ] | Cap. 45 — Protocolo N.O.A. | 275 | Pior conjunto de eixos da obra: sem sentidos, sem custo, sem diálogo. |
+| [x] | Cap. 45 — Protocolo N.O.A. | 275 → **1.240** | ✅ Reescrito. Arthur Vance vira **pai da Elara e do Silas**, o que amarra três personagens soltos e explica por que uma "consultora externa" mandava no arquivo. E os Leviatãs deixam de ser fio solto: das 38 unidades, 18 apodreceram alagadas, 9 emperraram, 3 pararam na subida — **oito partiram**. O Imperador acordou para conquistar uma cidade já devorada por um predador melhor. |
 | [ ] | Cap. 43 — Água Negra | 279 | Idem, e é onde a cidade afunda. |
 | [ ] | Cap. 92 — A Praga de Ferro | 317 | Introduz uma das três catástrofes do mundo em 317 palavras. |
 | [ ] | Cap. 18 — A Queda | 467 | A derrota do Gamemaster resolve em meia página, sem custo sentido em cena. |
 | [ ] | Cap. 28 — O Último Suspiro da Torre | 575 | A destruição da Torre Aeterna. Falta escala e falta quem morre nela. |
+
+### Fio aberto herdado do cap. 45
+
+O Imperador acorda, manda subir oito Leviatãs, e a **Fase 2 nunca se completa**. Hoje o fio morre no cap. 48 e não volta.
+
+| ✔ | O que fazer |
+|---|---|
+| [ ] | Fechar o destino dos oito Leviatãs no arco 46–52 — devem falhar por decrepitude, não por heroísmo |
+| [ ] | Dar um desfecho ao Arthur Vance. A opção mais forte: ele **nunca chega à cidade** e morre na Arca, e a Elara descobre isso no arquivo da Arca Zero — pai e filha a mil metros um do outro, sem nunca terem se visto de novo |
 
 ### Bloco B — o arco do Dilúvio (caps. 32–60)
 

@@ -4,13 +4,12 @@
 > Ordenado do pior para o melhor: a revisão manual começa no topo.
 
 - **Capítulos avaliados:** 234
-- **Reprovados em portão duro:** 54
+- **Reprovados em portão duro:** 53
 - **Abaixo do alvo de 1100 palavras:** 103
 - **Nota média:** 8.3/10
 
 | Capítulo | Palavras | Atm | Custo | Voz | Ritmo | Conseq | Nota | Veredito | Portões |
 |---|---|---|---|---|---|---|---|---|---|
-| Capítulo 45: Protocolo N.O.A. | 275 | 1 | 1 | 1 | 2 | 1 | **6** | 🚫 REPROVADO | D1 extensão (275 palavras) |
 | Capítulo 92: A Praga de Ferro | 317 | 0 | 1 | 2 | 2 | 1 | **6** | 🚫 REPROVADO | D1 extensão (317 palavras) |
 | Capítulo 75: Horizonte de Eventos | 387 | 1 | 0 | 2 | 2 | 1 | **6** | 🚫 REPROVADO | D1 extensão (387 palavras) |
 | Capítulo 89: Memória Genética | 408 | 1 | 1 | 1 | 2 | 1 | **6** | 🚫 REPROVADO | D1 extensão (408 palavras) |
@@ -237,6 +236,7 @@
 | Capítulo 134: Vale da Estranheza | 1221 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 19: O Código Morto | 1241 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 40: O Céu Quebrou | 1262 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
+| Capítulo 45: Protocolo N.O.A. | 1300 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 23: Ratos e Reis | 1437 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 226: A Mulher de Fora | 1533 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 221: Modo de Segurança | 1584 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
