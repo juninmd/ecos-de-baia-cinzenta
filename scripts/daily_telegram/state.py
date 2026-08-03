@@ -1,10 +1,16 @@
 import json
-from datetime import datetime, timezone
+from datetime import date, datetime, timezone
 from pathlib import Path
 from typing import Dict, List, Optional
 
 REPO_ROOT = Path(__file__).resolve().parents[2]
 DEFAULT_STATE_FILE = REPO_ROOT / ".daily_telegram_state.json"
+
+# Dia em que o capítulo 1 foi ao ar. A fila é derivada da data justamente para
+# não depender de escrita: o workflow roda com GITHUB_TOKEN e o master é
+# protegido, então o `git push` do estado sempre falhou com GH006 e a fila
+# ficava congelada no mesmo capítulo, dia após dia.
+PRIMEIRO_ENVIO = date(2026, 7, 26)
 
 
 def load_state(state_file: Path = DEFAULT_STATE_FILE) -> Dict:
@@ -35,16 +41,20 @@ def save_state(numero: int, state_file: Path = DEFAULT_STATE_FILE) -> None:
     print(f"💾 State updated: last_sent={numero}")
 
 
-def pick_next(available: List[int], state: Dict) -> Optional[int]:
-    """Next chapter after the last delivered one; wraps to the first when finished."""
+def pick_for_date(available: List[int], hoje: Optional[date] = None) -> Optional[int]:
+    """Capítulo do dia, derivado da data — um por dia, em ordem, sem estado.
+
+    Um dia que falha é um dia pulado, e isso é intencional: é preferível perder
+    um capítulo a reenviar o mesmo indefinidamente porque a gravação do
+    progresso não passou pela proteção de branch.
+    """
     if not available:
         return None
     ordered = sorted(available)
-    last = state.get("last_sent")
-    if last is None:
+    dias = ((hoje or datetime.now(timezone.utc).date()) - PRIMEIRO_ENVIO).days
+    if dias < 0:
         return ordered[0]
-    for numero in ordered:
-        if numero > last:
-            return numero
-    print("🔁 Todos os capítulos enviados, reiniciando do primeiro.")
-    return ordered[0]
+    volta, indice = divmod(dias, len(ordered))
+    if volta:
+        print(f"🔁 {volta}ª releitura da obra: reiniciando a fila.")
+    return ordered[indice]

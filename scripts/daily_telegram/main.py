@@ -30,7 +30,7 @@ def resolve_chapter(args) -> int:
         raise SystemExit("❌ Nenhum capítulo encontrado em docs/ ou docs/public/")
     if args.chapter:
         return args.chapter
-    numero = state.pick_next(disponiveis, state.load_state(args.state_file))
+    numero = state.pick_for_date(disponiveis)
     if numero is None:
         raise SystemExit("❌ Não foi possível determinar o próximo capítulo")
     return numero
