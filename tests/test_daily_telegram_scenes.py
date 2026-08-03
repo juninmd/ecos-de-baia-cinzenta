@@ -41,10 +41,46 @@ def test_image_prompt_includes_style_and_setting():
 def test_edit_prompt_locks_identity_and_wardrobe():
     gabo = characters.detect("Gabo acendeu a lanterna.")[0]
     prompt = Scene(indice=1, texto="ele corre pelo túnel").edit_prompt(gabo, "Subnível 3")
-    assert "clothing unchanged" in prompt
+    assert "face, hair and beard unchanged" in prompt
+    assert "signature outfit: Sobretudo bege" in prompt  # vestuário como cláusula própria
     assert "canonical look that must not change" in prompt
-    assert "Sobretudo bege" in prompt  # vestuário canônico vindo de personagens.md
     assert "Subnível 3" in prompt
+
+
+def test_shot_varies_across_scenes():
+    cenas = split_scenes(TEXTO, 4)
+    assert len({c.shot for c in cenas}) == 4  # sem isso toda cena vira o mesmo close-up
+
+
+def test_identity_scale_loosens_for_wide_shots():
+    cenas = {c.shot: c.identity_scale for c in split_scenes(TEXTO, 6)}
+    assert cenas["wide establishing shot"] < cenas["close-up"]
+    assert all(0.5 <= v <= 1.0 for v in cenas.values())
+
+
+def test_action_prefers_narration_over_dialogue():
+    cena = Scene(indice=1, texto="— Ameace com obstrução de justiça se for preciso, disse ele. "
+                                 "A chuva ácida escorria pelo concreto rachado do distrito.")
+    assert cena.action.startswith("A chuva ácida")
+
+
+def test_action_falls_back_to_dialogue_when_only_option():
+    cena = Scene(indice=1, texto="— Consiga um culpado antes do amanhecer, disse o inspetor.")
+    assert cena.action
+
+
+def test_compact_prompt_fits_clip_limit():
+    gabo = characters.detect("Gabo acendeu a lanterna.")[0]
+    cena = split_scenes(TEXTO, 4)[0]
+    prompt = cena.compact_prompt(gabo, "Distrito 4")
+    assert len(prompt.split()) < 60  # CLIP corta em 77 tokens
+    assert cena.shot in prompt
+    assert "Sobretudo bege" in prompt
+
+
+def test_wardrobe_extracted_from_indented_markdown():
+    gabo = characters.detect("Gabo acendeu a lanterna.")[0]
+    assert characters.wardrobe(gabo).startswith("Sobretudo bege")
 
 
 def test_character_db_has_reference_portraits():

@@ -42,6 +42,7 @@ docs/public/icons/temp/
 keystore.properties
 venv_fix/
 .venv
+.venv-gpu/
 # Environment and secrets
 .env.local
 .env.*.local
