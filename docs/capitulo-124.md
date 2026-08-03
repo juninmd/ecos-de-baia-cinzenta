@@ -1,11 +1,11 @@
-# Metadados
+## Metadados
 - **Título:** Carne e Cobre
 - **Data In-Game:** 23 de Novembro, 05:15
 - **Localização:** Túneis de Manutenção do Distrito 4 / O Fliperama (Safehouse)
 - **Personagens Presentes:** Gabo Moretti, Valéria Cruz, Rangel (Crítico), Aria (Inerte).
 - **Resumo:** Gabo retorna ao esconderijo com os suprimentos médicos, navegando pelos túneis infestados de ratos e silêncio. No "Fliperama", ele e Valéria realizam um procedimento de emergência para conter a sepse de Rangel, enquanto a realidade da condição de Aria — e da própria cidade — começa a pesar.
 
-# Narrativa
+## Narrativa
 
 # Capítulo 124: Carne e Cobre
 

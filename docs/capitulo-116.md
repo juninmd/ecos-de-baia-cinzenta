@@ -47,7 +47,7 @@ Não eram apenas cabos de cobre e fibra ótica. Entrelaçados a eles, pulsando c
 
 — *Processamento distribuído* — a voz do Taxidermista sussurrou, vindo de um pequeno transceptor de manutenção na parede. — *O cérebro humano é uma máquina maravilhosa, detetive. Infinitamente mais eficiente em termos de energia do que o silício. Desperdiçá-lo seria um pecado. Aqui, os viciados, os esquecidos, os "Drenados"... eles finalmente têm um propósito. Eles pensam por Dante. Eles sonham a cidade.*
 
-Gabo sentiu a mão tremer. A vontade de fumar o atingiu como um soco físico. Ele queria queimar aquele gosto de sua boca, queria encher os pulmões com fumaça acre para não sentir o cheiro daquela abominação.
+Gabo sentiu a mão tremer. O cheiro de cigarro veio de lugar nenhum e o atingiu como um soco físico — fumaça acre e velha, sobreposta ao fedor da abominação, tão nítida que ele olhou por cima do ombro à procura de quem estaria fumando. Não havia ninguém. Nunca havia.
 
 *Foco.*
 

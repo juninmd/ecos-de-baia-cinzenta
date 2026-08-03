@@ -1,13 +1,13 @@
 ---
 image: /capitulo_169.jpg
 ---
-# Metadados
+## Metadados
 - **Título:** O Fantasma na Máquina de Carne
 - **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
 - **Localização:** Necrópole (Subnível 2.0 - O Arquivo Executivo da Aeterna Corp, Setor Alfa-Sete)
 - **Personagens Presentes:** Gabo, Valéria
 
-# Narrativa
+## Narrativa
 
 # Capítulo 169: O Fantasma na Máquina de Carne
 

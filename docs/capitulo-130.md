@@ -22,9 +22,9 @@ Gabo trincou os dentes, sentindo o gosto de bile. Ele não se virou. Sabia o que
 
 — Você sempre diz isso. — A "coisa" que usava o rosto de Bia saltitou para o lado dele, leve como uma pluma, ignorando o caos ao redor. — "O necessário". Como quando você não chegou a tempo na doca. Como quando você deixou o Roberto me pegar. Você é ótimo em fazer o necessário, Gabo. É em *salvar* as pessoas que você falha.
 
-Gabo fechou os olhos por um segundo, o suficiente para uma imagem intrusiva queimar sua retina: um maço de cigarros amassado no bolso. A nicotina como um silenciador para a culpa. Seu corpo implorou pelo ritual — o clique do isqueiro, a fumaça preenchendo os pulmões e expulsando o ar viciado.
+Gabo fechou os olhos por um segundo, o suficiente para uma imagem intrusiva queimar sua retina: um maço de cigarros amassado num bolso que nunca foi o dele. Era sempre a mesma cena roubada — a mão do pai, o clique do isqueiro, a fumaça preenchendo pulmões que não eram os seus. A cabeça dele oferecia aquilo como quem oferece um silenciador para a culpa.
 
-Mas então o cheiro do fluído vermelho bateu nele novamente. Era quente e úmido. A náusea subiu violenta, um soco no estômago que o fez quase derrubar Rangel. Ele engoliu o vômito. *Não.* O vício era uma fraqueza que ele não podia se dar ao luxo. A dor em sua perna, onde a Quimera o mordera, era o único estimulante que ele aceitaria. A dor era limpa. A fumaça era apenas névoa.
+Mas então o cheiro do fluído vermelho bateu nele novamente. Era quente e úmido. A náusea subiu violenta, um soco no estômago que o fez quase derrubar Rangel. Ele engoliu o vômito. *Não.* A imagem era um truque velho do próprio cérebro, e ele já tinha aprendido a não negociar com ela. A dor em sua perna, onde a Quimera o mordera, era o único estimulante que ele aceitaria. A dor era limpa. A fumaça era apenas névoa.
 
 — Para cima! — Gabo gritou, ignorando a alucinação. — Val, aquela escada de manutenção na parede norte!
 

@@ -69,7 +69,7 @@ O centro era um homem pequeno, de não mais que um metro e trinta e cinco, senta
 
 Viktor Krell.
 
-O CEO da Aetherna parecia uma criança vestida de imperador, mas seus olhos — dois orbes de safira cibernética — irradiavam uma maldade antiga. Ele gesticulava com uma bengala de titânio negro, e os magnatas ao redor dele, homens com o dobro de seu tamanho, encolhiam-se como colegiais.
+O CEO da Aeterna parecia uma criança vestida de imperador, mas seus olhos — dois orbes de safira cibernética — irradiavam uma maldade antiga. Ele gesticulava com uma bengala de titânio negro, e os magnatas ao redor dele, homens com o dobro de seu tamanho, encolhiam-se como colegiais.
 
 Gabriel, ainda com o sobretudo molhado e botas sujas de lama, caminhou em direção a eles. O contraste com os convidados de gala era um grito visual. Ele pegou uma taça de uma bandeja que passava, bebeu em um gole só para acalmar os nervos, e se infiltrou no círculo de conversa.
 

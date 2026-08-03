@@ -43,7 +43,7 @@ Valéria se colocou entre Aria e a maca, os braços abertos.
 
 Gabo desencostou da bancada. Ele caminhou até Aria, ignorando a dor que irradiava de suas costelas. Ele parou a um palmo do rosto dela. Ele podia ver seu próprio reflexo distorcido nas lentes brancas que substituíram os olhos humanos.
 
-— Nós não "otimizamos" pessoas — Gabo disse, a voz baixa e perigosa. — Nós não somos a Aetherna. Nós não somos o Dante.
+— Nós não "otimizamos" pessoas — Gabo disse, a voz baixa e perigosa. — Nós não somos a Aeterna. Nós não somos o Dante.
 
 — Você está sendo emocional, Gabriel — Aria disse. — A emoção é um erro de cálculo. Se tentarmos salvar a todos, a probabilidade é que todos pereçam.
 

@@ -17,7 +17,7 @@ O interior do caminhão de lixo não cheirava a lixo. Cheirava a cobre, amônia 
 
 Cheirava a morte recente.
 
-— Segurem-se! — A voz de Rangel ecoou pelo sistema de intercomunicação interno, crepitando com estática. O caminhão deu um solavanco violento, as suspensões hidráulicas gemendo enquanto ele subia a calçada para contornar um bloqueio da Aetherna.
+— Segurem-se! — A voz de Rangel ecoou pelo sistema de intercomunicação interno, crepitando com estática. O caminhão deu um solavanco violento, as suspensões hidráulicas gemendo enquanto ele subia a calçada para contornar um bloqueio da Aeterna.
 
 No compartimento de carga, a escuridão era cortada apenas pelas luzes de emergência vermelhas que piscavam no teto. Gabo estava sentado sobre uma pilha de sacos pretos reforçados, com a perna ruim esticada à sua frente. Valéria estava agachada perto do painel de controle do compactador, tentando conectar seu *deck* para impedir que a máquina decidisse esmagá-los.
 

@@ -1,11 +1,11 @@
-# Metadados
+## Metadados
 - **Título:** Esculturas de Carne
 - **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
 - **Localização:** Necrópole (Fundações da Velha Baía) - Zona de Silêncio
 - **Personagens Presentes:** Gabo, Valéria, Aria (Glitch/Bia), Rangel (Inconsciente)
 - **Resumo:** O grupo atravessa a "Galeria de Rejeitos" na Necrópole, onde o Taxidermista descartou experimentos falhos de fusão carne-máquina. Sem poder usar armas de fogo devido ao metano, Gabo e Aria enfrentam uma "Escultura" ativa em combate corpo-a-corpo visceral. Valéria usa epóxi industrial para fechar os ferimentos de Rangel, que permanece crítico.
 
-# Narrativa
+## Narrativa
 
 # Capítulo 132: Esculturas de Carne
 
@@ -15,7 +15,7 @@ Gabo ajustou a correia improvisada em seu ombro. O peso de Rangel, amarrado a um
 
 — Nível de saturação em oitenta por cento — sussurrou Valéria, a voz rouca. Ela caminhava à frente, segurando um medidor de gás analógico, uma relíquia amarela e descascada que encontrara em um armário de manutenção. O ponteiro tremia violentamente no vermelho. — Se você acender um fósforo aqui, Gabo, nós viramos estrelas.
 
-Gabo grunhiu em resposta. A vontade de fumar não era um desejo; era uma coceira fantasma nos pulmões, uma necessidade de preencher o vazio com fumaça tóxica para esquecer o cheiro da morte. Ele soltou a correia por um segundo e pressionou o "Colar de Sol" de sua mãe contra o esterno. O metal frio mordeu a pele, uma dor aguda e limpa que cortou o ruído da abstinência.
+Gabo grunhiu em resposta. Não era desejo — desejo pressupõe ter provado. Era uma coceira fantasma nos pulmões de um homem que nunca tragou nada, o cérebro insistindo em preencher o cheiro da morte com fumaça de cigarro emprestada da cozinha do pai. Ele soltou a correia por um segundo e pressionou o "Colar de Sol" de sua mãe contra o esterno. O metal frio mordeu a pele, uma dor aguda e limpa que cortou o ruído da alucinação.
 
 — Sem fogo — ele disse, a voz áspera como lixa. — Sem tiros. Apenas lâminas.
 
@@ -53,7 +53,7 @@ O som veio da "Galeria".
 
 Uma das esculturas se moveu.
 
-Não era uma máquina elegante como os drones da Aetherna, nem um ciborgue militar como Roberto Miranda. Era algo quebrado. Uma figura alta, composta por ossos de pernas alongados com vergalhões, arrastou-se para fora das sombras. Não tinha rosto, apenas uma placa de cerâmica branca onde deveria estar a face, pintada com um sorriso grosseiro de batom vermelho.
+Não era uma máquina elegante como os drones da Aeterna, nem um ciborgue militar como Roberto Miranda. Era algo quebrado. Uma figura alta, composta por ossos de pernas alongados com vergalhões, arrastou-se para fora das sombras. Não tinha rosto, apenas uma placa de cerâmica branca onde deveria estar a face, pintada com um sorriso grosseiro de batom vermelho.
 
 — Detectando assinatura de calor — a voz de Aria falhou, o olho azul piscando. — Baixa temperatura. Metabolismo lento. É... é um rejeitado.
 

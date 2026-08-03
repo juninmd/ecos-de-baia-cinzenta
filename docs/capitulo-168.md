@@ -1,14 +1,14 @@
 ---
 image: /capitulo_168.jpg
 ---
-# Metadados
+## Metadados
 - **Título:** O Peso do Chumbo
 - **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
 - **Localização:** Necrópole (Subnível 2.0 - O Arquivo Executivo da Aeterna Corp, Setor Alfa-Sete)
 - **Personagens Presentes:** Gabo, Valéria
 - **Resumo:** Com o sacrifício de Aria, Gabo e Valéria caminham pela vastidão silenciosa do Arquivo Executivo em direção à anomalia térmica. A ausência da lógica fria da IA amplifica o horror existencial da jornada. Gabo sofre com alucinações sufocantes de fumaça, ancorando sua sanidade na dor excruciante de seus cotocos em carne viva contra o metal frio. Valéria, desolada e ferida, tenta encontrar propósito. Ao chegarem à fonte do calor, descobrem que não se trata apenas de um terminal corporativo, mas de um resquício visceral do legado de Dante.
 
-# Narrativa
+## Narrativa
 
 # Capítulo 168: O Peso do Chumbo
 

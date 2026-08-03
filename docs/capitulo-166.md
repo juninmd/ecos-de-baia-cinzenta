@@ -13,6 +13,8 @@ characters: ["Gabo", "Valéria", "Aria"]
 
 ## Narrativa
 
+# Capítulo 166: A Lógica da Fome
+
 O estalo reverberou, grave e oco, dissolvendo-se lentamente contra os painéis acústicos do Arquivo Executivo. Era o som inconfundível do despertar de uma máquina projetada para não ser perturbada. A poeira cinzenta sob seus pés pareceu vibrar ligeiramente, aguçando a tensão no corredor.
 
 Gabo sentiu um calafrio percorrer a espinha, mas não pelo choque térmico do ambiente estéril a dezesseis graus. Era uma familiaridade nauseante; a fumaça invisível do cigarro barato de Dante infiltrou-se novamente por suas narinas, arranhando a base de sua garganta com um azedume nostálgico e traiçoeiro. Ele trincou os dentes e apertou com violência o cotoco recém-cauterizado de seu braço direito contra uma aresta de servidor embutido.

@@ -13,7 +13,7 @@ characters: ["Gabo", "Valéria", "Aria"]
 
 ## Narrativa
 
-## Capítulo 163: O Fosso de Aço
+# Capítulo 163: O Fosso de Aço
 
 O som das engrenagens cegas morrendo era um lamento metálico que ecoava pelo corredor de concreto. A imensa porta do firewall recuara completamente, revelando a escuridão absoluta do poço do elevador de manutenção principal.
 

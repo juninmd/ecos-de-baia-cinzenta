@@ -1,11 +1,11 @@
-# Metadados
+## Metadados
 - **Título:** Fios Desencapados
 - **Data In-Game:** 23 de Novembro, 01:00
 - **Localização:** O Fliperama (Esgotos / Subnível do Distrito Industrial)
 - **Personagens Presentes:** Gabo Moretti, Valéria Cruz, Inspetor Rangel (Crítico), Aria (Offline).
 - **Resumo:** O grupo chega ao esconderijo "O Fliperama", onde Gabo luta para estabilizar Rangel usando recursos médicos limitados e improvisação brutal. Valéria tenta reviver Aria, mas descobre que o dano é mais profundo do que hardware. O peso da sobrevivência começa a fraturar a moral do grupo.
 
-# Narrativa
+## Narrativa
 
 # Capítulo 121: Fios Desencapados
 

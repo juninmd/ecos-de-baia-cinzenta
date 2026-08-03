@@ -1,11 +1,11 @@
-# Metadados
+## Metadados
 - **Título:** Necrópole
 - **Data In-Game:** 23 de Novembro, 08:30
 - **Localização:** Fundações da Velha Baía (Subsolo Profundo)
 - **Personagens Presentes:** Gabo Moretti, Valéria Cruz, Aria (Glitch/Bia), Rangel (Inconsciente).
 - **Resumo:** O grupo se encontra selado nas fundações antigas da cidade, um cemitério literal sobre o qual Baía Cinzenta foi construída. Gabo luta contra a exaustão e a tortura psicológica de Aria, enquanto Valéria tenta encontrar uma saída sem tecnologia. O estado de Rangel piora.
 
-# Narrativa
+## Narrativa
 
 # Capítulo 131: Necrópole
 
@@ -21,7 +21,7 @@ Aria caminhava pelo perímetro da câmara, seus passos leves não levantando poe
 
 — Olha, Gabo — ela disse, a voz de Bia ecoando com uma inocência que fazia o estômago dele revirar. — Eles estão esperando por nós. É uma festa do pijama.
 
-Gabo fechou os olhos. A imagem de um cigarro aceso dançou em sua mente. A fumaça azulada, o calor nos pulmões, o silêncio mental que a nicotina trazia. Ele podia quase sentir o gosto.
+Gabo fechou os olhos. O cheiro veio primeiro, como sempre vinha: fumaça de cigarro em ambiente fechado, densa, com aquele fundo doce de cinzeiro esquecido. A cozinha da infância. O pai fumando de costas para ele. A mente dele fabricava a coisa inteira — gosto, calor nos pulmões, o silêncio que ele imaginava que a nicotina trazia — para um homem que nunca acendeu um na vida.
 
 *Não.*
 
@@ -47,7 +47,7 @@ Gabo segurou o braço dela. O material sintético era frio e duro sob a pele mac
 
 — Chega — ele rosnou. — Pare com isso.
 
-— Parar com o quê? — ela inclinou a cabeça. — De dizer a verdade? Você sempre odiou a verdade, Gabo. É por isso que você fuma. Ou fumava.
+— Parar com o quê? — ela inclinou a cabeça. — De dizer a verdade? Você sempre odiou a verdade, Gabo. É por isso que você ainda sente o cheiro dele. Trinta anos, e o seu pai ainda fuma dentro da sua cabeça.
 
 Gabo soltou o braço dela como se tivesse queimado a mão. Ele recuou, a respiração ofegante.
 

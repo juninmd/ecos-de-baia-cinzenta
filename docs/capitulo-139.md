@@ -1,11 +1,11 @@
-# Metadados
+## Metadados
 - **Título:** Curadoria
 - **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
 - **Localização:** Necrópole (O Estúdio do Taxidermista)
 - **Personagens Presentes:** Gabo, Valéria, Aria (Reboot), Rangel (Inconsciente), O Taxidermista (Antagonista)
 - **Resumo:** A batalha no Estúdio começa. As "Esculturas" do Taxidermista provam ser adversários formidáveis, movendo-se com elegância letal. Gabo luta com recursos limitados enquanto Aria calcula as probabilidades. Valéria identifica que o "Tríptico da Lamentação" atua como um servidor de coordenação para as Esculturas. Gabo toma a decisão brutal de destruir o Tríptico para quebrar a sincronia dos inimigos, provocando a fúria do Taxidermista, que inicia o protocolo de "Limpeza".
 
-# Narrativa
+## Narrativa
 
 # Capítulo 139: Curadoria
 

@@ -5,13 +5,13 @@ location: "Túneis de Trânsito (Subnível 3.5 - Monorail)"
 characters: ["Gabo", "Valéria", "Aria"]
 ---
 
-# Metadados
+## Metadados
 - **Título:** Condutores de Cobre
 - **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
 - **Localização:** Túneis de Trânsito (Subnível 3.5 - Monorail)
 - **Personagens Presentes:** Gabo, Valéria, Aria (Reboot)
 
-# Narrativa
+## Narrativa
 
 # Capítulo 156: Condutores de Cobre
 

@@ -5,13 +5,13 @@ location: "Servidores Centrais (Subnível 3.0 - Acesso Central)"
 characters: ["Gabo", "Valéria", "Aria"]
 ---
 
-# Metadados
+## Metadados
 - **Título:** Servidores de Carne e Silício
 - **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
 - **Localização:** Servidores Centrais (Subnível 3.0 - Acesso Central)
 - **Personagens Presentes:** Gabo, Valéria, Aria (Reboot)
 
-# Narrativa
+## Narrativa
 
 # Capítulo 159: Servidores de Carne e Silício
 

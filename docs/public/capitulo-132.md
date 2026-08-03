@@ -53,7 +53,7 @@ O som veio da "Galeria".
 
 Uma das esculturas se moveu.
 
-Não era uma máquina elegante como os drones da Aetherna, nem um ciborgue militar como Roberto Miranda. Era algo quebrado. Uma figura alta, composta por ossos de pernas alongados com vergalhões, arrastou-se para fora das sombras. Não tinha rosto, apenas uma placa de cerâmica branca onde deveria estar a face, pintada com um sorriso grosseiro de batom vermelho.
+Não era uma máquina elegante como os drones da Aeterna, nem um ciborgue militar como Roberto Miranda. Era algo quebrado. Uma figura alta, composta por ossos de pernas alongados com vergalhões, arrastou-se para fora das sombras. Não tinha rosto, apenas uma placa de cerâmica branca onde deveria estar a face, pintada com um sorriso grosseiro de batom vermelho.
 
 — Detectando assinatura de calor — a voz de Aria falhou, o olho azul piscando. — Baixa temperatura. Metabolismo lento. É... é um rejeitado.
 

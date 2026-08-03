@@ -1,11 +1,11 @@
-# Metadados
+## Metadados
 - **Título:** Tensão de Ruptura
 - **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
 - **Localização:** Necrópole (Subnível 7 - Poços de Ventilação da Aeterna Corp)
 - **Personagens Presentes:** Gabo, Valéria, Aria (Reboot), Rangel (Inconsciente)
 - **Resumo:** Após o ataque brutal dos drones Scarab, a exaustão física e psicológica ameaça engolir o grupo. Pendurados no escuro e com os músculos em colapso, Gabo luta para carregar Rangel. A umidade sufocante e o cheiro de oxidação induzem alucinações e náuseas em Gabo, que combate o fantasma do fumo mergulhando na dor lacerante de sua mão queimada. Valéria atinge o limite do estresse cognitivo, enquanto a frieza robótica de Aria traça o caminho, revelando a crueza do instinto de sobrevivência na verticalidade esquecida de Baía Cinzenta.
 
-# Narrativa
+## Narrativa
 
 # Capítulo 144: Tensão de Ruptura
 

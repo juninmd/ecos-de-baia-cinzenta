@@ -1,11 +1,11 @@
-# Metadados
+## Metadados
 - **Título:** Veias de Vidro
 - **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
 - **Localização:** Necrópole (Subnível 7 - Poços de Ventilação da Aeterna Corp)
 - **Personagens Presentes:** Gabo, Valéria, Aria (Reboot), Rangel (Inconsciente)
 - **Resumo:** Com Valéria conectada aos cabos de fibra ótica da antiga Aeterna Corp, o grupo inicia a difícil escalada pelos poços de ventilação, buscando um caminho de volta. Gabo carrega o peso do inspetor moribundo em meio à dor excruciante das mãos em carne viva. A interferência local logo atrai a atenção não apenas do Taxidermista, mas de antigas defesas autônomas corporativas — drones de manutenção aracnídeos corrompidos pelo tempo, forçando-os a um combate letal nas paredes do fosso escuro.
 
-# Narrativa
+## Narrativa
 
 # Capítulo 142: Veias de Vidro
 

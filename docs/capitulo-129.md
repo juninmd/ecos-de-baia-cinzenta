@@ -9,6 +9,8 @@ characters:
   - Rangel (Inconsciente)
 ---
 
+# Capítulo 129: Fluxo Reverso
+
 O calor ali embaixo não era apenas temperatura; era uma pressão física. O ar vibrava com o *thump-thump* colossal dos pistões, um ritmo que Gabo sentia nos dentes e na fratura recém-adquirida no antebraço.
 
 Ele apertou o torniquete improvisado com um pedaço de camisa rasgada. O sangue da mordida da Quimera já estava escuro e coagulado, misturando-se à graxa do esgoto. A dor era aguda, latejante, uma âncora necessária. Sempre que sua mente vagava para o cheiro adocicado e enjoativo do fluido que corria nos tubos — um cheiro que lembrava fumaça de incenso barato e carne queimada —, ele apertava o *Colar de Sol* contra o peito até o metal frio morder a pele.

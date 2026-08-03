@@ -1,13 +1,13 @@
-# Metadados
-- **Título:** O Silêncio de Aetherna
+## Metadados
+- **Título:** O Silêncio de Aeterna
 - **Data In-Game:** 23 de Novembro, 00:15
 - **Localização:** Distrito Industrial - Perímetro Externo da Usina Prometeu
 - **Personagens Presentes:** Gabo Moretti, Valéria Cruz, Inspetor Rangel, Aria (Inerte).
 - **Resumo:** O grupo enfrenta a realidade brutal de uma cidade sem energia e sem lei. Rangel sucumbe aos ferimentos. Gabo utiliza habilidades analógicas para garantir um meio de transporte e manter a coesão do grupo em meio ao caos silencioso.
 
-# Narrativa
+## Narrativa
 
-# Capítulo 120: O Silêncio de Aetherna
+# Capítulo 120: O Silêncio de Aeterna
 
 A chuva não era mais apenas água. Era um véu frio que lavava o pecado da cidade, transformando a fuligem em lama negra sob suas botas.
 
@@ -29,7 +29,7 @@ Gabo olhou ao redor. A escuridão era absoluta, quebrada apenas pelos relâmpago
 
 — Não podemos ficar aqui — disse Valéria, sua voz tremendo levemente. Ela olhava para as sombras com a paranoia de quem sabe o que vive no escuro. — Sem a vigilância da Aeterna, as gangues vão sair das tocas. Os Saqueadores...
 
-— Ela tem razão — Gabo se levantou. Ele passou a mão no bolso, os dedos roçando o maço de cigarros fantasma que não estava lá. O vício arranhou sua garganta, uma coceira desesperada por nicotina para acalmar o tremor nas mãos.
+— Ela tem razão — Gabo se levantou. Ele passou a mão no bolso, os dedos roçando o maço de cigarros fantasma que nunca estivera lá — ele jamais comprara um. A alucinação arranhou sua garganta assim mesmo, uma coceira que pedia algo que ele nunca provou para acalmar o tremor nas mãos.
 
 Ele fechou os olhos e apertou o *Colar de Sol* contra o esterno. A queimadura do metal foi um lembrete: *Dor é realidade. Fumaça é fuga.*
 

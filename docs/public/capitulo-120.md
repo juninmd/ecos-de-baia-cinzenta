@@ -1,5 +1,5 @@
 # Metadados
-- **Título:** O Silêncio de Aetherna
+- **Título:** O Silêncio de Aeterna
 - **Data In-Game:** 23 de Novembro, 00:15
 - **Localização:** Distrito Industrial - Perímetro Externo da Usina Prometeu
 - **Personagens Presentes:** Gabo Moretti, Valéria Cruz, Inspetor Rangel, Aria (Inerte).
@@ -7,7 +7,7 @@
 
 # Narrativa
 
-# Capítulo 120: O Silêncio de Aetherna
+# Capítulo 120: O Silêncio de Aeterna
 
 A chuva não era mais apenas água. Era um véu frio que lavava o pecado da cidade, transformando a fuligem em lama negra sob suas botas.
 

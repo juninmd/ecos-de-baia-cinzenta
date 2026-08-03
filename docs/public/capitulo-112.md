@@ -49,7 +49,7 @@ Ele abriu a pasta sob o toldo podre do armazém.
 
 — Medo de quê? — perguntou Gabo, observando o céu em busca de drones.
 
-— Do próprio filho — Rangel apontou para um parágrafo sublinhado em vermelho desbotado. — Dante nasceu doente. Uma condição degenerativa rara. Marco usou a tecnologia da Aetherna para salvá-lo, mas ele sabia que Viktor Krell iria querer cobrar o favor. E ele sabia que Dante, uma vez "melhorado", seria incontrolável.
+— Do próprio filho — Rangel apontou para um parágrafo sublinhado em vermelho desbotado. — Dante nasceu doente. Uma condição degenerativa rara. Marco usou a tecnologia da Aeterna para salvá-lo, mas ele sabia que Viktor Krell iria querer cobrar o favor. E ele sabia que Dante, uma vez "melhorado", seria incontrolável.
 
 Rangel olhou para o grupo.
 

@@ -1,10 +1,10 @@
-# Metadados
+## Metadados
 - **Título:** O Paradoxo da Eficiência
 - **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
 - **Localização:** Necrópole (Subnível 6.0 - Setor de Purga)
 - **Personagens Presentes:** Gabo, Valéria, Aria (Reboot), Rangel (Corpo)
 
-# Narrativa
+## Narrativa
 
 # Capítulo 151: O Paradoxo da Eficiência
 

@@ -5,13 +5,13 @@ location: "Túneis de Trânsito (Subnível 3.0 - Monorail)"
 characters: ["Gabo", "Valéria", "Aria"]
 ---
 
-# Metadados
+## Metadados
 - **Título:** A Inércia do Caos
 - **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
 - **Localização:** Túneis de Trânsito (Subnível 3.0 - Monorail)
 - **Personagens Presentes:** Gabo, Valéria, Aria (Reboot)
 
-# Narrativa
+## Narrativa
 
 # Capítulo 157: A Inércia do Caos
 

@@ -421,7 +421,7 @@ Este documento mantém um registro da avaliação de qualidade narrativa, ritmo 
 * **Pontos Fracos:**
   * O capítulo é curto e o ritmo acelera transições importantes.
 
-### Capítulo 47: Cerco Anfíbio
+### Capítulo 47: O Mecanismo da Queda
 * **Nota:** ⭐ **8.7/10**
 * **Pontos Fortes:**
   * **Ação Consequente:** Conflitos físicos com impacto e custo real.
@@ -1089,7 +1089,7 @@ Este documento mantém um registro da avaliação de qualidade narrativa, ritmo 
   * O capítulo é curto e serve mais como um epílogo do evento "Usina".
 
 
-### Capítulo 120: O Silêncio de Aetherna
+### Capítulo 120: O Silêncio de Aeterna
 * **Nota:** ⭐ **9.5/10**
 * **Pontos Fortes:**
   * **Atmosfera:** O conceito do silêncio como uma presença física é executado com maestria.

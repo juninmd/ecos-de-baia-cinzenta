@@ -9,6 +9,8 @@ characters:
   - Rangel (Inconsciente)
 ---
 
+# Capítulo 128: O Ventre da Besta
+
 O cheiro não era apenas de podridão; era de tempo estagnado. Uma mistura de lodo antigo, cobre oxidado e algo adocicado que Gabo conhecia muito bem: carne em decomposição. Mas não havia espaço para o olfato processar o nojo. Seus outros sentidos estavam gritando.
 
 A escuridão das "Catedrais de Pedra" não era vazia. Ela rosnava.
@@ -33,7 +35,7 @@ Gabo não atirou. Ele esperou. O ar fétido do esgoto agitou-se com o salto da b
 
 Mas os outros não recuaram. Eles avançaram em uníssono.
 
-— Três na esquerda. Dois na direita. — Aria/Bia narrava como se fosse um jogo. — Seus reflexos estão lentos, amor. A idade pesa, né? Ou é a falta de nicotina tremendo sua mão?
+— Três na esquerda. Dois na direita. — Aria/Bia narrava como se fosse um jogo. — Seus reflexos estão lentos, amor. A idade pesa, né? Ou é o cigarro do seu pai tremendo sua mão de novo?
 
 Gabo ignorou a provocação, sentindo apenas o gosto de bile subir à garganta. A menção ao cigarro evocava memórias de cinzeiros transbordando e negligência, não desejo. Ele converteu a repulsa em foco. Ele girou, disparando o penúltimo cartucho na massa de corpos à esquerda. O estrondo foi ensurdecedor no túnel fechado. Chumbo grosso rasgou carne e metal, transformando dois dos atacantes em uma polpa indistinta.
 
