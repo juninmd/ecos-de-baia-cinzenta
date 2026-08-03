@@ -1,4 +1,5 @@
 import json
+from datetime import timedelta
 
 import pytest
 
@@ -6,24 +7,39 @@ from scripts.daily_telegram import art, chapter, state, video
 from scripts.daily_telegram.telegram import split_text
 
 
-def test_pick_next_starts_at_first_chapter():
-    assert state.pick_next([3, 1, 2], {"last_sent": None}) == 1
+def test_pick_for_date_comeca_no_primeiro_capitulo():
+    assert state.pick_for_date([3, 1, 2], state.PRIMEIRO_ENVIO) == 1
 
 
-def test_pick_next_advances():
-    assert state.pick_next([1, 2, 3], {"last_sent": 2}) == 3
+def test_pick_for_date_avanca_um_por_dia():
+    """O bug que motivou isto: a fila reenviava o mesmo capítulo todo dia."""
+    disponiveis = [1, 2, 3, 4, 5]
+    enviados = [
+        state.pick_for_date(disponiveis, state.PRIMEIRO_ENVIO + timedelta(days=n))
+        for n in range(5)
+    ]
+    assert enviados == [1, 2, 3, 4, 5]
 
 
-def test_pick_next_wraps_when_finished():
-    assert state.pick_next([1, 2, 3], {"last_sent": 3}) == 1
+def test_pick_for_date_pula_o_dia_que_falhou():
+    """Dia perdido não reenvia o anterior: a data manda, não o último sucesso."""
+    assert state.pick_for_date([1, 2, 3], state.PRIMEIRO_ENVIO + timedelta(days=2)) == 3
 
 
-def test_pick_next_skips_gaps():
-    assert state.pick_next([1, 5, 9], {"last_sent": 2}) == 5
+def test_pick_for_date_respeita_buracos_na_numeracao():
+    assert state.pick_for_date([1, 5, 9], state.PRIMEIRO_ENVIO + timedelta(days=1)) == 5
 
 
-def test_pick_next_without_chapters():
-    assert state.pick_next([], {"last_sent": None}) is None
+def test_pick_for_date_reinicia_no_fim_da_obra():
+    assert state.pick_for_date([1, 2, 3], state.PRIMEIRO_ENVIO + timedelta(days=3)) == 1
+
+
+def test_pick_for_date_antes_do_primeiro_envio():
+    assert state.pick_for_date([1, 2, 3], state.PRIMEIRO_ENVIO - timedelta(days=5)) == 1
+
+
+def test_pick_for_date_sem_capitulos():
+    assert state.pick_for_date([], state.PRIMEIRO_ENVIO) is None
 
 
 def test_load_state_handles_corrupted_file(tmp_path):

@@ -36,7 +36,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 45
     permissions:
-      contents: write
+      contents: read
     steps:
       - uses: actions/checkout@v7
 
@@ -64,15 +64,7 @@ jobs:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: python -m scripts.daily_telegram.main ${{ steps.args.outputs.value }}
 
-      - name: Persist delivery state
-        if: ${{ inputs.dry_run != true }}
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add .daily_telegram_state.json
-          if git diff --cached --quiet; then
-            echo "Nenhuma mudança de estado."
-          else
-            git commit -m "chore(telegram): estado de envio atualizado [skip ci]"
-            git push
-          fi
+      # Não existe passo de persistência: o capítulo do dia é derivado da data
+      # em scripts/daily_telegram/state.py. A versão anterior commitava o
+      # progresso e dava `git push` no master, que é protegido — o push falhava
+      # com GH006 em todo run desde 27/07 e a fila reenviava o mesmo capítulo.
