@@ -13,6 +13,8 @@ characters: ["Gabo", "Valéria", "Aria"]
 
 ## Narrativa
 
+# Capítulo 164: O Cofre de Concreto
+
 O silêncio do Subnível 2.0 não era como o dos andares inferiores. Não havia o eco úmido de goteiras ou o zumbido distante de maquinário canibalizando a si mesmo. Era um silêncio acústico, opressor, projetado para absorver som e segredos. O elevador de manutenção rangeu uma última vez antes de travar no lugar com um baque seco que reverberou pelos ossos exaustos de Gabo.
 
 À frente deles, as portas de aço escovado do Arquivo Executivo da Aeterna Corp estavam entreabertas, travadas por detritos acumulados ao longo das décadas. A luz de emergência piscava em um ritmo arrítmico, banhando o saguão de recepção em tons doentios de âmbar.

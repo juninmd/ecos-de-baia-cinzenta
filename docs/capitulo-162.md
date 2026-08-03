@@ -5,13 +5,13 @@ location: "Servidores Centrais (Subnível 3.0 - Acesso Central)"
 characters: ["Gabo", "Valéria", "Aria"]
 ---
 
-# Metadados
+## Metadados
 - **Título:** Engrenagens Cegas
 - **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
 - **Localização:** Firewall Mecânico dos Servidores Centrais (Subnível 3.0)
 - **Personagens Presentes:** Gabo, Valéria, Aria (Reboot)
 
-# Narrativa
+## Narrativa
 
 # Capítulo 162: Engrenagens Cegas
 

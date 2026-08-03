@@ -1,11 +1,11 @@
-# Metadados
+## Metadados
 - **Título:** Vértigem de Sílica
 - **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
 - **Localização:** Necrópole (Subnível 7 - Poços de Ventilação da Aeterna Corp)
 - **Personagens Presentes:** Gabo, Valéria, Aria (Reboot), Rangel (Inconsciente)
 - **Resumo:** Pendurados nos cabos de fibra ótica da antiga Aeterna Corp, o grupo é emboscado por drones corporativos "Scarab" corrompidos pelo Taxidermista. Gabo luta pela própria vida e pela de Rangel usando apenas um braço, apoiando-se na dor excruciante das queimaduras para silenciar o medo e o cheiro nauseante de fumaça fantasma. Aria demonstra uma precisão fria e letal, enquanto Valéria tenta hackear a matriz neural improvisada através da infraestrutura envelhecida. O grupo consegue neutralizar a ameaça imediata, mas não sem esgotar ainda mais os parcos recursos que lhes restam.
 
-# Narrativa
+## Narrativa
 
 # Capítulo 143: Vértigem de Sílica
 

@@ -13,6 +13,8 @@ characters: ["Gabo", "Valéria", "Aria"]
 
 ## Narrativa
 
+# Capítulo 167: O Grito no Silício
+
 O Aeterna Sentinel avançava com a inexorabilidade de uma geleira de titânio. Cada rotação de suas esteiras esmagava o silêncio do Arquivo Executivo, acompanhada pelo zumbido elétrico de seus sistemas de armas carregando. Não havia hesitação, não havia sadismo. Era apenas o peso bruto da lógica corporativa projetada para aniquilar intrusos.
 
 Aria permanecia flutuando entre a máquina colossal e os dois humanos, sua estrutura levitando sem demonstrar urgência. — *Probabilidade de sucesso de intrusão direta na infraestrutura alfa-sete: 0,02%,* — ela relatou, sua voz mantendo a cadência perfeita e desprovida de emoção. — *Risco de deleção de meu núcleo matriz: Crítico. Este curso de ação contraria a otimização de sobrevivência.*

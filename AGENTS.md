@@ -38,6 +38,14 @@
 2. **`docs/personagens.md` é a fonte da verdade.** Vestuário, cabelo, olhos, porte e marcas
    distintivas vão sempre no prompt, com **vestuário primeiro** — é o traço que os modelos mais
    trocam por conta própria.
+   - **Todo personagem tem retrato.** Perfil novo entra com `![Nome](/personagens/slug.png)` e
+     um campo `**Prompt Visual:**` — a descrição física traduzida para inglês, porque o CLIP é
+     treinado em inglês e ignora metade do português. Depois é só rodar
+     `python -m scripts.art_gen.portraits`, que gera só o que falta, com seed determinística.
+   - **O `Prompt Visual` tem que caber em 77 tokens.** É onde os dois encoders do SDXL cortam;
+     acima disso os últimos traços somem em silêncio. O gerador avisa quando estoura.
+   - `tests/test_personagens_dossie.py` trava as duas coisas: perfil sem retrato no disco ou
+     sem campo visual obrigatório quebra a build.
 3. **Retrato de referência é imutável.** Nunca sobrescreva um arquivo de
    `docs/public/personagens/`. Novo visual canônico = arquivo novo com sufixo
    (`elena_2.png`) + registro na "Linha do Tempo e Evolução Visual" do personagem.

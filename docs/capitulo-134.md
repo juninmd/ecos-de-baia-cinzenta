@@ -1,11 +1,11 @@
-# Metadados
+## Metadados
 - **Título:** Vale da Estranheza
 - **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
 - **Localização:** Necrópole (O Ateliê do Taxidermista)
 - **Personagens Presentes:** Gabo, Valéria, Aria (Reboot), Rangel (Inconsciente), Guardiões Modificados
 - **Resumo:** O Taxidermista libera seus Guardiões Modificados para proteger a "Obra-Prima". Gabo luta desesperadamente para ganhar tempo enquanto Valéria tenta desconectar Aria do transe provocado pela réplica de Bia. O confronto culmina no reboot frio e calculado de Aria, que rejeita a falsa humanidade oferecida pelo inimigo.
 
-# Narrativa
+## Narrativa
 
 # Capítulo 134: Vale da Estranheza
 

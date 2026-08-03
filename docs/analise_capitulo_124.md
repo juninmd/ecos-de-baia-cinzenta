@@ -29,7 +29,7 @@
 *   **Show, Don't Tell:** A gravidade da situação de Rangel é mostrada através do cheiro e da textura da ferida, não apenas dita.
 
 ### Pontos Fracos / Oportunidades
-*   **Escopo Limitado:** É um capítulo de transição e estabilização ("Bridge Chapter"). Não avança a macro-trama (Dante/Aetherna), mas resolve a urgência imediata (Rangel).
+*   **Escopo Limitado:** É um capítulo de transição e estabilização ("Bridge Chapter"). Não avança a macro-trama (Dante/Aeterna), mas resolve a urgência imediata (Rangel).
 *   **Aria:** Ela permanece passiva (inerte). Embora justificado pela narrativa, sua ausência ativa diminui um pouco a complexidade das interações do grupo.
 
 ## Auditoria de Coerência (Sanity Check)
@@ -48,6 +48,6 @@
     *   *Novo Conceito:* "Dívida Técnica" aplicada à alma (Valéria sobre Aria).
 
 ## Próximos Passos Sugeridos
-*   Explorar o despertar de Dante ou a reação da Aetherna ao apagão.
+*   Explorar o despertar de Dante ou a reação da Aeterna ao apagão.
 *   O "sonho" ou subrotina de Aria enquanto ela está offline.
 *   A escassez de recursos no esconderijo.

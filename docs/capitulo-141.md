@@ -1,11 +1,11 @@
-# Metadados
+## Metadados
 - **Título:** Raízes Amargas
 - **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
 - **Localização:** Necrópole (Subnível 7 - Lixão de Ossos)
 - **Personagens Presentes:** Gabo, Valéria, Aria (Reboot), Rangel (Inconsciente)
 - **Resumo:** No Subnível 7, o grupo se recupera da fuga pelo duto de descarte. A escuridão é quase total, quebrada apenas pela luz tática de Valéria. Gabo luta com as queimaduras nas mãos, usando a dor como um escudo contra o vício. Aria, com sua nova lógica implacável, faz uma triagem dos recursos e descobre antigos cabos de fibra ótica preservados em um sarcófago entre os restos mortais. O achado revela que o Taxidermista não construiu seu estúdio sobre o nada, mas sobre uma infraestrutura esquecida da velha Aeterna Corp. Valéria usa os cabos para tentar estabilizar uma improvisada rede local, e eles se preparam para a escalada de volta.
 
-# Narrativa
+## Narrativa
 
 # Capítulo 141: Raízes Amargas
 

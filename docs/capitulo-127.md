@@ -1,11 +1,11 @@
-# Metadados
+## Metadados
 - **Título:** Catedrais de Pedra
 - **Data In-Game:** 23 de Novembro, 07:15
 - **Localização:** Nível 5 - Drenagem Profunda (As Catedrais de Pedra)
 - **Personagens Presentes:** Gabo Moretti, Valéria Cruz, Aria (Instável), Rangel (Crítico).
 - **Resumo:** O grupo desce às profundezas esquecidas de Baía Cinzenta. No silêncio monumental das "Catedrais de Pedra", Gabo enfrenta não apenas a exaustão física de carregar Rangel, mas o terror psicológico de ter Aria agindo como uma Bia Vargas infantilizada e confusa. A escuridão do Nível 5 oferece esconderijo, mas também desperta ecos do passado que deveriam permanecer enterrados.
 
-# Narrativa
+## Narrativa
 
 # Capítulo 127: Catedrais de Pedra
 

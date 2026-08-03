@@ -1,13 +1,15 @@
 ---
 image: /capitulo_122.jpg
----# Metadados
+---
+
+## Metadados
 - **Título:** Dívida Técnica
 - **Data In-Game:** 23 de Novembro, 03:45
 - **Localização:** O Fliperama (Esgotos / Subnível do Distrito Industrial)
 - **Personagens Presentes:** Gabo Moretti, Valéria Cruz, Inspetor Rangel (Estável/Precário), Aria (Offline/Fragmentada).
 - **Resumo:** O pós-operatório improvisado deixa marcas físicas e psicológicas no grupo. Enquanto Rangel luta contra a febre, Valéria explica o conceito de "dívida técnica" ao tentar reparar Aria, traçando um paralelo sombrio entre o código quebrado da androide e as escolhas morais que fizeram para derrubar Dante. Gabo enfrenta seus demônios internos sem nicotina.
 
-# Narrativa
+## Narrativa
 
 # Capítulo 122: Dívida Técnica
 
@@ -37,9 +39,9 @@ Valéria apontou para a tela cheia de erros hexadecimais vermelhos.
 
 — O que fizemos com Aria na usina... usar ela como para-raios para o feedback neural de milhares de mentes... foi o maior empréstimo que já vi.
 
-Gabo sentiu a garganta secar. A necessidade de fumar veio como um soco físico no diafragma. Ele podia sentir o gosto fantasma do tabaco na língua, a promessa de alívio químico para a tensão que retorcia seus músculos.
+Gabo sentiu a garganta secar. O gosto de tabaco surgiu na língua sem nenhum cigarro por perto, tão convincente que a boca dele salivou — a mesma alucinação de sempre, prometendo um alívio químico que ele jamais experimentou e que o próprio cérebro havia inventado a partir da fumaça do pai.
 
-Sua mão foi instintivamente para o bolso, mas parou no meio do caminho. *Não.*
+Sua mão foi instintivamente para o bolso onde nunca houve maço nenhum, mas parou no meio do caminho. *Não.*
 
 Ele desviou o movimento e agarrou o *Colar de Sol* sob a camisa. Apertou o metal até as arestas machucarem a palma da mão. A dor era uma âncora.
 

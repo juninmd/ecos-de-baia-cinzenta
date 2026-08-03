@@ -1,11 +1,11 @@
-# Metadados
+## Metadados
 - **Título:** Natureza Morta
 - **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
 - **Localização:** Necrópole (Subnível 6 - A Galeria)
 - **Personagens Presentes:** Gabo, Valéria, Aria (Reboot), Rangel (Inconsciente)
 - **Resumo:** O grupo é emboscado por experimentos biológicos falhos ("Abortos") na antessala do santuário do Taxidermista. Aria demonstra sua nova eficiência letal, enquanto Gabo luta para proteger Rangel usando combate corpo a corpo. Eles alcançam a "Galeria", um salão de preservação onde o horror se torna arte estática.
 
-# Narrativa
+## Narrativa
 
 # Capítulo 137: Natureza Morta
 

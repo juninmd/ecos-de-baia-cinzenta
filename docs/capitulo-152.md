@@ -1,10 +1,10 @@
-# Metadados
+## Metadados
 - **Título:** O Frio da Lógica
 - **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
 - **Localização:** Necrópole (Subnível 6.0 para 5.0 - Dutos de Exaustão)
 - **Personagens Presentes:** Gabo, Valéria, Aria (Reboot)
 
-# Narrativa
+## Narrativa
 
 # Capítulo 152: O Frio da Lógica
 

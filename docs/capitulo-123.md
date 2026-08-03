@@ -1,11 +1,11 @@
-# Metadados
+## Metadados
 - **Título:** Protocolo de Sombra
 - **Data In-Game:** 23 de Novembro, 04:30
 - **Localização:** Distrito 4 (Zona Comercial Abandonada / Clínica de Vasco)
 - **Personagens Presentes:** Gabo Moretti, Vasco (Novo - Traficante de Implantes), Saqueadores (Antagonistas).
 - **Resumo:** Gabo emerge na superfície do Distrito 4 para encontrar uma cidade mergulhada no caos do apagão. Ele negocia suprimentos médicos e peças para Aria com Vasco, um "açougueiro de silício", e enfrenta um grupo de saqueadores na saída, racionando munição e usando a escuridão como arma.
 
-# Narrativa
+## Narrativa
 
 # Capítulo 123: Protocolo de Sombra
 

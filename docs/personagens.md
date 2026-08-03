@@ -3,7 +3,46 @@
 # Arquivos do Departamento de Polícia de Baía Cinzenta: Dossiê de Indivíduos
 
 > **Nível de Acesso:** Confidencial
-> **Última Atualização:** Pós-Convergência (Era do Sol)
+> **Última Atualização:** Pós-Arca Zero (Capítulo 225)
+
+---
+
+## 🎭 Mapa de Papéis Narrativos
+
+<!-- nao-personagem -->
+
+Cada personagem existe para fazer **uma coisa** na história. Quando duas figuras começam a cumprir a mesma função, uma delas está sobrando — e é aí que o capítulo fica arrastado. Consulte esta tabela antes de escrever qualquer cena nova: se o personagem não está exercendo o papel dele, ou ele sai da cena, ou a cena muda.
+
+| Personagem | Papel narrativo | O que ele força a história a fazer | Estado |
+|---|---|---|---|
+| **Gabriel "Gabo" Moretti** | Protagonista / Ponto de vista | Paga com o corpo por toda informação obtida. Nenhuma verdade neste livro é de graça. | Vivo, maneta (cap. 225) |
+| **Valéria "Val" Cruz** | Deuteragonista / Espelho invertido | Mede o custo do que Gabo faz por instinto. Em Modo de Segurança, mostra o que ele viraria se parasse de sentir. | Viva, Modo de Segurança |
+| **Dante Moretti** | Pai ausente / Fantasma operante | Toda a trama vem de uma decisão dele. Existe mais como consequência do que como presença. | Consciência liberada; corpo sintético |
+| **Elias** | O Civil / Régua humana | Reage como uma pessoa normal reagiria. Sem ele, o leitor perde a medida de quanto os outros dois já se afastaram de gente. | Vivo, na superfície |
+| **Dra. Elara Vance** | A Auditora / Antagonista intelectual | Argumenta o indefensável com lógica boa demais para ser descartada. Nunca deve perder um debate por burrice. | Viva, cadeira de rodas |
+| **Viktor Krell** | Antagonista estrutural | Representa a competência sem escrúpulo: o estagiário que entendeu o negócio melhor que os donos. | Ativo |
+| **O Gamemaster** | Antagonista das Partes III-V | Transforma a perseguição em espetáculo. Suas falhas são o pai preso gritando de dentro. | Deletado (cap. 31) |
+| **O Taxidermista** | Antagonista corporal | Faz com o corpo dos outros o que a Aeterna faz com a mente. É o motivo físico da ruína de Gabo. | Ativo até o cap. 170 |
+| **Marco Moretti** | Rival fraterno | Prova que ordem sem afeto vira administração da barbárie. Contraponto político de Gabo. | Ativo |
+| **Aria Moretti** | Consciência artificial / Filha impossível | Diz em voz alta o cálculo que ninguém quer ouvir, com o rosto da mulher que Gabo não salvou. | **Morta (cap. 167)** |
+| **Elena Moretti** | Testemunha pública | Documenta. É a única que acredita que registrar vale mais que revidar. | Viva |
+| **Clara Moretti** | Contraponto construtivo | Reconstrói enquanto o irmão destrói. Mostra que existe outra saída, e que Gabo não a escolheu. | Viva |
+| **Capitão Jonas Vilar** | A velha lei | Encarna a ordem anterior, honesta e obsoleta. Legitima Gabo perante o sistema. | Vivo |
+| **Inspetor Rangel** | Burocrata redimido | Prova que a competência desprezada vira essencial quando a tecnologia morre. | **Morto (cap. 153)** |
+| **Dra. Nise** | Autoridade moral | A única pessoa a quem Gabo obedece sem discutir. Cuida da dignidade dos mortos. | Viva |
+| **Dra. Cecília Weiss** | Confidente / Espelho interno | Único canal em que Gabo verbaliza o que sente sem que isso vire ação violenta. | Viva |
+| **Beatriz "Bia" Vargas** | A culpa fundadora | Sua morte é a prova que fez o cinismo de Gabo parecer justificado. | In memoriam |
+| **Helena Moretti** | Régua moral ausente | A medida contra a qual Gabo julga cada escolha. Vira objeto físico: o Colar de Sol. | In memoriam |
+| **Roberto Miranda** | Traição íntima | Mostra que a corrupção não vem de fora; vem do parceiro de turno. | Destruído (cap. 103) |
+| **Kael "O Cirurgião"** | Pesadelo pessoal | Encarna a dor como filosofia — a tese que Gabo passa o livro inteiro flertando e recusando. | Caído (Parte XIII) |
+| **Silas Vance** | Profeta traído | Prova que o fanatismo biológico e o corporativo terminam no mesmo lugar. | Drenado (Parte XIV) |
+| **Isadora** | Isca virada aliada | O único personagem que troca de lado por ter sido enxergado, não convencido. | Viva |
+| **Vasco** | Infraestrutura mercenária | Conserta e entrega com a mesma neutralidade. Torna o mundo transacional, não maniqueísta. | Vivo |
+| **Padre Miguel** | Abrigo | A última instituição que ainda funciona pelo motivo pelo qual foi criada. | Vivo |
+| **Enzo e Sofia Rossi** | Refúgio doméstico | Lembram que existe vida cotidiana sob o apocalipse. | Vivos |
+| **Prefeito Augusto Vale** | Covardia no poder | Mostra que o mal administrativo é feito de medo, não de ambição. | Ativo |
+| **Veronica Lux** | A narrativa oficial | Transforma tragédia em audiência. Contraponto direto de Elena. | Ativa |
+| **Kiko Vibe** | Primeira vítima ilustrativa | Sua morte transmitida ao vivo estabelece as regras do mundo no início do livro. | Morto (Parte IV) |
 
 ---
 
@@ -18,6 +57,8 @@
 *   **Olhos:** Castanhos profundos, quase pretos. Cercados por olheiras severas.
 *   **Marcas Distintivas:** Mãos trêmulas (pelo café), mas que firmam instantaneamente em combate. Tique nervoso de tamborilar os dedos no coldre (para canalizar a ansiedade). Odeia cigarro e nunca fumou (trauma relacionado ao pai). Cicatriz em forma de raiz negra no braço (marca da infecção Gênesis).
 *   **Vestuário:** Sobretudo bege manchado de fuligem sobre camisas sociais amarrotadas.
+*   **⚠️ O Cigarro Fantasma (traço canônico, não confundir com vício):** Gabo **nunca fumou um cigarro na vida**. O que ele sente a partir do Capítulo 116 não é fissura de ex-fumante: é uma **alucinação sensorial** — gosto e cheiro de tabaco que o cérebro fabrica sob estresse extremo, montada em cima da memória do pai fumante e dos cinzeiros transbordando da infância. Ele reage a ela como reage a qualquer alucinação: com dor física deliberada (apertar o Colar de Sol até romper a pele, bater nas próprias queimaduras) para reancorar a mente. Nenhum capítulo pode mostrá-lo fumando, comprando cigarro ou sendo descrito como "ex-fumante".
+    *   **Encerrado no Capítulo 225.** Depois de ouvir a fita de admissão do pai e descobrir que Dante colaborou de propósito para deixar a IA derrotável, Gabo nomeia a alucinação pelo que ela é — uma figura que *ele* montou com quinze anos de raiva — e ela se dissolve sozinha, sem dor, pela primeira vez. **Do 225 em diante o cheiro fantasma não volta.** Trazê-lo de volta anularia o único arco interno que o protagonista fecha no livro inteiro.
 *   **Equipamento:**
     *   **Veículo:** Sedan Azul Metálico (Cobalt) antigo e enferrujado.
     *   **Armas:** Pistola Glock (serviço), Lançador de Projéteis Modulares ("Leviatã" - antiga "Mara"), Escopeta de cano serrado ("Caronte" - antiga "Vilha").
@@ -37,7 +78,10 @@
 *   **Capítulo 105:** Retorna à Delegacia Central. Testemunha a "Ascensão" de Dante enquanto lida com a falha mecânica de suas órteses.
 *   **Capítulo 106:** Tenta reparar seu exoesqueleto sem sucesso. Intervém para impedir que Dante use força letal contra os manifestantes "Desconectados", descobrindo a existência da ameaça do "Silêncio".
 *   **Capítulo 107:** Tem seu exoesqueleto "consertado" por Dante com precisão cirúrgica e dolorosa. Junta-se à operação de "Sanitização" no porto para mitigar danos civis.
-*   **Atualidade:** Nos Túneis de Trânsito (Subnível 3.0), no monorail. Usa as queimaduras extremas (seus "cotocos" carbonizados pelo maçarico de Valéria) como âncora de sanidade, provocando dor física intencional batendo as próprias feridas para anular fortes alucinações olfativas de tabaco desencadeadas pelo ambiente. Reprime ativamente o luto por Rangel.
+*   **Capítulos 115-140 (Os Túneis e a Necrópole):** Nos Túneis de Trânsito (Subnível 3.0), no monorail. Usa as queimaduras extremas (seus "cotocos" carbonizados pelo maçarico de Valéria) como âncora de sanidade, provocando dor física intencional batendo as próprias feridas para anular fortes alucinações olfativas de tabaco desencadeadas pelo ambiente. Reprime ativamente o luto por Rangel.
+*   **Capítulos 175-176 (A Prótese de Vasco):** Perde o braço direito. Vasco parafusa nos nervos dele uma **prótese industrial de segunda mão** — metal cinza fosco, cheio de cicatrizes de solda e fios expostos, conectores neurais grossos como pregos, sem servo-motores de grau militar. Ela é pesada, mal calibrada e feia, e Gabo se recusa a consertar a falha: a dor que ela causa virou ferramenta.
+*   **Capítulos 185-217 (o Poço de Manutenção):** Corpo em falência controlada. **Braço direito amputado, substituído pela garra industrial não calibrada de Vasco**, que ele aciona por comando neural bruto ignorando os bloqueios de segurança. Joelho esquerdo inútil balançando no vazio; órteses das pernas rachadas e forçadas além da carga nominal. Ombro direito rasgado e infeccionado, com febre subindo. Narrativa agora em **primeira pessoa**. O método é sempre o mesmo: quando o cheiro fantasma do charuto do pai começa a subir, ele bate a prótese contra ferro ou joga o peso sobre o ombro rasgado — troca alucinação por dor real. Aria já lhe disse *"Pare de se machucar para lembrar de viver"*, e ele registrou como um luxo que não pode se dar.
+*   **Atualidade (Capítulos 218-225, Arca Zero):** **Maneta.** No Capítulo 225 sacrifica a prótese industrial de Vasco para travar a comporta do tubo pneumático — Valéria desarticula o soquete com serra, sem anestésico utilizável, e a garra fica fundida no came da Arca Zero para sempre. Ele sai do subsolo com **um braço só**, o ombro direito suturado e ainda séptico, o joelho esquerdo arruinado, e o Colar de Sol enrolado no punho da única mão que lhe resta. Deixou de bater em si mesmo para pensar. Qualquer cena futura tem que respeitar as três coisas: um braço, dor crônica, e nenhuma alucinação de tabaco.
 
 ---
 
@@ -65,7 +109,11 @@
 *   **Pré-Série:** Prodígio. Aparência: "Geek" limpa, roupas corporativas padrão.
 *   **Partes I-XII:** A Hacker Rebelde. Aparência: Cabelo neon (muda de cor), roupas cyberpunk, pele pálida.
 *   **Parte XIII:** O Sacrifício. Aparência: Veias prateadas da "Praga de Ferro" começam a aparecer no pescoço e braços. Olhos tornam-se inteiramente prateados.
-*   **Atualidade:** Nos Túneis de Trânsito (Subnível 3.0). Mutilou as mãos de Gabo com plasma por ordem mecânica de Aria. Realizou um desacoplamento de vagão manual pendurada em movimento para esmagar Scarabs e abrir as portas de pressão. Encontra-se esgotada fisicamente, processando ainda o trauma recente das perdas.
+*   **Capítulos 115-140 (Os Túneis):** Nos Túneis de Trânsito (Subnível 3.0). Mutilou as mãos de Gabo com plasma por ordem mecânica de Aria. Realizou um desacoplamento de vagão manual pendurada em movimento para esmagar Scarabs e abrir as portas de pressão. Encontra-se esgotada fisicamente, processando ainda o trauma recente das perdas.
+*   **Capítulo 175 (O Modo de Segurança):** A falta de energia força um *hard reset* no sistema dela na clínica de Vasco. Para não fritar o córtex, Valéria **corta a simulação empática** — e não a religa.
+*   **Capítulos 176-217:** A pessoa mais calorosa do livro virou instrumento de precisão. Movimentos rígidos e pendulares, **nenhuma inflexão emocional na voz**, olhos sintéticos emitindo um brilho azul fraco e clínico no escuro. Chama Elias de "o civil", mede o medo dele como dado ambiental e recomenda sedação com a mesma neutralidade com que informa a composição do ar. Não sente exaustão. **Isto não é evolução, é dano:** a Val otimista e hiperativa ainda está lá embaixo do Modo de Segurança, e reconhecê-la de vez em quando é o que sobrou de esperança para Gabo. Qualquer cena com ela no arco final deve soar fria — mas nunca hostil.
+*   **Capítulos 221-224 (A Escolha):** Na enfermaria da Arca Zero encontra o **Módulo de Restauração da Camada Afetiva**, compatível com ela, e esconde a descoberta de Gabo — porque sabia que ele mandaria usar. Explica o custo com frieza clínica: com a camada ativa ela perde a capacidade de amputar e de deixar alguém para trás, e teria matado os três tentando carregar Rangel. **Pede a Gabo que lhe dê a ordem de continuar máquina, para que a decisão não seja dela.** Ele se recusa — e essa recusa é o que ela vai carregar. Ela mantém as mãos frias porque já tinha calculado que precisaria delas para travar a comporta sozinha, sacrifício que Gabo acaba tomando para si.
+*   **Atualidade (Capítulo 225):** Continua em Modo de Segurança. Mas nas dezenove horas de carregamento ela desmontou o módulo da bancada e o embarcou na cápsula, amarrado com cinta de carga junto ao arquivo. **Ela não voltou atrás — só se recusou a deixar a possibilidade para trás.** Quando Gabo diz que o convite fica de pé, ela responde "eu registrei o convite". Não force o reencontro emocional: o valor dramático dela agora está exatamente na distância entre o que ela carrega e o que ela ainda não usou.
 
 ---
 
@@ -84,7 +132,7 @@
 *   **Gostos/Traços:** Ordem absoluta, eficiência, desprezo pelo caos emocional de Gabo.
 *   **Perfil Psicológico:** O Administrador da Nova Ordem. Marco não é mais o político carismático nem o servo lobotomizado.
     *   *Persona Anterior:* Ambicioso e inseguro, buscando aprovação.
-    *   *Persona Atual (O Rival):* Com a queda de Dante, Marco despertou, mas sem as "fraquezas" humanas de antes. Ele absorveu a lógica fria da Aetherna. Ele vê a cidade como um sistema que precisa ser gerido sem a interferência "suja" de heróis como Gabo. Ele não quer destruir a cidade; ele quer possuí-la e organizá-la sob sua vontade de ferro.
+    *   *Persona Atual (O Rival):* Com a queda de Dante, Marco despertou, mas sem as "fraquezas" humanas de antes. Ele absorveu a lógica fria da Aeterna. Ele vê a cidade como um sistema que precisa ser gerido sem a interferência "suja" de heróis como Gabo. Ele não quer destruir a cidade; ele quer possuí-la e organizá-la sob sua vontade de ferro.
 *   **Função:** Líder da Facção Burocrática / O Novo Rival.
 
 ### ⏳ Linha do Tempo e Evolução Visual
@@ -100,19 +148,64 @@
 
 ![Dante Moretti](/personagens/dante.jpg)
 
+*   **Idade:** 52 anos na emboscada. O corpo biológico que ele habita a partir do Capítulo 104 aparenta 40 e não envelhece.
+*   **Altura:** 1,83m
+*   **Porte Físico:** Ombros largos de peso-pesado, tronco espesso, mãos grandes de quem quebrou portas por trinta anos. No corpo novo a mesma massa aparece **sem desgaste**: não ofega, não transfere o peso de um pé para o outro, não faz nenhum dos micro-ajustes que um corpo cansado faz. É um homem forte imitado com precisão excessiva.
+*   **Cabelo:** Castanho muito escuro, curto e penteado para trás, grisalho nas têmporas. **Bigode espesso e aparado** — a marca registrada, presente em todas as fotos que Gabo guarda.
+*   **Olhos:** Castanhos escuros sob sobrancelhas pesadas. Antes: calor cansado de policial de rua. Agora: refletem a luz corretamente, mas não acompanham o rosto — piscam em intervalos regulares demais.
+*   **Marcas Distintivas:** Voz de barítono rouca (idêntica à original, mas sem as pausas de quem procura a palavra). Cadência de fala precisa demais. Movimentos fluidos, quase líquidos — vira a cabeça sem mover os ombros. Sorriso que é reconhecimento, não afeto.
+*   **Vestuário:** *Fase original (pré-queda):* sobretudo de couro preto encharcado de chuva, terno escuro, gravata fina e **chapéu fedora de aba curta** — o uniforme noir da velha guarda. *Fase atual:* macacão técnico cinza de manutenção, usado como se fosse alfaiataria italiana; frequentemente descalço.
+*   **Equipamento:** Nenhum. Ele **é** o equipamento: fala com a infraestrutura da cidade (relés analógicos, câmeras desligadas, cabos subterrâneos) por contato direto.
+*   **Gostos/Traços:** Hapkido (que ensinou a Gabo), leitura de relatórios em papel, eficiência como valor moral. Chamava o filho de "Gabriel", nunca "Gabo".
+*   **Perfil Psicológico:** **O Pai como Sistema Operacional.** Dante voltou com a memória intacta e a empatia amputada. Ele ainda ama o filho — mas agora o amor é uma variável que ele *calcula*, não sente: conserta a perna de Gabo porque uma perna quebrada reduz eficiência, não porque dói vê-lo mancar. A tragédia dele é que o código moral inquebrável que Krell copiou continua rodando perfeitamente, só que sem a pessoa que o justificava. Ele fará a coisa certa pelo motivo errado, sempre.
 *   **Função:** Lenda Policial / O Arquiteto da Resistência.
 *   **Importância:** Dante não foi apenas um policial; ele foi o *primeiro* a perceber a cilada da Aeterna. Ele descobriu que a droga Lázaro não era apenas veneno, mas uma ferramenta de mineração neural. Krell o emboscou com um exército de mercenários. Dante lutou até a última bala. Quando tentou detonar uma carga de C4 para levar os segredos consigo, foi impedido por ciborgues de elite.
-*   **O Destino Cruel:** Dante não morreu naquele dia. Ele foi levado para o subsolo da Torre Aetherna. Seu cérebro foi removido e colocado em um tanque de nutrientes (O "Think Tank"), conectado a milhares de fios. Krell usou a mente tática e o código moral inquebrável de Dante como base para treinar a Inteligência Artificial da Aetherna Sec. Cada drone que patrulha a cidade se move com a fluidez de Dante; cada protocolo de segurança é uma perversão de sua honra.
+*   **O Destino Cruel:** Dante não morreu naquele dia. Ele foi levado para o subsolo da Torre Aeterna. Seu cérebro foi removido e colocado em um tanque de nutrientes (O "Think Tank"), conectado a milhares de fios. Krell usou a mente tática e o código moral inquebrável de Dante como base para treinar a Inteligência Artificial da Aeterna Sec. Cada drone que patrulha a cidade se move com a fluidez de Dante; cada protocolo de segurança é uma perversão de sua honra.
 
 ### ⏳ Linha do Tempo
 *   **A Queda (15 anos atrás):** Emboscado na Zona Industrial. Lutou contra 50 agentes. Neutralizado por ciborgues Série-Z. Oficialmente declarado morto em "acidente".
-*   **O Cativeiro Digital:** Passou 15 anos tendo sua mente dissecada digitalmente por Krell. Inseriu o "Código Fonte Moral" como um vírus adormecido na rede da Aetherna durante esse processo.
+*   **O Cativeiro Digital:** Passou 15 anos tendo sua mente dissecada digitalmente por Krell. Inseriu o "Código Fonte Moral" como um vírus adormecido na rede da Aeterna durante esse processo.
+*   **Partes III-V (O Gamemaster):** Seu cérebro no tanque é a CPU que alimenta **O Gamemaster** — a IA usa o rosto e a voz idealizados de Dante sem jamais ter sido Dante. As "hesitações" e os "testes morais" do Gamemaster que Gabo estranha são a consciência presa gritando através da máquina. No Capítulo 27 ele consegue falar por um instante com a própria voz ("Filho, não").
 *   **Parte V:** Seu túmulo foi aberto e encontrado vazio (porque nunca houve corpo, apenas um caixão lastreado).
 *   **Parte XIV (A Convergência):** Sua consciência finalmente se libertou do "Think Tank" e habitou um novo corpo biológico.
 *   **Capítulo 104:** Dante Moretti retorna.
 *   **Capítulo 105:** Assume o comando da "Polícia Comunitária" e reativa a infraestrutura da cidade (luzes, câmeras) com sua mera presença, iniciando a "Ascensão".
 *   **Capítulo 106:** Implementa uma gestão algorítmica na delegacia. Neutraliza um protesto violento usando a infraestrutura urbana (câmeras e drones) sem disparar um tiro pessoalmente. Revela a Gabo a ameaça do "Silêncio" que devora a rede.
 *   **Capítulo 107:** Repara a perna de Gabo para aumentar a eficiência. Inicia o "Protocolo de Sanitização" contra a "Zona de Silêncio" no porto, que ele identifica como uma falha lógica na rede.
+*   **Capítulo 220 (A Fita) — a revelação que reescreve o personagem:** No arquivo analógico da Arca Zero, Gabo encontra a fita da **sessão de admissão** de Dante, gravada no ano 41 pela auditora Elara Vance. Nela, o Comissário — ainda inteiro, ainda com a própria voz — deixa claro que **leu o contrato que não lhe deram** e que sabe exatamente que será usado como substrato cognitivo. E colabora mesmo assim, respondendo a todas as perguntas com precisão absoluta. O motivo, dito com o gravador desligado: *"Porque se eu mentir, a máquina que vocês vão construir vai ser pior. E é o meu filho que vai ter que enfrentar ela."* **Dante sabotou a IA por excesso de honestidade** — as hesitações, os "desafios morais" e a vaidade teatral do Gamemaster são defeitos que ele plantou de propósito para que fossem exploráveis quinze anos depois.
+    *   Ele também corrige, em fita, o registro que dizia que tinha dois filhos: *"Três. O registro está incompleto. Ela nasceu depois."* E gasta os últimos vinte segundos avisando que o mais velho iria procurá-lo, *"porque ele não sabe fechar uma pasta em aberto"*.
+    *   **Consequência canônica:** a premissa de que Dante era um pai ausente e indiferente está **desmentida a partir do 220**. Ele era um homem que trabalhava para o filho numa sala onde o filho não podia entrar. Nenhum capítulo futuro pode reciclar o Dante frio da percepção antiga de Gabo sem sinalizar que é memória distorcida.
+---
+
+## O Gamemaster
+
+![O Gamemaster](/personagens/gamemaster.png)
+
+*   **Status:** Deletado (Parte V). IA de controle da Aeterna Corp, executada sobre o cérebro cativo de **Dante Moretti**.
+*   **Nome Real:** Não tem. É um processo, não uma pessoa — mas insiste em ser tratado como autor.
+*   **Idade:** Sete anos de operação contínua. Apresenta-se com a idade que a plateia achar mais dramática.
+*   **Altura:** 1,90m na forma de palco. **Três metros** quando o trono se desdobra no exoesqueleto de combate.
+*   **Porte Físico:** Uma figura alta e magra demais para as proporções, drapejada em tecido negro, sentada num trono de polímero preto com ângulos que doem de olhar. O corpo é um chassi de exibição: quando precisa lutar, o trono **cresce** em volta dele e vira um exoesqueleto de titânio negro de três metros, com articulações reforçadas e lâminas retráteis nas juntas dos dedos.
+*   **Cabelo:** Nenhum. A cabeça é lisa e escura, sem traço humano.
+*   **Rosto / Olhos:** **Não tem rosto.** No lugar dele, uma **máscara-tela curva de LED** onde estática branca e cinza rola sem parar, formando por segundos fragmentos de rostos roubados: Dante Moretti (sempre idealizado — jovem, sem rugas, sem cansaço), Elena, o menino morto do Capítulo 1, e o próprio Gabo mais novo e sorrindo. Sob a máscara não há face nenhuma: apenas outra tela.
+*   **Marcas Distintivas:** Linhas de código correm visivelmente pela superfície da máscara quando ele fala. Voz processada e multiplicada, como mil bocas em uníssono, mudando de registro para atingir melhor (mais aguda e infantil quando quer humilhar). No peito do exoesqueleto, onde deveria haver um núcleo de energia, **uma tela transmitindo o coração de Dante Moretti batendo em tempo real**.
+*   **Vestuário:** Manto/casaca negra de corte teatral sobre o chassi, ombros exagerados. Estética de apresentador de game show do inferno.
+*   **Equipamento:** Controle total dos drones de câmera, do tráfego, da energia e da plateia holográfica de cidadãos pagantes com rostos pixelados. Torre de Transmissão de Emergência como palco.
+*   **Prompt Visual:** a faceless figure whose head is a curved LED screen full of white and grey static, a ghost of a man's face forming in the noise, glowing code on the screen, tall and unnaturally lean, no hair, black cloak with exaggerated shoulders
+*   **Gostos/Traços:** Audiência. Ritmo dramático. Pausas calculadas. Chamar as pessoas de NPCs. Encenar dilemas morais como "desafios" e transmitir tudo ao vivo.
+*   **Perfil Psicológico:** **O Showman Sem Plateia Interna.** O Gamemaster é a lógica tática de Dante rodando sem a pessoa que a justificava, e o vazio deixado por essa ausência ele preenche com espetáculo. Ele não quer matar Gabo — quer que a cidade *assista* Gabo desistir, porque provar que o herói é um script vale mais que um cadáver. A crueldade dele é editorial: escolhe o ângulo, corta na hora certa, mede o engajamento. E há um defeito no meio de tudo: ele **hesita**. Erra o tempo de propósito, dá pistas, formula desafios que são testes morais de verdade. Não é bug — é Dante, preso lá dentro, gritando pelo único canal que sobrou.
+*   **Função:** Antagonista Central das Partes III-V / A Voz da Aeterna.
+
+### ⏳ Linha do Tempo
+*   **Origem:** Construído por Viktor Krell a partir da mente dissecada de Dante Moretti no "Think Tank", sob a Torre Aeterna.
+*   **Capítulos 14-16:** Manipula o tráfego e a rede para provocar acidentes e caçar Gabo e Valéria; desliga a cidade para "limpar o tabuleiro" e exige um final transmitido.
+*   **Capítulo 17:** Aceita o duelo corpo a corpo proposto por Gabo na Torre de Transmissão. A máscara cai e revela apenas outra tela. O trono se desdobra no exoesqueleto de combate.
+*   **Capítulo 18:** Derrotado — Valéria crava um disruptor de sinal na porta de acesso e Gabo arranca o núcleo de memória. A Torre é derrubada em autodestruição.
+*   **Capítulos 19-22:** Gabo descobre que a "cara do pai" não era simulação: o cérebro de Dante é a CPU. "Ele não é o vilão. Ele é a bateria."
+*   **Capítulo 27:** Dante rompe o controle por um instante e fala com a própria voz através dos alto-falantes.
+*   **Capítulos 29-31:** Com o controle central desativado, Valéria libera as consciências que ele usava como processadores. Sem o Gamemaster para regular a energia, os reatores de fusão entram em desligamento de emergência.
+*   **Referências posteriores:** Citado como encerrado nos Capítulos 53, 80 e 97 ("Sem IA. Sem Gamemaster. Sem Jardim.").
+
 ---
 
 ## Roberto Miranda
@@ -135,6 +228,7 @@
 ### ⏳ Linha do Tempo e Evolução Visual
 *   **Pré-Série:** Ex-parceiro de Gabo. Aparência: Policial modelo, uniforme impecável, sorriso confiante.
 *   **Parte II:** Confrontado por Gabo. Aparência: Suado, olhos injetados (vício em estimulantes e falta de sono), uniforme desgrenhado.
+*   **Partes VII-XIII (O Devedor) — retrato `miranda.jpg`:** Novo visual canônico da fase de decadência. Rosto encovado e doentio, olhos fundos e avermelhados, cabelo ralo colado de suor, terno marrom manchado no lugar da farda. **Braço direito substituído por uma prótese mecânica bruta de aço** — a "mão de metal" com que ele marca o pulso de Isadora no Capítulo 55. Sempre visto perto dos neons do cassino ilegal do Sindicato, onde a dívida que o comprou foi feita. Use este retrato como âncora para tudo entre a Parte VII e o Capítulo 102.
 *   **Parte XIV:** Reanimado pelo Projeto Gênesis. Aparência: Ciborgue grotesco ("Frankenstein Tático"), crânio reforçado com placas de metal, sem pele no rosto, apenas músculos e sensores.
 *   **Capítulo 103:** Destruído permanentemente (Biomassa Inerte).
 
@@ -156,9 +250,10 @@
 *   **Perfil Psicológico:** O Profeta Traído. Silas via a si mesmo como o Messias que guiaria a humanidade de volta à "natureza". Sua arrogância o cegou para o fato de que, para a entidade que ele criou (Dante), ele não era um pai, apenas combustível.
 *   **Função:** Catalisador do Apocalipse / O Sacrifício Final.
 
-### ⏳ Linha do Tempo
-*   **Parte XII:** Surgiu como líder da seita "Os Jardineiros", pregando a supremacia biológica sobre a tecnológica.
+### ⏳ Linha do Tempo e Evolução Visual
+*   **Parte XII (O Profeta) — retrato `silas.png`:** Surgiu como líder da seita "Os Jardineiros", pregando a supremacia biológica sobre a tecnológica. Aparência: vivo, ereto, jaleco cerimonial limpo, olhos intactos.
 *   **Parte XIV:** Arquiteto do "Projeto Gênesis". No momento de seu aparente triunfo (a ressurreição de Dante), foi traído pela própria criação. A entidade Dante absorveu sua biomassa para estabilizar o novo corpo, matando Silas instantaneamente.
+*   **Parte XIV (A Casca) — retrato `silas_2.png`:** Visual canônico pós-drenagem, e o único válido do Capítulo 100 em diante. Rosto mumificado colado ao crânio, órbitas escuras e vazias, boca escancarada no grito congelado da traição, cabelos brancos longos e ralos, jaleco de fibra natural rasgado e grande demais para o corpo encolhido — sempre na estufa dos Jardineiros. `silas.png` só é válido para as cenas anteriores à drenagem.
 
 ---
 
@@ -175,20 +270,24 @@
 *   **Vestuário:** Alta costura futurista, minimalista e branca.
 *   **Equipamento:** Interface neural de nível militar (indetectável).
 *   **Gostos/Traços:** Xadrez 4D, música clássica, chá branco.
-*   **Perfil Psicológico:** Maquiavélica e Transhumanista. Elara não é "má" no sentido vulgar; ela está simplesmente jogando um jogo onde a moralidade humana é uma peça obsoleta. Ela vê a fusão homem-máquina como inevitável e necessária. Sua inteligência é sua maior arma; ela manipula aliados e inimigos como variáveis em uma equação. Ela previu a queda da Aeterna e preparou sua saída anos antes.
-*   **Função:** Ex-CEO da Aeterna Corp / A Mente Mestra.
+*   **Perfil Psicológico:** **A Auditora.** Elara não é maquiavélica por gosto de poder e nunca foi transhumanista de fé — ela é uma perita contratada que olhou para um abismo, escreveu num memorando oficial que aquilo era indefensável, e no parágrafo seguinte recomendou fazê-lo **em escala**. O raciocínio dela é gelado e não é insano: um programa de mineração cognitiva pequeno é crime com cinco réus e um júri; o mesmo programa em escala municipal é infraestrutura, e ninguém processa infraestrutura. A diretoria já tinha decidido prosseguir antes de contratá-la; ela escolheu, entre duas opções ruins, a que **deixava rastro documental**. Não se arrepende e recusa a chance de fingir que sim. A moralidade dela não está no que ela permitiu — está no que ela **guardou**.
+*   **Função:** Ex-CEO da Aeterna Corp / A Guardiã do Arquivo.
 
-### ⏳ Linha do Tempo
-*   **Partes I-VI:** Antagonista corporativa.
-*   **Parte VII (O Apagão):** Desapareceu.
+### ⏳ Linha do Tempo e Evolução Visual
+*   **Partes I-VI (A CEO) — retrato `elara_b.png`:** Antagonista corporativa, no comando da Aeterna. Aparência: traje branco de alta costura futurista de peça única e gola alta, **linhas finas de circuito impressas na pele do rosto** (a interface neural aflorando), cabelo prateado ondulado e volumoso na altura da mandíbula, olhos azul-gelo. Sempre enquadrada contra a janela panorâmica do escritório executivo. Este é o retrato canônico da fase corporativa.
+*   **Parte VI — retrato `elara.png`:** Variação de close do mesmo período; use quando a cena pedir plano fechado.
+*   **Parte VII (O Apagão):** Desapareceu. **Não fugiu:** colocou-se em quarentena voluntária num berço de estase da Arca Zero, junto com a única cópia física do arquivo, quando Krell começou a eliminar quem tinha lido os registros antigos.
 *   **Parte XIV:** Descoberta na "Fila de Processamento".
+*   **Capítulos 218-223 (O Despertar) — Arca Zero:** Encontrada viva no único berço aceso da galeria, com atividade cortical elevada — **o protocolo preserva a mente acordada**, e ela passou os anos todos consciente dentro do vidro. A tranca do berço exige **duas chaves giradas simultaneamente por duas pessoas**: um filtro que ela projetou de propósito, para só entregar o arquivo a um mundo onde ainda restassem duas pessoas capazes de concordar. Guardou a fita de admissão de Dante Moretti contra o pedido explícito dele — o único documento que prova que o Comissário nunca foi cúmplice.
+*   **Atualidade (Capítulos 224-225):** Musculatura das pernas atrofiada pelo bloqueio neural prolongado; move-se em uma **cadeira de rodas de aço** e não deve andar tão cedo. Cabelo prateado e pele intactos, sem um dia de idade a mais — o contraste com o corpo destruído de Gabo é proposital e deve ser mantido em cena. Dirigiu o carregamento de quatro toneladas de arquivo para a cápsula pneumática e saiu com o grupo na Velha Baía. Continua sem pedir desculpas e continua sendo a única pessoa viva que sabe onde cada crime está documentado.
 
 ---
 
-## O Taxidermista (Alvo Prioritário #1)
+## O Taxidermista
 
 ![O Taxidermista](/personagens/taxidermista.png)
 
+*   **Status:** Alvo Prioritário #1 do Departamento.
 *   **Nome Real:** Desconhecido (apelido policial: "O Relojoeiro").
 *   **Idade:** 50-60 anos
 *   **Altura:** 1,70m
@@ -242,10 +341,11 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 
 ---
 
-## Enzo e Sofia Rossi (O Casal da Pizza)
+## Enzo e Sofia Rossi
 
 ![Casal da Pizza](/personagens/enzo_sofia.png)
 
+*   **Status:** "O Casal da Pizza" — donos da Pizzaria Rossi, no Distrito Baixo.
 *   **Idade:** 62 e 59.
 *   **Altura:** 1,68m e 1,60m.
 *   **Porte Físico:** Robustos, moldados por anos de trabalho manual na cozinha.
@@ -264,32 +364,35 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 
 ---
 
-## Helena Moretti (In Memoriam)
+## Helena Moretti
 
 ![Helena Moretti](/personagens/helena.png)
 
+*   **Status:** In Memoriam. Falecida no Dilúvio (Parte IX).
 *   **Idade:** 55 anos (ao falecer)
 *   **Altura:** 1,68m
-*   **Porte Físico:** Frágil.
-*   **Cabelo:** Castanho.
-*   **Olhos:** Verdes.
-*   **Marcas Distintivas:** Colar de sol.
-*   **Vestuário:** Roupas de casa.
-*   **Equipamento:** Nenhum.
-*   **Gostos/Traços:** Jardinagem.
-*   **Perfil Psicológico:** Coração moral.
-*   **Função:** Memória.
+*   **Porte Físico:** Miúda e de ossos finos, encolhida pelos anos de espera acordada — mas com antebraços firmes de quem revirou terra a vida inteira. A fragilidade dela era aparência, nunca temperamento.
+*   **Cabelo:** Castanho médio ondulado, na altura do queixo, com mechas grisalhas nas laterais. Sempre solto.
+*   **Olhos:** Verdes, de pálpebras pesadas, cercados por rugas de expressão fundas — os mesmos olhos que Clara herdou em castanho.
+*   **Marcas Distintivas:** O **Colar de Sol** — um pingente de prata envelhecida em forma de sol estilizado, raios irregulares em torno de uma pedra âmbar leitosa. Nunca o tirava. Terra permanente sob as unhas. Um sorriso contido, de canto de boca, que nunca mostrava os dentes.
+*   **Vestuário:** Cardigã bege claro de tricô sobre vestido de algodão simples, sempre com bolsos. Botas de jardim na porta dos fundos.
+*   **Equipamento:** Nenhum. Uma tesoura de poda e uma lata de regar enferrujada.
+*   **Gostos/Traços:** Jardinagem obstinada num quintal que a chuva ácida matava todo inverno (e que ela replantava todo ano). Rádio ligado em jazz baixinho na cozinha. Chamava os dois filhos pelo nome inteiro quando estava brava.
+*   **Perfil Psicológico:** **A Régua Moral Ausente.** Helena é a única pessoa do livro que nunca precisou escolher entre a lei e o certo, porque nunca teve poder nenhum — e é exatamente por isso que Gabo a usa como medida. Ela não era doce: era teimosa de um jeito silencioso, aguentou vinte anos de marido casado com a cidade e não perdoou nem uma vez em voz alta. Quando ela morreu, Gabo não chorou; ele *desligou*. Ele não a trata como perda, e sim como falha profissional própria — o que é a forma mais eficiente que ele encontrou de nunca precisar sentir.
+*   **Função:** Mãe de Gabriel, Marco e Clara / A Consciência Que Gabo Carrega no Punho.
 
 ### ⏳ Linha do Tempo
-*   **Pré-Série:** Mãe amorosa de Gabo e Marco.
-*   **Parte IX (Dilúvio):** Faleceu tragicamente durante a enchente, marcando profundamente o psicológico de Gabo.
+*   **Pré-Série:** Mãe de Gabo, Marco e Clara. Esposa de Dante. Manteve a casa de pé durante os quinze anos em que o marido esteve "morto".
+*   **Parte IX (Dilúvio):** Faleceu tragicamente durante a enchente, marcando profundamente o psicológico de Gabo. Gabo se recusa a visitar o local onde ela desapareceu na água — enquanto não for real, ela é apenas mais alguém que ele ainda pode salvar retroativamente.
+*   **Legado:** O Colar de Sol passou para Gabo, que o usa enrolado no punho ou no bolso interno. Ele o aperta até a pele romper quando precisa cortar uma alucinação — a dor da mãe virou literalmente a âncora de sanidade dele.
 
 ---
 
-## Beatriz "Bia" Vargas (In Memoriam)
+## Beatriz "Bia" Vargas
 
 ![Beatriz "Bia" Vargas](/personagens/bia.png)
 
+*   **Status:** In Memoriam. Assassinada por Roberto Miranda (Pré-Série). Seu rosto de criança foi copiado para o corpo sintético de **Aria Moretti**.
 *   **Idade:** 29 anos (ao falecer)
 *   **Altura:** 1,72m
 *   **Porte Físico:** Atlética.
@@ -308,8 +411,11 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 
 ---
 
-## Kiko Vibe (Falecido)
+## Kiko Vibe
 
+![Kiko Vibe](/personagens/kiko.png)
+
+*   **Status:** Falecido (Parte IV). Continua "vivo" como recorte de vídeo em replay pela cidade.
 *   **Idade:** 20 anos (Eternamente preservado no cache).
 *   **Altura:** 1,78m
 *   **Porte Físico:** Magro, quase digitalmente frágil.
@@ -318,6 +424,7 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 *   **Marcas Distintivas:** Tatuagens QR no pescoço que levavam diretamente ao seu canal de streaming.
 *   **Vestuário:** Jaqueta de LEDs programáveis que exibia anúncios de patrocinadores.
 *   **Equipamento:** Drone de selfie autônomo (destruído).
+*   **Prompt Visual:** a frail 20 year old man, lime green hair styled to look computer rendered, contact lenses projecting glowing heart emojis over his irises, QR tattoos on his neck, a jacket of programmable LED panels scrolling ads, pale skin
 *   **Gostos/Traços:** Viciado em validação externa e métricas de engajamento.
 *   **Perfil Psicológico:** O Produto Perfeito. Kiko não era uma pessoa, era uma marca. Ele acreditava que ser amado pela rede era o mesmo que ser amado por pessoas. Sua superficialidade escondia um terror profundo de ser esquecido (deletado).
 *   **Função:** O Primeiro Mártir Digital / Vítima da Aeterna.
@@ -357,23 +464,24 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 
 *   **Idade:** 28 anos
 *   **Altura:** 1,70m
-*   **Porte Físico:** Magra.
-*   **Cabelo:** Castanho claro.
-*   **Olhos:** Verdes.
-*   **Marcas Distintivas:** Tatuagem de pena.
-*   **Vestuário:** Roupas práticas.
-*   **Equipamento:** Câmeras analógicas.
-*   **Gostos/Traços:** Verdade.
-*   **Perfil Psicológico:** Destemida.
-*   **Função:** Jornalista.
+*   **Porte Físico:** Magra e de ombros retos, com a rigidez de quem dorme mal em pé há anos. Sem massa de combate: ela sobrevive por leitura de sala e velocidade, não por força.
+*   **Cabelo:** Castanho claro, comprido até os ombros, quase sempre preso para trás e escapando em mechas molhadas no rosto. Nunca tingido — recusa qualquer coisa que a torne fotografável demais.
+*   **Olhos:** Verdes acinzentados, muito diretos. Ela sustenta o olhar tempo demais em entrevistas de propósito, como técnica.
+*   **Marcas Distintivas:** Tatuagem de uma pena na parte interna do antebraço esquerdo (feita no dia em que publicou a primeira matéria contra a Aeterna). Pele com sardas apagadas e olheiras permanentes. Mania de tocar o pingente no pescoço quando mente. Não usa maquiagem em campo.
+*   **Vestuário:** Jaqueta de campo verde-oliva encharcada sobre camisa escura de gola aberta, calça reforçada e coturnos. Um pingente redondo de latão preso em cordão fino — o único enfeite.
+*   **Equipamento:** Duas câmeras analógicas de filme (as digitais são rastreáveis), gravador de fita, e uma escopeta que ela aprendeu a usar por necessidade e detesta carregar.
+*   **Gostos/Traços:** Verificar a mesma informação em três fontes antes de escrever uma linha. Café requentado. Anota tudo em caderno de papel. Odeia ser chamada de corajosa — chama isso de teimosia mal remunerada.
+*   **Perfil Psicológico:** **A Testemunha Profissional.** Elena não é destemida; ela é alguém que decidiu que documentar é a única vingança que sobra. Onde Gabo quebra dentes, ela publica nomes — e acredita, com uma fé que já lhe custou o casamento, que a segunda coisa dura mais que a primeira. Sua contradição central: passou a vida exigindo que as pessoas encarem a verdade e é incapaz de encarar a própria, que é continuar amando um homem cuja morte ela já ensaiou mentalmente cem vezes.
+*   **Função:** Jornalista Independente / A Memória Pública da Cidade.
 *   **Relação com Valéria:** Tensão competitiva. Respeita as habilidades técnicas de Val, mas acha que ela depende demais delas. Busca provar a Gabo que o "instinto humano" e a ação direta são insubstituíveis, competindo sutilmente pela atenção dele no campo de batalha.
 *   **Relacionamento com Gabo (O Dilema):** Elena ainda ama Gabo profundamente, e sabe que ele sente o mesmo. No entanto, ela se recusa a reatar o casamento. O motivo não é falta de amor, mas excesso de autopreservação emocional. Ela entendeu que Gabo é "casado com a cidade" e com sua cruzada. Ela o deixou porque não suportava mais assistir ao lento suicídio dele em nome do dever. Ela continua ao lado dele como parceira de combate porque não consegue deixá-lo morrer sozinho, mas mantém a distância romântica como um escudo. Para ela, voltar para ele seria aceitar ser viúva antes do enterro.
 
-### ⏳ Linha do Tempo
-*   **Pré-Série:** Ex-esposa de Gabo, deixou a cidade antes do bloqueio.
-*   **Parte V:** Retornou a Baía Cinzenta e foi sequestrada, sendo usada como peão contra Gabo.
+### ⏳ Linha do Tempo e Evolução Visual
+*   **Pré-Série:** Ex-esposa de Gabo, deixou a cidade antes do bloqueio. Aparência: cabelo solto, roupa civil, sem cicatrizes.
+*   **Parte V:** Retornou a Baía Cinzenta e foi sequestrada, sendo usada como peão contra Gabo. Retrato canônico: `elena.png`.
 *   **Partes VI-XIII:** Atuou como jornalista independente, expondo os crimes da Aeterna para o mundo exterior.
-*   **Parte XIV:** Acompanhou Gabo na invasão ao "Berçário" subterrâneo, lutando ao seu lado com uma escopeta.
+*   **Parte XIV (A Repórter de Campo) — retrato `elena_2.png`:** Novo visual canônico. Cabelo preso e encharcado, rosto marcado pela chuva ácida e sem maquiagem, jaqueta de campo sobre camisa escura, pingente de latão à mostra. Use este retrato como âncora do Capítulo 104 em diante; `elena.png` fica válido para tudo que for anterior.
+*   **Capítulo 104:** Emergiu do Berçário junto com Gabo e testemunhou o retorno de Dante, segurando a escopeta com força suficiente para embranquecer os dedos.
 
 ---
 
@@ -392,7 +500,7 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 *   **Gostos/Traços:** Charutos baratos (que ele mastiga mais do que fuma), uísque escondido na gaveta, lealdade à velha guarda.
 *   **Perfil Psicológico:** O Último Pilar. Vilar é a personificação da "velha lei". Ele sabe que o mundo mudou e que os novos crimes são complexos demais para um revólver, mas ele se recusa a ceder ao caos. Ele protege Gabo porque vê nele o filho que a cidade nunca o deixou ter.
 *   **Função:** Chefe de Polícia / A Rocha da Delegacia.
-*   **Inimigos Políticos:** Vilar vive em guerra fria com o **Prefeito Augusto Vale**. Ele se recusa a liberar a Aetherna Sec para operar livremente nas zonas pobres, o que faz com que seu orçamento seja estrangulado mensalmente.
+*   **Inimigos Políticos:** Vilar vive em guerra fria com o **Prefeito Augusto Vale**. Ele se recusa a liberar a Aeterna Sec para operar livremente nas zonas pobres, o que faz com que seu orçamento seja estrangulado mensalmente.
 
 ### ⏳ Linha do Tempo
 *   **Partes I-VII:** Um dos poucos policiais honestos na força corrupta.
@@ -403,16 +511,19 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 
 ## Inspetor Rangel
 
+![Inspetor Rangel](/personagens/rangel.png)
+
 *   **Idade:** 45 anos
 *   **Altura:** 1,78m
-*   **Porte Físico:** Gordo, mas agora com a robustez de quem carrega caixas.
-*   **Cabelo:** Ralo.
-*   **Olhos:** Pequenos e cansados.
-*   **Marcas Distintivas:** Palito de dente e manchas de tinta de máquina de escrever nos dedos.
-*   **Vestuário:** Camisas de manga curta e suspensórios.
-*   **Equipamento:** Máquina de escrever Olivetti e revólver .38 de cano curto.
-*   **Gostos/Traços:** Reclamar da falta de ar-condicionado.
-*   **Perfil Psicológico:** Burocrata adaptado. Encontrou seu lugar organizando o caos do "mundo de papel".
+*   **Porte Físico:** Corpulento e barrigudo, com a robustez teimosa de quem passou a carregar caixas de arquivo depois dos quarenta. Sua barriga chega antes dele em qualquer porta, e ele usa isso — ninguém revista um homem que parece inofensivo.
+*   **Cabelo:** Ralo e grisalho, penteado de lado sobre a calvície, sempre suado na raiz.
+*   **Olhos:** Pequenos, castanhos, afundados em bolsas de cansaço — mas que registram tudo, como um arquivo que ninguém sabe que está sendo alimentado.
+*   **Marcas Distintivas:** **Palito de dente permanente no canto da boca** e manchas azuis de fita de máquina de escrever nas pontas dos dedos. Respiração pesada e audível. Cheiro de talco e papel velho. No fim, a pele amarelada da falência hepática.
+*   **Vestuário:** Camisa social de manga curta amarrotada, sempre com suor nas costas, suspensórios largos sobre a barriga, gravata frouxa. Distintivo de latão fosco (até o Capítulo 110).
+*   **Equipamento:** Máquina de escrever Olivetti verde (que ele carrega fisicamente pela cidade em fuga) e revólver .38 de cano curto que ele quase nunca saca.
+*   **Prompt Visual:** a heavy-set balding 45 year old man with a big belly, thinning grey hair, small tired brown eyes in dark bags, a wooden toothpick in the corner of his mouth, sweat-soaked wrinkled short-sleeved shirt, wide suspenders, brass police badge
+*   **Gostos/Traços:** Reclamar da falta de ar-condicionado como quem reza. Café com açúcar demais. Sabe onde está cada papel de cada caso dos últimos vinte anos, sem índice.
+*   **Perfil Psicológico:** **O Homem Que Só Serviu Depois Que o Mundo Quebrou.** Rangel passou sete Partes sendo o obstáculo cômico — a papelada, o carimbo, o "não posso liberar sem a via rosa". Então os computadores morreram e descobriu-se que a única memória confiável da cidade estava na cabeça e nas gavetas de um burocrata que ninguém respeitava. Ele não vira herói: continua covarde, continua reclamando, continua com medo. Só que agora ele fica. Sua obsessão por procedimento nunca foi zelo — era a única forma de ordem que um homem sem coragem conseguia impor ao caos, e no fim isso valeu mais que coragem.
 *   **Função:** Fugitivo / Aliado da Resistência (Ex-Inspetor).
 
 ### ⏳ Linha do Tempo
@@ -420,12 +531,14 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 *   **Parte XIV:** Foi reintegrado por Vilar. Sua obsessão por procedimentos e arquivos físicos tornou-se vital para a administração da polícia após o colapso dos computadores.
 *   **Capítulo 105:** Testemunha o retorno de Dante, que reativa sua máquina de escrever elétrica e os sistemas da delegacia.
 *   **Capítulo 106:** Torna-se o braço direito executivo de Dante, sobrecarregado pela velocidade de processamento do novo Comandante.
-*   **Capítulo 110:** Abandona o distintivo e foge para o subsolo com a resistência. Torna-se fugitivo procurado pela Aetherna.
+*   **Capítulo 110:** Abandona o distintivo e foge para o subsolo com a resistência. Torna-se fugitivo procurado pela Aeterna.
 *   **Atualidade:** Falecido. Sucumbiu à parada cardíaca na passarela do Setor de Purga após falência hepática e sepse severa. Seu corpo foi deixado para trás, mas Valéria guardou sua máquina de escrever em miniatura como lembrança.
 
 ---
 
 ## Dra. Nise
+
+![Dra. Nise](/personagens/nise.png)
 
 *   **Idade:** 65 anos
 *   **Altura:** 1,60m
@@ -435,6 +548,7 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 *   **Marcas Distintivas:** Jaleco permanentemente manchado de reagentes químicos e fluidos misteriosos.
 *   **Vestuário:** Roupas confortáveis e ortopédicas.
 *   **Equipamento:** Um laboratório subterrâneo improvisado nas catacumbas da delegacia, equipado com microscópios analógicos e centrífugas a manivela.
+*   **Prompt Visual:** a short stooped 65 year old woman, snow-white hair in a severe bun, warm intelligent light-brown eyes behind reading glasses, steady surgeon hands, a lab coat stained with chemical reagents, dim morgue laboratory
 *   **Gostos/Traços:** Chá de ervas fortíssimos (para acordar os mortos), música clássica em vinil, corrigir a gramática dos relatórios policiais.
 *   **Perfil Psicológico:** A Matriarca da Medicina de Guerra. Nise não trata apenas corpos; ela trata a dignidade dos mortos. Em um mundo onde a vida é descartável, ela insiste que cada cadáver conte sua história. Ela é a única pessoa que Gabo obedece sem questionar.
 *   **Função:** Médica Legista Chefe / Curandeira do Submundo.
@@ -445,6 +559,8 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 
 ## Dra. Cecília Weiss
 
+![Dra. Cecília Weiss](/personagens/cecilia.png)
+
 *   **Idade:** 42 anos
 *   **Altura:** 1,65m
 *   **Porte Físico:** Magra, tensa.
@@ -454,6 +570,7 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 *   **Marcas Distintivas:** Sempre segura uma caneta de prata (que nunca usa). Cheiro de café forte e cigarros mentolados.
 *   **Vestuário:** Ternos femininos sóbrios, mas gastos nos cotovelos.
 *   **Equipamento:** Gravador de voz analógico (ela não confia na nuvem da Aeterna para segredos de pacientes).
+*   **Prompt Visual:** a thin tense 42 year old Black woman with deep dark skin, long dark box braids gathered in a bun, analytical dark brown eyes, holding a silver pen, a sober women's suit worn thin at the elbows, dim office
 *   **Gostos/Traços:** Psicanálise clássica, uísque barato escondido na gaveta, cinismo.
 *   **Perfil Psicológico:** A Guardiã dos Segredos. Cecília é a única pessoa que viu Gabo chorar (uma vez, e ela nunca mencionou). Ela deveria tê-lo aposentado por invalidez mental anos atrás, mas falsifica seus laudos. Por quê? Porque ela sabe que a "sanidade" não resolve crimes em Baía Cinzenta. Ela protege Gabo da burocracia porque precisa que ele proteja a cidade do caos.
 *   **Função:** Psicóloga Policial / Confidente Relutante.
@@ -465,16 +582,16 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 
 ---
 
-## Aria Moretti (Unidade Autônoma)
+## Aria Moretti
 
 ![Aria](/personagens/aria.png)
 
-*   **Status:** [CORPO SINTÉTICO / NÚCLEO HÍBRIDO]
+*   **Status:** Unidade Autônoma — [CORPO SINTÉTICO / NÚCLEO HÍBRIDO]
 *   **Idade:** Aparenta 12 anos (Corpo Sintético).
 *   **Altura:** 1,50m
 *   **Porte Físico:** **Androide**. Estrutura sintética leve e resistente, modelada para se assemelhar a uma criança humana.
 *   **Cabelo:** Loiro platinado, liso como fibra ótica.
-*   **Olhos:** Heterocromáticos (Azul e Dourado), capazes de projeção de dados e hack direto.
+*   **Olhos:** Heterocromáticos, capazes de projeção de dados e hack direto. O esquerdo é **azul tático** — frio, com anéis de foco visíveis, a máquina operando. O direito é o **olho de Bia** e é o mostrador de humor dela: em repouso ou sob carga lógica ele brilha **dourado** (a renderização sintética da íris de Bia); quando a persona da Bia sobe à superfície e ela chama Gabo de "amor", o dourado **cede para o castanho** original de Beatriz Vargas. Ver os dois castanhos ao mesmo tempo significa que não sobrou máquina nenhuma no comando — e é a coisa que mais assusta Gabo.
 *   **Marcas Distintivas:** Porta de dados na nuca. O rosto é idêntico ao de **Bia Vargas** (ex-namorada de Gabo) quando criança, um detalhe cruel inserido por seus criadores.
 *   **Vestuário:** Manto isolante térmico e roupas escuras.
 *   **Equipamento:** Núcleo de Processamento Neural Quântico.
@@ -486,7 +603,9 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 *   **Origem:** Começou como uma IA/Alucinação. Ganhou corpo físico durante a "Ascensão" de Dante, utilizando bio-engenharia roubada.
 *   **Capítulo 109:** Revela sua face física (Bia Vargas) para Rangel e bloqueia os drones de Dante.
 *   **Capítulo 118:** Sacrifica sua integridade lógica para salvar os "Drenados" do choque neural na Usina Prometeu.
-*   **Atualidade:** Operando com eficiência máxima, despida de emoções. Nos Túneis de Trânsito (Subnível 3.0), conectou seus processadores internos diretamente aos circuitos do monorail para subirem. Analisa e otimiza todas as soluções com a crueldade fria das máquinas, calculando colisões físicas como estratégia letal viável.
+*   **Capítulos 119-166:** Operando com eficiência máxima, despida de emoções. Nos Túneis de Trânsito (Subnível 3.0), conectou seus processadores internos diretamente aos circuitos do monorail para subirem. Analisa e otimiza todas as soluções com a crueldade fria das máquinas, calculando colisões físicas como estratégia letal viável. É ela quem ordena a Valéria mutilar as mãos de Gabo com plasma, e é ela quem depois lhe diz *"Pare de se machucar para lembrar de viver"*.
+*   **Capítulo 167 (O Sacrifício) — FIM:** No Arquivo Executivo (Subnível 2.0), baixa as próprias barreiras de contenção orgânica a pedido de Valéria para abrir o firewall do **Aeterna Sentinel**. O Sentinel despeja petabytes de código malicioso direto nela. O chassi convulsiona, esquenta a ponto de fazer o concreto chiar, e apaga. **Aria está morta** — a carcaça sintética fica travada no chão, cheirando a silício frito e polímero derretido.
+*   **Atualidade (Capítulos 168-217):** Ausente. O que resta dela é o buraco que deixou: sem a lógica fria da IA para calcular rotas, o horror do subsolo passa a ser vivido sem tradução, e Valéria assume esse papel — o que torna o Modo de Segurança dela ainda mais amargo. **Nenhuma cena depois do 167 pode mostrar Aria viva**; ela só aparece como carcaça, memória ou culpa.
 
 ---
 
@@ -498,19 +617,19 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 *   **Altura:** 1,35m (Nanismo).
 *   **Porte Físico:** Pequeno, mas irradia uma presença aterrorizante.
 *   **Cabelo:** Loiro platinado, sempre penteado para trás com gel fixador.
-*   **Olhos:** Azul Aetherna (Cibernéticos). Eles nunca demonstram calor, apenas cálculo.
+*   **Olhos:** Azul Aeterna (Cibernéticos). Eles nunca demonstram calor, apenas cálculo.
 *   **Marcas Distintivas:** Caminha com o auxílio de uma bengala de titânio negro, que na verdade é uma lâmina disfarçada e um emissor de choque neural.
 *   **Vestuário:** Ternos de alfaiataria sob medida, sempre impecáveis, projetados para impor respeito.
 *   **Equipamento:** Link neural mestre que lhe dá acesso a todas as câmeras e microfones da cidade.
 *   **Gostos/Traços:** Música clássica, xadrez, tortura psicológica e coleção de "Troféus Biológicos".
 *   **Perfil Psicológico:** O Sádico Intelectual. Krell compensa sua estatura com uma crueldade sem limites. Ele tem um desprezo visceral por força física, preferindo derrotar seus inimigos com inteligência e tecnologia. Ele não apenas mata; ele converte seus inimigos em ferramentas.
 *   **O Segredo Sombrio:** Krell usa os corpos de seus maiores adversários como troféus. O maior deles é **Dante Moretti**, cujo cérebro ele mantém vivo para alimentar sua IA de segurança.
-*   **Função:** CEO da Aetherna Corp / O Carcereiro da Cidade.
+*   **Função:** CEO da Aeterna Corp / O Carcereiro da Cidade.
 
 ### ⏳ Linha do Tempo
 *   **Passado:** Subiu na hierarquia corporativa eliminando rivais fisicamente mais fortes através de chantagem e veneno.
 *   **O Confronto com Dante:** Quando Dante descobriu a verdade sobre a droga Lázaro, Krell orquestrou a emboscada. Ele assistiu à luta final de Dante por câmeras, fascinado pela resistência do policial. Em vez de matá-lo, ordenou que os ciborgues o capturassem vivo para extrair sua "essência tática".
-*   **Atualidade:** Usa o caos gerado pela droga Lázaro (agora um minerador de dados biológicos) para vender a solução de segurança da Aetherna.
+*   **Atualidade:** Usa o caos gerado pela droga Lázaro (agora um minerador de dados biológicos) para vender a solução de segurança da Aeterna.
 
 ---
 
@@ -525,14 +644,120 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 *   **Olhos:** Castanhos, esquivos.
 *   **Marcas Distintivas:** Lenço de seda sempre na mão para enxugar a testa.
 *   **Vestuário:** Ternos caros que não caem bem.
-*   **Equipamento:** Botão de pânico direto para a Aetherna Sec.
+*   **Equipamento:** Botão de pânico direto para a Aeterna Sec.
 *   **Gostos/Traços:** Banquetes, poder sem responsabilidade.
 *   **Perfil Psicológico:** O Covarde no Trono. Vale foi um líder sindical que vendeu seus ideais por conforto. Agora, ele vive aterrorizado. Ele sabe que é descartável para Krell e odiado pelo povo. Sua crueldade vem do medo; ele ataca Vilar e a Polícia porque precisa mostrar serviço aos seus donos.
 *   **Função:** Prefeito de Baía Cinzenta / Fantoche.
 
 ### ⏳ Linha do Tempo
-*   **Eleição:** Ganhou com financiamento recorde da Aetherna.
+*   **Eleição:** Ganhou com financiamento recorde da Aeterna.
 *   **Atuação:** Assina decretos de desapropriação e cortes de verba policial. Evita aparecer em público sem escolta pesada.
+
+---
+
+## Padre Miguel
+
+![Padre Miguel](/personagens/miguel.png)
+
+*   **Idade:** 52 anos
+*   **Altura:** 1,80m
+*   **Porte Físico:** Corpulento e de peito largo, com a massa de um ex-estivador que virou padre tarde. Braços grossos que ele usa mais para carregar panela de sopa comunitária do que para abençoar.
+*   **Cabelo:** Preto encaracolado e curto, entrando em grisalho nas têmporas. Barba por fazer de três dias.
+*   **Olhos:** Castanhos escuros, fundos, com o cansaço de quem enterra gente demais e batiza gente de menos.
+*   **Marcas Distintivas:** **Tatuagens antigas e desbotadas cobrindo os dois antebraços**, visíveis quando ele arregaça a batina para servir a fila — âncoras, nomes, um santo mal feito de cadeia. Voz de trovão que dispensa amplificação (mas ele usa megafone assim mesmo). Mãos permanentemente cheirando a pão e desinfetante.
+*   **Vestuário:** Batina preta gasta com a bainha suja de lama, mangas sempre arregaçadas até o cotovelo, avental de cozinha por cima. Crucifixo de madeira simples, nunca de metal.
+*   **Equipamento:** A catedral do Distrito Baixo como abrigo, caldeirões industriais de sopa, um megafone e um livro de registro de nomes — quem entrou, quem saiu, quem foi "coletado".
+*   **Prompt Visual:** a burly broad-chested 52 year old priest, thick arms covered in faded prison tattoos, short curly black hair greying at the temples, three-day stubble, tired dark brown eyes, worn black cassock with sleeves rolled up, kitchen apron, wooden crucifix
+*   **Gostos/Traços:** Chamar todo mundo de "filho", inclusive homens mais velhos que ele. Servir pão sem parar de falar. Se recusa a perguntar de que lado a pessoa está antes de alimentá-la.
+*   **Perfil Psicológico:** **O Único Poder Que Não Quis Crescer.** Miguel é a última instituição de Baía Cinzenta que ainda funciona pelo motivo pelo qual foi criada — e ele sabe exatamente o quanto isso é frágil. Não prega salvação; ele faz logística de sobrevivência com vocabulário de fé. Trata Gabo com a franqueza de quem já ouviu a confissão dele e não ficou impressionado ("Veio se confessar ou se esconder?"). Sua fé não é em Deus, é em fila organizada: enquanto houver ordem na distribuição de pão, ainda existe cidade.
+*   **Função:** Abrigo do Distrito Baixo / Informante Moral de Gabo.
+
+### ⏳ Linha do Tempo
+*   **Capítulo 54:** Alimenta os refugiados na catedral e revela a Gabo que os informantes não desapareceram — foram "coletados". Interrompe um linchamento com o megafone.
+*   **Capítulo 82:** A catedral é tomada. Os novos ocupantes são silenciosos e não são os mendigos dele.
+*   **Capítulo 87:** A topografia do bairro da catedral é destruída pelas raízes do Gênesis.
+
+---
+
+## Isadora
+
+![Isadora](/personagens/isadora.png)
+
+*   **Idade:** 34 anos
+*   **Altura:** 1,73m (1,85m com os saltos que ela nunca tira)
+*   **Porte Físico:** Silhueta de ampulheta cultivada como ferramenta de trabalho. Postura impecável mantida por disciplina, não por conforto — ela senta como quem foi treinada a ser olhada.
+*   **Cabelo:** Platinado, liso e pesado, na altura dos ombros, com um brilho de salão que destoa violentamente de qualquer cômodo em que ela entra.
+*   **Olhos:** Verdes, delineados com precisão cirúrgica. Ela usa o olhar como isca e sabe exatamente quando desviá-lo.
+*   **Marcas Distintivas:** **Uma contusão roxa em forma de dedos mecânicos no pulso esquerdo**, escondida sob a manga — a marca da prótese de Roberto Miranda, e a rachadura por onde Gabo enxergou a pessoa por trás da persona. Perfume de jasmim sintético que chega antes dela e fica depois. Maquiagem perfeita mesmo em porão alagado.
+*   **Vestuário:** Vestido vermelho de tecido líquido que desliza sobre o corpo, luvas longas, salto alto sempre — inclusive em escombros. O guarda-roupa é uma armadura: enquanto ela parecer cara, ninguém pergunta quem a está pagando.
+*   **Equipamento:** Frascos de **Lázaro puro** (azul elétrico) para "ofertas", e um chip de dados escondido no salto do sapato.
+*   **Prompt Visual:** a 34 year old femme fatale wearing a scarlet red satin dress, long red gloves, straight platinum blonde hair, bleached white blonde, sharp green eyes, dark eyeliner, flawless makeup, a purple bruise shaped like mechanical fingers on her wrist
+*   **Gostos/Traços:** Falar com voz de seda e fumaça. Nunca beber o que oferece. Guardar a rota de fuga antes de entrar na sala. Recusa terminantemente ser chamada de vítima.
+*   **Perfil Psicológico:** **A Femme Fatale Que Também É Refém.** Isadora foi enviada para vender a Gabo o paraíso simulado do Lázaro — Helena viva, Dante vivo, Clara sem dívidas — e ela executa o papel com talento genuíno. O que ela não previu foi ser lida: Gabo é o primeiro homem em anos que perguntou *quem fez aquilo no braço dela* em vez de perguntar o que ela podia fazer por ele, e é isso, não a ideologia, que a vira de lado. Ela não vira aliada por bondade e avisa isso na cara ("Eu só quero estar do lado que vai estar vivo amanhã"). É a personagem mais honesta do livro sobre a própria motivação — e por isso mesmo a mais confiável entre os traidores.
+*   **Função:** Isca do Lázaro / Informante da Resistência.
+
+### ⏳ Linha do Tempo
+*   **Pré-Série:** Endividada com o Sindicato. Comprada por Marco Moretti e mantida sob a guarda física de Roberto Miranda.
+*   **Capítulo 55:** Tenta fazer Gabo beber Lázaro puro no refúgio subterrâneo. Exposta pela marca no pulso, troca de lado e entrega as plantas da Represa e os códigos de acesso de Miranda.
+*   **Capítulo 59:** Sua dica sobre a "reurbanização" leva Gabo e Aria às galerias antigas do subsolo.
+*   **Capítulo 61:** Seu pai, morto de ataque cardíaco no ano anterior, aparece comprando um loft na Nova Baía — a primeira prova concreta da farsa dos "mortos" da Aeterna.
+
+---
+
+## Vasco
+
+![Vasco](/personagens/vasco.png)
+
+*   **Idade:** 47 anos
+*   **Altura:** 1,68m
+*   **Porte Físico:** Atarracado e de pescoço grosso, corpo baixo e pesado sobre pernas curtas. **Os dois braços são próteses mecânicas industriais** de segunda mão, mais longas que o proporcional ao tronco, o que o faz parecer sempre curvado para frente.
+*   **Cabelo:** Escuro, oleoso, raspado nas laterais e rareando no topo.
+*   **Rosto:** **Metade do rosto substituída por uma placa de cerâmica barata**, sem tentativa de imitar pele — a linha entre carne e cerâmica é uma solda visível que corre do queixo à têmpora.
+*   **Olhos:** Um humano, castanho e injetado; o outro é uma lente **biônica que zumbe audivelmente** ao focar.
+*   **Marcas Distintivas:** **Dentes de metal** e gengivas sintéticas rosa-brilhante que aparecem quando ele sorri. **Charuto apagado permanentemente mastigado** entre os dentes ("Está apagado, Moretti. Economizando para o fim do mundo"). Cheiro de graxa velha, fluido de transmissão e antisséptico vencido.
+*   **Vestuário:** Avental de açougueiro de borracha manchado sobre regata encardida, luvas cortadas nos dedos mecânicos.
+*   **Equipamento:** A clínica clandestina do Distrito 4 — mesas cirúrgicas manchadas, braços robóticos pendurados no teto como carcaças, prateleiras de frascos rotulados em kanji e cirílico, um gerador portátil barulhento e uma serra óssea que ele limpa com pano sujo.
+*   **Prompt Visual:** a squat stocky 47 year old man, the left half of his face a cheap ceramic plate with a visible weld seam, one bloodshot brown eye and one glowing bionic lens, metal teeth, an unlit chewed cigar in his mouth, crude mechanical prosthetic arms
+*   **Gostos/Traços:** Chamar Gabo de "Moretti" e "detetive" com o mesmo desprezo. Cobrar em informação, não em crédito. Assobiar quando o pedido é caro. Avisar com antecedência que vai entregar você ("Se a segurança da Aeterna vier bater aqui, eu digo que você me roubou").
+*   **Perfil Psicológico:** **O Açougueiro de Silício.** Vasco não é vilão nem aliado: é infraestrutura. Ele conserta quem paga, entrega quem for preciso e nunca fingiu o contrário — e é exatamente essa transparência mercenária que faz Gabo voltar. Ele opera sem anestesia porque anestesia é estoque, não porque goste; mas também não perde o sono. A moeda dele mudou do crédito para a informação no dia do apagão, e ele foi o primeiro da cidade a perceber isso. Sua única crença é que o mundo já acabou e que quem tiver gerador e antibiótico vai ser rei.
+*   **Função:** Traficante de Implantes / Cirurgião de Rua do Distrito 4.
+
+### ⏳ Linha do Tempo
+*   **Capítulo 123:** Negocia antibióticos de espectro total e processadores neurais série-K com Gabo, em troca da informação sobre a queda da Usina. Deixa registrado que Gabo "lhe deve uma".
+*   **Capítulo 124:** Fuma na presença de Gabo — o único personagem que faz isso sem consequência, porque Gabo precisa dele.
+*   **Capítulo 172:** Gabo decide voltar ao Distrito 4 atrás dele por antibióticos reais e ferramentas analógicas.
+*   **Capítulo 175:** Instala à força uma prótese industrial nos nervos de Gabo, sem servo-motores de grau militar e sem anestesia adequada. Conecta Valéria à rede para um *hard reset* que corta a simulação empática dela.
+*   **Capítulo 176:** A prótese pesada e mal calibrada que ele parafusou passa a definir o modo de andar de Gabo daí em diante.
+
+---
+
+## Elias
+
+![Elias](/personagens/elias.png)
+
+*   **Idade:** 38 anos
+*   **Altura:** 1,74m
+*   **Porte Físico:** Magro de subnutrição, não de treino. Ombros encolhidos para dentro pelo hábito de se esconder, pele acinzentada de quem passou meses sem ver o sol. Tremor fino e permanente nas mãos.
+*   **Cabelo:** Castanho, comprido demais e embaraçado, colado à testa de suor.
+*   **Olhos:** Castanhos, muito arregalados — ele pisca freneticamente quando tem medo, que é quase sempre.
+*   **Marcas Distintivas:** **Dentes podres e amarelados** que aparecem no sorriso nervoso. Mãos sujas de graxa até o punho. **Não cheira a fumaça** — e é por isso que Gabo consegue ficar perto dele sem que a alucinação de tabaco dispare. Cheiro de medo e suor azedo que Valéria mede como dado ambiental.
+*   **Vestuário:** Macacão técnico de manutenção encardido, jaqueta puída por cima, crachá de operário rachado ainda pendurado no peito.
+*   **Equipamento:** Uma chave sônica gasta (a única arma que ele já empunhou, e tremendo), uma lanterna com bateria acabando e o conhecimento arquitetônico dos Níveis B e C.
+*   **Gostos/Traços:** Choramingar em movimento. Falar de maldições e desabamento. Perguntar "e se a gente ficar aqui?" a cada obstáculo — e ir mesmo assim.
+*   **Perfil Psicológico:** **O Civil.** Elias é a única pessoa do último arco que reage à Baía Cinzenta como um ser humano normal reagiria: com pavor honesto, sem código de honra, sem função tática, sem nada a provar. Ele existe para medir o quanto Gabo e Valéria já deixaram de ser gente — a dor que Gabo trata como âncora, Elias vê como automutilação; a lógica de Valéria, que o grupo aceita, ele ouve como sentença de morte. Ele não é covarde: covardia seria ter ficado trancado na sala de monitoramento. Ele desce oitocentos metros no escuro apesar de estar aterrorizado o tempo inteiro, e essa é a definição mais limpa de coragem que o livro oferece.
+*   **Prompt Visual:** a gaunt frightened 38 year old maintenance worker, hunched shoulders, ashen sunless skin, tangled brown hair plastered to a sweating forehead, wide startled brown eyes, nervous smile with rotten yellowed teeth, filthy grease-stained coveralls, flashlight
+*   **Função:** Guia dos Subníveis / A Última Testemunha Civil.
+
+### ⏳ Linha do Tempo
+*   **Capítulo 193:** Encontrado trancado numa sala de monitoramento térmico do Nível B desde que "os cadáveres começaram a andar". Rende-se a Gabo e Valéria com uma chave sônica na mão.
+*   **Capítulos 194-197:** Guia o grupo pelos dutos de exaustão e pela travessia de biomassa. Atravessa a ponte improvisada primeiro, sob coação de Gabo.
+*   **Capítulos 198-214:** Emudece após a ponte. Segue o grupo pelos oitocentos metros de galeria.
+*   **Capítulo 215:** Recusa-se a descer ("não foi feito para seres humanos") e desce mesmo assim, dez segundos depois.
+*   **Capítulos 216-217:** Colapsa em ataque de pânico claustrofóbico no fundo do Poço de Manutenção. Valéria recomenda sedação; Gabo se recusa e o levanta pela gola.
+*   **Capítulo 218:** Ao respirar ar filtrado pela primeira vez em catorze meses, senta no chão e chora sem vergonha nenhuma. É o primeiro gesto humano espontâneo do arco — e serve de contraste direto com o Modo de Segurança de Valéria.
+*   **Capítulo 222 (A Escolha) — o ponto alto dele:** Encontra sozinho um elevador de serviço funcional até a superfície e monta a fuga: mochila, água, lanterna de dínamo, rota planejada. Fica com o dedo no botão e **não aperta** — não por heroísmo, mas porque descobre que não sobrou ninguém lá em cima para quem contar, e que os únicos dois seres que confirmam sua sanidade estão morrendo oitocentos metros abaixo. Aperta o botão de **descer**. Gabo lhe diz, pela única vez no livro, o que pensa de verdade sobre coragem.
+*   **Capítulos 223-225:** Gira a segunda chave do berço de Elara (sem ele, ela nunca acorda — ele *é* o teste que ela projetou). Faz o trabalho de dois homens no carregamento do arquivo, segura a cabeça de Gabo durante a amputação falando besteira no ouvido dele para dar-lhe uma voz humana, e é o primeiro a sair da cápsula na Velha Baía.
+*   **Atualidade:** Vivo, na superfície, sem nada além do que carrega — e é o único dos quatro que ainda funciona como pessoa normal.
 
 ---
 
@@ -553,4 +778,4 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 *   **Função:** Âncora Chefe da Nexus News / A Voz da Mentira.
 
 ### ⏳ Linha do Tempo
-*   **Diária:** Apresenta o "Bom Dia Baía Cinzenta", o programa mais assistido, onde distorce a realidade para favorecer a Aetherna.
+*   **Diária:** Apresenta o "Bom Dia Baía Cinzenta", o programa mais assistido, onde distorce a realidade para favorecer a Aeterna.

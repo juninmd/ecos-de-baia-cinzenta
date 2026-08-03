@@ -1,10 +1,10 @@
-# Metadados
+## Metadados
 - **Título:** O Vazio Térmico
 - **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
 - **Localização:** Necrópole (Subnível 5.0 - Eclusa de Transferência Térmica)
 - **Personagens Presentes:** Gabo, Valéria, Aria (Reboot)
 
-# Narrativa
+## Narrativa
 
 # Capítulo 153: O Vazio Térmico
 

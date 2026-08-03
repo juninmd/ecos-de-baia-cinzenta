@@ -1,11 +1,11 @@
-# Metadados
+## Metadados
 - **Título:** Peso da Carne
 - **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
 - **Localização:** Necrópole (Túneis de Manutenção Profunda)
 - **Personagens Presentes:** Gabo, Valéria, Aria (Reboot), Rangel (Inconsciente)
 - **Resumo:** O grupo atravessa os túneis opressivos da Necrópole carregando o corpo inconsciente de Rangel. O peso físico da jornada é ampliado pelo peso psicológico da nova personalidade de Aria, cuja lógica fria entra em conflito constante com a humanidade exausta de Gabo e Valéria.
 
-# Narrativa
+## Narrativa
 
 # Capítulo 136: Peso da Carne
 
@@ -17,7 +17,7 @@ Gabo grunhiu, ajustando a pegada nas botas de Rangel. O couro estava escorregadi
 
 — Eu estou bem — Gabo mentiu, trincando os dentes.
 
-Ele não estava bem. O ombro latejava em sincronia com seu pulso. A vontade de fumar era uma coceira violenta na base do crânio, um desejo de preencher os pulmões com algo quente e tóxico para queimar o gosto de morte da boca.
+Ele não estava bem. O ombro latejava em sincronia com seu pulso. O cheiro fantasma de cigarro voltara, uma coceira violenta na base do crânio — o cérebro oferecendo, pela milésima vez, a única coisa que ele nunca aceitou: encher os pulmões com algo quente e tóxico para queimar o gosto de morte da boca.
 
 Gabo soltou uma das mãos da maca por um segundo e pressionou o "Colar de Sol" contra o esterno. O metal frio mordeu a pele, uma dor aguda e focalizada. *Isso é real*, ele pensou. *O cigarro é fumaça. A dor é âncora.*
 
@@ -95,11 +95,11 @@ Quando finalmente a maca tocou o chão úmido, Gabo soltou o ar que nem percebeu
 
 — Conseguimos — Valéria sussurrou, limpando o suor da testa.
 
-Gabo desceu pela parede, escorregando até o chão para recuperar o fôlego antes de encarar a descida. Ele olhou para suas mãos. Estavam tremendo. Não de medo, mas de fraqueza. Ele precisava de nicotina. Seu corpo implorava por isso.
+Gabo desceu pela parede, escorregando até o chão para recuperar o fôlego antes de encarar a descida. Ele olhou para suas mãos. Estavam tremendo. Não de medo, mas de fraqueza. E a cabeça, prestativa como sempre, ofereceu de novo o cheiro do charuto do pai como se aquilo fosse resolver alguma coisa.
 
 *Não.*
 
-Ele fechou o punho sobre o colar. A dor aguda das pontas de metal perfurando a pele da palma da mão foi um choque de realidade. *Eu sou mais forte que o vício. Eu sou mais forte que a dor.*
+Ele fechou o punho sobre o colar. A dor aguda das pontas de metal perfurando a pele da palma da mão foi um choque de realidade. *Isso não é meu. Isso é dele. Eu sou mais forte que a dor.*
 
 — Movimento detectado no setor norte — Aria avisou lá de baixo.
 

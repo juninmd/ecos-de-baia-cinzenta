@@ -1,11 +1,11 @@
-# Metadados
+## Metadados
 - **Título:** Frequência Fantasma
 - **Data In-Game:** 23 de Novembro, 06:45
 - **Localização:** O Fliperama (Esgotos do Distrito 4)
 - **Personagens Presentes:** Gabo Moretti, Valéria Cruz, Aria (Instável), Rangel (Crítico).
 - **Resumo:** As sirenes analógicas sinalizam o início de uma caçada física. O grupo é forçado a abandonar o esconderijo "O Fliperama" enquanto Gabo luta contra a tortura psicológica de ter Aria — agora com a personalidade fragmentada de Bia Vargas — agindo como sua falecida ex-namorada em meio ao caos.
 
-# Narrativa
+## Narrativa
 
 # Capítulo 126: Frequência Fantasma
 

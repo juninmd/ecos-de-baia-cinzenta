@@ -11,7 +11,7 @@ A dor não era vermelha, como Gabo costumava descrever. Era branca. Um branco ce
 
 Gabo trincou os dentes, segurando o grito na garganta enquanto a furadeira industrial gemia contra o osso. Sua mão direita buscou instintivamente o bolso interno, onde seus dedos se fecharam ao redor do "Colar de Sol" de Helena. O metal frio do pingente era sua única âncora na realidade.
 
-Ele estava deitado em uma bancada de trabalho suja de graxa no subsolo. Dante estava "reparando" sua órtese, mas não com a tecnologia limpa da Aetherna. Ali, na escuridão do mundo real, ele usava o que tinha: sucata.
+Ele estava deitado em uma bancada de trabalho suja de graxa no subsolo. Dante estava "reparando" sua órtese, mas não com a tecnologia limpa da Aeterna. Ali, na escuridão do mundo real, ele usava o que tinha: sucata.
 
 Sem anestesia.
 

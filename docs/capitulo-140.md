@@ -1,11 +1,11 @@
-# Metadados
+## Metadados
 - **Título:** Ponto de Fusão
 - **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
 - **Localização:** Necrópole (O Estúdio do Taxidermista -> Duto de Descarte)
 - **Personagens Presentes:** Gabo, Valéria, Aria (Reboot), Rangel (Inconsciente), O Taxidermista (Antagonista)
 - **Resumo:** Com o Protocolo de Limpeza ativado, o Estúdio se transforma em uma fornalha. Valéria falha em hackear as saídas blindadas. Aria identifica um duto de descarte de biomassa como única rota de fuga. Gabo, lutando contra o calor extremo e a abstinência, usa a dor física para focar e abrir a grade superaquecida, permitindo que o grupo escape para as profundezas da Necrópole momentos antes da incineração total.
 
-# Narrativa
+## Narrativa
 
 # Capítulo 140: Ponto de Fusão
 
@@ -23,7 +23,7 @@ Valéria estava ajoelhada perto do painel de controle da entrada, os dedos voand
 
 — Não dá! — ela gritou de volta, o pânico trincando sua voz. — É *hardwire*! Ele cortou a conexão lógica. É um fechamento mecânico! Estamos trancados em um forno!
 
-Gabo sentiu o suor evaporar antes mesmo de escorrer. Sua pele pinicava. O desejo de fumar atingiu-o como um soco no estômago. *Um cigarro. Só um. Para acalmar o tremor.* A fumaça imaginária preencheu seus pulmões, uma promessa de alívio no meio do inferno.
+Gabo sentiu o suor evaporar antes mesmo de escorrer. Sua pele pinicava. A alucinação atingiu-o como um soco no estômago. *Um cigarro. Só um. Para acalmar o tremor.* A voz que sugeria aquilo tinha o timbre do pai. A fumaça imaginária preencheu seus pulmões, uma promessa de alívio que ele nunca experimentou e que, por isso mesmo, era impossível de desmentir.
 
 Ele rosnou e apertou o *Colar de Sol* com força. O metal, já quente pela temperatura da sala, queimou a palma de sua mão. A dor foi nítida, real. *Foco na dor. A dor é vida. A fumaça é morte.*
 
@@ -51,7 +51,7 @@ Valéria correu para o lado dele, segurando o vergalhão. Aria se juntou a eles,
 
 — Um... Dois... TRÊS!
 
-Eles puxaram. O vergalhão envergou. Os músculos de Gabo gritaram, tendões estalando. O cheiro de sua própria pele queimando em contato com o metal quente invadiu seu nariz, sobrepondo-se ao desejo de nicotina.
+Eles puxaram. O vergalhão envergou. Os músculos de Gabo gritaram, tendões estalando. O cheiro de sua própria pele queimando em contato com o metal quente invadiu seu nariz e apagou de uma vez a fumaça que não existia.
 
 *CRACK.*
 

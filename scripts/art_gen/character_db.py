@@ -5,7 +5,18 @@ import re
 NAME_CLEAN_RE = re.compile(r'\[([^\]]+)\](?:\([^\)]+\))?')
 IMAGE_MATCH_RE = re.compile(r'!\[[^\]]*\]\(([^\)]+)\)')
 NICKNAME_MATCH_RE = re.compile(r'"(.*?)"')
-DESCRIPTION_KEYS_RE = re.compile(r'(Porte Físico|Vestuário|Marcas Distintivas|Cabelo|Olhos|Rosto|Idade):')
+# Nem toda seção "## " do dossiê é uma ficha: o mapa de papéis também é uma.
+# Quem não é personagem se declara com esta marca na primeira linha do bloco.
+NAO_PERSONAGEM_RE = re.compile(r'<!--\s*nao-personagem\s*-->')
+DESCRIPTION_KEYS_RE = re.compile(
+    r'(Porte Físico|Vestuário|Marcas Distintivas|Cabelo|Olhos|Rosto|Idade|Prompt Visual):')
+
+# Títulos viram alias genérico: "Dra." casava com Nise, Elara e Cecília ao mesmo tempo.
+HONORIFICS = {
+    "dr.", "dra.", "doutor", "doutora", "padre", "capitão", "capitao", "inspetor",
+    "inspetora", "prefeito", "prefeita", "comissário", "comissario", "sargento",
+    "tenente", "coronel", "major", "agente", "detetive", "chefe", "senhor", "senhora",
+}
 
 
 class CharacterDatabase:
@@ -33,10 +44,30 @@ class CharacterDatabase:
         for section in sections:
             self._parse_character_section(section)
 
+        self._drop_ambiguous_aliases()
         print(f"📚 Loaded {len(self.characters)} characters from database.")
 
+    def _drop_ambiguous_aliases(self):
+        """"Moretti" pertence a seis personagens: alias disputado não identifica ninguém.
+
+        Só o nome completo sobrevive ao empate — é o que distingue Marco de Dante.
+        """
+        donos = {}
+        for char in self.characters.values():
+            for alias in char["aliases"]:
+                donos.setdefault(alias.lower(), set()).add(char["name"])
+        for char in self.characters.values():
+            char["aliases"] = [
+                a for a in char["aliases"]
+                if a == char["name"] or len(donos[a.lower()]) == 1
+            ]
+
     def _parse_character_section(self, section):
-        if not section.strip() or section.startswith('# '):
+        # O primeiro bloco do arquivo é o comentário de regras + o título: não é personagem.
+        if not section.strip() or section.startswith('# ') or section.startswith('<!--'):
+            return
+        # Seções editoriais (mapa de papéis, índices) marcam-se com NAO_PERSONAGEM_RE.
+        if NAO_PERSONAGEM_RE.search(section):
             return
 
         lines = section.split('\n')
@@ -71,9 +102,13 @@ class CharacterDatabase:
         if nickname_match:
             aliases.add(nickname_match.group(1))
 
-        parts = name_clean.split()
-        if parts:
-            aliases.add(parts[0])
+        # A prosa quase nunca usa o nome completo: "Vilar" aparece 128 vezes e
+        # "Capitão Jonas Vilar" nenhuma. Sem o sobrenome, a cena perde a âncora.
+        partes = [p.strip('",') for p in NICKNAME_MATCH_RE.sub("", name_clean).split()]
+        proprios = [p for p in partes if len(p) >= 4 and p.lower() not in HONORIFICS]
+        if proprios:
+            aliases.add(proprios[0])
+            aliases.add(proprios[-1])
 
         return aliases
 

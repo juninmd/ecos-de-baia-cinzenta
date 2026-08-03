@@ -1,11 +1,11 @@
-# Metadados
+## Metadados
 - **Título:** Sangue nas Dobradiças
 - **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
 - **Localização:** Necrópole (Subnível 6.5 - Eclusa de Manutenção da Aeterna Corp)
 - **Personagens Presentes:** Gabo, Valéria, Aria (Reboot), Rangel (Inconsciente)
 - **Resumo:** O grupo alcança uma antiga eclusa de manutenção, oferecendo um refúgio temporário da escalada vertical. No entanto, a eclusa exige um sacrifício de sangue (biometria corrompida) para abrir, testando os limites de Gabo. A tensão entre a lógica mecânica de Aria e o desgaste humano atinge um novo pico enquanto a infecção de Rangel se aproxima de um ponto sem retorno.
 
-# Narrativa
+## Narrativa
 
 # Capítulo 145: Sangue nas Dobradiças
 

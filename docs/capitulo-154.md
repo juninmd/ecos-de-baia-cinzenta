@@ -1,10 +1,10 @@
-# Metadados
+## Metadados
 - **Título:** A Otimização do Abismo
 - **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
 - **Localização:** Necrópole (Subnível 4.5 - Poço do Elevador de Carga)
 - **Personagens Presentes:** Gabo, Valéria, Aria (Reboot)
 
-# Narrativa
+## Narrativa
 
 # Capítulo 154: A Otimização do Abismo
 

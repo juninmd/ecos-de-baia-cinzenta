@@ -1,11 +1,9 @@
 ---
 layout: doc
-title: "Capítulo 47: Cerco Anfíbio"
-description: "A delegacia é sitiada por Bio-Soldados liderados por uma nova ameaça."
+title: "Capítulo 47: O Mecanismo da Queda"
+description: "Gabo encurrala o Taxidermista na Torre do Relógio inundada e paga o preço com a coluna."
 image: /capitulo_47.jpg
 ---
-
-# Capítulo 47: Cerco Anfíbio
 
 # Capítulo 47: O Mecanismo da Queda
 

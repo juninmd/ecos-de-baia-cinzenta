@@ -1,11 +1,11 @@
-# Metadados
+## Metadados
 - **Título:** O Peso do Ar
 - **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
 - **Localização:** Necrópole (Subnível 6.0 - Corredor de Descontaminação / Avanço)
 - **Personagens Presentes:** Gabo, Valéria, Aria (Reboot), Rangel (Inconsciente)
 - **Resumo:** O grupo avança pelo corredor de descontaminação do Subnível 6.0, um túnel sufocante de azulejos encardidos e luzes falhas. Gabo, lutando contra a perda de sangue e o choque hipovolêmico, usa a dor física de suas mãos em carne viva para ancorar sua mente na realidade e espantar as alucinações persistentes de fumaça de cigarro que o atormentam. A tensão cresce quando eles encontram uma câmara de pressão travada. Aria, imperturbável, analisa a situação com uma frieza matemática, reiterando que Rangel é um peso morto. A teimosia de Gabo em salvar o inspetor força o grupo a buscar uma solução alternativa arriscada no sistema de ventilação saturado, desafiando a lógica estéril de sua aliada sintética.
 
-# Narrativa
+## Narrativa
 
 # Capítulo 147: O Peso do Ar
 

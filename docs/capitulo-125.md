@@ -1,11 +1,11 @@
-# Metadados
+## Metadados
 - **Título:** Ressonância
 - **Data In-Game:** 23 de Novembro, 06:30
 - **Localização:** O Fliperama (Safehouse)
 - **Personagens Presentes:** Gabo Moretti, Valéria Cruz, Aria (Reinicializando), Rangel (Estabilizado).
-- **Resumo:** Gabo enfrenta o silêncio opressivo do apagão e os sintomas físicos da abstinência. Valéria tenta reinicializar Aria, que acorda fragmentada entre seus protocolos de combate e as memórias herdadas de Bia Vargas. O capítulo termina com o som de sirenes analógicas, sinalizando que a trégua do escuro acabou.
+- **Resumo:** Gabo enfrenta o silêncio opressivo do apagão e os sintomas físicos da exaustão, com a alucinação de tabaco insistindo nas bordas. Valéria tenta reinicializar Aria, que acorda fragmentada entre seus protocolos de combate e as memórias herdadas de Bia Vargas. O capítulo termina com o som de sirenes analógicas, sinalizando que a trégua do escuro acabou.
 
-# Narrativa
+## Narrativa
 
 # Capítulo 125: Ressonância
 

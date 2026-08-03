@@ -18,8 +18,21 @@ PERSONAGENS = DOCS_DIR / "personagens.md"
 CHAPTER_RE = re.compile(r"capitulo-(\d+(?:\.5)?)\.md$")
 
 # Pre-compiled regex patterns for performance optimization
-VIOLATION_PATTERN = re.compile(r"\b(Gabo|Gabriel)\b.{0,120}\b(fum[a-z]*|cigarro|tabaco)\b", re.IGNORECASE | re.DOTALL)
-CANONICAL_NEGATIONS = re.compile(r"(odeia|nunca fumou|n[aã]o fuma|repulsa|n[aá]usea)", re.IGNORECASE)
+# "fumaça" e "fumegando" descrevem cenário (metal quente, incêndio) e inundavam o relatório
+# de falso positivo. O traço canônico proíbe Gabo *fumar*, não a fumaça existir.
+# Gabo precisa ser o SUJEITO do ato, na mesma frase. Com uma janela larga de 120 chars
+# qualquer cena em que ele apenas *vê* alguém fumar (Vasco, o legista, as manchas de
+# nicotina nas mãos de Dante) era acusada de violar o traço dele.
+VIOLATION_PATTERN = re.compile(
+    r"\b(Gabo|Gabriel)\b[^.!?\n]{0,40}?\b(fuma|fumou|fumava|fumando|fumante|"
+    r"tragou|acendeu (um|o) (cigarro|charuto))\b", re.IGNORECASE | re.DOTALL)
+# O traço canônico permite a *alucinação* olfativa de tabaco (herdada do pai), não o vício:
+# ver "O Cigarro Fantasma" em docs/personagens.md. Estas expressões marcam esse enquadramento.
+CANONICAL_NEGATIONS = re.compile(
+    r"(odeia|nunca fum(ou|ava)|n[aã]o fuma|repulsa|n[aá]usea|alucina|fantasma|"
+    r"nunca (acendeu|provou|estivera|estava)|jamais|imagin[áa]ri)",
+    re.IGNORECASE,
+)
 
 CENTRAL_ALIASES = {
     "Gabriel \"Gabo\" Moretti": {"gabo", "gabriel", "moretti"},
@@ -125,7 +138,9 @@ def check_character_consistency(chapters: list[Chapter], aliases: dict[str, set[
         match = VIOLATION_PATTERN.search(ch.text)
         if not match:
             return None
-        window = ch.text[max(0, match.start() - 60): match.end() + 80]
+        # Janela larga de propósito: a negação canônica costuma vir na frase seguinte
+        # ("...o cheiro de cigarro. Ele nunca acendeu um na vida."), fora de 60/80 chars.
+        window = ch.text[max(0, match.start() - 240): match.end() + 280]
         if CANONICAL_NEGATIONS.search(window):
             return None
         return ch.path.name

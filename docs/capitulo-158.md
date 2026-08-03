@@ -5,13 +5,13 @@ location: "Túneis de Trânsito (Subnível 3.0 - Acesso Central)"
 characters: ["Gabo", "Valéria", "Aria"]
 ---
 
-# Metadados
+## Metadados
 - **Título:** Ecos de Fósforo e Poeira
 - **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
 - **Localização:** Túneis de Trânsito (Subnível 3.0 - Acesso Central)
 - **Personagens Presentes:** Gabo, Valéria, Aria (Reboot)
 
-# Narrativa
+## Narrativa
 
 # Capítulo 158: Ecos de Fósforo e Poeira
 

@@ -1,11 +1,11 @@
-# Metadados
+## Metadados
 - **Título:** Vernissage
 - **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
 - **Localização:** Necrópole (O Estúdio do Taxidermista)
 - **Personagens Presentes:** Gabo, Valéria, Aria (Reboot), Rangel (Inconsciente), O Taxidermista (Antagonista)
 - **Resumo:** O grupo adentra o "Estúdio", um santuário estéril no coração da Necrópole. O Taxidermista se revela não como um monstro, mas como uma figura de perfeição artificial. Ele apresenta sua "Obra-Prima" — uma rede neural viva feita de sofrimento humano refinado — e oferece a Gabo uma chance de "eternizar" sua dor. A recusa desencadeia a ativação das "Esculturas" de elite.
 
-# Narrativa
+## Narrativa
 
 # Capítulo 138: Vernissage
 

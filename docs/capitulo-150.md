@@ -1,10 +1,10 @@
-# Metadados
+## Metadados
 - **Título:** Peso Morto
 - **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
 - **Localização:** Necrópole (Subnível 6.0 - Setor de Purga)
 - **Personagens Presentes:** Gabo, Valéria, Aria (Reboot), Rangel (Inconsciente)
 
-# Narrativa
+## Narrativa
 
 # Capítulo 150: Peso Morto
 

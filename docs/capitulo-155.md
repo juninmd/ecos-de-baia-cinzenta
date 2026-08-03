@@ -1,10 +1,10 @@
-# Metadados
+## Metadados
 - **Título:** Ferrugem e Plasma
 - **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
 - **Localização:** Necrópole (Subnível 4.0 - Estação de Monorail Aeterna)
 - **Personagens Presentes:** Gabo, Valéria, Aria (Reboot)
 
-# Narrativa
+## Narrativa
 
 # Capítulo 155: Ferrugem e Plasma
 

@@ -6,7 +6,7 @@ capitulo: 120
 # Análise Crítica - Capítulo 120
 
 ## Metadados
-- **Capítulo:** 120: O Silêncio de Aetherna
+- **Capítulo:** 120: O Silêncio de Aeterna
 - **Data de Revisão:** (Atual)
 - **Revisor:** AI
 

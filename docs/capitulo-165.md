@@ -13,6 +13,8 @@ characters: ["Gabo", "Valéria", "Aria"]
 
 ## Narrativa
 
+# Capítulo 165: Fantasmas de Silício
+
 A temperatura no Subnível 2.0 era artificialmente mantida a dezesseis graus Celsius, um frio clínico, projetado para preservar placas de circuito, não para confortar carne viva. O som de seus passos ecoava raso no labirinto de servidores monolíticos. Eles caminhavam como intrusos em um cemitério onde as lápides eram gabinetes de alumínio escovado.
 
 Gabo sentia os pontos improvisados de Valéria repuxarem em sua barriga a cada passo, o atrito da espuma química agindo como lixa contra a carne exposta. Mas era a dor fantasma que o consumia. O cotoco do braço direito parecia latejar, implorando por movimentos que seus músculos cortados já não podiam executar. E, pior que isso, havia a fumaça.

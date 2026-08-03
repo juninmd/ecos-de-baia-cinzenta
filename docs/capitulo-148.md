@@ -1,11 +1,11 @@
-# Metadados
+## Metadados
 - **Título:** Tensão e Ferrugem
 - **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
 - **Localização:** Necrópole (Subnível 6.0 - Corredor de Descontaminação / Duto de Ventilação)
 - **Personagens Presentes:** Gabo, Valéria, Aria (Reboot), Rangel (Inconsciente)
 - **Resumo:** Valéria rasteja por um duto de ventilação enferrujado e sufocante para tentar destrancar a câmara de pressão do outro lado. Abaixo, Gabo trava uma batalha dupla: contra o choque hipovolêmico que enfraquece seu corpo e contra a tortura psicológica da lógica fria de Aria, que insiste na inevitabilidade da morte de Rangel. Gabo usa a dor lancinante de suas queimaduras para manter-se lúcido e afastar as memórias nauseantes do cheiro de cigarro. Quando Valéria alcança o outro lado, a ferrugem da trava exige um esforço final desesperado.
 
-# Narrativa
+## Narrativa
 
 # Capítulo 148: Tensão e Ferrugem
 
