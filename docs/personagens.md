@@ -65,6 +65,7 @@ A obra tinha cinco figuras disputando o posto de vilão principal, e isso diluí
 | **Dante Moretti** | Pai ausente / Fantasma operante | Toda a trama vem de uma decisão dele. Existe mais como consequência do que como presença. | Consciência liberada; corpo sintético |
 | **Elias** | O Civil / Régua humana | Reage como uma pessoa normal reagiria. Sem ele, o leitor perde a medida de quanto os outros dois já se afastaram de gente. | Vivo, na superfície |
 | **Dra. Elara Vance** | A Auditora / Antagonista intelectual | Argumenta o indefensável com lógica boa demais para ser descartada. Nunca deve perder um debate por burrice. | Viva, cadeira de rodas |
+| **Arthur Vance** | O fundador obsoleto | Mostra que estar certo sobre o colapso não é o mesmo que entender por quê. É o arquiteto do prédio; Krell é o autor do crime. | Desperto (cap. 45) |
 | **Anselmo Braga** | **⚔️ NÊMESE PESSOAL** | A única ameaça de vida e morte fora da lore corporativa. Cobra o preço do método de Gabo — e obriga o protagonista a matar um homem rendido para parar a matança. | Ativo (arco 229+) |
 | **Viktor Krell** | **⭐ VILÃO MÁXIMO** | O estagiário do jurídico que digitalizou contratos de cemitério, entendeu o negócio melhor que os cinco donos e transformou um problema de espaço em jazigo numa operação municipal de mineração de mentes. Foi ele quem arrancou o cérebro de Dante. Todos os outros antagonistas são degraus, ferramentas ou vítimas dele. | Ativo |
 | **O Gamemaster** | Antagonista das Partes III-V | Transforma a perseguição em espetáculo. Suas falhas são o pai preso gritando de dentro. | Deletado (cap. 31) |
@@ -294,6 +295,7 @@ A obra tinha cinco figuras disputando o posto de vilão principal, e isso diluí
 *   **Vestuário:** Um jaleco cerimonial de "jardineiro" feito de fibras naturais, agora grande demais para o corpo encolhido.
 *   **Equipamento:** Nenhum.
 *   **Gostos/Traços:** Fanatismo Biológico. Acreditava que a carne era superior ao silício.
+*   **⚠️ Filiação:** **Filho de Arthur Vance** e irmão da **Dra. Elara Vance**. Onde a irmã ficou dentro da empresa do pai para auditá-la, Silas recusou o silício inteiro e foi para a carne. O Projeto Gênesis é a mesma arrogância de Arthur com vocabulário de raiz em vez de vocabulário de aço: os três Vance acharam que sabiam mais que a regra, e os três cobraram a diferença dos outros.
 *   **Perfil Psicológico:** O Profeta Traído. Silas via a si mesmo como o Messias que guiaria a humanidade de volta à "natureza". Sua arrogância o cegou para o fato de que, para a entidade que ele criou (Dante), ele não era um pai, apenas combustível.
 *   **Função:** Catalisador do Apocalipse / O Sacrifício Final.
 
@@ -317,6 +319,7 @@ A obra tinha cinco figuras disputando o posto de vilão principal, e isso diluí
 *   **Vestuário:** Alta costura futurista, minimalista e branca.
 *   **Equipamento:** Interface neural de nível militar (indetectável).
 *   **Gostos/Traços:** Xadrez 4D, música clássica, chá branco.
+*   **⚠️ Filiação:** **Filha de Arthur Vance**, o fundador da Aeterna, e irmã de **Silas Vance**. Isso não é detalhe de árvore genealógica: é o que explica por que uma "consultora externa" tinha autoridade total sobre o arquivo, acesso à infraestrutura da Arca Zero e uma chave de estase própria. Ela auditou a empresa **do próprio pai**.
 *   **Perfil Psicológico:** **A Auditora.** Elara não é maquiavélica por gosto de poder e nunca foi transhumanista de fé — ela é uma perita contratada que olhou para um abismo, escreveu num memorando oficial que aquilo era indefensável, e no parágrafo seguinte recomendou fazê-lo **em escala**. O raciocínio dela é gelado e não é insano: um programa de mineração cognitiva pequeno é crime com cinco réus e um júri; o mesmo programa em escala municipal é infraestrutura, e ninguém processa infraestrutura. A diretoria já tinha decidido prosseguir antes de contratá-la; ela escolheu, entre duas opções ruins, a que **deixava rastro documental**. Não se arrepende e recusa a chance de fingir que sim. A moralidade dela não está no que ela permitiu — está no que ela **guardou**.
 *   **Função:** Ex-CEO da Aeterna Corp / A Guardiã do Arquivo.
 
@@ -724,6 +727,53 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 ### ⏳ Linha do Tempo
 *   **Eleição:** Ganhou com financiamento recorde da Aeterna.
 *   **Atuação:** Assina decretos de desapropriação e cortes de verba policial. Evita aparecer em público sem escolta pesada.
+
+---
+
+## Arthur Vance
+
+![Arthur Vance](/personagens/arthur.png)
+
+*   **Status:** Fundador da Aeterna S.A. Em estase na **Arca N.O.A.** (Ponto Zero, 4.000 m de profundidade) por 61 anos. Desperta no Capítulo 45.
+*   **Alcunha:** "O Imperador".
+*   **Idade:** 74 anos de calendário; **corpo de 43**, mantido por eletroestimulação constante durante o sono.
+*   **Altura:** 1,88m
+*   **Porte Físico:** Impecável e inútil. Musculatura definida por máquina, sem uma marca de sol, sem uma cicatriz. Mas passou seis décadas sem praticar equilíbrio: **ele não sabe mais andar direito**, e se apoia na parede a cada vinte metros sem perceber que está fazendo isso.
+*   **Cabelo:** Castanho escuro, curto, sem um fio branco — porque não houve tempo suficiente acordado para embranquecer.
+*   **Olhos:** Azuis, muito claros, com a pupila lenta de quem passou décadas sem luz forte.
+*   **Marcas Distintivas:** **Implantes de ouro subdérmicos formando uma coroa fina na testa** — a única vaidade visível de um homem que se achava fundador de civilização. Pele branca de mármore. Voz profunda e acostumada a ordens, intacta pelo sono.
+*   **Vestuário:** Acorda nu. Depois, uniforme de comando da Arca: casaco militar cinza-chumbo sem insígnia de país nenhum, porque ele não reconhecia países.
+*   **Equipamento:** A Arca N.O.A. e **38 unidades Leviatã** — máquinas de guerra anfíbias de quarenta metros, projetadas nos anos vinte para "pacificação" de superfície.
+*   **Gostos/Traços:** Falar sozinho com o próprio reflexo. Chamar planos de "fases". Ter escrito à mão, num caderno, a sequência de comando que ele repetiu mentalmente todas as noites até a estase apagar as noites.
+*   **Perfil Psicológico:** **O Fundador Obsoleto.** Arthur Vance não é um gênio adormecido: é um homem do século passado com uma fantasia de homem forte, que confundiu escala com visão. O plano dele para o colapso era militar e bruto — descer com um exército e impor ordem. Ele previu corretamente que a civilização cairia e errou tudo sobre o motivo, e essa combinação de estar certo pela razão errada é a definição do personagem. A estase preservou a ambição dele intacta **e comeu os números**: ele lembra de "uma frota" e não sabe mais que eram trinta e oito.
+*   **Prompt Visual:** a 43 year old man with marble-pale unmarked skin, short dark brown hair, very pale blue eyes with slow pupils, thin subdermal gold implants forming a crown across his forehead, athletic build maintained by machines, standing barefoot in a flooded deep-sea command corridor, red alarm light
+*   **Função:** Fundador da Aeterna / O Imperador Que Chegou Tarde.
+
+### ⚔️ Vance × Krell — por que os dois não competem
+
+O Capítulo 48 tem Gabo dizendo *"Arthur Vance — o Imperador. Ele não está apenas no comando da empresa. Ele **é** o arquiteto."* Isso **não contradiz** Krell como vilão máximo: é a crença que Gabo tem no Capítulo 48, e ela é corrigida 170 capítulos depois, quando o arquivo da Arca Zero mostra a rubrica.
+
+*   **Arthur Vance é o arquiteto do prédio.** Fundou a empresa de cuidado perpétuo, escreveu o Protocolo N.O.A., construiu a Arca e o exército. Pensava em território, ordem e obediência.
+*   **Viktor Krell é o autor do crime.** Entrou como estagiário do jurídico na empresa de Vance, leu os contratos que ninguém mandou ler, e descobriu dentro do negócio de Vance um produto que Vance nunca viu — a mente do cliente. Não precisou de exército nenhum.
+
+**Os Leviatãs não chegarem não é fio solto: é a tese.** Das 38 unidades, 18 apodreceram alagadas por juntas de vedação com vida útil de 25 anos que ninguém desceu para trocar, 9 emperraram e 3 pararam na subida. **Oito partiram.** O Imperador acordou para conquistar uma cidade que já tinha sido devorada por um predador melhor, e o exército dele foi derrotado pela própria corrosão antes de ver a superfície.
+
+### 👨‍👧 A Família Vance (espelho da família Moretti)
+
+A obra tem duas famílias destruídas pela decisão de um pai, e elas se refletem:
+
+*   **Arthur Vance**, o pai — construiu a máquina e foi dormir antes de ver o que ela virou.
+*   **Dra. Elara Vance**, a filha — ficou. Auditou a empresa do pai por dentro, escreveu que era indefensável, recomendou escala mesmo assim e passou sessenta anos guardando a prova. É por ser filha do fundador que uma "consultora externa" tinha autoridade total sobre o arquivo e acesso à infraestrutura da Arca Zero.
+*   **Silas Vance**, o filho — recusou. Fugiu do silício para a carne, virou "O Jardineiro" e construiu o Projeto Gênesis, que é a mesma arrogância do pai com vocabulário de raiz em vez de vocabulário de aço.
+*   Quando Arthur diz, ao acordar, *"Dante era mole demais e a minha filha era ambiciosa demais"*, ele está falando da Elara — e é a única vez em que a máscara dele vacila.
+
+### ⏳ Linha do Tempo
+
+*   **Fundação:** Registra a Aeterna S.A. como empresa de serviços funerários e cuidado perpétuo, com mais quatro sócios.
+*   **Ano 29:** Consta no arquivo como **"afastado por invalidez"**. Não foi invalidez: foi a entrada na estase, com o Protocolo N.O.A. armado e um pulso de *keep-alive* a cada seis horas como corda de segurança.
+*   **Capítulo 45:** A Torre Aeterna cai (destruída por Gabo e Valéria no Capítulo 18) e o pulso para. Após 72 horas de silêncio, a Arca interpreta colapso da superfície e o acorda.
+*   **Capítulos 46-48:** As oito unidades sobreviventes alcançam a Orla Norte. Gabo o identifica como "o arquiteto" e está parcialmente errado.
+*   **Depois:** A Fase 2 nunca se completa. Ver `docs/plano_de_revisao.md` — o desfecho do Imperador é o próximo fio a fechar.
 
 ---
 
