@@ -1,6 +1,9 @@
 import { defineConfig } from 'vitepress'
+import { withMermaid } from 'vitepress-plugin-mermaid'
 
-export default defineConfig({
+// withMermaid envolve o config para que os blocos ```mermaid de docs/arcos.md
+// virem diagramas. Sem ele, o VitePress renderiza tudo como bloco de código.
+export default withMermaid(defineConfig({
   title: "Ecos de Baía Cinzenta",
   description: "Um thriller noir cyberpunk em uma cidade onde a chuva nunca para.",
   head: [
@@ -394,11 +397,20 @@ export default defineConfig({
               { text: 'Capítulo 225: O Charuto na Sala Limpa', link: '/capitulo-225' },
             ]
           },
+          {
+            text: 'Parte XXI: A Rubrica',
+            collapsed: true,
+            items: [
+              { text: 'Capítulo 226: A Mulher de Fora', link: '/capitulo-226' },
+              { text: 'Capítulo 227: O Estagiário', link: '/capitulo-227' },
+            ]
+          },
         ]
       },
       {
         text: 'Arquivos',
         items: [
+          { text: 'Arcos e Linha do Tempo', link: '/arcos' },
           { text: 'Dossiê de Personagens', link: '/personagens' },
           { text: 'Cronologia e Resumo', link: '/cronologia' },
           { text: 'Lore do Livro', link: '/lore-do-livro' },
@@ -408,5 +420,14 @@ export default defineConfig({
     ],
     socialLinks: [
     ]
+  },
+  mermaid: {
+    theme: 'dark',
+    themeVariables: {
+      primaryColor: '#1b2430',
+      primaryTextColor: '#e8e6e3',
+      lineColor: '#7a8b99',
+      fontFamily: 'Rajdhani, sans-serif',
+    },
   }
-})
+}))

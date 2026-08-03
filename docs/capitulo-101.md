@@ -75,7 +75,7 @@ Eles estavam em um corredor estreito, iluminado por luzes de emergência vermelh
 
 — Silas Vance? — arriscou Gabo.
 
-— Não — Elena se levantou, ajudando-o a ficar de pé. — Silas é apenas o jardineiro. A assinatura é mais antiga. É do meu irmão. É do Dante.
+— Não — Elena se levantou, ajudando-o a ficar de pé. — Silas é apenas o jardineiro. A assinatura é mais antiga. É do seu pai, Gabo. É do Dante.
 
 Gabo sentiu um calafrio que nada tinha a ver com a temperatura fria do corredor.
 
