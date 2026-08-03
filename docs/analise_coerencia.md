@@ -1,13 +1,13 @@
 # Relatório de Coerência Narrativa (Automatizado)
 
 - **Status:** ✅ APROVADO
-- **Capítulos analisados:** 227
-- **Score de qualidade estimado:** 7.0/10
+- **Capítulos analisados:** 229
+- **Score de qualidade estimado:** 8.0/10
 
 ## Indicadores de qualidade
-- Média de palavras (12 capítulos recentes): 1267
-- Densidade sensorial média: 0.0040
-- Capítulos com fechamento forte: 11/12
+- Média de palavras (12 capítulos recentes): 1407
+- Densidade sensorial média: 0.0033
+- Capítulos com fechamento forte: 10/12
 
 ## Pontos de atenção de coerência
 - Nenhuma inconsistência relevante encontrada nas regras automatizadas.

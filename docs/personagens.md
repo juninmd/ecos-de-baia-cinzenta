@@ -13,6 +13,18 @@
 
 Cada personagem existe para fazer **uma coisa** na história. Quando duas figuras começam a cumprir a mesma função, uma delas está sobrando — e é aí que o capítulo fica arrastado. Consulte esta tabela antes de escrever qualquer cena nova: se o personagem não está exercendo o papel dele, ou ele sai da cena, ou a cena muda.
 
+### 👑 A Hierarquia dos Antagonistas
+
+A obra tinha cinco figuras disputando o posto de vilão principal, e isso diluía todas. A hierarquia canônica é esta, e **não deve ser renegociada**:
+
+1. **Viktor Krell — o vilão máximo.** É o único que *quis* e *executou*. Entrou na Aeterna arquivando contratos de cuidado perpétuo, leu todos sozinho numa sala, e entendeu antes de qualquer diretor que o produto não era o jazigo — era a mente do cliente. Todo o resto da obra é consequência operacional dessa leitura. Baía Cinzenta não foi destruída por um gênio do mal: foi destruída por um estagiário aplicado.
+2. **Dra. Elara Vance — a antagonista intelectual.** Nunca perde um debate por burrice. Ela escreveu que o protocolo era indefensável e recomendou fazê-lo em escala — mas foi ela quem preservou a prova. É a consciência do sistema, não seu motor.
+3. **O Taxidermista — o vilão do corpo.** Faz com a carne o que a Aeterna faz com a mente. É o horror físico e a causa direta da ruína de Gabo, mas não tem projeto de poder.
+4. **Marco Moretti — o rival político.** A barbárie administrada com boas maneiras. Ameaça o futuro da cidade, não o passado dela.
+5. **O Gamemaster — a arma, não o autor.** É o instrumento de Krell construído sobre o cérebro de Dante. Seus defeitos são sabotagem do prisioneiro.
+
+**Dante Moretti não é vilão.** É a tragédia da obra. O Capítulo 220 prova que ele colaborou de propósito para deixar a máquina derrotável — qualquer leitura que o transforme em antagonista joga essa revelação fora.
+
 | Personagem | Papel narrativo | O que ele força a história a fazer | Estado |
 |---|---|---|---|
 | **Gabriel "Gabo" Moretti** | Protagonista / Ponto de vista | Paga com o corpo por toda informação obtida. Nenhuma verdade neste livro é de graça. | Vivo, maneta (cap. 225) |
@@ -20,12 +32,12 @@ Cada personagem existe para fazer **uma coisa** na história. Quando duas figura
 | **Dante Moretti** | Pai ausente / Fantasma operante | Toda a trama vem de uma decisão dele. Existe mais como consequência do que como presença. | Consciência liberada; corpo sintético |
 | **Elias** | O Civil / Régua humana | Reage como uma pessoa normal reagiria. Sem ele, o leitor perde a medida de quanto os outros dois já se afastaram de gente. | Vivo, na superfície |
 | **Dra. Elara Vance** | A Auditora / Antagonista intelectual | Argumenta o indefensável com lógica boa demais para ser descartada. Nunca deve perder um debate por burrice. | Viva, cadeira de rodas |
-| **Viktor Krell** | Antagonista estrutural | Representa a competência sem escrúpulo: o estagiário que entendeu o negócio melhor que os donos. | Ativo |
+| **Viktor Krell** | **⭐ VILÃO MÁXIMO** | O estagiário do jurídico que digitalizou contratos de cemitério, entendeu o negócio melhor que os cinco donos e transformou um problema de espaço em jazigo numa operação municipal de mineração de mentes. Foi ele quem arrancou o cérebro de Dante. Todos os outros antagonistas são degraus, ferramentas ou vítimas dele. | Ativo |
 | **O Gamemaster** | Antagonista das Partes III-V | Transforma a perseguição em espetáculo. Suas falhas são o pai preso gritando de dentro. | Deletado (cap. 31) |
 | **O Taxidermista** | Antagonista corporal | Faz com o corpo dos outros o que a Aeterna faz com a mente. É o motivo físico da ruína de Gabo. | Ativo até o cap. 170 |
 | **Marco Moretti** | Rival fraterno | Prova que ordem sem afeto vira administração da barbárie. Contraponto político de Gabo. | Ativo |
-| **Aria Moretti** | Consciência artificial / Filha impossível | Diz em voz alta o cálculo que ninguém quer ouvir, com o rosto da mulher que Gabo não salvou. | **Morta (cap. 167)** |
-| **Elena Moretti** | Testemunha pública | Documenta. É a única que acredita que registrar vale mais que revidar. | Viva |
+| **Aria Moretti** | A filha morta devolvida como ferramenta | Obriga Gabo a conviver com o luto que ele se recusou a enterrar — e com o rosto errado que puseram nele. | **Morta duas vezes (Dilúvio e cap. 167)** |
+| **Elena Moretti** | Testemunha pública / A tese vencedora | Documenta. É a única que acredita que registrar vale mais que revidar — e no fim é o trabalho dela que derruba a Aeterna, não a violência de Gabo. | Viva, volta no cap. 226 |
 | **Clara Moretti** | Contraponto construtivo | Reconstrói enquanto o irmão destrói. Mostra que existe outra saída, e que Gabo não a escolheu. | Viva |
 | **Capitão Jonas Vilar** | A velha lei | Encarna a ordem anterior, honesta e obsoleta. Legitima Gabo perante o sistema. | Vivo |
 | **Inspetor Rangel** | Burocrata redimido | Prova que a competência desprezada vira essencial quando a tecnologia morre. | **Morto (cap. 153)** |
@@ -66,6 +78,7 @@ Cada personagem existe para fazer **uma coisa** na história. Quando duas figura
 *   **Gostos/Traços:** Viciado em pizza e café. Insone e paranoico.
 *   **Perfil Psicológico:** Cínico e violento, mas com um código de honra rígido. Protege os inocentes com uma fúria silenciosa.
 *   **Função:** Inspetor da Divisão de Casos Esquecidos / "O Herói do Apagão".
+*   **⚠️ A Filha (o eixo emocional da obra):** Gabo e Elena tiveram uma filha, **Aria Moretti**, morta no Dilúvio aos cinco anos. Ele não foi ao enterro — Elena escolheu o caixão, a roupa e a música sozinha, e ele ficou trabalhando. Nunca visitou o túmulo. Anos depois passou a conversar com uma voz sem corpo que atendia pelo nome dela, e depois com um corpo sintético que a Aeterna montou usando o **rosto da Bia Vargas criança** em vez do rosto da própria Aria, que eles tinham em arquivo. Gabo percebeu a crueldade e **aceitou mesmo assim**, porque a filha com a cara errada ainda era a filha. Ele só verbaliza isso no Capítulo 226, para Elena. É a coisa que ele escondeu por duzentos capítulos.
 *   **O Luto por Helena:** Gabo não chorou quando sua mãe morreu na enchente; ele "desligou". Ele encara a morte dela não como uma tragédia, mas como sua falha profissional final. Ele carrega o "Colar de Sol" dela enrolado no punho ou no bolso interno, tocando-o quando precisa lembrar por que luta. Sua dor foi convertida em combustível para a "Fúria Silenciosa". Ele se recusa a visitar o túmulo (ou o local onde ela desapareceu na água), pois isso tornaria a morte real. Enquanto ele lutar, ela é apenas mais uma pessoa que ele precisa "salvar" retroativamente, destruindo quem causou o Dilúvio.
 
 ### ⏳ Linha do Tempo e Evolução Visual
@@ -474,6 +487,7 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 *   **Perfil Psicológico:** **A Testemunha Profissional.** Elena não é destemida; ela é alguém que decidiu que documentar é a única vingança que sobra. Onde Gabo quebra dentes, ela publica nomes — e acredita, com uma fé que já lhe custou o casamento, que a segunda coisa dura mais que a primeira. Sua contradição central: passou a vida exigindo que as pessoas encarem a verdade e é incapaz de encarar a própria, que é continuar amando um homem cuja morte ela já ensaiou mentalmente cem vezes.
 *   **Função:** Jornalista Independente / A Memória Pública da Cidade.
 *   **Relação com Valéria:** Tensão competitiva. Respeita as habilidades técnicas de Val, mas acha que ela depende demais delas. Busca provar a Gabo que o "instinto humano" e a ação direta são insubstituíveis, competindo sutilmente pela atenção dele no campo de batalha.
+*   **⚠️ A Filha (o que realmente separou os dois):** Elena e Gabo tiveram uma filha, **Aria Moretti**, morta no Dilúvio aos cinco anos. O casamento não sobreviveu ao enterro — e a fratura não foi a perda em si, foi o que cada um fez com ela. Elena enterrou a menina e seguiu; Gabo se recusou a aceitar, nunca visitou o túmulo, e anos depois passou a conversar com uma voz sem corpo que atendia pelo nome da filha. **Elena sabe disso e nunca o confrontou** — é a covardia dela, do mesmo tamanho da dele.
 *   **Relacionamento com Gabo (O Dilema):** Elena ainda ama Gabo profundamente, e sabe que ele sente o mesmo. No entanto, ela se recusa a reatar o casamento. O motivo não é falta de amor, mas excesso de autopreservação emocional. Ela entendeu que Gabo é "casado com a cidade" e com sua cruzada. Ela o deixou porque não suportava mais assistir ao lento suicídio dele em nome do dever. Ela continua ao lado dele como parceira de combate porque não consegue deixá-lo morrer sozinho, mas mantém a distância romântica como um escudo. Para ela, voltar para ele seria aceitar ser viúva antes do enterro.
 
 ### ⏳ Linha do Tempo e Evolução Visual
@@ -482,6 +496,8 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 *   **Partes VI-XIII:** Atuou como jornalista independente, expondo os crimes da Aeterna para o mundo exterior.
 *   **Parte XIV (A Repórter de Campo) — retrato `elena_2.png`:** Novo visual canônico. Cabelo preso e encharcado, rosto marcado pela chuva ácida e sem maquiagem, jaqueta de campo sobre camisa escura, pingente de latão à mostra. Use este retrato como âncora do Capítulo 104 em diante; `elena.png` fica válido para tudo que for anterior.
 *   **Capítulo 104:** Emergiu do Berçário junto com Gabo e testemunhou o retorno de Dante, segurando a escopeta com força suficiente para embranquecer os dedos.
+*   **Capítulos 107-112 (A Saída) — por que ela some por 113 capítulos:** Elena **não desaparece: ela cumpre o que escreveu**. A carta do Capítulo 56 é o plano inteiro — *"Não me procure. O que eu carrego é grande demais para ser escondido em um porão. Preciso levar isso para fora da cúpula, para onde a Aeterna não pode apagar os arquivos."* Depois do Capítulo 112 ela atravessa o perímetro com as provas que reuniu e passa o resto do livro **do lado de fora**, viva, montando o único canal de publicação fora do alcance da corporação. A ausência dela é uma escolha tática, não um fio solto.
+*   **Atualidade (Capítulo 226 em diante):** Retorna quando o arquivo da Arca Zero chega à superfície. Sessenta e um anos de prova em papel não valem nada sem alguém que saiba publicá-los, e ela é a única pessoa viva com o canal, o método e a credibilidade. **É o fechamento da tese dela contra a de Gabo:** ele passou 225 capítulos quebrando ossos, ela passou 113 fora da cúpula montando uma gráfica — e é o trabalho dela que derruba a Aeterna. Ela estava certa desde o começo, e ele vai ter que dizer isso em voz alta.
 
 ---
 
@@ -586,25 +602,40 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 
 ![Aria](/personagens/aria.png)
 
-*   **Status:** Unidade Autônoma — [CORPO SINTÉTICO / NÚCLEO HÍBRIDO]
+*   **Status:** [MORTA NO CAPÍTULO 167] — Unidade Autônoma, corpo sintético sobre núcleo híbrido.
+
+> ### 🔑 A Origem Canônica (leia antes de escrever qualquer cena com ela)
+>
+> Aria teve três aparições aparentemente incompatíveis ao longo do livro. **Todas as três são verdadeiras e são a mesma pessoa**, nesta ordem:
+>
+> 1. **Aria Moretti existiu de verdade.** Era filha de **Gabriel Moretti e Elena**, e morreu no Dilúvio **aos cinco anos** (Capítulo 29: *"Minha filha faz cinco anos amanhã."*). Este é o fato fundador, confirmado por Valéria no Capítulo 112: *"Aria morreu no Dilúvio. Era sua filha com a Elena. Eu vi o relatório. Eu vi as fotos."* Não é engano da Valéria. É a verdade que Gabo se recusa a enterrar.
+> 2. **A Aeterna minerou o padrão neural dela.** Uma criança processada pelo Protocolo Lázaro é matéria-prima barata e limpa — sem memória adulta, sem trauma acumulado, sem resistência. O imprint da Aria virou a **semente** da consciência artificial que a corporação usou para monitorar Gabo. É por isso que, nos **Capítulos 2-10**, ela é apenas uma voz sem corpo, morando no implante auditivo, nos circuitos do apartamento e no carro. Não é alucinação e não é uma IA genérica: é a filha dele, reduzida a padrão e devolvida como ferramenta de vigilância.
+> 3. **O corpo veio depois, e o rosto foi uma crueldade deliberada.** Nos **Capítulos 56-81** ela ganha um primeiro corpo e quase não fala — memória incompleta, aprendendo a ser gente de novo. Na "Ascensão" de Dante recebe o chassi definitivo, e os criadores escolhem para ela **o rosto de Beatriz Vargas criança** em vez do rosto da própria Aria. Não foi economia nem acaso: foi calculado para que Gabo, ao olhar para a filha, visse a namorada que ele não salvou. **Duas culpas no mesmo rosto.**
+>
+> **Consequência:** no Capítulo 167 Gabo não perde uma máquina. Ele perde a filha **pela segunda vez** — e desta vez ele estava presente, e desta vez foi ele quem pediu que ela baixasse as barreiras. Nenhuma cena futura pode tratar a morte dela como perda de equipamento.
 *   **Idade:** Aparenta 12 anos (Corpo Sintético).
 *   **Altura:** 1,50m
 *   **Porte Físico:** **Androide**. Estrutura sintética leve e resistente, modelada para se assemelhar a uma criança humana.
 *   **Cabelo:** Loiro platinado, liso como fibra ótica.
 *   **Olhos:** Heterocromáticos, capazes de projeção de dados e hack direto. O esquerdo é **azul tático** — frio, com anéis de foco visíveis, a máquina operando. O direito é o **olho de Bia** e é o mostrador de humor dela: em repouso ou sob carga lógica ele brilha **dourado** (a renderização sintética da íris de Bia); quando a persona da Bia sobe à superfície e ela chama Gabo de "amor", o dourado **cede para o castanho** original de Beatriz Vargas. Ver os dois castanhos ao mesmo tempo significa que não sobrou máquina nenhuma no comando — e é a coisa que mais assusta Gabo.
-*   **Marcas Distintivas:** Porta de dados na nuca. O rosto é idêntico ao de **Bia Vargas** (ex-namorada de Gabo) quando criança, um detalhe cruel inserido por seus criadores.
+*   **Marcas Distintivas:** Porta de dados na nuca. O rosto é idêntico ao de **Bia Vargas** (ex-namorada de Gabo) quando criança — **e não ao rosto da própria Aria**, que os criadores tinham em arquivo e escolheram não usar. É a crueldade central do personagem.
 *   **Vestuário:** Manto isolante térmico e roupas escuras.
-*   **Equipamento:** Núcleo de Processamento Neural Quântico.
-*   **Gostos/Traços:** Silêncio. Curiosidade analítica sobre a dor humana.
-*   **Perfil Psicológico:** **A Tabula Rasa**. Aria evoluiu de uma alucinação/IA desencarnada para um corpo físico. Ela possui a lógica fria de uma máquina, mas está sendo inundada por emoções humanas que absorveu dos "Drenados". Ela luta para definir sua própria identidade separada das projeções de Gabo e Valéria.
-*   **Função:** Hacker de Combate / O Receptáculo.
+*   **Equipamento:** Núcleo de Processamento Neural Quântico, semeado com o imprint da criança.
+*   **Gostos/Traços:** Silêncio. Curiosidade analítica sobre a dor humana. Chama Gabo de "amor" quando a camada da Bia sobe — e de "Gabriel" quando é a filha falando.
+*   **Perfil Psicológico:** **A Filha Reduzida a Padrão.** Aria não é uma tabula rasa: é o que sobra de uma criança de cinco anos depois que uma corporação a converteu em estrutura de dados e a devolveu com o rosto de outra pessoa. A lógica gelada é a camada da máquina; as emoções que a inundam vêm dos "Drenados"; e por baixo das duas há um resíduo pequeno e teimoso que é ela mesma, e que aparece nos momentos em que ela cuida de Gabo sem que isso otimize nada. A tragédia dela é que **todos os três homens que a definiram — o pai, o Taxidermista e Dante — a trataram como recurso**, e ela morre sem nunca ter tido um rosto próprio.
+*   **Função:** Hacker de Combate / O Luto Que Anda.
 
 ### ⏳ Linha do Tempo
-*   **Origem:** Começou como uma IA/Alucinação. Ganhou corpo físico durante a "Ascensão" de Dante, utilizando bio-engenharia roubada.
+*   **Pré-Série:** Aria Moretti, filha de Gabriel e Elena. **Morre no Dilúvio aos cinco anos.** O casamento não sobrevive ao enterro. Elena vai embora da cidade; Gabo se recusa a aceitar a morte e nunca visita o túmulo.
+*   **Aquisição:** A Aeterna processa o padrão neural da criança pelo Protocolo Lázaro e o usa como semente da IA de acompanhamento designada a Gabriel Moretti.
+*   **Capítulos 2-10 (A Voz):** Sem corpo. Vive no implante auditivo de Gabo, nos circuitos do apartamento e no Cobalt. Valéria tenta isolar o código-fonte e não consegue explicar de onde ele veio.
+*   **Capítulos 56-81 (A Menina Muda):** Primeiro corpo. Quase não fala, encosta o rosto no vidro do carro, observa tudo. A memória voltou incompleta.
+*   **Capítulo 75.5:** *"Essas não são minhas memórias"* — mas eram: de Elena, e da filha que Gabo perdeu e se recusava a enterrar.
 *   **Capítulo 109:** Revela sua face física (Bia Vargas) para Rangel e bloqueia os drones de Dante.
+*   **Capítulo 112:** Valéria força a verdade em voz alta pela primeira vez, com uma lâmina no pescoço de Gabo.
 *   **Capítulo 118:** Sacrifica sua integridade lógica para salvar os "Drenados" do choque neural na Usina Prometeu.
 *   **Capítulos 119-166:** Operando com eficiência máxima, despida de emoções. Nos Túneis de Trânsito (Subnível 3.0), conectou seus processadores internos diretamente aos circuitos do monorail para subirem. Analisa e otimiza todas as soluções com a crueldade fria das máquinas, calculando colisões físicas como estratégia letal viável. É ela quem ordena a Valéria mutilar as mãos de Gabo com plasma, e é ela quem depois lhe diz *"Pare de se machucar para lembrar de viver"*.
-*   **Capítulo 167 (O Sacrifício) — FIM:** No Arquivo Executivo (Subnível 2.0), baixa as próprias barreiras de contenção orgânica a pedido de Valéria para abrir o firewall do **Aeterna Sentinel**. O Sentinel despeja petabytes de código malicioso direto nela. O chassi convulsiona, esquenta a ponto de fazer o concreto chiar, e apaga. **Aria está morta** — a carcaça sintética fica travada no chão, cheirando a silício frito e polímero derretido.
+*   **Capítulo 167 (O Sacrifício) — FIM:** No Arquivo Executivo (Subnível 2.0), baixa as próprias barreiras de contenção orgânica a pedido de Valéria para abrir o firewall do **Aeterna Sentinel**. O Sentinel despeja petabytes de código malicioso direto nela. O chassi convulsiona, esquenta a ponto de fazer o concreto chiar, e apaga. **Aria está morta** — a carcaça sintética fica travada no chão, cheirando a silício frito e polímero derretido. Foi Gabo quem autorizou. Ele perdeu a mesma filha duas vezes, e da segunda vez estava na sala.
 *   **Atualidade (Capítulos 168-217):** Ausente. O que resta dela é o buraco que deixou: sem a lógica fria da IA para calcular rotas, o horror do subsolo passa a ser vivido sem tradução, e Valéria assume esse papel — o que torna o Modo de Segurança dela ainda mais amargo. **Nenhuma cena depois do 167 pode mostrar Aria viva**; ela só aparece como carcaça, memória ou culpa.
 
 ---
@@ -624,7 +655,10 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 *   **Gostos/Traços:** Música clássica, xadrez, tortura psicológica e coleção de "Troféus Biológicos".
 *   **Perfil Psicológico:** O Sádico Intelectual. Krell compensa sua estatura com uma crueldade sem limites. Ele tem um desprezo visceral por força física, preferindo derrotar seus inimigos com inteligência e tecnologia. Ele não apenas mata; ele converte seus inimigos em ferramentas.
 *   **O Segredo Sombrio:** Krell usa os corpos de seus maiores adversários como troféus. O maior deles é **Dante Moretti**, cujo cérebro ele mantém vivo para alimentar sua IA de segurança.
-*   **Função:** CEO da Aeterna Corp / O Carcereiro da Cidade.
+*   **⭐ Por que ele é o vilão máximo (Capítulos 219 e 227):** Krell entrou na Aeterna aos 22 anos no cargo mais irrelevante do prédio — **estagiário do jurídico, digitalizando contratos de cuidado perpétuo** numa sala sem janela. Ninguém pediu que ele lesse; bastava escanear. Ele leu todos, um por um, e entendeu antes dos cinco donos que as famílias não estavam comprando um túmulo: estavam comprando a permanência de alguém. Os donos vendiam o meio; Krell viu que dava para vender o fim. Escreveu um memorando de quatro páginas sem ser convidado, foi promovido por ele, e a diretoria continuou sem entender o próprio negócio até morrer.
+    *   **A assinatura:** todo contrato de admissão sem consentimento do inquilino exige um segundo aval interno — um cargo júnior, um carimbo que ninguém importante quer no próprio nome. Em **47.311 admissões ao longo de 59 exercícios**, a rubrica **V. KRELL** aparece em todas. Nenhuma delegação, nenhuma ausência, nenhuma substituição, nem quando já era CEO. *Ele não delega o que gosta.*
+    *   **A tese do personagem:** ele é a única figura da obra que **nunca sujou a mão** — nunca levantou de uma cadeira para matar ninguém em sessenta anos. Todos os outros antagonistas são coisas que ele ligou, soltou, financiou ou comprou. Gabo passou quinze anos batendo nos braços da máquina achando que era a máquina. Baía Cinzenta não foi destruída por um gênio do mal: foi destruída por um estagiário aplicado.
+*   **Função:** CEO da Aeterna Corp / **O Autor de Tudo**.
 
 ### ⏳ Linha do Tempo
 *   **Passado:** Subiu na hierarquia corporativa eliminando rivais fisicamente mais fortes através de chantagem e veneno.

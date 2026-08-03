@@ -45,17 +45,17 @@ Valéria soltou Gabo, recuando como se tivesse se queimado.
 
 Ele abriu a pasta sob o toldo podre do armazém.
 
-— Eu li os arquivos no caminho. Marco Moretti não apenas criou o projeto de "higiene social". Ele tinha medo.
+— Eu li os arquivos no caminho. Marco Moretti não apenas assinou o projeto de "higiene social". Ele tinha medo.
 
 — Medo de quê? — perguntou Gabo, observando o céu em busca de drones.
 
-— Do próprio filho — Rangel apontou para um parágrafo sublinhado em vermelho desbotado. — Dante nasceu doente. Uma condição degenerativa rara. Marco usou a tecnologia da Aeterna para salvá-lo, mas ele sabia que Viktor Krell iria querer cobrar o favor. E ele sabia que Dante, uma vez "melhorado", seria incontrolável.
+— Da própria obra — Rangel apontou para um parágrafo sublinhado em vermelho desbotado. — O corpo novo do seu pai não saiu pronto do Berçário, Gabo. Saiu instável. Uma degeneração acelerada no substrato. Marco usou o que sobrou da tecnologia da Aeterna para estabilizar aquilo, mas ele sabia que Viktor Krell iria querer cobrar o favor. E sabia que o Dante, uma vez terminado, seria incontrolável.
 
 Rangel olhou para o grupo.
 
-— O colapso térmico. A necessidade de resfriamento. Não é um defeito de fabricação, Gabo. É um *Kill Switch*. Marco desenhou uma coleira no próprio filho. Se Dante saísse do controle, Marco podia trancar a Usina Prometeu e deixar o cérebro dele cozinhar.
+— O colapso térmico. A necessidade de resfriamento. Não é um defeito de fabricação, Gabo. É um *Kill Switch*. Marco desenhou uma coleira no homem que ele mesmo remontou. Se Dante saísse do controle, Marco podia trancar a Usina Prometeu e deixar o cérebro dele cozinhar.
 
-— Pai do ano — murmurou Valéria, limpando a chuva do rosto. — Mas o velho morreu antes de poder puxar a coleira.
+— Ele ressuscitou o próprio pai já com a corrente no pescoço — murmurou Valéria, limpando a chuva do rosto. — Mas perdeu o controle da Árvore antes de puxar a coleira.
 
 — E agora Dante tem a chave da própria cela — concluiu Aria. — Ele mantém Prometeu funcionando apenas o suficiente para sobreviver aos ciclos.
 
