@@ -1,5 +1,6 @@
 ---
 image: /capitulo_39.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Dra. Elara Vance, Elena Moretti, Capitão Jonas Vilar
 ---
 # Capítulo 39: Dossiê Vance
 

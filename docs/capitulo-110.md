@@ -1,5 +1,6 @@
 ---
 image: /cenas/beco.jpeg
+Personagens Presentes: Gabriel "Gabo" Moretti, Inspetor Rangel, Valéria "Val" Cruz, Aria Moretti, Kiko Vibe, Dante Moretti
 ---
 # Capítulo 110: Ponto Cego
 

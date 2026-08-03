@@ -1,5 +1,6 @@
 ---
 image: /capitulo_34.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti
 ---
 # Capítulo 34: O Julgamento da Rua
 

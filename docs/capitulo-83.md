@@ -1,5 +1,6 @@
 ---
 image: /capitulo_83.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Capitão Jonas Vilar, Dra. Nise
 ---
 # Capítulo 83: Raízes
 

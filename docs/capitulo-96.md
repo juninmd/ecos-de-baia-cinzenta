@@ -1,5 +1,6 @@
 ---
 image: /capitulo_96.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Silas Vance ("O Jardineiro"), Aria Moretti, Valéria "Val" Cruz, Dante Moretti, Capitão Jonas Vilar
 ---
 # Capítulo 96: A Grande Convergência
 

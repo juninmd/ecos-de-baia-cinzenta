@@ -1,5 +1,6 @@
 ---
 image: /capitulo_3.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Capitão Jonas Vilar, Valéria "Val" Cruz
 ---
 # Capítulo 3: Teatro de Carne
 

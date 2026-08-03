@@ -1,5 +1,6 @@
 ---
 image: /capitulo_79.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Aria Moretti, Silas Vance ("O Jardineiro"), Roberto Miranda
 ---
 # Capítulo 79: Frequências Fantasmas
 

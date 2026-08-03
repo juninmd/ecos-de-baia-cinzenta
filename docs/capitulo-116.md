@@ -1,5 +1,6 @@
 ---
 image: /cenas/cidade.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Aria Moretti, Valéria "Val" Cruz, Inspetor Rangel, Dante Moretti, O Taxidermista
 ---
 # Capítulo 116: Pressão Crítica
 

@@ -1,5 +1,6 @@
 ---
 image: /capitulo_8.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Capitão Jonas Vilar, Aria Moretti, Roberto Miranda, Kiko Vibe
 ---
 # Capítulo 8: Ressaca Digital
 

@@ -68,6 +68,42 @@
 9. **Continuidade temporal.** Respeite a fase do personagem (`Linha do Tempo e Evolução Visual`
    em `docs/personagens.md`): Gabo com exoesqueleto no cap. 105 não pode aparecer sem ele.
 
+## 📏 Padrão de Qualidade por Capítulo (OBRIGATÓRIO)
+
+> Todo capítulo é avaliado nesta régua antes de ser considerado pronto.
+> `python scripts/quality_gate.py` mede o que é mensurável e gera
+> `docs/qualidade_capitulos.md`. O que a máquina não mede, o revisor lê.
+
+### Portões duros (reprovam sozinhos)
+
+| # | Portão | Limite |
+|---|---|---|
+| D1 | **Extensão** | ≥ 600 palavras (reprova abaixo disso: é cena, não capítulo). **Alvo: 1.100–1.600.** A mediana histórica da obra é 900, e capítulo curto é a causa número um de arco que não respira. |
+| D2 | **Título** | Exatamente um H1, no formato `# Capítulo N: Título`, idêntico ao menu. |
+| D3 | **Elenco declarado** | Bloco de metadados com Localização e Personagens Presentes. |
+| D4 | **Traços canônicos** | Zero violações: Gabo nunca fuma; morto não age; fase física correta (exoesqueleto, prótese, braço amputado). |
+| D5 | **Fechamento** | A última linha vira a página — imagem, decisão ou ameaça. Nunca resumo do que acabou de acontecer. |
+
+### Régua de qualidade (0 a 2 por eixo, máximo 10)
+
+| Eixo | 0 | 1 | 2 |
+|---|---|---|---|
+| **Atmosfera noir** | Só descrição visual | Dois sentidos | **Três ou mais sentidos**, e o ambiente tem opinião sobre os personagens |
+| **Custo** | Ninguém perde nada | Perda reversível | **Perda permanente**: corpo, pessoa, crença ou opção |
+| **Voz e personagem** | Todos falam igual | Protagonista tem voz | **Cada personagem fala do jeito dele** e o silêncio de alguém significa algo |
+| **Ritmo** | Bloco único de exposição | Alterna diálogo e ação | **A informação chega por conflito**, nunca por alguém explicando |
+| **Consequência** | Episódio isolado | Referencia o anterior | **Muda o que o leitor entende** de algo que já leu |
+
+**Notas de corte:** 9–10 obra-prima · 7–8 publicável · 5–6 revisar · ≤4 reescrever.
+
+### Regras de escrita que a régua cobra
+
+1. **Sem solução fácil.** Se o problema se resolve por competência sem preço, o capítulo está errado. Gabo ganha quebrado ou não ganha.
+2. **Exposição é conflito.** Ninguém explica lore para quem já sabe. Se dois personagens conversam sobre algo que ambos conhecem, é para o leitor — e isso se corta.
+3. **Nada de segunda cena de travessia.** Descer túnel, atravessar duto e subir escada só valem quando terminam em porta que muda o gênero da história. Duas seguidas viram rotina.
+4. **A dor tem contabilidade.** Ferimento aberto num capítulo aparece no próximo. Personagem não se cura entre cenas.
+5. **Revelação precisa de plantio.** Toda reviravolta tem que se sustentar em material já publicado. Cite o capítulo de plantio no dossiê.
+
 ## 🤝 Interaction Protocol
 - Follow the **Plan -> Act -> Validate** cycle for every task.
 - Consult `GEMINI.md` for project-specific instructions.

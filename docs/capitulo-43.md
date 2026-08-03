@@ -1,5 +1,6 @@
 ---
 image: /cidade.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Capitão Jonas Vilar, Dra. Nise
 ---
 # Capítulo 43: Água Negra
 

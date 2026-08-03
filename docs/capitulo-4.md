@@ -1,5 +1,6 @@
 ---
 image: /capitulo_4.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Viktor Krell, Marco Moretti, Kael "O Cirurgião", Dra. Cecília Weiss, Aria Moretti
 ---
 # Capítulo 4: A Torre de Marfim
 

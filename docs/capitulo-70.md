@@ -1,5 +1,6 @@
 ---
 image: /capitulo_70.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, O Taxidermista, Marco Moretti, Aria Moretti, Kael "O Cirurgião", Dante Moretti
 ---
 # Capítulo 70: O Expurgo
 

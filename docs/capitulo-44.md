@@ -1,5 +1,6 @@
 ---
 image: /capitulo_44.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti
 ---
 # Capítulo 44: O Que Saiu do Ralo
 

@@ -1,5 +1,6 @@
 ---
 image: /capitulo_71.jpg
+Personagens Presentes: Marco Moretti, Gabriel "Gabo" Moretti, Kael "O Cirurgião", Aria Moretti
 ---
 # Capítulo 71: Marco Zero
 

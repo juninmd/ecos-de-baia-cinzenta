@@ -1,3 +1,7 @@
+---
+Personagens Presentes: Gabriel "Gabo" Moretti, Aria Moretti, Valéria "Val" Cruz, Inspetor Rangel
+---
+
 # Capítulo 130: Saturação
 
 **Data:** Ciclo 15 Pós-Apagão

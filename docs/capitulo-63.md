@@ -1,5 +1,6 @@
 ---
 image: /capitulo_63.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Aria Moretti
 ---
 # Capítulo 63: Águas Profundas
 

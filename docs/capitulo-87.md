@@ -1,5 +1,6 @@
 ---
 image: /capitulo_87.jpg
+Personagens Presentes: Capitão Jonas Vilar
 ---
 # Capítulo 87: O Novo Sacerdócio
 

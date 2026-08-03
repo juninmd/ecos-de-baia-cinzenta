@@ -1,5 +1,6 @@
 ---
 image: /cidade.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Marco Moretti, Aria Moretti, Roberto Miranda
 ---
 # Capítulo 65: O Novo Inquilino
 

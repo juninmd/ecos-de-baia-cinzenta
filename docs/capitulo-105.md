@@ -1,5 +1,6 @@
 ---
 image: /capitulo_105.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Dante Moretti, Capitão Jonas Vilar, Elena Moretti, Dra. Nise, Inspetor Rangel
 ---
 # Capítulo 105: O Silêncio de Concreto
 

@@ -1,5 +1,6 @@
 ---
 image: /capitulo_95.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Silas Vance ("O Jardineiro")
 ---
 # Capítulo 95: Sacrifício Necessário
 

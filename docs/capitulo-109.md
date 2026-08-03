@@ -1,5 +1,6 @@
 ---
 image: /cenas/cidade.jpg
+Personagens Presentes: Inspetor Rangel, Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Dante Moretti, Aria Moretti
 ---
 # Capítulo 109: Frequência Fantasma
 

@@ -1,5 +1,6 @@
 ---
 image: /capitulo_7.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Roberto Miranda, Kael "O Cirurgião", Aria Moretti
 ---
 # Capítulo 7: O Fim do Silêncio
 

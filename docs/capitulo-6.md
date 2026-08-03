@@ -1,5 +1,6 @@
 ---
 image: /capitulo_6.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Kael "O Cirurgião", Roberto Miranda, Aria Moretti
 ---
 # Capítulo 6: O Coração da Tempestade
 

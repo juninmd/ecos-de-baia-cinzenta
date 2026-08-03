@@ -1,5 +1,6 @@
 ---
 image: /cenas/cidade.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Inspetor Rangel, Marco Moretti, Aria Moretti, Dante Moretti
 ---
 # Capítulo 112: O Peso da Memória
 

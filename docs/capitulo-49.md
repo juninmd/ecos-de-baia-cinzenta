@@ -3,6 +3,7 @@ layout: doc
 title: "Capítulo 49: A Isca Perfeita"
 description: "Val e Gabo preparam uma armadilha mortal para as forças da Aeterna."
 image: /capitulo_49.jpg
+Personagens Presentes: Valéria "Val" Cruz, Gabriel "Gabo" Moretti, Dra. Nise, O Taxidermista
 ---
 
 # Capítulo 49: A Vigília

@@ -1,5 +1,6 @@
 ---
 image: /capitulo_28.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Valéria "Val" Cruz, Dante Moretti
 ---
 # Capítulo 28: O Último Suspiro da Torre
 

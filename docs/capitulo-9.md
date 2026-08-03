@@ -1,5 +1,6 @@
 ---
 image: /capitulo_9.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Kiko Vibe, Aria Moretti
 ---
 # Capítulo 9: Feed Infinito
 

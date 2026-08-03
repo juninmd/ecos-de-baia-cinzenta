@@ -1,5 +1,6 @@
 ---
 image: /capitulo_80.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Dra. Nise, Capitão Jonas Vilar, Dante Moretti, O Gamemaster
 ---
 # Capítulo 80: A Autópsia de um Deus
 

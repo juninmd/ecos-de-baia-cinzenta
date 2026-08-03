@@ -1,5 +1,6 @@
 ---
 image: /capitulo_11.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Dra. Nise, Valéria "Val" Cruz, Kiko Vibe, Marco Moretti
 ---
 # Capítulo 11: Filtros de Realidade
 

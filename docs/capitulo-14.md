@@ -1,5 +1,6 @@
 ---
 image: /capitulo_14.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Prefeito Augusto Vale, O Gamemaster
 ---
 # Capítulo 14: Caçada ao Invisível
 

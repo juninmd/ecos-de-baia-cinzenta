@@ -1,5 +1,6 @@
 ---
 image: /capitulo_36.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Capitão Jonas Vilar, Elena Moretti, Valéria "Val" Cruz
 ---
 # Capítulo 36: O Ninho da Serpente
 

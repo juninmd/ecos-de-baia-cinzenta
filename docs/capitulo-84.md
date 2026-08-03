@@ -1,5 +1,6 @@
 ---
 image: /capitulo_84.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Dra. Nise, Capitão Jonas Vilar
 ---
 # Capítulo 84: A Primeira Colheita
 

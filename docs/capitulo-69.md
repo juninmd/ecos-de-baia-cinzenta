@@ -1,5 +1,6 @@
 ---
 image: /capitulo_69.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Aria Moretti
 ---
 # Capítulo 69: O Fantasma no Shell
 

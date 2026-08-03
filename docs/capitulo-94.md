@@ -1,5 +1,6 @@
 ---
 image: /capitulo_94.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Capitão Jonas Vilar, Aria Moretti
 ---
 # Capítulo 94: O Coração da Colmeia
 

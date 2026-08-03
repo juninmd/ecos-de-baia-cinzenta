@@ -1,5 +1,6 @@
 ---
 image: /cenas/cidade.jpg
+Personagens Presentes: Valéria "Val" Cruz, Gabriel "Gabo" Moretti, Inspetor Rangel, Dante Moretti
 ---
 # Capítulo 114: A Linha de Montagem
 

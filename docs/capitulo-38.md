@@ -1,5 +1,6 @@
 ---
 image: /capitulo_38.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Capitão Jonas Vilar
 ---
 # Capítulo 38: A Ressaca
 

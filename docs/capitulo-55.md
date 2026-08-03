@@ -1,5 +1,6 @@
 ---
 image: /capitulo_55.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Isadora, Marco Moretti, Roberto Miranda, Elena Moretti
 ---
 # Capítulo 55: A Tentação de Lázaro
 

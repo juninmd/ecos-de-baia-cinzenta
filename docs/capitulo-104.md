@@ -1,5 +1,6 @@
 ---
 image: /capitulo_104.jpg
+Personagens Presentes: Inspetor Rangel, Gabriel "Gabo" Moretti, Dante Moretti, Elena Moretti
 ---
 # Capítulo 104: O Preço da Alvorada
 

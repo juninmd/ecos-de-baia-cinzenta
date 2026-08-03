@@ -1,5 +1,6 @@
 ---
 image: /capitulo_58.jpg
+Personagens Presentes: Capitão Jonas Vilar, Roberto Miranda
 ---
 # Capítulo 58: O Dilema do Capitão
 

@@ -3,6 +3,7 @@ layout: doc
 title: "Capítulo 48: Fantasma na Máquina"
 description: "Val lidera a defesa digital contra a Aeterna enquanto Gabo se recupera."
 image: /capitulo_48.jpg
+Personagens Presentes: Valéria "Val" Cruz, Gabriel "Gabo" Moretti, Aria Moretti
 ---
 
 # Capítulo 48: Fantasma na Máquina

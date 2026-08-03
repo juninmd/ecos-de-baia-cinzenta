@@ -1,5 +1,6 @@
 ---
 image: /capitulo_93.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Dra. Nise, Capitão Jonas Vilar
 ---
 # Capítulo 93: Fome
 

@@ -1,5 +1,6 @@
 ---
 image: /capitulo_73.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Roberto Miranda, Aria Moretti
 ---
 # Capítulo 73: Carne e Metal
 

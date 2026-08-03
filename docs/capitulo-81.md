@@ -1,5 +1,6 @@
 ---
 image: /capitulo_81.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Capitão Jonas Vilar, Dra. Nise
 ---
 # Capítulo 81: Sangue e Óleo
 

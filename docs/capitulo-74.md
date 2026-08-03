@@ -1,5 +1,6 @@
 ---
 image: /capitulo_74.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Aria Moretti
 ---
 # Capítulo 74: O Sacrifício de Lázaro
 

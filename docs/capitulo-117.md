@@ -1,5 +1,6 @@
 ---
 image: /capitulo_117_pro.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Dante Moretti, Aria Moretti, Valéria "Val" Cruz, O Taxidermista, Inspetor Rangel
 ---
 # Capítulo 117: Zero Absoluto
 

@@ -1,5 +1,6 @@
 ---
 image: /capitulo_91.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Dra. Nise, Silas Vance ("O Jardineiro")
 ---
 # Capítulo 91: Protocolo Gênesis
 

@@ -1,5 +1,6 @@
 ---
 image: /capitulo_108.jpg
+Personagens Presentes: Inspetor Rangel, Dante Moretti
 ---
 # Capítulo 108: Ratos de Cais
 

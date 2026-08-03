@@ -1,5 +1,6 @@
 ---
 image: /capitulo_18.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, O Gamemaster
 ---
 # Capítulo 18: A Queda
 

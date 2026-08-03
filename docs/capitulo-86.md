@@ -1,5 +1,6 @@
 ---
 image: /capitulo_86.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti
 ---
 # Capítulo 86: Simbiose
 

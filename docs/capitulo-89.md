@@ -1,5 +1,6 @@
 ---
 image: /capitulo_89.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti
 ---
 # Capítulo 89: Memória Genética
 

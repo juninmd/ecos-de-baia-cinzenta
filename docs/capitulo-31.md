@@ -1,5 +1,6 @@
 ---
 image: /capitulo_31.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti
 ---
 # Capítulo 31: Ruptura Total
 

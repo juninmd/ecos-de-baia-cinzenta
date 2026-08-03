@@ -1,5 +1,6 @@
 ---
 image: /capitulo_32.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Aria Moretti
 ---
 # Capítulo 32: O Vazio do Silêncio
 

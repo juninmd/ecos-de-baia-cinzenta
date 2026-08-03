@@ -1,5 +1,6 @@
 ---
 image: /capitulo_59.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Aria Moretti
 ---
 # Capítulo 59: A Fundação
 

@@ -1,5 +1,6 @@
 ---
 image: /capitulo_78.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Capitão Jonas Vilar, Aria Moretti
 ---
 # Capítulo 78: O Jardim de Concreto
 

@@ -1,5 +1,6 @@
 ---
 image: /capitulo_35.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Dra. Nise
 ---
 # Capítulo 35: Calibre 12
 

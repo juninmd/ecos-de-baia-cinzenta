@@ -403,6 +403,7 @@ export default withMermaid(defineConfig({
             items: [
               { text: 'Capítulo 226: A Mulher de Fora', link: '/capitulo-226' },
               { text: 'Capítulo 227: O Estagiário', link: '/capitulo-227' },
+              { text: 'Capítulo 228: O Grupo de Controle', link: '/capitulo-228' },
             ]
           },
         ]

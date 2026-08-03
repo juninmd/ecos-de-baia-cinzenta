@@ -1,5 +1,6 @@
 ---
 image: /capitulo_75.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Aria Moretti, Dante Moretti, Beatriz "Bia" Vargas, Enzo e Sofia Rossi
 ---
 # Capítulo 75.5: Memórias de Chuva (Flashback)
 
