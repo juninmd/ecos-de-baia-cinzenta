@@ -408,6 +408,7 @@ export default withMermaid(defineConfig({
               { text: 'Capítulo 230: A Conta Antiga', link: '/capitulo-230' },
               { text: 'Capítulo 231: Catraca', link: '/capitulo-231' },
               { text: 'Capítulo 232: O Justo', link: '/capitulo-232' },
+              { text: 'Capítulo 233: Ponto Zero', link: '/capitulo-233' },
             ]
           },
         ]
