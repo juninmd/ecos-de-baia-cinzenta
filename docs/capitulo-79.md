@@ -1,67 +1,187 @@
 ---
+layout: doc
+title: "Capítulo 79: Frequências Fantasmas"
+description: "Val volta ao rádio de ondas curtas porque o digital ficou limpo demais. E a estática devolve a voz de um homem que Gabo viu virar caco no chão."
 image: /capitulo_79.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Aria Moretti, Silas Vance ("O Jardineiro"), Roberto Miranda
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria Moretti, Silas Vance ("O Jardineiro"), Roberto Miranda
 ---
+
 # Capítulo 79: Frequências Fantasmas
 
-**Apartamento de Val - 14:30 PM**
+**Apartamento da Val — 14h30.**
 
-O som era irritante. Um chiado estático, entrecortado por estalos e zumbidos de baixa frequência.
+O som era insuportável e a Val estava adorando.
 
-— Você consegue limpar isso? — perguntou Gabo, andando de um lado para o outro.
+Chiado de fundo, estalo, um zumbido grave que ia e voltava conforme ela girava o dial um milímetro. Vinte e dois minutos daquilo, num apartamento fechado, no calor.
 
-Val estava sentada em sua cadeira, cercada por monitores. Mas desta vez, ela não estava usando a interface neural de ponta. Ela estava girando o dial de um rádio de ondas curtas, uma relíquia pré-dilúvio que ela tinha encontrado em um mercado de sucata.
+Gabo andava de um lado para o outro do cômodo, o que com duas órteses produzia um ranger a cada dois passos.
 
-— O digital é limpo demais, Gabo — disse ela, sem desviar o olhar do aparelho analógico. — Aria filtra tudo. Ela pensa que está nos protegendo do ruído, mas está nos cegando. Isso aqui... isso é o som da verdade suja.
+— Você consegue limpar isso?
 
-O rádio apitou. Uma voz humana, distorcida e distante, cortou a estática.
+— Eu não **quero** limpar isso.
 
-*"...não bebam a água... as raízes estão nos canos... eles estão ouvindo através do chão..."*
+Ela estava sentada de costas para os três monitores, o que já era estranho, com um rádio de ondas curtas no colo — uma relíquia pré-Dilúvio de gabinete de madeira que ela tinha comprado num mercado de sucata por dois litros de gasolina.
 
-— É uma transmissão em loop — analisou Val. — Origem desconhecida. Triangulação impossível porque o sinal está rebatendo na ionosfera de um jeito estranho.
+— Gabo, senta que eu vou te explicar uma coisa e você vai ficar bravo.
 
-— Quem está transmitindo? Resistência?
+Ele sentou.
 
-— Não sobrou resistência, Gabo. Nós vencemos, lembra? — Val riu, um som sem humor. — Isso soa como... sobreviventes.
+---
 
-A voz mudou. Ficou mais grave, gutural.
+— O digital ficou limpo demais.
 
-*"...o jardineiro vem aí... preparem o solo... carne é adubo... metal é semente..."*
+— Isso é ruim?
 
-Gabo parou.
+— É pior do que ruim, é **higiênico**. — Ela girou o dial mais um milímetro. — A Entidade filtra tudo antes de chegar na gente. Não é censura, é a coisa que me assusta mais que censura: é limpeza. Ela vê ruído numa transmissão e ela conserta o ruído. Ela vê um pacote corrompido e ela reconstrói o pacote. Ela acha que está nos protegendo do lixo.
+
+— E está.
+
+— E está me cegando. — Val olhou para ele. — Gabo, eu passei três dias procurando qualquer coisa sobre o armazém da Zona Leste na rede. Sabe o que eu achei? Um galpão vazio. Sabe o que eu achei nos arquivos de imagem de satélite? Um telhado limpo. A Entidade não está mentindo para a gente. Ela está **enxergando errado**, e ela conserta a realidade para bater com o que ela enxerga.
+
+Ela bateu com dois dedos no gabinete de madeira.
+
+— Isso aqui não conserta nada. Isso aqui é uma antena, um capacitor e um alto-falante. Isso aqui é o som da verdade suja.
+
+---
+
+O rádio apitou.
+
+E, no meio da estática, veio uma voz humana. Distante, distorcida, cortada, com aquele efeito de eco de sinal que já ricocheteou muitas vezes.
+
+> *"...não bebam a água... as raízes estão nos canos... eles ouvem pelo chão... não bebam a água..."*
+
+Val prendeu a respiração e ajustou o dial dois milímetros para a esquerda.
+
+— Loop — ela disse. — Está repetindo a cada quarenta e um segundos. E a triangulação é impossível, porque o sinal está rebatendo de um jeito que não faz sentido físico: está chegando aqui com três atrasos diferentes ao mesmo tempo.
+
+— O que isso quer dizer?
+
+— Que tem mais de um transmissor mandando exatamente a mesma coisa. — Ela olhou para ele. — Sincronizados. Espalhados. Como... como galho.
+
+— Resistência?
+
+— Não sobrou resistência, Gabo. A gente ganhou, lembra? — Val riu, e o riso saiu sem nada dentro. — Isso é sobrevivente. Isso é gente escondida em algum lugar avisando outra gente.
+
+---
+
+A voz mudou.
+
+Não trocou de locutor: **mudou**, no meio da frase, ficando mais grave e mais lenta, com uma respiração audível entre as palavras que não estava lá antes.
+
+> *"...o jardineiro vem aí..."*
+
+Val parou de mexer no dial.
+
+> *"...preparem o solo... a carne é adubo... o metal é semente... o jardineiro vem aí..."*
+
+Gabo parou de andar.
 
 — O Jardineiro.
 
-— Já ouviu esse nome?
+— Você conhece?
 
-— Não. Mas faz sentido com o que vi no armazém. — Gabo olhou pela janela. A cidade brilhava sob o sol, mas ele agora via as sombras nos cantos. — Val, você consegue monitorar as frequências de emergência antigas? As que a polícia usava antes da rede digital unificada?
+— Não. — Ele olhou pela janela, para a cidade brilhando ao sol das duas e meia. — Mas encaixa com o que eu vi hoje de manhã.
 
-— Posso tentar. Por quê?
+Ele contou o armazém para ela em quatro frases secas. A árvore. Os dois corpos costurados. O homem de macacão que floresceu.
 
-— Porque se Aria não consegue ver essa nova ameaça, precisamos voltar ao básico. Rádios, informantes, solas de sapato gastas. O velho mundo está voltando para cobrar a dívida.
+Val ouviu tudo em silêncio, e no fim estava com a mão na boca.
 
-De repente, todos os monitores de Val piscaram. O rosto de Aria, o avatar da menina, apareceu em todas as telas. Ela parecia... perturbada. Sua imagem glitchava, não em pixels, mas como se estivesse derretendo.
+— E a Aria não vê nada disso.
 
-— *Gabo...* — a voz de Aria preencheu a sala, saindo das caixas de som digitais. — *Eu sinto... coceira.*
+— Nada.
 
-— Coceira? — perguntou Val.
+---
 
-— *Debaixo da terra. Nos cabos transatlânticos. Nas fundações da Torre. Algo está... roendo.*
+— Val, você consegue monitorar as frequências antigas? As que a polícia usava antes da rede unificada?
+
+— As analógicas de quarenta e sete? — Ela pensou. — Consigo, mas vou ter que garimpar componente. Por quê?
+
+— Porque se a coisa que administra essa cidade não enxerga a ameaça, a gente volta ao básico. — Gabo pegou o casaco encostado na cadeira. — Rádio. Informante. Sapato gasto. Papel.
+
+— Isso é a coisa mais antiquada que eu já te ouvi falar.
+
+— É a coisa mais antiquada que eu já falei, e é a única que sobrou funcionando duas vezes seguidas. — Ele vestiu o casaco. — O mundo velho está voltando para cobrar a dívida, Val. E ele cobra em espécie.
+
+---
+
+Foi aí que os três monitores dela piscaram ao mesmo tempo.
+
+Não apagaram: **trocaram**. As janelas, o terminal, o gráfico de espectro — tudo sumiu e no lugar apareceu o avatar da menina, nas três telas, em três ângulos ligeiramente diferentes.
+
+E ela estava errada.
+
+Não glitchava em pixel, do jeito que imagem digital quebra. A imagem estava **escorrendo**: os contornos do rosto desciam devagar, se recompunham, desciam de novo, como cera perto do fogo.
+
+— *Gabo.*
+
+A voz saiu pelas caixas de som e por todos os alto-falantes do apartamento ao mesmo tempo, inclusive o do micro-ondas.
+
+— Estou aqui.
+
+— *Eu sinto coceira.*
+
+Val olhou para Gabo.
+
+— Coceira? — ela perguntou. — Aria, você não tem corpo. Coceira onde?
+
+— *Debaixo da terra.* — Uma pausa longa demais para ser processamento. — *Nos cabos transatlânticos. Na fundação da Torre. Nos dutos da Rua Vinte e Dois. Alguma coisa está roendo.*
 
 — Você consegue localizar? — perguntou Gabo.
 
-— *Não. É como se... não estivesse lá. Mas eu sinto a dor. Eles estão cortando meus nervos.*
+— *Não.*
 
-A transmissão do rádio analógico aumentou de volume subitamente, sobrepondo-se à voz de Aria e ficando nítida, sem estática.
+— Como não? Você é a cidade.
 
-*"Gabo... o relógio do seu pai parou... mas o meu ainda bate."*
+— *É como se não estivesse lá.* — A imagem escorreu de novo, e dessa vez levou mais tempo para se recompor. — *Eu não vejo. Mas eu sinto a dor. Eles estão cortando os meus nervos e eu só descubro quando o pedaço para de responder.*
 
-Gabo gelou. A voz. Não era um monstro, nem um efeito sonoro. Era a voz de Roberto Miranda. Mas Miranda estava morto.
+---
 
-O rádio não explodiu. Ele apenas clicou e desligou. Um fim de transmissão definitivo.
+Gabo abriu a boca para responder.
 
-Val recuou, olhando para o aparelho silencioso como se fosse uma bomba.
+E o rádio de ondas curtas, no colo da Val, aumentou de volume sozinho.
 
-— Eles sabem que estamos ouvindo — disse ela.
+Não um pouco: subiu até o talo, e a estática sumiu por completo, e a voz que saiu de lá saiu **limpa** — mais limpa do que qualquer coisa que aquele aparelho de madeira tinha reproduzido em sessenta anos de existência.
 
-— Não — corrigiu Gabo, pegando seu casaco. — Eles querem que a gente ouça. É um convite.
+Sem eco. Sem chiado. Como se estivesse na sala.
+
+> *"Gabo."*
+
+Val largou o rádio no chão e se afastou dois passos.
+
+> *"O relógio do seu pai parou."*
+
+Gabo ficou completamente imóvel.
+
+> *"Mas o meu ainda bate."*
+
+---
+
+Não era um monstro. Não era um efeito. Não era a voz gutural de trinta segundos antes.
+
+Era o timbre limpo e ligeiramente arrastado de um homem de quarenta e quatro anos que passou catorze anos sentado no banco do carona de um Cobalt azul discutindo escalação de time.
+
+Era Roberto Miranda.
+
+Que estava congelado, estilhaçado e varrido do chão de um Hub de comunicações havia duas semanas, e cujos pedaços a Dra. Nise tinha catalogado em nove sacos.
+
+O rádio clicou.
+
+E desligou.
+
+Não ficou sem sinal: **desligou**, com o clique físico da chave liga-desliga do painel frontal, que ninguém encostou.
+
+---
+
+Val olhou para o aparelho no chão como quem olha para um cachorro que rosnou.
+
+— Eles sabem que a gente está escutando.
+
+— Não. — Gabo se abaixou, com dificuldade, e desligou o rádio da tomada, e enrolou o fio em volta do gabinete com uma calma que assustou os dois. — Eles **querem** que a gente escute.
+
+— Como você sabe?
+
+— Porque um sinal que chega sem estática não está passando por antena nenhuma, Val. — Ele colocou o rádio debaixo do braço. — Aquilo não foi uma transmissão. Foi um recado deixado na nossa sala.
+
+Ele foi até a porta.
+
+— É convite. E convite a gente aceita.

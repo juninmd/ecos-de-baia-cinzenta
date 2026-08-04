@@ -1,65 +1,163 @@
 ---
+layout: doc
+title: "Capítulo 62: O Santo e a Criança"
+description: "O executor mais eficiente da cidade encontra a única coisa contra a qual não tem protocolo: alguém que fala com ele em vez de correr."
 image: /capitulo_62.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Aria Moretti
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria Moretti
 ---
+
 # Capítulo 62: O Santo e a Criança
 
-**Exterior da Van - Beco Industrial**
+**Beco industrial, atrás da van.**
 
-A porta traseira da van foi arrancada como se fosse feita de papel alumínio. A figura que estava lá fora bloqueava a pouca luz da lua.
+A porta traseira não foi arrombada.
+
+Foi **removida**: alguém encaixou os dedos na fresta da dobradiça e puxou, e a chapa de aço saiu com o barulho de uma lata de conserva sendo aberta com faca, e a dobradiça de baixo ficou pendurada, girando.
+
+A figura que apareceu no vão tapava a lua.
 
 O Santo.
 
-Ele usava seu traje tático habitual, uma mistura de padre e executor. A máscara balística branca, sem feições, refletia o medo de quem a olhasse.
+Traje tático de placa cerâmica, corte reto, com um colarinho alto e rígido que era a única concessão estética do conjunto e que fazia a silhueta lembrar batina. A máscara balística era branca, lisa e sem feição nenhuma: nem grade de respiração, nem lente aparente, nada. Só uma superfície curva onde devia haver rosto.
 
-Gabo disparou três vezes. Os tiros atingiram o peito do gigante, mas ele nem recuou. Kevlar reforçado com placas de cerâmica.
+Gabo disparou três vezes antes de pensar.
 
-O Santo avançou, rápido demais para um homem daquele tamanho. Ele agarrou Gabo pelo pescoço e o arremessou contra a parede do beco. O impacto fez o ar sair dos pulmões de Gabo e as órteses chiar em protesto.
+Os três acertaram: dois no peito, um no ombro. O corpo não recuou. Não é que ele resistiu ao impacto — o impacto foi absorvido pela placa e distribuído, e a massa daquele homem era grande o bastante para que trinta joules não significassem nada.
 
-Val tentou atacá-lo com uma barra de ferro, mas O Santo apenas a empurrou com o dorso da mão, jogando-a para dentro da van, desacordada.
+Ele entrou na van.
 
-Gabo tentou se levantar, mas O Santo colocou a bota pesada sobre seu peito, pressionando. Gabo ouviu suas costelas estalarem.
+---
 
-— O Prefeito manda lembranças — disse O Santo. A voz era distorcida, metálica.
+Não houve luta.
 
-Ele levantou o punho para o golpe final. Aquele golpe que quebrava pescoços.
+Isso é importante, porque nos anos seguintes muita gente contou aquela cena como se tivesse havido: houve dez segundos em que um homem enorme fez o que quis com duas pessoas cansadas.
 
-Aria saiu da van.
+Ele agarrou Gabo pela gola e pelo cinto e o arremessou pela porta aberta.
 
-Ela não correu. Ela caminhou até o gigante. Pequena, descalça, segurando sua boneca.
+Gabo voou dois metros e meio e bateu de costas na parede de tijolo do beco, e o ar saiu inteiro dos pulmões dele de uma vez, e as órteses das pernas guincharam e uma das barras entortou.
 
-— *Pare* — ela disse. Não mentalmente. Ela falou, com uma voz rouca de quem não usava as cordas vocais há muito tempo.
+Val atacou com uma barra de ferro. Ela acertou, aliás — acertou bem, na lateral do joelho, que era o alvo certo.
 
-O Santo congelou. O punho parou no ar.
+O Santo empurrou ela com as costas da mão, sem virar o corpo, e ela voou para dentro da van e bateu a cabeça no rack e ficou lá.
 
-Ele virou a cabeça lentamente para a menina. As lentes de sua máscara focaram nela.
+Depois ele foi até Gabo, que estava tentando se levantar apoiado numa lixeira, e pôs a bota no peito dele e empurrou para o chão.
 
-Aria levantou a mão e tocou a perna blindada do assassino.
+E aplicou peso.
 
-— *Você dói* — disse ela.
+Gabo ouviu as próprias costelas antes de sentir: dois estalos surdos, do lado esquerdo, com meio segundo entre um e outro. Depois veio a dor, e a dor veio com a informação de que ele não conseguia mais encher o pulmão.
 
-O Santo recuou, como se tivesse levado um choque. Ele tirou o pé do peito de Gabo e cambaleou para trás, levando as mãos à cabeça.
+— O prefeito manda lembranças — disse O Santo.
 
-— Não... — A voz do Santo falhou. Parecia humana agora. Confusa. — O alvo... protocolo... erro...
+A voz saía metálica e chapada pelo modulador, sem sotaque, sem idade, sem nada.
 
-Ele olhou para Aria, depois para as próprias mãos enluvadas.
+Ele ergueu o punho direito.
 
-— Quem... é você? — perguntou O Santo.
+Gabo conhecia aquele golpe de laudo — tinha assinado quatro. É um golpe descendente na base do pescoço, entre a clavícula e a traqueia, e não deixa marca externa que preste, e o laudo sempre sai como trauma contuso compatível com queda.
 
-Gabo aproveitou a distração. Ele pegou a escopeta "Caronte" que tinha caído ao seu lado.
+---
 
-Mas ele não atirou. Ele viu algo estranho. O Santo estava tremendo.
+A menina saiu da van.
 
-— *Irmão* — disse Aria.
+Ela não correu. Desceu do estribo com cuidado, primeiro um pé e depois o outro, do jeito que criança pequena desce degrau alto, e depois caminhou pelo beco molhado.
 
-A palavra pairou no ar, pesada e impossível.
+Descalça. De vestido. Com a boneca de pano pendurada na mão esquerda, arrastando a perna remendada na água suja.
 
-O comunicador no ouvido do Santo apitou alto. Gabo pôde ouvir a voz de Roberto Miranda gritando: *"Mate a garota! Execute o protocolo agora, seu pedaço de lixo!"*
+— *Para.*
 
-O Santo gritou, um som de fúria e dor, e socou a parede de tijolos ao lado dele, demolindo-a.
+Não foi por dentro. Foi pelo ar, com voz de verdade — rouca, arranhada, com aquele timbre errado de quem tem cordas vocais e não usa.
 
-Ele olhou para Gabo, depois para Aria.
+O punho parou no alto.
 
-— Corram — rosnou ele. — Antes que *ele* assuma o controle de novo.
+O Santo virou a cabeça devagar, com uma mecânica quase educada, e a máscara branca focou na criança.
 
-Gabo não questionou. Ele pegou Val, que estava acordando, agarrou a mão de Aria e correu para a escuridão, deixando o monstro lutando contra seus próprios demônios no beco chuvoso.
+---
+
+Ela chegou perto.
+
+Isso é o que Gabo, deitado no chão do beco com duas costelas partidas e sem ar, ia lembrar pelo resto da vida: ela **chegou perto**. Parou a menos de um metro de um homem de dois metros e dez que acabava de arremessar duas pessoas adultas, e levantou a mão, e encostou os dedos na placa blindada da coxa dele.
+
+— *Você dói* — ela disse.
+
+O Santo recuou.
+
+Não foi um passo tático. Foi um tranco para trás, desengonçado, de quem levou um choque na cerca elétrica: ele tirou a bota do peito de Gabo, tropeçou no próprio pé e bateu o ombro na parede.
+
+As duas mãos foram para os lados da cabeça.
+
+— Não... — A voz saiu duas vezes: uma pelo modulador, chapada, e a outra por baixo, abafada, e essa segunda era humana. — O alvo... protocolo dois... erro... protocolo...
+
+Ele olhou para as próprias mãos enluvadas como se não soubesse de quem eram.
+
+— Quem... — A frase custou. — Quem é você?
+
+— *Irmão* — disse a menina.
+
+---
+
+A palavra ficou no ar do beco.
+
+Gabo, no chão, com o rosto de lado na poça, parou de tentar respirar por um segundo.
+
+*Irmão.*
+
+E o cérebro dele, que era treinado e que não desligava nem quebrado, foi juntando em silêncio: um executor que ninguém nunca viu sem máscara. Que não fala, e quando fala é por aparelho. Que tem força fora de escala e um protocolo com número. Que trabalha para a Aeterna sem folha de pagamento, sem RG, sem nada.
+
+Se a menina que morreu afogada aos cinco anos foi *coletada* — se existe um arquivo com o nome dela e uma classificação —, então ela não foi a única.
+
+Ela foi só a que sobrou pequena.
+
+Gabo conseguiu se apoiar num cotovelo e pegou a *Caronte*, que tinha caído a um metro dele.
+
+E não atirou.
+
+Ficou com a arma apontada para as costas do homem, com o dedo fora do gatilho, olhando aquele monstro tremer no meio de um beco.
+
+---
+
+O comunicador no ouvido do Santo apitou tão alto que dava para ouvir de fora.
+
+E a voz que saiu de lá dentro, vazando pelo fone, era inconfundível — o timbre limpo, a dicção de reunião, a irritação mal contida de um homem que está sendo obrigado a repetir uma ordem:
+
+— *"Mate a garota. Executa o protocolo agora, seu pedaço de lixo. AGORA."*
+
+O Santo gritou.
+
+Não foi grito de dor nem de raiva: foi as duas coisas presas no mesmo som, e o modulador não conseguiu processar e devolveu um ruído rasgado, elétrico, horrível.
+
+Ele girou e socou a parede de tijolos ao lado dele.
+
+O punho entrou trinta centímetros. A parede desabou num pedaço de dois metros, e a poeira de tijolo subiu e ficou pairando na garoa, e do outro lado do buraco havia um depósito escuro com prateleiras vazias.
+
+Ele ficou com o braço enfiado no buraco, respirando alto, sem tirar.
+
+Depois virou a cabeça para Gabo. Depois para a menina.
+
+— Corram — rosnou. E era a voz de baixo, a humana, e ela estava com pressa. — Corram antes que **ele** volte.
+
+---
+
+Gabo não perguntou nada.
+
+Perguntar é um luxo, e ele estava com duas costelas quebradas e sem ar e com a órtese esquerda entortada. Ele engatinhou até a van, subiu no estribo com os dois braços, agarrou a Val pelo colete e a puxou até ela reagir e começar a andar sozinha, meio bêbada, sangrando da têmpora.
+
+Pegou a mão da menina.
+
+A mão era fria e pequena e não tinha pulso nenhum, e ele já sabia disso havia semanas e continuou segurando.
+
+Os três saíram pelo lado do beco, na direção do canal.
+
+---
+
+Atrás deles, o homem de máscara branca continuou de pé no escuro, com o braço enfiado numa parede, brigando sozinho.
+
+Mas Gabo olhou para trás uma vez, de longe, e por isso viu a última coisa, e nunca contou a ninguém.
+
+O Santo tirou a máscara.
+
+Foi só um instante, e a distância era grande, e a garoa era espessa, e Gabo não conseguiu ver traço nenhum — nem cor de cabelo, nem idade, nada.
+
+Só uma coisa.
+
+O sujeito ficou parado, com a máscara balística branca pendurada na mão, e virou o rosto para o céu, e deixou a chuva bater nele.
+
+Do jeito que faz quem passou muito tempo sem sentir chuva.

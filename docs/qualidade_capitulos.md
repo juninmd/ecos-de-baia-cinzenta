@@ -4,65 +4,12 @@
 > Ordenado do pior para o melhor: a revisão manual começa no topo.
 
 - **Capítulos avaliados:** 234
-- **Reprovados em portão duro:** 53
-- **Abaixo do alvo de 1100 palavras:** 103
-- **Nota média:** 8.3/10
+- **Reprovados em portão duro:** 0
+- **Abaixo do alvo de 1100 palavras:** 105
+- **Nota média:** 8.6/10
 
 | Capítulo | Palavras | Atm | Custo | Voz | Ritmo | Conseq | Nota | Veredito | Portões |
 |---|---|---|---|---|---|---|---|---|---|
-| Capítulo 92: A Praga de Ferro | 317 | 0 | 1 | 2 | 2 | 1 | **6** | 🚫 REPROVADO | D1 extensão (317 palavras) |
-| Capítulo 75: Horizonte de Eventos | 387 | 1 | 0 | 2 | 2 | 1 | **6** | 🚫 REPROVADO | D1 extensão (387 palavras) |
-| Capítulo 89: Memória Genética | 408 | 1 | 1 | 1 | 2 | 1 | **6** | 🚫 REPROVADO | D1 extensão (408 palavras) |
-| Capítulo 93: Fome | 408 | 1 | 0 | 2 | 2 | 1 | **6** | 🚫 REPROVADO | D1 extensão (408 palavras) |
-| Capítulo 49: A Vigília | 425 | 1 | 0 | 2 | 2 | 1 | **6** | 🚫 REPROVADO | D1 extensão (425 palavras) |
-| Capítulo 71: Marco Zero | 475 | 0 | 1 | 2 | 2 | 1 | **6** | 🚫 REPROVADO | D1 extensão (475 palavras) |
-| Capítulo 69: O Fantasma no Shell | 522 | 1 | 0 | 2 | 2 | 1 | **6** | 🚫 REPROVADO | D1 extensão (522 palavras) |
-| Capítulo 59: A Fundação | 546 | 1 | 0 | 2 | 2 | 1 | **6** | 🚫 REPROVADO | D1 extensão (546 palavras) |
-| Capítulo 43: Água Negra | 279 | 1 | 1 | 2 | 2 | 1 | **7** | 🚫 REPROVADO | D1 extensão (279 palavras) |
-| Capítulo 42: O Campo de Refugiados | 313 | 1 | 1 | 2 | 2 | 1 | **7** | 🚫 REPROVADO | D1 extensão (313 palavras) |
-| Capítulo 85: O Sol Negro | 335 | 1 | 1 | 2 | 2 | 1 | **7** | 🚫 REPROVADO | D1 extensão (335 palavras) |
-| Capítulo 97: O Último Suspiro | 336 | 1 | 1 | 2 | 2 | 1 | **7** | 🚫 REPROVADO | D1 extensão (336 palavras) |
-| Capítulo 94: O Coração da Colmeia | 370 | 1 | 1 | 2 | 2 | 1 | **7** | 🚫 REPROVADO | D1 extensão (370 palavras) |
-| Capítulo 50: O Silêncio da Chuva | 384 | 1 | 1 | 2 | 2 | 1 | **7** | 🚫 REPROVADO | D1 extensão (384 palavras) |
-| Capítulo 44: O Que Saiu do Ralo | 389 | 1 | 1 | 2 | 2 | 1 | **7** | 🚫 REPROVADO | D1 extensão (389 palavras) |
-| Capítulo 91: Protocolo Gênesis | 390 | 1 | 1 | 2 | 2 | 1 | **7** | 🚫 REPROVADO | D1 extensão (390 palavras) |
-| Capítulo 86: Simbiose | 416 | 1 | 1 | 2 | 2 | 1 | **7** | 🚫 REPROVADO | D1 extensão (416 palavras) |
-| Capítulo 73: Carne e Metal | 418 | 1 | 1 | 2 | 2 | 1 | **7** | 🚫 REPROVADO | D1 extensão (418 palavras) |
-| Capítulo 88: Sintomas de Abstinência | 421 | 1 | 1 | 2 | 2 | 1 | **7** | 🚫 REPROVADO | D1 extensão (421 palavras) |
-| Capítulo 87: O Novo Sacerdócio | 423 | 1 | 1 | 2 | 2 | 1 | **7** | 🚫 REPROVADO | D1 extensão (423 palavras) |
-| Capítulo 83: Raízes | 434 | 1 | 1 | 2 | 2 | 1 | **7** | 🚫 REPROVADO | D1 extensão (434 palavras) |
-| Capítulo 39: Dossiê Vance | 438 | 1 | 1 | 2 | 2 | 1 | **7** | 🚫 REPROVADO | D1 extensão (438 palavras) |
-| Capítulo 72: A Ofensiva | 462 | 1 | 1 | 2 | 2 | 1 | **7** | 🚫 REPROVADO | D1 extensão (462 palavras) |
-| Capítulo 37: A Linha Azul | 464 | 1 | 1 | 2 | 2 | 1 | **7** | 🚫 REPROVADO | D1 extensão (464 palavras) |
-| Capítulo 62: O Santo e a Criança | 478 | 1 | 1 | 2 | 2 | 1 | **7** | 🚫 REPROVADO | D1 extensão (478 palavras) |
-| Capítulo 80: A Autópsia de um Deus | 487 | 1 | 1 | 2 | 2 | 1 | **7** | 🚫 REPROVADO | D1 extensão (487 palavras) |
-| Capítulo 61: Tinta no Papel | 497 | 0 | 2 | 2 | 2 | 1 | **7** | 🚫 REPROVADO | D1 extensão (497 palavras) |
-| Capítulo 63: Águas Profundas | 497 | 1 | 1 | 2 | 2 | 1 | **7** | 🚫 REPROVADO | D1 extensão (497 palavras) |
-| Capítulo 81: Sangue e Óleo | 507 | 1 | 1 | 2 | 2 | 1 | **7** | 🚫 REPROVADO | D1 extensão (507 palavras) |
-| Capítulo 79: Frequências Fantasmas | 523 | 1 | 1 | 2 | 2 | 1 | **7** | 🚫 REPROVADO | D1 extensão (523 palavras) |
-| Capítulo 46: O Dilúvio | 534 | 1 | 1 | 2 | 2 | 1 | **7** | 🚫 REPROVADO | D1 extensão (534 palavras) |
-| Capítulo 65: O Novo Inquilino | 534 | 1 | 1 | 2 | 2 | 1 | **7** | 🚫 REPROVADO | D1 extensão (534 palavras) |
-| Capítulo 204: O Despertar da Ferrugem | 546 | 1 | 1 | 2 | 2 | 1 | **7** | 🚫 REPROVADO | D1 extensão (546 palavras) |
-| Capítulo 58: O Dilema do Capitão | 554 | 1 | 1 | 2 | 2 | 1 | **7** | 🚫 REPROVADO | D1 extensão (554 palavras) |
-| Capítulo 35: Calibre 12 | 557 | 1 | 1 | 2 | 2 | 1 | **7** | 🚫 REPROVADO | D1 extensão (557 palavras) |
-| Capítulo 64: A Cidade Fantasma | 562 | 1 | 1 | 2 | 2 | 1 | **7** | 🚫 REPROVADO | D1 extensão (562 palavras) |
-| Capítulo 131: Necrópole | 597 | 2 | 0 | 2 | 2 | 1 | **7** | 🚫 REPROVADO | D1 extensão (597 palavras) |
-| Capítulo 214: O Coração Estéril | 599 | 2 | 1 | 1 | 2 | 1 | **7** | 🚫 REPROVADO | D1 extensão (599 palavras) |
-| Capítulo 74: O Sacrifício de Lázaro | 376 | 1 | 2 | 2 | 2 | 1 | **8** | 🚫 REPROVADO | D1 extensão (376 palavras) |
-| Capítulo 95: Sacrifício Necessário | 418 | 1 | 2 | 2 | 2 | 1 | **8** | 🚫 REPROVADO | D1 extensão (418 palavras) |
-| Capítulo 84: A Primeira Colheita | 446 | 2 | 1 | 2 | 2 | 1 | **8** | 🚫 REPROVADO | D1 extensão (446 palavras) |
-| Capítulo 18: A Queda | 467 | 1 | 2 | 2 | 2 | 1 | **8** | 🚫 REPROVADO | D1 extensão (467 palavras) |
-| Capítulo 90: O Arquivista | 488 | 1 | 2 | 2 | 2 | 1 | **8** | 🚫 REPROVADO | D1 extensão (488 palavras) |
-| Capítulo 56: O Preço do Amanhã | 521 | 1 | 2 | 1 | 2 | 2 | **8** | 🚫 REPROVADO | D1 extensão (521 palavras) |
-| Capítulo 178: O Som do Subterrâneo | 530 | 2 | 2 | 1 | 2 | 1 | **8** | 🚫 REPROVADO | D1 extensão (530 palavras) |
-| Capítulo 78: O Jardim de Concreto | 540 | 2 | 1 | 2 | 2 | 1 | **8** | 🚫 REPROVADO | D1 extensão (540 palavras) |
-| Capítulo 82: O Profeta Mudo | 546 | 2 | 1 | 2 | 2 | 1 | **8** | 🚫 REPROVADO | D1 extensão (546 palavras) |
-| Capítulo 28: O Último Suspiro da Torre | 575 | 2 | 1 | 2 | 2 | 1 | **8** | 🚫 REPROVADO | D1 extensão (575 palavras) |
-| Capítulo 32: O Vazio do Silêncio | 575 | 1 | 2 | 2 | 2 | 1 | **8** | 🚫 REPROVADO | D1 extensão (575 palavras) |
-| Capítulo 209: Cristais de Óxido | 594 | 2 | 1 | 2 | 2 | 1 | **8** | 🚫 REPROVADO | D1 extensão (594 palavras) |
-| Capítulo 38: A Ressaca | 401 | 2 | 1 | 2 | 2 | 2 | **9** | 🚫 REPROVADO | D1 extensão (401 palavras) |
-| Capítulo 33: A Sabedoria da Ferrugem | 534 | 2 | 2 | 2 | 2 | 1 | **9** | 🚫 REPROVADO | D1 extensão (534 palavras) |
-| Capítulo 169: O Fantasma na Máquina de Carne | 551 | 2 | 1 | 2 | 2 | 2 | **9** | 🚫 REPROVADO | D1 extensão (551 palavras) |
 | Capítulo 67: Cidade Viva | 662 | 1 | 0 | 2 | 2 | 1 | **6** | ⚠️ revisar | curto (662) |
 | Capítulo 68: A Caçada Inversa | 666 | 1 | 0 | 2 | 2 | 1 | **6** | ⚠️ revisar | curto (666) |
 | Capítulo 57: Zona de Interesse | 731 | 1 | 0 | 2 | 2 | 1 | **6** | ⚠️ revisar | curto (731) |
@@ -74,6 +21,10 @@
 | Capítulo 142: Veias de Vidro | 813 | 2 | 0 | 2 | 2 | 1 | **7** | ✅ publicável | curto (813) |
 | Capítulo 12: Cancelamento | 886 | 2 | 0 | 2 | 2 | 1 | **7** | ✅ publicável | curto (886) |
 | Capítulo 25: Elevador para o Inferno | 983 | 1 | 1 | 2 | 2 | 1 | **7** | ✅ publicável | curto (983) |
+| Capítulo 93: Fome | 1230 | 1 | 1 | 2 | 2 | 1 | **7** | ✅ publicável | — |
+| Capítulo 91: Protocolo Gênesis | 1241 | 1 | 1 | 2 | 2 | 1 | **7** | ✅ publicável | — |
+| Capítulo 79: Frequências Fantasmas | 1293 | 1 | 1 | 2 | 2 | 1 | **7** | ✅ publicável | — |
+| Capítulo 83: Raízes | 1393 | 1 | 1 | 2 | 2 | 1 | **7** | ✅ publicável | — |
 | Capítulo 227: O Estagiário | 1498 | 1 | 1 | 2 | 2 | 1 | **7** | ✅ publicável | — |
 | Capítulo 207: O Peso da Ferrugem | 602 | 2 | 1 | 2 | 2 | 1 | **8** | ✅ publicável | curto (602) |
 | Capítulo 210: Roldanas e Sangue | 618 | 2 | 1 | 2 | 2 | 1 | **8** | ✅ publicável | curto (618) |
@@ -127,15 +78,31 @@
 | Capítulo 108: Ratos de Cais | 1142 | 2 | 1 | 2 | 2 | 1 | **8** | ✅ publicável | — |
 | Capítulo 17: O Ultimato | 1150 | 1 | 2 | 2 | 2 | 1 | **8** | ✅ publicável | — |
 | Capítulo 156: Condutores de Cobre | 1182 | 2 | 1 | 2 | 2 | 1 | **8** | ✅ publicável | — |
+| Capítulo 61: Tinta no Papel | 1202 | 2 | 1 | 2 | 2 | 1 | **8** | ✅ publicável | — |
+| Capítulo 85: O Sol Negro | 1249 | 2 | 1 | 2 | 2 | 1 | **8** | ✅ publicável | — |
+| Capítulo 88: Sintomas de Abstinência | 1257 | 1 | 1 | 2 | 2 | 2 | **8** | ✅ publicável | — |
 | Capítulo 110: Ponto Cego | 1277 | 1 | 2 | 2 | 2 | 1 | **8** | ✅ publicável | — |
 | Capítulo 101: Ressonância | 1287 | 1 | 2 | 2 | 2 | 1 | **8** | ✅ publicável | — |
 | Capítulo 41: Maré Alta | 1305 | 2 | 1 | 2 | 2 | 1 | **8** | ✅ publicável | — |
+| Capítulo 80: A Autópsia de um Deus | 1334 | 1 | 2 | 2 | 2 | 1 | **8** | ✅ publicável | — |
+| Capítulo 89: Memória Genética | 1334 | 1 | 2 | 2 | 2 | 1 | **8** | ✅ publicável | — |
 | Capítulo 219: Cuidado Perpétuo | 1341 | 1 | 2 | 2 | 2 | 1 | **8** | ✅ publicável | — |
 | Capítulo 222: O Homem que Podia Ir Embora | 1356 | 1 | 2 | 2 | 2 | 1 | **8** | ✅ publicável | — |
+| Capítulo 71: Marco Zero | 1364 | 1 | 1 | 2 | 2 | 2 | **8** | ✅ publicável | — |
+| Capítulo 214: O Coração Estéril | 1365 | 2 | 1 | 2 | 2 | 1 | **8** | ✅ publicável | — |
+| Capítulo 81: Sangue e Óleo | 1373 | 2 | 1 | 2 | 2 | 1 | **8** | ✅ publicável | — |
 | Capítulo 132: Esculturas de Carne | 1397 | 2 | 1 | 2 | 2 | 1 | **8** | ✅ publicável | — |
+| Capítulo 90: O Arquivista | 1425 | 1 | 2 | 2 | 2 | 1 | **8** | ✅ publicável | — |
+| Capítulo 37: A Linha Azul | 1450 | 1 | 2 | 2 | 2 | 1 | **8** | ✅ publicável | — |
+| Capítulo 73: Carne e Metal | 1454 | 1 | 1 | 2 | 2 | 2 | **8** | ✅ publicável | — |
+| Capítulo 131: Necrópole | 1457 | 2 | 1 | 2 | 2 | 1 | **8** | ✅ publicável | — |
+| Capítulo 86: Simbiose | 1465 | 1 | 2 | 2 | 2 | 1 | **8** | ✅ publicável | — |
 | Capítulo 157: A Inércia do Caos | 1503 | 2 | 1 | 2 | 2 | 1 | **8** | ✅ publicável | — |
 | Capítulo 224: O Preço do Ar | 1514 | 1 | 1 | 2 | 2 | 2 | **8** | ✅ publicável | — |
+| Capítulo 63: Águas Profundas | 1547 | 2 | 1 | 2 | 2 | 1 | **8** | ✅ publicável | — |
 | Capítulo 223: A Auditora | 1553 | 2 | 1 | 2 | 2 | 1 | **8** | ✅ publicável | — |
+| Capítulo 50: O Silêncio da Chuva | 1566 | 1 | 2 | 2 | 2 | 1 | **8** | ✅ publicável | — |
+| Capítulo 44: O Que Saiu do Ralo | 1761 | 2 | 1 | 2 | 2 | 1 | **8** | ✅ publicável | — |
 | Capítulo 228: O Grupo de Controle | 1902 | 1 | 2 | 2 | 2 | 1 | **8** | ✅ publicável | — |
 | Capítulo 216: A Pressão do Vazio | 631 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | curto (631) |
 | Capítulo 20: Profanação | 632 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | curto (632) |
@@ -173,6 +140,7 @@
 | Capítulo 189: A Sentinela de Biomassa | 1028 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | curto (1028) |
 | Capítulo 30: O Preço da Liberdade | 1030 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | curto (1030) |
 | Capítulo 173: Fronteiras de Ferrugem | 1030 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | curto (1030) |
+| Capítulo 97: O Último Suspiro | 1043 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | curto (1043) |
 | Capítulo 135: Otimização de Perdas | 1063 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | curto (1063) |
 | Capítulo 128: O Ventre da Besta | 1071 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | curto (1071) |
 | Capítulo 22: O Mapa da Alma | 1091 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | curto (1091) |
@@ -194,32 +162,60 @@
 | Capítulo 53: Café, Código e Conspiração | 1213 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 107: O Teorema da Chuva | 1213 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 16: Zona Morta | 1218 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
+| Capítulo 209: Cristais de Óxido | 1224 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 148: Tensão e Ferrugem | 1235 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
+| Capítulo 204: O Despertar da Ferrugem | 1235 | 2 | 1 | 2 | 2 | 2 | **9** | ⭐ obra-prima | — |
 | Capítulo 127: Catedrais de Pedra | 1262 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 162: Engrenagens Cegas | 1266 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 197: A Gravidade do Lodo | 1271 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
+| Capítulo 38: A Ressaca | 1281 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 184: O Relógio de Sangue | 1294 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 136: Peso da Carne | 1297 | 2 | 1 | 2 | 2 | 2 | **9** | ⭐ obra-prima | — |
 | Capítulo 7: O Fim do Silêncio | 1303 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
+| Capítulo 74: O Sacrifício de Lázaro | 1305 | 1 | 2 | 2 | 2 | 2 | **9** | ⭐ obra-prima | — |
+| Capítulo 62: O Santo e a Criança | 1307 | 1 | 2 | 2 | 2 | 2 | **9** | ⭐ obra-prima | — |
 | Capítulo 111: Arquivos Mortos | 1308 | 2 | 1 | 2 | 2 | 2 | **9** | ⭐ obra-prima | — |
+| Capítulo 87: O Novo Sacerdócio | 1322 | 2 | 1 | 2 | 2 | 2 | **9** | ⭐ obra-prima | — |
 | Capítulo 168: O Peso do Chumbo | 1322 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
+| Capítulo 94: O Coração da Colmeia | 1324 | 1 | 2 | 2 | 2 | 2 | **9** | ⭐ obra-prima | — |
+| Capítulo 84: A Primeira Colheita | 1341 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 36: O Ninho da Serpente | 1360 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 76: A Sombra do Meio-Dia | 1365 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
+| Capítulo 95: Sacrifício Necessário | 1366 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
+| Capítulo 75: Horizonte de Eventos | 1367 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 102: Raízes Amargas | 1371 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 105: O Silêncio de Concreto | 1371 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 130: Saturação | 1409 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
+| Capítulo 72: A Ofensiva | 1420 | 1 | 2 | 2 | 2 | 2 | **9** | ⭐ obra-prima | — |
+| Capítulo 39: Dossiê Vance | 1431 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
+| Capítulo 65: O Novo Inquilino | 1439 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
+| Capítulo 32: O Vazio do Silêncio | 1448 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
+| Capítulo 69: O Fantasma no Shell | 1457 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
+| Capítulo 59: A Fundação | 1459 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 218: O Ar Limpo | 1460 | 2 | 1 | 2 | 2 | 2 | **9** | ⭐ obra-prima | — |
 | Capítulo 154: A Otimização do Abismo | 1464 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
+| Capítulo 42: O Campo de Refugiados | 1475 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 117: Zero Absoluto | 1490 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
+| Capítulo 56: O Preço do Amanhã | 1496 | 1 | 2 | 2 | 2 | 2 | **9** | ⭐ obra-prima | — |
+| Capítulo 35: Calibre 12 | 1512 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 96: A Grande Convergência | 1551 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
+| Capítulo 78: O Jardim de Concreto | 1556 | 2 | 1 | 2 | 2 | 2 | **9** | ⭐ obra-prima | — |
 | Capítulo 230: A Conta Antiga | 1557 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
+| Capítulo 49: A Vigília | 1562 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
+| Capítulo 33: A Sabedoria da Ferrugem | 1569 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 3: Teatro de Carne | 1572 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
+| Capítulo 58: O Dilema do Capitão | 1573 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 15: Protocolo de Extermínio | 1580 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 232: O Justo | 1588 | 1 | 2 | 2 | 2 | 2 | **9** | ⭐ obra-prima | — |
+| Capítulo 92: A Praga de Ferro | 1605 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 155: Ferrugem e Plasma | 1608 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 47: O Mecanismo da Queda | 1633 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
+| Capítulo 64: A Cidade Fantasma | 1706 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
+| Capítulo 43: Água Negra | 1744 | 2 | 1 | 2 | 2 | 2 | **9** | ⭐ obra-prima | — |
+| Capítulo 46: O Dilúvio | 1749 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 225: O Charuto na Sala Limpa | 1852 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 70: O Expurgo | 1897 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
+| Capítulo 18: A Queda | 1908 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 106: Fios Invisíveis | 1957 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 4: A Torre de Marfim | 2166 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 213: O Peso da Maquinaria | 676 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | curto (676) |
@@ -227,6 +223,7 @@
 | Capítulo 177: Cicatrizes de Cobre | 937 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | curto (937) |
 | Capítulo 145: Sangue nas Dobradiças | 956 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | curto (956) |
 | Capítulo 75.5: Memórias de Chuva (Flashback) | 961 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | curto (961) |
+| Capítulo 178: O Som do Subterrâneo | 1069 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | curto (1069) |
 | Capítulo 104: O Preço da Alvorada | 1076 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | curto (1076) |
 | Capítulo 124: Carne e Cobre | 1090 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | curto (1090) |
 | Capítulo 133: Matéria Prima | 1164 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
@@ -237,10 +234,13 @@
 | Capítulo 19: O Código Morto | 1241 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 40: O Céu Quebrou | 1262 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 45: Protocolo N.O.A. | 1300 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
+| Capítulo 169: O Fantasma na Máquina de Carne | 1358 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 23: Ratos e Reis | 1437 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
+| Capítulo 82: O Profeta Mudo | 1482 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 226: A Mulher de Fora | 1533 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 221: Modo de Segurança | 1584 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 231: Catraca | 1611 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
+| Capítulo 28: O Último Suspiro da Torre | 1761 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 1: Olhos de Vidro | 1790 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 229: O Homem no Portão | 1835 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 60: Despejo | 2098 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |

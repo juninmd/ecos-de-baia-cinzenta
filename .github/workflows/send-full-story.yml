@@ -1,0 +1,43 @@
+name: Send Full Story
+
+# Envio manual da obra inteira num único documento, em oposição ao
+# `daily-telegram.yml`, que manda um capítulo por dia. Usa os mesmos Secrets.
+
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Compilar sem enviar nada ao Telegram"
+        required: false
+        default: false
+        type: boolean
+
+concurrency:
+  group: send-full-story
+  cancel-in-progress: false
+
+jobs:
+  send:
+    name: Send complete story to Telegram
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Send full story
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          ARGS=""
+          if [ "${{ inputs.dry_run }}" = "true" ]; then ARGS="--dry-run"; fi
+          python -m scripts.send_full_story $ARGS

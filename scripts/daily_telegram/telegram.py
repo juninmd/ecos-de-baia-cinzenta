@@ -76,6 +76,18 @@ class TelegramClient:
                 files={"photo": handle},
             )
 
+    def send_document(self, doc_path: Path, caption: str = "") -> None:
+        size_mb = doc_path.stat().st_size / (1024 * 1024)
+        if size_mb > 49:
+            print(f"⚠ Documento de {size_mb:.1f} MB excede o limite do bot (50 MB); pulando.")
+            return
+        with open(doc_path, "rb") as handle:
+            self._post(
+                "sendDocument",
+                {"chat_id": self.chat_id, "caption": caption[:CAPTION_LIMIT]},
+                files={"document": (doc_path.name, handle)},
+            )
+
     def send_video(self, video_path: Path, caption: str = "") -> None:
         size_mb = video_path.stat().st_size / (1024 * 1024)
         if size_mb > 49:

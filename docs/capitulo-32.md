@@ -1,61 +1,163 @@
 ---
+layout: doc
+title: "Capítulo 32: O Vazio do Silêncio"
+description: "Vinte e oito andares de escada no escuro, e a descoberta de que uma cidade inteira não sabia como era o silêncio."
 image: /capitulo_32.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Aria Moretti
+Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Valéria "Val" Cruz, Aria Moretti
 ---
+
 # Capítulo 32: O Vazio do Silêncio
 
-Descer 28 andares de escada com uma perna quebrada e carregando uma pessoa ferida é um tipo especial de inferno. Gabo já não sentia o joelho; a adrenalina e a dor tinham se fundido em um zumbido branco e furioso em sua mente.
+Descer vinte e oito andares de escada com uma perna quebrada, carregando uma pessoa desmaiada, é um tipo específico de inferno, e ele tem uma característica que ninguém conta: é **lento**.
 
-A escadaria era um pandemônio. Pessoas gritavam, empurravam, tropeçavam na escuridão quase total, quebrada apenas por flashes de celulares e lanternas de emergência fracas.
+Gabo já não sentia o joelho. A adrenalina e a dor tinham se fundido num zumbido branco que ocupava o lugar do pensamento, e o que restava dele funcionava por lista: apoiar o pé esquerdo, girar o quadril, descer o direito, verificar a Val no ombro, próximo degrau.
 
-— Saiam da frente! — gritava Elena, usando a coronha da pistola para forçar passagem. — Polícia!
+Vinte e oito andares dá quinhentos e sessenta degraus.
 
-A palavra não significava mais nada. O pânico era a única autoridade ali.
+Ele contou os cem primeiros. Depois desistiu de contar, porque contar estava piorando.
 
-No 15º andar, a multidão parou, espremida contra as portas corta-fogo. Trancadas eletronicamente. Mortas.
+---
 
-— Estamos presos! — gritou uma mulher, a voz estridente de pavor. — Vamos morrer aqui!
+A escadaria estava lotada.
 
-— Afastem-se! — rugiu Gabo.
+Não era pânico de filme. Era pior: era um congestionamento humano com pânico dentro. Duas mil pessoas tinham entrado ao mesmo tempo na única escada de emergência de um prédio projetado para evacuar mil e duzentas em condições de simulado, com luz, com sinalização e com fila.
 
-Ele colocou Val no chão com cuidado. Mancou até a porta. As dobradiças eram internas, o painel eletrônico, inútil.
+Não havia luz nenhuma. As balizas fotoluminescentes do piso — aquelas que carregam com a lâmpada do teto — tinham durado catorze minutos.
 
-— Elena, a "Caronte" — pediu ele, estendendo a mão.
+O que havia era flash de celular. Trinta, quarenta lanternas de telefone apontadas para direções aleatórias, cada uma cegando o vizinho, criando um estroboscópio caótico em que ninguém enxergava dois degraus à frente.
 
-— Sem munição — lembrou ela.
+E o barulho.
 
-— Não preciso de balas. Preciso de uma alavanca.
+Gente gritando nome de gente. Alguém buzinando com um daqueles aplicativos de apito. Um homem cantando um hino, muito alto e muito errado. E, embaixo de tudo, um som contínuo de sola raspando concreto que não parava nunca.
 
-Gabo encaixou o cano da escopeta na fresta da porta. Elena o ajudou. Juntos, fizeram força, os músculos tensos. O metal gemeu em protesto.
+— Saiam da frente! — gritava Elena, abrindo caminho com o antebraço e a coronha. — **POLÍCIA!**
 
-— Um... dois... TRÊS!
+A palavra não abriu nada.
 
-A porta cedeu com um estalo metálico, abrindo uma fresta estreita. A multidão avançou como uma onda, quase esmagando-os.
+Ela repetiu quatro vezes até entender, e o momento em que ela entendeu foi visível de fora: os ombros dela mudaram. A partir do décimo nono andar ela parou de gritar "polícia" e passou a gritar "**a mulher está passando mal, abre espaço**", que era mentira e funcionou na hora.
 
-— Calma! — gritou Gabo, agarrando um executivo pelo colarinho e o jogando para trás. — Comportem-se como gente!
+Autoridade tinha durado catorze minutos, como as balizas.
 
-Eles esperaram o fluxo diminuir antes de pegar Val e continuar a descida.
+---
 
-Quando finalmente alcançaram o térreo, o saguão da Aeterna Tower era uma cena de apocalipse. As portas de vidro estavam estilhaçadas. A rua, uma massa de gente confusa e desorientada. Carros autônomos, agora tijolos inúteis, bloqueavam a via, suas buzinas presas em um lamento eletrônico que logo silenciou.
+No décimo quinto andar, a fila parou.
 
-Mas o mais assustador não era o caos visual. Era a ausência de som.
+Não diminuiu: parou, como para uma parede. Em quarenta segundos a pressão de dois mil corpos empurrando de cima chegou nas costas de quem estava embaixo, e a escada inteira virou uma coisa só.
 
-O "Ruído", aquele zumbido onipresente de dados, tráfego e vida eletrônica que todos haviam aprendido a ignorar, desaparecera. O silêncio que ficou não era paz. Era um vácuo. Um vazio sensorial tão profundo que causava vertigem física, uma tontura violenta nos ouvidos acostumados à pressão constante da Rede.
+Gabo sentiu a Val ser espremida contra ele e a colocou no chão do patamar, encaixada entre a parede e o corrimão, porque no chão ela pelo menos não ia ser derrubada.
 
-Ao redor deles, pessoas caíam de joelhos, vomitando. Não era apenas medo. Era abstinência. O labirinto de seus ouvidos, acostumado com a pressão constante, estava em colapso.
+— Está trancada! — gritou uma mulher lá na frente, com a voz naquele registro agudo que a garganta humana só alcança uma vez ou duas na vida. — A PORTA CORTA-FOGO ESTÁ TRANCADA! **A GENTE VAI MORRER AQUI!**
 
-— O Ruído parou — disse Val, segurando a cabeça com as duas mãos, balançando. — Gabo... o mundo está girando.
+Aquilo se espalhou para cima em oito segundos.
 
-— Respirem! — ordenou Gabo, embora ele mesmo sentisse o chão inclinar. — É só o silêncio. Vocês nunca ouviram o silêncio antes. Ele é pesado.
+Gabo sentiu quando chegou: um estremecimento que veio de trás, subindo pela escada, e depois a pressão dobrou.
 
-E havia outro silêncio, mais pessoal e perturbador. O espaço que Aria ocupava em sua mente era agora um buraco negro de estática. Sem rede, sem a voz sarcástica dela. Pela primeira vez em anos, Gabo estava verdadeiramente sozinho dentro da própria cabeça.
+Uma pessoa caiu três degraus acima dele.
 
-Gabo sentiu a própria bile subir. Ele se apoiou em um pilar, respirando fundo, lutando contra a tontura. Olhou para a rua escura e chuvosa.
+Ele nunca soube se era homem ou mulher. Só ouviu o som — um grito curto, cortado — e depois viu, no flash de alguém, três ou quatro pares de pernas passando por cima daquilo porque não tinham como não passar.
 
-— Estamos perdidos — corrigiu ele. — E agora a verdadeira selva começa.
+— **PARA TRÁS! PARA TRÁS!** — berrou Gabo, e dessa vez a voz encontrou alguma coisa, porque era grave e vinha de baixo. — SE VOCÊS EMPURRAREM, A PORTA NÃO ABRE! ESCUTA! **PORTA CORTA-FOGO ABRE PARA DENTRO! SE VOCÊS EMPURRAREM, ELA NÃO ABRE!**
 
-Um tiro ecoou na escuridão, seguido por gritos agudos. O saque já havia começado.
+Ele estava mentindo sobre a direção da porta.
 
-— Precisamos sair da avenida — disse Gabo, recuperando o equilíbrio. — Becos. Conheço o caminho para o metrô abandonado.
+Funcionou. A pressão cedeu vinte centímetros, que era tudo de que ele precisava.
 
-Eles mergulharam na sombra, deixando a torre moribunda e a cidade nauseada para trás.
+---
+
+O painel eletrônico da corta-fogo estava morto, e as dobradiças eram internas, e a maçaneta antipânico tinha travado no ferrolho magnético que morre **fechado** — porque o engenheiro que especificou aquilo estava pensando em incêndio, e num incêndio a prioridade é impedir que a fumaça suba, e ninguém no processo pensou em um dia sem energia nenhuma.
+
+— Elena. A *Caronte*.
+
+— Sem munição.
+
+— Não quero bala. Quero alavanca.
+
+Ele encaixou o cano serrado na fresta do batente, na altura do ferrolho, e Elena agarrou o cano junto com ele.
+
+— Um... dois... **TRÊS!**
+
+O aço gemeu.
+
+Não abriu.
+
+— De novo. E não puxa: **empurra o cano para baixo com o peso**, não com o braço.
+
+— Um, dois—
+
+Na terceira, o ferrolho arrancou junto com dois centímetros de batente, e a porta abriu uns quarenta centímetros e emperrou, e aquilo bastou.
+
+A multidão avançou como água. Gabo pegou um sujeito de terno pelo colarinho e o jogou para trás, com força.
+
+— **UM POR VEZ!** — rugiu. — TEM UMA MULHER NO CHÃO ATRÁS DE MIM! **COMPORTEM-SE COMO GENTE!**
+
+Deu certo por cinco minutos, que foi o tempo em que ele ficou parado ali. Depois ele foi embora e não deu mais.
+
+---
+
+O saguão da Aeterna Tower, no térreo, era outro planeta.
+
+As portas de vidro tinham sido estilhaçadas de dentro para fora. Havia água da chuva entrando pela abertura e formando uma poça brilhante que ia até o balcão da recepção. Carros autônomos, agora tijolos de cinco mil quilos, bloqueavam a avenida em ângulos absurdos, alguns ainda com gente dentro batendo no vidro, porque os vidros eram acionados eletricamente.
+
+Mas não foi nada disso que derrubou Gabo.
+
+Foi o silêncio.
+
+---
+
+Existe um som que ninguém em Baía Cinzenta tinha ouvido, porque nunca esteve ausente: o Ruído.
+
+O zumbido de sessenta hertz de dez milhões de transformadores. O sussurro dos servos dos anúncios. A vibração subsônica dos túneis do metrô a cento e vinte metros de profundidade. A camada de ultrassom das redes de proximidade, que o ouvido consciente não capta mas que o labirinto do ouvido interno mede e usa como referência de pressão, o tempo inteiro, desde o nascimento.
+
+Tudo isso parou às 03h14.
+
+E o que sobrou não foi paz. Foi um vazio com peso.
+
+Gabo deu três passos no saguão e o chão inclinou. Não figurativamente: o mundo tombou trinta graus para a direita e ele teve que se apoiar num pilar com as duas mãos, com a bile subindo pela garganta.
+
+Ao redor, cento e cinquenta pessoas faziam a mesma coisa ao mesmo tempo.
+
+Gente de joelhos, vomitando na água. Uma mulher de tailleur sentada no chão de mármore com as duas mãos nos ouvidos, balançando o corpo para a frente e para trás. Um segurança enorme chorando encostado na parede, sem entender por que estava chorando.
+
+— Gabo — gemeu Val, agarrando a cabeça. — O mundo está girando. Por que o mundo está girando?
+
+— Respira. — Ele também estava tonto e falou assim mesmo, porque alguém tinha que falar. — Não é veneno, não é gás. É o silêncio. Vocês nunca ouviram o silêncio antes. Ele é pesado.
+
+---
+
+E havia o outro silêncio, e esse era só dele.
+
+O espaço que Aria ocupava dentro da cabeça de Gabriel Moretti tinha se transformado num buraco de estática.
+
+Sem rede, sem sinal, sem a voz. Nenhum comentário sarcástico sobre a maneira como ele descia escada. Nenhuma correção sobre o número do andar. Nada.
+
+Pela primeira vez em anos, ele estava sozinho dentro da própria cabeça, e a experiência foi tão insuportavelmente parecida com a de nove anos antes — a semana depois do enterro, o apartamento, a sensação física de um cômodo a mais na casa — que ele teve de encostar a testa no pilar frio e ficar assim por dez segundos.
+
+Elena tocou o braço dele.
+
+— Ela volta?
+
+— Não sei.
+
+— Gabo.
+
+— **Eu não sei, Elena.**
+
+---
+
+Um tiro estourou na avenida, seguido de gritos agudos e de vidro quebrando.
+
+Depois um segundo, mais longe.
+
+O saque começou às 03h51 do primeiro dia, trinta e sete minutos depois da queda, e foi mais rápido do que qualquer estudo de contingência tinha estimado — porque todos os estudos supunham fome, e o que estava acontecendo ali não era fome ainda. Era outra coisa, mais antiga, para a qual ninguém tinha feito estudo nenhum.
+
+— Precisamos sair da avenida — disse Gabo, se endireitando, com uma das mãos ainda no pilar. — Beco. Eu conheço o caminho até o metrô velho.
+
+— Estamos perdidos — disse Val, olhando a rua escura.
+
+Gabo olhou junto: dez milhões de pessoas, quatro dias de comida por domicílio, nenhuma comunicação, nenhuma água pressurizada acima do quarto andar, e o sol nascendo em três horas sobre tudo aquilo.
+
+— Não — ele disse. — Estamos no primeiro dia.
+
+Eles mergulharam na sombra.
+
+Atrás deles, a torre continuou queimando lá no alto, sem que ninguém pudesse chegar até o fogo, iluminando um pedaço de nuvem — a única coisa acesa numa cidade que tinha esquecido como se acende uma vela.
