@@ -9,6 +9,10 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 Levei quase uma hora para conseguir tocar na lata.
 
+Ela ficou ali no centro da mesa esse tempo todo, e eu ficei olhando. Uma lata redonda de fita magnética, de umas dez polegadas, com a pintura verde descascando na borda e uma mancha de ferrugem na dobradiça. Cheirava a acetato velho — aquele cheiro adocicado e químico de filme guardado, que sobe da lata assim que a vedação cede e que quem tem mais de quarenta anos reconhece sem saber de onde.
+
+O metal estava frio. Eu passei o polegar na etiqueta e senti a datilografia em relevo, letra por letra, como quem lê braile do nome do próprio pai.
+
 Elias a colocou na mesa de leitura e recuou, do jeito que se recua de um cachorro que ainda não decidiu. Valéria montou o carretel na máquina — um gravador de rolo do tamanho de uma mala, todo botão físico e agulha analógica — e depois ficou parada ao lado dele, esperando, sem nunca perguntar se eu queria ouvir.
 
 Ela não precisou perguntar. Nem precisou me apressar. Ela apenas ficou lá, disponível, com a paciência total de uma coisa que não tem pressa porque não sente nada.
@@ -144,6 +148,14 @@ Ele estava sendo enterrado vivo por uma corporação de cemitério e usou os úl
 Eu passei a vida inteira convencido de que ele nunca tinha me visto. Que eu era ruído de fundo entre um plantão e outro, uma criança que ele cumprimentava a caminho da porta. Passei quinze anos endurecendo em cima dessa certeza. Construí tudo que eu sou naquela pedra.
 
 E a pedra não estava lá.
+
+E é aqui que eu preciso ser honesto sobre o que aquela fita me custou, porque não foi consolo.
+
+Quinze anos de raiva bem organizada acabaram de virar lixo em vinte e dois minutos. Toda vez que eu quebrei um dente, toda vez que eu cruzei uma linha e dormi bem depois, toda vez que eu olhei para o Marco ou para o Vilar e pensei *eu sou assim porque ninguém me ensinou outra coisa* — eu estava construindo em cima de um homem que **não existia**. O pai ausente e indiferente que justificou tudo era invenção minha.
+
+Perder um pai é uma coisa. Descobrir que você perdeu **o pai errado** — que você passou a vida inteira enterrando um sujeito que nunca esteve lá para ser enterrado — é outra, e não tem nome, e ninguém escreveu um manual.
+
+Eu não ganhei nada naquela cadeira de couro. Eu perdi a última desculpa que eu tinha.
 
 Meus olhos arderam e eu não fiz absolutamente nada a respeito, porque a mão boa estava ocupada segurando a mesa e a outra é uma garra industrial que Vasco parafusou nos meus nervos, e eu não ia usar uma prótese de açougueiro para enxugar isso.
 

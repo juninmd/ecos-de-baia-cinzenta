@@ -5,15 +5,11 @@
 
 - **Capítulos avaliados:** 235
 - **Reprovados em portão duro:** 0
-- **Abaixo do alvo de 1100 palavras:** 105
-- **Nota média:** 8.6/10
+- **Abaixo do alvo de 1100 palavras:** 102
+- **Nota média:** 8.7/10
 
 | Capítulo | Palavras | Atm | Custo | Voz | Ritmo | Conseq | Nota | Veredito | Portões |
 |---|---|---|---|---|---|---|---|---|---|
-| Capítulo 67: Cidade Viva | 662 | 1 | 0 | 2 | 2 | 1 | **6** | ⚠️ revisar | curto (662) |
-| Capítulo 68: A Caçada Inversa | 666 | 1 | 0 | 2 | 2 | 1 | **6** | ⚠️ revisar | curto (666) |
-| Capítulo 57: Zona de Interesse | 731 | 1 | 0 | 2 | 2 | 1 | **6** | ⚠️ revisar | curto (731) |
-| Capítulo 220: A Fita | 1322 | 1 | 0 | 2 | 2 | 1 | **6** | ⚠️ revisar | — |
 | Capítulo 185: O Verdor Metálico | 605 | 2 | 1 | 1 | 2 | 1 | **7** | ✅ publicável | curto (605) |
 | Capítulo 34: O Julgamento da Rua | 617 | 1 | 1 | 2 | 2 | 1 | **7** | ✅ publicável | curto (617) |
 | Capítulo 191: O Batismo da Ferrugem | 735 | 2 | 1 | 1 | 2 | 1 | **7** | ✅ publicável | curto (735) |
@@ -102,6 +98,8 @@
 | Capítulo 63: Águas Profundas | 1547 | 2 | 1 | 2 | 2 | 1 | **8** | ✅ publicável | — |
 | Capítulo 223: A Auditora | 1553 | 2 | 1 | 2 | 2 | 1 | **8** | ✅ publicável | — |
 | Capítulo 50: O Silêncio da Chuva | 1566 | 1 | 2 | 2 | 2 | 1 | **8** | ✅ publicável | — |
+| Capítulo 67: Cidade Viva | 1671 | 2 | 1 | 2 | 2 | 1 | **8** | ✅ publicável | — |
+| Capítulo 57: Zona de Interesse | 1708 | 2 | 1 | 2 | 2 | 1 | **8** | ✅ publicável | — |
 | Capítulo 44: O Que Saiu do Ralo | 1761 | 2 | 1 | 2 | 2 | 1 | **8** | ✅ publicável | — |
 | Capítulo 228: O Grupo de Controle | 1902 | 1 | 2 | 2 | 2 | 1 | **8** | ✅ publicável | — |
 | Capítulo 216: A Pressão do Vazio | 631 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | curto (631) |
@@ -205,6 +203,7 @@
 | Capítulo 33: A Sabedoria da Ferrugem | 1569 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 3: Teatro de Carne | 1572 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 58: O Dilema do Capitão | 1573 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
+| Capítulo 220: A Fita | 1579 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 15: Protocolo de Extermínio | 1580 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 232: O Justo | 1588 | 1 | 2 | 2 | 2 | 2 | **9** | ⭐ obra-prima | — |
 | Capítulo 92: A Praga de Ferro | 1605 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
@@ -240,6 +239,7 @@
 | Capítulo 226: A Mulher de Fora | 1533 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 221: Modo de Segurança | 1584 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 231: Catraca | 1611 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
+| Capítulo 68: A Caçada Inversa | 1755 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 28: O Último Suspiro da Torre | 1761 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 1: Olhos de Vidro | 1790 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 229: O Homem no Portão | 1835 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
