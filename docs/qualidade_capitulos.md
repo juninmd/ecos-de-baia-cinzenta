@@ -3,7 +3,7 @@
 > Gerado por `scripts/quality_gate.py` conforme o padrão do `AGENTS.md`.
 > Ordenado do pior para o melhor: a revisão manual começa no topo.
 
-- **Capítulos avaliados:** 234
+- **Capítulos avaliados:** 235
 - **Reprovados em portão duro:** 0
 - **Abaixo do alvo de 1100 palavras:** 105
 - **Nota média:** 8.6/10
@@ -243,4 +243,5 @@
 | Capítulo 28: O Último Suspiro da Torre | 1761 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 1: Olhos de Vidro | 1790 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 229: O Homem no Portão | 1835 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
+| Capítulo 233: Ponto Zero | 2041 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 60: Despejo | 2098 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |

@@ -772,8 +772,15 @@ A obra tem duas famílias destruídas pela decisão de um pai, e elas se reflete
 *   **Fundação:** Registra a Aeterna S.A. como empresa de serviços funerários e cuidado perpétuo, com mais quatro sócios.
 *   **Ano 29:** Consta no arquivo como **"afastado por invalidez"**. Não foi invalidez: foi a entrada na estase, com o Protocolo N.O.A. armado e um pulso de *keep-alive* a cada seis horas como corda de segurança.
 *   **Capítulo 45:** A Torre Aeterna cai (destruída por Gabo e Valéria no Capítulo 18) e o pulso para. Após 72 horas de silêncio, a Arca interpreta colapso da superfície e o acorda.
-*   **Capítulos 46-48:** As oito unidades sobreviventes alcançam a Orla Norte. Gabo o identifica como "o arquiteto" e está parcialmente errado.
-*   **Depois:** A Fase 2 nunca se completa. Ver `docs/plano_de_revisao.md` — o desfecho do Imperador é o próximo fio a fechar.
+*   **Capítulos 46-48:** Oito unidades partem, **duas não chegam**. As seis restantes alcançam a Orla Norte, uma delas mancando com o hidráulico do quadril vazando antes de qualquer tiro. Gabo o identifica como "o arquiteto" e está parcialmente errado.
+*   **Os seis anos seguintes (revelados no Capítulo 233):** **Ele nunca sobe.** A Fase 2 não se completa e ele não abandona o posto — havia uma cápsula de ascensão de dois lugares, operacional a 100%, ao lado dele o tempo inteiro, e ele não usou por uma razão que anotou no dia 91: *"Ascender antes da consolidação seria chegar como sobrevivente. Eu não passei sessenta anos aqui embaixo para chegar como sobrevivente."*
+    *   Passa **2.284 dias** emitindo ordem de manobra e chamada nominal — *"L-04, reporte"*, três vezes ao dia — para unidades que pararam de responder no terceiro mês. Registra cada perda com número de série e hipótese técnica, e **nunca escreve a palavra "ferrugem"**, porque ferrugem significaria admitir que dormiu demais.
+    *   Chega a desenhar o organograma da Fase 3 (a administração da cidade pacificada), com três caixas preenchidas por nomes de gente morta havia trinta anos.
+    *   **O pulso de *keep-alive* era unidirecional:** a Torre falava com a Arca, a Arca não tinha como perguntar nada de volta. Ele morre sem saber da Praga de Ferro, do Jardim, do Sentinel — e sem saber que a empresa dele virou uma máquina de moer mente, e que quem a virou foi o estagiário que ele contratou para digitalizar contrato de cemitério.
+*   **Morte — 18 de março, dia 2.284:** Parada cardíaca, sozinho, na cadeira de comando. As duas últimas linhas do log são *"Chamada: nenhuma resposta"* e *"Dor no braço esquerdo desde ontem. Provável esforço."* O corpo permanece em Ponto Zero: não existe mais indústria capaz de construir algo que desça a 4.000 metros. A pressão preserva.
+*   **A última frase (Capítulo 233):** Sem data de hora, a única linha do livro que não é relatório — *"Elara, se você ler isto: a culpa não foi sua. Eu te deixei sozinha com aquilo."* A filha lê em voz alta e responde: **"Isso é falso. É a única mentira do livro."** Ele não a deixou sozinha; deixou-a com autoridade, acesso e o arquivo inteiro. Ela manda Elena publicar o log completo, incluindo essa parte, assinado com **"a filha recusa a absolvição."**
+
+> **A simetria que fecha os dois:** pai e filha passaram os mesmos anos debaixo d'água, a 120 km um do outro — ele acordado em Ponto Zero esperando uma cidade que não vinha, ela acordada dentro do vidro na Arca Zero esperando duas pessoas que conseguissem concordar em girar uma chave. *"Ele esperou seis anos e não veio ninguém. Eu esperei mais e vieram vocês."*
 
 ---
 
