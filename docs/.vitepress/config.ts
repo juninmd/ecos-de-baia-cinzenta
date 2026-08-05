@@ -3,7 +3,13 @@ import { withMermaid } from 'vitepress-plugin-mermaid'
 
 // withMermaid envolve o config para que os blocos ```mermaid de docs/arcos.md
 // virem diagramas. Sem ele, o VitePress renderiza tudo como bloco de código.
+// O Netlify serve na raiz do domínio; o GitHub Pages serve em
+// /<nome-do-repo>/. Em vez de fixar um dos dois, o destino informa o prefixo —
+// assim renomear o repositório não quebra o site.
+const base = process.env.VITEPRESS_BASE || '/'
+
 export default withMermaid(defineConfig({
+  base,
   title: "Ecos de Baía Cinzenta",
   description: "Um thriller noir cyberpunk em uma cidade onde a chuva nunca para.",
   head: [
