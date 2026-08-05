@@ -248,7 +248,7 @@ export default withMermaid(defineConfig({
         items: [
           {
             text: 'Parte XV: A Ascensão',
-            collapsed: false,
+            collapsed: true,
             items: [
               { text: 'Capítulo 105: O Silêncio de Concreto', link: '/capitulo-105' },
               { text: 'Capítulo 106: Fios Invisíveis', link: '/capitulo-106' },
@@ -264,7 +264,7 @@ export default withMermaid(defineConfig({
           },
           {
             text: 'Parte XVI: Catedrais de Pedra',
-            collapsed: false,
+            collapsed: true,
             items: [
               { text: 'Capítulo 115: O Arquiteto da Carne', link: '/capitulo-115' },
               { text: 'Capítulo 116: Pressão Crítica', link: '/capitulo-116' },
@@ -279,6 +279,12 @@ export default withMermaid(defineConfig({
               { text: 'Capítulo 125: Ressonância', link: '/capitulo-125' },
               { text: 'Capítulo 126: Frequência Fantasma', link: '/capitulo-126' },
               { text: 'Capítulo 127: Catedrais de Pedra', link: '/capitulo-127' },
+            ]
+          },
+          {
+            text: 'Parte XVII: Esculturas de Carne',
+            collapsed: true,
+            items: [
               { text: 'Capítulo 128: O Ventre da Besta', link: '/capitulo-128' },
               { text: 'Capítulo 129: Fluxo Reverso', link: '/capitulo-129' },
               { text: 'Capítulo 130: Saturação', link: '/capitulo-130' },
@@ -292,17 +298,17 @@ export default withMermaid(defineConfig({
               { text: 'Capítulo 138: Vernissage', link: '/capitulo-138' },
               { text: 'Capítulo 139: Curadoria', link: '/capitulo-139' },
               { text: 'Capítulo 140: Ponto de Fusão', link: '/capitulo-140' },
+            ]
+          },
+          {
+            text: 'Parte XVIII: Veias de Vidro',
+            collapsed: true,
+            items: [
               { text: 'Capítulo 141: Raízes Amargas', link: '/capitulo-141' },
               { text: 'Capítulo 142: Veias de Vidro', link: '/capitulo-142' },
               { text: 'Capítulo 143: Vértigem de Sílica', link: '/capitulo-143' },
               { text: 'Capítulo 144: Tensão de Ruptura', link: '/capitulo-144' },
               { text: 'Capítulo 145: Sangue nas Dobradiças', link: '/capitulo-145' },
-            ]
-          },
-          {
-            text: 'Parte XVII: O Frio da Lógica',
-            collapsed: true,
-            items: [
               { text: 'Capítulo 146: O Preço da Passagem', link: '/capitulo-146' },
               { text: 'Capítulo 147: O Peso do Ar', link: '/capitulo-147' },
               { text: 'Capítulo 148: Tensão e Ferrugem', link: '/capitulo-148' },
@@ -315,6 +321,12 @@ export default withMermaid(defineConfig({
               { text: 'Capítulo 155: Ferrugem e Plasma', link: '/capitulo-155' },
               { text: 'Capítulo 156: Condutores de Cobre', link: '/capitulo-156' },
               { text: 'Capítulo 157: A Inércia do Caos', link: '/capitulo-157' },
+            ]
+          },
+          {
+            text: 'Parte XIX: O Frio da Lógica',
+            collapsed: true,
+            items: [
               { text: 'Capítulo 158: Ecos de Fósforo e Poeira', link: '/capitulo-158' },
               { text: 'Capítulo 159: Servidores de Carne e Silício', link: '/capitulo-159' },
               { text: 'Capítulo 160: O Som do Silício Quebrando', link: '/capitulo-160' },
@@ -330,7 +342,7 @@ export default withMermaid(defineConfig({
             ]
           },
           {
-            text: 'Parte XVIII: Fronteiras de Ferrugem',
+            text: 'Parte XX: Fronteiras de Ferrugem',
             collapsed: true,
             items: [
               { text: 'Capítulo 170: O Fim do Expediente', link: '/capitulo-170' },
@@ -348,6 +360,18 @@ export default withMermaid(defineConfig({
               { text: 'Capítulo 182: A Superfície Pálida', link: '/capitulo-182' },
               { text: 'Capítulo 183: Carniça de Metal', link: '/capitulo-183' },
               { text: 'Capítulo 184: O Relógio de Sangue', link: '/capitulo-184' },
+            ]
+          },
+        ]
+      },
+      {
+        text: 'LIVRO 3: A PROVA',
+        collapsed: false,
+        items: [
+          {
+            text: 'Parte XXI: O Verdor Metálico',
+            collapsed: true,
+            items: [
               { text: 'Capítulo 185: O Verdor Metálico', link: '/capitulo-185' },
               { text: 'Capítulo 186: Raízes de Silício', link: '/capitulo-186' },
               { text: 'Capítulo 187: O Arquivo Morto', link: '/capitulo-187' },
@@ -357,18 +381,18 @@ export default withMermaid(defineConfig({
               { text: 'Capítulo 191: O Batismo da Ferrugem', link: '/capitulo-191' },
               { text: 'Capítulo 192: A Ascensão das Cinzas', link: '/capitulo-192' },
               { text: 'Capítulo 193: O Ermitão de Cobre', link: '/capitulo-193' },
-            ]
-          },
-          {
-            text: 'Parte XIX: O Poço do Abismo',
-            collapsed: true,
-            items: [
               { text: 'Capítulo 194: O Preço da Manutenção', link: '/capitulo-194' },
               { text: 'Capítulo 195: O Sangue nas Engrenagens', link: '/capitulo-195' },
               { text: 'Capítulo 196: Ecos de Neon no Submundo', link: '/capitulo-196' },
               { text: 'Capítulo 197: A Gravidade do Lodo', link: '/capitulo-197' },
               { text: 'Capítulo 198: A Marcha Fúnebre', link: '/capitulo-198' },
               { text: 'Capítulo 199: Engrenagens de Sangue', link: '/capitulo-199' },
+            ]
+          },
+          {
+            text: 'Parte XXII: O Poço do Abismo',
+            collapsed: true,
+            items: [
               { text: 'Capítulo 200: O Poço do Abismo', link: '/capitulo-200' },
               { text: 'Capítulo 201: Degraus de Sangue e Ferrugem', link: '/capitulo-201' },
               { text: 'Capítulo 202: O Corredor Silencioso', link: '/capitulo-202' },
@@ -390,7 +414,7 @@ export default withMermaid(defineConfig({
             ]
           },
           {
-            text: 'Parte XX: Arca Zero',
+            text: 'Parte XXIII: Arca Zero',
             collapsed: true,
             items: [
               { text: 'Capítulo 218: O Ar Limpo', link: '/capitulo-218' },
@@ -404,7 +428,7 @@ export default withMermaid(defineConfig({
             ]
           },
           {
-            text: 'Parte XXI: A Rubrica',
+            text: 'Parte XXIV: A Rubrica',
             collapsed: true,
             items: [
               { text: 'Capítulo 226: A Mulher de Fora', link: '/capitulo-226' },

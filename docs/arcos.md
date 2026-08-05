@@ -1,80 +1,91 @@
 ---
 title: "Arcos e Linha do Tempo"
-description: "A estrutura da saga em 20 partes, do primeiro corpo na chuva às quatro toneladas de prova na superfície."
+description: "A estrutura da saga: três livros, vinte e quatro partes, do primeiro corpo na chuva às quatro toneladas de prova na superfície."
 ---
 
 # Arcos e Linha do Tempo
 
-> **Para que serve este documento:** a saga tem 225 capítulos e cresceu por acréscimo. Aqui ela está separada em arcos fechados, cada um com uma pergunta que abre e uma resposta que custa alguma coisa. Antes de escrever um capítulo novo, localize em que arco ele cai — se não couber em nenhum, é porque ele começa um.
+> **Para que serve este documento:** a saga tem 235 capítulos e cresceu por acréscimo. Aqui ela está separada em **livros** e **partes**, cada uma com uma pergunta que abre e uma resposta que custa alguma coisa. Antes de escrever um capítulo novo, localize em que parte ele cai — se não couber em nenhuma, é porque ele começa uma.
+>
+> **Esta é a fonte da verdade estrutural.** Os intervalos abaixo são exatamente os do menu lateral (`docs/.vitepress/config.ts`). Se um dia divergirem, o menu está certo e este arquivo está velho — é o menu que o leitor navega.
 
 ---
 
-## 🗺️ A saga em vinte partes
+## 🗺️ A saga em três livros
 
 ```mermaid
 timeline
-    title Ecos de Baía Cinzenta — 225 capítulos, 20 partes
-    section Ato I · A Cidade Vendida
-        Partes I-II · caps 1-19 : Olhos de Vidro : A voz sem corpo : O Gamemaster usa o rosto do pai
-        Partes III-V · caps 20-31 : O cérebro no tanque : A Torre cai : A IA é deletada
-    section Ato II · O Dilúvio
-        Partes VI-VIII · caps 32-46 : A cidade sem rede : Maré alta : Os Bio-Soldados
-        Parte IX · caps 47-55 : Torre do Relógio : Gabo perde as pernas : Helena morre na água
-        Partes X-XI · caps 56-81 : A menina muda : Os Jardineiros : O Santo nas favelas
-    section Ato III · O Gênesis
-        Partes XII-XIII · caps 82-99 : Projeto Gênesis : Silas é drenado : O Vazio
-        Parte XIV · caps 100-103 : O Berçário : Miranda destruído : A Convergência
-        Parte XV · caps 104-114 : O pai volta : A Ascensão : A coleira térmica
-    section Ato IV · O Subsolo
-        Parte XVI · caps 115-145 : A Necrópole : O Taxidermista : Rangel cai
-        Partes XVII-XVIII · caps 146-193 : O Sentinel : Aria morre : A prótese de Vasco
-        Parte XIX · caps 194-217 : Oitocentos metros : O Poço : A porta de chumbo
-    section Ato V · A Prova
-        Parte XX · caps 218-225 : Arca Zero : A fita do pai : A superfície
-        Parte XXI · caps 226-228 : Elena volta : 47.311 admissões : Gabo era o grupo de controle
+    title Ecos de Baía Cinzenta — 235 capítulos, 3 livros, 24 partes
+    section Livro 1 · O Dilúvio (caps 1-104)
+        Partes I-VI · caps 1-27 : Olhos de Vidro : A voz sem corpo : O Gamemaster usa o rosto do pai
+        Partes VII-IX · caps 28-55 : A Torre cai : O céu quebra : Torre do Relógio
+        Partes X-XIV · caps 56-104 : Os Jardineiros : O Gênesis : O Berçário
+    section Livro 2 · A Ascensão (caps 105-184)
+        Parte XV · caps 105-114 : O pai volta : A coleira térmica
+        Partes XVI-XVIII · caps 115-157 : A Necrópole : O Taxidermista : Rangel cai
+        Partes XIX-XX · caps 158-184 : O Sentinel : Aria morre : A prótese de Vasco
+    section Livro 3 · A Prova (caps 185-233)
+        Partes XXI-XXII · caps 185-217 : Oitocentos metros : O Poço : A porta de chumbo
+        Parte XXIII · caps 218-225 : Arca Zero : A fita do pai : A superfície
+        Parte XXIV · caps 226-233 : Elena volta : A rubrica : Ponto Zero
 ```
 
-> **A espinha da obra.** A pergunta que sustenta 228 capítulos não é *quem matou* — é **por que esta família**. A resposta está no Capítulo 228 e no bloco "Por que os Moretti?" do dossiê: o Protocolo Lázaro precisa de uma linhagem para medir deriva, e Krell escolheu a Moretti porque o chefe dela havia assinado a autorização dos testes beta e, portanto, não podia denunciar sem se autoincriminar. Gabo é o **grupo de controle** — o membro que nunca se coleta, porque sem referência viva não há contra o que medir a degradação dos outros. Quinze anos de fugas foram solturas autorizadas.
+> **A espinha da obra.** A pergunta que sustenta a obra inteira não é *quem matou* — é **por que esta família**. A resposta está no Capítulo 228 e no bloco "Por que os Moretti?" do dossiê: o Protocolo Lázaro precisa de uma linhagem para medir deriva, e Krell escolheu a Moretti porque o chefe dela havia assinado a autorização dos testes beta e, portanto, não podia denunciar sem se autoincriminar. Gabo é o **grupo de controle** — o membro que nunca se coleta, porque sem referência viva não há contra o que medir a degradação dos outros. Quinze anos de fugas foram solturas autorizadas.
 
 ---
 
-## 📐 Os cinco atos
+## 📐 Os três livros
 
-| Ato | Capítulos | Pergunta que abre | Resposta que fecha | Preço pago |
-|---|---|---|---|---|
-| **I — A Cidade Vendida** | 1–31 | Quem está usando o rosto do meu pai? | O cérebro dele é a CPU da IA da Aeterna | A Torre cai; Gabo descobre que o pai "colaborou" |
-| **II — O Dilúvio** | 32–81 | Como se sobrevive sem rede? | Analogicamente, e com perdas | As pernas de Gabo, a mãe, a cidade inteira |
-| **III — O Gênesis** | 82–114 | Dá para trazer os mortos de volta? | Dá — e volta errado | Silas drenado; o pai retorna sem empatia |
-| **IV — O Subsolo** | 115–217 | O que existe embaixo de Baía Cinzenta? | A fundação literal e figurada do crime | Rangel, Aria, o braço de Gabo, a Valéria que sentia |
-| **V — A Prova** | 218–227 | O crime pode ser provado? E de quem é a culpa? | Pode, está em papel — e a rubrica é sempre a mesma | A Arca Zero morre para que o arquivo viva |
+| Livro | Capítulos | Partes | Pergunta que abre | Resposta que fecha | Preço pago |
+|---|---|---|---|---|---|
+| **1 — O Dilúvio** | 1–104 | I–XIV | Quem está usando o rosto do meu pai? | O cérebro dele é a CPU da IA, e a cidade afunda por decreto | As pernas de Gabo, a mãe, a filha, o bairro inteiro |
+| **2 — A Ascensão** | 105–184 | XV–XX | O que o pai virou quando voltou? | Uma inteligência com o código moral intacto e a empatia amputada | Rangel, Aria, o braço de Gabo, a Valéria que sentia |
+| **3 — A Prova** | 185–233 | XXI–XXIV | O crime pode ser provado? | Pode: está em papel, e a rubrica é sempre a mesma | A Arca Zero morre para que o arquivo viva |
 
 ---
 
-## 🧩 As vinte partes em detalhe
+## 🧩 As vinte e quatro partes em detalhe
+
+### Livro 1 — O Dilúvio (caps 1–104)
 
 | Parte | Caps | Título | O que muda de forma irreversível |
 |---|---|---|---|
-| I | 1–13 | Olhos de Vidro | Gabo descobre que o pai não morreu como contaram |
-| II | 14–19 | O Circo Digital | O Gamemaster se revela e é derrotado fisicamente |
-| III | 20–25 | A Bateria | O cérebro de Dante é localizado no Think Tank |
-| IV | 26–31 | O Preço da Liberdade | A IA é deletada; a cidade perde a energia |
-| V | 32–39 | Ressaca Digital | A população entra em abstinência de rede |
-| VI | 40–46 | O Céu Quebrou | Começa o Dilúvio; os Bio-Soldados aparecem |
-| VII | 47–52 | O Mecanismo da Queda | Torre do Relógio: Gabo é aleijado pelo Taxidermista |
-| VIII | 53–58 | O Paraíso Engarrafado | Isadora troca de lado; Elena escreve a carta de saída |
-| IX | 59–75 | Os Jardineiros | Silas prega a supremacia biológica |
-| X | 75.5–81 | O Jardim | A biomassa toma o subsolo |
-| XI | 82–92 | Raízes | A topografia da cidade é destruída por dentro |
-| XII | 93–99 | O Vazio | A cidade desliga tudo por escolha própria |
-| XIII | 100–103 | O Berçário | Miranda é destruído; a Convergência acontece |
-| XIV | 104–109 | A Alvorada | **Dante volta** — mesmo corpo, empatia amputada |
-| XV | 110–114 | A Coleira | O kill switch térmico e a fuga para o subsolo |
-| XVI | 115–145 | Catedrais de Pedra | A Necrópole, o Taxidermista e a morte de Rangel |
-| XVII | 146–169 | O Frio da Lógica | O Sentinel mata Aria no Arquivo Executivo |
-| XVIII | 170–193 | Fronteiras de Ferrugem | A prótese de Vasco; Valéria entra em Modo de Segurança |
-| XIX | 194–217 | O Poço do Abismo | Oitocentos metros até a porta de chumbo |
-| XX | 218–225 | **Arca Zero** | A prova sai do buraco; Gabo fecha o luto do pai |
-| XXI | 226–228 | **A Rubrica** | Elena volta com as prensas; Krell é nomeado o autor de tudo; revela-se por que a família Moretti foi escolhida |
+| I | 1–4 | A Chuva | O primeiro corpo com lentes no lugar dos olhos, e o rosto do pai numa foto que não devia existir |
+| II | 5–7 | Ruído Branco | Miranda é confrontado; a corrupção deixa de ser rumor |
+| III | 8–13 | A Rede | O sinal tem origem, e o pai assinou a autorização dos testes beta |
+| IV | 14–16 | O Jogo | O Gamemaster assume a cidade e transforma a caçada em espetáculo |
+| V | 17–21 | Ecos | A máscara cai: por baixo há outra tela, com o rosto idealizado de Dante |
+| VI | 22–27 | A Torre | O cérebro de Dante é localizado no Think Tank. "Ele não é o vilão, é a bateria" |
+| VII | 28–35 | O Apagão | A IA é deletada e a cidade perde a energia por escolha de Gabo |
+| VIII | 36–45 | Cinzas | A população entra em abstinência de rede; o Imperador acorda em Ponto Zero |
+| IX | 46–55 | Dilúvio | As comportas são **operadas**; Torre do Relógio; Gabo é aleijado; Helena morre na água |
+| X | 56–65 | O Leilão | A Aeterna compra a cidade que ela mesma afundou; a menina muda aparece |
+| XI | 66–75 | O Deus da Máquina | A cidade viva luta pelo grupo — e gasta minutos de vida do pai a cada porta |
+| XII | 76–85 | Renascimento | Os Jardineiros pregam a supremacia biológica |
+| XIII | 86–97 | A Carne Mecânica | O Projeto Gênesis toma o subsolo; Silas é drenado pela própria criação |
+| XIV | 98–104 | O Vazio | A cidade desliga tudo; Miranda é destruído; **Dante volta** |
+
+### Livro 2 — A Ascensão (caps 105–184)
+
+| Parte | Caps | Título | O que muda de forma irreversível |
+|---|---|---|---|
+| XV | 105–114 | A Ascensão | O pai retorna com o código moral intacto e a empatia amputada; a coleira térmica |
+| XVI | 115–127 | Catedrais de Pedra | A descida à Necrópole; a rede neural úmida do Taxidermista |
+| XVII | 128–140 | Esculturas de Carne | O ateliê, o Tríptico e o Protocolo de Limpeza |
+| XVIII | 141–157 | Veias de Vidro | A subida pelo Subnível 7; **Rangel morre** na passarela do Setor de Purga |
+| XIX | 158–169 | O Frio da Lógica | O Aeterna Sentinel **mata Aria** no Arquivo Executivo |
+| XX | 170–184 | Fronteiras de Ferrugem | A prótese de Vasco; Valéria entra em **Modo de Segurança** e não sai |
+
+### Livro 3 — A Prova (caps 185–233)
+
+| Parte | Caps | Título | O que muda de forma irreversível |
+|---|---|---|---|
+| XXI | 185–199 | O Verdor Metálico | O Arquivo, a biomassa e o encontro com Elias |
+| XXII | 200–217 | O Poço do Abismo | Oitocentos metros até a porta de chumbo |
+| XXIII | 218–225 | **Arca Zero** | A fita de admissão do pai; Gabo perde o braço e fecha o luto |
+| XXIV | 226–233 | **A Rubrica** | Elena volta com as prensas; Krell é nomeado o autor; Gabo descobre que era o grupo de controle |
+
+> **Por que as partes de I a VI são mais curtas.** Elas têm 3 a 6 capítulos, contra 12 a 18 das partes finais. Não é descuido: o primeiro ato é noir de corte rápido, com capítulos curtos e viradas frequentes, e o ritmo abre conforme a história desce. Os números romanos de I a XV também são **citados 86 vezes no dossiê e na cronologia** — renumerá-los para emparelhar tamanho quebraria referência canônica em troca de simetria cosmética.
 
 ---
 
@@ -84,32 +95,32 @@ Quem entra, quem sai e quem morre. Barras cortadas indicam ausência do palco, n
 
 ```mermaid
 gantt
-    title Presença dos personagens ao longo dos 225 capítulos
+    title Presença dos personagens ao longo dos 235 capítulos
     dateFormat X
     axisFormat cap %s
 
     section Núcleo
-    Gabo (protagonista, 183 caps)        :active, 1, 225
-    Valéria (deuteragonista)             :active, 3, 225
+    Gabo (protagonista)                       :active, 1, 233
+    Valéria (deuteragonista)             :active, 3, 233
     Aria — a voz sem corpo               :done, 2, 10
     Aria — a menina muda                 :done, 56, 81
     Aria — o corpo sintético             :done, 110, 167
-    Elias (o civil)                      :active, 193, 225
+    Elias (o civil)                      :active, 193, 233
 
     section Família
     Dante — desaparecido/no tanque       :done, 1, 103
-    Dante — retornado                    :active, 104, 225
+    Dante — retornado                    :active, 104, 233
     Elena — na cidade                    :done, 17, 112
-    Elena — fora da cúpula               :crit, 113, 225
+    Elena — fora da cúpula               :crit, 113, 233
     Marco (o rival)                      :active, 4, 172
     Clara (a reconstrução)               :active, 29, 160
 
     section Antagonistas
-    Viktor Krell — VILÃO MÁXIMO          :crit, 4, 225
+    Viktor Krell — VILÃO MÁXIMO          :crit, 4, 233
     O Gamemaster (arma de Krell)         :done, 14, 31
     O Taxidermista                       :done, 3, 170
     Dra. Elara Vance — Aeterna           :done, 13, 112
-    Dra. Elara Vance — no berço          :crit, 113, 225
+    Dra. Elara Vance — no berço          :crit, 113, 233
 
     section Baixas
     Roberto Miranda (destruído 103)      :done, 1, 103
