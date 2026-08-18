@@ -25,12 +25,32 @@ build_scene_manifest.py  →  lote_cenas.py  →  geração  →  homologar_cena
    antigravity, que só precisa gerar e gravar no caminho indicado.
 3. **Geração.** Duas portas, mesma fila:
    - manual/CLI, consumindo o briefing acima;
-   - `python scripts/gerar_cenas_manifesto.py --tamanho 20`, que chama o Gemini direto
-     (`NANO_BANANA_API_KEY` ou `GEMINI_API_KEY`), homologa cada imagem na hora e **apaga o
-     refugo** — cena reprovada volta para a fila sozinha na rodada seguinte.
+   - `python scripts/gerar_cenas_manifesto.py --tamanho 20`, que homologa cada imagem na
+     hora e **apaga o refugo** — cena reprovada volta para a fila sozinha na rodada
+     seguinte.
 4. **`python scripts/homologar_cenas.py --realimentar`** — mede o acervo inteiro, escreve
    `docs/qualidade_imagens.md` e devolve as reprovadas para `docs/public/cenas/regerar.txt`,
    que o passo 1 lê. O ciclo se fecha sem ninguém anotar nada à mão.
+
+## Provedores de imagem
+
+`--provedor auto` desce a cadeia da regra 7 do `AGENTS.md`: perde-se fidelidade por
+último, e só quando o nível acima ficou indisponível de verdade.
+
+| Ordem | Provedor | Custo | Referência que aceita | Ritmo |
+|---|---|---|---|---|
+| 1 | `gemini` (`NANO_BANANA_API_KEY`/`GEMINI_API_KEY`) | quota da conta | retrato de **todo** o elenco da cena | quota |
+| 2 | `kontext_space` (FLUX.1-Kontext no ZeroGPU, `HF_TOKEN`) | zero | retrato da âncora, arquivo local | cota diária + fila |
+| 3 | `pollinations` (FLUX Kontext, `POLLINATIONS_TOKEN` opcional) | zero | retrato da âncora, por URL pública | 15 s por imagem (5 s no tier grátis com cadastro) |
+
+Os dois últimos não cobram nada, então a fila inteira roda sem custo mesmo sem chave
+nenhuma. O Kontext recebe um retrato só: numa cena com três personagens, a identidade
+travada é a da âncora e o resto vem por descrição — a degradação já prevista na regra 7.
+
+Quando um provedor começa a recusar, `scripts/diagnostico_provedores.py` isola uma
+hipótese por variante (modelo, tamanho do prompt, `nologo`, `referrer`, referência por
+URL) e imprime status e corpo de cada uma. Ele roda no job de fumaça do CI porque é lá
+que existe saída de rede para provedor de imagem.
 
 ## O que trava a fidelidade do personagem
 

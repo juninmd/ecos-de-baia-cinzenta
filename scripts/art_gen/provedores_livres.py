@@ -107,7 +107,7 @@ class ProvedorPollinations:
         self._esperar()
         cabecalhos = {"Authorization": f"Bearer {self.token}"} if self.token else {}
         try:
-            resposta = requests.get(self.url(entrada), headers=cabecalhos, timeout=180)
+            resposta = requests.get(self.url(entrada), headers=cabecalhos, timeout=120)
         except requests.RequestException as exc:
             print(f"   ⚠️ pollinations falhou: {type(exc).__name__}")
             return False

@@ -55,18 +55,19 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-      - run: pip install requests pillow numpy
+      - run: pip install requests pillow numpy gradio_client
       - name: Reconstruir o manifesto
         run: python scripts/build_scene_manifest.py
       - name: Sondar o provedor
         env:
           # O Kontext lê o retrato por URL: no PR ele tem que vir da branch em teste.
           REF: https://raw.githubusercontent.com/${{ github.repository }}/${{ github.event.pull_request.head.sha }}/docs/public/personagens/gabo.jpg
-        run: python scripts/diagnostico_provedores.py --referencia "$REF"
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: python -u scripts/diagnostico_provedores.py --space --referencia "$REF"
       - name: Gerar duas cenas
         env:
           CENAS_REF_BASE_URL: https://raw.githubusercontent.com/${{ github.repository }}/${{ github.event.pull_request.head.sha }}/
-        run: python scripts/gerar_cenas_manifesto.py --tamanho 2 --provedor pollinations --sem-visao
+        run: python -u scripts/gerar_cenas_manifesto.py --tamanho 2 --provedor pollinations --sem-visao
       - name: Separar o que a fumaça produziu
         if: always()
         run: |
@@ -136,7 +137,7 @@ jobs:
         run: |
           ARGS="--tamanho ${{ inputs.tamanho || '200' }} --provedor ${{ inputs.provedor || 'auto' }}"
           if [ -n "${{ inputs.capitulo }}" ]; then ARGS="$ARGS --capitulo ${{ inputs.capitulo }}"; fi
-          python scripts/gerar_cenas_manifesto.py $ARGS
+          python -u scripts/gerar_cenas_manifesto.py $ARGS
 
       - name: Homologar o acervo
         run: python scripts/homologar_cenas.py --realimentar

@@ -24,12 +24,15 @@ BASE = "https://image.pollinations.ai/prompt/"
 PROMPT_CURTO = "medium shot, a tired detective in a beige trench coat under neon rain"
 PROMPT_LONGO = PROMPT_CURTO + ". " + ("cinematic film still, volumetric fog, " * 40)
 PAUSA = 16.0  # tier anônimo: uma imagem a cada 15 s
+# O provedor gratuito às vezes pendura em vez de recusar. Sem teto, uma variante lenta
+# come o job inteiro e o diagnóstico morre sem dizer nada.
+ESPERA_MAXIMA = 75.0
 
 
 def sondar(nome: str, caminho: str, parametros: dict, cabecalhos: dict = None) -> dict:
     url = BASE + urllib.parse.quote(caminho, safe="") + "?" + urllib.parse.urlencode(parametros)
     try:
-        resposta = requests.get(url, headers=cabecalhos or {}, timeout=180)
+        resposta = requests.get(url, headers=cabecalhos or {}, timeout=ESPERA_MAXIMA)
         corpo = resposta.headers.get("content-type", "")
         detalhe = "" if corpo.startswith("image/") else resposta.text[:160].replace("\n", " ")
         return {
@@ -71,8 +74,30 @@ def listar_modelos() -> None:
             print(f"📚 {url} → {type(exc).__name__}")
 
 
+def sondar_space() -> dict:
+    """O Space do ZeroGPU é o outro caminho gratuito, e o único que aceita o retrato
+    como arquivo local. Vale a pena saber se a cota e a assinatura da API continuam de pé.
+    """
+    from scripts.daily_telegram import hf_space
+
+    retrato = REPO_ROOT / "docs" / "public" / "personagens" / "gabo.jpg"
+    destino = REPO_ROOT / "space_probe.jpg"
+    try:
+        resultado = hf_space.edit_with_identity(retrato, PROMPT_CURTO, destino, seed=42)
+    except BaseException as exc:  # Space grátis: fila, cota ou app error
+        return {"variante": "kontext space", "status": 0, "tipo": "",
+                "bytes": 0, "detalhe": f"{type(exc).__name__}: {str(exc)[:160]}"}
+    if resultado and destino.exists():
+        return {"variante": "kontext space", "status": 200, "tipo": "image/jpeg",
+                "bytes": destino.stat().st_size, "detalhe": ""}
+    return {"variante": "kontext space", "status": 0, "tipo": "", "bytes": 0,
+            "detalhe": "sem imagem (cota, fila ou assinatura mudou)"}
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--space", action="store_true",
+                        help="Também sonda o FLUX.1-Kontext no Space do ZeroGPU")
     parser.add_argument(
         "--referencia",
         default="https://raw.githubusercontent.com/juninmd/ecos-de-baia-cinzenta/"
@@ -89,6 +114,13 @@ def main() -> int:
         marca = "✅" if resultado["tipo"].startswith("image/") else "❌"
         print(f"{marca} {resultado['variante']:24} {resultado['status']} "
               f"{resultado['tipo']:12} {resultado['bytes']:>8} B  {resultado['detalhe']}")
+        resultados.append(resultado)
+
+    if args.space:
+        resultado = sondar_space()
+        marca = "✅" if resultado["tipo"].startswith("image/") else "❌"
+        print(f"{marca} {resultado['variante']:24} {resultado['status']} "
+              f"{resultado['bytes']:>8} B  {resultado['detalhe']}")
         resultados.append(resultado)
 
     Path("diagnostico_provedores.json").write_text(
