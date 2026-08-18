@@ -1,0 +1,9 @@
+# Cenas a regerar POR CIMA do arquivo existente: violaram a fisionomia/vestuario canonico.
+# O arquivo atual so e substituido quando a nova imagem existir. Backup em scratchpad/reprovadas.
+docs/public/cenas/capitulo_4/cena_1.jpg
+docs/public/cenas/capitulo_8/cena_1.jpg
+docs/public/cenas/capitulo_8/cena_2.jpg
+docs/public/cenas/capitulo_13/cena_1.jpg
+docs/public/cenas/capitulo_13/cena_3.jpg
+docs/public/cenas/capitulo_18/cena_3.jpg
+docs/public/cenas/capitulo_36/cena_3.jpg
