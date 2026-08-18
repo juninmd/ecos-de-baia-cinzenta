@@ -17,9 +17,12 @@ ALTURA_MIN = 576
 PROPORCAO_MIN = 1.25
 PROPORCAO_MAX = 2.10
 # Calibrados sobre as 118 cenas canônicas já publicadas (medidas em docs/qualidade_imagens.md):
-# nitidez mínima observada 166, contraste 21,3, menor arquivo 592 KB, faixa de texto mediana 1,6.
-# Cada corte fica com folga abaixo do pior aprovado, para reprovar defeito e não estilo.
-BYTES_MIN = 120_000
+# nitidez mínima observada 166, contraste 21,3, faixa de texto mediana 1,6.
+# O corte de bytes é o único que não sai dali: aquelas imagens foram gravadas sem
+# otimização, a 810 KB. No padrão atual (optimize + progressivo) a mesma cena dá ~240 KB
+# e o Kontext do ZeroGPU devolve ~83 KB. O que precisa reprovar é quadro vazio, e esse
+# mede 6 KB chapado, 14 KB em gradiente puro — daí o piso ficar em 40 KB.
+BYTES_MIN = 40_000
 NITIDEZ_MIN = 120.0
 CONTRASTE_MIN = 18.0
 DISTANCIA_DUPLICATA = 6

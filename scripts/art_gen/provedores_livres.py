@@ -46,17 +46,22 @@ class ProvedorKontextSpace:
         return not hf_space.quota_exhausted(hf_space.KONTEXT_SPACE)
 
     def gerar(self, entrada: dict, referencias: List[Path], destino: Path) -> bool:
+        import tempfile
+
+        from scripts.art_gen.arquivo import tela_cinematografica
         from scripts.art_gen.provedores import prompt_curto
         from scripts.daily_telegram import hf_space
 
         if not referencias:
             return False
-        resultado = hf_space.edit_with_identity(
-            reference=referencias[0],
-            prompt=prompt_curto(entrada),
-            output_path=destino,
-            seed=entrada["seed"],
-        )
+        with tempfile.TemporaryDirectory() as pasta:
+            tela = tela_cinematografica(referencias[0], Path(pasta) / "referencia.jpg")
+            resultado = hf_space.edit_with_identity(
+                reference=tela,
+                prompt=prompt_curto(entrada),
+                output_path=destino,
+                seed=entrada["seed"],
+            )
         return resultado is not None and destino.exists()
 
 

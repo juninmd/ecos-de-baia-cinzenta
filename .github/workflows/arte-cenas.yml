@@ -67,7 +67,8 @@ jobs:
       - name: Gerar duas cenas
         env:
           CENAS_REF_BASE_URL: https://raw.githubusercontent.com/${{ github.repository }}/${{ github.event.pull_request.head.sha }}/
-        run: python -u scripts/gerar_cenas_manifesto.py --tamanho 2 --provedor pollinations --sem-visao --sem-ancora
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: python -u scripts/gerar_cenas_manifesto.py --tamanho 2 --provedor auto --sem-visao --sem-ancora
       - name: Separar o que a fumaça produziu
         if: always()
         run: |
@@ -109,7 +110,7 @@ jobs:
           python-version: "3.11"
 
       - name: Instalar dependências
-        run: pip install requests pillow numpy google-genai
+        run: pip install requests pillow numpy google-genai gradio_client
 
       - name: Preparar a branch de arte
         run: |
@@ -131,6 +132,7 @@ jobs:
         env:
           NANO_BANANA_API_KEY: ${{ secrets.NANO_BANANA_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
           POLLINATIONS_TOKEN: ${{ secrets.POLLINATIONS_TOKEN }}
           # Com cadastro grátis no tier Seed o intervalo cai de 15 s para 5 s.
           POLLINATIONS_INTERVALO: ${{ secrets.POLLINATIONS_TOKEN && '5' || '15' }}
