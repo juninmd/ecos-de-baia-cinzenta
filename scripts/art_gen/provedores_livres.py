@@ -35,8 +35,11 @@ class ProvedorKontextSpace:
 
     nome = "kontext_space"
     trava_identidade = True
+    esgotado = False
 
     def disponivel(self) -> bool:
+        if self.esgotado:
+            return False
         from scripts.daily_telegram import hf_space
 
         try:
@@ -78,6 +81,7 @@ class ProvedorPollinations:
     nome = "pollinations"
 
     def __init__(self, intervalo: float = INTERVALO_PADRAO, token: Optional[str] = None):
+        self.esgotado = False
         self.intervalo = intervalo
         self.token = token or os.environ.get("POLLINATIONS_TOKEN")
         self._ultimo = 0.0
@@ -88,7 +92,7 @@ class ProvedorPollinations:
         return bool(self.token)
 
     def disponivel(self) -> bool:
-        return True
+        return not self.esgotado
 
     def _esperar(self) -> None:
         atraso = self.intervalo - (time.monotonic() - self._ultimo)

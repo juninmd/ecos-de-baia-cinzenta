@@ -250,3 +250,42 @@ def test_provedor_pedido_sem_credencial_falha_com_mensagem(monkeypatch):
     monkeypatch.setattr(provedores.gemini, "cliente", lambda: None)
     with pytest.raises(SystemExit, match="indisponível"):
         provedores.escolher("gemini")
+
+
+def test_quota_estourada_tira_o_elo_da_rodada_sem_derrubar(tmp_path):
+    class SemQuota:
+        nome = "sem_quota"
+        trava_identidade = True
+        esgotado = False
+
+        def disponivel(self):
+            return not self.esgotado
+
+        def gerar(self, *a):
+            raise RuntimeError("429 RESOURCE_EXHAUSTED: quota exceeded, limit: 0")
+
+    morto, vivo = SemQuota(), ProvedorFalso(_boa)
+    cadeia = provedores.ProvedorCadeia([morto, vivo])
+    assert cadeia.gerar(ENTRADA, [], tmp_path / "cena_1.jpg") is True
+    # O 429 nao pode subir: ele tira o elo da rodada e a cena sai pelo provedor de baixo.
+    assert morto.esgotado is True
+    assert vivo.chamadas == 1
+
+
+def test_erro_comum_do_provedor_nao_esgota_o_elo(tmp_path):
+    class Instavel:
+        nome = "instavel"
+        trava_identidade = True
+        esgotado = False
+
+        def disponivel(self):
+            return not self.esgotado
+
+        def gerar(self, *a):
+            raise ConnectionError("conexão caiu no meio")
+
+    instavel = Instavel()
+    cadeia = provedores.ProvedorCadeia([instavel, ProvedorFalso(_boa)])
+    assert cadeia.gerar(ENTRADA, [], tmp_path / "cena_1.jpg") is True
+    # Falha de rede é episódica: o elo continua na fila para a próxima cena.
+    assert instavel.esgotado is False
