@@ -20,7 +20,7 @@ from typing import Dict, List, Optional
 REPO_ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(REPO_ROOT))
 
-from scripts.art_gen import fidelidade, gemini, homologacao  # noqa: E402
+from scripts.art_gen import fidelidade, gemini, homologacao, provedores  # noqa: E402
 from scripts.build_scene_manifest import DESTINO, carregar_regerar  # noqa: E402
 from scripts.lote_cenas import pendentes  # noqa: E402
 
@@ -41,19 +41,22 @@ def motivos_mecanicos(destino: Path) -> List[str]:
     return reprovas
 
 
-def gerar_uma(cliente, entrada: Dict, tentativas: int, com_visao: bool) -> Optional[List[str]]:
+def gerar_uma(provedor, entrada: Dict, tentativas: int, com_visao: bool) -> Optional[List[str]]:
     """Gera e homologa uma cena. Devolve None quando aprova, ou os motivos da desistência."""
     destino = REPO_ROOT / entrada["saida"]
     motivos: List[str] = ["nenhuma imagem devolvida pelo modelo"]
     for tentativa in range(1, tentativas + 1):
-        if not gemini.gerar_imagem(cliente, entrada["prompt"], referencias_de(entrada), destino):
+        if not provedor.gerar(entrada, referencias_de(entrada), destino):
             time.sleep(PAUSA_SEGUNDOS)
             continue
         motivos = motivos_mecanicos(destino)
         if not motivos and com_visao:
-            motivos = fidelidade.reprovacoes(
-                fidelidade.auditar(cliente, destino, entrada["elenco"], REPO_ROOT)
-            )
+            # A auditoria de fisionomia é sempre do Gemini: ela lê imagem, não gera.
+            auditor = gemini.cliente()
+            if auditor is not None:
+                motivos = fidelidade.reprovacoes(
+                    fidelidade.auditar(auditor, destino, entrada["elenco"], REPO_ROOT)
+                )
         if not motivos:
             return None
         # Regra 6 do AGENTS.md protege arte aprovada; refugo não é arte aprovada.
@@ -63,17 +66,15 @@ def gerar_uma(cliente, entrada: Dict, tentativas: int, com_visao: bool) -> Optio
     return motivos
 
 
-def executar(fila: List[Dict], tentativas: int, com_visao: bool) -> Dict[str, int]:
-    cliente = gemini.cliente()
-    if cliente is None:
-        raise SystemExit(
-            "❌ sem chave do Gemini no ambiente (NANO_BANANA_API_KEY ou GEMINI_API_KEY)."
-        )
+def executar(fila: List[Dict], tentativas: int, com_visao: bool,
+             provedor_nome: str = "auto") -> Dict[str, int]:
+    provedor = provedores.escolher(provedor_nome)
+    print(f"🎨 provedor: {provedor.nome}")
     placar = {"aprovadas": 0, "desistidas": 0}
     for i, entrada in enumerate(fila, 1):
         print(f"[{i}/{len(fila)}] capítulo {entrada['capitulo']} cena {entrada['cena']} "
               f"→ {entrada['saida']}")
-        motivos = gerar_uma(cliente, entrada, tentativas, com_visao)
+        motivos = gerar_uma(provedor, entrada, tentativas, com_visao)
         if motivos is None:
             placar["aprovadas"] += 1
             print("   ✅ homologada")
@@ -91,6 +92,9 @@ def main() -> int:
                         help="Tentativas por cena antes de desistir")
     parser.add_argument("--sem-visao", action="store_true",
                         help="Só o portão mecânico, sem auditoria de fidelidade")
+    parser.add_argument("--provedor", default="auto",
+                        choices=["auto", "gemini", "pollinations"],
+                        help="auto usa o Gemini se houver chave, senão o Pollinations")
     args = parser.parse_args()
 
     if not DESTINO.exists():
@@ -102,7 +106,8 @@ def main() -> int:
     if args.capitulo:
         fila = [c for c in fila if c["capitulo"] == args.capitulo]
 
-    placar = executar(fila[:args.tamanho], args.tentativas, not args.sem_visao)
+    placar = executar(fila[:args.tamanho], args.tentativas, not args.sem_visao,
+                      args.provedor)
     print(f"🎬 {placar['aprovadas']} homologadas, {placar['desistidas']} desistidas "
           f"| restam {len(fila) - placar['aprovadas']} na fila")
     return 0

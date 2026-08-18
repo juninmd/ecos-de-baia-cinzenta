@@ -1,36 +1,85 @@
 name: Arte das cenas
 
-# Gera um lote de cenas do manifesto com a quota do Gemini e homologa cada imagem antes
-# de commitar. Só roda quando alguém aciona: quota é recurso escasso e não se gasta por
-# acidente. O push vai para a branch `arte/cenas` porque master é protegida.
+# Duas rodadas sobre a mesma fila do manifesto:
+#   smoke  — gera 2 cenas num PR que mexa na pipeline e sobe como artefato, sem commitar.
+#            É a única forma de provar que o provedor funciona: o ambiente de
+#            desenvolvimento não tem saída de rede para provedor de imagem.
+#   lote   — gera de verdade e commita na branch `arte/cenas` (master é protegida).
+#
+# O provedor padrão é o Pollinations (FLUX Kontext, sem chave e sem custo). Havendo
+# NANO_BANANA_API_KEY nos secrets, o `--provedor auto` prefere o Gemini, que aceita o
+# retrato de todos os personagens da cena e não só o da âncora.
 
 on:
+  pull_request:
+    paths:
+      - "scripts/art_gen/**"
+      - "scripts/gerar_cenas_manifesto.py"
+      - "scripts/build_scene_manifest.py"
+      - ".github/workflows/arte-cenas.yml"
+  schedule:
+    # De hora em hora: 200 cenas por rodada a 15 s cada dá ~50 min de execução.
+    - cron: "0 * * * *"
   workflow_dispatch:
     inputs:
       tamanho:
         description: "Quantas cenas gerar nesta rodada"
         required: false
-        default: "20"
+        default: "200"
         type: string
       capitulo:
         description: "Limitar a um capítulo (vazio = fila inteira)"
         required: false
         type: string
-      sem_visao:
-        description: "Pular a auditoria de fidelidade (só o portão mecânico)"
+      provedor:
+        description: "Provedor de imagem"
         required: false
-        default: false
-        type: boolean
+        default: "auto"
+        type: choice
+        options: [auto, pollinations, gemini]
 
 concurrency:
   group: arte-cenas
   cancel-in-progress: false
 
 jobs:
-  gerar:
-    name: Gerar e homologar lote
+  smoke:
+    name: Fumaça do provedor
+    if: github.event_name == 'pull_request'
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 20
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install requests pillow numpy
+      - name: Reconstruir o manifesto
+        run: python scripts/build_scene_manifest.py
+      - name: Gerar duas cenas
+        env:
+          # O Kontext lê o retrato por URL: no PR ele tem que vir da branch em teste.
+          CENAS_REF_BASE_URL: https://raw.githubusercontent.com/${{ github.repository }}/${{ github.event.pull_request.head.sha }}/
+        run: python scripts/gerar_cenas_manifesto.py --tamanho 2 --provedor pollinations --sem-visao
+      - name: Homologar o que saiu
+        run: python scripts/homologar_cenas.py
+      - name: Subir as cenas para inspeção
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: cenas-de-fumaca
+          path: |
+            docs/public/cenas/capitulo_*/cena_*.jpg
+            docs/qualidade_imagens.md
+          retention-days: 7
+
+  lote:
+    name: Gerar e homologar lote
+    if: github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
     permissions:
       contents: write
     steps:
@@ -65,10 +114,12 @@ jobs:
         env:
           NANO_BANANA_API_KEY: ${{ secrets.NANO_BANANA_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          POLLINATIONS_TOKEN: ${{ secrets.POLLINATIONS_TOKEN }}
+          # Com cadastro grátis no tier Seed o intervalo cai de 15 s para 5 s.
+          POLLINATIONS_INTERVALO: ${{ secrets.POLLINATIONS_TOKEN && '5' || '15' }}
         run: |
-          ARGS="--tamanho ${{ inputs.tamanho }}"
+          ARGS="--tamanho ${{ inputs.tamanho || '200' }} --provedor ${{ inputs.provedor || 'auto' }}"
           if [ -n "${{ inputs.capitulo }}" ]; then ARGS="$ARGS --capitulo ${{ inputs.capitulo }}"; fi
-          if [ "${{ inputs.sem_visao }}" = "true" ]; then ARGS="$ARGS --sem-visao"; fi
           python scripts/gerar_cenas_manifesto.py $ARGS
 
       - name: Homologar o acervo

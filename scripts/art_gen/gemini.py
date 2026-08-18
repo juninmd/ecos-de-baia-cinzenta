@@ -58,8 +58,9 @@ def gerar_imagem(cliente_genai, prompt: str, referencias: List[Path], destino: P
         dados = getattr(parte, "inline_data", None)
         if not dados:
             continue
-        destino.parent.mkdir(parents=True, exist_ok=True)
-        Image.open(io.BytesIO(dados.data)).convert("RGB").save(destino, quality=92)
+        from scripts.art_gen.arquivo import salvar_jpeg
+
+        salvar_jpeg(Image.open(io.BytesIO(dados.data)), destino)
         return destino.exists()
     return False
 
