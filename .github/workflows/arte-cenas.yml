@@ -58,22 +58,38 @@ jobs:
       - run: pip install requests pillow numpy
       - name: Reconstruir o manifesto
         run: python scripts/build_scene_manifest.py
-      - name: Gerar duas cenas
+      - name: Sondar o provedor
         env:
           # O Kontext lê o retrato por URL: no PR ele tem que vir da branch em teste.
+          REF: https://raw.githubusercontent.com/${{ github.repository }}/${{ github.event.pull_request.head.sha }}/docs/public/personagens/gabo.jpg
+        run: python scripts/diagnostico_provedores.py --referencia "$REF"
+      - name: Gerar duas cenas
+        env:
           CENAS_REF_BASE_URL: https://raw.githubusercontent.com/${{ github.repository }}/${{ github.event.pull_request.head.sha }}/
         run: python scripts/gerar_cenas_manifesto.py --tamanho 2 --provedor pollinations --sem-visao
-      - name: Homologar o que saiu
-        run: python scripts/homologar_cenas.py
+      - name: Separar o que a fumaça produziu
+        if: always()
+        run: |
+          mkdir -p fumaca
+          # Só o que nasceu nesta rodada: o acervo antigo já está versionado.
+          git ls-files --others --exclude-standard 'docs/public/cenas/**/*.jpg' \
+            | tee /dev/stderr | xargs -r -I{} cp {} fumaca/
+          python scripts/homologar_cenas.py
+          cp docs/qualidade_imagens.md fumaca/
       - name: Subir as cenas para inspeção
         if: always()
         uses: actions/upload-artifact@v4
         with:
           name: cenas-de-fumaca
           path: |
-            docs/public/cenas/capitulo_*/cena_*.jpg
-            docs/qualidade_imagens.md
+            fumaca/
+            diagnostico_provedores.json
           retention-days: 7
+      - name: Reprovar se nenhuma cena nasceu
+        run: |
+          # Sem esta checagem o job passava verde com zero imagens geradas.
+          test -n "$(ls -A fumaca/*.jpg 2>/dev/null)" \
+            || { echo "::error::nenhuma cena homologada — ver diagnostico_provedores.json"; exit 1; }
 
   lote:
     name: Gerar e homologar lote

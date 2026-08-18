@@ -5,7 +5,7 @@ from PIL import Image
 
 from scripts import gerar_cenas_manifesto as runner
 from scripts import lote_cenas
-from scripts.art_gen import fidelidade, gemini, provedores
+from scripts.art_gen import fidelidade, gemini, provedores, provedores_livres
 
 ENTRADA = {
     "capitulo": "7", "cena": 2, "acao": "Gabo desce a escada alagada",
@@ -32,6 +32,9 @@ class ProvedorFalso:
     def __init__(self, pintor):
         self.pintor = pintor
         self.chamadas = 0
+
+    def disponivel(self):
+        return True
 
     def gerar(self, entrada, referencias, destino):
         self.chamadas += 1
@@ -150,13 +153,48 @@ def test_prompt_curto_cabe_na_url_e_mantem_as_travas():
 
 def test_pollinations_respeita_o_intervalo_do_tier(monkeypatch):
     dormiu = []
-    monkeypatch.setattr(provedores.time, "sleep", dormiu.append)
+    monkeypatch.setattr(provedores_livres.time, "sleep", dormiu.append)
     provedor = provedores.ProvedorPollinations(intervalo=15)
     provedor._esperar()
     provedor._esperar()
     assert dormiu and dormiu[-1] > 14
 
 
-def test_escolher_cai_no_pollinations_sem_chave(monkeypatch):
+def test_cadeia_pula_o_elo_indisponivel_e_usa_o_seguinte(tmp_path):
+    class Indisponivel:
+        nome = "morto"
+
+        def disponivel(self):
+            return False
+
+        def gerar(self, *a):
+            raise AssertionError("elo indisponível não pode ser chamado")
+
+    usado = ProvedorFalso(_boa)
+    cadeia = provedores.ProvedorCadeia([Indisponivel(), usado])
+    assert cadeia.gerar(ENTRADA, [], tmp_path / "cena_1.jpg") is True
+    assert usado.chamadas == 1
+
+
+def test_cadeia_cai_para_o_proximo_quando_o_elo_falha(tmp_path):
+    class Falha:
+        nome = "falha"
+
+        def disponivel(self):
+            return True
+
+        def gerar(self, *a):
+            return False
+
+    usado = ProvedorFalso(_boa)
+    assert provedores.ProvedorCadeia([Falha(), usado]).gerar(
+        ENTRADA, [], tmp_path / "cena_1.jpg"
+    ) is True
+    assert usado.chamadas == 1
+
+
+def test_escolher_sem_chave_ainda_devolve_provedor(monkeypatch):
     monkeypatch.setattr(provedores.gemini, "cliente", lambda: None)
-    assert provedores.escolher("auto").nome == "pollinations"
+    # Sem chave a cadeia continua de pé: o Pollinations não exige cadastro.
+    assert provedores.escolher("auto").disponivel()
+    assert provedores.escolher("pollinations").nome == "pollinations"
