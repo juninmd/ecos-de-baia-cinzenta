@@ -104,3 +104,25 @@ def test_relatorio_mostra_reprovadas_e_cobertura():
 def test_relatorio_tem_o_placar(indicador):
     resultado = {"total": 0, "aprovadas": 0, "defeitos": [], "alertas": [], "cobertura": {}}
     assert indicador in relatorio_imagens.montar(resultado, 10)
+
+
+def test_tela_cinematografica_entrega_o_quadro_que_o_portao_espera(tmp_path):
+    from scripts.art_gen.arquivo import tela_cinematografica
+
+    # Retrato quadrado: é o formato de 14 dos 34 retratos do dossiê.
+    retrato = _salvar(tmp_path, _ruido(9, (1024, 1024)), "retrato.jpg")
+    tela = tela_cinematografica(retrato, tmp_path / "tela.jpg")
+    medida = homologacao.medir(tela)
+    assert (medida.largura, medida.altura) == (1376, 768)
+    reprovas, _ = homologacao.avaliar(medida)
+    assert reprovas == []
+
+
+def test_piso_de_bytes_reprova_quadro_vazio_e_aceita_cena_otimizada(tmp_path):
+    from scripts.art_gen.arquivo import salvar_jpeg
+
+    vazio = tmp_path / "vazio.jpg"
+    salvar_jpeg(Image.fromarray(np.full((768, 1376, 3), 40, dtype="uint8")), vazio)
+    assert homologacao.medir(vazio).bytes < homologacao.BYTES_MIN
+    cheio = _salvar(tmp_path, _ruido(10), "cheia.jpg")
+    assert homologacao.medir(cheio).bytes > homologacao.BYTES_MIN

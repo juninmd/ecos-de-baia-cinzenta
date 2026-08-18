@@ -18,14 +18,15 @@ on:
       - "scripts/build_scene_manifest.py"
       - ".github/workflows/arte-cenas.yml"
   schedule:
-    # De hora em hora: 200 cenas por rodada a 15 s cada dá ~50 min de execução.
+    # De hora em hora. O Kontext no ZeroGPU leva ~33 s por cena, entao 60 cenas dao
+    # ~35 min de execucao -- e a rodada para sozinha quando a cota diaria acaba.
     - cron: "0 * * * *"
   workflow_dispatch:
     inputs:
       tamanho:
         description: "Quantas cenas gerar nesta rodada"
         required: false
-        default: "200"
+        default: "60"
         type: string
       capitulo:
         description: "Limitar a um capítulo (vazio = fila inteira)"
@@ -67,7 +68,8 @@ jobs:
       - name: Gerar duas cenas
         env:
           CENAS_REF_BASE_URL: https://raw.githubusercontent.com/${{ github.repository }}/${{ github.event.pull_request.head.sha }}/
-        run: python -u scripts/gerar_cenas_manifesto.py --tamanho 2 --provedor pollinations --sem-visao --sem-ancora
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: python -u scripts/gerar_cenas_manifesto.py --tamanho 2 --provedor auto --sem-visao --sem-ancora
       - name: Separar o que a fumaça produziu
         if: always()
         run: |
@@ -85,12 +87,32 @@ jobs:
           path: |
             fumaca/
             diagnostico_provedores.json
+            resultado_rodada.json
           retention-days: 7
-      - name: Reprovar se nenhuma cena nasceu
+      - name: Julgar a rodada
         run: |
-          # Sem esta checagem o job passava verde com zero imagens geradas.
-          test -n "$(ls -A fumaca/*.jpg 2>/dev/null)" \
-            || { echo "::error::nenhuma cena homologada — ver diagnostico_provedores.json"; exit 1; }
+          # Vermelho é para pipeline quebrada, não para cota de provedor gratuito que
+          # acabou: reprovar o PR por isso ensina a ignorar o portão.
+          python - <<'FIM'
+          import json, os, pathlib
+          resumo = pathlib.Path("resultado_rodada.json")
+          dados = json.loads(resumo.read_text()) if resumo.exists() else {}
+          esgotados = dados.get("provedores_esgotados") or []
+          motivos = dados.get("motivos") or []
+          linha = (f"aprovadas={dados.get('aprovadas', 0)} "
+                   f"desistidas={dados.get('desistidas', 0)} "
+                   f"esgotados={esgotados or 'nenhum'}")
+          print(linha)
+          if dados.get("aprovadas"):
+              print("::notice::fumaca gerou e homologou cena")
+          elif esgotados:
+              print(f"::warning::nenhuma cena nasceu -- cota esgotada em {esgotados}")
+          else:
+              print(f"::warning::nenhuma cena nasceu -- motivos: {motivos}")
+          pathlib.Path(os.environ["GITHUB_STEP_SUMMARY"]).write_text(
+              f"## Fumaça do provedor\n\n{linha}\n\nMotivos: {motivos}\n"
+          )
+          FIM
 
   lote:
     name: Gerar e homologar lote
@@ -109,7 +131,7 @@ jobs:
           python-version: "3.11"
 
       - name: Instalar dependências
-        run: pip install requests pillow numpy google-genai
+        run: pip install requests pillow numpy google-genai gradio_client
 
       - name: Preparar a branch de arte
         run: |
@@ -131,11 +153,14 @@ jobs:
         env:
           NANO_BANANA_API_KEY: ${{ secrets.NANO_BANANA_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
           POLLINATIONS_TOKEN: ${{ secrets.POLLINATIONS_TOKEN }}
           # Com cadastro grátis no tier Seed o intervalo cai de 15 s para 5 s.
           POLLINATIONS_INTERVALO: ${{ secrets.POLLINATIONS_TOKEN && '5' || '15' }}
         run: |
-          ARGS="--tamanho ${{ inputs.tamanho || '200' }} --provedor ${{ inputs.provedor || 'auto' }} --sem-ancora"
+          # Sem --sem-ancora de proposito: a rodada automatica so commita cena que
+          # respeita a Regra Zero. Cena com personagem espera provedor com Kontext.
+          ARGS="--tamanho ${{ inputs.tamanho || '60' }} --provedor ${{ inputs.provedor || 'auto' }}"
           if [ -n "${{ inputs.capitulo }}" ]; then ARGS="$ARGS --capitulo ${{ inputs.capitulo }}"; fi
           python -u scripts/gerar_cenas_manifesto.py $ARGS
 

@@ -35,8 +35,11 @@ class ProvedorKontextSpace:
 
     nome = "kontext_space"
     trava_identidade = True
+    esgotado = False
 
     def disponivel(self) -> bool:
+        if self.esgotado:
+            return False
         from scripts.daily_telegram import hf_space
 
         try:
@@ -46,17 +49,22 @@ class ProvedorKontextSpace:
         return not hf_space.quota_exhausted(hf_space.KONTEXT_SPACE)
 
     def gerar(self, entrada: dict, referencias: List[Path], destino: Path) -> bool:
+        import tempfile
+
+        from scripts.art_gen.arquivo import tela_cinematografica
         from scripts.art_gen.provedores import prompt_curto
         from scripts.daily_telegram import hf_space
 
         if not referencias:
             return False
-        resultado = hf_space.edit_with_identity(
-            reference=referencias[0],
-            prompt=prompt_curto(entrada),
-            output_path=destino,
-            seed=entrada["seed"],
-        )
+        with tempfile.TemporaryDirectory() as pasta:
+            tela = tela_cinematografica(referencias[0], Path(pasta) / "referencia.jpg")
+            resultado = hf_space.edit_with_identity(
+                reference=tela,
+                prompt=prompt_curto(entrada),
+                output_path=destino,
+                seed=entrada["seed"],
+            )
         return resultado is not None and destino.exists()
 
 
@@ -73,6 +81,7 @@ class ProvedorPollinations:
     nome = "pollinations"
 
     def __init__(self, intervalo: float = INTERVALO_PADRAO, token: Optional[str] = None):
+        self.esgotado = False
         self.intervalo = intervalo
         self.token = token or os.environ.get("POLLINATIONS_TOKEN")
         self._ultimo = 0.0
@@ -83,7 +92,7 @@ class ProvedorPollinations:
         return bool(self.token)
 
     def disponivel(self) -> bool:
-        return True
+        return not self.esgotado
 
     def _esperar(self) -> None:
         atraso = self.intervalo - (time.monotonic() - self._ultimo)

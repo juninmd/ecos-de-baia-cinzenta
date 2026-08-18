@@ -1,5 +1,7 @@
-"""Relatório de homologação em markdown — o que a máquina mediu, capítulo a capítulo."""
+"""Relatórios da arte: o markdown do acervo e o resumo JSON de cada rodada de geração."""
 
+import collections
+import json
 from pathlib import Path
 from typing import Dict, List
 
@@ -77,3 +79,18 @@ def montar(resultado: Dict, alvo: int) -> str:
 
 def escrever(destino: Path, resultado: Dict, alvo: int) -> None:
     destino.write_text(montar(resultado, alvo), encoding="utf-8")
+
+
+def escrever_rodada(destino: Path, placar: Dict, recusas: List[str], provedor) -> None:
+    """Resumo da rodada em JSON, para o CI decidir se aquilo foi defeito ou foi quota.
+
+    Reprovar um PR porque a cota diária de um provedor gratuito acabou é ruído: ensina a
+    ignorar o portão. O que merece vermelho é a pipeline quebrar, não o mundo lá fora.
+    """
+    elos = getattr(provedor, "elos", [])
+    destino.write_text(json.dumps({
+        "aprovadas": placar["aprovadas"],
+        "desistidas": placar["desistidas"],
+        "provedores_esgotados": [e.nome for e in elos if getattr(e, "esgotado", False)],
+        "motivos": [m for m, _ in collections.Counter(recusas).most_common(10)],
+    }, ensure_ascii=False, indent=1), encoding="utf-8")

@@ -13,6 +13,10 @@ from pathlib import Path
 from typing import Dict, List
 
 from scripts.art_gen import gemini
+
+# Mensagens que significam "esse provedor acabou por hoje", não "essa cena deu errado".
+# Insistir depois disso é queimar tempo de execução em erro garantido.
+ESGOTADO = ("quota", "resource_exhausted", "429", "rate limit", "exceeded")
 from scripts.art_gen.provedores_livres import (  # noqa: F401  (reexport)
     BASE_RETRATOS, INTERVALO_PADRAO, POLLINATIONS_URL,
     ProvedorKontextSpace, ProvedorPollinations,
@@ -27,9 +31,10 @@ class ProvedorGemini:
 
     def __init__(self):
         self.cliente = gemini.cliente()
+        self.esgotado = False
 
     def disponivel(self) -> bool:
-        return self.cliente is not None
+        return self.cliente is not None and not self.esgotado
 
     def gerar(self, entrada: Dict, referencias: List[Path], destino: Path) -> bool:
         return gemini.gerar_imagem(self.cliente, entrada["prompt"], referencias, destino)
@@ -69,13 +74,32 @@ class ProvedorCadeia:
         for elo in self._elos_para(entrada):
             if not elo.disponivel():
                 continue
-            if elo.gerar(entrada, referencias, destino):
+            if self._tentar(elo, entrada, referencias, destino):
                 if entrada.get("referencia") and not elo.trava_identidade:
                     print(f"   ⚠️ {elo.nome} não trava fisionomia: cena marcada para refazer")
                     self.sem_ancora.append(entrada["saida"])
                 return True
             print(f"   ↘ {elo.nome} não entregou; tentando o próximo provedor")
         return False
+
+    @staticmethod
+    def _tentar(elo, entrada: Dict, referencias: List[Path], destino: Path) -> bool:
+        """Erro de provedor derruba a cena, nunca a rodada.
+
+        A quota de imagem do free tier do Gemini é literalmente zero, e o 429 subia como
+        exceção: a rodada agendada morria na primeira cena, de hora em hora, em vez de
+        cair para o provedor de baixo. Quota esgotada tira o elo do resto da rodada.
+        """
+        try:
+            return elo.gerar(entrada, referencias, destino)
+        except Exception as erro:
+            recado = str(erro)
+            if any(marca in recado.lower() for marca in ESGOTADO):
+                elo.esgotado = True
+                print(f"   🚫 {elo.nome} sem quota; fora desta rodada")
+            else:
+                print(f"   ⚠️ {elo.nome} falhou: {type(erro).__name__}: {recado[:120]}")
+            return False
 
 
 def prompt_curto(entrada: Dict, limite: int = 1100) -> str:
