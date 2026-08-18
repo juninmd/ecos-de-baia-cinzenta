@@ -1,19 +1,29 @@
+"""Gerador antigo, por SD/HF, mantido como plano B do `gerar_cenas_manifesto.py`.
+
+A raiz do repositório era um caminho absoluto do Windows: fora da máquina do autor este
+script achava zero capítulos e não gerava nada, sem reclamar. Agora ele usa a descoberta
+compartilhada de `scripts/art_gen/chapters.py`, igual ao resto da pipeline.
+"""
+
 import os
-import re
 import sys
 import time
 from pathlib import Path
-import dotenv
+
 import requests
 
-# Load environment variables
-REPO_ROOT = Path(r"D:\Solutions\pessoal\meu-livro")
-dotenv.load_dotenv(REPO_ROOT / ".env")
+REPO_ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(REPO_ROOT))
+
+from scripts.art_gen import prompt_cena  # noqa: E402
+from scripts.art_gen.chapters import (  # noqa: E402
+    extract_chapter_title_and_clean_text, get_chapter_files,
+)
+from scripts.build_scene_manifest import CENAS_POR_CAPITULO  # noqa: E402
+from scripts.daily_telegram import art, characters, scenes  # noqa: E402
 
 TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
 TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID")
-
-from scripts.daily_telegram import art, scenes, characters
 
 def send_telegram_photo(image_path: Path, caption: str):
     """Sends a photo to Telegram via sendPhoto API."""
@@ -47,49 +57,6 @@ def send_telegram_photo(image_path: Path, caption: str):
     print(f"❌ Telegram send photo failed permanently for {caption}")
     return False
 
-def extract_chapter_title_and_clean_text(raw_text: str):
-    """Extracts chapter title from frontmatter or text and cleans metadata."""
-    title = "Capítulo"
-    lines = raw_text.splitlines()
-    body_lines = []
-    in_frontmatter = False
-    
-    for line in lines:
-        if line.strip() == "---":
-            in_frontmatter = not in_frontmatter
-            continue
-        if in_frontmatter:
-            if line.startswith("title:"):
-                title = line.split("title:", 1)[1].strip().strip('"\'')
-        else:
-            body_lines.append(line)
-            
-    body_text = "\n".join(body_lines).strip()
-    return title, body_text
-
-def get_chapter_files():
-    """Finds all chapter markdown files and sorts them numerically."""
-    docs_dir = REPO_ROOT / "docs"
-    cap_files = [f for f in docs_dir.glob("capitulo-*.md")]
-    
-    chapters = []
-    for cap_path in cap_files:
-        m = re.search(r"capitulo-(\d+(\.\d+)?)\.md$", cap_path.name)
-        if m:
-            val = float(m.group(1))
-            num_str = m.group(1)
-            folder_name = f"capitulo_{num_str}".replace(".", "_")
-            chapters.append({
-                "val": val,
-                "num_str": num_str,
-                "file_path": cap_path,
-                "folder_name": folder_name,
-                "folder_path": REPO_ROOT / "docs" / "public" / "cenas" / folder_name
-            })
-            
-    chapters.sort(key=lambda x: x["val"])
-    return chapters
-
 def process_all_chapters():
     chapters = get_chapter_files()
     print(f"📚 Total chapters identified: {len(chapters)}")
@@ -98,26 +65,23 @@ def process_all_chapters():
         folder_path = cap["folder_path"]
         folder_path.mkdir(parents=True, exist_ok=True)
         
-        # Check missing scenes (cena_1.jpg, cena_2.jpg, cena_3.jpg)
         missing_scenes = []
-        for m in range(1, 4):
+        for m in range(1, CENAS_POR_CAPITULO + 1):
             scene_path = folder_path / f"cena_{m}.jpg"
             if not scene_path.exists():
                 missing_scenes.append(m)
                 
         if not missing_scenes:
-            print(f"⏩ Chapter {cap['folder_name']} already complete with 3 scenes. Skipping.")
+            print(f"⏩ Chapter {cap['folder_name']} completo com {CENAS_POR_CAPITULO} cenas.")
             continue
             
         print(f"\n🎨 Processing {cap['folder_name']} (missing scenes: {missing_scenes})...")
         raw_text = cap["file_path"].read_text(encoding="utf-8")
         title, body_text = extract_chapter_title_and_clean_text(raw_text)
         
-        # Split text into 3 scenes
-        scene_objects = scenes.split_scenes(body_text, quantidade=3)
-        
-        # Ensure we have 3 scene objects
-        while len(scene_objects) < 3:
+        scene_objects = scenes.split_scenes(body_text, quantidade=CENAS_POR_CAPITULO)
+
+        while len(scene_objects) < CENAS_POR_CAPITULO:
             scene_objects.append(scene_objects[-1] if scene_objects else scenes.Scene(len(scene_objects)+1, body_text))
             
         for scene_idx in missing_scenes:
@@ -133,8 +97,8 @@ def process_all_chapters():
             else:
                 prompt = s_obj.image_prompt(title)
                 
-            # Deterministic seed per chapter & scene
-            seed = int(cap["val"] * 1000) + scene_idx
+            # Regra 4 do AGENTS.md: seed = capítulo * 100 + índice da cena.
+            seed = prompt_cena.seed_da_cena(cap["num_str"], scene_idx)
             scene_file_path = folder_path / f"cena_{scene_idx}.jpg"
             
             print(f"📸 Generating {cap['folder_name']} cena_{scene_idx}.jpg (seed={seed})...")

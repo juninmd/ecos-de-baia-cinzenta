@@ -19,7 +19,8 @@ sys.path.insert(0, str(REPO_ROOT))
 from scripts.build_scene_manifest import carregar_regerar  # noqa: E402
 
 CENAS = REPO_ROOT / "docs" / "public" / "cenas"
-NOME_VALIDO = re.compile(r"^(capitulo_[\d_]+)/(cena_[123]\.jpg)$")
+# O alvo passou de três para dez cenas por capítulo (build_scene_manifest.CENAS_POR_CAPITULO).
+NOME_VALIDO = re.compile(r"^(capitulo_[\d_]+)/(cena_(?:10|[1-9])\.jpg)$")
 
 
 def proximo_nome(destino: Path) -> Path:

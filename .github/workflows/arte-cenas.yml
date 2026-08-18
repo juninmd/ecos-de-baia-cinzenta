@@ -1,0 +1,150 @@
+name: Arte das cenas
+
+# Duas rodadas sobre a mesma fila do manifesto:
+#   smoke  — gera 2 cenas num PR que mexa na pipeline e sobe como artefato, sem commitar.
+#            É a única forma de provar que o provedor funciona: o ambiente de
+#            desenvolvimento não tem saída de rede para provedor de imagem.
+#   lote   — gera de verdade e commita na branch `arte/cenas` (master é protegida).
+#
+# O provedor padrão é o Pollinations (FLUX Kontext, sem chave e sem custo). Havendo
+# NANO_BANANA_API_KEY nos secrets, o `--provedor auto` prefere o Gemini, que aceita o
+# retrato de todos os personagens da cena e não só o da âncora.
+
+on:
+  pull_request:
+    paths:
+      - "scripts/art_gen/**"
+      - "scripts/gerar_cenas_manifesto.py"
+      - "scripts/build_scene_manifest.py"
+      - ".github/workflows/arte-cenas.yml"
+  schedule:
+    # De hora em hora: 200 cenas por rodada a 15 s cada dá ~50 min de execução.
+    - cron: "0 * * * *"
+  workflow_dispatch:
+    inputs:
+      tamanho:
+        description: "Quantas cenas gerar nesta rodada"
+        required: false
+        default: "200"
+        type: string
+      capitulo:
+        description: "Limitar a um capítulo (vazio = fila inteira)"
+        required: false
+        type: string
+      provedor:
+        description: "Provedor de imagem"
+        required: false
+        default: "auto"
+        type: choice
+        options: [auto, pollinations, gemini]
+
+concurrency:
+  group: arte-cenas
+  cancel-in-progress: false
+
+jobs:
+  smoke:
+    name: Fumaça do provedor
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install requests pillow numpy gradio_client
+      - name: Reconstruir o manifesto
+        run: python scripts/build_scene_manifest.py
+      - name: Sondar o provedor
+        env:
+          # O Kontext lê o retrato por URL: no PR ele tem que vir da branch em teste.
+          REF: https://raw.githubusercontent.com/${{ github.repository }}/${{ github.event.pull_request.head.sha }}/docs/public/personagens/gabo.jpg
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: python -u scripts/diagnostico_provedores.py --space --referencia "$REF"
+      - name: Gerar duas cenas
+        env:
+          CENAS_REF_BASE_URL: https://raw.githubusercontent.com/${{ github.repository }}/${{ github.event.pull_request.head.sha }}/
+        run: python -u scripts/gerar_cenas_manifesto.py --tamanho 2 --provedor pollinations --sem-visao --sem-ancora
+      - name: Separar o que a fumaça produziu
+        if: always()
+        run: |
+          mkdir -p fumaca
+          # Só o que nasceu nesta rodada: o acervo antigo já está versionado.
+          git ls-files --others --exclude-standard 'docs/public/cenas/**/*.jpg' \
+            | tee /dev/stderr | xargs -r -I{} cp {} fumaca/
+          python scripts/homologar_cenas.py
+          cp docs/qualidade_imagens.md fumaca/
+      - name: Subir as cenas para inspeção
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: cenas-de-fumaca
+          path: |
+            fumaca/
+            diagnostico_provedores.json
+          retention-days: 7
+      - name: Reprovar se nenhuma cena nasceu
+        run: |
+          # Sem esta checagem o job passava verde com zero imagens geradas.
+          test -n "$(ls -A fumaca/*.jpg 2>/dev/null)" \
+            || { echo "::error::nenhuma cena homologada — ver diagnostico_provedores.json"; exit 1; }
+
+  lote:
+    name: Gerar e homologar lote
+    if: github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar dependências
+        run: pip install requests pillow numpy google-genai
+
+      - name: Preparar a branch de arte
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # A branch pode não existir ainda: na primeira rodada ela nasce do master.
+          if git ls-remote --exit-code --heads origin arte/cenas >/dev/null; then
+            git fetch origin arte/cenas
+            git checkout -B arte/cenas origin/arte/cenas
+            git merge --no-edit "origin/${GITHUB_REF_NAME}"
+          else
+            git checkout -B arte/cenas
+          fi
+
+      - name: Reconstruir o manifesto
+        run: python scripts/build_scene_manifest.py
+
+      - name: Gerar o lote
+        env:
+          NANO_BANANA_API_KEY: ${{ secrets.NANO_BANANA_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          POLLINATIONS_TOKEN: ${{ secrets.POLLINATIONS_TOKEN }}
+          # Com cadastro grátis no tier Seed o intervalo cai de 15 s para 5 s.
+          POLLINATIONS_INTERVALO: ${{ secrets.POLLINATIONS_TOKEN && '5' || '15' }}
+        run: |
+          ARGS="--tamanho ${{ inputs.tamanho || '200' }} --provedor ${{ inputs.provedor || 'auto' }} --sem-ancora"
+          if [ -n "${{ inputs.capitulo }}" ]; then ARGS="$ARGS --capitulo ${{ inputs.capitulo }}"; fi
+          python -u scripts/gerar_cenas_manifesto.py $ARGS
+
+      - name: Homologar o acervo
+        run: python scripts/homologar_cenas.py --realimentar
+
+      - name: Commitar o que passou
+        run: |
+          git add docs/public/cenas docs/qualidade_imagens.md
+          git diff --cached --quiet && echo "nada novo" && exit 0
+          git commit -m "feat(cenas): lote de arte homologado pelo portão automático"
+          git push origin HEAD:arte/cenas
