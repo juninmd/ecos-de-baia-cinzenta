@@ -52,6 +52,23 @@ hipótese por variante (modelo, tamanho do prompt, `nologo`, `referrer`, referê
 URL) e imprime status e corpo de cada uma. Ele roda no job de fumaça do CI porque é lá
 que existe saída de rede para provedor de imagem.
 
+### O que cada caminho gratuito entrega de verdade
+
+Medido pela sonda no CI em 18/08/2026 — não é estimativa, é o que voltou na resposta:
+
+| Caminho | Veredito medido |
+|---|---|
+| **FLUX.1-Kontext no ZeroGPU** | ✅ 200 em ~33 s, trava fisionomia. **Mas a cota gratuita é de poucas imagens por dia**: `"You have exceeded your ZeroGPU runs limit. Subscribe to Hugging Face PRO to get 40 min of ZeroGPU quota a day"`. Com PRO seriam ~70 cenas/dia. |
+| Pollinations `flux`/`turbo` | ✅ 200, sem chave, sem cota prática — mas é texto-para-imagem (não trava rosto) e entrega **1027×573 com nitidez ~35**, que o portão reprova por resolução e por foco. |
+| Pollinations `kontext` | ❌ 500: `"kontext model is only available on enter.pollinations.ai"`. O `/models` público lista hoje apenas `["sana"]`. |
+| API do Gemini, free tier | ❌ 429 `RESOURCE_EXHAUSTED`, **`limit: 0`** para `gemini-2.5-flash-preview-image`. O free tier não gera imagem — a quota do antigravity não passa por esta porta. |
+
+**Conclusão honesta:** nenhum caminho gratuito entrega fidelidade *e* qualidade *e* volume
+ao mesmo tempo. Para as 2.239 cenas da fila, as opções reais são o CLI do antigravity
+(que é o que gera hoje) ou o ZeroGPU com conta PRO, que torna a rodada do CI autônoma a
+~70 cenas por dia. O que a pipeline garante em qualquer um dos casos é que nada entra sem
+passar pelo portão, e que cena com personagem não sai com rosto inventado.
+
 ## O que trava a fidelidade do personagem
 
 | Trava | Onde | Por quê |

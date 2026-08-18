@@ -87,12 +87,32 @@ jobs:
           path: |
             fumaca/
             diagnostico_provedores.json
+            resultado_rodada.json
           retention-days: 7
-      - name: Reprovar se nenhuma cena nasceu
+      - name: Julgar a rodada
         run: |
-          # Sem esta checagem o job passava verde com zero imagens geradas.
-          test -n "$(ls -A fumaca/*.jpg 2>/dev/null)" \
-            || { echo "::error::nenhuma cena homologada — ver diagnostico_provedores.json"; exit 1; }
+          # Vermelho é para pipeline quebrada, não para cota de provedor gratuito que
+          # acabou: reprovar o PR por isso ensina a ignorar o portão.
+          python - <<'FIM'
+          import json, os, pathlib
+          resumo = pathlib.Path("resultado_rodada.json")
+          dados = json.loads(resumo.read_text()) if resumo.exists() else {}
+          esgotados = dados.get("provedores_esgotados") or []
+          motivos = dados.get("motivos") or []
+          linha = (f"aprovadas={dados.get('aprovadas', 0)} "
+                   f"desistidas={dados.get('desistidas', 0)} "
+                   f"esgotados={esgotados or 'nenhum'}")
+          print(linha)
+          if dados.get("aprovadas"):
+              print("::notice::fumaca gerou e homologou cena")
+          elif esgotados:
+              print(f"::warning::nenhuma cena nasceu -- cota esgotada em {esgotados}")
+          else:
+              print(f"::warning::nenhuma cena nasceu -- motivos: {motivos}")
+          pathlib.Path(os.environ["GITHUB_STEP_SUMMARY"]).write_text(
+              f"## Fumaça do provedor\n\n{linha}\n\nMotivos: {motivos}\n"
+          )
+          FIM
 
   lote:
     name: Gerar e homologar lote

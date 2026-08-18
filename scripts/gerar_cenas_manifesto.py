@@ -20,11 +20,14 @@ from typing import Dict, List, Optional
 REPO_ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(REPO_ROOT))
 
-from scripts.art_gen import fidelidade, gemini, homologacao, provedores  # noqa: E402
+from scripts.art_gen import (  # noqa: E402
+    fidelidade, gemini, homologacao, provedores, relatorio_imagens,
+)
 from scripts.build_scene_manifest import DESTINO, carregar_regerar  # noqa: E402
 from scripts.lote_cenas import pendentes  # noqa: E402
 
 PAUSA_SEGUNDOS = 2.0
+RESULTADO = REPO_ROOT / "resultado_rodada.json"
 
 
 def referencias_de(entrada: Dict) -> List[Path]:
@@ -71,6 +74,7 @@ def executar(fila: List[Dict], tentativas: int, com_visao: bool,
     provedor = provedores.escolher(provedor_nome, sem_ancora)
     print(f"🎨 provedor: {provedor.nome}")
     placar = {"aprovadas": 0, "desistidas": 0}
+    recusas: List[str] = []
     for i, entrada in enumerate(fila, 1):
         print(f"[{i}/{len(fila)}] capítulo {entrada['capitulo']} cena {entrada['cena']} "
               f"→ {entrada['saida']}")
@@ -80,29 +84,11 @@ def executar(fila: List[Dict], tentativas: int, com_visao: bool,
             print("   ✅ homologada")
         else:
             placar["desistidas"] += 1
+            recusas.extend(motivos)
             print(f"   ❌ desistiu: {'; '.join(motivos)}")
     placar["sem_ancora"] = list(getattr(provedor, "sem_ancora", []))
+    relatorio_imagens.escrever_rodada(RESULTADO, placar, recusas, provedor)
     return placar
-
-
-def registrar_sem_ancora(saidas: List[str]) -> int:
-    """Cena que saiu por provedor sem Kontext entra na fila de refazer (regra 7).
-
-    A imagem fica no lugar — melhor um plano canônico de ambiente que buraco —, mas ela
-    não pode ser tratada como definitiva: o rosto ali não veio do retrato.
-    """
-    if not saidas:
-        return 0
-    lista = REPO_ROOT / "docs" / "public" / "cenas" / "regerar.txt"
-    atuais = set()
-    if lista.exists():
-        atuais = {l.strip() for l in lista.read_text(encoding="utf-8").splitlines()
-                  if l.strip() and not l.startswith("#")}
-    novas = set(saidas) - atuais
-    if novas:
-        with lista.open("a", encoding="utf-8") as arquivo:
-            arquivo.write("\n".join(sorted(novas)) + "\n")
-    return len(novas)
 
 
 def main() -> int:
