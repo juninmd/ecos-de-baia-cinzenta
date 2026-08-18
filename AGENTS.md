@@ -56,7 +56,8 @@
    todo artigo em português e sequestra o ranking.
 6. **Arte é cache, não descartável.** Toda cena gerada é commitada em
    `docs/public/cenas/capitulo_N/`. Regerar uma cena que já existe é proibido: gasta cota e
-   introduz variação de aparência sem necessidade.
+   introduz variação de aparência sem necessidade. A única exceção é a cena reprovada na
+   homologação — refugo não é arte aprovada e não ocupa lugar de cena.
 7. **Degradar sem quebrar a identidade.** Ordem de fallback: Kontext local → Kontext em Space →
    texto-para-imagem com descritor canônico → arte já existente do capítulo. Só se cai para o
    penúltimo nível é aceitável perder fidelidade — e a cena deve ser regerada depois, quando
@@ -67,6 +68,16 @@
    trocar o rosto.
 9. **Continuidade temporal.** Respeite a fase do personagem (`Linha do Tempo e Evolução Visual`
    em `docs/personagens.md`): Gabo com exoesqueleto no cap. 105 não pode aparecer sem ele.
+   `scripts/art_gen/continuidade.py` lê essa linha do tempo e injeta a fase correta no prompt;
+   o vestuário com fases declaradas (Dante) é escolhido pelo capítulo, nunca mandado inteiro.
+10. **Dez cenas por capítulo.** O alvo da obra é `CENAS_POR_CAPITULO = 10` em
+   `scripts/build_scene_manifest.py` — 2.350 imagens. Três imagens não cobrem um capítulo de
+   1.100 palavras e faziam o livro inteiro repetir o mesmo trio de planos.
+11. **Nenhuma imagem entra sem homologação.** `python scripts/homologar_cenas.py --realimentar`
+   mede resolução, nitidez, contraste, arquivo chapado, texto queimado e cena repetida, escreve
+   `docs/qualidade_imagens.md` e devolve as reprovadas para `docs/public/cenas/regerar.txt`.
+   Fidelidade de rosto é auditada com visão (`--visao N`). O ciclo completo está em
+   `docs/pipeline_imagens.md`.
 
 ## 📏 Padrão de Qualidade por Capítulo (OBRIGATÓRIO)
 

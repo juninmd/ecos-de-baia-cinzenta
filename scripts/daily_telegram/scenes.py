@@ -22,6 +22,12 @@ SHOTS = [
     "low angle shot",
     "close-up",
     "high angle wide shot",
+    # Com dez cenas por capítulo a lista de seis reciclava a partir da sétima e o
+    # capítulo terminava com dois pares de imagens quase idênticas.
+    "dutch angle medium shot",
+    "extreme close-up on hands",
+    "wide two-shot",
+    "medium tracking shot from behind",
 ]
 STYLE_CURTO = "neo-noir cyberpunk, rainy night, neon lighting, cinematic, film grain"
 
@@ -54,6 +60,15 @@ class Scene:
         if self.shot in ("close-up", "medium shot"):
             return 0.9
         return 0.75
+
+    @property
+    def texto_limpo(self) -> str:
+        """Trecho sem marcação: o negrito do markdown vira texto queimado na imagem.
+
+        "**BRAGA, A. — 1º Distrito.**" entrava inteiro no prompt e o modelo desenhava a
+        placa com o nome escrito nela, justamente o que a cláusula SEM_TEXTO proíbe.
+        """
+        return " ".join(self.texto.replace("*", "").replace("_", " ").split())
 
     @property
     def action(self) -> str:
@@ -99,20 +114,24 @@ class Scene:
             partes.append(f"setting: {local}")
         if self.personagens:
             partes.append("characters: " + "; ".join(characters.describe(c) for c in self.personagens))
-        partes.append(f"action: {self.texto[:260]}")
+        partes.append(f"action: {self.texto_limpo[:260]}")
         partes.append(STYLE)
         return ". ".join(partes)
 
-    def edit_prompt(self, anchor: Dict, local: str = "") -> str:
-        """Prompt for Kontext: keep the reference identity, change the scene around it."""
+    def edit_prompt(self, anchor: Dict, local: str = "", roupa: str = "") -> str:
+        """Prompt for Kontext: keep the reference identity, change the scene around it.
+
+        `roupa` chega resolvida quando a ficha declara fases de vestuário — o Dante do
+        capítulo 27 usa fedora, o do 104 em diante usa macacão técnico.
+        """
         partes = [
             f"Keep this exact person's face, hair and beard unchanged: {anchor['name']}",
         ]
-        roupa = characters.wardrobe(anchor)
+        roupa = roupa or characters.wardrobe(anchor)
         if roupa:
             # Cláusula própria e cedo no prompt: enterrado no descritor, o modelo troca a roupa.
             partes.append(f"he must keep wearing his signature outfit: {roupa}")
-        partes.append(f"place the same person in this scene: {self.texto[:200]}")
+        partes.append(f"place the same person in this scene: {self.texto_limpo[:200]}")
         canonico = characters.describe(anchor)
         if canonico:
             partes.append(f"canonical look that must not change: {canonico}")

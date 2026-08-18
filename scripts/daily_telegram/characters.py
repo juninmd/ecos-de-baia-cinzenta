@@ -1,3 +1,4 @@
+import re
 from pathlib import Path
 from typing import Dict, List, Optional
 
@@ -57,13 +58,26 @@ def mention_score(char: Dict, texto_lower: str) -> int:
     )
 
 
+# O descritor é a junção das linhas da ficha; a próxima chave marca onde o campo acaba.
+PROXIMA_CHAVE = re.compile(
+    r"\b(?:Cabelo|Olhos|Marcas Distintivas|Porte F[íi]sico|Rosto|Idade|Prompt Visual|"
+    r"Equipamento|Gostos/Tra[çc]os|Fun[çc][ãa]o):"
+)
+
+
 def wardrobe(char: Dict) -> str:
-    """Só o vestuário canônico — é o traço que os modelos mais trocam sozinhos."""
-    for bruto in (char.get("description") or "").split(". "):
-        parte = bruto.strip()  # os trechos vêm indentados do markdown
-        if parte.startswith("Vestuário:"):
-            return parte.split(":", 1)[1].strip().rstrip(".")
-    return ""
+    """Só o vestuário canônico — é o traço que os modelos mais trocam sozinhos.
+
+    Cortar no primeiro ponto perdia tudo depois da primeira frase: o Dante ficava com a
+    fase pré-queda e perdia o macacão atual, e a Bia perdia as botas de jardim.
+    """
+    descricao = char.get("description") or ""
+    inicio = descricao.find("Vestuário:")
+    if inicio < 0:
+        return ""
+    resto = descricao[inicio + len("Vestuário:"):]
+    fim = PROXIMA_CHAVE.search(resto)
+    return resto[:fim.start()].strip().strip(".").strip() if fim else resto.strip().strip(".").strip()
 
 
 def detect(texto: str, limit: int = 3) -> List[Dict]:

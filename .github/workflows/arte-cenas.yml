@@ -1,0 +1,82 @@
+name: Arte das cenas
+
+# Gera um lote de cenas do manifesto com a quota do Gemini e homologa cada imagem antes
+# de commitar. Só roda quando alguém aciona: quota é recurso escasso e não se gasta por
+# acidente. O push vai para a branch `arte/cenas` porque master é protegida.
+
+on:
+  workflow_dispatch:
+    inputs:
+      tamanho:
+        description: "Quantas cenas gerar nesta rodada"
+        required: false
+        default: "20"
+        type: string
+      capitulo:
+        description: "Limitar a um capítulo (vazio = fila inteira)"
+        required: false
+        type: string
+      sem_visao:
+        description: "Pular a auditoria de fidelidade (só o portão mecânico)"
+        required: false
+        default: false
+        type: boolean
+
+concurrency:
+  group: arte-cenas
+  cancel-in-progress: false
+
+jobs:
+  gerar:
+    name: Gerar e homologar lote
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar dependências
+        run: pip install requests pillow numpy google-genai
+
+      - name: Preparar a branch de arte
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # A branch pode não existir ainda: na primeira rodada ela nasce do master.
+          if git ls-remote --exit-code --heads origin arte/cenas >/dev/null; then
+            git fetch origin arte/cenas
+            git checkout -B arte/cenas origin/arte/cenas
+            git merge --no-edit "origin/${GITHUB_REF_NAME}"
+          else
+            git checkout -B arte/cenas
+          fi
+
+      - name: Reconstruir o manifesto
+        run: python scripts/build_scene_manifest.py
+
+      - name: Gerar o lote
+        env:
+          NANO_BANANA_API_KEY: ${{ secrets.NANO_BANANA_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          ARGS="--tamanho ${{ inputs.tamanho }}"
+          if [ -n "${{ inputs.capitulo }}" ]; then ARGS="$ARGS --capitulo ${{ inputs.capitulo }}"; fi
+          if [ "${{ inputs.sem_visao }}" = "true" ]; then ARGS="$ARGS --sem-visao"; fi
+          python scripts/gerar_cenas_manifesto.py $ARGS
+
+      - name: Homologar o acervo
+        run: python scripts/homologar_cenas.py --realimentar
+
+      - name: Commitar o que passou
+        run: |
+          git add docs/public/cenas docs/qualidade_imagens.md
+          git diff --cached --quiet && echo "nada novo" && exit 0
+          git commit -m "feat(cenas): lote de arte homologado pelo portão automático"
+          git push origin HEAD:arte/cenas

@@ -1,0 +1,112 @@
+"""Gera as cenas do manifesto pelo Gemini e homologa cada imagem antes de mantê-la.
+
+Este é o caminho sem operador: pega a fila, gera, mede, e o que não passa no portão é
+apagado e refeito uma vez. Imagem reprovada nunca fica no disco — cena sem arquivo volta
+para a fila sozinha na próxima rodada, que é o comportamento que se quer numa obra de
+2.350 imagens.
+
+Uso:
+    python scripts/gerar_cenas_manifesto.py --tamanho 20
+    python scripts/gerar_cenas_manifesto.py --capitulo 12 --tentativas 3
+"""
+
+import argparse
+import json
+import sys
+import time
+from pathlib import Path
+from typing import Dict, List, Optional
+
+REPO_ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(REPO_ROOT))
+
+from scripts.art_gen import fidelidade, gemini, homologacao  # noqa: E402
+from scripts.build_scene_manifest import DESTINO, carregar_regerar  # noqa: E402
+from scripts.lote_cenas import pendentes  # noqa: E402
+
+PAUSA_SEGUNDOS = 2.0
+
+
+def referencias_de(entrada: Dict) -> List[Path]:
+    """Retratos canônicos da cena, na ordem em que o prompt os nomeia."""
+    caminhos = [REPO_ROOT / p["referencia"] for p in entrada["elenco"]]
+    return [c for c in caminhos if c.exists()]
+
+
+def motivos_mecanicos(destino: Path) -> List[str]:
+    medida = homologacao.carregar(destino)
+    if medida is None:
+        return ["arquivo ilegível"]
+    reprovas, _ = homologacao.avaliar(medida)
+    return reprovas
+
+
+def gerar_uma(cliente, entrada: Dict, tentativas: int, com_visao: bool) -> Optional[List[str]]:
+    """Gera e homologa uma cena. Devolve None quando aprova, ou os motivos da desistência."""
+    destino = REPO_ROOT / entrada["saida"]
+    motivos: List[str] = ["nenhuma imagem devolvida pelo modelo"]
+    for tentativa in range(1, tentativas + 1):
+        if not gemini.gerar_imagem(cliente, entrada["prompt"], referencias_de(entrada), destino):
+            time.sleep(PAUSA_SEGUNDOS)
+            continue
+        motivos = motivos_mecanicos(destino)
+        if not motivos and com_visao:
+            motivos = fidelidade.reprovacoes(
+                fidelidade.auditar(cliente, destino, entrada["elenco"], REPO_ROOT)
+            )
+        if not motivos:
+            return None
+        # Regra 6 do AGENTS.md protege arte aprovada; refugo não é arte aprovada.
+        destino.unlink(missing_ok=True)
+        print(f"   ↻ tentativa {tentativa} reprovada: {'; '.join(motivos)}")
+        time.sleep(PAUSA_SEGUNDOS)
+    return motivos
+
+
+def executar(fila: List[Dict], tentativas: int, com_visao: bool) -> Dict[str, int]:
+    cliente = gemini.cliente()
+    if cliente is None:
+        raise SystemExit(
+            "❌ sem chave do Gemini no ambiente (NANO_BANANA_API_KEY ou GEMINI_API_KEY)."
+        )
+    placar = {"aprovadas": 0, "desistidas": 0}
+    for i, entrada in enumerate(fila, 1):
+        print(f"[{i}/{len(fila)}] capítulo {entrada['capitulo']} cena {entrada['cena']} "
+              f"→ {entrada['saida']}")
+        motivos = gerar_uma(cliente, entrada, tentativas, com_visao)
+        if motivos is None:
+            placar["aprovadas"] += 1
+            print("   ✅ homologada")
+        else:
+            placar["desistidas"] += 1
+            print(f"   ❌ desistiu: {'; '.join(motivos)}")
+    return placar
+
+
+def main() -> int:
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--tamanho", type=int, default=20, help="Cenas nesta rodada")
+    parser.add_argument("--capitulo", help="Limita a rodada a um capítulo")
+    parser.add_argument("--tentativas", type=int, default=2,
+                        help="Tentativas por cena antes de desistir")
+    parser.add_argument("--sem-visao", action="store_true",
+                        help="Só o portão mecânico, sem auditoria de fidelidade")
+    args = parser.parse_args()
+
+    if not DESTINO.exists():
+        print("❌ manifesto ausente: rode python scripts/build_scene_manifest.py")
+        return 1
+
+    manifesto = json.loads(DESTINO.read_text(encoding="utf-8"))
+    fila = pendentes(manifesto, carregar_regerar())
+    if args.capitulo:
+        fila = [c for c in fila if c["capitulo"] == args.capitulo]
+
+    placar = executar(fila[:args.tamanho], args.tentativas, not args.sem_visao)
+    print(f"🎬 {placar['aprovadas']} homologadas, {placar['desistidas']} desistidas "
+          f"| restam {len(fila) - placar['aprovadas']} na fila")
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())
