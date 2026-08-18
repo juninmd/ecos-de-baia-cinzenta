@@ -29,6 +29,8 @@ class ProvedorFalso:
 
     nome = "falso"
 
+    trava_identidade = True
+
     def __init__(self, pintor):
         self.pintor = pintor
         self.chamadas = 0
@@ -127,7 +129,8 @@ def test_sem_chave_o_cliente_nao_e_criado(monkeypatch):
 
 
 def test_pollinations_usa_kontext_com_o_retrato_da_ancora():
-    url = provedores.ProvedorPollinations(intervalo=0).url(ENTRADA)
+    # O Kontext ficou atrás do cadastro (sonda de 18/08 no CI): só com token.
+    url = provedores.ProvedorPollinations(intervalo=0, token="secreto").url(ENTRADA)
     assert url.startswith(provedores.POLLINATIONS_URL)
     assert "model=kontext" in url
     assert "seed=702" in url
@@ -140,6 +143,45 @@ def test_pollinations_cai_para_flux_quando_a_cena_nao_tem_ancora():
     sem_ancora = dict(ENTRADA, referencia=None, ancora=None, elenco=[])
     url = provedores.ProvedorPollinations(intervalo=0).url(sem_ancora)
     assert "model=flux" in url and "image=" not in url
+
+
+def test_pollinations_sem_token_nao_promete_travar_fisionomia():
+    provedor = provedores.ProvedorPollinations(intervalo=0, token=None)
+    assert provedor.trava_identidade is False
+    # Sem Kontext não adianta mandar a referência: o endpoint público devolve 500.
+    assert "model=flux" in provedor.url(ENTRADA)
+
+
+def test_cena_com_retrato_nao_desce_para_provedor_que_inventa_rosto(tmp_path):
+    class SemAncora:
+        nome = "texto_puro"
+        trava_identidade = False
+
+        def disponivel(self):
+            return True
+
+        def gerar(self, *a):
+            raise AssertionError("cena com retrato não pode cair aqui sem permissão")
+
+    cadeia = provedores.ProvedorCadeia([SemAncora()], permitir_sem_ancora=False)
+    assert cadeia.gerar(ENTRADA, [], tmp_path / "cena_1.jpg") is False
+
+
+def test_cena_sem_retrato_pode_usar_qualquer_provedor(tmp_path):
+    usado = ProvedorFalso(_boa)
+    usado.trava_identidade = False
+    ambiente = dict(ENTRADA, referencia=None, ancora=None, elenco=[])
+    assert provedores.ProvedorCadeia([usado]).gerar(
+        ambiente, [], tmp_path / "cena_1.jpg"
+    ) is True
+
+
+def test_queda_permitida_marca_a_cena_para_refazer(tmp_path):
+    usado = ProvedorFalso(_boa)
+    usado.trava_identidade = False
+    cadeia = provedores.ProvedorCadeia([usado], permitir_sem_ancora=True)
+    assert cadeia.gerar(ENTRADA, [], tmp_path / "cena_1.jpg") is True
+    assert cadeia.sem_ancora == [ENTRADA["saida"]]
 
 
 def test_prompt_curto_cabe_na_url_e_mantem_as_travas():
@@ -163,6 +205,7 @@ def test_pollinations_respeita_o_intervalo_do_tier(monkeypatch):
 def test_cadeia_pula_o_elo_indisponivel_e_usa_o_seguinte(tmp_path):
     class Indisponivel:
         nome = "morto"
+        trava_identidade = True
 
         def disponivel(self):
             return False
@@ -179,6 +222,7 @@ def test_cadeia_pula_o_elo_indisponivel_e_usa_o_seguinte(tmp_path):
 def test_cadeia_cai_para_o_proximo_quando_o_elo_falha(tmp_path):
     class Falha:
         nome = "falha"
+        trava_identidade = True
 
         def disponivel(self):
             return True
@@ -198,3 +242,11 @@ def test_escolher_sem_chave_ainda_devolve_provedor(monkeypatch):
     # Sem chave a cadeia continua de pé: o Pollinations não exige cadastro.
     assert provedores.escolher("auto").disponivel()
     assert provedores.escolher("pollinations").nome == "pollinations"
+
+
+def test_provedor_pedido_sem_credencial_falha_com_mensagem(monkeypatch):
+    import pytest
+
+    monkeypatch.setattr(provedores.gemini, "cliente", lambda: None)
+    with pytest.raises(SystemExit, match="indisponível"):
+        provedores.escolher("gemini")

@@ -67,8 +67,8 @@ def gerar_uma(provedor, entrada: Dict, tentativas: int, com_visao: bool) -> Opti
 
 
 def executar(fila: List[Dict], tentativas: int, com_visao: bool,
-             provedor_nome: str = "auto") -> Dict[str, int]:
-    provedor = provedores.escolher(provedor_nome)
+             provedor_nome: str = "auto", sem_ancora: bool = False) -> Dict[str, int]:
+    provedor = provedores.escolher(provedor_nome, sem_ancora)
     print(f"🎨 provedor: {provedor.nome}")
     placar = {"aprovadas": 0, "desistidas": 0}
     for i, entrada in enumerate(fila, 1):
@@ -81,7 +81,28 @@ def executar(fila: List[Dict], tentativas: int, com_visao: bool,
         else:
             placar["desistidas"] += 1
             print(f"   ❌ desistiu: {'; '.join(motivos)}")
+    placar["sem_ancora"] = list(getattr(provedor, "sem_ancora", []))
     return placar
+
+
+def registrar_sem_ancora(saidas: List[str]) -> int:
+    """Cena que saiu por provedor sem Kontext entra na fila de refazer (regra 7).
+
+    A imagem fica no lugar — melhor um plano canônico de ambiente que buraco —, mas ela
+    não pode ser tratada como definitiva: o rosto ali não veio do retrato.
+    """
+    if not saidas:
+        return 0
+    lista = REPO_ROOT / "docs" / "public" / "cenas" / "regerar.txt"
+    atuais = set()
+    if lista.exists():
+        atuais = {l.strip() for l in lista.read_text(encoding="utf-8").splitlines()
+                  if l.strip() and not l.startswith("#")}
+    novas = set(saidas) - atuais
+    if novas:
+        with lista.open("a", encoding="utf-8") as arquivo:
+            arquivo.write("\n".join(sorted(novas)) + "\n")
+    return len(novas)
 
 
 def main() -> int:
@@ -92,6 +113,9 @@ def main() -> int:
                         help="Tentativas por cena antes de desistir")
     parser.add_argument("--sem-visao", action="store_true",
                         help="Só o portão mecânico, sem auditoria de fidelidade")
+    parser.add_argument("--sem-ancora", action="store_true",
+                        help="Aceita provedor que não trava fisionomia e marca a cena "
+                             "para refazer (regra 7 do AGENTS.md)")
     parser.add_argument("--provedor", default="auto",
                         choices=["auto", "gemini", "pollinations"],
                         help="auto usa o Gemini se houver chave, senão o Pollinations")
@@ -107,9 +131,12 @@ def main() -> int:
         fila = [c for c in fila if c["capitulo"] == args.capitulo]
 
     placar = executar(fila[:args.tamanho], args.tentativas, not args.sem_visao,
-                      args.provedor)
+                      args.provedor, args.sem_ancora)
+    marcadas = registrar_sem_ancora(placar.pop("sem_ancora", []))
     print(f"🎬 {placar['aprovadas']} homologadas, {placar['desistidas']} desistidas "
           f"| restam {len(fila) - placar['aprovadas']} na fila")
+    if marcadas:
+        print(f"♻️  {marcadas} cenas saíram sem âncora e voltaram para regerar.txt")
     return 0
 
 

@@ -67,7 +67,7 @@ jobs:
       - name: Gerar duas cenas
         env:
           CENAS_REF_BASE_URL: https://raw.githubusercontent.com/${{ github.repository }}/${{ github.event.pull_request.head.sha }}/
-        run: python -u scripts/gerar_cenas_manifesto.py --tamanho 2 --provedor pollinations --sem-visao
+        run: python -u scripts/gerar_cenas_manifesto.py --tamanho 2 --provedor pollinations --sem-visao --sem-ancora
       - name: Separar o que a fumaça produziu
         if: always()
         run: |
@@ -135,7 +135,7 @@ jobs:
           # Com cadastro grátis no tier Seed o intervalo cai de 15 s para 5 s.
           POLLINATIONS_INTERVALO: ${{ secrets.POLLINATIONS_TOKEN && '5' || '15' }}
         run: |
-          ARGS="--tamanho ${{ inputs.tamanho || '200' }} --provedor ${{ inputs.provedor || 'auto' }}"
+          ARGS="--tamanho ${{ inputs.tamanho || '200' }} --provedor ${{ inputs.provedor || 'auto' }} --sem-ancora"
           if [ -n "${{ inputs.capitulo }}" ]; then ARGS="$ARGS --capitulo ${{ inputs.capitulo }}"; fi
           python -u scripts/gerar_cenas_manifesto.py $ARGS
 

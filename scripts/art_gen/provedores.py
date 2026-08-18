@@ -23,6 +23,7 @@ class ProvedorGemini:
     """Melhor fidelidade: manda o prompt inteiro e o retrato de todo o elenco da cena."""
 
     nome = "gemini"
+    trava_identidade = True
 
     def __init__(self):
         self.cliente = gemini.cliente()
@@ -39,21 +40,39 @@ class ProvedorCadeia:
 
     A cota do ZeroGPU acaba no meio da fila, não no começo: sem a cadeia, a rodada
     inteira morria junto com ela em vez de terminar pelo Pollinations.
+
+    Cena com retrato canônico só desce para provedor que não trava fisionomia quando
+    `permitir_sem_ancora` está ligado — e aí a cena sai **marcada para refazer**, porque
+    aceitar rosto inventado em silêncio é exatamente o que a Regra Zero proíbe.
     """
 
     nome = "cadeia"
+    trava_identidade = True
 
-    def __init__(self, elos: List):
+    def __init__(self, elos: List, permitir_sem_ancora: bool = False):
         self.elos = elos
+        self.permitir_sem_ancora = permitir_sem_ancora
+        self.sem_ancora: List[str] = []
 
     def disponivel(self) -> bool:
         return any(elo.disponivel() for elo in self.elos)
 
+    def _elos_para(self, entrada: Dict) -> List:
+        """Ordem de tentativa: quem trava fisionomia primeiro, o resto só se permitido."""
+        travam = [e for e in self.elos if e.trava_identidade]
+        if not entrada.get("referencia"):
+            return self.elos  # plano de ambiente: qualquer provedor serve
+        return travam + ([e for e in self.elos if not e.trava_identidade]
+                         if self.permitir_sem_ancora else [])
+
     def gerar(self, entrada: Dict, referencias: List[Path], destino: Path) -> bool:
-        for elo in self.elos:
+        for elo in self._elos_para(entrada):
             if not elo.disponivel():
                 continue
             if elo.gerar(entrada, referencias, destino):
+                if entrada.get("referencia") and not elo.trava_identidade:
+                    print(f"   ⚠️ {elo.nome} não trava fisionomia: cena marcada para refazer")
+                    self.sem_ancora.append(entrada["saida"])
                 return True
             print(f"   ↘ {elo.nome} não entregou; tentando o próximo provedor")
         return False
@@ -85,11 +104,16 @@ CATALOGO = {
 }
 
 
-def escolher(nome: str = "auto"):
+def escolher(nome: str = "auto", permitir_sem_ancora: bool = False):
     """Provedor pedido, ou a cadeia inteira na ordem de fidelidade."""
     if nome in CATALOGO:
-        return CATALOGO[nome]()
-    cadeia = ProvedorCadeia([classe() for classe in CATALOGO.values()])
+        provedor = CATALOGO[nome]()
+        if not provedor.disponivel():
+            # Pedir um provedor sem credencial estourava com AttributeError lá dentro.
+            raise SystemExit(f"❌ provedor '{nome}' indisponível neste ambiente")
+        return provedor
+    cadeia = ProvedorCadeia([classe() for classe in CATALOGO.values()],
+                            permitir_sem_ancora)
     if not cadeia.disponivel():
         raise SystemExit("❌ nenhum provedor de imagem disponível")
     return cadeia

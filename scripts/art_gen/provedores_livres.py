@@ -34,6 +34,7 @@ class ProvedorKontextSpace:
     """
 
     nome = "kontext_space"
+    trava_identidade = True
 
     def disponivel(self) -> bool:
         from scripts.daily_telegram import hf_space
@@ -60,7 +61,14 @@ class ProvedorKontextSpace:
 
 
 class ProvedorPollinations:
-    """Kontext sem chave e sem cadastro: o piso da cadeia, sempre disponível."""
+    """O piso da cadeia: sempre disponível, mas só trava fisionomia com token.
+
+    A sonda de 18/08 no CI mostrou que o endpoint público perdeu o image-to-image:
+    `model=kontext` responde 500 com "kontext model is only available on
+    enter.pollinations.ai". Sem token sobra `flux`/`turbo`, que são texto-para-imagem —
+    servem para plano de ambiente, e para cena com personagem só como último nível da
+    regra 7, com a cena marcada para refazer.
+    """
 
     nome = "pollinations"
 
@@ -68,6 +76,11 @@ class ProvedorPollinations:
         self.intervalo = intervalo
         self.token = token or os.environ.get("POLLINATIONS_TOKEN")
         self._ultimo = 0.0
+
+    @property
+    def trava_identidade(self) -> bool:
+        # O Kontext ficou atrás do cadastro: sem token, não há como travar o rosto.
+        return bool(self.token)
 
     def disponivel(self) -> bool:
         return True
@@ -89,7 +102,7 @@ class ProvedorPollinations:
             "nologo": "true",
             "referrer": "ecos-de-baia-cinzenta",
         }
-        if entrada.get("referencia"):
+        if entrada.get("referencia") and self.trava_identidade:
             parametros["model"] = "kontext"
             parametros["image"] = BASE_RETRATOS + entrada["referencia"]
         else:
