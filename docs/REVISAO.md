@@ -3688,3 +3688,53 @@ alguém. É o pagamento completo da mutilação do cap. 155.
   ocorrência nova enfraquece a anterior.
 - 🔵 **"A Grande Obra"** e o terminal purgado. Registrar: o Taxidermista perdeu a rede deste
   quadrante, mas continua vivo e acima deles. O confronto final tem que ser físico.
+
+## Capítulo 161 — Estática e Cinzas
+
+**Capítulo de rescaldo bem escrito, e o melhor uso da Aria como termômetro.** "O colapso do seu
+sistema não foi evitado, apenas postergado" é o tipo de frase que só ela pode dizer, e a imagem dela
+como "estátua fria de metal polido no meio de um cemitério de cinzas" fecha a transformação
+iniciada no cap. 134.
+
+- 🟢 **"Era um vácuo auditivo."** e **"a onda iônica não produziu som, apenas aniquilou tudo o que
+  dependia daquele som."**
+- 🟢 **"O colapso do seu sistema não foi evitado, apenas postergado."**
+- 🟢 **"Você tem um jeito péssimo de dar consolo, lata velha."**
+- 🟢 **A espuma coagulante aplicada sem pedir permissão**, e o sangue substituído por "um calombo
+  cinza e duro de produtos químicos". A medicina deste arco continua sendo de oficina, e é bom.
+- 🟢 **"A arquitetura mestre dele opera por camadas." / "Então ele continua ouvindo."**
+- 🟢 **"As cinzas rangiam sob suas botas como vidro quebrado."**
+- 🟡 **Frontmatter duplicado** (YAML + `## Metadados`), como nos caps. 156–160.
+- 🟡 **"Trinta e sete minutos" de locomoção** — sexto relógio do arco (155: 27 min; 158: 4 horas;
+  agora 37 min), e nenhum deles é contado na página depois de anunciado.
+- 🟡 **Décima sexta ocorrência do ritual da dor**, duas vezes no capítulo.
+
+## Capítulo 162 — Engrenagens Cegas
+
+**O melhor capítulo do bloco, e a primeira vez que a mutilação vira *vantagem*.** "Eu não tenho
+mãos, o que significa que meus ombros não precisam de tanta folga" é a melhor consequência que uma
+deficiência pode ter numa narrativa: ela não é superada nem compensada — **é usada**.
+
+- 🟢 **"Como uma lápide de aço escovado."** e **"aquela barreira física não se importava com
+  eletricidade ou fantasmas no código."** A porta mecânica como resposta ao vilão digital.
+- 🟢 **"Eu não tenho mãos. O que significa que meus ombros não precisam de tanta folga."** Melhor
+  linha do bloco, e a melhor solução de personagem do arco inteiro.
+- 🟢 **"Você está literalmente colado com espuma e pura teimosia."**
+- 🟢 **"Ele rastejou como um verme no escuro."** e a ferrugem caindo nos olhos e na boca.
+- 🟢 **O sentinela enraizado *na própria alavanca*.** O obstáculo é o objetivo — desenho de cena
+  limpo, sem gordura.
+- 🟢 **"Ele não possuía mãos para desarmar. Ele não possuía armas para atirar."** seguido do cotoco
+  usado **como martelo**. É grotesco, é coerente, e custa caro.
+- 🟢 **"Um abismo escuro onde apenas o som do seu próprio batimento cardíaco existia."**
+- 🟢 **"As engrenagens cegas ainda giravam, alheias ao sangue e à agonia de um detetive que se
+  recusava a morrer no escuro."** Melhor última linha do bloco.
+- 🔴 **DÉCIMA versão da alucinação:** *"o odor azedo de cinzeiros transbordando **da antiga sala do
+  Comissário Dante**"*. Três capítulos, três donos do cigarro: o pai do Gabo (158), **o pai da Bia**
+  (159), e agora **o gabinete do Dante** (162). Some-se ao "interrogatório claustrofóbico do velho
+  DPBC" no mesmo capítulo — **quatro origens em cinco páginas.**
+  **Esta é a contradição mais persistente do livro e a mais fácil de resolver:** escolher um dono,
+  reescrever oito ou nove frases, e manter a formulação do cap. 131 (*"o teu pai ainda fuma dentro
+  da tua cabeça, e ele nem fumava"*).
+- 🟡 **"Braços amputados"** (l. 20) e **"cotoco queimado"** (l. 53) no mesmo capítulo. A dúvida
+  mãos-destruídas × braços-amputados persiste desde o cap. 158.
+- 🟡 **Frontmatter duplicado.**
