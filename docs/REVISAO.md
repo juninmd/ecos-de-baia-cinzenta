@@ -5239,3 +5239,64 @@ problema de temperatura que precisa ser resolvido.
   se não, padronizar.
 - 🔵 **"Arrume suas armas, Elias"** — o garoto nunca teve arma nenhuma; no 193 ele tinha uma chave de
   fenda. Se ele foi armado em algum ponto, **falta a cena**.
+
+## Capítulo 212 — O Batismo de Sangue Congelado
+
+**Capítulo de ação limpo, e a melhor fala da Valéria em muitos capítulos** vem de um pedido de
+tradução — o que é também a melhor piada estrutural do arco: o protagonista precisa de legenda para
+a própria parceira.
+
+- 🟢 **"Em português, Valéria." / "Se você bater neles, eles vão tentar comer sua arma antes de
+  congelarem novamente."** **Melhor troca do bloco.** A Val traduzindo para si mesma é uma
+  caracterização que o Modo de Segurança ainda não tinha explorado. **Repetir esse recurso.**
+- 🟢 **"Um abatedouro congelado."**
+- 🟢 **"Uma amálgama profana de raízes botânicas mortas e metal esfarelado."**
+- 🟢 **"Nós somos o barulho."** Resposta direta a *"vamos fazer barulho"* (211) e a melhor linha do
+  protagonista no bloco.
+- 🟢 **"Agarrando o cano da pistola improvisada como se fosse um amuleto religioso."**
+- 🟢 **A necrose térmica tornando os tentáculos lentos.** A guerra entre as pragas vira **vantagem
+  tática** — terceiro uso produtivo da ideia do 208. Excelente economia.
+- 🟢 **"Desceu como uma marreta impiedosa."**
+- 🟡 **70ª ocorrência.** Vigésimo oitavo capítulo. Aqui a âncora é a órtese da perna forçada — mas o
+  mesmo gesto já apareceu no 191, 197, 200 e 209.
+- 🟡 **"A órtese do meu braço amputado"** — órtese assiste um membro existente; o que ele tem é
+  **prótese**. O texto alterna os dois termos sem critério desde o 179. **Padronizar: prótese no
+  braço, órtese nas pernas.**
+- 🔵 **A pistola improvisada do Elias** aparece pela primeira vez, sem cena de origem (ver a nota do
+  211). Duas linhas no 209 resolveriam.
+
+## Capítulo 213 — O Peso da Maquinaria
+
+**O capítulo em que a Aria volta — e é o momento mais importante do bloco.** Uma única frase de
+memória (*"Pare de se machucar para lembrar de viver"*) faz três coisas ao mesmo tempo: reconecta o
+arco final ao coração do livro, nomeia o vício e mostra que ele **escolhe** ignorá-la. Depois de
+setenta ocorrências do ritual, é a primeira vez que existe uma **voz contrária dentro dele**.
+
+- 🟢 **"Pare de se machucar para lembrar de viver."** **A melhor linha do terceiro livro.** É a tese
+  moral que faltava, ela vem da personagem certa, e o texto tem a coragem de fazê-lo recusá-la.
+  **Plantar ecos disto nos caps. 195, 199 e 204** — o arco inteiro melhora com essa voz presente.
+- 🟢 **"Um luxo que eu não podia me dar ali."** A justificativa dele, e ela é patética no bom
+  sentido: o leitor vê que é mentira.
+- 🟢 **"Rastejar através da garganta de uma criatura congelada."**
+- 🟢 **"Uma abóbada projetada para resistir a ataques terroristas diretos antes da queda
+  corporativa."** O prédio conta a história política em uma linha.
+- 🟢 **"Exibia cicatrizes pálidas de tentativa de corrosão pelo Jardim, sem sucesso."** — e o que
+  venceu a porta foi **o mezanino desabando**. A infraestrutura mata a infraestrutura: coerente com
+  todo o subsolo.
+- 🟢 **"Mandei um comando neural bruto para o toco amputado, ignorando os bloqueios de segurança do
+  sistema nervoso."** A automutilação vira **técnica de operação**. É a evolução correta do motivo.
+- 🟢 **"Músculo contra aço. Carne contra titânio congelado."**
+- 🟢 **"Um ar purificado e estranhamente quente que não sentíamos há séculos."**
+- 🟢 **"Procedimento estatisticamente impraticável, mas bem-sucedido."** A Val admitindo derrota
+  matemática sem uma gota de emoção. Ótimo fecho.
+- 🔴 **"Olhei para o meu braço DIREITO biônico"** aqui, contra **"o ombro ESQUERDO era uma massa
+  latejante"** no 211, e o ombro humano ferido é o **direito** neste mesmo capítulo. **A folha de
+  personagem é agora o item mais urgente da revisão do terceiro livro.**
+- 🟡 **71ª ocorrência** — e é a única do capítulo, motivada e com contraponto (a fala da Aria). **É
+  o modelo de como manter o recurso.**
+- 🟡 **"Seis mil libras por polegada quadrada"** — unidade imperial isolada num livro que usa metros,
+  graus Celsius e Newton-metros. Converter.
+- 🟡 **"Três vírgula dois por cento"** de chance, e ele consegue. Sétima vez no arco que a
+  probabilidade da Val é desmentida. Ver a nota do 188.
+- 🔵 **"A febre da infecção subia"** — primeira menção de infecção, e o 195 previa **sepse**. Se a
+  infecção é real, ela precisa de consequência nos capítulos finais; se não, cortar.
