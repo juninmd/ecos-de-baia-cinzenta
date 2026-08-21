@@ -4153,3 +4153,100 @@ dizer, o que ele virou: sem reflexo, sem técnica, sem elegância — **só peso
   ou o narrador precisa se recusar a registrar de forma visível.** Do jeito que está, parece
   esquecimento, não escolha.
 - 🟡 **24ª ocorrência do ritual**, duas vezes no capítulo.
+
+## Capítulo 178 — O Som do Subterrâneo
+
+**Capítulo excepcional, e o melhor do arco final.** Prosa em outro nível que os vizinhos: frases
+curtas, dados verificáveis (um pingo a cada dois segundos e meio, uma cratera de dez centímetros,
+trezentos milissegundos, onze quilos de metal), e a melhor caracterização da perda — não do braço,
+mas **da Val**.
+
+- 🟢 **"Perder o passo com essa perna é uma conta que não tem troco."**
+- 🟢 **"O Modo de Segurança é um caixão mental."**
+- 🟢 **"A Val de verdade se distraía, xingava equipamento, parava no meio de uma operação para me
+  contar uma coisa idiota que ela tinha lido. Essa não parava para nada."** A ausência descrita pelo
+  que **não acontece mais**. Melhor página do arco final.
+- 🟢 **"Um relatório de danos lido em voz alta por um sistema que aprendeu a formatar a frase de um
+  jeito que parece cuidado e não é."**
+- 🟢 **"Você lembra do café?" / "Consulta ambígua. Especifique: bebida, item de inventário ou
+  registro de evento."** — e os **trezentos milissegundos de esperança**. É a cena mais cruel do
+  livro, e colhe o pedido da Val no cap. 95 ("garante que tenha café bom") a **oitenta e três
+  capítulos de distância**. Melhor colheita de longo prazo da obra.
+- 🟢 **"Existe uma versão dessa história em que eu conserto a prótese... Essa versão exige uma cidade
+  com hospital, um médico com anestésico e uma parceira que me segure pelo pulso. Eu não tenho
+  nenhuma das três."** A justificativa do vício, finalmente completa e não sentimental.
+- 🟢 **"E eu me recuso a consertar isso."** Ele **admite** que a prótese ruim é escolha.
+- 🟢 **A LISTA REAPARECE:** *"na linha seguinte, num pendente que eu escrevi com a mão tremendo,
+  ainda está o nome dela."* Colhe o cap. 95 (*"Valéria Cruz — pendente"*) e o 169.
+- 🟢 **"Contando catracas quebradas pela terceira vez, sem lembrar que já contou."** Melhor última
+  linha do arco final.
+- 🔵 **"Eu não fumo. Eu nunca fumei. Eu odeio cigarro desde os nove anos."** — ver a atualização da
+  seção sobre o Dante abaixo. **Esta é a formulação que deve prevalecer.**
+
+## Capítulo 179 — Ecos de Aço e Ferrugem
+
+**Bom capítulo de travessia, e o melhor retorno do Jardim.** O fungo digerindo lentamente um drone
+de patrulha é a imagem certa para dizer que o arco 78–97 nunca terminou de verdade.
+
+- 🟢 **"A dor é um metrônomo."**
+- 🟢 **"Eu podia ouvi-lo tossir — aquela tosse úmida que precedia uma lição sobre poder e
+  decepção."** A alucinação ganha **som**, não só cheiro. Boa escalada.
+- 🟢 **"Ela não oferece a mão para ajudá-lo a levantar."** A perda dita por omissão.
+- 🟢 **"Um intestino de concreto e cabos expostos."** e as **pichações sobrepostas, "mensagens de
+  desespero de gerações esquecidas"**.
+- 🟢 **O Jardim assimilando o chassi de um drone.** Amarra com os caps. 86 e 141 sem uma linha de
+  exposição, e devolve ameaça ao mundo de superfície.
+- 🟢 **"Fazer fogo aqui embaixo só vai atrair coisas que não queremos encontrar."** Boa recusa da
+  solução óbvia.
+- 🟢 **"Como se o túnel estivesse respirando."** e **"duas engrenagens quebradas rolando pelo
+  abismo."**
+- 🟡 **26ª e 27ª ocorrências do ritual** (uma em cada capítulo). Depois do cap. 177 ("e eu a amava")
+  e do 178 (a justificativa completa), **o recurso está encerrado tematicamente** — daqui para
+  frente cada repetição é só ruído.
+- 🟡 **"O hálito putrefato do meu pai, Dante"** — a alucinação segue crescendo em detalhe a cada
+  capítulo. Isso é bom **se** for deliberado (a memória se enriquecendo à medida que ele piora);
+  precisa de uma linha que confirme.
+
+---
+
+## ✅ ATUALIZAÇÃO: a contradição do cigarro tem solução, e ela é pequena
+
+Revisando os caps. 173 a 179, a questão que eu tratei como impasse ao longo de toda esta revisão
+**tem uma saída limpa**, e ela custa **duas frases**.
+
+### O que o livro majoritariamente afirma
+
+A partir do cap. 100 e de forma dominante do 158 em diante (mais de vinte capítulos), a posição é
+consistente e o cap. **178** a enuncia sem margem:
+
+> *"**Eu não fumo. Eu nunca fumei. Eu odeio cigarro desde os nove anos.** Mas o maldito fantasma do
+> Dante insiste em me transformar no cinzeiro da memória dele."*
+
+Some-se ao cap. 173, que dá a cena concreta (o escritório da corregedoria, ele com doze anos), e ao
+75.5, que já dava ao Dante *"a voz rouca de anos fumando charutos cubanos contrabandeados"*.
+
+**A versão canônica, portanto, é: o Dante fumava. O Gabo nunca fumou.** Isso é coerente com tudo o
+que o arco final constrói e com a alucinação como herança e não como desejo.
+
+### O que precisa ser corrigido — e é só isto
+
+1. **Cap. 131:** *"o teu pai ainda fuma dentro da tua cabeça, **e ele nem fumava**"*.
+   → Trocar por algo como *"e ele está morto há anos"*. A frase seguinte — **"a saudade não tem
+   cheiro nenhum"** — continua funcionando perfeitamente.
+2. **Cap. 169:** *"ou **cheiro de um homem que nunca fumou**"*.
+   → Trocar por *"ou cheiro de um homem que já virou cinza"*.
+3. **Cap. 73 (o Zippo):** *"carregou por trinta anos **sem nunca ter fumado um cigarro na vida**"*.
+   → Esta é a mais delicada, porque é a melhor cena do livro. **Mas ela sobrevive com um ajuste
+   mínimo:** o valor do isqueiro nunca foi a abstinência — era *"um homem devia ter no bolso alguma
+   coisa que funcionasse sem bateria"*. Trocar a oração por *"que ele nunca emprestou a ninguém"* ou
+   simplesmente cortá-la mantém a força inteira da cena e resolve a colisão.
+
+### Por que isso importa
+
+Eu vinha registrando isto como "a contradição mais persistente do livro", com dezessete capítulos
+envolvidos. **Não é preciso reescrever dezessete capítulos.** A posição majoritária já está correta
+e bem escrita; são **três frases isoladas** que a contradizem, e as três podem ser ajustadas sem
+perder nada — inclusive a melhor cena da obra.
+
+**Mantém-se em aberto apenas um ponto:** o cap. 159 atribui o cigarro ao **pai da Bia**. Essa é a
+única ocorrência, e o mais simples é trocar "o pai de Bia" por "o meu pai".
