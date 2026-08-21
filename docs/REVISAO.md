@@ -3386,3 +3386,65 @@ imaginária), e cortar as outras quatro.
   contagem e mantê-la visível.**
 - 🟡 **O arco parou de avançar há seis capítulos.** Entre o 141 e o 147 o grupo sobe um poço e abre
   duas portas. Compactar 142–147 em dois capítulos resolveria o problema de ritmo do último terço.
+
+## Capítulo 148 — Tensão e Ferrugem
+
+**Boa cena de cooperação forçada, e o melhor uso da Aria desde o cap. 143.** Ela obedece ao comando
+utilitário sem hesitar ("cala a boca e puxa a porta") porque abrir a porta é logicamente
+justificável — e isso é muito mais interessante do que se ela tivesse ajudado por afeto.
+
+- 🟢 **"Com a mesma indiferença que dedicaria a um circuito queimado."**
+- 🟢 **"Eles venceram porque trataram a gente como número. Exatamente como você tá fazendo."** A
+  melhor acusação que o protagonista faz à aliada, e ela liga o arco novo ao cap. 64.
+- 🟢 **"Eu não estou calculando mal. Eu estou lhe dizendo o resultado da sua equação."**
+- 🟢 **"Essa poeira é como respirar vidro moído."**
+- 🟢 **"Como uma lufada de exaustão mecânica de décadas de abandono."**
+- 🔴 **SEM FRONTMATTER.**
+- 🟡 **Quinta ocorrência da discussão sobre descartar o Rangel** (ver a análise nos caps. 146–147).
+
+## Capítulo 149 — Filtros de Sangue
+
+**Boa locação, mal aproveitada.** O Setor de Purga — "o intestino mecânico de Baía Cinzenta", onde a
+Aeterna diluía matéria orgânica antes de despejá-la no porto — é a melhor ideia do bloco, e amarra
+com o Berçário (cap. 100) e com a Necrópole de 1920 (cap. 131). Mas o capítulo inteiro é
+deslocamento.
+
+- 🟢 **"O intestino mecânico de Baía Cinzenta."**
+- 🟢 **"É o lixo do lixo."**
+- 🟢 **"Assinalando o protocolo de resgate como prioritário e classificado sob 'Irracionalidade
+  Humana'."** A melhor concessão da Aria em todo o arco: ela obedece **e cataloga a obediência como
+  defeito**.
+- 🟢 **"Como um estômago faminto à espera da próxima refeição."**
+- 🔴 **SEM FRONTMATTER** (e é o primeiro do bloco sem sequer o campo "Resumo" — o formato dos
+  metadados também é inconsistente entre si).
+- 🟡 **Sexta ocorrência da mesma discussão.**
+- 🟡 **"Trinta minutos" para a parada cardíaca** — quinto prazo dado ao Rangel. Este, ao menos, é
+  cumprido no capítulo seguinte.
+
+## Capítulo 150 — Peso Morto
+
+**O melhor capítulo do bloco 145–150, e a morte que o arco vinha prometendo há vinte capítulos.**
+A ironia é cruel e perfeitamente construída: o Rangel morre **exatamente enquanto era salvo** — o
+esforço que quase mata os dois é gasto por um homem que já tinha parado de respirar, e ninguém
+percebe até o silêncio.
+
+- 🟢 **"Como os ossos de um gigante doente."** e **"uma roleta russa jogada sobre um mar de ácido."**
+- 🟢 **"A ausência de tensão muscular tornava cada movimento um peso morto gravitacional."**
+- 🟢 **"Ela não estava correndo; estava otimizando vetores de deslocamento."**
+- 🟢 **"Ele já está morto, Detetive Moretti. Solte-o." / "Eu não solto ninguém!"** — e a máquina
+  estava **certa**. O livro tem a coragem de dar razão à lógica que o protagonista recusou.
+- 🟢 **"Foi quando ele percebeu o silêncio."** A morte acontece fora de cena, no meio de um esforço
+  heroico, e é descoberta por ausência de ruído. Melhor decisão do capítulo.
+- 🟢 **"Ela não disse nada. O silêncio pesado dela era a confirmação."**
+- 🟢 **"O peso agora é, literalmente, morto. Podemos prosseguir com a otimização de rota,
+  Detetive?"** A frase mais fria do livro inteiro.
+- 🟢 **"O Setor de Purga não oferecia lápides, apenas tanques vazios e esquecimento."**
+- 🔴 **SEM FRONTMATTER.**
+- 🔴 **A promessa do cap. 93 fica em aberto.** Lá, o Gabo manda o Vilar escrever os duzentos e
+  catorze nomes e promete lê-los em voz alta; no cap. 94 ele diz "eu vou ler todos, um por um,
+  quando isso acabar". **O Rangel morre sem entrar em lista nenhuma, e sem que o caderno seja
+  mencionado.** É a colheita óbvia deste capítulo e ela não acontece. Adicionar duas linhas: o
+  caderno, o nome, e "Marta" (cap. 131).
+- 🟡 **"A gente enterra os nossos"** e, na frase seguinte, o narrador informa que ele não vai
+  enterrar. O contraste é bom, mas o corpo é simplesmente abandonado sem uma decisão na página.
+- 🟡 **Sétima ocorrência do ritual da dor** em nove capítulos.
