@@ -4345,9 +4345,11 @@ protagonista **escolhendo não matar** — o que reequilibra a queda moral dos c
   economia de munição como desculpa para a misericórdia que ele não admite sentir. Ótimo.
 - 🟢 **"Pela primeira vez no dia, não cheirava a fumaça."** Fechamento que amarra o motivo condutor
   ao ato moral sem explicar nada.
-- 🔴 **"O impacto quebrou meus ossos até a clavícula"** e ele **caminha e luta normalmente nos
-  capítulos seguintes**. Clavícula e braço quebrados são incapacitantes. Ou é hipérbole — e então a
-  frase precisa dizer isso ("senti como se") — ou é lesão, e o 184 tem de carregá-la.
+- 🟢 **"O impacto quebrou meus ossos até a clavícula"** — e os caps. 184 (*"o coágulo na minha
+  clavícula repuxou"*) e 185 (*"minha clavícula protestou"*) **carregam a lesão**. O livro cobra o
+  preço que anuncia; é o oposto do que costuma acontecer em ficção de ação.
+- 🟡 Ainda assim, uma clavícula quebrada impede o braço direito de operar com o torque que os caps.
+  184 e 185 exigem. **Ou "quebrou" vira "trincou", ou a extração do 184 precisa custar mais.**
 - 🟡 **"Perna protética"** (cap. 182) / **"o peso da perna de metal"** (aqui) vs. **exoesqueleto de
   pernas** (caps. 98, 158) vs. **braço protético**. O inventário corporal do protagonista está
   instável no arco final. **Fazer uma folha de personagem:** o que exatamente é metal nele em 183?
@@ -4355,3 +4357,64 @@ protagonista **escolhendo não matar** — o que reequilibra a queda moral dos c
   temático do último ato, precisa ser estabelecido antes com peso; se não é, cortar.
 - 🔵 **Três saqueadores vivos na superfície** com combustível e veículo, num Distrito 4 "morto". De
   onde vem o diesel? Uma linha resolve.
+
+## Capítulo 184 — O Relógio de Sangue
+
+**O melhor capítulo de *worldbuilding* do arco final.** O corpo com o cilindro no peito não é só uma
+imagem forte — é **informação estrutural**: o Jardim mudou de arquitetura. Isso reabre a ameaça sem
+ressuscitar nada, que era o risco óbvio depois do colapso da Aeterna.
+
+- 🟢 **"Nevoeiro denso e com cheiro de cobre molhado."** / **"Guindastes curvados como esqueletos de
+  bestas pré-históricas."**
+- 🟢 **"Em vez de a planta parasitar a máquina, aqui era a máquina forçando uma simbiose com o
+  cadáver."** Uma frase inverte a regra estabelecida do Jardim e justifica todo o arco seguinte.
+- 🟢 **"Em vez de uma mente-colmeia centralizada, uma estrutura descentralizada usando nós
+  sacrificiais."** A escalada correta: matar o centro (arco da Aeterna) **não funciona mais**. O
+  livro respondeu à própria vitória anterior em vez de fingir que ela não aconteceu.
+- 🟢 **"Eles estão chamando a colheita de volta."** Melhor fala do capítulo.
+- 🟢 **"Guiados pelo mapa de um cadáver e ancorados na minha dor excruciante."**
+- 🟢 **"O Modo de Segurança havia extirpado até mesmo o sarcasmo calculista que eu costumava
+  odiar."** A saudade do defeito — a melhor formulação da perda da Val em muitos capítulos.
+- 🟢 **A extração pedida por eficiência, não por crueldade.** *"A antiga Valéria teria dito o mesmo,
+  mas com um tom de escárnio pela minha fraqueza orgânica."* O livro distingue as duas Vals com
+  precisão cirúrgica, e é a mesma ordem nas duas bocas.
+- 🟢 **A clavícula do cap. 183 é carregada** (*"o coágulo na minha clavícula repuxou"*). Continuidade
+  física real.
+- 🟡 **31ª ocorrência do ritual da dor**, quinta em seis capítulos. Aqui ela nem é o eixo da cena —
+  é um parágrafo de manutenção no meio de um capítulo sobre outra coisa. **Este é o tipo de
+  ocorrência a cortar primeiro:** não escala nada, só cumpre cota.
+- 🟡 **"14% de risco de contaminação de firmware"** é levantado, a alternativa física é escolhida —
+  e o núcleo é **conectado ao pulso da Val mesmo assim**, três parágrafos depois. O risco que
+  motivou a extração não some por ela ter sido física. **Ou o cabo elimina o risco (dizer isso), ou
+  a Val corre o risco e o 185 tem de olhar para isso.**
+- 🔵 **"Setor 7"** — nova geografia introduzida na última dezena de capítulos. Ver se o mapa da obra
+  a comporta ou se é nome ad hoc.
+
+## Capítulo 185 — O Verdor Metálico
+
+**Boa abertura de ato: o Jardim prosperando é mais assustador que o Jardim atacando.** O complexo
+hidropônico como *"pulmão doente"* dá ao último arco um alvo físico claro, que faltava desde o 179.
+
+- 🟢 **"Um rangido que soou como a espinha dorsal de um deus enferrujado se partindo."**
+- 🟢 **"As calhas destinadas a alimentar a elite de Baía Cinzenta com morangos geneticamente
+  modificados."** Uma linha de detalhe econômico que faz o horror doer mais: o luxo virou fazenda de
+  cadáveres. **É o melhor tipo de worldbuilding do livro** — reaproveitar infraestrutura, não
+  inventar geografia.
+- 🟢 **"Hardware e wetware se fundindo em uma amálgama profana de tecnologia e carne verde."**
+- 🟢 **"Carne humana alimentando o servidor divino da praga biológica."**
+- 🟢 **"Então a gente poda o jardim."** O cinismo dele finalmente rimando com o nome da ameaça.
+- 🟢 **"Apenas um algoritmo executando uma função em um mundo morto."**
+- 🟡 **"O aroma adocicado do cravo"** aqui, **"charuto barato"** no 182, **"tabaco importado"** no
+  183 — **três produtos diferentes em quatro capítulos**, e o cap. 185 usa *dois no mesmo parágrafo*
+  ("aroma do cravo" e "cheiro fantasma de charuto"). Isto já não é variação de vocabulário, é
+  descuido. **Escolher um e fazer localizar-e-substituir no arco 158–233.**
+- 🟡 **32ª ocorrência do ritual, sexta em sete capítulos.** O arco 179–185 disparou a alucinação em
+  **todos** os capítulos. O gatilho perdeu a capacidade de assustar por saturação; o leitor já sabe
+  que ele vai socar alguma coisa. **Cortar em pelo menos três dos sete.**
+- 🟡 **"Data In-Game: Pós-Colapso do Sentinel (Noite Eterna)"** — sexto sistema de datação do livro,
+  e o único capítulo do arco que usa "Sentinel"/"Noite Eterna". Os vizinhos dizem "Pós-Colapso da
+  Aeterna". **Padronizar o frontmatter do arco inteiro.**
+- 🔵 **"Soldada por Vasco nos meus cotocos"** (plural). Os caps. 182–184 tratam de **um** coto, o do
+  braço direito. Se há mais de um, precisa estar estabelecido; se não, é erro de digitação.
+- 🔵 **Elevador de carga funcionando** num complexo subterrâneo abandonado sem energia da cidade.
+  Uma linha ("o Jardim mantém a rede viva") resolveria e ainda reforçaria a ameaça.
