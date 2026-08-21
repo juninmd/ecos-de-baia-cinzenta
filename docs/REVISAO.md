@@ -4726,3 +4726,66 @@ patologia declarada. **Este é o capítulo-chave do arco final.**
   modelo de compactação para os caps. 184–193:** sumarizar o ritual em vez de dramatizá-lo toda vez.
 - 🔵 **"Quilômetros de duto"** (Elias) vs. **"trezentos metros"** (Valéria) no mesmo capítulo.
   Provavelmente hipérbole dele, mas convém não deixar os dois números tão perto.
+
+## Capítulo 196 — Ecos de Neon no Submundo
+
+**O capítulo faz a coisa mais corajosa possível depois de um clímax: revoga a vitória.** *"Não nos
+seguiu. Sempre esteve aqui, esperando."* É a resposta certa à minha pergunta do 191 e do 192, e ela
+chega imediatamente, sem enrolar o leitor.
+
+- 🟢 **"O duto vomitou a escória enferrujada."**
+- 🟢 **"Zumbindo fracamente com os restos de uma energia parasita."** / **"Sucuris de aço negro."**
+- 🟢 **"Sempre esteve aqui, esperando. O subsolo inteiro é a raiz dessa desgraça."** Reenquadra
+  cinquenta capítulos de uma vez: o Jardim nunca foi um foco, é **o que a cidade virou por baixo**.
+- 🟢 **"Agora não tem ninguém no topo alimentando os geradores para conter a podridão."** A Aeterna,
+  vilã absoluta do primeiro livro, era também **a única contenção**. A melhor ironia estrutural da
+  obra, e ela é dita em uma frase, sem sublinhar.
+- 🟢 **"Eu arranco fora a parte do corpo antes de deixar a praga engolir o resto."** Ameaça e
+  promessa na mesma fala — e é sincero, o que é pior.
+- 🟢 **"Recomendo, novamente, amputação da via não crucial ou cauterização a fogo."** O "novamente"
+  faz o trabalho de três parágrafos: ela vem insistindo fora de cena.
+- 🔴 **"Pressionei todo o meu peso ESQUERDO"** / **"prótese hidraulicamente castrada"** — o lado
+  segue trocado (ver 194/195). E *"hidraulicamente castrada"* é imagem confusa: castrar não é
+  perder pressão.
+- 🟡 **47ª e 48ª ocorrências.** Décimo quinto capítulo seguido. Aqui **as duas** estão no mesmo
+  capítulo curto e nenhuma escala nada.
+- 🟡 **"Falência estrutural orgânica em cento e vinte e sete minutos"** — quarto relógio do arco
+  (22 min, 120 s, 12 min, 127 min), e nenhum dos anteriores foi cumprido. **Escolher um relógio e
+  honrá-lo.**
+- 🔵 **"Odor acrimonioso de fumaça de CIGARRO"** — quinto produto (charuto/cravo/cigarro/tabaco
+  importado/cigarro). Ver a seção do cigarro.
+
+## Capítulo 197 — A Gravidade do Lodo
+
+**Boa sequência de travessia, e o melhor uso do Elias até agora** — mas é também o capítulo em que
+o protagonista atinge o fundo moral do livro **sem que o texto pareça notar**.
+
+- 🟢 **"Como se estivéssemos rastejando pelo intestino de uma besta moribunda."**
+- 🟢 **"A água fedia a metal oxidado e desespero."**
+- 🟢 **"As raízes pulsantes pareciam uma mandíbula aberta esperando minha falha."**
+- 🟢 **"Um fantasma de lógica pura e cromo."**
+- 🟢 **As veias reagindo à energia estática do núcleo dela.** Detalhe que faz a biomassa parecer
+  inteligente sem que ninguém precise dizer isso.
+- 🟢 **"A frequência cardíaca do sujeito denota pânico extremo. (...) Tática ineficiente."** A Val
+  comentando o terror de um homem atravessando um abismo como se fosse um erro de engenharia. Ótimo.
+- 🟢 **"Nós éramos os vermes rastejando em suas artérias mortas."**
+- 🔴 **Ele manda o civil na frente para testar a ponte, e o coage com ameaça de abandono.** É
+  *exatamente* a lógica da Aeterna com os catadores — que o livro passou cem capítulos condenando.
+  A cena está bem escrita e é dramaticamente forte, **mas precisa de uma linha de consciência**: o
+  narrador não registra o que fez, e sem isso o leitor não sabe se o livro sabe. Compare com o cap.
+  180, onde a degradação **é** registrada ("a misericórdia era um luxo que eu não podia bancar"). É
+  a diferença entre queda trágica e brutalidade não examinada.
+- 🔴 **"Ergui o braço ESQUERDO — a grotesca prótese industrial"** e depois **"ergui o pesado braço
+  esquerdo"**. O arco agora afirma explicitamente que a prótese é a esquerda. **Ver a nota do 194:
+  isso precisa de uma varredura em todo o terceiro livro.**
+- 🟡 **49ª a 51ª ocorrências — três em um capítulo.** Décimo sexto seguido. E a última delas
+  (**socar a biomassa**) é boa porque é funcional; as duas primeiras (cravar os dedos no próprio
+  ombro, bater o cotovelo na parede) são cota. **Cortar as duas primeiras.**
+- 🟡 **"Cravou ainda mais os dedos"** — falta o pronome (*cravei*); o sujeito muda no meio do
+  parágrafo.
+- 🟡 **"Sete horas de desvio" recusadas** porque ele sangraria até secar — coerente. Mas **o texto
+  nunca mais menciona a alternativa**, e ela era a saída racional. Uma linha do Elias lamentando a
+  escolha depois valeria muito.
+- 🔵 **"Setecentos e quinze metros"** depois da ponte, contra "oitocentos" no 196: eles andaram
+  85 m em um capítulo inteiro de travessia. Consistente, mas convém checar se a cena parece tão
+  curta assim.
