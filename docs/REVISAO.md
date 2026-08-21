@@ -3187,3 +3187,72 @@ dezoito capítulos de lodo é o melhor contraste visual da obra.
   ele como se estivesse à solta. Se o Dante voltou ao comando, isso precisa estar na página.
 - 🔵 **"Dante é o mecenas."** Boa hierarquia. Cobrar: o livro precisa mostrar essa relação, não só
   declará-la.
+
+## Capítulo 139 — Curadoria
+
+**Boa cena de ação com a melhor decisão trágica do arco.** O Tríptico ser simultaneamente vítima e
+servidor obriga o protagonista a matar três pessoas para salvar quatro — e o texto não suaviza:
+"me perdoem" é tudo o que ele diz, e o grito mental o derruba de joelhos antes de ele conseguir
+terminar.
+
+- 🟢 **"A primeira Escultura não correu. Ela flutuou."** e o contraste com o *staccato* da Aria.
+- 🟢 **"O sofrimento deles é o maestro. A agonia cria uma largura de banda incomparável."**
+- 🟢 **"Ele não estava batendo em um vidro. Estava batendo na arrogância de quem achava que a dor
+  alheia era matéria-prima."** Melhor frase do capítulo.
+- 🟢 **"Perderam a graça. Ficaram rígidas, como marionetes que tiveram as cordas cortadas."** A
+  descrição certa: não desligaram — perderam a coreografia.
+- 🟢 **"Destruída por um bruto com um pedaço de lixo na mão."** O vilão perdendo a compostura pela
+  primeira vez, e por vaidade ferida, não por ameaça.
+- 🟢 **"Talvez o carbono de vocês sirva para o esboço da próxima peça."**
+- 🔴 **SEM FRONTMATTER.**
+- 🟡 **"Ele queria fumar. Deus, como ele queria fumar."** Oitava oscilação — e ela está a dois
+  capítulos de distância da formulação correta do 136. Aplicar o cânone do cap. 131 em todo o bloco.
+- 🔵 **Os três do Tríptico** merecem nome. O livro construiu sua ética inteira sobre a lista do Gabo
+  (caps. 75, 86, 93); matar três pessoas anônimas é exatamente o que ele acusa a Aeterna de fazer.
+
+## Capítulo 140 — Ponto de Fusão
+
+**Boa sequência de fuga, resolvida por física e por trabalho braçal.** O forno com contagem térmica
+(68 °C, 2 graus por segundo, colapso em 90 s) dá um relógio verificável, e a saída ser o **duto de
+descarte de biomassa** — "é por onde ele joga os erros" — é a ironia certa.
+
+- 🟢 **"Como um cobertor de chumbo derretido."**
+- 🟢 **"Ventilação bloqueada e revertida para injeção de oxigênio comburente."** Detalhe técnico que
+  transforma o cenário em armadilha real.
+- 🟢 **"É por onde ele joga os erros."**
+- 🟢 **A pele dos dedos da Aria derretendo até o titânio, sem reação.** O custo dela continua sendo
+  cobrado em silêncio.
+- 🟢 **"O cheiro de sua própria pele queimando apagou de uma vez a fumaça que não existia."**
+  A melhor resolução da alucinação em todo o livro — a realidade vence pela intensidade.
+- 🟢 **"Nunca um cheiro de esgoto foi tão bem-vindo."**
+- 🟢 **"A crítica ainda não acabou."**
+- 🔴 **SEM FRONTMATTER.**
+- 🟡 **"Seus olhos heterocromáticos brilharam"** — quarta cor em sete capítulos (branco no 134, azul
+  elétrico no 138, heterocromático aqui e no 141).
+- 🟡 **O Taxidermista se vira de costas, "desinteressado no final"**, e o grupo escapa. É a segunda
+  vez que ele deixa os protagonistas irem embora (ver cap. 70). Se é desdém, ótimo — mas precisa ser
+  dito, ou vira conveniência.
+
+## Capítulo 141 — Raízes Amargas
+
+**Bom capítulo de respiro, com a melhor revelação de infraestrutura do arco.** O sarcófago de fibra
+ótica militar anterior à Nuvem transforma o Taxidermista de artista maluco em **parasita de
+infraestrutura** — e liga o arco à descoberta de 1920 do cap. 131.
+
+- 🟢 **"O tipo de gelo que se infiltra pelos ossos e te lembra de que você está pisando onde o sol
+  não toca há um século."**
+- 🟢 **"A dor nas mãos, em contraste, era uma escolha."** A melhor formulação do ritual até aqui —
+  e alinhada com o cânone do 131/136.
+- 🟢 **"Regras são construções sociais sujeitas a falhas estruturais."**
+- 🟢 **"Compreendido. Incorporando falha humana crônica no modelo de risco."** A melhor concessão
+  possível: ela não aprendeu empatia, apenas passou a modelar a teimosia dele como variável.
+- 🟢 **"É como se a cidade não existisse."**
+- 🟢 **"Como raízes de uma árvore gigante que cortaram."** e **"ele é uma aranha no centro da teia
+  velha"** — boa amarração com a Necrópole de 1920.
+- 🔴 **SEM FRONTMATTER**, e o "Resumo" do bloco de metadados tem **oito linhas** e entrega o
+  capítulo inteiro, incluindo a revelação final. Se esse bloco é renderizado, é spoiler impresso
+  acima do texto.
+- 🟡 **"Cento e oitenta minutos"** para a falência do Rangel. É o terceiro prazo dado a ele (cap.
+  122: sepse; cap. 131: "não vê depois de amanhã"; agora: 3 horas). Escolher um e contar.
+- 🟡 **"Título duplicado":** "Raízes Amargas" também é o título do cap. 102. Terceira duplicata do
+  livro (ver "A Convergência" 96/103 e "Frequência Fantasma" 109/126).
