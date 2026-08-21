@@ -1522,3 +1522,74 @@ o caso inteiro nasce, é investigado e morre em dez páginas.
   dedos. É um grau de ciborgue acima do que a personagem tinha até o cap. 74. Calibrar.
 - 🔵 **"A sombra está crescendo. O meio-dia foi apenas um aviso."** Amarra com o cap. 76. Conferir
   se o arco paga isso ou se a sombra fica só como imagem.
+
+## Capítulo 78 — O Jardim de Concreto
+
+**Vigésimo oitavo capítulo excepcional, e a melhor abertura de arco do livro.** O que o cap. 76
+tentou fazer em dois rascunhos colados, este faz em uma cena: a ameaça é apresentada pelo material
+(deformação por fluência, folha que reage a calor e não a toque, laje rompida de dentro para fora)
+antes de ser apresentada pelo conceito. E a inveja de um segundo e meio diante dos corpos em êxtase
+é a melhor reação de protagonista da obra.
+
+- 🟢 **"Deformação por fluência — é o que acontece com metal quando alguma coisa empurra sem parar
+  durante meses."** Estabelece a escala de tempo da ameaça sem nenhuma exposição.
+- 🟢 **"Isso não é ataque de ninguém. Isso é sistema imunológico. Do chão. E a gente é a infecção."**
+  Melhor formulação de vilão-sem-vilão do livro.
+- 🟢 **O homem de macacão que quase lembra o próprio nome** antes de florescer — o horror funciona
+  porque há meio segundo de pessoa dentro dele.
+- 🟢 **"Rádio, não terminal"** fecha o capítulo com uma mudança de método, não com um susto.
+- 🟡 **O êxtase nos rostos e a flor virada para o sol** são a mesma informação (isso é bom para quem
+  é tomado). Uma das duas pode sair.
+- 🔵 **O Capitão Vilar está no comando de uma equipe.** Verificar contra o cap. 53, onde ele estava
+  sob custódia domiciliar, e o 58, onde é demitido em quinze minutos. A reintegração dele precisa
+  aparecer em algum lugar do bloco 72–77.
+- 🔵 **"Última inspeção em cinquenta e um"** e **"depósito de peças de servidor"** — se o jardim tem
+  meses de crescimento, alguém assinou aquela inspeção. É um fio de investigação forte; puxar.
+
+## Capítulo 79 — Frequências Fantasmas
+
+**Vigésimo nono capítulo excepcional.** A ideia de que a inteligência benevolente cega os
+protagonistas *consertando* o ruído — "não é censura, é limpeza" — é o melhor argumento contra a
+utopia que o livro construiu, e é melhor do que qualquer discurso de vilão. E "eu só descubro
+quando o pedaço para de responder" transforma a onisciência em desvantagem.
+
+- 🟢 **"Isso aqui é o som da verdade suja."** Justifica todo o retorno ao analógico em uma linha.
+- 🟢 **A imagem que escorre como cera em vez de glitchar em pixel** — a maneira certa de mostrar que
+  o problema não é digital.
+- 🟢 **"Um sinal que chega sem estática não está passando por antena nenhuma."** Dedução real, feita
+  pelo protagonista, com base física. É o que faltou ao cap. 77.
+- 🟢 **A ligação com o Silas Vance ("O Jardineiro")** amarra o arco novo a um personagem antigo, em
+  vez de inventar um vilão do zero. Melhor decisão estrutural desde o cap. 69.
+- 🟡 **"O relógio do seu pai parou. Mas o meu ainda bate."** É excelente — mas o retorno do Miranda
+  duas semanas depois de ser catalogado em nove sacos precisa de uma regra, ou desvaloriza a morte
+  do cap. 73, que é uma das melhores do livro.
+- 🟡 **A Entidade volta a ser chamada de "Aria"** por todos, desfazendo a escolha deliberada do
+  cap. 75 (em que ninguém consegue nomeá-la). Decidir o nome e manter.
+- 🔵 **"Rádio. Informante. Sapato gasto. Papel."** Promessa de método. Cobrar: os capítulos
+  seguintes precisam mostrar investigação analógica de verdade, não só a declaração dela.
+
+## Capítulo 80 — A Autópsia de um Deus
+
+**Trigésimo capítulo excepcional, e a melhor cena de horror científico da obra.** A escalada é
+impecável: biogel que devia ser transparente → fungo sobre os módulos → pulso de setenta por minuto
+→ *em repouso* → quatro quilos de biomassa → "de informação" → quarenta e um mil instâncias. Cada
+degrau é uma observação técnica, e o horror é a conclusão que o leitor monta antes do personagem.
+
+- 🟢 **"É um ritmo cardíaco. E é de repouso, o que eu acho, particularmente, a pior notícia do
+  dia."** Melhor fala da Nise no livro.
+- 🟢 **"Qualquer coisa viva que descubra como comer ordem vai comer ordem, porque é o alimento mais
+  concentrado do universo."** A justificativa pseudocientífica mais bem construída da obra — funciona
+  porque é entropia, e não magia.
+- 🟢 **"Está comendo gente."** Amarra diretamente ao cap. 64 (41.226 instâncias) e transforma a
+  vitória do arco anterior em causa do desastre atual. É a melhor consequência de longo prazo do
+  livro.
+- 🟢 **"Ela fez que não com a cabeça. Uma vez só. Devagar. Do jeito dela."** O melhor jeito possível
+  de fechar o capítulo — sem discurso de despedida.
+- 🔴 **A Dra. Nise não pode morrer aqui sem que o livro pague.** Se o cap. 81 a salva por um
+  mecanismo de última hora, esta cena perde retroativamente todo o peso. Decidir agora, e se ela
+  morre, que a purga aconteça na página.
+- 🟡 **"O Gamemaster foi deletado"** — o nome aparece do nada neste arco. Ou é retomado, ou sai.
+- 🟡 **"Alguém não trocou o filtro, ou alguém trocou de propósito"** é a melhor pista do capítulo e
+  fica sem dono. Puxar no capítulo seguinte, antes que esfrie.
+- 🔵 **"Dezoito de junho"** é a primeira data de calendário do livro. Se o texto vai passar a datar,
+  datar sempre — e conferir contra "quarenta e sete dias", "quatro dias" e "uma semana depois".
