@@ -1031,3 +1031,133 @@ livro. A imagem dos três Rodrigues na mesma prateleira vale por um capítulo in
   dilúvio virou insumo. Junto com o cap. 56 ("a água limpou o título"), fecha a tese do livro.
 - 🔵 **"Para todo mundo"** — primeira opinião espontânea da Aria. Confirmar se isso marca uma
   mudança de função dela na trama.
+
+## Capítulo 60 — Despejo
+
+**Ação bem coreografada, escrita em nível padrão.** O truque da válvula de vapor é a melhor solução
+tática do livro (bater no ambiente, não no inimigo), e o contador de bateria funciona como relógio
+de tensão. Mas o capítulo vive de recursos já usados: perseguição, órtese falhando, resgate da Val.
+
+- 🔴 **"Olhos cibernéticos — agora com aquele brilho prateado estranho desde o casulo."** Nenhum
+  "casulo" foi mostrado até aqui. Ou a cena existe e está fora de ordem, ou é resíduo de uma versão
+  anterior. Decidir e plantar.
+- 🔴 **A Aria encosta a testa do Gabo e a dor cede.** É a terceira manifestação sobrenatural dela
+  (ver caps. 56 e 57) sem que o livro tenha estabelecido o que ela é. O problema já não é local:
+  precisa de uma regra explícita antes do cap. 62.
+- 🟡 **"Uma morte rápida, sem dor, sem humilhação"** é boa fala de vilão, mas o esquadrão fala
+  demais para uma unidade que "oficialmente não existe". Cortar metade do diálogo aumenta a ameaça.
+- 🟡 **Escala do veículo de REMOÇÃO URBANA** ("garras do tamanho de contêineres") desafina do
+  realismo cru do resto da obra. Reduzir uma marcha.
+- 🟢 **"De prótese em prisão"** — a órtese morta travando a perna é a melhor síntese física do tema
+  do corpo alugado.
+
+## Capítulo 61 — Tinta no Papel
+
+**Décimo quinto capítulo excepcional, e o clímax intelectual do livro.** Toda a investigação
+converge: sete camadas de fachada, uma sociedade em órbita lunar, e a assinatura que não é humana.
+"A Nova Baía é uma necrópole com síndico" é a frase que a obra vinha construindo desde o cap. 19.
+
+- 🔵 **`VANE, ALEXANDER`** — é a **única** vez em 235 capítulos que a Isadora (cap. 55) ganha
+  sobrenome, e ele fica a uma letra de **Vance**, a família do Silas e da Dra. Elara. Se as duas
+  famílias são distintas, escolher um sobrenome que não colida; se é a mesma, dizer.
+- 🔴 **Entidade Alpha-Zero** é apresentada como a revelação máxima, mas nada antes preparou uma IA
+  proprietária. Plantar pelo menos dois indícios entre os caps. 30–50 (decisões rápidas demais,
+  contratos sem assinante, resposta automática) para o soco cair.
+- 🟡 **"Ontem à tarde ele comprou um loft"** é o melhor gancho do capítulo e está enterrado no meio
+  de uma lista. Isolar em parágrafo próprio, e cortar os nomes genéricos que vêm antes.
+- 🟡 **Val explica demais.** O leitor já entendeu na terceira camada de fachada; as sete viram
+  ladainha. Cortar para três camadas + a lunar.
+- 🟢 **"Bati numa porta e a porta não me diz nem de quem ela é."** Melhor fala da Val na obra.
+- 🔵 **O jamming militar derrubando até o nobreak** — verificar coerência técnica: interferência de
+  rádio não desliga bateria. Se a intenção é EMP, dizer EMP.
+
+## Capítulo 62 — O Santo e a Criança
+
+**Décimo sexto capítulo excepcional, e a melhor virada do livro.** A escolha de narrar a derrota sem
+luta — "houve dez segundos em que um homem enorme fez o que quis com duas pessoas cansadas" — é o
+momento em que a prosa mais confia em si mesma. E "Irmão" reorganiza a trama inteira para trás.
+
+- 🔴 **Depende da regra que o livro ainda não deu.** A Aria para o Santo com uma palavra. Se o
+  cap. 61 ou anterior não estabelecer o que ela faz e a que custo, isso lê como *deus ex machina* —
+  justamente na cena que mais precisa ser lida como revelação.
+- 🔴 **"A menina que morreu afogada aos cinco anos foi coletada."** Segunda menção à filha morta
+  (ver cap. 59), agora com idade e causa. Se essa é a espinha emocional da obra, ela tem que estar
+  no primeiro terço — nem que seja em uma linha por bloco.
+- 🟡 **"O prefeito manda lembranças"** entrega o mandante cedo demais e esvazia o vazamento do
+  comunicador no fim do capítulo. Trocar por uma fala neutra e deixar a voz do prefeito ser a única
+  identificação.
+- 🟡 **A voz dupla do Santo** (modulador + humana por baixo) é ótima, mas o texto explica o efeito
+  logo depois. Cortar a explicação.
+- 🟢 **A máscara removida sob a chuva** é o melhor fecho de capítulo até aqui, e funciona porque o
+  narrador diz explicitamente que nunca contou isso a ninguém — o único uso realmente bom do
+  narrador retrospectivo na obra.
+- 🔵 **Duas costelas quebradas.** Rastrear nos capítulos seguintes: o Gabo já anda com a coluna
+  comprometida e órteses sem bateria. Se ele lutar normalmente no cap. 63, a lesão vira decoração.
+
+## Capítulo 63 — Águas Profundas
+
+**Décimo sétimo capítulo excepcional.** "Ela existia para proteger a cidade da água. Agora ela
+protegia a água da cidade" é a melhor abertura do livro. E a decisão de fazer os inimigos serem
+técnicos de turno da noite — crachá no cordão, fuzil segurado com nojo — é a escolha moral mais
+madura da obra: o clímax fica desconfortável em vez de catártico.
+
+- 🟢 **A continuidade das lesões finalmente funciona.** As duas costelas do cap. 62 seguem
+  contabilizadas, a órtese do beco continua entortada, o Gabo mira nas pernas. Manter esse rigor.
+- 🟢 **"É a coisa mais bonita que eu já vi na vida, e é feita de gente."** Melhor fala da obra.
+- 🟡 **A fisiologia do fluorcarbono é explicada duas vezes** (mudança de fase, ausência de cheiro,
+  densidade). Escolher uma explicação e cortar as outras — a névoa vermelha depois já basta.
+- 🟡 **"Sete na Glock, quatro na *Caronte*, e nada além disso no mundo inteiro"** é ótimo, mas o
+  livro já usou a mesma contagem de munição como recurso de tensão nos caps. 34 e 49. Variar.
+- 🔵 **A entrada do Taxidermista** é o melhor *timing* possível, mas ele não aparece desde o cap. 41.
+  Verificar se há ao menos uma menção entre 50 e 62 para que o leitor não precise recuar.
+- 🔵 **"Ele nunca contou isso para a Dra. Weiss."** Segunda inserção do enquadramento terapêutico em
+  poucos capítulos (ver cap. 62, o narrador retrospectivo). Confirmar se a moldura Weiss está
+  estabelecida ou se está sendo inventada aqui.
+
+## Capítulo 64 — A Cidade Fantasma
+
+**Décimo oitavo capítulo excepcional, e o coração conceitual do livro.** "Eles não são a cidade,
+eles são o cenário" é a virada que justifica todos os 63 capítulos anteriores, e a segunda camada
+— não se vende imortalidade, vende-se **companhia** — é melhor que a primeira. O dilema da Val
+("não tem lei, não tem padre, não tem filósofo que me diga se eu estou libertando ou executando")
+é a única vez em que a obra deixa uma pergunta genuinamente em aberto.
+
+- 🔴 **Duas revelações máximas no mesmo capítulo.** A cidade-cenário e o discurso da intuição do
+  Marco competem entre si, e a segunda apaga a primeira. Mover o monólogo do Marco para o cap. 65,
+  ou cortar a metade dele.
+- 🔴 **"Reconheceu a mulher que jogou a pedra na testa de Elara Vance."** Boa memória, mas o leitor
+  não tem como recuperar essa personagem sem nome a esta altura. Dar um nome ou cortar.
+- 🟡 **O discurso do Marco explica o próprio tema.** "Isso não é computável, isso é biológico" é o
+  narrador falando pela boca do vilão. A cena do Adilson em laço de vinte e dois minutos já
+  demonstra tudo; o monólogo pode perder um terço.
+- 🟡 **"41.226 instâncias"** aparece do nada. A ordem de grandeza tem que ser plantada antes (o cap.
+  59 falava de prateleiras, não de dezenas de milhares).
+- 🟢 **O sapato seco do Marco** — melhor caracterização por objeto do livro inteiro.
+- 🟢 **"Escravo sabe."** A distinção que sustenta o dilema, em duas palavras.
+- 🔵 **Marco entra sem arma e com Miranda atrás.** Verificar por que o Taxidermista, que estava
+  matando seguranças da Aeterna cinco parágrafos antes, some da cena sem uma linha.
+
+## Capítulo 65 — O Novo Inquilino
+
+**Décimo nono capítulo excepcional, e o melhor clímax que a obra podia ter.** O EMP contra os
+grampos eletromagnéticos é a única solução do livro em que o leitor pode conferir a lógica antes do
+efeito — e a revelação final (DANTE MORETTI como proprietário) recontextualiza a obra inteira sem
+desmentir nada do que veio antes.
+
+- 🔴 **`image: /cidade.jpg`** — quebra o padrão `/capitulo_65.jpg` de todos os outros capítulos.
+  Corrigir no frontmatter.
+- 🔴 **A parada do tempo não tem regra.** É a quarta manifestação sobrenatural da Aria (caps. 56,
+  57, 60, 62) e a maior de todas, e o livro segue sem dizer o que ela é ou o que isso custa. Se a
+  regra não for estabelecida antes deste capítulo, o clímax vira mágica.
+- 🟡 **"Não é força de expressão. A água parou."** O narrador antecipando a incredulidade do leitor
+  enfraquece o momento. Cortar a primeira frase e deixar a imagem da bolha oval fazer o trabalho.
+- 🟡 **A carga EMP "que ele nunca usava"** aparece na mesma cena em que é usada. Plantá-la num
+  capítulo anterior (basta uma linha de inventário) transforma sorte em preparo.
+- 🟢 **"Vou te dar um banho."** É a única frase de ação do livro que o personagem tinha o direito de
+  dizer, porque a conta fecha.
+- 🟢 **"O pai dele não tinha morrido. Ele tinha virado o endereço."** Melhor última linha da obra
+  até aqui.
+- 🔵 **Marco desaparece na espuma e Miranda "foi levado de lado".** Nenhum dos dois é confirmado
+  morto. Rastrear nos capítulos seguintes: se voltarem, precisa ficar claro aqui que sobreviveram.
+- 🔵 **O terminal "é o único cômodo do prédio projetado para alagar."** Conveniente demais para ser
+  dito só no momento em que é preciso. Mencionar na descrição do salão no cap. 63.
