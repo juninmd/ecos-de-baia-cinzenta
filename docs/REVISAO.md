@@ -5381,3 +5381,63 @@ uma boa fala. A prosa volta ao registro padrão do arco — a queda depois do 21
   contínuo: 12,4%"). Trocar.
 - 🔵 **"Minha perna quebrada"** — no 209 o problema era graxa congelada; no 191, carne até o osso;
   aqui é fratura. **Folha de personagem.**
+
+## Capítulo 216 — A Pressão do Vazio
+
+**Descida bem construída, com a melhor piada negra do arco final e um detalhe de mundo que vale
+mais que qualquer monstro: o revestimento de chumbo engrossando conforme descem.** A ameaça é
+inferida pela engenharia — o leitor deduz antes de o texto dizer.
+
+- 🟢 **"Uma escada que parecia descer até o centro morto do planeta."**
+- 🟢 **"Era o cheiro de um sarcófago esquecido."**
+- 🟢 **"Concentre-se no som da minha perna quebrando, então. Enquanto você ouvir essa porcaria
+  rangendo, significa que não atingimos o fundo."** **Melhor fala do capítulo**, e é cuidado
+  disfarçado de cinismo — a mesma técnica de "o medo dele pesa mais" (200).
+- 🟢 **"Não consigo ver as minhas mãos, Gabo."** O terror do Elias dito da forma mais concreta
+  possível.
+- 🟢 **"Até os deuses de neon precisavam cavar buracos para esconder sua sujeira original."**
+- 🟢 **"Aumento substancial na espessura do revestimento de chumbo."** → *"estavam selando algo lá
+  embaixo."* **Dedução por material de construção.** É o melhor uso da Val como fornecedora de
+  pistas em todo o arco.
+- 🟢 **"A dor era o único mapa que me restava."**
+- 🟡 **74ª e 75ª ocorrências, duas em um capítulo curto**, e a segunda (joelho contra a parede)
+  aparece só para fechar a cena. Trigésimo primeiro capítulo com o recurso.
+- 🟡 **"O toco mutilado do meu braço ESQUERDO"** e, dois parágrafos antes, **"a mão direita — a
+  boa"**. Aqui o texto é internamente coerente — mas contradiz o 213 ("meu braço direito biônico").
+  **Folha de personagem.**
+- 🟡 **"Setenta e dois por cento"** — mesmo número dos "setenta e dois anos" do 214. Coincidência
+  que chama atenção num capítulo tão próximo.
+- 🔵 **"Fundações geológicas de Aeterna"** — a corporação virou sinônimo da cidade em várias
+  passagens do arco (ver 210). Se é intencional (a corporação **é** a cidade), vale explicitar uma
+  vez; se não, corrigir.
+
+## Capítulo 217 — O Útero de Chumbo
+
+**Boa chegada, e a melhor imagem simbólica do arco: "um útero de chumbo escondido sob o estrume do
+mundo".** O capítulo também dá o melhor momento moral do protagonista em muitos capítulos — *"ninguém
+vai sedar ninguém"* — que é a resposta definitiva às propostas de descarte da Val (199, 198, 217).
+
+- 🟢 **"A indiferença gélida de um necrotério."**
+- 🟢 **"Um útero de chumbo, escondido sob o estrume do mundo."** Título e imagem em uma linha só.
+- 🟢 **"Recomendo sedação se a vocalização exceder os limites táticos." / "Ninguém vai sedar
+  ninguém."** **O arco da relação com o Elias fecha aqui.** Do "recomendo descarte" (198) ao
+  "ninguém vai sedar ninguém", com o protagonista recusando todas as vezes. Boa curva.
+- 🟢 **"Respira pela boca. Conta os batimentos. Faz alguma coisa útil com esse pânico."** Ele ensina
+  ao garoto a versão saudável do que faz consigo mesmo. **Detalhe excelente, e não comentado.**
+- 🟢 **"Não o logotipo estilizado das propagandas de neon, mas a versão brutalista dos primeiros
+  dias."** O logo como estrato arqueológico. Ótimo.
+- 🟢 **"Projetado para ser operado por maquinário pesado, não por um homem caindo aos pedaços."**
+- 🟢 **"Deixei a sombra da fumaça do charuto voltar por um segundo. (...) Eu não serei prisioneiro no
+  escuro de outro homem."** **A melhor variação do motivo em todo o livro:** ele **convoca** o
+  fantasma e o usa como combustível, em vez de espantá-lo com dor. É a inversão que o arco pedia
+  desde o 199. **Se o autor mantiver só três ocorrências no terceiro livro, esta é uma delas.**
+- 🟢 **"Um gemido de algo antigo sendo despertado a contragosto."**
+- 🟢 **"Cheiro de antisséptico esquecido e nada além do silêncio."** Gancho perfeito: o horror é a
+  **assepsia**.
+- 🟡 **76ª e 77ª ocorrências** antes da grande inversão do final. As duas primeiras enfraquecem a
+  terceira. **Cortá-las torna o capítulo excelente.**
+- 🟡 **"Bombardeamentos termonucleares"** — primeira menção de armas nucleares no mundo do livro.
+  Se não há precedente, é uma escala nova introduzida de passagem.
+- 🔵 **"Pressionei minhas duas mãos — a de carne, inteira, e o toco cicatrizado"** — se o toco não
+  tem prótese aqui, onde está a garra industrial que ele usou no 212 e 213? **Folha de personagem,
+  item urgente.**
