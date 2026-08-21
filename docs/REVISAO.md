@@ -4920,3 +4920,68 @@ dor que dissolve a alucinação — é a melhor fusão de trama e trauma da obra
 - 🟡 **59ª e 60ª ocorrências.** Décimo nono capítulo seguido.
 - 🔵 **Trinta entidades anunciadas no 200**, e só uma ataca. As outras 29 chegam depois que eles
   saem. Funciona como pressão, mas o número perde valor — **ou usar mais duas, ou dizer menos.**
+
+## Capítulo 202 — O Corredor Silencioso
+
+**A melhor manifestação do fantasma em todo o livro — e é a primeira em que ele aparece.** Depois de
+sessenta ocorrências puramente olfativas, o pai **sentado no fim do corredor exalando anéis
+cinzentos** é a escalada que o motivo pedia, e ela é qualitativa em vez de quantitativa. Isso é o
+que eu vinha dizendo que faltava.
+
+- 🟢 **"Aqui, a morte não era orgânica, era arquitetônica."** Uma frase reposiciona o cenário
+  inteiro.
+- 🟢 **"A poeira fina que se acumula onde nada respira."**
+- 🟢 **"Meu pai, sentado no fim do corredor de concreto, exalando anéis cinzentos que sufocavam a
+  luz."** **A melhor imagem do arco final.** Guardar; e é a prova de que o autor podia ter variado o
+  recurso desde o 180.
+- 🟢 **"O silêncio encontrou espaço para preencher o vazio."** A causa do ataque é a **ausência de
+  perigo** — inversão excelente depois de vinte capítulos em que o gatilho era sempre um cheiro
+  ambiental.
+- 🟢 **"Aplicando protocolo de supressão neurológica...?" / "Não!"** A Val oferece a cura e ele
+  **recusa**, como recusou a cauterização no 195. O padrão está consolidado e é coerente.
+- 🟢 **"A dor mantém o fantasma longe. Ele odeia sentir dor."** Primeira vez que ele **explica** o
+  ritual em voz alta, a outro humano, e a explicação é delirante — o que é exatamente o ponto.
+- 🟢 **"Eu parecia um louco de rua. Talvez eu fosse."** O Elias como espelho, pagando o que o 193
+  prometia.
+- 🟢 **"Não queria que saísse, ou não queria que o resto entrasse."** O detetive lendo arquitetura
+  como evidência. **Mais disto.**
+- 🟢 **"O silêncio de uma respiração presa, a tensão retesada antes do bote."**
+- 🟢 **"Arranhões simétricos que iam do chão ao teto."** Plantio limpo.
+- 🔴 **"Meu ombro ESQUERDO latejava"** na abertura e **"ergui o braço DIREITO — a prótese
+  industrial"** vinte linhas depois, mais **"capacidade motora do braço direito"**. O capítulo usa
+  os dois lados para o mesmo membro, de novo. Ver a folha de personagem.
+- 🟡 **61ª ocorrência**, e é a única do capítulo — **o ritmo correto**. Se todo o arco 184–201
+  tivesse uma por capítulo, a crítica de saturação não existiria.
+- 🔵 **"Três por cento (...) condicionada à integridade da escotilha primária"** — condição
+  levantada e nunca resolvida. Se as trinta entidades não voltam, dizer por quê.
+
+## Capítulo 203 — Sombras de Aeterna
+
+**O melhor capítulo de história de mundo do terceiro livro.** A Praga de Ferro dá ao subsolo uma
+camada geológica anterior ao Jardim — a cidade tem **duas** pragas sobrepostas, e a mais antiga foi
+causada e escondida pela corporação. É worldbuilding que também é acusação.
+
+- 🟢 **"A ferrugem não apenas cobria o metal; ela o devorava."** / **"Pó avermelhado escamoso (...)
+  como sangue seco."**
+- 🟢 **"O tapete, neste caso, somos nós e cinco quilômetros de rocha e concreto."** A melhor fala
+  política do arco final: os moradores do subsolo **são** o esconderijo do problema.
+- 🟢 **"As formigas operárias mecanizadas que outrora construíram as entranhas desta cidade."**
+- 🟢 **"Cabos soltos pendurados no teto, parecendo tripas ressecadas."**
+- 🟢 **"Eles tentaram fugir todos ao mesmo tempo."** A Val reconstruindo um massacre a partir de
+  padrões de fratura — **perícia forense aplicada a máquinas**. É a melhor coisa que o Modo de
+  Segurança já produziu.
+- 🟢 **"Essas coisas sentiram dor. Dor mecânica crua."** e **"os portões de subida, que, claro, foram
+  trancados por cima"**. O horror é a **crueldade administrativa**, não o monstro.
+- 🟢 **"Eu conhecia o cheiro de um sistema forçado a devorar a si mesmo."** O paralelo entre os
+  drones e o protagonista **dito uma vez e abandonado** — dosagem perfeita. Não desenvolver mais.
+- 🟢 **Capítulo inteiro sem uma única ocorrência do ritual**, e ele não perde tensão nenhuma. **É a
+  prova prática de que dá para cortar as outras.**
+- 🟡 **"Praga de Ferro"** é introduzida como se o leitor já a conhecesse ("as piores fases da Praga").
+  Se foi mencionada nos livros anteriores, ok; se não, precisa de meia linha a mais. **Verificar nos
+  caps. 1–100.**
+- 🟡 **"Cinco quilômetros de rocha acima"** contra **"mil metros"** de poço no cap. 200. As duas
+  medidas de profundidade não conversam.
+- 🔵 **"Ele espiava sobre o meu ombro ileso"** — no 199 os **dois** ombros estavam destruídos. Mais
+  um sintoma do mesmo problema.
+- 🔵 **"Ajeitando a mochila nas costas"** — primeira menção a uma mochila do Elias. Se ela existe
+  desde o 193, deveria ter aparecido antes (e conter recursos úteis); se é nova, cortar.
