@@ -3861,3 +3861,81 @@ defeito. O defeito vira arma.
 - 🟡 **Décima quinta versão da alucinação**, duas vezes no capítulo.
 - 🔵 **A Aria morta é o melhor gancho do arco.** Registrar: se ela voltar sem custo no capítulo
   seguinte, esta cena — que é a melhor do bloco — perde tudo.
+
+## Capítulo 168 — O Peso do Chumbo
+
+**Boa aproximação e a melhor revelação estrutural desde o cap. 131.** A descoberta de que o *wetware*
+antecede o Taxidermista em quatro décadas — e que **Dante estava lá** — reorganiza o livro inteiro
+e conecta o arco final ao cap. 61 e ao 89.
+
+- 🟢 **"O silêncio de um necrotério após o último corpo ter sido catalogado."**
+- 🟢 **"O olho ciano transformado em um vidro opaco e cego."**
+- 🟢 **"Ela vomitou a alma dela pra fritar aquele tanque de guerra."** A Val nomeia o que aconteceu
+  no cap. 167 melhor do que o próprio 167.
+- 🟢 **"A gaiola de Faraday criava uma privação sensorial que começava a devorar as mentes."** e
+  **"no vácuo do silêncio absoluto, o cérebro de Gabo preencheu o espaço com o pesadelo."** Melhor
+  explicação da alucinação em todo o livro — ela é **efeito da ausência**, não do trauma.
+- 🟢 **A mesa de comando analógica com fendas de microficha** — a Aeterna dos anos 90 sobrevivendo
+  intacta dentro da Aeterna do futuro.
+- 🟢 **"Dante Moretti já havia cortado o caminho muito antes da queda de Prometeu."**
+- 🟡 **Frontmatter reduzido a `image:`** — perdeu até o campo de personagens, e mantém o bloco
+  `## Metadados` com resumo de nove linhas que **entrega a revelação final do capítulo**.
+
+## Capítulo 169 — O Fantasma na Máquina de Carne
+
+**Capítulo excepcional — o melhor do livro desde o 131, e escrito no mesmo registro.** Frases
+curtas, dados verificáveis (51 Hz, 37 anos, leitura a cada seis horas), dedução real feita pela
+Val, e a melhor decisão moral do último terço. **E paga a lista.**
+
+- 🟢 **"Gabo tinha ouvido aquilo por sete minutos antes de entender o que estava ouvindo, e quando
+  entendeu não conseguiu mais desouvir."**
+- 🟢 **"Val não entrava em choque, ela entrava em silêncio, que na prática é pior de assistir porque
+  não passa sozinho."**
+- 🟢 **"Para qualquer outra pessoa, aquilo era a prova de um crime corporativo. Para Gabriel
+  Moretti, era herança."**
+- 🟢 **A dedução da Val sobre a assinatura.** "Sabe que assinatura um delegado assistente dá em
+  março de noventa e quatro?" → *reconhecimento de corpo não reclamado*. É a melhor investigação do
+  último terço, e ela reenquadra o Dante sem inventar nada novo.
+- 🟢 **"Ele não inventou o horror. Ele achou a planta baixa, e a planta baixa está assinada com o
+  meu sobrenome."**
+- 🟢 **"Se eu preservar isso aqui como prova, eu vou estar fazendo exatamente o que eles fizeram:
+  mantendo uma pessoa acesa porque ela ainda me serve."** A melhor formulação ética do livro depois
+  de "você achou que sabia o que era melhor para todo mundo" (cap. 95).
+- 🟢 **"Anota o horário e o meu nome no teu registro. A ordem é minha."** O protagonista assumindo
+  autoria de uma decisão irreversível — exatamente o oposto do Vilar do cap. 93, e um eco dele.
+- 🟢 **"Desculpa a demora."** A melhor última fala do livro.
+- 🟢 **A LISTA VOLTA.** *"Sujeito 01. Nome desconhecido. Indigente, 1994. Autorizado por
+  D. Moretti."* — escrita **com os dentes e a mão boa**. Isto resolve a lacuna que apontei nos
+  caps. 150 e 151. **Falta apenas o nome do Rangel.**
+- 🟢 **A Val cobra o ritual de frente:** "essa é a quarta vez esta semana... uma hora esse braço não
+  vai mais fechar." Era necessário, e chega no capítulo certo.
+- 🟢 **"Cheiro de um homem que nunca fumou."** — **Este capítulo restaura o cânone do cap. 131.**
+  A alucinação é fabricada; o pai não fumava. **Usar 131 + 169 como par canônico e corrigir por eles
+  os caps. 100, 105, 115, 121, 123, 124, 127, 128, 133, 135, 158, 162, 163, 164, 165, 166, 170.**
+- 🔴 **"Dez semanas de cicatrização"** para a cauterização do cap. 155 — que aconteceu **horas
+  antes**, no mesmo arco contínuo. E "a quarta vez **esta semana**" pressupõe semanas de convívio.
+  **A linha do tempo do arco 145–170 precisa ser refeita:** ou se passaram horas, ou meses.
+- 🟡 **"A Elena vai me matar quando descobrir"** — a Elena não aparece desde o cap. 107. Boa
+  lembrança de que ela existe; conferir onde ela está.
+
+## Capítulo 170 — O Fim do Expediente
+
+**Capítulo problemático que refaz, pior, o que o 169 já fez perfeitamente.**
+
+- 🔴 **MUDANÇA DE NARRADOR.** O capítulo é escrito em **primeira pessoa** ("meus cotocos sangravam",
+  "eu encarava", "deixamos o setor para trás"). O livro inteiro — 234 capítulos — é em terceira
+  pessoa. É a quebra de ponto de vista mais grave da obra.
+- 🔴 **Contradiz o cap. 169 no evento central.** Lá, a Val **corta o suporte de vida às 04h12**, sem
+  alarme, e a luz baixa devagar durante quarenta segundos, com o Gabo de mão no vidro. Aqui, é o
+  Gabo quem **esmaga o vidro temperado e as válvulas com o coto**, e o fluido vaza pela mesa. **São
+  duas versões incompatíveis da mesma cena, em capítulos consecutivos.**
+- 🔴 **Quarto formato de frontmatter do livro:** chaves em português sem aspas (`Título:`, `Data
+  In-Game:`, `Localização:`), misturadas com `image:`.
+- 🔴 **Reintroduz o cigarro do pai** ("o cheiro do escritório do meu pai... com uma caneta e um
+  isqueiro de prata") **um capítulo depois** de o 169 estabelecer que ele nunca fumou.
+- 🟢 **"A fadiga do chassi da alma."** Melhor imagem do capítulo.
+- 🟢 **"A equação da dor. Ela sempre fechava."**
+- 🟢 **"Ela sabia que não havia tesouro no fim daquele labirinto corporativo, apenas mais
+  ferramentas de escravidão."** Bom resumo do arco.
+- 🟡 **Recomendação:** **cortar o cap. 170 inteiro** ou reescrevê-lo em terceira pessoa como um
+  epílogo curto que não repita a destruição. O 169 já é o fecho perfeito do setor alfa-sete.
