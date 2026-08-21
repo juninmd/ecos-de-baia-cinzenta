@@ -1887,3 +1887,85 @@ provavelmente nem lista.
   justificativa de casamento que o livro precisaria.
 - 🟢 **A ideia central — a Aria com medo de ser *só* a filha morta** — é excelente e resolveria a
   contradição de origem se fosse promovida a capítulo de verdade e colocada **antes** do cap. 62.
+
+## Capítulo 90 — O Arquivista
+
+**Quadragésimo capítulo excepcional.** Um capítulo inteiro de exposição que não parece exposição,
+porque o informante tem método (luva cirúrgica, plástico costurado no forro), preço declarado
+("não tenho nada para trocar") e um limite de validade ("antes de junho"). E a razão pela qual a
+biblioteca sobreviveu — papel velho não é comida — é a melhor piada estrutural do livro.
+
+- 🟢 **"Normalmente eles respondem 'polícia'."** Estabelece o personagem em uma linha.
+- 🟢 **"Ele não morreu. Ele se plantou. É uma distinção que os obituários da época não estavam
+  preparados para fazer."** Melhor formulação do capítulo.
+- 🟢 **"Jardineiro é função."** E o nome da Adriana, professora de educação física da Rua Onze —
+  "é a única coisa que o senhor pode fazer por ela". Amarra diretamente com a lista do cap. 86.
+- 🟢 **A fraqueza não é fogo.** "O Jardim já queimou duas vezes desde março; o senhor não soube
+  porque a fumaça não subiu" é a maneira certa de descartar a solução óbvia.
+- 🟢 **"Ele escolheu o rosto que escolheu porque sabia que a única forma de garantir que o senhor a
+  protegesse até o dia certo era garantir que o senhor não conseguisse olhar para ela."** Recontextualiza
+  o cap. 69 e transforma o pai em manipulador sem desfazer o afeto. Melhor golpe do capítulo.
+- 🟢 **"Ninguém pergunta isso." / "Aloísio."** e o detetive anotando na lista. O melhor fecho de
+  capítulo do arco, e paga o cap. 86 diretamente.
+- 🟢 **Arthur Vance como pai do Silas e da Elara** resolve a família Vance de uma vez — e confirma
+  que o `Arthur Vane` do cap. 76 é erro de grafia, não outra pessoa. **Corrigir o 76.**
+- 🟡 **"Um retrovírus digital rodando em substrato biológico"** é a explicação mais frágil do arco,
+  e chega logo depois de o livro ter recusado a solução fácil. Vale ancorar em algo do diário.
+- 🔵 **"Antes de junho"** — segunda data de calendário do livro (a primeira é "dezoito de junho",
+  cap. 80). Conferir se a linha do tempo fecha.
+
+## Capítulo 91 — Protocolo Gênesis
+
+**Quadragésimo primeiro capítulo excepcional.** É o capítulo de exposição mais bem resolvido da
+obra porque cada revelação tem um dono diferente: a Val explica o armazenamento, a Nise explica o
+corpo, e o Gabo explica a teologia. E "eu não consigo nem chamar isso de doença com a cara limpa"
+é a melhor formulação do dilema central.
+
+- 🟢 **"Os servidores eram incubadora." / "A água era o líquido amniótico." / "As pessoas são os
+  neurônios."** Três frases que recontam o livro inteiro.
+- 🟢 **O calo ósseo com anel de crescimento.** A imagem médica mais perturbadora da obra, e a única
+  que é ao mesmo tempo cura e horror.
+- 🟢 **"Eu proponho um deus de carne... e que sinta quando encostam."** Melhor manifesto de vilão do
+  livro, e o texto tem a coragem de deixar a Val chamar de bonito.
+- 🟢 **"Quem escolhe é sempre a mesma pessoa e quem paga é sempre outra."** A objeção que a obra
+  precisava fazer a si mesma, feita pela personagem certa.
+- 🟢 **O silêncio da caixa preta** como último parágrafo. O livro está no seu melhor quando deixa a
+  ausência de fala carregar a cena.
+- 🟢 **"Três dias"** — relógio explícito e com conta verificável (7,4% ao dia). Manter a marcação em
+  cada capítulo até o fim do arco.
+- 🟡 **"A coisa com o rosto da minha filha"** — o Gabo trata a filha morta como fato estabelecido,
+  o que só funciona se a versão do cap. 69 (rosto escolhido) for a canônica. Coerente com o 90,
+  incoerente com o 62 e o 75.5. Ver a seção sobre a Aria.
+- 🟡 **"Projetor de escola que funciona a manivela"** é ótimo e some. O arco inteiro ganharia se o
+  mundo analógico aparecesse mais nos objetos e menos nas declarações.
+- 🔵 **"Quarenta e nove engenheiros ajoelhados num esgoto"** — o número do cap. 82. Boa continuidade;
+  conferir se ainda são quarenta e nove depois do cap. 87.
+
+## Capítulo 92 — A Praga de Ferro
+
+**Quadragésimo segundo capítulo excepcional, e a melhor cena de batalha do livro — que não é uma
+batalha.** A derrota chega pela estopa suja de vermelho às cinco e quarenta da manhã, e o horror
+real não é a ferrugem: é a conclusão de que **eles sempre puderam**. "Não era um ataque. Era um
+recibo" é a melhor frase do arco.
+
+- 🟢 **"Não enferrujou. Enferrujar leva anos. Aquilo envelheceu."** Descrição perfeita.
+- 🟢 **A prótese arrancada contra o batente**, com a lição do recruta de quarenta e nove ("você tira,
+  e tira agora, e chora depois"). Melhor cena de personagem do Vilar na obra.
+- 🟢 **As três nuvenzinhas de pó paradas no ar "como um insulto."**
+- 🟢 **"Vilar tinha ensinado errado. Oficial sair por último é regra de incêndio em prédio. Não é
+  regra de selva."** O livro cobra do personagem uma decisão pedagógica, o que é raríssimo.
+- 🟢 **"Voltar ali transformava um morto em vinte e sete, e essa é a única aritmética que um
+  comandante não tem permissão de errar."**
+- 🟢 **"Alguém chorava baixo. Alguém rezava. A maioria não fazia nada, que é o que as pessoas
+  realmente fazem."**
+- 🟢 **O túnel dos anos vinte, feito para economizar cimento, virando a melhor obra da cidade.**
+  Segunda vez que a economia em obra pública decide o clímax (ver cap. 81) — é uma assinatura, não
+  uma repetição.
+- 🔴 **"Duzentas e catorze pessoas morreram naquela manhã"** — é exatamente o mesmo número das
+  "duzentas e catorze pessoas da Orla Norte" da lista do Gabo (caps. 75 e 86). Se a repetição é
+  intencional, ela precisa ser dita; se não, é reuso acidental e enfraquece as duas.
+- 🟡 **A conta não fecha:** 240 no enclave, 26 salvos, 214 mortos — mas o Peçanha morre **depois**
+  da contagem, e o texto diz "um morto em vinte e sete", o que sugere 27 sobreviventes. Ajustar.
+- 🟡 **"Nove dias depois da negociação"** contra o prazo de "oito ou nove dias" do cap. 87 — bate,
+  mas o cap. 91 acabou de dizer que faltam **três dias** para a Convergência. Marcar as duas
+  contagens no mesmo relógio, ou o leitor perde a urgência.
