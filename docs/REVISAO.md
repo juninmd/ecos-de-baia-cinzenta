@@ -2838,3 +2838,68 @@ durante 90 capítulos. E preservar a alucinação da fumaça **mudando a âncora
 não precisa vir do pai. Ele já tem origem melhor e disponível na própria obra — a fumaça das
 caldeiras do cap. 115, os corpos queimando no cap. 114, a purga térmica do cap. 81. Trocar cinco
 frases resolve tudo.
+
+## Capítulo 124 — Carne e Cobre
+
+**Bom capítulo de manutenção, com a melhor observação sobre o protagonista do arco.** "Suas mãos,
+que tremiam ao segurar uma xícara de café, estavam firmes como rocha" e "ele também era uma máquina
+falha, cheia de peças remendadas e código ruim" fazem o trabalho que três capítulos de introspecção
+não fariam.
+
+- 🟢 **"Cabos de fibra ótica rompidos pendurados como tripas expostas."**
+- 🟢 **"É a mesma coisa, Val. Apenas um sistema hidráulico com vazamento." (Ele mentiu. Carne não
+  tinha backup.)** Melhor construção do capítulo.
+- 🟢 **"Deu *stack overflow* na alma."**
+- 🟢 **"Carne e cobre. Sangue e ferrugem. Era tudo a mesma matéria-prima no final."**
+- 🔴 **SEM FRONTMATTER** (bloco `## Metadados` visível).
+- 🔴 **O ferimento do Rangel muda de lugar:** ombro esquerdo nos caps. 119, 121 e 122 (artéria
+  subclávia, cauterizada com ferro de solda) e **abdômen** aqui, com "buraco de bala improvisado".
+- 🔴 **"O maço de chicletes de nicotina vencidos que ele carregava como talismã"** — quarta versão
+  do motivo do cigarro em quatro capítulos, e contradiz o cap. 122, onde o alívio químico é algo
+  "que ele jamais experimentou". Ver a seção sobre o Dante.
+- 🟡 **"Arquivos perdidos de 98"** no delírio do Rangel — bom detalhe, mas a numeração de anos do
+  livro é inconsistente (2089 no cap. 110, "quarenta e sete", "cinquenta e três", "noventa e oito").
+
+## Capítulo 125 — Ressonância
+
+**O melhor capítulo do bloco, e a melhor decisão moral do arco novo.** A escolha entre "a arma
+perfeita que não lembra de nada" e "a pessoa fragmentada" é apresentada em termos de sistema
+operacional, decidida em três falas, e cobrada imediatamente. E os olhos castanhos abrindo é o
+melhor susto do livro desde o cap. 79.
+
+- 🟢 **"O protocolo de autopreservação quer apagar as memórias humanas para salvar os drivers de
+  combate. É lógico. É eficiente."** O vocabulário do vilão aplicado a uma decisão do herói.
+- 🟢 **`ARQUIVO 'JAZZ_BARATO.MEM' CONFLITANDO COM 'PROTOCOL_KILL_V2.EXE'`** — a melhor linha de
+  código do livro, porque o nome do arquivo carrega uma vida inteira.
+- 🟢 **"Pare o processo, Valéria."** dito duas vezes, sem justificativa. Certo.
+- 🟢 **"Gabo? Por que está tão escuro? A gente perdeu o caso?"** Melhor momento de horror emocional
+  da obra.
+- 🟢 **A sirene analógica: "gritando com pulmões de ferro sobre a cidade morta."**
+- 🟢 **"A energia não voltou. A *Ordem* voltou."** Melhor fecho do bloco.
+- 🔴 **SEM FRONTMATTER.**
+- 🟡 **"O único artefato que restara de sua mãe"** — o Colar de Sol é da Helena, e no cap. 107 ele já
+  era "âncora". Continua sem ter aparecido antes do cap. 107 em 106 capítulos.
+- 🔵 **"Nível de bateria: 12%"** — bom relógio novo. Cobrar.
+
+## Capítulo 126 — Frequência Fantasma
+
+**Capítulo de fuga com a melhor cena de crueldade involuntária do livro.** O protagonista agredindo
+verbalmente a máquina que fala com a voz da mulher morta — e recebendo "isso dói, Gabo" de volta —
+é a coisa mais desconfortável que a obra produziu, e está certa.
+
+- 🟢 **"Você é um chassi de combate Série-Z com um erro de indexação. Você é código." / "Isso dói,
+  Gabo."** Melhor par de réplicas do bloco.
+- 🟢 **"A pele artificial era morna. O detalhe o enojou."**
+- 🟢 **"Lubrificante ótico, Gabo disse a si mesmo, apenas fluido."** A negação como mecanismo de
+  defesa, mostrada e não explicada.
+- 🟢 **"Se vocês vão discutir o relacionamento, façam isso depois que sairmos do alcance da
+  artilharia."** O Rangel ganhou timing cômico e ele funciona.
+- 🟢 **O mapa de papel**, os morteiros "fechando a tampa" e "melhor ser esmagado por pedra do que
+  processado pela Aeterna".
+- 🔴 **SEM FRONTMATTER.**
+- 🔴 **Título duplicado:** o cap. 109 também se chama "Frequência Fantasma". Renomear um dos dois
+  (é a segunda duplicata do livro — ver "A Convergência" nos caps. 96 e 103).
+- 🟡 **"Chassi de combate Série-Z"** — a Aria é Série-Z aqui e os processadores são "série-K" no
+  cap. 123, e a pistola do Rangel é "Série-K" no 119. Padronizar a nomenclatura.
+- 🔵 **"As Catedrais de Pedra", Nível 5, "ninguém vai lá desde a Fundação."** Boa promessa de
+  locação. Registrar.
