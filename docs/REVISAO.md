@@ -5441,3 +5441,88 @@ vai sedar ninguém"* — que é a resposta definitiva às propostas de descarte 
 - 🔵 **"Pressionei minhas duas mãos — a de carne, inteira, e o toco cicatrizado"** — se o toco não
   tem prótese aqui, onde está a garra industrial que ele usou no 212 e 213? **Folha de personagem,
   item urgente.**
+
+## Capítulo 218 — O Ar Limpo
+
+**Empata com o 214 como melhor capítulo do livro, e resolve o motivo condutor de toda a obra.**
+Depois de setenta e sete ocorrências, a alucinação não é vencida por dor: **é vencida por um lugar
+sem cheiro nenhum**. *"Meu cérebro não tinha nada com que construir a mentira."* Isso é o pagamento
+que o arco inteiro devia, e ele é perfeito — porque não é vitória, é **anestesia por vácuo**.
+
+- 🟢 **"Um silêncio construído, projetado, pago caro. Um silêncio que custou dinheiro."**
+- 🟢 **"Nada lá de fora entrou aqui. Nunca." / "Significa que nós somos a primeira contaminação."**
+  **Melhor troca do livro.** Inverte a posição moral dos protagonistas em duas falas.
+- 🟢 **"Como se houvesse um segundo coração alojado ali, menor e mais raivoso que o primeiro."**
+- 🟢 **"Não limpo — liso."** / **"Aquele corredor branco me pareceu obsceno."**
+- 🟢 **"Pela primeira vez desde que desci, meu pai não estava fumando dentro da minha cabeça."** /
+  **"Como um homem que descobriu tarde demais o que era descanso."**
+- 🟢 **"Deixa eu ter isso." / "Eu não estou impedindo. Estou registrando."** A Val em duas linhas.
+- 🟢 **"A antiga Val teria olhado três vezes, teria feito uma piada sobre eu ser lento, teria xingado
+  o corredor por ser branco demais. Essa versão apenas media."** **O luto pela Valéria, enfim
+  articulado.** Guardar.
+- 🟢 **O choro do Elias pelo ar limpo.** **A melhor cena emocional do livro**, e o gatilho é o oposto
+  do horror: uma coisa boa. *"Faz muito tempo que ninguém chora perto de mim por um motivo bom."*
+- 🟢 **"Tudo que eu sei dizer sai como lâmina, e não era hora."**
+- 🟢 **"Do jeito que se faz quando você espera que alguém leia aquilo daqui a quinhentos anos."**
+- 🟢 **"A memória não apodrece."** Epígrafe pronta para o volume.
+- 🟢 **"Cuidado perpétuo é terminologia funerária."** **A virada de gênero do livro inteiro:** a
+  megacorporação de biotecnologia começou como cemitério. Retroativamente perfeito — "Aeterna"
+  sempre foi nome de funerária, e o leitor nunca reparou.
+- 🟢 **"Todo o inferno que eu atravessei começou como uma promessa de bom gosto."**
+- 🟢 **"Cem caixões de luxo esperando ocupantes que nunca chegaram (...) ou que nunca foram
+  destinados a ser pessoas."** E a contagem que para em 83 por causa da luz. **Suspense clássico,
+  executado com precisão.**
+- 🟢 **"Ela está acordada aí dentro."** e a última linha. **Melhor gancho da obra.**
+- 🔴 **"Sessenta anos de espera"** (218) contra **"setenta e dois anos"** (214) e **"sessenta e um
+  anos"** da placa, no mesmo par de capítulos. **Três idades para a mesma instalação.**
+- 🔴 **"Eu trabalhei quatorze anos em manutenção"** — o Elias tem **vinte e dois anos** (cap. 204).
+  Começaria aos oito. E ele diz ter ficado **"catorze meses"** trancado, enquanto o 193 sugere
+  desde o colapso (**dois anos e meio**, cap. 204). **Três números do Elias, três problemas.**
+- 🟡 **"Nos últimos meses"** e **"meses de fumaça fantasma"** — o arco 179–218 se passa em **dias**,
+  não meses (a febre, o sangramento contínuo, os relógios da Val). Ver a linha do tempo.
+- 🔵 **"O Gamemaster usando o rosto do meu pai como máscara de festa"** — ótima frase de recapitulação,
+  e é a primeira vez em quarenta capítulos que os vilões anteriores são nomeados. **Mais disto no
+  fecho.**
+
+## Capítulo 219 — Cuidado Perpétuo
+
+**O melhor capítulo de revelação que este livro poderia ter.** Ele responde "por que tudo isso
+aconteceu" com a resposta mais assustadora possível: **um problema imobiliário**. Não houve vilão
+fundador, não houve ideologia — houve um passivo contábil. E o texto tem a disciplina de deixar o
+leitor sentir o horror sozinho.
+
+- 🟢 **"Não foi sono. Foi dispensa."** / **"Me viu, me classificou e me arquivou."** Caracterização
+  da Vance em duas frases, e ela **não fala uma única palavra no capítulo**.
+- 🟢 **"Ela tinha passado a mesma temporada dormindo em lençóis limpos."** A injustiça formulada como
+  contabilidade.
+- 🟢 **"Porque papel não é hackeável. (...) Você quer que uma coisa dure sessenta anos, você escreve
+  num papel bom e tranca num cofre."**
+- 🟢 **"O problema não era a morte. Era o espaço."** / **"Um contrato de cuidado perpétuo vendido sem
+  lugar onde cumprir o cuidado é uma dívida infinita."** **A melhor ideia do livro inteiro.**
+- 🟢 **"Sai mais barato manter vivo o pedaço da pessoa que pensa do que manter inteiro o pedaço que
+  apodrece."** O horror em linguagem de planilha.
+- 🟢 **"Não era invenção. Era o produto original. Ele foi um cliente, sem ter assinado nada."**
+  **Recontextualiza o trauma do protagonista em uma frase**, e é pior do que qualquer explicação
+  anterior. Excelente.
+- 🟢 **O memorando da Vance.** *"O protocolo é indefensável (...) recomendo que se prossiga em
+  escala."* **A melhor caracterização de vilania do livro** — competência moral intacta, usada para
+  calcular o crime perfeito.
+- 🟢 **"Anotando corretamente que era um abismo, e recomendando um mergulho profissional."**
+- 🟢 **"Baía Cinzenta não foi destruída por um gênio do mal. Foi destruída por um estagiário
+  aplicado."** **Frase da obra.** E resolve o Krell melhor do que qualquer origem trágica faria.
+- 🟢 **"MORETTI, D. — ADMISSÃO ANO 41 — CONTRATO NÃO ASSINADO — MANTER INDEFINIDAMENTE."** O último
+  gancho é uma **etiqueta datilografada**, e é mais violento que qualquer monstro do arco.
+- 🟢 **Capítulo inteiro sem uma única ocorrência do ritual da dor** — e é o melhor do bloco. Segunda
+  prova prática (a primeira foi o 203).
+- 🟡 **A cronologia precisa de uma tabela antes de publicar.** Neste capítulo: fundação há 61 anos,
+  jazigos proibidos no "ano dezenove", sócios mortos "entre os anos vinte e trinta", Vance entra
+  "doze anos depois", Moretti admitido no "ano 41", Lázaro-droga "sessenta anos depois". Some-se o
+  documento de **1922** (cap. 214) e os "setenta e dois anos" de isolamento. **Há pelo menos duas
+  contagens incompatíveis rodando ao mesmo tempo** (anos absolutos e anos-desde-a-fundação).
+  Escolher uma e converter tudo.
+- 🟡 **"Meu pai passou quinze anos em um tanque"** e **"quinze anos tentando entender"** — checar
+  contra a idade dele (40–45, cap. 204) e os "trinta e quatro anos de polícia" (214). **A aritmética
+  do protagonista não fecha em nenhum dos três capítulos.**
+- 🔵 **A Vance está acordada e consciente desde o 218** e não faz nada no 219. Correto
+  dramaticamente — mas restam **14 capítulos**. Se ela é a antagonista final, a abertura do berço
+  precisa vir logo.
