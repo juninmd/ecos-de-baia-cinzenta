@@ -3319,3 +3319,70 @@ terceiro seguido com a mesma estrutura interna.
   recurso é bom e está gasto. Cortar duas das três ocorrências (142, 144) e manter a do 143, que é
   a única em que a alucinação quase mata alguém.
 - 🟡 **"Sensores heterocromáticos"** — quinta cor/descrição dos olhos dela em oito capítulos.
+
+## Capítulo 145 — Sangue nas Dobradiças
+
+**Boa ideia central, e a melhor imagem temática do bloco.** A porta exigir sangue *porque o banco de
+dados corrompeu* — o leitor só consegue mais reconhecer "o formato biológico básico de plaquetas" —
+transforma um puzzle de porta trancada numa cobrança póstuma da corporação.
+
+- 🟢 **"A Aeterna Corp, mesmo morta, ainda exigia sua cota de sangue."** Melhor última linha do bloco.
+- 🟢 **"A sepse não estava apenas devorando o inspetor; estava se alimentando do tempo deles."**
+- 🟢 **"Duzentos mililitros para saturar a esponja de leitura oxidada."** O preço é numérico e o
+  personagem faz a conta de quem pode pagar (não o Rangel, sangue séptico; não a Val, é a única que
+  opera teclado). A decisão é fundamentada, não heroica.
+- 🟢 **"Só preciso de dois minutos sem ter que hackear a porra da gravidade."**
+- 🔴 **SEM FRONTMATTER.**
+- 🟡 **Sétima versão da infância:** "madrugadas gastas **no apartamento**, fumaça de cigarros baratos
+  **encobrindo hematomas e garrafas vazias**". Agora há alcoolismo. Ver a seção sobre o Dante.
+
+## Capítulos 146 e 147 — O Preço da Passagem / O Peso do Ar
+
+**Os dois capítulos mais repetitivos do livro, e o ponto em que o arco trava.** Ambos têm boas
+frases isoladas, mas executam a **mesma cena** — corredor, cheiro, alucinação, esmagar a ferida,
+Aria propõe descartar o Rangel, Gabo recusa — e essa cena já tinha sido feita nos caps. 135 e 141.
+
+### 🔴 A proposta de descartar o Rangel acontece QUATRO vezes
+
+| Cap. | Formulação da Aria | Resposta do Gabo |
+|---|---|---|
+| 135 | "A eutanásia é a opção lógica" | "Nós não otimizamos pessoas" |
+| 141 | "Regras são construções sociais" | "Se você não gosta da matemática, recalcula" |
+| 146 | "A moralidade é uma variável irrelevante" | "Foda-se a sua matemática" |
+| 147 | "Vocês morrerão por uma causa estatisticamente nula" | "A gente carrega os nossos" |
+
+A primeira vez (135) é excelente. A segunda (141) ainda funciona, porque ela **cede recalculando**.
+A terceira e a quarta não acrescentam nada e **desfazem** a concessão do 141 — a personagem volta ao
+ponto de partida sem que nada tenha mudado. **Cortar as ocorrências dos caps. 146 e 147.**
+
+### 🔴 O ritual da dor acontece SEIS vezes em seis capítulos
+
+Caps. 142, 143, 144, 145, 146 e 147 têm todos o mesmo parágrafo: cheiro de fumaça → náusea →
+apertar/esmagar a ferida → clareza. É o melhor recurso de caracterização do arco e está **queimado
+pelo uso**. Manter no 143 (onde a alucinação quase o mata) e no 140 (onde a dor real vence a
+imaginária), e cortar as outras quatro.
+
+### Do que vale a pena manter
+
+- 🟢 **"Construíra portas para resistir a cercos nucleares. Agora, resistia à própria passagem do
+  tempo."** (146)
+- 🟢 **"Como olhos cansados piscando no escuro."** (146)
+- 🟢 **"Sua programação atual não via a perda de sangue como um estado que exigisse assistência,
+  apenas mais um fator de ineficiência a ser catalogado."** (146)
+- 🟢 **"Se a gente fizer isso, a gente não é diferente deles. Não somos diferentes do Taxidermista
+  ou do Dante."** (146) — é a melhor formulação da recusa; **é esta que deve sobreviver ao corte.**
+- 🟢 **"Como o esôfago de um leviatã metálico morto."** (147)
+- 🟢 **"Valéria recuou meio passo, como se a simples presença de Aria fosse tóxica."** (147)
+- 🟢 **"Ampolas cuja cor do líquido interno sugeria qualquer coisa, menos algo medicinal."** (146)
+
+### Outros problemas
+
+- 🔴 **Os dois SEM FRONTMATTER**, com resumos de 5 a 8 linhas que contam o capítulo inteiro.
+- 🔴 **Oitava versão do trauma:** no 146 e 147 a origem da alucinação passa a ser **o legista fumando
+  no corredor do necrotério da Bia** — não mais a infância. É a terceira origem diferente em três
+  capítulos (142: chaminés industriais; 143: incêndio na casa; 144/145: apartamento da infância).
+- 🟡 **A sepse do Rangel tem agora o quarto prazo**: "falência hepática incipiente" (147) contra
+  "180 minutos" (141), "não vê depois de amanhã" (131) e "estágio crítico" (146). **Definir uma
+  contagem e mantê-la visível.**
+- 🟡 **O arco parou de avançar há seis capítulos.** Entre o 141 e o 147 o grupo sobe um poço e abre
+  duas portas. Compactar 142–147 em dois capítulos resolveria o problema de ritmo do último terço.
