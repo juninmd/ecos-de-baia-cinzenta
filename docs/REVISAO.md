@@ -3738,3 +3738,56 @@ deficiência pode ter numa narrativa: ela não é superada nem compensada — **
 - 🟡 **"Braços amputados"** (l. 20) e **"cotoco queimado"** (l. 53) no mesmo capítulo. A dúvida
   mãos-destruídas × braços-amputados persiste desde o cap. 158.
 - 🟡 **Frontmatter duplicado.**
+
+## Capítulo 163 — O Fosso de Aço
+
+**Capítulo de transição com a melhor cena de colapso psíquico do arco.** A alucinação finalmente é
+tratada como **ataque real** — "a mente quebrou sob o silêncio da ascensão", ele não consegue
+respirar, tosse em seco, e a fumaça imaginária corta o oxigênio de verdade. É a única vez em vinte
+capítulos em que o recurso avança em vez de repetir.
+
+- 🟢 **"Quebrou sob o silêncio da ascensão."** A causa é a **ausência** de estímulo — sem inimigo,
+  sem ruído, sem tarefa, a cabeça vira o inimigo. Melhor observação psicológica do arco.
+- 🟢 **"Uma mortalha espessa e cinzenta enchendo seus pulmões com cinzas."**
+- 🟢 **"O estalo foi surdo. A dor, absoluta."**
+- 🟢 **"Com a frieza impassível de um obelisco de silício."** e o cálculo da **autodestruição
+  progressiva do líder sem qualquer julgamento moral** — a Aria como testemunha clínica do vício.
+- 🟢 **"A degradação dos tecidos nervosos acelerará o choque sistêmico."** É a primeira vez que o
+  livro diz, tecnicamente, que **o ritual está matando o protagonista**. Isso deveria ter sido dito
+  dez capítulos antes, mas chega e é bom.
+- 🟢 **"Do açougue de carne do Taxidermista para um cofre corporativo de concreto."**
+- 🟢 **"Não subestime o desespero de um parasita sem energia."**
+- 🔴 **Décima primeira versão da alucinação:** *"o odor azedo que empesteava **o escritório de seu
+  pai, Dante**"*, e "a noite em que sua vida desmoronou". Duas páginas depois do cap. 162 dizer o
+  mesmo, e três depois de o 159 atribuir o cigarro ao **pai da Bia**. **A convergência para o Dante
+  nos caps. 162–164 sugere que a versão do 159 (pai da Bia) é o desvio — mas então o cap. 131
+  ("ele nem fumava") precisa ser reescrito.** Escolher e aplicar.
+- 🟡 **Frontmatter duplicado.**
+
+## Capítulo 164 — O Cofre de Concreto
+
+**Boa mudança de ambiente, e a melhor decisão de ritmo do bloco.** Depois de vinte capítulos de
+carne, lodo e sangue, um **cofre estéril** — silêncio projetado para absorver som, poeira intocada
+desde o colapso, gaiola de Faraday completa — é exatamente o contraste de que o arco precisava.
+
+- 🟢 **"Um silêncio acústico, opressor, projetado para absorver som e segredos."** Melhor abertura
+  do bloco.
+- 🟢 **"Poeira cinza e fina, intocada desde o colapso."** e **"parece um túmulo."**
+- 🟢 **"Clamando por dedos que não existiam mais."** A dor de membro fantasma continua sendo o
+  detalhe mais bem observado do arco.
+- 🟢 **"A Aeterna projetou este nível para resistir a um holocausto termonuclear. É um cofre
+  estéril." / "Então nada entra e nada sai." / "Não tenha tanta certeza."**
+- 🟢 **"Eles convergiam para um núcleo central invisível de onde estavam."** A arquitetura como
+  pista — o detetive lendo o prédio.
+- 🟢 **"Onde há energia, há respostas. E, provavelmente, armadilhas."**
+- 🟢 **"O domínio puro do silício esquecido."** Boa promessa de mudança de gênero: sai o horror
+  corporal, entra o thriller de arquivo.
+- 🔴 **Décima segunda versão:** *"O cheiro do velho. **A lembrança do escritório de Dante o
+  enojava visceralmente.**"* Terceiro capítulo seguido atribuindo o cigarro ao Dante.
+- 🟡 **"Miranda"** é citado como quem poderia ter guardado algo ali. Ele morreu no cap. 73, voltou
+  como voz no 79, como rosto na árvore no 95, e como ciborgue no 101–103. **Se ele está vivo neste
+  arco, o livro precisa dizer; se não, a menção precisa sair.**
+- 🟡 **"O pulso EMP"** aparece como objetivo da missão pela primeira vez. Até aqui o objetivo era
+  chegar ao Taxidermista. Introduzir um alvo novo numa linha de diálogo, sem cena, enfraquece os
+  dois.
+- 🟡 **Frontmatter duplicado.**
