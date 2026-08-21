@@ -1670,3 +1670,78 @@ a última fala desmonta o próprio plano sem cancelá-lo.
   mais assustador do capítulo e o único que ninguém investiga.
 - 🔵 **"Cento e nove estátuas de bronze"** e **"quatro mil corpos"** — números específicos, bons.
   Conferir contra o que o livro já disse sobre as mortes do Dilúvio.
+
+## Capítulo 84 — A Primeira Colheita
+
+**Trigésimo quarto capítulo excepcional, e o melhor capítulo de horror-conceito da obra.** A escolha
+de não matar ninguém é o que torna a cena insuportável: trezentas pessoas vivas, aquecidas,
+alimentadas, com a pupila ajustando. E a dedução — "não é biomassa que ela quer, é processamento" —
+transforma o desastre atual em consequência direta da vitória do cap. 72.
+
+- 🟢 **"A mensagem foi enviada. Foi entregue. Não foi lida."** A melhor forma possível de datar uma
+  catástrofe.
+- 🟢 **"Devolve comida, oxigênio e temperatura. Tudo o que a gente sai de casa às seis da manhã para
+  conseguir."** A tese do livro, dita por quem só entende de corpos.
+- 🟢 **"Ela não inventou esse modelo de negócio. Ela leu."** Amarra o arco novo ao cap. 64 e
+  transforma a Aeterna em causa póstuma. Melhor conexão de longo prazo da obra.
+- 🟢 **A raiz que grita e faz as outras recuarem** — "a primeira informação útil do dia" é
+  exatamente como um detetive registraria aquilo.
+- 🟢 **"Não era ele quem estava triste."** Melhor última linha do arco até aqui.
+- 🟡 **O trem suspenso a três centímetros do trilho desligado** é apresentado como impossibilidade e
+  abandonado. Ou é pista (a coisa sustenta massa), ou é ruído. Decidir.
+- 🟡 **"Trezentos e poucos"** no cap. 83, "trezentas e poucas" aqui, "trezentos" depois. Fechar o
+  número — o livro é bom em precisão numérica e aqui afrouxa.
+- 🔵 **"O Sol Negro"** dito pelas trezentas gargantas prepara o cap. 85 perfeitamente. Manter esse
+  encadeamento de um capítulo nomeando o seguinte.
+
+## Capítulo 85 — O Sol Negro
+
+**Trigésimo quinto capítulo excepcional.** A esfera funciona porque é feita de inventário — dois
+ônibus, laje com azulejo colado, meio outdoor sorrindo — e não de descrição vaga. E a explicação da
+Nise ("fotossíntese ao contrário", energia virando ordem virando informação) é a melhor
+pseudociência do livro porque parte de uma equação real.
+
+- 🟢 **"Ela está comendo a luz."** Uma esfera daquele tamanho sem um único ponto de brilho é a
+  imagem mais eficiente da obra.
+- 🟢 **"A cidade tinha aprendido a ficar em silêncio. Era a única coisa que ela tinha aprendido no
+  ano inteiro."** Melhor frase do capítulo, e a mais amarga do livro.
+- 🟢 **"Eu tive medo o tempo inteiro porque estava dando certo demais, e olha só do que era o
+  medo."** Paga integralmente o cap. 75. Melhor colheita de plantio a dez capítulos de distância.
+- 🟢 **O floco que não derrete: absorve.** E a mão guardada no bolso "para ninguém ver a mancha" —
+  o protagonista contaminado sem uma linha de exposição.
+- 🟢 **As cento e nove estátuas escurecendo** — a prefeitura envergonhada de cinquenta e três sendo
+  literalmente engolida pelo que enterrou. Fecha o cap. 83.
+- 🟡 **"Não adianta nada, mas coloquem assim mesmo"** é ótimo, e imediatamente depois o texto mostra
+  que não adianta mesmo. Escolher um dos dois.
+- 🟡 **A Aria "sendo sobrescrita"** é a informação mais importante do capítulo e chega por relato da
+  Val, de joelhos, em cinco linhas. Merece cena própria.
+- 🔵 **O pulso de setenta e poucos** aparece pela terceira vez (fungo, esfera, coração). Se é a
+  assinatura do organismo, ótimo — só garantir que o leitor perceba que é sempre o mesmo número.
+
+## Capítulo 86 — Simbiose
+
+**Trigésimo sexto capítulo excepcional, e o melhor salto temporal do livro.** Três meses depois, o
+mundo novo é apresentado por economia (fruto de energia, cacho valendo um mês de trabalho), por
+cartografia (o nome apagado da base) e por um cachorro que abana o traseiro sem ter atuador para
+isso. Nada é explicado; tudo é usado.
+
+- 🟢 **"Não em sentido dramático: em sentido cartográfico."** A melhor maneira de anunciar o fim de
+  uma cidade.
+- 🟢 **O Garoto.** O melhor personagem novo da obra, criado em nove linhas, e a única fonte de afeto
+  do capítulo. O latido final vale por um parágrafo de reação.
+- 🟢 **"Não era um corpo sem roupa. Era um corpo que não precisava de roupa."** Resolve em uma linha
+  um problema que a ficção erra sempre.
+- 🟢 **A cicatriz de cesárea preservada.** "Alguma coisa naquele processo respeitava cicatriz" é o
+  detalhe mais perturbador do capítulo, porque é gentil.
+- 🟢 **"Vocês têm cópia. Eu tenho a conta."** A melhor formulação do que o protagonista é, e a
+  justificativa definitiva para o livro existir. E ela paga a lista do cap. 75 — com os nomes agora
+  completos (Duda, Éder).
+- 🟢 **"Você não vai, porque você tem medo de descobrir que eu estou falando a verdade." / "Gabo não
+  respondeu, porque a segunda parte era verdade."** O antagonista vence a discussão, e o livro
+  deixa que vença.
+- 🟡 **"Aquele que Semeia" / "o Pai"** — a terceira designação do mesmo vilão em quatro capítulos
+  (Jardineiro, Pai, Aquele que Semeia). Fixar uma e deixar as outras como variação dos cultistas.
+- 🔵 **A mancha ramificada até o cotovelo** é o melhor relógio narrativo do livro. Cobrar: daqui
+  para a frente ela precisa avançar em cada capítulo, com marcação explícita.
+- 🔵 **"A Canção"** aparece aqui pela primeira vez com maiúscula, mas o infrassom do cap. 82 e o
+  coro do 84 já eram ela. Nomear antes ajudaria o leitor a montar o conjunto.
