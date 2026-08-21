@@ -3567,3 +3567,53 @@ permanente em vez de episódica.
   não pode mais atirar, escalar, escrever no caderno nem apertar o Colar de Sol. **Se os capítulos
   seguintes o mostrarem manejando arma normalmente, esta cena perde todo o valor** — e é a melhor
   do bloco.
+
+## Capítulo 156 — Condutores de Cobre
+
+**Bom capítulo de transição, e a mutilação do cap. 155 é respeitada em cada gesto.** Ele empurra o
+corpo com a lateral dos antebraços, não consegue amortecer a queda, não pega em nada. É exatamente
+a cobrança que eu registrei como promessa no capítulo anterior, e o livro paga logo na primeira
+página.
+
+- 🟢 **"Girou os ombros, usando a lateral dos antebraços para empurrar seu corpo do chão."** e
+  **"incapaz de amortecer a queda sem o uso das mãos."** A consequência permanente está funcionando.
+- 🟢 **"É como tentar dar partida num tanque de guerra ligando na bateria de um relógio de pulso."**
+  Melhor analogia técnica do bloco.
+- 🟢 **"Ela não usou um conector suave; ela desenrolou um conduíte áspero, adaptando brutalmente as
+  entradas."** A máquina se automutila sem registrar isso como custo — bom espelho do protagonista.
+- 🟢 **"Ela estava, literalmente, agindo como o processador central da máquina."**
+- 🟢 **"Você precisa processar. A máquina pilota o trem agora."**
+- 🟢 **"Não havia fumaça. Havia apenas aço, ferrugem, dor crua."** Depois do cap. 155, a alucinação
+  finalmente perde a batalha de forma permanente — e isso é resultado de uma cena, não de repetição.
+- 🟡 **Frontmatter YAML presente, mas o bloco `## Metadados` foi mantido logo abaixo**, duplicando a
+  informação. Encerra a sequência de 36 capítulos sem cabeçalho, mas ainda precisa de limpeza.
+- 🟡 **"O exoesqueleto rangeu"** — o livro voltou a chamar as órteses de exoesqueleto (ver caps. 127
+  e 133). Padronizar.
+
+## Capítulo 157 — A Inércia do Caos
+
+**A melhor cena de ação do arco desde o cap. 143, e a primeira em que a mutilação vira mecânica de
+enredo.** "Gabo não podia segurar uma arma. Ele não tinha mãos" reorganiza a cena inteira: a solução
+precisa vir de física de trem, e a alucinação precisa ser combatida **com o toco**, porque não há
+mais mão para cobrir o rosto.
+
+- 🟢 **"Como unhas colossais num quadro-negro interminável."**
+- 🟢 **"Se você parar para pensar nele, a cidade te engole. Você tem que ser como ela."** A pior
+  coisa que o protagonista podia dizer, e ele diz porque é verdade.
+- 🟢 **O desacoplamento.** Solução limpa e verificável: o freio magnético trava o vagão, o motor sem
+  carga acelera, e os drones vão junto. Física, não força.
+- 🟢 **"Mas ele não tinha mãos para se proteger."** A melhor frase do capítulo — o gesto reflexo que
+  não existe mais.
+- 🟢 **O toco contra o pilar: "a dor irrompeu não como uma faísca, mas como um sol em chamas."**
+  Décima segunda ocorrência do ritual, mas a primeira em que ele **custa mais do que antes** — e por
+  isso é a única do bloco que se justifica.
+- 🟢 **"Pendurada pelo braço cibernético a quilômetros acima do vazio da Necrópole."**
+- 🟢 **"Apenas o cheiro da destruição que o mantinha vivo."**
+- 🟡 **Frontmatter duplicado** (YAML + bloco `## Metadados`), igual ao 156.
+- 🟡 **"A Fúria Silenciosa"** aparece capitalizada como se fosse um conceito estabelecido, e é a
+  primeira ocorrência no livro. Ou se planta antes, ou se tira a maiúscula.
+- 🟡 **"Duzentos metros do nível principal" e "quilômetros acima do vazio"** no mesmo capítulo. A
+  profundidade da Necrópole variou muito ao longo do arco (cap. 131: 120 metros abaixo do mar).
+  Fixar a geografia vertical.
+- 🔵 **"Resta a escalada."** Com as mãos destruídas, escalar é impossível. O capítulo seguinte tem
+  que resolver isso explicitamente — é a melhor oportunidade que o arco tem de cobrar o preço.
