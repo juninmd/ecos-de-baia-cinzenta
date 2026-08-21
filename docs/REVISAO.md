@@ -2532,3 +2532,76 @@ que o livro faz melhor, e a frieza dos números é a reação certa do protagoni
   vez de criar.
 - 🔵 **O retorno do Taxidermista** é o melhor gancho do bloco. Ele não aparece desde o cap. 70;
   garantir que a volta pague os caps. 63–64.
+
+## Capítulo 115 — O Arquiteto da Carne
+
+**Capítulo de nível padrão com o melhor retorno de vilão do arco.** O Taxidermista volta pela voz —
+relógio de bolso balançando nos monitores, "tick-tock, detetive", "tenho novos relógios que precisam
+de ponteiros" — e a revelação de que ele fechou o ciclo (o lixo da cidade vira a luz da cidade) é
+coerente com tudo o que o personagem foi nos caps. 63–70.
+
+- 🟢 **"Tenho novos relógios que precisam de ponteiros."** Melhor ameaça do arco.
+- 🟢 **"Dante queria ordem. Eu lhe dei a perfeição."**
+- 🟢 **"A presença de invasores reduz a eficiência em 0.4%. Solução: Eliminação."** O horror
+  permanece contábil, que é onde o livro é melhor.
+- 🟢 **"Ele está alimentando seu pai com a cidade."**
+- 🔴 **SÉTIMA versão da Aria:** aqui ela tem o **rosto da Bia** e é chamada de *"o fantasma de sua
+  ex-namorada morta"*. No cap. 75.5 a Bia é **esposa**, não ex-namorada, e a Aria tem rosto de
+  criança. **Ver a seção sobre a Aria.**
+- 🔴 **"Buscando o maço de cigarros que não existia"** — o Gabo passa a ser ex-fumante aqui, depois
+  de o cap. 100 dizer que ele **não fumava** e o cap. 73 estabelecer que o Dante nunca fumou. Três
+  posições diferentes sobre cigarro na mesma família.
+- 🔴 **Frontmatter incompleto**, imagem genérica.
+- 🟡 **"Vou terminar o que a enchente começou"** — no cap. 70 o Taxidermista sai de cena vivo e
+  aliado, não numa enchente. Conferir onde ele foi "morto".
+
+## Capítulo 116 — Pressão Crítica
+
+**Capítulo de nível padrão com a melhor decisão moral do arco.** A rede neural úmida — nervos
+trançados com fibra ótica dentro de um duto de manutenção — é a melhor imagem do bloco, e o
+sacrifício do Rangel funciona porque o texto não permite que o protagonista se sinta bem com ele.
+
+- 🟢 **"Ele não está apenas queimando os corpos. Ele está usando os cérebros."** e **"Eles pensam
+  por Dante. Eles sonham a cidade."**
+- 🟢 **"Infinitamente mais eficiente em termos de energia do que o silício."** O argumento do vilão
+  é o mesmo do cap. 64 (intuição humana como mercadoria) — boa continuidade temática.
+- 🟢 **"Destruindo a própria jaula, mesmo que os estilhaços o cortem... eu começo a achar que é sua
+  única qualidade."** Melhor leitura do protagonista feita por um antagonista.
+- 🟢 **"Segure a posição." / "Façam valer a pena, Moretti. Rangel fora."** e a acusação da Val
+  ("você o abandonou") ficando sem resposta. Certo.
+- 🟢 **O cheiro de cigarro que vem de lugar nenhum: "Não havia ninguém. Nunca havia."** Se for
+  alucinação recorrente ligada ao pai, é ótimo — mas precisa ser estabelecido antes.
+- 🔴 **"A androide estava parada no meio do inferno branco"** — a Aria vira **corpo físico
+  androide** aqui, com manto térmico e pulso magnético. Oitava versão. Isso contradiz o cap. 112
+  (alucinação) e o 96 (apagada).
+- 🔴 **Frontmatter incompleto.**
+- 🟡 **"Era a escolha de Sofia, versão hardboiled."** O narrador explicando a própria estrutura, e
+  com uma referência culta que destoa da voz do livro.
+
+## Capítulo 117 — Zero Absoluto
+
+**O melhor capítulo do bloco 109–117.** O Núcleo é a melhor locação do arco (o oposto polar da
+fornalha), a solução volta a ser física e verificável — metal super-resfriado é frágil, e é a força
+cinética, não a penetração, que parte o cano — e o Dante flutuando com olhos brancos e cegos "e
+ainda assim vendo tudo" é a melhor imagem do vilão.
+
+- 🟢 **"A ordem — a verdadeira ordem — é fria."** Melhor formulação do Taxidermista.
+- 🟢 **"O sistema é analógico." / "Então ele fala a minha língua."** O protagonista vencendo por ser
+  obsoleto — a tese do arco, em duas linhas.
+- 🟢 **"Ele não estava conectado a cabos grossos como num filme de ficção científica barato."** O
+  livro recusando o clichê e ganhando com isso.
+- 🟢 **"Eu penso na Espécie." / "Eu sou a represa que segura o dilúvio." / "Você é o dilúvio."**
+  Melhor par de réplicas do bloco.
+- 🟢 **A chantagem ser um *cálculo* e não um blefe.** O vilão que não mente é sempre pior.
+- 🟢 **O micro-tremor na mão da Aria: "uma falha lógica. Uma emoção."**
+- 🔴 **NONA versão da Aria:** *"Eu não matei Beatriz Vargas. Eu a aperfeiçoei."* A Aria passa a ser
+  a **esposa morta convertida**, o que colide com todas as oito versões anteriores. Some-se ao
+  cap. 112 ("filha com a Elena") e ao 69 ("irmã construída"). **Este é o item que mais urge decidir
+  no livro inteiro.**
+- 🔴 **"Você matou Rangel"** — o Rangel não é confirmado morto no cap. 116; ele fica segurando
+  posição. A Val o dá por morto uma cena depois, sem informação.
+- 🔴 **Frontmatter incompleto.**
+- 🟡 **"O Dilema do Bonde"** nomeado explicitamente pelo vilão. O livro normalmente confia no leitor
+  (ver caps. 64 e 91, em que o mesmo dilema aparece sem etiqueta).
+- 🔵 **"Meu ciclo de resfriamento está em 89%"** — bom uso do relógio do cap. 111. Manter a
+  porcentagem visível até o desfecho.
