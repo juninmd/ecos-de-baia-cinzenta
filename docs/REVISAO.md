@@ -2392,3 +2392,71 @@ a única coisa que transforma o personagem de alívio cômico em gente.
 - 🔵 **O Código Morto voltando** é o gancho certo — mas ele foi executado e consumido no cap. 96, e
   o cap. 106 já sugeriu que "pulsava como um vírus antigo em um corpo novo". O livro precisa
   explicar como ele sobreviveu.
+
+## Capítulo 109 — Frequência Fantasma
+
+**Capítulo de nível padrão, funcional como resgate e problemático como continuidade.** O drone
+travado "como mosca presa em âmbar" e o "Alvo... nulo" são a melhor parte; o resto é uma perseguição
+que o livro já fez melhor nos caps. 60 e 108.
+
+- 🟢 **"O mundo não explodiu. O mundo simplesmente travou."**
+- 🟢 **"Vocês estão carregando um farol. O Código Morto brilha na rede como uma supernova."**
+- 🟢 **"Agora é o nosso caixão móvel. E a gente precisa sair dele antes que fechem a tampa."**
+- 🔴 **Parágrafo duplicado:** *"Rangel se lançou para dentro do blindado, agarrando o corrimão"* e,
+  duas linhas depois, *"Rangel saltou para dentro por último."* Resíduo de rascunho.
+- 🔴 **"Rangel olhou para a menina"** — não há menina nenhuma na cena. A Aria morreu no cap. 96.
+- 🔴 **"A *Caronte*, sua escopeta de cano serrado"** — oitava variação, e a terceira vez que a
+  *Caronte* muda de tipo de arma (lançador, escopeta, espingarda de cano serrado).
+- 🔴 **Frontmatter incompleto**, e a imagem aponta para `/cenas/cidade.jpg` em vez do padrão.
+- 🟡 **A Val dirige e hackeia ao mesmo tempo**, com "cabos que entram diretamente no painel", três
+  capítulos depois de sair de um casulo em estado crítico (cap. 105). A recuperação foi rápida
+  demais para o custo que o cap. 95 cobrou.
+
+## Capítulo 110 — Ponto Cego
+
+**Capítulo de nível padrão com a melhor locação nova do livro.** "O Fliperama" — gaiola de Faraday
+feita de malha de chumbo e cobre roubado, forrada de CRT quebrado e cabo de cobre — é o esconderijo
+que este livro merecia, e a batida sincopada no tijolo é a maneira certa de abrir uma porta num
+mundo sem eletrônica.
+
+- 🟢 **A senha é um ritmo batido num tijolo com um vergalhão.** Melhor detalhe do capítulo.
+- 🟢 **"É o que o mapa oficial diz. E é por isso que é o único lugar seguro."**
+- 🟢 **"O que sobrou lá em cima não é polícia. É segurança privada com subsídio estatal."**
+- 🟢 **"A gente só perdeu uma vida. Insira a ficha para continuar."** A mensagem póstuma do Kiko é
+  a melhor coisa do arco novo depois da moeda do Marco.
+- 🔴 **"A voz de Aria sussurrou no fundo da cabeça dele"** — repetido três vezes entre os caps. 110
+  e 111. **A Aria foi apagada no cap. 96**, e o luto por ela é o motor emocional dos caps. 96–98.
+  Se ela sobreviveu, isso é uma revelação e precisa de cena; se não, cortar todas as ocorrências.
+- 🔴 **"A força bruta e calejada do ex-presidiário"** — o Gabo nunca foi presidiário. Ele é
+  detetive/inspetor em todo o livro.
+- 🔴 **"Seu distintivo holográfico"** — no cap. 104 o distintivo do Rangel é explicitamente *"apenas
+  um pedaço de metal fosco"*, sem LED, e isso é o ponto da cena.
+- 🟡 **"Grande Enchente"** — quarto nome para o Dilúvio (ver "Dilúvio", "a Queda", "o Apagão").
+- 🟡 **Numeração de linhas com salto** no arquivo (63 → 68). Conferir se há parágrafo perdido.
+
+## Capítulo 111 — Arquivos Mortos
+
+**O melhor capítulo do arco desde o 106, e a melhor virada de trama do bloco.** A fraqueza do vilão
+é boa porque é **térmica** — o cérebro cozinha dentro do crânio — e porque foi descoberta em papel
+datilografado por um policial que só sabe ler papel. E o Rangel finalmente ganha uma função.
+
+- 🟢 **"Ali, naquele mausoléu de burocracia, ele era o único que sabia ler a língua morta dos
+  arquivos."** A melhor promoção de personagem do arco.
+- 🟢 **"Kiko imprimiu tudo antes que eles pudessem alterar os registros."** Justifica o santuário
+  inteiro e amarra com a Biblioteca do cap. 90.
+- 🟢 **"Essa era a máscara. Ninguém vigia o bobo da corte."**
+- 🟢 **"O deus da máquina precisa tirar sonecas."** e a fraqueza sendo **quarenta minutos por dia**
+  — relógio limpo, verificável, com prazo. Melhor motor de arco desde os "três dias" do cap. 91.
+- 🟢 **"Balas analógicas. Não tem chip para hackear."**
+- 🟢 **"Eu não sou rebelde. Eu sou a Corregedoria. E o Prefeito Moretti está com o mandato
+  vencido."** Melhor fala do Rangel no livro.
+- 🔴 **"Quando Krell o 'matou' pela primeira vez."** O nome **Krell** não aparece em nenhum outro
+  lugar do livro. Ou é personagem cortado, ou é erro. E contradiz o cap. 69, em que o Dante **pediu**
+  ao filho que assinasse o atestado de uma morte forjada — não houve assassino.
+- 🔴 **"Projeto Lázaro"** como nome do experimento no Dante. No resto do livro, "Consórcio Lázaro" é
+  o grupo de investidores (caps. 61, 67, 70) e o experimento é o **Gênesis**. Terceiro uso do nome.
+- 🔴 **Frontmatter incompleto.**
+- 🟡 **"— Mas onde ele dorme? [...] — Ele não se esconde — disse Gabo."** O Gabo faz a pergunta e
+  responde a si mesmo em duas falas seguidas, ambas atribuídas a ele. Uma delas é de outra pessoa.
+- 🔵 **"Trinta anos atrás"** para o caso Gênesis original contra os "sessenta anos" do cap. 95 e a
+  "Fase 1: trinta anos pela água" do cap. 89. Fechar a cronologia do Silas.
