@@ -4302,3 +4302,56 @@ não é vilão nem aliado, **é infraestrutura humana**.
   precisar dele (o ácido resolveu); no 181 ele volta duas vezes. **O 180 mostra que dá para cortar.**
 - 🔵 **"Superfície Pálida"** — nome novo para o destino. Registrar: o arco final precisa dizer o que
   é isso.
+
+## Capítulo 182 — A Superfície Pálida
+
+**Capítulo de transição, e ele faz o serviço com uma imagem forte e uma fala gelada.** A promessa
+do 181 ("Superfície Pálida") é paga aqui, e o pagamento é honesto: **não há nada lá em cima**.
+
+- 🟢 **"O céu se abriu sobre nós como um hematoma putrefato."** Melhor imagem do capítulo.
+- 🟢 **"Esqueletos de prédios que nunca terminaram de ser construídos."** Diz mais sobre o Distrito 4
+  do que qualquer exposição — a periferia nunca foi terminada, não foi destruída.
+- 🟢 **"Olhos azuis, frios como o núcleo de um reator inativo."**
+- 🟢 **"Ajustando parâmetros de expectativa de vida de acordo com suas idiossincrasias
+  neuropsicológicas."** A fala mais cruel do Modo de Segurança até agora, e ela é cruel **sem
+  intenção** — que é exatamente o ponto do arco.
+- 🟢 **"Aquele Fantasma lá embaixo sobreviveu porque não sente mais nada. Eu ainda sinto."** O
+  capítulo transforma o extorsionário do 181 em **contraponto temático**, não em NPC descartado.
+  Boa economia: um personagem de um capítulo vira argumento no seguinte.
+- 🟡 **30ª ocorrência do ritual da dor**, e a terceira em quatro capítulos. Aqui ela é *escalada*
+  (vergalhão moendo o coto, não mais só o punho fechado), o que ajuda — mas o arco 179–183 usa o
+  mesmo recurso quatro vezes em cinco capítulos. **Alternar como o 180 fez.**
+- 🟡 **"Charuto barato"** — quarta variação do produto (charuto / cigarro de cravo / cigarro barato /
+  charuto barato) em dez capítulos. Ver a seção do cigarro: padronizar.
+- 🔵 **"Concentração de dióxido de enxofre 42% acima do limite seguro"** e eles seguem a pé, sem
+  máscara, por vários capítulos. Se o ar mata, precisa haver custo visível (tosse, sangue, tempo
+  limite) ou a ameaça vira ruído numérico.
+
+## Capítulo 183 — Carniça de Metal
+
+**A melhor cena de ação do arco final**, e o primeiro capítulo em muito tempo que fecha com o
+protagonista **escolhendo não matar** — o que reequilibra a queda moral dos caps. 177–180.
+
+- 🟢 **"Cada passo que dávamos na lama oleosa soava como uma confissão."**
+- 🟢 **"Um pêndulo de metal bruto e doloroso que Vasco havia parafusado diretamente na minha carne."**
+  A prótese continua sendo **passivo**, não upgrade. O livro não cedeu à tentação do power-up.
+- 🟢 **"Ela caminhava em linha reta, otimizando energia."** Modo de Segurança mostrado por *marcha*,
+  não por diálogo. É a melhor caracterização da Val-máquina até aqui.
+- 🟢 **O gatilho vem do escapamento do buggy.** Motivar a alucinação pelo ambiente da própria cena de
+  ação — em vez de disparar do nada — é o uso mais elegante do recurso no livro inteiro.
+- 🟢 **"Saí da cobertura não fugindo, mas avançando de encontro ao capô."** / **"O impacto quebrou
+  meus ossos até a clavícula."** A ação cobra preço real e permanente.
+- 🟢 **"Eliminação é opcional, mas recomendada."** → **"Opcional. A gente guarda as balas."** A
+  economia de munição como desculpa para a misericórdia que ele não admite sentir. Ótimo.
+- 🟢 **"Pela primeira vez no dia, não cheirava a fumaça."** Fechamento que amarra o motivo condutor
+  ao ato moral sem explicar nada.
+- 🔴 **"O impacto quebrou meus ossos até a clavícula"** e ele **caminha e luta normalmente nos
+  capítulos seguintes**. Clavícula e braço quebrados são incapacitantes. Ou é hipérbole — e então a
+  frase precisa dizer isso ("senti como se") — ou é lesão, e o 184 tem de carregá-la.
+- 🟡 **"Perna protética"** (cap. 182) / **"o peso da perna de metal"** (aqui) vs. **exoesqueleto de
+  pernas** (caps. 98, 158) vs. **braço protético**. O inventário corporal do protagonista está
+  instável no arco final. **Fazer uma folha de personagem:** o que exatamente é metal nele em 183?
+- 🟡 **"Ascensão de Dante"** — nome do estado do mundo, aparece aqui quase de passagem. Se é o título
+  temático do último ato, precisa ser estabelecido antes com peso; se não é, cortar.
+- 🔵 **Três saqueadores vivos na superfície** com combustível e veículo, num Distrito 4 "morto". De
+  onde vem o diesel? Uma linha resolve.
