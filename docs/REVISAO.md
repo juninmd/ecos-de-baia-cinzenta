@@ -2972,3 +2972,81 @@ cap. 64, e o cheiro de incenso ganhando explicação metabólica é excelente.
   fumava e prometeu parar) e o 124 (chicletes de nicotina). Três capítulos, três posições.
 - 🔵 **"Anticorpos"** como nome dos executores do sistema é bom e coerente com a metáfora
   circulatória. Manter e usar.
+
+## Capítulo 130 — Saturação
+
+**Boa cena de fuga com a melhor imagem do refluxo.** "O estômago da cidade estava regurgitando" e as
+Quimeras sendo dissolvidas pelo próprio fluido que as alimentava fecham o cap. 129 com consequência
+real — o protagonista puxou a alavanca e o preço apareceu na página.
+
+- 🟢 **"O som não era de água. Era de carne sendo mastigada por engrenagens gigantes."**
+- 🟢 **"Era um ácido digestivo. O estômago da cidade estava regurgitando."**
+- 🟢 **"Você é ótimo em fazer o necessário, Gabo. É em *salvar* as pessoas que você falha."** A
+  melhor acusação que a alucinação faz em todo o arco.
+- 🟢 **"A cabeça dele oferecia aquilo como quem oferece um silenciador para a culpa."**
+- 🟢 **"Sua programação de autopreservação não tem um override para suicídio por birra!"** A Val
+  vencendo a máquina pelo argumento da máquina.
+- 🟢 **"Não há hack: apenas uma descarga brutal da própria bateria, fritando o solenóide."**
+- 🔴 **QUARTO sistema de datação:** "Ciclo 15 Pós-Apagão" (aqui) contra "23 de Novembro"
+  (120–127, 131), "2078-11-04" (128–129) e "14/11/2089" (110). E o cabeçalho está **duplicado**:
+  frontmatter YAML com `Personagens Presentes` **e** um bloco de Data/Localização/Personagens
+  visível logo abaixo do título.
+- 🔴 **"Bem-vindo ao cemitério, papai."** A Aria chama o Gabo de **pai** enquanto usa o rosto e a
+  voz da **esposa** dele. É a colisão explícita das duas versões, na mesma linha. Ver a seção sobre
+  a Aria.
+- 🟡 **"Olhos heterocromáticos"** aqui, "castanhos" no cap. 125, "loiro platinado" no 129. A
+  fisionomia dela muda a cada capítulo.
+
+## Capítulo 131 — Necrópole
+
+**Capítulo excepcional — o melhor do livro desde o 95, e escrito em outro nível que os vizinhos.**
+Frases curtas, precisão de ferramenta ("as marcas de picareta eram curtas, de golpe humano"),
+dedução por contagem (241 nichos, 240 cheios, e o vazio está *limpo*), e a melhor revelação de trama
+do último terço: **a Aeterna começou como administradora de cemitério em 1920**.
+
+- 🟢 **"Osso velho, que tem cheiro sim, e é adocicado, e não se parece com nada."**
+- 🟢 **"Ninguém tem paciência para organizar falange."**
+- 🟢 **A contagem dos nichos.** Dedução pura, verificável, feita pelo método que o capítulo nomeia:
+  **"andar, olhar e pensar."**
+- 🟢 **"A primeira coisa que essa empresa comprou nessa cidade foi um depósito de gente que ninguém
+  ia procurar."** Melhor amarração de trama do livro — liga 1920 ao cap. 61 ("necrópole com
+  síndico") e ao cap. 83 (o Memorial sobre o bunker).
+- 🟢 **"Corpo que aprende atalho passa a procurar motivo."** A melhor frase sobre o vício de dor.
+- 🟢 **RESOLVE A CONTRADIÇÃO DO CIGARRO.** Este capítulo estabelece explicitamente que **o Gabo
+  nunca fumou** e que **o pai também não** ("o teu pai ainda fuma dentro da tua cabeça, e ele nem
+  fumava"). É a versão certa, e é compatível com o Zippo do cap. 73. **Usar este capítulo como
+  cânone e corrigir os caps. 100, 105, 115, 121, 123, 124, 127 e 128 por ele.**
+- 🟢 **"A saudade não tem cheiro nenhum."**
+- 🟢 **Rangel dizendo "Marta" sem acordar, "com a entonação de quem responde a uma pergunta."**
+  Melhor momento do capítulo.
+- 🟢 **"Um cartucho." / "Para quatro pessoas." / "Três."** Diz tudo sobre onde eles estão.
+- 🔴 **"Gabo carregou isso por vinte e dois capítulos sem contar a ninguém."** O narrador referencia
+  a **contagem de capítulos do livro** dentro da narrativa. É o mesmo erro do "Part XIII" do
+  cap. 103. **Cortar.**
+- 🔴 **SEM FRONTMATTER** (bloco `## Metadados`).
+- 🔵 **O nicho esvaziado recentemente** é o melhor gancho do bloco. Cobrar.
+
+## Capítulo 132 — Esculturas de Carne
+
+**Bom capítulo de ação com a melhor restrição tática do arco.** O metano proíbe fogo e tiro, então a
+luta é obrigatoriamente de lâmina — e a regra é estabelecida antes, respeitada durante, e quase
+quebrada no fim (as faíscas da ceifadeira). É como se constrói tensão.
+
+- 🟢 **"Se você acender um fósforo aqui, Gabo, nós viramos estrelas." / "Sem fogo. Sem tiros. Apenas
+  lâminas."**
+- 🟢 **A Galeria de Rejeitos.** "O lixo do ateliê do Taxidermista" — os rascunhos de um artista como
+  bestiário. Melhor ideia do capítulo.
+- 🟢 **A placa de cerâmica branca com um sorriso grosseiro de batom vermelho.**
+- 🟢 **"Você é uma torradeira com crise de identidade!"** e, três páginas depois, **"O Gabo que você
+  conhecia morreu com você, Bia."**
+- 🟢 **"Só restava o problema mecânico à sua frente."** O melhor uso da âncora de dor: ela não é
+  masoquismo, é foco tático.
+- 🟢 **"Ele precisa de um hospital, não de uma loja de ferragens."**
+- 🟢 **"Ele estava construindo um exército com as sobras."**
+- 🔴 **SEM FRONTMATTER**, e a "Data In-Game" agora é **"Pós-Colapso da Usina Prometeu (Noite
+  Eterna)"** — quinta forma de datar o mesmo arco.
+- 🟡 **A Aria observa a luta sem participar** e depois reclama da postura dele. Funciona
+  dramaticamente, mas contradiz o cap. 130, em que a autopreservação dela é o argumento decisivo:
+  se o Gabo morrer, ela morre.
+- 🟡 **"Um azul tático, o outro dourado e humano"** — quarta descrição dos olhos dela em quatro
+  capítulos.
