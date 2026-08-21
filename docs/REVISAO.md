@@ -4418,3 +4418,60 @@ hidropônico como *"pulmão doente"* dá ao último arco um alvo físico claro, 
   braço direito. Se há mais de um, precisa estar estabelecido; se não, é erro de digitação.
 - 🔵 **Elevador de carga funcionando** num complexo subterrâneo abandonado sem energia da cidade.
   Uma linha ("o Jardim mantém a rede viva") resolveria e ainda reforçaria a ameaça.
+
+## Capítulo 186 — Raízes de Silício
+
+**"Uma placa-mãe orgânica" é a metáfora que o Jardim esperava desde o cap. 120.** O capítulo entrega
+a peça conceitual que faltava: a praga não quer devorar, **quer processar**.
+
+- 🟢 **"Não era apenas uma fazenda abandonada; era uma placa-mãe orgânica."**
+- 🟢 **"A praga não estava apenas sobrevivendo. Ela estava processando dados."** Vira o gênero da
+  ameaça de horror corporal para horror computacional sem trocar de imagem.
+- 🟢 **"A criptografia é biológica. O firewall é composto de respostas de estresse do córtex cerebral
+  das bio-baterias."** A melhor ideia técnica do livro inteiro. Um firewall feito de sofrimento
+  humano, e a solução é **emular dor** — o que rima diretamente com o ritual do protagonista, sem
+  que o texto precise apontar a rima. **Não aponte. Está perfeito assim.**
+- 🟢 **"Um coração de silício revestido por carne podre."** / **"Como tocar as entranhas de uma besta
+  moribunda."**
+- 🟢 **"O som de ossos quebrando misturou-se com o estalo do silício estilhaçando."**
+- 🟢 **"O inferno nunca acaba. Só muda de andar."** Fecho de capítulo à altura do melhor do livro.
+- 🔴 **"Dentro do fosso da minha clavícula mutilada"** e, no mesmo parágrafo, **"apertava a engrenagem
+  gasta"** — o ferimento do 183 virou uma cavidade com peça mecânica dentro, sem nenhuma cena que
+  explique quando isso foi instalado. **Ou há uma cena faltando, ou a frase está errada.**
+- 🟡 **"*Safe Mode*" em inglês** aqui e no 187, contra **"Modo de Segurança"** em português nos caps.
+  173–185. Vinte capítulos usando o termo traduzido. **Padronizar para o português.**
+- 🟡 **33ª e 34ª ocorrências do ritual, em um capítulo de 25 parágrafos.** Sétimo capítulo seguido.
+  Ver a nota do 185: o recurso está saturado.
+- 🔵 **"Arquivo Executivo"** — alvo novo, nomeado na última linha. Boa entrega, mas é a **terceira**
+  macro-ameaça introduzida em dez capítulos (rede descentralizada → Setor 7 → Arquivo Executivo).
+  Verificar se o arco final tem capítulos suficientes para pagar as três.
+
+## Capítulo 187 — O Arquivo Morto
+
+**O capítulo que faz o ritual escalar de verdade — e por isso justifica a própria existência dele.**
+Duzentos e vinte volts na carne nua porque **socar já não funciona** é a única forma honesta de
+manter esse recurso vivo: a dose sobe, como em qualquer vício.
+
+- 🟢 **"Esfreguei o cotoco na parede, mas a dor da fricção já não era o suficiente."** Explicita a
+  tolerância. É a resposta certa à saturação que venho apontando desde o 180.
+- 🟢 **"Estilhaçada como um espelho sob uma marretada."**
+- 🟢 **"Confortar seria um gasto inútil de processamento."** Definição perfeita do Modo de Segurança.
+- 🟢 **"Dezesseis indivíduos falecidos em configuração *daisy-chain*."** Horror dito em jargão de
+  infraestrutura — a voz da Val a serviço do pavor.
+- 🟢 **"Baía Cinzenta inteira vai virar uma estufa de carne alimentando servidores de silício."** A
+  aposta do último ato, formulada em uma frase.
+- 🟢 **"Nós destruímos o Sentinel e apagamos o wetware no Subnível 2, mas não implodimos a estrutura
+  física."** Excelente: a vitória anterior é auditada e a brecha é **consequência de escolha**, não
+  esquecimento do autor.
+- 🟢 **"A falha não é uma opção matemática."** Melhor réplica do protagonista à Val-máquina no arco.
+- 🟡 **"Taxa de falha acima de oitenta por cento"** numa descida de 45 m — e o capítulo **corta antes
+  da descida**. O 188 precisa cobrar isso; se ele chegar embaixo intacto, os números da Val viram
+  decoração e o leitor para de acreditar neles. **É o teste mais importante do próximo capítulo.**
+- 🟡 **"Cravei as garras na beirada de aço (...) estalou os ossos do ombro"** — 36ª ocorrência, e é a
+  **segunda no mesmo capítulo que acabou de escalar para eletricidade**. Depois dos 220 volts,
+  voltar a socar é anticlímax. **Cortar a segunda.**
+- 🔵 **"Órteses nas pernas"** aqui, **"pernas mecânicas"** no 186, **"perna protética"** no 182,
+  **"exoesqueleto"** no 158. Quatro nomes para a mesma coisa (ou para coisas diferentes?) em trinta
+  capítulos. **A folha de personagem que pedi no 183 é agora item obrigatório.**
+- 🔵 **"Esse lugar fedia a Dante desde o Saguão"** — que Saguão? Não há saguão nos caps. 179–186.
+  Referência órfã.
