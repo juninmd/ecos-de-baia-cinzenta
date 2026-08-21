@@ -4034,3 +4034,53 @@ deixando explícito que a partir dali é o Gabo quem conta. E, se possível, pla
 ele está contando, e quando. O livro já tem o gancho pronto e nunca o usou — **a Dra. Weiss**
 (caps. 62, 63, 81). Se o último terço for o depoimento dele a ela, a virada deixa de ser um
 tropeço e vira a chave da obra.
+
+## Capítulo 173 — Fronteiras de Ferrugem
+
+**Bom capítulo, com a melhor cena de intimidação do livro e a versão mais concreta do trauma.** A
+emboscada é resolvida sem arma e sem golpe: ele ergue o próprio coto e explica o que fez a si mesmo.
+É a única vez em que **a automutilação vira ferramenta social**, e funciona.
+
+- 🟢 **"Um lento arrastar de cadáveres que se recusavam a aceitar a própria decomposição."**
+- 🟢 **"Engrenagens mastigando areia."** e **"o luto por Aria a havia desligado mais rápido do que
+  qualquer pulso eletromagnético."**
+- 🟢 **"Eu fiz isso em mim mesmo, só porque o cheiro dessa cidade me irritou. O que acha que eu vou
+  fazer se não sair do meu caminho?"** Melhor uso do ritual em todo o livro.
+- 🟢 **"Eles não viam um alvo fácil. Viam a loucura encarnada."**
+- 🟢 **A haste de ferro com fiação de cobre "inútil sem a rede"** e os revólveres obsoletos "letais
+  no analógico". O mundo pós-apagão descrito pelo arsenal.
+- 🟢 **A MEMÓRIA GANHA DETALHE VERIFICÁVEL:** *"o carpete felpudo e caro do escritório **da
+  corregedoria**"*, *"eu estava com **doze anos** de novo"*, *"a fumaça enchendo meus alvéolos como
+  cimento líquido"*. É a versão mais concreta em vinte capítulos — **e é a que deve ser adotada**,
+  se a decisão for manter o Dante fumante. **Mas ela é incompatível com o cap. 169.** Ver a seção
+  sobre o Dante: a escolha entre 131+169 e 173 precisa ser feita, e feita uma vez só.
+- 🟡 **Vigésima ocorrência do ritual.** Aqui ela se justifica; nas outras dezenove, não.
+
+## Capítulo 174 — O Açougueiro de Cobre
+
+**Bom capítulo de respiro, e o melhor retorno de personagem secundário do arco final.** Vasco volta
+exatamente como foi apresentado no cap. 123 — clínico, mercenário e útil — e a dívida de "me deve
+uma" é **invertida**: agora é ele quem oferece crédito.
+
+- 🟢 **"A leve trepidação contínua do asfalto... soava como o bater de um coração cansado."** Melhor
+  imagem do capítulo, e um bom sinal de que o detetive continua lendo a cidade pelo som.
+- 🟢 **"Vocês parecem ter sido atropelados pelo Maglev expresso. De novo."** O "de novo" faz o
+  trabalho de dez linhas de história pregressa.
+- 🟢 **"Com a brutalidade eficiente de um mecânico consertando um motor velho."**
+- 🟢 **"A dor física era um botão de reset."**
+- 🟢 **"Ninguém sabe quem está no controle." / "Ninguém está."** A melhor troca do capítulo, e a
+  resposta correta ao que eles fizeram nos caps. 118–119.
+- 🟢 **"Vasco para por um segundo, olha para o rosto pálido dele — e não pergunta mais nada."**
+  Caracterização por omissão, bem feita.
+- 🟢 **"Não havia fumaça. Vasco não permitia cigarros perto de seus tanques de oxigênio. Para mim,
+  era o ambiente mais próximo de um santuário."** Excelente: o alívio é **ambiental**, não
+  psicológico. Primeira vez que o livro dá trégua ao protagonista sem que ele tenha de se ferir.
+- 🟡 **"Vasco, com um visor óptico duplo no olho direito"** — no cap. 123 ele tinha *"metade do rosto
+  substituída por uma placa de cerâmica barata"* e dentes de metal. Não se contradizem, mas o
+  retrato mudou de foco; unificar.
+- 🟡 **"Considerem isso uma dívida"** — a dívida do cap. 123 era **do Gabo para com o Vasco**
+  ("me deve uma"), e ela nunca foi cobrada. Aqui uma segunda dívida é criada sem que a primeira
+  seja mencionada. É uma colheita fácil que está sendo perdida.
+- 🔵 **"Você precisa de uma prótese."** Registrar: se o Gabo ganhar mãos protéticas funcionais nos
+  próximos capítulos, **toda a construção dos caps. 155–173 é anulada**. A melhor saída é a prótese
+  ser ruim, dolorosa e insuficiente — como as órteses do cap. 98.
