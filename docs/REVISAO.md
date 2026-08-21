@@ -4250,3 +4250,55 @@ perder nada — inclusive a melhor cena da obra.
 
 **Mantém-se em aberto apenas um ponto:** o cap. 159 atribui o cigarro ao **pai da Bia**. Essa é a
 única ocorrência, e o mais simples é trocar "o pai de Bia" por "o meu pai".
+
+## Capítulo 180 — A Fome do Abismo
+
+**O melhor capítulo de horror do arco final, e a decisão moral mais dura do livro desde o cap. 139.**
+Os três catadores vivos dentro dos casulos — com os implantes de mercado negro **rasgados e
+integrados à rede** — são a imagem que faltava para dizer que o Jardim voltou. E o capítulo tem a
+coragem de abandoná-los.
+
+- 🟢 **"Como mãos de moribundos implorando por salvação."**
+- 🟢 **"O pior não era o grotesco da fusão carne-metal. O pior era que eles ainda respiravam."**
+- 🟢 **"Um garoto com fios cromados emaranhados no que restava de seu cabelo."** e o gemido que é
+  **"o som do desespero cru, despido de qualquer esperança"**.
+- 🟢 **"A contenção biológica tem precedência sobre a sobrevivência da unidade."** A Val propondo
+  matar civis infectados é a escalada correta do "otimizar o Rangel" (caps. 135–153) — e agora ela
+  não pede permissão por lealdade, **pede por protocolo**.
+- 🟢 **"Valéria não estava mais em casa. Era só o Modo de Segurança falando."**
+- 🟢 **Quebrar o cano de ácido em vez de atirar.** Terceira vez que o protagonista resolve um
+  confronto atacando a tubulação (caps. 60, 81, 180). É assinatura, e continua funcionando.
+- 🟢 **"A fumaça que subiu tinha gosto de enxofre e carne morta. Perfeito. Nada parecido com
+  alcatrão."** O humor mais negro do livro, e ele economiza uma ocorrência do ritual.
+- 🟢 **"Eles estavam mortos, só não haviam percebido ainda."** e **"a misericórdia era um luxo que
+  eu não podia mais bancar."** A degradação moral que eu apontei como não registrada no cap. 177
+  **é registrada aqui**, e pela voz dele. Isso resolve metade da minha objeção anterior.
+- 🔴 **"A mesma biomassa pálida **do capítulo anterior**"** — o narrador referencia a estrutura do
+  livro dentro da narrativa. Terceiro caso (ver "Part XIII" no cap. 103 e "vinte e dois capítulos"
+  no 131). **Cortar.**
+- 🟡 **"O chiado baixo do exoesqueleto atrelado ao meu ombro"** — o exoesqueleto é das **pernas**
+  (caps. 98, 158). A prótese do ombro é outra coisa. Ajustar.
+
+## Capítulo 181 — Pedágio Fantasma
+
+**Bom capítulo, e a melhor invenção de mundo do arco final.** O *Shadowban* — um homem apagado dos
+registros públicos, cobrando pedágio num duto — é o tipo de personagem que o livro cria bem: ele
+não é vilão nem aliado, **é infraestrutura humana**.
+
+- 🟢 **"Ela mastigava o som dos nossos passos e o cuspia de volta como um eco difuso."**
+- 🟢 **"A praga não estava apenas se adaptando; estava nos testando."**
+- 🟢 **"Olheiras que mapeavam uma década de sono ruim e paranoia."**
+- 🟢 **"Não aceito Créditos da Aeterna. O sistema deles derreteu, igual à minha certidão de
+  nascimento."** Melhor fala do capítulo — a economia e a identidade colapsando na mesma frase.
+- 🟢 **"Força bruta não abre travas de titânio de grau corporativo, detetive. Mas sabe o que abre?"**
+- 🟢 **"Sem expressar um pio sobre o fato de vocês dois estarem cobertos de esporos fúngicos."** O
+  extorsionário nota o que os protagonistas não notaram. Boa entrega de informação por terceiro.
+- 🟢 **O pagamento em oxigênio purificado.** A moeda certa para o mundo certo, e ela vem da clínica
+  do cap. 174 — recurso rastreável, não inventado na hora.
+- 🟢 **"A cada transação, um pedaço maior da minha humanidade ficava apodrecendo na escuridão."**
+- 🟡 **"Charuto"** aqui, "cigarro de cravo" no 178, "cigarro barato" no 173. Se a decisão for manter
+  o Dante fumante, **padronizar o produto** — o cheiro é o motivo condutor do arco inteiro.
+- 🟡 **28ª e 29ª ocorrências do ritual.** No 180 o livro conseguiu passar um capítulo inteiro sem
+  precisar dele (o ácido resolveu); no 181 ele volta duas vezes. **O 180 mostra que dá para cortar.**
+- 🔵 **"Superfície Pálida"** — nome novo para o destino. Registrar: o arco final precisa dizer o que
+  é isso.
