@@ -1745,3 +1745,80 @@ isso. Nada é explicado; tudo é usado.
   para a frente ela precisa avançar em cada capítulo, com marcação explícita.
 - 🔵 **"A Canção"** aparece aqui pela primeira vez com maiúscula, mas o infrassom do cap. 82 e o
   coro do 84 já eram ela. Nomear antes ajudaria o leitor a montar o conjunto.
+
+## Capítulo 87 — O Novo Sacerdócio
+
+**Trigésimo sétimo capítulo excepcional, e o melhor capítulo sem o protagonista desde o 58.** A
+chantagem funciona porque é aritmética — oitenta e um por cento do oxigênio, dezenove por difusão,
+quatro horas de reserva — e o vilão é o único da obra cuja motivação o leitor não consegue
+descartar: quatro anos levando café para homens que não sabiam o nome dele.
+
+- 🟢 **"Não é ameaça. É contabilidade."** A frase que resume o livro inteiro, dita pelo lado errado.
+- 🟢 **Jonas grande e Jonas pequeno.** O apelido de plantão vira a coisa mais cruel do capítulo, e o
+  "não me chame de garoto" é o único momento humano da cena — registrado pelo Capitão como dado
+  tático, que é exatamente o que ele faria.
+- 🟢 **"Eu fiquei três semanas sem que ninguém percebesse que eu não tinha ido trabalhar."** Melhor
+  motivação de antagonista da obra.
+- 🟢 **"A única coisa que a Raiz ainda não tem é alguém que saiba dizer não."** Explica por que o
+  protagonista é o alvo sem transformá-lo em escolhido.
+- 🟢 **A escolha do Vilar chegando "numa quinta-feira, sem aviso, sem promotor e sem ninguém para
+  dividir"** e o cheiro de sopa no portão. O capítulo termina sem decisão, e está certo.
+- 🟢 **O olho perdido com álcool e faca, sem anestesia, e a recusa do pano** — caracterização por
+  omissão, do jeito certo.
+- 🟡 **"Cinquenta e cinco anos"** repete a idade do cap. 81 e continua difícil de conciliar com a
+  neta de dezessete do cap. 58 e com "trinta e um anos de corporação". Fechar a idade dele.
+- 🔵 **O Padre Miguel continua desaparecido** e a Catedral dele agora é o trono do inimigo. Se ele
+  não voltar, alguém precisa dizer isso na página.
+- 🔵 **"Duzentas e quarenta pessoas"** — bom número, específico. Cobrar depois: quantas sobram.
+
+## Capítulo 88 — Sintomas de Abstinência
+
+**Trigésimo oitavo capítulo excepcional, e o melhor capítulo íntimo do livro.** A ideia de tratar a
+possessão como **abstinência** — com soro, sono e mentira, e com uma médica que já viu aquilo a vida
+inteira em outra forma — é a melhor decisão de gênero da obra: o sobrenatural é enquadrado por
+alguém que se recusa a tratá-lo como sobrenatural.
+
+- 🟢 **"Ela não está possuindo ninguém: ela está paginando."** A melhor explicação técnica do livro,
+  e a que dá mais medo justamente por ser mundana.
+- 🟢 **"Quando eu volto, eu lembro de tudo que eu falei. Isso é a pior parte." / "Isso é o que eles
+  todos dizem."** A resposta da Nise é o melhor momento do capítulo, porque recusa a excepcionalidade.
+- 🟢 **"Soro, sono e mentira, que é o que eu tenho."**
+- 🟢 **"Cantam sim." E não era mentira, e essa foi a parte que a manteve acordada depois.**
+- 🟢 **"Eu não vou assinar mais um atestado com o sobrenome Moretti nesta vida."** Dá à Nise um
+  motivo próprio, ligado ao cap. 69 (o atestado do Dante). Melhor promoção de personagem secundário
+  da obra.
+- 🟡 **"Quarenta e um mil oitocentos e onze"** contra os **41.226** do cap. 64. Se a diferença é
+  proposital (fragmentos, não instâncias), dizer; se não, unificar.
+- 🟡 **"Um homem de quarenta e dois anos"** — conferir contra a idade do Gabo no resto do livro
+  (o cap. 79 dá quarenta e quatro ao Miranda, "catorze anos de parceria", e o 85 fala em "vinte e
+  seis anos" de céu de Baía Cinzenta).
+- 🔵 **A queda de temperatura e as lâmpadas estourando** são a primeira manifestação física da Aria
+  desde o cap. 74. Continua sem regra e sem custo — o problema estrutural persiste no arco novo.
+
+## Capítulo 89 — Memória Genética
+
+**Trigésimo nono capítulo excepcional, e a melhor revelação do livro.** "A Aeterna não quebrou: ela
+mudou de substrato" reorganiza 89 capítulos sem desmentir um único evento — e a conclusão de que o
+protagonista cumpriu o cronograma do vilão em cada vitória é a coisa mais cruel e mais bem
+construída da obra.
+
+- 🟢 **Consultar o arquivo enfiando a mão cortada na parede** — o método é burro, físico e caro, e o
+  capítulo tem a honestidade de dizer que ele passou quatro noites tentando pensar num melhor.
+- 🟢 **"A mente não roda sem o corpo. Ela é feita de fome, de dor nas costas e de vontade de mijar."**
+  Refuta diretamente a tese do cap. 64 (o upload) e liga os dois arcos numa única discussão.
+- 🟢 **"A gente tem que virar a única coisa da biologia que não sabe morrer: o câncer."** A premissa
+  do arco inteiro em uma frase.
+- 🟢 **"Meus parabéns: você é a última geração."** Melhor fala de vilão do livro.
+- 🟢 **"O nome saiu inteiro sem que ele soubesse de onde tinha vindo, e essa foi a coisa mais
+  assustadora da noite."** O custo da consulta aparece na própria consulta.
+- 🟢 **A mancha agora tem cronômetro explícito** ("algumas semanas"). É o que faltava desde o 86.
+- 🔴 **Silas Vance precisa existir antes.** O nome aparece na lista de personagens de capítulos do
+  primeiro terço, mas se o leitor não o encontrar em cena antes do 89, a revelação máxima do arco
+  cai num personagem que ele não reconhece. Verificar e, se necessário, plantar duas aparições.
+- 🟡 **Marco Moretti "com vinte anos a menos"** no laboratório é uma bomba jogada de passagem: o
+  irmão sabia do Gênesis desde o começo. Isso reescreve a motivação dele em todo o arco 1 e merece
+  mais que uma linha.
+- 🔵 **A Jardineira do cap. 86 tem os olhos do Silas** — se ela é uma extensão dele e não uma
+  pessoa convertida, isso contradiz a cicatriz de cesárea preservada. Esclarecer.
+- 🔵 **"Trinta anos pela água"** e **"sessenta anos"** de espera da gravação. Conferir com a
+  cronologia do Dilúvio e do Apagão.
