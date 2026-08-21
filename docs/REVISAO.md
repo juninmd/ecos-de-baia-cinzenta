@@ -4608,3 +4608,64 @@ biológico do último. Se houver uma capa, é esta cena.
   Coincidência que chama atenção; trocar um dos dois.
 - 🔵 **O fim do Jardim no Setor 7 é só "a fundação começando a desabar".** Restam 42 capítulos: é
   preciso saber já se o Jardim acabou aqui ou se isto foi uma célula entre muitas.
+
+## Capítulo 192 — A Ascensão das Cinzas
+
+**Boa fuga, e a melhor formulação da alucinação em todo o livro está aqui.** O capítulo é curto,
+funcional, e não tenta ser mais do que precisa ser depois do clímax do 191 — decisão de ritmo
+correta.
+
+- 🟢 **"A alucinação não era apenas um cheiro; era uma textura."** e **"as cinzas invisíveis de Dante
+  revestindo meus pulmões, endurecendo como cimento"**. Depois de quarenta ocorrências, o livro
+  finalmente descreve o trauma por dentro em vez de repetir "o cheiro voltou". **Se o autor for
+  cortar ocorrências, esta é a que fica.**
+- 🟢 **"Se a alucinação vencesse, eu afrouxaria as mãos (...). Eu não ia dar a ele essa satisfação."**
+  A luta contra o pai finalmente tem **stakes físicos imediatos**, como no 188.
+- 🟢 **"Um fantasma digital habitando uma casca andante."** Melhor descrição do Modo de Segurança.
+- 🟢 **"A dor foi um choque de desfibrilador em um coração parado."**
+- 🟢 **"Só o ozônio do meu próprio corpo despedaçado."**
+- 🟢 **"Estávamos vivos. No escuro, na sujeira, quebrados. Mas o núcleo do Jardim estava morto."**
+  Fecho enxuto. O livro aprendeu a não explicar a própria vitória.
+- 🔴 **Ele escala dezenas de metros de escada** com o joelho aberto até o osso (191), o braço direito
+  em curto e a perna "quase inútil" — e ainda arromba uma porta blindada a socos. Ver a nota do
+  191: **a lesão do joelho precisa ser reduzida**, ou este capítulo inteiro deixa de ser possível.
+  É a mesma objeção, mas agora ela custa dois capítulos.
+- 🟡 **42ª ocorrência.** Décimo primeiro capítulo seguido. E é a **terceira vez** que a âncora é
+  aplicada ao mesmo joelho destruído — a variação acabou.
+- 🟡 **"Probabilidade de falha em sessenta segundos: 92%"** — mais um número que não se cumpre (eles
+  levam bem mais que sessenta segundos). Ver a nota do 188: o padrão agora é sistemático.
+- 🔵 **"O núcleo do Jardim estava morto"** dito com certeza total, e o 193 abre com o Jardim ainda
+  sendo a ameaça que aterroriza o Elias. Confirmar qual é a verdade — e o 194 precisa esclarecer.
+
+## Capítulo 193 — O Ermitão de Cobre
+
+**O primeiro rosto humano em quinze capítulos, e chega na hora certa.** Depois de 179–192 com duas
+personagens só, um terceiro corpo na cena reoxigena o arco. Elias funciona: não é aliado nem
+inimigo, é **testemunha** — o que dá ao leitor o espelho externo que faltava para medir o quanto o
+protagonista se degradou.
+
+- 🟢 **"Um mausoléu de transformadores gigantes e cabos da espessura de troncos de árvores."**
+- 🟢 **"Um ninho de rato cibernético."**
+- 🟢 **"Ela não contestou. Não havia emoção para ofender."** Uma linha, e a perda da Val dói de novo.
+- 🟢 **O olhar do Elias como espelho:** *"parecendo mais um cadáver reanimado do que um salvador"*.
+  **É o recurso de que o arco mais precisava** — sem um terceiro, o leitor perdera a medida do
+  estrago. Ver se o autor explora isso nos capítulos seguintes; deveria.
+- 🟢 **"Eu não sou bio-bateria! O Jardim não vai me levar!"** Uma fala e o terror do 190 se confirma
+  do lado de fora.
+- 🟢 **"Incrivelmente desprovido do cheiro de fumaça que tanto me aterrorizava."** Detalhe pequeno,
+  e é a primeira vez que o narrador **checa** alguém contra o gatilho. Ótima caracterização passiva.
+- 🟢 **"Não há mais 'para cima'."** A vitória do 191 gera o problema do 193. Causa e consequência
+  bem amarradas.
+- 🟢 **"Sempre há um jeito para cima, Elias."** Boa deixa de arco.
+- 🟡 **"Ritmo cardíaco do sujeito [Gabo]"** — o colchete é notação de rascunho vazada para o texto
+  publicado. **Remover.**
+- 🟡 **43ª ocorrência**, décimo segundo capítulo seguido, e novamente o punho na parede — o degrau
+  mais baixo da escalada, depois de 800 V e do joelho triturado. **Regressão de intensidade.**
+- 🟡 **"Abaixa essa ferramenta antes que eu quebre seus dedos um por um"** dita a um civil apavorado
+  e desarmado de fato. É coerente com a degradação moral (caps. 177–180), mas o capítulo **não
+  registra** que ele passou dos limites. Uma linha de autoconsciência aqui valeria muito.
+- 🔵 **Elias, "trancado aqui desde que os cadáveres começaram a andar"** — quanto tempo? O arco não
+  tem relógio, e um sobrevivente isolado é a melhor oportunidade do livro para **datar o
+  pós-colapso**. Aproveitar.
+- 🔵 **"Chave de fenda sônica"** — tecnologia nova, nome com carga de outra franquia. Considerar
+  outro termo.
