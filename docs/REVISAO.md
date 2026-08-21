@@ -3512,3 +3512,58 @@ arco continua parado.
 purga térmica. Tudo o mais é a mesma cena repetida — e o efeito acumulado é que **o melhor recurso
 do arco (a dor como âncora) e o melhor conflito do arco (a lógica contra a lealdade) chegam gastos
 ao clímax**.
+
+## Capítulo 154 — A Otimização do Abismo
+
+**A melhor cena de ação desde o cap. 143, e o melhor uso do protagonista em dez capítulos.** A
+solução não vem da força nem da máquina: vem do detetive perceber que **a trava é mecânica mas o
+relê é eletrônico** — e é a primeira vez em muitos capítulos que o Gabo resolve alguma coisa
+pensando em vez de sangrando.
+
+- 🟢 **"Cabos pendendo como cipós petrificados na escuridão."**
+- 🟢 **"Não era um alarme ou um rugido: era o compasso lento de pistões hidráulicos esmagando tudo
+  em seu caminho."** A ameaça anunciada por vibração, não por som.
+- 🟢 **Elas escalam as paredes em vez dos cabos.** Detalhe que muda a geometria do perigo.
+- 🟢 **"Hackeia a porra do relê!"** A melhor dedução do bloco, e ela devolve função ao protagonista.
+- 🟢 **A Val pendurada de cabeça para baixo lançando a garra magnética.** Boa coreografia, e o custo
+  (terror declarado, choro depois) está na página.
+- 🟢 **"Sensores biônicos guinchando em dor digital."**
+- 🟢 **"O vazio de Aria era a coisa mais aterrorizante daquele poço. E ela era o único meio de
+  chegar ao topo."** A formulação exata do dilema do arco.
+- 🔴 **SEM FRONTMATTER.**
+- 🟡 **Décima primeira ocorrência do ritual da dor**, e a terceira em que ele aparece **duas vezes**
+  no mesmo capítulo.
+
+## Capítulo 155 — Ferrugem e Plasma
+
+**O melhor capítulo do bloco 145–155, e o único com uma consequência permanente.** A cauterização a
+plasma resolve três coisas de uma vez: salva a vida do protagonista, **destrói as mãos dele para
+sempre**, e encerra a alucinação da fumaça pelo único caminho que restava — tornando a dor
+permanente em vez de episódica.
+
+- 🟢 **"Uma versão diluída e amarga da chuva ácida da superfície, reciclada através de centenas de
+  metros de terra e concreto podre."** A melhor imagem do capítulo, e ela liga o subsolo à cidade.
+- 🟢 **"Gabo não andou para fora da escotilha; ele desabou."**
+- 🟢 **"Minha programação matriz não possui protocolos de anestesia local."** A recusa é técnica, não
+  cruel — e por isso pior.
+- 🟢 **"Queima a porra da fumaça, Valéria. Queima tudo."** A melhor fala do protagonista no arco.
+- 🟢 **"A força de sua agonia fez os motores sintéticos de Aria zumbirem em esforço máximo."** O
+  sofrimento medido pela máquina que o contém.
+- 🟢 **"A dor era pura, absoluta e silenciosa. Era o vazio que ele ansiava."** O livro finalmente
+  nomeia o que o ritual sempre foi: não é foco, **é vício**.
+- 🟢 **"Suas mãos não eram mais ferramentas; eram cotocos endurecidos e carbonizados."** É a
+  consequência permanente que o arco precisava — e ela custa ao protagonista exatamente a
+  ferramenta com que ele resolve tudo.
+- 🟢 **"Ela não conseguia olhar para o que havia feito."**
+- 🟢 **"As unidades pesadas eram uma marreta. Uma distração necessária enquanto eu recalibrava."**
+  O vilão retoma o controle da narrativa e reenquadra dez capítulos de perseguição como irrelevantes
+  — o que é simultaneamente uma boa virada e uma admissão do problema de ritmo.
+- 🟢 **"O pedestal já está pronto."**
+- 🔴 **SEM FRONTMATTER** — encerrando a sequência de **36 capítulos seguidos** (120–155) sem
+  cabeçalho válido.
+- 🟡 **"Vinte e sete minutos e quarenta segundos"** e, quatro parágrafos depois, **"vinte e seis
+  minutos"**. Ajustar.
+- 🔵 **As mãos destruídas mudam tudo daqui para frente.** Registrar como promessa: o protagonista
+  não pode mais atirar, escalar, escrever no caderno nem apertar o Colar de Sol. **Se os capítulos
+  seguintes o mostrarem manejando arma normalmente, esta cena perde todo o valor** — e é a melhor
+  do bloco.
