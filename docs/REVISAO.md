@@ -4985,3 +4985,81 @@ causada e escondida pela corporação. É worldbuilding que também é acusaçã
   um sintoma do mesmo problema.
 - 🔵 **"Ajeitando a mochila nas costas"** — primeira menção a uma mochila do Elias. Se ela existe
   desde o 193, deveria ter aparecido antes (e conter recursos úteis); se é nova, cortar.
+
+## Capítulo 204 — O Despertar da Ferrugem
+
+**Este capítulo é escrito por outra mão — e é o melhor do terceiro livro.** Períodos curtos,
+parágrafos de uma linha, digressões de primeira pessoa com voz própria, quebras com `---`. Depois de
+vinte e cinco capítulos de prosa uniforme, o 204 tem **estilo**. Vale ler os 179–203 de novo à luz
+dele: é este o registro que o arco final deveria ter tido.
+
+- 🟢 **"Uma ilha de luz suja e um oceano de escuro em volta, e o efeito era o de andar por dentro de
+  uma coisa que não tem tamanho."**
+- 🟢 **"Um protesto metálico que voltava das paredes com dois segundos de atraso e me dava a sensação
+  constante de estar sendo seguido por uma versão pior de mim mesmo. Eu odeio esse som. E ele me
+  mantém ancorado, então eu deixo."** Três frases fazem o trabalho que o arco vinha fazendo com
+  parágrafos inteiros.
+- 🟢 **"A dor é o meu santuário. É a única sala da minha cabeça em que ele não entra."**
+- 🟢 **"A dor do ombro sumiu por um instante, o que é a prova de que a dor nunca foi âncora coisa
+  nenhuma: ela é só a segunda coisa mais urgente."** **O livro desmonta o próprio recurso.** Depois
+  de sessenta ocorrências, esta é a linha que as redime todas — e é o argumento mais forte para
+  cortar as repetições e manter esta.
+- 🟢 **"Porque ele reage do jeito que uma pessoa normal reagiria, e eu perdi a régua faz tempo. (...)
+  É a única medida honesta que ainda me sobrou."** **A justificativa narrativa do Elias, finalmente
+  dita.** Isto deveria estar no cap. 193, não no 204 — mas está, e é excelente.
+- 🟢 **"Intervalo regular é passo, Val." / "Correto."** O melhor par de falas do livro. Dedução de
+  detetive em duas linhas, sem exposição.
+- 🟢 **"Não abrindo caminho: comendo caminho."**
+- 🟢 **"Ou está construindo ninho, ou está guardando comida."**
+- 🟢 **"Havia intenção ali. Feia, torta, apressada — mas intenção."** / **"Tinha passado dois anos e
+  meio no escuro se montando."** O melhor monstro do livro, e ele é assustador **por design**, não
+  por descrição.
+- 🟢 **"Uma pausa de trezentos milissegundos. — E as outras três já estão atrás de nós."** Melhor
+  gancho de capítulo da obra.
+- 🟢 **Dados concretos, enfim:** dois anos e meio de pós-colapso, Elias com 22 anos, o protagonista
+  entre 40 e 45. **É a primeira ancoragem temporal e etária em muitas dezenas de capítulos.**
+  Ver a seção dos sistemas de datação: **adotar este.**
+- 🔴 **"Não adianta eu saber que ele NUNCA FUMOU."** Isto ressuscita a contradição que o cap. 178
+  havia resolvido (*"eu nunca fumei... o fantasma do Dante insiste em me transformar no cinzeiro da
+  memória dele"*). **Quarta ocorrência da versão minoritária** (com 131, 169 e 73). Ver a seção
+  "✅ ATUALIZAÇÃO: a contradição do cigarro": **agora são quatro frases a ajustar, não três.**
+- 🔴 **"Saquei a espingarda"** — no cap. 200 o texto diz explicitamente **"a espingarda Caronte que
+  eu já não tinha"**. A arma reaparece sem explicação quatro capítulos depois.
+- 🟡 **"Catorze mil drones"** aqui contra **"dezenas de drones"** no cap. 203, no mesmo galpão, um
+  capítulo antes. Diferença de três ordens de grandeza.
+- 🟡 **"Ombro direito"** consistente aqui — mas o 203 falava do "ombro ileso". Ver a folha de
+  personagem.
+- 🔵 **"Água reciclada três vezes"** e **"desde o Setor 5"** — dois detalhes de logística novos e
+  ótimos. Se houver recursos rastreados (água, munição), **vale uma linha por capítulo**; foi o que
+  o arco 179–203 não teve.
+
+## Capítulo 205 — Colosso de Sucata
+
+**Boa resolução de luta, mas a queda de estilo depois do 204 é gritante** — o capítulo volta à prosa
+uniforme do arco, com os mesmos maneirismos. Lidos em sequência, 204 e 205 parecem de autores
+diferentes.
+
+- 🟢 **"Um monumento grotesco ao descarte corporativo."**
+- 🟢 **"O rangido de engrenagens secas soando como o grito de um animal sendo estripado."**
+- 🟢 **"Um braço pneumático ainda ostentando o logotipo desbotado da Aeterna."** O melhor detalhe do
+  capítulo: a corporação assinou o monstro.
+- 🟢 **"Tão inúteis quanto jogar pedras em um tanque de guerra."**
+- 🟢 **"Então me dê os outros noventa e oito por cento!"** A melhor fala do capítulo, e o modelo de
+  como usar a Val: ela não resolve, **ela redefine o problema**.
+- 🟢 **A solução é o teto, não a arma.** Terceira vez que ele vence atacando a **estrutura** (caps.
+  180, 191, 205). É assinatura consolidada e continua satisfatória.
+- 🟢 **"O ruído das juntas metálicas servindo como meu tambor de guerra."** O corpo quebrado virando
+  isca deliberada.
+- 🔴 **As outras três criaturas somem.** O 204 fecha com *"as outras três já estão atrás de nós"* — o
+  melhor gancho do livro — e o 205 **nunca as menciona**. A luta é contra uma só e o capítulo
+  termina em silêncio. **É o furo mais grave do bloco:** ou elas aparecem, ou o gancho do 204 tem
+  de mudar.
+- 🟡 **"87% de corrosão"** — **quarta** aparição do 87% no arco (185, 191, 194, 205). Vira tique
+  numérico.
+- 🟡 **62ª e 63ª ocorrências**, ambas mecânicas (forçar o ombro na quina, forçar a órtese). Depois da
+  desconstrução que o 204 fez do próprio recurso, **repeti-lo sem ironia no capítulo seguinte
+  desperdiça o ganho**.
+- 🟡 **"Escopeta"** aqui, **"espingarda"** no mesmo capítulo e no 204. Padronizar.
+- 🔵 **"Campos magnéticos residuais"** mantendo o colosso unido — boa ideia, e ela **sugere** a
+  solução certa (pulso eletromagnético, desmagnetização) que o capítulo não usa. Se o autor quiser
+  uma variação para a luta contra as outras três, está plantada aqui.
