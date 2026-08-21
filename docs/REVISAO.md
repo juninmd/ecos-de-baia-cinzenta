@@ -4542,3 +4542,69 @@ o texto tem a disciplina de não comentar.
   184–187.
 - 🔵 **"Protocolo de autenticação nível diretor"** — a Val já teve credenciais da Aeterna. Se elas
   morreram com o colapso, vale uma linha; se não, ela deveria ter tentado isso primeiro.
+
+## Capítulo 190 — O Relicário de Silício
+
+**O melhor cenário do livro inteiro.** "Uma catedral de servidores que virou abatedouro" com as
+mentes digitalizadas dos fundadores da Aeterna sendo **torturadas em loop para quebrar senhas** é a
+imagem que amarra as duas metades da obra: o capitalismo de dados do primeiro ato e o horror
+biológico do último. Se houver uma capa, é esta cena.
+
+- 🟢 **"Um brilho febril, da cor de carne esfolada sob neon defeituoso."**
+- 🟢 **"Fundidos ao metal como relíquias profanas."**
+- 🟢 **"Dezenas de consciências engarrafadas do velho mundo sendo torturadas em loop para reescrever
+  senhas e protocolos operacionais mortos."** **A melhor frase do arco final**, e a vingança
+  temática perfeita contra os magnatas da Aeterna. Nenhum comentário do narrador é necessário — e o
+  texto acerta em não fazer nenhum.
+- 🟢 **"Decodificando terabytes de dados biológicos por segundo usando a atividade neural
+  parasítica."**
+- 🟢 **A solução vem do cenário, não de um artefato.** *"Os tubos de refrigerante corriam paralelos
+  aos cabos de força."* Ele não acha uma bomba: **lê o prédio**. É detetive até o fim, e isso paga
+  a profissão dele lá do primeiro ato.
+- 🟢 **"Ações de expurgo direto falharão estatisticamente." → "Foda-se a estatística."** O par de
+  falas que resume a relação dos dois no último ato.
+- 🟢 **"Hora de podar esse jardim."**
+- 🔴 **"As cicatrizes da instalação grosseira do meu braço esquerdo"** — a prótese é o braço
+  **direito** em todos os capítulos desde o 179. Erro simples, corrigir.
+- 🔴 **Oitocentos volts.** No cap. 187 eram 220 V com o mesmo equipamento; a prótese não ganhou fonte
+  nova. E 800 V atravessando o tórax **para o coração** não é dor purificadora, é parada cardíaca.
+  **Ou baixar o número, ou não passar a corrente pelo peito.**
+- 🟡 **"A autoeletrocussão danificou seus nós neurais periféricos de maneira irreversível"** — dano
+  irreversível anunciado e **nunca cobrado**. Se é irreversível, o cap. 192 em diante precisa de uma
+  perda concreta (sensibilidade, controle fino, um dedo que não responde).
+- 🟡 **40ª ocorrência.** Décimo capítulo seguido.
+- 🔵 **"Sintéticos descartados"** entre os doadores — sintéticos alimentam bio-baterias? Se a energia
+  é bioelétrica, isso precisa de uma linha. E é a única menção deles no arco.
+
+## Capítulo 191 — O Batismo da Ferrugem
+
+**O clímax do arco do Setor 7, e ele funciona.** Destruição por sabotagem térmica em vez de tiroteio
+é coerente com um protagonista sem arsenal, e o preço pago é o mais alto do livro.
+
+- 🟢 **"Um sino fúnebre desafinado."**
+- 🟢 **"Os alarmes do Jardim não eram sirenes eletrônicas. Eram uivos."** e o zumbido vindo **"dos
+  pulmões necrosados"**. Melhor detalhe sensorial do capítulo.
+- 🟢 **"Os corpos suspensos começaram a amolecer, desabando de seus cabos enquanto as conexões
+  neurais torravam."**
+- 🟢 **"Era nojento, tóxico, mas era autêntico. Não havia fumaça de charuto ali."**
+- 🟢 **"Pela primeira vez em muito tempo, minha mente estava quieta."** O único momento de paz do
+  último terço, comprado com o corpo destruído. **Fecho correto para o arco.**
+- 🟢 **"Ela não auxiliava na destruição, mas também não a impedia. Ela apenas avaliava."** A Val em
+  Modo de Segurança definida em uma linha.
+- 🟢 **A poça de sangue que ele deixa para trás.** O texto não diz que ele está morrendo; mostra.
+- 🔴 **"As engrenagens do joelho mastigaram minha própria pele, rasgando carne até o osso"** — e ele
+  segue destruindo três pilares, corre para a evacuação e (ver 192) continua andando. **Esta é a
+  escalada que finalmente ultrapassou o crível.** Perna aberta até o osso não caminha. Ou a lesão é
+  menor, ou o cap. 192 abre com ele sendo carregado.
+- 🔴 **"Reverbarando"** — *reverberando*.
+- 🟡 **41ª ocorrência, e a mais gratuita de todas:** ele para no meio de um sabotagem cronometrada
+  para **triturar a própria panturrilha**. Depois de 220 V (187) e 800 V (190), a escalada virou
+  competição consigo mesma. **Este arco precisa de um capítulo em que a âncora simplesmente falhe** —
+  ele se machuca e a alucinação continua. Sem isso, o recurso é sempre vitória garantida, e vitória
+  garantida não gera tensão.
+- 🟡 **"Ruptura iminente em 120 segundos"** e ele destrói mais dois pilares, atravessa o salão e
+  evacua. O relógio é anunciado e ignorado. **Ou marcar o tempo, ou não dar número.**
+- 🟡 **"Comprometida em 87%"** — o mesmo 87% do cap. 185 ("eficiência de transferência: 87%").
+  Coincidência que chama atenção; trocar um dos dois.
+- 🔵 **O fim do Jardim no Setor 7 é só "a fundação começando a desabar".** Restam 42 capítulos: é
+  preciso saber já se o Jardim acabou aqui ou se isto foi uma célula entre muitas.
