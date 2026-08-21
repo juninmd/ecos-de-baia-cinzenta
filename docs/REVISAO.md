@@ -2460,3 +2460,75 @@ datilografado por um policial que só sabe ler papel. E o Rangel finalmente ganh
   responde a si mesmo em duas falas seguidas, ambas atribuídas a ele. Uma delas é de outra pessoa.
 - 🔵 **"Trinta anos atrás"** para o caso Gênesis original contra os "sessenta anos" do cap. 95 e a
   "Fase 1: trinta anos pela água" do cap. 89. Fechar a cronologia do Silas.
+
+## Capítulo 112 — O Peso da Memória
+
+**Capítulo de nível padrão com a melhor revelação de trama do arco e a pior gestão da Aria do
+livro.** O *Kill Switch* térmico ser uma **coleira desenhada pelo Marco** transforma a fraqueza do
+cap. 111 em tragédia familiar, e "ele ressuscitou o próprio pai já com a corrente no pescoço" é a
+melhor frase do bloco.
+
+- 🟢 **"Isso não é erro policial. Isso é engenharia familiar."**
+- 🟢 **"Ele ressuscitou o próprio pai já com a corrente no pescoço. Mas perdeu o controle da Árvore
+  antes de puxar a coleira."** Excelente — o vilão do arco está preso numa cela que o irmão do
+  protagonista construiu.
+- 🟢 **"Nunca mudaram os cilindros de ignição manual de emergência. Protocolo de segurança em caso
+  de falha de IA."** A melhor solução analógica do arco, e ela vem do personagem certo.
+- 🟢 **"Eu vou *requisitar* um veículo oficial para uma operação em andamento."**
+- 🔴 **SEXTA origem da Aria:** *"Aria morreu no Dilúvio. Era sua filha com a Elena."* Some-se às
+  cinco anteriores (filha enterrada, coletada, construída-irmã, lembrança na mente, dispersada).
+  E a Elena volta a ser a mãe da criança, colidindo com a Helena do cap. 106. **É o problema
+  estrutural número um do livro.**
+- 🔴 **A cena se contradiz sozinha.** A Val acaba de dizer que a Aria não existe e é alucinação — e
+  quatro parágrafos depois o texto escreve *"— concluiu **Aria**"*, como fala atribuída, numa
+  conversa com três pessoas. Escolher: ou ela é alucinação (e nunca tem fala atribuída) ou não é.
+- 🔴 **"Viktor Krell"** ganha nome completo aqui, e continua sem existir em nenhum outro capítulo
+  (ver cap. 111). Ou ele é plantado antes, ou some.
+- 🔴 **Frontmatter incompleto**, imagem fora do padrão.
+- 🟡 **"A chuva nunca parava"** — quinta reincidência. A frase é boa e é exatamente o oposto do que
+  o cap. 97 conquistou.
+
+## Capítulo 113 — Carga Viva
+
+**Capítulo curto e eficiente, com a melhor sequência de suspense do arco.** A prensa parando a dez
+centímetros da cabeça, com o scanner dizendo "carga inerte" do lado de fora, é ação bem construída:
+custo declarado, decisão tomada, e o resultado é ganhar três segundos e nada mais.
+
+- 🟢 **"Cheirava a cobre, amônia e algo doce... Cheirava a morte recente."**
+- 🟢 **"Leitura negativa. Carga inerte."** O terror pela confirmação burocrática.
+- 🟢 **"Gabo percebeu que estava segurando a mão dela com tanta força que seus dedos estavam
+  brancos."** A relação com a Val dita sem uma palavra.
+- 🟢 **"A 'Nova Alvorada' não era apenas limpeza social. Era canibalismo industrializado."**
+- 🔴 **Parágrafo duplicado quase literalmente:** *"Gabo fechou os olhos por um segundo. A 'Nova
+  Alvorada' não era apenas limpeza social. Era canibalismo industrializado."* aparece duas vezes
+  seguidas, com uma variação de meia linha. Resíduo de rascunho.
+- 🔴 **Frontmatter incompleto.**
+- 🟡 **A Aria aparece "equilibrando-se com a facilidade de um giroscópio"** e depois o texto diz que
+  "a voz não vinha de lugar nenhum". O capítulo alterna entre tratá-la como presente e como
+  alucinação em três parágrafos.
+- 🟡 **"Dos dias em que limpava cenas de crime para pagar o aluguel"** — biografia nova do Gabo,
+  incompatível com "quinze anos de homicídio" (cap. 83) e com o filho do Comissário do cap. 75.5.
+
+## Capítulo 114 — A Linha de Montagem
+
+**Capítulo de nível padrão com o melhor cenário do arco.** A fornalha geotérmica — esteiras
+infinitas, "cada corpo gera 120 kWh", o triturador dois segundos atrás deles — é o horror econômico
+que o livro faz melhor, e a frieza dos números é a reação certa do protagonista.
+
+- 🟢 **"Cada corpo gera aproximadamente 120 kWh. O suficiente para manter um quarteirão de luxo
+  iluminado por uma noite."** A pior frase possível, no melhor sentido.
+- 🟢 **O drone de esterilização travando no vômito da Val.** Detalhe perfeito: a ameaça não os
+  detecta como intrusos, mas como **sujeira**.
+- 🟢 **"Onde havia corpos sendo processados, o velho monstro estaria perto."** Boa maneira de trazer
+  o Taxidermista de volta.
+- 🔴 **Duas falas seguidas atribuídas à Valéria**, sendo que a segunda responde a primeira: *"— Meu
+  Deus... — Valéria limpou a boca"* e *"— É eficiente — Valéria observou"*. A segunda é do Gabo ou
+  de outra pessoa.
+- 🔴 **"Gabo tocou o *Caronte*"** (masculino) e, sete linhas depois, **"a escopeta *Caronte*"**
+  (feminino, e outro tipo de arma). Nona variação.
+- 🔴 **Frontmatter incompleto.**
+- 🟡 **"Jardineiros" agora é o nome de um drone modelo J-400.** Sexto uso reciclado de um nome já
+  consagrado (ver "Silêncio", "Convergência", "Lázaro"). O livro está reaproveitando vocabulário em
+  vez de criar.
+- 🔵 **O retorno do Taxidermista** é o melhor gancho do bloco. Ele não aparece desde o cap. 70;
+  garantir que a volta pague os caps. 63–64.
