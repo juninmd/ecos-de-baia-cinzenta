@@ -5300,3 +5300,84 @@ setenta ocorrências do ritual, é a primeira vez que existe uma **voz contrári
   probabilidade da Val é desmentida. Ver a nota do 188.
 - 🔵 **"A febre da infecção subia"** — primeira menção de infecção, e o 195 previa **sepse**. Se a
   infecção é real, ela precisa de consequência nos capítulos finais; se não, cortar.
+
+## Capítulo 214 — O Coração Estéril
+
+**O melhor capítulo do livro inteiro.** Terceiro no registro do 204/209, e é o único do arco final
+que faz as quatro coisas ao mesmo tempo: prosa de autor, revelação estrutural, avanço de trama e
+o momento humano mais forte da obra (a promessa ao Elias). **Se o autor quiser saber qual é a voz
+certa deste romance, é esta.**
+
+- 🟢 **"Não é queimação, não é pontada. É caco de vidro circulando."**
+- 🟢 **"Eu andei os primeiros doze metros de queixo erguido, porque o Elias estava atrás de mim."**
+- 🟢 **"Aquela ausência de gosto que só existe onde alguém pagou por ela."**
+- 🟢 **"Então por que tem aquecimento?" / "E o garoto, sem saber, tinha acabado de fazer a única
+  pergunta que importava naquela sala."** **A melhor virada de mistério do livro**, e ela é dada ao
+  Elias — que é exatamente para isso que ele foi criado (cap. 204). Construção impecável.
+- 🟢 **"Como uma deusa fria voltando ao próprio altar."** / **"Porque um humano hesita antes de
+  encostar em porta de dados desconhecida, e ela não hesitou."**
+- 🟢 **"O gatilho não precisa de semelhança. Às vezes é a ausência de cheiro que abre a porta, porque
+  o vazio é exatamente o formato do buraco."** **A melhor frase sobre trauma do livro**, e ela
+  finalmente **explica** por que o gatilho dispara em toda parte — resolvendo, de uma vez, a
+  objeção de arbitrariedade que eu vinha registrando desde o 180.
+- 🟢 **"É assim que eu deixo a minha assinatura nos lugares hoje em dia."**
+- 🟢 **"Não existe santuário que me salve de mim mesmo. Existe só o preço, e eu tenho pagado
+  adiantado."**
+- 🟢 **"Ele não desviou o olhar dessa vez, e isso foi pior."** / **"No dia em que eu tiver uma
+  explicação que preste."** **A melhor cena de personagem do terceiro livro.** O Elias deixa de ser
+  medidor e vira dívida.
+- 🟢 **"A diferença entre um lugar que sobreviveu e um lugar que foi salvo."** Frase de detetive
+  pura, e é o motor de toda a revelação.
+- 🟢 **"Trabalho manual. Executado com ferramenta comum. Por pessoas."** Horror por procedimento.
+- 🟢 **"Porque não há dado nenhum aqui."** / **"Não é um arquivo: é uma plataforma (...) esperando
+  receber alguma coisa que ainda não chegou."** **A revelação mais assustadora da obra**, e ela é
+  feita inteiramente de ausência.
+- 🟢 **"As rotas que partem daqui não sobem. Elas descem."** e a árvore invertida.
+- 🟢 **"O ano em que essa cidade foi fundada em cima de um pântano por gente que sabia que era
+  pântano."** / **"Alguém estava construindo o porão do inferno antes de existir a casa."**
+  **Recontextualiza os 213 capítulos anteriores**: a corrupção não é da Aeterna, é do terreno.
+- 🟢 **"As linhas verdes atravessaram os meus dedos sem resistência nenhuma, como sempre."** O
+  "como sempre" carrega todo o luto do livro.
+- 🟢 **"O Elias fica" (...) "Não fica não. O Elias vai."** e **"a régua humana desta história"**.
+- 🔴 **"Trinta e quatro anos de polícia"** — o cap. 204 dá a idade dele como **"entre os quarenta e
+  os quarenta e cinco anos"**. Trinta e quatro anos de carreira o poriam na corporação **aos oito**.
+  **Erro aritmético grave, e num capítulo excelente.** Provavelmente "vinte e quatro" ou a idade
+  precisa subir para uns 58.
+- 🟡 **A cronologia do hub precisa de uma passada:** "setenta e dois anos" sem contato, "anterior à
+  Aeterna em três anos", documento de **1922**, e o isolamento ocorreu **após o expurgo da Antiga
+  Torre**. Se o documento é de 1922 e o isolamento é de 72 anos atrás, o presente é ~1994 e a
+  Aeterna nasceu em 1925 — o que faz dela uma corporação **septuagenária**, e nada no livro sugere
+  isso. **Montar a linha do tempo em uma tabela antes de publicar.**
+- 🟡 **72ª ocorrência.** Vigésimo nono capítulo — mas é a mais bem escrita de todas, e tem
+  **consequência** (o olhar do Elias, a promessa). Manter esta; cortar dez das anteriores.
+- 🔵 **"Oitenta quilos de força num braço que aguenta trinta"** — ótimo detalhe concreto. **Mais
+  números assim (e menos porcentagens de sobrevivência).**
+
+## Capítulo 215 — Os Alicerces do Inferno
+
+**Capítulo de transição correto**, que gasta bem o capital do 214 e devolve o Elias à decisão com
+uma boa fala. A prosa volta ao registro padrão do arco — a queda depois do 214 é sensível.
+
+- 🟢 **"Pesado como chumbo líquido."**
+- 🟢 **"Este salão estéril não é um santuário. É uma tumba que os vermes esqueceram de cavar."**
+  Melhor fala do capítulo, e é o argumento que convence o garoto.
+- 🟢 **"Não é esgoto, civil. É a raiz."**
+- 🟢 **"O silêncio artificial do salão pareceu esmagá-lo mais do que a ferrugem lá fora."** Boa
+  motivação psicológica para a mudança de ideia dele.
+- 🟢 **"A escotilha se abriu como um olho de aço."** / **"Um fosso descendo pela garganta do mundo."**
+- 🟢 **"O ar era limpo. Seco. Um túmulo perfeitamente conservado."**
+- 🟢 **"O metal em volta não tinha um único arranhão."** Detalhe que confirma o isolamento do 214 sem
+  repetir a explicação.
+- 🟢 **"Senhoras primeiro."** O humor voltando na beira do abismo. Boa nota final.
+- 🟢 **"Esse era o acordo repulsivo que fiz com meu próprio corpo."**
+- 🔴 **"O Taxidermista"** — nome jogado sem preparação nenhuma no arco final. Se é o vilão dos livros
+  anteriores, precisa de **uma frase** de reancoragem; se é novo, precisa de mais que uma menção
+  solta. Do jeito que está, o leitor não sabe se deve reconhecer o nome.
+- 🟡 **"Projeto Gênesis"** — mesma observação: terceira macro-entidade nomeada em dois capítulos
+  (infraestrutura embrionária, Projeto Gênesis, Taxidermista). **Restam 18 capítulos.** Escolher
+  quais serão efetivamente pagos.
+- 🟡 **73ª ocorrência.** Trigésimo capítulo.
+- 🟡 **"Doze vírgula quatro por cento"** — mesmo número do cap. 195 ("sobrevivência em movimento
+  contínuo: 12,4%"). Trocar.
+- 🔵 **"Minha perna quebrada"** — no 209 o problema era graxa congelada; no 191, carne até o osso;
+  aqui é fratura. **Folha de personagem.**
