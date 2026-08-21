@@ -4859,3 +4859,64 @@ tem de mudar de natureza, não de intensidade.**
 - 🔵 **"Fui arremessado para trás, batendo a nuca"** + "dano neurológico não descartado" — terceira
   lesão grave anunciada e não cobrada (ver 190 e 191). O arco acumula danos permanentes que nunca
   chegam. **Escolher um e torná-lo real.**
+
+## Capítulo 200 — O Poço do Abismo
+
+**Capítulo redondo de armação de sequência**, e ele contém a melhor troca de falas do arco final:
+*"O indivíduo civil?" / "Não. O medo dele pesa mais."*
+
+- 🟢 **"A poeira centenária de um túmulo vertical."**
+- 🟢 **"O Jardim tinha chegado até aqui, infectando o sistema nervoso da cidade morta."**
+- 🟢 **"Sempre tem um 'no entanto'."** Humor de detetive intacto sob 200 capítulos de ruína.
+- 🟢 **"O medo dele pesa mais."** A melhor fala do capítulo, e ela **caracteriza os três de uma vez**:
+  ele lendo o Elias, ele protegendo o Elias, e ela incapaz de processar a metáfora.
+- 🟢 **"Se o degrau ceder comigo, eu tenho a perna mecânica pra tentar travar. Se ele cair, você
+  segura."** Ele vai na frente e põe a Val de rede de segurança do civil. **A resposta implícita à
+  proposta de "isca orgânica" do 199** — e desta vez o leitor vê a escolha. Ótimo.
+- 🟢 **"Estava descendo. Não de elevador: rastejando pelas paredes."** Melhor virada de suspense do
+  arco.
+- 🟢 **"A mão direita procurando instintivamente pela espingarda Caronte que eu já não tinha."**
+  Detalhe de memória muscular, e o único eco do arsenal dos livros anteriores em vinte capítulos.
+  **Mais disso.**
+- 🟢 **A ordem contraditória ao Modo de Segurança** ficando sem resposta porque o pulso interrompe.
+  Boa economia: o conflito é plantado sem gastar cena.
+- 🔴 **"A perna ESQUERDA (...) presa à junta carbonizada"** aqui, contra **"a agonia disparou pela
+  minha perna DIREITA"** no 198 e **"a coxa"** logo abaixo neste mesmo capítulo. Ver a folha de
+  personagem: **quatro membros, todos com lado instável.**
+- 🔴 **"A dor era meu âncora"** — concordância (*minha âncora*).
+- 🟡 **"Mil metros"** (Elias) vs. **"nível quarenta e dois"** e **"quinhentos metros"** (cap. 201).
+  A profundidade do poço muda de escala três vezes em dois capítulos. **Fixar um número.**
+- 🟡 **57ª e 58ª ocorrências**, e a segunda é declaradamente gratuita: *"soquei a própria perna
+  avariada só para sentir a onda de choque"*, sem gatilho nenhum antes. **Depois do teto atingido no
+  199, isto é regressão.**
+- 🔵 **"Dez minutos" para a interceptação** — quinto relógio do arco. Ver o padrão registrado no 196.
+
+## Capítulo 201 — Degraus de Sangue e Ferrugem
+
+**A melhor cena de suspense vertical do livro**, e o capítulo em que o protagonista finalmente
+**salva** alguém em vez de coagir. A queda do Elias amarrada ao ritual — segurá-lo é o que gera a
+dor que dissolve a alucinação — é a melhor fusão de trama e trauma da obra inteira.
+
+- 🟢 **"Um lodo escorregadio que parecia respirar."**
+- 🟢 **"Não por bravura, mas porque se Elias travasse, alguém precisava empurrá-lo para cima."**
+- 🟢 **"Só olha pro próximo maldito degrau."**
+- 🟢 **"A bioluminescência do Jardim no poço os está estimulando."** O cenário alimentando o inimigo:
+  detalhe pequeno, ameaça grande.
+- 🟢 **"Corroída até a espessura de um lápis."** / **"Aranhas do tamanho de cães."** / **"Coroado por
+  uma placa craniana de drone de entrega."** A última é a melhor imagem do capítulo: o Jardim
+  reciclando a **logística** da cidade.
+- 🟢 **"Pisa no canto. O centro vai ceder, mas o pino na pedra ainda segura."** Competência técnica
+  concreta — é o detetive resolvendo, não o ciborgue socando. **Mais deste registro.**
+- 🟢 **A dor que salva vem de segurar outro homem.** *"Fechei as mãos com uma força insana (...) E
+  foi perfeita."* **A única ocorrência do ritual em todo o arco que é simultaneamente altruísta e
+  funcional.** Se o autor cortar 40 das 58, esta é a que deve ficar como clímax do motivo.
+- 🟢 **"Com um empurrão hidráulico quase gentil."** O advérbio faz todo o trabalho: o Modo de
+  Segurança vazando um resquício.
+- 🟡 **"Quase arrancava meus braços das órbitas"** — órbitas são dos olhos. *Do encaixe / da junta*.
+- 🟡 **"A alucinação do CIGARRO foi dizimada"** — e o mesmo capítulo abriu com **"charuto caro"**.
+  Sexta e sétima variações do produto, novamente **dentro do mesmo capítulo**. Ver a seção do
+  cigarro.
+- 🟡 **"Coronhada da órtese"** — coronha é de arma de fogo; uma órtese de perna não tem coronha.
+- 🟡 **59ª e 60ª ocorrências.** Décimo nono capítulo seguido.
+- 🔵 **Trinta entidades anunciadas no 200**, e só uma ataca. As outras 29 chegam depois que eles
+  saem. Funciona como pressão, mas o número perde valor — **ou usar mais duas, ou dizer menos.**
