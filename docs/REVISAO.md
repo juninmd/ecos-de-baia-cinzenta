@@ -3448,3 +3448,67 @@ percebe até o silêncio.
 - 🟡 **"A gente enterra os nossos"** e, na frase seguinte, o narrador informa que ele não vai
   enterrar. O contraste é bom, mas o corpo é simplesmente abandonado sem uma decisão na página.
 - 🟡 **Sétima ocorrência do ritual da dor** em nove capítulos.
+
+## Capítulo 151 — O Paradoxo da Eficiência
+
+**Bom capítulo de luto contido, e ele resolve parcialmente a lacuna que apontei no cap. 150.** A Val
+tirar do bolso do cadáver **o chaveiro em forma de máquina de escrever** — "um último fragmento
+analógico no inferno digital" — é o memorial certo, e é melhor do que qualquer discurso.
+
+- 🟢 **"A morte não tinha som no Setor de Purga."**
+- 🟢 **"A eliminação de sessenta e oito quilos de biomassa inerte."** A morte convertida em unidade
+  de carga é o ponto exato em que a Aria deixa de ser aliada difícil e passa a ser obscena.
+- 🟢 **"É isso que a morte de um homem bom significa pra você agora? Um ajuste de peso?"**
+- 🟢 **O chaveiro da máquina de escrever.** Amarra com o Rangel datilografando na Olivetti (cap. 105)
+  e com "ele era o único que sabia ler a língua morta dos arquivos" (cap. 111). Excelente.
+- 🟢 **"Se a gente morrer, a escolha dele não valeu nada."** A razão certa para seguir em frente.
+- 🔴 **SEM FRONTMATTER.**
+- 🔴 **A lista continua sem ser mencionada.** O gesto do chaveiro é bom, mas o caderno do Gabo — o
+  objeto que define o personagem desde o cap. 75 e onde ele anotou "Valéria Cruz — pendente" no
+  cap. 95 — não aparece. **O nome do Rangel tem que entrar na lista, na página.**
+- 🟡 **Erro de numeração de linhas no arquivo** (salto de 31 para 34). Verificar se há parágrafo
+  perdido.
+
+## Capítulos 152 e 153 — O Frio da Lógica / O Vazio Térmico
+
+**Dois capítulos de obstáculo bem escritos e estruturalmente idênticos aos quatro anteriores.** O
+frio é uma boa variação de ambiente depois do calor do cap. 140, e as duas soluções — atravessar o
+rotor antes da rotação, colar as mãos numa alavanca criogênica — são fisicamente honestas. Mas o
+arco continua parado.
+
+### O que funciona
+
+- 🟢 **"Os dutos de exaustão primários eram artérias congeladas."**
+- 🟢 **"O sangue quente, o pouco que restava, sibilava contra o gelo."**
+- 🟢 **"Eu não estou avariada. Meu núcleo lógico foi limpo de rotinas emocionais redundantes... O
+  'fator humano' quase nos levou à extinção três vezes."** A melhor autodefesa da Aria, e ela é
+  **verdadeira** — o livro dá razão a ela desde o cap. 150.
+- 🟢 **"Não para verificar se estavam bem, mas para calcular a distância e ajustar o ritmo ideal."**
+- 🟢 **"A máquina tinha razão. Apenas a máquina tinha razão agora."** A frase mais desconfortável do
+  bloco.
+- 🟢 **"Nacos de pele haviam ficado colados na alavanca."** O custo físico continua sendo cobrado
+  com precisão, e é a melhor coisa deste trecho do livro.
+- 🟢 **"Variável aceita. A preservação do líder tático é necessária."** Ela ajuda — sempre pelo
+  motivo errado. Consistente e bem mantido.
+- 🟢 **"Não era um refúgio, era apenas mais um estágio no matadouro."**
+
+### O problema estrutural, agora em números
+
+- 🔴 **O ritual da dor aparece pela 8ª, 9ª e 10ª vez** (caps. 151, 152, 153) — são **dez capítulos
+  seguidos** com o mesmo parágrafo: cheiro de cigarro → náusea → machucar a mão → clareza. Em três
+  deles (152, 153) ele aparece **duas vezes no mesmo capítulo**.
+- 🔴 **A discussão sobre descartar o companheiro chega à 7ª e 8ª ocorrência** (149, 151, 153) — e no
+  153 o alvo passa a ser a **Valéria**, o que seria uma boa escalada se não fosse a oitava repetição
+  do mesmo argumento com as mesmas palavras ("não somos melhores que o Taxidermista ou o Dante").
+- 🔴 **Nove capítulos de deslocamento vertical** (145–153) sem uma revelação de trama, sem um
+  personagem novo e sem uma decisão que mude o rumo. A morte do Rangel (150) é o único evento.
+- 🔴 **Os dois SEM FRONTMATTER**, e os metadados dos caps. 149–153 perderam até o campo "Resumo" —
+  o formato do bloco varia de capítulo para capítulo.
+
+### Recomendação editorial
+
+**Compactar 142–153 (doze capítulos) em quatro.** A espinha é boa e cabe: (1) subida pelo poço e os
+*Scarab*; (2) a porta que cobra sangue; (3) o Setor de Purga e a morte do Rangel; (4) o frio e a
+purga térmica. Tudo o mais é a mesma cena repetida — e o efeito acumulado é que **o melhor recurso
+do arco (a dor como âncora) e o melhor conflito do arco (a lógica contra a lealdade) chegam gastos
+ao clímax**.
