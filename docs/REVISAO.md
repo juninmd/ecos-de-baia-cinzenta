@@ -5117,3 +5117,72 @@ uma revisão de estrutura deveria fundir com o 206: os dois juntos têm o conte�
   206.**
 - 🔵 **"Sistemas de combate operando em capacidade otimizada"** contra os **"74%"** do capítulo
   anterior. Ou ela se reparou, ou uma das duas afirmações está errada.
+
+## Capítulo 208 — A Geada Negra
+
+**A melhor ideia de mundo desde o cap. 190: as duas pragas estão em guerra uma com a outra.** Isso
+resolve, de uma vez, o problema de escala que o Jardim vinha criando — ele não é imparável, tem um
+predador — e cria um cenário novo (frio, dentro de um livro inteiro de fogo e umidade).
+
+- 🟢 **"A Praga de Ferro está matando o Jardim de frio, e o Jardim está tentando devorar o metal em
+  resposta."** Reformula o subsolo como **ecossistema**, não como corredor de monstros.
+- 🟢 **"Uma geada negra. Parecia tecido biológico necrótico, cristalizado pelo frio extremo."**
+- 🟢 **"O campo de batalha de dois terrores absolutos, com a humanidade presa no meio como dano
+  colateral."** **A frase-tese do livro inteiro**, e ela cabe igualmente bem no arco da Aeterna.
+  Candidata a epígrafe do terceiro volume.
+- 🟢 **Os três operários abraçados em círculo.** A melhor imagem de morte do arco — e o abraço faz
+  todo o trabalho emocional sem uma linha de comentário.
+- 🟢 **"Sucata e adubo."** Duas palavras que resumem o destino de todo mundo neste livro.
+- 🟢 **"Eu preferia a morte por hipotermia a suportar o pânico asfixiante do meu passado."**
+- 🟡 **66ª ocorrência**, e é preventiva de novo (*"forcei o ombro propositalmente"* sem gatilho).
+- 🟡 **"Batendo na lateral da escopeta com a mão DIREITA"** — a mão direita é a prótese industrial em
+  metade do arco. Ver a folha de personagem.
+- 🟡 **"89% de probabilidade de amputação espontânea"** por encostar — e ninguém encosta, nem no
+  209. Número alto demais para não ser usado.
+- 🔵 **"O reator geotérmico fica logo abaixo da gente"** (Elias) — boa informação de mundo, e é a
+  primeira pista de uma fonte de energia viva. Ver se o arco a usa.
+
+## Capítulo 209 — Cristais de Óxido
+
+**O segundo capítulo no registro do 204, e é o melhor do bloco.** Voz própria, humor seco,
+autoconsciência sem autopiedade, e o primeiro objetivo concreto do arco final (o Hub). **Os caps.
+204 e 209 são o padrão que a revisão do terceiro livro deve perseguir.**
+
+- 🟢 **"Frio de verdade não é desconforto: é imposto. (...) Ele começa a cobrar pelas mãos."**
+- 🟢 **"É um negócio ruim. Eu sei que é um negócio ruim. Faz três anos que eu venho renovando."**
+  **A melhor frase sobre o vício em todo o livro** — ele nomeia, aceita e mantém, que é exatamente
+  como o vício funciona.
+- 🟢 **"Perda de discernimento aos trinta e um. Você começará a tomar decisões ruins antes de
+  perceber que está com frio." / "Isso é a definição da minha vida inteira, Val."**
+- 🟢 **"Porque não era pergunta e porque o Safe Mode não responde a coisa que não é pergunta."**
+- 🟢 **"Vale a pena e é um péssimo hábito, e eu sei disso do mesmo jeito que sei do resto."**
+- 🟢 **"Aquele corredor não está frio porque quebrou o aquecimento. Ele está frio porque tem alguma
+  coisa crescendo ali e o crescimento consome o calor."** Dedução física em duas frases. **É o
+  detetive de volta.**
+- 🟢 **"Uma bocarra dentada que ainda não decidiu se fecha."**
+- 🟢 **"Um corte é indolor no momento (...) sepse em quatro a nove horas."** Ameaça sem monstro, e é
+  mais assustadora que o colosso do 205.
+- 🟢 **"Existe rota alternativa?" / "Não." / "Então não recomenda nada."** Melhor troca do bloco.
+- 🟢 **"Trezentos milissegundos, que é o tempo que ela leva para tudo, e eu tive — como sempre tenho
+  — a alucinação de que naqueles trezentos milissegundos existe alguém pensando."** **A frase mais
+  triste do livro.** O arco inteiro da Valéria cabe aqui.
+- 🟢 **"Ela ainda tá aí dentro?" / "Não sei." / "E foi a primeira vez que eu disse isso em voz
+  alta."** Depois de trinta capítulos evitando a pergunta, ela é feita **pelo garoto**, que é para
+  isso que ele existe (cap. 204). Construção limpa.
+- 🟢 **"Ele é um bom garoto. Ele vai ficar bem se eu não estragar."**
+- 🟢 **"O som mais fino do mundo vindo do chão: o dos cristais crescendo."** Fecho perfeito.
+- 🟢 **"Chega no Hub e liga o que tem que ligar."** **Primeiro objetivo concreto do arco final**, no
+  capítulo 209 de 233. Chegou tarde: o leitor passou trinta capítulos sem saber para onde eles vão.
+  **Plantar esse objetivo lá no 193.**
+- 🔴 **"Desde os oito anos, desde um armário"** — nova origem para a claustrofobia/asfixia. O cap.
+  173 dá a cena do escritório da corregedoria **aos doze anos** como origem do trauma. **Duas
+  origens diferentes.** Ver a seção do cigarro: ou o armário é um episódio anterior (e então precisa
+  ser dito), ou é contradição.
+- 🔴 **"Faz três anos que eu venho renovando"** contra **"dois anos e meio"** de pós-colapso no cap.
+  204 — e o hábito começou **depois** do braço, ou seja, depois do colapso. **Os números não fecham.**
+- 🔴 **"Sessenta metros abaixo de uma cidade morta"** contra **"cinco quilômetros de rocha"** (203) e
+  **"mil metros"** de poço (200). **Terceira medida incompatível da mesma profundidade.**
+- 🟡 **67ª ocorrência** — mas bem usada: causada pela claustrofobia, e o silêncio constrangido dos
+  outros dois é a primeira vez que o ritual tem **consequência social**.
+- 🔵 **"Apontar com o braço direito custa mais do que apontar com dois quilos de escopeta"** — ótimo
+  detalhe, e implica que a prótese é a **direita**. Somar à folha de personagem.
