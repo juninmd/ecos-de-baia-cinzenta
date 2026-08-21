@@ -3922,9 +3922,11 @@ Val, e a melhor decisão moral do último terço. **E paga a lista.**
 
 **Capítulo problemático que refaz, pior, o que o 169 já fez perfeitamente.**
 
-- 🔴 **MUDANÇA DE NARRADOR.** O capítulo é escrito em **primeira pessoa** ("meus cotocos sangravam",
-  "eu encarava", "deixamos o setor para trás"). O livro inteiro — 234 capítulos — é em terceira
-  pessoa. É a quebra de ponto de vista mais grave da obra.
+- 🔴 **MUDANÇA DE NARRADOR — e ela não é isolada.** Este capítulo passa para a **primeira pessoa**, e
+  a verificação nos capítulos 172, 175, 180, 190, 200, 210, 220 e 230 confirma que **todo o restante
+  do livro (170 a 233) é narrado em primeira pessoa**. Não é um erro pontual: é uma **mudança de
+  ponto de vista no último terço**, sem transição declarada. Ver a seção "A virada de narrador"
+  no fim deste documento.
 - 🔴 **Contradiz o cap. 169 no evento central.** Lá, a Val **corta o suporte de vida às 04h12**, sem
   alarme, e a luz baixa devagar durante quarenta segundos, com o Gabo de mão no vidro. Aqui, é o
   Gabo quem **esmaga o vidro temperado e as válvulas com o coto**, e o fluido vaza pela mesa. **São
@@ -3939,3 +3941,96 @@ Val, e a melhor decisão moral do último terço. **E paga a lista.**
   ferramentas de escravidão."** Bom resumo do arco.
 - 🟡 **Recomendação:** **cortar o cap. 170 inteiro** ou reescrevê-lo em terceira pessoa como um
   epílogo curto que não repita a destruição. O 169 já é o fecho perfeito do setor alfa-sete.
+
+## Capítulo 171 — Luz Seca
+
+**Bom capítulo de saída, com a melhor imagem-título do arco.** "Uma luz seca" para descrever o
+primeiro dia lá fora — pálida, acinzentada, sem promessa nenhuma — é exatamente o oposto do sol do
+cap. 75, e o contraste é claramente deliberado.
+
+- 🟢 **"A escalada não exigia apenas força; exigia abstração."**
+- 🟢 **"Como se houvesse alguém fumando no degrau imediatamente abaixo do meu pé."** A alucinação
+  ganha posição no espaço — é a formulação mais assustadora dela no livro.
+- 🟢 **"Ela não perguntou se eu estava bem. Ela sabia que a resposta não importava."**
+- 🟢 **"O chassi de alguém que havia perdido o motor."**
+- 🟢 **"O cinismo era o único band-aid que eu tinha. Tinha o formato de uma navalha, mas estancava o
+  sangramento mental."** Melhor frase do capítulo.
+- 🟢 **"Não há luz lá fora, Gabo. Nenhum de nós salvou nada. Só trocamos o dono do escuro."** A Val
+  entrega a tese do arco final, e o livro não a desmente.
+- 🟢 **"Uma luz seca."**
+- 🔴 **Cigarro do pai novamente** (o escritório, os faróis nas poças) — a dois capítulos do 169.
+- 🟡 **Frontmatter no formato português sem aspas** (`Título:`, `Data In-Game:`), como no 170. É o
+  quinto formato do livro.
+- 🟡 **O ritual da dor aparece pela 18ª vez.** Depois do cap. 155 (mãos destruídas) e do 169 (a Val
+  cobrando de frente), cada nova ocorrência sem consequência nova **desfaz** as duas cenas que o
+  trataram a sério.
+
+## Capítulo 172 — O Peso da Chuva
+
+**Bom capítulo de transição, e a melhor descrição da cidade morta do arco final.** O silêncio da
+infraestrutura desligada — "a ausência do zumbido elétrico crônico era ensurdecedora" — colhe
+diretamente o cap. 119, e a Val "menor" sem rede é a melhor consequência física da vitória deles.
+
+- 🟢 **"Deixamos o mausoléu de mármore e silício para trás e pisamos na cova aberta que Baía
+  Cinzenta havia se tornado."**
+- 🟢 **"A chuva não caía; ela desabava."**
+- 🟢 **"Como um prego enferrujado cravado no coração do Distrito Central."**
+- 🟢 **"Uma máquina de guerra vagando pelo ferro-velho sem ordens ou propósito."**
+- 🟢 **"O cheiro do mundo real cobrando a conta depois da fantasia de vidro e luz da corporação."**
+- 🟢 **"Era como se Dante estivesse caminhando ao meu lado na chuva, exalando o veneno diretamente
+  nos meus pulmões."** A alucinação como **companhia**, não como memória. Boa evolução.
+- 🟢 **"Nós não temos mais ataduras, Gabo. Se você continuar sangrando a cada esquina para manter os
+  fantasmas longe, não vai chegar à próxima ponte."** A Val estabelece o limite físico — e isso
+  transforma o ritual em **relógio**, que é o que faltava.
+- 🟢 **"Pular do moedor de carne direto para as engrenagens."**
+- 🟢 **Vasco volta.** Boa colheita: a dívida de "me deve uma" do cap. 123 está prestes a ser cobrada.
+- 🔴 **Marco Moretti está vivo e no comando.** Ele foi visto pela última vez sendo drenado no
+  cap. 106 (reduzido a processador pelo Dante) e antes disso baleado no 71 e desaparecido no 83.
+  **Se ele voltou ao poder, isso precisa de cena, não de menção de passagem.**
+- 🟡 **A chuva ácida está de volta e permanente.** Depois de o cap. 75 encerrá-la e o 97 confirmar
+  sol e cinzas, o arco final a restaura sem explicação. **É a sétima reincidência** — e agora ela é
+  central, não incidental. Precisa de uma linha dizendo quando e por que voltou.
+- 🟡 **Décima nona ocorrência do ritual.**
+
+---
+
+## 🔵 A VIRADA DE NARRADOR: o último terço em primeira pessoa
+
+A partir do **cap. 170**, o livro deixa de ser narrado em terceira pessoa e passa à **primeira
+pessoa do Gabo**, e assim permanece até o fim (verificado por amostragem nos caps. 172, 175, 180,
+190, 200, 210, 220 e 230). São **64 capítulos** — mais de um quarto da obra.
+
+### Isto pode ser a melhor decisão estrutural do livro — ou um acidente
+
+**A favor de ser intencional e boa:**
+
+1. O cap. 169 encerra o arco investigativo com a última grande revelação sobre o pai, e o 170 abre
+   logo depois. É um ponto de virada natural.
+2. Os capítulos 155–169 vinham construindo exatamente isso: o protagonista perde as mãos, perde o
+   Rangel, perde a Aria, perde a prova, e **passa a ser a única testemunha restante**. Que a
+   narração se feche dentro da cabeça dele quando não sobra mais ninguém é coerente.
+3. A obra usa narrador retrospectivo em terceira pessoa desde o começo ("e ele nunca contou isso
+   para ninguém", cap. 62; "não clareou nunca", cap. 97). A primeira pessoa é o destino natural
+   dessa voz.
+
+**Contra, e o que precisa ser resolvido:**
+
+1. 🔴 **A transição não é marcada.** O cap. 170 simplesmente começa com "meus cotocos sangravam".
+   Não há corte de parte, epígrafe, mudança de título de bloco, nada. O leitor sente um erro, não
+   uma escolha.
+2. 🔴 **O cap. 170 refaz uma cena do 169** com outro desfecho (ver a nota do capítulo). Isso reforça
+   a leitura de acidente: parece que dois textos diferentes foram costurados.
+3. 🟡 **A voz muda junto.** O narrador em terceira pessoa do livro é seco e preciso ("as marcas de
+   picareta eram curtas, de golpe humano"). O narrador em primeira pessoa é mais adjetivado ("uma
+   sinfonia branca e excruciante", "o cinismo tinha o formato de uma navalha"). São dois estilos.
+4. 🟡 **Perde-se o acesso aos outros personagens.** Capítulos como o 87 (Vilar sozinho no morro) e o
+   92 (a Praga de Ferro) são dos melhores do livro **porque saem do Gabo**. Em primeira pessoa isso
+   deixa de ser possível.
+
+### Recomendação
+
+**Assumir a escolha e marcá-la.** Abrir uma parte nova no cap. 170 (ou no 171), com título próprio,
+deixando explícito que a partir dali é o Gabo quem conta. E, se possível, plantar a moldura: a quem
+ele está contando, e quando. O livro já tem o gancho pronto e nunca o usou — **a Dra. Weiss**
+(caps. 62, 63, 81). Se o último terço for o depoimento dele a ela, a virada deixa de ser um
+tropeço e vira a chave da obra.
