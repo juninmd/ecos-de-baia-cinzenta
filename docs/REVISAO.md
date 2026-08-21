@@ -1450,3 +1450,75 @@ tentando evitar.
   página — nem que seja uma linha vista de longe.
 - 🔵 **"Fala pro papai que eu amo ele"** confirma o Dante como pai dela (cap. 69) e é incompatível
   com a leitura de filha do Gabo (cap. 59). Mais um item para a decisão de origem.
+
+## Capítulo 75 — Horizonte de Eventos
+
+**Vigésimo sétimo capítulo excepcional, e o melhor epílogo que este arco podia ter.** A utopia é
+apresentada como ameaça sem que o texto precise dizer isso: "Gabo ficou vinte minutos esperando
+alguém roubar os galões, e ninguém roubou, e ele descobriu que aquilo o incomodava" faz o trabalho
+inteiro em uma frase. E a pergunta da Val — "quanto tempo até a gente descobrir que entregou a
+cidade de novo, de graça, e dessa vez agradecendo?" — é a tese da segunda metade do livro.
+
+- 🟢 **`ECOS` no campo do operador**, e a mesma palavra em Morse na antena todas as noites. Melhor
+  uso de um nome próprio na obra.
+- 🟢 **"Tem uma senhora chamada Dilma Farias..."** — a lista de mortos com nome e endereço, contra
+  os trinta e nove mil processos, é a melhor justificativa possível para o livro continuar.
+- 🟢 **O café vendido a preço de ouro e o remédio a preço de custo** — "a coisa mais humana que eu
+  ouvi este mês" é caracterização de mundo inteiro em duas linhas.
+- 🟢 **"A sua irmã"**, dito de passagem pela Val, confirma a versão do cap. 69 como a canônica.
+  Isso ajuda a decidir a contradição de origem (ver a seção sobre a Aria).
+- 🟡 **"Uma menina de sete anos de casaco amarelo que a Elena tirou de dentro de um rio"** — é a
+  primeira aparição dessa história, e ela chega no capítulo final do arco, numa lista. Se importa,
+  merece uma cena; se não, encurtar a lista.
+- 🔵 **"O primeiro caso esquecido esperava havia dezoito anos."** Promessa explícita de nova
+  estrutura (procedural de casos frios). Verificar se o livro cumpre a partir do cap. 76.
+
+## Capítulo 76 — A Sombra do Meio-Dia
+
+**Abertura de arco boa em conceito e quebrada na execução — e o problema mais objetivo do livro
+inteiro está aqui.** A ideia é excelente: a utopia vigilante ganha um ponto cego, e o inimigo é
+analógico. Mas o arquivo contém **dois rascunhos diferentes do mesmo capítulo colados um no outro**.
+
+- 🔴 **O capítulo tem duas versões concatenadas.** Da linha 100 em diante recomeça a mesma cena com
+  outro cabeçalho ("Distrito de Prata - 12:00 PM") e **outra vítima**: na primeira metade o morto é
+  Arthur Vane, cego, com implantes extraídos e *LUX VERITAS EST* talhado no peito; na segunda é um
+  homem de meia-idade de roupas corporativas baratas com a cabeça esmagada a martelo e *O SILÊNCIO
+  VOLTOU* escrito na parede. **Escolher uma versão e apagar a outra.**
+- 🔴 **"Arthur Vane"** é o terceiro Vane/Vance da obra (Silas, Dra. Elara, e o `VANE, ALEXANDER` do
+  cap. 61). Ou existe uma família Vane com peso na trama e ela precisa ser tratada como tal, ou os
+  sobrenomes precisam ser diferenciados.
+- 🔴 **Frontmatter incompleto** (sem `layout`, `title`, `description`) — pelo terceiro capítulo
+  seguido, e pelo terceiro capítulo fraco. O padrão é confiável: frontmatter curto = rascunho.
+- 🟡 **"A Entidade (a fusão de Dante e Aria)"** — o narrador explicando entre parênteses. E o
+  cap. 75 acabou de estabelecer que ninguém consegue nomear aquilo; aqui o texto nomeia por
+  preguiça. Além disso, 76 e 77 voltam a chamá-la de "Aria", desfazendo a escolha do 75.
+- 🟡 **"Espingarda Caronte"** — quarta variação do nome da arma (ver caps. 66, 68 e 70).
+- 🟢 **"O sol era um detetive ruim. Ele expunha tudo."** A melhor inversão do capítulo, e a única
+  linha em nível do arco anterior.
+- 🟢 **A sombra que não corresponde ao sol e se move sozinha** é um gancho de arco forte — desde que
+  o livro tenha uma explicação e não apenas uma imagem.
+- 🔵 **Val com "cabelo holográfico"** e retinas modificadas que fritam no UV. Verificar contra o
+  cânone da personagem: no cap. 8 o cabelo é tinta ("rosa químico"), não holograma.
+
+## Capítulo 77 — Anjos da Morte
+
+**Capítulo de nível padrão, funcional e resolvido rápido demais.** A ideia central é a melhor coisa
+do novo arco — um assassino que mata *analogicamente* justamente porque a vigilância só enxerga o
+digital — e a fala "o silêncio precisa ser alimentado" é boa o bastante para sustentar um vilão. Mas
+o caso inteiro nasce, é investigado e morre em dez páginas.
+
+- 🟢 **"Governos caíram, o sol voltou, deuses digitais ascenderam e morreram, mas o Hospital Central
+  ainda cheirava a pinho falso."** Melhor abertura do arco novo.
+- 🟢 **A toxina vegetal sem rastro e a seringa de vidro sem chip** — a ameaça analógica em dois
+  objetos, sem explicação sobrando.
+- 🔴 **O suspeito se mata antes de responder "caminho para quem?"** É o atalho mais fácil possível,
+  e o livro já usou variações dele. Deixá-lo vivo e mudo renderia mais.
+- 🟡 **A investigação não tem etapa nenhuma:** a Nise entrega o padrão pronto, a Val entrega o nome
+  do turno, e o assassino está no corredor. Falta ao protagonista fazer uma única dedução própria —
+  no arco anterior isso era a força do livro (caps. 59, 63, 68).
+- 🟡 **"Ficha limpa. Tão limpa que brilha."** e **"Ninguém é tão santo assim"** — bom instinto que
+  não vira nada: o nome Lucas Viana não é mencionado de novo, nem confirmado como o técnico morto.
+- 🟡 **Val "com os olhos varrendo o espectro digital invisível"** e navegando dados sem mover os
+  dedos. É um grau de ciborgue acima do que a personagem tinha até o cap. 74. Calibrar.
+- 🔵 **"A sombra está crescendo. O meio-dia foi apenas um aviso."** Amarra com o cap. 76. Conferir
+  se o arco paga isso ou se a sombra fica só como imagem.
