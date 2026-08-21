@@ -2731,3 +2731,110 @@ Vários capítulos apontam para imagens genéricas reaproveitadas em vez de `/ca
 `/capitulo_75.jpg` no 75.5 (duplicando a imagem do 75).
 
 A imagem `cidade.jpg` sozinha ilustra **sete** capítulos seguidos do mesmo arco.
+
+## Capítulo 121 — Fios Desencapados
+
+**Bom capítulo de baixa intensidade, com a melhor cena médica do livro.** Cauterizar uma artéria com
+ferro de solda porque "Kiko não planejava se machucar, só se esconder" é exatamente o tipo de
+solução que este livro faz melhor — e a Val vomitando no canto é a reação certa.
+
+- 🟢 **"Kiko não planejava se machucar, só se esconder."** Justifica a ausência de recursos médicos
+  sem uma linha de exposição.
+- 🟢 **"Um museu de tecnologias mortas... cabos que pareciam intestinos de robôs estripados."**
+- 🟢 **"Se eu a religar, não sei quem vai acordar."** O custo do cap. 118 continua sendo cobrado.
+- 🟢 **"Quebrados, sujos, e cercados de fantasmas. Mas vivos." / "Por enquanto."**
+- 🔴 **SEM FRONTMATTER** — o arquivo abre com o bloco `## Metadados` visível (ver a auditoria).
+- 🔴 **"O cheiro dos charutos do pai, impregnando a casa antes de cada surra, antes de cada
+  silêncio."** Isto reescreve o Dante como **pai violento**, e é incompatível com toda a construção
+  dos caps. 67 a 75 e 95. Ver a seção "quem é Dante Moretti?" no fim deste documento.
+- 🟡 **"Olhos heterocromáticos apagados"** — o cânone da Aria (azul e dourado) sobrevive, o que é
+  bom; mas ela agora é androide de pele sintética, e não a menina descalça dos caps. 62–74.
+
+## Capítulo 122 — Dívida Técnica
+
+**O melhor capítulo do bloco 118–123, e o melhor uso de metáfora técnica do livro.** "Dívida
+técnica" — solução rápida agora, juros compostos depois — organiza o arco inteiro: a Aria usada como
+para-raios, o ferro de solda no Rangel, a cidade desligada às pressas. É a mesma inteligência que
+produziu "não é ameaça, é contabilidade" (cap. 87).
+
+- 🟢 **"Você 'pega emprestado' do futuro. O código fica podre por dentro."** e a aplicação imediata:
+  **"O ferro de solda foi a solução rápida. A sepse vai ser os juros."** Melhor par do capítulo.
+- 🟢 **"Foi o maior empréstimo que já vi."**
+- 🟢 **"Pode ser que acorde gritando com a voz de mil viciados mortos."**
+- 🟢 **"A dívida venceu. E nós não temos crédito pra renegociar."**
+- 🟢 **"Onde o cheiro de ozônio e podridão era a única promessa que a cidade cumpria."**
+- 🟡 **O bloco `## Metadados` aparece **depois** do frontmatter YAML** — este é o único capítulo do
+  bloco com os dois. Remover o bloco visível.
+- 🟡 **"Pistola cinética" com "cartucho de energia em 15%"** — o arco inteiro (caps. 111, 117, 120)
+  se apoia na tese de que só o **analógico** funciona sem rede. Arma de energia contradiz isso.
+- 🔵 **"Os Carniceiros, os Lázaros"** — duas gangues novas nomeadas de passagem. "Lázaros" colide
+  com o Consórcio Lázaro e com o Projeto Lázaro. Quarto uso do nome.
+
+## Capítulo 123 — Protocolo de Sombra
+
+**Capítulo de nível padrão com a melhor cena de luta do arco.** Gabo vence três invasores **sem
+gastar bala** — cabo da arma na têmpora, corpo do inimigo como escudo, chute no joelho, soco na nuca
+— e o texto resume em três palavras: "Eficiente. Brutal. Silencioso." É a coreografia certa para um
+protagonista com três balas.
+
+- 🟢 **"A primeira coisa que o atingiu não foi o frio, mas a ausência."**
+- 🟢 **"Um céu cor de hematoma."** e **"vitrines estilhaçadas vomitavam manequins e eletrodomésticos
+  na calçada."**
+- 🟢 **"A moeda mudou. Informação."** A economia do apagão em quatro palavras.
+- 🟢 **"'Dever uma' a Vasco significava sangue futuro, mas Rangel não tinha tempo para negociações
+  éticas."**
+- 🟢 **"Eram apenas desesperados. Como todos eles."** O livro se recusa a transformar os inimigos em
+  monstros — é a mesma decisão do cap. 63 (os técnicos de crachá).
+- 🔴 **SEM FRONTMATTER** (bloco `## Metadados` visível).
+- 🔴 **"O cigarro barato que seu pai costumava acender antes de bater na mãe"** e **"não o filho do
+  comissário corrupto"**. Terceira e quarta reescrita do Dante em três capítulos. Ver a seção
+  dedicada.
+- 🟡 **A Glock volta**, ao lado da *Caronte* — depois de nove variações, o armamento precisa de uma
+  decisão única e de uma passada de padronização no livro inteiro.
+- 🔵 **Vasco** é uma boa adição (traficante que aceita informação como moeda). Registrar a dívida:
+  "me deve uma" precisa ser cobrado.
+
+---
+
+## 🔴 CONTRADIÇÃO CENTRAL: quem é Dante Moretti?
+
+Ao lado de "o que é a Aria" e "quem é Elena", esta é a terceira fratura estrutural da obra — e é a
+mais destrutiva das três, porque **desmonta retroativamente os melhores capítulos do livro**.
+
+**Versão A — o pai amado (caps. 67, 69, 73, 75, 95, 97).** Comissário íntegro. Forjou a própria
+morte para proteger o filho, e **pediu que fosse o Gabo a assinar o atestado** porque "você nunca
+aprendeu a mentir com o rosto" (69). Piscava `C-O-R-A-G-E-M` no interruptor da cozinha quando o
+filho tinha medo de dormir (67). Gastava minutos da própria existência para abrir semáforos ao filho
+(67). Carregou **um Zippo por trinta anos sem nunca ter fumado um cigarro na vida**, e é esse
+isqueiro que mata o Miranda no cap. 73. Rosto "cansado de quem chegava em casa cheirando a café
+velho" (95).
+
+**Versão B — o pai violento e corrupto (caps. 100, 105, 115, 121, 123).**
+- 100: o Gabo não fuma por *"uma herança maldita do pai"*.
+- 105: a mão do Dante *"sem as manchas de nicotina"*.
+- 121: *"o cheiro dos charutos do pai, impregnando a casa **antes de cada surra**, antes de cada
+  silêncio."*
+- 123: *"o cigarro barato que seu pai costumava acender **antes de bater na mãe**"*, e o Gabo se
+  define como *"não o filho do **comissário corrupto**"*.
+
+(O cap. 75.5 fica no meio: dá ao Dante a voz *"rouca de anos fumando charutos cubanos
+contrabandeados"*, mas mantém o pai afetuoso.)
+
+### Por que isto é grave
+
+1. **Mata a melhor cena do livro.** O Zippo do cap. 73 funciona porque o objeto é a prova de um
+   homem que carregava algo útil sem vício. Se o Dante fumava, a imagem perde o sentido.
+2. **Mata o reencontro do cap. 69.** A cena inteira depende de um amor não resolvido, não de trauma
+   de violência doméstica.
+3. **Muda o motor do protagonista.** Um filho que idolatra o pai morto e um filho que apanhou dele
+   são personagens diferentes, com investigações diferentes.
+4. **A alucinação da fumaça** (caps. 115, 116, 119, 120, 122, 123) é uma boa ideia — mas ela está
+   ancorada na Versão B. Se a Versão A prevalecer, o gatilho precisa ser outro.
+
+### Recomendação
+
+Manter a **Versão A** — ela é a que sustenta os capítulos excepcionais e a que o livro constrói
+durante 90 capítulos. E preservar a alucinação da fumaça **mudando a âncora**: o cheiro de queimado
+não precisa vir do pai. Ele já tem origem melhor e disponível na própria obra — a fumaça das
+caldeiras do cap. 115, os corpos queimando no cap. 114, a purga térmica do cap. 81. Trocar cinco
+frases resolve tudo.
