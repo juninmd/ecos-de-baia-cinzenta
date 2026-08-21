@@ -4789,3 +4789,73 @@ o protagonista atinge o fundo moral do livro **sem que o texto pareça notar**.
 - 🔵 **"Setecentos e quinze metros"** depois da ponte, contra "oitocentos" no 196: eles andaram
   85 m em um capítulo inteiro de travessia. Consistente, mas convém checar se a cena parece tão
   curta assim.
+
+## Capítulo 198 — A Marcha Fúnebre
+
+**O berçário é a melhor imagem de horror desde os casulos do 180**, e o gatilho do ataque — o
+**ruído da própria prótese dele** — fecha o arco temático com precisão: o corpo que ele destrói para
+se manter são é o que os denuncia.
+
+- 🟢 **"Uma sentença de morte executada em câmera lenta."**
+- 🟢 **"O ar não circulava; ele apodrecia."**
+- 🟢 **"Como ossos de leviatãs."**
+- 🟢 **"Diferente das raízes frenéticas da ponte, estas pareciam dormentes, engordadas."** Gradação de
+  ameaça — o leitor entende que é pior *porque* está calmo.
+- 🟢 **"Estão incubando material orgânico reciclável."** A Val dizendo "berçário" em linguagem de
+  logística.
+- 🟢 **"Não são mais pessoas. São só peças de reposição pra essa praga do caralho."** O cinismo como
+  defesa, e o texto diz isso explicitamente — bem.
+- 🟢 **"A praga não estava apenas devorando a cidade; ela a estava reescrevendo."** Frase-tese do
+  arco do Jardim.
+- 🟢 **"Recomendo descarte em caso de colapso."** — e a réplica dele **traduz a ameaça para o Elias**
+  em vez de contestá-la. Caracterização dupla numa fala só.
+- 🟢 **"O ruído mecânico agiu como gatilho."** Consequência causada pelo corpo do protagonista.
+  Melhor pagamento possível para a prótese descalibrada plantada desde o 179.
+- 🔴 **"Cravava as unhas da minha mão DIREITA no ombro ESQUERDO"** (198) — e no 199 o texto diz
+  **"o ombro direito latejava (...) e o esquerdo era uma massa dilacerada pelas minhas próprias
+  unhas"**, ou seja: **os dois ombros estão destruídos e nenhum dos dois é claramente o da prótese.**
+  A anatomia do protagonista virou impossível de rastrear. **Item nº 1 da folha de personagem.**
+- 🔴 **"A agonia disparou pela minha perna DIREITA"** — a perna ferida é a **esquerda** desde o 191
+  (joelho triturado). Segundo lado trocado no mesmo capítulo.
+- 🟡 **52ª a 55ª ocorrências — quatro em um capítulo.** Décimo sétimo seguido. Uma delas é
+  explicitamente preventiva (*"só para garantir que o cheiro não voltasse"*), o que é o sinal mais
+  claro de cota cumprida.
+- 🔵 **"Trinta e seis graus Celsius"** para os casulos: é temperatura humana, o que é ótimo — mas o
+  texto não aponta o horror implícito. Uma linha ("a temperatura de um corpo vivo") ganharia muito.
+
+## Capítulo 199 — Engrenagens de Sangue
+
+**A melhor luta do livro, e o capítulo em que a lógica do arco finalmente é dita em voz alta:**
+*"Eu não tinha mais onde me machucar sem comprometer fatalmente minha mobilidade."* O recurso
+chegou ao próprio limite — e o livro sabe disso. **Este é o teto da escalada; daqui em diante ela
+tem de mudar de natureza, não de intensidade.**
+
+- 🟢 **"Não havia urgência nos seus movimentos, apenas matemática aplicada à locomoção."**
+- 🟢 **"Um híbrido de laringe humana rasgada e estática de rádio falhando."**
+- 🟢 **"Seu medo fornecendo o combustível primitivo que os músculos exigiam."**
+- 🟢 **"Eu não tinha mais onde me machucar."** A frase que justifica retroativamente a repetição —
+  ela era uma **contagem regressiva**, não um tique. Se o autor mantiver o recurso, é esta linha que
+  precisa ser plantada mais cedo (por volta do 190).
+- 🟢 **"Quatro apêndices aracnídeos feitos de tubos de refrigeração oxidados."** / **"Uma cavidade
+  bioluminescente onde o crânio foi partido."**
+- 🟢 **A eletrocussão da poça.** Solução de cenário, com **preço**: a corrente volta pelo vergalhão e
+  quase o mata. É a primeira vez no arco em que a esperteza dele **cobra na mesma cena**. Excelente.
+- 🟢 **"Não seja estúpida, lata velha (...) eu não tenho tempo pra te consertar de novo."** Ele
+  protege a Val e disfarça de logística. **A única centelha de afeto em vinte capítulos**, e está
+  escondida onde deve estar.
+- 🟢 **"Desfibrilação autônoma detectada."**
+- 🟢 **"Se eu puder... andar... tô vivo."**
+- 🟢 **"A dor, leal e cruel, tinha cobrado o seu preço."**
+- 🔴 **"A prótese industrial ESQUERDA"** (199) e, sete linhas depois, **"ergui a barra de ferro na
+  mão DIREITA"** e **"o impacto atravessou meu braço direito"**. Dentro de um único capítulo o
+  narrador usa os dois lados para o mesmo braço. **Este é o capítulo que prova que a troca não é
+  deslize isolado, e sim descontrole.**
+- 🟡 **"Recomendo uso do indivíduo como isca orgânica"** — proposta gravíssima **recusada em
+  silêncio**: ele nem responde. Depois do que fez ao Elias no 197, o leitor precisa ver a recusa.
+  **Uma linha: "Nem fodendo."**
+- 🟡 **56ª ocorrência**, e é a mais extrema de todas (ferro girando no nervo do toco). Ver a nota
+  acima: **é o teto**. Nenhum capítulo posterior deve tentar superá-la; o próximo passo dramático
+  é a âncora **falhar**.
+- 🔵 **"Fui arremessado para trás, batendo a nuca"** + "dano neurológico não descartado" — terceira
+  lesão grave anunciada e não cobrada (ver 190 e 191). O arco acumula danos permanentes que nunca
+  chegam. **Escolher um e torná-lo real.**
