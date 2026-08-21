@@ -1161,3 +1161,213 @@ desmentir nada do que veio antes.
   morto. Rastrear nos capítulos seguintes: se voltarem, precisa ficar claro aqui que sobreviveram.
 - 🔵 **O terminal "é o único cômodo do prédio projetado para alagar."** Conveniente demais para ser
   dito só no momento em que é preciso. Mencionar na descrição do salão no cap. 63.
+
+## Capítulo 66 — Respirar
+
+**Queda abrupta de nível, e é o capítulo mais problemático do livro até aqui.** Ele tem a função de
+transição mais importante da obra — sair do clímax do Núcleo para a segunda metade — e a resolve
+com prosa de rascunho, resumo de acontecimentos e três atalhos que desmontam o que os caps. 63 a 65
+construíram. Precisa ser reescrito, não ajustado.
+
+- 🔴 **Frontmatter incompleto.** Falta `layout: doc`, `title` e `description`; é o único do bloco
+  60–68 sem eles. Isso quebra a listagem do site.
+- 🔴 **"A dor lancinante dos ossos recém-colados."** Os ossos do Gabo não foram colados — foram
+  quebrados minutos antes (dois dedos no cap. 65, duas costelas no 62, ombro atravessado no 63).
+  A frase parece resíduo de outra versão.
+- 🔴 **`Otimização de Hardware: 200%` apaga o custo de três capítulos.** A obra passou 63, 64 e 65
+  fazendo o corpo do Gabo custar caro — bateria, órtese travada, dedos, costelas — e aqui a Aria
+  encosta a mão e ele fica *"mais forte do que nunca"*, com o traje *"leve como uma pena"*. É o
+  oposto exato da tese do livro. Se a cidade tem que consertá-lo, que seja parcial e que doa.
+- 🔴 **Marco e Miranda são dispensados numa linha** (*"a correnteza o levou para os dutos"*). São os
+  dois antagonistas do livro saindo do clímax por decreto do narrador. Mostrar, nem que sejam três
+  parágrafos.
+- 🔴 **O CP-Z resgatista é *deus ex machina* puro** — aparece à prova d'água, com propulsores, mira
+  na Val, e muda de lado quando o Gabo pede. Nada estabeleceu que Dante já controlava os robôs.
+- 🟡 **As máscaras de oxigênio da Val** surgem do nada, no plural, exatamente quando são necessárias.
+  Plantar no equipamento dela no cap. 63 resolve.
+- 🟡 **"Escopeta"** — a arma do Gabo é a *Caronte* em todo o resto do livro (inclusive nos caps. 67
+  e 68). Padronizar.
+- 🟡 **"Olhos eram telas brilhantes de pura luz branca"** contradiz o cânone da Aria (azul elétrico
+  e dourado, heterocromia — usado inclusive no cap. 65). Ver a lista de fisionomia.
+- 🟢 **"Eu sou o Administrador agora. E o aluguel venceu." / "Despejo."** É a única coisa do
+  capítulo em nível do resto da obra — e amarra com o título do cap. 60.
+
+## Capítulo 67 — Cidade Viva
+
+**Vigésimo capítulo excepcional, e a melhor ideia estrutural do livro inteiro: o aliado onipotente
+que paga por cada milagre com tempo de vida.** Isso resolve de uma vez o problema que a obra vinha
+acumulando desde o cap. 56 — poder sem custo. Cada semáforo aberto passa a ser uma decisão moral, e
+a frase "ele tinha achado bonito" é a melhor virada de consciência do protagonista.
+
+- 🟢 **O custo em minutos** (bueiro 14, porta 2, reabrir a porta 2) é a mecânica mais bem desenhada
+  da obra. Manter o rigor: toda intervenção da cidade daqui pra frente precisa de preço na página.
+- 🟢 **"Ele hesitou, Val. Dois segundos. Uma máquina não hesita."** É a prova de consciência que o
+  livro precisava dar sem explicar.
+- 🟢 **A luz soletrando C-O-R-A-G-E-M como o interruptor da cozinha** — a única cena de afeto
+  realmente conquistada entre Gabo e o pai.
+- 🟡 **A cidade mata dois mercenários com vapor e mutila um terceiro na porta**, e o texto trata
+  isso como espetáculo antes de tratar como problema. A reação do Gabo chega tarde; adiantá-la meio
+  capítulo aumenta o desconforto pretendido.
+- 🟡 **"Doze horas. Talvez menos."** Relógio explícito. A partir daqui o livro **tem** que marcar o
+  tempo em cada capítulo, ou o prazo vira decoração (é o erro cometido com o "quarenta e sete dias").
+- 🔵 **Hastes de tungstênio de nove toneladas** — verificar se a obra quer mesmo escalar para armas
+  orbitais. Até aqui o vilão era burocrático e imobiliário, e essa é a força do livro; bombardeio
+  cinético é um gênero diferente.
+- 🔵 **"Desligou o Distrito Sul inteiro para pagar."** Consequência enorme (um distrito no escuro,
+  com gente dentro) que não é mencionada de novo. Cobrar isso nos capítulos seguintes.
+
+## Capítulo 68 — A Caçada Inversa
+
+**Vigésimo primeiro capítulo excepcional.** O melhor uso de causa e efeito do livro: eles são
+salvos pela cidade em 67 e por isso mesmo se enfiam, sozinhos, no único prédio velho demais para a
+cidade enxergar. O "ponto cego" é uma reviravolta que o leitor podia ter previsto e não previu —
+que é a definição de uma boa.
+
+- 🟢 **A caixa APREENSÃO #4099 suando nitroglicerina** — arma achada no cenário, com risco real e
+  contado antes de ser usada. Modelo para o problema do EMP no cap. 65.
+- 🟢 **Miranda atira na altura da cintura "porque conhece o Gabo e sabe que o Gabo rola."** Melhor
+  uso do passado de parceria da obra: a intimidade vira arma.
+- 🟢 **O beco dos animais em silêncio** é a melhor imagem de horror do livro, e "ele perguntou aos
+  bichos primeiro" é o que a torna insuportável em vez de legal.
+- 🔴 **O controle sobre os animais não tem regra.** Dante controla o que tem "pulso elétrico ou
+  coração" — mas isso é apresentado aqui, no capítulo em que é usado, e é um salto enorme sobre o
+  que o cap. 67 estabeleceu (infraestrutura elétrica). Ou se planta antes, ou se corta o "coração".
+- 🔴 **O custo em minutos desaparece justamente onde mais importa.** Onze segundos de matança
+  coordenada de milhares de animais não recebem preço, enquanto abrir uma porta custou dois minutos
+  no capítulo anterior. Precificar, ou a mecânica de 67 morre em um capítulo.
+- 🟡 **"Escopeta" volta a aparecer** ao lado da *Caronte*, no mesmo tiroteio (l. 71 e l. 119).
+  Decidir se são a mesma arma.
+- 🟡 **A perna do Gabo sangra no fim do capítulo** e ele acabou de receber `Otimização 200%` no
+  cap. 66. Os dois estados não convivem; é mais um motivo para reescrever o 66.
+- 🔵 **O cachorro cinza que assiste sem participar** é bom demais para ser só atmosfera. Se for
+  intencional (o único que não aceitou), pagar isso depois.
+
+## Capítulo 69 — O Fantasma no Shell
+
+**Vigésimo segundo capítulo excepcional, e o melhor capítulo de dois personagens conversando da
+obra.** A distinção "desculpa é coisa que se pede para quem tem o que perdoar, e eu não vou te
+colocar nessa posição hoje" é a melhor linha de diálogo do livro, e a recusa do pai em ser
+absolvido é o que impede a cena de virar melodrama.
+
+- 🔴 **CONTRADIÇÃO DE ORIGEM DA ARIA — terceira versão em dez capítulos.** Aqui ela é **montada** a
+  partir do material genético da mãe do Gabo e do imprint cognitivo do Dante: irmã, não filha. Mas
+  o cap. 59 fala da *"filha que ele enterrou"* e o cap. 62 diz que *"a menina que morreu afogada aos
+  cinco anos foi coletada"*. As três versões são mutuamente exclusivas. **Escolher uma e reescrever
+  as outras duas** — é o problema mais grave do livro, à frente até da contradição da Elena.
+- 🔴 **"Quinze anos e quatro meses antes"** — a menina do orelhão. Se ela existe desde o começo do
+  livro nessa forma, isso precisa estar visível no primeiro terço; hoje o leitor descobre a
+  fundação inteira do personagem no cap. 69.
+- 🔴 **"Quatro dias lá embaixo"** contra as **doze horas** do cap. 67 e os **quarenta minutos** do
+  próprio 69. O relógio do arco está quebrado. Ver a nota de cronologia no cap. 70.
+- 🟢 **`EU PEDI PARA SER VOCÊ A ASSINAR` / `VOCÊ NUNCA APRENDEU A MENTIR COM O ROSTO`** — a melhor
+  justificativa possível para uma morte forjada: usa uma qualidade do protagonista como motivo.
+- 🟢 **"Eu gosto do nome. Ele é a única coisa que alguém me deu de graça."** Melhor fala da menina.
+- 🟢 **O firewall biológico** (nove cérebros em perfusão, dor como alarme) e o `NÃO PASSA. A GENTE
+  SOLTA.` — promessa narrativa forte. Cobrar o pagamento: o resgate dos nove tem que acontecer.
+- 🟡 **"Mancava com uma órtese só"** e "duas costelas quebradas" contradizem frontalmente o
+  `Otimização de Hardware: 200%` do cap. 66. O 69 está certo; o 66 é que precisa cair.
+- 🟢 **A tela apagando no meio da frase** sobre o Santo é o melhor uso de informação retida do livro.
+
+## Capítulo 70 — O Expurgo
+
+**Queda de nível equivalente à do cap. 66, e desta vez com dano permanente à trama.** É o segundo
+capítulo do arco escrito em modo rascunho — narração explicativa, adjetivo dobrado ("perturbadora",
+"grotesca"), o narrador dizendo ao leitor o que sentir — e ele **contradiz o capítulo seguinte de
+forma irreconciliável**. Reescrever a partir do cap. 71, que está certo.
+
+- 🔴 **A fusão Kael + Marco não existe.** No cap. 71, poucas páginas depois, Marco Moretti aparece
+  vivo, inteiro e falando por uma câmera de galeria, e o Santo é **só o Kael**. A revelação central
+  deste capítulo é desmentida pelo próximo. Cortar a fusão inteira.
+- 🔴 **Contradiz também o cap. 69**, onde Dante afirma que o Santo é *"a primeira tentativa"* — ou
+  seja, anterior à Aria e nada a ver com Marco. E contradiz o cap. 62, em que ele é apresentado
+  como um *coletado* que chama a menina de "irmão". **Três origens para o mesmo personagem.**
+- 🔴 **Os números do bombardeio não batem com o cap. 67**: lá eram *três plataformas* com hastes de
+  *nove* toneladas; aqui é *um* satélite com *vinte* cilindros de *dez* toneladas. Unificar.
+- 🔴 **A cronologia do arco está quebrada.** Cap. 67: doze horas. Cap. 69: quatro dias no esgoto e
+  "temos quarenta minutos". Cap. 70: quarenta minutos. Cap. 71: "o irmão dele tinha fugido pelo
+  esgoto quarenta minutos antes" — quando a fuga foi no cap. 65/66, dias antes. Refazer a linha do
+  tempo do bloco 65–71 inteira, com hora marcada em cada abertura de capítulo.
+- 🔴 **Frontmatter incompleto** (sem `layout`, `title`, `description`), igual ao cap. 66. Os dois
+  capítulos fracos do arco são exatamente os dois com frontmatter incompleto — é um bom detector.
+- 🟡 **O Taxidermista vira aliado de conveniência**: abre o caminho, explica a situação, promete
+  segurar os reforços, e some sem consequência. Ele é o vilão mais interessante da obra e está
+  sendo usado como porteiro.
+- 🟡 **"Capela Sistina de caos"** e *"a arte perde o significado quando não há público"* — o vilão
+  passou 70 capítulos sendo assustador por não explicar. Aqui ele explica.
+- 🟡 **"Ergueu a escopeta" / "a *Caronte* em suas costas"** no mesmo capítulo. Terceira ocorrência
+  do problema (ver caps. 66 e 68).
+- 🟢 **A física do bombardeio cinético** ("sem radiação, sem fallout, apenas força pura, destruição
+  limpa") e o voto de 0.003 segundos com ROI negativo são a melhor página do capítulo — e a única
+  em nível do resto da obra.
+- 🟢 **A ampulheta quebrada como assinatura do Dante** merece ter aparecido antes; se for plantada
+  nos caps. 20–50, vira um dos melhores motivos visuais do livro.
+
+## Capítulo 71 — Marco Zero
+
+**Vigésimo terceiro capítulo excepcional, e o clímax moral da obra.** O protagonista vence a luta
+que não podia vencer largando a arma e chamando o inimigo pelo nome — e funciona porque a hesitação
+foi plantada duas vezes antes (caps. 62 e 71) e porque "escravo não hesita" inverte exatamente o
+argumento que o Santo usa contra si mesmo.
+
+- 🟢 **"Rápido no tamanho errado, que é uma combinação que a evolução não produz e que a engenharia
+  produz por acidente."** Melhor descrição de ameaça física do livro.
+- 🟢 **A assimetria de treino** — o Santo solta sempre pelo mesmo lado, resquício de quando aquele
+  corpo tinha nome e frequentava um tatame. É simultaneamente solução tática e revelação de
+  personagem, no mesmo detalhe.
+- 🟢 **"Ordem recusada."** Duas palavras que pagam três capítulos de construção.
+- 🟢 **"Está no orçamento de obras da prefeitura, na rubrica 'reforço estrutural', e passou por
+  unanimidade na Câmara."** O livro volta à sua melhor veia: o horror é sempre burocrático.
+- 🟢 **"Ele pirou de vez." / "Não. Ele está fazendo a conta."** Fecha a caracterização do Marco.
+- 🔴 **"O irmão dele tinha fugido pelo esgoto quarenta minutos antes."** Não foi quarenta minutos:
+  foi no cap. 65/66, antes de quatro dias de esgoto. Ver a nota de cronologia no cap. 70.
+- 🟡 **O Taxidermista, o firewall biológico dos nove cérebros e as estátuas de polímero** — tudo o
+  que o cap. 70 montou é ignorado aqui. Se o 70 for reescrito, esses elementos precisam ou
+  desaparecer ou ser pagos neste capítulo.
+- 🟡 **"Perdeu a escopeta na segunda vez"** e depois **"largou a arma"** com "a coronha batendo no
+  piso" — ele perde e reganha a arma sem que o texto diga. Ajustar.
+- 🔵 **O bombardeio cinético some do capítulo.** O relógio de quarenta minutos do cap. 70 não é
+  mencionado uma vez durante toda a luta, e a Torre cai por outra causa. Se as hastes ainda estão
+  a caminho, isso tem que estar na página.
+
+---
+
+## 🔴 CONTRADIÇÃO CENTRAL: o que é a Aria?
+
+Ao lado de "quem é Elena?", este é o problema estrutural mais grave da obra. **Três origens
+mutuamente exclusivas** são afirmadas em capítulos-chave, todas apresentadas como revelação:
+
+| Cap. | Versão | Texto |
+|------|--------|-------|
+| 59 | Filha morta do Gabo | *"Nenhum dos dois pertencia à filha que ele enterrou."* |
+| 62 | Criança coletada | *"Se a menina que morreu afogada aos cinco anos foi coletada, então ela não foi a única."* |
+| 69 | Construída, irmã do Gabo | `MONTADA A PARTIR DO MATERIAL GENÉTICO DA SUA MÃE E DO MEU IMPRINT COGNITIVO. ELA É SUA IRMÃ.` |
+
+Some-se a isso o fato de que **a natureza dos poderes dela nunca recebe regra**: cura por toque
+(cap. 60), parada do tempo (cap. 65), comando sobre o Santo (caps. 62 e 71), interface do sistema
+(cap. 64). Cada manifestação é maior que a anterior e nenhuma tem custo — ao contrário do Dante,
+cujo custo em minutos de vida (cap. 67) é a melhor mecânica do livro.
+
+**Recomendação:** manter a versão do cap. 69 (construída, irmã, com o rosto escolhido a partir da
+filha morta) — é a única que **absorve** as outras duas em vez de contradizê-las, porque explica ao
+mesmo tempo por que o Gabo a confunde com a filha e por que o Santo a chama de irmão. Com essa
+escolha:
+
+1. O cap. 59 passa a mencionar a filha morta como **memória**, não como identificação.
+2. O cap. 62 passa a ser a dedução **errada** do Gabo — o que é melhor dramaticamente, e prepara o
+   golpe do cap. 69.
+3. A filha morta precisa ser plantada no **primeiro terço** do livro, ou toda a carga emocional do
+   arco 59–71 chega sem lastro.
+4. A regra dos poderes dela precisa ser dita antes do cap. 65, com um custo explícito.
+
+## 🔴 BLOCO CRÍTICO: a cronologia do arco 65–71 não fecha
+
+| Cap. | Marcação no texto |
+|------|-------------------|
+| 67 | *"Doze horas. Talvez menos."* até o impacto cinético |
+| 69 | *"depois de **quatro dias** lá embaixo"* — e, no mesmo capítulo, `TEMOS QUARENTA MINUTOS` |
+| 70 | *"Temos **quarenta minutos** até o primeiro impacto"* |
+| 71 | *"O irmão dele tinha fugido pelo esgoto **quarenta minutos** antes"* — a fuga foi no cap. 65/66 |
+
+Quatro dias de esgoto não cabem dentro de um prazo de doze horas, e a fuga do Marco não pode ter
+sido há quarenta minutos e há quatro dias. **Refazer a linha do tempo do bloco inteiro**, com hora
+marcada na abertura de cada capítulo (o livro já faz isso bem nos caps. 63 e 71, e é só estender).
