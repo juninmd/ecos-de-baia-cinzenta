@@ -3120,3 +3120,70 @@ protagonista responde com o argumento que define o livro inteiro.
   ele é ex-fumante em recuperação.
 - 🟡 **"Eu abri a barriga dele com um canivete"** — no cap. 121 foi **ferro de solda no ombro**, e
   no 124 foi bisturi no abdômen. Terceira versão da mesma cirurgia.
+
+## Capítulo 136 — Peso da Carne
+
+**Bom capítulo de travessia, e o melhor uso da nova Aria.** O conflito é resolvido por engenharia
+improvisada (dois cintos e um tubo de PVC como freio) em vez de força, e a lembrança das obras
+superfaturadas da prefeitura dando ao protagonista a certeza sobre a classe do PVC é a melhor
+piscadela do bloco.
+
+- 🟢 **"Uma sopa fria de metano, ferrugem e esgoto antigo que cobria a garganta como um filme de
+  óleo."**
+- 🟢 **"A curiosidade sem propósito é desperdício de processamento... Eu fui otimizada. Você deveria
+  estar satisfeita. O reparo foi bem-sucedido."** A frase mais cruel do bloco, e ela é dita sem
+  crueldade — o que a piora.
+- 🟢 **"É PVC industrial classe 5."** O conhecimento de investigação de corrupção virando ferramenta
+  de sobrevivência. Melhor detalhe do capítulo.
+- 🟢 **"Isso não é meu. Isso é dele."** — **este capítulo está alinhado com o cânone do cap. 131**:
+  a fumaça é herdada, não desejada. Usar esta formulação como padrão.
+- 🟢 **"E uma assinatura maior. Imóvel. Esperando."**
+- 🔴 **SEM FRONTMATTER**, e "Noite Eterna" pelo quarto capítulo seguido.
+- 🟡 **A sepse do Rangel parou de piorar.** O cap. 131 deu prazo ("não vê depois de amanhã") e desde
+  então ele é apenas peso. O relógio precisa aparecer.
+
+## Capítulo 137 — Natureza Morta
+
+**Boa cena de horror com o melhor bestiário do arco.** Os "Abortos" — massas de carne sem pele, sem
+olhos, com bocas cheias de dentes irregulares — são o horror que os rascunhos de um artista
+justificam, e "uma dançarina em um matadouro" define a nova Aria em cinco palavras.
+
+- 🟢 **"Carne deixada ao sol e depois mergulhada em perfume barato para disfarçar."**
+- 🟢 **"Ela não lutava; ela executava."** e **"Seu uniforme estava limpo, exceto pela bota direita."**
+  O detalhe da bota vale mais que a coreografia inteira.
+- 🟢 **"O sangue espirrou no rosto de Rangel, mas Aria nem piscou."**
+- 🟢 **A Galeria: torsos abertos com mecanismos de relógio feitos de osso e latão.** Coerente com o
+  Taxidermista dos caps. 63 e 115 (o relojoeiro).
+- 🟢 **"Estado: Inativo. Preservado." / "O peito subia e descia levemente."** A melhor contradição
+  do capítulo, e ela não é explicada.
+- 🔴 **SEM FRONTMATTER.**
+- 🟡 **"Sem sua arma, ele se sentia nu"** — a *Caronte* tinha **uma bala** no cap. 131 e some sem
+  explicação entre o 135 e o 137.
+- 🔵 **O titã inativo no tanque central** é uma promessa grande. Registrar: ele tem que acordar.
+
+## Capítulo 138 — Vernissage
+
+**O melhor capítulo do bloco, e a melhor revelação de vilão do último terço.** A decisão de fazer o
+Taxidermista **perfeito** — simetria de estátua polida por algoritmo, pele sem poros, dedos que
+podem ser bisturi ou pincel — inverte tudo o que o leitor esperava, e o branco absoluto depois de
+dezoito capítulos de lodo é o melhor contraste visual da obra.
+
+- 🟢 **"Lembrava a esterilidade da morte burocrática."**
+- 🟢 **"É um laboratório." / "Não. É um ateliê."**
+- 🟢 **"Ele busca a ordem através do controle. Eu busco a ordem através da *forma*."** A melhor
+  distinção entre os dois vilões do livro, e ela redefine o arco inteiro retroativamente.
+- 🟢 **"Bocas costuradas com fio de ouro."** e **"Eles estão cantando?" / "Estão processando."**
+- 🟢 **"A dor é o melhor condutor. Ela foca a mente. Elimina distrações."** — o vilão descreve
+  exatamente o que o protagonista faz com o Colar de Sol. É a melhor rima temática do bloco, e o
+  texto não a sublinha.
+- 🟢 **"Você transformou pessoas em roteadores de carne." / "Eu as elevei!"**
+- 🟢 **"Falta alma na sua execução, minha querida. Você é eficiente, mas não tem *paixão*."** O
+  vilão diagnostica em uma linha o que o cap. 134 fez com a Aria.
+- 🟢 **"Por favor, não os danifiquem muito. O acabamento foi caríssimo."**
+- 🔴 **SEM FRONTMATTER.**
+- 🟡 **"Os olhos, a íris brilhando em um azul elétrico"** — no cap. 134 elas ficaram **brancas**, e o
+  branco é o símbolo do reboot. Terceira cor em cinco capítulos.
+- 🟡 **"Onde está o Dante?"** — o Gabo o deixou caído e derrotado no cap. 118, e agora pergunta por
+  ele como se estivesse à solta. Se o Dante voltou ao comando, isso precisa estar na página.
+- 🔵 **"Dante é o mecenas."** Boa hierarquia. Cobrar: o livro precisa mostrar essa relação, não só
+  declará-la.
