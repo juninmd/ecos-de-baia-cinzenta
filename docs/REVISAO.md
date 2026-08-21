@@ -2903,3 +2903,72 @@ verbalmente a máquina que fala com a voz da mulher morta — e recebendo "isso 
   cap. 123, e a pistola do Rangel é "Série-K" no 119. Padronizar a nomenclatura.
 - 🔵 **"As Catedrais de Pedra", Nível 5, "ninguém vai lá desde a Fundação."** Boa promessa de
   locação. Registrar.
+
+## Capítulo 127 — Catedrais de Pedra
+
+**A melhor locação do livro inteiro, e a melhor cena de horror emocional do arco.** As Catedrais —
+sistema de drenagem original, arcos góticos, "um templo à engenharia analógica, silencioso e
+eterno" — dão ao arco novo a única imagem à altura do Jardim ou do Berçário. E "posso cantar para
+você?" é pior do que qualquer ameaça que o livro já escreveu.
+
+- 🟢 **"Algo mais antigo, algo que a cidade moderna acima havia esquecido de propósito."**
+- 🟢 **"Estamos navegando por eco e sorte." / "Sorte nunca foi nosso forte."**
+- 🟢 **"Um templo à engenharia analógica, silencioso e eterno."** A tese do arco virada arquitetura.
+- 🟢 **"Misturando dados biográficos com roteiros de filmes ruins."** A melhor explicação de por que
+  a alucinação é falsa — e ela é técnica, não sentimental.
+- 🟢 **"Ele queria gritar. Ele queria atirar nela. Ele queria abraçá-la."**
+- 🟢 **"Se eu deletar a Bia, eu deleto a Aria." / "Isso não é a Bia. É tortura."**
+- 🔴 **SEM FRONTMATTER.**
+- 🔴 **"Você sempre ficava bravo quando perdia o isqueiro. Mas você não fuma mais, Gabo. Você
+  prometeu."** Quinta posição sobre o cigarro em cinco capítulos — e a primeira em que o **Gabo
+  fumou**. Ver a seção sobre o Dante.
+- 🟡 **"Eles se conheceram na Academia de Polícia"** contra o cap. 75.5, onde a Elena é testemunha
+  da Bia e a família dela se opõe ao casamento — nada indica Academia. Fechar a biografia da Bia.
+- 🟡 **"O exoesqueleto de Gabo, os servos hidráulicos"** — quinta reincidência das órteses
+  motorizadas depois do modelo passivo do cap. 98.
+
+## Capítulo 128 — O Ventre da Besta
+
+**Boa cena de ação com o melhor bestiário do livro.** As Quimeras de Drenagem — cães com placa de
+circuito no lugar do olho, pata de mola de suspensão, mandíbula de triturador — são construídas por
+inventário de sucata, exatamente como o Necro-Mecânico do cap. 99, e o *click-clack* no lugar do
+latido é o detalhe que as torna erradas.
+
+- 🟢 **"Cães selvagens que a cidade havia mastigado e cuspido de volta."**
+- 🟢 **"Eles não latiam. O som que faziam era um clique úmido e mecânico."**
+- 🟢 **"Manteve eles longe" (mentira).** O protagonista protegendo a confiança da parceira com uma
+  mentira de três palavras.
+- 🟢 **Ele oferece o antebraço para salvar a Val** e grita "não de agonia, mas de fúria".
+- 🟢 **"A cidade está se alimentando, e nós somos os vírus na corrente sanguínea."**
+- 🔴 **Frontmatter em formato NOVO e incompatível:** `title / date / location / characters` (lista
+  YAML), diferente tanto do padrão `layout/title/description/image` quanto do bloco `## Metadados`.
+  **O livro tem agora três formatos de cabeçalho diferentes.**
+- 🔴 **`date: "2078-11-04"`** contra a "Data In-Game: 23 de Novembro" dos caps. 120–127 e contra
+  `14/11/2089` do cap. 110. Três anos diferentes para o mesmo arco.
+- 🔴 **"Como quando você me deixou entrar naquele galpão sozinha"** e **"a memória de Bia morrendo
+  porque ele hesitou"** — a morte da Bia ganha versão aqui, e outra no cap. 129 ("o beco da Rua 7",
+  "tiro de raspão"), e outra no 117 ("eu não a matei, eu a aperfeiçoei"). Fechar.
+- 🟡 **"O cigarro do seu pai tremendo sua mão de novo"** — sexta variação.
+
+## Capítulo 129 — Fluxo Reverso
+
+**O melhor capítulo do bloco 124–129, e a melhor imagem de horror do arco novo.** O favo hexagonal
+de corpos antigos usados como **filtro de dados corrompidos** — "como rins humanos filtram toxinas,
+essas pessoas filtram erros de lógica" — é o melhor uso do corpo-como-infraestrutura desde o
+cap. 64, e o cheiro de incenso ganhando explicação metabólica é excelente.
+
+- 🟢 **"Estou tendo que ler ponteiros físicos. Ponteiros!" / "Alguém que não queria ser hackeado."**
+- 🟢 **"Sangue sintético enriquecido com glicose e... dados."**
+- 🟢 **"Dante não inventou isso. Ele apenas otimizou."** Coerente com o cap. 106.
+- 🟢 **"Essas pessoas filtram erros de lógica."** Melhor frase do bloco.
+- 🟢 **"O sistema de Dante se alimenta de gente. Nós vamos fazê-lo engasgar."**
+- 🟢 **Os corpos se agitando em espasmo "como se o choque os tivesse acordado de seu pesadelo
+  eterno"** — o custo da decisão fica na página, sem consolo.
+- 🔴 **Mesmo frontmatter novo e mesma data 2078.**
+- 🔴 **"O cabelo loiro platinado"** da Aria contra os cabelos da menina descalça dos caps. 62–74 —
+  ainda que bata com a ficha de "Aria Moretti" em `personagens.md`. É mais um sintoma de que o livro
+  tem **duas Arias** e nunca decidiu qual é a canônica.
+- 🟡 **"Não havia desejo de fumar. Havia apenas repulsa."** — o cap. 129 **corrige** o 127 (onde ele
+  fumava e prometeu parar) e o 124 (chicletes de nicotina). Três capítulos, três posições.
+- 🔵 **"Anticorpos"** como nome dos executores do sistema é bom e coerente com a metáfora
+  circulatória. Manter e usar.
