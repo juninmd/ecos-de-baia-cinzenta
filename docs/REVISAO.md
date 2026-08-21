@@ -2315,3 +2315,80 @@ melhor sabe temer.
   (cap. 98). Detalhe pequeno, mas tira o crédito de uma personagem.
 - 🔵 **Val com "íris de mercúrio vivo"** e veias prateadas pulsando. Registrar: ela voltou diferente,
   e o livro precisa dizer o que isso custa antes de usá-la como recurso.
+
+## Capítulo 106 — Fios Invisíveis
+
+**O melhor capítulo do arco novo, e o único em nível dos blocos 81–97.** A tirania é apresentada
+como *auditoria* — a correlação entre cobertores e penicilina, "honestidade estatisticamente
+improvável", "cadeia de comando: sentimental" — e o Marco reduzido a capacidade de processamento,
+com a moeda de prata intocada em cima da pilha, é a melhor imagem do arco.
+
+- 🟢 **"A eficiência tinha um som... canetas riscando papel em uníssono."** Melhor abertura do arco.
+- 🟢 **A dedução do desvio de penicilina a partir de um relatório de cobertores.** É a única vez em
+  que o vilão faz trabalho de detetive melhor que o protagonista, e isso é assustador do jeito certo.
+- 🟢 **A moeda de prata intocada** sobre os formulários — "o único resquício de uma personalidade que
+  costumava deixar tudo ao acaso". Melhor detalhe de personagem do arco.
+- 🟢 **"Prisões consomem recursos. Marco os converteu em recursos."** e **"Eu apenas otimizei a
+  combustão."** O horror volta a ser contábil.
+- 🟢 **"Você é o arquivo mais complexo que eu tenho, Gabriel. E o mais danificado."**
+- 🟢 **"Minha mãe odiava gaiolas, Dante. Mesmo as douradas."** A recusa da tentação, feita com o
+  argumento da própria pessoa oferecida.
+- 🔴 **Helena × Elena.** A mãe se chama **Helena Moretti** e a aliada se chama **Elena Moretti** —
+  uma letra de diferença, mesmo sobrenome, e as duas convivem no mesmo capítulo. Isso é
+  provavelmente a **origem da contradição "quem é Elena?"** que atravessa o livro. **Renomear uma
+  das duas** resolveria de uma vez um dos dois maiores problemas da obra.
+- 🔴 **Frontmatter incompleto.**
+- 🟡 **"A chuva que voltava a cair fina e ácida"** — quarta reincidência da chuva que o cap. 75
+  encerrou. Se ela voltou, o livro precisa dizer **quando** e **por quê**: o fim da chuva é a
+  imagem de vitória de todo o arco anterior.
+- 🟡 **"Kiko Vibe Vive" e o "Mártir Digital"** aparecem do nada como cultura popular consolidada.
+  Bom mundo — mas se não voltar, é ruído.
+- 🔵 **"O Silêncio" como nome do inimigo novo** colide com o "Culto do Silêncio" (cap. 87), com o
+  "Grande Silêncio" (cap. 98) e com o silêncio-vitória do cap. 97. Quarto uso da mesma palavra
+  para coisas diferentes.
+
+## Capítulo 107 — O Teorema da Chuva
+
+**Capítulo de nível padrão com a melhor cena de dor do livro.** A órtese remontada com sucata, sem
+anestesia, e a preferência declarada do protagonista ("é feio, é barulhento" / "funciona, eu prefiro
+assim") é a melhor síntese do conflito entre os dois.
+
+- 🟢 **"A dor não era vermelha. Era branca."**
+- 🟢 **"Uma ofensa à engenharia." / "Funciona. Eu prefiro assim."** O tema do livro em quatro linhas.
+- 🟢 **"Dante permanecia perfeitamente estático, compensando cada solavanco com microajustes
+  imperceptíveis. Ele nem piscava."** Melhor descrição do vilão até aqui.
+- 🟢 **"Aquilo é uma divisão por zero."**
+- 🟢 **"A probabilidade de você fazer isso é de 12.4%. E a probabilidade de sucesso é zero."**
+- 🟢 **"Nós não vamos lutar com balas. Vamos lutar com a única coisa que ele não consegue calcular:
+  o erro humano."** Boa tese para o arco.
+- 🔴 **A Elena está em dois lugares.** No cap. 105 ela chega à delegacia com o Gabo, no 106 está ao
+  lado dele na janela, e no 107 lidera o acampamento do porto há tempo suficiente para ter
+  construído uma cúpula eletromagnética de um quilômetro quadrado. **Não fecha.**
+- 🔴 **Frontmatter incompleto.**
+- 🟡 **"O servomotor recuperado gemeu alto."** O livro decidiu, então, que ele tem motor de novo —
+  mas por reparo do Dante, o que é uma boa justificativa. Só falta dizer isso claramente e parar de
+  alternar com "passiva".
+- 🔵 **O "Colar de Sol" de Helena** aparece aqui pela primeira vez como objeto de apego antigo.
+  Se é importante, precisa existir antes; se é novo, o texto não pode tratá-lo como conhecido.
+
+## Capítulo 108 — Ratos de Cais
+
+**Capítulo de ação de nível padrão, e o melhor capítulo do Rangel.** A escolha dele — desobedecer,
+roubar o próprio blindado e proteger uma mulher e uma criança contra a "eliminação preventiva" — é
+a única coisa que transforma o personagem de alívio cômico em gente.
+
+- 🟢 **"O mundo parecia feito de estática líquida."**
+- 🟢 **Os Ratos de Cais atirando pregos, rolamentos e arpões de pesca.** O arsenal define a facção
+  inteira sem uma linha de exposição.
+- 🟢 **"A distinção entre combatente e escudo humano é irrelevante quando o objetivo é a restauração
+  da ordem."** A frase que define o vilão do arco.
+- 🟢 **"Minha missão é proteger e servir. E isso inclui protegê-los de você."** Merecida — o Rangel
+  passou três capítulos sendo cínico, e o texto cobra dele exatamente uma vez.
+- 🟢 **"Como pilotar um prédio durante um terremoto."**
+- 🟡 **O Gabo desaparece do capítulo** depois de descer do blindado no 107. Ele está no porto, com o
+  Dante, e não aparece uma vez.
+- 🟡 **Os drones passam de "canhões de supressão sônica e dispensadores de gás" a metralhadoras
+  rotativas e mísseis** em duas páginas. Escalada rápida demais para uma cidade que não tem energia.
+- 🔵 **O Código Morto voltando** é o gancho certo — mas ele foi executado e consumido no cap. 96, e
+  o cap. 106 já sugeriu que "pulsava como um vírus antigo em um corpo novo". O livro precisa
+  explicar como ele sobreviveu.
