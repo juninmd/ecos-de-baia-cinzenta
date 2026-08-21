@@ -1593,3 +1593,80 @@ degrau é uma observação técnica, e o horror é a conclusão que o leitor mon
   fica sem dono. Puxar no capítulo seguinte, antes que esfrie.
 - 🔵 **"Dezoito de junho"** é a primeira data de calendário do livro. Se o texto vai passar a datar,
   datar sempre — e conferir contra "quarenta e sete dias", "quatro dias" e "uma semana depois".
+
+## Capítulo 81 — Sangue e Óleo
+
+**Trigésimo primeiro capítulo excepcional.** O resgate funciona porque a solução é específica e
+verificável — atirar na linha hidráulica exposta num trecho em que a calha de proteção foi cortada
+do orçamento — e porque o custo é real: dedos já quebrados no metal quente, um atuador protético
+queimado, uma bota deixada para trás. É o oposto do salvamento por conveniência.
+
+- 🟢 **"A calha de proteção que foi cortada do orçamento."** O livro resolve um clímax com corte de
+  custo em obra pública. É a assinatura temática da obra usada como mecânica de ação.
+- 🟢 **A Nise sobrevive e ainda assim o capítulo cobra caro** — e ela sai de lá com a amostra que
+  não devia ter tirado, por um motivo político que está certo. Melhor decisão de personagem
+  secundário do livro.
+- 🟢 **"Eu sei distinguir o que ataca do que se aproxima."** Vira a ameaça do avesso em uma linha.
+- 🟢 **"O fogo matou o mensageiro. A mensagem já foi entregue oito semanas atrás, pela água de
+  refrigeração."** Fecha o capítulo tirando a vitória sem precisar de um susto.
+- 🟢 **A cicatriz que pulsa e que talvez não seja dor fantasma** — plantio discreto e bem feito.
+  Cobrar depois; se não for cobrado, cortar.
+- 🟡 **"Gabo não pensou. Isso é literal, e é o que ele contou depois, e a Dra. Weiss anotou."** É a
+  terceira inserção da moldura terapêutica em poucos capítulos (ver caps. 62 e 63) sem que a
+  Dra. Weiss apareça em cena. Ou ela existe como enquadramento declarado, ou some.
+- 🟡 **"Vilar tinha cinquenta e cinco anos"** aqui, e o cap. 58 o descreve como avô de uma neta de
+  dezessete. Conferir a idade.
+- 🔵 **A codificação nos filamentos** (comprimento variável, separador fixo) é a melhor promessa do
+  arco. Cobrar: alguém tem que **ler** aquilo.
+
+## Capítulo 82 — O Profeta Mudo
+
+**Trigésimo segundo capítulo excepcional, e o melhor capítulo de horror da obra.** Tudo é físico e
+verificável: esporo em suspensão atenuando rádio, juta com fio de cobre em espiral (antena),
+infrassom de dezoito hertz, perseguição por vibração de pisada. Nada é sobrenatural, e por isso
+tudo assusta.
+
+- 🟢 **"Ele está fazendo eles sentirem medo e chamando de Deus. É a coisa mais antiga que existe, e
+  ele está fazendo com um sistema de som feito de flor."** Melhor explicação de culto do livro.
+- 🟢 **"O Profeta Mudo não é o profeta de nada. Ele é o roteador."** Reenquadra a religião como
+  infraestrutura — exatamente a tese que o livro vem construindo desde o cap. 61.
+- 🟢 **A fuga pela viga.** A solução vem de entender o sentido que o inimigo usa, não de correr mais
+  rápido. É a melhor cena de perseguição da obra.
+- 🟢 **"Sempre tem um que demora"** — a sincronia perfeita como sinal de que aquilo não é mais um
+  grupo de pessoas. Observação melhor que qualquer descrição de monstro.
+- 🟢 **"E se essa rede for melhor que a nossa?"** A pergunta que o protagonista não responde. O
+  livro está no seu melhor quando faz isso.
+- 🟡 **O Padre Miguel some sem uma linha de reação do Gabo** além de "ficou com isso engasgado".
+  Ele é o dono do lugar e um personagem antigo; a ausência dele merece mais peso.
+- 🟡 **"O agente Braz, que subiu no terraço da delegacia no nono dia"** é a melhor analogia do
+  capítulo e nunca foi mostrado. Se a cena existe em algum capítulo do primeiro terço, referenciar;
+  se não existe, ela vale um flashback de meia página.
+- 🔵 **Quarenta e nove pessoas, noventa e oito pés.** Conferência correta — manter esse rigor.
+
+## Capítulo 83 — Raízes
+
+**Trigésimo terceiro capítulo excepcional, e a melhor cena de investigação do livro depois do
+cap. 59.** O método é mostrado: olhar o vazio entre as ocorrências, nomear a curva, seguir a curva
+até o centro, e descobrir que o centro é um memorial construído em cima do que se quer esconder. E
+a última fala desmonta o próprio plano sem cancelá-lo.
+
+- 🟢 **"O padrão nunca está nos pontos. Está no vazio."** A frase que define o detetive da obra.
+- 🟢 **O Memorial do Dilúvio sobre o bunker da Aeterna** é o melhor achado de trama do arco: o
+  monumento aos mortos é literalmente a tampa do crime. Amarra com "a Nova Baía é uma necrópole
+  com síndico" (cap. 61).
+- 🟢 **"Uma espiral logarítmica não tem centro. Só tem um lugar de onde parece que começou, porque a
+  gente parou de conseguir enxergar mais fundo."** Melhor fecho de capítulo do arco.
+- 🟢 **"O DNA é humano. Está convertendo pessoas."** Paga o cap. 82 no capítulo seguinte — o ritmo
+  de revelação deste arco está muito melhor calibrado que o do arco anterior.
+- 🟢 **"Se está crescendo, está bebendo. E se está bebendo, o nível baixa."** Pedido de perícia que
+  é dedução, não procedimento. Mais disso.
+- 🔴 **Vilar como prefeito interino** exige explicação: no cap. 58 ele é demitido pela corporação em
+  quinze minutos, e no cap. 53 está sob custódia domiciliar. A reintegração e a ascensão precisam
+  aparecer em pelo menos uma cena do bloco 72–80.
+- 🟡 **"Vandalismo botânico" que a Entidade se recusa a reclassificar** é excelente e passa rápido
+  demais. É a melhor ilustração possível do argumento da Val no cap. 79 (a Entidade conserta a
+  realidade para bater com o que enxerga) — vale um parágrafo a mais.
+- 🟡 **Setenta e um sumiços com porta trancada por dentro** entram na lista e não voltam. É o dado
+  mais assustador do capítulo e o único que ninguém investiga.
+- 🔵 **"Cento e nove estátuas de bronze"** e **"quatro mil corpos"** — números específicos, bons.
+  Conferir contra o que o livro já disse sobre as mortes do Dilúvio.
