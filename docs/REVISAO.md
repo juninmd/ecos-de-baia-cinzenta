@@ -5186,3 +5186,56 @@ autoconsciência sem autopiedade, e o primeiro objetivo concreto do arco final (
   outros dois é a primeira vez que o ritual tem **consequência social**.
 - 🔵 **"Apontar com o braço direito custa mais do que apontar com dois quilos de escopeta"** — ótimo
   detalhe, e implica que a prótese é a **direita**. Somar à folha de personagem.
+
+## Capítulo 210 — Roldanas e Sangue
+
+**Sequência de tensão bem executada, e o melhor gesto da Valéria em todo o arco:** o braço disparando
+para baixo *"como um dardo"* para segurá-lo. O Modo de Segurança salva por protocolo, mas o leitor
+não consegue deixar de ler afeto — e o texto tem a sabedoria de **não comentar**.
+
+- 🟢 **"O braço biônico de Valéria disparou para baixo como um dardo."**
+- 🟢 **"A dor latejava como um segundo coração furioso."**
+- 🟢 **"A alucinação sumiu como vidro quebrado."**
+- 🟢 **"Esfolando a pele até a carne viva contra o piso de aço rasgado."**
+- 🟢 **A subida contada em unidades decrescentes** (meio metro → dez centímetros) enquanto o pino
+  cede. Boa mecânica de suspense; o leitor conta junto.
+- 🟢 **"A dor era horrível, e eu nunca estive tão grato por ela."**
+- 🟢 **"Vamos achar a saída dessa geladeira."** O humor sobrevivendo ao corpo.
+- 🟡 **68ª ocorrência**, e é a mesma do 208 e do 211 (bater/forçar o ombro). Vigésimo sexto capítulo.
+- 🟡 **"Quase seis metros"** aqui contra **"uns seis metros"** no 209 — ok — mas o 209 dizia que o
+  guindaste estava a seis metros **do chão**, e aqui ele sobe seis metros pendurado. Confirmar se é
+  a mesma altura ou se ele subiu doze.
+- 🟡 **"Ancorando-me na realidade de Aeterna"** — a cidade é **Baía Cinzenta**; Aeterna é a
+  corporação. Trocar.
+- 🔵 **"Elias tentou ajudar segurando o final do cabo"** e não faz diferença nenhuma. Se o garoto
+  age, deixar que a ação **conte** — nem que seja para piorar.
+
+## Capítulo 211 — O Altar de Gelo
+
+**Capítulo funcional de reabastecimento de objetivo**, com uma primeira linha excelente e um
+problema de temperatura que precisa ser resolvido.
+
+- 🟢 **"O ar estava tão frio que parecia ter dentes."** Melhor abertura do bloco.
+- 🟢 **"Minhas órteses rangiam com um protesto quase humano."**
+- 🟢 **"Um mausoléu esquecido por Deus e pela corporação."**
+- 🟢 **"Obrigado pelo incentivo tático, Valéria."**
+- 🟢 **"A dor era meu altar, o sangue era minha âncora."** Boa formulação — **e é a quinta variação
+  da mesma frase** (ver 185, 199, 204, 207). Escolher uma.
+- 🟢 **"A Praga de Ferro e as estruturas do Jardim se sobrepõem no eixo principal."** A guerra entre
+  as pragas (208) vira **obstáculo tático**, não só cenário. Uso correto de uma ideia nova.
+- 🟢 **"A rota não possui viabilidade de furtividade. Teremos que romper a defesa fisicamente."**
+  Honesto: o livro não finge que três feridos vão passar sem serem vistos.
+- 🟢 **"Vamos fazer barulho."** Boa deixa.
+- 🔴 **"Quinze graus Celsius NEGATIVOS"** — o cap. 208 registrava **quatro positivos** e o 209
+  **quatro negativos**, ambos no mesmo complexo, minutos antes. **Três temperaturas em três
+  capítulos.** E eles estão **subindo** (dutos superiores), onde deveria ser menos frio.
+- 🔴 **"O ombro ESQUERDO era uma massa latejante"** — nos caps. 205–210 o ombro ferido é o
+  **direito**. Ver a folha de personagem: o lado troca praticamente a cada capítulo agora.
+- 🟡 **"Quarenta e dois minutos" até a amputação obrigatória** — sexto relógio do arco. Nenhum dos
+  cinco anteriores foi cumprido.
+- 🟡 **69ª ocorrência.** Vigésimo sétimo capítulo. E a resposta ao Elias (*"apenas um ajuste de
+  foco"*) é boa demais para ser desperdiçada numa repetição: **guardá-la para a última ocorrência**.
+- 🟡 **"Puxando minha PISTOLA do coldre"** — ele usa **escopeta** desde o 204. Se tem as duas, dizer;
+  se não, padronizar.
+- 🔵 **"Arrume suas armas, Elias"** — o garoto nunca teve arma nenhuma; no 193 ele tinha uma chave de
+  fenda. Se ele foi armado em algum ponto, **falta a cena**.
