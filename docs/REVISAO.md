@@ -611,3 +611,423 @@ silêncio e adoece fisicamente quando ele chega — é o melhor conceito do livr
   andares superiores. Alinhar os números — quantos saíram vivos?
 - 🔵 **A ausência de Aria como luto.** "Pela primeira vez em anos ele estava sozinho dentro da
   própria cabeça." Excelente. Confirmar se ela volta e se o reencontro paga esse silêncio.
+
+---
+
+# 🔴 CONTRADIÇÃO CENTRAL: quem é Elena?
+
+Este é o erro mais grave do livro até o capítulo 35, e precisa de decisão antes de qualquer
+outra correção, porque contamina capítulos inteiros.
+
+- **Capítulo 21:** "estava Elena. **Sua ex-esposa**." Ela é apresentada assim, e a chantagem do
+  vilão é "A Torre ou a **Esposa**?".
+- **Capítulos 14 e 17:** as referências a "a cafeteria onde ele terminou seu casamento" e
+  "nem esposa" apontam para a mesma leitura.
+- **Capítulo 33:** "Elena olhou para o **irmão** de lado, no escuro."
+- **Capítulo 35:** "Ela ficou olhando para o **irmão** por um tempo comprido"; e Gabo pensa em
+  "dias inteiros negociando com síndico, com **irmã**, com burocrata".
+
+Ou Elena é ex-mulher (caps. 14, 17, 21) ou é irmã (caps. 33, 35). As duas coisas não convivem —
+e a diferença muda o sentido de cada cena em que ela aparece: o resgate da bomba, o salvamento na
+escada do cap. 25, e principalmente a bronca do cap. 35, que soa como irmã mais velha.
+
+**Recomendação:** irmã. O texto dos capítulos 33 e 35 (os mais bem escritos) trata a relação com
+naturalidade de sangue, e a repreensão moral funciona melhor vinda de família. Nesse caso, corrigir
+o cap. 21 e as duas menções a "esposa" nos caps. 14 e 17 — e a "Sra. Moretti" do cap. 24 passa a
+fazer sentido como sobrenome de nascimento.
+
+---
+
+## Capítulo 33 — A Sabedoria da Ferrugem
+
+**Quarto capítulo de qualidade excepcional** (com 18, 28 e 32) — e de novo com frontmatter estendido.
+Otávio Farias é o melhor personagem secundário do livro: existe por três páginas, tem uma razão
+concreta para ficar (a mulher no quarto andar), resolve um problema real e cobra um preço humano.
+
+- 🔴 **Salto de oito dias sem sinalização.** O cap. 32 termina às 03h51 do primeiro dia; este abre
+  "no oitavo dia sem energia". Nenhuma transição. Como o cap. 32 fecha dizendo "estamos no primeiro
+  dia", o corte é ainda mais perceptível.
+- 🟡 **"O senhor é o do azul metálico"** — mas o Cobalt é descrito no cap. 2 com "pintura já
+  descascada em bolhas negras" por corrosão ácida. Alinhar a cor.
+- 🔵 **Onze carros, onze fitas azuis, e "nenhuma delas vai saber o nome dele".** Fio deliberado.
+  Confirmar se o livro cumpre — e se Dilma Farias é mencionada de novo.
+
+## Capítulo 34 — O Julgamento da Rua
+
+- 🔴 **Val está no carro, mas o capítulo não a lista no elenco** do frontmatter (só Gabo e Elena),
+  e ela tem fala: "— O que eles estão fazendo? — sussurrou Val". Corrigir o cabeçalho.
+- 🟡 **Execução sumária tratada como catarse.** O idoso é morto para justificar a fúria, e o
+  capítulo entrega a vingança sem custo — quatro parágrafos depois do cap. 33, que tinha acabado de
+  estabelecer um mundo de escassez e escolhas difíceis. Comparado ao 35, que examina o mesmo tipo de
+  violência, este passa pano.
+- 🟡 **O lançador improvisado aparece pronto no porta-malas.** É uma arma memorável (cilindro de
+  suspensão + ignição de fogos) e merecia a cena da construção, não a da estreia.
+- 🔵 **"Eles não viram um homem, viram um demônio."** Primeira aparição do apelido que o cap. 35
+  confirma ("É o Demônio da Baía"). Bom plantio — verificar se o livro desenvolve a lenda.
+
+## Capítulo 35 — Calibre 12
+
+**O capítulo mais importante do livro em termos de personagem.** Ele faz o que os capítulos 7, 13,
+15 e 29 se recusaram a fazer: mostra o protagonista cometendo um assassinato, nomeia a vítima
+(Éder), e coloca outra personagem para dizer isso na cara dele sem que o texto o defenda.
+
+- 🔴 **A idade de Gabo não fecha.** Aqui: "ele tinha quarenta e um anos". No cap. 1: "aos trinta
+  anos, sentia-se como se tivesse setenta". Ainda que houvesse salto temporal, não há onze anos
+  entre os capítulos. Fixar a idade e revisar as duas pontas.
+- 🟡 **"Quinze anos seguintes" aparece três vezes na obra** (caps. 17, 28, 35) como voz de um
+  narrador que olha para trás de muito longe. É um recurso forte, mas precisa ser consistente:
+  hoje ele aparece só nos capítulos reescritos.
+- 🔵 **"Um dia alguém vai te dizer ela de volta, com o teu nome no meio."** É a promessa narrativa
+  mais bem armada do livro. Confirmar que ela é cumprida — se não for, é a maior dívida da obra.
+- 🔵 **"Ia levar muito tempo para alguém dizer esse nome em voz alta na frente de Gabriel Moretti."**
+  Confirmar onde Éder volta.
+
+## Capítulo 36 — O Ninho da Serpente
+
+- 🔴 **Kael está morto e fala no rádio.** No cap. 30 ele é eletrocutado com um cabo de alta tensão
+  no pescoço e o texto é explícito: "tombou para o lado, **estático e morto**". Aqui ele responde ao
+  Sindicato pelo rádio e ameaça esfolar os policiais. É a segunda ressurreição não explicada do livro
+  (a primeira é Miranda, caps. 13 e 23). Decidir se Kael morre no 30 ou se sobrevive — e, se
+  sobrevive, dizer como.
+- 🔴 **A cronologia da queda de energia se contradiz de novo.** Aqui: "a rede elétrica havia caído
+  **horas atrás**". Nos caps. 33 e 37: oitavo dia sem energia. O cap. 36 se passa entre os dois.
+- 🟡 **A rusga Val x Elena aparece do nada e some.** As duas trocam farpas ("jornalista", "lentes de
+  vidro") como se houvesse atrito estabelecido, que o livro nunca mostrou — e no capítulo seguinte
+  estão em perfeita sintonia tática. Ou desenvolver o conflito, ou cortá-lo.
+- 🟡 **"Elena, jornalista"** — é a primeira vez que se diz a profissão dela, numa provocação. Ela
+  carrega uma câmera desde o cap. 22 e ninguém explicou; vale plantar isso antes.
+- 🔵 **Vilar é chamado de "pai substituto"** aqui pela primeira vez. Bom, mas tardio: se essa relação
+  existe, precisa aparecer nos capítulos 3 e 8, onde ele é só um superior ranzinza.
+
+## Capítulo 37 — A Linha Azul
+
+**Quinto capítulo de qualidade excepcional.** A escolha de fazer o inimigo ser gente do bairro —
+"o filho do dono da padaria da Onze, ele me vendia pão" — transforma um cerco de ação em tragédia
+social. E o menino algemado ao volante do caminhão é a imagem mais forte do livro.
+
+- 🟡 **"Duas pessoas morreram dentro da delegacia"**, mas o texto depois contabiliza "onze feridos
+  que iam morrer nas quarenta e oito horas seguintes". Se o objetivo é o número frio, vale unificar
+  o balanço num lugar só.
+- 🔵 **"Trinta e um policiais começaram a chamá-lo de senhor"** e "sentiu que tinha funcionado" —
+  o livro está armando a corrupção do protagonista pela eficácia. Confirmar se cobra isso depois.
+- 🔵 **A ligação com o cap. 35 é perfeita** ("semana passada eu atirei num moleque que tinha largado
+  a arma"). É o exemplo de como os capítulos reescritos conversam entre si — e de como os antigos
+  não conversam.
+
+## Capítulo 38 — A Ressaca
+
+**Sexto capítulo excepcional.** A abstinência coletiva é a melhor consequência de mundo que o livro
+produziu: o sargento coçando o plugue até a carne viva, o policial pedindo educadamente ao monitor
+desligado que atualize o feed. E a descoberta do arquivo morto — "ninguém digitaliza o que está
+morto, porque não gera taxa" — é a melhor virada de investigação da obra.
+
+- 🔴 **A Dra. Nise está viva sem explicação.** No cap. 11 ela fica para trás enfrentando uma Unidade
+  de Cancelamento e o livro nunca confirma o destino. Aqui é dito que ela "chegou no dia seguinte,
+  com Vilar, resgatada de um comboio médico emboscado". Isso resolve o fio — mas precisa ser cena,
+  não nota de rodapé, porque a despedida dela no cap. 11 foi tratada como morte heroica.
+- 🟡 **"Digitalizaram tudo em quarenta e sete"** — nova marca temporal solta. Com 2041 (cap. 18) e
+  as idades contraditórias, o livro precisa de uma linha do tempo mestra em documento à parte.
+- 🔵 **Val cortada da Rede aos dezenove, cinco meses de abstinência sozinha.** É a melhor informação
+  de personagem dela em todo o livro, e chega no cap. 38. Vale plantar antes.
+- 🔵 **Trinta e nove mil processos e "semanas" para achar algo.** Confirmar que o livro respeita esse
+  prazo — se a pista aparecer em dois capítulos, o obstáculo se anula.
+
+## Capítulo 39 — Dossiê Vance
+
+**Sétimo capítulo excepcional.** A tese central — "papel é a única rede que não pode ser desligada;
+também é a única que apodrece" — é a melhor síntese temática do livro. E a cena do cordão policial
+protegendo a assassina em massa de quatro mil vítimas dela é o momento político mais maduro da obra.
+
+- 🟡 **A prisão da Vance esvazia a antagonista antes de ela existir.** Ela é citada pela primeira
+  vez no cap. 30 (de passagem), aparece aqui e já é presa. O livro trata como clímax a queda de
+  alguém que o leitor nunca viu operar. Se ela é a vilã da fase, precisa de capítulos antes disso.
+- 🔵 **"Ele registrou o rosto, o que era pior, e passou os anos seguintes sabendo o nome dela."**
+  Confirmar se a mulher da pedra volta.
+- 🔵 **"Isso aqui não foi a queda de nada. Foi a demissão de uma diretora."** Boa recusa do falso
+  final. Verificar quem assume o lugar dela.
+
+## Capítulo 40 — O Céu Quebrou
+
+- 🔴 **O corpo de Dante é enterrado, mas o cap. 28 diz que não foi possível recuperá-lo.** Lá, o
+  texto é explícito: "Não deu para levar o corpo", e a grade fechando foi "o enterro que Dante
+  Moretti recebeu". Aqui ele foi recuperado "dois dias antes" numa operação com três costelas
+  fraturadas. Ou o cap. 28 perde sua melhor imagem, ou este capítulo precisa de outra solução.
+- 🔴 **Novas três costelas fraturadas, sem cena.** O ferimento é mencionado de passagem como custo
+  de uma operação que não vemos — e some no capítulo seguinte, onde Gabo dirige e puxa corda.
+- 🟡 **O ciclone é explicado duas vezes.** Gabo faz o diagnóstico ambiental completo ("trinta anos
+  de sequestro do ciclo das águas") e, três páginas depois, Val repete tudo em dados técnicos.
+- 🟡 **"Vinte e três dias" de paz** não fecha com os "oito dias" dos caps. 33-38 nem com os "três
+  dias" do panfleto no cap. 39. O livro precisa de um calendário mestre.
+- 🔵 **Corvos sintéticos e garças de plástico biológico** — bom detalhe de mundo, usado uma vez só.
+
+## Capítulo 41 — Maré Alta
+
+**Oitavo capítulo excepcional, e a melhor sequência de ação da obra** — justamente porque não tem
+heroísmo, tem procedimento: manter rotação alta para o escapamento não afogar, amarrar o menor
+primeiro, empilhar criança sem cerimônia porque cerimônia custa segundo.
+
+- 🔴 **A mãe de Gabo está viva.** "o bairro onde Gabo nasceu, onde **a mãe dele ainda estava**" —
+  mas o cap. 26 inteiro se sustenta no luto pela morte dela, com a cena do hospital e do ataque
+  cardíaco. É uma contradição frontal e afeta o melhor capítulo emocional do livro. Decidir e
+  corrigir uma das duas pontas.
+- 🟡 **A confissão de Gabo é a melhor coisa do capítulo e passa sem eco.** Preferir que a menina se
+  afogue para não perder Elena é o pensamento mais honesto do protagonista em 41 capítulos. Elena vê
+  e "nunca disse nada" — o que é ótimo, mas o livro também não volta ao assunto.
+- 🔵 **"Aquilo foi operado."** O dilúvio como crime, não como desastre. É a melhor virada de trama
+  desde o cap. 38. Confirmar quem abriu as comportas.
+- 🔵 **A pizzaria dos Rossi, a catedral do Padre Miguel, o barraco setenta e um.** O livro nomeia o
+  que perdeu — bom. Confirmar se esses lugares existiam antes ou se aparecem só no obituário.
+
+## Capítulos 42, 43 e 44 — o bloco mais forte do livro
+
+Os três formam a melhor sequência da obra, e resolvem em conjunto tudo o que a primeira metade
+errava. O desastre é logístico (quatro vasos para 307 pessoas), a decisão é aritmética (quem entra
+pela porta tira comida de quem já está dentro), o custo é nominal (Adilson, Duda, Neide) e a
+vitória é impossível por definição — a Dra. Nise recusa deixar o protagonista sair achando que
+existe vitória limpa. **Toda a lista de correções dos capítulos 1 a 30 é, no fundo, um pedido para
+que eles se pareçam com estes três.**
+
+- 🟢 **A dúvida sobre Elena se resolve aqui.** O cap. 42 apresenta **Clara Moretti, 24 anos, irmã**,
+  e trata Elena, 28, como a outra irmã. Some com a hipótese de ex-esposa — o erro está mesmo no
+  cap. 21 e nas menções dos caps. 14 e 17, que precisam ser corrigidas.
+- 🔴 **`image: /cidade.jpg` no cap. 43.** Único capítulo do livro que não aponta para a própria
+  imagem (`/capitulo_43.jpg`). Corrigir o frontmatter.
+- 🟡 **A menina de casaco amarelo não é nomeada quando é salva (cap. 41).** Funciona como escolha
+  narrativa — ela vira nome só quando morre. Mas vale garantir que o cap. 41 a descreva de forma
+  reconhecível o bastante para o leitor fazer a ligação sozinho.
+- 🟡 **O braço mordido some no fim do cap. 44.** Ele "não olhou o braço" e termina o capítulo
+  tossindo sangue. Como o livro agora leva ferimento a sério, este precisa de continuidade explícita
+  no cap. 45.
+- 🔵 **"Estavam olhando para o norte."** As criaturas identificam a delegacia como alvo. Confirmar
+  que o cerco acontece — é a promessa mais concreta deixada em aberto até aqui.
+- 🔵 **A tatuagem "Mamãe" e a etiqueta com prefixo de papel timbrado.** Confirmar se o livro
+  identifica algum desses pacientes pelo nome. Seria o cumprimento perfeito da "lista de quem assina".
+
+## Capítulo 45 — Protocolo N.O.A.
+
+**Nono capítulo excepcional, e o mais ousado: um capítulo inteiro sem nenhum personagem conhecido.**
+A ideia central — um sistema que interpreta silêncio como fim do mundo porque "um homem escreveu isso
+num documento e nunca voltou para revisar" — é a melhor sátira do livro. E a decisão de mostrar a
+frota apodrecida (18 hangares vermelhos há décadas) enquanto o vilão lembra apenas de "uma frota"
+é caracterização de primeira: "sessenta anos de estase guardam a ambição intacta e comem os números".
+
+- 🟡 **"Um sujeito de terno e bengala que entrou como estagiário do jurídico"** — Krell é descrito
+  no cap. 4 com bengala de titânio, mas nunca como ex-estagiário nem como quem "comeu" a Aeterna.
+  Se essa é a revelação, ela precisa de plantio; se é outro personagem, precisa de nome.
+- 🔵 **Elara é filha de Arthur; Silas é filho.** Confirmar que a genealogia Vance é sustentada — e
+  que o cap. 39 (prisão de Elara) conversa com isso.
+
+## Capítulo 46 — O Dilúvio
+
+**Décimo capítulo excepcional.** Os doze soldados que quebram o fêmur no primeiro passo em gravidade
+normal, depois de seis décadas suspensos, é a melhor imagem de "exército obsoleto" que o livro
+poderia produzir. E a análise do Gabo — "toda tática que eu aprendi pressupõe que o outro lado quer
+ir para casa" — é a melhor frase tática da obra.
+
+- 🟡 **O braço mordido tem continuidade (bom), mas some no meio do capítulo.** A Nise avisa que ele
+  perde o braço se voltar para a água, e o assunto não retorna. Como o cap. 47 o joga numa torre
+  inundada, isso precisa ser cobrado.
+- 🔵 **"Onde está o meu filho?"** — a única pressa na voz de Arthur. Ótimo gancho. Confirmar que
+  Silas Vance aparece.
+
+## Capítulo 47 — O Mecanismo da Queda
+
+**O capítulo que parte o livro em dois, e o mais bem construído do ponto de vista de suspense**: o
+detalhe do assoalho novo demais, o som das correntes que "não é um barulho ameaçador", e a dor que
+não vem — o silêncio ocupando metade do corpo "como se alguém tivesse desligado a instalação
+elétrica de um andar inteiro da casa".
+
+- 🔴 **O Taxidermista está vivo sem explicação.** No cap. 24 ele é soterrado por uma granada num
+  túnel que colapsa ("soterrando a galeria e seu criador"). Aqui está inteiro, operando uma torre
+  cheia de armadilhas preparadas. É a **terceira** ressurreição não explicada (Miranda, Kael, ele).
+  Como o cap. 24 é fraco e este é excelente, a correção mais econômica é o cap. 24 não matá-lo —
+  o que também resolve a crítica de que o vilão do caso inicial morre sem investigação.
+- 🟡 **"Não pensou na Bia"** — a única menção a Bia em muitos capítulos, usada como negativa.
+  Funciona, mas reforça que o fio da Bia (caps. 1-5) ficou sem tratamento.
+- 🔵 **"Gabriel Moretti morreu. E alguma coisa muito mais fria começou a nascer."** Marca de virada
+  de arco. Confirmar que o Gabo pós-cadeira é de fato outro personagem — se voltar igual, a cena
+  perde tudo.
+- 🔵 **Dra. Weiss reaparece como referência** ("nas sessões, nos anos seguintes"). Ela apareceu uma
+  única vez, no cap. 4. Confirmar se a terapia vira estrutura recorrente.
+
+## Capítulo 48 — Fantasma na Máquina
+
+- 🔴 **O capítulo está fora de ordem cronológica.** Ele mostra Gabo se recuperando de um **tiro no
+  peito** sofrido na "batalha do Ninho da Serpente" (cap. 36), e apresenta a Dra. Nise como recém-
+  resgatada por Vilar — informação do cap. 38. Mas ele está posicionado **depois do cap. 47**, em
+  que Gabo tem a coluna e as duas pernas esmagadas por dois mil quilos de ferro. Nos caps. 49 e 50
+  ele está numa mesa com dezoito fraturas, inconsciente por três dias.
+  **Recomendação:** mover o cap. 48 para entre os caps. 38 e 39. Ele funciona bem lá — inclusive
+  porque introduz Arthur Vance como "o arquiteto" antes de o cap. 45 revelá-lo na Arca.
+- 🟡 **É o capítulo mais fraco do bloco 42-50.** Tem os vícios da primeira metade: batalha digital
+  descrita como "código azul contra código negro e roxo", vilão que "corrói e contorna", vitória por
+  frase de efeito ("vem, gatinho, vem pegar o leite"). Ao lado do 49 e do 50, a diferença é gritante.
+
+## Capítulo 49 — A Vigília
+
+**Décimo primeiro capítulo excepcional**, e o melhor capítulo da Val em todo o livro. Ela deixa de
+ser a hacker que resolve tudo no teclado e vira uma pessoa de vinte e três anos que descobre, no
+corredor, que alvo real não some da tela: "o alvo caiu e continuou existindo, e o barulho que ele
+fazia era de pessoa tentando encher um pulmão que não enchia mais, e durou quase um minuto".
+
+- 🟢 **A lição da Nise é a melhor definição de responsabilidade do livro** — "se eu escrever, é
+  burocracia; se você escrever, é conta" — e conecta diretamente com o pedido da Neide no cap. 28
+  ("fala o meu nome pra alguém"). O livro está construindo um sistema moral coerente nos capítulos
+  reescritos.
+- 🔵 **A chamada perdida no fim** é montagem perfeita com o cap. 50. Confirmar que nada no meio
+  quebra essa ligação (hoje o cap. 48 quebra, ver acima).
+
+## Capítulo 50 — O Silêncio da Chuva
+
+**O capítulo mais devastador do livro**, e a prova de que a obra sabe fazer tragédia sem vilão:
+a mãe morre porque insulina acima de trinta graus perde potência e não avisa.
+
+- 🔴 **Isto resolve a contradição da mãe — e condena o capítulo 26.** Helena Moretti estava viva
+  (como diz o cap. 41) e morre aqui, aos 61 anos, de diabetes. Portanto a simulação do cap. 26,
+  construída inteira sobre a mãe morta de ataque cardíaco quando Gabo era menino, é a ponta errada.
+  **Recomendação:** reescrever a tentação do cap. 26 usando outra perda (Bia é a candidata natural),
+  ou mover o cap. 26 para depois do 50, quando a oferta de "desfazer a morte dela" teria peso real.
+- 🔴 **O Colar de Sol tem dois donos ao mesmo tempo.** Aqui ele é da mãe: Dante deu em 79, ela usou
+  34 anos, e Clara o guarda no bolso ("ia demorar oito anos" para mudar de dono). Mas Gabo aperta
+  "o Colar de Sol" sob a camisa desde o cap. 1, como âncora contra a dor, em todos os capítulos.
+  Ou são duas peças (e o texto precisa dizer), ou uma das linhas tem de mudar.
+- 🟡 **"Quarenta e um anos"** confirma a idade do cap. 35 e reforça que o cap. 1 ("aos trinta anos")
+  precisa ser corrigido.
+- 🔵 **"Ia demorar oito anos."** Marca temporal deliberada. Confirmar o momento em que o colar passa
+  para o Gabo — se o livro cumprir isso, é um dos melhores fios longos da obra.
+
+---
+
+# 🔴 BLOCO CRÍTICO: capítulos 51 a 53 contradizem o bloco 42-50
+
+Os capítulos 51, 52 e 53 pertencem visivelmente a uma versão anterior da obra e conflitam com tudo
+o que os capítulos 42-50 estabeleceram. Não é um detalhe: é a **mesma morte contada duas vezes, de
+formas incompatíveis**.
+
+### A morte de Helena Moretti, duas versões
+
+| | Capítulo 50 (reescrito) | Capítulo 51 (antigo) |
+|---|---|---|
+| onde | apartamento, 7º andar, Rua Vinte e Dois | Palafita 402, Beco da Sombra, Setor 7 |
+| causa | insulina perdeu potência sem refrigeração | atendimento negado pelo Farmacêutico |
+| culpa | ninguém; o cerco e o calor | um agiota específico, matável |
+| cremação | paga com o relógio Seiko do pai | paga com empréstimo do agiota "O Dourado" |
+| como Gabo soube | silêncio de onze segundos da Val | relatório cruzado de dados |
+
+A versão do cap. 50 é incomparavelmente melhor: transforma a morte em tragédia sistêmica, sem vilão
+para punir. A do cap. 51 reduz tudo a um culpado que pode ser assassinado por um justiceiro.
+
+**Recomendação:** manter o cap. 50 e reescrever o 51 para que a morte já seja conhecida — o caso do
+Farmacêutico continua funcionando como introdução do Santo sem precisar reintroduzir o luto.
+
+### Outras contradições do bloco
+
+- 🔴 **Cap. 51: Gabo anda normalmente.** Ele desce do carro, se agacha ao lado do corpo e volta a
+  dirigir, com Vilar comentando que "aquela queda na Torre quase te quebrou ao meio". No cap. 47 ele
+  teve a coluna esmagada; no 49, dezoito fraturas; no 52 (dois capítulos depois) ele usa órteses
+  servo-assistidas. O 51 precisa ser reposicionado no tempo ou reescrito com as órteses.
+- 🔴 **Cap. 51: Vilar está em campo; no cap. 53 está em prisão domiciliar** — sem nada explicando a
+  passagem, e depois de o cap. 38 tê-lo deixado no comando da delegacia.
+- 🔴 **Cap. 53: aparece uma personagem chamada "Glitch"** com uma fala ("— Precisamos fechar as
+  comportas — disse Glitch"), que não existe em nenhum outro ponto da obra. É resquício de rascunho;
+  a fala pertence à Val.
+- 🔴 **Cap. 53: "Comandante Kael (reconstruído)"** — o parêntese está no texto publicado. Além do
+  problema de forma, é a terceira aparição de Kael depois de morto no cap. 30.
+- 🔴 **Cap. 53: quem abriu as comportas muda.** Aqui é Marco Moretti, por gentrificação. No cap. 43,
+  a sequência foi calculada para lavar o subsolo da Aeterna. No cap. 45-46, Arthur Vance retorna como
+  o poder real. São três explicações concorrentes para o evento central da segunda metade.
+- 🔴 **Cap. 53: Dante "lutou quinze anos dentro de uma caixa de vidro"** — mas Gabo desligou o
+  suporte de vida dele no cap. 27, e o corpo foi enterrado no cap. 40.
+- 🟡 **Cap. 52 usa `image: /cidade.jpg`**, como o cap. 43. Dois capítulos sem imagem própria.
+- 🟢 **O que vale preservar do bloco:** o Santo é uma boa criação (a moeda *Fiat Justitia*, as mãos
+  quebradas, a máscara com lágrimas para cima); "O Jardim" e a lavagem de DNA são um bom motor de
+  trama; e a revelação do cap. 53 sobre Dante ter plantado a foto com as próprias sinapses é a melhor
+  reinterpretação retroativa do livro. Todos os três sobrevivem a uma reescrita que respeite o
+  cap. 50 e as órteses.
+
+## Capítulo 54 — Fé e Ferrugem
+
+- 🔴 **Miranda agora é "Chefe Miranda", comandando os robôs.** Quarta aparição depois de morto no
+  cap. 13. A cada retorno ele ganha um cargo novo (gerente do bunker no 12, agiota-alvo no 23,
+  controlador de robôs aqui). Definir de uma vez se ele morre, e quando.
+- 🟢 **A bateria das órteses acabando no meio da luta é a melhor consequência física do bloco.**
+  O livro está aprendendo a cobrar o corpo do protagonista.
+- 🟢 **A repreensão do Padre Miguel** — "você não pode socar o mundo até ele consertar" — é a
+  primeira vez que alguém questiona o método do Gabo por dentro do livro, e não pelo resultado.
+  Vale muito; confirmar se o padre volta.
+- 🟡 **"Óleo negra"** (concordância) e **"Val" com o cabelo roxo néon no cap. 53 e não descrito aqui**
+  — pequenos ajustes de revisão de texto.
+
+## Capítulo 55 — A Tentação de Lázaro
+
+- 🔴 **É a terceira vez que o livro usa a mesma cena: oferecer ao Gabo a família de volta.** Cap. 26
+  (a mãe na simulação), cap. 27 (o pai implorando pela vida), e agora o frasco de Lázaro com todos
+  eles. As três funcionam isoladamente e se anulam em conjunto. Escolher **uma** — a do cap. 27 é a
+  mais forte, porque a tentação não é a felicidade, é a culpa.
+- 🟡 **Isadora é apresentada e resolvida no mesmo capítulo.** Femme fatale, vítima revelada,
+  recrutada e advertida ("não sou sua amiga") em oito páginas. Ela merece mais tempo ou menos espaço.
+- 🟢 **"Porque eu sou o único que viu a marca no seu braço e perguntou quem fez"** é a melhor fala
+  do Gabo em muitos capítulos, e caracteriza melhor que qualquer tiroteio.
+- 🔵 **"O Projeto Dilúvio não é só água. É um reset."** Confirmar como isso se concilia com a
+  explicação imobiliária do cap. 56, que é muito melhor.
+
+## Capítulo 56 — O Preço do Amanhã
+
+**Décimo segundo capítulo excepcional, e a melhor virada de investigação do livro inteiro.** A
+descoberta não vem de tiroteio nem de hacker: vem de ler o rodapé de uma placa de propaganda. E a
+conclusão — "a água não destruiu o patrimônio deles, a água limpou o título" — é a tese que
+dá sentido a toda a segunda metade da obra.
+
+- 🔴 **O bilhete da irmã é assinado "— L."** O texto diz explicitamente "a letra da irmã", e as duas
+  irmãs são **E**lena e **C**lara. Ou a inicial está errada, ou existe uma terceira irmã.
+- 🔴 **Conflito com o cap. 53 sobre quem causou o Dilúvio.** Aqui a explicação é imobiliária e
+  documental (consórcio, protocolo, leilão). No cap. 53 é o irmão Marco por higienismo. A do 56 é
+  incomparavelmente melhor e deveria substituir a outra.
+- 🟡 **A menina fantasma no banco de trás aparece sem apresentação.** Ela tem boneca de pano, nunca
+  dorme, e Gabo já "não pergunta mais essas coisas". Se é a Duda do cap. 43, o texto precisa dar ao
+  leitor a chance de reconhecer; se é outra, precisa de origem.
+- 🟢 **"Protocolo municipal 2088/61"** — primeira data absoluta do livro (2088). Cruzar com "2041"
+  (cap. 18) e "ano trinta e nove/quarenta e um/quarenta e três/quarenta e sete" para montar a linha
+  do tempo mestra que a obra ainda não tem.
+
+## Capítulo 57 — Zona de Interesse
+
+- 🔴 **Aria virou uma criança física sem transição.** No cap. 2 ela é holograma; nos caps. 8-32 é
+  voz em circuito; no cap. 32 "se foi" e vira luto; no cap. 56 é uma menina que aparece no banco de
+  trás e "nunca dormiu"; aqui é uma criança que respira, embaça o vidro, cheira a cabelo por lavar e
+  obedece ordens. O livro precisa decidir a natureza dela — e, se a mudança é o ponto, precisa mostrá-la.
+- 🟢 **"Análise de crédito: inexistente. Valor social: negativo. Recomendação: descarte."** Com a
+  pausa deliberada para o cidadão processar — é a melhor sátira corporativa do livro depois do
+  Protocolo N.O.A.
+- 🟢 **O adesivo "ATIVO IMOBILIÁRIO — LOTE 404"** amarra com o túmulo do Dante (lote 404, cap. 19).
+  Se for intencional, é excelente; confirmar.
+
+## Capítulo 58 — O Dilema do Capitão
+
+**Décimo terceiro capítulo excepcional, e o melhor sobre corrupção — sem o protagonista em cena.**
+A chantagem funciona porque é bancária, não moral: pensão, plano de saúde, anuidade escolar. E a
+recusa funciona porque Vilar faz a conta e chega ao único item que não fecha — a pergunta que a neta
+vai fazer aos dezessete anos.
+
+- 🔴 **Contradiz o cap. 53**, onde "o Capitão Vilar está sob custódia domiciliar". Aqui ele está no
+  gabinete, no comando, com acesso a arsenal. Ajustar a ordem ou o estado dele.
+- 🟢 **A punição administrativa em quinze minutos** (00h07 demissão, 00h09 plano, 00h14 escola) é a
+  melhor demonstração de poder corporativo da obra — mais eficaz que qualquer robô.
+- 🔵 **"Um homem que trocou o próprio braço por um melhor não sabe mais como é ficar sem ele."**
+  Dica tática deixada para o Gabo. Confirmar se é usada no confronto com Miranda.
+
+## Capítulo 59 — A Fundação
+
+**Décimo quarto capítulo excepcional.** A dedução parte da temperatura do subsolo e termina em
+etiquetas com sobrenomes — e a escalada "não eram custo, eram estoque" é a conclusão mais forte do
+livro. A imagem dos três Rodrigues na mesma prateleira vale por um capítulo inteiro de denúncia.
+
+- 🔴 **"Nenhum dos dois pertencia à filha que ele enterrou."** É a primeira menção, em 59 capítulos,
+  a uma **filha morta** do Gabo. Isso reposiciona todo o personagem — e chega numa oração
+  subordinada. Ou o livro planta essa perda desde o começo, ou a frase precisa sair.
+- 🟡 **O texto usa "a menina" e "Aria" alternadamente** no mesmo capítulo, e no cap. 56 usa só "a
+  menina". Padronizar.
+- 🟢 **A água da enchente refrigerando os servidores** é a melhor imagem temática da obra: o próprio
+  dilúvio virou insumo. Junto com o cap. 56 ("a água limpou o título"), fecha a tese do livro.
+- 🔵 **"Para todo mundo"** — primeira opinião espontânea da Aria. Confirmar se isso marca uma
+  mudança de função dela na trama.
