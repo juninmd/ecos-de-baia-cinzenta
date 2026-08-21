@@ -2202,3 +2202,61 @@ deficiência do protagonista vira o perigo — mas o capítulo reescreve três m
 - 🟡 **"Escudos energéticos"** aparece aqui pela primeira vez, como se fosse tecnologia corrente do
   mundo anterior. O livro nunca teve escudos energéticos.
 - 🔵 **O pedido de *upload* emitido pelo cubo** é um bom gancho. Registrar: para quem?
+
+## Capítulo 102 — Raízes Amargas
+
+**Capítulo de nível padrão com a melhor ideia do arco novo.** "Não eram bestas irracionais; eram
+ternos de carne esperando por seus donos" reconfigura os monstros do cap. 100 em uma linha, e a
+lista impressa em papel contínuo, terminando no nome do pai, é o melhor gancho desde o cap. 89.
+
+- 🟢 **"Não cheirava a morte, nem a podridão. Cheirava a vida."** Melhor abertura do arco.
+- 🟢 **"Eu sou apenas o gerente de recursos humanos."** O vilão devolvido à escala burocrática, que é
+  onde o livro é melhor.
+- 🟢 **"Ternos de carne esperando por seus donos."** E "as consciências que compraram a imortalidade
+  ficaram presas no escuro, gritando no vácuo" amarra diretamente com o cap. 64.
+- 🟢 **A lista impressa em matricial**, terminando em `ID: 001 — DANTE MORETTI`. Boa colheita.
+- 🟢 **Mirar nos dutos de nutrientes em vez de no vilão** — segunda vez que o Gabo resolve um
+  confronto atacando a infraestrutura (ver caps. 60 e 81). É assinatura.
+- 🔴 **"Eu vi você queimar"** — o Miranda do cap. 73 morreu **congelado** e estilhaçado, e o texto
+  faz questão do frio (a malha de titânio contraindo, o grito virando cristal na traqueia). Não
+  houve fogo. **Corrigir.**
+- 🔴 **A quinta versão do destino do Miranda.** Morto no Palácio de Jade (Syn-Doll, cap. 30.5),
+  levado pelos Jardineiros (30.5), congelado (73), voz no rádio (79), rosto na árvore (95), e agora
+  "cultivado de novo" a partir de backup. **Escolher uma cadeia e reescrever as outras.**
+- 🔴 **Frontmatter incompleto**, e a imagem aponta para `/raizes-amargas.jpg` em vez do padrão
+  `/capitulo_102.jpg`.
+- 🟡 **Elena chamada de "detetive" pelo Roberto** — ela é jornalista (cap. 75.5). Ajustar.
+- 🟡 **"Terminar o que comecei com você e sua namoradinha"** — outra referência lateral à Bia, que
+  só existe no cap. 75.5. Se ela importa, precisa de capítulo; se não, cortar as referências.
+
+## Capítulo 103 — A Convergência
+
+**Capítulo de nível padrão que entrega uma virada final excelente e comete os erros de continuidade
+mais visíveis do livro.** O Silas sendo drenado pela própria criação, três parágrafos depois de
+chorar de êxtase, é a melhor punição de vilão da obra. Mas o capítulo tropeça em coisas que uma
+única passada de revisão resolveria.
+
+- 🟢 **"A morte é um erro de programação."** e **"Bem-vindo à carne."**
+- 🟢 **"Carne... É tão limitante."** A melhor primeira fala de um vilão novo em todo o livro, porque
+  desmente o projeto inteiro do Silas na frente dele.
+- 🟢 **O Silas drenado pela própria criação.** Ele passou o arco inteiro sem pagar nada (ver
+  cap. 95); paga tudo em cinco linhas, e é a punição certa.
+- 🟢 **"Você é patético." / "Eu sou humano."**
+- 🟢 **"Foda-se o legado."** A escolha certa do personagem, e o livro deixa que ela seja suja.
+- 🔴 **"O pai ou a filha?"** — Elena é tratada como **filha do Gabo**. No cap. 75.5 ela é a melhor
+  amiga da noiva dele; o sobrenome Moretti sugere irmã; e a "filha morta" é outra pessoa. É a
+  terceira função atribuída à Elena na obra. Ver a seção "quem é Elena?".
+- 🔴 **"As lendas de Part XIII descreviam"** — o texto cita a **parte do próprio livro** dentro da
+  narrativa, e em inglês. É resíduo de rascunho. **Cortar.**
+- 🔴 **Título duplicado.** O cap. 96 é "A Grande Convergência" e este é "A Convergência", e os dois
+  nomeiam eventos diferentes. Renomear um dos dois.
+- 🔴 **"Ele se lançou no ar, um salto impossível para um aleijado, impulsionado pela hidráulica"** —
+  as órteses são **passivas** desde o cap. 98, sem motores e sem hidráulica. E o cap. 102 já falava
+  em "ativar os pistões hidráulicos da perna direita". O livro precisa decidir se ele tem servos.
+- 🔴 **Frontmatter incompleto.**
+- 🟡 **"Uma pistola de agulhas"** e **"escudos energéticos"** (cap. 101) — o arco novo está
+  introduzindo tecnologia de ficção científica genérica num livro que construiu sua força em
+  tecnologia mundana e obsoleta. Calibrar.
+- 🔵 **O que voltou no corpo do Dante não é o Dante.** Excelente. Registrar a promessa: o livro tem
+  que dizer o que é aquilo, e "algo frio como o vácuo entre as estrelas" não pode ser a resposta
+  final.
