@@ -4475,3 +4475,70 @@ manter esse recurso vivo: a dose sobe, como em qualquer vício.
   capítulos. **A folha de personagem que pedi no 183 é agora item obrigatório.**
 - 🔵 **"Esse lugar fedia a Dante desde o Saguão"** — que Saguão? Não há saguão nos caps. 179–186.
   Referência órfã.
+
+## Capítulo 188 — O Abismo de Aço
+
+**A melhor integração de trauma e ação do livro.** O gatilho não interrompe a cena de perigo: **ele
+é o perigo**. Um homem pendurado a 38 metros cuja mão relaxa porque está alucinando é tensão pura,
+e o recurso que eu vinha criticando por saturação aqui se torna o motor da sequência.
+
+- 🟢 **"O miasma da praga reverberava nas fraturas do meu córtex, usando minha síndrome de estresse
+  pós-traumático como uma arma paralisante."** A ameaça externa e a interna finalmente são **a
+  mesma**. Se o autor quiser justificar 30+ ocorrências do ritual, é esta frase que faz isso.
+- 🟢 **"O cabo de aço começou a escorregar pela minha mão de carne."** Consequência mecânica imediata
+  da alucinação. Nada de exposição.
+- 🟢 **"Tensão aumentada em 14% (...) um declínio adicional de 3% resultará na falha."** A Val
+  narrando a morte dele em incrementos percentuais é o ápice do Modo de Segurança.
+- 🟢 **O cotovelo de metal como freio.** *"Usando o atrito agonizante como punição para manter a
+  sanidade."* Uso funcional, não ritual — e é a única ocorrência do arco que **também resolve um
+  problema físico**. Modelo para as reescritas.
+- 🟢 **"Reduzirá a vida útil da sua prótese em dez horas."** O livro finalmente pôs um **relógio** no
+  equipamento. Isso vale mais para a tensão do arco final que qualquer nova ameaça.
+- 🟢 **"A respiração de mil servidores enxertados com a biologia de quem já deveria estar morto."**
+- 🟢 **"Quem disse que eu vim pra sobreviver?"** (cap. 189) já se anuncia aqui em *"eu não ligo"*.
+- 🟡 **O aviso de "oitenta por cento de falha" do 187 não se materializa em nada.** Ele desce sem
+  incidente mecânico; o único perigo é a alucinação. Não é furo — mas confirma o padrão: **os
+  números da Val nunca se cumprem**. Depois de trinta capítulos, o leitor já os desconta. Fazer
+  **um** deles acontecer, uma vez, restauraria o valor de todos.
+- 🟡 **"Quarenta e cinco metros" (cap. 187) → "trinta e oito metros" (aqui).** Defensável (ela mede
+  da posição atual), mas nada no texto diz isso. Uniformizar ou justificar.
+- 🟡 **35ª e 36ª ocorrências.** Oitavo capítulo seguido.
+- 🔵 **"A jaqueta sintética"** — nos caps. 180/183 é **sobretudo esfarrapado**. Guarda-roupa também
+  entra na folha de personagem.
+
+## Capítulo 189 — A Sentinela de Biomassa
+
+**A melhor luta do último ato, e a que melhor caracteriza a Valéria em Modo de Segurança** — não
+pelo que ela faz, mas pelo que ela **não** faz: não se mexe enquanto um cadáver salta na direção do
+próprio crânio, porque o cálculo dizia que a porta abriria antes. Está certíssimo, é apavorante, e
+o texto tem a disciplina de não comentar.
+
+- 🟢 **"Era um pulmão de aço e carne."** / **"O Jardim não os deixava apodrecer em paz. Eles eram a
+  tranca."** Ideia de horror melhor que a dos casulos do 180: os mortos como **hardware de
+  autenticação**.
+- 🟢 **"Crânios encapados por silicone barato e viseiras trincadas."**
+- 🟢 **Ela não desvia do quinto cadáver.** A cena mais fria do arco. **Não acrescentar reação nenhuma
+  na revisão** — a ausência é o efeito.
+- 🟢 **A dor chega pelo inimigo, não pela automutilação.** O bastão de choque faz o trabalho que o
+  punho vinha fazendo — é a variação que o arco precisava, e ela vem de dentro da luta.
+- 🟢 **"Transformei a punição em âncora."** / **"Um gole de oxigênio real em um mar de fumaça
+  alucinada."**
+- 🟢 **A luta cobra:** três reguladores de pressão estourados, tendões rasgados, prótese em
+  curto-circuito. **"Eu a deixei fritar. Eu precisava da dor."** — a linha que mostra que o vício
+  virou autodestruição consciente.
+- 🟢 **"Quem disse que eu vim pra sobreviver?"** Melhor última linha desde o cap. 158.
+- 🔴 **"Eu rughi"** — não existe. É *rugi*. (E no cap. 183 aparece *"Gruni"*, que também deveria ser
+  *grunhi*.)
+- 🔴 **"mankei em direção à porta"** — *manquei*. **Dois erros graves de grafia no mesmo capítulo;
+  este é o capítulo com pior revisão de texto do arco final.**
+- 🔴 **"Guspi uma quantidade farta de saliva"** — *cuspi*. Terceiro erro. E *"quantidade farta"* é
+  registro errado para a voz do narrador: ele diria "cuspi sangue no chão".
+- 🟡 **"Os dados fluiam"** — falta o acento (*fluíam*).
+- 🟡 **"Invasão tática ao nível trinta da instalação central autorizada"** — a Val "autoriza" uma
+  invasão a quem? A frase não tem sujeito lógico. E **"nível trinta"** é a primeira menção; some
+  depois.
+- 🟡 **37ª a 39ª ocorrências do ritual.** Nono capítulo seguido — mas aqui **duas das três vêm do
+  inimigo**, o que é a solução correta. Aplicar o mesmo tratamento retroativamente aos caps.
+  184–187.
+- 🔵 **"Protocolo de autenticação nível diretor"** — a Val já teve credenciais da Aeterna. Se elas
+  morreram com o colapso, vale uma linha; se não, ela deveria ter tentado isso primeiro.
