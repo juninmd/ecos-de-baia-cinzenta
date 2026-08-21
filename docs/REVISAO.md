@@ -2128,3 +2128,77 @@ carro velho e as máquinas de escrever resgatadas de sótão são o melhor do ca
   natural e ir almoçar). É o tipo de personagem que o livro normalmente constrói melhor.
 - 🔵 **O cubo preto que não é Aeterna** é um bom gancho. Registrar a promessa: o livro precisa dizer
   de quem é.
+
+## Capítulo 99 — O Despertar da Máquina
+
+**Capítulo de nível padrão com uma boa cena de ação.** A solução — bater na trava dos vergalhões em
+vez de na máquina, e deixar um servidor bancário obsoleto esmagar o monstro feito de sucata — é a
+melhor ideia do capítulo e rima com a tese da obra.
+
+- 🟢 **"Alguém está construindo monstros com o nosso lixo."** Boa premissa para o arco novo, e as
+  lâmpadas halógenas sujas em órbitas improvisadas dizem isso melhor que qualquer explicação.
+- 🟢 **"A abstinência de uma mira assistida que nunca mais voltaria."** Melhor detalhe do capítulo, e
+  a única coisa que salva o Rangel de ser só um cético de plantão.
+- 🟢 **"A gravidade, a única lei que nunca falhava em Baía Cinzenta."**
+- 🟢 **"Meu terno... Era o último inteiro."** Boa piada de escassez.
+- 🔴 **Frontmatter incompleto** — sétimo capítulo com o sintoma, e o terceiro seguido.
+- 🔴 **"A chuva que começava a cair lá fora."** A chuva parou definitivamente no cap. 75 e os
+  caps. 85–97 só têm sol e cinza. É a segunda reincidência (ver cap. 96).
+- 🟡 **O Vilar com "revólver .38"** e o Gabo com "revólver" no 97 — se o arsenal agora é analógico,
+  vale dizer isso explicitamente uma vez e padronizar; hoje parece que a *Caronte* e a Glock
+  simplesmente sumiram.
+- 🟡 **"Vou falar com uma pessoa... Elena"** como gancho de capítulo pressupõe que o leitor saiba
+  quem ela é e por que estaria viva. Ver a seção "quem é Elena?".
+- 🔵 **"Base do Projeto Dilúvio"** — nome novo. Conferir se é o mesmo Projeto Gênesis ou outra
+  coisa.
+
+## Capítulo 100 — O Ventre da Besta
+
+**Capítulo de nível padrão que abre uma boa locação e desmonta a mitologia do livro em três
+parágrafos.** O Berçário, os tanques e os "anjos" são um cenário forte. O problema é o que a
+personagem diz enquanto o leitor olha para ele.
+
+- 🔴 **Contradiz frontalmente o cap. 89 e o 91.** Aqui: *"o Projeto Gênesis não era sobre upload. Era
+  sobre **download**. Eles queriam trazer algo de lá para cá."* Nos caps. 89 e 91 o Gênesis é o
+  plano do Silas de virar substrato biológico, com fases datadas e diário à mão. As duas versões
+  não convivem, e a do 89 é incomparavelmente melhor. **Cortar a versão "download".**
+- 🔴 **"Ele não fumava — uma herança maldita do pai."** No cap. 73 o Dante *"carregou um Zippo por
+  trinta anos sem nunca ter fumado um cigarro na vida"*, e esse detalhe é o que faz o isqueiro
+  funcionar como símbolo. Aqui ele vira fumante. **Corrigir.**
+- 🔴 **"O clique-clique metálico dos servos"** — as órteses motorizadas queimaram no cap. 96 e o
+  cap. 98 estabelece o modelo passivo, *"sem motores"*. Servo não existe mais.
+- 🔴 **Frontmatter incompleto.**
+- 🟢 **"Cabelo curto, cortado irregularmente com faca."** A melhor linha de reapresentação de
+  personagem do livro — diz tudo sobre os meses que não foram narrados.
+- 🟢 **"Não é uma senha. É uma localização. Eles esconderam o acesso na geografia da cidade."**
+- 🟢 **"Eles não estão cultivando plantas. Estão cultivando anjos."**
+- 🟡 **"Estação Jardim das Flores"** é uma boa ironia e chega explicada ("o nome era uma piada
+  cruel"). O livro costuma confiar mais no leitor.
+
+## Capítulo 101 — Ressonância
+
+**Capítulo de nível padrão com a melhor mecânica de combate do arco novo e a pior gestão de
+continuidade do livro.** A cegueira dos Protótipos guiada pelo som das órteses é excelente — a
+deficiência do protagonista vira o perigo — mas o capítulo reescreve três mortes já pagas.
+
+- 🟢 **"Eles ouvem os servos das minhas pernas."** A melhor ideia do arco: o corpo quebrado do
+  protagonista deixa de ser só custo e vira o problema tático central.
+- 🟢 **"Não havia choque sistêmico. Era apenas carne cumprindo uma programação biológica."**
+- 🟢 **"Isso não é uma chave. É uma coroa."** Melhor fala do capítulo.
+- 🟢 **"Eu conheço essa arrogância."** Reconhecer o vilão pela sintaxe é a melhor maneira possível
+  de anunciá-lo.
+- 🔴 **"Roberto Miranda. O homem que matara Bia. O homem que Gabo vira ser capturado pela Aeterna na
+  queda da Torre Aeterna."** Três erros numa frase: (1) a Bia só existe no cap. 75.5 e nunca se diz
+  que o Miranda a matou; (2) quem o capturou foram os **Jardineiros**, no cap. 30.5, e não a
+  Aeterna; (3) foi na cobertura dele, não na queda da Torre. E ele já morreu congelado no cap. 73 e
+  já apareceu como rosto na árvore no cap. 95. **São quatro destinos diferentes para o mesmo
+  personagem.**
+- 🔴 **"A assinatura é do Dante."** O backup do Dante foi vaporizado no cap. 72, o resto se dispersou
+  no 74, e o cap. 95 mostra o rosto dele fundido à árvore que foi destruída no 96. Esta é a quarta
+  localização do Dante. **Fixar uma.**
+- 🔴 **Frontmatter incompleto.**
+- 🟡 **"Órteses passivas chiavam"** e, duas páginas depois, **"os servos das minhas pernas"**. Mesmo
+  problema do cap. 100, agora dentro do mesmo capítulo.
+- 🟡 **"Escudos energéticos"** aparece aqui pela primeira vez, como se fosse tecnologia corrente do
+  mundo anterior. O livro nunca teve escudos energéticos.
+- 🔵 **O pedido de *upload* emitido pelo cubo** é um bom gancho. Registrar: para quem?
