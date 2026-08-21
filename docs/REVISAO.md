@@ -3617,3 +3617,74 @@ mais mão para cobrir o rosto.
   Fixar a geografia vertical.
 - 🔵 **"Resta a escalada."** Com as mãos destruídas, escalar é impossível. O capítulo seguinte tem
   que resolver isso explicitamente — é a melhor oportunidade que o arco tem de cobrar o preço.
+
+## Capítulo 158 — Ecos de Fósforo e Poeira
+
+**Capítulo de respiro competente, com uma boa imagem de abertura.** A cratera com bordas de aço
+derretido "brilhando como uma ferida aberta" e o túnel virando chaminé fecham bem o cap. 157.
+
+- 🟢 **"O silêncio após uma explosão nunca é vazio; ele é um vácuo zumbidor que engole o pensamento."**
+- 🟢 **"A dor fantasma das mãos que não estavam mais lá era um coro histérico em seu cérebro."**
+  Detalhe clínico correto (dor de membro fantasma) e bem usado.
+- 🟢 **"Estamos virando os monstros dessa cidade."** A objeção da Val é a única voz moral que sobrou,
+  e ela é necessária depois de dez capítulos de violência crescente.
+- 🟢 **"Manter o 'motor' da dor girando em baixa rotação."** A melhor formulação do ritual — e mostra
+  que ele agora **administra** o vício em vez de reagir a ele.
+- 🟢 **"A falha estrutural do exoesqueleto ocorrerá em quatro horas." / "Eu não preciso de quatro
+  horas."** Bom relógio novo, e a resposta define o personagem.
+- 🔴 **A escalada prometida no cap. 157 é resolvida por uma "rampa de entulhos deixada pela
+  explosão".** É a saída mais conveniente possível para o obstáculo que o próprio capítulo anterior
+  criou — e desperdiça a melhor oportunidade do arco de cobrar o preço das mãos.
+- 🔴 **"O que restava deles além dos cotovelos"** — no cap. 155 as mãos foram **cauterizadas**, não
+  amputadas ("cotocos endurecidos e carbonizados"). Aqui ele parece amputado nos cotovelos, e no
+  cap. 160 o texto diz "braços amputados". **Decidir: mãos destruídas ou braços amputados.**
+- 🟡 **Frontmatter duplicado** (YAML + `## Metadados`).
+
+## Capítulo 159 — Servidores de Carne e Silício
+
+**Boa locação e a melhor definição do vilão no arco.** "Ele não destruiu os servidores. Ele os
+parasitou. A arquitetura de rede agora é quimérica" fecha o que o cap. 141 abriu (o parasita da
+infraestrutura antiga), e "esculpir dor em dados" é a síntese do personagem.
+
+- 🟢 **"Um matadouro com ar-condicionado."**
+- 🟢 **"A espinha dorsal de processamento da Aeterna. Agora, um cemitério de gigantes."**
+- 🟢 **"Ele os parasitou. A arquitetura de rede agora é quimérica."**
+- 🟢 **"Esculpir dor em dados."**
+- 🟢 **"Rangel morreu naqueles dutos... para ele ter um servidor rodando carne?"** A Val cobrando a
+  morte do cap. 150 — é a primeira vez que alguém a menciona desde o 152, e faz falta.
+- 🟢 **"Ele não era mais o detetive com uma arma. Ele era apenas o obstáculo mais teimoso da
+  cidade."** A melhor frase do bloco, e ela transforma a mutilação em identidade.
+- 🟢 **"É como tentar hackear um fígado."**
+- 🔴 **"O rosto do pai **de Bia**, tossindo sangue e fumaça naquele apartamento minúsculo."** Nona
+  versão da alucinação — e agora o fumante é o **pai da Bia**, não o do Gabo. Isso poderia ser a
+  reconciliação elegante de toda a contradição (o trauma seria dela, herdado por ele), mas o
+  cap. 158 diz "um pai moribundo" sem dono e o cap. 144 diz explicitamente que é o pai **dele**.
+  **Se a intenção é que seja o pai da Bia, isso resolve o problema do Dante — mas precisa ser dito
+  uma vez, com clareza.**
+- 🟡 **Frontmatter duplicado.**
+
+## Capítulo 160 — O Som do Silício Quebrando
+
+**A melhor luta do arco, e a única em que o protagonista não desfere um único golpe ofensivo.** Ele
+é escudo, aríete e obstáculo — nada mais — e o capítulo tem a disciplina de nunca deixá-lo acertar
+alguém. É o pagamento completo da mutilação do cap. 155.
+
+- 🟢 **"Ele havia se tornado uma barreira de carne, ossos e metal fadigado."**
+- 🟢 **"Defesa de contenção biológica (Gabo)"** — a Aria classificando o parceiro como *cobertura*.
+  Melhor piada fria do livro.
+- 🟢 **"Para cada braço amputado, as abominações se adaptavam."** O inimigo aprende; a luta não é
+  atrito, é xadrez.
+- 🟢 **"Sub-rotina de sacrifício engatada." / "Não no meu turno, lata velha!"** A máquina se
+  oferecendo e o humano recusando **inverte** a discussão dos caps. 135–153. É a única variação
+  nova do conflito em quinze capítulos, e é excelente.
+- 🟢 **"Não um som físico, mas a compressão digital do silício sobrecarregado."**
+- 🟢 **"Montes inertes de cerâmica e carne frita."**
+- 🟢 **"Um silêncio real, destituído do sussurro pegajoso do Taxidermista."**
+- 🟢 **"Mas o pneu furou. Pelo menos o pneu furou."** Colhe a metáfora que ele plantou no cap. 158.
+  Fecho perfeito.
+- 🟡 **"Braços amputados"** contra "cotocos cauterizados" no mesmo capítulo (l. 34 e l. 58).
+- 🟡 **Décima quinta ocorrência do ritual da dor**, e três vezes só neste capítulo. A partir do
+  cap. 155 ele deixou de ser necessário: **a dor agora é permanente e constante**, então cada
+  ocorrência nova enfraquece a anterior.
+- 🔵 **"A Grande Obra"** e o terminal purgado. Registrar: o Taxidermista perdeu a rede deste
+  quadrante, mas continua vivo e acima deles. O confronto final tem que ser físico.
