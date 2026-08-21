@@ -3256,3 +3256,66 @@ infraestrutura** — e liga o arco à descoberta de 1920 do cap. 131.
   122: sepse; cap. 131: "não vê depois de amanhã"; agora: 3 horas). Escolher um e contar.
 - 🟡 **"Título duplicado":** "Raízes Amargas" também é o título do cap. 102. Terceira duplicata do
   livro (ver "A Convergência" 96/103 e "Frequência Fantasma" 109/126).
+
+## Capítulo 142 — Veias de Vidro
+
+**Capítulo de transição competente, com uma boa revelação técnica.** "Ele não apenas consome a
+energia residual: ele está fazendo download dos protocolos de segurança corporativos da época"
+explica de onde vêm os inimigos do capítulo seguinte antes de eles chegarem, que é a ordem certa.
+
+- 🟢 **"Brasas geladas contra a carne viva de suas mãos."**
+- 🟢 **"É um ninho. A matriz primária não está apenas ativa. Está vibrando."**
+- 🟢 **Os *Scarab* com carapaça de titânio branco "cravada de farpas ósseas".** O inimigo novo é o
+  inimigo velho parasitado — coerente com o cap. 141.
+- 🟢 **"Cães de guarda autônomos parasitas."**
+- 🔴 **SEM FRONTMATTER.**
+- 🔴 **"Revólver mag-rail"** — décima variação do armamento do Gabo, e a *Caronte* desapareceu sem
+  uma linha desde o cap. 137.
+- 🟡 **A prosa afrouxa** em relação aos caps. 131–140: advérbios em série ("rudimentarmente",
+  "intencionalmente"), e o narrador explicando o que a cena mostra ("Gabo não gostava do que estava
+  ouvindo").
+- 🟡 **"Aquele dia terrível de seu passado"** — o texto alude a um trauma específico sem nomeá-lo
+  pela quarta vez em quatro capítulos. Ou se mostra, ou se para de aludir.
+
+## Capítulo 143 — Vertigem de Sílica
+
+**A melhor cena de ação vertical do livro.** Toda a luta acontece pendurada a quarenta metros com
+uma mão só, e cada solução respeita a limitação: Gabo atira e paga com o coice no pulso esfolado;
+Aria não atira — usa a escada como trampolim e derruba uma viga podre nos dois últimos.
+
+- 🟢 **"Ele prometia não apenas a queda, mas o esquecimento."**
+- 🟢 **"Ela não arrancou a peça. Ela enviou uma sobrecarga."**
+- 🟢 **"Os últimos resquícios da personalidade de Bia Vargas não existiam mais para frear a potência
+  crua e fria do chassi."** O custo do cap. 134 usado como recurso de ação. Excelente.
+- 🟢 **"Como um falcão mecânico perfeitamente insensível ao caos que acabara de causar."**
+- 🟢 **"Para o sistema, nós somos o vírus."**
+- 🟢 **"A dor era limpa. A dor não mentia."**
+- 🟢 **"Paramos de pensar na subida como uma fuga. E começamos a tratar como um cerco."**
+- 🔴 **SEM FRONTMATTER.**
+- 🔴 **"Puxou o cão do revólver... o tambor girou... a bala magnética"** — revólver de tambor com
+  munição mag-rail é contraditório. Escolher a arma.
+- 🟡 **"A velha casa dos Moretti"** pegando fogo com "polímeros baratos queimando junto a carne" —
+  quinta versão do trauma de origem, e agora há **um incêndio na família**. Ver a seção sobre o
+  Dante: o livro precisa escolher UM trauma.
+
+## Capítulo 144 — Tensão de Ruptura
+
+**Capítulo curto e honesto sobre exaustão, e o mais fraco do bloco.** Ele não avança a trama: repete
+a subida, repete a alucinação, repete o ritual da dor. Como respiro funciona; como capítulo, é o
+terceiro seguido com a mesma estrutura interna.
+
+- 🟢 **"Um esôfago de metal podre que engolia qualquer som de esperança."**
+- 🟢 **"Do estágio do ácido lático para o torpor da falha estrutural."**
+- 🟢 **"Não deixava cinzas, não cheirava a fracasso crônico."** A melhor formulação do ritual.
+- 🟢 **"O som gorgolejante da respiração de Rangel servia como uma contagem regressiva cruel."**
+- 🟢 **"Falar é fácil, lata velha."** A Val ainda tem voz própria — é o que salva o capítulo.
+- 🔴 **SEM FRONTMATTER**, e o "Resumo" do bloco de metadados tem **seis linhas** e descreve o
+  capítulo inteiro. Se renderizado, é o capítulo contado antes do capítulo.
+- 🔴 **Sexta versão da infância:** aqui é *"o pequeno e claustrofóbico apartamento"* com
+  *"cigarros baratos"* e *"o fedor que anunciava a violência antes mesmo dela cruzar a porta"* —
+  contra a **casa** com cozinha e janela do cap. 131, e contra o pai que **não fumava** do mesmo
+  capítulo. **O cap. 131 continua sendo a versão a preservar.**
+- 🟡 **Três capítulos seguidos com o mesmo beat:** cheiro → náusea → esmagar a ferida → foco. O
+  recurso é bom e está gasto. Cortar duas das três ocorrências (142, 144) e manter a do 143, que é
+  a única em que a alucinação quase mata alguém.
+- 🟡 **"Sensores heterocromáticos"** — quinta cor/descrição dos olhos dela em oito capítulos.
