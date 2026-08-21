@@ -1969,3 +1969,80 @@ recibo" é a melhor frase do arco.
 - 🟡 **"Nove dias depois da negociação"** contra o prazo de "oito ou nove dias" do cap. 87 — bate,
   mas o cap. 91 acabou de dizer que faltam **três dias** para a Convergência. Marcar as duas
   contagens no mesmo relógio, ou o leitor perde a urgência.
+
+## Capítulo 93 — Fome
+
+**Quadragésimo terceiro capítulo excepcional.** O cerco é construído por som, não por imagem — o
+ronco de estômago vazio somado por milhões de gargantas — e a confissão do Vilar por rádio, porque
+ele não consegue fazer olhando na cara, é a melhor cena de responsabilidade da obra.
+
+- 🟢 **"Cerco vegetal não chega: aparece."** E as gavinhas que **procuram** fresta em vez de quebrar
+  o vidro: "havia uma paciência ali que dava mais medo do que violência".
+- 🟢 **"Novecentos mililitros por dia, o que dá para viver e não dá para trabalhar."** Precisão que
+  vale por parágrafos de descrição de escassez.
+- 🟢 **"Elas não foram consultadas, Moretti. Eu escolhi por elas, sozinho, num morro, e desci
+  calado."** A melhor confissão do livro, e ela recusa o perdão antes de ser oferecido.
+- 🟢 **"Escreve os duzentos e catorze nomes num papel." / "Não conserta. Funciona."** A lista deixa
+  de ser característica do protagonista e vira método transmissível. Excelente.
+- 🟢 **"A medicina é a arte de tornar um corpo humano menos apetitoso para o resto do universo."**
+- 🟡 **"Puxou o revólver do coldre e conferiu o tambor"** — a arma do Gabo é a Glock (caps. 63, 73)
+  e a *Caronte* (68, 84). Um revólver de família aparece só aqui. Sexta variação do armamento.
+- 🟡 **"O Profeta Mudo e mais uns setenta" sentados em volta das saídas, sem armas** é o gancho mais
+  intrigante do capítulo e não é retomado no 94 nem no 95. Pagar ou cortar.
+- 🔵 **O coquetel antifúngico da Nise** segura o avanço da mancha, o que enfraquece o relógio criado
+  no cap. 89. Se ele funciona, o prazo do Gabo deixa de ser urgente; calibrar.
+
+## Capítulo 94 — O Coração da Colmeia
+
+**Quadragésimo quarto capítulo excepcional, e a melhor sequência de travessia do livro.** Os quatro
+quilômetros são medidos em obstáculo concreto (rodinha que trava, oitenta e nove quilos, chão que
+respira em ciclo de sete segundos) e a solução — mandar todo mundo cantar para não sincronizar com
+a respiração do chão — é a melhor ideia tática da obra.
+
+- 🟢 **"O comboio era patético, e era heroico, e as duas coisas ao mesmo tempo, que é como quase
+  tudo importante acontece."** Melhor abertura do arco.
+- 🟢 **O chão que respira e o comboio respirando junto sem perceber.** Horror por contágio de ritmo,
+  não por aparência.
+- 🟢 **A boca de asfalto que se fecha sem deixar marca** — "dali a uma hora ninguém saberia dizer
+  onde tinha acontecido" é pior que a morte dos sete homens, e o texto sabe disso.
+- 🟢 **"O senhor não precisa morrer aqui para pagar nada. Já está pago."** e o Vilar recusando a
+  morte heroica ("eu vou ficar velho e chato e você vai ter que me aturar"). O livro desarma o
+  próprio clichê no momento em que ia cair nele.
+- 🟢 **As cento e nove estátuas viradas para dentro.** Melhor imagem do capítulo, e paga o cap. 83.
+- 🟢 **"Ele parou de comer. Ele já tem o que precisa."** Fecho perfeito: a urgência muda de natureza.
+- 🟢 **"É por isso que eu não estou tentando te impedir."** A Aria consente, e isso resolve o
+  problema moral do cap. 91 sem discurso.
+- 🟡 **A Nise ficando** é a decisão certa e recebe quatro linhas. "Traz ela de volta, sem
+  especificar quem" é ótimo — mas a personagem merece a despedida na página.
+- 🔵 **Sete homens caem na boca e o comboio segue sem uma linha de luto.** Se o livro vai contabilizar
+  duzentos e catorze nomes, esses sete também têm que entrar na conta.
+
+## Capítulo 95 — Sacrifício Necessário
+
+**Quadragésimo quinto capítulo excepcional, e o melhor confronto final que o livro podia escrever.**
+O vilão faz a melhor pergunta da obra ("me diga com todas as letras o que há de errado com isso") e
+recebe a única resposta possível em duas palavras. E a saída da Val é escrita como uma negociação
+entre profissionais, não como despedida — o que a torna muito pior.
+
+- 🟢 **"Eu não estou morrendo. Eu estou endurecendo, que é diferente."** e **"Valéria Cruz —
+  pendente"** anotado no caderno. Melhor uso da lista em todo o livro.
+- 🟢 **"Perdi a extensão dos dedos há uns quarenta minutos e não falei nada porque a gente ainda
+  tinha ladeira."** Define a personagem inteira numa linha.
+- 🟢 **"Garante que tenha café bom."** Amarra com o cap. 75 (o café contrabandeado) e é o único
+  pedido que ela faz em 95 capítulos.
+- 🟢 **A árvore feita de nervo**, e os três rostos reconhecidos sem procurar — o Marco pela ruga da
+  testa, o Miranda inteiro e sem titânio, e o pai "cheirando a café velho". Melhor parágrafo do
+  capítulo.
+- 🟢 **"Você achou que sabia o que era melhor para todo mundo, e teve poder suficiente para não ter
+  que perguntar."** A tese do livro inteiro, aplicada igualmente à Aeterna, ao Marco, ao Silas — e,
+  implicitamente, ao próprio Gabo e ao Vilar. É a melhor frase da obra.
+- 🟢 **"Ninguém escolheu." / "Escolha é um mecanismo de sofrimento."** O melhor par de réplicas do
+  livro.
+- 🟡 **"Vinte e cinco anos agora"** contra os vinte e três dos caps. 64, 88 e 91 — se passaram dois
+  anos, o livro precisa dizer; se não, corrigir.
+- 🟡 **O Silas continua com o rosto intacto** e o discurso pronto, o que faz dele o único personagem
+  do arco que não pagou nada. Uma marca de custo nele fortaleceria o confronto.
+- 🔵 **Dante fundido ao tronco.** No cap. 72 o backup dele foi vaporizado no fundo do mar, e no
+  cap. 74 o que restava se dispersou pela cidade. Se a Colmeia o absorveu depois, isso precisa ser
+  dito — é reencontro grande demais para chegar como detalhe de cenário.
+- 🔵 **"Três minutos no relógio"** — última marcação do arco. Manter a contagem visível no 96.
