@@ -1371,3 +1371,82 @@ escolha:
 Quatro dias de esgoto não cabem dentro de um prazo de doze horas, e a fuga do Marco não pode ter
 sido há quarenta minutos e há quatro dias. **Refazer a linha do tempo do bloco inteiro**, com hora
 marcada na abertura de cada capítulo (o livro já faz isso bem nos caps. 63 e 71, e é só estender).
+
+## Capítulo 72 — A Ofensiva
+
+**Vigésimo quarto capítulo excepcional.** "A cidade estava segurando a torre com os próprios
+braços" é a melhor imagem da obra, e funciona porque cada elemento dela já existia no cenário:
+guindaste de canteiro, passarela com catraca, cabo de andaime de limpador de vidro. Nada foi
+inventado para a cena — foi tudo reaproveitado, que é a diferença entre efeito e escrita.
+
+- 🟢 **"O padrão do sistema — o *default*, a opção que fica marcada quando ninguém escolhe nada —
+  era executar."** A tese do livro inteiro numa nota técnica. Melhor frase do capítulo.
+- 🟢 **"Meu pai não está lá. O que tem no fundo do mar é um arquivo corporativo com a cara dele."**
+  A decisão custa exatamente o que o protagonista mais quer, e ele não hesita — e o texto tem a
+  honestidade de registrar que ele achou estranho não ter hesitado.
+- 🟢 **A recusa do agradecimento ao Kael** ("agradecer seria transformar aquilo em favor") é a
+  melhor observação moral do livro.
+- 🟢 **A torre que fica torta pelos onze anos seguintes** e a comissão de engenharia que nunca
+  explicou os cabos — o narrador retrospectivo finalmente usado bem.
+- 🟢 **Confirma os números do cap. 67** (três plataformas, nove toneladas), o que isola o cap. 70
+  como o único fora da linha. Mais um argumento para reescrevê-lo.
+- 🟡 **A menina flutuando e "estabilizando" a torre** é a quinta manifestação sem regra nem custo.
+  Aqui dói mais, porque no mesmo capítulo o Dante paga e o Kael paga.
+- 🟡 **"Às quatro e dez da manhã"** é a primeira hora marcada do arco. Estender para todas as
+  aberturas de capítulo resolveria metade do problema de cronologia do bloco.
+- 🔵 **"Nove minutos" para a janela de lançamento** e o Santo dizendo "dez minutos" no mesmo
+  capítulo. Unificar.
+
+## Capítulo 73 — Carne e Metal
+
+**Vigésimo quinto capítulo excepcional, e a melhor morte de vilão que o livro podia escrever.**
+Miranda não morre pela mão do herói: morre pelo que ele comprou para deixar de ser humano. O Zippo
+do pai — objeto sem bateria — matando um homem feito de titânio impresso é a rima temática mais
+limpa da obra.
+
+- 🟢 **"Eu era o lixo que você tentava reciclar. Nunca me passou pela cabeça que você pudesse estar
+  enganado."** É o melhor argumento de vilão do livro, porque acusa a virtude do protagonista.
+- 🟢 **"Eu não estava enganado. Você era melhor que isso. Esse é o problema, Roberto."** E é a
+  melhor resposta possível, dada tarde demais e para ninguém.
+- 🟢 **"Ficou barato demais."** Catorze anos resolvidos por uma nota de rodapé sobre coeficiente de
+  dilatação — a recusa da catarse é o que faz a cena funcionar.
+- 🟢 **A supressão a nitrogênio armada quarenta segundos antes** é a melhor preparação do livro:
+  plantada, invisível, e paga no capítulo seguinte à plantação.
+- 🟡 **"O que acontece em dois segundos?" / "NÃO DESCOBRE."** Boa piada, mas a arma nunca chega a
+  ficar apontada dois segundos em ninguém. A ameaça é declarada e não é cobrada.
+- 🟡 **Três balas na Glock, dois tiros disparados**, e a arma some do capítulo. No 74 ela está
+  "vazia havia uma hora". Acertar a contagem.
+- 🔵 **"Uma traição que custou nove vidas, entre elas duas que Gabo tinha jurado proteger."**
+  Verificar se esse número bate com o corpo do livro — é a primeira vez que ele é fechado.
+- 🔵 **O Zippo precisa aparecer antes.** Se ele não estiver no bolso do Gabo em pelo menos dois
+  capítulos anteriores, a solução parece conveniente em vez de preparada.
+
+## Capítulo 74 — O Sacrifício de Lázaro
+
+**Vigésimo sexto capítulo excepcional, e o melhor fecho de arco possível.** A menina não é
+resgatada nem morta: ela decide, e a decisão é dela, e o livro tem a coragem de deixar o
+protagonista assistir sem poder fazer nada — que é exatamente o que ele passou 74 capítulos
+tentando evitar.
+
+- 🟢 **"Eu não morro. Eu viro eco."** A frase que a obra vinha perseguindo desde o cap. 2.
+- 🟢 **"A mão dele chegou tarde"** — a melhor descrição de algo sobrenatural do livro inteiro,
+  porque descreve o *timing* em vez da aparência.
+- 🟢 **"O nome. Eu ia gostar de ter escolhido. Mas eu gostei de ser chamada."** Paga integralmente
+  a cena do cap. 69. É o melhor par pergunta-resposta separados por cinco capítulos da obra.
+- 🟢 **Todas as telas da cidade acendendo por um segundo**, incluindo celulares descarregados no
+  bolso de quem dormia. Melhor imagem final possível.
+- 🟢 **A estrela sem nome no buraco das nuvens** ("e não ia saber nunca, e por algum motivo isso
+  pareceu justo") — o único momento de graça que o livro se permite, e ele foi conquistado.
+- 🔴 **"O rosto de uma menina de cinco anos."** Cinco é exatamente a idade da filha afogada do
+  cap. 62. Se a intenção é confirmar a ligação, ela precisa ser dita; se não é, a coincidência
+  numérica reabre a contradição de origem (ver a seção sobre a Aria).
+- 🟡 **"Três costelas partidas"** — eram duas nos caps. 62, 69 e 71. Padronizar.
+- 🟡 **Cento e oitenta e dois andares em quarenta e um minutos** com dois dedos quebrados, ombro
+  baleado, costelas partidas e órteses meio travadas. O texto justifica com a inclinação, mas o
+  número é generoso demais. Reduzir os andares ou aumentar o tempo.
+- 🟡 **"A Glock estava vazia havia uma hora"** contradiz o cap. 73, onde ele dispara dois dos três
+  tiros minutos antes.
+- 🔵 **O Kael desaparece do livro segurando uma porta.** Depois do cap. 71, ele merece um destino na
+  página — nem que seja uma linha vista de longe.
+- 🔵 **"Fala pro papai que eu amo ele"** confirma o Dante como pai dela (cap. 69) e é incompatível
+  com a leitura de filha do Gabo (cap. 59). Mais um item para a decisão de origem.
