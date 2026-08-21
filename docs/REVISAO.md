@@ -1812,9 +1812,12 @@ construída da obra.
 - 🟢 **"O nome saiu inteiro sem que ele soubesse de onde tinha vindo, e essa foi a coisa mais
   assustadora da noite."** O custo da consulta aparece na própria consulta.
 - 🟢 **A mancha agora tem cronômetro explícito** ("algumas semanas"). É o que faltava desde o 86.
-- 🔴 **Silas Vance precisa existir antes.** O nome aparece na lista de personagens de capítulos do
-  primeiro terço, mas se o leitor não o encontrar em cena antes do 89, a revelação máxima do arco
-  cai num personagem que ele não reconhece. Verificar e, se necessário, plantar duas aparições.
+- 🟢 **Silas Vance está plantado** — aparece em cena no cap. **30.5** (nomeando o Projeto Gênesis ao
+  Miranda) e no cap. **46** ("Diretor do Departamento de Biologia Aplicada"). A revelação tem lastro.
+- 🟡 **Mas o intervalo é grande demais:** entre o cap. 46 e o 89 ele não aparece uma única vez, e o
+  capítulo em que ele é apresentado é um **30.5**, fora da numeração principal. Se o 30.5 não estiver
+  no sumário do site, o leitor médio nunca o leu. Ou promover o 30.5 a capítulo inteiro, ou inserir
+  uma menção ao Silas no bloco 60–80.
 - 🟡 **Marco Moretti "com vinte anos a menos"** no laboratório é uma bomba jogada de passagem: o
   irmão sabia do Gênesis desde o começo. Isso reescreve a motivação dele em todo o arco 1 e merece
   mais que uma linha.
@@ -1822,3 +1825,65 @@ construída da obra.
   pessoa convertida, isso contradiz a cicatriz de cesárea preservada. Esclarecer.
 - 🔵 **"Trinta anos pela água"** e **"sessenta anos"** de espera da gravação. Conferir com a
   cronologia do Dilúvio e do Apagão.
+
+---
+
+# ⚠️ CAPÍTULOS FRACIONÁRIOS (fora da numeração principal)
+
+O livro tem dois arquivos fora da sequência inteira — `capitulo-30.5.md` e `capitulo-75.5.md`. Os
+dois carregam informação **estrutural**, não acessória, e os dois têm frontmatter incompleto (sem
+`layout`, `title`, `description`), o que provavelmente os deixa fora do sumário do site. Um leitor
+que siga a navegação normal não lê nenhum dos dois — e sem eles duas revelações centrais da obra
+(o Silas Vance e o Syn-Doll do Miranda) chegam sem lastro.
+
+**Recomendação:** promover os dois a capítulos numerados, ou fundi-los ao capítulo vizinho.
+
+## Capítulo 30.5 — Interlúdio: A Casa Sempre Ganha
+
+**Interlúdio decisivo, escrito em nível padrão, e indispensável.** É aqui que o livro estabelece
+duas coisas de que depende do cap. 73 em diante: que o Miranda usa **Syn-Dolls** como duble, e que
+o **Silas Vance** existe, tem nome, comanda os Jardineiros e já falava em Projeto Gênesis.
+
+- 🔴 **A cronologia declarada não fecha.** O cabeçalho diz *"24 horas após a Queda da Torre Aeterna
+  (Pós-Capítulo 30)"* — mas a Torre Aeterna cai no **cap. 71**. Ou existe uma queda anterior no
+  cap. 30 e o nome precisa ser outro, ou este interlúdio está quarenta capítulos fora do lugar.
+  É o erro mais objetivo do livro depois dos dois rascunhos colados do cap. 76.
+- 🟢 **O Syn-Doll "Número 4"** resolve retroativamente a ressurreição do Miranda e prepara a voz no
+  rádio do cap. 79. É a melhor peça de encaixe de longo prazo da obra — e está escondida num
+  arquivo fracionário.
+- 🟢 **"Você mata o que vê, mas nunca olha o que está nas sombras."** Melhor acusação do vilão.
+- 🟢 **"Ouro é metal morto. Nós buscamos a carne viva."** E os cultistas que murcham em vez de
+  sangrar. Toda a estética do arco 78–89 já está aqui, quarenta e sete capítulos antes.
+- 🟡 **A prosa é de rascunho** — "horrorizado", "perturbador", o narrador dizendo o que sentir, e
+  duas explicações entre travessões que a cena já mostrava. Vale reescrever no nível do cap. 87.
+- 🟡 **"Escopeta de Gabo"** — quinta variação do nome da arma (ver caps. 66, 68, 70, 76).
+- 🔵 **"Palácio de Jade"** — conferir se essa cena existe no corpo do livro, e em qual capítulo.
+
+## Capítulo 75.5 — Memórias de Chuva (Flashback)
+
+**O capítulo mais problemático do livro inteiro, e o que mais precisa de decisão editorial.** Ele
+introduz **uma esposa** (Beatriz "Bia" Vargas), recoloca a **Elena** como amiga e não companheira, e
+apresenta uma **quarta versão** da origem da Aria — tudo num arquivo que a navegação do site
+provavelmente nem lista.
+
+- 🔴 **Quarta origem da Aria, e a mais incompatível de todas.** Aqui ela não é filha morta (cap. 59),
+  nem coletada (cap. 62), nem construída-irmã (cap. 69): é **uma lembrança que vive dentro da mente
+  do Gabo** — *"Aria não acordou em plano digital algum. Ela acordava na mente de Gabo."* Isso
+  contradiz frontalmente o cap. 74, em que ela se dispersa pela cidade, e o cap. 88, em que ela está
+  numa caixa preta de vinte quilos. Ver a seção "o que é a Aria".
+- 🔴 **"Da filha que ele perdeu"... "de Elena".** O texto atribui a filha morta à **Elena**, e o
+  cap. 69 atribui a montagem da Aria ao material genético da **mãe do Gabo**. Some-se a esposa Bia,
+  e a obra passa a ter três mulheres candidatas ao mesmo lugar na biografia do protagonista.
+- 🔴 **"Aos 22 anos", "há 8 anos"** coloca o Gabo com **30 anos** no presente. O cap. 88 diz
+  quarenta e dois; o cap. 85 fala em vinte e seis anos de céu de Baía Cinzenta; o cap. 73 dá catorze
+  anos de parceria com o Miranda. Refazer a idade dele de uma vez, no livro todo.
+- 🔴 **"Torre de Marfim"** aparece só aqui. Se é a Torre Aeterna, padronizar; se é outro prédio,
+  ele nunca mais existe.
+- 🟡 **"A mulher que amava Gabo agora"** — o romance com a Val é declarado aqui e em nenhum outro
+  lugar dos capítulos 1–89. Se existe, precisa de cena; se não, cortar a linha.
+- 🟡 **A promessa da Bia** ("não deixe que a cidade te quebre") é boa e nunca é cobrada — o Gabo
+  jamais a menciona. É o tipo de plantio que só funciona se colhido.
+- 🟢 **"Ela é normal. Em um mundo que enlouqueceu."** Melhor linha do capítulo, e a única
+  justificativa de casamento que o livro precisaria.
+- 🟢 **A ideia central — a Aria com medo de ser *só* a filha morta** — é excelente e resolveria a
+  contradição de origem se fosse promovida a capítulo de verdade e colocada **antes** do cap. 62.
