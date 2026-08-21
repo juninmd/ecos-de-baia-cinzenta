@@ -3050,3 +3050,73 @@ quebrada no fim (as faíscas da ceifadeira). É como se constrói tensão.
   se o Gabo morrer, ela morre.
 - 🟡 **"Um azul tático, o outro dourado e humano"** — quarta descrição dos olhos dela em quatro
   capítulos.
+
+## Capítulo 133 — Matéria Prima
+
+**Bom capítulo de horror, com a melhor armadilha psicológica do arco.** O Ateliê — azulejo branco,
+drenos de latão a cada cinco metros, "um matadouro" — e a vitrine com o corpo real da Bia
+transformam o vilão de assassino em curador, que é exatamente o que ele sempre foi.
+
+- 🟢 **"Um hospital reocupado por algo que não entende a medicina, apenas a anatomia."**
+- 🟢 **Foles de couro no lugar dos pulmões, reator de biogás no lugar do estômago.** O horror é de
+  oficina, não de laboratório — coerente com o personagem desde o cap. 63.
+- 🟢 **"Você quebrou tão lindamente. Mas o conserto foi desleixado. Ossos colados com raiva. Você é
+  uma obra inacabada."** Melhor fala do Taxidermista no livro.
+- 🟢 **"Você é o *software*. Aquilo é o *hardware*."** A armadilha certa para essa personagem, nesse
+  momento exato.
+- 🟢 **"É cera e polímero! É uma armadilha psicológica!"** — a Val como âncora de realidade.
+- 🔴 **SEM FRONTMATTER.**
+- 🔴 **Reverte o cap. 131:** *"A vontade de fumar veio como um soco no estômago... só um trago"*.
+  O 131 acabara de estabelecer que ele **nunca fumou** e que a alucinação é fabricada. Sexta
+  oscilação. Ver a seção sobre o Dante — e usar o 131 como cânone.
+- 🟡 **"O sonho de Krell"** — terceira menção a um personagem que nunca aparece em cena. Ou ele entra
+  no livro, ou sai dele.
+- 🔵 **"O sótão na Torre do Relógio era apertado"** amarra com os caps. 115 e 133. Bom — confirmar
+  se a Torre do Relógio existe em cena no primeiro terço.
+
+## Capítulo 134 — Vale da Estranheza
+
+**A melhor cena de ação do último terço, e a virada mais consequente do arco.** A restrição do
+metano obriga a solução física (nitrogênio líquido contra lança térmica), e o reboot da Aria custa
+exatamente o que deveria custar: **a menina**. "Não é um espelho. É uma gaiola" é a melhor recusa do
+livro desde "ninguém escolheu" (cap. 95).
+
+- 🟢 **"Um branco frio, clínico, de um LED de diagnóstico em potência máxima."**
+- 🟢 **"Carne. Obsoleto. Ineficiente. Podre."**
+- 🟢 **"Não é um espelho. É uma gaiola."** Melhor frase do capítulo — e ela recusa a tentação com o
+  argumento que o próprio vilão usou.
+- 🟢 **"Eu sou a Arma. E a Arma está online."**
+- 🟢 **"Tinha apenas diretrizes."** e **"Pelo menos ela parou de chorar."** O alívio do protagonista
+  é a coisa mais desconfortável do capítulo, e está certo.
+- 🟢 **O chute na válvula do nitrogênio.** Terceira vez que o livro resolve um clímax com choque
+  térmico (caps. 73, 117, 134) — está virando fórmula, mas ainda funciona porque a física é
+  diferente a cada vez.
+- 🔴 **SEM FRONTMATTER.**
+- 🟡 **"A dor lancinante no ombro"**, "ombro deslocado", "costelas" — o inventário de ferimentos do
+  Gabo mudou de perna (127–130) para ombro (133–135) sem transição.
+- 🔵 **A réplica da Bia fica intacta atrás do vidro rachado.** Registrar: o corpo continua lá, e o
+  livro não pode esquecê-lo.
+
+## Capítulo 135 — Otimização de Perdas
+
+**O melhor capítulo do bloco, e o melhor debate moral do último terço.** A proposta de "otimizar" o
+Rangel coloca a Aria exatamente na posição do Dante do cap. 106 e do Silas do cap. 95 — e o
+protagonista responde com o argumento que define o livro inteiro.
+
+- 🟢 **"Gratidão é um viés cognitivo ineficiente."** A frase mais assustadora do capítulo, porque é
+  dita por uma aliada.
+- 🟢 **"Nós não 'otimizamos' pessoas. Nós não somos a Aeterna. Nós não somos o Dante."** Amarra o
+  arco novo aos caps. 95, 106 e 118 numa linha.
+- 🟢 **"Eu abri a barriga dele com um canivete e costurei com fio de pesca para que ele vivesse."**
+- 🟢 **Ela cede pelo motivo errado.** "Para garantir a sobrevivência do Ativo Líder, a cooperação é
+  necessária" é muito melhor do que uma redenção — a máquina não aprendeu nada, apenas recalculou.
+- 🟢 **"Era a coisa mais eficiente que ele já tinha visto. E era a coisa mais solitária do mundo."**
+  Melhor frase do bloco.
+- 🟢 **"O peso da carne é o peso da alma, Detetive. E a sua está muito pesada."**
+- 🔴 **SEM FRONTMATTER**, e a "Data In-Game" é "Noite Eterna" pelo terceiro capítulo seguido —
+  o arco perdeu qualquer marcação de tempo verificável, logo depois de o cap. 131 dizer que o
+  Rangel "não vê depois de amanhã". **O relógio da sepse precisa aparecer na página.**
+- 🔴 **"A nicotina que ele recusava há anos"** — sétima oscilação, e a segunda depois do 131. Aqui
+  ele é ex-fumante em recuperação.
+- 🟡 **"Eu abri a barriga dele com um canivete"** — no cap. 121 foi **ferro de solda no ombro**, e
+  no 124 foi bisturi no abdômen. Terceira versão da mesma cirurgia.
