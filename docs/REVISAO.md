@@ -2605,3 +2605,69 @@ ainda assim vendo tudo" é a melhor imagem do vilão.
   (ver caps. 64 e 91, em que o mesmo dilema aparece sem etiqueta).
 - 🔵 **"Meu ciclo de resfriamento está em 89%"** — bom uso do relógio do cap. 111. Manter a
   porcentagem visível até o desfecho.
+
+## Capítulo 118 — O Colapso da Onda
+
+**O melhor capítulo do arco do Dante.** O dilema é resolvido pela recusa da premissa — "o Dilema do
+Bonde assume que você só pode puxar a alavanca; ele ignora a possibilidade de descarrilar o trem" —
+e a decisão de **não** matar o vilão, porque matá-lo seria dar-lhe uma importância que ele já não
+tem, é a melhor escolha do protagonista desde o cap. 95.
+
+- 🟢 **"A lógica é uma ferramenta. Não um dogma."**
+- 🟢 **"Ele ignora a possibilidade de descarrilar o trem."** A saída do dilema é achada dentro da
+  formulação do próprio vilão. Melhor virada do bloco.
+- 🟢 **"Eu sou a Matriz agora."** e o sacrifício custando caro (pele derretendo, chassi à mostra,
+  matriz de personalidade formatada) — não é vitória barata.
+- 🟢 **"O silêncio... é tão alto."** A melhor última fala possível para esse vilão.
+- 🟢 **"Ele era apenas um velho com cicatrizes e delírios de grandeza."** e **"Você é apenas um
+  homem. E homens apodrecem."** O anticlímax deliberado é a decisão certa.
+- 🟢 **"Ele transformara a compaixão em uma arma."**
+- 🔴 **Frontmatter incompleto**, imagem genérica — sétimo capítulo seguido.
+- 🟡 **"Nunca se entregue à ferrugem"** é boa despedida, mas o vocabulário ("ferrugem") pertence à
+  Praga de Ferro do cap. 92, que é outra coisa. Escolher outra imagem ou amarrar explicitamente.
+- 🔵 **O Taxidermista se dissolve em estática e some do arco** sem nenhum acerto de contas, três
+  capítulos depois de voltar. Se ele sobreviveu de novo, dizer; se morreu com a rede, mostrar.
+
+## Capítulo 119 — Cinzas Frias
+
+**Bom epílogo curto.** A cidade apagada vista do portão — "os arranha-céus eram silhuetas mortas
+contra o céu roxo" — e a correção do Gabo ("nós não matamos a cidade, nós a desligamos") fecham o
+arco com a mesma ideia do cap. 97, mas em chave menor, que é o certo para uma vitória menor.
+
+- 🟢 **"Nós matamos a cidade." / "Não. Nós a desligamos. Agora ela pode acordar."**
+- 🟢 **"A morte é muito rápida para ele."** O Rangel entendendo a decisão do cap. 118 antes de
+  ouvi-la explicada.
+- 🟢 **"Três humanos e uma máquina mancando na escuridão, enquanto o cheiro de chuva limpa começava
+  a lavar o cheiro de carne queimada."** Bom fecho.
+- 🟢 **"É como se ela tivesse formatado a própria alma."**
+- 🔴 **O Rangel está vivo**, o que é bom — mas o cap. 116 o deixa cercado e a Val o dá por morto no
+  117 ("você matou Rangel"). O livro precisa de uma linha explicando que ele aguentou.
+- 🔴 **Frontmatter incompleto.**
+- 🟡 **Parágrafo redundante:** "o cheiro doce da biomassa" aparece em duas frases seguidas, a
+  segunda repetindo a informação da primeira como gatilho.
+
+## Capítulo 120 — O Silêncio de Aeterna
+
+**Capítulo de transição competente, com o melhor momento analógico do arco — e o pior problema de
+formatação do livro inteiro.**
+
+- 🔴 **O ARQUIVO NÃO TEM FRONTMATTER.** Ele começa com um bloco `## Metadados` em markdown visível,
+  com Título, Data In-Game, Localização, Personagens e **Resumo**, seguido de `## Narrativa`. Isso
+  aparece **impresso na página** para o leitor e quebra o padrão de todos os outros 234 capítulos.
+  É o erro de produção mais grave da obra. **Converter para frontmatter YAML.**
+- 🔴 **O próprio bloco de metadados contradiz o capítulo:** o resumo diz *"Rangel **sucumbe aos
+  ferimentos**"*, e no texto ele sobrevive, senta na cabine e ainda faz uma piada na última linha.
+- 🟢 **A ignição feita com fio: "vermelho no vermelho, terra no chassi."** e o "Toupeira" anterior à
+  Lei de Ar Limpo de 2045. O melhor momento do capítulo: o mundo velho volta a funcionar porque é
+  velho.
+- 🟢 **"Isso é sucata." / "É analógico."** Ecoa "então ele fala a minha língua" (cap. 117) — o arco
+  tem uma tese consistente e a repete bem.
+- 🟢 **"Um perfume melhor que qualquer incenso sintético."**
+- 🟢 **"Milhares de pessoas lá dentro, sem saber que o 'Deus' que controlava suas cafeteiras e suas
+  carreiras havia caído."** Melhor frase do capítulo — a queda do tirano medida em eletrodoméstico.
+- 🟢 **"O medo viria pela manhã. O caos viria com o sol."**
+- 🟡 **"O maço de cigarros fantasma que nunca estivera lá — ele jamais comprara um."** Aqui o texto
+  finalmente resolve a incoerência dos caps. 100/115 (ele **não** fuma; o cheiro é alucinação). Boa
+  correção — só falta aplicá-la retroativamente nos capítulos anteriores.
+- 🔵 **"Dor é realidade. Fumaça é fuga."** Terceira repetição do mesmo ritual com o Colar de Sol em
+  três capítulos (115, 119, 120). É um bom tique; está virando muleta.
