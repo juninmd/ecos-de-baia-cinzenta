@@ -5063,3 +5063,57 @@ diferentes.
 - 🔵 **"Campos magnéticos residuais"** mantendo o colosso unido — boa ideia, e ela **sugere** a
   solução certa (pulso eletromagnético, desmagnetização) que o capítulo não usa. Se o autor quiser
   uma variação para a luta contra as outras três, está plantada aqui.
+
+## Capítulo 206 — Ecos na Escuridão
+
+**Capítulo de respiro competente**, mas é aqui que o furo do 205 se confirma: **as outras três
+criaturas não existem mais.** O texto contabiliza danos, escolhe rota e segue como se o gancho do
+204 nunca tivesse sido dado.
+
+- 🟢 **"O estrondo ainda ecoava nos meus ossos muito depois que o metal parou de ranger."**
+- 🟢 **"Fluidos hidráulicos escuros, espessos como sangue coagulado."**
+- 🟢 **"Flanqueado por barras de vergalhão tortas, como os dentes de uma boca faminta."**
+- 🟢 **"O metal frio e o cheiro de pólvora me ancoravam ao presente."** Uma âncora que **não** é
+  automutilação. Depois de sessenta ocorrências, este é o caminho: recarregar a arma, o ritual
+  profissional, o gesto de ofício. **Mais destas, menos das outras.**
+- 🟢 **"Se algo do tamanho de um tanque sobrou debaixo daquilo e ainda se mexer, nós corremos. E
+  muito."** Bom humor de sobrevivente, e é caracterização: ele não presume vitória.
+- 🟢 **"Pessoas desapareceram faz tempo, Elias. Nós somos tudo o que sobrou."**
+- 🔴 **As três criaturas restantes desaparecem da narrativa.** Ver a nota do 205. Dois capítulos
+  depois do gancho, **nenhuma menção** — nem para dizer que fugiram, nem que ficaram soterradas.
+  **Furo aberto; precisa de conserto no 206 ou de corte no 204.**
+- 🟡 **64ª ocorrência**, novamente o ombro contra uma superfície. Vigésimo segundo capítulo com o
+  recurso em 28.
+- 🟡 **"Luzes de emergência AVERMELHADAS"** — no 203 e no 205 elas são **âmbar**. Padronizar.
+- 🟡 **"Perna biónica"** — acento espanhol/vazado (*biônica*). E é o **quinto** termo para a perna
+  (órtese, exoesqueleto, perna mecânica, perna protética, perna biônica).
+- 🔵 **"Sistemas operacionais em 74%"** para a Val — primeiro número de integridade dela no arco.
+  Bom; **acompanhar esse número até o fim** daria ao leitor um medidor de tensão que hoje não existe.
+
+## Capítulo 207 — O Peso da Ferrugem
+
+**Capítulo curto de transição, tecnicamente correto e sem nada de novo.** É o tipo de capítulo que
+uma revisão de estrutura deveria fundir com o 206: os dois juntos têm o conteúdo de um só.
+
+- 🟢 **"A escuridão era tão espessa que parecia ter peso."**
+- 🟢 **"A aparência de uma garganta doentia prestes a nos engolir."**
+- 🟢 **"Parece que a gente tá sendo enterrado vivo."** A melhor fala do Elias no bloco.
+- 🟢 **"A claustrofobia era um gatilho perigoso, uma porta destrancada na minha mente fraturada."**
+  Boa formulação — e é a primeira vez que o gatilho é **psicológico** (o pânico alheio) em vez de
+  ambiental.
+- 🟢 **"Concentra na luz da Valéria. Um metro de cada vez."** Ele cuidando do garoto com técnica de
+  quem já se manteve vivo assim. Bom contraponto às ameaças do 197.
+- 🟢 **"A Praga consome calor e metal, Elias. Isso soa diferente."** Dedução por eliminação, no
+  registro do 204.
+- 🟢 **"Temperatura inferior ao ambiente."** Ótimo gancho: tudo neste livro é quente (fogo, biomassa,
+  febre). **Algo frio é a variação certa.**
+- 🟢 **"Uma cidade que há muito tempo devorava os seus filhos."**
+- 🟡 **65ª ocorrência.** Vigésimo terceiro capítulo. E é idêntica à do 206 (ombro contra parede).
+  **Duas ocorrências iguais em capítulos consecutivos — cortar uma.**
+- 🟡 **"A dor era um velho amigo, o único que nunca me traía"** é a mesma ideia de *"a dor, leal e
+  cruel"* (199), *"minha única amiga leal"* (185) e *"a dor era meu santuário"* (204). **Quatro
+  formulações da mesma frase.** Escolher a melhor (a do 204) e cortar as outras.
+- 🟡 **Capítulo sem evento.** Eles rastejam, ele se machuca, a Val detecta algo, fim. **Fundir com o
+  206.**
+- 🔵 **"Sistemas de combate operando em capacidade otimizada"** contra os **"74%"** do capítulo
+  anterior. Ou ela se reparou, ou uma das duas afirmações está errada.
