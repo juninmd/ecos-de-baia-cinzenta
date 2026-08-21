@@ -2046,3 +2046,85 @@ entre profissionais, não como despedida — o que a torna muito pior.
   cap. 74 o que restava se dispersou pela cidade. Se a Colmeia o absorveu depois, isso precisa ser
   dito — é reencontro grande demais para chegar como detalhe de cenário.
 - 🔵 **"Três minutos no relógio"** — última marcação do arco. Manter a contagem visível no 96.
+
+## Capítulo 96 — A Grande Convergência
+
+**O clímax da obra está escrito em nível de rascunho, e é o problema mais urgente do livro depois
+do cap. 76.** As ideias são as certas — a tentação sendo real, a finitude como argumento, o "escolhas
+importam" — mas a execução tem erro de pronome do começo ao fim, dois parágrafos partidos no meio de
+uma palavra, e contradiz o capítulo anterior no ponto mais importante. **Reescrever inteiro, no
+nível do cap. 95.**
+
+- 🔴 **Confusão de pronome do início ao fim.** O capítulo troca Gabo e Aria de sujeito
+  repetidamente: *"esperando por ela como um deus"*, *"sua voz quebrou de um jeito que **ela** nunca
+  havia quebrado"*, *"**Ela** o ignorou. Nas últimas frações de segundo, **Gabo** olhou... **Viu
+  Gabo**."* Em vários trechos é impossível saber quem age.
+- 🔴 **Dois parágrafos partidos no meio da palavra:** *"através\n\n de pura teimosia"* e
+  *"sobrecarre\n\ngados"*. É corrupção de arquivo, não estilo.
+- 🔴 **Contradiz o cap. 95 no ponto decisivo.** Lá, o Gabo encaixa o conector e diz "agora" — a
+  escolha é dele. Aqui, quem executa e se sacrifica é a Aria, e o Gabo grita "não faz isso". As duas
+  versões do sacrifício não podem coexistir. **Decidir de quem é a escolha.**
+- 🔴 **Frontmatter incompleto** (sem `layout`, `title`, `description`) — quinto capítulo fraco com o
+  mesmo sintoma. O padrão é 100% confiável neste livro.
+- 🔴 **"Nem quando perdeu Bia. Nem quando a mãe morreu na enchente."** A esposa Bia só existe no
+  cap. 75.5, e a morte da mãe por afogamento aparece aqui pela primeira vez, no clímax, numa
+  oração subordinada. Ver a seção sobre a Aria e a biografia do Gabo.
+- 🔴 **"Apenas a chuva testemunhou"** — a chuva parou no cap. 75 e não voltou. O cap. 97 confirma
+  sol e cinza.
+- 🟢 **"Eternidade sem escolha era apenas outra prisão."** e **"Eles lutavam porque sabiam que iam
+  morrer. E lutavam mesmo assim."** As ideias certas, e a razão pela qual vale reescrever em vez de
+  cortar.
+- 🟢 **"Você olha para mim do jeito que Dante olhava para você nas fotos antigas." / "Pai."**
+  Merecia estar num capítulo à altura.
+- 🟡 **"Ele acessou o núcleo do servidor"** e depois **"detonou o núcleo do servidor"** — o
+  mecanismo do Código Morto muda de natureza no meio do capítulo (executar × detonar).
+
+## Capítulo 97 — O Último Suspiro (Fim da Parte XIII)
+
+**Quadragésimo sexto capítulo excepcional, e o melhor epílogo do livro.** Ele resolve o pós-clímax
+por inventário — quarenta e um minutos, quatorze prédios, onze minutos escolhendo a margarida,
+cento e quarenta mil de um milhão e oitocentos mil — e a última frase é a melhor da obra.
+
+- 🟢 **"Era igual, e não era a mesma coisa. Não eram esporos. Eram cinzas."** Abertura perfeita.
+- 🟢 **"Ele levou onze minutos escolhendo qual arrancar."** Melhor gesto de luto do livro.
+- 🟢 **"Ela mandou eu cuidar da minha vida, o que eu acho um ótimo sinal."** A Nise caracterizada
+  por relato de terceiro, sem aparecer.
+- 🟢 **"Nenhum dos dois acreditava, e os dois falaram assim mesmo, porque é o que se faz."**
+- 🟢 **"Não clareou nunca."** Uso perfeito do narrador retrospectivo — o único do livro que
+  realmente entrega algo que só ele podia entregar.
+- 🟢 **"Era feia, e era suja, e era quebrada. E, pela primeira vez em sessenta anos, não era de
+  ninguém."** A tese da obra fechada.
+- 🟢 **A estática como "o som mais bonito do mundo"** e o fone afundando dois centímetros numa poça.
+- 🟢 **"Mais quatro margaridas que ele não tinha visto — e que, se tivesse visto, ele teria
+  contado."** A melhor última linha do livro, porque define o personagem pelo que ele faria.
+- 🟡 **"Valéria Cruz — pendente"** e os quatrocentos petrificados com atividade cerebral. Excelente
+  gancho, mas cuidado: se o cap. 98 abrir um arco novo sem tocar nisso, a promessa esfria.
+- 🔵 **"Um milhão e oitocentos mil"** habitantes originais. Conferir contra o que o livro já disse
+  sobre o tamanho da cidade e contra os 41.226 do cap. 64.
+
+## Capítulo 98 — A Cidade Silenciosa
+
+**Abertura de arco competente, em nível padrão, com um mundo pós-colapso muito bem observado e um
+gancho que desfaz o epílogo anterior rápido demais.** As órteses passivas feitas de suspensão de
+carro velho e as máquinas de escrever resgatadas de sótão são o melhor do capítulo.
+
+- 🟢 **"Clack. Clack. O som da sua nova mobilidade. Era o preço de continuar de pé."** A melhor
+  consequência física do livro, e a única que dura.
+- 🟢 **O café com gosto de terra queimada: "Era delicioso."** Paga o cap. 95 (o pedido da Val) sem
+  citá-lo — e por isso funciona.
+- 🟢 **A delegacia dentro da Biblioteca Municipal.** Boa amarração com o cap. 90.
+- 🟢 **"O trânsito está ótimo sem os carros voadores caindo do céu."** Primeira piada do Gabo em
+  muitos capítulos, e ela cabe.
+- 🔴 **Frontmatter incompleto** — sexto capítulo com o sintoma.
+- 🔴 **"O pulso eletromagnético da Aria"** — o que destruiu a tecnologia foi o **Código Morto**
+  (caps. 90, 95, 96), não um pulso. E, se um EMP fritou tudo, as máquinas de escrever e o gerador
+  comunitário do prédio precisam de outra explicação.
+- 🟡 **"O Sra. Rossi"** — erro de concordância. E o casal Rossi apareceu como "Enzo e Sofia"
+  (cap. 75.5); aqui só Sofia, sem menção ao Enzo.
+- 🟡 **Noventa dias de paz** desmontados na primeira cena. O cap. 97 comprou o direito a um respiro;
+  gastá-lo em três meses de tempo narrado enfraquece os dois capítulos. Considerar deixar o arco
+  novo começar mais adiante.
+- 🟡 **O Inspetor Rangel** é apresentado por preguiça ("parecendo entediado", quer marcar como morte
+  natural e ir almoçar). É o tipo de personagem que o livro normalmente constrói melhor.
+- 🔵 **O cubo preto que não é Aeterna** é um bom gancho. Registrar a promessa: o livro precisa dizer
+  de quem é.
