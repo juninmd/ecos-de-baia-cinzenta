@@ -1487,8 +1487,9 @@ analógico. Mas o arquivo contém **dois rascunhos diferentes do mesmo capítulo
 - 🔴 **"Arthur Vane"** é o terceiro Vane/Vance da obra (Silas, Dra. Elara, e o `VANE, ALEXANDER` do
   cap. 61). Ou existe uma família Vane com peso na trama e ela precisa ser tratada como tal, ou os
   sobrenomes precisam ser diferenciados.
-- 🔴 **Frontmatter incompleto** (sem `layout`, `title`, `description`) — pelo terceiro capítulo
-  seguido, e pelo terceiro capítulo fraco. O padrão é confiável: frontmatter curto = rascunho.
+- 🟡 **Frontmatter incompleto** (sem `layout`, `title`, `description`) — ver a auditoria de
+  frontmatter no fim deste documento: é um problema de produção que afeta 172 capítulos, e não um
+  indicador de qualidade.
 - 🟡 **"A Entidade (a fusão de Dante e Aria)"** — o narrador explicando entre parênteses. E o
   cap. 75 acabou de estabelecer que ninguém consegue nomear aquilo; aqui o texto nomeia por
   preguiça. Além disso, 76 e 77 voltam a chamá-la de "Aria", desfazendo a escolha do 75.
@@ -2065,7 +2066,7 @@ nível do cap. 95.**
   escolha é dele. Aqui, quem executa e se sacrifica é a Aria, e o Gabo grita "não faz isso". As duas
   versões do sacrifício não podem coexistir. **Decidir de quem é a escolha.**
 - 🔴 **Frontmatter incompleto** (sem `layout`, `title`, `description`) — quinto capítulo fraco com o
-  mesmo sintoma. O padrão é 100% confiável neste livro.
+  mesmo sintoma — mas ver a auditoria no fim deste documento: o frontmatter incompleto é um problema de produção generalizado, não um indicador de qualidade.
 - 🔴 **"Nem quando perdeu Bia. Nem quando a mãe morreu na enchente."** A esposa Bia só existe no
   cap. 75.5, e a morte da mãe por afogamento aparece aqui pela primeira vez, no clímax, numa
   oração subordinada. Ver a seção sobre a Aria e a biografia do Gabo.
@@ -2141,7 +2142,7 @@ melhor ideia do capítulo e rima com a tese da obra.
   a única coisa que salva o Rangel de ser só um cético de plantão.
 - 🟢 **"A gravidade, a única lei que nunca falhava em Baía Cinzenta."**
 - 🟢 **"Meu terno... Era o último inteiro."** Boa piada de escassez.
-- 🔴 **Frontmatter incompleto** — sétimo capítulo com o sintoma, e o terceiro seguido.
+- 🟡 **Frontmatter incompleto** — ver a auditoria no fim deste documento.
 - 🔴 **"A chuva que começava a cair lá fora."** A chuva parou definitivamente no cap. 75 e os
   caps. 85–97 só têm sol e cinza. É a segunda reincidência (ver cap. 96).
 - 🟡 **O Vilar com "revólver .38"** e o Gabo com "revólver" no 97 — se o arsenal agora é analógico,
@@ -2671,3 +2672,62 @@ formatação do livro inteiro.**
   correção — só falta aplicá-la retroativamente nos capítulos anteriores.
 - 🔵 **"Dor é realidade. Fumaça é fuga."** Terceira repetição do mesmo ritual com o Colar de Sol em
   três capítulos (115, 119, 120). É um bom tique; está virando muleta.
+
+---
+
+# 🔴 AUDITORIA DE PRODUÇÃO: frontmatter dos 235 capítulos
+
+Levantamento feito sobre todos os arquivos `docs/capitulo-*.md`. **Isto é um problema de produção do
+site, não de escrita** — e é o item mais barato de consertar em relação ao impacto.
+
+| Situação | Quantidade |
+|---|---|
+| **Sem frontmatter nenhum** (arquivo não começa com `---`) | **32** |
+| Com frontmatter, mas **sem `title`** | **140** |
+| Com frontmatter completo (`layout` + `title` + `description`) | **63** |
+
+## 1. Os 32 capítulos sem frontmatter nenhum
+
+`120`, `121`, `123` a `127`, `131` a `155`.
+
+O caso do **cap. 120** mostra a gravidade: em vez de frontmatter, o arquivo abre com um bloco
+`## Metadados` em markdown **visível**, com Título, Data In-Game, Localização, Personagens e um
+**Resumo** — tudo impresso na página para o leitor —, seguido de `## Narrativa`. É rascunho de
+planejamento vazado para dentro da obra. Verificar se os outros 31 têm o mesmo formato.
+
+Pior: o resumo do bloco de metadados do 120 **contradiz o próprio capítulo** ("Rangel sucumbe aos
+ferimentos" — e ele sobrevive e faz uma piada na última linha).
+
+## 2. Os 140 sem `title`
+
+Distribuídos por todo o livro, incluindo capítulos **excelentes** (o 67 e o 68, por exemplo) e
+capítulos fracos (66, 70, 76, 96). **Retiro a afirmação que fiz nos capítulos 68, 76 e 98 de que
+frontmatter incompleto seria um indicador de rascunho** — a correlação não existe: é apenas um
+padrão de metadados que nunca foi aplicado retroativamente.
+
+## 3. O padrão bom
+
+Os 63 capítulos completos (a maior parte do bloco 55–97) usam:
+
+```yaml
+---
+layout: doc
+title: "Capítulo N: Título"
+description: "Uma linha que vende o capítulo sem entregar a virada."
+image: /capitulo_N.jpg
+Personagens Presentes: ...
+---
+```
+
+**Recomendação:** normalizar os 172 arquivos para esse formato. Os títulos e descrições já existem
+de fato — os títulos estão no `# Capítulo N: ...` do corpo, e as descrições podem ser derivadas.
+
+## 4. Imagens fora do padrão
+
+Vários capítulos apontam para imagens genéricas reaproveitadas em vez de `/capitulo_N.jpg`:
+`/cenas/cidade.jpg` (caps. 109, 112, 114, 115, 116, 118, 119), `/cenas/beco.jpeg` (110),
+`/cenas/investigacao.jpeg` (111), `/cenas/gabo-carro.jpeg` (113), `/raizes-amargas.jpg` (102),
+`/cidade.jpg` (65), `/capitulo_117_pro.jpg` (117), `/cenas/safehouse.jpg` (30.5),
+`/capitulo_75.jpg` no 75.5 (duplicando a imagem do 75).
+
+A imagem `cidade.jpg` sozinha ilustra **sete** capítulos seguidos do mesmo arco.
