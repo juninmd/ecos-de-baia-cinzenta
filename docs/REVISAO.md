@@ -4669,3 +4669,60 @@ protagonista se degradou.
   pós-colapso**. Aproveitar.
 - 🔵 **"Chave de fenda sônica"** — tecnologia nova, nome com carga de outra franquia. Considerar
   outro termo.
+
+## Capítulo 194 — O Preço da Manutenção
+
+**Bom capítulo de mecânica de fuga, e o Elias já está pagando o que prometia:** a reação horrorizada
+dele ("você podia ter torrado o seu coração!") é a primeira vez em 40 ocorrências que **alguém de
+fora vê o ritual**. Isso vale mais para o tema do que dez repetições do gesto.
+
+- 🟢 **"Um aroma industrial morto que eu engolia com gratidão."**
+- 🟢 **"A palavra 'fumaça' me atingiu como um soco no estômago."** O gatilho migrando do olfato para
+  a **linguagem** é escalada genuína — e é gratuita, não custa cena.
+- 🟢 **"Manutenção preventiva."** A melhor piada do arco, e ela é amarga.
+- 🟢 **"Para o seu algoritmo, a autopunição era um meio válido se mantinha a unidade funcional."**
+  A frase mais assustadora sobre a Val no livro: **ela não impede porque funciona**.
+- 🟢 **"A porta já estava apodrecendo."**
+- 🟢 **"Você tem que virar as válvulas na mão. E pesam meia tonelada cada."** Obstáculo físico
+  desenhado sob medida para a única vantagem que ele tem — e que custa o corpo dele para usar.
+- 🔴 **"Ruptura muscular do ombro ESQUERDO"** — a prótese industrial é o braço **direito** (caps.
+  179–193). O cap. 190 já cometeu o mesmo deslize ("meu braço esquerdo") e o **195 inteiro trata o
+  braço ferido como o esquerdo**. Ou seja: **o lado da prótese troca no meio do arco e não volta.**
+  É o erro de continuidade mais grave dos últimos cinquenta capítulos. **Decidir o lado e varrer os
+  caps. 179–233.**
+- 🟡 **44ª ocorrência.** Décimo terceiro capítulo seguido.
+- 🟡 **"Vinte e dois minutos" → "Vinte minutos?"** O Elias arredonda para baixo o número que acabou
+  de ouvir. Pequeno, mas é o tipo de coisa que o leitor nota.
+- 🔵 **"1800 Newton-metros"** e **"87% de probabilidade"** no mesmo parágrafo, e o 87% reaparece pela
+  terceira vez no arco (185, 191, 194). **Trocar.**
+
+## Capítulo 195 — O Sangue nas Engrenagens
+
+**O capítulo em que o livro finalmente nomeia o que está fazendo com o protagonista** — e a frase
+que o faz é dele mesmo: *"Se eu cauterizar, a dor diminui. Eu preciso da dor."* Recusar tratamento
+médico para preservar o sofrimento é o ponto em que a âncora deixa de ser sobrevivência e vira
+patologia declarada. **Este é o capítulo-chave do arco final.**
+
+- 🟢 **"Se eu cauterizar, a dor diminui. Eu preciso da dor."** Se houver uma frase para a contracapa
+  do terceiro livro, é esta.
+- 🟢 **"A dor era aguda, radiante e absolutamente perfeita."** O adjetivo "perfeita" é a confissão.
+- 🟢 **"Não era movimento, era penitência."**
+- 🟢 **"Tubos de condensação se enroscavam pelas paredes como veias doentes em um cadáver
+  industrial."**
+- 🟢 **"Apenas apontavam uma falha mecânica no equipamento avariado que eu era."**
+- 🟢 **"Choque neurogênico incipiente devido aos repetidos estímulos dolorosos autoinfligidos."** A
+  Val **diagnostica** o vício. O livro está ciente do que construiu — o que responde, em parte, à
+  minha objeção de saturação: a repetição é o sintoma, não o tique.
+- 🟢 **"Derrotado pela matemática."**
+- 🟢 **"Os catadores que vivem no Nível C vão farejar isso."** Ameaça plantada. Ver se o 196 paga.
+- 🟢 **"Fantasmas rastejando por suas entranhas de aço."**
+- 🔴 **O lado do braço.** Ver a nota do 194: aqui é **"braço esquerdo"** o tempo todo, com
+  *"cotovelo cibernético"* esquerdo. A prótese trocou de lado. **Erro estrutural do arco.**
+- 🟡 **"Duzentos e cinquenta mililitros de sangue"** — é um copo. Para um homem que sangra desde o
+  191 e cujo estado o texto trata como falência iminente, o número **desmente a cena**. Trauma que
+  ensopa manga e deixa poça no chão passa facilmente de 1 litro. **Subir o número ou tirar.**
+- 🟡 **45ª e 46ª ocorrências.** Décimo quarto capítulo seguido. Aqui, ao menos, o texto **as
+  agrupa** ("sempre que... e então eu impulsionava") em vez de encená-las uma a uma. **Este é o
+  modelo de compactação para os caps. 184–193:** sumarizar o ritual em vez de dramatizá-lo toda vez.
+- 🔵 **"Quilômetros de duto"** (Elias) vs. **"trezentos metros"** (Valéria) no mesmo capítulo.
+  Provavelmente hipérbole dele, mas convém não deixar os dois números tão perto.
