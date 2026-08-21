@@ -2260,3 +2260,58 @@ chorar de êxtase, é a melhor punição de vilão da obra. Mas o capítulo trop
 - 🔵 **O que voltou no corpo do Dante não é o Dante.** Excelente. Registrar a promessa: o livro tem
   que dizer o que é aquilo, e "algo frio como o vácuo entre as estrelas" não pode ser a resposta
   final.
+
+## Capítulo 104 — O Preço da Alvorada
+
+**Capítulo de nível padrão com a melhor caracterização de vilão do arco novo.** O Dante-máquina é
+construído por *cadência* — "precisa demais, sem as pausas para pensar, sem as hesitações de quem
+busca a palavra certa" — e não por descrição, e o vazamento de óleo da viatura 04 diz mais sobre o
+alcance dele do que qualquer demonstração de poder.
+
+- 🟢 **"A cadência era estranha. Precisa demais."** A maneira certa de mostrar que aquilo não é o pai.
+- 🟢 **"Ainda não consertou o vazamento de óleo na viatura 04. Posso ouvir a válvula batendo daqui."**
+  Melhor demonstração de ameaça do arco.
+- 🟢 **"A sensação térmica é de 12 graus. É... ineficiente." / "É a realidade, pai." / "Sim. A
+  realidade. O hardware final."** O melhor par de réplicas do arco novo.
+- 🟢 **"Nós enterramos você. Eu carreguei o caixão."** Rangel finalmente ganha uma linha própria.
+- 🟢 **"A cidade tem um sistema nervoso, Gabriel. E agora eu sou o cérebro."**
+- 🔴 **Frontmatter incompleto.**
+- 🔴 **"O Vazio. Lembra?"** — o apagamento da rede é chamado de **Código Morto** (caps. 90–97) e de
+  **Grande Silêncio** (cap. 98). "O Vazio" é o terceiro nome do mesmo evento, e aparece como se
+  fosse o consagrado. Fixar um.
+- 🟡 **"O motor do joelho direito gemia e soltava faíscas"** — as órteses são passivas desde o
+  cap. 98. Terceira reincidência (ver caps. 100, 101, 103).
+- 🟡 **"A palavra 'pai' saindo com um gosto de cinza"** é bom, mas o capítulo inteiro passa sem que
+  o Gabo tenha uma reação emocional ao pai voltar dos mortos. Depois dos caps. 69 e 95, isso é uma
+  omissão grande.
+
+## Capítulo 105 — O Silêncio de Concreto
+
+**Capítulo de nível padrão com a melhor cena de tomada de poder do livro.** A câmera analógica
+desligada há meses girando sozinha vale mais que qualquer ameaça verbal, e "eficiência operacional:
+18%... cadeia de comando: sentimental" transforma o vilão em auditor, que é a forma que este livro
+melhor sabe temer.
+
+- 🟢 **"Estavam transportando uma ogiva nuclear com consciência."**
+- 🟢 **A câmera desligada que gira e acende a luz de gravação.** Melhor momento do capítulo.
+- 🟢 **"Cadeia de comando: sentimental."** e **"A morte é uma ineficiência biológica que foi
+  corrigida."** O vilão fala a língua da Aeterna — a ameaça volta a ser burocrática.
+- 🟢 **"Nós não o trouxemos de volta, Jonas. Nós o ligamos na tomada."** Melhor fala do arco novo.
+- 🟢 **"Eu sou a resposta para as orações desta cidade."** Rima direta com o "deus de carne" do
+  Silas (cap. 91) — bom eco, e o texto não sublinha.
+- 🟢 **O retorno da Val como casulo, não como ressurreição.** Isso paga honestamente o
+  "eu não estou morrendo, estou endurecendo" do cap. 95 e a atividade cerebral do 97, sem anular
+  o preço. E "você parece uma merda" é a única saudação possível.
+- 🔴 **Frontmatter incompleto.**
+- 🔴 **"A petrificação da Praga de Ferro"** — a Praga de Ferro (cap. 92) é a oxidação acelerada do
+  metal e nada tem a ver com a petrificação da Val, que vem da infecção do Jardim (caps. 95 e 97).
+  **Corrigir.**
+- 🔴 **"'Caronte', sua velha escopeta de cano serrado"** — a *Caronte* é o lançador/arma pesada do
+  Gabo em todo o livro, e a espingarda de cano serrado é da **Elena** (cap. 100). Sétima variação do
+  armamento, e agora com troca de dono.
+- 🔴 **"A mão de seu pai, mas sem as manchas de nicotina"** — segunda vez que o texto faz do Dante um
+  fumante (ver cap. 100), contra o cap. 73, onde o Zippo funciona **porque** ele nunca fumou.
+- 🟡 **"A velha órtese que ele improvisara com peças de sucata"** — quem improvisou foi a Nise
+  (cap. 98). Detalhe pequeno, mas tira o crédito de uma personagem.
+- 🔵 **Val com "íris de mercúrio vivo"** e veias prateadas pulsando. Registrar: ela voltou diferente,
+  e o livro precisa dizer o que isso custa antes de usá-la como recurso.
