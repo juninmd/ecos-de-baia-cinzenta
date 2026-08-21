@@ -3791,3 +3791,73 @@ desde o colapso, gaiola de Faraday completa — é exatamente o contraste de que
   chegar ao Taxidermista. Introduzir um alvo novo numa linha de diálogo, sem cena, enfraquece os
   dois.
 - 🟡 **Frontmatter duplicado.**
+
+## Capítulo 165 — Fantasmas de Silício
+
+**Bom capítulo de aproximação, com a melhor pista física do arco.** Os rastros na poeira intocada —
+"retos e perfeitos, longos demais para serem de ratos mecânicos" — devolvem ao livro o método que
+ele abandonou há trinta capítulos: **olhar o chão e deduzir**.
+
+- 🟢 **"Dezesseis graus: um frio clínico, projetado para preservar placas de circuito, não para
+  confortar carne viva."**
+- 🟢 **"Um cemitério onde as lápides eram gabinetes de alumínio escovado."**
+- 🟢 **Os rastros na poeira.** Melhor momento de investigação desde o cap. 131.
+- 🟢 **"Não confio em nada que respira energia nesse buraco. Mas é a única batida na porta que a
+  gente tem."**
+- 🟢 **"O gasto calórico das suas automutilações paliativas acelera a deterioração cardíaca."** A
+  Aria nomeando o ritual como **automutilação** pela primeira vez. Era o que faltava.
+- 🟢 **"O som de uma tranca esquecida finalmente cedendo ao peso do tempo."**
+- 🔴 **Décima terceira versão:** *"o cheiro do cigarro barato de Dante, **impregnado com a essência
+  de mentiras e traições**"*. Quarto capítulo seguido atribuindo ao Dante.
+- 🟡 **"Duas horas e dezoito minutos"** — sétimo relógio do arco, e o terceiro em quatro capítulos
+  (163: 3 horas; 161: 37 minutos). Nenhum é contado.
+- 🟡 **Frontmatter duplicado.**
+
+## Capítulo 166 — A Lógica da Fome
+
+**Capítulo curto e eficiente, com a melhor dedução tática do arco.** A brecha não está na blindagem
+do inimigo — está na **diretriz** dele: se a máquina existe para eliminar ameaças orgânicas e
+proteger dados, então tornar-se dado é a única defesa. É o tipo de raciocínio que o livro fazia no
+primeiro terço.
+
+- 🟢 **"Uma máquina projetada para não ser perturbada."**
+- 🟢 **"O Taxidermista curtia brincar com carne, mas isso aqui é aço e silício puro."** Boa marcação
+  de mudança de gênero dentro do próprio arco.
+- 🟢 **"Semelhante a um cofre blindado sobre trilhos lagartos."**
+- 🟢 **"Atirar nisso vai ser como cuspir numa montanha."**
+- 🟢 **"Se tivermos mais valor como 'dados' do que como 'ameaça orgânica'..."** A melhor dedução do
+  bloco, e ela nasce da limitação: sem mãos e sem arma, só sobra pensar.
+- 🟢 **"Prepare-se para gritar mais alto que ele na rede."**
+- 🔴 **Décima quarta versão da alucinação**, novamente "o fumo de seu pai".
+- 🟡 **"Então a gente só morre."** O humor cínico do Gabo voltou depois de vinte capítulos de
+  agonia — e é bem-vindo. Poderia aparecer mais.
+- 🟡 **Frontmatter duplicado.**
+
+## Capítulo 167 — O Grito no Silício
+
+**O melhor capítulo do bloco 158–167, e a melhor resolução conceitual do arco.** A Aria vence uma
+máquina infinitamente superior **não competindo em lógica, mas despejando o caos que ela herdou da
+Bia** — exatamente a "dívida técnica" e os "arquivos corrompidos" que os caps. 122–125 trataram como
+defeito. O defeito vira arma.
+
+- 🟢 **"Com a inexorabilidade de uma geleira de titânio."**
+- 🟢 **"Não havia hesitação, não havia sadismo. Era apenas o peso bruto da lógica corporativa."**
+- 🟢 **"Uma briga de foice no escuro." / "A nossa garota tá batendo na porta de um deus morto."**
+- 🟢 **"Ela abriu suas portas de memória reprimida e projetou um vetor de dados baseado na entropia
+  da própria mente humana que a originou... um ruído ilógico que as barreiras matemáticas não
+  podiam otimizar."** **A melhor ideia do último terço.** Paga o cap. 125 (a escolha de não deletar
+  a Bia) com trinta capítulos de distância, e transforma a decisão emocional do protagonista em
+  vantagem tática — sem que o texto sublinhe a conexão.
+- 🟢 **O canhão disparando a esmo e as esteiras girando em direções opostas.** A morte da máquina é
+  descrita como **falha de coordenação**, não como explosão. Coerente com a natureza do ataque.
+- 🟢 **"Fumaça elétrica, amarga e tóxica"** — e o texto marca explicitamente que **não é** a do
+  cigarro fantasma. Boa disciplina.
+- 🟢 **"Um monte inerte de sucata."**
+- 🟢 **"A inteligência artificial que falava com a voz do passado deles estava morta."** O preço é
+  cobrado imediatamente e é o mais alto possível: eles venceram perdendo a única aliada capaz de
+  navegar o resto.
+- 🟡 **"Os nós dos dedos de sua mão esquerda boa"** — **ele não tem mão esquerda boa.** As duas
+  foram cauteriza­das no cap. 155, e o cap. 162 usa o cotoco esquerdo. Erro direto.
+- 🟡 **Décima quinta versão da alucinação**, duas vezes no capítulo.
+- 🔵 **A Aria morta é o melhor gancho do arco.** Registrar: se ela voltar sem custo no capítulo
+  seguinte, esta cena — que é a melhor do bloco — perde tudo.
