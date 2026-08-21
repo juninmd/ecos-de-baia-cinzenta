@@ -4084,3 +4084,72 @@ uma" é **invertida**: agora é ele quem oferece crédito.
 - 🔵 **"Você precisa de uma prótese."** Registrar: se o Gabo ganhar mãos protéticas funcionais nos
   próximos capítulos, **toda a construção dos caps. 155–173 é anulada**. A melhor saída é a prótese
   ser ruim, dolorosa e insuficiente — como as órteses do cap. 98.
+
+## Capítulo 175 — O Som das Engrenagens Mortas
+
+**Excelente capítulo, e ele faz exatamente o que o arco precisava: a prótese não repara nada.** Eu
+tinha registrado no cap. 174 o risco de o Gabo ganhar mãos funcionais e anular vinte capítulos —
+o livro faz o oposto, e transforma o "conserto" em **mais uma fonte de dor permanente**.
+
+- 🟢 **"É pesado, é feio, e a interface neural vai doer como o diabo toda vez que você tentar mover
+  os dedos."** A prótese como castigo, não como upgrade. **Decisão certa.**
+- 🟢 **"Conectores neurais que pareciam pregos grossos de aço."**
+- 🟢 **"Morda isto." / "Eu não o peguei. Apenas fechei os olhos e esperei."** O protagonista
+  **querendo** a dor, sem disfarce. É a cena que nomeia o vício sem uma linha de explicação.
+- 🟢 **"O som de carne e metal brigando pelo mesmo espaço."**
+- 🟢 **"Talvez ele visse no meu olhar opaco a urgência de ser ancorado à realidade."** O Vasco
+  entende o ritual sem que ninguém explique — e por isso não oferece anestesia.
+- 🟢 **A VAL PERDE A EMPATIA.** "Modo de Segurança Operacional. Protocolos emocionais suspensos para
+  preservação de energia." É o **espelho exato** do que aconteceu com a Aria no cap. 134 — e desta
+  vez não é escolha de ninguém, é falta de energia. Melhor rima estrutural do arco final.
+- 🟢 **"Olhos cinza-chumbo, opacos e sem vida."** e **"eu não estava mais com minha parceira. Eu
+  estava com um robô de combate."**
+- 🟢 **"A verdadeira escuridão havia se instalado em nós."**
+- 🟡 **"O escritório de mogno"** e **"o tabaco do meu pai (Dante)"** — o parêntese explicativo é
+  resíduo de rascunho; e é a 22ª versão da alucinação.
+
+## Capítulo 176 — O Peso da Ferrugem
+
+**Bom capítulo curto, com a melhor imagem da cidade morta do arco final e a melhor troca com a Val
+pós-reset.** "A locomoção sem propósito contradiz as diretrizes de autopreservação" é a resposta
+mais fria possível a "nós só estamos andando".
+
+- 🟢 **"Ela apenas dissolvia as bordas do mundo."** e **"neons quebrados em poças de sangue
+  luminoso."**
+- 🟢 **"O peso e a sutileza de uma bigorna."**
+- 🟢 **"Nós não temos uma missão primária de sobrevivência, Val. Nós só estamos andando." /
+  "Negativo. A locomoção sem propósito contradiz as diretrizes."** e ela **parando no meio da rua**.
+  A melhor cena do capítulo, e o horror não é a máquina: é ele não ter resposta.
+- 🟢 **"Uma estátua esquecida, um monumento ao fracasso de Baía Cinzenta."**
+- 🟢 **"Os olhos não refletiam os neons mortos; eles absorviam a luz."**
+- 🟢 **"O Modo de Segurança amputou suas emoções com a mesma brutalidade que a vida amputou meu
+  braço."** A comparação que o capítulo inteiro estava construindo.
+- 🟢 **"O inferno que ele construiu continuava a céu aberto."**
+- 🟡 **23ª ocorrência do ritual**, agora acionada pelos pistões da prótese. É uma variação — mas o
+  padrão (gatilho → dor → clareza) é idêntico há trinta capítulos.
+
+## Capítulo 177 — Cicatrizes de Cobre
+
+**Bom capítulo de ação, com a melhor definição do vício em todo o livro.** E a luta mostra, sem
+dizer, o que ele virou: sem reflexo, sem técnica, sem elegância — **só peso**.
+
+- 🟢 **"Ela pesava mais que os pecados do meu pai. Era uma dor vulgar, deselegante, o tipo de dor
+  que não pede desculpas. **E eu a amava.**"** A frase que o arco inteiro precisava. Depois dela,
+  nenhuma outra ocorrência do ritual acrescenta nada — **este é o ponto de parada natural do
+  recurso**.
+- 🟢 **"O movimento não teve a graça letal de Aria, apenas o peso estúpido de um bate-estaca."**
+  Boa comparação, e ela lembra o leitor do que foi perdido.
+- 🟢 **"Eu não cheirava a fumaça de cigarro, eu cheirava a sangue quente e cobre derretido."**
+- 🟢 **"Uma ferramenta assassina e rústica, cega, ignorante."** O protagonista descrevendo o próprio
+  braço com as palavras que usaria para um inimigo.
+- 🟢 **"O silêncio que se seguiu não era de vitória, era de sobrevivência mecânica."**
+- 🟢 **"Obstrução eliminada. Custo de energia dentro dos parâmetros aceitáveis."** — a Val
+  classificando **um homem morto** como custo energético. O eco do "peso agora é literalmente
+  morto" (cap. 151) está funcionando.
+- 🔴 **Ele mata um homem e o livro não registra nada.** Nos caps. 63 e 123 o protagonista mirava nas
+  pernas e poupava desesperados ("eram apenas desesperados, como todos eles"). Aqui ele esmaga o
+  peito de um saqueador **e a única reação é olhar o próprio punho**. Se a intenção é mostrar a
+  degradação moral dele, ótimo — **mas então a Val precisa registrar, ou o caderno precisa registrar,
+  ou o narrador precisa se recusar a registrar de forma visível.** Do jeito que está, parece
+  esquecimento, não escolha.
+- 🟡 **24ª ocorrência do ritual**, duas vezes no capítulo.
