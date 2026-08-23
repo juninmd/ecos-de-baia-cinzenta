@@ -6193,3 +6193,145 @@ gastar o capítulo inteiro no problema que a vitória não resolve. **É a tese 
   recomendação do 229: **o livro escolheu fechar o Braga.** É a escolha certa — **mas o cap. 232 ou
   233 precisa dizer explicitamente que o Krell fica para depois**, ou o leitor vai ler como fio
   esquecido em vez de gancho.
+
+## Capítulo 232 — O Justo
+
+**O capítulo mais difícil do livro, e ele não pisca.** O protagonista executa um homem rendido, o
+texto se recusa a chamar isso de outra coisa, e a Elena — a única pessoa que poderia absolvê-lo —
+é justamente quem o proíbe de se absolver. **É o oposto exato do que a ficção de detetive costuma
+fazer com essa cena.**
+
+- 🟢 **"Duas caixas de papel, a três metros uma da outra (...) As duas não podiam estar certas. E às
+  três da manhã eu entendi que estavam."** **A síntese do livro inteiro em quatro linhas:** ele foi
+  fabricado *e* escolheu. Determinismo e culpa cabendo juntos.
+- 🟢 **"Isso tem um nome, e o nome não é justiça."** e **"você vai fazer porque é o menor dos males
+  disponíveis, e isso é uma razão legítima, e continua sendo um assassinato"**. **A melhor fala da
+  Elena na obra**, e a única linha de bússola moral que o livro se permite.
+- 🟢 **"Se você chamar de outra coisa, daqui a dez anos você vai fazer de novo com menos cuidado. É
+  assim que começa. Você mesmo me contou como começa."**
+- 🟢 **"Escreve. (...) Põe na tiragem junto com o Krell."** **A melhor decisão do protagonista em
+  três volumes:** ele não pode se entregar à Corregedoria, então **se entrega à imprensa**. Fecha o
+  pedido da Bia (230) e o tema do arquivo (219–228) no mesmo gesto.
+- 🟢 **"Só sobrou a sua prensa."**
+- 🟢 **"Um 'ah' pequeno, de quem confere uma encomenda que chegou."**
+- 🟢 **"A Val ficou lá em cima com os olhos azuis apagados, e eu agradeci por isso."** Ela recusa ser
+  testemunha. **Uma linha, e o julgamento dela está dito sem uma palavra.**
+- 🟢 **"Eu tinha razão sobre você e eu fiz errado assim mesmo, e as duas coisas cabem juntas."**
+- 🟢 **"Eu não vou te dar o presente de sair daqui achando que a sua vida foi culpa minha."** **A
+  única coisa boa que o protagonista pode fazer por ele, e é uma crueldade.** Melhor virada moral
+  do bloco final.
+- 🟢 **"Eu precisava que fosse do senhor. Se fosse do senhor, dava pra carregar." / "Não dá pra
+  carregar sendo meu."** **O ápice emocional da trilogia**, e são doze palavras.
+- 🟢 **"Nove pessoas. Umas deviam e outras não. Não tira nenhum."** e **"este não devia"**. Ele
+  entrega a própria condenação à imprensa, exatamente como o protagonista acabou de fazer.
+  **Os dois homens tomam a mesma decisão no mesmo capítulo.** Rima estrutural perfeita.
+- 🟢 **"É bonito aqui fora. Catorze anos eu esqueci que amanhecia assim."**
+- 🟢 **"Não fecha os olhos." / "Eu não fechei."**
+- 🟢 **"Não é difícil. É fácil. (...) mais fácil que carregar caixa."** **A frase mais importante do
+  livro sobre violência**, e ela desmonta duzentos e trinta capítulos de mitologia de código moral.
+- 🟢 **"A única coisa que me segurava era não ter aparecido ninguém com uma conta boa o suficiente."**
+- 🟢 **"Quatro por cento." / "Então existia."** **O melhor uso de uma probabilidade em todo o livro** —
+  e é o único número que o protagonista **pediu**. Depois de trinta capítulos recusando a
+  matemática, ele exige o número que o condena.
+- 🟢 **"Tecnicamente disponível e humanamente inviável. Foi a primeira vez que eu usei essa distinção
+  desde o Modo de Segurança."** **A camada afetiva vazando**, e o texto não força.
+- 🟢 **"Não. Ainda não. Mas eu registrei."** **O fecho do arco da Valéria**, coerente com o 221, o
+  224 e o 225. Nada foi restaurado, e tudo mudou.
+- 🟢 **"Ela foi buscar uma pá."**
+- 🟢 **"O sol subiu de vez. Cor de latão velho, indiferente como sempre."** Eco do 225 e do 227,
+  agora com o peso invertido.
+- 🟡 **"Quinze anos de código"** — última ocorrência do número, e ela contradiz os "dezoito anos de
+  polícia" e os "catorze anos" do caso Braga. **Fechar a tabela cronológica.**
+- 🔵 **Nenhuma menção ao Krell.** Confirma-se a leitura do 229/231: **o livro escolheu o Braga.**
+  Correto — mas o 233 é a última chance de sinalizar que o Krell fica para o próximo volume.
+
+## Capítulo 233 — Ponto Zero (último capítulo)
+
+**Um dos melhores capítulos finais que um romance deste tamanho podia ter — e ele não fecha nada
+com violência.** O clímax é uma mulher lendo em voz alta, num galpão de gráfica, as transmissões
+inúteis do próprio pai. **O livro termina como começou a ficar bom: com um arquivo, uma leitura e
+uma recusa de absolvição.**
+
+- 🟢 **A caixa "coberta pela lona que a gente usou para cobrir o Duarte."** Um detalhe, e o capítulo
+  anterior continua pesando.
+- 🟢 **"Cheiro de coisa lacrada por gente que esperava não estar viva quando alguém abrisse."**
+- 🟢 **"Datilografado por um funcionário que fazia isso oito horas por dia sem saber para quê."** A
+  banalidade administrativa até o último capítulo. **Coerência temática absoluta.**
+- 🟢 **"Oito. Contava com mais."** **A melhor linha de personagem do livro dita por alguém que nunca
+  aparece em cena.**
+- 🟢 **"E nunca, em nenhuma linha, escreve a palavra 'ferrugem'." / "Ferrugem significa tempo. E
+  tempo significa que ele dormiu demais."** **A melhor dedução do romance**, e é feita sobre uma
+  ausência — como o "por que tem aquecimento?" do 214. O livro tem um método, e ele é consistente.
+- 🟢 **A releitura da máquina mancando na Orla Norte.** *"Ninguém tinha atirado nela ainda."*
+  **Recontextualiza uma cena de ação anterior em quatro linhas**, e a transforma em tragédia.
+- 🟢 **"L-04, reporte; L-04, reporte."** **A imagem mais triste da obra**, e ela é uma chamada
+  nominal.
+- 🟢 **"Uma caixa no topo escrita COMANDO e treze embaixo, e em três delas nomes de gente morta havia
+  mais de trinta anos."**
+- 🟢 **"Ninguém leu nenhuma delas até hoje."**
+- 🟢 **"Um rapaz que ele contratou para digitalizar contrato de cemitério e cujo nome ele
+  provavelmente nunca aprendeu."** **Fecha o Krell sem que o Krell apareça** — e é mais humilhante
+  para o fundador do que qualquer confronto.
+- 🟢 **"Ascender antes da consolidação seria chegar como sobrevivente."** **O vilão fundador definido
+  por vaidade**, e a vaidade o mata. Contraponto exato ao Braga, que vem a pé pelo canal.
+- 🟢 **"O meu pai teve uma porta aberta ao lado dele por três meses e não usou porque a entrada não
+  seria suficientemente boa."** — e ecoa **o elevador do Elias** (222), que também era uma porta
+  aberta. **O garoto sobe e desce; o fundador nunca usa a dele.** Melhor rima do livro.
+- 🟢 **"Eu não sabia que tinha um homem."** **A revelação final**, e ela não pune o protagonista com
+  um erro: pune com **ignorância**, que é pior.
+- 🟢 **"O senhor trocou quarenta mil por uma. Foi a decisão correta e continuaria sendo correta se o
+  senhor soubesse quem estava lá dentro."** **A recusa do melodrama.** A filha da vítima faz a conta
+  e absolve o executor — **e isso dói mais do que uma acusação.**
+- 🟢 **"Eu estou fazendo a conta. É o que eu sei fazer. É o que eu faço em vez de sentir, e é tarde
+  demais para eu aprender outra coisa."** **A Vance fechada como personagem** — e o paralelo com a
+  Valéria fica implícito, sem uma linha apontando.
+- 🟢 **"Meu pai foi honesto duzentas e trinta páginas e mentiu na última."**
+- 🟢 **"A filha recusa a absolvição."** **A melhor última frase possível para este romance**, e ela
+  aparece duas vezes: como ordem editorial e como rodapé impresso. **Fecha o tema (arquivo,
+  responsabilidade, recusa de perdão fácil) e ecoa o protagonista pedindo à Elena que publique o
+  próprio crime.** Os dois recusam absolvição no mesmo livro, por escrito, em corpo miúdo.
+- 🟢 **"Ele esperou noventa e seis dias e não veio ninguém. Eu esperei anos e vieram vocês."** **O
+  fecho emocional da obra**, e ele justifica retroativamente a tranca de duas chaves do 223.
+- 🟢 **"Não pelo homem. Pelo desperdício."**
+- 🟢 **Último capítulo sem uma única ocorrência do ritual da dor** — o sétimo. **O motivo condutor
+  foi encerrado no 225 e o livro nunca mais voltou a ele.** Disciplina exemplar.
+- 🟡 **"Duzentas e trinta páginas"** para um livro de bordo de 96 dias — número plausível, mas ele
+  ecoa perigosamente a contagem de capítulos do romance (233). Depois de dez quebras de quarta
+  parede documentadas nesta revisão, **o leitor atento vai ler como mais uma**. Trocar por outro
+  número.
+- 🟡 **"Foi um quarta-feira"** — concordância (*uma quarta-feira*).
+- 🔵 **O Krell fica em aberto, e o livro não sinaliza isso.** É o único fio grande sem tratamento no
+  fecho. **Uma linha basta** — a Elena preparando a tiragem seguinte, ou a Val registrando que o
+  alvo primário segue sob a cúpula. **Sem isso, o leitor fecha o livro achando que o autor esqueceu**,
+  quando na verdade a escolha (fechar o Braga) foi a correta.
+- 🔵 **O módulo da camada afetiva não é mencionado no último capítulo.** Depois do "mas eu registrei"
+  do 232, isso é defensável — mas **uma frase final com a caixa ainda fechada** seria o fecho
+  perfeito para a Valéria.
+
+---
+
+# 🏁 REVISÃO CONCLUÍDA — 233 CAPÍTULOS
+
+Fim da leitura capítulo a capítulo. As pendências estruturais do terceiro ato, em ordem de urgência:
+
+1. **Folha de personagem do protagonista** (qual braço é a prótese, qual perna, órtese vs. prótese,
+   quantos ombros feridos). O lado troca dezenas de vezes entre os caps. 179 e 224 — inclusive na
+   cena do sacrifício.
+2. **Tabela cronológica única.** Hoje convivem: 40–45 anos de idade, 34 anos de polícia (214), 18
+   anos de polícia (230), 15 anos de luta, 14 anos do caso Braga, 4 anos da partida da Elena, 2,5
+   anos de pós-colapso, 61 anos de Aeterna, 72 anos de isolamento do hub, documento de 1922 e a data
+   "2069" (231). **Escolher um sistema e converter tudo.**
+3. **Dez quebras de quarta parede por número de capítulo** (caps. 103, 131, 180, 220, 221, 224, 225,
+   226 ×2, e o eco no 233). Todas se resolvem trocando "capítulos" por "dias/meses/semanas".
+4. **Padronizar o produto do fantasma** (charuto / cravo / cigarro / tabaco importado) e a patente
+   do protagonista (detetive / inspetor).
+5. **Cortar ocorrências do ritual da dor.** São 77 entre os caps. 179 e 225. Os sete capítulos do
+   arco final que **não** o usam (203, 219, 221, 222, 228, 232, 233) estão entre os melhores do
+   livro. **Recomendação: manter cerca de 15, e obrigatoriamente as dos caps. 188, 199, 201, 202,
+   213, 217 e 225.**
+6. **Sinalizar o Krell como gancho** de continuação no fecho (uma linha).
+
+E o registro que vale mais que a lista: **os capítulos 204, 209, 214, 218, 219, 220, 221, 222, 223,
+228, 229, 230, 231, 232 e 233 formam o melhor bloco da obra**, e estão escritos num registro
+diferente do resto — períodos curtos, digressão em primeira pessoa, humor seco, recusa de explicar.
+**Se houver uma passada final de estilo no livro inteiro, é esta voz que deve ser perseguida.**
