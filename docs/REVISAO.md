@@ -5863,3 +5863,109 @@ tem a coragem de fazer o pai vir **gentil** na última vez.
 - 🔵 **A Valéria fica com o módulo, o Elias fica sem destino, a Vance fica sem tribunal e a irmã do
   cap. 220 não apareceu.** Restam **8 capítulos**. **É espaço suficiente para dois desses fios, não
   para quatro.** Escolher agora.
+
+## Capítulo 226 — A Mulher de Fora
+
+**O capítulo que fecha a ferida que o livro nunca tinha ousado tocar.** A Elena volta não como
+reconciliação romântica, mas como **infraestrutura** — ela passou quatro anos montando exatamente a
+coisa que o arquivo ia precisar. E o livro usa esse reencontro para, enfim, dizer em voz alta o que
+o narrador escondeu por duzentos capítulos: **a Aria era a filha morta dele, e o rosto era o da
+Bia**.
+
+- 🟢 **"Máquina que precisa de alguém para dar partida."** A tecnologia velha como sinal de que o
+  mundo lá fora **funciona** — coerente com o papel (219) e o tubo pneumático (224).
+- 🟢 **"Vi o momento exato em que ela contou meus braços."** **A melhor frase de reencontro possível**,
+  e não há uma palavra de emoção nela.
+- 🟢 **"Perto o bastante para eu sentir o cheiro de chuva e papel na jaqueta dela, longe o bastante
+  para não encostar."**
+- 🟢 **"Foi por isso que eu fui embora, Gabo. Não foi de você. Foi para montar a gráfica."**
+  **Reabilita a Elena sem absolver o protagonista** — e transforma o abandono do primeiro livro em
+  operação de longo prazo.
+- 🟢 **"Ela não estava fugindo. Ela estava construindo o tribunal antes de eu saber que ia precisar
+  de um."** E o eco de *"aí a gente constrói o tribunal"* (225) chega **um capítulo depois**, já
+  respondido. Excelente montagem.
+- 🟢 **"Enquanto você quebrava dentes, eu montava uma editora."**
+- 🟢 **"Eu achei que você tinha se salvado." / "Achou que eu tinha te abandonado." / Não respondi.**
+- 🟢 **"Eu enterrei ela sozinha porque você não foi."** **A acusação mais dura do livro**, e é
+  inteiramente justa. O texto não defende o protagonista em nenhum momento da cena.
+- 🟢 **"Eles tinham a menina inteira em arquivo e escolheram não usar. Eles puseram o rosto da Bia."**
+  e **"duas culpas no mesmo rosto. Alguém sentou numa mesa e decidiu isso. Alguém aprovou."**
+  **A crueldade definitiva da Aeterna**, e ela é *administrativa* — coerente com tudo que os caps.
+  219–223 estabeleceram. **Melhor revelação do bloco final.**
+- 🟢 **"E eu deixei. (...) Eu preferi a minha filha com a cara errada do que não ter a minha filha."**
+  **A confissão central do narrador**, guardada até o capítulo 226. **Sustenta a demora.**
+- 🟢 **"Não como quem volta. Como quem carrega junto."**
+- 🟢 **"Ela é incapaz de deixar uma reunião se estender."** e **"Elena virou jornalista em três
+  segundos, e eu vi a coisa acontecer."** Duas linhas, dois personagens inteiros.
+- 🟢 **"Contabilidade não se desmente com desmentido."** **Frase da obra.**
+- 🟢 **"Não digitalize. (...) Faça mil cópias ruins em vez de uma cópia boa."** A tese do livro sobre
+  memória, dita como instrução operacional. **Perfeito para o mundo que o romance construiu** — onde
+  tudo que estava em rede foi apagado.
+- 🟢 **"É um cargo júnior. Ninguém importante quer o próprio nome nesse papel."** → **V. KRELL.**
+  **O melhor gancho de capítulo do livro depois do 218**, e ele é construído inteiramente com
+  burocracia.
+- 🔴 **"A carta do CAPÍTULO 56"** — **nona quebra de quarta parede.** Está numa das cenas mais
+  importantes da obra. **Cortar: "a carta que ela me deixou".**
+- 🔴 **"A coisa que eu não disse em DUZENTOS CAPÍTULOS."** — **décima**, no mesmo capítulo, e na
+  frase que introduz a confissão central do romance. **Cortar: "a coisa que eu nunca disse em voz
+  alta".**
+- 🟡 **"Quatro anos"** (desde a partida da Elena e o Apagão) contra **"dois anos e meio"** de
+  pós-colapso (204) e **"quinze anos"** de luta (223, 227). **A linha do tempo precisa de uma tabela
+  antes da publicação** — é a terceira vez que registro isso, e agora ela afeta o fecho.
+- 🔵 **Elena tem 11 assentamentos e rádio de onda curta.** Isso implica um mundo habitado **fora** da
+  cúpula que o livro nunca mostrou em 226 capítulos. **É a melhor semente para um quarto volume** —
+  e, se não houver, vale uma linha dizendo o quanto é precário.
+
+## Capítulo 227 — O Estagiário
+
+**O capítulo que reorganiza a saga inteira em uma frase: "Ele é o autor deles."** Depois de três
+volumes de vilões espetaculares, o livro revela que o antagonista real é um homem que **carimbava**
+— e que carimbou quarenta e sete mil vezes sem delegar uma única. É a melhor decisão temática da
+obra, e ela é coerente com tudo que o arquivo estabeleceu.
+
+- 🟢 **"Uma acusação dessas não se faz com uma pasta."** O rigor probatório como cena — é o livro
+  sendo fiel ao próprio gênero (detetive) no desfecho.
+- 🟢 **A contagem crescente da Val** (412 → 1.089 → **47.311**). **Suspense construído com
+  planilha**, e funciona.
+- 🟢 **"Nenhuma exceção. Nenhuma delegação. Nenhuma ausência por férias, licença ou substituição."**
+  **A frase mais assustadora do livro**, e é uma lista de recursos humanos.
+- 🟢 **"Não é um número que a cabeça segura. (...) Foi isso que eles compraram: a nossa incapacidade
+  de sentir sessenta anos de uma vez."** **A tese moral do romance**, dita sem sermão.
+- 🟢 **"Porque ele não delega o que ele gosta."** **A melhor caracterização de vilão da obra**, em
+  sete palavras, e explica retroativamente sessenta anos de trama.
+- 🟢 **"Uma sala sem janela, no subsolo do jurídico, com uma cota diária que ninguém conferia. E ele
+  leu."** O mal nascendo de **excesso de zelo**.
+- 🟢 **"Ninguém estava comprando um túmulo. (...) Os donos vendiam o meio. O Viktor foi o primeiro a
+  ver que dava para vender o fim."** **A ideia mais forte do livro depois de "o problema não era a
+  morte, era o espaço" (219).** As duas juntas formam a espinha conceitual da obra.
+- 🟢 **"A diretoria promoveu ele por isso, e continuou não entendendo o próprio negócio até morrer."**
+- 🟢 **"Eu só podia escolher se ele ia fazer aquilo com registro ou sem."** A Vance fechada como
+  personagem: mesma lógica do 223, agora com o resultado na mão.
+- 🟢 **"Perdi. E ganhei hoje."**
+- 🟢 **"Esse cara é um contador." / "É por isso."** O Elias fazendo a pergunta óbvia — **exatamente a
+  função que o 204 declarou para ele**. O personagem cumpre o próprio manual até o fim.
+- 🟢 **A lista de reclassificação** (Gamemaster, Taxidermista, Silas, Marco, o pai). **Recontextualiza
+  três volumes em oito linhas**, sem desmerecer nenhum arco anterior. Peça técnica notável.
+- 🟢 **"Eu estava batendo nos braços de uma máquina achando que era a máquina."**
+- 🟢 **"Ele é a única pessoa nessa história que nunca sujou a mão."** e **"Ele gostava."**
+- 🟢 **"Viktor Krell não é o financiador dos antagonistas anteriores. Ele é o autor deles."** A Val
+  dando o veredito em linguagem de relatório. **Uso perfeito do Modo de Segurança no clímax.**
+- 🟢 **"Era um exército ridículo. Era o melhor exército que essa cidade já teve."**
+- 🟢 **"Com o módulo da própria humanidade guardado numa caixa a três metros dali, ainda por usar."**
+  O livro **não** esquece o módulo. Terceira menção, sem pressa. Ótima manutenção de fio.
+- 🟢 **A capa sem manchete: só a rubrica e o número.** **A melhor imagem final possível para o tema
+  do livro** — a prova é a assinatura, não a narrativa.
+- 🟢 **"Como vaga-lumes num pote."** / **"Um homem de um metro e trinta e cinco (...) que hoje ainda
+  não sabe."**
+- 🟢 **"Não para cortar alucinação nenhuma, porque aquela já foi embora e não voltou."** **Fecha o
+  motivo do ritual com uma nota de rodapé**, sem repetir a lição do 225. Exatamente a dose certa.
+- 🟢 **"Onze semanas." / "Então marca onze semanas."** O prazo final do livro é de **reabilitação**,
+  não de sobrevivência. Boa virada de gênero para o fecho.
+- 🟢 **"Eu teria jurado que aquela palavra saiu com um pouco de inflexão."** **O fecho perfeito para
+  a Valéria** — ambíguo, mínimo, e não desfaz nada do 221/224.
+- 🟡 **"Quinze anos"** de novo (ver 220, 223, 225, 226). **Item nº 2 da revisão, inalterado.**
+- 🟡 **"Inspetor"** (Vance) vs. **"detetive"** (todos os outros). Padronizar.
+- 🔵 **Restam 6 capítulos e três fios abertos:** o confronto com Krell, o módulo da Valéria e a irmã
+  do cap. 220. **Não cabem os três.** A recomendação desta revisão: **pagar o Krell e o módulo, e
+  converter a irmã em gancho explícito de continuação** (uma linha basta) em vez de deixá-la como
+  promessa esquecida.
