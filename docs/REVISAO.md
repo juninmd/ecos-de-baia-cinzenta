@@ -5745,3 +5745,121 @@ tríptico que sustenta a obra inteira.**
 - 🔵 **Ela ainda não disse o que quer.** Restam **10 capítulos** e um relógio de 31 horas. A pergunta
   do 220 (*"por quê?"*) foi respondida; falta a do fecho: **entregar o arquivo a quem?** O livro
   precisa decidir isso já no 224.
+
+## Capítulo 224 — O Preço do Ar
+
+**O capítulo que paga a prótese.** Quarenta e cinco capítulos de metal mal parafusado, dor
+autoinfligida e ódio pelo próprio braço convergem numa única solução técnica: **a falha do
+equipamento é a salvação de todo mundo**. "Não calibrada significa sem limitador de curso" é a
+melhor linha de engenharia narrativa do livro — o defeito estava plantado desde o 179 e ninguém
+viu para onde ia.
+
+- 🟢 **"Trinta e uma horas parece muito quando alguém diz em voz alta."**
+- 🟢 **A aritmética que fecha a porta:** 37 viagens, 51 horas, corte de carga na 19ª. **O problema é
+  formulado com números e a solução também.** Isto é o oposto das porcentagens decorativas que eu
+  vinha criticando desde o 188 — aqui o número **é** a trama.
+- 🟢 **"Não era um vagão. Era um projétil."**
+- 🟢 **"Sem eletrônica. Sem rede. Movido por diferencial de pressão."** A tecnologia mais velha do
+  livro é a única que ainda funciona. Coerente com o arquivo de papel (219).
+- 🟢 **"Em Modo de Segurança, sessenta anos e sessenta segundos têm exatamente o mesmo valor
+  subjetivo. É por isso que eu sou a escolha correta."** **A fala mais assustadora da obra**, e é um
+  argumento *bom*. O leitor não tem como refutá-la.
+- 🟢 **"Ela não recusou voltar a ser gente por medo. Ela recusou porque precisava das mãos firmes
+  para o último serviço."** **Reinterpreta o capítulo 221 inteiro** e o melhora retroativamente. O
+  silêncio dela diante do casco de aço não era luto: era planejamento.
+- 🟢 **"Você não vai me dar essa ordem. Você já deixou isso muito claro."** A recusa dele no 221 volta
+  como **arma contra ele**. Consequência moral perfeita: ele deu autonomia a ela e ela a usa para se
+  sacrificar.
+- 🟢 **"Não calibrada significa sem limitador de curso."** **A virada mecânica do livro.**
+- 🟢 **"Ela ficou olhando para o meu braço por dois segundos inteiros — dois segundos, na coisa que
+  decide em milissegundos."** O eco do 221 e do 209. **Os "dois segundos" viraram a assinatura
+  emocional da Valéria**, sempre sem tradução. Excelente disciplina.
+- 🟢 **"Essa coisa não é minha. Ela nunca foi. (...) Eu me recusei a consertar a falha porque a dor
+  me servia."** **A confissão que o arco inteiro devia**, e ela chega no capítulo em que ele se
+  livra do objeto.
+- 🟢 **"Pelo menos ela vai ter servido para alguma coisa que não seja me manter acordado."**
+- 🟢 **"Não me diz. Pela primeira vez desde o Distrito 4, não me diz o número." / Ela fechou a boca.**
+  **O arco das probabilidades fecha aqui**, e fecha por recusa.
+- 🟢 **"Ela estendeu a mão e encostou dois dedos no meu antebraço de carne."** e **"Vou preparar a
+  serra."** **O melhor gesto do livro.** Uma máquina sem camada afetiva executando afeto sem saber
+  nomear. Não tocar nesta cena.
+- 🟢 **"Pela primeira vez em sessenta e um anos ela não estava auditando nada."**
+- 🔴 **"A coisa feia que me fez gritar em todos os degraus dos últimos QUARENTA E DOIS CAPÍTULOS."**
+  **Sexta quebra de quarta parede por contagem de capítulos** (103, 131, 180, 220, 221, 224), e é a
+  mais explícita de todas. **Cortar: "dos últimos quarenta e dois dias".**
+- 🔴 **"No capítulo mais longo da minha vida"** — sétima, no mesmo capítulo. Aqui é quase idiomático,
+  mas com as outras seis no livro, some ao padrão. **Trocar por "na hora mais longa da minha vida".**
+- 🟡 **"O meu braço DIREITO"** — e o 216 e o 217 tratam o toco como **esquerdo**. Ver a folha de
+  personagem: o clímax do arco físico acontece com o lado ainda indefinido. **Este é o erro que mais
+  urge corrigir em todo o terceiro livro**, porque agora ele afeta a cena mais importante.
+- 🔵 **A doca e o tubo não estão em planta nenhuma — "o que a essa altura já era praticamente uma
+  tradição".** Boa piada, mas é a **quarta** instalação secreta encontrada em dez capítulos (hub,
+  arca, enfermaria, doca). Uma linha da Vance explicando que ela projetou as redundâncias resolveria.
+
+## Capítulo 225 — O Charuto na Sala Limpa
+
+**O capítulo que a obra inteira estava escrevendo.** Depois de setenta e sete ocorrências do ritual
+da dor, o fantasma é derrotado **sem dor nenhuma** — por argumento, e o argumento é o próprio livro:
+*"Você é o que eu montei dele."* É o desfecho temático correto, ele chega no lugar certo, e o texto
+tem a coragem de fazer o pai vir **gentil** na última vez.
+
+- 🟢 **"Não vou escrever sobre isso."** **A melhor decisão narrativa do livro.** A amputação, o
+  evento físico mais brutal da obra, é elidida — e o que fica são três gestos de terceiros. Isso
+  vale mais que dez parágrafos de sangue.
+- 🟢 **"Ela pousou a mão no meu peito e esperou eu respirar três vezes antes de tirar."**
+- 🟢 **"Ele entendeu, sem que ninguém explicasse, que eu precisava de uma voz humana ali e que ele
+  era a única disponível."** **O pagamento final do Elias.**
+- 🟢 **"Sessenta e um anos auditando o horror, e ela virou o rosto."** A humanidade da Vance
+  estabelecida em uma linha, sem uma palavra dela.
+- 🟢 **"O anestésico tinha doze por cento de eficácia e eu tinha mandado guardar para quem
+  precisasse."** A decisão do 221 cobra o preço no 225. **Causalidade moral impecável.**
+- 🟢 **Ela parando na décima sétima hora para ler "A memória não apodrece".** **A melhor cena da
+  Valéria em todo o livro**, e ela não faz nada: para, lê dez segundos, volta a carregar. **Não
+  acrescentar uma vírgula.**
+- 🟢 **"Uma peça de sucata. Nem parecia capaz de ter doído tanto."**
+- 🟢 **"Exatamente como a Vance desenhou num guardanapo com a letra mais bonita que eu já vi."**
+- 🟢 **"Val." / Ela não me corrigiu.** Duas vezes no capítulo, e o texto marca as duas. **A camada
+  afetiva não voltou; a permissão, sim.** É mais delicado do que restaurá-la seria.
+- 🟢 **O pai vindo com carinho.** *"Era a versão mais perigosa que ele já tinha montado."* **A melhor
+  inversão do livro** — a tentação como misericórdia.
+- 🟢 **"E eu levei três segundos inteiros para responder, porque puta merda, eu queria."**
+- 🟢 **"Você é o que EU montei dele, com quinze anos de raiva e um cinzeiro cheio de memória de
+  criança."** **Resolve definitivamente a "CONTRADIÇÃO CENTRAL: quem é Dante Moretti?"** — as
+  caracterizações incompatíveis dos caps. 60–180 passam a ser *sintoma do narrador*, e o livro
+  assume isso em texto. **A seção de contradição pode ser reclassificada de 🔴 para 🟢, com uma
+  ressalva:** ainda é preciso auditar as cenas em que o Dante aparece **fora** da memória do
+  narrador.
+- 🟢 **"O meu pai passou a vida inteira trabalhando para mim numa sala onde eu não podia entrar. E
+  você é só a fumaça que passava por baixo da porta."** **A melhor frase do livro.** Fecha o motivo
+  condutor, o trauma e o título temático de uma vez.
+- 🟢 **"Eu já achei a pasta, e ela não está mais em aberto."** Ecoa a fala do pai no 220 com precisão
+  cirúrgica.
+- 🟢 **"Só sumiu, como fumaça faz quando alguém finalmente abre a janela."** **A cura sem dor.**
+  Depois de 77 ocorrências, esta é a única que importa — e é o argumento definitivo para cortar
+  quarenta das outras: **a série existia para tornar este parágrafo possível, e quanto mais enxuta,
+  mais forte ele fica.**
+- 🟢 **"Nós tínhamos levado a memória embora. O caixão podia apodrecer sozinho."**
+- 🟢 **O módulo da camada afetiva amarrado na parede da cápsula.** **O melhor detalhe do livro
+  inteiro.** Ela não usou, não avisou, não explicou — **só se recusou a deixá-lo para trás**. E o
+  texto entrega isso como objeto avistado de relance, no meio de uma lista de carga.
+- 🟢 **"Não precisa ser hoje. Não precisa ser esse ano." / "Eu registrei o convite." / E foi o
+  suficiente.** **O fim de arco mais bem calibrado da obra.** Nem restauração, nem perda: **uma
+  porta aberta**.
+- 🟢 **"Luz do sol, baixa e horizontal, cor de latão velho."** Depois de 46 capítulos de subsolo, a
+  primeira luz natural do terceiro livro. **Merecida.**
+- 🟢 **"Um ar sujo, ácido, cheio de partícula e absolutamente livre."** O livro recusa o final limpo:
+  o mundo continua envenenado, e ainda assim é vitória.
+- 🟢 **"Valéria desceu depois e começou imediatamente a inventariar as saídas."** Ela não olha o céu.
+  **Uma linha, e o luto continua.**
+- 🟢 **"O senhor tem sessenta e um anos de prova e nenhum tribunal onde apresentar." / "Aí a gente
+  constrói o tribunal."** **A melhor deixa final possível para este arco**, e ela abre o que resta
+  do livro sem fechar nada à força.
+- 🔴 **"O meu sangue seco dos últimos QUARENTA CAPÍTULOS."** **Oitava quebra de quarta parede**, e
+  está na **penúltima linha do capítulo mais importante da obra**. **Cortar sem substituto:** "as
+  bordas do sol estilizado ainda tinham o meu sangue seco."
+- 🟡 **"Inspetor"** de novo (ver 223). Padronizar a patente.
+- 🟡 **"Quinze anos de raiva"** — a aritmética do protagonista segue em aberto (ver 214, 220, 223).
+  **Com o livro terminando, esta é a última chance de acertá-la.**
+- 🔵 **A Valéria fica com o módulo, o Elias fica sem destino, a Vance fica sem tribunal e a irmã do
+  cap. 220 não apareceu.** Restam **8 capítulos**. **É espaço suficiente para dois desses fios, não
+  para quatro.** Escolher agora.
