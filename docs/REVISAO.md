@@ -5526,3 +5526,116 @@ leitor sentir o horror sozinho.
 - 🔵 **A Vance está acordada e consciente desde o 218** e não faz nada no 219. Correto
   dramaticamente — mas restam **14 capítulos**. Se ela é a antagonista final, a abertura do berço
   precisa vir logo.
+
+## Capítulo 220 — A Fita
+
+**O clímax emocional do livro, e ele acontece com um homem sentado numa cadeira ouvindo um gravador.**
+Nenhum monstro, nenhuma explosão, vinte e dois minutos de fita — e é o capítulo mais violento da obra.
+**Também resolve, sozinho, a contradição central do Dante que esta revisão vinha registrando desde o
+capítulo 60.**
+
+- 🟢 **"Como quem lê braile do nome do próprio pai."**
+- 🟢 **"Do jeito que se recua de um cachorro que ainda não decidiu."**
+- 🟢 **"A paciência total de uma coisa que não tem pressa porque não sente nada."**
+- 🟢 **"Se der ruim, alguém tem que estar sóbrio." / "Eu não estou nem um pouco sóbrio, cara." / "Você
+  é o mais perto que eu tenho."** O Elias pago integralmente.
+- 🟢 **"Aquele chiado gordo, quente, que fita magnética faz e que nenhum arquivo digital jamais soube
+  imitar."**
+- 🟢 **"Eu entendo que a senhora tem uma máquina de escrever muito boa e um advogado muito ruim."**
+  **A entrada do Dante real**, e ela define o personagem em uma linha.
+- 🟢 **"É um pote, doutora. Um pote caro. Eu li o contrato que a senhora não me deu."**
+- 🟢 **"Matar é barato e vocês já teriam feito."** / **"Vale?" "Sim." "Que pena."**
+- 🟢 **"Não foi porque roubaram um cérebro bom. Foi porque o cérebro colaborou, de olhos abertos."**
+  **Explica retroativamente a IA dos dois primeiros livros** e transforma a vítima em coautor sem
+  absolver ninguém. Melhor peça de engenharia narrativa da obra.
+- 🟢 **"Três." / "O registro diz dois." / "O registro está incompleto. Ela nasceu depois."** Uma irmã
+  plantada em três falas. **Ver a nota 🔵 abaixo: isso precisa ser pago.**
+- 🟢 **"Ele não sabe fechar uma pasta em aberto, e eu sou a pasta mais aberta que ele tem."** **A
+  melhor definição do protagonista em todo o livro**, e ela vem da boca do pai.
+- 🟢 **"Eu sou um homem razoável, doutora. Eu negocio. Eu li o papel. (...) O meu filho não lê nada."**
+  **A melhor última fala de uma cena em toda a obra.** É ameaça, é orgulho e é desculpa, tudo junto.
+- 🟢 **"O carretel continuou girando em fita branca por mais um minuto inteiro, e ninguém na sala se
+  mexeu para desligar."**
+- 🟢 **"E a pedra não estava lá."** / **"Quinze anos de raiva bem organizada acabaram de virar lixo em
+  vinte e dois minutos."** / **"Eu perdi a última desculpa que eu tinha."** **O luto invertido é a
+  ideia mais original do livro:** a revelação boa é uma catástrofe pessoal.
+- 🟢 **"Descobrir que você perdeu o pai errado (...) não tem nome, e ninguém escreveu um manual."**
+- 🟢 **"Eu não ia usar uma prótese de açougueiro para enxugar isso."** Detalhe físico fazendo o
+  trabalho de um parágrafo de emoção.
+- 🟢 **"Ela não estava guardando um ativo. Ela estava guardando um testamento."** e **"essa é a
+  pergunta que vale a pena acordá-la para fazer"**. Gancho que converte a vilã em enigma.
+- 🟢 **A contradição do cigarro morre aqui.** O Dante desta fita é um homem que lê contratos, debocha
+  de auditores e protege o filho por escrito — **o oposto exato do bruto ausente que os caps. 60–130
+  descreviam**, e o texto assume isso como *tese*: o pai ruim era invenção do narrador. **Ver a
+  seção "CONTRADIÇÃO CENTRAL: quem é Dante Moretti?": ela está resolvida.** As caracterizações
+  contraditórias anteriores agora podem ser lidas como memória enviesada — mas **só funcionam se
+  forem sempre memória do narrador**. Auditar as passagens em que o Dante aparece em cena objetiva
+  (não lembrada) e ajustá-las.
+- 🔴 **"A coisa que saiu de um túnel descalça no Capítulo 104"** — **quarta quebra de quarta parede
+  por referência a número de capítulo** (ver caps. 103, 131, 180). Num capítulo desta qualidade, é
+  o erro mais custoso do livro. **Cortar: "a coisa educada e precisa demais que saiu de um túnel
+  descalça e me chamou de Gabriel".**
+- 🟡 **"Sessenta anos de merda"** — o protagonista tem 40–45 anos (204). Ele quer dizer a idade da
+  instituição, mas a frase soa como a vida dele. Reescrever.
+- 🟡 **"Eu ficei olhando"** — *fiquei*.
+- 🟡 **"Quinze anos"** aparece três vezes (o pai no tanque, ele tentando entender, ele endurecendo) e
+  colide com "trinta e quatro anos de polícia" (214) e com a idade dele. **A aritmética do
+  protagonista é o segundo item mais urgente da revisão, depois da folha de personagem.**
+- 🔵 **A irmã.** Plantada aqui, no capítulo 220 de 233. **Restam 13 capítulos.** Ou ela aparece, ou
+  vira promessa não cumprida — e é grande demais para ficar solta. Decidir agora: pagar no fecho ou
+  cortar as três falas.
+
+## Capítulo 221 — Modo de Segurança
+
+**O melhor capítulo de personagem do livro, e o fecho do arco da Valéria.** Ele resolve trinta
+capítulos de Modo de Segurança sem restaurá-la — o que é infinitamente mais forte — e dá ao
+protagonista a única vitória moral inequívoca da obra.
+
+- 🟢 **"Não porque eu pedi, mas porque eu caí."** / **"O chão veio ao meu encontro com uma pressa
+  desonesta."**
+- 🟢 **"Sem aquele 'eu avisei' que a antiga Val teria cuspido com todo o prazer do mundo."**
+- 🟢 **"Você tem entre noventa e cento e vinte minutos antes de tomar decisões que não são suas."**
+  A melhor formulação de prazo do arco — e é a única que **é cumprida** (ver a contagem regressiva
+  ao longo do capítulo).
+- 🟢 **"Como o interior de uma armadura feita para uma pessoa sem pele."**
+- 🟢 **"Não há mais ninguém que precise." / "Tem o Elias." / "Só um instante — o tempo de um pulso que
+  ela não tem."** **A frase mais delicada do livro.**
+- 🟢 **"Não me chame assim."** A primeira interrupção dela em todo o arco, e o texto marca isso.
+- 🟢 **"A sua eficiência operacional é a única coisa que ainda está me mantendo em funcionamento."**
+  Dependência declarada em linguagem de máquina.
+- 🟢 **"Porque você teria me mandado usar."** A omissão dela é **cuidado calculado** — e é a mesma
+  lógica com que ele esconde as próprias feridas. Os dois se protegem errado, do mesmo jeito.
+- 🟢 **"Eu perco a capacidade de amputar. Eu perco a capacidade de deixar alguém para trás."**
+  **O preço da empatia formulado como perda de função.** É a melhor ideia de ficção científica do
+  terceiro livro.
+- 🟢 **"É o cálculo que eu fiz enquanto ele morria, e é por isso que eu não o carreguei."** O Rangel
+  (139) e a clínica do Vasco são **auditados retroativamente** e ficam piores. Ótimo.
+- 🟢 **"O mesmo corte de cabelo esquisito e assimétrico que ela cortava sozinha com tesoura de papel
+  porque achava barbeiro uma perda de tempo." / "E não tinha ninguém em casa."** **O parágrafo mais
+  triste da obra.**
+- 🟢 **"Eu tenho o registro de ter querido. (...) O que eu não consigo é sentir falta. Sentir falta é
+  a camada."** Definição de luto por ausência de luto.
+- 🟢 **"Eu não desci oitocentos metros nesse buraco para trazer uma calculadora para a superfície!"**
+- 🟢 **"Me dê uma ordem. (...) Por favor."** e a leitura dele: **"Era permissão para não ter escolhido
+  continuar máquina."** **A melhor virada psicológica do livro** — e o narrador acerta ao explicá-la
+  em três linhas e parar.
+- 🟢 **"Era a coisa mais humana que ela tinha feito em meses, e ela nem podia saber disso."**
+- 🟢 **"Você não é uma ferramenta minha, e eu não vou fingir que sou dono dessa escolha só para você
+  não precisar fazê-la." / "É horrível e é ineficiente e é o único jeito que eu conheço de te tratar
+  como gente."** **A vitória moral do protagonista**, e ela custa a ele a única coisa que queria.
+  Depois de duzentos capítulos de coerção (197, 199, 200, 215), ele **recusa o poder que tem**.
+- 🟢 **"Mas a mão que aperta o botão vai ser a sua."**
+- 🟢 **"Dobrando-o em quatro antes de deixá-lo na bancada."** e **"olhou para o casco por dois segundos
+  exatos. E saiu da sala sem tocar nele."** **O melhor fecho de capítulo do livro.** Dois segundos
+  são a resposta, e o texto não a traduz. **Não mexer nesta cena.**
+- 🟢 **Capítulo inteiro sem uma única ocorrência do ritual da dor** — o terceiro (com 203 e 219), e
+  os três estão entre os melhores do livro. **Este é o argumento definitivo da seção de cortes.**
+- 🔴 **"Foi a primeira vez em quarenta capítulos de escuridão que ela me interrompeu."** — **quinta
+  quebra de quarta parede por contagem de capítulos**, e a mais explícita de todas ("capítulos"
+  literalmente). Num capítulo que é o melhor do livro. **Cortar: "Foi a primeira vez em meses."**
+- 🟡 **"Faz meses"** de novo (ver 218). O arco 179–221 acontece em dias. **Linha do tempo.**
+- 🟡 **"A Aria ordenou que eu queimasse suas mãos com plasma"** — "mãos", plural, mas ele perdeu
+  **um** braço. Ver a folha de personagem: aqui talvez esteja a origem da confusão de lados.
+- 🔵 **O módulo fica ligado, à disposição dela.** Restam 12 capítulos. **É uma arma de Tchekhov
+  perfeita** — e o único desfecho errado seria ela usá-lo por ordem dele. Se usar, tem de ser
+  escolha própria, em cena, e de preferência no pior momento tático possível.
