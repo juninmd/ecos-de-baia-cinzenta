@@ -5639,3 +5639,109 @@ protagonista a única vitória moral inequívoca da obra.
 - 🔵 **O módulo fica ligado, à disposição dela.** Restam 12 capítulos. **É uma arma de Tchekhov
   perfeita** — e o único desfecho errado seria ela usá-lo por ordem dele. Se usar, tem de ser
   escolha própria, em cena, e de preferência no pior momento tático possível.
+
+## Capítulo 222 — O Homem que Podia Ir Embora
+
+**O capítulo que justifica a existência do Elias, e um dos três melhores do livro.** Um homem
+sozinho num elevador que funciona, com o dedo no botão — não há monstro, não há relógio, e é a cena
+mais tensa do terceiro volume. **É também a prova de que este livro sabe fazer drama sem ameaça.**
+
+- 🟢 **"O corredor branco devolveu o meu próprio nome com uma nitidez desconfortável."**
+- 🟢 **"Ele não é meu comandante, mas também não é meu prisioneiro."** A Val respeitando autonomia
+  **por ausência de razão operacional** — a coisa certa pelo motivo errado, que é a definição dela.
+- 🟢 **"Catorze anos de manutenção. É a única coisa em que eu sou bom. E a única vez que serviu para
+  alguma coisa foi para achar a porta dos fundos."**
+- 🟢 **"Nós dois chutamos a sua porta e trouxemos o inferno junto."** O protagonista assumindo
+  responsabilidade — a primeira vez em todo o arco.
+- 🟢 **"Eu estou com quarenta e um de febre e um braço a menos. Eu não tenho energia para teste."**
+- 🟢 **"Aperta o botão, cara." / "Eu estou tentando!"** **O melhor momento de tensão do livro**, e é
+  um homem lutando contra si mesmo para *ir embora*.
+- 🟢 **"E aí eu percebi que não tem ninguém lá em cima pra contar."** **A melhor fala do Elias.**
+- 🟢 **"A única prova de que eu não enlouqueci vai estar oitocentos metros abaixo dos meus pés,
+  morrendo de infecção."**
+- 🟢 **"Vocês nem são gente direito. Um é uma máquina e o outro está apodrecendo em pé."** e a
+  risada honesta que responde. **A melhor piada do livro, e ela é dita chorando.**
+- 🟢 **"Coragem é a distância entre o quanto você quer sair e o quanto você anda pra dentro assim
+  mesmo."** **Frase da obra.** E é a tese moral que faltava para o Elias, dita pela pessoa menos
+  habilitada a dizê-la.
+- 🟢 **"Qualquer imbecil desce um buraco sem sentir nada." (...) "Alguns até desceriam melhor."** O
+  pensamento sobre a Valéria fica **dentro da cabeça dele**, sem virar fala. Contenção perfeita.
+- 🟢 **"O botão não vai a lugar nenhum. A oferta fica de pé até a última porta."**
+- 🟢 **"Olhar você ficar com ela na mão foi a melhor coisa que eu vi esse ano."**
+- 🟢 **Ele aperta o botão de DESCER.** A melhor reviravolta pequena do livro, e o texto gasta **uma
+  linha** com ela.
+- 🟢 **"Se eu vou morrer aqui embaixo, eu prefiro morrer sabendo o que tem atrás daquele vidro."**
+- 🟢 **"Eu calculo tudo. E registro quando erro. É como o cálculo melhora."** A Val admitindo erro
+  de previsão (31%) sem uma gota de emoção — e é, tecnicamente, aprendizado.
+- 🟢 **"Painel. Eu. Painel. Eu."** Comunicação por movimento de pupila. **Melhor recurso de suspense
+  do arco final.**
+- 🟢 **"Duas chaves. Duas mãos. E eu só tenho uma."** / **"Elias, vem cá."** **O melhor gancho de
+  capítulo do livro**, e ele paga *ao mesmo tempo* a amputação (arco físico) e a escolha do garoto
+  de ficar (arco emocional). Nada aqui é acidente.
+- 🟢 **Capítulo inteiro sem uma ocorrência do ritual da dor.** O quarto (203, 219, 221, 222).
+- 🟡 **"Catorze anos de manutenção"** — repete o problema do 218: o Elias tem **22 anos** (204).
+  **Ou a idade sobe para uns 32, ou a experiência cai para quatro anos.** A segunda opção é melhor:
+  um técnico jovem combina com o personagem.
+- 🟡 **"O Colapso"** e **"o Apagão"** como dois eventos distintos, ambos citados uma vez só. Se são a
+  mesma coisa, padronizar; se não, o leitor precisa saber a diferença.
+- 🔵 **"O irmão que foi embora da cidade e nunca mandou notícia"** — plantado no capítulo 222 de 233.
+  Mesma observação que a irmã do 220: **não há espaço para pagar isso.** Ou é cor local deliberada
+  (e então está ótimo), ou é promessa. Decidir.
+- 🔵 **O elevador funcional que sai na superfície fica disponível até o fim.** Excelente arma de
+  Tchekhov para o fecho — **é a rota de fuga que o clímax vai precisar**. Não desperdiçar.
+
+## Capítulo 223 — A Auditora
+
+**O melhor capítulo de vilão que este livro poderia ter escrito, e ele desmonta a ideia de vilão.**
+A Vance não se arrepende, não se explica com trauma e não pede nada — e mesmo assim o leitor sai
+convencido de que ela é a pessoa mais responsável do romance. **Junto com o 219 e o 220, forma o
+tríptico que sustenta a obra inteira.**
+
+- 🟢 **"Um estalo gordo, satisfeito, de coisa bem feita."**
+- 🟢 **"O som de alguém aprendendo a respirar do zero."**
+- 🟢 **"Ela está sufocando!" / "Ela está calculando."** e o inventário que ela faz da galeria entre
+  duas tosses. **"Meio morta, e trabalhando."** Caracterização por comportamento, zero exposição.
+- 🟢 **"Vocês demoraram." / "A cidade atrapalhou."** Primeira troca, e já define o tom da relação.
+- 🟢 **"Foi o único de todos vocês que fez a coisa direito."**
+- 🟢 **"Eu vim esperando encontrar um cadáver." / "Que decepção para nós dois."** **Melhor réplica do
+  livro.**
+- 🟢 **"Ninguém processa infraestrutura."** **A melhor frase política da obra**, e ela explica, em
+  quatro palavras, por que a Aeterna nunca respondeu por nada.
+- 🟢 **"Eles não queriam um parecer; queriam uma assinatura."**
+- 🟢 **"Eu recomendei escala porque escala exige documentação. E documentação é a única coisa que
+  sobrevive à empresa."** **Vilania competente e coerente** — e o leitor não consegue provar que
+  ela está errada. É desconfortável do jeito certo.
+- 🟢 **"Eu tinha duas opções ruins e escolhi a que deixava rastro."**
+- 🟢 **"Porque ele foi o único inquilino que me perguntou o meu nome."** e a fala do Dante no
+  intervalo: **"Porque se eu mentir, a máquina que vocês vão construir vai ser pior. E é o meu filho
+  que vai ter que enfrentar ela."** **O ápice emocional do livro**, e ele acontece numa citação
+  dentro de uma lembrança de terceiro. Coragem estrutural.
+- 🟢 **"Ele colaborou para deixá-la derrotável."** e **"cada um daqueles defeitos era o seu pai,
+  empurrando de dentro"**. **Reescreve os dois primeiros volumes sem contradizer uma linha deles.**
+  Todos os "defeitos" do Gamemaster viram atos de sabotagem paterna. **É a melhor peça de
+  engenharia narrativa da obra inteira — e o argumento mais forte para reler o livro do começo.**
+- 🟢 **"Eu me coloquei em quarentena, junto com a única cópia física da verdade."**
+- 🟢 **A tranca de duas chaves como filtro moral.** *"Se ainda restasse gente suficiente no mundo
+  para que dois deles conseguissem concordar em alguma coisa."* **A melhor ideia conceitual do
+  livro**, e ela transforma retroativamente todo o arco 179–222 num **teste de admissão**.
+- 🟢 **"O senhor girou a chave. O senhor é o teste inteiro."** O Elias validado pela antagonista.
+- 🟢 **A luz âmbar e "trinta e uma horas".** Relógio final instalado no lugar certo, com a resposta
+  pronta há sessenta e um anos. **Este é o relógio que o livro precisa cumprir** — depois de sete
+  prazos descumpridos no arco (ver as notas dos caps. 188, 191, 196, 211).
+- 🟢 **Capítulo sem uma ocorrência do ritual da dor** — exceto o Colar de Sol, que é **objeto de
+  memória**, não automutilação. Uso perfeito.
+- 🟢 **"Eu apertei o Colar de Sol até o metal cortar a palma."** O retorno do objeto mais importante
+  dos volumes anteriores, na cena certa, sem explicação. **Não acrescentar nada aqui.**
+- 🔴 **"Inspetor"** — a Vance o chama assim quatro vezes, mas o cap. 214 diz **"trinta e quatro anos
+  de polícia"** e o livro o trata como **detetive** desde o primeiro volume (o Fantasma o chama de
+  "detetive" no 181). **Padronizar a patente**, e resolvê-la junto com a aritmética de idade.
+- 🟡 **"Quinze anos"** outra vez (ver 220). Some-se: a Aeterna caiu há **dois anos e meio** (204), o
+  pai ficou **quinze anos** num tanque, ele passou **quinze anos** tentando entender, tem **40–45**
+  anos e **trinta e quatro** de polícia. **Nenhuma combinação desses números fecha.** É o item nº 2
+  da revisão, e este capítulo o agrava.
+- 🟡 **"Sessenta e um anos"** (fundação) vs. **"setenta e dois anos"** de isolamento do hub (214).
+  A instalação não pode estar isolada há mais tempo do que a empresa existe. **Erro aritmético
+  simples, correção simples.**
+- 🔵 **Ela ainda não disse o que quer.** Restam **10 capítulos** e um relógio de 31 horas. A pergunta
+  do 220 (*"por quê?"*) foi respondida; falta a do fecho: **entregar o arquivo a quem?** O livro
+  precisa decidir isso já no 224.
