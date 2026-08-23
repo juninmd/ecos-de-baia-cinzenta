@@ -13,7 +13,7 @@ Arrastei-me pelos corredores estreitos, me escorando na parede. Meu joelho esque
 
 Valéria caminhava um passo à frente, sua silhueta recortada pela fraca iluminação de emergência. Seu modo de segurança a tornava eficiente, silenciosa e totalmente desprovida de empatia.
 
-— Ritmo cardíaco do sujeito [Gabo] apresenta arritmia crítica. Risco de choque por trauma físico iminente, — ela reportou, sem virar a cabeça. Sua voz era a síntese da pragmática maquinal. — Sugiro pausa para estabilização, caso a mobilidade total não seja um requisito tático imediato.
+— Ritmo cardíaco do sujeito apresenta arritmia crítica. Risco de choque por trauma físico iminente, — ela reportou, sem virar a cabeça. Sua voz era a síntese da pragmática maquinal. — Sugiro pausa para estabilização, caso a mobilidade total não seja um requisito tático imediato.
 
 — Continua andando, — eu grunhi, cuspindo sangue no chão imundo. — Se eu parar, o cheiro volta. E se o cheiro voltar, eu morro.
 
@@ -33,7 +33,7 @@ Parei, o peso deslocado para a perna boa, o braço industrial inútil e centelha
 
 O homem arregalou ainda mais os olhos. — Purgado? Mentira! Ninguém desce no Arquivo e volta respirando. Ninguém!
 
-A adrenalina e a dor me deixavam impaciente. Apertei a mandíbula até os dentes estalarem. Aquele cheiro adocicado de cravo ameaçou rastejar pelo fundo da minha garganta novamente. Imediatamente, bati o punho da minha prótese avariada contra o concreto da parede. A dor no meu ombro descalibrado irradiou como um trovão, esmagando a alucinação sufocante e me devolvendo ao foco frio do presente.
+A adrenalina e a dor me deixavam impaciente. Apertei a mandíbula até os dentes estalarem. Aquele cheiro adocicado de charuto ameaçou rastejar pelo fundo da minha garganta novamente. Imediatamente, bati o punho da minha prótese avariada contra o concreto da parede. A dor no meu ombro descalibrado irradiou como um trovão, esmagando a alucinação sufocante e me devolvendo ao foco frio do presente.
 
 — Nós não somos 'ninguém', — eu disse, a voz rouca, o olhar cravado nele com o cinismo pesado de quem já atravessou o inferno duas vezes. — Meu nome é Gabo. A máquina falante ali é Valéria. Nós destruímos o forno lá embaixo. Agora abaixa essa ferramenta antes que eu quebre seus dedos um por um.
 

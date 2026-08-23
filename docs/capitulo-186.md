@@ -7,9 +7,9 @@ Personagens Presentes: Gabo, Valéria
 
 # Capítulo 186: Raízes de Silício
 
-A agonia era o compasso do meu avanço. O cheiro de cravo tentava se infiltrar pelas frestas da minha sanidade a cada passo que dávamos na estufa colossal. Cada vez que a névoa ácida do ambiente ou a podridão orgânica conspiravam para recriar o perfume fantasma do tabaco de Dante, eu apertava a engrenagem gasta dentro do fosso da minha clavícula mutilada. A faísca elétrica e a dor muscular cortavam a fumaça ilusória. Era um preço barato para não enlouquecer.
+A agonia era o compasso do meu avanço. O cheiro de charuto tentava se infiltrar pelas frestas da minha sanidade a cada passo que dávamos na estufa colossal. Cada vez que a névoa ácida do ambiente ou a podridão orgânica conspiravam para recriar o perfume fantasma do tabaco de Dante, eu apertava os pregos neurais cravados na junção da minha clavícula mutilada. A faísca elétrica e a dor muscular cortavam a fumaça ilusória. Era um preço barato para não enlouquecer.
 
-— A densidade neural aumenta em quarenta e dois por cento neste quadrante, — a voz de Valéria soou oca, livre de inflexões, rompendo o silêncio lúgubre. Seus olhos sintéticos varriam as trepadeiras biomecânicas que pulsavam com um fulgor bioluminescente doentio. Ela caminhava com uma eficiência robótica que me dava arrepios. O *Safe Mode* a transformara em uma máquina de cálculo puro, desprovida de humanidade. E, no fim das contas, era exatamente do que precisávamos.
+— A densidade neural aumenta em quarenta e dois por cento neste quadrante, — a voz de Valéria soou oca, livre de inflexões, rompendo o silêncio lúgubre. Seus olhos sintéticos varriam as trepadeiras biomecânicas que pulsavam com um fulgor bioluminescente doentio. Ela caminhava com uma eficiência robótica que me dava arrepios. O Modo de Segurança a transformara em uma máquina de cálculo puro, desprovida de humanidade. E, no fim das contas, era exatamente do que precisávamos.
 
 O complexo não era apenas uma fazenda abandonada; era uma placa-mãe orgânica. Tubos de irrigação corroídos bombeavam um fluido espesso, mais parecido com sangue coagulado do que com água, alimentando raízes que se enredavam nos racks de servidores submersos no limo. Cadáveres empalados, outrora trabalhadores ou exploradores azarados do Distrito 4, pendiam como frutos podres, seus crânios perfurados por cabos de fibra ótica que drenavam sua energia bioelétrica. A praga do "Jardim" não estava apenas sobrevivendo. Ela estava processando dados.
 
@@ -31,4 +31,4 @@ Sem hesitar, cravei os dedos irregulares da prótese na carne pálida do nó e f
 
 — *Bypass* concluído, — Valéria relatou, impassível, enquanto a porta membranosa à sua frente se desfazia em cinzas biológicas. — O acesso ao log de destino está liberado. Eles não estão construindo apenas uma rede, Gabo. O algoritmo aponta para uma reativação do Arquivo Executivo.
 
-Caí de pé no chão de ferro, o ombro latejando em pura agonia. Respirei fundo, o ar livre de cravo e repleto de ozônio. Sorri, um esgar cínico e sem humor. O inferno nunca acaba. Só muda de andar.
+Caí de pé no chão de ferro, o ombro latejando em pura agonia. Respirei fundo, o ar livre de charuto e repleto de ozônio. Sorri, um esgar cínico e sem humor. O inferno nunca acaba. Só muda de andar.

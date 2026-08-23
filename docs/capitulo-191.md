@@ -7,7 +7,7 @@ Personagens Presentes: Gabo, Valéria
 
 # Capítulo 191: O Batismo da Ferrugem
 
-O primeiro golpe da minha prótese industrial contra a válvula de contenção soou como um sino fúnebre desafinado, reverbarando na vastidão mórbida do relicário. O metal espesso cedeu sob a força bruta do braço não calibrado. O cano central se rompeu, esguichando um fluido refrigerante esverdeado e borbulhante sobre os cabos cobertos de carne.
+O primeiro golpe da minha prótese industrial contra a válvula de contenção soou como um sino fúnebre desafinado, reverberando na vastidão mórbida do relicário. O metal espesso cedeu sob a força bruta do braço não calibrado. O cano central se rompeu, esguichando um fluido refrigerante esverdeado e borbulhante sobre os cabos cobertos de carne.
 
 Instantaneamente, a sala reagiu.
 
@@ -35,7 +35,7 @@ Eu golpeei, golpeei e golpeei de novo. O braço industrial gemia, faíscas espir
 
 As luzes vermelhas do Jardim vacilaram. Os corpos suspensos começaram a amolecer, desabando de seus cabos enquanto as conexões neurais torravam internamente pelo sobreaquecimento das placas-mãe acopladas.
 
-— A integridade da rede do organismo cibernético local foi comprometida em 87%. Colapso em cadeia atestado, — relatou Valéria, virando-se com precisão maquinal em direção ao duto de acesso por onde havíamos chegado. — A probabilidade de ignição do fosso do elevador por pressão térmica é alta. Evacuação mandatória, Gabo.
+— A integridade da rede do organismo cibernético local foi comprometida em 91%. Colapso em cadeia atestado, — relatou Valéria, virando-se com precisão maquinal em direção ao duto de acesso por onde havíamos chegado. — A probabilidade de ignição do fosso do elevador por pressão térmica é alta. Evacuação mandatória, Gabo.
 
 Deixei a prótese abaixar. O ombro avariado pendia inerte. O cheiro de lodo fervendo, carne torrada e componentes eletrônicos carbonizados inundava o salão. Era nojento, tóxico, mas era autêntico. Não havia fumaça de charuto ali. Só o cheiro podre do fim de uma era corporativa e a destruição de uma praga.
 

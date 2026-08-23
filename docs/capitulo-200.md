@@ -11,7 +11,7 @@ O estrondo da porta de pressão se fechando ainda ecoava na base do crânio, uma
 
 Eu escorreguei pela parede de metal frio, deixando o peso morto do meu corpo ceder. O choque elétrico ainda zumbia nas terminações nervosas do meu braço direito, uma formigamento doloroso que transformava meus dedos em garras retorcidas. Mas era a perna esquerda, ou o que restava dela presa à junta carbonizada, que exigia o sacrifício de manter a mente lúcida. A cada pulsação, a dor do corte onde enfiei o vergalhão para afastar as alucinações ardia como ferro em brasa.
 
-Isso era bom. A dor era meu âncora. Quando a dor latejava, o cheiro fantasma do charuto de fumo doce recuava. Eu não ia deixar aquela nuvem maldita entrar na minha cabeça de novo. Nunca mais.
+Isso era bom. A dor era minha âncora. Quando a dor latejava, o cheiro fantasma do charuto de fumo doce recuava. Eu não ia deixar aquela nuvem maldita entrar na minha cabeça de novo. Nunca mais.
 
 — O sistema cardiovascular do indivíduo alfa apresenta estabilização forçada, — a voz de Valéria quebrou o silêncio lúgubre. Seus ópticos azuis giravam no escuro, varrendo a geometria brutalista do poço. Ela operava no modo de segurança, a emoção simulada desativada, sobrando apenas a lógica fria de sobrevivência. — Contudo, o choque elétrico induziu micro-arritmias. Recomendo repouso de no mínimo cento e vinte minutos.
 
@@ -35,7 +35,7 @@ Em vez de liso e funcional, o concreto estava coberto por uma trama grotesca. Ve
 
 Eu olhei para o abismo acima de nós. Escuro, profundo, e cheirando a esporos e ferrugem. Não havia luz no fim do túnel, apenas uma ascensão extenuante e mortal.
 
-— Eu não consigo... — Elias repetiu, choramingando mais alto. — Minhas mãos não seguram nem a lanterna, detetive. Como vou subir mil metros nisso?
+— Eu não consigo... — Elias repetiu, choramingando mais alto. — Minhas mãos não seguram nem a lanterna, detetive. Como vou subir oitocentos metros nisso?
 
 Mordi o interior da bochecha até sentir o sangue quente escorrer, focalizando a ardência para esmagar a histeria que ameaçava brotar da minha própria exaustão. A dor era meu combustível, mas a reserva do tanque estava no limite. O metal das minhas órteses nas pernas rangeu em protesto, as articulações cheias de lodo.
 
@@ -52,7 +52,7 @@ As raízes azuis nas paredes piscaram em uníssono, intensificando seu brilho do
 
 E não estava vindo de elevador. Estava rastejando pelas paredes.
 
-— Valéria... — eu sussurrei, a mão direita formigando e procurando instintivamente pela pesada espingarda Caronte que eu já não tinha.
+— Valéria... — eu sussurrei, a mão direita formigando e procurando instintivamente pela pesada escopeta Caronte presa nas costas, que eu não conseguiria erguer a tempo.
 
 — Detectando múltiplas assinaturas térmicas descendentes, — confirmou a andróide, a voz assumindo uma urgência letal. — Estimativa: trinta entidades. Tamanho médio equivalente ao espécime anterior. Tempo para interceptação: dez minutos.
 

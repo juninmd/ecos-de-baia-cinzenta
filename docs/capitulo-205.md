@@ -15,7 +15,7 @@ Uma lufada de ar viciado, com gosto de cobre e poeira antiga, atingiu meu rosto.
 
 O colosso de sucata avançou, um braço pneumático, ainda ostentando o logotipo desbotado da Aeterna, balançando como um porrete. O golpe atingiu o contêiner onde eu estava ancorado segundos antes, rasgando o metal como se fosse papel molhado. A onda de choque me jogou no chão. Senti o gosto de sangue na boca.
 
-— Análise tática, Valéria! — rosnei, me erguendo com dificuldade. A espingarda estava pesada. Disparei duas vezes. Os projéteis perfurantes bateram na carcaça de ferrugem da criatura e ricochetearam com faíscas pálidas, tão inúteis quanto jogar pedras em um tanque de guerra.
+— Análise tática, Valéria! — rosnei, me erguendo com dificuldade. A escopeta estava pesada. Disparei duas vezes. Os projéteis perfurantes bateram na carcaça de ferrugem da criatura e ricochetearam com faíscas pálidas, tão inúteis quanto jogar pedras em um tanque de guerra.
 
 Valéria deslizou para a minha direita, os olhos sintéticos brilhando no escuro, alheia ao caos.
 
@@ -25,7 +25,7 @@ A coisa girou, fixando o que quer que usasse como sensores em nós. Outro braço
 
 — Então me dê os outros noventa e oito por cento! — Exigi, forçando minha órtese além do limite de segurança. O servo do meu joelho mecânico gritou, e a articulação transmitiu um choque lancinante direto para a minha espinha. Era uma agonia requintada. Minha mente estava mais afiada do que nunca.
 
-— O teto, Gabo, — disse ela calmamente, apontando para cima com a pistola. — Trilhos do guindaste de carga principal. Os suportes sofreram 87% de corrosão devido à exposição à atmosfera do armazém.
+— O teto, Gabo, — disse ela calmamente, apontando para cima com a pistola. — Trilhos do guindaste de carga principal. Os suportes sofreram 82% de corrosão devido à exposição à atmosfera do armazém.
 
 Olhei para cima, através da névoa avermelhada de poeira de ferro. Havia um conjunto massivo de vigas e ganchos industriais balançando precariamente bem acima do fosso de onde a criatura havia saído. Se eu pudesse trazer aquilo abaixo, o peso bruto faria o que minhas balas não podiam.
 

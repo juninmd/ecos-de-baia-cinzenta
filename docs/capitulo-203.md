@@ -19,7 +19,7 @@ O concreto estava estilhaçado ao redor de veias massivas de oxidação acelerad
 
 — Isso foi há quanto tempo? — a voz de Elias surgiu frágil atrás de mim. Ele espiava sobre o meu ombro ileso, ajeitando a mochila nas costas por puro nervosismo.
 
-— Décadas, — resmunguei. Abracei minhas costelas com o braço bom. — A corporação tentou conter a Praga selando os setores afetados. Eles não curaram nada, só varreram para debaixo do tapete. O tapete, neste caso, somos nós e cinco quilômetros de rocha e concreto acima de nossas cabeças.
+— Décadas, — resmunguei. Abracei minhas costelas com o braço bom. — A corporação tentou conter a Praga selando os setores afetados. Eles não curaram nada, só varreram para debaixo do tapete. O tapete, neste caso, somos nós e oitocentos metros de rocha e concreto acima de nossas cabeças.
 
 Aproximei-me das portas corrompidas, chutando levemente o pó de ferrugem com a bota, evitando engajar a órtese danificada. Do outro lado das pesadas portas, uma vasta câmara de logística se abria. Não havia escuridão total; uma iluminação de emergência âmbar fraca e cintilante sobrevivia através de sabe-se lá que arranjo de fiação independente.
 

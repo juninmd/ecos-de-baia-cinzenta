@@ -18,7 +18,7 @@ Dante Moretti. Ou melhor, uma casca vazia cultivada para ser ele.
 
 — Impressionante, não é? — A voz ecoou, não dos alto-falantes desta vez, mas de uma plataforma elevada conectada ao Ventre por pontes de cabos orgânicos.
 
-Silas Vance estava lá. Ele não parecia o monstro vegetal que as lendas de Part XIII descreviam. Ele parecia humano, dolorosamente humano, vestido com um jaleco branco imaculado que contrastava violentamente com a sujeira do mundo exterior. Apenas as veias negras que subiam pelo seu pescoço denunciavam a infecção controlada.
+Silas Vance estava lá. Ele não parecia o monstro vegetal que as lendas do subsolo descreviam. Ele parecia humano, dolorosamente humano, vestido com um jaleco branco imaculado que contrastava violentamente com a sujeira do mundo exterior. Apenas as veias negras que subiam pelo seu pescoço denunciavam a infecção controlada.
 
 — Silas — rosnou Gabo, o som de suas órteses metálicas clicando enquanto ele avançava pela passarela.
 

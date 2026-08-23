@@ -15,7 +15,7 @@ A cada cinco passos, a fumaça invisível rastejava para dentro dos meus pulmõe
 
 — O alvo primário aproxima-se com velocidade de sete metros por segundo, — a voz fria de Valéria quebrou minha concentração febril. Ela nem sequer olhou para trás. — A taxa de interceptação ocorrerá em quarenta segundos se mantivermos o ritmo atual.
 
-Minha perna direita protestou em um guincho metálico quando pisei em falso. O joelho avariado cedeu de novo, e o lodo espirrou no meu rosto. Eu já estava moído. O ombro direito latejava como um coração exposto, e o esquerdo era uma massa inflamada de carne dilacerada pelas minhas próprias unhas. Eu não tinha mais onde me machucar sem comprometer fatalmente minha mobilidade.
+Minha perna esquerda protestou em um guincho metálico quando pisei em falso. O joelho avariado cedeu de novo, e o lodo espirrou no meu rosto. Eu já estava moído. O ombro direito latejava como um coração exposto, uma massa inflamada de carne rasgada pelo torque da prótese e pelas minhas próprias unhas. Eu não tinha mais onde me machucar sem comprometer fatalmente minha mobilidade.
 
 Mas o cheiro de charuto estava lá, engrossando o ar, me asfixiando por dentro. O pânico de não conseguir respirar suplantava o medo da aberração às nossas costas.
 
@@ -27,7 +27,7 @@ Elias tropeçou à frente, derrubando sua lanterna desligada. O cilindro rolou r
 
 Eu agarrei um vergalhão solto que despontava do pilar de concreto ao meu lado e envolvi minha prótese nele. Com um puxão bruto, arranquei o pedaço de ferro enferrujado de um metro e meio da parede, trazendo pedaços de alvenaria junto.
 
-Eu precisava de clareza. Precisava espantar a fumaça maldita que já me fazia tossir compulsivamente. Sem pensar nas consequências a longo prazo, levei a ponta áspera do vergalhão até a base da minha prótese industrial esquerda, na junção nua de metal e carne carbonizada do meu toco.
+Eu precisava de clareza. Precisava espantar a fumaça maldita que já me fazia tossir compulsivamente. Sem pensar nas consequências a longo prazo, levei a ponta áspera do vergalhão até a base da minha prótese industrial direita, na junção nua de metal e carne carbonizada do meu toco.
 
 Pressionei o ferro contra os nervos expostos da cicatriz e girei.
 
@@ -41,7 +41,7 @@ A aberração dobrou a esquina do túnel. Sob a fraca luz dos sensores de Valér
 
 — Padrão de ataque detectado, — Valéria advertiu, detendo-se no meio do túnel. Ela assumiu uma postura rígida, calculista. — Vou engajar fisicamente para interceptar o trajeto.
 
-Ela estava disposta a lutar porque a matemática do *Safe Mode* dizia que era a ação lógica para preservar minha integridade, o "alvo alfa".
+Ela estava disposta a lutar porque a matemática do Modo de Segurança dizia que era a ação lógica para preservar minha integridade, o "alvo alfa".
 
 — Não seja estúpida, lata velha, — cuspi, empurrando-a levemente e avançando com o ombro são. — Seu chassi é pesado demais, mas não é invulnerável a ácido corrosivo. E eu não tenho tempo pra te consertar de novo.
 

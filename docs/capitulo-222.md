@@ -39,7 +39,7 @@ Eu parei na porta. Não disse nada.
 
 Ele me viu. Encolheu os ombros para dentro, do jeito que ele faz.
 
-— Funciona, — ele disse. — O maldito funciona, Gabo. Circuito próprio. Nunca esteve na rede, então a Praga nunca pegou. Eu testei o contrapeso, testei o freio, testei tudo três vezes. — Ele riu, e o riso saiu horrível. — Catorze anos de manutenção. É a única coisa em que eu sou bom. E a única vez que serviu para alguma coisa foi para achar a porta dos fundos.
+— Funciona, — ele disse. — O maldito funciona, Gabo. Circuito próprio. Nunca esteve na rede, então a Praga nunca pegou. Eu testei o contrapeso, testei o freio, testei tudo três vezes. — Ele riu, e o riso saiu horrível. — Quatro anos de manutenção. É a única coisa em que eu sou bom. E a única vez que serviu para alguma coisa foi para achar a porta dos fundos.
 
 — Onde é que ele sai?
 

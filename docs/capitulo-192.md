@@ -11,7 +11,7 @@ O lodo fervia atrás de nós, um oceano vermelho de biologia corrompida evaporan
 
 E no meio daquela fumaça real, o espectro do meu pai ressurgiu.
 
-O perfume adocicado e denso de charuto e cravo infiltrou-se no meu sistema respiratório. A alucinação não era apenas um cheiro; era uma textura. Eu sentia as cinzas invisíveis de Dante revestindo meus pulmões, endurecendo como cimento, roubando o oxigênio do meu sangue. A asfixia imaginária contraiu minha garganta. O pânico bateu no fundo do meu crânio como um martelo pneumático.
+O perfume adocicado e denso de charuto infiltrou-se no meu sistema respiratório. A alucinação não era apenas um cheiro; era uma textura. Eu sentia as cinzas invisíveis de Dante revestindo meus pulmões, endurecendo como cimento, roubando o oxigênio do meu sangue. A asfixia imaginária contraiu minha garganta. O pânico bateu no fundo do meu crânio como um martelo pneumático.
 
 Estávamos no meio de uma escalada insana pelas escadas de manutenção enferrujadas do fosso do elevador. Olhar para baixo era ver o inferno laranja do núcleo devorando a si mesmo. Olhar para cima era apenas a escuridão infinita e poeirenta do Setor 7.
 

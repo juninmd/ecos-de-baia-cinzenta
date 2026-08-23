@@ -183,7 +183,7 @@ E, do chão, atrás dele, o Inspetor Rangel disse uma palavra sem acordar.
 
 Disse "Marta", que era o nome da esposa dele, morta em quarenta e oito, e disse com a entonação de quem responde a uma pergunta.
 
-Foi a última coisa que Rangel falou naquela caverna, e Gabo carregou isso por vinte e dois capítulos sem contar a ninguém.
+Foi a última coisa que Rangel falou naquela caverna, e Gabo carregou isso por vinte e dois dias sem contar a ninguém.
 
 ---
 

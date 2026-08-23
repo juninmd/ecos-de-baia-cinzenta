@@ -15,7 +15,7 @@ Elias rolou para fora do duto logo atrás de mim, caindo de joelhos, tossindo e 
 
 — Nós... nós conseguimos, — ele arfou, os olhos arregalados percorrendo os canos espessos que pareciam sucuris de aço negro nas paredes de concreto bruto. — Isso é a espinha dorsal do Setor 6. Longe daquele fogo. Longe do... do Jardim.
 
-O baque metálico leve dos pés de Valéria encerrou sua frase. Ela aterrissou com a precisão rígida de um drone, sem demonstrar a menor fadiga. Seus olhos sintéticos emitiam um feixe calculista azul-pálido que escaneava o ambiente com uma indiferença gélida. O *Safe Mode* mantinha seus protocolos emocionais completamente mortos.
+O baque metálico leve dos pés de Valéria encerrou sua frase. Ela aterrissou com a precisão rígida de um drone, sem demonstrar a menor fadiga. Seus olhos sintéticos emitiam um feixe calculista azul-pálido que escaneava o ambiente com uma indiferença gélida. O Modo de Segurança mantinha seus protocolos emocionais completamente mortos.
 
 — Atualização de status, — declarou ela, a voz monótona e robótica. — Probabilidade de sobrevivência estática aumentada para 21.3%. No entanto, a taxa de perda de fluido vital de Gabo projeta falência estrutural orgânica em cento e vinte e sete minutos, caso o deslocamento constante não seja interrompido. Recomendo, novamente, amputação da via não crucial ou cauterização a fogo.
 
@@ -28,7 +28,7 @@ Pressionei minha mão intacta contra o ombro sangrento, esmagando a ferida apena
 Elias empalideceu sob a luz neon moribunda. Ele olhou para um canal de escoamento no centro da câmara, onde um líquido espesso e escuro movia-se letargicamente.
 — Ela quer dizer... o Jardim? Ele nos seguiu?
 
-Arrastei meu pé em direção ao canal de escoamento. O líquido ali não era apenas água ácida. Nas margens do concreto corroído, filamentos bioluminescentes azulados, lembrando veias adoecidas, pulsavam fracamente sob a crosta de sujeira. O cheiro de lodo e formol preencheu minhas narinas, acendendo um pânico pavloviano, o odor acrimonioso de fumaça de cigarro, invadindo minha percepção.
+Arrastei meu pé em direção ao canal de escoamento. O líquido ali não era apenas água ácida. Nas margens do concreto corroído, filamentos bioluminescentes azulados, lembrando veias adoecidas, pulsavam fracamente sob a crosta de sujeira. O cheiro de lodo e formol preencheu minhas narinas, acendendo um pânico pavloviano, o odor acrimonioso de fumaça de charuto, invadindo minha percepção.
 
 Pressionei todo o meu peso esquerdo contra a beirada do fosso, usando o metal frio do corrimão rompido para esfolar ainda mais o que restava do meu ombro rasgado. A pulsação incandescente de agonia lavou a alucinação nauseante de fumaça, ancorando minha mente no horror tátil e imundo do presente.
 

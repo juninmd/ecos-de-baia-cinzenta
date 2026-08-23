@@ -35,7 +35,7 @@ Ele estava parado na porta, sem passar. A lanterna tremia na mão dele.
 
 — Não o quê?
 
-— Isso não pode estar aqui. — A voz dele saiu fina. — Eu trabalhei quatorze anos em manutenção. Eu conheço cada duto do Setor 6. Isso não está em planta nenhuma. Isso não *existe*.
+— Isso não pode estar aqui. — A voz dele saiu fina. — Eu trabalhei quatro anos em manutenção. Eu conheço cada duto do Setor 6. Isso não está em planta nenhuma. Isso não *existe*.
 
 — Agora existe. Entra.
 

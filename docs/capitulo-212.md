@@ -39,7 +39,7 @@ Puxei o gatilho. O estrondo ensurdecedor da arma calibre doze reverberou pelo tu
 
 Era a brecha que eu precisava.
 
-Engatei a escopeta nas costas e usei a órtese do meu braço amputado. A pesada garra industrial não calibrada desceu como uma marreta impiedosa sobre a biomassa ferida. Cada golpe enviava ondas de dor nauseante pelo meu ombro rasgado, mas eu ansiava por elas. A dor afastava o pânico. A dor limpava o caminho. Esmaguei a carne podre do Jardim misturada com o metal corroído da Praga de Ferro, abrindo um buraco irregular na parede biológica através da força bruta e da fúria concentrada.
+Engatei a escopeta nas costas e usei a prótese do meu braço amputado. A pesada garra industrial não calibrada desceu como uma marreta impiedosa sobre a biomassa ferida. Cada golpe enviava ondas de dor nauseante pelo meu ombro rasgado, mas eu ansiava por elas. A dor afastava o pânico. A dor limpava o caminho. Esmaguei a carne podre do Jardim misturada com o metal corroído da Praga de Ferro, abrindo um buraco irregular na parede biológica através da força bruta e da fúria concentrada.
 
 Minhas mãos estavam cobertas por uma lama negra e gelada quando finalmente parei, arfando pesadamente, o suor congelando na minha testa.
 

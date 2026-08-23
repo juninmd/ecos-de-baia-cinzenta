@@ -11,7 +11,7 @@ Os setecentos e quinze metros restantes até o poço de elevação eram uma sent
 
 Sempre que a escuridão silenciava meus sentidos, a fumaça invisível invadia minhas narinas. A sensação de asfixia não era psicológica; meus pulmões realmente fechavam, minha traqueia apertava. O único antídoto era o choque térmico e elétrico da dor.
 
-Minha bota mecânica esmagava cascalho e poças de lodo industrial. A cada dois passos, eu cravava as unhas sujas da minha mão direita no ombro esquerdo, apertando os músculos rasgados. O sangue quente escorria pelos meus dedos, e o pico de agonia brilhava no meu cérebro como um sinal luminoso em neon de letreiro vagabundo. A dor queimava a alucinação, substituindo o sufocamento pelo simples e honesto sofrimento físico.
+Minha bota mecânica esmagava cascalho e poças de lodo industrial. A cada dois passos, eu cravava as unhas sujas da minha mão esquerda no ombro direito, apertando os músculos rasgados. O sangue quente escorria pelos meus dedos, e o pico de agonia brilhava no meu cérebro como um sinal luminoso em neon de letreiro vagabundo. A dor queimava a alucinação, substituindo o sufocamento pelo simples e honesto sofrimento físico.
 
 Elias tremia ao meu lado, tropeçando nas sombras projetadas por sua lanterna enfraquecida. Ele não dizia uma palavra desde o incidente na ponte improvisada, mas sua respiração ofegante era um ruído patético que se misturava ao gotejar das tubulações.
 
@@ -39,7 +39,7 @@ Ao nos movermos furtivamente pelo corredor, percebi que um dos casulos estava ra
 
 A náusea subiu pela minha garganta, e, como um relógio quebrado, a alucinação de fumaça veio junto. O charuto de Dante, encorpado, doce e sufocante. Senti minha visão periférica escurecer. A falta de ar dobrou meus joelhos.
 
-Caí pesadamente sobre a minha perna mecânica, os pistões choramingando com o impacto bruto no concreto. A joelheira metálica cedeu, e a agonia disparou pela minha perna direita, atingindo meu quadril mutilado. A dor foi avassaladora, ofuscante. Mas ela quebrou a redoma da alucinação.
+Caí pesadamente sobre a minha perna mecânica, os pistões choramingando com o impacto bruto no concreto. A joelheira metálica cedeu, e a agonia disparou pela minha perna esquerda, atingindo meu quadril mutilado. A dor foi avassaladora, ofuscante. Mas ela quebrou a redoma da alucinação.
 
 Arfei, puxando grandes goles de ar carregado de ozônio, tossindo violentamente enquanto Elias dava um passo para trás, assustado com minha queda súbita.
 
@@ -47,11 +47,11 @@ Arfei, puxando grandes goles de ar carregado de ozônio, tossindo violentamente 
 
 — Pressão arterial do indivíduo alfa caindo, — relatou Valéria, seus olhos estáticos fixados em mim. — Falência sistêmica por estresse crônico se aproximando. Se a integridade estrutural do seu fêmur falhar agora, a amputação não será suficiente.
 
-— Eu... tô bem, — rosnei, fincando o punho de ferro da prótese esquerda no chão para me alavancar para cima. As juntas do meu braço estalaram, ecoando ruidosamente na catacumba.
+— Eu... tô bem, — rosnei, fincando o punho de ferro da prótese direita no chão para me alavancar para cima. As juntas do meu braço estalaram, ecoando ruidosamente na catacumba.
 
 Os casulos acima de nós pulsaram com o som. As veias azuis brilharam um pouco mais intensas, respondendo ao estímulo.
 
-— Movimento detectado, — a voz do *Safe Mode* de Valéria soou como uma sentença de morte. — Atividade neural nos casulos aumentou oitocentos por cento. O ruído mecânico agiu como gatilho.
+— Movimento detectado, — a voz do Modo de Segurança de Valéria soou como uma sentença de morte. — Atividade neural nos casulos aumentou oitocentos por cento. O ruído mecânico agiu como gatilho.
 
 Uma fenda molhada se abriu no casulo mais próximo. O som de carne rasgando e fluido derramando encheu o túnel. Algo começou a se arrastar para fora. Uma abominação de carne pálida, entrelaçada com fios de cobre e raízes azuis, sem olhos, guiada apenas pela vibração.
 

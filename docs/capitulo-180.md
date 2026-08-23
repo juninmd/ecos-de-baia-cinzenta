@@ -21,7 +21,7 @@ O motor chorou e um solavanco de pura agonia subiu pela minha espinha. A fumaça
 
 Ela não respondeu ao sarcasmo, apenas continuou sua marcha inabalável, o feixe de luz tático perfurando a escuridão absoluta.
 
-Dez minutos depois, o túnel desembocou em uma câmara de drenagem titânica. As paredes curvas estavam quase inteiramente forradas pela mesma biomassa pálida do capítulo anterior, mas aqui ela não estava apenas digerindo lixo inorgânico. O brilho doentio do *Jardim* revelou a verdadeira escala da fome da abominação.
+Dez minutos depois, o túnel desembocou em uma câmara de drenagem titânica. As paredes curvas estavam quase inteiramente forradas pela mesma biomassa pálida dos túneis, mas aqui ela não estava apenas digerindo lixo inorgânico. O brilho doentio do *Jardim* revelou a verdadeira escala da fome da abominação.
 
 Suspensos em uma teia de filamentos carnudos, pendiam três catadores. Eles estavam envoltos até o pescoço em casulos fibrosos. Seus implantes cibernéticos rudimentares de mercado negro — olhos sintéticos enferrujados, pernas pneumáticas — haviam sido rasgados e integrados à rede neural fúngica. O pior não era o grotesco da fusão carne-metal.
 

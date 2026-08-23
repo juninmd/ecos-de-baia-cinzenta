@@ -11,11 +11,11 @@ O fosso do elevador era um vácuo de breu e óleo rançoso, cortado apenas pela 
 
 E então, o cheiro retornou.
 
-Não era o mofo industrial do fosso. Era o perfume quente, adocicado e denso de cravo e cinzas — o fumo exato dos charutos do meu pai, Dante. O ar imaginário tornou-se asfalto líquido na minha garganta. O pânico de asfixia, primitivo e visceral, arranhou minha mente. O "Jardim" não estava apenas hackeando servidores com carne podre; o miasma da praga reverberava nas fraturas do meu córtex, usando minha síndrome de estresse pós-traumático como uma arma paralisante.
+Não era o mofo industrial do fosso. Era o perfume quente, adocicado e denso de fumo e cinzas — o fumo exato dos charutos do meu pai, Dante. O ar imaginário tornou-se asfalto líquido na minha garganta. O pânico de asfixia, primitivo e visceral, arranhou minha mente. O "Jardim" não estava apenas hackeando servidores com carne podre; o miasma da praga reverberava nas fraturas do meu córtex, usando minha síndrome de estresse pós-traumático como uma arma paralisante.
 
 Minha respiração falhou. O cabo de aço começou a escorregar pela minha mão de carne.
 
-— Tensão no cabo primário aumentada em 14% devido ao deslize da sua empunhadura, — a voz de Valéria ecoou perfeitamente uniforme no escuro. Ela descia um cabo adjacente, seus olhos artificiais emitindo dois pontos mortos de luz azulada que não carregavam nenhuma empatia. Ela estava submersa em seu *Safe Mode*, um constructo lógico estéril processando o abismo como um fluxo de equações. — Um declínio adicional de 3% resultará na falha mecânica da sua sustentação. A queda de trinta e oito metros resultará em trauma craniano fatal.
+— Tensão no cabo primário aumentada em 14% devido ao deslize da sua empunhadura, — a voz de Valéria ecoou perfeitamente uniforme no escuro. Ela descia um cabo adjacente, seus olhos artificiais emitindo dois pontos mortos de luz azulada que não carregavam nenhuma empatia. Ela estava submersa em seu Modo de Segurança, um constructo lógico estéril processando o abismo como um fluxo de equações. — Um declínio adicional de 3% resultará na falha mecânica da sua sustentação. A queda de quarenta e cinco metros resultará em trauma craniano fatal.
 
 — Cala... a boca, — rosnei, engasgando com o ar que minha mente insistia estar envenenado por fumaça.
 

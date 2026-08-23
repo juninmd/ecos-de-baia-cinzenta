@@ -13,13 +13,13 @@ Fechei a jaqueta manchada sobre o meu braço mutilado. A carne ainda latejava, u
 
 — Você quer dizer que a Aeterna construiu algo abaixo da cidade original? — Elias engoliu em seco, recuando um passo da torre de servidores iluminada de verde. O pavor escorria dele como suor frio. — Abaixo do Setor 7? Aquilo já é o esgoto do mundo...
 
-— A infraestrutura embrionária, — Valéria desconectou o cabo neural da nuca com um movimento seco e clínico. Os olhos azuis voltaram a focar em mim, destituídos de qualquer resquício de empatia, travados no absoluto *Safe Mode*. — As fundações geológicas que sustentam a arcologia. Registros indicam falhas tectônicas artificiais e câmaras de contenção térmica da era do Projeto Gênesis. Não é esgoto, civil. É a raiz. E o elevador de manutenção primário está a quarenta metros a nordeste desta câmara.
+— A infraestrutura embrionária, — Valéria desconectou o cabo neural da nuca com um movimento seco e clínico. Os olhos azuis voltaram a focar em mim, destituídos de qualquer resquício de empatia, travados no absoluto Modo de Segurança. — As fundações geológicas que sustentam a arcologia. Registros indicam falhas tectônicas artificiais e câmaras de contenção térmica da era do Projeto Gênesis. Não é esgoto, civil. É a raiz. E o elevador de manutenção primário está a quarenta metros a nordeste desta câmara.
 
 Eu me apoiei na parede metálica, usando a escopeta como bengala. Minha perna quebrada protestou num chiado mecânico de servos prestes a morrer.
 
 — Então é para lá que o Jardim não conseguiu ir. Ou foi impedido de ir, — rosnei, cuspindo sangue ralo no chão impecável de Aeterna. — Se há um fundo verdadeiro nessa latrina de concreto, é lá que o Taxidermista ou qualquer coisa que esteja controlando a cidade se esconde.
 
-— Probabilidade de sobrevivência na descida: doze vírgula quatro por cento, — Valéria relatou. Ela não soava pessimista. Apenas lia o tabuleiro de xadrez da nossa agonia. — Suas falências múltiplas de órgãos e integridade mecânica reduzem a métrica a cada hora.
+— Probabilidade de sobrevivência na descida: onze vírgula seis por cento, — Valéria relatou. Ela não soava pessimista. Apenas lia o tabuleiro de xadrez da nossa agonia. — Suas falências múltiplas de órgãos e integridade mecânica reduzem a métrica a cada hora.
 
 — Eu não preciso de estatísticas, Valéria. Preciso da porra do elevador.
 

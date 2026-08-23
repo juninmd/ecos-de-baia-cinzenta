@@ -25,7 +25,7 @@ Ali embaixo, cercado de morte e decadência cibernética, a agonia era o meu úl
 
 — Progresso lento, Gabo.
 
-A Valéria ia na frente, sem hesitar em bifurcação nenhuma, porque o Safe Mode não hesita: ele escolhe a rota de menor custo e segue.
+A Valéria ia na frente, sem hesitar em bifurcação nenhuma, porque o Modo de Segurança não hesita: ele escolhe a rota de menor custo e segue.
 
 Os servos faciais dela estavam imóveis. Nada de pressa, nada de empatia, nada.
 
@@ -37,7 +37,7 @@ Os servos faciais dela estavam imóveis. Nada de pressa, nada de empatia, nada.
 
 — Isso é a definição da minha vida inteira, Val.
 
-Ela não respondeu, porque não era pergunta e porque o Safe Mode não responde a coisa que não é pergunta.
+Ela não respondeu, porque não era pergunta e porque o Modo de Segurança não responde a coisa que não é pergunta.
 
 ---
 
@@ -161,7 +161,7 @@ Elias sentou de cócoras ao meu lado, batendo os dentes num compasso rápido.
 
 — Ela ainda tá aí dentro?
 
-Eu olhei para cima, para a silhueta subindo pela parede de uma câmara de resfriamento congelada a sessenta metros abaixo de uma cidade morta.
+Eu olhei para cima, para a silhueta subindo pela parede de uma câmara de resfriamento congelada a oitocentos metros abaixo de uma cidade morta.
 
 — Não sei — falei.
 

@@ -33,7 +33,7 @@ Gemi, trincando os molares, e encaixei a garra da minha prótese numa das fresta
 
 — Cala a boca e fica longe, — rosnei.
 
-Mandei um comando neural bruto para o toco amputado, ignorando os bloqueios de segurança do sistema nervoso. As servos da órtese gritaram num tom de metal esfolado. Puxei com tudo o que me restava. Músculo contra aço. Carne contra titânio congelado. A válvula não moveu no primeiro segundo, e eu senti o sangue quente começar a empapar as bandagens novamente.
+Mandei um comando neural bruto para o toco amputado, ignorando os bloqueios de segurança do sistema nervoso. Os servos da prótese gritaram num tom de metal esfolado. Puxei com tudo o que me restava. Músculo contra aço. Carne contra titânio congelado. A válvula não moveu no primeiro segundo, e eu senti o sangue quente começar a empapar as bandagens novamente.
 
 *Gira, desgraçada!*
 

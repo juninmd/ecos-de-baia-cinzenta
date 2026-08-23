@@ -9,7 +9,7 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 Os oitocentos metros de distância pareciam se multiplicar a cada passo, como se estivéssemos rastejando pelo intestino de uma besta moribunda. As catacumbas do Setor 6 eram um labirinto esquecido de engenharia brutalista. Arcos manchados de concreto gotejavam fluidos oleosos sobre um piso inundado, onde a água fedia a metal oxidado e desespero.
 
-Elias choramingava a cada respingo. Sua lanterna tremia histericamente, projetando sombras erráticas que dançavam sobre os canos grossos nas paredes. Valéria, fiel ao seu *Safe Mode*, movia-se com uma eficiência pavorosa. Seus sensores ópticos emitiam um feixe azul-pálido, cortando a escuridão sem um pingo de hesitação, fadiga ou empatia. Para ela, o ambiente não era opressivo; era apenas um conjunto de dados a ser processado.
+Elias choramingava a cada respingo. Sua lanterna tremia histericamente, projetando sombras erráticas que dançavam sobre os canos grossos nas paredes. Valéria, fiel ao seu Modo de Segurança, movia-se com uma eficiência pavorosa. Seus sensores ópticos emitiam um feixe azul-pálido, cortando a escuridão sem um pingo de hesitação, fadiga ou empatia. Para ela, o ambiente não era opressivo; era apenas um conjunto de dados a ser processado.
 
 Eu arrastava meu corpo quebrado, pagando pedágio à gravidade a cada passo. A dor no meu ombro estilhaçado era um inferno particular. Eu mantinha minha mão boa cravada sobre o ferimento recém-dilacerado, apertando a carne esfarrapada de propósito. A fisgada aguda de agonia subia pela minha nuca. Eu precisava daquilo. Sem o choque bruto da dor física, o ar podre da catacumba começava a se distorcer, impregnando minhas narinas com aquele cheiro inconfundível, denso e nauseante. Fumaça de charuto. O cheiro de Dante. A alucinação fantasma se enrolava na minha traqueia, ameaçando me sufocar com o peso de uma memória que eu tentava sepultar sob toneladas de concreto.
 
@@ -34,7 +34,7 @@ Valéria virou seu olhar pálido para mim.
 Elias sacudiu a cabeça freneticamente.
 — Eu? Não! Eu vou cair! Eu morro!
 
-Dei um passo pesado na direção dele, a bota da perna mecânica ecoando com um baque surdo. Ergui o braço esquerdo — a grotesca prótese industrial de sucata — e agarrei o colarinho sujo dele. As juntas de metal rangeram como um protesto violento.
+Dei um passo pesado na direção dele, a bota da perna mecânica ecoando com um baque surdo. Ergui o braço direito — a grotesca prótese industrial de sucata — e agarrei o colarinho sujo dele. As juntas de metal rangeram como um protesto violento.
 
 — Escuta bem, Elias, — eu disse baixo, apoiando meu equilíbrio apenas no ódio e na dor aguda que irradiava pelo corpo. — Você prefere morrer ali, lutando pra atravessar, ou quer que eu te deixe aqui no escuro para o Jardim crescer nos seus pulmões? Escolhe. Eu não tenho paciência nem sangue sobrando pra negociar com covarde.
 
@@ -49,7 +49,7 @@ Elias alcançou o outro lado e desabou num monte de membros trêmulos.
 
 — Sua vez, — eu disse para ela.
 
-Ela não discutiu. No *Safe Mode*, comandos eram executados se estivessem dentro dos parâmetros de sobrevivência tática. Ela pisou na grade. Seu equilíbrio era impossivelmente perfeito, mas seu chassi sintético era pesado. O metal gritou sob ela. As veias azuis pulsaram com mais intensidade, uma reação doentia à energia estática de seu núcleo. Ela atravessou em segundos, um fantasma de lógica pura e cromo, deixando a ponte tensionada e estalando.
+Ela não discutiu. No Modo de Segurança, comandos eram executados se estivessem dentro dos parâmetros de sobrevivência tática. Ela pisou na grade. Seu equilíbrio era impossivelmente perfeito, mas seu chassi sintético era pesado. O metal gritou sob ela. As veias azuis pulsaram com mais intensidade, uma reação doentia à energia estática de seu núcleo. Ela atravessou em segundos, um fantasma de lógica pura e cromo, deixando a ponte tensionada e estalando.
 
 Era a minha vez.
 
@@ -65,7 +65,7 @@ No meio da travessia, uma massa espessa de raízes azuis subitamente disparou do
 
 — Gabo, — a voz de Valéria soou do outro lado, distante e fria. — Enredamento detectado. Amputação da prótese inferior recomendada caso o casulo biológico inicie a digestão ácida.
 
-Eu não respondi. Não tinha fôlego para gastar. Ergui o pesado braço esquerdo e desferi um soco brutal, reto e primitivo na biomassa enrolada na minha perna. A prótese não calibrada soltou um chiado de despressurização quando os nós dos dedos de aço maciço esmagaram o tecido biológico, espalhando uma seiva grossa e brilhante por todo lado.
+Eu não respondi. Não tinha fôlego para gastar. Ergui o pesado braço direito e desferi um soco brutal, reto e primitivo na biomassa enrolada na minha perna. A prótese não calibrada soltou um chiado de despressurização quando os nós dos dedos de aço maciço esmagaram o tecido biológico, espalhando uma seiva grossa e brilhante por todo lado.
 
 A força do impacto, a vibração correndo de volta pelo braço, a dor excruciante que se conectou com o ombro já destroçado... era uma sinfonia terrível. Uma punição corporal que me mantinha perfeitamente são no centro daquele inferno biológico.
 

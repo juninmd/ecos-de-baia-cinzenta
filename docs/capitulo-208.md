@@ -9,7 +9,7 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 O tubo estreito de drenagem terminou abruptamente. Deslizei para frente, o metal corroído arranhando minha jaqueta, até sentir o vazio sob minhas pernas. Caí com um estrondo metálico. Minha órtese esquerda bateu contra um piso de grade de aço, o impacto enviando uma onda de choque pelo meu joelho danificado. Soltei um rosnado baixo, acolhendo a dor crua; ela era a âncora perfeita, um lembrete físico que me impedia de recair nas alucinações asfixiantes do duto claustrofóbico de onde acabamos de sair.
 
-— Área de aterrissagem confirmada, — a voz gélida de Valéria soou logo acima. Segundos depois, ela pousou graciosamente ao meu lado, sem o menor sinal de desconforto. — Temperatura ambiente em queda acentuada. Aproximadamente quatro graus Celsius.
+— Área de aterrissagem confirmada, — a voz gélida de Valéria soou logo acima. Segundos depois, ela pousou graciosamente ao meu lado, sem o menor sinal de desconforto. — Temperatura ambiente em queda acentuada. Aproximadamente quatro graus Celsius negativos.
 
 Elias despencou em seguida, caindo desajeitadamente. Ele arfou, abraçando os próprios ombros.
 
@@ -19,7 +19,7 @@ Levantei-me devagar, sentindo as engrenagens da minha perna mecânica protestare
 
 — Análise, — pedi a Valéria.
 
-A andróide operava em seu *Safe Mode*, desprovida de inflexões emocionais. Seus olhos sintéticos varreram as paredes.
+A andróide operava em seu Modo de Segurança, desprovida de inflexões emocionais. Seus olhos sintéticos varreram as paredes.
 
 — A estrutura celular da biomassa congelada apresenta assinaturas botânicas agressivas, consistentes com os esporos do Jardim, — relatou ela. — No entanto, a interação com o óxido de ferro acelerado causou uma reação endotérmica letal. A Praga de Ferro está essencialmente matando o Jardim de frio, e o Jardim está tentando devorar o metal em resposta. O resultado é essa necrose térmica.
 

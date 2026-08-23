@@ -9,7 +9,7 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 Levei quase uma hora para conseguir tocar na lata.
 
-Ela ficou ali no centro da mesa esse tempo todo, e eu ficei olhando. Uma lata redonda de fita magnética, de umas dez polegadas, com a pintura verde descascando na borda e uma mancha de ferrugem na dobradiça. Cheirava a acetato velho — aquele cheiro adocicado e químico de filme guardado, que sobe da lata assim que a vedação cede e que quem tem mais de quarenta anos reconhece sem saber de onde.
+Ela ficou ali no centro da mesa esse tempo todo, e eu fiquei olhando. Uma lata redonda de fita magnética, de umas dez polegadas, com a pintura verde descascando na borda e uma mancha de ferrugem na dobradiça. Cheirava a acetato velho — aquele cheiro adocicado e químico de filme guardado, que sobe da lata assim que a vedação cede e que quem tem mais de quarenta anos reconhece sem saber de onde.
 
 O metal estava frio. Eu passei o polegar na etiqueta e senti a datilografia em relevo, letra por letra, como quem lê braile do nome do próprio pai.
 
@@ -53,7 +53,7 @@ E aí o mundo saiu do lugar.
 
 Meu pai.
 
-Não a simulação. Não o rosto idealizado no monitor de um exoesqueleto. Não a coisa educada e precisa demais que saiu de um túnel descalça no Capítulo 104 e me chamou de Gabriel como se estivesse lendo o nome numa lista.
+Não a simulação. Não o rosto idealizado no monitor de um exoesqueleto. Não a coisa educada e precisa demais que saiu de um túnel descalça e me chamou de Gabriel como se estivesse lendo o nome numa lista.
 
 **Ele.** Com o barítono rouco lascado nas pontas, com aquela pausa exata de meio segundo antes das palavras difíceis, com o deboche que ele usava exclusivamente com gente que se achava mais esperta do que era.
 
@@ -141,7 +141,7 @@ O carretel continuou girando em fita branca por mais um minuto inteiro, e ningu�
 
 Eu fiquei ali sentado na cadeira de couro rachado, com quarenta graus de febre, um braço a menos e um ombro apodrecendo, no lugar mais limpo do mundo, ouvindo um chiado.
 
-Sessenta anos de merda e a única coisa que eu consegui pensar foi: *ele falou de mim.*
+Quinze anos de merda e a única coisa que eu consegui pensar foi: *ele falou de mim.*
 
 Ele estava sendo enterrado vivo por uma corporação de cemitério e usou os últimos vinte segundos de fita para avisar a mulher que ele **tinha** três filhos, e que um deles ia dar trabalho.
 

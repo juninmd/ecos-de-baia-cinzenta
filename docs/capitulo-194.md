@@ -7,7 +7,7 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 # Capítulo 194: O Preço da Manutenção
 
-Elias nos guiou através do labirinto de transformadores inativos. O lugar fedia a ozônio velho e poeira metálica, um aroma industrial morto que eu engolia com gratidão. Qualquer coisa era melhor do que o cheiro fantasma de charuto e cravo. A ameaça da asfixia mental estava acorrentada no fundo da minha mente, mantida lá pela dor constante e rascante do meu joelho a cada passo.
+Elias nos guiou através do labirinto de transformadores inativos. O lugar fedia a ozônio velho e poeira metálica, um aroma industrial morto que eu engolia com gratidão. Qualquer coisa era melhor do que o cheiro fantasma de charuto. A ameaça da asfixia mental estava acorrentada no fundo da minha mente, mantida lá pela dor constante e rascante do meu joelho a cada passo.
 
 — A torre principal de exaustão perdeu a pressurização quando vocês implodiram o andar inferior, — Elias explicou, sua voz esganiçada ecoando pelos conduítes ocos. Ele andava rápido, olhando para trás a cada dez segundos como se o Jardim ainda pudesse brotar do chão. — Os poços principais estão cheios de gases tóxicos. Fumaça, metano, ácido sulfúrico evaporado. Subir por lá é suicídio.
 
@@ -25,7 +25,7 @@ Valéria observou a cena com seus olhos estéreis. Ela não ofereceu suporte mor
 
 — As rotas principais são inviáveis. Apresente a alternativa, Elias. Tempo estimado até que as chamas do Nível C comprometam os suportes de sustentação da Subestação B: vinte e dois minutos, — Valéria informou com um tom perfeitamente constante.
 
-Elias empalideceu. — Vinte minutos? Vocês trouxeram o inferno para a minha porta!
+Elias empalideceu. — Vinte e dois minutos?! Vocês trouxeram o inferno para a minha porta!
 
 — A porta já estava apodrecendo, — retruquei, a impaciência rosnando na minha voz. — A rota, Elias. Agora.
 
@@ -43,7 +43,7 @@ Elias apontou para uma roda de aço colossal incrustada na parede reforçada. �
 
 Me aproximei da válvula. Estava congelada pela ferrugem e pelo tempo. Valéria escaneou o mecanismo.
 
-— Torque necessário: 1800 Newton-metros. Com seu estado estrutural atual, a tentativa resultará em ruptura muscular do ombro esquerdo em 87% de probabilidade, — ela calculou, sem paixão.
+— Torque necessário: 1800 Newton-metros. Com seu estado estrutural atual, a tentativa resultará em ruptura muscular do ombro direito em 94% de probabilidade, — ela calculou, sem paixão.
 
 — Não me importo com a matemática, Valéria, — murmurei, cravando os dedos hidráulicos da prótese ao redor do metal grosso da roda.
 

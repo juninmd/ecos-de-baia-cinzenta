@@ -51,7 +51,7 @@ Claro que não.
 
 A Dra. Elara Vance apontou para a parede do fundo, onde o tubo encontrava a câmara.
 
-Havia uma comporta ali. Circular, de aço, com quatro metros de diâmetro — irmã gêmea daquela que eu abri no volante, no capítulo mais longo da minha vida.
+Havia uma comporta ali. Circular, de aço, com quatro metros de diâmetro — irmã gêmea daquela que eu abri no volante, na hora mais longa da minha vida.
 
 — A comporta de pressurização, — ela disse. — Ela precisa ficar aberta enquanto a cápsula acelera, para que o diferencial se estabeleça, e fechar depois que a cápsula passa, para que o vácuo não despressurize a instalação inteira. O ciclo é de quarenta segundos.
 
@@ -105,7 +105,7 @@ Ela virou-se para o came.
 
 E eu olhei para o meu braço direito.
 
-Para a garra industrial que o Vasco parafusou nos meus nervos numa clínica imunda do Distrito 4, sem servo-motor de grau militar, sem calibragem, sem anestesia decente. A coisa feia, pesada e mal-acabada que me fez gritar em todos os degraus dos últimos quarenta e dois capítulos. Metal cinza fosco, cheio de cicatriz de solda e fio exposto.
+Para a garra industrial que o Vasco parafusou nos meus nervos numa clínica imunda do Distrito 4, sem servo-motor de grau militar, sem calibragem, sem anestesia decente. A coisa feia, pesada e mal-acabada que me fez gritar em todos os degraus dos últimos quarenta e dois dias. Metal cinza fosco, cheio de cicatriz de solda e fio exposto.
 
 Uma prótese hidráulica **não calibrada**.
 

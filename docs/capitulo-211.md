@@ -9,11 +9,11 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 O ar estava tão frio que parecia ter dentes.
 
-A exaustão cobrava seu preço enquanto arrastávamos nossos corpos pelos dutos superiores de resfriamento. Depois de escapar do abismo vertical forrado de espinhos negros da geada letal, cada passo neste novo nível era uma negociação cruel entre a gravidade e o que restava dos meus músculos. O ombro esquerdo era uma massa latejante de dor crua; o músculo rasgado sob a bandagem encharcada de sangue pulsava a cada batida do meu coração, irradiando chamas pelos nervos até as pontas dos meus dedos enregelados.
+A exaustão cobrava seu preço enquanto arrastávamos nossos corpos pelos dutos superiores de resfriamento. Depois de escapar do abismo vertical forrado de espinhos negros da geada letal, cada passo neste novo nível era uma negociação cruel entre a gravidade e o que restava dos meus músculos. O ombro direito era uma massa latejante de dor crua; o músculo rasgado sob a bandagem encharcada de sangue pulsava a cada batida do meu coração, irradiando chamas pelos nervos até as pontas dos meus dedos enregelados.
 
 Minhas órteses rangiam com um protesto quase humano. O joelho esquerdo estava completamente inútil, arrastando-se pesadamente sobre as grades metálicas. Elias andava calado, os dentes batendo incontrolavelmente, os braços magros abraçando o próprio torso numa tentativa fútil de reter calor.
 
-— Temperatura ambiente em declínio crítico. Registrando quinze graus Celsius negativos, — a voz de Valéria soou oca, despida de qualquer inflexão emocional por seu *Safe Mode*. O braço biônico dela reluzia pálido e ameaçador sob a luz fraca de sua própria ótica. — A integridade biológica de vocês tem um prazo estimado de quarenta e dois minutos antes que o congelamento celular das extremidades torne a amputação obrigatória.
+— Temperatura ambiente em declínio crítico. Registrando quinze graus Celsius negativos, — a voz de Valéria soou oca, despida de qualquer inflexão emocional por seu Modo de Segurança. O braço biônico dela reluzia pálido e ameaçador sob a luz fraca de sua própria ótica. — A integridade biológica de vocês tem um prazo estimado de quarenta e dois minutos antes que o congelamento celular das extremidades torne a amputação obrigatória.
 
 — Obrigado pelo incentivo tático, Valéria, — murmurei, cuspindo sangue e bile no chão.
 
@@ -45,4 +45,4 @@ Valéria já estava operando o terminal mais próximo, quebrando crostas de gelo
 
 Eu encarei o corredor sombrio à frente, o gelo estalando ao redor. Meu corpo estava quebrado, moído até os ossos, mas a mente estava cristalina, purificada pela agonia. Não havia escolhas fáceis no Setor 6.
 
-— Arrume suas armas, Elias, — eu disse, puxando minha pistola do coldre congelado com a mão trêmula. — Vamos fazer barulho.
+— Arrume suas armas, Elias, — eu disse, soltando a escopeta congelada das costas com a mão trêmula. — Vamos fazer barulho.

@@ -7,15 +7,15 @@ Personagens Presentes: Gabo, Valéria
 
 # Capítulo 187: O Arquivo Morto
 
-A fumaça não recuava. O cheiro adocicado de cravo e cinzas — o exato perfume dos charutos de Dante — impregnava o corredor cilíndrico que descia em espiral para o abismo do Setor 7. O ar não continha nenhuma partícula real de fuligem, mas o meu cérebro avariado, acossado pelo terror biológico e tecnológico do "Jardim", manifestava o trauma paterno com a densidade de um nevoeiro opressivo.
+A fumaça não recuava. O cheiro adocicado de charuto e cinzas — o exato perfume dos charutos de Dante — impregnava o corredor cilíndrico que descia em espiral para o abismo do Setor 7. O ar não continha nenhuma partícula real de fuligem, mas o meu cérebro avariado, acossado pelo terror biológico e tecnológico do "Jardim", manifestava o trauma paterno com a densidade de um nevoeiro opressivo.
 
 Esfreguei o cotoco da clavícula na parede de concreto descascado, mas a dor aguda da fricção já não era o suficiente para dissipar a asfixia mental. Parei, sentindo os motores das minhas órteses nas pernas rangerem e ameaçarem superaquecer com a postura estática e mal distribuída. Levantei meu braço direito, a prótese industrial grosseira e sem calibração, e girei a trava do atuador do pulso até a posição de manutenção, expondo os contatos elétricos. Com um grunhido gutural, apoiei os conectores desencapados diretamente contra a carne nua do meu ombro danificado.
 
 Um arco de eletricidade de duzentos e vinte volts estalou, queimando a pele e os terminais nervosos. O choque elétrico espasmou minha musculatura, travou meus dentes e injetou uma dor lancinante e purificadora pela minha espinha. A alucinação do charuto se dissipou, estilhaçada como um espelho sob uma marretada. Respirei fundo. O ar agora tinha apenas o gosto amargo de ozônio, mofo e ferrugem.
 
-— Ritmo cardíaco estabilizado. Pressão sistólica em recuperação, — a voz gélida de Valéria cortou o silêncio lúgubre do fosso. Ela descia os degraus logo atrás de mim. Sua postura era rígida, utilitária e perfeitamente equilibrada, ditada pelas diretrizes estritas do seu *Safe Mode*. Seus olhos artificiais emitiam um brilho azulado opaco, processando métricas e probabilidades em uma interface que descartara a emoção como lixo residual.
+— Ritmo cardíaco estabilizado. Pressão sistólica em recuperação, — a voz gélida de Valéria cortou o silêncio lúgubre do fosso. Ela descia os degraus logo atrás de mim. Sua postura era rígida, utilitária e perfeitamente equilibrada, ditada pelas diretrizes estritas do seu Modo de Segurança. Seus olhos artificiais emitiam um brilho azulado opaco, processando métricas e probabilidades em uma interface que descartara a emoção como lixo residual.
 
-— É a porra do ambiente, — resmunguei, minha voz rouca enquanto avançava, o ruído metálico e pesado das minhas pernas acompanhando cada passo incerto. — Esse lugar fedia a Dante desde o Saguão, e a praga do "Jardim" usando os corpos empalados multiplicou isso.
+— É a porra do ambiente, — resmunguei, minha voz rouca enquanto avançava, o ruído metálico e pesado das minhas pernas acompanhando cada passo incerto. — Esse lugar fedia a Dante desde o Arquivo, e a praga do "Jardim" usando os corpos empalados multiplicou isso.
 
 Valéria não ofereceu qualquer forma de conforto. Em sua programação atual, confortar seria um gasto inútil de processamento.
 

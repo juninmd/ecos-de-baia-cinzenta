@@ -15,7 +15,7 @@ O cheiro de charuto de Dante, azedo e sufocante, começou a rastejar pelas borda
 
 *Não.*
 
-Eu apertei a mão direita — a boa — ao redor do degrau de aço gelado com tanta força que os tendões gritaram. Mas não era o suficiente. O fantasma da fumaça continuava espesso. Eu precisei de algo mais afiado, algo mais real que a alucinação. Pressionei deliberadamente o toco mutilado do meu braço esquerdo contra a quina áspera da escada de aço. O atrito rasgou a carne mal cicatrizada, e uma onda de agonia branca e brilhante subiu pela minha espinha.
+Eu apertei a mão direita — a boa — ao redor do degrau de aço gelado com tanta força que os tendões gritaram. Mas não era o suficiente. O fantasma da fumaça continuava espesso. Eu precisei de algo mais afiado, algo mais real que a alucinação. Pressionei deliberadamente o toco mutilado do meu braço direito contra a quina áspera da escada de aço. O atrito rasgou a carne mal cicatrizada, e uma onda de agonia branca e brilhante subiu pela minha espinha.
 
 O cheiro do charuto desapareceu. A dor era meu único oxigênio. Soltei um rosnado abafado, o gosto metálico de sangue inundando minha boca enquanto eu forçava minha perna quebrada a descer mais um degrau. Os servos hidráulicos na minha articulação arruinada choramingavam como cães moribundos.
 

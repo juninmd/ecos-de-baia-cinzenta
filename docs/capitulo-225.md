@@ -197,7 +197,7 @@ A Dra. Elara Vance parou a cadeira ao meu lado. Ela olhava para a luz com os olh
 
 — E agora, inspetor? — ela perguntou. — O senhor tem sessenta e um anos de prova e nenhum tribunal onde apresentar.
 
-Peguei o Colar de Sol do bolso com a única mão que me sobrou. O metal estava morno. As bordas do sol estilizado ainda tinham o meu sangue seco dos últimos quarenta capítulos.
+Peguei o Colar de Sol do bolso com a única mão que me sobrou. O metal estava morno. As bordas do sol estilizado ainda tinham o meu sangue seco.
 
 Enrolei a corrente no punho.
 

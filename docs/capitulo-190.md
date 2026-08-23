@@ -27,9 +27,9 @@ Caí de joelhos contra a grade metálica do piso. Meus pulmões arranhavam o nad
 
 Eu não conseguia responder. Estava afundando.
 
-Desesperado, agarrei os cabos frouxos que saíam do ombro da minha prótese industrial avariada. Os fios expostos estalavam em estática verde e laranja após a luta anterior. Precisava de uma âncora. Precisava rasgar a névoa do meu pai. Sem hesitar, pressionei a fiação desencapada e ruidosa diretamente contra as placas de metal expostas no meu próprio peito e nas cicatrizes da instalação grosseira do meu braço esquerdo.
+Desesperado, agarrei os cabos frouxos que saíam do ombro da minha prótese industrial avariada. Os fios expostos estalavam em estática verde e laranja após a luta anterior. Precisava de uma âncora. Precisava rasgar a névoa do meu pai. Sem hesitar, pressionei a fiação desencapada e ruidosa diretamente contra as placas de metal expostas no meu próprio peito e nas cicatrizes da instalação grosseira do meu braço direito.
 
-A descarga elétrica foi brutal. Um arco de pura agonia de oitocentos volts explodiu dentro da minha carne, torcendo minha espinha em um arco espasmódico. O cheiro de carne queimada e ozônio autêntico encobriu totalmente qualquer fumaça de charuto irreal. O choque reiniciou meu sistema nervoso à força, esmagando o gatilho da fobia de asfixia sob uma avalanche de dor tangível e abrasadora.
+A descarga elétrica foi brutal. Um arco de pura agonia de duzentos e vinte volts explodiu dentro da minha carne, torcendo minha espinha em um arco espasmódico. O cheiro de carne queimada e ozônio autêntico encobriu totalmente qualquer fumaça de charuto irreal. O choque reiniciou meu sistema nervoso à força, esmagando o gatilho da fobia de asfixia sob uma avalanche de dor tangível e abrasadora.
 
 Soltei um grito dilacerado e rolei para o lado, cuspindo uma bolha de sangue quente.
 

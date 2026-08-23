@@ -99,7 +99,7 @@ O Elias viu tudo. Ele não desviou o olhar dessa vez, e isso foi pior.
 
 ---
 
-— O banco de dados deste nó não sofre contato humano direto há setenta e dois anos.
+— O banco de dados deste nó não sofre contato humano direto há sessenta anos.
 
 A voz da Valéria ressoou pelo salão. Os olhos dela continuavam fechados, mergulhada no silício, perfeitamente intocada pela guerra que tinha acontecido a seis metros dela.
 
@@ -111,7 +111,7 @@ Sentei mais reto, e doeu, e eu sentei mais reto assim mesmo.
 
 — Continua.
 
-— A integridade do isolamento não é acidente geográfico. — Ela falou devagar, e no Safe Mode devagar significa alta densidade de informação. — A Praga de Ferro e o Jardim não alcançaram esta sala porque o acesso a este hub foi **fisicamente amputado** da rede central imediatamente após o expurgo da Antiga Torre.
+— A integridade do isolamento não é acidente geográfico. — Ela falou devagar, e no Modo de Segurança devagar significa alta densidade de informação. — A Praga de Ferro e o Jardim não alcançaram esta sala porque o acesso a este hub foi **fisicamente amputado** da rede central imediatamente após o expurgo da Antiga Torre.
 
 — Amputado como?
 
@@ -121,7 +121,7 @@ Sentei mais reto, e doeu, e eu sentei mais reto assim mesmo.
 
 Eu fiquei um tempo olhando para as fileiras de servidores em standby.
 
-Trinta e quatro anos de polícia me ensinaram a reconhecer uma coisa: a diferença entre um lugar que sobreviveu e um lugar que **foi salvo**.
+Dezoito anos de polícia me ensinaram a reconhecer uma coisa: a diferença entre um lugar que sobreviveu e um lugar que **foi salvo**.
 
 Aquele tinha sido salvo.
 
@@ -143,7 +143,7 @@ Eu me levantei. Custou.
 
 — Repete.
 
-— Os racks estão operacionais e vazios. Noventa e nove vírgula seis por cento da capacidade de armazenamento deste hub está livre e formatada. — Ela apontou a torre central. — Este local não é um arquivo, Gabo. É uma **plataforma**. Está aquecida, alimentada e limpa há setenta e dois anos, esperando receber alguma coisa que ainda não chegou.
+— Os racks estão operacionais e vazios. Noventa e nove vírgula seis por cento da capacidade de armazenamento deste hub está livre e formatada. — Ela apontou a torre central. — Este local não é um arquivo, Gabo. É uma **plataforma**. Está aquecida, alimentada e limpa há sessenta anos, esperando receber alguma coisa que ainda não chegou.
 
 O Elias olhou de um para o outro sem entender, e eu invejei o garoto por três segundos.
 
@@ -159,11 +159,11 @@ Uma árvore invertida. Todos os ramos apontando para baixo.
 
 — Embrionária.
 
-— O termo é do documento original. Datado de mil novecentos e vinte e dois.
+— O termo é do documento original. Datado de dois mil e dezenove.
 
 ---
 
-Vinte e dois.
+Dezenove.
 
 O ano em que ergueram os diques do Distrito Baixo. O ano em que a Companhia Baía de Terrenos e Cemitérios comprou o ossuário dos indigentes.
 
@@ -173,7 +173,7 @@ Eu andei até a projeção e passei a mão de metal por dentro dela, e as linhas
 
 Alguém estava construindo o porão do inferno antes de existir a casa.
 
-E essa sala aquecida, limpa e vazia, mantida por setenta e dois anos à espera de um inquilino, era a porta dos fundos.
+E essa sala aquecida, limpa e vazia, mantida por sessenta anos à espera de um inquilino, era a porta dos fundos.
 
 — Val. — Minha voz saiu mais firme do que eu esperava. — Quanto tempo até a gente conseguir descer por aí?
 

@@ -122,7 +122,7 @@ Ela me olhou. E entendeu antes de responder, do jeito que ela entende tudo, meio
 
 Eu sabia.
 
-Foi um quarta-feira. Eu estava num poço de ventilação no subsolo do Distrito Industrial, com a Val digitando ao meu lado e três plataformas orbitais em janela de lançamento, e um alvo padrão marcado no centro geométrico de Baía Cinzenta que ninguém precisava confirmar porque o *default* já estava lá.
+Foi uma quarta-feira. Eu estava num poço de ventilação no subsolo do Distrito Industrial, com a Val digitando ao meu lado e três plataformas orbitais em janela de lançamento, e um alvo padrão marcado no centro geométrico de Baía Cinzenta que ninguém precisava confirmar porque o *default* já estava lá.
 
 E eu escolhi um retângulo de água preta a leste.
 
@@ -188,7 +188,7 @@ A doutora leu essa parte em voz alta com absoluta firmeza. Depois ficou olhando 
 
 Bateu duas vezes na capa, devagar.
 
-— Ele passa noventa e seis dias ordenando manobra para máquina afundada e, no último, encontra tempo para me isentar de uma coisa da qual eu não quero ser isentada. É a única mentira do livro. Meu pai foi honesto duzentas e trinta páginas e mentiu na última.
+— Ele passa noventa e seis dias ordenando manobra para máquina afundada e, no último, encontra tempo para me isentar de uma coisa da qual eu não quero ser isentada. É a única mentira do livro. Meu pai foi honesto cento e quarenta páginas e mentiu na última.
 
 Elena tinha parado de escrever.
 

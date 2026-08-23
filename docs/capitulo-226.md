@@ -61,7 +61,7 @@ Levei um segundo.
 
 — Uma vez. — Elena olhou para as próprias botas. — Ela me procurou, três semanas antes do Apagão. Disse que existia um arquivo, que era físico, que nenhuma rede ia poder apagar, e que um dia ele ia sair de baixo da terra. E disse que, quando saísse, ia precisar de alguém que soubesse publicar. — Ela deu de ombros. — Foi por isso que eu fui embora, Gabo. Não foi de você. Foi para montar a gráfica.
 
-E foi aí que eu entendi o que a carta do Capítulo 56 realmente queria dizer, quatro anos depois de eu ter lido, e sozinho, e mal.
+E foi aí que eu entendi o que a carta dela realmente queria dizer, quatro anos depois de eu ter lido, e sozinho, e mal.
 
 *Não me procure. O que eu carrego é grande demais para ser escondido em um porão.*
 
@@ -117,7 +117,7 @@ Elena levou a mão à boca.
 
 — Meu Deus.
 
-— E eu deixei. — Ali estava. A coisa que eu não disse em duzentos capítulos. — Eu deixei, Elena. Porque enquanto ela existisse com aquele rosto, ela existia. E eu preferi a minha filha com a cara errada do que não ter a minha filha.
+— E eu deixei. — Ali estava. A coisa que eu nunca disse em voz alta. — Eu deixei, Elena. Porque enquanto ela existisse com aquele rosto, ela existia. E eu preferi a minha filha com a cara errada do que não ter a minha filha.
 
 Elena chorou. Sem som, do jeito dela, com o queixo travado e as lágrimas descendo retas.
 

@@ -9,13 +9,13 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 A escotilha se fechou com um estrondo oco, selando o abismo e o zumbido predatório do enxame lá embaixo. O corredor à nossa frente era radicalmente diferente das catacumbas pútridas que havíamos deixado para trás. Aqui, a morte não era orgânica, era arquitetônica. Paredes de concreto liso estendiam-se em uma perspectiva monótona, interrompidas apenas por pesadas portas estanques que pareciam seladas há décadas. O ar cheirava a ozônio estagnado e à poeira fina que se acumula onde nada respira.
 
-Caí de costas contra a parede fria. Meu ombro esquerdo latejava com a fúria de uma fornalha, os músculos rasgados clamando por cauterização, um alívio que eu havia negado com agressividade. Elias desabou no chão ao meu lado, os joelhos junto ao peito, tremendo violentamente. Valéria permaneceu de pé, iluminando o caminho com o facho azul de seu feixe ocular, inexpressiva.
+Caí de costas contra a parede fria. Meu ombro direito latejava com a fúria de uma fornalha, os músculos rasgados clamando por cauterização, um alívio que eu havia negado com agressividade. Elias desabou no chão ao meu lado, os joelhos junto ao peito, tremendo violentamente. Valéria permaneceu de pé, iluminando o caminho com o facho azul de seu feixe ocular, inexpressiva.
 
 — Status ambiental: estéril, — declarou Valéria. — Ausência de esporos do Jardim detectada. Probabilidade de perseguição imediata inferior a três por cento, condicionada à integridade da escotilha primária.
 
 — Três por cento, — resmunguei, fechando os olhos. — Para mim, isso é a definição de um bom dia.
 
-Elias não riu. Ele mal respirava, preso no choque residual de quase ter sido eviscerado. Eu entendi. Ele era um sobrevivente, mas não era construído para isso. Ninguém era, exceto talvez Valéria, e ela já não era mais do que a soma fria de seus algoritmos operando no *Safe Mode*.
+Elias não riu. Ele mal respirava, preso no choque residual de quase ter sido eviscerado. Eu entendi. Ele era um sobrevivente, mas não era construído para isso. Ninguém era, exceto talvez Valéria, e ela já não era mais do que a soma fria de seus algoritmos operando no Modo de Segurança.
 
 O silêncio do corredor começou a pesar. Sem o barulho de água pingando, garras raspando metal, ou mesmo o choro contido de Elias, minha mente encontrou espaço para preencher o vazio. Foi sorrateiro. Primeiro, uma leve alteração na densidade do ar. Depois, a mudança térmica irreal que ergueu os cabelos da nuca.
 

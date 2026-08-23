@@ -69,7 +69,7 @@ Abaixei-me. O cheiro do necrotério improvisado tentou embrulhar meu estômago. 
 
 Puxei.
 
-O som de carne e metal rasgando foi nauseante. A agonia no meu ombro recrudesceu quando os pregos neurais compensaram o solavanco. Gruni, caindo de joelhos na lama asfáltica. A luz verde do cilindro apagou-se imediatamente quando os cabos foram rompidos, mas o centro do núcleo brilhou com uma fraca incandescência vermelha.
+O som de carne e metal rasgando foi nauseante. A agonia no meu ombro recrudesceu quando os pregos neurais compensaram o solavanco. Grunhi, caindo de joelhos na lama asfáltica. A luz verde do cilindro apagou-se imediatamente quando os cabos foram rompidos, mas o centro do núcleo brilhou com uma fraca incandescência vermelha.
 
 — Extração bem-sucedida. — Valéria se aproximou, abrindo um pequeno compartimento na lateral do seu pulso esquerdo. — Conecte o terminal inferior do núcleo à minha porta de interface auxiliar.
 

@@ -50,7 +50,7 @@ Levei um tempo estúpido para entender.
 
 — Não me chame assim.
 
-Foi a primeira vez em quarenta capítulos de escuridão que ela me interrompeu.
+Foi a primeira vez em todos aqueles meses de escuridão que ela me interrompeu.
 
 Eu virei a cabeça. Ela estava com a pinça na mão, os olhos sintéticos fixos na minha carne, o rosto totalmente sem expressão. E ela tinha me interrompido.
 

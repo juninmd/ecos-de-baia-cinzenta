@@ -9,7 +9,7 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 A válvula de meia tonelada cedeu com um gemido metálico agudo, ecoando pelo fosso como uma besta ferida. A escotilha de descompressão se abriu, revelando as entranhas escuras dos dutos de refrigeração secundários. Um vento gélido soprou de lá, cheirando a zinco molhado, ozônio velho e lodo calcificado, não a fumaça de charuto. Era um alívio temporário, mas caro.
 
-Soltei o aro de aço incrustado de ferrugem. O braço esquerdo pendeu inútil ao meu lado. Cada batimento cardíaco enviava uma onda de agonia latejante através do ombro, onde a musculatura havia rasgado sob o torque bruto da prótese hidráulica não calibrada. O líquido rubro e quente começou a ensopar a manga da minha jaqueta sintética, misturando-se ao óleo hidráulico que vazava do meu cotovelo cibernético danificado.
+Soltei o aro de aço incrustado de ferrugem. O braço direito pendeu inútil ao meu lado. Cada batimento cardíaco enviava uma onda de agonia latejante através do ombro, onde a musculatura havia rasgado sob o torque bruto da prótese hidráulica não calibrada. O líquido rubro e quente começou a ensopar a manga da minha jaqueta sintética, misturando-se ao óleo hidráulico que vazava do meu cotovelo cibernético danificado.
 
 — Rota liberada, — murmurei, a voz ríspida, raspando na garganta seca. Puxei uma respiração superficial, testando os limites da minha própria miséria. A dor era aguda, radiante e absolutamente perfeita. Era um farol no meio do nevoeiro mental, empurrando a maldita fumaça fantasma de volta para o abismo escuro da minha cabeça.
 
@@ -17,7 +17,7 @@ Elias olhava para o meu ombro sangrando com os olhos arregalados de um vira-lata
 — Você é louco, cara. Completamente quebrado. Você não vai aguentar engatinhar quilômetros de duto sangrando desse jeito. Os "catadores" que vivem no Nível C vão farejar isso.
 
 Valéria interrompeu a histeria com a precisão implacável de um metrônomo.
-— Análise de fluido vital: Gabo perdeu aproximadamente duzentos e cinquenta mililitros de sangue. A taxa de coagulação natural é insuficiente. Recomendo cauterização imediata com os fios desencapados do conduíte central para evitar falência sistêmica durante o trajeto.
+— Análise de fluido vital: Gabo perdeu aproximadamente novecentos mililitros de sangue. A taxa de coagulação natural é insuficiente. Recomendo cauterização imediata com os fios desencapados do conduíte central para evitar falência sistêmica durante o trajeto.
 
 Ela não demonstrou preocupação. Seus olhos sintéticos não tinham espaço para empatia, apenas apontavam uma falha mecânica no equipamento avariado que eu era.
 
@@ -32,7 +32,7 @@ O interior do duto era um pesadelo claustrofóbico. Tubos menores de condensaç�
 
 Rastejar com um braço inútil e uma perna mecânica cujas articulações rangiam com areia e ferrugem não era movimento, era penitência. Arrastei meu corpo polegada por polegada, usando a prótese pesada e desligada apenas como um peso morto que eu empurrava cegamente, focado em forçar o ombro dilacerado contra o aço frio cada vez que o espectro do trauma ameaçava voltar.
 
-Sempre que a temperatura aumentava levemente devido ao vapor remanescente do condensador, ou quando a luz da lanterna de Valéria piscava no lodo, minha mente tentava evocar a silhueta de Dante. O cheiro enjoativo do tabaco e cravo começava a preencher meus pulmões num espasmo asfixiante de pânico. O ar faltava. E então, eu impulsionava todo o meu peso sobre o braço esquerdo estraçalhado.
+Sempre que a temperatura aumentava levemente devido ao vapor remanescente do condensador, ou quando a luz da lanterna de Valéria piscava no lodo, minha mente tentava evocar a silhueta de Dante. O cheiro enjoativo do charuto começava a preencher meus pulmões num espasmo asfixiante de pânico. O ar faltava. E então, eu impulsionava todo o meu peso sobre o braço direito estraçalhado.
 
 O ombro rasgado guinchava e minha visão borrava em vermelho, a pura e crua biologia rompendo o véu da alucinação sintética e psicológica. A dor me ancorava de volta ao cheiro real de mofo, óleo e lixo industrial.
 

@@ -35,7 +35,7 @@ Um útero de chumbo, escondido sob o estrume do mundo.
 
 Mas não havia maquinário. Havia apenas eu, minha perna quebrada e minha repulsa existencial por permanecer no escuro.
 
-Pressionei minhas duas mãos — a de carne, inteira, e o toco cicatrizado e machucado — contra as bordas gélidas do volante. O frio do metal me mordeu. Eu precisava de tração, precisava de algo para canalizar a força.
+Pressionei as duas mãos — a de carne, inteira, e a garra industrial — contra as bordas gélidas do volante. O frio do metal me mordeu. Eu precisava de tração, precisava de algo para canalizar a força.
 
 Fechei os olhos. Deixei a sombra da fumaça do charuto voltar por um segundo. A lembrança do rosto de Dante, a arrogância, a prisão sufocante de fumaça em que ele queria me encerrar. A repulsa subiu pelo meu esôfago como bile. Não. Eu não serei prisioneiro no escuro de outro homem.
 

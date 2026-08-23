@@ -45,9 +45,9 @@ Elias choramingou e tentou alcançar o degrau podre. Seu pé escorregou. A barra
 
 Ele caiu.
 
-O peso esmagador de Elias bateu direto no meu ombro. Minhas mãos, já em carne viva pela ferrugem, deslizaram. Eu grunhi, o oxigênio expulso dos pulmões enquanto o impacto quase arrancava meus braços das órbitas. Fechei as mãos com uma força insana, o vergalhão enferrujado cortando através das minhas luvas.
+O peso esmagador de Elias bateu direto no meu ombro. Minhas mãos, já em carne viva pela ferrugem, deslizaram. Eu grunhi, o oxigênio expulso dos pulmões enquanto o impacto quase arrancava meus braços das juntas. Fechei as mãos com uma força insana, o vergalhão enferrujado cortando através das minhas luvas.
 
-A dor foi estelar. Uma supernova de agonia nas juntas e nos músculos rasgados. E foi perfeita. A alucinação do cigarro foi dizimada. Eu estava vivo.
+A dor foi estelar. Uma supernova de agonia nas juntas e nos músculos rasgados. E foi perfeita. A alucinação do charuto foi dizimada. Eu estava vivo.
 
 Valéria, operando com precisão de máquina, lançou o braço de polímero ao redor do meu torso, estabilizando nós dois na estrutura vacilante enquanto a aberração acima avançava para nós, atraída pelo barulho do metal quebrado.
 
@@ -61,4 +61,4 @@ O solavanco me fez morder a língua, o gosto de cobre quente inundando a boca.
 
 — Trava na escada, Elias! — eu rosnei, cuspindo sangue. — Tem uma escotilha de manutenção três metros acima. É lá que a gente sai. Valéria, me empurra.
 
-A andróide não questionou. Com um empurrão hidráulico quase gentil, ela me ergueu, e eu ergui Elias. Quebramos o cadeado enferrujado da escotilha com a coronhada da órtese, abrindo passagem para a escuridão horizontal de um novo corredor, segundos antes que o enxame biomecânico despencasse sobre a escada, rasgando o metal que deixamos para trás.
+A andróide não questionou. Com um empurrão hidráulico quase gentil, ela me ergueu, e eu ergui Elias. Quebramos o cadeado enferrujado da escotilha com a órtese, abrindo passagem para a escuridão horizontal de um novo corredor, segundos antes que o enxame biomecânico despencasse sobre a escada, rasgando o metal que deixamos para trás.

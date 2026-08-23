@@ -27,7 +27,7 @@ O primeiro cadáver se lançou contra mim.
 
 Eu não podia recuar. Minhas pernas exaustas teriam cedido. E, pior, se eu cedesse ao pânico da fumaça, eu morreria sufocado pelo meu próprio cérebro antes que o bastão elétrico encostasse em mim.
 
-— *Não!* — Eu rughi.
+— *Não!* — Eu rugi.
 
 Ergui minha prótese industrial avariada. A engrenagem rangeu. Quando o cadáver desferiu o golpe de cima para baixo, interceptei a trajetória. O choque elétrico do bastão espalhou-se pela lataria do meu braço mecânico e subiu até os enxertos nervosos mal curados no meu ombro.
 
@@ -47,7 +47,7 @@ A exaustão cobrou o preço. O quarto cadáver cravou seu bastão de choque cont
 
 O quinto saltou em direção a Valéria.
 
-Ela não se mexeu. Seus olhos artificiais observaram o corpo decadente avançar contra ela enquanto os dados fluiam pelos cabos. No momento em que o ataque chegaria ao seu crânio, os visores da porta principal acenderam da cor verde esmeralda.
+Ela não se mexeu. Seus olhos artificiais observaram o corpo decadente avançar contra ela enquanto os dados fluíam pelos cabos. No momento em que o ataque chegaria ao seu crânio, os visores da porta principal acenderam da cor verde esmeralda.
 
 — Autenticação forçada concluída, — ela recitou.
 
@@ -59,6 +59,6 @@ Fiquei ali de joelhos, o peito subindo e descendo em espasmos dolorosos. O cheir
 
 — Invasão tática ao nível trinta da instalação central autorizada, — Valéria desconectou os cabos da parede arruinada. Ela olhou para mim. Não havia alívio ou triunfo em sua postura. Apenas estática funcional. — Nossos níveis de integridade estrutural estão caindo exponencialmente, Gabo. A progressão atual é ilógica sem chance de recarga de substratos e fluidos médicos.
 
-Me levantei, rangendo as articulações destruídas. Guspi uma quantidade farta de saliva misturada com sangue no chão biológico e mankei em direção à porta aberta, sentindo cada centímetro da carne rasgada sob o metal das minhas pernas e do meu braço avariado.
+Me levantei, rangendo as articulações destruídas. Cuspi sangue e poeira no chão biológico e manquei em direção à porta aberta, sentindo cada centímetro da carne rasgada sob o metal das minhas pernas e do meu braço avariado.
 
 — Quem disse que eu vim pra sobreviver? — Murmurei, adentrando o Arquivo.

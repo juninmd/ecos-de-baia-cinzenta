@@ -11,7 +11,7 @@ A escuridão dentro do duto de escoamento era tão espessa que parecia ter peso.
 
 A lanterna tática no antebraço de Valéria era nosso único farol, projetando um feixe clínico que delineava as paredes circulares do conduíte. O lodo cinzento nas superfícies refletia a luz branca, dando ao túnel a aparência de uma garganta doentia prestes a nos engolir.
 
-— A integridade estrutural deste segmento apresenta níveis críticos de fadiga, — relatou Valéria, a voz em *Safe Mode* despida de qualquer inflexão. Ela liderava a descida rastejante, seus sensores operando em uma frequência impossível para olhos biológicos. — Sugiro minimizar vibrações percussivas.
+— A integridade estrutural deste segmento apresenta níveis críticos de fadiga, — relatou Valéria, a voz em Modo de Segurança despida de qualquer inflexão. Ela liderava a descida rastejante, seus sensores operando em uma frequência impossível para olhos biológicos. — Sugiro minimizar vibrações percussivas.
 
 — Entendido, — murmurei, tentando controlar a respiração. Meu ombro direito pulsava com uma intensidade que quase me cegava, os músculos rasgados protestando contra o esforço contínuo.
 

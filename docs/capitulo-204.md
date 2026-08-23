@@ -85,7 +85,7 @@ Ela apontou para o centro do galpão.
 
 O fosso de carga era uma boca retangular de trinta metros por doze, afundando no escuro, com as engrenagens colossais do elevador travadas por montanhas de ferrugem sólida.
 
-Sacado a espingarda com a mão esquerda — movimento desajeitado, treinado até virar automático depois que o braço direito virou coto e depois virou aquilo que o Vasco parafusou.
+Saquei a escopeta com a mão esquerda — movimento desajeitado, treinado até virar automático depois que o braço direito virou coto e depois virou aquilo que o Vasco parafusou.
 
 A arma parecia mais pesada naquele dia. Sempre parece.
 
