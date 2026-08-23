@@ -5969,3 +5969,114 @@ obra, e ela é coerente com tudo que o arquivo estabeleceu.
   do cap. 220. **Não cabem os três.** A recomendação desta revisão: **pagar o Krell e o módulo, e
   converter a irmã em gancho explícito de continuação** (uma linha basta) em vez de deixá-la como
   promessa esquecida.
+
+## Capítulo 228 — O Grupo de Controle
+
+**A melhor revelação da trilogia, e ela é retroativa: quinze anos de sobrevivência do protagonista
+eram um item de protocolo.** O livro pega a convenção mais gasta do gênero — o herói que escapa
+sempre por pouco — e transforma em prova documental de que ele nunca esteve no controle de nada.
+**É a virada mais cruel e mais bem construída da obra.**
+
+- 🟢 **"Um nome e quarenta e sete mil trezentos e onze são uma frase completa."**
+- 🟢 **"A cada batida saem dezesseis páginas que alguém tentou apagar por sessenta anos. Melhor som
+  que eu ouvi na vida."**
+- 🟢 **"Essa é a única caixa deste arquivo que não serve para acusar ninguém. Ela só serve para
+  explicar."**
+- 🟢 **O sobrenome repetido seis vezes numa caixa de arquivo.** Imagem que dispensa qualquer
+  parágrafo de horror.
+- 🟢 **"Um produto que estraga precisa de controle de qualidade."** e **"três gerações dão uma
+  curva"**. O horror inteiro deduzido de **metodologia estatística**. Coerente com os caps.
+  219/223/227 — o livro nunca traiu a própria lógica.
+- 🟢 **"Vocês não coletavam pessoas. Vocês coletavam famílias." / "Uma."**
+- 🟢 **"Não pela genética. Pela assinatura."** e **"denunciar significaria confessar"**. **A melhor
+  peça de trama do livro:** o pai foi escolhido por ter sido feito cúmplice **por engano**, e isso
+  explica retroativamente por que ele nunca falou — respondendo a uma pergunta que a obra deixou
+  em aberto desde o primeiro volume.
+- 🟢 **"Não era heroísmo, inspetor. Era a única porta que sobrava."**
+- 🟢 **"Perda não programada, ambiental."** / **"Eles tinham um campo no formulário."** **A frase mais
+  brutal do livro**, e é vocabulário administrativo.
+- 🟢 **"Ele foi classificado como barato, e a Aeterna acertou."** O Marco resolvido em uma linha, sem
+  perdão e sem ódio.
+- 🟢 **"Minha irmã existe naquele arquivo como uma variável que ninguém teve tempo de usar."**
+  **A irmã do cap. 220 é paga aqui** — não com uma aparição, mas com um nome (**Clara**) e duas
+  páginas de arquivo. **Retiro a preocupação que registrei nos caps. 220 e 227:** isto é fecho
+  suficiente, e é temático.
+- 🟢 **"Como quem cobre uma criança dormindo."** A Elena abrindo a pasta que ele não consegue abrir.
+- 🟢 **"Substrato ideal: ausência de trauma acumulado, arquitetura em formação, custo de manutenção
+  mínimo."** Uma criança de cinco anos descrita como insumo. **Não suavizar.**
+- 🟢 **"EM CAMPO — NÃO COLETAR — GRUPO DE CONTROLE"** e as **sessenta rubricas anuais**. **A melhor
+  imagem da obra:** o vilão sentando uma vez por ano, por sessenta anos, para reconfirmar de próprio
+  punho que o protagonista continua solto.
+- 🟢 **A releitura dos quinze anos** (o Taxidermista que sobe pela corda, a Miranda sem ordem de
+  apagar, o Gamemaster convidando para um duelo). **Recontextualiza a trilogia sem invalidar um
+  único capítulo anterior.** Peça técnica excepcional.
+- 🟢 **"Eu fui o pássaro que eles deixaram fora da gaiola para poder medir o quanto os outros
+  pássaros tinham murchado lá dentro."**
+- 🟢 **"Ele me manteve vivo." / "Ele te manteve medível."** **Melhor correção de uma fala em todo o
+  livro.**
+- 🟢 **"Nenhum cientista destrói um controle de sessenta anos na última semana."**
+- 🟢 **"Pela primeira vez em sessenta anos, o grupo de controle contaminou o experimento."** **A
+  melhor virada de ato da obra** — o protagonista converte a própria humilhação em alavanca, e a
+  solução é **jornalística**, não violenta.
+- 🟢 **"Agora ele vai ter que vir pessoalmente."**
+- 🟢 **Capítulo sem uma única ocorrência do ritual da dor.** O quinto — e todos os cinco estão entre
+  os melhores do livro.
+- 🟡 **"Vinte e um anos"** de acompanhamento vs. **"sessenta linhas"** de renovação anual na mesma
+  pasta. Se o estudo tem 59 exercícios, a pasta dele não pode ter só 21 anos. **Aritmética.**
+- 🟡 **"Quinze anos"** outra vez, e agora ao lado de "vinte e um anos" e "sessenta anos". **Item nº 2
+  da revisão — este capítulo torna a correção obrigatória**, porque os números aqui *são* a trama.
+- 🔵 **"Transcrições de sessões da Dra. Weiss que ela jurou que ninguém leria."** Detalhe devastador,
+  dito de passagem. **Se a Weiss ainda está viva, isso é uma cena que o livro deve ao leitor.**
+
+## Capítulo 229 — O Homem no Portão
+
+**O melhor antagonista do livro inteiro aparece a quatro capítulos do fim — e ele não tem poder
+nenhum.** Braga é um estivador de macacão desbotado com as mãos destruídas, e é mais assustador que
+o Jardim, o Taxidermista e o Krell juntos, **porque a acusação dele é verdadeira**. O capítulo
+converte a trilogia inteira de "detetive contra corporação" para "detetive contra o próprio
+inquérito".
+
+- 🟢 **"Corpo de guerra é feio de um jeito apressado. (...) Aquilo ali era um corpo arrumado."**
+- 🟢 **"Alguém tinha fechado os olhos dele com cuidado."** O horror é o **capricho**.
+- 🟢 **A catraca de contêiner, apertada de vinte em vinte minutos.** Assassinato por **procedimento
+  industrial** — e ele corrige o número como quem corrige nota fiscal.
+- 🟢 **"Eu não gosto de fazer rápido, porque rápido é raiva, e raiva erra. Eu não erro."**
+- 🟢 **"Uma voz de balcão de repartição."** / **"A pele sobrava."** / **"Uma costura mal feita."** /
+  **"A direita meio fechada de um jeito que não abria mais."** **Retrato físico impecável:** catorze
+  anos de cadeia contados pelo corpo.
+- 🟢 **"Eu tinha um discurso pro caso do senhor não lembrar, e era um discurso ruim."** **A melhor
+  fala de apresentação de um vilão em toda a obra.**
+- 🟢 **"Este não devia. Peço desculpas à família."** O bilhete. **Cortesia e atrocidade no mesmo
+  parágrafo** — é o que torna o personagem insuportável no melhor sentido.
+- 🟢 **O caderninho de bolso e o lápis.** Ele **inventaria** as pessoas amadas do protagonista na
+  frente dele. Ecoa a Val contando fichas no 227 — **os dois lados agora fazem contabilidade.**
+- 🟢 **"Não é ameaça. É cronograma."** **Frase da obra.**
+- 🟢 **"Eu era culpado. A cadeia era minha por direito."** **A decisão que salva o personagem de ser
+  caricatura:** ele não reivindica inocência. A queixa é exclusivamente sobre o **método**.
+- 🟢 **"Nós dois quebramos a mesma lei."** e **"eu paguei catorze anos, e o senhor virou herói da
+  cidade"**. **A acusação central do livro contra o próprio protagonista**, e ela é irrespondível.
+- 🟢 **"Eu não respondi. E não responder foi responder."**
+- 🟢 **"Ela terminou com o senhor por causa disso, não foi? (...) Foi porque ela leu o meu inquérito
+  e viu a data errada."** **Reescreve a Bia e o luto de duzentos capítulos.** Se isto for coerente
+  com o que os volumes anteriores estabeleceram sobre o fim do relacionamento, é a melhor revelação
+  do bloco; **se não for, é a contradição mais grave do fecho — verificar com prioridade máxima.**
+- 🟢 **"Eu quero que o senhor descubra que sempre pôde. E que a única coisa que separava o senhor de
+  mim era a sorte de a cidade te chamar de detetive."** **A tese do antagonista**, e ela é
+  filosoficamente sólida.
+- 🟢 **"O cheiro de catorze anos de lavanderia de presídio, o tipo de cheiro que não sai mais da
+  pessoa."** **E é um cheiro** — o livro fecha o motivo olfativo com um cheiro **real**, que não é
+  alucinação e não pode ser espantado com dor. Deliberado ou não, é brilhante.
+- 🟢 **"Sinto muito pelo seu funcionário."** / **"Como um homem indo para o turno."**
+- 🟡 **"Vinte e três de agosto, catorze anos atrás"** e **"faz catorze anos"** — mas a Bia terminou o
+  relacionamento **por causa deste inquérito** e morreu antes dos eventos do primeiro volume. **A
+  linha do tempo precisa comportar: inquérito → término → morte da Bia → morte da Aria → Apagão →
+  Colapso → hoje.** Com "quinze anos" de luta e "quatro anos" de Elena fora, **isso não fecha.**
+  É a terceira vez que o mesmo problema aparece no bloco final. **Montar a tabela cronológica antes
+  de qualquer outra correção.**
+- 🟡 **"Duarte" no início e "Duarte Falcão" na fala do Braga**, mas Elena diz que ele "tinha uma irmã
+  em Setor 9" — e o Elias, no 225, fala de "uma namorada em Setor 9". Coincidência inofensiva, mas
+  num capítulo tão preciso, chama atenção.
+- 🔵 **Restam 4 capítulos, e agora há DOIS antagonistas** (Krell a caminho, Braga voltando às onze).
+  **Não cabem os dois em quatro capítulos.** A recomendação: **fechar o Braga** — que é o
+  antagonista temático, aquele cuja acusação o protagonista precisa responder — **e deixar o Krell
+  explicitamente para o próximo volume.** Tentar resolver os dois vai enfraquecer ambos.
