@@ -6080,3 +6080,116 @@ inquérito".
   **Não cabem os dois em quatro capítulos.** A recomendação: **fechar o Braga** — que é o
   antagonista temático, aquele cuja acusação o protagonista precisa responder — **e deixar o Krell
   explicitamente para o próximo volume.** Tentar resolver os dois vai enfraquecer ambos.
+
+## Capítulo 230 — A Conta Antiga
+
+**A confissão que a trilogia inteira estava adiando, e ela é feita sentada no cascalho com um copo
+de uísque ruim.** O capítulo não tem ação nenhuma e é um dos cinco melhores do livro — porque
+reescreve o luto central do protagonista: **não foi a morte da Bia que o quebrou; foi ela ter
+morrido antes que ele pudesse se corrigir.**
+
+- 🟢 **"Porque não havia mais cemitério e nem quem administrasse um."**
+- 🟢 **A irmã de dezenove anos que veio a pé.** *"E a Elena disse que sim, e não era mentira, e mesmo
+  assim eu tive que sair de perto."* **Três linhas, e o custo humano do capítulo anterior está pago.**
+- 🟢 **"Deixou no chão, ao meu alcance."** A Elena não entrega o copo. **Um gesto, e a relação inteira
+  está descrita.**
+- 🟢 **"Nem lavou a mão."** / **"Perdemos duzentos e onze processos. O dele foi um."** O sistema
+  falhando por **hidrologia**, não por corrupção. Coerente com o mundo do livro.
+- 🟢 **"Ninguém nunca subiu num telhado numa segunda busca na história dessa polícia."** O método do
+  crime dele, contado com o mesmo rigor técnico com que ele descreveria o crime de outro.
+- 🟢 **"Falar em voz alta foi mais fácil do que eu imaginei em catorze anos de ensaio, e isso me
+  deixou pior."**
+- 🟢 **"Se eu tivesse feito trinta vezes, eu seria um policial corrupto e a conta seria simples."**
+  **A melhor formulação moral do livro.** A raridade do ato é o que o torna indefensável — porque
+  prova que foi **escolha**, não hábito.
+- 🟢 **"Era o melhor caso possível para se cruzar aquela linha." / "E olha onde a gente está."**
+- 🟢 **"Um erro de dois dias que ninguém nunca ia notar, porque ninguém lê inquérito arquivado."**
+- 🟢 **"Se você levar, eu vou com você e eu falo por você."** **A Bia inteira em uma fala**, e ela
+  torna a recusa dele muito pior.
+- 🟢 **"Eu passei a semana inteira construindo o argumento (...) e no sétimo dia ele era perfeito e
+  eu acreditei nele."** **A melhor descrição de racionalização que este livro produziu.**
+- 🟢 **"O que quebrou foi ela ter morrido antes de eu ter a chance de fazer a coisa certa."** e
+  **"quando ela morreu, virou segredo permanente"**. **Reescreve quinze anos de luto e o
+  ressentimento do protagonista** — e explica, retroativamente, por que ele **precisava** estar
+  sempre certo. Peça central da obra.
+- 🟢 **"Eu classifiquei essas recusas como ineficiência moral e as registrei como custo. Elas não
+  eram ineficiência."** **A melhor cena da Valéria depois do 221:** ela não perdoa nem consola —
+  **corrige um modelo**. E é a coisa mais parecida com compreensão que o Modo de Segurança
+  consegue produzir.
+- 🟢 **"Muda o modelo, não a avaliação."** / **"Mais previsível do que eu calculava, e mais caro."**
+- 🟢 **"Não me diz o número." / Ela fechou a boca.** Segundo uso (ver 224), e funciona como refrão.
+- 🟢 **"A única distinção entre nós é a quantidade de zeros. E eu, ao contrário do senhor, não passei
+  catorze anos fingindo que a distinção era de natureza."** **A Vance cobrando o preço da própria
+  humilhação** — e ela está certa. **Melhor fala dela em todo o livro.**
+- 🟢 **"Gente com uma frase verdadeira é a coisa mais difícil de matar que existe."** Fecho perfeito.
+- 🟡 **"Dezoito anos de polícia"** aqui, contra **"trinta e quatro anos de polícia"** no cap. 214.
+  **Contradição direta, e é a mesma aritmética que venho registrando desde o 214.** Com 18 anos de
+  carreira e idade de 40–45 (204), tudo fecha; **com 34, nada fecha. Adotar 18 e corrigir o 214.**
+  Esta é a solução mais barata para o item nº 2 da revisão.
+- 🟡 **"Catorze anos"** (Braga preso) e **"seis anos depois"** (a Bia descobre) e **"seis meses
+  depois"** (ela morre): **isso põe a morte da Bia oito anos antes de hoje**, não quinze. **Somar à
+  tabela cronológica.**
+- 🔵 **"Ele ia sair e voltar para a mesma vila onde estava a filha de quatro anos dele."** O motivo
+  real do protagonista era **proteger a Marta** — e o cap. 231 mostra o resultado. **Isto é
+  tragédia clássica bem construída;** não suavizar em nenhum dos dois capítulos.
+
+## Capítulo 231 — Catraca
+
+**O melhor capítulo do livro, e ele é uma conversa entre dois homens, um deles debaixo de uma
+rede.** O livro resolve o confronto físico em três linhas — *"funcionou perfeitamente"* — para
+gastar o capítulo inteiro no problema que a vitória não resolve. **É a tese da obra levada às
+últimas consequências: prender alguém não responde nada.**
+
+- 🟢 **"Funcionou. Funcionou perfeitamente. Foi a coisa mais assustadora que eu vi naquela semana."**
+  **A melhor subversão de cena de ação que este livro fez.**
+- 🟢 **"Boa, essa. O gatilho no barranco eu não vi." / "Não estou provocando. Estou elogiando."**
+- 🟢 **"Um som fino e regular de coisa mastigando devagar."**
+- 🟢 **"A cinta laranja do Duarte, enrolada no cinto dele, estava exatamente à minha altura dos
+  olhos."** O texto **nunca** deixa o leitor esquecer o assassinato enquanto constrói empatia. É o
+  equilíbrio mais difícil do livro, e ele acerta.
+- 🟢 **"Um prisioneiro consome uma pessoa em turno integral."** O problema logístico da justiça,
+  dito pela máquina.
+- 🟢 **"Vocês não pensaram nessa parte porque vocês são gente boa. Eu já tive catorze anos para
+  pensar em como se guarda uma pessoa."** **O prisioneiro explicando por que a prisão não funciona
+  é a melhor ironia estrutural da obra.**
+- 🟢 **"E eu volto andando. Vai levar uns onze dias e eu chego."** / **"Ele vai relaxar num dia
+  qualquer, e é nesse dia que eu chego."** **Ameaça sem uma palavra de ameaça.**
+- 🟢 **"O senhor sabe diferenciar o sujeito que fala grosso do sujeito que só está informando. Eu
+  estou informando."**
+- 🟢 **"E o pátio inteiro achou ótimo. (...) Teve gente que bateu palma." / "Eu levantei e fui pro
+  canto e vomitei atrás do bebedouro."** **A melhor cena de caracterização de antagonista da
+  trilogia.** Ele estabelece a própria humanidade **sem pedir nada em troca**.
+- 🟢 **"Eu já era assassino de mulher, mas eu ainda não era bicho. Naquela tarde eu decidi que ia
+  continuar não sendo."** **Frase da obra.**
+- 🟢 **"Mas eu não comemorei, Sr. Moretti. Tem diferença. É pouca, e é a única que eu tenho."**
+- 🟢 **"Setecentas e vinte e oito cartas, com a letra bonita, porque eu treinei a letra na cadeia
+  justamente pra isso."** — e o bilhete do cap. 229 estava **em letra de fôrma caprichada**.
+  **Plantado dois capítulos antes e pago aqui sem que o texto aponte.** Melhor detalhe do bloco.
+- 🟢 **"Carta que não é respondida ainda é carta."**
+- 🟢 **"Num abrigo da escola municipal que encheu porque não coube todo mundo e as portas foram
+  fechadas por fora."** A morte da Marta é **administrativa**, como tudo neste livro. Coerência
+  temática absoluta.
+- 🟢 **"As nossas duas meninas, na mesma água, no mesmo mês."** **O clímax emocional da trilogia**, e
+  ele é dito por um assassino debaixo de uma rede.
+- 🟢 **"E é o não saber que eu não aguento."** **A definição mais precisa de luto sem desfecho no
+  livro inteiro** — e ecoa "a pasta mais aberta que ele tem" (220). **O antagonista e o pai do
+  protagonista dizem a mesma coisa com palavras diferentes.** Se foi deliberado, é a melhor rima
+  da obra.
+- 🟢 **"Eu perdi a minha filha porque um cara qualquer teve pressa numa terça-feira."**
+- 🟢 **"Não é a sua morte. É uma resposta."** e o dilema fechado dos dois lados (matar = confirmar
+  que não houve justiça; não matar = ele volta e mata os outros). **A armadilha moral está
+  logicamente selada** — não há saída barata disponível para o cap. 232. **Este é o teste final do
+  livro: qualquer solução esperta trai o capítulo.**
+- 🟢 **"Eu tive catorze anos. O senhor tem até de manhã."** **Melhor última linha da obra até aqui.**
+- 🟡 **"Dois mil e sessenta e nove"** — **primeira data absoluta em 231 capítulos.** Ela conflita com
+  o documento de **1922** (cap. 214) e com a fundação "há sessenta e um anos" (219). Se o presente
+  é ~2083 (69 + 14), a Aeterna teria sido fundada por volta de 2022 e o documento "embrionário" de
+  1922 fica **cem anos** antes dela. **Ou a data de 214 é 2022, ou esta é outra. Corrigir uma das
+  duas — e é a última chance de fazê-lo.**
+- 🟡 **"A espingarda de cano duplo dos Rossi"** — família citada uma vez só, sem contexto, no
+  antepenúltimo capítulo. Se é referência a um arco anterior, tudo bem; se não, cortar o
+  sobrenome.
+- 🔵 **O Krell não aparece neste capítulo nem é mencionado.** Restam **dois**. Confirma-se a
+  recomendação do 229: **o livro escolheu fechar o Braga.** É a escolha certa — **mas o cap. 232 ou
+  233 precisa dizer explicitamente que o Krell fica para depois**, ou o leitor vai ler como fio
+  esquecido em vez de gancho.
