@@ -6412,3 +6412,206 @@ O cap. 97 planta isso corretamente ("tem atividade cerebral, baixa mas regular")
 
 O erro real era outro: **o cap. 60 já falava "desde o casulo"**, trinta e sete capítulos antes de o
 casulo existir. Removido.
+
+---
+
+# 🔎 SEGUNDA PASSADA — auditoria global (cruzando capítulos distantes)
+
+A primeira revisão foi capítulo a capítulo, e por isso é cega para o que só aparece quando se
+cruzam capítulos separados por dezenas de posições. Esta passada é o contrário: parte de fatos
+verificáveis (nomes, datas, mortes, frontmatter, aberturas) e varre os 235 arquivos atrás de
+colisões. O que segue **não repete** nada da primeira lista.
+
+---
+
+## 🔴 1. O Taxidermista nunca é derrotado
+
+**É o maior fio solto do livro, e é o vilão que abre a obra.**
+
+Ele mata as vítimas dos caps. 1 e 3, é soterrado no cap. 24, volta sem explicação no 47, e a partir
+daí é o antagonista central por mais de sessenta capítulos (105, 114–118, 132–146, 152–165). O
+cap. 161 fecha com uma promessa explícita:
+
+> *"O Taxidermista estaria esperando, a lógica fria de Aria seria sua única bússola, e a dor, a
+> única âncora de Gabo na Noite Eterna."*
+
+O cap. 162 reforça: *"se ficarmos aqui, o Taxidermista nos enterra assim que a energia primária
+reiniciar."*
+
+**E ele nunca mais aparece.** Do cap. 166 em diante só existe no passado — *"o Taxidermista curtia
+brincar com carne"* (166), *"ele era apenas um discípulo"* (168), *"o horror do meu pai superava
+qualquer teatro que o Taxidermista havia construído"* (169). Não há confronto, morte, prisão ou
+fuga. O livro simplesmente muda de assunto para o wetware do Dante e depois para a superfície.
+
+No cap. 227, quando o protagonista faz a lista dos antagonistas, o Taxidermista aparece como item
+resolvido — *"era um doente que a cidade do Krell deixou solto"* —, mas **o leitor nunca viu isso
+acontecer**.
+
+**Recomendação:** ele precisa de uma cena de encerramento entre os caps. 163 e 170. Não precisa ser
+uma luta: uma descoberta do corpo dele digerido pela própria biomassa, ou uma última transmissão,
+resolveria — mas alguma coisa tem de acontecer na página.
+
+## 🔴 2. Mortes que não pegam: o inventário completo
+
+| personagem | morre em | volta em | versões incompatíveis do destino |
+|---|---|---|---|
+| **Roberto Miranda** | cap. 13 (entregue à multidão, risada "silenciada" no poço) | 23, 51, 53, 54, 55, 58, 64, 65, 66, 67, 68, 72, 73, 79, 101, 102, 103, 104 | **cinco**: linchado (13); baleado pelo Gabo (23); levado pela correnteza (65); corpo inteiro na árvore do Jardim, *"sem nada de titânio"* (95); **capturado pela Aeterna na queda da Torre** e fundido a uma cadeira (101) |
+| **Kael** | cap. 30 (eletrocutado, *"estático e morto"*) | 36, 53, 70, 71, 72 | reconstruído (53), depois revelado como o Santo (70–71) |
+| **Taxidermista** | cap. 24 (soterrado) | 47 em diante | ver item 1 — nunca encerrado |
+| **Dra. Nise** | cap. 11 (deixada para trás, tratada como morte heroica) | 38 em diante | resgatada "de um comboio médico emboscado", em nota de rodapé |
+
+O caso do **Miranda é o mais grave**: cinco destinos mutuamente exclusivos, e o do cap. 95 (corpo
+íntegro dentro do Jardim) é incompatível com o do cap. 101 (vivo, meio ciborgue, fundido a uma
+cadeira) — os dois separados por seis capítulos.
+
+## 🔴 3. A morte do Rangel tem três causas e dois lugares
+
+Ele morre no **cap. 150**, de **parada cardíaca**, no fim da travessia da passarela — e o cap. 170
+confirma corretamente (*"virar peso morto em uma passarela oxidada"*). Mas:
+
+- **cap. 151:** *"a ferrugem e a **falência hepática** haviam vencido"*
+- **cap. 159:** *"Rangel morreu **naqueles dutos**"*
+- **cap. 120** (bloco de metadados publicado): *"Rangel **sucumbe aos ferimentos**"* — **trinta
+  capítulos antes de ele morrer**
+
+## 🔴 4. A cronologia tem TRÊS anos-presente diferentes
+
+Esta é a contradição mais extensa do livro, e a primeira passada só via pedaços dela. Levantando
+**todas** as datas absolutas:
+
+| cap. | data no texto | implicação |
+|---|---|---|
+| 110 | `DATA: 14/11/2089` | presente = **2089** |
+| 128 e 129 | `date: "2078-11-04"` + *"Quem projeta uma estação de bombeamento com agulhas de pressão **em 2078**?"* | presente = **2078** |
+| 231 | Braga sabe da filha do Gabo *"desde **dois mil e sessenta e nove**"*, e está preso há catorze anos | presente ≈ **2083** |
+| 56 | *"protocolo municipal **2088**/61"* | presente ≥ 2088 |
+| 18 | `D. MORETTI — **2041** — REGISTRO CLÍNICO ORIGINAL`, e Dante tem **52 anos** nesse registro | Dante nasce ≈ 1989 |
+| 169 | `SUJEITO 01 — DOAÇÃO VOLUNTÁRIA — **14.03.1994**` / *"Indigente, 1994. **Autorizado por D. Moretti**"* | 🔴 **Dante teria cinco anos de idade ao autorizar** |
+| 131 | Necrópole fundada em **1920**; ossuário desativado em **1931**; propriedade transferida em **1934**; seis mudanças de razão social entre 1934 e **1989** → Aeterna Corporation | fundação da cidade nos anos 1920 |
+| 219 | Aeterna S.A. registrada *"há **sessenta e um anos**"* | ≈ 2028 (se 2089) ou ≈ 2017 (se 2078) |
+| 120 | *"Lei de Ar Limpo de **2045**"* | — |
+| 41 | diques do Distrito Baixo erguidos *"no ano **vinte e dois**"* | coerente com 1920/1922 |
+
+**Os três choques que precisam de decisão:**
+
+1. **2078 vs 2089 vs 2083.** Onze anos separam o cap. 110 dos caps. 128/129, com dezenove capítulos
+   entre eles e ambos em novembro. Escolher um ano e converter os outros dois.
+2. **O Sujeito 01 de 1994 autorizado por D. Moretti é impossível** com o Dante de 52 anos em 2041.
+   Ou a data do documento sobe umas cinco décadas, ou a autorização é de outro Moretti (o **avô**,
+   o que seria uma boa reviravolta, mas precisa ser dito).
+3. **A idade da Aeterna tem duas contas:** o cap. 131 a faz herdeira direta de uma companhia de
+   cemitérios de **1920/1934** que adota o nome "Aeterna" em **1989**; o cap. 219 a registra como
+   funerária **há sessenta e um anos**. As duas versões contam a mesma história — a corporação
+   nasceu enterrando gente — mas com meio século de diferença. **A do 219 é a que o final usa;
+   alinhar o 131 a ela é a correção mais barata.**
+
+**Correção de um erro meu:** na rodada anterior eu troquei a data do documento do cap. 214 de
+*"mil novecentos e vinte e dois"* para *"dois mil e dezenove"*, achando que 1922 era resíduo. Estava
+errado — 1922 conversa com os diques do cap. 41 e com a fundação de 1920 do cap. 131. **Revertido.**
+
+## 🔴 5. Quarenta e sete capítulos publicam o próprio resumo
+
+Os capítulos **120 a 169** não usam frontmatter YAML. Eles abrem com um bloco visível:
+
+```
+## Metadados
+- **Título:** ...
+- **Data In-Game:** ...
+- **Personagens Presentes:** ...
+- **Resumo:** ...
+
+## Narrativa
+
+# Capítulo N: ...
+```
+
+Isso não é metadado: **é texto publicado**. O leitor do site abre o capítulo e lê, antes da primeira
+linha da narrativa, um resumo que entrega o que vai acontecer. O cap. 131 chega a entregar a
+revelação central — *"a Necrópole entrega a primeira pista do que a Aeterna comprou em 1920"* — e o
+cap. 150 anuncia a morte do Rangel no resumo do próprio capítulo em que ela acontece.
+
+**É o defeito de produção mais caro do livro**, e é o mais fácil de corrigir: converter os 47 blocos
+em frontmatter YAML.
+
+## 🟡 6. Seis formatos de frontmatter convivendo
+
+| formato | quantos | capítulos |
+|---|---|---|
+| `Personagens Presentes` + `image` | 72 | 1–17, 19–31, 30.5… |
+| `Título` + `Data In-Game` + `Localização` + `Personagens Presentes` | 63 | 171–233 |
+| `layout` + `title` + `description` + `image` + `Personagens Presentes` | 49 | 18, 28, 32, 33, 35, 37–39, 42–50, 56–75… |
+| `title` + `date` + `location` + `characters` (**chaves em inglês**) | 12 | 156–167 |
+| só `image` | 3 | 122, 168, 169 |
+| bloco `## Metadados` (sem frontmatter) | 32 | 120–155 |
+
+Some-se: **78 capítulos sem campo `image`** (128–233 quase inteiro) e **18 com imagem fora do
+padrão** — `/cidade.jpg` repetida nos caps. 43, 52 e 65, e `/cenas/cidade.jpg` repetida nos caps.
+109, 112, 114, 115, 116, 118 e 119. **Sete capítulos dividindo a mesma ilustração genérica.**
+
+## 🟡 7. O elenco do frontmatter não bate com o texto
+
+Auditoria automática dos 121 capítulos que declaram `Personagens Presentes`:
+
+- **88 casos** de personagem que aparece no texto e **não está** no elenco (Miranda nos caps. 3, 4,
+  22, 24; Vilar nos caps. 22, 23, 40, 48; Elena nos caps. 17, 46, 50; Valéria nos caps. 5, 31, 40;
+  Krell no 7; Marco nos caps. 12 e 13; Rangel no 41…).
+- **33 casos** do inverso — listado e ausente. Descontando os capítulos em primeira pessoa (onde
+  "Gabo" nunca é nomeado, o que é normal), sobram: **Aria** listada e ausente nos caps. 30.5, 61,
+  62, 69, 72 e 109 (o texto a chama só de "a menina" — ver a nota do cap. 59), **Silas Vance** nos
+  caps. 79 e 91, **Miranda** no 67 e **"O Guardião" (Fantasma)** no 181.
+
+**Isto não é cosmético:** o manifesto de geração de imagens lê essa lista. Elenco errado = referência
+de personagem errada na ilustração do capítulo.
+
+## 🟡 8. Cinco títulos usados duas vezes
+
+| título | capítulos |
+|---|---|
+| O Ventre da Besta | **100** e **128** |
+| Ressonância | **101** e **125** |
+| Raízes Amargas | **102** e **141** |
+| Frequência Fantasma | **109** e **126** |
+| O Peso da Ferrugem | **176** e **207** |
+
+O conteúdo é diferente nos dez casos — não há capítulo duplicado. Mas num índice de 235 entradas,
+cinco títulos repetidos confundem a navegação e sugerem descuido. Vale renomear o segundo de cada
+par.
+
+## 🟡 9. Metade do livro abre com a mesma fórmula
+
+**111 dos 235 capítulos** começam com um substantivo sensorial precedido de artigo:
+
+| abertura | vezes | capítulos |
+|---|---|---|
+| "A chuva…" | **14** | 1, 2, 22, 41, 49, 51, 53, 56, 75.5, 108, 120, 176, 177, 184 |
+| "O silêncio…" | **13** | 19, 28, 125, 132, 135, 144, 156, 158, 161, 164, 168, 170, 215 |
+| "O cheiro…" | **8** | 5, 24, 69, 77, 102, 122, 128, 137 |
+| "O som…" | **8** | 47, 50, 79, 99, 101, 126, 130, 163 |
+| "O ar…" | 5 | 15, 95, 133, 136, 211 |
+| "A escuridão…" | 5 | 16, 127, 181, 190, 207 |
+| "A porta…" | 5 | 62, 117, 131, 189, 218 |
+| "O primeiro…" | 5 | 37, 104, 134, 191, 229 |
+
+Isoladas, todas funcionam. Em sequência, viram tique — e o leitor de maratona sente antes de saber
+por quê. **Sugestão:** trocar metade das aberturas de "A chuva" e "O silêncio" por entrada em ação,
+fala ou objeto.
+
+## 🟡 10. Os olhos da Valéria mudam de cor quatro vezes
+
+**violeta** (cap. 8) → **prateados / de prata** (caps. 16, 19, 22, 24, 48, 49) → *"como mercúrio
+vivo"* ao sair do casulo (cap. 105) → **azuis** (caps. 168, 182, 214, 232, e todo o arco final).
+
+A passagem prateado → azul nunca é explicada, e o casulo do cap. 105 seria o lugar perfeito para
+explicá-la — ele até muda a cor, mas para prateado, que é o que ela já era. **Fazer o casulo entregar
+o azul resolve as quatro variações de uma vez.**
+
+## 🟢 11. O que a auditoria mostrou de bom
+
+- **Zero frases copiadas entre capítulos.** Uma varredura de todas as sentenças com 55+ caracteres
+  nos 235 arquivos não encontrou **nenhuma** reaproveitada. Num livro deste tamanho, escrito ao
+  longo de muito tempo, isso é notável.
+- **Nenhum capítulo duplicado**, apesar dos cinco títulos repetidos.
+- **A numeração é íntegra:** 233 capítulos sequenciais mais 30.5 e 75.5, sem buracos e sem
+  cabeçalho `# Capítulo N` divergente do nome do arquivo.
+- **A morte do Rangel é sustentada** por três capítulos independentes (150, 159, 170) — o problema
+  é só a causa, não o fato.

@@ -159,11 +159,11 @@ Uma árvore invertida. Todos os ramos apontando para baixo.
 
 — Embrionária.
 
-— O termo é do documento original. Datado de dois mil e dezenove.
+— O termo é do documento original. Datado de mil novecentos e vinte e dois.
 
 ---
 
-Dezenove.
+Vinte e dois.
 
 O ano em que ergueram os diques do Distrito Baixo. O ano em que a Companhia Baía de Terrenos e Cemitérios comprou o ossuário dos indigentes.
 
