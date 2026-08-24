@@ -63,7 +63,7 @@ Encostei a testa na parede fria e fiquei ali, respirando, como um homem que desc
 
 — Eu não estou impedindo. Estou registrando.
 
-Ela passou por mim. Os passos dela naquele piso não faziam barulho nenhum, e o azul fraco dos olhos sintéticos varria as paredes em arcos regulares, metódicos, sem um grau de desperdício. Eu observei a Valéria trabalhar e senti a coisa de sempre — aquele aperto sujo entre as costelas que eu não sabia nomear e não tinha coragem de tentar.
+Ela passou por mim. Os passos dela naquele piso não faziam barulho nenhum, e o azul fraco das lentes varria as paredes em arcos regulares, metódicos, sem um grau de desperdício. Eu observei a Valéria trabalhar e senti a coisa de sempre — aquele aperto sujo entre as costelas que eu não sabia nomear e não tinha coragem de tentar.
 
 Ela nem olhava para trás para conferir se eu vinha.
 

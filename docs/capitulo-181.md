@@ -37,13 +37,13 @@ Apertei os olhos contra a penumbra. Atrás do vidro sujo de uma fenda de observa
 
 O Fantasma riu, uma tosse seca e escabrosa.
 
-— Força bruta não abre travas de titânio de grau corporativo, detetive. Mas sabe o que abre? Filtros de água não contaminada. Baterias de plasma. Ou talvez aquela unidade autônoma que está caminhando com você, sem expressar um pio sobre o fato de vocês dois estarem cobertos de esporos fúngicos. Ela deve ter peças que valem meu tempo.
+— Força bruta não abre travas de titânio de grau corporativo, detetive. Mas sabe o que abre? Filtros de água não contaminada. Baterias de plasma. Ou talvez os implantes militares que essa sua amiga está carregando, sem expressar um pio sobre o fato de vocês dois estarem cobertos de esporos fúngicos. Aquilo ali vale meu tempo.
 
 Valéria virou o rosto na direção da escotilha. Seus olhos não piscaram.
 
 — Avaliação de risco: o indivíduo "Fantasma" possui controle sobre travas herméticas secundárias no duto acima. Probabilidade de inundação letal em caso de invasão armada: oitenta e sete por cento. Ação agressiva contra-indicada.
 
-— Ouviu a máquina, amigão — disse o homem. — Então, qual vai ser o acordo?
+— Ouviu a moça, amigão — disse o homem. — Então, qual vai ser o acordo?
 
 Dei um passo para trás, a cabeça pesada. Minha bússola moral, já arranhada, avisou-me do custo de negociação ali. Eu estava lidando com a escória extorquindo sobreviventes em um mundo desmoronando, mas Valéria estava certa. Não tínhamos luxo de explodir tudo, e eu não daria peças dela em troca.
 

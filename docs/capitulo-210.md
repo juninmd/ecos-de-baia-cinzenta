@@ -21,7 +21,7 @@ Eu não deixaria a mente me destruir antes do metal. Bati minha prótese brutalm
 
 — Puxa, Valéria! Puxa com tudo! — gritei.
 
-A andróide começou a girar a roldana emperrada. O cabo estalou. O som metálico angustiante de um eixo cedendo se misturou ao atrito infernal das minhas botas raspando no concreto vertical. Elias, apavorado, tentou ajudar segurando o final do cabo.
+Ela começou a girar a roldana emperrada. O cabo estalou. O som metálico angustiante de um eixo cedendo se misturou ao atrito infernal das minhas botas raspando no concreto vertical. Elias, apavorado, tentou ajudar segurando o final do cabo.
 
 Meio metro. O gancho acima rangeu de forma doentia, pó de ferrugem chovendo nos meus olhos. O cheiro de ferro puro entrou no meu nariz, agudo, cru, ancorando-me na realidade de Baía Cinzenta.
 

@@ -37,7 +37,7 @@ Soltei um grito dilacerado e rolei para o lado, cuspindo uma bolha de sangue que
 
 — Irracional é ficar assistindo essa merda continuar a existir, — engasguei, me pondo de pé, as pernas mecânicas protestando de exaustão e curtos-circuitos esparsos ainda faiscando sobre meu ombro. A dor mantinha o mundo focado. Eu respirava ar sujo, mas respirava.
 
-Caminhei até onde Valéria estava. Ela passava os dedos sintéticos por uma interface manchada de lodo. As linhas de código que passavam no terminal eram dezenas de consciências engarrafadas do velho mundo sendo torturadas em loop pelo Jardim para reescrever senhas e protocolos operacionais mortos.
+Caminhei até onde Valéria estava. Ela passava os dedos por uma interface manchada de lodo. As linhas de código que passavam no terminal eram dezenas de consciências engarrafadas do velho mundo sendo torturadas em loop pelo Jardim para reescrever senhas e protocolos operacionais mortos.
 
 — Eles não estão apenas tentando sobreviver. O Jardim quer a cidade. Eles querem usar esses servidores para se conectar à grade urbana, transformar a chuva e os dutos na mesma imundície que tá aqui embaixo, — murmurei, apoiando a pesada prótese metálica sobre o console principal de acesso, rangendo os dentes contra a dor persistente.
 

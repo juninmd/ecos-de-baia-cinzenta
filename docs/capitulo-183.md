@@ -11,7 +11,7 @@ O cemitério de carcaças industriais se estendia como um mar de esqueletos de a
 
 Valéria caminhava dois metros à minha esquerda. O Modo de Segurança apagou as nuances dos seus movimentos. Ela não desviava do lixo ou procurava o melhor ângulo; ela caminhava em linha reta, otimizando energia. Uma máquina pálida e indiferente à desolação que nos cercava.
 
-— Múltiplas fontes térmicas detectadas a oitenta metros, vetor norte. — A voz sintética de Valéria cortou o ruído do vento tóxico. — Assinaturas inconsistentes. Probabilidade de motor de combustão modificado: 92%. Probabilidade de hostis: 88%.
+— Múltiplas fontes térmicas detectadas a oitenta metros, vetor norte. — A voz plana de Valéria cortou o ruído do vento tóxico. — Assinaturas inconsistentes. Probabilidade de motor de combustão modificado: 92%. Probabilidade de hostis: 88%.
 
 — Eles nos viram? — perguntei, a garganta seca raspando a cada sílaba.
 

@@ -19,7 +19,7 @@ Elias olhava para o meu ombro sangrando com os olhos arregalados de um vira-lata
 Valéria interrompeu a histeria com a precisão implacável de um metrônomo.
 — Análise de fluido vital: Gabo perdeu aproximadamente novecentos mililitros de sangue. A taxa de coagulação natural é insuficiente. Recomendo cauterização imediata com os fios desencapados do conduíte central para evitar falência sistêmica durante o trajeto.
 
-Ela não demonstrou preocupação. Seus olhos sintéticos não tinham espaço para empatia, apenas apontavam uma falha mecânica no equipamento avariado que eu era.
+Ela não demonstrou preocupação. Os olhos dela não tinham espaço para empatia, apenas apontavam uma falha mecânica no equipamento avariado que eu era.
 
 — Não temos tempo, — rosnei, me arrastando para a entrada do duto circular. O metal sujo congelou a palma da minha mão não biológica. O chão sob nossos pés vibrava levemente; o inferno do Jardim ainda devorava o andar inferior e a temperatura do fosso subia rápido. — Se eu cauterizar, a dor diminui. Eu preciso da dor.
 

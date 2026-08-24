@@ -149,7 +149,7 @@ Ela ficou me olhando por trezentos milissegundos, que é o tempo que ela leva pa
 
 ---
 
-Ela foi até a parede oeste e cravou os dedos sintéticos no concreto enferrujado com precisão matemática, encontrando ponto de apoio onde eu não via ponto nenhum.
+Ela foi até a parede oeste e cravou os dedos no concreto enferrujado com precisão matemática, encontrando ponto de apoio onde eu não via ponto nenhum.
 
 Começou a escalar a escuridão sem fazer barulho.
 

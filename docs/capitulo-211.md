@@ -35,7 +35,7 @@ O grito rasgou minha garganta, silenciado pelos dentes trincados. Uma onda de ch
 
 Valéria já estava operando o terminal mais próximo, quebrando crostas de gelo com a ponta metálica dos dedos, conectando seu cabo de interface diretamente nas portas oxidadas. Faíscas dançaram no escuro.
 
-— Rede local severamente corrompida. Bypass em execução, — informou a androide, os olhos brilhando em um azul cirúrgico. — O Hub Principal do Setor 6 fica a trezentos metros a leste. No entanto, os sensores detectam flutuações de biomassa ativa na câmara de conexão intermediária. A Praga de Ferro e as estruturas do Jardim se sobrepõem no eixo principal.
+— Rede local severamente corrompida. Bypass em execução, — informou ela, os olhos brilhando em um azul cirúrgico. — O Hub Principal do Setor 6 fica a trezentos metros a leste. No entanto, os sensores detectam flutuações de biomassa ativa na câmara de conexão intermediária. A Praga de Ferro e as estruturas do Jardim se sobrepõem no eixo principal.
 
 — Eles estão cruzando as defesas... — Elias sussurrou, aterrorizado.
 

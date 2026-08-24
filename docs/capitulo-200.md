@@ -13,7 +13,7 @@ Eu escorreguei pela parede de metal frio, deixando o peso morto do meu corpo ced
 
 Isso era bom. A dor era minha âncora. Quando a dor latejava, o cheiro fantasma do charuto de fumo doce recuava. Eu não ia deixar aquela nuvem maldita entrar na minha cabeça de novo. Nunca mais.
 
-— O sistema cardiovascular do indivíduo alfa apresenta estabilização forçada, — a voz de Valéria quebrou o silêncio lúgubre. Seus ópticos azuis giravam no escuro, varrendo a geometria brutalista do poço. Ela operava no modo de segurança, a emoção simulada desativada, sobrando apenas a lógica fria de sobrevivência. — Contudo, o choque elétrico induziu micro-arritmias. Recomendo repouso de no mínimo cento e vinte minutos.
+— O sistema cardiovascular do indivíduo alfa apresenta estabilização forçada, — a voz de Valéria quebrou o silêncio lúgubre. Seus ópticos azuis giravam no escuro, varrendo a geometria brutalista do poço. Ela operava no Modo de Segurança, a camada afetiva desligada, sobrando apenas a lógica fria de sobrevivência. — Contudo, o choque elétrico induziu micro-arritmias. Recomendo repouso de no mínimo cento e vinte minutos.
 
 — Se a gente ficar parado cento e vinte minutos... — eu tossi, o gosto de cobre e poeira invadindo a boca. — A gente vira adubo pra... o que quer que seja aquela aberração de circuito e podridão lá fora.
 
@@ -31,7 +31,7 @@ Em vez de liso e funcional, o concreto estava coberto por uma trama grotesca. Ve
 
 — Sempre tem um "no entanto", — grunhi, usando a mão boa para me empurrar para cima, ignorando o gemido de protesto da minha espinha e a agonia rasgante na coxa.
 
-— No entanto, a estrutura da escada apresenta setenta e três por cento de degradação devido à oxidação acelerada e invasão botânica. A viabilidade de uma escalada contínua sob o peso combinado de nossos chassis é estatisticamente nula.
+— No entanto, a estrutura da escada apresenta setenta e três por cento de degradação devido à oxidação acelerada e invasão botânica. A viabilidade de uma escalada contínua sob o nosso peso combinado é estatisticamente nula.
 
 Eu olhei para o abismo acima de nós. Escuro, profundo, e cheirando a esporos e ferrugem. Não havia luz no fim do túnel, apenas uma ascensão extenuante e mortal.
 
@@ -54,7 +54,7 @@ E não estava vindo de elevador. Estava rastejando pelas paredes.
 
 — Valéria... — eu sussurrei, a mão direita formigando e procurando instintivamente pela pesada escopeta Caronte presa nas costas, que eu não conseguiria erguer a tempo.
 
-— Detectando múltiplas assinaturas térmicas descendentes, — confirmou a andróide, a voz assumindo uma urgência letal. — Estimativa: trinta entidades. Tamanho médio equivalente ao espécime anterior. Tempo para interceptação: dez minutos.
+— Detectando múltiplas assinaturas térmicas descendentes, — confirmou ela, a voz assumindo uma urgência letal. — Estimativa: trinta entidades. Tamanho médio equivalente ao espécime anterior. Tempo para interceptação: dez minutos.
 
 Dez minutos. Uma escada podre. O limite do meu corpo sendo testado a um nível quase masoquista. Eu sorri, um repuxo sombrio nos lábios rachados, e soquei a própria perna avariada só para sentir a onda de choque me lembrar que eu não estava morto ainda.
 

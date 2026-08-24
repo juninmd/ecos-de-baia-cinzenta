@@ -33,6 +33,6 @@ Engatilhei a escopeta com uma das mãos, o som metálico reverberando como um tr
 
 — A Praga consome calor e metal, Elias. Isso soa diferente, — respondi, forçando meu corpo destroçado a continuar o rastejo em direção ao desconhecido. A escuridão à frente parecia densa o suficiente para cortar com uma faca, mas a dor no meu ombro me mantinha letalmente desperto. — Valéria, prepare-se para contato.
 
-— Sistemas de combate operando em capacidade otimizada, — a resposta gelada da máquina cortou o silêncio lúgubre.
+— Sistemas de combate operando em capacidade otimizada, — a resposta gelada dela cortou o silêncio lúgubre.
 
 Não havia espaço para manobrar. Não havia recuo. Estávamos descendo para o ventre de uma cidade que há muito tempo devorava os seus filhos, e eu não pretendia ser a próxima refeição sem arrancar alguns dentes no processo.

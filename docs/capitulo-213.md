@@ -13,7 +13,7 @@ No fundo da câmara, avultava o Portão do Hub Principal do Setor 6. Uma abóbad
 
 — Bloqueio físico absoluto. Os protocolos primários da porta exigem reinicialização local, mas a interface foi fisicamente aniquilada pelo colapso estrutural, — informou Valéria, a luz de seus receptores óticos rastreando as toneladas de sucata caídas. — Existe uma válvula de override manual à direita da moldura.
 
-Sua cabeça sintética girou lentamente na direção de uma pesada engrenagem vermelha encrustada na parede de cimento, parcialmente engolida por estalactites de gelo sujo.
+A cabeça dela girou lentamente na direção de uma pesada engrenagem vermelha encrustada na parede de cimento, parcialmente engolida por estalactites de gelo sujo.
 
 — A pressão estática nas travas de titânio é de aproximadamente seis mil libras por polegada quadrada. O destravamento exige força motriz extrema rotacional. Probabilidade de sucesso orgânico é de três vírgula dois por cento, — concluiu ela.
 

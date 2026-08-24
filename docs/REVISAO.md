@@ -6335,3 +6335,80 @@ E o registro que vale mais que a lista: **os capítulos 204, 209, 214, 218, 219,
 228, 229, 230, 231, 232 e 233 formam o melhor bloco da obra**, e estão escritos num registro
 diferente do resto — períodos curtos, digressão em primeira pessoa, humor seco, recusa de explicar.
 **Se houver uma passada final de estilo no livro inteiro, é esta voz que deve ser perseguida.**
+
+---
+
+# ✅ DECISÕES DE CÂNONE APLICADAS AO TEXTO
+
+Três contradições estruturais foram resolvidas **no texto**, não só apontadas. Registro aqui a
+regra escolhida, para que qualquer revisão futura não desfaça a correção sem saber o motivo.
+
+## 1. Valéria Cruz é humana. Sempre foi.
+
+**O problema:** até o cap. 167 ela é uma pessoa com implantes pesados (cortada da Rede aos
+dezenove, cap. 38; "uma pessoa de vinte e três anos", cap. 49; as luvas táticas dela queimam nos
+dedos ao tocar o chassi da Aria, cap. 167). **A partir do cap. 171 ela vira androide** — "rosto
+sintético", "chassi", "córtex sintético", "eu não respiro", hibernação de sessenta anos — **sem
+nenhuma cena de transformação**. A causa provável é contaminação: quem era androide era a **Aria**
+(caps. 116–124, "a androide com o rosto de Bia"), e depois que a Aria morre os atributos dela
+migram para a Val.
+
+**A regra agora:** Valéria é humana, com um conjunto de implantes neurais e óticos de grau militar.
+O **Modo de Segurança** não é um modo de máquina: é a **camada afetiva do conjunto neural dela**,
+desligada por ela mesma durante o *hard reset* na clínica do Vasco (caps. 174–175) para não fritar
+o próprio córtex junto com os implantes. O que ela perdeu foi a regulação do afeto, não a alma —
+e é por isso que ela consegue amputar, deixar alguém para trás e calcular a própria morte sem
+hesitar.
+
+**O que mudou no texto (≈55 trechos, caps. 170–231):** "chassi" → corpo/carcaça; "androide" →
+ela/Valéria; "rosto/pele/cabeça sintética" → descrição humana; "córtex sintético" e "núcleos
+primários" → interface neural e implantes primários; "a máquina" como epíteto dela → nome ou
+pronome (as ocorrências claramente **metafóricas** foram mantidas — "uma máquina calculando
+probabilidades", "segui a máquina que um dia foi a minha parceira" — porque com uma personagem
+humana elas ficam mais fortes, não mais fracas). "Olhos sintéticos", "lentes", "braço biônico" e
+"implantes" **foram mantidos**: são compatíveis com uma humana altamente implantada.
+
+**A cena do cap. 224 foi reescrita.** A oferta dela dependia de não respirar e hibernar quarenta a
+sessenta anos. Agora ela se oferece para segurar o came com os reforços de ancoragem — setenta e
+dois segundos antes de os pontos de fixação arrancarem do esqueleto dela — e **morrer ali**, de
+hemorragia, em onze a dezenove minutos, com a comporta fechada do lado errado. A troca ficou:
+
+> — Você está falando de morrer aqui embaixo. Sozinha. No escuro. Consciente.
+> — Estou falando de gastar uma pessoa para tirar quatro toneladas de prova de dentro de um cofre.
+> **Em Modo de Segurança essa conta é trivial, e ela fecha. É por isso que eu sou a escolha correta.**
+
+Perdeu-se *"sessenta anos e sessenta segundos têm o mesmo valor subjetivo"*. Ganhou-se uma mulher
+oferecendo a própria vida com a mesma frieza — o que torna a recusa do Gabo mais dura e mantém
+intacta a leitura do cap. 224: **ela não religou a camada afetiva porque precisava das mãos firmes
+para o último serviço.**
+
+## 2. A Aria é a filha do Gabo.
+
+Eram **duas** versões, não três. Os caps. 59, 62, 226 e 228 sustentam a mesma: a filha morreu
+afogada aos cinco anos na enchente e teve o **padrão coletado** ("MORETTI, A. — substrato ideal:
+ausência de trauma acumulado, arquitetura em formação, custo de manutenção mínimo", cap. 228).
+Só o cap. 69 dizia outra coisa — *"ELA NÃO É A ARIA. NUNCA FOI. ELA É SUA IRMÃ"*, montada a partir
+do material genético da mãe.
+
+**O cap. 69 foi reescrito** para a versão que o final paga. O que o Dante confessa agora não é o
+parentesco, é **a escolha do rosto**:
+
+> `É A SUA FILHA, GABRIEL. ELES COLETARAM O PADRÃO DELA NO DIA EM QUE A ÁGUA SUBIU.`
+> `FUI EU QUE ESCOLHI O ROSTO. ELE NÃO É O DELA. É O DA BIA — PORQUE COM O ROSTO CERTO VOCÊ NÃO IA
+> CONSEGUIR OLHAR DUAS VEZES.`
+
+A vergonha e o pedido de desculpas continuam, mudando de objeto: de *"te chamei por um nome que não
+é o seu"* para *"olhei pra você todo esse tempo e vi outra pessoa"* — que agora amarra direto com a
+confissão do cap. 226. A resposta dela (*"eu gosto do nome, é a única coisa que alguém me deu de
+graça"*) foi mantida. Saiu também a "órfã que ele protegeu numa chuva quinze anos antes": era uma
+terceira origem sem cena nenhuma atrás dela, e o reconhecimento agora aponta para o orelhão do
+cap. 2, que existe.
+
+## 3. O casulo da Val acontece uma vez, no lugar certo.
+
+**Correção de um apontamento meu que estava errado:** a restauração da Valéria **está em cena**, no
+cap. 105 — a carapaça racha, a Nise explica que não era petrificação e sim casulo, e ela acorda.
+O cap. 97 planta isso corretamente ("tem atividade cerebral, baixa mas regular").
+
+O erro real era outro: **o cap. 60 já falava "desde o casulo"**, trinta e sete capítulos antes de o
+casulo existir. Removido.

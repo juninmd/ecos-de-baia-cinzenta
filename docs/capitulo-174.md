@@ -23,7 +23,7 @@ Levantei meu braço direito. O cotoco ainda pingava sangue fresco no chão imacu
 
 Os olhos por trás da grossa lente de Vasco se arregalaram levemente. Ele se adiantou, rápido para um homem de seu tamanho, ignorando-me inicialmente para examinar os conduítes expostos nas costas de Valéria.
 
-— Os núcleos primários dela estão fritos — ele murmurou, a voz assumindo o tom clínico que sempre o separava da escória comum do Distrito 4. — Ela está rodando na energia de emergência. Mais dez minutos e o córtex sintético dela desabaria por falta de oxigenação no fluido condutor. Traga-a para a maca dois.
+— Os implantes primários dela estão fritos — ele murmurou, a voz assumindo o tom clínico que sempre o separava da escória comum do Distrito 4. — A interface neural está rodando na bateria de emergência e queimando o oxigênio do sangue dela para se manter. Mais dez minutos e ela tem um derrame. Traga-a para a maca dois.
 
 Ajudei Vasco a erguer Valéria. Ela parecia pesar o triplo do normal, um peso morto de metal e remorso. A deitamos na maca de aço inoxidável fria. Vasco imediatamente plugou um cabo grosso e sujo diretamente em sua nuca cibernética. O zumbido grave dos geradores do subsolo pareceu oscilar por um segundo antes de se estabilizar.
 
@@ -47,6 +47,6 @@ Vasco parou por um segundo, olhando para o meu rosto pálido. Ele não perguntou
 
 — Eu sei. — Vasco suspirou, virando-se para o monitor que exibia os sinais vitais erráticos de Valéria. — Considerem isso uma dívida. Mas vocês não podem ficar aqui por muito tempo. A Aeterna pode estar no escuro, mas os abutres já estão circulando. Se o Sindicato descobrir que o responsável pelo blecaute está aqui, meu humilde estabelecimento vai virar pó.
 
-Olhei para Valéria na maca ao lado. Seu rosto sintético estava relaxado, uma máscara pálida e artificial, em uma paz que eu sabia não ser real. O zumbido dos cabos de alimentação preenchia a sala.
+Olhei para Valéria na maca ao lado. O rosto estava relaxado, pálido demais sob a luz da clínica, numa paz que eu sabia não ser real. O zumbido dos cabos de alimentação preenchia a sala.
 
 Estávamos vivos. No momento, era a única vitória que podíamos reivindicar na escuridão de Baía Cinzenta.

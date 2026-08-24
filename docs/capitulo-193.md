@@ -13,7 +13,7 @@ Arrastei-me pelos corredores estreitos, me escorando na parede. Meu joelho esque
 
 Valéria caminhava um passo à frente, sua silhueta recortada pela fraca iluminação de emergência. Seu modo de segurança a tornava eficiente, silenciosa e totalmente desprovida de empatia.
 
-— Ritmo cardíaco do sujeito apresenta arritmia crítica. Risco de choque por trauma físico iminente, — ela reportou, sem virar a cabeça. Sua voz era a síntese da pragmática maquinal. — Sugiro pausa para estabilização, caso a mobilidade total não seja um requisito tático imediato.
+— Ritmo cardíaco do sujeito apresenta arritmia crítica. Risco de choque por trauma físico iminente, — ela reportou, sem virar a cabeça. A voz era pragmática até o osso. — Sugiro pausa para estabilização, caso a mobilidade total não seja um requisito tático imediato.
 
 — Continua andando, — eu grunhi, cuspindo sangue no chão imundo. — Se eu parar, o cheiro volta. E se o cheiro voltar, eu morro.
 

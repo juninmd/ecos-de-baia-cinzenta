@@ -49,7 +49,7 @@ Elias alcançou o outro lado e desabou num monte de membros trêmulos.
 
 — Sua vez, — eu disse para ela.
 
-Ela não discutiu. No Modo de Segurança, comandos eram executados se estivessem dentro dos parâmetros de sobrevivência tática. Ela pisou na grade. Seu equilíbrio era impossivelmente perfeito, mas seu chassi sintético era pesado. O metal gritou sob ela. As veias azuis pulsaram com mais intensidade, uma reação doentia à energia estática de seu núcleo. Ela atravessou em segundos, um fantasma de lógica pura e cromo, deixando a ponte tensionada e estalando.
+Ela não discutiu. No Modo de Segurança, comandos eram executados se estivessem dentro dos parâmetros de sobrevivência tática. Ela pisou na grade. O equilíbrio dela era impossivelmente perfeito, mas o metal gritou assim mesmo. As veias azuis pulsaram com mais intensidade, uma reação doentia ao campo elétrico dos implantes dela. Ela atravessou em segundos, um fantasma de lógica pura, deixando a ponte tensionada e estalando.
 
 Era a minha vez.
 

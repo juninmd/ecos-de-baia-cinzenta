@@ -69,27 +69,27 @@ Valéria mediu. Levou quatro segundos.
 
 — Um homem não faz isso, — disse Elias.
 
-— Nenhum ser humano faz isso, — corrigiu Valéria. — Eu faço.
+— Nenhum ser humano faz isso, — corrigiu Valéria. — Eu faço uma vez.
 
 E ela deu um passo à frente.
 
 — Não. — Eu falei antes de pensar.
 
-— Gabo, o cálculo é trivial. Meus atuadores sustentam trezentos e dez quilogramas-força por até setenta e dois segundos. Eu travo o came, vocês três embarcam, a cápsula parte, eu solto o came, a comporta fecha.
+— Gabo, o cálculo é trivial. Os meus reforços de ancoragem sustentam trezentos e dez quilogramas-força por até setenta e dois segundos antes de arrancarem os pontos de fixação do meu esqueleto. Setenta e dois é mais que quarenta. Eu travo o came, vocês três embarcam, a cápsula parte.
 
-— E você fica desse lado.
+— E você solta o came.
 
 Pausa.
 
-— E eu fico deste lado, — ela confirmou.
+— Eu não solto o came, — ela disse. — Se eu soltar antes de a cápsula limpar o tubo, o diferencial mata vocês três. Eu seguro até o fim, e a comporta fecha comigo deste lado.
 
 — Com trinta horas de ar.
 
-— Com vinte e nove horas de ar, e sem necessidade de ar. — Nenhuma inflexão. Nenhuma. — Eu não respiro, Gabo. Quando a energia acabar, eu entro em hibernação de baixo consumo. Meu núcleo permanece estável por um período que estimo em quarenta a sessenta anos.
+— Com vinte e nove horas de ar e os dois braços destruídos. — Nenhuma inflexão. Nenhuma. — Eu não vou usar as vinte e nove, Gabo. Hemorragia por avulsão de ancoragem leva entre onze e dezenove minutos.
 
-— Sozinha. — Minha voz saiu esquisita. — No escuro. Consciente. Por sessenta anos.
+— Você está falando de morrer aqui embaixo. — Minha voz saiu esquisita. — Sozinha. No escuro. Consciente.
 
-— Em Modo de Segurança, — ela disse, — sessenta anos e sessenta segundos têm exatamente o mesmo valor subjetivo. É por isso que eu sou a escolha correta.
+— Estou falando de gastar uma pessoa para tirar quatro toneladas de prova de dentro de um cofre, — ela disse. — Em Modo de Segurança essa conta é trivial, e ela fecha. É por isso que eu sou a escolha correta.
 
 E aí eu entendi por que ela não tinha tocado no casco de aço da enfermaria.
 

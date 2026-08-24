@@ -31,7 +31,7 @@ Elias correu para ajudar. Eu segurei o braço dele.
 
 E estava.
 
-Porque, entre uma tosse e outra, com o corpo inútil e a garganta em carne viva, os olhos azul-gelo da Dra. Elara Vance já tinham varrido a galeria inteira, contado três intrusos, medido o meu ombro sangrando, identificado a Valéria como não-humana e registrado a mochila do Elias.
+Porque, entre uma tosse e outra, com o corpo inútil e a garganta em carne viva, os olhos azul-gelo da Dra. Elara Vance já tinham varrido a galeria inteira, contado três intrusos, medido o meu ombro sangrando, identificado os implantes de Valéria e registrado a mochila do Elias.
 
 Ela estava trabalhando. Meio morta, e trabalhando.
 

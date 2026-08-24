@@ -11,7 +11,7 @@ O corredor além da porta de manutenção era um tubo de concreto banhado na pen
 
 A Praga de Ferro encontrava o Jardim, e a guerra silenciosa entre os dois havia transformado a câmara de conexão num abatedouro congelado.
 
-— A biomassa obstrutiva apresenta uma densidade de oitenta por cento no eixo principal, — informou Valéria. Sua voz sintética quebrou o silêncio lúgubre, destituída de qualquer sobressalto. Ela caminhava à frente, seu braço biônico escaneando o ambiente com precisão cirúrgica. — A temperatura crítica induziu um estado de hibernação na estrutura orgânica, mas o tecido retém reatividade cinética.
+— A biomassa obstrutiva apresenta uma densidade de oitenta por cento no eixo principal, — informou Valéria. A voz plana dela quebrou o silêncio lúgubre, destituída de qualquer sobressalto. Ela caminhava à frente, o braço biônico escaneando o ambiente com precisão cirúrgica. — A temperatura crítica induziu um estado de hibernação na estrutura orgânica, mas o tecido retém reatividade cinética.
 
 — Em português, Valéria, — resmunguei, apertando o cabo da minha escopeta com a mão direita até os nós dos dedos empalidecerem.
 

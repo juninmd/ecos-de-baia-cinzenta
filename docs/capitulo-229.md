@@ -89,7 +89,7 @@ Elias fez um som atrás de mim.
 
 Braga olhou para ele. Depois para a Elena. Depois para a Valéria e a arma. Depois para a Dra. Vance na cadeira de aço, na sombra do galpão. Um por um, com atenção. Contando.
 
-— A senhora da cadeira eu não conheço, — ele disse. — A moça da máquina eu não conheço. O rapaz de macacão não deve nada. A jornalista... — ele parou. — A jornalista é a ex-esposa do senhor?
+— A senhora da cadeira eu não conheço, — ele disse. — A moça das lentes eu não conheço. O rapaz de macacão não deve nada. A jornalista... — ele parou. — A jornalista é a ex-esposa do senhor?
 
 — Não responde, — falei para a Elena, sem virar.
 

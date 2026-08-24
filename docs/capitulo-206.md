@@ -15,7 +15,7 @@ Fechei a mão em um punho cego e bati com força o ombro direito lacerado contra
 
 — Status, — rosnei, a voz rouca arranhando a garganta.
 
-Dois círculos pálidos de bioluminescência sintética se acenderam a uns dez metros à minha direita. Os olhos de Valéria cortavam a penumbra como LEDs defeituosos.
+Dois círculos pálidos se acenderam a uns dez metros à minha direita. Os olhos de Valéria cortavam a penumbra como LEDs defeituosos.
 
 — Sistemas operacionais em 74%, — a voz fria dela ecoou com uma clareza clínica. O brilho dos seus olhos revelou vagamente a silhueta da poeira suspensa no ar. — Elias sofreu escoriações leves e contusão moderada no flanco esquerdo devido à onda de choque. Sinais vitais dele estão elevados, mas estáveis.
 

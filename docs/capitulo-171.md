@@ -37,7 +37,7 @@ Valéria caiu de joelhos sobre os cacos de vidro perto da catraca de segurança,
 
 Mergulhei no saguão e me escorei contra um pilar de sustentação, escorregando até o chão frio de mármore negro. O vento bateu no meu rosto. Estávamos fora. A máquina de Dante estava inerte abaixo de nós, silenciada pela nossa recusa em jogarmos seu jogo de deuses.
 
-Olhei para Valéria. A figura antes imponente, coberta por cromo e atitude, agora era apenas o chassi de alguém que havia perdido o motor.
+Olhei para Valéria. A figura antes imponente, coberta por cromo e atitude, agora era apenas a carcaça de alguém que tinha perdido o motor.
 
 — Rangel e Aria — ela disse para o chão. Apenas isso. O custo da operação.
 

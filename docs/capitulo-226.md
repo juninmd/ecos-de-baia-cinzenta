@@ -27,7 +27,7 @@ Cabelo castanho claro preso para trás, escapando em mechas. Jaqueta de campo ve
 
 Elena.
 
-Ela ficou parada na entrada por um tempo longo, olhando para dentro do galpão. Para as quatro toneladas de papel. Para a mulher de cabelo prateado na cadeira de aço. Para o rapaz imundo de macacão. Para a máquina com os olhos azuis que apontava uma escopeta na direção dela.
+Ela ficou parada na entrada por um tempo longo, olhando para dentro do galpão. Para as quatro toneladas de papel. Para a mulher de cabelo prateado na cadeira de aço. Para o rapaz imundo de macacão. Para a mulher de olhos de vidro azul que apontava uma escopeta na direção dela.
 
 E depois para mim.
 
@@ -79,7 +79,7 @@ Não respondi. Não precisava.
 
 ---
 
-O sol subiu mais um pouco. Elias começou a organizar as caixas com a Vance, e a Valéria carregava, e ninguém chegou perto de nós dois, o que eu suspeito que tenha sido decisão da máquina.
+O sol subiu mais um pouco. Elias começou a organizar as caixas com a Vance, e a Valéria carregava, e ninguém chegou perto de nós dois, o que eu suspeito que tenha sido decisão dela.
 
 — Gabo. — A voz de Elena mudou. — Eu preciso perguntar uma coisa e você não vai gostar.
 

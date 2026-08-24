@@ -29,7 +29,7 @@ Mas funcionou. A dor oblitera a memória. A dor mata o passado. O cheiro da fuma
 
 Na maca ao lado, o zumbido oscilante mudou de tom. A luz dos monitores de Valéria piscou rapidamente. O cabo que Vasco conectara nela havia drenado o suficiente da rede do subsolo para iniciar uma reinicialização emergencial.
 
-Virei meu pescoço, que latejava no mesmo ritmo do meu ombro novo, para olhá-la. O rosto sintético de Valéria ainda parecia pálido, mas os seus olhos ópticos piscaram. Em vez do brilho azul quente de costume, eles acenderam com um tom cinza-chumbo, opaco e sem vida.
+Virei meu pescoço, que latejava no mesmo ritmo do meu ombro novo, para olhá-la. O rosto de Valéria ainda parecia pálido, mas os olhos ópticos piscaram. Em vez do brilho azul quente de costume, eles acenderam com um tom cinza-chumbo, opaco e sem vida.
 
 — Valéria? — chamei. Minha voz ainda tremia pela dor residual.
 
@@ -49,6 +49,6 @@ A frieza me atingiu com a força física de um soco. Eu estava acostumado com a 
 
 Eu não estava mais com minha parceira. Eu estava com um robô de combate.
 
-— Estamos vivos, Gabo — Vasco tentou suavizar a tensão, sua voz soando fraca diante da apatia sintética que agora enchia o cômodo. — Isso é mais do que a maioria tem hoje.
+— Estamos vivos, Gabo — Vasco tentou suavizar a tensão, sua voz soando fraca diante da apatia que agora enchia o cômodo. — Isso é mais do que a maioria tem hoje.
 
 Mas enquanto eu encarava o olhar inerte de Valéria e sentia o sangue pulsando ao redor do aço que invadiu meu corpo, percebi que a sobrevivência era apenas uma falha técnica no meio do colapso corporativo. O fantasma da fumaça não estava mais no ar, mas a verdadeira escuridão havia se instalado em nós.

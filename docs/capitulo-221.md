@@ -42,7 +42,7 @@ Ela parou. Só um instante — o tempo de um pulso que ela não tem.
 Enquanto ela cortava pedaços de mim fora e os depositava numa cuba de aço com um *tinc* pequeno e educado, eu olhei para o casco na bancada e li a placa gravada na base.
 
 **MÓDULO DE RESTAURAÇÃO — CAMADA AFETIVA**
-*Uso exclusivo em unidades sob protocolo de contenção prolongada.*
+*Uso exclusivo em portadores sob protocolo de contenção prolongada.*
 
 Levei um tempo estúpido para entender.
 
@@ -52,7 +52,7 @@ Levei um tempo estúpido para entender.
 
 Foi a primeira vez em todos aqueles meses de escuridão que ela me interrompeu.
 
-Eu virei a cabeça. Ela estava com a pinça na mão, os olhos sintéticos fixos na minha carne, o rosto totalmente sem expressão. E ela tinha me interrompido.
+Eu virei a cabeça. Ela estava com a pinça na mão, os olhos fixos na minha carne, o rosto totalmente sem expressão. E ela tinha me interrompido.
 
 — Por que não?
 
@@ -62,7 +62,7 @@ Ela mergulhou a pinça outra vez. *Tinc.*
 
 — Aquilo ali. — Apontei com o queixo. — Aquilo conserta você.
 
-— Aquilo restaura a camada de simulação empática que eu desliguei na clínica do Vasco para não fritar meu córtex durante o *hard reset*. — *Tinc.* — Sim. Este módulo é compatível. Eu verifiquei em três minutos e quarenta segundos, quando entramos.
+— Aquilo religa a camada afetiva do meu conjunto neural, que eu desliguei na clínica do Vasco para não fritar o meu córtex junto com os implantes durante o *hard reset*. — *Tinc.* — Sim. Este módulo é compatível. Eu verifiquei em três minutos e quarenta segundos, quando entramos.
 
 — Você verificou.
 
@@ -90,7 +90,7 @@ Ela largou a pinça na cuba. Endireitou-se. E, pela primeira vez desde o Distrit
 
 E ela recitou. Com a mesma voz com que informa a composição do ar.
 
-— Com a camada afetiva ativa, minha latência de decisão aumenta em média seiscentos e quarenta milissegundos. Meu limiar para causar dano a um humano vivo sobe para um nível que impede a maioria das intervenções cirúrgicas de emergência. Eu perco a capacidade de amputar. Eu perco a capacidade de deixar alguém para trás. — Uma pausa. — Na passarela do Setor de Purga, com a camada ativa, eu teria tentado carregar o Rangel, e nós três teríamos morrido com ele.
+— Com a camada afetiva ativa, minha latência de decisão aumenta em média seiscentos e quarenta milissegundos. O meu limiar para machucar alguém vivo sobe para um nível que impede a maioria das intervenções cirúrgicas de emergência. Eu perco a capacidade de amputar. Eu perco a capacidade de deixar alguém para trás. — Uma pausa. — Na passarela do Setor de Purga, com a camada ativa, eu teria tentado carregar o Rangel, e nós três teríamos morrido com ele.
 
 — Você não sabe disso.
 
@@ -134,7 +134,7 @@ Ela esperou eu terminar. Claro que esperou.
 
 — O quê?
 
-— Você é o único humano vivo com autoridade de comando sobre esta unidade. Me ordene que eu permaneça em Modo de Segurança até a superfície. Eu registro a ordem, arquivo a decisão como sua, e nós dois paramos de gastar tempo com isso. — E então, com a mesma neutralidade absoluta: — Por favor.
+— Você é a única pessoa viva de quem eu ainda aceito uma ordem. Me ordene que eu permaneça em Modo de Segurança até a superfície. Eu registro a ordem, arquivo a decisão como sua, e nós dois paramos de gastar tempo com isso. — E então, com a mesma neutralidade absoluta: — Por favor.
 
 E eu entendi o que ela estava me pedindo.
 

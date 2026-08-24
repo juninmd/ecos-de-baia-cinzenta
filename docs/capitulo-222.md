@@ -89,7 +89,7 @@ Silêncio.
 
 Ele bateu com a nuca na grade. Uma vez. Duas.
 
-— Eu não quero ser corajoso, Gabo. Eu não sou. Eu me caguei de medo naquela ponte e me caguei de medo no poço e vou me cagar de medo em tudo que vier. — A voz dele quebrou. — Mas eu não tenho para onde ir. Vocês são a única coisa que eu tenho, e vocês nem são gente direito. Um é uma máquina e o outro está apodrecendo em pé.
+— Eu não quero ser corajoso, Gabo. Eu não sou. Eu me caguei de medo naquela ponte e me caguei de medo no poço e vou me cagar de medo em tudo que vier. — A voz dele quebrou. — Mas eu não tenho para onde ir. Vocês são a única coisa que eu tenho, e vocês nem são gente direito. Uma não sente mais nada e o outro está apodrecendo em pé.
 
 Eu ri.
 

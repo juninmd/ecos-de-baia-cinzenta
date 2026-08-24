@@ -17,7 +17,7 @@ O colosso de sucata avançou, um braço pneumático, ainda ostentando o logotipo
 
 — Análise tática, Valéria! — rosnei, me erguendo com dificuldade. A escopeta estava pesada. Disparei duas vezes. Os projéteis perfurantes bateram na carcaça de ferrugem da criatura e ricochetearam com faíscas pálidas, tão inúteis quanto jogar pedras em um tanque de guerra.
 
-Valéria deslizou para a minha direita, os olhos sintéticos brilhando no escuro, alheia ao caos.
+Valéria deslizou para a minha direita, as lentes brilhando no escuro, alheia ao caos.
 
 — A estrutura é mantida unida por campos magnéticos residuais dos núcleos de força danificados, — informou ela, a voz fria cortando o barulho do metal sendo esmagado. — Munição balística padrão tem 2% de probabilidade de causar falha estrutural sistêmica.
 

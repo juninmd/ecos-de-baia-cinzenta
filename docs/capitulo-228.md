@@ -198,7 +198,7 @@ Eu ri. Saiu quebrado.
 
 ---
 
-Fiquei muito tempo sentado ali, com a pasta aberta no colo e a rotativa batendo lá no fundo, e o Elias e a Elena e a doutora e a máquina esperando eu dizer alguma coisa.
+Fiquei muito tempo sentado ali, com a pasta aberta no colo e a rotativa batendo lá no fundo, e o Elias e a Elena e a doutora e a Valéria esperando eu dizer alguma coisa.
 
 E quando eu falei, não foi nada do que eu esperava que fosse sair.
 

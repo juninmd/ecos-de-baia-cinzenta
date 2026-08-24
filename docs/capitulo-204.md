@@ -61,7 +61,7 @@ A pergunta ricocheteou nas paredes metálicas.
 
 Valéria não hesitou.
 
-O olho sintético dela varreu o ambiente num arco calculista, e o feixe azul-pálido recortou a névoa de ferrugem em suspensão.
+A lente dela varreu o ambiente num arco calculista, e o feixe azul-pálido recortou a névoa de ferrugem em suspensão.
 
 — Sensores térmicos operando com eficiência reduzida devido à interferência da oxidação particulada. — A voz digital, sem inflexão nenhuma, e eu já não estremeço com isso, o que me incomoda mais do que estremecer. — No entanto, detecto flutuações de baixa frequência no subsolo imediato. Vibrações. Padrões inconsistentes com atividade sísmica natural.
 

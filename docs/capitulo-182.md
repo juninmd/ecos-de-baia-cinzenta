@@ -13,7 +13,7 @@ Quando finalmente cruzamos a grade retorcida que marcava o fim do túnel, o céu
 
 Parei, apoiando a mão esquerda — a orgânica, a que ainda tremia de frio e exaustão — em um pilar de concreto esboroado. A chuva ácida não estava caindo, mas a garoa venenosa deixava uma camada escorregadia sobre tudo. O horizonte não revelava a imponência predatória das torres de vidro da Aeterna Corp; aqui, era uma planície de escombros industriais, carcaças de veículos enferrujados e esqueletos de prédios que nunca terminaram de ser construídos.
 
-— Análise atmosférica: concentração de dióxido de enxofre 42% acima do limite respiratório seguro a longo prazo. Risco de corrosão exposta aos tecidos orgânicos: elevado. — A voz sintética de Valéria cortou o vento, desprovida de qualquer aflição. Seus olhos azuis, frios como o núcleo de um reator inativo, varreram a desolação sem um pingo de remorso. — Recomendo minimização de exposição corporal e busca imediata de abrigo tático.
+— Análise atmosférica: concentração de dióxido de enxofre 42% acima do limite respiratório seguro a longo prazo. Risco de corrosão exposta aos tecidos orgânicos: elevado. — A voz de Valéria cortou o vento, plana, desprovida de qualquer aflição. Seus olhos azuis, frios como o núcleo de um reator inativo, varreram a desolação sem um pingo de remorso. — Recomendo minimização de exposição corporal e busca imediata de abrigo tático.
 
 — Dá um tempo, Val — murmurei, os dentes trincados contra o gosto amargo de ozônio na língua.
 

@@ -43,7 +43,7 @@ A aberração dobrou a esquina do túnel. Sob a fraca luz dos sensores de Valér
 
 Ela estava disposta a lutar porque a matemática do Modo de Segurança dizia que era a ação lógica para preservar minha integridade, o "alvo alfa".
 
-— Não seja estúpida, lata velha, — cuspi, empurrando-a levemente e avançando com o ombro são. — Seu chassi é pesado demais, mas não é invulnerável a ácido corrosivo. E eu não tenho tempo pra te consertar de novo.
+— Não seja estúpida, lata velha, — cuspi, empurrando-a levemente e avançando com o ombro são. — Você não é invulnerável a ácido corrosivo, por mais implante que tenha enfiado nesse corpo. E eu não tenho tempo pra te remendar de novo.
 
 Ergui a barra de ferro na mão direita, a bota da perna mecânica cravada firmemente no lodo.
 

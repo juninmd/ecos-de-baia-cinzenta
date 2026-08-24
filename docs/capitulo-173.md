@@ -9,7 +9,7 @@ Personagens Presentes: Gabo, Valéria
 
 A marcha até o Distrito 4 não era uma caminhada; era um lento arrastar de cadáveres que se recusavam a aceitar a própria decomposição. A chuva ácida não dava trégua, transformando os becos apagados de Baía Cinzenta em canais de lodo tóxico e lixo não processado.
 
-Valéria seguia meio passo atrás de mim. O som de seus servos motores antes precisos agora soava como engrenagens mastigando areia. O chassi, uma vez cromado e ameaçador, estava manchado de fuligem e sangue seco. Cada poça que ela pisava expunha circuitos sem isolamento, gerando pequenas faíscas azuis que morriam instantaneamente sob a água pesada. Ela não falava. O luto por Aria a havia desligado mais rápido do que qualquer pulso eletromagnético.
+Valéria seguia meio passo atrás de mim. O passo antes preciso agora arrastava, e a placa de contato na nuca dela chiava baixo a cada movimento. O casaco tático, uma vez impecável, estava manchado de fuligem e sangue seco. Cada poça que ela pisava molhava a fiação exposta do implante do antebraço, gerando pequenas faíscas azuis que morriam instantaneamente sob a água pesada. Ela não falava. O luto por Aria a havia desligado mais rápido do que qualquer pulso eletromagnético.
 
 Eu também não estava muito melhor. O choque hipovolêmico era uma sombra ameaçando me engolir a cada passo vacilante. Minhas roupas grudavam na pele, frias como a lona de um necrotério. Mas o frio não era o meu principal problema. Era o cheiro.
 
@@ -23,7 +23,7 @@ A náusea era violenta. Caí de joelhos no asfalto quebrado, a água suja salpic
 
 Valéria parou, a mão pesada pairando sobre meu ombro, hesitante.
 
-— Gabo... — a voz sintética dela estalou, distorcida e fraca.
+— Gabo... — a voz dela estalou, distorcida e fraca pelo modulador falhando.
 
 Eu não podia ouvi-la. Só ouvia o silêncio de Dante. Só sentia o gosto amargo do tabaco fantasma me asfixiando por dentro.
 

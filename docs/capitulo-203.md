@@ -9,7 +9,7 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 Cada passo meu era um arrasto penoso, minha perna direita suportando quase todo o peso, enquanto a esquerda, envolta na pesada órtese queimada, operava por meio de protestos eletromecânicos, emitindo um choramingo hidráulico agudo a cada passada. Meu braço direito, agora trêmulo após o choque bruto contra o concreto, balançava inutilmente ao meu lado. A dor pulsava constante e impiedosa, mas servia ao seu propósito primário: não havia cheiro de fumaça fantasma aqui, apenas a crueza seca de um ar esquecido pelo tempo.
 
-O corredor de manutenção, com seu concreto liso e opressor, começou a se curvar ligeiramente à direita, quebrando a perspectiva monótona. Alguns metros adiante, o feixe azul pálido que se projetava do olho sintético de Valéria revelou a primeira falha naquela fachada estéril.
+O corredor de manutenção, com seu concreto liso e opressor, começou a se curvar ligeiramente à direita, quebrando a perspectiva monótona. Alguns metros adiante, o feixe azul pálido que se projetava da lente de Valéria revelou a primeira falha naquela fachada estéril.
 
 Não era a biomassa rastejante do Jardim. Era algo mais antigo, e de certa forma, mais predatório para a infraestrutura do que a própria natureza adaptada: a Praga de Ferro.
 

@@ -153,7 +153,7 @@ Ela tinha carregado aquilo. Nas dezenove horas, entre trezentos quilos de papel 
 
 Olhei para ela.
 
-Valéria estava sentada de frente para a escotilha traseira, com as mãos apoiadas nos joelhos, os olhos sintéticos apagados para economizar carga. Impassível. Perfeita. Sem uma inflexão.
+Valéria estava sentada de frente para a escotilha traseira, com as mãos apoiadas nos joelhos, as lentes apagadas para poupar bateria. Impassível. Perfeita. Sem uma inflexão.
 
 Ela não tinha usado o módulo.
 

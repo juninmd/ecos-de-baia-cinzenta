@@ -19,7 +19,7 @@ Eu apertei a mão direita — a boa — ao redor do degrau de aço gelado com ta
 
 O cheiro do charuto desapareceu. A dor era meu único oxigênio. Soltei um rosnado abafado, o gosto metálico de sangue inundando minha boca enquanto eu forçava minha perna quebrada a descer mais um degrau. Os servos hidráulicos na minha articulação arruinada choramingavam como cães moribundos.
 
-— Ritmo cardíaco do civil Elias está oscilando perigosamente, — a voz de Valéria soou no escuro, logo acima de mim. Não havia a menor inflexão de preocupação, apenas o relato gélido de uma máquina avaliando desgaste de material. — A respiração dele é curta. Há setenta e dois por cento de chance de síncope por hiperventilação nos próximos dez minutos. Se ele desmaiar, a queda será fatal.
+— Ritmo cardíaco do civil Elias está oscilando perigosamente, — a voz de Valéria soou no escuro, logo acima de mim. Não havia a menor inflexão de preocupação, apenas o relato gélido de quem avalia desgaste de material. — A respiração dele é curta. Há setenta e dois por cento de chance de síncope por hiperventilação nos próximos dez minutos. Se ele desmaiar, a queda será fatal.
 
 — Não olha para baixo, Elias, — eu rosnei entredentes, forçando o sangue a gotejar do meu braço para o vazio. A dor me mantinha lúcido, focado no degrau seguinte. — Só olha para as mãos. Uma depois da outra.
 

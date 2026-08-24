@@ -13,7 +13,7 @@ A chuva não caía; ela desabava. Era pesada, ácida e gelada, lavando a fuligem
 
 A ausência do zumbido elétrico crônico da infraestrutura urbana era ensurdecedora. O silêncio pesava nos ouvidos.
 
-Valéria caminhava a um passo pesado, cada impacto de suas pernas mecânicas no asfalto molhado soando oco. A água escorria pelo cromo fosco e sujo de seu chassi. Sem a rede, sem a energia da cidade para se conectar, ela parecia menor. Uma máquina de guerra vagando pelo ferro-velho sem ordens ou propósito.
+Valéria caminhava a um passo pesado, cada bota afundando no asfalto molhado com um som oco. A água escorria pelo casaco encharcado e pela placa de contato exposta na nuca dela. Sem a rede, sem a energia da cidade para se conectar, ela parecia menor. Uma soldada vagando pelo ferro-velho sem ordens ou propósito.
 
 Eu mancava ao lado dela. A dor no abdômen era uma queimação constante, mas minhas pernas obedeciam pelo instinto primitivo de sobrevivência. O asfalto quebrado sob minhas botas cheirava a poças estagnadas, óleo diesel vazado e lixo químico molhado. Era o cheiro visceral das ruas baixas, o cheiro do mundo real cobrando a conta depois da fantasia de vidro e luz da corporação.
 
@@ -29,7 +29,7 @@ O impacto enviou uma onda de choque branco pela minha espinha. A carne cedeu, o 
 
 Valéria parou alguns passos à frente. Ela se virou lentamente, a chuva batendo em seu rosto inexpressivo e no buraco vazio de seu visor óptico. Ela olhou para a minha ferida sangrando e depois para os meus olhos, ainda arregalados pela adrenalina da dor.
 
-— Nós não temos mais ataduras, Gabo — ela disse. Sua voz soava humana demais sem os filtros de modulação sintética. Soava exausta. — E se você continuar sangrando a cada esquina para manter os fantasmas longe, não vai chegar à próxima ponte.
+— Nós não temos mais ataduras, Gabo — ela disse. A voz saiu sem o achatamento dos últimos dias. Soava exausta, e soava dela. — E se você continuar sangrando a cada esquina para manter os fantasmas longe, não vai chegar à próxima ponte.
 
 — Eu chego — respondi, arfando, puxando o braço ferido contra o peito para estancar a hemorragia com a jaqueta molhada. — A dor me mantém do lado de cá.
 

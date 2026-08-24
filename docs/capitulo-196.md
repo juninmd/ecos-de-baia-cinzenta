@@ -15,9 +15,9 @@ Elias rolou para fora do duto logo atrás de mim, caindo de joelhos, tossindo e 
 
 — Nós... nós conseguimos, — ele arfou, os olhos arregalados percorrendo os canos espessos que pareciam sucuris de aço negro nas paredes de concreto bruto. — Isso é a espinha dorsal do Setor 6. Longe daquele fogo. Longe do... do Jardim.
 
-O baque metálico leve dos pés de Valéria encerrou sua frase. Ela aterrissou com a precisão rígida de um drone, sem demonstrar a menor fadiga. Seus olhos sintéticos emitiam um feixe calculista azul-pálido que escaneava o ambiente com uma indiferença gélida. O Modo de Segurança mantinha seus protocolos emocionais completamente mortos.
+O baque metálico leve dos pés de Valéria encerrou sua frase. Ela aterrissou com a precisão rígida de quem calculou a queda, sem demonstrar a menor fadiga. As lentes emitiam um feixe azul-pálido que varria o ambiente com uma indiferença gélida. O Modo de Segurança mantinha a camada afetiva dela completamente desligada.
 
-— Atualização de status, — declarou ela, a voz monótona e robótica. — Probabilidade de sobrevivência estática aumentada para 21.3%. No entanto, a taxa de perda de fluido vital de Gabo projeta falência estrutural orgânica em cento e vinte e sete minutos, caso o deslocamento constante não seja interrompido. Recomendo, novamente, amputação da via não crucial ou cauterização a fogo.
+— Atualização de status, — declarou ela, a voz monótona e sem peso. — Probabilidade de sobrevivência estática aumentada para 21.3%. No entanto, a taxa de perda de fluido vital de Gabo projeta falência estrutural orgânica em cento e vinte e sete minutos, caso o deslocamento constante não seja interrompido. Recomendo, novamente, amputação da via não crucial ou cauterização a fogo.
 
 Pressionei minha mão intacta contra o ombro sangrento, esmagando a ferida apenas o suficiente para arrancar um gemido surdo dos dentes cerrados. Mais uma dose de choque na medula para manter o espectro do meu pai sepultado.
 
@@ -37,4 +37,4 @@ Pressionei todo o meu peso esquerdo contra a beirada do fosso, usando o metal fr
 Apontei com o que restava da minha prótese hidraulicamente castrada para o corredor escuro e gotejante que se estendia a oeste.
 — Oitocentos metros. A gente não para por nada. E se alguma dessas veias agarrar vocês, — lancei um olhar pesado para Elias —, eu arranco fora a parte do corpo antes de deixar a praga engolir o resto. Andando.
 
-Enquanto caminhávamos para a escuridão, acompanhados pelo zumbido sintético de Valéria e os passos trôpegos de Elias, a dor lacerante no meu ombro continuava a bater como um tambor constante. Era o som da minha sobrevivência em um mundo que teimava em desmoronar. Um passo arrastado de cada vez.
+Enquanto caminhávamos para a escuridão, acompanhados pelo chiado baixo dos implantes de Valéria e os passos trôpegos de Elias, a dor lacerante no meu ombro continuava a bater como um tambor constante. Era o som da minha sobrevivência em um mundo que teimava em desmoronar. Um passo arrastado de cada vez.

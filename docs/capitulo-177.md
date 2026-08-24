@@ -17,7 +17,7 @@ Parafusada aos meus nervos sem a cortesia de uma anestesia, a coisa pesava mais 
 
 Quando o vento mudava e trazia consigo a lembrança podre de tabaco envelhecido — a fumaça ilusória que parecia escorrer dos poros da própria cidade morta —, eu ativava os pistões do braço direito. O estalo bruto do ferro e o choque elétrico nos nervos amputados cortavam a alucinação de fumaça pela raiz. Meu pai, Dante, estava apodrecendo lá embaixo, mas a sua fumaça ainda me sufocava, a menos que o metal tocasse o fogo.
 
-— Gabo. — A voz sintética e plana de Valéria cortou a escuridão. — Anomalia detectada. Bloqueio orgânico à frente. Setenta e dois metros.
+— Gabo. — A voz plana de Valéria cortou a escuridão. — Anomalia detectada. Bloqueio orgânico à frente. Setenta e dois metros.
 
 Olhei através da chuva cortante. Um grupo se aglomerava em volta de um caminhão tombado da Aeterna Corp. Saqueadores, provavelmente caçando restos de sucata em uma carcaça que já havia sido esvaziada por ratos piores do que eles. Eram quatro, talvez cinco, e estavam bem armados com canos oxidados e lâminas improvisadas que brilhavam palidamente.
 
@@ -29,7 +29,7 @@ Olhei através da chuva cortante. Um grupo se aglomerava em volta de um caminhã
 
 Comecei a andar mais rápido, ignorando o baque surdo do metal maciço na minha perna a cada passo mal dado. Os saqueadores notaram nossa aproximação e se voltaram, as figuras ameaçadoras se alinhando para bloquear o caminho.
 
-— Ei, ciborgue de lata! — gritou um deles, agitando um pedaço de vergalhão enferrujado. — O pedágio é essa andróide limpinha aí e qualquer peça que a gente conseguir arrancar da sua sucata.
+— Ei, ciborgue de lata! — gritou um deles, agitando um pedaço de vergalhão enferrujado. — O pedágio é os olhos de vidro dessa moça aí e qualquer peça que a gente conseguir arrancar da sua sucata.
 
 Não respondi. O cheiro da fogueira química deles misturado com a chuva disparou os alarmes de pânico no meu cérebro traumatizado. *Fumaça. Cinzas.* Apertei os dentes com tanta força que o maxilar estalou, ativando novamente o mecanismo da prótese, buscando a centelha de dor nos nervos mutilados.
 

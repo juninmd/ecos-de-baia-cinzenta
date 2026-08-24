@@ -45,7 +45,7 @@ Ela deu um passo à frente, os olhos brilhando em uma varredura profunda.
 
 — Transmitir para quem? O Jardim já não estava morto na superfície?
 
-— A hipótese atual está incorreta — respondeu a andróide, com a frieza de quem corrige um erro de digitação. — O Jardim modificou sua topologia de rede. Em vez de uma mente-colmeia centralizada, os dados disponíveis sugerem uma estrutura descentralizada usando nós sacrificiais como este.
+— A hipótese atual está incorreta — respondeu ela, com a frieza de quem corrige um erro de digitação. — O Jardim modificou sua topologia de rede. Em vez de uma mente-colmeia centralizada, os dados disponíveis sugerem uma estrutura descentralizada usando nós sacrificiais como este.
 
 Um arrepio frio subiu pela minha espinha. Olhei para a escuridão à frente, por onde o nevoeiro se adensava. O bipe verde pulsou novamente, um pouco mais rápido.
 

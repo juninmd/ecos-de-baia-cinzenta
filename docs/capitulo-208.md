@@ -19,7 +19,7 @@ Levantei-me devagar, sentindo as engrenagens da minha perna mecânica protestare
 
 — Análise, — pedi a Valéria.
 
-A andróide operava em seu Modo de Segurança, desprovida de inflexões emocionais. Seus olhos sintéticos varreram as paredes.
+Ela operava em Modo de Segurança, desprovida de inflexões emocionais. As lentes varreram as paredes.
 
 — A estrutura celular da biomassa congelada apresenta assinaturas botânicas agressivas, consistentes com os esporos do Jardim, — relatou ela. — No entanto, a interação com o óxido de ferro acelerado causou uma reação endotérmica letal. A Praga de Ferro está essencialmente matando o Jardim de frio, e o Jardim está tentando devorar o metal em resposta. O resultado é essa necrose térmica.
 

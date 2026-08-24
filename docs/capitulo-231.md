@@ -33,7 +33,7 @@ Ficou caído de lado sob a rede, respirando pesado pelo esforço da queda, e esp
 
 — Cala a boca.
 
-— Não estou provocando, Sr. Moretti. Estou elogiando. — Ele mexeu os ombros, testando a rede sem força, como quem confere se a carga está bem amarrada. — A moça da máquina que montou?
+— Não estou provocando, Sr. Moretti. Estou elogiando. — Ele mexeu os ombros, testando a rede sem força, como quem confere se a carga está bem amarrada. — A moça das lentes que montou?
 
 Valéria desceu da passarela com a *Caronte* apontada.
 

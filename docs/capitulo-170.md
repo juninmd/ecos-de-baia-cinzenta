@@ -38,7 +38,7 @@ Ela olhava para o suporte vital destruído. Depois, para mim.
 
 Valéria não discutiu. Ela havia visto Rangel virar peso morto em uma passarela oxidada. Ela havia visto Aria — ou o fantasma de Bia que a habitava — fritar o próprio núcleo lógico para calar um gigante de metal. Ela sabia que não havia tesouro no fim daquele labirinto corporativo, apenas mais ferramentas de escravidão.
 
-— E agora? — ela perguntou, desencostando-se do pilar. Sua postura carregava uma fadiga que ia além dos músculos. Era a fadiga do chassi da alma. — O servidor mestre está mudo. Não há dados, não há IA. O que nós fazemos?
+— E agora? — ela perguntou, desencostando-se do pilar. Sua postura carregava uma fadiga que ia além dos músculos. Era a fadiga que fica embaixo da alma. — O servidor mestre está mudo. Não há dados, não há IA. O que nós fazemos?
 
 Olhei ao redor. O Arquivo Executivo estendia-se na penumbra, fileiras infinitas de conhecimento morto, envolto na gaiola de Faraday. Estávamos no coração blindado do mundo, e ele estava parado.
 

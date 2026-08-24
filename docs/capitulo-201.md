@@ -9,7 +9,7 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 A escada de manutenção de emergência cheirava a séculos de abandono. Cada barra de metal estava coberta por uma crosta grossa de oxidação e um lodo escorregadio que parecia respirar. Elias foi o primeiro, empurrado pelo terror visceral de ser devorado pelo que quer que fosse a massa biomecânica rastejando paredes abaixo. Seus sapatos rasparam contra a ferrugem, as mãos trêmulas agarrando o aço como um homem se agarraria a um bote salva-vidas.
 
-Eu fui logo atrás. Não por bravura, mas porque se Elias travasse, alguém precisava empurrá-lo para cima. Valéria encerrava a marcha, cobrindo a retaguarda, seus sistemas hidráulicos silenciados ao máximo, embora o peso de seu chassi ameaçasse arrancar as buchas da parede a cada degrau.
+Eu fui logo atrás. Não por bravura, mas porque se Elias travasse, alguém precisava empurrá-lo para cima. Valéria encerrava a marcha, cobrindo a retaguarda, os implantes em modo silencioso, embora o peso dos três juntos ameaçasse arrancar as buchas da parede a cada degrau.
 
 — Não olha pra baixo, Elias, — rosnei, a voz rouca arranhando minha garganta. — Só olha pro próximo maldito degrau.
 
@@ -49,7 +49,7 @@ O peso esmagador de Elias bateu direto no meu ombro. Minhas mãos, já em carne 
 
 A dor foi estelar. Uma supernova de agonia nas juntas e nos músculos rasgados. E foi perfeita. A alucinação do charuto foi dizimada. Eu estava vivo.
 
-Valéria, operando com precisão de máquina, lançou o braço de polímero ao redor do meu torso, estabilizando nós dois na estrutura vacilante enquanto a aberração acima avançava para nós, atraída pelo barulho do metal quebrado.
+Valéria, operando com precisão de máquina, lançou o braço ao redor do meu torso, estabilizando nós dois na estrutura vacilante enquanto a aberração acima avançava para nós, atraída pelo barulho do metal quebrado.
 
 — Padrão de ataque iminente, — disse Valéria. — Defesa letal recomendada.
 
@@ -61,4 +61,4 @@ O solavanco me fez morder a língua, o gosto de cobre quente inundando a boca.
 
 — Trava na escada, Elias! — eu rosnei, cuspindo sangue. — Tem uma escotilha de manutenção três metros acima. É lá que a gente sai. Valéria, me empurra.
 
-A andróide não questionou. Com um empurrão hidráulico quase gentil, ela me ergueu, e eu ergui Elias. Quebramos o cadeado enferrujado da escotilha com a órtese, abrindo passagem para a escuridão horizontal de um novo corredor, segundos antes que o enxame biomecânico despencasse sobre a escada, rasgando o metal que deixamos para trás.
+Ela não questionou. Com um empurrão quase gentil, me ergueu, e eu ergui Elias. Quebramos o cadeado enferrujado da escotilha com a órtese, abrindo passagem para a escuridão horizontal de um novo corredor, segundos antes que o enxame biomecânico despencasse sobre a escada, rasgando o metal que deixamos para trás.

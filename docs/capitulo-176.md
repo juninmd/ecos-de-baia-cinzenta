@@ -21,7 +21,7 @@ Olhei para ela. O brilho cinza-chumbo dos seus olhos ópticos não refletia os n
 
 — Nós não temos uma missão primária de sobrevivência, Val — murmurei, minha voz rouca arranhando a garganta. O som mal passou do colarinho encharcado do meu sobretudo. — Nós só estamos andando.
 
-— Negativo. A locomoção sem propósito contradiz as diretrizes de autopreservação. Se não houver um destino viável, a paralisação tática é a escolha lógica. — Ela parou no meio da rua alagada, a chuva batendo contra a sua pele sintética sem causar qualquer reação física. Ela parecia uma estátua esquecida, um monumento ao fracasso de Baía Cinzenta.
+— Negativo. A locomoção sem propósito contradiz as diretrizes de autopreservação. Se não houver um destino viável, a paralisação tática é a escolha lógica. — Ela parou no meio da rua alagada, a chuva batendo no rosto dela sem arrancar nem um piscar. Ela parecia uma estátua esquecida, um monumento ao fracasso de Baía Cinzenta.
 
 O cinismo de outrora, que me faria rir dessa lógica estéril, não veio. No seu lugar, havia apenas o zumbido mecânico do meu próprio braço e o peso esmagador de saber que a única pessoa real que restava ao meu lado agora era um algoritmo de contingência.
 

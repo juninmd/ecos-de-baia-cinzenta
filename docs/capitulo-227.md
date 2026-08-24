@@ -157,7 +157,7 @@ Enrolei o Colar de Sol no punho e apertei até o metal morder a palma — não p
 
 — Então marca onze semanas.
 
-Ela se colocou ao meu lado, olhando para a mesma cúpula, com os olhos sintéticos brilhando fraco no escuro que chegava.
+Ela se colocou ao meu lado, olhando para a mesma cúpula, com as lentes brilhando fraco no escuro que chegava.
 
 — Registrado, — ela disse.
 
