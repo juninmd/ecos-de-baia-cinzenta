@@ -162,21 +162,21 @@ A menina encostou a mão na tela.
 
 `SIM.`
 
-`VOCÊ É O VÍRUS DA LIBERDADE, MINHA FILHA.`
+`VOCÊ É O VÍRUS DA LIBERDADE, MENINA.`
 
 Gabo virou a cabeça devagar.
 
-— Filha?
-
-`ELA FOI MONTADA A PARTIR DO MATERIAL GENÉTICO DA SUA MÃE E DO MEU IMPRINT COGNITIVO.`
+— Menina.
 
 `ELES QUERIAM UM SISTEMA OPERACIONAL QUE ENTENDESSE GENTE. PARA ISSO PRECISAVAM DE UM SUBSTRATO SEM TRAUMA ACUMULADO — CRIANÇA — E DE UM PADRÃO MORAL RÍGIDO PARA CALIBRAR — EU.`
 
-`FUI EU QUE ESCOLHI O ROSTO, GABRIEL. E EU SEI EXATAMENTE O QUE EU FIZ COM VOCÊ AO ESCOLHER.`
+`ELES NÃO PRECISARAM PROCURAR CRIANÇA NENHUMA. ELA JÁ ESTAVA EM ARQUIVO DESDE A ENCHENTE.`
 
-`ELA NÃO É A ARIA. NUNCA FOI.`
+`É A SUA FILHA, GABRIEL. ELES COLETARAM O PADRÃO DELA NO DIA EM QUE A ÁGUA SUBIU, E GUARDARAM ATÉ TEREM ONDE LIGAR.`
 
-`ELA É SUA IRMÃ, E ELA MERECIA UM NOME PRÓPRIO, E EU NÃO TIVE CORAGEM DE DAR.`
+`FUI EU QUE ESCOLHI O ROSTO. E EU SEI EXATAMENTE O QUE EU FIZ COM VOCÊ AO ESCOLHER.`
+
+`ELE NÃO É O DELA. É O DA BIA — PORQUE COM O ROSTO CERTO VOCÊ NÃO IA CONSEGUIR OLHAR DUAS VEZES.`
 
 ---
 
@@ -186,9 +186,9 @@ Depois se ajoelhou — e ajoelhar, no estado em que ele estava, levou quase vint
 
 Ficou na altura dela.
 
-A menina do orelhão. A órfã que ele tinha protegido por instinto, no meio de uma chuva, sem saber por quê, quinze anos e quatro meses antes. A criança que aparecia no banco de trás do carro dele sem entrar.
+A menina do orelhão, com o fone cortado encostado no ouvido, na noite em que ele achou que estava enlouquecendo. A criança que aparecia no banco de trás do carro dele sem nunca ter entrado. A filha que ele não foi enterrar porque estava trabalhando.
 
-Tudo encaixou de uma vez, e o encaixe não trouxe alívio nenhum: trouxe uma vergonha antiga, porque durante meses ele tinha olhado para aquela menina e visto outra pessoa, e nunca uma vez tinha perguntado como ela queria ser chamada.
+Tudo encaixou de uma vez, e o encaixe não trouxe alívio nenhum: trouxe uma vergonha antiga, porque durante meses ele tinha olhado para a própria filha e visto outra pessoa, e nunca uma vez tinha perguntado o que ela via quando olhava de volta.
 
 — Desculpa — ele disse.
 
@@ -196,7 +196,7 @@ Ela inclinou a cabeça.
 
 — *Por quê?*
 
-— Por eu ter te chamado de um nome que não é o seu.
+— Por eu ter olhado pra você todo esse tempo e visto outra pessoa.
 
 A menina pensou. Levou tempo — mais tempo do que ela levava para qualquer outra coisa.
 

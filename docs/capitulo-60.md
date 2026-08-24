@@ -160,7 +160,7 @@ Val os puxou para longe da borda no exato momento em que a escavadeira atingiu a
 
 Gabo ficou deitado no telhado, ofegante, o coração parecendo querer explodir no peito. Cada respiração era uma facada. Cada batimento, um terremoto.
 
-Val se ajoelhou ao lado dele, os olhos cibernéticos — agora com aquele brilho prateado estranho desde o casulo — cheios de preocupação real.
+Val se ajoelhou ao lado dele, os olhos cibernéticos azul-gelo cheios de preocupação real.
 
 — Você está horrível, chefe. — A voz dela estava rouca. — Tipo, pior que o normal. E o normal já era bem ruim.
 
