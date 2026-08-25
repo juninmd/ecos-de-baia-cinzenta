@@ -3,8 +3,10 @@ from pathlib import Path
 from typing import Optional
 
 # Venceu a comparacao lado a lado contra as imagens do Gemini (scripts/iterar_qualidade.py).
-# Descartados no caminho: RealVisXL V5.0 e DreamShaper XL 1.0.
-BASE_MODEL = "RunDiffusion/Juggernaut-XL-v9"
+# Testados e descartados: SDXL base, RealVisXL V5.0, DreamShaper XL 1.0 (ignora a
+# instrucao de enquadramento) e Juggernaut XL v9 (bom, mas nao desenha o conteudo
+# narrativo -- o Zavy foi o unico a por o corpo caido na rua quando a cena pedia).
+BASE_MODEL = "misri/zavychromaxl_v80"
 IP_ADAPTER_REPO = "h94/IP-Adapter"
 # plus-face: treinado em rosto. O ip-adapter_sdxl genérico devolve "alguém parecido",
 # o que viola a Regra Zero do AGENTS.md (fisionomia nunca muda).

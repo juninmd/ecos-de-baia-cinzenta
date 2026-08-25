@@ -26,18 +26,20 @@ from scripts.daily_telegram import scenes, characters
 
 # Testados e descartados: RealVisXL V5.0 (fraco no ambiente), DreamShaper XL 1.0
 # (ignora instrucao de enquadramento e volta a retrato). Juggernaut v9 vence.
-BASE_MODEL = "RunDiffusion/Juggernaut-XL-v9"
-MODEL_LABEL = "Juggernaut XL v9"
+# Vencedor. Descartados: SDXL base, RealVisXL V5.0, DreamShaper XL 1.0, Juggernaut XL v9.
+BASE_MODEL = "misri/zavychromaxl_v80"
+MODEL_LABEL = "ZavyChromaXL v8"
 IP_ADAPTER_REPO = "h94/IP-Adapter"
 IP_ADAPTER_WEIGHT = "ip-adapter-plus-face_sdxl_vit-h.safetensors"
 
 # Referencia Gemini = o alvo de qualidade. Só capitulos que ja tem imagem dele.
 # Capitulos que nao foram usados para afinar: teste de generalizacao.
 ALVOS = [
-    (12, 2, 1202),
-    (25, 3, 2503),
-    (33, 2, 3302),
-    (1, 2, 102),
+    (38, 1, 3801),
+    (1, 1, 101),
+    (25, 1, 2501),
+    (1, 3, 103),
+    (33, 1, 3301),
 ]
 
 DESTINO = REPO / "docs" / "public" / "cenas" / "_teste_qualidade"
