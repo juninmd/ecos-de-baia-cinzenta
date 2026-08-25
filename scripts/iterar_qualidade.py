@@ -24,6 +24,8 @@ from PIL import Image
 from scripts.art_gen.chapters import extract_chapter_title_and_clean_text, limpar_titulos
 from scripts.daily_telegram import scenes, characters
 
+# Testados e descartados: RealVisXL V5.0 (fraco no ambiente), DreamShaper XL 1.0
+# (ignora instrucao de enquadramento e volta a retrato). Juggernaut v9 vence.
 BASE_MODEL = "RunDiffusion/Juggernaut-XL-v9"
 MODEL_LABEL = "Juggernaut XL v9"
 IP_ADAPTER_REPO = "h94/IP-Adapter"
@@ -32,11 +34,10 @@ IP_ADAPTER_WEIGHT = "ip-adapter-plus-face_sdxl_vit-h.safetensors"
 # Referencia Gemini = o alvo de qualidade. Só capitulos que ja tem imagem dele.
 # Capitulos que nao foram usados para afinar: teste de generalizacao.
 ALVOS = [
-    (12, 1, 1201),
     (12, 2, 1202),
-    (25, 1, 2501),
     (25, 3, 2503),
     (33, 2, 3302),
+    (1, 2, 102),
 ]
 
 DESTINO = REPO / "docs" / "public" / "cenas" / "_teste_qualidade"
@@ -79,6 +80,22 @@ CENARIOS = {
     "beco": "narrow alley at night, rain, neon signs",
 }
 CENARIO_PADRAO = "city street at night, rain, neon signs"
+
+# Encenacao por tipo de plano. Sem dizer ONDE o corpo esta no quadro, o
+# IP-Adapter plus-face recentraliza o rosto e a cena vira retrato.
+STAGING = {
+    # "off-center at the left" sozinho jogava o personagem para o fundo da rua;
+    # "in the foreground" o traz de volta sem recentralizar o rosto.
+    "medium shot": "person in the foreground at the left, seen from the side, waist up",
+    "over-the-shoulder shot": "seen from behind over the shoulder, back of head in foreground",
+    "low angle shot": "camera low near the ground looking up, full body against the sky",
+    "close-up": "face fills the frame, shallow depth of field",
+    "dutch angle medium shot": "tilted camera, person off-center, full body",
+    "extreme close-up on hands": "only the hands, no face visible",
+    "wide two-shot": "two people far apart, both full body, wide empty space between",
+    "medium tracking shot from behind": "following behind the person, back turned to camera",
+}
+STAGING_PADRAO = "full body visible, off-center, candid action, looking away"
 
 
 def cenario_da_cena(texto: str) -> str:
@@ -231,8 +248,9 @@ def montar_prompt(pipe, cena, anchor, usa_ancora: bool) -> str:
     if usa_ancora and anchor:
         # Equilibrio: "subject small in frame" (v5) matava o personagem no quadro;
         # sem nada (v4) virava retrato 3x4. Meio-termo: corpo inteiro, mas legivel.
-        # O Gemini poe o personagem EM acao dentro do ambiente, nao posando de frente.
-        partes.append("full body visible, mid-distance framing, candid action, looking away")
+        # Posicionamento espacial explicito: "mid-distance" sozinho nao vencia o
+        # IP-Adapter, que recentraliza o rosto. Dizer ONDE o corpo esta no quadro vence.
+        partes.append(STAGING.get(cena.shot, STAGING_PADRAO))
         roupa = characters.wardrobe(anchor)
         if roupa:
             partes.append(f"wearing {roupa[:32]}")
