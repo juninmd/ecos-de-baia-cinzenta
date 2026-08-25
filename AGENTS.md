@@ -58,10 +58,32 @@
    `docs/public/cenas/capitulo_N/`. Regerar uma cena que já existe é proibido: gasta cota e
    introduz variação de aparência sem necessidade. A única exceção é a cena reprovada na
    homologação — refugo não é arte aprovada e não ocupa lugar de cena.
-7. **Degradar sem quebrar a identidade.** Ordem de fallback: Kontext local → Kontext em Space →
-   texto-para-imagem com descritor canônico → arte já existente do capítulo. Só se cai para o
-   penúltimo nível é aceitável perder fidelidade — e a cena deve ser regerada depois, quando
-   houver GPU/cota.
+7. **Dois modelos locais, escolhidos pelo tipo de plano.** A rota local não é um modelo só:
+   - **Cena de ambiente** (sem âncora de identidade, `identity_scale == 0`, todo plano `wide`):
+     **ZavyChromaXL v8** (`misri/zavychromaxl_v80`) + SDXL, ~40 s por imagem. O establishing
+     shot do Gemini também não tem personagem — forçar âncora aqui era o que transformava toda
+     cena em retrato 3x4.
+   - **Cena com personagem**: **Qwen-Image-Edit-2509** em GGUF Q2_K
+     (`QuantStack/Qwen-Image-Edit-2509-GGUF`), ~4 min por imagem. Recebe o retrato de referência
+     como imagem de entrada e edita o mundo em volta, em vez de injetar um vetor de rosto na
+     difusão. É o que preserva rosto **e** vestuário canônico — o IP-Adapter troca a roupa.
+   - O prompt do Edit tem que **separar o que preserva do que muda**. Só pedir "mantenha o rosto"
+     faz o modelo recortar a referência e trocar só o fundo: mesma pose, mesmos adereços, dez
+     cenas do capítulo viram dez retratos iguais. É preciso afirmar que é uma fotografia nova,
+     com pose e ação diferentes, **e** cravar o enquadramento na mesma instrução — uma sem a
+     outra derruba o resultado.
+   - Adereço que aparece no retrato de referência (o copo de café do Gabo) vaza para a cena
+     gerada. Se a cena não comporta o objeto, ele entra no prompt negativo.
+
+   Ordem de fallback quando a rota local falha: Kontext em Space → texto-para-imagem com
+   descritor canônico → arte já existente do capítulo. Só nos dois últimos níveis é aceitável
+   perder fidelidade — e a cena deve ser regerada depois, quando houver GPU/cota.
+
+   Modelos testados e reprovados nesta escolha, todos comparados lado a lado com a saída do
+   Gemini na mesma cena: SDXL base 1.0, RealVisXL V5.0, DreamShaper XL 1.0 (ignora instrução de
+   enquadramento), Juggernaut XL v9 (obedece encenação mas não desenha o evento da cena),
+   FLUX.1-dev (pede ~35 GB de working set: não cabe em 32 GB de RAM) e Qwen-Image comum
+   (sem referência de identidade).
 8. **Identidade sonora também é canônica.** Cada personagem tem uma voz fixa em
    `scripts/daily_telegram/voices.py`. A voz de um personagem nunca muda entre capítulos, e
    figurante nunca recebe o timbre de um protagonista — trocar a voz confunde tanto quanto
