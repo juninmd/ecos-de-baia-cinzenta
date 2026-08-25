@@ -17,20 +17,34 @@ NOME_CAPITULO = re.compile(r"capitulo-(\d+(?:\.\d+)?)\.md$")
 
 
 def extract_chapter_title_and_clean_text(raw_text: str) -> Tuple[str, str]:
-    """Separa o título do frontmatter do corpo do capítulo."""
+    """Separa o título do frontmatter do corpo do capítulo.
+
+    O frontmatter é só o bloco `---` do topo do arquivo. Os capítulos usam `---`
+    também como separador de cena: alternar a cada ocorrência fazia o corpo entrar
+    e sair de "frontmatter" e engolia os trechos ímpares — 69% do capítulo 38 sumia
+    antes de virar prompt.
+    """
     title = "Capítulo"
     body_lines: List[str] = []
-    in_frontmatter = False
+    linhas = raw_text.splitlines()
 
-    for line in raw_text.splitlines():
-        if line.strip() == "---":
-            in_frontmatter = not in_frontmatter
-            continue
-        if in_frontmatter:
+    inicio = 0
+    if linhas and linhas[0].strip() == "---":
+        for i, line in enumerate(linhas[1:], start=1):
+            if line.strip() == "---":
+                inicio = i + 1
+                break
             if line.startswith("title:"):
                 title = line.split("title:", 1)[1].strip().strip("\"'")
         else:
-            body_lines.append(line)
+            # Sem `---` de fechamento não há frontmatter: o arquivo inteiro é corpo.
+            inicio = 0
+
+    for line in linhas[inicio:]:
+        # Daqui em diante `---` é régua horizontal/separador de cena: só a linha cai.
+        if line.strip() == "---":
+            continue
+        body_lines.append(line)
 
     return title, "\n".join(body_lines).strip()
 
