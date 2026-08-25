@@ -109,6 +109,7 @@ def process_all_chapters():
             # GPU local primeiro (SDXL + IP-Adapter, identidade travada); Pollinations é
             # só o plano B se a GPU estiver indisponível ou a geração local falhar.
             gen_res = None
+            gen_local = False
             if _LOCAL_GEN is not None:
                 # Plano aberto vai como cena de ambiente, sem âncora: identity_scale é
                 # 0.0 nesses casos e o prompt de personagem só atrapalharia o quadro.
@@ -123,6 +124,7 @@ def process_all_chapters():
                         None, s_obj.compact_prompt_sem_personagem(), scene_file_path, seed,
                     )
                 if gen_res:
+                    gen_local = True
                     print(f"🖥️ GPU local: {scene_file_path.name}")
                 else:
                     print("↩ Fallback: GPU local indisponível para esta cena.")
@@ -139,7 +141,10 @@ def process_all_chapters():
                 )
 
             if gen_res and scene_file_path.exists():
-                caption = f"{cap['folder_name']} cena_{scene_idx}"
+                # O autor acompanha pelo Telegram e precisa saber de que rota veio a
+                # imagem para julgar a qualidade: GPU local (com o modelo) ou fallback.
+                rota = f"GPU local · {local_gpu.BASE_MODEL.split('/')[-1]}" if gen_local else "Pollinations"
+                caption = f"{cap['folder_name']} cena_{scene_idx} — {rota}"
                 send_telegram_photo(scene_file_path, caption)
             else:
                 print(f"❌ Failed to generate {cap['folder_name']} cena_{scene_idx}.jpg")
