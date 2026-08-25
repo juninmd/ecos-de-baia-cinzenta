@@ -17,6 +17,16 @@ NEGATIVE = (
     "watermark, logo, blurry, low quality, nude, nudity, nsfw, exposed breasts, "
     "bare chest, shirtless, topless, underwear, lingerie, sexualized, explicit"
 )
+# O IP-Adapter plus-face recentraliza o rosto: sem isto, todo plano com âncora sai
+# como retrato 3x4 olhando para a câmera, em vez da cena do capítulo. Só não entra
+# no close-up, onde o rosto ocupando o quadro é justamente o enquadramento pedido.
+NEGATIVE_ANTI_RETRATO = (
+    ", posing for camera, looking at viewer, centered portrait, static pose, "
+    "close-up, headshot, face fills frame, id photo, selfie, studio backdrop, "
+    "plain background"
+)
+# Acima disso o enquadramento é close-up de propósito.
+LIMIAR_CLOSE_UP = 0.8
 
 FLUX_MODEL = "black-forest-labs/FLUX.1-Kontext-dev"
 
@@ -125,10 +135,13 @@ def generate(reference: Path, prompt: str, destino: Path, seed: int,
         else:
             referencia = Image.open(reference).convert("RGB")
         pipe.set_ip_adapter_scale(identity_scale)
+        negativo = NEGATIVE
+        if 0 < identity_scale < LIMIAR_CLOSE_UP:
+            negativo += NEGATIVE_ANTI_RETRATO
         gerador = torch.Generator(device="cuda").manual_seed(seed)
         imagem = pipe(
             prompt=prompt[:900],
-            negative_prompt=NEGATIVE,
+            negative_prompt=negativo,
             ip_adapter_image=referencia,
             num_inference_steps=steps,
             # 6.0+ satura e "plastifica"; 5.5 devolve textura de filme.
