@@ -13,9 +13,12 @@ IP_ADAPTER_REPO = "h94/IP-Adapter"
 IP_ADAPTER_WEIGHT = "ip-adapter-plus-face_sdxl_vit-h.safetensors"
 IDENTITY_SCALE = 0.85
 NEGATIVE = (
-    "different person, changed face, deformed face, wrong gender, extra limbs, text, "
-    "watermark, logo, blurry, low quality, nude, nudity, nsfw, exposed breasts, "
-    "bare chest, shirtless, topless, underwear, lingerie, sexualized, explicit"
+    "different person, changed face, deformed face, wrong gender, extra limbs, "
+    "deformed hands, extra fingers, fused fingers, text, watermark, logo, blurry, "
+    "low quality, nude, nudity, nsfw, exposed breasts, bare chest, shirtless, "
+    "topless, underwear, lingerie, sexualized, explicit, "
+    # Baía Cinzenta é cidade brasileira: sem isto a rua vira Tóquio de Blade Runner.
+    "chinese text, japanese text, kanji, asian signage, tokyo, oversaturated"
 )
 # O IP-Adapter plus-face recentraliza o rosto: sem isto, todo plano com âncora sai
 # como retrato 3x4 olhando para a câmera, em vez da cena do capítulo. Só não entra

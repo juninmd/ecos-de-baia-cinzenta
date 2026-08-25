@@ -146,7 +146,12 @@ class Scene:
         """
         if "wide" in self.shot:
             return 0.0
-        if self.shot in ("close-up", "extreme close-up on hands"):
+        # Plano de mãos não precisa de identidade facial: com o plus-face ativo o
+        # modelo insistia em desenhar o rosto — contra a própria instrução do plano —
+        # e ainda entregava mão deformada (cap. 8 cena 8).
+        if self.shot == "extreme close-up on hands":
+            return 0.0
+        if self.shot == "close-up":
             return 0.85
         return 0.6
 
