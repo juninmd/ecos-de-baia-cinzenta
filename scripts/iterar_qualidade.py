@@ -47,8 +47,17 @@ DESTINO.mkdir(parents=True, exist_ok=True)
 # Na v1 esse bloco ficou no fim e o CLIP cortou fora em 77 tokens -> saiu dia pastel.
 # Nucleo curto e inegociavel: humor, hora e pais. Entra cedo, nunca e' truncado.
 # Compacto de proposito: cada conceito extra rouba token de outro e dilui os dois.
-STYLE_NUCLEO = "cyberpunk brazilian city at night, neon signs, portuguese signage, heavy rain"
-STYLE_RICO = "high contrast, deep shadows, cinematic, highly detailed"
+# Paleta: o Gemini e' quente e sujo; sem "desaturated/grimy" o SDXL vai para
+# ciano-magenta saturado de Blade Runner generico e perde a cara do livro.
+STYLE_NUCLEO = (
+    "gritty cyberpunk brazilian city at night, rain, portuguese signage, "
+    "warm sodium streetlight, desaturated grimy colors"
+)
+# Textura urbana brasileira: e' o que da densidade de camadas que o Gemini tem.
+STYLE_RICO = (
+    "tangled overhead cables, air conditioners, satellite dishes, weathered concrete, "
+    "soot stains, layered depth, foreground detail, cinematic, highly detailed"
+)
 NEGATIVE = (
     "chinese text, japanese text, kanji, asian signage, tokyo, "
     "watermark, logo, deformed face, deformed hands, extra limbs, blurry, "
@@ -56,7 +65,11 @@ NEGATIVE = (
     "topless, underwear, sexualized, studio backdrop, plain background, catalog photo, "
     "fashion lookbook, product shot, white background"
 )
-NEGATIVE_WIDE = NEGATIVE + ", close-up, portrait, headshot, face fills frame, id photo, selfie"
+NEGATIVE_ANCORA = NEGATIVE + ", posing for camera, looking at viewer, centered portrait, static pose"
+NEGATIVE_WIDE = NEGATIVE + (
+    ", close-up, portrait, headshot, face fills frame, id photo, selfie, "
+    "oversaturated, garish colors, cyan and magenta only, clean pristine city"
+)
 
 W, H = 1376, 768
 
@@ -185,7 +198,8 @@ def montar_prompt(pipe, cena, anchor, usa_ancora: bool) -> str:
     if usa_ancora and anchor:
         # Equilibrio: "subject small in frame" (v5) matava o personagem no quadro;
         # sem nada (v4) virava retrato 3x4. Meio-termo: corpo inteiro, mas legivel.
-        partes.append("full body visible, mid-distance framing")
+        # O Gemini poe o personagem EM acao dentro do ambiente, nao posando de frente.
+        partes.append("full body visible, mid-distance framing, candid action, looking away")
         roupa = characters.wardrobe(anchor)
         if roupa:
             partes.append(f"wearing {roupa[:32]}")
@@ -227,13 +241,14 @@ def main():
         usa_ancora = bool(anchor) and not is_wide
 
         prompt = montar_prompt(pipe, cena, anchor, usa_ancora)
-        negativo = NEGATIVE_WIDE if is_wide else NEGATIVE
+        negativo = NEGATIVE_WIDE if is_wide else (NEGATIVE_ANCORA if usa_ancora else NEGATIVE)
         print(f"[cap {numero} cena {indice}] shot={cena.shot!r} ancora={'sim: ' + anchor['name'] if usa_ancora else 'NAO (plano de ambiente)'}")
         print(f"  {prompt[:160]}")
 
         kwargs = dict(
             prompt=prompt[:900], negative_prompt=negativo,
-            num_inference_steps=40, guidance_scale=7.0,
+            # 7.0 saturava e "plastificava"; 5.5 devolve textura de filme.
+            num_inference_steps=40, guidance_scale=5.5,
             width=W, height=H,
             generator=torch.Generator(device="cuda").manual_seed(seed),
         )
