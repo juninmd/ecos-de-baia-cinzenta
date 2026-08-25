@@ -2,7 +2,9 @@
 from pathlib import Path
 from typing import Optional
 
-BASE_MODEL = "stabilityai/stable-diffusion-xl-base-1.0"
+# Venceu a comparacao lado a lado contra as imagens do Gemini (scripts/iterar_qualidade.py).
+# Descartados no caminho: RealVisXL V5.0 e DreamShaper XL 1.0.
+BASE_MODEL = "RunDiffusion/Juggernaut-XL-v9"
 IP_ADAPTER_REPO = "h94/IP-Adapter"
 # plus-face: treinado em rosto. O ip-adapter_sdxl genérico devolve "alguém parecido",
 # o que viola a Regra Zero do AGENTS.md (fisionomia nunca muda).
@@ -127,7 +129,8 @@ def generate(reference: Path, prompt: str, destino: Path, seed: int,
             negative_prompt=NEGATIVE,
             ip_adapter_image=referencia,
             num_inference_steps=steps,
-            guidance_scale=6.0,
+            # 6.0+ satura e "plastifica"; 5.5 devolve textura de filme.
+            guidance_scale=5.5,
             width=size,
             height=int(size * 9 / 16) // 8 * 8,
             generator=gerador,

@@ -110,7 +110,9 @@ def process_all_chapters():
             # só o plano B se a GPU estiver indisponível ou a geração local falhar.
             gen_res = None
             if _LOCAL_GEN is not None:
-                if anchor:
+                # Plano aberto vai como cena de ambiente, sem âncora: identity_scale é
+                # 0.0 nesses casos e o prompt de personagem só atrapalharia o quadro.
+                if anchor and s_obj.identity_scale > 0:
                     referencia = characters.reference_image(anchor)
                     gen_res = _LOCAL_GEN(
                         referencia, s_obj.compact_prompt(anchor), scene_file_path, seed,
