@@ -153,7 +153,13 @@ class Scene:
             return 0.0
         if self.shot == "close-up":
             return 0.85
-        return 0.6
+        # 0.6 e 0.45 ainda saíam como retrato selfie: o plus-face recentraliza o rosto
+        # e vence a encenação. Em 0.30 a composição finalmente obedece (corpo inteiro,
+        # descentralizado, ambiente à volta) e a fisionomia continua reconhecível.
+        # A troca de gênero que eu tinha visto em peso baixo vinha do "man wearing"
+        # fixo no prompt, já corrigido — não do peso.
+        # Custo assumido: a semelhança fica um pouco mais solta que em 0.6.
+        return 0.30
 
     @property
     def texto_limpo(self) -> str:
