@@ -27,10 +27,10 @@ from PIL import Image
 from scripts.art_gen.chapters import extract_chapter_title_and_clean_text, limpar_titulos
 from scripts.daily_telegram import scenes, characters
 
-GGUF_REPO = "QuantStack/Qwen-Image-Edit-2509-GGUF"
-GGUF_FILE = "Qwen-Image-Edit-2509-Q2_K.gguf"
-BASE_REPO = "Qwen/Qwen-Image-Edit-2509"
-MODEL_LABEL = "Qwen-Image-Edit-2509 Q2_K"
+GGUF_REPO = "unsloth/Qwen-Image-Edit-2511-GGUF"
+GGUF_FILE = "qwen-image-edit-2511-Q2_K.gguf"
+BASE_REPO = "Qwen/Qwen-Image-Edit-2511"
+MODEL_LABEL = "Qwen-Image-Edit-2511 Q2_K"
 
 DESTINO = REPO / "docs" / "public" / "cenas" / "_teste_qualidade"
 DESTINO.mkdir(parents=True, exist_ok=True)
@@ -38,13 +38,11 @@ DESTINO.mkdir(parents=True, exist_ok=True)
 # Cenas COM personagem, que e onde o Zavy tem o problema de semelhanca.
 # Variedade proposital: personagens diferentes e tipos de plano diferentes,
 # para ver se a fidelidade se sustenta fora do Gabo.
+# Mesmas cenas e seeds da 2509, com as duas que falharam feio na frente
+# (cap 9 elevador e cap 12 tunel sairam lavadas, rosto ilegivel).
 ALVOS = [
-    (9, 7, 907),
+    (11, 7, 1107),
     (33, 2, 3302),
-    (38, 3, 3803),
-    (218, 3, 21803),
-    (25, 3, 2503),
-    (12, 2, 1202),
 ]
 W, H = 1376, 768
 
@@ -146,10 +144,10 @@ def main():
     transformer = QwenImageTransformer2DModel.from_single_file(
         f"https://huggingface.co/{GGUF_REPO}/blob/main/{GGUF_FILE}",
         quantization_config=GGUFQuantizationConfig(compute_dtype=torch.bfloat16),
-        torch_dtype=torch.bfloat16, config=BASE_REPO, subfolder="transformer",
+        dtype=torch.bfloat16, config=BASE_REPO, subfolder="transformer",
     )
     pipe = QwenImageEditPlusPipeline.from_pretrained(
-        BASE_REPO, transformer=transformer, torch_dtype=torch.bfloat16)
+        BASE_REPO, transformer=transformer, dtype=torch.bfloat16)
     pipe.enable_model_cpu_offload()
     pipe.set_progress_bar_config(disable=True)
     print("pronto\n")
@@ -175,14 +173,14 @@ def main():
             generator=torch.Generator("cpu").manual_seed(seed),
         ).images[0]
 
-        local = DESTINO / f"QE_cap{numero}_cena{indice}.jpg"
+        local = DESTINO / f"Q2511_cap{numero}_cena{indice}.jpg"
         img.save(local, quality=95)
         print(f"  -> {local.name}")
 
         # A cena que o Zavy ja gerou, para o confronto direto.
         zavy = REPO / "docs" / "public" / "cenas" / f"capitulo_{numero}" / f"cena_{indice}.jpg"
         combo = trio(ref, zavy if zavy.exists() else None, local,
-                     DESTINO / f"COMPARA_QE_cap{numero}_cena{indice}.jpg")
+                     DESTINO / f"COMPARA_Q2511_cap{numero}_cena{indice}.jpg")
         enviar(combo, f"Capitulo {numero} cena {indice} | {anchor['name']} | "
                       f"REF | Zavy+IPAdapter | {MODEL_LABEL}")
         print()

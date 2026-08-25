@@ -63,8 +63,13 @@
      **ZavyChromaXL v8** (`misri/zavychromaxl_v80`) + SDXL, ~40 s por imagem. O establishing
      shot do Gemini também não tem personagem — forçar âncora aqui era o que transformava toda
      cena em retrato 3x4.
-   - **Cena com personagem**: **Qwen-Image-Edit-2509** em GGUF Q2_K
-     (`QuantStack/Qwen-Image-Edit-2509-GGUF`), ~4 min por imagem. Recebe o retrato de referência
+   - **Cena com personagem**: **Qwen-Image-Edit-2511** em GGUF Q2_K
+     (`unsloth/Qwen-Image-Edit-2511-GGUF`), ~4 min por imagem. Exige
+     **diffusers >= 0.40**: na 0.39 o modelo carrega mas o processo morre na geracao.
+     A versao 2509 foi testada antes e reprovada — em 5 cenas so 1 saiu boa, o resto
+     veio lavado e com o adereco da foto de referencia (o copo de cafe do Gabo)
+     colado em toda cena. A 2511 acertou as 4 cenas de teste e troca o adereco
+     conforme a cena. Recebe o retrato de referência
      como imagem de entrada e edita o mundo em volta, em vez de injetar um vetor de rosto na
      difusão. É o que preserva rosto **e** vestuário canônico — o IP-Adapter troca a roupa.
    - O prompt do Edit tem que **separar o que preserva do que muda**. Só pedir "mantenha o rosto"
