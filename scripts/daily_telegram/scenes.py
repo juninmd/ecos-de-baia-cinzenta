@@ -101,7 +101,7 @@ class Scene:
         partes = [self.shot]
         roupa = characters.wardrobe(anchor)
         if roupa:
-            partes.append(f"man wearing {roupa[:60]}")
+            partes.append(f"person wearing {roupa[:60]}")
         if local:
             partes.append(local[:40])
         partes.append(self.action)

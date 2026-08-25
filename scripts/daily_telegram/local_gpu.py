@@ -9,8 +9,9 @@ IP_ADAPTER_REPO = "h94/IP-Adapter"
 IP_ADAPTER_WEIGHT = "ip-adapter-plus-face_sdxl_vit-h.safetensors"
 IDENTITY_SCALE = 0.85
 NEGATIVE = (
-    "different person, changed face, deformed face, extra limbs, text, watermark, "
-    "logo, blurry, low quality"
+    "different person, changed face, deformed face, wrong gender, extra limbs, text, "
+    "watermark, logo, blurry, low quality, nude, nudity, nsfw, exposed breasts, "
+    "bare chest, shirtless, topless, underwear, lingerie, sexualized, explicit"
 )
 
 FLUX_MODEL = "black-forest-labs/FLUX.1-Kontext-dev"

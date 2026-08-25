@@ -17,7 +17,7 @@ sys.path.insert(0, str(REPO_ROOT))
 
 from scripts.art_gen import prompt_cena  # noqa: E402
 from scripts.art_gen.chapters import (  # noqa: E402
-    extract_chapter_title_and_clean_text, get_chapter_files,
+    extract_chapter_title_and_clean_text, get_chapter_files, limpar_titulos,
 )
 from scripts.build_scene_manifest import CENAS_POR_CAPITULO  # noqa: E402
 from scripts.daily_telegram import art, characters, local_gpu, scenes  # noqa: E402
@@ -85,6 +85,7 @@ def process_all_chapters():
         print(f"\n🎨 Processing {cap['folder_name']} (missing scenes: {missing_scenes})...")
         raw_text = cap["file_path"].read_text(encoding="utf-8")
         title, body_text = extract_chapter_title_and_clean_text(raw_text)
+        title, body_text = limpar_titulos(title, body_text)
         
         scene_objects = scenes.split_scenes(body_text, quantidade=CENAS_POR_CAPITULO)
 
