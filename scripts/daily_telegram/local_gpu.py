@@ -62,7 +62,7 @@ def kontext_generate(reference: Path, prompt: str, destino: Path, seed: int,
             generator=torch.Generator("cpu").manual_seed(seed),
         ).images[0]
         destino.parent.mkdir(parents=True, exist_ok=True)
-        imagem.save(destino, quality=92)
+        imagem.save(destino, quality=95)
         print(f"🧬 Kontext local: {destino.name}")
         return destino
     except BaseException as exc:
@@ -109,7 +109,7 @@ def _load():
 
 
 def generate(reference: Path, prompt: str, destino: Path, seed: int,
-             steps: int = 22, size: int = 1024,
+             steps: int = 40, size: int = 1376,
              identity_scale: float = IDENTITY_SCALE) -> Optional[Path]:
     """Scene image anchored on the character portrait — assinatura usada por animate.scene_image."""
     try:
@@ -138,7 +138,7 @@ def generate(reference: Path, prompt: str, destino: Path, seed: int,
             generator=gerador,
         ).images[0]
         destino.parent.mkdir(parents=True, exist_ok=True)
-        imagem.save(destino, quality=92)
+        imagem.save(destino, quality=95)
         print(f"🖥️ GPU local: {destino.name}")
         return destino
     except BaseException as exc:
