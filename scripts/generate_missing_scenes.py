@@ -20,7 +20,14 @@ from scripts.art_gen.chapters import (  # noqa: E402
     extract_chapter_title_and_clean_text, get_chapter_files,
 )
 from scripts.build_scene_manifest import CENAS_POR_CAPITULO  # noqa: E402
-from scripts.daily_telegram import art, characters, scenes  # noqa: E402
+from scripts.daily_telegram import art, characters, local_gpu, scenes  # noqa: E402
+
+# GPU local primeiro (sem cota, identidade travada por IP-Adapter): AGENTS.md §7.
+_LOCAL_GEN = local_gpu.generate if local_gpu.available() else None
+if _LOCAL_GEN:
+    print("🖥️ GPU local disponível: SDXL + IP-Adapter tem prioridade sobre Pollinations.")
+else:
+    print("⚠ GPU local indisponível; usando Pollinations (sem fidelidade de personagem).")
 
 TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
 TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID")
@@ -91,26 +98,43 @@ def process_all_chapters():
             # Character detection and anchor selection
             detected_chars = s_obj.personagens
             anchor = characters.pick_anchor(detected_chars)
-            
-            if anchor:
-                prompt = s_obj.edit_prompt(anchor)
-            else:
-                prompt = s_obj.image_prompt(title)
-                
+
             # Regra 4 do AGENTS.md: seed = capítulo * 100 + índice da cena.
             seed = prompt_cena.seed_da_cena(cap["num_str"], scene_idx)
             scene_file_path = folder_path / f"cena_{scene_idx}.jpg"
-            
+
             print(f"📸 Generating {cap['folder_name']} cena_{scene_idx}.jpg (seed={seed})...")
-            gen_res = art.generate_image(
-                prompt=prompt,
-                output_path=scene_file_path,
-                seed=seed,
-                width=1280,
-                height=720,
-                retries=3
-            )
-            
+
+            # GPU local primeiro (SDXL + IP-Adapter, identidade travada); Pollinations é
+            # só o plano B se a GPU estiver indisponível ou a geração local falhar.
+            gen_res = None
+            if _LOCAL_GEN is not None:
+                if anchor:
+                    referencia = characters.reference_image(anchor)
+                    gen_res = _LOCAL_GEN(
+                        referencia, s_obj.compact_prompt(anchor), scene_file_path, seed,
+                        identity_scale=s_obj.identity_scale,
+                    )
+                else:
+                    gen_res = _LOCAL_GEN(
+                        None, s_obj.compact_prompt_sem_personagem(), scene_file_path, seed,
+                    )
+                if gen_res:
+                    print(f"🖥️ GPU local: {scene_file_path.name}")
+                else:
+                    print("↩ Fallback: GPU local indisponível para esta cena.")
+
+            if gen_res is None:
+                prompt = s_obj.edit_prompt(anchor) if anchor else s_obj.image_prompt(title)
+                gen_res = art.generate_image(
+                    prompt=prompt,
+                    output_path=scene_file_path,
+                    seed=seed,
+                    width=1280,
+                    height=720,
+                    retries=3,
+                )
+
             if gen_res and scene_file_path.exists():
                 caption = f"{cap['folder_name']} cena_{scene_idx}"
                 send_telegram_photo(scene_file_path, caption)
