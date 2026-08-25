@@ -30,12 +30,13 @@ IP_ADAPTER_REPO = "h94/IP-Adapter"
 IP_ADAPTER_WEIGHT = "ip-adapter-plus-face_sdxl_vit-h.safetensors"
 
 # Referencia Gemini = o alvo de qualidade. Só capitulos que ja tem imagem dele.
+# Capitulos que nao foram usados para afinar: teste de generalizacao.
 ALVOS = [
-    (1, 1, 101),
-    (1, 2, 102),
-    (1, 3, 103),
-    (38, 1, 3801),
-    (38, 3, 3803),
+    (12, 1, 1201),
+    (12, 2, 1202),
+    (25, 1, 2501),
+    (25, 3, 2503),
+    (33, 2, 3302),
 ]
 
 DESTINO = REPO / "docs" / "public" / "cenas" / "_teste_qualidade"
@@ -47,17 +48,47 @@ DESTINO.mkdir(parents=True, exist_ok=True)
 # Na v1 esse bloco ficou no fim e o CLIP cortou fora em 77 tokens -> saiu dia pastel.
 # Nucleo curto e inegociavel: humor, hora e pais. Entra cedo, nunca e' truncado.
 # Compacto de proposito: cada conceito extra rouba token de outro e dilui os dois.
-# Paleta: o Gemini e' quente e sujo; sem "desaturated/grimy" o SDXL vai para
-# ciano-magenta saturado de Blade Runner generico e perde a cara do livro.
-STYLE_NUCLEO = (
-    "gritty cyberpunk brazilian city at night, rain, portuguese signage, "
-    "warm sodium streetlight, desaturated grimy colors"
-)
+# So estilo e mundo - NUNCA lugar nem clima. Fixar "rua chuvosa a noite" aqui
+# fazia laboratorio (cap 25) e caverna (cap 12) virarem rua molhada tambem.
+STYLE_NUCLEO = "gritty cyberpunk brazil, desaturated grimy colors, dramatic lighting"
+
+# O cenario sai do texto da cena. So cai no default quando nada e' reconhecido.
+CENARIOS = {
+    "laboratório": "sterile white high-tech laboratory interior",
+    "laboratorio": "sterile white high-tech laboratory interior",
+    "caverna": "vast underground cavern",
+    "túnel": "concrete tunnel interior", "tunel": "concrete tunnel interior",
+    "esgoto": "sewer tunnel interior",
+    "hospital": "hospital corridor interior",
+    "delegacia": "police precinct interior",
+    "distrito": "police precinct interior",
+    "escritório": "office interior", "escritorio": "office interior",
+    "sala": "room interior", "quarto": "bedroom interior",
+    "cozinha": "kitchen interior", "bar": "dim bar interior",
+    "elevador": "elevator interior", "corredor": "long corridor interior",
+    "galpão": "warehouse interior", "galpao": "warehouse interior",
+    "porão": "basement interior", "porao": "basement interior",
+    "igreja": "church interior", "tribunal": "courtroom interior",
+    "praia": "grey beach at dusk", "mar": "dark sea",
+    "dique": "massive sea wall", "porto": "industrial docks",
+    "favela": "hillside favela at night",
+    "floresta": "dark forest", "mata": "dark overgrown vegetation",
+    "deserto": "dry wasteland", "telhado": "rooftop at night",
+    "avenida": "wide city avenue at night, rain, neon signs",
+    "rua": "city street at night, rain, neon signs",
+    "beco": "narrow alley at night, rain, neon signs",
+}
+CENARIO_PADRAO = "city street at night, rain, neon signs"
+
+
+def cenario_da_cena(texto: str) -> str:
+    baixo = texto.lower()
+    for pt, en in CENARIOS.items():
+        if re.search(rf"\b{re.escape(pt)}s?\b", baixo):
+            return en
+    return CENARIO_PADRAO
 # Textura urbana brasileira: e' o que da densidade de camadas que o Gemini tem.
-STYLE_RICO = (
-    "tangled overhead cables, air conditioners, satellite dishes, weathered concrete, "
-    "soot stains, layered depth, foreground detail, cinematic, highly detailed"
-)
+STYLE_RICO = "weathered surfaces, layered depth, foreground detail, cinematic, highly detailed"
 NEGATIVE = (
     "chinese text, japanese text, kanji, asian signage, tokyo, "
     "watermark, logo, deformed face, deformed hands, extra limbs, blurry, "
@@ -190,8 +221,10 @@ def caber_em_tokens(pipe, partes, teto: int = 74) -> str:
 
 def montar_prompt(pipe, cena, anchor, usa_ancora: bool) -> str:
     """Partes em ordem de prioridade; o que nao couber nos 77 tokens cai pelo fim."""
-    partes = [cena.shot, STYLE_NUCLEO]
-    if "wide" in cena.shot:
+    # O cenario vem antes do estilo: e' o que decide se a cena e' rua ou laboratorio.
+    cenario = cenario_da_cena(cena.texto)
+    partes = [cena.shot, cenario, STYLE_NUCLEO]
+    if "wide" in cena.shot and cenario is CENARIO_PADRAO:
         partes.append("vast skyline, towering skyscrapers")
     # A acao traduzida vem cedo: e' o que diferencia a cena de um cartao-postal.
     partes.append(acao_em_ingles(cena.texto, limite=3))
