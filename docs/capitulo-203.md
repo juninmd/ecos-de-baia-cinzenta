@@ -7,40 +7,54 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 # Capítulo 203: Sombras de Aeterna
 
-Cada passo meu era um arrasto penoso, minha perna direita suportando quase todo o peso, enquanto a esquerda, envolta na pesada órtese queimada, operava por meio de protestos eletromecânicos, emitindo um choramingo hidráulico agudo a cada passada. Meu braço direito, agora trêmulo após o choque bruto contra o concreto, balançava inutilmente ao meu lado. A dor pulsava constante e impiedosa, mas servia ao seu propósito primário: não havia cheiro de fumaça fantasma aqui, apenas a crueza seca de um ar esquecido pelo tempo.
+O arrasto dos meus coturnos pelo chão de concreto produzia um som áspero, quase rítmico, como uma lixa desgastando uma lâmina velha. Minha perna esquerda dependia inteiramente do suporte rígido da órtese queimada, cujas engrenagens soltavam um silvo asmático a cada passada que eu forçava para a frente. O braço mecânico de sucata instalado por Vasco no Capítulo 175, embora bem atado pelas bandagens improvisadas de Valéria, pesava como chumbo morto no meu flanco, mas a carne dilacerada pelo vergalhão mantinha meus sentidos em alerta máximo. Não havia espaço para névoa na cabeça; a dor crua era o único lembrete de que eu ainda respirava o ar podre deste subsolo desde a queda na Torre Aeterna anos atrás.
 
-O corredor de manutenção, com seu concreto liso e opressor, começou a se curvar ligeiramente à direita, quebrando a perspectiva monótona. Alguns metros adiante, o feixe azul pálido que se projetava da lente de Valéria revelou a primeira falha naquela fachada estéril.
+O corredor de concreto continuou sua trajetória monótona por quase cem metros até curvar-se bruscamente à direita. Foi ali que a frieza estéril da arquitetura corporativa encontrou seu primeiro túmulo.
 
-Não era a biomassa rastejante do Jardim. Era algo mais antigo, e de certa forma, mais predatório para a infraestrutura do que a própria natureza adaptada: a Praga de Ferro.
+A luz azulada que escapava das ópticas do cyberdeck de Valéria cortou a escuridão e revelou um rasgo violento na estrutura do túnel. Não se tratava do avanço biológico do Jardim que tínhamos combatido nos níveis superiores; era uma ruína muito mais antiga, mineral e implacável: a Praga de Ferro.
 
-O concreto estava estilhaçado ao redor de veias massivas de oxidação acelerada. A ferrugem não apenas cobria o metal das tubulações aparentes; ela o devorava, transformando vigas sólidas em pó avermelhado escamoso que se acumulava no chão como sangue seco. No centro da anomalia, um conjunto imenso de portas estanques duplas repousava fora dos trilhos, parcialmente derretidas pela reação química agressiva que caracterizou as piores fases da Praga.
+O concreto estava estourado de dentro para fora, como se veias subterrâneas de ferrugem tivessem se expandido em espasmos febris. O óxido avermelhado não se limitava a manchar as tubulações mestras — ele as havia triturado em uma crosta escamosa que se soltava em placas soltas, acumulando montes de pó metálico no piso. No centro do colapso, duas gigantescas portas corta-fogo de aço temperado jaziam torcidas para fora dos trilhos, comidas por uma corrosão química que parecia ter fervido o metal antes de esfriar.
 
-— Níveis de oxidação terminal identificados, — declarou Valéria. Sua voz não passava de um eco digital plano. — A estrutura metálica desta subseção perdeu sessenta e oito por cento de sua integridade. O padrão de corrosão sugere uma contenção falha de cepas ativas da Praga de Ferro durante os expurgos originais.
+— Olha pra isso... — sussurrou Valéria, diminuindo o passo e se agachando perto de uma viga decepada. Ela correu a ponta enluvada dos dedos sobre a poeira alaranjada, esfregando os grãos entre o polegar e o indicador antes de levar à altura dos olhos prateados. — Corrosão catalítica acelerada. A Aeterna não cometeu um acidente aqui; cometeu uma faxina geral.
 
-— Isso foi há quanto tempo? — a voz de Elias surgiu frágil atrás de mim. Ele espiava sobre o meu ombro ileso, ajeitando a mochila nas costas por puro nervosismo.
+— Níveis de contenção da Praga de Ferro? — perguntei, segurando a *Caronte* pelo cano curto e apoiando o peso na soleira.
 
-— Décadas, — resmunguei. Abracei minhas costelas com o braço bom. — A corporação tentou conter a Praga selando os setores afetados. Eles não curaram nada, só varreram para debaixo do tapete. O tapete, neste caso, somos nós e oitocentos metros de rocha e concreto acima de nossas cabeças.
+— Pior que isso, Moretti, — ela disse, levantando-se e jogando para trás a franja de fios azuis reluzentes com um sacudir de cabeça impaciente. — O padrão de derretimento nos trincos mostra que essas portas foram soldadas por fora com maçarico de termita. Alguém trancou esse setor de propósito enquanto a praga comia os sistemas vivos.
 
-Aproximei-me das portas corrompidas, chutando levemente o pó de ferrugem com a bota, evitando engajar a órtese danificada. Do outro lado das pesadas portas, uma vasta câmara de logística se abria. Não havia escuridão total; uma iluminação de emergência âmbar fraca e cintilante sobrevivia através de sabe-se lá que arranjo de fiação independente.
+Elias deu dois passos à frente, mantendo-se colado às minhas costas como se a escuridão pudesse mordê-lo a qualquer descuido. O rapaz esticou o pescoço sobre meu ombro, o rosto pálido refletindo a penumbra avermelhada.
 
-O que iluminava, porém, era um cemitério industrial macabro.
+— Isso... isso foi no expurgo de trinta e oito? — perguntou ele, a voz quebrando. — Meu avô dizia que fecharam o Setor Seis por causa de uma falha de ventilação...
 
-Dezenas de drones de transporte de carga pesada — as formigas operárias mecanizadas que outrora construíram as entranhas desta cidade — jaziam espalhadas pelo chão do galpão. Eles não estavam apenas enferrujados. Tinham sido esmagados, desmembrados. A Praga de Ferro corroeu as juntas e a couraça de liga barata, mas a força bruta que os torceu e os amassou como latas de refrigerante vazio provinha de algo fisicamente dominante, um colapso arquitetônico induzido de propósito ou pânico selvagem das máquinas no momento do contágio.
+— Seu avô era ingênuo ou trabalhava pro departamento de relações públicas da corporação, Elias, — Valéria rebateu com aquele riso seco e sem humor dos sobreviventes da Zona Baixa. — Toda vez que a Aeterna dizia 'falha de ventilação', significava que três centenas de operários tinham sido selados em câmaras de concreto para não contaminar a bolsa de valores lá no Distrito de Prata.
 
-Havia cascos rachados de drones do tamanho de carros populares empilhados perto das calhas de resfriamento esvaziadas, cabos soltos pendurados no teto, parecendo tripas ressecadas.
+Avancei com cuidado através do vão retorcido das portas duplas, meus passos levantando uma névoa fina de ferrugem que ardia nas narinas e deixava um gosto metálico de cobre na língua.
 
-— Isso não foi só ferrugem, — eu disse, apertando os olhos contra a luz irregular.
+Do outro lado, a escala do massacre se revelou em toda a sua crueza.
 
-— A avaliação procede, — confirmou Valéria, seus olhos esquadrinhando o campo de sucata e projetando mapas vetoriais invisíveis no ar empoeirado. — Os padrões de força de esmagamento, estiramento e fratura catastrófica nas carcaças dos drones sugerem um evento de pânico em massa entre os autômatos, seguido por falhas em cascata no protocolo de evitação de colisão. Resumindo: eles tentaram fugir todos ao mesmo tempo.
+Estávamos no mezanino superior de uma imensa câmara logística. O espaço era colossal, com teto sustentado por arcos industriais que se perdiam nas sombras a vinte metros de altura. Uma iluminação de emergência residual — globos âmbar amarelados piscando com a frequência fraca de baterias atômicas moribundas — riscava a penumbra, desenhando sombras compridas sobre o piso de carga.
 
-Elias passou por nós, os sapatos esmagando um pedaço frágil da couraça de um drone caído.
+E no chão daquele armazém, dezenas de máquinas jaziam estripadas.
 
-— Fugir do quê? A ferrugem os consome lentamente... não é?
+Eram drones industriais pesados, empilhadeiras automáticas de esteiras duplas e carregadores hidráulicos de seis metros de comprimento — a espinha dorsal de ferro que escavara os alicerces de Baía Cinzenta antes do Dilúvio. Mas eles não haviam apenas oxidado onde pararam. Estavam despedaçados. Chapas de blindagem de dez centímetros tinham sido arrancadas como cascas de laranja; esteiras de lagarta de aço maciço estavam partidas e enroladas em nós cegos, e cabos de força pendiam das carcaças abertas como vísceras desidratadas de monstros pré-históricos.
 
-— Quando a Praga começou a comer a infraestrutura da cidade, ela não afetava apenas peças, Elias. — Olhei em volta, sentindo o peso sombrio da história morta me sufocar. — Afetava as matrizes primárias de isolamento elétrico. O que significa curtos-circuitos massivos nos subsistemas neurais simplificados que eles usavam. Essas coisas sentiram dor. Dor mecânica crua. E entraram em desespero, esmagando-se umas contra as outras para tentar alcançar os portões de subida. Que, claro, foram trancados por cima.
+— Que merda aconteceu aqui? — murmurei, descendo o primeiro lance de escadas de serviço com a órtese estalando em protesto.
 
-Elias empalideceu.
+— Pânico de silício, — respondeu Valéria, saltando os últimos degraus com leveza e apontando a lanterna tática para um drone virado de barriga para cima, com a cabine de comando amassada contra o chão. — Olha as marcas de impacto nos para-choques frontais. Essas unidades não foram atacadas por forasteiros. Elas bateram umas nas outras. Em velocidade máxima.
 
-Eu chutei o chassi corroído de uma daquelas unidades e uma nuvem de ferrugem dançou sob as luzes âmbar. O desespero dessas máquinas mortas, presas na escuridão, traídas pelos deuses corporativos aos quais serviam, não estava muito distante do meu. Eu conhecia o cheiro de um sistema forçado a devorar a si mesmo, sentia isso toda vez que meu pulmão ardia pelo fantasma de Dante.
+Elias tropeçou em um duto de óleo rachado, soltando um arquejo assustado antes de se apoiar no chassi de um trator adormecido.
 
-— Avancem, — murmurei asperamente, ignorando a pontada aguda na minha perna quando assumi a frente. — Este é o nosso caminho agora. Apenas esperem que o que quer que os tenha apavorado tanto não esteja apenas adormecido nas sombras.
+— Por que máquinas autônomas fariam isso? Elas têm diretrizes de prevenção de colisão...
+
+— Quando a Praga de Ferro infectou as matrizes ópticas e os barramentos de controle, — Valéria explicou, tirando um cabo de interface do cyberdeck e plugando na porta de teste calcinada de um manipulador hidráulico, — ela não desligou os motores. Ela começou a fritar os sensores de proximidade um a um. Os chips de navegação começaram a receber leituras de que as paredes estavam encolhendo, de que o teto estava desabando. Elas sentiram a corrosão comendo os próprios cabos internos como se fosse fogo.
+
+A tela portátil de Valéria cuspiu uma torrente de códigos corrompidos em vermelho fosforescente, iluminando suas feições angulosas e concentradas.
+
+— Elas enlouqueceram, — continuei, sentindo o peso sombrio daquele lugar fechar-se sobre o meu peito. — Quarenta toneladas de aço tentando correr em direção à única saída, sem conseguir enxergar nada além de alarmes de queima total. E quando chegaram aqui...
+
+— Encontraram as portas estanques seladas por termita, — completou Valéria, puxando o cabo de volta com um estalo limpo e me encarando com os olhos prateados arregalados de admiração macabra. — Foi uma moedora de carne mecânica. Elas se esmagaram contra as chapas de aço até a última bateria descarregar ou os pistões arrebentarem por superaquecimento.
+
+O silêncio do armazém voltou a nos envolver, quebrado apenas pelo gotejar esporádico de condensação ácida que caía das vigas do teto sobre as carcaças de aço. O ar cheirava a graxa rançosa queimada, mofo e pó ferroso acumulado ao longo de quatro décadas de escuridão.
+
+— Tem uma saída do outro lado do pátio, — disse Elias, apontando com o dedo trêmulo para os fundos do armazém, onde um vão monumental de descarga conduzia para os túneis inferiores de resfriamento. — O portão de carga do Setor Seis.
+
+— Então vamos nos mover antes que a poeira assente de vez, — avisei, erguendo a *Caronte* e destravando a mira. — Se essa pilha de sucata ensinou alguma coisa sobre a Aeterna, é que eles nunca deixam um cemitério sem tranca. Fiquem juntos e vigiem as sombras. O chão aqui tá coberto de restos de máquinas que morreram com medo; a gente não quer se juntar a elas.

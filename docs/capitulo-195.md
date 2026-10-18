@@ -7,41 +7,52 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 # Capítulo 195: O Sangue nas Engrenagens
 
-A válvula de meia tonelada cedeu com um gemido metálico agudo, ecoando pelo fosso como uma besta ferida. A escotilha de descompressão se abriu, revelando as entranhas escuras dos dutos de refrigeração secundários. Um vento gélido soprou de lá, cheirando a zinco molhado, ozônio velho e lodo calcificado, não a fumaça de charuto. Era um alívio temporário, mas caro.
+O interior do duto de refrigeração secundária era um pesadelo de ferro galvanizado e claustrofobia.
 
-Soltei o aro de aço incrustado de ferrugem. O braço direito pendeu inútil ao meu lado. Cada batimento cardíaco enviava uma onda de agonia latejante através do ombro, onde a musculatura havia rasgado sob o torque bruto da prótese hidráulica não calibrada. O líquido rubro e quente começou a ensopar a manga da minha jaqueta sintética, misturando-se ao óleo hidráulico que vazava do meu cotovelo cibernético danificado.
+Com pouco mais de um metro de diâmetro, o tubo cilíndrico nos forçava a avançar de gatinhas sobre um piso ondulado de chapas perfuradas, onde poças de água ácida condensada e lodo calcificado mordiam os joelhos através do tecido da calça. O ar era gelado, cheirando a zinco molhado, ozônio antigo e graxa queimada que vazava das juntas mecânicas da minha prótese avariada.
 
-— Rota liberada, — murmurei, a voz ríspida, raspando na garganta seca. Puxei uma respiração superficial, testando os limites da minha própria miséria. A dor era aguda, radiante e absolutamente perfeita. Era um farol no meio do nevoeiro mental, empurrando a maldita fumaça fantasma de volta para o abismo escuro da minha cabeça.
+O peso de vinte quilos da liga industrial no meu ombro direito arrastava-se como uma bigorna morta sobre o metal do duto. A cada impulso para a frente, as cicatrizes da fixação neural ardiam como se alguém estivesse encostando pontas de ferro em brasa na minha clavícula.
 
-Elias olhava para o meu ombro sangrando com os olhos arregalados de um vira-lata que acabou de ver alguém mastigar vidro. Ele recuou, piscando freneticamente.
-— Você é louco, cara. Completamente quebrado. Você não vai aguentar engatinhar quilômetros de duto sangrando desse jeito. Os "catadores" que vivem no Nível C vão farejar isso.
+— O duto tá afunilando na curva — a voz de Valéria veio de trás de mim, abafada pela acústica circular do tubo.
 
-Valéria interrompeu a histeria com a precisão implacável de um metrônomo.
-— Análise de fluido vital: Gabo perdeu aproximadamente novecentos mililitros de sangue. A taxa de coagulação natural é insuficiente. Recomendo cauterização imediata com os fios desencapados do conduíte central para evitar falência sistêmica durante o trajeto.
+Ela rastejava empurrando o cyberdeck enrolado em lona diante do peito. A luz azul dos filamentos de LED na franja curta dela projetava feixes recortados sobre as minhas costas ensanguentadas, revelando onde o tecido do sobretudo rasgara no confronto com as válvulas da estufa.
 
-Ela não demonstrou preocupação. Os olhos dela não tinham espaço para empatia, apenas apontavam uma falha mecânica no equipamento avariado que eu era.
+— Aguenta firme aí atrás, Elias — falei, o som da minha voz saindo áspero pelo esforço contínuo. — Se você empacar no meio do caminho, ninguém consegue dar a volta pra te tirar.
 
-— Não temos tempo, — rosnei, me arrastando para a entrada do duto circular. O metal sujo congelou a palma da minha mão não biológica. O chão sob nossos pés vibrava levemente; o inferno do Jardim ainda devorava o andar inferior e a temperatura do fosso subia rápido. — Se eu cauterizar, a dor diminui. Eu preciso da dor.
+— Eu tô andando! Eu tô andando! — o velho técnico gaguejava logo atrás de Valéria, a respiração saindo em silvos asmáticos pela máscara de carvão. — Mas o calor lá de trás tá subindo... Eu sinto o metal do piso esquentando na palma da minha mão! A onda de choque vai derreter essa tubulação!
 
-Elias hesitou na borda. — E se a gente ficar aqui e tentar barrar a porta? Talvez o fogo não passe.
-— A transferência térmica pelo metal derreterá suas terminações nervosas em doze minutos, — respondeu Valéria. — Probabilidade de sobrevivência estática: 0%. Probabilidade de sobrevivência em movimento contínuo: 12.4%. Avance, Elias.
+— Para de drama, Elias — Valéria cortou com firmeza, a voz carregada de autoridade de rua. — A comporta de alívio que o Gabo fechou na Subestação segurou a deflagração primária. A temperatura aqui dentro tá caindo três graus por minuto. O que você tá sentindo é só o seu próprio pânico cozinhando a sua cabeça. Respira pelo nariz e não para de mexer os joelhos.
 
-Ele engoliu em seco, derrotado pela matemática, e rastejou para o tubo escuro depois de mim. Valéria fechou a marcha, seus movimentos precisos e eficientes.
+Parei sob uma caixa de inspeção técnica onde a tubulação fazia uma curva de quarenta e cinco graus para a esquerda. O espaço vertical era ligeiramente maior, permitindo que eu me apoiasse sobre o joelho direito e respirasse fundo.
 
-O interior do duto era um pesadelo claustrofóbico. Tubos menores de condensação se enroscavam pelas paredes como veias doentes em um cadáver industrial. A escuridão era quase sólida, quebrada apenas pela pálida e fria luz tática dos implantes oculares de Valéria, projetando sombras alongadas e distorcidas que dançavam sobre as poças de água ácida estagnada.
+O esforço para arrombar a válvula monumental na subestação cobrara um preço alto: o ponto de solda do meu ombro sangrava num fluxo constante, encharcando a manga da camisa e pingando na grade de ferro com um som rítmico de torneira gotejando. Minha mão de carne tremia de exaustão, o gosto metálico de sangue e bile colado no palato.
 
-Rastejar com um braço inútil e uma perna mecânica cujas articulações rangiam com areia e ferrugem não era movimento, era penitência. Arrastei meu corpo polegada por polegada, usando a prótese pesada e desligada apenas como um peso morto que eu empurrava cegamente, focado em forçar o ombro dilacerado contra o aço frio cada vez que o espectro do trauma ameaçava voltar.
+Lembrei de cada ferida que acumulei desde o início dessa guerra contra a Aeterna; em Baía Cinzenta, a sobrevivência nunca era de graça. Cada quilômetro conquistado custava carne, metal e anos de vida que eu nunca mais teria de volta.
 
-Sempre que a temperatura aumentava levemente devido ao vapor remanescente do condensador, ou quando a luz da lanterna de Valéria piscava no lodo, minha mente tentava evocar a silhueta de Dante. O cheiro enjoativo do charuto começava a preencher meus pulmões num espasmo asfixiante de pânico. O ar faltava. E então, eu impulsionava todo o meu peso sobre o braço direito estraçalhado.
+Valéria alcançou o recuo da curva e parou ao meu lado, os olhos ópticos prateados faiscando sob a luz fria do scanner.
 
-O ombro rasgado guinchava e minha visão borrava em vermelho, a pura e crua biologia rompendo o véu da alucinação sintética e psicológica. A dor me ancorava de volta ao cheiro real de mofo, óleo e lixo industrial.
+— Pára um segundo, Gabo — ela ordenou em voz baixa.
 
-— Seu ritmo caiu quarenta e dois por cento, — informou Valéria lá de trás, sua voz ressoando de forma abafada no tubo estreito. — Os tremores em seu tronco indicam choque neurogênico incipiente devido aos repetidos estímulos dolorosos autoinfligidos.
+— A gente tem que continuar avançando, Val...
 
-— Continua calculando, Valéria, — murmurei, engasgando com o próprio suor que escorria pelo meu rosto sujo. — Só me diz a que distância estamos.
+— Eu mandei parar, cabeça-dura — ela puxou um rolo de fita hemostática de compressão médica de dentro do bolso tático e arrancou uma tira com os dentes. — Você tá deixando uma trilha de sangue fresco na grade que qualquer carniceiro com olfato cibernético consegue seguir no escuro. Se a gente não estancar essa sangria no ombro agora, você apaga por choque hipovolêmico antes da gente cruzar a fronteira do Setor 6.
 
-— Trezentos metros da junção de exaustão principal para o Setor 6. Há uma queda de pressão barométrica adiante. O duto deve desembocar nas catacumbas de serviço da infraestrutura legada, logo abaixo do Distrito Comercial.
+Ela não esperou minha permissão. Com a habilidade rápida e rude de quem já remendara dezenas de estivadores esfaqueados nas docas da Zona Sul, ela enfiou uma gaze compressiva sob o rasgo do meu casaco e enrolou a fita elástica ao redor da junção entre o meu ombro orgânico e a chapa de fixação da prótese.
 
-Elias resmungava atrás de mim, algo ininteligível sobre maldições e o colapso iminente das fundações. O cheiro de medo puro e suor azedo que emanava dele se misturava ao meu sangue e óleo queimado.
+A pressão sobre a carne viva foi excruciante. Cerrei os dentes com tanta força que o maxilar estalou, a respiração presa na garganta enquanto a dor me ancorava na realidade imediata daquele tubo escuro.
 
-O mundo subterrâneo da cidade era um vasto cemitério de máquinas mortas e fios rompidos, e nós éramos apenas fantasmas rastejando por suas entranhas de aço, tentando encontrar uma fresta de luz antes que fôssemos enterrados de vez na escuridão.
+— Pronto — ela deu um puxão final na fita, travando o adesivo com um tapa seco no meu braço de ferro. — Não vai ganhar prêmio de estética médica, mas estancou o vazamento. Agora para de tentar bancar o mártir imortal e usa o apoio do cotovelo mecânico pra distribuir o peso.
+
+Olhei para os olhos prateados dela. Sob a camada de fuligem e o cansaço visível nas olheiras, havia aquela mesma centelha de ironia protetora que sempre a mantinha humana, mesmo cercada por toneladas de sucata e cadáveres.
+
+— Obrigado, Val.
+
+— Me agradece me tirando desse buraco com vida — ela deu um meio-sorriso cansado, ajeitando a alça do deck no peito. — Quanto falta pro final desse duto, Elias?
+
+O técnico enfiou a cabeça no vão da curva, limpando o suor da testa com as costas da luva encardida.
+
+— Mais duzentos metros em declive suave. O duto desemboca bem na galeria de exaustão das catacumbas do Distrito Comercial. Mas... vocês têm certeza de que querem ir pra lá? As histórias que contam sobre o Setor 6 desde o apagão...
+
+— Histórias de fantasmas não me preocupam, Elias — rosnei, impulsionando meu corpo para a frente no tubo estreito. — Eu me preocupo com o que tá vivo e tem dentes. E pra esses, a gente ainda tem cartuchos em *Caronte*.
+
+Retomamos o rastejo pela escuridão de ferro. A corrente de ar ficava progressivamente mais fria e espaçosa à medida que nos aproximávamos da saída, soprando para longe os resíduos do incêndio e nos conduzindo para as profundezas esquecidas do distrito mais rico que a cidade um dia possuiu.

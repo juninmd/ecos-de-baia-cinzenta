@@ -23,7 +23,7 @@ BASE_RETRATOS = os.environ.get(
 )
 # Tarifa do tier anônimo: uma imagem a cada 15 s. Com cadastro grátis (tier Seed) cai
 # para 5 s — daí o intervalo ser configurável em vez de constante.
-INTERVALO_PADRAO = float(os.environ.get("POLLINATIONS_INTERVALO", "15"))
+INTERVALO_PADRAO = float(os.environ.get("POLLINATIONS_INTERVALO", "48"))
 
 
 class ProvedorKontextSpace:
@@ -133,6 +133,12 @@ class ProvedorPollinations:
         except requests.RequestException as exc:
             print(f"   ⚠️ pollinations falhou: {type(exc).__name__}")
             return False
+        if resposta.status_code == 402:
+            time.sleep(self.intervalo)
+            try:
+                resposta = requests.get(self.url(entrada), headers=cabecalhos, timeout=120)
+            except requests.RequestException:
+                return False
         if resposta.status_code != 200 or not resposta.content:
             print(f"   ⚠️ pollinations respondeu {resposta.status_code}")
             return False

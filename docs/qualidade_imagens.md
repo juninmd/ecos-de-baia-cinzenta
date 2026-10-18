@@ -9,9 +9,9 @@
 |---|---|
 | Capítulos | 235 |
 | Cenas no alvo | 2350 |
-| Imagens no disco | 205 |
-| Cobertura | 8.7% |
-| Aprovadas | 205 |
+| Imagens no disco | 218 |
+| Cobertura | 9.3% |
+| Aprovadas | 218 |
 | Reprovadas | 0 |
 | Com alerta | 5 |
 
@@ -29,15 +29,13 @@ Nenhuma imagem reprovada. 🎉
 
 ## Cobertura
 
-235 capítulos abaixo do alvo, somando **2145 cenas a gerar**.
+233 capítulos abaixo do alvo, somando **2132 cenas a gerar**.
 
 | Capítulo | Cenas | Faltam |
 |---|---|---|
-| 1 | 9 | 1 |
-| 2 | 6 | 4 |
-| 3 | 6 | 4 |
+| 3 | 9 | 1 |
 | 4 | 4 | 6 |
-| 5 | 3 | 7 |
+| 5 | 4 | 6 |
 | 6 | 3 | 7 |
 | 7 | 4 | 6 |
 | 8 | 4 | 6 |
@@ -52,7 +50,7 @@ Nenhuma imagem reprovada. 🎉
 | 17 | 3 | 7 |
 | 18 | 3 | 7 |
 | 19 | 3 | 7 |
-| 20 | 3 | 7 |
+| 20 | 4 | 6 |
 | 21 | 3 | 7 |
 | 22 | 3 | 7 |
 | 23 | 3 | 7 |
@@ -108,7 +106,7 @@ Nenhuma imagem reprovada. 🎉
 | 72 | 0 | 10 |
 | 73 | 0 | 10 |
 | 74 | 0 | 10 |
-| 75 | 1 | 9 |
+| 75 | 2 | 8 |
 | 75.5 | 0 | 10 |
 | 76 | 0 | 10 |
 | 77 | 0 | 10 |
@@ -130,7 +128,7 @@ Nenhuma imagem reprovada. 🎉
 | 93 | 0 | 10 |
 | 94 | 0 | 10 |
 | 95 | 0 | 10 |
-| 96 | 0 | 10 |
+| 96 | 1 | 9 |
 | 97 | 0 | 10 |
 | 98 | 1 | 9 |
 | 99 | 0 | 10 |
@@ -143,7 +141,7 @@ Nenhuma imagem reprovada. 🎉
 | 106 | 0 | 10 |
 | 107 | 2 | 8 |
 | 108 | 0 | 10 |
-| 109 | 2 | 8 |
+| 109 | 3 | 7 |
 | 110 | 2 | 8 |
 | 111 | 1 | 9 |
 | 112 | 1 | 9 |

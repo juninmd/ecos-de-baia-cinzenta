@@ -3,7 +3,7 @@
 - **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
 - **Localização:** Necrópole (Subnível 7 - Poços de Ventilação da Aeterna Corp)
 - **Personagens Presentes:** Gabo, Valéria, Aria (Reboot), Rangel (Inconsciente)
-- **Resumo:** Pendurados nos cabos de fibra ótica da antiga Aeterna Corp, o grupo é emboscado por drones corporativos "Scarab" corrompidos pelo Taxidermista. Gabo luta pela própria vida e pela de Rangel usando apenas um braço livre, apoiando-se na dor excruciante das queimaduras para silenciar o medo e o cheiro nauseante de fumaça fantasma. Aria, operando a partir de seu pendrive blindado acoplado ao deck de Valéria, emite pulsos de interferência de protocolo e analisa os pontos fracos da estrutura do poço, permitindo que Gabo e Valéria derrubem uma viga corroída sobre os últimos drones.
+- **Resumo:** Pendurados nos cabos de fibra ótica da antiga Aeterna Corp, o grupo é emboscado por drones corporativos "Scarab" corrompidos pelo Taxidermista. Gabo luta pela própria vida e pela de Rangel usando apenas um braço livre, apoiando-se na dor excruciante das queimaduras para silenciar o medo e manter o foco. Aria, operando a partir de seu pendrive blindado acoplado ao deck de Valéria, emite pulsos de interferência de protocolo e analisa os pontos fracos da estrutura do poço, permitindo que Gabo e Valéria derrubem uma viga corroída sobre os últimos drones.
 
 ## Narrativa
 
@@ -69,6 +69,6 @@ Valéria desconectou o cabo externo da fibra com um solavanco, arfando e piscand
 
 — Deuses da matriz, — a hacker murmurou, tremendo. — Eles não vão parar. Cada vibração que fazemos no metal ecoa na rede neural principal do Taxidermista.
 
-Gabo tossiu, cuspindo gosto de pólvora e poeira oxidada. Sua mão direita estava bamba. O revólver descarregado parecia pesar cem quilos. Ele guardou a arma no coldre com cuidado mecânico, não querendo arriscar deixar cair nada. O mosquetão cravando em suas queimaduras manteve o foco da sobrevivência. A fumaça fantasma se dissipou, e o instinto da rua retornou.
+Gabo tossiu, cuspindo gosto de pólvora e poeira oxidada. Sua mão direita estava bamba. O revólver descarregado parecia pesar cem quilos. Ele guardou a arma no coldre com cuidado mecânico, não querendo arriscar deixar cair nada. O mosquetão cravando em suas queimaduras manteve o foco da sobrevivência e a urgência do instinto da rua retornou com força total.
 
 — Então paramos de pensar na subida como uma fuga, Val, — a voz de Gabo raspou na garganta seca. Ele olhou para a escuridão úmida que continuava acima deles, apertando mais um grau sua mão sangrenta no degrau, sentindo a dor martelar suas veias. — E começamos a tratar como um cerco.

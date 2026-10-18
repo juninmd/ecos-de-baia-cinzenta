@@ -7,42 +7,64 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 # Capítulo 217: O Útero de Chumbo
 
-O fundo do poço nos recebeu com a indiferença gélida de um necrotério. Não houve um impacto dramático, apenas o solavanco surdo da minha bota de combate encontrando o piso de concreto espesso. O som ecoou na escuridão, seco e sem vida. Soltei a escada de metal, e meu braço mutilado protestou com uma fisgada de agonia quente. Eu a recebi de braços abertos. Era a dor que me mantinha acordado; era a dor que impedia o cheiro fantasma de tabaco queimado de tomar conta da minha mente.
+O fundo do poço nos recebeu com a indiferença gélida de uma câmara mortuária anterior à própria história. Não houve impacto dramático; apenas o baque surdo dos meus coturnos sobre a laje de concreto usinado de alta densidade. O som ecoou na vastidão confinada, seco, pesado e sem retorno. Apoiei o peso na perna boa, enquanto a prótese industrial de sucata instalada por Vasco no Capítulo 175 após a amputação puxava meu ombro com uma fisgada aguda de cansaço. A carne costurada ardia sob as bandagens sujas, onde os pontos continuavam sangrando em silêncio. As cicatrizes do Dilúvio queimavam como brasa viva; tanta gente morreu naquela enchente maldita e eu perdi quase tudo o que chamava de vida, mas a agonia física servia apenas para manter meus sentidos despertos e focados.
 
-A fumaça. O maldito charuto de Dante. Ele sempre vinha quando o escuro ficava muito denso, quando o silêncio era profundo o suficiente para me deixar ouvir meus próprios arrependimentos. Senti o cheiro azedo na ponta do nariz e, num reflexo condicionado pela repulsa e pelo instinto de sobrevivência, soquei minha perna arruinada. Os servos hidráulicos gemeram, e uma dor crua e elétrica subiu pela minha coxa. O cheiro de fumaça evaporou, substituído pelo aroma cáustico de ozônio estagnado e ferrugem centenária.
+— Chegamos ao leito de pedra, — anunciei, a voz raspando na garganta ressecada pelo ar denso e rarefeito.
 
-— Chegamos, — anunciei, a voz rasgando a garganta seca.
+Atrás de mim, Elias desabou sentado sobre um caixote de ferramentas de metal rebitado, com as mãos trêmulas apoiadas nos joelhos. O garoto respirava em golfadas curtas, os olhos arregalados encarando a escuridão imensa que nos cercava.
 
-Um baque pesado ecoou à minha direita. Elias havia atingido o chão. Ele não se levantou. O som da sua respiração era rápido, superficial, como um animal encurralado sentindo a lâmina do abatedouro.
+— O ar... o ar parece chumbo na garganta, Gabo, — murmurou ele, engolindo em seco. — Parece que a terra inteira tá fazendo força pra esmagar a nossa cabeça.
 
-— Eu não consigo... não consigo respirar aqui, — Elias arquejou, as mãos arranhando o próprio peito. — É muito pesado. O ar é pesado.
+— É a pressão geológica de quatrocentos metros de rocha, basalto e cidade morta acima de nós, Elias, — Valéria explicou, descendo da plataforma da gaiola com passos ágeis e firmes. A lanterna de seu cyberdeck cortava a penumbra, e os fios holográficos azuis da franja desenhavam círculos luminosos na poeira estática suspensa no ar. Ela bateu a mão enluvada no ombro do garoto, um gesto firme e caloroso que desarmou o pânico dele. — Seus pulmões acostumam em cinco minutos. Levanta, garoto. Você desceu o poço como um herói, agora não vai travar na porta da festa.
 
-— A composição atmosférica é aceitável para suporte à vida mamífera, embora os níveis de oxigênio estejam quatro por cento abaixo do ideal, — Valéria informou, descendo o último trecho com a precisão de um pêndulo. Seus movimentos, embora ainda rígidos por causa do Modo de Segurança, não demonstravam a exaustão que devorava a mim e a Elias. Seus olhos sintéticos piscaram no escuro, emitindo um brilho azul fraco e clínico que iluminou parcialmente a abóbada colossal onde estávamos. — Ele está sofrendo um episódio agudo de ansiedade induzida por claustrofobia, Gabo. Recomendo sedação se a vocalização exceder os limites táticos.
+Elias soltou um riso nervoso, enxugou o suor gélido da testa com a manga e se pôs de pé, firmando o cinto de ferramentas na cintura.
 
-— Ninguém vai sedar ninguém, — grunhi, mancando até Elias e o puxando pela gola da jaqueta. — Levanta. Ficar no chão é o primeiro passo para virar adubo orgânico nesta cidade. Respira pela boca. Conta os batimentos. Faz alguma coisa útil com esse pânico.
+— Eu tô de pé, Valéria... eu tô de pé.
 
-Deixei Elias ofegando encostado na parede de concreto e me virei para o que quer que estivesse à nossa frente. O feixe azul dos olhos de Valéria esquadrinhava o ambiente, revelando partículas de poeira prateada dançando no ar morto.
+Caminhamos pelo corredor escavado na rocha nua. As paredes eram cobertas por uma couraça impenetrável de placas de chumbo escurecidas pelo tempo, fixadas por rebites industriais do tamanho de punhos fechados. A poeira que cobria o chão não tinha a cor alaranjada da Praga de Ferro nem a textura viscosa do Jardim; era uma cinza pura, mineral, acumulada ao longo de quase um século de isolamento total.
 
-Então, nós a vimos.
+E então, o feixe da lanterna de Valéria parou sobre a parede frontal da câmara.
 
-A estrutura ocupava toda a extensão da parede frontal da caverna escavada. Era uma porta de explosão, redonda, maciça, construída com uma liga de titânio e reforçada com placas de chumbo grosso e escurecido pelo tempo. Tinha pelo menos quatro metros de diâmetro. No centro da porta, fundida diretamente no metal, repousava a insignia primitiva da Aeterna Corp — não o logotipo estilizado das propagandas de neon, mas a versão brutalista dos primeiros dias da corporação. Um círculo cortado por três linhas verticais.
+A estrutura ocupava toda a extensão do vão. Era uma porta de explosão ciclópica, perfeitamente circular, com cinco metros de diâmetro, forjada em liga de titânio escuro e revestida por chapas de chumbo de quatro polegadas de espessura. No centro do círculo de metal maciço, fundida em alto-relevo na fundição original, repousava a insígnia arcaica da Aeterna Corp de 1922: um triângulo brutalista interceptado por três linhas verticais, anterior a qualquer neon ou propaganda do Distrito de Prata.
 
-— Blindagem de grau radiológico, — analisou Valéria, aproximando-se da porta. — Esta liga foi projetada para suportar tanto pressões tectônicas extremas quanto bombardeamentos termonucleares de baixo rendimento. As travas são analógicas. Nenhuma assinatura digital detectada. Nenhuma contaminação por biomassa do Jardim ou oxidação acelerada da Praga de Ferro.
+— O Útero de Chumbo, — sussurrou Valéria, aproximando-se da blindagem com a lanterna erguida. Ela passou a ponta dos dedos enluvados sobre a solda das chapas, o rosto iluminado por um espanto genuíno. — Esta liga foi feita pra resistir a explosões de impacto direto e tremores tectônicos de magnitude extrema. Não tem fechadura eletrônica, não tem leitor de retina, não tem rede de silício. É mecânica pura, analógica, do tempo em que as máquinas eram construídas pra durar mais que a própria civilização.
 
-Um útero de chumbo, escondido sob o estrume do mundo.
+— Uma tumba sem janelas, — murmurei, avaliando o monumental volante de travamento no centro da folha de aço. — Projetada pra trancar o que quer que estivesse lá dentro longe dos olhos do mundo.
 
-— Feito para durar para sempre, — murmurei, avaliando o volante analógico no centro da porta. Era um leviatã de metal fundido, projetado para ser operado por maquinário pesado, não por um homem caindo aos pedaços.
+— Ou pra proteger quem tava lá dentro do que ia acontecer lá fora, Moretti, — Valéria contra-atacou, apontando o feixe para o conjunto de contrapesos hidráulicos que desciam pelas laterais do batente. — O diário do arquivo executivo dizia que o Projeto Gênesis não começou na Torre; começou aqui embaixo quando a cidade ainda era uma baía de pântano e indigentes.
 
-Mas não havia maquinário. Havia apenas eu, minha perna quebrada e minha repulsa existencial por permanecer no escuro.
+Aproximei-me do volante de metal forjado. Tinha quase um metro e meio de diâmetro, com raios grossos de ferro fundido cobertos por graxa seca de vedação.
 
-Pressionei as duas mãos — a de carne, inteira, e a garra industrial — contra as bordas gélidas do volante. O frio do metal me mordeu. Eu precisava de tração, precisava de algo para canalizar a força.
+— A gente vai precisar de alavanca de novo, — disse Elias, examinando as linguetas de pressão nos cantos superiores. — Os pinos de travamento tão selados por vácuo pneumático. Se alguém girar a válvula de purga de ar primeiro, o vácuo se desfaz e o volante gira com a força manual.
 
-Fechei os olhos. Deixei a sombra da fumaça do charuto voltar por um segundo. A lembrança do rosto de Dante, a arrogância, a prisão sufocante de fumaça em que ele queria me encerrar. A repulsa subiu pelo meu esôfago como bile. Não. Eu não serei prisioneiro no escuro de outro homem.
+— Boa observação, garoto, — aprovei, apontando com a *Caronte* para uma tubulação de cobre que corria paralela à moldura. — A válvula de purga é aquela manopla de bronze ali em cima. Val, você alcança?
 
-Gritei. Um som feio, rasgado, nascido puramente da dor física e do ódio, e joguei todo o peso do meu corpo e da minha perna mecanizada contra a alavanca. Os hidráulicos da minha prótese guincharam, soltando faíscas que iluminaram as sombras, e o som da minha própria carne cedendo sob o esforço serviu como meu combustível, bloqueando qualquer vestígio de neblina mental.
+— Se você me der um apoio de pé com essa mão de ferro, eu alcanço até a lua, detetive, — ela respondeu com um sorriso audacioso.
 
-Houve um estalo geológico. A ferrugem interna das engrenagens gritou em protesto.
+Entrelacei os dedos de metal da prótese, abaixando-me para servir de estribo. Valéria apoiou a bota na minha mão de sucata com a leveza de quem passou a vida escalando marquises; ergui o braço postiço com o impulso hidráulico dos servos, lançando-a até a altura do registro de bronze.
 
-— Rotação iniciada. As travas primárias estão cedendo, — Valéria relatou, impassível.
+Ela cravou o pé de cabra na alavanca e puxou para baixo com todo o peso do corpo.
 
-Continuei empurrando, ignorando o sangue fresco que começou a escorrer da minha perna. A roda girou com um gemido profundo, um gemido de algo antigo sendo despertado a contragosto. Os enormes pinos de travamento recuaram e a porta de chumbo cedeu uma polegada para dentro, soltando um suspiro de ar purificado e gelado, com cheiro de antisséptico esquecido e nada além do silêncio.
+Um silvo ensurdecedor de ar comprimido rasgou o silêncio da caverna, como uma serpente colossal despertando de um sono de cem anos. Jatos de vapor limpo escaparam das válvulas de alívio, soprando nuvens de poeira prateada que dançaram no ar morto.
+
+— Vácuo purgado! — gritou Valéria, saltando de volta para o piso com um giro perfeito. — O peso tá livre, Moretti!
+
+Agarrei os raios do volante central. Elias correu e travou as mãos ao lado das minhas.
+
+— No três! — comandei. — Um... dois... gira!
+
+Puxamos a roda de manobra em sentido horário. O motor da minha prótese de Vasco rugiu sob o esforço, os parafusos na minha clavícula puxando a carne viva com uma ferroada que me fez cerrar os dentes até ranger os molares. Lembro de provações parecidas no Dilúvio, quando o concreto cedia e a gente quebrou as próprias mãos pra salvar os sobreviventes; a dor era uma velha conhecida, a prova irrefutável de que eu ainda respirava e comandava o próprio corpo.
+
+O metal rangeu com um gemido profundo e prolongado de engrenagens de bronze deslizando em guias perfeitas.
+
+A roda deu meia volta, depois uma volta completa.
+
+Três pinos gigantescos de chumbo e titânio recuaram para dentro das paredes com estalos sucessivos de artilharia pesada. A folha maciça da porta de explosão estremeceu, descolou-se da borracha de vedação com um estalo de sucção e começou a deslizar para o lado, abrindo uma fresta de cinquenta centímetros.
+
+Do interior da antecâmara de Arca Zero, escapou uma lufada de ar frio, cristalino, estéril e impregnado com um suave cheiro de ozônio e antisséptico hospitalar imaculado. Era o ar mais puro que qualquer um de nós três já havia respirado em toda a vida na Baía Cinzenta.
+
+Valéria deu um passo à frente, os olhos prateados arregalados e a boca aberta em assombro silencioso.
+
+— Não tem ferrugem... não tem colapso... — sussurrou ela. — Moretti... nós encontramos a Arca.
+
+— Então vamos entrar antes que a porta perceba que não somos os donos da casa, — ordenei, empurrando a chapa pesada com o ombro mecânico e liderando o caminho para dentro da câmara proibida.

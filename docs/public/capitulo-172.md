@@ -17,23 +17,17 @@ Valéria caminhava a um passo pesado, cada bota afundando no asfalto molhado com
 
 Eu mancava ao lado dela. A dor no abdômen era uma queimação constante, mas minhas pernas obedeciam pelo instinto primitivo de sobrevivência. O asfalto quebrado sob minhas botas cheirava a poças estagnadas, óleo diesel vazado e lixo químico molhado. Era o cheiro visceral das ruas baixas, o cheiro do mundo real cobrando a conta depois da fantasia de vidro e luz da corporação.
 
-O vento mudou de direção, varrendo o vapor frio das grelhas de esgoto desligadas. Com ele, o asfalto exalou aquela umidade característica que antecede a tempestade, e meu cérebro fraturado fez a conexão imediata. As ruas úmidas. As madrugadas de plantão com meu pai. O escritório fechado.
+O vento mudou de direção, varrendo o vapor frio das grelhas de esgoto desligadas. Com ele, o asfalto exalou aquela umidade característica que antecede a tempestade, e uma lufada gélida atingiu meu peito, fazendo minhas pernas tremerem sob o peso da exaustão acumulada.
 
-O cheiro espesso de alcatrão e cravo invadiu meu nariz com a força de um soco. A fumaça fantasma encheu minha garganta, sufocante, densa e amarga. Era como se Dante estivesse caminhando ao meu lado na chuva, exalando o veneno diretamente nos meus pulmões. O pânico subiu, a náusea embrulhou meu estômago costurado. Eu não conseguia respirar. O ar estava tomado pela névoa da memória corrompida.
+Uma onda violenta de vertigem e febre turvou minha visão. O chão parecia oscilar como o convés de um barco à deriva no mar revolto. Cambaleei para o lado e apoiei o ombro contra a lataria enferrujada de um sedã corporativo capotado no meio da rua, sentindo a chuva fria lavar o suor das minhas têmporas. A dor contínua nos membros amputados latejava em compasso com o pulso, mas a determinação me manteve de pé, respirando o ar sujo e real da noite.
 
-Parei no meio da rua vazia, a respiração saindo em engasgos curtos. À minha direita, havia a carcaça de um sedã corporativo capotado, a lataria retorcida e enferrujada pela acidez da tempestade.
+Valéria parou alguns passos à frente. Ela se virou lentamente, a chuva batendo em seu rosto cansado e na franja azul grudada na testa. Ela olhou para a minha postura curvada e depois para os meus olhos, com aquela preocupação silenciosa que ela sempre tentava esconder sob uma máscara dura.
 
-Avancei cambaleando e lancei o cotoco direito — a carne esfolada e queimada do meu braço amputado — direto contra a borda denteada da lataria rasgada.
+— Nós não temos mais ataduras, Gabo, — ela disse, a voz rouca pela tempestade. — E se você continuar forçando esse corpo quebrado sem parar pra respirar, você não vai chegar vivo à clínica de Vasco.
 
-O impacto enviou uma onda de choque branco pela minha espinha. A carne cedeu, o sangue quente jorrou imediatamente, lavando o metal frio. Um gemido rouco escapou dos meus dentes trincados. A agonia física pura e radiante cortou a névoa mental como uma navalha de gelo. O cheiro de cravo se dissipou instantaneamente, substituído pelo oxigênio cru e molhado e pelo gosto de ferro do meu próprio sangue.
+— Eu chego, — respondi, forçando as botas na lama do asfalto para retomar o equilíbrio. — A teimosia me mantém do lado de cá.
 
-Valéria parou alguns passos à frente. Ela se virou lentamente, a chuva batendo em seu rosto inexpressivo e no buraco vazio de seu visor óptico. Ela olhou para a minha ferida sangrando e depois para os meus olhos, ainda arregalados pela adrenalina da dor.
-
-— Nós não temos mais ataduras, Gabo — ela disse. A voz saiu sem o achatamento dos últimos dias. Soava exausta, e soava dela. — E se você continuar sangrando a cada esquina para manter os fantasmas longe, não vai chegar à próxima ponte.
-
-— Eu chego — respondi, arfando, puxando o braço ferido contra o peito para estancar a hemorragia com a jaqueta molhada. — A dor me mantém do lado de cá.
-
-Ela não discutiu. Ela sabia que a alternativa era eu enlouquecendo sufocado pela memória do meu pai.
+Ela não discutiu. Sabia que a única alternativa à marcha exaustiva era a morte pelo frio e pela infecção.
 
 — Para onde? — Valéria perguntou, desviando o olhar para a vastidão de prédios mortos à nossa frente. — A Delegacia Central? O domínio do Marco?
 

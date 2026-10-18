@@ -1,5 +1,6 @@
 ---
 image: /capitulo_17.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, O Gamemaster, Dante Moretti, Valéria "Val" Cruz
 ---
 # Capítulo 17: O Ultimato
 
@@ -109,7 +110,7 @@ O exoesqueleto deu o primeiro passo. O chão tremeu. Poeira caiu do teto. A plat
 
 Gabo assumiu a postura de Hapkido que seu pai lhe ensinou. Pé esquerdo à frente. Mãos abertas. Respiração controlada.
 
-Mentalmente, ele fez as contas: três metros de titânio e servo-motores versus um metro e oitenta de carne, osso quebrado e teimosia.
+Mentalmente, ele fez as contas: três metros de titânio e servo-motores versus um metro e setenta e cinco de carne, osso quebrado e teimosia.
 
 As probabilidades eram ruins.
 

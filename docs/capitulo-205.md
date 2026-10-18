@@ -7,40 +7,66 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 # Capítulo 205: Colosso de Sucata
 
-A criatura que se ergueu do fosso não tinha rosto, nem simetria. Era um monumento grotesco ao descarte corporativo, uma fusão caótica de braços manipuladores, chassis de drones de segurança e lagartas industriais, tudo fundido pela oxidação acelerada da Praga de Ferro. A coisa se movia com espasmos violentos, o rangido de engrenagens secas soando como o grito de um animal sendo estripado.
+A aberração que se ergueu da cratera de carga não pertencia à biologia nem à engenharia limpa da Aeterna. Era um leviatã de sucata compactada: vigas I de aço estrutural retorcidas como fêmures, lagartas dentadas de perfuração industrial formando uma couraça impenetrável e quatro braços de escavadeiras hidráulicas erguendo-se como foices monstruosas. Na junção onde deveria repousar uma cabeça, uma cabine de empilhadeira estilhaçada piscava faróis amarelos quebrados, iluminando a poeira vermelha com um olhar doentio e sem pupilas.
 
-Uma lufada de ar viciado, com gosto de cobre e poeira antiga, atingiu meu rosto. Fechei os olhos por uma fração de segundo, e o maldito cheiro do charuto fantasma do meu pai tentou invadir minhas narinas. O pânico subiu pela minha garganta, frio e pegajoso. Reagi instintivamente. Forcei meu ombro direito contra a quina de um contêiner próximo. A dor do músculo recém-rasgado explodiu em uma onda branca e ofuscante. O cheiro de tabaco sumiu, substituído pelo suor frio e pelo zumbido frenético da minha órtese esquerda. Eu estava aqui. Eu estava vivo.
+O ruído das juntas enferrujadas girando a seco soava como metal sendo martelado em uma forja em colapso. O chão de concreto armado estalou sob as esteiras da criatura, cuspindo estilhaços de cimento que zumbiram pelo ar frio como estilhaços de granada.
 
-— Elias, para trás! — gritei, o som áspero ecoando pelo galpão vazio. O rapaz não precisou de uma segunda ordem; ele já estava rastejando para trás, tropeçando cegamente na escuridão.
+— Elias, recua pro mezanino de trás! — berrei, o som rouco rasgando minha garganta ressecada. — Se esconde atrás dos contêineres de carga e não levanta essa cabeça por nada!
 
-O colosso de sucata avançou, um braço pneumático, ainda ostentando o logotipo desbotado da Aeterna, balançando como um porrete. O golpe atingiu o contêiner onde eu estava ancorado segundos antes, rasgando o metal como se fosse papel molhado. A onda de choque me jogou no chão. Senti o gosto de sangue na boca.
+O garoto não hesitou; tropeçou de costas, arrastando-se pela lama de óxido e sumindo entre as pirâmides de carcaças de drones.
 
-— Análise tática, Valéria! — rosnei, me erguendo com dificuldade. A escopeta estava pesada. Disparei duas vezes. Os projéteis perfurantes bateram na carcaça de ferrugem da criatura e ricochetearam com faíscas pálidas, tão inúteis quanto jogar pedras em um tanque de guerra.
+O monstro arremeteu o primeiro golpe antes mesmo de fixar totalmente a base. Uma pá de carregadeira de duas toneladas desceu em arco diagonal, visando abrir meu peito ao meio.
 
-Valéria deslizou para a minha direita, as lentes brilhando no escuro, alheia ao caos.
+Joguei meu corpo para a esquerda em um salto desesperado. A lâmina de aço bruto atingiu o chão no ponto exato onde eu estava meio segundo antes, partindo a laje de concreto com um estrondo ensurdecedor. A onda de choque cinético ricocheteou pelas minhas pernas; caí de lado na poeira, os rebites da órtese queimada cravando-se na carne da coxa com uma ferroada que arrancou um palavrão dos meus dentes. O gosto metálico de sangue e terra encheu minha boca quando mordi a língua na queda. Lembro de ferimentos parecidos no Dilúvio, quando a água fria lavava a dor antes que o corpo pudesse processar o estrago.
 
-— A estrutura é mantida unida por campos magnéticos residuais dos núcleos de força danificados, — informou ela, a voz fria cortando o barulho do metal sendo esmagado. — Munição balística padrão tem 2% de probabilidade de causar falha estrutural sistêmica.
+Ergui a *Caronte* com o braço mecânico de sucata instalado no Capítulo 175 após a amputação, sentindo o pistão industrial gemer sob a sobrecarga do recuo, e disparei dois tiros à queima-roupa no núcleo central do colosso. Meus músculos sangravam sob as ataduras, mas a dor mantinha o foco afiado desde a queda na Torre anos atrás.
 
-A coisa girou, fixando o que quer que usasse como sensores em nós. Outro braço, composto por três pernas de drones de vigilância soldadas pela ferrugem, chicoteou em nossa direção.
+Os bagos de chumbo grosso e tungstênio bateram na couraça de lagartas com um estampido ensurdecedor, arrancando lascas de ferrugem e uma chuva de faíscas azuis, mas sem penetrar a blindagem de aço temperado. O impacto mal fez a criatura cambalear.
 
-— Então me dê os outros noventa e oito por cento! — Exigi, forçando minha órtese além do limite de segurança. O servo do meu joelho mecânico gritou, e a articulação transmitiu um choque lancinante direto para a minha espinha. Era uma agonia requintada. Minha mente estava mais afiada do que nunca.
+— Munição de escopeta só tá limpando a poeira dele, Moretti! — a voz de Valéria ecoou da escuridão lateral, viva, ácida e tensa. Ela disparou quatro tiros rápidos com sua pistola compacta, mirando nos atuadores hidráulicos expostos do flanco esquerdo. As balas perfuraram uma mangueira de alta pressão, fazendo jorrar óleo negro fervente sobre a esteira. — O núcleo tá blindado por placas de três polegadas! Você não vai atravessar isso no tiro!
 
-— O teto, Gabo, — disse ela calmamente, apontando para cima com a pistola. — Trilhos do guindaste de carga principal. Os suportes sofreram 82% de corrosão devido à exposição à atmosfera do armazém.
+— Tem alguma ideia melhor antes que ele transforme nós dois em massa de tomate? — gritei, rolando para trás de uma coluna de sustentação enquanto o segundo braço mecânico da aberração estraçalhava o concreto acima de mim. Blocos de alvenaria desabaram, cobrindo meus ombros de pó cáustico.
 
-Olhei para cima, através da névoa avermelhada de poeira de ferro. Havia um conjunto massivo de vigas e ganchos industriais balançando precariamente bem acima do fosso de onde a criatura havia saído. Se eu pudesse trazer aquilo abaixo, o peso bruto faria o que minhas balas não podiam.
+— Olha pro teto, idiota! — Valéria gritou, os fios holográficos azuis de sua franja brilhando febrilmente enquanto ela corria entre as sombras para manter o monstro em fogo cruzado. — O guindaste de ponte rolante de quarenta toneladas! Os suportes de aço da viga mestra tão podres de oxidação catalítica! O trilho tá suspenso por pura inércia!
 
-O monstro avançou novamente, a massa disforme de metal se contorcendo como músculos esfolados.
+Ergui os olhos através do turbilhão de fuligem vermelha. Vinte metros acima do fosso de carga, um guindaste industrial com garras de sustentação de contêineres repousava travado sobre trilhos corroídos. Era uma massa de dezenas de toneladas de ferro maciço.
 
-— Valéria, proteja o Elias! — gritei.
+— Se eu derrubar essa viga, a laje inteira pode vir abaixo! — avisei.
 
-Corri na direção oposta, usando minha perna boa para impulsionar o peso morto da minha órtese. O colosso mudou de alvo, me acompanhando com uma lentidão aterrorizante, mas com uma força que fazia o chão do galpão tremer. Cada passo meu era calculado para maximizar o atrito, o ruído ensurdecedor das juntas metálicas servindo como meu tambor de guerra.
+— É isso ou virar purê nas garras dessa empilhadeira do inferno! — ela rebateu, enfiando um cartucho novo na pistola e disparando contra os sensores ópticos da cabine. — Eu tô tentando destravar os freios magnéticos de emergência pelo painel lateral, mas o relé tá preso na ferrugem! Você precisa cortar o pino de ancoragem da esquerda!
 
-Me posicionei logo abaixo de uma das pilastras de suporte do guindaste, esperando até o último segundo. A criatura ergueu sua massa principal para me esmagar.
+O colosso girou com um rugido mecânico ensurdecedor, os motores elétricos superaquecidos soltando labaredas vermelhas pelas juntas da carcaça. Ele ignorou Valéria e avançou direto contra mim, farejando o peso da minha prótese de aço e o ruído da minha órtese que protestava a cada centímetro.
 
-Apertei o gatilho da escopeta repetidas vezes, mas não nela. Mirei na base podre do suporte acima de mim. O metal, já corroído pela praga e pela negligência, cedeu sob o impacto dos projéteis de grosso calibre. Um estalo profundo ressoou pelo armazém.
+— Vem buscar, seu monte de lata velha! — rosnei, me levantando com o apoio da coluna trincada e apoiando a coronha da escopeta na axila.
 
-Joguei-me para o lado, sentindo o ardor das juntas rasgando no concreto enquanto rolava. A dor era meu oxigênio.
+Esperei até que a aberração estivesse a menos de seis metros, erguendo duas pás gigantescas para o esmagamento final. O vento deslocado pelo golpe cheirava a ozônio queimado, diesel antigo e morte corporativa.
 
-A estrutura de toneladas de aço não suportou mais o próprio peso e desabou. Uma avalanche de metal retorcido, correntes colossais e poeira sufocante caiu exatamente sobre o colosso de sucata, esmagando-o contra o piso reforçado.
+No último instante, desviei a mira do corpo do monstro e apontei para a junção da base da viga mestra do teto, onde o pino mestre de ferro fundido sustentava a extremidade da ponte rolante.
 
-O impacto gerou uma onda de choque que varreu o galpão, extinguindo as últimas luzes de emergência. Tossindo violentamente no escuro, senti o cheiro de ozônio e ferrugem crua preencher meus pulmões. Não havia fumaça. Não havia tabaco. Apenas o silêncio pesado da cidade morta voltando a reinar, e o pulsar ritmado do sangue na minha cabeça.
+Apertei o gatilho da *Caronte* duas vezes consecutivas.
+
+Os projéteis de alto impacto despedaçaram o metal enfraquecido pela Praga de Ferro. O pino mestre estourou com um ruído de artilharia pesada, soltando lascas em brasa. Quase simultaneamente, do outro lado do galpão, Valéria disparou uma descarga concentrada de seu cyberdeck nos eletroímãs de sustentação, fritando os circuitos com um relâmpago azul ofuscante.
+
+— Sai daí agora, Gabo! — o berro dela rasgou o galpão.
+
+Girei o corpo e me atirei de cabeça em direção a uma vala de drenagem lateral, sentindo os tendões da perna machucada gritarem sob a tensão do salto.
+
+O teto desabou.
+
+A ponte rolante de quarenta toneladas se soltou dos trilhos com um gemido angustiante de ferro rasgando ferro e despencou em queda livre. A estrutura colossal atingiu o colosso de sucata bem no centro de sua cabine de comando. O som do impacto foi tão monumental que esvaziou meus pulmões, fazendo o chão de concreto afundar trinta centímetros sob a pressão.
+
+Chapas de blindagem foram esmagadas como latas de refrigerante. Motores estouraram em uma torrente de óleo em chamas e peças de engrenagens voaram em todas as direções, riscando as paredes do armazém. O monstro soltou um último uivo eletrônico corrompido, e suas quatro pás mecânicas desabaram imóveis sobre os destroços fumegantes.
+
+Uma onda de poeira e fumaça química varreu o espaço, apagando as últimas lâmpadas âmbar do teto.
+
+Fiquei deitado na vala, tossindo o pó acre e sentindo o pulsar ensurdecedor do sangue nas têmporas. Meu braço mecânico estalava com pequenos espasmos térmicos, mas a estrutura resistira. A dor era limpa, real e imediata.
+
+Um feixe de luz azul cortou a escuridão absoluta e focou no meu rosto. Valéria surgiu sobre a borda da vala, o rosto manchado de fuligem, a franja desgrenhada e um sorriso cansado, mas vitorioso, estampado nos lábios finos.
+
+— Você ainda tá respirando, Moretti, ou eu tenho que procurar outro parceiro com gosto horrível pra café?
+
+— Eu ainda... tô aqui, Val, — grunhi, aceitando a mão enluvada que ela estendeu para me içar da vala. — Cadê o Elias?
+
+— Tô aqui! — a voz do técnico surgiu entre os destroços, trêmula mas inteira. — Tô inteiro... acho que tô inteiro.
+
+— Então recolhe as ferramentas, Elias, — Valéria ordenou, batendo a poeira das calças táticas. — A gente acabou de fazer um barulho que com certeza acordou tudo que dorme no Setor Seis. É hora de sumir dessa tumba antes que os parentes dessa sucata venham pro velório.

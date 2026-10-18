@@ -7,58 +7,66 @@ Personagens Presentes: Gabo, Valéria, "O Guardião" (Fantasma)
 
 # Capítulo 181: Pedágio Fantasma
 
-A escuridão dos dutos de escoamento não era silenciosa; ela mastigava o som dos nossos passos e o cuspia de volta como um eco difuso. Atrás de nós, a câmara com as vítimas bio-assimiladas pelo *Jardim* ficava cada vez mais distante, um pesadelo esquecido na umidade letárgica do esgoto. Mas eu sabia que fugir não adiantaria muito. A praga não estava apenas se adaptando; estava nos testando.
+A escuridão dos dutos de escoamento não era silenciosa; ela mastigava o som dos nossos passos e o cuspia de volta como um eco difuso e distorcido. Atrás de nós, a câmara com as vítimas assimiladas pelo Jardim ficava cada vez mais distante, um pesadelo deixado na umidade sufocante do esgoto. Mas o rastro de podridão parecia nos seguir, colado à sola das botas e impregnado na lã encharcada do meu sobretudo.
 
-O túnel afunilou bruscamente. O cheiro de decomposição úmida deu lugar a um odor pungente de cobre oxidado e... algo mais. Algo seco.
+O túnel afunilou bruscamente cem metros adiante. O lodo escorregadio deu lugar a um piso seco de placas de ferro perfurado, onde o ar cheirava a ferrugem fresca, óleo mineral e lixo queimado em latão de tinta.
 
-Aquele cheiro adocicado e denso de alcatrão e fumaça de charuto invadiu minhas narinas de forma súbita, uma garra invisível fechando ao redor da minha traqueia. Dante. A porra do meu pai, sempre rastejando para fora do cemitério da minha mente. Senti a tosse subir pela garganta, um espasmo patético.
+— Parou — a voz de Valéria soou seca. Ela puxou a gola do meu casaco, me fazendo estancar antes da curva.
 
-Cerrei os maxilares e foquei na tração do meu braço protético direito. O atuador industrial soltou um guincho agudo quando forcei os pistões improvisados muito além do limite tolerável. A dor, aguda e lancinante como cacos de vidro mastigados na carne do meu coto, cortou a névoa ilusória de fumaça. Respirei fundo, o ar poluído pelo ozônio do motor elétrico limpando a lembrança de Dante.
+Os filamentos de LED azul na franja dela piscaram com uma cadência rápida. Ela apontou para a penumbra à frente com a ponta do fuzil de assalto curto que trazia pendurado a tiracolo.
 
-— Padrão de estresse neural detectado — anunciou Valéria. Sua voz não passava de uma leitura telemetria monótona, uma frieza robótica inabalável no *Modo de Segurança*. — Consumo calórico excessivo sem necessidade tática. Otimização de recursos desaconselha automutilação.
+— O que você viu? — perguntei, a mão mecânica repousando pesada sobre o quadril, os pinos neurais do ombro latejando em sintonia com os meus batimentos cardíacos.
 
-— Fica de olho no túnel, Val. Não na minha cabeça — rosnei, a respiração ainda rascante.
+— Barricada artesanal reforçada — ela sussurrou, os olhos prateados estreitos, escaneando as junções de metal. — Placas de blindagem balística arrancadas de furgões da polícia, vigas em I soldadas em cruz e duas câmeras analógicas com cabo coaxial direto. Quem montou isso aqui entende de controle de perímetro. Tem até concertina de arame farpado nas laterais pra ninguém tentar passar pelo vão da tubulação.
 
-Poucos metros adiante, a luz cega do farol tático dela ricocheteou em uma estrutura metálica que bloqueava totalmente a passagem. Não era um desabamento natural. Eram painéis de policarbonato reforçado e vigas de ferro roubadas das antigas estações, empilhadas com a precisão paranoica de uma barricada paramilitar.
+No centro da estrutura, uma escotilha de ferro maciço barrava a passagem de parede a parede. Acima da fresta blindada de observação, um autofalante de corneta oxidado rangeu com estática.
 
-No centro da barricada, uma escotilha balística selada.
+— Nem mais um passo, sucata da Central — a voz saiu metálica e arranhada pelo cone de papelão furado. — A biomassa devorou os túneis inferiores há três horas. Quem tenta passar por aqui pra Superfície Pálida paga pedágio.
 
-— Impasse estrutural. Carga explosiva não recomendada devido à fadiga do teto — murmurou Valéria, a voz isenta de qualquer hesitação ou frustração. — Calculando rotas alternativas.
+Aproximei-me da linha de tiro da barricada, erguendo o queixo para a fresta escura.
 
-Antes que ela pudesse traçar um novo caminho, uma voz metálica, filtrada por um alto-falante enferrujado acima da escotilha, quebrou a umidade do duto:
+Atrás do vidro grosso e engordurado, vi os olhos do homem. Não eram lentes sintéticas; eram olhos humanos cansados, cercados por olheiras fundas que denunciavam uma década sem ver a luz do sol. Suas roupas eram feitas de lonas militares remendadas com arame de cobre. Ele não existia nos bancos de dados corporativos da Aeterna. Era um homem sem código de cidadão, sem histórico médico, sem rastro digital. Um *Shadowban*. Um Fantasma da cidade baixa.
 
-— Vocês não têm rota alternativa, sucata. A biomassa devorou os túneis inferiores há três horas.
+— Não somos da corporação — falei, a voz rouca cortando a umidade. — Somos dois sobreviventes tentando alcançar o entroncamento do metrô. Abre a escotilha e a gente segue viagem sem estragar sua tranca.
 
-Apertei os olhos contra a penumbra. Atrás do vidro sujo de uma fenda de observação, havia a silhueta de um homem. Seus olhos não tinham brilho cibernético; eram opacos, afundados em olheiras que mapeavam uma década de sono ruim e paranoia. Ele não existia nos bancos de dados corporativos da Aeterna. As feições duras, o olhar que só pertencia a alguém cujo nome havia sido apagado dos registros públicos. Um *Shadowban*. Um Fantasma.
+O homem soltou uma risada esganiçada que estalou no alto-falante.
 
-— Ponto de checagem. Quem quiser passar por aqui para a Superfície Pálida, paga o pedágio — a voz pelo alto-falante arranhou, cínica. — E não aceito Créditos da Aeterna. O sistema deles derreteu, igual à minha certidão de nascimento.
+— Força bruta não abre ferrolho de locomotiva, detetive. Sei muito bem quem você é pelo tamanho dessa pá de lixo parafusada no seu ombro. E a sua garota aí tem cara de quem carrega peças caras no cyberdeck. O pedágio é simples: a bateria militar dela ou dois filtros de água limpa. Se não tiverem, voltem pros fungos.
 
-— Não somos da Aeterna — rebati, me aproximando da barricada. Senti a resistência do meu braço mecânico formigar de estática, pronto para a violência. — Abre a porta, e a gente não desconstrói o seu pedágio peça por peça.
+Valéria deu um passo à frente, os nós dos dedos estalando. Ela puxou um cabo curto com conector jacaré de dentro da manga e espetou-o diretamente na caixa de passagem do cabo do alto-falante na parede do duto.
 
-O Fantasma riu, uma tosse seca e escabrosa.
+O interfone do homem deu um estrondo agudo de microfonia que o fez recuar com a mão no ouvido.
 
-— Força bruta não abre travas de titânio de grau corporativo, detetive. Mas sabe o que abre? Filtros de água não contaminada. Baterias de plasma. Ou talvez os implantes militares que essa sua amiga está carregando, sem expressar um pio sobre o fato de vocês dois estarem cobertos de esporos fúngicos. Aquilo ali vale meu tempo.
+— Escuta aqui, seu rato de esgoto — a voz de Valéria saiu amplificada e estridente pelo próprio sistema de som do sujeito, carregada de puro veneno do cais. — Meu nome é Val Cruz. Se você tentar encostar um dedo no meu deck, eu descarrego a sobretensão desse capacitor no seu circuito de interfone e frito seus tímpanos até você sangrar pelo nariz. Você acha que é o único que sabe fazer gambiarra em duto de esgoto?
 
-Valéria virou o rosto na direção da escotilha. Seus olhos não piscaram.
+O homem reapareceu na fresta, a espingarda de cano serrado tremendo na mão suja.
 
-— Avaliação de risco: o indivíduo "Fantasma" possui controle sobre travas herméticas secundárias no duto acima. Probabilidade de inundação letal em caso de invasão armada: oitenta e sete por cento. Ação agressiva contra-indicada.
+— Você tá muito assanhada pra quem tá cercada, garota! Eu tenho a alavanca da eclusa de descarte aqui dentro! Um puxão e eu solto trinta mil litros de água de caldeira fervendo em cima de vocês!
 
-— Ouviu a moça, amigão — disse o homem. — Então, qual vai ser o acordo?
+Valéria me encarou de soslaio, os olhos prateados piscando um alerta silencioso. Ela levou a mão ao meu braço e falou baixo, cobrindo o microfone improvisado:
 
-Dei um passo para trás, a cabeça pesada. Minha bússola moral, já arranhada, avisou-me do custo de negociação ali. Eu estava lidando com a escória extorquindo sobreviventes em um mundo desmoronando, mas Valéria estava certa. Não tínhamos luxo de explodir tudo, e eu não daria peças dela em troca.
+— Ele não tá blefando, Gabo. A tubulação de alívio térmico passa exatamente por cima das nossas cabeças. Se ele abrir a válvula, a gente vira sopa de carne e metal em dez segundos. Não tem espaço pra desviar.
 
-Olhei para a mochila de suprimentos esfarrapada no meu ombro não cibernético. Havia ali dois cilindros de oxigênio purificado que tiramos da clínica clandestina. Oxigênio limpo. O bem mais precioso no esgoto do Distrito 4.
+Respirei fundo. A frustração desceu amarga pela garganta, mas um policial velho aprende cedo que tiroteio dentro de cano fechado é suicídio disfarçado de coragem.
 
-— Tenho oxigênio purificado. Compressão de grau médico. Paga o dobro da nossa passagem — declarei, segurando um dos cilindros exposto à fraca luz de Valéria.
+Deslizei a mão esquerda até a mochila de lona que trazia cruzada no peito. Lá dentro, envoltos em panos secos, estavam os dois cilindros de oxigênio purificado que Vasco havia nos entregado na clínica clandestina. Dois tubos de titânio de grau médico. O recurso mais valioso e raro em um distrito onde o ar corroía os brônquios de quem não usava máscara.
 
-O silêncio do Fantasma durou intermináveis cinco segundos. Senti a tensão nos pistões do meu braço ameaçando estalar. Para conter outra onda de gatilhos do cheiro sufocante de charuto que a adrenalina evocava, contraí novamente o músculo artificial, provocando a dor crua, real e afiada.
+Puxei um dos cilindros e ergui-o para a fresta de vidro.
 
-— Joga pelo tubo de transferência — disse o Fantasma.
+— Cilindro de oxigênio médico — anunciei, batendo o anel de aço na válvula lacrada com um tilintar metálico e limpo. — Cem por cento puro. Trinta horas de ar respirável sem queimar os pulmões com ácido. Vale dez vezes o que essa sua espingarda velha consegue disparar.
 
-Um tubo cilíndrico de aço se estendeu pela base da barricada. Com o meu braço orgânico e trêmulo, coloquei o cilindro no tubo, sentindo uma pontada de hesitação cínica. Quando a trava se fechou e sugou nosso "pagamento", os engates pneumáticos da barricada chiaram violentamente.
+O silêncio do homem durou longos cinco segundos. Eu podia ouvir a respiração ofegante dele através da corneta. Em Baía Cinzenta, munição e comida você roubava; oxigênio limpo comprava a sua vida.
 
-A pesada porta de aço abriu-se rangendo.
+— Passa pela gaveta de descarte — a voz dele perdeu a arrogância, soando quase desesperada. — E só um de vocês cruza a cancela por vez.
 
-— Bem-vindos ao que sobrou do mundo — rosnou o Fantasma pelo alto-falante.
+— O cilindro vai quando a trava pneumática estalar — Valéria rebateu antes que eu respondesse, a voz firme e intransigente. — A gente não é novato de periferia, Fantasma. Libera o ferrolho principal ou eu puxo o cabo e queimo sua estação inteira.
 
-O outro lado era um corredor ascendente e seco. Valéria passou primeiro, indiferente ao homem ou ao pagamento extorquido. Eu a segui, sentindo que a cada transação, um pedaço maior da minha humanidade ficava apodrecendo na escuridão.
+Uma pausa tensa. O som pesado de engrenagens industriais sendo destravadas ecoou pelas paredes do túnel. A fresta da gaveta deslizou, engolindo o cilindro de oxigênio, e logo em seguida o portão de blindagem subiu com um rangido metálico estridente de correntes oxidadas, revelando a passagem estreita para os níveis inferiores.
+
+O homem nos observou passar com os olhos arregalados, abraçando o tubo de oxigênio contra o peito como se fosse uma criança recém-nascida.
+
+— Que a chuva não pegue vocês lá em cima — ele resmungou da penumbra da guarita.
+
+— Guarda o ar pra quando o Jardim subir até aqui, parceiro — Valéria retrucou, recolhendo seu cabo com um puxão seco e ajeitando a jaqueta enquanto cruzávamos o portão. — Você vai precisar de cada litro.
+
+Seguimos pelo túnel em declive, deixando para trás a barricada e o cheiro de ferrugem fria, com o zumbido mecânico da minha prótese marcando o ritmo da nossa descida para a Superfície Pálida.

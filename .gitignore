@@ -58,3 +58,4 @@ docs_dev.log
 
 # Venv da rota Qwen-Image-2512 (torch CUDA, ~3 GB)
 .venv-qwen/
+unsloth_compiled_cache/

@@ -7,58 +7,72 @@ Personagens Presentes: Gabo, Valéria
 
 # Capítulo 189: A Sentinela de Biomassa
 
-A porta selada à nossa frente não era apenas uma barreira física; era um pulmão de aço e carne. O metal do selo de segurança nível Sete havia sido fundido com um tecido bioluminescente vermelho-púrpura. Raízes que pareciam artérias dilatadas pulsavam lentamente em sincronia, bombeando dados e lodo nutritivo para uma fileira de cinco corpos suspensos no teto por ganchos enferrujados. Eram cadáveres de segurança corporativa, mortos há muito tempo. Seus rostos não passavam de crânios encapados por silicone barato e viseiras trincadas, mas as luzes indicativas de seus sistemas de *wetware* piscavam intermitentemente.
+A porta selada à nossa frente não era apenas uma barreira física de engenharia; era um pulmão monstruoso de aço, cabos ópticos e carne esfolada. O metal blindado do selo de segurança Nível Sete fora completamente engolido por um tecido bioluminescente vermelho-púrpura. Raízes que pareciam artérias dilatadas pulsavam lentamente em sincronia com os circuitos internos, bombeando seiva química para uma fileira de cinco corpos suspensos no teto por ganchos enferrujados.
 
-O "Jardim" não os deixava apodrecer em paz. Eles eram a tranca.
+Eram antigos seguranças da Aeterna Corp, caídos meses atrás durante os motins do colapso. Seus uniformes táticos estavam em frangalhos, carcomidos pelo ácido dos fungos, e viseiras de silicone despedaçadas cobriam órbitas onde cabos de fibra óptica se enroscavam como vermes de vidro.
 
-— Detecção de rede biológica em malha fechada, — Valéria anunciou, estática. Seu contorno mecânico parecia apenas um fragmento de sombra deslocado pela pálida luz avermelhada do corredor. Ela não hesitou, não sentiu nojo. Caminhou até o lodo viscoso que cobria o painel de acesso da porta. — Abertura exige protocolo de autenticação nível diretor ou ruptura forçada do ciclo de dados cerebral das bio-baterias. Iniciarei tentativa de acesso via porta paralela de manutenção.
+O Jardim não lhes dera a decência da decomposição. Ele os transformara em sentinelas de ferro e osso.
 
-Ela cravou dois cabos de sua luva tática diretamente na carne pulsante que cobria a placa de rede.
+— Interface biológica travada em malha fechada — Valéria ajoelhou-se diante do console quebrado da comporta, as mãos ágeis já espetando dois cabos de teste direto nas trilhas de cobre expostas da parede. A luz azul de seus LEDs na franja cortava a penumbra avermelhada. — Abertura física bloqueada. Essa porta exige autorização executiva de diretoria ou uma sobrecarga brutal que quebre o ciclo de processamento dessas cinco carcaças no teto. Vou tentar um bypass pelo barramento de emergência, mas preciso de sessenta segundos de silêncio!
 
-Foi nesse instante que as portas do inferno químico se abriram na minha cabeça.
+— Sessenta segundos é tempo demais, Val — avisei, a mão esquerda engatando na empunhadura serrilhada de *Caronte* por baixo do sobretudo.
 
-O cheiro do charuto do meu pai — uma mistura abafada de fumo, cravo e suor de estofado de couro — invadiu minhas narinas como uma nuvem de gás mostarda. Meu estômago contraiu, o ar pareceu se transformar em cinzas secas na minha traqueia. A alucinação era uma navalha me esfolando por dentro. O sistema de defesa dos cadáveres não era apenas físico; a rede exalava um odor de ozônio queimado que meu cérebro quebrado mastigava, engolia e vomitava como o pior trauma da minha vida.
+Lá em cima, as cinco carcaças espasmaram em uníssono.
 
-— Gabo. Alerta de atividade inimiga. As unidades de segurança estão despertando, — o tom de Valéria era clínico, enquanto seus cabos continuavam sugando dados da parede orgânica.
+O som de servos oxidados rangendo ecoou como dentes estalando no fosso. Os tentáculos do Jardim que as sustentavam relaxaram a tensão, descendo os corpos até o piso de ferro com um baque úmido e pesado. As mãos mortas se fecharam ao redor de bastões de choque industrial, cujos eletrodos sibilavam com centelhas de eletricidade azulada.
 
-Levantei os olhos. As cinco carcaças acima de nós começaram a espasmar. As juntas cibernéticas estalaram em uníssono. Carne apodrecida se retorceu enquanto os cabos do Jardim os desciam ao chão com um baque molhado. Suas mãos procuraram os bastões de choque corroídos que pendiam de seus cintos.
+— Gabo! Alerta de aproximação tática! — Valéria gritou sem tirar os olhos do display do deck. — Eles tão sincronizados pela mesma frequência de rede!
 
-O primeiro cadáver se lançou contra mim.
+O primeiro sentinela avançou, veloz de um jeito antinatural que a biologia comum não permitia. O bastão elétrico desceu num arco assassino mirando direto no meu pescoço.
 
-Eu não podia recuar. Minhas pernas exaustas teriam cedido. E, pior, se eu cedesse ao pânico da fumaça, eu morreria sufocado pelo meu próprio cérebro antes que o bastão elétrico encostasse em mim.
+Eu não tinha espaço para esquivar com a perna avariada. Plantei a bota no lodo e ergui o antebraço da prótese pesada para interceptar o golpe.
 
-— *Não!* — Eu rugi.
+*ZAP-CLANG!*
 
-Ergui minha prótese industrial avariada. A engrenagem rangeu. Quando o cadáver desferiu o golpe de cima para baixo, interceptei a trajetória. O choque elétrico do bastão espalhou-se pela lataria do meu braço mecânico e subiu até os enxertos nervosos mal curados no meu ombro.
+A descarga elétrica de alta voltagem espalhou-se pela blindagem da prótese numa cascata de faíscas incandescentes. O choque ressoou pelos pregos neurais no meu ombro como ferro em brasa, mas a carcaça de carregador das docas absorveu o impacto principal sem ceder um milímetro.
 
-A dor foi um relâmpago divino. Esmagadora. Absoluta.
+Travei a mandíbula contra o tranco e disparei o pistão hidráulico num soco ascendente.
 
-A fumaça do charuto sumiu da minha mente no mesmo instante, lavada pela agonia pura de mil agulhas de fogo rasgando meu córtex. Gritei, trincando os dentes com força suficiente para quebrar esmalte, e girei o peso descalibrado de chumbo da minha prótese em um arco devastador.
+O punho maciço de aço atingiu o queixo do sentinela com a força de um aríete. O crânio sintético partiu-se ao meio, os cabos do Jardim arrebentando numa explosão de fluido negro e faíscas. A criatura desabou de costas, inerte.
 
-O impacto esmagou a caixa torácica da sentinela. Ossos e metal barato se estilhaçaram. O peito afundou, os cabos do Jardim se romperam, espirrando fluido orgânico que chiou no chão metálico. O cadáver caiu, inerte, sua luz ocular apagando.
+Dois outros avançavam pela esquerda, contornando a passarela para flanquear Valéria enquanto ela digitava freneticamente no teclado do deck.
 
-Dois vieram logo atrás.
+— Não no meu turno — rosnei.
 
-Eu avancei. Usar o braço mecânico quebrado daquela forma estava rasgando meus tendões restantes, envenenando minha corrente sanguínea com o choque de retorno a cada impacto brutal. Mas cada faísca de dor excruciante era um gole de oxigênio real em um mar de fumaça alucinada. Transformei a punição em âncora.
+Saquei *Caronte* com a mão esquerda e disparei à queima-roupa no peito do sentinela do meio.
 
-Soquei o crânio do segundo. Ele afundou sob o peso do meu punho de aço como uma lata podre. Usei a alavanca pesada do braço para bloquear um ataque lateral do terceiro e, num movimento contínuo e exaustivo de quadril e perna esquerda, chutei a base de seus joelhos invertidos, partindo a perna e esmagando seu módulo de processamento dorsal contra o chão da plataforma.
+O estrondo ensurdecedor da escopeta de calibre doze sacudiu a câmara estreita. A carga pesada de balotes rasgou o colete tático podre e estilhaçou a coluna vertebral do cadáver reanimado, arremessando-o por cima do corrimão para o abismo do fosso.
 
-A exaustão cobrou o preço. O quarto cadáver cravou seu bastão de choque contra minha coxa. Minha órtese mecânica absorveu parte do dano, mas o golpe estourou três reguladores de pressão. Caí de joelhos no lodo, ofegante.
+O recuo brutal quase arrancou a arma da minha mão e jogou meu corpo contra a parede de concreto, mas antes que o terceiro pudesse erguer o bastão sobre a cabeça de Valéria, dei um passo à frente e enterrei os dedos de ferro da prótese na garganta dele.
 
-O quinto saltou em direção a Valéria.
+Girei o tronco, usando o peso do meu próprio corpo como alavanca, e esmaguei a cabeça da criatura contra o batente de aço da porta com um baque seco e definitivo.
 
-Ela não se mexeu. Seus olhos artificiais observaram o corpo decadente avançar contra ela enquanto os dados fluíam pelos cabos. No momento em que o ataque chegaria ao seu crânio, os visores da porta principal acenderam da cor verde esmeralda.
+— Trinta segundos, Gabo! — Valéria berrou, o suor escorrendo pelo nariz enquanto seus dedos sangravam ao manusear os fios desencapados da parede. — A criptografia tá mudando de chave a cada ciclo! Falta pouco!
 
-— Autenticação forçada concluída, — ela recitou.
+O quarto sentinela investiu por trás. O bastão de choque atingiu a lateral da minha coxa direita, onde a órtese mecânica absorveu parte do golpe, mas a voltagem estourou dois relés de pressão. Meus joelhos cederam na lama.
 
-A pesada porta blindada de Nível Sete deslizou para os lados com um som de sucção, quebrando a integridade de todas as raízes cerebrais conectadas ao sistema de segurança.
+O quinto e último cadáver pulou sobre a passarela, o bastão erguido em duas mãos, descendo direto contra a nuca de Valéria.
 
-No mesmo instante, o quarto e o quinto cadáveres paralisaram. O pulso bioluminescente que corria por suas veias se apagou. Sem a conexão principal, eles desmoronaram no lodo como os fantoches quebrados que eram, desconectados da Grande Obra do Jardim.
+— Valéria! Cuidado!
 
-Fiquei ali de joelhos, o peito subindo e descendo em espasmos dolorosos. O cheiro de lodo e metal queimado dominava, expurgando o charuto do meu pai. Minha respiração soou úmida. O suor em meu rosto estava misturado com respingos de sangue podre e o ácido da bateria da minha prótese, que agora soltava curtos-circuitos esporádicos perto da minha clavícula, cravando fisgadas de dor aguda constantes. Eu a deixei fritar. Eu precisava da dor.
+Ela não olhou para trás. Não hesitou. Confiou no som dos meus passos e na matemática do seu próprio código. Com um grito de fúria, ela cravou o terminal mestre de bypass no coração da placa de controle e puxou a alavanca manual de emergência.
 
-— Invasão tática ao nível trinta da instalação central autorizada, — Valéria desconectou os cabos da parede arruinada. Ela olhou para mim. Não havia alívio ou triunfo em sua postura. Apenas estática funcional. — Nossos níveis de integridade estrutural estão caindo exponencialmente, Gabo. A progressão atual é ilógica sem chance de recarga de substratos e fluidos médicos.
+— *Acesso concedido, seus desgraçados!*
 
-Me levantei, rangendo as articulações destruídas. Cuspi sangue e poeira no chão biológico e manquei em direção à porta aberta, sentindo cada centímetro da carne rasgada sob o metal das minhas pernas e do meu braço avariado.
+A comporta monumental de Nível Sete abriu-se com um rugido pneumático violento, as quatro folhas de aço deslizando para dentro das paredes rochosas. A ruptura quebrou a integridade das conexões neurais que alimentavam as sentinelas.
 
-— Quem disse que eu vim pra sobreviver? — Murmurei, adentrando o Arquivo.
+O bastão de choque congelou a dez centímetros do crânio de Valéria.
+
+As duas criaturas restantes tremeram numa convulsão elétrica rápida, as luzes de suas viseiras apagando como lâmpadas queimadas. Sem a corrente vital do servidor central, os corpos tombaram como sacos de estopa encharcados sobre o gradeamento de ferro.
+
+O silêncio desceu de repente, quebrado apenas pela minha respiração entrecortada e pelo gotejar do fluido negro na grade.
+
+Valéria soltou o ar num longo suspiro trêmulo, encostando a testa na parede fria por três segundos antes de se recompor. Ela guardou os cabos no bolso da jaqueta, virou-se e correu até mim, estendendo as duas mãos para me ajudar a erguer do chão.
+
+— Você tá inteiro, Moretti? — ela perguntou, os olhos prateados examinando a fumaça azulada que saía da junta do meu ombro com genuína preocupação.
+
+— A órtese da perna perdeu pressão — resmunguei, apoiando na mão dela até travar a articulação mecânica —, mas o braço novo aguentou o tranco. E você quase perdeu a cabeça ali, garota.
+
+Valéria deu aquele meio-sorriso cínico, secando a fuligem da testa com as costas da luva.
+
+— Quase não é registro no banco de dados, detetive. Eu sabia que você ia quebrar a cara daquele zumbi corporativo antes dele encostar na minha franja. Agora limpa esse cano de escopeta e entra logo. O coração dessa praga tá bem ali na frente.

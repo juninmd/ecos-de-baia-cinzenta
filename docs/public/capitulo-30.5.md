@@ -1,5 +1,6 @@
 ---
 image: /cenas/safehouse.jpg
+Personagens Presentes: Roberto Miranda, Silas Vance ("O Jardineiro"), Gabriel "Gabo" Moretti, Aria Moretti
 ---
 # Interlúdio: A Casa Sempre Ganha
 

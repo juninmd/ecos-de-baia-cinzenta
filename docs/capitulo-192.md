@@ -7,40 +7,70 @@ Personagens Presentes: Gabo, Valéria
 
 # Capítulo 192: A Ascensão das Cinzas
 
-O lodo fervia atrás de nós, um oceano vermelho de biologia corrompida evaporando na fornalha do Arquivo Executivo. O colapso térmico das bio-baterias do Jardim expelia um vapor espesso e escuro no fosso do elevador por onde tentávamos escapar. O calor era claustrofóbico, empurrando o ar para cima em lufadas tóxicas de carne carbonizada e silício derretido.
+O lodo fervia atrás de nós, um oceano vermelho de biologia corrompida evaporando na fornalha do Arquivo Executivo. O colapso térmico das bio-baterias do Jardim expelia um vapor espesso, alaranjado e cáustico no fosso de ventilação por onde tentávamos escapar. O calor subia como uma maré de forja industrial, empurrando o ar para cima em lufadas sufocantes de carne vegetal torrada e silício derretido.
 
-E no meio daquela fumaça real, o espectro do meu pai ressurgiu.
+O cheiro fétido de amônia e fuligem impregnava o poço, deixando um gosto amargo e azedo de fuligem colado na minha língua. Cada respirada parecia lixar a garganta por dentro, e o suor misturado com sangue quente escorria das cicatrizes do meu ombro amputado.
 
-O perfume adocicado e denso de charuto infiltrou-se no meu sistema respiratório. A alucinação não era apenas um cheiro; era uma textura. Eu sentia as cinzas invisíveis de Dante revestindo meus pulmões, endurecendo como cimento, roubando o oxigênio do meu sangue. A asfixia imaginária contraiu minha garganta. O pânico bateu no fundo do meu crânio como um martelo pneumático.
+Lembrei de cada fuga desesperada desde o Dilúvio nas docas; a sensação de carregar um corpo quebrado através de ferro em chamas era a única constante da minha vida nos últimos anos.
 
-Estávamos no meio de uma escalada insana pelas escadas de manutenção enferrujadas do fosso do elevador. Olhar para baixo era ver o inferno laranja do núcleo devorando a si mesmo. Olhar para cima era apenas a escuridão infinita e poeirenta do Setor 7.
+A escada de emergência de ferro fundido tremia sob as vibrações das explosões secundárias que estouravam vinte metros abaixo das nossas solas. O estrondo contínuo da alvenaria despencando nas poças de refrigerante fazia o ar zumbir nos tímpanos.
 
-— Probabilidade de falha estrutural primária em sessenta segundos alcança 92%, — Valéria relatou acima de mim. Sua voz era cirúrgica, estéril, livre da urgência que o fogo abaixo exigia. Em seu Modo de Segurança, ela era um fantasma digital habitando uma casca andante, subindo os degraus enferrujados com precisão matemática. — A taxa de ignição dos gases acumulados no duto secundário é letal.
+— Não para, Gabo! — a voz de Valéria ecoou cinco degraus acima de mim, rouca e tossindo pela fumaça química. Os filamentos de LED azul na franja curta dela brilhavam através da névoa cinzenta como vaga-lumes cortando uma tempestade de cinzas. — A onda de sobrepressão vai subir por esse tubo em menos de um minuto! Se a gente estiver no meio da chaminé quando o gás pegar fogo, o ar quente derrete a carne dos nossos ossos!
 
-A asfixia fantasma apertou. Minha visão escureceu nas bordas. Eu ia cair. Se a alucinação de Dante vencesse, eu afrouxaria as mãos, mergulharia naquele lago de lodo fervente e desapareceria.
+— A minha perna tá derrapando na fuligem — rosnei, cravando a mão de carne no degrau áspero e oxidado enquanto o braço mecânico dava o impulso pesado para erguer meus noventa quilos para o próximo nível.
 
-Eu não ia dar a ele essa satisfação.
+O ferro da escada estava escaldante, transferindo calor através do couro gasto das minhas luvas. A cada degrau conquistado, os pregos neurais cravados no meu osso latejavam com o esforço do contrapeso mecânico, mas eu mantinha a cadência fixa, recusando-me a olhar para o abismo de chamas que lambia as paredes do poço.
 
-Encontrei um degrau mais grosso na escada estrutural. O meu joelho esquerdo já estava dilacerado da automutilação que eu cometera no núcleo, carne rasgada até o osso pela minha própria engrenagem. Posicionei a perna avariada sobre a barra de metal. Com um rosnado preso na garganta apertada, forcei o peso inteiro do meu corpo e do meu braço industrial sobre aquele único joelho destruído.
+Valéria estendeu a mão enluvada para baixo, engatando os dedos no colarinho do meu sobretudo rasgado para me ajudar a vencer o desnível de uma viga torcida pelo calor.
 
-O metal da órtese rangeu, mordendo ainda mais fundo a ferida aberta. O impacto físico, puro e excruciante, explodiu na minha espinha. A dor foi um choque de desfibrilador em um coração parado. O clarão da agonia extinguiu o cheiro de fumaça de charuto instantaneamente. Meus pulmões se abriram em um espasmo, e eu puxei o ar tóxico e ardente do fosso, tossindo sangue e poeira, mas lúcido. Completamente lúcido.
+— Põe o pé direito na travessa de concreto, Moretti! Força!
 
-— Continue subindo, — eu grunhi para Valéria, minha voz rasgando a garganta arranhada.
+Apoiei a bota na laje lateral e me lancei para a plataforma superior de serviço da Subestação B. Caí de joelhos no piso de chapa de aço, o peito arfando como um fole arrebentado, os pulmões ardendo com a mistura de amônia e poeira de carvão. Minha perna com a órtese mecânica estalou alto, o metal quebrado rangendo sob a pressão.
 
-A prótese industrial do meu braço direito estava um caos de faíscas. Cada vez que eu agarrava o corrimão da escada para me puxar para cima, pequenos curtos-circuitos estalavam pelas placas expostas. Era um fardo mecânico, pesado como chumbo, mas era o que me mantinha avançando, degrau por degrau, enquanto o inferno subia nossos calcanhares.
+Atrás de nós, a escotilha de isolamento de pressão da subestação barrava o corredor. Uma porta maciça de duas folhas de aço naval de quatro polegadas de espessura, projetada para conter explosões de transformadores de alta voltagem.
 
-Valéria não olhou para trás. Não hesitou. O algoritmo não sentia pena, nem alívio. Apenas calculava a rota de fuga mais eficiente.
+Ela estava trancada por travas de sobrepressão de emergência que haviam disparado quando o incêndio começou lá embaixo.
 
-— Altura mínima de segurança atingida. Nível de subestação B. — Ela anunciou. A porta reforçada do nível de manutenção apareceu à nossa frente. Estava selada por grossas travas de emergência, desenhada para conter a pressão de um desastre inferior.
+Valéria correu até a caixa de comando manual, puxando a tampa de proteção com a ponta da faca tática.
 
-Eu me arrastei até a plataforma, a perna esquerda quase inútil, arrastando-se pesadamente. Não tínhamos tempo para que Valéria a hackeasse. O rugido do fogo do Arquivo estava engolindo o fosso do elevador logo abaixo das nossas botas.
+— As travas de alívio tão soldadas pela fuligem! — ela gritou, os olhos prateados analisando as cavilhas de travamento hidráulico emperradas no batente. — O relé térmico desligou o motor elétrico! A gente precisa romper os pinos mecânicos de retenção na força bruta antes que o fogo alcance a base dessa plataforma!
 
-Levantei a prótese pesada. Meu ombro descalibrado estalou sob o esforço. Deixei o punho industrial cair contra os controles de travamento da porta. Não houve sutileza, apenas a força cega do metal sobre o plástico endurecido e circuitos. Uma, duas, três vezes. O teclado arrebentou, o sistema de travamento entrou em curto e os painéis de aço da porta deslizaram pesadamente para o lado, abrindo uma fresta o suficiente.
+Olhei para baixo pelo vão da grade. Uma língua de fogo roxo e azul subia pelo fosso, consumindo os cabos de suspensão como pavios de dinamite. O ar estalava com a pressão crescente do metano confinado. Faltavam quinze segundos para a detonação final. Se a comporta não abrisse, morreríamos cozidos como ratos encurralados.
 
-Nós nos esprememos para dentro da escuridão do Nível B segundos antes que uma lufada de fogo e gás superaquecido varresse o túnel do elevador. O som da deflagração ensurdeceu o corredor em que tínhamos caído.
+— Afasta da soleira, Valéria!
 
-Eu me apoiei contra a parede gelada de concreto, o peito subindo e descendo com violência. O braço industrial pendia inutilizado por agora, e meu joelho sangrava profusamente no chão sujo. Mas eu não sentia cheiro de fumaça. Só o ozônio do meu próprio corpo despedaçado.
+Ergui o braço industrial de cais com as duas mãos, posicionando os nós de liga metálica exatamente sobre o conjunto das três cavilhas mestras que prendiam a folha esquerda ao batente de concreto.
 
-— Evacuação bem-sucedida, — Valéria informou, os olhos opacos avaliando a escuridão à frente. — Recalculando rota de superfície.
+Travei a postura, respirei fundo a cinza que cobria a sala e comandei a descarga pneumática máxima da junta de Vasco.
 
-Estávamos vivos. No escuro, na sujeira, quebrados. Mas o núcleo do Jardim estava morto.
+*BOOM-CLANG!*
+
+O impacto do punho de aço contra as cavilhas de ferro fundido reverberou pelo corredor como o disparo de uma peça de artilharia. Os pinos de duas polegadas entortaram com o choque, a trava soltou um silvo violento de gás comprimido e a porta cedeu cinco centímetros.
+
+Um segundo golpe. O aço das travas se partiu num estalo limpo de fratura mecânica. A folha de blindagem deslizou pesadamente para o lado, abrindo uma fresta escura que dava acesso aos túneis superiores da subestação.
+
+— Entra! Agora! — berrei, empurrando Valéria pelo vão estreito antes de me atirar para o outro lado com o ombro metálico à frente.
+
+No segundo exato em que meu sobretudo cruzou a soleira, a onda de choque térmico do núcleo alcançou o topo do fosso.
+
+Uma bola de fogo alaranjada explodiu contra a parte externa da comporta, lançando um jato ensurdecedor de labaredas e estilhaços incandescentes pelo vão. Apoiando as costas e o braço de ferro contra a chapa maciça, forcei a porta a se fechar contra a pressão do ar superaquecido, até que o ferrolho manual de emergência bateu no encaixe com um estrondo definitivo.
+
+*CLANK.*
+
+A porta vibrou violentamente por três segundos sob o impacto da explosão no fosso, mas a blindagem de aço naval segurou a deflagração. O calor arrefeceu na face interna da chapa.
+
+Desabei de costas contra a parede de concreto gélido do Nível B, escorregando até o chão ensopado de água limpa de drenagem.
+
+O silêncio do túnel superior caiu sobre nós como um manto pesado e restaurador. Não havia uivos de fungos, nem alarmes de sobreaquecimento, nem o calor sufocante da fornalha biológica. Havia apenas o ar frio e estéril de uma subestação abandonada e o eco ritmado da nossa respiração entrecortada.
+
+Valéria estava sentada ao meu lado, as costas apoiadas na mesma parede, a jaqueta de couro fumegando de leve com a cinza residual. Ela tirou o capuz, sacudindo a poeira das pontas desfiadas do cabelo escuro. Os fios de LED azul na franja voltaram a pulsar num tom suave, regular e calmo.
+
+Ela virou o rosto para mim, limpando uma mancha escura de fuligem da bochecha com as costas da mão, e soltou uma risada rouca e cansada que ecoou pela galeria vazia.
+
+— Você tem o pior estilo de demolição que eu já vi na minha vida, Moretti — ela murmurou, a voz trêmula de alívio e adrenalina. — Mas o Jardim... o Jardim virou cinza lá embaixo. A rede de clones do Silas não vai se alimentar de mais ninguém. Todo aquele sacrifício finalmente teve um fim.
+
+Olhei para a minha mão de carne, ainda tremendo com o choque residual do esforço, e depois para o aço fosco da prótese, que esfriava lentamente com o toque da umidade do chão.
+
+— A gente cumpriu a missão, Val.
+
+— É — ela apoiou a cabeça no meu ombro mecânico por dois segundos, fechando os olhos antes de se endireitar com sua habitual postura desafiadora. — A gente cumpriu. Agora vamos achar um canto seco pra recarregar meu deck antes que o resto da cidade descubra que a gente acabou de explodir o porão do Setor 7.

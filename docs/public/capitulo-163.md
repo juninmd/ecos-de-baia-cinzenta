@@ -39,25 +39,19 @@ Com um tranco violento que fez os cabos gemerem e as polias superiores soltarem 
 
 Gabo encostou as costas na grade lateral do elevador, ouvindo o vento frio assobiar pelas frestas do poço. O frescor do metal deveria ser reconfortante após o calor sufocante dos servidores purgados, mas, à medida que subiam em direção às fundações da torre corporativa, a temperatura ambiente parecia cair vertiginosamente, e a pressão atmosférica mudava nos tímpanos. Foi então que o ataque ocorreu.
 
-Não foi um ataque físico. A mente traumatizada de Gabo, levada além de qualquer limite fisiológico racional pela perda de sangue e pelo choque traumático das amputações, quebrou sob o silêncio monótono da ascensão. O cheiro invadiu suas narinas sem aviso. Forte, pungente, insuportável. Fumaça de cigarro barata. O odor azedo e adocicado de tabaco de cravo que empesteava o escritório de seu pai, Dante Moretti. O cheiro da corrupção, da omissão, do cinzeiro de vidro transbordando na noite chuvosa em que sua vida desmoronou.
+A mente e o corpo de Gabo, levados além de qualquer limite fisiológico pela perda crônica de sangue e pelo choque traumático das amputações recentes, oscilaram sob a descompressão brusca do poço. A visão periférica escureceu em espirais vertiginosas, e um zumbido estridente tomou conta de seus ouvidos, afogando os motores.
 
-A alucinação olfativa foi tão intensa que ele sentiu a fumaça ilusória raspar sua traqueia, cortando seu suprimento de oxigênio como se o fosso inteiro estivesse pegando fogo. Gabo dobrou os joelhos sobre a grade metálica, tossindo em seco, os olhos lacrimejando no escuro enquanto o peito arfava em busca de ar limpo.
+Gabo dobrou os joelhos sobre a grade metálica, o peito arfando enquanto a náusea da hipotensão ameaçava derrubá-lo de vez no chão do elevador.
 
-— Gabo! — Valéria gritou por sobre o ruído grave dos motores de tração, largando o painel de comando e correndo até ele. — Ei, ei, olha pra mim! Não tem gás nenhum aqui, o filtro do meu deck tá marcando ar limpo!
+— Gabo! — Valéria gritou por sobre o ruído grave dos motores de tração, largando o painel de comando e correndo até ele. — Ei, ei, olha pra mim! Fica acordado, detetive!
 
-Ele não conseguia ouvi-la direito. A fumaça fantasma o estava sufocando, uma mortalha espessa e cinzenta enchendo seus pulmões com as cinzas do passado. O pânico de não conseguir respirar misturava-se com o nojo visceral que nutria por aquele cheiro desde a infância.
+Ela segurou os ombros dele com firmeza, impedindo que o corpo tombasse sobre o guarda-corpo. Gabo cerrou a mandíbula com tanta força que os dentes estalaram, cravando as botas de borracha no piso vibratório para combater o desmaio iminente. A agonia latejante nos membros amputados pulsava como ferro em brasa, mas ele usou essa dor real para se ancorar no momento presente.
 
-Ele precisava de uma âncora. Precisava quebrar a ilusão antes que o cérebro entrasse em colapso.
+Puxou o ar frio e metálico do poço em golfadas lentas e profundas, forçando os pulmões a oxigenarem o cérebro até que a visão voltasse a clarear.
 
-Gabo recuou, afastando Valéria com um solavanco brusco do ombro esquerdo. Ele ergueu o cotoco direito, onde a pele carbonizada pelo maçarico de plasma envolvia a carne crua e os nervos expostos, e chocou-o violentamente contra a viga de ferro sólido do guarda-corpo do elevador.
+— Tô... tô aqui, Val, — ele ofegou, apoiando as costas na parede do elevador enquanto o suor gelado escorria pela testa e se misturava à fuligem no queixo. — Foi só... uma queda de pressão. Não vou apagar agora.
 
-O estalo foi surdo. A dor, absoluta.
-
-Um clarão branco engoliu sua visão periférica. O choque elétrico de agonia disparou do braço amputado direto para o tronco cerebral, varrendo qualquer outro estímulo sensorial ou memória fantasma. A ilusão da fumaça foi pulverizada pela pura, bruta e inegável realidade da dor física.
-
-Gabo escorregou pela grade até sentar no chão vibratório da plataforma, arfando pesadamente, o peito subindo e descendo enquanto inalava o ar frio e metálico do poço de aço. O suor gelado escorria de sua testa, misturando-se ao sangue seco no queixo.
-
-— O que você está fazendo, seu maluco?! — Valéria estava ajoelhada ao lado dele, horrorizada, as mãos pairando sobre os ombros de Gabo sem saber onde tocar sem causar mais danos. — Você vai abrir as artérias de novo!
+— É bom mesmo, seu teimoso, — Valéria suspirou, o alívio quebrando a tensão de sua voz enquanto ela mantinha as mãos protetoras nos braços dele. — Eu não arrastei sua carcaça até aqui pra você desmaiar no último andar.
 
 — Eu tô... eu tô bem — ele murmurou, a voz trêmula e rouca, mas perfeitamente lúcida. A náusea recuara para as sombras. — Só precisava... respirar. Precisava lembrar onde eu tô.
 

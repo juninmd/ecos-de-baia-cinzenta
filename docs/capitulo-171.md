@@ -15,15 +15,9 @@ A cada dez metros, a carne recém-fechada pelo plasma era esfolada na grade. O s
 
 O cheiro do Subnível 2.0 — o formol, o ozônio estéril, a carne morta no servidor — começou a se dissipar na marca dos quarenta metros. Em seu lugar, a velha e conhecida exalação de Baía Cinzenta desceu pelo poço de ventilação: uma lufada úmida de asfalto molhado, poeira de concreto e a acidez química da chuva contínua.
 
-Meu cérebro traumatizado, sedento por alívio ou tortura, puxou a alavanca errada. O cheiro de chuva e asfalto era o cheiro da rua, e a rua sempre me lembrava os faróis vermelhos refletindo nas poças d'água sob o escritório do meu pai.
+O esforço contínuo da escalada cobrava um preço avassalador de cada fibra muscular. Sem as mãos, eu dependia da tração dos cotovelos, da pressão dos joelhos e da força bruta do abdômen para vencer cada degrau de ferro da escada de serviço. A queimação nos membros cauterizados irradiava pelo peito a cada impulsão.
 
-O aroma denso de cravo e alcatrão invadiu minhas narinas. A fumaça fantasma rastejou pelo meu esôfago. A alucinação veio forte, como se houvesse alguém fumando no degrau imediatamente abaixo do meu pé, soprando veneno no meu rosto.
-
-Parei a escalada. O pânico primitivo de sufocar apertou meus pulmões. O cheiro era tão vívido que senti meus olhos arderem.
-
-Respirei fundo, o gosto de ferro na boca, e girei meu ombro direito. Bati o cotoco cru e mutilado com toda a força que restava no meu torso contra a parede de concreto bruto do fosso.
-
-O impacto oco reverberou na espinha. A explosão de dor rasgou a névoa de fumaça na minha cabeça em fragmentos vermelhos e agudos. Um ganido rascante escapou pela minha garganta. A carne repuxou, o sangue escorreu fresco, e a fumaça de cravo desapareceu, expulsa pela claridade cristalina da agonia física.
+Parei por três segundos para recuperar o fôlego, apoiando a testa no aço gelado do degrau superior. O ar frio da superfície entrava rasgando a garganta, com gosto de salitre e chuva ácida. Cerrei a mandíbula, sentindo o pulsar ensurdecedor do sangue nas têmporas, e usei o ritmo áspero da minha própria respiração para afastar a vertigem da exaustão.
 
 — Não para. — A voz de Valéria ecoou de cima, áspera, mecânica. Ela não perguntou se eu estava bem. Ela sabia que a resposta não importava.
 

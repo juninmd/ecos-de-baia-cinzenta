@@ -7,46 +7,54 @@ Personagens Presentes: Gabo, Valéria
 
 # Capítulo 190: O Relicário de Silício
 
-A escuridão do Núcleo do Arquivo Executivo não era o breu absoluto que esperávamos. O recinto massivo, originalmente planejado como uma catedral de servidores limpos, banhados a temperaturas subzero, era agora um abatedouro. Um brilho febril, da cor de carne esfolada sob neon defeituoso, pulsava das entranhas dos corredores centrais. O frio original fora devorado por uma umidade asfixiante que condensava nas paredes em gotas pesadas e sujas.
+A escuridão do Núcleo do Arquivo Executivo não era o breu absoluto que esperávamos. O recinto massivo, originalmente planejado como uma catedral de servidores limpos banhados a temperaturas subzero, era agora um abatedouro tecnológico. Um brilho febril, da cor de carne esfolada sob neon defeituoso, pulsava das entranhas dos corredores centrais. O frio original fora devorado por uma umidade asfixiante que condensava nas paredes em gotas pesadas e sujas.
 
-A arquitetura do "Jardim" atingia ali o seu zênite nauseante. Não havia mais divisão entre o maquinário e o orgânico. Os servidores gigantescos, responsáveis por armazenar o espólio digital de Baía Cinzenta e as mentes digitalizadas dos magnatas originais da Aeterna, haviam sido consumidos. Fileiras de cabos ópticos estavam envoltas em bainhas de tecido vascular e pus endurecido. Mas o pior não era isso.
+O ar tinha um cheiro fétido de decomposição biológica misturado ao ozônio queimado de placas de circuito. Na boca, eu sentia o gosto amargo e metálico na língua, aquele sabor azedo de bile e fuligem que nunca mais me abandonara desde o Dilúvio na Zona Sul.
 
-Eram os doadores.
+A arquitetura do Jardim atingia ali o seu zênite nauseante. Não havia mais divisão entre o maquinário e o orgânico.
 
-Suspensos entre as colunas dos data-centers, fundidos ao metal como relíquias profanas, estavam os corpos. Centenas deles. Mendigos, saqueadores de baixo nível, sintéticos descartados. Todos engolidos e mantidos em estado vegetativo de processamento cerebral contínuo para fornecer energia térmica e neuro-computação extra.
+Os servidores gigantescos — fileiras de torres negras de quatro metros de altura responsáveis por armazenar o espólio digital da cidade e as cópias de mentes digitalizadas dos magnatas originais da Aeterna — haviam sido completamente parasitados. Fileiras de cabos ópticos estavam envoltas em bainhas de tecido vascular que pulsavam no ritmo de um coração mecânico.
 
-Dei um passo para dentro do salão. A fuligem biológica que preenchia o ar era densa e ácida, queimando meus olhos e a parte de trás do meu palato.
+Mas o pior não eram os cabos. Eram os doadores.
 
-E então, o cheiro de cinza molhada transmutou.
+Suspensos entre as colunas dos data-centers, fundidos ao metal como relíquias profanas, estavam os corpos. Centenas deles. Mendigos, operários descartados da Zona Baixa, catadores que haviam desaparecido nos canais nos últimos meses. Todos mantidos num coma induzido, os olhos entreabertos brilhando com filamentos de transmissão, o córtex cerebral de cada um sendo drenado para gerar poder de processamento em paralelo. Homens e mulheres que a cidade declarara como mortos anos atrás, agora mantidos em agonia biológica perpétua.
 
-Meu cérebro corrompido processou a podridão química como uma tragada densa do charuto barato do meu pai. O peso invisível do trauma me abateu instantaneamente. Senti as mãos calejadas e imaginárias de Dante agarrando minha garganta. O cheiro me asfixiava, fechando meus pulmões enquanto a sala enorme parecia girar, esmagando-se ao meu redor em formato de confinamento e cinismo. O pânico subiu, a fumaça ilusória tapando minha visão periférica, transformando a matriz biológica em fogueiras escuras.
+Valéria parou na entrada do salão, a mão esquerda cravada no corrimão de ferro. Os LEDs azuis na franja curta dela piscaram num ritmo errático, refletindo o horror absoluto em seus olhos ópticos prateados.
 
-Caí de joelhos contra a grade metálica do piso. Meus pulmões arranhavam o nada, engasgando no ar contaminado.
+— Meu Deus... Gabo... isso não é um depósito de dados — a voz dela saiu num sussurro trêmulo, carregado de repulsa. — É uma fazenda de mentes humanas escravizadas. A Aeterna construiu o hardware, mas o Silas transformou essas pessoas no combustível do cálculo. Olha a taxa de transferência... eles tão usando o sofrimento dessa gente pra reescrever os firewalls das comportas pluviais da cidade.
 
-— Frequência cardíaca subindo além da margem de segurança. Níveis de cortisol indicativos de choque induzido, — a voz gélida de Valéria quebrou o silêncio fúnebre do salão, ignorando as centenas de cadáveres trançados aos servidores. Ela não demonstrou aversão. Seu Modo de Segurança calculou apenas o volume de informações fluindo pelo salão. — Estima-se que a infraestrutura esteja decodificando terabytes de dados biológicos por segundo usando a atividade neural parasítica.
+— Eles querem a rede de drenagem inteira — falei, o cano fumegante de *Caronte* apontado para o chão, o peso da prótese no ombro amputado latejando com o calor acumulado da batalha anterior. As cicatrizes da junção dos nervos queimavam como fogo. — Querem usar a água da chuva e os esgotos pra espalhar esse fungo por cada ralo de Baía Cinzenta.
 
-Eu não conseguia responder. Estava afundando.
+Lembrei da morte de Bia Vargas na sala do comissariado, lembrei de cada sacrifício inútil desde a queda da Torre do Relógio. Aquela cidade sempre moía corpos pobres para manter os sistemas da elite funcionando.
 
-Desesperado, agarrei os cabos frouxos que saíam do ombro da minha prótese industrial avariada. Os fios expostos estalavam em estática verde e laranja após a luta anterior. Precisava de uma âncora. Precisava rasgar a névoa do meu pai. Sem hesitar, pressionei a fiação desencapada e ruidosa diretamente contra as placas de metal expostas no meu próprio peito e nas cicatrizes da instalação grosseira do meu braço direito.
+— Se isso acontecer, não sobra uma alma viva na superfície — Valéria caminhou até o console de diagnóstico no pé do primeiro pilar, conectando o scanner com as mãos trêmulas de raiva. As telas piscaram com linhas vermelhas de telemetria. — O sistema tá operando no limiar térmico. Cada cérebro desses gera calor biológico absurdo enquanto calcula. A única razão pela qual essa sala inteira não pegou fogo ainda é aquele sistema ali.
 
-A descarga elétrica foi brutal. Um arco de pura agonia de duzentos e vinte volts explodiu dentro da minha carne, torcendo minha espinha em um arco espasmódico. O cheiro de carne queimada e ozônio autêntico encobriu totalmente qualquer fumaça de charuto irreal. O choque reiniciou meu sistema nervoso à força, esmagando o gatilho da fobia de asfixia sob uma avalanche de dor tangível e abrasadora.
+Ela apontou com a lanterna para a viga central da câmara.
 
-Soltei um grito dilacerado e rolei para o lado, cuspindo uma bolha de sangue quente.
+Descendo do teto como uma espinha dorsal de titânio, um duto pressurizado de meio metro de diâmetro conduzia fluido refrigerante para as bases de todos os servidores. Válvulas manuais de alívio rápido de amônia líquida brilhavam sob a condensação congelada, emitindo um ruído sibilante e gelado que contrastava com o calor pegajoso da biomassa ao redor.
 
-— A autoeletrocussão danificou seus nós neurais periféricos de maneira irreversível, — avaliou Valéria. Ela andou até o servidor mestre no centro da sala, pisando sobre um emaranhado de vasos sanguíneos enxertados sem quebrar o passo. — É um comportamento letal e irracional.
+— Amônia pressurizada e gás freon em circuito fechado — Valéria analisou, os olhos faiscando de perspicácia técnica. — Se o fluxo de arrefecimento for cortado na válvula mestra naquele pilar central, o calor do processamento biológico não tem pra onde ir. Em menos de três minutos os servidores entram em colapso térmico, os cabos derretem e a biomassa do Jardim pega fogo por autocombustão.
 
-— Irracional é ficar assistindo essa merda continuar a existir, — engasguei, me pondo de pé, as pernas mecânicas protestando de exaustão e curtos-circuitos esparsos ainda faiscando sobre meu ombro. A dor mantinha o mundo focado. Eu respirava ar sujo, mas respirava.
+— E como a gente fecha essa válvula? — perguntei, avaliando a altura do encanamento e o metal quebrado das plataformas.
 
-Caminhei até onde Valéria estava. Ela passava os dedos por uma interface manchada de lodo. As linhas de código que passavam no terminal eram dezenas de consciências engarrafadas do velho mundo sendo torturadas em loop pelo Jardim para reescrever senhas e protocolos operacionais mortos.
+— A gente não fecha, Gabo — Valéria me encarou, e pela primeira vez naquela noite, havia um sorriso selvagem e vingativo em seus lábios cortados. — A gente quebra. A gente arrebenta o volante da tubulação principal. O líquido superaquecido vai vazar em spray direto sobre os servidores mestre.
 
-— Eles não estão apenas tentando sobreviver. O Jardim quer a cidade. Eles querem usar esses servidores para se conectar à grade urbana, transformar a chuva e os dutos na mesma imundície que tá aqui embaixo, — murmurei, apoiando a pesada prótese metálica sobre o console principal de acesso, rangendo os dentes contra a dor persistente.
+— Isso vai transformar essa sala inteira numa caldeira de vapor venenoso — ponderei, sentindo o peso da decisão.
 
-— Correto, — confirmou Valéria, de forma estéril. — O núcleo central comanda as sub-rotinas de expansão radicular da cidade. A eliminação da rede local encerraria a capacidade do organismo cibernético de replicação central. No entanto, os protocolos lógicos indicam que não possuímos arsenal explosivo ou bélico para dano em massa. Ações de expurgo direto falharão estatisticamente.
+— E vai libertar essas centenas de mortos-vivos da tortura desse pesadelo — ela retrucou, a voz firme como aço temperado. — A gente destrói a fundação térmica, aciona o duto de expurgo de emergência e corre pro fosso de elevação da Subestação B antes que o teto desabe. Eu já mapeei a escotilha de saída no fundo do corredor.
 
-Olhei para a fileira interminável de pilares de servidores fundidos a cadáveres. Os tubos de lodo vital e refrigerante químico corriam paralelos aos cabos de força primários nas bases de contenção de concreto, espalhados como artérias expostas. Era frágil. Se eu conseguisse destruir a fundação térmica, tudo derreteria sob o próprio peso do sobreaquecimento.
+Caminhei até o pilar central, meus passos pesados esmagando as raízes carmesins que rastejavam pelo gradeamento.
 
-— Foda-se a estatística, — minha voz saiu arranhada, um rosnado sujo impulsionado pela fúria de tudo o que eu tinha perdido, da dor que latejava no lugar do meu braço. Girei a engrenagem descalibrada da minha prótese, sentindo o óleo e o sangue se misturarem. — Nós viemos pra cá pra acabar com isso. Eu não vou deixar que essa coisa use Baía Cinzenta como um viveiro.
+Diante de mim, o volante de ferro fundido da válvula mestra de arrefecimento estava envolto por uma crosta grossa de gelo químico e raízes ressecadas. O metal chiava sob a pressão monumental da amônia comprimida que corria dentro do duto.
 
-Levantei a pesada prótese e mirei na primeira válvula mestra de contenção biológica ancorada no pilar central do servidor.
+Girei os atuadores da minha prótese industrial de cais, ouvindo o chiado pneumático travar as garras de aço no torque máximo. Os nervos enxertados na minha carne arrancada arderam com o esforço, mas a dor agora não era um obstáculo; era a certeza de que eu ainda estava aqui, empunhando a ferramenta certa no lugar certo.
 
-— Hora de podar esse jardim.
+Valéria preparou o disparador de faísca do deck e recuou três passos, mantendo a pistola em punho para cobrir o perímetro.
+
+— No seu sinal, Moretti. Quando essa amônia espirrar, a gente tem exatamente noventa segundos antes da câmara inteira explodir em chamas térmicas.
+
+Encarei o mar de servidores vivos e as almas presas no silício corrompido de Dante e Silas.
+
+— Hora de podar esse jardim, Val.
+
+Cravei a mão mecânica de ferro no volante congelado da válvula, travei os dentes e puxei com toda a força brutal que a escória de Baía Cinzenta ainda guardava no meu peito ferido.

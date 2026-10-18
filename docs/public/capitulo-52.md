@@ -1,5 +1,6 @@
 ---
 image: /cidade.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Clara Moretti
 ---
 # Capítulo 52: Dívida Eterna
 

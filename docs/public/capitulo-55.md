@@ -1,5 +1,6 @@
 ---
 image: /capitulo_55.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Isadora, Marco Moretti, Roberto Miranda, Elena Moretti
 ---
 # Capítulo 55: A Tentação de Lázaro
 
@@ -13,7 +14,7 @@ Não era Val, nem Elena. Era uma mulher que ele nunca tinha visto, mas que parec
 
 Ela usava um vestido vermelho que parecia líquido, deslizando sobre curvas perigosas. Seu cabelo platinado capturava a pouca luz do ambiente. O cheiro de jasmim sintético invadiu o ar viciado do porão.
 
-— Gabriel Moretti — disse ela. A voz era seda e lâmina. — Você parece um homem que carrega o mundo nas costas. E que as costas estão quebrando.
+— Gabriel Moretti — disse ela. A voz era seda e fumaça. — Você parece um homem que carrega o mundo nas costas. E que as costas estão quebrando.
 
 Gabo levou a mão à pistola sob a mesa.
 

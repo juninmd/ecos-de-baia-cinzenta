@@ -7,54 +7,80 @@ Personagens Presentes: Gabo, Valéria
 
 # Capítulo 183: Carniça de Metal
 
-O cemitério de carcaças industriais se estendia como um mar de esqueletos de aço sob a chuva fina e venenosa do Distrito 4. Cada passo que dávamos na lama oleosa soava como uma confissão. Eu estava exausto. O peso da minha nova prótese arrastava o meu ombro direito para baixo, um pêndulo de metal bruto e doloroso que Vasco havia parafusado diretamente na minha carne.
+O cemitério de carcaças industriais se estendia como um mar de esqueletos de aço sob a chuva fina e venenosa do Distrito 4. Cada passo que dávamos na lama oleosa soava como uma confissão clandestina. Eu estava no limite físico; o peso da nova prótese arrastava meu ombro direito para baixo, um pêndulo de liga metálica bruta que repuxava minhas costelas a cada passada claudicante.
 
-Valéria caminhava dois metros à minha esquerda. O Modo de Segurança apagou as nuances dos seus movimentos. Ela não desviava do lixo ou procurava o melhor ângulo; ela caminhava em linha reta, otimizando energia. Uma máquina pálida e indiferente à desolação que nos cercava.
+Valéria caminhava dois metros à minha esquerda, os olhos prateados perscrutando as ruínas de uma oficina mecânica abandonada.
 
-— Múltiplas fontes térmicas detectadas a oitenta metros, vetor norte. — A voz plana de Valéria cortou o ruído do vento tóxico. — Assinaturas inconsistentes. Probabilidade de motor de combustão modificado: 92%. Probabilidade de hostis: 88%.
+— Pára, Gabo — ela sussurrou de repente, a voz firme e cortante. — Desliga o sensor térmico do casaco. Agora.
 
-— Eles nos viram? — perguntei, a garganta seca raspando a cada sílaba.
+Joguei meu corpo contra o casco tombado de um antigo ônibus de transporte corporativo. A lataria fria e enferrujada manchou a manga do meu sobretudo, mas o abrigo era sólido.
 
-— Negativo. Estamos contra o vento. No entanto, nossa velocidade de deslocamento atual sugere interceptação em quatro minutos. Recomendo imobilidade estrita atrás de cobertura sólida.
+— O que você pegou no scanner? — perguntei, sentindo o ar frio queimar meus brônquios cansados.
 
-Eu me joguei contra o casco virado de um antigo ônibus de transporte corporativo. A ferrugem manchou meu sobretudo esfarrapado, mas eu não me importei. Fechei os olhos e respirei o ar poluído.
+— Motor a combustão de quatro tempos modificado pra rodar com querosene e álcool combustível — Valéria se agachou ao meu lado, os LEDs azuis da franja piscando numa cadência rápida. Ela abriu a tampa do cyberdeck e conectou a antena direcional. — O ruído do pistão tá vindo pela transversal da fábrica de baterias. Três assinaturas biométricas em cima de um chassi tubular. Saqueadores motorizados da Zona Sul.
 
-O som rasgado de um motor dois-tempos quebrado começou a ecoar pelos escombros. E com ele, veio o cheiro.
+O som áspero e ruidoso de um motor desregulado começou a ecoar pelos galpões em ruínas.
 
-Não era apenas o cheiro de diesel velho e óleo queimado. O exaustor tossiu uma nuvem espessa e negra que o vento arrastou na nossa direção. O cheiro de queimado invadiu minhas narinas e, no mesmo instante, a ilusão tomou conta. O asfalto enlameado sumiu. A fuligem química se transformou no doce, nauseante e denso odor do tabaco importado do meu pai. A fumaça escura de charuto que enchia o antigo escritório de Dante Moretti fechou-se em torno do meu pescoço.
+Entre os esqueletos de vigas de ferro, o veículo despontou. Era um buggy de guerra artesanal, montado com tubos de aço soldados, pneus largos de trator roubados das docas e chapas de blindagem arrebitadas na lateral. No banco dianteiro, um homem com máscara de filtro duplo pilotava com uma mão no volante e outra na alavanca de marchas; atrás, dois atiradores empunhavam carabinas de caça com canos oxidados, farejando as ruínas com a avidez de hienas mecânicas.
 
-Meus pulmões travaram. O pânico subiu pela minha espinha, frio e paralisante. Eu estava sufocando na poltrona de couro dele outra vez. O abismo se abria.
+— Eles tão seguindo o rastro das nossas botas na lama — Valéria apontou para o chão, onde a pegada pesada do meu pé metálico havia aberto uma vala funda no barro. — Não dá pra despistar na corrida. Aquele motor pega sessenta por hora mesmo no cascalho.
 
-*Não.*
+— Então a gente para o motor — falei, apoiando a mão esquerda na coronha de *Caronte*.
 
-Ergui o braço direito — a monstruosidade industrial sem calibração, cheia de pregos neurais cravados no meu toco. Fechei o punho mecânico e soquei a lataria enferrujada do ônibus com toda a força que consegui invocar.
+— Parar o motor como, gênio? — ela me encarou, uma sobrancelha erguida, com aquele deboche afiado que a mantinha sã. — Você quer que eu jogue meu deck embaixo da roda deles? Se você der um tiro de doze no bloco do motor a essa distância, os estilhaços de blindagem voltam na nossa cara.
 
-O metal cedeu com um estrondo oco. A dor subiu pelo meu braço como um chicote de chamas. A agonia crua da carne rasgando contra os parafusos internos triturou o fantasma do meu pai. O cheiro de charuto sumiu, substituído pelo suor frio e pelo zumbido dos servos danificados. O sangue pingou do cotoco na lama. Eu estava de volta, ofegante.
+— O radiador tá exposto — apontei com o queixo de ferro para a frente do buggy. — O piloto tirou a grade de proteção pra aumentar o fluxo de ar no motor superaquecido. O ventilador de arrefecimento tá girando solto bem no bico do chassi.
 
-— Ação ilógica. Emissão de som acima de 70 decibéis detectada — relatou Valéria, virando a cabeça com um zumbido mecânico. — Ocultação comprometida. O vetor térmico alterou o curso. Eles estão vindo na nossa direção.
+Valéria olhou pela fresta da lataria do ônibus, os olhos ópticos dando um clique audível de zoom.
 
-— Bom. — Cuspi um coágulo de sangue e poeira no chão. — Eu precisava acordar de qualquer jeito.
+— Você é completamente maluco, Moretti. Se você errar o tempo do salto, aquele parachoque de viga em U parte sua bacia em dois pedaços.
 
-De trás de uma barricada de concreto tombada, o veículo apareceu. Era um "buggy" grotesco, construído com tubos soldados e blindagem de sucata. Havia três deles. Saqueadores analógicos. Carniceiros de metal. Eles usavam máscaras de gás adaptadas e roupas de couro sintético desfiado. Um deles operava o motor; os outros dois empunhavam rifles de caça enferrujados, mas letais.
+— Então você garante que os dois atiradores da caçamba não mexam no gatilho enquanto eu pulo.
 
-O cheiro do diesel queimado tentou me engolir novamente, a fumaça de charuto espreitando nas beiradas da minha visão. Ativei a sobrecarga manual da prótese. O mecanismo chiou em protesto, os eletrodos fervendo a minha pele. Usei a dor. Abracei a agonia térmica como um escudo. Enquanto doesse, eu era eu.
+Ela soltou um suspiro irritado, puxando o ferrolho da sua pistola com um estalo limpo e metálico que ecoou na escuridão sob o ônibus.
 
-— Protocolo de defesa ativado — disse Valéria. Sua postura mudou milimetricamente, a pistola na mão erguida sem hesitação. — Otimização de alvos iniciada.
+— Três segundos depois do seu impacto, Gabo. Nem um milissegundo antes, senão o piloto desvia o curso. E se você morrer nessa manobra estúpida, eu juro que desmonto seu braço novo e vendo o cobre pros sucateiros do porto.
 
-O motorista pisou fundo, as rodas jogando lama e pedras, tentando nos atropelar contra o ônibus. Saí da cobertura não fugindo, mas avançando de encontro ao capô pontiagudo.
+— Justo.
 
-Quando o veículo estava a menos de três metros, eu desviei o corpo e deixei o braço industrial assumir a física. Enterrei a mão mecânica diretamente na grade do radiador exposto. A inércia do veículo lutou contra o torque brutal da prótese não calibrada. O impacto quebrou meus ossos até a clavícula. A dor foi avassaladora, cósmica, rasgando qualquer vestígio de alucinação e trauma da minha mente.
+O buggy acelerou, os pneus jogando jatos de lama negra contra as paredes destruídas. O piloto avistou a ponta do meu sobretudo saindo de trás do ônibus e deu uma guinada selvagem, acelerando a fundo para nos esmagar contra a carcaça de ferro.
 
-O radiador estourou. Vapor escaldante cobriu meu rosto. O buggy rodopiou, jogando o motorista para fora.
+Esperei até sentir a vibração do motor tremer no meu osso da mandíbula. Cinquenta metros. Trinta metros. Dez metros.
 
-Os tiros ecoaram em seguida. Valéria não gritou aviso, não esboçou emoção. Ela apenas calculou os ângulos através do vapor e efetuou dois disparos cirúrgicos e secos. Os dois atiradores no veículo caíram inertes antes mesmo de perceberem o que os atingiu, o sangue escuro misturando-se à ferrugem do carroceria.
+Saltei da cobertura para o meio da poça de lama, posicionando o pé de metal no cascalho para ancorar o impacto. O capô do buggy veio como um projétil cinzento, as pás metálicas do ventilador do radiador girando a milímetros do meu peito.
 
-O motorista atirado no asfalto gemia, tentando alcançar uma faca na bota. Caminhei até ele, a prótese falhando e soltando faíscas. A dor era minha respiração agora. Agachei-me, o peso da perna de metal pressionando o peito dele contra a lama.
+Não tentei desviar. Ergui a prótese pesada de carregador das docas com as duas mãos e soco o centro da hélice em rotação com toda a carga pneumática de Vasco travada no máximo.
 
-— Estatisticamente — Valéria disse, parando ao meu lado, a arma ainda em punho, a voz um abismo gelado —, o sujeito não apresenta mais ameaça letal. Eliminação é opcional, mas recomendada para evitar perseguição.
+*CRASH-CLANG.*
 
-Olhei para o saqueador assustado sob a chuva suja. O cheiro da rua estava horrível, mas pela primeira vez no dia, não cheirava a fumaça.
+O aço industrial do meu punho colidiu com o bloco de ferro fundido do motor. As pás da hélice se estilhaçaram em estilhaços incandescentes, a correia dentada estourou com o estampido de um tiro de canhão e o radiador se rompeu numa explosão violenta de vapor superaquecido e fluido refrigerante fervente.
 
-— Opcional — murmurei. Tirei o pé do peito do homem. — A gente guarda as balas. Levanta, Val. Temos muito lixo pra atravessar ainda.
+A inércia de duas toneladas colidindo contra o braço travado jogou uma chicotada de fogo pela minha clavícula, rasgando os tecidos cicatrizados e me arremessando dois metros para trás na lama. Mas o buggy sofreu a pior parte: a frente afundou no cascalho, o eixo dianteiro quebrou e a traseira capotou de lado, arremessando os dois atiradores pelos ares.
 
-Deixamos o carniceiro na lama, vivo, e voltamos a caminhar. O Distrito 4 continuava morto ao nosso redor. Mas, no pulsar violento da minha carne arruinada, eu sabia que ainda estava vivo. E no mundo sem luz da Ascensão de Dante, isso teria que bastar.
+Dois disparos secos cortaram o vapor sibilante antes mesmo que os corpos deles tocassem o chão.
+
+Valéria emergiu da fumaça como um espectro de couro e neons azuis. Dois tiros cirúrgicos, precisos, disparados em movimento. Os dois atiradores tombaram inertes na lama antes de conseguirem erguer os rifles.
+
+O piloto do veículo, atordoado pelo capotamento e queimado pelo vapor da água fervente, rastejava para fora dos destroços, tentando puxar uma chave de boca pesada da cintura.
+
+Valéria caminhou até ele com passos calmos, pisou com a bota de ferro direto no pulso do homem — arrancando um uivo de dor — e encostou o cano ainda fumegante da pistola no centro da máscara de gás dele.
+
+— Solta a ferramenta, carniceiro — a voz dela soou gelada, mas com aquele veneno cortante de quem dominava a situação. — Um espasmo e eu abro um buraco de ventilação novo no meio da sua testa.
+
+O homem soltou o ferro no cascalho ensopado, os olhos arregalados de terror por trás das lentes plásticas riscadas.
+
+— P-piedade... a gente só tava patrulhando o setor...
+
+— Patrulhando o setor caçando carcaça viva, né seu verme? — Valéria se abaixou, arrancando o rádio transmissor analógico preso na gola dele com um puxão seco. — Qual é o caminho limpo pros trilhos subterrâneos do Setor 6? Responde rápido antes que meu dedo canse de segurar o gatilho.
+
+— O... o túnel de carga da têxtil! — o homem gaguejou, o ar saindo em silvos pela válvula da máscara. — A duzentos metros à esquerda, atrás dos silos de armazenamento de grãos. O portão tá arrombado, mas... tem coisa viva lá embaixo! Raízes azuis! Elas pegaram o nosso grupo de reconhecimento ontem!
+
+Valéria me olhou por cima do ombro. Eu estava de pé, apoiado no capô fumegante do buggy, flexionando os dedos da prótese. O metal chiava de calor residual, mas o choque havia passado sem quebrar os parafusos mestres.
+
+— Raízes azuis — ela disse, desativando o rádio do homem com um golpe no concreto. — Exatamente onde a gente precisa ir. O complexo hidropônico.
+
+Ela virou o cano da arma e desferiu uma coronhada seca na têmpora do piloto, apagando-o instantaneamente na poça de lama sem disparar um tiro.
+
+— Deixou o sujeito vivo? — perguntei, ajeitando o sobretudo.
+
+— Matar gasta bala que a gente não tem — ela guardou a arma no coldre e veio até mim, segurando meu antebraço de ferro para checar a folga da bucha. — E ele vai acordar com uma dor de cabeça tão desgraçada que não vai querer ver metal na frente dele pelos próximos cinco anos. Agora anda, Moretti. A água desse radiador vai atrair outros bichos em menos de dez minutos.

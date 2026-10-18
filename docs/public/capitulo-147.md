@@ -15,11 +15,9 @@ Gabo arrastava Rangel com o braço esquerdo, o único cuja palma ainda respondia
 
 Mas o que realmente o esgotava não era a perda de sangue, embora as bordas de sua visão escurecessem em pulsos rítmicos, sincronizados com os batimentos erráticos do próprio coração. O que o corroía por dentro era o ar.
 
-O ar naquele corredor não era apenas rarefeito; era denso, carregado com o cheiro residual de décadas de abandono, poeira de ossos e um odor químico sutil de formol. E para Gabo, esse coquetel olfativo era um gatilho perverso. O cheiro asséptico disparou novamente a memória vívida do necrotério anos atrás. Onde quer que olhasse, as sombras bruxuleantes pareciam formar a silhueta do legista, envolto em uma nuvem opressiva de fumaça de cigarro barato.
+O ar naquele corredor não era apenas rarefeito; era denso, carregado com o cheiro residual de décadas de abandono, poeira de ossos e um odor químico corrosivo de formol e solventes industriais. A cada respiração forçada, a garganta de Gabo arranhava, provocando uma tosse sufocada que ameaçava desequilibrar seus passos.
 
-A fumaça fantasma enchia suas narinas, descendo pela garganta, provocando uma náusea visceral e asfixiante. Ele odiava cigarro. Odiava a forma como o cheiro se impregnava nas roupas, como representava a fraqueza, o vício, a lenta decomposição de quem o consumia. Era o cheiro da morte lenta e negligente, a marca registrada de tragédias que não puderam ser evitadas. O estômago de Gabo se contorceu, e ele teve que engolir em seco para não vomitar a bile azeda que subia pela garganta.
-
-Para dissipar a nuvem ilusória, ele precisava de um choque de realidade. Gabo apertou com força a alça do colete de Rangel com a mão direita, a mesma que estava em carne viva devido à escalada no poço de ventilação. A dor foi imediata e lancinante. As terminações nervosas queimaram como se fossem banhadas em ácido. Ele soltou um grunhido gutural, fechando os olhos por uma fração de segundo. A dor era um clarão que varria as sombras. A agonia física era real, afiada e crua, e era a única coisa capaz de ancorá-lo no presente, esmagando a alucinação sufocante.
+Ele apertou a alça do colete de Rangel com a mão direita lacerada, sentindo as terminações nervosas queimarem com a fricção do tecido pesado contra a carne em carne viva. A dor crua era imediata, pulsando em ondas através do antebraço até a base do crânio. Ele soltou um grunhido gutural, fechando os olhos por uma fração de segundo para estabilizar o labirinto e afastar a vertigem da perda de sangue. A agonia física era real e afiada, mas mantinha seus músculos tracionando na direção da saída.
 
 — Gabo... — Valéria murmurou, caminhando ao seu lado, segurando a outra metade do peso de Rangel. Seus olhos cibernéticos brilhavam fracamente na penumbra. — Você tá pálido demais. Se continuar perdendo sangue assim...
 
@@ -32,7 +30,7 @@ Valéria ergueu o braço livre, apontando os sensores do *Phantom V3* e o LED az
 Valéria soltou Rangel delicadamente, deixando Gabo apoiar o inspetor contra a parede amarela. Ela se aproximou da porta pesada, inspecionou a roda de travamento e espetou o pendrive de Aria na fenda de diagnóstico ao lado do batente. O LED azul piscou rapidamente e apagou para um tom estável.
 — Merda... tá travada no ferro mesmo. Nem a Aria consegue forçar daqui, o atuador elétrico nem existe mais; é puramente mecânico do lado de lá. E a ferrugem fundiu o eixo central.
 
-Gabo apoiou as mãos nos joelhos, tentando estabilizar a respiração ofegante, sentindo a tontura voltar com força. O cheiro de fumaça retornou, rastejando pelas beiradas de sua consciência. Ele cerrou o punho machucado novamente, buscando a clareza da dor.
+Gabo apoiou as mãos nos joelhos, tentando estabilizar a respiração ofegante e combater a tontura que ameaçava derrubá-lo. Ele cerrou o punho machucado, cravando as unhas na palma para forçar a mente a se concentrar no objetivo imediato.
 — Tem... que ter... um jeito de abrir.
 
 — *A análise estrutural indica que a força necessária para romper o selo mecânico por este lado é superior à capacidade física combinada de vocês no estado atual,* — Aria informou pelo alto-falante, enquanto Valéria recolocava o pendrive no cyberdeck e iluminava o teto. — *Há uma via alternativa. Acima de nós, o sistema de ventilação auxiliar conecta este corredor diretamente à câmara de tratamento adjacente.*

@@ -9,28 +9,62 @@ Personagens Presentes: Gabo, Valéria
 
 O corredor ascendente fedia a ferrugem antiga e urina ressecada, mas à medida que subíamos, o ar se tornava mais ralo e agressivo. A umidade sufocante do duto de escoamento foi substituída pelo toque áspero do vento carregado de toxinas. O som contínuo dos meus passos era pontuado pelo chiado errático dos servos do meu braço protético, um lembrete constante da sucata que eu me tornara.
 
-Quando finalmente cruzamos a grade retorcida que marcava o fim do túnel, o céu do Distrito 4 se abriu sobre nós como um hematoma putrefato. As nuvens não eram apenas cinzas; carregavam um matiz ocre e doentio, iluminadas pelas raras descargas elétricas estáticas que cortavam o smog. A "Superfície Pálida", como o Fantasma havia chamado.
+Quando finalmente cruzamos a grade retorcida que marcava o fim do poço de exaustão, o céu do Distrito 4 se abriu sobre nós como um hematoma putrefato.
 
-Parei, apoiando a mão esquerda — a orgânica, a que ainda tremia de frio e exaustão — em um pilar de concreto esboroado. A chuva ácida não estava caindo, mas a garoa venenosa deixava uma camada escorregadia sobre tudo. O horizonte não revelava a imponência predatória das torres de vidro da Aeterna Corp; aqui, era uma planície de escombros industriais, carcaças de veículos enferrujados e esqueletos de prédios que nunca terminaram de ser construídos.
+As nuvens não eram apenas cinzas; carregavam um matiz ocre e doentio, iluminadas pelas raras descargas elétricas estáticas que cortavam o smog tóxico. A "Superfície Pálida", como o Fantasma havia chamado com razão. O vento não refrescava; ele fustigava a pele com uma poeira ácida que ardia nos olhos e deixava um travo de enxofre e cobre moído na boca.
 
-— Análise atmosférica: concentração de dióxido de enxofre 42% acima do limite respiratório seguro a longo prazo. Risco de corrosão exposta aos tecidos orgânicos: elevado. — A voz de Valéria cortou o vento, plana, desprovida de qualquer aflição. Seus olhos azuis, frios como o núcleo de um reator inativo, varreram a desolação sem um pingo de remorso. — Recomendo minimização de exposição corporal e busca imediata de abrigo tático.
+Parei sob o esqueleto de uma antiga passarela de pedestres, apoiando a mão esquerda — a de carne, a que ainda tremia de frio e exaustão — em uma viga de concreto esboroado. A chuva ácida havia dado uma trégua temporária, mas a névoa venenosa deixava uma camada viscosa sobre tudo. O horizonte não revelava a imponência predatória das torres de vidro da Aeterna Corp; aqui, estendia-se uma planície colossal de escombros industriais, carcaças de veículos enferrujados e esqueletos de fábricas têxteis que foram abandonadas décadas antes do grande dilúvio.
 
-— Dá um tempo, Val — murmurei, os dentes trincados contra o gosto amargo de ozônio na língua.
+Valéria subiu o último degrau atrás de mim, respirando fundo e tossindo com o impacto do ar cáustico. Ela puxou a gola de couro da jaqueta até o queixo e ajustou as lentes ópticas prateadas, que estalaram duas vezes mudando a distância focal.
 
-Súbito, o cheiro de ozônio distorceu-se. O ar ficou pesado, denso. A fumaça invisível e ardente de um charuto barato rasgou minhas narinas, descendo pela garganta como alcatrão quente. O espectro do meu pai, sempre à espreita nos momentos de vulnerabilidade. Senti os pulmões falharem. O pânico de não conseguir respirar agarrou meu peito.
+— Santo inferno... — ela murmurou, a voz saindo abafada pela gola. — Parece que alguém pegou a cidade inteira, jogou dentro de um triturador de sucata e cuspiu os restos nesse descampado.
 
-Antes que a escuridão pudesse tomar minha visão periférica, comandei o braço direito. O cilindro pneumático zumbiu violentamente. Forcei os dedos de ferro da prótese ao redor de um pedaço afiado de vergalhão exposto no pilar. A tração absurda sem calibração moeu a carne e os tendões no ponto de junção do meu coto. A dor irradiou como um choque elétrico pela espinha, branca e cegante.
+— Bem-vinda à periferia fabril do Distrito 4 — falei, sentindo a junta mecânica do ombro esfriar com rapidez alarmante no vento úmido. — A Aeterna nunca gastou um crédito limpando o ar desse setor. Quando o mar subiu na Zona Sul, eles só empurraram a população sem registro pra cá e cercaram o perímetro com arame farpado.
 
-Ofeguei, soltando o vergalhão retorcido. A fumaça fantasma se dissipou, varrida pela agonia nítida e incontestável do presente. Cuspi no chão de asfalto rachado, o escarro escurecido pela poeira. A dor era minha única bússola agora.
+Valéria caminhou até a beirada da laje quebrada, olhando para baixo.
 
-— Os níveis de estresse do seu sistema nervoso central indicam instabilidade crítica, Gabo — relatou Valéria, imperturbável. — A auto-inflição de dor degrada sua eficiência de combate em 18%. Esta tática é estatisticamente falha.
+À nossa frente, uma avenida larga de asfalto estraçalhado cortava o mar de ruínas em direção ao norte. Não havia tráfego, nem sirenes de patrulha, nem o zumbido familiar dos drones de entrega que costumavam cruzar o céu em enxames pontuais. Havia apenas carcaças calcinadas de caminhões de transporte e pilhas monumentais de contêineres marítimos empilhados como peças de dominó derrubadas por um gigante bêbado.
 
-— Estatística não espanta os fantasmas da minha cabeça — respondi rascante, forçando a perna protética a dar o próximo passo. — Se eu não sentir essa dor, eu apago. E se eu apagar, a gente morre. Aquele Fantasma lá embaixo sobreviveu porque não sente mais nada. Eu ainda sinto.
+No topo de um prédio de três andares com a fachada desabada, um painel holográfico antigo da Aeterna piscava em espasmos de estática avermelhada. O projetor quebrado exibia repetidamente meio segundo de um anúncio dos tempos dourados: o rosto sorridente de uma mulher com dentes brancos demais ao lado do slogan: *'Respire o Futuro. Aeterna CleanAir® ao alcance da sua família'*.
 
-A ciborgue virou o rosto na minha direção. Não havia compreensão em seus sensores, apenas um processamento frio de variáveis.
+Valéria soltou uma risada rascante e amarga, apontando para o painel com o dedo médio.
 
-— Entendido. Ajustando parâmetros de expectativa de vida de acordo com suas idiossincrasias neuropsicológicas.
+— Olha que ironia primorosa, Moretti. O ar puro da família feliz enquanto a gente tá cuspindo fuligem de carvão. Dá vontade de dar um tiro no projetor só pra poupar o resto do mundo dessa vergonha.
 
-O silêncio que se seguiu entre nós era mais pesado que o smog. O Distrito 4 estava morto, mas os restos da civilização que deixamos para trás na Aeterna não ofereciam descanso. Cada passo que dávamos na superfície era um testemunho da desumanização. Nós éramos os sobreviventes solitários, arrastando pedaços de carne e metal por um mundo que já havia desistido de si mesmo.
+— Guarda a pólvora, Val. Você vai precisar dela se a gente topar com mais saqueadores no cruzamento.
 
-E eu, agarrado à dor incandescente no meu braço mutilado, era a única coisa me mantendo ancorado no agora, um passo claudicante de cada vez, na direção do vazio cinzento à nossa frente.
+Ela virou o rosto para mim, os filamentos de LED azul na franja iluminando as olheiras escuras sob os olhos cibernéticos. O cansaço dela era palpável, mas a faísca de desdém e teimosia continuava queimando firme.
+
+— Eu não gasto munição com propaganda morta, detetive. Minha preocupação é esse seu joelho esquerdo. Você tá arrastando a bota há dois quilômetros. O mancal da órtese da perna tá chiando tão alto que qualquer cão quimérico a trezentos metros já sabe que tem comida mancando no asfalto.
+
+— A trava da perna pegou terra no esgoto — respondi, tentando disfarçar o tremor nos músculos da coxa. — Mas ela aguenta até o entroncamento.
+
+— Deixa eu ver isso — ela se abaixou sem pedir licença, os joelhos tocando o asfalto sujo.
+
+— Valéria, não precisa...
+
+— Cala a boca, Gabo. Se você quebrar o pino de articulação no meio dessa avenida aberta, eu vou ter que arrastar você e o seu braço de guindaste nos braços, e as minhas costas já tão moídas da descida na Necrópole.
+
+Ela tirou uma pequena chave sextavada de dentro do bolso lateral da calça e enfiou-a direto na junta da órtese da minha perna esquerda. Com dois movimentos rápidos e precisos de quem entendia de mecânica de rua desde a adolescência, ela desobstruiu a bucha de teflon e reapertou o parafuso tensor.
+
+O alívio na pressão do joelho foi instantâneo. A tensão que repuxava meu quadril afrouxou vários centímetros.
+
+— Melhor? — ela perguntou, erguendo a cabeça e me encarando de baixo com uma sobrancelha arqueada.
+
+— Muito melhor — admiti, engolindo o orgulho. — Onde você aprendeu a regular órtese médica de modelo policial antigo?
+
+— O meu tio usava uma igualzinha quando perdeu a perna nas prensas da Doca Seca — ela se levantou, limpando a ferrugem dos dedos na perna da calça. — Ele vivia reclamando que a polícia recebia equipamento de segunda linha que travava toda vez que chovia. Parece que vinte anos depois a corporação continuou economizando no mesmo fornecedor vagabundo.
+
+Olhei para o horizonte em direção ao norte. Entre a névoa amarelada do smog, destacavam-se os arcos de aço monumental da Estação Ferroviária do Setor 6. As vigas enferrujadas subiam como as costelas de uma baleia encalhada no meio da cinza.
+
+— É pra lá que a gente tem que ir — apontei com a mão de metal pesada. — O complexo hidropônico fica logo abaixo daquela estação terminal. Se o Silas Vance deixou servidores secundários ativos, eles tão alimentando a malha subterrânea a partir da subestação de lá.
+
+Valéria olhou para a silhueta das ruínas industriais, a respiração formando pequenas nuvens esbranquiçadas no ar frio.
+
+— O Silas morreu, mas a podridão dele continua crescendo feito erva daninha na sombra. A gente viu o que aquele fungo tava fazendo com os catadores lá embaixo, Gabo... Se o sistema hidropônico inteiro tiver sido infectado, aquilo não é mais uma estufa. É uma colmeia.
+
+— Então a gente vai com cuidado — ajeitei a correia de *Caronte* por baixo do casaco, sentindo o peso familiar da coronha de madeira contra a minha cintura. — Se o Jardim tiver tomado o setor, a gente queima as raízes e segue pro Arquivo.
+
+Valéria soltou um suspiro pesado, puxando o capuz da jaqueta para proteger os conectores temporais do vento cortante.
+
+— Queimar raiz com um braço de trator e uma doze de cano serrado... — ela deu aquele meio-sorriso cínico que sempre me lembrava por que ela era a única pessoa na cidade que eu ainda confiava para cobrir minhas costas. — Plano brilhante, Moretti. Quase tão suicida quanto invadir a torre de Krell. Anda logo antes que o tempo mude e comece a chover ácido de verdade.

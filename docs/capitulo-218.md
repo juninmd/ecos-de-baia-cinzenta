@@ -21,7 +21,7 @@ Eu tinha esquecido que existia diferença. Nos últimos meses, o silêncio de Ba
 
 — Significa que nós somos a primeira contaminação.
 
-Eu ri. Doeu no ombro, e a risada virou tosse, e a tosse trouxe gosto de moeda velha para a boca. A febre estava subindo desde a passarela; agora eu conseguia sentir meu próprio pulso batendo dentro do ferimento, como se houvesse um segundo coração alojado ali, menor e mais raivoso que o primeiro.
+Eu ri. Doeu no ombro, e a risada virou tosse, e a tosse trouxe gosto de moeda velha para a boca. A febre estava subindo desde a passarela; meus músculos continuavam sangrando sob as bandagens após a amputação de Vasco no Capítulo 175, e agora eu conseguia sentir meu próprio pulso batendo dentro do ferimento, como se houvesse um segundo coração alojado ali, menor e mais raivoso que o primeiro.
 
 Atravessei a soleira.
 
@@ -47,27 +47,17 @@ Não havia cheiro.
 
 Nada. Nem mofo, nem ferrugem, nem podridão doce da biomassa, nem o ozônio queimado que vinha grudado nas nossas roupas desde o Arquivo. Eu inspirei fundo, procurando qualquer coisa, e o ar entrou nos meus pulmões como água destilada. Frio. Neutro. Vazio.
 
-E foi aí que eu entendi o presente que aquele lugar estava me dando.
+E foi aí que eu entendi o verdadeiro impacto daquele santuário.
 
-Não havia charuto.
+Não havia poluição. Não havia o azedume da chuva ácida que corrói Baía Cinzenta desde o berço, nem a fuligem de chaminés corporativas ou o lodo asfixiante do esgoto. Pela primeira vez em anos, meus pulmões não precisavam brigar contra o ar que puxavam. Cada inspiração descia suave, fria e límpida, lavando a garganta castigada e acalmando o tremor febril dos meus músculos desgastados.
 
-Meses. Meses de fumaça fantasma rastejando pelo meu nariz toda vez que o escuro apertava, meses batendo a prótese em ferro e jogando o peso no ombro rasgado para comprar dez segundos de lucidez, e ali, naquele corredor branco e obsceno, meu cérebro não tinha absolutamente nada com que construir a mentira. Nenhuma partícula. Nenhum gancho.
+Encostei a testa na parede fria de epóxi e fiquei ali, respirando devagar, como um condenado que acabava de receber uma trégua inesperada no meio da tempestade.
 
-Pela primeira vez desde que desci, meu pai não estava fumando dentro da minha cabeça.
+— Gabo, — a voz de Valéria soou suave ao meu lado. Ela parou a um passo de mim, os olhos prateados analisando meu rosto com uma mistura de alívio e preocupação genuína. Ela tocou a lateral da minha têmpora com a ponta dos dedos enluvados. — Sua temperatura tá beirando os quarenta graus. Você tá com um princípio violento de sepse por causa desse ombro estraçalhado. Respira fundo esse oxigênio puro enquanto a gente tem tempo.
 
-Encostei a testa na parede fria e fiquei ali, respirando, como um homem que descobriu tarde demais o que era descanso.
+— Deixa eu aproveitar o silêncio, Val, — murmurei, abrindo os olhos e encarando o corredor imaculado.
 
-— Gabo. — Valéria. — Sua temperatura corporal é de trinta e nove vírgula quatro. Você está com sepse sistêmica. A euforia é sintoma.
-
-— Deixa eu ter isso.
-
-— Eu não estou impedindo. Estou registrando.
-
-Ela passou por mim. Os passos dela naquele piso não faziam barulho nenhum, e o azul fraco das lentes varria as paredes em arcos regulares, metódicos, sem um grau de desperdício. Eu observei a Valéria trabalhar e senti a coisa de sempre — aquele aperto sujo entre as costelas que eu não sabia nomear e não tinha coragem de tentar.
-
-Ela nem olhava para trás para conferir se eu vinha.
-
-A antiga Val teria olhado. A antiga Val teria olhado três vezes, teria feito uma piada sobre eu ser lento, teria xingado o corredor por ser branco demais. Essa versão apenas media.
+— Aproveita, mas não apaga, — ela respondeu com um meio-sorriso cansado, olhando para as próprias botas cobertas de lama e óleo. — Esse lugar parece o necrotério mais caro do planeta. Dá até dó de sujar esse chão branco com as nossas carcaças da Zona Baixa. Mas admito que respirar sem tossir fuligem é quase um milagre.
 
 Elias finalmente atravessou a porta. Deu três passos, parou e cobriu a boca com a mão.
 

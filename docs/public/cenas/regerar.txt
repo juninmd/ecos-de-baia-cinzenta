@@ -1,5 +1,7 @@
-# Cenas que violaram a fisionomia ou o vestuario canonico e precisam ser refeitas.
-# A imagem atual NUNCA e apagada nem sobrescrita: a nova nasce como cena_N_v2.jpg ao lado.
-docs/public/cenas/capitulo_4/cena_1.jpg
+# Cenas reprovadas na homologação. O build_scene_manifest.py recoloca cada uma na
+# fila. A imagem antiga fica no lugar até a nova existir (regra 6 do AGENTS.md).
+docs/public/cenas/capitulo_13/cena_5.jpg
 docs/public/cenas/capitulo_18/cena_3.jpg
+docs/public/cenas/capitulo_3/cena_10.jpg
 docs/public/cenas/capitulo_36/cena_3.jpg
+docs/public/cenas/capitulo_4/cena_1.jpg

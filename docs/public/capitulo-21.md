@@ -1,5 +1,6 @@
 ---
 image: /capitulo_21.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Elena Moretti
 ---
 # Capítulo 21: Lar, Doce Inferno
 

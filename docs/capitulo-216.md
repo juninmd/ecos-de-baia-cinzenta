@@ -7,32 +7,48 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 # Capítulo 216: A Pressão do Vazio
 
-A descida era uma sentença de morte executada em câmera lenta. Não havia luzes de emergência, não havia o zumbido familiar do cabeamento óptico ou o chiado de vapor escapando de válvulas defeituosas. Apenas o eco metálico e oco das nossas botas contra os degraus de uma escada que parecia descer até o centro morto do planeta.
+A descida pela garganta de rocha da cidade parecia uma queda livre em câmera lenta, onde cada segundo era medido pelo rangido violento dos cabos de sustentação. A gaiola de carga de ferro forjado tremia e chacoalhava contra os trilhos verticais chumbados nas paredes basálticas, soltando chuvas de faíscas pálidas que iluminavam o abismo por frações de segundo antes de serem engolidas pelo breu absoluto.
 
-O ar frio e estéril que subia do poço cheirava a poeira antiga e isolamento absoluto. Era o cheiro de um sarcófago esquecido. E, na escuridão opressiva, onde os sentidos não tinham em que se ancorar, minha mente fraturada tentou preencher o vazio com o que eu mais odiava.
+O vento frio que subia do poço não tinha cheiro de lodo ou esgoto; era um sopro mineral, seco e gélido, com o odor metálico de poeira antiga e chumbo estagnado. A pressão barométrica aumentava com rapidez brutal a cada dez metros de descida, fazendo meus tímpanos estalarem com pontadas dolorosas.
 
-O cheiro de charuto de Dante, azedo e sufocante, começou a rastejar pelas bordas da minha percepção. A fumaça invisível parecia se enrolar no meu pescoço, comprimindo minha traqueia, exigindo que eu cedesse ao pânico.
+Apoiei as costas contra as grades de proteção da gaiola, segurando o corrimão central com os dedos de ferro da prótese instalada por Vasco no Capítulo 175 após a amputação do braço. A vibração das sapatas de freio ricocheteava pela estrutura e subia pela minha coluna, arrancando espasmos da musculatura lacerada do ombro que continuava sangrando sob as ataduras sujas. Lembro de provações parecidas no Dilúvio, quando a água negra engoliu os distritos e tanta gente morreu afogada nos túneis; desde a queda da Torre Aeterna anos atrás, a cidade vinha quebrando nossos corpos em pedaços, deixando cicatrizes que nunca mais se apagariam. Mas a agonia física me mantinha lúcido, focado na descida e na proteção de quem ainda estava comigo.
 
-*Não.*
+Elias estava sentado no piso de ripas de aço, com os braços entrelaçados nas próprias pernas e a cabeça encostada nos joelhos. O garoto respirava em arfadas curtas e rápidas, lutando contra a náusea da descompressão. O medo do rapaz era legítimo: estávamos caindo no centro da terra, onde a luz do dia nunca havia tocado e onde o silêncio guardava os segredos dos fundadores.
 
-Eu apertei a mão direita — a boa — ao redor do degrau de aço gelado com tanta força que os tendões gritaram. Mas não era o suficiente. O fantasma da fumaça continuava espesso. Eu precisei de algo mais afiado, algo mais real que a alucinação. Pressionei deliberadamente o toco mutilado do meu braço direito contra a quina áspera da escada de aço. O atrito rasgou a carne mal cicatrizada, e uma onda de agonia branca e brilhante subiu pela minha espinha.
+— Minha cabeça... parece que vai rachar ao meio, — balbuciou ele, a voz quase abafada pelo ruído ensurdecedor do vento nos cabos. — Meus ouvidos tão zumbindo...
 
-O cheiro do charuto desapareceu. A dor era meu único oxigênio. Soltei um rosnado abafado, o gosto metálico de sangue inundando minha boca enquanto eu forçava minha perna quebrada a descer mais um degrau. Os servos hidráulicos na minha articulação arruinada choramingavam como cães moribundos.
+— Engole a própria saliva com força, Elias, — instruiu Valéria, em pé junto à alavanca do freio centrífugo. Os reflexos azuis da franja holográfica dançavam contra a névoa escura do fosso, iluminando a expressão concentrada e atenta da hacker. Ela ajustava a alavanca com toques rápidos e firmes para conter a velocidade terminal da gaiola. — A pressão tá subindo porque a gente acabou de cruzar a marca dos duzentos metros abaixo do nível do mar. O ar aqui embaixo tá mais denso que o caldo de poluição da Zona Baixa.
 
-— Ritmo cardíaco do civil Elias está oscilando perigosamente, — a voz de Valéria soou no escuro, logo acima de mim. Não havia a menor inflexão de preocupação, apenas o relato gélido de quem avalia desgaste de material. — A respiração dele é curta. Há setenta e dois por cento de chance de síncope por hiperventilação nos próximos dez minutos. Se ele desmaiar, a queda será fatal.
+— E a gaiola aguenta essa descida toda? — perguntei, observando o cabo de aço trançado de duas polegadas vibrar como uma corda de contrabaixo gigante sobre nossas cabeças.
 
-— Não olha para baixo, Elias, — eu rosnei entredentes, forçando o sangue a gotejar do meu braço para o vazio. A dor me mantinha lúcido, focado no degrau seguinte. — Só olha para as mãos. Uma depois da outra.
+— A gaiola aguenta, Moretti, — ela respondeu com um sorriso de canto que desafiava a escuridão. — Desde que esses trilhos centenários não decidam se soltar da rocha antes de chegarmos na plataforma de descompressão. Mas se você quiser descer a pé pela escada de emergência na parede, eu posso puxar a alavanca de emergência e te deixar aí no vácuo.
 
-— Não consigo ver as minhas mãos, Gabo, — a voz de Elias tremia tanto que parecia prestes a quebrar em pedaços. — Não tem nada aqui. É como... é como se estivéssemos sendo engolidos.
+— Deixa a alavanca quieta, Val, — resmunguei, soltando uma risada rouca que terminou em uma tosse seca provocada pela poeira do poço. — Já passei tempo demais pendurado em cabos esta semana pra querer repetir a dose.
 
-Ele não estava totalmente errado. As fundações geológicas de Aeterna pareciam vivas na sua quietude inerte. A engenharia brutalística das torres acima de nós era arrogante, mas este lugar... este fosso liso de aço e rocha vulcânica era um lembrete de que até os deuses de neon precisavam cavar buracos para esconder sua sujeira original.
+Valéria ergueu a lanterna tática do antebraço e mirou o feixe para fora da grade da gaiola, iluminando as paredes do túnel que passavam voando ao nosso lado.
 
-— Concentre-se no som da minha perna quebrando, então, — eu retruquei cinicamente, apoiando todo o meu peso e deixando um longo e agoniante estalo mecânico ecoar no fosso. — Enquanto você ouvir essa porcaria rangendo, significa que não atingimos o fundo.
+O cinza escuro e áspero do basalto vulcânico começou a desaparecer, substituído por um revestimento contínuo, liso e opaco de placas maciças rebitadas. Não era aço comum, nem cimento armado. Era chumbo. Placas de quatro polegadas de espessura, cobrindo cada centímetro da rocha como um casulo impenetrável.
 
-— A temperatura está caindo de forma não linear, — Valéria relatou, impassível. — Estamos cruzando a falha tectônica secundária. Os escaneamentos indicam um aumento substancial na espessura do revestimento de chumbo das paredes.
+— Olha isso, Moretti, — Valéria apontou o feixe, os olhos prateados estreitando-se em uma leitura atenta. — Revestimento integral de chumbo naval.
 
-Revestimento de chumbo. Eles não estavam apenas reforçando a estrutura contra tremores de terra; estavam selando algo lá embaixo. Algo que emitia radiação ou algo muito pior que a Praga de Ferro ou o Jardim.
+Elias ergueu a cabeça devagar, correndo a luz de sua lanterna pelas junções soldadas das chapas que desciam conosco.
 
-A fumaça alucinatória tentou voltar, rastejando furtiva. Bati o joelho ferido violentamente contra a parede do poço. Um estalo seco. Uma dor nauseante. Respirei o ar gélido a plenos pulmões.
+— Chumbo maciço... — sussurrou o garoto, o medo dando lugar à curiosidade técnica do engenheiro. — Isso não é reforço contra sismos ou infiltração de água. Chumbo nessa espessura só é usado pra blindagem radiológica pesada ou contenção de contaminação isotópica.
 
-Estávamos descendo para o verdadeiro inferno, e a dor era o único mapa que me restava.
+— O que a Aeterna tava escondendo aqui embaixo em mil novecentos e vinte e dois? — perguntei, sentindo um calafrio que nada tinha a ver com a temperatura do ar. — Usinas nucleares nem existiam na época da fundação dos diques.
+
+— Aeterna não inventou a roda, detetive, — Valéria disse, puxando o freio com um movimento suave para compensar a curvatura dos trilhos na falha tectônica secundária. O atrito das sapatas soltou um cheiro acre de amianto e metal aquecido. — As famílias fundadoras da cidade encontraram alguma coisa dormindo nessa falha geológica antes de erguerem o primeiro cais do porto. Algo que emitia calor e radiação anômala. Eles usaram esse calor pra alimentar as primeiras fábricas têxteis e os geradores a vapor da colônia, e depois lacraram o núcleo sob toneladas de chumbo e mentiras corporativas.
+
+— E batizaram de Arca Zero, — Elias completou, engolindo em seco.
+
+— Batizaram de salvação pros acionistas e sepultura pros operários, — Valéria corrigiu com o veneno costumeiro na voz. — Mas o sensor do meu cyberdeck tá pegando uma desaceleração no gradiente de descida. Estamos a menos de cinquenta metros do fundo do poço.
+
+As sapatas de freio rangeram com um uivo prolongado, desacelerando a gaiola de manutenção. O baque surdo de amortecedores hidráulicos comprimindo-se contra a base de concreto ressoou no piso de ferro, jogando nossos corpos ligeiramente para a frente.
+
+A gaiola estacou.
+
+O silêncio monumental do fundo do mundo desceu sobre nós como uma abóbada impenetrável. A quatrocentos metros abaixo de Baía Cinzenta, não havia o som da chuva ácida, nem o zumbido dos neons dos arranha-céus, nem o eco dos combates das gangues nos esgotos. Havia apenas a imensidão muda da pedra primordial e as placas de chumbo que guardavam o segredo mais antigo da cidade.
+
+Valéria destravou a grade pantográfica com um clique metálico límpido e deu um passo para fora da plataforma, erguendo a lanterna sobre um vasto corredor de concreto e portas blindadas que se abria diante de nós no coração do abismo.
+
+— Fim da linha, passageiros, — ela anunciou com um meio-sorriso desafiador, enquanto a luz azul da franja riscava o chumbo das paredes. — Bem-vindos ao útero de chumbo. Tirem as armas dos coldres e limpem os olhos, porque o que quer que esteja esperando a gente aqui embaixo não vai pedir identificação policial nem aceitar desculpas esfarrapadas. Estamos no marco zero da história.

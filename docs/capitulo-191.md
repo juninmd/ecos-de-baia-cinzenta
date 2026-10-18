@@ -7,40 +7,54 @@ Personagens Presentes: Gabo, Valéria
 
 # Capítulo 191: O Batismo da Ferrugem
 
-O primeiro golpe da minha prótese industrial contra a válvula de contenção soou como um sino fúnebre desafinado, reverberando na vastidão mórbida do relicário. O metal espesso cedeu sob a força bruta do braço não calibrado. O cano central se rompeu, esguichando um fluido refrigerante esverdeado e borbulhante sobre os cabos cobertos de carne.
+O primeiro golpe da minha prótese industrial contra o volante de arrefecimento soou como um sino fúnebre desafinado, reverberando na vastidão mórbida do relicário de servidores. O metal espesso da tubulação de alta pressão gemeu sob o torque violento do guindaste de docas.
 
-Instantaneamente, a sala reagiu.
+A junta de vedação partiu-se com um silvo ensurdecedor de gás comprimido. Um jato de amônia líquida esverdeada, gelada e corrosiva explodiu em leque sobre a base do pilar, espalhando um cheiro fétido de produto químico industrial que queimava as narinas e deixava um gosto amargo e ácido de bile no fundo da garganta.
 
-Os alarmes do Jardim não eram sirenes eletrônicas. Eram uivos. Um zumbido grave, sub-humano, irrompeu dos pulmões necrosados das centenas de corpos pendurados nos servidores. Os cadáveres se contorceram nos cabos ópticos, vibrando de forma descontrolada enquanto a rede neural biológica detectava o colapso do sistema de resfriamento. A temperatura do ambiente, já espessa e doentia, começou a subir exponencialmente.
+Na minha boca, o sabor metálico de sangue misturava-se à poeira cáustica. A dor no meu ombro amputado explodiu em fagulhas agudas, repuxando as cicatrizes que cobriam minha carne lacerada desde a batalha na Torre do Relógio.
 
-O calor trouxe de volta o espectro.
+Instantaneamente, a câmara reagiu como uma besta ferida.
 
-Com a evaporação ácida do ambiente, o perfume sufocante e adocicado do charuto do meu pai agarrou minha nuca. As paredes do relicário pareceram fechar, e a alucinação tornou o ar espesso e cinzento, arranhando minha garganta e cegando meus olhos. A náusea e o terror visceral ameaçaram travar minhas engrenagens.
+Os alarmes do Jardim não eram sirenes eletrônicas de fábrica. Eram uivos guturais, um estrondo dissonante que ecoava das colunas. Um coro rouco e desumano irrompeu dos pulmões necrosados dos corpos suspensos nos racks de dados. As dezenas de bio-baterias — pessoas que a cidade considerava mortas há anos — se contorceram nos cabos ópticos, espasmando enquanto o choque térmico começava a estilhaçar as placas-mãe.
 
-Eu precisava expurgar o trauma. A dor do eletrochoque anterior começava a se dissipar no meu ombro entorpecido, então procurei uma nova forma de âncora.
+Lembrei de cada homem e mulher que vi morrer nos esgotos desde o Dilúvio. Toda aquela máquina fora erguida sobre pilhas de sacrifício e perda irreparável. Mas ali não haveria misericórdia; haveria fogo.
 
-Andei em direção à base do próximo pilar de servidores massivos e posicionei minha perna esquerda, equipada com a órtese avariada. Usei o peso do pilar para prender minha panturrilha contra a estrutura. Então, puxei a perna, forçando o motor da órtese além do limite. As engrenagens estilhaçadas do joelho mastigaram minha própria pele, rasgando carne até o osso. Um grito rouco me escapou quando a dor excruciante varreu meu corpo. A claridade voltou imediatamente. A fumaça fantasma de Dante recuou sob a pura agonia.
+Sem a refrigeração forçada, a temperatura dos circuitos começou a subir a uma velocidade assustadora de vinte graus por segundo. O calor escaldante expulsou a umidade, transformando o salão num forno crematório.
 
-Com a visão desobstruída e ancorado pela dor física, levantei a prótese do braço novamente e deixei o peso de chumbo despencar.
+— Tá funcionando! — Valéria gritou por cima do ruído ensurdecedor do vapor químico e dos estalos de cabos se rompendo. Ela estava agachada atrás de um console de concreto, os dedos disparando comandos no cyberdeck para travar as comportas de exaustão e impedir que o sistema dispersasse o calor. — O circuito fechado travou! O calor não tem pra onde sair! Arrebenta a segunda linha, Gabo! A tubulação auxiliar do lado esquerdo!
 
-O metal atingiu a segunda válvula com uma fúria brutal. O revestimento de concreto do pilar se partiu, revelando os dutos de alimentação que bombeavam lodo vermelho. Destruí as tubulações, e o bio-fluido começou a espirrar no chão como um sangramento descontrolado. O calor tornou-se escaldante. Os sistemas biológicos do Jardim falhavam sem a refrigeração forçada.
+Avancei pelo gradeamento ensopado de lodo e sangue ressecado, o ar quente queimando a pele do meu rosto a cada passada pesada das órteses. O calor da tubulação era tão intenso que a borracha das minhas botas começava a soltar uma fumaça acre.
 
-— Temperatura do núcleo alcançando 95 graus Celsius, — a voz fria de Valéria soou através do caos e dos gemidos estáticos das bio-baterias. Ela não auxiliava na destruição, mas também não a impedia. Ela apenas avaliava. — Ruptura iminente dos casulos de armazenamento em 120 segundos. Estrutura letal. Evacuação é recomendada imediatamente.
+Ergui o braço mecânico de novo, a fiação do ombro estalando em faíscas azuis pela sobretensão da hidráulica. O motor de passo berrou numa vibração furiosa que fez meus dentes baterem.
 
-— Não sem ter certeza, — cuspi, o gosto de ferrugem e sangue preenchendo a boca. Eu me arrastei mancando pesadamente até o terceiro e maior dos pilares de sustentação, arrastando o peso do corpo exausto e mantendo o foco no rasgo sangrento do meu joelho.
+— Sai da frente! — berrei, desferindo o peso da liga de aço contra a segunda válvula de alta pressão.
 
-As chamas começavam a nascer espontaneamente nos cabos expostos, ignitadas pelo calor dos servidores rodando dados à beira do derretimento total sem o resfriamento.
+*CRASH.*
 
-Eu golpeei, golpeei e golpeei de novo. O braço industrial gemia, faíscas espirravam das juntas desprotegidas, e eu ignorei o aviso de falha do meu próprio corpo orgânico. A terceira fundação cedeu. O servidor principal soltou um rangido estrutural violento.
+A chapa de ferro fundido rachou ao meio com um estalo seco de osso quebrado. O duto de cobre dobrou como canudo e uma cascata fervente de refrigerante químico e óleo mineral despencou direto sobre os bancos de servidores centrais.
 
-As luzes vermelhas do Jardim vacilaram. Os corpos suspensos começaram a amolecer, desabando de seus cabos enquanto as conexões neurais torravam internamente pelo sobreaquecimento das placas-mãe acopladas.
+O choque térmico foi catastrófico. O silício superaquecido em contato com o líquido congelante explodiu em milhares de estilhaços de cerâmica e vidro. Um clarão alaranjado irrompeu quando os primeiros cabos de alta tensão entraram em curto-circuito, incendiando a biomassa ressecada dos fungos que cobriam os servidores.
 
-— A integridade da rede do organismo cibernético local foi comprometida em 91%. Colapso em cadeia atestado, — relatou Valéria, virando-se com precisão de metrônomo em direção ao duto de acesso por onde havíamos chegado. — A probabilidade de ignição do fosso do elevador por pressão térmica é alta. Evacuação mandatória, Gabo.
+As chamas se espalharam com a ferocidade de pólvora de canhão.
 
-Deixei a prótese abaixar. O ombro avariado pendia inerte. O cheiro de lodo fervendo, carne torrada e componentes eletrônicos carbonizados inundava o salão. Era nojento, tóxico, mas era autêntico. Não havia fumaça de charuto ali. Só o cheiro podre do fim de uma era corporativa e a destruição de uma praga.
+As raízes carmesins começaram a estalar e queimar em labaredas púrpuras, soltando um odor sulfuroso e asfixiante que preencheu o teto da catedral. Os corpos pendurados amoleceram nas amarras enquanto as conexões neurais torravam internamente pelo fogo elétrico, silenciando para sempre os lamentos que ecoavam nas colunas. Aquela gente estava finalmente livre da prisão de wetware; a carne morta agora descansava em cinzas.
 
-— Entendido.
+— A integridade da rede caiu pra 15%! — Valéria berrou, puxando um sinalizador térmico do cinto e arremessando-o contra o depósito de óleo na base do terceiro pilar. A fagulha encontrou o combustível vazando e uma parede de fogo de três metros ergueu-se, isolando o núcleo. — A estrutura tá cedendo, Moretti! Trinta segundos antes da câmara inteira colapsar sob a pressão térmica! Corre pro poço da escada!
 
-Manquei em direção ao acesso de saída, a perna mecânica estalando com a poça de sangue que eu deixava para trás. O inferno iluminava nossas costas, banhando o corredor em laranja e fogo. Eu estava destruído, moído pela dor brutal que eu mesmo infligira para continuar são, mas, pela primeira vez em muito tempo, minha mente estava quieta.
+— A válvula mestre da coluna dorsal ainda tá alimentando os cabos da Arca! — apontei para o pilar central, onde um tronco espesso de raízes ainda pulsava, tentando redirecionar a pouca energia restante para as profundezas. — Se eu não arrebentar esse nó, a rede transfere o backup pro fundo da terra!
 
-A fundação do Jardim no Setor 7 começava a desabar e queimar.
+— Gabo, não dá tempo! O teto vai desabar em cima da gente!
+
+— Dá tempo sim!
+
+Manquei através da cortina de fogo e detritos incandescentes, ignorando o calor abrasador que começava a chamuscar a barra do meu sobretudo. Ergui a mão mecânica uma última vez, mirei no nó central que ancorava a coluna de dados e desferi um golpe descendente com todo o peso do meu tronco ferido.
+
+A garra industrial cravou-se fundo no coração do pilar. O chumbo e o cobre se fundiram num estalo ensurdecedor que sacudiu o piso de concreto sob nossos pés. O último pulso de dados do Jardim piscou em verde, vacilou e apagou-se de vez numa chuva de cinzas e faíscas. A malha fora arrancada da tomada; nunca mais aquela abominação escravizaria mentes na escuridão do Setor 7.
+
+O colapso foi imediato. As vigas de ferro do teto começaram a vergar com estalos de trovão mecânico, e pedaços de alvenaria despencaram nas poças de amônia em chamas, levantando jatos de vapor escaldante.
+
+Valéria correu até mim através da fumaça, agarrou a manga do meu sobretudo com as duas mãos e puxou com toda a força que tinha no corpo magro.
+
+— Sai daí, seu teimoso desgraçado! A escotilha de evacuação tá aberta! Mexe essas pernas antes que a gente morra soterrado!
+
+Disparamos pelo corredor lateral em direção ao fosso de serviço, o inferno laranja rugindo às nossas costas e devorando a catedral de mentiras e cadáveres que Silas Vance tentara erguer no escuro.

@@ -7,52 +7,66 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 # Capítulo 198: A Marcha Fúnebre
 
-Os setecentos e quinze metros restantes até o poço de elevação eram uma sentença de morte executada em câmera lenta. O ar nas catacumbas do Setor 6 não circulava; ele apodrecia. A umidade carregava o cheiro de ozônio cru, esgoto antigo e cobre molhado, mas por trás de tudo isso, espreitava o fantasma que tentava me devorar: o aroma espesso e denso do charuto de Dante.
+Os setecentos metros restantes até o Poço de Elevação Três eram uma marcha lenta sob a abóbada fria das catacumbas do Setor 6. O eco do desabamento da ponte atrás de nós ainda reverberava pelas galerias de concreto, transformando o silêncio em uma contagem regressiva tensa.
 
-Sempre que a escuridão silenciava meus sentidos, a fumaça invisível invadia minhas narinas. A sensação de asfixia não era psicológica; meus pulmões realmente fechavam, minha traqueia apertava. O único antídoto era o choque térmico e elétrico da dor.
+O ar ali embaixo não circulava; ele estagnava num caldo espesso que cheirava a ferro oxidado, óleo de transformador queimado e carniça vegetal decomposta. Na minha boca, o gosto amargo de cinzas e poeira de alvenaria misturava-se ao suor frio que escorria pelo meu pescoço.
 
-Minha bota mecânica esmagava cascalho e poças de lodo industrial. A cada dois passos, eu cravava as unhas sujas da minha mão esquerda no ombro direito, apertando os músculos rasgados. O sangue quente escorria pelos meus dedos, e o pico de agonia brilhava no meu cérebro como um sinal luminoso em neon de letreiro vagabundo. A dor queimava a alucinação, substituindo o sufocamento pelo simples e honesto sofrimento físico.
+Minha órtese mecânica esquerda rangia a cada dois passos, as buchas gastas moendo areia contra as juntas de ferro. A atadura compressiva no meu ombro amputado estancara a sangria principal, mas a dor latente pulsava como um lembrete físico de que nossos corpos orgânicos estavam operando no limite absoluto de tolerância.
 
-Elias tremia ao meu lado, tropeçando nas sombras projetadas por sua lanterna enfraquecida. Ele não dizia uma palavra desde o incidente na ponte improvisada, mas sua respiração ofegante era um ruído patético que se misturava ao gotejar das tubulações.
+Elias caminhava colado ao meu lado esquerdo, os olhos saltando freneticamente pelas sombras projetadas pela lanterna fraca que ele mantinha apontada para o chão.
 
-— Frequência respiratória do sujeito civil indica hiperventilação, — disse Valéria. A luz pálida de seus sensores cortava o escuro como um farol fantasma, varrendo o ambiente com indiferença geométrica. — Se continuar nesse ritmo, a alcalose respiratória induzirá desmaio em menos de dez minutos. Arrastar seu corpo reduzirá nossa velocidade em sessenta e dois por cento. Recomendo descarte em caso de colapso.
+— Frequência respiratória muito rápida, Elias — a voz de Valéria soou num sussurro cortante logo atrás de nós. A luz azul dos filamentos de LED na franja dela desenhava seu perfil concentrado, o cyberdeck seguro no peito e a pistola destravada. — Se você continuar puxando o ar desse jeito descompassado, vai ter uma crise de hiperventilação e desmaiar na lama. E se você desmaiar, eu e o Gabo não temos maca pra carregar seu peso. Respira fundo pelo nariz e solta pela boca devagar.
 
-— Tenta respirar pelo nariz, Elias, — eu murmurei, minha voz um ruído áspero. — Senão a lata velha vai te deixar pra trás, e eu não vou ter força pra carregar sua carcaça.
+Elias soltou um soluço assustado, mas obedeceu, forçando a mandíbula a fechar e controlando o ritmo dos pulmões por trás da máscara de carvão.
 
-Elias soluçou, mas forçou a boca a fechar, puxando o ar de forma trêmula pelas narinas.
+Entramos numa galeria mais larga, onde os pilares de concreto davam sustentação aos antigos trilhos de carga subterrâneos da área comercial. Mas a arquitetura humana fora completamente engolida por algo doentio.
 
-Nós entrávamos em um túnel mais largo, onde as fundações do que um dia fora o sistema de trânsito rápido repousavam como ossos de leviatãs. Mas algo estava errado. As paredes ali não eram apenas de concreto oxidado; elas estavam tomadas pela mesma doença que destruíra o Nível 7.
+Gavinhas espessas do Jardim, da cor de carne esfolada e entrelaçadas com cabos de alta voltagem, cobriam as colunas como cipós de pesadelo. No teto, a quatro metros de altura, casulos fibrosos do tamanho de caixões pendiam de estruturas de aço, gotejando um fluido amniótico amarelado e viscoso que sibilava ao tocar o piso inundado.
 
-Gavinhas do *Jardim*, pálidas e com veias azuis cintilantes, cobriam as colunas de sustentação. Diferente das raízes frenéticas da ponte, estas pareciam dormentes, engordadas. No teto, casulos grotescos pendiam, gotejando um fluido amniótico amarelado.
+— Apaga essa lanterna, Elias — ordenei num sussurro ríspido, parando imediatamente e erguendo o punho mecânico. — Agora.
 
-— Diminua a emissão de luz, — eu ordenei a Elias, apertando meu ombro novamente até ver estrelas, só para garantir que o cheiro de charuto não voltasse justo ali. — Agora.
+O velho apagou o interruptor num clique seco. Mergulhamos numa penumbra fantasmagórica, iluminada apenas pela fosforescência azulada que corria pelas veias do Jardim e pelo brilho tênue dos implantes ópticos de Valéria.
 
-Ele apagou a lanterna na mesma hora. Mergulhamos numa penumbra iluminada apenas pela bioluminescência doentia da biomassa e pelo feixe azul-gélido de Valéria.
+Ela se aproximou de uma das colunas, apontando a sonda de leitura com extremo cuidado para um casulo rompido que pendia a meio metro do chão.
 
-— Análise termográfica, — Valéria informou com sua voz sintetizada, livre de qualquer tensão. — Os casulos emitem assinaturas de calor compatíveis com metabolismo basal. Trinta e seis graus Celsius. Estão incubando material orgânico reciclável.
+— O que tem dentro dessa desgraça, garota? — Elias sussurrou, a voz sumindo de terror.
 
-— O que tem dentro deles? — Elias sussurrou, aterrorizado.
+Valéria examinou a cavidade aberta, os olhos prateados arregalando-se numa mistura de fascínio técnico e repulsa visceral.
 
-— Restos. A biomassa reaproveita o tecido necrosado, — eu respondi, cuspindo no chão. O cinismo amargo era um mecanismo de defesa tão válido quanto a dor física. — Não são mais pessoas. São só peças de reposição pra essa praga do caralho.
+— Não são catadores reciclados, Gabo... — ela murmurou, a respiração presa na garganta. — O Jardim tá construindo unidades de combate autônomas. É um laboratório de incubação biomecânica. Olha pra carcaça dentro dessa placenta: uma estrutura de seis membros de titânio reciclado fundida a placas de músculo vegetal denso, com garras de cerâmica industrial no lugar das mãos.
 
-Ao nos movermos furtivamente pelo corredor, percebi que um dos casulos estava rachado. O fluido pingava sobre o metal enferrujado dos trilhos abaixo. E ali, deitado no lodo, havia algo que parecia um braço humano, mas fundido a placas de silício e fios óticos. A praga não estava apenas devorando a cidade; ela a estava reescrevendo.
+Aproximei-me da carcaça inerte. O que estava ali dentro não se parecia com nada que a natureza ou a polícia já tivessem catalogado. Era uma quimera aracnídea forjada na escuridão, desenhada exclusivamente para caçar nos túneis estreitos da cidade subterrânea.
 
-A náusea subiu pela minha garganta, e, como um relógio quebrado, a alucinação de fumaça veio junto. O charuto de Dante, encorpado, doce e sufocante. Senti minha visão periférica escurecer. A falta de ar dobrou meus joelhos.
+— Silas Vance não queria apenas cultivar a cidade — comentei, o cano de *Caronte* repousando pronto na dobra do meu braço esquerdo. — Ele queria criar um exército de limpeza pra patrulhar o subsolo depois que as torres caíssem.
 
-Caí pesadamente sobre a minha perna mecânica, os pistões choramingando com o impacto bruto no concreto. A joelheira metálica cedeu, e a agonia disparou pela minha perna esquerda, atingindo meu quadril mutilado. A dor foi avassaladora, ofuscante. Mas ela quebrou a redoma da alucinação.
+— E a incubadora ainda tá ativa — Valéria apontou o sensor térmico para o teto, onde outros doze casulos fechados pulsavam com uma temperatura estável de trinta e sete graus. — Eles tão em dormência metabólica, reagindo a vibração acústica e calor. Se a gente passar em silêncio absoluto, a gente cruza os últimos duzentos metros sem acordar a ninhada.
 
-Arfei, puxando grandes goles de ar carregado de ozônio, tossindo violentamente enquanto Elias dava um passo para trás, assustado com minha queda súbita.
+— Passos curtos pelas canaletas de drenagem — comandei, apontando para a vala lateral de concreto seco onde a água não acumulava. — Sem arrastar bota e sem falar nada.
 
-— Gabo? — ele sussurrou.
+Começamos a avançar pela beirada da galeria. A cada metro, o peso da prótese puxava meu ombro com uma gravidade impiedosa. Meus músculos tremiam com a tensão acumulada, a mente focada exclusivamente em manter o equilíbrio nos trilhos enferrujados.
 
-— Pressão arterial do indivíduo alfa caindo, — relatou Valéria, seus olhos estáticos fixados em mim. — Falência sistêmica por estresse crônico se aproximando. Se a integridade estrutural do seu fêmur falhar agora, a amputação não será suficiente.
+Cinquenta metros. Cem metros. As portas maciças do Poço de Elevação Três já podiam ser vistas no final da reta, recortadas contra a escuridão.
 
-— Eu... tô bem, — rosnei, fincando o punho de ferro da prótese direita no chão para me alavancar para cima. As juntas do meu braço estalaram, ecoando ruidosamente na catacumba.
+Foi então que o ferro velho traiu nosso avanço.
 
-Os casulos acima de nós pulsaram com o som. As veias azuis brilharam um pouco mais intensas, respondendo ao estímulo.
+Sob a poça de lodo que cobria o trilho, uma barra de vergalhão solta estava enterrada. Quando apoiei o calcanhar da bota mecânica sobre o cascalho, a barra escorregou, batendo com um clangor metálico estridente e agudo contra a viga mestre da parede.
 
-— Movimento detectado, — a voz do Modo de Segurança de Valéria soou como uma sentença de morte. — Atividade neural nos casulos aumentou oitocentos por cento. O ruído mecânico agiu como gatilho.
+*CLANG!*
 
-Uma fenda molhada se abriu no casulo mais próximo. O som de carne rasgando e fluido derramando encheu o túnel. Algo começou a se arrastar para fora. Uma abominação de carne pálida, entrelaçada com fios de cobre e raízes azuis, sem olhos, guiada apenas pela vibração.
+O som ecoou pela galeria cavernosa como uma martelada num gongo de aço.
 
-— Corram, — eu disse, empurrando Elias para frente, sentindo meu próprio sangue escorrer quente pelo queixo. — Corram pra porra do poço!
+O silêncio que se seguiu durou exatamente um segundo.
+
+Lá em cima, os doze casulos suspensos espasmaram em uníssono. As veias azuis do Jardim dispararam pulsos elétricos de alta frequência, e um zumbido subsônico furioso sacudiu a alvenaria do teto.
+
+— Alerta térmico! — Valéria berrou, puxando a pistola do coldre e cravando os pés na laje com postura de tiro. — A atividade neural nos casulos saltou pra cem por cento! O impacto acústico despertou o ninho!
+
+O casulo mais próximo rasgou-se de cima a baixo com um som úmido e nauseante de lona e carne se rompendo. Uma enxurrada de fluido amarelado despencou no chão, seguida pelo baque pesado de uma criatura de dois metros que caiu de quatro patas sobre o cascalho.
+
+A abominação ergueu a cabeça cega, desprovida de olhos, com mandíbulas de aço serrilhado estalando num silvo assassino enquanto garras de cerâmica batiam no concreto.
+
+— Corre, Elias! — empurrei o velho técnico com força em direção ao portão do elevador, sacando *Caronte* com um giro limpo da mão esquerda. — Vai pro poço do elevador e não olha pra trás!
+
+Valéria já estava ao meu lado, os olhos brilhando com fogo frio enquanto descarregava os primeiros três tiros cirúrgicos no tórax blindado da besta.
+
+— Dá cobertura, Moretti! Essa coisa é rápida pra caramba!

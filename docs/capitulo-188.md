@@ -7,36 +7,68 @@ Personagens Presentes: Gabo, Valéria
 
 # Capítulo 188: O Abismo de Aço
 
-O fosso do elevador era um vácuo de breu e óleo rançoso, cortado apenas pela descida inexorável de nossos corpos suspensos pelos cabos de aço. Cada metro aprofundado no Setor 7 afogava a temperatura, mas o frio não era o suficiente para aplacar o suor que escorria sob a minha jaqueta sintética. Meus joelhos gritavam a cada balanço. As órteses mecânicas das minhas pernas, exaustas desde a clínica de Vasco e moídas pelas ruínas do Distrito 4, rangiam como dentes quebrando em uma mordida metálica, suportando um peso para o qual não foram mais calibradas.
+O fosso do elevador era um vácuo de breu e óleo mineral rançoso, cortado apenas pelo silvo agudo da fita de rapel correndo pelo regulador de atrito enquanto descíamos suspensos pelos cabos de aço. A cada metro que nos aprofundávamos nas entranhas do Setor 7, a temperatura despencava, mas o frio não era suficiente para aplacar o suor ácido que escorria pelo meu pescoço, ardendo nas cicatrizes abertas.
 
-E então, o cheiro retornou.
+Meus joelhos castigados protestavam a cada solavanco no vazio. As órteses mecânicas das pernas, amassadas desde a clínica de Vasco e moídas pelas ruínas da superfície, rangiam contra os cabos guias como dentes se partindo sob pressão excessiva.
 
-Não era o mofo industrial do fosso. Era o perfume quente, adocicado e denso de fumo e cinzas — o fumo exato dos charutos do meu pai, Dante. O ar imaginário tornou-se asfalto líquido na minha garganta. O pânico de asfixia, primitivo e visceral, arranhou minha mente. O "Jardim" não estava apenas hackeando servidores com carne podre; o miasma da praga reverberava nas fraturas do meu córtex, usando minha síndrome de estresse pós-traumático como uma arma paralisante.
+— Firme a bota no cabo central, Moretti! — a voz de Valéria ecoou rente à minha orelha, áspera e cortada pelo vento que subia do poço. Ela estava amarrada ao meu tronco pela cinta de contenção, as pernas envolvendo as guias com a agilidade de quem conhecia a verticalidade dos arranha-céus da Baía. — O atrito do mosquetão tá fervendo a graxa mineral! Se você deixar o corpo girar, a gente perde o alinhamento da viga mestra e bate com a cara na parede de concreto!
 
-Minha respiração falhou. O cabo de aço começou a escorregar pela minha mão de carne.
+— A minha mão de carne tá escorregando na graxa — rosnei entre dentes, os dedos esquerdos dormentes de frio e cansaço, lutando para manter a empunhadura na corda de segurança.
 
-— Tensão no cabo primário aumentada em 14% devido ao deslize da sua empunhadura, — a voz de Valéria ecoou perfeitamente uniforme no escuro. Ela descia um cabo adjacente, seus olhos artificiais emitindo dois pontos mortos de luz azulada que não carregavam nenhuma empatia. Ela estava submersa em seu Modo de Segurança, um constructo lógico estéril processando o abismo como um fluxo de equações. — Um declínio adicional de 3% resultará na falha mecânica da sua sustentação. A queda de quarenta e cinco metros resultará em trauma craniano fatal.
+— Então usa a garra de estivador que tá parafusada no seu ombro, gênio! — ela gritou, os olhos ópticos prateados piscando feixes curtos de medição no breu abaixo. — Faltam vinte metros pra laje de serviço e a nossa velocidade de descida tá dobrando! O regulador da cinta tá começando a escorregar na fita!
 
-— Cala... a boca, — rosnei, engasgando com o ar que minha mente insistia estar envenenado por fumaça.
+Olhei para baixo. No fundo do abismo, uma névoa fosforescente azulada e vermelha começava a delinear as estruturas de aço do piso técnico. Mas a aceleração da gravidade estava nos puxando rápido demais; a fita de poliéster do arnês cheirava a tecido queimado pelo atrito violento com o mosquetão de titânio.
 
-Eu precisava de uma âncora. Precisava estripar o fantasma.
+Se o freio de Valéria derretesse a dez metros do chão, o impacto partiria nossas pernas e espinhas contra a laje de ferro.
 
-Com um urro gutural, liberei minha prótese direita — o monstro industrial grosseiro que Vasco havia pregado ao meu cotoco sem anestesia. Em vez de agarrar o cabo, lancei o braço pesado em um arco brutal contra a parede de concreto do fosso.
+— Segura firme na minha jaqueta, Val! — ordenei, ajustando o ângulo do braço direito no ar.
 
-O impacto soou como um tiro. Faíscas espirraram na escuridão quando o aço cru e descalibrado raspou na parede vertical. O tranco reverberou pelo meu ombro, rasgando o tecido cicatricial recém-formado em torno das fixações neurais. Uma dor fulgurante, branca e absoluta, explodiu por toda a metade direita do meu corpo.
+— O que você vai fazer?!
 
-O cheiro do charuto desapareceu no mesmo instante, afogado na adrenalina pura e no gosto acobreado de sangue que mordi no próprio lábio. Puxei o ar com força, sentindo apenas o óleo e a ferrugem abençoados do mundo real.
+— Vou travar a descida na ignorância!
 
-Apoiei o cotovelo de metal contra a parede para ajudar na frenagem da descida, rasgando o concreto e usando o atrito agonizante como punição para manter a sanidade. O som estridente do metal contra a pedra preenchia o fosso, uma cacofonia horrível de dor e sobrevivência.
+Comandei o atuador hidráulico da prótese pesada. Os dedos grossos de liga de aço se abriram ao redor do cabo de tração primário de cinco polegadas de espessura. Travei os motores na pressão máxima de pinçamento.
 
-— O atrito intencional com o substrato estrutural reduzirá a vida útil da sua prótese em aproximadamente dez horas de operação contínua, — calculou Valéria, descendo com precisão de máquina, alheia ao horror que eu combatia. — Estatisticamente, é uma manobra redundante e prejudicial.
+*SKRRRRREEEEEEEECH!*
 
-— Estatisticamente, Valéria, — eu cuspi as palavras junto com uma gota de sangue, minhas pernas mecânicas batendo forte quando a parede do fosso cedeu para a abertura do nível inferior, — eu não ligo. A gente chegou.
+O estampido de aço contra aço ecoou pelo poço como o guincho estridente de uma serra circular cortando blindagem de navio. Uma chuva torrencial de faíscas alaranjadas e incandescentes explodiu no breu, iluminando as paredes circulares do fosso com flashes violentos de luz.
 
-Abaixo de nós, o breu abriu espaço para um brilho doentio. O duto de manutenção do Arquivo Executivo não estava morto. As paredes estavam forradas com o "Jardim" — não os filamentos sutis de antes, mas cabos ópticos e veias de carne podre trançados, pulsando em um vermelho letárgico, se contorcendo pelo teto e entrando nas fendas da porta blindada que bloqueava o nosso avanço. O silêncio ali não era vazio. Era a respiração de mil servidores enxertados com a biologia de quem já deveria estar morto.
+O calor da fricção subiu pela carcaça da prótese, fazendo o óleo das juntas ferver e fumegar. O tranco desacelerou nossa queda com uma violência brutal, jogando todo o peso dos nossos dois corpos direto nos pregos neurais da minha escápula. A dor foi avassaladora, uma lança de fogo elétrico que estalou nas minhas vértebras e me arrancou um urro rouco do peito, mas a pinça de carregador das docas segurou.
 
-— Destino alcançado, — Valéria relatou, tocando o piso metálico sem emitir som. — Análise da porta: selo de segurança nível Sete.
+O cabo gemeu sob a mordida do metal, e nossa descida estancou a meio metro acima do chão da plataforma de manutenção.
 
-Desci o restante do cabo e pisei no chão grosso de lodo biológico. Minhas pernas gemeram sob o impacto. Estiquei o braço industrial avariado, o cotoco latejando na sua sinfonia purificadora de dor. Olhei para a porta selada, entremeada pela biomassa, e cerrei os punhos.
+— Solta a trava! Agora! — Valéria gritou, cortando a fita do arnês com um golpe rápido de faca tática.
 
-— Então abra a porra da porta.
+Desativei os pistões. Caímos de pé no piso de ferro com um baque surdo, a lama e a graxa amortecendo o impacto. Minha perna de metal cedeu e bati com os joelhos no chão, apoiando a mão esquerda ensanguentada no concreto frio para não desabar de vez.
+
+Valéria rolou de lado na grade, levantando-se de um salto com a agilidade de um gato de rua, a pistola já apontada para as sombras ao redor. Ela estava ofegante, o rosto manchado de fuligem e os filamentos de LED azul na franja piscando descontrolados pelo choque elétrico residual das faíscas.
+
+Ela me olhou no chão, bufou alto e me deu um soco de leve no ombro são.
+
+— Você é completamente pirado, Moretti! Mas a porcaria da pinça segurou o cabo feito uma luva. Minhas mãos teriam virado carne moída no regulador se você não tivesse mordido aquele aço.
+
+— De nada, garota — consegui dizer, cuspindo uma mistura de saliva e pó de ferro no chão. — Agora me ajuda a levantar antes que esse braço esfrie e trave a junta de vez.
+
+Valéria guardou a arma no coldre e me puxou pelo colarinho do sobretudo com as duas mãos, firmando meu equilíbrio até que as travas das órteses das minhas pernas dessem o clique mecânico de travamento.
+
+Foi então que olhamos ao redor.
+
+A plataforma de desembarque do Setor 7 era uma monstruosidade de arquitetura brutalista. Vigas de sustentação em arco de três metros de largura sustentavam o teto aveludado de escuridão. Mas o aço e o concreto não estavam sozinhos.
+
+O Jardim havia transformado o andar inteiro num ninho de pesadelo biomecânico.
+
+Grossas trepadeiras orgânicas de cor carmim, entrelaçadas com fitas de dados e cabos coaxiais de alta voltagem, pulsavam no chão como artérias expostas de um animal agonizante. Elas convergiam em direção a uma enorme porta blindada de quatro folhas no final do corredor, onde a inscrição desbotada na chapa de chumbo ainda anunciava: *'Arquivo Central de Contingência - Nível Sete'*.
+
+As raízes penetravam os vãos da blindagem, e das frestas do metal vazava uma luz vermelha fosca acompanhada pelo som baixo, constante e aterrorizante de centenas de ventiladores de servidores girando em uníssono nas profundezas.
+
+Valéria ergueu a mão enluvada, os sensores do cyberdeck apitando numa frequência contínua de aviso de contaminação.
+
+— Tem máquina viva operando lá dentro, Gabo — ela sussurrou, a respiração formando pequenas nuvens no ar gélido da câmara. — A rede do Jardim tá alimentando os servidores com os nós que extraíram da estufa. O sinal tá sincronizado com a base do Arquivo Executivo.
+
+Aproximei-me da porta selada, sentindo a vibração do maquinário ressoar através do metal da minha prótese e vibrar nos meus dentes.
+
+— Eles estão acordando o monstro adormecido da Aeterna — murmurei, a mão esquerda alcançando a empunhadura áspera de *Caronte*. — Mas a gente desceu até aqui pra puxar o fio da tomada.
+
+Valéria abriu a caixa de ferramentas do deck com um estalo firme, os olhos prateados faiscando de determinação feroz na penumbra vermelha.
+
+— Então fica na cobertura, detetive. Vou precisar de três minutos pra quebrar a trava mestra desse portão, e eu tenho certeza absoluta de que o Jardim não vai gostar nem um pouco de ver a gente encostar nessa fiação.

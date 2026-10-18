@@ -1,5 +1,6 @@
 ---
 image: /capitulo_54.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Padre Miguel, Clara Moretti
 ---
 # Capítulo 54: Fé e Ferrugem
 

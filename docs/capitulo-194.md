@@ -7,46 +7,72 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 # Capítulo 194: O Preço da Manutenção
 
-Elias nos guiou através do labirinto de transformadores inativos. O lugar fedia a ozônio velho e poeira metálica, um aroma industrial morto que eu engolia com gratidão. Qualquer coisa era melhor do que o cheiro fantasma de charuto. A ameaça da asfixia mental estava acorrentada no fundo da minha mente, mantida lá pela dor constante e rascante do meu joelho a cada passo.
+Elias nos conduziu veloz através do labirinto de transformadores inativos da Subestação B. O piso de concreto vibrava com um tremor rítmico, os reflexos das explosões distantes no data-center subindo pelas paredes como relâmpagos mecânicos abafados.
 
-— A torre principal de exaustão perdeu a pressurização quando vocês implodiram o andar inferior, — Elias explicou, sua voz esganiçada ecoando pelos conduítes ocos. Ele andava rápido, olhando para trás a cada dez segundos como se o Jardim ainda pudesse brotar do chão. — Os poços principais estão cheios de gases tóxicos. Fumaça, metano, ácido sulfúrico evaporado. Subir por lá é suicídio.
+O ar cheirava a poeira metálica aquecida, enxofre e graxa velha, deixando aquele gosto amargo e azedo de fuligem no fundo da garganta. A cada passada pesada, as órteses das minhas pernas rangiam alto, mas a dor no meu ombro amputado me mantinha alerta, focado no mapa que Elias desdobrava mentalmente à nossa frente.
 
-A palavra "fumaça" me atingiu como um soco no estômago. Meu peito contraiu, a garganta fechou em um reflexo condicionado. Parei abruptamente, agarrando o cabo grosso de um conduíte descascado. Eu não hesitei. Esfreguei o antebraço da minha prótese industrial avariada contra os fios de cobre vivos que ainda retinham carga residual do sistema de backup.
+Lembrei de cada túnel de fuga que cruzei com o comissariado nos anos anteriores; quando a infraestrutura de Baía Cinzenta resolvia cobrar a conta da negligência, ela nunca deixava troco.
 
-O choque foi violento. O arco elétrico subiu pelo metal vagabundo da prótese e mordeu minha carne diretamente na conexão do ombro descalibrado. Gritei de dor através dos dentes cerrados. O pulso de eletricidade limpou a névoa perfumada do charuto de Dante que ameaçava voltar, trocando o pavor do sufocamento imaginário pelo gosto inegável de sangue e ferro na boca.
+— A torre principal de exaustão perdeu a pressurização quando vocês romperam os dutos de amônia lá embaixo — Elias explicava num sussurro esganiçado, correndo com as costas curvadas e olhando para trás a cada dez passos. — O fogo do núcleo tá sugando o oxigênio do fosso mestre. Se a gente tentar subir pelos poços normais de elevador, o ar superaquecido cozinha nossos pulmões antes do terceiro lance de escadas.
 
-Voltei a respirar, arfando pesadamente, mas no controle.
+— A gente não vai subir pelo fosso mestre, Elias — Valéria cortou com firmeza, conferindo a telemetria do cyberdeck preso ao peito. Os filamentos de LED azul na franja curta dela iluminavam a tubulação superior com um brilho elétrico. — O scanner térmico tá mostrando que a temperatura da laje abaixo dos nossos pés já bateu oitenta graus. As vigas de sustentação desse setor foram sacrificadas pelo calor. Quanto tempo a gente tem até a subestação colapsar?
 
-Elias deu um pulo para trás, horrorizado. — O que diabos você está fazendo, cara?! Você podia ter torrado o seu coração!
+Elias engoliu seco, os dedos encardidos apertando a alça da máscara de respiração no peito.
 
-— Manutenção preventiva, — rosnei, me endireitando com esforço. Não havia como explicar a fobia para um rato de esgoto assustado. A dor era meu soro da verdade.
+— Quinze minutos. Vinte no máximo, se os pilares de chumbo segurarem o tranco.
 
-Valéria observou a cena com seus olhos estéreis. Ela não ofereceu suporte moral ou questionou minha ação extrema. Para o seu algoritmo, a autopunição era um meio válido se mantinha a unidade funcional.
+— Então para de enrolar e mostra logo a galeria de escape — comentei, ajustando o correame de *Caronte* por baixo do sobretudo rasgado.
 
-— As rotas principais são inviáveis. Apresente a alternativa, Elias. Tempo estimado até que as chamas do Nível C comprometam os suportes de sustentação da Subestação B: vinte e dois minutos, — Valéria informou com um tom perfeitamente constante.
+Elias virou à esquerda num corredor de paredes espessas de chumbo, parando diante de uma escada helicoidal de ferro fundido que subia em direção ao teto abobadado.
 
-Elias empalideceu. — Vinte e dois minutos?! Vocês trouxeram o inferno para a minha porta!
+— Aqui. Os dutos de refrigeração forçada — ele apontou com a ponta da ferramenta para uma escotilha circular de três metros de diâmetro chumbada na parede superior. — Esse conduíte foi construído pela Aeterna durante a expansão industrial de trinta anos atrás. Ele contorna o fosso de exaustão principal e deságua direto nas catacumbas sob o Distrito Comercial do Setor 6. Uma galeria completamente isolada da rede de esgoto da baixa.
 
-— A porta já estava apodrecendo, — retruquei, a impaciência rosnando na minha voz. — A rota, Elias. Agora.
+— E qual é o problema dele? — Valéria perguntou, estreitando os olhos ópticos prateados ao mirar o maquinário.
 
-Ele engoliu seco e apontou para um duto de ventilação secundário encrustado no teto.
+— O problema é aquela maldita roda de alívio — Elias subiu os primeiros degraus da escada com agilidade de rato.
 
-— Os dutos de refrigeração forçada. Eles contornam o fosso de exaustão principal e deságuam direto nas catacumbas do Distrito Comercial do Setor 6. Mas as escotilhas de manutenção lá em cima... elas estão seladas por travas de compressão hidráulica. Sem energia, você tem que virar as válvulas na mão. E pesam meia tonelada cada.
+Subimos logo atrás dele. A temperatura subia a cada degrau, e o cheiro sufocante de metal aquecido tornava o ar cada vez mais áspero para respirar.
 
-Olhei para a minha prótese. O choque tinha fritado alguns relés secundários. Estava pesada, lenta e emitia estalos preocupantes. Mas ainda tinha força hidráulica brutal, se eu estivesse disposto a rasgar mais um pouco do meu próprio ombro para usá-la.
+No patamar superior, a escotilha circular estava lacrada por uma válvula mecânica monumental. Uma roda de ferro fundido de um metro de diâmetro, presa a um fuso roscado da grossura da minha coxa, completamente incrustada por trinta anos de ferrugem, cal e salitre seco.
 
-— Me leve até a válvula, — ordenei.
+Valéria encostou a mão enluvada no volante, tentando forçar a rotação no sentido horário. O metal nem sequer vibrou.
 
-O caminho até a sala de controle da refrigeração era uma subida por escadas helicoidais enferrujadas. Cada degrau era um tributo pago em sangue pelo meu joelho esquerdo e suor frio. Quando finalmente alcançamos a câmara, a temperatura já estava subindo rapidamente. O chão sob nossos pés vibrava com a fúria do fogo morrendo no andar de baixo.
+— Tá congelada — ela praguejou entre dentes, os LEDs da franja piscando em vermelho de advertência. — O salitre soldou as roscas do fuso. Se a gente tentar puxar na força bruta seca, o volante se parte e a trava interna sela o duto pra sempre.
 
-Elias apontou para uma roda de aço colossal incrustada na parede reforçada. — Ali. Aquela abre o duto.
+— Deixa eu tentar com o torque da prótese — dei um passo à frente, erguendo o braço industrial pesado.
 
-Me aproximei da válvula. Estava congelada pela ferrugem e pelo tempo. Valéria escaneou o mecanismo.
+— Espera, Moretti! — Valéria bateu com a palma da mão no meu peito de ferro, me empurrando para trás com autoridade técnica. — Se você engatar os vinte quilos desse pistão no volante travado sem soltar a ferrugem primeiro, você estoura a bucha do seu ombro de novo e a gente fica preso aqui com um detetive sem braço funcional. Elias, me passa essa sua chave sônica agora!
 
-— Torque necessário: 1800 Newton-metros. Com seu estado estrutural atual, a tentativa resultará em ruptura muscular do ombro direito em 94% de probabilidade, — ela calculou, sem paixão.
+O velho técnico piscou atônito, mas entregou a ferramenta adaptada nas mãos dela.
 
-— Não me importo com a matemática, Valéria, — murmurei, cravando os dedos hidráulicos da prótese ao redor do metal grosso da roda.
+Valéria engatou uma presilha jacaré na base da bobina da ferramenta e ligou o outro terminal diretamente na saída de energia auxiliar do cyberdeck.
 
-Apertei a mandíbula. O Jardim estava queimando lá embaixo, as bio-baterias derretendo, o ar começando a cheirar mal. Eu podia sentir o fantasma de Dante sussurrando através das engrenagens enferrujadas. Para calá-lo de vez, forcei o braço com tudo o que me restava.
+— O que você vai fazer com a minha chave, garota? — Elias chiou, aflito.
 
-O motor não calibrado berrou, e a carne do meu ombro estalou, a dor me banhando em um foco sangrento absoluto.
+— Vou salvar a sua pele, vovô — ela ajustou a frequência de oscilação do circuito. — Ressonância acústica de alta frequência. Se eu aplicar a vibração sônica direto no cubo da rosca enquanto você joga solvente penetrante, a onda quebra os cristais de óxido sem empenar o aço. Elias, borrifa o óleo nas ranhuras! Agora!
+
+Elias sacou uma lata amassada de desengripante industrial do cinto e esguichou um jato espesso sobre o fuso oxidado.
+
+Valéria encostou a ponta da chave sônica no centro da porca mestre e acionou o gatilho.
+
+Um zumbido agudo, quase imperceptível ao ouvido humano mas doloroso nos dentes, ecoou pela câmara. O metal do volante começou a vibrar violentamente, e uma nuvem fina de ferrugem avermelhada se esfarelou das ranhuras da rosca, borbulhando junto com o óleo penetrante.
+
+— A rosca soltou! — Valéria gritou, desligando a ferramenta antes que a bobina derretesse de calor. — Agora é com você, Gabo! Vira no sentido anti-horário com tudo que essa sucata de cais tiver!
+
+Aproximei-me da plataforma, posicionei minhas botas nas travessas de ferro e envolvi a roda com a mão mecânica de estivador. Travei os motores hidráulicos no limite máximo de compressão. Meus dentes bateram, os nós neurais da minha clavícula estalaram em agonia quando forcei o giro com o peso do meu tronco inteiro como alavanca.
+
+*CREEEEAAAAK.*
+
+O metal gemeu num grito estridente de atrito vencido. O salitre cedeu, a graxa ferveu nas ranhuras e o volante completou o primeiro quarto de volta.
+
+Mais um tranco. As engrenagens internas estalaram, liberando o contrapeso de duas toneladas com um estrondo mecânico que fez o ar tremer. A comporta circular pesada deslizou para dentro do batente, revelando a escuridão ampla e fria do duto de ventilação do Setor 6.
+
+Uma corrente de ar fresco, sem fumaça e sem calor, soprou contra nossos rostos suados.
+
+Valéria soltou uma gargalhada limpa e vitoriosa, guardando a chave sônica no cinto de Elias com um tapinha no ombro do velho.
+
+— Quem disse que força bruta e código não se misturam? — ela olhou para mim, os olhos prateados brilhando de adrenalina pura. — Belo trabalho de arrombamento, Moretti.
+
+— Belo trabalho de ressonância, Cruz — retruquei, recuperando o fôlego enquanto flexionava os dedos mecânicos para aliviar a tensão hidráulica. — Agora vamos entrar antes que essa subestação desmorone de vez.
+
+Elias foi o primeiro a saltar para dentro do duto, seguido por Valéria e por mim. Selamos a escotilha às nossas costas bem no instante em que o piso inferior da subestação colapsava num rugido de fogo e concreto triturado, deixando para trás a sepultura do Jardim e avançando firmes rumo ao coração do Setor 6.

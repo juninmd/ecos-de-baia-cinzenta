@@ -7,42 +7,56 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 # Capítulo 215: Os Alicerces do Inferno
 
-O silêncio do Hub Principal era pesado como chumbo líquido. As palavras de Valéria ficaram suspensas no ar filtrado, frias e incontestáveis. *A porta dos fundos para o porão do inferno.*
+O silêncio do Hub Principal pesava como chumbo derretido sobre os nossos ombros. As palavras de Valéria continuavam suspensas no ar filtrado, frias e incontestáveis, ecoando entre as colunas de servidores adormecidos: *a porta dos fundos para o porão do inferno*.
 
-Fechei a jaqueta manchada sobre o meu braço mutilado. A carne ainda latejava, um ritmo quente e brutal que empurrava o gosto residual de alcatrão e fumaça velha de volta para os abismos da minha mente fraturada. Enquanto a dor me rasgasse, o fantasma do charuto de Dante não me asfixiaria. Esse era o acordo repulsivo que fiz com meu próprio corpo.
+Ajustei a jaqueta de sarja manchada sobre o peito, sentindo o peso da prótese mecânica de sucata que Vasco parafusara no meu coto no Capítulo 175 após a amputação. O músculo esfolado latejava em um ritmo surdo e constante sob as ataduras, onde ferimentos recentes continuavam sangrando em silêncio. As cicatrizes do Dilúvio queimavam como se o tempo não tivesse passado desde que a Torre Aeterna desabou e metade da cidade morreu afogada sob a lama ácida. Perdi amigos, perdi meu braço e quase perdi o juízo, mas a dor física era um preço que eu já me acostumara a pagar; ela mantinha meus sentidos alertas, arrancando qualquer vestígio de fraqueza antes que o abismo pudesse nos engolir.
 
-— Você quer dizer que a Aeterna construiu algo abaixo da cidade original? — Elias engoliu em seco, recuando um passo da torre de servidores iluminada de verde. O pavor escorria dele como suor frio. — Abaixo do Setor 7? Aquilo já é o esgoto do mundo...
+Caminhamos em direção ao quadrante nordeste do salão com passos medidos. A cada passada, minha órtese quebrou a rigidez do silêncio com um ruído áspero de ferro desgastado. Ali, afastada das baias de computação, uma imensa escotilha circular de aço naval repousava chumbada diretamente na laje de concreto usinado.
 
-— A infraestrutura embrionária, — Valéria desconectou o cabo neural da nuca com um movimento seco e clínico. Os olhos azuis voltaram a focar em mim, destituídos de qualquer resquício de empatia, travados no absoluto Modo de Segurança. — As fundações geológicas que sustentam a arcologia. Registros indicam falhas tectônicas artificiais e câmaras de contenção térmica da era do Projeto Gênesis. Não é esgoto, civil. É a raiz. E o elevador de manutenção primário está a quarenta metros a nordeste desta câmara.
+A blindagem tinha anéis de vedação de quatrocentos milímetros e travas de pressão semelhantes às de um submarino de alta profundidade. O metal em volta estava impecável: sem ferrugem, sem lodo do Jardim, sem marcas de garras. Era um ponto cego no mapa da cidade, intocado pelo colapso biológico que devorara os distritos superiores.
 
-Eu me apoiei na parede metálica, usando a escopeta como bengala. Minha perna quebrada protestou num chiado mecânico de servos prestes a morrer.
+— O poço de manutenção geológica primária, — Valéria anunciou, ajoelhando-se diante da consola de acionamento embutida no batente. Seus dedos de hacker voaram pelas chaves analógicas, enquanto os fios azuis da franja emitiam pulsos curtos e compassados. — Este poço foi perfurado na rocha basáltica original antes da drenagem do pântano em mil novecentos e vinte e dois. Não é infraestrutura da Aeterna; é a fundação da própria Baía Cinzenta.
 
-— Então é para lá que o Jardim não conseguiu ir. Ou foi impedido de ir, — rosnei, cuspindo sangue ralo no chão impecável de Aeterna. — Se há um fundo verdadeiro nessa latrina de concreto, é lá que o Taxidermista ou qualquer coisa que esteja controlando a cidade se esconde.
+Elias ajoelhou-se ao lado dela, iluminando as placas de identificação rebitadas no aço com sua lanterna de inspeção. O rapaz correu os dedos sobre as letras gravadas em baixo-relevo.
 
-— Probabilidade de sobrevivência na descida: onze vírgula seis por cento, — Valéria relatou. Ela não soava pessimista. Apenas lia o tabuleiro de xadrez da nossa agonia. — Suas falências múltiplas de órgãos e integridade mecânica reduzem a métrica a cada hora.
+— 'Companhia Construtora e Hidráulica de Baía Cinzenta — Eixo de Sondagem Zero', — leu ele, a voz carregada de assombro. — Eles cavaram direto na falha tectônica pra ancorar os pilares mestres da cidade. Isso aqui desce quatrocentos metros em queda livre até o leito rochoso.
 
-— Eu não preciso de estatísticas, Valéria. Preciso da porra do elevador.
+— E como a gente desce quatrocentos metros sem arrebentar no fundo? — perguntei, apoiando a *Caronte* na soleira e checando os cartuchos de grosso calibre no cinto.
 
-Elias balançou a cabeça, o rosto pálido refletindo o brilho estéril dos consoles.
-— Eu não vou. Não vou descer mais. O que quer que esteja lá embaixo, não foi feito para seres humanos. Aquele Jardim, a Praga... eles já são o inferno. Se essa coisa que vocês dizem construiu algo ainda mais fundo... nós só vamos encontrar o diabo.
+— Tem uma gaiola de carga industrial suspensa por cabos de aço trançado de duas polegadas, — Valéria explicou, puxando uma alavanca de liberação manual com um estalo seco. — O motor de tração é alimentado por um contrapeso de chumbo e um gerador piezoelétrico subterrâneo. A boa notícia é que o sistema não depende da rede elétrica corrompida da cidade.
 
-— Você pode ficar aqui e rezar para os servidores, Elias, — eu disse, a voz áspera como lixa. Ajeitei a bandoleira da arma no ombro bom. A dor nas juntas inflamadas me fez ranger os dentes. Ótimo. Mais âncoras contra a fumaça ilusória. — Mas este salão estéril não é um santuário. É uma tumba que os vermes esqueceram de cavar. Assim que a rede principal cruzar os dados, algo virá até aqui.
+— E a má notícia? — indaguei, erguendo uma sobrancelha.
 
-Valéria já marchava em direção ao quadrante nordeste do salão, seus passos abafados pelo piso gradeado.
-— A escotilha de descompressão está ativa. A energia residual do núcleo geotérmico mantém os sistemas vitais de contenção em estado vegetativo.
+— A má notícia, detetive, é que os freios pneumáticos de emergência não veem graxa nova desde a época em que seu pai ainda usava calças curtas, — ela disparou com aquele meio-sorriso mordaz que sempre desafiava a gravidade. — Se o cabo romper durante a descida, nós vamos aprender a voar em velocidade terminal até a Arca Zero.
 
-Fui mancando atrás dela. Elias hesitou por dez longos segundos. O silêncio artificial do salão pareceu esmagá-lo mais do que a ferrugem lá fora. Com um praguejo sufocado, ele correu para nos alcançar.
+Elias levantou-se, tirando um jogo de chaves e o testador sônico da mochila. Ele examinou o tambor do guincho através de uma grade de inspeção.
 
-A passagem não era uma porta, mas uma escotilha circular embutida no piso de aço reforçado, com trancas de pressão dignas de um submarino nuclear. O metal em volta não tinha um único arranhão, limpo de qualquer bioma podre ou praga oxidante.
+— Os cabos de sustentação tão lubrificados com parafina pesada, — o garoto analisou, apontando a luz para o mecanismo. — Não tem oxidação na alma de aço. Mas o regulador centrífugo tá com a mola de recuo travada por poeira estática. Se eu destravar a mola com um pulso de vibração sônica, a descida vai ser controlada em velocidade constante de três metros por segundo.
 
-Valéria não hesitou. Inseriu a mão em um painel lateral retrátil e induziu uma sequência de pulso elétrico. O som de sucção a vácuo ecoou violentamente. As pesadas travas giraram, liberando jatos de ar gelado que cheiravam a ozônio puro e poeira secular.
+Valéria olhou para mim, os olhos prateados faiscando de aprovação genuína.
 
-Quando a escotilha se abriu como um olho de aço, o abismo nos encarou de volta. Não havia iluminação de emergência. Apenas a escuridão absoluta e um fosso escuro descendo pela garganta do mundo.
+— Viu só, Moretti? Eu disse que trazer um engenheiro civil assustado era o melhor investimento tático da semana.
 
-O ar frio subiu das profundezas. Era limpo. Seco. Um túmulo perfeitamente conservado.
+— O garoto conquistou o lugar dele na equipe faz tempo, Val, — afirmei, dando um tapinha encorajador no ombro de Elias. — Mostra pra essa máquina velha como os engenheiros da nova geração trabalham.
 
-Por um instante, o cheiro de charuto fantasma ameaçou roçar meus pulmões novamente, engatilhado pela escuridão claustrofóbica. Fechei o punho da minha mão mutilada com força brutal, esmagando a carne aberta até que a agonia física me puxasse pelos cabelos de volta à realidade crua.
+Elias engoliu em seco, assentiu com determinação e aproximou a ponta de cerâmica da ferramenta sônica do tambor do regulador. Ele disparou uma sequência curta de pulsos acústicos modulados.
 
-— Senhoras primeiro, — resmunguei.
+O zumbido agudo ressoou pelo metal. A poeira cinzenta que selava o mecanismo desfez-se em uma nuvem fina, e a mola mestre de aço temperado destravou-se com um clique limpo e sonoro, engatando as sapatas de freio nos trilhos verticais do poço.
 
-Valéria iniciou a descida pela plataforma estreita e escada de aço. Nós estávamos deixando as sombras corporativas de Aeterna para entrar no coração vivo do vazio geológico.
+Na mesma hora, Valéria girou a válvula mestre da escotilha.
+
+O ar comprimido escapou com um rugido ensurdecedor de descompressão, soltando uma lufada de vento gelado, límpido e seco que subiu das profundezas da terra. O cheiro era puramente mineral: rocha vulcânica antiga, basalto fraturado e a umidade silenciosa de cavernas seladas há milhões de anos. Não havia o fedor de lixo da superfície, nem o cheiro de óleo queimado das fábricas da Aeterna. Era o hálito da terra nua, anterior a qualquer pecado construído pelo homem.
+
+A tampa de aço ergueu-se sobre pistões pneumáticos, revelando a boca do poço vertical e a gaiola de manutenção de ferro forjado, cujas grades enferrujadas estavam prontas para nos engolir.
+
+— Plataforma posicionada e pronta para embarque, — Valéria anunciou, passando a alça do cyberdeck pelo peito e sacando sua pistola curta com movimentos metódicos. — Última chamada pro expresso do subsolo profundo. Quem ficar pra trás perde o apocalipse.
+
+— Ninguém fica pra trás, — declarei, segurando a grade da gaiola com a mão de sucata e entrando no elevador. O piso de ripas de aço rangeu sob o meu peso, mas as correntes de sustentação retesaram com firmeza.
+
+Elias entrou logo em seguida, segurando-se ao corrimão central com os nós dos dedos brancos de tensão. Valéria fechou a formação, puxando a grade pantográfica da gaiola e travando o trinco interno com um estalo definitivo.
+
+— Segurem onde puderem, rapazes, — ela avisou, com os olhos fixos na alavanca de descida. — A gravidade tá prestes a cobrar a conta.
+
+Ela empurrou a alavanca para a frente.
+
+Com um tranco que fez nossos estômagos subirem até a garganta, a gaiola despencou no abismo, mergulhando na escuridão eterna do poço geológico enquanto as luzes do Hub Principal sumiam rapidamente acima de nossas cabeças.

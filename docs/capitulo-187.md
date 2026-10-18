@@ -7,32 +7,58 @@ Personagens Presentes: Gabo, Valéria
 
 # Capítulo 187: O Arquivo Morto
 
-A fumaça não recuava. O cheiro adocicado de charuto e cinzas — o exato perfume dos charutos de Dante — impregnava o corredor cilíndrico que descia em espiral para o abismo do Setor 7. O ar não continha nenhuma partícula real de fuligem, mas o meu cérebro avariado, acossado pelo terror biológico e tecnológico do "Jardim", manifestava o trauma paterno com a densidade de um nevoeiro opressivo.
+O corredor cilíndrico de serviço descia em espiral íngreme em direção às fundações geológicas do Setor 7. O ar ali era frio e estagnado, com um cheiro cortante de cimento úmido, ferrugem antiga e fluido de freio vazando de dutos rompidos. Não havia vento, apenas a acústica abafada dos nossos próprios passos ecoando nos anéis de concreto armado.
 
-Esfreguei o cotoco da clavícula na parede de concreto descascado, mas a dor aguda da fricção já não era o suficiente para dissipar a asfixia mental. Parei, sentindo os motores das minhas órteses nas pernas rangerem e ameaçarem superaquecer com a postura estática e mal distribuída. Levantei meu braço direito, a prótese industrial grosseira e sem calibração, e girei a trava do atuador do pulso até a posição de manutenção, expondo os contatos elétricos. Com um grunhido gutural, apoiei os conectores desencapados diretamente contra a carne nua do meu ombro danificado.
+Minhas órteses nas pernas rangiam a cada degrau, as buchas gastas protestando contra a inclinação. O peso assimétrico da prótese industrial forçava minha coluna a trabalhar torta, uma fisgada contínua que subia da lombar até a base do crânio.
 
-Um arco de eletricidade de duzentos e vinte volts estalou, queimando a pele e os terminais nervosos. O choque elétrico espasmou minha musculatura, travou meus dentes e injetou uma dor lancinante e purificadora pela minha espinha. A alucinação do charuto se dissipou, estilhaçada como um espelho sob uma marretada. Respirei fundo. O ar agora tinha apenas o gosto amargo de ozônio, mofo e ferrugem.
+Valéria descia rente ao corrimão de ferro, o facho da lanterna de sua arma apontado para os cabos de alta tensão que desciam pelas canaletas da parede. Os filamentos de LED azul na franja dela pulsavam num ritmo constante, banhando seu rosto pálido com um brilho elétrico.
 
-— Ritmo cardíaco estabilizado. Pressão sistólica em recuperação, — a voz gélida de Valéria cortou o silêncio lúgubre do fosso. Ela descia os degraus logo atrás de mim. Sua postura era rígida, utilitária e perfeitamente equilibrada, ditada pelas diretrizes estritas do seu Modo de Segurança. Seus olhos artificiais emitiam um brilho azulado opaco, processando métricas e probabilidades em uma interface que descartara a emoção como lixo residual.
+— As raízes do Jardim tão usando esse poço como condutor primário — ela apontou o feixe de luz para a base da curva. — Olha como as gavinhas se enroscam nos cabos mestres. A praga tá descendo pro mesmo lugar que a gente: os níveis subterrâneos onde ficavam os bancos de memória profunda da corporação.
 
-— É a porra do ambiente, — resmunguei, minha voz rouca enquanto avançava, o ruído metálico e pesado das minhas pernas acompanhando cada passo incerto. — Esse lugar fedia a Dante desde o Arquivo, e a praga do "Jardim" usando os corpos empalados multiplicou isso.
+— O Silas sabia que se a usina apagasse, os dados recuariam pros servidores de contingência — comentei, limpando o suor frio do queixo com as costas da mão de carne. — Nós destruímos o Sentinel e apagamos o wetware no Subnível 2, mas as carcaças de silício continuam enterradas lá embaixo. Se essa biomassa religar os terminais analógicos da Aeterna, a cidade inteira vira uma colmeia orgânica alimentando banco de dados morto.
 
-Valéria não ofereceu qualquer forma de conforto. Em sua programação atual, confortar seria um gasto inútil de processamento.
+— E adivinha quem é que vai ter que puxar o plugue dessa vez? — Valéria soltou um suspiro pesado, o sarcasmo de sempre mascarando a tensão evidente em sua postura. — O problema é que o acesso normal tá bloqueado por desabamento. O único caminho que sobrou é a caixa de passagem do elevador de carga expresso.
 
-— A leitura residual de dados extraída do bio-nó anterior no Complexo Hidropônico confirma a diretriz. A infestação do 'Jardim' utilizou os processos cerebrais de dezesseis indivíduos falecidos em configuração *daisy-chain* para quebrar a criptografia física dos portões inferiores. O vetor indica a intenção absoluta de religar e parasitar o Arquivo Executivo, — relatou ela, a cadência monótona amplificando o aspecto tétrico do subterrâneo escuro.
+Chegamos ao fim da escadaria. Diante de nós, as portas monumentais de aço de duas folhas do elevador de carga barravam o túnel. O painel eletrônico original estava estraçalhado, os fios pendurados e as bordas de metal esmagadas por raízes espessas que agiam como grampos vivos mantendo as folhas unidas.
 
-— Eles querem conectar a floresta necrótica de cadáveres de Silas no maldito supercomputador de Dante, — eu traduzi o cenário com amargura visceral. — Nós destruímos o Sentinel e apagamos o wetware no Subnível 2, mas não implodimos a estrutura física. Se essa praga religar os servidores, ela vai utilizar a velha infraestrutura da Aeterna para se espalhar por cada cabo ótico enterrado nessa cidade podre. Baía Cinzenta inteira vai virar uma estufa de carne alimentando servidores de silício.
+Valéria examinou a fresta entre as chapas com o bico da lanterna.
 
-Continuamos a descida até o fosso terminar diante das imensas portas do elevador de carga expresso que levava às profundezas. O painel original estava morto, porém o maquinário estava envolto pelas mesmas raízes grossas e avermelhadas que pulsavam como artérias doentes.
+— A trava magnética tá sem energia, mas a biomassa selou as corrediças. Se a gente tentar cortar isso com maçarico, o metano residual no fosso explode na nossa cara.
 
-Eu não possuía sutileza em minhas mãos de ferro e cicatrizes. Avancei para o vão entre as portas metálicas. As órteses gemeram, transferindo a pressão para os meus joelhos castigados. Posicionei a mão industrial bruta e fechei o punho. Com a força bruta hidráulica forçada além da segurança mecânica, puxei a pesada porta à esquerda. O aço rasgou contra o suporte torto, e a biologia invasiva esguichou fluidos viscosos quando a trava de contenção cedeu.
+— Não precisa de maçarico — dei um passo à frente, ajustando a postura das pernas no concreto escorregadio. — O motor desse braço aguenta duas toneladas de tração no ponto morto.
 
-Através da abertura escancarada, não se via o chão da cabine do elevador, apenas as dezenas de cabos de aço grossos mergulhando verticalmente no escuro absoluto.
+— Gabo, espera — Valéria segurou meu sobretudo com firmeza. — O pino da sua escápula já tá frouxo por causa do tranco no radiador do buggy. Se você forçar a abertura dessa comporta no torque máximo, o recuo vai estourar os parafusos que o Vasco colocou no seu ombro.
 
-— O poço de transporte. Quarenta e cinco metros de queda livre até o duto de manutenção do Arquivo, — Valéria calculou, inclinando-se ligeiramente, seu corpo projetando um silenciamento funcional. — Posso calcular os pontos de estresse nos cabos para a descida, mas sua taxa de falha com as atuais condições de órtese mecânica e prótese não calibrada ultrapassa oitenta por cento.
+— Se a gente não abrir essa porta agora, Val, as raízes fecham a escada atrás da gente e a gente morre sufocado no corredor. Afasta dois metros.
 
-Senti novamente uma tênue aragem, e, com ela, o fantasma rastejante do cheiro do tabaco tentou invadir minha respiração. Sem hesitar, e com muito ódio nos olhos, cravei as garras irregulares de metal na beirada de aço do elevador quebrado. A pressão excruciante subiu pelo meu braço e estalou os ossos do ombro, expulsando o cheiro imediatamente.
+Ela praguejou em voz baixa, recuando com a arma em punho, mas mantendo os olhos prateados cravados na junta mecânica do meu braço com atenção cirúrgica.
 
-— Não precisa calcular nada, Valéria. — Eu agarrei o cabo de aço espesso e revestido de óleo. — A falha não é uma opção matemática. Nós descemos. Nós queimamos essa praga antes que ela plugue o inferno na rede. E nós saímos por cima dos restos deles.
+Enfiei os dedos grossos de liga de aço na fresta entre as duas portas de blindagem. O metal frio mordeu contra as engrenagens da prótese. Travei os motores da junta e comandei a abertura hidráulica com toda a pressão que os acumuladores de Vasco conseguiam entregar.
 
-Sem esperar por uma objeção lógica que nunca viria, deixei o peso do meu corpo cair no abismo, os servos do meu braço rangendo sob a violência da ação, enquanto engolíamos as sombras.
+O ferro gemeu. As raízes secas que lacravam o batente arrebentaram com estalos múltiplos de cabos de aço se partindo. Um jato de ar gelado e com cheiro de óleo mineral velho escapou pelo vão enquanto a folha esquerda deslizava forçada pelo trilho oxidado.
+
+A dor na minha clavícula foi aguda, uma chicotada que fez minha visão escurecer por meio segundo, mas a comporta abriu-se um metro e meio, travando no fim do curso com um baque surdo de metal contra rocha.
+
+Aproximei-me da abertura, respirando fundo para recuperar o fôlego.
+
+Lá dentro não havia cabine de elevador. Havia apenas o vazio vertical de um fosso colossal de quarenta e cinco metros de profundidade, cortado por cabos de tração de aço trançado que desciam em linha reta até sumirem na escuridão impenetrável do fundo.
+
+Valéria debruçou-se sobre o abismo com a lanterna, os olhos ópticos estalando ao calcular a distância.
+
+— Quarenta e cinco metros de queda livre até a laje de serviço da subestação — ela disse, puxando uma cinta de rapel com mosquetão reforçado de dentro da mochila. — E a cabine do elevador despencou até o fundo quando a energia caiu. Se a gente cair, não sobra nem as peças do seu braço pra contar a história.
+
+— Dá pra descer nos cabos de tração?
+
+— Você tá me perguntando se um homem com uma perna manca e vinte quilos de ferro no ombro consegue descer quarenta e cinco metros de cabo de aço engordurado com graxa mineral velha no meio do breu? — ela me encarou, com uma expressão que oscilava entre a incredulidade e a ironia feroz. — É claro que não dá, Moretti. É uma ideia estúpida, suicida e típica de você.
+
+— Tem alternativa?
+
+— Tem — ela passou a cinta de contenção sob as minhas axilas com movimentos rápidos e profissionais, travando o mosquetão de titânio na guia de segurança de um dos cabos mais grossos. — A gente desce em dupla na mesma linha de freio. Eu controlo a descida com o regulador do meu arnês e você usa essa mão mecânica gigante como sapata de atrito pra gente não pegar velocidade demais. E se você soltar esse cabo antes de tocarmos o chão, Gabo, eu juro que passo o resto da eternidade te assombrando.
+
+Olhei para a escuridão do fosso, sentindo o arrepio frio do abismo subir pelas pernas.
+
+— Não vou soltar, Val.
+
+— É bom mesmo — ela ajustou as alças do cyberdeck no peito, segurou firme na fita da cinta e me puxou para a borda do poço. — No três. Um... dois... desce!
+
+Saltamos no vazio. Os cabos de aço cantaram sob o peso das nossas vidas enquanto o poço do Setor 7 nos engolia rumo ao coração da máquina.

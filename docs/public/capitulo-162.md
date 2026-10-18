@@ -38,7 +38,7 @@ Gabo desencostou da parede, o calombo endurecido de espuma química raspando em 
 Valéria ergueu a cabeça rapidamente, os olhos escuros arregalados em um choque genuíno.
 — Gabo, não. Você está literalmente colado com espuma e pura teimosia. Se você engatar naquele duto enferrujado e tiver uma hemorragia interna, você morre afogado no próprio sangue e eu não tenho como te puxar de volta.
 
-— Se ficarmos aqui, o Taxidermista nos enterra assim que a energia primária reiniciar. — Gabo rebateu, a voz perigosamente baixa. O cheiro fantasma de cigarro tentou voltar, e ele cravou os dentes no próprio lábio até sentir o gosto ferroso de sangue. A dor o limpava. A dor o mantinha inteiro. — Val, arrasta aquela caixa de junção e me dá um pé.
+— Se ficarmos aqui, o Taxidermista nos enterra assim que a energia primária reiniciar. — Gabo rebateu, a voz perigosamente baixa. Ele cravou os dentes no próprio lábio até sentir o gosto ferroso de sangue, forçando a mente a se concentrar na única saída viável. — Val, arrasta aquela caixa de junção e me dá um pé.
 
 — *Sua intenção desafia a lógica de autopreservação básica, Detetive Moretti. Seus sinais vitais indicam exaustão crítica,* — alertou Aria pelo ponto de áudio, seu tom permanentemente clínico. — *O esforço de tração sem membros distais romperá o tecido cauterizado em menos de noventa segundos.*
 
@@ -48,9 +48,9 @@ Xingando baixinho entre dentes, Valéria levantou-se, empurrou um gabinete de re
 
 O interior do duto era um pesadelo de ferrugem, graxa velha e escuridão claustrofóbica. Assim que Gabo espremeu os ombros lá dentro, usando os joelhos e cotovelos doloridos para se impulsionar para frente no espaço apertado de metal, o isolamento acústico o engoliu. O som da própria respiração raspando na garganta seca soava como uma lixa.
 
-Ele rastejou como um verme no escuro. Centímetro por doloroso centímetro. A ferrugem desprendia-se e caía em seus olhos e boca. O ambiente apertado e a falta de oxigênio pioraram as alucinações. O cheiro fantasma de fumaça de cigarro invadiu o tubo apertado, sufocante, tóxico, lembrando os interrogatórios claustrofóbicos do velho DPBC.
+Ele rastejou como um verme no escuro. Centímetro por doloroso centímetro. A ferrugem desprendia-se e caía em seus olhos e boca. O ambiente apertado e a escassez de oxigênio cobravam um preço atroz de cada músculo. O ar estagnado cheirava a poeira antiga e óleo mineral oxidado, e cada empurrão com os joelhos exigia um esforço monumental para não ceder à claustrofobia.
 
-O pânico irracional ameaçou paralisá-lo. Gabo soltou um grunhido gutural e apertou o cotoco queimado de seu braço esquerdo contra uma emenda irregular e afiada de metal no chão do duto. A lâmina de ferrugem cortou a pele sensível na borda da cauterização. O choque de pura dor perfurou a nuvem de fumaça ilusória. A mente clareou na mesma proporção em que o sangue real escorreu pela fresta.
+Ele trincou os dentes, ignorando a agonia nos membros cauterizados que raspavam na chapa metálica. Continuou avançando pelo ferro áspero, usando o ritmo metódico da própria respiração para afastar o pânico e manter a rota até a câmara de controle.
 
 A luz fraca da câmara de engrenagens finalmente brilhou à frente. Ele se arrastou até a borda e se jogou para baixo, caindo de forma desajeitada em um piso de grade sobre um mar imenso de engrenagens de bronze paradas. O impacto sacudiu seu abdômen selado, arrancando-lhe um gemido reprimido.
 

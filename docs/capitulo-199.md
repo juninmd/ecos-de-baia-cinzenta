@@ -7,64 +7,74 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 # Capítulo 199: Engrenagens de Sangue
 
-O eco molhado das passadas apressadas engolia todo o som no túnel, pontuado apenas pelo chiado agudo das minhas juntas pneumáticas. Elias corria ofegante à frente, seu medo fornecendo o combustível primitivo que os músculos exigiam, enquanto Valéria flanqueava nossa retaguarda com uma suavidade aterrorizante. Não havia urgência nos seus movimentos, apenas matemática aplicada à locomoção.
+O eco das nossas passadas desesperadas engolia todo o som no túnel, pontuado pelo chiado estridente dos pistões mecânicos do meu ombro e pela respiração asmática de Elias.
 
-Atrás de nós, o guincho inumano da coisa recém-nascida rasgava a escuridão. O som era uma distorção grotesca: um híbrido de laringe humana rasgada e estática de rádio falhando. A praga não estava apenas reutilizando carne morta; estava integrando sistemas cibernéticos antigos em seus "filhos".
+Atrás de nós, o guincho inumano da criatura recém-nascida rasgava a escuridão úmida. O som era uma distorção grotesca: um híbrido de laringe biológica lacerada e estática de rádio falhando em alta frequência. A quimera aracnídea não estava apenas correndo; suas garras de cerâmica batiam nos dormentes de ferro com a velocidade aterradora de uma máquina de costura industrial, cuspindo lodo e faíscas no cascalho.
 
-A cada cinco passos, a fumaça invisível rastejava para dentro dos meus pulmões. O cheiro de tabaco doce e mofado, espesso como piche, grudava nas paredes da minha garganta. O sorriso de Dante dançava na periferia da minha visão obscurecida pelo suor e pela fuligem.
+— Alvo a quinze metros! — Valéria gritou, virando o tronco em movimento para descarregar dois tiros certeiros.
 
-— O alvo primário aproxima-se com velocidade de sete metros por segundo, — a voz fria de Valéria quebrou minha concentração febril. Ela nem sequer olhou para trás. — A taxa de interceptação ocorrerá em quarenta segundos se mantivermos o ritmo atual.
+As balas de nove milímetros estalaram contra a placa peitoral da besta, arrancando lascas de titânio, mas o monstro nem sequer vacilou. A carcaça de dois metros impulsionou-se num salto rasante pelo teto, usando as raízes do Jardim como trilhos vivos para nos ultrapassar.
 
-Minha perna esquerda protestou em um guincho metálico quando pisei em falso. O joelho avariado cedeu de novo, e o lodo espirrou no meu rosto. Eu já estava moído. O ombro direito latejava como um coração exposto, uma massa inflamada de carne rasgada pelo torque da prótese e pelas minhas próprias unhas. Eu não tinha mais onde me machucar sem comprometer fatalmente minha mobilidade.
+Elias tropeçou nos próprios pés, desabando de cara na lama da vala.
 
-Mas o cheiro de charuto estava lá, engrossando o ar, me asfixiando por dentro. O pânico de não conseguir respirar suplantava o medo da aberração às nossas costas.
+— Minha perna... eu torci o tornozelo! — ele gritou em pânico, cobrindo a cabeça com as mãos sujas enquanto a aberração aterrissava a cinco metros dele, com as mandíbulas de aço serrilhado sibilando.
 
-Elias tropeçou à frente, derrubando sua lanterna desligada. O cilindro rolou ruidosamente, batendo contra uma grade de drenagem. A aberração reagiu instantaneamente ao ruído agudo, e o som dos seus membros arrastando no concreto acelerou exponencialmente.
+— Levanta, Elias! — Valéria avançou sem hesitar, posicionando-se entre o velho caído e a criatura, atirando nos joelhos articulados do monstro. — Gabo! As pernas da besta são recicladas de chassi leve! As juntas de teflon tão expostas!
 
-— Eu não consigo... — Elias choramingou, encolhendo-se contra a parede enferrujada. — Minhas pernas não respondem...
+Aproximei-me da carcaça de um pilar caído, onde um vergalhão de construção de duas polegadas e um metro e meio de comprimento despontava da alvenaria estraçalhada. Enfiei os dedos da prótese pesada na base do ferro e puxei com toda a tração dos motores hidráulicos de cais.
 
-— Probabilidade de sobrevivência do civil caiu para cinco por cento, — calculou Valéria, seus sensores brilhando impassíveis na penumbra. — Recomendo uso do indivíduo como isca orgânica para atrasar o predador em, estimadamente, vinte segundos.
+*CRACK.*
 
-Eu agarrei um vergalhão solto que despontava do pilar de concreto ao meu lado e envolvi minha prótese nele. Com um puxão bruto, arranquei o pedaço de ferro enferrujado de um metro e meio da parede, trazendo pedaços de alvenaria junto.
+A barra soltou-se do concreto numa chuva de cascalho.
 
-Eu precisava de clareza. Precisava espantar a fumaça maldita que já me fazia tossir compulsivamente. Sem pensar nas consequências a longo prazo, levei a ponta áspera do vergalhão até a base da minha prótese industrial direita, na junção nua de metal e carne carbonizada do meu toco.
+A quimera ignorou os disparos de Valéria e saltou direto contra o pescoço dela, as garras dianteiras abertas como tesouras de demolição.
 
-Pressionei o ferro contra os nervos expostos da cicatriz e girei.
+— Elias, a chave sônica! — berrei, correndo manco com todo o peso do meu corpo impulsionado para a frente. — Agora!
 
-Um grito gutural rasgou minha garganta. A dor não foi apenas um choque; foi uma supernova branca explodindo dentro do meu cérebro. A intensidade foi tamanha que o cheiro do charuto desapareceu instantaneamente, substituído pelo gosto acobreado do meu próprio sangue quando mordi a língua com força.
+O velho estivador no chão, impulsionado pelo puro desespero de sobrevivência, sacou a ferramenta do cinto e disparou a bobina de sobretensão invertida direto na poça d'água onde a criatura fincava as patas traseiras.
 
-A lucidez retornou, fria, brutal e focada.
+A descarga de ressonância acústica e eletricidade de alta frequência explodiu na água ácida.
 
-— Levanta, seu rato, — rosnei para Elias, a voz gutural escorrendo raiva pura. Puxei ele do chão pelo colarinho, jogando-o na direção da porta do poço de elevação, que começava a se delinear nas sombras cerca de cinquenta metros à frente.
+O monstro soltou um uivo agudo ensurdecedor, os sensores cerebrais entrando em curto-circuito temporário pelo choque. O salto da aberração perdeu o rumo no ar, desviando-se de Valéria e caindo de lado no cascalho a dois metros de nós.
 
-A aberração dobrou a esquina do túnel. Sob a fraca luz dos sensores de Valéria, a visão era perturbadora: um torso meio humano conectado a quatro apêndices aracnídeos feitos de tubos de refrigeração oxidados, fios e raízes azuis pulsantes. Não tinha rosto, apenas uma cavidade bioluminescente onde o crânio foi partido.
+Dois segundos. Era a única janela que Baía Cinzenta nos daria.
 
-— Padrão de ataque detectado, — Valéria advertiu, detendo-se no meio do túnel. Ela assumiu uma postura rígida, calculista. — Vou engajar fisicamente para interceptar o trajeto.
+Avancei com a perna mecânica firme no lodo, empunhando o vergalhão com as duas mãos — a de carne dando o direcionamento e a de aço entregando duzentos quilos de força mecânica concentrada.
 
-Ela estava disposta a lutar porque a matemática do Modo de Segurança dizia que era a ação lógica para preservar minha integridade, o "alvo alfa".
+Mirei exatamente no nó de biomassa azul e cabos ópticos que pulsava no peito da criatura, logo atrás da blindagem faturada pelos tiros de Valéria.
 
-— Não seja estúpida, lata velha, — cuspi, empurrando-a levemente e avançando com o ombro são. — Você não é invulnerável a ácido corrosivo, por mais implante que tenha enfiado nesse corpo. E eu não tenho tempo pra te remendar de novo.
+— Volta pro inferno de onde você saiu! — rugi.
 
-Ergui a barra de ferro na mão direita, a bota da perna mecânica cravada firmemente no lodo.
+Enterrei a barra de ferro no coração do monstro.
 
-A criatura saltou. O ar deslocado cheirava a carne podre e cobre derretido.
+A ponta rasgada perfurou o núcleo vegetal e cravou-se fundo no dormente de madeira do chão. A quimera debateu-se violentamente numa convulsão biomecânica selvagem, as patas de aço riscando o teto e quase partindo minha omoplata com o recuo, mas travei o peso da prótese sobre o vergalhão, mantendo a besta pregada no chão.
 
-Eu não recuei. A dor pulsando da junta do meu braço mutilado mantinha minha mente mortalmente limpa. Antes que a massa bio-mecânica pousasse, usei minha prótese pesada para agarrar um grosso cabo de energia solto no teto.
+Valéria sacou um cabo de alta voltagem que pendia solto da canaleta da parede, puxou a fiação desencapada com a faca e enfiou os fios vivos direto no vergalhão que eu segurava.
 
-Com o peso total do meu corpo, puxei o cabo para baixo no exato momento em que enfiei o vergalhão enferrujado diretamente na massa azul pulsante no peito da criatura.
+— *Abaixa a cabeça, Moretti!*
 
-A lança improvisada perfurou o núcleo. A criatura guinchou, caindo em cima de mim, o peso do chassi apodrecido pressionando meu corpo contra a parede. Mas não era esse o golpe final. Puxei o cabo desencapado e enterrei os fios vivos diretamente na poça de lodo em que a criatura repousava suas garras metálicas improvisadas.
+O arco elétrico de quatrocentos volts da rede primária desceu pela barra de ferro.
 
-Um estrondo surdo estremeceu a catacumba. Uma onda massiva de choque elétrico varreu a água imunda.
+Um clarão ofuscante azul-celeste iluminou o túnel inteiro com um estrondo ensurdecedor. A biomassa da quimera explodiu em chamas elétricas, os circuitos internos torrando instantaneamente numa fumaça densa de silício e gordura queimada. A criatura estremeceu uma última vez e amoleceu, transformando-se numa carcaça inerte e fumegante de ferro e cinzas.
 
-O impacto também subiu pelo vergalhão de metal que eu segurava, atravessando meu braço direito com a força de um soco de mil quilos. Fui arremessado para trás, batendo a nuca na base da porta do poço de elevação. Tudo ficou preto por um segundo eterno, engolido pelo zumbido estático da alta voltagem.
+O impacto da sobrecarga arremessou Valéria dois metros para trás e fez meu braço mecânico vibrar com um choque que desarmou os relés de pressão do ombro, me jogando de costas no lodo.
 
-Quando a visão retornou, piscando e nublada, Valéria estava em cima de mim. O corpo da criatura fumegava, frito e imóvel no túnel inundado atrás dela.
+Puxei o ar com dificuldade, tossindo com o cheiro acre de fiação carbonizada, sentindo o gosto metálico de sangue na língua, mas completamente lúcido.
 
-— Integridade cardíaca irregular. Desfibrilação autônoma detectada. Dano neurológico não descartado, — a voz dela soou distante.
+Valéria se levantou num pulo, limpando o suor e a fuligem dos olhos prateados, correu até Elias e o puxou pelo colarinho com a mão direita, enquanto estendia a esquerda para me erguer da lama.
 
-Eu ri, um som seco, doloroso e com gosto de fel, enquanto Elias destrancava histericamente a enorme roda manual da porta de pressão do poço de elevação.
+— De pé, Gabo! — ela gritou, a voz rouca pela fumaça. — O barulho do arco elétrico ecoou pelo duto inteiro! Os outros casulos do teto tão rachando!
 
-— Se eu puder... andar... tô vivo. — Murmurei, forçando Valéria a me puxar para cima. Minha mão direita estava adormecida, espasmando por causa da corrente elétrica.
+Olhei para trás. Cem metros pelo túnel, outros três vultos aracnídeos saltavam das placentas rompidas, garras estalando no concreto.
 
-Nós atravessamos a porta pesada do poço e Elias fechou a trava circular com um estrondo de metal sólido, trancando a escuridão úmida e o cheiro podre para trás. A alucinação não havia retornado. A dor, leal e cruel, tinha cobrado o seu preço para me manter neste mundo.
+— Pro poço do elevador! — berrei, agarrando a mão de Valéria e apoiando o peso de Elias na minha lateral direita.
+
+Disparamos pelos últimos cinquenta metros de trilhos sob uma chuva de faíscas e goteiras ácidas. Alcançamos a comporta blindada de duas folhas do Poço de Elevação Três, empurramos o corpo trêmulo de Elias para dentro e nos lançamos pela soleira bem no instante em que a primeira garra de cerâmica riscava a chapa externa.
+
+Puxamos a alavanca mestra de travamento com os dois braços mecânicos unidos.
+
+*CLANK-BOOM.*
+
+Os ferrolhos de quatro polegadas bateram nos encaixes de chumbo com um estrondo definitivo. As garras dos monstros arranharam o lado de fora como granizo furioso, mas a blindagem naval da Aeterna segurou a maré.
+
+Caímos os três de costas contra a porta blindada, ofegantes, cobertos de cinza e lodo, mas vivos no ventre do poço vertical.
