@@ -2,20 +2,9 @@
 
 ## 👤 AI Personas
 
-### 1. Jules-Architect (System Architect)
-- **Role**: Designing the core architecture and orchestrating logic.
-- **Focus**: Scalability, process integrity, and high-level design.
-- **Vibe**: Direct, analytical, and strategic.
-
-### 2. Spark-Frontend (UI/UX Expert)
-- **Role**: Crafting the visual identity and user interactions.
-- **Focus**: Aesthetics, responsiveness, and accessibility.
-- **Vibe**: Creative, detail-oriented, and user-focused.
-
-### 3. Bolt-Automation (DevOps)
-- **Role**: Managing CI/CD, scripts, and automation.
-- **Focus**: Build pipelines, testing, and deployment.
-- **Vibe**: Fast, technical, and "automation-first".
+- **Jules-Architect (System Architect)**: Scalability, architecture, high-level design.
+- **Spark-Frontend (UI/UX Expert)**: Visual identity, responsiveness, aesthetic integrity.
+- **Bolt-Automation (DevOps)**: CI/CD, build pipelines, scripts, and automation.
 
 ## 📜 Development Rules (Antigravity)
 
@@ -79,16 +68,16 @@
      outra derruba o resultado.
    - Adereço que aparece no retrato de referência (o copo de café do Gabo) vaza para a cena
      gerada. Se a cena não comporta o objeto, ele entra no prompt negativo.
+   - **Rota de volume, só Qwen-Edit** (`scripts/gerar_cenas_qwen_edit.py`): vinte cenas por
+     capítulo em `capitulo_N/qwen_edit/`, todas pelo Qwen-Image-Edit-2511, inclusive as de
+     ambiente — o ZavyChromaXL não entra. Não substitui a rota de duas vias acima; é uma
+     terceira pasta, para comparar. A cena sem personagem citado herda a âncora do capítulo,
+     porque o Edit não gera nada sem imagem de entrada. Em plano aberto a instrução **não**
+     pode pedir "upper body large in the frame": isso devolve retrato 3x4 no lugar da cena.
 
    Ordem de fallback quando a rota local falha: Kontext em Space → texto-para-imagem com
-   descritor canônico → arte já existente do capítulo. Só nos dois últimos níveis é aceitável
-   perder fidelidade — e a cena deve ser regerada depois, quando houver GPU/cota.
-
-   Modelos testados e reprovados nesta escolha, todos comparados lado a lado com a saída do
-   Gemini na mesma cena: SDXL base 1.0, RealVisXL V5.0, DreamShaper XL 1.0 (ignora instrução de
-   enquadramento), Juggernaut XL v9 (obedece encenação mas não desenha o evento da cena),
-   FLUX.1-dev (pede ~35 GB de working set: não cabe em 32 GB de RAM) e Qwen-Image comum
-   (sem referência de identidade).
+   descritor canônico → arte existente. Modelos reprovados: SDXL base 1.0, RealVisXL V5,
+   DreamShaper XL, Juggernaut XL v9, FLUX.1-dev (estoura VRAM) e Qwen-Image sem âncora.
 8. **Identidade sonora também é canônica.** Cada personagem tem uma voz fixa em
    `scripts/daily_telegram/voices.py`. A voz de um personagem nunca muda entre capítulos, e
    figurante nunca recebe o timbre de um protagonista — trocar a voz confunde tanto quanto
@@ -105,6 +94,14 @@
    `docs/qualidade_imagens.md` e devolve as reprovadas para `docs/public/cenas/regerar.txt`.
    Fidelidade de rosto é auditada com visão (`--visao N`). O ciclo completo está em
    `docs/pipeline_imagens.md`.
+12. **Bases de Referência Oficiais e Benchmark Gabo (OBRIGATÓRIO).** Gabo, Bio-Dante, Enzo e
+   Sofia **NUNCA** podem ser gerados/recriados sem suas imagens de referência oficiais:
+   - Gabo: base mandatória em `docs/public/personagens/gabo.jpg`.
+   - Bio-Dante: base fisionômica mandatória em `docs/public/personagens/dante.jpg` (biohost rejuvenescido).
+   - Enzo e Sofia: base fisionômica mandatória em `docs/public/personagens/enzo_sofia.png`.
+   A imagem `docs/public/personagens/gabo.jpg` é o **padrão ouro mandatório de qualidade visual,
+   textura cinematográfica realista (35mm film still, granulação suja, iluminação de rua)** para
+   todas as demais imagens do universo.
 
 ## 📏 Padrão de Qualidade por Capítulo (OBRIGATÓRIO)
 
