@@ -1,5 +1,6 @@
 ---
 image: /capitulo_7.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Roberto Miranda, Kael "O Cirurgião", Aria Moretti
 ---
 # Capítulo 7: O Fim do Silêncio
 
@@ -19,11 +20,11 @@ Uma lâmina zuniu no ar, errando o pescoço de Gabriel por centímetros e cortan
 
 — Isso significa que a porta dos fundos está aberta? — Gabriel gritou, levantando-se.
 
-— *A esquerda,* — sussurrou Aria em sua mente. — *Joelho.*
+— *À esquerda,* — disparou a voz sintética de Aria no fone do comunicador, onde o pendrive de titânio pulsava em azul intenso. — *Articulação do joelho. Falha térmica na blindagem.*
 
 Kael surgiu da névoa como um demônio de aço. O lado direito de sua armadura estava coberto de escarcha branca. Ele levantou o braço modificado, a serra óssea girando com um guincho agudo.
 
-Gabriel não recuou. Ele confiou na voz.
+Gabriel não recuou. Ele confiou no cálculo da IA.
 
 Quando Kael atacou, Gabriel pisou em um cabo solto no chão congelado e deslizou intencionalmente para baixo, passando por baixo da guarda do ciborgue.
 
@@ -105,7 +106,7 @@ O túnel antigo era mais estreito. O teto era baixo.
 
 O drone restante se alinhou atrás deles. Uma luz vermelha de mira apareceu nas costas do banco de Gabriel.
 
-— *Salte,* — disse Aria.
+— *Rampa de detritos à frente. Salte,* — alertou Aria pelo comunicador.
 
 Gabriel viu uma rampa de detritos à frente.
 

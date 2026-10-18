@@ -1,5 +1,6 @@
 ---
 image: /capitulo_5.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Roberto Miranda, Dante Moretti
 ---
 # Capítulo 5: A Capela dos Esquecidos
 
@@ -39,15 +40,15 @@ Gabriel apertou o dedo no gatilho. Seria fácil. Justiça. Vingança. Tudo em um
 
 *NÃO.*
 
-A palavra brilhou em vermelho no HUD do carro, projetada agora em sua mente pela falha no implante auditivo que ele nem sabia que tinha. A voz de Aria.
+O alerta vibrou no comunicador tático preso à gola de Gabriel, onde o componente tipo pendrive que ele encontrara na cabine telefônica na enchente aquecia contra sua clavícula. No fone auricular, a voz sintética de Aria cortou o ar.
 
-— *Ele é um nó crítico,* — a voz da menina sussurrou, cheia de estática. — *Sem ele, a rede não cai.*
+— *Ele é um nó crítico, detetive,* — a assistente de IA sussurrou pelo ponto de áudio, filtrada por estática. — *Se matá-lo agora, a chave criptográfica morre com ele e a rede não cai.*
 
-Gabriel hesitou. A voz digital o fez baixar a arma um milímetro.
+Gabriel hesitou. A lógica fria da IA no pendrive o fez baixar a arma um milímetro.
 
 — O que você tem? — rosnou ele.
 
-Miranda, alheio à voz na cabeça de Gabo, enfiou a mão no bolso trêmulo e tirou um chip de memória biológico. O invólucro estava sujo, mas o núcleo pulsava com uma luz vermelha fraca.
+Miranda, alheio à transmissão no ouvido de Gabo, enfiou a mão no bolso trêmulo e tirou um chip de memória biológico. O invólucro estava sujo, mas o núcleo pulsava com uma luz vermelha fraca.
 
 — O Santo Graal. A apólice de seguro do seu pai.
 
@@ -103,7 +104,7 @@ Gabriel agarrou o ex-parceiro pelo colarinho, arrastando-o pelo chão sujo com u
 
 — Você é minha testemunha, desgraçado. Você só morre quando eu deixar. E eu prometo que vai doer mais que isso.
 
-Gabriel disparou contra uma tubulação de vapor na parede oposta. O jato de pressão explodiu com um silvo ensurdecedor, criando uma cortina de vapor denso e escaldante entre eles e as máquinas assassinas.
+Gabriel disparou contra uma tubulação de vapor na parede oposta. O jato de pressão explodiu com um silvo ensurdecedor, criando uma cortina de fumaça branca e quente entre eles e as máquinas assassinas.
 
 Eles mergulharam na escuridão do túnel de esgoto, deslizando na lama fétida, enquanto atrás deles, o zumbido mecânico das *Vespas* mudava de tom, ativando o modo de perseguição térmica.
 

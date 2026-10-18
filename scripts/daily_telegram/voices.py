@@ -6,6 +6,8 @@ ELENCO: Dict[str, Tuple[str, str, str]] = {
     "Gabriel \"Gabo\" Moretti": ("pt-BR-AntonioNeural", "-8%", "-6Hz"),
     "Valéria \"Val\" Cruz": ("pt-BR-FranciscaNeural", "+6%", "+8Hz"),
     "Elena Moretti": ("pt-BR-ThalitaMultilingualNeural", "+0%", "+0Hz"),
+    "Aria": ("pt-BR-ThalitaMultilingualNeural", "-4%", "-12Hz"),
+    "Aria Moretti": ("pt-BR-ThalitaMultilingualNeural", "-4%", "-12Hz"),
     "Aria Moretti (Unidade Autônoma)": ("pt-BR-ThalitaMultilingualNeural", "-4%", "-12Hz"),
     "Inspetor Rangel": ("pt-PT-DuarteNeural", "+0%", "+6Hz"),
     "Diretor Dantas": ("en-US-BrianMultilingualNeural", "-10%", "-10Hz"),

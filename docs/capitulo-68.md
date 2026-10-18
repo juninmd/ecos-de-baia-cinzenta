@@ -1,6 +1,6 @@
 ---
 image: /capitulo_68.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Roberto Miranda, Aria Moretti, Dante Moretti
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Roberto Miranda, Aria, Dante Moretti
 ---
 # Capítulo 68: A Caçada Inversa
 
@@ -26,7 +26,7 @@ O calibre era grosso o bastante para atravessar mesa, arquivo e a parede atrás 
 
 — Val! Saída!
 
-— **Não tem!** — Ela estava embaixo da escrivaninha do delegado, com o deck no colo e o rosto branco de pó. — O sistema daqui está morto! Sem rede, sem sensor, sem nada! O Dante não alcança aqui!
+— **Não tem!** — Ela estava embaixo da escrivaninha do delegado, com o deck no colo, o pendrive da Aria espetado na lateral e o rosto branco de pó. — O sistema daqui está morto! Sem rede, sem sensor, sem nada! O Dante não alcança aqui!
 
 Gabo entendeu na hora, e a compreensão foi pior que o tiroteio.
 
@@ -54,7 +54,7 @@ E o pior é que ele disse com **carinho**.
 
 ---
 
-Gabo empurrou Val e Aria para dentro da sala de evidências e bateu a porta de aço.
+Gabo empurrou Val para dentro da sala de evidências e bateu a porta de aço.
 
 Trancou com a barra transversal, que era analógica e por isso ainda funcionava, e recuou dois passos ofegando.
 
@@ -78,7 +78,7 @@ Ela olhou, e depois olhou de novo, e ficou pálida de um jeito diferente.
 
 — Eu sei o que é suar. Detona ou não detona?
 
-— Eu improviso um iniciador com o deck. — Ela já estava puxando cabo. — Mas eu preciso de tempo e você precisa entender que isso pode explodir na sua mão no caminho.
+— Eu improviso um iniciador com o deck e a frequência da Aria. — Ela já estava puxando cabo. — Mas eu preciso de tempo e você precisa entender que isso pode explodir na sua mão no caminho.
 
 — Então eu levo com cuidado.
 
@@ -134,7 +134,7 @@ A caixa de madeira veio deslizando pelo chão molhado do corredor, girando devag
 
 Ela passou entre as pernas do Titã.
 
-Val apertou o deck.
+Val apertou o gatilho de frequência no deck.
 
 A explosão foi contida pelo corredor estreito e por isso foi pior: a onda não teve para onde ir e escolheu para cima. Três toneladas de blindagem subiram quinze centímetros do chão, e quando voltaram, as juntas do quadril já não existiam mais.
 
@@ -144,7 +144,7 @@ E ficou ali, entupindo o corredor, com os canhões ainda girando em vazio — e 
 
 — Vamos! — Gabo se levantou com a perna esquerda avisando que aquilo tinha preço.
 
-Ele agarrou a Aria pela mão. A mão dela estava fria e seca, como sempre.
+Ele pegou o pendrive de titânio da Aria das mãos de Val e o travou de volta no comunicador de lapela. O metal estava quente e seco, pulsando em azul.
 
 ---
 
@@ -164,9 +164,9 @@ Ratos não ficam quietos. Ratos guincham, brigam, se movem sem parar. Aquilo era
 
 — O que é isso — ela disse, e não foi pergunta.
 
-Aria deu um passo à frente. Os bichos abriram caminho para ela sem se assustar.
+Na lapela de Gabo, o pendrive da Aria emitiu um pulso ultra-sônico imperceptível ao ouvido humano. Os bichos abriram caminho no meio do beco sem se assustar.
 
-— O Exército dos Esquecidos.
+— *O Exército dos Esquecidos* — disse a voz sintética da Aria pelo alto-falante.
 
 ---
 
@@ -182,21 +182,21 @@ Não foi ataque de bicho selvagem. Bicho selvagem morde e recua. Aquilo foi **co
 
 E o cachorro cinza continuou sentado no meio do beco, olhando, sem participar.
 
-Gabo se virou para Aria.
+Gabo olhou para o LED azul do pendrive na lapela.
 
 — Ele controla até os ratos?
 
-— Tudo que tem pulso elétrico ou coração nessa cidade é dele agora. — Ela disse isso olhando para o beco, e não havia julgamento nenhum na voz dela, e isso foi o pior. — Ele perguntou aos bichos primeiro.
+— *Tudo que tem implante de rastreamento, bio-chip municipal ou pulso elétrico nessa cidade responde à frequência dele agora* — explicou a Aria pelo comunicador, e não havia julgamento nenhum na voz sintética dela, e isso foi o pior. — *Ele emitiu o chamado primeiro.*
 
-— Perguntou.
+— Emitiu.
 
-— Do jeito dele. — Ela puxou a mão de Gabo. — Eles vieram porque quiseram vir. Nenhum deles é obrigado.
+— *Na frequência de abrigo.* — O visor de Gabo marcou a tampa do bueiro trinta metros à frente. — *Eles vieram porque reconheceram o sinal. Nenhum deles foi forçado.*
 
 Gabo olhou para os onze segundos que tinham acabado de acontecer em nome dele.
 
 — Isso não faz eu me sentir melhor, Aria.
 
-— Eu sei. — Ela já estava andando. — Vamos para o esgoto. É o único lugar que o satélite não vê.
+— *Eu sei, Inspetor.* — O vetor azul piscou no visor dele. — *Vamos para o esgoto. É o único lugar que o satélite não vê.*
 
 ---
 

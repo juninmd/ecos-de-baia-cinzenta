@@ -3,7 +3,7 @@ layout: doc
 title: "Capítulo 63: Águas Profundas"
 description: "A represa que devia proteger a cidade virou muralha do reino digital. Lá dentro, Gabo descobre que tem um protetor pior que os inimigos."
 image: /capitulo_63.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria Moretti, O Taxidermista
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria, O Taxidermista
 ---
 
 # Capítulo 63: Águas Profundas
@@ -82,7 +82,7 @@ Eram técnicos. Turno da noite. Gente que ia bater o ponto e voltar para casa.
 
 O plano da Val cabia em três frases, o que já era um bom sinal:
 
-— Eu não consigo apagar o sistema daqui; o comando de formatação exige autoridade de administrador e eu não tenho. Mas eu consigo corromper a camada comercial: os registros de titularidade, os contratos, os anexos, a lista de inquilinos. — Ela mostrou o pulso. — Se os ricos deixarem de existir como proprietários, o financiamento evapora numa manhã.
+— Eu não consigo apagar o sistema daqui; o comando de formatação exige autoridade de administrador e eu não tenho. Mas com o pendrive da Aria acoplado ao meu deck eu consigo corromper a camada comercial: os registros de titularidade, os contratos, os anexos, a lista de inquilinos. — Ela mostrou o módulo de titânio encaixado no pulso. — Se os ricos deixarem de existir como proprietários, o financiamento evapora numa manhã.
 
 — E a cidade?
 
@@ -92,13 +92,13 @@ Era um plano ruim, arriscado e provavelmente suicida.
 
 Foi o melhor que qualquer um dos dois tinha ouvido em quarenta e sete dias.
 
-— Eu dou cobertura — disse Gabo, checando a munição. Sete na Glock, quatro na *Caronte*, e nada além disso no mundo inteiro. — Aria, você fica atrás da coluna e não sai de trás dela.
+— Eu dou cobertura — disse Gabo, checando a munição. Sete na Glock, quatro na *Caronte*, e nada além disso no mundo inteiro. — Aria, concentra todo o seu processamento em quebrar o firewall com a Val.
 
-A menina olhou para ele.
+No ponto auditivo dele, o sintetizador da IA deu um clique curto.
 
-— *Você vai cair* — ela disse, por dentro.
+— *Suas leituras biométricas estão abaixo do limite operacional, Inspetor. Você vai cair* — ela avisou, no canal privado.
 
-— Eu sei, garota. Fica atrás da coluna assim mesmo.
+— Eu sei, garota. Quebra a porta assim mesmo.
 
 ---
 

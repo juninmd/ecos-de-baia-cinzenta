@@ -1,5 +1,6 @@
 ---
 image: /capitulo_103.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Silas Vance ("O Jardineiro"), Roberto Miranda, Elena Moretti, Dante Moretti
 ---
 # Capítulo 103: A Convergência
 
@@ -17,7 +18,7 @@ Dante Moretti. Ou melhor, uma casca vazia cultivada para ser ele.
 
 — Impressionante, não é? — A voz ecoou, não dos alto-falantes desta vez, mas de uma plataforma elevada conectada ao Ventre por pontes de cabos orgânicos.
 
-Silas Vance estava lá. Ele não parecia o monstro vegetal que as lendas de Part XIII descreviam. Ele parecia humano, dolorosamente humano, vestido com um jaleco branco imaculado que contrastava violentamente com a sujeira do mundo exterior. Apenas as veias negras que subiam pelo seu pescoço denunciavam a infecção controlada.
+Silas Vance estava lá. Ele não parecia o monstro vegetal que as lendas do subsolo descreviam. Ele parecia humano, dolorosamente humano, vestido com um jaleco branco imaculado que contrastava violentamente com a sujeira do mundo exterior. Apenas as veias negras que subiam pelo seu pescoço denunciavam a infecção controlada.
 
 — Silas — rosnou Gabo, o som de suas órteses metálicas clicando enquanto ele avançava pela passarela.
 
@@ -65,7 +66,7 @@ Atrás dele, um grito. Gabo olhou por cima do ombro.
 
 Elena estava encurralada contra o parapeito. Roberto a segurava pelo pescoço com sua garra mecânica, erguendo-a sobre o vazio.
 
-— *Escolha, Gabo!* — riu Roberto. — *O pai ou a filha? Você pode salvar o legado... ou o futuro.*
+— *Escolha, Gabo!* — riu Roberto. — *O pai ou ela? Você pode salvar o legado... ou quem ainda respira.*
 
 Gabo olhou para Silas, que observava o monitor de transferência atingir 80%. Depois olhou para Elena, debatendo-se, o rosto ficando roxo.
 

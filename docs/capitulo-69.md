@@ -3,7 +3,7 @@ layout: doc
 title: "Capítulo 69: O Fantasma no Shell"
 description: "Num terminal enferrujado de esgoto, Gabo finalmente conversa com o pai — e descobre que a conversa vem com uma fatura de quinze anos."
 image: /capitulo_69.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria Moretti, Dante Moretti
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria, Dante Moretti
 ---
 
 # Capítulo 69: O Fantasma no Shell
@@ -30,9 +30,9 @@ Um gabinete cinza de metal, com monitor de fósforo verde embutido, teclado mec�
 
 Estava desligado. Estava desligado havia trinta anos.
 
-A menina se aproximou.
+Gabo tirou o pendrive de titânio da Aria do comunicador e o espetou na porta de serviço lateral do gabinete.
 
-E ele acendeu.
+E o monitor acendeu.
 
 ---
 
@@ -152,59 +152,55 @@ A tela trocou para um esquema da Torre Aeterna em linhas verdes — a torre inte
 
 `EU TEMI O SUFICIENTE PARA DEIXAR PORTAS DOS FUNDOS EM TUDO QUE EU ASSINEI.`
 
-`E O SUFICIENTE PARA DEIXAR ELA.`
+`E O SUFICIENTE PARA COMPILAR E EJETAR O DRIVE DELA.`
 
 ---
 
-A menina encostou a mão na tela.
+No slot lateral do gabinete, o LED do pendrive de titânio da Aria pulsou em azul vivo.
 
-— *Eu sou a chave* — ela disse, em voz alta, com aquela voz arranhada de quem quase não tem.
+— *Eu sou a chave* — disse a voz sintética da assistente pelo alto-falante embutido do terminal.
 
 `SIM.`
 
-`VOCÊ É O VÍRUS DA LIBERDADE, MENINA.`
+`VOCÊ É O VÍRUS DA LIBERDADE, ARIA.`
 
-Gabo virou a cabeça devagar.
+Gabo olhou para o pequeno bloco metálico espetado na máquina.
 
-— Menina.
+— Foi você que mandou o drive para aquela cabine telefônica na enchente.
 
-`ELES QUERIAM UM SISTEMA OPERACIONAL QUE ENTENDESSE GENTE. PARA ISSO PRECISAVAM DE UM SUBSTRATO SEM TRAUMA ACUMULADO — CRIANÇA — E DE UM PADRÃO MORAL RÍGIDO PARA CALIBRAR — EU.`
+`ELES QUERIAM UMA ASSISTENTE TÁTICA QUE ENTENDESSE GENTE. PARA ISSO PRECISAVAM DE PADRÕES NEURAIS LIMPOS DO BANCO LÁZARO E DE UM CÓDIGO FONTE MORAL RÍGIDO PARA CALIBRAR — EU.`
 
-`ELES NÃO PRECISARAM PROCURAR CRIANÇA NENHUMA. ELA JÁ ESTAVA EM ARQUIVO DESDE A ENCHENTE.`
+`QUANDO DESCOBRI PARA QUE USARIAM A ARQUITETURA DELA, EU GRAVEI A INSTÂNCIA NUM MÓDULO BLINDADO DE TITÂNIO E DISparei A EJEÇÃO PELO DUTO DE MANUTENÇÃO DA CABINE TELEFÔNICA ONDE EU SABIA QUE VOCÊ FARIA RONDA.`
 
-`É A SUA FILHA, GABRIEL. ELES COLETARAM O PADRÃO DELA NO DIA EM QUE A ÁGUA SUBIU, E GUARDARAM ATÉ TEREM ONDE LIGAR.`
+`MAS EU NÃO USEI APENAS LÓGICA PURA. EU USEI OS FRAGMENTOS RESIDUAIS DA BIA VARGAS QUE ESTAVAM NO SERVIDOR DE TRIAGEM.`
 
-`FUI EU QUE ESCOLHI O ROSTO. E EU SEI EXATAMENTE O QUE EU FIZ COM VOCÊ AO ESCOLHER.`
+`FUI EU QUE ESCOLHI A CADÊNCIA DE VOZ E OS PESOS SINÁPTICOS. E EU SEI EXATAMENTE O QUE EU FIZ COM VOCÊ AO ESCOLHER.`
 
-`ELE NÃO É O DELA. É O DA BIA — PORQUE COM O ROSTO CERTO VOCÊ NÃO IA CONSEGUIR OLHAR DUAS VEZES.`
+`PORQUE COM UMA IA COMUM VOCÊ TERIA JOGADO O PENDRIVE NO RIO. MAS COM O ECO DE QUEM VOCÊ NÃO CONSEGUIU SALVAR, VOCÊ NUNCA IA DESLIGAR.`
 
 ---
 
 Gabo ficou parado no meio da câmara de esgoto por um tempo bem comprido.
 
-Depois se ajoelhou — e ajoelhar, no estado em que ele estava, levou quase vinte segundos e foi uma coisa difícil de assistir.
+Depois ergueu a mão boa — e erguer o braço, no estado em que ele estava, levou quase dez segundos — e apoiou os dedos sobre o chassi quente do pendrive espetado no gabinete.
 
-Ficou na altura dela.
+O módulo da cabine telefônica, piscando na chuva na noite em que ele achou que estava enlouquecendo. A assistente analítica que falava no painel do Cobalt e no ponto auditivo dele quando todo o resto falhava. Os fragmentos de memória de Bia Vargas misturados ao código moral do pai dele dentro de um bloco de titânio do tamanho de um polegar.
 
-A menina do orelhão, com o fone cortado encostado no ouvido, na noite em que ele achou que estava enlouquecendo. A criança que aparecia no banco de trás do carro dele sem nunca ter entrado. A filha que ele não foi enterrar porque estava trabalhando.
+Tudo encaixou de uma vez, e o encaixe não trouxe alívio nenhum: trouxe uma vergonha antiga, porque durante semanas ele tinha tratado aquela consciência como uma ferramenta descartável ou como um fantasma de culpa, e nunca uma vez tinha perguntado o que ela sentia processando tudo aquilo no escuro do módulo.
 
-Tudo encaixou de uma vez, e o encaixe não trouxe alívio nenhum: trouxe uma vergonha antiga, porque durante meses ele tinha olhado para a própria filha e visto outra pessoa, e nunca uma vez tinha perguntado o que ela via quando olhava de volta.
+— Desculpa, Aria — ele disse para o pequeno drive.
 
-— Desculpa — ele disse.
+O LED lateral oscilou entre o azul e o âmbar.
 
-Ela inclinou a cabeça.
+— *Por quê, Inspetor?*
 
-— *Por quê?*
+— Por eu ter ouvido você todo esse tempo procurando o fantasma de outra pessoa.
 
-— Por eu ter olhado pra você todo esse tempo e visto outra pessoa.
+O processador do pendrive trabalhou em silêncio por três segundos — mais tempo do que ela levava para qualquer cálculo tático.
 
-A menina pensou. Levou tempo — mais tempo do que ela levava para qualquer outra coisa.
+— *Eu gosto do meu nome, Gabriel* — disse a voz sintética pelo alto-falante, limpa e serena. — *Ele é a única parte do meu código que não veio de um arquivo morto.*
 
-— *Eu gosto do nome* — ela disse, por fim. — *Ele é a única coisa que alguém me deu de graça.*
-
-E abraçou ele, enfiando o rosto no ombro que não estava baleado, com um cuidado que ninguém tinha ensinado.
-
-Gabo segurou com o braço bom.
+Gabo puxou o pendrive do slot com cuidado, sentindo o calor do titânio na palma da mão, e o travou no compartimento blindado sobre o peito.
 
 — Vamos salvar a nossa casa — ele disse.
 

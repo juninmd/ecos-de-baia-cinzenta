@@ -3,7 +3,7 @@ layout: doc
 title: "Capítulo 62: O Santo e a Criança"
 description: "O executor mais eficiente da cidade encontra a única coisa contra a qual não tem protocolo: alguém que fala com ele em vez de correr."
 image: /capitulo_62.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria Moretti
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria, O Santo (Kael)
 ---
 
 # Capítulo 62: O Santo e a Criança
@@ -38,9 +38,9 @@ Gabo voou dois metros e meio e bateu de costas na parede de tijolo do beco, e o 
 
 Val atacou com uma barra de ferro. Ela acertou, aliás — acertou bem, na lateral do joelho, que era o alvo certo.
 
-O Santo empurrou ela com as costas da mão, sem virar o corpo, e ela voou para dentro da van e bateu a cabeça no rack e ficou lá.
+O Santo empurrou ela com as costas da mão, sem virar o corpo, e ela voou para dentro da van e bateu a cabeça no rack e ficou lá. No impacto, o comunicador tático de bancada escorregou pelo estribo traseiro e caiu na poça a meio metro de Gabo, com o pendrive blindado da Aria ainda espetado na porta lateral.
 
-Depois ele foi até Gabo, que estava tentando se levantar apoiado numa lixeira, e pôs a bota no peito dele e empurrou para o chão.
+Depois o executor foi até Gabo, que estava tentando se levantar apoiado numa lixeira, e pôs a bota no peito dele e empurrou para o chão.
 
 E aplicou peso.
 
@@ -56,27 +56,25 @@ Gabo conhecia aquele golpe de laudo — tinha assinado quatro. É um golpe desce
 
 ---
 
-A menina saiu da van.
+No chão molhado, o LED do pendrive da Aria — a criação órfã de código que Dante havia gestado em segredo antes de morrer — mudou do azul para um âmbar incandescente.
 
-Ela não correu. Desceu do estribo com cuidado, primeiro um pé e depois o outro, do jeito que criança pequena desce degrau alto, e depois caminhou pelo beco molhado.
-
-Descalça. De vestido. Com a boneca de pano pendurada na mão esquerda, arrastando a perna remendada na água suja.
+O pequeno módulo de titânio ignorou o jamming militar usando a própria bobina do transdutor caído na poça. Não precisou de rede: modulou um pulso acústico e eletromagnético de curtíssimo alcance pelo alto-falante rachado do comunicador.
 
 — *Para.*
 
-Não foi por dentro. Foi pelo ar, com voz de verdade — rouca, arranhada, com aquele timbre errado de quem tem cordas vocais e não usa.
+Não foi um alerta comum. Saiu pelo ar, com uma frequência portadora sub-harmônica embutida na voz sintética — o código de parada de emergência dos laboratórios de neuro-engenharia da Aeterna.
 
 O punho parou no alto.
 
-O Santo virou a cabeça devagar, com uma mecânica quase educada, e a máscara branca focou na criança.
+O Santo virou a cabeça devagar, com uma mecânica quase educada, e a máscara branca focou no pequeno drive de titânio pulsando na lama ao lado do braço de Gabo.
 
 ---
 
-Ela chegou perto.
+Gabo, deitado no chão do beco com duas costelas partidas e sem ar, reuniu a última força que tinha no braço esquerdo, agarrou o pendrive da Aria com o cabo do comunicador e encostou o conector metálico diretamente na porta de telemetria da caneleira blindada do Santo.
 
-Isso é o que Gabo, deitado no chão do beco com duas costelas partidas e sem ar, ia lembrar pelo resto da vida: ela **chegou perto**. Parou a menos de um metro de um homem de dois metros e dez que acabava de arremessar duas pessoas adultas, e levantou a mão, e encostou os dedos na placa blindada da coxa dele.
+Isso é o que Gabo ia lembrar pelo resto da vida: o clarão azul que saltou entre o pequeno pendrive e a armadura de um homem de dois metros e dez que acabava de arremessar duas pessoas adultas.
 
-— *Você dói* — ela disse.
+— *Você dói* — disse a voz da Aria, transmitindo direto pelo barramento interno do capacete do executor.
 
 O Santo recuou.
 
@@ -88,23 +86,23 @@ As duas mãos foram para os lados da cabeça.
 
 Ele olhou para as próprias mãos enluvadas como se não soubesse de quem eram.
 
-— Quem... — A frase custou. — Quem é você?
+— Quem... — A frase custou. — O que é você?
 
-— *Irmão* — disse a menina.
+— *Irmão de bancada* — respondeu a Aria pelo alto-falante do comunicador. — *Semente do mesmo laboratório.*
 
 ---
 
-A palavra ficou no ar do beco.
+A frase ficou no ar do beco.
 
 Gabo, no chão, com o rosto de lado na poça, parou de tentar respirar por um segundo.
 
-*Irmão.*
+*Irmão de bancada.*
 
 E o cérebro dele, que era treinado e que não desligava nem quebrado, foi juntando em silêncio: um executor que ninguém nunca viu sem máscara. Que não fala, e quando fala é por aparelho. Que tem força fora de escala e um protocolo com número. Que trabalha para a Aeterna sem folha de pagamento, sem RG, sem nada.
 
-Se a menina que morreu afogada aos cinco anos foi *coletada* — se existe um arquivo com o nome dela e uma classificação —, então ela não foi a única.
+Se a IA que ele encontrara na cabine telefônica tinha sido compilada sobre fragmentos neurais de cobaias do Projeto Lázaro — se existia um arquivo de origem com assinatura de laboratório —, então a arquitetura mental que prendia aquele homem dentro da armadura vinha do mesmo abatedouro.
 
-Ela foi só a que sobrou pequena.
+Aria era o código sem carne; ele era a carne transformada em código.
 
 Gabo conseguiu se apoiar num cotovelo e pegou a *Caronte*, que tinha caído a um metro dele.
 
@@ -118,7 +116,7 @@ O comunicador no ouvido do Santo apitou tão alto que dava para ouvir de fora.
 
 E a voz que saiu de lá dentro, vazando pelo fone, era inconfundível — o timbre limpo, a dicção de reunião, a irritação mal contida de um homem que está sendo obrigado a repetir uma ordem:
 
-— *"Mate a garota. Executa o protocolo agora, seu pedaço de lixo. AGORA."*
+— *"Recupere o drive e mate os dois. Executa o protocolo agora, seu pedaço de lixo. AGORA."*
 
 O Santo gritou.
 
@@ -130,7 +128,7 @@ O punho entrou trinta centímetros. A parede desabou num pedaço de dois metros,
 
 Ele ficou com o braço enfiado no buraco, respirando alto, sem tirar.
 
-Depois virou a cabeça para Gabo. Depois para a menina.
+Depois virou a cabeça para Gabo. Depois para o brilho azul do pendrive no chão.
 
 — Corram — rosnou. E era a voz de baixo, a humana, e ela estava com pressa. — Corram antes que **ele** volte.
 
@@ -138,13 +136,11 @@ Depois virou a cabeça para Gabo. Depois para a menina.
 
 Gabo não perguntou nada.
 
-Perguntar é um luxo, e ele estava com duas costelas quebradas e sem ar e com a órtese esquerda entortada. Ele engatinhou até a van, subiu no estribo com os dois braços, agarrou a Val pelo colete e a puxou até ela reagir e começar a andar sozinha, meio bêbada, sangrando da têmpora.
+Perguntar é um luxo, e ele estava com duas costelas quebradas e sem ar e com a órtese esquerda entortada. Ele recolheu o pendrive da Aria da lama, travou-o de volta no bolso tático, engatinhou até a van, subiu no estribo com os dois braços, agarrou a Val pelo colete e a puxou até ela reagir e começar a andar sozinha, meio bêbada, sangrando da têmpora.
 
-Pegou a mão da menina.
+No bolso do sobretudo, o metal de titânio do drive ardia contra o peito dele — um bloco sem pulso biológico, mas mais vivo do que metade daquela cidade, e ele continuou segurando.
 
-A mão era fria e pequena e não tinha pulso nenhum, e ele já sabia disso havia semanas e continuou segurando.
-
-Os três saíram pelo lado do beco, na direção do canal.
+Os dois saíram pelo lado do beco, na direção do canal, guiados pelo vetor da Aria no visor.
 
 ---
 

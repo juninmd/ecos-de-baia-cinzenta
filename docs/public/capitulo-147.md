@@ -1,21 +1,59 @@
----
-image: /capitulo_147.jpg
----
-# Metadados
+## Metadados
 - **Título:** O Peso do Ar
-- **Data In-Game:** Pós-Colapso da Usina Prometeu
-- **Localização:** Subníveis da Aeterna Corp
-- **Personagens Presentes:** Gabo, Valéria, Aria (e Rangel até o 150)
-- **Resumo:** O grupo avança pelo corredor de descontaminação do Subnível 6.0. Gabo continua a lutar contra o choque hipovolêmico e fortes alucinações olfativas de fumaça, usando a dor física de suas mãos feridas como âncora de sanidade. O avanço é detido por uma câmara de despressurização travada por ferrugem. Aria sugere friamente abandonar Rangel, cuja falência hepática é iminente, pois o duto de ventilação alternativo é estreito demais. Gabo recusa a lógica utilitária, e Valéria se voluntaria para escalar o duto e abrir a porta por dentro.
+- **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
+- **Localização:** Necrópole (Subnível 6.0 - Corredor de Descontaminação / Avanço)
+- **Personagens Presentes:** Gabo, Valéria, Aria (Reboot), Rangel (Inconsciente)
+- **Resumo:** O grupo avança pelo corredor de descontaminação do Subnível 6.0, um túnel sufocante de azulejos encardidos e luzes falhas. Gabo, lutando contra a perda de sangue e o choque hipovolêmico, usa a dor física de suas mãos em carne viva para ancorar sua mente na realidade e espantar as alucinações persistentes de fumaça de cigarro que o atormentam. A tensão cresce quando eles encontram uma câmara de pressão travada. Aria, operando a partir de seu pendrive blindado no deck de Valéria, analisa a situação com frieza matemática, reiterando que Rangel é um peso morto. A teimosia de Gabo em salvar o inspetor força o grupo a buscar uma solução alternativa arriscada no sistema de ventilação saturado, desafiando a lógica estéril de sua aliada digital.
 
-# Narrativa
+## Narrativa
 
 # Capítulo 147: O Peso do Ar
 
-O ambiente ao redor exalava o fedor acre de ozônio e ferrugem, marcas inegáveis do subsolo profundo da Aeterna Corp.
+O corredor de descontaminação estendia-se diante deles como o esôfago de um leviatã metálico morto. As paredes, revestidas de polímeros que haviam assumido uma cor doentia de mostarda sob as raras e falhas lâmpadas de emergência, pareciam suar uma umidade espessa e oleosa. O silêncio absoluto do local era perturbado apenas pela respiração áspera de Gabo, o chiado superficial de Rangel e os bipes analíticos e invariavelmente rítmicos do pendrive de Aria acoplado ao deck de Valéria.
 
-O grupo avança pelo corredor de descontaminação do Subnível 6.0. Gabo continua a lutar contra o choque hipovolêmico e fortes alucinações olfativas de fumaça, usando a dor física de suas mãos feridas como âncora de sanidade. O avanço é detido por uma câmara de despressurização travada por ferrugem. Aria sugere friamente abandonar Rangel, cuja falência hepática é iminente, pois o duto de ventilação alternativo é estreito demais. Gabo recusa a lógica utilitária, e Valéria se voluntaria para escalar o duto e abrir a porta por dentro.
+Gabo arrastava Rangel com o braço esquerdo, o único cuja palma ainda respondia aos seus comandos com alguma eficiência, apesar do corte recém-amarrado no antebraço. O peso do inspetor, agravado pela febre e pela sepse que o consumia, ameaçava arrastá-los para o chão a cada passo. Gabo sentia o latejar surdo da sangria exigida pela biometria da eclusa, uma lembrança constante do sacrifício que os trouxera até ali.
 
-Gabo avançou, sentindo o ar pesado e químico. Uma náusea súbita subiu à sua garganta, trazendo consigo a ilusão nauseante da fumaça de cigarro, um resquício fantasma do escritório de seu pai. Para ancorar sua mente fragmentada na realidade imediata, ele forçou as costas de sua mão ferida contra uma viga de aço oxidada. A dor excruciante cortou a alucinação, trazendo clareza e banindo a fumaça de seus pulmões.
+Mas o que realmente o esgotava não era a perda de sangue, embora as bordas de sua visão escurecessem em pulsos rítmicos, sincronizados com os batimentos erráticos do próprio coração. O que o corroía por dentro era o ar.
 
-Aria observava com uma frieza sintética, calculando cada movimento, enquanto Valéria tentava encontrar um caminho seguro entre os destroços corporativos.
+O ar naquele corredor não era apenas rarefeito; era denso, carregado com o cheiro residual de décadas de abandono, poeira de ossos e um odor químico sutil de formol. E para Gabo, esse coquetel olfativo era um gatilho perverso. O cheiro asséptico disparou novamente a memória vívida do necrotério anos atrás. Onde quer que olhasse, as sombras bruxuleantes pareciam formar a silhueta do legista, envolto em uma nuvem opressiva de fumaça de cigarro barato.
+
+A fumaça fantasma enchia suas narinas, descendo pela garganta, provocando uma náusea visceral e asfixiante. Ele odiava cigarro. Odiava a forma como o cheiro se impregnava nas roupas, como representava a fraqueza, o vício, a lenta decomposição de quem o consumia. Era o cheiro da morte lenta e negligente, a marca registrada de tragédias que não puderam ser evitadas. O estômago de Gabo se contorceu, e ele teve que engolir em seco para não vomitar a bile azeda que subia pela garganta.
+
+Para dissipar a nuvem ilusória, ele precisava de um choque de realidade. Gabo apertou com força a alça do colete de Rangel com a mão direita, a mesma que estava em carne viva devido à escalada no poço de ventilação. A dor foi imediata e lancinante. As terminações nervosas queimaram como se fossem banhadas em ácido. Ele soltou um grunhido gutural, fechando os olhos por uma fração de segundo. A dor era um clarão que varria as sombras. A agonia física era real, afiada e crua, e era a única coisa capaz de ancorá-lo no presente, esmagando a alucinação sufocante.
+
+— Gabo... — Valéria murmurou, caminhando ao seu lado, segurando a outra metade do peso de Rangel. Seus olhos cibernéticos brilhavam fracamente na penumbra. — Você tá pálido demais. Se continuar perdendo sangue assim...
+
+— Eu... tô bem, — ele sibilou por entre os dentes semicerrados, concentrando-se em colocar um pé na frente do outro. — Foca na frente. O que tem... lá na frente?
+
+Valéria ergueu o braço livre, apontando os sensores do *Phantom V3* e o LED azul-gelo do drive de Aria para um enorme portal de metal que bloqueava o fim do corredor. O portal era adornado com símbolos desbotados de risco biológico e uma roda de travamento manual que parecia soldada pela ferrugem.
+
+— *O obstáculo à frente é uma Câmara de Despressurização Secundária,* — a voz sintética de Aria ecoou pelo comunicador, destituída de qualquer emoção, apenas informando os dados crus captados pelo scanner do deck. — *O selo hermético está comprometido, mas a trava de segurança primária permanece engajada devido à corrosão severa.*
+
+Valéria soltou Rangel delicadamente, deixando Gabo apoiar o inspetor contra a parede amarela. Ela se aproximou da porta pesada, inspecionou a roda de travamento e espetou o pendrive de Aria na fenda de diagnóstico ao lado do batente. O LED azul piscou rapidamente e apagou para um tom estável.
+— Merda... tá travada no ferro mesmo. Nem a Aria consegue forçar daqui, o atuador elétrico nem existe mais; é puramente mecânico do lado de lá. E a ferrugem fundiu o eixo central.
+
+Gabo apoiou as mãos nos joelhos, tentando estabilizar a respiração ofegante, sentindo a tontura voltar com força. O cheiro de fumaça retornou, rastejando pelas beiradas de sua consciência. Ele cerrou o punho machucado novamente, buscando a clareza da dor.
+— Tem... que ter... um jeito de abrir.
+
+— *A análise estrutural indica que a força necessária para romper o selo mecânico por este lado é superior à capacidade física combinada de vocês no estado atual,* — Aria informou pelo alto-falante, enquanto Valéria recolocava o pendrive no cyberdeck e iluminava o teto. — *Há uma via alternativa. Acima de nós, o sistema de ventilação auxiliar conecta este corredor diretamente à câmara de tratamento adjacente.*
+
+O feixe laser do deck de Valéria destacou uma grade de exaustão corroída presa ao teto, cerca de três metros acima do chão.
+— *Contudo,* — a IA continuou, seu tom impessoal cortando o silêncio opressivo. — *A grade possui quarenta e cinco centímetros de diâmetro. O duto é estreito e a integridade estrutural das chapas é duvidosa.*
+
+Valéria olhou para cima, avaliando a distância.
+— Eu posso subir e tentar soltar a trava da porta pelo outro lado. Mas... e o Rangel? Se a porta não abrir por lá, como a gente vai içar ele?
+
+No pulso de Valéria, o LED de Aria pulsou frio enquanto os biossensores do deck liam a frequência cardíaca quase inaudível do inspetor encostado na parede.
+— *A passagem de um indivíduo da massa corporal dele, em estado de inconsciência, por aquele duto é logisticamente inviável,* — a IA concluiu friamente. — *Adicionalmente, os sinais vitais do sujeito Rangel indicam falência hepática incipiente. Sua utilidade tática é zero, e sua carga logística é crítica. A probabilidade de sobrevivência do grupo aumenta exponencialmente se ele for descartado aqui.*
+
+O silêncio que se seguiu foi pesado como chumbo. A lógica de Aria era matemática, impecável e absolutamente aterradora em sua eficiência pragmática. Valéria olhou para o pequeno drive de titânio e polímero negro em seu pulso como se o componente fosse radioativo.
+
+Gabo ergueu a cabeça, o olhar faiscando de raiva contida. A tontura recuou por um instante, substituída por um ódio gélido.
+— A gente não... vai descartar ninguém, — ele rosnou para o microfone na gola, a voz rouca e firme, rejeitando a equação da máquina. — A gente carrega os nossos.
+
+— *Uma decisão irracional, baseada em protocolos emocionais falhos,* — Aria rebateu pelo fone, sem tom de julgamento, apenas constatação. — *Se prosseguirem com a carga morta, o choque hipovolêmico de Gabo será inevitável antes que alcancem o próximo ponto de oxigenação. Vocês morrerão por uma causa estatisticamente nula.*
+
+Gabo ignorou a análise. Ele olhou para Valéria.
+— Val... eu te dou apoio pra você alcançar a grade. Você sobe com a Aria no deck, acha a trava do outro lado e solta o pino. Eu fico aqui e forço a porta pela fenda quando você destravar.
+
+Valéria hesitou, olhando entre a determinação insana de Gabo e o brilho glacial do pendrive de Aria. Mas ela conhecia Gabo; sabia que ele preferiria morrer naquele corredor a abandonar Rangel à própria sorte para se salvar. Ela assentiu, os olhos cibernéticos adquirindo um brilho de determinação obstinada. A sobrevivência exigia que desafiassem a matemática.

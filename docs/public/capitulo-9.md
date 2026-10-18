@@ -1,5 +1,6 @@
 ---
 image: /capitulo_9.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Kiko Vibe, Aria Moretti
 ---
 # Capítulo 9: Feed Infinito
 
@@ -51,7 +52,7 @@ Um som de tranca pesada ecoou na porta do elevador. As janelas, feitas de polím
 
 — Aria, destranque a porta! — gritou Gabriel.
 
-— *Acesso negado,* — respondeu a menina digital, sua voz falhando. — *O firewall é físico. Alguém cortou a linha de dados externa. Estamos ilhados.*
+— *Acesso negado,* — respondeu a assistente de IA a partir do pendrive espetado no deck de Valéria, o LED piscando em âmbar. — *O firewall é físico. Alguém cortou a linha de dados externa. Estamos ilhados.*
 
 — Saída de incêndio? — Gabriel cobriu o rosto com a gola.
 

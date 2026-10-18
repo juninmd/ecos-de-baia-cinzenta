@@ -22,7 +22,7 @@ As paredes de concreto do bunker original ainda estavam lá, e por cima delas cr
 
 A maca tinha ficado nos primeiros vinte degraus, com as rodas destruídas.
 
-Gabo e Val carregavam o servidor no braço, cada um numa alça, descendo de lado.
+Gabo e Val carregavam o berço de baterias com o pendrive da Aria acoplado, cada um numa alça, descendo de lado.
 
 ---
 
@@ -30,7 +30,7 @@ Gabo e Val carregavam o servidor no braço, cada um numa alça, descendo de lado
 
 Val parou no meio de um lance.
 
-Ela largou a alça devagar, apoiou o servidor no degrau e ficou olhando para o próprio pulso esquerdo.
+Ela largou a alça devagar, apoiou o berço de carga no degrau e ficou olhando para o próprio pulso esquerdo.
 
 Havia uma flor ali.
 
@@ -102,9 +102,9 @@ Ele tirou o caderno do bolso, ali mesmo, no degrau, com uma coisa descendo pelo 
 
 ---
 
-Ele levantou o servidor sozinho.
+Ele destacou o pendrive blindado de titânio da Aria do berço pesado, guardou-o no bolso tático sobre o peito e levantou o módulo de descarga sozinho.
 
-Cinquenta e um quilos, com uma alça, com o ombro direito destruído e o braço esquerdo pela metade. Ele levantou porque não havia alternativa, e cambaleou os últimos quarenta degraus, e no fim já não estava carregando: estava caindo para a frente devagar e colocando o pé na frente para não chegar ao chão.
+Trinta e oito quilos de bateria e condensador numa alça só, com o pendrive da Aria aquecendo contra as costelas, o ombro direito destruído e o braço esquerdo pela metade. Ele levantou porque não havia alternativa, e cambaleou os últimos quarenta degraus, e no fim já não estava carregando: estava caindo para a frente devagar e colocando o pé na frente para não chegar ao chão.
 
 Atrás dele, os tiros da Val começaram.
 
@@ -136,7 +136,7 @@ A voz não veio da boca. Veio das paredes, do chão, do tronco, e de dentro do p
 
 ---
 
-— Trouxe a cura — disse Gabo, e largou o servidor no chão, e o baque ecoou.
+— Trouxe a cura — disse Gabo, arriando a bateria de pulso no chão e sacando do bolso o pendrive de titânio fosco da Aria, cujo LED pulsava em azul e âmbar.
 
 O homem-árvore riu, e a risada fez a luz do tronco acelerar.
 
@@ -168,9 +168,9 @@ Ele olhou o pai por uns três segundos e depois desviou, porque olhar mais tempo
 
 — **Escolha é um mecanismo de sofrimento.**
 
-— Escolha é a única coisa que a gente tem. — Gabo se abaixou e abriu a tampa do servidor. — Você não curou a morte, doutor. Você fez uma coisa muito mais simples e muito mais velha: você achou que sabia o que era melhor para todo mundo, e teve poder suficiente para não ter que perguntar.
+— Escolha é a única coisa que a gente tem. — Gabo se abaixou ao lado da base do tronco e acionou a trava do conector retrátil do pendrive de titânio. — Você não curou a morte, doutor. Você fez uma coisa muito mais simples e muito mais velha: você achou que sabia o que era melhor para todo mundo, e teve poder suficiente para não ter que perguntar.
 
-Ele puxou o cabo de conexão.
+Ele acoplou o cabo da bateria de pulso à traseira do drive blindado.
 
 — Isso aqui não é um jardim. É um homem que não aceitou ouvir não.
 
@@ -178,8 +178,8 @@ Ele puxou o cabo de conexão.
 
 — Não.
 
-Ele encaixou o conector na porta de acesso da base do tronco.
+Ele espetou o pendrive da Aria diretamente na porta de interface neural na base do tronco da Árvore-Mãe.
 
-E, dentro da caixa preta, alguma coisa que já tinha se chamado Aria acordou pela última vez.
+E, dentro do pequeno cilindro de titânio e polímero negro, a IA tática que o acompanhava desde a cabine telefônica acordou pela última vez.
 
 — Agora.

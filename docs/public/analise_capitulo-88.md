@@ -7,15 +7,15 @@
 
 ## Pontos Fortes e Fracos
 **Fortes:**
-- O texto incorpora de forma excelente o luto de Gabo por Aria (sua irmã cibernética/clonada).
-- O uso da dor física nas pernas amputadas/com órteses para ancorar a lucidez mental contra as alucinações (delírio botânico).
+- O texto incorpora de forma excelente a sobrecarga neural compartilhada entre Gabo e o pendrive de titânio da Aria no berço de contenção.
+- O uso da dor física nas pernas com órteses para ancorar a lucidez mental contra a pressão psíquica do Jardim.
 
 **Fracos:**
-- A voz de Aria saindo da "caixa de som do servidor" pode parecer confusa já que Gabo está falando ao mesmo tempo, mas como representação do delírio mental dele, funciona.
+- A voz saindo simultaneamente do alto-falante do berço de contenção e da garganta de Gabo exige leitura atenta, mas funciona muito bem como sintoma da paginação neural.
 
 ## Sanity Check
 - [x] O trauma/aversão fóbica de Gabo a fumo está respeitado? Sim, sem gatilhos para fumo.
-- [x] A temporalidade das personagens está correta? Sim. Aria referida corretamente como irmã.
+- [x] A temporalidade das personagens está correta? Sim. Aria mantida no pendrive de titânio acoplado ao berço de contenção.
 - [x] A história é coerente? Sim.
 - [x] Não contém mocks? Sim.
 

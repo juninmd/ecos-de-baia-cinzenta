@@ -36,7 +36,7 @@ Ela olhava para o suporte vital destruído. Depois, para mim.
 
 — Eles não vão herdar nada — murmurei, minha voz soando áspera como lixa. A dor nos braços pulsava no ritmo do meu coração. — A Aeterna, meu pai... o Taxidermista. Não vamos tentar hackear. Não vamos usar. Nós só vamos queimar.
 
-Valéria não discutiu. Ela havia visto Rangel virar peso morto em uma passarela oxidada. Ela havia visto Aria — ou o fantasma de Bia que a habitava — fritar o próprio núcleo lógico para calar um gigante de metal. Ela sabia que não havia tesouro no fim daquele labirinto corporativo, apenas mais ferramentas de escravidão.
+Valéria não discutiu. Ela havia visto Rangel virar peso morto em uma passarela oxidada. Ela havia visto o componente tipo pendrive de Aria — com os ecos de Bia que o habitavam — derreter e fritar o próprio núcleo lógico na porta do terminal para calar um gigante de metal. Ela sabia que não havia tesouro no fim daquele labirinto corporativo, apenas mais ferramentas de escravidão.
 
 — E agora? — ela perguntou, desencostando-se do pilar. Sua postura carregava uma fadiga que ia além dos músculos. Era a fadiga que fica embaixo da alma. — O servidor mestre está mudo. Não há dados, não há IA. O que nós fazemos?
 

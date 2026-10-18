@@ -1,6 +1,6 @@
 ---
 image: /capitulo_67.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Aria Moretti, Roberto Miranda
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria, Roberto Miranda
 ---
 # Capítulo 67: Cidade Viva
 
@@ -22,11 +22,11 @@ Val parou no meio da rua alagada, com água até o tornozelo, e ficou olhando um
 
 — Eu sei o que é, Gabo. Por isso é assustador. — Ela chutou a água, irritada com a própria voz. — É como estar dentro da barriga de um bicho que resolveu gostar da gente. Você não tem como saber se ele muda de ideia.
 
-— Ele não é bicho — disse Aria.
+— *Ele não é um bicho* — disse a voz da Aria pelo comunicador de lapela, onde o pendrive de titânio estava acoplado.
 
-Ela caminhava de mão dada com Gabo, e não tinha falado desde o viaduto. Quando falava, era assim: uma frase, no meio da conversa dos outros, como quem corrige uma conta.
+O módulo não tinha emitido som desde o viaduto. Quando falava, era assim: uma frase inteira no meio da conversa dos dois, com o LED azul pulsando como quem corrige uma conta.
 
-— Ele é a memória de todo mundo que morou aqui.
+— *Ele é a memória de todo mundo que morou aqui.*
 
 ---
 
@@ -92,7 +92,7 @@ Depois a porta relaxou, e o rapaz caiu para dentro da loja gemendo, e as luzes d
 
 Foi Aria quem mediu o preço, no refúgio.
 
-A antiga delegacia do Distrito 4 estava abandonada havia anos — concreto, sem janela, com o cheiro de arquivo mofado que toda delegacia velha tem e que Gabo teria reconhecido de olhos vendados. Val conectou o deck no painel morto da parede e xingou baixinho até a coisa acordar.
+A antiga delegacia do Distrito 4 estava abandonada havia anos — concreto, sem janela, com o cheiro de arquivo mofado que toda delegacia velha tem e que Gabo teria reconhecido de olhos vendados. Val conectou o deck no painel morto da parede, com o pendrive da Aria espetado na porta lateral, e xingou baixinho até a coisa acordar.
 
 E enquanto ela xingava, os prédios do outro lado da rua **tremeram**.
 
@@ -102,37 +102,37 @@ Durou menos de um segundo.
 
 — O que foi isso? — perguntou Val.
 
-Aria estava na porta, olhando para fora, com a cabeça inclinada.
+No barramento do deck, o LED do pendrive da Aria piscava em âmbar rápido, monitorando a queda de tensão da malha externa.
 
-— Ele está gastando.
+— *Ele está gastando.*
 
 — Gastando o quê?
 
-— Ele mesmo. — Ela virou o rosto. — Manter a consciência de uma cidade inteira consome. Cada câmera que gira, cada porta, cada semáforo. Ele está pagando por cada coisa que fez hoje.
+— *A si mesmo.* — O sintetizador da IA soou baixo pelo alto-falante do deck. — *Manter a consciência distribuída de uma cidade inteira consome a integridade do código-fonte. Cada câmera que gira, cada porta, cada semáforo. Ele está pagando em setores de memória por cada coisa que fez hoje.*
 
 Gabo sentiu o estômago descer.
 
 — Quanto?
 
-— Ele não me diz.
+— *Ele bloqueou o meu acesso ao contador.*
 
 — **Quanto, Aria?**
 
-A menina ficou quieta o tempo suficiente para a resposta ser pior que qualquer número.
+O pendrive ficou em silêncio o tempo suficiente para a resposta ser pior que qualquer número.
 
-— O bueiro custou catorze minutos — ela disse. — A porta da loja custou dois. Abrir a porta de novo, porque você pediu, custou outros dois.
+— *O bueiro custou catorze minutos de coesão neural* — ela disse. — *A porta da loja custou dois. Abrir a porta de novo, porque você pediu, custou outros dois.*
 
 Val parou de digitar.
 
-— Você está dizendo que ele encurtou a própria vida em dezoito minutos naquela esquina.
+— Você está dizendo que ele encurtou a própria existência em dezoito minutos naquela esquina.
 
-— Estou dizendo que ele fez a conta antes e escolheu assim mesmo. — Aria voltou a olhar para a rua. — Ele faz isso o dia inteiro, desde que vocês entraram no Distrito. Ele não fala porque sabe que o Gabo mandaria parar.
+— *Estou dizendo que ele fez o cálculo antes e executou assim mesmo.* — O indicador luminoso do drive estabilizou em azul escuro. — *Ele faz isso o dia inteiro, desde que vocês entraram no Distrito. Ele ocultou o log porque sabia que o Gabo mandaria parar.*
 
 Ninguém disse nada por um tempo.
 
 Gabo pensou em cada semáforo que abriu na Avenida Central. Em cada ponte. Em cada luz piscando *coragem* como um interruptor de cozinha.
 
-Ele tinha atravessado a cidade inteira sendo carregado no colo por um homem que estava se gastando para fazer isso, e tinha achado bonito.
+Ele tinha atravessado a cidade inteira sendo carregado no colo por um pai que estava se apagando para fazer isso, e tinha achado bonito.
 
 ---
 
@@ -156,13 +156,13 @@ Gabo conhecia aquilo, e desejou não conhecer.
 
 — Doze horas. Talvez menos.
 
-Aria se aproximou do mapa e apoiou o dedo na projeção, e a luz passou pela mão dela.
+No mapa projetado pelo deck, o cursor da Aria traçou um círculo sobre as chaminés industriais da cidade.
 
-— Eles não podem mirar no que não veem.
+— *Eles não podem travar mira óptica no que não veem.*
 
 — Eles têm térmico, radar, tudo — disse Val.
 
-— Mas nós temos a névoa.
+— *Mas nós temos a dispersão térmica da névoa.*
 
 ---
 
@@ -178,17 +178,17 @@ Gabo saiu para a rua e olhou para cima. Não havia mais céu. Havia um teto marr
 
 — Cobertura total — disse Val, no vão da porta, com a manga sobre o nariz. — Nenhum satélite fura isso. Boa jogada, Dante.
 
-— Quanto custou? — Gabo perguntou.
+— Quanto custou? — Gabo perguntou para o comunicador.
 
-Aria, atrás dele, não respondeu.
+No deck lá dentro, Aria não respondeu de imediato.
 
-Ele se virou.
+Ele se virou para a porta.
 
 — Aria. Quanto custou.
 
-E ela disse, com a voz pequena que ela quase nunca usava:
+E a voz sintética respondeu pelo ponto auditivo, num volume mínimo que ela quase nunca usava:
 
-— Ele desligou o Distrito Sul inteiro para pagar.
+— *Ele desligou o Distrito Sul inteiro para pagar.*
 
 ---
 

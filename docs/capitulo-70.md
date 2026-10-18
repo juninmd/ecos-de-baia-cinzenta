@@ -1,6 +1,6 @@
 ---
 image: /capitulo_70.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, O Taxidermista, Marco Moretti, Aria Moretti, Kael "O Cirurgião", Dante Moretti
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, O Taxidermista, Marco Moretti, Aria, Kael "O Cirurgião", Dante Moretti
 ---
 # Capítulo 70: O Expurgo
 
@@ -36,13 +36,13 @@ Contagem regressiva iniciada.
 
 **Baía Cinzenta - Túneis de Acesso à Torre**
 
-Gabo, Val e Aria corriam. Os pés chapinhando em água de esgoto até os tornozelos. O ar fétido queimando os pulmões. O tempo escorrendo entre os dedos como areia radioativa.
+Gabo e Val corriam, com o pendrive da Aria acoplado ao comunicador tático no peito do inspetor. Os pés chapinhavam em água de esgoto até os tornozelos. O ar fétido queimava os pulmões. O tempo escorria entre os dedos como areia radioativa.
 
 Val monitorava a contagem regressiva em seu deck, o dispositivo amarrado ao braço com fita isolante e desespero.
 
 — Temos quarenta minutos até o primeiro impacto — disse ela, a voz tensa mas controlada. A luz do display iluminava seu rosto de baixo, criando sombras que a faziam parecer um fantasma. — O alvo primário é a Represa. Se eles quebrarem a represa de cima, a onda vai varrer tudo o que sobrou da cidade baixa.
 
-— Eu sei — disse Gabo, consultando o mapa que Dante havia baixado em seu visor antes de... antes de tudo. — Estamos perto da entrada secreta.
+— Eu sei — disse Gabo, consultando o mapa que Dante e Aria haviam baixado em seu visor antes de deixarem a câmara de manutenção. — Estamos perto da entrada secreta.
 
 O túnel terminava abruptamente em uma parede de tijolos antiga — construção do século passado, anterior à fundação da Aeterna. Tijolos vermelhos desbotados para marrom, argamassa esfarelando-se como ossos velhos.
 
@@ -80,7 +80,7 @@ Ela raspou uma amostra com a unha, analisou no scanner do seu deck.
 
 Saindo das sombras além das estátuas, caminhando com a elegância perturbadora de um predador em seu habitat natural, estava o Taxidermista.
 
-Gabo ergueu a escopeta. Aria recuou, posicionando-se atrás dele. Val sacou sua pistola de pulso.
+Gabo ergueu a escopeta. Na lapela dele, o LED da Aria piscou em alerta vermelho, travando a telemetria de mira. Val sacou sua pistola de pulso.
 
 Mas o assassino que aterrorizara Baía Cinzenta por anos não parecia interessado em atacar. Ele... evoluíra.
 
@@ -118,15 +118,15 @@ Eles passaram pelo serial killer e correram em direção ao elevador de carga, d
 
 Dentro do elevador — uma cabine industrial grande o suficiente para carregar veículos —, o silêncio era opressor. O único som era o zumbido dos cabos de aço e a respiração pesada de Gabo.
 
-Aria quebrou o silêncio.
+Pelo alto-falante do comunicador, a voz da Aria quebrou o silêncio.
 
-— O Santo está lá embaixo. — Sua voz era suave, quase um sussurro, mas carregava um peso que fez o ar parecer mais denso. — E ele está sofrendo.
+— *O Santo está lá embaixo.* — O tom sintético era baixo, quase um sussurro, enquanto o pendrive de titânio lia os sinais vitais pelos cabos do poço do elevador. — *E a telemetria neural dele indica sofrimento extremo.*
 
-Gabo olhou para ela. A menina olhava para o chão do elevador, mas seus olhos heterocromáticos estavam desfocados, vendo algo além do metal e da luz.
+Gabo olhou para o pequeno módulo acoplado ao colete, onde o LED oscilava entre o azul elétrico e o âmbar dourado.
 
 — Ele é uma máquina, Aria. Máquinas não sofrem.
 
-— Não — disse ela, e havia uma tristeza antiga em sua voz que não pertencia a uma criança. — Ele é um homem. Um homem que não pode morrer. Um homem que foi obrigado a viver quando tudo o que ele queria era descansar.
+— *Não* — respondeu a IA, com uma gravidade antiga em sua modulação de voz. — *Há dois padrões humanos presos no córtex dele. Um homem que não pode morrer. Um homem que foi obrigado a continuar operando quando tudo o que restava dele pedia desligamento.*
 
 O elevador parou. O display marcava: **HUB DE COMUNICAÇÕES - NÍVEL CENTRAL**.
 

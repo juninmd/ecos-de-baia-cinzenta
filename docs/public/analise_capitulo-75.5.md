@@ -6,8 +6,8 @@
 - **Atmosfera:** 10/10. O contraste entre o jardim botânico artificial da Aeterna (uma bolha de normalidade) e a melancolia opressora do presente é descrito brilhantemente.
 
 ## Pontos Fortes e Fracos
-- **Pontos Fortes:** A conexão direta da fobia e da perda de Gabo com Dante e Elena/Bia. O flashback fortalece dramaticamente a empatia pelo protagonista. A revelação dolorosa de Aria percebendo que as memórias que ela vivencia são de Gabo — e a consequente dúvida existencial ("E se eu for apenas a filha que você perdeu?") — eleva o horror digital.
-- **Pontos Fracos:** O uso do termo "filha que ele perdeu e se recusava a enterrar" poderia ser mais claro se Elena for a filha e Bia a esposa. Contudo, emocionalmente, o peso se mantém consistente com a narrativa de perda e negação de Gabo.
+- **Pontos Fortes:** A conexão direta da fobia e da perda de Gabo com Dante e Bia. O flashback fortalece dramaticamente a empatia pelo protagonista. O fechamento no presente, com Aria processando os fragmentos sinápticos residuais de Bia dentro do pendrive de titânio acoplado ao deck de Valéria, amarra perfeitamente a origem ética da IA.
+- **Pontos Fracos:** A transição abrupta do casamento para a vigília chuvosa exige atenção do leitor, mas o contraste emocional se mantém consistente com a narrativa de perda de Gabo.
 
 ## Sanity Check
 - **Gabo interagiu com algum fumante? Como sua repulsa foi demonstrada?** Sim. O pai de Gabo (Dante) fuma charutos. O capítulo é um flashback de 8 anos atrás, antes do evento traumático central que consolidou a repulsa paralisante e o trauma de Gabo. A citação estabelece a raiz dessa associação olfativa. Nenhuma quebra da restrição da fobia contemporânea, visto que o Gabo do presente usa essa exata memória (o cheiro do charuto) como gatilho de terror.

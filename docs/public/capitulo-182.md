@@ -1,44 +1,36 @@
 ---
-image: /capitulo_182.jpg
+Título: A Superfície Pálida
+Data In-Game: Indeterminada (Pós-Colapso da Aeterna)
+Localização: Distrito 4 (Superfície)
+Personagens Presentes: Gabo, Valéria
 ---
-# Metadados
-- **Título:** A Superfície Pálida
-- **Data In-Game:** Pós-Colapso do Sentinel (Noite Eterna)
-- **Localização:** Superfície do Distrito 4
-- **Personagens Presentes:** Gabo, Valéria
-
-# Narrativa
 
 # Capítulo 182: A Superfície Pálida
 
-O duto secundário desembocou em uma grade oxidada que pesava meia tonelada. Gabo não perdeu tempo procurando a trava. Ele cravou os ganchos da pesada prótese industrial entre as barras de ferro e acionou a força hidráulica contínua.
+O corredor ascendente fedia a ferrugem antiga e urina ressecada, mas à medida que subíamos, o ar se tornava mais ralo e agressivo. A umidade sufocante do duto de escoamento foi substituída pelo toque áspero do vento carregado de toxinas. O som contínuo dos meus passos era pontuado pelo chiado errático dos servos do meu braço protético, um lembrete constante da sucata que eu me tornara.
 
-As veias do seu pescoço saltaram. O metal chorou e rasgou, cedendo ao peso brutal do braço não calibrado de Vasco. A grade desabou na lama, e Gabo caiu de joelhos na abertura, engolindo lufadas do ar da superfície.
+Quando finalmente cruzamos a grade retorcida que marcava o fim do túnel, o céu do Distrito 4 se abriu sobre nós como um hematoma putrefato. As nuvens não eram apenas cinzas; carregavam um matiz ocre e doentio, iluminadas pelas raras descargas elétricas estáticas que cortavam o smog. A "Superfície Pálida", como o Fantasma havia chamado.
 
-Eles haviam deixado o subterrâneo, mas a paisagem à frente não oferecia consolo.
+Parei, apoiando a mão esquerda — a orgânica, a que ainda tremia de frio e exaustão — em um pilar de concreto esboroado. A chuva ácida não estava caindo, mas a garoa venenosa deixava uma camada escorregadia sobre tudo. O horizonte não revelava a imponência predatória das torres de vidro da Aeterna Corp; aqui, era uma planície de escombros industriais, carcaças de veículos enferrujados e esqueletos de prédios que nunca terminaram de ser construídos.
 
-A superfície do Distrito 4 sob a Noite Eterna era uma ferida aberta. Prédios semi-desmoronados erguiam-se como dentes quebrados contra o céu nublado e doente. A chuva ácida havia dado trégua, deixando no lugar um ar espesso, carregado com uma fuligem cinzenta e tóxica que cobria tudo feito neve podre.
+— Análise atmosférica: concentração de dióxido de enxofre 42% acima do limite respiratório seguro a longo prazo. Risco de corrosão exposta aos tecidos orgânicos: elevado. — A voz de Valéria cortou o vento, plana, desprovida de qualquer aflição. Seus olhos azuis, frios como o núcleo de um reator inativo, varreram a desolação sem um pingo de remorso. — Recomendo minimização de exposição corporal e busca imediata de abrigo tático.
 
-Assim que a brisa morna soprou a fuligem no rosto de Gabo, o pânico o agarrou pela garganta.
+— Dá um tempo, Val — murmurei, os dentes trincados contra o gosto amargo de ozônio na língua.
 
-A fuligem não tinha o cheiro de cinzas de concreto. Para as sinapses mutiladas do detetive, a névoa transformou-se num véu espesso do charuto encorpado de Dante Moretti. Era a cabine do carro trancado de novo. As portas seladas. A fumaça entupindo cada poro do seu corpo, enquanto o isqueiro estalava em um escárnio calmo.
+Súbito, o cheiro de ozônio distorceu-se. O ar ficou pesado, denso. A fumaça invisível e ardente de um charuto barato rasgou minhas narinas, descendo pela garganta como alcatrão quente. O espectro do meu pai, sempre à espreita nos momentos de vulnerabilidade. Senti os pulmões falharem. O pânico de não conseguir respirar agarrou meu peito.
 
-Gabo arregalou os olhos. Seus pulmões entraram em colapso reflexivo. Ele arfou, incapaz de sugar qualquer oxigênio, as mãos escorregando na lama úmida da borda do duto.
+Antes que a escuridão pudesse tomar minha visão periférica, comandei o braço direito. O cilindro pneumático zumbiu violentamente. Forcei os dedos de ferro da prótese ao redor de um pedaço afiado de vergalhão exposto no pilar. A tração absurda sem calibração moeu a carne e os tendões no ponto de junção do meu coto. A dor irradiou como um choque elétrico pela espinha, branca e cegante.
 
-— Ritmo respiratório caindo a níveis hipóxicos — a voz monótona de Valéria ecoou perfeitamente limpa. Ela pisou fora do duto, caminhando até ele com passos matemáticos. — Diagnóstico de crise somática recorrente. Sugestão: Administração de betabloqueadores, indisponíveis no inventário.
+Ofeguei, soltando o vergalhão retorcido. A fumaça fantasma se dissipou, varrida pela agonia nítida e incontestável do presente. Cuspi no chão de asfalto rachado, o escarro escurecido pela poeira. A dor era minha única bússola agora.
 
-A letargia mecânica dela era enlouquecedora. Gabo não tinha bloqueadores. Ele só tinha chumbo e dor.
+— Os níveis de estresse do seu sistema nervoso central indicam instabilidade crítica, Gabo — relatou Valéria, imperturbável. — A auto-inflição de dor degrada sua eficiência de combate em 18%. Esta tática é estatisticamente falha.
 
-Enquanto a fumaça ilusória lhe roubava os sentidos, Gabo arrastou a pesada prótese de aço até um vergalhão exposto que despontava do concreto despedaçado do duto. Sem hesitar, ele chocou a junta exposta do próprio cotoco contra a ponta enferrujada do ferro.
+— Estatística não espanta os fantasmas da minha cabeça — respondi rascante, forçando a perna protética a dar o próximo passo. — Se eu não sentir essa dor, eu apago. E se eu apagar, a gente morre. Aquele Fantasma lá embaixo sobreviveu porque não sente mais nada. Eu ainda sinto.
 
-O metal cravou-se na carne crua onde a prótese encontrava seu ombro. Uma explosão de dor branca, pura e lancinante varou seu tórax, tão intensa que sobrepôs a própria sinapse de pânico. A fumaça fantasma se estilhaçou instantaneamente. Gabo sugou o ar real e podre do Distrito 4 em um grito asfixiado.
+A ciborgue virou o rosto na minha direção. Não havia compreensão em seus sensores, apenas um processamento frio de variáveis.
 
-Ele continuou forçando a carne contra o vergalhão por mais um segundo para garantir que o fantasma do pai estivesse bem morto. O sangue escorreu, quente e real, pelo braço de aço.
+— Entendido. Ajustando parâmetros de expectativa de vida de acordo com suas idiossincrasias neuropsicológicas.
 
-Ele puxou o corpo para trás e caiu de costas na terra cinzenta. Estava exausto. Suas pernas protéticas rangiam, pesadas como chumbo, mas sua mente estava desanuviada.
+O silêncio que se seguiu entre nós era mais pesado que o smog. O Distrito 4 estava morto, mas os restos da civilização que deixamos para trás na Aeterna não ofereciam descanso. Cada passo que dávamos na superfície era um testemunho da desumanização. Nós éramos os sobreviventes solitários, arrastando pedaços de carne e metal por um mundo que já havia desistido de si mesmo.
 
-— Nível de saturação de oxigênio retornando a parâmetros seguros. Perda de 2% de material hemático detectada na lesão autoinfligida — relatou Valéria, anotando mentalmente a integridade física de sua "ferramenta" de escolta. — O complexo hidropônico do Setor 7 dista quatro quilômetros a nordeste.
-
-Ela não perguntou como ele estava. Ela não olhou para a expressão dilacerada dele. Gabo arrastou a garra mecânica pelo chão e usou a força bruta do maquinário para obrigar suas pernas falhas a levantarem o resto de seu corpo quebrado.
-
-— Então... continua caminhando, Val — Gabo resmungou, cuspindo o gosto ferroso de sangue. A dor excruciante no ombro latejava num ritmo constante, um lembrete divino de que ele não estava trancado numa cabine enfumaçada com seu pai, e sim num inferno de sua própria escolha. — E me avise se alguma coisa resolver nos atrapalhar.
+E eu, agarrado à dor incandescente no meu braço mutilado, era a única coisa me mantendo ancorado no agora, um passo claudicante de cada vez, na direção do vazio cinzento à nossa frente.

@@ -1,6 +1,6 @@
 ---
 image: /cenas/gabo-carro.jpeg
-Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Inspetor Rangel, Aria Moretti
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Inspetor Rangel, Aria
 ---
 # Capítulo 113: Carga Viva
 
@@ -20,23 +20,23 @@ Cheirava a morte recente.
 
 — Segurem-se! — A voz de Rangel ecoou pelo sistema de intercomunicação interno, crepitando com estática. O caminhão deu um solavanco violento, as suspensões hidráulicas gemendo enquanto ele subia a calçada para contornar um bloqueio da Aeterna.
 
-No compartimento de carga, a escuridão era cortada apenas pelas luzes de emergência vermelhas que piscavam no teto. Gabo estava sentado sobre uma pilha de sacos pretos reforçados, com a perna ruim esticada à sua frente. Valéria estava agachada perto do painel de controle do compactador, tentando conectar seu *deck* para impedir que a máquina decidisse esmagá-los.
+No compartimento de carga, a escuridão era cortada apenas pelas luzes de emergência vermelhas que piscavam no teto. Gabo estava sentado sobre uma pilha de sacos pretos reforçados, com a perna ruim esticada à sua frente. Valéria estava agachada perto do painel de controle do compactador, conectando seu cyberdeck *Phantom V3* — onde o pendrive blindado da Aria agora estava espetado — para impedir que a máquina decidisse esmagá-los.
 
-Gabo viu Aria parada no centro, equilibrando-se com a facilidade de um giroscópio, olhando fixamente para um dos sacos que havia se rasgado com o movimento brusco.
+Com o solavanco brusco, um dos sacos pretos ao lado da bota de Gabo se rasgou. A luz azul do LED do pendrive da Aria refletiu na pele acinzentada lá dentro, enquanto o scanner óptico do deck de Valéria fazia a leitura automática da carga.
 
-— Não olhe, Aria — murmurou ele, sentindo o estômago revirar.
+— *Composição da carga identificada* — soou a voz sintética da Aria pelo fone auricular de Gabo, com aquela cadência analítica que deixava escapar um timbre quase idêntico ao de Bia Vargas. — *Tecido humano com necrose neural induzida. Subproduto de extração sináptica.*
 
-Valéria engasgou, parando de digitar por um segundo.
+— Desliga a leitura biométrica, Aria — murmurou Gabo, sentindo o estômago revirar.
 
-— Para com isso, Gabo — ela disse, sem olhar para ele. — Foca no painel. O cheiro já está ruim demais.
+Valéria engasgou ao ver a tela do deck, parando de digitar por um segundo.
 
-O braço pálido e tatuado pendia para fora do plástico rasgado. Gabo ouviu, como um eco dentro da própria cabeça: *“Eles são pessoas.”* Mas a voz não vinha de lugar nenhum.
+— Para de falar com o drive, Gabo — ela disse, sem olhar para ele, a voz tensa. — Eu preciso do processamento dela focado no painel hidráulico. O cheiro já está ruim demais.
 
-Valéria apertou os dentes, os olhos brilhando na luz vermelha.
+Um braço pálido e tatuado pendia para fora do plástico rasgado, com marcas de punção na base do pulso. No comunicador de Gabo, a frequência da Aria oscilou por um milissegundo, gerando um chiado baixo: *“Eles eram pessoas.”*
+
+Valéria apertou os dentes, os olhos prateados brilhando na luz vermelha de emergência.
 
 — “Drenados”. Viciados que o Marco Moretti varreu das ruas — ela cuspiu. — Eles viraram combustível.
-
-Gabo fechou os olhos por um segundo. A “Nova Alvorada” não era apenas limpeza social. Era canibalismo industrializado.
 
 Gabo fechou os olhos, a dor em sua perna latejando em sincronia com o motor do caminhão. A "Nova Alvorada" não era apenas limpeza social. Era canibalismo industrializado.
 

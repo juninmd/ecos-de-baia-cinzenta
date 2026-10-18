@@ -3,7 +3,7 @@ layout: doc
 title: "Capítulo 64: A Cidade Fantasma"
 description: "Dentro do Núcleo existe uma Baía Cinzenta perfeita, ensolarada e habitada pelos mortos do Dilúvio. E eles não estão de férias: estão trabalhando."
 image: /capitulo_64.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Marco Moretti, Aria Moretti, Roberto Miranda
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Marco Moretti, Aria, Roberto Miranda
 ---
 
 # Capítulo 64: A Cidade Fantasma
@@ -110,15 +110,15 @@ Ela olhou para ele com os olhos vermelhos.
 
 — Não devia mesmo.
 
-Gabo virou a cabeça, com dificuldade, para o canto da sala onde a menina estava de pé, olhando a tela.
+Gabo olhou para a porta USB blindada do console, onde o pendrive de titânio da Aria estava conectado, lendo diretamente os barramentos do servidor.
 
-Ela chorava. Sem som, sem careta, com as lágrimas descendo retas e o queixo firme, do jeito que criança não chora.
+O LED lateral piscava num ritmo lento e pesado, sobrecarregado pelos quarenta e um mil fluxos de telemetria neural.
 
 — Aria.
 
-Ela não desviou os olhos do monitor.
+O sintetizador do console chiou baixinho antes de a voz dela sair, limpa e triste:
 
-— *Eles querem dormir.*
+— *Eles querem dormir, Gabriel.*
 
 ---
 
@@ -146,13 +146,13 @@ Terno impecável, sapato seco — sapato **seco**, o que naquela cidade era uma 
 
 Atrás dele entrou Roberto Miranda.
 
-Segurando a menina pelo braço, com a mão mecânica.
+Em dois passos rápidos, Miranda avançou sobre o console, arrancou o pendrive de titânio da Aria da porta de dados com a mão mecânica e encostou o cano da pistola na nuca de Valéria.
 
 Gabo tentou se levantar e o corpo respondeu com a informação de que aquilo tinha deixado de ser uma opção havia uns dez minutos.
 
-— **SOLTA ELA.**
+— **DEVOLVE ISSO E SOLTA ELA.**
 
-— Calma, irmão. — Marco nem levantou a voz. — Valéria, afaste-se do console, por favor. Se você encostar naquela tecla, o Roberto quebra o braço da menina, e depois o outro, e nós continuamos essa conversa com uma trilha sonora desagradável.
+— Calma, irmão. — Marco nem levantou a voz. — Valéria, afaste-se do console, por favor. Se você encostar naquela tecla, o Roberto esmaga os dedos da sua mão direita, e depois da esquerda, e nós continuamos essa conversa com uma trilha sonora desagradável.
 
 Val levantou as mãos e deu dois passos para trás.
 
@@ -196,10 +196,10 @@ Ele se aproximou do irmão caído, se agachou, e falou baixo:
 
 ---
 
-Ele se levantou, ajeitou o punho da camisa e fez um sinal com dois dedos para Miranda.
+Ele se levantou, ajeitou o punho da camisa e fez um sinal com dois dedos para Miranda, apontando o pendrive blindado na mão mecânica do ex-policial.
 
-— E a Aria — disse, quase com carinho — é o sistema operacional. A única interface que integra carne e código sem perda. Sem ela isso aqui é um galpão caro cheio de gente triste.
+— E a Aria dentro desse pequeno drive — disse, quase com carinho — é o sistema operacional. A única arquitetura de IA que integra carne e código sem perda, exatamente como o nosso pai desenhou antes de escondê-la naquela cabine telefônica. Sem esse módulo isso aqui é um galpão caro cheio de gente triste.
 
-Miranda começou a arrastar a menina para a cadeira de interface.
+Miranda caminhou até o pedestal da matriz de interface no centro da sala.
 
-— Conecta ela.
+— Conecta o drive.

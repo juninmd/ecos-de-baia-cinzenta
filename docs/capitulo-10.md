@@ -14,7 +14,7 @@ Valéria estava mancando. A descida pelo fosso do elevador havia torcido seu tor
 
 — E sangue — completou Gabriel. Ele conhecia aquele cheiro. Ferro e podridão.
 
-— *Detecto tráfego de rede massivo,* — a voz de Aria sussurrou. — *Mas não é internet. É... biológico. Milhares de nós. Gritando em silêncio.*
+— *Detecto tráfego de rede massivo,* — a voz sintética de Aria sussurrou pelo comunicador, enquanto o pendrive de titânio aquecia no slot do deck de Valéria. — *Mas não é internet. É... biológico. Milhares de nós. Gritando em silêncio.*
 
 Eles invadiram pelos fundos, cortando uma cerca de arame. O interior do galpão era vasto, iluminado por luzes de sódio amarelas que davam a tudo um aspecto doente.
 

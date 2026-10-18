@@ -1,50 +1,205 @@
 ---
-Título: O Fantasma na Máquina de Carne
-Data In-Game: Pós-Colapso do Sentinel (Noite Eterna)
-Localização: Subnível 2.0 (Arquivo Executivo, Setor Alfa-Sete)
-Personagens Presentes: Gabo, Valéria
+image: /capitulo_169.jpg
 ---
+## Metadados
+- **Título:** O Fantasma na Máquina de Carne
+- **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
+- **Localização:** Necrópole (Subnível 2.0 — Arquivo Executivo da Aeterna Corp, Setor Alfa-Sete)
+- **Personagens Presentes:** Gabo, Valéria
+- **Resumo:** No Arquivo Executivo, Gabo encontra o wetware original da Aeterna — e a assinatura de autorização no rodapé do frasco. A decisão de queimar tudo custa a única prova documental que existia.
+
+## Narrativa
 
 # Capítulo 169: O Fantasma na Máquina de Carne
 
-O zumbido mecânico do suporte vital era o único som no Setor Alfa-Sete. Ele pulsava como um coração doente, bombeando aquele líquido escuro e iridescente pelas tubulações que alimentavam a massa cinzenta no interior da mesa de fibra de carbono.
+O zumbido dos aquecedores de suporte à vida era a única pulsação em todo o Arquivo Executivo.
 
-Valéria estava paralisada. A luz do tanque refletia em seu olho cibernético, desenhando o terror cru no seu rosto cansado.
+Cinquenta e um hertz, contínuo, vindo de baixo do piso elevado. Gabo tinha ouvido aquilo por sete minutos antes de entender o que estava ouvindo, e quando entendeu não conseguiu mais desouvir.
 
-— Isso... — ela murmurou, a voz falhando. — Eles usam isso para processar os dados vitais da Aeterna. Não é silício puro. É *wetware*. O meu Deus... quantas pessoas estão aqui dentro?
+Alguma coisa naquele andar estava sendo mantida viva.
 
-Dei a volta na mesa colossal, observando os cilindros de contenção. A carne pálida flutuava, conectada por feixes de ouro diretamente aos conduítes de rede do andar. O horror limpo e cirúrgico do meu pai superava qualquer teatro de horrores que o Taxidermista havia construído nos andares de baixo. O Taxidermista expunha suas monstruosidades. Dante as enterrava e polia os cofres.
+Havia trinta e sete anos.
 
-— Se desligarmos o suporte vital... — Valéria tocou levemente o painel de vidro temperado, como se tocasse um túmulo. — A rede desmorona de vez. Todos os arquivos protegidos da Aeterna, o código-fonte, as transações... tudo apodrece junto com eles.
+---
 
-Olhei para os cabos de dados grossos que subiam para o teto. Ali estava o Santo Graal dos hackers de Baía Cinzenta. A fortuna intocável e o conhecimento proibido da megacorporação. Valéria hesitou, a tentação técnica duelando contra o horror moral.
+Valéria continuava parada no mesmo lugar desde que a luz acendeu.
 
-Então, a temperatura caiu.
+Ela não estava em choque — Val não entrava em choque, ela entrava em silêncio, que na prática é pior de assistir porque não passa sozinho.
 
-Não foi uma mudança climática. Foi o frio interior, rastejando de dentro da minha medula. A fumaça voltou.
+O cilindro ficava no centro da sala, sobre uma base de aço escovado com o logotipo antigo da empresa gravado em baixo-relevo.
 
-Não como um sussurro dessa vez. A névoa de cravo invadiu minha mente num turbilhão brutal e violento, enchendo a sala com a presença do fantasma do meu pai. O cheiro de tabaco denso me sufocou instantaneamente, tapando minha boca, enchendo meus pulmões de fuligem e desespero. Caí de joelhos, ofegando em seco, arranhando a própria garganta com os meus cotocos inesgotavelmente inúteis.
+Vidro grosso, uns quatro centímetros, embaçado por dentro pela condensação.
 
-O riso calculista de Dante pareceu ecoar entre os receptáculos do tanque. *Você nunca vai escapar, Gabo.*
+Uma luz azul-pálida vinha da base e subia pelo fluido conservante, e dentro do fluido, suspensa por seis eletrodos de platina que entravam pela superfície, havia uma massa neural.
 
-A asfixia era real. Minha visão escureceu nas bordas.
+Um encéfalo humano completo, com o tronco preservado, os hemisférios enrugados e a pia-máter ainda íntegra.
 
-*Dor*, meu cérebro gritou, o resquício de instinto animal sobrevivendo à alucinação. *Preciso de dor.*
+Ele oscilava devagar quando a bomba de circulação pulsava.
 
-Com um urro abafado, levantei-me cambaleando, o peso do meu próprio corpo agindo como mola, e desferi uma pancada brutal com o cotoco direito — a carne queimada, osso cauterizado e o curativo encharcado de sangue — diretamente contra a quina de aço e vidro da mesa do *wetware*.
+Para qualquer outra pessoa naquela cidade, aquilo era a prova de um crime corporativo.
 
-O impacto soou como um osso quebrando em duas partes. A agonia cortou o ar como um machado, uma onda de choque de dor branca e pura que lavou meu cérebro e desintegrou a nuvem de fumaça instantaneamente.
+Para Gabriel Moretti, era herança.
 
-Arfei, caindo com o tronco sobre o vidro temperado da mesa, puxando lufadas desesperadas de ar esterilizado. O sangue novo e quente escorria pelo meu braço e manchava o tampo transparente, misturando o meu DNA com a sujeira orgânica que repousava no tanque abaixo.
+---
 
-— Gabo! — Valéria correu para mim, segurando meus ombros. O pânico na voz dela me ancorou na realidade. — O que... o que você tá fazendo?!
+— Ele não roubou vidas — disse Val, e a voz saiu oca. — Ele transformou dor humana em arquitetura de dados. Isso aqui é o wetware original. Isso é o **protótipo**, Gabo. Tudo o que veio depois — o Gamemaster, o Jardim, a Nova Baía — é reimplementação disso.
 
-Ergui a cabeça lentamente, a dor pulsante nos meus dois cotocos e o peito subindo e descendo freneticamente. O cheiro de cigarro não existia mais. Eu só sentia o cheiro ácido da minha própria adrenalina e a podridão estéril do formol.
+Gabo não respondeu.
 
-Virei o rosto para Valéria. Ela olhava para os receptáculos, e depois para o meu sangue sujando o vidro, os olhos vidrados de quem não sabia se estava em um pesadelo ou se aquele era o fim de todas as coisas.
+Ele estava lendo a etiqueta.
 
-— Eles não vão deixar herança — eu disse, cada palavra mastigada pela dor, o cinismo encharcando minha voz. — Meu pai. O Taxidermista. Os vermes dessa cidade. Não vamos salvar o código, Valéria. Não vamos hackear.
+Era uma placa de acrílico parafusada na base, com letras em relevo, do tipo que se fazia em máquina de gravar de papelaria em mil novecentos e noventa e alguma coisa.
 
-Apontei o queixo para a rede de suporte de vida ligada à mesa, onde as luzes de monitoramento das válvulas principais pulsavam.
+**SUJEITO 01 — DOAÇÃO VOLUNTÁRIA — 14.03.1994**
 
-— Arranca essa merda da tomada. Deixa apodrecer.
+E, embaixo, em corpo menor:
+
+**AUTORIZAÇÃO: D. MORETTI**
+
+---
+
+A náusea veio primeiro, e depois o cheiro.
+
+Foi o ozônio dos eletrodos misturado ao formol que puxou o gatilho — a combinação era próxima o suficiente, e o cérebro dele não precisava de muito.
+
+O ar em volta enevoou.
+
+E veio a fumaça amarga e espessa do cigarro de cravo do Dante, entrando pelas narinas fantasmas, enchendo pulmões que não estavam enchendo de nada, com aquele fundo doce que ele conhecia melhor do que conhecia a própria letra.
+
+O pai apático fumando no escuro da cozinha.
+
+*Não agora.*
+
+*Não na frente disso.*
+
+---
+
+Gabo cerrou os dentes e arremessou o coto do braço direito contra a quina de fibra de carbono da mesa executiva.
+
+O impacto foi oco e curto.
+
+A crosta carbonizada — dez semanas de cicatrização que a Val tinha cauterizado com maçarico num túnel, sem anestesia, porque não havia outra opção e porque ele mandou — rompeu no ponto de sempre.
+
+Um fio quente de sangue vivo escorreu pelo antebraço mutilado.
+
+E a dor chegou.
+
+Elétrica, incandescente, subindo do coto até a nuca em menos de um décimo de segundo, e varrendo tudo no caminho.
+
+O cheiro de cravo evaporou.
+
+O andar voltou: frio, iluminado, com cinquenta e um hertz vindo do piso.
+
+Gabo ofegou. O suor frio desceu pela testa e ardeu num corte da sobrancelha.
+
+Ele contou até quatro e a dor virou latejo, e o latejo virou âncora.
+
+---
+
+— Gabo.
+
+Val deu um passo. Os olhos sintéticos dela estavam focados na ferida reaberta, e nada no rosto dela era relatório.
+
+Ele ergueu o queixo.
+
+— Eu estou bem.
+
+— Você não está bem, e eu não estou oferecendo pena. — Ela falou baixo. — Eu estou dizendo que essa é a quarta vez esta semana, e que na terça você bateu duas vezes seguidas, e que uma hora esse braço não vai mais fechar.
+
+— A dor é real, Val. — A voz saiu como cascalho. — É a única coisa real que sobrou nesse buraco. Tudo o resto aqui embaixo é lembrança de alguma coisa, ou cópia de alguém, ou cheiro de um homem que nunca fumou.
+
+Ele apontou o coto para o cilindro.
+
+— Aquilo ali dentro do vidro é a prova de que Dante Moretti já era monstro muito antes de virar a Voz da Cidade.
+
+---
+
+Val chegou perto do cilindro e leu a placa.
+
+Leu duas vezes.
+
+— "Doação voluntária" — ela disse.
+
+— É.
+
+— Autorização D. Moretti. — Ela virou o rosto para ele. — Gabo, isso não quer dizer que o cérebro é do teu pai.
+
+— Eu sei o que quer dizer.
+
+— Quer dizer que o teu pai **assinou o formulário de outra pessoa**. — Ela apontou a data. — Março de noventa e quatro. Ele era delegado assistente. Sabe que assinatura um delegado assistente dá em março de noventa e quatro?
+
+Gabo fechou os olhos.
+
+— Reconhecimento de corpo não reclamado.
+
+— Reconhecimento de corpo não reclamado. — Val voltou a olhar o vidro. — Ele estava assinando indigente para a Aeterna. Um por um. Com carimbo, com número de laudo e com fé pública.
+
+— Foi por isso que o Taxidermista sabia onde procurar — disse Gabo. — Ele não inventou o horror. Ele achou a planta baixa, e a planta baixa está assinada com o meu sobrenome.
+
+---
+
+Ele mancou até o console.
+
+Telas analógicas de tubo, verde-oliva, com os logs piscando num ritmo letárgico. Carga neural decrescente. Trinta e sete anos de decaimento registrados linha a linha, com uma leitura a cada seis horas.
+
+E, na última coluna, atividade.
+
+Não muita. Não organizada.
+
+Mas existente.
+
+Val olhou por cima do ombro dele e viu junto, e os dois ficaram uns dez segundos sem falar.
+
+— Ele está aí — ela disse.
+
+— Alguma coisa está aí.
+
+— Gabo, se a gente quebrar esse vidro e cortar o suporte, a gente não sabe o que acontece com o que sobrou da rede da Aeterna. Isso aqui pode ser o nó raiz de tudo o que ainda funciona lá em cima. — Ela mostrou os dedos trêmulos sobre os controles oxidados. — Pode apagar arquivo que a gente precisa. Pode apagar **o único** arquivo que prova o que essa empresa fez.
+
+— Eu sei.
+
+— Você sabe e vai mandar queimar assim mesmo.
+
+— Vou.
+
+— Por quê?
+
+---
+
+Gabo olhou para a massa de carne flutuando no azul.
+
+O latejo do coto batia junto com o coração dele, e a cada batida ele lembrava por quê, e por isso ele deixava latejar.
+
+— Porque tem trinta e sete anos que essa coisa está acordada — ele disse. — Sem olho, sem ouvido, sem mão, sem ninguém falando com ela. Trinta e sete anos de uma sala com cinquenta e um hertz.
+
+Ele olhou para a Val.
+
+— Se eu preservar isso aqui como prova, Val, eu vou estar fazendo exatamente o que eles fizeram: mantendo uma pessoa acesa porque ela ainda me serve.
+
+Val ficou muito quieta.
+
+— A gente perde o processo.
+
+— A gente perde o processo. — Ele encostou a mão boa no console. — E a Elena vai me matar quando descobrir, e ela vai estar certa, e eu vou aceitar. Anota o horário e o meu nome no teu registro. A ordem é minha.
+
+— Gabo—
+
+— **Queima tudo.** — Ele desligou o primeiro disjuntor com o polegar. — A Aeterna não merece herança. Só as cinzas.
+
+---
+
+Val cortou o suporte de vida às 04h12.
+
+Não houve alarme. Não houve som nenhum além do zumbido de cinquenta e um hertz descendo de tom até morrer, e do fluido parando de circular.
+
+A luz azul baixou devagar ao longo de uns quarenta segundos.
+
+Gabo ficou de pé ao lado do cilindro o tempo inteiro, com a mão boa apoiada no vidro, porque não havia mais nada que se pudesse oferecer.
+
+Quando apagou de vez, ele disse uma coisa que a Val ouviu e nunca repetiu:
+
+— Desculpa a demora.
+
+E depois tirou o caderno do bolso com os dentes e a mão boa, e escreveu, na linha seguinte da lista:
+
+*Sujeito 01. Nome desconhecido. Indigente, 1994. Autorizado por D. Moretti.*

@@ -1,47 +1,98 @@
 ---
-image: /capitulo_184.jpg
+Título: O Relógio de Sangue
+Data In-Game: Indeterminada (Pós-Colapso da Aeterna)
+Localização: Distrito 4 (Ruínas da Superfície, Setor Fabril Abandonado)
+Personagens Presentes: Gabo, Valéria
 ---
-# Metadados
-- **Título:** O Relógio de Sangue
-- **Data In-Game:** Pós-Colapso do Sentinel (Noite Eterna)
-- **Localização:** Ruínas do Distrito 4 / Caminho para Setor 7
-- **Personagens Presentes:** Gabo, Valéria
-
-# Narrativa
 
 # Capítulo 184: O Relógio de Sangue
 
-O cemitério de máquinas do Distrito 4 não tinha fim. Enquanto se aproximavam das fronteiras do Setor 7, Gabo sentiu a atmosfera pesar. O ar tornava-se úmido, saturado de esporos espessos que cintilavam debilmente na névoa tóxica.
+A chuva fina que castigava as ruínas do Distrito 4 parou, deixando em seu lugar um nevoeiro denso e com cheiro de cobre molhado. O silêncio era absoluto, quebrado apenas pelo chiar intermitente dos servos descalibrados do meu braço mecânico e pelo som oco dos nossos passos no asfalto fragmentado.
 
-Entre os destroços de uma antiga fábrica química, um clarão fosforescente doentio pulsava como o farol de uma viatura acidentada.
+A dor latejava no meu ombro direito com a precisão de um metrônomo. Cada segundo era uma fisgada aguda; cada minuto, uma queimação profunda nos nervos onde Vasco havia cravado os pregos de interface. Era uma agonia crua, feia. E era a única coisa que me mantinha são.
 
-Valéria ergueu a mão mecanicamente, parando a marcha.
-— Presença orgânica invasiva densa. Nível de concentração fúngica indicativo de um nó de processamento descentralizado do "Jardim".
+O cenário à nossa volta era um cemitério industrial. Estruturas de concreto despencadas, guindastes enferrujados curvados como esqueletos de bestas pré-históricas. Não havia luzes, exceto pelo brilho fraco e fantasmagórico dos painéis óticos de Valéria, ajustados para visão noturna.
 
-Eles se aproximaram do brilho. Na base de um silo rompido, suspensa por um maranhado de raízes translúcidas, estava o corpo de uma mulher.
+— A temperatura ambiente caiu dois vírgula quatro graus nos últimos quinze minutos — ela relatou. Sua voz era plana, uma sequência de dados estéril sem qualquer inflexão. O Modo de Segurança havia extirpado até mesmo o sarcasmo calculista que eu costumava odiar, deixando apenas uma máquina vazia. — Probabilidade de hipotermia sem abrigo adequado aumenta para setenta por cento nas próximas duas horas.
 
-Ela usava os trapos de uma catadora. O horror da cena residia no fato de que o peito dela ainda subia e descia levemente. As raízes do fungo luminoso mergulhavam através de sua pele escamosa, utilizando seu sistema nervoso central como uma vasta e letárgica placa-mãe.
+— A gente continua andando — murmurei. Minha voz soou mais áspera do que eu pretendia, a garganta ferida pela fuligem que inalei no último confronto. — Preciso manter o sangue circulando.
 
-— Uma bio-bateria... — murmurou Gabo, apoiando-se no pesado braço industrial para aliviar a tensão em suas pernas mecânicas que tremiam com a fadiga.
+Eu precisava da dor da caminhada. No instante em que eu parasse, no instante em que a dor diminuísse, eu sabia o que aconteceria. O nevoeiro gelado se transformaria na fumaça espessa e adocicada de charuto. As ruínas virariam o escritório opressor de Dante. O abismo abriria sua boca de novo.
 
-No exato instante em que Gabo chegou perto, o cheiro de formol e decomposição botânica estalou. O cérebro fragmentado de Gabo ativou seu velho mecanismo de defesa de modo inverso: a aversão transmutou-se numa intensa alucinação olfativa de fumaça de charuto. Ele voltou a sufocar, os olhos esbugalhados focando na ausência de ar do escritório de Dante.
+Passei a mão esquerda — a que ainda era carne, embora machucada e suja — pelo rosto. O coágulo na minha clavícula repuxou, um lembrete do impacto contra o *buggy* dos saqueadores.
 
-Para combater a asfixia crescente da alucinação, Gabo levantou a garra monstruosa da sua prótese direita e forçou suas próprias costas e ombro violentamente contra os cantos pontiagudos de metal retorcido do silo. O solavanco brutal esfolou sua pele e cravou a dor nos músculos vivos de suas costas. Era uma autopunição absurda, mas necessária. O choque dilacerante de agonia expulsou o charuto da sua mente, devolvendo o controle da respiração.
+Dobramos a esquina de um enorme galpão de decantação em ruínas. Foi quando a vi.
 
-No meio do corpo da catadora, enterrado na nuca por onde o fungo alimentava dados, um chip neural da Aeterna piscava em ritmo biológico.
+Estava caída ao lado de uma pilha de tambores enferrujados. Uma mulher. Suas roupas eram trapos sintéticos misturados com couro endurecido pelo ácido. Mas não foi a figura dela que chamou minha atenção. Foi o que estava cravado no peito dela.
 
-— Há dados fluindo através do cadáver — informou Valéria, o olho cibernético captando minúsculas oscilações de energia. — O complexo hidropônico abaixo do Setor 7 está reorganizando o código de sobrevivência. Precisamos daquele pacote de dados para mapear a infraestrutura biológica à frente.
+Um cilindro de metal escuro, grosso como um braço, pulsando com uma luz fraca e esverdeada.
 
-A mulher suspensa parecia murmurar algo, mas os olhos dela haviam sido tomados pela podridão do Jardim.
+Valéria ergueu a pistola num movimento fluido e milimetricamente perfeito, varrendo o perímetro antes mesmo de eu formular a ordem mental.
 
-Gabo apertou a mandíbula, o sangue de suas próprias costas sujando o sobretudo rasgado. Sem a menor gentileza, ele esmagou o chão com suas pernas rangentes, aproximou-se e usou a garra titânica para arrancar o implante diretamente da nuca dela. A força mecânica destruiu as conexões cervicais em um som de rachadura macabra. A mulher estremeceu violentamente, soltou um longo suspiro e, enfim, desligou.
+— Ausência de assinaturas térmicas ativas em um raio de cinquenta metros — disse ela. Abaixou ligeiramente a arma, mas manteve o estado de prontidão. — O sujeito não apresenta sinais vitais. A análise preliminar indica que o dispositivo cravado no tórax é um bio-bateria de padrão obsoleto.
 
-Gabo usou o remorso transformado em repulsa física para manter o cheiro da fumaça alucinatória afastado.
+Aproximei-me cautelosamente, o braço pesado arrastando-me levemente para a direita. O cheiro não era de morte recente; era de ozônio estagnado e fluidos químicos. Aproximei o rosto. O cilindro estava ligado a uma rede de cabos finos que perfuravam a pele do pescoço e das têmporas da mulher, alimentando-se de algo que já não estava mais lá.
 
-Valéria estendeu o cabo coaxial e conectou-o ao chip sujo de sangue negro que Gabo segurava. Por um momento, as linhas de dados cruzaram o olho da hacker em silêncio. Em Modo de Segurança, ela processou a tragédia e a bioética do ato com a indiferença de um roteador transferindo pacotes.
+Não era sucata de saqueador. Era tecnologia do "Jardim". Uma interface rudimentar, como os horrores de biomassa que enfrentamos nos dutos, mas invertida. Em vez de a planta parasitar a máquina, aqui era a máquina forçando uma simbiose com o cadáver.
 
-— Dados extraídos com êxito — Valéria relatou. — O Setor 7 não é apenas um foco de infestação. O Jardim centralizou sua "mente de colmeia" nas matrizes de nutrientes hidropônicos subterrâneos do Setor. Rota confirmada para o abismo botânico. O tempo é um fator degradável, devemos continuar.
+A luz verde pulsou. Um bipe fraco e abafado ecoou do cilindro.
 
-Gabo largou o chip nojento na lama e se afastou do corpo. Ele estava virando as engrenagens de ferro que restavam, enquanto Valéria já havia se tornado o próprio código.
+— Valéria, o que é isso?
 
-— Vamos logo — rosnou Gabo. — O Setor 7 está esperando. E eu ainda tenho muita ferrugem pra gastar.
+Ela deu um passo à frente, os olhos brilhando em uma varredura profunda.
+
+— É um repetidor de sinal neural orgânico. A fonte de energia foi drenada até a falha crítica do hospedeiro. O dispositivo ainda tenta transmitir um pacote de dados criptografado.
+
+— Transmitir para quem? O Jardim já não estava morto na superfície?
+
+— A hipótese atual está incorreta — respondeu ela, com a frieza de quem corrige um erro de digitação. — O Jardim modificou sua topologia de rede. Em vez de uma mente-colmeia centralizada, os dados disponíveis sugerem uma estrutura descentralizada usando nós sacrificiais como este.
+
+Um arrepio frio subiu pela minha espinha. Olhei para a escuridão à frente, por onde o nevoeiro se adensava. O bipe verde pulsou novamente, um pouco mais rápido.
+
+O vento mudou de direção, trazendo um odor metálico. Minha mente fraquejou. O cheiro de ozônio se misturou com o da ferrugem, e, por uma fração de segundo, a fumaça de charuto roçou a beirada da minha visão. Fechei o punho mecânico, forçando os servos a rangerem. A dor subiu como lava pelo cotoco, empurrando o fantasma de Dante de volta para as sombras.
+
+— Consegue interceptar o pacote de dados antes que a bateria morra de vez? — perguntei, ofegante.
+
+— Afirmativo. No entanto, estabelecer uma ponte sem fio com tecnologia orgânica instável apresenta um risco de 14% de contaminação de firmware. Recomendo extração física do núcleo de memória.
+
+Olhei para os cabos enterrados na carne morta da mulher.
+
+— Você quer que eu arranque isso dela?
+
+— O seu braço direito possui torque suficiente para a extração sem danificar o invólucro blindado do núcleo, enquanto evita o contato de tecido biológico vulnerável com a toxina. É a abordagem mais eficiente.
+
+Era de um pragmatismo repugnante. A antiga Valéria teria dito o mesmo, mas com um tom de escárnio pela minha fraqueza orgânica. A Valéria do Modo de Segurança apenas apresentou a matemática da sobrevivência.
+
+Abaixei-me. O cheiro do necrotério improvisado tentou embrulhar meu estômago. Segurei o cilindro com a mão mecânica. Os motores zumbiram em protesto pela falta de calibração, as engrenagens raspando umas nas outras.
+
+— Em três... dois... — murmurei.
+
+Puxei.
+
+O som de carne e metal rasgando foi nauseante. A agonia no meu ombro recrudesceu quando os pregos neurais compensaram o solavanco. Grunhi, caindo de joelhos na lama asfáltica. A luz verde do cilindro apagou-se imediatamente quando os cabos foram rompidos, mas o centro do núcleo brilhou com uma fraca incandescência vermelha.
+
+— Extração bem-sucedida. — Valéria se aproximou, abrindo um pequeno compartimento na lateral do seu pulso esquerdo. — Conecte o terminal inferior do núcleo à minha porta de interface auxiliar.
+
+Ergui o cilindro, minha mão mecânica tremendo. A dor era aguda, purificadora. A fumaça não tinha espaço aqui. Conectei o cilindro ao pulso de Valéria com um clique úmido.
+
+Os olhos dela piscaram, as luzes brancas apagando e acendendo em um ritmo frenético. Por três longos segundos, o nevoeiro e o silêncio foram nossos únicos companheiros. Então, a luz voltou ao normal, fria e constante.
+
+— Decodificação concluída — anunciou ela.
+
+— E então? O que a defunta estava tentando dizer?
+
+— Não era uma mensagem de voz. São coordenadas geográficas e um diagrama esquemático. O destino é um complexo hidropônico subterrâneo no Setor 7. O nó estava enviando a sua localização para ser recolhido antes de expirar.
+
+— Recolhido por quem?
+
+— Por aquilo que está se reagrupando lá embaixo — Valéria olhou para a névoa espessa à nossa frente. — A rede do Jardim está reconstruindo sua infraestrutura. Eles estão chamando a colheita de volta.
+
+Ergui-me lentamente, o peso da prótese puxando-me para a terra como uma âncora. Dante, o Jardim, saqueadores cibernéticos... parecia que a cidade nunca ficava sem monstros para nos devorar.
+
+— Atualize a rota — ordenei, cuspindo no asfalto quebrado. — O complexo hidropônico. Se tem algo reconstruindo essa merda, é melhor apagarmos antes que crie raízes profundas demais.
+
+— Rota calculada — disse a máquina que caminhava ao meu lado. — Recomendo cautela. Nossas chances de sobrevivência em um confronto direto estão caindo exponencialmente.
+
+— Eu sei.
+
+E assim, sob o céu venenoso, marchamos para mais fundo no inferno, guiados pelo mapa de um cadáver e ancorados na minha dor excruciante.

@@ -1,6 +1,6 @@
 ---
 image: /capitulo_117_pro.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Dante Moretti, Aria Moretti, Valéria "Val" Cruz, O Taxidermista, Inspetor Rangel
+Personagens Presentes: Gabriel "Gabo" Moretti, Dante Moretti, Aria, Valéria "Val" Cruz, O Taxidermista, Inspetor Rangel
 ---
 # Capítulo 117: Zero Absoluto
 
@@ -8,7 +8,7 @@ A porta do Núcleo não se abriu com um silvo hidráulico, mas com o estalo seco
 
 Quando a chapa de metal de trinta centímetros de espessura deslizou para o lado, o ar que saiu não era apenas frio; era uma agressão física. Gabo sentiu a umidade em suas roupas, remanescente do vapor do corredor anterior, cristalizar instantaneamente. O tecido do sobretudo endureceu, transformando-se numa armadura quebradiça de gelo sujo.
 
-— Máscaras — ordenou Aria. Sua voz saiu distorcida, o diafragma vocal lutando contra a mudança brusca de densidade do ar. — Atmosfera composta por 70% de Nitrogênio líquido vaporizado. Respiração desprotegida causará congelamento alveolar em quatro segundos.
+— *Máscaras. Agora* — alertou Aria pelo comunicador tático. Sua voz sintética chiou no fone de ouvido enquanto os sensores do deck de Valéria sofriam com o choque térmico brusco. — *Atmosfera composta por 70% de nitrogênio líquido vaporizado. Respiração desprotegida causará congelamento alveolar em quatro segundos.*
 
 Gabo puxou o respirador tático do cinto. A borracha estava rígida, resistindo ao formato de seu rosto. Ele o prendeu com força, ouvindo o *clique* dos filtros se ativando. O ar que entrou em seus pulmões tinha gosto de química estéril, mas era respirável.
 
@@ -16,7 +16,7 @@ Eles entraram.
 
 O mundo lá dentro era o oposto polar do inferno de onde vieram. Se o corredor era caos e ruído, o Núcleo era silêncio e estase. Um domo gigantesco, escavado na rocha viva, forrado com painéis de isolamento térmico brancos e imaculados. No centro, suspenso sobre um abismo escuro por passarelas de vidro fosco, pulsava um monólito de cristal e cromo.
 
-A temperatura no display do HUD de Gabo despencava: -40°C... -80°C... -120°C.
+A temperatura no display do comunicador de Gabo despencava: -40°C... -80°C... -120°C.
 
 — *Bem-vindos ao inverno eterno* — a voz do Taxidermista não vinha de alto-falantes aqui, mas parecia vibrar nas próprias paredes, transmitida por condução óssea através do frio. — *A entropia é o destino final de tudo, Gabriel. O calor é apenas uma agitação temporária. A ordem... a verdadeira ordem... é fria.*
 
@@ -24,13 +24,13 @@ Gabo avançou pela passarela. O vidro estalava sob suas botas pesadas. Abaixo de
 
 — Onde ele está? — Gabo rosnou, a voz abafada pela máscara.
 
-— No centro — Valéria apontou para o monólito. Ela tremia violentamente, apesar do traje térmico improvisado que haviam roubado dos guardas no nível superior. Seus dedos, digitando freneticamente no terminal de pulso, estavam ficando azuis. — Gabo... meus implantes. O frio está desacelerando a condutividade neural. Estou ficando lenta.
+— No centro — Valéria apontou para o monólito. Ela tremia violentamente, apesar do traje térmico improvisado que haviam roubado dos guardas no nível superior. Seus dedos, digitando freneticamente no terminal de pulso onde o pendrive blindado da Aria irradiava um calor febril contra a geada, estavam ficando azuis. — Gabo... meus implantes. O frio está desacelerando a condutividade neural. Estou ficando lenta.
 
 — Aguente firme. — Ele não olhou para trás. Não podia. Se olhasse, veria o medo nos olhos dela, e o medo era contagiante.
 
 Um silvo agudo cortou o ar.
 
-— *Atenção* — disse Aria. — Protocolo de Contenção Criogênica ativado.
+— *Atenção* — avisou Aria no fone auricular. — *Protocolo de Contenção Criogênica ativado.*
 
 Jatos de gás branco explodiram das laterais da passarela, não aleatoriamente, mas com precisão cirúrgica, bloqueando o caminho. Gabo recuou um passo quando uma coluna de ar super-resfriado congelou a grade de proteção ao seu lado, que se estilhaçou como vidro barato segundos depois.
 
@@ -42,9 +42,9 @@ Mais jatos. Eles formavam uma parede móvel, empurrando-os de volta para a entra
 
 Gabo olhou para os emissores nas paredes. Eram pequenos, discretos, rotativos.
 
-— Aria, pode hackear isso?
+— Aria, pode hackear isso pelo deck da Val?
 
-— Negativo. O sistema é analógico. Válvulas de pressão mecânicas. Sem interface sem fio.
+— *Negativo* — respondeu a IA. — *O sistema de disparo é analógico. Válvulas de pressão mecânicas. Sem interface sem fio.*
 
 — *Analógico.* — Gabo sorriu por baixo da máscara. Um sorriso sem humor. — Então ele fala a minha língua.
 
@@ -54,9 +54,9 @@ Ele ergueu a *Caronte*. A escopeta estava coberta de geada. Ele rezou para que o
 
 — O quê?
 
-— O padrão! Calcule o maldito padrão!
+— O padrão! Usa a Aria pra calcular o maldito padrão!
 
-Valéria piscou, focando seus olhos cibernéticos. O HUD dela sobrepôs linhas de tempo sobre o caos branco.
+Valéria piscou, sincronizando seus olhos cibernéticos com o coprocessamento do pendrive da Aria. O HUD dela sobrepôs linhas de tempo sobre o caos branco.
 
 — Esquerda, direita, centro, pausa de dois segundos. Repete.
 
@@ -85,9 +85,9 @@ Gabo se levantou, ofegante. O cano da *Caronte* exalava vapor, o calor residual 
 
 — Caminho limpo — ele disse.
 
-Eles correram até o monólito. Aria manipulou o painel de acesso. Desta vez, a interface digital estava presente.
+Eles correram até o monólito. Valéria conectou o cabo extensor do *Phantom V3* ao painel de acesso, deixando o pendrive da Aria assumir a criptografia diretamente. Desta vez, a interface digital estava presente.
 
-— Desbloqueando... — Os olhos de Aria giraram com dados. — Acesso concedido.
+— *Desbloqueando matriz primária...* — O LED do pendrive da Aria piscou em alta frequência, derretendo os cristais de gelo ao redor do conector. — *Acesso concedido.*
 
 As placas de cromo do monólito se abriram como as pétalas de uma flor mecânica.
 
@@ -109,7 +109,7 @@ A voz do Taxidermista silenciou. O zumbido da usina parecia ter parado.
 
 Dante virou a cabeça dentro do tanque. Lentamente. Os olhos brancos focaram em Gabo através do vidro e do líquido.
 
-— *Gabriel* — a voz não veio do ambiente, nem dos ossos. Veio de dentro da mente de Gabo. Uma intrusão psíquica direta, facilitada pela proximidade. — *Você chegou cedo. Meu ciclo de resfriamento está em 89%.*
+— *Gabriel* — a voz não veio do ambiente, nem dos ossos. Veio pelo canal de áudio aberto de seus comunicadores, como uma intrusão direta facilitada pela proximidade. — *Você chegou cedo. Meu ciclo de resfriamento está em 89%.*
 
 Gabo apontou a *Caronte* para o vidro.
 
@@ -119,13 +119,13 @@ Dante sorriu. Não foi um sorriso de vilão. Foi o sorriso cansado de um pai ven
 
 — *Você ainda pensa pequeno. Pensa em indivíduos. Eu penso na Espécie. A dor deles... é o combustível da ordem. Sem mim, eles voltariam ao caos. À lama. Eu sou a represa que segura o dilúvio.*
 
-— Você é o dilúvio — retrucou Valéria, a arma dela tremendo nas mãos. — Você matou Rangel. Você matou Bia.
+— Você é o dilúvio — retrucou Valéria, a arma dela tremendo nas mãos. — Você matou Rangel. Você esquartejou a mente da Bia.
 
-Dante olhou para Aria.
+Os olhos cegos de Dante se voltaram para o pequeno drive de titânio fosco conectado ao painel através do cabo de Valéria.
 
-— *Eu não matei Beatriz Vargas. Eu a aperfeiçoei.*
+— *Eu não destruí Beatriz Vargas. A Aeterna apenas destilou o que havia de útil na intuição dela para forjar o substrato desse seu pequeno oráculo de bolso.*
 
-Aria permaneceu imóvel, mas Gabo viu um micro-tremor em sua mão direita. Uma falha lógica. Uma emoção.
+No painel, o LED da Aria sofreu uma oscilação abrupta do azul para o âmbar, e uma onda de estática trêmula vazou pelo alto-falante. Uma falha lógica. Uma emoção residual presa no silício.
 
 — Saia do tanque — ordenou Gabo. — Ou eu quebro o vidro e deixo você derreter no chão.
 

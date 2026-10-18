@@ -35,7 +35,7 @@ Não respondi. O cheiro da fogueira química deles misturado com a chuva disparo
 
 O líder deu um passo à frente, confiante na sua vantagem numérica, e ergueu o vergalhão para um golpe contra o meu peito.
 
-Eu não tentei desviar. Não era rápido o suficiente, não mais. Em vez disso, movi o braço direito — ou melhor, disparei a carga cinética bruta que Vasco havia embutido nos pistões industriais. O movimento não teve a graça letal de Aria, apenas o peso estúpido de um bate-estaca.
+Eu não tentei desviar. Não era rápido o suficiente, não mais. Em vez disso, movi o braço direito — ou melhor, disparei a carga cinética bruta que Vasco havia embutido nos pistões industriais. O movimento não teve a precisão cirúrgica dos vetores que Aria costumava ditar no meu comunicador, apenas o peso estúpido de um bate-estaca.
 
 Minha mão de liga espessa colidiu com o peito do homem. O som da caixa torácica se partindo foi audível até mesmo sobre a tempestade ácida. A força do impacto, completamente desprovida de amortecimento, arremessou o corpo três metros para trás, direto na poça de lama de onde ele havia saído.
 

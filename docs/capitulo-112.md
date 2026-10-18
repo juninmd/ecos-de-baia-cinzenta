@@ -1,6 +1,6 @@
 ---
 image: /cenas/cidade.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Inspetor Rangel, Marco Moretti, Aria Moretti, Dante Moretti
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Inspetor Rangel, Marco Moretti, Aria, Dante Moretti
 ---
 # Capítulo 112: O Peso da Memória
 
@@ -18,29 +18,29 @@ A tampa do bueiro pesava como uma lápide de ferro. Gabo empurrou com o ombro bo
 
 Eles emergiram em um beco estreito entre dois armazéns abandonados no Distrito Industrial. A chuva caía em lençóis pesados, lavando a poeira do esgoto de suas roupas, mas não a tensão.
 
-Valéria foi a primeira a sair, sua *techwear* já camuflando-se com o cinza do concreto. Ela não olhou para o perímetro; ela olhou direto para Gabo, que subia a escada de mão como se alguém fosse ao lado dele.
+Valéria foi a primeira a sair, sua *techwear* já camuflando-se com o cinza do concreto. Ela não olhou para o perímetro; ela olhou direto para Gabo, que subia a escada de mão ajustando o comunicador tático na lapela, onde o pendrive blindado da Aria pulsava com seu pequeno LED azul.
 
 Assim que os pés de Gabo tocaram o asfalto molhado, Valéria o prensou contra a parede de tijolos.
 
-— Val! — Gabo tentou intervir, mas a perna travou.
+— Val! — Gabo tentou recuar, mas a órtese da perna travou na lama.
 
-— Não — Valéria rosnou, o braço pressionando o pescoço dele. A lâmina de cerâmica saiu de seu pulso, pairando a milímetros da jugular. — Chega de segredos. Chega de fingir que ela está aqui.
+— Não — Valéria rosnou, o braço pressionando o peito dele e os olhos prateados fixos no drive de titânio fosco espetado no comunicador. — Chega de segredos, Gabo. Chega de conversar com esse pendrive no escuro como se houvesse alguém vivo aí dentro.
 
-Gabo piscou, atordoado, os olhos buscando algo que só ele via.
+Gabo piscou sob a chuva ácida, a mão subindo instintivamente para proteger o pequeno módulo de titânio e polímero negro.
 
-— Por que você continua falando o nome dela? — A voz de Valéria tremeu, uma falha rara em sua armadura cínica. — Aria morreu no Dilúvio. Era sua filha com a Elena. Eu vi o relatório. Eu vi as fotos.
+— Por que você continua tratando um software tático como se fosse um fantasma? — A voz de Valéria tremeu, uma falha rara em sua armadura cínica. — Você achou a Aria numa cabine telefônica alagada no começo do Dilúvio! É uma assistente de IA tática da Aeterna, Gabo! Eu abri os diretórios de voz dela no Fliperama: o que você ouve não é a Bia Vargas viva. São fragmentos neurais residuais da sua ex-parceira que a corporação minerou para dar intuição ao algoritmo!
 
-Rangel, que terminava de fechar o bueiro, congelou. A chuva escorria por seus óculos, mas ele não precisava limpá-los para ver a verdade que Valéria exigia.
+Rangel, que terminava de fechar o bueiro, congelou. A chuva escorria por seu rosto cansado, e o peso do nome de Beatriz Vargas pairava entre os dois policiais como chumbo.
 
-Gabo mancou até ela, colocando a mão suavemente no ombro de Valéria.
+Gabo segurou o pulso de Valéria com firmeza, mas sem violência, afastando-a meio passo.
 
-— Val, solta... — ele sussurrou. — Ela não foi embora para mim.
+— Eu sei o que ela é, Val — ele sussurrou, a voz rouca competindo com a tempestade. — Sei que é código num pedaço de titânio. Mas naquela cabine telefônica, e nos túneis depois do pulso... essa voz foi a única coisa que calculou uma saída quando todo o resto falhou.
 
-— Isso está te matando — disse Rangel, aproximando-se. — E vai matar todos nós se você não voltar.
+— Isso está te corroendo por dentro — disse Rangel, aproximando-se devagar. — Ouvir os mortos num comunicador vai matar todos nós se você hesitar na hora de puxar o gatilho.
 
-Valéria soltou Gabo, recuando como se tivesse se queimado.
+Valéria soltou Gabo, recuando como se o calor do pequeno drive tivesse queimado seus dedos.
 
-— O que você sabe, Rangel? — ela cuspiu. — Você era da Corregedoria. Você encobria a sujeira deles.
+— E o que você sabe sobre os mortos deles, Rangel? — ela cuspiu, virando-se para o inspetor. — Você era da Corregedoria. Você encobria a sujeira deles.
 
 — Eu encobria os erros dos policiais — Rangel corrigiu, tirando a pasta manila que roubara do bunker de Kiko Vibe de dentro da jaqueta. Ele a protegeu da chuva com o corpo. — Mas isso aqui? Isso não é erro policial. Isso é engenharia familiar.
 
@@ -58,7 +58,9 @@ Rangel olhou para o grupo.
 
 — Ele ressuscitou o próprio pai já com a corrente no pescoço — murmurou Valéria, limpando a chuva do rosto. — Mas perdeu o controle da Árvore antes de puxar a coleira.
 
-— E agora Dante tem a chave da própria cela — concluiu Aria. — Ele mantém Prometeu funcionando apenas o suficiente para sobreviver aos ciclos.
+No comunicador de Gabo, o LED da Aria piscou em âmbar, aquecendo contra o tecido úmido do sobretudo.
+
+— *E agora Dante detém a chave da própria cela* — concluiu a voz sintética de Aria pelo alto-falante tático, fria e analítica. — *Ele mantém a Usina Prometeu operando em regime mínimo apenas o suficiente para sobreviver aos ciclos de resfriamento.*
 
 Um som de motor pesado cortou a conversa. Luzes amarelas varreram o beco. O grupo se achatou contra as sombras.
 
@@ -68,7 +70,7 @@ Um caminhão de coleta de lixo automatizado — um monstro de aço blindado com 
 
 — Que fica ao lado da usina — completou Valéria.
 
-— Eu não consigo hackear isso sem alertar a rede — disse Valéria. — O firewall desses caminhões é isolado para evitar sequestros de carga.
+— Eu não consigo hackear isso daqui sem alertar a rede — disse Valéria, tocando o *Phantom V3*. — O firewall desses caminhões é isolado para evitar sequestros de carga.
 
 Rangel guardou a pasta e sacou um molho de chaves antigas, um chaveiro físico com o brasão da polícia.
 
@@ -80,7 +82,7 @@ Gabo olhou para o ex-policial com um respeito relutante.
 
 — Eu estou dizendo que vou *requisitar* um veículo oficial para uma operação em andamento — Rangel caminhou em direção à rua, a chuva batendo em suas costas largas. — Vamos. O lixo não espera por ninguém.
 
-Enquanto corriam para interceptar o gigante de metal, Gabo olhou para trás uma última vez. A sombra de Aria se alongava no asfalto molhado, e por um segundo, parecia a silhueta de uma criança.
+Enquanto corriam para interceptar o gigante de metal, Gabo tocou o pendrive blindado da Aria preso ao comunicador. O LED azul refletia nas poças de óleo do asfalto molhado como uma brasa fria que se recusava a apagar.
 
 O passado de Baía Cinzenta não estava morto. Ele estava apenas esperando a chuva parar para sair das covas.
 

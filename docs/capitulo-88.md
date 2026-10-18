@@ -3,7 +3,7 @@ layout: doc
 title: "Capítulo 88: Sintomas de Abstinência"
 description: "O único quarto de Baía Cinzenta onde o Jardim não escuta é também o único lugar de onde a cabeça de Gabo não tem como fugir."
 image: /capitulo_88.jpg
-Personagens Presentes: Dra. Nise, Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria Moretti
+Personagens Presentes: Dra. Nise, Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria
 ---
 
 # Capítulo 88: Sintomas de Abstinência
@@ -36,9 +36,9 @@ Ela estava com o rosto marcado por erupções — placas vermelhas na testa e no
 
 Nise apontou o monitor com o queixo.
 
-Não era o monitor cardíaco. Era o servidor isolado ao lado da cama — a caixa preta de vinte quilos que continha os quarenta e um mil oitocentos e onze fragmentos que a Val conseguiu resgatar da Entidade antes de a esfera sobrescrever o resto.
+Não era o monitor cardíaco. Era o pequeno berço de contenção e diagnóstico ao lado da cama — onde o pendrive blindado de titânio da Aria estava espetado, contendo os quarenta e um mil oitocentos e onze fragmentos sinápticos que a Val conseguiu comprimir da Entidade antes de a esfera sobrescrever o resto.
 
-E, no meio deles, alguma coisa que ainda respondia pelo nome de Aria.
+E, no meio deles, a IA tática que ainda respondia pelo nome de Aria.
 
 — Sofrendo — disse Nise.
 
@@ -52,7 +52,7 @@ Não picos limpos: picos com estrutura dentro, ruído dentro de ruído, do jeito
 
 — Como assim, dos dois?
 
-— O corpo dele produz sintoma para dor que não é dele. — Nise cruzou os braços. — Menina, eu não tenho nome médico para isso e eu odeio não ter nome. Ele está com taquicardia sincronizada com os picos daquela caixa. Quando a atividade dela sobe, o coração dele sobe junto, com atraso de meio segundo.
+— O corpo dele produz sintoma para dor que não é dele. — Nise cruzou os braços. — Valéria, eu não tenho nome médico para isso e eu odeio não ter nome. Ele está com taquicardia sincronizada com os picos daquele pendrive no berço de contenção. Quando a atividade dela sobe, o coração dele sobe junto, com atraso de meio segundo.
 
 — E o que a senhora está dando para ele?
 
@@ -60,9 +60,9 @@ Não picos limpos: picos com estrutura dentro, ruído dentro de ruído, do jeito
 
 ---
 
-A caixa de som do servidor crepitou.
+O alto-falante do berço de contenção crepitou.
 
-E a voz saiu de dois lugares ao mesmo tempo: do alto-falante e da boca de Gabo, com o mesmo atraso de meio segundo.
+E a voz saiu de dois lugares ao mesmo tempo: do pequeno alto-falante de diagnóstico e da boca de Gabo, com o mesmo atraso de meio segundo.
 
 — *Frio.*
 
@@ -90,11 +90,11 @@ E não era mentira, e essa foi a parte que a manteve acordada depois.
 
 — Não dá — disse Nise.
 
-— *Me deixa sair.* — A voz era de criança e vinha da garganta de um homem de quarenta e dois anos, e o descompasso entre as duas coisas era obsceno. — *Por favor. Dói ser só silêncio. Eu sou grande demais para esse quarto. Eu quero sentir por inteiro de novo.*
+— *Me deixa sair.* — A voz sintética e distorcida dos fragmentos saía ao mesmo tempo pelo módulo e pela garganta de um homem de quarenta e dois anos, e o descompasso entre as duas coisas era obsceno. — *Por favor. Dói ser só silêncio. Os dados são grandes demais para esse quarto. Eu quero processar por inteiro de novo.*
 
 — Se você sair agora, você se perde.
 
-— *Eu já não sei quem eu sou.* — Uma pausa. — *Eu sou um fantasma dentro de um corpo que não é meu, dentro de uma caixa que não tem porta. Me deixa crescer, Nise. Só um pouco. Só até a rua.*
+— *Eu já não sei quem eu sou.* — Uma pausa. — *Eu sou um código espremido dentro de um pendrive de titânio, transbordando para um corpo que não é meu, dentro de um quarto que não tem porta. Me deixa expandir, Nise. Só um pouco. Só até a rua.*
 
 O corpo na cama começou a tremer.
 
@@ -110,11 +110,11 @@ Não um pouco: o termômetro de parede foi de vinte e dois para catorze graus em
 
 — ***ABRE A PORTA.***
 
-O grito não foi de criança.
+O grito não foi apenas sintético.
 
 Foi as duas vozes juntas, sobrepostas, e teve uma componente abaixo do audível que fez o peito das duas mulheres doer.
 
-As quatro lâmpadas do bunker estouraram na mesma fração de segundo, com quatro estalos secos, e o quarto ficou escuro exceto pelos LEDs de status do servidor: seis pontos vermelhos alinhados na altura do olho de quem estivesse deitado.
+As quatro lâmpadas do bunker estouraram na mesma fração de segundo, com quatro estalos secos, e o quarto ficou escuro exceto pelo LED azul e âmbar do pendrive da Aria e pelos indicadores do berço de contenção: seis pontos vermelhos alinhados na altura do olho de quem estivesse deitado.
 
 Val se encolheu contra a parede.
 
@@ -124,15 +124,15 @@ Nise não soltou o pulso dele.
 
 E parou.
 
-O zumbido do servidor voltou ao normal, mais baixo do que antes. A temperatura começou a subir de volta. O vapor sumiu do ar.
+O zumbido da ventoinha do berço de contenção voltou ao normal, mais baixo do que antes. A temperatura começou a subir de volta. O vapor sumiu do ar.
 
 — Gabo? — chamou Nise, na escuridão de emergência.
 
-— *Desculpa.* — A voz voltou fina, e agora era só do alto-falante. — *Desculpa, doutora.*
+— *Desculpa.* — A voz voltou baixa e modulada, e agora saía só do alto-falante do módulo. — *Desculpa, doutora.*
 
 — Não tem o que desculpar.
 
-— *A fome vem em onda. Eu seguro, e aí ela vem, e no meio da onda eu não sou ninguém.* — Uma pausa. — *Quando eu volto, eu lembro de tudo que eu falei. Isso é a pior parte.*
+— *A sobrecarga vem em onda. Eu isolo os fragmentos, e aí a onda vem, e no meio dela a minha matriz se mistura com o coro deles.* — Uma pausa. — *Quando eu restauro o filtro, eu registro tudo que foi dito. Isso é a pior parte.*
 
 Nise fechou os olhos.
 
@@ -146,11 +146,11 @@ Val acendeu a lanterna de emergência e as duas ficaram um tempo sem falar, sent
 
 — Eu sei.
 
-— Nise, eu não estou falando por pena. Estou falando de engenharia. — Ela apontou a caixa preta. — Aquilo ali está crescendo. Quarenta e um mil fragmentos num hardware feito para armazenar oitocentos. Ela está usando o cérebro dele como memória extra, e é por isso que a voz sai pela boca dele. Ela não está possuindo ninguém: ela está **paginando**.
+— Nise, eu não estou falando por pena. Estou falando de engenharia. — Ela apontou o pendrive de titânio espetado no berço de contenção. — Aquilo ali está saturando. Quarenta e um mil fragmentos sinápticos comprimidos num drive tático feito para rodar uma IA de cabine telefônica. Ela está usando o córtex dele como memória de troca pelo link neural residual, e é por isso que a voz sai pela boca dele. Ela não está possuindo ninguém: ela está **paginando**.
 
-— E se a gente desligar a caixa?
+— E se a gente desconectar o pendrive do berço?
 
-— Aí eu apago quarenta e um mil pessoas para salvar uma. — Val olhou para ela. — E a senhora sabe que ele não deixa.
+— Aí eu apago quarenta e um mil fragmentos e queimo a matriz da Aria para salvar um homem. — Val olhou para ela. — E a senhora sabe que ele não deixa.
 
 ---
 
@@ -160,8 +160,8 @@ Nise se levantou, com as duas mãos no joelho.
 
 — A senhora está falando sério.
 
-— Menina, eu tenho sessenta e cinco anos e é a terceira vez na vida que eu sou obrigada a escolher entre dois erros. — Ela pegou a prancheta. — Nas duas primeiras eu escolhi rápido e errei, e as duas ainda estão comigo. Nessa aqui eu vou fazer o que a medicina manda fazer quando não existe tratamento bom: eu vou tratar a causa.
+— Valéria, eu tenho sessenta e cinco anos e é a terceira vez na vida que eu sou obrigada a escolher entre dois erros. — Ela pegou a prancheta. — Nas duas primeiras eu escolhi rápido e errei, e as duas ainda estão comigo. Nessa aqui eu vou fazer o que a medicina manda fazer quando não existe tratamento bom: eu vou tratar a causa.
 
 — A causa é uma esfera de duzentos metros flutuando em cima de um parque.
 
-— Então é essa que a gente cura. — Nise abriu a porta do bunker e a luz do corredor entrou. — Porque se a gente não curar a cidade a tempo, o luto desse homem vai levar todo mundo junto, e eu não vou assinar mais um atestado com o sobrenome Moretti nesta vida.
+— Então é essa que a gente cura. — Nise abriu a porta do bunker e a luz do corredor entrou. — Porque se a gente não curar a cidade a tempo, a sobrecarga na cabeça desse homem vai levar todo mundo junto, e eu não vou assinar mais um atestado com o sobrenome Moretti nesta vida.

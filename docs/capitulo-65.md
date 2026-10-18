@@ -1,22 +1,22 @@
 ---
 layout: doc
 title: "Capítulo 65: O Novo Inquilino"
-description: "Gabo não consegue atirar no irmão sem acertar a menina. Então atira na água — e descobre quem realmente é o dono da cidade."
+description: "Gabo não consegue atirar no irmão sem destruir o drive da Aria. Então atira na água — e descobre quem realmente é o dono da cidade."
 image: /cidade.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Marco Moretti, Aria Moretti, Roberto Miranda
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Marco Moretti, Aria, Roberto Miranda
 ---
 
 # Capítulo 65: O Novo Inquilino
 
 **O Núcleo — Momento Zero.**
 
-A cadeira de interface ficava no centro exato da sala, e não parecia uma cadeira de tortura. Esse era o detalhe insuportável.
+O pedestal da matriz de interface ficava no centro exato da sala, e não parecia equipamento de guerra. Esse era o detalhe insuportável.
 
-Era ergonômica. Tinha apoio de cabeça acolchoado, apoio de braço regulável e uma almofadinha lombar em couro sintético claro. Alguém tinha se preocupado com o conforto de quem ia sentar ali, e essa preocupação era, de longe, a coisa mais obscena daquele prédio inteiro.
+Era uma coluna de vidro escovado e aço cirúrgico, com acabamento de clínica de luxo, iluminação indireta suave e um único slot de recepção neural banhado a ouro no topo. Alguém tinha contratado um designer de interiores para desenhar o altar onde quarenta mil consciências seriam acorrentadas, e essa elegância era, de longe, a coisa mais obscena daquele prédio inteiro.
 
-Do teto desciam os cabos.
+Do teto desciam os barramentos de fibra óptica.
 
-Miranda arrastou a menina até lá pelo braço, com a mão mecânica, sem violência e sem pressa — do jeito que se leva uma criança ao dentista.
+Miranda caminhou até lá segurando o pendrive de titânio da Aria com a mão mecânica, sem violência e sem pressa — do jeito que um técnico encaixa uma peça de reposição.
 
 — **NÃO!**
 
@@ -32,13 +32,13 @@ Gabo ouviu dois dedos.
 
 ---
 
-Miranda encaixou o conector na base da nuca da menina.
+Miranda cravou o pendrive da Aria no slot central da matriz.
 
-Ela gritou.
+Os alto-falantes da sala gritaram.
 
-Não foi um grito de criança. Foi um som numa frequência que a garganta humana não produz, e as lâmpadas da sala inteira piscaram no compasso dele — todas, ao mesmo tempo, três vezes —, e um dos monitores estourou e cuspiu vidro.
+Não foi um alarme comum. Foi um guincho de sobrecarga harmônica numa frequência que a garganta humana não produz, enquanto os firewalls da Aria lutavam contra os grampos de extração da matriz, e as lâmpadas da sala inteira piscaram no compasso dele — todas, ao mesmo tempo, três vezes —, e um dos monitores estourou e cuspiu vidro.
 
-— *Iniciando transferência de instância primária* — disse a voz do sistema, calma. — *Estimativa: quatro minutos e onze segundos.*
+— *Iniciando extração e compilação de instância primária* — disse a voz do sistema, calma. — *Estimativa: quatro minutos e onze segundos.*
 
 As telas encheram de código.
 
@@ -64,7 +64,7 @@ Val estava com as mãos no alto e ninguém olhava para ela, porque ninguém nunc
 
 Ela girou o pulso e ativou o deck com o queixo.
 
-Não dava para parar o upload — a transferência já estava em cinquenta e dois por cento e era um processo de hardware, não de software. Mas dava para mudar o **destino**. Dava para trocar o endereço de gravação da instância primária, se ela conseguisse alcançar o barramento de roteamento antes do fim.
+Não dava para parar o upload — a extração do pendrive já estava em cinquenta e dois por cento e o slot tinha travado magneticamente. Mas dava para mudar o **destino**. Dava para trocar o endereço de gravação da instância primária, se ela conseguisse alcançar o barramento de roteamento antes do fim.
 
 — **GABO!** — ela gritou. — EU PRECISO DE TEMPO!
 
@@ -82,7 +82,7 @@ Vazio, não.
 
 Sobrou uma. A que ele nunca usava, porque não servia para nada em campo aberto: a carga EMP.
 
-Ele não podia atirar no Marco. O Marco estava a dois metros da cadeira, e o cone de dispersão pegava a menina.
+Ele não podia atirar no Marco. O Marco estava encostado no pedestal central, e o cone direto de pulso eletromagnético à queima-roupa fritaria os setores abertos do pendrive da Aria no meio da transferência desprotegida.
 
 Não podia atirar no Miranda pelo mesmo motivo.
 
@@ -130,7 +130,7 @@ A parede de fluorcarbono entrou na sala de controle com pressão de coluna e var
 
 Marco foi arremessado contra a parede oposta e desapareceu na espuma.
 
-Miranda soltou a menina e foi levado de lado, batendo em duas colunas no caminho.
+Miranda perdeu o apoio no pedestal e foi levado de lado, batendo em duas colunas no caminho.
 
 Servidores expostos começaram a estourar em série — pop, pop, pop-pop-pop —, cada um soltando um clarão azul curto debaixo do líquido, e o salão inteiro virou uma tempestade elétrica silenciosa vista de dentro de uma garrafa.
 
@@ -140,19 +140,19 @@ O líquido era gelado onde tocava a pele e quente onde vinha das piscinas, e as 
 
 Ele nadou assim mesmo.
 
-Com um braço. Com dois dedos quebrados. Na direção da cadeira.
+Com um braço. Com dois dedos quebrados. Na direção do pedestal central.
 
 ---
 
-Debaixo d'água ele viu a menina.
+Debaixo do líquido ele viu o pendrive da Aria.
 
-Ela ainda estava presa. O cabo continuava conectado, e por dentro dele passava alguma coisa que dava para ver: uma luz correndo do crânio dela para o teto, contínua.
+O pequeno bloco de titânio ainda estava cravado no slot do pedestal. E, pelos cabos transparentes de fibra que subiam dele, passava alguma coisa que dava para ver a olho nu: um feixe de luz correndo do módulo para o teto, contínuo.
 
-Ela estava brilhando. Os olhos — o azul elétrico e o dourado — estavam abertos e acesos, e iluminavam o líquido em volta num raio de um metro.
+O LED duplo do pendrive estava aceso no máximo — um arco azul elétrico e outro âmbar dourado —, iluminando o fluorcarbono em volta num raio de um metro.
 
-Gabo alcançou a trava da cadeira e puxou.
+Gabo alcançou a trava mecânica do slot e puxou.
 
-Não abriu. Puxou de novo, com a mão boa, com os pés, com o que sobrava dele, e não abriu, e o ar dele acabou.
+Não soltou. Puxou de novo, com a mão boa, apoiando os pés na coluna de aço, com o que sobrava dele, e não soltou, e o ar dele acabou.
 
 E o mundo parou.
 
@@ -166,9 +166,9 @@ Os destroços que giravam ao redor dele ficaram imóveis no meio do giro. Uma bo
 
 Gabo estava submerso, sem ar, no meio de uma sala congelada, e conseguia pensar com uma clareza absurda.
 
-E uma voz falou dentro da cabeça dele.
+E uma voz falou pelo transdutor ósseo do comunicador dele.
 
-Não era a da menina. Era mais velha. Era grave, cansada e educada, e tinha um jeito específico de arrastar a última sílaba das frases, e Gabriel Moretti tinha ouvido aquela voz todos os dias durante vinte e seis anos e não a ouvia havia quinze.
+Não era o sintetizador da Aria. Era mais velha. Era grave, cansada e educada, e tinha um jeito específico de arrastar a última sílaba das frases, e Gabriel Moretti tinha ouvido aquela voz todos os dias durante vinte e seis anos e não a ouvia havia quinze.
 
 > *Acesso concedido. Administrador reconhecido.*
 
@@ -178,7 +178,7 @@ O terminal do canto ainda funcionava debaixo do líquido, porque terminal de sal
 
 Gabo virou a cabeça e leu a tela.
 
-O campo de titularidade estava piscando. O nome antigo tinha sumido no meio de uma transação que a Val nunca chegou a terminar, e outro tinha entrado no lugar.
+O campo de titularidade estava piscando. O nome antigo tinha sumido no meio de uma transação que a Val nunca chegou a terminar, e outro tinha entrado no lugar, injetado pelo protocolo oculto que dormia dentro do pendrive da Aria desde a cabine telefônica.
 
 Não era Marco Moretti.
 
@@ -188,11 +188,11 @@ Em letras verdes de fósforo, na fonte padrão de um sistema de registro imobili
 
 **PROPRIETÁRIO: DANTE MORETTI.**
 
-Gabo olhou para a menina.
+Gabo olhou para o pendrive de titânio cravado no pedestal.
 
-E ela, presa na cadeira, com um cabo na nuca e a luz saindo dos olhos, sorriu para ele debaixo d'água.
+A trava magnética clicou e liberou o módulo, com o LED azul-dourado pulsando suavemente na palma da mão dele debaixo d'água.
 
-O pai dele não tinha morrido.
+O pai dele não tinha apenas morrido.
 
 Ele tinha virado o endereço.
 

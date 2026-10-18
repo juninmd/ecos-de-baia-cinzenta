@@ -3,7 +3,7 @@
 - **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
 - **Localização:** Necrópole (Subnível 7 - Lixão de Ossos)
 - **Personagens Presentes:** Gabo, Valéria, Aria (Reboot), Rangel (Inconsciente)
-- **Resumo:** No Subnível 7, o grupo se recupera da fuga pelo duto de descarte. A escuridão é quase total, quebrada apenas pela luz tática de Valéria. Gabo luta com as queimaduras nas mãos, usando a dor como um escudo contra o vício. Aria, com sua nova lógica implacável, faz uma triagem dos recursos e descobre antigos cabos de fibra ótica preservados em um sarcófago entre os restos mortais. O achado revela que o Taxidermista não construiu seu estúdio sobre o nada, mas sobre uma infraestrutura esquecida da velha Aeterna Corp. Valéria usa os cabos para tentar estabilizar uma improvisada rede local, e eles se preparam para a escalada de volta.
+- **Resumo:** No Subnível 7, o grupo se recupera da fuga pelo duto de descarte. A escuridão é quase total, quebrada apenas pela luz tática de Valéria e pelo LED azul-gelo do pendrive de Aria. Gabo luta com as queimaduras nas mãos, usando a dor como um escudo contra a alucinação de fumaça. Aria, operando a partir de seu drive blindado com nova lógica implacável, faz uma triagem dos recursos através dos sensores do deck de Valéria e detecta antigos cabos de fibra ótica preservados em um sarcófago de concreto entre os restos mortais. O achado revela que o Taxidermista construiu seu estúdio sobre uma infraestrutura esquecida da velha Aeterna Corp.
 
 ## Narrativa
 
@@ -13,39 +13,39 @@ O frio do Subnível 7 não era como o frio de inverno nas ruas de Baía Cinzenta
 
 Gabo estava sentado em uma carcaça que outrora fora o torso de um ciborgue de carga pesada. Ele olhou para as próprias mãos, que tremiam levemente. A pele nas palmas estava vermelha, coberta de bolhas estouradas pela fricção de arrancar a grade do duto. O cheiro de carne queimada ainda impregnava seu nariz, uma memória fantasma da fornalha do Taxidermista.
 
-Ele fechou os punhos com força. O latejar agudo subiu pelos antebraços como um choque elétrico. Ele inspirou devagar, retendo o ar, e expirou. A dor era limpa, nítida. O cheiro de queimado no ar o enjoava profundamente — um lembrete visceral do trauma, a fumaça suja invadindo seus pulmões sem permissão. Ele odiava a fumaça. Odiava a fraqueza que ela representava. A dor nas mãos, em contraste, era uma escolha. Uma âncora afiada que o prendia à realidade. *Dez segundos de foco*, ele pensou. *Só preciso de mais dez segundos de foco.*
+Ele fechou os punhos com força. O latejar agudo subiu pelos antebraços como um choque elétrico. Ele inspirou devagar, retendo o ar, e expirou. A dor era limpa, nítida. O cheiro de queimado no ar o enjoava profundamente — um lembrete visceral do trauma, a fumaça suja invadindo seus pulmões sem permissão desde os anos atrás no escritório de Dante. Ele odiava a fumaça. Odiava a fraqueza que ela representava. A dor nas mãos, em contraste, era uma escolha. Uma âncora afiada que o prendia à realidade. *Dez segundos de foco*, ele pensou. *Só preciso de mais dez segundos de foco.*
 
-— A temperatura do Inspetor Rangel está em trinta e nove ponto dois graus — a voz de Aria era de uma precisão cirúrgica, vazia de qualquer empatia. Ela estava de pé a poucos metros, sua visão noturna iluminando a névoa fria da caverna com um brilho pálido e predatório. — O calor acelerou a sepse. Seus órgãos iniciarão o processo de falha em cascata dentro de cento e oitenta minutos.
+— A temperatura do Inspetor Rangel está em trinta e nove ponto dois graus — a voz sintética de Aria soou pelo comunicador do cyberdeck de Valéria, de uma precisão cirúrgica e vazia de qualquer empatia. Conectado à porta lateral do *Phantom V3*, o drive neural blindado de titânio fosco emitia seu brilho azul-gelo constante na névoa fria da caverna. — O calor acelerou a sepse. Seus órgãos iniciarão o processo de falha em cascata dentro de cento e oitenta minutos.
 
-Valéria estava ajoelhada ao lado do inspetor, iluminando-o com a luz azul fraca de seu pulso. O peito de Rangel subia e descia em uma respiração rasa e ofegante. O epóxi industrial que Valéria havia usado para selar a ferida parecia estar cedendo sob o suor febril.
+Valéria estava ajoelhada ao lado do inspetor, iluminando-o com o feixe auxiliar de seu pulso enquanto os biossensores do deck liam os sinais vitais dele. O peito de Rangel subia e descia em uma respiração rasa e ofegante. O epóxi industrial que Valéria havia usado para selar a ferida parecia estar cedendo sob o suor febril.
 
-— E qual a sua sugestão, Aria? — Valéria perguntou, a voz tensa, sem tirar os olhos do paciente. — Deixá-lo para trás de novo?
+— E qual a sua sugestão, Aria? — Valéria perguntou, a voz tensa, encarando o pequeno cilindro prismático de polímero negro e titânio espetado em seu antebraço. — Deixá-lo para trás de novo?
 
-— É a otimização matemática da nossa sobrevivência — Aria respondeu imediatamente, sem hesitar. Sua cabeça girou com um som mecânico suave. — O peso do Inspetor Rangel reduz nossa velocidade de progressão vertical em sessenta e quatro por cento. A probabilidade de escalada bem-sucedida pelo duto de ventilação secundário sem ele é de quarenta e dois por cento. Com ele, é de oito vírgula cinco por cento.
+— É a otimização matemática da nossa sobrevivência — Aria respondeu imediatamente pelo alto-falante, sem hesitar. — O peso do Inspetor Rangel reduz a velocidade de progressão vertical de vocês em sessenta e quatro por cento. A probabilidade de escalada bem-sucedida pelo duto de ventilação secundário sem ele é de quarenta e dois por cento. Com ele, é de oito vírgula cinco por cento.
 
 Gabo cuspiu sangue e poeira no chão. O som ecoou nas paredes da caverna, abafado pela montanha de restos biológicos.
 
-— Ele sobe com a gente — Gabo disse, a voz rouca, levantando-se devagar. O couro de seu casaco rangeu. — A gente não larga ninguém para trás, Aria. Essa é a regra.
+— Ele sobe com a gente — Gabo disse, a voz rouca, levantando-se devagar. O couro de seu casaco rangeu. — A gente não larga ninguém para trás, Aria. Essa é a regra desde o Capítulo 2, quando te tirei daquela cabine telefônica na enchente.
 
-— Regras são construções sociais sujeitas a falhas estruturais, Detetive Moretti — a androide retrucou. Seus olhos heterocromáticos fixaram-se em Gabo. — O sacrifício de uma unidade danificada para preservar o núcleo do grupo é o protocolo padrão em cenários de risco extremo.
+— Regras são construções sociais sujeitas a falhas estruturais, Detetive Moretti — a IA retrucou pelo comunicador, o LED azul-gelo do pendrive pulsando a cada sílaba. — O sacrifício de uma unidade danificada para preservar o núcleo do grupo é o protocolo padrão em cenários de risco extremo.
 
-— Foda-se o protocolo — Gabo sibilou, caminhando em direção a ela. Ele ignorou a dor latejante nas mãos e apontou um dedo enfaixado e sujo para o rosto sintético da garota. — Enquanto eu estiver respirando, a gente não abandona ninguém. Se você não gosta da matemática, recalcula.
+— Foda-se o protocolo — Gabo sibilou, caminhando até Valéria. Ele ignorou a dor latejante nas mãos e apontou um dedo enfaixado e sujo para o pendrive blindado acoplado ao pulso da hacker. — Enquanto eu estiver respirando, a gente não abandona ninguém. Se você não gosta da matemática, recalcula.
 
-Aria o encarou por um longo segundo. Seu processador interno fez um leve zumbido.
+O LED do drive piscou duas vezes em silêncio enquanto o coprocessador interno aquecia no ar gelado.
 
 — Compreendido. Ajustando parâmetros de missão. Incorporando falha humana crônica no modelo de risco.
 
 Valéria suspirou, esfregando o rosto sujo de fuligem.
 
-— O duto por onde caímos está lacrado por detritos e pelo fogo — ela disse, iluminando vagamente o teto distante da caverna. — Se vamos subir, temos que encontrar os poços de ventilação principais. Mas não tenho mapa. Meu deck está completamente cego aqui embaixo. Não tem sinal, não tem ping, não tem nada. É como se a cidade não existisse.
+— O duto por onde caímos está lacrado por detritos e pelo fogo — ela disse, iluminando vagamente o teto distante da caverna. — Se vamos subir, temos que encontrar os poços de ventilação principais. Mas não tenho mapa. Meu deck está quase cego aqui embaixo. Não tem sinal, não tem ping, não tem nada. É como se a cidade não existisse.
 
-Aria virou a cabeça abruptamente, o feixe de seus olhos cortando a escuridão em direção a uma formação estranha na montanha de lixo orgânico.
+No pulso de Valéria, o indicador luminoso de Aria mudou de cadência, cruzando os dados do sonar passivo do *Phantom V3* com uma anomalia magnética sob a montanha de lixo orgânico.
 
-— Detecção de anomalia material — ela anunciou.
+— Detecção de anomalia material a seis metros, azimute norte — Aria anunciou. — Assinatura de blindagem dielétrica sob os detritos.
 
-A androide caminhou com passos precisos sobre os ossos e placas de metal retorcido, parando diante do que parecia ser um grande bloco retangular de concreto, parcialmente enterrado na pilha de descartes. Era liso e escuro, coberto por camadas de calcificação e musgo bioluminescente.
+Gabo e Valéria caminharam sobre os ossos e placas de metal retorcido, guiados pelo cursor que Aria projetava no visor de Valéria, até pararem diante de um grande bloco retangular de concreto parcialmente enterrado na pilha de descartes. Era liso e escuro, coberto por camadas de calcificação e musgo bioluminescente.
 
-Com um movimento seco, Aria enfiou os dedos desprovidos de pele falsa — agora puro titânio brilhante após a queima na grade — em uma fissura do bloco. Ela fez alavanca com a força de um pistão industrial. O concreto rangeu e, com um estrondo seco, uma pesada tampa de pedra cedeu.
+Com um grunhido, Gabo encaixou a ponta de uma barra de suspensão quebrada em uma fissura do bloco e jogou o peso do tronco junto com Valéria. A ferida nas palmas queimou como brasa viva, mas o concreto rangeu e, com um estrondo seco, a pesada tampa de pedra cedeu.
 
 — O que é isso? — Valéria se aproximou, a luz azul do pulso revelando o interior do bloco. — Parece um... sarcófago?
 
@@ -53,9 +53,9 @@ Não era um sarcófago de ossos. O interior estava preenchido por um emaranhado 
 
 — Isso não é lixo do Taxidermista — Gabo observou, estreitando os olhos. Ele sentiu o cheiro de polímeros antigos, um aroma que o transportou para os arquivos empoeirados do DPBC.
 
-Aria puxou um dos tubos. A ponta estava seccionada, revelando um feixe de milhares de fios vítreos brilhantes.
+Valéria puxou um dos tubos seccionados, expondo um feixe de milhares de fios vítreos brilhantes diante do sensor óptico de seu deck.
 
-— Fibra ótica de alta densidade. Grau militar. Padrão Aeterna Corp, geração anterior à Nuvem.
+— Fibra ótica de alta densidade — analisou Aria instantaneamente pelo alto-falante. — Grau militar. Padrão Aeterna Corp, geração anterior à Nuvem.
 
 Valéria ofegou, seus dedos tremendo ao tocar os cabos.
 
@@ -65,7 +65,7 @@ Gabo olhou para cima, para a escuridão intransponível de onde tinham despencad
 
 — Ele não está só brincando de artista com os cadáveres — murmurou Gabo, o peso da verdade ancorando-o à realidade. — Ele é uma aranha no centro da teia velha. Se essas raízes sobem até o estúdio dele...
 
-— Elas nos levam direto para a garganta do filho da puta — Valéria completou, um brilho de determinação feroz acendendo-se em seus olhos. Ela começou a conectar um dos cabos de fibra ao seu deck, puxando adaptadores improvisados do cinto. — Me dá dez minutos, Gabo. Se eu conseguir injetar um pulso de luz nessas veias antigas, eu posso mapear a estrutura acima de nós e criar uma rede local cega.
+— Elas nos levam direto para a garganta do filho da puta — Valéria completou, um brilho de determinação feroz acendendo-se em seus olhos. Ela puxou um adaptador de diagnóstico do cinto e conectou o feixe de fibra diretamente à porta secundária onde o pendrive de Aria estava acoplado. — Me dá dez minutos, Gabo. Com o processamento da Aria injetando um pulso de luz nessas veias antigas, podemos mapear a estrutura acima de nós e criar uma rede local cega.
 
 — Faça isso — Gabo ordenou.
 

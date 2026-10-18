@@ -47,8 +47,9 @@ Não eram fichas. Eram **pastas de acompanhamento**. Grossas, com abas coloridas
 **MORETTI, D.**
 **MORETTI, H.**
 **MORETTI, M.**
-**MORETTI, A.**
+**MORETTI, E.**
 **MORETTI, C.**
+**ANEXO TÉCNICO — MÓDULO AUTÔNOMO ARIA (SETOR 7)**
 
 E, no fundo, sozinha, mais gorda que todas as outras juntas, com a aba já sem cor de tanto ser manuseada:
 
@@ -112,19 +113,19 @@ Fui abrindo as pastas.
 
 **MORETTI, C.** — Clara. Duas páginas. *Nascida após início do estudo. Manter em observação. Não interferir.* Isso é tudo. Minha irmã existe naquele arquivo como uma variável que ninguém teve tempo de usar.
 
-**MORETTI, A.** — Aria.
+**ANEXO TÉCNICO — MÓDULO AUTÔNOMO ARIA (PORTA DE SERVIÇO SETOR 7).**
 
-Não consegui abrir essa.
+Não consegui abrir esse de primeira.
 
-Elena veio, sentou no chão do meu lado, pegou a pasta da minha mão e abriu ela mesma. Leu em silêncio, com o queixo travado. Depois fechou e ficou com a pasta no colo, as duas mãos por cima, como quem cobre uma criança dormindo.
+Elena veio, sentou no chão do meu lado, pegou a pasta da minha mão e abriu ela mesma. Leu em silêncio, com o queixo travado. Depois fechou e ficou com a pasta no colo, as duas mãos por cima, como quem segura uma prova de crime que pesa demais.
 
-— Ela tinha cinco anos, Gabo, — Elena disse. — Está escrito assim mesmo. *"Substrato ideal: ausência de trauma acumulado, arquitetura em formação, custo de manutenção mínimo."*
+— Eles sabiam da cabine telefônica, Gabo, — Elena disse. — Está escrito assim mesmo: *"Anomalia detectada: o consultor D. Moretti compilou uma unidade autônoma de assistência tática em hardware portátil tipo pendrive, combinando código-fonte moral próprio com matriz de intuição extraída pós-óbito da agente B. Vargas, e ejetou o componente no terminal público da Via Costeira durante a inundação do Setor 7."*
 
-— Eles esperaram, — falei.
+— E eles não confiscaram o pendrive, — falei.
 
 — O quê?
 
-— A enchente. — Eu estava olhando para o chão. — Eles não mataram a nossa filha, Elena. Eles **esperaram** uma oportunidade ambiental e coletaram o padrão dela no meio de uma tragédia que ninguém ia investigar. Está escrito, na Helena: *perda não programada, ambiental.* Eles tinham vocabulário para isso. Eles tinham um **campo no formulário**.
+— Olha o despacho no rodapé. — Eu estava olhando para o chão. — Eles sabiam que eu tinha pegado o pendrive na cabine telefônica na enchente, Elena. E decidiram **não recolher**. Está escrito na ficha da nossa mãe: *perda não programada, ambiental.* E está escrito no anexo da Aria: *manter o hardware em posse do sujeito para observar resposta comportamental sob suporte tático híbrido.* Eles tinham vocabulário para a morte da nossa mãe na água e tinham protocolo para o pendrive no meu bolso. Eles tinham um **campo no formulário**.
 
 Elena não disse nada. Só apertou a pasta com mais força.
 

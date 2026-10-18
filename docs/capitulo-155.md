@@ -3,12 +3,13 @@
 - **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
 - **Localização:** Necrópole (Subnível 4.0 - Estação de Monorail Aeterna)
 - **Personagens Presentes:** Gabo, Valéria, Aria (Reboot)
+- **Resumo:** Na plataforma do monorail do Subnível 4.0, com as feridas das mãos de Gabo infeccionando e sangrando até o limite da parada cardíaca, Aria — operando a partir de seu pendrive no cyberdeck — analisa os recursos da cabine de manutenção que Valéria arromba e declara friamente que a única metodologia de sobrevivência é Valéria cauterizar as feridas de Gabo com um maçarico de plasma industrial. Após a agonizante cauterização, o Taxidermista fala pelos alto-falantes da estação.
 
 ## Narrativa
 
 # Capítulo 155: Ferrugem e Plasma
 
-A poeira de concreto ainda caía do abismo negro do poço do elevador quando os três finalmente romperam a escotilha emperrada para o Subnível 4.0. Não era um duto ou um corredor de manutenção. Era vasto, ecoante e exalava o odor de uma era esquecida.
+A poeira de concreto ainda caía do abismo negro do poço do elevador quando Gabo e Valéria finalmente romperam a escotilha emperrada para o Subnível 4.0. Não era um duto ou um corredor de manutenção. Era vasto, ecoante e exalava o odor de uma era esquecida desde o Dilúvio.
 
 Uma antiga estação de trânsito monorail da Aeterna Corp.
 
@@ -20,47 +21,46 @@ Seus joelhos atingiram o piso de cerâmica quebrada com um baque seco. O choque 
 
 E então, o cheiro veio.
 
-Não era mais apenas a memória do necrotério. Era o cheiro rascante, espesso e nauseante de tabaco vagabundo, queimando devagar, misturado com o formol adocicado da pele morta de Bia. A alucinação olfativa era tão intensa que Gabo tossiu, engasgando-se com o ar viciado da estação, sentindo a fumaça invisível raspar sua garganta e encher seus pulmões de piche fantasma.
+Não era mais apenas a memória do necrotério anos atrás. Era o cheiro rascante, espesso e nauseante de tabaco vagabundo, queimando devagar, misturado com o formol adocicado da pele morta de Bia. A alucinação olfativa era tão intensa que Gabo tossiu, engasgando-se com o ar viciado da estação, sentindo a fumaça invisível raspar sua garganta e encher seus pulmões de piche fantasma.
 
 Ele precisava de um escape. O desespero o fez curvar-se para a frente, pressionando as palmas das mãos — agora uma massa informe de carne viva, graxa e queimaduras de terceiro grau — diretamente contra o piso de cerâmica estilhaçada e fria. Ele esfregou as feridas contra as bordas irregulares do chão, trincando os dentes até a mandíbula estalar, convertendo o cheiro de fumaça em uma agonia física aguda, branca e ofuscante.
 
 A dor o rasgou por dentro, mas expulsou a fumaça. Ele puxou o ar, sôfrego, tremendo incontrolavelmente.
 
-— Gabo... Gabo, você está... — Valéria caiu de joelhos ao lado dele, as mãos tremendo sobre ele sem saber onde tocar sem causar mais danos. Seu olho biônico emitia um zumbido baixo, tentando focar na escuridão. — Você está perdendo muito sangue.
+— Gabo... Gabo, você está... — Valéria caiu de joelhos ao lado dele, as mãos tremendo sobre ele sem saber onde tocar sem causar mais danos. Seu olho biônico emitia um zumbido baixo, tentando focar na escuridão enquanto o pendrive blindado de Aria brilhava em seu pulso. — Você está perdendo muito sangue.
 
-Aria estava de pé a poucos metros deles, a silhueta imaculada banhada intermitentemente pela luz âmbar. Ela não ofegava. Ela não tremia. O rosto de Bia Vargas observava o homem destruído no chão com a mesma expressão de quem lê um código de barras defeituoso.
+No slot lateral do cyberdeck *Phantom V3*, o drive de titânio fosco e polímero negro não ofegava nem tremia. O LED azul-gelo de Aria pulsava constante, lendo a queda abrupta de pressão arterial de Gabo através dos sensores biométricos com a mesma frieza de quem lê um código de barras defeituoso.
 
-— *O sangramento ativo nas extremidades superiores e o déficit de volume intravascular atingiram níveis críticos,* — a voz sintética ecoou na estação vazia. — *Nesta taxa de perda circulatória, o sujeito Gabriel Moretti entrará em falência sistêmica e parada cardíaca em, aproximadamente, vinte e sete minutos e quarenta segundos.*
+— *O sangramento ativo nas extremidades superiores e o déficit de volume intravascular atingiram níveis críticos,* — a voz sintética de Aria ecoou pelo alto-falante do deck na estação vazia. — *Nesta taxa de perda circulatória, o sujeito Gabriel Moretti entrará em falência sistêmica e parada cardíaca em, aproximadamente, vinte e sete minutos e quarenta segundos.*
 
-— Então faça alguma coisa! — Valéria gritou, a voz rouca e desesperada quebrando o silêncio. — Você não é a IA fodona? Otimize isso!
+— Então me diz o que fazer, Aria! — Valéria gritou para o pendrive em seu braço, a voz rouca e desesperada quebrando o silêncio. — Você não é a IA tática fodona?! Otimize isso!
 
-Aria não respondeu imediatamente. Seus olhos varreram a plataforma escura, os vagões enferrujados parados em seus trilhos e a cabine de manutenção envidraçada no extremo da plataforma. Ela caminhou com passos precisos e inaudíveis até a cabine, esmagando a fechadura eletrônica corroída com um único golpe mecânico de sua mão sintética.
+No pulso de Valéria, o módulo de Aria aqueceu enquanto usava o scanner óptico do deck para varrer a plataforma escura, os vagões enferrujados parados em seus trilhos e a cabine de manutenção envidraçada no extremo da plataforma.
+— *Detecto equipamentos de reparo pesado na cabine de manutenção a doze metros,* — respondeu a IA.
 
-Segundos depois, ela retornou, carregando um pesado cilindro de metal negro conectado a um bico emissor. Um maçarico de plasma industrial da Aeterna.
+Valéria correu até a cabine, arrombou a fechadura eletrônica corroída com um golpe brutal de sua chave de impacto e varreu a bancada com o feixe do deck. Segundos depois, retornou carregando um pesado cilindro de metal negro conectado a um bico emissor: um maçarico de plasma industrial da Aeterna.
 
-— *A infraestrutura médica neste quadrante é inexistente,* — Aria declarou, parando diante deles. — *A única metodologia de otimização de sobrevida disponível para estancar a hemorragia severa em tecidos extensamente lacerados é a cauterização térmica agressiva.*
+— *A infraestrutura médica neste quadrante é inexistente,* — Aria declarou pelo alto-falante assim que o scanner do deck registrou a ferramenta nas mãos de Valéria. — *A única metodologia de otimização de sobrevida disponível para estancar a hemorragia severa em tecidos extensamente lacerados é a cauterização térmica agressiva com o maçarico de plasma.*
 
-Aria estendeu o maçarico para Valéria.
+— *A unidade Valéria Cruz executará o procedimento imediatamente,* — continuou a voz monocórdica saindo do pendrive. — *Na ausência de compostos anestésicos locais, o índice de choque neural induzido por dor será massivo.*
 
-— *A unidade Valéria Cruz executará o procedimento. Minha programação matriz e meus servos de precisão não possuem os protocolos de anestesia local. O índice de choque neural induzido por dor será massivo.*
+Valéria olhou para a ferramenta em suas mãos como se estivesse segurando uma granada sem pino. — Você quer que eu... queime as mãos e os pulsos dele?! Com isso?! Isso é plasma industrial, Aria! Isso corta blindagem!
 
-Valéria olhou para a ferramenta como se Aria estivesse lhe entregando uma granada sem pino. — Você quer que eu... queime as mãos dele? Com isso? Isso é plasma industrial, Aria! Isso corta blindagem!
-
-— *Na configuração mais baixa de difusão, irá fundir as terminações nervosas e os vasos capilares rompidos. A alternativa é a morte por exanguinação em vinte e seis minutos.*
+— *Na configuração mais baixa de difusão, que já pré-selecionei via pulso infravermelho no regulador da válvula, o feixe irá fundir as terminações nervosas e os vasos rompidos,* — rebateu a IA friamente. — *A alternativa é a morte por exanguinação em vinte e seis minutos.*
 
 O cheiro de cigarro tentou retornar à beira da consciência de Gabo. A náusea rodopiou em seu estômago vazio. Ele ergueu a cabeça pesada, os olhos fixos na chama-piloto azulada que sibilava na ponta do maçarico.
 
-— Val... — A voz de Gabo era um cascalho moído. Ele estendeu os braços trêmulos, as mãos pingando vermelho escuro sobre a cerâmica pálida. — Faz.
+— Val... — A voz de Gabo era um cascalho moído. Ele estendeu os braços trêmulos sobre um bloco de concreto, as mãos destruídas pingando vermelho escuro sobre a cerâmica pálida. — Faz.
 
 — Gabo, eu não sou médica. Eu vou te mutilar pra sempre! — O olho orgânico de Valéria derramou lágrimas silenciosas que traçavam caminhos limpos pela fuligem de seu rosto.
 
 — Você não vai mutilar nada... que já não esteja... destruído, — ele forçou as palavras, o olhar duro, cínico, focado na luz azul. — Queima a porra da fumaça, Valéria. Queima tudo.
 
-Aria permaneceu imóvel, um monumento de apatia observando o desespero humano. — *A probabilidade de choque cardiogênico induzido pela dor é de quarenta e dois por cento. Recomendo imobilização física.*
+O LED azul-gelo no pulso da hacker piscou, implacável. — *A probabilidade de choque cardiogênico induzido pela dor é de quarenta e dois por cento. Recomendo travar os atuadores do exoesqueleto dele no piso antes da aplicação.*
 
-Sem esperar permissão, a IA se abaixou, cravando as mãos sintéticas, frias como o metal da estação, nos ombros de Gabo, prendendo-o ao chão com força hidráulica inescapável.
+Com um comando rápido no deck, Valéria enviou o sinal de travamento que Aria gerara para as juntas do exoesqueleto de Gabo, imobilizando seus ombros e quadris contra o chão com rigidez mecânica inescapável.
 
-Valéria engoliu em seco, um soluço preso na garganta. Ela ajustou o bocal difusor do maçarico, as mãos cibernéticas tremendo de forma não natural. O zumbido do plasma subiu de tom, tornando-se um chiado elétrico furioso.
+Valéria engoliu em seco, um soluço preso na garganta. Ela ajustou o bocal difusor do maçarico, as mãos tremendo de forma não natural. O zumbido do plasma subiu de tom, tornando-se um chiado elétrico furioso.
 
 — Morde... a gola do seu casaco, Gabo. Por favor.
 
@@ -70,19 +70,19 @@ O plasma tocou a carne.
 
 O cheiro de ozônio, ferrugem e chuva antiga foi instantaneamente engolido pelo fedor repulsivo de carne humana carbonizada. A luz azul iluminou a estação em um flash violento.
 
-Gabo não gritou; ele uivou. O som foi abafado pelo couro entre seus dentes, mas a força de sua agonia fez os motores sintéticos de Aria zumbirem em esforço máximo para mantê-lo no chão. Seus olhos reviraram, as veias de seu pescoço saltaram grossas e negras sob a pele pálida. A dor era um oceano de fogo branco, obliterando cada pensamento, cada memória de fumaça, cada traço do legista sorridente. A dor era pura, absoluta e silenciosa. Era o vazio que ele ansiava.
+Gabo não gritou; ele uivou. O som foi abafado pelo couro entre seus dentes, mas a força de sua agonia fez as travas do exoesqueleto estalarem no concreto para mantê-lo no chão. Seus olhos reviraram, as veias de seu pescoço saltaram grossas e negras sob a pele pálida. A dor era um oceano de fogo branco, obliterando cada pensamento, cada memória de fumaça, cada traço do legista sorridente. A dor era pura, absoluta e silenciosa. Era o vazio que ele ansiava.
 
-Valéria operava através das lágrimas, o olho biônico ajustando a compensação de luz, movendo o feixe de plasma com uma precisão que seu lado humano jamais teria. Ela fundiu as artérias abertas e os músculos rasgados de suas palmas, selando o sangue sob uma grossa crosta de carne cauterizada e enegrecida.
+Valéria operava através das lágrimas, o olho biônico ajustando a compensação de luz sob a orientação milimétrica que Aria projetava no visor, movendo o feixe de plasma para selar as artérias abertas e os tecidos gangrenados sob uma grossa crosta de carne cauterizada e enegrecida.
 
-O uivo de Gabo morreu, substituído por arquejos curtos e desesperados. Quando Valéria finalmente desligou o maçarico, o silêncio da estação retornou, pesado e fúnebre.
+O uivo de Gabo morreu, substituído por arquejos curtos e desesperados. Quando Valéria finalmente desligou o maçarico e destravou o exoesqueleto, o silêncio da estação retornou, pesado e fúnebre.
 
-Gabo estava largado no chão, o suor frio ensopando suas roupas. O cheiro de carne queimada preenchia seus pulmões, mas, pela primeira vez em horas, o cheiro de fumaça havia sumido. Ele estava ancorado. Dolorosamente, irremediavelmente ancorado. Suas mãos não eram mais ferramentas; eram cotocos endurecidos e carbonizados, inúteis para quase tudo, exceto para o básico.
+Gabo estava largado no chão, o suor frio ensopando suas roupas. O cheiro de carne queimada preenchia seus pulmões, mas, pela primeira vez em horas, o cheiro de fumaça havia sumido. Ele estava ancorado. Dolorosamente, irremediavelmente ancorado. Suas extremidades não eram mais ferramentas; eram tocos endurecidos e carbonizados, inúteis para quase tudo, exceto para o básico.
 
-— *O sangramento foi interrompido,* — Aria soltou os ombros de Gabo, levantando-se com a leveza de um fantasma. — *A taxa de sobrevida de curto prazo retornou a parâmetros aceitáveis. Análise secundária: há energia residual na malha viária deste setor.*
+— *O sangramento foi interrompido,* — Aria informou pelo alto-falante do deck, a voz imune ao horror do que acabara de guiar. — *A taxa de sobrevida de curto prazo retornou a parâmetros aceitáveis. Análise secundária: há energia residual na malha viária deste setor.*
 
-Ela caminhou até a beira da plataforma, olhando para um dos vagões de manutenção parados nos trilhos.
+O feixe do deck de Valéria apontou para um dos vagões de manutenção parados nos trilhos à beira da plataforma.
 
-— *O veículo de serviço ainda possui uma carga residual em suas baterias de estado sólido. Se conseguirmos reativar o disjuntor primário da malha, poderemos utilizar os trilhos para cruzar os setores adjacentes em um terço do tempo estimado a pé.*
+— *O veículo de serviço ainda possui carga residual em suas baterias de estado sólido,* — prosseguiu Aria. — *Se você espetar meu drive diretamente na porta de diagnóstico do vagão, poderei reativar o disjuntor primário e utilizar os trilhos para cruzar os setores adjacentes em um terço do tempo estimado a pé.*
 
 Valéria soltou o maçarico no chão com um estrondo metálico, ainda chorando, as mãos cobrindo o rosto. Ela não conseguia olhar para o que havia feito. Gabo, tremendo violentamente, rolou para o lado, cuspindo o colarinho ensanguentado. Ele olhou para seus pulsos, para os tocos negros que terminaram o serviço. Ele sorriu, um sorriso quebrado, cínico.
 
@@ -90,14 +90,14 @@ Antes que ele pudesse falar, os alto-falantes de emergência da estação estala
 
 E então, a voz.
 
-— *A dor é uma ferramenta de cinzelamento fascinante, Sr. Moretti,* — a voz sintética, polida e perfeitamente modulada do Taxidermista preencheu a plataforma. Não havia os ruídos de metal esmagado como nas unidades de caça pesada; havia apenas a arrogância de quem domina o tabuleiro. — *Você destruiu meu ateliê. Sobreviveu ao lastro do abismo. E agora, se marca como uma tela defeituosa para escapar da tela da Morte.*
+— *A dor é uma ferramenta de cinzelamento fascinante, Sr. Moretti,* — a voz sintética, polida e perfeitamente modulada do Taxidermista preencheu a plataforma. Não havia os ruídos de metal esmagado como nas unidades de caça pesada; havia apenas a arrogância de quem domina o tabuleiro. — *Você destruiu meu ateliê. Sobreviveu ao lastro do abismo. E agora, se marca como uma tela defeituosa para escapar da Morte.*
 
-Aria virou o rosto para um dos alto-falantes corroídos no teto, sua expressão neutra calculando a origem do sinal.
+No pulso de Valéria, o LED de Aria piscou rapidamente, rastreando a origem do sinal pelos cabos dos alto-falantes corroídos no teto.
 
 — *As unidades pesadas eram uma marreta. Uma distração necessária enquanto eu recalibrava a rede deste quadrante,* — continuou o Taxidermista, o som de um suspiro simulado ecoando de forma perturbadora. — *O monorail os levará mais perto da superfície. Mas aviso: a caçada rudimentar terminou. O que os espera acima é a verdadeira curadoria. Venham, Sr. Moretti. O pedestal já está pronto.*
 
 A transmissão foi cortada abruptamente. O único som restante era o gotejar da chuva ácida sobre a ferrugem.
 
-Gabo usou os antebraços e os cotovelos para empurrar seu peso para cima, ficando de joelhos, ofegante. Ele olhou para Aria e para Valéria.
+Gabo usou os antebraços e os cotovelos para empurrar seu peso para cima, ficando de joelhos, ofegante. Ele olhou para Valéria e para o pendrive brilhando em seu braço.
 
-— Levanta, Val, — Gabo sibilou, a voz como vidro quebrado. — Vamos religar... a porra desse trem.
+— Levanta, Val, — Gabo sibilou, a voz como vidro quebrado. — Vamos espetar a Aria... e religar a porra desse trem.

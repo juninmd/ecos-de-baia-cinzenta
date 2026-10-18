@@ -40,15 +40,15 @@ Gabriel apertou o dedo no gatilho. Seria fácil. Justiça. Vingança. Tudo em um
 
 *NÃO.*
 
-A palavra brilhou em vermelho no HUD do carro, projetada agora em sua mente pela falha no implante auditivo que ele nem sabia que tinha. A voz de Aria.
+O alerta vibrou no comunicador tático preso à gola de Gabriel, onde o componente tipo pendrive que ele encontrara na cabine telefônica na enchente aquecia contra sua clavícula. No fone auricular, a voz sintética de Aria cortou o ar.
 
-— *Ele é um nó crítico,* — a voz da menina sussurrou, cheia de estática. — *Sem ele, a rede não cai.*
+— *Ele é um nó crítico, detetive,* — a assistente de IA sussurrou pelo ponto de áudio, filtrada por estática. — *Se matá-lo agora, a chave criptográfica morre com ele e a rede não cai.*
 
-Gabriel hesitou. A voz digital o fez baixar a arma um milímetro.
+Gabriel hesitou. A lógica fria da IA no pendrive o fez baixar a arma um milímetro.
 
 — O que você tem? — rosnou ele.
 
-Miranda, alheio à voz na cabeça de Gabo, enfiou a mão no bolso trêmulo e tirou um chip de memória biológico. O invólucro estava sujo, mas o núcleo pulsava com uma luz vermelha fraca.
+Miranda, alheio à transmissão no ouvido de Gabo, enfiou a mão no bolso trêmulo e tirou um chip de memória biológico. O invólucro estava sujo, mas o núcleo pulsava com uma luz vermelha fraca.
 
 — O Santo Graal. A apólice de seguro do seu pai.
 

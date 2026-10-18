@@ -1,5 +1,6 @@
 ---
 image: /capitulo_99.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Inspetor Rangel, Capitão Jonas Vilar, Dra. Nise, Aria
 ---
 # Capítulo 99: O Despertar da Máquina
 
@@ -87,7 +88,7 @@ Gabo tocou o cubo. Estava frio, mais frio que a sala.
 
 — Talvez não seja "quem". Talvez seja "o quê".
 
-De repente, o pulso de luz do cubo mudou. De azul calmo para um branco intenso. Um feixe de luz foi projetado para cima, cortando a penumbra das velas.
+De repente, o pulso de luz do cubo mudou. De azul calmo para um branco intenso. Um feixe de luz foi projetado para cima, cortando a fumaça das velas.
 
 Um holograma se formou no ar. Era granulado, falhando, como uma transmissão de TV antiga com má recepção.
 

@@ -66,7 +66,7 @@ Atrás dele, um grito. Gabo olhou por cima do ombro.
 
 Elena estava encurralada contra o parapeito. Roberto a segurava pelo pescoço com sua garra mecânica, erguendo-a sobre o vazio.
 
-— *Escolha, Gabo!* — riu Roberto. — *O pai ou a filha? Você pode salvar o legado... ou o futuro.*
+— *Escolha, Gabo!* — riu Roberto. — *O pai ou ela? Você pode salvar o legado... ou quem ainda respira.*
 
 Gabo olhou para Silas, que observava o monitor de transferência atingir 80%. Depois olhou para Elena, debatendo-se, o rosto ficando roxo.
 

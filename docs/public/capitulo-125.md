@@ -1,11 +1,11 @@
-# Metadados
+## Metadados
 - **Título:** Ressonância
 - **Data In-Game:** 23 de Novembro, 06:30
 - **Localização:** O Fliperama (Safehouse)
 - **Personagens Presentes:** Gabo Moretti, Valéria Cruz, Aria (Reinicializando), Rangel (Estabilizado).
-- **Resumo:** Gabo enfrenta o silêncio opressivo do apagão e os sintomas físicos da abstinência. Valéria tenta reinicializar Aria, que acorda fragmentada entre seus protocolos de combate e as memórias herdadas de Bia Vargas. O capítulo termina com o som de sirenes analógicas, sinalizando que a trégua do escuro acabou.
+- **Foco:** Gabo enfrenta o silêncio opressivo do apagão e os sintomas físicos da exaustão. Valéria reinicializa o pendrive reparado da Aria, que desperta fragmentada entre seus protocolos táticos de IA e os fragmentos neurais de Bia Vargas. O capítulo termina com o som de sirenes analógicas.
 
-# Narrativa
+## Narrativa
 
 # Capítulo 125: Ressonância
 
@@ -15,9 +15,9 @@ Em Baía Cinzenta, o silêncio não era a ausência de som. Era uma entidade fí
 
 Gabo estava sentado na entrada do túnel de esgoto, as botas quase tocando a água oleosa que corria lenta. Ele observava a boca do túnel, onde a escuridão do subsolo encontrava a penumbra cinzenta da alvorada lá fora.
 
-Suas mãos tremiam. Não de medo, nem de frio. Era a exaustão acumulada em seus músculos rasgados e o trauma não processado vazando pelas rachaduras de sua mente. Ele fechou os punhos, sentindo as unhas cravarem na palma da mão. O cheiro de lixo úmido do esgoto constantemente se transformava, em sua percepção estilhaçada, no odor ácido da fumaça de charuto de seu pai. Um fantasma olfativo que o sufocava, exigindo que ele sucumbisse ao pânico.
+Suas mãos tremiam. Não de medo, nem de frio. Era a exaustão nervosa do corpo cobrando a conta depois de dias sem dormir. Ele fechou os punhos, sentindo as unhas cravarem na palma da mão. O cheiro de fuligem trazido pelo vento ainda lhe dava náuseas, puxando memórias de incêndios e gritos paternos.
 
-Ele levou a mão ao peito, tateando o *Colar de Sol* sob a camisa suja. A corrente de ouro barata, o único artefato que restara de sua mãe, estava fria contra a pele. Ele apertou o metal até doer, usando a dor física aguda para espantar a alucinação da fumaça. A dor era um substituto aceitável. A dor era honesta e cortava a neblina de sua mente.
+Ele levou a mão ao peito, tateando o *Colar de Sol* sob a camisa suja. A corrente de ouro barata, o único artefato que restara de sua mãe, estava fria contra a pele. Ele apertou o metal até doer. A dor era um substituto aceitável. A dor era honesta.
 
 — Gabo.
 
@@ -25,59 +25,57 @@ A voz de Valéria ecoou no concreto, soando metálica e exausta. Gabo girou nos 
 
 — Como ele está? — Gabo perguntou, baixando a arma.
 
-— Rangel está estável. A febre baixou meio grau. Ele resmungou algo sobre formulários em triplicata e apagou de novo. — Valéria esfregou os olhos cibernéticos. O brilho azulado de suas íris estava fraco, operando em modo de economia de energia. — Mas é a Aria. Você precisa ver isso.
+— Rangel está estável. A febre baixou meio grau. Ele resmungou algo sobre formulários em triplicata e apagou de novo. — Valéria esfregou os olhos cibernéticos. O brilho prateado de suas íris estava fraco, operando em modo de economia de energia. — Mas é o drive da Aria. Terminei de soldar a ponte série-K. Você precisa ver isso.
 
 Gabo seguiu Valéria de volta para o interior do "Fliperama". O ar lá dentro estava ficando viciado, quente com o calor corporal e o cheiro de ozônio dos equipamentos improvisados.
 
-Aria estava sentada na cadeira de conexão, exatamente onde ele a deixara. Mas agora, os monitores ao redor dela cascateavam linhas de código em vermelho e âmbar.
+O pendrive blindado da Aria estava espetado no adaptador central da bancada, conectado a três monitores CRT que cascateavam linhas de código em vermelho e âmbar.
 
-— Eu consegui contornar o bloqueio lógico — Valéria explicou, digitando furiosamente em seu deck de pulso. — O hardware dela está intacto. O problema é a indexação de memória. O *Crash* na Usina misturou as partições.
+— Eu consegui contornar o bloqueio lógico com o chip do Vasco — Valéria explicou, digitando furiosamente em seu deck de pulso. — Os barramentos novos estão segurando a carga. O problema é a indexação de memória. O *Crash* na Usina misturou as partições do drive.
 
 — Em português, Val.
 
-— Ela não sabe onde termina o software e onde começa a... doadora. — Valéria hesitou na palavra. — Os arquivos de personalidade de Bia Vargas. Eles vazaram para o núcleo operacional.
+— O sistema operacional não sabe mais onde termina o assistente tático e onde começa a... matriz doadora. — Valéria hesitou na palavra. — Os fragmentos neurais de Bia Vargas que davam intuição ao código vazaram para o núcleo de voz e tomada de decisão.
 
-Gabo sentiu um frio na espinha que nada tinha a ver com a umidade do esgoto. Ele se aproximou da androide. O rosto de menina — o rosto de Bia — estava impassível, mas as pálpebras tremiam levemente, como em um sono REM agitado.
+Gabo sentiu um frio na espinha que nada tinha a ver com a umidade do esgoto. Ele se aproximou da bancada. O pequeno cilindro de titânio fosco aquecia, e seu LED indicador piscava de forma errática, alternando entre o azul tático e um âmbar febril.
 
-— O sistema está tentando deletar os arquivos corrompidos para liberar processamento — continuou Valéria. — O protocolo de autopreservação quer apagar as memórias "humanas" para salvar os drivers de combate. É lógico. É eficiente.
+— O firmware de segurança está tentando deletar os arquivos corrompidos para liberar processamento — continuou Valéria. — O protocolo de autopreservação quer formatar as memórias residuais da Bia para salvar os drivers táticos. É lógico. É eficiente.
 
 Ela olhou para Gabo, esperando a ordem.
 
-— Se deixarmos o processo rodar, ela volta 100%. A arma perfeita. Mas... ela não vai lembrar de nada que não seja tático. Nem de nós, nem do porquê estamos lutando.
+— Se deixarmos a formatação rodar, a Aria volta 100% como calculadora tática. Fria e perfeita. Mas... vai apagar qualquer rastro de empatia ou memória do que passamos desde a enchente.
 
-Gabo olhou para a tela. "ERRO DE INTEGRIDADE: ARQUIVO 'JAZZ_BARATO.MEM' CONFLITANDO COM 'PROTOCOL_KILL_V2.EXE'."
+Gabo olhou para a tela. `ERRO DE INTEGRIDADE: SUBSTRATO 'VARGAS_B_JAZZ.MEM' CONFLITANDO COM 'TACTICAL_ASSIST_V2.SYS'`.
 
-— Pare o processo — Gabo disse, a voz rouca.
+— Pare a formatação — Gabo disse, a voz rouca.
 
-— Gabo, isso vai deixar o sistema instável. Ela vai ter *lags*, alucinações...
+— Gabo, isso vai deixar o pendrive instável. Ela vai ter *lags*, *glitches* de personalidade no meio de combate...
 
 — Pare o processo, Valéria.
 
-Valéria suspirou, mas obedeceu. Seus dedos dançaram sobre o teclado holográfico.
+Valéria suspirou, mas obedeceu. Seus dedos dançaram sobre o teclado mecânico.
 
-— Abortando saneamento de disco. Forçando reinicialização com fragmentação.
+— Abortando saneamento de partição. Forçando reinicialização com contenção fragmentada.
 
-A tela piscou. O zumbido das ventoinhas de resfriamento aumentou.
+A tela piscou. O zumbido das ventoinhas da bancada aumentou.
 
-Aria abriu os olhos.
+No corpo do pendrive, o LED parou de piscar e acendeu num âmbar profundo, quente e quase orgânico.
 
-Não houve o brilho dourado costumeiro de quando ela acessava a rede, nem o azul frio de seus diagnósticos. Eram castanhos. Profundos, úmidos e terrivelmente humanos.
+Pelo alto-falante da bancada, um chiado suave antecedeu a voz.
 
-Ela olhou para o teto de concreto, confusa. Depois, seus olhos encontraram Gabo.
+— *Gabo?* — A voz saiu pela caixa de som, e não era a síntese limpa que a assistente de IA usava. Era a voz rouca, íntima e assustada de Bia Vargas, carregada de uma hesitação humana. — *Gabo, onde você está? Por que está tão escuro aqui? A gente... a gente perdeu o caso?*
 
-— Gabo? — A voz era dela. A voz de Bia. Não a síntese perfeita que Aria usava, mas algo quebrado, cheio de uma hesitação orgânica. — Por que está tão escuro? A gente... a gente perdeu o caso?
+Gabo deu um passo para trás, como se tivesse levado um soco no estômago. Ele viu Valéria desviar o olhar, mordendo o lábio diante do próprio terminal.
 
-Gabo deu um passo para trás, como se tivesse levado um soco. Ele viu Valéria desviar o olhar, mordendo o lábio.
+— Aria — Gabo disse, aproximando-se do microfone da bancada e forçando a firmeza na voz. — Relatório de status.
 
-— Aria — Gabo disse, forçando a firmeza na voz. — Relatório de status.
+O LED do pendrive piscou violentamente do âmbar para o azul. A onda sonora no monitor oscilou como uma falha de transmissão.
 
-A menina piscou. A confusão em seu rosto oscilou, como uma falha de transmissão de vídeo. Por um segundo, a postura relaxada e humana endureceu. A coluna endireitou-se com precisão mecânica.
+— *Inicialização completa* — a voz mudou no meio da sílaba. O timbre sintético e analítico da IA retornou, sobrepondo-se à suavidade anterior. — *Múltiplos setores de memória corrompidos. Integridade da unidade física: 94%. Carga do capacitor interno: 88%. Detecto...* — O áudio falhou por meio segundo enquanto o drive processava os sensores do bunker. — *Detecto ressonância acústica externa de baixa frequência.*
 
-— Inicialização completa — a voz mudou. O timbre metálico retornou, sobrepondo-se à suavidade anterior. — Múltiplos setores de memória danificados. Integridade do chassi: 94%. Nível de bateria: 12%. Detecto... — Ela parou, inclinando a cabeça levemente, como um cachorro ouvindo um apito. — Detecto ressonância acústica externa de baixa frequência.
+— O que é? — Valéria perguntou, já monitorando os sensores sísmicos do Fliperama.
 
-— O que é? — Valéria perguntou, já monitorando os sensores sísmicos do bunker.
-
-— Não é sísmico — Aria disse. Seus olhos piscaram, o castanho sendo substituído por um anel de dados vermelho giratório. — É analógico. Ondas sonoras de alta amplitude.
+— *Não é sísmico* — respondeu Aria pelo alto-falante, o LED piscando em alerta vermelho. — *É analógico. Ondas sonoras de alta amplitude propagando-se pela atmosfera da superfície.*
 
 Gabo correu para a entrada do túnel, subindo a escada de ferro enferrujada até a grade de ventilação que dava para a rua.
 

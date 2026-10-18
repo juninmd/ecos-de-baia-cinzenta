@@ -1,43 +1,54 @@
 ---
-image: /capitulo_177.jpg
+Título: Cicatrizes de Cobre
+Data In-Game: Indeterminada (Pós-Colapso da Aeterna)
+Localização: Ruas do Distrito 4
+Personagens Presentes: Gabo, Valéria
 ---
-# Metadados
-- **Título:** Cicatrizes de Cobre
-- **Data In-Game:** Pós-Colapso do Sentinel (Noite Eterna)
-- **Localização:** A caminho do Setor 7 (Complexo Hidropônico)
-- **Personagens Presentes:** Gabo, Valéria
-
-# Narrativa
 
 # Capítulo 177: Cicatrizes de Cobre
 
-A carcaça fumegante de um tanque autônomo da Aeterna bloqueava o cruzamento principal do Distrito 4. Em volta dele, fogueiras químicas queimavam dentro de tambores enferrujados, exalando um fumo denso e escuro com cheiro de plástico derretido.
+A chuva do Distrito 4 não tinha a decência de apenas molhar; ela engolia tudo, diluindo os neons escassos em borrões nauseantes de amarelo e vermelho. Cada passo pelas ruas esburacadas era uma negociação com a lama tóxica, um lembrete constante de que a cidade nos detestava tanto quanto nós a ela.
 
-Seis figuras emergiram das sombras, o brilho das chamas refletido em facões de açougueiro e pedaços afiados de sucata automotiva. Saqueadores. Eles tinham os rostos cobertos por trapos imundos e os olhos dilatados de stim-pack barato.
+O silêncio de Valéria era um buraco negro à minha esquerda. Nos velhos tempos, o ruído dos meus passos irregulares ou o ranger metálico dos meus suspensórios teriam provocado um comentário sarcástico sobre manutenção preventiva. Agora, ela era apenas um vulto contornado em aço frio, seu andar metodicamente calculado para máxima eficiência energética no Modo de Segurança Operacional. O zumbido intermitente de seus micro-servos parecia uma contagem regressiva para um fim que eu já não queria evitar.
 
-O cheiro da fumaça química não era fumaça de cigarro, mas foi o suficiente. O trauma na cabeça de Gabo disparou a armadilha. A fogueira pareceu transformar-se na ponta acesa do charuto de Dante. O oxigênio fugiu de seus pulmões; a garganta fechou no terror paralisante da asfixia.
+Mas o que me mantinha acordado, o que espantava as sombras pegajosas do meu passado, não era o zumbido mecânico. Era a agonia crua da minha nova companhia: a prótese industrial de Vasco.
 
-— Rota obstruída — declarou Valéria em um tom monocórdico, parando exatamente a dez metros do grupo. Seus olhos verdes escanearam a ameaça. — Modo de evasão recomendado. Probabilidade de sucesso em combate corpo-a-corpo: insuficiente devido a falhas motoras do usuário Gabo.
+Parafusada aos meus nervos sem a cortesia de uma anestesia, a coisa pesava mais que os pecados do meu pai. Cada contração do ombro enviava um raio de choque ardente pela espinha. Era uma dor vulgar, deselegante, o tipo de dor que não pede desculpas. E eu a amava.
 
-— Fica... para trás... — Gabo engasgou, as pernas mecânicas rangendo dolorosamente enquanto ele dava um passo à frente.
+Quando o vento mudava e trazia consigo a lembrança podre de tabaco envelhecido — a fumaça ilusória que parecia escorrer dos poros da própria cidade morta —, eu ativava os pistões do braço direito. O estalo bruto do ferro e o choque elétrico nos nervos amputados cortavam a alucinação de fumaça pela raiz. Meu pai, Dante, estava apodrecendo lá embaixo, mas a sua fumaça ainda me sufocava, a menos que o metal tocasse o fogo.
 
-O pânico ameaçava engoli-lo inteiro, mas ele tinha uma âncora agora. Um demônio de aço pesado costurado no coto do braço direito.
+— Gabo. — A voz plana de Valéria cortou a escuridão. — Anomalia detectada. Bloqueio orgânico à frente. Setenta e dois metros.
 
-O líder dos saqueadores riu, batendo o facão contra um cano de ferro.
-— O homem de lata quebrou. Deixem a garota com a gente e a gente corta a garganta dele rápido.
+Olhei através da chuva cortante. Um grupo se aglomerava em volta de um caminhão tombado da Aeterna Corp. Saqueadores, provavelmente caçando restos de sucata em uma carcaça que já havia sido esvaziada por ratos piores do que eles. Eram quatro, talvez cinco, e estavam bem armados com canos oxidados e lâminas improvisadas que brilhavam palidamente.
 
-Gabo levantou o braço industrial. A prótese não tinha sutileza; pesava como um bloco de chumbo. Ele enviou o impulso de fechamento. Os servos gritaram, soltando faíscas. A dor que percorreu seu ombro em carne viva foi uma onda de choque cegante que quase o fez desmaiar, mas também desintegrou o fantasma do seu pai. O ar voltou.
+— Rota alternativa recomendada — Valéria sugeriu, uma máquina citando um manual obsoleto. — Confronto consome 34% de chance de dano estrutural crítico. A evasão é o vetor lógico.
 
-Com a mente limpa pela agonia, Gabo avançou. O líder não esperava velocidade. Quando o saqueador tentou o golpe de facão, Gabo nem bloqueou; ele simplesmente jogou todo o absurdo peso de titânio do seu novo braço mecânico diretamente contra o rosto do homem.
+— Não há tempo para desvios, Val. — O aperto no peito, o aroma acre que sempre precedia a náusea do cigarro, rastejou de volta. Cerrei a mão de metal pesada, ouvindo o chiado da hidráulica não calibrada enquanto o ferro se dobrava, doloroso e real. — Nós passamos por cima.
 
-O impacto soou como uma melancia estourando contra asfalto. O crânio do líder cedeu, arremessando-o para trás como um boneco de pano quebrado. A dor no ombro de Gabo o fez urrar — um som primitivo, molhado de sofrimento e ódio puro.
+— Diretriz registrada, porém não otimizada. Preparando parâmetros defensivos passivos. — Ela não argumentou. Não houve preocupação, nem a teimosia que eu havia aprendido a respeitar. Apenas um aceno mecânico de aceitação.
 
-Os outros cinco saqueadores recuaram, o moral quebrado instantaneamente. A imagem de um homem banhado em sangue, urrando de dor mas capaz de esmagar cabeças com uma barra de demolição como braço não era algo que valia a pena enfrentar por restos. Eles correram para a escuridão.
+Comecei a andar mais rápido, ignorando o baque surdo do metal maciço na minha perna a cada passo mal dado. Os saqueadores notaram nossa aproximação e se voltaram, as figuras ameaçadoras se alinhando para bloquear o caminho.
 
-Gabo caiu de joelhos. As pernas passivas travaram. Ele ofegava, puxando o ar imundo, grato pela dor latejante que lhe garantia que estava vivo.
+— Ei, ciborgue de lata! — gritou um deles, agitando um pedaço de vergalhão enferrujado. — O pedágio é os olhos de vidro dessa moça aí e qualquer peça que a gente conseguir arrancar da sua sucata.
 
-Valéria caminhou calmamente até ele, pisando sobre o corpo do líder.
+Não respondi. O cheiro da fogueira química deles misturado com a chuva disparou os alarmes de pânico no meu cérebro traumatizado. *Fumaça. Cinzas.* Apertei os dentes com tanta força que o maxilar estalou, ativando novamente o mecanismo da prótese, buscando a centelha de dor nos nervos mutilados.
 
-— Ameaça eliminada — disse a hacker, sua voz esvaziada de qualquer alívio. — Desvio de rota cancelado. Procedimento irracional, mas com êxito tático. Devemos prosseguir.
+O líder deu um passo à frente, confiante na sua vantagem numérica, e ergueu o vergalhão para um golpe contra o meu peito.
 
-Gabo olhou para os olhos vazios dela. Ele estava virando a máquina, e ela havia virado o código morto.
+Eu não tentei desviar. Não era rápido o suficiente, não mais. Em vez disso, movi o braço direito — ou melhor, disparei a carga cinética bruta que Vasco havia embutido nos pistões industriais. O movimento não teve a precisão cirúrgica dos vetores que Aria costumava ditar no meu comunicador, apenas o peso estúpido de um bate-estaca.
+
+Minha mão de liga espessa colidiu com o peito do homem. O som da caixa torácica se partindo foi audível até mesmo sobre a tempestade ácida. A força do impacto, completamente desprovida de amortecimento, arremessou o corpo três metros para trás, direto na poça de lama de onde ele havia saído.
+
+A onda de choque mecânico subiu pelo meu braço e explodiu no meu ombro, me arrancando um gemido rouco. A dor rasgou cada terminação nervosa cauterizada a laser, mas ela estava lá. Eu sangrava, eu sofria, eu não cheirava a fumaça de cigarro, eu cheirava a sangue quente e cobre derretido. O fedor rançoso do passado havia desaparecido sob a intensidade do momento.
+
+Os outros três congelaram, olhando para o peito esmagado de seu líder e depois para o meu braço, que sibilava, exalando um vapor pálido através da junta mal soldada.
+
+— Mais algum pedágio? — perguntei, a voz tão estriada de ferrugem quanto a cidade.
+
+A covardia da sobrevivência prevaleceu. Eles recuaram para as sombras, arrastando o corpo e desaparecendo nos becos imundos como as baratas que eram. O caminho estava livre, mas o silêncio que se seguiu não era de vitória, era de sobrevivência mecânica.
+
+— Obstrução eliminada — constatou Valéria, seus olhos apagados não registrando o desespero. — Custo de energia dentro dos parâmetros aceitáveis. Retomando marcha.
+
+Eu encarei o punho que havia quebrado o peito do homem. Era uma ferramenta assassina e rústica, cega, ignorante. Suspirei o ar tóxico sem que o gosto asfixiante do tabaco retornasse.
+
+— Sim, Val. — Acompanhei seus passos gelados. — Retomando marcha.

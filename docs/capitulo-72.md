@@ -3,7 +3,7 @@ layout: doc
 title: "Capítulo 72: A Ofensiva"
 description: "A cidade segura a torre com os próprios braços. E Gabo escolhe onde três hastes de tungstênio vão cair — sabendo o que está enterrando no fundo do mar."
 image: /capitulo_72.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria Moretti, Kael "O Cirurgião", Roberto Miranda
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria, Kael "O Cirurgião", Roberto Miranda
 ---
 
 # Capítulo 72: A Ofensiva
@@ -22,17 +22,17 @@ Duzentos andares de estrutura gemiam ao mesmo tempo. Não era um som: eram milha
 
 Gabo agarrou um corrimão com a mão boa.
 
-A menina estava no centro da sala.
+No console central da sala, o pendrive de titânio continuava firme no barramento.
 
-E não estava mais no chão.
+E o projetor holográfico acima dele tinha acabado de disparar.
 
 ---
 
-Ela flutuava uns quinze centímetros acima do piso inclinado, na horizontal absoluta, indiferente ao ângulo do mundo. O cabelo dela se movia como se estivesse dentro d'água. A luz que saía dela agora era branca e não deixava sombra em lugar nenhum.
+Uma esfera de telemetria vetorial pairava quinze centímetros acima do console inclinado, mantendo a horizontal absoluta, indiferente ao ângulo do mundo. As linhas de força moviam-se como correntes dentro d'água. A luz que saía do LED duplo do pendrive agora era branca de tão intensa e não deixava sombra em lugar nenhum.
 
-Quando falou, a voz veio dupla.
+Quando a resposta saiu pelos alto-falantes do Hub, a voz veio dupla.
 
-Uma era a dela, arranhada, de menina.
+Uma era a da Aria, sintética, analítica e firme.
 
 A outra era grave, cansada, com aquele arrasto na última sílaba.
 
@@ -100,7 +100,7 @@ Não agradeceu, porque naquele momento ele entendeu que agradecer seria transfor
 
 O terminal principal ainda funcionava porque o Hub tinha alimentação independente e blindagem sísmica, o que era irônico de um jeito que ninguém tinha tempo de apreciar.
 
-Val plugou o deck.
+Val voltou ao deck conectado ao pendrive.
 
 — Sem a biometria do Marco eu não cancelo o disparo. — Ela estava com pânico na voz e continuava digitando, porque é isso que ela faz. — Gabo, os satélites entram em janela de lançamento em nove minutos. Três hastes de tungstênio de nove toneladas cada, em queda orbital. A cidade inteira vira cratera.
 
@@ -128,11 +128,11 @@ Val parou de digitar por dois segundos.
 
 — O backup do teu pai está lá. Tudo o que sobrou do imprint original do Dante está naquela Arca. Se isso cair lá, não tem cópia em lugar nenhum. Nunca mais.
 
-Gabo olhou para a menina que flutuava no meio da sala com a luz saindo dela.
+Gabo olhou para o pendrive de titânio da Aria espetado no console, com o diagrama de luz branca girando acima dele.
 
 E não hesitou, e ele mesmo achou aquilo estranho, e ia pensar sobre isso durante anos.
 
-— Meu pai não está lá — ele disse. — Meu pai está na cidade. O que tem no fundo do mar é um arquivo corporativo com a cara dele.
+— Meu pai não está lá — ele disse. — Meu pai está na cidade e no código que ele deixou aqui. O que tem no fundo do mar é um arquivo corporativo com a cara dele.
 
 Val olhou para ele mais um segundo.
 

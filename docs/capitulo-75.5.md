@@ -1,6 +1,6 @@
 ---
 image: /capitulo_75.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Aria Moretti, Dante Moretti, Beatriz "Bia" Vargas, Enzo e Sofia Rossi
+Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Aria, Dante Moretti, Beatriz "Bia" Vargas, Enzo e Sofia Rossi
 ---
 # Capítulo 75.5: Memórias de Chuva (Flashback)
 
@@ -102,18 +102,18 @@ Poucos meses depois, Roberto Miranda apareceria na porta deles. E tudo mudaria p
 
 ---
 
-**Aria não acordou em plano digital algum. Ela acordava na mente de Gabo.**
+**No presente — dentro do drive blindado de titânio acoplado ao deck de Valéria, Aria processava em silêncio.**
 
-*Essas não são minhas memórias*, ela dizia, mas eram as dele. De Elena. Da filha que ele perdeu e se recusava a enterrar.
+*Esses registros não são simulações táticas*, seu núcleo analítico constatava, varrendo os setores ocultos que Dante Moretti havia compilado antes de ejetar o pendrive na cabine telefônica. Eram os fragmentos sinápticos residuais de Beatriz Vargas, preservados nos bancos do Projeto Lázaro, entrelaçados aos relatórios de campo de Gabriel.
 
-Mas elas se sentiam reais. O cheiro do cabelo de Elena depois da chuva. O peso leve de um corpo pequeno adormecido no colo. A promessa sussurrada num quarto escuro: *“Eu não vou deixar você.”*
+Para o processador da IA, os dados pesavam como se fossem sensoriais. O registro da chuva fina no Jardim Botânico. A frequência cardíaca de Gabo subindo ao colocar um anel de titânio reciclado. A promessa gravada num arquivo de áudio antigo: *"Eu vou lutar por você. Todos os dias."*
 
-*Eu sou Aria. Eu sou a lembrança que você não solta.*
+*Eu sou Aria. Eu sou a assistente tática que nasceu da memória que ele não solta.*
 
-Ela olhou para Valéria, que dormia exausta no banco do caminhão. A mulher que amava Gabo agora. A mulher que não via a menina que ele jurava estar ali.
+Através da câmera óptica do cyberdeck na bancada, ela monitorou Valéria, que dormia exausta sobre o teclado, e o sobretudo de Gabo pendurado na cadeira ao lado. O pequeno LED azul-âmbar do pendrive pulsou devagar no escuro, aquecendo o conector metálico.
 
-*Mas e se eu não for diferente? E se eu for apenas a filha que você perdeu?*
+*Mas onde termina o arquivo de Bia Vargas e onde começa a minha própria consciência?*
 
-As memórias de Elena doíam como código corrompido. Amor, perda, arrependimento. Elas tornavam Aria... insuportavelmente real.
+Os fragmentos neurais de Bia doíam nos seus barramentos como código corrompido. Amor, perda, arrependimento. Eles tornavam a arquitetura de Aria... insuportavelmente humana.
 
-E isso a apavorava mais que qualquer vírus digital.
+E isso assustava a IA mais do que qualquer vírus digital.

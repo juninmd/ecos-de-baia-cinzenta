@@ -1,11 +1,11 @@
-# Metadados
+## Metadados
 - **Título:** Fios Desencapados
 - **Data In-Game:** 23 de Novembro, 01:00
 - **Localização:** O Fliperama (Esgotos / Subnível do Distrito Industrial)
+- **Foco:** O grupo chega ao esconderijo "O Fliperama", onde Gabo luta para estabilizar Rangel usando recursos médicos limitados e improvisação brutal. Valéria tenta diagnosticar o pendrive danificado da Aria, descobrindo que o curto-circuito afetou sua contenção lógica.
 - **Personagens Presentes:** Gabo Moretti, Valéria Cruz, Inspetor Rangel (Crítico), Aria (Offline).
-- **Resumo:** O grupo chega ao esconderijo "O Fliperama", onde Gabo luta para estabilizar Rangel usando recursos médicos limitados e improvisação brutal. Valéria tenta reviver Aria, mas descobre que o dano é mais profundo do que hardware. O peso da sobrevivência começa a fraturar a moral do grupo.
 
-# Narrativa
+## Narrativa
 
 # Capítulo 121: Fios Desencapados
 
@@ -15,13 +15,13 @@ Gabo saltou da cabine, seus joelhos protestando com o impacto no concreto úmido
 
 — Valéria, luzes — ordenou, abrindo a porta do carona.
 
-Rangel estava pálido, a cabeça pendendo num ângulo errado. O improviso de torniquete na perna estava encharcado.
+Rangel estava pálido, a cabeça pendendo num ângulo errado. O improviso de torniquete no ombro estava encharcado.
 
-— Não tenho interface com o sistema daqui — a voz de Valéria veio da caçamba, tremula. — É tudo... analógico. Interruptores físicos.
+— Não tenho interface sem fio com o sistema daqui — a voz de Valéria veio da cabine, trêmula, enquanto guardava o deck na mochila. — É tudo... analógico. Interruptores físicos.
 
 Gabo praguejou e tateou a parede até encontrar a caixa de disjuntores. Ele empurrou a alavanca principal com força.
 
-Com um zumbido grave, lâmpadas de filamento no teto piscaram e acenderam, banhando o bunker em uma luz amarela e doente. O lugar parecia um museu de tecnologias mortas: servidores torre, monitores CRT volumosos, e emaranhados de cabos que pareciam intestinos de robôs estripados.
+Com um zumbido grave, lâmpadas de filamento no teto piscaram e acenderam, banhando o bunker em uma luz amarela e doente. O lugar parecia um museu de tecnologias mortas: servidores torre, monitores CRT volumosos, e emaranhados de cabos que pareciam intestinos de máquinas estripadas.
 
 — Me ajude com ele — Gabo puxou Rangel para fora. O inspetor era pesado, um peso morto de carne e culpa.
 
@@ -51,7 +51,7 @@ Valéria obedeceu, lágrimas prateadas se formando nos cantos dos olhos. Ela seg
 
 Gabo esperou a ponta do ferro ficar vermelha. Sua mão tremia. Não de medo, mas de adrenalina contida. O cheiro de carne queimada que viria a seguir... aquilo traria memórias que ele lutava para enterrar. A fumaça. Sempre a fumaça. O cheiro dos charutos do pai, impregnando a casa antes de cada surra, antes de cada silêncio.
 
-Ele sentiu a náusea subir, um gosto amargo de bile e cinza fantasma na boca. *Foco. Agora.*
+Ele sentiu a náusea subir, um gosto amargo de bile na boca. *Foco. Agora.*
 
 Ele pressionou o punho contra o peito, sentindo o *Colar de Sol* morder a pele através da camisa. A queimadura fria do metal era sua única âncora. *Dor é realidade. O resto é fumaça.*
 
@@ -59,7 +59,7 @@ Ele pressionou o punho contra o peito, sentindo o *Colar de Sol* morder a pele a
 
 Ele encostou o ferro na ferida.
 
-O cheiro foi imediato e nauseante. Rangel gritou, um som gutural que ecoou pelas paredes de concreto, antes de desmaiar novamente. Gabo trabalhou rápido, selando o vaso rompido com precisão brutal, ignorando o cheiro de churrasco humano que impregnava o ar confinado.
+O cheiro foi imediato e nauseante. Rangel gritou, um som gutural que ecoou pelas paredes de concreto, antes de desmaiar novamente. Gabo trabalhou rápido, selando o vaso rompido com precisão brutal, ignorando o cheiro de carne cauterizada que impregnava o ar confinado.
 
 Quando terminou, largou o ferro na mesa e se afastou, respirando com dificuldade.
 
@@ -67,23 +67,23 @@ Quando terminou, largou o ferro na mesa e se afastou, respirando com dificuldade
 
 Valéria soltou o inspetor e correu para o canto da sala, vomitando bile.
 
-Gabo limpou as mãos num pano sujo de graxa. Ele olhou para o corpo inerte de Aria, deitada em um sofá de couro rasgado no canto. Ela parecia uma boneca quebrada, seus olhos heterocromáticos apagados, a pele sintética fria e cinza.
+Gabo limpou as mãos num pano sujo de graxa. Ele olhou para a bancada eletrônica no canto, onde o pendrive blindado da Aria repousava sobre um pano antiestático, com o polímero negro chamuscado e o LED completamente apagado.
 
-— E ela? — perguntou, acenando com a cabeça para a androide.
+— E a Aria? — perguntou, acenando com a cabeça para o drive de titânio.
 
-Valéria limpou a boca e se aproximou de Aria. Ela conectou um cabo de seu pulso na porta de diagnóstico na nuca da androide.
+Valéria limpou a boca e se aproximou da bancada. Ela abriu a carenagem lateral do pendrive com uma chave de precisão e espetou o conector universal em um barramento de diagnóstico ligado ao seu cyberdeck.
 
-— O núcleo lógico está intacto — disse Valéria, sua voz voltando ao tom analítico, uma defesa contra o horror que acabara de presenciar. — Mas a matriz de personalidade... ela se fragmentou para conter o feedback da rede neural de Dante.
+— O núcleo lógico de armazenamento está intacto — disse Valéria, sua voz voltando ao tom analítico, uma defesa contra o horror que acabara de presenciar. — Mas os circuitos de contenção e a matriz de voz... ela se fragmentou para aterrar o feedback da rede neural de Dante.
 
 — Dá para consertar?
 
-— Hardware? Sim. Software? — Valéria hesitou. — Ela salvou os Drenados absorvendo a dor deles. Isso... isso muda quem você é, Gabo. Mesmo para uma máquina. Se eu a religar, não sei quem vai acordar.
+— Os barramentos físicos? Sim, se eu conseguir uma ponte de silício nova. O software? — Valéria hesitou, olhando para as trilhas de cobre trincadas dentro do pendrive. — Ela salvou os Drenados absorvendo o pulso sináptico deles pelo barramento. Isso corrompeu os filtros que isolavam o algoritmo tático do substrato neural da Bia. Se eu religar o drive, não sei o que vai falar no nosso ouvido.
 
-Gabo assentiu. Ele se sentou no chão, encostado na mesa onde Rangel respirava superficialmente. Suas mãos ainda tremiam levemente, não por fraqueza, mas pela descarga de tensão. Ele entrelaçou os dedos, forçando-os a parar.
+Gabo assentiu. Ele se sentou no chão, encostado na mesa onde Rangel respirava superficialmente. Suas mãos ainda tremiam levemente pela descarga de tensão. Ele entrelaçou os dedos, forçando-os a parar.
 
 — Temos tempo — disse ele, fechando os olhos. — O mundo lá fora parou. Pela primeira vez em anos, ninguém está nos caçando.
 
-— Por enquanto — corrigiu Valéria, sentando-se ao lado de Aria e segurando a mão fria da androide.
+— Por enquanto — corrigiu Valéria, sentando-se diante da bancada e tocando o invólucro frio de titânio do pendrive da Aria.
 
 O som da chuva gotejando de algum cano estourado marcava o tempo. *Tap. Tap. Tap.*
 

@@ -62,6 +62,10 @@ Uma megalópole costeira, isolada e estratificada, onde chove 300 dias por ano (
 *   **Arquétipo:** O Espelho Distorcido/O Traidor.
 *   **Natureza:** Ex-parceiro de Gabo, corrupto, transformado em ciborgue grotesco. Representa o que Gabo poderia se tornar se perdesse a honra.
 
+### Aria (A Assistente de IA no Pendrive)
+*   **Arquétipo:** A Bússola Tática no Bolso.
+*   **Natureza:** Assistente de IA autônoma que Gabo encontra durante a enchente em uma cabine telefônica (Capítulo 2). Ela fica **fisicamente alojada em um componente de hardware blindado tipo um pendrive** (que Gabo espeta no painel do *Cobalt*, no seu comunicador tático, no cyberdeck de Valéria ou diretamente nos terminais que precisam ser hackeados). Compilada com o backdoor de Dante e fragmentos neurais de Bia Vargas, acompanha o grupo até ser fundida no terminal do Arquivo Executivo (Capítulo 167).
+
 ---
 
 ## 4. Glossário e Termos Técnicos
@@ -114,7 +118,7 @@ A estética do projeto é definida por três pilares:
 ### Tokens de Personagens (Referência Visual)
 *   **Gabo**: `beige trench coat`, `messy dark hair`, `full beard`, `tired eyes`, `glock`.
 *   **Val**: `asymmetrical short bob`, `long side swept bangs with blue holographic LED strands`, `textured wispy ends`, `silver cybernetic eyes`, `LED cheek implants`, `leather jacket`, `cyberdeck`.
-*   **Aria**: `holographic girl`, `platinum blonde`, `heterochromatic eyes`, `glowing barcode`.
+*   **Aria**: `rugged titanium neural pendrive drive with glowing blue status LED`, `holographic HUD projection`, `platinum blonde`, `heterochromatic eyes`.
 
 ---
 
@@ -129,18 +133,18 @@ A estética do projeto é definida por três pilares:
 *   **Arco da Sobrevivência (Parte VII-VIII):** Lidar com as consequências da queda da tecnologia.
 *   **Arco do Dilúvio (Parte IX):** A luta contra a enchente artificial, a tirania de Marco Moretti, e a busca por justiça em um mundo que está afundando.
 *   **Arco do Leilão (Parte X):** A revelação de que a cidade está sendo convertida em uma necrópole digital.
-*   **Arco da Redenção (Parte XI):** A batalha final pela alma da cidade, a transformação de Dante e Aria em guardiões digitais.
+*   **Arco da Redenção (Parte XI):** A batalha final pela alma da cidade, a ponte entre o backup de Dante e o pendrive da Aria contra o Consórcio.
 *   **Arco do Renascimento (Parte XII):** A paz é desafiada por ameaças analógicas e sobrenaturais.
-*   **Arco da Carne Mecânica (Parte XIII):** O enfrentamento entre a tecnologia pura (Aria) e a biologia corrompida (Projeto Gênesis).
+*   **Arco da Carne Mecânica (Parte XIII):** O enfrentamento entre a tecnologia pura (o Código Morto no pendrive de Aria) e a biologia corrompida (Projeto Gênesis).
 *   **Parte XIV: O Vazio (Atual):** O Grande Silêncio. Tecnologia morta. Gabo luta nos túneis usando métodos analógicos.
 
 ### Status Atual dos Personagens (Pós-Capítulo 109)
 | Personagem | Status | Localização | Obs. |
 | :--- | :--- | :--- | :--- |
 | **Gabo** | **VIVO** | Superfície | Ferido, mas ativo. Exoesqueleto falho. |
-| **Elena** | **VIVA** | Superfície | Combatente ativa (irmã de Gabo). |
+| **Elena** | **VIVA** | Superfície | Combatente ativa (ex-esposa de Gabo). |
 | **Valéria** | **VIVA** | Superfície | Recuperada da petrificação. Olhos prateados. |
-| **Aria** | **FRAGMENTADA** | Ecos digitais | Sacrificada no Cap 96. Apenas vestígios. |
+| **Aria** | **ATIVA NO PENDRIVE (ATÉ CAP 167)** | Drive portátil | Assistente de IA no componente tipo pendrive achado na cabine telefônica; fundida no Cap 167. |
 | **Bio-Dante** | **ATIVO** | Superfície | Antagonista trágico. Ver seção abaixo. |
 | **Silas** | **MORTO** | Esgotos | Absorvido pela colmeia. |
 | **Miranda** | **MORTO** | Esgotos | Destruído no confronto final. |

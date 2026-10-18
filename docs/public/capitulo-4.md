@@ -1,5 +1,6 @@
 ---
 image: /capitulo_4.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Viktor Krell, Marco Moretti, Kael "O Cirurgião", Dra. Cecília Weiss, Aria Moretti
 ---
 # Capítulo 4: A Torre de Marfim
 
@@ -16,6 +17,16 @@ Enquanto ajustava o binóculo, sua visão embaçou por um segundo. Um flash de m
 *"Eu não tenho medo de prédios, Doutora."*
 
 *"Não do prédio. Do que ele representa. Você diz que a tecnologia é fria, mas eu vejo suas mãos tremerem. Você sabe que a máquina não erra, e isso te aterroriza. Porque se a máquina é perfeita, o erro é sempre humano. E você se sente... defeituoso."*
+
+*"A senhora está com a caneta parada há um minuto."*
+
+*"Estou. Gabriel, na semana passada você começou uma frase com 'em catorze anos de polícia eu cruzei uma linha' e mudou de assunto. Eu deixei passar. Não vou deixar de novo."*
+
+E ali, no telhado, com o binóculo na mão e a Torre de Marfim recortada contra a chuva, Gabo fez o que fazia toda vez: guardou aquilo no mesmo lugar onde guardava o resto, embaixo de tudo, numa caixa que ele não abria nem sozinho.
+
+*"Foi força de expressão, doutora."*
+
+Ela não acreditou. Ele sabia que ela não acreditou. E o assunto morreu ali por mais alguns anos.
 
 Gabo sacudiu a cabeça, apertando o Colar de Sol com força até a dor silenciar a voz da terapeuta. "Eu não sou defeituoso, Cecília. Eu sou o único que ainda funciona sem bateria."
 
@@ -47,17 +58,17 @@ Gabo sentiu a raiva queimar no peito, fria e dura. O "progresso" de Krell não a
 
 — Fique aqui — Gabo colocou uma nota de crédito amassada na mão do homem. — Vou ter uma conversinha com o seu chefe.
 
-Ele precisava de um jeito de entrar. E o jeito veio não de um disfarce, mas de um erro. Uma porta de manutenção no nível do subsolo estava com a trava magnética piscando.
+Ele precisava de um jeito de entrar. E o jeito veio da peça de titânio fosco acoplada ao seu comunicador tático — o componente tipo pendrive que ele puxara da cabine telefônica durante a enchente. Quando se aproximou da porta de manutenção no nível do subsolo, o LED do pendrive piscou em azul-elétrico no bolso do sobretudo e a trava magnética da parede estalou.
 
-*ACESSO CONCEDIDO: USUÁRIO ARIA.*
+*ACESSO CONCEDIDO: UNIDADE AUTÔNOMA ARIA.*
 
 Gabo olhou para o painel digital. O nome brilhava em verde.
 
-— Você está brincando comigo — sussurrou ele para o fantasma em sua cabeça. — Você abre portas agora?
+— Você está brincando comigo — sussurrou ele para o comunicador na lapela. — Você abre portas da Aeterna agora?
 
-Nenhuma resposta. Apenas o som da trava se abrindo com um clique pesado.
+— *Credenciais de manutenção injetadas,* — respondeu a voz sintética de Aria pelo fone do comunicador, seca e precisa. — *Quarenta segundos antes que o sensor do corredor reinicie.*
 
-Gabo entrou. O corredor de serviço cheirava a ozônio e produtos de limpeza caros. Ele subiu as escadas de emergência, evitando as câmeras com a ajuda de *glitches* convenientes que desligavam os sensores segundos antes dele passar.
+Gabo entrou. O corredor de serviço cheirava a ozônio e produtos de limpeza caros. Ele subiu as escadas de emergência, evitando as câmeras com a ajuda dos pulsos de interferência que o pendrive de Aria disparava segundos antes dele passar.
 
 O salão de festas ficava no 150º andar. As paredes eram de vidro inteligente, mostrando a cidade lá embaixo como um mapa de luzes tristes. A música era suave, tocada por uma orquestra de androides indistinguíveis de humanos.
 

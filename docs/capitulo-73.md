@@ -3,7 +3,7 @@ layout: doc
 title: "Capítulo 73: Carne e Metal"
 description: "O ex-parceiro trocou de corpo para não ser mais o lixo que reciclaram. Gabo mata ele com um isqueiro que não acende nada."
 image: /capitulo_73.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Roberto Miranda, Aria Moretti
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Roberto Miranda, Aria
 ---
 
 # Capítulo 73: Carne e Metal
@@ -30,15 +30,15 @@ Gabo checou o que tinha.
 
 A *Caronte* estava perdida em algum ponto da luta com o Santo. A Glock estava com ele, e tinha três balas, e ele contou duas vezes porque não queria acreditar.
 
-— Val. Tira a Aria daqui.
+— Val. Tira o drive da Aria daqui.
 
 — Eu não vou te deixar—
 
-— **VAL.** — Ele apontou o duto de ventilação aberto na parede baixa, do lado dela. — Ela é a única coisa nessa sala que importa e você é a única aqui que sabe operar um teclado. Eu sou o item descartável desse conjunto e essa é a informação mais objetiva que eu vou te dar hoje. **Vai.**
+— **VAL.** — Ele apontou o duto de ventilação aberto na parede baixa, do lado dela. — Esse pendrive é a única coisa nessa sala que importa e você é a única aqui que sabe operar um teclado. Eu sou o item descartável desse conjunto e essa é a informação mais objetiva que eu vou te dar hoje. **Vai.**
 
 Val hesitou meio segundo, xingou e foi.
 
-Ela puxou a menina pelo braço — e a menina se deixou puxar, o que era em si esquisito, porque ela tinha atravessado as mãos de um homem no beco havia dois dias — e as duas sumiram no duto.
+Ela arrancou o pendrive de titânio da Aria do barramento do console — o metal estava tão quente que queimou a palma da mão dela —, travou-o no deck de pulso e sumiu para dentro do duto.
 
 ---
 

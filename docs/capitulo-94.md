@@ -1,9 +1,9 @@
 ---
 layout: doc
 title: "Capítulo 94: O Coração da Colmeia"
-description: "Quatro quilômetros empurrando cinquenta quilos de servidor por uma cidade que respira. O comboio é patético, e é tudo o que sobrou."
+description: "Quatro quilômetros levando o pendrive da Aria e o banco de baterias de pulso por uma cidade que respira. O comboio é patético, e é tudo o que sobrou."
 image: /capitulo_94.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Capitão Jonas Vilar, Aria Moretti
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Capitão Jonas Vilar, Aria
 ---
 
 # Capítulo 94: O Coração da Colmeia
@@ -18,9 +18,9 @@ Fogo era a única coisa que fazia o Jardim recuar. Não matava — Gabo já sabi
 
 No meio ia a maca.
 
-Uma maca hospitalar reforçada, dessas de transporte de paciente bariátrico, com quatro rodas de borracha maciça. Em cima dela, amarrado com cinta de carga, o servidor preto do Código Morto e duas baterias de nobreak ligadas em paralelo.
+Uma maca hospitalar reforçada, dessas de transporte de paciente bariátrico, com quatro rodas de borracha maciça. Em cima dela, amarrado com cinta de carga, o berço portátil de injeção onde o pendrive blindado de titânio da Aria estava acoplado a duas baterias de nobreak ligadas em paralelo para forçar o pulso do Código Morto.
 
-Cinquenta e um quilos de máquina e trinta e oito de bateria.
+Cinquenta e um quilos de condensadores e trinta e oito de bateria para alimentar um drive do tamanho de um polegar.
 
 Gabo e Val empurravam.
 

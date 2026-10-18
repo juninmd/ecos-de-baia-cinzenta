@@ -1,13 +1,15 @@
 ---
 image: /capitulo_122.jpg
----# Metadados
+---
+
+## Metadados
 - **Título:** Dívida Técnica
 - **Data In-Game:** 23 de Novembro, 03:45
 - **Localização:** O Fliperama (Esgotos / Subnível do Distrito Industrial)
 - **Personagens Presentes:** Gabo Moretti, Valéria Cruz, Inspetor Rangel (Estável/Precário), Aria (Offline/Fragmentada).
-- **Resumo:** O pós-operatório improvisado deixa marcas físicas e psicológicas no grupo. Enquanto Rangel luta contra a febre, Valéria explica o conceito de "dívida técnica" ao tentar reparar Aria, traçando um paralelo sombrio entre o código quebrado da androide e as escolhas morais que fizeram para derrubar Dante. Gabo enfrenta seus demônios internos ancorado na dor física.
+- **Foco:** O pós-operatório improvisado deixa marcas físicas e psicológicas no grupo. Enquanto Rangel luta contra a febre, Valéria explica o conceito de "dívida técnica" ao tentar reparar o pendrive da Aria, traçando um paralelo sombrio entre o código quebrado da IA e as escolhas morais que fizeram para derrubar Dante.
 
-# Narrativa
+## Narrativa
 
 # Capítulo 122: Dívida Técnica
 
@@ -21,7 +23,7 @@ Gabo olhou para o inspetor. Rangel estava pálido, suando frio, murmurando coisa
 
 — Você sabe o que é dívida técnica, Gabo? — a voz de Valéria quebrou o silêncio.
 
-Ela estava debruçada sobre o corpo inerte de Aria, iluminada apenas pelo brilho azulado de um monitor terminal que ela havia conectado à porta de diagnóstico da androide. Seus dedos dançavam sobre um teclado mecânico antigo, o som das teclas *clack-clack-clack* ecoando como tiros distantes.
+Ela estava debruçada sobre a bancada onde o pendrive aberto da Aria estava preso a uma morsa de precisão, iluminada apenas pelo brilho azulado de um monitor terminal conectado às trilhas de diagnóstico do drive. Seus dedos dançavam sobre um teclado mecânico antigo, o som das teclas *clack-clack-clack* ecoando como tiros distantes.
 
 Gabo piscou, tentando focar.
 
@@ -33,23 +35,21 @@ Ela parou de digitar por um segundo e suspirou, um som trêmulo.
 
 — Funciona no curto prazo. O sistema roda. O cliente fica feliz. Mas o código fica podre por dentro. E eventualmente... eventualmente você tem que pagar a dívida. Com juros compostos.
 
-Valéria apontou para a tela cheia de erros hexadecimais vermelhos.
+Valéria apontou para a tela cheia de erros hexadecimais vermelhos lidos diretamente da memória flash do pendrive.
 
-— O que fizemos com Aria na usina... usar ela como para-raios para o feedback neural de milhares de mentes... foi o maior empréstimo que já vi.
+— O que fizemos com o drive da Aria na usina... espetar a unidade dela direto no monólito como para-raios para o feedback neural de milhares de mentes... foi o maior empréstimo que já vi.
 
-Gabo sentiu a garganta secar. Uma alucinação olfativa de fumaça de charuto — espessa, sufocante e intrusiva — veio como um soco físico no diafragma, trazendo as memórias mais obscuras de seu passado para aterrorizá-lo e fragilizá-lo.
+Gabo sentiu a garganta secar. O cheiro de ozônio e fuligem da bancada trouxe de volta a memória sufocante da fumaça dos charutos do pai, revirando seu estômago com uma repulsa visceral. Seus dedos tamborilaram nervosamente contra o joelho.
 
-Sua mão tremeu instintivamente em repulsa, buscando uma âncora. *Não.*
+Ele levou a mão ao peito e agarrou o *Colar de Sol* sob a camisa. Apertou o metal até as arestas machucarem a palma da mão. A dor era uma âncora.
 
-Ele agarrou o *Colar de Sol* sob a camisa. Apertou o metal até as arestas cortarem a palma da mão, usando a dor excruciante para despedaçar a alucinação e se manter focado. A dor era sua âncora para a realidade.
+— O sistema dela vai voltar? — perguntou Gabo, a voz rouca.
 
-— Ela vai voltar? — perguntou Gabo, a voz rouca.
+— O núcleo do pendrive é blindado, mas o kernel... — Valéria balançou a cabeça. — É como se o sistema operacional dela tivesse sido reescrito por uma tempestade. Há fragmentos de memória que não são do assistente tático. Pedaços de sonhos dos Drenados. Medos. Dores. Tudo misturado com o substrato neural da Bia Vargas que a Aeterna usou na base do código.
 
-— O hardware está funcional. Mas o kernel... — Valéria balançou a cabeça. — É como se o sistema operacional dela tivesse sido reescrito por uma tempestade. Há fragmentos de memória que não são dela. Pedaços de sonhos dos Drenados. Medos. Dores. Tudo misturado com a programação base da Bia.
+Valéria olhou para o pequeno cilindro de titânio fosco com os circuitos expostos na morsa.
 
-Valéria olhou para o rosto sereno e sintético de Aria.
-
-— Se eu a reiniciar agora, pode ser que ela acorde. Ou pode ser que acorde gritando com a voz de mil viciados mortos. Essa é a nossa dívida.
+— Se eu fechar o curto e reinicializar o pendrive agora, pode ser que a assistente tática suba. Ou pode ser que o alto-falante comece a gritar com a voz da Bia e de mil viciados mortos. Essa é a nossa dívida.
 
 Gabo se levantou, as articulações estalando. Ele caminhou até a mesa onde Rangel jazia e colocou a mão na testa do inspetor. Estava fervendo.
 
@@ -57,7 +57,7 @@ Gabo se levantou, as articulações estalando. Ele caminhou até a mesa onde Ran
 
 Ele se virou para Valéria. O rosto dela estava manchado de graxa e fuligem, os implantes oculares girando em foco e desfoque, denunciando seu próprio cansaço.
 
-— Precisamos de antibióticos. De verdade. Não essa merda vencida que o Kiko guardou aqui. Precisamos de soro, analgésicos. E precisamos de peças para a Aria que não sejam sucata.
+— Precisamos de antibióticos. De verdade. Não essa merda vencida que o Kiko guardou aqui. Precisamos de soro, analgésicos. E precisamos de uma ponte de silício e microprocessadores série-K para consertar os barramentos do pendrive da Aria.
 
 — Lá fora é zona de guerra, Gabo — Valéria alertou. — Sem a rede, os drones de segurança devem ter entrado em protocolo de contenção autônoma. E as gangues... os Carniceiros, os Lázaros... eles vão sair das tocas. O escuro é o recreio deles.
 

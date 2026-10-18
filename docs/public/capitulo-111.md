@@ -1,5 +1,6 @@
 ---
 image: /cenas/investigacao.jpeg
+Personagens Presentes: Gabriel "Gabo" Moretti, Inspetor Rangel, Valéria "Val" Cruz, Aria, Dante Moretti, Kiko Vibe
 ---
 # Capítulo 111: Arquivos Mortos
 
@@ -21,9 +22,9 @@ Gabo sentou-se em um caixote de madeira reforçada, esticando a perna machucada.
 
 — Bem-vinda aos anos 2000, garota — disse Rangel. O ex-inspetor caminhava pelas estantes de metal enferrujado que forravam as paredes laterais. Elas estavam entulhadas não com drives de cristal, mas com caixas de papelão. — Kiko não confiava na nuvem. E pelo visto, ele tinha razão.
 
-Gabo ficou diante de uma parede de monitores CRT desligados, exceto pelo central, que exibia o prompt de comando piscante em verde fósforo. A luz verde refletiu no suor do rosto dele. A voz de Aria sussurrou na mente dele, suave, quase infantil.
+Gabo ficou diante da parede de monitores CRT desligados, exceto pelo central, que exibia o prompt de comando piscante em verde-fósforo enquanto o pendrive blindado da Aria processava os diretórios pela porta serial. A luz verde refletiu no suor do rosto dele. Pelo alto-falante do monitor, a voz sintética de Aria comentou em baixa frequência, cruzando os registros antigos.
 
-— Ele sabia que isso ia acontecer — disse Gabo, repetindo o pensamento como se fosse dele. — Kiko viu os padrões. Ele viu o código do Dante antes mesmo do Dante nascer.
+— *Ele sabia que isso ia acontecer* — disse Aria pelo alto-falante, e Gabo assentiu devagar. — *Kiko mapeou os padrões. Ele isolou a arquitetura do código de Dante antes mesmo do hospedeiro biológico ser ativado.*
 
 — Kiko era um *streamer* — Valéria bufou, finalmente arriscando teclar algo. O som das teclas mecânicas (Click-Clack) ecoou alto na sala. — Ele vendia energético e fazia *unboxing* de implantes.
 

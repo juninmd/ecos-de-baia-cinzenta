@@ -1,6 +1,6 @@
 ---
 image: /capitulo_98.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Dra. Nise, Inspetor Rangel, Capitão Jonas Vilar, Aria Moretti
+Personagens Presentes: Gabriel "Gabo" Moretti, Dra. Nise, Inspetor Rangel, Capitão Jonas Vilar, Aria
 ---
 # Capítulo 98: A Cidade Silenciosa
 

@@ -3,14 +3,14 @@ layout: doc
 title: "Capítulo 59: A Fundação"
 description: "Sob a Nova Baía não há alicerce de prédio. Há um data center refrigerado pela mesma água que afogou a cidade — e as luzes dos servidores têm nome."
 image: /capitulo_59.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Aria Moretti
+Personagens Presentes: Gabriel "Gabo" Moretti, Aria
 ---
 
 # Capítulo 59: A Fundação
 
 **Subsolo do Distrito da Névoa.**
 
-A dica da Isadora tinha levado Gabo e a menina para baixo — não para o esgoto, que é raso e tem tampa a cada cinquenta metros, mas para as galerias de manutenção do metrô antigo, escavadas nos anos setenta e desativadas nos noventa, que não aparecem em mapa nenhum porque foram construídas por uma empreiteira que faliu antes de entregar o *as built*.
+A dica da Isadora tinha levado Gabo para baixo — não para o esgoto, que é raso e tem tampa a cada cinquenta metros, mas para as galerias de manutenção do metrô antigo, escavadas nos anos setenta e desativadas nos noventa, que não aparecem em mapa nenhum porque foram construídas por uma empreiteira que faliu antes de entregar o *as built*. No bolso tático do colete, conectado por cabo blindado ao seu comunicador e ao visor do capacete, o pendrive de titânio da Aria pulsava em azul baixo.
 
 O ar lá embaixo era quente.
 
@@ -28,15 +28,15 @@ Perto do quê, ele não sabia dizer. Só sabia que quando um subsolo esquenta tr
 
 ---
 
-A menina parou de repente.
+No ponto auditivo de Gabo, o canal da Aria emitiu um bip seco de alerta.
 
-Segurou a manga do casaco dele e puxou.
+O visor tático piscou com um gráfico de frequência sísmica.
 
-— O que foi?
+— O que foi, Aria?
 
-Ela apontou para o chão.
+— *Vibração harmônica de baixa frequência no piso, Inspetor* — sussurrou a voz sintética no ouvido dele.
 
-A poça de água lamacenta que cobria as botas dos dois estava vibrando. Não com onda: com uma trepidação fina e uniforme na superfície, aquela textura de areia que aparece em cima de um alto-falante.
+A poça de água lamacenta que cobria as botas dele estava vibrando. Não com onda: com uma trepidação fina e uniforme na superfície, aquela textura de areia que aparece em cima de um alto-falante.
 
 Gabo se ajoelhou — e ajoelhar custava, e ele fez assim mesmo — e encostou a palma da mão no concreto.
 
@@ -48,7 +48,7 @@ Era bomba d'água. Bomba grande.
 
 ---
 
-Eles avançaram mais duzentos metros e a galeria terminou numa grade de ventilação de dois metros por três, chumbada no concreto, com o ar quente saindo por ela em rajadas.
+Ele avançou mais duzentos metros e a galeria terminou numa grade de ventilação de dois metros por três, chumbada no concreto, com o ar quente saindo por ela em rajadas.
 
 Gabo encostou o rosto na grade.
 
@@ -80,19 +80,19 @@ Ele encostou a testa na grade quente.
 
 ---
 
-A menina se aproximou da grade e pressionou as duas palmas contra o metal.
+Gabo tirou o pendrive da Aria do bolso tático e encostou o conector retrátil na malha metálica da grade, usando a estrutura como antena improvisada.
 
-Ela tinha os olhos daquele jeito: um azul elétrico, outro dourado, e nenhum dos dois pertencia à filha que ele enterrou.
+O LED lateral do componente oscilou entre o azul elétrico e o âmbar, aquecendo entre os dedos dele enquanto ela decodificava o ruído eletromagnético que subia do fosso.
 
 — *Eles gritam.*
 
-A voz não passou pelo ar. Chegou por dentro, do jeito que chega, e Gabo já não estremecia mais com isso, o que era em si uma coisa preocupante.
+A voz da IA no ponto auditivo saiu carregada de estática, processando milhões de pacotes fragmentados por segundo, e Gabo já não estremecia mais com a precisão quase humana daquele módulo, o que era em si uma coisa preocupante.
 
 — Quem grita, Aria?
 
-Ela apontou para as torres.
+O visor da câmera tática destacou os barramentos luminosos das torres.
 
-— *As pessoas.*
+— *As matrizes neurais. São pessoas, Gabriel.*
 
 ---
 
@@ -136,19 +136,19 @@ Não dá para comprar isso.
 
 Mas dá para pegar de uma população inteira que morreu afogada, com os implantes de saúde ainda ativos, num evento classificado como *perda não programada, ambiental*.
 
-— Eles não afogaram a cidade para tirar as pessoas do terreno — Gabo disse, para a menina e para ninguém, com a voz muito baixa. — Eles afogaram a cidade porque precisavam das pessoas.
+— Eles não afogaram a cidade para tirar as pessoas do terreno — Gabo disse para o comunicador, com a voz muito baixa. — Eles afogaram a cidade porque precisavam das pessoas.
 
-A menina não respondeu.
+No visor, a telemetria da Aria não parava de correr.
 
-Ela estava com as palmas ainda coladas na grade e a testa encostada nela, e Gabo entendeu, com um horror atrasado de quarenta e sete dias, exatamente o que ela estava fazendo ali.
+O pequeno pendrive de titânio continuava encostado na grade, fervendo de tão quente, e Gabo entendeu, com um horror atrasado de quarenta e sete dias, exatamente o que o algoritmo dela estava varrendo nos diretórios do fosso.
 
-Ela não estava olhando as torres.
+Ela não estava apenas mapeando as torres.
 
-Estava procurando a própria prateleira.
+Estava cruzando a própria assinatura de código com as prateleiras para descobrir de quais mortos os fragmentos da sua base neural tinham sido extraídos.
 
 ---
 
-— A gente tem que sair — disse Gabo, se levantando com as duas mãos na parede. — Tem que contar isso para alguém.
+— A gente tem que sair — disse Gabo, puxando o pendrive de volta para o estojo blindado do colete e se levantando com as duas mãos na parede. — Tem que contar isso para alguém.
 
 E a frase morreu no ar assim que saiu, porque ele fez a lista mentalmente e a lista estava vazia.
 
@@ -156,15 +156,15 @@ Vilar estava queimado. A imprensa era do Consórcio. Elena estava a seiscentos q
 
 Contar para quem?
 
-— *Para todo mundo* — disse a voz dentro da cabeça dele.
+— *Para todo mundo* — disse a voz da Aria no ponto auditivo.
 
-Foi a primeira vez que ela ofereceu uma opinião.
+Foi a primeira vez que a assistente tática ofereceu uma diretriz fora do protocolo.
 
 ---
 
-Um som metálico atrás deles fez Gabo girar o corpo inteiro, porque girar só o pescoço não era mais uma opção.
+Um som metálico atrás dele fez Gabo girar o corpo inteiro, porque girar só o pescoço não era mais uma opção.
 
-Três lanternas acenderam ao mesmo tempo, a doze metros, na boca do túnel por onde eles tinham entrado.
+Três lanternas acenderam ao mesmo tempo, a doze metros, na boca do túnel por onde ele tinha entrado.
 
 Não eram robôs. Robô faz barulho de servo e anda em cadência. Aquilo respirava.
 
@@ -172,7 +172,7 @@ Armadura tática, visão noturna erguida na testa, arma de cano curto na posiç�
 
 — Inspetor Moretti. — A voz saiu por modulador, sem grave nenhum. — O senhor está invadindo propriedade privada corporativa. A cláusula de rescisão do seu contrato de vida foi ativada às vinte e três e quarenta de hoje.
 
-Gabo empurrou a menina para trás do próprio corpo — um gesto absolutamente inútil, e ele sabia, e fez mesmo assim, e ia fazer de novo todas as vezes.
+Gabo fechou a mão esquerda sobre o bolso blindado onde o pendrive da Aria pulsava — um gesto instintivo para proteger o módulo com o próprio tórax.
 
 Sacou a Glock.
 

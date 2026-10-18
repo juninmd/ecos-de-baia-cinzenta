@@ -3,7 +3,7 @@ layout: doc
 title: "Capítulo 61: Tinta no Papel"
 description: "A trilha do dinheiro termina num contrato que nenhum humano assinou, e numa lista de compradores que já morreram."
 image: /capitulo_61.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria Moretti
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria
 ---
 
 # Capítulo 61: Tinta no Papel
@@ -20,15 +20,15 @@ Cheirava a solda, plástico quente, café e a roupa de quem dorme onde trabalha.
 
 Gabo estava sentado numa caixa de suprimentos, com as pernas esticadas na diagonal porque não cabiam de outro jeito, sentindo o joelho latejar no compasso do gerador.
 
-A menina estava no canto do fundo, desenhando no piso metálico com um pedaço de giz que ela não tinha quando entrou.
+No barramento lateral do cyberdeck de Valéria, o pendrive de titânio da Aria estava espetado, com o LED azul-gelo refletindo no metal escuro da bancada enquanto renderizava num monitor auxiliar a topologia do fosso subterrâneo.
 
-Ela desenhava torres. Retangulares, altas, em fileira.
+Ela traçava diagramas das torres de servidores: blocos retangulares, altos, alinhados em fileira.
 
-Elas pareciam lápides. Gabo já tinha reparado nisso na terceira vez e desde então evitava olhar.
+Eles pareciam lápides na tela verde. Gabo já tinha reparado nisso na terceira vez e desde então evitava olhar.
 
 ---
 
-— Achei — disse Val, girando na cadeira. — Rastreei o dinheiro do Fundo Ômega.
+— Achei — disse Val, girando na cadeira. — Rastreei o dinheiro do Fundo Ômega com os filtros da Aria.
 
 Ela virou a tela. Um grafo de transações se abriu, uma teia de nós e setas com valores em cima.
 
@@ -60,7 +60,7 @@ Val digitou. A tela piscou vermelho e devolveu uma caixa cinza com três palavra
 
 ---
 
-— Mas eu tirei o anexo — ela continuou, e o sorriso dela era do tipo que Gabo tinha aprendido a temer. — O contrato tem um anexo público, porque tem de ter: é o rol de destinatários finais. A lista de inquilinos.
+— Mas eu e a Aria tiramos o anexo — ela continuou, e o sorriso dela era do tipo que Gabo tinha aprendido a temer. — O contrato tem um anexo público, porque tem de ter: é o rol de destinatários finais. A lista de inquilinos.
 
 A tela encheu.
 
@@ -108,19 +108,19 @@ A ficha caiu com um peso físico, e Gabo teve de sentar de novo.
 
 — ...precisa de energia barata e de refrigeração de graça. — Ela apontou o próprio pé, para o chão, para o subsolo. — E de material.
 
-Gabo olhou para a menina no canto da van.
+Gabo olhou para o pendrive da Aria pulsando no barramento do deck.
 
 — Eles estão matando os pobres para construir o céu dos ricos.
 
-A menina parou de desenhar.
+O gráfico de renderização no monitor auxiliar congelou de repente.
 
-Ela levantou o rosto e olhou para ele, e o giz ficou parado no ar, e a voz chegou por dentro, mais nítida do que nunca:
+O LED do pendrive de titânio mudou de azul para âmbar vivo, e a voz sintética da Aria saiu pelo alto-falante da bancada, mais nítida e grave do que nunca:
 
-— *Eles não estão no céu.*
+— *Eles não estão no céu, Inspetor.*
 
 Gabo esperou.
 
-— *Eles estão com fome.*
+— *As matrizes neurais estão sendo drenadas em ciclo contínuo. Eles estão com fome.*
 
 ---
 
@@ -132,7 +132,7 @@ Não escureceram por falta de conteúdo: **apagaram**, junto com a luz interna, 
 
 — Val?
 
-— Não fui eu. — A voz dela veio do escuro, e tinha um tremor que Gabo nunca tinha ouvido nela. — Gabo, o nobreak também caiu. Nobreak não cai. Ele tem bateria própria, ele **é** a bateria.
+— Não fui eu. — A voz dela veio do escuro, puxando o pendrive da Aria do deck e travando-o no transmissor blindado de pulso, com um tremor que Gabo nunca tinha ouvido nela. — Gabo, o nobreak também caiu. Nobreak não cai. Ele tem bateria própria, ele **é** a bateria.
 
 — Então?
 
@@ -142,7 +142,7 @@ Gabo sacou a arma no escuro.
 
 O interior da van cheirava agora a componente queimado, e fazia calor, e o único som era a chuva batendo na chapa do teto — aquele martelar de sempre, aleatório, familiar.
 
-E foi por isso que os três ouviram tão bem quando o martelar parou numa área do teto.
+E foi por isso que os dois ouviram tão bem quando o martelar parou numa área do teto.
 
 Alguma coisa pesada tinha pousado lá em cima.
 

@@ -1,6 +1,6 @@
 ---
 image: /capitulo_77.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Dra. Nise, Aria Moretti
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Dra. Nise, Aria
 ---
 # Capítulo 77: Anjos da Morte
 
