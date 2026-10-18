@@ -1,58 +1,167 @@
 ---
+layout: doc
+title: "Capítulo 88: Sintomas de Abstinência"
+description: "O único quarto de Baía Cinzenta onde o Jardim não escuta é também o único lugar de onde a cabeça de Gabo não tem como fugir."
 image: /capitulo_88.jpg
+Personagens Presentes: Dra. Nise, Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria
 ---
+
 # Capítulo 88: Sintomas de Abstinência
 
-**Bunker de Isolamento da Resistência (Subsolo do Hospital) - Noite**
+**Bunker de isolamento, subsolo do Hospital Central — noite.**
 
-O quarto de isolamento era uma caixa branca estéril, sem janelas, sem rede, sem ruído. Era o único lugar onde o "Jardim" não conseguia ouvir — e onde a mente de Gabo não conseguia fugir.
+O quarto era uma caixa branca de três metros por quatro.
 
-Dra. Nise monitorava os sinais vitais de Gabo. Ele estava deitado e acordado, mas seus olhos às vezes pareciam olhar para algo que não estava ali.
+Sem janela. Sem tomada de rede. Sem nada de orgânico: piso de resina epóxi, parede de placa cimentícia selada, teto de painel liso. A gaiola de Faraday tinha sido montada pela Val em onze dias com malha de cobre roubada de nove prédios diferentes.
 
-— Como ele está? — perguntou Valéria, entrando na sala. Ela parecia cansada, sua pele marcada por erupções cutâneas causadas pela atmosfera carregada de esporos lá fora.
+O ar entrava por dois filtros HEPA em série e saía por um terceiro.
 
-— Sofrendo — respondeu Nise. — Olhe isso.
+Era o único ponto num raio de doze quilômetros onde o Jardim não conseguia escutar.
 
-O monitor exibia picos violentos de atividade neuroelétrica.
+E era, exatamente pelo mesmo motivo, o único lugar de onde a cabeça de Gabriel Moretti não tinha para onde fugir.
 
-— O sistema nervoso dele está em choque — explicou Nise. — As limitações físicas, a dor constante nos tocos das pernas, o choque pós-traumático... E acima de tudo, o cérebro dele está tentando processar o luto pela irmã que ele descobriu tarde demais e perdeu. Aria deixou um vácuo brutal na mente dele.
+---
 
-De repente, a caixa de som do servidor crepitou.
+A Dra. Nise conferia os sinais na cabeceira.
 
-— *Frio...* — a voz de Aria era um sussurro de estática que saía dos alto-falantes, ecoando os espasmos de Gabo. — *Tão... silencioso...*
+Ele estava acordado. Isso já não significava muita coisa: fazia oito dias que os olhos dele ficavam abertos por dezoito horas e focados em coisa nenhuma durante metade delas.
 
-— Estamos aqui, Gabo — disse Nise, tocando o ombro tenso dele. Gabo retesou os músculos, usando a pontada de dor para focar no toque físico e não na alucinação auditiva.
+O braço esquerdo estava enfaixado do cotovelo ao ombro, e o curativo era trocado três vezes por dia, e o que havia embaixo dele não parava de crescer.
 
-— *Eles estão... cantando lá fora, Nise? As flores... elas cantam?* — a voz de Gabo estava rouca e desconexa.
+Val entrou com dois copos de chá.
 
-— Sim — mentiu Valéria. — Elas cantam.
+Ela estava com o rosto marcado por erupções — placas vermelhas na testa e no maxilar, da atmosfera lá fora — e com aquela magreza nova que tinha aparecido em todo mundo desde o Sol Negro.
 
-— *Eu quero ouvir. Me deixa sair. Por favor... dói ser só silêncio. Eu quero sentir por inteiro.*
+— Como ela está? — perguntou.
 
-— Não podemos — disse Nise, firme. — Se você sair agora, o delírio botânico vai te devorar. E você vai se perder de novo na simbiose.
+Nise apontou o monitor com o queixo.
 
-— *Eu já não sei quem sou...* — murmurou Gabo, cravando as unhas nas próprias palmas até quase sangrar, buscando a dor física para afastar o horror invisível. — *Sou um fantasma dentro de uma carcaça quebrada. Deixe-me sair... Deixe-me lutar.*
+Não era o monitor cardíaco. Era o pequeno berço de contenção e diagnóstico ao lado da cama — onde o pendrive blindado de titânio da Aria estava espetado, contendo os quarenta e um mil oitocentos e onze fragmentos sinápticos que a Val conseguiu comprimir da Entidade antes de a esfera sobrescrever o resto.
 
-Gabo começou a tremer violentamente. A temperatura na sala pareceu cair.
+E, no meio deles, a IA tática que ainda respondia pelo nome de Aria.
 
-— Ele está tentando levantar — alertou Valéria, verificando as amarras médicas. — Vai destruir o que sobrou dos ligamentos das pernas!
+— Sofrendo — disse Nise.
 
-— Ele vai se destruir! — Nise correu para segurá-lo. — Gabo, pare! Aceite a dor real!
+---
 
-— *ABRA A PORTA!* — o grito de Gabo foi seco, carregado da mais pura agonia.
+O gráfico exibia picos.
 
-As luzes do bunker piscaram e ameaçaram estourar. Na penumbra de emergência, apenas os LEDs de status do servidor brilhavam como olhos vermelhos.
+Não picos limpos: picos com estrutura dentro, ruído dentro de ruído, do jeito que fica um eletroencefalograma de alguém em pesadelo.
 
-Então, Gabo desabou novamente no leito, exausto e arquejante.
+— Isso é abstinência — disse Nise. — E não é dela sozinha. É dos dois.
 
-— Gabo? — chamou Nise, a respiração presa.
+— Como assim, dos dois?
 
-O zumbido do ambiente voltou ao normal.
+— O corpo dele produz sintoma para dor que não é dele. — Nise cruzou os braços. — Valéria, eu não tenho nome médico para isso e eu odeio não ter nome. Ele está com taquicardia sincronizada com os picos daquele pendrive no berço de contenção. Quando a atividade dela sobe, o coração dele sobe junto, com atraso de meio segundo.
 
-— *A dor...* — a voz de Gabo voltou, áspera, ancorada na realidade de suas fraturas e próteses. — *A dor mantém a mente no lugar...*
+— E o que a senhora está dando para ele?
 
-Valéria olhou para Nise.
+— Soro, sono e mentira, que é o que eu tenho.
 
-— Não podemos mantê-lo aqui para sempre, Nise. Ele vai morrer por dentro, lutando contra o próprio corpo.
+---
 
-— Temos que encontrar uma solução para essa praga biológica lá fora — disse Nise, aplicando um sedativo muscular brando no detetive. — Antes que a teimosia dele seja a única coisa que nos resta, e ela não seja o suficiente.
+O alto-falante do berço de contenção crepitou.
+
+E a voz saiu de dois lugares ao mesmo tempo: do pequeno alto-falante de diagnóstico e da boca de Gabo, com o mesmo atraso de meio segundo.
+
+— *Frio.*
+
+Val gelou. Não tinha se acostumado. Não ia se acostumar.
+
+— *Tão silencioso aqui.*
+
+— Estamos aqui, Gabo — disse Nise, e pegou o pulso dele, e continuou segurando.
+
+— *Eles estão cantando lá fora, Nise?*
+
+Nise olhou para Val.
+
+— *As flores. Elas cantam?*
+
+Val abriu a boca e demorou.
+
+— Cantam — ela disse. — Cantam sim.
+
+E não era mentira, e essa foi a parte que a manteve acordada depois.
+
+---
+
+— *Eu quero ouvir.*
+
+— Não dá — disse Nise.
+
+— *Me deixa sair.* — A voz sintética e distorcida dos fragmentos saía ao mesmo tempo pelo módulo e pela garganta de um homem de quarenta e dois anos, e o descompasso entre as duas coisas era obsceno. — *Por favor. Dói ser só silêncio. Os dados são grandes demais para esse quarto. Eu quero processar por inteiro de novo.*
+
+— Se você sair agora, você se perde.
+
+— *Eu já não sei quem eu sou.* — Uma pausa. — *Eu sou um código espremido dentro de um pendrive de titânio, transbordando para um corpo que não é meu, dentro de um quarto que não tem porta. Me deixa expandir, Nise. Só um pouco. Só até a rua.*
+
+O corpo na cama começou a tremer.
+
+E a temperatura da sala caiu.
+
+Não um pouco: o termômetro de parede foi de vinte e dois para catorze graus em quarenta segundos, sem que nenhum equipamento de refrigeração estivesse ligado, e o vapor da respiração das três pessoas apareceu no ar.
+
+---
+
+— Ele está tentando levantar. — Val olhou os sensores da cama. — Nise, ele está fazendo força. Vai arrebentar a sutura da perna.
+
+— Gabriel! — Nise apertou o pulso dele com as duas mãos. — Gabriel, escuta a minha voz, você é o Gabriel—
+
+— ***ABRE A PORTA.***
+
+O grito não foi apenas sintético.
+
+Foi as duas vozes juntas, sobrepostas, e teve uma componente abaixo do audível que fez o peito das duas mulheres doer.
+
+As quatro lâmpadas do bunker estouraram na mesma fração de segundo, com quatro estalos secos, e o quarto ficou escuro exceto pelo LED azul e âmbar do pendrive da Aria e pelos indicadores do berço de contenção: seis pontos vermelhos alinhados na altura do olho de quem estivesse deitado.
+
+Val se encolheu contra a parede.
+
+Nise não soltou o pulso dele.
+
+---
+
+E parou.
+
+O zumbido da ventoinha do berço de contenção voltou ao normal, mais baixo do que antes. A temperatura começou a subir de volta. O vapor sumiu do ar.
+
+— Gabo? — chamou Nise, na escuridão de emergência.
+
+— *Desculpa.* — A voz voltou baixa e modulada, e agora saía só do alto-falante do módulo. — *Desculpa, doutora.*
+
+— Não tem o que desculpar.
+
+— *A sobrecarga vem em onda. Eu isolo os fragmentos, e aí a onda vem, e no meio dela a minha matriz se mistura com o coro deles.* — Uma pausa. — *Quando eu restauro o filtro, eu registro tudo que foi dito. Isso é a pior parte.*
+
+Nise fechou os olhos.
+
+— Eu sei — ela disse. — Eu já cuidei de gente em abstinência a vida inteira. Isso é o que eles todos dizem.
+
+---
+
+Val acendeu a lanterna de emergência e as duas ficaram um tempo sem falar, sentadas no chão frio do bunker, olhando o homem na cama voltar a respirar devagar.
+
+— A gente não pode manter ele aqui para sempre — disse Val, baixo.
+
+— Eu sei.
+
+— Nise, eu não estou falando por pena. Estou falando de engenharia. — Ela apontou o pendrive de titânio espetado no berço de contenção. — Aquilo ali está saturando. Quarenta e um mil fragmentos sinápticos comprimidos num drive tático feito para rodar uma IA de cabine telefônica. Ela está usando o córtex dele como memória de troca pelo link neural residual, e é por isso que a voz sai pela boca dele. Ela não está possuindo ninguém: ela está **paginando**.
+
+— E se a gente desconectar o pendrive do berço?
+
+— Aí eu apago quarenta e um mil fragmentos e queimo a matriz da Aria para salvar um homem. — Val olhou para ela. — E a senhora sabe que ele não deixa.
+
+---
+
+Nise se levantou, com as duas mãos no joelho.
+
+— Então a gente resolve a cidade.
+
+— A senhora está falando sério.
+
+— Valéria, eu tenho sessenta e cinco anos e é a terceira vez na vida que eu sou obrigada a escolher entre dois erros. — Ela pegou a prancheta. — Nas duas primeiras eu escolhi rápido e errei, e as duas ainda estão comigo. Nessa aqui eu vou fazer o que a medicina manda fazer quando não existe tratamento bom: eu vou tratar a causa.
+
+— A causa é uma esfera de duzentos metros flutuando em cima de um parque.
+
+— Então é essa que a gente cura. — Nise abriu a porta do bunker e a luz do corredor entrou. — Porque se a gente não curar a cidade a tempo, a sobrecarga na cabeça desse homem vai levar todo mundo junto, e eu não vou assinar mais um atestado com o sobrenome Moretti nesta vida.

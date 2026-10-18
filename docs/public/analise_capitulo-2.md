@@ -2,14 +2,14 @@
 
 ## Avaliação Técnica
 - **Ritmo:** 8/10 - A tensão na introdução com o carro, o diálogo no rádio e a transição para o encontro surreal elevam o suspense.
-- **Diálogos:** 9/10 - O atrito entre Gabo e Rangel constrói o ambiente hostil interno na polícia muito bem. A fala "assombrada" da criança no orelhão é instigante.
-- **Atmosfera:** 9/10 - O clima de chuva torrencial opressiva casa com a "assombração" digital que domina o carro de Gabo.
+- **Diálogos:** 9/10 - O atrito entre Gabo e Rangel constrói o ambiente hostil interno na polícia muito bem. A fala sintética da assistente de IA pelo fone da cabine telefônica na enchente é instigante.
+- **Atmosfera:** 9/10 - O clima de chuva torrencial e enchente na Via Costeira casa com a descoberta do pendrive da IA na cabine telefônica e sua conexão ao painel do carro de Gabo.
 
 ## Pontos Fortes e Fracos
 **Fortes:**
 - A coerência da dor: Gabo usa o Colar de Sol mais uma vez para se acalmar diante do veneno de Rangel, reforçando seu arquétipo sem usar álcool ou tabaco como muleta para ansiedade.
-- A introdução da entidade ARIA na forma de Bia criança gera curiosidade profunda para a trama hacker/sobrenatural do cyberpunk.
-- O carro hackeado é um excelente artifício para conduzir o protagonista ao próximo setpiece.
+- A introdução da assistente de IA Aria alojada fisicamente em um componente tipo pendrive espetado na cabine telefônica durante a enchente estabelece de forma concreta e cyberpunk a parceria tática com Gabo.
+- O pendrive conectado ao painel do *Cobalt* assumindo a telemetria e limpando os radares é um excelente artifício para conduzir o protagonista ao próximo setpiece.
 
 **Fracos:**
 - A barra de proteína sintética na introdução é um detalhe pequeno que passa muito rápido, mas reforça a estética distópica.

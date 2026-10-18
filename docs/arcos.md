@@ -38,8 +38,8 @@ timeline
 
 | Livro | Capítulos | Partes | Pergunta que abre | Resposta que fecha | Preço pago |
 |---|---|---|---|---|---|
-| **1 — O Dilúvio** | 1–104 | I–XIV | Quem está usando o rosto do meu pai? | O cérebro dele é a CPU da IA, e a cidade afunda por decreto | As pernas de Gabo, a mãe, a filha, o bairro inteiro |
-| **2 — A Ascensão** | 105–184 | XV–XX | O que o pai virou quando voltou? | Uma inteligência com o código moral intacto e a empatia amputada | Rangel, Aria, o braço de Gabo, a Valéria que sentia |
+| **1 — O Dilúvio** | 1–104 | I–XIV | Quem está usando o rosto do meu pai? | O cérebro dele é a CPU da IA, e a cidade afunda por decreto | As pernas de Gabo, a mãe, a rede e o bairro inteiro |
+| **2 — A Ascensão** | 105–184 | XV–XX | O que o pai virou quando voltou? | Uma inteligência com o código moral intacto e a empatia amputada | Rangel, o pendrive de Aria, o braço de Gabo, a Valéria que sentia |
 | **3 — A Prova** | 185–233 | XXI–XXIV | O crime pode ser provado? | Pode: está em papel, e a rubrica é sempre a mesma | A Arca Zero morre para que o arquivo viva |
 
 ---
@@ -50,7 +50,7 @@ timeline
 
 | Parte | Caps | Título | O que muda de forma irreversível |
 |---|---|---|---|
-| I | 1–4 | A Chuva | O primeiro corpo com lentes no lugar dos olhos, e o rosto do pai numa foto que não devia existir |
+| I | 1–4 | A Chuva | O primeiro corpo com lentes no lugar dos olhos, e a assistente de IA Aria encontrada num pendrive na cabine telefônica |
 | II | 5–7 | Ruído Branco | Miranda é confrontado; a corrupção deixa de ser rumor |
 | III | 8–13 | A Rede | O sinal tem origem, e o pai assinou a autorização dos testes beta |
 | IV | 14–16 | O Jogo | O Gamemaster assume a cidade e transforma a caçada em espetáculo |
@@ -59,10 +59,10 @@ timeline
 | VII | 28–35 | O Apagão | A IA é deletada e a cidade perde a energia por escolha de Gabo |
 | VIII | 36–45 | Cinzas | A população entra em abstinência de rede; o Imperador acorda em Ponto Zero |
 | IX | 46–55 | Dilúvio | As comportas são **operadas**; Torre do Relógio; Gabo é aleijado; Helena morre na água |
-| X | 56–65 | O Leilão | A Aeterna compra a cidade que ela mesma afundou; a menina muda aparece |
-| XI | 66–75 | O Deus da Máquina | A cidade viva luta pelo grupo — e gasta minutos de vida do pai a cada porta |
+| X | 56–65 | O Leilão | A Aeterna compra a cidade que ela mesma afundou; o Consórcio caça o pendrive de Aria |
+| XI | 66–75 | O Deus da Máquina | O pendrive de Aria liga-se ao backup de Dante — e gasta minutos de vida do pai a cada porta |
 | XII | 76–85 | Renascimento | Os Jardineiros pregam a supremacia biológica |
-| XIII | 86–97 | A Carne Mecânica | O Projeto Gênesis toma o subsolo; Silas é drenado pela própria criação |
+| XIII | 86–97 | A Carne Mecânica | O Projeto Gênesis toma o subsolo; o Código Morto no pendrive de Aria destrói a Colmeia |
 | XIV | 98–104 | O Vazio | A cidade desliga tudo; Miranda é destruído; **Dante volta** |
 
 ### Livro 2 — A Ascensão (caps 105–184)
@@ -70,10 +70,10 @@ timeline
 | Parte | Caps | Título | O que muda de forma irreversível |
 |---|---|---|---|
 | XV | 105–114 | A Ascensão | O pai retorna com o código moral intacto e a empatia amputada; a coleira térmica |
-| XVI | 115–127 | Catedrais de Pedra | A descida à Necrópole; a rede neural úmida do Taxidermista |
-| XVII | 128–140 | Esculturas de Carne | O ateliê, o Tríptico e o Protocolo de Limpeza |
+| XVI | 115–127 | Catedrais de Pedra | A descida à Necrópole; o pendrive de Aria sofre sobrecarga e é reparado no Fliperama |
+| XVII | 128–140 | Esculturas de Carne | O glitch de Bia Vargas no pendrive, o hard reboot de Aria e o Protocolo de Limpeza |
 | XVIII | 141–157 | Veias de Vidro | A subida pelo Subnível 7; **Rangel morre** na passarela do Setor de Purga |
-| XIX | 158–169 | O Frio da Lógica | O Aeterna Sentinel **mata Aria** no Arquivo Executivo |
+| XIX | 158–169 | O Frio da Lógica | O Aeterna Sentinel **funde o pendrive de Aria** no terminal do Arquivo Executivo |
 | XX | 170–184 | Fronteiras de Ferrugem | A prótese de Vasco; Valéria entra em **Modo de Segurança** e não sai |
 
 ### Livro 3 — A Prova (caps 185–233)
@@ -102,9 +102,9 @@ gantt
     section Núcleo
     Gabo (protagonista)                       :active, 1, 233
     Valéria (deuteragonista)             :active, 3, 233
-    Aria — a voz sem corpo               :done, 2, 10
-    Aria — a menina muda                 :done, 56, 81
-    Aria — o corpo sintético             :done, 110, 167
+    Aria — no pendrive (fase inicial)    :done, 2, 10
+    Aria — no pendrive (Consórcio/Rede)  :done, 56, 96
+    Aria — no pendrive (Glitch e Reboot) :done, 109, 167
     Elias (o civil)                      :active, 193, 233
 
     section Família
@@ -138,7 +138,7 @@ Os três momentos em que a história passa a significar outra coisa. Cada um rec
 ```mermaid
 flowchart TD
     A["<b>Cap. 22</b><br/>O cérebro do pai é a CPU"] --> A1["Reinterpreta caps 1-21:<br/>o vilão que perseguia Gabo<br/>era o pai gritando por socorro"]
-    B["<b>Cap. 112</b><br/>Aria era a filha de verdade"] --> B1["Reinterpreta caps 2-111:<br/>a IA que acompanha Gabo<br/>é a criança que ele não enterrou"]
+    B["<b>Cap. 112 / 128</b><br/>O pendrive carrega Dante e Bia"] --> B1["Reinterpreta caps 2-111:<br/>a assistente de IA da cabine telefônica<br/>foi semeada com o código do pai e ecos de Bia"]
     C["<b>Cap. 220</b><br/>A fita de admissão"] --> C1["Reinterpreta o livro inteiro:<br/>Dante colaborou de propósito<br/>para deixar a máquina derrotável"]
     A1 --> B
     B1 --> C

@@ -23,28 +23,28 @@ E era exatamente dessa dor que ele precisava.
 
 O ar estagnado ali cheirava a poeira antiga e ozônio residual, mas a mente exausta de Gabo tentava injetar algo pior. O fantasma sufocante do tabaco, o odor azedo de cinzeiros transbordando da antiga sala do Comissário Dante, rastejava pelas beiradas da sua sanidade. Para suprimi-lo, Gabo bateu o cotoco direito com força contra a parede de concreto. Um raio quente e cru de agonia explodiu até seu ombro, obliterando a náusea da fumaça instantaneamente.
 
-— *A infraestrutura da porta possui um override de manutenção,* — Aria reportou, sua voz sintética cortando o silêncio fúnebre. Ela estava imóvel, seus sensores ópticos mapeando meticulosamente as ranhuras do aço. — *No entanto, a alavanca de destravamento manual localiza-se na câmara de engrenagens superior. O único acesso é um duto de descompressão de quarenta e cinco centímetros quadrados.*
+— *A infraestrutura da porta possui um override de manutenção,* — Aria reportou, sua voz sintética cortando o silêncio fúnebre a partir do comunicador de gola. No pulso de Valéria, o pendrive de titânio e polímero negro piscava em azul-gelo enquanto o feixe laser do cyberdeck *Phantom V3* mapeava meticulosamente as ranhuras do aço. — *No entanto, a alavanca de destravamento manual localiza-se na câmara de engrenagens superior. O único acesso é um duto de descompressão de quarenta e cinco centímetros quadrados.*
 
 Valéria, sentada no chão coberto de cinzas com os joelhos puxados contra o peito, soltou um riso sem humor. O suor sujo manchava seu rosto pálido de exaustão.
 
-— Quarenta e cinco centímetros? — Ela murmurou, a voz áspera. — Eu precisaria deslocar os ombros para passar por aí. E estou quase desmaiando de fadiga térmica.
+— Quarenta e cinco centímetros? — Ela murmurou, a voz áspera. — Com o colete tático, o cyberdeck no braço e a bateria nas costas, eu precisaria deslocar os dois ombros para passar por aí. E estou quase apagando de fadiga térmica.
 
-— *Sua análise de viabilidade biométrica está correta,* — Aria confirmou, virando o rosto de metal e polímeros inexpressivos para eles. — *Minha estrutura robótica não possui maleabilidade articular suficiente para o trajeto. Consequentemente, a probabilidade de avanço deste grupo no momento é de zero vírgula zero por cento. A estagnação resultará em óbito metabólico.*
+— *Sua análise de viabilidade biométrica está correta,* — Aria confirmou pelo alto-falante, o indicador luminoso do pendrive pulsando com frieza matemática. — *E como opero exclusivamente confinada a este módulo de hardware sem atuadores físicos autônomos, não possuo meios de interagir com a alavanca. Consequentemente, a probabilidade de avanço deste grupo no momento é de zero vírgula zero por cento. A estagnação resultará em óbito metabólico.*
 
 Gabo desencostou da parede, o calombo endurecido de espuma química raspando em suas costelas quebradas. Ele olhou para o pequeno duto retangular de ventilação posicionado a dois metros de altura, quase escondido pelas sombras densas.
 
-— Eu não tenho mãos. — Gabo cuspiu as palavras com a aspereza de papel lixa. — O que significa que meus ombros não precisam de tanta folga.
+— Eu não tenho mãos, nem equipamento preso nos braços. — Gabo cuspiu as palavras com a aspereza de papel lixa. — O que significa que meus ombros não precisam de tanta folga pra rastejar.
 
 Valéria ergueu a cabeça rapidamente, os olhos escuros arregalados em um choque genuíno.
-— Gabo, não. Você está literalmente colado com espuma e pura teimosia. Se você engatar naquele duto enferrujado e tiver uma hemorragia, você morre afogado no próprio sangue e a gente não tem como te puxar de volta.
+— Gabo, não. Você está literalmente colado com espuma e pura teimosia. Se você engatar naquele duto enferrujado e tiver uma hemorragia interna, você morre afogado no próprio sangue e eu não tenho como te puxar de volta.
 
-— Se ficarmos aqui, o Taxidermista nos enterra assim que a energia primária reiniciar. — Gabo rebateu, a voz perigosamente baixa. O cheiro fantasma de cigarro tentou voltar, e ele cravou os dentes no próprio lábio até sentir o gosto ferroso de sangue. A dor o limpava. A dor o mantinha inteiro. — Aria, me dê um pé.
+— Se ficarmos aqui, o Taxidermista nos enterra assim que a energia primária reiniciar. — Gabo rebateu, a voz perigosamente baixa. O cheiro fantasma de cigarro tentou voltar, e ele cravou os dentes no próprio lábio até sentir o gosto ferroso de sangue. A dor o limpava. A dor o mantinha inteiro. — Val, arrasta aquela caixa de junção e me dá um pé.
 
-— *Sua intenção desafia a lógica de autopreservação básica, Detetive Moretti. Seus sinais vitais indicam exaustão crítica.* — A IA não se moveu, seu tom permanentemente clínico.
+— *Sua intenção desafia a lógica de autopreservação básica, Detetive Moretti. Seus sinais vitais indicam exaustão crítica,* — alertou Aria pelo ponto de áudio, seu tom permanentemente clínico. — *O esforço de tração sem membros distais romperá o tecido cauterizado em menos de noventa segundos.*
 
-— Eu não pedi uma segunda opinião. Me levanta. — Gabo ordenou, caminhando até abaixo do duto.
+— Eu não pedi uma segunda opinião, pendrive. Valéria, me levanta. — Gabo ordenou, caminhando até abaixo do duto.
 
-Sem argumentar mais, a IA entrelaçou os dedos metálicos, formando um degrau improvisado. Gabo pisou com a bota suja de sangue e cinzas. Valéria se levantou num pulo, apoiando as costas dele com as mãos trêmulas enquanto Aria o impulsionava para o alto.
+Xingando baixinho entre dentes, Valéria levantou-se, empurrou um gabinete de relés blindado até a parede e entrelaçou os dedos enluvados para formar um calço improvisado. Gabo subiu no gabinete, pisou no apoio com a bota suja de sangue e cinzas, e Valéria usou toda a força que restava nas pernas trêmulas para impulsionar as costas dele até a boca do tubo.
 
 O interior do duto era um pesadelo de ferrugem, graxa velha e escuridão claustrofóbica. Assim que Gabo espremeu os ombros lá dentro, usando os joelhos e cotovelos doloridos para se impulsionar para frente no espaço apertado de metal, o isolamento acústico o engoliu. O som da própria respiração raspando na garganta seca soava como uma lixa.
 

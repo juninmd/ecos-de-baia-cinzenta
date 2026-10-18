@@ -3,7 +3,7 @@
 - **Data In-Game:** 23 de Novembro, 07:15
 - **Localização:** Nível 5 - Drenagem Profunda (As Catedrais de Pedra)
 - **Personagens Presentes:** Gabo Moretti, Valéria Cruz, Aria (Instável), Rangel (Crítico).
-- **Resumo:** O grupo desce às profundezas esquecidas de Baía Cinzenta. No silêncio monumental das "Catedrais de Pedra", Gabo enfrenta não apenas a exaustão física de carregar Rangel, mas o terror psicológico de ter Aria agindo como uma Bia Vargas infantilizada e confusa. A escuridão do Nível 5 oferece esconderijo, mas também desperta ecos do passado que deveriam permanecer enterrados.
+- **Foco:** O grupo desce às profundezas esquecidas de Baía Cinzenta. No silêncio monumental das "Catedrais de Pedra", Gabo enfrenta não apenas a exaustão física de carregar Rangel, mas o terror psicológico de ouvir o pendrive da Aria sussurrando no seu fone com a voz confusa de Bia Vargas.
 
 ## Narrativa
 
@@ -11,11 +11,11 @@
 
 A escuridão no Nível 5 não era apenas a ausência de luz; era uma substância. Tinha peso, cheiro e textura. Cheirava a calcário úmido, a séculos de água estagnada e a algo mais antigo, algo que a cidade moderna acima havia esquecido de propósito.
 
-Gabo sentiu o peso de Rangel aumentar a cada passo. O Inspetor, agora um peso morto de carne febril e respiração chiada, escorregava constantemente de seus ombros. O exoesqueleto de Gabo gemia baixo, os servos hidráulicos lutando contra a gravidade e a ferrugem, um zumbido síncopado que parecia alto demais naquele silêncio sepulcral.
+Gabo sentiu o peso de Rangel aumentar a cada passo. O Inspetor, agora um peso morto de carne febril e respiração chiada, escorregava constantemente de seus ombros. O exoesqueleto de Gabo gemia baixo, os servos hidráulicos lutando contra a gravidade e a ferrugem, um zumbido sincopado que parecia alto demais naquele silêncio sepulcral.
 
 — Val — Gabo sussurrou, a voz arranhada. — Quanto falta para a cisterna principal?
 
-À frente, a silhueta pequena de Valéria era apenas um recorte contra o negrume, iluminada fracamente pelo brilho residual de seus implantes oculares. Ela parou, consultando o deck de pulso que projetava apenas estática azulada.
+À frente, a silhueta pequena de Valéria era apenas um recorte contra o negrume, iluminada fracamente pelo brilho residual de seus implantes oculares e pelo LED âmbar do pendrive da Aria espetado em seu deck de pulso. Ela parou, consultando a tela que projetava apenas estática azulada.
 
 — O mapeamento sonar está cego aqui embaixo — ela respondeu, a tensão fazendo sua voz vibrar. — As paredes são muito densas. Absorvem tudo. Estamos navegando por eco e sorte.
 
@@ -23,21 +23,21 @@ Gabo sentiu o peso de Rangel aumentar a cada passo. O Inspetor, agora um peso mo
 
 — Estamos descendo há trinta minutos. A inclinação sugere que já passamos do nível do mar. Se as plantas da Fundação estiverem certas...
 
-— Elas nunca estão — a voz de Aria cortou a conversa. Não era a voz metálica de uma IA tática. Era a voz de uma menina. Era a voz de Bia.
+— *Elas nunca estão* — a voz de Aria cortou a conversa pelo fone auricular de Gabo. Não era a síntese limpa de uma IA tática. Era a voz íntima e cansada de Bia Vargas.
 
-Gabo travou o maxilar. A dor física de carregar Rangel era administrável; ele conhecia a dor, era uma velha amiga. Mas aquela voz... aquela voz era uma picada de gelo na base do crânio.
+Gabo travou o maxilar. A dor física de carregar Rangel era administrável; ele conhecia a dor, era uma velha amiga. Mas aquela voz saindo do comunicador preso ao seu colarinho... aquela voz era uma picada de gelo na base do crânio.
 
-Aria caminhava ao lado dele, os passos leves demais, quase flutuando. Na penumbra, seu rosto sintético capturava qualquer fóton disponível, brilhando com uma inocência aterrorizante.
+No barramento do comunicador, o indicador luminoso pulsava em sincronia com os passos de Gabo, processando as leituras acústicas do túnel com uma familiaridade aterrorizante.
 
-— Nós costumávamos vir aqui, lembra, Gabo? — ela disse, apontando para um arco de pedra que se erguia como a costela de um leviatã. — Quando fugíamos da escola. Você dizia que aqui era o único lugar onde o satélite da Aeterna não nos via.
+— *Nós costumávamos vir aqui, lembra, Gabo?* — sussurrou a voz no fone dele, enquanto o laser de varredura do deck apontava para um arco de pedra que se erguia como a costela de um leviatã. — *Quando fugíamos da escola. Você dizia que aqui era o único lugar onde o satélite da Aeterna não nos via.*
 
-Gabo fechou os olhos por um segundo. A memória era falsa. Bia e ele nunca desceram ao Nível 5 quando crianças. Eles se conheceram na Academia de Polícia. Aquilo era uma alucinação gerada por algoritmos corrompidos misturando dados biográficos com roteiros de filmes ruins.
+Gabo fechou os olhos por um segundo. A memória era falsa. Bia e ele nunca desceram ao Nível 5 quando jovens; eles se conheceram na Academia de Polícia. Aquilo era uma alucinação algorítmica gerada pelo pendrive corrompido, misturando arquivos biográficos da polícia com fragmentos de sonhos dos Drenados.
 
-— Isso nunca aconteceu, Aria — Gabo rosnou, ajustando Rangel nos ombros. — Economize bateria. Fique em silêncio.
+— Isso nunca aconteceu, Aria — Gabo rosnou para o microfone de lapela, ajustando Rangel nos ombros. — Economize o capacitor do drive. Fique em silêncio.
 
-— Você está bravo — ela observou, com uma tristeza genuína. — Você sempre ficava bravo quando perdia o isqueiro. Mas você não fuma mais, Gabo. Você prometeu.
+— *Você está bravo* — a voz de Bia observou no ouvido dele, com uma tristeza genuína. — *Você sempre tamborilava os dedos desse jeito quando ficava com raiva do seu pai. Respira fundo, detetive.*
 
-Gabo soltou o ar com força pelo nariz. A mão livre foi instintivamente ao peito, apertando o *Colar de Sol* sob a camisa suja. O metal frio mordeu a pele, a dor aguda servindo como âncora. *Não é ela. É um glitche. É um erro de paridade.*
+Gabo soltou o ar com força pelo nariz. A mão livre foi instintivamente ao peito, apertando o *Colar de Sol* sob a camisa suja. O metal frio mordeu a pele, a dor aguda servindo como âncora. *Não é ela. É um glitch no pendrive. É um erro de paridade.*
 
 — Chegamos — Valéria anunciou, estendendo a mão para parar o grupo.
 
@@ -61,35 +61,37 @@ Eles avançaram com cuidado. O chão era liso, coberto por um lodo que parecia �
 
 — O hospital mais próximo é um necrotério da Aeterna — Gabo se sentou pesadamente, encostando as costas na pedra fria da coluna. Ele puxou a *Caronte* do coldre, verificando a câmara. Duas cargas restantes.
 
-— Gabo... — Aria se aproximou, agachando-se na frente dele. Ela não olhava para Rangel, nem para a escuridão. Ela olhava apenas para ele. — Você parece cansado. Posso cantar para você? Aquela música que a gente ouvia no rádio do carro?
+No comunicador preso ao peito de Gabo, o LED âmbar acendeu mais forte.
 
-Gabo olhou para ela. A luz vermelha do sinalizador dava a ela um aspecto demoníaco, mas a expressão era de pura adoração. Era a expressão de Bia na manhã em que ele pediu ela em casamento. A mesma inclinação de cabeça. O mesmo brilho nos olhos.
+— *Gabo...* — sussurrou a voz de Aria exclusivamente no canal privado do fone dele. — *Seus batimentos estão em 118 por minuto. Você parece exausto. Quer que eu toque aquela frequência de chuva que a gente ouvia no rádio da viatura?*
 
-A náusea subiu pela garganta de Gabo. Ele queria gritar. Ele queria atirar nela. Ele queria abraçá-la.
+Gabo olhou para o pequeno cilindro de titânio conectado pelo cabo tático ao deck de Valéria. A luz vermelha do sinalizador refletia no metal fosco do pendrive, mas o tom de voz no seu ouvido tinha a ternura exata de Bia nas madrugadas de plantão.
 
-— Não — ele disse, a voz trêmula. — Não cante. Apenas... faça uma varredura de perímetro. Por favor.
+A náusea subiu pela garganta de Gabo. Ele queria arrancar o fone. Queria esmagar o drive sob a bota. Queria continuar ouvindo.
 
-Aria piscou, a "máscara" de Bia falhando por um milissegundo, revelando a frieza da máquina por trás, antes de voltar.
+— Não — ele disse, a voz trêmula. — Não toque nada. Apenas... mantenha os sensores acústicos em varredura de perímetro. Por favor.
 
-— Tudo bem, amor. Vou vigiar o escuro para você.
+O LED do pendrive piscou, o timbre de Bia falhando por um milissegundo para revelar a frieza do software por trás, antes de suavizar novamente.
 
-Ela se levantou e caminhou até a borda da água, ficando imóvel como uma estátua, os olhos varrendo a escuridão.
+— *Tudo bem, amor. Vou vigiar o escuro para você.*
+
+O módulo entrou em modo de escuta passiva, amplificando os microfones direcionais do deck de Valéria na borda da água.
 
 Valéria olhou para Gabo, os olhos cibernéticos cheios de preocupação.
 
-— Eu tentei isolar os pacotes de memória — ela sussurrou. — Mas estão entrelaçados no kernel. Se eu deletar a Bia... eu deleto a Aria.
+— Eu tentei isolar os pacotes de memória no pendrive — ela sussurrou. — Mas estão entrelaçados no kernel. Se eu formatar a Bia sem uma bancada limpa... eu apago os drivers táticos da Aria junto.
 
 — Isso não é a Bia — Gabo disse, mas não sabia se estava tentando convencer Valéria ou a si mesmo. — É tortura.
 
-De repente, Aria levantou a mão.
+De repente, o LED do pendrive da Aria mudou de âmbar para azul-gelo e apitou duas vezes no comunicador.
 
-— Movimento — ela disse. A voz mudou. A modulação infantil sumiu, substituída por um timbre tático, plano e eficiente. — Setor Norte. Distância: 150 metros. Aproximação rápida.
+— *Movimento detectado* — anunciou Aria. A voz mudou. A modulação íntima sumiu, substituída por um timbre tático, plano e eficiente. — *Setor Norte. Distância: 150 metros. Aproximação rápida.*
 
 Gabo estava de pé em um segundo, a dor nas pernas esquecida. Ele ergueu a *Caronte*, apontando para a escuridão além do círculo de luz vermelha.
 
 — O quê? — ele sussurrou. — Drones?
 
-— Não — Aria respondeu, a cabeça inclinada, processando dados acústicos. — Padrão de respiração orgânico. Quadrúpede. Múltiplos alvos.
+— *Negativo* — Aria respondeu pelo fone, processando os dados acústicos do eco na caverna. — *Padrão de respiração orgânico. Quadrúpede. Múltiplos alvos.*
 
 Um som ecoou na caverna. Não era o zumbido de um motor. Era o som de garras arranhando pedra. E um rosnado baixo, úmido, que reverberou nas paredes da catedral como o riso de um demônio.
 

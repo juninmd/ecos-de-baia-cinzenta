@@ -6,7 +6,7 @@
 - Atmosfera: 10/10
 
 **Pontos Fortes / Fracos:**
-- Fortes: Revelação excelente de que Aria é, em certo nível cibernético/genético, irmã de Gabo. A cena do terminal de computador antigo é clássica e perfeitamente executada.
+- Fortes: Revelação excelente de que Aria foi compilada por Dante em um pendrive de titânio e enviada para a cabine telefônica durante o Dilúvio. A cena do terminal de computador antigo é clássica e perfeitamente executada.
 - Fracos: Nenhum significativo, o diálogo visual com a tela flui muito bem.
 
 **Sanity Check (Lore):**

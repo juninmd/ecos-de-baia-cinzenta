@@ -14,7 +14,7 @@ image: /capitulo_168.jpg
 
 O silêncio do Subnível 2.0 não era mais o vácuo asséptico de uma sala de cirurgia corporativa. Agora, era o silêncio de um necrotério após o último corpo ter sido catalogado.
 
-O ar congelado a cinco graus carregava o fedor ocre e pontiagudo do silício frito e polímero derretido que emanava da carcaça travada de Aria. A androide continuava de pé contra o pilar de chumbo, o rosto reduzido a uma máscara de titânio derretido, o olho ciano outrora brilhante transformado em um vidro opaco e cego.
+O ar congelado a cinco graus carregava o fedor ocre e pontiagudo do silício frito e polímero derretido que emanava do módulo fundido de Aria. O pequeno pendrive de titânio continuava cravado e soldado pelo próprio calor na fenda de manutenção do pilar de chumbo, a carcaça rachada e deformada como uma cápsula calcinada, o LED ciano outrora brilhante transformado em um ponto de vidro opaco e cego.
 
 Valéria ainda estava ajoelhada a poucos metros, os ombros sacudindo em espasmos silenciosos de luto e exaustão. Suas mãos, sujas de sangue e poeira, pendiam frouxas ao lado do corpo encolhido sob a jaqueta fina.
 

@@ -54,7 +54,7 @@ Perfil completo em `docs/personagens.md`.
 |---|---|---|---|
 | [x] | 229 | O Homem no Portão | Braga se apresenta. Educado. Explica a conta. Mata alguém que não devia, e diz isso. |
 | [x] | 230 | A Conta Antiga | Gabo confessa a Elena; a Dra. Vance aponta que ela e ele fizeram a mesma coisa em escalas diferentes. |
-| [x] | 231 | Catraca | A armadilha funciona e vira o problema. Braga revela que sabe da Aria — pelo pátio do presídio, não por arquivo. |
+| [x] | 231 | Catraca | A armadilha funciona e vira o problema. Braga revela que sabe da morte de Helena no Dilúvio — pelo pátio do presídio, não por arquivo. |
 | [x] | 232 | O Justo | Gabo o mata rendido, depois de tirar dele a única mentira que o consolava. E manda Elena publicar. |
 
 ---

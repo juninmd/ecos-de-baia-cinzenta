@@ -1,5 +1,6 @@
 ---
 image: /capitulo_104.jpg
+Personagens Presentes: Inspetor Rangel, Gabriel "Gabo" Moretti, Dante Moretti, Elena Moretti
 ---
 # Capítulo 104: O Preço da Alvorada
 
@@ -93,7 +94,7 @@ Rangel engoliu em seco.
 
 — Tentamos manter a ordem, senhor. Do jeito antigo. Papel e tinta. Sem a Nuvem.
 
-— Louvável — disse Dante. Ele retirou a mão e olhou para o horizonte, onde o sol finalmente rompia a barreira de fumaça, banhando a cidade em uma luz acobreada e doente. — Mas a sobrevivência não é suficiente. A cidade precisa de propósito. Ela precisa de... direção.
+— Louvável — disse Dante. Ele retirou a mão e olhou para o horizonte, onde o sol finalmente rompia a barreira de poluição, banhando a cidade em uma luz acobreada e doente. — Mas a sobrevivência não é suficiente. A cidade precisa de propósito. Ela precisa de... direção.
 
 — O que você vai fazer? — perguntou Elena, a voz trêmula.
 

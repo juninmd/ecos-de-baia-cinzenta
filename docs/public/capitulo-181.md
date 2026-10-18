@@ -1,52 +1,64 @@
 ---
-image: /capitulo_181.jpg
+Título: Pedágio Fantasma
+Data In-Game: Indeterminada (Pós-Colapso da Aeterna)
+Localização: Dutos de Escoamento Secundário (Ponto de Estrangulamento), Distrito 4
+Personagens Presentes: Gabo, Valéria, "O Guardião" (Fantasma)
 ---
-# Metadados
-- **Título:** Pedágio Fantasma
-- **Data In-Game:** Pós-Colapso do Sentinel (Noite Eterna)
-- **Localização:** Dutos de Escoamento Secundário
-- **Personagens Presentes:** Gabo, Valéria
-
-# Narrativa
 
 # Capítulo 181: Pedágio Fantasma
 
-A fuga através dos túneis calcinados pelo ácido os levou mais fundo na estrutura de drenagem do Distrito 4. A lama negra escorria como alcatrão sob os passos de Gabo, a tensão nas juntas das suas pernas mecânicas gerando estalos a cada esforço.
+A escuridão dos dutos de escoamento não era silenciosa; ela mastigava o som dos nossos passos e o cuspia de volta como um eco difuso. Atrás de nós, a câmara com as vítimas bio-assimiladas pelo *Jardim* ficava cada vez mais distante, um pesadelo esquecido na umidade letárgica do esgoto. Mas eu sabia que fugir não adiantaria muito. A praga não estava apenas se adaptando; estava nos testando.
 
-Atrás dele, Valéria pisava nas mesmas pedras que ele, executando uma imitação bizarra de sombra obediente e vazia. A dor das escoriações no coto de Gabo era agora a única música que embalava sua sanidade.
+O túnel afunilou bruscamente. O cheiro de decomposição úmida deu lugar a um odor pungente de cobre oxidado e... algo mais. Algo seco.
 
-O duto, que antes era uma câmara larga, se afunilou bruscamente numa ponte de passagem ladeada por comportas fechadas. E lá, sob a pálida e bruxuleante luz de um refletor de halogênio pendurado em fios mastigados por ratos, encontrava-se uma barricada feita de sucata de carros e carcaças de servidores Aeterna.
+Aquele cheiro adocicado e denso de alcatrão e fumaça de charuto invadiu minhas narinas de forma súbita, uma garra invisível fechando ao redor da minha traqueia. Dante. A porra do meu pai, sempre rastejando para fora do cemitério da minha mente. Senti a tosse subir pela garganta, um espasmo patético.
 
-Uma figura envolta em lona piche e couros gastos montava guarda sobre o lixo empilhado, segurando o que parecia ser uma espingarda de caça modificada com uma bateria de pulso magnético amarrada ao cano com fita isolante. O rosto era obscurecido por óculos infravermelhos enferrujados. Um Fantasma. Um dos sobreviventes que haviam sido banidos por Shadowban e obliterados do sistema e dos registros corporativos da cidade superior.
+Cerrei os maxilares e foquei na tração do meu braço protético direito. O atuador industrial soltou um guincho agudo quando forcei os pistões improvisados muito além do limite tolerável. A dor, aguda e lancinante como cacos de vidro mastigados na carne do meu coto, cortou a névoa ilusória de fumaça. Respirei fundo, o ar poluído pelo ozônio do motor elétrico limpando a lembrança de Dante.
 
-O ar ali era confinado, seco e denso. Bastou isso para que os demônios na cabeça de Gabo despertassem. A náusea veio com violência. O odor do tabaco amargo e pesado do charuto do seu pai o cobriu feito um lençol mortuário, sugando o oxigênio de seus pulmões. A asfixia da fobia atacou brutalmente, um engasgo primitivo travando sua garganta.
+— Padrão de estresse neural detectado — anunciou Valéria. Sua voz não passava de uma leitura telemetria monótona, uma frieza robótica inabalável no *Modo de Segurança*. — Consumo calórico excessivo sem necessidade tática. Otimização de recursos desaconselha automutilação.
 
-Antes que suas pernas passivas cedessem à fraqueza respiratória, Gabo girou e chocou sua brutal garra mecânica contra a grade de drenagem mais próxima. Ele empurrou a força do hidráulico acima do limite, fazendo o motor gritar. Um solavanco desregulado de eletricidade varou a terminação nervosa e perfurou sua espinha. O grito que o detetive deu cortou o sufocamento. O cheiro da fumaça desintegrou-se em uma poça de pura dor elétrica, trazendo o ar real e frio do duto de volta às suas narinas.
+— Fica de olho no túnel, Val. Não na minha cabeça — rosnei, a respiração ainda rascante.
 
-O Fantasma ergueu a arma, assustado com o espetáculo da auto-tortura. O clique magnético retumbou.
-— Três passos para trás, máquina inútil — rosnou o sobrevivente, a voz rouca escondida sob um filtro respiratório. — Aqui se paga pedágio ou se morre.
+Poucos metros adiante, a luz cega do farol tático dela ricocheteou em uma estrutura metálica que bloqueava totalmente a passagem. Não era um desabamento natural. Eram painéis de policarbonato reforçado e vigas de ferro roubadas das antigas estações, empilhadas com a precisão paranoica de uma barricada paramilitar.
 
-Valéria analisou a barricada e o indivíduo num microssegundo.
-— Ameaça não catalogada armada. Padrão letal rudimentar — a voz dela soou morta, inexpressiva. — Probabilidade de fatalidade inimiga através de evasão violenta: 92%. Ação sugerida: Eliminação do obstáculo orgânico e transposição da barricada.
+No centro da barricada, uma escotilha balística selada.
 
-Gabo olhou de Valéria para a espingarda do Fantasma. A lógica da hacker estava cristalina: não deixar vítimas, não se prender à moral, apenas erradicar e seguir. Era assim que Aria pensava. Era assim que a cidade funcionava.
+— Impasse estrutural. Carga explosiva não recomendada devido à fadiga do teto — murmurou Valéria, a voz isenta de qualquer hesitação ou frustração. — Calculando rotas alternativas.
 
-Gabo apoiou o gigantesco braço industrial sobre uma barra da barricada.
-— Calada, Val — ele rosnou, o sangue escorrendo do nariz por conta do recuo elétrico que acionara no braço.
+Antes que ela pudesse traçar um novo caminho, uma voz metálica, filtrada por um alto-falante enferrujado acima da escotilha, quebrou a umidade do duto:
 
-Ele observou o saqueador tremer atrás dos óculos. O Fantasma não queria brigar; estava apavorado demais. Uma vez, Gabo o prenderia. Uma vez, talvez, abrisse fogo e acabasse com aquilo. Hoje, a simples ideia do massacre gratuito lhe dava asco; era a lógica do Taxidermista. Era a lógica daquele robô vazio ao seu lado.
+— Vocês não têm rota alternativa, sucata. A biomassa devorou os túneis inferiores há três horas.
 
-Com a mão esquerda trêmula, Gabo retirou de sua bolsa lateral os dois únicos cilindros compridos de oxigênio purificado que Vasco lhe garantira na clínica, selados em recipientes de metal cirúrgico imaculados. Eram a salvação contra gás tóxico letal; ar puro que a cidade superior esbanjava enquanto as valas lutavam para respirar.
+Apertei os olhos contra a penumbra. Atrás do vidro sujo de uma fenda de observação, havia a silhueta de um homem. Seus olhos não tinham brilho cibernético; eram opacos, afundados em olheiras que mapeavam uma década de sono ruim e paranoia. Ele não existia nos bancos de dados corporativos da Aeterna. As feições duras, o olhar que só pertencia a alguém cujo nome havia sido apagado dos registros públicos. Um *Shadowban*. Um Fantasma.
 
-Ele os jogou sobre a barricada. As garrafas quicaram e bateram nos pés do Fantasma.
+— Ponto de checagem. Quem quiser passar por aqui para a Superfície Pálida, paga o pedágio — a voz pelo alto-falante arranhou, cínica. — E não aceito Créditos da Aeterna. O sistema deles derreteu, igual à minha certidão de nascimento.
 
-— Ar puro — Gabo engoliu a bile do cansaço e apontou para os cilindros. — Pra passar pelas áreas podres sem desmaiar. Mais do que você viu no mês passado. Guarda a arma e abaixa essa sucata.
+— Não somos da Aeterna — rebati, me aproximando da barricada. Senti a resistência do meu braço mecânico formigar de estática, pronto para a violência. — Abre a porta, e a gente não desconstrói o seu pedágio peça por peça.
 
-O Fantasma hesitou. Baixou a espingarda devagar, surpreso com a entrega imediata de itens valiosos e sem barganha. Com um movimento ágil e sujo, chutou uma alavanca enferrujada, e uma seção da barricada deslizou de forma trôpega para o lado, abrindo uma fresta exata para que passassem um de cada vez.
+O Fantasma riu, uma tosse seca e escabrosa.
 
-Valéria o seguiu.
-— Troca ilógica detectada. Suprimentos vitais doados a entidade de baixo valor. Previsão de risco ambiental para nós mesmos agora é altíssima.
+— Força bruta não abre travas de titânio de grau corporativo, detetive. Mas sabe o que abre? Filtros de água não contaminada. Baterias de plasma. Ou talvez os implantes militares que essa sua amiga está carregando, sem expressar um pio sobre o fato de vocês dois estarem cobertos de esporos fúngicos. Aquilo ali vale meu tempo.
 
-— O risco ambiental eu aguento na base da porrada, Val — ele devolveu, arrastando as pesadas pernas metálicas túnel adentro. — O que eu não aguento mais é ser a praga que eu jurei caçar.
+Valéria virou o rosto na direção da escotilha. Seus olhos não piscaram.
 
-E sem olhar para o Fantasma agachado abraçando os cilindros, o detetive e o código morto sumiram na escuridão rumo ao Setor Hidropônico.
+— Avaliação de risco: o indivíduo "Fantasma" possui controle sobre travas herméticas secundárias no duto acima. Probabilidade de inundação letal em caso de invasão armada: oitenta e sete por cento. Ação agressiva contra-indicada.
+
+— Ouviu a moça, amigão — disse o homem. — Então, qual vai ser o acordo?
+
+Dei um passo para trás, a cabeça pesada. Minha bússola moral, já arranhada, avisou-me do custo de negociação ali. Eu estava lidando com a escória extorquindo sobreviventes em um mundo desmoronando, mas Valéria estava certa. Não tínhamos luxo de explodir tudo, e eu não daria peças dela em troca.
+
+Olhei para a mochila de suprimentos esfarrapada no meu ombro não cibernético. Havia ali dois cilindros de oxigênio purificado que tiramos da clínica clandestina. Oxigênio limpo. O bem mais precioso no esgoto do Distrito 4.
+
+— Tenho oxigênio purificado. Compressão de grau médico. Paga o dobro da nossa passagem — declarei, segurando um dos cilindros exposto à fraca luz de Valéria.
+
+O silêncio do Fantasma durou intermináveis cinco segundos. Senti a tensão nos pistões do meu braço ameaçando estalar. Para conter outra onda de gatilhos do cheiro sufocante de charuto que a adrenalina evocava, contraí novamente o músculo artificial, provocando a dor crua, real e afiada.
+
+— Joga pelo tubo de transferência — disse o Fantasma.
+
+Um tubo cilíndrico de aço se estendeu pela base da barricada. Com o meu braço orgânico e trêmulo, coloquei o cilindro no tubo, sentindo uma pontada de hesitação cínica. Quando a trava se fechou e sugou nosso "pagamento", os engates pneumáticos da barricada chiaram violentamente.
+
+A pesada porta de aço abriu-se rangendo.
+
+— Bem-vindos ao que sobrou do mundo — rosnou o Fantasma pelo alto-falante.
+
+O outro lado era um corredor ascendente e seco. Valéria passou primeiro, indiferente ao homem ou ao pagamento extorquido. Eu a segui, sentindo que a cada transação, um pedaço maior da minha humanidade ficava apodrecendo na escuridão.

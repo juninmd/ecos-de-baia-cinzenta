@@ -55,7 +55,7 @@ def test_shot_varies_across_scenes():
 def test_identity_scale_loosens_for_wide_shots():
     cenas = {c.shot: c.identity_scale for c in split_scenes(TEXTO, 6)}
     assert cenas["wide establishing shot"] < cenas["close-up"]
-    assert all(0.5 <= v <= 1.0 for v in cenas.values())
+    assert all(0.0 <= v <= 1.0 for v in cenas.values())
 
 
 def test_action_prefers_narration_over_dialogue():

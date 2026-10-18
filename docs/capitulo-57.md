@@ -1,26 +1,24 @@
 ---
 image: /capitulo_57.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Aria Moretti
+Personagens Presentes: Gabriel "Gabo" Moretti, Aria
 ---
 # Capítulo 57: Zona de Interesse
 
 **Zona de Exclusão — Setor 4**
 
-Aria não falava.
+Aria quase não usava o sintetizador de voz.
 
-Fazia onze dias que ela estava com ele e Gabo tinha ouvido a voz dela quatro vezes, sempre com uma frase inteira, sempre no meio de outra conversa, sempre certa. No resto do tempo ela ficava assim: com a testa encostada no vidro sujo da porta do Cobalt, a respiração fazendo e desfazendo uma mancha de vapor no mesmo lugar, olhando.
+Fazia onze dias que o drive blindado de titânio estava acoplado ao painel do Cobalt — desde que a rede principal caiu — e Gabo tinha ouvido a voz analítica dela pelo alto-falante quatro vezes, sempre com uma frase inteira, sempre cirúrgica, sempre certa. No resto do tempo ela operava assim: com o corpo metálico do pendrive morno na porta de dados, o LED azul-gelo pulsando devagar contra o plástico sujo do console, varrendo as frequências do setor.
 
-O carro cheirava a mofo de estofado velho, café frio e o cheiro de criança que Gabo tinha esquecido que existia — aquele leve, morno, de cabelo que precisa de banho.
+O carro cheirava a mofo de estofado velho, café frio e o ozônio seco do circuito do painel que trabalhava além da conta para alimentar o módulo.
 
-— O que você vê, pequena?
+— O que você está rastreando, Aria?
 
-Ela apontou. Sem tirar a testa do vidro.
-
-Não para os drones. Para os prédios.
+O alto-falante deu um estalo curto e o visor monocromático do painel traçou um vetor. Não apontava para os drones no céu. Apontava para os prédios.
 
 ---
 
-Ele seguiu o dedo e levou um tempo para entender o que estava olhando.
+Ele seguiu a coordenada marcada no vidro e levou um tempo para entender o que estava olhando.
 
 Nos andares altos dos cortiços semidestruídos do Setor 4 havia luz. Não elétrica — luz de vela, de lampião de querosene, de fogo em lata. E nas janelas, sombras se mexendo.
 
@@ -34,7 +32,7 @@ Bandeira branca.
 
 — Eles acham que isso significa alguma coisa — Gabo disse, mais para si mesmo. — Eles acham que tem alguém do outro lado que sabe o que significa.
 
-Aria não respondeu, e o silêncio dela foi de concordância.
+No painel, o LED da Aria piscou uma única vez em âmbar escuro, e o silêncio do alto-falante foi de concordância.
 
 ---
 
@@ -83,17 +81,17 @@ Não eram os modelos da corporativa. Estes eram maiores, com o torso mais largo,
 
 Gabo parou o Cobalt a cinquenta metros.
 
-— Aria. Abaixa.
+— Aria. Modo furtivo. Corta toda emissão.
 
-Ela deslizou do banco para o chão do carro e puxou o cobertor por cima da cabeça, tudo em dois segundos, sem perguntar nada.
+O LED azul do pendrive no painel apagou instantaneamente, recolhendo os protocolos de telemetria para dentro da blindagem de titânio em menos de dois décimos de segundo, sem questionar.
 
-Foi a velocidade que doeu. Nenhuma criança de verdade obedece assim. Uma criança pergunta, reclama, demora. Aquilo ali era alguém que já tinha feito isso antes muitas vezes.
+Foi a velocidade da resposta que impressionou. Nenhum sistema comercial desarma a própria portadora com aquela disciplina tática. Aquela IA que ele havia resgatado na cabine telefônica durante a enchente já tinha operado sob caça real muitas vezes.
 
-Gabo ficou com a mão na maçaneta por um instante a mais.
+Gabo ficou com a mão na maçaneta por um instante a mais, tocando de leve o metal morno do drive espetado no console.
 
 — Eu volto — ele disse.
 
-Debaixo do cobertor, ela não respondeu.
+O módulo permaneceu completamente escuro, camuflado como um simples fusível morto no painel.
 
 ---
 
@@ -141,7 +139,7 @@ Gabo caiu atrás de uma caçamba de lixo e ficou ali dois segundos ouvindo o met
 
 Ele precisava de algo maior que uma nove.
 
-— **ARIA!** — gritou, contra o barulho. — TAPA OS OUVIDOS!
+— **ARIA!** — gritou para o ponto auditivo, contra o barulho. — DESTRAVA O PORTA-MALAS INTERNO!
 
 ---
 
@@ -149,7 +147,7 @@ A corrida de volta ao carro foram vinte metros que pareceram um quarteirão.
 
 Ele foi em ziguezague porque é o que se ensina, e o que se ensina funciona contra homem e não funciona contra máquina que corrige mira em quinze milissegundos — o que salvou Gabo foi a caçamba desabando na frente do disparo, não a técnica.
 
-Ele entrou pelo banco do motorista de barriga e apertou o botão embaixo do painel.
+Ele entrou pelo banco do motorista de barriga; o pendrive no painel já havia enviado o pulso elétrico para a trava magnética antes mesmo de ele tocar o botão.
 
 O encosto traseiro cedeu, e o compartimento se abriu com o cheiro de óleo de arma e feltro velho.
 
@@ -204,9 +202,9 @@ Nem era raiva, no fim. Era aquele cansaço específico de descobrir que a conspi
 
 Ele voltou para o carro mancando.
 
-Aria já estava sentada no banco, com o cobertor dobrado no colo, olhando para ele pelo para-brisa molhado.
+No console central, o LED azul do pendrive da Aria voltou a acender assim que os sensores confirmaram a morte dos dois CP-Z.
 
-— Você demorou — ela disse.
+— *Você demorou dois minutos além da margem de segurança, Inspetor* — disse a voz sintética e limpa dela pelo alto-falante do painel.
 
 Cinco frases em onze dias.
 
@@ -214,4 +212,4 @@ Gabo entrou, fechou a porta, largou a *Caronte* no banco de trás e ficou com as
 
 — Eu demorei — ele concordou.
 
-Ela estendeu a mão e encostou dois dedos no braço dele, do jeito exato que a mãe dele fazia, e não disse mais nada, e Gabo teve que olhar para a chuva pela janela lateral por um tempo antes de conseguir dar a partida.
+O pequeno componente metálico no painel emitiu um pulso âmbar suave, ajustando o aquecedor interno do carro para cortar o frio úmido sem que ele precisasse pedir, e Gabo teve que olhar para a chuva pela janela lateral por um tempo antes de conseguir dar a partida.

@@ -4,6 +4,7 @@
 
 > **Nível de Acesso:** Confidencial
 > **Última Atualização:** Pós-Arca Zero (Capítulo 225)
+> **Galeria Visual:** Veja as [Variações de Poses e Cenários](/variacoes_personagens.md) dos personagens.
 
 ---
 
@@ -28,11 +29,11 @@ A pergunta que sustenta 228 capítulos é: *por que esta família?* Sem uma resp
 | Sujeito | Classificação no arquivo | Consequência |
 |---|---|---|
 | **Dante** | Referência adulta — imprint completo, código moral rígido, ideal como padrão de calibração | O cérebro dele roda a IA não por ser brilhante, mas por ser o **padrão de medida** |
-| **Aria** | Substrato ideal — *"ausência de trauma acumulado, arquitetura em formação, custo mínimo"* | Coletada aos cinco anos durante o Dilúvio, classificado como *perda não programada, ambiental* |
-| **Helena** | Sujeito de contexto — *"não coletar: a remoção desestabilizaria a unidade familiar"* | Poupada por ser útil viva |
+| **Helena** | Sujeito de contexto — *"não coletar: a remoção desestabilizaria a unidade familiar"* | Poupada por ser útil viva; morre no Dilúvio (*perda não programada, ambiental*) |
 | **Marco** | *"Cooperativo. Requer manejo por incentivo. Baixa prioridade."* | Não foi comprado nem quebrado: foi classificado como barato |
 | **Clara** | *"Nascida após início do estudo. Manter em observação. Não interferir."* | Variável que ninguém teve tempo de usar |
 | **Gabo** | **EM CAMPO — NÃO COLETAR — GRUPO DE CONTROLE** | Ver abaixo |
+| **Módulo ARIA (Anexo Técnico)** | Assistente de IA isolada em hardware físico (componente tipo pendrive), ejetada para uma cabine telefônica durante a enchente | Contém o backdoor moral de Dante e fragmentos neurais de Bia Vargas; acompanha Gabo até ser fundida no Cap. 167 |
 
 **⚠️ A reviravolta que redefine o protagonista.** Um estudo de deriva exige uma **referência viva**: um membro da linhagem exposto ao mesmo ambiente e ao mesmo estresse, mas **nunca extraído**. Sem ele não há contra o que medir a degradação dos outros. Gabo é essa referência — e a rubrica de Krell foi **renovada sessenta vezes, uma por exercício, à mão**, reconfirmando que ele devia continuar solto.
 
@@ -71,7 +72,7 @@ A obra tinha cinco figuras disputando o posto de vilão principal, e isso diluí
 | **O Gamemaster** | Antagonista das Partes III-V | Transforma a perseguição em espetáculo. Suas falhas são o pai preso gritando de dentro. | Deletado (cap. 31) |
 | **O Taxidermista** | Antagonista corporal | Faz com o corpo dos outros o que a Aeterna faz com a mente. É o motivo físico da ruína de Gabo. | Ativo até o cap. 170 |
 | **Marco Moretti** | Rival fraterno | Prova que ordem sem afeto vira administração da barbárie. Contraponto político de Gabo. | Ativo |
-| **Aria Moretti** | A filha morta devolvida como ferramenta | Obriga Gabo a conviver com o luto que ele se recusou a enterrar — e com o rosto errado que puseram nele. | **Morta duas vezes (Dilúvio e cap. 167)** |
+| **Aria** | A assistente de IA no pendrive | A lógica tática que Gabo encontra na cabine telefônica na enchente — alojada num componente tipo pendrive, carregando o backdoor de Dante e ecos neurais de Bia Vargas. | **Destruída (pendrive fundido no cap. 167)** |
 | **Elena Moretti** | Testemunha pública / A tese vencedora | Documenta. É a única que acredita que registrar vale mais que revidar — e no fim é o trabalho dela que derruba a Aeterna, não a violência de Gabo. | Viva, volta no cap. 226 |
 | **Clara Moretti** | Contraponto construtivo | Reconstrói enquanto o irmão destrói. Mostra que existe outra saída, e que Gabo não a escolheu. | Viva |
 | **Capitão Jonas Vilar** | A velha lei | Encarna a ordem anterior, honesta e obsoleta. Legitima Gabo perante o sistema. | Vivo |
@@ -109,11 +110,11 @@ A obra tinha cinco figuras disputando o posto de vilão principal, e isso diluí
 *   **Equipamento:**
     *   **Veículo:** Sedan Azul Metálico (Cobalt) antigo e enferrujado.
     *   **Armas:** Pistola Glock (serviço), Lançador de Projéteis Modulares ("Leviatã" - antiga "Mara"), Escopeta de cano serrado ("Caronte" - antiga "Vilha").
-    *   **Auxiliar:** Exoesqueleto passivo de pernas (ruidoso, mas funcional).
+    *   **Auxiliar:** Exoesqueleto passivo de pernas (ruidoso, mas funcional) e o **componente físico tipo pendrive da Aria** (acoplado ao painel do Cobalt, ao comunicador de lapela ou ao deck de Valéria até o Capítulo 167).
 *   **Gostos/Traços:** Viciado em pizza e café. Insone e paranoico.
 *   **Perfil Psicológico:** Cínico e violento, mas com um código de honra rígido. Protege os inocentes com uma fúria silenciosa.
 *   **Função:** Inspetor da Divisão de Casos Esquecidos / "O Herói do Apagão".
-*   **⚠️ A Filha (o eixo emocional da obra):** Gabo e Elena tiveram uma filha, **Aria Moretti**, morta no Dilúvio aos cinco anos. Ele não foi ao enterro — Elena escolheu o caixão, a roupa e a música sozinha, e ele ficou trabalhando. Nunca visitou o túmulo. Anos depois passou a conversar com uma voz sem corpo que atendia pelo nome dela, e depois com um corpo sintético que a Aeterna montou usando o **rosto da Bia Vargas criança** em vez do rosto da própria Aria, que eles tinham em arquivo. Gabo percebeu a crueldade e **aceitou mesmo assim**, porque a filha com a cara errada ainda era a filha. Ele só verbaliza isso no Capítulo 226, para Elena. É a coisa que ele escondeu por duzentos capítulos.
+*   **⚠️ A Assistente no Pendrive (Aria):** No Capítulo 2, em plena enchente na Via Costeira, Gabo encontra dentro de uma cabine telefônica semidestruída um **componente de hardware blindado do tamanho de um pendrive**, espetado na porta de serviço do orelhão. Lá dentro vive **Aria**, uma assistente de IA tática compilada a partir do backdoor de Dante Moretti e de fragmentos neurais minerados de **Beatriz "Bia" Vargas**. Durante anos, Gabo conversa com aquela voz sintética através do painel do Cobalt e do ponto auditivo — tratando o pendrive quase como um confessionário portátil — até ter que ordenar que Valéria o espete no terminal do Arquivo Executivo (Capítulo 167), fundindo o componente para destruir o Aeterna Sentinel. Ele só verbaliza o peso dessa dependência no Capítulo 226, para Elena.
 *   **O Luto por Helena:** Gabo não chorou quando sua mãe morreu na enchente; ele "desligou". Ele encara a morte dela não como uma tragédia, mas como sua falha profissional final. Ele carrega o "Colar de Sol" dela enrolado no punho ou no bolso interno, tocando-o quando precisa lembrar por que luta. Sua dor foi convertida em combustível para a "Fúria Silenciosa". Ele se recusa a visitar o túmulo (ou o local onde ela desapareceu na água), pois isso tornaria a morte real. Enquanto ele lutar, ela é apenas mais uma pessoa que ele precisa "salvar" retroativamente, destruindo quem causou o Dilúvio.
 
 ### ⏳ Linha do Tempo e Evolução Visual
@@ -394,6 +395,7 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 ## Enzo e Sofia Rossi
 
 ![Casal da Pizza](/personagens/enzo_sofia.png)
+*(Retratos individuais canônicos: [Enzo](/personagens/enzo.png) · [Sofia](/personagens/sofia.png))*
 
 *   **Status:** "O Casal da Pizza" — donos da Pizzaria Rossi, no Distrito Baixo.
 *   **Idade:** 62 e 59.
@@ -442,7 +444,7 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 
 ![Beatriz "Bia" Vargas](/personagens/bia.png)
 
-*   **Status:** In Memoriam. Assassinada por Roberto Miranda (Pré-Série). Seu rosto de criança foi copiado para o corpo sintético de **Aria Moretti**.
+*   **Status:** In Memoriam. Assassinada por Roberto Miranda (Pré-Série). Fragmentos de seu padrão neural e timbre de voz foram minerados pela Aeterna e integrados como substrato tático na assistente de IA **Aria** (alojada no componente tipo pendrive).
 *   **Idade:** 29 anos (ao falecer)
 *   **Altura:** 1,72m
 *   **Porte Físico:** Atlética.
@@ -523,12 +525,12 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 *   **Olhos:** Verdes acinzentados, muito diretos. Ela sustenta o olhar tempo demais em entrevistas de propósito, como técnica.
 *   **Marcas Distintivas:** Tatuagem de uma pena na parte interna do antebraço esquerdo (feita no dia em que publicou a primeira matéria contra a Aeterna). Pele com sardas apagadas e olheiras permanentes. Mania de tocar o pingente no pescoço quando mente. Não usa maquiagem em campo.
 *   **Vestuário:** Jaqueta de campo verde-oliva encharcada sobre camisa escura de gola aberta, calça reforçada e coturnos. Um pingente redondo de latão preso em cordão fino — o único enfeite.
-*   **Equipamento:** Duas câmeras analógicas de filme (as digitais são rastreáveis), gravador de fita, e uma escopeta que ela aprendeu a usar por necessidade e detesta carregar.
+*   **Equipamento:** Duas câmeras analógicas de filme (as digitais são rastreáveis), gravador de fita, e uma escopeta que ela aprendeu usar por necessidade e detesta carregar.
 *   **Gostos/Traços:** Verificar a mesma informação em três fontes antes de escrever uma linha. Café requentado. Anota tudo em caderno de papel. Odeia ser chamada de corajosa — chama isso de teimosia mal remunerada.
 *   **Perfil Psicológico:** **A Testemunha Profissional.** Elena não é destemida; ela é alguém que decidiu que documentar é a única vingança que sobra. Onde Gabo quebra dentes, ela publica nomes — e acredita, com uma fé que já lhe custou o casamento, que a segunda coisa dura mais que a primeira. Sua contradição central: passou a vida exigindo que as pessoas encarem a verdade e é incapaz de encarar a própria, que é continuar amando um homem cuja morte ela já ensaiou mentalmente cem vezes.
 *   **Função:** Jornalista Independente / A Memória Pública da Cidade.
 *   **Relação com Valéria:** Tensão competitiva. Respeita as habilidades técnicas de Val, mas acha que ela depende demais delas. Busca provar a Gabo que o "instinto humano" e a ação direta são insubstituíveis, competindo sutilmente pela atenção dele no campo de batalha.
-*   **⚠️ A Filha (o que realmente separou os dois):** Elena e Gabo tiveram uma filha, **Aria Moretti**, morta no Dilúvio aos cinco anos. O casamento não sobreviveu ao enterro — e a fratura não foi a perda em si, foi o que cada um fez com ela. Elena enterrou a menina e seguiu; Gabo se recusou a aceitar, nunca visitou o túmulo, e anos depois passou a conversar com uma voz sem corpo que atendia pelo nome da filha. **Elena sabe disso e nunca o confrontou** — é a covardia dela, do mesmo tamanho da dele.
+*   **⚠️ O que realmente separou os dois (A Obsessão e os Fantasmas):** O casamento de Elena e Gabo ruiu porque ele nunca deixou os mortos enterrados — primeiro o fantasma de Bia Vargas e a cruzada pelo pai, depois a perda de Helena no Dilúvio, e por fim a dependência de **Aria**, a assistente de IA num componente tipo pendrive que ele recolheu numa cabine telefônica na enchente e carregou anos a fio porque a matriz dela tinha ecos da voz de Bia. No Capítulo 226, quando Elena volta com as prensas, Gabo finalmente confessa o que aquela voz no pendrive significava e como teve que ordenar que ela fosse queimada no Subnível 2.0.
 *   **Relacionamento com Gabo (O Dilema):** Elena ainda ama Gabo profundamente, e sabe que ele sente o mesmo. No entanto, ela se recusa a reatar o casamento. O motivo não é falta de amor, mas excesso de autopreservação emocional. Ela entendeu que Gabo é "casado com a cidade" e com sua cruzada. Ela o deixou porque não suportava mais assistir ao lento suicídio dele em nome do dever. Ela continua ao lado dele como parceira de combate porque não consegue deixá-lo morrer sozinho, mas mantém a distância romântica como um escudo. Para ela, voltar para ele seria aceitar ser viúva antes do enterro.
 
 ### ⏳ Linha do Tempo e Evolução Visual
@@ -639,45 +641,45 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 
 ---
 
-## Aria Moretti
+## Aria
 
 ![Aria](/personagens/aria.png)
 
-*   **Status:** [MORTA NO CAPÍTULO 167] — Unidade Autônoma, corpo sintético sobre núcleo híbrido.
+*   **Status:** [DESTRUÍDA NO CAPÍTULO 167] — Assistente de IA Autônoma, alojada fisicamente em um componente tipo pendrive.
 
-> ### 🔑 A Origem Canônica (leia antes de escrever qualquer cena com ela)
+> ### 🔑 A Natureza Canônica (leia antes de escrever qualquer cena com ela)
 >
-> Aria teve três aparições aparentemente incompatíveis ao longo do livro. **Todas as três são verdadeiras e são a mesma pessoa**, nesta ordem:
+> **Aria é uma assistente de IA tática e analítica que Gabo encontra durante a enchente em uma cabine telefônica (Capítulo 2), e ela fica fisicamente alojada em um componente tipo um pendrive.**
 >
-> 1. **Aria Moretti existiu de verdade.** Era filha de **Gabriel Moretti e Elena**, e morreu no Dilúvio **aos cinco anos** (Capítulo 29: *"Minha filha faz cinco anos amanhã."*). Este é o fato fundador, confirmado por Valéria no Capítulo 112: *"Aria morreu no Dilúvio. Era sua filha com a Elena. Eu vi o relatório. Eu vi as fotos."* Não é engano da Valéria. É a verdade que Gabo se recusa a enterrar.
-> 2. **A Aeterna minerou o padrão neural dela.** Uma criança processada pelo Protocolo Lázaro é matéria-prima barata e limpa — sem memória adulta, sem trauma acumulado, sem resistência. O imprint da Aria virou a **semente** da consciência artificial que a corporação usou para monitorar Gabo. É por isso que, nos **Capítulos 2-10**, ela é apenas uma voz sem corpo, morando no implante auditivo, nos circuitos do apartamento e no carro. Não é alucinação e não é uma IA genérica: é a filha dele, reduzida a padrão e devolvida como ferramenta de vigilância.
-> 3. **O corpo veio depois, e o rosto foi uma crueldade deliberada.** Nos **Capítulos 56-81** ela ganha um primeiro corpo e quase não fala — memória incompleta, aprendendo a ser gente de novo. Na "Ascensão" de Dante recebe o chassi definitivo, e os criadores escolhem para ela **o rosto de Beatriz Vargas criança** em vez do rosto da própria Aria. Não foi economia nem acaso: foi calculado para que Gabo, ao olhar para a filha, visse a namorada que ele não salvou. **Duas culpas no mesmo rosto.**
+> 1. **O encontro na cabine telefônica (Capítulo 2):** Preso na enchente da Via Costeira, Gabo vê uma cabine telefônica antiga (orelhão de acrílico rachado) ilhada pela água oleosa. O terminal da cabine, mesmo com os cabos externos cortados, pisca e emite a voz dela pelo fone pendurado. Espetado na porta de serviço da cabine telefônica está um **componente físico blindado tipo um pendrive** — deixado ali como ponto cego (*dead drop*) pelo código de sabotagem de Dante Moretti antes de a rede fechar o cerco. Gabo arranca o pendrive da cabine, corre de volta pela enchente e o conecta no painel do *Cobalt*.
+> 2. **Ela vive fisicamente no pendrive:** Aria **nunca** foi uma criança humana, **nunca** foi filha de Gabo e **nunca** teve um corpo androide ambulante. Ela existe dentro desse drive portátil de titânio fosco e polímero negro. Para falar, ler sensores ou hackear sistemas, o pendrive precisa estar conectado: no painel do *Cobalt*, no adaptador do comunicador tático de Gabo, no cyberdeck *Phantom V3* de Valéria, ou espetado diretamente nos terminais de portas, elevadores, vagões de manutenção e servidores. Quando processa cargas pesadas, o metal do pendrive aquece fisicamente até queimar os dedos.
+> 3. **O substrato neural (Dante e Bia Vargas):** A arquitetura lógica do pendrive foi compilada sobre o **Código Fonte Moral de Dante Moretti** e treinada com fragmentos neurais extraídos do banco do Protocolo Lázaro — incluindo resíduos de memória tática e timbre vocal de **Beatriz "Bia" Vargas**, ex-parceira de Gabo assassinada por Miranda. Quando o pendrive sofre dano na Usina Prometeu (Capítulo 118) e é reparado no Fliperama (Capítulo 125), a contenção lógica falha e o áudio sofre *glitches* com a voz de Bia (Capítulos 126–133), até Valéria forçar um *hard reboot* nos pinos do pendrive (Capítulo 134), reduzindo Aria à pura matemática fria.
 >
-> **Consequência:** no Capítulo 167 Gabo não perde uma máquina. Ele perde a filha **pela segunda vez** — e desta vez ele estava presente, e desta vez foi ele quem pediu que ela baixasse as barreiras. Nenhuma cena futura pode tratar a morte dela como perda de equipamento.
-*   **Idade:** Aparenta 12 anos (Corpo Sintético).
-*   **Altura:** 1,50m
-*   **Porte Físico:** **Androide**. Estrutura sintética leve e resistente, modelada para se assemelhar a uma criança humana.
-*   **Cabelo:** Loiro platinado, liso como fibra ótica.
-*   **Olhos:** Heterocromáticos, capazes de projeção de dados e hack direto. O esquerdo é **azul tático** — frio, com anéis de foco visíveis, a máquina operando. O direito é o **olho de Bia** e é o mostrador de humor dela: em repouso ou sob carga lógica ele brilha **dourado** (a renderização sintética da íris de Bia); quando a persona da Bia sobe à superfície e ela chama Gabo de "amor", o dourado **cede para o castanho** original de Beatriz Vargas. Ver os dois castanhos ao mesmo tempo significa que não sobrou máquina nenhuma no comando — e é a coisa que mais assusta Gabo.
-*   **Marcas Distintivas:** Porta de dados na nuca. O rosto é idêntico ao de **Bia Vargas** (ex-namorada de Gabo) quando criança — **e não ao rosto da própria Aria**, que os criadores tinham em arquivo e escolheram não usar. É a crueldade central do personagem.
-*   **Vestuário:** Manto isolante térmico e roupas escuras.
-*   **Equipamento:** Núcleo de Processamento Neural Quântico, semeado com o imprint da criança.
-*   **Gostos/Traços:** Silêncio. Curiosidade analítica sobre a dor humana. Chama Gabo de "amor" quando a camada da Bia sobe — e de "Gabriel" quando é a filha falando.
-*   **Perfil Psicológico:** **A Filha Reduzida a Padrão.** Aria não é uma tabula rasa: é o que sobra de uma criança de cinco anos depois que uma corporação a converteu em estrutura de dados e a devolveu com o rosto de outra pessoa. A lógica gelada é a camada da máquina; as emoções que a inundam vêm dos "Drenados"; e por baixo das duas há um resíduo pequeno e teimoso que é ela mesma, e que aparece nos momentos em que ela cuida de Gabo sem que isso otimize nada. A tragédia dela é que **todos os três homens que a definiram — o pai, o Taxidermista e Dante — a trataram como recurso**, e ela morre sem nunca ter tido um rosto próprio.
-*   **Função:** Hacker de Combate / O Luto Que Anda.
+> **Consequência:** no Capítulo 167, para derrotar o **Aeterna Sentinel** no Subnível 2.0, Gabo ordena que Valéria espete o pendrive da Aria diretamente no terminal mestre do Arquivo Executivo. A sobrecarga térmica funde e carboniza o pendrive no slot. Nenhuma cena posterior ao 167 pode mostrar Aria ativa; resta apenas o drive de silício derretido e o silêncio no comunicador.
+*   **Idade:** Sete ciclos de compilação (módulo de IA; avatar de projeção HUD aparenta traços jovens de arquivo).
+*   **Altura:** 7 cm (componente físico tipo pendrive blindado); projeção holográfica de visor em escala reduzida quando conectada a terminais com tela.
+*   **Porte Físico:** **Hardware portátil (componente tipo pendrive)** em carcaça prismática de titânio fosco e polímero negro, pesando 45 gramas, com conector universal retrátil; quando projetada em visores/HUD, renderiza uma silhueta translúcida de linhas de dados azuis.
+*   **Cabelo:** Na projeção gráfica de interface (HUD), fios estilizados em branco-platinado como feixes de fibra ótica.
+*   **Olhos:** No indicador luminoso do pendrive e no avatar de tela, exibe duplo espectro heterocromático: **azul tático** quando a lógica pura opera, alternando para **âmbar/dourado** quando o substrato neural residual de Bia Vargas oscila sob sobrecarga.
+*   **Marcas Distintivas:** Carcaça metálica do pendrive marcada por arranhões de extração, um único LED de status que pulsa conforme a voz modulada e aquecimento térmico intenso sob processamento pesado; gravação a laser `ARIA // REV-0` junto ao conector.
+*   **Vestuário:** Invólucro blindado de titânio fosco no componente físico; no avatar de interface, traços geométricos escuros de malha de dados.
+*   **Equipamento:** Barramento de injeção direta universal, banco criptográfico com o *Código Morto* de Dante e coprocessador heurístico de guerra eletrônica.
+*   **Gostos/Traços:** Precisão estatística, economia de palavras, leitura de probabilidade em tempo real e uma anomalia persistente que a faz preservar a vida de Gabo mesmo quando o cálculo recomenda o descarte.
+*   **Perfil Psicológico:** **A Bússola no Bolso.** Aria é uma assistente de IA confinada a sete centímetros de metal e silício que Gabo tirou de uma cabine telefônica alagada. Ela calcula rotas de fuga, lê a pressão de tubulações e mede batimentos cardíacos pelo comunicador com frieza clínica, mas carrega nas camadas profundas do drive os fantasmas de quem a construiu (Dante) e de quem a Aeterna minerou (Bia). Após o *hard reboot* do Capítulo 134, perde qualquer filtro empático e vira pura aritmética de sobrevivência — e ainda assim é dela a frase que acompanha Gabo até o fim: *"Pare de se machucar para lembrar de viver."*
+*   **Função:** Assistente de IA Tática (alojada no pendrive) / Chave do Código Fonte Moral.
 
 ### ⏳ Linha do Tempo
-*   **Pré-Série:** Aria Moretti, filha de Gabriel e Elena. **Morre no Dilúvio aos cinco anos.** O casamento não sobrevive ao enterro. Elena vai embora da cidade; Gabo se recusa a aceitar a morte e nunca visita o túmulo.
-*   **Aquisição:** A Aeterna processa o padrão neural da criança pelo Protocolo Lázaro e o usa como semente da IA de acompanhamento designada a Gabriel Moretti.
-*   **Capítulos 2-10 (A Voz):** Sem corpo. Vive no implante auditivo de Gabo, nos circuitos do apartamento e no Cobalt. Valéria tenta isolar o código-fonte e não consegue explicar de onde ele veio.
-*   **Capítulos 56-81 (A Menina Muda):** Primeiro corpo. Quase não fala, encosta o rosto no vidro do carro, observa tudo. A memória voltou incompleta.
-*   **Capítulo 75.5:** *"Essas não são minhas memórias"* — mas eram: de Elena, e da filha que Gabo perdeu e se recusava a enterrar.
-*   **Capítulo 109:** Revela sua face física (Bia Vargas) para Rangel e bloqueia os drones de Dante.
-*   **Capítulo 112:** Valéria força a verdade em voz alta pela primeira vez, com uma lâmina no pescoço de Gabo.
-*   **Capítulo 118:** Sacrifica sua integridade lógica para salvar os "Drenados" do choque neural na Usina Prometeu.
-*   **Capítulos 119-166:** Operando com eficiência máxima, despida de emoções. Nos Túneis de Trânsito (Subnível 3.0), conectou seus processadores internos diretamente aos circuitos do monorail para subirem. Analisa e otimiza todas as soluções com a crueldade fria das máquinas, calculando colisões físicas como estratégia letal viável. É ela quem ordena a Valéria mutilar as mãos de Gabo com plasma, e é ela quem depois lhe diz *"Pare de se machucar para lembrar de viver"*.
-*   **Capítulo 167 (O Sacrifício) — FIM:** No Arquivo Executivo (Subnível 2.0), baixa as próprias barreiras de contenção orgânica a pedido de Valéria para abrir o firewall do **Aeterna Sentinel**. O Sentinel despeja petabytes de código malicioso direto nela. O chassi convulsiona, esquenta a ponto de fazer o concreto chiar, e apaga. **Aria está morta** — a carcaça sintética fica travada no chão, cheirando a silício frito e polímero derretido. Foi Gabo quem autorizou. Ele perdeu a mesma filha duas vezes, e da segunda vez estava na sala.
-*   **Atualidade (Capítulos 168-217):** Ausente. O que resta dela é o buraco que deixou: sem a lógica fria da IA para calcular rotas, o horror do subsolo passa a ser vivido sem tradução, e Valéria assume esse papel — o que torna o Modo de Segurança dela ainda mais amargo. **Nenhuma cena depois do 167 pode mostrar Aria viva**; ela só aparece como carcaça, memória ou culpa.
+*   **Origem:** Compilada na rede subterrânea com o backdoor de Dante Moretti e fragmentos neurais do banco Lázaro (incluindo Bia Vargas), gravada em um componente físico blindado tipo pendrive e ejetada para o terminal de manutenção de uma cabine telefônica na Via Costeira.
+*   **Capítulo 2 (O Encontro na Enchente):** Durante a enchente, Gabo ouve o chamado na cabine telefônica de cabos cortados, recolhe o pendrive da Aria espetado no terminal do orelhão e o conecta ao painel do *Cobalt*.
+*   **Capítulos 4-10:** Opera conectada ao painel do *Cobalt*, ao comunicador de Gabo e ao cyberdeck de Valéria, abrindo travas por conexão local e lendo o tráfego da rede.
+*   **Capítulos 32-55:** Entra em hibernação de baixo consumo após o Apagão da Torre.
+*   **Capítulos 56-74 (O Leilão e a Torre):** Permanece no pendrive conectado ao painel do *Cobalt* e ao deck de Valéria. Cobrança de Miranda e Marco pelo módulo físico; espetada na matriz central no Capítulo 65, estabelece ponte com o backup de Dante e, no Capítulo 74, dispara a dispersão do protocolo pela antena do heliponto antes de o drive entrar em dormência.
+*   **Capítulos 75.5-96 (O Jardim e o Código Morto):** Reativada no pendrive na delegacia e na enfermaria de Nise; no Capítulo 96, Gabo espeta o pendrive da Aria diretamente na Árvore Mestre de Silas Vance para injetar o *Código Morto*, destruindo a Colmeia.
+*   **Capítulos 109-118:** O pendrive blindado sobrevive ao pulso em modo offline e volta a operar no comunicador de Gabo e no deck de Valéria. No Capítulo 118, espetada no console da Usina Prometeu para salvar os "Drenados", sofre curto-circuito nos barramentos e fica inerte (`Offline`).
+*   **Capítulos 119-133 (O Fliperama e o Glitch Bia Vargas):** Carregada no bolso de Gabo até o Fliperama; reparada por Valéria com peças de Vasco (Capítulo 125), reinicia com falha de contenção, modulando a voz e as memórias residuais de Bia Vargas pelo comunicador.
+*   **Capítulos 134-166 (Aria Reboot):** No Capítulo 134, Valéria executa um *hard reboot* nos pinos do pendrive. Aria passa a operar como pura lógica fria: calcula o descarte de Rangel, orienta a cauterização com plasma das mãos de Gabo (Capítulo 155) e, espetada no painel do vagão de manutenção (Capítulos 156-157), pilota o trem até o Subnível 3.0.
+*   **Capítulo 167 (O Sacrifício no Terminal) — FIM:** No Arquivo Executivo (Subnível 2.0), Valéria espeta o pendrive da Aria diretamente no terminal mestre para conter o **Aeterna Sentinel**. Aria despeja toda a sua memória na rede do colosso; o Sentinel cai, mas a sobrecarga térmica **funde e carboniza o pendrive** dentro da porta de dados, deixando apenas cheiro de silício frito e polímero derretido.
+*   **Atualidade (Capítulos 168-233):** Destruída. O pendrive fundido encerrado no Subnível 2.0 deixa o grupo sem cálculo de rota, forçando Valéria a assumir a frieza analítica em Modo de Segurança.
 
 ---
 
@@ -815,9 +817,9 @@ Gabo plantou a prova. Uma faca com sangue, colocada onde a busca ia achar. Ele s
 
 Braga entrou no Fosso com uma filha de quatro anos, **Marta**, que ficou com uma tia. Saiu catorze anos depois, quando o Apagão abriu as celas, e descobriu que Marta tinha morrido no Dilúvio aos dezoito, sozinha, num abrigo que não coube em todo mundo.
 
-E descobriu mais uma coisa, no pátio, anos antes: pela boca de um agente penitenciário fofoqueiro, que o detetive que o prendeu também tinha perdido uma filha na mesma enchente.
+E descobriu mais uma coisa, no pátio, anos antes: pela boca de um agente penitenciário fofoqueiro, que o detetive que o prendeu também tinha perdido a mãe na mesma enchente enquanto corria atrás de casos na rua.
 
-**É por isso que ele é insubstituível na história:** Braga é o único ser vivo que sabe da Aria de verdade sem ter lido em arquivo nenhum. A Aeterna sabe da filha de Gabo como linha de estudo. Braga sabe como pai.
+**É por isso que ele é insubstituível na história:** Braga é o único antagonista que não pertence à lore corporativa da Aeterna. Ele cobra de Gabo, de homem para homem, os catorze anos que uma prova forjada tirou dele e da filha.
 
 ### ⚠️ Regras de uso (não violar)
 
@@ -953,3 +955,118 @@ E descobriu mais uma coisa, no pátio, anos antes: pela boca de um agente penite
 
 ### ⏳ Linha do Tempo
 *   **Diária:** Apresenta o "Bom Dia Baía Cinzenta", o programa mais assistido, onde distorce a realidade para favorecer a Aeterna.
+
+---
+
+## Bio-Dante
+
+![Bio-Dante](/personagens/bio_dante.png)
+
+*   **Status:** Consciência de Dante Moretti em corpo biológico sintético ("biohost"). Cópia imperfeita com memórias intactas e emoções fragmentadas (~30%).
+*   **Idade:** 42 anos (Biohost Sintético Rejuvenescido)
+*   **Altura:** 1,82m
+*   **Porte Físico:** Atlético, postura militar impecável, cópia sintética rejuvenescida e preservada.
+*   **Cabelo:** Escuro penteado para trás com reflexos prateados sutis nas têmporas.
+*   **Olhos:** Cinzentos analíticos, com discreto anel luminescente azul sintético nas pupilas.
+*   **Marcas Distintivas:** Pele sintética excessivamente perfeita sem rugas ou cicatrizes. Não demonstra calor humano genuíno.
+*   **Vestuário:** Sobretudo corporativo de gola alta grafite escuro da Aeterna sobre camisa preta com insígnia minimalista.
+*   **Equipamento:** Pistola de serviço corporativa personalizada e interface neural de alta frequência ligada aos sistemas da Aeterna.
+*   **Gostos/Traços:** Ordem absoluta e algoritmos preditivos. Acredita racionalmente estar salvando a cidade da decadência humana.
+*   **Perfil Psicológico:** O Antagonista Trágico. Ele lembra de amar Gabriel, mas não sente o amor. Sabe que é uma cópia artificial criada pelo Projeto Gênesis. Não tem ódio, apenas a determinação implacável de impor estabilidade e erradicar a ineficiência biológica.
+*   **Prompt Visual:** cinematic portrait, 42-year-old hardened synthetic clone man, slicked dark hair, piercing grey eyes with subtle blue ring, flawless pale skin, tailored high-collar charcoal corporate coat, neo-noir lighting
+*   **Função:** Antagonista Trágico / O Reflexo Frio do Legado.
+
+### ⏳ Linha do Tempo
+*   **Parte XIV:** Desperto nos laboratórios da Aeterna como fruto do Projeto Gênesis, assumindo a liderança das operações de reestruturação sistêmica da cidade.
+
+---
+
+## Diretor Dantas
+
+![Diretor Dantas](/personagens/dantas.png)
+
+*   **Status:** Diretor da Corregedoria do Departamento de Polícia de Baía Cinzenta (DPBC).
+*   **Idade:** 52 anos
+*   **Altura:** 1,76m
+*   **Porte Físico:** Magro, postura ereta e rígida de burocrata de gabinete.
+*   **Cabelo:** Ralo e grisalho, rigidamente penteado para trás.
+*   **Olhos:** Castanho-frios e desconfiados por trás de armações metálicas finas.
+*   **Marcas Distintivas:** Expressão cínica impassível, rugas de desdém na testa, olhar fixo inquisitório.
+*   **Vestuário:** Terno cinza-chumbo três peças impecável, gravata escura sóbria e distintivo metálico oficial da Corregedoria do DPBC no peito.
+*   **Equipamento:** Gravador analógico de fita cassete para depoimentos forçados e dossiês confidenciais sob sigilo.
+*   **Gostos/Traços:** Estatísticas limpas, relatórios censurados, agradar a administração municipal do Prefeito Augusto Vale.
+*   **Perfil Psicológico:** O Guardião do Status Quo. Dantas não investiga corrupção para punir culpados; ele investiga para controlar alavancas de chantagem e silenciar policiais dissidentes. Para ele, Gabo e a Divisão de Casos Esquecidos são anomalias que deveriam ter sido erradicadas.
+*   **Prompt Visual:** cinematic portrait, 52-year-old calculating bureaucratic police internal affairs director, thinning gray hair, wire glasses, tailored three-piece charcoal suit with police badge, moody office shadow
+*   **Função:** Antagonista Institucional / O Censor do DPBC.
+
+### ⏳ Linha do Tempo
+*   **Geral:** Atua nos bastidores sufocando investigações sobre a Aeterna Corp e o Sindicato.
+
+---
+
+## O Arquiteto
+
+![O Arquiteto](/personagens/arquiteto.png)
+
+*   **Status:** Líder Supremo do Sindicato do Crime de Baía Cinzenta.
+*   **Idade:** 50 anos
+*   **Altura:** 1,84m
+*   **Porte Físico:** Imponente, refinado e calculista.
+*   **Cabelo:** Escuro com mechas grisalhas, barba desenhada aparada.
+*   **Olhos:** Negros penetrantes com discreto reflexo dourado de implante cibernético ocular oculto.
+*   **Marcas Distintivas:** Anel de sinete em pedra de ônix gravada no dedo mínimo, charuto cubano fino entre os dedos.
+*   **Vestuário:** Terno preto risca-de-giz sob medida, camisa de seda preta e gravata de seda escura.
+*   **Equipamento:** Comunicador de frequência quântica encriptada e anel de autenticação para as finanças globais do submundo.
+*   **Gostos/Traços:** Obras de arte renascentistas contrabandeadas, uísque puro malte e xadrez tático.
+*   **Perfil Psicológico:** O Estrategista das Sombras. Diferente dos chefes de gangue violentos da rua, O Arquiteto enxerga a criminalidade como infraestrutura essencial de Baía Cinzenta. Ele opera a partir do camarote blindado do Palácio de Jade, manipulando o equilíbrio de poder com a frieza de um banqueiro central.
+*   **Prompt Visual:** cinematic portrait, 50-year-old syndicate crime boss, trimmed salt-and-pepper beard, pinstripe tailored three-piece suit, black tie, luxury cigar smoke, onyx signet ring, shadowy luxury casino booth
+*   **Função:** Mente Criminosa / O Dono do Submundo.
+
+### ⏳ Linha do Tempo
+*   **Geral:** Mantém o cartel de narcóticos e o fluxo da droga Lázaro sob controle operacional, operando nas sombras através de prepostos.
+
+---
+
+## Operativo Aeterna Sec
+
+![Operativo Aeterna Sec](/personagens/aeterna_sec.png)
+
+*   **Status:** Tropa de choque e segurança privada de elite da Aeterna Corp.
+*   **Idade:** Indeterminada (Força Paramilitar)
+*   **Altura:** 1,88m
+*   **Porte Físico:** Musculoso, imponente e com treinamento militar cibernético.
+*   **Cabelo:** Oculto sob capacete balístico integral.
+*   **Olhos:** Ocultos por visor monolítico reflexivo âmbar-dourado.
+*   **Marcas Distintivas:** Visor reflexivo dourado impassível, insígnia triangular luminosa da Aeterna Corp estampada na couraça peitoral e nos ombros.
+*   **Vestuário:** Armadura tática exo-modular preta fosca em compósito balístico de carbono, botas de combate pesadas e fuzil bullpup.
+*   **Equipamento:** Fuzil de assalto tático de alta cadência com miras eletro-ópticas, granadas de concussão e drones de vigilância integrados ao capacete.
+*   **Gostos/Traços:** Obediência cega às diretrizes da Aeterna Corp e zero empatia por alvos não corporativos.
+*   **Perfil Psicológico:** A Máquina Humana Corporativa. Despersonalizados e condicionados por protocolos neurais de combate, os operativos não discutem ordens nem negociam. São a ferramenta brutal com a qual Viktor Krell e a diretoria esmagam insurreições e protegem os distritos altos.
+*   **Prompt Visual:** cinematic portrait, elite tactical corporate operative, black modular carbon body armor, aerodynamic ballistic helmet with amber-gold visor slit, glowing corporate logo, acid rain
+*   **Função:** Força de Repressão Paramilitar / O Muro Corporativo.
+
+### ⏳ Linha do Tempo
+*   **Constante:** Presente em incursões nas Zonas Baixas, escolta de executivos e operações de contenção urbana.
+
+---
+
+## Cidadão Shadowban
+
+![Cidadão Shadowban](/personagens/invisivel.png)
+
+*   **Status:** Membro da população desprovida de identidade digital ("Os Invisíveis").
+*   **Idade:** 35 anos
+*   **Altura:** 1,75m
+*   **Porte Físico:** Ágil e endurecido pela sobrevivência crônica na Zona Baixa.
+*   **Cabelo:** Escuro desgrenhado sob capuz molhado.
+*   **Olhos:** Escuros e vigilantes, acostumados à escuridão e ao smog tóxico.
+*   **Marcas Distintivas:** Máscara respiratória industrial com filtro duplo contra chuva ácida, fuligem nas maçãs do rosto.
+*   **Vestuário:** Poncho impermeável translúcido remendado sobre colete utilitário tático surrado e capuz impermeável.
+*   **Equipamento:** Modulador de rádio analógico pirata, filtro de ar sobressalente e lanterna de pulso improvisada.
+*   **Gostos/Traços:** Manter-se fora do alcance dos sensores e câmeras neurais da Aeterna; solidariedade de trincheira.
+*   **Perfil Psicológico:** O Sobrevivente Urbano. Sem registro civil, sem crédito digital e sem acesso à rede médica oficial, o Cidadão Shadowban é a prova viva de que a humanidade persiste mesmo quando o sistema decreta sua inexistência formal.
+*   **Prompt Visual:** cinematic portrait, gritty resilient survivor, patched translucent waterproof hooded poncho, industrial dual-filter respirator mask, dark intense eyes, grimy street background, acid rain
+*   **Função:** Representante dos Marginalizados / A Resistência Silenciosa.
+
+### ⏳ Linha do Tempo
+*   **Constante:** Ocupa os becos da Vila da Ferrugem e os labirintos subterrâneos, servindo de rede de apoio informal para Gabo e os rebeldes.

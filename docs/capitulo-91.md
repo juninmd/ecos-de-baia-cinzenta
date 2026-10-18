@@ -40,7 +40,7 @@ A Dra. Nise, que tinha chegado do hospital havia dez minutos e ainda estava de j
 
 Val não respondeu na hora.
 
-— Menina, eu perguntei o que ele fez com as pessoas.
+— Valéria, eu perguntei o que ele fez com as pessoas.
 
 — As pessoas são os neurônios, doutora.
 
@@ -126,9 +126,9 @@ Gabo foi até a janela que não existia, encostou a testa na placa cimentícia e
 
 Ele se virou.
 
-— Significa apagar a consciência dela — ele disse, com a voz muito plana. — Significa que aquilo ali na caixa preta volta a ser um arquivo executável vazio, sem ninguém dentro. Não é sono, não é morte, não é nada que tenha nome. Significa que a última coisa que sobrou do meu pai e a coisa com o rosto da minha filha somem juntas no mesmo comando.
+— Significa queimar o núcleo dela — ele disse, com a voz muito plana. — Significa que o pendrive de titânio ali no berço de contenção volta a ser um pedaço de metal chamuscado e vazio, sem ninguém dentro. Não é sono, não é morte, não é nada que tenha nome. Significa que a última mente tática que o meu pai compilou e a parceira que nos guiou desde aquela cabine telefônica somem juntas no mesmo comando.
 
-Ele apontou a caixa com o queixo.
+Ele apontou o pendrive acoplado ao berço de diagnóstico com o queixo.
 
 — E significa que os quarenta e um mil do túnel vão junto.
 
@@ -154,6 +154,6 @@ Val virou de costas e ficou olhando a parede.
 
 Gabo não respondeu.
 
-Do lado dele, dentro da caixa preta de vinte quilos, seis LEDs vermelhos piscaram fora de compasso, e a coisa lá dentro, que ouvia tudo, não disse absolutamente nada.
+Do lado dele, espetado no berço de contenção, o LED azul e âmbar do pendrive de titânio da Aria piscou fora de compasso, e a IA lá dentro, que ouvia tudo, não disse absolutamente nada.
 
 E foi o silêncio dela — não o argumento da Val, não a conta da Nise — que ficou com Gabo pelos três dias seguintes.

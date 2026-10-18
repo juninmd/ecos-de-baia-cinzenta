@@ -1,56 +1,59 @@
 ---
-image: /capitulo_180.jpg
+Título: A Fome do Abismo
+Data In-Game: Indeterminada (Pós-Colapso da Aeterna)
+Localização: Dutos de Escoamento Secundário, Distrito 4
+Personagens Presentes: Gabo, Valéria
 ---
-# Metadados
-- **Título:** A Fome do Abismo
-- **Data In-Game:** Pós-Colapso do Sentinel (Noite Eterna)
-- **Localização:** Dutos de Escoamento Secundário
-- **Personagens Presentes:** Gabo, Valéria
-
-# Narrativa
 
 # Capítulo 180: A Fome do Abismo
 
-Os Dutos de Escoamento Secundário do Distrito 4 não foram feitos para o trânsito de humanos. Eram canos redondos de concreto com cinco metros de diâmetro, parcialmente submersos por uma lama negra e fétida.
+O lodo ácido agarrava-se às minhas botas como mãos de moribundos implorando por salvação. Deixamos a estação e nos embrenhamos mais fundo nos dutos de escoamento. O eco úmido dos nossos passos era pontuado pelo chiado baixo do exoesqueleto atrelado ao meu ombro destruído. Cada movimento das travas passivas cravava espinhos virtuais na minha carne.
 
-A cada passo, as pernas mecânicas de Gabo esmagavam sedimentos industriais com um protesto choroso das juntas. O braço mutilado com a pesada e grosseira prótese oscilava ao seu lado feito uma âncora que ameaçava afogá-lo. O cheiro rascante de decomposição química começou a mexer com seu córtex cerebral novamente.
+Eu precisava daquela dor.
 
-Onde devia estar apenas fedor de esgoto industrial, a fobia impôs o aroma opressivo do tabaco de Dante. A fumaça invisível envolveu seu pescoço. O peito de Gabo apertou, os pulmões tentando encontrar oxigênio através do manto negro da asfixia fóbica.
+O ar aqui embaixo era um caldo rançoso, denso com o cheiro de decomposição e ozônio. Era fácil demais para a minha mente preencher a escuridão com o cheiro adocicado e enjoativo de alcatrão e fumaça velha. O fantasma de Dante ainda arrastava suas correntes na minha nuca, soprando sua neblina cancerígena. Quando a garganta apertou e a tosse úmida pareceu raspar as paredes da minha traqueia, cerrei os dentes e flexionei os tendões sintéticos do braço industrial ao limite da tensão.
 
-Dessa vez, Gabo nem sequer engasgou. Ele levantou a colossal garra de ferro de seu novo braço industrial e chocou-a brutalmente contra a parede de concreto do tubo. A repulsão cinética estilhaçou pedras, mas também mandou um impacto infernal diretamente contra as terminações expostas do seu ombro cortado a laser. A dor incandescente subiu pelo pescoço, expurgando a asfixia, quebrando o terror fantasma. A dor o limpou e calou a fumaça.
+O motor chorou e um solavanco de pura agonia subiu pela minha espinha. A fumaça ilusória dissipou-se na névoa tóxica real do esgoto.
 
-— Danos colaterais autoinfligidos em aumento exponencial — o algoritmo estéril de Valéria recitou de trás dele. — O desgaste do material orgânico não se justifica pelo resultado transitório, Gabo. A taxa de mortalidade em combate atingirá índices inaceitáveis.
+— Ritmo cardíaco ainda fora dos parâmetros nominais, Gabo — ecoou a voz de Valéria. Plana. Estéril. O tom monocórdico de um terminal bancário te avisando sobre sua falência. — Sugiro pausas de trinta segundos a cada duzentos metros para mitigar risco de infarto.
 
-— Sem o "resultado transitório", eu morro aqui babando, Val. — Ele cuspiu, o sangue ralo escorrendo do lábio que ele acabara de morder pela dor.
+— Se a gente parar, enferruja de vez, Val — resmunguei, empurrando o corpo para a frente. — Só me avisa se vir mais dessa porcaria brilhante.
 
-A poucos metros de distância, o cenário mudou. O lodo escuro desapareceu debaixo de um campo brilhante de mofo bioluminescente. A biomassa letárgica do Jardim pulsava. Presos nas paredes, envoltos num casulo denso e fibroso de filamentos brancos e raízes, estavam três Catadores.
+Ela não respondeu ao sarcasmo, apenas continuou sua marcha inabalável, o feixe de luz tático perfurando a escuridão absoluta.
 
-Eles ainda estavam vivos.
+Dez minutos depois, o túnel desembocou em uma câmara de drenagem titânica. As paredes curvas estavam quase inteiramente forradas pela mesma biomassa pálida dos túneis, mas aqui ela não estava apenas digerindo lixo inorgânico. O brilho doentio do *Jardim* revelou a verdadeira escala da fome da abominação.
 
-Seus membros orgânicos pareciam apodrecidos, enquanto seus implantes cibernéticos baratos piscavam erraticamente, lutando contra o parasitismo. A biomassa fungóide estava digerindo-os lentamente, operando-os como bio-baterias e atrasando o óbito para extrair até o último elétron de seus marcapassos e neuro-circuitos.
+Suspensos em uma teia de filamentos carnudos, pendiam três catadores. Eles estavam envoltos até o pescoço em casulos fibrosos. Seus implantes cibernéticos rudimentares de mercado negro — olhos sintéticos enferrujados, pernas pneumáticas — haviam sido rasgados e integrados à rede neural fúngica. O pior não era o grotesco da fusão carne-metal.
 
-Um deles, faltando metade do rosto engolido pelo fungo, virou o único olho restante para Gabo. Seus lábios de pele necrosada tentaram articular uma palavra. *Mate-nos.*
+O pior era que eles ainda respiravam. Seus peitos subiam e desciam em um ritmo letárgico, escravizado.
 
-— Detectando assinaturas de calor múltiplas sendo processadas e assimiladas — Valéria informou friamente, escaneando o corredor. O tapete espesso de raízes carnívoras barrava o caminho completo. — Avanço impossível sem contato direto com a flora corrosiva. Nível de letalidade: 98%.
+Um deles, um garoto com fios cromados emaranhados no que restava de seu cabelo, abriu um olho biológico injetado de sangue quando a luz de Valéria o atingiu. Um gemido oco escapou dos lábios rachados, um som que eu conhecia bem demais. Era o som do desespero cru, despido de qualquer esperança.
 
-O pânico do catador semi-vivo ecoou pelo duto num gemido agudo e aquático, vindo do fundo de pulmões afogados em esporos.
+— Avaliação de risco crítico — anunciou Valéria, erguendo imediatamente sua arma. O laser de mira dançou no peito do catador. — Nível de infecção classe A. Hospedeiros ativos integrados à malha. Protocolo ótimo: erradicação total para prevenir esporulação secundária. Solicitando autorização para uso de força letal.
 
-A compaixão era uma fraqueza que Gabo não podia mais sustentar. Se ele tentasse arrancá-los do casulo orgânico, o fungo digeriria a ele mesmo, ou ele desabaria com a perna falhando sob o próprio peso.
+Eu agarrei o cano da arma dela com minha mão de carne, abaixando-o rudemente.
+— Abaixa isso — rosnei. — Se você atirar aqui, a faísca e o calor podem fazer esse ar cheio de esporos e gás metano explodir. A gente morre junto.
 
-Gabo olhou para a abóbada do túnel. Logo acima da massa fúngica, canos marcados com tarjas amarelas enferrujadas cruzavam a parede. Lodo ácido industrial. Lixo de antigas baterias.
+— A contenção biológica tem precedência sobre a sobrevivência da unidade em caso de surto iminente — respondeu Valéria, olhando para mim sem um pingo de remorso ou humanidade. A luz fria de seus sensores me gelou a espinha.
 
-— Eles estão mortos, e nós não podemos recuar — a racionalidade fria de Valéria parecia infectá-lo.
+Não havia com quem argumentar ali. Valéria não estava mais em casa. Era só o Modo de Segurança falando.
 
-— Desculpem — Gabo murmurou para os olhos suplicantes na parede.
+Virei-me para a parede, calculando nossas opções. O caminho adiante estava bloqueado pela massa principal, um aglomerado denso de matéria pulsante. Acima da entrada, vi o que eu precisava: uma enorme tubulação de descarte industrial, velha e corroída pela umidade. Água ácida de resfriamento escorria por suas juntas rachadas.
 
-Gabo ergueu sua monstruosa prótese de braço, trincou os dentes e acionou a força hidráulica não calibrada do membro. Ele jogou o peso desbalanceado contra os ganchos que seguravam a tubulação ácida acima do campo fúngico.
+— Fica para trás — ordenei.
 
-O ferro retorceu. Com um rasgo agudo, o cano estourou.
+Caminhei até estar abaixo do cano, posicionei-me firmemente no lodo. Ergui o braço industrial, usando o ombro para ancorar o peso. A dor era cegante, mas fechei os olhos, transformando a agonia em combustível. Com um grito abafado, golpei o centro da tubulação apodrecida com a pesada garra de aço.
 
-Uma cachoeira de lodo esverdeado e borbulhante caiu como napalm sobre o campo fúngico e os Catadores presos a ele. Gritos distorcidos de agonia se misturaram ao som sibilante do ácido derretendo carne, metal e a raiz carnívora de forma indiscriminada.
+*CRACK.*
 
-Uma nuvem cáustica de vapor tomou conta do túnel. O tapete de fungo encolheu-se, abrindo um caminho cinzento derretido ao longo do meio.
+O metal gemeu e cedeu. Uma cascata violenta de água verde e escaldante de ácido industrial despencou. O jato atingiu o centro da colônia fúngica. O assobio foi instantâneo. A biomassa se contorceu, chiando enquanto o ácido a dissolvia, derretendo o lodo brilhante e abrindo um caminho estreito, enegrecido e fumegante pelo centro da câmara.
 
-— Rota alternativa funcional, probabilidade de avanço retomada — constatou Valéria, caminhando imediatamente sobre a trilha cáustica com precisão algorítmica.
+A fumaça que subiu tinha um gosto acre e cáustico de enxofre e carne morta. Perfeito. Nada parecido com alcatrão.
 
-Gabo passou por cima das carcaças dissolvidas. Ele usou a dor excruciante do braço estendido contra a tubulação para silenciar qualquer remorso ou fobia que tentasse emergir. Ele não estava salvando ninguém. Estava apenas sobrevivendo mais um segundo no abismo.
+Respirando pesadamente, apoiando-me nos joelhos enquanto a pulsação no meu cotovelo parecia tentar perfurar a pele, olhei para os catadores. Eles continuavam lá, presos no teto, observando em silêncio agonizante a nossa passagem recém-aberta.
+
+Não havia como soltá-los sem nos infectarmos. E atirar neles continuava sendo um risco inaceitável para a nossa própria fuga. Eles estavam mortos, só não haviam percebido ainda.
+
+— O caminho está viável. A probabilidade de travessia bem-sucedida aumentou para 89% — declarou Valéria, já marchando em direção à fenda aberta pelo ácido, seus pés pisoteando a gosma derretida sem hesitação.
+
+Olhei para o garoto uma última vez. Não disse nada. Nesta cidade de lixo e neon quebrado, a misericórdia era um luxo que eu não podia mais bancar. Virei as costas e segui a máquina que um dia foi a minha parceira.

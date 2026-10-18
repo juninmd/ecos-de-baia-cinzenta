@@ -70,7 +70,7 @@ Gabo continuou de pé com a mão na parede, e ao mesmo tempo estava vendo pelas 
 
 Estava vendo o Vilar, no bunker do enclave, discutindo com dois tenentes em cima de um mapa, e o Vilar levantava e sentava e levantava de novo, e não estava conseguindo falar o que precisava falar.
 
-Estava vendo a Dra. Nise, no corredor do subsolo do Hospital, sentada ao lado da caixa preta, chorando com o rosto nas mãos de um jeito organizado e silencioso que ela nunca deixaria ninguém ver.
+Estava vendo a Dra. Nise, no corredor do subsolo do Hospital, sentada ao lado do berço de contenção onde repousava o pendrive da Aria, chorando com o rosto nas mãos de um jeito organizado e silencioso que ela nunca deixaria ninguém ver.
 
 Estava vendo mil e quinhentas coisas ao mesmo tempo e nenhuma delas com surpresa.
 

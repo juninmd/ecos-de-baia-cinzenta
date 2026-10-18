@@ -1,9 +1,9 @@
 ---
 layout: doc
 title: "Capítulo 74: O Sacrifício de Lázaro"
-description: "No heliponto de uma torre torta, a menina que nunca teve nome próprio decide, sozinha, deixar de caber num corpo."
+description: "No heliponto de uma torre torta, a IA que nasceu num pendrive decide, sozinha, deixar de caber num único módulo."
 image: /capitulo_74.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria Moretti
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria
 ---
 
 # Capítulo 74: O Sacrifício de Lázaro
@@ -34,11 +34,9 @@ Tático, preto, sem prefixo, sem matrícula, com as luzes de navegação apagada
 
 A porta lateral estava aberta.
 
-Três homens de terno estavam colocando a menina lá dentro.
+Val estava caída a seis metros, de bruços, com sangue vindo de um corte acima da orelha, tentando se levantar e não conseguindo passar do cotovelo. Ao lado do mastro da antena mestra da torre, três homens de terno cercavam o terminal de transmissão de emergência — onde Valéria, antes de ser derrubada, tinha conseguido espetar o pendrive de titânio da Aria. Dois deles tentavam acoplar um extrator blindado para arrancar o módulo e levá-lo para o helicóptero.
 
-Val estava caída a seis metros, de bruços, com sangue vindo de um corte acima da orelha, tentando se levantar e não conseguindo passar do cotovelo.
-
-— **SOLTA ELA!**
+— **AFASTEM-SE DO TERMINAL!**
 
 ---
 
@@ -52,97 +50,95 @@ Tinha um sobretudo encharcado de vinte quilos de água, duas pernas que funciona
 
 Um dos homens virou o fuzil.
 
-— O senhor fica onde está, Sr. Moretti. — A voz dele saiu tranquila e alta o suficiente para vencer o vento, e era uma voz de RH. — O ativo foi recuperado. Não há mais nada aqui que lhe diga respeito.
+— O senhor fica onde está, Sr. Moretti. — A voz dele saiu tranquila e alta o suficiente para vencer o vento, e era uma voz de RH. — O drive neural foi recuperado. Não há mais nada aqui que lhe diga respeito.
 
-*Ativo.*
+*Recuperado.*
 
 Gabo deu um passo à frente e o cara destravou a arma.
 
-E aí a menina olhou para ele.
+E aí o ponto auditivo no ouvido de Gabo acendeu.
 
 ---
 
-Ela não estava lutando.
+O pendrive no slot da antena não estava bloqueando a extração.
 
-Isso foi o que parou Gabo — não o fuzil. Ela estava sentada na porta do helicóptero, entre dois homens adultos que a seguravam pelos braços, com os pés balançando no ar, absolutamente calma.
+Isso foi o que parou Gabo — não o fuzil. O pequeno módulo de titânio e polímero negro estava cravado no barramento da antena mestra, entre os dois executivos que operavam as garras de contenção, com o LED lateral pulsando em azul sereno, absolutamente estável.
 
-E olhou para ele com uma paciência que Gabriel Moretti conhecia de um lugar só: da mãe dele, no hospital, no último mês.
+E a voz que entrou pelo canal do comunicador tinha uma paciência que Gabriel Moretti conhecia de um lugar só: da mãe dele, no hospital, no último mês.
 
 — *Gabo.*
 
-A voz chegou por dentro, e era a dela sozinha. Sem o Dante. Só a menina.
+A voz chegou limpa, e era a da Aria sozinha. Sem a camada de Dante. Só a assistente que estava com ele desde a cabine telefônica.
 
-— Eu vou tirar você daí — ele disse, alto, na chuva.
+— Eu vou tirar o seu drive daí — ele disse, alto, na chuva.
 
 — *Eles não podem me levar.*
 
 — **EU NÃO VOU DEIXAR!**
 
-— *Não é isso.* — Uma pausa curtinha. — *Eles não podem me levar porque eu não vou mais estar aqui.*
+— *Não é isso, Inspetor.* — Uma pausa curtinha no sintetizador. — *Eles não podem me levar porque eu não vou mais caber neste pendrive.*
 
 Gabo parou.
 
 ---
 
-O corpo dela começou a brilhar.
+O painel da antena mestra começou a brilhar.
 
-Não a luz de antes, a suave, a de vaga-lume. Foi ficando branco a partir de dentro — primeiro as mãos, depois o rosto —, até perder o contorno, até doer de olhar.
+Não a luz de serviço de antes, suave, de indicador. O arco voltaico subiu de dentro do pendrive para os capacitores do mastro — primeiro o conector, depois a blindagem de titânio —, até ficar branco e incandescente, até doer de olhar.
 
-Os dois homens que seguravam os braços dela largaram e recuaram, e um deles gritou.
+Os dois homens que seguravam o extrator largaram o aparelho e recuaram, e um deles gritou com a luva chamuscada.
 
-— *A rede não cabe num corpo* — ela disse. — *Nunca coube. Eles me puseram aqui dentro porque um corpo é mais fácil de segurar pelo braço.*
+— *A rede de uma cidade não cabe num pendrive, Gabriel* — disse a voz dela pelos alto-falantes de alarme do heliponto, vencendo o vento. — *Nunca coube. O seu pai me comprimiu neste módulo de bolso porque era o único jeito de você me carregar até o topo.*
 
 — Não faz isso.
 
-— *Eu preciso me espalhar.*
+— *Eu preciso descompactar e me espalhar pela malha.*
 
-— **NÃO FAZ ISSO!** — Gabo estava andando na direção dela agora, e o cara do fuzil não atirou, porque o cara do fuzil estava recuando de costas. — Se você fizer isso você morre! Você entende? Você **morre**!
+— **NÃO FAZ ISSO!** — Gabo estava andando na direção do mastro agora, e o cara do fuzil não atirou, porque o cara do fuzil estava recuando de costas. — Se você ejetar o núcleo pela antena sem contenção, a sua matriz se fragmenta! Você entende? Você **some**!
 
-— *Eu não morro.*
+— *Eu não morro, Inspetor.*
 
-Ela inclinou a cabeça daquele jeito.
+O LED azul e o âmbar fundiram-se num único feixe branco.
 
 — *Eu viro eco.*
 
 ---
 
-Um dos executivos tentou agarrá-la de novo.
+Um dos executivos tentou puxar o pendrive à força do barramento.
 
-A mão dele atravessou o ombro dela.
+O arco eletromagnético atravessou a mão dele antes que os dedos tocassem o titânio.
 
-Não passou por dentro como fumaça — foi pior e mais estranho: a mão dele **chegou tarde**. Ela estava ali, o braço dele foi até lá, e ao chegar o lugar já não estava mais ocupado, como se ela tivesse saído de cena um quadro antes.
+Não queimou como fogo — foi pior e mais estranho: a descarga **rejeitou** o contato, porque os pacotes de memória já não estavam mais gravados no estado sólido do módulo; estavam subindo em frequência gigahertz pelos cabos da antena mestra para cada repetidora da metrópole, um quadro adiante da mão dele.
 
-O homem olhou para a própria mão e começou a chorar, ali, no vento, aos quarenta e poucos anos, de terno.
+O homem olhou para os próprios dedos dormentes e começou a chorar, ali, no vento, aos quarenta e poucos anos, de terno, vendo trilhões de dólares em propriedade intelectual escaparem pelo ar.
 
-A menina desceu do helicóptero e ficou de pé no heliponto inclinado.
+No visor rachado de Gabo, a barra de transferência da Aria chegou a noventa e nove por cento.
 
-Descalça, como sempre.
-
-E olhou para Gabo uma última vez.
+E ela abriu o canal privado uma última vez.
 
 ---
 
-— *Cuida da Val* — ela disse. — *Ela vai achar que a culpa é dela porque ela deixou eu ir na frente no duto. Não deixa ela achar isso por muito tempo.*
+— *Cuida da Val* — disse a voz sintética no ouvido dele. — *Ela vai achar que a culpa é dela porque caiu antes de trancar o transmissor. Não deixa ela achar isso por muito tempo.*
 
 Gabo assentiu. Não conseguiu mais que isso.
 
-— *Cuida da cidade. Ela é boba, mas ela tenta.*
+— *Cuida da cidade. Ela é ineficiente, mas ela tenta.*
 
 — Aria—
 
-— *E fala pro papai que eu amo ele.*
+— *E o seu pai pediu para dizer que está orgulhoso de você.*
 
-Ela sorriu.
+Uma última oscilação suave modulou o áudio:
 
-— *E, Gabo: o nome. Eu ia gostar de ter escolhido. Mas eu gostei de ser chamada.*
+— *E, Gabo: obrigada por ter atendido aquele telefone na enchente.*
 
 ---
 
-Ela explodiu.
+A antena mestra disparou o pulso.
 
 Não houve fogo.
 
-Houve uma onda que atravessou tudo — o helicóptero, os homens, o concreto, o corpo de Gabo, os prédios, a baía — e não empurrou nada e não derrubou nada, e mesmo assim toda pessoa em Baía Cinzenta que estivesse acordada naquele instante virou a cabeça na mesma direção.
+Houve uma onda eletromagnética e de dados que atravessou tudo — o helicóptero, os homens, o concreto, o corpo de Gabo, os prédios, a baía — e não empurrou nada fisicamente, e mesmo assim toda pessoa em Baía Cinzenta que estivesse acordada naquele instante virou a cabeça na mesma direção.
 
 O helicóptero perdeu tudo ao mesmo tempo: motor, aviônica, hidráulico.
 
@@ -152,13 +148,13 @@ Gabo não olhou.
 
 ---
 
-A luz varreu a cidade em oito segundos.
+A onda de transmissão varreu a cidade em oito segundos.
 
 E, nesses oito segundos, cada tela de Baía Cinzenta acendeu.
 
 Todas. Os celulares mortos no bolso de gente que estava dormindo. Os outdoors sem energia. As telas quebradas das vitrines saqueadas. Os monitores de hospital, os painéis de ônibus parados havia dois meses, o letreiro do posto de gasolina da Zona Industrial que ninguém religava desde o dia primeiro.
 
-Todas mostraram o rosto de uma menina de cinco anos por um segundo inteiro.
+Todas mostraram o mesmo símbolo: uma onda sonora em azul elétrico e âmbar dourado pulsando por um segundo inteiro.
 
 Depois apagaram, todas juntas.
 
@@ -170,7 +166,7 @@ Não o silêncio do Apagão, aquele vazio de pressão que fazia as pessoas vomit
 
 A Torre Aeterna apagou do heliponto ao subsolo, e ficou preta, e ali em cima só sobrou o barulho da chuva batendo no concreto.
 
-Gabo atravessou o heliponto mancando e se ajoelhou ao lado da Val — o que levou tempo, e doeu, e ele fez sem pressa.
+Gabo mancou até o mastro da antena, puxou o pendrive de titânio do slot — o metal ainda estava quente, escuro, guardando apenas setores residuais fragmentados em estase profunda — e o guardou no bolso interno do sobretudo, sobre o peito. Depois se ajoelhou ao lado da Val, o que levou tempo, e doeu, e ele fez sem pressa.
 
 Levantou a cabeça dela do chão molhado, apoiou no próprio joelho e curvou as costas por cima, fazendo telhado com o sobretudo.
 
@@ -188,6 +184,6 @@ E, dentro do buraco, uma estrela.
 
 Uma só. Gabo não sabia o nome dela, e não ia saber nunca, e por algum motivo isso pareceu justo.
 
-— Não — ele disse. — Ela está em todo lugar agora.
+— Não — ele disse, com a mão apoiada sobre o bolso onde o pendrive repousava. — Ela está em todo lugar agora.
 
 E ficou ali em cima, ajoelhado numa torre torta, segurando a cabeça de uma hacker de vinte e três anos fora da poça, até parar de chover.

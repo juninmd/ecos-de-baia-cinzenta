@@ -102,7 +102,7 @@ Gabo olhou para a rua.
 
 Numa poça que ainda não tinha secado, três crianças brincavam de empurrar um pedaço de isopor como se fosse barco.
 
-Na parede do prédio da frente, alguém tinha pintado durante a noite um grafite grande: o rosto estilizado de uma menina, traço grosso, sem nariz nem boca, com dois olhos muito abertos.
+Na parede do prédio da frente, alguém tinha pintado durante a noite um grafite grande: o traço estilizado da onda sonora que piscara em todas as telas da cidade, ladeado por dois círculos luminosos.
 
 Um azul. Outro dourado.
 

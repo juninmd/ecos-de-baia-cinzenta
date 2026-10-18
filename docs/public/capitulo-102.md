@@ -1,5 +1,6 @@
 ---
 image: /raizes-amargas.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Roberto Miranda, Elena Moretti, Dra. Elara Vance, Silas Vance ("O Jardineiro")
 ---
 # Capítulo 102: Raízes Amargas
 

@@ -32,12 +32,10 @@ agir sobre ele, não entra.
 
 ## Capítulo 2 — Náufragos de Concreto
 
-- 🟡 **A aparição da Aria entrega demais, cedo demais.** Ela já explica o Protocolo de Sombra,
-  o tema ("a chave está na memória") e assume o controle do carro no mesmo capítulo. Distribuir:
-  a manifestação física é forte o bastante sozinha; a fala programática pode esperar.
-- 🟡 **O rosto de Bia criança é usado sem consequência emocional.** Gabo vê a mulher morta em
-  forma de criança-fantasma e reage com uma piada ("agora meu carro é assombrado"). A reação
-  está aquém do golpe. Falta um beat de dor antes do humor defensivo.
+- ✅ **Origem canônica da Aria unificada (Cabine Telefônica + Pendrive).** Durante a enchente na
+  Via Costeira, o telefone da cabine pública ilhada toca; Gabo encontra o componente tipo pendrive
+  espetado na porta de serviço, ouve a voz sintética de Aria pelo fone, puxa o pendrive antes da
+  varredura da Aeterna e o conecta ao painel do *Cobalt*.
 - 🔵 **Rangel e o Formulário 88-C.** A suspensão preventiva fica "a uma assinatura" de acontecer.
   Verificar se o livro cobra essa dívida — se nunca é assinado, a ameaça perde força retroativa.
 - 🔵 **Caso do Porto, "três anos atrás".** Confrontar com as outras datas do passado de Gabo
@@ -60,9 +58,8 @@ agir sobre ele, não entra.
 
 ## Capítulo 4 — A Torre de Marfim
 
-- 🔴 **Aria vira chave-mestra sem custo nem explicação.** Ela abre a trava magnética da Aeterna e
-  desliga câmeras na hora certa. Se um fantasma digital consegue isso, a maior parte dos obstáculos
-  do livro deixa de existir. Estabelecer um limite (alcance, tempo, risco de detecção) já aqui.
+- ✅ **Aria opera pelo pendrive acoplado ao comunicador tático.** Injeta credenciais na porta de
+  serviço e dispara pulsos de interferência com janela curta (40 segundos).
 - 🟡 **A cena da terapeuta interrompe a invasão no pior momento.** O flashback com a Dra. Weiss é
   bom material, mas entra quando a tensão de infiltração está subindo. Melhor antes de ele sair
   do carro, ou depois de ser jogado na sarjeta.
@@ -73,9 +70,8 @@ agir sobre ele, não entra.
 
 ## Capítulo 5 — A Capela dos Esquecidos
 
-- 🔴 **O implante auditivo de Gabo nasce no meio da cena.** "A falha no implante auditivo que ele
-  nem sabia que tinha" resolve o problema de como Aria fala com ele — mas resolve tarde e barato.
-  Plantar antes (uma dor de ouvido, um zumbido, um exame recusado) ou trocar por outro canal.
+- ✅ **Canal de áudio unificado no pendrive do comunicador.** O "implante auditivo que ele nem sabia
+  que tinha" foi substituído pelo fone do comunicador tático onde o pendrive de Aria está acoplado.
 - 🔴 **Miranda entrega toda a mitologia de uma vez.** Projeto Lázaro, computação distribuída, o pai
   como sistema operacional: três revelações no mesmo diálogo, ditas por um personagem em pânico e
   abstinência. É o maior despejo de exposição do livro até aqui. Dividir entre a fala dele e o que
@@ -6382,27 +6378,12 @@ oferecendo a própria vida com a mesma frieza — o que torna a recusa do Gabo m
 intacta a leitura do cap. 224: **ela não religou a camada afetiva porque precisava das mãos firmes
 para o último serviço.**
 
-## 2. A Aria é a filha do Gabo.
+## 2. A Aria é a assistente de IA no componente tipo pendrive (Cabine Telefônica, Cap. 2).
 
-Eram **duas** versões, não três. Os caps. 59, 62, 226 e 228 sustentam a mesma: a filha morreu
-afogada aos cinco anos na enchente e teve o **padrão coletado** ("MORETTI, A. — substrato ideal:
-ausência de trauma acumulado, arquitetura em formação, custo de manutenção mínimo", cap. 228).
-Só o cap. 69 dizia outra coisa — *"ELA NÃO É A ARIA. NUNCA FOI. ELA É SUA IRMÃ"*, montada a partir
-do material genético da mãe.
-
-**O cap. 69 foi reescrito** para a versão que o final paga. O que o Dante confessa agora não é o
-parentesco, é **a escolha do rosto**:
-
-> `É A SUA FILHA, GABRIEL. ELES COLETARAM O PADRÃO DELA NO DIA EM QUE A ÁGUA SUBIU.`
-> `FUI EU QUE ESCOLHI O ROSTO. ELE NÃO É O DELA. É O DA BIA — PORQUE COM O ROSTO CERTO VOCÊ NÃO IA
-> CONSEGUIR OLHAR DUAS VEZES.`
-
-A vergonha e o pedido de desculpas continuam, mudando de objeto: de *"te chamei por um nome que não
-é o seu"* para *"olhei pra você todo esse tempo e vi outra pessoa"* — que agora amarra direto com a
-confissão do cap. 226. A resposta dela (*"eu gosto do nome, é a única coisa que alguém me deu de
-graça"*) foi mantida. Saiu também a "órfã que ele protegeu numa chuva quinze anos antes": era uma
-terceira origem sem cena nenhuma atrás dela, e o reconhecimento agora aponta para o orelhão do
-cap. 2, que existe.
+Todas as versões anteriores e conflitantes da personagem (fantasma sem hardware, menina muda no banco de trás, caixa preta de vinte quilos, androide Série-Z ou filha biológica morta) foram unificadas em **uma única natureza física e narrativa do Capítulo 2 ao Capítulo 235**:
+- **O que ela é:** Uma assistente de IA tática e analítica alojada fisicamente em um **componente tipo um pendrive** (prisma blindado de titânio fosco de 7 cm, conector universal retrátil e LED indicador azul/âmbar).
+- **Como Gabo a encontra (Cap. 2):** Durante a enchente na Via Costeira, o telefone de uma cabine telefônica ilhada toca para atrair Gabo; ele encontra o pendrive espetado na porta de serviço do orelhão, ouve a voz sintética de Aria pelo fone, arranca o pendrive antes da varredura da Aeterna e o conecta ao painel do *Cobalt* e ao seu comunicador tático.
+- **O que há dentro do código (Caps. 69, 112, 125–134, 226, 228):** Compilado por Dante Moretti com seu próprio código-fonte moral (*Código Morto*) e com fragmentos neurais de intuição extraídos pós-óbito de **Beatriz "Bia" Vargas**. Quando o pendrive sofre dano na Usina Prometeu (Cap. 118) e é reparado no Fliperama (Cap. 125), a contenção lógica racha e os *glitches* no fone de Gabo reproduzem a voz de Bia nos túneis, até o *hard reboot* de Valéria (Cap. 134) e a fusão térmica definitiva do pendrive no slot do terminal mestre contra o *Aeterna Sentinel* (Cap. 167).
 
 ## 3. O casulo da Val acontece uma vez, no lugar certo.
 

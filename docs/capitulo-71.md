@@ -3,7 +3,7 @@ layout: doc
 title: "Capítulo 71: Marco Zero"
 description: "Gabo larga a arma no meio de uma luta que não pode vencer e tenta a única coisa que ninguém tentou com o Santo: chamá-lo pelo nome."
 image: /capitulo_71.jpg
-Personagens Presentes: Marco Moretti, Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Kael "O Cirurgião", Aria Moretti
+Personagens Presentes: Marco Moretti, Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Kael "O Cirurgião", Aria
 ---
 
 # Capítulo 71: Marco Zero
@@ -28,15 +28,15 @@ O Santo não vacilou.
 
 ---
 
-Val correu pelo corredor lateral, agachada, com destroços caindo do teto, e chegou ao console principal com o deck já na mão.
+Val correu pelo corredor lateral, agachada, com destroços caindo do teto, e chegou ao console principal com o deck já na mão, espetando o pendrive de titânio da Aria diretamente no barramento mestre do Hub.
 
-A menina ficou parada no meio da sala.
+No centro geométrico da sala, os alto-falantes do teto ganharam vida ao mesmo tempo.
 
-No meio mesmo. Com os dois pés no chão e as mãos ao lado do corpo, no centro geométrico do Hub, com a batalha acontecendo em volta dela e nada tocando nela.
+O pequeno módulo no console brilhava com intensidade máxima, indiferente à batalha acontecendo em volta dele.
 
-Os olhos estavam acesos. O azul e o dourado, os dois, iluminando o próprio rosto de baixo para cima.
+O LED duplo estava aceso — o azul elétrico e o âmbar dourado, os dois — iluminando o teclado e o rosto de Valéria de baixo para cima.
 
-— *Kael* — ela disse.
+— *Kael* — disse a voz sintética da Aria pelo sistema de som da sala.
 
 E o gigante hesitou.
 
@@ -102,11 +102,11 @@ O Santo parou de atacar.
 
 Simplesmente parou, no meio de um passo, e virou o corpo inteiro para a tela onde o prefeito aparecia.
 
-— *SANTO!* — gritou Marco. — *Executa o Protocolo Sansão. Derruba a Torre. Elimina todos os presentes, incluindo a unidade infantil. AGORA.*
+— *SANTO!* — gritou Marco. — *Executa o Protocolo Sansão. Derruba a Torre. Elimina todos os presentes e esmaga o drive dessa IA. AGORA.*
 
 O gigante olhou para a tela.
 
-Depois virou a cabeça e olhou para a menina.
+Depois virou a cabeça e olhou para o brilho azul-dourado do pendrive da Aria espetado no console.
 
 E ficou assim.
 

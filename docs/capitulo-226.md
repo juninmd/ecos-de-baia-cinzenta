@@ -85,53 +85,53 @@ O sol subiu mais um pouco. Elias começou a organizar as caixas com a Vance, e a
 
 — Pergunta.
 
-— Quem é Aria?
+— O que tinha de verdade naquele pendrive da Aria?
 
 Eu fechei os olhos.
 
-— Eu ouvi. — Ela continuou, e a voz dela estava firme demais, do jeito que fica quando alguém ensaiou. — Nos quatro anos. Nos relatos que chegaram de dentro da cúpula. Sobreviventes falando do detetive maneta que andava com uma menina de metal. E o nome da menina era o nome da nossa filha.
+— Eu ouvi, — ela continuou, e a voz dela estava firme demais, do jeito que fica quando alguém ensaiou. — Nos quatro anos. Nos relatos que vieram dos túneis e nas conversas pela metade da Valéria. Todo mundo achava que a IA que você tirou daquela cabine telefônica na enchente era só um módulo tático do papai. Só um pendrive blindado abrindo porta e calculando rota.
 
 — Elena—
 
-— **Eu enterrei ela, Gabriel.** — Ela não gritou. Foi pior. — Eu enterrei ela sozinha porque você não foi. Eu escolhi o caixão, eu escolhi a roupa, eu escolhi a música, e você ficou trabalhando. E quatro anos depois eu descubro que você estava andando pela cidade conversando com uma máquina que atendia pelo nome dela.
+— **Eu enterrei a nossa mãe sozinha no Dilúvio, Gabriel.** — Ela não gritou. Foi pior. — Eu enterrei a Helena enquanto você caçava fantasma pela cidade com aquele componente espetado no comunicador. E hoje de manhã a Valéria deixou escapar o que aconteceu quando o pendrive trincou na Usina Prometeu. Que quando o filtro sintético da IA falhou nos túneis, a voz que saía do pendrive no seu ouvido não era de máquina nenhuma.
 
 O galpão estava muito silencioso.
 
-— Ela não atendia pelo nome dela, — falei.
+— Era a voz da Bia, — falei.
 
 — Como assim?
 
 E eu contei.
 
-Contei tudo, sem parar, sem enfeitar, do jeito que eu deveria ter contado no dia do enterro. Que a voz apareceu no meu implante quando eu nem sabia que tinha um implante. Que ela sabia coisas que só a nossa filha saberia, e que eu passei três anos achando que estava enlouquecendo. Que ela ganhou um corpo e não falava. Que ganhou outro corpo e falava demais.
+Contei tudo, sem parar, sem enfeitar, do jeito que eu deveria ter contado anos atrás. Que na primeira semana do caso, com a Via Costeira alagada, o telefone de uma cabine pública tocou no meio da enchente e eu encontrei um componente tipo pendrive espetado na porta de serviço do orelhão. Que a assistente de IA lá dentro atendia por Aria e trazia o código moral que o nosso pai escondeu antes de ser processado. E que, quando os barramentos do pendrive queimaram na Usina Prometeu e a Valéria soldou uma ponte improvisada no Fliperama, a contenção lógica rachou e eu descobri de onde a Aeterna tinha tirado os parâmetros de intuição daquele código.
 
-E que o rosto não era o da Aria.
+Do cérebro da Beatriz Vargas.
 
-— Eles tinham o rosto dela, Elena. Estava no arquivo. Eles tinham a menina inteira em arquivo e escolheram não usar. — Minha voz saiu errada. — Eles puseram o rosto da Bia. Da Bia com sete anos.
+— Eles mineraram o córtex dela no necrotério, Elena. Estava nos setores profundos do drive. Eles pegaram os reflexos e a voz da mulher que morreu no meu lugar e usaram como argamassa para compilar um módulo de assistência tática. — Minha voz saiu errada. — Cada vez que o pendrive aquecia e dava *glitch* no meu fone lá embaixo, era a Bia falando comigo no escuro.
 
 Elena levou a mão à boca.
 
 — Por quê?
 
-— Porque assim eu olhava para a minha filha e via a mulher que eu não salvei. — Eu ri, e foi um som horroroso. — Duas culpas no mesmo rosto. Alguém sentou numa mesa e decidiu isso. Alguém aprovou.
+— Porque para a Aeterna nada se perde, nem o remorso de um policial. — Eu ri, e foi um som horroroso. — O código do nosso pai e a voz da parceira que eu não salvei, trancados num pedaço de titânio de sete centímetros. Alguém sentou numa mesa de laboratório e achou que aquilo era otimização de recursos.
 
 — Meu Deus.
 
-— E eu deixei. — Ali estava. A coisa que eu nunca disse em voz alta. — Eu deixei, Elena. Porque enquanto ela existisse com aquele rosto, ela existia. E eu preferi a minha filha com a cara errada do que não ter a minha filha.
+— E eu deixei o pendrive plugado. — Ali estava. A coisa que eu nunca disse em voz alta. — Mesmo sabendo que a falha de memória ia travar o sistema no meio do combate, eu adiei o reset, Elena. Porque enquanto aquele pendrive falhasse no meu ouvido, a voz dela ainda existia. E eu preferi ouvir um fantasma quebrado num pedaço de silício do que aceitar que ela tinha acabado.
 
 Elena chorou. Sem som, do jeito dela, com o queixo travado e as lágrimas descendo retas.
 
-— Onde ela está?
+— Onde está o pendrive agora?
 
-— Subnível 2.0. Arquivo Executivo. — Engoli. — Ela derrubou o próprio firewall para nos abrir caminho. Eu autorizei. Eu estava a três metros e eu autorizei, e ela queimou, e o concreto embaixo dela chiou.
+— Subnível 2.0. Arquivo Executivo. — Engoli. — A Valéria teve que formatar a camada emocional no laboratório do Taxidermista para a gente não morrer, e lá embaixo, contra o Sentinel, a Aria derrubou o próprio firewall dentro do slot do terminal mestre para nos abrir caminho. Eu autorizei. Eu estava a três metros e eu autorizei, e o pendrive derreteu até virar escória preta na tomada de dados.
 
-— Você perdeu ela duas vezes.
+— Você perdeu as duas de novo.
 
-— Eu perdi ela duas vezes.
+— Eu perdi as duas de novo.
 
 Ficamos ali. O sol continuou subindo, indiferente como sempre.
 
-E então a mão dela encontrou a minha — a única que sobrou — e ficou lá. Não como quem volta. Como quem carrega junto.
+E então a mão dela encontrou a minha — a única que sobrou — e ficou lá. Não como quem apaga o estrago. Como quem carrega junto.
 
 ---
 

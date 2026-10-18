@@ -3,7 +3,7 @@
 ## Avaliação Técnica
 - **Ritmo:** 8/10 - Focado em exposição para explicar a ameaça e a solução final.
 - **Diálogos:** 9/10 - A explicação do DNA como "Disco Rígido Biológico" faz total sentido com o universo do livro e é sci-fi da mais alta qualidade.
-- **Atmosfera:** 9/10 - O peso da escolha no final ("minha irmã ou a humanidade") traz tensão emocional fortíssima.
+- **Atmosfera:** 9/10 - O peso da escolha no final (queimar o núcleo da Aria no pendrive ou perder a humanidade) traz tensão emocional fortíssima.
 
 ## Pontos Fortes e Fracos
 **Fortes:**
@@ -16,7 +16,7 @@
 
 ## Sanity Check
 - [x] O trauma/aversão fóbica de Gabo a fumo está respeitado? Sim, apenas café com "gosto de ferrugem".
-- [x] A temporalidade das personagens está correta? Sim. Aria referida como irmã.
+- [x] A temporalidade das personagens está correta? Sim. Aria mantida como a IA tática no pendrive de titânio.
 - [x] A história é coerente? Sim.
 - [x] Não contém mocks? Sim.
 

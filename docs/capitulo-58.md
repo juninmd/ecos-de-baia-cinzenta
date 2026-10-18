@@ -84,7 +84,7 @@ Vilar olhou para o vidro do copo.
 
 — Em troca de quê?
 
-— Da localização atual de Gabriel Moretti. — Miranda falou tranquilo. — E da garota que está com ele.
+— Da localização atual de Gabriel Moretti. — Miranda falou tranquilo. — E do drive neural da Aria que ele tirou daquela cabine telefônica na enchente.
 
 ---
 
@@ -96,9 +96,9 @@ Depois olhou a parede.
 
 Havia duas fotos ali. Uma era a formatura dele, em oitenta e nove, quarenta e um sujeitos de branco olhando para uma câmera que exigia parar quieto por dois segundos. A outra era Dante Moretti recebendo a comenda de comissário, em dois mil e um, com a mão no ombro de um Jonas Vilar de quarenta anos, magro, com cabelo.
 
-— Você está me pedindo — disse Vilar, devagar — para entregar o filho do meu melhor amigo para ser morto.
+— Você está me pedindo — disse Vilar, devagar — para entregar o filho do meu melhor amigo para ser morto por causa de um componente do tamanho de um pendrive.
 
-— Eu estou pedindo o endereço. O que acontece depois não é responsabilidade sua, e você sabe disso melhor do que eu.
+— Eu estou pedindo o endereço e o módulo. O que acontece depois não é responsabilidade sua, e você sabe disso melhor do que eu.
 
 — Sei?
 
@@ -106,7 +106,7 @@ Havia duas fotos ali. Uma era a formatura dele, em oitenta e nove, quarenta e um
 
 — Um favor.
 
-— Encerraria o sofrimento dele, e o da menina, e o de quem mais estiver por perto quando aquele homem resolver entrar numa sala. — Miranda apontou com o queixo. — Você viu o que ele fez na Avenida da Indústria.
+— Encerraria o sofrimento dele, devolveria o código-mestre ao Consórcio e pouparia quem mais estiver por perto quando aquele homem resolver entrar numa sala. — Miranda apontou com o queixo. — Você viu o que ele fez na Avenida da Indústria.
 
 E essa foi a única coisa que Miranda disse naquela noite que doeu de verdade, porque era verdade.
 

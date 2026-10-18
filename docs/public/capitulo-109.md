@@ -1,5 +1,6 @@
 ---
 image: /cenas/cidade.jpg
+Personagens Presentes: Inspetor Rangel, Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Dante Moretti, Aria
 ---
 # Capítulo 109: Frequência Fantasma
 
@@ -21,29 +22,27 @@ O drone pairava a dois metros dele, imóvel como uma mosca presa em âmbar. As l
 
 Rangel olhou para cima, para o guindaste.
 
-Nada. Só a chuva e o ruído do metal. Por um segundo, ele jurou ter visto uma silhueta onde não havia ninguém. Piscou. A imagem se dissolveu. Ele se forçou a respirar, lembrando-se de que estava exausto, ferido e cercado por máquinas.
+Nada. Só a chuva ácida estalando no metal enferrujado. Ele se forçou a respirar, lembrando-se de que estava exausto, ferido e cercado por máquinas.
 
-Antes que Rangel pudesse processar a loucura daquela frase, uma parede de metal à esquerda deles explodiu.
+Antes que Rangel pudesse processar a loucura daquela falha, uma parede de metal à esquerda deles explodiu.
 
 *CRAAAASH!*
 
 Um contêiner azul foi arremessado para o lado como se fosse feito de papelão. Através da poeira e da chuva, uma besta de metal negro surgiu.
 
-O blindado de controle de distúrbio — o "Rinoceronte" — rugiu, seu motor a diesel engasgando fumaça preta. A lataria estava amassada, marcas de garras e tiros decoravam a pintura fosca, e o farol direito estava pendurado por um fio.
+O blindado de controle de distúrbio — o "Rinoceronte" — rugiu, seu motor a diesel engasgando fuligem escura. A lataria estava amassada, marcas de garras e tiros decoravam a pintura fosca, e o farol direito estava pendurado por um fio.
 
 A porta lateral se abriu com um chute mecânico.
 
 — Rangel! Entra! Agora! — A voz de Gabo era um trovão rouco.
 
-Gabo estava pendurado na porta, segurando-se com uma mão enquanto a outra empunhava a *Caronte*, sua escopeta de cano serrado. Ele parecia um demônio saído do inferno: encharcado, com o rosto manchado de graxa e sangue seco, e as "órteses" nas pernas chiando a cada movimento.
+Gabo estava pendurado na porta, segurando-se com uma mão enquanto a outra empunhava a *Caronte*, sua escopeta de cano serrado. Ele parecia um demônio saído do inferno: encharcado, com o rosto manchado de graxa e sangue seco, e as órteses nas pernas chiando a cada movimento.
 
-— Gabo? — Rangel olhou para a menina, depois para o blindado. — Mas o que diabos...
+— Gabo? — Rangel olhou para o drone congelado no ar, depois para o blindado. — Mas o que diabos...
 
-— Sem perguntas! A "zona de silêncio" do bloqueador não vai durar pra sempre! — gritou Valéria do banco do motorista. Ela usava óculos de realidade aumentada conectados a cabos que entravam diretamente no painel do veículo. — O Dante está reescrevendo o firewall dos drones em tempo real! Temos trinta segundos antes que eles reiniciem como *kamikazes*!
+— Sem perguntas! A "zona de silêncio" da Aria não vai durar pra sempre! — gritou Valéria do banco do motorista. Ela usava óculos de realidade aumentada conectados ao seu cyberdeck *Phantom V3*, onde um drive neural blindado de titânio fosco — do tamanho de um pendrive pesado — pulsava freneticamente com um LED azul-intenso. — O Dante está reescrevendo o firewall dos drones em tempo real! Temos trinta segundos antes que eles reiniciem como *kamikazes*!
 
-Rangel se lançou para dentro do blindado, agarrando o corrimão da porta lateral com a mão encharcada.
-
-Rangel saltou para dentro por último.
+Rangel se lançou para dentro do blindado, agarrando o corrimão da porta lateral com a mão encharcada e caindo sobre o piso de chapa lavrada.
 
 — Vai, Val! Tira a gente daqui! — Gabo bateu na lataria.
 
@@ -63,17 +62,17 @@ Gabo caiu no banco de metal oposto a Rangel, respirando com dificuldade. Ele bat
 
 — Você está bem? — Gabo perguntou, gritando sobre o rugido do motor.
 
-Rangel ignorou a pergunta. Ele apontou um dedo trêmulo para a caixa blindada no fundo do veículo, presa com cintas no assoalho. Os cabos que saíam dela vibravam como nervos expostos.
+Rangel ignorou a pergunta. Ele apontou um dedo trêmulo para o console adaptado ao lado do painel do veículo, onde o pendrive de titânio fosco e polímero negro estava espetado num barramento de alto ganho. Do alto-falante tático acoplado ao deck de Valéria, uma voz sintética relatou a telemetria de fuga — mas sob a cadência analítica da IA, Rangel ouviu um timbre residual que gelou seu sangue: um eco das frequências vocais de Beatriz Vargas.
 
-— Gabo — Rangel disse, a voz perigosamente calma. — O que é isso?
+— Gabo — Rangel disse, a voz perigosamente calma. — O que é aquilo espetado no painel?
 
-Gabo passou a mão pelo rosto molhado, limpando a água dos olhos. Ele trocou um olhar rápido com Valéria, que estava ocupada demais desviando de crateras para intervir.
+Gabo passou a mão pelo rosto molhado, limpando a água dos olhos. Ele olhou para o pequeno cilindro blindado com o LED azul piscando — a assistente de IA tática que ele havia resgatado de uma cabine telefônica submersa no começo da enchente, e que despertara de seu modo de isolamento após o Grande Silêncio.
 
-— É o Código Morto — Gabo disse, a voz pesada como chumbo.
+— É a Aria. E dentro dela roda o Código Morto — Gabo disse, a voz pesada como chumbo.
 
-— E foi isso que travou três drones de combate? — Rangel riu, um som sem humor. — Quem tem esse tipo de poder?
+— Aquela unidade de bolso travou três drones de combate? — Rangel riu, um som sem humor, encarando o pendrive. — E por que diabos a voz dela soa como a Bia?
 
-— Algo que pode matar o Dante — disse Valéria lá da frente, fazendo uma curva brusca que jogou todos contra a parede lateral. — Ou salvar ele. Ainda não decidimos.
+— Porque a Aeterna nunca jogava nada fora, nem os mortos — disse Valéria lá da frente, fazendo uma curva brusca que jogou todos contra a parede lateral. — E o que está gravado nesse drive pode matar o Dante. Ou salvar a cidade. Ainda não decidimos.
 
 O rádio do painel do Rinoceronte, que estava em silêncio, de repente chiou.
 

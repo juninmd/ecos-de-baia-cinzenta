@@ -15,7 +15,7 @@
 
 ## Sanity Check
 - [x] O trauma/aversão fóbica de Gabo a fumo está respeitado? Sim, sem presenças de fumaça, apenas a "fuligem" da explosão.
-- [x] A temporalidade das personagens está correta? Sim. Aria se reconhece como "filha" metaforicamente na despedida.
+- [x] A temporalidade das personagens está correta? Sim. Aria atua como a parceira e IA tática no pendrive de titânio espetado na Árvore-Mãe, sem desvios de parentesco.
 - [x] A história é coerente? Sim.
 - [x] Não contém mocks? Sim.
 

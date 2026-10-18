@@ -89,7 +89,7 @@ Balas de grosso calibre rasgaram o metal dos servidores, chovendo faíscas sobre
 
 — *Eu não consigo!* — Val estava chorando de frustração. — *O sistema dele é fechado! Air-gapped! Nada entra!*
 
-— *Use o ambiente!* — A voz digital de Aria cortou a transmissão, fria e precisa. — *Nitrogênio.*
+— *Use o ambiente, detetive!* — A voz sintética de Aria cortou a transmissão direto do pendrive acoplado ao comunicador de Gabriel, fria e precisa, enquanto o metal aquecia no bolso. — *Tubulação superior. Nitrogênio líquido.*
 
 Gabriel olhou para cima. Tubulações grossas corriam pelo teto, cobertas de gelo. Nitrogênio líquido para resfriar os processadores biológicos.
 

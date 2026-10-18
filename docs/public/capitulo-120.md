@@ -1,25 +1,25 @@
-# Metadados
+## Metadados
 - **Título:** O Silêncio de Aeterna
 - **Data In-Game:** 23 de Novembro, 00:15
 - **Localização:** Distrito Industrial - Perímetro Externo da Usina Prometeu
 - **Personagens Presentes:** Gabo Moretti, Valéria Cruz, Inspetor Rangel, Aria (Inerte).
-- **Resumo:** O grupo enfrenta a realidade brutal de uma cidade sem energia e sem lei. Rangel sucumbe aos ferimentos. Gabo utiliza habilidades analógicas para garantir um meio de transporte e manter a coesão do grupo em meio ao caos silencioso.
+- **Foco:** O grupo enfrenta a realidade brutal de uma cidade sem energia e sem lei. Rangel sucumbe aos ferimentos. Gabo utiliza habilidades analógicas para garantir um meio de transporte e manter a coesão do grupo em meio ao caos silencioso.
 
-# Narrativa
+## Narrativa
 
 # Capítulo 120: O Silêncio de Aeterna
 
 A chuva não era mais apenas água. Era um véu frio que lavava o pecado da cidade, transformando a fuligem em lama negra sob suas botas.
 
-Gabo ajustou o peso de Aria em seu ombro. O metal do chassi da androide estava escorregadio. Ao seu lado, Valéria ofegava, o cabelo colado no rosto, lutando para manter o ritmo. Eles eram um cortejo fúnebre sem cadáver, arrastando uma casca vazia pela avenida deserta.
+Gabo ajustou o peso de Rangel sobre seu ombro. O Kevlar ensanguentado do inspetor estava escorregadio. Do outro lado, Valéria ofegava, o cabelo colado no rosto, lutando para sustentar o braço direito do policial enquanto o pendrive inerte da Aria ia guardado no bolso blindado do sobretudo de Gabo. Eles eram um cortejo fúnebre recusando-se a aceitar o cadáver, arrastando um homem ferido pela avenida deserta.
 
-Mas o que realmente pesava não era a androide. Era o silêncio.
+Mas o que realmente pesava não era apenas o corpo de Rangel. Era o silêncio.
 
-Baía Cinzenta sempre teve um som. Um zumbido de fundo, uma vibração constante de servidores, trens magnéticos, drones e hologramas gritando ofertas de felicidade sintética. Agora, não havia nada. Apenas o *tap-tap-tap* da chuva no asfalto rachado e a respiração rouca de Rangel atrás deles.
+Baía Cinzenta sempre teve um som. Um zumbido de fundo, uma vibração constante de servidores, trens magnéticos, drones e hologramas gritando ofertas de felicidade sintética. Agora, não havia nada. Apenas o *tap-tap-tap* da chuva no asfalto rachado e a respiração rouca de Rangel entre eles.
 
-— Pare... — Rangel grunhiu, tropeçando. Ele caiu de joelhos na lama, a mão pressionando o buraco no ombro. O sangue escuro se misturava com a água da sarjeta.
+— Parem... — Rangel grunhiu, as pernas falhando de vez. Ele escorregou para a lama, a mão pressionando o buraco no ombro. O sangue escuro se misturava com a água da sarjeta.
 
-Gabo e Valéria pararam, soltando Aria com cuidado no chão.
+Gabo e Valéria pararam, amparando Rangel com cuidado contra um poste apagado.
 
 — Rangel — Gabo se ajoelhou ao lado dele. A pele do inspetor estava cinza, fria ao toque. — Aguenta firme. O Fliperama não é longe.
 
@@ -29,9 +29,9 @@ Gabo olhou ao redor. A escuridão era absoluta, quebrada apenas pelos relâmpago
 
 — Não podemos ficar aqui — disse Valéria, sua voz tremendo levemente. Ela olhava para as sombras com a paranoia de quem sabe o que vive no escuro. — Sem a vigilância da Aeterna, as gangues vão sair das tocas. Os Saqueadores...
 
-— Ela tem razão — Gabo se levantou, os servomotores de suas órteses nas pernas rangendo com o esforço, o peso do dano físico cobrando seu preço. Uma alucinação olfativa repentina de fumaça sufocante invadiu suas narinas, um eco traumático do desespero.
+— Ela tem razão — Gabo se levantou. Seus dedos tamborilaram nervosamente contra a coxa, o tique antigo disparando enquanto a lembrança traumática da fumaça da Usina ainda arranhava sua garganta.
 
-Ele fechou os olhos e apertou o *Colar de Sol* contra o esterno até as arestas cortarem a pele. A dor aguda varreu a alucinação: *Dor é realidade.*
+Ele fechou os olhos e apertou o *Colar de Sol* contra o esterno, logo acima do bolso onde repousava o drive silencioso da Aria. A queimadura fria do metal foi um lembrete: *Dor é realidade. Desespero é fuga.*
 
 Ele abriu os olhos. Focou.
 
@@ -53,13 +53,13 @@ Ele tateou sob o painel, puxando os fios da ignição. Vermelho no vermelho. Ter
 
 — Vamos, sua lata velha... — sussurrou.
 
-Uma faísca. O motor tossiu, engasgou e, com um rugido sujo e vibrante, ganhou vida. Vapor espesso de diesel, escuro e tóxico, saiu pelo escape.
+Uma faísca. O motor tossiu, engasgou e, com um rugido sujo e vibrante, ganhou vida. Fumaça de diesel, preta e tóxica, saiu pelo escape.
 
 Gabo sorriu. Um sorriso triste, de canto de boca.
 
-— Valéria, coloque a Aria na caçamba. Rangel, cabine.
+— Valéria, me ajuda a colocar o Rangel na cabine.
 
-O transporte foi brutal e rápido. Valéria e Gabo içaram o corpo da androide para a traseira do guincho. Rangel se arrastou para o banco do carona, segurando a pistola no colo, os olhos semicerrados.
+O transporte foi brutal e rápido. Valéria e Gabo ergueram o inspetor ferido para o banco do carona; Rangel tombou contra o encosto, segurando a pistola no colo com os olhos semicerrados, enquanto Valéria se espremia no assento central e espetava o pendrive chamuscado da Aria no seu deck para monitorar a temperatura do núcleo.
 
 Gabo assumiu o volante. A vibração do motor percorria seus braços, uma sensação tátil, real, mecânica. Sem assistência de direção, sem navegação por satélite, sem limitador de velocidade.
 

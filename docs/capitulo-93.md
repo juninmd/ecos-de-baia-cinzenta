@@ -138,19 +138,19 @@ Era uma peça velha de família, aço inoxidável de qualidade alta, e tinha res
 
 Val e Nise vieram atrás dele.
 
-— O servidor está pronto? — perguntou.
+— O berço de injeção está pronto? — perguntou.
 
-— O código está carregado — disse Val. — Compilado, testado no que dá para testar, empacotado no que sobrou dela. — Ela cruzou os braços. — Mas, Gabo, ele não dispara daqui.
+— O Código Morto está carregado no pendrive da Aria — disse Val. — Compilado, testado no que dá para testar, empacotado nos setores que sobraram do drive de titânio. — Ela cruzou os braços. — Mas, Gabo, ele não dispara daqui.
 
 — Por quê?
 
-— Porque a Raiz não aceita instrução por rádio, e a interferência biológica do Sol Negro come qualquer sinal em quatrocentos metros. — Ela apontou o horizonte, onde a esfera pulsava por cima do Memorial, maior do que na véspera. — O vírus tem que ser injetado na fonte, com contato físico.
+— Porque a Raiz não aceita instrução por rádio, e a interferência biológica do Sol Negro come qualquer sinal em quatrocentos metros. — Ela apontou o horizonte, onde a esfera pulsava por cima do Memorial, maior do que na véspera. — O pendrive tem que ser espetado na interface neural da fonte, com contato físico e descarga de alta tensão.
 
 Gabo assentiu devagar.
 
-— Então a gente leva o servidor até lá.
+— Então a gente leva o pendrive e as baterias de pulso até lá.
 
-— **Até o Memorial?** — Val arregalou os olhos. — Gabo, é o coração da besta. E aquela caixa pesa cinquenta quilos, e a gente atravessa quatro quilômetros de zona ativa com ela nas costas, com seiscentas pessoas atrás e um homem que não anda direito!
+— **Até o Memorial?** — Val arregalou os olhos. — Gabo, é o coração da besta. E o banco de baterias do berço de injeção pesa cinquenta quilos, e a gente atravessa quatro quilômetros de zona ativa levando o pendrive da Aria até lá, com seiscentas pessoas atrás e um homem que não anda direito!
 
 — Então é melhor a gente começar a treinar.
 

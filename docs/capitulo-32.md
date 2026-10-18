@@ -124,17 +124,17 @@ Gente de joelhos, vomitando na água. Uma mulher de tailleur sentada no chão de
 
 ---
 
-E havia o outro silêncio, e esse era só dele.
+E havia o outro silêncio, e esse vinha do bolso do sobretudo dele.
 
-O espaço que Aria ocupava dentro da cabeça de Gabriel Moretti tinha se transformado num buraco de estática.
+O componente tipo pendrive onde Aria operava — a peça de titânio fosco que Gabriel tirara da cabine telefônica na enchente e que desde então nunca saíra de seu comunicador tático — tinha esfriado completamente. O LED azul estava apagado; no fone auricular, restara apenas um buraco de estática.
 
-Sem rede, sem sinal, sem a voz. Nenhum comentário sarcástico sobre a maneira como ele descia escada. Nenhuma correção sobre o número do andar. Nada.
+Sem rede, sem telemetria, sem a voz sintética da assistente de IA. Nenhum cálculo frio sobre a maneira como ele descia a escada. Nenhuma correção sobre o número do andar ou a integridade estrutural do prédio. Nada.
 
-Pela primeira vez em anos, ele estava sozinho dentro da própria cabeça, e a experiência foi tão insuportavelmente parecida com a de nove anos antes — a semana depois do enterro, o apartamento, a sensação física de um cômodo a mais na casa — que ele teve de encostar a testa no pilar frio e ficar assim por dez segundos.
+Pela primeira vez desde aquela noite na cabine telefônica alagada, o canal tático estava mudo, e o vazio repentino no ouvido foi tão abrupto — tão parecido com o silêncio do rádio policial nos minutos depois que Bia Vargas levou o tiro no beco — que ele teve de encostar a testa no pilar frio e ficar assim por dez segundos, apertando o pendrive inerte entre os dedos.
 
-Elena tocou o braço dele.
+Elena tocou o braço dele, olhando para o pequeno módulo metálico no comunicador.
 
-— Ela volta?
+— A IA do pendrive... ela volta?
 
 — Não sei.
 

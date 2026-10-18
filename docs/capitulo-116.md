@@ -1,6 +1,6 @@
 ---
 image: /cenas/cidade.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Aria Moretti, Valéria "Val" Cruz, Inspetor Rangel, Dante Moretti, O Taxidermista
+Personagens Presentes: Gabriel "Gabo" Moretti, Aria, Valéria "Val" Cruz, Inspetor Rangel, Dante Moretti, O Taxidermista
 ---
 # Capítulo 116: Pressão Crítica
 
@@ -14,13 +14,13 @@ O jato de vapor superaquecido atingiu os sensores óticos e térmicos do corredo
 
 Gabo sentiu o calor lamber seu rosto através do lenço improvisado. Era úmido, pesado, com gosto de metal fervido.
 
-— Aria! Visão térmica! — Valéria gritou, tossindo.
+— Aria! Filtra a visão térmica no meu visor! — Valéria gritou para o microfone de garganta, tossindo enquanto erguia o *Phantom V3* no meio da névoa branca.
 
-A androide estava parada no meio do inferno branco, imune à dor, mas não à física. O fluxo de vapor fazia seu manto térmico ondular violentamente.
+No barramento lateral do deck, o pendrive blindado de titânio da Aria piscava freneticamente em azul, compensando o ruído térmico dos sensores de Valéria.
 
-— Sensores saturados — a voz de Aria cortou o ruído, plana e sem pânico. — Eficiência visual reduzida a 12%. Detectando rota de fuga pela ventilação de serviço. Setor Norte. Sigam meu sinal.
+— *Sensores externos saturados* — a voz de Aria cortou o ruído nos fones de ambos, plana e sem pânico. — *Eficiência visual reduzida a 12%. Mapeando rota de fuga por sonar acústico na ventilação de serviço. Setor Norte. Sigam o vetor projetado no HUD.*
 
-Uma luz azul pulsou nas costas de Aria. Gabo empurrou Valéria naquela direção.
+Uma seta de luz azul piscou nos óculos de Valéria e no comunicador de Gabo. Ele empurrou Valéria naquela direção.
 
 — Vá! Não pare por nada.
 
@@ -28,11 +28,11 @@ Eles rastejaram. O chão de grade metálica estava quente o suficiente para quei
 
 — *Interessante* — a voz do Taxidermista ecoou nos alto-falantes, distorcida pela estática, mas ainda irritantemente calma. — *Você luta como um animal encurralado, Gabriel. Destruindo a própria jaula, mesmo que os estilhaços o cortem. Dante sempre disse que sua imprevisibilidade era um defeito. Eu começo a achar que é sua única qualidade.*
 
-Gabo ignorou. Ele chutou uma grade de ventilação que Aria havia enfraquecido com um pulso magnético. O metal cedeu com um *clang* surdo.
+Gabo ignorou. Ele chutou uma grade de ventilação cuja trava magnética Aria havia acabado de sobrecarregar através do emissor de pulso do deck de Valéria. O metal cedeu com um *clang* surdo.
 
 — Dentro. Rápido.
 
-O duto de manutenção era um pesadelo claustrofóbico de cabos e graxa velha. Valéria entrou primeiro, rastejando sobre os cotovelos. Aria foi em seguida. Gabo entrou por último, girando o corpo para cobrir a retaguarda com a escopeta. Sua perna direita travou — um espasmo agudo onde o metal encontrava o osso. Ele grunhiu, mordendo o lábio até sentir gosto de sangue, e forçou o corpo para dentro do buraco escuro.
+O duto de manutenção era um pesadelo claustrofóbico de cabos e graxa velha. Valéria entrou primeiro, rastejando sobre os cotovelos com o cyberdeck preso ao antebraço. Gabo entrou logo atrás, girando o corpo para cobrir a retaguarda com a escopeta. Sua perna direita travou — um espasmo agudo onde o metal encontrava o osso. Ele grunhiu, mordendo o lábio até sentir gosto de sangue, e forçou o corpo para dentro do buraco escuro.
 
 Eles rastejaram por minutos que pareceram horas. O ar ali era rarefeito, cheirando a ozônio e algo mais... algo doce e podre.
 
@@ -48,7 +48,7 @@ Não eram apenas cabos de cobre e fibra ótica. Entrelaçados a eles, pulsando c
 
 — *Processamento distribuído* — a voz do Taxidermista sussurrou, vindo de um pequeno transceptor de manutenção na parede. — *O cérebro humano é uma máquina maravilhosa, detetive. Infinitamente mais eficiente em termos de energia do que o silício. Desperdiçá-lo seria um pecado. Aqui, os viciados, os esquecidos, os "Drenados"... eles finalmente têm um propósito. Eles pensam por Dante. Eles sonham a cidade.*
 
-Gabo sentiu a mão tremer. O cheiro de cigarro veio de lugar nenhum e o atingiu como um soco físico — fumaça acre e velha, sobreposta ao fedor da abominação, tão nítida que ele olhou por cima do ombro à procura de quem estaria fumando. Não havia ninguém. Nunca havia.
+Gabo sentiu a mão tremer. A lembrança da fumaça acre de charuto do interrogatório na Torre do Relógio veio do nada e o atingiu como um soco físico — uma alucinação olfativa de asfixia sobreposta ao fedor da abominação, tão nítida que seu peito apertou.
 
 *Foco.*
 
@@ -76,13 +76,13 @@ Gabo olhou para baixo, para o abismo de máquinas e "processadores" humanos. E e
 
 O relógio mental de Gabo tiquetaqueava. A janela de vulnerabilidade térmica de Dante estava se fechando. Se eles voltassem para a Doca, perderiam a chance de sabotar o núcleo. Se seguissem em frente, Rangel provavelmente morreria.
 
-Era a escolha de Sofia, versão hardboiled.
+Era uma escolha impossível, versão hardboiled.
 
 — Gabo! — Valéria insistiu.
 
-Ele olhou para Aria. A androide com o rosto de Bia o encarava sem expressão, calculando probabilidades.
+No pulso de Valéria, o LED do pendrive da Aria pulsou em azul constante, calculando as variáveis em silêncio antes de transmitir no canal interno.
 
-— A probabilidade de sobrevivência do Inspetor Rangel diminui 8% a cada trinta segundos — disse Aria. — A probabilidade de sucesso da missão cai para 0% se perdermos a janela térmica.
+— *A probabilidade de sobrevivência do Inspetor Rangel diminui 8% a cada trinta segundos* — informou a voz sintética da Aria, com o timbre frio de Bia Vargas cortando a indecisão. — *Contudo, a probabilidade de sucesso da missão cai para 0% se perdermos a janela térmica nos próximos três minutos.*
 
 Gabo fechou os olhos por um segundo. Ele viu o rosto de Rangel, o homem que desistiu de tudo para fazer a coisa certa. E viu a cidade lá fora, a chuva, os milhões de pessoas presas no pesadelo de Dante.
 
@@ -102,4 +102,4 @@ Valéria olhou para Gabo como se ele fosse um estranho.
 
 — Você o abandonou.
 
-— Eu fiz uma escolha — Gabo respondeu, virando-se para a porta do Núcleo. Ele engatilhou a *Caronte*. — Vamos garantir que a morte dele não seja em vão. Aria, abra essa maldita porta.
+— Eu fiz uma escolha — Gabo respondeu, virando-se para a porta do Núcleo. Ele engatilhou a *Caronte*. — Vamos garantir que a morte dele não seja em vão. Val, pluga a Aria nesse terminal e abra essa maldita porta.

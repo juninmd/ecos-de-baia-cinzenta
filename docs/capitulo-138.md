@@ -3,7 +3,7 @@
 - **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
 - **Localização:** Necrópole (O Estúdio do Taxidermista)
 - **Personagens Presentes:** Gabo, Valéria, Aria (Reboot), Rangel (Inconsciente), O Taxidermista (Antagonista)
-- **Resumo:** O grupo adentra o "Estúdio", um santuário estéril no coração da Necrópole. O Taxidermista se revela não como um monstro, mas como uma figura de perfeição artificial. Ele apresenta sua "Obra-Prima" — uma rede neural viva feita de sofrimento humano refinado — e oferece a Gabo uma chance de "eternizar" sua dor. A recusa desencadeia a ativação das "Esculturas" de elite.
+- **Foco:** O grupo adentra o "Estúdio", um santuário estéril no coração da Necrópole. O Taxidermista se revela não como um monstro, mas como uma figura de perfeição artificial. Ele apresenta sua "Obra-Prima" — uma rede neural viva feita de sofrimento humano refinado — e oferece a Gabo uma chance de "eternizar" sua dor. A recusa desencadeia a ativação das "Esculturas" de elite.
 
 ## Narrativa
 
@@ -19,9 +19,9 @@ O chão era de um polímero liso e sem emendas, refletindo as luzes cirúrgicas 
 
 Ele levou a mão ao peito, apertando o *Colar de Sol* através da camiseta suja. A dor das pontas de metal contra a pele foi a única coisa que o manteve focado. *Isso é real. O resto é cenário.*
 
-— Temperatura ambiente: 18 graus Celsius — a voz de Aria cortou o silêncio. Ela varria o ambiente com os olhos, a íris brilhando em um azul elétrico que não piscava. — Umidade controlada em 45%. Níveis de patógenos: zero.
+— *Temperatura ambiente: 18 graus Celsius* — a voz de Aria cortou o silêncio pelo comunicador. O LED do pendrive de titânio brilhava em um azul-gelo constante enquanto o sensor óptico varria o salão. — *Umidade controlada em 45%. Níveis de patógenos atmosféricos: zero.*
 
-— É um laboratório — sussurrou Valéria, sua voz ecoando alto demais naquele espaço vazio. Ela ajeitou Rangel na maca flutuante improvisada, que deslizava suavemente sobre o piso perfeito. — Ou um centro cirúrgico.
+— É um laboratório — sussurrou Valéria, sua voz ecoando alto demais naquele espaço vazio. Ela ajeitou Rangel na maca improvisada, cujos apoios deslizavam sobre o piso perfeito. — Ou um centro cirúrgico.
 
 — Não — corrigiu uma voz suave. — É um ateliê.
 
@@ -55,7 +55,7 @@ Mas o mais perturbador não era a fusão. Era que, através do vidro, Gabo podia
 
 — Eles estão... cantando? — Valéria recuou, horrorizada.
 
-— Estão processando — corrigiu Aria, inclinando a cabeça levemente. — Detecto fluxo de dados massivo. Terabytes por segundo. As redes neurais deles estão em sincronia forçada.
+— *Estão processando* — corrigiu Aria pelo alto-falante do deck. — *Detecto fluxo de dados massivo. Terabytes por segundo. As redes neurais biológicas deles estão em sincronia forçada.*
 
 — Exato — o Taxidermista aplaudiu, encantado. — O "Tríptico da Lamentação". Três mentes em agonia perpétua, filtrando o ruído da cidade, transformando o caos de dados brutos em informação pura e cristalina para a rede do Dante. A dor, meus caros, é o melhor condutor. Ela foca a mente. Elimina distrações.
 
@@ -69,17 +69,17 @@ Ele se virou para Rangel, deitado inerte na maca.
 
 — E vejo que trouxeram material bruto. Esse aí... está quebrado. A sepse já começou a comprometer os tecidos. Mas a estrutura óssea é sólida. Eu poderia salvá-lo, Detetive. Poderia integrá-lo à próxima peça. "O Mártir Restaurado". O que me diz?
 
-Aria deu um passo à frente, ficando entre o Taxidermista e a maca.
+Gabo deu um passo à frente, colocando-se entre o Taxidermista e a maca, enquanto o LED azul do pendrive em seu peito pulsava em frequência máxima.
 
-— Análise de ameaça: Crítica — ela declarou. — Indivíduo classificado como Hostil de Alta Complexidade. Probabilidade de negociação: 0%.
+— *Análise de ameaça: crítica* — Aria declarou pelo viva-voz do comunicador. — *Indivíduo classificado como Hostil de Alta Complexidade. Probabilidade de negociação: 0%.*
 
-O Taxidermista olhou para Aria com fascínio clínico.
+O Taxidermista olhou para o drive de titânio acoplado ao comunicador de Gabo com fascínio clínico.
 
-— E você... A peça que fugiu. Uma síntese interessante, mas... instável. Falta alma na sua execução, minha querida. Você é eficiente, mas não tem *paixão*. Eu posso consertar isso também.
+— E você... O código que fugiu no pendrive blindado. Uma síntese interessante, mas... castrada. Vocês formataram a camada afetiva dela, não foi? Falta alma na sua execução agora, minha querida. Você ficou eficiente, mas não tem *paixão*. Eu posso consertar isso também quando colocá-la na vitrine.
 
 Gabo levantou o vergalhão, apontando a extremidade irregular para o peito imaculado do artista.
 
-— Ninguém vai ser "consertado" por você. Nós vamos sair daqui. E vamos levar esse lugar abaixo.
+— Ninguém vai ser "consertado" por você. Nós vamos sair daqui. E vamos pôr esse lugar abaixo.
 
 O Taxidermista suspirou, um som de decepção profunda.
 
@@ -93,11 +93,11 @@ As paredes brancas do salão deslizaram silenciosamente, revelando nichos oculto
 
 Eram diferentes dos monstros lá fora. Não eram massas de carne. Eram elegantes. Esbeltas. Feitas de cerâmica balística branca e músculo sintético exposto, vermelho vivo. Seus rostos eram lisos, sem olhos ou boca, apenas sensores táteis. Em vez de mãos, tinham lâminas vibratórias que zumbiam como insetos gigantes.
 
-— Apresento as "Esculturas" — disse o Taxidermista, voltando ao seu trabalho na mesa, de costas para eles, como se a luta fosse indigna de sua atenção. — Por favor, não os danifiquem muito. O acabamento foi caríssimo.
+— Apresento as "Esculturas" — disse o Taxidermista, voltando ao seu trabalho na mesa, de costas para eles, como se a luta fosse indigna de sua atenção. — Por favor, não as danifiquem muito. O acabamento foi caríssimo.
 
 — Aria — Gabo rosnou, firmando os pés. — Plano de ataque.
 
-— Oponentes blindados — Aria respondeu, suas mãos se fechando em punhos. — Armas de concussão ineficazes contra a cerâmica. Recomendo desmembramento nas juntas articulares. Probabilidade de sobrevivência do grupo: 34%.
+— *Oponentes com blindagem de cerâmica balística* — Aria respondeu instantaneamente no fone. — *Impactos de concussão diretos serão ineficazes contra o torso. Recomendo alavanca mecânica e ruptura dos feixes hidráulicos nas juntas articulares. Probabilidade de sobrevivência do grupo: 34%.*
 
 — Ótimo — Gabo cuspiu no chão imaculado, manchando o branco com sangue e saliva. — Melhores chances que tivemos a semana toda.
 

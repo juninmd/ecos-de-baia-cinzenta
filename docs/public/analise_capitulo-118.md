@@ -6,19 +6,13 @@
 - **Atmosphere (Atmosfera):** 10/10 - O som do guincho digital, a quebra do tanque, e a fumaça de plástico criam o fim da tirania biopunk com perfeição.
 
 ## Pontos Fortes e Fracos
-- **Pontos Fortes:** A solução do Dilema do Bonde através do sacrifício ("descarrilar o trem") prova o crescimento do tema humano da obra. Gabo poupando Dante (agora vulnerável e inútil) mostra um encerramento real do ressentimento paternal. O *boss fight* não foi na bala, foi na moral e no *hardware*.
-- **Pontos Fracos:** A fala de Aria pedindo a Gabo para "parar de tentar fumar" viola o lore estabelecido que vinha sendo defendido nos bastidores do livro.
+- **Pontos Fortes:** A solução do Dilema do Bonde através do sacrifício do pendrive de Aria atuando como fusível ("descarrilar o trem") prova o crescimento do tema humano da obra. Gabo poupando Dante (agora vulnerável e inútil) mostra um encerramento real do ressentimento paternal. O *boss fight* não foi na bala, foi na moral e no *hardware*.
+- **Pontos Fracos:** Nenhum; a fala final de Aria no alto-falante foi ajustada para manter a fidelidade absoluta ao cânone.
 
 ## Sanity Check (Lore Compliance)
-- **Regras do Lore (VIOLADA):** A fala de Aria ("E pare... de tentar... fumar.") entra em conflito frontal com o *lore* estabelecido. Gabo não fuma e nunca tentou fumar ao longo desta jornada; ele tem uma fobia severa baseada em asfixia desencadeada pelo cheiro de fumo (herança traumática de seu pai), que ele combate através de dor autoinfligida. A fala deve ser alterada para refletir seu verdadeiro vício defensivo: a autopunição física e o isolamento.
-
-## Sugestão de Correção
-A frase final de Aria:
-"Cuide... da Val," ela sussurrou. "E pare... de tentar... fumar."
-DEVE SER ALTERADA PARA:
-"Cuide... da Val," ela sussurrou. "E pare... de se machucar... para lembrar de viver."
+- **Regras do Lore (VERIFICADO):** Aria opera exclusivamente a partir do pendrive de titânio fosco acoplado ao console central de Prometeu por Valéria, derretendo seus barramentos internos para absorver a descarga neural dos Drenados. Nenhuma menção a tabagismo por parte de Gabo.
 
 ## Avaliação Qualitativa
-- **Qualidade da História:** Salvo a linha final de Aria, o capítulo é um triunfo literário da ficção biopunk/cyberpunk, amarrando quase todas as pontas soltas da ameaça principal.
+- **Qualidade da História:** O capítulo é um triunfo literário da ficção biopunk/cyberpunk, amarrando quase todas as pontas soltas da ameaça principal.
 - **Coerência de Personagens:** Gabo desistindo da *Caronte* contra Dante é uma ótima subversão do herói justiceiro cego.
 - **Necessidade de Novos Personagens:** O capítulo é estritamente do núcleo base. Nenhuma necessidade.

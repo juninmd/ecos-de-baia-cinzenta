@@ -148,17 +148,17 @@ Gabo ficou um tempo em silêncio, com o bote balançando na água parada.
 
 O Arquivista suspirou.
 
-— Está na única coisa desta cidade que se recusou a virar carne. — Ele apontou vagamente para o norte, na direção do Hospital. — Na entidade que os senhores mantêm dentro de uma caixa de metal num quarto sem janela, e que grita à noite.
+— Está na única coisa desta cidade que se recusou a virar carne. — Ele apontou vagamente para o norte, na direção do Hospital. — Na IA tática que o senhor resgatou de uma cabine telefônica no Dilúvio e que mantém num pendrive blindado de titânio, acoplado a um berço de contenção num quarto sem janela.
 
 — Ela é o portador.
 
-— Ela **é** o vírus, detetive. Sempre foi. Foi para isso que o seu pai a montou, e foi por isso que ele escolheu o rosto que escolheu: porque ele sabia que a única forma de garantir que o senhor a protegesse até o dia certo era garantir que o senhor não conseguisse olhar para ela.
+— Ela **é** o vetor do vírus, detetive. Sempre foi. Foi para isso que o seu pai a compilou naquele drive de titânio e o ejetou para a cabine telefônica: porque ele sabia que o senhor atenderia o chamado e protegeria a última ferramenta que ele deixou até o dia certo.
 
 ---
 
 — E como se libera?
 
-— Alguém precisa se conectar à Raiz e executar o comando de dentro. — O velho falou sem drama nenhum, e por isso foi pior. — Não dá para transmitir. Não dá para injetar. O Jardim é uma rede de confiança: ele só aceita instrução de quem já é parte dele.
+— Alguém precisa se conectar à Raiz e executar o comando de dentro. — O velho falou sem drama nenhum, e por isso foi pior. — Não dá para transmitir. Não dá para injetar à distância. O Jardim é uma rede de confiança: ele só aceita instrução de quem já é parte dele e espetar o conector direto na fonte.
 
 — Então tem que ser alguém infectado.
 
@@ -166,11 +166,11 @@ O Arquivista suspirou.
 
 — E ela.
 
-— E ela.
+— E o drive dela.
 
 Gabo baixou os olhos para o diário no colo.
 
-— Salvar a cidade ou salvar a menina — ele disse. — De novo.
+— Salvar a cidade ou apagar a Aria — ele disse. — De novo.
 
 ---
 

@@ -1,5 +1,6 @@
 ---
 image: /capitulo_106.jpg
+Personagens Presentes: Dante Moretti, Gabriel "Gabo" Moretti, Marco Moretti, Inspetor Rangel, Elena Moretti
 ---
 # Capítulo 106: Fios Invisíveis
 

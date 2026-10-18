@@ -33,7 +33,7 @@ Ajudei Vasco a erguer Valéria. Ela parecia pesar o triplo do normal, um peso mo
 
 Vasco não perdeu tempo. Ele me empurrou para a maca um e começou a trabalhar com a brutalidade eficiente de um mecânico consertando um motor velho. Ele não usou anestesia quando lavou a extremidade estraçalhada do meu braço com uma solução alcoólica que queimou como fogo líquido.
 
-Fechei os olhos com força, cravando os dentes no próprio lábio até sentir o gosto de ferro. A dor era excruciante, mas familiar. Ela varria os pensamentos persistentes das profundezas da Aeterna Corp, empurrava a imagem de Aria para longe, afastava o eco do silêncio ensurdecedor da rua. A dor física era um botão de reset, a única coisa mantendo minha sanidade no lugar.
+Fechei os olhos com força, cravando os dentes no próprio lábio até sentir o gosto de ferro. A dor era excruciante, mas familiar. Ela varria os pensamentos persistentes das profundezas da Aeterna Corp, empurrava a lembrança do pendrive de Aria derretendo no terminal para longe, afastava o eco do silêncio ensurdecedor da rua. A dor física era um botão de reset, a única coisa mantendo minha sanidade no lugar.
 
 — O que quer que tenha acontecido na torre... — Vasco disse enquanto cauterizava os vasos sanguíneos abertos com um bisturi a laser, o som de carne fritando preenchendo a sala pequena — ...vocês trouxeram metade do inferno junto. O noticiário pirata não fala de outra coisa. A rede principal está fora. Ninguém sabe quem está no controle.
 

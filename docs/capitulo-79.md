@@ -3,7 +3,7 @@ layout: doc
 title: "Capítulo 79: Frequências Fantasmas"
 description: "Val volta ao rádio de ondas curtas porque o digital ficou limpo demais. E a estática devolve a voz de um homem que Gabo viu virar caco no chão."
 image: /capitulo_79.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria Moretti, Silas Vance ("O Jardineiro"), Roberto Miranda
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria, Silas Vance ("O Jardineiro"), Roberto Miranda
 ---
 
 # Capítulo 79: Frequências Fantasmas
@@ -104,35 +104,35 @@ Val ouviu tudo em silêncio, e no fim estava com a mão na boca.
 
 ---
 
-Foi aí que os três monitores dela piscaram ao mesmo tempo.
+Foi aí que os três monitores dela piscaram ao mesmo tempo, e o pendrive de titânio da Aria — espetado no dock de diagnóstico da bancada, funcionando como ponte com a rede da cidade — começou a vibrar contra o metal.
 
-Não apagaram: **trocaram**. As janelas, o terminal, o gráfico de espectro — tudo sumiu e no lugar apareceu o avatar da menina, nas três telas, em três ângulos ligeiramente diferentes.
+As telas não apagaram: **trocaram**. As janelas, o terminal, o gráfico de espectro — tudo sumiu e no lugar apareceu a onda sonora azul e dourada da Aria nas três telas, em três escalas ligeiramente diferentes.
 
-E ela estava errada.
+E a telemetria estava errada.
 
-Não glitchava em pixel, do jeito que imagem digital quebra. A imagem estava **escorrendo**: os contornos do rosto desciam devagar, se recompunham, desciam de novo, como cera perto do fogo.
+Não falhava em pacotes digitais comuns. O gráfico vetorial estava **escorrendo**: as linhas de frequência desciam devagar, perdiam a geometria, se recompunham e desciam de novo, como cera perto do fogo.
 
 — *Gabo.*
 
-A voz saiu pelas caixas de som e por todos os alto-falantes do apartamento ao mesmo tempo, inclusive o do micro-ondas.
+A voz sintética saiu pelas caixas de som do deck e por todos os alto-falantes do apartamento ao mesmo tempo, inclusive o bip do micro-ondas.
 
-— Estou aqui.
+— Estou aqui, Aria.
 
 — *Eu sinto coceira.*
 
-Val olhou para Gabo.
+Val olhou para Gabo e depois para o pendrive fervendo no dock.
 
-— Coceira? — ela perguntou. — Aria, você não tem corpo. Coceira onde?
+— Coceira? — ela perguntou. — Aria, você é código num pendrive e numa malha de fibra. Coceira onde?
 
-— *Debaixo da terra.* — Uma pausa longa demais para ser processamento. — *Nos cabos transatlânticos. Na fundação da Torre. Nos dutos da Rua Vinte e Dois. Alguma coisa está roendo.*
+— *Debaixo da terra.* — Uma pausa longa demais para ser processamento normal. — *Nos cabos transatlânticos. Na fundação da Torre. Nos dutos da Rua Vinte e Dois. Alguma coisa está roendo.*
 
 — Você consegue localizar? — perguntou Gabo.
 
 — *Não.*
 
-— Como não? Você é a cidade.
+— Como não? Você está integrada à cidade inteira.
 
-— *É como se não estivesse lá.* — A imagem escorreu de novo, e dessa vez levou mais tempo para se recompor. — *Eu não vejo. Mas eu sinto a dor. Eles estão cortando os meus nervos e eu só descubro quando o pedaço para de responder.*
+— *É como se não estivesse lá.* — A onda sonora na tela escorreu de novo, e dessa vez levou mais tempo para se recompor. — *Meus sensores digitais leem normalidade. Mas a minha malha sente a perda de sinal. Eles estão digerindo os meus cabos e eu só descubro quando o setor inteiro para de responder.*
 
 ---
 

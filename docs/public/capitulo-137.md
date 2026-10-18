@@ -1,11 +1,11 @@
-# Metadados
+## Metadados
 - **Título:** Natureza Morta
 - **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
 - **Localização:** Necrópole (Subnível 6 - A Galeria)
 - **Personagens Presentes:** Gabo, Valéria, Aria (Reboot), Rangel (Inconsciente)
-- **Resumo:** O grupo é emboscado por experimentos biológicos falhos ("Abortos") na antessala do santuário do Taxidermista. Aria demonstra sua nova eficiência letal, enquanto Gabo luta para proteger Rangel usando combate corpo a corpo. Eles alcançam a "Galeria", um salão de preservação onde o horror se torna arte estática.
+- **Foco:** O grupo é emboscado por experimentos biológicos falhos ("Abortos") na antessala do santuário do Taxidermista. Aria demonstra sua nova eficiência letal guiando cada golpe de Gabo e Valéria pelo comunicador, enquanto eles lutam para proteger Rangel. Eles alcançam a "Galeria", um salão de preservação onde o horror se torna arte estática.
 
-# Narrativa
+## Narrativa
 
 # Capítulo 137: Natureza Morta
 
@@ -13,53 +13,63 @@ O cheiro de formol era tão forte que fazia os olhos lacrimejarem. Não era apen
 
 Gabo tossiu, cobrindo o nariz com a gola da jaqueta. O gosto metálico do sangue em sua boca se misturava com o ar ácido.
 
-— Ventilação inoperante — Aria informou, sua voz ecoando no corredor de azulejos brancos encardidos. — Concentração de formaldeído em 150 ppm. Exposição prolongada causará irritação respiratória e danos neurológicos leves. Sugiro aumentar o ritmo.
+— *Ventilação inoperante* — Aria informou pelo comunicador, sua voz sintética ressoando baixa no corredor de azulejos brancos encardidos. — *Concentração de formaldeído em 150 ppm. Exposição prolongada causará irritação respiratória e danos neurológicos leves. Sugiro aumentar o ritmo.*
 
 — Estamos indo o mais rápido que dá — Valéria retrucou, ajudando Gabo a firmar a maca improvisada. — O Rangel não aguenta correr.
 
 O corredor se abriu em uma câmara circular. O teto era alto, perdendo-se na escuridão, mas o chão estava iluminado por luzes de emergência amareladas que piscavam em ritmo arrítmico.
 
-— Parar — Aria ordenou, estendendo o braço. — As assinaturas térmicas. Elas convergiram.
+— *Parar* — Aria ordenou no fone, o LED azul-gelo do pendrive piscando rapidamente. — *As assinaturas térmicas. Elas convergiram.*
 
-Gabo soltou a maca devagar e sacou o pedaço de vergalhão enferrujado que recolhera nos escombros do nível anterior. O peso do ferro era reconfortante, mas insuficiente. Sem sua arma, ele se sentia nu.
+Gabo pousou a maca devagar e sacou o pedaço de vergalhão enferrujado que recolhera nos escombros do nível anterior, mantendo a faca de cerâmica na mão esquerda. Sem poder disparar armas de fogo por causa dos bolsões de gás, o ferro frio era tudo o que restava.
 
 Das sombras nas extremidades da sala, formas começaram a emergir. Eram pequenas, do tamanho de crianças, mas moviam-se com uma velocidade errática, espasmódica.
 
-— O que são essas coisas? — Valéria sussurrou, recuando para perto de Rangel.
+— O que são essas coisas? — Valéria sussurrou, recuando para perto de Rangel e conectando o cabo do estrobo de alta potência ao *Phantom V3*.
 
-— Rejeitos — Aria respondeu. — Tentativas falhas de integração. O Taxidermista os chama de "Abortos".
+— *Rejeitos* — Aria respondeu pelo alto-falante. — *Tentativas falhas de integração biomecânica. Nos registros locais, o Taxidermista os classifica como "Abortos".*
 
 As criaturas entraram na luz. Eram massas de carne crua e músculo exposto, sem pele. Algumas tinham membros extras enxertados de forma grosseira; outras arrastavam cabos e placas de metal fundidos à carne. Elas não tinham olhos, apenas bocas escancaradas cheias de dentes irregulares.
 
 Um guincho agudo rompeu o silêncio, e a matilha avançou.
 
-— Protejam a carga — Aria disse, e desapareceu em um borrão de movimento.
+— *Iniciando protocolo de contenção perimetral* — Aria declarou no fone. — *Sequestrando iluminação de emergência local. Gabo, siga os vetores acústicos.*
 
-A primeira criatura saltou em direção a Gabo. Ele girou o vergalhão, acertando a massa de carne no ar com um *crack* úmido. A coisa caiu se debatendo, mas outra já estava em suas pernas, mordendo o couro da bota.
+As lâmpadas amareladas da câmara começaram a piscar em uma frequência estroboscópica brutal controlada pelo pendrive de Aria via rede elétrica, desorientando os sensores táteis dos monstros. A primeira criatura saltou em direção a Gabo.
 
-Gabo chutou o monstro, sentindo a dor explodir em seu joelho. Ele usou a dor. *Foco.* Ele cravou a ponta do vergalhão no crânio da criatura, sentindo o osso ceder.
+— *Vetor um: dez horas, altura do tórax. Golpe descendente em 0,3 segundos* — a voz fria de Aria ditou no ouvido de Gabo.
 
-— Valéria, esquerda! — ele gritou.
+Gabo nem precisou pensar; seu corpo obedeceu à telemetria da IA. Ele girou o vergalhão no exato ponto cego indicado, acertando a massa de carne no ar com um *crack* úmido. A coisa caiu se debatendo, mas outra já avançava rasteira em direção às suas pernas.
 
-Valéria brandiu sua lanterna pesada como um porrete, acertando uma criatura que tentava alcançar a maca.
+— *Vetor dois: seis horas, nível do solo. Nervo cervical exposto à direita.*
 
-Mas era Aria quem dominava o caos. Ela não lutava; ela executava. Com uma precisão cirúrgica, ela interceptava as criaturas no ar. Um golpe seco na base do crânio. Um chute calculado para quebrar a coluna. Ela se movia entre os monstros como uma dançarina em um matadouro, sem desperdiçar um único movimento.
+Gabo chutou o monstro, sentindo a dor explodir em seu joelho, e cravou a ponta do vergalhão exatamente na junção entre a placa metálica e o crânio da criatura, sentindo o osso ceder de primeira.
 
-Não havia raiva. Não havia medo. Apenas eficiência.
+— *Valéria, flanco esquerdo, dois metros* — Aria comandou sem alterar o tom.
 
-Uma das criaturas conseguiu passar pela defesa de Aria e se lançou sobre Rangel. Antes que Gabo pudesse reagir, Aria girou. Ela não tentou puxar a criatura; ela simplesmente pisou em seu pescoço com força hidráulica total. Houve um som de esmagamento, e a cabeça da coisa se tornou uma pasta no chão.
+Valéria acionou o capacitor de choque do deck e brandiu sua lanterna pesada de alumínio como um porrete, acertando uma criatura que tentava alcançar a maca exatamente quando o flash estroboscópico de Aria a paralisou.
 
-O sangue espirrou no rosto de Rangel, mas Aria nem piscou.
+Era a voz de Aria no comunicador que dominava o caos. Ela não tinha braços para empunhar uma lâmina, mas transformara Gabo e Valéria em extensões cirúrgicas de seu processador. Cada finta, cada ângulo de alavanca para poupar o ombro deslocado de Gabo, cada ponto fraco nas costuras biomecânicas das criaturas era cantado no fone com antecedência milimétrica: *Recuo de meio passo. Estocada a trinta graus. Esmagamento de traqueia.*
 
-— Ameaças neutralizadas — ela anunciou, parada no meio de uma dúzia de cadáveres contorcidos. Seu uniforme estava limpo, exceto pela bota direita.
+Não havia raiva na voz do pendrive. Não havia medo. Apenas eficiência matemática de abatedouro.
 
-Gabo olhou para ela, ofegante. A frieza com que ela havia dizimado as criaturas era aterrorizante. Aquela não era a Bia. Nem mesmo a sombra dela.
+Uma última criatura conseguiu saltar por cima da bancada quebrada e se lançou diretamente sobre o peito de Rangel. Antes que Valéria pudesse gritar, Aria disparou uma sobrecarga localizada na caixa de junção elétrica do piso logo abaixo do monstro e gritou a coordenada para Gabo:
 
-— Você está bem? — ele perguntou para Valéria, que tremia segurando a lanterna.
+— *Alvo prioritário sobre a maca. Esmagar vértebra C2.*
+
+O arco voltaico do piso travou os músculos da criatura no ar por meio segundo; Gabo avançou com um passo pesado e desceu a bota reforçada com o salto de aço do exoesqueleto diretamente sobre o pescoço do monstro contra o ladrilho. Houve um som seco de esmagamento, e a coisa parou de se mexer.
+
+O sangue espirrou na borda da maca, mas no comunicador o LED azul-gelo de Aria sequer oscilou.
+
+— *Doze ameaças neutralizadas* — ela anunciou pelo alto-falante, o tom tão calmo quanto se lesse a previsão do tempo. — *Gasto energético do Ativo Líder dentro da margem tolerável.*
+
+Gabo olhou para o comunicador no próprio peito, ofegante, o vergalhão pingando sangue escuro. A frieza mecânica com que Aria havia orquestrado o massacre em menos de quarenta segundos era aterrorizante. Aquela não era a Bia. Nem mesmo a Aria que brincava com eles no cais.
+
+— Você está bem? — ele perguntou para Valéria, que tremia segurando a lanterna suja.
 
 — Estou... estou. Vamos sair daqui.
 
-Eles pegaram a maca novamente e avançaram para a grande porta dupla no final da câmara. Aria a empurrou sem esforço.
+Eles pegaram a maca novamente e avançaram para a grande porta dupla no final da câmara. Aria acionou o destravamento pneumático pelo terminal da parede, e as folhas metálicas se abriram com um sopro lento.
 
 O que encontraram do outro lado fez Gabo esquecer a dor e o cansaço.
 
@@ -75,7 +85,7 @@ Membros substituídos por ferramentas industriais. Torsos abertos revelando meca
 
 No centro do salão, dominando o espaço, havia um tanque maior que os outros, elevado sobre um pedestal. Dentro, uma figura colossal flutuava em suspensão. Era uma fusão grotesca de múltiplos corpos, unidos para formar uma espécie de titã biomecânico, com dezenas de braços e cabos que saíam de sua espinha como raízes de uma árvore morta.
 
-— Assinatura térmica principal identificada — Aria disse, apontando para o titã. — Estado: Inativo. Preservado.
+— *Assinatura térmica principal identificada no cilindro central* — Aria disse pelo fone. — *Estado: inativo. Preservado.*
 
 Gabo se aproximou do tanque central, hipnotizado pelo horror. O rosto da criatura principal era uma máscara de metal sem traços, mas o peito subia e descia levemente. *Ainda está vivo.*
 

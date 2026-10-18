@@ -36,6 +36,6 @@ A mudança de "água/ácido" para "poeira/osso" foi intencional para variar a pa
 ## 3. Sanity Check (Auditoria de Coerência)
 
 *   [x] **Gabo interagiu com algum fumante?** Não.
-*   [x] **Como sua repulsa foi demonstrada?** Ele sentiu o desejo ("ansiedade arranhando a garganta"), mas utilizou a dor física do "Colar de Sol" para ancorar-se, reafirmando que "fumaça é mentira". Além disso, o perigo de explosão por metano tornou a abstinência uma questão de sobrevivência imediata.
+*   [x] **Como sua repulsa foi demonstrada?** Ele sentiu a náusea traumática da fumaça sufocante da infância e utilizou a dor física do "Colar de Sol" para ancorar-se. Além disso, o perigo de explosão por metano impede qualquer faísca ou disparo.
 *   [x] **O plot twist invalida algo anterior?** Não. A presença do Taxidermista nos níveis inferiores e sua obsessão por "carne e mecanismo" são consistentes com seu perfil estabelecido desde o Capítulo 47.
-*   [x] **A lore foi atualizada?** Sim, a localização "Velha Baía" e a presença das "Esculturas" foram integradas.
+*   [x] **A lore foi atualizada?** Sim, a localização "Velha Baía", a presença das "Esculturas" e a atuação de Aria a partir do pendrive tático foram integradas.

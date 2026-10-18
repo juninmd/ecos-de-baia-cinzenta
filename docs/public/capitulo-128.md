@@ -2,18 +2,16 @@
 title: "Capítulo 128: O Ventre da Besta"
 date: "2078-11-04"
 location: "Catedrais de Pedra (Nível 5) - Rede de Drenagem Profunda"
-characters:
-  - Gabo
-  - Valéria
-  - Aria (Glitch Bia Vargas)
-  - Rangel (Inconsciente)
+Personagens Presentes: Gabo, Valéria, Aria (Glitch Bia Vargas), Rangel (Inconsciente)
 ---
+
+# Capítulo 128: O Ventre da Besta
 
 O cheiro não era apenas de podridão; era de tempo estagnado. Uma mistura de lodo antigo, cobre oxidado e algo adocicado que Gabo conhecia muito bem: carne em decomposição. Mas não havia espaço para o olfato processar o nojo. Seus outros sentidos estavam gritando.
 
 A escuridão das "Catedrais de Pedra" não era vazia. Ela rosnava.
 
-— Eles estão flanqueando — a voz de Valéria sussurrou, trêmula. Sem o sonar digital, ela estava reduzida à visão humana, inútil naquela penumbra absoluta. Ela segurava a pistola compacta com as duas mãos, apontando para o nada.
+— Eles estão flanqueando — a voz de Valéria sussurrou, trêmula. Sem o sonar digital de longo alcance, ela estava reduzida à visão de curto espectro, quase inútil naquela penumbra absoluta. Ela segurava a pistola compacta com as duas mãos, apontando para o nada.
 
 Gabo acendeu o último sinalizador químico e o arremessou. A luz vermelha de fósforo chiou, cortando as sombras e revelando o pesadelo.
 
@@ -21,9 +19,9 @@ Não eram cães. Eram *Quimeras de Drenagem*. Cães selvagens que a cidade havia
 
 Eles não latiam. O som que faziam era um clique úmido e mecânico. *Click-clack, click-clack.*
 
-— Gabo... — A voz de Aria cortou o ar. Não a voz sintética e fria da IA, mas o tom rouco e brincalhão de Bia Vargas. — Lembra daquela invasão no Porto em 74? Você também estava cercado. E sem munição.
+— *Gabo...* — A voz de Aria cortou o ar pelo fone auricular. Não a voz sintética e fria da IA, mas o tom rouco e brincalhão de Bia Vargas saindo do pendrive acoplado ao comunicador. — *Lembra daquela invasão no Porto em 74? Você também estava cercado. E quase sem munição.*
 
-Gabo trincou os dentes, a dor no peito irradiando onde o *Colar de Sol* queimava contra a pele. Ele usou a dor. Focou nela. Era a única coisa real. A voz de Bia era um fantasma digital, um erro de compilação.
+Gabo trincou os dentes, a dor no peito irradiando onde o *Colar de Sol* queimava contra a pele. Ele usou a dor. Focou nela. Era a única coisa real. A voz de Bia no fone era um fantasma digital, um erro de compilação no pendrive.
 
 — Cale a boca, Aria — ele rosnou, levantando a escopeta *Caronte*. Duas balas restantes. — Valéria, proteja o Rangel. Fique atrás de mim.
 
@@ -33,9 +31,9 @@ Gabo não atirou. Ele esperou. O ar fétido do esgoto agitou-se com o salto da b
 
 Mas os outros não recuaram. Eles avançaram em uníssono.
 
-— Três na esquerda. Dois na direita. — Aria/Bia narrava como se fosse um jogo. — Seus reflexos estão lentos, amor. A idade pesa, né? Ou é o pânico da fumaça tremendo sua mão?
+— *Três na esquerda. Dois na direita* — Aria/Bia narrava pelo comunicador, cruzando os sensores de movimento de curto alcance do deck de Valéria como se fosse um jogo. — *Seus reflexos estão lentos, amor. A idade pesa, né? Ou é a lembrança da fumaça do seu pai fazendo sua mão tremer de novo?*
 
-Gabo ignorou a provocação, sentindo apenas o gosto de bile subir à garganta. A menção à fumaça evocava a memória sufocante da cabine trancada de seu pai, o terror asfixiante que moldou seus pesadelos. Ele converteu o terror em foco, travando os servomotores das pernas para firmar a base. Ele girou, disparando o penúltimo cartucho na massa de corpos à esquerda. O estrondo foi ensurdecedor no túnel fechado. Chumbo grosso rasgou carne e metal, transformando dois dos atacantes em uma polpa indistinta.
+Gabo ignorou a provocação, sentindo apenas o gosto de bile subir à garganta. A menção à fumaça do pai evocava memórias de cinzeiros transbordando e violência doméstica, uma repulsa visceral que ele converteu em foco puro. Ele girou, disparando o penúltimo cartucho na massa de corpos à esquerda. O estrondo foi ensurdecedor no túnel fechado. Chumbo grosso rasgou carne e metal, transformando dois dos atacantes em uma polpa indistinta.
 
 Valéria disparou cegamente para a direita. *Pow-pow-pow.*
 
@@ -43,7 +41,7 @@ Valéria disparou cegamente para a direita. *Pow-pow-pow.*
 
 — Manteve eles longe — Gabo mentiu. Ela tinha acertado a parede, mas o barulho assustou os animais. — Recuar! Para a galeria lateral!
 
-Eles arrastaram Rangel. O inspetor gemia em seu delírio, um peso morto de carne febril. Gabo cobria a retaguarda, cada passo para trás fazendo as engrenagens de suas pernas protestarem em ganidos agudos, enquanto balançava a *Caronte* vazia como uma maça.
+Eles arrastaram Rangel. O inspetor gemia em seu delírio, um peso morto de carne febril. Gabo cobria a retaguarda, balançando a *Caronte* como uma maça.
 
 Os olhos vermelhos das Quimeras brilhavam na escuridão, multiplicando-se. O brilho do sinalizador estava morrendo.
 
@@ -51,11 +49,11 @@ Os olhos vermelhos das Quimeras brilhavam na escuridão, multiplicando-se. O bri
 
 — É muito estreito — Gabo avaliou. — Rangel não passa.
 
-— Ele passa se quebrarmos a clavícula dele — disse Aria, com a voz doce de Bia. — É o que você faria, não é, Gabo? Pragmático até o fim. Como quando você me deixou entrar naquele galpão sozinha...
+— *Ele passa se deslocarmos a clavícula dele* — disse Aria no fone, com a voz doce de Bia. — *É o cálculo pragmático que você faria, não é, Gabo? Pragmático até o fim. Como quando você me deixou entrar naquele galpão sozinha...*
 
 Gabo parou. O comentário foi uma facada. A memória de Bia morrendo porque ele hesitou.
 
-— Não é ela — ele sussurrou para si mesmo, apertando o colar até cortar a mão. — É código. É apenas código.
+— Não é ela — ele sussurrou para si mesmo, apertando o colar até cortar a mão. — É código num pendrive. É apenas código.
 
 Uma Quimera saltou das sombras, mirando o pescoço de Valéria.
 
@@ -71,9 +69,9 @@ O corredor era diferente. O chão não era de pedra úmida, mas de grade metáli
 
 Eles escorregaram pela inclinação, caindo em uma câmara ampla, iluminada por luzes de emergência âmbar que giravam lentamente.
 
-Gabo se levantou, ofegante, segurando o braço sangrando. Valéria estava checando o pulso de Rangel. Aria estava parada no centro da sala, olhando para cima com uma expressão de êxtase infantil.
+Gabo se levantou, ofegante, segurando o braço sangrando. Valéria estava checando o pulso de Rangel. No comunicador de Gabo, o LED do pendrive da Aria pulsava intensamente em âmbar, lendo as frequências eletromagnéticas da câmara.
 
-— Olha, Gabo — disse a IA, apontando. — Estamos nas entranhas.
+— *Olha para cima, Gabo* — sussurrou a IA pelo alto-falante tático, a voz carregada de um fascínio inquietante. — *Estamos nas entranhas.*
 
 Acima deles, gigantescos pistões de latão e cromo moviam-se em um ritmo hipnótico, bombeando algo viscoso através de tubos transparentes. O som era o de um coração titânico batendo. *Thump-thump. Thump-thump.*
 
@@ -87,7 +85,7 @@ Ele se aproximou de um dos tubos. O líquido dentro não era esgoto. Era vermelh
 
 Sangue. Ou algo muito parecido, sintético, nutriente.
 
-— É o sistema circulatório — Aria sussurrou, sua voz voltando ao tom metálico por um segundo, antes de reverter para Bia. — A cidade está se alimentando, Gabo. E nós somos os vírus na corrente sanguínea.
+— *É o sistema circulatório* — Aria sussurrou no fone, sua voz voltando ao tom metálico por um segundo, antes de reverter para Bia. — *A cidade está se alimentando, Gabo. E nós somos os vírus na corrente sanguínea.*
 
 Gabo olhou para o túnel escuro à frente, onde o zumbido era mais forte. Eles tinham escapado dos cães, mas tinham caído na boca do dono.
 

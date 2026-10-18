@@ -83,23 +83,23 @@ E eu fiquei ali, sentado num caixote a três metros de um homem preso numa rede,
 
 Foi ele que puxou assunto, no fim da tarde.
 
-— O senhor tinha uma filha.
+— O senhor perdeu a mãe na enchente.
 
 Eu não me mexi.
 
-— Não tenho.
+— Não fala da minha mãe, Braga.
 
-— **Tinha**, — ele corrigiu, gentil. — Eu não estou perguntando, Sr. Moretti. Eu sei desde dois mil e sessenta e nove.
+— **Eu não estou provocando**, — ele respondeu, baixo e gentil. — Eu não estou perguntando, Sr. Moretti. Eu sei desde o mês do Dilúvio.
 
 Levantei a cabeça.
 
 — Como.
 
-— Pátio do Fosso. Um agente chamado Peçanha, que gostava de contar coisa de rua para os presos porque isso fazia ele se sentir importante. — Braga estava olhando o céu. — Ele chegou uma tarde e disse assim: *"Braga, sabe aquele detetive que te enfiou aqui? Perdeu a filha na enchente. Menina pequena. Coisa de Deus."*
+— Pátio do Fosso. Um agente chamado Peçanha, que gostava de contar coisa de rua para os presos porque isso fazia ele se sentir importante. — Braga estava olhando o céu. — Ele chegou uma tarde e disse assim: *"Braga, sabe aquele detetive que te enfiou aqui? Perdeu a mãe na enchente. Dona Helena morreu afogada em casa enquanto ele bancava o herói na rua. Coisa de Deus."*
 
 Eu senti o cascalho debaixo de mim ficar muito longe.
 
-— E o pátio inteiro achou ótimo, — ele continuou. — Uns cinquenta homens comemorando a morte de uma criança de cinco anos, porque a criança era do policial que prendeu eles. Teve gente que bateu palma.
+— E o pátio inteiro achou ótimo, — ele continuou. — Uns cinquenta homens comemorando a morte de uma senhora que não fez mal a ninguém, só porque ela era mãe do policial que prendeu eles. Teve gente que bateu palma.
 
 Uma pausa.
 
@@ -109,7 +109,7 @@ Eu não estava respirando direito.
 
 — Por quê? — consegui perguntar.
 
-— Porque eu tinha uma de quatro. — Ele virou o rosto, e os olhos pequenos e parados estavam molhados, e ele não fez absolutamente nada a respeito. — E porque quem comemora criança morta é bicho, e eu já era assassino de mulher, mas eu ainda não era bicho. Naquela tarde eu decidi que ia continuar não sendo.
+— Porque eu tinha uma filha lá fora, na mesma água. — Ele virou o rosto, e os olhos pequenos e parados estavam molhados, e ele não fez absolutamente nada a respeito. — E porque quem comemora inocente afogado é bicho, e eu já era assassino de mulher, mas eu ainda não era bicho. Naquela tarde eu decidi que ia continuar não sendo.
 
 — Você matou o Duarte ontem.
 
@@ -117,7 +117,7 @@ Eu não estava respirando direito.
 
 ---
 
-— A minha chamava Marta, — ele disse, depois de um tempo. — Tinha quatro quando eu entrei. Ficou com a tia no Setor 11.
+— A minha filha chamava Marta, — ele disse, depois de um tempo. — Tinha quatro anos quando eu entrei. Ficou com a tia no Setor 11.
 
 — Braga.
 
@@ -129,11 +129,11 @@ Ele fechou os olhos.
 
 Abriu os olhos.
 
-— A mesma enchente, Sr. Moretti. As nossas duas meninas, na mesma água, no mesmo mês.
+— A mesma enchente, Sr. Moretti. A sua mãe e a minha menina, na mesma água, no mesmo mês.
 
 Silêncio.
 
-— E é por isso que eu vim, — ele disse. — Não é vingança. Vingança seria eu matar a sua e a gente ficar quites, e a sua já morreu, e eu não fico feliz com isso e não é isso que eu quero.
+— E é por isso que eu vim, — ele disse. — Não é vingança. Vingança seria eu tirar alguém seu pra gente ficar quites, e a água já tirou, e eu não fico feliz com isso e não é isso que eu quero.
 
 Ele me olhou.
 

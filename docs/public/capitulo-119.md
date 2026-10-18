@@ -1,27 +1,28 @@
 ---
 image: /cenas/cidade.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Inspetor Rangel, Valéria "Val" Cruz, Aria
 ---
 # Capítulo 119: Cinzas Frias
 
-A gravidade parecia ter dobrado. Não era apenas o peso do corpo de metal inerte de Aria, que Gabo e Valéria arrastavam pelos corredores fumegantes; era o peso do que tinham acabado de fazer.
+A gravidade parecia ter dobrado. Não era apenas o cansaço brutal nas órteses de Gabo enquanto ele e Valéria corriam pelos corredores em ruínas em direção à Doca de Carga B; era o peso do que tinham acabado de fazer.
 
 O "Pai" estava caído. A voz que ordenava a cidade havia se calado.
 
-— Cuidado com a cabeça dela — resmungou Valéria, ajustando a pegada no ombro da androide. Seu rosto estava sujo de fuligem e sangue seco, mas seus olhos, iluminados pelas luzes de emergência vermelhas, mostravam uma determinação feroz. — O giroscópio está desligado. Ela é apenas... peso morto.
+— O drive ainda está soltando fumaça, Gabo — arfou Valéria, correndo ao lado dele com o *Phantom V3* desligado preso ao peito. Seu rosto estava sujo de fuligem e sangue seco, mas seus olhos, iluminados pelas luzes de emergência vermelhas, mostravam uma determinação feroz. — Se o calor derreter o barramento interno do pendrive, não vai sobrar nem código para diagnosticar.
 
-Gabo não respondeu. Ele sentia o suor frio escorrendo pelas costas. O ar estava saturado com o cheiro de ozônio, plástico derretido e algo pior — o cheiro doce e enjoativo da biomassa queimando nos andares inferiores.
+Gabo não respondeu. No bolso interno de seu sobretudo, o pequeno cilindro de titânio fosco da Aria ainda queimava contra suas costelas como uma brasa apagando. Ele sentia o suor frio escorrendo pelas costas. O ar estava saturado com o cheiro de ozônio, plástico derretido e algo pior — o cheiro doce e enjoativo da biomassa queimando nos andares inferiores.
 
-Seus pulmões pediam fumaça. Pediam o alívio químico, a queima familiar do tabaco para anestesiar o cheiro da morte.
+O cheiro doce da biomassa serviu de gatilho. Seus pulmões travaram, uma alucinação fantasma de fumaça sufocante invadindo sua mente como um eco de seus piores pesadelos.
 
-*Só um trago,* sussurrou a parte mais fraca de seu cérebro. *O mundo acabou mesmo. Quem se importa?*
+*Não desmorone,* sussurrou a parte mais forte de seu cérebro, enquanto o pânico da asfixia fantasma tentava dominá-lo. *Respire através da dor.*
 
-Gabo apertou o *Colar de Sol* contra o peito com a mão livre. O metal quente queimou a pele através da camisa encharcada. A dor foi um âncora. *Eu me importo,* ele pensou, cerrando os dentes. *Eu sou fogo, não cinza.*
+Gabo apertou o *Colar de Sol* contra o peito com a mão livre. O metal quente queimou a pele através da camisa encharcada. A dor foi uma âncora. *Eu me importo,* ele pensou, cerrando os dentes. *Eu sou fogo, não cinza.*
 
 O corredor tremeu. Uma explosão surda ecoou nas profundezas da usina, seguida pelo gemido de metal se retorcendo.
 
 — A estrutura está cedendo — disse Gabo, forçando as pernas a se moverem mais rápido. — Se o núcleo geotérmico desestabilizar, tudo isso aqui vira uma cratera.
 
-Eles dobraram uma esquina e deram de cara com a Doca de Carga 4. O portão estava emperrado, aberto pela metade, emperrado por destroços de um drone de carga.
+Eles dobraram uma esquina e deram de cara com a Doca de Carga B. O portão estava emperrado, aberto pela metade por destroços fumegantes de dois drones "Jardineiros" abatidos.
 
 E lá estava ele.
 
@@ -31,19 +32,19 @@ Ele baixou a arma ao vê-los.
 
 — Vocês demoraram — Rangel tossiu, um som úmido e feio. — Comecei a achar que tinham virado bateria para o velho.
 
-— Quase — Gabo ajudou Valéria a depositar Aria no chão com cuidado, antes de correr até o ex-inspetor. — Qual a situação?
+— Quase — Gabo ajoelhou-se imediatamente ao lado do ex-inspetor, verificando o pulso no pescoço dele. — Qual a situação?
 
 — Ruim. — Rangel fez uma careta quando Gabo inspecionou o ferimento. Um estilhaço de metal havia atravessado o Kevlar. — A segurança automatizada enlouqueceu quando a rede caiu. Os drones começaram a atacar uns aos outros. Consegui segurar a posição, mas...
 
-Ele olhou para Aria, caída como uma boneca quebrada.
+Ele olhou para o comunicador vazio na lapela de Gabo, onde antes brilhava o LED azul da IA.
 
-— Ela conseguiu?
+— A Aria conseguiu?
 
-— Ela fritou a rede — disse Valéria, ajoelhada ao lado da androide, abrindo o painel de manutenção no pescoço dela. — O hardware está intacto, mas o software... é como se ela tivesse formatado a própria alma.
+— Ela fritou a rede — disse Valéria, tirando o pendrive chamuscado do bolso de Gabo com uma luva térmica e conectando-o rapidamente à porta de diagnóstico do deck. — O núcleo de armazenamento resistiu ao curto-circuito, mas o software... é como se ela tivesse queimado a própria contenção lógica para servir de fusível.
 
 — E Dante? — perguntou Rangel.
 
-— Vivo — respondeu Gabo, levantando-se. — Mas quebrado. Deixamos ele lá.
+— Vivo — respondeu Gabo, passando o braço bom de Rangel por cima do próprio ombro. — Mas quebrado. Deixamos ele lá.
 
 Rangel assentiu, devagar.
 
@@ -63,10 +64,10 @@ Baía Cinzenta, a cidade que nunca dormia, a metrópole de neon e hologramas, es
 
 O silêncio era o que mais assustava. Não havia o zumbido constante dos servidores, nem o tráfego aéreo, nem as sirenes. Apenas o som da chuva batendo no metal.
 
-— Nós matamos a cidade — disse Rangel, apoiando-se em Gabo para ficar de pé.
+— Nós matamos a cidade — disse Rangel, apoiando quase todo o peso em Gabo para ficar de pé.
 
 — Não — corrigiu Gabo, olhando para a escuridão onde milhões de pessoas agora acordavam livres do controle algorítmico, provavelmente aterrorizadas, mas livres. — Nós a desligamos. Agora ela pode acordar.
 
-Gabo pegou os pés de Aria. Valéria pegou os ombros. Rangel, mancando, abriu caminho com a arma em punho.
+Gabo sustentou o tronco pesado de Rangel pelo lado esquerdo. Valéria guardou o pendrive inerte da Aria no estojo blindado e apoiou o inspetor pelo lado direito, mantendo a pistola dele pronta.
 
-Eles saíram para a chuva fria, deixando as ruínas da Prometeu para trás. Não havia fanfarra, nem vitória gloriosa. Apenas quatro sobreviventes — três humanos e uma máquina — mancando na escuridão, enquanto o cheiro de chuva limpa começava, lentamente, a lavar o cheiro de carne queimada.
+Eles saíram para a chuva fria, deixando as ruínas da Prometeu para trás. Não havia fanfarra, nem vitória gloriosa. Apenas três sobreviventes de carne e osso — e uma inteligência artificial adormecida num cilindro de titânio — mancando na escuridão, enquanto o cheiro de chuva limpa começava, lentamente, a lavar o cheiro de carne queimada.

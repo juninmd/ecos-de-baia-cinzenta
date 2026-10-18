@@ -14,11 +14,11 @@ Gritos, buzinas travadas, sirenes constantes, música distorcida de alto-falante
 
 Gabriel rolou, sentindo as cicatrizes no estômago repuxarem. O chip de dados que ele engolira meses atrás ainda estava lá, encapsulado em tecido cicatricial, um tumor de silício. Às vezes, ele achava que podia sentir o código vibrando contra suas costelas, sussurrando segredos que ele não conseguia decifrar.
 
-— *Bom dia, detetive,* — a voz de Aria piscou no despertador digital quebrado na cabeceira. — *Temperatura atual: 12 graus. Chance de chuva ácida: 100%. Chance de sobrevivência: Variável.*
+— *Bom dia, detetive,* — a voz de Aria soou pelo alto-falante do rádio-despertador na cabeceira, onde o componente tipo pendrive que Gabo encontrara na cabine telefônica na enchente estava espetado na porta lateral, com o LED azul pulsando devagar. — *Temperatura atual: 12 graus. Chance de chuva ácida: 100%. Chance de sobrevivência: Variável.*
 
-— Cale a boca, Aria — resmungou Gabriel, levantando-se como um velho de trinta anos.
+— Cale a boca, Aria — resmungou Gabriel, levantando-se como um velho de trinta anos e puxando o pendrive morno da tomada de dados para encaixá-lo no comunicador tático.
 
-Aria não respondeu. Ela era um fantasma agora, vivendo nos circuitos de seu apartamento, em seu carro, em seu comunicador. Valéria tentava isolá-la, entender o código fonte, mas a menina digital era escorregadia. Ela aparecia quando queria, sumia quando precisavam dela.
+Aria não respondeu. A assistente de IA vivia trancada naquele prisma de titânio de sete centímetros que migrava do painel do carro para o comunicador dele e para a bancada de Valéria. Valéria passara meses tentando descompilar o núcleo do pendrive para entender o código-fonte, mas a arquitetura da IA era blindada: abria os canais quando queria e entrava em modo furtivo quando tentavam dissecá-la.
 
 Gabriel bebeu um gole de uísque barato direto da garrafa para matar as bactérias da boca e vestiu o sobretudo bege, que agora cheirava permanentemente a mofo. Tocou o Colar de Sol, sentindo o metal frio contra o peito.
 
@@ -82,10 +82,10 @@ Gabriel pegou a foto do cadáver. Olhos queimados. A boca aberta num grito silen
 
 Gabriel suspirou e pegou as chaves do carro.
 
-— Aria já traçou a rota? — perguntou ele para o ar.
+— Aria já traçou a rota? — perguntou ele, tocando o comunicador onde o pendrive estava acoplado.
 
-— *Rota otimizada,* — a voz da menina saiu do comunicador de Valéria. — *Tráfego pesado na Zona Sul. Recomendo passar pelo Distrito das Fábricas.*
+— *Rota otimizada,* — a voz sintética da assistente de IA saiu pelo canal pareado com o comunicador de Valéria. — *Tráfego pesado na Zona Sul. Recomendo passar pelo Distrito das Fábricas.*
 
 Valéria revirou os olhos.
 
-— Eu odeio quando ela faz isso com meu equipamento. Vamos, Gabo. O morto não vai esperar.
+— Eu odeio quando esse seu pendrive sequestra a frequência do meu deck. Vamos, Gabo. O morto não vai esperar.

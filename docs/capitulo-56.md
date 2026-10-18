@@ -3,7 +3,7 @@ layout: doc
 title: "Capítulo 56: O Preço do Amanhã"
 description: "Elena vai embora, e Gabo descobre a data no rodapé de uma planta de reurbanização: o Dilúvio não foi tragédia. Foi entrega de terreno."
 image: /capitulo_56.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Aria Moretti
+Personagens Presentes: Gabriel "Gabo" Moretti, Aria
 ---
 
 # Capítulo 56: O Preço do Amanhã
@@ -22,7 +22,7 @@ Letra cursiva, inclinada para a direita, com o "g" de cauda fechada. Ele conheci
 
 > *Não me procure. O que eu carrego é grande demais para caber num porão. Preciso levar isso para fora da cúpula, para um lugar onde a Aeterna não possa apagar arquivo.*
 >
-> *Cuide de você. A Aria se foi, mas a culpa não precisa te levar junto.*
+> *Cuide de você. A mamãe se foi na água, mas a culpa não precisa te levar junto.*
 >
 > *E, por favor: tenta não morrer. — L.*
 
@@ -38,21 +38,19 @@ Depois virou o papel do outro lado, para ver se tinha mais, e não tinha, e essa
 
 Ele guardou o bilhete no bolso interno do sobretudo, junto com o resto: a chave do Cobalt, o molho de chaves de onze fitas azuis do Seu Otávio, um cartucho de calibre 12 que ele nunca usava e que estava ali desde o ano trinta e nove.
 
-E olhou para o banco de trás.
+E olhou pela janela para o painel do carro.
 
-A boneca de pano estava lá, encostada no assento, com a perna esquerda remendada com linha de cor errada. Ela tinha aparecido no carro no dia trinta e um e ninguém colocou.
+Espetado na porta de diagnóstico do console central estava o drive neural da Aria — aquele bloco blindado de titânio fosco e polímero negro, do tamanho de um pendrive pesado, que ele tinha arrancado do terminal de uma cabine telefônica semi-submersa no começo da enchente.
 
-E, ao lado dela, dormindo encolhida com o cobertor puxado até o queixo, estava a menina.
+Desde o colapso da rede elétrica da cidade, o módulo operava em hibernação tática de baixo consumo. O pequeno LED lateral oscilava entre o azul-gelo e o âmbar, lento como um pulso em repouso, aquecendo de leve o plástico rachado do painel enquanto filtrava frequências mortas.
 
-Ela não estava ali quando ele estacionou.
+Gabo já não estranhava mais conversar com um pedaço de metal espetado no console. Tinha testado desligá-la duas vezes nas primeiras semanas e o silêncio do carro ficava insuportável. Ele agora fazia o que se faz com equipamento de trincheira: mantinha conectado e seguia em frente.
 
-Gabo já não perguntava mais essas coisas. Tinha feito a pergunta em voz alta umas quinze vezes nas primeiras semanas e as respostas nunca foram boas. Ele agora fazia o que se faz com sintoma crônico: anotava e seguia em frente.
+O indicador luminoso piscou duas vezes em azul, confirmando que os sensores passivos do módulo o acompanhavam através do para-brisa.
 
-Ela parecia menor do que ele lembrava. Mais frágil. Dormia como se a cidade não existisse, que é uma coisa que só criança e morto conseguem.
+— Estamos sozinhos no setor, Aria — ele disse para o vidro.
 
-— Estamos sozinhos, garota — ele disse, para o retrovisor.
-
-A menina não acordou, porque ela nunca acordava, porque ela nunca tinha dormido.
+No painel, o LED do pendrive estabilizou num brilho contínuo, vigiando a garoa sem gastar um watt a mais do que o necessário.
 
 ---
 
@@ -146,15 +144,15 @@ Sentar doeu. Ele tinha aprendido a fazer aquilo em três tempos — apoiar no ba
 
 Ele precisava de óleo. Precisava de peça, de parafuso, de um torno, de um mecânico que não fizesse pergunta.
 
-Precisava, acima de tudo, sair dali antes que a lembrança da Aria o alcançasse, porque ela vinha sempre no mesmo horário e ele conhecia os sintomas.
+Precisava, acima de tudo, sair dali antes que a lembrança de Helena o alcançasse, porque ela vinha sempre no mesmo horário e ele conhecia os sintomas.
 
-No banco de trás, a menina continuava dormindo.
+No console central, o pendrive de titânio da Aria continuava encaixado na porta de dados.
 
-Ele encontrou os olhos dela abertos no retrovisor.
+O pequeno LED azul-gelo piscou três vezes no escuro da cabine, projetando na tela monocromática do painel o número do protocolo municipal que os sensores ópticos haviam capturado pela janela: `2088/61 — VINCULAÇÃO FINANCEIRA DETECTADA`.
 
-Ela não disse nada. Nunca dizia. Só ficou olhando para ele daquele jeito paciente e antigo que uma criança de cinco anos não tem como ter, e Gabo sustentou o olhar por dois segundos e depois desviou, como sempre.
+Ela não emitiu voz pelo alto-falante para poupar a bateria do carro. Só deixou a linha gravada no visor, com aquela precisão cirúrgica e antiga que nenhum software comercial deveria ter, e Gabo sustentou o olhar no código por dois segundos antes de desviar.
 
-— Eu sei — ele disse. — Eu vou ler o rodapé, tá?
+— Eu sei, Aria — ele disse para o painel. — Eu vou ler o rodapé, tá?
 
 ---
 

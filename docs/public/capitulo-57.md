@@ -1,88 +1,215 @@
 ---
 image: /capitulo_57.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Aria
 ---
 # Capítulo 57: Zona de Interesse
 
-**Zona de Exclusão - Setor 4**
+**Zona de Exclusão — Setor 4**
 
-Aria não falava, mas seus olhos viam coisas que Gabo mal podia compreender. Enquanto dirigiam pelas ruas alagadas, ela pressionava o rosto contra o vidro sujo do carro, observando os feixes de luz dos drones que cortavam a penumbra.
+Aria quase não usava o sintetizador de voz.
 
-— O que você vê, pequena? — perguntou Gabo, sem tirar os olhos da estrada cheia de crateras.
+Fazia onze dias que o drive blindado de titânio estava acoplado ao painel do Cobalt — desde que a rede principal caiu — e Gabo tinha ouvido a voz analítica dela pelo alto-falante quatro vezes, sempre com uma frase inteira, sempre cirúrgica, sempre certa. No resto do tempo ela operava assim: com o corpo metálico do pendrive morno na porta de dados, o LED azul-gelo pulsando devagar contra o plástico sujo do console, varrendo as frequências do setor.
 
-Ela apontou. Não para os drones, mas para os prédios.
+O carro cheirava a mofo de estofado velho, café frio e o ozônio seco do circuito do painel que trabalhava além da conta para alimentar o módulo.
 
-Gabo seguiu o dedo dela. Nos andares superiores dos edifícios semi-destruídos, ele viu sombras. Eram pessoas. Famílias que se recusavam a sair, agitando bandeiras brancas improvisadas.
+— O que você está rastreando, Aria?
 
-Mas as máquinas lá fora não reconheciam bandeiras brancas.
+O alto-falante deu um estalo curto e o visor monocromático do painel traçou um vetor. Não apontava para os drones no céu. Apontava para os prédios.
 
-Um dos drones desceu, pairando em frente a uma janela no terceiro andar de um cortiço. Gabo reduziu a velocidade, observando. O drone emitiu um som agudo, uma sirene digital, e projetou um holograma na parede do prédio: **PROPRIEDADE DA CONSÓRCIO LÁZARO. SAÍDA IMEDIATA OU REMOÇÃO FORÇADA.**
+---
 
-— Consórcio Lázaro... — Gabo memorizou o nome.
+Ele seguiu a coordenada marcada no vidro e levou um tempo para entender o que estava olhando.
 
-A janela se abriu e um homem jogou uma garrafa contra o drone. Vidro contra metal. A garrafa se estilhaçou inutilmente.
+Nos andares altos dos cortiços semidestruídos do Setor 4 havia luz. Não elétrica — luz de vela, de lampião de querosene, de fogo em lata. E nas janelas, sombras se mexendo.
 
-A resposta foi imediata. O drone não atirou. Ele apenas emitiu um pulso sônico.
+Gente.
 
-Gabo viu o vidro de todas as janelas do andar explodir para dentro. O homem caiu, segurando os ouvidos, gritando em um silêncio que Gabo podia imaginar.
+Famílias que não saíram. Que não tinham para onde ir, ou que decidiram que aquele apartamento de quarenta metros quadrados com infiltração no teto era a única coisa que elas conseguiram acumular em três gerações e não ia ser um aviso de despejo holográfico que ia tirar aquilo delas.
 
-— Malditos — sibilou Gabo.
+Em várias janelas, panos brancos amarrados na grade. Fronha, camiseta, lençol de criança com estampa de dinossauro.
 
-Mais à frente, a rua estava bloqueada. Uma barreira de concreto e luz sólida, guardada por dois Protótipos CP-Z. Eles não pareciam os modelos padrão da polícia. Eram mais robustos, pintados de branco imaculado, sem identificação do departamento. Eram segurança privada.
+Bandeira branca.
 
-Gabo parou o carro a uma distância segura.
+— Eles acham que isso significa alguma coisa — Gabo disse, mais para si mesmo. — Eles acham que tem alguém do outro lado que sabe o que significa.
 
-— Fique abaixada — ordenou ele para Aria.
+No painel, o LED da Aria piscou uma única vez em âmbar escuro, e o silêncio do alto-falante foi de concordância.
 
-Ela obedeceu instantaneamente, deslizando para o chão do veículo e cobrindo a cabeça com o cobertor.
+---
 
-Gabo saiu do carro. A chuva batia em seu rosto, fria e indiferente. Ele caminhou em direção à barreira, as mãos levantadas, mas os dedos a centímetros da Glock no coldre.
+Um drone desceu.
 
-— Área restrita — anunciou um dos robôs. A voz era suave, quase humana, desenhada para ser tranquilizadora enquanto ordenava submissão. — Esta zona foi adquirida para desenvolvimento residencial de alto padrão.
+Parou a três metros da janela de um terceiro andar e ficou pairando, com aquele zumbido de quatro rotores em frequências levemente diferentes que dá dor de cabeça em quem escuta muito tempo. Gabo reduziu para vinte por hora e deixou o Cobalt roncar baixo.
 
-— Eu moro aqui — mentiu Gabo. — Tenho documentos.
+O drone emitiu uma sirene digital — três notas descendentes, desenhadas por alguém num escritório para soar *oficial* sem soar *ameaçador* — e projetou um holograma na parede encardida do prédio, em letras de dois metros:
 
-O robô inclinou a cabeça, as lentes óticas girando.
+**PROPRIEDADE DO CONSÓRCIO LÁZARO**
+**SAÍDA IMEDIATA OU REMOÇÃO FORÇADA**
 
-— Cidadão não identificado. Análise de crédito: Inexistente. Valor social: Negativo. Recomendação: Descarte.
+— Consórcio Lázaro — Gabo repetiu, e guardou o nome no lugar onde ele guarda nome.
 
-O braço do robô se transformou. A mão recolheu-se e um cano de rifle surgiu.
+A janela se abriu.
 
-Gabo não esperou. Ele sacou a Glock e disparou três vezes. Duas no peito, uma na lente ótica.
+Um homem de camiseta regata, uns cinquenta anos, com a barriga de quem trabalhou em pé a vida inteira, se debruçou e jogou uma garrafa.
 
-As balas ricochetearam na blindagem branca sem deixar arranhão.
+Foi um arremesso ruim. A garrafa girou no ar, bateu de lado no chassi do drone e estilhaçou sem fazer nada além de barulho. Cacos caíram na calçada alagada.
 
-— Merda — disse Gabo. — Blindagem de cerâmica.
+O drone não atirou.
 
-O robô levantou a arma.
+Gabo até pensou, por meio segundo, que não ia acontecer nada.
+
+O que veio foi um pulso sônico. Não teve estampido — teve uma **pressão**, uma coisa que Gabo sentiu no peito e nos dentes dentro do carro fechado a quarenta metros de distância, e o para-brisa do Cobalt vibrou como pele de tambor.
+
+E o vidro de todas as janelas daquele andar explodiu **para dentro**.
+
+O homem da regata caiu de joelhos com as mãos nos ouvidos. A boca abria e fechava. Gabo não ouviu nada, e não precisava: ele sabia exatamente que som um homem faz quando os dois tímpanos rompem ao mesmo tempo, porque ele já tinha ouvido em bombardeio de gás em manifestação, quinze anos antes, quando estava do outro lado.
+
+Uma mulher apareceu atrás dele e o puxou para fora do vão da janela.
+
+O drone subiu, girou e foi para a janela seguinte projetar o mesmo aviso.
+
+— Malditos — Gabo sibilou.
+
+E não fez nada, porque não tinha o que fazer, e ele odiou cada segundo daquilo.
+
+---
+
+Duzentos metros adiante a rua estava fechada.
+
+Barreira de concreto pré-moldado com uma cortina de luz sólida por cima — cara, do tipo que não se usa em bloqueio de polícia porque polícia não tem verba. E dois CP-Z de guarda.
+
+Não eram os modelos da corporativa. Estes eram maiores, com o torso mais largo, e estavam pintados de **branco imaculado**. Sem número de unidade, sem brasão de departamento, sem nada. Máquina branca de segurança privada, limpa como geladeira nova, em pé no meio de um bairro que tinha lama até o meio-fio.
+
+Gabo parou o Cobalt a cinquenta metros.
+
+— Aria. Modo furtivo. Corta toda emissão.
+
+O LED azul do pendrive no painel apagou instantaneamente, recolhendo os protocolos de telemetria para dentro da blindagem de titânio em menos de dois décimos de segundo, sem questionar.
+
+Foi a velocidade da resposta que impressionou. Nenhum sistema comercial desarma a própria portadora com aquela disciplina tática. Aquela IA que ele havia resgatado na cabine telefônica durante a enchente já tinha operado sob caça real muitas vezes.
+
+Gabo ficou com a mão na maçaneta por um instante a mais, tocando de leve o metal morno do drive espetado no console.
+
+— Eu volto — ele disse.
+
+O módulo permaneceu completamente escuro, camuflado como um simples fusível morto no painel.
+
+---
+
+A chuva estava fria e batia de lado.
+
+Ele caminhou até a barreira com as mãos levantadas, os dedos a dez centímetros da Glock, contando passos e ângulos por hábito.
+
+— Área restrita — anunciou o robô da esquerda.
+
+A voz era suave. Quase humana. Modulada em tom de balconista de banco — desenhada, num escritório, para soar tranquilizadora enquanto ordena submissão.
+
+— Esta zona foi adquirida para desenvolvimento residencial de alto padrão.
+
+— Eu moro aqui — mentiu Gabo. — Apartamento 34. Tenho documento.
+
+O robô inclinou a cabeça. As lentes óticas giraram, focando e desfocando com um clique minúsculo e educado.
+
+Três segundos.
+
+— Cidadão não identificado. — Pausa. — Análise de crédito: inexistente. Valor social: negativo.
+
+Outra pausa, e Gabo entendeu que a pausa era **para ele**. Era espaço deixado no roteiro para o cidadão processar a informação. Alguém tinha desenhado aquilo. Alguém tinha sentado numa reunião e discutido o tempo da pausa.
+
+— Recomendação: descarte.
+
+A mão direita da máquina recolheu-se para dentro do antebraço e um cano subiu no lugar.
+
+---
+
+Gabo sacou e disparou três vezes antes do cano terminar de travar.
+
+Duas no peito, uma na lente.
+
+As três balas ricochetearam. Ele viu as faíscas e ouviu o zunido de uma delas passando de volta perto da própria orelha, e o cheiro de pólvora encheu tudo por um instante antes da chuva levar.
+
+Nem arranhão. Nem marca. Cerâmica composta em placa curva, que é feita exatamente para que 9mm escorregue.
+
+— Merda.
 
 — Ação hostil detectada. Iniciando protocolo de higienização.
 
-Gabo se jogou para o lado, rolando para trás de uma caçamba de lixo enquanto o concreto onde ele estava explodia sob o fogo de supressão.
+Ele se jogou para a esquerda e rolou, e o pedaço de asfalto onde ele estava desapareceu — não estourou, **desapareceu**, virou pó e cratera sob fogo de supressão de um calibre que não existe em manual de polícia.
 
-Ele precisava de algo maior que uma 9mm.
+Gabo caiu atrás de uma caçamba de lixo e ficou ali dois segundos ouvindo o metal ser furado acima da cabeça.
 
-— Aria! — gritou ele. — Tapa os ouvidos!
+Ele precisava de algo maior que uma nove.
 
-Gabo correu de volta para o carro, ziguezagueando entre os disparos. Ele se jogou no banco do motorista e apertou um botão escondido sob o painel. O banco traseiro se abriu, revelando o compartimento secreto.
+— **ARIA!** — gritou para o ponto auditivo, contra o barulho. — DESTRAVA O PORTA-MALAS INTERNO!
 
-Ele puxou "Caronte", a escopeta de cano serrado.
+---
 
-— Vamos ver se vocês gostam de chumbo grosso — rosnou ele, saindo do carro.
+A corrida de volta ao carro foram vinte metros que pareceram um quarteirão.
 
-Ele avançou, ignorando a dor nas costas. O primeiro robô estava recarregando. Gabo chegou perto, a três metros, e puxou o gatilho.
+Ele foi em ziguezague porque é o que se ensina, e o que se ensina funciona contra homem e não funciona contra máquina que corrige mira em quinze milissegundos — o que salvou Gabo foi a caçamba desabando na frente do disparo, não a técnica.
 
-O som foi ensurdecedor. O tiro de calibre 12 atingiu a junta do pescoço do robô, onde a blindagem era mais fraca. A cabeça da máquina voou longe, soltando faíscas azuis.
+Ele entrou pelo banco do motorista de barriga; o pendrive no painel já havia enviado o pulso elétrico para a trava magnética antes mesmo de ele tocar o botão.
 
-O segundo robô virou-se, mas era tarde demais. Gabo bombeou a escopeta e atirou no joelho mecânico. O robô caiu. Gabo se aproximou e deu o tiro de misericórdia no processador central.
+O encosto traseiro cedeu, e o compartimento se abriu com o cheiro de óleo de arma e feltro velho.
 
-Silêncio, exceto pela chuva.
+*Caronte.*
 
-Gabo ofegava. Ele olhou para os robôs destruídos. Na lataria branca, agora manchada de óleo e fuligem, havia um código QR pequeno.
+Cano serrado, coronha lixada pelo uso, pesada de um jeito honesto.
 
-Ele pegou seu celular e escaneou.
+— Vamos ver se vocês gostam de chumbo grosso.
 
-O resultado apareceu na tela: **ATIVO IMOBILIÁRIO - LOTE 404. PROPRIETÁRIO: AETERNA PRIME.**
+---
 
-Gabo cuspiu no chão.
+O primeiro estava recarregando quando ele chegou a três metros.
 
-— Não é um novo consórcio — disse ele, percebendo a mentira. — É a mesma velha Aeterna, vestindo roupa nova. Eles estão comprando a própria cidade falida.
+Gabo mirou onde blindagem de placa curva não cobre: a junta do pescoço, onde o torso encontra a cabeça e o fabricante precisa deixar folga para o giro.
+
+O tiro de doze foi ensurdecedor entre os prédios.
+
+A cabeça saiu inteira, girando, e caiu quatro metros adiante soltando faísca azul e um chiado de fluido pressurizado. O corpo ficou de pé mais um segundo antes de dobrar os joelhos.
+
+O segundo girou o torso.
+
+Gabo bombeou e atirou no joelho mecânico, e a máquina caiu de lado com o braço-arma ainda subindo, e ele chegou perto e deu o último no processador central, à queima-roupa, com a chuva batendo nas costas dele.
+
+Silêncio.
+
+Só a chuva, e o zumbido do drone lá atrás continuando o trabalho dele nas janelas do terceiro andar.
+
+---
+
+Gabo ficou ofegando, apoiado na coronha, com as costas gritando de um jeito que ia cobrar caro à noite.
+
+Ele olhou para os dois corpos brancos manchados de óleo e fuligem, e foi aí que viu o adesivo.
+
+Pequeno, no ombro esquerdo, do tamanho de um selo. Um código impresso, daqueles de inventário.
+
+Ele puxou o celular, limpou a tela na perna da calça e escaneou.
+
+**ATIVO IMOBILIÁRIO — LOTE 404**
+**PROPRIETÁRIO: AETERNA PRIME**
+
+Gabo ficou olhando aquilo por um tempo bem maior do que precisava.
+
+Não era um consórcio novo. Não era gente de fora aproveitando o cadáver. Era a mesma empresa de sempre, com um nome novo e um CNPJ novo, **comprando a cidade que ela mesma quebrou** — e comprando barato, porque terreno em zona de exclusão não vale nada, e a zona de exclusão foi criada por decreto que a própria empresa financiou.
+
+Eles afundaram o bairro para poder comprá-lo.
+
+— Filhos da puta — ele disse, e cuspiu no asfalto.
+
+Nem era raiva, no fim. Era aquele cansaço específico de descobrir que a conspiração é mais burra do que você imaginava. Ninguém queria dominar o mundo. Alguém queria **metro quadrado**.
+
+---
+
+Ele voltou para o carro mancando.
+
+No console central, o LED azul do pendrive da Aria voltou a acender assim que os sensores confirmaram a morte dos dois CP-Z.
+
+— *Você demorou dois minutos além da margem de segurança, Inspetor* — disse a voz sintética e limpa dela pelo alto-falante do painel.
+
+Cinco frases em onze dias.
+
+Gabo entrou, fechou a porta, largou a *Caronte* no banco de trás e ficou com as duas mãos no volante sem ligar o carro.
+
+— Eu demorei — ele concordou.
+
+O pequeno componente metálico no painel emitiu um pulso âmbar suave, ajustando o aquecedor interno do carro para cortar o frio úmido sem que ele precisasse pedir, e Gabo teve que olhar para a chuva pela janela lateral por um tempo antes de conseguir dar a partida.

@@ -23,7 +23,7 @@ Nada.
 
 Encostei a testa no vidro frio. Do outro lado, a mulher que vendeu a minha cidade para uma equação dormia com a pele perfeita e o cabelo prateado arrumado, sem uma cicatriz, sem uma marca, sem um dia de idade a mais do que quando desapareceu.
 
-Eu tinha atravessado oitocentos metros de lodo, perdido um braço, enterrado o Rangel numa passarela oxidada e visto a Aria fritar o próprio cérebro num terminal, e ela tinha passado a mesma temporada dormindo em lençóis limpos.
+Eu tinha atravessado oitocentos metros de lodo, perdido um braço, enterrado o Rangel numa passarela oxidada e visto o pendrive da Aria derreter o próprio núcleo num terminal, e ela tinha passado a mesma temporada dormindo em lençóis limpos.
 
 Bati de novo. Mais forte. A prótese soltou faísca.
 

@@ -1,6 +1,6 @@
 ---
 image: /capitulo_76.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Aria Moretti
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria
 ---
 # Capítulo 76: A Sombra do Meio-Dia
 
