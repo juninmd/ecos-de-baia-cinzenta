@@ -57,6 +57,7 @@ Uma megalópole costeira, isolada e estratificada, onde chove 300 dias por ano (
 *   **Arquétipo:** A Verdade Inconveniente.
 *   **Dinâmica com Gabo:** Tensão romântica não resolvida, mágoa e respeito mútuo. Ela o deixou para não vê-lo morrer.
 *   **Função:** Busca a verdade através dos fatos, enquanto Gabo busca através dos punhos.
+*   **Destino Canônico:** Sacrifício heroico na Subestação Orla Norte (Caps 234-236). Destruiu a infraestrutura de purga e vigilância da Aeterna, transmitiu a Arca Zero via onda curta e deixou o microcassete de despedida. Sepultada na lama vermelha da Velha Baía.
 
 ### Roberto Miranda (O Antagonista Pessoal)
 *   **Arquétipo:** O Espelho Distorcido/O Traidor.
@@ -142,7 +143,7 @@ A estética do projeto é definida por três pilares:
 | Personagem | Status | Localização | Obs. |
 | :--- | :--- | :--- | :--- |
 | **Gabo** | **VIVO** | Superfície | Ferido, mas ativo. Exoesqueleto falho. |
-| **Elena** | **VIVA** | Superfície | Combatente ativa (ex-esposa de Gabo). |
+| **Elena** | **MORTA (CAP 235)** | Velha Baía | Sacrifício heroico na Orla Norte; fita cassete deixada; sepultada no Cap 236. |
 | **Valéria** | **VIVA** | Superfície | Recuperada da petrificação. Olhos prateados. |
 | **Aria** | **ATIVA NO PENDRIVE (ATÉ CAP 167)** | Drive portátil | Assistente de IA no componente tipo pendrive achado na cabine telefônica; fundida no Cap 167. |
 | **Bio-Dante** | **ATIVO** | Superfície | Antagonista trágico. Ver seção abaixo. |

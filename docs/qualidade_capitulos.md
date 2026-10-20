@@ -3,7 +3,7 @@
 > Gerado por `scripts/quality_gate.py` conforme o padrão do `AGENTS.md`.
 > Ordenado do pior para o melhor: a revisão manual começa no topo.
 
-- **Capítulos avaliados:** 235
+- **Capítulos avaliados:** 238
 - **Reprovados em portão duro:** 0
 - **Abaixo do alvo de 1100 palavras:** 54
 - **Nota média:** 8.9/10
@@ -206,6 +206,7 @@
 | Capítulo 123: Protocolo de Sombra | 1184 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 211: O Altar de Gelo | 1199 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 202: O Corredor Silencioso | 1200 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
+| Capítulo 236: A Terra Vermelha | 1203 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 146: O Preço da Passagem | 1212 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 182: A Superfície Pálida | 1215 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 129: Fluxo Reverso | 1217 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
@@ -236,6 +237,7 @@
 | Capítulo 154: A Otimização do Abismo | 1571 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 221: Modo de Segurança | 1589 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 56: O Preço do Amanhã | 1590 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
+| Capítulo 235: O Lado B | 1642 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 231: Catraca | 1643 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 226: A Mulher de Fora | 1723 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 28: O Último Suspiro da Torre | 1761 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
@@ -244,4 +246,5 @@
 | Capítulo 1: Olhos de Vidro | 1790 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 68: A Caçada Inversa | 1828 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 229: O Homem no Portão | 1839 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
+| Capítulo 234: O Fio Cortado | 2034 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 233: Ponto Zero | 2041 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
