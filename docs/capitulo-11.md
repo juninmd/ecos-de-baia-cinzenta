@@ -7,11 +7,11 @@ Localização: "Subsolo do Distrito da Névoa (sob a lavanderia automática) →
 
 A "realidade" em Baía Cinzenta sempre fora uma sugestão, nunca um fato. Mas agora, Gabriel e Valéria estavam descobrindo que ela era editável.
 
-O esconderijo de Dr. Nise ficava no subsolo do Distrito da Névoa, sob uma antiga lavanderia automática. O lugar cheirava a detergente barato e ozônio.
+O esconderijo da Dra. Nise ficava no subsolo do Distrito da Névoa, sob uma antiga lavanderia automática. O lugar cheirava a detergente barato e ozônio.
 
 — Fiquem parados — ordenou a voz rouca vinda das sombras.
 
-Dr. Nise não era um homem. Era uma mulher idosa, de olhos acastanhados atentos e pele marcada pelo tempo, o jaleco permanentemente manchado de reagentes. Um enxame de micro-drones zumbia ao seu redor como moscas metálicas, ampliando sua leitura do ambiente.
+Dra. Nise era uma mulher idosa, de olhos acastanhados atentos e pele marcada pelo tempo, o jaleco permanentemente manchado de reagentes. Um enxame de micro-drones zumbia ao seu redor como moscas metálicas, ampliando sua leitura do ambiente.
 
 — Estamos limpos, Doutora — disse Valéria, levantando as mãos. — Precisamos de ajuda.
 
@@ -51,7 +51,7 @@ A voz de Aria saiu do alto-falante, baixa, quase educada: — *Doutora, eu não 
 
 — Eu sei — disse Nise, e sorriu. — É por isso que eu queria os dez minutos.
 
-— Ele descobriu a Frequência Fantasma. — Nise interrompeu, a voz grave. — O implante dele não modulava apenas o humor dele. Modulava o de quem assistia.
+— Ele descobriu a Frequência Fantasma. — Nise disse, a voz grave. — O implante dele não modulava apenas o humor dele. Modulava o de quem assistia.
 
 Nise ligou um monitor antigo. A tela tremeluziu e mostrou linhas de onda de áudio.
 
@@ -103,21 +103,21 @@ Gabriel leu. A letra era grande e apressada, inclinada para a direita, a mesma d
 
 — O sinal tem uma origem — continuou Nise, ignorando o choque de Gabriel. — Uma fonte primária.
 
-Um mapa de Baía Cinzenta apareceu na tela. Um ponto vermelho pulsava no centro do Distrito de Prata.
+Um mapa de Baía Cinzenta apareceu na tela. Um ponto vermelho pulsava no miolo do Distrito Central.
 
-— A Torre de Marfim? — perguntou Gabriel. — A antiga sede da Aeterna?
+— A Torre de Marfim? — perguntou Gabriel. — A sede da Aeterna?
 
 — Não — disse Valéria. — Está vindo do subsolo da Torre. Dos antigos bunkers de dados.
 
-— Onde meu pai está enterrado — murmurou Gabriel. — Ou o que sobrou dele.
+— Onde meu pai está — murmurou Gabriel. — Ou o que sobrou dele.
 
-Nise virou seu rosto cego na direção dele, e seus drones zumbiram mais perto. — Seu pai era um homem complicado, Gabriel. Ele sabia que a Aeterna estava construindo uma gaiola. Ele só não imaginava que o filho seria o pássaro. Ele sabia do sinal. Achava que podia controlá-lo.
+Nise virou o rosto na direção dele, e seus drones zumbiram mais perto. — Seu pai era um homem complicado, Gabriel. Ele sabia que a Aeterna estava construindo uma gaiola. Ele só não imaginava que o filho seria o pássaro. Ele sabia do sinal. Achava que podia controlá-lo.
 
 A revelação atingiu Gabriel como um soco. Seu pai, o herói da cidade, era cúmplice?
 
 O chão tremeu antes do som chegar. Poeira caiu do teto baixo.
 
-— Unidade de Cancelamento. Nível 5. — Nise engatilhou a espingarda com um movimento fluido, sem pânico. — Meus drones detectaram uma unidade de "Cancelamento" se aproximando.
+— Unidade de Cancelamento. Nível 5. — Nise largou a xícara. — Meus drones detectaram uma unidade de "Cancelamento" se aproximando.
 
 — Temos que sair — disse Gabriel, sacando a arma.
 
