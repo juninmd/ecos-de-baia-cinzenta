@@ -34,3 +34,7 @@ build-backend = "hatchling.build"
 
 [tool.hatch.build.targets.wheel]
 packages = ["scripts"]
+
+[tool.pytest.ini_options]
+# Os testes de scripts/ dependem de torch (extra `art`) e não entram no gate padrão.
+testpaths = ["tests"]
