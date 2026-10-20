@@ -127,7 +127,7 @@ Eram **estoque**.
 
 Ele forçou o raciocínio até o fim, porque era o que ele sabia fazer e porque parar no meio era pior.
 
-A Nova Baía vendia imortalidade digital. Isso ele já suspeitava desde a lista de inquilinos.
+A Nova Baía vendia imortalidade digital. Isso ele já suspeitava desde os arquivos que a Val tinha recuperado.
 
 Mas quem compra imortalidade é gente que tem dinheiro, e gente que tem dinheiro é pouca, e um data center daquele tamanho não se sustenta com pouca. Um servidor precisa de carga.
 
