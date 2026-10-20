@@ -11,7 +11,7 @@
 
 O vermelho opaco do painel biométrico piscou, não com a urgência de um alarme, mas com a lentidão letárgica de um sistema ancestral acordando de um coma. O som que se seguiu não foi o de travas deslizando suavemente, mas um ranger profundo e gutural de engrenagens de titânio arrastando-se contra décadas de ferrugem e calcificação. A Aeterna Corp, em sua arrogância arquitetônica, construíra portas para resistir a cercos nucleares. Agora, resistia à própria passagem do tempo.
 
-Gabo recuou, cambaleando, quando a porta finalmente cedeu alguns centímetros, liberando um sopro de ar que cheirava a poeira, cobre e uma esterilidade artificial há muito vencida. Ele pressionou a mão direita enfaixada contra o antebraço esquerdo sangrando, tentando estancar o fluxo carmesim que manchava as grades enferrujadas sob seus pés. A tontura o atingiu como um soco físico.
+Gabo recuou, cambaleando, quando a porta finalmente cedeu alguns centímetros, liberando um sopro de ar que cheirava a poeira, cobre e uma esterilidade artificial há muito vencida. Ele pressionou a mão direita em carne viva contra o antebraço esquerdo sangrando, tentando estancar o fluxo carmesim que manchava as grades enferrujadas sob seus pés. A tontura o atingiu como um soco físico.
 
 — *Amostragem aceita. Relé mecânico desengajado,* — Aria confirmou pelo alto-falante do deck, sua voz monocórdica ecoando ligeiramente no novo espaço enquanto seu drive blindado esfriava no slot do painel. Sua programação atual, reduzida à pura lógica tática desde o reboot, não via a perda de sangue como um estado que exigisse consolo, apenas mais um fator de ineficiência a ser catalogado.
 
@@ -27,7 +27,7 @@ O cheiro ali era diferente. O odor acre da caverna abaixo havia desaparecido, su
 
 Para Gabo, o ambiente asséptico disparou outro tipo de alarme interno. O cheiro de plástico queimado em uma sala estéril o transportou, por uma fração de segundo, para o necrotério onde vira o corpo de Bia Vargas anos atrás. O fantasma do cheiro de cigarro barato do legista que fumava no corredor misturou-se à lembrança, uma associação doentia que trouxe a bile amarga à sua garganta.
 
-A repulsa visceral à fumaça o atingiu como um golpe no estômago. Ele nunca fumava; a fumaça era o cheiro da perda, da negligência, dos demônios de sua família. O odor fantasma agora ameaçava asfixiá-lo, provocando uma ânsia de vômito que ele mal conseguia conter. Ele precisava de ar limpo, ou de algo forte o suficiente para despedaçar a memória.
+A repulsa visceral à fumaça o atingiu como um golpe no estômago. Ele nunca fumou; a fumaça era o cheiro da perda, da negligência, dos demônios de sua família. O odor fantasma agora ameaçava asfixiá-lo, provocando uma ânsia de vômito que ele mal conseguia conter. Ele precisava de ar limpo, ou de algo forte o suficiente para despedaçar a memória.
 
 Para combater a vertigem, Gabo cerrou a mão direita, aquela cujas palmas estavam em carne viva da escalada. A dor irradiou pelos nervos, aguda e purificadora. Ele grunhiu, a respiração sibilando por entre os dentes. A dor era o seu escape, a âncora brutal que o prendia ao presente. Ele não estava em um necrotério sufocado por fumaça; ele estava nas entranhas de Baía Cinzenta, e Rangel estava morrendo a seus pés. A dor era real. O resto era apenas sujeira do passado.
 
