@@ -45,7 +45,7 @@ Gabo encostou a testa no metal congelado, usando o choque térmico para afastar 
 
 — É o que tem pra hoje — Gabo grunhiu, empurrando-se para frente.
 
-O espaço entre as lâminas de aço era exíguo. Gabo teve que se contorcer, a jaqueta de couro úmida arranhando contra o gelo sujo. O frio emanava das pás como uma parede sólida. Metade do seu corpo estava do outro lado quando um estalo metálico ensurdecedor ecoou pelo duto.
+O espaço entre as lâminas de aço era exíguo. Gabo teve que se contorcer, o casaco encharcado arranhando contra o gelo sujo. O frio emanava das pás como uma parede sólida. Metade do seu corpo estava do outro lado quando um estalo metálico ensurdecedor ecoou pelo duto.
 
 A luz amarela no painel mudou para um vermelho furioso. O Taxidermista.
 
