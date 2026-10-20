@@ -13,7 +13,7 @@ O vento a 50 andares de altura não apenas soprava; ele espancava, um predador i
 
 Não houve tempo para pensar. Não houve tempo para rezar.
 
-Oito minutos antes, o teto da escada de serviço tinha descido meio metro com um estalo de osso, e a placa de gesso pegou Valéria de raspão na têmpora. Ela não caiu: continuou digitando com o sangue escorrendo pela orelha, terminou o comando e só então as pernas desligaram. Foi Elena quem a arrastou até a janela. Foi Elena quem encontrou os cabos.
+Oito minutos antes, chegar ao quinquagésimo andar tinha custado vinte andares de escada, um torniquete refeito duas vezes e uma perna que não dobrava mais. O teto da escada de serviço tinha descido meio metro com um estalo de osso, e a placa de gesso pegou Valéria de raspão na têmpora. Ela não caiu: continuou digitando com o sangue escorrendo pela orelha, terminou o comando e só então as pernas desligaram. Foi Elena quem a arrastou até a janela. Foi Elena quem encontrou os cabos.
 
 Elena terminava de prender Valéria, desacordada, nas costas de Gabo com um emaranhado de cabos de rede. Não era seguro. Não era um plano. Era a única opção.
 
@@ -77,9 +77,9 @@ De repente, o prédio tremeu violentamente. Um som grave e profundo, como o gemi
 
 — Não sei. — A voz dela vinha colada na orelha dele, e era a voz de sempre, sem drama, o que era pior. — Se eu soubesse, eu teria dito um número.
 
-As luzes do escritório piscaram e morreram. Lá fora, através das janelas panorâmicas, a cidade começou a se apagar. Bairros inteiros piscavam e sumiam na escuridão, um após o outro, como velas sendo sopradas.
+As luzes do escritório piscaram e morreram. Lá fora, através das janelas panorâmicas, a cidade começou a se apagar. Bairros inteiros piscavam e sumiam na escuridão, um após o outro, como velas sendo sopradas. O que o núcleo da Torre tinha derrubado às três da manhã, os reatores estavam terminando de derrubar agora: o resto da cidade, o que ainda vivia de gerador e de bateria, apagando quarteirão por quarteirão.
 
-O "Apagão" tinha começado.
+O "Apagão" estava completo.
 
 A torre respondeu do jeito que prédios ricos respondem: primeiro o silêncio dos elevadores, depois o gemido das bombas de água parando, depois o cheiro — o cheiro de ar-condicionado morrendo, aquele bafo de filtro velho e poeira quente que sai dos dutos quando o motor para. O prédio perdeu o perfume de uma vez.
 
