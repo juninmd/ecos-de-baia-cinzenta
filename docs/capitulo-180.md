@@ -57,7 +57,7 @@ Valéria soltou o ar num soluço seco, o cano da pistola descendo devagar. Ela e
 
 — A gente abre caminho sem faísca — falei, puxando-a para trás da mureta de proteção da passarela. — Fica aqui e cobre os olhos.
 
-Olhei para cima da massa principal de fungos que bloqueava o arco de saída da câmara. Três metros acima do chão passava uma tubulação industrial de retorno, velha, coberta de ferrugem corrosiva e pingando uma água verde-esmeralda que fumegava ao tocar o piso. Resíduo de purga ácida das caldeiras antigas do Distrito 4.
+Olhei acima da massa principal de fungos que bloqueava o arco de saída da câmara. Três metros acima do chão passava uma tubulação industrial de retorno, velha, coberta de ferrugem corrosiva e pingando uma água verde-esmeralda que fumegava ao tocar o piso. Resíduo de purga ácida das caldeiras antigas do Distrito 4.
 
 Afundei os pés no lodo da passarela, medindo o peso da minha armação de ferro.
 
