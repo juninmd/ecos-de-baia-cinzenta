@@ -149,7 +149,7 @@ Não foi drama. Ela simplesmente parou, e se sentou no degrau, e disse:
 
 — Eu carrego a senhora.
 
-— Você tá com o ombro fora do lugar e três costela quebrada. — Ela riu, e a risada virou tosse, e a tosse trouxe alguma coisa junto. — Eu limpo o andar da enfermaria. Eu sei como é que anda homem quebrado.
+— Você tá com o ombro fora do lugar e essa mão que não fecha. — Ela riu, e a risada virou tosse, e a tosse trouxe alguma coisa junto. — Eu limpo o andar da enfermaria. Eu sei como é que anda homem quebrado.
 
 Ela apontou para cima com dois dedos.
 
