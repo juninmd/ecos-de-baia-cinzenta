@@ -45,7 +45,7 @@ Gabo estava pendurado na porta, segurando-se com uma mão enquanto a outra empun
 
 Rangel se lançou para dentro do blindado, agarrando o corrimão da porta lateral com a mão encharcada e caindo sobre o piso de chapa lavrada.
 
-— Pela doca do peixe! — gritou ele, de quatro. — Tem um portão de serviço atrás do frigorífico. Chave analógica, tarugo de latão. Máquina nenhuma abre aquilo, mas eu carrego essa chave no bolso há onze anos.
+— Pela doca do peixe! — gritou ele, de quatro. — Tem um portão de serviço atrás do frigorífico. Chave analógica, tarugo de latão. Máquina nenhuma abre aquilo, mas eu carrego essa chave no bolso há onze anos. — Ele engoliu antes de continuar. — A mulher e o menino do galpão ficaram atrás da empilhadeira. Não sei se ainda estão lá.
 
 Val não perguntou como ele sabia. Virou o volante.
 
@@ -67,7 +67,17 @@ Gabo caiu no banco de metal oposto a Rangel, respirando com dificuldade. Ele bat
 
 — Você está bem? — Gabo perguntou, gritando sobre o rugido do motor.
 
-Rangel ignorou a pergunta. Ele apontou um dedo trêmulo para o console adaptado ao lado do painel do veículo, onde o pendrive blindado estava espetado num barramento de alto ganho. Do alto-falante tático acoplado ao deck de Valéria, uma voz sintética relatou a telemetria de fuga — mas sob a cadência analítica da IA, Rangel ouviu um timbre residual que gelou seu sangue: um eco das frequências vocais de Beatriz Vargas.
+Rangel ignorou a pergunta. Olhou para Valéria, depois para a lataria amassada em volta deles, como quem confere se ainda está acordado.
+
+— Você estava numa maca ontem — disse ele.
+
+— A maca não sabia dirigir — respondeu Val, sem tirar os olhos da rua. — O Rinoceronte estava no pátio do posto de comando, com a chave no contato. E o Gabo ia entrar naquele porto dentro do blindado do próprio Dante. Alguém tinha que fazer alguma coisa.
+
+— A Nise vai te matar — disse Gabo.
+
+— A Nise que espere.
+
+Rangel apontou um dedo trêmulo para o console adaptado ao lado do painel do veículo, onde o pendrive blindado estava espetado num barramento de alto ganho. Do alto-falante tático acoplado ao deck de Valéria, uma voz sintética relatou a telemetria de fuga — mas sob a cadência analítica da IA, Rangel ouviu um timbre residual que gelou seu sangue: um eco das frequências vocais de Beatriz Vargas.
 
 — Gabo — Rangel disse, a voz perigosamente calma. — O que é aquilo espetado no painel?
 
@@ -107,4 +117,4 @@ Gabo arrancou o painel do rádio com um puxão violento de sua mão enluvada, si
 
 A suspensão estalou outra vez, e o estalo veio de baixo, seco, de metal que racha e não volta. O volante tremeu na mão de Val como agulha de bússola perdida.
 
-O blindado saltou sobre um quebra-molas, e por um momento, todos flutuaram. Quando a gravidade voltou, trouxe consigo a realidade pesada: eles estavam vivos, mas em Baía Cinzenta, estar vivo era apenas o prelúdio para sofrer mais um pouco.
+O blindado saltou sobre um quebra-molas, e por um momento, todos flutuaram. O farol arrancado batia na lataria a cada buraco, e Val continuou com as duas mãos no volante, como se soltar fosse admitir alguma coisa.
