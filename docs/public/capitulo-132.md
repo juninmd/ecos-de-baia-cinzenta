@@ -11,9 +11,9 @@
 
 O silêncio na Necrópole não era vazio; era pesado. Tinha massa, densidade e cheiro. Cheirava a cobre velho, amônia e algo doce demais para ser natural — metano se acumulando em bolsões invisíveis, esperando apenas uma faísca para transformar o subsolo em um forno crematório.
 
-Gabo ajustou a correia improvisada em seu ombro. O peso de Rangel, amarrado a uma maca feita de tubos de PVC e lonas rasgadas, cortava a circulação de seu braço esquerdo. Cada passo era uma negociação com a gravidade. Suas botas esmagavam ossos antigos — a fundação literal de Baía Cinzenta — com um estalo seco que ecoava como tiros de festim na escuridão.
+Gabo ajustou a correia improvisada em seu ombro. O peso de Rangel, amarrado à maca que ele improvisara com canos de PVC arrancados da estação e lonas rasgadas, cortava a circulação de seu braço esquerdo. Cada passo era uma negociação com a gravidade. Suas botas esmagavam ossos antigos — a fundação literal de Baía Cinzenta — com um estalo seco que ecoava como tiros de festim na escuridão.
 
-— Nível de saturação em oitenta por cento — sussurrou Valéria, a voz rouca. Ela caminhava à frente, segurando um medidor de gás analógico, uma relíquia amarela e descascada que encontrara em um armário de manutenção. O ponteiro tremia violentamente no vermelho. — Se você acender um fósforo aqui, Gabo, nós viramos estrelas.
+— Nível de saturação em oitenta por cento do limite de explosão — sussurrou Valéria, a voz rouca. Ela caminhava à frente, segurando um medidor de gás analógico, uma relíquia amarela e descascada que encontrara em um armário de manutenção. O ponteiro tremia violentamente no vermelho. — Se você acender um fósforo aqui, Gabo, nós viramos estrelas.
 
 Gabo grunhiu em resposta. O ar denso e irrespirável trazia à tona a memória sufocante da fumaça da casa do pai, revirando seu estômago com uma repulsa antiga. Ele soltou a correia por um segundo e pressionou o *Colar de Sol* de sua mãe contra o esterno. O metal frio mordeu a pele, uma dor aguda e limpa que cortou o ruído do trauma.
 
@@ -109,4 +109,4 @@ Gabo olhou para a escuridão à frente, para o corredor de esculturas que pareci
 
 — Não tem hospital. Só tem a gente. Vamos.
 
-Ele pegou a correia da maca novamente. O peso parecia maior agora. Ou talvez fosse apenas o peso de saber que o Taxidermista não estava apenas matando pessoas; ele estava construindo um exército com as sobras.
+Ele pegou a correia da maca novamente. O peso parecia maior agora. Ou talvez fosse apenas o peso de saber que aquele lugar não era um cemitério. Era uma oficina — e o dono ainda estava trabalhando.
