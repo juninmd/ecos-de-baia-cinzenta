@@ -23,7 +23,7 @@ Ela rastejava empurrando o cyberdeck enrolado em lona diante do peito. A luz azu
 
 — Aguenta firme aí atrás, Elias — falei, o som da minha voz saindo áspero pelo esforço contínuo. — Se você empacar no meio do caminho, ninguém consegue dar a volta pra te tirar.
 
-— Eu tô andando! Eu tô andando! — o velho técnico gaguejava logo atrás de Valéria, a respiração saindo em silvos asmáticos pela máscara de carvão. — Mas o calor lá de trás tá subindo... Eu sinto o metal do piso esquentando na palma da minha mão! A onda de choque vai derreter essa tubulação!
+— Eu tô andando! Eu tô andando! — o técnico gaguejava logo atrás de Valéria, a respiração saindo em silvos asmáticos pela máscara de carvão. — Mas o calor lá de trás tá subindo... Eu sinto o metal do piso esquentando na palma da minha mão! A onda de choque vai derreter essa tubulação!
 
 — Para de drama, Elias — Valéria cortou com firmeza, a voz carregada de autoridade de rua. — A comporta de alívio que o Gabo fechou na Subestação segurou a deflagração primária. A temperatura aqui dentro tá caindo três graus por minuto. O que você tá sentindo é só o seu próprio pânico cozinhando a sua cabeça. Respira pelo nariz e não para de mexer os joelhos.
 
