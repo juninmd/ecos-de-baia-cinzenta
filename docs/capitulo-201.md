@@ -9,7 +9,7 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 A escada de manutenção de emergência cheirava a ferro cru, óleo rançoso e séculos de abandono sob a cidade afundada. Cada barra transversal estava encrustada por uma crosta espessa de óxido escamoso e um lodo vegetal que parecia pulsar em espasmos lentos. Elias subia na frente, impulsionado pelo pavor primal de ser mastigado pela massa biomecânica que infestava a base do poço. Seus coturnos escorregavam no metal podre, as mãos ossudas agarrando os degraus com o desespero cego de um náufrago em mar aberto.
 
-Eu subia logo abaixo dele. Não por cavalheirismo de manual policial, mas por cálculo prático: se Elias entrasse em choque e despencasse, meu peito e meu ombro eram a única barreira entre ele e uma queda livre de quatrocentos metros até o fundo das catacumbas. Valéria fechava a coluna, cinco degraus abaixo de mim, o cyberdeck preso ao colete e os fios holográficos azuis da franja emitindo pulsos curtos e ritmados contra o abismo escuro.
+Eu subia logo abaixo dele. Não por cavalheirismo de manual policial, mas por cálculo prático: se Elias entrasse em choque e despencasse, meu peito e meu ombro eram a única barreira entre ele e uma queda livre de quarenta metros até a laje das catacumbas. Valéria fechava a coluna, cinco degraus abaixo de mim, o cyberdeck preso ao colete e os fios holográficos azuis da franja emitindo pulsos curtos e ritmados contra o abismo escuro.
 
 — Para de olhar pros próprios pés, Elias, — ordenei, a voz raspando na garganta seca como lixa sobre zinco. — Olha pro degrau seguinte. Um por um. Respira pelo nariz e não solta o metal antes de travar o calcanhar.
 
@@ -55,7 +55,7 @@ Valéria ergueu a pistola compacta com as duas mãos, apoiando as costas contra 
 
 — Agora, brutamontes! — gritou ela, os olhos prateados faiscando.
 
-Com o braço esquerdo sustentando Elias contra a parede úmida, soltei a perna mecânica reforçada do degrau e desferi um chute vertical de baixo para cima. O impacto do calcanhar de ferro forjado atingiu a face do drone com o estrondo de uma marreta em um cofre. Componentes ópticos estilhaçaram, fios soltaram fumaça cáustica e o animal cibernético perdeu a sustentação, despencando aos guinchos no poço escuro até se esborrachar com um estalo úmido centenas de metros abaixo.
+Com o braço esquerdo sustentando Elias contra a parede úmida, soltei a perna mecânica reforçada do degrau e desferi um chute vertical de baixo para cima. O impacto do calcanhar de ferro forjado atingiu a face do drone com o estrondo de uma marreta em um cofre. Componentes ópticos estilhaçaram, fios soltaram fumaça cáustica e o animal cibernético perdeu a sustentação, despencando aos guinchos no poço escuro até se esborrachar com um estalo úmido lá embaixo.
 
 O esforço arrancou o último fôlego dos meus pulmões. O sangue gotejava da minha palma rasgada sobre a testa de Elias.
 
