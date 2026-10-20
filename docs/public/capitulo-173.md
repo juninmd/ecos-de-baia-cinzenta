@@ -19,15 +19,15 @@ Nas calçadas, junto aos tambores, as pessoas se aqueciam em silêncio. Ninguém
 
 O vento soprou a fumaça negra de uma dessas fogueiras na nossa direção. O ardor nos olhos e a acidez cáustica no fundo da garganta foram imediatos; o plástico queimado e os vapores de borracha roubaram o oxigênio em um instante.
 
-Com o corpo debilitado pelo choque e pelas fraturas e queimaduras recentes, a fumaça química provocou um espasmo violento na traqueia de Gabo. Ele caiu de joelhos no asfalto quebrado, tossindo em acessos secos e dolorosos que repuxavam os pontos do abdômen e faziam a água suja da sarjeta salpicar seu rosto.
+Com o corpo debilitado pelo choque e pelas fraturas e queimaduras recentes, a fumaça química provocou um espasmo violento na minha traqueia. Caí de joelhos no asfalto quebrado, tossindo em acessos secos e dolorosos que repuxavam os pontos do abdômen e faziam a água suja da sarjeta salpicar meu rosto.
 
-Valéria ajoelhou-se ao lado dele imediatamente, usando o próprio corpo para bloquear a rajada de vento tóxico que vinha do tambor em chamas.
+Valéria ajoelhou-se ao meu lado imediatamente, usando o próprio corpo para bloquear a rajada de vento tóxico que vinha do tambor em chamas.
 
-— Põe a gola da jaqueta no nariz, Gabo! — ela ordenou, a voz rouca lutando contra a tempestade. Ela puxou a gola de sarja dele sobre a boca para filtrar a fuligem. — Não respira esse lixo direto. A gente tá a menos de cem metros da oficina do Vasco. Aguenta firme!
+— Põe a gola da jaqueta no nariz, Gabo! — ela ordenou, a voz rouca lutando contra a tempestade. Ela puxou a gola de sarja sobre a minha boca para filtrar a fuligem. — Não respira esse lixo direto. A gente tá a menos de cem metros da oficina do Vasco. Aguenta firme!
 
-Gabo fechou os olhos, respirando devagar através do tecido grosso. A dor no braço direito fraturado e nas queimaduras latejava como brasa viva, mas o ritmo constante de sua respiração forçada afastou a vertigem. Apoiou a mão esquerda firme no ombro de Valéria e forçou as pernas trêmulas a se erguerem.
+Fechei os olhos, respirando devagar através do tecido grosso. A dor no braço direito fraturado e nas queimaduras latejava como brasa viva, mas o ritmo constante da minha respiração forçada afastou a vertigem. Apoiei a mão esquerda firme no ombro de Valéria e forcei as pernas trêmulas a se erguerem.
 
-— Tô inteiro, — ele murmurou, cuspindo a fuligem ácida no chão molhado. — Vamos antes que o vento vire de novo.
+— Tô inteiro, — murmurei, cuspindo a fuligem ácida no chão molhado. — Vamos antes que o vento vire de novo.
 
 Valéria passou o braço sob o meu ombro, me ajudando a sustentar o peso.
 
@@ -66,5 +66,3 @@ Continuei andando até a esquina, e só ali deixei o braço cair. O peso do gest
 — Vão. — A chuva escorria pelo meu queixo e pingava no metal da tala. — Então a gente precisa estar do outro lado dessa rua antes deles.
 
 Ela não respondeu. Estava tremendo, e não era do frio.
-
-Nós dois continuamos marchando pela rua inundada, o refúgio de Vasco sendo a única coisa real que nos mantinha do lado de cá.
