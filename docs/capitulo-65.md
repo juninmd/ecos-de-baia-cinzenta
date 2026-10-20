@@ -169,7 +169,7 @@ Gabo estava submerso, sem ar, no meio de uma sala congelada, e conseguia pensar 
 
 E uma voz falou pelo transdutor ósseo do comunicador dele.
 
-Não era o sintetizador da Aria. Era mais velha. Era grave, cansada e educada, e tinha um jeito específico de arrastar a última sílaba das frases, e Gabriel Moretti tinha ouvido aquela voz todos os dias durante vinte e seis anos e não a ouvia havia quinze.
+Não era o sintetizador da Aria. Era mais velha. Era grave, cansada e educada, e tinha um jeito específico de arrastar a última sílaba das frases, e Gabriel Moretti tinha ouvido aquela voz todos os dias durante quinze anos e não a ouvia havia quinze.
 
 > *Acesso concedido. Administrador reconhecido.*
 
