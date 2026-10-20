@@ -15,7 +15,7 @@ A cerimônia havia sido patética. Só ele, Elena e Val. Três pessoas para ente
 
 Era mentira. E ele sabia.
 
-A chuva ácida que martelava Baía Cinzenta há três décadas havia de fato cessado há duas semanas, quando os satélites de controle climático da Aeterna foram desativados no colapso. Mas o que veio em seu lugar era pior.
+A chuva ácida que martelava Baía Cinzenta há três décadas havia de fato cessado há três semanas, quando os satélites de controle climático da Aeterna foram desativados no colapso. Mas o que veio em seu lugar era pior.
 
 Gabo olhou para o céu.
 
