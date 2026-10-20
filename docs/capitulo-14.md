@@ -19,7 +19,7 @@ O café estava na garrafa térmica desde a noite anterior e tinha gosto de metal
 
 — O suficiente para sonhar que estava acordado.
 
-— O chip que achamos na Torre — disse Valéria, digitando em um teclado físico. Seus implantes brilhavam com intensidade máxima. — Ele tem um receptor passivo. Ele só ativa quando recebe um sinal específico.
+— O chip que você engoliu — disse Valéria, digitando em um teclado físico. Seus implantes brilhavam com intensidade máxima. — Ele tem um receptor passivo. Ele só ativa quando recebe um sinal específico.
 
 — Um sinal de onde? — perguntou Gabriel.
 
