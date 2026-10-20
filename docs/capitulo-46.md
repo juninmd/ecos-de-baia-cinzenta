@@ -11,7 +11,9 @@ Localização: "Dia oito. Orla Norte"
 
 **Dia oito. Orla Norte.**
 
-O sismógrafo da estação meteorológica da Rua Onze funcionava desde o ano trinta e um e nunca tinha registrado nada além de caminhão passando.
+O sismógrafo da estação meteorológica da Rua Onze funcionava desde o ano trinta e um e, em quase sessenta anos, quase nunca tinha registrado nada além de caminhão passando.
+
+Havia uma semana ele vinha anotando um ruído de fundo que o plantonista anterior classificou como "obra no porto" e não levou adiante, porque obra no porto, naquela cidade, era a coisa mais normal do mundo.
 
 Às 04h51 ele registrou oito coisas.
 
@@ -159,7 +161,7 @@ Gabo baixou o comunicador devagar.
 
 — Val. Quem é Arthur Vance?
 
-— O cara que fundou a Aeterna. — A voz dela estava quase inaudível. — Em vinte e nove. Ele morreu há quarenta anos, Gabo. Tem estátua dele na praça do Distrito Alto. Eu passei a infância inteira andando de skate na base daquela estátua.
+— O cara que fundou a Aeterna. — A voz dela estava quase inaudível. — Em vinte e nove. Ele morreu há quase sessenta anos, Gabo. Tem estátua dele na praça do Distrito Alto. Eu passei a infância inteira andando de skate na base daquela estátua.
 
 ---
 
