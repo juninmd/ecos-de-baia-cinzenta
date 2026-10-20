@@ -64,5 +64,3 @@ Vasco parou por um segundo, olhando para o meu rosto pálido. Ele não perguntou
 — Isso não é resposta, é diagnóstico. — Ele assobiou, longo e sem humor. — Tá certo. Vai custar.
 
 Olhei para Valéria na maca ao lado. O rosto estava relaxado, pálido demais sob a luz da clínica, numa paz que eu sabia não ser real. O zumbido dos cabos de alimentação preenchia a sala.
-
-Estávamos vivos. No momento, era a única vitória que podíamos reivindicar na escuridão de Baía Cinzenta.
