@@ -17,7 +17,7 @@ Drones de câmera zumbiam ao seu redor como moscas varejeiras em cadáver fresco
 
 As palavras tinham gosto de veneno na boca. Mas eram necessárias. Iscas sempre eram.
 
-As portas maciças da Torre se abriram. Não havia guardas. Apenas luz — branca, clínica, sem sombra. O tipo de luz que revelar tudo e perdoa nada.
+As portas maciças da Torre se abriram. Não havia guardas. Apenas luz — branca, clínica, sem sombra. O tipo de luz que revela tudo e perdoa nada.
 
 Gabo entrou.
 
@@ -73,7 +73,7 @@ O Gamemaster desceu do palco. Cada passo ecoava como bomba-relógio.
 
 Enquanto isso, nos dutos de ventilação trinta metros acima, Valéria rastejava. Mãos enfaixadas sangrando através do tecido. Cada movimento uma tortura silenciosa.
 
-— Estou na posição. — Ela sussurrou pelo comunicador subdérmico que haviam reinstalado com peças de sucata e reza. — O servidor central está logo abaixo do palco. Mas Gabo... tem MUITA segurança física. Lasers de detectação. Scanners biométricos. Isso não é servidor. É cofre nuclear.
+— Estou na posição. — Ela sussurrou pelo comunicador subdérmico que haviam reinstalado com peças de sucata e reza. — O servidor central está logo abaixo do palco. Mas Gabo... tem MUITA segurança física. Lasers de detecção. Scanners biométricos. Isso não é servidor. É cofre nuclear.
 
 — *Segure.* — Gabo sussurrou sem mover os lábios. Uma habilidade que aprendera em interrogatórios.
 
@@ -111,7 +111,7 @@ O exoesqueleto deu o primeiro passo. O chão tremeu. Poeira caiu do teto. A plat
 
 Gabo assumiu a postura de Hapkido que seu pai lhe ensinou. Pé esquerdo à frente. Mãos abertas. Respiração controlada.
 
-Mentalmente, ele fez as contas: três metros de titânio e servo-motores versus um metro e setenta e cinco de carne, osso quebrado e teimosia.
+Mentalmente, ele fez as contas: três metros de titânio e servo-motores versus um metro e setenta e cinco de carne, osso e teimosia.
 
 As probabilidades eram ruins.
 
