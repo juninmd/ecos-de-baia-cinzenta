@@ -13,7 +13,7 @@ Localização: "Heliponto da Torre Aeterna"
 
 Cento e oitenta e dois andares levaram quarenta e um minutos.
 
-Gabo subiu com as duas órteses meio travadas, com dois dedos quebrados, com um buraco de bala no ombro direito e três costelas partidas, e a única razão pela qual conseguiu foi que a torre estava inclinada nove graus **na direção certa**: metade dos lances virou rampa.
+Gabo subiu com as duas órteses meio travadas, com dois dedos quebrados, com um buraco de bala no ombro direito e duas costelas partidas, e a única razão pela qual conseguiu foi que a torre estava inclinada nove graus **na direção certa**: metade dos lances virou rampa.
 
 Ele parou seis vezes. Vomitou duas.
 
@@ -177,7 +177,7 @@ Ela abriu os olhos.
 
 Gabo levantou o rosto.
 
-E, pela primeira vez em vinte e seis anos, viu uma coisa acontecer no céu de Baía Cinzenta: a camada de particulado — sessenta anos de indústria, de queimada e de incinerador — estava se rasgando. Abrindo em fiapos, empurrada por um vento que ninguém tinha pedido.
+E, pela primeira vez na vida, viu uma coisa acontecer no céu de Baía Cinzenta: a camada de particulado — sessenta anos de indústria, de queimada e de incinerador — estava se rasgando. Abrindo em fiapos, empurrada por um vento que ninguém tinha pedido.
 
 Havia um buraco no meio das nuvens.
 
