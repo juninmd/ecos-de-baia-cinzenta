@@ -35,7 +35,7 @@ Valéria não perdeu tempo com o espanto estético. Caminhou em passos rápidos 
 
 — Interface física arcaica, padrão serial da década de setenta, — murmurou ela, tirando um adaptador de pinos dourados da bolsa do cyberdeck e engatando na porta de diagnóstico com um clique limpo. — Deixa eu ver o que esse silêncio todo tá escondendo.
 
-Sentei-me no chão ao lado de uma coluna de dados, esticando a perna esquerda para que a órtese emperrada pudesse esfriar. O ombro direito latejava no compasso do meu coração; a tração na válvula externa no capítulo anterior quase arrebentara as pinos que Vasco instalara para conter a fratura no Capítulo 175. Meus músculos estavam sangrando sob as bandagens sujas, manchando a sarja do casaco, mas o calor limpo da sala ajudava a relaxar a musculatura retesada pelo frio de amônia. As cicatrizes do Dilúvio formigavam, um mapa sensorial de todas as vezes em que Baía Cinzenta tentara me matar.
+Sentei-me no chão ao lado de uma coluna de dados, esticando a perna esquerda para que a órtese emperrada pudesse esfriar. O ombro direito latejava no compasso do meu coração; a tração na válvula externa na subida anterior quase arrebentara as pinos que Vasco instalara para conter a fratura. Meus músculos estavam sangrando sob as bandagens sujas, manchando a sarja do casaco, mas o calor limpo da sala ajudava a relaxar a musculatura retesada pelo frio de amônia. As cicatrizes do Dilúvio formigavam, um mapa sensorial de todas as vezes em que Baía Cinzenta tentara me matar.
 
 — O que você tá achando aí dentro, Val? — perguntei, observando as linhas de código que desciam em cascatas luminosas pelas ópticas dos olhos prateados dela.
 
@@ -61,7 +61,7 @@ Elias aproximou-se, debruçando-se sobre o ombro dela para enxergar o monitor fo
 
 — Os servidores estão ligados, alimentados por baterias geotérmicas profundas, operando com noventa e nove por cento de capacidade ociosa. Não tem dados corporativos aqui, Moretti. Não tem listas de acionistas, plantas de armamentos ou registros contábeis. Este lugar não é um arquivo. É um **ninho**. Foi mantido aquecido, limpo e isolado por décadas, esperando receber uma consciência que nunca chegou a ser carregada.
 
-O peso daquelas palavras reverberou no silêncio do salão. Lembrei do sacrifício de Aria no Capítulo 167, do código que fragmentamos para abrir caminho até os arquivos executivos, e da obsessão de Dante Moretti por uma imortalidade de silício. Alguém, muito antes do meu pai, já sonhava com deuses digitais nas entranhas desta terra alagada.
+O peso daquelas palavras reverberou no silêncio do salão. Lembrei do sacrifício de Aria, do código que fragmentamos para abrir caminho até os arquivos executivos, e da obsessão de Dante Moretti por uma imortalidade de silício. Alguém, muito antes do meu pai, já sonhava com deuses digitais nas entranhas desta terra alagada.
 
 — E as rotas de saída? — indaguei, apontando com o queixo para o painel esquemático. — O mapa mostra pra onde esse complexo leva?
 

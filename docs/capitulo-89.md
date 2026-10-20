@@ -4,6 +4,7 @@ title: "Capítulo 89: Memória Genética"
 description: "Gabo enfia a mão aberta na parede viva da Torre para consultar o arquivo. Sai com a resposta, com o nome do Jardineiro e com veias pretas até o cotovelo."
 image: /capitulo_89.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti
+Localização: "Ruínas da Torre Aeterna — Zona Proibida"
 ---
 
 # Capítulo 89: Memória Genética

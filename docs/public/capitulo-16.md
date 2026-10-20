@@ -1,6 +1,7 @@
 ---
 image: /capitulo_16.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, O Gamemaster
+Localização: "Túneis de manutenção do metrô antigo → Cemitério dos Esquecidos, Setor 7 → Bunker da família Moretti"
 ---
 # Capítulo 16: Zona Morta
 

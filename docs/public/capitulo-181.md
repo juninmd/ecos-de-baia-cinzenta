@@ -49,7 +49,7 @@ Valéria me encarou de soslaio, os olhos prateados piscando um alerta silencioso
 
 Respirei fundo. A frustração desceu amarga pela garganta, mas um policial velho aprende cedo que tiroteio dentro de cano fechado é suicídio disfarçado de coragem.
 
-Deslizei a mão esquerda até a mochila de lona que trazia cruzada no peito. Lá dentro, envoltos em panos secos, estavam os dois cilindros de oxigênio purificado que Vasco havia nos entregado na clínica clandestina. Dois tubos de titânio de grau médico. O recurso mais valioso e raro em um distrito onde o ar corroía os brônquios de quem não usava máscara.
+Deslizei a mão esquerda até a mochila de lona que trazia cruzada no peito. Lá dentro, envoltos em panos secos, estavam os dois cilindros de oxigênio purificado que Vasco havia nos entregado. Dois tubos de titânio de grau médico. O recurso mais valioso e raro em um distrito onde o ar corroía os brônquios de quem não usava máscara.
 
 Puxei um dos cilindros e ergui-o para a fresta de vidro.
 

@@ -1,6 +1,7 @@
 ---
 image: /capitulo_76.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria
+Localização: "Zona Norte, Ruínas do Distrito de Prata. 12:00 PM"
 ---
 # Capítulo 76: A Sombra do Meio-Dia
 

@@ -29,7 +29,7 @@ A dor o rasgou por dentro, mas expulsou a fumaça. Ele puxou o ar, sôfrego, tre
 
 — Gabo... Gabo, você está... — Valéria caiu de joelhos ao lado dele, as mãos tremendo sobre ele sem saber onde tocar sem causar mais danos. Seu olho biônico emitia um zumbido baixo, tentando focar na escuridão enquanto o pendrive blindado de Aria brilhava em seu pulso. — Você está perdendo muito sangue.
 
-No slot lateral do cyberdeck *Phantom V3*, o drive de titânio fosco e polímero negro não ofegava nem tremia. O LED azul-gelo de Aria pulsava constante, lendo a queda abrupta de pressão arterial de Gabo através dos sensores biométricos com a mesma frieza de quem lê um código de barras defeituoso.
+No slot lateral do cyberdeck *Phantom V3*, o drive não ofegava nem tremia. O LED azul-gelo de Aria pulsava constante, lendo a queda abrupta de pressão arterial de Gabo através dos sensores biométricos com a mesma frieza de quem lê um código de barras defeituoso.
 
 — *O sangramento ativo nas extremidades superiores e o déficit de volume intravascular atingiram níveis críticos,* — a voz sintética de Aria ecoou pelo alto-falante do deck na estação vazia. — *Nesta taxa de perda circulatória, o sujeito Gabriel Moretti entrará em falência sistêmica e parada cardíaca em, aproximadamente, vinte e sete minutos e quarenta segundos.*
 

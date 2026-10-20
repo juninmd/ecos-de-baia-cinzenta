@@ -15,17 +15,17 @@ Gabo estava sentado em uma carcaça que outrora fora o torso de um ciborgue de c
 
 Ele fechou os punhos com força. O latejar agudo subiu pelos antebraços como um choque elétrico. Ele inspirou devagar, retendo o ar, e expirou. A dor era limpa, nítida. O cheiro de queimado no ar o enjoava profundamente — um lembrete visceral do trauma, a fumaça suja invadindo seus pulmões sem permissão desde os anos atrás no escritório de Dante. Ele odiava a fumaça. Odiava a fraqueza que ela representava. A dor nas mãos, em contraste, era uma escolha. Uma âncora afiada que o prendia à realidade. *Dez segundos de foco*, ele pensou. *Só preciso de mais dez segundos de foco.*
 
-— A temperatura do Inspetor Rangel está em trinta e nove ponto dois graus — a voz sintética de Aria soou pelo comunicador do cyberdeck de Valéria, de uma precisão cirúrgica e vazia de qualquer empatia. Conectado à porta lateral do *Phantom V3*, o drive neural blindado de titânio fosco emitia seu brilho azul-gelo constante na névoa fria da caverna. — O calor acelerou a sepse. Seus órgãos iniciarão o processo de falha em cascata dentro de cento e oitenta minutos.
+— A temperatura do Inspetor Rangel está em trinta e nove ponto dois graus — a voz sintética de Aria soou pelo comunicador do cyberdeck de Valéria, de uma precisão cirúrgica e vazia de qualquer empatia. Conectado à porta lateral do *Phantom V3*, o drive neural blindado emitia seu brilho azul-gelo constante na névoa fria da caverna. — O calor acelerou a sepse. Seus órgãos iniciarão o processo de falha em cascata dentro de cento e oitenta minutos.
 
 Valéria estava ajoelhada ao lado do inspetor, iluminando-o com o feixe auxiliar de seu pulso enquanto os biossensores do deck liam os sinais vitais dele. O peito de Rangel subia e descia em uma respiração rasa e ofegante. O epóxi industrial que Valéria havia usado para selar a ferida parecia estar cedendo sob o suor febril.
 
-— E qual a sua sugestão, Aria? — Valéria perguntou, a voz tensa, encarando o pequeno cilindro prismático de polímero negro e titânio espetado em seu antebraço. — Deixá-lo para trás de novo?
+— E qual a sua sugestão, Aria? — Valéria perguntou, a voz tensa, encarando o pequeno cilindro prismático espetado em seu antebraço. — Deixá-lo para trás de novo?
 
 — É a otimização matemática da nossa sobrevivência — Aria respondeu imediatamente pelo alto-falante, sem hesitar. — O peso do Inspetor Rangel reduz a velocidade de progressão vertical de vocês em sessenta e quatro por cento. A probabilidade de escalada bem-sucedida pelo duto de ventilação secundário sem ele é de quarenta e dois por cento. Com ele, é de oito vírgula cinco por cento.
 
 Gabo cuspiu sangue e poeira no chão. O som ecoou nas paredes da caverna, abafado pela montanha de restos biológicos.
 
-— Ele sobe com a gente — Gabo disse, a voz rouca, levantando-se devagar. O couro de seu casaco rangeu. — A gente não larga ninguém para trás, Aria. Essa é a regra desde o Capítulo 2, quando te tirei daquela cabine telefônica na enchente.
+— Ele sobe com a gente — Gabo disse, a voz rouca, levantando-se devagar. O couro de seu casaco rangeu. — A gente não larga ninguém para trás, Aria. Essa é a regra desde o dia em que te tirei daquela cabine telefônica na enchente.
 
 — Regras são construções sociais sujeitas a falhas estruturais, Detetive Moretti — a IA retrucou pelo comunicador, o LED azul-gelo do pendrive pulsando a cada sílaba. — O sacrifício de uma unidade danificada para preservar o núcleo do grupo é o protocolo padrão em cenários de risco extremo.
 

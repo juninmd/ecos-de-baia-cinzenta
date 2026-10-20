@@ -11,6 +11,10 @@ O eco das nossas passadas desesperadas engolia todo o som no túnel, pontuado pe
 
 Atrás de nós, o guincho inumano da criatura recém-nascida rasgava a escuridão úmida. O som era uma distorção grotesca: um híbrido de laringe biológica lacerada e estática de rádio falhando em alta frequência. A quimera aracnídea não estava apenas correndo; suas garras de cerâmica batiam nos dormentes de ferro com a velocidade aterradora de uma máquina de costura industrial, cuspindo lodo e faíscas no cascalho.
 
+O cheiro dela chegava antes. Fluido amniótico e ferrugem, amônia e carne crua, tudo empurrado pelo ar que o corpo dela deslocava. O túnel era baixo, a coisa ocupava o túnel inteiro, e a luz da lanterna batia nas placas do lombo e voltava em lascas.
+
+Meu passo estava fora de compasso. A bucha do joelho tinha comido metade do curso, e eu andava pisando curto com a perna boa e jogando o peso para o lado errado. O corpo cobra isso depois. Se houvesse depois.
+
 — Alvo a quinze metros! — Valéria gritou, virando o tronco em movimento para descarregar dois tiros certeiros.
 
 As balas de nove milímetros estalaram contra a placa peitoral da besta, arrancando lascas de titânio, mas o monstro nem sequer vacilou. A carcaça de dois metros impulsionou-se num salto rasante pelo teto, usando as raízes do Jardim como trilhos vivos para nos ultrapassar.
@@ -26,6 +30,10 @@ Aproximei-me da carcaça de um pilar caído, onde um vergalhão de construção 
 *CRACK.*
 
 A barra soltou-se do concreto numa chuva de cascalho.
+
+O vergalhão veio com lasca de concreto e um pedaço da minha mão. A ferrugem entrou no corte do polegar e ardeu como pimenta. A garra da armação ficou presa no buraco meio segundo a mais do que devia, e o esforço puxou o ponto de solda do ombro com um estalo que eu senti mais no dente do que no ouvido.
+
+Não deu tempo de conferir se era osso ou fio. Levantei a barra e corri.
 
 A quimera ignorou os disparos de Valéria e saltou direto contra o pescoço dela, as garras dianteiras abertas como tesouras de demolição.
 
@@ -60,6 +68,10 @@ Um clarão ofuscante azul-celeste iluminou o túnel inteiro com um estrondo ensu
 O impacto da sobrecarga arremessou Valéria dois metros para trás e fez minha armação mecânica vibrar com um choque que desarmou os relés de pressão do ombro, me jogando de costas no lodo.
 
 Puxei o ar com dificuldade, tossindo com o cheiro acre de fiação carbonizada, sentindo o gosto metálico de sangue na língua, mas completamente lúcido.
+
+Tentei levantar com o braço direito e o braço não veio. Os relés estavam fora, e o membro de ferro ficou pendurado do ombro como ferramenta no prego — sem comando, sem resposta, um peso a mais para carregar. Rolei para o lado esquerdo, que é o lado errado para quem passou a vida atirando com a direita, e cheguei ao cotovelo. Não passei dali.
+
+Elias estava no chão com o tornozelo virando cor de vinho. Ia ter que ser carregado, e o único lado que ainda funcionava era o meu lado ruim.
 
 Valéria se levantou num pulo, limpando o suor e a fuligem dos olhos prateados, correu até Elias e o puxou pelo colarinho com a mão direita, enquanto estendia a esquerda para me erguer da lama.
 

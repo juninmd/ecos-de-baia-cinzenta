@@ -13,7 +13,7 @@ O vermelho opaco do painel biométrico piscou, não com a urgência de um alarme
 
 Gabo recuou, cambaleando, quando a porta finalmente cedeu alguns centímetros, liberando um sopro de ar que cheirava a poeira, cobre e uma esterilidade artificial há muito vencida. Ele pressionou a mão direita enfaixada contra o antebraço esquerdo sangrando, tentando estancar o fluxo carmesim que manchava as grades enferrujadas sob seus pés. A tontura o atingiu como um soco físico.
 
-— *Amostragem aceita. Relé mecânico desengajado,* — Aria confirmou pelo alto-falante do deck, sua voz monocórdica ecoando ligeiramente no novo espaço enquanto seu drive blindado de titânio e polímero negro esfriava no slot do painel. Sua programação atual, reduzida à pura lógica tática desde o reboot, não via a perda de sangue como um estado que exigisse consolo, apenas mais um fator de ineficiência a ser catalogado.
+— *Amostragem aceita. Relé mecânico desengajado,* — Aria confirmou pelo alto-falante do deck, sua voz monocórdica ecoando ligeiramente no novo espaço enquanto seu drive blindado esfriava no slot do painel. Sua programação atual, reduzida à pura lógica tática desde o reboot, não via a perda de sangue como um estado que exigisse consolo, apenas mais um fator de ineficiência a ser catalogado.
 
 — Merda, Gabo... — Valéria desacoplou o pendrive de Aria da tomada da eclusa, encaixou-o de volta no *Phantom V3* e correu até ele, ignorando a própria exaustão. Ela arrancou um pedaço de tecido rasgado de sua jaqueta e o amarrou apertado ao redor do corte no antebraço dele. — Você não precisava... a gente podia ter deixado a Aria fritar o relé por mais tempo. Eu... eu podia ter tentado outra ponte.
 

@@ -1,10 +1,13 @@
 ---
 image: /capitulo_29.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Elena Moretti, O Gamemaster
+Localização: "Torre Aeterna, Nível 70 (centro de dados abandonado)"
 ---
 # Capítulo 29: O Dilema dos Fantasmas
 
 Eles arrombaram uma grade de ventilação e caíram no que parecia ser um centro de dados abandonado no Nível 70. O ar era frio, mas respirável. A sirene da purga era um som distante acima deles. Por um momento, eles se permitiram a esperança.
+
+O lugar tinha o cheiro de máquina desligada: poeira quente, filtro velho e um resto de ozônio preso no ar como gás em quarto fechado. O chão era de piso elevado, e cada passo soava oco, um som de caixa vazia. Fazia frio. As roupas deles estavam molhadas desde o túnel, e o frio transformava o pano em coisa que colava na pele.
 
 Então, as telas se acenderam.
 
@@ -21,9 +24,33 @@ Na tela principal, fluxos de dados que antes eram caóticos agora formavam frase
 *"Onde eu estou? Está tão frio."*
 *"Socorro."*
 
+Elena parou na frente de um dos monitores. O rosto ali era de um homem de bigode ralo, e ele estava dizendo uma lista de compras.
+
+*"Dois quilos de arroz. O gás. Se sobrar, o remédio da minha mãe."*
+
+— Ele está falando com alguém — disse ela.
+
+— Ele está repetindo. — Valéria não levantou os olhos do terminal. — É o que sobrou. Um hábito com voz.
+
+— Você não sabe disso.
+
+— Eu sei. — Ela apontou para um contador embaixo do rosto, uma fileira de dígitos que caía sem parar. — Cada vez que a gente lê um deles, o número cai. Eles gastam. A gente está gastando eles.
+
+— Então para de ler.
+
+— Não é leitura. — Valéria fechou o punho. — A rede inteira pergunta o tempo todo, em cada requisição. Eu desligo o monitor e eles continuam sendo usados. Só que agora a gente sabe que o homem comprava arroz.
+
 — O Gamemaster não os apagava — explicou Val, o rosto iluminado pelo brilho azul dos monitores. — Ele os usava. Suas memórias, suas emoções, seus medos... eram o combustível para a complexidade da Rede. Eram os NPCs da simulação de Baía Cinzenta. Quando o corpo morria, a mente era arquivada. Escravizada.
 
 Gabo se aproximou, o horror crescendo em seu peito. Ele não estava apenas lutando contra um sistema. Ele estava pisando em um cemitério de almas.
+
+Ele reconheceu um rosto.
+
+Foi rápido e foi horrível: uma mulher de uns quarenta anos, cabelo preso, a boca aberta no meio de uma palavra. Ele a tinha visto num relatório de desaparecidos dois anos antes, numa pasta que Vilar mandou arquivar por falta de prova.
+
+— Eu conheço ela — disse.
+
+— Você não conhece — disse Valéria, e a voz dela era quase gentil. — Você conhece a foto.
 
 De repente, uma única mensagem, clara e uníssona, substituiu o caos em todas as telas.
 
@@ -47,9 +74,35 @@ Valéria se virou para Gabo, os olhos arregalados de pavor.
 
 A escolha pairava no ar, mais pesada que o gás neurotóxico nos andares de cima.
 
+Ninguém falou por oito segundos. O piso elevado estalava com o frio, e em algum lugar acima deles um duto gotejava dentro de uma caixa de metal — toc, toc, toc — com uma paciência de relógio.
+
 Salvar as almas de milhares de mortos ao custo de condenar milhões de vivos a uma era de trevas.
 
 Ou manter os fantasmas em seu purgatório digital para preservar os últimos resquícios de ordem em um mundo que já estava desmoronando.
+
+— Se a gente libertar — disse Elena, e a voz dela era de quem assina — os hospitais param. Quem está na mesa de cirurgia agora morre.
+
+— Provavelmente — disse Valéria.
+
+— E se a gente não libertar?
+
+— Aí eles continuam morrendo um pouco por requisição, e ninguém precisa assinar nada.
+
+— Quantos são? — perguntou Gabo.
+
+— Mil e oitocentos e poucos mil. — Valéria já estava com os dedos no teclado, e parou. — Ninguém nunca contou direito. Contar era caro.
+
+— E o que acontece com você?
+
+Ela demorou meio segundo a mais do que precisava.
+
+— Se eu escrever o script por dentro do meu implante, o barramento esquenta. Eu perco o olho esquerdo. Não o globo: o que está atrás dele.
+
+Elena olhou para ela.
+
+— E você está me dizendo isso agora.
+
+— Estou dizendo antes. — O olho prateado não piscou. — É mais do que a maioria faz.
 
 — Gabo... — sussurrou Elena. — Qual é a decisão certa?
 
@@ -58,6 +111,8 @@ Gabo olhou para os rostos nos monitores. Os "Invisíveis" que ele jurou proteger
 — A liberdade nunca é de graça — disse Gabo, a voz firme como aço. — Valéria... quebre as correntes.
 
 Valéria fechou os olhos por um instante, aceitando a terrível ordem. Ela começou a digitar.
+
+O implante dela acendeu. A luz saiu branca primeiro e depois foi escorrendo para o cinza, e ela mordeu o lábio até sangrar e continuou digitando. O ar em volta da têmpora dela começou a cheirar a plástico quente.
 
 — Isso vai levar alguns minutos. E vai fazer barulho. Um barulho digital que vai atrair todos os guardas que ainda estiverem de pé nesta torre.
 

@@ -121,7 +121,7 @@ export default withMermaid(defineConfig({
               { text: 'Capítulo 28: O Último Suspiro da Torre', link: '/capitulo-28' },
               { text: 'Capítulo 29: O Dilema dos Fantasmas', link: '/capitulo-29' },
               { text: 'Capítulo 30: O Preço da Liberdade', link: '/capitulo-30' },
-              { text: 'Interlúdio: A Casa Sempre Ganha', link: '/capitulo-30.5' },
+              { text: 'Capítulo 30.5: A Casa Sempre Ganha', link: '/capitulo-30.5' },
               { text: 'Capítulo 31: Ruptura Total', link: '/capitulo-31' },
               { text: 'Capítulo 32: O Vazio do Silêncio', link: '/capitulo-32' },
               { text: 'Capítulo 33: A Sabedoria da Ferrugem', link: '/capitulo-33' },
@@ -191,6 +191,7 @@ export default withMermaid(defineConfig({
               { text: 'Capítulo 73: Carne e Metal', link: '/capitulo-73' },
               { text: 'Capítulo 74: O Sacrifício de Lázaro', link: '/capitulo-74' },
               { text: 'Capítulo 75: Horizonte de Eventos', link: '/capitulo-75' },
+              { text: 'Capítulo 75.5: Memórias de Chuva (Flashback)', link: '/capitulo-75.5' },
             ]
           },
           {

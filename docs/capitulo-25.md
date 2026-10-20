@@ -1,14 +1,27 @@
 ---
 image: /capitulo_25.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Valéria "Val" Cruz
+Localização: "Torre Aeterna, subnível 5 (logística e carga), em subida"
 ---
 # Capítulo 25: Elevador para o Inferno
 
 O contraste era brutal. Eles saíram do esgoto vitoriano diretamente para o futuro estéril de um laboratório de alta tecnologia. O piso branco refletia suas silhuetas sujas e armadas.
 
+O cheiro era o pior detalhe: nenhum. Um corredor de clínica sem clínica, com o ar filtrado três vezes e devolvido sem opinião. O piso, encerado de fresco, era generoso, quase hospitaleiro. Ao fundo, um aspirador de manutenção circulava sozinho, indiferente, cumprindo a rotina de limpeza de um prédio que ignorava estar sendo invadido.
+
 — Estamos no subnível 5 — informou Valéria, consultando o deck. — Logística e Carga.
 
 O alarme começou a tocar. Não uma sirene estridente, mas um pulso sonoro grave e luzes vermelhas que giravam suavemente. A Aeterna era elegante até em suas emergências.
+
+Só que o pulso entrava em Gabo pelo osso, não pelo ouvido: o tímpano esquerdo continuava fechado desde a explosão no túnel, e o mundo daquele lado chegava abafado, com um chiado de fritura.
+
+— Você está surdo — disse Valéria, e não era pergunta.
+
+— Estou economizando.
+
+— Você está sangrando do ouvido.
+
+— Aí eu economizo mais.
 
 — Eles sabem que estamos aqui — disse Elena.
 
@@ -33,6 +46,14 @@ Eles chegaram ao saguão do elevador de carga. Era uma plataforma enorme, capaz 
 Havia um esquadrão de segurança lá. Homens em armaduras táticas brancas, sem rostos, apenas visores espelhados.
 
 — Rendam-se! — a voz amplificada do líder ecoou.
+
+O líder deu um passo à frente e ergueu a mão enluvada. No visor espelhado, Gabo viu o próprio reflexo: sujo, com o ouvido sangrando, a escopeta no chão aos pés.
+
+— Você é o Moretti — disse a voz amplificada. — A ordem é te entregar inteiro. Você tem trinta segundos para decidir se vai ser entregue inteiro.
+
+— E se eu não decidir?
+
+— Aí a ordem fica mais fácil de cumprir.
 
 Gabo sorriu. Ele soltou a escopeta no chão e levou a mão às costas.
 
@@ -119,5 +140,19 @@ Gabo olhou para baixo, depois para cima, onde Elena e Valéria o esperavam, ofeg
 — Ótimo — ele ofegou, o sarcasmo uma máscara fina sobre a dor. — Só mais vinte andares de aquecimento.
 
 Ele continuou a subir, degrau por degrau. A dor era uma companheira constante, um lembrete do preço que cada luta cobrava. Cada metro conquistado era uma vitória não apenas contra a Aeterna, mas contra seu próprio corpo quebrado. O caminho para o céu, ele pensou com um humor sombrio, era pavimentado com seus próprios pedaços.
+
+No quarto lance, Valéria parou de subir e ficou com a testa apoiada no metal frio.
+
+— Preciso te falar uma coisa e você não vai gostar.
+
+— Fala.
+
+— O deck está em nove por cento. Se a gente chegar no cem e a porta estiver travada, eu não abro. Não tem mágica, Gabo. Tem bateria.
+
+— Então a gente chega no cem e a porta vai estar destravada.
+
+— Você não pode saber isso.
+
+— Eu não posso saber nada. É por isso que eu ainda estou subindo.
 
 Eles continuaram a subir, em direção ao coração da máquina que devorava a cidade, um homem quebrado liderando o caminho.

@@ -21,6 +21,12 @@ O silêncio do "Fliperama" era opressivo. Lá fora, quilômetros acima, Baía Ci
 
 Gabo olhou para o inspetor. Rangel estava pálido, suando frio, murmurando coisas desconexas em seu delírio febril. "O rio... não olhe para o rio...". A cauterização havia parado o sangramento, mas a infecção era uma bomba-relógio. Eles haviam comprado tempo, mas a que juros?
 
+Gabo pegou a garrafa amassada do chão e tentou erguer a cabeça de Rangel com a mão livre. O inspetor bebeu dois goles, engasgou, e o resto escorreu pela lateral do rosto para dentro da bandagem. A pele dele tinha a temperatura errada: quente onde devia ser fria, fria nas mãos.
+
+— O rio — Rangel repetiu, os olhos abertos e vazios. — Não olhem para o rio. Tem gente andando no fundo.
+
+Valéria não se virou. Continuou digitando, com mais força do que precisava, como se o barulho das teclas pudesse cobrir a voz do homem na mesa.
+
 — Você sabe o que é dívida técnica, Gabo? — a voz de Valéria quebrou o silêncio.
 
 Ela estava debruçada sobre a bancada onde o pendrive aberto da Aria estava preso a uma morsa de precisão, iluminada apenas pelo brilho azulado de um monitor terminal conectado às trilhas de diagnóstico do drive. Seus dedos dançavam sobre um teclado mecânico antigo, o som das teclas *clack-clack-clack* ecoando como tiros distantes.
@@ -47,9 +53,17 @@ Ele levou a mão ao peito e agarrou o *Colar de Sol* sob a camisa. Apertou o met
 
 — O núcleo do pendrive é blindado, mas o kernel... — Valéria balançou a cabeça. — É como se o sistema operacional dela tivesse sido reescrito por uma tempestade. Há fragmentos de memória que não são do assistente tático. Pedaços de sonhos dos Drenados. Medos. Dores. Tudo misturado com o substrato neural da Bia Vargas que a Aeterna usou na base do código.
 
-Valéria olhou para o pequeno cilindro de titânio fosco com os circuitos expostos na morsa.
+Valéria olhou para o cilindro aberto com os circuitos expostos na morsa.
 
 — Se eu fechar o curto e reinicializar o pendrive agora, pode ser que a assistente tática suba. Ou pode ser que o alto-falante comece a gritar com a voz da Bia e de mil viciados mortos. Essa é a nossa dívida.
+
+— Então não liga — disse Gabo.
+
+— Não é assim. — Valéria encostou o dedo na lateral do drive, onde a blindagem estava amassada pelo calor. — Tem coisa aí dentro que não é dela. Os últimos minutos dos Drenados ficaram gravados no barramento quando ela absorveu o pulso deles: nome, endereço, o que a Aeterna prometeu antes de mandar o caminhão. Se eu não religar isso com cuidado, a prova fica presa num chip queimado — e aí a cidade pode dizer que ninguém morreu.
+
+— Quem vai querer prova? Não tem mais tribunal.
+
+— Tem gente viva. — Ela levantou o queixo. — E gente viva lembra de quem mostrou primeiro.
 
 Gabo se levantou, as articulações estalando. Ele caminhou até a mesa onde Rangel jazia e colocou a mão na testa do inspetor. Estava fervendo.
 

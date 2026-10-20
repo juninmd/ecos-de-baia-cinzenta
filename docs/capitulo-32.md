@@ -4,6 +4,7 @@ title: "Capítulo 32: O Vazio do Silêncio"
 description: "Vinte e oito andares de escada no escuro, e a descoberta de que uma cidade inteira não sabia como era o silêncio."
 image: /capitulo_32.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Valéria "Val" Cruz, Aria Moretti
+Localização: "Escadaria de emergência da Torre Aeterna → Avenida do Distrito Central → Becos da cidade"
 ---
 
 # Capítulo 32: O Vazio do Silêncio

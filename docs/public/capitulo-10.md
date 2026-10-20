@@ -1,6 +1,7 @@
 ---
 image: /capitulo_10.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria Moretti
+Localização: "Galpão industrial Embalagens Sustentáveis (A Fábrica de Sorrisos), Setor 4"
 ---
 # Capítulo 10: A Fábrica de Sorrisos
 
@@ -9,6 +10,14 @@ O drive de Kiko Vibe continha apenas uma coordenada GPS e uma foto: a fachada de
 Gabriel e Valéria chegaram ao local sob uma chuva torrencial. O Setor 4 era a axila da cidade — uma zona de exclusão cheia de fábricas abandonadas e fumaça química.
 
 Valéria estava mancando. A descida pelo fosso do elevador havia torcido seu tornozelo, e suas mãos estavam enfaixadas com trapos que Gabriel encontrara no porta-malas.
+
+O tornozelo dela estava do tamanho de um punho fechado. Ela não reclamava, o que era pior: Valéria Cruz reclamava de tudo, e o silêncio dela era um jeito de dizer que doía muito.
+
+— Você pode ficar no carro — disse Gabriel.
+
+— Posso. E aí você entra sozinho numa fábrica que provavelmente tem quarenta homens armados, e eu fico ouvindo você morrer pelo rádio. — Ela testou o peso no pé e não segurou o gemido. — Passa.
+
+A chuva batia no zinco do galpão como uma salva de palmas que não acabava. O gosto na boca era de cobre e adoçante velho, o resíduo químico que o Setor 4 exalava quando esquentava.
 
 — O lugar fede a formol — disse ela, torcendo o nariz.
 
@@ -27,6 +36,18 @@ Dezenas de esteiras rolantes cruzavam o espaço. Sobre elas, corpos nus passavam
 — Meu Deus... — Valéria cobriu a boca, contendo o vômito.
 
 Eles viram um braço mecânico costurar a boca de um homem inconsciente em um sorriso permanente, puxando a pele até as orelhas com grampos cirúrgicos.
+
+Na esteira ao lado, uma mulher de uns quarenta anos ainda tinha rosto. Não um rosto inteiro: a pele do maxilar estava aberta e os grampos ainda não tinham sido apertados. Ela piscava. Devagar, com esforço, como quem tenta lembrar o nome de alguém.
+
+Os olhos encontraram Gabriel e não pediram nada. Isso foi o que quase o fez parar.
+
+— Ela está consciente — sussurrou Valéria, e a voz saiu desafinada.
+
+— Estava — disse Gabriel.
+
+Depois, como se a palavra tivesse aberto uma porta, ele falou para o comunicador: — Aria, marca essa coordenada. Se eu não sair daqui, alguém vai querer saber que lugar é esse.
+
+— *Coordenada registrada,* — a voz respondeu, e havia algo de funerário na precisão dela.
 
 — Eles estão fazendo bonecos — sussurrou Gabriel, horrorizado. — Estão lobotomizando as pessoas e forçando-as a sorrir.
 
@@ -53,6 +74,8 @@ A horda de sorrisos avançou. Eles não corriam. Eles marchavam, escalando as pa
 — Atira! — gritou Valéria, puxando sua pistola de pulso eletromagnético.
 
 Gabriel abriu fogo. As balas de 9mm derrubavam os primeiros, mas eles não sentiam dor. Um homem com o peito aberto por um tiro continuou avançando, sorrindo.
+
+Gabriel contava os tiros. Doze no primeiro carregador, mais dez no bolso, e o bolso estava ficando leve. Cada estalo da Glock era uma moeda saindo. Dois bonecos caíram; três continuaram andando por cima dos próprios companheiros, sem olhar para baixo, e ele entendeu que ali não havia exército: havia matéria-prima com um objetivo comum.
 
 — Eles não param! — Gabriel recarregou. — Precisamos sair daqui!
 
@@ -106,4 +129,4 @@ Gabriel pegou o braço de Valéria.
 
 Enquanto saíam, Gabriel jogou um sinalizador aceso em um tanque de solvente industrial. O fogo subiu rápido, laranjas e negros, consumindo a Fábrica de Sorrisos e seus segredos.
 
-Mas o sorriso daquele rosto esmagado ficaria gravado na mente de Gabriel para sempre.
+O fogo estourou o teto e subiu pela chaminé em coluna negra. Na rua, atrás do vidro embaçado de um prédio vizinho, alguém já filmava. Gabriel virou o rosto, mas o sorriso já estava no ar, subindo com a fumaça, disponível para quem quisesse assistir.

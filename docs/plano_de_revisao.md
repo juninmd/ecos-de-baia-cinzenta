@@ -14,12 +14,21 @@ description: "O checklist que guia a revisão da obra, capítulo a capítulo."
 | | Capítulos |
 |---|---|
 | Reprovados em portão duro (< 600 palavras ou traço violado) | ~~55~~ → **0** ✅ |
-| No padrão | **234** |
-| **Total** | **234** |
+| Abaixo do alvo de 1.100 palavras | ~~54~~ → **0** ✅ |
+| No padrão | **238** |
+| **Total** | **238** |
 
-**Progresso:** nota média de 8,2 → **8,6**. `scripts/quality_gate.py` sai com **zero reprovados**;
-`scripts/analyze_coherence.py` sai com **"Coerência validada"**; `pytest` passa (1237 testes,
+**Progresso:** nota média de 8,2 → 8,6 → **8,9**. `scripts/quality_gate.py` sai com **zero reprovados**;
+`scripts/analyze_coherence.py` sai com **"Coerência validada"**; `pytest tests` passa (1550 testes,
 exceto a falha ambiental conhecida do `pydub`).
+
+**Rodada de extensão (54 capítulos):** todos os capítulos abaixo de 1.100 palavras foram expandidos
+para a faixa 1.130–1.400 por inserção de cena, sem remoção de fatos publicados — 6, 8, 10–14, 20–22,
+24–27, 29–31, 30.5, 34, 51, 54, 55, 66, 75.5, 77, 97, 100, 104, 109, 113–115, 119–122, 144, 149,
+151, 170–174, 176, 179, 187, 189–191, 195, 196, 198, 199. Nesta mesma rodada: 46 referências
+metaficcionais a número de capítulo saíram da prosa, a fórmula "titânio fosco e polímero negro" caiu
+de 34 para 7 capítulos, 119 capítulos ganharam `Localização` a partir da linha de cena, e o capítulo
+75.5 entrou no menu.
 
 **Capítulos reescritos nesta rodada (39):** 18, 28, 32, 33, 35, 37, 38, 39, 42, 43, 44, 46, 49,
 50, 56, 58, 59, 61, 62, 63, 64, 65, 69, 71, 72, 73, 74, 75, 78, 79, 80, 81, 82, 83, 84, 85, 86,

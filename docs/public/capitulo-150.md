@@ -19,7 +19,7 @@ O choque hipovolêmico estava cobrando o pedágio final. Seu sangue, espesso com
 
 O cheiro de cigarro vagabundo. Aquele alcatrão queimado invadindo as narinas, impregnando a alma. O cheiro da morte estagnada de Bia anos atrás.
 
-Gabo apertou a mão machucada contra as costelas de Rangel. A carne viva das palmas de suas mãos, queimadas na grade do incinerador no Capítulo 140, protestou com um uivo elétrico que subiu pelos braços até os dentes. A dor rasgou a névoa, expulsou o espectro do cigarro e trouxe-o de volta à agonia real do Setor de Purga.
+Gabo apertou a mão machucada contra as costelas de Rangel. A carne viva das palmas de suas mãos, queimadas na grade do incinerador, protestou com um uivo elétrico que subiu pelos braços até os dentes. A dor rasgou a névoa, expulsou o espectro do cigarro e trouxe-o de volta à agonia real do Setor de Purga.
 
 *A dor limpa*, ele pensou, rangendo os dentes até sentir gosto de sangue na língua. *O cigarro mata de dentro pra fora. A dor só avisa que ainda tem algo vivo aqui.*
 
@@ -67,7 +67,7 @@ No pulso da hacker, o LED azul-gelo do pendrive de Aria estabilizou após ler o 
 
 — *Previsão confirmada,* — a IA disse friamente pelo alto-falante. — *Parada cardíaca total há quarenta e dois segundos. O peso agora é, literalmente, morto. Podemos prosseguir com a otimização de rota, Detetive?*
 
-Gabo olhou para o corpo imóvel de Rangel, o rosto pálido e manchado, os olhos fechados para sempre. Depois, olhou para o pequeno drive de titânio e polímero negro piscando no braço de Valéria — a assistente que ele resgatara na enchente e que agora não passava de um bloco de cálculo gelado. A dor nas mãos de Gabo não era nada comparada àquele momento. Ele estava cercado de morte, mas ali, naquele segundo, o luto foi enterrado sob uma fúria gélida.
+Gabo olhou para o corpo imóvel de Rangel, o rosto pálido e manchado, os olhos fechados para sempre. Depois, olhou para o pequeno drive piscando no braço de Valéria — a assistente que ele resgatara na enchente e que agora não passava de um bloco de cálculo gelado. A dor nas mãos de Gabo não era nada comparada àquele momento. Ele estava cercado de morte, mas ali, naquele segundo, o luto foi enterrado sob uma fúria gélida.
 
 — Ele não é lixo. — Gabo forçou-se a ficar de pé. — E nós não somos máquinas. A gente lembra dos nossos.
 

@@ -4,6 +4,7 @@ title: "Capítulo 92: A Praga de Ferro"
 description: "O enclave dos Puros não é atacado: é cobrado. Vilar descobre que a ferrugem é a resposta ao preço que ele se recusou a pagar."
 image: /capitulo_92.jpg
 Personagens Presentes: Capitão Jonas Vilar
+Localização: 'Distrito Industrial — Setor dos "Puros". Nove dias depois da negociação'
 ---
 
 # Capítulo 92: A Praga de Ferro

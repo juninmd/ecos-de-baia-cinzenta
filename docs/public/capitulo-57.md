@@ -1,6 +1,7 @@
 ---
 image: /capitulo_57.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Aria
+Localização: "Zona de Exclusão — Setor 4"
 ---
 # Capítulo 57: Zona de Interesse
 

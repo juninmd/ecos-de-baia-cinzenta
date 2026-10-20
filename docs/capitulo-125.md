@@ -37,7 +37,7 @@ O pendrive blindado da Aria estava espetado no adaptador central da bancada, con
 
 — O sistema operacional não sabe mais onde termina o assistente tático e onde começa a... matriz doadora. — Valéria hesitou na palavra. — Os fragmentos neurais de Bia Vargas que davam intuição ao código vazaram para o núcleo de voz e tomada de decisão.
 
-Gabo sentiu um frio na espinha que nada tinha a ver com a umidade do esgoto. Ele se aproximou da bancada. O pequeno cilindro de titânio fosco aquecia, e seu LED indicador piscava de forma errática, alternando entre o azul tático e um âmbar febril.
+Gabo sentiu um frio na espinha que nada tinha a ver com a umidade do esgoto. Ele se aproximou da bancada. O cilindro aquecia, e seu LED indicador piscava de forma errática, alternando entre o azul tático e um âmbar febril.
 
 — O firmware de segurança está tentando deletar os arquivos corrompidos para liberar processamento — continuou Valéria. — O protocolo de autopreservação quer formatar as memórias residuais da Bia para salvar os drivers táticos. É lógico. É eficiente.
 

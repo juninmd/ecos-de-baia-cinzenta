@@ -4,6 +4,7 @@ title: "Capítulo 38: A Ressaca"
 description: "A cidade sobreviveu à noite e começa a morrer de abstinência. No arquivo morto do porão, Gabo descobre a única rede que a Aeterna nunca conseguiu desligar."
 image: /capitulo_38.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Valéria "Val" Cruz, Capitão Jonas Vilar
+Localização: "Delegacia Central (saguão e arquivo morto do porão)"
 ---
 
 # Capítulo 38: A Ressaca

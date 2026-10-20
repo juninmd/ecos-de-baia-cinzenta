@@ -1,6 +1,7 @@
 ---
 image: /capitulo_54.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Padre Miguel, Clara Moretti
+Localização: "Dia 45 do Dilúvio - Distrito da Ferrugem"
 ---
 # Capítulo 54: Fé e Ferrugem
 
@@ -13,6 +14,8 @@ O Cobalt de Gabo gemia a cada curva. O motor engasgava, cuspindo óleo negra que
 — Respeite o ancião — rosnou Gabo, batendo no volante para o painel de instrumentos voltar a funcionar. — Ele é o único que não tem chip de rastreamento.
 
 Gabo estacionou diante da Catedral de Ferro. Era uma estrutura gótica monstruosa, cujos vitrais haviam sido substituídos por chapas de metal reciclado. A água barrenta lambia os degraus da entrada, transformando o adro em um porto improvisado para centenas de desabrigados em botes de lixo.
+
+A água tinha subido desde a última vez. Antes lambia os degraus; agora entrava pela nave como um inquilino que já pagou o aluguel adiantado. Os bancos tinham sido arrancados e virados estrado, e sobre o estrado dormiam pessoas com os pés para fora do cobertor, porque pé molhado apodrece primeiro. Alguém cantava baixo, desafinado, para uma criança tossir no ritmo da canção.
 
 — Por que estamos aqui, Gabo? — perguntou Val. — Deveríamos estar caçando o Marco.
 
@@ -29,6 +32,18 @@ Dentro da catedral, o cheiro de incenso brigava com o odor de roupa molhada e so
 O padre limpou as mãos em um pano.
 
 — Eles não desapareceram, filho. Foram coletados.
+
+— Coletados por quem?
+
+— Pela lista. — O padre encheu a tigela seguinte sem levantar os olhos. — Você chega aqui querendo nomes, Gabriel. Eu tenho nomes. Tenho quarenta e dois nomes de gente que dormia nesse adro e sumiu em três dias. Todos levados em carro branco, com lacre no vidro e dois homens de farda nova. Sabe o que eu tenho além dos nomes? Nada. Nenhum corpo. Nenhum papel. Nenhum político com vergonha na cara.
+
+— Me dá os nomes e eu—
+
+— E você o quê? — A concha parou no ar. — Vai arrombar o campo de triagem com essa espingarda e voltar com quantos? Dez? Doze? E os outros trinta ficam lá dentro, sozinhos, porque você acordou o dragão.
+
+— Então me diga o que fazer.
+
+— Digo o que não fazer: trazer a sua guerra para dentro da minha casa. Essa gente já perdeu a casa. Perder a igreja seria exigir demais de um Deus distraído.
 
 Antes que Gabo pudesse perguntar, um som de metal esmagando metal ecoou lá fora. Gritos.
 
@@ -89,6 +104,8 @@ O Padre Miguel se aproximou. Ele olhou para o robô destruído, depois para Gabo
 — Eles iam matar o velho — cuspiu Gabo, tentando soltar as travas das órteses inúteis.
 
 — E agora eles sabem onde estamos. — O padre suspirou. — Você não pode socar o mundo até ele consertar, Gabriel. Seu pai sabia disso.
+
+Gabo cuspiu sangue na água e viu que era pouco. Um dente solto, a costela que o segundo bastão tinha encontrado de raspão, e as pernas — as pernas eram duas peças de ferro penduradas no quadril, sem serventia e com peso de âncora. O cheiro de cobre queimado subia das juntas mortas. Ele sentiu quando a mulher da terceira fila puxou o filho para trás, sem gritar, só puxando, e cobriu os olhos do menino com a mão. Não era medo dos robôs. Os robôs tinham ido embora. Era medo dele.
 
 Gabo conseguiu se livrar das pernas mecânicas. Ele tentou ficar de pé, cambaleando. A dor na coluna voltou, aguda, real.
 

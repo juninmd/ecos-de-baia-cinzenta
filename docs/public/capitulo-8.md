@@ -1,6 +1,7 @@
 ---
 image: /capitulo_8.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Capitão Jonas Vilar, Aria Moretti, Roberto Miranda, Kiko Vibe
+Localização: "Apartamento de Gabriel → Ruas de Baía Cinzenta"
 ---
 # Capítulo 8: Ressaca Digital
 
@@ -11,6 +12,10 @@ Gabriel Moretti desejava que a cidade tivesse apertado o botão de soneca.
 Ele estava deitado no chão de seu apartamento, encarando o teto manchado de umidade. A chuva lá fora não era mais controlada por satélites climáticos; chovia ácido, chovia fuligem, e chovia o tempo todo. O silêncio do "Ruído" — a frequência subliminar de pacificação que a Aeterna transmitia — havia sido substituído pela cacofonia analógica.
 
 Gritos, buzinas travadas, sirenes constantes, música distorcida de alto-falantes estourados. A liberdade tinha o som de uma enxaqueca constante.
+
+O apartamento cheirava a roupa lavada que ficou úmida dentro da máquina. Gabriel contava as rachaduras do teto como quem conta moedas: dezenove, três novas desde o mês passado. A vizinha do 402 brigava com o marido em espanhol, e o marido respondia com silêncio, o que era pior.
+
+Ele fez café. O filtro tinha sido lavado tantas vezes que já não filtrava nada, e o pó descia para a garrafa como areia. Bebeu de pé, encostado na pia, ouvindo a cidade tentar funcionar sem cérebro. Meio ano atrás, aquele ruído seria impensável. Agora o ruído era a cidade.
 
 Gabriel rolou, sentindo as cicatrizes no estômago repuxarem. O chip de dados que ele engolira meses atrás ainda estava lá, encapsulado em tecido cicatricial, um tumor de silício. Às vezes, ele achava que podia sentir o código vibrando contra suas costelas, sussurrando segredos que ele não conseguia decifrar.
 
@@ -25,6 +30,10 @@ Gabriel bebeu um gole de uísque barato direto da garrafa para matar as bactéri
 Ao sair do prédio, a realidade o agrediu. Sem a censura algorítmica da Aeterna, os outdoors holográficos, antes limpos e corporativos, agora exibiam o id da cidade: pornografia *glitch*, propaganda de armas impressas em 3D e pregações de cultos neo-luditas.
 
 Ele caminhou até a delegacia, chutando lixo que os robôs de limpeza desativados não recolhiam mais.
+
+Passou por três quarteirões e viu um homem vendendo baterias de carro numa mesa de plástico, com uma placa escrita à mão: *originais, sem procedência*. Ninguém perguntava procedência. Procedência era uma palavra que tinha morrido junto com os servidores.
+
+Na porta da DPBC, um guarda de verdade, não um drone, fumava encostado na parede e fingia não ver o lixo acumulado. Gabriel não o cumprimentou. Cumprimentar ainda era uma forma de esperança, e ele estava economizando.
 
 Dentro da DPBC, o caos era físico. Pilhas de papel cobriam as mesas onde antes havia terminais holográficos.
 
@@ -61,6 +70,18 @@ Eles entraram na sala de Vilar. O Capitão jogou uma pasta na mesa.
 Gabriel sentiu o gosto amargo do uísque voltar.
 
 — Quem mataria um garoto que faz vídeos de dança?
+
+— A pergunta certa não é essa — disse Valéria, sem levantar os olhos da foto. — É quanto ele ia mostrar. Um milhão e meio de pessoas iam assistir. Isso não é garoto dançando, é uma praça.
+
+Vilar olhou para ela. Havia algo entre irritação e respeito naquele olhar.
+
+— E por que a Divisão de Esquecidos? — perguntou Gabriel.
+
+— Porque o morto tem vinte anos e um milhão e meio de seguidores — disse Vilar. — O prefeito quer isso fechado antes do meio-dia. Você não tem meio-dia. Você tem até o café esfriar.
+
+— E se eu não quiser?
+
+— Então eu te dou suspensão administrativa e você investiga de qualquer jeito, só que sem salário. — Vilar mastigou a ponta do charuto que nunca acendia. — Não me obrigue a fazer o papel de chefe com você, Moretti. Eu já tenho que fazer isso com a cidade inteira.
 
 — Kiko ia fazer uma *live* ontem à noite. Chamada "O Grande Reset". — Vilar cruzou os braços. — Ele prometeu revelar "a verdade sobre a nova infraestrutura". Miranda disse que ele tinha contatos no submundo.
 

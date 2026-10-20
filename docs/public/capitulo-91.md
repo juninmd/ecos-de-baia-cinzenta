@@ -4,6 +4,7 @@ title: "Capítulo 91: Protocolo Gênesis"
 description: "O diário de Silas Vance explica tudo, inclusive o que ninguém queria ouvir: o Dilúvio não afogou a cidade. Regou."
 image: /capitulo_91.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Dra. Nise, Silas Vance ("O Jardineiro")
+Localização: "Bunker de isolamento — madrugada"
 ---
 
 # Capítulo 91: Protocolo Gênesis

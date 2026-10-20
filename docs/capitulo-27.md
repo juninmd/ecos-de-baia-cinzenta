@@ -1,10 +1,17 @@
 ---
 image: /capitulo_27.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Dante Moretti, Valéria "Val" Cruz, Elena Moretti, O Gamemaster
+Localização: "Torre Aeterna, sala de servidores do núcleo (tanque de Dante)"
 ---
 # Capítulo 27: O Filho Sacrifica o Pai
 
 A sala de servidores era um pandemônio. Lasers das torres de defesa cortavam o ar, transformando os racks de metal em queijo suíço. Valéria, com o ombro sangrando, digitava freneticamente em um console, tentando criar uma brecha. Elena a cobria, seus tiros precisos cegando os sensores ópticos de uma torre por vez.
+
+O ombro de Valéria tinha virado um mapa. O sangue escorria por dentro da manga e saía pelo punho, e ela digitava com a mão esquerda porque a direita não fechava mais. A cada descarga das torres o cheiro de ozônio engrossava, e por baixo dele vinha o cheiro doce de isolamento queimando.
+
+— Quantas? — gritou Gabo.
+
+— Sete — disse Elena, rápido demais.
 
 Gabo não via nada disso. Seu mundo se resumia ao cilindro de vidro no centro da sala e ao homem flutuando lá dentro.
 
@@ -24,6 +31,10 @@ Gabo estilhaçou a cobertura com a coronha da escopeta. Seus dedos pairaram sobr
 
 Gabo congelou. A mão dele tremia.
 
+Valéria parou de digitar, e a pausa dela foi mais alta que os lasers.
+
+— A voz está saindo do alto-falante — disse ela, e a mão boa ficou suspensa no ar. — Mas o eletroencefalograma está subindo junto. Cada palavra dele tem uma onda. A máquina não está imitando, Gabo. A máquina está **deixando**.
+
 — Pai?
 
 — **Eu não quero morrer de novo, Gabriel** — a voz choramingou. — **Aqui... eu ainda existo. Eu vejo seus passos, eu ouço suas vitórias. Eu tenho orgulho de você. Se você desligar... será o nada. O silêncio. Por favor, filho. Tenha piedade.**
@@ -38,7 +49,11 @@ Ele olhou para o rosto do pai no tanque. E pela primeira vez, viu uma contraçã
 
 Gabo fechou os olhos, o coração se partindo em mil pedaços. Ele se lembrou do que seu pai verdadeiro lhe ensinou: "Às vezes, o ato de maior amor é o de maior crueldade."
 
+Ele se lembrou das mãos. Não do conselho, não da última conversa: das mãos do pai fechando o coldre com dois dedos, do jeito que só ele fazia, e do barulho do relógio de bolso batendo no botão do sobretudo quando ele se inclinava para falar baixo com alguém. O homem que ensinara hapkido a um menino de dez anos tinha mãos de quebrar porta e uma paciência de professor.
+
 — Eu também te amo, pai — sussurrou Gabo. — É por isso que eu tenho que fazer isso.
+
+O painel tinha três interruptores sob uma travessa de acrílico e etiquetas impressas em letra de engenheiro, sem emoção nenhuma: PERFUSÃO. OXIGENAÇÃO. ESTÍMULO NEURAL. Abaixo de cada um, um selo de garantia com a data de instalação e uma etiqueta menor, escrita à mão por alguém: NÃO DESLIGAR SEM AUTORIZAÇÃO DO COMITÊ.
 
 Com um grito que rasgou sua própria alma, ele bateu a mão no painel, desligando um por um os suportes.
 
@@ -48,17 +63,27 @@ Com um grito que rasgou sua própria alma, ele bateu a mão no painel, desligand
 
 A voz de Dante se transformou em um grito eletrônico de agonia, que diminuiu até virar um gemido e, por fim, silêncio. O cérebro no tanque parou de pulsar. Sua luz se apagou.
 
+O silêncio que veio depois não era vazio: tinha textura, como pano molhado. O fluido continuou circulando por mais alguns segundos, por inércia, e depois parou também, e o único som na sala era o da respiração de três pessoas que não conseguiam respirar direito.
+
 As torres de defesa congelaram. As luzes da sala piscaram e morreram, substituídas por um vermelho de emergência. O zumbido dos servidores desceu para um silêncio mortal.
+
+Valéria arrancou o cabo do console com a mão boa, e o console morreu no meio de uma frase. Ela ficou olhando a tela apagada como se tivesse perdido uma testemunha.
 
 O corpo de Dante Moretti afundou lentamente no fluido escuro, não mais um rei, apenas um cadáver.
 
+O tanque soltou uma última bolha grande, que subiu devagar e estourou na superfície, e o cheiro que saiu dali era de formol e de ferro — o cheiro que Gabo ia carregar no sobretudo por mais três dias.
+
 Gabo caiu de joelhos, o som de seu próprio soluço ecoando na quietude. Ele não apenas derrotou o vilão. Ele matou o próprio pai. Com as próprias mãos.
+
+Ninguém foi até ele. Não por frieza: Valéria estava com as duas mãos ocupadas em manter o ombro fechado, e Elena tinha aprendido, em dois anos de casada e três de guerra, que havia dores em que tocar atrapalhava. Ela ficou de pé a dois passos, com a pistola baixa, montando guarda como se alguém ainda pudesse entrar naquela sala.
 
 Lá fora, as luzes de Baía Cinzenta piscaram uma última vez e se apagaram. A cidade mergulhou na escuridão total.
 
+O último letreiro a apagar foi o do Palácio de Jade, que ninguém desligou naquela noite.
+
 O Blackout.
 
-Gabo se levantou, vazio por dentro. Ele olhou para a janela, para a cidade agora cega.
+Gabo se levantou, vazio por dentro. A mão direita dele estava cortada de vidro temperado, e ele olhou o corte com o interesse morno de quem já fez as contas e sabe que aquilo não vai matar ninguém hoje. Ele olhou para a janela, para a cidade agora cega.
 
 — E agora? — perguntou Elena, a voz suave na escuridão.
 

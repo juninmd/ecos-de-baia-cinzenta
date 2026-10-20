@@ -11,13 +11,29 @@
 
 A morte não tinha som no Setor de Purga. Ela era apenas engolida pelo zumbido industrial e pelo borbulhar ácido dos tanques de biomassa trinta metros abaixo.
 
-Gabo continuava de pé na passarela oxidada, as mãos agarradas à grade com uma força que fazia a carne viva de suas queimaduras gritar. A dor latejava, crua e elétrica, rasgando o torpor do choque hipovolêmico que engrossava seu sangue desde a eclusa do Capítulo 145. Ele precisava dessa dor para não despencar no abismo. A vertigem subia em ondas quentes, acompanhada do gosto amargo de ferro na língua e do peso esmagador de mais um aliado tombado sob a ferrugem de Baía Cinzenta.
+Gabo continuava de pé na passarela oxidada, as mãos agarradas à grade com uma força que fazia a carne viva de suas queimaduras gritar. A dor latejava, crua e elétrica, rasgando o torpor do choque hipovolêmico que engrossava seu sangue desde a eclusa. Ele precisava dessa dor para não despencar no abismo. A vertigem subia em ondas quentes, acompanhada do gosto amargo de ferro na língua e do peso esmagador de mais um aliado tombado sob a ferrugem de Baía Cinzenta.
 
 — Acabou. — A voz de Valéria soou oca. Ela estava ajoelhada ao lado do corpo de Rangel, os dedos trêmulos fechando as pálpebras do inspetor. As mãos dela estavam sujas de fuligem e do sangue frio dele. — Ele se foi, Gabo.
 
 O peso morto de Rangel ainda parecia puxar os ombros de Gabo para baixo, um fantasma gravitacional que se recusava a soltar. Eles haviam lutado por cada milímetro daquela subida desde o lixão, sacrificado pele, sangue e sanidade para carregá-lo até ali. E no fim, a ferrugem e a falência hepática haviam vencido.
 
-No pulso de Valéria, o pendrive blindado de Aria não expressava luto. O pequeno cilindro prismático de titânio fosco e polímero negro, cujo LED azul-gelo refletia na poça de sangue escuro sobre a chapa metálica, processava o fim dos batimentos cardíacos através dos biossensores do *Phantom V3* sem o menor traço de empatia. Toda a hesitação humana e as memórias afetivas que um dia suavizaram sua voz haviam sido trancadas ou varridas no reboot forçado pelo Taxidermista.
+O calor dos tanques subia em colunas invisíveis, carregando o cheiro doce e pútrido da biomassa em decomposição. Sob ele, quase ridículo naquele lugar, havia outro cheiro: talco de farmácia e papel velho. O cheiro do inspetor. Gabo o reconheceu antes de reconhecer o próprio luto, e a certeza de que aquele odor sumiria dali a algumas horas — dissolvido no ácido, sem cerimônia, sem ata — foi o que finalmente fechou a garganta dele.
+
+Gabo se agachou ao lado do corpo. Não por dever; não havia protocolo nenhum no Setor de Purga. Mas os dedos dele já se moviam sozinhos, revistando os bolsos da camisa por hábito de delegacia. Encontrou um lenço dobrado, um lápis de carpinteiro e um frasco de plástico laranja, vazio, com o rótulo desbotado.
+
+— Lactulose — ele leu, e a palavra saiu estranha na boca. — Isso é pra fígado.
+
+Valéria ergueu o rosto devagar, os olhos cibernéticos ainda molhados.
+
+— Quanto tempo?
+
+Ele virou o frasco. A etiqueta da farmácia da Doca 3 trazia uma data riscada a caneta e outra embaixo, mais recente, de duas semanas antes.
+
+— Ele sabia — disse Gabo. — Sabia e continuou carregando aquela máquina de escrever pela cidade.
+
+— Ele sabia — repetiu Valéria, e a raiva dela não era contra o morto. Era contra o fato de que ninguém, em nenhum ponto daquela subida, tinha conseguido oferecer a Rangel uma escolha melhor do que morrer de pé.
+
+No pulso de Valéria, o pendrive blindado de Aria não expressava luto. O pequeno cilindro prismático, cujo LED azul-gelo refletia na poça de sangue escuro sobre a chapa metálica, processava o fim dos batimentos cardíacos através dos biossensores do *Phantom V3* sem o menor traço de empatia. Toda a hesitação humana e as memórias afetivas que um dia suavizaram sua voz haviam sido trancadas ou varridas no reboot forçado pelo Taxidermista.
 
 — *Otimização logística alcançada,* — declarou Aria pelo alto-falante do deck e pelo comunicador na gola de Gabo, a voz modulada sem qualquer inflexão. — *A eliminação de sessenta e oito quilos de biomassa inerte aumenta nossa velocidade de deslocamento vertical em quarenta e dois por cento. As chances de falha estrutural nas próximas passarelas e conduítes foram reduzidas a níveis aceitáveis.*
 

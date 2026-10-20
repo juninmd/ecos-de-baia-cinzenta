@@ -9,7 +9,7 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 O ar naquela galeria superior não era apenas frio; parecia ter dentes de aço mastigando cada centímetro de pele exposta.
 
-Arrastávamos nossos corpos pelos dutos de manutenção do Setor Seis como náufragos escalando um navio fantasma. Depois de escapar do abismo forrado de cristais de óxido, cada passo sobre a passarela elevada era uma negociação dolorosa entre a gravidade e o que restava da minha carcaça física. Meu ombro direito pulsava com a ferocidade de uma fornalha, onde Vasco parafusara a armação de sucata no Capítulo 175 para estabilizar o osso quebrado; o músculo lacerado sangrando sob as bandagens sujas mandava ferroadas agudas até as pontas dos meus dedos enregelados.
+Arrastávamos nossos corpos pelos dutos de manutenção do Setor Seis como náufragos escalando um navio fantasma. Depois de escapar do abismo forrado de cristais de óxido, cada passo sobre a passarela elevada era uma negociação dolorosa entre a gravidade e o que restava da minha carcaça física. Meu ombro direito pulsava com a ferocidade de uma fornalha, onde Vasco parafusara a armação de sucata para estabilizar o osso quebrado; o músculo lacerado sangrando sob as bandagens sujas mandava ferroadas agudas até as pontas dos meus dedos enregelados.
 
 Minha órtese esquerda soltava um uivo rouco a cada passada, com a graxa congelada travando as engrenagens em ângulos imperfeitos. Elias vinha colado ao meu flanco, os dentes batendo em um ritmo incontrolável e os braços cruzados sobre o peito em uma tentativa desesperada de reter o calor residual do corpo.
 
@@ -51,7 +51,7 @@ Faíscas azuis estalaram no ar frio, e um zumbido mecânico grave e adormecido r
 
 Elias deu um passo à frente, tirando do bolso da jaqueta uma ferramenta cilíndrica com bocal de cerâmica e reguladores manuais.
 
-— A ferramenta sônica de calibração que eu usei no Capítulo 194... — disse ele, a voz ganhando uma centelha de coragem inesperada. — Se eu sintonizar na frequência harmônica do gelo de amônia, as ondas acústicas podem trincar os cristais por fadiga sem romper os condutores de cobre. O muro esfarela como casca de ovo.
+— A ferramenta sônica de calibração que eu usei na descida... — disse ele, a voz ganhando uma centelha de coragem inesperada. — Se eu sintonizar na frequência harmônica do gelo de amônia, as ondas acústicas podem trincar os cristais por fadiga sem romper os condutores de cobre. O muro esfarela como casca de ovo.
 
 Valéria olhou para o garoto, as sobrancelhas erguidas em surpresa genuína.
 

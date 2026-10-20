@@ -1,12 +1,27 @@
 ---
 image: /capitulo_6.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Kael "O Cirurgião", Roberto Miranda, Aria Moretti
+Localização: "Represa Hidrelétrica de Baía Cinzenta"
 ---
 # Capítulo 6: O Coração da Tempestade
 
 A Represa Hidrelétrica de Baía Cinzenta era uma tumba de concreto. O som da água caindo a quilômetros de distância reverberava nas paredes como um batimento cardíaco lento e doente.
 
 Gabriel e Miranda avançavam pelos corredores de serviço, deixando um rastro de sangue e lama. A perna de Miranda estava amarrada com um pedaço de camisa rasgada, mas o ex-policial estava pálido, suando frio.
+
+A represa respirava por eles. Cada vez que o vento entrava pelas frinchas do corredor, o concreto soltava um gemido grave, de casa velha que se recusa a admitir que está caindo. O chão tinha uma camada de lodo e cal que grudava na sola, e o gosto de ferro na boca de Gabriel não vinha de ferimento nenhum.
+
+Miranda parou para tossir. A tosse saiu molhada, com um som que não pertencia a um pulmão saudável.
+
+— Você está deixando um rastro que qualquer um pode seguir — disse Gabriel, sem se virar.
+
+— Estou deixando um rastro porque você me arrastou para dentro deste lugar.
+
+— Você me trouxe o chip.
+
+— Eu trouxe o chip para não morrer. Não confunda as coisas.
+
+Gabriel não respondeu. Algumas discussões só servem para gastar o ar que ainda vai faltar.
 
 — Estamos perto — sussurrou Miranda, verificando um painel na parede com mãos trêmulas. — O consumo de energia aqui... é astronômico.
 
@@ -30,6 +45,18 @@ Gabriel caminhou pelo corredor central, a arma abaixada, os olhos varrendo os no
 *Indivíduo 4591 - Status: Falha Crítica.*
 
 — "Mineração de dados" — Gabriel leu, a fúria crescendo em seu peito como um incêndio. — Eles não estão minerando criptomoeda. Estão usando a capacidade neural para processar vigilância.
+
+Gabriel parou diante de um tanque menor, quase escondido atrás de um *rack*. A placa dizia *Indivíduo 3912*. O gel dentro do vidro era mais escuro, e o cérebro flutuava de lado, como fruta que apodreceu por dentro. Uma etiqueta manuscrita estava presa com fita: *sem resposta a estímulo — descartar após extração*.
+
+Ele conhecia aquele número. Não o número — o caso. Trezentos e noventa e um arquivos na Divisão de Esquecidos, e ele tinha aberto aquele em uma tarde de chuva, com café frio e a certeza de que ninguém cobraria resposta. A mulher do Setor 4 que saiu para comprar pão e não voltou. O marido veio três vezes à delegacia. Na terceira, o capitão mandou servir um café para ele e disse que não havia mais o que fazer.
+
+Miranda seguiu o olhar dele e entendeu. Foi a única coisa parecida com vergonha que Gabriel viu no rosto do ex-parceiro naquela noite.
+
+— Eu não sabia que era assim — disse Miranda.
+
+— Você sabia que eles pagavam.
+
+— Saber que pagam e ver o tanque são coisas diferentes, Gabo.
 
 De repente, as luzes da sala piscaram violentamente. Os monitores nas paredes, que antes mostravam linhas de código, se encheram de estática.
 
@@ -56,6 +83,8 @@ O monitor explodiu em faíscas.
 Antes que Gabriel pudesse reagir, a porta de explosão no final do corredor se abriu com um silvo hidráulico.
 
 Uma silhueta maciça bloqueou a luz. Kael.
+
+O cheiro chegou antes do resto: antisséptico hospitalar por cima de carne velha, o mesmo cheiro da clínica clandestina onde Gabriel pagara em dinheiro vivo para não fazer perguntas. O ar da sala ficou mais espesso, como se o gigante tivesse trazido a própria atmosfera.
 
 O "Cirurgião" da Aeterna parecia ainda maior pessoalmente. Sua armadura tática era coberta por um avental de couro grosso, manchado de fluidos escuros. Em uma das mãos, uma lâmina de monofilamento zumbia suavemente. Na outra, uma pistola automática pesada.
 

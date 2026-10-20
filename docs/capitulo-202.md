@@ -9,7 +9,7 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 A escotilha de ferro fundido bateu com um estampido seco, ecoando pelo túnel como a tampa de um sarcófago se fechando. O barulho das mandíbulas mecânicas e dos guinchos predatórios do enxame lá embaixo foi abafado instantaneamente, reduzido a uma vibração oca que subia pelas solas dos meus coturnos. O corredor que se abria à nossa frente era uma ruptura brutal com a podridão orgânica das catacumbas: não havia raízes azuis, nem lodo escorrendo pelas paredes. Apenas concreto cinzento, maciço e assustadoramente estéril, estendendo-se em linha reta sob uma penumbra morta.
 
-Caí de costas contra a alvenaria gelada. Meus joelhos cederam, e escorreguei até o chão com o barulho áspero do meu casaco de sarja raspando na parede. Meu ombro direito parecia ter sido esticado em um potro de tortura medieval; o peso de Elias na queda quase arrancara os parafusos que Vasco fixara na minha clavícula no Capítulo 175. O sangue quente escorria da minha palma esquerda lacerada pelo vergalhão da escada, pingando rítmico no piso empoeirado.
+Caí de costas contra a alvenaria gelada. Meus joelhos cederam, e escorreguei até o chão com o barulho áspero do meu casaco de sarja raspando na parede. Meu ombro direito parecia ter sido esticado em um potro de tortura medieval; o peso de Elias na queda quase arrancara os parafusos que Vasco fixara na minha clavícula. O sangue quente escorria da minha palma esquerda lacerada pelo vergalhão da escada, pingando rítmico no piso empoeirado.
 
 Elias desabou a dois passos de mim, encolhendo os joelhos contra o peito. Seus dentes batiam com tanta força que o som parecia um relé defeituoso.
 

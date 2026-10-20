@@ -1,10 +1,27 @@
 ---
 image: /capitulo_24.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, O Taxidermista, Elena Moretti, Aria Moretti
+Localização: "Túneis da Fundação (esgoto sob a cidade) → Corredores da Torre Aeterna"
 ---
 # Capítulo 24: A Galeria dos Deformados
 
 O cheiro não era apenas de esgoto. Era um cheiro químico, doce e podre, como flores em decomposição e carne queimada.
+
+A água estava morna, o que era pior do que se estivesse fria, porque morna significava que alguma coisa ali embaixo ainda funcionava. De vez em quando um cano tossia dentro da parede, um golpe surdo de ar comprimido, e os três paravam ao mesmo tempo. O teto era baixo e suado de condensação. Elena andava com o cotovelo colado ao corpo, contando as junções do concreto em voz baixa, como quem reza.
+
+— São dezoito metros até a câmara de tratamento — disse Valéria, sem olhar para trás.
+
+— A gente já andou trinta.
+
+— O mapa é de cinquenta anos atrás, Gabo.
+
+— O mapa é o que você tirou da cabeça do Miranda.
+
+— E o Miranda tirou de um arquivo que ninguém abria desde antes de eu nascer. — Ela parou, ajustou o deck no pulso, e a luz tremeluziu. — Se eu tiver errado quatro metros, a gente está andando dentro de uma parede. Se eu tiver errado trinta, a gente está embaixo do rio.
+
+— E qual é?
+
+— Ainda não sei. Me dá dois minutos antes de me cobrar.
 
 Eles caminhavam pelos túneis da Fundação há uma hora. A água escura batia em suas canelas. Valéria guiava o caminho com a luz do seu deck, projetando o mapa tridimensional que roubaram de Miranda.
 
@@ -30,7 +47,7 @@ Dezenas deles. Embutidos nas paredes de concreto, fundidos com a alvenaria. Algu
 
 Gabo girou, apontando a "Caronte".
 
-Uma figura emergiu das sombras no final do túnel. Usava um avental de couro pesado, manchado de óleos escuros. Óculos de joalheiro brilhavam em seus olhos.
+Uma figura emergiu das sombras no final do túnel. Usava um avental de couro pesado, manchado de óleos escuros. Óculos de joalheiro brilhavam em seus olhos. O cheiro chegou antes do rosto: formol, óleo de máquina e alguma coisa doce por baixo, como fruta passada. Ele trazia um pano e uma chave de fenda, e segurava os dois com a naturalidade de quem foi interrompido no meio de um conserto.
 
 O Taxidermista.
 
@@ -52,11 +69,13 @@ As criaturas avançaram, um coro de gemidos e metal rangendo.
 
 O túnel explodiu em som e fúria. O primeiro disparo da "Caronte" desintegrou uma das abominações. Mas elas continuavam vindo, indiferentes.
 
+Gabo recarregou no escuro, com os dedos, sem olhar. Cinco cartuchos. Contou duas vezes porque a primeira contagem não fechou, e o medo fazia isso, embolsava números.
+
 — Val, a porta! Agora! — gritou Gabo, recarregando.
 
 — Estou tentando! O mecanismo é antigo, está quase fundido! — Valéria estava conectada a um painel na parede, seus dedos dançando sobre o holograma de seu deck.
 
-Elena disparou sua pistola, os tiros soando como estalidos perto do rugido da escopeta. Ela acertou um atacante no pescoço, mas ele apenas cambaleou.
+Elena disparou sua pistola, os tiros soando como estalidos perto do rugido da escopeta. Ela acertou um atacante no pescoço, mas ele apenas cambaleou. A pistola travou no tiro seguinte. Ela bateu no ferrolho com a base da mão, uma vez, duas, e a arma voltou; não havia tempo para o orgulho de quem nunca quis aprender a atirar.
 
 — Na cabeça, Elena! O cérebro ainda comanda os motores! — instruiu Gabo, disparando novamente.
 
@@ -101,6 +120,10 @@ Gabo puxou uma granada de fragmentação.
 Ele lançou a granada. O Taxidermista arregalou os olhos. Gabo mergulhou sob a porta que se fechava.
 
 A explosão sacudiu as fundações da cidade. O túnel atrás deles colapsou, soterrando a "galeria" e seu criador.
+
+O som entrou em Gabo de lado, um estalo branco que não parava de doer. O ouvido esquerdo fechou. O direito continuou ouvindo o túnel desabar por muito tempo depois de o túnel ter parado de desabar.
+
+Ele conferiu o cinto por hábito. Vazio. A última granada tinha ido embora com a galeria.
 
 Do outro lado, Gabo se levantou. Elena estava pálida, mas assentiu. Valéria, no entanto, tremia de raiva, os punhos cerrados.
 

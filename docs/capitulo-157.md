@@ -18,7 +18,7 @@ characters: ["Gabo", "Valéria", "Aria"]
 
 O monorail engolia os trilhos verticais com a fúria de um leviatã de metal subindo das profundezas. O som contínuo do atrito das rodas enferrujadas contra as vigas de aço era uma broca perfurando os ouvidos. Dentro do vagão de carga, a luz amarela mortiça piscava, lutando contra as quedas de tensão na velha malha energética da Aeterna Corp.
 
-Gabo estava sentado no chão corrugado, encostado na parede de aço vibrante. Cada solavanco do trem era traduzido como um soco direto em seus ossos. Seu braço direito quebrado, envolto em talas e ataduras sobre as queimaduras de plasma do Capítulo 155, era uma âncora de agonia pura. Ele as mantinha erguidas, os tecidos enegrecidos pulsando com a batida de seu coração esfolado.
+Gabo estava sentado no chão corrugado, encostado na parede de aço vibrante. Cada solavanco do trem era traduzido como um soco direto em seus ossos. Seu braço direito quebrado, envolto em talas e ataduras sobre as queimaduras de plasma, era uma âncora de agonia pura. Ele as mantinha erguidas, os tecidos enegrecidos pulsando com a batida de seu coração esfolado.
 
 O cheiro do ambiente era uma mistura ácida de ozônio, poeira de décadas e ferrugem molhada, misturado ao odor acre de pele cauterizada. A cada solavanco violento nos trilhos, a náusea ameaçava dominá-lo, mas Gabo respirava fundo pela boca, lutando contra o princípio de choque.
 
@@ -28,7 +28,7 @@ Ele apoiava as costas contra a chapa de aço vibrante do vagão, mantendo os olh
 
 — Não, — cortou Gabo. A voz era como vidro moído. — Não agora, Val. Se você parar para pensar nele, a cidade te engole. Você tem que focar como ela.
 
-Ele apontou com o queixo para o painel frontal da cabine. O pendrive blindado de titânio e polímero negro de Aria permanecia cravado na porta de diagnóstico da caixa de junção do trem, seu LED azul-gelo piscando num ciclo ininterrupto e frenético enquanto seus algoritmos comandavam os motores de indução.
+Ele apontou com o queixo para o painel frontal da cabine. O pendrive blindado de Aria permanecia cravado na porta de diagnóstico da caixa de junção do trem, seu LED azul-gelo piscando num ciclo ininterrupto e frenético enquanto seus algoritmos comandavam os motores de indução.
 
 — *Aviso de impacto térmico e cinético na lataria superior,* — anunciou a voz sintética de Aria pelos alto-falantes chiantes da cabine. — *Massa adicional detectada nos sensores de carga do teto: quatrocentos quilos. A assinatura vibratória sugere Drones de Manutenção Corrompidos classe Scarab e enxertos biomecânicos. O Taxidermista recalibrou o tempo de interceptação.*
 

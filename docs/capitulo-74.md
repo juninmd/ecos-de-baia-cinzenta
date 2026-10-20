@@ -4,6 +4,7 @@ title: "Capítulo 74: O Sacrifício de Lázaro"
 description: "No heliponto de uma torre torta, a IA que nasceu num pendrive decide, sozinha, deixar de caber num único módulo."
 image: /capitulo_74.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria
+Localização: "Heliponto da Torre Aeterna"
 ---
 
 # Capítulo 74: O Sacrifício de Lázaro

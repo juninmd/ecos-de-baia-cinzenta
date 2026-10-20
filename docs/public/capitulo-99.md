@@ -1,6 +1,7 @@
 ---
 image: /capitulo_99.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Inspetor Rangel, Capitão Jonas Vilar, Dra. Nise, Aria
+Localização: "Ruínas do Data Center 4 - Zona Morta"
 ---
 # Capítulo 99: O Despertar da Máquina
 
@@ -122,4 +123,4 @@ Gabo parou na porta, a silhueta recortada contra a chuva que começava a cair l�
 
 — A única pessoa que conhece o subsolo melhor que os ratos. Elena.
 
-A paz tinha acabado. A caçada recomeçava.
+Do lado de fora, a chuva batia no quarteirão como se cobrasse alguma coisa. Gabo abriu o guarda-chuva furado, olhou o próprio reflexo na poça — bengala, sobretudo e dívida — e atravessou a rua sem esperar resposta.

@@ -1,6 +1,7 @@
 ---
 image: /cidade.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Clara Moretti
+Localização: "Boate flutuante O Dourado, Setor 9 (águas da cidade submersa)"
 ---
 # Capítulo 52: Dívida Eterna
 

@@ -4,6 +4,7 @@ title: "Capítulo 97: O Último Suspiro"
 description: "Uma semana depois cai cinza no lugar de esporo, e sobra uma cidade feia, quebrada e — pela primeira vez em sessenta anos — sem dono."
 image: /capitulo_97.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Capitão Jonas Vilar
+Localização: "Baía Cinzenta — uma semana depois"
 ---
 
 # Capítulo 97: O Último Suspiro
@@ -23,6 +24,8 @@ E os prédios curvados, que estavam de pé apoiados nas raízes, começaram a ca
 Quatorze desabaram na primeira noite. Mais nove na segunda.
 
 Ninguém morreu neles, porque não havia mais ninguém morando ali.
+
+A cinza entrava pela boca. Não tinha gosto de nada, e era isso que incomodava: sujava a língua e ia embora sem deixar sabor, como beber o pó de uma coisa que já foi. No terceiro andar de um prédio sem parede, um varal ainda tinha roupa estendida, toda do mesmo cinza, e ninguém ia subir para recolher. O mar continuava batendo alto, do jeito que bate quando ainda existe porto.
 
 ---
 
@@ -54,6 +57,26 @@ Ele levou onze minutos escolhendo qual arrancar.
 
 ---
 
+Um homem subiu a ladeira com uma garrafa de água de cinco litros e parou a três passos de Gabo, sem olhar para a figura de pedra.
+
+— O senhor é o Moretti?
+
+— Sou.
+
+— Tem uma briga no quarteirão de baixo. Dois prédios, um poço, e ninguém quer ceder a vez da bomba.
+
+Ele estendeu a garrafa como quem entrega um documento. A água estava pela metade e um sedimento claro dançava no fundo.
+
+— Se o senhor disser quem começa, a gente acata.
+
+— Eu não mando em ninguém.
+
+— Todo mundo manda em alguma coisa, doutor. — O homem não baixou a garrafa. — O senhor só não escolheu ainda.
+
+Ele deixou a garrafa na mureta e desceu a ladeira. Gabo ficou com ela na mão, sem saber o que fazer com o peso.
+
+---
+
 — A Nise mediu de novo ontem — disse Vilar, sem se levantar e sem olhar. — Tem atividade cerebral. Baixa, mas tem. E é regular.
 
 — Em quantos?
@@ -71,6 +94,8 @@ Gabo tirou o caderno do bolso e conferiu a linha.
 *Valéria Cruz — pendente.*
 
 Continuava pendente. Ele guardou o caderno.
+
+O lápis tinha deixado uma marca funda na página anterior, de tanto ele repassar a mesma palavra. A ponta estava gasta de um lado só. Ele alisou o papel com o polegar, do mesmo jeito que alisava o colar no bolso, e o gesto não serviu para nada.
 
 ---
 

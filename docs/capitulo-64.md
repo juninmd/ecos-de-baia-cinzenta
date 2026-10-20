@@ -4,6 +4,7 @@ title: "Capítulo 64: A Cidade Fantasma"
 description: "Dentro do Núcleo existe uma Baía Cinzenta perfeita, ensolarada e habitada pelos mortos do Dilúvio. E eles não estão de férias: estão trabalhando."
 image: /capitulo_64.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Marco Moretti, Aria, Roberto Miranda
+Localização: "Sala de controle do Núcleo"
 ---
 
 # Capítulo 64: A Cidade Fantasma

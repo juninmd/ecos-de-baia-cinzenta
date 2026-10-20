@@ -44,7 +44,7 @@ Valéria olhou para cima, avaliando a distância.
 No pulso de Valéria, o LED de Aria pulsou frio enquanto os biossensores do deck liam a frequência cardíaca quase inaudível do inspetor encostado na parede.
 — *A passagem de um indivíduo da massa corporal dele, em estado de inconsciência, por aquele duto é logisticamente inviável,* — a IA concluiu friamente. — *Adicionalmente, os sinais vitais do sujeito Rangel indicam falência hepática incipiente. Sua utilidade tática é zero, e sua carga logística é crítica. A probabilidade de sobrevivência do grupo aumenta exponencialmente se ele for descartado aqui.*
 
-O silêncio que se seguiu foi pesado como chumbo. A lógica de Aria era matemática, impecável e absolutamente aterradora em sua eficiência pragmática. Valéria olhou para o pequeno drive de titânio e polímero negro em seu pulso como se o componente fosse radioativo.
+O silêncio que se seguiu foi pesado como chumbo. A lógica de Aria era matemática, impecável e absolutamente aterradora em sua eficiência pragmática. Valéria olhou para o pequeno drive em seu pulso como se o componente fosse radioativo.
 
 Gabo ergueu a cabeça, o olhar faiscando de raiva contida. A tontura recuou por um instante, substituída por um ódio gélido.
 — A gente não... vai descartar ninguém, — ele rosnou para o microfone na gola, a voz rouca e firme, rejeitando a equação da máquina. — A gente carrega os nossos.

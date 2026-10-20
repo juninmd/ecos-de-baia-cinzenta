@@ -33,7 +33,7 @@ Gabo se lançou entre a segunda Escultura e a maca de Rangel. Ele não tentou bl
 
 Houve um som de metal e polímero rasgando. Gabo torceu a barra de ferro com as duas mãos, rebentando um feixe de cabos hidráulicos. A Escultura vacilou, uma perna falhando, mas girou o torso em 180 graus — algo anatomicamente impossível — e atingiu o peito de Gabo com o cotovelo de cerâmica.
 
-Gabo foi arremessado por três metros, colidindo de costas contra uma vitrine de vidro blindado. O impacto arrancou o ar de seus pulmões e amassou a borda da carcaça do comunicador tático em seu peito, riscando o titânio fosco do pendrive de Aria. O LED azul-gelo piscou uma vez e manteve o brilho frio.
+Gabo foi arremessado por três metros, colidindo de costas contra uma vitrine de vidro blindado. O impacto arrancou o ar de seus pulmões e amassou a borda da carcaça do comunicador tático em seu peito, riscando a carcaça do pendrive de Aria. O LED azul-gelo piscou uma vez e manteve o brilho frio.
 
 — *Integridade do barramento externo: 88%* — Aria anunciou pelo alto-falante rachado, a voz desprovida de qualquer alarme. — *Padrão de ataque inimigo analisado. Coordenação via rede local de baixa latência. Eles não operam como unidades autônomas. São membros de um único processamento.*
 

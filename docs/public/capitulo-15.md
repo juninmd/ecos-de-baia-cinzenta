@@ -1,6 +1,7 @@
 ---
 image: /capitulo_15.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, O Gamemaster
+Localização: "Ruas do Distrito 4 → Loja de departamentos em ruínas"
 ---
 # Capítulo 15: Protocolo de Extermínio
 

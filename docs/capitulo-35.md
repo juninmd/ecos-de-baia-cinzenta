@@ -4,6 +4,7 @@ title: "Capítulo 35: Calibre 12"
 description: "A emboscada na Avenida da Indústria custa um pneu, um joelho e a primeira vez em que Gabo atira em alguém que já tinha largado a arma."
 image: /capitulo_35.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Valéria "Val" Cruz
+Localização: "Avenida da Indústria"
 ---
 
 # Capítulo 35: Calibre 12

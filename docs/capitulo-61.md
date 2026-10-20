@@ -4,6 +4,7 @@ title: "Capítulo 61: Tinta no Papel"
 description: "A trilha do dinheiro termina num contrato que nenhum humano assinou, e numa lista de compradores que já morreram."
 image: /capitulo_61.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria
+Localização: "Esconderijo móvel da Val — Distrito Industrial"
 ---
 
 # Capítulo 61: Tinta no Papel

@@ -14,6 +14,8 @@ O *wetware* — o tecido cerebral que outrora orquestrara a farsa da Aeterna —
 
 As feridas do meu braço quebrado sangravam. A pele cauterizada e as ataduras rompidas pelo esforço haviam cedido quando golpeei a mesa, esmagando o vidro temperado e as válvulas de suporte de vida. O sangue escorria pelo meu antebraço fraturado, misturando-se àquele fluido viscoso da corporação.
 
+O ar daquele arquivo tinha gosto de moeda velha. Não era figura de linguagem: o cobre das canaletas, aquecido pela bateria de emergência que ainda sustentava as luzes vermelhas, soltava um sabor metálico que grudava na raiz da língua. A gaiola de Faraday transformava cada ruído em coisa próxima e indecente — o estalo do filamento, o escorrer do fluido pela mesa, o meu próprio pulso batendo na garganta do braço quebrado. Nenhum som entrava. Nenhum som saía. A Aeterna construíra aquela sala para que nada de dentro pudesse ser ouvido, e agora ela nos devolvia o silêncio com juros, um cofre hermético em volta de dois vivos e uma máquina morta.
+
 Eu encarava a massa cinzenta inerte. Não havia brilho de dados, nem a pulsação suave da respiração sintética. Apenas o cheiro gélido de formol, ozônio... e fumaça.
 
 A fumaça.
@@ -25,6 +27,8 @@ Senti meus pulmões travarem. O pânico de asfixia borbulhou no peito. A ilusão
 Fechei os olhos e, com a precisão mecânica do hábito, ergui o braço direito quebrado e forcei a fratura com força brutal contra a quina de aço da mesa.
 
 Um estalo oco. A dor irradiou em uma frequência aguda, subindo pelo úmero, explodindo no meu cérebro como um raio em um céu sem nuvens. O gosto de ferrugem inundou minha boca. A dor rasgou o véu da fumaça, dispersando-a instantaneamente. Arrastei o ar para os pulmões em um chiado áspero. A equação da dor. Ela sempre fechava.
+
+Fiquei um tempo olhando o úmero torto sob a pele, o desenho novo que a fratura tinha feito. Já não era um osso; era uma coisa rachada que eu carregava. O sangue escorria pela lateral do pulso e pingava no chão num compasso lento, e eu contei sete gotas antes de perceber que estava contando.
 
 — Gabo... — A voz de Valéria soou oca, vindo de algum lugar atrás de mim.
 
@@ -38,12 +42,40 @@ Ela olhava para o suporte vital destruído. Depois, para mim.
 
 Valéria não discutiu. Ela havia visto Rangel virar peso morto em uma passarela oxidada. Ela havia visto o componente tipo pendrive de Aria — com os ecos de Bia que o habitavam — derreter e fritar o próprio núcleo lógico na porta do terminal para calar um gigante de metal. Ela sabia que não havia tesouro no fim daquele labirinto corporativo, apenas mais ferramentas de escravidão.
 
+— O drive — eu disse.
+
+Ela entendeu antes de eu terminar a frase. Caminhou até a porta do terminal, onde a carcaça de Aria continuava espetada no slot, soldada pelo próprio calor, o polímero escorrido como cera sobre o aço. A luz de emergência arrancava um brilho morto daquele caroço preto. Valéria esticou a mão. Não tocou.
+
+— Se eu cortar em volta com o maçarico, eu consigo tirar — falou, e a voz não era de quem acredita no que diz. — Leva uns vinte minutos. Talvez menos.
+
+— E aí você carrega quarenta e cinco gramas de silício frito pela cidade até o fim da vida.
+
+— É. — A mão dela caiu ao lado do corpo. — Quarenta e cinco gramas.
+
+Não arrancamos nada. Deixei Aria onde ela tinha decidido ficar, presa ao ferro como um carimbo, e soube que aquela imagem ia voltar em todas as noites ruins que ainda me restavam.
+
 — E agora? — ela perguntou, desencostando-se do pilar. Sua postura carregava uma fadiga que ia além dos músculos. Era a fadiga que fica embaixo da alma. — O servidor mestre está mudo. Não há dados, não há IA. O que nós fazemos?
 
 Olhei ao redor. O Arquivo Executivo estendia-se na penumbra, fileiras infinitas de conhecimento morto, envolto na gaiola de Faraday. Estávamos no coração blindado do mundo, e ele estava parado.
 
+Abri uma gaveta. Papel. Centenas de folhas, fichas perfuradas, cópias carbono — a Aeterna digitalizara tudo e guardara o original em papel, porque papel não tem porta de rede. O cheiro de pasta de arquivo subiu e por um segundo foi como ter um burocrata respirando atrás de mim, bufando sobre um índice que só ele sabia ler.
+
+Na mesa do supervisor havia um copo térmico esquecido. O café dentro estava frio, com uma película na superfície. Bebi mesmo assim, três golpes, e o gosto velho de açúcar e poeira foi a coisa mais parecida com casa que encontrei em dias.
+
 Caminhei até ela, meus passos soando altos demais. Parei a poucos centímetros.
 
 — Nós subimos — eu disse, ignorando o sangue quente escorrendo pelas laterais do meu tronco, onde Valéria havia selado minhas costelas com espuma coagulante. — Achamos a porta da frente. E saímos.
+
+Valéria bateu a palma contra o batente de aço da escada de serviço.
+
+— O lockdown travou tudo. A trava é eletromagnética, mas sem energia a mola tá cega. Se a gente levantar a via por baixo, ela abre.
+
+Achei um pé de cabra no suporte de manutenção, dos que a corporação usava para arrancar painel sem pedir licença. Pesei o gancho na mão esquerda. Mesmo assim doeu no ombro, o corpo antecipando o esforço antes de eu autorizar.
+
+Encaixei a ponta na fresta e puxei. O aço gemeu, a trava cedeu com estalo de dente quebrando, e o pé de cabra voltou torto, o gancho aberto uns cinco graus que ele nunca mais ia fechar. Guardei de qualquer jeito, atravessado no cinto.
+
+— Vai carregar essa porcaria o resto do caminho? — ela perguntou.
+
+— Toda porta nessa cidade agora tá trancada por dentro. — Subi o primeiro degrau, e o joelho respondeu com uma fisgada branca. — Anda.
 
 Deixamos o Setor Alfa-Sete para trás, sem olhar uma segunda vez para a mesa de fibra de carbono. A máquina de carne de Dante estava finalmente desligada. O expediente havia terminado. Agora, só restava a conta a pagar na superfície.

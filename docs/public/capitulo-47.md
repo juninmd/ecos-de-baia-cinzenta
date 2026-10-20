@@ -4,6 +4,7 @@ title: "Capítulo 47: O Mecanismo da Queda"
 description: "Gabo encurrala o Taxidermista na Torre do Relógio inundada e paga o preço com a coluna."
 image: /capitulo_47.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, O Taxidermista
+Localização: "Torre do Relógio, Distrito Baixo (Inundado)"
 ---
 
 # Capítulo 47: O Mecanismo da Queda

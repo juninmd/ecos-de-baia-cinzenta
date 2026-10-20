@@ -11,6 +11,8 @@ O corredor cilíndrico de serviço descia em espiral íngreme em direção às f
 
 Minhas órteses nas pernas rangiam a cada degrau, as buchas gastas protestando contra a inclinação. O peso assimétrico da prótese industrial forçava minha coluna a trabalhar torta, uma fisgada contínua que subia da lombar até a base do crânio.
 
+Contava os anéis de concreto como quem conta moeda. Cada volta completa era uma linha de solda na parede, e depois de sete eu parei de contar porque o número não servia para nada além de me lembrar que a saída ficava para cima. No piso havia uma lâmina de água com película alaranjada de óxido, e o cheiro de fluido de freio era tão forte que grudava no fundo da garganta como um comprimido.
+
 Valéria descia rente ao corrimão de ferro, o facho da lanterna de sua arma apontado para os cabos de alta tensão que desciam pelas canaletas da parede. Os filamentos de LED azul na franja dela pulsavam num ritmo constante, banhando seu rosto pálido com um brilho elétrico.
 
 — As raízes do Jardim tão usando esse poço como condutor primário — ela apontou o feixe de luz para a base da curva. — Olha como as gavinhas se enroscam nos cabos mestres. A praga tá descendo pro mesmo lugar que a gente: os níveis subterrâneos onde ficavam os bancos de memória profunda da corporação.
@@ -39,9 +41,13 @@ O ferro gemeu. As raízes secas que lacravam o batente arrebentaram com estalos 
 
 A dor na minha clavícula foi aguda, uma chicotada que fez minha visão escurecer por meio segundo, mas a comporta abriu-se um metro e meio, travando no fim do curso com um baque surdo de metal contra rocha.
 
+A raiz que eu tinha arrebentado ainda se mexia no batente, enrolando-se devagar sobre si mesma como minhoca cortada. Não morreu. Atrás de nós, na escada, outras gavinhas já estavam descendo. A gente não tinha aberto uma porta; tinha ganhado alguns minutos.
+
 Aproximei-me da abertura, respirando fundo para recuperar o fôlego.
 
 Lá dentro não havia cabine de elevador. Havia apenas o vazio vertical de um fosso colossal de quarenta e cinco metros de profundidade, cortado por cabos de tração de aço trançado que desciam em linha reta até sumirem na escuridão impenetrável do fundo.
+
+Peguei um dos parafusos que já tinham se soltado da armação e o deixei cair. Contei. Um, dois, três, quatro — e o som voltou, seco e curto, como se o poço tivesse engolido o resto. Quarenta e cinco metros, dizia a planta. O parafuso não ia descer com uma trena para conferir.
 
 Valéria debruçou-se sobre o abismo com a lanterna, os olhos ópticos estalando ao calcular a distância.
 

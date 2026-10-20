@@ -4,6 +4,7 @@ title: "Capítulo 49: A Vigília"
 description: "Val monta guarda sobre o corpo quebrado de Gabo e descobre, aos vinte e três anos, a diferença entre apagar um alvo e matar um homem."
 image: /capitulo_49.jpg
 Personagens Presentes: Valéria "Val" Cruz, Gabriel "Gabo" Moretti, Dra. Nise
+Localização: "Bunker médico, subsolo da Delegacia Central. Dia nove"
 ---
 
 # Capítulo 49: A Vigília

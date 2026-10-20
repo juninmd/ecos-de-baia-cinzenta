@@ -9,7 +9,7 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 O frio da câmara de resfriamento cobrava um tributo metódico e implacável a cada respiração. Frio subterrâneo não é apenas desconforto térmico; é um imposto biológico. Ele rouba a sensibilidade das pontas dos dedos, reduz a flexibilidade dos tendões e transforma a cartilagem dos joelhos em vidro quebradiço. Minha perna esquerda tremia em espasmos involuntários, com a órtese emperrada arranhando o piso a cada passo claudicante.
 
-A dor no ombro direito, onde Vasco parafusara a armação de sucata no Capítulo 175 para conter a fratura, tinha mudado de natureza: ardia em um pulsar surdo e profundo, como se agulhas de gelo estivessem sendo cravadas na minha clavícula. As cicatrizes do Dilúvio queimavam sob a sarja encharcada. Mas a dor física mantinha o foco afiado; afastava o torpor do cansaço crônico e mantinha meus olhos pregados na passarela oxidada.
+A dor no ombro direito, onde Vasco parafusara a armação de sucata para conter a fratura, tinha mudado de natureza: ardia em um pulsar surdo e profundo, como se agulhas de gelo estivessem sendo cravadas na minha clavícula. As cicatrizes do Dilúvio queimavam sob a sarja encharcada. Mas a dor física mantinha o foco afiado; afastava o torpor do cansaço crônico e mantinha meus olhos pregados na passarela oxidada.
 
 — Se a gente ficar parado mais dez minutos nessa névoa polar, Moretti, — disse Valéria, parando na bifurcação da grade com as mãos enfiadas nos bolsos da jaqueta de couro, — suas articulações vão soldar por congelamento e eu vou ter que arrastar você de trenó até o Hub.
 

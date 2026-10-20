@@ -4,6 +4,7 @@ title: "Capítulo 88: Sintomas de Abstinência"
 description: "O único quarto de Baía Cinzenta onde o Jardim não escuta é também o único lugar de onde a cabeça de Gabo não tem como fugir."
 image: /capitulo_88.jpg
 Personagens Presentes: Dra. Nise, Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria
+Localização: "Bunker de isolamento, subsolo do Hospital Central — noite"
 ---
 
 # Capítulo 88: Sintomas de Abstinência

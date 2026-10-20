@@ -15,7 +15,17 @@ Valéria tropeçou ao cruzar o batente. O som de seus joelhos de liga batendo no
 
 Do fundo do corredor mal iluminado por lâmpadas halógenas piscantes, uma figura rotunda emergiu. Vasco vestia um avental de couro manchado com fluidos inidentificáveis e usava um visor óptico duplo no olho direito que o fazia parecer um ciclope hiperativo.
 
+Os braços mecânicos dele brilhavam de graxa até o cotovelo. Atrás dele, as prateleiras de frascos rotulados em kanji e cirílico pareciam um alfabeto de coisas que podiam matar ou salvar, dependendo da dose. O gerador sob o piso batia como um coração fora de ritmo, e a cada batida as lâmpadas halógenas tremiam.
+
 — Porra, Gabo — Vasco grunhiu, ajeitando o visor enquanto limpava as mãos em um pano já imundo de graxa. — Vocês parecem ter sido atropelados pelo Maglev expresso. De novo.
+
+Ele não esperou resposta. Foi até a porta de chumbo, empurrou o ferrolho e encostou o ouvido na chapa antes de girar a trava de segurança.
+
+— Tem gente na rua perguntando o que explodiu — disse, sem se virar. — Pirata de rádio falando em ataque. O Sindicato mandando gente pra cima do Distrito. — Voltou-se, e a lente biônica zumbeou ao me focar. — Se você me disse que ia sumir por três dias e voltou trazendo a cidade apagada nas costas, então me deve mais do que uma consulta, detetive.
+
+— Eu sei quanto eu devo.
+
+— Você não faz ideia.
 
 — Precisamos de estabilização — eu disse. Minha voz saiu mais rouca e frágil do que eu pretendia. Minha visão estava escurecendo nas bordas. — Valéria está com os sistemas em falha crítica. E eu...
 
@@ -46,6 +56,12 @@ Vasco parou por um segundo, olhando para o meu rosto pálido. Ele não perguntou
 — Não temos créditos — falei, minha voz finalmente ganhando alguma firmeza à medida que a adrenalina baixava e o estabilizador químico agia.
 
 — Eu sei. — Vasco suspirou, virando-se para o monitor que exibia os sinais vitais erráticos de Valéria. — Considerem isso uma dívida. Mas vocês não podem ficar aqui por muito tempo. A Aeterna pode estar no escuro, mas os abutres já estão circulando. Se o Sindicato descobrir que o responsável pelo blecaute está aqui, meu humilde estabelecimento vai virar pó.
+
+— E tem mais uma coisa — ele continuou, limpando a lente com a ponta do avental. — Eu preciso saber o que aconteceu lá embaixo. Não por curiosidade. Porque daqui a duas semanas alguém vai bater nessa porta oferecendo dinheiro pela versão de vocês, e eu vou precisar saber se a mentira que eu contar é grande o bastante.
+
+— Ninguém está no controle — repeti.
+
+— Isso não é resposta, é diagnóstico. — Ele assobiou, longo e sem humor. — Tá certo. Vai custar.
 
 Olhei para Valéria na maca ao lado. O rosto estava relaxado, pálido demais sob a luz da clínica, numa paz que eu sabia não ser real. O zumbido dos cabos de alimentação preenchia a sala.
 

@@ -17,6 +17,8 @@ Mas o que realmente pesava não era apenas o corpo de Rangel. Era o silêncio.
 
 Baía Cinzenta sempre teve um som. Um zumbido de fundo, uma vibração constante de servidores, trens magnéticos, drones e hologramas gritando ofertas de felicidade sintética. Agora, não havia nada. Apenas o *tap-tap-tap* da chuva no asfalto rachado e a respiração rouca de Rangel entre eles.
 
+A avenida parecia a sala de espera de um hospital: fileiras de janelas apagadas, um banco de praça, uma banca de jornal aberta com as capas encharcadas. Numa das janelas do terceiro andar, alguém tinha acendido uma vela. A chama tremia atrás do vidro como um olho que não consegue decidir se ainda está acordado. Era a única luz num quarteirão inteiro — e por algum motivo aquilo pareceu a Gabo mais obsceno que o escuro.
+
 — Parem... — Rangel grunhiu, as pernas falhando de vez. Ele escorregou para a lama, a mão pressionando o buraco no ombro. O sangue escuro se misturava com a água da sarjeta.
 
 Gabo e Valéria pararam, amparando Rangel com cuidado contra um poste apagado.
@@ -24,6 +26,12 @@ Gabo e Valéria pararam, amparando Rangel com cuidado contra um poste apagado.
 — Rangel — Gabo se ajoelhou ao lado dele. A pele do inspetor estava cinza, fria ao toque. — Aguenta firme. O Fliperama não é longe.
 
 — É longe... o suficiente — Rangel riu, e o som foi um gorgolejo. — Sem med-evac. Sem sinal. Estamos no século vinte de novo, Moretti.
+
+O palito continuava no canto da boca dele, torto, e era a coisa mais absurda que Gabo tinha visto naquela noite. Valéria se ajoelhou do outro lado e puxou o Kevlar para cima com dois dedos, sem comentar o cheiro. A bandagem improvisada já estava escura de borda e o sangue tinha um brilho espesso, de coisa que não devia estar fora do corpo.
+
+— Você vai ficar de pé — ela disse. Não era promessa; era instrução. — A gente não vai te carregar como saco de batata até o Fliperama.
+
+— Você carrega — Rangel respondeu, os olhos ainda fechados. — Você tem braço de quem nunca levantou nada, mas tem teimosia de Moretti. Já vi essa combinação dar errado.
 
 Gabo olhou ao redor. A escuridão era absoluta, quebrada apenas pelos relâmpagos ocasionais que iluminavam as carcaças das fábricas abandonadas como esqueletos de gigantes.
 
@@ -44,6 +52,8 @@ Ele abriu os olhos. Focou.
 Lá dentro, entre fileiras de veículos de limpeza autônomos e drones de carga inoperantes, havia algo diferente. Um caminhão de reboque, antigo, com manchas de ferrugem e pneus borrachudos. Um modelo "Toupeira" de tração, anterior à Lei de Ar Limpo de 2045.
 
 — Combustão interna — Gabo murmurou, pulando a grade.
+
+O pátio tinha aquele silêncio de coisas guardadas: brita solta sob a bota, um portão batendo em algum lugar, o cheiro de graxa velha subindo do chão com a chuva. Ele atravessou entre os veículos elétricos com o passo curto que a órtese impunha e sentiu, na nuca, o peso de cada janela do bairro. Um motor ligado ali seria ouvido a três quarteirões. Não havia mais vigilância, mas também não havia mais nada para impedir que a curiosidade de um vizinho virasse saque.
 
 — Isso é sucata — Rangel protestou, tentando se levantar com a ajuda de Valéria.
 

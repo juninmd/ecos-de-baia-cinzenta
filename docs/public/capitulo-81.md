@@ -4,6 +4,7 @@ title: "Capítulo 81: Sangue e Óleo"
 description: "Trinta segundos para tirar uma mulher de sessenta e cinco anos de dentro de um forno. E, na saída, a descoberta de que o fogo matou o mensageiro tarde demais."
 image: /capitulo_81.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Capitão Jonas Vilar, Dra. Nise
+Localização: "Corredor de acesso, subsolo da Torre Aeterna — 18h05"
 ---
 
 # Capítulo 81: Sangue e Óleo

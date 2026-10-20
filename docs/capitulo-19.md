@@ -1,6 +1,7 @@
 ---
 image: /capitulo_19.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, O Gamemaster, Dante Moretti
+Localização: "Terminal Esperança, estação de metrô abandonada, Zona Morta do Setor 7"
 ---
 # Capítulo 19: O Código Morto
 

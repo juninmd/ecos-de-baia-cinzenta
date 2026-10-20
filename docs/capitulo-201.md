@@ -17,7 +17,7 @@ Eu subia logo abaixo dele. Não por cavalheirismo de manual policial, mas por c�
 
 — Deixa que farejem, Elias, — cortou Valéria, a voz ácida com aquele timbre cortante de sarcasmo da Zona Baixa que me lembrava os becos da Doca Três. — Se alguma aberração com mandíbula de soldador tentar subir na minha bota, eu enfio uma descarga de quatrocentos volts no processador dela. Menos choro e mais músculo nesse quadril, garoto. Você é engenheiro, não um pacote de correio.
 
-O peso da minha armação industrial de sucata — o monstro de aço forjado que Vasco parafusara no meu osso no Capítulo 175 para travar a fratura — puxava meu ombro direito para baixo como uma âncora de navio. A cada elevação de braço, os servos sem blindagem rangiam com um estalo seco, cuspindo fagulhas microscópicas na penumbra. Minha perna esquerda ardia onde a órtese improvisada mordia a carne machucada, uma lembrança persistente das docas e do colapso da Torre Aeterna.
+O peso da minha armação industrial de sucata — o monstro de aço forjado que Vasco parafusara no meu osso para travar a fratura — puxava meu ombro direito para baixo como uma âncora de navio. A cada elevação de braço, os servos sem blindagem rangiam com um estalo seco, cuspindo fagulhas microscópicas na penumbra. Minha perna esquerda ardia onde a órtese improvisada mordia a carne machucada, uma lembrança persistente das docas e do colapso da Torre Aeterna.
 
 O ar vertical que subia do fundo era gélido, fétido, carregado de esporos que pinicavam a traqueia. A sensação sufocante de confinamento ameaçava apertar minha garganta, mas não havia espaço para fraqueza mental. Havia apenas a gravidade, a ferrugem e a distância até a próxima escotilha.
 

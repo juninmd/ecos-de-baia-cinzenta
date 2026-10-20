@@ -1,10 +1,13 @@
 ---
 image: /capitulo_30.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Kael "O Cirurgião", Elena Moretti, Valéria "Val" Cruz
+Localização: "Torre Aeterna, Nível 70 (corredor dos servidores)"
 ---
 # Capítulo 30: O Preço da Liberdade
 
 O corredor do Nível 70 da Torre Aeterna se transformou em um matadouro de metal e luz estroboscópica. Gabo e Elena usavam os racks de servidores tombados como barricadas. O ar sibilava com o fogo cruzado, cheio de cheiro de ozônio e plástico derretido. Os guardas de elite da Aeterna, equipados com armaduras de cerâmica branca, avançavam implacavelmente, uma maré asséptica de morte.
+
+O piso estava coberto de cápsulas de cerâmica estouradas e de um pó branco que grudava na boca e tinha gosto de giz. Cada rajada que acertava os racks deixava um resto de metal na língua. O alarme de incêndio tinha desistido de tocar e só piscava.
 
 — O upload está em 50%! — gritou Valéria por cima do barulho ensurdecedor, os dedos dançando sobre o teclado holográfico. — A rede da cidade está começando a se desfazer! Os firewalls estão caindo como dominós!
 
@@ -15,6 +18,8 @@ Kael, "O Cirurgião".
 Ele não usava armadura volumosa. Seu corpo modificado era uma obra-prima do aprimoramento ilegal, esguio e letal. No lugar de seu braço direito, uma lâmina de osso de cerâmica, longa e serrilhada, vibrava com um zumbido baixo que fazia os dentes de Gabo doerem.
 
 — Moretti — a voz de Kael, filtrada por um sintetizador vocal no pescoço, era fria como o metal. — A Dra. Vance me enviou pessoalmente. Ela quer sua dor, não sua morte. Ainda.
+
+— Eu li o seu arquivo inteiro — disse ele, e o sintetizador tentava fazer ironia e não conseguia. — Trinta e sete páginas. Sabe o que mais me interessou? Você não é forte. Você é teimoso. Forte eu abro em vinte minutos. Teimoso eu tenho que abrir devagar.
 
 Gabo se levantou da cobertura e disparou. As balas da Glock ricochetearam no peito de Kael como chuva em um telhado de zinco. Ele nem sequer vacilou.
 
@@ -48,6 +53,8 @@ Kael riu, um som áspero e sintético. Ele levantou a lâmina para o golpe final
 
 As telas ao redor deles explodiram em luz branca pura. Os rostos dos fantasmas digitais, as vítimas do Gamemaster, olharam para Kael por um instante, um julgamento silencioso de mil almas. E então desapareceram, substituídos por uma única palavra que brilhava em cada superfície: **LIVRES**.
 
+No rosto de Valéria, o olho esquerdo estourou em branco e depois apagou para um cinza fosco. Ela não levou a mão até ele. Continuou de pé, com o deck fumegando no pulso, como se o que tivesse queimado fosse de outra pessoa.
+
 A própria torre pareceu gritar. A infraestrutura de resfriamento que a sustentava foi desligada abruptamente. Luzes de emergência explodiram. Cabos de energia de alta tensão se soltaram do teto, estalando como chicotes elétricos, procurando terra.
 
 O chão tremeu violentamente.
@@ -70,6 +77,12 @@ Valéria correu até a parceira caída. Elena gemeu e começou a se mexer. Estav
 
 Val voltou para Gabo, rasgando a manga da camisa para fazer um torniquete na perna esmagada.
 
+— Não aperta assim — disse ele entre os dentes. — Você vai parar o sangue e a perna morre.
+
+— A perna já morreu.
+
+— Então aperta.
+
 — Temos que sair daqui! A estrutura está instável! A torre vai cair!
 
 Gabo olhou para o teto, onde pedaços de concreto começavam a se soltar. Ele não sentia mais a perna, apenas um frio entorpecente. Ele sabia que nunca mais andaria do mesmo jeito. O custo fora alto.
@@ -77,6 +90,8 @@ Gabo olhou para o teto, onde pedaços de concreto começavam a se soltar. Ele n�
 Mas, ao longe, através da parede de vidro quebrada, ele podia ouvir algo que não ouvia há anos.
 
 Gritos de alegria vindo da rua. Buzinas. O som de uma cidade acordando.
+
+O vento que entrava pela parede de vidro estava morno — o primeiro ar quente da noite — e cheirava a asfalto molhado e a comida de rua. Alguém, lá embaixo, tinha acendido um fogareiro.
 
 — Eles estão livres, Val — sussurrou ele, um sorriso manchado de sangue nos lábios. — Valeu a pena.
 

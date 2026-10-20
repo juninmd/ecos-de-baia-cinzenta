@@ -1,6 +1,7 @@
 ---
 image: /capitulo_96.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Silas Vance ("O Jardineiro"), Aria, Valéria "Val" Cruz, Dante Moretti, Capitão Jonas Vilar
+Localização: "Bunker do Projeto Gênesis — Salão Principal (interface da Árvore-Mãe)"
 ---
 # Capítulo 96: A Grande Convergência
 

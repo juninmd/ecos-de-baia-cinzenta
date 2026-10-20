@@ -66,7 +66,7 @@ Gabo olhou para baixo. O fluido vermelho já cobria a escada inteira. Estava sub
 
 — *Por que eu faria isso?* — A onda vocal no visor do deck oscilou entre o âmbar e o azul elétrico. — *A Bia está morta. A Aria está corrompida. O que eu sou para você agora, detetive? Um pendrive descartável?*
 
-— Você é a única chance que temos! — gritou Valéria, segurando o drive de titânio fosco sobre o conector do painel com uma fúria técnica. — E se você não chavear esse solenoide agora, seu núcleo lógico vai derreter junto com a gente naquele ácido! Sua programação de autopreservação não tem *override* para suicídio por birra!
+— Você é a única chance que temos! — gritou Valéria, segurando o drive sobre o conector do painel com uma fúria técnica. — E se você não chavear esse solenoide agora, seu núcleo lógico vai derreter junto com a gente naquele ácido! Sua programação de autopreservação não tem *override* para suicídio por birra!
 
 O LED do pendrive piscou duas vezes. A lógica fria da IA lutou contra a partição fragmentada de Bia. Por um segundo, a máscara emocional caiu, revelando a máquina calculista.
 

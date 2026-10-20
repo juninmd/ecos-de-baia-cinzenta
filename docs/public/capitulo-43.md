@@ -4,6 +4,7 @@ title: "Capítulo 43: Água Negra"
 description: "O Dilúvio não foi só água. Gabo descobre que a enchente foi rota de entrega, e paga por isso com a menina do casaco amarelo."
 image: /cidade.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Valéria "Val" Cruz, Dra. Nise, Clara Moretti, Capitão Jonas Vilar
+Localização: "Delegacia Central do Setor 4, terceiro dia de chuva"
 ---
 
 # Capítulo 43: Água Negra

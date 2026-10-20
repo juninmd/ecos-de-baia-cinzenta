@@ -4,6 +4,7 @@ title: "Capítulo 87: O Novo Sacerdócio"
 description: "Vilar negocia água com um sacerdote que tem o mesmo nome que ele. O preço não é dinheiro nem território: é um homem."
 image: /capitulo_87.jpg
 Personagens Presentes: Capitão Jonas Vilar
+Localização: "Catedral de Ferro — que antes era esgoto e agora é morro. Tarde"
 ---
 
 # Capítulo 87: O Novo Sacerdócio

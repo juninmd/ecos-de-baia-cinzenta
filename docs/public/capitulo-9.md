@@ -1,6 +1,7 @@
 ---
 image: /capitulo_9.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Kiko Vibe, Aria Moretti
+Localização: "Torre Solaris → Apartamento de Kiko Vibe (cobertura)"
 ---
 # Capítulo 9: Feed Infinito
 

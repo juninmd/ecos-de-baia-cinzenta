@@ -4,6 +4,7 @@ title: "Capítulo 86: Simbiose"
 description: "Três meses depois, Baía Cinzenta virou O Jardim. Gabo caça fruto de energia com um cachorro que já foi drone — e recebe um convite para jantar com o Pai."
 image: /capitulo_86.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti
+Localização: "Três meses depois — Zona de Exclusão Norte"
 ---
 
 # Capítulo 86: Simbiose

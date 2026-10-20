@@ -4,6 +4,7 @@ title: "Capítulo 90: O Arquivista"
 description: "Numa biblioteca submersa, um velho de luva cirúrgica vende a Gabo a fraqueza do Jardim — e cobra num preço que só se percebe depois."
 image: /capitulo_90.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Silas Vance ("O Jardineiro"), Dante Moretti
+Localização: "Biblioteca Municipal (submersa) — Nível -3"
 ---
 
 # Capítulo 90: O Arquivista

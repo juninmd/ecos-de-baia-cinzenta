@@ -1,6 +1,7 @@
 ---
 image: /capitulo_67.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria, Roberto Miranda
+Localização: "Avenida Central — Distrito da Névoa"
 ---
 # Capítulo 67: Cidade Viva
 

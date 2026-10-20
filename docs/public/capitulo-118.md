@@ -1,6 +1,7 @@
 ---
 image: /cenas/cidade.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Aria, Dante Moretti, Valéria "Val" Cruz, O Taxidermista
+Localização: "Usina Geotérmica Prometeu — Núcleo de Resfriamento (tanque de Dante)"
 ---
 # Capítulo 118: O Colapso da Onda
 
@@ -44,7 +45,7 @@ Dante, dentro do tanque, arregalou os olhos cegos. Ele abriu a boca num grito mu
 
 — Ela está... ela está absorvendo o feedback! — Valéria ergueu a cabeça, assistindo aos gráficos no monitor com horror e fascínio. — Ela não está desligando a rede a seco. Ela está usando os próprios blocos de memória do pendrive como um fusível de sacrifício! Está desviando a sobrecarga de todos os Drenados para dentro do drive!
 
-O pequeno cilindro de titânio fosco espetado no console começou a vibrar violentamente. Fumaça escura e espessa escapou pelas frestas do polímero negro. O cheiro de silício queimado e ozônio invadiu o ar, sobrepujando o cheiro estéril do nitrogênio.
+O pequeno cilindro espetado no console começou a vibrar violentamente. Fumaça escura e espessa escapou pelas frestas do polímero negro. O cheiro de silício queimado e ozônio invadiu o ar, sobrepujando o cheiro estéril do nitrogênio.
 
 — *PARE!* — a voz de Dante nos alto-falantes agora era medo puro. — *VOCÊ VAI CORROMPER A MATRIZ!*
 

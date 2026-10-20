@@ -1,6 +1,7 @@
 ---
 image: /capitulo_40.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti
+Localização: "Cemitério dos Esquecidos, Setor 7 (túmulo de Dante Moretti)"
 ---
 # Capítulo 40: O Céu Quebrou
 
@@ -10,7 +11,7 @@ Gabo estava diante do túmulo de Dante Moretti. O verdadeiro túmulo, onde jazia
 
 A cerimônia havia sido patética. Só ele, Elena e Val. Três pessoas para enterrar o homem que um dia comandara mil policiais. O capelão robótico que costumava presidir os funerais estava desligado, então Gabo improvisou algo sobre poeira e descanso. As palavras soaram ocas, vazias como o caixão antes de receberem o corpo.
 
-— Você conseguiu, pai — disse Gabo para a terra revirada,  os dedos tamborilando nervosamente na coxa. — A chuva parou.
+— Você conseguiu, pai — disse Gabo para a terra revirada, os dedos tamborilando nervosamente na coxa. — A chuva parou.
 
 Era mentira. E ele sabia.
 

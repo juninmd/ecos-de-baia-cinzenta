@@ -1,6 +1,7 @@
 ---
 image: /capitulo_75.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Aria, Dante Moretti, Beatriz "Bia" Vargas, Enzo e Sofia Rossi
+Localização: "Há 8 anos - Jardim Botânico de Baía Cinzenta"
 ---
 # Capítulo 75.5: Memórias de Chuva (Flashback)
 
@@ -13,6 +14,8 @@ Gabriel Moretti, aos 22 anos, estava parado no palco improvisado, vestindo um te
 — Respire, garoto — murmurou Dante, sua voz rouca de anos fumando charutos cubanos contrabandeados. — Não é um pelotão de fuzilamento.
 
 Gabo tentou sorrir, mas o nervosismo o traía. Ele olhou para a congregação pequena: alguns colegas da delegacia, o casal Rossi com sua pizzaria recém-inaugurada, e Elena Moretti, que viera como amiga e testemunha de Bia. Ninguém da família de Bia. Eles haviam se oposto à união desde o início.
+
+Três fileiras de cadeiras dobráveis ficaram vazias à esquerda, reservadas aos Vargas e nunca ocupadas. O zelador do Jardim empilhara as sobras contra a parede, e o plástico branco refletia a luz holográfica como dentes. Bia não olhou para lá. Passou a cerimônia inteira com o queixo na direção de Dante, e só uma vez, quando o quarteto virtual errou uma nota, o olhar dela escorregou para as cadeiras e voltou rápido demais. O cheiro de terra úmida e adubo químico subia dos canteiros, e por baixo dele havia o doce velho do charuto que Dante apagara no sapato antes de entrar.
 
 — Ela vale a pena? — perguntou Dante, baixo o suficiente para que apenas Gabo ouvisse.
 
@@ -45,6 +48,8 @@ Ela hesitou por um segundo. Não de dúvida, mas de realização. Este era o mom
 — Aceito.
 
 Os anéis de compromisso eram simples: bandas de titânio reciclado, gravadas com suas iniciais. Quando Gabo colocou o dela, sentiu a mão dela tremer ligeiramente.
+
+O metal esquentou rápido no dedo dela, e por baixo dele Gabo sentiu o pulso de Bia batendo mais depressa do que o sorriso admitia. Ela apertou a mão dele antes de soltar — três pressões curtas, o código que os dois usavam quando alguém precisava sair de uma sala sem dizer por quê. Não era medo dele. Era do que vinha depois: a cidade, o plantão, a família que não estava ali. Gabo devolveu as três pressões e guardou o resto para si.
 
 — Eu te amo — disse ela, tão baixo que apenas ele ouviu.
 

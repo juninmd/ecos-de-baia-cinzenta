@@ -4,6 +4,7 @@ title: "Capítulo 71: Marco Zero"
 description: "Gabo larga a arma no meio de uma luta que não pode vencer e tenta a única coisa que ninguém tentou com o Santo: chamá-lo pelo nome."
 image: /capitulo_71.jpg
 Personagens Presentes: Marco Moretti, Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Kael "O Cirurgião", Aria
+Localização: "Hub de Comunicações — subsolo profundo da Torre Aeterna"
 ---
 
 # Capítulo 71: Marco Zero

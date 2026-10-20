@@ -15,6 +15,8 @@ Eu também não estava muito melhor. O choque hipovolêmico era uma sombra amea�
 
 Nas bordas do Distrito 4, a ordem corporativa nunca existiu de fato, e a falta de energia apenas escancarou isso. Os moradores sobreviventes haviam começado a queimar o que encontravam em tambores improvisados nas ruas para espantar a escuridão e o frio: plástico isolante velho, pneus velhos e restos químicos.
 
+Nas calçadas, junto aos tambores, as pessoas se aqueciam em silêncio. Ninguém pedia nada, ninguém oferecia nada. Uma mulher segurava uma chaleira com as duas mãos, e a chaleira não fumegava. Mais adiante, um velho de casaco comprido alimentava o fogo com o que tirava de uma pasta de papelão: processos, fichas, formulários, e o fogo comia cada folha com uma alegria fina e amarela. Toda a papelada de uma vida subindo em fumaça porque a noite estava fria. Onde quer que Rangel estivesse, estaria gritando com o velho.
+
 O vento soprou a fumaça negra de uma dessas fogueiras na nossa direção. O ardor nos olhos e a acidez cáustica no fundo da garganta foram imediatos; o plástico queimado e os vapores de borracha roubaram o oxigênio em um instante.
 
 Com o corpo debilitado pelo choque e pelas fraturas e queimaduras recentes, a fumaça química provocou um espasmo violento na traqueia de Gabo. Ele caiu de joelhos no asfalto quebrado, tossindo em acessos secos e dolorosos que repuxavam os pontos do abdômen e faziam a água suja da sarjeta salpicar seu rosto.
@@ -55,4 +57,14 @@ O silêncio reinou, cortado apenas pelo bater constante da tempestade. O cara en
 
 — Vão se foder, malucos — ele murmurou, abaixando a haste e recuando para o meio das sombras do beco.
 
-Não esperei. Passei pelo meio deles, os ombros tensos, guiando Valéria pela barricada imaginária. Nós dois continuamos marchando pela rua inundada, o refúgio na clínica clandestina de Vasco sendo a única coisa real que nos mantinha do lado de cá.
+Não esperei. Passei pelo meio deles, os ombros tensos, guiando Valéria pela barricada imaginária.
+
+Continuei andando até a esquina, e só ali deixei o braço cair. O peso do gesto chegou depois, uma conta cobrada com juros acima do ombro. Valéria segurou o braço quebrado com as duas mãos, sem falar, e o recolocou contra o peito como quem guarda uma ferramenta cara.
+
+— Eles vão voltar — ela disse, baixo. — Com os outros.
+
+— Vão. — A chuva escorria pelo meu queixo e pingava no metal da tala. — Então a gente precisa estar do outro lado dessa rua antes deles.
+
+Ela não respondeu. Estava tremendo, e não era do frio.
+
+Nós dois continuamos marchando pela rua inundada, o refúgio de Vasco sendo a única coisa real que nos mantinha do lado de cá.

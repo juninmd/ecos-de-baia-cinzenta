@@ -1,6 +1,7 @@
 ---
 image: /capitulo_98.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Dra. Nise, Inspetor Rangel, Capitão Jonas Vilar, Aria
+Localização: "Apartamento de Gabo → Delegacia da Biblioteca Municipal → Zona Morta (ruínas do Data Center 4)"
 ---
 # Capítulo 98: A Cidade Silenciosa
 

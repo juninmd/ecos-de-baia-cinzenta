@@ -13,6 +13,10 @@ Com pouco mais de um metro de diâmetro, o tubo cilíndrico nos forçava a avan�
 
 O peso de vinte quilos da liga industrial no meu ombro direito arrastava-se como uma bigorna morta sobre o metal do duto. A cada impulso para a frente, as cicatrizes da fixação neural ardiam como se alguém estivesse encostando pontas de ferro em brasa na minha clavícula.
 
+Três corpos num tubo de um metro fazem um barulho que denuncia. O casaco arrastando na chapa, o deck batendo no cinto de Valéria, a respiração de Elias entrando e saindo com um apito de cano furado. A cada metro, uma chuva de ferrugem solta caía da abóbada e entrava pela gola — areia fina no pescoço, no ouvido, entre os dentes.
+
+O tubo tinha temperatura própria e cheiro próprio. Graxa velha, zinco molhado, e um fundo de mofo que ficava na garganta muito depois de a gente sair.
+
 — O duto tá afunilando na curva — a voz de Valéria veio de trás de mim, abafada pela acústica circular do tubo.
 
 Ela rastejava empurrando o cyberdeck enrolado em lona diante do peito. A luz azul dos filamentos de LED na franja curta dela projetava feixes recortados sobre as minhas costas ensanguentadas, revelando onde o tecido do sobretudo rasgara no confronto com as válvulas da estufa.
@@ -43,6 +47,12 @@ A pressão sobre a carne viva foi excruciante. Cerrei os dentes com tanta força
 
 — Pronto — ela deu um puxão final na fita, travando o adesivo com um tapa seco na minha armação de ferro. — Não vai ganhar prêmio de estética médica, mas estancou o vazamento. Agora para de tentar bancar o mártir imortal e usa o apoio do cotovelo mecânico pra distribuir o peso.
 
+A fita apertou mais do que precisava. Em dois minutos, os dedos da mão esquerda começaram a formigar, depois a desaparecer, e o pouco de tato que a armação me devolvia virou um zumbido surdo. Pressão demais segura hemorragia e mata a mão devagar, e Valéria sabia disso melhor do que eu.
+
+— Você tá contando — falei, com o queixo apontado para o rolo de fita.
+
+— Tô contando desde o primeiro gotejo — ela respondeu, sem levantar os olhos. — Dezesseis metros de grade marcada. Se alguém descer atrás da gente, não precisa de faro. Precisa de paciência.
+
 Olhei para os olhos prateados dela. Sob a camada de fuligem e o cansaço visível nas olheiras, havia aquela mesma centelha de ironia protetora que sempre a mantinha humana, mesmo cercada por toneladas de sucata e cadáveres.
 
 — Obrigado, Val.
@@ -52,6 +62,12 @@ Olhei para os olhos prateados dela. Sob a camada de fuligem e o cansaço visíve
 O técnico enfiou a cabeça no vão da curva, limpando o suor da testa com as costas da luva encardida.
 
 — Mais duzentos metros em declive suave. O duto desemboca bem na galeria de exaustão das catacumbas do Distrito Comercial. Mas... vocês têm certeza de que querem ir pra lá? As histórias que contam sobre o Setor 6 desde o apagão...
+
+— Não é história, detetive — Elias insistiu, a voz sumindo na curva do tubo. — Quando os bancos fecharam, muita gente desceu pra tirar o que tinha ficado nos cofres. Nenhuma voltou a subir. Eu vi a lista. Eu datilografei a lista.
+
+— Quantas? — Valéria perguntou.
+
+— Parei de contar em quarenta e três.
 
 — Histórias de fantasmas não me preocupam, Elias — rosnei, impulsionando meu corpo para a frente no tubo estreito. — Eu me preocupo com o que tá vivo e tem dentes. E pra esses, a gente ainda tem cartuchos em *Caronte*.
 

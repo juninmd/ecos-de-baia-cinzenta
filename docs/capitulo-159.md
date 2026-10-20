@@ -18,7 +18,7 @@ characters: ["Gabo", "Valéria", "Aria"]
 
 O Subnível 3.0 não era mais um mito. Era um matadouro com ar-condicionado.
 
-Enquanto Gabo puxava o próprio peso para fora do túnel estilhaçado, o choque térmico quase o nocauteou. Depois do calor vulcânico da explosão do vagão no Capítulo 157, o ar aqui em cima era denso, resfriado artificialmente, e carregava um odor estéril de ozônio misturado ao inconfundível cheiro adocicado de cobre e sangue velho.
+Enquanto Gabo puxava o próprio peso para fora do túnel estilhaçado, o choque térmico quase o nocauteou. Depois do calor vulcânico da explosão do vagão, o ar aqui em cima era denso, resfriado artificialmente, e carregava um odor estéril de ozônio misturado ao inconfundível cheiro adocicado de cobre e sangue velho.
 
 A fumaça.
 
@@ -38,7 +38,7 @@ Mas havia algo errado.
 
 Entre os racks, grossas ramificações de uma substância escura e fibrosa — parecida com tendões musculares e raízes expostas — serpenteavam pelo chão e subiam pelas paredes de metal. As veias orgânicas pulsavam suavemente, emitindo um fraco brilho bioluminescente que coloria o ar de um vermelho doentio. O Taxidermista havia transformado o coração digital da corporação em um pulmão de carne.
 
-No braço erguido de Valéria, o pendrive blindado de titânio fosco e polímero negro de Aria aquecia enquanto varria os corredores com o feixe laser do *Phantom V3*.
+No braço erguido de Valéria, o pendrive blindado de Aria aquecia enquanto varria os corredores com o feixe laser do *Phantom V3*.
 
 — *Análise estrutural concluída,* — a voz sintética de Aria cortou o silêncio pesado pelo comunicador de gola de Gabo, destituída de qualquer traço de humanidade. — *A biomassa está integrada diretamente aos barramentos de dados primários da Aeterna. O Taxidermista não destruiu os servidores. Ele os parasitou. A arquitetura de rede agora é quimérica.*
 

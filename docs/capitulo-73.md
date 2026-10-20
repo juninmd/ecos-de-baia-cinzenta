@@ -4,6 +4,7 @@ title: "Capítulo 73: Carne e Metal"
 description: "O ex-parceiro trocou de corpo para não ser mais o lixo que reciclaram. Gabo mata ele com um isqueiro que não acende nada."
 image: /capitulo_73.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Roberto Miranda, Aria
+Localização: "Hub de Comunicações — o acerto"
 ---
 
 # Capítulo 73: Carne e Metal

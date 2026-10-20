@@ -1,6 +1,7 @@
 ---
 image: /capitulo_60.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Aria, Valéria "Val" Cruz
+Localização: "Galerias Subterrâneas - Setor Norte"
 ---
 # Capítulo 60: Despejo
 

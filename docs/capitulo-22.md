@@ -1,12 +1,25 @@
 ---
 image: /capitulo_22.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Elena Moretti, Dante Moretti, O Gamemaster
+Localização: "Interior do Cobalt, sob viaduto abandonado do Distrito da Névoa"
 ---
 # Capítulo 22: O Mapa da Alma
 
 A chuva batia no teto do Cobalt como balas de pequeno calibre. O carro estava estacionado sob a estrutura de um viaduto abandonado no Distrito da Névoa, longe das câmeras da Aeterna Corp, longe dos olhos brilhantes dos drones que varriam a cidade em busca do "terrorista" Gabriel Moretti.
 
 Dentro do carro, a única luz vinha da tela holográfica do deck de Valéria e de uma lanterna tática que Elena segurava sobre os papéis amarelados do dossiê.
+
+O viaduto tinha um buraco no meio e a chuva entrava por ele em fio grosso, batendo no teto em intervalos irregulares. O ar cheirava a estofado úmido, a ferrugem e ao café que Gabo derramara no tapete pela manhã.
+
+Elena abriu o dossiê no colo, e o papel soltou aquele cheiro de arquivo — mofo, poeira e o resto de umidade de porão. As folhas estavam coladas nas bordas.
+
+— Isso saiu do arquivo morto da Delegacia — disse Gabo. — Eu reconheço o carimbo.
+
+— Saiu. — Ela não levantou os olhos. — Fotografei cada página em quarenta minutos, com o zelador do turno da noite me segurando a lanterna. Deixei as originais na pasta, na mesma ordem.
+
+— E o zelador?
+
+— Vai levar a culpa, se alguém for procurar. — Ela alisou a página com o polegar, um gesto de quem se acusa. — Foi ele que decidiu me deixar entrar. Eu só não disse não.
 
 — Isso não faz sentido — murmurou Gabo, esfregando o rosto com as mãos. Ele sentia o cheiro de ozônio e medo que impregnava suas roupas. — Meu pai morreu. Eu vi o caixão fechado. O Capitão Vilar assinou o atestado.
 
@@ -42,6 +55,10 @@ Valéria olhou para ele, atônita.
 
 — Ele usou o som do próprio tempo parando como senha.
 
+Gabo virou o relógio na palma da mão. A tampa de latão estava amassada no ponto exato onde o pulso do pai batera por trinta anos, e o vidro tinha uma trinca em estrela.
+
+— Ele não confiava em senha que outra pessoa pudesse decorar — disse Gabo. — Meu pai achava que todo sistema que guarda o que você tem pode ser aberto por quem te tem.
+
 Os hologramas finalmente se abriram, dançando nos olhos dela.
 
 — A Rede da Aeterna... era um fracasso no início. A IA pura não conseguia processar a imprevisibilidade, a... alma de Baía Cinzenta. Eles precisavam de um processador orgânico, um que tivesse vivido e respirado a corrupção e a lei desta cidade.
@@ -59,6 +76,12 @@ Elena tocou o ombro de Gabo, um contato frágil no meio da tempestade.
 Gabo lembrou-se das mensagens enigmáticas, dos "desafios" que pareciam testes morais, das hesitações do Gamemaster. Não eram falhas. Eram gritos.
 
 — Ele está lá dentro — disse Gabo, a voz embargada. — E está em agonia.
+
+Valéria passou a mão no rosto e ela voltou vermelha. O implante estava trabalhando quente; dava para sentir o calor a meio metro.
+
+— O deck está em trinta e um por cento — disse ela. — Se eu abrir o resto do arquivo, eu perco o mapa.
+
+— Então a gente desce sem mapa. — Gabo apontou o queixo para o holograma. — Abre.
 
 Ele se esticou para o banco de trás e pegou o lançador "Leviatã". O peso frio do metal era um consolo, uma promessa. Ele começou a verificar os cartuchos químicos com uma precisão mortal.
 

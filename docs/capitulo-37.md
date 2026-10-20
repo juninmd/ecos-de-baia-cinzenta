@@ -4,6 +4,7 @@ title: "Capítulo 37: A Linha Azul"
 description: "A delegacia aguenta a noite inteira. O preço aparece de manhã, algemado ao volante de um caminhão."
 image: /capitulo_37.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Valéria "Val" Cruz, Capitão Jonas Vilar
+Localização: "Delegacia Central"
 ---
 
 # Capítulo 37: A Linha Azul

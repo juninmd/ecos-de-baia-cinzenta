@@ -21,7 +21,7 @@ Valéria, agachada sobre o terminal portátil onde o pendrive blindado da Aria e
 
 — É uma varredura de setor — Gabo recuou para dentro da sala, fechando a porta de aço pesada e girando a tranca manual. — Eles sabem que estamos no subsolo. A Usina caiu, Dante está mudo. Quem quer que esteja no comando agora está limpando as pontas soltas à moda antiga.
 
-Ele olhou para o comunicador preso à própria lapela e depois para o drive de titânio fosco espetado no deck de Valéria. O LED indicador do pendrive piscava em um âmbar febril, pulsando no mesmo ritmo de uma respiração humana.
+Ele olhou para o comunicador preso à própria lapela e depois para o drive espetado no deck de Valéria. O LED indicador do pendrive piscava em um âmbar febril, pulsando no mesmo ritmo de uma respiração humana.
 
 No fone auricular de Gabo, a estática abriu espaço para uma voz íntima.
 

@@ -4,6 +4,7 @@ title: "Capítulo 28: O Último Suspiro da Torre"
 description: "A purga da Torre Aeterna não mata inimigos: mata o turno da noite. E a mulher que conhece os dutos morre por causa de uma ordem do Gabo."
 image: /capitulo_28.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Valéria "Val" Cruz, Dante Moretti
+Localização: "Torre Aeterna (purga do Protocolo Gênesis, descida)"
 ---
 
 # Capítulo 28: O Último Suspiro da Torre

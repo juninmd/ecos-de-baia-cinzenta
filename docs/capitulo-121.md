@@ -23,9 +23,17 @@ Gabo praguejou e tateou a parede até encontrar a caixa de disjuntores. Ele empu
 
 Com um zumbido grave, lâmpadas de filamento no teto piscaram e acenderam, banhando o bunker em uma luz amarela e doente. O lugar parecia um museu de tecnologias mortas: servidores torre, monitores CRT volumosos, e emaranhados de cabos que pareciam intestinos de máquinas estripadas.
 
+O mofo ali tinha idade. Cheirava a papel molhado, a poeira quente de válvula e a um resto de tempero que nunca mais ia sair das panelas. A luz amarela não melhorava nada: só dava contorno às coisas e deixava o resto no escuro, do jeito que um lugar fechado há anos prefere ser visto.
+
 — Me ajude com ele — Gabo puxou Rangel para fora. O inspetor era pesado, um peso morto de carne e culpa.
 
 Eles o arrastaram até uma mesa de metal no centro da sala, empurrando teclados e xícaras de café fossilizadas para o chão.
+
+O Fliperama tinha dono uma vez. Restavam as provas espalhadas: uma jaqueta de LEDs pendurada num gancho, apagada, com os painéis rachados; um pôster plastificado de um garoto de cabelo verde-limão sorrindo para uma câmera que não existia mais; e, na parede, dezenas de recortes impressos com a mesma cara. Kiko Vibe não estava ali. Kiko Vibe não estaria em lugar nenhum nunca mais, e o bunker continuava esperando por ele com a paciência idiota das coisas.
+
+— Ele deixou tudo — Valéria disse baixo, os olhos nos recortes. — Nem trancou a porta.
+
+— Não tinha para onde levar. Ninguém ia roubar um garoto morto. — Gabo disse isso para os recortes na parede, não para ela, e a frase ficou no ar com cheiro de poeira quente.
 
 — Ele está perdendo muito sangue — Valéria disse, suas mãos pairando sobre o ferimento no ombro de Rangel. Seus olhos cibernéticos giravam, processando dados que não podia usar. — A artéria subclávia... Gabo, precisamos de um autodoc.
 
@@ -66,6 +74,10 @@ Quando terminou, largou o ferro na mesa e se afastou, respirando com dificuldade
 — Está feito — disse, a voz rouca. — O sangramento parou.
 
 Valéria soltou o inspetor e correu para o canto da sala, vomitando bile.
+
+Rangel não acordou. O corpo dele tinha ido para algum lugar onde a dor não chegava, e o que sobrou na mesa era uma coisa grande e cinzenta que respirava rápido demais. A marca do ferro tinha o formato errado — meio círculo, com a borda mais funda onde a mão de Gabo escorregou.
+
+Ele olhou para a própria mão. Não tremia mais. Isso também era ruim.
 
 Gabo limpou as mãos num pano sujo de graxa. Ele olhou para a bancada eletrônica no canto, onde o pendrive blindado da Aria repousava sobre um pano antiestático, com o polímero negro chamuscado e o LED completamente apagado.
 

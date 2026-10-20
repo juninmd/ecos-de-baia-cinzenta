@@ -1,6 +1,7 @@
 ---
 image: /capitulo_36.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Capitão Jonas Vilar, Elena Moretti, Valéria "Val" Cruz
+Localização: "Delegacia do Setor 4"
 ---
 # Capítulo 36: O Ninho da Serpente
 
@@ -110,4 +111,4 @@ Gabo assentiu.
 
 — Vamos fazer o Ninho da Serpente virar um inferno para eles.
 
-Juntos, eles saíram da sala para enfrentar a guerra que batia à porta.
+O primeiro tiro atravessou a porta e apagou a única lâmpada do corredor. No escuro, do outro lado da parede, alguém começou a cantar o hino da corporação. Vilar cuspiu no chão e foi na frente.

@@ -4,6 +4,7 @@ title: "Capítulo 58: O Dilema do Capitão"
 description: "Miranda oferece a Vilar a aposentadoria de volta pelo preço de um endereço. O velho descobre quanto custa a própria palavra — e paga à vista."
 image: /capitulo_58.jpg
 Personagens Presentes: Capitão Jonas Vilar, Roberto Miranda
+Localização: "Delegacia Central — gabinete do Capitão. 23h40"
 ---
 
 # Capítulo 58: O Dilema do Capitão

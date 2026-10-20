@@ -27,7 +27,7 @@ Gabo finalmente alcançou a borda superior e puxou a si e a Rangel para o piso d
 
 O espaço não era um andar propriamente dito, mas um nicho cravado na parede do poço — uma eclusa de manutenção da antiga Aeterna Corp. As paredes de titânio desgastado carregavam cicatrizes de uso e abandono desde o Dilúvio. À frente deles, bloqueando o avanço horizontal, havia uma porta pesada, ladeada por tubulações estilhaçadas.
 
-Valéria se arrastou até a porta, tirou o pendrive blindado de Aria do slot lateral do *Phantom V3* e espetou o conector universal retrátil diretamente na fenda de diagnóstico do painel lateral oxidado. O LED azul-gelo da unidade de titânio fosco pulsou rapidamente enquanto Aria invadia os barramentos mortos da tranca.
+Valéria se arrastou até a porta, tirou o pendrive blindado de Aria do slot lateral do *Phantom V3* e espetou o conector universal retrátil diretamente na fenda de diagnóstico do painel lateral oxidado. O LED azul-gelo da unidade pulsou rapidamente enquanto Aria invadia os barramentos mortos da tranca.
 
 — *Analisando o bloqueio,* — a voz de Aria soou pelo alto-falante do deck de Valéria, fria e isenta de qualquer fadiga. — *Tranca de segurança classe militar. Painel biométrico integrado à malha local inativa da Aeterna.*
 

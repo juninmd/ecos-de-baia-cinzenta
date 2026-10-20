@@ -13,6 +13,12 @@ Eram antigos seguranças da Aeterna Corp, caídos meses atrás durante os motins
 
 O Jardim não lhes dera a decência da decomposição. Ele os transformara em sentinelas de ferro e osso.
 
+Não havia vento ali, e mesmo assim o ar se mexia. Vinha do selo em pulsos curtos, um sopro de fole velho que trazia cheiro de ferro molhado, açúcar queimado e uma nota mais funda, de carne esquecida na geladeira depois do blecaute. O gosto chegava antes: cobre na língua, aquele azedume de morder papel-alumínio.
+
+Abaixei o facho da lanterna pelas botas dos enforcados. Nenhuma tinha lama. Nenhuma tinha sangue seco no solado. Homem que morre atirando num corredor não fica com a bota limpa. Aqueles cinco tinham sido recolhidos, carregados e pendurados com o cuidado de quem guarda ferramenta boa no fim do expediente. O Jardim não os tinha matado. O Jardim os tinha herdado.
+
+Um deles ainda carregava o crachá preso ao peito. Turno C, Setor Sete, e uma foto que a umidade já apagara até virar mancha. Anotei o turno, como se guarda uma conta que não vai ser paga.
+
 — Interface biológica travada em malha fechada — Valéria ajoelhou-se diante do console quebrado da comporta, as mãos ágeis já espetando dois cabos de teste direto nas trilhas de cobre expostas da parede. A luz azul de seus LEDs na franja cortava a penumbra avermelhada. — Abertura física bloqueada. Essa porta exige autorização executiva de diretoria ou uma sobrecarga brutal que quebre o ciclo de processamento dessas cinco carcaças no teto. Vou tentar um bypass pelo barramento de emergência, mas preciso de sessenta segundos de silêncio!
 
 — Sessenta segundos é tempo demais, Val — avisei, a mão esquerda engatando na empunhadura serrilhada de *Caronte* por baixo do sobretudo.
@@ -34,6 +40,10 @@ A descarga elétrica de alta voltagem espalhou-se pela blindagem da armação nu
 Travei a mandíbula contra o tranco e disparei o pistão hidráulico num soco ascendente.
 
 O punho maciço de aço atingiu o queixo do sentinela com a força de um aríete. O crânio sintético partiu-se ao meio, os cabos do Jardim arrebentando numa explosão de fluido negro e faíscas. A criatura desabou de costas, inerte.
+
+O fluido do crânio partido não era sangue nem óleo. Cheirava a vinagre e a moeda velha, e onde caía no gradeamento o ferro começou a espumar. As raízes da parede beberam com um estalo úmido, e o corredor inteiro pareceu se inclinar na nossa direção, curioso, com fome.
+
+O bastão tinha deixado dois dedos da armação sem resposta. Fechei o punho e o comando morreu no meio do caminho, o motor girando em vazio. Recalibrei no atuador de emergência, com o polegar, e a garra voltou mais lenta, com um atraso que ia me custar caro se eu precisasse dela duas vezes seguidas.
 
 Dois outros avançavam pela esquerda, contornando a passarela para flanquear Valéria enquanto ela digitava freneticamente no teclado do deck.
 
@@ -66,6 +76,10 @@ O bastão de choque congelou a dez centímetros do crânio de Valéria.
 As duas criaturas restantes tremeram numa convulsão elétrica rápida, as luzes de suas viseiras apagando como lâmpadas queimadas. Sem a corrente vital do servidor central, os corpos tombaram como sacos de estopa encharcados sobre o gradeamento de ferro.
 
 O silêncio desceu de repente, quebrado apenas pela minha respiração entrecortada e pelo gotejar do fluido negro na grade.
+
+Contei os corpos por reflexo, do jeito que a academia ensina e a rua desensina. Quatro no piso. O quinto desceu para o fosso e demorou a parar de bater nas paredes.
+
+O braço direito tremia dentro da armação, um tremor fino que não era medo. A descarga do bastão ainda esquentava o pulso por dentro. Eu ia carregar aquele atraso pela noite inteira, e ali embaixo a noite não tinha hora de terminar.
 
 Valéria soltou o ar num longo suspiro trêmulo, encostando a testa na parede fria por três segundos antes de se recompor. Ela guardou os cabos no bolso da jaqueta, virou-se e correu até mim, estendendo as duas mãos para me ajudar a erguer do chão.
 

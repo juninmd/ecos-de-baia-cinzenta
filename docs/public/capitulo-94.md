@@ -4,6 +4,7 @@ title: "Capítulo 94: O Coração da Colmeia"
 description: "Quatro quilômetros levando o pendrive da Aria e o banco de baterias de pulso por uma cidade que respira. O comboio é patético, e é tudo o que sobrou."
 image: /capitulo_94.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Capitão Jonas Vilar, Aria
+Localização: "Ruas de Baía Cinzenta — manhã do último dia"
 ---
 
 # Capítulo 94: O Coração da Colmeia

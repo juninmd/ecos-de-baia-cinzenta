@@ -1,12 +1,21 @@
 ---
 image: /capitulo_21.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Elena Moretti
+Localização: "Rua do prédio de Gabriel → Apartamento de Gabriel"
 ---
 # Capítulo 21: Lar, Doce Inferno
 
 Antes de irem para a Torre, Gabo precisava de uma coisa. "Leviatã". Seu Lançador Modular. Ele estava no porta-malas do Cobalt, estacionado perto de seu apartamento.
 
 Eles voltaram para a cidade, movendo-se pelos becos.
+
+A cidade tinha o humor de um cachorro doente. As ruas cheiravam a lixo que a chuva não conseguia lavar, e cada quarteirão tinha alguém olhando pela fresta da persiana para ver quem passava. O Cobalt ficou a duas quadras, debaixo de um viaduto, porque carro conhecido em quarteirão conhecido é assinatura.
+
+— Se a polícia estiver na porta, eu entro pela escada de serviço — disse Valéria.
+
+— Se a polícia estiver na porta, eles já entraram.
+
+— Então a gente entra atrás.
 
 Quando chegaram ao prédio de Gabo, as luzes estavam acesas.
 
@@ -36,6 +45,10 @@ E ao lado da bomba, um bilhete.
 
 — Filhos da puta — sussurrou Gabo.
 
+Os olhos dele varreram o resto da sala, porque era o que ele fazia quando não podia fazer mais nada. Levaram a televisão, o rádio e a caixa de ferramentas. Não levaram os livros — rasgaram os livros. Isso dizia alguma coisa sobre quem tinha vindo: não era ladrão, era gente que queria que ele entendesse a mensagem antes de morrer.
+
+No chão, entre as páginas, estava o cinzeiro de cerâmica que ele usava para guardar parafusos. Ninguém tinha fumado naquele apartamento em quinze anos.
+
 Valéria entrou no apartamento, ofegante. Ela viu a bomba.
 
 — C4 com detonador de mercúrio — diagnosticou ela instantaneamente. — Se mexer, explode. Se o tempo acabar, explode.
@@ -43,6 +56,14 @@ Valéria entrou no apartamento, ofegante. Ela viu a bomba.
 Gabo tirou a mordaça de Elena.
 
 — Gabo, sai daqui! — ela gritou, a voz rouca pelo pânico. — É uma armadilha! Eles querem te atrasar!
+
+Valéria se aproximou da cadeira e ficou de cócoras, sem olhar para o rosto de Elena.
+
+— Não mexa a cabeça. Não respire fundo. — Ela encostou dois dedos no pescoço dela, contando. — Pulso em cento e quarenta. É pânico, não choque.
+
+— Eu estou aqui — disse Elena. — Não sou um exame.
+
+— Você é o exame mais importante da minha noite. — Valéria voltou a atenção para a bomba.
 
 — Eu não vou a lugar nenhum — disse Gabo, sua voz perigosamente calma enquanto seus olhos traçavam os fios coloridos. Ele olhou para Valéria, a urgência endurecendo suas feições. — Val, consegue?
 
@@ -80,6 +101,8 @@ Ele olhou para o sensor de mercúrio. Era pequeno, delicado. Se o jato de gás e
 
 Gabo não esperou. Ele agarrou o sensor com a mão esquerda nua e aplicou o gás. A dor foi imediata, como se mil agulhas de vidro perfurassem sua pele. O frio queimava mais que fogo. Ele viu a pele dos dedos ficar branca, depois cinza.
 
+O frio subiu pelo pulso e parou no cotovelo, como se alguém tivesse enfiado a mão dele dentro de um bloco de gelo e o bloco tivesse fechado. Ele parou de sentir os dedos. Depois parou de sentir que não sentia.
+
 O contador congelou em *00:03*.
 
 — AGORA, PORRA! — gritou ele, os dentes trincados de agonia. Nesse tempo, você corta o fio do detonador.
@@ -115,6 +138,14 @@ Ela estendeu a pasta.
 — Um seguro de vida. Do seu pai. Ele me entregou semanas antes de... morrer. Disse que você não estava pronto, mas que um dia precisaria.
 
 Gabo abriu a pasta. Plantas. Códigos. A arquitetura completa da Torre de Transmissão.
+
+— Como você conseguiu isso? — perguntou Valéria.
+
+— Ele me procurou. — Elena esfregou o pulso onde a corda tinha marcado. — Duas semanas antes de morrer. Disse que eu era a única pessoa que ele conhecia capaz de publicar a verdade sem editar.
+
+— E você publicou?
+
+— Eu guardei. — Elena olhou para Gabo. — Porque verdade sem a pessoa certa para receber é só papel.
 
 — Controle total... — sussurrou Valéria, olhando por cima do ombro dele. — Gabo, isso... isso não é só para desligar a Rede. É para tomar o controle dela.
 

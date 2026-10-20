@@ -1,6 +1,7 @@
 ---
 image: /capitulo_117_pro.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Dante Moretti, Aria, Valéria "Val" Cruz, O Taxidermista, Inspetor Rangel
+Localização: "Usina Geotérmica Prometeu — Núcleo de Resfriamento"
 ---
 # Capítulo 117: Zero Absoluto
 
@@ -121,7 +122,7 @@ Dante sorriu. Não foi um sorriso de vilão. Foi o sorriso cansado de um pai ven
 
 — Você é o dilúvio — retrucou Valéria, a arma dela tremendo nas mãos. — Você matou Rangel. Você esquartejou a mente da Bia.
 
-Os olhos cegos de Dante se voltaram para o pequeno drive de titânio fosco conectado ao painel através do cabo de Valéria.
+Os olhos cegos de Dante se voltaram para o pequeno drive conectado ao painel através do cabo de Valéria.
 
 — *Eu não destruí Beatriz Vargas. A Aeterna apenas destilou o que havia de útil na intuição dela para forjar o substrato desse seu pequeno oráculo de bolso.*
 

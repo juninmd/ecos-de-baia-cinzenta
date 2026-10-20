@@ -33,7 +33,7 @@ Vinte e dois anos. Pálido. Olhos arregalados de quem nunca deveria ter descido 
 
 — Quietude de cemitério corporativo nunca é boa notícia, garoto, — Valéria respondeu, desacelerando o passo e erguendo o cyberdeck na altura do peito. Seus olhos prateados estreitaram-se, analisando linhas de código em verde fosforescente que corriam na tela portátil. — Moretti, para um segundo.
 
-Parei. O peso da minha armação industrial de sucata — parafusada no osso por Vasco no Capítulo 175 para estabilizar a fratura do braço — puxou meu ombro direito com uma fisgada aguda de cansaço. O sangue seco colava a atadura na carne viva, e as cicatrizes do Dilúvio queimavam, mas a agonia física servia apenas para me manter firme no chão de cimento rachado entre as máquinas que jaziam como ferro morto.
+Parei. O peso da minha armação industrial de sucata — parafusada no osso por Vasco para estabilizar a fratura do braço — puxou meu ombro direito com uma fisgada aguda de cansaço. O sangue seco colava a atadura na carne viva, e as cicatrizes do Dilúvio queimavam, mas a agonia física servia apenas para me manter firme no chão de cimento rachado entre as máquinas que jaziam como ferro morto.
 
 — O que você tá pegando? — perguntei, destravando a *Caronte* com o polegar.
 

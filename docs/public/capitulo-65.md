@@ -4,6 +4,7 @@ title: "Capítulo 65: O Novo Inquilino"
 description: "Gabo não consegue atirar no irmão sem destruir o drive da Aria. Então atira na água — e descobre quem realmente é o dono da cidade."
 image: /cidade.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Marco Moretti, Aria, Roberto Miranda
+Localização: "O Núcleo — Momento Zero"
 ---
 
 # Capítulo 65: O Novo Inquilino

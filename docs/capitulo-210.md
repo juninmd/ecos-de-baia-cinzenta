@@ -19,7 +19,7 @@ Elias já havia sido içado até a plataforma elevada de serviço; o garoto jazi
 
 — Eu reclamo de tudo em você, detetive, principalmente da teimosia! — rebateu ela, girando a manivela da roldana com os dois braços. Os tendões do pescoço dela saltavam sob a pele pálida, e o barulho das engrenagens emperradas soava como dentes rangendo a seco. — Elias, puxa essa ponta junto comigo antes que o carretel escape da trava!
 
-O cinto de rapel mordia minha cintura com ferocidade, cortando a circulação das coxas. Com a perna esquerda presa na órtese rígida que pendia inútil no ar e o braço mecânico puxando o ombro lacerado para baixo após a fixação da fratura no Capítulo 175, eu precisava confiar unicamente na pegada da minha mão de carne viva e na força de tração da dupla lá em cima. A bandagem improvisada no meu ombro empapou de vermelho escuro; meus músculos continuavam sangrando pelo bíceps, e o esforço arrancou um urro rouco dos meus dentes enquanto as cicatrizes do Dilúvio queimavam no frio.
+O cinto de rapel mordia minha cintura com ferocidade, cortando a circulação das coxas. Com a perna esquerda presa na órtese rígida que pendia inútil no ar e o braço mecânico puxando o ombro lacerado para baixo após a fixação da fratura, eu precisava confiar unicamente na pegada da minha mão de carne viva e na força de tração da dupla lá em cima. A bandagem improvisada no meu ombro empapou de vermelho escuro; meus músculos continuavam sangrando pelo bíceps, e o esforço arrancou um urro rouco dos meus dentes enquanto as cicatrizes do Dilúvio queimavam no frio.
 
 A dor na carne aberta ardia com a ferocidade de ácido, um eco constante dos ferimentos acumulados desde que a Torre Aeterna desabou sobre nós no Dilúvio anos atrás. Mas a dor era limpa; mantinha meus sentidos em alerta absoluto enquanto meus olhos monitoravam a aproximação da plataforma.
 
@@ -39,7 +39,7 @@ Olhei para cima através da poeira. O olhal de aço que prendia o conjunto da ro
 
 — Dá um jeito, seu brutamontes! Eu não vim até o fundo do Setor Seis pra ver você virar espeto em cristal de óxido!
 
-O instinto de preservação engoliu qualquer resquício de hesitação. Ignorei a agonia que explodia na minha clavícula costurada no Capítulo 175, estiquei o tronco para o alto e lancei a mão de sucata com toda a extensão permitida pelos fios de aço. O motor hidráulico da armação deu um estalo violento quando atingiu o batente máximo.
+O instinto de preservação engoliu qualquer resquício de hesitação. Ignorei a agonia que explodia na minha clavícula costurada, estiquei o tronco para o alto e lancei a mão de sucata com toda a extensão permitida pelos fios de aço. O motor hidráulico da armação deu um estalo violento quando atingiu o batente máximo.
 
 As garras de ferro forjado da armação bateram na quina de chapa da passarela, resvalando por dois centímetros antes de fecharem em pinça sobre uma barra de reforço.
 

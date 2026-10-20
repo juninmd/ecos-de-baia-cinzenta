@@ -1,6 +1,7 @@
 ---
 image: /capitulo_104.jpg
 Personagens Presentes: Inspetor Rangel, Gabriel "Gabo" Moretti, Dante Moretti, Elena Moretti
+Localização: "Superfície - Acesso de Manutenção Sul"
 ---
 # Capítulo 104: O Preço da Alvorada
 
@@ -13,6 +14,8 @@ Depois de horas respirando o ar reciclado, metálico e adocicado de sangue do Be
 Gabo emergiu do bueiro de manutenção, puxando-se com os braços. Suas pernas, presas nas órteses danificadas, eram peso morto. O motor do joelho direito gemia e soltava faíscas a cada movimento, um protesto mecânico contra a violência que havia sofrido nas mãos de Roberto Miranda.
 
 Ele rolou para o asfalto úmido, ofegante. O céu acima era de um cinza chumbo, clareando lentamente no leste. A alvorada estava chegando, uma mancha pálida tentando perfurar a camada eterna de poluição.
+
+Ficou de barriga para cima por três segundos, o tempo de o corpo decidir se ainda servia. O joelho direito soltou uma faísca e um cheiro de plástico queimado. Havia um corte no antebraço que ele não lembrava de ter feito, e a manga em volta estava rígida de sangue seco. Lá em cima, o céu tinha a cor de água de lavar louça.
 
 — Gabo? — A voz de Elena veio de baixo.
 
@@ -34,6 +37,20 @@ Dante abriu os olhos. Eles varreram a rua deserta, os prédios em ruínas, os ca
 
 — A cidade está... quieta — observou ele.
 
+Elena tinha tirado um gravador do bolso do casaco. Modelo antigo, de fita, com o botão vermelho gasto de tanto dedo.
+
+— Não — disse Gabo, sem virar a cabeça.
+
+— É a única prova que vai sobrar de hoje.
+
+— Ele ouve.
+
+Dante não olhou para o gravador. Olhou para o bolso.
+
+— Fita magnética — disse ele, com a paciência de quem corrige um aluno. — Ainda funciona. Guarde. Você vai precisar.
+
+Elena não guardou. Também não apertou o botão. Ficou com o aparelho no meio da mão, como quem segura uma pedra e ainda não decidiu se atira.
+
 — Nós desligamos tudo — disse Gabo, tentando se levantar, apoiando-se em um poste de luz enferrujado. — O Vazio. Lembra?
 
 Dante virou a cabeça lentamente para Gabo. O movimento foi fluido, líquido.
@@ -45,6 +62,18 @@ Dante virou a cabeça lentamente para Gabo. O movimento foi fluido, líquido.
 Dante sorriu. Não foi o sorriso caloroso que Gabo via nas fotos antigas. Foi um esgar de reconhecimento, uma emulação de afeto.
 
 — Sim. A realidade. O hardware final.
+
+Dante baixou os olhos para as pernas de Gabo, para o ângulo errado do joelho, e a expressão dele passou para algo parecido com atenção.
+
+— O servo direito está com o eixo empenado. Você tem quarenta minutos de marcha antes de a bucha fundir. Depois disso o peso da órtese arranca o parafuso. — Ele estendeu dois dedos, como quem pede uma ferramenta. — Eu conserto em quatro minutos. Sem anestesia, mas sem dor desnecessária.
+
+— Não encosta em mim.
+
+A mão ficou no ar. Dante recolheu-a sem constrangimento, do jeito que se recolhe uma hipótese descartada.
+
+— Como quiser. O cálculo continua válido.
+
+Gabo não perguntou qual cálculo. Já sabia.
 
 Luzes azuis e vermelhas piscaram no fim da rua. O som de pneus cantando no asfalto molhado quebrou o silêncio.
 

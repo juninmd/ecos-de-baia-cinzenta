@@ -1,6 +1,7 @@
 ---
 image: /capitulo_11.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Dra. Nise, Valéria "Val" Cruz, Kiko Vibe, Marco Moretti
+Localização: "Subsolo do Distrito da Névoa (sob a lavanderia automática) → Galeria pluvial do Distrito da Névoa"
 ---
 # Capítulo 11: Filtros de Realidade
 
@@ -22,11 +23,33 @@ Nise riu, um som seco.
 
 — Entrem. Antes que os drones de busca sintam o cheiro do medo de vocês.
 
+Desceram por uma escada de ferro que tinia a cada degrau. O cheiro de detergente virava outra coisa três metros abaixo: ácido, borracha queimada, café requentado pela décima vez. Os micro-drones de Nise subiam pelo corrimão em fila, como formigas que tivessem decidido praticar medicina.
+
+— Não toquem em nada — disse Nise sem se virar. — Metade do que está aí pode matar vocês. A outra metade eu ainda não terminei.
+
+Valéria olhou para Gabriel e murmurou: — Eu gosto dela.
+
 O laboratório de Nise era um museu de tecnologia obsoleta. Monitores de tubo, teclados mecânicos, servidores resfriados a ventiladores barulhentos.
 
 — Kiko Vibe esteve aqui — disse Gabriel, indo direto ao ponto. Mostrou a foto que acharam.
 
 — O menino sorridente — Nise suspirou, servindo um chá que cheirava a ferrugem. — Ele veio pedir para eu tirar o implante dele. O "Modulador de Humor".
+
+— Quanto custa? — perguntou Gabriel, porque naquela cidade tudo custava e ele preferia ouvir o preço antes de receber o serviço.
+
+Nise parou com a xícara no ar, como se a pergunta tivesse sido grosseira.
+
+— Você acha que eu vivo disso? — Ela serviu o chá. — Eu quero duas coisas. Primeiro, quando derrubarem a torre, não derrubem a lavanderia. Segundo... — o queixo dela apontou o comunicador no peito de Gabriel — ...eu quero dez minutos com o que está aí dentro.
+
+— Não.
+
+— Não é para copiar. É para perguntar uma coisa a ela.
+
+— Não.
+
+A voz de Aria saiu do alto-falante, baixa, quase educada: — *Doutora, eu não respondo perguntas sobre a minha origem.*
+
+— Eu sei — disse Nise, e sorriu. — É por isso que eu queria os dez minutos.
 
 — Ele descobriu a Frequência Fantasma. — Nise interrompeu, a voz grave. — O implante dele não modulava apenas o humor dele. Modulava o de quem assistia.
 
@@ -39,6 +62,16 @@ Valéria se aproximou.
 — É uma onda infra-som — disse ela. — Abaixo da audição humana. Mas... o padrão... é hipnótico.
 
 — Induz passividade — explicou Nise. — Reduz o pensamento crítico. Aumenta a necessidade de aprovação social. É uma droga digital, transmitida pelo Wi-Fi.
+
+Valéria tirou o fone e esfregou os olhos com a base das mãos. As palmas ainda estavam em carne viva do fosso do elevador, e o gesto arrancou uma careta.
+
+— Isso está em todos os alto-falantes da cidade? — perguntou ela.
+
+— Em tudo que tem antena — disse Nise. — Inclusive nos aparelhos auditivos. Inclusive nos marca-passos de duas câmaras. Você não precisa estar ouvindo; precisa estar por perto.
+
+— E ninguém sente nada?
+
+— Sente. Sente vontade de concordar. É mais confortável do que discordar.
 
 Gabriel sentiu um gosto amargo.
 
@@ -55,6 +88,18 @@ Gabriel congelou.
 — O quê?
 
 — Seu pai não estava apenas investigando, Gabriel. Ele era Consultor de Segurança Sênior. Ele assinou a autorização para os testes beta do sinal no Distrito 4. Ele achava que podia "sanear" a violência com frequência de rádio. Quando percebeu que virava controle mental, tentou voltar atrás. Mas você não se demite da Aeterna.
+
+Gabriel se sentou na cadeira que Nise não ofereceu. As pernas decidiram por ele.
+
+— Você tem prova?
+
+— Eu tenho o que ele assinou. — Nise abriu uma gaveta e tirou um papel amarelado, protegido por um plástico que também tinha amarelado. — Autorização de teste. Assinatura dele. E uma observação na margem que a Aeterna nunca apagou porque ninguém se deu ao trabalho de ler.
+
+Gabriel leu. A letra era grande e apressada, inclinada para a direita, a mesma das listas de compras que ele encontrava na porta da geladeira quando era criança.
+
+*Se o índice de violência não cair em seis meses, eu mesmo desligo isso.*
+
+— Seis meses — disse Gabriel. — Ele deu seis meses para a máquina e nunca deu seis horas para mim.
 
 — O sinal tem uma origem — continuou Nise, ignorando o choque de Gabriel. — Uma fonte primária.
 
@@ -77,6 +122,10 @@ O chão tremeu antes do som chegar. Poeira caiu do teto baixo.
 — Temos que sair — disse Gabriel, sacando a arma.
 
 — Saiam pelos fundos. Dá no esgoto pluvial. — Nise pegou uma espingarda debaixo do balcão. — Eu seguro eles.
+
+— Doutora — disse Gabriel. — Se sair por aquela porta com a gente, eu consigo te levar até o perímetro.
+
+— E aí eles entram aqui e queimam trinta anos de trabalho. — Nise verificou a espingarda. — Vai. Eu tenho mais medo de perder o arquivo do que de perder a vida, e isso já é um problema meu, não seu.
 
 — Você vai morrer — disse Valéria.
 

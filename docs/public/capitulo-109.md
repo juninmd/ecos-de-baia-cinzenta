@@ -1,6 +1,7 @@
 ---
 image: /cenas/cidade.jpg
 Personagens Presentes: Inspetor Rangel, Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Dante Moretti, Aria
+Localização: "Zona Portuária - Setor 4 (Em Ruínas)"
 ---
 # Capítulo 109: Frequência Fantasma
 
@@ -40,9 +41,13 @@ Gabo estava pendurado na porta, segurando-se com uma mão enquanto a outra empun
 
 — Gabo? — Rangel olhou para o drone congelado no ar, depois para o blindado. — Mas o que diabos...
 
-— Sem perguntas! A "zona de silêncio" da Aria não vai durar pra sempre! — gritou Valéria do banco do motorista. Ela usava óculos de realidade aumentada conectados ao seu cyberdeck *Phantom V3*, onde um drive neural blindado de titânio fosco — do tamanho de um pendrive pesado — pulsava freneticamente com um LED azul-intenso. — O Dante está reescrevendo o firewall dos drones em tempo real! Temos trinta segundos antes que eles reiniciem como *kamikazes*!
+— Sem perguntas! A "zona de silêncio" da Aria não vai durar pra sempre! — gritou Valéria do banco do motorista. Ela usava óculos de realidade aumentada conectados ao seu cyberdeck *Phantom V3*, onde um drive neural blindado — do tamanho de um pendrive pesado — pulsava freneticamente com um LED azul-intenso. — O Dante está reescrevendo o firewall dos drones em tempo real! Temos trinta segundos antes que eles reiniciem como *kamikazes*!
 
 Rangel se lançou para dentro do blindado, agarrando o corrimão da porta lateral com a mão encharcada e caindo sobre o piso de chapa lavrada.
+
+— Pela doca do peixe! — gritou ele, de quatro. — Tem um portão de serviço atrás do frigorífico. Chave analógica, tarugo de latão. Máquina nenhuma abre aquilo, mas eu carrego essa chave no bolso há onze anos.
+
+Val não perguntou como ele sabia. Virou o volante.
 
 — Vai, Val! Tira a gente daqui! — Gabo bateu na lataria.
 
@@ -62,7 +67,7 @@ Gabo caiu no banco de metal oposto a Rangel, respirando com dificuldade. Ele bat
 
 — Você está bem? — Gabo perguntou, gritando sobre o rugido do motor.
 
-Rangel ignorou a pergunta. Ele apontou um dedo trêmulo para o console adaptado ao lado do painel do veículo, onde o pendrive de titânio fosco e polímero negro estava espetado num barramento de alto ganho. Do alto-falante tático acoplado ao deck de Valéria, uma voz sintética relatou a telemetria de fuga — mas sob a cadência analítica da IA, Rangel ouviu um timbre residual que gelou seu sangue: um eco das frequências vocais de Beatriz Vargas.
+Rangel ignorou a pergunta. Ele apontou um dedo trêmulo para o console adaptado ao lado do painel do veículo, onde o pendrive blindado estava espetado num barramento de alto ganho. Do alto-falante tático acoplado ao deck de Valéria, uma voz sintética relatou a telemetria de fuga — mas sob a cadência analítica da IA, Rangel ouviu um timbre residual que gelou seu sangue: um eco das frequências vocais de Beatriz Vargas.
 
 — Gabo — Rangel disse, a voz perigosamente calma. — O que é aquilo espetado no painel?
 
@@ -73,6 +78,18 @@ Gabo passou a mão pelo rosto molhado, limpando a água dos olhos. Ele olhou par
 — Aquela unidade de bolso travou três drones de combate? — Rangel riu, um som sem humor, encarando o pendrive. — E por que diabos a voz dela soa como a Bia?
 
 — Porque a Aeterna nunca jogava nada fora, nem os mortos — disse Valéria lá da frente, fazendo uma curva brusca que jogou todos contra a parede lateral. — E o que está gravado nesse drive pode matar o Dante. Ou salvar a cidade. Ainda não decidimos.
+
+— Eu assinei o papel dela — disse Rangel.
+
+A cabine ficou pequena. O motor era a única coisa com coragem de fazer barulho.
+
+— Beatriz Vargas. Óbito em via pública, causa a determinar. — Ele olhava para o cilindro no console, não para Gabo. — Eu assinei "a determinar" e fechei a pasta, porque tinha mais dezenove na fila e o plantão era meu.
+
+— Você leu o laudo?
+
+— Li três vezes. — Rangel engoliu em seco. — E assinei do mesmo jeito. É a parte que eu nunca consegui explicar pra ninguém. Agora tem uma voz no painel que talvez saiba.
+
+Gabo não disse nada. Havia coisas que ele tinha enterrado com mais cuidado do que corpos.
 
 O rádio do painel do Rinoceronte, que estava em silêncio, de repente chiou.
 
@@ -87,5 +104,7 @@ Gabo arrancou o painel do rádio com um puxão violento de sua mão enluvada, si
 — Toupeira? — Rangel piscou. — Achei que isso fosse um Rinoceronte.
 
 — Era — disse Gabo, um sorriso cansado e sombrio aparecendo no canto da boca. — Agora é o nosso caixão móvel. E a gente precisa sair dele antes que fechem a tampa.
+
+A suspensão estalou outra vez, e o estalo veio de baixo, seco, de metal que racha e não volta. O volante tremeu na mão de Val como agulha de bússola perdida.
 
 O blindado saltou sobre um quebra-molas, e por um momento, todos flutuaram. Quando a gravidade voltou, trouxe consigo a realidade pesada: eles estavam vivos, mas em Baía Cinzenta, estar vivo era apenas o prelúdio para sofrer mais um pouco.

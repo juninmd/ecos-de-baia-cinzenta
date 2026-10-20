@@ -1,6 +1,7 @@
 ---
 image: /capitulo_101.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Roberto Miranda, Silas Vance ("O Jardineiro"), Dante Moretti
+Localização: 'Zona de Exclusão Sul - Subsolo do "Berçário"'
 ---
 # Capítulo 101: Ressonância
 

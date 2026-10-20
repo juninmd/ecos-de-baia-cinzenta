@@ -4,6 +4,7 @@ title: "Capítulo 75: Horizonte de Eventos"
 description: "Uma semana depois há sol, café e uma cidade que funciona sozinha. É a primeira vez que Gabo tem medo de uma coisa que está dando certo."
 image: /capitulo_75.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz
+Localização: "Apartamento no sexto andar da Rua Nove"
 ---
 
 # Capítulo 75: Horizonte de Eventos

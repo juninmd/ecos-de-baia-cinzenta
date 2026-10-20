@@ -1,6 +1,7 @@
 ---
 image: /capitulo_7.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Roberto Miranda, Kael "O Cirurgião", Aria Moretti
+Localização: "Sala de servidores da Represa Hidrelétrica → Saída do esgoto, rua"
 ---
 # Capítulo 7: O Fim do Silêncio
 

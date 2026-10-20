@@ -23,7 +23,7 @@ Um a menos. Quatro sobrando.
 
 — *Interferência de protocolo em curso,* — a voz sintética e oca de Aria cortou o zumbido remanescente pelo comunicador de gola de Gabo.
 
-Abaixo dele, no pulso de Valéria, o pendrive blindado de titânio fosco e polímero negro aqueceu subitamente, o LED azul-gelo piscando como um estroboscópio enquanto Aria usava o transmissor de curto alcance do cyberdeck *Phantom V3* e o próprio cabo de fibra ótica espetado na malha para injetar um pulso de blefe corporativo.
+Abaixo dele, no pulso de Valéria, o pendrive blindado aqueceu subitamente, o LED azul-gelo piscando como um estroboscópio enquanto Aria usava o transmissor de curto alcance do cyberdeck *Phantom V3* e o próprio cabo de fibra ótica espetado na malha para injetar um pulso de blefe corporativo.
 
 O segundo drone, que saltava em direção à cabeça de Valéria com duas pernas de carbono afiadas em riste, travou os servomotores em pleno ar por meio segundo — seus receptores ópticos piscando em conflito entre a ordem orgânica do Taxidermista e o código de parada de emergência que Aria acabara de falsificar.
 
@@ -51,7 +51,7 @@ Dois tiros rápidos, engolindo os tímpanos de todos no fosso. O primeiro tiro a
 
 — *Probabilidade de contenção balística esgotada: restam apenas dois projéteis no tambor,* — Aria relatou pelo fone, enquanto o feixe laser do deck de Valéria escaneava o teto sombrio logo acima deles. — *Dois alvos restantes. Recomendação tática: eliminar base de apoio estrutural. Viga transversal a dois metros acima de sua cabeça apresenta oitenta e nove por cento de corrosão ácida no pino de ancoragem leste.*
 
-Antes que os dois últimos drones pudessem convergir, Gabo entendeu o cálculo frio da IA. Os resquícios de hesitação emocional de Aria não existiam mais após o reboot do Capítulo 134; restava apenas pura geometria letal dentro daquele drive de titânio.
+Antes que os dois últimos drones pudessem convergir, Gabo entendeu o cálculo frio da IA. Os resquícios de hesitação emocional de Aria não existiam mais após o reboot da Necrópole; restava apenas pura geometria letal dentro daquele drive de titânio.
 
 — Val, segura o cabo! — Gabo rugiu, apontando o cano fumegante do mag-rail para cima, direto na junta oxidada da pesada viga de sustentação que cruzava o fosso onde os dois *Scarabs* se apoiavam.
 
