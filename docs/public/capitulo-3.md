@@ -1,5 +1,6 @@
 ---
 image: /capitulo_3.jpg
+Localização: Galpão do Setor 4, Distrito Industrial
 Personagens Presentes: Gabriel "Gabo" Moretti, Capitão Jonas Vilar, Valéria "Val" Cruz
 ---
 # Capítulo 3: Teatro de Carne
@@ -10,19 +11,19 @@ Gabriel Moretti passou por baixo da fita, o sobretudo de couro sintético pesado
 
 Ele notou dois agentes da Corregedoria em ternos cinza impecáveis — secos, apesar da chuva — observando do canto, tomando notas em tablets. Abutres.
 
-— Está atrasado, "Herói". O show já começou — disse o Capitão Vilar, interceptando-o antes que os agentes o fizessem. — E temos plateia. O Dantas mandou os cães de guarda dele para garantir que você siga o protocolo. Nada de "intuição" hoje, Gabriel. Quero Luvas, propés e cadeia de custódia assinada.
+— O Dantas tem seu nome no relatório da primeira foto — disse Jonas Vilar, parando entre Gabo e os dois agentes. — Não vai ser você quem recolhe as provas desta vez. Luvas, propés. E nada sai daqui sem recibo.
 
-Gabo ignorou o comentário sobre a plateia, embora seu pescoço tenha ficado tenso. Ele puxou um frasco de colírio barato do bolso e pingou duas gotas em cada olho. O ardor no globo ocular foi instantâneo, uma dor aguda que limpou sua mente por um segundo.
+Ao puxar a luva, Gabo prendeu o tecido no corte dos nós dos dedos. A bolha na palma latejou. A mão que tirara o módulo da cabine agora mal tolerava o látex; ele pediu uma gaze antes de calçar a luva. Um dos agentes anotou alguma coisa.
 
-— O trânsito no Distrito da Névoa estava um inferno, Jonas. E meu carro... — Gabo olhou para o Cobalt estacionado na esquina, ainda piscando os faróis de forma errática. — Meu carro decidiu ter vontade própria no caminho para cá.
+— A Costeira está alagada. E meu carro... — Gabo olhou para o *Cobalt*, cujos faróis ainda piscavam na esquina. — Precisa que a Cruz examine o que o módulo deixou no painel. Depois daqui.
 
 — Problemas na injeção?
 
-— Problemas na alma da máquina. Mas esqueça. O que temos?
+— Alguma coisa querendo dirigir por mim. O que temos aqui?
 
-— Arte. Pura e doente arte. Mas cuidado. Se você espirrar errado, eles vão usar isso para tirar seu distintivo. O promotor já ligou três vezes. Ele quer "eficiência cirúrgica", o que significa que se não resolvermos isso em 48 horas, ele vai arquivar como "acidente industrial" para não assustar os investidores da Aeterna.
+— Outro morto. O promotor deu quarenta e oito horas antes de aceitar a versão de acidente industrial. Seu prazo de vinte e quatro para perder o primeiro caso continua correndo. Se eu juntar os dois sem fundamento, entrego os dois ao Dantas.
 
-Eles entraram, vestindo os trajes de proteção completos que chiavam com o movimento. Gabo odiava aquilo; isolava os sentidos, abafava o som, o cheiro. Investigação era contato, era sentir o ar. Mas com a Corregedoria fungando no cangote, ele vestiu o maldito macacão.
+Entraram com os trajes de proteção chiando. A viseira abafava as vozes; o suor começava a esfriar entre as omoplatas. Gabo manteve a mão direita aberta, poupando a queimadura.
 
 O galpão era vasto, uma catedral de indústria morta. Fotógrafos forenses circulavam o corpo, flashes estourando como relâmpagos artificiais, documentando cada ângulo antes que alguém tocasse em qualquer coisa.
 
@@ -32,13 +33,13 @@ Não era apenas um corpo. Era uma instalação.
 
 Um rapaz, talvez dezenove anos, suspenso por fios de monofilamento invisíveis, flutuando a meio metro do chão. Seus braços estavam abertos, mas não como um cristo; como uma marionete esperando o comando.
 
-O peito havia sido aberto. As costelas, separadas cirurgicamente e mantidas abertas por afastadores de prata polida. Dentro, não havia coração, pulmões ou estômago. Havia o vazio, preenchido meticulosamente com engrenagens de relógios antigos, molas de latão e tubos de vácuo que brilhavam com uma luz âmbar fraca.
+O peito fora aberto; afastadores de prata mantinham as costelas separadas. No espaço dos órgãos, engrenagens de relógio, molas de latão e tubos de vácuo ainda emitiam uma luz âmbar. Uma roda dentada tentava completar a volta, prendia, tornava a tentar.
 
-— O Taxidermista — sussurrou Gabriel, sentindo o estômago revirar. Não pelo sangue, mas pela precisão. Não havia frenesi ali. Havia paciência.
+— O Taxidermista — disse Gabo. O apelido circulava nos plantões, junto das histórias de corpos refeitos. Nunca soubera onde terminava o boletim e começava a lenda.
 
-— Olhe o detalhe — disse Vilar, apontando para a incisão. — Ele substituiu órgãos falhos por mecanismos eternos.
+— Ainda não escreva esse nome — disse Vilar. — Olhe primeiro. Compare depois.
 
-— "A Evolução é o nosso Negócio" — citou Gabriel, a voz pingando ácido. Era o slogan da Aeterna Corp, pintado em cada maldito dirigível da cidade. — Esse desgraçado não está apenas matando, Jonas. Ele está fazendo uma sátira. Ou pior... uma proposta de emprego.
+— "A Evolução é o nosso Negócio." — O slogan da Aeterna lhe veio à boca antes que conseguisse impedir. A engrenagem tornou a travar. — Ou alguém quer que a gente pense neles.
 
 — Tem mais — disse Vilar, apontando para o rosto da vítima.
 
@@ -56,29 +57,29 @@ Sentada em posição de lótus, cercada por cabos físicos conectados a um termi
 
 — Detetive Cruz — cumprimentou Gabo, surpreso. — Achei que você estivesse confinada no porão da Cybercrimes.
 
-Valéria levantou os olhos, um azul elétrico brilhando nas lentes de contato inteligentes.
+Valéria ergueu os olhos. A luz azul das lentes de contato recortou a viseira; a franja de fios luminosos escapava do capuz de proteção.
 
-— O Dantas me soltou da coleira por bom comportamento. E porque ninguém mais na divisão sabe diferenciar um cabo coaxial de um macarrão instantâneo. — Ela voltou para a tela. — Não consigo rastrear o sinal wireless, é muito volátil. Mas... — Ela apontou para um conduíte enferrujado na parede. — Eu segui a interferência estática com o medidor de campo. Há um repetidor físico instalado naquele quadro de força secundário. Quem fez isso teve que vir aqui, abrir a caixa com uma chave mestra e plugar o hardware manualmente.
+— Sua requisição me soltou. Não se acostume. — Apontou o medidor de campo. — A emissão aumenta perto daquele quadro. Pode ser um repetidor ou outro aparelho na mesma frequência. Preciso testar antes de seguir o sinal para lugar nenhum.
 
-— Manualmente? — Gabo sorriu, um sorriso de predador. — Ótimo. Hardware deixa impressões digitais. Deixa rastros de DNA. Esqueça o ciberespaço, Val. Vamos desmontar aquela caixa de força e ver quem tocou nela.
+O técnico de campo desligou o circuito indicado por Valéria. As lentes pararam. Ao religá-lo, voltaram a focar; o pico no medidor acompanhou os dois movimentos. Valéria marcou o quadro na planta e pediu que o fotografassem ainda fechado.
 
-— Vou chamar a equipe de datiloscopia — disse Valéria, aliviada por ter algo tangível.
+— Agora temos onde procurar — disse ela. — Primeiro as marcas do fecho. Depois a datiloscopia, antes que alguém meta a mão.
 
 Gabriel se inclinou mais perto, encarando as lentes no rosto do morto.
 
 — O que ele está vendo? O que *eles* estão vendo?
 
-— A nós, Gabo — respondeu Valéria, sem tirar os olhos da tela. — Estão transmitindo o "Aftershow". A reação da polícia. A sua reação.
+— A câmera está voltada para nós. A transmissão está ativa. Quem recebe e quem armazena, ainda não sei. — Valéria olhou para a viseira dele. — Mas se abaixar aí, você aparece inteiro.
 
 Gabriel sentiu a raiva fria subir pelo pescoço. Ele olhou para a cavidade torácica novamente. Entre as engrenagens, algo destoava. Um pedaço de papel, preso por um alfinete de gravata, bem no lugar onde deveria estar o coração.
 
-Com uma pinça oferecida por um assistente, Gabriel puxou o papel. Era uma fotografia antiga, impressa em papel de verdade, com bordas brancas. A umidade não a tocara.
+Gabo esperou o fotógrafo registrar a posição. Foi o perito quem retirou o papel com uma pinça e o colocou na bandeja. Outra fotografia física, bordas brancas protegidas numa película transparente. A primeira continuava lacrada no compartimento do carro.
 
-A foto mostrava dois homens em frente a uma delegacia. Um era alto, com o uniforme de comissário impecável. O outro era uma criança, segurando um sorvete derretendo.
+A fotografia mostrava um homem uniformizado e um menino com um sorvete diante de uma delegacia. Diferente do parque da primeira imagem; Gabo se lembrava da escadaria.
 
 Dante Moretti. E Gabriel, aos sete anos.
 
-Mas havia algo errado. Gabriel puxou uma lupa de bolso e examinou a imagem sob a luz forense.
+Gabo pediu que aproximassem a luz. Na parede, o nome da delegacia continuava legível. A corrente do relógio desaparecia sob o punho direito do comissário. No mostrador, uma pequena janela marcava **14/10**.
 
 — O que foi? — perguntou Vilar, aproximando-se.
 
@@ -86,48 +87,52 @@ Mas havia algo errado. Gabriel puxou uma lupa de bolso e examinou a imagem sob a
 
 — E daí?
 
-— Meu pai era canhoto, Jonas. Ele *nunca* usava o relógio na direita. Dizia que atrapalhava o saque da arma. — Gabo passou o dedo sobre a imagem. — Essa foto foi manipulada. Ou então... não é o meu pai.
+— Usava na esquerda. Sempre. — Gabo não tocou na foto. — Se inverteram o negativo, inverteram só parte. A placa da delegacia está do lado certo.
 
 Vilar ficou em silêncio.
 
 — É uma montagem? — sugeriu Valéria.
 
-— Não — Gabriel balançou a cabeça. — É um código. "Direita". Ele sempre me dizia: "Se você se perder nos túneis, vire sempre à direita". — Ele virou a foto. No verso, escrito com uma caligrafia elegante e antiquada em tinta tinteiro:
+— Pode ser. Pode ser o relógio errado, ou a minha lembrança. — Olhou de novo a data. — Meu pai falava em seguir pela direita quando eu me perdia nos túneis. Se querem me dar uma direção, escolheram bem a isca. Veja o verso.
 
-*"O caminho certo é aquele que ninguém vê. Pergunte ao traidor onde ele enterrou a chave."*
+> *"O caminho certo é aquele que ninguém vê. Pergunte ao traidor onde ele enterrou a chave."*
 
 — O traidor — Vilar bufou. — Miranda?
 
-— Ele ainda está vivo? — Gabriel guardou a foto em um saco de evidências, sentindo o peso do passado esmagando suas costelas.
+— Há notícia recente dele? — O perito lacrou a foto enquanto Gabo esperava pela resposta. Sabia o nome que o bilhete queria fazê-lo dizer. Isso não tornava o bilhete verdadeiro.
 
 — A Inteligência diz que ele foi visto nos níveis inferiores. Tentando vender informações para o Sindicato. Ele conhece os túneis de drenagem da época da construção. Ninguém mapeou aquilo.
 
-Gabriel olhou para as lentes nos olhos do cadáver uma última vez. Ele se aproximou, até que seu rosto preenchesse todo o campo de visão da transmissão.
+Gabo foi se aproximar das lentes, mas parou ao ver o próprio rosto na tela do terminal. Do outro lado, alguém teria uma imagem melhor de sua reação do que ele mesmo.
 
-— Se você está me ouvindo — disse ele para a câmera, para o assassino, para a voz em seu carro — eu não vou apenas te prender. Eu vou te caçar. Vou entrevistar cada vizinho, revirar cada lata de lixo, e quando eu te encontrar, você vai desejar ter ficado no escuro.
+— Corte a transmissão, Val. Guarde a captura que conseguiu. A original, sem limpar o ruído.
 
-*Click.* O obturador disparou uma última vez, como se concordasse.
+O obturador deu um último clique. Dessa vez, não tornou a girar.
 
 — Val, o que a caixa de força nos diz? — gritou Gabo.
 
-Valéria estava com as mãos sujas de graxa, segurando um módulo transmissor queimado que ela arrancara da parede.
+Depois da coleta de marcas, o técnico depositou o módulo numa bandeja. Valéria inclinou a lupa sobre a carcaça, sem sair do lugar.
 
-— Número de série raspado, mas deixaram a etiqueta de inventário interna. — Ela usou uma lupa. — Lote 49-B. Distribuído para a manutenção dos antigos armazéns do porto.
+— Série raspada. A etiqueta interna diz 49-B. — Consultou o cadastro de manutenção. — Lote distribuído aos antigos armazéns do porto. Vários endereços. Não escolhe um assassino para nós.
 
 Gabriel semicerrou os olhos. — Armazéns do porto. Área abandonada, sem câmeras oficiais. O lugar perfeito para um estúdio de arte macabra.
 
-— Aeterna Corp é a dona do terreno — completou Vilar, lendo o relatório no tablet. — Compraram mês passado através de uma subsidiária fantasma.
+— A compra desses terrenos passou mês passado por uma subsidiária da Aeterna — disse Vilar, conferindo a matrícula anexada ao cadastro. — Isso é proprietário, Gabriel. Não autor do crime.
 
-— Aeterna — Gabriel soltou uma risada seca. — Claro. Por que seria fácil? Mas agora temos um endereço físico, tijolo e argamassa.
+— Então peça a lista de quem teve acesso aos quadros. E preserve a requisição antes que mude de dono.
 
-Ele se virou para sair, tirando as luvas com violência.
+Vilar recebeu o aviso no tablet e virou a tela: **CONSULTA EXTERNA REGISTRADA — TITULAR NOTIFICADO**. O silêncio entre os três durou até a roda dentada tentar outra volta. Aeterna acabava de saber o que tinham procurado. O perito enviou ao comunicador de Gabo a reprodução da fotografia da delegacia. Os originais seguiam lacrados: o da delegacia na bandeja, o do parque no compartimento do carro. Gabo tirou as luvas devagar.
 
 — Onde você vai? — gritou Vilar.
 
-— Vou fazer uma visita à família. Parece que meu irmão e seus novos amigos têm um gosto peculiar por arte moderna.
+— À Torre da Aeterna. Meu irmão tem amigos lá. Quero ver quem explica as duas fotografias.
 
 — Moretti! Você não tem mandado! Isso é suicídio político!
 
 Gabriel parou na porta do galpão, a silhueta recortada contra a chuva torrencial. Ele apertou o Colar de Sol mais uma vez.
 
-— A política morreu com o meu pai, Jonas. Agora só sobrou a limpeza.
+Antes de sair, recolheu o módulo do painel do *Cobalt* e o acoplou ao comunicador tático. A Cruz ficaria com o registro da sessão e o resto da análise.
+
+— Para entrar num galpão. Para falar com meu irmão, ainda não preciso.
+
+Na tela de Vilar, a confirmação de leitura substituiu o aviso de entrega.

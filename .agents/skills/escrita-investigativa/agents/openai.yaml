@@ -1,0 +1,4 @@
+interface:
+  display_name: "Escrita investigativa"
+  short_description: "Mistério, noir e cyberpunk com continuidade narrativa"
+  default_prompt: "Use $escrita-investigativa para escrever ou revisar o capítulo solicitado de Ecos de Baía Cinzenta, verificando pistas, cânone e qualidade editorial."
