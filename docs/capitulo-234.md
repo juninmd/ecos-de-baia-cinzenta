@@ -15,13 +15,13 @@ A Dra. Vance parou com a xícara de lata a dois centímetros da boca.
 
 — Esse harmônico não é de gerador a diesel — ela disse, sem alterar o tom. — É a linha auxiliar da Subestação Orla Norte. O circuito de purga térmica.
 
-Valéria já estava ajoelhada junto à carcaça do osciloscópio militar que Kiko Vibe havia deixado anos atrás. Os implantes nas bochechas dela pulsavam num azul rápido e doente, e os olhos prateados faziam microajustes focais com um zumbido seco.
+Valéria já estava ajoelhada junto à carcaça do osciloscópio militar encostada na parede desde antes do Dilúvio. Os fios de LED na franja dela pulsavam num azul rápido e doente, e os olhos prateados faziam microajustes focais com um zumbido seco.
 
 — Frequência portadora em quatrocentos e sessenta megahertz — disse Valéria, a voz reta pelo Modo de Segurança. — Carga indutiva subindo doze por cento a cada três minutos. Em duas horas, a capacitância atinge o limiar de ignição.
 
 — Traduz, Val — pedi, com a mão esquerda apertando a tipoia onde meu ombro quebrado pulsava em pontadas quentes.
 
-— Protocolo Crepúsculo — respondeu a Dra. Vance, levantando-se da cadeira de aço com a lentidão das juntas gastas. — O plano de contingência que meu pai desenhou quando a Aeterna percebeu que um arquivo físico não podia ser hackeado. Se o material saísse do berço, a subestação canalizaria a descarga dos capacitores marítimos direto para as galerias de drenagem sob este galpão. Uma tempestade de micro-ondas de alta intensidade.
+— Protocolo Crepúsculo — respondeu a Dra. Vance, girando a cadeira de aço com a lentidão das juntas gastas. — O plano de contingência que meu pai desenhou quando a Aeterna percebeu que um arquivo físico não podia ser hackeado. Se o material saísse do berço, a subestação canalizaria a descarga dos capacitores marítimos direto para as galerias de drenagem sob este galpão. Uma tempestade de micro-ondas de alta intensidade.
 
 Olhei para as quatro toneladas de papel empilhadas.
 
