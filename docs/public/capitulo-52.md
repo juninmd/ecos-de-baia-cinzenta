@@ -47,7 +47,7 @@ Ela levantou a cabeça. Quando viu o rosto dele, o reconhecimento demorou um seg
 
 Gabo tentou tocá-la, mas ela se encolheu como se ele fosse fogo.
 
-— Onde você estava? — ela gritou, a voz quebrando em soluços secos. — Onde você estava quando a mãe morreu gritando de dor sem remédio? Onde você estava quando eu tive que vender minha assinatura biológica pra esse porco pra pagar a cremação?
+— Onde você estava? — ela gritou, a voz quebrando em soluços secos. — Onde você estava quando a mãe morreu sem remédio, sem ninguém além de mim? Onde você estava quando eu tive que vender minha assinatura biológica pra esse porco pra comprar insulina que ele já tinha negado pra ela?
 
 — Clara, eu não sabia... eu juro... eu estava...
 
