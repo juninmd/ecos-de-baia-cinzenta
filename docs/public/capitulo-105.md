@@ -7,7 +7,7 @@ Localização: "Delegacia da Biblioteca - Zona Neutra"
 
 **Delegacia da Biblioteca - Zona Neutra**
 
-A viagem de volta foi um borrão de silêncio. Gabo dirigia o velho Cobalt azul, o motor engasgando a cada quilômetro, como se o próprio carro sentisse o peso do passageiro no banco de trás.
+O Cobalt esperava onde Gabo o tinha deixado, duas quadras acima do bueiro. A viagem de volta foi um borrão de silêncio. Dante dispensara a viatura na primeira esquina — desceu do carro de Rangel sem uma palavra de explicação, entrou e sentou-se atrás, como quem volta para casa. Gabo dirigia com o motor engasgando a cada quilômetro, como se o próprio carro sentisse o peso do passageiro no banco de trás.
 
 Dante Moretti não disse uma palavra. Ele apenas observava a cidade passando pela janela suja. Seus olhos, agora inseridos em um corpo biológico jovem e forte, capturavam cada detalhe: os prédios desmoronados, as fogueiras dos sem-teto, as barricadas da resistência. Não havia julgamento em seu olhar, apenas processamento.
 
@@ -133,4 +133,4 @@ Gabo sorriu, sentindo uma lágrima quente escorrer pela barba suja.
 
 — O firewall mudou de dono — disse Gabo, apertando a mão dela. — Descanse, Val. Vamos precisar desse seu cérebro gigante em breve.
 
-Val fechou os olhos, a respiração estabilizando. Ela não estava petrificada. Ela estava viva. E pela primeira vez em meses, Gabo sentiu que talvez, apenas talvez, eles tivessem uma chance.
+Val fechou os olhos, a respiração estabilizando. Gabo ficou ao lado dela até o soro acabar. Acima do teto, o zumbido dos geradores mudou de tom: firme, contínuo, como uma máquina que tinha aprendido a respirar sozinha.
