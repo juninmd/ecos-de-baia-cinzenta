@@ -45,7 +45,7 @@ O caule saía de dentro da pele.
 
 — Val, a Nise tem o coquetel, a gente volta e—
 
-— **Gabo.** — Ela levantou a mão direita e mostrou os dedos. Eles estavam abertos e não fechavam mais que a metade. — Já está no nervo. Eu perdi a extensão dos dedos há uns quarenta minutos e não falei nada porque a gente ainda tinha ladeira.
+— **Gabo.** — Ela levantou a mão direita, a que estava limpa, e mostrou os dedos. Eles estavam abertos e não fechavam mais que a metade. — Já está no nervo. Eu perdi a extensão dos dedos há uns quarenta minutos e não falei nada porque a gente ainda tinha ladeira.
 
 Ela sentou no degrau.
 
@@ -73,7 +73,7 @@ Ela sacou as duas pistolas e conferiu.
 
 Gabo olhou para ela.
 
-Valéria Cruz. Vinte e cinco anos agora. A melhor hacker que aquela cidade produziu, que foi cortada da rede aos dezenove e passou cinco meses sozinha num quarto, que remontou um comunicador com peça de sucata e reza, que caiu trinta metros em cima de um exoesqueleto sem gritar na descida, que matou três homens num corredor aos vinte e três e escreveu os nomes deles com a mão tremendo.
+Valéria Cruz. Vinte e três anos agora. A melhor hacker que aquela cidade produziu, que foi cortada da rede aos dezenove e passou cinco meses sozinha num quarto, que remontou um comunicador com peça de sucata e reza, que caiu trinta metros em cima de um exoesqueleto sem gritar na descida, que matou três homens num corredor aos vinte e três e escreveu os nomes deles com a mão tremendo.
 
 A parceira dele.
 
