@@ -21,17 +21,17 @@ Elias soltou um riso nervoso, enxugou o suor gélido da testa com a manga e se p
 
 — Eu tô de pé, Valéria... eu tô de pé.
 
-Caminhamos pelo corredor escavado na rocha nua. As paredes eram cobertas por uma couraça impenetrável de placas de chumbo escurecidas pelo tempo, fixadas por rebites industriais do tamanho de punhos fechados. A poeira que cobria o chão não tinha a cor alaranjada da Praga de Ferro nem a textura viscosa do Jardim; era uma cinza pura, mineral, acumulada ao longo de quase um século de isolamento total.
+Caminhamos pelo corredor escavado na rocha nua. As paredes eram cobertas por uma couraça impenetrável de placas de chumbo escurecidas pelo tempo, fixadas por rebites industriais do tamanho de punhos fechados. A poeira que cobria o chão não tinha a cor alaranjada da Praga de Ferro nem a textura viscosa do Jardim; era uma cinza pura, mineral, acumulada ao longo de seis décadas de isolamento total.
 
 E então, o feixe da lanterna de Valéria parou sobre a parede frontal da câmara.
 
-A estrutura ocupava toda a extensão do vão. Era uma porta de explosão ciclópica, perfeitamente circular, com cinco metros de diâmetro, forjada em liga de titânio escuro e revestida por chapas de chumbo de quatro polegadas de espessura. No centro do círculo de metal maciço, fundida em alto-relevo na fundição original, repousava a insígnia arcaica da Aeterna Corp de 1922: um triângulo brutalista interceptado por três linhas verticais, anterior a qualquer neon ou propaganda do Distrito de Prata.
+A estrutura ocupava toda a extensão do vão. Era uma porta de explosão ciclópica, perfeitamente circular, com cinco metros de diâmetro, forjada em liga de titânio escuro e revestida por chapas de chumbo de quatro polegadas de espessura. No centro do círculo de metal maciço, fundida em alto-relevo na fundição original, repousava a insígnia arcaica da Aeterna Corp: um triângulo brutalista interceptado por três linhas verticais, anterior a qualquer neon ou propaganda do Distrito de Prata.
 
 — O Útero de Chumbo, — sussurrou Valéria, aproximando-se da blindagem com a lanterna erguida. Ela passou a ponta dos dedos enluvados sobre a solda das chapas, o rosto iluminado por um espanto genuíno. — Esta liga foi feita pra resistir a explosões de impacto direto e tremores tectônicos de magnitude extrema. Não tem fechadura eletrônica, não tem leitor de retina, não tem rede de silício. É mecânica pura, analógica, do tempo em que as máquinas eram construídas pra durar mais que a própria civilização.
 
 — Uma tumba sem janelas, — murmurei, avaliando o monumental volante de travamento no centro da folha de aço. — Projetada pra trancar o que quer que estivesse lá dentro longe dos olhos do mundo.
 
-— Ou pra proteger quem tava lá dentro do que ia acontecer lá fora, Moretti, — Valéria contra-atacou, apontando o feixe para o conjunto de contrapesos hidráulicos que desciam pelas laterais do batente. — O diário do arquivo executivo dizia que o Projeto Gênesis não começou na Torre; começou aqui embaixo quando a cidade ainda era uma baía de pântano e indigentes.
+— Ou pra proteger quem tava lá dentro do que ia acontecer lá fora, Moretti, — Valéria contra-atacou, apontando o feixe para o conjunto de contrapesos hidráulicos que desciam pelas laterais do batente. — O arquivo executivo dizia que o Projeto Gênesis não começou na Torre; começou aqui embaixo quando a cidade ainda era uma baía de pântano e indigentes.
 
 Aproximei-me do volante de metal forjado. Tinha quase um metro e meio de diâmetro, com raios grossos de ferro fundido cobertos por graxa seca de vedação.
 
@@ -67,4 +67,4 @@ Valéria deu um passo à frente, os olhos prateados arregalados e a boca aberta 
 
 — Não tem ferrugem... não tem colapso... — sussurrou ela. — Moretti... nós encontramos a Arca.
 
-— Então vamos entrar antes que a porta perceba que não somos os donos da casa, — ordenei, empurrando a chapa pesada com o ombro mecânico e liderando o caminho para dentro da câmara proibida.
+— Então vamos entrar antes que a porta perceba que não somos os donos da casa, — ordenei, passando pela fresta e liderando o caminho para dentro da câmara proibida.
