@@ -9,7 +9,7 @@ Localização: "Estacionamento subterrâneo da Rua Quatro → Ruas da cidade (Ru
 
 # Capítulo 33: A Sabedoria da Ferrugem
 
-A cidade sem luz era outro bicho.
+No oitavo dia sem energia, a cidade era outro bicho.
 
 Não era a mesma cidade mais escura: era um animal diferente, com outra anatomia. Beco que Gabo conhecia de cor virava abismo. Esquina que ele usava como referência havia quinze anos deixava de existir, porque o que marcava a esquina era o letreiro da farmácia, e o letreiro da farmácia era luz.
 
@@ -33,7 +33,7 @@ No caminho passaram por três carros autônomos parados no meio da via com as po
 
 E passaram por uma fila.
 
-Essa foi a parte que Gabo não esqueceu: às onze da noite, no oitavo dia sem energia, havia uma fila de quarenta pessoas em silêncio na porta de um posto de gasolina, com galões, baldes e garrafa de refrigerante na mão. Ninguém empurrava. Ninguém falava.
+Essa foi a parte que Gabo não esqueceu: às onze da noite, havia uma fila de quarenta pessoas em silêncio na porta de um posto de gasolina, com galões, baldes e garrafa de refrigerante na mão. Ninguém empurrava. Ninguém falava.
 
 A cidade tinha entendido a coisa mais rápido do que ele.
 
@@ -181,7 +181,7 @@ Val estava calada no banco de trás, o que não era normal.
 
 — Vai. — Gabo virou na Rua Seis, sem farol, guiando pela memória. — E daqui a duas semanas onze famílias vão sair da Zona Baixa dentro dos carros que ele guardou, e nenhuma delas vai saber o nome dele.
 
-Elena olhou para o irmão de lado, no escuro, e não disse nada.
+Elena olhou para ele de lado, no escuro, e não disse nada.
 
 No colo dela, o molho de chaves fazia barulho a cada buraco da rua.
 
