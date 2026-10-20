@@ -39,7 +39,7 @@ O impacto da massa de ferro forjado contra o bloco de gelo fragilizado soou como
 
 Simultaneamente, enfiei o cano duplo da *Caronte* na brecha aberta e apertei os dois gatilhos.
 
-A explosão de chumbo grosso e tungstênio à queima-roupa desintegrou os cabos condutores e as raízes centrais em uma tempestade de fogo e estilhaços fumegantes. O choque térmico do disparo contra o ambiente sub-zero fez as camadas adjacentes de metal e madeira fóssil entrarem em colapso catastrófico. Um buraco de um metro e meio abriu-se no centro da barricada, revelando o corredor limpo que conduzia diretamente aos portões do Hub Principal.
+A explosão de chumbo grosso e tungstênio à queima-roupa desintegrou os cabos condutores e as raízes centrais em uma tempestade de fogo e estilhaços fumegantes. O pulso sônico já quebrara a continuidade entre os condutores: a corrente residual morreu no primeiro elo rompido, e da brecha saiu fumaça, não arco. O choque térmico do disparo contra o ambiente sub-zero fez as camadas adjacentes de metal e madeira fóssil entrarem em colapso catastrófico. Um buraco de um metro e meio abriu-se no centro da barricada, revelando o corredor limpo que conduzia diretamente aos portões do Hub Principal.
 
 Duas ramificações biomecânicas grossas chicotearam para fora das bordas da fenda, tentando agarrar o cano quente da escopeta e os tornozelos de Elias.
 
