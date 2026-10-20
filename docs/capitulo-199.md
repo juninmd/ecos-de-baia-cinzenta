@@ -23,7 +23,7 @@ Elias tropeçou nos próprios pés, desabando de cara na lama da vala.
 
 — Minha perna... eu torci o tornozelo! — ele gritou em pânico, cobrindo a cabeça com as mãos sujas enquanto a aberração aterrissava a cinco metros dele, com as mandíbulas de aço serrilhado sibilando.
 
-— Levanta, Elias! — Valéria avançou sem hesitar, posicionando-se entre o velho caído e a criatura, atirando nos joelhos articulados do monstro. — Gabo! As pernas da besta são recicladas de chassi leve! As juntas de teflon tão expostas!
+— Levanta, Elias! — Valéria avançou sem hesitar, posicionando-se entre Elias caído e a criatura, atirando nos joelhos articulados do monstro. — Gabo! As pernas da besta são recicladas de chassi leve! As juntas de teflon tão expostas!
 
 Aproximei-me da carcaça de um pilar caído, onde um vergalhão de construção de duas polegadas e um metro e meio de comprimento despontava da alvenaria estraçalhada. Enfiei os garras da armação pesada na base do ferro e puxei com toda a tração dos motores hidráulicos de cais.
 
@@ -39,7 +39,7 @@ A quimera ignorou os disparos de Valéria e saltou direto contra o pescoço dela
 
 — Elias, a chave sônica! — berrei, correndo manco com todo o peso do meu corpo impulsionado para a frente. — Agora!
 
-O velho estivador no chão, impulsionado pelo puro desespero de sobrevivência, sacou a ferramenta do cinto e disparou a bobina de sobretensão invertida direto na poça d'água onde a criatura fincava as patas traseiras.
+O técnico no chão, impulsionado pelo puro desespero de sobrevivência, sacou a ferramenta do cinto e disparou a bobina de sobretensão invertida direto na poça d'água onde a criatura fincava as patas traseiras.
 
 A descarga de ressonância acústica e eletricidade de alta frequência explodiu na água ácida.
 
@@ -83,7 +83,7 @@ Olhei para trás. Cem metros pelo túnel, outros três vultos aracnídeos saltav
 
 Disparamos pelos últimos cinquenta metros de trilhos sob uma chuva de faíscas e goteiras ácidas. Alcançamos a comporta blindada de duas folhas do Poço de Elevação Três, empurramos o corpo trêmulo de Elias para dentro e nos lançamos pela soleira bem no instante em que a primeira garra de cerâmica riscava a chapa externa.
 
-Puxamos a alavanca mestra de travamento com os dois braços mecânicos unidos.
+Puxamos a alavanca mestra de travamento — eu com a mão esquerda, Valéria com as duas.
 
 *CLANK-BOOM.*
 
