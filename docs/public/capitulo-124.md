@@ -33,7 +33,7 @@ Gabo largou a mochila sobre uma mesa de trabalho coberta de esquemas técnicos.
 
 — Eu trouxe. Tudo o que Vasco tinha.
 
-Ele foi até o sofá de couro rasgado onde Rangel jazia. O ex-inspetor parecia menor. A pele, geralmente rubicunda, estava cinzenta e úmida. O curativo no ombro estava empapado de um fluido escuro que cheirava a cobre e podridão.
+Ele foi até a mesa de metal onde Rangel jazia. O ex-inspetor parecia menor. A pele, geralmente rubicunda, estava cinzenta e úmida. O curativo no ombro estava empapado de um fluido escuro que cheirava a cobre e podridão.
 
 — Sepse — Gabo murmurou, tocando a testa de Rangel. Estava fervendo. — Precisamos drenar e bombear isso agora.
 
