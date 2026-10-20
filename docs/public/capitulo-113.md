@@ -93,6 +93,10 @@ Ela puxou a mão de volta primeiro. Não com brusquidão — do jeito de quem gu
 
 — Sessenta e um graus — disse. — O drive aguenta. Eu é que não sei.
 
+— E se esquentar mais? — perguntou Gabo.
+
+— O anel de contenção queima antes do núcleo. É para isso que ele existe. — Ela encostou o dedo no titânio e o retirou rápido. — O problema é que ele só tem um.
+
 Gabo não respondeu. Enfiou a mão na dobra do sobretudo, onde ninguém podia ver o tremor.
 
 — Estamos dentro — disse Rangel pelo rádio, sua voz aliviada, mas sombria. — Bem-vindos ao inferno, crianças. A Usina Prometeu é logo à frente.
