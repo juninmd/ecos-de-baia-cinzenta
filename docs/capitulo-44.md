@@ -4,6 +4,7 @@ title: "Capítulo 44: O Que Saiu do Ralo"
 description: "Dois cartuchos, cinco criaturas e uma escolha entre duas caixas. No depósito da Alfândega, Gabo descobre o que a Aeterna fazia com quem sobrava."
 image: /capitulo_44.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti
+Localização: "Depósito da Alfândega, Cais Três — Nível 20"
 ---
 
 # Capítulo 44: O Que Saiu do Ralo

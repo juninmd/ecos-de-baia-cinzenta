@@ -3,6 +3,7 @@ title: "Capítulo 128: O Ventre da Besta"
 date: "2078-11-04"
 location: "Catedrais de Pedra (Nível 5) - Rede de Drenagem Profunda"
 Personagens Presentes: Gabo, Valéria, Aria (Glitch Bia Vargas), Rangel (Inconsciente)
+Localização: "Catedrais de Pedra (Nível 5) → Estação de Bombeamento"
 ---
 
 # Capítulo 128: O Ventre da Besta

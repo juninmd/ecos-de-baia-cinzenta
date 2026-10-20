@@ -4,6 +4,7 @@ title: "Capítulo 83: Raízes"
 description: "O mapa das ocorrências desenha uma espiral, e o centro dela não é a Torre. É o Memorial do Dilúvio — construído em cima de quatro mil mortos."
 image: /capitulo_83.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Capitão Jonas Vilar, Dra. Nise
+Localização: "Gabinete do prefeito interino — 09h"
 ---
 
 # Capítulo 83: Raízes

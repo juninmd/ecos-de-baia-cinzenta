@@ -4,6 +4,7 @@ title: "Capítulo 50: O Silêncio da Chuva"
 description: "Helena Moretti morre do outro lado da cidade enquanto o filho está aberto numa mesa. Clara faz tudo sozinha — e cobra a conta em silêncio."
 image: /capitulo_50.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Clara Moretti, Valéria "Val" Cruz, Helena Moretti, Dra. Nise
+Localização: "Apartamento da família Moretti, Rua Vinte e Dois → Porão da Delegacia Central"
 ---
 
 # Capítulo 50: O Silêncio da Chuva

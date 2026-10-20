@@ -4,6 +4,7 @@ title: "Capítulo 56: O Preço do Amanhã"
 description: "Elena vai embora, e Gabo descobre a data no rodapé de uma planta de reurbanização: o Dilúvio não foi tragédia. Foi entrega de terreno."
 image: /capitulo_56.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Aria
+Localização: "Posto de gasolina abandonado, Zona Industrial"
 ---
 
 # Capítulo 56: O Preço do Amanhã

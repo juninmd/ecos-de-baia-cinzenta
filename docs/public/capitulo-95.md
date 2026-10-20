@@ -4,6 +4,7 @@ title: "Capítulo 95: Sacrifício Necessário"
 description: "Uma flor roxa brota no pulso da Val a trezentos metros do fim. E, no fundo do bunker, um homem fundido a uma árvore explica por que ele é a cura."
 image: /capitulo_95.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Silas Vance ("O Jardineiro")
+Localização: "Bunker do Projeto Gênesis — Salão Principal"
 ---
 
 # Capítulo 95: Sacrifício Necessário

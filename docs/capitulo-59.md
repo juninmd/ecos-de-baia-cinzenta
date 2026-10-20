@@ -4,6 +4,7 @@ title: "Capítulo 59: A Fundação"
 description: "Sob a Nova Baía não há alicerce de prédio. Há um data center refrigerado pela mesma água que afogou a cidade — e as luzes dos servidores têm nome."
 image: /capitulo_59.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Aria
+Localização: "Subsolo do Distrito da Névoa"
 ---
 
 # Capítulo 59: A Fundação

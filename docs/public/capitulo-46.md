@@ -4,6 +4,7 @@ title: "Capítulo 46: O Dilúvio"
 description: "Oito máquinas de guerra de sessenta anos chegam à Orla Norte. Duas nunca chegam. E o Imperador fala com uma cidade que não sabe quem ele é."
 image: /capitulo_46.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Capitão Jonas Vilar
+Localização: "Dia oito. Orla Norte"
 ---
 
 # Capítulo 46: O Dilúvio

@@ -4,6 +4,7 @@ title: "Capítulo 80: A Autópsia de um Deus"
 description: "Nise abre o servidor onde Dante morreu e encontra fungo crescendo em cima dos chips — comendo dados e transformando informação em carne."
 image: /capitulo_80.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Dra. Nise, Capitão Jonas Vilar, Dante Moretti
+Localização: "Laboratório subterrâneo da Torre Aeterna — 18h"
 ---
 
 # Capítulo 80: A Autópsia de um Deus

@@ -4,6 +4,7 @@ title: "Capítulo 33: A Sabedoria da Ferrugem"
 description: "Gabo desce para buscar um carro velho e sobe com uma frota, uma dívida e a descoberta de que a cidade agora depende de quem ela aposentou."
 image: /capitulo_33.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Valéria "Val" Cruz
+Localização: "Estacionamento subterrâneo da Rua Quatro → Ruas da cidade (Rua Seis)"
 ---
 
 # Capítulo 33: A Sabedoria da Ferrugem

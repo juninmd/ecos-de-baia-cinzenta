@@ -1,6 +1,7 @@
 ---
 image: /capitulo_23.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Roberto Miranda, Valéria "Val" Cruz, Elena Moretti, Beatriz "Bia" Vargas, Dante Moretti
+Localização: "Palácio de Jade, Zona Industrial"
 ---
 # Capítulo 23: Ratos e Reis
 
@@ -160,4 +161,4 @@ Gabo sentiu o peso do que estava por vir. As palavras de Miranda, seu último mo
 
 *Se você o matar... você mata a todos nós.*
 
-O caminho para a salvação estava pavimentado com mais do que apenas boas intenções.
+A viatura passou por eles com a sirene apagada. O policial ao volante virou a cabeça e olhou o Cobalt por dois segundos a mais do que devia. Gabo acelerou, e ninguém no carro perguntou para onde.

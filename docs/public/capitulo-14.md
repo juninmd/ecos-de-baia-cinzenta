@@ -1,12 +1,23 @@
 ---
 image: /capitulo_14.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Prefeito Augusto Vale, O Gamemaster
+Localização: "Furgão blindado sob o viaduto da Zona Industrial → Ruas da Zona Industrial"
 ---
 # Capítulo 14: Caçada ao Invisível
 
 A suspensão de Gabriel durou doze horas. Tempo suficiente para limpar a arma, beber café ruim e perceber que não conseguia ficar parado.
 
 Ele e Valéria estavam estacionados em um furgão blindado (roubado da frota de apreensão da polícia) sob o viaduto da Zona Industrial.
+
+O café estava na garrafa térmica desde a noite anterior e tinha gosto de metal aquecido. Ele bebeu mesmo assim, olhando a rua pelo vidro fumê, e sentiu o corpo protestar em três lugares diferentes: a nuca, o joelho e o ponto onde a coronha da escopeta tinha batido no ombro.
+
+— Você dormiu? — perguntou Valéria sem tirar os olhos do teclado.
+
+— Em parcelas.
+
+— Quanto tempo?
+
+— O suficiente para sonhar que estava acordado.
 
 — O chip que achamos na Torre — disse Valéria, digitando em um teclado físico. Seus implantes brilhavam com intensidade máxima. — Ele tem um receptor passivo. Ele só ativa quando recebe um sinal específico.
 
@@ -35,6 +46,10 @@ Gabriel leu. Era um contrato aberto, mas com detalhes doentios.
 
 — Gabo, não é piada. — Valéria estava pálida. — O contrato não é para mercenários. É aberto ao *público*. Qualquer um com uma arma e uma câmera pode tentar nos matar.
 
+— E cada um deles acha que é o herói da própria transmissão — disse Gabriel.
+
+— Pior. — Ela apontou o número de visualizações que já corria no rodapé da tela. — Eles acham que estão do lado certo porque tem gente assistindo. O algoritmo não paga ódio. Paga atenção. A crueldade é só o jeito mais barato de conseguir.
+
 De repente, o furgão balançou. Uma batida forte na lateral.
 
 — Abram! Sabemos que estão aí! — gritou uma voz.
@@ -49,6 +64,14 @@ Gabriel olhou pelo monitor externo. Eram três adolescentes. Um segurava um taco
 
 Mais pessoas começaram a chegar. Um mecânico com uma chave inglesa gigante. Uma dona de casa com uma faca de cozinha. Um grupo de punks com correntes. Todos olhando para seus celulares, seguindo o ponto vermelho no mapa.
 
+O mecânico parou a três metros do furgão, com a chave inglesa pendurada na mão como um sino que ele não sabia tocar.
+
+— Não é pessoal, detetive — gritou ele. — É que a recompensa banca a operação da minha filha.
+
+— E se eu te der o dinheiro? — Gabriel abriu a janela uma fresta de dois dedos.
+
+— Você não tem o dinheiro. — O mecânico pareceu genuinamente triste. — E a operação é amanhã.
+
 — Temos que sair daqui — disse Gabriel, ligando o motor.
 
 — Se atropelarmos eles, vamos dar audiência — avisou Valéria.
@@ -58,6 +81,10 @@ Mais pessoas começaram a chegar. Um mecânico com uma chave inglesa gigante. Um
 Gabriel engatou a ré e pisou fundo. O furgão cantou pneu e disparou para trás, derrubando uma pilha de latas de lixo e assustando a multidão.
 
 O streamer continuou correndo atrás deles, rindo.
+
+Um dos punks se pendurou no para-choque. Gabriel viu o rosto dele no retrovisor: um garoto de talvez dezesseis anos, adesivo de patrocinador no capacete, boca aberta num grito que era metade medo, metade alegria. Gabriel freou de propósito. O garoto caiu, rolou, levantou — e continuou filmando.
+
+A cidade tinha transformado a morte em entretenimento, e o pior era que funcionava.
 
 — "Eles estão fugindo! Covardes!"
 
@@ -71,6 +98,12 @@ Um caminhão de lixo cruzou o caminho deles. Gabriel freou bruscamente. O furgã
 
 Eles pararam de frente para uma parede de drones que flutuavam silenciosamente, filmando.
 
+Eram uns quarenta aparelhos do mesmo modelo barato de entrega, reformados com uma lente e um transmissor. Não eram da Aeterna. Eram de gente que alugava drones por hora, como se aluga um gerador.
+
+— Eles não precisam de exército — disse Valéria, a voz sumindo. — Precisam de plateia. A plateia é o exército.
+
+Gabriel olhou os pequenos olhos de plástico flutuando na chuva e sentiu vontade de apagar a própria cara do mapa.
+
 E atrás dos drones, bloqueando a rua, estava um veículo preto, fosco, com o logotipo de um touro mecânico.
 
 A porta do veículo se abriu. Um homem desceu. Ele vestia uma armadura tática personalizada, pintada com cores neon vibrantes. Em seu peito, uma tela exibia a contagem de visualizações: *5 Milhões*.
@@ -78,6 +111,10 @@ A porta do veículo se abriu. Um homem desceu. Ele vestia uma armadura tática p
 — Olá, finalistas! — gritou o homem, sua voz amplificada, mas trêmula de adrenalina. — Eu sou o Executor! A Aeterna prometeu perdoar minha dívida estudantil e a hipoteca da minha mãe se eu fritar vocês! Nada pessoal, é apenas economia de mercado!
 
 Ele levantou um lança-chamas, os olhos arregalados de desespero e fanatismo, olhando não para Gabo, mas para a câmera em seu peito, buscando a aprovação da audiência.
+
+O lança-chamas acendeu com um estalo úmido, e o calor chegou antes do fogo, empurrando o ar para trás. Gabriel sentiu a sobrancelha coçar. Era o aviso do corpo para o corpo: aqui não tem para onde correr.
+
+Em cima, os drones se reposicionaram, e a rua fez aquele som que multidões fazem quando o espetáculo melhora. Não era aplauso. Era sucção.
 
 — Val, sai do carro! — gritou Gabriel.
 
@@ -90,4 +127,4 @@ Uma projeção holográfica surgiu no ar, visível para toda a rua:
 
 A multidão aplaudiu a crueldade. Os drones zumbiram mais perto...
 
-A caçada tinha começado.
+O drone mais próximo desceu até a altura do rosto dele. A projeção mudou de cor, contou os segundos e escreveu, em letras limpas: *ESPECTADORES: 84.312 — PIOR MOMENTO: AGORA.*

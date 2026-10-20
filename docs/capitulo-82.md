@@ -4,6 +4,7 @@ title: "Capítulo 82: O Profeta Mudo"
 description: "Na catedral de ferro do Padre Miguel há cinquenta pessoas ajoelhadas em silêncio. Não são mendigos: são engenheiros que encontraram uma rede que não precisa de energia."
 image: /capitulo_82.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Padre Miguel
+Localização: "Esgotos do Setor 4 — a Catedral de Ferro. 22h"
 ---
 
 # Capítulo 82: O Profeta Mudo

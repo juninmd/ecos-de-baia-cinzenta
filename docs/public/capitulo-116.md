@@ -1,6 +1,7 @@
 ---
 image: /cenas/cidade.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Aria, Valéria "Val" Cruz, Inspetor Rangel, Dante Moretti, O Taxidermista
+Localização: "Usina Geotérmica Prometeu — Corredores do Subnível 4 → Passarela do Subnível 3"
 ---
 # Capítulo 116: Pressão Crítica
 

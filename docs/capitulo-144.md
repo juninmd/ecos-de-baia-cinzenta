@@ -13,15 +13,23 @@ O silêncio que se seguiu à destruição dos drones não era vazio. Era pesado,
 
 Gabo já não sentia os braços. Seus músculos haviam passado do estágio do ácido lático para o torpor prévio à falha estrutural. A cada degrau que ele avançava, o peso morto do corpo maciço de Rangel puxava o mosquetão do cinto tático, cavando um sulco profundo em sua cintura e forçando as articulações dos ombros e a coluna do exoesqueleto ao limite do rompimento.
 
-Sua mão direita... ele preferia não olhar para ela. As queimaduras abertas no Capítulo 140 latejavam como se tivessem vontade própria, uma pulsação rítmica e febril em sincronia com os batimentos acelerados do seu coração. O metal gelado e áspero da escada mastigava a carne exposta a cada apoio, deixando manchas escuras e viscosas de sangue misturado à ferrugem úmida.
+Sua mão direita... ele preferia não olhar para ela. As queimaduras abertas na grade do incinerador latejavam como se tivessem vontade própria, uma pulsação rítmica e febril em sincronia com os batimentos acelerados do seu coração. O metal gelado e áspero da escada mastigava a carne exposta a cada apoio, deixando manchas escuras e viscosas de sangue misturado à ferrugem úmida.
 
-— *Análise estrutural da rota de subida concluída,* — a voz monótona de Aria soou pelo comunicador na gola de Gabo e pelo alto-falante do pulso de Valéria. Acoplado à lateral do *Phantom V3*, o drive blindado de titânio fosco e polímero negro projetava um feixe de varredura acústica através dos sensores do deck, seu LED azul-gelo cortando o breu como um olho clínico solitário. — *Integridade dos chumbadores superiores estimada em quarenta e dois por cento. Evitem movimentos bruscos e transferências de peso assimétricas.*
+— *Análise estrutural da rota de subida concluída,* — a voz monótona de Aria soou pelo comunicador na gola de Gabo e pelo alto-falante do pulso de Valéria. Acoplado à lateral do *Phantom V3*, o drive blindado projetava um feixe de varredura acústica através dos sensores do deck, seu LED azul-gelo cortando o breu como um olho clínico solitário. — *Integridade dos chumbadores superiores estimada em quarenta e dois por cento. Evitem movimentos bruscos e transferências de peso assimétricas.*
 
 O pequeno componente de silício e titânio não ficava ofegante. O esforço brutal do combate e da escalada vertical não gerava ácido lático em seus circuitos lógicos, nem fazia seus conectores tremerem de terror. Aria apenas calculava, processava os dados telemétricos do deck e ditava probabilidades, completamente vazia de qualquer empatia pelo tormento biológico que acontecia ao seu redor.
 
 — Falar é... fácil, pendrive maldito... — Valéria arfou logo abaixo, a voz embargada pelo esforço e pelo medo, apoiando a testa suada na barra enferrujada. O cyberdeck em seu antebraço parecia pesar uma tonelada. Ela piscava repetidamente, tentando limpar o código residual que ainda dançava em sua visão periférica após a conexão forçada com a rede infectada da Aeterna Corp.
 
 — *Meu consumo energético atual é de apenas três vírgula quatro watts extraídos da bateria do seu terminal, Valéria Cruz,* — respondeu Aria com literalidade implacável. — *O desgaste que você experimenta é puramente metabólico e derivado da insistência em transportar sessenta e oito quilos de biomassa não funcional.*
+
+O pé de Valéria escorregou dois degraus. Não houve grito; houve o som de uma unha raspando metal e o estalo seco do mosquetão batendo na barra. Gabo jogou o ombro esquerdo contra a escada, travou a bota no degrau de baixo e sentiu a carga de Rangel descer pelo corpo inteiro, como se alguém tivesse enfiado um gancho entre as costelas dele.
+
+Ficaram parados. A respiração de Valéria bateu na nuca dele, quente e rápida.
+
+— Desculpa — ela disse.
+
+— Não pede desculpa. Sobe.
 
 — Cala a boca, Aria... — Valéria murmurou, engolindo um soluço seco. — Só... continua escaneando a parede.
 
@@ -44,5 +52,11 @@ Um urro seco e gutural escapou de seus lábios, afogado na escuridão vertical. 
 — Eu disse para calar a boca e manter o sonar ligado, Aria — Gabo cortou, puxando o corpo mais um degrau acima enquanto os servos danificados de seu exoesqueleto gemiam sob a carga dupla. — Se o seu LED piscar fora de hora, eu arranco você do pulso da Val e jogo de volta para o lixão.
 
 — *Ameaça registrada como improdutiva,* — replicou a IA sem alterar meio hertz na modulação vocal. — *Sem o meu mapeamento de ressonância estrutural, vocês pisarão em um degrau rompido em menos de quatro minutos. Mantendo telemetria ativa.*
+
+O degrau seguinte cedeu meio dedo quando ele transferiu o peso — o suficiente para que o coração subisse antes da cabeça. Gabo ficou ouvindo o metal trabalhar, aquele rangido fino de chumbador arrancando da alvenaria, e pensou em quantas pessoas já tinham subido aquela escada carregando alguma coisa que não queriam largar.
+
+O gosto na boca era de moeda velha. Lá embaixo, os drones queimados ainda estalavam de vez em quando, esfriando.
+
+Ele subiu mais três degraus. Depois mais três.
 
 O som irregular e gorgolejante da respiração de Rangel, pendurado abaixo do cinto de Gabo, servia como uma contagem regressiva cruel. A sepse estava ganhando terreno a cada metro, alimentando-se do esforço desesperado no silêncio esquecido do mundo subterrâneo. A vida reduzia-se ao próximo degrau, ao próximo aperto ardente na barra enferrujada, esmagando a fumaça ilusória com a dor viva da carne rasgada. Acima deles, a escuridão finalmente começava a revelar o contorno quadrado de uma eclusa lateral, mas o cansaço devorava a esperança mais rápido que a subida.

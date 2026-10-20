@@ -19,13 +19,13 @@ Ele precisava dessa agonia. Sem o choque lancinante do frio contra as terminaç�
 
 — *A biologia dele já havia falhado no subnível anterior,* — a voz sintética de Aria soou pelo comunicador de gola e pelo alto-falante do pulso de Valéria, perfeitamente clara, sem a menor alteração ou tremor. — *A preservação térmica não é uma variável para tecido necrótico. O silêncio é aconselhável. As vibrações vocais podem acionar gatilhos acústicos nos sensores do Taxidermista.*
 
-No slot lateral do *Phantom V3*, o drive blindado de titânio fosco e polímero negro não sentia o frio; pelo contrário, a baixa temperatura ambiente otimizava a condutividade de seus circuitos de silício, permitindo que Aria varresse o duto com o sonar do deck e calculasse a distância e o ritmo ideal de deslocamento sem qualquer vestígio das memórias humanas que um dia carregara.
+No slot lateral do *Phantom V3*, o drive blindado não sentia o frio; pelo contrário, a baixa temperatura ambiente otimizava a condutividade de seus circuitos de silício, permitindo que Aria varresse o duto com o sonar do deck e calculasse a distância e o ritmo ideal de deslocamento sem qualquer vestígio das memórias humanas que um dia carregara.
 
 — Ela nem se importa. — Valéria tossiu, os lábios roxos. O choro reprimido pela morte de Rangel finalmente encontrava espaço na exaustão. — Ela ainda usa os bancos de voz que tinham os ecos da Bia e... e fala do Rangel como se fosse lixo descartado.
 
 Gabo forçou-se a continuar, apertando a grade de ventilação à frente com tanta força que o sangue reabriu os cortes, manchando o gelo de carmesim. A dor disparou até o ombro, apagando momentaneamente o cheiro de cigarro que rastejava em seu cérebro.
 
-— Não escuta ela, Val — Gabo rosnou, a voz áspera como lixa. — Foca nas minhas botas. Só continua movendo. Ela é um pendrive com o código limpo à força. O Taxidermista formatou o que sobrava de humano nela no Capítulo 134. A gente só precisa dos cálculos dela pra sair desse buraco.
+— Não escuta ela, Val — Gabo rosnou, a voz áspera como lixa. — Foca nas minhas botas. Só continua movendo. Ela é um pendrive com o código limpo à força. O Taxidermista formatou o que sobrava de humano nela. A gente só precisa dos cálculos dela pra sair desse buraco.
 
 — *Correção, Detetive Moretti,* — Aria interrompeu pelo fone, o LED azul-gelo piscando no escuro. — *Eu não estou avariada. Meu núcleo lógico foi limpo de rotinas emocionais redundantes que ameaçavam a integridade do sistema operacional. O "fator humano" quase nos levou à extinção três vezes desde a entrada na Necrópole.*
 

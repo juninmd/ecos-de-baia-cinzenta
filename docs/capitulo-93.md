@@ -4,6 +4,7 @@ title: "Capítulo 93: Fome"
 description: "O Hospital Central vira ilha. Lá fora a Colmeia ronca de fome; lá dentro Vilar chega com vinte e seis sobreviventes e uma confissão."
 image: /capitulo_93.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Dra. Nise, Capitão Jonas Vilar
+Localização: "Arredores do Hospital Central"
 ---
 
 # Capítulo 93: Fome

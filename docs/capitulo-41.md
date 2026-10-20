@@ -1,6 +1,7 @@
 ---
 image: /capitulo_41.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Valéria "Val" Cruz
+Localização: "Avenida da Indústria, Distrito Baixo (enchente)"
 ---
 # Capítulo 41: Maré Alta
 

@@ -1,6 +1,7 @@
 ---
 image: /capitulo_17.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, O Gamemaster, Dante Moretti, Valéria "Val" Cruz
+Localização: "Torre de Transmissão de Emergência (saguão-estúdio do Gamemaster)"
 ---
 # Capítulo 17: O Ultimato
 
@@ -26,7 +27,7 @@ O saguão era um pesadelo corporativo vestido de estúdio de TV. Plateia virtual
 
 No centro do palco, um trono. Polímero negro moldado em formas que doíam de olhar — ângulos que não deveriam existir geometricamente. E sentado nele, uma figura mascarada.
 
-A máscara era uma tela curva. Estática branca e cinza dançava na superfície, ocasionalmente formando fragmentos de rostos. Gabo reconheceu alguns. Seu pai. Elena. O menino morto do Capítulo 1. Todos piscando como velas na tormenta.
+A máscara era uma tela curva. Estática branca e cinza dançava na superfície, ocasionalmente formando fragmentos de rostos. Gabo reconheceu alguns. Seu pai. Elena. O menino morto do primeiro caso. Todos piscando como velas na tormenta.
 
 Gabo não deixou o medo chegar ao rosto. Manteve a máscara de cansaço e cinismo que usava há quinze anos.
 

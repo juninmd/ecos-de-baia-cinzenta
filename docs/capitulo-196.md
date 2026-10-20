@@ -13,6 +13,10 @@ O ar ali embaixo era frio, estagnado e cortante, carregado com um cheiro pesado 
 
 Acima de nós, pendurados em vigas de sustentação de ferro forjado a dez metros de altura, restos de antigos letreiros de neon piscavam em espasmos febris de luz esmeralda e âmbar. Tubos de vidro quebrado zumbiam alimentados por circuitos parasitas da rede secundária, desenhando sombras compridas e fantasmagóricas no chão ensopado: *'Banco Comercial da Baía'*, *'Crédito Atlântico'*, *'Seguros Fênix S.A.'*.
 
+Fiquei parado um instante, ouvindo o lugar. Não era silêncio. Era uma soma de coisas pequenas: gota caindo em água funda, zumbido de tubo de neon meio morto, o estalo de dilatação de uma viga de ferro que não esquentava de dia há anos. E por baixo de tudo, muito baixo, um coro de água correndo em canos que ninguém usava mais.
+
+Os letreiros ainda vendiam. Crédito, seguro, confiança. Anunciavam para um salão vazio com a insistência de quem não sabe que morreu. A cidade tinha erguido o dinheiro em cima daquele buraco e depois jogado o buraco fora com tudo dentro.
+
 Elias rolou para fora do duto logo atrás de nós, caindo de joelhos no piso cimentício, tossindo e engasgando como se tivesse engolido cinza fria. Ele ergueu os olhos amarelados para os neons crepitantes e soltou um suspiro trêmulo de alívio.
 
 — As catacumbas do Distrito Comercial... — o velho murmurou, passando a mão encardida no rosto manchado de graxa. — Nós conseguimos cruzar a fronteira subterrânea. Aquele fogo do Nível B não passa pelas comportas de chumbo. Estamos a salvo da fornalha.
@@ -26,6 +30,12 @@ Cortando o centro do salão de concreto, um canal de drenagem pluvial de quatro 
 — O Jardim... — Elias recuou dois passos, o pânico voltando a estalar em sua voz esganiçada. — Ele nos seguiu pelo duto?!
 
 — Não viaja, vovô — Valéria caminhou até a margem do canal, agachando-se com a sonda de teste em punho sem encostar na matéria orgânica. — Essas raízes têm pelo menos três semanas de crescimento. Olha a grossura dos nós e a calcificação em volta dos eletrodos de terra. A praga do Silas Vance não começou na estufa ontem. Ela já tinha se espalhado por cada canal de esgoto da cidade enquanto a gente ainda tava lutando contra o Sentinel no Arquivo.
+
+Perto da margem, alguém tinha montado acampamento. Quatro carrinhos de supermercado amarrados com arame formavam uma parede baixa, e atrás deles havia cobertores apodrecidos, latas vazias e uma fogueira que já era só mancha de fuligem no cimento. Na parede, escrito com giz de obra, um risco e um número: três.
+
+— Três dias? — perguntei.
+
+— Três pessoas — Elias corrigiu, e a voz falhou no meio. — É assim que a gente marcava embaixo. Quem escreve não volta pra riscar.
 
 — A estufa do Setor 7 era só o viveiro de processamento — falei, sentindo o peso da armação no braço quebrado tracionar contra a atadura elástica que Valéria havia feito. O sangue parara de pingar, mas a dor surda na carne dilacerada me lembrava a cada segundo de que nossos recursos estavam no osso. — O objetivo sempre foi conectar a biomassa nas fundações geológicas.
 
@@ -48,5 +58,7 @@ Elias apontou o dedo trêmulo para a galeria escura que se abria ao longo do can
 Valéria olhou para o velho com aquele meio-sorriso cínico e destemido que sempre desarmava o desespero:
 
 — Se topar com zumbi corporativo, Elias, você se abaixa e deixa o Moretti e a escopeta dele explicarem a política de demissão sem justa causa da Aeterna Corp. Vamos andar logo antes que os transformadores lá em cima apaguem de vez.
+
+Contei os cartuchos no bolso do sobretudo enquanto andava. Faziam um barulho de dentes batendo. Não era muito, e dali em diante cada um ia ter que justificar a própria existência.
 
 Avançamos pela passarela elevada ao lado do canal, o eco ritmado dos nossos passos e o chiado mecânico da minha armação marcando a cadência firme da nossa marcha através das catacumbas esquecidas do Setor 6.

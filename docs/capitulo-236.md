@@ -41,7 +41,7 @@ Trouxemos o corpo de Elena enrolado em uma lona de algodão cru, daquelas usadas
 
 Descemos a lona com as cintas de poliéster que sobraram do caminhão de Elias.
 
-Quando a lona assentou no fundo da cova vermelha, a Dra. Vance deu dois passos lentos até a beira. Tirou do bolso do casaco o crachá de repórter de Elena — um pedaço de plástico laminado com uma foto desbotada tirada no saguão da prefeitura, antes de a cidade quebrar ao meio no Capítulo 104.
+Quando a lona assentou no fundo da cova vermelha, a Dra. Vance deu dois passos lentos até a beira. Tirou do bolso do casaco o crachá de repórter de Elena — um pedaço de plástico laminado com uma foto desbotada tirada no saguão da prefeitura, antes de a cidade rachar ao meio.
 
 A doutora soltou o crachá. O plástico caiu sem ruído sobre o peito coberto de lona.
 
@@ -51,7 +51,7 @@ Elias começou a jogar a terra de volta.
 
 O som do barro caindo sobre a lona crua bateu como pedradas no meu estômago. *Tump. Tump. Tump.*
 
-Cada pá de terra cobria um pedaço da mulher que me conheceu antes de eu ser o detetive mutilado que a cidade usou como aríete. Cobria a garota que dividia cigarros que eu me recusava a fumar nas escadarias do porto; a jornalista que me chamou de estúpido no Capítulo 21 quando eu tentei desarmar uma carga de fósforo branco com as próprias mãos; a mulher que cruzou a cerca de arame farpado no Capítulo 112 com quatro cadernos de anotações no peito para montar a imprensa que nos libertaria.
+Cada pá de terra cobria um pedaço da mulher que me conheceu antes de eu ser o detetive mutilado que a cidade usou como aríete. Cobria a garota que dividia cigarros que eu me recusava a fumar nas escadarias do porto; a jornalista que me chamou de estúpido quando eu tentei desarmar uma carga de fósforo branco com as próprias mãos; a mulher que cruzou a cerca de arame farpado com quatro cadernos de anotações no peito para montar a imprensa que nos libertaria.
 
 Fiquei até a terra nivelar.
 
@@ -59,7 +59,7 @@ Quando Elias colocou a última pedra sobre o monte, o sol da tarde finalmente ro
 
 Era uma luz fraca, dourada e amarga, que fazia a lama brilhar como cobre polido.
 
-Passei a mão esquerda pelo pescoço. Tirei o cordão fino de latão do bolso da camisa e o passei pela cabeça, deixando o pingente redondo repousar no meu peito, logo ao lado do "Colar de Sol" que minha mãe Helena usava quando morreu afogada na enchente do Cap. 50.
+Passei a mão esquerda pelo pescoço. Tirei o cordão fino de latão do bolso da camisa e o passei pela cabeça, deixando o pingente redondo repousar no meu peito, logo ao lado do "Colar de Sol" que minha mãe Helena usava quando morreu afogada na enchente do Dilúvio.
 
 Dois metais frios batendo contra o osso do meu esterno a cada batida do meu coração cansado.
 
@@ -75,7 +75,7 @@ Elias limpou o suor da testa com o antebraço sujo de graxa.
 
 Virei as costas para a cova.
 
-O joelho doeu quando forcei a perna direita na subida da rampa, e a pontada no ombro quebrado me lembrou que eu não tinha mais a *Caronte* para me apoiar, nem o pendrive de Aria no bolso para me dar o cálculo da próxima esquina. Eu era apenas um homem manco, com um braço a menos e uma dívida impagável com os mortos que ficaram pelo caminho.
+O joelho doeu quando forcei a perna direita na subida da rampa, e a pontada no ombro quebrado me lembrou que eu não tinha mais a *Caronte* para me apoiar, nem o pendrive de Aria no bolso para me dar o cálculo da próxima esquina. Eu era apenas um homem manco, com um braço preso na tipóia e uma dívida impagável com os mortos que ficaram pelo caminho.
 
 Mas, pela primeira vez em quinze anos, eu não era o grupo de controle de ninguém.
 

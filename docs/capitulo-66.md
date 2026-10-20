@@ -1,6 +1,7 @@
 ---
 image: /capitulo_66.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria, Dante Moretti
+Localização: "O Núcleo - 10 segundos após a injeção do código"
 ---
 # Capítulo 66: Respirar
 
@@ -20,6 +21,8 @@ Ela tinha uma máscara de oxigênio de emergência — daquelas pequenas, de fug
 
 O ar comprimido entrou com gosto de borracha e vida.
 
+Debaixo d'água o frio não avisa. Entra pelas costuras do colete e depois pelas costuras do corpo. Gabo sentiu os dentes doerem antes de sentir a perna, e a perna chegou depois, um peso morto pendurado nele, puxando para o fundo com a paciência de quem tem toda a eternidade. O líquido refrigerante tinha gosto de moeda na boca. Um crachá da Aeterna passou girando na corrente, com a foto de um homem que ele nunca ia interrogar e o lacre ainda preso no plástico.
+
 Val apontou para cima. A luz da superfície estava ficando distante. O nível da água subia rápido demais, preenchendo a cúpula da represa.
 
 Gabo olhou para o pedestal de interface lá embaixo. O slot central estava vazio; os cabos de fibra óptica flutuavam desconectados, soltando faíscas azuis no líquido.
@@ -34,7 +37,7 @@ Um robô CP-Z, à prova d'água, nadando com propulsores. Seus olhos vermelhos c
 
 Gabo não tinha como usar a escopeta debaixo d'água. Ele largou a máscara de oxigênio por um segundo, puxou a faca de combate da bota e, num movimento desesperado, lançou-se na frente de Val.
 
-O arpão atingiu o ombro de Gabo, raspando o kevlar, mas não perfurou fundo. Gabo agarrou a cabeça do robô e encostou o conector do pendrive da Aria na fresta óptica do chassi.
+O arpão atingiu o ombro de Gabo, raspando o kevlar, mas não perfurou fundo. Perfurou o suficiente. O sangue saiu em fumaça vermelha e se abriu na água como tinta, e a dor chegou atrasada, quente, subindo do ombro direito até o ouvido. Ele mordeu a máscara para não gritar bolhas. Gabo agarrou a cabeça do robô e encostou o conector do pendrive da Aria na fresta óptica do chassi.
 
 *Dante. Pai. Ajuda.*
 
@@ -45,6 +48,8 @@ O CP-Z soltou o arpão. Ele agarrou Gabo e Val com gentileza surpreendente e ati
 Eles romperam a linha d'água, emergindo no lago externo da represa. A chuva caía torrencialmente, misturando-se à água do lago.
 
 O robô os depositou na margem de concreto e depois afundou, imóvel.
+
+Gabo ficou olhando a máquina descer até o vermelho dos olhos virar um ponto e sumir. Não era gratidão o que ele sentia. Era o contrário de gratidão: a certeza incômoda de que alguma coisa lá dentro tinha escolhido não matar, e de que ia cobrar por essa escolha depois.
 
 Gabo arrancou a máscara, tossindo água e bile. Val caiu ao lado dele, tremendo de frio e choque.
 
@@ -63,6 +68,14 @@ Gabo olhou para o pequeno módulo luminoso.
 O LED oscilou entre o azul e o âmbar.
 
 — *Parte dele. Parte de mim. Parte da Cidade* — respondeu a Aria. — *Marco Moretti fugiu. A correnteza o levou para os dutos de esgoto. Roberto Miranda também.*
+
+Gabo passou o polegar no metal, do jeito que fazia quando precisava ouvir só ela. O LED esquentou sob o dedo, e o calor não vinha da bateria.
+
+— Aria, você está aí?
+
+— *Estou, Inspetor.* — A segunda voz entrou junto, meio tom abaixo, e a resposta ganhou um chiado que não era de chuva.
+
+Ele tirou o dedo. Havia perguntas que ele fazia àquela voz de madrugada, no Cobalt, com o motor desligado e o limpador parado no meio do para-brisa. Não ia fazer nenhuma delas com plateia.
 
 — Eles vão voltar — disse Val, checando seu deck, que piscava com erros. — E nós estamos expostos.
 

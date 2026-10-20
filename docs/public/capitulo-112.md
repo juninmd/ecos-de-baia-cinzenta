@@ -1,6 +1,7 @@
 ---
 image: /cenas/cidade.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Inspetor Rangel, Marco Moretti, Aria, Dante Moretti
+Localização: "Saída de Drenagem 04-B (Distrito Industrial) → Beco entre armazéns abandonados"
 ---
 # Capítulo 112: O Peso da Memória
 
@@ -24,9 +25,9 @@ Assim que os pés de Gabo tocaram o asfalto molhado, Valéria o prensou contra a
 
 — Val! — Gabo tentou recuar, mas a órtese da perna travou na lama.
 
-— Não — Valéria rosnou, o braço pressionando o peito dele e os olhos prateados fixos no drive de titânio fosco espetado no comunicador. — Chega de segredos, Gabo. Chega de conversar com esse pendrive no escuro como se houvesse alguém vivo aí dentro.
+— Não — Valéria rosnou, o braço pressionando o peito dele e os olhos prateados fixos no drive espetado no comunicador. — Chega de segredos, Gabo. Chega de conversar com esse pendrive no escuro como se houvesse alguém vivo aí dentro.
 
-Gabo piscou sob a chuva ácida, a mão subindo instintivamente para proteger o pequeno módulo de titânio e polímero negro.
+Gabo piscou sob a chuva ácida, a mão subindo instintivamente para proteger o pequeno módulo.
 
 — Por que você continua tratando um software tático como se fosse um fantasma? — A voz de Valéria tremeu, uma falha rara em sua armadura cínica. — Você achou a Aria numa cabine telefônica alagada no começo do Dilúvio! É uma assistente de IA tática da Aeterna, Gabo! Eu abri os diretórios de voz dela no Fliperama: o que você ouve não é a Bia Vargas viva. São fragmentos neurais residuais da sua ex-parceira que a corporação minerou para dar intuição ao algoritmo!
 

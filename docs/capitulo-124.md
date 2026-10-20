@@ -69,7 +69,7 @@ Gabo recuou, sentando-se pesadamente em uma cadeira giratória quebrada. Ele tir
 
 Valéria já estava de volta à bancada eletrônica no canto da sala, debruçada sobre o pendrive da Aria.
 
-O drive neural de titânio fosco estava aberto sob uma lupa iluminada, com cabos de fibra fina ligados aos pinos de manutenção e o micro-ferro de solda de Valéria instalando a nova ponte de silício série-K. O LED indicador continuava apagado, sem o brilho azul ou âmbar. Apenas quartzo inerte.
+O drive neural estava aberto sob uma lupa iluminada, com cabos de fibra fina ligados aos pinos de manutenção e o micro-ferro de solda de Valéria instalando a nova ponte de silício série-K. O LED indicador continuava apagado, sem o brilho azul ou âmbar. Apenas quartzo inerte.
 
 — Soldei a ponte nova e rodei um diagnóstico enquanto a morfina fazia efeito — Valéria disse, a voz baixa. — O núcleo lógico do pendrive está... fragmentado. É como se ela tivesse tentado processar dor humana usando um compilador binário. Deu *stack overflow* nas partições.
 

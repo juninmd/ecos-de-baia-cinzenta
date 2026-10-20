@@ -13,7 +13,7 @@ A subida pelo poço de ventilação secundário era um exercício brutal em resi
 
 Gabo liderava a subida. Seu cinto tático estava engatado nas presilhas da maca improvisada que carregava Rangel. A cada metro que avançavam pela estreita escada incrustada na parede, o peso morto do inspetor inconsciente ameaçava puxá-lo para trás, rumo ao abismo negro de ossos de onde haviam saído. O som ruidoso e gutural da respiração do ferido ecoava no tubo apertado, ritmado com os chiados do próprio Gabo e o tilintar dos cabos antigos balançando ao vento gelado que descia das galerias superiores.
 
-O metal dos degraus parecia feito de brasas geladas contra a carne viva de suas mãos. Cada aperto doía mais do que o anterior, reabrindo as bolhas queimadas na fornalha do Capítulo 140. O cheiro constante de poeira calcificada, suor azedo e ozônio antigo estava em toda parte, trazendo uma incômoda familiaridade das ruínas subterrâneas que se estendiam desde o Dilúvio.
+O metal dos degraus parecia feito de brasas geladas contra a carne viva de suas mãos. Cada aperto doía mais do que o anterior, reabrindo as bolhas queimadas na fornalha da Necrópole. O cheiro constante de poeira calcificada, suor azedo e ozônio antigo estava em toda parte, trazendo uma incômoda familiaridade das ruínas subterrâneas que se estendiam desde o Dilúvio.
 
 — *Progressão vertical abaixo do limiar de segurança*, — reportou a voz sintética de Aria pelo comunicador de gola de Gabo, enquanto o drive de titânio no pulso de Valéria processava os sensores barométricos e o sonar do *Phantom V3*. — *Quarenta metros percorridos. Níveis de temperatura subindo para dezenove vírgula cinco graus Celsius. Taxa de esforço cardíaco do Detetive Moretti em cento e sessenta e dois batimentos por minuto.*
 

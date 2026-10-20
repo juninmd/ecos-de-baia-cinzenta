@@ -3,6 +3,7 @@ title: "Capítulo 129: Fluxo Reverso"
 date: "2078-11-04"
 location: "Estação de Bombeamento Bio-Mecânica (Nível 5)"
 Personagens Presentes: Gabo, Valéria, Aria (Glitch Bia Vargas), Rangel (Inconsciente)
+Localização: "Estação de Reciclagem de Fluido Neural 04 (Nível 5)"
 ---
 
 # Capítulo 129: Fluxo Reverso

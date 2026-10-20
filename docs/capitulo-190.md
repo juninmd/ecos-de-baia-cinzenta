@@ -19,9 +19,19 @@ Mas o pior não eram os cabos. Eram os doadores.
 
 Suspensos entre as colunas dos data-centers, fundidos ao metal como relíquias profanas, estavam os corpos. Centenas deles. Mendigos, operários descartados da Zona Baixa, catadores que haviam desaparecido nos canais nos últimos meses. Todos mantidos num coma induzido, os olhos entreabertos brilhando com filamentos de transmissão, o córtex cerebral de cada um sendo drenado para gerar poder de processamento em paralelo. Homens e mulheres que a cidade declarara como mortos anos atrás, agora mantidos em agonia biológica perpétua.
 
+Havia um som naquela sala que não vinha de máquina nenhuma. Um acorde grave, contínuo, que subia pelo piso e parava nos meus dentes. Centenas de gargantas secas respirando no mesmo compasso, e por baixo delas o zumbido dos coolers, agora quase um sussurro. O ar era morno e úmido, como o hálito de uma boca grande.
+
 Valéria parou na entrada do salão, a mão esquerda cravada no corrimão de ferro. Os LEDs azuis na franja curta dela piscaram num ritmo errático, refletindo o horror absoluto em seus olhos ópticos prateados.
 
 — Meu Deus... Gabo... isso não é um depósito de dados — a voz dela saiu num sussurro trêmulo, carregado de repulsa. — É uma fazenda de mentes humanas escravizadas. A Aeterna construiu o hardware, mas o Silas transformou essas pessoas no combustível do cálculo. Olha a taxa de transferência... eles tão usando o sofrimento dessa gente pra reescrever os firewalls das comportas pluviais da cidade.
+
+Perto do corrimão, um dos corpos fundidos ao rack tinha a mão solta. Os dedos se fecharam devagar, um por um, na direção do corredor. Não era espasmo. Era alguém tentando acenar.
+
+Valéria viu. Eu vi que ela viu, porque os LEDs da franja dela pararam de piscar por dois segundos.
+
+— Se eu arrancar os cabos, ele morre — disse ela, sem tom nenhum, como quem lê um número. — Se eu não arrancar, ele continua calculando. Não tem opção limpa aqui.
+
+Não havia resposta que servisse, e ela não esperava uma.
 
 — Eles querem a rede de drenagem inteira — falei, o cano fumegante de *Caronte* apontado para o chão, o peso da armação no braço quebrado latejando com o calor acumulado da batalha anterior. As cicatrizes da junção dos nervos queimavam como fogo. — Querem usar a água da chuva e os esgotos pra espalhar esse fungo por cada ralo de Baía Cinzenta.
 
@@ -42,6 +52,10 @@ Descendo do teto como uma espinha dorsal de titânio, um duto pressurizado de me
 — Isso vai transformar essa sala inteira numa caldeira de vapor venenoso — ponderei, sentindo o peso da decisão.
 
 — E vai libertar essas centenas de mortos-vivos da tortura desse pesadelo — ela retrucou, a voz firme como aço temperado. — A gente destrói a fundação térmica, aciona o duto de expurgo de emergência e corre pro fosso de elevação da Subestação B antes que o teto desabe. Eu já mapeei a escotilha de saída no fundo do corredor.
+
+O caminho até o pilar custou mais do que a distância. As plataformas de manutenção tinham apodrecido nas bordas, e cada degrau de grade cedia meio dedo antes de segurar. A órtese do meu joelho batia no metal num ritmo curto, e os doadores viravam a cabeça na direção do barulho, todos juntos, como plantas procurando luz.
+
+O frio da linha de amônia chegava antes de eu chegar perto: um hálito que congelava o suor no meu lábio e fazia os olhos arderem até lacrimejar. A pele da minha mão esquerda colou no corrimão e saiu rasgada quando puxei. Deixei um pedaço meu naquele ferro, junto com todo o resto.
 
 Caminhei até o pilar central, meus passos pesados esmagando as raízes carmesins que rastejavam pelo gradeamento.
 

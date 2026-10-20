@@ -4,6 +4,7 @@ title: "Capítulo 42: O Campo de Refugiados"
 description: "A Delegacia Central vira barco salva-vidas, e Gabo descobre que o pior trabalho do mundo é decidir quem entra."
 image: /capitulo_42.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Valéria "Val" Cruz, Capitão Jonas Vilar, Clara Moretti
+Localização: "Delegacia Central do Setor 4, segundo dia de chuva"
 ---
 
 # Capítulo 42: O Campo de Refugiados

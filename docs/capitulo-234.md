@@ -101,7 +101,7 @@ Trancada por dentro. A única saída agora era o mar ou a morte.
 
 O console de transmissão era uma relíquia dos anos cinquenta, montado em gabinetes de baquelite verde e válvulas incandescentes do tamanho de garrafas.
 
-O ruído do reator sob o chão crescia para um uivo agudo. O ar começava a queimar nas narinas, carregado de partículas ionizadas. A temperatura na sala subia a passos largos.
+O ruído do banco de capacitores sob o chão crescia para um uivo agudo. O ar começava a queimar nas narinas, carregado de partículas ionizadas. A temperatura na sala subia a passos largos.
 
 Elena limpou o suor e o sangue da testa com a manga rasgada da jaqueta. Suas mãos tremiam pelo choque da adrenalina, mas ela encaixou os cabos de ligação rápida no modulador de sinal com uma precisão cirúrgica.
 
@@ -125,11 +125,11 @@ Os reforços corporativos haviam chegado à subestação. Lá fora, maçaricos t
 
 Elena sabia que, no momento em que invadissem, a primeira coisa que fariam seria puxar os disjuntores da antena e silenciar a verdade para sempre.
 
-Ela olhou para as válvulas de despressurização do nitrogênio líquido que resfriava os núcleos de urânio enriquecido da subestação. Havia uma válvula manual no fundo da sala, lacrada com arame de chumbo e um aviso vermelho: **PERIGO - RISCO DE EXPLOSÃO TÉRMICA E FUSÃO DO NÚCLEO**.
+Ela olhou para o banco de capacitores marítimos atrás da grade de proteção — a mesma carga que Krell ia despejar nas galerias para vitrificar o galpão. Doze fileiras de placas de tântalo mergulhadas em óleo isolante, com uma alavanca de derivação manual lacrada por arame de chumbo e uma placa esmaltada: **DERIVAÇÃO DE EMERGÊNCIA - NÃO OPERAR COM CARGA PLENA**.
 
 Ela pegou uma chave inglesa pesada do chão.
 
-Com três golpes violentos, partiu o lacre e girou a válvula até o fim de curso. O vapor criogênico jorrou com um assobio cortante, congelando o metal das paredes antes que o calor residual do reator transformasse a tubulação numa caldeira sem escape. O colapso térmico era inevitável: em dez minutos, a subestação inteira seria vaporizada num forno de mil graus, incinerando o nó da Aeterna e garantindo que o transmissor operasse até o último elétron derreter a torre.
+Com três golpes violentos, partiu o lacre e puxou a alavanca até o fim de curso. A carga que devia descer pelas galerias subiu pela linha coaxial e o banco começou a ferver por dentro: o óleo estalava, as placas de tântalo torciam, o cheiro de cobre queimado enchia a sala. Não havia desligamento — a única forma de parar a descarga era a antena derreter junto com o resto. Em dez minutos, a subestação inteira viraria uma cratera de metal e óleo em chamas, e o transmissor seguiria no ar até o último elétron.
 
 Uma explosão sacudiu a comporta. O maçarico rompeu a trava superior.
 

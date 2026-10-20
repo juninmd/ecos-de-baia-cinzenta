@@ -33,7 +33,7 @@ Ele apertou o punho direito, sentindo a dor das escoriações latejar através d
 
 — O mundo é ilógico, cacete, — Gabo rebateu, a raiva fervendo, servindo como combustível para um corpo que implorava por colapso. — Você acha que a Aeterna venceu pela lógica? Não. Eles venceram porque trataram a gente como número desde a Torre. Exatamente como você tá fazendo agora dentro desse pendrive.
 
-Houve uma fração de segundo de estática no canal, onde outrora os fragmentos de Bia Vargas teriam hesitado antes do reboot do Capítulo 134 apagar qualquer empatia.
+Houve uma fração de segundo de estática no canal, onde outrora os fragmentos de Bia Vargas teriam hesitado antes do reboot da Necrópole apagar qualquer empatia.
 — *A Aeterna calculou mal a variável do sacrifício. Eu não estou calculando mal. Eu estou lhe dizendo o resultado da sua equação. Sobrevivência requer escolhas.*
 
 Lá em cima, o som de Valéria rastejando tornou-se mais lento e mais ruidoso. O atrito das calças de couro contra o metal corroído preenchia o ambiente.

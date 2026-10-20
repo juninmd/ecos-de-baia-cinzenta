@@ -35,7 +35,7 @@ Valéria ergueu o cyberdeck, e a luz azul-esmeralda da tela iluminou seus traço
 
 — Ninguém ganhou, — ela respondeu com um sorriso sombrio nos lábios roxos. — A Praga congelou os tecidos do Jardim antes que eles pudessem germinar, e as raízes vegetais absorveram a amônia antes de apodrecer. O que sobrou é essa carne vegetal petrificada pelo frio. É gelo com dentes biológicos.
 
-O cheiro do ar era uma agressão direta às vias aéreas: ozônio estático, gás refrigerante rançoso e carne crua congelada há semanas. Cada inspiração queimava a traqueia como ácido líquido, deixando um travo amargo na base da língua. Minha mão de sucata — a engrenagem forjada por Vasco no Capítulo 175 — começou a chiar; os lubrificantes industriais estavam endurecendo sob a temperatura negativa, forçando os servos a emitirem pequenos estalos de esforço térmico a cada movimento dos dedos.
+O cheiro do ar era uma agressão direta às vias aéreas: ozônio estático, gás refrigerante rançoso e carne crua congelada há semanas. Cada inspiração queimava a traqueia como ácido líquido, deixando um travo amargo na base da língua. Minha mão de sucata — a engrenagem forjada por Vasco — começou a chiar; os lubrificantes industriais estavam endurecendo sob a temperatura negativa, forçando os servos a emitirem pequenos estalos de esforço térmico a cada movimento dos dedos.
 
 A dor nos ossos fraturados sob as ataduras era profunda e constante, mas agia como uma blindagem mental: impedia que a letargia do frio tomasse conta das minhas reações.
 
@@ -59,7 +59,7 @@ Mas o horror não era apenas a morte; era a assimilação. A Geada Negra havia b
 
 — Ficaram presos aqui quando os trincos das comportas foram detonados lá em cima, — murmurei, sentindo o peso sombrio daquela tumba fechar-se sobre o meu peito.
 
-— Morreram abraçados no escuro, — Valéria sussurrou, a voz perdendo todo o deboche e revelando uma melancolia profunda, a mesma que eu vira em seus olhos quando o terminal de Aria se apagou no Capítulo 167. Ela estendeu a mão enluvada, quase tocando o ombro de um dos homens congelados, mas recuou a tempo. — A Aeterna nem sequer registrou os nomes deles nos relatórios de baixa. Aposto que entraram como 'custo operacional de amortização'.
+— Morreram abraçados no escuro, — Valéria sussurrou, a voz perdendo todo o deboche e revelando uma melancolia profunda, a mesma que eu vira em seus olhos quando o terminal de Aria se apagou. Ela estendeu a mão enluvada, quase tocando o ombro de um dos homens congelados, mas recuou a tempo. — A Aeterna nem sequer registrou os nomes deles nos relatórios de baixa. Aposto que entraram como 'custo operacional de amortização'.
 
 — A cidade inteira é um custo operacional pra quem tá no topo, Val, — respondi, puxando-a suavemente pelo braço para continuarmos andando. — Mas nós não vamos virar monumento de gelo neste corredor. O duto de subida pro Setor Seis fica no final dessa passarela. Apertem o passo enquanto o sangue ainda tá correndo nas veias.
 

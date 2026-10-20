@@ -1,6 +1,7 @@
 ---
 image: /capitulo_53.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Marco Moretti, Elena Moretti, Dra. Nise, Dante Moretti, Aria Moretti
+Localização: "Cafeteria do Fim do Mundo, Distrito da Ferrugem → Porão da antiga Delegacia"
 ---
 # Capítulo 53: Café, Código e Conspiração
 

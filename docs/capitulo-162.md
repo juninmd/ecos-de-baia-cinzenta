@@ -23,7 +23,7 @@ E era exatamente dessa dor que ele precisava.
 
 O ar estagnado ali cheirava a poeira antiga e ozônio residual, mas a mente exausta de Gabo tentava injetar algo pior. O fantasma sufocante do tabaco, o odor azedo de cinzeiros transbordando da antiga sala do Comissário Dante, rastejava pelas beiradas da sua sanidade. Para suprimi-lo, Gabo pressionou o braço direito quebrado com força contra a parede de concreto. Um raio quente e cru de agonia explodiu até seu ombro, obliterando a náusea da fumaça instantaneamente.
 
-— *A infraestrutura da porta possui um override de manutenção,* — Aria reportou, sua voz sintética cortando o silêncio fúnebre a partir do comunicador de gola. No pulso de Valéria, o pendrive de titânio e polímero negro piscava em azul-gelo enquanto o feixe laser do cyberdeck *Phantom V3* mapeava meticulosamente as ranhuras do aço. — *No entanto, a alavanca de destravamento manual localiza-se na câmara de engrenagens superior. O único acesso é um duto de descompressão de quarenta e cinco centímetros quadrados.*
+— *A infraestrutura da porta possui um override de manutenção,* — Aria reportou, sua voz sintética cortando o silêncio fúnebre a partir do comunicador de gola. No pulso de Valéria, o pendrive piscava em azul-gelo enquanto o feixe laser do cyberdeck *Phantom V3* mapeava meticulosamente as ranhuras do aço. — *No entanto, a alavanca de destravamento manual localiza-se na câmara de engrenagens superior. O único acesso é um duto de descompressão de quarenta e cinco centímetros quadrados.*
 
 Valéria, sentada no chão coberto de cinzas com os joelhos puxados contra o peito, soltou um riso sem humor. O suor sujo manchava seu rosto pálido de exaustão.
 

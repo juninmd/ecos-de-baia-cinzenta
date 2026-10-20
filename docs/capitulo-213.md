@@ -17,7 +17,7 @@ Um mezanino de vigas de carga desabara sobre o console principal anos atrás, es
 
 — Terminal de acesso eletrônico totalmente aniquilado, — disse Valéria, iluminando a ruína com a lanterna do cyberdeck. Os reflexos azuis da franja desenhavam contornos afiados em suas bochechas pálidas, manchadas de fuligem. — Os relés primários estão mortos e o cabo mestre foi decepado pela viga. Não tem porta de entrada pra hackear por aqui, detetive.
 
-— Tem que haver um bypass mecânico de segurança, — respondi, apoiando a *Caronte* na parede e soltando o ar pesado. O ombro direito latejava sem trégua onde Vasco parafusara a armação no Capítulo 175 para alinhar os ossos fraturados; meus músculos continuavam sangrando sob a bandagem encharcada, mas o frio polar anestesiava a periferia do ferimento. — Protocolo padrão de mineração e bunkers exige válvula de alívio manual em caso de pane geral na rede.
+— Tem que haver um bypass mecânico de segurança, — respondi, apoiando a *Caronte* na parede e soltando o ar pesado. O ombro direito latejava sem trégua onde Vasco parafusara a armação para alinhar os ossos fraturados; meus músculos continuavam sangrando sob a bandagem encharcada, mas o frio polar anestesiava a periferia do ferimento. — Protocolo padrão de mineração e bunkers exige válvula de alívio manual em caso de pane geral na rede.
 
 Elias apontou o feixe de sua lanterna para o canto inferior direito do portal.
 

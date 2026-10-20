@@ -1,6 +1,7 @@
 ---
 image: /capitulo_5.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Roberto Miranda, Dante Moretti
+Localização: "Estação Central da Linha Vermelha (A Capela), Setor 4 → Túneis de drenagem"
 ---
 # Capítulo 5: A Capela dos Esquecidos
 
@@ -108,4 +109,6 @@ Gabriel disparou contra uma tubulação de vapor na parede oposta. O jato de pre
 
 Eles mergulharam na escuridão do túnel de esgoto, deslizando na lama fétida, enquanto atrás deles, o zumbido mecânico das *Vespas* mudava de tom, ativando o modo de perseguição térmica.
 
-A caçada havia começado, e Gabriel sabia que, pela primeira vez, ele estava jogando contra alguém que conhecia todos os seus truques. Alguém que ele amava.
+Lá atrás, as Vespas pararam de perseguir. Pousaram na parede do túnel, uma a uma, e os quatro pontos vermelhos das lentes ficaram acesos no escuro, imóveis. Miranda arfou, rindo com o pouco de ar que tinha.
+
+— Elas não estão mais atrás da gente — ele disse. — Estão esperando a gente chegar.

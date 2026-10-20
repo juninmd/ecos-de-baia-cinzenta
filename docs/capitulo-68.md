@@ -1,6 +1,7 @@
 ---
 image: /capitulo_68.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Roberto Miranda, Aria, Dante Moretti
+Localização: "Delegacia do Distrito 4 — Cerco"
 ---
 # Capítulo 68: A Caçada Inversa
 

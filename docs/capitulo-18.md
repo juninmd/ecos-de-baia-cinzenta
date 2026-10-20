@@ -4,6 +4,7 @@ title: "Capítulo 18: A Queda"
 description: "Gabo derruba o exoesqueleto do Gamemaster e descobre, no meio da ovação, que ganhar era exatamente o roteiro."
 image: /capitulo_18.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, O Gamemaster
+Localização: "Estúdio do Gamemaster, Torre de Transmissão de Emergência → Trem para o Setor 7"
 ---
 
 # Capítulo 18: A Queda

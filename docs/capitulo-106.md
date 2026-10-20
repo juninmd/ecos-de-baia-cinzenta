@@ -1,6 +1,7 @@
 ---
 image: /capitulo_106.jpg
 Personagens Presentes: Dante Moretti, Gabriel "Gabo" Moretti, Marco Moretti, Inspetor Rangel, Elena Moretti
+Localização: "Delegacia da Biblioteca - 14 horas após a Ascensão"
 ---
 # Capítulo 106: Fios Invisíveis
 

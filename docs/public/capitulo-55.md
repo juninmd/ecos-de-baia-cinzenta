@@ -1,6 +1,7 @@
 ---
 image: /capitulo_55.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Isadora, Marco Moretti, Roberto Miranda, Elena Moretti
+Localização: "Dia 46 do Dilúvio - Refúgio Subterrâneo"
 ---
 # Capítulo 55: A Tentação de Lázaro
 
@@ -9,6 +10,8 @@ Personagens Presentes: Gabriel "Gabo" Moretti, Isadora, Marco Moretti, Roberto M
 A dor na coluna de Gabo era um lembrete constante de sua mortalidade. Sem as órteses, ele se movia com dificuldade, apoiado em uma bengala improvisada feita de cano de PVC.
 
 Ele estava sozinho no bar improvisado do esconderijo, tentando afogar a dor em uísque barato, quando ela entrou.
+
+O bar era um balcão de compensado sobre dois tonéis e uma prateleira de garrafas com o rótulo arrancado. O gerador tossia a cada quarenta segundos, e a cada tossida a luz amarela piscava, e a cada piscada todo mundo levantava os olhos, porque luz que pisca nesta cidade é ensaio de apagão. O uísque tinha gosto de remédio e cheiro de solvente. Gabo bebia devagar, a bengala de cano de PVC atravessada no colo, para que ninguém tropeçasse nela e o derrubasse junto.
 
 Não era Val, nem Elena. Era uma mulher que ele nunca tinha visto, mas que parecia conhecer cada um de seus pesadelos.
 
@@ -40,9 +43,23 @@ Gabo congelou.
 
 — Helena. Dante. Até a pequena Clara, feliz e sem dívidas. — Isadora inclinou-se para frente, os olhos verdes perfurando a alma dele. — O Marco tem os backups neurais deles, Gabo. Ele me deu isso. É uma cópia perfeita da consciência da sua família, rodando em um servidor isolado, esperando por você.
 
+— Se é a minha mãe — disse ele, e a voz saiu rouca de um jeito que ele odiou —, me diga o que ela põe no café.
+
+Isadora piscou.
+
+— Café?
+
+— Açúcar mascavo e uma pitada de sal. Ela faz na frente da pessoa e a pessoa prova e não sente o sal. Trinta anos e eu nunca entendi. — Gabo apoiou as duas mãos na mesa. — Pergunte a ela. Na sua simulação. Pergunte por que o sal.
+
+O jasmim continuou no ar. A boca de Isadora abriu e fechou sem produzir som.
+
+— Você nunca entrou lá — disse ele. — Está vendendo um quarto que não viu.
+
 A mão de Gabo tremeu. Ele olhou para o frasco. Uma vida onde a chuva parou. Onde sua mãe estava assando bolo. Onde seu pai estava lendo jornal. Onde ele não era um aleijado perseguido.
 
 — É só beber — sussurrou Isadora. — E você pode ficar lá para sempre. Sem dor. Sem luta. Apenas paz.
+
+O frasco tinha o peso de uma bala de revólver. Lá dentro, o azul não se mexia como líquido: subia pela parede de vidro, demorava, voltava. O cheiro atravessava a rolha — doce, metálico, com um fundo de piscina clorada. Cheiro de corredor de hospital. Cheiro de tanque.
 
 Gabo sentiu o desejo. Era uma fome física, avassaladora. Ele estendeu a mão. Seus dedos roçaram o vidro frio.
 
@@ -101,5 +118,13 @@ Ela se levantou, ajeitando o vestido.
 — Não se engane, Moretti. Eu não sou sua amiga. Eu só quero estar do lado que vai estar vivo amanhã.
 
 Ela saiu, deixando para trás o cheiro de jasmim e a promessa de traição.
+
+O velho do balcão não disse nada enquanto a porta fechava. Depois enxugou um copo com um pano que já tinha secado coisa pior e guardou a garrafa de uísque embaixo do balcão, fora de alcance.
+
+— O quarto de cima tá ocupado — disse ele.
+
+— O quarto de cima tá vazio desde março.
+
+— Agora tá ocupado. — Ele não levantou os olhos. — Eu tenho neta, Moretti. Se aquele cheiro de flor voltar aqui, ela vai junto.
 
 Gabo olhou para a mancha azul na parede. Ele tinha recusado o paraíso. Agora, só restava vencer o inferno.

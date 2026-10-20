@@ -4,6 +4,7 @@ title: "Capítulo 85: O Sol Negro"
 description: "Ao meio-dia, sobre o Memorial do Dilúvio, uma esfera do tamanho de um quarteirão come o sol. E a cidade para pela segunda vez em um ano."
 image: /capitulo_85.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Dra. Nise, Capitão Jonas Vilar
+Localização: "Memorial do Dilúvio — 12h"
 ---
 
 # Capítulo 85: O Sol Negro

@@ -15,7 +15,7 @@ Valéria ia na vanguarda, rastejando de joelhos com a facilidade de quem cresceu
 
 — Se eu soubesse que a nossa rota turística incluía rastejar no esgoto dos fundos da Aeterna, — murmurou ela, a voz ecoando abafada pelo metal, — eu tinha cobrado o dobro daquele adiantamento em créditos que você nunca me pagou na Doca Três.
 
-— Você já me roubou três cyberdecks e uma garrafa de gim sintético no Capítulo 176, Val, — retruquei entre dentes, arrastando o cotovelo de aço sobre a chapa oxidada. O atrito arrancava faíscas pálidas que iluminavam a poeira ácida. — Considera a dívida quitada.
+— Você já me roubou três cyberdecks e uma garrafa de gim sintético, Val, — retruquei entre dentes, arrastando o cotovelo de aço sobre a chapa oxidada. O atrito arrancava faíscas pálidas que iluminavam a poeira ácida. — Considera a dívida quitada.
 
 — Aquele gim tinha gosto de desinfetante de necrotério e você sabe disso, — rebateu ela, soltando um estalo curto de riso que quebrou a tensão opressiva do túnel. — E o deck do Vasco tava com o processador queimado. Eu tive que refazer as trilhas de cobre no canivete.
 
@@ -25,7 +25,7 @@ Atrás de mim, a respiração de Elias era um silvo asmático, entrecortado por 
 
 — As paredes tão aí há quarenta anos, Elias, — eu disse, parando por três segundos para firmar o joelho bom no metal e respirar fundo. — O aço não tá encolhendo. É a tua cabeça que tá tentando te derrubar. Respira devagar pelo nariz. Três segundos pra puxar, três pra soltar. Olha pras solas das minhas botas e não para de empurrar o chão.
 
-O peso da armação de ferro que Vasco parafusara no meu osso no Capítulo 175 para travar a fratura puxava meu ombro direito com uma fisgada constante e lancinante. As ataduras estavam empapadas de lodo químico, e a carne viva costurada ardia como se estivesse sob brasas, mas a dor física era um instrumento de foco. Lembrava o peso da água barrenta no Dilúvio e a fúria das comportas estourando anos atrás quando a Torre Aeterna ruiu; a dor provava que eu ainda estava aqui, rastejando, respirando o ar sujo deste purgatório.
+O peso da armação de ferro que Vasco parafusara no meu osso para travar a fratura puxava meu ombro direito com uma fisgada constante e lancinante. As ataduras estavam empapadas de lodo químico, e a carne viva costurada ardia como se estivesse sob brasas, mas a dor física era um instrumento de foco. Lembrava o peso da água barrenta no Dilúvio e a fúria das comportas estourando anos atrás quando a Torre Aeterna ruiu; a dor provava que eu ainda estava aqui, rastejando, respirando o ar sujo deste purgatório.
 
 — Moretti, — a voz de Valéria mudou de tom, perdendo o deboche e ganhando a afiada frieza de alerta tático.
 

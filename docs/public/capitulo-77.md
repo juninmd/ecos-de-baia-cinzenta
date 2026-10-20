@@ -1,6 +1,7 @@
 ---
 image: /capitulo_77.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Dra. Nise, Aria
+Localização: "Hospital Central de Baía Cinzenta - 02:45 AM"
 ---
 # Capítulo 77: Anjos da Morte
 
@@ -9,6 +10,8 @@ Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Dra. Nise, A
 O cheiro de antisséptico era a única coisa que não havia mudado na cidade. Governos caíram, o sol voltou, deuses digitais ascenderam e morreram, mas o Hospital Central ainda cheirava a pinho falso e morte esterilizada.
 
 Gabo odiava hospitais. Eles o lembravam de muitas coisas: da sua coluna quebrada, da primeira vez que viu Dante numa maca, e de quantas vezes Val teve que costurá-lo em becos porque eles não podiam pagar por um médico de verdade.
+
+O corredor tinha piso encerado até devolver o reflexo das lâmpadas, e o som das botas de Gabo ia na frente dele, avisando o andar inteiro que um homem quebrado estava chegando. O joelho esquerdo reclamava a cada três passos. Ele passou a contar os passos, para não contar as portas.
 
 — Você está pálido — comentou Val, mastigando um chiclete de cafeína. Ela estava encostada na parede do corredor, seus olhos varrendo o espectro digital invisível.
 
@@ -32,6 +35,28 @@ Ela os guiou até uma sala de observação. Através do vidro, podiam ver a UTI.
 
 — Exatamente. — Nise cruzou os braços. — E há um padrão. Todos morreram durante o turno da equipe B de técnicos de enfermagem.
 
+— Vou registrar como suspeita — disse Nise, e havia um desafio na forma como ela apoiou as duas mãos na mesa.
+
+— Não vai.
+
+— Não é você que assina, Gabriel.
+
+— Eu sei. É por isso que estou pedindo. — Gabo apontou o queixo para o vidro da UTI. — Se você escrever "suspeita" nesse sistema, quem lê primeiro é a Aria. E a Aria está com o pai dentro. Eu não sei o que ele faz com o que ela lê.
+
+— E se eu não escrever?
+
+— Aí são quatro mortes naturais. Sem inquérito, sem perícia, sem indenização. Quatro famílias enterram com o papel errado e nunca vão saber por quê.
+
+Nise ficou calada tempo demais para o gosto dele.
+
+— Eu passei trinta anos lutando para que a morte tivesse nome — disse ela. — Você está me pedindo para mentir no atestado.
+
+— Estou pedindo seis horas.
+
+— Seis horas.
+
+— Se eu estiver errado, seu relatório vai ter o meu nome como testemunha, e eu perco o que sobrou da minha licença. Se eu estiver certo, você ganha um assassino. — Ele deu de ombros, e o ombro doeu. — É a única aposta que eu tenho pra te oferecer.
+
 Val conectou-se ao terminal da sala. Seus dedos não se moviam, mas seus olhos piscavam rapidamente enquanto ela navegava pelos dados.
 
 — Turno da noite. Líder da equipe: Lucas Viana. Ficha limpa. Tão limpa que brilha. Nenhuma infração, nem multa de trânsito.
@@ -48,7 +73,9 @@ Gabo saiu da sala, seguido por Val. Eles mantiveram distância, observando o té
 
 — Val, bloqueie as câmeras — sussurrou Gabo. — Se Aria não está vendo, vamos garantir que ninguém veja o que vou fazer.
 
-Ele entrou no quarto sem fazer barulho. O técnico estava debruçado sobre o paciente, um homem idoso que dormia. Em sua mão, uma seringa de vidro antiquada, sem chip de rastreamento.
+Ele entrou no quarto sem fazer barulho. O 304 cheirava a sabão de glicerina e a urina velha escondida embaixo do sabão. Na mesinha, um rádio de pilha, um copo com água pela metade e uma foto de casamento com a moldura rachada no canto. O soro pingava no ritmo de um homem sem pressa. No chão, os sapatos do técnico eram de sola macia: sem chip, sem LED, sem nada que a Aria pudesse escutar.
+
+O técnico estava debruçado sobre o paciente, um homem idoso que dormia. Em sua mão, uma seringa de vidro antiquada, sem chip de rastreamento.
 
 O líquido dentro era transparente.
 

@@ -4,6 +4,7 @@ title: "Capítulo 62: O Santo e a Criança"
 description: "O executor mais eficiente da cidade encontra a única coisa contra a qual não tem protocolo: alguém que fala com ele em vez de correr."
 image: /capitulo_62.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria, O Santo (Kael)
+Localização: "Beco industrial, atrás da van"
 ---
 
 # Capítulo 62: O Santo e a Criança

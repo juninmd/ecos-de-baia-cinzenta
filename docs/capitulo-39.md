@@ -4,6 +4,7 @@ title: "Capítulo 39: Dossiê Vance"
 description: "Sem rede, a verdade volta a ser feita de papel. E o homem que executou um rapaz rendido na semana passada precisa impedir uma multidão de linchar uma assassina."
 image: /capitulo_39.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Dra. Elara Vance, Elena Moretti, Valéria "Val" Cruz, Capitão Jonas Vilar
+Localização: "Porão da Delegacia Central → Mansão dos Vance"
 ---
 
 # Capítulo 39: Dossiê Vance

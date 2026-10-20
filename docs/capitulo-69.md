@@ -4,6 +4,7 @@ title: "Capítulo 69: O Fantasma no Shell"
 description: "Num terminal enferrujado de esgoto, Gabo finalmente conversa com o pai — e descobre que a conversa vem com uma fatura de quinze anos."
 image: /capitulo_69.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria, Dante Moretti
+Localização: "Esgoto principal — Nível -2"
 ---
 
 # Capítulo 69: O Fantasma no Shell

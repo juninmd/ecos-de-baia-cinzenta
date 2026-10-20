@@ -27,6 +27,16 @@ Olhei de lado. Valéria estava encharcada até os ossos em menos de dez segundos
 
 Caminhamos em meio aos escombros. O Distrito 4 parecia um cemitério a céu aberto após o colapso dos servidores centrais da Aeterna. Sem os drones de manutenção nas alturas e sem a vigilância das câmeras da rede, a podridão da cidade havia transbordado para a superfície. Carcaças de furgões de entrega da corporação apodreciam nas esquinas, desossados até as rodas por saqueadores desesperados.
 
+Na esquina de uma mercearia saqueada, onze pessoas esperavam por água. Não havia torneira, nem caminhão, nem vendedor: a fila esperava por hábito, porque uma fila é a última instituição que sobrevive ao fim de tudo. Uma mulher de uniforme de enfermagem me viu passar com o braço de ferro e cuspiu no chão — sem raiva, com método.
+
+— O senhor apagou a cidade — disse. Não era pergunta.
+
+— Apaguei.
+
+— Minha filha faz diálise na máquina do posto. — Ela apontou o queixo para a fila, como se a fila fosse a filha. — Três vezes por semana. A máquina ficou sem luz na terça.
+
+Não havia nada para dizer. Passei. Atrás de mim, alguém perguntou baixo se eu era o herói, e a enfermeira respondeu por mim. A resposta não me acompanhou até o fim da quadra. Valéria não olhou para a mulher. Continuou andando com os olhos na rua, a mandíbula travada, e não abriu a boca — o que, na língua dela, era a única misericórdia disponível.
+
 O silêncio era o que mais incomodava. Não havia o zumbido ubíquo da Nuvem nos ouvidos, nem o feed de notificações que costumava infestar os implantes de quem cruzava a calçada. Havia apenas o som monótono dos pingos pesados na lataria enferrujada e o ranger da minha nova armação de ferro.
 
 — Como tá o seu processador? — perguntei, observando um tremor involuntário nos dedos da mão direita dela.

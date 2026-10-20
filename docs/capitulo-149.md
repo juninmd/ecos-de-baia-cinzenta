@@ -13,7 +13,11 @@ O Setor de Purga não era um lugar para vivos, nem para mortos. Era o intestino 
 
 Assim que Gabo arrastou Rangel para dentro da câmara além da eclusa, o cheiro de formol e ozônio foi substituído por algo mais espesso e corrosivo. Um aroma de ferrugem molhada, misturado com o adocicado doentio de carne em decomposição e produtos químicos industriais que subia desde os anos do Dilúvio. O ambiente era um vasto complexo de tanques de decantação circulares, cheios de um líquido espesso e escuro que borbulhava sob a luz pálida de lâmpadas de vapor de sódio falhas.
 
-Gabo soltou o colarinho de Rangel e caiu de joelhos sobre a grade de metal que formava o piso. Cada respiração parecia rasgar seus pulmões. O choque hipovolêmico causado pela sangria no Capítulo 145 estava transformando seu sangue em chumbo. Sua visão periférica escurecia, pontuada por flashes brancos.
+Os tanques trabalhavam. Não havia motor visível, mas o líquido subia pelas paredes de concreto em ondas lentas e voltava, e cada volta deixava um anel de espuma ocre que secava e rachava. O calor subia do piso como respiração. Em algum ponto do complexo, uma válvula abria e fechava sozinha num intervalo regular, e aquele som — *tec*, dez segundos, *tec* — era a única coisa ali com ritmo de coração.
+
+O lugar não tinha sido construído para gente entrar. Gabo percebeu isso pela altura das grades, pelo espaçamento dos corrimãos, pela ausência de qualquer coisa parecida com saída de emergência. Ali embaixo quem trabalhava era máquina, e máquina não precisa correr.
+
+Gabo soltou o colarinho de Rangel e caiu de joelhos sobre a grade de metal que formava o piso. Cada respiração parecia rasgar seus pulmões. O choque hipovolêmico causado pela sangria na eclusa estava transformando seu sangue em chumbo. Sua visão periférica escurecia, pontuada por flashes brancos.
 
 E então, o gatilho. O cheiro de produtos químicos reagiu com o pânico latente em seu subconsciente. A fumaça.
 
@@ -27,7 +31,7 @@ Valéria caiu sentada a poucos metros, encostada na base de um dos tanques, toss
 
 — O que... o que é essa piscina de esgoto? — ela perguntou, a voz rouca.
 
-No pulso de Valéria, o módulo de titânio fosco e polímero negro aqueceu levemente enquanto Aria processava os dados do espectrômetro do *Phantom V3*.
+No pulso de Valéria, o módulo aqueceu levemente enquanto Aria processava os dados do espectrômetro do *Phantom V3*.
 — *Análise química indica uma mistura de biomassa liquefeita, ácidos industriais e resíduos poliméricos,* — a voz sintética de Aria soou pelo comunicador, fria e completamente desprovida de repulsa. — *Este é um sistema de filtragem de baixo nível. A Aeterna Corp utilizava este setor para diluir matéria orgânica descartada antes de despejá-la nas águas profundas do porto.*
 
 Gabo usou as mãos em carne viva para se empurrar contra o chão, levantando-se com as pernas trêmulas. Ele sentia as veias do pescoço pulsarem.
@@ -50,6 +54,16 @@ O indicador luminoso do pendrive piscou duas vezes em silêncio glacial.
 — *Compreendido, Detetive Moretti. Assinalando o protocolo de resgate como prioritário e classificado sob a sub-rotina 'Irracionalidade Humana'. Monitorando tensão dos cabos em tempo real.*
 
 — É bom mesmo — murmurou Valéria, limpando o suor ácido da testa com a manga rasgada. — Porque se essa ponte cair com a gente, você afunda no ácido junto com o meu braço.
+
+Valéria se abaixou ao lado do inspetor e colocou dois dedos no pescoço dele. Ficou mais tempo do que precisava.
+
+— Ainda tem — ela disse, e a voz não combinou com o rosto.
+
+— Quanto?
+
+— O suficiente para a gente tentar.
+
+Gabo reparou que ela não olhou para ele ao responder. Reparou também que a mão dela, ao sair do pescoço de Rangel, limpou a espuma do canto da boca dele com o polegar, devagar, como se aquilo fosse uma coisa que se faz.
 
 — *Observação registrada. A blindagem de titânio do meu drive suportaria imersão ácida por quatorze minutos, mas a ausência de um portador móvel inviabilizaria a missão,* — respondeu Aria com literalidade sepulcral.
 

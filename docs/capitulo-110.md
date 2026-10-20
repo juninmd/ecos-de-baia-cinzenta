@@ -1,6 +1,7 @@
 ---
 image: /cenas/beco.jpeg
 Personagens Presentes: Gabriel "Gabo" Moretti, Inspetor Rangel, Valéria "Val" Cruz, Aria, Kiko Vibe, Dante Moretti
+Localização: "Canais de Drenagem do Setor 4 → O Fliperama"
 ---
 # Capítulo 110: Ponto Cego
 

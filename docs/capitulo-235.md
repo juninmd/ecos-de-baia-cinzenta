@@ -17,7 +17,7 @@ A cidade inteira estava acordando para ouvir os nomes de seus carrascos.
 
 Quando dobramos a curva do quebra-mar, vimos a carcaça da subestação.
 
-Não havia mais prédio. O que restava era uma cratera incandescente de metal e alvenaria retorcida, cuspindo labaredas azuis de gás refrigerante contra o céu de chuva. A explosão criogênica dos reatores havia arrancado a ala oeste como quem corta uma lata de sardinha. Três veículos blindados da força de contenção da Aeterna estavam reduzidos a carcaças de aço negro, com os pneus queimando em poças de borracha líquida.
+Não havia mais prédio. O que restava era uma cratera incandescente de metal e alvenaria retorcida, cuspindo labaredas azuis de óleo isolante contra o céu de chuva. A explosão do banco de capacitores havia arrancado a ala oeste como quem corta uma lata de sardinha. Três veículos blindados da força de contenção da Aeterna estavam reduzidos a carcaças de aço negro, com os pneus queimando em poças de borracha líquida.
 
 Os drones sentinelas jaziam espalhados pelo cascalho como besouros pisoteados. Nenhum deles operava. O pulso de sobrecarga da torre havia fritado os circuitos de navegação em um raio de dois quilômetros. A infraestrutura de vigilância que sufocava a Baía há meio século estava cega.
 
@@ -45,7 +45,7 @@ A *Caronte* repousava ao lado de sua coxa, com a culatra aberta e dois cartuchos
 
 Ela não estava se mexendo.
 
-O queixo estava caído sobre o peito. As mechas do cabelo castanho claro estavam coladas na testa molhada de suor e fuligem. Lembrei-me da carta que ela me deixara no Capítulo 56, quando prometera levar a verdade para fora da cúpula para que os arquivos nunca morressem. Em sua mão direita, apertada contra o peito com os nós dos dedos brancos de esforço, repousava o gravador de microcassete de plástico cinza.
+O queixo estava caído sobre o peito. As mechas do cabelo castanho claro estavam coladas na testa molhada de suor e fuligem. Lembrei-me da carta que ela me deixara antes de cruzar o perímetro, quando prometera levar a verdade para fora da cúpula para que os arquivos nunca morressem. Em sua mão direita, apertada contra o peito com os nós dos dedos brancos de esforço, repousava o gravador de microcassete de plástico cinza.
 
 Caí de joelhos ao lado dela.
 
@@ -77,7 +77,7 @@ Apertei o botão de rebobinar. O zumbido agudo das engrenagens plásticas durou 
 
 Parei. Apertei o *PLAY*.
 
-O estalo característico do cabeçote magnético soou no meu tímpano, seguido por um ruído de fundo ensurdecedor — o rugido dos maçaricos corporativos cortando a porta, o alarme de emergência da usina uivando em dois tons e o chiar contínuo da alta tensão da antena.
+O estalo característico do cabeçote magnético soou no meu tímpano, seguido por um ruído de fundo ensurdecedor — o rugido dos maçaricos corporativos cortando a porta, o alarme de emergência da subestação uivando em dois tons e o chiar contínuo da alta tensão da antena.
 
 Depois, a respiração de Elena.
 
@@ -105,7 +105,7 @@ Uma pausa longa. O som do sangue pingando nas lajotas da sala.
 
 — Não carrega essa culpa, Gabriel. A culpa de Baía Cinzenta não é sua. Você nunca foi o grupo de controle do Krell por escolha; você foi apenas o único homem teimoso o bastante para continuar em pé enquanto todo mundo se vendia ou caía de joelhos. Não deixa eles te transformarem num número de pasta. Você é o Gabriel Moretti. O homem que me beijava na balsa do cais e que não sabia mentir sobre o preço do pão.
 
-Sua voz vacilou, quase apagada pelo uivo final do reator.
+Sua voz vacilou, quase apagada pelo uivo final do banco de capacitores.
 
 — O cordão de latão... fica com ele. Ele tem a chave da nossa velha caixa postal da estação rodoviária. Tem algumas cartas que eu escrevi quando achava que a gente ia envelhecer juntos. Guarda isso. Mas agora... quando o sol nascer, desliga o rádio, Gabriel. Enterra o que precisa ser enterrado. E vai viver.
 

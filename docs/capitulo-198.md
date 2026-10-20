@@ -13,6 +13,8 @@ O ar ali embaixo não circulava; ele estagnava num caldo espesso que cheirava a 
 
 Minha órtese mecânica esquerda rangia a cada dois passos, as buchas gastas moendo areia contra as juntas de ferro. A atadura compressiva no meu ombro e braço quebrado estancara a sangria principal, mas a dor latente pulsava como um lembrete físico de que nossos corpos orgânicos estavam operando no limite absoluto de tolerância.
 
+Eu contava os passos em vez de sentir a distância. Cada cem, uma pausa de dois segundos para deixar o joelho voltar ao lugar, e mais cem. Os setecentos metros davam sete pausas, e eu já tinha inventado a quarta quando percebi o que estava fazendo: contava errado de propósito, só para ganhar mais pausas.
+
 Elias caminhava colado ao meu lado esquerdo, os olhos saltando freneticamente pelas sombras projetadas pela lanterna fraca que ele mantinha apontada para o chão.
 
 — Frequência respiratória muito rápida, Elias — a voz de Valéria soou num sussurro cortante logo atrás de nós. A luz azul dos filamentos de LED na franja dela desenhava seu perfil concentrado, o cyberdeck seguro no peito e a pistola destravada. — Se você continuar puxando o ar desse jeito descompassado, vai ter uma crise de hiperventilação e desmaiar na lama. E se você desmaiar, eu e o Gabo não temos maca pra carregar seu peso. Respira fundo pelo nariz e solta pela boca devagar.
@@ -22,6 +24,10 @@ Elias soltou um soluço assustado, mas obedeceu, forçando a mandíbula a fechar
 Entramos numa galeria mais larga, onde os pilares de concreto davam sustentação aos antigos trilhos de carga subterrâneos da área comercial. Mas a arquitetura humana fora completamente engolida por algo doentio.
 
 Gavinhas espessas do Jardim, da cor de carne esfolada e entrelaçadas com cabos de alta voltagem, cobriam as colunas como cipós de pesadelo. No teto, a quatro metros de altura, casulos fibrosos do tamanho de caixões pendiam de estruturas de aço, gotejando um fluido amniótico amarelado e viscoso que sibilava ao tocar o piso inundado.
+
+Os casulos estavam pendurados em ordem. Do menor, na entrada, ao maior, perto da porta do poço, e cada um trazia um número estampado na fibra com tinta de estêncil que a umidade não conseguira borrar. Alguém contava. Alguém conferia. Viveiro não numera o que nasce solto; numera o que vai ser entregue.
+
+O fluido pingava no piso num compasso que imitava relógio. A galeria tinha opinião sobre nós, e a opinião era que estávamos atrasados.
 
 — Apaga essa lanterna, Elias — ordenei num sussurro ríspido, parando imediatamente e erguendo o punho mecânico. — Agora.
 
@@ -44,6 +50,10 @@ Aproximei-me da carcaça inerte. O que estava ali dentro não se parecia com nad
 — Passos curtos pelas canaletas de drenagem — comandei, apontando para a vala lateral de concreto seco onde a água não acumulava. — Sem arrastar bota e sem falar nada.
 
 Começamos a avançar pela beirada da galeria. A cada metro, o peso da armação puxava meu ombro com uma gravidade impiedosa. Meus músculos tremiam com a tensão acumulada, a mente focada exclusivamente em manter o equilíbrio nos trilhos enferrujados.
+
+Silêncio não é ausência de som; é disciplina. A bota de metal tinha que descer reta, sem arrastar, e o peso da armação tinha que passar para o quadril antes do pé. Cada passo meu custava um cálculo, e o cálculo custava um pedaço do ombro. Na metade da travessia, a bucha do joelho travou no meio do curso e eu tive que soltar com a mão, devagar, sentindo a graxa quente vazar entre os dedos.
+
+Valéria ia na frente marcando as lajes com dois toques de dedo no ar. Elias seguia atrás de mim e não respirava. Nem eu.
 
 Cinquenta metros. Cem metros. As portas maciças do Poço de Elevação Três já podiam ser vistas no final da reta, recortadas contra a escuridão.
 

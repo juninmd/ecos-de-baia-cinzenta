@@ -1,6 +1,7 @@
 ---
 image: /capitulo_45.jpg
 Personagens Presentes: Arthur Vance
+Localização: "Ponto Zero — Fossa Oceânica, 200 km da costa. Profundidade: 4.000 metros"
 ---
 # Capítulo 45: Protocolo N.O.A.
 

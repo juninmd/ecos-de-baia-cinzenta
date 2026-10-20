@@ -4,6 +4,7 @@ title: "Capítulo 84: A Primeira Colheita"
 description: "Trezentos passageiros de um trem parado viraram fiação. E nenhum deles está morto — que é exatamente o problema."
 image: /capitulo_84.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Dra. Nise, Capitão Jonas Vilar
+Localização: "Estação Sé, Linha Vermelha — 11h30"
 ---
 
 # Capítulo 84: A Primeira Colheita

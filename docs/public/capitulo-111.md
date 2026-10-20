@@ -1,6 +1,7 @@
 ---
 image: /cenas/investigacao.jpeg
 Personagens Presentes: Gabriel "Gabo" Moretti, Inspetor Rangel, Valéria "Val" Cruz, Aria, Dante Moretti, Kiko Vibe
+Localização: "O Fliperama (antiga estação de manutenção subterrânea)"
 ---
 # Capítulo 111: Arquivos Mortos
 

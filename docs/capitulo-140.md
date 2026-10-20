@@ -13,7 +13,7 @@ O calor não veio de uma vez. Ele cresceu, pesado e sufocante, como um cobertor 
 
 As paredes brancas do Estúdio começaram a perder a cor, distorcidas pelas ondas de calor que emanavam dos painéis de piso. O cheiro de ozônio e sangue, que antes dominava o ar, foi substituído pelo fedor acre de plástico queimado e cabelo chamuscado.
 
-— Temperatura ambiente: 68 graus Celsius — a voz sintética e monocórdica de Aria cortou o zumbido crescente dos incineradores, saindo pelo alto-falante do comunicador tático na gola de Gabo. Acoplado à porta lateral do cyberdeck *Phantom V3* no pulso de Valéria, o drive neural blindado de titânio fosco e polímero negro da IA piscava seu LED azul-gelo em frequência frenética. — Aumento de dois graus por segundo. Colapso biológico em noventa segundos.
+— Temperatura ambiente: 68 graus Celsius — a voz sintética e monocórdica de Aria cortou o zumbido crescente dos incineradores, saindo pelo alto-falante do comunicador tático na gola de Gabo. Acoplado à porta lateral do cyberdeck *Phantom V3* no pulso de Valéria, o drive neural blindado da IA piscava seu LED azul-gelo em frequência frenética. — Aumento de dois graus por segundo. Colapso biológico em noventa segundos.
 
 Gabo tossiu, o ar seco arranhando sua garganta. Ele olhou para cima. Atrás da cúpula de vidro blindado, o Taxidermista observava. Ele não sorria. Apenas assistia, com as mãos cruzadas nas costas, como um cientista observando uma cultura de bactérias ser esterilizada.
 

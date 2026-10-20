@@ -15,7 +15,7 @@ Aquele cheiro. O legista pigarreando anos atrás, a brasa do cigarro iluminando 
 
 — *A integridade estrutural da passagem foi comprometida. O Taxidermista recalibrou os sensores térmicos do setor,* — a voz sintética de Aria cortou o silêncio pelo comunicador na gola de Gabo.
 
-Valéria caiu do duto logo atrás dele, um monte trêmulo de roupas encharcadas e carne congelada. No pulso dela, o pendrive blindado de titânio e polímero negro de Aria brilhava com seu LED azul-gelo intacto e desprovido de qualquer emoção. Os lábios da hacker estavam perigosamente azuis, e o bater de seus dentes soava como pequenos estalos de vidro quebrando.
+Valéria caiu do duto logo atrás dele, um monte trêmulo de roupas encharcadas e carne congelada. No pulso dela, o pendrive blindado de Aria brilhava com seu LED azul-gelo intacto e desprovido de qualquer emoção. Os lábios da hacker estavam perigosamente azuis, e o bater de seus dentes soava como pequenos estalos de vidro quebrando.
 
 — G-Gabo... — ela gaguejou, abraçando os próprios joelhos. — Eu não sinto... não sinto meus pés.
 

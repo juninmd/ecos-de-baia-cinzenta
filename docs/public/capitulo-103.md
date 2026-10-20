@@ -1,6 +1,7 @@
 ---
 image: /capitulo_103.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Silas Vance ("O Jardineiro"), Roberto Miranda, Elena Moretti, Dante Moretti
+Localização: "Zona de Exclusão Sul - O Núcleo do Berçário"
 ---
 # Capítulo 103: A Convergência
 

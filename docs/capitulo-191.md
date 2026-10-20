@@ -13,6 +13,10 @@ A junta de vedação partiu-se com um silvo ensurdecedor de gás comprimido. Um 
 
 Na minha boca, o sabor metálico de sangue misturava-se à poeira cáustica. A dor no meu ombro fraturado explodiu em fagulhas agudas, repuxando as cicatrizes que cobriam minha carne lacerada desde a batalha na Torre do Relógio.
 
+O gás subiu em coluna e achou meu rosto antes que eu pudesse virar. Ardência de agulha nas narinas, os olhos fechando sozinhos, a garganta fechando junto. Cuspi de lado e o cuspe saiu esverdeado no gradeamento.
+
+A névoa congelou na armação em cristais brancos que estalavam a cada movimento do meu pulso. O metal ficou tão frio que a sensação atravessou os nós neurais e virou queimadura seca, daquelas que a gente só descobre horas depois, quando a pele já soltou.
+
 Instantaneamente, a câmara reagiu como uma besta ferida.
 
 Os alarmes do Jardim não eram sirenes eletrônicas de fábrica. Eram uivos guturais, um estrondo dissonante que ecoava das colunas. Um coro rouco e desumano irrompeu dos pulmões necrosados dos corpos suspensos nos racks de dados. As dezenas de bio-baterias — pessoas que a cidade considerava mortas há anos — se contorceram nos cabos ópticos, espasmando enquanto o choque térmico começava a estilhaçar as placas-mãe.
@@ -20,6 +24,12 @@ Os alarmes do Jardim não eram sirenes eletrônicas de fábrica. Eram uivos gutu
 Lembrei de cada homem e mulher que vi morrer nos esgotos desde o Dilúvio. Toda aquela máquina fora erguida sobre pilhas de sacrifício e perda irreparável. Mas ali não haveria misericórdia; haveria fogo.
 
 Sem a refrigeração forçada, a temperatura dos circuitos começou a subir a uma velocidade assustadora de vinte graus por segundo. O calor escaldante expulsou a umidade, transformando o salão num forno crematório.
+
+Um dos doadores acordou de verdade nos últimos segundos. Não os olhos, que estavam abertos desde sempre. A boca. Ele moveu os lábios sem som, duas vezes, e o que eu li foi um nome ou uma pergunta, e nunca vou saber qual dos dois.
+
+— Vai — falei, sem saber se ele ouvia. — Tá quase.
+
+A pele dele começou a soltar fumaça pelas costuras dos eletrodos. Eu não podia fazer nada além de não parar.
 
 — Tá funcionando! — Valéria gritou por cima do ruído ensurdecedor do vapor químico e dos estalos de cabos se rompendo. Ela estava agachada atrás de um console de concreto, os dedos disparando comandos no cyberdeck para travar as comportas de exaustão e impedir que o sistema dispersasse o calor. — O circuito fechado travou! O calor não tem pra onde sair! Arrebenta a segunda linha, Gabo! A tubulação auxiliar do lado esquerdo!
 
@@ -50,6 +60,10 @@ As raízes carmesins começaram a estalar e queimar em labaredas púrpuras, solt
 Manquei através da cortina de fogo e detritos incandescentes, ignorando o calor abrasador que começava a chamuscar a barra do meu sobretudo. Ergui a mão mecânica uma última vez, mirei no nó central que ancorava a coluna de dados e desferi um golpe descendente com todo o peso do meu tronco ferido.
 
 A garra industrial cravou-se fundo no coração do pilar. O chumbo e o cobre se fundiram num estalo ensurdecedor que sacudiu o piso de concreto sob nossos pés. O último pulso de dados do Jardim piscou em verde, vacilou e apagou-se de vez numa chuva de cinzas e faíscas. A malha fora arrancada da tomada; nunca mais aquela abominação escravizaria mentes na escuridão do Setor 7.
+
+A garra não quis sair. Puxei duas vezes e o metal rangeu dentro do pilar como unha em dente. Deixei lá. Uma das garras da armação ficou enterrada no cobre, e eu ia ter que andar com a mão torta pelo resto daquela descida.
+
+O ouvido esquerdo tinha desligado no estouro. Sobrou um apito fino e constante, e do lado de lá do apito o mundo passou a chegar abafado, como conversa atrás de vidro.
 
 O colapso foi imediato. As vigas de ferro do teto começaram a vergar com estalos de trovão mecânico, e pedaços de alvenaria despencaram nas poças de amônia em chamas, levantando jatos de vapor escaldante.
 

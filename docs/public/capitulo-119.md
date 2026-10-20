@@ -1,6 +1,7 @@
 ---
 image: /cenas/cidade.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Inspetor Rangel, Valéria "Val" Cruz, Aria
+Localização: "Usina Prometeu em ruínas — Corredores → Doca de Carga B"
 ---
 # Capítulo 119: Cinzas Frias
 
@@ -8,9 +9,13 @@ A gravidade parecia ter dobrado. Não era apenas o cansaço brutal nas órteses 
 
 O "Pai" estava caído. A voz que ordenava a cidade havia se calado.
 
+O corredor tinha voz própria agora. Sem o zumbido dos servidores, os outros sons subiram de volume: água correndo por dentro das paredes, o estalo térmico das vigas, o clique de um relé morrendo em algum armário elétrico. Gabo ouviu tudo com a clareza irritante de quem passou a vida numa cidade que nunca deixava ninguém escutar nada.
+
+Faltava uma coisa. Não era ruído. Era a respiração de Aria no ponto auditivo — um chiado mínimo, quase imaginário, que ele só notava quando não estava lá. Ele levou dois dedos ao comunicador da lapela, como quem confere um bolso, e não encontrou nada.
+
 — O drive ainda está soltando fumaça, Gabo — arfou Valéria, correndo ao lado dele com o *Phantom V3* desligado preso ao peito. Seu rosto estava sujo de fuligem e sangue seco, mas seus olhos, iluminados pelas luzes de emergência vermelhas, mostravam uma determinação feroz. — Se o calor derreter o barramento interno do pendrive, não vai sobrar nem código para diagnosticar.
 
-Gabo não respondeu. No bolso interno de seu sobretudo, o pequeno cilindro de titânio fosco da Aria ainda queimava contra suas costelas como uma brasa apagando. Ele sentia o suor frio escorrendo pelas costas. O ar estava saturado com o cheiro de ozônio, plástico derretido e algo pior — o cheiro doce e enjoativo da biomassa queimando nos andares inferiores.
+Gabo não respondeu. No bolso interno de seu sobretudo, o cilindro da Aria ainda queimava contra suas costelas como uma brasa apagando. Ele sentia o suor frio escorrendo pelas costas. O ar estava saturado com o cheiro de ozônio, plástico derretido e algo pior — o cheiro doce e enjoativo da biomassa queimando nos andares inferiores.
 
 O cheiro doce da biomassa serviu de gatilho. Seus pulmões travaram, uma alucinação fantasma de fumaça sufocante invadindo sua mente como um eco de seus piores pesadelos.
 
@@ -23,6 +28,12 @@ O corredor tremeu. Uma explosão surda ecoou nas profundezas da usina, seguida p
 — A estrutura está cedendo — disse Gabo, forçando as pernas a se moverem mais rápido. — Se o núcleo geotérmico desestabilizar, tudo isso aqui vira uma cratera.
 
 Eles dobraram uma esquina e deram de cara com a Doca de Carga B. O portão estava emperrado, aberto pela metade por destroços fumegantes de dois drones "Jardineiros" abatidos.
+
+Do fundo da doca veio um som pequeno e metálico: o cão de uma pistola sendo puxado para trás, devagar, por alguém que não confiava na própria mão. O cheiro de sangue chegou junto, aquele cobre quente que se sobrepõe a tudo.
+
+Gabo parou. Ergueu as mãos na altura do peito, a direita ainda suja até o pulso, e disse o único nome que importava naquele corredor.
+
+— Rangel.
 
 E lá estava ele.
 
@@ -49,6 +60,16 @@ Ele olhou para o comunicador vazio na lapela de Gabo, onde antes brilhava o LED 
 Rangel assentiu, devagar.
 
 — Bom. A morte é muito rápida para ele.
+
+Ajoelhado ao lado dele, Gabo viu o que o Kevlar tinha escondido: um estilhaço do tamanho de um dedo entrando por baixo da clavícula, e a pele em volta já quente e escura. Não havia sutura, não havia soro. Havia um rolo de esparadrapo vencido no bolso do sobretudo e a mão dele tremendo.
+
+— Não faz essa cara — Rangel disse, os olhos fechados. — Eu conheço a sua cara. É a cara de quem vai tentar me carregar até o fim do mundo e depois pedir desculpa.
+
+— Você pesa demais pro fim do mundo. — Gabo rasgou a manga da própria camisa. — Vamos até a doca externa.
+
+— Vamos até onde der.
+
+Foi a única vez que Rangel aceitou um limite sem discutir, e isso assustou Gabo mais que o sangue.
 
 Um novo tremor sacudiu o chão, mais violento dessa vez. Poeira de concreto caiu do teto.
 

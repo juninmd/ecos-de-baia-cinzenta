@@ -1,6 +1,7 @@
 ---
 image: /capitulo_100.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti
+Localização: "Zona de Exclusão Sul - Antiga Linha Vermelha do Metrô"
 ---
 # Capítulo 100: O Ventre da Besta
 
@@ -11,6 +12,8 @@ O Cobalt azul-metálico cortava a neblina como uma lâmina cega. O motor tossia,
 Ele não fumava — na verdade, detestava o cheiro, uma herança maldita do pai —, mas seus dedos tamborilavam no volante em um ritmo frenético, um tique nervoso para manter a mente alerta. Ao seu lado, no banco do passageiro, o cubo preto repousava, silencioso e inerte, como uma bomba esperando o detonador.
 
 Gabo parou o carro diante da entrada lacrada da estação "Jardim das Flores". O nome era uma piada cruel de um urbanista morto há décadas; não havia flores ali, apenas concreto, pichações e o cheiro acre de enxofre.
+
+Ele desligou o motor e ficou um instante parado, ouvindo. A cidade em cima fazia o barulho de sempre: água na calha, gerador, um cachorro latindo para nada. Aqui embaixo havia outro som, fino e constante, que ele levou alguns segundos para reconhecer. Ventilação. Uma coluna de ar subindo por um duto que não devia estar funcionando havia meses, e subindo com força, como pulmão de gente grande.
 
 Ele desceu do carro, ajustando as cintas das órteses nas pernas. O *clique-clique* metálico dos servos acompanhou seus passos até a grade.
 
@@ -28,17 +31,37 @@ Gabo apontou para o carro. Elena foi até lá, pegou o cubo e o examinou com uma
 
 — Elara estava certa — murmurou ela. — Eles conseguiram compactar.
 
+— Você leu isso onde?
+
+— Nos cadernos dela. Três mil páginas, todas em papel, porque ela não confiava em nada que tivesse antena. — Elena passou o polegar na borda do cubo, devagar. — Eu passei quatro meses traduzindo aquilo num quarto sem janela, com um aquecedor que só funcionava de madrugada. Perdi o emprego, o apartamento e a coluna na Gazeta. E perdi a Elara, que sumiu antes de terminar de me explicar o que era o Berçário.
+
+— Ela fugiu?
+
+— Ela foi. — Elena sorriu sem humor nenhum. — Tem diferença, e eu ainda não decidi qual das duas me deixou mais puta.
+
 — Compactar o quê? — perguntou Gabo, aproximando-se. — O que é o Berçário, Elena?
 
 Ela o encarou, e Gabo viu um medo profundo naqueles olhos, um medo que ele só vira em veteranos que encararam o "Santo" nos olhos.
 
 — Não é um servidor, Gabo. Aeterna não estava construindo uma IA. Eles estavam construindo um corpo.
 
+Ela devolveu o cubo. Gabo o guardou no bolso do casaco, onde ficou quente contra o peito, vibrando de vez em quando como dente que dói.
+
 Ela fez um sinal para que ele a seguisse. Eles pularam a catraca quebrada e começaram a descer as escadas rolantes paralisadas.
 
 — Dante descobriu antes de morrer — explicou ela, a voz ecoando no túnel. — O "Projeto Gênesis" não era sobre upload de consciência. Era sobre download. Eles queriam trazer algo *de lá* para *cá*. Mas precisavam de um receptáculo que aguentasse a latência. Silício queima. Carne aguenta.
 
 Eles caminharam pelos trilhos por quase uma hora. A escuridão era absoluta, quebrada apenas pelas lanternas táticas. O ar ficava mais quente e úmido à medida que desciam. O cheiro mudou. Não era mais esgoto. Cheirava a... estufa. Terra molhada e algo doce, enjoativo.
+
+Duas vezes passaram por uma lâmpada de emergência acesa. Não era bateria velha: o plástico estava limpo, o fio era novo, o laço de nylon ainda tinha o nó. Alguém trocava aquilo.
+
+Na segunda, Gabo parou e apontou. Havia duas marcas de joelho no pó, ao lado de um banco de concreto, e ao lado das marcas um prato de alumínio raspado até o brilho.
+
+— Eles rezam aqui — disse Elena, baixo. — Antes de descer.
+
+— Rezam para quê?
+
+— Para que o que está lá embaixo continue com fome. — Ela ajustou a espingarda no ombro. — É o que eu faria, se fosse louca o suficiente.
 
 — Estamos chegando — avisou Elena.
 

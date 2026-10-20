@@ -4,6 +4,7 @@ title: "Capítulo 63: Águas Profundas"
 description: "A represa que devia proteger a cidade virou muralha do reino digital. Lá dentro, Gabo descobre que tem um protetor pior que os inimigos."
 image: /capitulo_63.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria, O Taxidermista
+Localização: "Represa de Baía Cinzenta — nível inferior"
 ---
 
 # Capítulo 63: Águas Profundas

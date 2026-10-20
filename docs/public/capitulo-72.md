@@ -4,6 +4,7 @@ title: "Capítulo 72: A Ofensiva"
 description: "A cidade segura a torre com os próprios braços. E Gabo escolhe onde três hastes de tungstênio vão cair — sabendo o que está enterrando no fundo do mar."
 image: /capitulo_72.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria, Kael "O Cirurgião", Roberto Miranda
+Localização: "Torre Aeterna — em queda"
 ---
 
 # Capítulo 72: A Ofensiva

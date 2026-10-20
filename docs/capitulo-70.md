@@ -1,6 +1,7 @@
 ---
 image: /capitulo_70.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, O Taxidermista, Marco Moretti, Aria, Kael "O Cirurgião", Dante Moretti
+Localização: 'Órbita Baixa - Satélite "Martelo de Deus"'
 ---
 # Capítulo 70: O Expurgo
 

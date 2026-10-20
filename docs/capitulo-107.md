@@ -1,6 +1,7 @@
 ---
 image: /capitulo_107.jpg
 Personagens Presentes: Dante Moretti, Gabriel "Gabo" Moretti, Elena Moretti, Inspetor Rangel
+Localização: "Subsolo da Delegacia da Biblioteca"
 ---
 # Capítulo 107: O Teorema da Chuva
 

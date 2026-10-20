@@ -29,7 +29,7 @@ O LED azul do pendrive pulsou uma única vez no escuro. A voz que horas antes fa
 
 — *Recomendação: otimização de recursos. O sujeito Rangel é peso morto e deve ser deixado para trás. A eutanásia é a opção lógica para evitar captura e tortura subsequente.*
 
-O ar saiu dos pulmões de Gabo. Ele baixou os olhos para o cilindro de titânio fosco no comunicador.
+O ar saiu dos pulmões de Gabo. Ele baixou os olhos para o cilindro no comunicador.
 
 — O quê? — A palavra saiu como um rosnado.
 

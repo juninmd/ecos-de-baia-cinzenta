@@ -1,6 +1,7 @@
 ---
 image: /capitulo_51.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Capitão Jonas Vilar, Roberto Miranda, Marco Moretti, Helena Moretti, Elena Moretti
+Localização: "Beco atrás de clínica clandestina, Distrito da Névoa"
 ---
 # Capítulo 51: Mãos Limpas
 
@@ -15,6 +16,16 @@ Gabo desceu do Cobalt, suas botas chapinhando na lama oleosa do beco atrás de u
 Vilar apontou para o corpo encostado na parede de tijolos. Era um homem bem vestido, terno de seda sintética, sapatos italianos. A única coisa fora do lugar era o pescoço, torcido em um ângulo impossível, e as mãos.
 
 Gabo se agachou. As mãos do homem estavam esmagadas. Cada dedo quebrado metodicamente. E sobre o peito, uma única moeda de prata antiga.
+
+Os joelhos de Gabo protestaram antes dele. A coluna ainda tinha o formato da viga que quase o partira ao meio, e agachar era uma conta que ele pagava em três parcelas: uma ao descer, uma ao ficar, e a maior ao levantar. Ele ficou. O tijolo atrás dele estava gelado mesmo através da luva, e a água entrava pelo cano da bota e subia dois dedos, morna de esgoto.
+
+Atrás dele, a porta de serviço da clínica abriu um palmo. Uma mulher de avental plastificado espiou pelo vão, o rosto amassado de quem não dormia havia dias. Não olhou para o corpo. Olhou para as mãos de Gabo, e para o coldre debaixo do casaco.
+
+— Ele cobrava em insulina, inspetor — disse ela, baixinho. — Não em crédito. Em ampola. Quem não tinha, tinha o nome riscado da lista.
+
+— A senhora tem essa lista?
+
+A porta fechou. O ferrolho correu com um estalo seco, duas vezes, como quem tranca uma casa e uma consciência na mesma volta da chave.
 
 — Quem é o sortudo? — perguntou Gabo.
 
@@ -48,6 +59,16 @@ Gabo olhou para a moeda de prata no peito da vítima. Havia uma inscrição em l
 
 — Talvez. Mas com a cidade debaixo d'água e metade do meu departamento na folha de pagamento do crime organizado... talvez vingança seja tudo o que nos resta.
 
+Vilar tirou o cigarro da boca e olhou para ele de lado, e havia mais cansaço do que censura naquele olhar.
+
+— Você está de licença. Licença médica, assinada por mim, com carimbo e tudo. Se eu te der esse dossiê, ele sai da delegacia como cópia informal. Sem cadeia de custódia, sem número de registro. Nada que você achar ali dentro vale um minuto de tribunal.
+
+— Desde quando o que eu acho vale em tribunal?
+
+— Desde nunca. — Vilar esmagou a bituca no tijolo com o calcanhar. — Mas enquanto existe papel, alguém tem que responder por ele. Sem papel, quem responde é você.
+
+Gabo pegou o tablet. O peso era ridículo para o que estava aceitando: dali em diante, cada porta que ele arrombasse seria arrombamento, cada tiro seria tiro de civil, cada corpo que ele tocasse seria contaminado por uma testemunha sem autoridade nenhuma. Vilar já sabia. Era exatamente por isso que estava entregando.
+
 Gabo se levantou.
 
 — Eu quero o dossiê desse "Farmacêutico". Quero saber quem ele extorquiu, quem ele matou indiretamente.
@@ -57,6 +78,10 @@ Gabo se levantou.
 — Porque esse "Santo" não escolhe vítimas aleatórias. Ele tem uma lista. E se ele está seguindo uma lista, eu posso descobrir quem é o próximo.
 
 Gabo voltou para o carro. A chuva parecia mais fria agora. Ele não conseguia tirar da cabeça a imagem das mãos quebradas. Eram as mãos de quem recebia dinheiro sujo. O assassino estava enviando uma mensagem.
+
+Ele guardou a moeda num saco plástico antes que Vilar pudesse reclamar da cadeia de custódia que os dois tinham acabado de perder. O metal ainda estava morno, e não era do corpo. Era de bolso. Quem a carregou até ali tinha esperado o beco esvaziar, com a moeda fechada na mão, o tempo suficiente para aquecê-la.
+
+Alguém tinha esperado. Isso era pior do que a força.
 
 Ele ligou o motor do Cobalt.
 

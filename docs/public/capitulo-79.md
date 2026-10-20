@@ -4,6 +4,7 @@ title: "Capítulo 79: Frequências Fantasmas"
 description: "Val volta ao rádio de ondas curtas porque o digital ficou limpo demais. E a estática devolve a voz de um homem que Gabo viu virar caco no chão."
 image: /capitulo_79.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria, Silas Vance ("O Jardineiro"), Roberto Miranda
+Localização: "Apartamento da Val — 14h30"
 ---
 
 # Capítulo 79: Frequências Fantasmas

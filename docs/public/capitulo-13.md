@@ -1,14 +1,21 @@
 ---
 image: /capitulo_13.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Roberto Miranda, Valéria "Val" Cruz
+Localização: "Caverna do supercomputador orgânico (bunker sob a Torre Aeterna)"
 ---
 # Capítulo 13: Shadowban
 
 O vidro do tanque explodiu. Fluido criogênico e biomassa jorraram, inundando o chão da caverna. O supercomputador orgânico gritou — um som agudo, digital e humano ao mesmo tempo.
 
+O frio que subiu do chão tinha peso. Gabriel sentiu o gelo atravessar a sola das botas e subir pelo osso da canela, e o cheiro do fluido era doce, como fruta passada, o que era pior que cheiro de podridão.
+
+Alguma coisa dentro dos tanques ainda batia. Não como um coração: como uma máquina tentando terminar a frase.
+
 — NÃO! — gritou Miranda.
 
 As figuras mascaradas — os "Cancelados" — começaram a convulsionar. Sem o controle central, suas mentes estavam voltando, desordenadas e furiosas.
+
+Uma delas caiu de joelhos e arranhou a própria máscara com as unhas, e a máscara não cedeu. O som que saiu de dentro era uma palavra partida ao meio, repetida até virar ruído: *meu nome, meu nome, meu nome*.
 
 — Val, agora! — gritou Gabriel.
 
@@ -16,11 +23,23 @@ Valéria correu para o terminal principal, ignorando os avisos de erro em sua vi
 
 — Estou dentro! O firewall caiu junto com o resfriamento!
 
+As mãos dela estavam sangrando outra vez. O cabo de interface brilhava onde encostava na pele, e Gabriel viu o pulso saltar como se houvesse um segundo coração no antebraço.
+
+— Você tem quanto tempo? — gritou ele.
+
+— Enquanto eu continuar digitando.
+
+— Isso não é resposta.
+
+— É a única que eu tenho, Gabo!
+
 Miranda sacou uma arma de energia e disparou. O raio queimou o ombro de Gabriel, jogando-o contra uma parede de rocha.
 
 — Você estragou tudo! — Miranda rugia, seu rosto contorcido. — Tínhamos ordem! Tínhamos paz!
 
 Gabriel levantou-se, ignorando a dor.
+
+A carne do ombro tinha o cheiro de pano esquecido no ferro de passar. A mão direita ainda fechava; era o que importava. Ele não olhou para o ferimento, porque olhar dá ao corpo a ideia de reclamar.
 
 — Paz de cemitério não conta, Miranda.
 
@@ -62,6 +81,14 @@ A cidade acordou de uma ressaca coletiva.
 
 No bunker, os "Cancelados" arrancaram suas máscaras. Eram pessoas comuns. Jornalistas, ativistas, cientistas. E eles estavam muito, muito bravos.
 
+Uma mulher ficou olhando para Gabriel como se ele fosse uma conta que não fechava. Era pequena, tinha o cabelo cortado rente ao crânio e um buraco na blusa onde devia estar um crachá.
+
+— Você demorou — disse ela.
+
+— Eu não sabia.
+
+— Eu sei. — Ela virou as costas e caminhou para Miranda, e o que disse depois foi baixo demais para Gabriel entender, e alto o bastante para Miranda parar de rir.
+
 Eles cercaram Miranda.
 
 — Gabo... — Miranda olhou para a multidão. O terror deu lugar a uma aceitação maníaca. Ele começou a rir.
@@ -84,6 +111,10 @@ Enquanto eles subiam pelo elevador, a risada de Miranda ecoou pelo poço, mistur
 
 A cidade estava em chamas. Mas eram chamas de revolta, não de destruição. As pessoas estavam nas ruas, quebrando as telas de propaganda, derrubando as estátuas da Aeterna.
 
+Um homem passou correndo com uma televisão de plasma nos braços e parou ao ver o sangue no ombro de Gabriel. Olhou para o rosto. Olhou para o sangue. Continuou correndo, porque carregar uma televisão era mais útil que carregar uma opinião.
+
+Uma menina de uns sete anos estava sentada no meio-fio comendo um pacote de biscoito, indiferente ao mundo que desabava. Valéria olhou para ela e desviou o olhar rápido demais.
+
 Valéria sentou-se na calçada, exausta. Seus implantes brilharam com um azul forte e saudável.
 
 — Minha licença renovou — disse ela, rindo e chorando ao mesmo tempo. — Eu sou eu de novo.
@@ -91,6 +122,8 @@ Valéria sentou-se na calçada, exausta. Seus implantes brilharam com um azul fo
 Gabriel sentou-se ao lado dela, segurando o braço queimado.
 
 — Conseguimos.
+
+O braço queimado latejava num ritmo que não era o do coração. Ao redor deles, a cidade comemorava como quem quebra a própria casa para provar que é dono dela. Alguém jogava cadeiras do quarto andar. Alguém vendia água. Havia cheiro de fumaça e de pipoca, e Gabriel não conseguiu decidir qual dos dois o incomodava mais.
 
 — E agora? — perguntou ela. — O Marco Moretti vai cair. O sistema caiu. O que sobrou?
 
