@@ -1,5 +1,6 @@
 ---
 image: /capitulo_1.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Roberto Miranda
 ---
 # Capítulo 1: Olhos de Vidro
 
@@ -33,6 +34,16 @@ Antes que Gabo pudesse avançar, seu comunicador de pulso vibrou. Uma luz vermel
 
 A linha ficou muda. Gabo praguejou baixinho.
 
+*Certifique-se de que tenha um culpado também, e rápido.*
+
+Ele já tinha ouvido aquela frase antes, dita com outras palavras, num outro plantão, catorze anos atrás. Naquela noite ele tinha um culpado e nenhuma prova, e o prazo era de quinze dias, e ele resolveu o problema.
+
+Gabo guardou o comunicador no bolso com mais força do que precisava.
+
+Na gaveta de baixo da mesa dele, na delegacia, embaixo de duas caixas de papelada morta, havia uma pasta de inquérito arquivado que ele nunca jogou fora e nunca reabriu. **BRAGA, A. — 1º Distrito.** Ele não pensava nela havia meses.
+
+Pensou agora, por três segundos, e depois voltou para o corpo com as lentes no lugar dos olhos, porque o corpo era o problema de hoje e o resto era problema de nunca.
+
 Gabriel engoliu rapidamente o resto de seu café, sentindo o gosto amargo descer pela garganta misturado com a bile da raiva. Ele não queria entrar lá. Aos trinta anos, sentia-se como se tivesse setenta. Seus joelhos estalavam, e a insônia da semana passada fazia as luzes da cidade deixarem rastros em sua visão periférica.
 
 Sua mão direita foi instintivamente para o peito, tateando sob a camisa até encontrar o metal frio do "Colar de Sol". Ele apertou o pingente com força, sentindo as arestas morderem a palma da mão. A dor aguda era seu âncora. Melhor que nicotina, melhor que álcool. A dor o lembrava de que ele ainda estava ali, físico e real, num mundo que tentava se dissolver em dados.
@@ -43,7 +54,7 @@ E havia o Ruído. Aquele zumbido onipresente de baixa frequência que a cidade e
 
 O desconforto era apenas mais um ruído de fundo. O cheiro era o pior. Uma mistura de ozônio queimado, lixo apodrecendo na umidade e aquele odor metálico e adocicado de sangue velho. Gabo puxou um lenço do bolso e cobriu o nariz e a boca por um segundo, inspirando o cheiro forte de cânfora e menta que ele usava para mascarar o fedor da morte.
 
-Ele avançou, desviando de poças que refletiam o céu cinza como espelhos quebrados. Iluminou o chão com sua lanterna, procurando marcas de pneus, cartuchos de adrenalina vazios, qualquer coisa que a chuva ainda não tivesse levado. A água gelada batia em seu rosto, trazendo uma memória indesejada. A mesma chuva caía na noite em que encontraram Beatriz. Bia... sua parceira, seu amor, sua âncora.
+Ele avançou, desviando de poças que refletiam o céu cinza como espelhos quebrados. Iluminou o chão com sua lanterna, procurando marcas de pneus, bitucas de cigarro, qualquer coisa que a chuva ainda não tivesse levado. A água gelada batia em seu rosto, trazendo uma memória indesejada. A mesma chuva caía na noite em que encontraram Beatriz. Bia... sua parceira, seu amor, sua âncora.
 
 Ele ainda podia ver o corpo dela estendido no asfalto, o buraco de bala no peito fumegante. O relatório oficial dizia "assalto mal sucedido", mas Gabo sabia a verdade. Ele vira a sombra de Roberto Miranda se afastando no beco. Miranda, o amigo que virou carrasco. A dor daquela perda nunca cicatrizou; apenas calcificou, transformando-se em uma armadura de cinismo que ele vestia todos os dias.
 

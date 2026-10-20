@@ -16,7 +16,7 @@ Talvez ele visse a digitalização como uma ofensa pessoal — um homem que dedi
 
 Não importava.
 
-O que importava era que, por noventa segundos, ninguém estava olhando para o chão, e Gabo usou os noventa segundos para se arrastar até o console — com um braço só, empurrando com a perna esquerda, deixando um rastro molhado atrás de si.
+O que importava era que, por noventa segundos, ninguém estava olhando para o chão, e Gabo usou os noventa segundos para se arrastar até o console — apoiando-se no braço bom, empurrando com a perna esquerda, deixando um rastro molhado atrás de si.
 
 — Conseguiu?
 

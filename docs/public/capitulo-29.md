@@ -1,5 +1,6 @@
 ---
 image: /capitulo_29.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Elena Moretti, O Gamemaster
 ---
 # Capítulo 29: O Dilema dos Fantasmas
 

@@ -35,19 +35,19 @@ A náusea atingiu Gabo na boca do estômago com a força de um gancho. A asfixia
 
 *Ele não vai me sufocar de novo.*
 
-Gabo girou o tronco dolorido. Ignorando a máquina de morte que ganhava velocidade pelo corredor central, ele mirou a quina de aço negro de um gabinete de arquivos inativo. Com um urro gutural, o detetive chocou violentamente o cotoco selado e em carne viva de seu braço direito contra a aresta aguda do metal congelado.
+Gabo girou o tronco dolorido. Ignorando a máquina de morte que ganhava velocidade pelo corredor central, ele mirou a quina de aço negro de um gabinete de arquivos inativo. Com um urro gutural, o detetive chocou violentamente o braço direito quebrado, protegido apenas por talas de emergência e ataduras ensanguentadas, contra a aresta aguda do metal congelado.
 
-A resina coagulante e a crosta da cauterização de plasma estalaram. O impacto mandou uma labareda branca, pura e implacável de agonia elétrica através de suas terminações nervosas direto para a medula.
+A madeira improvisada e as faixas cederam, e os ossos fraturados estalaram numa torção violenta. O impacto mandou uma labareda branca, pura e implacável de agonia elétrica através de suas terminações nervosas direto para a medula.
 
 A névoa nauseante do tabaco fantasma evaporou em um milionésimo de segundo, dissipada pelo raio incandescente da dor física. O ozônio cortante e frio voltou. Gabo arfou ruidosamente, os olhos lacrimejando enquanto o gosto metálico do próprio sangue suplantava o asco. A realidade, cruel e lúcida, ancorou suas botas no linóleo.
 
-— Tá perto — murmurou Gabo, ofegante, debruçado sobre a quina de metal enquanto a pulsação frenética do braço amputado martelava em sua mente. — E não tá convidando a gente pra um café.
+— Tá perto — murmurou Gabo, ofegante, debruçado sobre a quina de metal enquanto a pulsação frenética do braço fraturado martelava em sua mente. — E não tá convidando a gente pra um café.
 
 Valéria postou-se ao seu lado, sacando a pistola 9mm e descrevendo um arco defensivo ao longo do corredor enquanto o laser vermelho do Sentinel varria o chão aos seus pés.
 
 — Fica atrás de mim — ela disse, a voz baixa, seca pela exaustão. — O Taxidermista curtia brincar com carne, mas isso aqui… isso é aço e silício puro.
 
-— Não gasta bala nessa porra, Val! — Gabo cuspiu, erguendo o corpo pesado e limpando o sangue recém-escorrido do cotoco na própria jaqueta. — Olha pra essa blindagem. Atirar nisso vai ser como cuspir numa montanha.
+— Não gasta bala nessa porra, Val! — Gabo cuspiu, erguendo o corpo pesado e apoiando o braço direito quebrado junto ao peito na jaqueta encardida. — Olha pra essa blindagem. Atirar nisso vai ser como cuspir numa montanha.
 
 — E como a gente para um tanque de doze toneladas dentro de um corredor estreito?! — Valéria berrou, abaixando a arma um centímetro enquanto recuava assombrada, ouvindo o zumbido crescente dos capacitores do monstro carregando. — Não temos granada. Não temos nada que perfure titânio. E ele vai fechar a avenida inteira antes da gente chegar em qualquer saída!
 
@@ -63,7 +63,7 @@ E foi então que Gabo entendeu, sob a clareza gélida de seus ferimentos, como c
 
 — *Afirmativo,* — respondeu a IA pelo comunicador. — *Sua diretriz primária é o expurgo ativo de ameaças orgânicas. E devido ao isolamento eletromagnético, o Sentinel opera exclusivamente conectado à malha física local de sub-fibra sob o piso. Nós não podemos enviar pulsos remotos de desligamento pelo ar.*
 
-— Ele é imune pelo ar porque a porra da nossa tomada ainda não entrou na rede dele — Gabo cortou a frase, virando o pescoço duro para Valéria e apontando com o cotoco sangrento para um antigo terminal mestre de manutenção coberto de poeira branca, embutido na coluna de chumbo de um servidor no meio da avenida central, entre eles e a máquina assassina que estava agora a sessenta metros de distância.
+— Ele é imune pelo ar porque a porra da nossa tomada ainda não entrou na rede dele — Gabo cortou a frase, virando o pescoço duro para Valéria e apontando com a mão enfaixada para um antigo terminal mestre de manutenção coberto de poeira branca, embutido na coluna de chumbo de um servidor no meio da avenida central, entre eles e a máquina assassina que estava agora a sessenta metros de distância.
 
 Era uma porta de diagnóstico primária cravada na lateral do corredor, ligada diretamente às raízes de silício do próprio Subnível 2.0 — a mesma malha física que o monstro defendia.
 

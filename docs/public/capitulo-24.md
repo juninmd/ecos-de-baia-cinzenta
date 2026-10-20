@@ -1,5 +1,6 @@
 ---
 image: /capitulo_24.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, O Taxidermista, Elena Moretti, Aria Moretti
 ---
 # Capítulo 24: A Galeria dos Deformados
 

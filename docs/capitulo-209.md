@@ -7,168 +7,60 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 # Capítulo 209: Cristais de Óxido
 
-O frio da câmara de resfriamento estava cobrando o preço dele.
+O frio da câmara de resfriamento cobrava um tributo metódico e implacável a cada respiração. Frio subterrâneo não é apenas desconforto térmico; é um imposto biológico. Ele rouba a sensibilidade das pontas dos dedos, reduz a flexibilidade dos tendões e transforma a cartilagem dos joelhos em vidro quebradiço. Minha perna esquerda tremia em espasmos involuntários, com a órtese emperrada arranhando o piso a cada passo claudicante.
 
-Frio de verdade não é o que as pessoas pensam. Não é desconforto: é imposto. Ele tira uma parcela de cada coisa que o corpo faz, e ele começa a cobrar pelas mãos.
+A dor no ombro direito, onde Vasco parafusara a armação de sucata no Capítulo 175 para conter a fratura, tinha mudado de natureza: ardia em um pulsar surdo e profundo, como se agulhas de gelo estivessem sendo cravadas na minha clavícula. As cicatrizes do Dilúvio queimavam sob a sarja encharcada. Mas a dor física mantinha o foco afiado; afastava o torpor do cansaço crônico e mantinha meus olhos pregados na passarela oxidada.
 
-Meus músculos tremiam sozinhos, num ciclo rápido que eu não conseguia interromper mandando parar.
+— Se a gente ficar parado mais dez minutos nessa névoa polar, Moretti, — disse Valéria, parando na bifurcação da grade com as mãos enfiadas nos bolsos da jaqueta de couro, — suas articulações vão soldar por congelamento e eu vou ter que arrastar você de trenó até o Hub.
 
-A dor do ombro lacerado tinha virado outra coisa: uma pulsação rítmica, maçante, como se alguém estivesse martelando um prego na clavícula no compasso do meu batimento.
+— Não precisa de trenó, Val, — resmunguei, batendo o calcanhar da bota boa no ferro para manter a circulação ativa. Minha respiração formava uma nuvem densa e leitosa que se dissipava contra o teto baixo. — Eu ainda sei andar sobre as minhas próprias pernas.
 
-Em circunstâncias normais eu odiaria isso.
+— "Andar" é uma palavra muito generosa pro que você tá fazendo, — ela rebateu, com os olhos prateados faiscando sob o brilho azul da franja holográfica. — Tá mais pra um guindaste bêbado arrastando uma âncora. E o Elias tá quase virando estátua de sal ali atrás.
 
-Ali embaixo, cercado de morte e decadência cibernética, a agonia era o meu último santuário. Enquanto ela morde, não sobra espaço para o cheiro de charuto.
+Elias estava encostado na tubulação mestra, abraçando os próprios joelhos com os dentes castanholando em um ritmo frenético. O rapaz olhava para a frente com os olhos arregalados, a lanterna tremendo em sua mão enluvada.
 
-É um negócio ruim. Eu sei que é um negócio ruim. Faz três anos que eu venho renovando.
+— Gabo... olha pro chão logo depois da curva... — a voz de Elias saiu em um fio rouco. — Aquilo... aquilo não é grade.
 
----
+Dei dois passos à frente, apoiando o cano curto da *Caronte* na cintura, e mirei a lanterna na direção que ele apontava.
 
-— Progresso lento, Gabo.
-
-A Valéria ia na frente, sem hesitar em bifurcação nenhuma, porque o Modo de Segurança não hesita: ele escolhe a rota de menor custo e segue.
-
-Os servos faciais dela estavam imóveis. Nada de pressa, nada de empatia, nada.
-
-— Se a exposição térmica se estender por mais vinte e sete minutos, suas funções motoras biológicas começarão a falhar em níveis críticos.
-
-— Define "críticos".
-
-— Perda de coordenação fina nas mãos aos dezenove minutos. Perda de discernimento aos trinta e um. Você começará a tomar decisões ruins antes de perceber que está com frio.
-
-— Isso é a definição da minha vida inteira, Val.
-
-Ela não respondeu, porque não era pergunta e porque o Modo de Segurança não responde a coisa que não é pergunta.
-
----
-
-— O joelho dele já tá quase travando — disse o Elias, e o pavor estava todo na voz rouca do garoto.
-
-Ele estava certo, e essa é a utilidade dele.
-
-O frio congela a graxa da órtese esquerda. Aquela porcaria foi calibrada para vinte e dois graus e está trabalhando a quatro negativos, e a cada passo o meu joelho artificial arrastava sobre o aço com um rangido de porta velha.
-
-— Eu aguento — rosnei.
-
-E bati o punho mecanizado contra a perna defeituosa.
-
-O golpe ecoou pela câmara — brutal, alto, feio.
-
-Destravou a engrenagem por uns quarenta passos e me custou uma fisgada que subiu do quadril até o dente. Vale a pena e é um péssimo hábito, e eu sei disso do mesmo jeito que sei do resto.
-
----
-
-O corredor levou a um entroncamento na passarela.
-
-E ali o chão deixou de ser grade de aço.
-
-Era um campo de espigões translúcidos, negros por dentro, subindo do piso em ângulos aleatórios, com uns trinta centímetros os maiores.
+O piso de aço da passarela desaparecia completamente cinquenta metros adiante. No lugar da grade perfurada, erguia-se uma floresta mineral bizarra: centenas de agulhas translúcidas e negras, medindo de trinta a sessenta centímetros de comprimento, brotando do chão e das paredes curvas em ângulos pontiagudos e desordenados.
 
 Cristais de óxido.
 
-Isso não existia antes. Não existe em livro nenhum. É o produto da reação entre o que sobrou da Praga de Ferro e os esporos mortos do Jardim, e a reação é endotérmica, o que quer dizer que ela **rouba calor** do ambiente enquanto acontece.
+Era a bocarra química da cidade. A reação violenta entre o resíduo biológico do Jardim e as partículas ferrosas da Praga de Ferro consumia o calor ambiente em um processo endotérmico contínuo, fazendo a temperatura despencar enquanto cristalizava o metal e a matéria orgânica em espigões afiados como navalhas cirúrgicas. O teto e o piso pareciam mandíbulas de um predador colossal que ainda não havia terminado de fechar a boca.
 
-É por isso que faz quatro graus negativos numa câmara que devia estar a dez positivos.
+— Que porcaria é essa? — sussurrei, sentindo o cheiro fétido de gás freon escapar da tubulação e o gosto amargo de ozônio queimar no fundo da língua.
 
-Aquele corredor não está frio porque quebrou o aquecimento.
+Valéria se agachou com cautela na beirada da formação cristalina, iluminando a base de um dos espigões com o feixe óptico do cyberdeck. Ela sacou uma faca tática curta da cintura e tocou de leve a ponta da lâmina na ponta de um cristal.
 
-Ele está frio porque tem alguma coisa crescendo ali e o crescimento consome o calor.
+Um estalido fino e cristalino ecoou no silêncio gélido.
 
----
+— Lâminas moleculares de ferrita cristalizada, — ela explicou, guardando a lâmina e me encarando com uma seriedade límpida. — Frágil ao impacto, mas o fio de corte é mais fino que bisturi a laser. Se você pisar nisso aí, a bota rasga igual papel e os espinhos cravam na carne. A oxidação catalítica entra direto na corrente sanguínea. Septicemia em quatro horas, sem cura nem antibiótico que dê jeito neste subsolo.
 
-Parei, ofegante, e o meu bafo saiu numa nuvem que ficou pairando.
+— E dá pra contornar? — Elias perguntou, o desespero fazendo sua voz falhar.
 
-Elias iluminou a área.
+— Não tem contorno, gênio, — Valéria respondeu, apontando a luz para o alto. — A galeria inteira tá selada por esses dentes de ferro. O único caminho livre é por cima.
 
-As formações subiam pelas paredes laterais, cobrindo as antigas tubulações de energia, e se encontravam lá em cima sem fechar de todo — transformando o corredor estreito numa bocarra dentada que ainda não decidiu se fecha.
+Ergui os olhos, acompanhando o feixe da lanterna. Seis metros acima da floresta de cristais, presa à viga mestra do teto de concreto, uma plataforma estreita de manutenção corria paralela à tubulação de descarte, sustentada por correntes industriais e roldanas antigas. O piso daquela passarela suspensa estava enferrujado, mas livre da geada negra.
 
-— A densidade da geada anômala atinge o pico aqui — disse a Valéria. — Não podemos pisar.
+— A gente usa a plataforma elevada, — determinei, avaliando a distância vertical. — Valéria, você é a mais leve e tem a agilidade que me falta. Sobe pela escada de marinheiro chumbada na coluna oeste. O concreto ali parece firme. Alcança a roldana mestra e desce o cabo guia pra gente içar o Elias.
 
-— Por quê? Quebra?
+Valéria olhou para a escada enferrujada coberta por uma fina película de gelo, depois para o leito de cristais mortais logo abaixo.
 
-— Quebra. — Ela se agachou e aproximou o feixe. — Estrutura frágil, mas cortante em nível molecular devido à contaminação ferrosa. A borda de fratura é mais fina que qualquer lâmina cirúrgica em uso.
+— Se aquele cabo arrebentar enquanto eu estiver lá em cima, Moretti, eu caio direto numa cama de faquir de três mil pontas de ferro envenenado.
 
-— E aí?
+— O cabo aguenta três toneladas de contêiner, Val, — afirmei, olhando firme nos olhos prateados dela. — E você não cai. Eu conheço o seu equilíbrio desde que você corria nos telhados do Distrito Central quando a Aeterna botou a polícia atrás de nós.
 
-— E aí um corte é indolor no momento e leva material oxidado direto para o tecido subcutâneo. Sepse em quatro a nove horas, sem tratamento disponível num raio de sessenta quilômetros.
+Um sorriso fino e desafiador desenhou-se nos lábios pálidos dela. O cinismo deu lugar àquela determinação inabalável que sempre nos salvara da cova.
 
-Elias deu um passo para trás sem perceber que deu.
+— Só se você prometer não desmontar esse seu ombro postiço enquanto eu tiver lá em cima, — ela disparou, ajustando as correias do cyberdeck nas costas. — Segura o Elias firme. Se ele começar a gritar de medo, põe uma meia na boca dele antes que as vibrações rachem esse gelo.
 
----
+Ela não perdeu tempo. Com passos calculados e firmes, aproximou-se da base da coluna de concreto, cravou as pontas das botas reforçadas nos degraus de ferro e começou a subida vertical. A cada movimento, lascas de gelo seco desprendiam-se da parede, tilintando contra os cristais negros lá embaixo como vidro quebrado.
 
-— Tem uma plataforma de manutenção lá em cima.
+Elias sentou-se ao meu lado, as mãos nos joelhos, assistindo à subida com o fôlego preso.
 
-Levantei a arma pesadamente e apontei com o cano — porque apontar com o braço direito custa mais do que apontar com dois quilos de escopeta — para um guindaste inerte pendurado a uns seis metros.
+— Gabo... se ela não conseguir fixar a roldana... como a gente sai daqui?
 
-— A plataforma corre por cima do campo inteiro e desce do outro lado.
+— Ela vai conseguir, Elias, — respondi, apoiando a mão pesada de sucata no ombro do garoto para mantê-lo firme no chão. — Valéria nunca falhou quando a corda apertou no pescoço. Ela perdeu a Aria na Torre, perdeu quase tudo que tinha na Zona Baixa, mas continua de pé. Você só precisa confiar nela e manter a cabeça no lugar.
 
-— A gente não vai subir naquilo, né? — Elias balançou a cabeça, e ele estava com o rosto de quem já sabe a resposta. — Aquilo está enferrujado até a alma, Gabo. Se cair, a gente morre cravado no chão. Literalmente **cravado**.
-
-— A probabilidade de colapso estrutural sob carga dinâmica do nosso peso total é alta, porém não absoluta — contrapôs a Valéria, calculista. — Requer escalada técnica. Suas próteses danificadas não suportarão o torque, Gabo. Recomendo rota alternativa.
-
-— Existe rota alternativa?
-
-Uma pausa de trezentos milissegundos.
-
-— Não.
-
-— Então não recomenda nada.
-
----
-
-Cerrei os punhos.
-
-E a claustrofobia flertou comigo na borda da consciência — aquele terror primitivo e burro de sufocamento, que eu carrego desde os oito anos, desde um armário —, e ela veio junto com a fumaça, porque as duas sempre chegam de mãos dadas.
-
-Esmaguei os tendões feridos do braço com a mão de metal.
-
-A claridade voltou na hora.
-
-Levei uns quatro segundos para conseguir respirar direito, e nesses quatro segundos ninguém falou nada, e o Elias fingiu que estava olhando para outro lado.
-
-Ele é um bom garoto. Ele vai ficar bem se eu não estragar.
-
----
-
-— Valéria, você sobe.
-
-— Especifique.
-
-— Você é a única aqui que não sente frio, não sangra e não escorrega. Sobe pela parede oeste, que é a menos tomada, alcança a plataforma, prende a corda na polia principal do guindaste. A gente iça o Elias primeiro.
-
-— E você?
-
-— Eu vou por último, pendurado no cinto tático.
-
-— Risco elevado de dano muscular irremediável no ombro e no braço restantes.
-
-— Dano irremediável já faz parte do meu currículo, Val.
-
-Ela ficou me olhando por trezentos milissegundos, que é o tempo que ela leva para tudo, e eu tive — como sempre tenho — a alucinação de que naqueles trezentos milissegundos existe alguém pensando.
-
-— Ordem compreendida.
-
----
-
-Ela foi até a parede oeste e cravou os dedos no concreto enferrujado com precisão matemática, encontrando ponto de apoio onde eu não via ponto nenhum.
-
-Começou a escalar a escuridão sem fazer barulho.
-
-Elias sentou de cócoras ao meu lado, batendo os dentes num compasso rápido.
-
-— Gabo.
-
-— Fala.
-
-— Ela ainda tá aí dentro?
-
-Eu olhei para cima, para a silhueta subindo pela parede de uma câmara de resfriamento congelada a oitocentos metros abaixo de uma cidade morta.
-
-— Não sei — falei.
-
-E foi a primeira vez que eu disse isso em voz alta.
-
-— Mas se estiver, garoto, ela está presa numa sala pior que essa. Então a gente atravessa esse corredor, chega no Hub e liga o que tem que ligar.
-
-O silêncio do abismo voltou.
-
-Só o meu respirar pesado, o bater dos dentes do Elias, e o som mais fino do mundo vindo do chão: o dos cristais crescendo.
+O silêncio do abismo voltou a nos cercar, pesado e indiferente, quebrado apenas pelo tique-taque distante dos cristais de óxido que continuavam crescendo na escuridão, devorando o pouco calor que ainda nos mantinha vivos.

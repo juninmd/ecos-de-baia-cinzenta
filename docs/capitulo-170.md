@@ -12,7 +12,7 @@ O silêncio do Subnível 2.0 não era uma ausência de som, mas uma presença f�
 
 O *wetware* — o tecido cerebral que outrora orquestrara a farsa da Aeterna — agora não passava de biomassa apodrecendo sob as luzes de emergência.
 
-Meus cotocos sangravam. O tecido cauterizado pelo plasma no monorail havia se rompido novamente quando golpeei a mesa, esmagando o vidro temperado e as válvulas de suporte de vida. O sangue escorria pelos meus antebraços, misturando-se àquele fluido viscoso da corporação.
+As feridas do meu braço quebrado sangravam. A pele cauterizada e as ataduras rompidas pelo esforço haviam cedido quando golpeei a mesa, esmagando o vidro temperado e as válvulas de suporte de vida. O sangue escorria pelo meu antebraço fraturado, misturando-se àquele fluido viscoso da corporação.
 
 Eu encarava a massa cinzenta inerte. Não havia brilho de dados, nem a pulsação suave da respiração sintética. Apenas o cheiro gélido de formol, ozônio... e fumaça.
 
@@ -22,7 +22,7 @@ Ela rastejou pelas saídas de ar, espessa e com aquele odor enjoativo de cravo, 
 
 Senti meus pulmões travarem. O pânico de asfixia borbulhou no peito. A ilusão era perfeita, densa como neblina.
 
-Fechei os olhos e, com a precisão mecânica do hábito, ergui o coto do braço direito e o bati com força brutal contra a quina de aço da mesa.
+Fechei os olhos e, com a precisão mecânica do hábito, ergui o braço direito quebrado e forcei a fratura com força brutal contra a quina de aço da mesa.
 
 Um estalo oco. A dor irradiou em uma frequência aguda, subindo pelo úmero, explodindo no meu cérebro como um raio em um céu sem nuvens. O gosto de ferrugem inundou minha boca. A dor rasgou o véu da fumaça, dispersando-a instantaneamente. Arrastei o ar para os pulmões em um chiado áspero. A equação da dor. Ela sempre fechava.
 

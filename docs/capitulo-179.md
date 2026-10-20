@@ -7,49 +7,50 @@ Personagens Presentes: Gabo, Valéria
 
 # Capítulo 179: Ecos de Aço e Ferrugem
 
-A dor é um metrônomo. Um tique-taque elétrico e sujo que conta os segundos da minha sobrevivência. Cada leve movimento do meu braço direito enviava estilhaços de agonia através dos pregos neurais implantados por Vasco. Era uma sinfonia de tortura mecânica. E, paradoxalmente, minha única salvação.
+A dor no meu ombro direito funcionava como um metrônomo quebrado. Um tique-taque elétrico e sujo que contava os segundos da nossa sobrevida. A cada movimento do braço de ferro, os pregos neurais que Vasco cravou na minha escápula enviavam pontadas agudas até a base do crânio. Era o lembrete físico de que eu ainda pertencia ao mundo dos vivos, mesmo que este mundo cheirasse a esgoto podre e poeira de concreto moído.
 
-O silêncio na estação de metrô arruinada era absoluto, quebrado apenas pelo gotejar do teto e pelos zumbidos intermitentes dos servos de Valéria. Eu me forcei a levantar, raspando as costas na parede de azulejos cobertos de lodo. As sombras pareciam vivas, dançando nas poças de água ácida acumulada nos trilhos mortos.
+Valéria terminou de amarrar o cyberdeck às costas com tiras de lona encerada para proteger as portas lógicas da umidade. O corte curto do cabelo dela, molhado de chuva ácida, grudava nas têmporas pálidas, onde os fios de LED azul piscavam num compasso irregular.
 
-De repente, o ar pareceu estagnar. O cheiro de lixo úmido e ozônio foi engolido por algo muito pior. Alcatrão. Folhas secas queimando. O hálito putrefato do meu pai, Dante, materializando-se no escuro.
+— Terminei o diagnóstico do setor — ela disse, recolhendo a pistola pesada do coldre e checando o cão com o polegar calejado. — Esse ramal do metrô cruzava por baixo dos armazéns industriais da Aeterna antes de ser desativado na enchente de vinte anos atrás. Se os mapas antigos não estiverem mentindo, tem uma galeria de manutenção técnica duzentos metros à frente que corta direto para os dutos do Setor 6.
 
-A fumaça fantasma começou a se enroscar no meu pescoço. Senti a garganta fechar. O pânico era um animal selvagem arranhando por dentro do meu peito. Eu podia ouvi-lo tossir, aquela tosse úmida que precedia uma lição sobre poder e decepção.
+— E como tá a rede por lá?
 
-Cerrei o punho de metal. *Clack.*
+— Que rede, Gabo? — ela soltou um meio-riso irônico, cuspindo no chão de granilite rachado. — A rede morreu quando a Usina Prometeu apagou. Não tem sinal, não tem satélite, não tem nem rádio de baixa frequência. A única coisa que tá vazando pelos canos é interferência estática e água de escoamento químico. Vamos descer antes que o cheiro desse lodo grude no forro da minha jaqueta pra sempre.
 
-O motor industrial urrou no silêncio do subterrâneo. A onda de choque me atingiu como um martelo. Meus joelhos cederam, e eu bati com força no chão de concreto, o impacto enviando uma nova onda de dor pelas minhas costelas mal curadas. Eu engasguei, puxando o ar gelado para os pulmões.
+Descemos pelos trilhos enferrujados. A escuridão era densa, quase mastigável, furada apenas pelo facho estreito da lanterna que Valéria acoplou ao cano da arma. O ar nos túneis de manutenção era frio e pesado, com gosto de enxofre e amônia que ardia no fundo da garganta.
 
-O cheiro de cigarro desapareceu, substituído pelo sabor metálico do meu próprio sangue. Eu estava vivo. Eu estava aqui. Dante estava morto, enterrado sob os escombros do seu império.
+A cada dez passos, o peso assimétrico da armação externa forçava minha bota a escorregar no cascalho úmido. Eu respirava com dificuldade, sentindo as costelas trincadas protestarem contra o esforço contínuo de equilibrar vinte quilos de ferro sustentando meu braço fraturado.
 
-— Queda detectada. Analisando integridade óssea — a voz de Valéria cortou o escuro, fria como uma navalha de gelo. Seus olhos sintéticos emitiam um feixe opaco, escaneando meu corpo prostrado. — Frequência cardíaca: 140 bpm. Pressão arterial: elevada. Recomendo imobilização.
+— Pisa firme, Moretti — Valéria advertiu sem olhar para trás, a voz ecoando abafada pelas paredes circulares de concreto bruto. — Os dormentes tão podres. Se o seu pé furar essa madeira encharcada, eu não vou descer nos bueiros pra pescar sua perna de lata.
 
-Olhei para ela do chão. A postura dela era perfeitamente reta, a arma apontada para o chão em um ângulo de prontidão tática impecável. Não havia traço da mulher que certa vez me chamara de idiota por arriscar a vida. Apenas uma máquina calculando probabilidades de sobrevivência.
+— Presta atenção no teto, Val. A vibração dos meus passos tá soltando reboco.
 
-— Eu não preciso... de repouso — cuspi, forçando o corpo a se reerguer. O braço mecânico pesava uma tonelada. — Precisamos nos mover. Esses túneis não são seguros.
+Avançamos mais cinquenta metros até que o facho de luz dela congelou sobre a parede da bifurcação.
 
-— Afirmativo. Detectei fluxos de ar inconsistentes provenientes do túnel leste. Probabilidade de 78% de acesso a níveis inferiores de manutenção. A umidade indica proximidade com os dutos de escoamento secundário.
+— Que merda é aquela? — o sussurro de Valéria perdeu todo o sarcasmo num instante.
 
-Ela não discutiu. Não ofereceu a mão para me ajudar a levantar. Apenas virou-se, o feixe de luz cortando a escuridão, e começou a marchar em direção ao túnel leste.
+Aproximei-me, arrastando a bota pesada pelo lodo. O chão e as paredes da galeria lateral não eram feitos de concreto cinzento. Estavam forrados por um tapete espesso de matéria orgânica esbranquiçada e viscosa, entremeada por filamentos azulados que pulsavam com uma fosforescência pálida e doentia.
 
-Nós descemos para as entranhas da cidade. O túnel era um intestino de concreto e cabos expostos, cheirando a enxofre e decadência antiga. A luz fraca da lanterna de Valéria revelava pichações sobrepostas, mensagens de desespero de gerações esquecidas.
+No centro daquela massa viva, a carcaça de um drone de patrulha da Aeterna — um modelo blindado de choque — estava engolida até a metade. Os filamentos fúngicos penetravam as frestas do chassi de titânio, arrancando os fios de cobre e envolvendo os processadores numa crosta carnuda que parecia respirar.
 
-A cada passo, eu tensionava deliberadamente os músculos do ombro direito. A dor aguda mantinha as alucinações afastadas, uma corrente de choque contínua que impedia minha mente de vagar para as sombras do passado.
+— O Jardim... — murmurei, a mão esquerda instintivamente descendo para o cabo de *Caronte* sob o sobretudo. — A podridão do Silas não morreu na Usina. Ela tá descendo pelas galerias de esgoto.
 
-— Gabo. — Valéria parou abruptamente, o feixe de luz fixando-se no chão adiante. — Anomalia detectada.
+Valéria se agachou a dois metros da borda da massa luminosa, os olhos prateados arregalados e as pontas dos dedos estendidas para o scanner manual do deck.
 
-Aproximei-me, arrastando a bota pesada pelo lodo. O chão estava coberto por um tapete denso de matéria orgânica pálida, algo que lembrava fungos, mas pulsava com uma luminosidade fraca, doentia. O Jardim ainda estava ali. A rede biológica, as raízes podres da ambição da Aeterna Corp.
+— Não é só matéria fúngica, Gabo — ela apontou o sensor com uma precisão cirúrgica, a respiração presa na garganta. — O fungo tá mimetizando as conexões neurais do drone. Ele tá crescendo pra dentro das portas de barramento, decodificando os protocolos ópticos da Aeterna... A porcaria da biomassa tá usando o hardware descartado como esqueleto de processamento.
 
-No centro da massa luminosa, a carcaça de um drone de patrulha estava envolta, lentamente digerida pelos filamentos orgânicos.
+— Eles estão construindo uma rede própria no escuro.
 
-— Atividade metabólica elevada. As estruturas fúngicas estão assimilando o chassi metálico — relatou Valéria, a voz desprovida de qualquer horror frente à abominação biológica. — Risco de infecção cruzada.
+— E com fome de metal limpo — ela se levantou rápido, recuando um passo e apontando a lanterna para os dutos superiores, onde raízes fibrosas rastejavam como veias pulsantes sobre o concreto. — Apaga o indicador do seu ombro, Moretti. A frequência dessa luminescência é de dois hertz. Eles reagem a calor e pulso eletromagnético. Se essa colônia perceber a corrente do seu braço mecânico, essas raízes vão tentar sugar sua bateria antes de você puxar o gatilho.
 
-— Não toque em nada — murmurei, o cinismo habitual se misturando com uma apreensão gelada. — Parece que a Aeterna deixou mais do que apenas poeira para trás. A cidade ainda está doente.
+— Tem caminho pela direita?
 
-— Sugestão tática: Incineração da biomassa para evitar disseminação.
+Valéria ergueu a lanterna, iluminando uma passarela de manutenção elevada, cerca de dois metros acima do nível do chão tomado pela biomassa. O corrimão de ferro estava carcomido pela ferrugem, mas a estrutura ainda parecia sólida o bastante para aguentar nosso peso.
 
-Balancei a cabeça, recuando um passo. O brilho dos fungos se refletia no aço cru do meu braço.
-— Não temos combustível, Val. E fazer fogo aqui embaixo só vai atrair coisas que não queremos encontrar. Vamos dar a volta.
+— Dá pra subir pela escada de serviço ali na frente — ela disse, ajustando o cyberdeck e me encarando com a determinação feroz de quem se recusa a ser engolida por Baía Cinzenta. — A gente passa por cima dessa meleca bioluminescente sem encostar na colônia. Mas anda sem bater essa mão de ferro nas grades, Gabo. O som reverbera nesse túnel feito sino de igreja.
 
-O caminho se estreitou, forçando-nos a caminhar sobre um pequeno ressalto lateral para evitar o contato com o tapete bioluminescente. O ar ficou mais denso, quase palpável, como se o túnel estivesse respirando.
+— Eu não faço barulho, garota.
 
-A ausência da humanidade de Valéria era ensurdecedora. Ela era apenas um eco cibernético no escuro, enquanto eu era um monte de carne machucada e cicatrizes de cobre. Duas engrenagens quebradas rolando pelo abismo do Distrito 4.
+— Não faz barulho? — ela bufou, já alcançando o primeiro degrau de ferro da escada lateral com passos ágeis. — Você anda parecendo um trator desgovernado caindo de um penhasco. Sobe logo antes que essa coisa decida que você é um ótimo condutor de energia.
+
+Subi atrás dela, sentindo cada centímetro do meu corpo ranger com o esforço da escalada, enquanto a fosforescência azulada do Jardim pulsava silenciosamente lá embaixo, esperando o menor deslize da nossa carne cansada.

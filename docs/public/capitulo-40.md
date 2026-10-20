@@ -1,5 +1,6 @@
 ---
 image: /capitulo_40.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti
 ---
 # Capítulo 40: O Céu Quebrou
 

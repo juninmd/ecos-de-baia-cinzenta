@@ -41,13 +41,13 @@ def test_cena_ja_gerada_sai_da_fila_e_reprovada_volta():
 def test_continuidade_acompanha_a_fase_fisica_do_capitulo():
     assert "fraturas" in continuidade.fase(GABO, 60)
     assert "exoesqueleto" in continuidade.fase(GABO, 106).lower()
-    assert "amputado" in continuidade.fase(GABO, 200).lower()
+    assert "armação" in continuidade.fase(GABO, 200).lower()
 
 
 def test_continuidade_nao_deixa_buraco_entre_marcos():
     # 177-184 fica entre "Capítulos 175-176" e "Capítulos 185-217": sem preenchimento,
     # o Gabo voltava a ter os dois braços justamente no arco em que perdeu um.
-    assert "prótese" in continuidade.fase(GABO, 180).lower()
+    assert "armação" in continuidade.fase(GABO, 180).lower()
 
 
 def test_clausula_de_continuidade_entra_no_prompt():

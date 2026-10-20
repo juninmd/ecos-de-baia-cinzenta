@@ -1,5 +1,6 @@
 ---
 image: /capitulo_27.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Dante Moretti, Valéria "Val" Cruz, Elena Moretti, O Gamemaster
 ---
 # Capítulo 27: O Filho Sacrifica o Pai
 

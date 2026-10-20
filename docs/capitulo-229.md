@@ -109,7 +109,7 @@ Ele falou aquilo do mesmo jeito que falou "bom dia".
 
 — Que conta? — Elena perguntou.
 
-Ela deu um passo à frente, e eu tentei segurar o braço dela e não consegui, porque só tenho um.
+Ela deu um passo à frente, e eu tentei segurar o braço dela e não consegui, porque o meu direito estava quebrado na tipóia.
 
 Braga olhou para ela com um respeito que era pior que desprezo.
 

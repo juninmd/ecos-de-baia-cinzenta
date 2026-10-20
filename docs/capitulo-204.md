@@ -7,152 +7,70 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 # Capítulo 204: O Despertar da Ferrugem
 
-A vastidão daquele armazém era opressiva de um jeito difícil de explicar para quem nunca esteve num galpão de trinta mil metros quadrados sem luz.
+A vastidão daquele armazém era opressiva de um jeito difícil de explicar para quem nunca esteve num galpão subterrâneo de trinta mil metros quadrados sem iluminação natural.
 
-O teto se perdia. As poucas lâmpadas âmbar de emergência que ainda funcionavam estavam espaçadas de sessenta em sessenta metros, e cada uma criava uma ilha de luz suja e um oceano de escuro em volta, e o efeito era o de andar por dentro de uma coisa que não tem tamanho.
+O teto se perdia na escuridão vinte metros acima. As poucas lâmpadas âmbar de emergência que ainda sobreviviam estavam espaçadas de sessenta em sessenta metros; cada uma criava uma ilha de luz suja e um oceano de sombra impenetrável em volta, dando a impressão física de estarmos caminhando pelas entranhas de uma carcaça de baleia industrial que não tinha fim.
 
 Cada passo meu levantava uma nuvem fina de pó avermelhado.
 
-Sangue seco da Praga de Ferro. É assim que eu penso naquele pó desde o primeiro dia, e nunca consegui pensar de outro jeito: catorze mil drones de logística, empilhados em pirâmides de dez metros, oxidados até o miolo, desmanchando devagar havia dois anos e meio.
+Sangue seco da Praga de Ferro. É assim que penso naquele pó desde que a cidade começou a afundar: milhares de drones e carregadores pesados, empilhados em pirâmides de dez metros de altura, oxidados até a medula dos rolamentos, desmanchando-se devagar na umidade fria do Setor Seis.
 
-O zumbido hidráulico da minha órtese esquerda ecoava naquilo tudo.
+O zumbido hidráulico da minha órtese esquerda ecoava na vastidão. Um protesto metálico, áspero, que voltava das paredes distantes com dois segundos de atraso e me dava a sensação constante de estar sendo seguido por uma versão pior de mim mesmo.
 
-Um protesto metálico, agudo, que voltava das paredes com dois segundos de atraso e me dava a sensação constante de estar sendo seguido por uma versão pior de mim mesmo.
+— Dá pra calar a boca dessa perna, Moretti? — sussurrou Valéria, caminhando dois passos à minha esquerda. Os fios holográficos azuis da franja dela piscavam em pulsos rápidos, varrendo a poeira com um brilho espectral. — O eco dessa engrenagem frouxa parece um alarme de incêndio em câmera lenta.
 
-Eu odeio esse som. E ele me mantém ancorado, então eu deixo.
+— Se eu desligar o motor da órtese, você me carrega no colo até o fosso de carga, — retruquei, a voz rouca arranhando a garganta seca. — A água que temos mal dá pra molhar a boca, e tem gosto de moeda oxidada.
 
----
+— Prefiro beber ácido de bateria a carregar um brutamontes de cem quilos deprimido, — rebateu ela com um estalo de língua e aquele meio-sorriso cínico que trazia um resquício de vida aos becos esquecidos. — Anda logo, detetive. Elias tá quase desmaiando de pavor só de olhar pras pilhas.
 
-A exaustão sempre tenta primeiro.
+— Cuidado onde pisam, — avisei mais alto, olhando para trás.
 
-Ela vem, abre uma frestinha, e por ela entra o cheiro do charuto do meu pai — porque a minha cabeça, em algum momento entre os quarenta e os quarenta e cinco anos, decidiu que a memória dele tem cheiro de fumo grosso, e não adianta eu saber que ele nunca fumou.
+Elias assentiu freneticamente, as mãos trêmulas agarradas às alças da mochila. O rapaz escorregou em uma chapa de liga de alumínio corroída, soltando um arquejo mudo e se apoiando no chassi de um autômato estripado. A carcaça rangeu sob seu peso, e ele saltou para trás como se tivesse tocado em ferro em brasa.
 
-Eu me concentrei na dor crua do ombro direito.
+Vinte e dois anos. Pálido. Olhos arregalados de quem nunca deveria ter descido abaixo do mezanino das corporações. Era a única medida honesta de sanidade que nos restava no grupo: quando Elias entrava em pânico, é porque a situação era realmente desesperadora.
 
-Flexionei os músculos rasgados de propósito, forçando o ponto onde o tendão não colou direito.
+— Tem certeza de que... de que não tem nada aqui? — gaguejou o garoto, limpando o suor frio da testa com a manga suja de graxa. — Está tudo tão quieto...
 
-A pontada foi limpa, imediata e real.
+— Quietude de cemitério corporativo nunca é boa notícia, garoto, — Valéria respondeu, desacelerando o passo e erguendo o cyberdeck na altura do peito. Seus olhos prateados estreitaram-se, analisando linhas de código em verde fosforescente que corriam na tela portátil. — Moretti, para um segundo.
 
-E não tinha cheiro nenhum.
+Parei. O peso da minha armação industrial de sucata — parafusada no osso por Vasco no Capítulo 175 para estabilizar a fratura do braço — puxou meu ombro direito com uma fisgada aguda de cansaço. O sangue seco colava a atadura na carne viva, e as cicatrizes do Dilúvio queimavam, mas a agonia física servia apenas para me manter firme no chão de cimento rachado entre as máquinas que jaziam como ferro morto.
 
-A dor é o meu santuário. É a única sala da minha cabeça em que ele não entra.
+— O que você tá pegando? — perguntei, destravando a *Caronte* com o polegar.
 
----
+— Sensores sísmicos do deck, — disse ela, o tom sarcástico sumindo de repente para dar lugar à frieza da hacker que já sobreviveu a três purgas da Aeterna. — Vibrações de frequência ultra-baixa no solo. Não é reflexo das bombas de água do Dilúvio, nem colapso de rocha.
 
-— Cuidado onde pisam.
+— Como você sabe?
 
-A voz saiu mais áspera do que eu queria. A garganta está seca desde o Setor 5, e a água que a gente tem é reciclada três vezes e tem gosto de moeda.
+— Colapso de rocha decai em curva exponencial, — ela explicou, apontando a ponta do feixe óptico para o chão à nossa frente. — Isso aqui tem intervalo exato de onze segundos entre picos. E a amplitude tá subindo trinta por cento a cada batida.
 
-— Essas pilhas não são estáveis. O que segura aquilo ali em pé é o atrito de sucata contra sucata, e atrito de sucata contra sucata muda de humor.
+— Intervalo regular é passo, Val, — rosnei.
 
-Elias assentiu freneticamente e escorregou numa placa de liga corroída.
+— Ou uma biela gigante girando na lama, — completou ela, sacando a pistola curta e ajustando o compensador com um estalo limpo. — E tá vindo direto do fosso central.
 
-Ele se segurou numa carcaça, que rangeu, e ele soltou na hora como se tivesse encostado em bicho.
+O fosso de carga era uma cratera retangular de trinta metros de comprimento por doze de largura, afundando nas entranhas do Setor Seis. As guias de cabo de aço dos elevadores industriais pendiam rompidas, retorcidas como serpentes mortas entre pirâmides de sucata compactada.
 
-Vinte e dois anos. Pálido. Os olhos arregalados de quem não pertence às entranhas dessa cidade e teve o azar de nascer nela.
+O chão sob nossas botas começou a tremer.
 
-É por isso que eu trago o garoto: porque ele reage do jeito que uma pessoa normal reagiria, e eu perdi a régua faz tempo. Quando o Elias fica com medo de uma coisa, é porque a coisa é assustadora. É a única medida honesta que ainda me sobrou.
+Foi uma vibração sorda, que não veio pelo ar, mas pelos ossos dos calcanhares, subindo pelas tíbias até estalar na base do crânio. Os dentes vibraram na gengiva. As pilhas de drones destruídos ao redor começaram a chacoalhar, soltando cascatas de poeira alaranjada que subiram como fumaça tóxica sob os globos de luz âmbar.
 
-— Tem certeza de que... que não tem nada aqui? — ele gaguejou.
+Não era um motor ligando. Era o ruído obsceno de chapas de blindagem de dez centímetros sendo rasgadas e dobradas a frio — aquele mesmo gemido aterrador de aço cedendo que testemunhei quando a Torre Aeterna desabou anos atrás.
 
-A pergunta ricocheteou nas paredes metálicas.
+— Elias, pra trás de mim! — comandei, firmando a coronha da escopeta na axila esquerda para compensar a fraqueza do braço machucado.
 
----
+Do fundo do fosso de carga, uma massa titânica começou a se erguer.
 
-Valéria não hesitou.
+Não tinha simetria. Não tinha a engenharia limpa e arrogante das máquinas da Aeterna Corp. Era uma aberração arquitetônica: chassis de empilhadeiras pesadas esmagados e soldados uns sobre os outros, braços mecânicos de seis escavadeiras diferentes instalados fora de eixo como pernas de um crustáceo monstruoso, e uma cabine de comando triturada encravada no centro como um coração de vidro estilhaçado. Toda a estrutura estava amarrada por cabos de alta tensão e uma crosta espessa de ferrugem viva e lodo biomecânico.
 
-A lente dela varreu o ambiente num arco calculista, e o feixe azul-pálido recortou a névoa de ferrugem em suspensão.
+Alguma inteligência residual da Praga de Ferro passara anos no escuro catando restos de carcaças e forjando a si mesma.
 
-— Sensores térmicos operando com eficiência reduzida devido à interferência da oxidação particulada. — A voz digital, sem inflexão nenhuma, e eu já não estremeço com isso, o que me incomoda mais do que estremecer. — No entanto, detecto flutuações de baixa frequência no subsolo imediato. Vibrações. Padrões inconsistentes com atividade sísmica natural.
+— Que porra de pesadelo corporativo é esse? — sussurrou Valéria, os olhos prateados arregalados enquanto calculava a massa do monstro.
 
-Eu parei.
+— O tipo de pesadelo que não volta pro túmulo sem briga, — respondi, mirando no ponto onde a fiação principal pulsava com um brilho alaranjado doentio.
 
-A dor do ombro sumiu por um instante, o que é a prova de que a dor nunca foi âncora coisa nenhuma: ela é só a segunda coisa mais urgente.
+— Moretti... — a voz de Valéria quebrou a frase, a respiração presa na garganta.
 
-— Inconsistentes como?
+— Fala, Val!
 
-— Sismo natural tem envelope de decaimento exponencial. — Ela inclinou a cabeça três graus. — Isso tem intervalo regular. Onze vírgula dois segundos entre eventos. Amplitude crescente.
+— Tem mais três assinaturas de calor idênticas subindo pelas calhas de descarga atrás da gente.
 
-— Intervalo regular é passo, Val.
-
-— Correto.
-
-— De onde?
-
-Ela apontou para o centro do galpão.
-
----
-
-O fosso de carga era uma boca retangular de trinta metros por doze, afundando no escuro, com as engrenagens colossais do elevador travadas por montanhas de ferrugem sólida.
-
-Saquei a escopeta com a mão esquerda — movimento desajeitado, treinado até virar automático depois que o braço direito virou coto e depois virou aquilo que o Vasco parafusou.
-
-A arma parecia mais pesada naquele dia. Sempre parece.
-
-— Imediatamente abaixo de nós — disse a Valéria. — A amplitude está aumentando.
-
-O pó sob as minhas botas começou a tremer.
-
-Isso é uma coisa que a gente sente primeiro nos dentes. Vibração baixa entra pelo osso do calcanhar, sobe pela tíbia, e chega ao crânio antes de chegar ao ouvido. Os servos da minha órtese estalaram em resposta simpática, e por dois segundos eu tive a impressão idiota de que ela estava respondendo a um chamado.
-
-Não era motor ligando.
-
-Era metal sendo rasgado. Era alguma coisa massiva forçando caminho por dentro dos destroços esmagados de catorze mil drones — não abrindo caminho: **comendo** caminho.
-
----
-
-Elias recuou e tropeçou no chassi de um autômato destruído.
-
-— O que é isso? — A voz dele subiu uma oitava. — A Praga de Ferro não se move assim! A Praga não se move!
-
-— A Praga não.
-
-Engatilhei a arma. O ruído seco foi engolido pelo galpão.
-
-Encostei a coronha no ombro machucado — de propósito, no lugar exato onde dói — e a explosão de agonia limpou a fresta por onde a fumaça estava tentando entrar de novo.
-
-— Mas alguma coisa esmagou essas carcaças, garoto. — Olhei para as pirâmides de sucata em volta. — Olha o padrão. Isso aqui não caiu: foi **empilhado**. Alguém, ou alguma coisa, passou dois anos juntando material de um lado do galpão para o outro.
-
-— Por quê?
-
-— Pela mesma razão que qualquer bicho junta coisa. — Levantei o cano. — Ou está construindo ninho, ou está guardando comida.
-
----
-
-Do fundo do fosso veio um rangido metálico ensurdecedor.
-
-E depois o som de placa de blindagem sendo dobrada — não cortada: **dobrada**, com aquele gemido longo de chapa cedendo, que eu já tinha ouvido uma vez na vida, na noite em que a Torre Aeterna decidiu para que lado ia cair.
-
-A coisa começou a emergir.
-
-Não era orgânica. Isso deu para descartar rápido: não tinha simetria bilateral, não tinha nada que respirasse.
-
-E também não era máquina padrão da corporação. Máquina de corporação tem carenagem, tem logotipo, tem aquele acabamento fosco que os designers escolhem para parecer inevitável.
-
-Aquilo era amálgama.
-
-Uma coisa montada com o que havia: chassi de empilhadeira, braços de nove drones diferentes soldados fora de eixo, uma cabine de operador encaixada onde devia haver tórax, tudo unido por escória de solda malfeita e cordão de ferrugem compactada.
-
-Havia intenção ali. Feia, torta, apressada — mas intenção.
-
-Alguma coisa naquele galpão tinha passado dois anos e meio no escuro se **montando**.
-
----
-
-Elias começou a rezar baixinho, o que eu achei razoável.
-
-Valéria ergueu o braço e travou o feixe do olho no vulto.
-
-— Gabo. Correção do relatório anterior.
-
-— Fala.
-
-— A fonte de vibração não é uma unidade.
-
-Eu não tirei a mira.
-
-— Quantas?
-
-— Quatro. — Uma pausa de trezentos milissegundos. — E as outras três já estão atrás de nós.
-
-A quietude fria daquelas sombras acabava de cobrar o preço, e o preço era o de sempre nesta cidade: pago à vista, sem aviso, e com juros.
+O estalo do ferro retorcido ecoou como um trovão quando o colosso de sucata bateu sua pá dianteira contra a borda do fosso, rachando o concreto sob nossos pés. O armazém silencioso acabava de despertar, e as regras da cidade eram claras: ou nós abríamos caminho pelo aço, ou ficaríamos para sempre enterrados sob ele.

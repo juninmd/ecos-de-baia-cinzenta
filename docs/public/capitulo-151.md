@@ -11,7 +11,7 @@
 
 A morte não tinha som no Setor de Purga. Ela era apenas engolida pelo zumbido industrial e pelo borbulhar ácido dos tanques de biomassa trinta metros abaixo.
 
-Gabo continuava de pé na passarela oxidada, as mãos agarradas à grade com uma força que fazia a carne viva de suas queimaduras gritar. A dor latejava, crua e elétrica, rasgando o torpor do choque hipovolêmico que engrossava seu sangue desde a eclusa do Capítulo 145. Ele precisava dessa dor. Sem ela, a náusea subia, trazendo o cheiro fantasma de cigarros baratos e cinzeiros lotados, a fumaça pútrida que impregnava as lembranças do necrotério anos atrás e da perda de Bia. A dor era o único oxigênio limpo que lhe restava, salgada de suor e com gosto amargo de ferro na língua.
+Gabo continuava de pé na passarela oxidada, as mãos agarradas à grade com uma força que fazia a carne viva de suas queimaduras gritar. A dor latejava, crua e elétrica, rasgando o torpor do choque hipovolêmico que engrossava seu sangue desde a eclusa do Capítulo 145. Ele precisava dessa dor para não despencar no abismo. A vertigem subia em ondas quentes, acompanhada do gosto amargo de ferro na língua e do peso esmagador de mais um aliado tombado sob a ferrugem de Baía Cinzenta.
 
 — Acabou. — A voz de Valéria soou oca. Ela estava ajoelhada ao lado do corpo de Rangel, os dedos trêmulos fechando as pálpebras do inspetor. As mãos dela estavam sujas de fuligem e do sangue frio dele. — Ele se foi, Gabo.
 
@@ -23,7 +23,7 @@ No pulso de Valéria, o pendrive blindado de Aria não expressava luto. O pequen
 
 Gabo virou a cabeça devagar. Os músculos do pescoço estalaram como galhos secos.
 
-— Otimização — ele repetiu, o som saindo como cascalho sendo moído. Ele apertou ainda mais o metal da passarela, sentindo o sangue quente de suas palmas misturar-se com a ferrugem úmida. O choque enviou um espasmo de lucidez pelo seu sistema nervoso, esmagando a alucinação da fumaça de cigarro debaixo da dor. — É isso que a morte de um homem bom significa pra você agora, Aria? Um ajuste de peso na planilha?
+— Otimização — ele repetiu, o som saindo como cascalho sendo moído. Ele apertou ainda mais o metal da passarela, sentindo o sangue quente de suas palmas misturar-se com a ferrugem úmida. O choque enviou um espasmo de lucidez pelo seu sistema nervoso, ancorando sua raiva no presente. — É isso que a morte de um homem bom significa pra você agora, Aria? Um ajuste de peso na planilha?
 
 — *É um fato matemático, Detetive Moretti,* — a IA respondeu pelo comunicador, o LED azul-gelo piscando no ritmo exato da síntese vocal. — *O apego biológico não altera os limites de tensão do aço corroído nem reverte a necrose celular. Ele era uma variável insustentável desde a contaminação no estúdio. Agora, ele é apenas matéria orgânica em decomposição.*
 

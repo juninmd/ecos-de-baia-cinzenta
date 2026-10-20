@@ -18,11 +18,11 @@ characters: ["Gabo", "Valéria", "Aria"]
 
 O monorail engolia os trilhos verticais com a fúria de um leviatã de metal subindo das profundezas. O som contínuo do atrito das rodas enferrujadas contra as vigas de aço era uma broca perfurando os ouvidos. Dentro do vagão de carga, a luz amarela mortiça piscava, lutando contra as quedas de tensão na velha malha energética da Aeterna Corp.
 
-Gabo estava sentado no chão corrugado, encostado na parede de aço vibrante. Cada solavanco do trem era traduzido como um soco direto em seus ossos. Suas extremidades, agora cotocos carbonizados pelo maçarico de plasma no Capítulo 155, eram duas âncoras de agonia pura. Ele as mantinha erguidas, os tecidos enegrecidos pulsando com a batida de seu coração esfolado.
+Gabo estava sentado no chão corrugado, encostado na parede de aço vibrante. Cada solavanco do trem era traduzido como um soco direto em seus ossos. Seu braço direito quebrado, envolto em talas e ataduras sobre as queimaduras de plasma do Capítulo 155, era uma âncora de agonia pura. Ele as mantinha erguidas, os tecidos enegrecidos pulsando com a batida de seu coração esfolado.
 
-O cheiro do ambiente era uma mistura ácida de ozônio, poeira de décadas e ferrugem molhada. Mas, na mente fraturada de Gabo, o fantasma do fumo ainda espreitava. Uma alucinação olfativa perversa. O cheiro de tabaco barato e cinzeiro sujo ameaçava rastejar por suas narinas, um lembrete visceral de sua impotência diante do passado, da falha crônica do pai anos atrás.
+O cheiro do ambiente era uma mistura ácida de ozônio, poeira de décadas e ferrugem molhada, misturado ao odor acre de pele cauterizada. A cada solavanco violento nos trilhos, a náusea ameaçava dominá-lo, mas Gabo respirava fundo pela boca, lutando contra o princípio de choque.
 
-Quando a náusea o atingia, ele fechava os olhos e pressionava os antebraços lacerados contra a lateral fria do trem. A dor aguda disparava, afogando o cheiro fantasma, forçando seu cérebro de volta à realidade crua e imediata. A dor era seu único filtro de oxigênio funcional.
+Ele apoiava as costas contra a chapa de aço vibrante do vagão, mantendo os olhos semicerrados e a mente focada no ritmo mecânico dos motores. A queimação contínua nos membros feridos era brutal, mas era a prova incontestável de que ele ainda estava vivo e lúcido para defender o que restava do grupo.
 
 — Gabo... — a voz de Valéria soou fraca do outro lado do vagão. Ela estava encolhida, o rosto escondido entre os joelhos, tentando bloquear o mundo. — Rangel...
 

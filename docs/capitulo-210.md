@@ -7,34 +7,68 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 # Capítulo 210: Roldanas e Sangue
 
-A subida foi excruciante. Pendurado por um cabo tático fixado a um mosquetão enferrujado, balançava a quase seis metros do chão forrado por espinhos negros. O vento gélido sibilava através da estrutura metálica maciça, roubando o pouco de calor que me restava.
+A subida foi um exercício de tortura pura, calculada em centímetros e paga com sangue. Pendurado por uma corda tática de escalada presa a um mosquetão enferrujado, eu balançava no vazio a quase sete metros acima da floresta de cristais negros de óxido. Qualquer erro, qualquer falha nos elos corroídos pelo frio químico, e meu corpo despencaria de costas sobre centenas de espigões que furariam carne, ossos e órgãos com a facilidade de lâminas cirúrgicas.
 
-Elias já estava seguro na plataforma superior, puxado implacavelmente pelo braço mecânico de Valéria, que havia ancorado a corda em uma roldana emperrada. Agora era minha vez, e cada centímetro conquistado exigia um preço absurdo de dor.
+O vento polar assobiava pela galeria subterrânea, roubando o calor dos meus músculos e transformando a dor da minha clavícula em uma fornalha latejante.
 
-O cinto tático mordia minha carne, mas era o esforço nos meus braços que estava me destruindo. Com o joelho esquerdo inútil balançando no vazio e as órteses das pernas rangendo como metal moribundo, dependia unicamente da força bruta da minha parte superior. Forcei o ombro ferido para sustentar o peso. Um grito abafado escapou dos meus lábios quando senti a bandagem encharcar com sangue quente de um músculo reabrindo.
+Elias já havia sido içado até a plataforma elevada de serviço; o garoto jazia de bruços na grade de aço, puxando o ar em golfadas desesperadas enquanto segurava a extremidade solta da corda para manter a tensão. Valéria comandava a roldana de carga com os pés fincados na base de uma viga mestra. Seus fios holográficos azuis estavam emaranhados pelo vento e suor, brilhando como chamas elétricas na penumbra gélida.
 
-— Gabo, o gancho principal está apresentando fadiga de material, — a voz de Valéria desceu do topo, isenta de pânico, em seu implacável Modo de Segurança. — A corrosão térmica comprometeu o pino mestre. Você precisa acelerar a subida, ou o sistema entrará em colapso catastrófico.
+— Anda, Moretti! — gritou ela, a voz rouca pelo esforço físico e pelo ardor da amônia na garganta. — O que diabos o Vasco colocou dentro desse seu braço de sucata? Chumbo derretido? Você pesa mais que um gerador a diesel!
 
-O cheiro de suor e sangue misturado com o ozônio me envolveu. Por um terrível segundo de vertigem e exaustão, as luzes da lanterna se distorceram, transformando o hálito frio no meu rosto em fumaça cinzenta e sufocante. A alucinação do tabaco ameaçou estrangular meus pulmões, o terror da velha fobia gritando na minha mente.
+— É puro aço forjado de desmanche, Val, — rosnei de volta, tentando encontrar apoio para o calcanhar da bota boa em uma saliência da parede de concreto. — E eu não tô vendo você reclamar da minha musculatura quando preciso arrombar uma porta blindada!
 
-Eu não deixaria a mente me destruir antes do metal. Bati minha prótese brutalmente contra o eixo enferrujado ao lado do cabo. A dor lancinante enviou uma sacudida de choque puro pelo meu sistema. A alucinação sumiu como vidro quebrado.
+— Eu reclamo de tudo em você, detetive, principalmente da teimosia! — rebateu ela, girando a manivela da roldana com os dois braços. Os tendões do pescoço dela saltavam sob a pele pálida, e o barulho das engrenagens emperradas soava como dentes rangendo a seco. — Elias, puxa essa ponta junto comigo antes que o carretel escape da trava!
 
-— Puxa, Valéria! Puxa com tudo! — gritei.
+O cinto de rapel mordia minha cintura com ferocidade, cortando a circulação das coxas. Com a perna esquerda presa na órtese rígida que pendia inútil no ar e o braço mecânico puxando o ombro lacerado para baixo após a fixação da fratura no Capítulo 175, eu precisava confiar unicamente na pegada da minha mão de carne viva e na força de tração da dupla lá em cima. A bandagem improvisada no meu ombro empapou de vermelho escuro; meus músculos continuavam sangrando pelo bíceps, e o esforço arrancou um urro rouco dos meus dentes enquanto as cicatrizes do Dilúvio queimavam no frio.
 
-Ela começou a girar a roldana emperrada. O cabo estalou. O som metálico angustiante de um eixo cedendo se misturou ao atrito infernal das minhas botas raspando no concreto vertical. Elias, apavorado, tentou ajudar segurando o final do cabo.
+A dor na carne aberta ardia com a ferocidade de ácido, um eco constante dos ferimentos acumulados desde que a Torre Aeterna desabou sobre nós no Dilúvio anos atrás. Mas a dor era limpa; mantinha meus sentidos em alerta absoluto enquanto meus olhos monitoravam a aproximação da plataforma.
 
-Meio metro. O gancho acima rangeu de forma doentia, pó de ferrugem chovendo nos meus olhos. O cheiro de ferro puro entrou no meu nariz, agudo, cru, ancorando-me na realidade de Baía Cinzenta.
+Três metros.
 
-Dez centímetros. Meus dedos agarraram a beirada da plataforma, esfolando a pele até a carne viva contra o piso de aço rasgado. O pino mestre do suporte soltou um lamento agudo e rompeu de vez.
+Um estalo seco e agudo ecoou no topo da estrutura.
 
-Senti o chão sumir, mas o braço biônico de Valéria disparou para baixo como um dardo, segurando a alça do meu cinto com força brutal, impedindo minha queda fatal de volta para a geada letal. Com um puxão seco e cirúrgico, ela me içou e me atirou no piso de gradeamento estreito, onde rolei em exaustão cega.
+Pó de ferrugem e lascas de ferro congelado choveram direto nos meus olhos. Pisquei furiosamente, cuspindo o pó amargo que colou nos meus lábios.
 
-Fiquei deitado de bruços, o peito arfando, cada respiração puxando ar gelado que esfaqueava meus pulmões. O sangue gotejava lentamente do meu ombro arruinado, manchando o metal podre, enquanto a dor latejava como um segundo coração furioso.
+— Valéria! — berrou Elias, o pavor fazendo o rapaz perder o fôlego. — O gancho! A base do pino mestre tá rachando!
 
-Elias estava encostado na parede, pálido, segurando as mãos trêmulas no próprio rosto.
+Olhei para cima através da poeira. O olhal de aço que prendia o conjunto da roldana à viga superior estava se abrindo devagar, o metal ressecado pelo frio extremo cedendo sob a carga combinada do meu peso e da força de alavanca. Fissuras escuras corriam pelo suporte como teias de aranha.
 
-— Você quase... ele quase rompeu todo, — o garoto murmurou, o choque estampado nos olhos arregalados.
+— Não para de puxar, Elias! — Valéria berrou, fincando o calcanhar na borda da grade e jogando todo o peso do próprio corpo para trás em um esforço desesperado. — Moretti, estica o braço mecânico! Alcança a cantoneira da borda! Agora!
 
-— Funções vitais estabilizadas, embora apresentem risco de hipotermia grave e choque hipovolêmico por perda de sangue, — Valéria relatou friamente, inspecionando o abismo abaixo de nós, que havia acabado de engolir a estrutura colapsada.
+— Tá longe demais! — gritei, sentindo a corda ceder dez centímetros com um esticão que fez meu estômago despencar.
 
-— Tá... tá tudo bem, — eu disse, cuspindo no chão de metal e forçando os braços cansados a me empurrarem para cima. A dor era horrível, e eu nunca estive tão grato por ela. Estávamos vivos, longe da necrose espinhenta. — Vamos achar a saída dessa geladeira.
+— Dá um jeito, seu brutamontes! Eu não vim até o fundo do Setor Seis pra ver você virar espeto em cristal de óxido!
+
+O instinto de preservação engoliu qualquer resquício de hesitação. Ignorei a agonia que explodia na minha clavícula costurada no Capítulo 175, estiquei o tronco para o alto e lancei a mão de sucata com toda a extensão permitida pelos fios de aço. O motor hidráulico da armação deu um estalo violento quando atingiu o batente máximo.
+
+As garras de ferro forjado da armação bateram na quina de chapa da passarela, resvalando por dois centímetros antes de fecharem em pinça sobre uma barra de reforço.
+
+No mesmo milésimo de segundo, o olhal da roldana partiu-se ao meio com um estampido que soou como um tiro de revólver.
+
+A roldana estourou para cima, o cabo chicoteou no vazio e a gravidade puxou meu corpo com o peso de cem quilos em queda livre.
+
+O solavanco foi brutal. Todo o meu peso foi sustentado unicamente pelos dedos de metal cravados na chapa e pelo braço esticado. Os parafusos que prendiam a armação ao osso fraturado rangeram, a pele rasgou nas bordas da cirurgia de Vasco e um urro de pura agonia escapou da minha garganta, ecoando pela vastidão congelada da galeria.
+
+Senti os dedos de aço começarem a deslizar pela ferrugem escorregadia da cantoneira.
+
+— Te peguei! — a voz de Valéria rasgou a névoa.
+
+Ela se jogou de barriga na grade de ferro da plataforma, enfiou os dois braços pelo vão da proteção e travou as mãos enluvadas ao redor do meu pulso de carne e da gola do meu casaco. Os olhos prateados dela estavam dilatados, os dentes trincados em uma careta de esforço sobre-humano.
+
+— Elias, pega a perna dele! Me ajuda a erguer! — ela gritava, as veias da testa pulsando com força.
+
+O garoto rastejou pela grade e agarrou a correia da minha órtese com as duas mãos, puxando com tudo o que tinha. Entre os dois, arrastaram meu peito para cima da borda da passarela. Rolei para dentro do piso de gradeamento, batendo as costas contra o metal seguro enquanto a corda partida e os pedaços da roldana despencavam lá embaixo, cravando-se nos espigões com tinidos agudos que confirmavam o destino que tínhamos acabado de driblar.
+
+Fiquei deitado de costas, ofegante, puxando o ar gélido em goles profundos que queimavam a garganta como lixa. Meu braço arruinado tremia em espasmos incontroláveis, pingando sangue quente pelas frestas da grade.
+
+Valéria caiu sentada ao meu lado, as costas encostadas no corrimão, o peito arfando sob a jaqueta de couro e as mãos tremendo da tensão muscular extrema. Ela limpou o suor gélido da testa com o antebraço e me encarou com aquele meio-sorriso exausto e triunfante.
+
+— Se você... se você engordar mais meio quilo nessa carcaça, Moretti... eu te deixo cair na próxima.
+
+— Feito, — consegui murmurar, cuspindo o gosto ferroso de sangue que inundava a boca. — Da próxima vez... eu faço dieta de ração sintética.
+
+Elias desabou no chão entre nós, enterrando o rosto nas mãos e soltando uma risada nervosa, histérica, daquelas que só escapam de quem esteve a um segundo da sepultura.
+
+— A gente conseguiu... a gente passou por cima deles...
+
+— Passamos pela primeira metade, garoto, — eu disse, forçando meu corpo quebrado a sentar e conferindo a *Caronte* presa nas costas. — Agora levanta. A plataforma corre até os dutos de exaustão do Hub. Vamos sair desse gelo antes que o sangue congele nas nossas feridas.

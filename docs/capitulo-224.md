@@ -9,7 +9,7 @@ Personagens Presentes: Gabo, Valéria, Elias, Dra. Elara Vance
 
 Trinta e uma horas parece muito quando alguém diz em voz alta.
 
-Deixa de parecer no instante em que você calcula quanto papel cabe nas costas de três pessoas, sendo que uma delas está com um braço a menos e a outra não pode andar.
+Deixa de parecer no instante em que você calcula quanto papel cabe nas costas de três pessoas, sendo que uma delas está com o braço direito quebrado e a outra não pode andar.
 
 Fizemos a conta na mesa de leitura, com a lanterna de dínamo do Elias zumbindo entre nós porque ninguém confiava mais nas luzes âmbar.
 
@@ -107,11 +107,11 @@ E eu olhei para o meu braço direito.
 
 Para a garra industrial que o Vasco parafusou nos meus nervos numa clínica imunda do Distrito 4, sem servo-motor de grau militar, sem calibragem, sem anestesia decente. A coisa feia, pesada e mal-acabada que me fez gritar em todos os degraus dos últimos quarenta e dois dias. Metal cinza fosco, cheio de cicatriz de solda e fio exposto.
 
-Uma prótese hidráulica **não calibrada**.
+Uma armação hidráulica **não calibrada**.
 
 Não calibrada significa **sem limitador de curso**.
 
-— Valéria, — falei bem devagar. — Qual é a força de pico da minha prótese?
+— Valéria, — falei bem devagar. — Qual é a força de pico da minha armação?
 
 Ela parou.
 
@@ -129,11 +129,11 @@ E ficou olhando para o meu braço por dois segundos inteiros — dois segundos, 
 
 Ela demorou.
 
-— O atuador entra em travamento hidráulico permanente, — ela disse. — A prótese vira uma cunha de aço sólido. Ela sustenta o came indefinidamente. Não por quarenta segundos: **para sempre**.
+— O atuador entra em travamento hidráulico permanente, — ela disse. — A armação vira uma cunha de aço sólido. Ela sustenta o came indefinidamente. Não por quarenta segundos: **para sempre**.
 
 — E o braço?
 
-— Fica preso a ela.
+— Fica preso a ela se você não soltar os pinos e a estrutura.
 
 O zumbido da bomba enchia a câmara. Ninguém dizia nada.
 
@@ -141,11 +141,11 @@ O zumbido da bomba enchia a câmara. Ninguém dizia nada.
 
 — Já foi decidido.
 
-— Você vai perder o braço de novo!
+— Você vai esmagar esse braço de vez!
 
-— Eu vou perder um pedaço de metal que um açougueiro parafusou em mim, Elias. — Levantei a garra e olhei para ela, para os sulcos de solda, para o fio exposto. — Essa coisa não é minha. Ela nunca foi. Ela é o preço que eu paguei para continuar em pé, e ela doeu todo dia desde o dia um, e eu me recusei a consertar a falha porque a dor me servia. — Fechei os dedos mecânicos. Guincharam. — Se essa merda vai ficar aqui embaixo segurando uma porta para sempre, então pelo menos ela vai ter servido para alguma coisa que não seja me manter acordado.
+— Eu vou perder essa armação de metal que um açougueiro parafusou em mim, Elias. — Levantei a garra e olhei para ela, para os sulcos de solda, para o fio exposto. — Essa coisa não é minha. Ela nunca foi. Ela é o preço que eu paguei para continuar em pé, e ela doeu todo dia desde o dia um, e eu me recusei a consertar a falha porque a dor me servia. — Fechei os dedos mecânicos. Guincharam. — Se essa merda vai ficar aqui embaixo segurando uma porta para sempre, então pelo menos ela vai ter servido para alguma coisa que não seja me manter acordado.
 
-— E o toco? — Valéria perguntou. — Você já está com sepse. Uma desarticulação de emergência sem cauterização adequada, no seu estado, tem probabilidade de sobrevivência de—
+— E o osso? — Valéria perguntou. — Você já está com sepse. Uma desfixação de emergência arrancando os pinos a serra, com a fratura ainda aberta, no seu estado, tem probabilidade de sobrevivência de—
 
 — Não me diz. — Olhei para ela. — Sério. Pela primeira vez desde o Distrito 4, não me diz o número.
 

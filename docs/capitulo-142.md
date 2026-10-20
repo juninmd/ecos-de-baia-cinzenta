@@ -57,7 +57,7 @@ Não havia como atirar naquelas velocidades sem arriscar o equilíbrio na escada
 
 O primeiro drone saltou das sombras, abrindo dois braços de perfuração rotativos que assobiaram no ar denso do poço.
 
-Gabo mirou com um braço só, os dentes rangendo até o esmalte estalar. O suor frio formava poças minúsculas em sua testa, mas a dor pulsante em suas mãos queimadas mantinha seus instintos letais, precisos e despertos.
+Gabo empunhou com a mão esquerda e mirou, os dentes rangendo até o esmalte estalar. O suor frio formava poças minúsculas em sua testa, mas a dor pulsante em suas mãos queimadas mantinha seus instintos letais, precisos e despertos.
 
 — Prepara o pulso, Aria! — ele rosnou.
 

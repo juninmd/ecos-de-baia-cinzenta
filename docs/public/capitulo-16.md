@@ -1,5 +1,6 @@
 ---
 image: /capitulo_16.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, O Gamemaster
 ---
 # Capítulo 16: Zona Morta
 

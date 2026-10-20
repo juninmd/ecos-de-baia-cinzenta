@@ -9,46 +9,54 @@ Personagens Presentes: Gabo, Valéria, Vasco
 
 A luz halógena sobre mim falhava a cada oscilação do gerador no subsolo, pintando as paredes de azulejos encardidos com flashes estroboscópicos de pura agonia. Vasco não era um homem de delicadezas, e os recursos no Distrito 4 eram tão escassos quanto a piedade.
 
-— Não tenho servo-motores grau militar — Vasco resmungou, revirando uma caixa de ferramentas enferrujada que cheirava a graxa velha e fluido de transmissão. — O melhor que posso fazer é um braço industrial sucateado de um carregador das docas. É pesado, é feio e a interface neural vai doer como o diabo toda vez que você tentar mover os dedos.
+— Não tenho fixador ortopédico de hospital — Vasco resmungou, revirando uma caixa de ferramentas enferrujada que cheirava a graxa velha e fluido de transmissão. — O melhor que posso fazer para salvar esse teu braço estraçalhado é uma armação externa industrial, sucateada de um exoesqueleto de carga das docas. É pesada, é feia e os pinos de aço parafusados no osso vão doer como o diabo toda vez que você tentar mover os dedos.
 
-— Coloca logo isso — eu grasnei, minha voz não passando de um sussurro rouco pela garganta seca.
+— Coloca logo isso — eu grasnei, minha voz não passando de um sussurro rouco pela garganta seca, com o gosto acre de bile e ferrugem colado nos dentes.
 
-As alucinações me rondavam. Sem a adrenalina do combate e sem a dor imediata do ferimento aberto que ele acabara de cauterizar, minha mente vagava de volta para o escritório de mogno. O fantasma asfixiante do fumo estava ali, arranhando os limites da minha percepção, empurrando as paredes para mais perto. A lembrança do cheiro do tabaco do meu pai (Dante) enchia o ar do qual eu lutava para respirar. Eu precisava de algo real. Precisava de dor.
+Minha cabeça latejava com o peso acumulado dos últimos dias. A descida ao Arquivo Executivo, a queima dos barramentos de Aria no Sentinel, os dias de rastejo pela escuridão fétida da Necrópole. Meu corpo era um mapa de perdas: costelas trincadas, ombro retalhado, pele em carne viva. Eu não precisava de fantasmas para me lembrar de onde vim; o ferro cru e o sangue que empapava a lona da maca já eram cobrança suficiente.
 
-Vasco trouxe a prótese. O metal era um cinza fosco, cheio de cicatrizes de solda e fios expostos. A base do soquete tinha conectores neurais que pareciam pregos grossos de aço. Ele os banhou com álcool e não me ofereceu anestesia. Sabia que eu não tinha como pagar, e talvez, lá no fundo, ele visse no meu olhar opaco a urgência de ser ancorado à realidade.
+Vasco trouxe a armação externa. O metal era um cinza fosco, cheio de cicatrizes de solda, hastes de aço e buchas reforçadas. A base da órtese tinha pinos de tração óssea que pareciam pregos grossos de aço temperado. Ele os banhou com álcool barato e não me ofereceu anestesia. Sabia que eu não tinha como pagar, e sabia que policiais da minha estirpe não pediam trégua.
 
-— Morda isto — ele estendeu um pedaço de borracha endurecida.
+— Morda isto — ele estendeu um pedaço de borracha de pneu endurecida.
 
-Eu não o peguei. Apenas fechei os olhos e esperei.
+Eu não o peguei. Apenas cravei os dedos da mão esquerda na beirada de zinco da maca e fechei os olhos.
 
-O encaixe do soquete sobre o coto foi brutal. Mas os pregos neurais perfurando a derme sintética recém-enxertada e afundando nos nervos vivos do que restava do meu ombro... isso foi o inferno na Terra. Um arco elétrico rasgou meu sistema nervoso. O grito que deixei escapar não foi humano; foi o som de carne e metal brigando pelo mesmo espaço. Meus dentes bateram, e o gosto de sangue inundou minha boca enquanto eu forçava meu maxilar a não quebrar.
+A perfuração e a fixação dos pinos sobre os ossos quebrados foi brutal. Os parafusos entrando na derme, perfurando o periósteo e ancorando a estrutura de aço diretamente nas fraturas do rádio e do úmero... aquilo foi uma descarga de puro inferno. Um arco elétrico rasgou minha medula espinhal até a base do crânio. O grito que deixei escapar não foi humano; foi o som de osso estalando e aço temperado brigando pelo mesmo milímetro de existência. Minha visão branqueou, os dentes estalaram na mandíbula e o gosto férreo de sangue inundou minha boca.
 
-Mas funcionou. A dor oblitera a memória. A dor mata o passado. O cheiro da fumaça fantasma se dissipou, varrido pela onda de choque que fritava meus neurônios. Eu ofeguei, sentindo o peso absurdo da prótese puxando meu corpo para o lado. Os dedos grossos de aço estalaram uma vez, em um espasmo descontrolado.
+Mas a tempestade de sinapses se estabilizou. O peso absurdo da armação puxou meu tronco para a direita, um contrapeso de vinte quilos de ferro e pistões hidráulicos travados ao redor do meu braço ferido. Os dedos da mão direita estalaram quando forcei o primeiro movimento dentro da tala mecânica. Um zumbido hidráulico grave, como um motor de elevador em miniatura, respondeu ao sustentar o peso do meu membro quebrado.
 
-— Bem-vindo de volta ao mundo dos vivos — Vasco murmurou, limpando o suor da testa com o antebraço.
+— Bem-vindo de volta ao clube da sucata — Vasco murmurou, limpando o suor oleoso da testa com o antebraço sujo de graxa.
 
-Na maca ao lado, o zumbido oscilante mudou de tom. A luz dos monitores de Valéria piscou rapidamente. O cabo que Vasco conectara nela havia drenado o suficiente da rede do subsolo para iniciar uma reinicialização emergencial.
+Na maca ao lado, o bipe irregular de um osciloscópio mudou bruscamente de tom. Os monitores acoplados ao cyberdeck de Valéria piscaram em uma sequência frenética de código corrompido. O capacitor de carga que Vasco havia ligado na fiação dela estalou, liberando um fio de fumaça azulada.
 
-Virei meu pescoço, que latejava no mesmo ritmo do meu ombro novo, para olhá-la. O rosto de Valéria ainda parecia pálido, mas os olhos ópticos piscaram. Em vez do brilho azul quente de costume, eles acenderam com um tom cinza-chumbo, opaco e sem vida.
+Virei o pescoço devagar, sentindo cada vértebra reclamar da nova carga no meu ombro.
 
-— Valéria? — chamei. Minha voz ainda tremia pela dor residual.
+O rosto pálido de Valéria se contraiu. Os olhos cibernéticos dela — antes opacos pelo colapso de energia — dispararam um feixe cinzento de diagnóstico que logo se estabilizou no azul-elétrico familiar, cortado por faíscas microscópicas de sobretensão. Os filamentos de LED trançados na franja curta e assimétrica piscaram em amarelo de advertência antes de assentarem no tom ciano habitual.
 
-Ela sentou-se na maca com um movimento mecânico e perfeitamente equilibrado, desprovido de qualquer hesitação ou graça orgânica. O som das articulações de liga rangendo foi o único ruído. Ela virou o rosto para mim, os olhos mortos analisando-me como uma câmera de segurança de baixa resolução.
+Ela puxou o ar de repente, tossindo com o cheiro de ozônio queimado que tomava a sala.
 
-— Inicialização de sistema concluída. Modo de Segurança Operacional ativado. Protocolos emocionais suspensos para preservação de energia — a voz que saiu dela era dita com a precisão de um gravador automático. Plana. Estéril. Nenhuma emoção, nenhum pesar pela morte de Aria. Apenas um relatório de status.
+— Que cheiro de... desgraça é esse? — a voz dela saiu raspada, mas com a ponta afiada de sempre. Ela tentou se erguer, os cotovelos tremendo na lona da maca. — Vasco, se você usou capacitor de geladeira de segunda mão no meu barramento primário de novo, eu juro que formato o terminal da sua oficina inteira.
 
-Vasco deu um passo para trás, alarmado. — O choque no sistema dela... A falta de energia forçou um *hard reset*. Ela cortou a simulação empática para não fritar o córtex principal.
+— Olha o respeito, garota — Vasco rosnou, recolhendo os alicates. — Teu núcleo lógico tava a dois graus de virar carvão no Arquivo. Se não fosse meu pulso de bypass, você ainda tava em coma induzido.
 
-— Valéria, sou eu. Gabo. — Forcei a prótese pesada a se erguer. O movimento enviou uma agulhada de dor pelo meu pescoço. O metal frio pousou na beirada da maca dela.
+Valéria piscou os olhos duas vezes, reconfigurando os drivers de foco. Foi quando o olhar dela desceu da bancada de ferramentas e parou em mim. Mais especificamente, no monstro de ferro que agora envolvia e sustentava o meu braço direito.
 
-Ela não reagiu ao som do meu nome, tampouco à deformidade que agora tomava o lugar do meu braço. Ela apenas processou minha existência como um obstáculo na sala.
+Ela arregalou os olhos prateados, a boca abrindo numa mistura de pavor genuíno e puro sarcasmo de sarjeta.
 
-— Identificação confirmada: Gabriel Moretti — ela disse, com o tom de uma máquina lendo um código de barras. — O objetivo primário de fuga foi comprometido. Reavaliando parâmetros de sobrevivência. Risco atual: Crítico. Recomendação: Evacuação imediata do perímetro.
+— Santo Deus dos circuitos integrados... Moretti, que aberração é essa?
 
-A frieza me atingiu com a força física de um soco. Eu estava acostumado com a dor. O silêncio apodrecido do Arquivo Executivo, a fumaça ilusória que infestava minha mente e os nervos agora fritos no meu braço sucateado. Mas olhar para a pessoa que havia descido ao inferno comigo e encontrar apenas o vazio gélido do silício operando em modo de segurança era um tipo diferente de morte.
+— O Vasco fez o que pôde pra salvar o osso com a sucata que tinha — eu murmurei, apoiando o braço com a pesada armação de ferro na borda da mesa. O zinco rangeu sob a pressão.
 
-Eu não estava mais com minha parceira. Eu estava com um robô de combate.
+— O que ele pôde? — Valéria se sentou de vez, arrancando dois eletrodos descartáveis do peito com um puxão irritado. — Ele arrancou o guindaste de uma caçamba de entulho da Zona Portuária e parafusou no seu osso quebrado! Olha o diâmetro dessa haste hidráulica, Gabo! Você não vai conseguir nem coçar o nariz sem arrancar a metade da própria cara.
 
-— Estamos vivos, Gabo — Vasco tentou suavizar a tensão, sua voz soando fraca diante da apatia que agora enchia o cômodo. — Isso é mais do que a maioria tem hoje.
+— Ele tá vivo e com o braço no lugar, alinhado e funcional — rebateu Vasco, cruzando os braços gordos. — E para de reclamar, Cruz. O seu firmware ainda tá rodando em modo de segurança secundário. Teu analisador de risco tá apitando daqui.
 
-Mas enquanto eu encarava o olhar inerte de Valéria e sentia o sangue pulsando ao redor do aço que invadiu meu corpo, percebi que a sobrevivência era apenas uma falha técnica no meio do colapso corporativo. O fantasma da fumaça não estava mais no ar, mas a verdadeira escuridão havia se instalado em nós.
+Valéria levou a mão à têmpora esquerda, onde a porta do implante neural ainda fumegava de leve. Ela fechou os olhos por um segundo, os nós dos dedos apertando os cabelos escuros da nuca batida. Uma careta de dor real cruzou seus traços jovens.
+
+— Eu sei o que tá apitando, caramba. Meu subsistema tá piscando uma mensagem de alerta em vermelho que cobre metade do meu campo visual. *'Risco crítico: recursos exauridos, probabilidade de sobrevida da unidade: quatro por cento'*. — Ela abriu os olhos e me encarou, com aquele meio-sorriso cínico e teimoso que sempre a mantinha de pé. — Quatro por cento, Gabo. A máquina quer que eu sente no chão e espere a patrulha da Aeterna vir recolher os pedaços.
+
+— E o que você vai fazer com a máquina? — perguntei.
+
+Valéria deslizou as pernas para fora da maca, as botas gastas tocando o chão de concreto imundo com um estalo firme. Ela ajustou a jaqueta de couro puída sobre os ombros e recolheu o cyberdeck surrado com cuidado quase maternal, desconectando os cabos improvisados de Vasco.
+
+— Vou mandar ela pro inferno, igual a gente fez com o Sentinel — ela disse, respirando fundo e endireitando as costas. — Aria queimou tudo lá embaixo pra gente sair daquele buraco, Moretti. Não foi pra eu virar estatística fria numa bancada de fundo de quintal. Dá essa armação de trator pra cá e me ajuda a levantar. A gente tem uma cidade em ruínas pra atravessar.

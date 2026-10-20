@@ -1,5 +1,6 @@
 ---
 image: /capitulo_23.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Roberto Miranda, Valéria "Val" Cruz, Elena Moretti, Beatriz "Bia" Vargas, Dante Moretti
 ---
 # Capítulo 23: Ratos e Reis
 

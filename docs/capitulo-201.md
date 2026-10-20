@@ -7,58 +7,64 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 # Capítulo 201: Degraus de Sangue e Ferrugem
 
-A escada de manutenção de emergência cheirava a séculos de abandono. Cada barra de metal estava coberta por uma crosta grossa de oxidação e um lodo escorregadio que parecia respirar. Elias foi o primeiro, empurrado pelo terror visceral de ser devorado pelo que quer que fosse a massa biomecânica rastejando paredes abaixo. Seus sapatos rasparam contra a ferrugem, as mãos trêmulas agarrando o aço como um homem se agarraria a um bote salva-vidas.
+A escada de manutenção de emergência cheirava a ferro cru, óleo rançoso e séculos de abandono sob a cidade afundada. Cada barra transversal estava encrustada por uma crosta espessa de óxido escamoso e um lodo vegetal que parecia pulsar em espasmos lentos. Elias subia na frente, impulsionado pelo pavor primal de ser mastigado pela massa biomecânica que infestava a base do poço. Seus coturnos escorregavam no metal podre, as mãos ossudas agarrando os degraus com o desespero cego de um náufrago em mar aberto.
 
-Eu fui logo atrás. Não por bravura, mas porque se Elias travasse, alguém precisava empurrá-lo para cima. Valéria encerrava a marcha, cobrindo a retaguarda, os implantes em modo silencioso, embora o peso dos três juntos ameaçasse arrancar as buchas da parede a cada degrau.
+Eu subia logo abaixo dele. Não por cavalheirismo de manual policial, mas por cálculo prático: se Elias entrasse em choque e despencasse, meu peito e meu ombro eram a única barreira entre ele e uma queda livre de quatrocentos metros até o fundo das catacumbas. Valéria fechava a coluna, cinco degraus abaixo de mim, o cyberdeck preso ao colete e os fios holográficos azuis da franja emitindo pulsos curtos e ritmados contra o abismo escuro.
 
-— Não olha pra baixo, Elias, — rosnei, a voz rouca arranhando minha garganta. — Só olha pro próximo maldito degrau.
+— Para de olhar pros próprios pés, Elias, — ordenei, a voz raspando na garganta seca como lixa sobre zinco. — Olha pro degrau seguinte. Um por um. Respira pelo nariz e não solta o metal antes de travar o calcanhar.
 
-Minha perna esquerda era uma âncora de pura agonia. A junta carbonizada da órtese raspava contra a estrutura de suporte, enviando choques de dor branca pelo meu quadril até a base da coluna. O ar frio e saturado de poeira varria o túnel vertical, trazendo consigo um fedor adocicado de decomposição botânica.
+— Tem coisas se mexendo lá embaixo, Moretti... — A voz do técnico tremia tanto que o eco no poço parecia uma transmissão corrompida. — Elas não tão só rastejando. Tão farejando o calor dos nossos corpos.
 
-Por um instante avassalador, a escuridão tentou pregar uma peça. O cheiro de lodo se distorceu, metamorfoseando-se no aroma enjoativo e quente de um charuto caro. A fumaça fantasma parecia espiralar ao redor do meu pescoço, apertando. O rosto do meu pai piscou na periferia da visão.
+— Deixa que farejem, Elias, — cortou Valéria, a voz ácida com aquele timbre cortante de sarcasmo da Zona Baixa que me lembrava os becos da Doca Três. — Se alguma aberração com mandíbula de soldador tentar subir na minha bota, eu enfio uma descarga de quatrocentos volts no processador dela. Menos choro e mais músculo nesse quadril, garoto. Você é engenheiro, não um pacote de correio.
 
-*Não.*
+O peso da minha armação industrial de sucata — o monstro de aço forjado que Vasco parafusara no meu osso no Capítulo 175 para travar a fratura — puxava meu ombro direito para baixo como uma âncora de navio. A cada elevação de braço, os servos sem blindagem rangiam com um estalo seco, cuspindo fagulhas microscópicas na penumbra. Minha perna esquerda ardia onde a órtese improvisada mordia a carne machucada, uma lembrança persistente das docas e do colapso da Torre Aeterna.
 
-Bati o joelho da perna mecânica contra o degrau de ferro com força brutal. O metal dobrou ligeiramente. A dor aguda varreu a alucinação, rasgando o véu de fumo antes que ele pudesse se formar. A ardência me puxou de volta ao agora. Sangue real pulsando em minhas veias. Ferrugem descascando sob minhas palmas enluvadas. O som das entidades descendo.
+O ar vertical que subia do fundo era gélido, fétido, carregado de esporos que pinicavam a traqueia. A sensação sufocante de confinamento ameaçava apertar minha garganta, mas não havia espaço para fraqueza mental. Havia apenas a gravidade, a ferrugem e a distância até a próxima escotilha.
 
-— Indivíduos na marca de quinhentos metros e caindo, — informou Valéria, a voz impessoal, estéril de qualquer pânico. O modo de segurança a transformava em uma calculadora tática ambulante. — A velocidade de descida aumentou dezoito por cento. A bioluminescência do Jardim no poço os está estimulando.
+— Movimento rápido na marca de sessenta metros, subindo em espiral pelas guias dos cabos, — alertou Valéria, o tom endurecendo sem perder o veneno nos lábios. — Três assinaturas térmicas. Rápidas demais para operários da colmeia. São quimeras batedoras. O Jardim tá mandando os cães de caça.
 
-— Continua subindo, Elias! — gritei.
+— Quanto falta pra escotilha de transbordo? — perguntei, cravando os dedos de aço da mão direita na barra de ferro até o metal ranger sob a pressão hidráulica.
 
-Mas o silêncio acima de mim me disse o contrário. Elias havia parado. Eu bati com a testa nas costas das botas dele.
+— Quinze metros acima do nariz empinado do Elias, — ela disparou, subindo dois degraus de uma vez com a agilidade quase felina de quem passou a adolescência pulando telhados de lata sob a chuva ácida. — O trinco mecânico tá bloqueado por um contraventamento antigo. A gente vai ter que arrombar na força bruta.
 
-— Eu... eu não consigo... — A voz de Elias era um guincho quebrado, reverberando no abismo. — O degrau... tá podre. Vai quebrar. Nós vamos cair. Todos nós vamos cair.
+— Elias, acelera esse passo! — gritei.
 
-Eu olhei para o alto. Acima dele, a barra transversal estava corroída até a espessura de um lápis, o ácido do lodo vegetal tendo devorado a integridade estrutural. Mais acima, as raízes bioluminescentes do Jardim pulsavam com um azul febril, e eu podia ver sombras grotescas e multifacetadas descendo em espiral pelas paredes de concreto. Aranhas do tamanho de cães, fundidas com metal derretido e carne podre.
+Mas o silêncio que se seguiu foi o pior tipo de resposta. As solas de borracha de Elias congelaram. Eu bati a testa contra o couro das costas dele, sentindo o tremor febril que sacudia toda a sua caixa torácica.
 
-— Pisa no canto! — instruí, forçando a dor para trás da mente. — No encaixe da parede. O centro vai ceder, mas o pino na pedra ainda segura.
+— Eu... eu não consigo, Gabo... — balbuciou ele, os dedos brancos grudados no ferro oxidado. — O degrau do meio... apodreceu. É só casca de ferrugem. Vai estalar. Vai quebrar tudo.
 
-— Não dá! Eu vou escorregar!
+Olhei para cima, apertando os olhos contra a poeira fina que caía do teto do túnel. A barra horizontal em que ele precisava apoiar o peso estava corroída até a espessura de um graveto, comida pelo ácido do lodo vegetal. Mais acima, na penumbra azulada das raízes que rasgavam o concreto, vi o primeiro brilho de ópticas corrompidas. Quatro olhos mecânicos facetados, montados sobre uma carcaça de drone de vigilância fundida a fibras musculares sintéticas e espasmos de pernas articuladas de aço. Uma aranha de dois metros, descendo pelas vigas mestras com velocidade obscena.
 
-As sombras acima se agitaram. Um silvo agudo, meio sintético, meio orgânico, perfurou o ar, ricocheteando no espaço estreito. Uma das entidades mais rápidas se soltou da parede, caindo em queda livre antes de pregar as garras metálicas violentamente na escada, apenas dez metros acima de Elias.
+— Não pisa no centro! — rosnei, puxando Elias pela barra da calça de sarja. — Pisa no canto, colado na solda da viga mestra! A parede segura o pino! Move agora, Elias!
 
-O monstro era um amálgama de fiação estripada e tecido muscular exposto, coroado por uma placa craniana de drone de entrega. Suas mandíbulas mecânicas estalaram.
+Um guincho eletrônico estridente rasgou o poço de elevação. A quimera se projetou no vazio, caindo dez metros em queda livre antes de enterrar três garras de tungstênio diretamente nos rebites da escada, a menos de quatro metros acima da cabeça de Elias. A vibração do choque percorreu toda a estrutura de ferro, arrancando nuvens de fuligem vermelha.
 
-— Elias, move! Agora! — gritei.
+— Elias! — berrou Valéria.
 
-Elias choramingou e tentou alcançar o degrau podre. Seu pé escorregou. A barra cedeu no centro com um estalo doentio de metal rasgado.
+O técnico soltou um grito apavorado e tentou um salto desesperado para o degrau superior. O metal podre cedeu sob sua bota com um estampido oco. O corpo de Elias despencou no vácuo.
 
-Ele caiu.
+Reagi por puro instinto de sobrevivência esculpido em duas décadas de DPBC. Projetei a mão de sucata para cima. Os dedos de aço grosso fecharam-se ao redor da gola do casaco dele e da tira de lona de sua mochila no exato instante em que o vazio o engolia. O impacto de setenta quilos caindo arrancou um urro da minha garganta. O pistão hidráulico do meu ombro uivou, os parafusos cravados no osso da minha clavícula puxando a carne viva com uma ferroada de dor absoluta e escaldante. Minha outra mão, cravada no vergalhão de trás, deslizou dez centímetros, rasgando a pele da palma até o osso.
 
-O peso esmagador de Elias bateu direto no meu ombro. Minhas mãos, já em carne viva pela ferrugem, deslizaram. Eu grunhi, o oxigênio expulso dos pulmões enquanto o impacto quase arrancava meus braços das juntas. Fechei as mãos com uma força insana, o vergalhão enferrujado cortando através das minhas luvas.
+O gosto ferroso de cobre quente subiu à minha boca quando mordi a própria bochecha para não soltar o peso.
 
-A dor foi estelar. Uma supernova de agonia nas juntas e nos músculos rasgados. E foi perfeita. A alucinação do charuto foi dizimada. Eu estava vivo.
+— Te peguei! — grunhi, os dentes travados, o sangue escorrendo pelo canto dos lábios. — Trava a perna na viga, seu desgraçado! Trava agora!
 
-Valéria, operando com precisão de máquina, lançou o braço ao redor do meu torso, estabilizando nós dois na estrutura vacilante enquanto a aberração acima avançava para nós, atraída pelo barulho do metal quebrado.
+A aranha biomecânica não esperou. Ela saltou sobre os degraus em nossa direção, as mandíbulas pneumáticas abrindo em cruz para decapitar Elias.
 
-— Padrão de ataque iminente, — disse Valéria. — Defesa letal recomendada.
+Valéria ergueu a pistola compacta com as duas mãos, apoiando as costas contra o vazio, e disparou três tiros certeiros no bloco de articulação da criatura. Faíscas azuis explodiram no joelho de titânio do monstro, desequilibrando seu salto.
 
-Com Elias pendurado em mim e a criatura a centímetros do rosto dele, levantei minha perna esquerda — a massa pesada, desajeitada e de órtese queimada — e chutei para cima.
+— Agora, brutamontes! — gritou ela, os olhos prateados faiscando.
 
-O impacto do metal pesado contra a face sintética do drone-aranha foi acompanhado pelo som satisfatório de osso e plástico quebrando. A criatura guinchou, soltou a barra e despencou para o abismo, batendo nas paredes até sumir na escuridão.
+Com o braço esquerdo sustentando Elias contra a parede úmida, soltei a perna mecânica reforçada do degrau e desferi um chute vertical de baixo para cima. O impacto do calcanhar de ferro forjado atingiu a face do drone com o estrondo de uma marreta em um cofre. Componentes ópticos estilhaçaram, fios soltaram fumaça cáustica e o animal cibernético perdeu a sustentação, despencando aos guinchos no poço escuro até se esborrachar com um estalo úmido centenas de metros abaixo.
 
-O solavanco me fez morder a língua, o gosto de cobre quente inundando a boca.
+O esforço arrancou o último fôlego dos meus pulmões. O sangue gotejava da minha palma rasgada sobre a testa de Elias.
 
-— Trava na escada, Elias! — eu rosnei, cuspindo sangue. — Tem uma escotilha de manutenção três metros acima. É lá que a gente sai. Valéria, me empurra.
+— Ainda vivo? — perguntei entre dentes.
 
-Ela não questionou. Com um empurrão quase gentil, me ergueu, e eu ergui Elias. Quebramos o cadeado enferrujado da escotilha com a órtese, abrindo passagem para a escuridão horizontal de um novo corredor, segundos antes que o enxame biomecânico despencasse sobre a escada, rasgando o metal que deixamos para trás.
+— V-vivo... — soluçou ele, encontrando apoio para os pés no degrau de canto.
+
+— Ótimo. Porque se você morrer antes de abrir aquela escotilha, eu te jogo no poço de novo, — Valéria ameaçou, empurrando a cintura dele para o alto com o ombro firme. — Anda, Elias. Três metros. Usa a gravidade contra eles antes que o resto da matilha chegue.
+
+Subimos os últimos degraus como animais feridos. Cheguei à escotilha de ferro fundido, enfiei a ponta dos garras de aço da armação na fresta entre a chapa e o batente e puxei com toda a pressão do acumulador hidráulico. O pino de ferro estalou, a trava quebrou e a tampa escancarou para dentro com um estrondo de alívio.
+
+Joguei Elias para o chão de concreto do corredor, Valéria saltou em seguida cobrindo a retaguarda com um último disparo que ricocheteou nos cabos, e eu me atirei para o interior, batendo a escotilha de ferro atrás de nós bem no momento em que dezenas de garras mecânicas batiam do lado de fora, arranhando a blindagem em uma fúria estéril.

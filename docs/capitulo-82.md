@@ -166,7 +166,7 @@ E a matilha passou reto embaixo deles, correndo, sincronizada, seguindo o ponto 
 
 A escada de manutenção estava onde devia estar.
 
-Gabo subiu com um braço só puxando e empurrou a tampa de ferro fundido com o ombro bom — sessenta e dois quilos de tampa, e ele nunca soube de onde tirou aquilo — e os dois rolaram para o asfalto frio da Rua Vinte e Dois.
+Gabo subiu puxando com o braço bom e empurrou a tampa de ferro fundido com o ombro — sessenta e dois quilos de tampa, e ele nunca soube de onde tirou aquilo — e os dois rolaram para o asfalto frio da Rua Vinte e Dois.
 
 Val soldou a tampa por fora com a maçarico de emergência, três pontos, e depois sentou no chão da rua e ficou de olho na coisa por dois minutos inteiros.
 

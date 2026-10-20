@@ -7,53 +7,80 @@ Personagens Presentes: Gabo, Valéria
 
 # Capítulo 180: A Fome do Abismo
 
-O lodo ácido agarrava-se às minhas botas como mãos de moribundos implorando por salvação. Deixamos a estação e nos embrenhamos mais fundo nos dutos de escoamento. O eco úmido dos nossos passos era pontuado pelo chiado baixo do exoesqueleto atrelado ao meu ombro destruído. Cada movimento das travas passivas cravava espinhos virtuais na minha carne.
+O lodo ácido agarrava-se às minhas botas como mãos de moribundos implorando por salvação. Deixamos a galeria superior e nos embrenhamos mais fundo nos dutos de escoamento secundário, onde o eco úmido dos nossos passos era pontuado pelo chiado baixo dos pistões atrelados ao meu ombro destruído.
 
-Eu precisava daquela dor.
+O ar ali embaixo era um caldo rançoso, denso com o cheiro de decomposição bacteriana e ozônio frio. Não era o fedor seco da superfície; era a respiração pesada de uma arcologia subterrânea que apodrecia de dentro para fora, vazando graxa e fluidos humanos pelas fissuras do concreto brutalista.
 
-O ar aqui embaixo era um caldo rançoso, denso com o cheiro de decomposição e ozônio. Era fácil demais para a minha mente preencher a escuridão com o cheiro adocicado e enjoativo de alcatrão e fumaça velha. O fantasma de Dante ainda arrastava suas correntes na minha nuca, soprando sua neblina cancerígena. Quando a garganta apertou e a tosse úmida pareceu raspar as paredes da minha traqueia, cerrei os dentes e flexionei os tendões sintéticos do braço industrial ao limite da tensão.
+— Gabo... olha a leitura do barômetro — a voz de Valéria soou rente ao meu ouvido, trêmula e tensa.
 
-O motor chorou e um solavanco de pura agonia subiu pela minha espinha. A fumaça ilusória dissipou-se na névoa tóxica real do esgoto.
+Ela estava com o sensor térmico encostado na parede curva do duto. A luz azul dos filamentos de LED na franja dela projetava sombras compridas e fantasmagóricas no chão ensopado.
 
-— Ritmo cardíaco ainda fora dos parâmetros nominais, Gabo — ecoou a voz de Valéria. Plana. Estéril. O tom monocórdico de um terminal bancário te avisando sobre sua falência. — Sugiro pausas de trinta segundos a cada duzentos metros para mitigar risco de infarto.
+— A pressão atmosférica tá subindo — continuei andando, mantendo o braço de ferro colado à lateral do corpo para não raspar nos rebites enferrujados. — Estamos descendo rápido demais.
 
-— Se a gente parar, enferruja de vez, Val — resmunguei, empurrando o corpo para a frente. — Só me avisa se vir mais dessa porcaria brilhante.
+— Não é pressão de ar, seu cabeça-dura — ela puxou a manga do meu sobretudo com força, obrigando-me a estancar. — É acúmulo de metano misturado com vapor de ácido nítrico. Tem alguma câmara de decantação vazando bem na nossa rota. Se alguém acender uma faísca a cem metros daqui, essa galeria inteira vira um canhão de artilharia.
 
-Ela não respondeu ao sarcasmo, apenas continuou sua marcha inabalável, o feixe de luz tático perfurando a escuridão absoluta.
+Dez passos depois, a tubulação abriu-se numa câmara de drenagem titânica, com mais de quarenta metros de largura.
 
-Dez minutos depois, o túnel desembocou em uma câmara de drenagem titânica. As paredes curvas estavam quase inteiramente forradas pela mesma biomassa pálida dos túneis, mas aqui ela não estava apenas digerindo lixo inorgânico. O brilho doentio do *Jardim* revelou a verdadeira escala da fome da abominação.
+O facho de luz da lanterna de Valéria varreu o espaço e nós dois travamos no mesmo milésimo de segundo.
 
-Suspensos em uma teia de filamentos carnudos, pendiam três catadores. Eles estavam envoltos até o pescoço em casulos fibrosos. Seus implantes cibernéticos rudimentares de mercado negro — olhos sintéticos enferrujados, pernas pneumáticas — haviam sido rasgados e integrados à rede neural fúngica. O pior não era o grotesco da fusão carne-metal.
+O chão, as colunas de sustentação e até o teto curvado estavam forrados por uma teia viva de filamentos carnudos e bioluminescentes do Jardim. A matéria fúngica escorria pelas paredes feito cera derretida de uma vela doentia, pulsando num azul hipnótico que iluminava o horror central da câmara.
 
-O pior era que eles ainda respiravam. Seus peitos subiam e desciam em um ritmo letárgico, escravizado.
+Suspensos a dois metros do chão, envoltos em casulos grossos de biomassa fibrosa, pendiam três catadores de sucata.
 
-Um deles, um garoto com fios cromados emaranhados no que restava de seu cabelo, abriu um olho biológico injetado de sangue quando a luz de Valéria o atingiu. Um gemido oco escapou dos lábios rachados, um som que eu conhecia bem demais. Era o som do desespero cru, despido de qualquer esperança.
+Seus implantes clandestinos de mercado negro — conectores ópticos caseiros, braços mecânicos de segunda mão soldados com arame — haviam sido rasgados por tentáculos biológicos que se enfiavam direto nos pontos de solda neural. O tecido fúngico invadira as órbitas oculares e a garganta deles, pulsando em sincronicidade com os barramentos de cobre.
 
-— Avaliação de risco crítico — anunciou Valéria, erguendo imediatamente sua arma. O laser de mira dançou no peito do catador. — Nível de infecção classe A. Hospedeiros ativos integrados à malha. Protocolo ótimo: erradicação total para prevenir esporulação secundária. Solicitando autorização para uso de força letal.
+Eles ainda estavam vivos.
 
-Eu agarrei o cano da arma dela com minha mão de carne, abaixando-o rudemente.
-— Abaixa isso — rosnei. — Se você atirar aqui, a faísca e o calor podem fazer esse ar cheio de esporos e gás metano explodir. A gente morre junto.
+Seus peitos subiam e desciam num ritmo lento, escravizado por uma rede que usava o cérebro biológico de cada um como mero processador secundário de cálculo.
 
-— A contenção biológica tem precedência sobre a sobrevivência da unidade em caso de surto iminente — respondeu Valéria, olhando para mim sem um pingo de remorso ou humanidade. A luz fria de seus sensores me gelou a espinha.
+Um deles — um garoto magro, com o crânio rapado e cicatrizes de trepanação recente na têmpora — abriu um olho biológico injetado de sangue quando a lanterna de Valéria bateu no seu rosto. Um gemido oco, rouco, quase imperceptível de ar escapou de seus lábios cinzentos.
 
-Não havia com quem argumentar ali. Valéria não estava mais em casa. Era só o Modo de Segurança falando.
+Valéria deu um passo involuntário para trás, levando a mão à boca num reflexo de pura náusea e horror.
 
-Virei-me para a parede, calculando nossas opções. O caminho adiante estava bloqueado pela massa principal, um aglomerado denso de matéria pulsante. Acima da entrada, vi o que eu precisava: uma enorme tubulação de descarte industrial, velha e corroída pela umidade. Água ácida de resfriamento escorria por suas juntas rachadas.
+— Meu Deus... Gabo... eles estão conscientes — a voz dela falhou, as lágrimas de choque brilhando na borda dos implantes ópticos prateados. — A rede do Silas tá usando o córtex frontal deles pra manter a malha estabilizada... Olha os pulsos elétricos na têmpora do menino. Ele tá preso num loop de dor pra gerar voltagem.
 
-— Fica para trás — ordenei.
+Ela ergueu a pistola pesada com a mão trêmula, a mira laser tremendo sobre a cabeça do rapaz.
 
-Caminhei até estar abaixo do cano, posicionei-me firmemente no lodo. Ergui o braço industrial, usando o ombro para ancorar o peso. A dor era cegante, mas fechei os olhos, transformando a agonia em combustível. Com um grito abafado, golpei o centro da tubulação apodrecida com a pesada garra de aço.
+— Eu vou tirar ele disso. Não dá pra deixar um ser humano preso numa merda dessas...
+
+Agarrei o cano da arma dela com minha mão de carne, empurrando-a para baixo com firmeza.
+
+— Abaixa isso, Valéria! Agora!
+
+— Moretti, ele tá sofrendo! — ela sibilou entre os dentes, os olhos arregalados num desespero visceral, puxando a arma contra o meu aperto. — Olha pra cara dele! O garoto não tem vinte anos! Você quer que a gente passe reto feito covarde?
+
+— Olha pro teto! — rosnei, apontando com a mão de aço pesada para os bolsões de gás que brilhavam com um tom amarelado sob a abóbada de concreto. — Você mesma disse há dois minutos: metano concentrado. Um tiro de pólvora ou faísca elétrica agora e a onda de choque incendeia a câmara inteira. A gente queima vivo junto com eles em três segundos.
+
+Valéria soltou o ar num soluço seco, o cano da pistola descendo devagar. Ela encarou o garoto suspenso nos filamentos, o queixo tremendo de raiva e impotência.
+
+— Então a gente faz o quê? Assiste?
+
+— A gente abre caminho sem faísca — falei, puxando-a para trás da mureta de proteção da passarela. — Fica aqui e cobre os olhos.
+
+Olhei para cima da massa principal de fungos que bloqueava o arco de saída da câmara. Três metros acima do chão passava uma tubulação industrial de retorno, velha, coberta de ferrugem corrosiva e pingando uma água verde-esmeralda que fumegava ao tocar o piso. Resíduo de purga ácida das caldeiras antigas do Distrito 4.
+
+Afundei os pés no lodo da passarela, medindo o peso da minha armação de ferro.
+
+— O que você vai fazer, Gabo? — Valéria sussurrou, encostada na parede.
+
+— O que o Vasco planejou pra essa sucata: trabalho braçal de cais.
+
+Avancei dois passos até ficar exatamente sob o cotovelo da tubulação. Ergui a armação industrial com as duas mãos — a mão esquerda dando suporte na base do bíceps, os pinos neurais da escápula gritando quando forcei o ângulo além do limite de segurança.
+
+Cerrei o punho maciço de aço e desferi o golpe contra a curva oxidada do cano.
 
 *CRACK.*
 
-O metal gemeu e cedeu. Uma cascata violenta de água verde e escaldante de ácido industrial despencou. O jato atingiu o centro da colônia fúngica. O assobio foi instantâneo. A biomassa se contorceu, chiando enquanto o ácido a dissolvia, derretendo o lodo brilhante e abrindo um caminho estreito, enegrecido e fumegante pelo centro da câmara.
+O som do metal podre se partindo ecoou como um trovão mecânico na galeria. Uma tromba d'água verde, escaldante e saturada de ácido nítrico despencou em cascata direto sobre o coração da colônia fúngica que bloqueava a saída.
 
-A fumaça que subiu tinha um gosto acre e cáustico de enxofre e carne morta. Perfeito. Nada parecido com alcatrão.
+O chiado foi ensurdecedor. A biomassa do Jardim se contorceu em espasmos violentos enquanto o ácido industrial dissolvia as membranas orgânicas, transformando as raízes azuis numa pasta cinzenta, borbulhante e putrefata. Uma fumaça espessa, cáustica e cheirando a enxofre e borracha queimada subiu em ondas, abrindo uma vala fumegante e limpa de dois metros de largura bem no meio da câmara.
 
-Respirando pesadamente, apoiando-me nos joelhos enquanto a pulsação no meu cotovelo parecia tentar perfurar a pele, olhei para os catadores. Eles continuavam lá, presos no teto, observando em silêncio agonizante a nossa passagem recém-aberta.
+Puxei o ar com dificuldade, a dor no ombro fazendo minha visão tremer em tons de amarelo.
 
-Não havia como soltá-los sem nos infectarmos. E atirar neles continuava sendo um risco inaceitável para a nossa própria fuga. Eles estavam mortos, só não haviam percebido ainda.
+— Valéria! — chamei, a voz áspera pela fuligem química. — Passagem aberta! Corre!
 
-— O caminho está viável. A probabilidade de travessia bem-sucedida aumentou para 89% — declarou Valéria, já marchando em direção à fenda aberta pelo ácido, seus pés pisoteando a gosma derretida sem hesitação.
+Valéria saltou sobre a mureta, ajeitando o cyberdeck com uma mão e cobrindo o nariz com a gola da jaqueta. Ela olhou para o garoto suspenso uma última vez. Os filamentos que o prendiam tremiam com a dor da colônia, mas o menino fechou o olho biológico, como se a escuridão fosse o único alívio que Baía Cinzenta tinha para lhe oferecer.
 
-Olhei para o garoto uma última vez. Não disse nada. Nesta cidade de lixo e neon quebrado, a misericórdia era um luxo que eu não podia mais bancar. Virei as costas e segui a máquina que um dia foi a minha parceira.
+— Desculpa... — Valéria murmurou para a sombra do rapaz, antes de disparar pelo corredor fumegante que o ácido acabara de abrir.
+
+Cruzei a câmara logo atrás dela, o calor do ácido queimando a sola das minhas botas através do couro gasto. Não olhei para trás. A cidade cobrava pedágio em vidas humanas em cada esquina, e nós dois só tínhamos conseguido pagar o nosso por mais algumas horas.

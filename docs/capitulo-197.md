@@ -7,73 +7,90 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 # Capítulo 197: A Gravidade do Lodo
 
-Os oitocentos metros de distância pareciam se multiplicar a cada passo, como se estivéssemos rastejando pelo intestino de uma besta moribunda. As catacumbas do Setor 6 eram um labirinto esquecido de engenharia brutalista. Arcos manchados de concreto gotejavam fluidos oleosos sobre um piso inundado, onde a água fedia a metal oxidado e desespero.
+Os oitocentos metros de distância pareciam se multiplicar a cada passo pelas catacumbas do Setor 6. A galeria era um labirinto esquecido de alvenaria brutalista, onde arcos de tijolos seculares gotejavam água fétida e óleo de transformadores sobre um piso inundado que cobria nossas botas até os tornozelos.
 
-Elias choramingava a cada respingo. Sua lanterna tremia histericamente, projetando sombras erráticas que dançavam sobre os canos grossos nas paredes. Valéria, fiel ao seu Modo de Segurança, movia-se com uma eficiência pavorosa. Seus sensores ópticos emitiam um feixe azul-pálido, cortando a escuridão sem um pingo de hesitação, fadiga ou empatia. Para ela, o ambiente não era opressivo; era apenas um conjunto de dados a ser processado.
+Elias choramingava a cada respingo, segurando a lanterna caseira com as duas mãos trêmulas. O facho oscilava freneticamente, projetando sombras compridas sobre as colunas maciças que sustentavam as fundações dos arranha-céus comerciais quilômetros acima de nós.
 
-Eu arrastava meu corpo quebrado, pagando pedágio à gravidade a cada passo. A dor no meu ombro estilhaçado era um inferno particular. Eu mantinha minha mão boa cravada sobre o ferimento recém-dilacerado, apertando a carne esfarrapada de propósito. A fisgada aguda de agonia subia pela minha nuca. Eu precisava daquilo. Sem o choque bruto da dor física, o ar podre da catacumba começava a se distorcer, impregnando minhas narinas com aquele cheiro inconfundível, denso e nauseante. Fumaça de charuto. O cheiro de Dante. A alucinação fantasma se enrolava na minha traqueia, ameaçando me sufocar com o peso de uma memória que eu tentava sepultar sob toneladas de concreto.
+Valéria ia logo atrás dele, o cyberdeck seguro no peito e a pistola em punho. Os filamentos de LED azul na franja curta dela iluminavam a água escura com um reflexo elétrico, e seus olhos ópticos prateados varriam as vigas com atenção incansável.
 
-— Obstáculo detectado, — a voz de Valéria quebrou o silêncio, um zumbido sintetizado e sem inflexão.
+— Mantém a luz baixa, Elias — ela repreendeu num sussurro ríspido, dando um toque com o cano da arma na mochila do velho. — Se você continuar sacudindo esse facho pro teto, vai chamar a atenção de qualquer rato ou drone de caça que estiver aninhado nas canaletas superiores.
 
-Nós paramos. À nossa frente, a passarela de cimento havia colapsado, dando lugar a um abismo raso de água negra e agitada. O único caminho era uma estrutura precária de canos expostos e grades enferrujadas que se estendia sobre a falha. Pior do que a ferrugem, no entanto, era a praga. As raízes bioluminescentes do *Jardim*, com suas veias azuladas e doentes, haviam se enroscado na estrutura de metal. A biomassa pulsava letargicamente no escuro, aguardando.
+— Eu tô tentando, garota... tô tentando — Elias resmungava, limpando o suor da testa com o antebraço encardido. — Mas o ar aqui embaixo tá pesado demais... parece que tem chumbo dissolvido nessa água.
 
-— A integridade estrutural da ponte improvisada é de quatorze por cento, — Valéria calculou, escaneando a massa. — O peso combinado resultará em falha catastrófica. Além disso, a biomassa apresenta reatividade ao calor e ao impacto. Risco de assimilação celular: crítico.
+A dor no meu braço fraturado latejava em sintonia com os meus batimentos cardíacos, mas o curativo compressivo que Valéria improvisara segurava a hemorragia. Eu arrastava a bota mecânica pelo lodo, usando a parede como guia tátil, focado no peso real de vinte quilos de ferro e na empunhadura áspera de *Caronte* sob o casaco.
 
-Elias recuou, colando as costas em um pilar úmido.
-— Não dá. Acabou. Se a gente pisar ali, aquela... aquela coisa vai nos devorar.
+Lembrei de quantas travessias semelhantes enfrentei desde o Dilúvio na Zona Baixa; a escuridão dos túneis de Baía Cinzenta sempre cobrava pedágio em ossos quebrados e sangue derramado.
 
-Eu cuspi um coágulo de saliva e sangue na água escura. O maldito cheiro fantasma de tabaco velho rastejou pelos meus seios da face. Cravou ainda mais os dedos no meu ombro, rasgando a pele até sentir a borda de um tendão exposto. O pico de dor incandescente despedaçou a alucinação instantaneamente. Minha mente voltou ao presente fétido de lodo e ozônio.
+Cinquenta metros adiante, a passarela de concreto estancou abruptamente.
 
-— Nós não vamos recuar, — murmurei, minha voz soando como cascalho triturado em engrenagens enferrujadas. — A gente atravessa. Um por vez.
+O piso desabara numa extensão de dez metros, engolido por uma cratera onde um canal de escoamento profundo borbulhava um lodo negro e viscoso. O único caminho sobre o abismo era uma ponte improvisada formada por três canos industriais de aço de oito polegadas e uma grade de manutenção enferrujada amarrada com cabos de aço.
 
-Valéria virou seu olhar pálido para mim.
-— Gabo. Seus sinais vitais indicam exaustão terminal. A perda volumétrica de sangue comprometeu sua coordenação motora. A probabilidade de você escorregar na biomassa é estatisticamente inaceitável. A lógica dita encontrar uma rota alternativa, mesmo que o desvio consuma sete horas adicionais.
+Pior do que a corrosão do metal, no entanto, eram as raízes bioluminescentes do Jardim. Gavinhas azuis e translúcidas envolviam os canos como serpentes marinhas, pulsando com um brilho fraco e doentio.
 
-— Em sete horas eu já sangrei até secar, lata velha, — rosnei, o cinismo transbordando para disfarçar o tremor nas minhas pernas. — Elias vai primeiro. Ele é o mais leve e o que tem mais pressa de viver.
+— Obstáculo no caminho — Valéria estacou na beirada da laje partida, ajoelhando-se para inspecionar a ancoragem dos tubos com a ponta da faca tática.
 
-Elias sacudiu a cabeça freneticamente.
-— Eu? Não! Eu vou cair! Eu morro!
+— A gente não pode passar por aí! — Elias soluçou, recuando até colar as costas num pilar de sustentação. — Aquela porcaria azul tá viva! Se a gente encostar nessas raízes, elas agarram nossas pernas e puxam a gente pro fundo do canal!
 
-Dei um passo pesado na direção dele, a bota da perna mecânica ecoando com um baque surdo. Ergui o braço direito — a grotesca prótese industrial de sucata — e agarrei o colarinho sujo dele. As juntas de metal rangeram como um protesto violento.
+— As raízes tão dormentes por causa da temperatura baixa dessa água, Elias — Valéria analisou com calma cirúrgica, raspando a crosta de ferrugem do primeiro tubo. — Mas a armação de ferro tá carcomida. Ela não aguenta o peso de nós três juntos. A gente tem que cruzar em fila indiana, um por vez, com passos curtos e sem pular.
 
-— Escuta bem, Elias, — eu disse baixo, apoiando meu equilíbrio apenas no ódio e na dor aguda que irradiava pelo corpo. — Você prefere morrer ali, lutando pra atravessar, ou quer que eu te deixe aqui no escuro para o Jardim crescer nos seus pulmões? Escolhe. Eu não tenho paciência nem sangue sobrando pra negociar com covarde.
+— Eu não vou primeiro! — o velho gritou baixo, sacudindo a cabeça num pânico cego. — Eu sou magro, se eu cair eu me afogo nessa gosma!
 
-Ele engoliu em seco. Lágrimas limparam trilhas na fuligem do seu rosto. Ele assentiu devagar.
+Dei um passo pesado na direção dele, a garra de ferro da armação erguendo-se e travando no colarinho do seu macacão com um estalo pneumático firme.
 
-Eu o soltei. Elias se aproximou da grade, os passos hesitando no precipício. Ele subiu no primeiro cano enferrujado. As veias azuis da biomassa se contraíram levemente com a vibração, mas permaneceram passivas. Ele rastejou, centímetro por centímetro agonizante, suspenso sobre a escuridão absoluta.
+— Você vai primeiro exatamente porque é o mais leve, Elias — falei, a voz rouca e sem espaço para negociação. — Você cruza, prende a fita de segurança no olhal de aço do outro lado e joga a ponta de volta pra nós. Se você tentar correr ou se recusar a subir no cano, eu te deixo sozinho nessa plataforma escura. E você sabe muito bem o que vai sair desse esgoto quando os neons apagarem.
 
-Valéria processou a cena sem piscar.
-— A frequência cardíaca do sujeito denota pânico extremo. Secreções sudoríparas estão aumentando a condutividade da superfície de atrito. Tática ineficiente.
+Elias encarou o cano frio de *Caronte* que despontava do meu casaco e depois olhou para os olhos azuis de Valéria, que não piscavam. Ele engoliu o choro, assentiu com a cabeça e respirou fundo.
 
-Elias alcançou o outro lado e desabou num monte de membros trêmulos.
+— Me dá a cinta de rapel — ele pediu com a voz trêmula.
 
-— Sua vez, — eu disse para ela.
+Valéria engatou a ponta da fita no mosquetão do cinto dele:
 
-Ela não discutiu. No Modo de Segurança, comandos eram executados se estivessem dentro dos parâmetros de sobrevivência tática. Ela pisou na grade. O equilíbrio dela era impossivelmente perfeito, mas o metal gritou assim mesmo. As veias azuis pulsaram com mais intensidade, uma reação doentia ao campo elétrico dos implantes dela. Ela atravessou em segundos, um fantasma de lógica pura, deixando a ponte tensionada e estalando.
+— Põe o pé exatamente no centro do tubo mais largo, Elias. Não olha pra baixo e não corre.
 
-Era a minha vez.
+O velho subiu no cano com a lentidão de um equilibrista desesperado. A estrutura rangeu, soltando lascas de ferrugem na água escura, e as raízes bioluminescentes tremeram com a vibração, mas permaneceram passivas. Passo a passo, arrastando as solas com cuidado milimétrico, Elias cruzou os dez metros do vão e desabou na laje do outro lado, arfando de alívio.
 
-Olhei para a extensão oxidada. As raízes pulsantes pareciam uma mandíbula aberta esperando minha falha. A náusea voltou, e com ela, a sufocante lufada fantasma de fumaça invadiu minha garganta. Eu via o sorriso presunçoso de Dante Moretti na neblina ilusória da minha mente.
+Ele correu até a coluna oposta e amarrou a fita de segurança num pino mestre de ferro fundido.
 
-Eu precisava de uma âncora maior.
+— Agora você, Val — ordenei, mantendo a lanterna firme na travessia.
 
-Levantei meu pesado braço industrial e bati o cotovelo de ferro bruto diretamente contra a quina de concreto da parede. O impacto mandou uma onda de choque de pura agonia não filtrada subindo pela minha espinha. A dor obliterou qualquer ilusão, queimando a fumaça de charuto da minha cabeça. Arfei violentamente, o ar frio e podre finalmente inundando meus pulmões. O gosto de sobrevivência era metálico e miserável.
+— Vê se não solta a corda, detetive — ela me lançou um olhar rápido, confiante e desafiador.
 
-Pisei na ponte. Minha perna mecânica choramingou, o pistão triturando areia e ferrugem. O peso descalibrado fez a estrutura ranger.
+Valéria subiu na passarela com a agilidade felina de quem crescera escalando guindastes nas docas. Ela avançou em equilíbrio perfeito, as mãos deslizando pela guia de segurança, cruzando o abismo em menos de quinze segundos. Quando seus pés tocaram a margem segura, ela se virou e gritou:
 
-No meio da travessia, uma massa espessa de raízes azuis subitamente disparou do lodo, enrolando-se no meu tornozelo hidráulico como uma serpente de vidro.
+— Minha vez de segurar a linha! Vem, Gabo! Mas pisa leve, seu brutamontes! Esse tubo não foi desenhado pra carregar vinte quilos de ferro industrial!
 
-— Gabo, — a voz de Valéria soou do outro lado, distante e fria. — Enredamento detectado. Amputação da prótese inferior recomendada caso o casulo biológico inicie a digestão ácida.
+Respirei fundo, sentindo o ar frio queimar os pulmões. Subi no primeiro cano.
 
-Eu não respondi. Não tinha fôlego para gastar. Ergui o pesado braço direito e desferi um soco brutal, reto e primitivo na biomassa enrolada na minha perna. A prótese não calibrada soltou um chiado de despressurização quando os nós dos dedos de aço maciço esmagaram o tecido biológico, espalhando uma seiva grossa e brilhante por todo lado.
+O impacto da minha bota mecânica fez a estrutura inteira vibrar com um gemido agudo de metal fadigado. As gavinhas do Jardim reagiram instantaneamente ao peso e à estática da minha armação, brilhando com um tom azul mais intenso e contraindo-se sobre o aço.
 
-A força do impacto, a vibração correndo de volta pelo braço, a dor excruciante que se conectou com o ombro já destroçado... era uma sinfonia terrível. Uma punição corporal que me mantinha perfeitamente são no centro daquele inferno biológico.
+Avancei dois metros. Três metros. O abismo negro borbulhava logo abaixo das minhas pernas, exalando um vapor gelado com cheiro de ácido e podridão.
 
-Puxei minha perna livre com um estalo molhado e tropecei a distância restante, caindo de joelhos no concreto sólido ao lado de Elias. Fiquei ali por longos segundos, escutando o ritmo quebrado e exausto da minha própria respiração.
+No sexto metro, o ferro oxidado cedeu.
 
-Valéria olhou para baixo, analisando meu estado patético.
-— Integridade crítica, porém mantida. Prossiga o deslocamento. Faltam setecentos e quinze metros para o poço de elevação.
+*CRACK-SNAP.*
 
-Empurrei o chão, ignorando a poça de sangue escuro que pingava do meu ombro. A cidade inteira era um cadáver apodrecendo, e nós éramos os vermes rastejando em suas artérias mortas. Eu não esperaria nada diferente.
+O tubo central partiu-se na solda antiga. A grade de manutenção tombou trinta graus para a direita, e meu pé de metal escorregou no lodo, arremessando meu corpo em direção ao fosso.
 
-— Andando, — raspei a voz, inclinando o corpo mutilado em direção à escuridão. — A desgraça não vai nos esperar sentada.
+— Gabo! — o grito de Valéria rasgou a acústica da galeria.
+
+Cravei a garra de aço da armação no único cano que restava intacto. As engrenagens da armação travaram com um silvo hidráulico ensurdecedor, os nós neurais da minha escápula gritando quando todo o peso do meu corpo foi sustentado por aquele único braço de ferro suspenso no vazio.
+
+A água escura borbulhou a meio metro das minhas botas.
+
+Lá em cima, Valéria e Elias já estavam puxando a fita de segurança com as duas mãos, fincando os pés na borda da laje com toda a força de seus corpos.
+
+— Puxa, Elias! Não solta essa fita! — Valéria berrava, o rosto vermelho de esforço, os LEDs da franja piscando freneticamente. — Põe a mão boa no corrimão, Gabo! Dá impulso com a perna direita!
+
+Travei os dentes, usei a tração da fita que eles seguravam e dei um impulso violento com a bota boa contra a parede rochosa. O braço mecânico puxou meu tronco para cima com um estalo pneumático, e Valéria agarrou o colarinho do meu casaco, me arrastando para o piso sólido da laje com a ajuda de Elias.
+
+Caí de costas no concreto molhado, arfando com o coração batendo na garganta.
+
+Atrás de nós, os restos da ponte improvisada se soltaram de vez, despencando no canal de drenagem com um estrondo monumental de água e ferro que ecoou pelas catacumbas inteiras.
+
+Valéria caiu sentada ao meu lado, limpando o suor da testa com as costas da mão suja de ferrugem, o peito subindo e descendo com violência. Ela me encarou por três segundos e soltou uma gargalhada rouca, cheia de puro alívio:
+
+— Eu falei... eu falei pra você pisar leve, seu elefante de lata!
+
+— Eu pisei o mais leve que pude — consegui dizer, tossindo e sorrindo com o cinismo que ainda nos mantinha vivos.
+
+— Pois da próxima vez, faz dieta antes de saltar num esgoto — ela me deu um soco fraco na armação de ferro e se levantou, estendendo a mão para me apoiar. — Vamos andar logo. O barulho daquela ponte caindo com certeza acordou a vizinhança inteira do Setor 6.

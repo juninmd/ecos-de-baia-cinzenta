@@ -15,25 +15,19 @@ Eu também não estava muito melhor. O choque hipovolêmico era uma sombra amea�
 
 Nas bordas do Distrito 4, a ordem corporativa nunca existiu de fato, e a falta de energia apenas escancarou isso. Os moradores sobreviventes haviam começado a queimar o que encontravam em tambores improvisados nas ruas para espantar a escuridão e o frio: plástico isolante velho, pneus velhos e restos químicos.
 
-O vento soprou a fumaça tóxica de uma dessas fogueiras na nossa direção. O ardor nos olhos e a acidez no fundo da garganta foram imediatos. Mas, para mim, não era o cheiro de lixo queimado.
+O vento soprou a fumaça negra de uma dessas fogueiras na nossa direção. O ardor nos olhos e a acidez cáustica no fundo da garganta foram imediatos; o plástico queimado e os vapores de borracha roubaram o oxigênio em um instante.
 
-No momento em que inalei, a rua escura sumiu. O chão sob minhas botas virou o carpete felpudo e caro do escritório da corregedoria. O lixo em chamas transformou-se no brilho da brasa do cigarro de Dante Moretti, a fumaça rodopiando no ar gélido e com cheiro de cravo. O asfalto pareceu afundar, os pulmões trancaram. Eu estava com doze anos de novo, sufocando na presença opressora dele, a fumaça fantasma enchendo meus alvéolos como cimento líquido.
+Com o corpo debilitado pelo choque e pelas fraturas e queimaduras recentes, a fumaça química provocou um espasmo violento na traqueia de Gabo. Ele caiu de joelhos no asfalto quebrado, tossindo em acessos secos e dolorosos que repuxavam os pontos do abdômen e faziam a água suja da sarjeta salpicar seu rosto.
 
-A náusea era violenta. Caí de joelhos no asfalto quebrado, a água suja salpicando meu rosto. Um engasgo ruidoso rasgou minha garganta.
+Valéria ajoelhou-se ao lado dele imediatamente, usando o próprio corpo para bloquear a rajada de vento tóxico que vinha do tambor em chamas.
 
-Valéria parou, a mão pesada pairando sobre meu ombro, hesitante.
+— Põe a gola da jaqueta no nariz, Gabo! — ela ordenou, a voz rouca lutando contra a tempestade. Ela puxou a gola de sarja dele sobre a boca para filtrar a fuligem. — Não respira esse lixo direto. A gente tá a menos de cem metros da oficina do Vasco. Aguenta firme!
 
-— Gabo... — a voz dela estalou, distorcida e fraca pelo modulador falhando.
+Gabo fechou os olhos, respirando devagar através do tecido grosso. A dor no braço direito fraturado e nas queimaduras latejava como brasa viva, mas o ritmo constante de sua respiração forçada afastou a vertigem. Apoiou a mão esquerda firme no ombro de Valéria e forçou as pernas trêmulas a se erguerem.
 
-Eu não podia ouvi-la. Só ouvia o silêncio de Dante. Só sentia o gosto amargo do tabaco fantasma me asfixiando por dentro.
+— Tô inteiro, — ele murmurou, cuspindo a fuligem ácida no chão molhado. — Vamos antes que o vento vire de novo.
 
-Ergui meu braço amputado. O coto estava latejando, fechado precariamente por feridas cauterizadas em carne viva e crostas recentes. Sem hesitar, sem pensar em infecção ou sobrevivência a longo prazo, afundei a carne dilacerada diretamente na beirada pontiaguda de um paralelepípedo solto na sarjeta.
-
-A agonia subiu pela minha espinha como um relâmpago branco. Gritei. O som foi abafado pela tempestade, mas a dor foi absoluta. Pura. Cristalina. Ela varreu o cheiro de cravo da minha mente, quebrando a ilusão e me ancorando violentamente de volta à realidade úmida e fétida da rua. Ofeguei fundo, puxando o ar gelado e poluído, o sangue quente escorrendo do cotoco e misturando-se à chuva.
-
-— Eu estou bem — rosnei, me apoiando nos joelhos para ficar de pé. — Estou aqui.
-
-Valéria abaixou a mão. Ela entendeu o mecanismo sombrio da minha sanidade.
+Valéria passou o braço sob o meu ombro, me ajudando a sustentar o peso.
 
 — Você vai desmaiar de perda de sangue antes de chegarmos na clínica — constatou ela, com uma objetividade morta.
 
@@ -49,11 +43,11 @@ Valéria tensionou os ombros, preparando os sistemas de combate. Eu vi a luz pá
 
 Levantei a mão esquerda intacta, sinalizando para ela não se mover.
 
-Dei dois passos à frente. A água espirrava nas minhas botas. Eu não saquei minha arma. Apenas olhei para o líder. Meu casaco estava ensopado com a sujeira da cidade e meu próprio sangue fresco jorrando do toco estraçalhado do meu braço direito.
+Dei dois passos à frente. A água espirrava nas minhas botas. Eu não saquei minha arma. Apenas olhei para o líder. Meu casaco estava ensopado com a sujeira da cidade e meu próprio sangue fresco escorrendo da fratura exposta e das ataduras arrebentadas do meu braço direito.
 
 Os olhos do saqueador caíram para a minha ferida aberta, para o modo como o sangue fervia sob a chuva, e então subiram de volta para o meu rosto. A expressão fria, vazia e cínica de quem havia passado as últimas horas caminhando pelo inferno corporativo, testemunhando horrores biológicos e apagando a mente de um deus digital.
 
-Ergui o cotoco ensanguentado na direção dele, a poucos centímetros do seu rosto. A carne estalava e pingava.
+Ergui o braço direito quebrado e ensanguentado na direção dele, a tala partida e o osso desalinhado a poucos centímetros do seu rosto. A pele queimada e a carne estalavam sob a chuva ácida.
 
 — Você está vendo isso? — minha voz saiu baixa, raspando como vidro quebrado. — Eu fiz isso em mim mesmo, só porque o cheiro dessa cidade me irritou. O que acha que eu vou fazer se não sair do meu caminho nos próximos três segundos?
 

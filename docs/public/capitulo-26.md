@@ -1,5 +1,6 @@
 ---
 image: /capitulo_26.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Valéria "Val" Cruz
 ---
 # Capítulo 26: A Escolha de Atlas
 

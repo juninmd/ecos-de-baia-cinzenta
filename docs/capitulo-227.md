@@ -83,7 +83,7 @@ Elias foi o primeiro a perguntar a coisa óbvia, porque ele é o único de nós 
 
 Todo mundo olhou.
 
-Levantei da banqueta. Peguei a ficha da mão dele com a única mão que tenho, e li o nome em voz alta, e depois falei devagar, porque eu estava organizando aquilo na cabeça pela primeira vez.
+Levantei da banqueta. Peguei a ficha da mão dele com a mão esquerda livre, e li o nome em voz alta, e depois falei devagar, porque eu estava organizando aquilo na cabeça pela primeira vez.
 
 — O Gamemaster era uma máquina que o Krell ligou. — Coloquei a ficha na mesa. — O Taxidermista era um doente que a cidade do Krell deixou solto porque cadáver modificado não dá processo. O Silas era um fanático usando a tecnologia do Krell. O Marco era um administrador brigando pelos restos do império do Krell. E o meu pai... — engoli — ...o meu pai foi matéria-prima do Krell.
 

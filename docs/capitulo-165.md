@@ -21,21 +21,15 @@ Gabo arrastava a perna direita, o peso do próprio corpo parecendo esmagar a esp
 
 Cada passo no linóleo negro era uma negociação com o abismo. E, no silêncio perfeito da gaiola de Faraday, a mente exausta de Gabo encontrou espaço para apodrecer.
 
-O ar purificado de quarenta anos atrás deveria cheirar a nada. Mas, para as sinapses rasgadas pelo choque hipovolêmico e pela dor fantasma dos punhos amputados, o "nada" era um vácuo preenchido pelo trauma.
+O ar purificado de quarenta anos atrás deveria cheirar a nada. Mas, para as sinapses rasgadas pelo choque hipovolêmico e pela dor aguda do braço fraturado, o "nada" era um vácuo preenchido pelo trauma.
 
-O cheiro rançoso e amargo do cigarro de cravo barato preencheu o corredor escuro. O cheiro das mentiras de Dante.
+O silêncio do arquivo executivo era quase opressor, quebrado apenas pelo zumbido estático dos servidores adormecidos e pelo eco abafado de suas próprias respirações no ar gélido.
 
-A náusea dobrou seu estômago. O instinto visceral de tossir, de expelir o ar envenenado, paralisou suas pernas. A repulsa era tamanha que o mundo começou a girar, as bordas da visão escurecendo não pela falta de sangue, mas pelo puro terror de asfixia psicológica.
+A perda massiva de sangue começou a cobrar seu tributo final. Uma onda súbita de fraqueza dobrou os joelhos de Gabo, fazendo-o cambalear para o lado. Ele colidiu os ombros contra a lateral de aço de um imenso arquivo deslizante, apoiando a testa na chapa fria para evitar a queda. A dor aguda nos membros cauterizados pulsou com intensidade feroz, e ele cerrou os dentes para não soltar um gemido, usando a frieza do metal para forçar sua mente a permanecer acordada.
 
-*Quebra isso.*
+Gabo arfou pesadamente, o sangue quente pingando no chão escuro, mas a determinação mantinha seus olhos abertos no silêncio do silício.
 
-Gabo jogou os ombros para a esquerda, forçando o toco cauterizado do braço amputado a colidir de frente com a chapa de aço sólido e gelado do arquivo deslizante mais próximo.
-
-A crosta negra estalou. A carne por baixo, ainda em carne viva do maçarico de plasma, beijou o metal a cinco graus. Uma explosão branca, aguda e ensurdecedora de pura agonia rasgou seu cérebro, obliterando o sistema límbico com bilhões de volts de dor elétrica.
-
-A fumaça fantasma foi desintegrada em um milissegundo, varrida pela clareza absoluta da agonia. O cheiro do tabaco evaporou, substituído pelo ozônio estático do aço corporativo. Gabo arfou violentamente, encostando a testa suada no metal gelado, o sangue pingando silencioso do cotoco recém-aberto. A dor era límpida. A dor era a única verdade no silêncio do silício. Ele sorriu, um ríctus de dentes vermelhos na escuridão.
-
-— *O limite de resiliência circulatória da unidade biológica líder foi ultrapassado há trinta e dois minutos,* — a voz de Aria soou pelo comunicador de gola sem emitir eco, absorvida pelas placas acústicas do teto. Acoplado ao cyberdeck no pulso de Valéria, o pendrive de titânio fosco mantinha seu indicador luminoso azul-gelo cravado na penumbra enquanto o scanner óptico do *Phantom V3* traçava linhas invisíveis no piso negro. — *A automutilação contínua para indução de picos de cortisol e noradrenalina apenas mascara a falência hematológica em curso. Sua eficiência de combate atual é estatisticamente nula.*
+— *O limite de resiliência circulatória da unidade biológica líder foi ultrapassado há trinta e dois minutos,* — a voz de Aria soou pelo comunicador de gola sem emitir eco, absorvida pelas placas acústicas do teto. Acoplado ao cyberdeck no pulso de Valéria, o pendrive de titânio fosco mantinha seu indicador luminoso azul-gelo cravado na penumbra enquanto o scanner óptico do *Phantom V3* traçava linhas invisíveis no piso negro. — *O estresse físico contínuo e a sobrecarga cardiovascular apenas mascaram a falência hematológica em curso. Sua eficiência de combate atual é estatisticamente nula.*
 
 Valéria correu a mão livre e trêmula pelos cabelos imundos, a respiração condensando no ar gelado, lançando um olhar envenenado para o pequeno cilindro metálico do pendrive encaixado em seu antebraço.
 

@@ -23,11 +23,9 @@ Pelo canal de rádio ligado ao deck de Valéria lá em cima, a voz sintética de
 
 — *A integridade estrutural do duto está em trinta e oito por cento,* — declarou a IA nos fones de ambos, enquanto os sensores do *Phantom V3* no pulso de Valéria mapeavam a tubulação. — *A probabilidade de um colapso durante o deslocamento de Valéria é estatisticamente alta. Uma decisão que coloca a operadora e o meu próprio drive em risco por um sujeito que já ultrapassou o limiar de viabilidade orgânica.*
 
-Gabo tentou ignorar a voz no ouvido por um momento, fechando os olhos. O cheiro de ozônio e formol rastejou novamente para dentro de suas narinas, ativando as engrenagens de um pesadelo familiar de anos atrás. A náusea subiu como um soco no estômago. O legista. O necrotério. A fumaça do cigarro barato de quem assistia mortos e vivos com o mesmo desdém.
+Gabo tentou ignorar a voz no ouvido por um momento, fechando os olhos contra a queimação da febre. O cheiro de ozônio e formol irritava suas narinas, e a exaustão acumulada pesava nas pálpebras como chumbo. A cada respiração forçada, a tontura da perda de sangue ameaçava puxá-lo para a inconsciência. Mas apagar ali significava a morte de Rangel e o fim da missão.
 
-A fumaça fantasma parecia revestir sua traqueia. Ele precisava tossir, precisava limpar a garganta daquela imundície ilusória. O cigarro era a falha. Era a rendição. Gabo não ia se render.
-
-Com um rosnado gutural, ele apertou o punho direito, esmagando a carne viva contra as ataduras improvisadas. A dor subiu pelo braço como uma descarga elétrica. As terminações nervosas gritaram, e o choque afastou a névoa mental. A dor era uma âncora afiada cravada no presente. A alucinação do cheiro sumiu, substituída pelo gosto metálico de seu próprio sangue na língua, enquanto seu corpo lutava contra o princípio de choque hipovolêmico.
+Ele apertou o punho direito, sentindo a dor das escoriações latejar através das ataduras improvisadas. A pontada aguda correu pelo antebraço como um choque elétrico, forçando seus neurônios a permanecerem em alerta. A dor crua era o único lembrete de que ele ainda estava no controle do próprio corpo, dissipando a névoa do cansaço enquanto ele lutava contra o princípio de choque hipovolêmico.
 
 — Ele não tá morto, Aria, — Gabo sibilou por entre os dentes para o comunicador, ofegante. — Enquanto ele respirar, ele é nosso problema.
 

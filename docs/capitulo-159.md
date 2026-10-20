@@ -26,7 +26,7 @@ O fantasma rastejou novamente pelas suas narinas. Não a fumaça rala de cinzas,
 
 *Não aqui. Agora não.*
 
-Gabo jogou o ombro contra a quina de um dos gigantescos racks de servidores inativos. O impacto sacudiu o exoesqueleto fatigado, mas o que ele buscava era o choque nos cotocos queimados de seus braços. A dor floresceu instantaneamente — aguda, elétrica, gloriosa. A alucinação retrocedeu, engolida pelo rugido do seu próprio sistema nervoso.
+Gabo jogou o ombro contra a quina de um dos gigantescos racks de servidores inativos. O impacto sacudiu o exoesqueleto fatigado, mas o que ele buscava era o choque no osso fraturado de seu braço direito. A dor floresceu instantaneamente — aguda, elétrica, gloriosa. A alucinação retrocedeu, engolida pelo rugido do seu próprio sistema nervoso.
 
 — Você vai acabar quebrando a própria espinha antes de chegarmos ao topo, — murmurou Valéria. Ela emergia do buraco logo atrás dele, o rosto cinzento de exaustão, os olhos focados na vastidão escura da sala de servidores enquanto o pendrive de Aria pulsava em seu pulso.
 
@@ -60,7 +60,7 @@ Elas se moviam em completo silêncio, a não ser pelo leve som de garras metáli
 
 Valéria estava digitando freneticamente no teclado holográfico do pulso enquanto Aria filtrava as frequências. — Estou tentando! O nível de criptografia biológica é insano, é como tentar hackear um fígado... mas... espere! A Aria achou uma sub-rotina de manutenção de emergência da Aeterna que ainda pulsa no hardware profundo do console central ali na frente. Ela não está contaminada pela rede de carne!
 
-— O que ela faz? — Gabo golpeou levemente a parede com o cotoco direito. *Foco. Sem fumaça. Só ferrugem e sangue.*
+— O que ela faz? — Gabo pressionou a quina da parede com o braço direito fraturado, sentindo o osso protestar. *Foco. Sem fumaça. Só ferrugem e sangue.*
 
 — Se eu conectar o pendrive da Aria direto no barramento daquele terminal central... nós duas podemos engatilhar uma purga de íons no corredor inteiro! Vai fritar a rede de carne e dar um choque maciço no sistema nervoso das Esculturas. Mas preciso de dois minutos de acesso físico ininterrupto no painel!
 
@@ -68,7 +68,7 @@ As Esculturas aceleraram o passo. Não havia rosnados, não havia hesitação. A
 
 — Você e a Aria têm os seus dois minutos, — disse Gabo, encaixando a tira da escopeta serrada *Caronte* na dobra rígida do braço esquerdo e travando o cotovelo do exoesqueleto como suporte de tiro brutal, além de preparar as botas pesadas para o impacto corpo a corpo.
 
-Ele avançou, colocando-se deliberadamente no estreito corredor entre as abominações e o terminal onde Valéria corria para plugar o drive. Com as mãos cauterizadas, suas opções eram brutais e curtas. Ele era apenas o obstáculo mais teimoso da cidade.
+Ele avançou, colocando-se deliberadamente no estreito corredor entre as abominações e o terminal onde Valéria corria para plugar o drive. Com o braço direito quebrado e as mãos feridas sob as ataduras, suas opções eram brutais e curtas. Ele era apenas o obstáculo mais teimoso da cidade.
 
 — *Sua ação é ilógica, Detetive,* — Aria pontuou pelo comunicador na gola dele enquanto Valéria espetava o pendrive de titânio no console central às costas de Gabo e ligava o emissor direcional do deck para dar suporte. — *Sua capacidade de recarga e manuseio fino é nula. Suas chances de sobrevivência isoladas na vanguarda caem para três por cento.*
 

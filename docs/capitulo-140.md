@@ -53,7 +53,7 @@ O ar estava irrespirável agora. As bordas de sua visão escureciam. O Taxidermi
 
 — Um... Dois... TRÊS!
 
-Eles puxaram juntos o vergalhão, enquanto o pendrive de Aria forçava os últimos milímetros do trinco elétrico. O vergalhão envergou. Os músculos de Gabo gritaram, tendões estalando. O cheiro de sua própria pele queimando em contato com o metal quente invadiu seu nariz e apagou de uma vez a fumaça fantasma que não existia.
+Eles puxaram juntos o vergalhão, enquanto o pendrive de Aria forçava os últimos milímetros do trinco elétrico. O vergalhão envergou. Os músculos de Gabo gritaram, tendões estalando sob a tensão. O cheiro de metal superaquecido e ozônio invadiu suas narinas, impulsionando a adrenalina ao limite.
 
 *CRACK.*
 
@@ -93,4 +93,4 @@ Ele olhou para a escuridão que se estendia à frente. Túneis ainda mais antigo
 
 — Negativo — corrigiu a voz sintética de Aria pelo comunicador, o LED azul-gelo pulsando frio na escuridão. — A única saída é subir. E agora temos a assinatura da rede dele.
 
-Gabo assentiu. A dor nas mãos era uma âncora. A fumaça fantasma estava morta, e o fogo real da subida mal havia começado.
+Gabo assentiu. A dor nas mãos era uma âncora de pura realidade, e o fogo real da subida mal havia começado.

@@ -6,7 +6,7 @@ image: /capitulo_168.jpg
 - **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
 - **Localização:** Necrópole (Subnível 2.0 - O Arquivo Executivo da Aeterna Corp, Setor Alfa-Sete)
 - **Personagens Presentes:** Gabo, Valéria
-- **Resumo:** Com o sacrifício de Aria, Gabo e Valéria caminham pela vastidão silenciosa do Arquivo Executivo em direção à anomalia térmica. A ausência da lógica fria da IA amplifica o horror existencial da jornada. Gabo sofre com alucinações sufocantes de fumaça, ancorando sua sanidade na dor excruciante de seus cotocos em carne viva contra o metal frio. Valéria, desolada e ferida, tenta encontrar propósito. Ao chegarem à fonte do calor, descobrem que não se trata apenas de um terminal corporativo, mas de um resquício visceral do legado de Dante.
+- **Resumo:** Com o sacrifício de Aria, Gabo e Valéria caminham pela vastidão silenciosa do Arquivo Executivo em direção à anomalia térmica. A ausência da lógica fria da IA amplifica o horror existencial da jornada. Gabo sofre com alucinações sufocantes de fumaça, ancorando sua sanidade na dor excruciante de seu braço fraturado contra o metal frio. Valéria, desolada e ferida, tenta encontrar propósito. Ao chegarem à fonte do calor, descobrem que não se trata apenas de um terminal corporativo, mas de um resquício visceral do legado de Dante.
 
 ## Narrativa
 
@@ -42,9 +42,9 @@ Gabo sentiu a fumaça invisível rastejar para dentro da traqueia. A sala tranca
 
 *Maldito seja.*
 
-Gabo grunhiu, os dentes rangendo até a gengiva sangrar, e atirou o ombro direito e o cotoco calcinado do braço contra a prateleira metálica fosca à sua direita.
+Gabo grunhiu, os dentes rangendo até a gengiva sangrar, e atirou o ombro direito e o braço fraturado contra a prateleira metálica fosca à sua direita.
 
-A aresta fria do aço negro esmagou o tecido em carne viva por baixo da crosta de carbono. O osso latejou sob o choque cinético.
+A aresta fria do aço negro esmagou o braço imobilizado sob as ataduras. O osso quebrado latejou violentamente sob o choque cinético.
 
 A dor explodiu — uma sinfonia branca e excruciante de pura agonia elétrica que fuzilou seu córtex pré-frontal. O clarão incandescente estilhaçou a alucinação de fumaça em milissegundos. O cheiro do cigarro evaporou, pulverizado pela força brutal da realidade traumática física. O ar limpo e congelante voltou a entrar em seus pulmões em golfadas desesperadas e trêmulas. O gosto de cobre do próprio lábio cortado o ancorava ao chão de linóleo.
 
@@ -54,7 +54,7 @@ Valéria parou, olhando de soslaio para o detetive ofegante encostado na estante
 
 — A anomalia térmica... — Valéria quebrou o silêncio, apontando com um dedo trêmulo para o final do cânion escuro. — Está bem à frente. A radiação não está no infravermelho de rede. É pura dissipação de calor de um núcleo físico.
 
-Gabo descolou-se da estante com um gemido, ignorando a pulsação frenética em seus braços mutilados. A clareza devolvida pela dor aguda o impulsionou.
+Gabo descolou-se da estante com um gemido, ignorando a pulsação frenética em seu braço direito quebrado. A clareza devolvida pela dor aguda o impulsionou.
 
 — Vamo lá. O Taxidermista não blindou o cofre com doze toneladas de aço de brincadeira — Gabo rosnou, recomeçando a marcha mancapando pesadamente. — Essa merda deve ser o diário íntimo do velho.
 

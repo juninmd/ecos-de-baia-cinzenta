@@ -7,138 +7,78 @@ Personagens Presentes: Gabo, Valéria
 
 # Capítulo 178: O Som do Subterrâneo
 
-A tempestade ácida não dava trégua.
+A tempestade ácida não dava trégua na superfície.
 
-O céu do Distrito 4 parecia ferida aberta, vertendo um choro químico que corroía até a esperança mais parca. Cada gota que atingia as juntas expostas da minha prótese sibilava — literalmente sibilava, com aquele chiado curto de cuspe em chapa quente — e deixava um ponto de oxidação que eu ia ter que lixar depois com a única mão que ainda é minha.
+O céu do Distrito 4 parecia uma ferida aberta, vertendo um choro químico que corroía até a esperança mais parca. Cada gota que atingia as juntas expostas da minha armação sibilava — literalmente sibilava, com aquele chiado curto de cuspe em chapa quente — e deixava um ponto de oxidação sobre o aço que sustentava meu braço ferido.
 
-A cidade, aquela puta insaciável, nunca deixa a gente esquecer quem manda.
+O abrigo que encontramos foi uma bênção profana: uma estação de metrô abandonada, engolida pelo esquecimento antes mesmo do grande dilúvio corporativo.
 
-O abrigo que a gente achou foi uma bênção profana: uma estação de metrô abandonada, engolida pelo esquecimento antes mesmo do primeiro colapso.
+A escadaria estava escorregadia de lodo e musgo negro. Desci de lado, com o ombro metálico raspando na parede de azulejos estalados, contando os degraus em voz baixa, porque perder o passo com a perna avariada e vinte quilos de ferro assimétrico era uma conta que não tinha troco.
 
-A escadaria estava escorregadia de lodo. Desci de lado, com o ombro na parede, contando os degraus em voz baixa, porque perder o passo com essa perna é uma conta que não tem troco.
+Lá embaixo, o rugido da tempestade sumiu. Sobrou apenas a acústica cavernosa dos túneis e o gotejar metódico do teto rachado. Um pingo a cada dois segundos e meio, sempre no mesmo lugar, numa poça que já tinha aberto uma cratera de dez centímetros no piso de granilite.
 
-Lá embaixo, o som da chuva sumiu e sobrou o gotejar do teto rachado.
+Valéria jogou o cyberdeck sobre um banco de madeira podre e desabou ao lado, soltando um suspiro longo que pareceu esvaziar os pulmões inteiros.
 
-Um pingo a cada dois segundos e meio, sempre no mesmo lugar, numa poça que já tinha aberto uma cratera de dez centímetros no piso de granilite.
+A água escorria pelas pontas desfiadas do seu corte bob assimétrico, fazendo os fios de LED holográficos azuis piscarem num ritmo espasmódico. Ela esfregou as têmporas com os nós dos dedos, soltando um gemido abafado de frustração.
 
----
+— Meu cérebro parece uma placa-mãe fritando em azeite velho — ela murmurou, a voz rouca pelo frio, mas carregada daquela irritação elétrica que sempre foi a marca registrada dela. — O remendo do Vasco deixou um loop de diagnóstico rodando em segundo plano. Toda vez que eu tento acessar o mapa das linhas de metrô, o sistema me joga um pop-up de erro dizendo que a rede municipal não responde há quarenta e dois mil dias.
 
-— Parâmetros ambientais estabilizados. Risco de corrosão reduzido a doze por cento.
+— Pelo menos o abrigo é seco — eu disse, deixando meu corpo escorregar pela pilastra de concreto até sentar no chão frio.
 
-A voz da Valéria ecoou no túnel.
+— Seco? — Valéria apontou para a parede oposta, onde um veio espesso de umidade preta escorria direto para os trilhos mortos. — Isso aqui tem a umidade relativa de um necrotério subaquático, Gabo. O ar tá tão pesado de mofo que dá pra mastigar. Se o ar comprimido do meu deck puxar essa fuligem pra dentro dos ventiladores, o chip de vídeo derrete antes da meia-noite.
 
-Plana. Assustadoramente lógica. Sem aquele meio tom de deboche que ela punha em todas as frases, inclusive nas sérias, inclusive nas últimas.
+Apoiei a armação de ferro no joelho esquerdo. O metal não lapidado rangeu. O impacto contra o saqueador no beco deixara marcas: uma lasca de tinta cinzenta arrancada e o cheiro enjoativo de fluido térmico vazando pela gaxeta mal vedada.
 
-O Modo de Segurança é um caixão mental.
+Cravei as garras de ferro da armação na borda do piso, testando a folga nos pinos de fixação do ombro. *Clack. Bzzzt.* O pistão estalou fora de fase, mandando uma pontada de choque elétrico pelo meu pescoço até a mandíbula.
 
-Ela estava ali, andando, funcionando, varrendo o perímetro com uma eficiência que a Val de verdade nunca teve — a Val de verdade se distraía, xingava equipamento, parava no meio de uma operação para me contar uma coisa idiota que ela tinha lido.
+— Para com isso, Moretti! — a voz de Valéria cortou o breu, alta e ríspida.
 
-Essa não parava para nada.
+Ergui os olhos. Ela estava em pé diante de mim, as mãos na cintura, os olhos prateados faiscando sob a luz fraca dos próprios LEDs da franja.
 
-Uma casca brilhante de aço se movendo com a precisão de um algoritmo de otimização, e nenhuma fagulha da parceira sarcástica que caiu trinta metros em cima de um exoesqueleto sem gritar na descida.
+— Tô testando a pressão do retorno — respondi, entre dentes.
 
----
+— Você tá se martirizando feito um idiota, isso sim — ela deu um passo na minha direção e chutou de leve a ponta da minha bota com o bico de ferro do seu calçado. — Acha que eu não vejo você forçando a porcaria da junta só pra sentir o tranco nos nervos? Você tá usando essa armação de trator como um chicote particular. Acha que se não estiver sofrendo o tempo todo, tá traindo a Bia ou esquecendo o Dante?
 
-Encostei nos azulejos quebrados de uma pilastra e deixei o corpo escorregar até o chão.
+O silêncio do túnel pareceu cair sobre nós como uma laje de chumbo. O gotejar do teto continuava: *ping... ping... ping.*
 
-O ar ali embaixo era pesado e parado.
+— Não é sobre o Dante, Val — minha voz saiu mais baixa do que eu pretendia.
 
-E aí ele veio. O cheiro.
+— É claro que é sobre ele. É sempre sobre ele, ou sobre o arquivo que ele deixou, ou sobre a cidade que ele tentou consertar arrancando o coração de todo mundo — ela se agachou na minha frente, ignorando a poça de lodo que manchava o joelho da calça. A expressão dela perdeu a agressividade, revelando a exaustão profunda sob a maquiagem manchada de chuva. — O Vasco colocou esse troço no seu ombro pra você não morrer de choque hemorrágico. Não foi pra você ficar procurando motivo pra quebrar a própria clavícula. Se você desmoronar, quem é que vai atirar com a *Caronte* quando o próximo monstro aparecer? Eu? Minha mão mal segura o soldador hoje.
 
-Não era só o mofo. Era o fantasma do alcatrão e do papel queimado — aquele cheiro específico de cigarro de cravo apagado no fundo de uma xícara.
+Olhei para os dedos finos dela. As pontas estavam avermelhadas de frio e os implantes de pulso tremiam discretamente contra a manga da jaqueta.
 
-A sombra do meu pai rastejou pelos trilhos mortos e encheu meus pulmões de uma fumaça que não existe.
+— Como você tá aguentando o feedback? — perguntei.
 
-A respiração falhou. O coração acelerou numa cadência de pânico cego, e a garganta fechou como se tivesse alguma coisa dentro.
+Valéria soltou uma risada fraca, sem humor, sentando-se de pernas cruzadas no granilite rachado diante de mim.
 
-Eu não fumo. Eu nunca fumei. Eu odeio cigarro desde os nove anos.
+— Mal pra caramba. O firmware fica tentando silenciar minhas respostas emocionais pra poupar 3% de bateria. Fica dizendo que empatia é 'gasto não otimizado de recursos'. Toda vez que você quase caiu na descida da escada, o HUD me jogou uma mensagem sugerindo que eu te deixasse pra trás pra aumentar minha velocidade de marcha.
 
-Mas o maldito fantasma do Dante insiste em me transformar no cinzeiro da memória dele.
+— E o que você respondeu pro sistema?
 
----
+— Mandei ele tomar naquele lugar onde o sinal da rede nunca chega — ela deu um sorriso amargo, inclinando a cabeça para trás e encostando na mesma pilastra que eu. — Ninguém programa o que eu sinto, Moretti. Nem a Aeterna, nem o Vasco, nem esse código barato de segurança.
 
-Cerrei a mão direita com força.
-
-O metal não lapidado rangeu.
-
-O Vasco não é cirurgião de precisão. O Vasco é um carniceiro brilhante, e é a única pessoa em duzentos quilômetros que sabe parafusar um conector neural em nervo vivo sem matar o paciente.
-
-Essa prótese é industrial. De carga pesada. Cinza fosca, com cicatriz de solda em toda a carcaça, cabo aparente amarrado com abraçadeira e conector do tamanho de prego cravado direto no que sobrou do meu plexo.
-
-Ela é pesada demais. Ela é mal calibrada. Ela dói a cada acionamento.
-
-E eu me recuso a consertar isso.
-
-*Clack. Bzzzt.*
-
-Os pistões ativaram fora de fase, como sempre, e a onda de choque subiu do ombro pela espinha até a base do crânio.
-
-A agonia cortou o ar parado feito navalha enferrujada.
-
-Engasguei.
-
-E o cheiro sumiu.
-
-O sofrimento era real. A fumaça não. A dor é a minha bússola agora, e ela aponta sempre para o presente, que é o único lugar onde eu ainda sirvo para alguma coisa.
-
----
-
-Valéria virou a cabeça com a velocidade de um obturador de câmera.
-
-— Anomalia biométrica detectada. Seus sinais vitais indicam estresse severo, Gabo. Sugiro administração de estabilizadores químicos, caso disponíveis.
-
-— Estou bem, Val — murmurei entre dentes, massageando o metal retorcido do braço.
-
-— Inconsistência.
-
-— Como é?
-
-— Não existe interface de calibração manual nesse hardware. — Ela deu um passo na minha direção. — Ações agressivas sobre o acoplamento podem resultar em dano permanente aos tecidos adjacentes. Recomendo cessar.
-
-Olhei para os olhos apagados dela.
-
-Não havia julgamento ali. Não havia preocupação. Era um relatório de danos lido em voz alta por um sistema que aprendeu a formatar a frase de um jeito que parece cuidado e não é.
-
-E é isso que dói mais do que a prótese: eu sei exatamente o que ela teria dito.
-
-Ela teria dito *para de fazer isso, seu idiota*. Teria dito *senta que eu vou dar um jeito nesse braço*. Teria dito alguma coisa sobre café.
-
-A solidão daquele instante pesava mais que os onze quilos de metal parafusados no meu ombro.
-
----
+Ficamos em silêncio por longos minutos. A escuridão ao redor parecia menos hostil com a presença viva dela ali, respirando o mesmo ar úmido, desafiando a decadência da cidade com pura petulância humana.
 
 — Val.
 
-— Escutando.
+— Fala.
 
-— Você lembra do café?
+— Você lembra daquele café horroroso que o Rangel comprava perto da Doca 3?
 
-Uma pausa. Trezentos milissegundos, e nesses trezentos milissegundos eu tive esperança, e eu já devia ter aprendido.
+Valéria virou o rosto para mim devagar. Uma sobrancelha erguida, os olhos cibernéticos brilhando no escuro.
 
-— Consulta ambígua. Especifique: bebida, item de inventário ou registro de evento.
+— Aquele xarope requentado que tinha gosto de asfalto moído e ferrugem de caldeira?
 
-Fechei os olhos.
+— Aquele mesmo.
 
-— Deixa.
+Ela soltou uma risada genuína, curta e rouca, que ecoou pelos trilhos mortos como o primeiro som realmente limpo que ouvíamos em semanas.
 
-— Solicitação de esclarecimento cancelada. Retomando varredura de perímetro.
+— Era a pior porcaria já engarrafada na história da costa leste, Gabo. E o pior é que eu daria tudo que sobrou no meu deck por uma caneca fumegante daquele veneno agora.
 
-Ela virou as costas e foi inspecionar as catracas destruídas, uma por uma, na mesma ordem em que tinha inspecionado quarenta minutos antes, porque o ciclo de varredura dela é fixo e ela não tem nada que a faça mudar de ideia no meio.
+— Eu também — murmurei.
 
----
+— Então para de forçar essa armação de lata e descansa vinte minutos — ela fechou os olhos, puxando o zíper da jaqueta até o queixo. — A gente ainda tem quatro quilômetros de túnel escuro até o Setor 6. E se você cair no caminho, eu vou te arrastar pelo sobretudo só pra ter o prazer de reclamar o caminho inteiro.
 
-Fiquei sentado ali um tempo, com a cabeça encostada no azulejo frio.
+— Combinado, Val.
 
-E deixei a dor no braço vibrar de leve, no ritmo do pingo do teto, para manter a sanidade ancorada.
-
-Existe uma versão dessa história em que eu conserto a prótese, tomo o remédio, durmo oito horas e paro de bater o coto em quina de mesa. Essa versão exige uma cidade com hospital, um médico com anestésico e uma parceira que me segure pelo pulso.
-
-Eu não tenho nenhuma das três.
-
-O que eu tenho é uma lista de nomes num caderno molhado, um braço que grita quando eu preciso que ele grite, e um túnel para atravessar.
-
-E, na linha seguinte da lista, num pendente que eu escrevi com a mão tremendo, ainda está o nome dela.
-
-O silêncio reinou no subterrâneo.
-
-Só eu, as cicatrizes de cobre, a ferrugem da cidade morta — e uma mulher de aço a doze metros de distância, contando catracas quebradas pela terceira vez, sem lembrar que já contou.
+Apoiei a cabeça no concreto úmido. O pingo d'água continuava batendo lá na frente, marcando o tempo de um mundo em ruínas. Mas, pela primeira vez desde que emergimos da Necrópole, o silêncio da noite não parecia uma condenação à morte. Parecia apenas uma pausa necessária antes da próxima briga.

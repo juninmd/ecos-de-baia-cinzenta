@@ -7,44 +7,52 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 # Capítulo 202: O Corredor Silencioso
 
-A escotilha se fechou com um estrondo oco, selando o abismo e o zumbido predatório do enxame lá embaixo. O corredor à nossa frente era radicalmente diferente das catacumbas pútridas que havíamos deixado para trás. Aqui, a morte não era orgânica, era arquitetônica. Paredes de concreto liso estendiam-se em uma perspectiva monótona, interrompidas apenas por pesadas portas estanques que pareciam seladas há décadas. O ar cheirava a ozônio estagnado e à poeira fina que se acumula onde nada respira.
+A escotilha de ferro fundido bateu com um estampido seco, ecoando pelo túnel como a tampa de um sarcófago se fechando. O barulho das mandíbulas mecânicas e dos guinchos predatórios do enxame lá embaixo foi abafado instantaneamente, reduzido a uma vibração oca que subia pelas solas dos meus coturnos. O corredor que se abria à nossa frente era uma ruptura brutal com a podridão orgânica das catacumbas: não havia raízes azuis, nem lodo escorrendo pelas paredes. Apenas concreto cinzento, maciço e assustadoramente estéril, estendendo-se em linha reta sob uma penumbra morta.
 
-Caí de costas contra a parede fria. Meu ombro direito latejava com a fúria de uma fornalha, os músculos rasgados clamando por cauterização, um alívio que eu havia negado com agressividade. Elias desabou no chão ao meu lado, os joelhos junto ao peito, tremendo violentamente. Valéria permaneceu de pé, iluminando o caminho com o facho azul de seu feixe ocular, inexpressiva.
+Caí de costas contra a alvenaria gelada. Meus joelhos cederam, e escorreguei até o chão com o barulho áspero do meu casaco de sarja raspando na parede. Meu ombro direito parecia ter sido esticado em um potro de tortura medieval; o peso de Elias na queda quase arrancara os parafusos que Vasco fixara na minha clavícula no Capítulo 175. O sangue quente escorria da minha palma esquerda lacerada pelo vergalhão da escada, pingando rítmico no piso empoeirado.
 
-— Status ambiental: estéril, — declarou Valéria. — Ausência de esporos do Jardim detectada. Probabilidade de perseguição imediata inferior a três por cento, condicionada à integridade da escotilha primária.
+Elias desabou a dois passos de mim, encolhendo os joelhos contra o peito. Seus dentes batiam com tanta força que o som parecia um relé defeituoso.
 
-— Três por cento, — resmunguei, fechando os olhos. — Para mim, isso é a definição de um bom dia.
+— A gente... a gente quase virou comida de engrenagem... — balbuciou ele, puxando o ar em golfadas asmáticas. — Eu vi as garras daquela coisa. Aquilo não era um drone. Tinha tendões... tendões humanos enrolados nos motores.
 
-Elias não riu. Ele mal respirava, preso no choque residual de quase ter sido eviscerado. Eu entendi. Ele era um sobrevivente, mas não era construído para isso. Ninguém era, exceto talvez Valéria, e ela já não era mais do que a soma fria de seus algoritmos operando no Modo de Segurança.
+— Bem-vindo ao cardápio da Baía Cinzenta, gênio, — retrucou Valéria, ajoelhando-se ao meu lado sem cerimônia. Os reflexos azuis da franja holográfica dançavam em sua testa suada, iluminando os olhos prateados que avaliavam o meu braço arruinado. — Deixa eu ver essa monstruosidade, Moretti. Se você estourou a fiação do servomotor, a gente tá ferrado.
 
-O silêncio do corredor começou a pesar. Sem o barulho de água pingando, garras raspando metal, ou mesmo o choro contido de Elias, minha mente encontrou espaço para preencher o vazio. Foi sorrateiro. Primeiro, uma leve alteração na densidade do ar. Depois, a mudança térmica irreal que ergueu os cabelos da nuca.
+— O pistão tá inteiro, — resmunguei, cerrando os dentes enquanto ela puxava a manga rasgada da minha jaqueta. — Só puxou o tecido mole na emenda da chapa.
 
-E então, o cheiro.
+— "Só puxou", diz o homem que tá vazando sangue igual cano furado de hidrante, — ela rebateu com um estalo de língua irritado, tirando uma lata amassada de selante cirúrgico e um rolo de atadura de fibra sintética do bolso tático. — Você tem a sutileza de um trator desgovernado. Se quebrar esse braço de ferro agora, quem vai abrir as portas estanques do Setor Seis? O Elias? Ele mal consegue segurar a própria bexiga.
 
-Forte. Adocicado e espesso. Tabaco negro, queimando lentamente. Charuto. A fumaça invisível rastejou pelas minhas narinas, enrolando-se na minha traqueia como arame farpado. Abri os olhos e o vi. Não com a visão, mas com aquela percepção aterrorizante do pesadelo. Meu pai, sentado no fim do corredor de concreto, exalando anéis cinzentos que sufocavam a luz.
+— Eu ouvi isso... — murmurou Elias, a voz sumindo na escuridão.
 
-O aperto no meu peito foi instantâneo. Meus pulmões travaram. A asfixia mental desceu como uma bigorna. A névoa cinzenta se materializou na minha visão periférica, densa, tóxica. *Não, agora não, de novo não.*
+— Era pra ouvir mesmo, — Valéria disparou, sem tirar os olhos da minha ferida. Ela borrifou o selante na carne viva. O composto químico queimou como ácido de bateria, e precisei fincar as unhas da mão de sucata no chão para não soltar um grito que alertasse qualquer coisa viva no setor. — Aguenta firme, detetive. Pelo menos não infecciona com o lodo do poço.
 
-Minha respiração saiu em pequenos silvos, como um radiador furado. Elias olhou para cima, os olhos arregalados de medo renovado. Valéria girou a cabeça, registrando meus espasmos.
+O ar naquele corredor era seco, com um cheiro pungente de concreto antigo, ferrugem seca e ozônio aprisionado há décadas. O silêncio que se instalou era pesado demais, quase sólido. Depois de horas sob o bombardeio contínuo de ruídos de esgoto, água ácida e gritos biomecânicos, a ausência de som não trazia paz — trazia uma paranoia corrosiva que se infiltrava pelas têmporas.
 
-— Sinal de alerta médico, — disse Valéria, o biossensor piscando. — Taquicardia severa. Saturação de oxigênio em queda. Nível de estresse indicativo de colapso respiratório histérico. Aplicando protocolo de supressão neurológica...?
+Fechei os olhos por um segundo para regular o compasso da respiração. Minha garganta arranhava de sede, o gosto amargo de bile e cobre ainda impregnado na boca. A lembrança do gabinete do meu pai na antiga sede da polícia quase ameaçou cruzar o limiar dos meus pensamentos, mas esmaguei a fraqueza antes que ganhasse forma: o passado estava enterrado sob o Dilúvio e sob o concreto; o que importava agora era a munição que restava no tambor e a rota de fuga sob a terra.
 
-— Não! — grasnei, lutando para formar a palavra enquanto a fumaça invadia a minha garganta, sufocando-me.
+— Esse lugar não parece abandonado como o resto, — comentei, limpando o sangue seco dos lábios com a manga boa do casaco. — Não tem infiltração. Nem musgo.
 
-Não precisava de supressão. Precisava de ancoragem. Precisava de sangue e osso. Ergui o braço direito — a prótese industrial descalibrada, uma massa pesada de cromo barato e engrenagens expostas. Movi os estabilizadores para o nível máximo, sentindo o servo motor gemer.
+Elias ergueu a cabeça devagar, correndo a mão trêmula pelas marcas profundas cavadas no concreto da parede oposta. Eram sulcos longos, paralelos, arrancados com força industrial.
 
-Olhei para a parede de concreto ao meu lado e atirei o cotovelo de metal contra ela com toda a força brutal que a biomecânica me permitia.
+— É a Linha Vermelha de Manutenção Secundária, — disse ele, a voz recuperando aos poucos a articulação técnica. — Foi selada nos motins de trinta e oito, antes da Aeterna construir a cobertura blindada do Distrito de Prata. Eles usavam esse corredor pra isolar as oficinas pesadas do Setor Seis se os operários tentassem invadir os centros de controle.
 
-O estrondo ressoou como um tiro de canhão no espaço estreito. O choque cinético ricocheteou através da liga metálica, subindo pelo braço, atravessando os nervos já mastigados do ombro e explodindo na base do meu crânio. Uma dor branca, quente e absoluta.
+— E aquelas marcas ali? — apontei para os sulcos de meio metro de profundidade no concreto armado. — Isso não foi feito por picareta de mineiro.
 
-A dor não era um aviso do corpo, era um portal. A agonia dilacerante varreu a névoa, dissipou a fumaça ilusória e incinerou o cheiro enjoativo do charuto de Dante, substituindo-o pelo gosto férreo do sangue na minha língua. Ofeguei rudemente, o ar viciado dos corredores enchendo meus pulmões ressecados.
+Valéria ergueu o punho, ativando o feixe óptico do cyberdeck para varrer a extensão do corredor. As ranhuras no piso mostravam trilhos embutidos, deformados e cobertos de fuligem preta.
 
-— Danos estruturais no equipamento e tecidos anexos, — analisou Valéria de modo clínico. — Redução da capacidade motora do braço direito em quarenta e dois por cento. Recomendo interromper ações autodestrutivas.
+— Máquinas de carga pesada, — analisou ela, o cenho franzido com uma seriedade rara que apagava o sorriso irônico dos lábios. — Tratores de esteira industrial ou empilhadeiras automáticas modificadas. E seja lá o que passou por aqui, não tava fazendo manobra de estacionamento. Tava fugindo ou caçando.
 
-— Ação necessária, — respondi entre dentes, piscando para afastar as lágrimas involuntárias que a dor extraíra. — A dor mantém o fantasma longe. Ele odeia sentir dor.
+— O Armazém Logístico fica logo depois daquela curva à esquerda, — disse Elias, apontando para onde o corredor sumia na escuridão. — É onde eles estocavam maquinário de perfuração geológica antes do isolamento. Se o caminho até a Arca Zero ainda existe, temos que atravessar o pátio central daquele armazém.
 
-Elias engoliu em seco, recuando alguns centímetros de mim pelo chão. Eu parecia um louco de rua. Talvez eu fosse.
+Levantei-me devagar, apoiando as costas na parede fria até que as travas da órtese da perna esquerda encontrassem o encaixe. O metal gemeu, mas sustentou meu peso. Valéria terminou de dar o nó na atadura do meu braço, puxando a fita com uma força deliberada que me fez respirar fundo.
 
-— Levante-se, Elias, — ordenei, forçando meu corpo arruinado a ficar de pé usando a parede como muleta. — O silêncio deste corredor é perigoso. Significa que eles selaram este nível muito antes do Jardim tomar conta. O que quer que esteja aqui, a Aeterna não queria que saísse, ou não queria que o resto entrasse. Valéria, na frente. Escaneie por radiação ou toxinas ativas.
+— Prontinho, herói da Baía, — murmurou ela, guardando o kit com um meio-sorriso amargo. — Tenta não se jogar de outra escada nos próximos dez minutos. Minha cota de ataduras tá acabando, e eu me recuso a carregar um detetive de cem quilos nas costas.
 
-Começamos a caminhar. Cada passo ecoava alto demais. A perna mecânica queimada raspava e estalava, um metrónomo sombrio para o nosso desespero. Não havia lodo biológico aqui, mas o concreto estava repleto de cicatrizes profundas, arranhões simétricos que iam do chão ao teto. O silêncio do corredor não era o de um sepulcro pacífico; era o silêncio de uma respiração presa, a tensão retesada antes do bote.
+— Se eu cair, você pega a *Caronte* e segue em frente, — respondi, destravando a escopeta serrada e checando os cartuchos na câmara com um clique limpo e seco.
+
+— Cala a boca, Moretti, — retrucou ela, virando o cano da pistola na direção da penumbra. — Eu já perdi a Aria naquele terminal maldito. Não vou deixar o último cabeça-dura da cidade morrer por incompetência nos corredores de esgoto.
+
+— Ninguém vai morrer hoje se mantivermos os ouvidos atentos, — eu disse, fazendo um sinal para Elias ficar no meio. — Valéria, cobre o flanco direito com o feixe óptico. Elias, se ouvir qualquer barulho de engrenagem raspando no chão, você deita no concreto e não grita. Entendeu?
+
+Elias assentiu em silêncio, engolindo em seco.
+
+Começamos a avançar pelo corredor monótono. O eco dos nossos passos era abafado pela camada espessa de poeira cinzenta que forrava o piso. As paredes de concreto liso começaram a dar lugar a vigas de sustentação curvadas pela pressão do solo centenas de metros acima. O silêncio estéril era apenas uma ilusão: no fundo daquele túnel, o aroma de ferro quente e graxa velha começava a denunciar que o Armazém Logístico não estava tão adormecido quanto os registros corporativos prometiam.

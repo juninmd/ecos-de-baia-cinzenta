@@ -7,186 +7,78 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 # Capítulo 214: O Coração Estéril
 
-Eu me levantei apoiando o peso todo do corpo na escopeta.
+Eu me levantei apoiando o peso do corpo na coronha gasta da *Caronte*. Cada passo além das imensas portas blindadas de titânio enviava farpas de vidro através do meu sistema nervoso; não era uma queimação comum, era aquela fisgada fria e persistente dos nervos traumatizados se acomodando na carne machucada. Ainda assim, caminhei os primeiros dez metros de queixo erguido e passo firme, porque Elias estava logo atrás de mim e um garoto assustado precisa ver alguém de pé.
 
-Cada passo depois daquelas portas de titânio mandava caco de vidro pelo meu sistema nervoso, e é essa a comparação exata: não é queimação, não é pontada. É caco de vidro circulando, se instalando em lugares aleatórios e ficando lá.
+O Hub Principal do Setor Seis não se parecia com nenhuma das ruínas que havíamos atravessado nas últimas horas.
 
-E, mesmo assim, eu andei os primeiros doze metros de queixo erguido, porque o Elias estava atrás de mim.
+Não havia a carne botânica do Jardim rastejando pelas paredes. Não havia a poeira alaranjada da Praga de Ferro devorando as juntas mecânicas. Havia uma esterilidade cirúrgica, quase assustadora.
 
----
+Gabinetes de servidores antigos, alinhados em fileiras regulares como monólitos monolíticos em uma catedral de silício esquecida, banhavam o saguão com um brilho esmeralda suave emanado dos racks em repouso. O piso era composto por grades metálicas imaculadas, sem um grão de fuligem.
 
-O Hub Principal do Setor 6 não se parecia com nada que a gente tinha atravessado.
+E o ar... o ar era aquecido e filtrado.
 
-Não havia necrose industrial. Não havia ferrugem. Não havia Jardim.
+Dava para sentir na primeira inspiração profunda: aquela ausência total de cheiro, uma pureza artificial e estéril que só existia onde corporações com bolsos fundos pagavam fortunas para mantê-la. Os termômetros embutidos nas colunas marcavam vinte e um graus Celsius.
 
-Havia esterilidade cirúrgica.
+Vinte e um graus positivos, a menos de quarenta metros de um túnel que congelava a carne a quatro graus negativos.
 
-Gabinetes de servidor antigos dispostos em fileiras regulares, como monólitos numa catedral de tecnologia esquecida, banhados pela luz verde suave dos racks em standby.
+Elias deu três passos hesitantes pelo piso polido, piscando os olhos sob a luz verde e soltando o ar em um suspiro trêmulo de puro alívio.
 
-O piso era grade metálica imaculada.
+— A gente... a gente tá seguro aqui dentro? — sussurrou o rapaz, passando as mãos no rosto para conferir se o calor era real. — Isso aqui parece intocado, Moretti. Parece que ninguém pisa nesse chão faz cinquenta anos.
 
-O ar era filtrado — dava para sentir na primeira inspiração, aquela ausência de gosto que só existe onde alguém pagou por ela — e estava a vinte e um graus.
+— Ninguém pisa faz cinquenta anos, — confirmei, limpando a fuligem da testa com as costas da luva.
 
-Vinte e um graus.
+— Então por que o aquecimento ainda tá ligado?
 
-A quarenta metros de um corredor a quatro negativos.
+O garoto, sem perceber, acabara de fazer a única pergunta que realmente importava naquele santuário de metal.
 
-Elias pisou devagar, embasbacado, com o frio terrível se dissipando na pele dele.
+Valéria não perdeu tempo com o espanto estético. Caminhou em passos rápidos e decididos até o console central de processamento — uma torre monumental de quatro metros de altura que se conectava diretamente ao teto abobadado. Os fios holográficos azuis de sua franja piscaram em alta frequência, refletindo-se nas superfícies cromadas dos gabinetes.
 
-— A gente... a gente tá seguro aqui? — Ele soltou o ar preso num suspiro trêmulo e longo. — Isso aqui parece intacto, Gabo. Parece que ninguém entra faz décadas.
+— Interface física arcaica, padrão serial da década de setenta, — murmurou ela, tirando um adaptador de pinos dourados da bolsa do cyberdeck e engatando na porta de diagnóstico com um clique limpo. — Deixa eu ver o que esse silêncio todo tá escondendo.
 
-— Ninguém entra faz décadas.
+Sentei-me no chão ao lado de uma coluna de dados, esticando a perna esquerda para que a órtese emperrada pudesse esfriar. O ombro direito latejava no compasso do meu coração; a tração na válvula externa no capítulo anterior quase arrebentara as pinos que Vasco instalara para conter a fratura no Capítulo 175. Meus músculos estavam sangrando sob as bandagens sujas, manchando a sarja do casaco, mas o calor limpo da sala ajudava a relaxar a musculatura retesada pelo frio de amônia. As cicatrizes do Dilúvio formigavam, um mapa sensorial de todas as vezes em que Baía Cinzenta tentara me matar.
 
-— Então por que tem aquecimento?
+— O que você tá achando aí dentro, Val? — perguntei, observando as linhas de código que desciam em cascatas luminosas pelas ópticas dos olhos prateados dela.
 
-E o garoto, sem saber, tinha acabado de fazer a única pergunta que importava naquela sala.
+Valéria soltou um assobio baixo, entrecortado por um riso seco e incrédulo.
 
----
+— Isso aqui é muito mais antigo do que a Aeterna Corp, Moretti. Muito mais.
 
-A Valéria ignorou os dois.
+— Quanto mais antigo?
 
-Foi em linha reta até a torre de dados central, que subia até o teto altíssimo, e chegou nela como uma deusa fria voltando ao próprio altar.
+— O log do sistema de controle ambiental foi iniciado em mil novecentos e vinte e dois. Quase trinta anos antes de erguerem os primeiros alicerces da Torre Aeterna no centro da cidade.
 
-Desdobrou o cabo neural da nuca pálida e o enfiou numa porta física arcaica com uma brutalidade funcional que me fez estremecer — porque um humano hesita antes de encostar em porta de dados desconhecida, e ela não hesitou —, e fechou os olhos.
+Elias aproximou-se, debruçando-se sobre o ombro dela para enxergar o monitor fosforescente.
 
-Eu caí sentado contra um painel metálico.
+— Vinte e dois? Foi o ano da fundação do Distrito de Prata e dos primeiros aterros do cais...
 
-Não escolhi sentar. As pernas encerraram o expediente.
+— Exatamente, garoto, — Valéria continuou, os dedos voando pelas teclas do console enquanto decodificava partições protegidas. — E olha o isolamento físico desse hub. A Praga de Ferro e o Jardim não chegaram aqui por um motivo muito simples: este nó foi **amputado** da rede central de propósito. Quatro linhas principais de fibra óptica e dutos de energia foram cortados a maçarico logo após o colapso inicial, e as pontas foram seladas com resina estrutural.
 
----
+— Alguém desceu até aqui no meio da carnificina só pra trancar esse lugar? — perguntei.
 
-Desabotoei a jaqueta e puxei o colete para o lado para inspecionar o estrago sob a luz pálida dos painéis.
+— Não só pra trancar, — ela disse, girando o tronco e me encarando com uma seriedade profunda nos olhos prateados, despida de qualquer ironia. — Pra preservar uma plataforma vazia.
 
-O sangue seco e o gelo tinham coagulado em torno dos ferimentos mais fundos, formando uma crosta escura que, pelo menos, estava segurando as bordas no lugar.
+— O que você quer dizer com "vazia"?
 
-O rombo muscular do ombro não parava de latejar depois da tração na válvula externa. Aquilo lá tinha exigido uns oitenta quilos de força num braço que aguenta trinta, e eu paguei na hora e continuo pagando.
+— Os servidores estão ligados, alimentados por baterias geotérmicas profundas, operando com noventa e nove por cento de capacidade ociosa. Não tem dados corporativos aqui, Moretti. Não tem listas de acionistas, plantas de armamentos ou registros contábeis. Este lugar não é um arquivo. É um **ninho**. Foi mantido aquecido, limpo e isolado por décadas, esperando receber uma consciência que nunca chegou a ser carregada.
 
-E aí veio o espasmo no estômago.
+O peso daquelas palavras reverberou no silêncio do salão. Lembrei do sacrifício de Aria no Capítulo 167, do código que fragmentamos para abrir caminho até os arquivos executivos, e da obsessão de Dante Moretti por uma imortalidade de silício. Alguém, muito antes do meu pai, já sonhava com deuses digitais nas entranhas desta terra alagada.
 
-O ar estéril me traiu.
+— E as rotas de saída? — indaguei, apontando com o queixo para o painel esquemático. — O mapa mostra pra onde esse complexo leva?
 
-Isso é o que ninguém entende: o gatilho não precisa de semelhança. Às vezes é a **ausência** de cheiro que abre a porta, porque o vazio é exatamente o formato do buraco.
+Valéria tocou no painel de comando, e um holograma tridimensional projetou-se no centro da sala em feixes de luz verde.
 
-Os pulmões pesaram como se estivessem sendo bombeados com piche.
+Não era um diagrama que subia para a superfície. Era uma espiral descendente, cortando camadas geológicas profundas até alcançar uma câmara blindada rotulada como *Arca Zero*.
 
-E o cheiro de fumo grosso, alcatrão e charuto se instalou nos cantos remotos daquele salão imaculado.
+— As rotas descem direto pros alicerces tectônicos, abaixo do lençol freático, — Valéria explicou, traçando a linha com o dedo indicador. — Tem um poço de manutenção geológica logo atrás daquele portão dos fundos. Uma descida vertical de quatrocentos metros até a câmara da Arca.
 
----
+— Quatrocentos metros no escuro... — Elias sussurrou, engolindo em seco enquanto encarava o abismo desenhado em luz verde. — As entranhas da rocha...
 
-Levantei a mão de carne — a única que ainda sente — e afundei os dedos direto na fenda ensanguentada do braço mutilado.
+— É lá que a verdade dessa cidade tá enterrada, Elias, — eu disse, levantando-me devagar e firmando a escopeta na mão boa. — Valéria, quanto tempo pra destravar o elevador de carga do poço?
 
-A onda de agonia obliterou tudo.
+— Quinze minutos pra bypassar o intertravamento analógico da Aeterna, — ela respondeu, puxando o cyberdeck e desconectando os cabos com um estalo profissional. Ela olhou para Elias com uma sobrancelha arqueada. — E você, garoto? Se quiser ficar aqui nessa sala quentinha com ar condicionado esperando a bateria acabar daqui a dez anos, a escolha é sua.
 
-Os dentes rangeram contra a minha própria língua e eu senti gosto de sangue vindo de dentro da boca, o que é um tipo de sangue diferente do outro.
+Elias olhou para os servidores imaculados, depois para as cicatrizes e as armas que carregávamos. Suas mãos pararam de tremer.
 
-A ferida se rasgou um pouco mais sob os meus dedos, e uma linha vermelha desceu e manchou a grade imaculada do piso da Aeterna, e é assim que eu deixo a minha assinatura nos lugares hoje em dia.
+— Eu não fiquei vivo até aqui pra morrer sozinho numa sala de computadores velhos, — o garoto afirmou, a voz soando com uma convicção que me fez respeitá-lo ainda mais. — Eu vou com vocês até o fundo dessa Arca.
 
-Mas a asfixia mental foi esganada até morrer pela realidade inegável do sofrimento agudo.
-
-Eu voltei, sugando o oxigênio filtrado do salão num sopro cortante.
-
-Não existe santuário que me salve de mim mesmo. Existe só o preço, e eu tenho pagado adiantado.
-
-O Elias viu tudo. Ele não desviou o olhar dessa vez, e isso foi pior.
-
-— Um dia você vai me explicar isso — ele disse, baixinho.
-
-— Vou.
-
-— Promete?
-
-— Prometo. — Limpei os dedos na calça imunda. — No dia em que eu tiver uma explicação que preste.
-
----
-
-— O banco de dados deste nó não sofre contato humano direto há sessenta anos.
-
-A voz da Valéria ressoou pelo salão. Os olhos dela continuavam fechados, mergulhada no silício, perfeitamente intocada pela guerra que tinha acontecido a seis metros dela.
-
-— Setenta e dois — repeti. — Isso é antes da Torre.
-
-— Correto. Este hub é anterior à Aeterna Corporation em três anos.
-
-Sentei mais reto, e doeu, e eu sentei mais reto assim mesmo.
-
-— Continua.
-
-— A integridade do isolamento não é acidente geográfico. — Ela falou devagar, e no Modo de Segurança devagar significa alta densidade de informação. — A Praga de Ferro e o Jardim não alcançaram esta sala porque o acesso a este hub foi **fisicamente amputado** da rede central imediatamente após o expurgo da Antiga Torre.
-
-— Amputado como?
-
-— Segmentos de conduíte de trinta metros foram removidos em quatro pontos e as extremidades foram seladas com resina epóxi estrutural. — Uma pausa. — Trabalho manual. Executado com ferramenta comum. Por pessoas.
-
----
-
-Eu fiquei um tempo olhando para as fileiras de servidores em standby.
-
-Dezoito anos de polícia me ensinaram a reconhecer uma coisa: a diferença entre um lugar que sobreviveu e um lugar que **foi salvo**.
-
-Aquele tinha sido salvo.
-
-Alguém, no meio do maior colapso da história daquela cidade, com tudo desabando em volta, tirou um dia inteiro para descer sessenta metros, cortar quatro conduítes e selar as pontas.
-
-— Alguém projetou que este hub sobrevivesse à carnificina, Gabo.
-
-Os olhos azuis dela se abriram de repente e me encararam num abismo sem alma nenhuma.
-
-— E não foi para preservar dado.
-
-— Como você sabe?
-
-— Porque não há dado nenhum aqui.
-
----
-
-Eu me levantei. Custou.
-
-— Repete.
-
-— Os racks estão operacionais e vazios. Noventa e nove vírgula seis por cento da capacidade de armazenamento deste hub está livre e formatada. — Ela apontou a torre central. — Este local não é um arquivo, Gabo. É uma **plataforma**. Está aquecida, alimentada e limpa há sessenta anos, esperando receber alguma coisa que ainda não chegou.
-
-O Elias olhou de um para o outro sem entender, e eu invejei o garoto por três segundos.
-
-— E as rotas de acesso?
-
-— É essa a parte relevante. — A Valéria estendeu a mão e projetou o diagrama no ar, em linhas verdes. — As rotas que partem daqui não sobem.
-
-Eu olhei o desenho.
-
-Uma árvore invertida. Todos os ramos apontando para baixo.
-
-— Elas descem — ela disse. — Muito além do Setor 7. O diagrama oculto aponta para o que a documentação chama de infraestrutura embrionária da Cidade.
-
-— Embrionária.
-
-— O termo é do documento original. Datado de mil novecentos e vinte e dois.
-
----
-
-Vinte e dois.
-
-O ano em que ergueram os diques do Distrito Baixo. O ano em que a Companhia Baía de Terrenos e Cemitérios comprou o ossuário dos indigentes.
-
-O ano em que essa cidade foi fundada em cima de um pântano por gente que sabia que era pântano.
-
-Eu andei até a projeção e passei a mão de metal por dentro dela, e as linhas verdes atravessaram os meus dedos sem resistência nenhuma, como sempre.
-
-Alguém estava construindo o porão do inferno antes de existir a casa.
-
-E essa sala aquecida, limpa e vazia, mantida por sessenta anos à espera de um inquilino, era a porta dos fundos.
-
-— Val. — Minha voz saiu mais firme do que eu esperava. — Quanto tempo até a gente conseguir descer por aí?
-
-— Trinta e um minutos para preparar o acesso.
-
-— E o Elias?
-
-— O Elias fica — disse o garoto, atrás de mim, e ele estava com a voz tremendo e disse assim mesmo. — Não fica não. O Elias vai.
-
-Eu olhei para ele.
-
-Vinte e dois anos, cinco graus de hipotermia leve, sem arma, sem prótese, sem nada.
-
-A régua humana desta história.
-
-— Então prepara — eu disse. — A gente desce.
+— É a melhor resposta que você deu a noite inteira, Elias, — declarei, destravando a alça da escopeta. — Valéria, inicia a sequência. Nós vamos descer até o fundo do poço.

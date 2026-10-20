@@ -2,7 +2,7 @@
 
 A regra 9 do AGENTS.md ("Gabo com exoesqueleto no cap. 105 não pode aparecer sem ele")
 não tinha nenhuma implementação: o prompt mandava sempre a descrição canônica do topo da
-ficha, que é atemporal. Resultado: o Gabo do capítulo 220 nascia com os dois braços, e o
+ficha, que é atemporal. Resultado: o Gabo do capítulo 220 nascia sem sua armação de sustentação, e o
 do 47 sem o exoesqueleto. Aqui a linha do tempo vira um intervalo de capítulos por bullet,
 e a cena recebe só o trecho que vale para aquele número.
 """
@@ -57,7 +57,7 @@ def _fases_do_bloco(bloco: str) -> List[Dict]:
     fases.sort(key=lambda f: f["inicio"])
     # A ficha é cumulativa: o último estado declarado vale até o próximo marco aparecer.
     # Sem isso o capítulo 180 ficava sem fase — entre "175-176" e "185-217" — e o Gabo
-    # voltava a ter os dois braços justamente no arco em que perdeu um.
+    # perdia o detalhe da armação ortopédica justamente no arco em que a recebeu.
     for i, fase_atual in enumerate(fases):
         proximo = fases[i + 1]["inicio"] if i + 1 < len(fases) else INFINITO
         limite = max(fase_atual["inicio"], proximo - 1)

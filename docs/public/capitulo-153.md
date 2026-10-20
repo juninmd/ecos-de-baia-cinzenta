@@ -35,7 +35,7 @@ Gabo parou. A raiva era um combustível sujo, mas quente. Ele cravou os olhos no
 
 Ele puxou o pendrive de Aria do pulso quase paralisado de Valéria e cambaleou até um painel de controle colossal incrustado na parede de metal. Era um antigo terminal híbrido da Aeterna Corp, com uma fenda de serviço digital e uma pesada alavanca de emergência travada sob décadas de gelo e oxidação. A alavanca, marcada com fita amarela e preta desbotada, indicava 'PURGA TÉRMICA DE EMERGÊNCIA'.
 
-Gabo espetou o pendrive de Aria diretamente na porta de diagnóstico lateral do terminal e agarrou a alavanca com as duas mãos. O metal estava em temperatura sub-zero. Suas palmas nuas, já sem pele em vários pontos devido às queimaduras e ao ventilador, colaram no aço quase imediatamente. O choque de dor foi tão avassalador que ele soltou um grito rouco. A fumaça fantasma de cigarro tentou se infiltrar em sua percepção novamente, um sussurro tóxico no fundo de sua mente, mas a dor física a esmagou. Ele puxou.
+Gabo espetou o pendrive de Aria diretamente na porta de diagnóstico lateral do terminal e agarrou a alavanca com as duas mãos. O metal estava em temperatura sub-zero. Suas palmas nuas, já sem pele em vários pontos devido às queimaduras e ao ventilador, colaram no aço quase imediatamente. O choque de dor foi tão avassalador que ele soltou um grito rouco, mas cerrou os dentes e canalizou a agonia em pura força de tração. Ele puxou.
 
 O gelo externo rachou, mas a trava eletromecânica interna não cedeu.
 

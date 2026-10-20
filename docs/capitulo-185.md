@@ -7,32 +7,58 @@ Personagens Presentes: Gabo, Valéria
 
 # Capítulo 185: O Verdor Metálico
 
-O elevador de carga parou com um rangido que soou como a espinha dorsal de um deus enferrujado se partindo. As portas de aço reforçado se abriram lentamente, vomitando um ar viciado que me atingiu como um soco no estômago.
+O elevador de carga parou com um solavanco brutal, acompanhado por um rangido que soou como a espinha dorsal de um guindaste enferrujado se partindo sob peso excessivo. As portas corrediças de aço reforçado se abriram com lentidão relutante, vomitando uma lufada de ar viciado que nos atingiu como um soco térmico.
 
-Não era o cheiro químico de desinfetante ou o odor estéril do asfalto morto do Distrito 4. Era terra molhada, decomposição e ozônio. Mas, sob tudo isso, escondia-se o aroma adocicado, nauseante e rasteiro do charuto. O maldito tabaco de Dante.
+Não era o ar seco e gelado da superfície do Distrito 4, nem o odor pungente de asfalto podre que deixáramos para trás. Era terra fértil empapada em adubo químico, decomposição vegetal acelerada e ozônio elétrico de alta voltagem. Um calor úmido, pegajoso, que grudou instantaneamente no couro do meu sobretudo e fez o suor frio escorrer pelas minhas têmporas.
 
-Fechei os olhos. A fumaça invisível já começava a apertar minha garganta, sufocando meus pulmões. O cheiro fantasma de charuto serpenteou pela minha mente, trazendo a silhueta engravatada do meu pai caminhando por trás das folhas de vidro estilhaçadas da minha memória. Minha respiração falhou. O pânico, frio e absoluto, começou a esmagar meu peito. A asfixia imaginária era mais forte que a gravidade.
+Valéria deu o primeiro passo para fora da cabine, os olhos ópticos prateados emitindo cliques rápidos de foco e abertura. Os filamentos de LED azul trançados em seu corte bob assimétrico refletiram-se nas poças de condensação do piso de gradeamento metálico.
 
-Eu precisava de ancoragem. Precisava da realidade.
+— Santo Deus da tecnologia suja... — o sussurro dela escapou com uma mistura genuína de reverência estética e pavor absoluto. — Olha a escala disso aqui, Moretti.
 
-Cerrei os dentes e acionei os servos danificados do meu braço direito. A prótese industrial grosseira, soldada por Vasco no meu coto, gemeu. Forcei o punho de ferro pesado contra a parede de metal do elevador. O solavanco da mecânica não calibrada enviou uma onda de choque de dor branca e pura rasgando pelos pregos neurais cravados na minha carne.
+O Complexo Hidropônico do Setor 7 abria-se diante de nós como uma catedral profana escavada sob a rocha da arcologia.
 
-Minha clavícula protestou, músculos esfarrapados gritando em agonia. O sangue quente pulsou no ombro mutilado. A dor rasgou a fumaça ilusória como uma lâmina. Arfei, puxando o ar pesado da caverna de concreto e neon, finalmente respirando. A fumaça de charuto desapareceu, substituída pela agonia latente que se tornou minha única amiga leal.
+Três níveis monumentais de calhas de cultivo suspensas estendiam-se por mais de duzentos metros sob abóbadas de concreto reforçado. Outrora, aquelas galerias foram o orgulho agronômico da Aeterna Corp, o santuário estéril onde hortaliças e frutas geneticamente desenhadas eram cultivadas com ar filtrado para abastecer exclusivamente as mesas dos executivos do Distrito de Prata.
 
-— Ritmo cardíaco elevado. Possível arritmia detectada. Sugiro administração de betabloqueadores, embora nosso inventário esteja vazio.
+Agora, o império dos vegetais puros havia sido violentado pela mutação do Jardim de Silas Vance.
 
-A voz de Valéria soou oca, desprovida de qualquer inflexão ou calor. Operando no frio Modo de Segurança, ela caminhou para fora do elevador com passos milimetricamente calculados. O olho cibernético varreu o escuro, banhando o concreto molhado com um feixe infravermelho apático.
+Uma floresta de biomassa bioluminescente tomara conta de cada viga, calha e passarela. Raízes grossas como tubulações de esgoto serpenteavam sobre as bandejas hidropônicas, emitindo uma pulsação azul-esmeralda contínua que iluminava o ambiente com uma penumbra febril. Folhagens deformadas, com nervuras translúcidas que conduziam fluidos químicos fluorescentes, desciam do teto em cortinas espessas que gotejavam sobre o lodo do chão.
 
-— Eu tô bem — rosnei, limpando uma gota de suor ácido da testa com a mão boa. — Guarda a bateria.
+— A colônia não tá apenas crescendo aqui embaixo — falei, sentindo o peso assimétrico da armação repuxar minha escápula. A dor nos pinos de aço cravados no ombro era viva e real, mantendo meus reflexos tensos na penumbra. — Ela tomou a infraestrutura inteira da estufa.
 
-O Complexo Hidropônico do Setor 7 se abria diante de nós como um pulmão doente. As imensas calhas de cultivo, outrora destinadas a alimentar a elite de Baía Cinzenta com morangos geneticamente modificados, estavam agora tomadas por uma biomassa luminescente. O "Jardim" não estava apenas sobrevivendo aqui embaixo; ele estava prosperando.
+— Tomou e melhorou — Valéria avançou dois passos, o cyberdeck seguro sob o braço esquerdo enquanto a mão direita empunhava a lanterna tática. O facho cortou a névoa esverdeada, revelando um detalhe perturbador nos troncos das raízes. — Gabo... aproxima o olho. Olha onde as gavinhas tão se enroscando.
 
-Raízes grossas como cabos de força se enroscavam nas estruturas de aço, pulsando com um brilho bioluminescente azulado. Entre as folhagens doentias, o brilho de monitores piscava. Hardware e wetware se fundindo em uma amálgama profana de tecnologia e carne verde. Eles estavam reconstruindo a rede.
+Aproximei-me da mureta da passarela superior. Sob a casca vegetal translúcida, vi feixes de cabos coaxiais e fitas de fibra óptica arrancados das canaletas elétricas das paredes. O fungo havia envolvido os barramentos de dados, usando a malha de cobre como guia para espalhar suas hifas pelos três andares do complexo.
 
-— Múltiplos nós de transmissão detectados — Valéria reportou, a voz letárgica, apenas despejando dados brutos. — A biomassa está utilizando cabos de fibra ótica como sistema nervoso central. Eficiência de transferência de dados: 87%. É uma arquitetura de rede neural descentralizada. Orgânica e letal.
+— O Jardim tá usando a rede física da Aeterna como sistema nervoso central — Valéria explicou, os dedos correndo rápidos pelo teclado do deck. Os bipes do aparelho soavam abafados pelo ar espesso. — As bombas de circulação química ainda tão operando com energia residual do reator geotérmico. A praga tá bombeando nutrientes sintéticos e eletricidade direto pro tecido vegetal. É um supercomputador de biomassa, Moretti. Uma fazenda de processamento biológico.
 
-Apertei os olhos, observando o fim da estufa principal. Havia silhuetas ali. Corpos pendurados pelas raízes, balançando lentamente, suas espinhas conectadas aos terminais. Bio-baterias. Carne humana alimentando o servidor divino da praga biológica.
+— E cadê o poder de cálculo? — apontei com a mão de aço para o fundo da estufa principal, onde a escuridão se adensava. — Planta não calcula rota de transmissão sozinha.
 
-— Então a gente poda o jardim — falei, a voz rouca, o cinismo encharcando as palavras. O braço industrial chiou, faíscas fracas saltando das juntas enferrujadas. A dor pulsou, constante, me lembrando que eu ainda estava vivo. — Procure o conduíte principal. Vamos cortar essa merda pela raiz.
+Valéria ergueu o facho da lanterna na direção que apontei. O círculo de luz branca atravessou uma cortina de folhas venenosas e congelou.
 
-Valéria assentiu, sem medo, sem nojo, sem humanidade. Apenas um algoritmo executando uma função em um mundo morto. Nós avançamos para o meio da selva de néon e podridão.
+A respiração dela travou na garganta.
+
+Suspensos pelas calhas superiores de irrigação, a quatro metros do piso, havia dezenas de corpos humanos. Não eram catadores mortos jogados no lixo; estavam dispostos em fileiras geométricas perfeitas, como frutos em um pomar macabro. Cada um deles tinha a coluna cervical perfurada por raízes espessas que desciam do teto, as cabeças caídas para a frente, as órbitas brilhando com minúsculos filamentos ópticos que piscavam num ritmo sincopado.
+
+— São... são técnicos da Aeterna — Valéria sussurrou, a voz tremendo com uma fúria contida. — Pessoas que trabalhavam na manutenção do complexo quando a usina colapsou. Silas Vance conectou o cérebro deles em paralelo nas placas controladoras. Eles são os transistores vivos dessa merda, Gabo. Estão processando os dados da rede enquanto a biomassa drena o que sobrou da glicose deles.
+
+— O mesmo horror que vimos na usina com os Drenados — cerrei o punho mecânico pesado, sentindo as engrenagens gemerem sob a pressão da hidráulica. O estalo seco do ferro ecoou nas vigas altas, reverberando na vastidão da estufa. — O Silas pode ter virado cinzas, mas o código que ele plantou continua colhendo gente.
+
+Valéria desligou a lanterna para não atrair a atenção dos nós bioelétricos. A luz ambiente das raízes desenhava o perfil anguloso do rosto dela, tenso, os dentes cravados no lábio inferior.
+
+— O pacote de dados daquela mulher morta no galpão apontava direto pro núcleo de controle térmico — ela disse, apontando para uma estrutura cúbica de concreto blindado que se erguia no centro do segundo pavimento, quase completamente engolida por trepadeiras fosforescentes. — Se a gente alcançar a sala das caldeiras e cortar as válvulas de refluxo, o sistema de irrigação entra em colapso por dessecação em vinte minutos. Sem líquido nutriente, essa selva inteira murcha.
+
+— E as pessoas penduradas nas calhas?
+
+Valéria olhou para a fileira de corpos estáticos na penumbra, os olhos prateados pesados com a amargura de quem já viu mortes demais para a sua idade.
+
+— O córtex deles já foi consumido pelas raízes, Gabo. Aquilo ali é só casca biológica mantida viva por estímulo elétrico. Se a gente desligar a força, a gente não tá matando ninguém... a gente tá dando o descanso que a corporação negou pra eles há três meses.
+
+Encarei o labirinto de passarelas enferrujadas que descia até o núcleo de concreto. O ar estava ficando cada vez mais pesado, carregado com esporos microscópicos que faziam a garganta pinicar com um gosto metálico.
+
+— Então vamos descer, Val. Mantém o deck pronto pra abrir as travas das portas e fica atrás de mim.
+
+Ela puxou o ferrolho da pistola, conferindo a câmara com aquele estalo firme e profissional que sempre me devolvia o foco.
+
+— Atrás de você é o único lugar seguro nessa cidade, detetive — ela deu um sorriso curto, afiado como navalha, ajustando a alça do cyberdeck nas costas. — Só tenta não escorregar no lodo com esse pé de chumbo. Se essa floresta de pesadelo acordar, a gente vai precisar correr mais do que o seu joelho aguenta.
+
+Deixamos o patamar do elevador e começamos a descer a escadaria de serviço, mergulhando na névoa fosforescente daquele pomar profano, onde a linha entre carne humana e máquina corporativa havia sido apagada para sempre.

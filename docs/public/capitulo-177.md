@@ -9,46 +9,72 @@ Personagens Presentes: Gabo, Valéria
 
 A chuva do Distrito 4 não tinha a decência de apenas molhar; ela engolia tudo, diluindo os neons escassos em borrões nauseantes de amarelo e vermelho. Cada passo pelas ruas esburacadas era uma negociação com a lama tóxica, um lembrete constante de que a cidade nos detestava tanto quanto nós a ela.
 
-O silêncio de Valéria era um buraco negro à minha esquerda. Nos velhos tempos, o ruído dos meus passos irregulares ou o ranger metálico dos meus suspensórios teriam provocado um comentário sarcástico sobre manutenção preventiva. Agora, ela era apenas um vulto contornado em aço frio, seu andar metodicamente calculado para máxima eficiência energética no Modo de Segurança Operacional. O zumbido intermitente de seus micro-servos parecia uma contagem regressiva para um fim que eu já não queria evitar.
+Valéria caminhava dois passos à minha esquerda, o capuz da jaqueta encharcado colado à cabeça, os olhos prateados rastreando os becos transversais. O cyberdeck dela zumbia sob o couro com um som arranhado, como um disco rígido com os cabeçotes desalinhados.
 
-Mas o que me mantinha acordado, o que espantava as sombras pegajosas do meu passado, não era o zumbido mecânico. Era a agonia crua da minha nova companhia: a prótese industrial de Vasco.
+— Cinco assinaturas térmicas a setenta metros — ela disse de repente, a voz baixa, cortante como navalha. — Agachados atrás daquele caminhão frigorífico tombado da Aeterna. Armamento improvisado: canos de ferro, lâminas soldadas e pelo menos uma pistola de pregos com ar comprimido.
 
-Parafusada aos meus nervos sem a cortesia de uma anestesia, a coisa pesava mais que os pecados do meu pai. Cada contração do ombro enviava um raio de choque ardente pela espinha. Era uma dor vulgar, deselegante, o tipo de dor que não pede desculpas. E eu a amava.
+Apertei o passo, sentindo a junta mecânica do ombro chiar com a umidade ácida.
 
-Quando o vento mudava e trazia consigo a lembrança podre de tabaco envelhecido — a fumaça ilusória que parecia escorrer dos poros da própria cidade morta —, eu ativava os pistões do braço direito. O estalo bruto do ferro e o choque elétrico nos nervos amputados cortavam a alucinação de fumaça pela raiz. Meu pai, Dante, estava apodrecendo lá embaixo, mas a sua fumaça ainda me sufocava, a menos que o metal tocasse o fogo.
+— Saqueadores da baixa — murmurei, o gosto de ferro e chuva ácida colando na língua. — Caçando carcaça corporativa que já foi limpa há semanas.
 
-— Gabo. — A voz plana de Valéria cortou a escuridão. — Anomalia detectada. Bloqueio orgânico à frente. Setenta e dois metros.
+— Não tão caçando lata velha, Gabo — Valéria inclinou a cabeça, os LEDs azuis da franja disparando pulsos rápidos de escaneamento. — Tão caçando carne viva com implante. O leitor do meu deck tá pegando o rádio deles na frequência aberta dos canais de esgoto. Chamaram a gente de 'peixe grande com metal bom'. O líder deles acha que seu braço de guindaste vale três botijões de gás no mercado negro do cais.
 
-Olhei através da chuva cortante. Um grupo se aglomerava em volta de um caminhão tombado da Aeterna Corp. Saqueadores, provavelmente caçando restos de sucata em uma carcaça que já havia sido esvaziada por ratos piores do que eles. Eram quatro, talvez cinco, e estavam bem armados com canos oxidados e lâminas improvisadas que brilhavam palidamente.
+— Eles vão se decepcionar bastante quando tentarem arrancar.
 
-— Rota alternativa recomendada — Valéria sugeriu, uma máquina citando um manual obsoleto. — Confronto consome 34% de chance de dano estrutural crítico. A evasão é o vetor lógico.
+— Se você errar a alavanca do pistão, quem vai se decepcionar é o seu cirurgião clandestino favorito — ela retrucou, o sarcasmo afiado servindo de escudo contra o medo óbvio. — O Vasco colocou uma válvula de alívio rápido na altura do bíceps, mas esqueceu de vedar o diafragma. Se você desferir um impacto frontal sem travar a escápula, o contragolpe cinético estoura o resto das suas costelas.
 
-— Não há tempo para desvios, Val. — O aperto no peito, o aroma acre que sempre precedia a náusea do cigarro, rastejou de volta. Cerrei a mão de metal pesada, ouvindo o chiado da hidráulica não calibrada enquanto o ferro se dobrava, doloroso e real. — Nós passamos por cima.
+— Obrigado pelo manual de instruções em cima da hora, Val.
 
-— Diretriz registrada, porém não otimizada. Preparando parâmetros defensivos passivos. — Ela não argumentou. Não houve preocupação, nem a teimosia que eu havia aprendido a respeitar. Apenas um aceno mecânico de aceitação.
+— De nada, detetive. Minha comissão é você continuar respirando pra não me deixar sozinha nessa lama.
 
-Comecei a andar mais rápido, ignorando o baque surdo do metal maciço na minha perna a cada passo mal dado. Os saqueadores notaram nossa aproximação e se voltaram, as figuras ameaçadoras se alinhando para bloquear o caminho.
+As cinco sombras emergiram de trás do caminhão virado. Eram homens magros, desfigurados por implantes caseiros mal cicatrizados e cobertos por trapos impermeáveis imundos. O líder deles avançou com um pedaço de vergalhão de construção de dois metros, a ponta afiada em bisel brilhando com a água da chuva.
 
-— Ei, ciborgue de lata! — gritou um deles, agitando um pedaço de vergalhão enferrujado. — O pedágio é os olhos de vidro dessa moça aí e qualquer peça que a gente conseguir arrancar da sua sucata.
+— Parou aí, sucata da Central! — o homem gritou, a voz rouca cheia do catarro típico de quem respirava o smog sem filtro há anos. — O pedágio do beco é o braço mecânico e as lentes óticas da vadiazinha. Solta o cyberdeck no chão e a gente deixa vocês dois saírem andando pela própria perna.
 
-Não respondi. O cheiro da fogueira química deles misturado com a chuva disparou os alarmes de pânico no meu cérebro traumatizado. *Fumaça. Cinzas.* Apertei os dentes com tanta força que o maxilar estalou, ativando novamente o mecanismo da prótese, buscando a centelha de dor nos nervos mutilados.
+Valéria soltou uma risada curta, fria, daquelas que ecoavam nos becos da Zona Portuária antes da guerra.
 
-O líder deu um passo à frente, confiante na sua vantagem numérica, e ergueu o vergalhão para um golpe contra o meu peito.
+— Vadiazinha é a sua mãe, seu rato de duto — ela deu um passo à frente, a mão enluvada repousando casualmente sobre a trava do gerador de pulsos do deck. — E essas lentes aqui custam mais do que o seu barraco inteiro e a sua árvore genealógica somadas. Dá meia-volta enquanto seu coração ainda tem energia pra bater.
 
-Eu não tentei desviar. Não era rápido o suficiente, não mais. Em vez disso, movi o braço direito — ou melhor, disparei a carga cinética bruta que Vasco havia embutido nos pistões industriais. O movimento não teve a precisão cirúrgica dos vetores que Aria costumava ditar no meu comunicador, apenas o peso estúpido de um bate-estaca.
+O homem cuspiu no chão, a saliva tingida de marrom pelo mofo químico.
 
-Minha mão de liga espessa colidiu com o peito do homem. O som da caixa torácica se partindo foi audível até mesmo sobre a tempestade ácida. A força do impacto, completamente desprovida de amortecimento, arremessou o corpo três metros para trás, direto na poça de lama de onde ele havia saído.
+— Tá muito valente pra quem tá isolada da rede, garota. Pega eles!
 
-A onda de choque mecânico subiu pelo meu braço e explodiu no meu ombro, me arrancando um gemido rouco. A dor rasgou cada terminação nervosa cauterizada a laser, mas ela estava lá. Eu sangrava, eu sofria, eu não cheirava a fumaça de cigarro, eu cheirava a sangue quente e cobre derretido. O fedor rançoso do passado havia desaparecido sob a intensidade do momento.
+Os dois flanqueadores avançaram pela calçada enlameada com canos de chumbo erguidos. Mas o líder foi mais rápido, avançando pelo centro com o vergalhão mirando direto na garganta desprotegida do meu sobretudo.
 
-Os outros três congelaram, olhando para o peito esmagado de seu líder e depois para o meu braço, que sibilava, exalando um vapor pálido através da junta mal soldada.
+Eu não tentei desviar. Com o peso assimétrico que me puxava para a direita, eu era lento demais para esquivar na lama.
 
-— Mais algum pedágio? — perguntei, a voz tão estriada de ferrugem quanto a cidade.
+Em vez disso, afundei a bota esquerda na sarjeta para firmar o ponto de apoio e liberei a trava manual do pistão pneumático. O zumbido hidráulico no meu ombro explodiu em um silvo ensurdecedor de vapor superaquecido.
 
-A covardia da sobrevivência prevaleceu. Eles recuaram para as sombras, arrastando o corpo e desaparecendo nos becos imundos como as baratas que eram. O caminho estava livre, mas o silêncio que se seguiu não era de vitória, era de sobrevivência mecânica.
+O vergalhão atingiu o antebraço da armação de ferro. O impacto produziu um estampido estridente de metal contra metal, mas o aço industrial das docas nem sequer arranhou. A barra de ferro entortou na mão do homem.
 
-— Obstrução eliminada — constatou Valéria, seus olhos apagados não registrando o desespero. — Custo de energia dentro dos parâmetros aceitáveis. Retomando marcha.
+Antes que ele pudesse puxar a arma de volta, desferi o golpe. Não foi um soco técnico de boxeador da corporação; foi o arremesso estúpido e maciço de um martelo mecânico de vinte quilos empurrado por um pistão sob pressão máxima.
 
-Eu encarei o punho que havia quebrado o peito do homem. Era uma ferramenta assassina e rústica, cega, ignorante. Suspirei o ar tóxico sem que o gosto asfixiante do tabaco retornasse.
+Minha mão de liga espessa colidiu com a caixa torácica dele.
 
-— Sim, Val. — Acompanhei seus passos gelados. — Retomando marcha.
+O som do esterno e das costelas se estilhaçando sob o concreto foi audível até mesmo por cima da tempestade. O homem nem chegou a gritar; o ar e o sangue foram expulsos dos pulmões dele instantaneamente enquanto seu corpo era projetado cinco metros para trás, colidindo violentamente contra a lateral do caminhão frigorífico antes de deslizar, inerte, para dentro de uma poça de óleo.
+
+A onda de recuo subiu pela minha omoplata como uma chicotada de fogo. A dor estalou nas terminações nervosas recém-suturadas, fazendo meu maxilar ranger e o osso fraturado protestar sob a chuva no meu rosto. Mas os pinos de fixação aguentaram. A fita isolante de Vasco fumegava na junta, mas os dedos de aço responderam ao meu comando quando fechei o punho ensanguentado.
+
+Os outros quatro saqueadores pararam no meio do salto. O terror paralisou cada um deles. Olharam para o líder deles afundado na lama sem respirar, olharam para o vapor branco que sibilava da junta do meu braço de ferro, e depois para o cano curto de *Caronte* que eu saquei com a mão esquerda por baixo do casaco.
+
+— Mais alguém quer avaliar o peso da sucata? — minha voz soou rouca, áspera como lixa em ferrugem.
+
+— C-covardia... — um deles gaguejou, o pedaço de cano tremendo na mão.
+
+— Covardia é tentar roubar quem sobreviveu ao Arquivo Executivo, seu bosta — Valéria deu um passo adiante, os olhos prateados brilhando com um ódio concentrado que os fez recuar dois passos. — Peguem o lixo de vocês e sumam antes que eu decida descarregar o resto da bateria nos olhos de vocês.
+
+Eles não precisaram de um segundo convite. Dois deles agarraram o corpo quebrado do líder pelas axilas e arrastaram-no de ré pela água imunda, enquanto os outros dois tropeçavam nas próprias pernas na fuga desesperada em direção aos becos da Zona Sul.
+
+O silêncio voltou a pesar sobre a rua, quebrado apenas pela água caindo dos beirais de lata.
+
+Valéria soltou o ar devagar, os ombros descendo alguns centímetros. Ela guardou a mão de volta no bolso da jaqueta, mas eu vi o tremor residual nos nós dos seus dedos.
+
+— Bruto pra caramba, Moretti — ela murmurou, chutando o vergalhão torto para dentro da vala. — Custava quebrar só um braço? Sujou o asfalto inteiro.
+
+— Resolveu o problema sem gastar cartucho.
+
+— É, e quase deslocou sua clavícula nova — ela se aproximou, estendendo a mão para inspecionar a junta do meu ombro com os dedos rápidos de hacker. — Tá cheirando a borracha queimada e óleo térmico. A solda do Vasco segurou, mas a folga aumentou dois milímetros. Mais três pancadas dessas e você vai ter que catar os parafusos na sarjeta.
+
+— Então a gente torce pra não encontrar mais idiotas no caminho.
+
+— Em Baía Cinzenta? — Valéria soltou um meio-riso amargo, puxando o capuz para proteger o cyberdeck da água ácida. — Essa cidade não produz nada além de chuva e idiota armado, Gabo. Vamos andar logo antes que o cheiro de sangue chame coisas que não têm medo de pistão mecânico.
