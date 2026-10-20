@@ -1,7 +1,7 @@
 # Parecer editorial — Capítulo 3: Teatro de Carne
 
 Revisão de 20/10/2026 com a skill `escrita-investigativa`.
-Alvo: [capítulo 3](../capitulo-3.md); entrada conferida no 2 e passagem no 4.
+Alvo: [capítulo 3](/capitulo-3.md); entrada conferida no 2 e passagem no 4.
 Este parecer substitui a análise anterior deste arquivo.
 
 ## Diagnóstico e correções

@@ -1,7 +1,7 @@
 # Parecer editorial — Capítulo 2: Náufragos de Concreto
 
 Revisão de 20/10/2026 com a skill `escrita-investigativa`.
-Alvo: [capítulo 2](../capitulo-2.md); continuidade conferida com capítulos 1 e 3.
+Alvo: [capítulo 2](/capitulo-2.md); continuidade conferida com capítulos 1 e 3.
 Este parecer substitui a análise anterior deste arquivo.
 
 ## Diagnóstico e correções

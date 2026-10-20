@@ -1,7 +1,7 @@
 # Parecer editorial — Capítulo 1: Olhos de Vidro
 
 Revisão de 20/10/2026 com a skill `escrita-investigativa`.
-Alvo: [capítulo 1](../capitulo-1.md); saída conferida nos capítulos 2 e 3.
+Alvo: [capítulo 1](/capitulo-1.md); saída conferida nos capítulos 2 e 3.
 Este parecer substitui a análise anterior deste arquivo.
 
 ## Diagnóstico e correções

@@ -11,6 +11,7 @@ concurrency:
 
 jobs:
   check:
+    # O reusable não declara `on.workflow_call.secrets`, então passar
+    # `secrets:` aqui derrubava o run inteiro em startup_failure. O checkout
+    # recebe o GITHUB_TOKEN implícito via permissions do próprio reusable.
     uses: juninmd/base-actions/.github/workflows/reusable-validate.yml@main
-    secrets:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
