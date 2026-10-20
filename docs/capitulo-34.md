@@ -59,7 +59,7 @@ Era um tiro. Um. O tubo não aguentava dois, e a lata não tinha espoleta de seg
 
 — Ei! — gritou Gabo, apoiando o tubo pesado no ombro. O metal frio pressionou contra sua clavícula.
 
-Ele calculou a distância duas vezes. Trinta metros e um pouco. A van estava de lado: se acertasse a roda dianteira, o ferro pegava nos bandidos e não nos reféns. Se acertasse meio metro acima, matava a fila inteira.
+Ele calculou a distância duas vezes. Cinquenta metros e um pouco. A van estava de lado: se acertasse a roda dianteira, o ferro pegava nos bandidos e não nos reféns. Se acertasse meio metro acima, matava a fila inteira.
 
 Os bandidos se viraram, ofuscados pelos faróis do Cobalt.
 
