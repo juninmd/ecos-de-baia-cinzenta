@@ -67,7 +67,7 @@ Valéria estava sentada ao meu lado, as costas apoiadas na mesma parede, a jaque
 
 Ela virou o rosto para mim, limpando uma mancha escura de fuligem da bochecha com as costas da mão, e soltou uma risada rouca e cansada que ecoou pela galeria vazia.
 
-— Você tem o pior estilo de demolição que eu já vi na minha vida, Moretti — ela murmurou, a voz trêmula de alívio e adrenalina. — Mas o Jardim... o Jardim virou cinza lá embaixo. A rede de clones do Silas não vai se alimentar de mais ninguém. Todo aquele sacrifício finalmente teve um fim.
+— Você tem o pior estilo de demolição que eu já vi na minha vida, Moretti — ela murmurou, a voz trêmula de alívio e adrenalina. — Mas o Jardim... o Jardim virou cinza lá embaixo. Pelo menos essa colônia não vai se alimentar de mais ninguém. Todo aquele sacrifício finalmente teve um fim.
 
 Olhei para a minha mão de carne, ainda tremendo com o choque residual do esforço, e depois para o aço fosco da prótese, que esfriava lentamente com o toque da umidade do chão.
 
