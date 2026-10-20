@@ -95,7 +95,7 @@ Ele olhou para o sensor de mercúrio. Era pequeno, delicado. Se o jato de gás e
 
 — Val, eu vou segurar o sensor — disse Gabo. — Vou congelar minha mão junto com ele para estabilizar.
 
-— Gabo, isso vai necrose seus dedos!
+— Gabo, isso vai necrosar seus dedos!
 
 — Melhor os dedos do que a Elena. Corta o fio vermelho quando eu der o sinal. Se explodir, eu levo o impacto.
 
@@ -105,7 +105,7 @@ O frio subiu pelo pulso e parou no cotovelo, como se alguém tivesse enfiado a m
 
 O contador congelou em *00:03*.
 
-— AGORA, PORRA! — gritou ele, os dentes trincados de agonia. Nesse tempo, você corta o fio do detonador.
+— AGORA, PORRA! — gritou ele, os dentes trincados de agonia.
 
 — E qual é o fio do detonador?! O vermelho ou o azul?
 
@@ -115,7 +115,7 @@ O contador tremeu em *00:02*.
 
 — Faça! — gritou Valéria.
 
-Gabo apontou o tubo para o coração da bomba. O gás jorrou, cobrindo o sensor de mercúrio com uma camada de gelo. O display digital tremeluziu, os números congelando em *00:03*.
+Gabo apontou o tubo para o coração da bomba. O gás jorrou, cobrindo o sensor de mercúrio com uma camada de gelo. O display digital tremeluziu, os números parando de cair, travados em *00:02*.
 
 — AGORA!
 
@@ -124,6 +124,10 @@ Com a mão firme, Valéria enfiou seu canivete na fiação e cortou o fio vermel
 Um silêncio ensurdecedor.
 
 O display se apagou. A luzinha vermelha piscou uma última vez e morreu.
+
+Valéria pegou a mão dele antes de qualquer outra coisa, virou a palma para a luz e não disse nada. A pele dos dedos estava branca e dura, e o aro do sensor ficou impresso nela como um carimbo.
+
+— Dois dedos não vão fechar por umas semanas — disse ela, por fim. — E não enfia isso em água quente pra descongelar. Vai doer mais e vai necrosar de verdade.
 
 Gabo caiu de joelhos, o ar saindo de seus pulmões num silvo. Ele não abraçou Elena imediatamente. Ele apenas ficou ali, a cabeça baixa, o alívio tão pesado quanto o medo. Ele tinha escolhido. Ele tinha se recusado a sacrificar outra pessoa, mesmo que isso significasse o sacrifício de todos.
 
@@ -149,9 +153,13 @@ Gabo abriu a pasta. Plantas. Códigos. A arquitetura completa da Torre de Transm
 
 — Controle total... — sussurrou Valéria, olhando por cima do ombro dele. — Gabo, isso... isso não é só para desligar a Rede. É para tomar o controle dela.
 
-Gabo olhou para a janela, para a silhueta da Torre contra o céu doente. A verdade o atingiu, não como um raio, mas como um peso esmagador.
+Gabo olhou para a janela, para a silhueta da Torre contra o céu doente. As plantas não diziam quem era o vilão. Diziam outra coisa, e a outra coisa era pior: no alto, junto do núcleo, havia um andar que não era de máquina. Era de hospital. Perfusão, oxigenação, estímulo neural. Nenhum prédio precisa de soro.
 
-— Ele não é o vilão. Ele é a bateria. O Gamemaster o está usando.
+— Ele não é o vilão — disse Gabo, e a frase saiu como pergunta. — Ele é a bateria. O Gamemaster está usando ele.
+
+— As plantas não dizem isso — disse Valéria.
+
+— Não dizem o contrário.
 
 Ele se levantou, o corpo dolorido, mas a mente afiada. Beijou a testa de Elena, um gesto rápido, final.
 
