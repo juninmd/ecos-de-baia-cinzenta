@@ -31,7 +31,7 @@ O fluido pingava no piso num compasso que imitava relógio. A galeria tinha opin
 
 — Apaga essa lanterna, Elias — ordenei num sussurro ríspido, parando imediatamente e erguendo o punho mecânico. — Agora.
 
-O velho apagou o interruptor num clique seco. Mergulhamos numa penumbra fantasmagórica, iluminada apenas pela fosforescência azulada que corria pelas veias do Jardim e pelo brilho tênue dos implantes ópticos de Valéria.
+Elias apagou o interruptor num clique seco. Mergulhamos numa penumbra fantasmagórica, iluminada apenas pela fosforescência azulada que corria pelas veias do Jardim e pelo brilho tênue dos implantes ópticos de Valéria.
 
 Ela se aproximou de uma das colunas, apontando a sonda de leitura com extremo cuidado para um casulo rompido que pendia a meio metro do chão.
 
@@ -75,7 +75,7 @@ O casulo mais próximo rasgou-se de cima a baixo com um som úmido e nauseante d
 
 A abominação ergueu a cabeça cega, desprovida de olhos, com mandíbulas de aço serrilhado estalando num silvo assassino enquanto garras de cerâmica batiam no concreto.
 
-— Corre, Elias! — empurrei o velho técnico com força em direção ao portão do elevador, sacando *Caronte* com um giro limpo da mão esquerda. — Vai pro poço do elevador e não olha pra trás!
+— Corre, Elias! — empurrei o técnico com força em direção ao portão do elevador, sacando *Caronte* com um giro limpo da mão esquerda. — Vai pro poço do elevador e não olha pra trás!
 
 Valéria já estava ao meu lado, os olhos brilhando com fogo frio enquanto descarregava os primeiros três tiros cirúrgicos no tórax blindado da besta.
 
