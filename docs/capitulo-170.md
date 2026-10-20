@@ -8,11 +8,11 @@ image: /capitulo_170_pro.jpg
 
 # Capítulo 170: O Fim do Expediente
 
-O silêncio do Subnível 2.0 não era uma ausência de som, mas uma presença física. Pressionava meus tímpanos como água a cinquenta metros de profundidade. A mesa de fibra de carbono à minha frente estava manchada por um fluido denso, escuro e iridescente, vazando lentamente dos receptáculos rompidos.
+O silêncio do Subnível 2.0 não era uma ausência de som, mas uma presença física. Pressionava meus tímpanos como água a cinquenta metros de profundidade. A mesa de fibra de carbono à minha frente estava manchada por um fluido denso, escuro e iridescente, que escorria devagar do cilindro estilhaçado.
 
 O *wetware* — o tecido cerebral que outrora orquestrara a farsa da Aeterna — agora não passava de biomassa apodrecendo sob as luzes de emergência.
 
-As feridas do meu braço quebrado sangravam. A pele cauterizada e as ataduras rompidas pelo esforço haviam cedido quando golpeei a mesa, esmagando o vidro temperado e as válvulas de suporte de vida. O sangue escorria pelo meu antebraço fraturado, misturando-se àquele fluido viscoso da corporação.
+As feridas do meu braço quebrado sangravam. A pele cauterizada e as ataduras rompidas pelo esforço haviam cedido quando golpeei a quina da mesa. Depois, quando a luz azul morreu de vez, eu quebrei o vidro com a coronha. Não ia deixar ninguém trancado no escuro outra vez. O sangue escorria pelo meu antebraço fraturado, misturando-se àquele fluido viscoso da corporação.
 
 O ar daquele arquivo tinha gosto de moeda velha. Não era figura de linguagem: o cobre das canaletas, aquecido pela bateria de emergência que ainda sustentava as luzes vermelhas, soltava um sabor metálico que grudava na raiz da língua. A gaiola de Faraday transformava cada ruído em coisa próxima e indecente — o estalo do filamento, o escorrer do fluido pela mesa, o meu próprio pulso batendo na garganta do braço quebrado. Nenhum som entrava. Nenhum som saía. A Aeterna construíra aquela sala para que nada de dentro pudesse ser ouvido, e agora ela nos devolvia o silêncio com juros, um cofre hermético em volta de dois vivos e uma máquina morta.
 

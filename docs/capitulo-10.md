@@ -51,7 +51,7 @@ Depois, como se a palavra tivesse aberto uma porta, ele falou para o comunicador
 
 — Eles estão fazendo bonecos — sussurrou Gabriel, horrorizado. — Estão lobotomizando as pessoas e forçando-as a sorrir.
 
-— "A Fábrica de Sorrisos" — Valéria apontou para uma tela de monitoramento. — Olha os dados. "Engajamento Biológico". Eles usam esses corpos como terminais vivos. O cérebro é apagado, restando apenas o sistema límbico para gerar reações emocionais puras em massa para a Rede. Curtidas, compartilhamentos... tudo gerado por carne escrava.
+— "A Fábrica de Sorrisos" — Valéria apontou para uma tela de monitoramento. — Olha os dados. "Engajamento Biológico". O córtex é apagado e sobra o miolo antigo: o suficiente para andar, reagir e sentir. Eles usam esses corpos como terminais vivos, gerando reação emocional pura em massa para a Rede. Curtidas, compartilhamentos... tudo gerado por carne escrava.
 
 De repente, uma sirene tocou. Não era um alarme de intrusão, mas um sinal de turno.
 
@@ -75,7 +75,7 @@ A horda de sorrisos avançou. Eles não corriam. Eles marchavam, escalando as pa
 
 Gabriel abriu fogo. As balas de 9mm derrubavam os primeiros, mas eles não sentiam dor. Um homem com o peito aberto por um tiro continuou avançando, sorrindo.
 
-Gabriel contava os tiros. Doze no primeiro carregador, mais dez no bolso, e o bolso estava ficando leve. Cada estalo da Glock era uma moeda saindo. Dois bonecos caíram; três continuaram andando por cima dos próprios companheiros, sem olhar para baixo, e ele entendeu que ali não havia exército: havia matéria-prima com um objetivo comum.
+Gabriel contava os tiros. Doze no primeiro carregador, mais dez no bolso, e o bolso estava ficando leve. Cada estalo da Glock era uma moeda saindo, e a palma queimada no fosso do elevador reabria a cada recuo, até ele trocar de mão e continuar. Dois bonecos caíram; três continuaram andando por cima dos próprios companheiros, sem olhar para baixo, e ele entendeu que ali não havia exército: havia matéria-prima com um objetivo comum.
 
 — Eles não param! — Gabriel recarregou. — Precisamos sair daqui!
 
@@ -125,8 +125,10 @@ Gabriel olhou para a pilha de corpos esmagados. Um rosto, ainda intacto, sorria 
 
 Gabriel pegou o braço de Valéria.
 
-— Vamos. Precisamos queimar este lugar antes de ir.
+— Vamos. Precisamos queimar este lugar antes de ir. — Ele apontou para o terminal. — E trazer o que estiver gravado aí.
 
-Enquanto saíam, Gabriel jogou um sinalizador aceso em um tanque de solvente industrial. O fogo subiu rápido, laranjas e negros, consumindo a Fábrica de Sorrisos e seus segredos.
+Valéria arrancou a unidade de memória do monitoramento e a enfiou no bolso da jaqueta, junto do drive do Kiko.
+
+Enquanto saíam, Gabriel jogou um sinalizador aceso em um tanque de solvente industrial. O fogo subiu rápido, laranjas e negros, consumindo a Fábrica de Sorrisos e o resto dos seus segredos.
 
 O fogo estourou o teto e subiu pela chaminé em coluna negra. Na rua, atrás do vidro embaçado de um prédio vizinho, alguém já filmava. Gabriel virou o rosto, mas o sorriso já estava no ar, subindo com a fumaça, disponível para quem quisesse assistir.

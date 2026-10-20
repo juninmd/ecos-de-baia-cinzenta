@@ -17,7 +17,7 @@ Gabo grunhiu, ajustando a pegada nas alças dianteiras da maca de Rangel, enquan
 
 — Eu estou bem — Gabo mentiu, trincando os dentes.
 
-Ele não estava bem. O ombro latejava em sincronia com seu pulso. O cheiro de óleo queimado do túnel trazia à tona a memória sufocante da torre do relógio do pai, revirando seu estômago com uma náusea amarga.
+Ele não estava bem. O ombro latejava em sincronia com seu pulso. O cheiro de óleo queimado do túnel trazia à tona a memória sufocante da torre do relógio, revirando seu estômago com uma náusea amarga.
 
 Gabo soltou uma das mãos da maca por um segundo e pressionou o "Colar de Sol" contra o esterno. O metal frio mordeu a pele, uma dor aguda e focalizada. *Isso é real*, ele pensou. *A lembrança é fumaça. A dor é âncora.*
 
@@ -79,7 +79,7 @@ No comunicador, Aria recalculou os vetores imediatamente.
 
 — É PVC industrial classe 5 — Gabo retrucou, lembrando-se das obras superfaturadas da prefeitura que ele investigara anos atrás. — Aguenta a pressão. Só me dá os ângulos de tensão no fone.
 
-— *Tensão máxima suportada na dobra do couro: 110 quilogramas-força. Monitorando ângulo de descida.*
+— *Tensão máxima suportada na dobra do couro: cento e noventa quilogramas-força. Monitorando ângulo de descida.*
 
 Gabo e Valéria amarraram os cintos e uma tira de lona da maca, laçando o tubo superior. Gabo desceu primeiro, apoiando as botas nos tocos de ferro enferrujado da parede até alcançar a água gelada lá embaixo.
 

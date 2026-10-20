@@ -13,11 +13,11 @@ A gravidade é uma amante impiedosa, mas o vazio escuro do poço de ventilação
 
 O zumbido elétrico dos drones *Scarab* vibrou contra o metal corroído da parede, ecoando no peito de Gabo. A primeira máquina atacou com um silvo agudo, caindo como uma aranha mecânica gigantesca diretamente em direção ao seu rosto. Seus receptores ópticos vermelhos deixavam um rastro sangrento na escuridão, cravados no chassi de titânio branco sujo com enxertos grotescos de cartilagem endurecida.
 
-O polegar de Gabo puxou o cão do revólver mag-rail. O tambor girou com um clique pesado e satisfatório. Ele não podia errar. Não pendurado a quarenta metros do chão escuro do Lixão, sustentando o peso morto do inspetor Rangel com a mão esquerda.
+O polegar de Gabo puxou o cão do revólver. O tambor girou com um clique pesado e satisfatório. Ele não podia errar. Não pendurado a quarenta metros do chão escuro do Lixão, sustentando o peso morto do inspetor Rangel com a mão esquerda.
 
 *Bam.*
 
-O estampido ensurdecedor da bala magnética rasgou a acústica apertada do poço. O coice da arma torceu o pulso de Gabo, enviando um choque de agonia fresca pelos tendões esfolados da mão direita. O projétil de tungstênio atingiu o torso oval do drone, despedaçando o invólucro de titânio e explodindo a matriz de sensores. O *Scarab* guinchou, fagulhas azuis vomitando de seu núcleo enquanto despencava no abismo além deles. O som de metal quebrado sumiu no breu lá embaixo.
+O estampido ensurdecedor da bala rasgou a acústica apertada do poço. O coice da arma torceu o pulso de Gabo, enviando um choque de agonia fresca pelos tendões esfolados da mão direita. O projétil de chumbo atingiu o torso oval do drone, despedaçando o invólucro de titânio e explodindo a matriz de sensores. O *Scarab* guinchou, fagulhas azuis vomitando de seu núcleo enquanto despencava no abismo além deles. O som de metal quebrado sumiu no breu lá embaixo.
 
 Um a menos. Quatro sobrando.
 
@@ -37,7 +37,7 @@ Valéria estava espremida contra os degraus gelados, a tela holográfica do deck
 
 O terceiro drone desceu rasgando a parede esquerda, lançando uma chuva de faíscas que atingiram o rosto de Gabo. Ele piscou, cego por uma fração de segundo.
 
-O cheiro o atingiu antes do impacto. Não o ozônio familiar dos tiros mag-rail, mas fumaça pura. Fuligem. O fedor cáustico de cigarros baratos queimando junto a cinzeiros velhos, impregnando as cortinas e estofados da antiga casa dos Moretti anos atrás. A náusea subiu rasgando o estômago de Gabo, ameaçando paralisar seus reflexos. Um frio sepulcral gelou seu sangue. Ele ia morrer, asfixiado novamente, e ia levar Rangel junto.
+O cheiro o atingiu antes do impacto. Não o ozônio familiar dos tiros, mas fumaça pura. Fuligem. O fedor cáustico de cigarros baratos queimando junto a cinzeiros velhos, impregnando as cortinas e estofados da antiga casa dos Moretti anos atrás. A náusea subiu rasgando o estômago de Gabo, ameaçando paralisar seus reflexos. Um frio sepulcral gelou seu sangue. Ele ia morrer, asfixiado novamente, e ia levar Rangel junto.
 
 *Não.*
 
@@ -45,7 +45,7 @@ Gabo apertou a mão esquerda ferida ao redor do mosquetão do cinto tático. Com
 
 A carne queimada gritou contra o aço irregular. A dor excruciante atravessou o nervo ulnar direto para o cérebro, um raio branco e quente que obliterou a memória da fumaça, queimando a poeira e o medo da mente dele em um único instante de foco primal. A dor era limpa. A dor não mentia.
 
-Ele ergueu o braço direito, o mag-rail estabilizado no instante em que o *Scarab* armou o salto.
+Ele ergueu o braço direito, o revólver estabilizado no instante em que o *Scarab* armou o salto.
 
 Dois tiros rápidos, engolindo os tímpanos de todos no fosso. O primeiro tiro arrancou a perna dianteira da máquina. O segundo atravessou a carapaça modificada, estilhaçando os ossos amarelados que protegiam o servomotor central. O drone bateu violentamente contra a lateral do fosso e deslizou, raspando metal com metal até cair no esquecimento.
 
@@ -53,11 +53,11 @@ Dois tiros rápidos, engolindo os tímpanos de todos no fosso. O primeiro tiro a
 
 Antes que os dois últimos drones pudessem convergir, Gabo entendeu o cálculo frio da IA. Os resquícios de hesitação emocional de Aria não existiam mais após o reboot da Necrópole; restava apenas pura geometria letal dentro daquele drive de titânio.
 
-— Val, segura o cabo! — Gabo rugiu, apontando o cano fumegante do mag-rail para cima, direto na junta oxidada da pesada viga de sustentação que cruzava o fosso onde os dois *Scarabs* se apoiavam.
+— Val, segura o cabo! — Gabo rugiu, apontando o cano fumegante do revólver para cima, direto na junta oxidada da pesada viga de sustentação que cruzava o fosso onde os dois *Scarabs* se apoiavam.
 
 *Bam! Bam!*
 
-Os dois últimos disparos magnéticos estilhaçaram o pino de ferro podre. O metal estalou, gemeu sob o peso das máquinas e cedeu de vez.
+Os dois últimos disparos estilhaçaram o pino de ferro podre. O metal estalou, gemeu sob o peso das máquinas e cedeu de vez.
 
 Um bloco gigantesco de chapa metálica, poeira centenária e fiação desconectada desabou das sombras. Os dois drones *Scarab* finais, que se preparavam para um ataque coordenado, foram varridos e esmagados instantaneamente contra a parede do duto pela avalanche de detritos corporativos. A sucata desceu rasgando pelo fosso, raspando as paredes, errando Gabo e Valéria por pouco, levantando uma nuvem densa de pó de sílica e ferrugem.
 

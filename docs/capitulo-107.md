@@ -111,6 +111,8 @@ Elena estava sentada na borda de um contêiner empilhado, observando o horizonte
 
 Mas ali, eles estavam seguros.
 
+Ela tinha saído da delegacia nos minutos em que todo mundo olhava para a varanda — pela porta dos fundos, com dois geradores de pulso no carrinho de mão e o rádio desligado o caminho inteiro. Ninguém a tinha mandado. Ninguém tinha assinado nada. Era a primeira vez em semanas que ela decidia uma coisa sem pedir licença a Gabo.
+
 Elena estendeu a mão. O ar ao redor dela vibrou.
 
 Ela havia tecido uma teia invisível. Usando os cabos de alta tensão abandonados e geradores de pulso eletromagnético roubados, a célula dos Desconectados criou uma cúpula de "silêncio digital". Nenhum sinal de rádio entrava. Nenhuma câmera funcionava. Para o mundo lá fora, aquele quilômetro quadrado simplesmente não existia.
@@ -135,4 +137,4 @@ Elena sorriu. Um sorriso triste, de quem sabe o preço do que está por vir.
 
 No horizonte, as luzes dos faróis do Rinoceronte surgiram como olhos de um monstro na neblina, cortando a chuva em direção ao porto.
 
-A Linha de Corte havia sido traçada.
+Ela desceu do contêiner e começou a apagar as lamparinas do acampamento, uma por uma, antes que os faróis chegassem perto o bastante para contar quantos eram.

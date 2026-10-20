@@ -133,7 +133,7 @@ Gabo encontrou apoio para os pés, ofegante, o suor frio misturando-se à fulige
 
 A plataforma onde ele estava cedeu com os danos e despencou oitenta andares para a escuridão abaixo, colidindo com o fundo em um estrondo distante.
 
-Gabo olhou para baixo, depois para cima, onde Elena e Valéria o esperavam, ofegantes. Ele começou a subir, um degrau de cada vez. Cada movimento do braço direito era uma tortura. A dor era uma faca quente girando na articulação, e seus dedos ameaçavam se soltar a cada novo apoio. Ele subia principalmente com a força do braço esquerdo e das pernas, o direito servindo apenas como um gancho instável.
+Gabo olhou para baixo, depois para cima, onde Elena e Valéria o esperavam, ofegantes. Ele começou a subir, um degrau de cada vez. Cada movimento do braço direito era uma tortura. A dor era uma faca quente girando na articulação, e o esquerdo já não servia para agarrar: ele enfiava o pulso no degrau e pendurava o peso ali, porque dois dedos daquela mão tinham ficado no apartamento.
 
 — Gabo, você está bem? — gritou Elena, vendo seu progresso lento e doloroso.
 

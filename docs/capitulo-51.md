@@ -39,7 +39,7 @@ Gabo sentiu um gosto amargo na boca. Insulina.
 
 — Isso não é coisa de gangue — murmurou Gabo, examinando os hematomas no pescoço. — Marcas de dedos. Polegares na traqueia. Força bruta, mas aplicada com precisão cirúrgica. Quem fez isso sabia exatamente onde apertar para desligar o cérebro.
 
-— Tem mais — disse Vilar, puxando um tablet holográfico. — As câmeras de segurança da rua pegaram um vulto. Val processou as imagens.
+— Tem mais — disse Vilar, puxando um tablet holográfico. — Uma câmera de farmácia, das que rodam em bateria própria, pegou um vulto. Val processou as imagens.
 
 Ele entregou o tablet a Gabo. O vídeo granulado mostrava "O Farmacêutico" sendo erguido do chão como um boneco de pano por uma figura encapuzada. A figura usava uma capa de chuva pesada, militar. O movimento foi rápido, eficiente. Um golpe nas articulações, uma chave de braço, e o som audível de ossos estalando mesmo sem áudio.
 
@@ -101,29 +101,29 @@ Houve uma pausa do outro lado da linha. O som de teclas sendo digitadas furiosam
 
 — O que foi?
 
-— Eu cruzei os dados. Tem três óbitos na área do Setor 7 nas últimas 24 horas ligados à recusa de fornecimento de insulina desse cara.
+— Eu cruzei os dados. Tem três óbitos na área do Setor 7 na semana em que a sua mãe morreu, todos ligados à recusa de fornecimento de insulina desse cara.
 
 — Nomes, Val.
 
-— Um velho, uma criança... e... Helena Moretti.
+— Um velho, uma criança... e uma mulher de cinquenta e cinco anos, no Setor 7. — A voz de Val falhou. — Helena Moretti.
 
-O mundo de Gabo parou. O som da chuva sumiu. O bater do limpador de para-brisa tornou-se um metrônomo marcando o tempo de um coração que acabara de falhar.
+Gabo ficou muito tempo sem respirar. O som da chuva sumiu, e o bater do limpador de para-brisa virou um metrônomo marcando o tempo de uma coisa que ele já sabia e não tinha nomeado.
 
 — Repita — ele sussurrou.
 
-— Helena Moretti. Endereço registrado: Palafita 402, Beco da Sombra, Setor 7. Óbito registrado pelo Sindicato dos Barqueiros hoje de manhã. Motivo: Coma diabético não tratado.
+— Helena Moretti. Endereço registrado: Rua Vinte e Dois, 402, Setor 7. Óbito registrado pelo Sindicato dos Barqueiros no dia seguinte. Motivo: coma diabético não tratado.
 
 Gabo socou o volante. A buzina gritou, um lamento mecânico que ecoou pela rua vazia. Ele não gritou. A dor era grande demais para som. Era um buraco negro que engolia tudo.
 
-Sua mãe estava viva. Estava. E ele não sabia. E agora ela estava morta por causa de um parasita que ele deveria ter prendido meses atrás.
+Sua mãe estava morta. Ele sabia disso desde o porão, pelo rosto da Val, no dia em que acordou. O que ele não sabia era o nome do homem que tinha dito não — e um nome era uma coisa que ele podia usar.
 
-— E tem mais... — Val continuou, hesitante. — O registro de cremação foi pago por Clara Moretti.
+— E tem mais... — Val continuou, hesitante. — O nome da Clara apareceu num contrato da "Empréstimos O Dourado". Ela assinou alguma coisa, Gabo.
 
 Clara. Sua irmãzinha.
 
 — Onde ela está, Val? — A voz de Gabo era gelo e metal.
 
-— O pagamento foi feito via transferência de crédito de alto risco. A fonte é... "Empréstimos O Dourado". Gabo, isso é agiotagem pesada. Se ela pegou dinheiro com eles...
+— O contrato é de vinte e três mil, assinado quatro dias antes da sua mãe morrer, e a garantia não é imóvel, não é carro, não é nada que se possa penhorar. É a assinatura biológica dela. Gabo, se ela não pagou, esses homens não cobram em dinheiro.
 
 Gabo engatou a primeira marcha. Os pneus cantaram no asfalto molhado.
 

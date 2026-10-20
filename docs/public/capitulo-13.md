@@ -103,7 +103,7 @@ Ele deu as costas e caminhou até Valéria.
 
 — Vamos sair daqui.
 
-Enquanto eles subiam pelo elevador, a risada de Miranda ecoou pelo poço, misturada aos gritos da multidão, até ser silenciada abruptamente.
+Enquanto eles subiam pelo elevador, a risada de Miranda ecoou pelo poço, misturada aos gritos da multidão.
 
 ***
 

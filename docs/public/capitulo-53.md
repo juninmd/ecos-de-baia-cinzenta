@@ -77,11 +77,11 @@ Elena estava lá, organizando mapas físicos sobre uma mesa de bilhar. Dra. Nise
 
 Gabo apontou para o mapa na mesa.
 
-— O Dilúvio não é um acidente natural. É engenharia. As comportas da Represa Norte não falharam. Elas foram abertas.
+— O Dilúvio não é um acidente natural. É engenharia. As comportas do Distrito Baixo não falharam. Alguém abriu as três na ordem que a Val decifrou — e essa ordem não serve para salvar ninguém. Serve para esvaziar o subsolo da Aeterna.
 
 — Quem tem esse poder? — perguntou Dra. Nise.
 
-— Apenas uma pessoa — respondeu Gabo. Ele jogou uma foto na mesa.
+— Aeterna não abre comporta. Comporta é municipal, e comporta aberta é ordem da Prefeitura. — Gabo jogou uma foto na mesa.
 
 Marco Moretti. O Prefeito.
 
@@ -91,7 +91,7 @@ O silêncio na sala foi pesado.
 
 — Ele não é meu irmão — disse Gabo, a voz fria. — Ele é o homem que matou minha mãe para "limpar" a cidade. O plano dele é simples: inundar os Distritos Baixos, matar os "improdutivos", e reconstruir uma cidade de luxo sobre os nossos ossos. É a gentrificação final.
 
-— Precisamos fechar as comportas — disse Glitch. — Mas o sistema é isolado. *Air-gapped*. Não dá pra hackear daqui.
+— Precisamos fechar as comportas — disse Val. — Mas o sistema é isolado. *Air-gapped*. Não dá pra hackear daqui.
 
 — Então vamos até lá — disse Gabo. — Val, preciso que você prepare os drones para criar uma distração cega. Elena, você vai vazar os documentos da Aeterna para a imprensa internacional assim que começarmos. Nise, preciso de estimulantes. Muitos.
 
@@ -121,7 +121,7 @@ Marco derrubou o porta-retratos com um peteleco, quebrando o vidro.
 
 Ele ativou o comunicador em seu ouvido.
 
-— Comandante Kael (reconstruído)?
+— Comandante Kael?
 
 — *Na escuta, senhor* — respondeu uma voz metálica e distorcida.
 

@@ -69,7 +69,7 @@ As criaturas avançaram, um coro de gemidos e metal rangendo.
 
 O túnel explodiu em som e fúria. O primeiro disparo da "Caronte" desintegrou uma das abominações. Mas elas continuavam vindo, indiferentes.
 
-Gabo recarregou no escuro, com os dedos, sem olhar. Cinco cartuchos. Contou duas vezes porque a primeira contagem não fechou, e o medo fazia isso, embolsava números.
+Gabo recarregou no escuro, empurrando os cartuchos com o calcanhar da mão esquerda, porque dois dedos dela não fechavam mais. Cinco cartuchos. Contou duas vezes porque a primeira contagem não fechou, e o medo fazia isso, embolsava números.
 
 — Val, a porta! Agora! — gritou Gabo, recarregando.
 
@@ -83,7 +83,7 @@ O Taxidermista ria, uma cacofonia aguda que cortava o barulho da batalha.
 
 — Magnífico! A luta pela sobrevivência! A pura textura do medo!
 
-De repente, Valéria parou de hackear. Ela se virou, não para a porta, mas para o Taxidermista. Seus olhos de prata, normalmente frios e analíticos, queimavam com uma fúria que Gabo nunca vira.
+De repente, Valéria parou de hackear. Ela se virou, não para a porta, mas para o Taxidermista. Seus olhos azul-gelo, normalmente frios e analíticos, queimavam com uma fúria que Gabo nunca vira.
 
 — Você... — ela sibilou, a voz tremendo de raiva. — Esses atuadores... os circuitos de feedback... são meus.
 
@@ -109,7 +109,7 @@ Gabo se virou para o Taxidermista. O assassino estava parado, admirando a cena.
 
 Mas foi Valéria quem respondeu. Ela parou do outro lado da porta, o rosto contorcido de ódio.
 
-— Isso não é arte! — gritou ela, sua voz ecoando pelo túnel. — Você pegou o meu código, a minha pesquisa para curar paralisia, e transformou nisso? Monstros de Frankenstein movidos a bateria? Você não é um artista. Você é um vírus! E eu sou o antivírus.
+— Isso não é arte! — gritou ela, sua voz ecoando pelo túnel. — Monstros de Frankenstein movidos a bateria não são arte. Você não é um artista. Você é um vírus! E eu sou o antivírus.
 
 Ela digitou um comando final no painel. A porta blindada desceu com o dobro da velocidade, esmagando o braço mecânico de um Lázaro que tentava passar.
 
@@ -119,7 +119,7 @@ Gabo puxou uma granada de fragmentação.
 
 Ele lançou a granada. O Taxidermista arregalou os olhos. Gabo mergulhou sob a porta que se fechava.
 
-A explosão sacudiu as fundações da cidade. O túnel atrás deles colapsou, soterrando a "galeria" e seu criador.
+A explosão sacudiu as fundações da cidade. O túnel atrás deles colapsou, soterrando a "galeria". Do Taxidermista, Gabo não viu nada: nem o avental, nem a chave de fenda, nem um pedaço de osso.
 
 O som entrou em Gabo de lado, um estalo branco que não parava de doer. O ouvido esquerdo fechou. O direito continuou ouvindo o túnel desabar por muito tempo depois de o túnel ter parado de desabar.
 

@@ -12,7 +12,7 @@ Gabriel não foi direto para a porta da frente. Ele sabia que tentar entrar na A
 
 Limusines antigravitacionais deslizavam silenciosamente até a entrada, depositando a elite da cidade para o que parecia ser um evento de gala. O "Baile da Evolução", diziam os outdoors holográficos.
 
-Enquanto ajustava o binóculo, sua visão embaçou por um segundo. Um flash de memória. O cheiro de lavanda e o som suave da caneta de prata no papel.
+Enquanto ajustava o binóculo, sua visão embaçou por um segundo. Um flash de memória. O cheiro de café forte e cigarro mentolado, e o som suave da caneta de prata no papel.
 
 *"Você tem medo de entrar lá, Gabriel?"* A voz da Dra. Cecília Weiss ecoou em sua mente.
 

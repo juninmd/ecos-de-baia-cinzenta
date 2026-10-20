@@ -81,7 +81,7 @@ A garrafa explodiu no ar, a cinco metros de distância, atingida por um disparo 
 
 Não foi Dante quem atirou.
 
-Do alto dos postes de luz ao redor da praça, as câmeras de segurança giraram. Acopladas a elas, pequenos drones de vigilância — que estavam inativos há anos — despertaram. Um deles tinha um cano fumegante.
+Do alto dos postes de luz ao redor da praça, as câmeras de segurança giraram. Acopladas a elas, pequenos drones de vigilância — presos aos postes por cabos de alimentação que ninguém tinha cortado — despertaram. Um deles tinha um cano fumegante.
 
 A multidão recuou, aterrorizada. As luzes da praça piscaram e ficaram vermelhas.
 
@@ -99,7 +99,7 @@ Ele se virou para Gabo.
 
 ***
 
-No porão da biblioteca, o ar era frio e cheirava a papel velho. Dante guiou Gabo por entre as estantes de arquivos mortos até uma sala isolada nos fundos.
+No porão da biblioteca, o ar era frio e cheirava a papel velho. Dante guiou Gabo e Elena por entre as estantes de arquivos mortos até uma sala isolada nos fundos.
 
 Lá dentro, iluminado apenas por uma lâmpada fraca, um homem estava sentado em uma escrivaninha pequena, cercado por montanhas de formulários. Ele escrevia sem parar, sua caneta movendo-se com uma velocidade febril. Sobre uma pilha de documentos finalizados, uma moeda de prata antiga repousava intocada — o único resquício de uma personalidade que costumava deixar tudo ao acaso.
 

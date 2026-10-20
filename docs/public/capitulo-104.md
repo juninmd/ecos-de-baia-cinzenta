@@ -147,8 +147,8 @@ Ele começou a caminhar em direção à viatura de Rangel.
 
 Rangel olhou para Gabo, buscando permissão, buscando sanidade. Gabo apenas assentiu, cansado demais para lutar, aterrorizado demais para intervir.
 
-Enquanto Dante entrava no carro da polícia, Gabo percebeu.
+A viatura deu a volta na praça e sumiu na neblina.
 
-Eles não haviam salvado o homem. Eles haviam trazido algo muito maior, e muito mais perigoso, de volta dos mortos.
+Então a rua acendeu. Não a lâmpada quebrada do poste em frente — o quarteirão inteiro: janelas, vitrines, o letreiro de uma farmácia que estava morto desde o Dilúvio. Depois o quarteirão seguinte, e o outro, e o outro.
 
-O Comissário estava de volta. E Baía Cinzenta nunca mais seria a mesma.
+A luz vinha atrás do carro como uma maré.

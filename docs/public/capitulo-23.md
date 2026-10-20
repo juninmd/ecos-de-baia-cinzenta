@@ -77,7 +77,7 @@ O sorriso de Miranda vacilou.
 
 — Eu? Jamais. Somos parceiros, lembra? Vargas e Moretti. A dupla dinâmica.
 
-— Vargas morreu — disse Gabo. — Você o matou quando vendeu nossa unidade.
+— A Bia morreu — disse Gabo. — Você a matou quando vendeu nossa unidade.
 
 Miranda suspirou. Ele olhou para o braço mecânico.
 
@@ -121,9 +121,7 @@ Miranda cuspiu um dente ensanguentado. Um riso borbulhante escapou de seus lábi
 
 — É a natureza do jogo, Gabo. Alguém sempre tem que perder para que o outro possa ganhar.
 
-Gabo se afastou, o som de seus passos ecoando a finalidade d— Não hoje.
-
-Gabo se virou para sair.
+Gabo se afastou, o som de seus passos ecoando a finalidade da coisa. *Não hoje.*
 
 — Gabo! — A voz de Miranda era um gorgolejo úmido. Ele tossiu sangue preto. — O velho... Dante... ele tentou parar.
 
@@ -138,6 +136,10 @@ Miranda riu, um som que se transformou em um acesso de tosse violenta.
 Ele respirou fundo, o ar chiando nos pulmões perfurados.
 
 — O código... no pescoço do Dante... — Miranda continuou, a voz falhando. — Ele inseriu um erro. Um backdoor. Ele sabia que ia perder a cabeça. Ele queria que alguém desligasse. Ele queria... dormir.
+
+— Desligar como? — perguntou Gabo.
+
+— Se você matar o Dante, você mata a todos nós. — Miranda tossiu, e o riso saiu quebrado no meio. — O código tá no pescoço dele. Sem o velho, a cidade não acorda amanhã. É isso que ninguém te contou, Gabriel. Ser herói aqui é escolher quem morre depois.
 
 Miranda caiu para trás, os olhos fixos no teto sujo do cassino.
 

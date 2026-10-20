@@ -37,7 +37,7 @@ Gabo parou. Ergueu as mãos na altura do peito, a direita ainda suja até o puls
 
 E lá estava ele.
 
-Rangel estava sentado encostado em uma pilha de caixotes, segurando o ombro esquerdo. O uniforme da Tropa de Choque estava rasgado, e uma poça de sangue escuro se formava ao seu redor. Mas em sua mão direita, firme como rocha, ele segurava uma pistola *Série-K* apontada para a porta.
+Rangel estava sentado encostado em uma pilha de caixotes, segurando o ombro esquerdo. O uniforme da Tropa de Choque estava rasgado, e uma poça de sangue escuro se formava ao seu redor. Mas em sua mão direita, firme como rocha, ele segurava o velho revólver de serviço apontado para a porta.
 
 Ele baixou a arma ao vê-los.
 
@@ -89,6 +89,6 @@ O silêncio era o que mais assustava. Não havia o zumbido constante dos servido
 
 — Não — corrigiu Gabo, olhando para a escuridão onde milhões de pessoas agora acordavam livres do controle algorítmico, provavelmente aterrorizadas, mas livres. — Nós a desligamos. Agora ela pode acordar.
 
-Gabo sustentou o tronco pesado de Rangel pelo lado esquerdo. Valéria guardou o pendrive inerte da Aria no estojo blindado e apoiou o inspetor pelo lado direito, mantendo a pistola dele pronta.
+Gabo sustentou o tronco pesado de Rangel pelo lado esquerdo. Valéria guardou o pendrive inerte da Aria no estojo blindado e apoiou o inspetor pelo lado direito, mantendo o revólver dele pronto.
 
 Eles saíram para a chuva fria, deixando as ruínas da Prometeu para trás. Não havia fanfarra, nem vitória gloriosa. Apenas três sobreviventes de carne e osso — e uma inteligência artificial adormecida num cilindro de titânio — mancando na escuridão, enquanto o cheiro de chuva limpa começava, lentamente, a lavar o cheiro de carne queimada.

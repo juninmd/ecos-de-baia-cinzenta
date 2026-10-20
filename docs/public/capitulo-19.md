@@ -96,4 +96,4 @@ Ele pegou sua jaqueta e a arma. O movimento foi brusco, violento.
 
 — O código acabou — disse Gabo, caminhando em direção à saída do túnel, onde a chuva ácida esperava. — Agora é carne e sangue.
 
-Eles deixaram a Zona Morta para trás, mas o silêncio os seguiu. Longe dali, nas profundezas da rede, um servidor antigo despertou de um longo sono, sentindo a aproximação de seus filhos. A contagem regressiva havia começado.
+Eles deixaram a Zona Morta para trás, e o silêncio foi com eles.

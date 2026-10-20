@@ -17,9 +17,9 @@ Ele rolou para a esquerda, escapando por pouco de um arco de fogo que derreteu o
 
 Eram três. Gigantes grotescos, vestidos com restos de armaduras da Tropa de Choque, mas com a carne exposta enxertada diretamente no metal. Não tinham rostos, apenas placas de respiração e visores ópticos rudimentares. Eram ferramentas, não soldados.
 
-— *Cuidado com o fogo, Detetive,* — a voz do Taxidermista ecoou nos alto-falantes, divertida. — *O metano nestas profundezas é... temperamental. Uma faísca errada e todos nós viramos cinzas. Inclusive a minha Obra-Prima.*
+— *Cuidado com o fogo, Detetive,* — a voz do Taxidermista ecoou nos alto-falantes, divertida. — *O metano nestas profundezas é... temperamental. Uma faísca errada e todos nós viramos cinzas. Inclusive a minha Obra-Prima. Por isso as lanças dos meus meninos queimam em câmara selada. A sua escopeta, não.*
 
-Gabo praguejou. Ele não podia usar a escopeta *Caronte*. O recuo já seria um problema com o ombro deslocado, mas o risco de explosão era suicídio. Ele estava em um barril de pólvora com três maçaricos ambulantes.
+Gabo praguejou. Ele não podia usar a escopeta *Caronte*. O recuo já seria um problema com o ombro esmagado pela garra da Quimera, mas o risco de explosão era suicídio. Ele estava em um barril de pólvora com três maçaricos ambulantes.
 
 Ele sacou a faca de cerâmica e empunhou uma barra de torção de aço cirúrgico da bancada com a mão boa. Era ridículo contra lanças térmicas, mas era o que havia.
 
@@ -89,7 +89,7 @@ Gabo girou o braço mecânico semidesconectado do próprio monstro e cravou a po
 
 O terceiro Guardião — o que Gabo havia congelado com nitrogênio — avançou trôpego pela névoa.
 
-— *Alvo três com fissura criogênica nos tendões hidráulicos dos tornozelos. Bisturi laser na mesa dois. Trajetória rasteira* — Aria calculou sem alterar um decibel do tom.
+— *Alvo três com fissura criogênica nos tendões hidráulicos dos tornozelos. Bisturi de alta frequência na mesa dois. Trajetória rasteira* — Aria calculou sem alterar um decibel do tom.
 
 Gabo agarrou o bisturi cirúrgico de alta frequência na bandeja ao lado, deslizou pelo piso molhado de formol sob o arco lento do gigante e talhou as duas mangueiras hidráulicas nos tornozelos exatamente onde o laser do sensor do pendrive apontava. Quando o colosso desabou de joelhos, Valéria disparou um pulso de curto-circuito pelo cabo de teste do deck direto na porta cervical aberta na base do crânio da criatura. O terceiro Guardião desligou instantaneamente.
 

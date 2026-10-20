@@ -9,7 +9,7 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 A porta cedeu os últimos centímetros sozinha.
 
-Não empurrei. Ela simplesmente continuou, puxada por um contrapeso que alguém havia calibrado antes de eu nascer, e o movimento foi tão silencioso que parecia indelicado. Sessenta anos de espera e nenhum rangido. Fiquei ali segurando o volante como um idiota, com sangue escorrendo pela perna e a respiração saindo em nuvens brancas, enquanto quatro metros de chumbo se abriam para mim com a cortesia de um mordomo.
+Não empurrei. Ela simplesmente continuou, puxada por um contrapeso que alguém havia calibrado antes de eu nascer, e o movimento foi tão silencioso que parecia indelicado. Sessenta anos de espera e nenhum rangido. Fiquei ali segurando o volante como um idiota, com sangue escorrendo pela perna e a respiração saindo em nuvens brancas, enquanto meio metro de chumbo se abria para mim com a cortesia de um mordomo.
 
 O que veio de dentro não foi som. Foi ausência de som.
 

@@ -79,7 +79,7 @@ Rangel não acordou. O corpo dele tinha ido para algum lugar onde a dor não che
 
 Ele olhou para a própria mão. Não tremia mais. Isso também era ruim.
 
-Gabo limpou as mãos num pano sujo de graxa. Ele olhou para a bancada eletrônica no canto, onde o pendrive blindado da Aria repousava sobre um pano antiestático, com o polímero negro chamuscado e o LED completamente apagado.
+Gabo limpou as mãos num pano sujo de graxa. Ele olhou para a bancada eletrônica no canto, onde Valéria havia deixado o pendrive blindado da Aria sobre um pano antiestático, com o polímero negro chamuscado e o LED completamente apagado.
 
 — E a Aria? — perguntou, acenando com a cabeça para o drive de titânio.
 
@@ -91,7 +91,7 @@ Valéria limpou a boca e se aproximou da bancada. Ela abriu a carenagem lateral 
 
 — Os barramentos físicos? Sim, se eu conseguir uma ponte de silício nova. O software? — Valéria hesitou, olhando para as trilhas de cobre trincadas dentro do pendrive. — Ela salvou os Drenados absorvendo o pulso sináptico deles pelo barramento. Isso corrompeu os filtros que isolavam o algoritmo tático do substrato neural da Bia. Se eu religar o drive, não sei o que vai falar no nosso ouvido.
 
-Gabo assentiu. Ele se sentou no chão, encostado na mesa onde Rangel respirava superficialmente. Suas mãos ainda tremiam levemente pela descarga de tensão. Ele entrelaçou os dedos, forçando-os a parar.
+Gabo assentiu. Ele se sentou no chão, encostado na mesa onde Rangel respirava superficialmente. As mãos voltaram a tremer, agora que não havia mais nada em que ocupá-las. Ele entrelaçou os dedos, forçando-os a parar.
 
 — Temos tempo — disse ele, fechando os olhos. — O mundo lá fora parou. Pela primeira vez em anos, ninguém está nos caçando.
 

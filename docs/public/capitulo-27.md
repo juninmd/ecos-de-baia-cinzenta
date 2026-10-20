@@ -5,7 +5,7 @@ Localização: "Torre Aeterna, sala de servidores do núcleo (tanque de Dante)"
 ---
 # Capítulo 27: O Filho Sacrifica o Pai
 
-A sala de servidores era um pandemônio. Lasers das torres de defesa cortavam o ar, transformando os racks de metal em queijo suíço. Valéria, com o ombro sangrando, digitava freneticamente em um console, tentando criar uma brecha. Elena a cobria, seus tiros precisos cegando os sensores ópticos de uma torre por vez.
+A sala de servidores era um pandemônio. Lasers das torres de defesa cortavam o ar, transformando os racks de metal em queijo suíço. A primeira torre desceu atirando antes de Valéria alcançar o console, e o ombro dela sangrava desde então; agora ela digitava freneticamente com uma das mãos, tentando criar uma brecha. Elena a cobria, seus tiros precisos cegando os sensores ópticos de uma torre por vez.
 
 O ombro de Valéria tinha virado um mapa. O sangue escorria por dentro da manga e saía pelo punho, e ela digitava com a mão esquerda porque a direita não fechava mais. A cada descarga das torres o cheiro de ozônio engrossava, e por baixo dele vinha o cheiro doce de isolamento queimando.
 
@@ -77,13 +77,13 @@ Gabo caiu de joelhos, o som de seu próprio soluço ecoando na quietude. Ele nã
 
 Ninguém foi até ele. Não por frieza: Valéria estava com as duas mãos ocupadas em manter o ombro fechado, e Elena tinha aprendido, em dois anos de casada e três de guerra, que havia dores em que tocar atrapalhava. Ela ficou de pé a dois passos, com a pistola baixa, montando guarda como se alguém ainda pudesse entrar naquela sala.
 
-Lá fora, as luzes de Baía Cinzenta piscaram uma última vez e se apagaram. A cidade mergulhou na escuridão total.
+Lá fora, as luzes de Baía Cinzenta piscaram uma última vez e se apagaram. O que era da Aeterna morreu primeiro: as torres, os anúncios, os trens parados no trilho.
 
-O último letreiro a apagar foi o do Palácio de Jade, que ninguém desligou naquela noite.
+O último letreiro a apagar foi o do Palácio de Jade, que ninguém desligou naquela noite — o cassino tinha gerador próprio, e o gerador durou mais três minutos.
 
-O Blackout.
+O Blackout tinha começado.
 
-Gabo se levantou, vazio por dentro. A mão direita dele estava cortada de vidro temperado, e ele olhou o corte com o interesse morno de quem já fez as contas e sabe que aquilo não vai matar ninguém hoje. Ele olhou para a janela, para a cidade agora cega.
+Gabo se levantou, vazio por dentro. A mão direita dele estava cortada de vidro temperado, e ele olhou o corte com o interesse morno de quem já fez as contas e sabe que aquilo não vai matar ninguém hoje. Ele olhou para a janela, para os quarteirões que já tinham apagado.
 
 — E agora? — perguntou Elena, a voz suave na escuridão.
 
@@ -91,4 +91,4 @@ Gabo se levantou, vazio por dentro. A mão direita dele estava cortada de vidro 
 
 Ele se virou para as duas. Sua nova família, forjada no fogo e na perda.
 
-— Vamos para casa.
+— Vamos sair deste prédio — disse ele. — Vivos, se der.

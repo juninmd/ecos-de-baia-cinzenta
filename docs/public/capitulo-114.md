@@ -55,9 +55,11 @@ A usina não odiava ninguém. Era o que dava mais medo.
 
 — Meu Deus... — Valéria limpou a boca com as costas da mão, os olhos arregalados de horror. — O Marco... ele dizia que era "reciclagem". Ele chamava isso de "Nova Alvorada".
 
-— É eficiente — Valéria observou, a voz saindo baixa e sem emoção. — A queima de biomassa estabiliza a rede elétrica em picos de consumo. Cada corpo gera aproximadamente 120 kWh. O suficiente para manter um quarteirão de luxo iluminado por uma noite.
+— É eficiente — disse Valéria, e a voz saiu errada, plana, como se o número tivesse tomado o lugar dela por um segundo. Ela ouviu a própria frase e fechou a boca. — A queima de biomassa estabiliza a rede em picos de consumo. Cada corpo gera uns 120 kWh. Dá para manter um quarteirão de luxo aceso a noite inteira.
 
-Gabo rosnou, não por raiva dela, mas pela frieza dos números. Ele tocou o *Caronte* no coldre, sentindo o metal frio contra o quadril. — Onde está o Rangel?
+Gabo rosnou, não por raiva dela, mas pela frieza dos números. Ele tocou o *Caronte* no coldre, sentindo o metal frio contra o quadril.
+
+— Onde está o Rangel?
 
 — *Estou estacionando na doca de manutenção* — a voz de Rangel veio pelo comunicador de Valéria. — Tive que sair rápido antes que os drones de limpeza escaneassem a cabine. Estou indo para a posição de vocês. Cuidado, crianças. O lugar está cheio de "Jardineiros".
 
@@ -85,7 +87,7 @@ Gabo não esperou. Ele disparou. O som do tiro de calibre 12 foi ensurdecedor no
 
 — Isso vai atrair atenção — disse Valéria, já conectando seu deck a um terminal na parede. — Estou tentando acessar o mapa da instalação. O núcleo de resfriamento deve estar no nível inferior.
 
-— Temos que chegar lá antes da janela de 40 minutos do Dante — Gabo recarregou a arma com um movimento seco. — Se ele acordar antes de chegarmos, estamos mortos.
+— Temos que chegar lá antes que ele acorde — Gabo recarregou a arma com um movimento seco. — A Aria sentiu a rede da cidade cair pela metade há vinte minutos. Quarenta, e o relógio já está correndo.
 
 Valéria olhou para o corredor escuro à frente.
 

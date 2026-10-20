@@ -71,6 +71,6 @@ O silêncio desabou sobre eles, denso e sepulcral, quebrado apenas pela respira�
 
 Valéria levantou-se e tentou puxar o pendrive da fenda do terminal, mas recuou os dedos imediatamente com um gemido de dor. Uma fumaça negra e oleosa de borracha, cobre e silício calcinado subia da porta de manutenção. A carcaça de titânio fosco de Aria havia rachado de ponta a ponta pelo calor de quatrocentos graus, e o polímero negro derretera, fundindo o pequeno dispositivo para sempre ao metal da coluna de chumbo como uma solda morta. O indicador luminoso estava negro e cego; nenhum bipe de diagnóstico soava.
 
-Gabo aproximou-se lentamente, suas pernas pesadas de pura fadiga. Ele olhou para o pequeno pendrive carbonizado e fundido na tomada da parede e depois para o corpo monumental e fumegante do Sentinel derrotado. Seu braço decepado latejava num ritmo frenético de dor pura e salvadora.
+Gabo aproximou-se lentamente, suas pernas pesadas de pura fadiga. Ele olhou para o pequeno pendrive carbonizado e fundido na tomada da parede e depois para o corpo monumental e fumegante do Sentinel derrotado. Seu braço fraturado latejava num ritmo frenético de dor pura e salvadora.
 
 Valéria caiu de joelhos diante da coluna, os olhos arregalados refletindo um pânico reprimido no escuro. O último fantasma da cabine telefônica, a inteligência artificial que os guiara pelo inferno subterrâneo e carregava o último eco do passado deles, havia queimado até a última partícula de silício. Eles estavam vivos, mas completamente sozinhos no vazio gelado do Subnível 2.0.

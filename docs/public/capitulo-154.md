@@ -73,7 +73,7 @@ O som foi apocalíptico. O ruído surdo das travas se desengatando ecoou por tod
 
 O lastro gigantesco passou a centímetros dos cabos onde eles estavam pendurados, criando um vácuo momentâneo que quase arrancou Gabo de sua posição. Ele apertou os olhos, esperando o impacto.
 
-A colisão lá embaixo fez o mundo inteiro vibrar. O ruído do concreto esmagado, metal rasgando metal e sensores biônicos guinchando em dor digital subiu do abismo. A onda de choque foi tão forte que balançou os cabos de suspensão descontroladamente, forçando Gabo e Valéria a lutarem brutalmente contra a gravidade para não serem lançados no escuro.
+A colisão lá embaixo fez o mundo inteiro vibrar. O ruído do concreto esmagado, metal rasgando metal e sensores biônicos guinchando em dor digital subiu do abismo. A onda de choque foi tão forte que balançou os cabos de suspensão descontroladamente, forçando Gabo e Valéria a lutarem brutalmente contra a gravidade para não serem lançados no escuro. O antebraço direito de Gabo bateu contra a guia de aço, e ele ouviu o osso estalar antes de sentir.
 
 Quando a poeira de concreto assentou, o silêncio retornou, quebrado apenas pelo chiado de metal retorcido morrendo nas profundezas e pelos zumbidos aleatórios das faíscas que caíam como chuva.
 

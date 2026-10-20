@@ -29,9 +29,9 @@ Ela parou com as mãos mergulhadas na terra. Ficou olhando para os próprios ded
 
 — Há uma inconsistência no registro — ela murmurou. O tom não era o do Modo de Segurança. Era mais lento, quase infantil na hesitação. — O impacto balístico na caixa torácica de Elena Moretti produziu uma interrupção definitiva das funções vitais. A perda material é de cinquenta e quatro quilos de matéria orgânica. No entanto... o processador secundário registra uma queda de rendimento de vinte e um por cento na execução de rotinas simples.
 
-Olhei para a ciborgue. Para o rosto jovem de pele pálida que Dante havia desenhado antes de morrer, onde duas faixas de LED azul estalavam com ruído estático.
+Olhei para a ciborgue. Para o rosto jovem de pele pálida, onde duas faixas de LED azul estalavam com ruído estático.
 
-— Isso se chama luto, Valéria — disse a Dra. Vance, que havia descido da cadeira de rodas improvisada e permanecia em pé, apoiada no parapeito de madeira da doca. — Os engenheiros da Aeterna chamavam de resíduo emocional não quantificável. Tentaram extirpar isso do meu pai durante trinta anos no Think Tank e falharam. Não espere que suas placas de silício lidem melhor com a ausência do que a carne humana.
+— Isso se chama luto, Valéria — disse a Dra. Vance, que permanecia na cadeira de rodas improvisada, apoiada no parapeito de madeira da doca. — Os engenheiros da Aeterna chamavam de resíduo emocional não quantificável. Tentaram extirpar isso do meu pai durante trinta anos no Think Tank e falharam. Não espere que suas placas de silício lidem melhor com a ausência do que a carne humana.
 
 Valéria não respondeu. Fechou os punhos cobertos de terra e saiu da vala com um salto curto, sem olhar para nenhum de nós.
 
@@ -41,7 +41,7 @@ Trouxemos o corpo de Elena enrolado em uma lona de algodão cru, daquelas usadas
 
 Descemos a lona com as cintas de poliéster que sobraram do caminhão de Elias.
 
-Quando a lona assentou no fundo da cova vermelha, a Dra. Vance deu dois passos lentos até a beira. Tirou do bolso do casaco o crachá de repórter de Elena — um pedaço de plástico laminado com uma foto desbotada tirada no saguão da prefeitura, antes de a cidade rachar ao meio.
+Quando a lona assentou no fundo da cova vermelha, a Dra. Vance se aproximou na cadeira de rodas até a beira. Tirou do bolso do casaco o crachá de repórter de Elena — um pedaço de plástico laminado com uma foto desbotada tirada no saguão da prefeitura, antes de a cidade rachar ao meio.
 
 A doutora soltou o crachá. O plástico caiu sem ruído sobre o peito coberto de lona.
 
@@ -77,7 +77,7 @@ Virei as costas para a cova.
 
 O joelho doeu quando forcei a perna direita na subida da rampa, e a pontada no ombro quebrado me lembrou que eu não tinha mais a *Caronte* para me apoiar, nem o pendrive de Aria no bolso para me dar o cálculo da próxima esquina. Eu era apenas um homem manco, com um braço preso na tipóia e uma dívida impagável com os mortos que ficaram pelo caminho.
 
-Mas, pela primeira vez em quinze anos, eu não era o grupo de controle de ninguém.
+Mas, pela primeira vez em vinte e um anos, eu não era o grupo de controle de ninguém.
 
 Entrei no galpão.
 

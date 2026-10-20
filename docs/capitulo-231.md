@@ -15,7 +15,7 @@ Sensor de pressão no barranco do canal, feito com fio de cobre e uma placa de p
 
 Às onze e um a placa de pressão disparou.
 
-Às onze e dois a rede caiu em cima dele e o contrapeso desceu, e duzentos quilos de aço travaram um homem de cento e vinte no cascalho, com os braços presos ao corpo.
+Às onze e dois a rede caiu em cima dele e o contrapeso desceu, e duzentos quilos de aço travaram um homem de oitenta no cascalho, com os braços presos ao corpo.
 
 Funcionou.
 

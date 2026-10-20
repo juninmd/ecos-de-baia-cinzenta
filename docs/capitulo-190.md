@@ -35,7 +35,7 @@ Não havia resposta que servisse, e ela não esperava uma.
 
 — Eles querem a rede de drenagem inteira — falei, o cano fumegante de *Caronte* apontado para o chão, o peso da armação no braço quebrado latejando com o calor acumulado da batalha anterior. As cicatrizes da junção dos nervos queimavam como fogo. — Querem usar a água da chuva e os esgotos pra espalhar esse fungo por cada ralo de Baía Cinzenta.
 
-Lembrei da morte de Bia Vargas na sala do comissariado, lembrei de cada sacrifício inútil desde a queda da Torre do Relógio. Aquela cidade sempre moía corpos pobres para manter os sistemas da elite funcionando.
+Lembrei do corpo de Bia Vargas no necrotério do DPBC, lembrei de cada sacrifício inútil desde a queda da Torre do Relógio. Aquela cidade sempre moía corpos pobres para manter os sistemas da elite funcionando.
 
 — Se isso acontecer, não sobra uma alma viva na superfície — Valéria caminhou até o console de diagnóstico no pé do primeiro pilar, conectando o scanner com as mãos trêmulas de raiva. As telas piscaram com linhas vermelhas de telemetria. — O sistema tá operando no limiar térmico. Cada cérebro desses gera calor biológico absurdo enquanto calcula. A única razão pela qual essa sala inteira não pegou fogo ainda é aquele sistema ali.
 

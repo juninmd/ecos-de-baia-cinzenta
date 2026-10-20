@@ -47,7 +47,7 @@ Gabriel franziu a testa, olhando para a mesa ao lado da sua.
 
 Sentada lá, com os pés sobre uma pilha de processos, estava a Detetive Valéria Cruz.
 
-Cabelo tingido de um rosa químico que brilhava no escuro, jaqueta de couro sintético cheia de patches e olhos... olhos que não eram dela. Próteses óticas de grau militar, violetas e inquietas.
+Cabelo tingido de um rosa químico que brilhava no escuro, jaqueta de couro sintético cheia de patches e olhos... olhos que não eram dela. Próteses óticas de grau militar, azul-gelo e inquietas.
 
 Ela parou de mascar chiclete e sorriu.
 
@@ -93,7 +93,7 @@ A menção de Miranda fez Gabriel trincar os dentes. O traidor estava preso em u
 
 — Apagado?
 
-— Shadowban Nível 5. — Os olhos violetas de Valéria giraram, focando em algo invisível. — A conta dele sumiu. Os backups na nuvem foram corrompidos. Até as menções ao nome dele em outros fóruns estão desaparecendo enquanto conversamos. Alguém está limpando a existência dele da história.
+— Shadowban Nível 5. — Os olhos azul-gelo de Valéria giraram, focando em algo invisível. — A conta dele sumiu. Os backups na nuvem foram corrompidos. Até as menções ao nome dele em outros fóruns estão desaparecendo enquanto conversamos. Alguém está limpando a existência dele da história.
 
 Gabriel pegou a foto do cadáver. Olhos queimados. A boca aberta num grito silencioso.
 

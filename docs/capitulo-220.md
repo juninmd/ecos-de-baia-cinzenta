@@ -173,7 +173,7 @@ Ela desligou o gravador. O silêncio construído voltou a ocupar tudo.
 
 — Não sei se eu aguento mais uma coisa.
 
-— Você aguenta. — Sem crueldade. Sem calor. Uma leitura. — A Dra. Vance não apagou a fita. Ela tinha sessenta anos e autoridade total sobre este arquivo, e a instrução do seu pai continua gravada, arquivada, etiquetada e guardada na estante mais protegida desta instalação.
+— Você aguenta. — Sem crueldade. Sem calor. Uma leitura. — A Dra. Vance não apagou a fita. Ela tinha autoridade total sobre este arquivo, e a instrução do seu pai continua gravada, arquivada, etiquetada e guardada na estante mais protegida desta instalação.
 
 Levantei a cabeça devagar.
 

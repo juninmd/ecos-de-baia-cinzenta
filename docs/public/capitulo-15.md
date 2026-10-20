@@ -19,7 +19,7 @@ Gabriel parou, segurando-a pelos ombros. Ela tremia violentamente, não de frio,
 
 — Eles hackearam você?
 
-— Eu sou o GPS, Gabo. Eu sou a isca. — Ela olhou para ele, e pela primeira vez, Gabriel viu medo real naqueles olhos cibernéticos violetas. O medo de não ser mais dona da própria mente.
+— Eu sou o GPS, Gabo. Eu sou a isca. — Ela olhou para ele, e pela primeira vez, Gabriel viu medo real naqueles olhos cibernéticos azul-gelo. O medo de não ser mais dona da própria mente.
 
 Um estalo seco cortou o ar.
 
@@ -35,7 +35,7 @@ A porta de vidro estilhaçada cedeu, e eles caíram sobre um tapete de cacos e m
 
 — O Gamemaster pausou?
 
-— Não, Gabo. Eu parei. — Ela abriu os olhos. O violeta estava mais escuro, quase negro. — Eu forcei um *overflow* no buffer de transmissão. Estou inundando o canal com lixo. Mas não vai segurar por muito tempo.
+— Não, Gabo. Eu parei. — Ela abriu os olhos. O azul estava mais escuro, quase negro. — Eu forcei um *overflow* no buffer de transmissão. Estou inundando o canal com lixo. Mas não vai segurar por muito tempo.
 
 De repente, ela gritou. Um som agudo, de dor pura, levando as mãos à cabeça.
 
@@ -77,7 +77,7 @@ Ele pegou um galão de fluido de isqueiro de uma prateleira empoeirada. O cheiro
 
 — Saiam, ratos! — gritou o líder da gangue lá fora. — A gente quer a grana! A cabeça de vocês vale dez milhões de créditos!
 
-Gabriel acendeu o isqueiro Zippo. A chama dançou, iluminando seu rosto cansado, realçando as olheiras profundas e a barba por fazer.
+Gabriel acendeu o maçarico de bolso. A chama dançou, iluminando seu rosto cansado, realçando as olheiras profundas e a barba por fazer.
 
 — Val, quando eu disser, você corre para os fundos. Existe uma saída de carga.
 
@@ -85,7 +85,7 @@ Gabriel acendeu o isqueiro Zippo. A chama dançou, iluminando seu rosto cansado,
 
 — Eu vou cancelar a transmissão.
 
-Gabriel jogou o isqueiro.
+Gabriel jogou o maçarico.
 
 *WHOOSH.*
 
@@ -109,7 +109,7 @@ Ele era imenso. Uma montanha de músculos sintéticos e placas de cerâmica bal�
 
 Ele apertou o gatilho. Um jato de fogo líquido cortou a loja, lambendo as botas de Gabriel. O calor foi insuportável, secando instantaneamente a chuva em suas roupas.
 
-Gabriel rolou para trás de uma coluna de concreto. Ele estava encurralado. Sem munição. Sem saída. Apenas fogo e um monstro.
+Gabriel rolou para trás de uma coluna de concreto. Ele estava encurralado. Sem munição no pente. Sem saída. Apenas fogo e um monstro.
 
 Ele olhou para cima. O teto da loja, enfraquecido pela umidade e falta de manutenção, exibia um lustre de cristal maciço — uma relíquia absurda de uma era de ouro esquecida —, pendurado por um único cabo de aço enferrujado.
 

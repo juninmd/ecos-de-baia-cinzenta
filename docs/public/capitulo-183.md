@@ -71,7 +71,7 @@ O homem soltou o ferro no cascalho ensopado, os olhos arregalados de terror por 
 
 — P-piedade... a gente só tava patrulhando o setor...
 
-— Patrulhando o setor caçando carcaça viva, né seu verme? — Valéria se abaixou, arrancando o rádio transmissor analógico preso na gola dele com um puxão seco. — Qual é o caminho limpo pros trilhos subterrâneos do Setor 6? Responde rápido antes que meu dedo canse de segurar o gatilho.
+— Patrulhando o setor caçando carcaça viva, né seu verme? — Valéria se abaixou, arrancando o rádio transmissor analógico preso na gola dele com um puxão seco. — Qual é o caminho limpo pros trilhos subterrâneos do Setor 7? Responde rápido antes que meu dedo canse de segurar o gatilho.
 
 — O... o túnel de carga da têxtil! — o homem gaguejou, o ar saindo em silvos pela válvula da máscara. — A duzentos metros à esquerda, atrás dos silos de armazenamento de grãos. O portão tá arrombado, mas... tem coisa viva lá embaixo! Raízes azuis! Elas pegaram o nosso grupo de reconhecimento ontem!
 

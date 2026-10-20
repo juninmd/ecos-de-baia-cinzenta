@@ -79,7 +79,7 @@ Valéria encarava a tela com as sobrancelhas franzidas, a luz do monitor refleti
 
 — O Arquivo Executivo?
 
-— Não — ela virou o rosto para mim, os filamentos de LED azul na franja piscando devagar, tensos. — Abaixo do Arquivo Executivo. Bem abaixo. Um setor chamado *Arca Zero*. O lugar onde o pai do Arthur Vance guardou os protótipos originais antes da cidade virar esse poço de lodo.
+— Não — ela virou o rosto para mim, os filamentos de LED azul na franja piscando devagar, tensos. — Abaixo do Arquivo Executivo. Bem abaixo. Um setor chamado *Arca Zero*. O lugar onde Arthur Vance guardou os protótipos originais antes da cidade virar esse poço de lodo.
 
 Olhei para a escuridão do corredor técnico que se abria atrás da sala de controle. O caminho não subia para a superfície; descia para os alicerces mais profundos e esquecidos de Baía Cinzenta.
 

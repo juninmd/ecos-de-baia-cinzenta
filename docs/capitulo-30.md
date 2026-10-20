@@ -65,7 +65,7 @@ Gabo, lutando contra a inconsciência, viu o cabo de energia solto dançando per
 
 Com um último esforço titânico, ele pegou o cabo vivo com a mão enluvada e o pressionou contra o pescoço metálico de Kael.
 
-O cheiro de ozônio, metal queimado e carne cozida encheu o corredor. O Cirurgião teve uma última convulsão violenta e tombou para o lado, estático e morto.
+O cheiro de ozônio, metal queimado e carne cozida encheu o corredor. O Cirurgião teve uma última convulsão violenta e tombou para o lado, estático. O peito dele subiu uma vez. Depois outra. Gabo ficou olhando aquilo sem entender o que estava vendo: o homem que ia matá-lo tinha voltado a respirar, e ele não tinha perna para terminar o serviço. Então o teto começou a cair, e a decisão foi tomada por ele.
 
 Valéria correu até Gabo, o rosto pálido de horror ao ver o estado da perna dele.
 

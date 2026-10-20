@@ -115,6 +115,10 @@ Elena virou o corpo inteiro no banco.
 
 — Eu estou dizendo que aquilo foi **operado**.
 
+— O rádio da polícia disse falha estrutural — falou Elena. — Eu ouvi o Vilar dizer isso antes de a gente entrar na avenida. Falha estrutural crítica, ruptura em quatro horas.
+
+— Falha estrutural não toca alarme de abertura — disse o homem. — E não abre três comportas em sequência. Eu estava na sala de controle quando a de Leste subiu, moça. Tinha gente ali que não devia estar.
+
 Valéria parou de mexer no deck.
 
 E Gabo, com as duas mãos no volante e um rio no lugar da avenida, sentiu a coisa fria e conhecida se instalar no estômago — a mesma coisa que ele sentia quando um caso deixava de ser tragédia e virava crime.
@@ -135,6 +139,6 @@ E, muito ao longe, atrás da cortina de chuva, a silhueta do Distrito Alto — s
 
 Ele engatou a marcha e o Cobalt subiu a rampa do viaduto com dezoito pessoas dentro e a água mordendo os pneus traseiros até o último metro.
 
-Atrás deles, o Distrito Baixo — o bairro onde Gabo nasceu, onde a mãe dele ainda estava, onde ficava a pizzaria dos Rossi e a catedral do Padre Miguel e o barraco setenta e um da Vila do Porto Velho — desapareceu debaixo de dois metros de água em três horas e onze minutos.
+Atrás deles, o Distrito Baixo — o bairro onde Gabo nasceu, onde a mãe dele tinha criado três filhos, onde ficava a pizzaria dos Rossi e a catedral do Padre Miguel e o barraco setenta e um da Vila do Porto Velho — desapareceu debaixo de dois metros de água em três horas e onze minutos.
 
 E o alarme tinha tocado.

@@ -11,13 +11,13 @@ A seiscentos quilômetros acima de Baía Cinzenta, no silêncio absoluto do vác
 
 O satélite não tinha nome oficial nos registros — apenas uma designação alfanumérica que ninguém fora dos níveis mais altos da corporação conhecia. Mas os engenheiros que o construíram, trabalhando em turnos de dezesseis horas em bunkers subterrâneos, o chamavam de "Martelo de Deus". E quando olhavam para os esquemas, suas mãos tremiam.
 
-Era uma plataforma de lançamento cinético. Não havia ogivas nucleares a bordo — radiação era difícil de limpar, ruim para os negócios de reconstrução. Apenas cilindros de tungstênio puro, de dez toneladas cada, alinhados em silos como cartuchos em um revólver cósmico.
+Era uma plataforma de lançamento cinético. Não havia ogivas nucleares a bordo — radiação era difícil de limpar, ruim para os negócios de reconstrução. Apenas cilindros de tungstênio puro, de nove toneladas cada, alinhados em silos como cartuchos em um revólver cósmico.
 
 A física era simples. Brutal. Elegante.
 
 Solte um cilindro de tungstênio de seiscentos quilômetros de altura. A gravidade faz o resto. Quando atinge o solo, a energia cinética libera o equivalente a uma bomba atômica tática. Sem radiação. Sem fallout. Apenas força pura. Destruição limpa.
 
-Vinte cilindros. Vinte distritos.
+Três cilindros. Três alvos.
 
 O "Consórcio Lázaro" — o grupo anônimo de investidores trilionários e IAs financeiras que controlavam a Aeterna desde as sombras — havia votado. A deliberação durou exatamente 0.003 segundos, tempo suficiente para os algoritmos analisarem os dados de produtividade, calcular os custos de contenção e chegar à conclusão óbvia.
 
@@ -177,6 +177,4 @@ Gabo ergueu a *Caronte*.
 
 — Marco, se você ainda está aí dentro... me perdoa.
 
-A batalha final pela alma da cidade tinha começado.
-
-E Gabo sabia, com a certeza de quem já perdeu tudo duas vezes, que nem todos eles sairiam vivos daquela sala.
+O Santo deu o primeiro passo, e o piso do Hub rachou debaixo da bota.

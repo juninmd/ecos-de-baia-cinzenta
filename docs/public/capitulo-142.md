@@ -49,7 +49,7 @@ As carapaças de titânio branco outrora limpas estavam agora cravadas de farpas
 
 — Ele os infectou! — Valéria murmurou com horror genuíno, colando as costas na grade da escada enquanto tentava manter o cabo de fibra conectado ao deck. — O Taxidermista está usando a infraestrutura do andar de cima. Eles são como... cães de guarda autônomos parasitas!
 
-— Aria, consegue travar a frequência deles pelo deck da Val?! — Gabo cobrou, sacando o pesado revólver mag-rail do coldre com a mão esquerda ensanguentada.
+— Aria, consegue travar a frequência deles pelo deck da Val?! — Gabo cobrou, sacando o pesado revólver do coldre com a mão esquerda ensanguentada.
 
 — *A criptografia deles é híbrida, mesclando pulsos analógicos com reflexos neuromusculares enxertados,* — respondeu a IA pelo alto-falante, o corpo do pendrive esquentando contra a luva de Valéria. — *Posso modular uma rajada de ruído branco pelo transmissor do Phantom V3 para desorientar os sensores ópticos por curtos intervalos, mas a neutralização definitiva exigirá impacto cinético.*
 

@@ -61,4 +61,4 @@ Valéria olhou para o garoto, as sobrancelhas erguidas em surpresa genuína.
 
 Apertei a empunhadura da *Caronte* com os dedos enluvados da mão de sucata. A dor que latejava no ombro era o combustível que eu precisava: mantinha a mente acordada, límpida, afastando os fantasmas do passado com o peso frio do presente.
 
-— Vamos nos mover, — avisei, indicando o corredor leste com o cano da arma. — A cidade pode ter nos jogado neste túmulo de gelo, mas nós ainda temos munição e ferramentas pra abrir a saída na base do impacto.
+— Vamos nos mover, — avisei, indicando o corredor leste com o cano da arma. — A cidade pode ter nos jogado neste túmulo de gelo, mas nós ainda temos munição e ferramentas pra abrir a saída.

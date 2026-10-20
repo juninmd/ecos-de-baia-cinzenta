@@ -16,7 +16,7 @@ characters: ["Gabo", "Valéria", "Aria"]
 
 # Capítulo 159: Servidores de Carne e Silício
 
-O Subnível 3.0 não era mais um mito. Era um matadouro com ar-condicionado.
+O Subnível 3.0 era um matadouro com ar-condicionado.
 
 Enquanto Gabo puxava o próprio peso para fora do túnel estilhaçado, o choque térmico quase o nocauteou. Depois do calor vulcânico da explosão do vagão, o ar aqui em cima era denso, resfriado artificialmente, e carregava um odor estéril de ozônio misturado ao inconfundível cheiro adocicado de cobre e sangue velho.
 

@@ -27,7 +27,7 @@ O zumbido hidráulico da minha órtese esquerda ecoava na vastidão. Um protesto
 
 Elias assentiu freneticamente, as mãos trêmulas agarradas às alças da mochila. O rapaz escorregou em uma chapa de liga de alumínio corroída, soltando um arquejo mudo e se apoiando no chassi de um autômato estripado. A carcaça rangeu sob seu peso, e ele saltou para trás como se tivesse tocado em ferro em brasa.
 
-Vinte e dois anos. Pálido. Olhos arregalados de quem nunca deveria ter descido abaixo do mezanino das corporações. Era a única medida honesta de sanidade que nos restava no grupo: quando Elias entrava em pânico, é porque a situação era realmente desesperadora.
+Trinta e oito anos. Pálido. Olhos arregalados de quem nunca deveria ter descido abaixo do mezanino das corporações. Era a única medida honesta de sanidade que nos restava no grupo: quando Elias entrava em pânico, é porque a situação era realmente desesperadora.
 
 — Tem certeza de que... de que não tem nada aqui? — gaguejou o garoto, limpando o suor frio da testa com a manga suja de graxa. — Está tudo tão quieto...
 

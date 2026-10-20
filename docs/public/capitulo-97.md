@@ -43,7 +43,7 @@ Ele chegou ao parque onde a Val tinha caído.
 
 Havia uma figura lá.
 
-Não era estátua, embora todo mundo já estivesse chamando assim. Era ela — uma mulher de vinte e cinco anos, ajoelhada, com as duas pistolas nas mãos, o braço direito estendido e o esquerdo dobrado contra o peito, o rosto virado para o túnel.
+Não era estátua, embora todo mundo já estivesse chamando assim. Era ela — uma mulher de vinte e três anos, ajoelhada, com as duas pistolas nas mãos, o braço direito estendido e o esquerdo dobrado contra o peito, o rosto virado para o túnel.
 
 O tecido tinha endurecido no meio do processo. A superfície era de madeira petrificada, cinza-clara, com veio.
 
@@ -51,7 +51,7 @@ Dava para ver o cordão do crachá dela. Dava para ver a marca da costura do mol
 
 Vilar estava lá, agachado, colocando uma flor aos pés dela.
 
-Uma margarida branca. Comum. Nascida sozinha numa rachadura da calçada da Rua Nove, a primeira flor normal que alguém tinha visto em Baía Cinzenta desde março.
+Uma margarida branca. Comum. Nascida sozinha numa rachadura da calçada da Rua Nove, a primeira flor normal que alguém tinha visto em Baía Cinzenta desde novembro.
 
 Ele levou onze minutos escolhendo qual arrancar.
 
@@ -103,6 +103,8 @@ Ele olhou para a própria mão.
 
 A infecção tinha morrido junto com o resto — o Código Morto não fez distinção nenhuma, e por trinta e nove segundos, no fundo daquele bunker, Gabriel Moretti sentiu cada célula tomada dentro do corpo dele apagar ao mesmo tempo.
 
+O Arquivista tinha dito que o operador morria. Nise, uma semana depois, tinha uma correção que não servia de consolo: o Código Morto apagava a parte da pessoa que era Raiz, não a pessoa. Nele, essa parte era um braço. Aria era toda Raiz. Nos quarenta e um mil do túnel, era quase tudo — e era por isso que eles continuavam respirando devagar no escuro, com atividade cerebral e nenhuma instrução.
+
 O que sobrou foi uma cicatriz.
 
 Uma linha preta ramificada que subia da palma da mão esquerda, pelo pulso, pelo antebraço, até desaparecer na manga na altura do bíceps. Não doía. Não coçava. Não crescia.
@@ -113,11 +115,13 @@ Nise tinha dito que era pigmento residual e que ia clarear em dez anos.
 
 Não clareou nunca.
 
+Na palma direita, no lugar do corte que ele mesmo tinha feito na Torre, havia uma marca redonda e lisa, do tamanho de uma moeda, que não tinha traçado de raiz nenhum e que ele nunca mostrou a ninguém.
+
 ---
 
 — E agora? — perguntou Vilar.
 
-Ele estava olhando a cidade lá embaixo, do alto do parque, com as duas mãos — a de carne e a de metal queimado — apoiadas no parapeito.
+Ele estava olhando a cidade lá embaixo, do alto do parque, com a mão de carne e o toco de metal apoiados no parapeito.
 
 — Sem IA. Sem Gamemaster. Sem Jardim. A Aeterna acabou. O Consórcio acabou. O governo acabou faz onze meses e ninguém sentiu falta. — Ele deu de ombros. — Somos nós e o entulho.
 

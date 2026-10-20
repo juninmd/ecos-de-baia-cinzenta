@@ -55,7 +55,7 @@ O alívio na pressão do joelho foi instantâneo. A tensão que repuxava meu qua
 
 — O meu tio usava uma igualzinha quando perdeu a perna nas prensas da Doca Seca — ela se levantou, limpando a ferrugem dos dedos na perna da calça. — Ele vivia reclamando que a polícia recebia equipamento de segunda linha que travava toda vez que chovia. Parece que vinte anos depois a corporação continuou economizando no mesmo fornecedor vagabundo.
 
-Olhei para o horizonte em direção ao norte. Entre a névoa amarelada do smog, destacavam-se os arcos de aço monumental da Estação Ferroviária do Setor 6. As vigas enferrujadas subiam como as costelas de uma baleia encalhada no meio da cinza.
+Olhei para o horizonte em direção ao norte. Entre a névoa amarelada do smog, destacavam-se os arcos de aço monumental da Estação Ferroviária do Setor 7. As vigas enferrujadas subiam como as costelas de uma baleia encalhada no meio da cinza.
 
 — É pra lá que a gente tem que ir — apontei com a mão de metal pesada. — O complexo hidropônico fica logo abaixo daquela estação terminal. Se o Silas Vance deixou servidores secundários ativos, eles tão alimentando a malha subterrânea a partir da subestação de lá.
 

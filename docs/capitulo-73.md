@@ -107,7 +107,7 @@ Miranda deixou. Foi vaidade, e foi a última que ele teve.
 
 Gabo tirou o isqueiro.
 
-Era um Zippo de latão gasto, sem gravação, com a dobradiça folgada — o isqueiro que Dante Moretti carregou por trinta anos sem nunca ter fumado um cigarro na vida, porque servia para acender vela, fogão e caldeira, e porque um homem devia ter no bolso alguma coisa que funcionasse sem bateria.
+Era um Zippo de latão gasto, sem gravação, com a dobradiça folgada — o isqueiro que Dante Moretti carregou por trinta anos, porque servia para acender vela, fogão e caldeira, e porque um homem devia ter no bolso alguma coisa que funcionasse sem bateria.
 
 — *Fogo* — disse Gabo.
 

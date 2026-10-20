@@ -133,4 +133,4 @@ Silas gritou enquanto era drenado, sua biomassa sendo sugada para fortalecer o n
 
 — Corra — disse Gabo, sem tirar os olhos da coisa que vestia o rosto de seu pai. — Não pare até ver o sol.
 
-A "Convergência" havia começado. E não era nada do que eles esperavam.
+Atrás deles, o vidro estalou sob os pés descalços do novo Dante. Ele vinha andando sem pressa, e as raízes negras se fecharam atrás dele como uma porta.

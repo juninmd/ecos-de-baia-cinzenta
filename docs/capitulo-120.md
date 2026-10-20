@@ -3,7 +3,7 @@
 - **Data In-Game:** 23 de Novembro, 00:15
 - **Localização:** Distrito Industrial - Perímetro Externo da Usina Prometeu
 - **Personagens Presentes:** Gabo Moretti, Valéria Cruz, Inspetor Rangel, Aria (Inerte).
-- **Foco:** O grupo enfrenta a realidade brutal de uma cidade sem energia e sem lei. Rangel sucumbe aos ferimentos. Gabo utiliza habilidades analógicas para garantir um meio de transporte e manter a coesão do grupo em meio ao caos silencioso.
+- **Foco:** O grupo enfrenta a realidade brutal de uma cidade sem energia e sem lei. Rangel luta contra os ferimentos. Gabo utiliza habilidades analógicas para garantir um meio de transporte e manter a coesão do grupo em meio ao caos silencioso.
 
 ## Narrativa
 
@@ -11,7 +11,7 @@
 
 A chuva não era mais apenas água. Era um véu frio que lavava o pecado da cidade, transformando a fuligem em lama negra sob suas botas.
 
-Gabo ajustou o peso de Rangel sobre seu ombro. O Kevlar ensanguentado do inspetor estava escorregadio. Do outro lado, Valéria ofegava, o cabelo colado no rosto, lutando para sustentar o braço direito do policial enquanto o pendrive inerte da Aria ia guardado no bolso blindado do sobretudo de Gabo. Eles eram um cortejo fúnebre recusando-se a aceitar o cadáver, arrastando um homem ferido pela avenida deserta.
+Gabo ajustou o peso de Rangel sobre seu ombro. O Kevlar ensanguentado do inspetor estava escorregadio. Do outro lado, Valéria ofegava, o cabelo colado no rosto, lutando para sustentar o braço direito do policial enquanto o pendrive inerte da Aria ia guardado no bolso blindado do sobretudo de Gabo. Eles eram um cortejo fúnebre recusando-se a aceitar o pior, arrastando um homem ferido pela avenida deserta.
 
 Mas o que realmente pesava não era apenas o corpo de Rangel. Era o silêncio.
 
@@ -49,7 +49,7 @@ Ele abriu os olhos. Focou.
 
 — Nem todos — Gabo caminhou até a grade de um pátio de manutenção municipal do outro lado da rua. O portão eletrônico estava morto, entreaberto.
 
-Lá dentro, entre fileiras de veículos de limpeza autônomos e drones de carga inoperantes, havia algo diferente. Um caminhão de reboque, antigo, com manchas de ferrugem e pneus borrachudos. Um modelo "Toupeira" de tração, anterior à Lei de Ar Limpo de 2045.
+Lá dentro, entre fileiras de veículos de limpeza autônomos e drones de carga inoperantes, havia algo diferente. Um caminhão de reboque, antigo, com manchas de ferrugem e pneus borrachudos. Um modelo de tração, anterior à Lei de Ar Limpo de 2045.
 
 — Combustão interna — Gabo murmurou, pulando a grade.
 
@@ -69,7 +69,7 @@ Gabo sorriu. Um sorriso triste, de canto de boca.
 
 — Valéria, me ajuda a colocar o Rangel na cabine.
 
-O transporte foi brutal e rápido. Valéria e Gabo ergueram o inspetor ferido para o banco do carona; Rangel tombou contra o encosto, segurando a pistola no colo com os olhos semicerrados, enquanto Valéria se espremia no assento central e espetava o pendrive chamuscado da Aria no seu deck para monitorar a temperatura do núcleo.
+O transporte foi brutal e rápido. Valéria e Gabo ergueram o inspetor ferido para o banco do carona; Rangel tombou contra o encosto, segurando o revólver no colo com os olhos semicerrados, enquanto Valéria se espremia no assento central e espetava o pendrive chamuscado da Aria no seu deck para monitorar a temperatura do núcleo.
 
 Gabo assumiu o volante. A vibração do motor percorria seus braços, uma sensação tátil, real, mecânica. Sem assistência de direção, sem navegação por satélite, sem limitador de velocidade.
 

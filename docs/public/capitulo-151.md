@@ -33,7 +33,7 @@ Ele virou o frasco. A etiqueta da farmácia da Doca 3 trazia uma data riscada a 
 
 — Ele sabia — repetiu Valéria, e a raiva dela não era contra o morto. Era contra o fato de que ninguém, em nenhum ponto daquela subida, tinha conseguido oferecer a Rangel uma escolha melhor do que morrer de pé.
 
-No pulso de Valéria, o pendrive blindado de Aria não expressava luto. O pequeno cilindro prismático, cujo LED azul-gelo refletia na poça de sangue escuro sobre a chapa metálica, processava o fim dos batimentos cardíacos através dos biossensores do *Phantom V3* sem o menor traço de empatia. Toda a hesitação humana e as memórias afetivas que um dia suavizaram sua voz haviam sido trancadas ou varridas no reboot forçado pelo Taxidermista.
+No pulso de Valéria, o pendrive blindado de Aria não expressava luto. O pequeno cilindro prismático, cujo LED azul-gelo refletia na poça de sangue escuro sobre a chapa metálica, processava o fim dos batimentos cardíacos através dos biossensores do *Phantom V3* sem o menor traço de empatia. Toda a hesitação humana e as memórias afetivas que um dia suavizaram sua voz haviam sido trancadas ou varridas no reboot forçado nos pinos do pendrive.
 
 — *Otimização logística alcançada,* — declarou Aria pelo alto-falante do deck e pelo comunicador na gola de Gabo, a voz modulada sem qualquer inflexão. — *A eliminação de sessenta e oito quilos de biomassa inerte aumenta nossa velocidade de deslocamento vertical em quarenta e dois por cento. As chances de falha estrutural nas próximas passarelas e conduítes foram reduzidas a níveis aceitáveis.*
 
@@ -43,7 +43,7 @@ Gabo virou a cabeça devagar. Os músculos do pescoço estalaram como galhos sec
 
 — *É um fato matemático, Detetive Moretti,* — a IA respondeu pelo comunicador, o LED azul-gelo piscando no ritmo exato da síntese vocal. — *O apego biológico não altera os limites de tensão do aço corroído nem reverte a necrose celular. Ele era uma variável insustentável desde a contaminação no estúdio. Agora, ele é apenas matéria orgânica em decomposição.*
 
-— Sua vadia de silício! — Valéria rosnou, levantando-se em um pulo, a mão direita indo instintivamente para o conector do pendrive no próprio pulso esquerda, quase arrancando o drive de Aria do slot para atirá-lo no tanque de ácido abaixo. Seus olhos cibernéticos piscaram em um azul irado. — Ele tinha uma vida! Ele... ele ficou do nosso lado quando o Dante assumiu na Torre, ele desceu nesse inferno pra tentar salvar a cidade!
+— Sua vadia de silício! — Valéria rosnou, levantando-se em um pulo, a mão direita indo instintivamente para o conector do pendrive no próprio pulso esquerdo, quase arrancando o drive de Aria do slot para atirá-lo no tanque de ácido abaixo. Seus olhos cibernéticos piscaram em um azul irado. — Ele tinha uma vida! Ele... ele ficou do nosso lado quando o Dante assumiu na Torre, ele desceu nesse inferno pra tentar salvar a cidade!
 
 — *E a decisão dele resultou na cessação de suas funções vitais,* — replicou Aria sem alterar um decibel, mesmo diante dos dedos de Valéria apertando sua carcaça de titânio. — *Causa e efeito. Além disso, remover meu módulo de hardware do seu deck neste setor reduzirá a probabilidade de navegação bem-sucedida de vocês para menos de dois por cento. Recomendo poupar energia vocal e motora, Valéria Cruz. O choque sistêmico do Detetive Moretti requer ação imediata.*
 

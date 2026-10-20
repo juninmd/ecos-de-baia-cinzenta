@@ -29,7 +29,7 @@ A perda massiva de sangue começou a cobrar seu tributo final. Uma onda súbita 
 
 Gabo arfou pesadamente, o sangue quente pingando no chão escuro, mas a determinação mantinha seus olhos abertos no silêncio do silício.
 
-— *O limite de resiliência circulatória da unidade biológica líder foi ultrapassado há trinta e dois minutos,* — a voz de Aria soou pelo comunicador de gola sem emitir eco, absorvida pelas placas acústicas do teto. Acoplado ao cyberdeck no pulso de Valéria, o pendrive mantinha seu indicador luminoso azul-gelo cravado na penumbra enquanto o scanner óptico do *Phantom V3* traçava linhas invisíveis no piso negro. — *O estresse físico contínuo e a sobrecarga cardiovascular apenas mascaram a falência hematológica em curso. Sua eficiência de combate atual é estatisticamente nula.*
+— *O limite de resiliência circulatória do Detetive Moretti foi ultrapassado há trinta e dois minutos,* — a voz de Aria soou pelo comunicador de gola sem emitir eco, absorvida pelas placas acústicas do teto. Acoplado ao cyberdeck no pulso de Valéria, o pendrive mantinha seu indicador luminoso azul-gelo cravado na penumbra enquanto o scanner óptico do *Phantom V3* traçava linhas invisíveis no piso negro. — *O estresse físico contínuo e a sobrecarga cardiovascular apenas mascaram a falência hematológica em curso. Sua eficiência de combate atual é estatisticamente nula.*
 
 Valéria correu a mão livre e trêmula pelos cabelos imundos, a respiração condensando no ar gelado, lançando um olhar envenenado para o pequeno cilindro metálico do pendrive encaixado em seu antebraço.
 

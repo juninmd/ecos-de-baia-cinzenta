@@ -133,7 +133,9 @@ Eram os olhos que ele tinha visto, dois dias antes, num mezanino de agência ban
 
 Era o Jardineiro.
 
-— Silas Vance — disse Gabo, para o teto, e o nome saiu inteiro sem que ele soubesse de onde tinha vindo, e essa foi a coisa mais assustadora da noite.
+— Silas Vance — disse Gabo, para o teto.
+
+O nome não era novo. Tinha entrado na cidade por um rádio, meses antes, na voz de Arthur Vance chamando o filho pelo nome completo, e Gabo tinha ouvido aquilo de pé num pátio cheio de gente morta sem entender o que era. Entendeu agora, com a mão ainda quente da parede, e a parte assustadora não foi lembrar: foi lembrar com a certeza de quem acabou de ser informado.
 
 ---
 

@@ -7,7 +7,7 @@ Localização: "Usina Geotérmica Prometeu — Corredores do Subnível 4 → Pas
 
 O mundo explodiu em branco.
 
-Não foi um flash de luz, mas de som e temperatura. Quando a carga da *Caronte* rasgou a tubulação principal de vapor, a física assumiu o comando. A pressão de mil atmosferas, contida por décadas em encanamentos de ferro-gusa, encontrou uma saída. O rugido foi o de um titã despertando, alto o suficiente para fazer os dentes de Gabo vibrarem no crânio.
+Não foi um flash de luz, mas de som e temperatura. Quando a carga da *Caronte* rasgou a tubulação principal de vapor, a física assumiu o comando. A pressão de dezenas de atmosferas, contida por décadas em encanamentos de ferro-gusa, encontrou uma saída. O rugido foi o de um titã despertando, alto o suficiente para fazer os dentes de Gabo vibrarem no crânio.
 
 — *AGORA!* — ele rugiu, mas sua voz foi engolida pelo caos. Ele agarrou o braço de Valéria, puxando-a para baixo.
 
@@ -76,8 +76,6 @@ Valéria olhou para Gabo, os olhos arregalados manchados de graxa e fuligem.
 Gabo olhou para baixo, para o abismo de máquinas e "processadores" humanos. E então olhou para frente, onde uma porta blindada maciça exibia o símbolo de risco de radiação e a inscrição: NÚCLEO DE RESFRIAMENTO.
 
 O relógio mental de Gabo tiquetaqueava. A janela de vulnerabilidade térmica de Dante estava se fechando. Se eles voltassem para a Doca, perderiam a chance de sabotar o núcleo. Se seguissem em frente, Rangel provavelmente morreria.
-
-Era uma escolha impossível, versão hardboiled.
 
 — Gabo! — Valéria insistiu.
 

@@ -125,7 +125,7 @@ Elena veio, sentou no chão do meu lado, pegou a pasta da minha mão e abriu ela
 
 — O quê?
 
-— Olha o despacho no rodapé. — Eu estava olhando para o chão. — Eles sabiam que eu tinha pegado o pendrive na cabine telefônica na enchente, Elena. E decidiram **não recolher**. Está escrito na ficha da nossa mãe: *perda não programada, ambiental.* E está escrito no anexo da Aria: *manter o hardware em posse do sujeito para observar resposta comportamental sob suporte tático híbrido.* Eles tinham vocabulário para a morte da nossa mãe na água e tinham protocolo para o pendrive no meu bolso. Eles tinham um **campo no formulário**.
+— Olha o despacho no rodapé. — Eu estava olhando para o chão. — Eles sabiam que eu tinha pegado o pendrive na cabine telefônica na enchente, Elena. E decidiram **não recolher**. Está escrito na ficha da minha mãe: *perda não programada, ambiental.* E está escrito no anexo da Aria: *manter o hardware em posse do sujeito para observar resposta comportamental sob suporte tático híbrido.* Eles tinham vocabulário para a morte da minha mãe na água e tinham protocolo para o pendrive no meu bolso. Eles tinham um **campo no formulário**.
 
 Elena não disse nada. Só apertou a pasta com mais força.
 
@@ -145,7 +145,7 @@ Era:
 
 **EM CAMPO — NÃO COLETAR — GRUPO DE CONTROLE**
 
-E abaixo, a rubrica. A mesma de sempre. Renovada a cada exercício, sessenta vezes, sessenta linhas, sessenta anos de um homem sentando numa cadeira uma vez por ano para reconfirmar, de próprio punho, que eu devia continuar solto.
+E abaixo, a rubrica. A mesma de sempre. Renovada a cada exercício, vinte e uma vezes, vinte e uma linhas, vinte e um anos de um homem sentando numa cadeira uma vez por ano para reconfirmar, de próprio punho, que eu devia continuar solto.
 
 *V. KRELL. V. KRELL. V. KRELL.*
 
@@ -195,7 +195,7 @@ Eu ri. Saiu quebrado.
 
 — Ele me manteve vivo.
 
-— Ele te manteve **medível**, — corrigiu a Vance. — Não é a mesma coisa, e o senhor precisa entender a diferença antes de sair daqui. O Viktor não tem apreço pelo senhor. Ele tem um controle experimental de sessenta anos, e nenhum cientista destrói um controle de sessenta anos na última semana.
+— Ele te manteve **medível**, — corrigiu a Vance. — Não é a mesma coisa, e o senhor precisa entender a diferença antes de sair daqui. O Viktor não tem apreço pelo senhor. Ele tem um controle experimental de vinte e um anos, e nenhum cientista destrói um controle de vinte e um anos na última semana.
 
 ---
 
@@ -209,7 +209,7 @@ Elena virou a cabeça.
 
 — Como?
 
-— Ele tem um problema, — repeti, e me levantei, com o joelho e a perna e o ombro e o toco reclamando todos ao mesmo tempo. — Sessenta anos ele me deixou vivo porque eu era mais útil solto. Isso funciona enquanto solto significa *inofensivo*.
+— Ele tem um problema, — repeti, e me levantei, com o joelho e a perna e o ombro e o braço reclamando todos ao mesmo tempo. — A vida inteira ele me deixou vivo porque eu era mais útil solto. Isso funciona enquanto solto significa *inofensivo*.
 
 Apontei com a mão que me sobrou para a porta do galpão, para o barulho, para as pilhas.
 
@@ -217,7 +217,7 @@ Apontei com a mão que me sobrou para a porta do galpão, para o barulho, para a
 
 Fechei a pasta.
 
-— Pela primeira vez em sessenta anos, o grupo de controle contaminou o experimento.
+— Pela primeira vez em vinte e um anos, o grupo de controle contaminou o experimento.
 
 A Dra. Elara Vance me olhou por um segundo inteiro.
 

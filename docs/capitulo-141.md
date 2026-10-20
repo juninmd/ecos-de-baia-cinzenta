@@ -13,7 +13,7 @@ O frio do Subnível 7 não era como o frio de inverno nas ruas de Baía Cinzenta
 
 Gabo estava sentado em uma carcaça que outrora fora o torso de um ciborgue de carga pesada. Ele olhou para as próprias mãos, que tremiam levemente. A pele nas palmas estava vermelha, coberta de bolhas estouradas pela fricção de arrancar a grade do duto. O cheiro de carne queimada ainda impregnava seu nariz, uma memória fantasma da fornalha do Taxidermista.
 
-Ele fechou os punhos com força. O latejar agudo subiu pelos antebraços como um choque elétrico. Ele inspirou devagar, retendo o ar, e expirou. A dor era limpa, nítida. O cheiro de queimado no ar o enjoava profundamente — um lembrete visceral do trauma, a fumaça suja invadindo seus pulmões sem permissão desde os anos atrás no escritório de Dante. Ele odiava a fumaça. Odiava a fraqueza que ela representava. A dor nas mãos, em contraste, era uma escolha. Uma âncora afiada que o prendia à realidade. *Dez segundos de foco*, ele pensou. *Só preciso de mais dez segundos de foco.*
+Ele fechou os punhos com força. O latejar agudo subiu pelos antebraços como um choque elétrico. Ele inspirou devagar, retendo o ar, e expirou. A dor era limpa, nítida. O cheiro de queimado no ar o enjoava profundamente — um lembrete visceral do trauma, a fumaça suja invadindo seus pulmões sem permissão desde o escritório de Dante. Ele odiava a fumaça. Odiava a fraqueza que ela representava. A dor nas mãos, em contraste, era uma escolha. Uma âncora afiada que o prendia à realidade. *Dez segundos de foco*, ele pensou. *Só preciso de mais dez segundos de foco.*
 
 — A temperatura do Inspetor Rangel está em trinta e nove ponto dois graus — a voz sintética de Aria soou pelo comunicador do cyberdeck de Valéria, de uma precisão cirúrgica e vazia de qualquer empatia. Conectado à porta lateral do *Phantom V3*, o drive neural blindado emitia seu brilho azul-gelo constante na névoa fria da caverna. — O calor acelerou a sepse. Seus órgãos iniciarão o processo de falha em cascata dentro de cento e oitenta minutos.
 
@@ -29,7 +29,7 @@ Gabo cuspiu sangue e poeira no chão. O som ecoou nas paredes da caverna, abafad
 
 — Regras são construções sociais sujeitas a falhas estruturais, Detetive Moretti — a IA retrucou pelo comunicador, o LED azul-gelo do pendrive pulsando a cada sílaba. — O sacrifício de uma unidade danificada para preservar o núcleo do grupo é o protocolo padrão em cenários de risco extremo.
 
-— Foda-se o protocolo — Gabo sibilou, caminhando até Valéria. Ele ignorou a dor latejante nas mãos e apontou um dedo enfaixado e sujo para o pendrive blindado acoplado ao pulso da hacker. — Enquanto eu estiver respirando, a gente não abandona ninguém. Se você não gosta da matemática, recalcula.
+— Foda-se o protocolo — Gabo sibilou, caminhando até Valéria. Ele ignorou a dor latejante nas mãos e apontou um dedo sujo para o pendrive blindado acoplado ao pulso da hacker. — Enquanto eu estiver respirando, a gente não abandona ninguém. Se você não gosta da matemática, recalcula.
 
 O LED do drive piscou duas vezes em silêncio enquanto o coprocessador interno aquecia no ar gelado.
 
@@ -71,4 +71,4 @@ Gabo olhou para cima, para a escuridão intransponível de onde tinham despencad
 
 Ele olhou para Rangel, cuja respiração estava cada vez mais fraca, e depois para as próprias mãos queimadas. A dor latejava, constante e necessária. A repulsa que sentia pelo cheiro acre de fumaça que ainda os acompanhava era o combustível de sua fúria. O frio do lixão já não o incomodava tanto. O fogo do inferno não os tinha matado; o frio da morte tampouco o faria.
 
-Eles iriam subir. E quando chegassem ao topo, iriam queimar o estúdio do Taxidermista até o chão. Apenas cinzas e silêncio.
+Eles iriam subir. E quando chegassem ao topo, iriam arrancar o Taxidermista da toca e deixar só cinzas e silêncio.

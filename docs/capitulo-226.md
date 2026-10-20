@@ -93,7 +93,7 @@ Eu fechei os olhos.
 
 — Elena—
 
-— **Eu enterrei a nossa mãe sozinha no Dilúvio, Gabriel.** — Ela não gritou. Foi pior. — Eu enterrei a Helena enquanto você caçava fantasma pela cidade com aquele componente espetado no comunicador. E hoje de manhã a Valéria deixou escapar o que aconteceu quando o pendrive trincou na Usina Prometeu. Que quando o filtro sintético da IA falhou nos túneis, a voz que saía do pendrive no seu ouvido não era de máquina nenhuma.
+— **Eu enterrei a sua mãe sozinha no Dilúvio, Gabriel.** — Ela não gritou. Foi pior. — Eu enterrei a Helena enquanto você caçava fantasma pela cidade com aquele componente espetado no comunicador. E hoje de manhã a Valéria deixou escapar o que aconteceu quando o pendrive trincou na Usina Prometeu. Que quando o filtro sintético da IA falhou nos túneis, a voz que saía do pendrive no seu ouvido não era de máquina nenhuma.
 
 O galpão estava muito silencioso.
 
@@ -123,7 +123,7 @@ Elena chorou. Sem som, do jeito dela, com o queixo travado e as lágrimas descen
 
 — Onde está o pendrive agora?
 
-— Subnível 2.0. Arquivo Executivo. — Engoli. — A Valéria teve que formatar a camada emocional no laboratório do Taxidermista para a gente não morrer, e lá embaixo, contra o Sentinel, a Aria derrubou o próprio firewall dentro do slot do terminal mestre para nos abrir caminho. Eu autorizei. Eu estava a três metros e eu autorizei, e o pendrive derreteu até virar escória preta na tomada de dados.
+— Subnível 2.0. Arquivo Executivo. — Engoli. — A Valéria teve que formatar a camada emocional na clínica do Vasco para a gente não morrer, e lá embaixo, contra o Sentinel, a Aria derrubou o próprio firewall dentro do slot do terminal mestre para nos abrir caminho. Eu autorizei. Eu estava a três metros e eu autorizei, e o pendrive derreteu até virar escória preta na tomada de dados.
 
 — Você perdeu as duas de novo.
 

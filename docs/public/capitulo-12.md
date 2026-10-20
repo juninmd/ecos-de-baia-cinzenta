@@ -95,7 +95,7 @@ E na frente deles, uma figura familiar.
 
 Roberto Miranda.
 
-Mas ele estava diferente. Vestia um terno caro, limpo. Seu braço mecânico fora substituído por um modelo de última geração.
+Mas ele estava diferente. Vestia um terno caro, limpo. O braço direito, que na estação era de carne e osso, agora era uma prótese de última geração, e o pulso ainda trazia a marca de algemas que alguém tinha aberto por fora.
 
 — Miranda? — A voz de Gabriel era um fio de incredulidade. O homem que ele considerava um amigo, um parceiro de trincheira na guerra contra o sistema, estava ali, no coração da besta. — O que você fez?
 

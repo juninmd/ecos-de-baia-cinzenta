@@ -86,7 +86,7 @@ Eu li a primeira página. Depois a segunda. Na terceira eu tive que parar e olha
 
 *Substrato biológico reduzido.* Trinta e oito páginas de linguagem educada, tabelas de custo por unidade-ano e notas de rodapé sobre conforto da família enlutada, explicando com muita calma que sai mais barato manter vivo o pedaço da pessoa que pensa do que manter inteiro o pedaço que apodrece.
 
-O Lázaro não começou como droga. A droga veio sessenta anos depois, quando alguém percebeu que o mesmo processo que preservava um cliente pagante podia minerar um cliente que não estava pagando nada.
+O Lázaro não começou como droga. A droga veio décadas depois, quando alguém percebeu que o mesmo processo que preservava um cliente pagante podia minerar um cliente que não estava pagando nada.
 
 Meu pai passou quinze anos em um tanque de nutrientes servindo de processador para uma inteligência artificial. Eu passei quinze anos achando que aquilo era a coisa mais monstruosa que a Aeterna tinha inventado.
 

@@ -15,7 +15,7 @@ Acoplado ao barramento do visor tático, o pendrive de titânio da Aria aqueceu 
 
 Uma bala raspou o ombro de Gabo, rasgando o couro do sobretudo e queimando a pele por baixo. Ele grunhiu entre os dentes cerrados — mais irritação do que dor. Dor era ruído de fundo neste ponto. Seu corpo inteiro era uma sinfonia de desconfortos que ele aprendera a ignorar.
 
-As órteses nas pernas chiavam a cada movimento, protestando contra a umidade que infiltrava suas juntas improvisadas. O display no visor interno — uma tela holográfica rachada que ele soldara ao capacete de motoqueiro — piscava em vermelho.
+As órteses nas pernas chiavam a cada movimento, protestando contra a umidade que infiltrava suas juntas remontadas com peça de depósito e fita de vedação. O display no visor interno — uma tela holográfica rachada que ele soldara ao capacete de motoqueiro — piscava em vermelho.
 
 *ALERTA: BATERIA CRÍTICA - 8%*
 *INTEGRIDADE ESTRUTURAL: 15%*
@@ -159,7 +159,7 @@ Val o puxou pelo colarinho para longe da borda no exato momento em que a escavad
 
 Gabo ficou deitado no telhado, ofegante, o coração parecendo querer explodir no peito. Cada respiração era uma facada. Cada batimento, um terremoto.
 
-Val se ajoelhou ao lado dele, os olhos cibernéticos prateados cheios de preocupação real.
+Val se ajoelhou ao lado dele, os olhos cibernéticos azul-gelo cheios de preocupação real.
 
 — Você está horrível, chefe. — A voz dela estava rouca. — Tipo, pior que o normal. E o normal já era bem ruim.
 

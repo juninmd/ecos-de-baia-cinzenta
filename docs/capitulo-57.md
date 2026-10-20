@@ -9,7 +9,7 @@ Localização: "Zona de Exclusão — Setor 4"
 
 Aria quase não usava o sintetizador de voz.
 
-Fazia onze dias que o drive blindado de titânio estava acoplado ao painel do Cobalt — desde que a rede principal caiu — e Gabo tinha ouvido a voz analítica dela pelo alto-falante quatro vezes, sempre com uma frase inteira, sempre cirúrgica, sempre certa. No resto do tempo ela operava assim: com o corpo metálico do pendrive morno na porta de dados, o LED azul-gelo pulsando devagar contra o plástico sujo do console, varrendo as frequências do setor.
+Fazia quarenta e sete dias que o drive blindado de titânio estava acoplado ao painel do Cobalt — desde que a rede principal caiu — e Gabo tinha ouvido a voz analítica dela pelo alto-falante quatro vezes, sempre com uma frase inteira, sempre cirúrgica, sempre certa. No resto do tempo ela operava assim: com o corpo metálico do pendrive morno na porta de dados, o LED azul-gelo pulsando devagar contra o plástico sujo do console, varrendo as frequências do setor.
 
 O carro cheirava a mofo de estofado velho, café frio e o ozônio seco do circuito do painel que trabalhava além da conta para alimentar o módulo.
 
@@ -207,7 +207,7 @@ No console central, o LED azul do pendrive da Aria voltou a acender assim que os
 
 — *Você demorou dois minutos além da margem de segurança, Inspetor* — disse a voz sintética e limpa dela pelo alto-falante do painel.
 
-Cinco frases em onze dias.
+Cinco frases em quarenta e sete dias.
 
 Gabo entrou, fechou a porta, largou a *Caronte* no banco de trás e ficou com as duas mãos no volante sem ligar o carro.
 

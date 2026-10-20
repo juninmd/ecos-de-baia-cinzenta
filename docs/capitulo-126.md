@@ -51,7 +51,7 @@ Gabo soltou o módulo como se tivesse levado um choque elétrico. Ele recuou, en
 
 *Não é ela. É um fantasma na máquina. É um eco no silício.*
 
-Um gemido vindo do sofá quebrou a tensão. Rangel se mexeu, os olhos abrindo fendas na face inchada.
+Um gemido vindo da mesa quebrou a tensão. Rangel se mexeu, os olhos abrindo fendas na face inchada.
 
 — Se vocês... vão discutir o relacionamento com um pendrive... — Rangel tossiu, uma tosse úmida e feia. — ...façam isso depois que sairmos do alcance da artilharia.
 
@@ -101,4 +101,4 @@ Gabo não olhou para trás. Ele marchou para a escuridão, arrastando Rangel, ac
 
 A dor no peito de Gabo era constante. O colar. O zumbido fantasma da cidade. A voz de Bia no fone.
 
-Ele usaria tudo isso. Ele transformaria cada grama de dor em combustível. Porque a noite estava apenas começando.
+Ele usaria tudo isso. Ele transformaria cada grama de dor em combustível. Porque o dia estava apenas começando, e não prometia ser mais claro que a noite.

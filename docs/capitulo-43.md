@@ -69,7 +69,7 @@ Ela virou a tela. Um mapa da cidade, em traço fino, com três pontos vermelhos 
 
 — A ordem.
 
-— As três não abriram juntas. — O dedo dela seguiu a linha na tela. — Abriu a de Leste. Quarenta e um minutos depois, a Central. Vinte e dois minutos depois, a de Oeste. Eu passei a madrugada achando que era falha em cascata, que uma puxou a outra. Não é. Eu rodei a topografia. — Ela parou. — Nessa ordem, e só nessa ordem, a coluna d'água entra pelo subsolo do complexo da Aeterna, sobe pelos tanques de decantação, e sai pelo lado norte. Qualquer outra sequência inunda o complexo e deixa o conteúdo lá dentro, selado.
+— As três não abriram juntas. — O dedo dela seguiu a linha na tela. — Abriu a de Leste. Quarenta e um minutos depois, a Central. Vinte e dois minutos depois, a de Oeste. Eu passei a madrugada achando que era falha em cascata, que uma puxou a outra. Não é. Eu rodei a topografia. — Ela parou. — O levantamento é da própria prefeitura, de quarenta e um, e a vazão eu tirei do marégrafo do Cais Dois, não de notícia de rádio. É modelo, não é laudo. Mas o modelo só fecha de um jeito. Nessa ordem, e só nessa ordem, a coluna d'água entra pelo subsolo do complexo da Aeterna, sobe pelos tanques de decantação, e sai pelo lado norte. Qualquer outra sequência inunda o complexo e deixa o conteúdo lá dentro, selado.
 
 Gabo demorou a entender, e quando entendeu foi como pisar num degrau que não existia.
 
@@ -123,7 +123,7 @@ Val tinha o endereço em dois minutos.
 
 O Capitão Jonas Vilar estava na porta havia um tempo, escutando, com a farda amassada de três dias e as mãos nos bolsos porque as mãos tremiam.
 
-Cinquenta e cinco anos de corporação. Ele tinha entrado na polícia quando a lei ainda era uma coisa que se citava em voz alta sem constrangimento, e passara os últimos dez anos assistindo a isso virar folclore.
+Cinquenta e cinco anos de idade e trinta e três de corporação. Ele tinha entrado na polícia quando a lei ainda era uma coisa que se citava em voz alta sem constrangimento, e passara os últimos dez anos assistindo a isso virar folclore.
 
 — Eu vou com vocês — disse Jonas.
 

@@ -145,9 +145,9 @@ Ela digitou as coordenadas.
 
 ---
 
-Duzentos e cinquenta quilômetros acima, três plataformas ajustaram giroscópio.
+Seiscentos quilômetros acima, três plataformas ajustaram giroscópio.
 
-As hastes de tungstênio — cada uma do tamanho de um poste telefônico, sem explosivo nenhum, porque nove toneladas a doze mil quilômetros por hora dispensam explosivo — giraram devagar e trocaram o ponto de mira: saíram do centro geométrico de Baía Cinzenta e foram para um retângulo de água preta a leste.
+As hastes de tungstênio — cada uma do tamanho de um poste telefônico, sem explosivo nenhum, porque nove toneladas a doze mil quilômetros por hora dispensam explosivo — giraram devagar e trocaram o ponto de mira: saíram dos alvos marcados sobre Baía Cinzenta e foram para um retângulo de água preta a leste.
 
 — *Fogo* — disse Gabo.
 

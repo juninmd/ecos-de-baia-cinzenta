@@ -36,9 +36,9 @@ Mas então o cheiro do fluido vermelho bateu nele novamente. Era quente e úmido
 
 — Não deixe tocar.
 
-O fluido não era apenas líquido; era *ativo*. Enquanto subia, Gabo viu formas se debatendo nele. As Quimeras — os cães modificados que os caçavam minutos antes — agora eram arrastadas pela correnteza reversa. Elas uivavam, não de raiva, mas de terror, enquanto o líquido vermelho parecia aderir à pele sintética delas, dissolvendo-a, fundindo carne e metal em uma massa disforme.
+O fluido não era apenas líquido; era *ativo*. Enquanto subia, Gabo viu formas se debatendo nele. As Quimeras — os cães modificados que os caçavam minutos antes — agora eram arrastadas pela correnteza reversa. Elas uivavam, não de raiva, mas de terror, enquanto o líquido vermelho parecia aderir à pele delas, dissolvendo o tecido, soltando as placas de sucata que as mantinham inteiras.
 
-Era um ácido digestivo. O estômago da cidade estava regurgitando.
+Era um solvente digestivo. O estômago da cidade estava regurgitando.
 
 Eles alcançaram a escada. Valéria subiu primeiro, ágil apesar da exaustão. Gabo teve que içar Rangel. O inspetor gritou quando seu ferimento cauterizado bateu contra o corrimão.
 

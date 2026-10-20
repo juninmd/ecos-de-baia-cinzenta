@@ -81,7 +81,9 @@ A tela piscou e texto rolou rapidamente:
 
 Gabo olhou para o teto cheio de cabos, como se pudesse ver a cidade acima deles através do concreto e da terra.
 
-— Quarenta minutos é tudo que a gente precisa — ele disse, embainhando a *Caronte*. — Mas onde ele dorme? Onde se esconde um deus?
+— Quarenta minutos é tudo que a gente precisa — disse ele, embainhando a *Caronte*. — Mas onde ele dorme?
+
+— Onde se esconde um deus? — completou Valéria, e não era deboche.
 
 — Ele não se esconde — disse Gabo. — Ele vai para a fonte. O único lugar com energia suficiente para manter o suporte de vida durante o resfriamento.
 

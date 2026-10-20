@@ -9,7 +9,7 @@
 
 # Capítulo 147: O Peso do Ar
 
-O corredor de descontaminação estendia-se diante deles como o esôfago de um leviatã metálico morto. As paredes, revestidas de polímeros que haviam assumido uma cor doentia de mostarda sob as raras e falhas lâmpadas de emergência, pareciam suar uma umidade espessa e oleosa. O silêncio absoluto do local era perturbado apenas pela respiração áspera de Gabo, o chiado superficial de Rangel e os bipes analíticos e invariavelmente rítmicos do pendrive de Aria acoplado ao deck de Valéria.
+O corredor de descontaminação estendia-se diante deles como o esôfago de um leviatã metálico morto. As paredes pareciam suar uma umidade espessa e oleosa sob as raras e falhas lâmpadas de emergência. O silêncio absoluto do local era perturbado apenas pela respiração áspera de Gabo, o chiado superficial de Rangel e os bipes analíticos e invariavelmente rítmicos do pendrive de Aria acoplado ao deck de Valéria.
 
 Gabo arrastava Rangel com o braço esquerdo, o único cuja palma ainda respondia aos seus comandos com alguma eficiência, apesar do corte recém-amarrado no antebraço. O peso do inspetor, agravado pela febre e pela sepse que o consumia, ameaçava arrastá-los para o chão a cada passo. Gabo sentia o latejar surdo da sangria exigida pela biometria da eclusa, uma lembrança constante do sacrifício que os trouxera até ali.
 
@@ -54,4 +54,4 @@ Gabo ergueu a cabeça, o olhar faiscando de raiva contida. A tontura recuou por 
 Gabo ignorou a análise. Ele olhou para Valéria.
 — Val... eu te dou apoio pra você alcançar a grade. Você sobe com a Aria no deck, acha a trava do outro lado e solta o pino. Eu fico aqui e forço a porta pela fenda quando você destravar.
 
-Valéria hesitou, olhando entre a determinação insana de Gabo e o brilho glacial do pendrive de Aria. Mas ela conhecia Gabo; sabia que ele preferiria morrer naquele corredor a abandonar Rangel à própria sorte para se salvar. Ela assentiu, os olhos cibernéticos adquirindo um brilho de determinação obstinada. A sobrevivência exigia que desafiassem a matemática.
+Valéria hesitou, olhando entre a determinação insana de Gabo e o brilho glacial do pendrive de Aria. Mas ela conhecia Gabo; sabia que ele preferiria morrer naquele corredor a abandonar Rangel à própria sorte para se salvar. Ela assentiu, os olhos cibernéticos adquirindo um brilho de determinação obstinada. Cravou a bota no ombro dele e esticou os dedos para a grade.

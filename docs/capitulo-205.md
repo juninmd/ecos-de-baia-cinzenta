@@ -19,7 +19,7 @@ O monstro arremeteu o primeiro golpe antes mesmo de fixar totalmente a base. Uma
 
 Joguei meu corpo para a esquerda em um salto desesperado. A lâmina de aço bruto atingiu o chão no ponto exato onde eu estava meio segundo antes, partindo a laje de concreto com um estrondo ensurdecedor. A onda de choque cinético ricocheteou pelas minhas pernas; caí de lado na poeira, os rebites da órtese queimada cravando-se na carne da coxa com uma ferroada que arrancou um palavrão dos meus dentes. O gosto metálico de sangue e terra encheu minha boca quando mordi a língua na queda. Lembro de ferimentos parecidos no Dilúvio, quando a água fria lavava a dor antes que o corpo pudesse processar o estrago.
 
-Ergui a *Caronte* com o armação de sucata instalada para sustentar o braço fraturado, sentindo o pistão industrial gemer sob a sobrecarga do recuo, e disparei dois tiros à queima-roupa no núcleo central do colosso. Meus músculos sangravam sob as ataduras, mas a dor mantinha o foco afiado desde a queda na Torre anos atrás.
+Ergui a *Caronte* com a armação de sucata instalada para sustentar o braço fraturado, sentindo o pistão industrial gemer sob a sobrecarga do recuo, e disparei dois tiros à queima-roupa no núcleo central do colosso. Meus músculos sangravam sob as ataduras, mas a dor mantinha o foco afiado desde a queda na Torre anos atrás.
 
 Os bagos de chumbo grosso e tungstênio bateram na couraça de lagartas com um estampido ensurdecedor, arrancando lascas de ferrugem e uma chuva de faíscas azuis, mas sem penetrar a blindagem de aço temperado. O impacto mal fez a criatura cambalear.
 

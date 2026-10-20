@@ -56,7 +56,7 @@ Valéria parou, olhando de soslaio para o detetive ofegante encostado na estante
 
 Gabo descolou-se da estante com um gemido, ignorando a pulsação frenética em seu braço direito quebrado. A clareza devolvida pela dor aguda o impulsionou.
 
-— Vamo lá. O Taxidermista não blindou o cofre com doze toneladas de aço de brincadeira — Gabo rosnou, recomeçando a marcha mancapando pesadamente. — Essa merda deve ser o diário íntimo do velho.
+— Vamo lá. O velho não blindou o cofre com doze toneladas de aço de brincadeira — Gabo rosnou, recomeçando a marcha mancando pesadamente. — Essa merda deve ser o diário íntimo do velho.
 
 Eles dobraram a última fileira de prateleiras magnéticas no setor alfa-sete e a imensidão cega do corredor finalmente terminou.
 
@@ -68,7 +68,7 @@ Era uma mesa de comando executiva incrustada no chão da Aeterna. Antiga, analó
 
 Mas não foi a tecnologia obsoleta que congelou o sangue nas veias de Gabo.
 
-No centro da mesa, conectado diretamente ao conduíte primário de dados da máquina, repousava um invólucro cilíndrico de vidro grosso, embaciado pelo frio do andar e pela umidade interna. Dentro do invólucro, banhado em um líquido conservante azul-pálido e fracamente iluminado por diodos integrados, flutuava um fragmento de massa orgânica.
+No centro da mesa, conectado diretamente ao conduíte primário de dados da máquina, repousava um invólucro cilíndrico de vidro grosso, embaciado pelo frio do andar e pela umidade interna. Dentro do invólucro, banhado em um líquido conservante azul-pálido e fracamente iluminado por diodos integrados, flutuava uma massa de tecido pálido, sulcada de circunvoluções.
 
 Tecido cerebral humano.
 
@@ -76,12 +76,12 @@ Valéria recuou meio passo, a mão subindo para a boca em puro choque existencia
 
 — Gabo... isso não é um processador secundário... — ela sussurrou, a voz trêmula ecoando na alcova, a luz verde das telas refletindo em seus implantes oculares. — Aquele terminal ali embaixo do vidro... ele é operado por isso. A Aeterna não construiu uma IA pra proteger os arquivos antes da queda. Eles usaram wetware. Memória molhada.
 
-Gabo caminhou arrastando os pés até a borda da mesa executiva. Ele olhou para o fragmento pálido e enrugado suspensamente no tanque de conservação. O calor ínfimo que Aria detectara emanava dos aquecedores de suporte de vida primitivos que mantinham o pedaço de carne neural viável para conduzir códigos encriptados por quatro décadas.
+Gabo caminhou arrastando os pés até a borda da mesa executiva. Ele olhou para a massa pálida e enrugada suspensa no tanque de conservação. O calor ínfimo que Aria detectara emanava dos aquecedores de suporte de vida primitivos que mantinham o pedaço de carne neural viável para conduzir códigos encriptados por quatro décadas.
 
-Ele não precisou de um teste de DNA, nem de Valéria confirmando os logs nas telas verde-oliva piscantes que exibiam nomes arquivados. Ele sabia. Sentia nos próprios ossos faturados e nas palmas queimadas a resposta que não queria encontrar no túmulo do pai.
+Ele não precisou de um teste de DNA, nem de Valéria confirmando os logs nas telas verde-oliva piscantes que exibiam nomes arquivados. Ele sabia. Sentia nos próprios ossos fraturados e nas palmas queimadas a resposta que não queria encontrar no túmulo do pai.
 
 O Taxidermista não foi o primeiro a usar carne humana para alimentar o silício da Aeterna Corp.
 
 Dante Moretti já havia cortado o caminho muito antes da queda de Prometeu.
 
-— Aquele filho da puta — Gabo sibilou, a voz como veneno ácido escorrendo de uma ferida aberta, os olhos negros cravados no cilindro de vidro pálido que pulsava suavemente, enquanto a dor em seus tocos sangrentos tornava a verdade cristalina e brutal. O cofre do pai não guardava apenas segredos corporativos; guardava a semente do próprio horror da Necrópole.
+— Aquele filho da puta — Gabo sibilou, a voz como veneno ácido escorrendo de uma ferida aberta, os olhos negros cravados no cilindro de vidro pálido que pulsava suavemente, enquanto a dor em seus pulsos cauterizados tornava a verdade cristalina e brutal. O cofre do pai não guardava apenas segredos corporativos; guardava a semente do próprio horror da Necrópole.

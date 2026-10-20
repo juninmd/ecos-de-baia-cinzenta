@@ -9,7 +9,7 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 A descida pela garganta de rocha da cidade parecia uma queda livre em câmera lenta, onde cada segundo era medido pelo rangido violento dos cabos de sustentação. A gaiola de carga de ferro forjado tremia e chacoalhava contra os trilhos verticais chumbados nas paredes basálticas, soltando chuvas de faíscas pálidas que iluminavam o abismo por frações de segundo antes de serem engolidas pelo breu absoluto.
 
-O vento frio que subia do poço não tinha cheiro de lodo ou esgoto; era um sopro mineral, seco e gélido, com o odor metálico de poeira antiga e chumbo estagnado. A pressão barométrica aumentava com rapidez brutal a cada dez metros de descida, fazendo meus tímpanos estalarem com pontadas dolorosas.
+O vento frio que subia do poço não tinha cheiro de lodo ou esgoto; era um sopro mineral, seco e gélido, com o odor metálico de poeira antiga e chumbo estagnado. A gaiola descia rápido demais para os ouvidos acompanharem; a cada dez metros meus tímpanos estalavam com uma pontada que subia até a raiz do dente.
 
 Apoiei as costas contra as grades de proteção da gaiola, segurando o corrimão central com os garras de ferro da armação instalada por Vasco para alinhar a fratura do braço. A vibração das sapatas de freio ricocheteava pela estrutura e subia pela minha coluna, arrancando espasmos da musculatura lacerada do ombro que continuava sangrando sob as ataduras sujas. Lembro de provações parecidas no Dilúvio, quando a água negra engoliu os distritos e tanta gente morreu afogada nos túneis; desde a queda da Torre Aeterna anos atrás, a cidade vinha quebrando nossos corpos em pedaços, deixando cicatrizes que nunca mais se apagariam. Mas a agonia física me mantinha lúcido, focado na descida e na proteção de quem ainda estava comigo.
 
@@ -17,7 +17,7 @@ Elias estava sentado no piso de ripas de aço, com os braços entrelaçados nas 
 
 — Minha cabeça... parece que vai rachar ao meio, — balbuciou ele, a voz quase abafada pelo ruído ensurdecedor do vento nos cabos. — Meus ouvidos tão zumbindo...
 
-— Engole a própria saliva com força, Elias, — instruiu Valéria, em pé junto à alavanca do freio centrífugo. Os reflexos azuis da franja holográfica dançavam contra a névoa escura do fosso, iluminando a expressão concentrada e atenta da hacker. Ela ajustava a alavanca com toques rápidos e firmes para conter a velocidade terminal da gaiola. — A pressão tá subindo porque a gente acabou de cruzar a marca dos duzentos metros abaixo do nível do mar. O ar aqui embaixo tá mais denso que o caldo de poluição da Zona Baixa.
+— Engole a própria saliva com força, Elias, — instruiu Valéria, em pé junto à alavanca do freio centrífugo. Os reflexos azuis da franja holográfica dançavam contra a névoa escura do fosso, iluminando a expressão concentrada e atenta da hacker. Ela ajustava a alavanca com toques rápidos e firmes para conter a velocidade terminal da gaiola. — A pressão tá mudando mais rápido do que o seu ouvido consegue acompanhar, Elias. A gente acabou de cruzar a marca dos duzentos metros abaixo do nível do mar. O ar aqui embaixo tá mais denso que o caldo de poluição da Zona Baixa.
 
 — E a gaiola aguenta essa descida toda? — perguntei, observando o cabo de aço trançado de duas polegadas vibrar como uma corda de contrabaixo gigante sobre nossas cabeças.
 

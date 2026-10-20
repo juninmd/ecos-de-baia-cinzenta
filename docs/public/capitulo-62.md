@@ -23,7 +23,7 @@ Traje tático de placa cerâmica, corte reto, com um colarinho alto e rígido qu
 
 Gabo disparou três vezes antes de pensar.
 
-Os três acertaram: dois no peito, um no ombro. O corpo não recuou. Não é que ele resistiu ao impacto — o impacto foi absorvido pela placa e distribuído, e a massa daquele homem era grande o bastante para que trinta joules não significassem nada.
+Os três acertaram: dois no peito, um no ombro. O corpo não recuou. Não é que ele resistiu ao impacto — o impacto foi absorvido pela placa e distribuído, e a massa daquele homem era grande o bastante para que quinhentos joules não significassem nada.
 
 Ele entrou na van.
 

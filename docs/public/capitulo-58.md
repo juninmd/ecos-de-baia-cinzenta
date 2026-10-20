@@ -43,7 +43,7 @@ Miranda sorriu com metade da boca.
 
 — Não quero os seus robôs. — Uma pausa bem cronometrada. — Eu quero a sua aposentadoria.
 
-Vilar não respondeu. Quarenta anos de interrogatório ensinam a não preencher o silêncio do outro.
+Vilar não respondeu. Trinta e três anos de interrogatório ensinam a não preencher o silêncio do outro.
 
 Miranda fez um gesto e um vídeo abriu ao lado da própria cabeça.
 
@@ -95,7 +95,7 @@ Ele olhou o vídeo congelado ao lado da cabeça de Miranda: a própria mão dele
 
 Depois olhou a parede.
 
-Havia duas fotos ali. Uma era a formatura dele, em oitenta e nove, quarenta e um sujeitos de branco olhando para uma câmera que exigia parar quieto por dois segundos. A outra era Dante Moretti recebendo a comenda de comissário, em dois mil e um, com a mão no ombro de um Jonas Vilar de quarenta anos, magro, com cabelo.
+Havia duas fotos ali. Uma era a formatura dele, em cinquenta e cinco, quarenta e um sujeitos de branco olhando para uma câmera que exigia parar quieto por dois segundos. A outra era Dante Moretti recebendo a comenda de comissário, em setenta e um, com a mão no ombro de um Jonas Vilar de trinta e oito anos, magro, com cabelo.
 
 — Você está me pedindo — disse Vilar, devagar — para entregar o filho do meu melhor amigo para ser morto por causa de um componente do tamanho de um pendrive.
 
@@ -151,11 +151,11 @@ Vilar se levantou da cadeira. Custou: o joelho esquerdo dele também tinha hist�
 
 ---
 
-O revólver saiu do coldre de ombro com um movimento que quarenta anos gravaram em osso.
+O revólver saiu do coldre de ombro com um movimento que trinta e três anos gravaram em osso.
 
 Ele atirou uma vez no projetor holográfico.
 
-O .44 dentro de uma sala fechada é uma experiência física: o estampido bateu nas quatro paredes e voltou, os monitores tremeram, e a imagem de Roberto Miranda explodiu em faísca, vidro moído e um cheiro imediato de plástico queimado.
+O .38 dentro de uma sala fechada é uma experiência física: o estampido bateu nas quatro paredes e voltou, os monitores tremeram, e a imagem de Roberto Miranda explodiu em faísca, vidro moído e um cheiro imediato de plástico queimado.
 
 O silêncio depois foi enorme.
 

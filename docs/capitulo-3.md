@@ -7,7 +7,7 @@ Personagens Presentes: Gabriel "Gabo" Moretti, Capitão Jonas Vilar, Valéria "V
 
 A fita de isolamento da polícia, um amarelo berrante e artificial, era a única coisa colorida no Distrito Industrial. O resto era cinza, preto e o marrom da ferrugem que sangrava das vigas expostas. A chuva caía em lençóis pesados, lavando o sangue da calçada para o bueiro, onde o sistema de esgoto da cidade engasgava.
 
-Gabriel Moretti passou por baixo da fita, o sobretudo de couro sintético pesado de água. O cheiro era o primeiro a bater: ozônio, lixo queimado e aquele adocicado inconfundível de cobre e vísceras expostas.
+Gabriel Moretti passou por baixo da fita, o sobretudo bege pesado de água. O cheiro era o primeiro a bater: ozônio, lixo queimado e aquele adocicado inconfundível de cobre e vísceras expostas.
 
 Ele notou dois agentes da Corregedoria em ternos cinza impecáveis — secos, apesar da chuva — observando do canto, tomando notas em tablets. Abutres.
 

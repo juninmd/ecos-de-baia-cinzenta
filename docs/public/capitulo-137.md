@@ -49,7 +49,7 @@ Gabo chutou o monstro, sentindo a dor explodir em seu joelho, e cravou a ponta d
 
 Valéria acionou o capacitor de choque do deck e brandiu sua lanterna pesada de alumínio como um porrete, acertando uma criatura que tentava alcançar a maca exatamente quando o flash estroboscópico de Aria a paralisou.
 
-Era a voz de Aria no comunicador que dominava o caos. Ela não tinha braços para empunhar uma lâmina, mas transformara Gabo e Valéria em extensões cirúrgicas de seu processador. Cada finta, cada ângulo de alavanca para poupar o ombro deslocado de Gabo, cada ponto fraco nas costuras biomecânicas das criaturas era cantado no fone com antecedência milimétrica: *Recuo de meio passo. Estocada a trinta graus. Esmagamento de traqueia.*
+Era a voz de Aria no comunicador que dominava o caos. Ela não tinha braços para empunhar uma lâmina, mas transformara Gabo e Valéria em extensões cirúrgicas de seu processador. Cada finta, cada ângulo de alavanca para poupar o ombro ferido de Gabo, cada ponto fraco nas costuras biomecânicas das criaturas era cantado no fone com antecedência milimétrica: *Recuo de meio passo. Estocada a trinta graus. Esmagamento de traqueia.*
 
 Não havia raiva na voz do pendrive. Não havia medo. Apenas eficiência matemática de abatedouro.
 

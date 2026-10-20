@@ -23,7 +23,7 @@ Os alarmes do Jardim não eram sirenes eletrônicas de fábrica. Eram uivos gutu
 
 Lembrei de cada homem e mulher que vi morrer nos esgotos desde o Dilúvio. Toda aquela máquina fora erguida sobre pilhas de sacrifício e perda irreparável. Mas ali não haveria misericórdia; haveria fogo.
 
-Sem a refrigeração forçada, a temperatura dos circuitos começou a subir a uma velocidade assustadora de vinte graus por segundo. O calor escaldante expulsou a umidade, transformando o salão num forno crematório.
+Sem a refrigeração forçada, a temperatura dos circuitos começou a subir a uma velocidade que nenhum dissipador acompanhava. O calor escaldante expulsou a umidade, transformando o salão num forno crematório.
 
 Um dos doadores acordou de verdade nos últimos segundos. Não os olhos, que estavam abertos desde sempre. A boca. Ele moveu os lábios sem som, duas vezes, e o que eu li foi um nome ou uma pergunta, e nunca vou saber qual dos dois.
 
@@ -51,7 +51,7 @@ As raízes carmesins começaram a estalar e queimar em labaredas púrpuras, solt
 
 — A integridade da rede caiu pra 15%! — Valéria berrou, puxando um sinalizador térmico do cinto e arremessando-o contra o depósito de óleo na base do terceiro pilar. A fagulha encontrou o combustível vazando e uma parede de fogo de três metros ergueu-se, isolando o núcleo. — A estrutura tá cedendo, Moretti! Trinta segundos antes da câmara inteira colapsar sob a pressão térmica! Corre pro poço da escada!
 
-— A válvula mestre da coluna dorsal ainda tá alimentando os cabos da Arca! — apontei para o pilar central, onde um tronco espesso de raízes ainda pulsava, tentando redirecionar a pouca energia restante para as profundezas. — Se eu não arrebentar esse nó, a rede transfere o backup pro fundo da terra!
+— O nó de dados da coluna dorsal ainda tá vivo! — apontei para o pilar central, onde um tronco espesso de raízes ainda pulsava, tentando redirecionar a pouca energia restante para as profundezas. — Se eu não arrebentar esse nó, a rede transfere o backup pro fundo da terra!
 
 — Gabo, não dá tempo! O teto vai desabar em cima da gente!
 

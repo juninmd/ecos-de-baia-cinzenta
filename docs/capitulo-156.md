@@ -28,6 +28,8 @@ Valéria estava enrolada sobre si mesma a poucos metros, os braços abraçando o
 
 — Você salvou a minha vida, garota, — Gabo cortou, duro, embora não houvesse raiva, apenas a necessidade pragmática de seguir em frente. — Acabou. A caçada pesada dele lá embaixo acabou, mas o túnel está esperando. Não podemos ficar parados aqui.
 
+Ela não respondeu. Rasgou tiras do próprio casaco e enfaixou o que sobrara das mãos dele, uma volta por vez, sem olhar para o que cobria.
+
 Valéria levantou-se trêmula, empurrou a pesada porta deslizante do vagão de manutenção e entrou na cabine dianteira com Gabo logo atrás. O veículo era uma caixa de metal bruto, sem as linhas elegantes dos antigos trens de passageiros da época anterior ao Dilúvio. Era projetado para força bruta e carga. No console frontal, o painel de controle estava coberto de oxidação.
 
 — *O painel principal está em estado de oxidação avançada,* — relatou Aria pelo alto-falante do deck de Valéria, a voz modulada e impessoal ecoando na cabine silenciosa enquanto o scanner lia os circuitos. — *A reativação via chaves manuais tem noventa e oito por cento de chance de curto-circuito. Precisarei de uma interface física direta no barramento de diagnóstico do console.*
@@ -38,7 +40,7 @@ Gabo avançou pesadamente até o painel, observando Valéria arrancar a tampa de
 
 No pulso de Valéria, o LED azul-gelo do pendrive piscou sem ressentimento, apenas processando o obstáculo técnico. — *Meu invólucro de titânio e polímero possui isolamento dielétrico de alto calibre. Quando Valéria espetar meu conector universal diretamente na porta de diagnóstico da caixa de junção do trem, poderei fechar o circuito dos condutores de cobre e forçar a partida usando o capacitor do barramento como motor de arranque.*
 
-Valéria ainda evitava olhar diretamente para os tocos carbonizados de Gabo, mas forçou o olho cibernético a escanear a entrada oxidada do painel.
+Valéria ainda evitava olhar diretamente para as mãos carbonizadas de Gabo, mas forçou o olho cibernético a escanear a entrada oxidada do painel.
 
 — Ela está certa, — Valéria murmurou, a voz falhando. — Mas é arriscado. Se houver um pico na malha antiga, a sobretensão vai passar direto pelos pinos do pendrive. É como tentar dar partida num tanque de guerra usando um drive de bolso como chave de ignição.
 

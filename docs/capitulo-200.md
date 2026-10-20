@@ -13,17 +13,17 @@ Eu escorreguei pela parede de metal frio, deixando o peso morto do meu corpo ced
 
 Valéria ajoelhou-se ao meu lado, os filamentos de LED azul na franja curta iluminando o suor frio que escorria pelo meu queixo. Ela soltou o cyberdeck das costas, colocando-o com cuidado sobre uma caixa de fusíveis vazia, e verificou o aperto da atadura elástica no meu ombro com a mão firme.
 
-— A solda da bucha do seu ombro tá soltando faíscas azuis, Moretti — ela sussurrou, a voz ofegante mas firme, enquanto ajustava a válvula de alívio do pistão com a ponta de uma chave de fenda pequena. — Mais dois trancos daquele e a rosca do fêmur se solta de vez.
+— A solda da bucha do seu ombro tá soltando faíscas azuis, Moretti — ela sussurrou, a voz ofegante mas firme, enquanto ajustava a válvula de alívio do pistão com a ponta de uma chave de fenda pequena. — Mais dois trancos daquele e a rosca da clavícula se solta de vez.
 
 — O que importa é que a quimera virou carvão lá fora — respondi, o gosto de cobre e poeira de carvão amargo na boca. — E o portão de chumbo segurou o resto da ninhada.
 
-Elias estava jogado no chão a três metros de nós, abraçando os joelhos contra o peito. Ele tremia tanto que seus dentes batiam num ritmo frenético, os olhos amarelos e esbugalhados percorrendo a escuridão monumental que se erguia sobre as nossas cabeças. O velho técnico da drenagem vira o inferno de perto e quase não voltara.
+Elias estava jogado no chão a três metros de nós, abraçando os joelhos contra o peito. Ele tremia tanto que seus dentes batiam num ritmo frenético, os olhos amarelos e esbugalhados percorrendo a escuridão monumental que se erguia sobre as nossas cabeças. O técnico da drenagem vira o inferno de perto e quase não voltara.
 
 — Não tem saída... — ele murmurou num soluço engasgado, apontando o dedo trêmulo para o alto. — O poço... olhem pro teto desse poço. A cabine do elevador não tá aqui.
 
 Ergui os olhos, acompanhando o facho de luz concentrado que Valéria projetou para a verticalidade da câmara.
 
-O Poço de Elevação Três era uma artéria de concreto brutalista de quinze metros de largura, projetada durante o auge do Distrito Comercial para transportar vagões inteiros de lingotes e equipamentos pesados entre os cofres subterrâneos e a superfície. Mas a cabine blindada de carga despencara dezenas de metros durante o primeiro apagão; o cabo de tração mestre, da grossura de uma árvore secular, pendia solto no centro do fosso, desfiado em tentáculos de aço retorcido.
+O Poço de Elevação Três era uma artéria de concreto brutalista de quinze metros de largura, projetada durante o auge do Distrito Comercial para transportar vagões inteiros de lingotes e equipamentos pesados entre os cofres subterrâneos e a superfície. Mas a cabine blindada de carga estava emperrada num dos níveis altos desde o primeiro apagão; o cabo de tração mestre, da grossura de uma árvore secular, pendia solto no centro do fosso, desfiado em tentáculos de aço retorcido.
 
 As paredes verticais de alvenaria não eram lisas.
 
@@ -35,11 +35,11 @@ Olhei para a escada de ferro chumbada na rocha. Uma sucessão vertiginosa de lan
 
 — A escada tá em pé, Elias — falei, forçando meu corpo a se erguer com a ajuda do corrimão. — Você disse que ela cortava direto pro Setor 6.
 
-— Em pé?! — o velho quase berrou, as lágrimas limpando trilhas de lama na poeira de seu rosto. — Aquela escada tá carcomida por quarenta anos de umidade ácida, detetive! Três passos com essa sua perna pesada e o ferro se quebra no meio! A gente vai cair no fundo desse fosso e virar pasta!
+— Em pé?! — Elias quase berrou, as lágrimas limpando trilhas de lama na poeira de seu rosto. — Aquela escada tá carcomida por quarenta anos de umidade ácida, detetive! Três passos com essa sua perna pesada e o ferro se quebra no meio! A gente vai cair no fundo desse fosso e virar pasta!
 
-Dei um passo firme em direção a ele, a garra de ferro da armação repousando pesada sobre o ombro do velho com um apoio firme e calmo. Olhei bem dentro dos olhos aterrorizados dele, a voz saindo no tom grave e seguro de um policial veterano que já arrancou homens piores da boca do abismo:
+Dei um passo firme em direção a ele, a garra de ferro da armação repousando pesada sobre o ombro dele com um apoio firme e calmo. Olhei bem dentro dos olhos aterrorizados dele, a voz saindo no tom grave e seguro de um policial veterano que já arrancou homens piores da boca do abismo:
 
-— Escuta aqui, Elias. Você sobreviveu sozinho a semanas de cerco naquela subestação comendo ração seca e enganando os zumbis com uma chave sônica. Você não é um covarde que desiste na soleira da porta. Você é a única pessoa viva que conhece a chave de acesso do Hub lá em cima. A gente vai subir aquela escada juntos. Um degrau de cada vez.
+— Escuta aqui, Elias. Você sobreviveu sozinho a semanas de cerco naquela subestação comendo ração seca e enganando os zumbis com uma chave sônica. Você não é um covarde que desiste na soleira da porta. Você é a única pessoa viva que sabe onde fica a escotilha do Hub lá em cima. A gente vai subir aquela escada juntos. Um degrau de cada vez.
 
 Elias piscou, engolindo o soluço. O tremor nas mãos dele diminuiu gradualmente sob o peso do meu aperto.
 
@@ -49,9 +49,9 @@ Elias piscou, engolindo o soluço. O tremor nas mãos dele diminuiu gradualmente
 
 Valéria se aproximou, pendurando o cyberdeck com as alças cruzadas no peito para liberar os braços e checando o cão da pistola com um clique seco.
 
-— Eu vou logo atrás do Elias pra garantir que ele não hesite nos patamares intermediários — ela disse, os LEDs azuis na franja iluminando as ferragens com um brilho de foco tático. — E você vai na frente, Moretti. Com a sua mão de ferro, você testa a firmeza de cada degrau antes de jogar o peso do corpo.
+— Elias vai na frente, porque é o mais leve — ela disse, os LEDs azuis na franja iluminando as ferragens com um brilho de foco tático. — Você sobe logo atrás dele, Moretti. Com essa mão de ferro, você segura o que ele não conseguir segurar. Eu fecho a coluna.
 
-Antes que o velho pudesse dar o primeiro passo, um som cavernoso quebrou o silêncio do poço.
+Antes que ele pudesse dar o primeiro passo, um som cavernoso quebrou o silêncio do poço.
 
 Não foi um rangido de ferro oxidado. Foi um *pulso*. Um batimento cardíaco grave, elétrico e visceral que fez o concreto da parede tremer contra as nossas costas.
 

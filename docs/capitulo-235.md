@@ -73,7 +73,7 @@ A carcaça plástica estava quente ao toque, marcada com a impressão digital de
 
 Desconectei o pequeno fone de ouvido de plástico que vinha enrolado no corpo do aparelho. Encaixei o fone no meu ouvido esquerdo.
 
-Apertei o botão de rebobinar. O zumbido agudo das engrenagens plásticas durou quinze segundos.
+Apertei o botão de rebobinar. O zumbido agudo das engrenagens plásticas durou quase quatro minutos.
 
 Parei. Apertei o *PLAY*.
 

@@ -33,7 +33,7 @@ Valéria, sentada no chão coberto de cinzas com os joelhos puxados contra o pei
 
 Gabo desencostou da parede, o calombo endurecido de espuma química raspando em suas costelas quebradas. Ele olhou para o pequeno duto retangular de ventilação posicionado a dois metros de altura, quase escondido pelas sombras densas.
 
-— Eu não tenho mãos, nem equipamento preso nos braços. — Gabo cuspiu as palavras com a aspereza de papel lixa. — O que significa que meus ombros não precisam de tanta folga pra rastejar.
+— Eu não tenho equipamento preso nos braços, só um braço quebrado e uma mão em carne viva. — Gabo cuspiu as palavras com a aspereza de papel lixa. — O que significa que meus ombros não precisam de tanta folga pra rastejar.
 
 Valéria ergueu a cabeça rapidamente, os olhos escuros arregalados em um choque genuíno.
 — Gabo, não. Você está literalmente colado com espuma e pura teimosia. Se você engatar naquele duto enferrujado e tiver uma hemorragia interna, você morre afogado no próprio sangue e eu não tenho como te puxar de volta.
@@ -62,7 +62,7 @@ Apoiado e enraizado na grande alavanca de liberação manual da porta — o obje
 
 A poça de carne reagiu à aproximação de Gabo. Um sensor óptico do tamanho de um punho se abriu no centro da massa de músculos, acompanhado por um som úmido e asqueroso. Fios de cobre começaram a se esticar como tentáculos defensivos. O cheiro de podridão e cigarros velhos encheu o ar.
 
-Gabo não hesitou. Ele não possuía mãos para desarmar. Ele não possuía armas para atirar.
+Gabo não hesitou. Ele não tinha mãos livres para desarmar. Nem armas para atirar.
 
 Ele rugiu contra o silêncio frio da câmara. Tomando impulso nas pernas doloridas, Gabo arremessou o peso de todo o seu corpo para frente. Ele usou o ombro e o antebraço direito enfaixado como um aríete primitivo, chocando-se diretamente contra o núcleo do olho do sentinela na alavanca.
 
