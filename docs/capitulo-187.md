@@ -47,7 +47,7 @@ Aproximei-me da abertura, respirando fundo para recuperar o fôlego.
 
 Lá dentro não havia cabine de elevador. Havia apenas o vazio vertical de um fosso colossal de quarenta e cinco metros de profundidade, cortado por cabos de tração de aço trançado que desciam em linha reta até sumirem na escuridão impenetrável do fundo.
 
-Peguei um dos parafusos que já tinham se soltado da armação e o deixei cair. Contei. Um, dois, três, quatro — e o som voltou, seco e curto, como se o poço tivesse engolido o resto. Quarenta e cinco metros, dizia a planta. O parafuso não ia descer com uma trena para conferir.
+Peguei um dos parafusos que já tinham se soltado da armação e o deixei cair. Contei. Um, dois, três — e o som voltou, seco e curto, como se o poço tivesse engolido o resto. Quarenta e cinco metros, dizia a planta. O parafuso não ia descer com uma trena para conferir.
 
 Valéria debruçou-se sobre o abismo com a lanterna, os olhos ópticos estalando ao calcular a distância.
 
