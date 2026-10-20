@@ -1,4 +1,4 @@
-import { defineConfig } from 'vitepress'
+﻿import { defineConfig } from 'vitepress'
 import { withMermaid } from 'vitepress-plugin-mermaid'
 
 // withMermaid envolve o config para que os blocos ```mermaid de docs/arcos.md
@@ -439,6 +439,9 @@ export default withMermaid(defineConfig({
               { text: 'Capítulo 231: Catraca', link: '/capitulo-231' },
               { text: 'Capítulo 232: O Justo', link: '/capitulo-232' },
               { text: 'Capítulo 233: Ponto Zero', link: '/capitulo-233' },
+              { text: 'Capítulo 234: O Fio Cortado', link: '/capitulo-234' },
+              { text: 'Capítulo 235: O Lado B', link: '/capitulo-235' },
+              { text: 'Capítulo 236: A Terra Vermelha', link: '/capitulo-236' },
             ]
           },
         ]

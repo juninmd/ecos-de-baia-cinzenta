@@ -5,7 +5,7 @@ description: "A estrutura da saga: três livros, vinte e quatro partes, do prime
 
 # Arcos e Linha do Tempo
 
-> **Para que serve este documento:** a saga tem 235 capítulos e cresceu por acréscimo. Aqui ela está separada em **livros** e **partes**, cada uma com uma pergunta que abre e uma resposta que custa alguma coisa. Antes de escrever um capítulo novo, localize em que parte ele cai — se não couber em nenhuma, é porque ele começa uma.
+> **Para que serve este documento:** a saga tem 238 capítulos e cresceu por acréscimo. Aqui ela está separada em **livros** e **partes**, cada uma com uma pergunta que abre e uma resposta que custa alguma coisa. Antes de escrever um capítulo novo, localize em que parte ele cai — se não couber em nenhuma, é porque ele começa uma.
 >
 > **Esta é a fonte da verdade estrutural.** Os intervalos abaixo são exatamente os do menu lateral (`docs/.vitepress/config.ts`). Se um dia divergirem, o menu está certo e este arquivo está velho — é o menu que o leitor navega.
 
@@ -15,7 +15,7 @@ description: "A estrutura da saga: três livros, vinte e quatro partes, do prime
 
 ```mermaid
 timeline
-    title Ecos de Baía Cinzenta — 235 capítulos, 3 livros, 24 partes
+    title Ecos de Baía Cinzenta — 238 capítulos, 3 livros, 24 partes
     section Livro 1 · O Dilúvio (caps 1-104)
         Partes I-VI · caps 1-27 : Olhos de Vidro : A voz sem corpo : O Gamemaster usa o rosto do pai
         Partes VII-IX · caps 28-55 : A Torre cai : O céu quebra : Torre do Relógio
@@ -24,7 +24,7 @@ timeline
         Parte XV · caps 105-114 : O pai volta : A coleira térmica
         Partes XVI-XVIII · caps 115-157 : A Necrópole : O Taxidermista : Rangel cai
         Partes XIX-XX · caps 158-184 : O Sentinel : Aria morre : A prótese de Vasco
-    section Livro 3 · A Prova (caps 185-233)
+    section Livro 3 · A Prova (caps 185-236)
         Partes XXI-XXII · caps 185-217 : Oitocentos metros : O Poço : A porta de chumbo
         Parte XXIII · caps 218-225 : Arca Zero : A fita do pai : A superfície
         Parte XXIV · caps 226-233 : Elena volta : A rubrica : Ponto Zero
@@ -40,7 +40,7 @@ timeline
 |---|---|---|---|---|---|
 | **1 — O Dilúvio** | 1–104 | I–XIV | Quem está usando o rosto do meu pai? | O cérebro dele é a CPU da IA, e a cidade afunda por decreto | As pernas de Gabo, a mãe, a rede e o bairro inteiro |
 | **2 — A Ascensão** | 105–184 | XV–XX | O que o pai virou quando voltou? | Uma inteligência com o código moral intacto e a empatia amputada | Rangel, o pendrive de Aria, o braço de Gabo, a Valéria que sentia |
-| **3 — A Prova** | 185–233 | XXI–XXIV | O crime pode ser provado? | Pode: está em papel, e a rubrica é sempre a mesma | A Arca Zero morre para que o arquivo viva |
+| **3 — A Prova** | 185–236 | XXI–XXIV | O crime pode ser provado? | Pode: está em papel, e a rubrica é sempre a mesma | A Arca Zero morre para que o arquivo viva |
 
 ---
 
@@ -76,14 +76,14 @@ timeline
 | XIX | 158–169 | O Frio da Lógica | O Aeterna Sentinel **funde o pendrive de Aria** no terminal do Arquivo Executivo |
 | XX | 170–184 | Fronteiras de Ferrugem | A prótese de Vasco; Valéria entra em **Modo de Segurança** e não sai |
 
-### Livro 3 — A Prova (caps 185–233)
+### Livro 3 — A Prova (caps 185–236)
 
 | Parte | Caps | Título | O que muda de forma irreversível |
 |---|---|---|---|
 | XXI | 185–199 | O Verdor Metálico | O Arquivo, a biomassa e o encontro com Elias |
 | XXII | 200–217 | O Poço do Abismo | Oitocentos metros até a porta de chumbo |
 | XXIII | 218–225 | **Arca Zero** | A fita de admissão do pai; Gabo perde o braço e fecha o luto |
-| XXIV | 226–233 | **A Rubrica** | Elena volta com as prensas; Krell é nomeado o autor; Gabo descobre que era o grupo de controle |
+| XXIV | 226–236 | **A Rubrica** | Elena volta com as prensas; Krell é exposto; Elena destrói a subestação da Aeterna e morre heroicamente; a fita cassete e o enterro |
 
 > **Por que as partes de I a VI são mais curtas.** Elas têm 3 a 6 capítulos, contra 12 a 18 das partes finais. Não é descuido: o primeiro ato é noir de corte rápido, com capítulos curtos e viradas frequentes, e o ritmo abre conforme a história desce. Os números romanos de I a XV também são **citados 86 vezes no dossiê e na cronologia** — renumerá-los para emparelhar tamanho quebraria referência canônica em troca de simetria cosmética.
 
@@ -95,32 +95,32 @@ Quem entra, quem sai e quem morre. Barras cortadas indicam ausência do palco, n
 
 ```mermaid
 gantt
-    title Presença dos personagens ao longo dos 235 capítulos
+    title Presença dos personagens ao longo dos 238 capítulos
     dateFormat X
     axisFormat cap %s
 
     section Núcleo
-    Gabo (protagonista)                       :active, 1, 233
-    Valéria (deuteragonista)             :active, 3, 233
+    Gabo (protagonista)                       :active, 1, 236
+    Valéria (deuteragonista)             :active, 3, 236
     Aria — no pendrive (fase inicial)    :done, 2, 10
     Aria — no pendrive (Consórcio/Rede)  :done, 56, 96
     Aria — no pendrive (Glitch e Reboot) :done, 109, 167
-    Elias (o civil)                      :active, 193, 233
+    Elias (o civil)                      :active, 193, 236
 
     section Família
     Dante — desaparecido/no tanque       :done, 1, 103
-    Dante — retornado                    :active, 104, 233
+    Dante — retornado                    :active, 104, 236
     Elena — na cidade                    :done, 17, 112
-    Elena — fora da cúpula               :crit, 113, 233
+    Elena — fora da cúpula               :crit, 113, 236
     Marco (o rival)                      :active, 4, 172
     Clara (a reconstrução)               :active, 29, 160
 
     section Antagonistas
-    Viktor Krell — VILÃO MÁXIMO          :crit, 4, 233
+    Viktor Krell — VILÃO MÁXIMO          :crit, 4, 236
     O Gamemaster (arma de Krell)         :done, 14, 31
     O Taxidermista                       :done, 3, 170
     Dra. Elara Vance — Aeterna           :done, 13, 112
-    Dra. Elara Vance — no berço          :crit, 113, 233
+    Dra. Elara Vance — no berço          :crit, 113, 236
 
     section Baixas
     Roberto Miranda (destruído 103)      :done, 1, 103
