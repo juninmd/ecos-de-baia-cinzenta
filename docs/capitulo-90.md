@@ -113,7 +113,7 @@ Gabo pegou.
 
 — Fogo.
 
-— Errado. — O velho balançou o dedo. — Floresta tem medo de fogo do jeito que uma cidade tem medo de chuva forte: incomoda, custa caro, e no ano seguinte cresce melhor. O Jardim já queimou duas vezes desde março. O senhor não soube porque a fumaça não subiu.
+— Errado. — O velho balançou o dedo. — Floresta tem medo de fogo do jeito que uma cidade tem medo de chuva forte: incomoda, custa caro, e no ano seguinte cresce melhor. O Jardim já queimou duas vezes desde novembro. O senhor não soube porque a fumaça não subiu.
 
 — Então o que ele teme?
 
@@ -150,6 +150,10 @@ Gabo ficou um tempo em silêncio, com o bote balançando na água parada.
 O Arquivista suspirou.
 
 — Está na única coisa desta cidade que se recusou a virar carne. — Ele apontou vagamente para o norte, na direção do Hospital. — Na IA tática que o senhor resgatou de uma cabine telefônica no Dilúvio e que mantém num pendrive blindado de titânio, acoplado a um berço de contenção num quarto sem janela.
+
+— Como o senhor sabe disso?
+
+— Eu sei o que esta cidade assinou enquanto ainda sabia assinar. — O velho deu de ombros, sem nenhum orgulho. — Berço de diagnóstico sai do almoxarifado em duas vias. Uma fica no hospital. A outra vem para a biblioteca, porque é assim que funciona arquivo público, detetive, e porque ninguém nunca deu baixa nesse costume.
 
 — Ela é o portador.
 
