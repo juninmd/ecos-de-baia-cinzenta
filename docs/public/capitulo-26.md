@@ -21,13 +21,13 @@ Havia detalhes. Era isso que Gabo ia lembrar depois: não a emoção, os detalhe
 
 Elena sussurrou, a arma baixa. — Gabo, o que é isso?
 
-— É uma simulação — disse Valéria, a voz trêmula. Seu implante ocular piscava, analisando o ambiente. — Imersão total. A Rede está tentando nos neutralizar com... nostalgia.
+— É uma simulação — disse Valéria, a voz trêmula. Seu implante ocular piscava, analisando o ambiente. — Imersão total.
 
-— Não é nostalgia — corrigiu Valéria, baixinho, para Elena. — É a memória dele. A simulação está lendo a gente enquanto a gente olha.
+— Não é nostalgia — corrigiu ela mesma, baixinho, para Elena. — É a memória dele. A simulação está lendo a gente enquanto a gente olha.
 
 — Como você sabe?
 
-— Porque a panela está no fogo errado. — Ela apontou com o queixo, os olhos prateados passando por cima da cena como um scanner. — Ninguém cozinha com a tampa aberta e o fogo alto ao mesmo tempo. A mãe dele não fazia isso. A simulação faz, porque aprendeu a cozinhar com ele, e ele nunca prestou atenção na boca do fogão.
+— Porque a panela está no fogo errado. — Ela apontou com o queixo, os olhos azul-gelo passando por cima da cena como um scanner. — Ninguém cozinha com a tampa aberta e o fogo alto ao mesmo tempo. A mãe dele não fazia isso. A simulação faz, porque aprendeu a cozinhar com ele, e ele nunca prestou atenção na boca do fogão.
 
 Gabo não ouvia. Ele deu um passo à frente, depois outro. A figura da mãe estendeu a mão.
 
