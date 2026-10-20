@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "python -m pytest tests/ scripts/",
+    "test": "node scripts/npm_test.mjs",
     "build:sw": "tsc -p docs/tsconfig.sw.json",
     "docs:dev": "npm run build:sw && vitepress dev docs",
     "docs:build": "npm run build:sw && vitepress build docs",

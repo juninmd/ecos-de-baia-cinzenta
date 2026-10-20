@@ -1,6 +1,8 @@
 ---
 image: /capitulo_4.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Viktor Krell, Marco Moretti, Kael "O Cirurgião", Dra. Cecília Weiss, Aria Moretti
+Localização: Torre Aeterna, Distrito Alto
+Personagens Presentes: Gabriel "Gabo" Moretti, Viktor Krell, Marco Moretti, Kael "O Cirurgião", Aria (módulo físico)
+Participação em memória: Dra. Cecília Weiss
 ---
 # Capítulo 4: A Torre de Marfim
 
@@ -14,17 +16,17 @@ Enquanto ajustava o binóculo, sua visão embaçou por um segundo. Um flash de m
 
 *"Você tem medo de entrar lá, Gabriel?"* A voz da Dra. Cecília Weiss ecoou em sua mente.
 
-*"Eu não tenho medo de prédios, Doutora."*
+— *"Eu não tenho medo de prédios, Doutora."*
 
-*"Não do prédio. Do que ele representa. Você diz que a tecnologia é fria, mas eu vejo suas mãos tremerem. Você sabe que a máquina não erra, e isso te aterroriza. Porque se a máquina é perfeita, o erro é sempre humano. E você se sente... defeituoso."*
+— *"Não do prédio. Do que ele representa. Você diz que a tecnologia é fria, mas eu vejo suas mãos tremerem. Você sabe que a máquina não erra, e isso te aterroriza. Porque se a máquina é perfeita, o erro é sempre humano. E você se sente... defeituoso."*
 
-*"A senhora está com a caneta parada há um minuto."*
+— *"A senhora está com a caneta parada há um minuto."*
 
-*"Estou. Gabriel, na semana passada você começou uma frase com 'em catorze anos de polícia eu cruzei uma linha' e mudou de assunto. Eu deixei passar. Não vou deixar de novo."*
+— *"Estou. Gabriel, na semana passada você começou uma frase com 'em catorze anos de polícia eu cruzei uma linha' e mudou de assunto. Eu deixei passar. Não vou deixar de novo."*
 
-E ali, no telhado, com o binóculo na mão e a Torre de Marfim recortada contra a chuva, Gabo fez o que fazia toda vez: guardou aquilo no mesmo lugar onde guardava o resto, embaixo de tudo, numa caixa que ele não abria nem sozinho.
+E ali, no beco, com o binóculo na mão e a Torre de Marfim recortada contra a chuva, Gabo fez o que fazia toda vez: guardou aquilo no mesmo lugar onde guardava o resto, embaixo de tudo, numa caixa que ele não abria nem sozinho.
 
-*"Foi força de expressão, doutora."*
+— *"Foi força de expressão, doutora."*
 
 Ela não acreditou. Ele sabia que ela não acreditou. E o assunto morreu ali por mais alguns anos.
 
@@ -44,7 +46,7 @@ Os outros dois viraram-se, os olhos brilhando com uma luminescência azulada e d
 
 — Erro de sistema... — murmurou o viciado, avançando. — Eliminar obstáculo...
 
-Gabo desviou da estocada desajeitada e acertou um soco curto no plexo solar do agressor. O viciado dobrou-se, vomitando um líquido prateado. O terceiro fugiu para as sombras, gritando códigos binários desconexos.
+Gabo desviou da estocada desajeitada e acertou uma cotovelada curta no plexo solar do agressor. O viciado dobrou-se, vomitando um líquido prateado. O terceiro fugiu para as sombras, gritando códigos binários desconexos.
 
 Gabo se agachou ao lado da vítima. Era um homem vestindo o uniforme cinza rasgado dos estivadores do porto.
 
@@ -58,7 +60,7 @@ Gabo sentiu a raiva queimar no peito, fria e dura. O "progresso" de Krell não a
 
 — Fique aqui — Gabo colocou uma nota de crédito amassada na mão do homem. — Vou ter uma conversinha com o seu chefe.
 
-Ele precisava de um jeito de entrar. E o jeito veio da peça de titânio fosco acoplada ao seu comunicador tático — o componente tipo pendrive que ele puxara da cabine telefônica durante a enchente. Quando se aproximou da porta de manutenção no nível do subsolo, o LED do pendrive piscou em azul-elétrico no bolso do sobretudo e a trava magnética da parede estalou.
+Ele precisava de um jeito de entrar. E o jeito veio da peça de titânio fosco acoplada ao seu comunicador tático — o componente tipo pendrive que ele puxara da cabine telefônica durante a enchente. A queimadura na palma direita ainda ardia sob a gaze. Quando se aproximou da porta de manutenção no nível do subsolo, o LED do pendrive piscou em azul-elétrico no bolso do sobretudo e a trava magnética da parede estalou.
 
 *ACESSO CONCEDIDO: UNIDADE AUTÔNOMA ARIA.*
 
@@ -82,7 +84,7 @@ Viktor Krell.
 
 O CEO da Aeterna parecia uma criança vestida de imperador, mas seus olhos — dois orbes de safira cibernética — irradiavam uma maldade antiga. Ele gesticulava com uma bengala de titânio negro, e os magnatas ao redor dele, homens com o dobro de seu tamanho, encolhiam-se como colegiais.
 
-Gabriel, ainda com o sobretudo molhado e botas sujas de lama, caminhou em direção a eles. O contraste com os convidados de gala era um grito visual. Ele pegou uma taça de uma bandeja que passava, bebeu em um gole só para acalmar os nervos, e se infiltrou no círculo de conversa.
+Gabriel, ainda com o sobretudo molhado e botas sujas de lama, caminhou em direção a eles. O contraste com os convidados de gala era um grito visual. Ele pegou uma taça de uma bandeja que passava com a mão esquerda, bebeu em um gole só para acalmar os nervos, e se infiltrou no círculo de conversa.
 
 — ...a eficiência energética do Distrito 4 aumentou 20% desde que implementamos o racionamento neural — dizia Krell, sua voz um barítono surpreendentemente profundo. — Os pobres não precisam de tanta largura de banda cognitiva. Eles só precisam saber obedecer.
 
@@ -118,7 +120,7 @@ A menção do projeto fez Marco empalidecer. Krell, no entanto, apenas riu. Uma 
 
 — Você tem a ousadia do seu pai, Detetive. Dante também não sabia quando parar. Ele era um homem... robusto. Grande. — Krell apertou o punho de sua bengala. — Eu sempre apreciei como os grandes caem fazendo tanto barulho.
 
-— Eu tenho a foto, Krell. A foto do meu pai. O que o "Taxidermista" tem a ver com vocês?
+— Eu tenho as duas fotos, Krell. A do meu pai, a da delegacia. O que o "Taxidermista" tem a ver com vocês?
 
 — Tudo está conectado, Detetive. O caos que você vê nas ruas... é apenas a matéria-prima. Nós vendemos a ordem.
 
@@ -134,7 +136,7 @@ Ele não usava terno, mas um traje tático de gala. Suas mãos estavam enluvadas
 
 Kael avançou. Gabriel sabia que não podia vencer numa luta corporal, não contra um ciborgue de combate classe militar. Mas ele não precisava vencer. Precisava de uma cena.
 
-Ele agarrou a toalha da mesa mais próxima e puxou. Cristais, garrafas caras e pratos de caviar voaram, estilhaçando-se no chão com um estrondo que parou a festa inteira.
+Ele agarrou a toalha da mesa mais próxima com a esquerda e puxou. Cristais, garrafas caras e pratos de caviar voaram, estilhaçando-se no chão com um estrondo que parou a festa inteira.
 
 — Sorriam para as câmeras! — gritou Gabriel, erguendo o distintivo manchado de sangue. — O show de horrores começou! Fachada bonita escondendo sujeira!
 
@@ -158,9 +160,9 @@ Enquanto era arrastado pelos corredores de serviço, sangrando pelo nariz, o com
 
 Uma mensagem. Criptografada. Mas a chave era a data no relógio da foto.
 
-*"Você faz muito barulho, Detetive. Se quiser respostas, pare de gritar e comece a ouvir. O Padre está esperando no confessionário. Estação Central abandonada. Linha Vermelha. Venha sozinho. Traga o perdão, ou traga munição."*
+A mensagem dizia: *"Você faz muito barulho, Detetive. Se quiser respostas, pare de gritar e comece a ouvir. O Padre está esperando no confessionário. Estação Central abandonada. Linha Vermelha. Venha sozinho. Traga o perdão, ou traga munição."*
 
-Gabriel se levantou, limpando o sangue da boca com as costas da mão suja de lama. Ele cuspiu um coágulo escuro no asfalto molhado e tocou o lábio partido. Ardia como o inferno, mas os dentes ainda estavam todos lá.
+Gabriel se levantou, limpando o sangue da boca com as costas da mão esquerda, ainda suja de lama. Ele cuspiu um coágulo escuro no asfalto molhado e tocou o lábio partido. Ardia como o inferno, mas os dentes ainda estavam todos lá.
 
 — Ótimo — resmungou, sentindo o gosto de ferro e tocando o Colar de Sol sob a camisa para se certificar de que ainda estava inteiro. — Menos mal.
 

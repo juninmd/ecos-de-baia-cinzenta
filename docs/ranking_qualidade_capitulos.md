@@ -8,31 +8,31 @@ Este documento mantém um registro da avaliação de qualidade narrativa, ritmo 
 ---
 
 ### Capítulo 1: Olhos de Vidro
-* **Nota:** ⭐ **9.7/10**
+* **Nota:** ⭐ **8/10**
 * **Pontos Fortes:**
-  * **Atmosfera Noir:** Cenários sujos e urbanos sustentam o clima da série.
-  * **Ação Consequente:** Conflitos físicos com impacto e custo real.
-  * **Carga Emocional:** Dor e motivação pessoais bem marcadas.
+  * **Procedimento e custódia:** amostra dividida, transmissor isolado e fotografia registrada.
+  * **Voz:** Dantas contabiliza, Silva hesita e Gabo exige que o vínculo entre na papelada.
+  * **Atmosfera:** chuva, ruído, cheiro e paladar condicionam o exame e a memória.
 * **Pontos Fracos:**
-  * Nenhum ponto crítico; pequenas transições poderiam respirar mais.
+  * Abertura paga o preço da régua: consequência 0, sem episódio anterior para reinterpretar.
 
 ### Capítulo 2: Náufragos de Concreto
-* **Nota:** ⭐ **9.7/10**
+* **Nota:** ⭐ **8/10**
 * **Pontos Fortes:**
-  * **Atmosfera Noir:** Cenários sujos e urbanos sustentam o clima da série.
-  * **Ação Consequente:** Conflitos físicos com impacto e custo real.
-  * **Carga Emocional:** Dor e motivação pessoais bem marcadas.
+  * **Aria com limites:** depende de energia local, deixa registro e não apaga os originais.
+  * **Rota suspeita:** o módulo traz o destino antes do despacho chamar a perícia.
+  * **Custo físico:** corte e queimadura na mão direita persistem até o capítulo seguinte.
 * **Pontos Fracos:**
-  * Exposição densa em alguns trechos pode desacelerar o ritmo.
+  * O trecho da enchente ainda alonga a entrada; o custo é local, não permanente.
 
 ### Capítulo 3: Teatro de Carne
-* **Nota:** ⭐ **9.7/10**
+* **Nota:** ⭐ **9/10**
 * **Pontos Fortes:**
-  * **Atmosfera Noir:** Cenários sujos e urbanos sustentam o clima da série.
-  * **Ação Consequente:** Conflitos físicos com impacto e custo real.
-  * **Carga Emocional:** Dor e motivação pessoais bem marcadas.
+  * **Evidência disputada:** Vilar separa proprietário de autor e a custódia fica explícita.
+  * **Plantio:** fotos, relógio e data 14/10 sustentam a passagem ao capítulo 4.
+  * **Custo:** a consulta externa avisa a Aeterna e fecha a via discreta de investigação.
 * **Pontos Fracos:**
-  * Nenhum ponto crítico; pequenas transições poderiam respirar mais.
+  * A perícia ainda concentra parte da explicação; autoria e destinatário seguem em aberto.
 
 ### Capítulo 4: A Torre de Marfim
 * **Nota:** ⭐ **9.7/10**

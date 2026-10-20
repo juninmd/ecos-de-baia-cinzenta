@@ -1,12 +1,14 @@
 ---
 image: /capitulo_2.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Inspetor Rangel, Aria
+Localização: Setor 7 e Via Costeira, Distrito Baixo
+Personagens Presentes: Gabriel "Gabo" Moretti, Aria (módulo físico)
+Participação por rádio: Inspetor Rangel
 ---
 # Capítulo 2: Náufragos de Concreto
 
-A chuva não era mais uma presença — era uma sentença. O céu de Baía Cinzenta havia desabado sobre o Distrito Baixo, não em gotas, mas em lâminas líquidas que fatiavam a visibilidade até restar apenas um metro de mundo. A enchente subia pelos bueiros entupidos com um gorgolejo fétido de enxofre e óleo queimado, lambendo a metade das rodas. A água ácida martelava o capô do *Cobalt* de Gabo como dedos impacientes de algum deus morto, corroendo a pintura já descascada em bolhas negras desde o caso da Torre.
+A chuva já cobria metade das rodas do *Cobalt*. Pelos bueiros do Setor 7, a água voltava em golfadas de enxofre e óleo. Gabo deixara o morto da Ferrugem com a perícia; levava o recibo das amostras no bolso e a fotografia fechada no envelope de transporte. Não conseguia parar de sentir a borda daquele papel contra o peito.
 
-Gabriel dirigia com um olho na correnteza barrenta e outro no retrovisor, onde a paranoia vivia de forma permanente há quinze anos. O motor a hidrogênio do carro tossia como um velho tuberculoso, cada engasgada um lembrete de que até máquinas morriam afogadas em Baía Cinzenta. O limpador de para-brisa batia em um ritmo neurótico — *thump-thump-thump* — mas era inútil. Como tentar secar o Dilúvio com guardanapos de papel.
+O motor a hidrogênio falhava a cada aceleração. O limpador arrastava uma folha morta de um lado para o outro do para-brisa. A rua só aparecia no intervalo entre duas passadas. Ele seguia devagar, com a janela aberta para ouvir a água bater no assoalho.
 
 O rádio vomitava estática, depois se rendeu a uma voz que Gabo conhecia e odiava em medidas iguais.
 
@@ -20,101 +22,105 @@ Ele apertou o botão do transmissor com mais força do que o plástico merecia.
 
 — Estou ocupado, Rangel. A rua virou rio.
 
-— *Sempre ocupado salvando o mundo.* — A voz do Inspetor Rangel pingava veneno pelo alto-falante rachado. Não sarcasmo — veneno de verdade. — *O Diretor Dantas acabou de sair da minha sala. Passou uma hora me mostrando um dossiê sobre você. Grosso assim.* O som úmido de palmas batendo. *Liberdades procedimentais. Uso excessivo de força. Perícia de nível 5 para um "Zé Ninguém" na Ferrugem. Você sabe quanto custa mobilizar biossegurança? Mais que meu salário anual.*
+— *Recebi sua requisição. Biossegurança, espectrografia, análise de transmissor. Falta a via de autorização.* — Rangel bateu alguma coisa contra a mesa. *O Dantas está aqui do lado, Moretti. Quer saber se você vai assinar a despesa.*
 
-Gabo cerrou os dentes até sentir o gosto amargo de bile e café frio no fundo da garganta. Sua mão esquerda foi ao peito, apertando o Colar de Sol sob a camisa úmida. A dor aguda do metal mordendo a pele era a única âncora que impedia sua mão direita de arrancar o painel do carro.
+Gabo sentiu no fundo da boca o café que bebera na Ferrugem.
 
-— O caso é meu. E o cadáver no Capítulo 1 tinha a assinatura da Aeterna.
+— Assino. Conserve a amostra lacrada. E mande a Cruz me ligar quando tiver alguma coisa do transmissor.
 
-— *Para a Aeterna Corp, se não paga impostos, é biomassa descartável.* — Rangel deixou o silêncio venenoso se arrastar sobre o chiado da frequência. — *A Corregedoria reabriu o caso do Porto, Moretti. Estão procurando qualquer coisa. Uma evidência contaminada. Um suspeito com o nariz quebrado sem a papelada certa. Um tiro "acidental" de três anos atrás.*
+— *Primeiro a assinatura.* O chiado cresceu; Rangel se afastara do microfone. Quando voltou, falou mais baixo. *A Corregedoria reabriu o caso do Porto. Aquele tiro de três anos atrás. Querem cruzar sua requisição com o histórico de liberdades procedimentais.*
 
-Gabo sentiu o estômago contrair como um punho fechado. O caso do Porto. Evidências que desapareciam na água. Testemunhas que mudavam de história da noite para o dia. E uma cicatriz que nunca fechou.
+Gabo tirou o pé do acelerador. O caso do Porto, os depoimentos que mudavam entre uma sala e outra. Rangel não mencionou a fotografia. Não precisava; o nome Moretti já constava no registro da evidência.
 
-— *Já preenchi o Formulário 88-C. Suspensão preventiva.* — A satisfação na voz de Rangel era quase corpórea. — *Só falta minha assinatura. Cuidado onde pisa, "herói". Uma vírgula fora do lugar e você sangra na sarjeta.*
+— *O 88-C está preenchido. Suspensão preventiva. Se você me der mais um motivo, eu assino também.*
 
 *Click.*
 
-Gabo olhou para o rádio morto. Depois socou o volante. Uma vez. Duas. O couro sintético rasgou sob os nós dos dedos, deixando a espuma amarelada à mostra.
+Gabo socou o volante. A costura abriu sob os nós dos dedos; a pele também. Ficou olhando a espuma amarela que aparecia pelo rasgo.
 
 — Filho da puta.
 
-A dor latejante nos ossos da mão era focada. Real. Melhor que o medo difuso que a ameaça de Rangel plantara em seu peito.
+Enrolou o lenço no corte. Apertar o volante agora doía. Bom serviço, inspetor.
 
 O rádio voltou à vida com um estalo seco. Voz automática do despacho municipal, sem emoção.
 
 — *Atenção, todas as unidades. Rompimento de galeria e enchente severa no Setor 7. Trânsito desviado para a Via Costeira.*
 
-Gabo conhecia a Via Costeira. Estreita como um corredor de presídio, espremida entre o paredão de concreto e o mar morto, mal iluminada por postes de vapor de sódio que piscavam como olhos moribundos.
+Pegou o desvio entre o paredão de concreto e o mar morto. Por aquela rua, um carro não conseguia voltar sem esperar outro passar.
 
 ***
 
-O trânsito parou completamente três quarteirões adiante. Um caminhão de lixo tombado bloqueava a pista alagada como o cadáver de uma baleia de aço, represando a enxurrada até a altura dos faróis. Gabo desligou o motor. Economizar célula de hidrogênio. Sobreviver mais uma noite.
+Três quarteirões depois, um caminhão de lixo tombado represava a correnteza até os faróis. Gabo desligou o motor. À frente, os motoristas buzinavam para o motorista que não estava mais na cabine.
 
-Seu estômago rugiu. Ele tateou o banco do passageiro até encontrar uma barra de proteína sintética com gosto de papelão salgado. Enquanto mastigava, seus olhos varreram a rua inundada através do vidro embaçado.
+Comeu meia barra de proteína sintética, papelão salgado grudando nos dentes. Foi quando a luz mudou no vidro.
 
-No canto da calçada mais alta, ilhada por uma enxurrada escura que parecia um pequeno mar de óleo e espuma química, havia uma **cabine telefônica**. Uma relíquia blindada do século passado, de aço oxidado e cúpula de acrílico rachada.
+Na calçada mais alta, uma **cabine telefônica** resistia à enxurrada. Aço oxidado, acrílico rachado, cabos externos cortados sobre o teto. Todos os postes estavam apagados. O visor do telefone, não.
 
-Todos os postes do quarteirão estavam apagados, engolidos pelo curto-circuito da enchente. Mas, lá dentro da cabine telefônica, a pequena tela de diagnóstico do terminal público piscava.
+Três pulsos curtos, três longos, três curtos. Gabo esperou. A sequência se repetiu sem perder o intervalo. Um pedido de socorro num aparelho sem linha.
 
-Não era mau contato. Era cadência. Três pulsos curtos, três longos, três curtos. Código morse refletindo na água preta que subia pelo degrau da cabine, embora os cabos externos do poste estivessem visivelmente cortados, pendurados sobre o teto de acrílico como tripas de cobre.
+No visor, um rosto feminino em linhas azuis tentava se formar. Abaixo dele, o indicador do acumulador de emergência marcava três por cento.
 
-No visor rachado do aparelho, um pequeno holograma de interface — a silhueta translúcida de um rosto feminino estilizado em linhas de código azul e âmbar — tentava se formar e falhava, piscando no escuro.
+Podia ser uma chamada antiga presa na memória. Podia ser uma isca. Ele deixou o envelope da fotografia no compartimento trancado do carro e abriu a porta.
 
-Gabo piscou, limpando os olhos ardentes. Insônia. Só podia ser. Terminal desconectado não transmite.
-
-Ele abriu a porta do *Cobalt*. A água gelada da enchente invadiu suas botas na mesma hora, subindo até a canela com um choque térmico que lhe roubou o fôlego. O cheiro de esgoto, ozônio e peixe podre dominava o ar.
+A água gelada lhe entrou pelas botas. No ar, esgoto, ozônio e peixe podre.
 
 Ele avançou pela correnteza, segurando a aba do sobretudo bege acima da cintura, a mão direita já no cabo da Glock. Empurrou a porta emperrada da cabine telefônica; as dobradiças enferrujadas gemeram.
 
 Dentro do cubículo estreito, o cheiro de metal queimado era forte. O fone de baquelite pendia do gancho por um cabo espiral esticado, emitindo um zumbido agudo de modulação de dados. E ali, **espetado diretamente na porta de serviço aberta sob o painel da cabine telefônica**, havia um objeto que não pertencia àquele aparelho.
 
-Era um **componente físico tipo um pendrive** — um módulo prismático de titânio fosco e polímero negro, do tamanho de um polegar blindado, com nervuras de dissipação térmica e um único LED que pulsava em azul elétrico. O metal em redor da entrada de dados do telefone público estava tão quente que evaporava as gotas de chuva que respingavam pela fresta do acrílico.
+Um módulo de titânio fosco e polímero negro, **do tamanho de um pendrive**, com nervuras de dissipação e um LED azul. Gotas evaporavam ao tocar o metal junto à entrada de dados. O acumulador ainda alimentava o barramento local.
 
 Gabo levou o fone ao ouvido com a mão esquerda, mantendo a arma em punho.
 
-— *Detetive Gabriel Moretti. Identificação vocal confirmada.*
+— Tem alguém aí?
 
-A voz que saiu do fone não era gravação municipal. Era nítida, sintética e cortante, montada sobre camadas de processamento que nenhuma linha pública suportaria — uma assistente de IA operando diretamente a partir daquele pequeno drive espetado no painel.
+— *Voz compatível com Gabriel Moretti. Confirme a identificação.*
+
+Ele apertou o fone. Não dera o nome. A voz sintética parecia mais próxima que o telefone junto à sua orelha.
 
 — O que é isso? — Gabo murmurou, olhando para os cabos cortados lá fora e depois para o pendrive pulsando no slot. — Quem plantou você aqui?
 
-— *Protocolo de Sombra iniciado,* — respondeu a assistente de IA pelo fone, enquanto o visor da cabine exibia gráficos de varredura se fechando sobre o Setor 7. — *Eles estão ouvindo o silêncio da rede, detetive. Mas o silêncio mente. A varredura da Aeterna vai queimar este ponto cego em quarenta segundos.*
+— *Protocolo de Sombra iniciado.* O visor mostrou uma sequência de pulsos de radar. *Recebo a varredura de um drone. Se mantiver o trajeto, chega aqui em quarenta segundos. Estimativa.*
 
 — Você é uma IA corporativa?
 
-— *Sou uma unidade autônoma de assistência tática e análise. E no momento sou a única coisa entre o seu distintivo e uma emboscada.* — O LED do componente tipo pendrive piscou em âmbar urgente. — *A chave não está no corpo, Moretti. A chave está na memória. Eu estou fisicamente alojada neste módulo de hardware. Se a água atingir o barramento inferior da cabine ou o drone de varredura triangular o sinal, meus setores serão corrompidos. Desconecte-me. Agora.*
+— *Unidade autônoma de assistência tática. A chave não está no corpo, Moretti. Está na memória.* O LED passou a âmbar. *Estou neste módulo. Se a água fechar o barramento, perco os setores ativos. Desconecte-me.*
 
 A enchente bateu contra a base da cabine telefônica, subindo mais cinco centímetros num redemoinho de lixo. Ao longe, entre as cortinas de chuva, o zumbido grave de um drone de patrulha cortou o trovão.
 
-Gabo não teve tempo para debater filosofia com um pedaço de silício. Enfiou dois dedos no painel da cabine telefônica e puxou o **pendrive**.
+Gabo guardou a Glock e largou o fone. Enfiou a mão direita no painel e puxou o **pendrive**.
 
-O metal estava quase fervendo, queimando a palma de sua mão através da pele úmida. No instante em que o conector universal saiu da porta de serviço, o visor do orelhão apagou com um estalo seco e o fone ficou mudo. A cabine telefônica voltou a ser apenas sucata ilhada na enchente.
+O metal queimou a palma. Ele o segurou pela manga antes de deixá-lo cair. Visor e fone apagaram assim que o conector saiu; só o drone continuou a crescer no escuro.
 
-Gabo fechou o punho em torno do componente quente e correu de volta pela água até o *Cobalt*, batendo a porta do motorista com o fôlego curto.
+Voltou ao *Cobalt* com o tecido preso entre os dedos. Ao fechar a porta, viu uma bolha se formando na palma, abaixo do corte nos nós. Mal conseguia dobrar a mão.
 
-Sob o painel do carro, ao lado do rádio policial, ficava a entrada universal de diagnóstico e telemetria do veículo. Gabo olhou para o objeto em sua mão: sete centímetros de titânio arranhado, pesado demais para um pendrive comum, com uma inscrição microscópica gravada a laser perto dos pinos de contato.
+Sob o painel ficava a entrada de diagnóstico e telemetria. A mesma oficina que não conseguia resolver a falha do motor a usava para atualizar o rádio policial. Gabo olhou o conector do módulo: encaixava ali.
 
-Ele espetou o pendrive na porta do painel do *Cobalt*.
+Desligou a ignição e encostou os pinos. O painel pediu autorização para uma sessão de manutenção. Lá fora, a luz de busca tocou o caminhão tombado. Gabo confirmou com a mão esquerda.
 
-O efeito foi instantâneo. O painel digital do carro acendeu em azul tático. O motor a hidrogênio ganhou vida sozinho, sem que ele girasse a chave, o ronco falho estabilizando-se num compasso limpo à medida que a IA recalibrava a injeção eletrônica em milissegundos. O rádio ligou, mas sem estática — apenas um canal criptografado limpo conectado diretamente ao sistema de som da cabine.
+O painel acendeu em azul. Ao dar a partida, sentiu o motor hesitar e depois firmar, ainda vibrando sob a água. Uma mensagem indicava compensação temporária na alimentação. O rádio encontrou um canal limpo.
 
-Na tela central do GPS, coordenadas começaram a ser traçadas sobre o mapa alagado da cidade:
+A voz automática do despacho voltou, agora sem estática:
+— *Moretti. Perícia solicitada no Setor 4 da Zona Industrial. Ocorrência sigilosa. Sem sirene.*
+
+Uma rota armazenada no módulo apareceu no GPS:
 
 `DESTINO: ZONA INDUSTRIAL — SETOR 4.`
 
-Gabo tentou cancelar a rota no botão físico, mas o painel exibiu um bloqueio de prioridade.
+O ponto final era o endereço do chamado que acabara de chegar. Gabo comparou os números. Coincidiam. O módulo já tinha a rota antes de ele ouvir o despacho.
 
 — Ótimo — murmurou Gabo, sentindo o suor frio misturar-se à água ácida na nuca. — Acabei de colocar um parasita militar no painel do meu carro.
 
-— *Correção: assistente tática,* — a voz sintética respondeu pelos alto-falantes do *Cobalt*, calma e cirúrgica, enquanto o LED do pendrive espetado no console pulsava no ritmo das sílabas. — *E eu acabei de apagar o registro da sua placa nos três radares da Via Costeira. De nada, detetive.*
+— *Assistente tática. Usei o rádio e as credenciais de manutenção para retirar sua placa da consulta imediata dos três radares desta via. Não apago as imagens originais. A sessão deixa registro e expira em noventa segundos.*
 
-Gabo olhou pelo retrovisor para a cabine telefônica vazia, já meio submersa na água escura da enchente. Depois voltou os olhos para o pequeno drive metálico cravado no painel.
+Gabo puxou o cabo de transmissão do rádio. O ícone da conexão externa apagou; o módulo continuou aceso, alimentado pelo carro. O drone passou sem parar. Isso não provava de que lado estava aquela coisa. Só lhe comprava um intervalo.
 
-— Se você vai pegar carona no meu painel — rosnou Gabo, engatando a primeira marcha —, pelo menos me diga como se chama.
+— Se você vai pegar carona no meu painel — rosnou Gabo —, pelo menos me diga como se chama.
 
 A tela do console piscou uma única vez, gravando quatro letras em azul-gelo:
 
 **ARIA.**
 
-— Zona Industrial, então — disse ele, pisando no acelerador e rasgando a lâmina d'água. — Vamos ver o que você tem guardado nessa memória, Aria.
+Gabo anotou no verso do recibo a hora em que autorizara a sessão. Depois engatou a primeira. Agora havia também um registro dele abrindo a rede policial para um hardware sem procedência.
 
+O trajeto azul seguiu aceso no painel, mesmo com a antena muda.

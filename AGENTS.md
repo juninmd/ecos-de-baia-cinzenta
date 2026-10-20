@@ -95,13 +95,15 @@
    Fidelidade de rosto é auditada com visão (`--visao N`). O ciclo completo está em
    `docs/pipeline_imagens.md`.
 12. **Bases de Referência Oficiais e Benchmark Gabo (OBRIGATÓRIO).** Gabo, Bio-Dante, Enzo e
-   Sofia **NUNCA** podem ser gerados/recriados sem suas imagens de referência oficiais:
-   - Gabo: base mandatória em `docs/public/personagens/gabo.jpg`.
-   - Bio-Dante: base fisionômica mandatória em `docs/public/personagens/dante.jpg` (biohost rejuvenescido).
-   - Enzo e Sofia: base fisionômica mandatória em `docs/public/personagens/enzo_sofia.png`.
-   A imagem `docs/public/personagens/gabo.jpg` é o **padrão ouro mandatório de qualidade visual,
-   textura cinematográfica realista (35mm film still, granulação suja, iluminação de rua)** para
-   todas as demais imagens do universo.
+    Sofia **NUNCA** podem ser gerados/recriados sem suas imagens de referência oficiais:
+
+    - Gabo: base mandatória em `docs/public/personagens/gabo.jpg`.
+    - Bio-Dante: base fisionômica mandatória em `docs/public/personagens/dante.jpg` (biohost rejuvenescido).
+    - Enzo e Sofia: base fisionômica mandatória em `docs/public/personagens/enzo_sofia.png`.
+
+    A imagem `docs/public/personagens/gabo.jpg` é o **padrão ouro mandatório de qualidade visual,
+    textura cinematográfica realista (35mm film still, granulação suja, iluminação de rua)** para
+    todas as demais imagens do universo.
 
 ## 📏 Padrão de Qualidade por Capítulo (OBRIGATÓRIO)
 
@@ -112,7 +114,7 @@
 ### Portões duros (reprovam sozinhos)
 
 | # | Portão | Limite |
-|---|---|---|
+| --- | --- | --- |
 | D1 | **Extensão** | ≥ 600 palavras (reprova abaixo disso: é cena, não capítulo). **Alvo: 1.100–1.600.** A mediana histórica da obra é 900, e capítulo curto é a causa número um de arco que não respira. |
 | D2 | **Título** | Exatamente um H1, no formato `# Capítulo N: Título`, idêntico ao menu. |
 | D3 | **Elenco declarado** | Bloco de metadados com Localização e Personagens Presentes. |
@@ -122,7 +124,7 @@
 ### Régua de qualidade (0 a 2 por eixo, máximo 10)
 
 | Eixo | 0 | 1 | 2 |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | **Atmosfera noir** | Só descrição visual | Dois sentidos | **Três ou mais sentidos**, e o ambiente tem opinião sobre os personagens |
 | **Custo** | Ninguém perde nada | Perda reversível | **Perda permanente**: corpo, pessoa, crença ou opção |
 | **Voz e personagem** | Todos falam igual | Protagonista tem voz | **Cada personagem fala do jeito dele** e o silêncio de alguém significa algo |
@@ -140,5 +142,9 @@
 5. **Revelação precisa de plantio.** Toda reviravolta tem que se sustentar em material já publicado. Cite o capítulo de plantio no dossiê.
 
 ## 🤝 Interaction Protocol
+
 - Follow the **Plan -> Act -> Validate** cycle for every task.
 - Consult `GEMINI.md` for project-specific instructions.
+- Para planejar, escrever ou revisar capítulos, use a [skill escrita-investigativa](.agents/skills/escrita-investigativa/SKILL.md).
+- Fonte oficial dos capítulos: `docs/capitulo-N.md`. O espelho `docs/public/capitulo-N.md` deve ser symlink relativo para `../capitulo-N.md`.
+  Migração pendente no Windows (WinError 1314); hoje ainda são cópias. Até a conversão, mantenha o espelho dos capítulos alterados idêntico à fonte oficial.
