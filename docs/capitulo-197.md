@@ -13,7 +13,7 @@ Elias choramingava a cada respingo, segurando a lanterna caseira com as duas mã
 
 Valéria ia logo atrás dele, o cyberdeck seguro no peito e a pistola em punho. Os filamentos de LED azul na franja curta dela iluminavam a água escura com um reflexo elétrico, e seus olhos ópticos prateados varriam as vigas com atenção incansável.
 
-— Mantém a luz baixa, Elias — ela repreendeu num sussurro ríspido, dando um toque com o cano da arma na mochila do velho. — Se você continuar sacudindo esse facho pro teto, vai chamar a atenção de qualquer rato ou drone de caça que estiver aninhado nas canaletas superiores.
+— Mantém a luz baixa, Elias — ela repreendeu num sussurro ríspido, dando um toque com o cano da arma na mochila dele. — Se você continuar sacudindo esse facho pro teto, vai chamar a atenção de qualquer rato ou drone de caça que estiver aninhado nas canaletas superiores.
 
 — Eu tô tentando, garota... tô tentando — Elias resmungava, limpando o suor da testa com o antebraço encardido. — Mas o ar aqui embaixo tá pesado demais... parece que tem chumbo dissolvido nessa água.
 
@@ -33,7 +33,7 @@ Pior do que a corrosão do metal, no entanto, eram as raízes bioluminescentes d
 
 — As raízes tão dormentes por causa da temperatura baixa dessa água, Elias — Valéria analisou com calma cirúrgica, raspando a crosta de ferrugem do primeiro tubo. — Mas a armação de ferro tá carcomida. Ela não aguenta o peso de nós três juntos. A gente tem que cruzar em fila indiana, um por vez, com passos curtos e sem pular.
 
-— Eu não vou primeiro! — o velho gritou baixo, sacudindo a cabeça num pânico cego. — Eu sou magro, se eu cair eu me afogo nessa gosma!
+— Eu não vou primeiro! — Elias gritou baixo, sacudindo a cabeça num pânico cego. — Eu sou magro, se eu cair eu me afogo nessa gosma!
 
 Dei um passo pesado na direção dele, a garra de ferro da armação erguendo-se e travando no colarinho do seu macacão com um estalo pneumático firme.
 
@@ -47,7 +47,7 @@ Valéria engatou a ponta da fita no mosquetão do cinto dele:
 
 — Põe o pé exatamente no centro do tubo mais largo, Elias. Não olha pra baixo e não corre.
 
-O velho subiu no cano com a lentidão de um equilibrista desesperado. A estrutura rangeu, soltando lascas de ferrugem na água escura, e as raízes bioluminescentes tremeram com a vibração, mas permaneceram passivas. Passo a passo, arrastando as solas com cuidado milimétrico, Elias cruzou os dez metros do vão e desabou na laje do outro lado, arfando de alívio.
+Elias subiu no cano com a lentidão de um equilibrista desesperado. A estrutura rangeu, soltando lascas de ferrugem na água escura, e as raízes bioluminescentes tremeram com a vibração, mas permaneceram passivas. Passo a passo, arrastando as solas com cuidado milimétrico, Elias cruzou os dez metros do vão e desabou na laje do outro lado, arfando de alívio.
 
 Ele correu até a coluna oposta e amarrou a fita de segurança num pino mestre de ferro fundido.
 
