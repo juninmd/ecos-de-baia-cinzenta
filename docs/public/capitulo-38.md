@@ -53,7 +53,7 @@ Gabo subiu com dificuldade os quatro lances de escada e ficou com ele quarenta m
 
 Ninguém no prédio comentou. Todo mundo ouviu.
 
-A Dra. Nise ainda não estava naquela delegacia — ela chegou no dia seguinte, com Vilar, resgatada de um comboio médico emboscado —, e Gabo passou os anos seguintes com a certeza inútil de que, se ela estivesse ali, teria conseguido descer com ele.
+A Dra. Nise ainda não estava naquela delegacia — ela chegou no dia seguinte, resgatada de um comboio médico emboscado —, e Gabo passou os anos seguintes com a certeza inútil de que, se ela estivesse ali, teria conseguido descer com ele.
 
 — Você está bem? — ele perguntou a Val, mais tarde, porque não sabia perguntar de outro jeito.
 
