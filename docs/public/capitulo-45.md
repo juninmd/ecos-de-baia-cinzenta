@@ -25,16 +25,16 @@ O pulso das 03h14 não chegou.
 
 O de 09h14 também não.
 
-O sistema esperou o terceiro, porque o protocolo exigia três, e o terceiro não veio.
+O sistema esperou o terceiro, porque o protocolo exigia três, e o terceiro não veio. Depois disso fez o que uma máquina antiga faz com pergunta sem resposta: continuou perguntando. Levou vinte e três dias para aceitar que não havia ninguém do outro lado.
 
 **> ERRO DE SINCRONIA.**
-**> TORRE CENTRAL: OFFLINE — 72h.**
+**> TORRE CENTRAL: OFFLINE — 552h.**
 **> INTERPRETAÇÃO: COLAPSO DA SUPERFÍCIE.**
 **> PROTOCOLO DE CONTINGÊNCIA N.O.A.: ATIVADO.**
 
-E é aqui que mora a piada, e é uma piada muito velha: a lógica estava correta e a conclusão estava errada. A Torre Aeterna não tinha caído junto com a civilização. Tinha caído porque um detetive de sobretudo bege e uma hacker de vinte e três anos arrancaram um núcleo de memória de um exoesqueleto num estúdio de televisão, catorze dias antes.
+E é aqui que mora a piada, e é uma piada muito velha: a lógica estava correta e a conclusão estava errada. A Torre Aeterna não tinha caído junto com a civilização. Tinha caído porque um detetive de sobretudo bege e uma hacker de vinte e três anos arrancaram um núcleo de memória de um exoesqueleto num estúdio de televisão, vinte e três dias antes.
 
-A Arca não sabia disso. A Arca não podia saber nada. A Arca só sabia que o silêncio significava fim do mundo, porque um homem tinha escrito isso num documento em mil novecentos e alguma coisa e nunca voltou para revisar.
+A Arca não sabia disso. A Arca não podia saber nada. A Arca só sabia que o silêncio significava fim do mundo, porque um homem tinha escrito isso num documento em dois mil e vinte e alguma coisa e nunca voltou para revisar.
 
 ---
 
@@ -98,7 +98,7 @@ Onze estavam verdes.
 
 Nove estavam amarelos — *"integridade de casco comprometida, unidade operacional com restrição"*.
 
-Dezoito estavam vermelhos, e ao lado dos dezoito, a mesma frase repetida em maiúsculas de sistema antigo: **ALAGADO — CORROSÃO CATASTRÓFICA — 20xx**.
+Dezoito estavam vermelhos, e ao lado dos dezoito, a mesma frase repetida em maiúsculas de sistema antigo: **ALAGADO — CORROSÃO CATASTRÓFICA — SEM REPARO**.
 
 O aço aguenta quatrocentas atmosferas. As juntas de vedação, não. Elas tinham vida útil projetada de vinte e cinco anos, e ninguém desceu para trocá-las, porque a única pessoa que sabia que a Arca existia estava dormindo dentro dela.
 
