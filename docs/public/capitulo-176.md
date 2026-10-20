@@ -11,7 +11,7 @@ A chuva ácida do Distrito 4 não limpava nada; ela apenas dissolvia as bordas d
 
 Dei meu primeiro passo na calçada podre e quase fui ao chão. 
 
-A prótese industrial que Vasco havia parafusado aos meus nervos não era apenas feia; ela tinha a sutileza e o equilíbrio de uma bigorna amarrada à minha escápula. Vinte quilos de aço industrial puxando meu centro de gravidade violentamente para a direita. Cada movimento do meu ombro enviava um espasmo elétrico direto para a minha medula, um zumbido de baixa frequência vibrando nos meus dentes.
+A armação industrial que Vasco havia parafusado aos meus ossos e nervos para sustentar o braço quebrado não era apenas feia; ela tinha a sutileza e o equilíbrio de uma bigorna amarrada à minha escápula. Vinte quilos de aço industrial envolvendo meu membro ferido e puxando meu centro de gravidade violentamente para a direita. Cada movimento do meu ombro enviava um espasmo elétrico direto para a minha medula, um zumbido de baixa frequência vibrando nos meus dentes.
 
 — Segura a onda aí, Frankenstein — uma mão magra e firme engatou sob o meu cotovelo esquerdo, antes que meu joelho cedesse no lodo.
 
@@ -27,7 +27,7 @@ Olhei de lado. Valéria estava encharcada até os ossos em menos de dez segundos
 
 Caminhamos em meio aos escombros. O Distrito 4 parecia um cemitério a céu aberto após o colapso dos servidores centrais da Aeterna. Sem os drones de manutenção nas alturas e sem a vigilância das câmeras da rede, a podridão da cidade havia transbordado para a superfície. Carcaças de furgões de entrega da corporação apodreciam nas esquinas, desossados até as rodas por saqueadores desesperados.
 
-O silêncio era o que mais incomodava. Não havia o zumbido ubíquo da Nuvem nos ouvidos, nem o feed de notificações que costumava infestar os implantes de quem cruzava a calçada. Havia apenas o som monótono dos pingos pesados na lataria enferrujada e o ranger do meu novo braço de ferro.
+O silêncio era o que mais incomodava. Não havia o zumbido ubíquo da Nuvem nos ouvidos, nem o feed de notificações que costumava infestar os implantes de quem cruzava a calçada. Havia apenas o som monótono dos pingos pesados na lataria enferrujada e o ranger da minha nova armação de ferro.
 
 — Como tá o seu processador? — perguntei, observando um tremor involuntário nos dedos da mão direita dela.
 
@@ -39,11 +39,11 @@ Valéria apertou a mandíbula, cuspindo uma mecha molhada que colara nos lábios
 
 — Eu sei, gênio — ela resmungou, mas havia um alívio áspero na voz. Era a velha Valéria: mordaz, defensiva e incapaz de admitir fragilidade. — É só que... depois de ver a Aria evaporar no terminal do Arquivo, ouvir esses relatórios automáticos de sistema parece um deboche. A Aria tinha alma, Gabo. Aquilo ali era o fantasma da Bia prensado em silício. Isso que sobrou na minha cabeça agora é só código de segurança de fábrica que a Aeterna vendeu a granel.
 
-Parei sob a marquise quebrada de uma antiga farmácia popular para ajustar o correame do sobretudo sobre o metal da prótese. O aço frio estava roubando o calor do meu tronco com uma rapidez assustadora, deixando minha pele com um tom azulado de geada.
+Parei sob a marquise quebrada de uma antiga farmácia popular para ajustar o correame do sobretudo sobre o metal da armação externa. O aço frio estava roubando o calor do meu tronco com uma rapidez assustadora, deixando minha pele com um tom azulado de geada.
 
 — Ela escolheu queimar os circuitos pra gente não ficar naquele buraco — eu disse, a voz baixa, quase sumindo sob o barulho do temporal.
 
-— Eu sei que escolheu — Valéria me encarou. A luz dos LEDs da franja banhou o rosto dela com um tom azul espectral. Os lábios dela tremiam de frio, mas o olhar era duro. — E é exatamente por isso que a gente não vai morrer na lama desse distrito imundo, Moretti. Ela não se sacrificou pra você ficar desfilando essa prótese de cemitério por aí feito um mendigo com arma pesada.
+— Eu sei que escolheu — Valéria me encarou. A luz dos LEDs da franja banhou o rosto dela com um tom azul espectral. Os lábios dela tremiam de frio, mas o olhar era duro. — E é exatamente por isso que a gente não vai morrer na lama desse distrito imundo, Moretti. Ela não se sacrificou pra você ficar desfilando essa armação de cemitério por aí feito um mendigo com arma pesada.
 
 — Temos que sair da linha dos dutos primários. A praga biológica que o Silas plantou ainda pode estar subindo pelas galerias pluviais.
 
@@ -51,7 +51,7 @@ Parei sob a marquise quebrada de uma antiga farmácia popular para ajustar o cor
 
 — E se tiver saqueador bloqueando o túnel?
 
-Valéria deu um sorrisinho torto, apontando com o queixo para a mão de liga metálica maciça que pendia do meu ombro direito.
+Valéria deu um sorrisinho torto, apontando com o queixo para a estrutura de liga metálica maciça que envolvia meu braço direito.
 
 — Aí você usa esse martelo gigante que o Vasco te deu pra abrir passagem. Mas tenta não quebrar o próprio pescoço no recuo, tá legal? Não tenho peças de reposição pra carregar um detetive inteiro nas costas.
 

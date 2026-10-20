@@ -45,7 +45,7 @@ Olhei para onde ela indicava. Preso à estrutura do teto de vidro reforçado, ha
 
 — Não cai de costas, Moretti! Se você despencar dessa altura, eu não tenho soldador pra remendar seus ossos de novo!
 
-Agarrei a primeira travessa da estante de hidroponia com a mão mecânica. Os dedos de aço amassaram o metal oxidado com um estalo seco, garantindo um apoio sólido enquanto minha bota de ferro buscava tração na armação úmida.
+Agarrei a primeira travessa da estante de hidroponia com a garra de ferro da armação. As travas de aço sustentaram o metal oxidado com um estalo seco, garantindo um apoio sólido enquanto minha bota de ferro buscava tração na armação úmida.
 
 A subida foi uma negociação desesperada contra o peso e a ferrugem. Cada metro conquistado enviava descargas agudas de dor pelos pregos neurais cravados na minha escápula, mas a agonia física servia como combustível para focar a mente. O mundo se resumiu ao rangido da carcaça sob minhas mãos, ao chiado dos servos hidráulicos e ao brilho febril do bulbo que crescia diante dos meus olhos.
 
@@ -57,7 +57,7 @@ Lá embaixo, Valéria cravou os eletrodos do deck na borda da porta.
 
 Não usei alavanca nem faca. Enfiei a mão de carregador de cais com força máxima direto no centro da massa viva.
 
-Os dedos grossos de aço rasgaram a membrana externa como se fosse lona podre, afundando dez centímetros até encontrarem o emaranhado de fios de cobre e silício que serviam de esqueleto ao nó. Travei os pistões da prótese na pressão máxima de torque e puxei com o peso do meu corpo inteiro.
+As hastes de aço da armação rasgaram a membrana externa como se fosse lona podre, afundando dez centímetros até encontrarem o emaranhado de fios de cobre e silício que serviam de esqueleto ao nó. Travei os pistões da prótese na pressão máxima de torque e puxei com o peso do meu corpo inteiro.
 
 *CRASH.*
 

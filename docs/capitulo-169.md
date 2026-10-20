@@ -74,17 +74,17 @@ O pai apático fumando no escuro da cozinha.
 
 ---
 
-Gabo cerrou os dentes e arremessou o coto do braço direito contra a quina de fibra de carbono da mesa executiva.
+Gabo cerrou os dentes e arremessou o braço direito quebrado contra a quina de fibra de carbono da mesa executiva.
 
 O impacto foi oco e curto.
 
-A crosta carbonizada — dez semanas de cicatrização que a Val tinha cauterizado com maçarico num túnel, sem anestesia, porque não havia outra opção e porque ele mandou — rompeu no ponto de sempre.
+A madeira e as talas da bandagem cederam, e os ossos fraturados — que a Val tinha enfaixado e cujas feridas cauterizara com maçarico num túnel, sem anestesia, porque não havia outra opção e porque ele mandou — estalaram no ponto de sempre.
 
-Um fio quente de sangue vivo escorreu pelo antebraço mutilado.
+Um fio quente de sangue vivo escorreu pelo antebraço sob a atadura rota.
 
 E a dor chegou.
 
-Elétrica, incandescente, subindo do coto até a nuca em menos de um décimo de segundo, e varrendo tudo no caminho.
+Elétrica, incandescente, subindo da fratura até a nuca em menos de um décimo de segundo, e varrendo tudo no caminho.
 
 O cheiro de cravo evaporou.
 
@@ -104,11 +104,11 @@ Ele ergueu o queixo.
 
 — Eu estou bem.
 
-— Você não está bem, e eu não estou oferecendo pena. — Ela falou baixo. — Eu estou dizendo que essa é a quarta vez esta semana, e que na terça você bateu duas vezes seguidas, e que uma hora esse braço não vai mais fechar.
+— Você não está bem, e eu não estou oferecendo pena. — Ela falou baixo. — Eu estou dizendo que essa é a quarta vez esta semana, e que na terça você forçou duas vezes seguidas, e que uma hora esse osso não vai mais colar.
 
 — A dor é real, Val. — A voz saiu como cascalho. — É a única coisa real que sobrou nesse buraco. Tudo o resto aqui embaixo é lembrança de alguma coisa, ou cópia de alguém, ou cheiro de um homem que nunca fumou.
 
-Ele apontou o coto para o cilindro.
+Ele apontou a mão enfaixada do braço quebrado para o cilindro.
 
 — Aquilo ali dentro do vidro é a prova de que Dante Moretti já era monstro muito antes de virar a Voz da Cidade.
 
@@ -168,7 +168,7 @@ Val olhou por cima do ombro dele e viu junto, e os dois ficaram uns dez segundos
 
 Gabo olhou para a massa de carne flutuando no azul.
 
-O latejo do coto batia junto com o coração dele, e a cada batida ele lembrava por quê, e por isso ele deixava latejar.
+O latejo do braço fraturado batia junto com o coração dele, e a cada batida ele lembrava por quê, e por isso ele deixava latejar.
 
 — Porque tem trinta e sete anos que essa coisa está acordada — ele disse. — Sem olho, sem ouvido, sem mão, sem ninguém falando com ela. Trinta e sete anos de uma sala com cinquenta e um hertz.
 

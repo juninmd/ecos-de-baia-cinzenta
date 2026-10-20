@@ -19,7 +19,7 @@ Do fundo do corredor mal iluminado por lâmpadas halógenas piscantes, uma figur
 
 — Precisamos de estabilização — eu disse. Minha voz saiu mais rouca e frágil do que eu pretendia. Minha visão estava escurecendo nas bordas. — Valéria está com os sistemas em falha crítica. E eu...
 
-Levantei meu braço direito. O cotoco ainda pingava sangue fresco no chão imaculado do doutor clandestino.
+Levantei meu braço direito. A fratura exposta sob as ataduras rasgadas ainda pingava sangue no chão do doutor clandestino.
 
 Os olhos por trás da grossa lente de Vasco se arregalaram levemente. Ele se adiantou, rápido para um homem de seu tamanho, ignorando-me inicialmente para examinar os conduítes expostos nas costas de Valéria.
 
@@ -31,7 +31,7 @@ Ajudei Vasco a erguer Valéria. Ela parecia pesar o triplo do normal, um peso mo
 
 — Teimosia — murmurei, sentindo as pernas cederem. Caí sentado em uma cadeira de rodinhas próxima, que rangeu protestando contra meu peso.
 
-Vasco não perdeu tempo. Ele me empurrou para a maca um e começou a trabalhar com a brutalidade eficiente de um mecânico consertando um motor velho. Ele não usou anestesia quando lavou a extremidade estraçalhada do meu braço com uma solução alcoólica que queimou como fogo líquido.
+Vasco não perdeu tempo. Ele me empurrou para a maca um e começou a trabalhar com a brutalidade eficiente de um mecânico consertando um motor velho. Ele não usou anestesia quando lavou a fratura aberta e as lacerações do meu braço com uma solução alcoólica que queimou como fogo líquido.
 
 Fechei os olhos com força, cravando os dentes no próprio lábio até sentir o gosto de ferro. A dor era excruciante, mas familiar. Ela varria os pensamentos persistentes das profundezas da Aeterna Corp, empurrava a lembrança do pendrive de Aria derretendo no terminal para longe, afastava o eco do silêncio ensurdecedor da rua. A dor física era um botão de reset, a única coisa mantendo minha sanidade no lugar.
 
@@ -39,9 +39,9 @@ Fechei os olhos com força, cravando os dentes no próprio lábio até sentir o 
 
 — Ninguém está — eu ofeguei através dos dentes cerrados.
 
-Vasco parou por um segundo, olhando para o meu rosto pálido. Ele não perguntou mais nada. Pegou um enxerto de derme sintética e aplicou grosseiramente sobre o coto, selando a ferida temporariamente.
+Vasco parou por um segundo, olhando para o meu rosto pálido. Ele não perguntou mais nada. Pegou gaze hemostática e um enxerto de derme sintética e aplicou grosseiramente sobre os rasgos da fratura, contendo o sangramento temporariamente.
 
-— Você precisa de uma prótese, Gabo. E das caras. A estrutura óssea do seu ombro foi comprometida. — Ele aplicou uma injeção de coagulantes grossos diretamente na minha veia jugular. O frio químico se espalhou pelo meu corpo, forçando meu coração a desacelerar do ritmo de pânico.
+— Os ossos do seu antebraço e úmero tão estraçalhados, Gabo. A estrutura óssea foi quase pulverizada. Se eu não meter uma armação externa de ferro parafusada no osso pra alinhar e travar isso aí, você perde os movimentos pra sempre. — Ele aplicou uma injeção de coagulantes grossos diretamente na minha veia jugular. O frio químico se espalhou pelo meu corpo, forçando meu coração a desacelerar do ritmo de pânico.
 
 — Não temos créditos — falei, minha voz finalmente ganhando alguma firmeza à medida que a adrenalina baixava e o estabilizador químico agia.
 

@@ -9,7 +9,7 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 O interior do duto de refrigeração secundária era um pesadelo de ferro galvanizado e claustrofobia.
 
-Com pouco mais de um metro de diâmetro, o tubo cilíndrico nos forçava a avançar de gatinhas sobre um piso ondulado de chapas perfuradas, onde poças de água ácida condensada e lodo calcificado mordiam os joelhos através do tecido da calça. O ar era gelado, cheirando a zinco molhado, ozônio antigo e graxa queimada que vazava das juntas mecânicas da minha prótese avariada.
+Com pouco mais de um metro de diâmetro, o tubo cilíndrico nos forçava a avançar de gatinhas sobre um piso ondulado de chapas perfuradas, onde poças de água ácida condensada e lodo calcificado mordiam os joelhos através do tecido da calça. O ar era gelado, cheirando a zinco molhado, ozônio antigo e graxa queimada que vazava das juntas mecânicas da minha armação avariada.
 
 O peso de vinte quilos da liga industrial no meu ombro direito arrastava-se como uma bigorna morta sobre o metal do duto. A cada impulso para a frente, as cicatrizes da fixação neural ardiam como se alguém estivesse encostando pontas de ferro em brasa na minha clavícula.
 
@@ -37,11 +37,11 @@ Valéria alcançou o recuo da curva e parou ao meu lado, os olhos ópticos prate
 
 — Eu mandei parar, cabeça-dura — ela puxou um rolo de fita hemostática de compressão médica de dentro do bolso tático e arrancou uma tira com os dentes. — Você tá deixando uma trilha de sangue fresco na grade que qualquer carniceiro com olfato cibernético consegue seguir no escuro. Se a gente não estancar essa sangria no ombro agora, você apaga por choque hipovolêmico antes da gente cruzar a fronteira do Setor 6.
 
-Ela não esperou minha permissão. Com a habilidade rápida e rude de quem já remendara dezenas de estivadores esfaqueados nas docas da Zona Sul, ela enfiou uma gaze compressiva sob o rasgo do meu casaco e enrolou a fita elástica ao redor da junção entre o meu ombro orgânico e a chapa de fixação da prótese.
+Ela não esperou minha permissão. Com a habilidade rápida e rude de quem já remendara dezenas de estivadores esfaqueados nas docas da Zona Sul, ela enfiou uma gaze compressiva sob o rasgo do meu casaco e enrolou a fita elástica ao redor da junção entre o meu ombro ferido e a chapa de fixação da armação.
 
 A pressão sobre a carne viva foi excruciante. Cerrei os dentes com tanta força que o maxilar estalou, a respiração presa na garganta enquanto a dor me ancorava na realidade imediata daquele tubo escuro.
 
-— Pronto — ela deu um puxão final na fita, travando o adesivo com um tapa seco no meu braço de ferro. — Não vai ganhar prêmio de estética médica, mas estancou o vazamento. Agora para de tentar bancar o mártir imortal e usa o apoio do cotovelo mecânico pra distribuir o peso.
+— Pronto — ela deu um puxão final na fita, travando o adesivo com um tapa seco na minha armação de ferro. — Não vai ganhar prêmio de estética médica, mas estancou o vazamento. Agora para de tentar bancar o mártir imortal e usa o apoio do cotovelo mecânico pra distribuir o peso.
 
 Olhei para os olhos prateados dela. Sob a camada de fuligem e o cansaço visível nas olheiras, havia aquela mesma centelha de ironia protetora que sempre a mantinha humana, mesmo cercada por toneladas de sucata e cadáveres.
 

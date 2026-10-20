@@ -61,7 +61,7 @@ Ele piscou.
 
 — Não é um teste?
 
-— Elias, eu estou com quarenta e um de febre e um braço a menos. Eu não tenho energia para teste.
+— Elias, eu estou com quarenta e um de febre e o braço direito quebrado. Eu não tenho energia para teste.
 
 Ele ficou parado no elevador, com o dedo no ar.
 

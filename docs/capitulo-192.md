@@ -9,7 +9,7 @@ Personagens Presentes: Gabo, Valéria
 
 O lodo fervia atrás de nós, um oceano vermelho de biologia corrompida evaporando na fornalha do Arquivo Executivo. O colapso térmico das bio-baterias do Jardim expelia um vapor espesso, alaranjado e cáustico no fosso de ventilação por onde tentávamos escapar. O calor subia como uma maré de forja industrial, empurrando o ar para cima em lufadas sufocantes de carne vegetal torrada e silício derretido.
 
-O cheiro fétido de amônia e fuligem impregnava o poço, deixando um gosto amargo e azedo de fuligem colado na minha língua. Cada respirada parecia lixar a garganta por dentro, e o suor misturado com sangue quente escorria das cicatrizes do meu ombro amputado.
+O cheiro fétido de amônia e fuligem impregnava o poço, deixando um gosto amargo e azedo de fuligem colado na minha língua. Cada respirada parecia lixar a garganta por dentro, e o suor misturado com sangue quente escorria das cicatrizes do meu ombro fraturado.
 
 Lembrei de cada fuga desesperada desde o Dilúvio nas docas; a sensação de carregar um corpo quebrado através de ferro em chamas era a única constante da minha vida nos últimos anos.
 

@@ -17,11 +17,11 @@ characters: ["Gabo", "Valéria", "Aria"]
 
 A imensa porta blindada do setor erguia-se como uma lápide de aço escovado. Sem luzes de energia, sem painéis de controle digitais; era uma relíquia brutalista da Aeterna Corp, selada por um firewall puramente mecânico. A purga de íons de Valéria fritara o controle biológico do Taxidermista na sala dos servidores, mas aquela barreira física não se importava com eletricidade ou fantasmas no código.
 
-Gabo encostou a lateral do corpo na parede fria do corredor, deixando a textura áspera do concreto raspar contra o que restava de seu casaco carbonizado. O selante químico em seu abdômen parecia uma placa de gesso cheia de vidro moído, repuxando a cada lufada de ar superficial que ele ousava tomar. A dor contínua de seus braços amputados, cauterizados pelo plasma de Valéria, era o metrônomo que ditava seu ritmo cardíaco.
+Gabo encostou a lateral do corpo na parede fria do corredor, deixando a textura áspera do concreto raspar contra o que restava de seu casaco carbonizado. O selante químico em seu abdômen parecia uma placa de gesso cheia de vidro moído, repuxando a cada lufada de ar superficial que ele ousava tomar. A dor contínua de seu braço fraturado, imobilizado pelas ataduras de Valéria, era o metrônomo que ditava seu ritmo cardíaco.
 
 E era exatamente dessa dor que ele precisava.
 
-O ar estagnado ali cheirava a poeira antiga e ozônio residual, mas a mente exausta de Gabo tentava injetar algo pior. O fantasma sufocante do tabaco, o odor azedo de cinzeiros transbordando da antiga sala do Comissário Dante, rastejava pelas beiradas da sua sanidade. Para suprimi-lo, Gabo bateu o cotoco direito com força contra a parede de concreto. Um raio quente e cru de agonia explodiu até seu ombro, obliterando a náusea da fumaça instantaneamente.
+O ar estagnado ali cheirava a poeira antiga e ozônio residual, mas a mente exausta de Gabo tentava injetar algo pior. O fantasma sufocante do tabaco, o odor azedo de cinzeiros transbordando da antiga sala do Comissário Dante, rastejava pelas beiradas da sua sanidade. Para suprimi-lo, Gabo pressionou o braço direito quebrado com força contra a parede de concreto. Um raio quente e cru de agonia explodiu até seu ombro, obliterando a náusea da fumaça instantaneamente.
 
 — *A infraestrutura da porta possui um override de manutenção,* — Aria reportou, sua voz sintética cortando o silêncio fúnebre a partir do comunicador de gola. No pulso de Valéria, o pendrive de titânio e polímero negro piscava em azul-gelo enquanto o feixe laser do cyberdeck *Phantom V3* mapeava meticulosamente as ranhuras do aço. — *No entanto, a alavanca de destravamento manual localiza-se na câmara de engrenagens superior. O único acesso é um duto de descompressão de quarenta e cinco centímetros quadrados.*
 
@@ -64,7 +64,7 @@ A poça de carne reagiu à aproximação de Gabo. Um sensor óptico do tamanho d
 
 Gabo não hesitou. Ele não possuía mãos para desarmar. Ele não possuía armas para atirar.
 
-Ele rugiu contra o silêncio frio da câmara. Tomando impulso nas pernas doloridas, Gabo arremessou o peso de todo o seu corpo para frente. Ele usou o cotoco de seu braço direito endurecido pelo plasma como um martelo primitivo, chocando-se diretamente contra o núcleo do olho do sentinela na alavanca.
+Ele rugiu contra o silêncio frio da câmara. Tomando impulso nas pernas doloridas, Gabo arremessou o peso de todo o seu corpo para frente. Ele usou o ombro e o antebraço direito enfaixado como um aríete primitivo, chocando-se diretamente contra o núcleo do olho do sentinela na alavanca.
 
 A biomassa estourou em um guincho agudo e repulsivo. Fluido amniótico cinza espirrou no rosto de Gabo. A dor da colisão nos nervos do seu braço foi transcendental, um abismo escuro onde apenas o som do seu próprio batimento cardíaco existia. Ele sentiu as garras de cobre da criatura arranharem seu casaco, mas já era tarde. Com o impacto, seu corpo forçou a gigantesca alavanca de metal para baixo. O som das garras metálicas se partindo soou junto com o estrondo profundo abaixo.
 

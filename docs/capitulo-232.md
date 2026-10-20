@@ -67,7 +67,7 @@ Ele estava acordado. Acho que ficou acordado a noite toda também, do mesmo jeit
 
 — Bom dia, Braga.
 
-Ele reparou na minha mão. Eu estava com a *Caronte* apoiada no ombro pela alça, porque com um braço só não dá para carregar de outro jeito.
+Ele reparou na minha mão. Eu estava com a *Caronte* apoiada no ombro pela alça, porque com o braço direito quebrado na tipóia não dá para carregar de outro jeito.
 
 — Ah, — ele disse. E foi só isso. Um "ah" pequeno, de quem confere uma encomenda que chegou.
 

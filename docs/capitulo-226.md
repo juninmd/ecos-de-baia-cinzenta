@@ -131,7 +131,7 @@ Elena chorou. Sem som, do jeito dela, com o queixo travado e as lágrimas descen
 
 Ficamos ali. O sol continuou subindo, indiferente como sempre.
 
-E então a mão dela encontrou a minha — a única que sobrou — e ficou lá. Não como quem apaga o estrago. Como quem carrega junto.
+E então a mão dela encontrou a minha — a mão esquerda, livre da tipóia — e ficou lá. Não como quem apaga o estrago. Como quem carrega junto.
 
 ---
 

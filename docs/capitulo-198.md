@@ -11,7 +11,7 @@ Os setecentos metros restantes até o Poço de Elevação Três eram uma marcha 
 
 O ar ali embaixo não circulava; ele estagnava num caldo espesso que cheirava a ferro oxidado, óleo de transformador queimado e carniça vegetal decomposta. Na minha boca, o gosto amargo de cinzas e poeira de alvenaria misturava-se ao suor frio que escorria pelo meu pescoço.
 
-Minha órtese mecânica esquerda rangia a cada dois passos, as buchas gastas moendo areia contra as juntas de ferro. A atadura compressiva no meu ombro amputado estancara a sangria principal, mas a dor latente pulsava como um lembrete físico de que nossos corpos orgânicos estavam operando no limite absoluto de tolerância.
+Minha órtese mecânica esquerda rangia a cada dois passos, as buchas gastas moendo areia contra as juntas de ferro. A atadura compressiva no meu ombro e braço quebrado estancara a sangria principal, mas a dor latente pulsava como um lembrete físico de que nossos corpos orgânicos estavam operando no limite absoluto de tolerância.
 
 Elias caminhava colado ao meu lado esquerdo, os olhos saltando freneticamente pelas sombras projetadas pela lanterna fraca que ele mantinha apontada para o chão.
 
@@ -43,7 +43,7 @@ Aproximei-me da carcaça inerte. O que estava ali dentro não se parecia com nad
 
 — Passos curtos pelas canaletas de drenagem — comandei, apontando para a vala lateral de concreto seco onde a água não acumulava. — Sem arrastar bota e sem falar nada.
 
-Começamos a avançar pela beirada da galeria. A cada metro, o peso da prótese puxava meu ombro com uma gravidade impiedosa. Meus músculos tremiam com a tensão acumulada, a mente focada exclusivamente em manter o equilíbrio nos trilhos enferrujados.
+Começamos a avançar pela beirada da galeria. A cada metro, o peso da armação puxava meu ombro com uma gravidade impiedosa. Meus músculos tremiam com a tensão acumulada, a mente focada exclusivamente em manter o equilíbrio nos trilhos enferrujados.
 
 Cinquenta metros. Cem metros. As portas maciças do Poço de Elevação Três já podiam ser vistas no final da reta, recortadas contra a escuridão.
 

@@ -7,7 +7,7 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 # Capítulo 206: Ecos na Escuridão
 
-O estrondo colossal da ponte rolante desabando ainda reverberava nos meus ossos muito depois que a última viga de aço parou de chiar contra os destroços incandescentes. A escuridão total engoliu o armazém logístico assim que a poeira sufocou os globos de luz âmbar. Sem a visão, o mundo foi reduzido a três sensações primitivas: o ardor cáustico de ozônio queimado na garganta, o gosto amargo de sangue e ferrugem na língua e o pulsar surdo do meu ombro lacerado onde a prótese industrial forçava a carne viva.
+O estrondo colossal da ponte rolante desabando ainda reverberava nos meus ossos muito depois que a última viga de aço parou de chiar contra os destroços incandescentes. A escuridão total engoliu o armazém logístico assim que a poeira sufocou os globos de luz âmbar. Sem a visão, o mundo foi reduzido a três sensações primitivas: o ardor cáustico de ozônio queimado na garganta, o gosto amargo de sangue e ferrugem na língua e o pulsar surdo do meu ombro lacerado onde a armação industrial forçava o osso fraturado.
 
 Tossi com força, cuspindo uma pasta cinzenta no chão invisível. O ar fedia a graxa mineral frita, metal pulverizado e óleo hidráulico vazando aos borbotões de mangueiras estouradas.
 

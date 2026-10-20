@@ -13,7 +13,7 @@ O bloqueio que fechava o eixo principal lembrava uma muralha viva petrificada no
 
 — Densidade de oitenta por cento no corte transversal, — disse Valéria, parando a quatro passos da barricada e examinando a massa escura com o feixe óptico do cyberdeck. A franja azul cintilava em sintonia com a interface neural, destacando seus traços tensos e a boca marcada por uma careta de desdém. — A temperatura de quinze negativos induziu hibernação profunda nos nós biológicos do Jardim, mas a Praga mantém uma corrente estática residual nos fios de cobre. Se a gente forçar no tiro sem quebrar a casca de gelo primeiro, essa parede inteira fecha em cima da gente como uma armadilha de urso.
 
-— É aqui que o Elias entra com o brinquedo dele, — respondi, apoiando o cano curto da *Caronte* no antebraço mecânico de sucata para aliviar a queimação na clavícula. O ombro direito latejava sem trégua onde Vasco costurara a prótese no Capítulo 175 após a amputação; o sangue seco colava a atadura na carne viva, e as cicatrizes do Dilúvio repuxavam no frio extremo. — Elias, mostra como a gente quebra esse gelo corporativo.
+— É aqui que o Elias entra com o brinquedo dele, — respondi, apoiando o cano curto da *Caronte* no armação mecânica de sucata para aliviar a queimação na clavícula. O ombro direito latejava sem trégua onde Vasco parafusara a estrutura no Capítulo 175 para estabilizar a fratura; o sangue seco colava a atadura na carne viva, e as cicatrizes do Dilúvio repuxavam no frio extremo. — Elias, mostra como a gente quebra esse gelo corporativo.
 
 Elias deu um passo à frente, as mãos protegidas por luvas surradas segurando a ferramenta sônica que calibrara no Capítulo 194. Seus joelhos ainda tremiam, mas o brilho em seus olhos era de pura concentração técnica.
 

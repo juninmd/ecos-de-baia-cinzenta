@@ -9,13 +9,13 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 O ar naquela galeria superior não era apenas frio; parecia ter dentes de aço mastigando cada centímetro de pele exposta.
 
-Arrastávamos nossos corpos pelos dutos de manutenção do Setor Seis como náufragos escalando um navio fantasma. Depois de escapar do abismo forrado de cristais de óxido, cada passo sobre a passarela elevada era uma negociação dolorosa entre a gravidade e o que restava da minha carcaça física. Meu ombro direito pulsava com a ferocidade de uma fornalha, onde Vasco parafusara a prótese de sucata no Capítulo 175 após a amputação; o músculo lacerado sangrando sob as bandagens sujas mandava ferroadas agudas até as pontas dos meus dedos enregelados.
+Arrastávamos nossos corpos pelos dutos de manutenção do Setor Seis como náufragos escalando um navio fantasma. Depois de escapar do abismo forrado de cristais de óxido, cada passo sobre a passarela elevada era uma negociação dolorosa entre a gravidade e o que restava da minha carcaça física. Meu ombro direito pulsava com a ferocidade de uma fornalha, onde Vasco parafusara a armação de sucata no Capítulo 175 para estabilizar o osso quebrado; o músculo lacerado sangrando sob as bandagens sujas mandava ferroadas agudas até as pontas dos meus dedos enregelados.
 
 Minha órtese esquerda soltava um uivo rouco a cada passada, com a graxa congelada travando as engrenagens em ângulos imperfeitos. Elias vinha colado ao meu flanco, os dentes batendo em um ritmo incontrolável e os braços cruzados sobre o peito em uma tentativa desesperada de reter o calor residual do corpo.
 
 — Temperatura ambiente em doze graus negativos e caindo, — disse Valéria, soprando o vapor branco das próprias mãos enluvadas enquanto examinava a grade metálica à frente. A luz azul-cobalto de suas lentes ópticas cortava a névoa de gelo, e os fios holográficos da franja brilhavam com uma teimosia elétrica. — Se a gente não sair desse freezer nos próximos vinte minutos, detetive, seus dedos de carne vão necrosar e você vai virar cliente preferencial de outro cirurgião clandestino.
 
-— O Vasco já cobrou caro demais pelo braço, Val, — respondi, cuspindo um escarro escurecido pela fuligem no concreto congelado. — Minha cota de próteses acabou nesta encarnação.
+— O Vasco já cobrou caro demais pelo braço, Val, — respondi, cuspindo um escarro escurecido pela fuligem no concreto congelado. — Minha cota de armações de ferro acabou nesta encarnação.
 
 — Então para de arrastar esse coturno igual um morto-vivo e aperta o passo, — ela retrucou com aquele estalo de língua ácido e protetor que eu aprendera a decifrar nos becos da Doca Três. — A estação de controle secundária fica logo depois daquela porta estanque. Se as conexões não tiverem sido comidas pelo gelo, a gente descobre como abrir o Hub sem acordar o resto dos monstros da Aeterna.
 
@@ -25,7 +25,7 @@ Entramos na sala de controle e manutenção em ruínas.
 
 O espaço era um santuário industrial esquecido pelo tempo. Fileiras de consoles analógicos dos anos cinquenta estendiam-se sob uma abóbada de vigas enferrujadas. A Geada Negra havia subido pelos pés das mesas de metal, congelando relés, monitores de fósforo verde e quilômetros de fiação em espigões rígidos e negros que pareciam espinhos de roseiras gigantes. O vapor denso de nossas respirações preenchia o ar parado, com o cheiro penetrante de amônia anidra misturado ao aroma enjoativo de vegetação morta e ozônio estático.
 
-Aproximei-me da bancada central, limpando a crosta de gelo de um mostrador com a palma da mão mecânica. O metal estalou sob o atrito térmico, desprendendo lascas translúcidas que tilintaram no chão.
+Aproximei-me da bancada central, limpando a crosta de gelo de um mostrador com a chapa de proteção da armação. O metal estalou sob o atrito térmico, desprendendo lascas translúcidas que tilintaram no chão.
 
 — Isso aqui parece uma sala de autópsia de máquinas, — murmurou Elias, aproximando-se com a lanterna trêmula e olhando as telas rachadas. — Quem controlava esse setor quando as comportas foram fechadas?
 

@@ -13,8 +13,8 @@
 | **Cap. 47: O Dilúvio** | No capô de viatura submersa na Zona Baixa com a escopeta *Caronte*. | ![Gabo Dilúvio](/personagens/variacoes/gabo/gabo_cap47_diluvio.jpg) |
 | **Cap. 75: O Horizonte** | No heliponto da Torre Aeterna mirando o núcleo sob tempestade. | ![Gabo Terraço](/personagens/variacoes/gabo/gabo_cap75_terraco_confronto.jpg) |
 | **Cap. 107: A Sanitização** | Apoiado em contêiner no cais com exoesqueleto médico e Glock. | ![Gabo Exoesqueleto](/personagens/variacoes/gabo/gabo_cap107_exoesqueleto.jpg) |
-| **Cap. 185: A Prótese** | Na oficina de Vasco flexionando a prótese mecânica industrial. | ![Gabo Prótese](/personagens/variacoes/gabo/gabo_cap185_protese.jpg) |
-| **Cap. 225: Arca Zero** | Maneta na alvorada da Arca Zero com o Colar de Sol de Helena. | ![Gabo Maneta](/personagens/variacoes/gabo/gabo_cap225_maneta.jpg) |
+| **Cap. 185: A Armação** | Na oficina de Vasco ajustando a armação ortopédica mecânica industrial sobre o braço fraturado. | ![Gabo Armação](/personagens/variacoes/gabo/gabo_cap185_protese.jpg) |
+| **Cap. 225: Arca Zero** | Braço na tipóia na alvorada da Arca Zero com o Colar de Sol de Helena. | ![Gabo Arca Zero](/personagens/variacoes/gabo/gabo_cap225_maneta.jpg) |
 
 ---
 

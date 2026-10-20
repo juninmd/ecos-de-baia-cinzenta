@@ -140,7 +140,7 @@ O líquido era gelado onde tocava a pele e quente onde vinha das piscinas, e as 
 
 Ele nadou assim mesmo.
 
-Com um braço. Com dois dedos quebrados. Na direção do pedestal central.
+Com o braço bom. Com dois dedos quebrados. Na direção do pedestal central.
 
 ---
 

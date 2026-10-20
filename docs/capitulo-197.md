@@ -17,7 +17,7 @@ Valéria ia logo atrás dele, o cyberdeck seguro no peito e a pistola em punho. 
 
 — Eu tô tentando, garota... tô tentando — Elias resmungava, limpando o suor da testa com o antebraço encardido. — Mas o ar aqui embaixo tá pesado demais... parece que tem chumbo dissolvido nessa água.
 
-A dor no meu ombro amputado latejava em sintonia com os meus batimentos cardíacos, mas o curativo compressivo que Valéria improvisara segurava a hemorragia. Eu arrastava a bota mecânica pelo lodo, usando a parede como guia tátil, focado no peso real de vinte quilos de ferro e na empunhadura áspera de *Caronte* sob o casaco.
+A dor no meu braço fraturado latejava em sintonia com os meus batimentos cardíacos, mas o curativo compressivo que Valéria improvisara segurava a hemorragia. Eu arrastava a bota mecânica pelo lodo, usando a parede como guia tátil, focado no peso real de vinte quilos de ferro e na empunhadura áspera de *Caronte* sob o casaco.
 
 Lembrei de quantas travessias semelhantes enfrentei desde o Dilúvio na Zona Baixa; a escuridão dos túneis de Baía Cinzenta sempre cobrava pedágio em ossos quebrados e sangue derramado.
 
@@ -35,7 +35,7 @@ Pior do que a corrosão do metal, no entanto, eram as raízes bioluminescentes d
 
 — Eu não vou primeiro! — o velho gritou baixo, sacudindo a cabeça num pânico cego. — Eu sou magro, se eu cair eu me afogo nessa gosma!
 
-Dei um passo pesado na direção dele, a mão mecânica de estivador erguendo-se e travando no colarinho do seu macacão com um estalo pneumático firme.
+Dei um passo pesado na direção dele, a garra de ferro da armação erguendo-se e travando no colarinho do seu macacão com um estalo pneumático firme.
 
 — Você vai primeiro exatamente porque é o mais leve, Elias — falei, a voz rouca e sem espaço para negociação. — Você cruza, prende a fita de segurança no olhal de aço do outro lado e joga a ponta de volta pra nós. Se você tentar correr ou se recusar a subir no cano, eu te deixo sozinho nessa plataforma escura. E você sabe muito bem o que vai sair desse esgoto quando os neons apagarem.
 
@@ -61,7 +61,7 @@ Valéria subiu na passarela com a agilidade felina de quem crescera escalando gu
 
 Respirei fundo, sentindo o ar frio queimar os pulmões. Subi no primeiro cano.
 
-O impacto da minha bota mecânica fez a estrutura inteira vibrar com um gemido agudo de metal fadigado. As gavinhas do Jardim reagiram instantaneamente ao peso e à estática da minha prótese, brilhando com um tom azul mais intenso e contraindo-se sobre o aço.
+O impacto da minha bota mecânica fez a estrutura inteira vibrar com um gemido agudo de metal fadigado. As gavinhas do Jardim reagiram instantaneamente ao peso e à estática da minha armação, brilhando com um tom azul mais intenso e contraindo-se sobre o aço.
 
 Avancei dois metros. Três metros. O abismo negro borbulhava logo abaixo das minhas pernas, exalando um vapor gelado com cheiro de ácido e podridão.
 
@@ -73,7 +73,7 @@ O tubo central partiu-se na solda antiga. A grade de manutenção tombou trinta 
 
 — Gabo! — o grito de Valéria rasgou a acústica da galeria.
 
-Cravei a mão mecânica de cais no único cano que restava intacto. As engrenagens da prótese travaram com um silvo hidráulico ensurdecedor, os nós neurais da minha escápula gritando quando todo o peso do meu corpo foi sustentado por aquele único braço de ferro suspenso no vazio.
+Cravei a garra de aço da armação no único cano que restava intacto. As engrenagens da armação travaram com um silvo hidráulico ensurdecedor, os nós neurais da minha escápula gritando quando todo o peso do meu corpo foi sustentado por aquele único braço de ferro suspenso no vazio.
 
 A água escura borbulhou a meio metro das minhas botas.
 
@@ -93,4 +93,4 @@ Valéria caiu sentada ao meu lado, limpando o suor da testa com as costas da mã
 
 — Eu pisei o mais leve que pude — consegui dizer, tossindo e sorrindo com o cinismo que ainda nos mantinha vivos.
 
-— Pois da próxima vez, faz dieta antes de saltar num esgoto — ela me deu um soco fraco no antebraço mecânico e se levantou, estendendo a mão para me apoiar. — Vamos andar logo. O barulho daquela ponte caindo com certeza acordou a vizinhança inteira do Setor 6.
+— Pois da próxima vez, faz dieta antes de saltar num esgoto — ela me deu um soco fraco na armação de ferro e se levantou, estendendo a mão para me apoiar. — Vamos andar logo. O barulho daquela ponte caindo com certeza acordou a vizinhança inteira do Setor 6.

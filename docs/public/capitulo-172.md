@@ -19,7 +19,7 @@ Eu mancava ao lado dela. A dor no abdômen era uma queimação constante, mas mi
 
 O vento mudou de direção, varrendo o vapor frio das grelhas de esgoto desligadas. Com ele, o asfalto exalou aquela umidade característica que antecede a tempestade, e uma lufada gélida atingiu meu peito, fazendo minhas pernas tremerem sob o peso da exaustão acumulada.
 
-Uma onda violenta de vertigem e febre turvou minha visão. O chão parecia oscilar como o convés de um barco à deriva no mar revolto. Cambaleei para o lado e apoiei o ombro contra a lataria enferrujada de um sedã corporativo capotado no meio da rua, sentindo a chuva fria lavar o suor das minhas têmporas. A dor contínua nos membros amputados latejava em compasso com o pulso, mas a determinação me manteve de pé, respirando o ar sujo e real da noite.
+Uma onda violenta de vertigem e febre turvou minha visão. O chão parecia oscilar como o convés de um barco à deriva no mar revolto. Cambaleei para o lado e apoiei o ombro contra a lataria enferrujada de um sedã corporativo capotado no meio da rua, sentindo a chuva fria lavar o suor das minhas têmporas. A dor contínua no braço fraturado e nas queimaduras latejava em compasso com o pulso, mas a determinação me manteve de pé, respirando o ar sujo e real da noite.
 
 Valéria parou alguns passos à frente. Ela se virou lentamente, a chuva batendo em seu rosto cansado e na franja azul grudada na testa. Ela olhou para a minha postura curvada e depois para os meus olhos, com aquela preocupação silenciosa que ela sempre tentava esconder sob uma máscara dura.
 

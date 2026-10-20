@@ -19,7 +19,7 @@ O silêncio nos Servidores Centrais não era o vazio pacífico da noite. Era um 
 
 O cheiro era o único indício do inferno que acabara de ocorrer. Uma mistura acre de silício derretido, pó de cerâmica e a pungência seca de cinzas orgânicas. Para Gabo, era preferível. Qualquer coisa era melhor do que o cheiro sufocante de cigarro barato que ainda ameaçava vazar das rachaduras de sua sanidade exausta.
 
-Ele estava caído contra a lateral gelada de um terminal principal, o sangue escuro empapando o que restava de suas roupas, colando o tecido à carne ferida de seu abdômen. A dor irradiada dos cotocos em seus braços — agora mais mutilados pelas colisões do que pelas queimaduras iniciais de plasma — era uma fornalha constante, mas necessária. Ele focou na queimação aguda, imaginando as pontas nervosas gritando em estática. Era a dor que o mantinha ali, a dor que queimava as alucinações de tabaco antes que elas pudessem tomar forma em sua garganta.
+Ele estava caído contra a lateral gelada de um terminal principal, o sangue escuro empapando o que restava de suas roupas, colando o tecido à carne ferida de seu abdômen. A dor irradiada de seu braço direito quebrado — agora mais castigado pelas colisões do que pelas fraturas e queimaduras iniciais de plasma — era uma fornalha constante, mas necessária. Ele focou na queimação aguda, imaginando as pontas nervosas gritando em estática. Era a dor que o mantinha ali, a dor que queimava as alucinações de tabaco antes que elas pudessem tomar forma em sua garganta.
 
 — Você devia estar morto. — Valéria quebrou o silêncio, a voz rouca, sem força. Ela não se aproximou dele. Ficou caída perto de onde havia injetado o código da purga, os olhos fixos na poça escura de sangue sob Gabo.
 

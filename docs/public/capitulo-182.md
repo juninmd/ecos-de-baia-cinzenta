@@ -67,4 +67,4 @@ Valéria olhou para a silhueta das ruínas industriais, a respiração formando 
 
 Valéria soltou um suspiro pesado, puxando o capuz da jaqueta para proteger os conectores temporais do vento cortante.
 
-— Queimar raiz com um braço de trator e uma doze de cano serrado... — ela deu aquele meio-sorriso cínico que sempre me lembrava por que ela era a única pessoa na cidade que eu ainda confiava para cobrir minhas costas. — Plano brilhante, Moretti. Quase tão suicida quanto invadir a torre de Krell. Anda logo antes que o tempo mude e comece a chover ácido de verdade.
+— Queimar raiz com essa armação de trator e uma doze de cano serrado... — ela deu aquele meio-sorriso cínico que sempre me lembrava por que ela era a única pessoa na cidade que eu ainda confiava para cobrir minhas costas. — Plano brilhante, Moretti. Quase tão suicida quanto invadir a torre de Krell. Anda logo antes que o tempo mude e comece a chover ácido de verdade.

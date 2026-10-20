@@ -7,11 +7,11 @@ Personagens Presentes: Gabo, Valéria
 
 # Capítulo 191: O Batismo da Ferrugem
 
-O primeiro golpe da minha prótese industrial contra o volante de arrefecimento soou como um sino fúnebre desafinado, reverberando na vastidão mórbida do relicário de servidores. O metal espesso da tubulação de alta pressão gemeu sob o torque violento do guindaste de docas.
+O primeiro golpe da minha armação industrial contra o volante de arrefecimento soou como um sino fúnebre desafinado, reverberando na vastidão mórbida do relicário de servidores. O metal espesso da tubulação de alta pressão gemeu sob o torque violento do guindaste de docas.
 
 A junta de vedação partiu-se com um silvo ensurdecedor de gás comprimido. Um jato de amônia líquida esverdeada, gelada e corrosiva explodiu em leque sobre a base do pilar, espalhando um cheiro fétido de produto químico industrial que queimava as narinas e deixava um gosto amargo e ácido de bile no fundo da garganta.
 
-Na minha boca, o sabor metálico de sangue misturava-se à poeira cáustica. A dor no meu ombro amputado explodiu em fagulhas agudas, repuxando as cicatrizes que cobriam minha carne lacerada desde a batalha na Torre do Relógio.
+Na minha boca, o sabor metálico de sangue misturava-se à poeira cáustica. A dor no meu ombro fraturado explodiu em fagulhas agudas, repuxando as cicatrizes que cobriam minha carne lacerada desde a batalha na Torre do Relógio.
 
 Instantaneamente, a câmara reagiu como uma besta ferida.
 
@@ -25,7 +25,7 @@ Sem a refrigeração forçada, a temperatura dos circuitos começou a subir a um
 
 Avancei pelo gradeamento ensopado de lodo e sangue ressecado, o ar quente queimando a pele do meu rosto a cada passada pesada das órteses. O calor da tubulação era tão intenso que a borracha das minhas botas começava a soltar uma fumaça acre.
 
-Ergui o braço mecânico de novo, a fiação do ombro estalando em faíscas azuis pela sobretensão da hidráulica. O motor de passo berrou numa vibração furiosa que fez meus dentes baterem.
+Ergui a armação mecânica de novo, a fiação do ombro estalando em faíscas azuis pela sobretensão da hidráulica. O motor de passo berrou numa vibração furiosa que fez meus dentes baterem.
 
 — Sai da frente! — berrei, desferindo o peso da liga de aço contra a segunda válvula de alta pressão.
 

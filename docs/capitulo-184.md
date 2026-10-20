@@ -51,9 +51,9 @@ Olhei para a minha mão direita. Vinte quilos de liga de aço fosca forjada para
 
 — Deixa que a sucata do Vasco resolve isso — murmurei, me abaixando ao lado dela.
 
-— Cuidado com a pressão, Moretti — Valéria advertiu, segurando meu antebraço de carne para firmar meu equilíbrio. — Puxa no eixo longitudinal dos parafusos. Se você torcer a mão mecânica, esmaga a cápsula de memória e a gente fica sem saber pra onde essa praga tá indo. Três... dois... vai.
+— Cuidado com a pressão, Moretti — Valéria advertiu, segurando meu braço esquerdo para firmar meu equilíbrio. — Puxa no eixo longitudinal dos parafusos. Se você torcer a mão mecânica, esmaga a cápsula de memória e a gente fica sem saber pra onde essa praga tá indo. Três... dois... vai.
 
-Cravei os dedos grossos de ferro ao redor do cilindro blindado. O metal do componente estava gelado, vibrando com uma microtensão que arrepiava os pelos do meu braço. Travei os motores da prótese e puxei em linha reta.
+Cravei os dedos grossos de ferro ao redor do cilindro blindado. O metal do componente estava gelado, vibrando com uma microtensão que arrepiava os pelos do meu braço. Travei os motores da armação e puxei em linha reta.
 
 *CRACK.*
 

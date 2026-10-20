@@ -27,7 +27,7 @@ A serra foi na vigésima hora.
 
 Não vou escrever sobre isso.
 
-Vou escrever que Valéria trabalhou rápido, que ela não hesitou uma vez, e que quando terminou de cauterizar ela pousou a mão no meu peito e esperou eu respirar três vezes antes de tirar. Vou escrever que o Elias segurou a minha cabeça e ficou falando merda no meu ouvido a viagem inteira — sobre um cachorro que ele teve, sobre uma namorada em Setor 9, sobre nada — porque ele entendeu, sem que ninguém explicasse, que eu precisava de uma voz humana ali e que ele era a única disponível.
+Vou escrever que Valéria trabalhou rápido, serrando as travas de aço e soltando os pinos da armação do meu osso quebrado, que ela não hesitou uma vez, e que quando terminou de enfaixar meu braço ela pousou a mão no meu peito e esperou eu respirar três vezes antes de tirar. Vou escrever que o Elias segurou a minha cabeça e ficou falando merda no meu ouvido a viagem inteira — sobre um cachorro que ele teve, sobre uma namorada em Setor 9, sobre nada — porque ele entendeu, sem que ninguém explicasse, que eu precisava de uma voz humana ali e que ele era a única disponível.
 
 Vou escrever que a Dra. Elara Vance virou o rosto. Sessenta e um anos auditando o horror, e ela virou o rosto.
 
@@ -37,7 +37,7 @@ E vou escrever que doeu. Doeu de um jeito que não tem palavra em português, e 
 
 Faltando quarenta minutos, eu fui até a comporta.
 
-A prótese estava na bancada, desconectada de mim, com o toco do soquete ainda úmido. Uma cunha de metal cinza fosco cheia de cicatriz de solda. Do lado de fora do meu corpo, ela era menor do que eu imaginava. Uma peça de sucata. Nem parecia capaz de ter doído tanto.
+A armação estava na bancada, desconectada de mim, com as travas de fixação ainda soltando fumaça. Uma cunha de metal cinza fosco cheia de cicatriz de solda. Do lado de fora do meu corpo, ela era menor do que eu imaginava. Uma peça de sucata. Nem parecia capaz de ter doído tanto.
 
 Elias e Valéria a ergueram juntos e a encaixaram na abertura do came, punho em extensão máxima, exatamente como a Vance desenhou num guardanapo com a letra mais bonita que eu já vi.
 
@@ -47,7 +47,7 @@ E travar o hidráulico exigia um comando neural bruto, e comando neural bruto ex
 
 O meu.
 
-Sentei no chão frio ao lado da comporta. Valéria conectou os dois cabos que sobraram do meu soquete diretamente nos conectores da prótese. Um pedaço de mim de novo, pela última vez, pelo tempo de um pensamento.
+Sentei no chão frio ao lado da comporta. Valéria conectou os cabos de pulso diretamente nos conectores da armação. Um pedaço de mim de novo, pela última vez, pelo tempo de um pensamento.
 
 — Quando você mandar, — ela disse, — vai queimar tudo de uma vez. Vai ser a pior dor que você já sentiu.
 
@@ -77,7 +77,7 @@ Eu não abri os olhos. Não precisava.
 
 E era essa a diferença, dessa vez.
 
-Todas as outras vezes ele tinha vindo com desprezo. Com aquela apatia de porta de escritório trancada. Ele vinha para me lembrar de que eu era ruído de fundo, e eu batia a prótese no ferro para calar a boca dele, e a dor era mais verdadeira que a fumaça, e eu ganhava.
+Todas as outras vezes ele tinha vindo com desprezo. Com aquela apatia de porta de escritório trancada. Ele vinha para me lembrar de que eu era ruído de fundo, e eu batia a armação no ferro para calar a boca dele, e a dor era mais verdadeira que a fumaça, e eu ganhava.
 
 Agora ele estava me oferecendo **descanso**. E estava fazendo isso com carinho.
 
@@ -119,7 +119,7 @@ E mandei o comando.
 
 Foi tudo o que a Valéria prometeu e mais um pouco. Trezentos e quarenta quilogramas-força saíram de uma vez pelos meus nervos mortos, os servos gritaram num tom de metal esfolado, o came engatou com um estrondo geológico e a comporta de quatro metros travou aberta contra a mola.
 
-A prótese do Vasco fundiu-se ali, para sempre, numa cunha de aço permanente.
+A armação do Vasco fundiu-se ali, para sempre, numa cunha de aço permanente.
 
 Eu desmaiei. Sem elegância nenhuma.
 
@@ -191,13 +191,13 @@ Elias saiu primeiro. Deu três passos no cascalho, levantou a cara para o céu e
 
 Valéria desceu depois e começou imediatamente a inventariar as saídas.
 
-Eu fiquei sentado na borda da escotilha por um tempo, com um braço só, olhando aquilo.
+Eu fiquei sentado na borda da escotilha por um tempo, com o braço direito quebrado imobilizado contra o peito, olhando aquilo.
 
 A Dra. Elara Vance parou a cadeira ao meu lado. Ela olhava para a luz com os olhos azul-gelo semicerrados, como quem confere um número que não batia havia muito tempo.
 
 — E agora, inspetor? — ela perguntou. — O senhor tem sessenta e um anos de prova e nenhum tribunal onde apresentar.
 
-Peguei o Colar de Sol do bolso com a única mão que me sobrou. O metal estava morno. As bordas do sol estilizado ainda tinham o meu sangue seco.
+Peguei o Colar de Sol do bolso com a mão esquerda livre. O metal estava morno. As bordas do sol estilizado ainda tinham o meu sangue seco.
 
 Enrolei a corrente no punho.
 

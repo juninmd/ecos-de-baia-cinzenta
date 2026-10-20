@@ -9,7 +9,7 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 Elias nos conduziu veloz através do labirinto de transformadores inativos da Subestação B. O piso de concreto vibrava com um tremor rítmico, os reflexos das explosões distantes no data-center subindo pelas paredes como relâmpagos mecânicos abafados.
 
-O ar cheirava a poeira metálica aquecida, enxofre e graxa velha, deixando aquele gosto amargo e azedo de fuligem no fundo da garganta. A cada passada pesada, as órteses das minhas pernas rangiam alto, mas a dor no meu ombro amputado me mantinha alerta, focado no mapa que Elias desdobrava mentalmente à nossa frente.
+O ar cheirava a poeira metálica aquecida, enxofre e graxa velha, deixando aquele gosto amargo e azedo de fuligem no fundo da garganta. A cada passada pesada, as órteses das minhas pernas rangiam alto, mas a dor no meu braço fraturado me mantinha alerta, focado no mapa que Elias desdobrava mentalmente à nossa frente.
 
 Lembrei de cada túnel de fuga que cruzei com o comissariado nos anos anteriores; quando a infraestrutura de Baía Cinzenta resolvia cobrar a conta da negligência, ela nunca deixava troco.
 
@@ -39,7 +39,7 @@ Valéria encostou a mão enluvada no volante, tentando forçar a rotação no se
 
 — Tá congelada — ela praguejou entre dentes, os LEDs da franja piscando em vermelho de advertência. — O salitre soldou as roscas do fuso. Se a gente tentar puxar na força bruta seca, o volante se parte e a trava interna sela o duto pra sempre.
 
-— Deixa eu tentar com o torque da prótese — dei um passo à frente, erguendo o braço industrial pesado.
+— Deixa eu tentar com o torque da armação — dei um passo à frente, erguendo a estrutura industrial pesada.
 
 — Espera, Moretti! — Valéria bateu com a palma da mão no meu peito de ferro, me empurrando para trás com autoridade técnica. — Se você engatar os vinte quilos desse pistão no volante travado sem soltar a ferrugem primeiro, você estoura a bucha do seu ombro de novo e a gente fica preso aqui com um detetive sem braço funcional. Elias, me passa essa sua chave sônica agora!
 
@@ -59,7 +59,7 @@ Um zumbido agudo, quase imperceptível ao ouvido humano mas doloroso nos dentes,
 
 — A rosca soltou! — Valéria gritou, desligando a ferramenta antes que a bobina derretesse de calor. — Agora é com você, Gabo! Vira no sentido anti-horário com tudo que essa sucata de cais tiver!
 
-Aproximei-me da plataforma, posicionei minhas botas nas travessas de ferro e envolvi a roda com a mão mecânica de estivador. Travei os motores hidráulicos no limite máximo de compressão. Meus dentes bateram, os nós neurais da minha clavícula estalaram em agonia quando forcei o giro com o peso do meu tronco inteiro como alavanca.
+Aproximei-me da plataforma, posicionei minhas botas nas travessas de ferro e envolvi a roda com a garra mecânica da armação. Travei os motores hidráulicos no limite máximo de compressão. Meus dentes bateram, os nós neurais da minha clavícula estalaram em agonia quando forcei o giro com o peso do meu tronco inteiro como alavanca.
 
 *CREEEEAAAAK.*
 

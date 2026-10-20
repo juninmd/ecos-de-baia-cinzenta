@@ -21,7 +21,7 @@ Elias tropeçou nos próprios pés, desabando de cara na lama da vala.
 
 — Levanta, Elias! — Valéria avançou sem hesitar, posicionando-se entre o velho caído e a criatura, atirando nos joelhos articulados do monstro. — Gabo! As pernas da besta são recicladas de chassi leve! As juntas de teflon tão expostas!
 
-Aproximei-me da carcaça de um pilar caído, onde um vergalhão de construção de duas polegadas e um metro e meio de comprimento despontava da alvenaria estraçalhada. Enfiei os dedos da prótese pesada na base do ferro e puxei com toda a tração dos motores hidráulicos de cais.
+Aproximei-me da carcaça de um pilar caído, onde um vergalhão de construção de duas polegadas e um metro e meio de comprimento despontava da alvenaria estraçalhada. Enfiei os garras da armação pesada na base do ferro e puxei com toda a tração dos motores hidráulicos de cais.
 
 *CRACK.*
 
@@ -47,7 +47,7 @@ Mirei exatamente no nó de biomassa azul e cabos ópticos que pulsava no peito d
 
 Enterrei a barra de ferro no coração do monstro.
 
-A ponta rasgada perfurou o núcleo vegetal e cravou-se fundo no dormente de madeira do chão. A quimera debateu-se violentamente numa convulsão biomecânica selvagem, as patas de aço riscando o teto e quase partindo minha omoplata com o recuo, mas travei o peso da prótese sobre o vergalhão, mantendo a besta pregada no chão.
+A ponta rasgada perfurou o núcleo vegetal e cravou-se fundo no dormente de madeira do chão. A quimera debateu-se violentamente numa convulsão biomecânica selvagem, as patas de aço riscando o teto e quase partindo minha omoplata com o recuo, mas travei o peso da armação sobre o vergalhão, mantendo a besta pregada no chão.
 
 Valéria sacou um cabo de alta voltagem que pendia solto da canaleta da parede, puxou a fiação desencapada com a faca e enfiou os fios vivos direto no vergalhão que eu segurava.
 
@@ -57,7 +57,7 @@ O arco elétrico de quatrocentos volts da rede primária desceu pela barra de fe
 
 Um clarão ofuscante azul-celeste iluminou o túnel inteiro com um estrondo ensurdecedor. A biomassa da quimera explodiu em chamas elétricas, os circuitos internos torrando instantaneamente numa fumaça densa de silício e gordura queimada. A criatura estremeceu uma última vez e amoleceu, transformando-se numa carcaça inerte e fumegante de ferro e cinzas.
 
-O impacto da sobrecarga arremessou Valéria dois metros para trás e fez meu braço mecânico vibrar com um choque que desarmou os relés de pressão do ombro, me jogando de costas no lodo.
+O impacto da sobrecarga arremessou Valéria dois metros para trás e fez minha armação mecânica vibrar com um choque que desarmou os relés de pressão do ombro, me jogando de costas no lodo.
 
 Puxei o ar com dificuldade, tossindo com o cheiro acre de fiação carbonizada, sentindo o gosto metálico de sangue na língua, mas completamente lúcido.
 

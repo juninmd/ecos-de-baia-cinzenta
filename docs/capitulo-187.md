@@ -33,7 +33,7 @@ Valéria examinou a fresta entre as chapas com o bico da lanterna.
 
 Ela praguejou em voz baixa, recuando com a arma em punho, mas mantendo os olhos prateados cravados na junta mecânica do meu braço com atenção cirúrgica.
 
-Enfiei os dedos grossos de liga de aço na fresta entre as duas portas de blindagem. O metal frio mordeu contra as engrenagens da prótese. Travei os motores da junta e comandei a abertura hidráulica com toda a pressão que os acumuladores de Vasco conseguiam entregar.
+Enfiei as garras de aço da armação na fresta entre as duas portas de blindagem. O metal frio mordeu contra as engrenagens da prótese. Travei os motores da junta e comandei a abertura hidráulica com toda a pressão que os acumuladores de Vasco conseguiam entregar.
 
 O ferro gemeu. As raízes secas que lacravam o batente arrebentaram com estalos múltiplos de cabos de aço se partindo. Um jato de ar gelado e com cheiro de óleo mineral velho escapou pelo vão enquanto a folha esquerda deslizava forçada pelo trilho oxidado.
 

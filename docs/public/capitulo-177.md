@@ -45,7 +45,7 @@ Eu não tentei desviar. Com o peso assimétrico que me puxava para a direita, eu
 
 Em vez disso, afundei a bota esquerda na sarjeta para firmar o ponto de apoio e liberei a trava manual do pistão pneumático. O zumbido hidráulico no meu ombro explodiu em um silvo ensurdecedor de vapor superaquecido.
 
-O vergalhão atingiu o antebraço da prótese. O impacto produziu um estampido estridente de metal contra metal, mas o aço industrial das docas nem sequer arranhou. A barra de ferro entortou na mão do homem.
+O vergalhão atingiu o antebraço da armação de ferro. O impacto produziu um estampido estridente de metal contra metal, mas o aço industrial das docas nem sequer arranhou. A barra de ferro entortou na mão do homem.
 
 Antes que ele pudesse puxar a arma de volta, desferi o golpe. Não foi um soco técnico de boxeador da corporação; foi o arremesso estúpido e maciço de um martelo mecânico de vinte quilos empurrado por um pistão sob pressão máxima.
 
@@ -53,7 +53,7 @@ Minha mão de liga espessa colidiu com a caixa torácica dele.
 
 O som do esterno e das costelas se estilhaçando sob o concreto foi audível até mesmo por cima da tempestade. O homem nem chegou a gritar; o ar e o sangue foram expulsos dos pulmões dele instantaneamente enquanto seu corpo era projetado cinco metros para trás, colidindo violentamente contra a lateral do caminhão frigorífico antes de deslizar, inerte, para dentro de uma poça de óleo.
 
-A onda de recuo subiu pela minha omoplata como uma chicotada de fogo. A dor estalou nas terminações nervosas recém-suturadas, fazendo meu maxilar ranger e o suor frio misturar-se à chuva no meu rosto. Mas os nós de fixação aguentaram. A fita isolante de Vasco fumegava na junta, mas os dedos de aço responderam ao meu comando quando fechei o punho ensanguentado.
+A onda de recuo subiu pela minha omoplata como uma chicotada de fogo. A dor estalou nas terminações nervosas recém-suturadas, fazendo meu maxilar ranger e o osso fraturado protestar sob a chuva no meu rosto. Mas os pinos de fixação aguentaram. A fita isolante de Vasco fumegava na junta, mas os dedos de aço responderam ao meu comando quando fechei o punho ensanguentado.
 
 Os outros quatro saqueadores pararam no meio do salto. O terror paralisou cada um deles. Olharam para o líder deles afundado na lama sem respirar, olharam para o vapor branco que sibilava da junta do meu braço de ferro, e depois para o cano curto de *Caronte* que eu saquei com a mão esquerda por baixo do casaco.
 

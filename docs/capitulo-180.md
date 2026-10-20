@@ -59,13 +59,13 @@ Valéria soltou o ar num soluço seco, o cano da pistola descendo devagar. Ela e
 
 Olhei para cima da massa principal de fungos que bloqueava o arco de saída da câmara. Três metros acima do chão passava uma tubulação industrial de retorno, velha, coberta de ferrugem corrosiva e pingando uma água verde-esmeralda que fumegava ao tocar o piso. Resíduo de purga ácida das caldeiras antigas do Distrito 4.
 
-Afundei os pés no lodo da passarela, medindo o peso do meu novo braço.
+Afundei os pés no lodo da passarela, medindo o peso da minha armação de ferro.
 
 — O que você vai fazer, Gabo? — Valéria sussurrou, encostada na parede.
 
 — O que o Vasco planejou pra essa sucata: trabalho braçal de cais.
 
-Avancei dois passos até ficar exatamente sob o cotovelo da tubulação. Ergui a prótese industrial com as duas mãos — a de carne dando suporte na base do bíceps, os nós neurais da escápula gritando quando forcei o ângulo além do limite de segurança.
+Avancei dois passos até ficar exatamente sob o cotovelo da tubulação. Ergui a armação industrial com as duas mãos — a mão esquerda dando suporte na base do bíceps, os pinos neurais da escápula gritando quando forcei o ângulo além do limite de segurança.
 
 Cerrei o punho maciço de aço e desferi o golpe contra a curva oxidada do cano.
 

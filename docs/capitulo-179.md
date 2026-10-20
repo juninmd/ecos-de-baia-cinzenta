@@ -19,7 +19,7 @@ Valéria terminou de amarrar o cyberdeck às costas com tiras de lona encerada p
 
 Descemos pelos trilhos enferrujados. A escuridão era densa, quase mastigável, furada apenas pelo facho estreito da lanterna que Valéria acoplou ao cano da arma. O ar nos túneis de manutenção era frio e pesado, com gosto de enxofre e amônia que ardia no fundo da garganta.
 
-A cada dez passos, o peso assimétrico da minha prótese forçava minha bota a escorregar no cascalho úmido. Eu respirava com dificuldade, sentindo as costelas trincadas protestarem contra o esforço contínuo de equilibrar vinte quilos de ferro morto pendurados no meu esqueleto.
+A cada dez passos, o peso assimétrico da armação externa forçava minha bota a escorregar no cascalho úmido. Eu respirava com dificuldade, sentindo as costelas trincadas protestarem contra o esforço contínuo de equilibrar vinte quilos de ferro sustentando meu braço fraturado.
 
 — Pisa firme, Moretti — Valéria advertiu sem olhar para trás, a voz ecoando abafada pelas paredes circulares de concreto bruto. — Os dormentes tão podres. Se o seu pé furar essa madeira encharcada, eu não vou descer nos bueiros pra pescar sua perna de lata.
 

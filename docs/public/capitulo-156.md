@@ -68,6 +68,6 @@ Gabo arrastou as costas contra a parede lateral do vagão e firmou-se encostado 
 
 Valéria ergueu os olhos pesados e cibernéticos, cheios de uma tristeza cinza profunda, olhando para o pequeno cilindro de titânio espetado no console à frente, cujo LED azul-gelo regia a subida. Ela não discutiu. Seus olhos se fecharam por um instante enquanto o monorail os arrastava contra a gravidade de Baía Cinzenta.
 
-O escuro do túnel do Subnível 3.5 passava voando pela única janela do vagão em linhas embaçadas de poeira e estruturas em ruínas. A cada baque sobre a junção dos trilhos, a dor latejava nos cotocos de Gabo, e a cada pulsação, sua mente se agarrava um pouco mais à clareza insana do momento. Não havia fumaça. Havia apenas aço, ferrugem, dor crua e a voz impessoal e perfeitamente lógica saindo do painel do trem em direção à curadoria prometida do Taxidermista.
+O escuro do túnel do Subnível 3.5 passava voando pela única janela do vagão em linhas embaçadas de poeira e estruturas em ruínas. A cada baque sobre a junção dos trilhos, a dor latejava no braço quebrado de Gabo, e a cada pulsação, sua mente se agarrava um pouco mais à clareza insana do momento. Não havia fumaça. Havia apenas aço, ferrugem, dor crua e a voz impessoal e perfeitamente lógica saindo do painel do trem em direção à curadoria prometida do Taxidermista.
 
 A verdadeira caçada ainda não havia começado. Gabo apertou a mandíbula até seus dentes estalarem, preparando o coração esfolado para o que viria no fim da linha.

@@ -7,7 +7,7 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 # Capítulo 217: O Útero de Chumbo
 
-O fundo do poço nos recebeu com a indiferença gélida de uma câmara mortuária anterior à própria história. Não houve impacto dramático; apenas o baque surdo dos meus coturnos sobre a laje de concreto usinado de alta densidade. O som ecoou na vastidão confinada, seco, pesado e sem retorno. Apoiei o peso na perna boa, enquanto a prótese industrial de sucata instalada por Vasco no Capítulo 175 após a amputação puxava meu ombro com uma fisgada aguda de cansaço. A carne costurada ardia sob as bandagens sujas, onde os pontos continuavam sangrando em silêncio. As cicatrizes do Dilúvio queimavam como brasa viva; tanta gente morreu naquela enchente maldita e eu perdi quase tudo o que chamava de vida, mas a agonia física servia apenas para manter meus sentidos despertos e focados.
+O fundo do poço nos recebeu com a indiferença gélida de uma câmara mortuária anterior à própria história. Não houve impacto dramático; apenas o baque surdo dos meus coturnos sobre a laje de concreto usinado de alta densidade. O som ecoou na vastidão confinada, seco, pesado e sem retorno. Apoiei o peso na perna boa, enquanto a armação industrial de sucata instalada por Vasco no Capítulo 175 para sustentar a fratura puxava meu ombro com uma fisgada aguda de cansaço. A carne costurada ardia sob as bandagens sujas, onde os pontos continuavam sangrando em silêncio. As cicatrizes do Dilúvio queimavam como brasa viva; tanta gente morreu naquela enchente maldita e eu perdi quase tudo o que chamava de vida, mas a agonia física servia apenas para manter meus sentidos despertos e focados.
 
 — Chegamos ao leito de pedra, — anunciei, a voz raspando na garganta ressecada pelo ar denso e rarefeito.
 
@@ -41,7 +41,7 @@ Aproximei-me do volante de metal forjado. Tinha quase um metro e meio de diâmet
 
 — Se você me der um apoio de pé com essa mão de ferro, eu alcanço até a lua, detetive, — ela respondeu com um sorriso audacioso.
 
-Entrelacei os dedos de metal da prótese, abaixando-me para servir de estribo. Valéria apoiou a bota na minha mão de sucata com a leveza de quem passou a vida escalando marquises; ergui o braço postiço com o impulso hidráulico dos servos, lançando-a até a altura do registro de bronze.
+Entrelacei os hastes de metal da armação, abaixando-me para servir de estribo. Valéria apoiou a bota na minha mão de sucata com a leveza de quem passou a vida escalando marquises; ergui o braço postiço com o impulso hidráulico dos servos, lançando-a até a altura do registro de bronze.
 
 Ela cravou o pé de cabra na alavanca e puxou para baixo com todo o peso do corpo.
 
@@ -53,7 +53,7 @@ Agarrei os raios do volante central. Elias correu e travou as mãos ao lado das 
 
 — No três! — comandei. — Um... dois... gira!
 
-Puxamos a roda de manobra em sentido horário. O motor da minha prótese de Vasco rugiu sob o esforço, os parafusos na minha clavícula puxando a carne viva com uma ferroada que me fez cerrar os dentes até ranger os molares. Lembro de provações parecidas no Dilúvio, quando o concreto cedia e a gente quebrou as próprias mãos pra salvar os sobreviventes; a dor era uma velha conhecida, a prova irrefutável de que eu ainda respirava e comandava o próprio corpo.
+Puxamos a roda de manobra em sentido horário. O motor da minha armação de Vasco rugiu sob o esforço, os parafusos na minha clavícula puxando a carne viva com uma ferroada que me fez cerrar os dentes até ranger os molares. Lembro de provações parecidas no Dilúvio, quando o concreto cedia e a gente quebrou as próprias mãos pra salvar os sobreviventes; a dor era uma velha conhecida, a prova irrefutável de que eu ainda respirava e comandava o próprio corpo.
 
 O metal rangeu com um gemido profundo e prolongado de engrenagens de bronze deslizando em guias perfeitas.
 

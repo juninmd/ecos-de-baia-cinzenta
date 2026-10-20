@@ -25,7 +25,7 @@ Atrás da coluna de chumbo do terminal mestre, Valéria arrancou o painel fronta
 
 — Foda-se a sua otimização! — Gabo sibilou do meio do corredor. O suor frio escorria de sua testa, misturando-se à sujeira cinzenta que lhe cobria o rosto. A névoa acre da fumaça do cigarro de Dante já estava se insinuando em sua garganta outra vez, espessa e asfixiante, ameaçando engolir sua consciência na letargia e no pânico.
 
-Ele não podia permitir. Não agora. Gabo levantou o cotoco de seu braço direito, onde a pele carbonizada e repuxada mal cobria a carne viva sob a crosta da cauterização de plasma, e esmagou a extremidade brutalmente contra o frio gabinete de alumínio de um servidor inativo ao seu lado. O impacto enviou um choque elétrico de pura agonia subindo pelo braço decepado, explodindo como uma granada de fragmentação em sua mente. A dor era um farol incandescente. Ela varreu o cheiro de tabaco, purificando seus sentidos no purgatório da realidade física. Ele arfou, os dentes cerrados, as veias do pescoço saltadas.
+Ele não podia permitir. Não agora. Gabo levantou o braço direito quebrado, onde as ataduras e talas improvisadas mal continham a fratura e a carne queimada, e esmagou o antebraço ferido brutalmente contra o frio gabinete de alumínio de um servidor inativo ao seu lado. O impacto forçou a fratura, enviando um choque elétrico de pura agonia subindo pelo osso quebrado, explodindo como uma granada de fragmentação em sua mente. A dor era um farol incandescente. Ela varreu o cheiro de tabaco, purificando seus sentidos no purgatório da realidade física. Ele arfou, os dentes cerrados, as veias do pescoço saltadas.
 
 — Valéria, espeta ela logo! — Gabo grunhiu, a voz rouca, lutando para manter os olhos focados no brilho vermelho das lentes do Sentinela.
 
@@ -43,7 +43,7 @@ As lentes de rastreamento vermelhas deixaram o peito de Gabo e focaram-se inteir
 
 — Que porra tá acontecendo lá dentro?! — Valéria murmurou, recuando meio passo da coluna com a mão queimada pelo calor repentino que irradiava do encaixe, observando a tela monocromática morta do terminal na parede piscar loucamente com cascatas de dados indecifráveis.
 
-— Uma briga de foice no escuro — respondeu Gabo, encostado na parede fria. A náusea voltava a espreitar nas bordas de sua percepção, o gosto enjoativo do tabaco barato marcando seu paladar. Ele bateu o cotoco esquerdo contra a chapa metálica, usando o impacto contundente nos nervos cauterizados para se manter alerta. — E a nossa chave mestra tá arrombando a porta de um deus morto. Não deixa ele te assimilar, Aria! Joga lixo na engrenagem dele!
+— Uma briga de foice no escuro — respondeu Gabo, encostado na parede fria. A náusea voltava a espreitar nas bordas de sua percepção, o gosto enjoativo do tabaco barato marcando seu paladar. Ele bateu o antebraço contra a chapa metálica, usando o impacto contundente nas feridas para se manter alerta. — E a nossa chave mestra tá arrombando a porta de um deus morto. Não deixa ele te assimilar, Aria! Joga lixo na engrenagem dele!
 
 Dentro da malha física, era o silêncio absoluto seguido pela aniquilação. O Sentinel não usava linguagem; não ameaçava, não dialogava. Ele despejava petabytes de código malicioso bruto e pressão algorítmica pelo barramento do terminal, tentando esmagar o núcleo minúsculo do pendrive de Aria sob o peso do próprio arquivo executivo.
 

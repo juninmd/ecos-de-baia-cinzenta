@@ -139,7 +139,7 @@ Uma pausa.
 
 O carretel continuou girando em fita branca por mais um minuto inteiro, e ninguém na sala se mexeu para desligar.
 
-Eu fiquei ali sentado na cadeira de couro rachado, com quarenta graus de febre, um braço a menos e um ombro apodrecendo, no lugar mais limpo do mundo, ouvindo um chiado.
+Eu fiquei ali sentado na cadeira de couro rachado, com quarenta graus de febre, o braço quebrado na armação e um ombro em carne viva, no lugar mais limpo do mundo, ouvindo um chiado.
 
 Quinze anos de merda e a única coisa que eu consegui pensar foi: *ele falou de mim.*
 
@@ -157,7 +157,7 @@ Perder um pai é uma coisa. Descobrir que você perdeu **o pai errado** — que 
 
 Eu não ganhei nada naquela cadeira de couro. Eu perdi a última desculpa que eu tinha.
 
-Meus olhos arderam e eu não fiz absolutamente nada a respeito, porque a mão boa estava ocupada segurando a mesa e a outra é uma garra industrial que Vasco parafusou nos meus nervos, e eu não ia usar uma prótese de açougueiro para enxugar isso.
+Meus olhos arderam e eu não fiz absolutamente nada a respeito, porque a mão boa estava ocupada segurando a mesa e a outra é uma garra industrial que Vasco parafusou nos meus nervos, e eu não ia usar o ferro de um açougueiro para enxugar isso.
 
 — A pasta, — falei, e a voz saiu horrível. — Ele falou pasta em aberto.
 

@@ -27,13 +27,13 @@ Se o freio de Valéria derretesse a dez metros do chão, o impacto partiria noss
 
 — Vou travar a descida na ignorância!
 
-Comandei o atuador hidráulico da prótese pesada. Os dedos grossos de liga de aço se abriram ao redor do cabo de tração primário de cinco polegadas de espessura. Travei os motores na pressão máxima de pinçamento.
+Comandei o atuador hidráulico da armação pesada. As garras de liga de aço se abriram ao redor do cabo de tração primário de cinco polegadas de espessura. Travei os motores na pressão máxima de pinçamento.
 
 *SKRRRRREEEEEEEECH!*
 
 O estampido de aço contra aço ecoou pelo poço como o guincho estridente de uma serra circular cortando blindagem de navio. Uma chuva torrencial de faíscas alaranjadas e incandescentes explodiu no breu, iluminando as paredes circulares do fosso com flashes violentos de luz.
 
-O calor da fricção subiu pela carcaça da prótese, fazendo o óleo das juntas ferver e fumegar. O tranco desacelerou nossa queda com uma violência brutal, jogando todo o peso dos nossos dois corpos direto nos pregos neurais da minha escápula. A dor foi avassaladora, uma lança de fogo elétrico que estalou nas minhas vértebras e me arrancou um urro rouco do peito, mas a pinça de carregador das docas segurou.
+O calor da fricção subiu pela carcaça da armação, fazendo o óleo das juntas ferver e fumegar. O tranco desacelerou nossa queda com uma violência brutal, jogando todo o peso dos nossos dois corpos direto nos pregos neurais da minha escápula. A dor foi avassaladora, uma lança de fogo elétrico que estalou nas minhas vértebras e me arrancou um urro rouco do peito, mas a pinça de carregador das docas segurou.
 
 O cabo gemeu sob a mordida do metal, e nossa descida estancou a meio metro acima do chão da plataforma de manutenção.
 
@@ -65,7 +65,7 @@ Valéria ergueu a mão enluvada, os sensores do cyberdeck apitando numa frequên
 
 — Tem máquina viva operando lá dentro, Gabo — ela sussurrou, a respiração formando pequenas nuvens no ar gélido da câmara. — A rede do Jardim tá alimentando os servidores com os nós que extraíram da estufa. O sinal tá sincronizado com a base do Arquivo Executivo.
 
-Aproximei-me da porta selada, sentindo a vibração do maquinário ressoar através do metal da minha prótese e vibrar nos meus dentes.
+Aproximei-me da porta selada, sentindo a vibração do maquinário ressoar através do metal da minha armação e vibrar nos meus dentes.
 
 — Eles estão acordando o monstro adormecido da Aeterna — murmurei, a mão esquerda alcançando a empunhadura áspera de *Caronte*. — Mas a gente desceu até aqui pra puxar o fio da tomada.
 

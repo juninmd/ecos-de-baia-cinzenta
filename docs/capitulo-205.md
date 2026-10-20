@@ -19,7 +19,7 @@ O monstro arremeteu o primeiro golpe antes mesmo de fixar totalmente a base. Uma
 
 Joguei meu corpo para a esquerda em um salto desesperado. A lâmina de aço bruto atingiu o chão no ponto exato onde eu estava meio segundo antes, partindo a laje de concreto com um estrondo ensurdecedor. A onda de choque cinético ricocheteou pelas minhas pernas; caí de lado na poeira, os rebites da órtese queimada cravando-se na carne da coxa com uma ferroada que arrancou um palavrão dos meus dentes. O gosto metálico de sangue e terra encheu minha boca quando mordi a língua na queda. Lembro de ferimentos parecidos no Dilúvio, quando a água fria lavava a dor antes que o corpo pudesse processar o estrago.
 
-Ergui a *Caronte* com o braço mecânico de sucata instalado no Capítulo 175 após a amputação, sentindo o pistão industrial gemer sob a sobrecarga do recuo, e disparei dois tiros à queima-roupa no núcleo central do colosso. Meus músculos sangravam sob as ataduras, mas a dor mantinha o foco afiado desde a queda na Torre anos atrás.
+Ergui a *Caronte* com o armação de sucata instalada no Capítulo 175 para sustentar o braço fraturado, sentindo o pistão industrial gemer sob a sobrecarga do recuo, e disparei dois tiros à queima-roupa no núcleo central do colosso. Meus músculos sangravam sob as ataduras, mas a dor mantinha o foco afiado desde a queda na Torre anos atrás.
 
 Os bagos de chumbo grosso e tungstênio bateram na couraça de lagartas com um estampido ensurdecedor, arrancando lascas de ferrugem e uma chuva de faíscas azuis, mas sem penetrar a blindagem de aço temperado. O impacto mal fez a criatura cambalear.
 
@@ -35,7 +35,7 @@ Ergui os olhos através do turbilhão de fuligem vermelha. Vinte metros acima do
 
 — É isso ou virar purê nas garras dessa empilhadeira do inferno! — ela rebateu, enfiando um cartucho novo na pistola e disparando contra os sensores ópticos da cabine. — Eu tô tentando destravar os freios magnéticos de emergência pelo painel lateral, mas o relé tá preso na ferrugem! Você precisa cortar o pino de ancoragem da esquerda!
 
-O colosso girou com um rugido mecânico ensurdecedor, os motores elétricos superaquecidos soltando labaredas vermelhas pelas juntas da carcaça. Ele ignorou Valéria e avançou direto contra mim, farejando o peso da minha prótese de aço e o ruído da minha órtese que protestava a cada centímetro.
+O colosso girou com um rugido mecânico ensurdecedor, os motores elétricos superaquecidos soltando labaredas vermelhas pelas juntas da carcaça. Ele ignorou Valéria e avançou direto contra mim, farejando o peso da minha armação de aço e o ruído da minha órtese que protestava a cada centímetro.
 
 — Vem buscar, seu monte de lata velha! — rosnei, me levantando com o apoio da coluna trincada e apoiando a coronha da escopeta na axila.
 

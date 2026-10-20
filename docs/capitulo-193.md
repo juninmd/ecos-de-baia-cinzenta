@@ -11,7 +11,7 @@ A Subestação B era um mausoléu de transformadores gigantescos e cabos de cobr
 
 O ar cheirava a poeira antiga, óleo mineral estagnado e ozônio frio. Na boca, o gosto amargo de cinzas e fuligem química ainda me queimava a língua, uma herança crua de cada batalha que travei desde o Dilúvio nas docas.
 
-Avancei pelos corredores estreitos, apoiando a mão esquerda na parede de alvenaria crua. Minha perna com a órtese mecânica rangia a cada passo, o metal castigado pelo choque do poço de exaustão, mas a dor no meu ombro amputado me mantinha focado no chão de cimento e nas sombras do caminho.
+Avancei pelos corredores estreitos, apoiando a mão esquerda na parede de alvenaria crua. Minha perna com a órtese mecânica rangia a cada passo, o metal castigado pelo choque do poço de exaustão, mas a dor no meu ombro fraturado me mantinha focado no chão de cimento e nas sombras do caminho.
 
 Valéria caminhava dois passos à frente, os filamentos de LED azul na franja iluminando as canaletas de força. Ela segurava a pistola curta com firmeza, enquanto o cyberdeck preso às costas zumbia com o ventilador de arrefecimento em rotação alta.
 
@@ -37,7 +37,7 @@ Valéria deu um passo calmo para o lado, a ponta da pistola apontando discretame
 
 — Uma chave sônica com a bobina de retorno invertida? — a voz dela soou afiada, carregada de ironia técnica. — Truque esperto, vovô. Pena que se você descarregar esse capacitor na água da sarjeta, a corrente volta pelo cabo terra da sua bota e frita o seu próprio coração antes de arranhar meu cyberdeck. Abaixa essa sucata.
 
-O homem piscou os olhos duas vezes, olhando da pistola de Valéria para a minha prótese industrial de vinte quilos, que ainda fumegava com o calor residual do incêndio no data-center.
+O homem piscou os olhos duas vezes, olhando da pistola de Valéria para a minha armação industrial de vinte quilos, que ainda fumegava com o calor residual do incêndio no data-center.
 
 — Vocês... vocês não têm olhos vermelhos — ele gaguejou, a ferramenta baixando alguns centímetros na mão ossuda. — Vocês não tão cheios daquelas raízes nojentas na garganta...
 
@@ -71,6 +71,6 @@ Valéria me olhou, os olhos prateados brilhando com uma satisfação tática evi
 
 — Desimpedido não é a palavra, detetive — Elias deu um sorriso desdentado e amarelo, coçando a barba encardida. — Tem uma válvula de alívio emperrada no meio do caminho que pesa quase meia tonelada de ferro fundido. Eu nunca tive força pra abrir sozinho. Mas olhando pra essa marreta de aço que você tem no ombro... acho que a gente tem uma chance de passar.
 
-Ajeitei o peso do braço mecânico, ouvindo as juntas chiarem com a pressão renovada.
+Ajeitei o peso da armação de ferro, ouvindo as juntas chiarem com a pressão renovada.
 
 — Então pega suas ferramentas e vem com a gente, Elias — falei, dando um passo em direção à passagem. — A gente abre a válvula e você garante que a gente não se perca no escuro.

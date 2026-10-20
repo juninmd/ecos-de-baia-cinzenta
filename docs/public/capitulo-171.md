@@ -9,13 +9,13 @@ Personagens Presentes: Gabo, Valéria
 
 A subida pelo poço do elevador de emergência foi um exercício metódico de dor. Sem energia para acionar os guinchos do Arquivo Executivo, tivemos que subir pela escada de manutenção enferrujada, usando cada plataforma como um respiradouro temporário.
 
-A escada engolia Valéria acima de mim. Cada passo dela produzia um rangido metálico fraco, engolido pelo breu que empurrávamos para baixo. Para mim, a escalada não exigia apenas força; exigia abstração. Minhas pernas suportavam o peso do chassi avariado do meu corpo, mas meus braços... meus cotocos cauterizados deslizavam no metal frio quando eu tentava usá-los para equilíbrio.
+A escada engolia Valéria acima de mim. Cada passo dela produzia um rangido metálico fraco, engolido pelo breu que empurrávamos para baixo. Para mim, a escalada não exigia apenas força; exigia abstração. Minhas pernas suportavam o peso do chassi avariado do meu corpo, mas meus braços... o braço direito quebrado preso ao peito pesava feito chumbo, e minha mão esquerda em carne viva escorregava no metal frio quando eu tentava usá-la para tração.
 
-A cada dez metros, a carne recém-fechada pelo plasma era esfolada na grade. O sangue morno empapava os restos das minhas mangas, descendo pelos meus flancos onde a espuma química de Valéria mantinha minhas costelas no lugar.
+A cada dez metros, a carne lacerada e as queimaduras seladas pelo maçarico eram esfoladas na grade. O sangue morno empapava as ataduras improvisadas e os restos das minhas mangas, descendo pelos meus flancos onde a espuma química de Valéria mantinha minhas costelas no lugar.
 
 O cheiro do Subnível 2.0 — o formol, o ozônio estéril, a carne morta no servidor — começou a se dissipar na marca dos quarenta metros. Em seu lugar, a velha e conhecida exalação de Baía Cinzenta desceu pelo poço de ventilação: uma lufada úmida de asfalto molhado, poeira de concreto e a acidez química da chuva contínua.
 
-O esforço contínuo da escalada cobrava um preço avassalador de cada fibra muscular. Sem as mãos, eu dependia da tração dos cotovelos, da pressão dos joelhos e da força bruta do abdômen para vencer cada degrau de ferro da escada de serviço. A queimação nos membros cauterizados irradiava pelo peito a cada impulsão.
+O esforço contínuo da escalada cobrava um preço avassalador de cada fibra muscular. Com o braço direito quebrado e imobilizado e as mãos em carne viva pelas queimaduras, eu dependia da tração do braço esquerdo, da pressão dos joelhos e da força bruta do abdômen para vencer cada degrau de ferro da escada de serviço. A queimação no osso fraturado e nas feridas cauterizadas irradiava pelo peito a cada impulsão.
 
 Parei por três segundos para recuperar o fôlego, apoiando a testa no aço gelado do degrau superior. O ar frio da superfície entrava rasgando a garganta, com gosto de salitre e chuva ácida. Cerrei a mandíbula, sentindo o pulsar ensurdecedor do sangue nas têmporas, e usei o ritmo áspero da minha própria respiração para afastar a vertigem da exaustão.
 
@@ -41,6 +41,6 @@ Ela levantou lentamente a cabeça e olhou para as grandes portas de vidro estilh
 
 — Não há luz lá fora, Gabo. Nenhum de nós salvou nada — ela sussurrou, a voz destituída do habitual escárnio cibernético. — Só trocamos o dono do escuro.
 
-Encostei a cabeça no pilar e deixei que a chuva fria borrifasse meu rosto. Ela estava certa, mas naquele momento, eu não me importava. Não havia vozes de IA na minha cabeça, não havia a imposição de um pai psicopata na infraestrutura da cidade. Havia apenas eu, os cotocos latejantes dos meus braços e o cheiro podre do meu mundo desmoronando, analógico e brutalmente silencioso.
+Encostei a cabeça no pilar e deixei que a chuva fria borrifasse meu rosto. Ela estava certa, mas naquele momento, eu não me importava. Não havia vozes de IA na minha cabeça, não havia a imposição de um pai psicopata na infraestrutura da cidade. Havia apenas eu, o latejo surdo do meu braço quebrado e o cheiro podre do meu mundo desmoronando, analógico e brutalmente silencioso.
 
 O expediente havia terminado, mas a ressaca estava apenas começando.

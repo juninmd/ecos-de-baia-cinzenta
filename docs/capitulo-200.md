@@ -37,7 +37,7 @@ Olhei para a escada de ferro chumbada na rocha. Uma sucessão vertiginosa de lan
 
 — Em pé?! — o velho quase berrou, as lágrimas limpando trilhas de lama na poeira de seu rosto. — Aquela escada tá carcomida por quarenta anos de umidade ácida, detetive! Três passos com essa sua perna pesada e o ferro se quebra no meio! A gente vai cair no fundo desse fosso e virar pasta!
 
-Dei um passo firme em direção a ele, a mão mecânica repousando pesada sobre o ombro do velho com um aperto firme e calmo. Olhei bem dentro dos olhos aterrorizados dele, a voz saindo no tom grave e seguro de um policial veterano que já arrancou homens piores da boca do abismo:
+Dei um passo firme em direção a ele, a garra de ferro da armação repousando pesada sobre o ombro do velho com um apoio firme e calmo. Olhei bem dentro dos olhos aterrorizados dele, a voz saindo no tom grave e seguro de um policial veterano que já arrancou homens piores da boca do abismo:
 
 — Escuta aqui, Elias. Você sobreviveu sozinho a semanas de cerco naquela subestação comendo ração seca e enganando os zumbis com uma chave sônica. Você não é um covarde que desiste na soleira da porta. Você é a única pessoa viva que conhece a chave de acesso do Hub lá em cima. A gente vai subir aquela escada juntos. Um degrau de cada vez.
 
@@ -45,7 +45,7 @@ Elias piscou, engolindo o soluço. O tremor nas mãos dele diminuiu gradualmente
 
 — E se a escada quebrar? — ele sussurrou.
 
-— Se a escada quebrar, eu seguro você com esse braço de cais — respondi, apontando para o ferro da prótese. — Agora engole esse medo e bota a mão no primeiro degrau.
+— Se a escada quebrar, eu seguro você com essa armação de cais — respondi, apontando para o ferro da estrutura. — Agora engole esse medo e bota a mão no primeiro degrau.
 
 Valéria se aproximou, pendurando o cyberdeck com as alças cruzadas no peito para liberar os braços e checando o cão da pistola com um clique seco.
 

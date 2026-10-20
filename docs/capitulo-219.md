@@ -11,7 +11,7 @@ Ela olhou para mim por quatro segundos e fechou os olhos de novo.
 
 Não foi sono. Foi dispensa. Eu já vi aquele gesto mil vezes em salas de interrogatório: o suspeito que confere quem entrou, calcula que você não vale o esforço, e devolve a atenção para dentro. A Dra. Elara Vance me viu, me classificou e me arquivou, tudo em menos tempo do que eu levei para limpar o vidro.
 
-Bati no berço com a garra da prótese. O som ecoou pela galeria como um tiro.
+Bati no berço com a garra da armação. O som ecoou pela galeria como um tiro.
 
 Nada.
 
@@ -25,7 +25,7 @@ Encostei a testa no vidro frio. Do outro lado, a mulher que vendeu a minha cidad
 
 Eu tinha atravessado oitocentos metros de lodo, perdido um braço, enterrado o Rangel numa passarela oxidada e visto o pendrive da Aria derreter o próprio núcleo num terminal, e ela tinha passado a mesma temporada dormindo em lençóis limpos.
 
-Bati de novo. Mais forte. A prótese soltou faísca.
+Bati de novo. Mais forte. A armação soltou faísca.
 
 — Gabo.
 

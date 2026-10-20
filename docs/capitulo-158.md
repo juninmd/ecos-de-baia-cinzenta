@@ -10,7 +10,7 @@ characters: ["Gabo", "Valéria", "Aria"]
 - **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
 - **Localização:** Túneis de Trânsito (Subnível 3.0 - Acesso Central)
 - **Personagens Presentes:** Gabo, Valéria, Aria (Reboot)
-- **Resumo:** Após a explosão que rompeu as comportas do Subnível 3.0, Gabo e Valéria deixam o vagão de manutenção guiados pela telemetria do pendrive de Aria acoplado ao deck. Enquanto Gabo usa a dor crua de seus cotocos cauterizados para esmagar as alucinações de fumaça de cigarro, Aria detecta a presença de filtros biológicos e biomassa estática nos Servidores Centrais logo acima, preparando o grupo para o confronto contra as Esculturas do Taxidermista.
+- **Resumo:** Após a explosão que rompeu as comportas do Subnível 3.0, Gabo e Valéria deixam o vagão de manutenção guiados pela telemetria do pendrive de Aria acoplado ao deck. Enquanto Gabo usa a dor crua de seu braço fraturado para esmagar as alucinações de fumaça de cigarro, Aria detecta a presença de filtros biológicos e biomassa estática nos Servidores Centrais logo acima, preparando o grupo para o confronto contra as Esculturas do Taxidermista.
 
 ## Narrativa
 
@@ -18,13 +18,13 @@ characters: ["Gabo", "Valéria", "Aria"]
 
 O silêncio após uma explosão nunca é vazio; ele é um vácuo zumbidor que engole o pensamento. O túnel vertical agora era uma chaminé monumental, expelindo as cinzas incandescentes do que um dia fora o orgulho ferroviário da Aeterna Corp antes do Dilúvio. As portas blindadas do Subnível 3.0 não existiam mais, substituídas por uma cratera fumegante com bordas de aço derretido brilhando como uma ferida aberta na escuridão.
 
-Gabo estava de pé, encostado na parede fria e irregular do túnel. Ele respirava em arfadas curtas e afiadas. Seus braços... o que restava funcional de suas extremidades envolvidas nos farrapos carbonizados das mangas após o plasma no Capítulo 155, pulsavam com uma agonia rítmica. A cauterização havia estancado a hemorragia, mas a dor fantasma dos nervos calcinados era um coro histérico em seu cérebro.
+Gabo estava de pé, encostado na parede fria e irregular do túnel. Ele respirava em arfadas curtas e afiadas. Seu braço direito quebrado, imobilizado sob os farrapos das ataduras e talas improvisadas após as queimaduras no Capítulo 155, pulsava com uma agonia rítmica. A cauterização estancara a hemorragia das lacerações, mas a dor dos ossos fraturados e dos tecidos feridos era um coro histérico em seu cérebro.
 
 E então, veio o cheiro.
 
 Não o ozônio, não a fuligem da explosão. Mas aquele odor insidioso, adocicado e rançoso que vinha de anos atrás. *Tabaco barato. Piche impregnando as paredes de um apartamento minúsculo. A presença sufocante de Dante no corredor escuro.* A fumaça invisível rastejou pelas suas narinas, ativando a repulsa visceral que sempre dormia com um olho aberto dentro dele. A náusea subiu quente e azeda como bile pela sua garganta.
 
-Ele cerrou a mandíbula até seus dentes rangerem. Com um movimento brusco, ergueu o braço direito e chocou o cotoco cauterizado contra a pedra lascada da parede. *Trek.* A crosta chamuscada rachou levemente, trazendo o gosto salgado e metálico de suor e sangue mordido na língua. A dor irrompeu como uma sirene estilhaçando vidro.
+Ele cerrou a mandíbula até seus dentes rangerem. Com um movimento brusco, apoiou o braço direito quebrado e pressionou a fratura contra a pedra lascada da parede. *Trek.* O osso trincado rangeu sob a tala improvisada, trazendo o gosto salgado e metálico de suor e sangue mordido na língua. A dor irrompeu como uma sirene estilhaçando vidro.
 
 A alucinação recuou instantaneamente. A dor era sua claridade. A dor era limpa.
 

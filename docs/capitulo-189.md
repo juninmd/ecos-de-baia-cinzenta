@@ -29,7 +29,7 @@ Eu não tinha espaço para esquivar com a perna avariada. Plantei a bota no lodo
 
 *ZAP-CLANG!*
 
-A descarga elétrica de alta voltagem espalhou-se pela blindagem da prótese numa cascata de faíscas incandescentes. O choque ressoou pelos pregos neurais no meu ombro como ferro em brasa, mas a carcaça de carregador das docas absorveu o impacto principal sem ceder um milímetro.
+A descarga elétrica de alta voltagem espalhou-se pela blindagem da armação numa cascata de faíscas incandescentes. O choque ressoou pelos pregos neurais no meu ombro como ferro em brasa, mas a carcaça de carregador das docas absorveu o impacto principal sem ceder um milímetro.
 
 Travei a mandíbula contra o tranco e disparei o pistão hidráulico num soco ascendente.
 

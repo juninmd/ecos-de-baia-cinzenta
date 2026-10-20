@@ -7,7 +7,7 @@ Personagens Presentes: Gabo, Valéria
 
 # Capítulo 183: Carniça de Metal
 
-O cemitério de carcaças industriais se estendia como um mar de esqueletos de aço sob a chuva fina e venenosa do Distrito 4. Cada passo que dávamos na lama oleosa soava como uma confissão clandestina. Eu estava no limite físico; o peso da nova prótese arrastava meu ombro direito para baixo, um pêndulo de liga metálica bruta que repuxava minhas costelas a cada passada claudicante.
+O cemitério de carcaças industriais se estendia como um mar de esqueletos de aço sob a chuva fina e venenosa do Distrito 4. Cada passo que dávamos na lama oleosa soava como uma confissão clandestina. Eu estava no limite físico; o peso da nova armação arrastava meu ombro direito para baixo, um pêndulo de liga metálica bruta que repuxava minhas costelas a cada passada claudicante.
 
 Valéria caminhava dois metros à minha esquerda, os olhos prateados perscrutando as ruínas de uma oficina mecânica abandonada.
 
@@ -49,7 +49,7 @@ Esperei até sentir a vibração do motor tremer no meu osso da mandíbula. Cinq
 
 Saltei da cobertura para o meio da poça de lama, posicionando o pé de metal no cascalho para ancorar o impacto. O capô do buggy veio como um projétil cinzento, as pás metálicas do ventilador do radiador girando a milímetros do meu peito.
 
-Não tentei desviar. Ergui a prótese pesada de carregador das docas com as duas mãos e soco o centro da hélice em rotação com toda a carga pneumática de Vasco travada no máximo.
+Não tentei desviar. Ergui a armação pesada com as duas mãos e soco o centro da hélice em rotação com toda a carga pneumática de Vasco travada no máximo.
 
 *CRASH-CLANG.*
 
@@ -75,7 +75,7 @@ O homem soltou o ferro no cascalho ensopado, os olhos arregalados de terror por 
 
 — O... o túnel de carga da têxtil! — o homem gaguejou, o ar saindo em silvos pela válvula da máscara. — A duzentos metros à esquerda, atrás dos silos de armazenamento de grãos. O portão tá arrombado, mas... tem coisa viva lá embaixo! Raízes azuis! Elas pegaram o nosso grupo de reconhecimento ontem!
 
-Valéria me olhou por cima do ombro. Eu estava de pé, apoiado no capô fumegante do buggy, flexionando os dedos da prótese. O metal chiava de calor residual, mas o choque havia passado sem quebrar os parafusos mestres.
+Valéria me olhou por cima do ombro. Eu estava de pé, apoiado no capô fumegante do buggy, flexionando os dedos da mão direita sob a armação. O metal chiava de calor residual, mas o choque havia passado sem quebrar os parafusos mestres nos ossos.
 
 — Raízes azuis — ela disse, desativando o rádio do homem com um golpe no concreto. — Exatamente onde a gente precisa ir. O complexo hidropônico.
 

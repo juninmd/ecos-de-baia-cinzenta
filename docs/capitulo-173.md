@@ -17,13 +17,13 @@ Nas bordas do Distrito 4, a ordem corporativa nunca existiu de fato, e a falta d
 
 O vento soprou a fumaça negra de uma dessas fogueiras na nossa direção. O ardor nos olhos e a acidez cáustica no fundo da garganta foram imediatos; o plástico queimado e os vapores de borracha roubaram o oxigênio em um instante.
 
-Com o corpo debilitado pelo choque e pelas amputações recentes, a fumaça química provocou um espasmo violento na traqueia de Gabo. Ele caiu de joelhos no asfalto quebrado, tossindo em acessos secos e dolorosos que repuxavam os pontos do abdômen e faziam a água suja da sarjeta salpicar seu rosto.
+Com o corpo debilitado pelo choque e pelas fraturas e queimaduras recentes, a fumaça química provocou um espasmo violento na traqueia de Gabo. Ele caiu de joelhos no asfalto quebrado, tossindo em acessos secos e dolorosos que repuxavam os pontos do abdômen e faziam a água suja da sarjeta salpicar seu rosto.
 
 Valéria ajoelhou-se ao lado dele imediatamente, usando o próprio corpo para bloquear a rajada de vento tóxico que vinha do tambor em chamas.
 
 — Põe a gola da jaqueta no nariz, Gabo! — ela ordenou, a voz rouca lutando contra a tempestade. Ela puxou a gola de sarja dele sobre a boca para filtrar a fuligem. — Não respira esse lixo direto. A gente tá a menos de cem metros da oficina do Vasco. Aguenta firme!
 
-Gabo fechou os olhos, respirando devagar através do tecido grosso. A dor nos membros amputados latejava como brasa viva, mas o ritmo constante de sua respiração forçada afastou a vertigem. Apoiou a mão de carne no ombro firme de Valéria e forçou as pernas trêmulas a se erguerem.
+Gabo fechou os olhos, respirando devagar através do tecido grosso. A dor no braço direito fraturado e nas queimaduras latejava como brasa viva, mas o ritmo constante de sua respiração forçada afastou a vertigem. Apoiou a mão esquerda firme no ombro de Valéria e forçou as pernas trêmulas a se erguerem.
 
 — Tô inteiro, — ele murmurou, cuspindo a fuligem ácida no chão molhado. — Vamos antes que o vento vire de novo.
 
@@ -43,11 +43,11 @@ Valéria tensionou os ombros, preparando os sistemas de combate. Eu vi a luz pá
 
 Levantei a mão esquerda intacta, sinalizando para ela não se mover.
 
-Dei dois passos à frente. A água espirrava nas minhas botas. Eu não saquei minha arma. Apenas olhei para o líder. Meu casaco estava ensopado com a sujeira da cidade e meu próprio sangue fresco jorrando do toco estraçalhado do meu braço direito.
+Dei dois passos à frente. A água espirrava nas minhas botas. Eu não saquei minha arma. Apenas olhei para o líder. Meu casaco estava ensopado com a sujeira da cidade e meu próprio sangue fresco escorrendo da fratura exposta e das ataduras arrebentadas do meu braço direito.
 
 Os olhos do saqueador caíram para a minha ferida aberta, para o modo como o sangue fervia sob a chuva, e então subiram de volta para o meu rosto. A expressão fria, vazia e cínica de quem havia passado as últimas horas caminhando pelo inferno corporativo, testemunhando horrores biológicos e apagando a mente de um deus digital.
 
-Ergui o cotoco ensanguentado na direção dele, a poucos centímetros do seu rosto. A carne estalava e pingava.
+Ergui o braço direito quebrado e ensanguentado na direção dele, a tala partida e o osso desalinhado a poucos centímetros do seu rosto. A pele queimada e a carne estalavam sob a chuva ácida.
 
 — Você está vendo isso? — minha voz saiu baixa, raspando como vidro quebrado. — Eu fiz isso em mim mesmo, só porque o cheiro dessa cidade me irritou. O que acha que eu vou fazer se não sair do meu caminho nos próximos três segundos?
 

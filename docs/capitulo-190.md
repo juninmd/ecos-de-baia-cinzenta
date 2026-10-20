@@ -23,7 +23,7 @@ Valéria parou na entrada do salão, a mão esquerda cravada no corrimão de fer
 
 — Meu Deus... Gabo... isso não é um depósito de dados — a voz dela saiu num sussurro trêmulo, carregado de repulsa. — É uma fazenda de mentes humanas escravizadas. A Aeterna construiu o hardware, mas o Silas transformou essas pessoas no combustível do cálculo. Olha a taxa de transferência... eles tão usando o sofrimento dessa gente pra reescrever os firewalls das comportas pluviais da cidade.
 
-— Eles querem a rede de drenagem inteira — falei, o cano fumegante de *Caronte* apontado para o chão, o peso da prótese no ombro amputado latejando com o calor acumulado da batalha anterior. As cicatrizes da junção dos nervos queimavam como fogo. — Querem usar a água da chuva e os esgotos pra espalhar esse fungo por cada ralo de Baía Cinzenta.
+— Eles querem a rede de drenagem inteira — falei, o cano fumegante de *Caronte* apontado para o chão, o peso da armação no braço quebrado latejando com o calor acumulado da batalha anterior. As cicatrizes da junção dos nervos queimavam como fogo. — Querem usar a água da chuva e os esgotos pra espalhar esse fungo por cada ralo de Baía Cinzenta.
 
 Lembrei da morte de Bia Vargas na sala do comissariado, lembrei de cada sacrifício inútil desde a queda da Torre do Relógio. Aquela cidade sempre moía corpos pobres para manter os sistemas da elite funcionando.
 
@@ -47,7 +47,7 @@ Caminhei até o pilar central, meus passos pesados esmagando as raízes carmesin
 
 Diante de mim, o volante de ferro fundido da válvula mestra de arrefecimento estava envolto por uma crosta grossa de gelo químico e raízes ressecadas. O metal chiava sob a pressão monumental da amônia comprimida que corria dentro do duto.
 
-Girei os atuadores da minha prótese industrial de cais, ouvindo o chiado pneumático travar as garras de aço no torque máximo. Os nervos enxertados na minha carne arrancada arderam com o esforço, mas a dor agora não era um obstáculo; era a certeza de que eu ainda estava aqui, empunhando a ferramenta certa no lugar certo.
+Girei os atuadores da minha armação industrial de cais, ouvindo o chiado pneumático travar as garras de aço no torque máximo. Os nervos enxertados na minha carne arrancada arderam com o esforço, mas a dor agora não era um obstáculo; era a certeza de que eu ainda estava aqui, empunhando a ferramenta certa no lugar certo.
 
 Valéria preparou o disparador de faísca do deck e recuou três passos, mantendo a pistola em punho para cobrir o perímetro.
 
@@ -57,4 +57,4 @@ Encarei o mar de servidores vivos e as almas presas no silício corrompido de Da
 
 — Hora de podar esse jardim, Val.
 
-Cravei a mão mecânica de ferro no volante congelado da válvula, travei os dentes e puxei com toda a força brutal que a escória de Baía Cinzenta ainda guardava no meu peito ferido.
+Cravei a garra de ferro da armação no volante congelado da válvula, travei os dentes e puxei com toda a força brutal que a escória de Baía Cinzenta ainda guardava no meu peito ferido.

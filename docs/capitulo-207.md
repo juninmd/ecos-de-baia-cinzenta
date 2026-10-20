@@ -7,7 +7,7 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 # Capítulo 207: O Peso da Ferrugem
 
-A escuridão dentro daquele duto de escoamento não era apenas falta de luz; era uma presença sólida, viscosa, que parecia colar nas paredes da garganta. O diâmetro do tubo não passava de um metro e vinte. Para um homem do meu tamanho, com uma prótese pesada de sucata parafusada no ombro direito e uma perna travada em órtese rígida, aquele espaço era o mais próximo que um vivo podia chegar de ser enterrado vivo num caixão de ferro corrugado.
+A escuridão dentro daquele duto de escoamento não era apenas falta de luz; era uma presença sólida, viscosa, que parecia colar nas paredes da garganta. O diâmetro do tubo não passava de um metro e vinte. Para um homem do meu tamanho, com uma armação pesada de sucata parafusada sobre o braço fraturado e uma perna travada em órtese rígida, aquele espaço era o mais próximo que um vivo podia chegar de ser enterrado vivo num caixão de ferro corrugado.
 
 O ar parado sufocava os pulmões com o gosto rançoso de lodo industrial, esgoto antigo e metal corroído. Cada centímetro conquistado exigia uma negociação humilhante com a gravidade e com a carcaça do meu próprio corpo.
 
@@ -25,7 +25,7 @@ Atrás de mim, a respiração de Elias era um silvo asmático, entrecortado por 
 
 — As paredes tão aí há quarenta anos, Elias, — eu disse, parando por três segundos para firmar o joelho bom no metal e respirar fundo. — O aço não tá encolhendo. É a tua cabeça que tá tentando te derrubar. Respira devagar pelo nariz. Três segundos pra puxar, três pra soltar. Olha pras solas das minhas botas e não para de empurrar o chão.
 
-O peso da prótese de ferro que Vasco parafusara no meu coto no Capítulo 175 puxava meu ombro direito com uma fisgada constante e lancinante. As ataduras estavam empapadas de lodo químico, e a carne viva costurada ardia como se estivesse sob brasas, mas a dor física era um instrumento de foco. Lembrava o peso da água barrenta no Dilúvio e a fúria das comportas estourando anos atrás quando a Torre Aeterna ruiu; a dor provava que eu ainda estava aqui, rastejando, respirando o ar sujo deste purgatório.
+O peso da armação de ferro que Vasco parafusara no meu osso no Capítulo 175 para travar a fratura puxava meu ombro direito com uma fisgada constante e lancinante. As ataduras estavam empapadas de lodo químico, e a carne viva costurada ardia como se estivesse sob brasas, mas a dor física era um instrumento de foco. Lembrava o peso da água barrenta no Dilúvio e a fúria das comportas estourando anos atrás quando a Torre Aeterna ruiu; a dor provava que eu ainda estava aqui, rastejando, respirando o ar sujo deste purgatório.
 
 — Moretti, — a voz de Valéria mudou de tom, perdendo o deboche e ganhando a afiada frieza de alerta tático.
 
@@ -49,7 +49,7 @@ Valéria alcançou a grade de retenção no final da descida. As barras de ferro
 
 — Guarda a bateria do deck, Val, — rosnei, puxando o fôlego gelado que ardeu nos meus pulmões como cacos de vidro. — Aço congelado fica quebradiço. Só preciso que você ilumine o elo principal da corrente.
 
-Enfiei os dedos de ferro da prótese no meio do elo coberto de gelo. Apertei a mandíbula, travando o ombro esfolado contra a curva da parede de concreto, e forcei o atuador hidráulico ao limite. O metal da prótese rangeu alto, a carcaça de sucata estalou sob a pressão violenta e, com um estalo seco como um tiro de rifle, o elo congelado partiu-se em quatro pedaços.
+Enfiei os garras de ferro da armação no meio do elo coberto de gelo. Apertei a mandíbula, travando o ombro esfolado contra a curva da parede de concreto, e forcei o atuador hidráulico ao limite. O metal da armação rangeu alto, a carcaça de sucata estalou sob a pressão violenta e, com um estalo seco como um tiro de rifle, o elo congelado partiu-se em quatro pedaços.
 
 A grade de ferro rangeu e abriu-se para o vazio gélido que nos esperava do outro lado.
 

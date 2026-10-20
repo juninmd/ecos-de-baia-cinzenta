@@ -69,4 +69,4 @@ O homem nos observou passar com os olhos arregalados, abraçando o tubo de oxig�
 
 — Guarda o ar pra quando o Jardim subir até aqui, parceiro — Valéria retrucou, recolhendo seu cabo com um puxão seco e ajeitando a jaqueta enquanto cruzávamos o portão. — Você vai precisar de cada litro.
 
-Seguimos pelo túnel em declive, deixando para trás a barricada e o cheiro de ferrugem fria, com o zumbido mecânico da minha prótese marcando o ritmo da nossa descida para a Superfície Pálida.
+Seguimos pelo túnel em declive, deixando para trás a barricada e o cheiro de ferrugem fria, com o zumbido mecânico da minha armação marcando o ritmo da nossa descida para a Superfície Pálida.

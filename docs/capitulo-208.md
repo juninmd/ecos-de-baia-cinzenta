@@ -37,7 +37,7 @@ Valéria ergueu o cyberdeck, e a luz azul-esmeralda da tela iluminou seus traço
 
 O cheiro do ar era uma agressão direta às vias aéreas: ozônio estático, gás refrigerante rançoso e carne crua congelada há semanas. Cada inspiração queimava a traqueia como ácido líquido, deixando um travo amargo na base da língua. Minha mão de sucata — a engrenagem forjada por Vasco no Capítulo 175 — começou a chiar; os lubrificantes industriais estavam endurecendo sob a temperatura negativa, forçando os servos a emitirem pequenos estalos de esforço térmico a cada movimento dos dedos.
 
-A dor na carne amputada sob as ataduras era profunda e constante, mas agia como uma blindagem mental: impedia que a letargia do frio tomasse conta das minhas reações.
+A dor nos ossos fraturados sob as ataduras era profunda e constante, mas agia como uma blindagem mental: impedia que a letargia do frio tomasse conta das minhas reações.
 
 — Não toquem nessa crosta escura, — ordenei, liderando a marcha pela passarela suspensa de grade perfurada. — Se a pele rasgar nisso, o frio queima o músculo até o osso em trinta segundos.
 

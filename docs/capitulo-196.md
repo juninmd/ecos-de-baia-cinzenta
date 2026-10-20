@@ -27,7 +27,7 @@ Cortando o centro do salão de concreto, um canal de drenagem pluvial de quatro 
 
 — Não viaja, vovô — Valéria caminhou até a margem do canal, agachando-se com a sonda de teste em punho sem encostar na matéria orgânica. — Essas raízes têm pelo menos três semanas de crescimento. Olha a grossura dos nós e a calcificação em volta dos eletrodos de terra. A praga do Silas Vance não começou na estufa ontem. Ela já tinha se espalhado por cada canal de esgoto da cidade enquanto a gente ainda tava lutando contra o Sentinel no Arquivo.
 
-— A estufa do Setor 7 era só o viveiro de processamento — falei, sentindo o peso da prótese no ombro tracionar contra a atadura elástica que Valéria havia feito. O sangue parara de pingar, mas a dor surda na carne dilacerada me lembrava a cada segundo de que nossos recursos estavam no osso. — O objetivo sempre foi conectar a biomassa nas fundações geológicas.
+— A estufa do Setor 7 era só o viveiro de processamento — falei, sentindo o peso da armação no braço quebrado tracionar contra a atadura elástica que Valéria havia feito. O sangue parara de pingar, mas a dor surda na carne dilacerada me lembrava a cada segundo de que nossos recursos estavam no osso. — O objetivo sempre foi conectar a biomassa nas fundações geológicas.
 
 Valéria cravou a ponta de prova num terminal de telemetria fixado num pilar ao lado do canal. O display do cyberdeck desenrolou linhas de código em cascata rápida, acompanhadas por bipes ritmados.
 
@@ -49,4 +49,4 @@ Valéria olhou para o velho com aquele meio-sorriso cínico e destemido que semp
 
 — Se topar com zumbi corporativo, Elias, você se abaixa e deixa o Moretti e a escopeta dele explicarem a política de demissão sem justa causa da Aeterna Corp. Vamos andar logo antes que os transformadores lá em cima apaguem de vez.
 
-Avançamos pela passarela elevada ao lado do canal, o eco ritmado dos nossos passos e o chiado mecânico da minha prótese marcando a cadência firme da nossa marcha através das catacumbas esquecidas do Setor 6.
+Avançamos pela passarela elevada ao lado do canal, o eco ritmado dos nossos passos e o chiado mecânico da minha armação marcando a cadência firme da nossa marcha através das catacumbas esquecidas do Setor 6.

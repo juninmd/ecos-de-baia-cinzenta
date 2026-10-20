@@ -17,7 +17,7 @@ characters: ["Gabo", "Valéria", "Aria"]
 
 O som das engrenagens cegas morrendo era um lamento metálico que ecoava pelo corredor de concreto. A imensa porta do firewall recuara completamente, revelando a escuridão absoluta do poço do elevador de manutenção principal.
 
-Gabo estava caído no piso da câmara superior, o sangue escorrendo de novos cortes onde a ferrugem e as garras da biomassa o haviam rasgado. O selante químico em seu abdômen parecia uma placa de chumbo prestes a rachar. Ele forçou os joelhos contra a grade fria, mas seu corpo recusava-se a obedecer. Não havia mais reservas de adrenalina; apenas um vazio sombrio e o pulsar constante de seus braços amputados.
+Gabo estava caído no piso da câmara superior, o sangue escorrendo de novos cortes onde a ferrugem e as garras da biomassa o haviam rasgado. O selante químico em seu abdômen parecia uma placa de chumbo prestes a rachar. Ele forçou os joelhos contra a grade fria, mas seu corpo recusava-se a obedecer. Não havia mais reservas de adrenalina; apenas um vazio sombrio e o pulsar constante de seu braço fraturado.
 
 Valéria apareceu na borda da câmara. Seu rosto estava coberto de cinza e suor frio, os olhos escuros arregalados pelo horror do que Gabo acabara de fazer. Sem dizer uma palavra, ela deslizou para dentro do maquinário, passando os braços trêmulos ao redor do torso dele.
 
@@ -29,7 +29,7 @@ No pulso de Valéria, o pendrive blindado de Aria piscou com uma luz azul-gelo i
 
 — *A passagem primária está desobstruída,* — a voz sintética e clínica da IA soou pelo comunicador do cyberdeck. — *Recomendo evasão imediata. A perturbação mecânica das engrenagens de bronze gerou uma assinatura sísmica de baixa frequência que atrairá as unidades remanescentes dos anéis adjacentes em menos de quatro minutos.*
 
-Com a ajuda de Valéria, Gabo escorregou pela escada de manutenção lateral e desceu da câmara de engrenagens; o impacto das botas com o chão do corredor arrancou-lhe um chiado de dor por entre os dentes trincados. O sangue novo da borda do cotoco direito pingava lento no concreto coberto de fuligem, mas ele se recusou a cair novamente.
+Com a ajuda de Valéria, Gabo escorregou pela escada de manutenção lateral e desceu da câmara de engrenagens; o impacto das botas com o chão do corredor arrancou-lhe um chiado de dor por entre os dentes trincados. O sangue novo da ferida do braço quebrado pingava lento no concreto coberto de fuligem, mas ele se recusou a cair novamente.
 
 Eles atravessaram o umbral do firewall mecânico. O ar do outro lado era diferente. Não havia o cheiro de carne podre, cerâmica queimada ou formol do laboratório do Taxidermista, mas sim o odor estéril de óleo de máquina velho, graxa grafitada e poeira secular. O elevador de manutenção era uma plataforma industrial nua de aço engradado, cercada por guarda-corpos enferrujados e sustentada por quatro cabos de tração grossos como troncos de árvores que subiam rumo à escuridão vertical do poço.
 
@@ -39,13 +39,13 @@ Com um tranco violento que fez os cabos gemerem e as polias superiores soltarem 
 
 Gabo encostou as costas na grade lateral do elevador, ouvindo o vento frio assobiar pelas frestas do poço. O frescor do metal deveria ser reconfortante após o calor sufocante dos servidores purgados, mas, à medida que subiam em direção às fundações da torre corporativa, a temperatura ambiente parecia cair vertiginosamente, e a pressão atmosférica mudava nos tímpanos. Foi então que o ataque ocorreu.
 
-A mente e o corpo de Gabo, levados além de qualquer limite fisiológico pela perda crônica de sangue e pelo choque traumático das amputações recentes, oscilaram sob a descompressão brusca do poço. A visão periférica escureceu em espirais vertiginosas, e um zumbido estridente tomou conta de seus ouvidos, afogando os motores.
+A mente e o corpo de Gabo, levados além de qualquer limite fisiológico pela perda crônica de sangue e pelo choque traumático das fraturas recentes, oscilaram sob a descompressão brusca do poço. A visão periférica escureceu em espirais vertiginosas, e um zumbido estridente tomou conta de seus ouvidos, afogando os motores.
 
 Gabo dobrou os joelhos sobre a grade metálica, o peito arfando enquanto a náusea da hipotensão ameaçava derrubá-lo de vez no chão do elevador.
 
 — Gabo! — Valéria gritou por sobre o ruído grave dos motores de tração, largando o painel de comando e correndo até ele. — Ei, ei, olha pra mim! Fica acordado, detetive!
 
-Ela segurou os ombros dele com firmeza, impedindo que o corpo tombasse sobre o guarda-corpo. Gabo cerrou a mandíbula com tanta força que os dentes estalaram, cravando as botas de borracha no piso vibratório para combater o desmaio iminente. A agonia latejante nos membros amputados pulsava como ferro em brasa, mas ele usou essa dor real para se ancorar no momento presente.
+Ela segurou os ombros dele com firmeza, impedindo que o corpo tombasse sobre o guarda-corpo. Gabo cerrou a mandíbula com tanta força que os dentes estalaram, cravando as botas de borracha no piso vibratório para combater o desmaio iminente. A agonia latejante no braço fraturado pulsava como ferro em brasa, mas ele usou essa dor real para se ancorar no momento presente.
 
 Puxou o ar frio e metálico do poço em golfadas lentas e profundas, forçando os pulmões a oxigenarem o cérebro até que a visão voltasse a clarear.
 

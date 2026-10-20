@@ -23,7 +23,7 @@ Agora, o império dos vegetais puros havia sido violentado pela mutação do Jar
 
 Uma floresta de biomassa bioluminescente tomara conta de cada viga, calha e passarela. Raízes grossas como tubulações de esgoto serpenteavam sobre as bandejas hidropônicas, emitindo uma pulsação azul-esmeralda contínua que iluminava o ambiente com uma penumbra febril. Folhagens deformadas, com nervuras translúcidas que conduziam fluidos químicos fluorescentes, desciam do teto em cortinas espessas que gotejavam sobre o lodo do chão.
 
-— A colônia não tá apenas crescendo aqui embaixo — falei, sentindo o peso assimétrico da prótese repuxar minha escápula. A dor nos pregos neurais cravados no ombro era viva e real, mantendo meus reflexos tensos na penumbra. — Ela tomou a infraestrutura inteira da estufa.
+— A colônia não tá apenas crescendo aqui embaixo — falei, sentindo o peso assimétrico da armação repuxar minha escápula. A dor nos pinos de aço cravados no ombro era viva e real, mantendo meus reflexos tensos na penumbra. — Ela tomou a infraestrutura inteira da estufa.
 
 — Tomou e melhorou — Valéria avançou dois passos, o cyberdeck seguro sob o braço esquerdo enquanto a mão direita empunhava a lanterna tática. O facho cortou a névoa esverdeada, revelando um detalhe perturbador nos troncos das raízes. — Gabo... aproxima o olho. Olha onde as gavinhas tão se enroscando.
 

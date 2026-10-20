@@ -9,7 +9,7 @@ Personagens Presentes: Gabo, Valéria
 
 A tempestade ácida não dava trégua na superfície.
 
-O céu do Distrito 4 parecia uma ferida aberta, vertendo um choro químico que corroía até a esperança mais parca. Cada gota que atingia as juntas expostas da minha prótese sibilava — literalmente sibilava, com aquele chiado curto de cuspe em chapa quente — e deixava um ponto de oxidação que eu teria que lixar depois com a única mão que ainda era minha.
+O céu do Distrito 4 parecia uma ferida aberta, vertendo um choro químico que corroía até a esperança mais parca. Cada gota que atingia as juntas expostas da minha armação sibilava — literalmente sibilava, com aquele chiado curto de cuspe em chapa quente — e deixava um ponto de oxidação sobre o aço que sustentava meu braço ferido.
 
 O abrigo que encontramos foi uma bênção profana: uma estação de metrô abandonada, engolida pelo esquecimento antes mesmo do grande dilúvio corporativo.
 
@@ -27,9 +27,9 @@ A água escorria pelas pontas desfiadas do seu corte bob assimétrico, fazendo o
 
 — Seco? — Valéria apontou para a parede oposta, onde um veio espesso de umidade preta escorria direto para os trilhos mortos. — Isso aqui tem a umidade relativa de um necrotério subaquático, Gabo. O ar tá tão pesado de mofo que dá pra mastigar. Se o ar comprimido do meu deck puxar essa fuligem pra dentro dos ventiladores, o chip de vídeo derrete antes da meia-noite.
 
-Apoiei a prótese no joelho esquerdo. O metal não lapidado rangeu. O impacto contra o saqueador no beco deixara marcas: uma lasca de tinta cinzenta arrancada e o cheiro enjoativo de fluido térmico vazando pela gaxeta mal vedada.
+Apoiei a armação de ferro no joelho esquerdo. O metal não lapidado rangeu. O impacto contra o saqueador no beco deixara marcas: uma lasca de tinta cinzenta arrancada e o cheiro enjoativo de fluido térmico vazando pela gaxeta mal vedada.
 
-Cravei os dedos de ferro da mão mecânica na borda do piso, testando a folga nos conectores neurais do ombro. *Clack. Bzzzt.* O pistão estalou fora de fase, mandando uma pontada de choque elétrico pelo meu pescoço até a mandíbula.
+Cravei as garras de ferro da armação na borda do piso, testando a folga nos pinos de fixação do ombro. *Clack. Bzzzt.* O pistão estalou fora de fase, mandando uma pontada de choque elétrico pelo meu pescoço até a mandíbula.
 
 — Para com isso, Moretti! — a voz de Valéria cortou o breu, alta e ríspida.
 
@@ -37,7 +37,7 @@ Ergui os olhos. Ela estava em pé diante de mim, as mãos na cintura, os olhos p
 
 — Tô testando a pressão do retorno — respondi, entre dentes.
 
-— Você tá se martirizando feito um idiota, isso sim — ela deu um passo na minha direção e chutou de leve a ponta da minha bota com o bico de ferro do seu calçado. — Acha que eu não vejo você forçando a porcaria da junta só pra sentir o tranco nos nervos? Você tá usando esse braço de trator como um chicote particular. Acha que se não estiver sofrendo o tempo todo, tá traindo a Bia ou esquecendo o Dante?
+— Você tá se martirizando feito um idiota, isso sim — ela deu um passo na minha direção e chutou de leve a ponta da minha bota com o bico de ferro do seu calçado. — Acha que eu não vejo você forçando a porcaria da junta só pra sentir o tranco nos nervos? Você tá usando essa armação de trator como um chicote particular. Acha que se não estiver sofrendo o tempo todo, tá traindo a Bia ou esquecendo o Dante?
 
 O silêncio do túnel pareceu cair sobre nós como uma laje de chumbo. O gotejar do teto continuava: *ping... ping... ping.*
 
@@ -77,7 +77,7 @@ Ela soltou uma risada genuína, curta e rouca, que ecoou pelos trilhos mortos co
 
 — Eu também — murmurei.
 
-— Então para de quebrar esse braço de lata e descansa vinte minutos — ela fechou os olhos, puxando o zíper da jaqueta até o queixo. — A gente ainda tem quatro quilômetros de túnel escuro até o Setor 6. E se você cair no caminho, eu vou te arrastar pelo sobretudo só pra ter o prazer de reclamar o caminho inteiro.
+— Então para de forçar essa armação de lata e descansa vinte minutos — ela fechou os olhos, puxando o zíper da jaqueta até o queixo. — A gente ainda tem quatro quilômetros de túnel escuro até o Setor 6. E se você cair no caminho, eu vou te arrastar pelo sobretudo só pra ter o prazer de reclamar o caminho inteiro.
 
 — Combinado, Val.
 

@@ -21,7 +21,7 @@ Gabo arrastava a perna direita, o peso do próprio corpo parecendo esmagar a esp
 
 Cada passo no linóleo negro era uma negociação com o abismo. E, no silêncio perfeito da gaiola de Faraday, a mente exausta de Gabo encontrou espaço para apodrecer.
 
-O ar purificado de quarenta anos atrás deveria cheirar a nada. Mas, para as sinapses rasgadas pelo choque hipovolêmico e pela dor fantasma dos punhos amputados, o "nada" era um vácuo preenchido pelo trauma.
+O ar purificado de quarenta anos atrás deveria cheirar a nada. Mas, para as sinapses rasgadas pelo choque hipovolêmico e pela dor aguda do braço fraturado, o "nada" era um vácuo preenchido pelo trauma.
 
 O silêncio do arquivo executivo era quase opressor, quebrado apenas pelo zumbido estático dos servidores adormecidos e pelo eco abafado de suas próprias respirações no ar gélido.
 

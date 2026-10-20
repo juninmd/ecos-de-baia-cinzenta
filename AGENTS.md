@@ -116,7 +116,7 @@
 | D1 | **Extensão** | ≥ 600 palavras (reprova abaixo disso: é cena, não capítulo). **Alvo: 1.100–1.600.** A mediana histórica da obra é 900, e capítulo curto é a causa número um de arco que não respira. |
 | D2 | **Título** | Exatamente um H1, no formato `# Capítulo N: Título`, idêntico ao menu. |
 | D3 | **Elenco declarado** | Bloco de metadados com Localização e Personagens Presentes. |
-| D4 | **Traços canônicos** | Zero violações: Gabo nunca fuma; morto não age; fase física correta (exoesqueleto, prótese, braço amputado). |
+| D4 | **Traços canônicos** | Zero violações: Gabo nunca fuma; morto não age; fase física correta (exoesqueleto, braço fraturado/órtese, tipóia). |
 | D5 | **Fechamento** | A última linha vira a página — imagem, decisão ou ameaça. Nunca resumo do que acabou de acontecer. |
 
 ### Régua de qualidade (0 a 2 por eixo, máximo 10)
