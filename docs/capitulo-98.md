@@ -25,7 +25,7 @@ Ele vestiu o sobretudo. O couro estava gasto, mas limpo. O distintivo no cinto n
 
 Ao sair para a rua, o som o atingiu. Não o zumbido constante dos servidores ou o tráfego aéreo de drones. Mas o som de marretas. Serras. Vozes gritando ordens. O som de reconstrução.
 
-— Bom dia, Inspetor — cumprimentou o Sra. Rossi, varrendo a calçada em frente à pizzaria, que agora funcionava apenas com forno a lenha.
+— Bom dia, Inspetor — cumprimentou a Sra. Rossi, varrendo a calçada em frente à pizzaria, que agora funcionava apenas com forno a lenha.
 
 — Bom dia, Sofia. — Gabo sorriu. — O cheiro está bom.
 
@@ -109,6 +109,4 @@ Gabo olhou para o cubo na mão do morto. A luz azul pulsou um pouco mais forte.
 
 — O silêncio acabou — disse Gabo, sentindo o peso familiar da sua arma no coldre. — Alguém ligou a música de novo.
 
-E nas sombras das ruínas do Data Center, algo se moveu. Algo que fez o som metálico de engrenagens, não de passos humanos.
-
-A paz de Baía Cinzenta tinha durado exatos noventa dias. E agora, estava morta.
+E nas sombras das ruínas do Data Center, algo se moveu. Algo que fez o som metálico de engrenagens, não de passos humanos, e que não estava procurando sobrevivente nenhum: estava procurando o cubo.
