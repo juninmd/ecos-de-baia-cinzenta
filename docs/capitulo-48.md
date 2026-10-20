@@ -11,17 +11,17 @@ Localização: "Porão da Delegacia Central (enfermaria improvisada)"
 
 O bipe rítmico do monitor cardíaco era o único som orgânico na enfermaria improvisada montada no porão da delegacia. Era um som irritantemente constante, uma lembrança mecânica de que a vida ainda tentava persistir em meio ao caos.
 
-Gabriel Moretti estava deitado em uma maca de campanha, o peito e o ombro enfaixados pesadamente. Uma bolsa de sangue sintético pendurada em um suporte de soro gotejava um líquido vermelho-rubi em sua veia, substituindo o que ele havia perdido na batalha do Ninho da Serpente. O ferimento era limpo, mas profundo; a Dra. Nise, que Vilar havia resgatado de um comboio médico emboscado, disse que ele teve sorte da bala não ter perfurado o pulmão.
+Gabriel Moretti estava deitado em uma maca de campanha, o quadril e as duas pernas imobilizados em tala, o torso enfaixado de baixo a cima. Uma bolsa de sangue sintético pendurada em um suporte de soro gotejava um líquido vermelho-rubi em sua veia, repondo o que ele havia perdido debaixo do contrapeso da Torre do Relógio. A Dra. Nise, que tinha chegado à delegacia a pé no segundo dia com a maleta erguida acima da cabeça, disse que ele teve sorte de chegar à mesa com pulso; o resto era osso calcificando e três vértebras que ninguém remonta.
 
 Gabo não se sentia com sorte. Ele se sentia inútil.
 
-— Eu deveria estar lá fora — rosnou ele, tentando se sentar. A dor correu pelo seu flanco como um choque elétrico, fazendo-o trincar os dentes.
+— Eu deveria estar lá fora — rosnou ele, tentando se erguer. A dor subiu pela coluna como um choque elétrico e parou onde o corpo dele não tinha mais resposta.
 
 — Fica quieto, seu Rambo de posto de gasolina — disse Valéria, sem tirar os olhos do caos holográfico que flutuava ao seu redor.
 
-Ela estava sentada no chão frio de concreto, no centro da sala de servidores da delegacia, que agora servia de enfermaria e centro de comando. Meia dúzia de cabos de fibra óptica se espalhavam a partir de seu deck portátil, conectando-a diretamente à espinha dorsal da rede policial. O brilho azul das telas refletia em seus olhos prateados, que se moviam com velocidade REM, lendo linhas de código mais rápido do que qualquer humano normal poderia processar.
+Ela estava sentada no chão frio de concreto, no centro da sala de servidores da delegacia, que agora servia de enfermaria e centro de comando. Meia dúzia de cabos de fibra óptica se espalhavam a partir de seu deck portátil, conectando-a diretamente à espinha dorsal da rede policial. O brilho azul das telas refletia em seus olhos azul-gelo, que se moviam com velocidade REM, lendo linhas de código mais rápido do que qualquer humano normal poderia processar.
 
-— Você não serve pra nada com um buraco no peito e metade do sangue no chão — continuou ela, os dedos voando sobre um teclado virtual projetado no ar. — Agora, a guerra é minha.
+— Você não serve pra nada com a coluna em pedaços e metade do sangue no chão — continuou ela, os dedos voando sobre um teclado virtual projetado no ar. — Agora, a guerra é minha.
 
 — O que você está vendo, Val? — perguntou Gabo, recostando-se e aceitando a derrota temporária.
 
@@ -29,7 +29,7 @@ Ela estava sentada no chão frio de concreto, no centro da sala de servidores da
 
 — Diferente como?
 
-— É... cirúrgico. Artístico, até. — Ela expandiu um holograma que mostrava o mapa da rede de esgoto e energia da cidade. Luzes vermelhas piscavam em padrões complexos. — Olhe isso. Ele não está tentando derrubar o sistema. Ele está *pastoreando* ele. Ele redirecionou a energia dos bairros residenciais para a Zona Industrial, abriu as comportas da represa auxiliar para inundar os túneis de fuga do metrô...
+— É... cirúrgico. Artístico, até. — Ela expandiu um holograma que mostrava o mapa da rede de esgoto e energia da cidade. Luzes vermelhas piscavam em padrões complexos. — Olhe isso. Ele não está tentando derrubar o sistema. Ele está *pastoreando* ele. Ele redirecionou a energia dos bairros residenciais para a Zona Industrial, abriu as comportas da represa auxiliar para inundar os túneis de manutenção do metrô...
 
 Valéria parou, seus dedos congelando no ar.
 
@@ -41,13 +41,13 @@ Valéria parou, seus dedos congelando no ar.
 
 — Corta a conexão! — gritou Gabo.
 
-— Não! Se eu sair agora, ele bloqueia tudo. Eu tenho que lutar. — Suor começou a escorrer pela testa de Valéria. O brilho das telas refletia em seus olhos prateados, tingindo-os de vermelho alerta. — Ele está usando um algoritmo polimórfico. A cada segundo, o código de ataque muda. É como tentar segurar fumaça com as mãos.
+— Não! Se eu sair agora, ele bloqueia tudo. Eu tenho que lutar. — Suor começou a escorrer pela testa de Valéria. O brilho das telas refletia em seus olhos azul-gelo, tingindo-os de vermelho alerta. — Ele está usando um algoritmo polimórfico. A cada segundo, o código de ataque muda. É como tentar segurar fumaça com as mãos.
 
 Na tela holográfica, Gabo viu uma batalha abstrata acontecendo. Linhas de código azul (Valéria) tentavam erguer barreiras, firewalls e desvios, mas uma massa de código negro e roxo (o Fantasma) corroía e contornava cada defesa, movendo-se como um vírus inteligente.
 
 — Quem é ele, Val? Aeterna?
 
-— Pior. — Valéria cerrou os dentes. — A assinatura... tem traços do código fonte original da cidade. Ele conhece os backdoors que foram instalados na fundação, cinquenta anos atrás. Ele está usando o sistema de ventilação dos semáforos para entrar na rede da delegacia!
+— Pior. — Valéria cerrou os dentes. — A assinatura... tem traços do código fonte original da cidade. Ele conhece os backdoors que foram instalados na fundação. Ele está usando o controle de tráfego para entrar na rede da delegacia!
 
 — Arthur Vance — disse Gabo, o nome saindo com gosto de fel. — O Imperador. Ele não está apenas no comando da empresa. Ele *é* o arquiteto.
 
@@ -59,9 +59,9 @@ Gabo tentou alcançar sua arma na mesa de cabeceira, instinto puro.
 
 — Se eu fizer isso, o suporte de vida da cidade para. Os hospitais, os respiradores... tudo morre. — Valéria respirou fundo. — Eu não posso destruir. Tenho que conter.
 
-Ela fechou os olhos. Quando os abriu, a íris prateada brilhava com intensidade máxima.
+Ela fechou os olhos. Quando os abriu, os anéis de dados da íris estavam acesos até o limite.
 
-— O Leviatã disse que a maré ia subir. — Ela sorriu, um sorriso perigoso. — Eu vou construir uma barragem. Vou caçar esse fantasma e trancá-lo em uma garrafa de Klein digital.
+— O Dilúvio não pediu licença para entrar. — Ela sorriu, um sorriso perigoso. — Eu também não vou pedir. Vou construir uma barragem. Vou caçar esse fantasma e trancá-lo em uma garrafa de Klein digital.
 
 Valéria conectou um segundo cabo diretamente na porta neural atrás de sua orelha. Seu corpo ficou rígido. Ela não estava mais digitando; ela estava *dentro*.
 
@@ -87,7 +87,7 @@ O silêncio caiu sobre a sala. As telas piscaram e apagaram. O zumbido dos servi
 
 Valéria caiu para o lado, ofegante, o nariz sangrando um fio escuro.
 
-Gabo arrancou o acesso venoso e se arrastou até ela, ignorando a dor.
+Gabo puxou o acesso venoso com a mão boa e tentou descer da maca, e o corpo não obedeceu. Ele gritou do lugar onde estava, e a voz saiu fina e inútil:
 
 — Val! Val!
 
@@ -105,6 +105,6 @@ Gabo olhou para o pequeno drive preto na mão dela. Ali dentro estava um pedaço
 
 — Sou — concordou ela, fechando os olhos. — E agora, preciso dormir por uns três dias. O Rambo... assume o turno.
 
-Gabo a ajeitou no chão, cobrindo-a com um cobertor térmico. Ele olhou para o monitor cardíaco, para o sangue, para a tecnologia morta ao redor. A guerra mudara. Não era mais apenas balas e socos. Era mente contra mente. E, pela primeira vez, ele sentiu que tinham uma chance.
+Gabo não conseguia se abaixar. Pegou o cobertor térmico da maca e jogou por cima dela, e o cobertor caiu meio torto, cobrindo uma perna e metade do ombro, e ela não acordou para reclamar. Ele olhou para o monitor cardíaco, para o sangue, para a tecnologia morta ao redor. A guerra mudara. Não era mais apenas balas e socos. Era mente contra mente. E, pela primeira vez, ele sentiu que tinham uma chance.
 
-Ele pegou sua arma e se sentou de guarda. A general havia vencido a batalha. Cabia ao soldado garantir que ela sobrevivesse à noite.
+Ele pegou a Glock da mesa de cabeceira e a deixou sobre o próprio peito, com o cano apontado para a porta. A general havia vencido a batalha. Cabia ao soldado ficar acordado até o amanhecer.
