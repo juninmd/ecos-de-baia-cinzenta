@@ -45,7 +45,7 @@ Suspensos pelas calhas superiores de irrigação, a quatro metros do piso, havia
 
 Valéria desligou a lanterna para não atrair a atenção dos nós bioelétricos. A luz ambiente das raízes desenhava o perfil anguloso do rosto dela, tenso, os dentes cravados no lábio inferior.
 
-— O pacote de dados daquela mulher morta no galpão apontava direto pro núcleo de controle térmico — ela disse, apontando para uma estrutura cúbica de concreto blindado que se erguia no centro do segundo pavimento, quase completamente engolida por trepadeiras fosforescentes. — Se a gente alcançar a sala das caldeiras e cortar as válvulas de refluxo, o sistema de irrigação entra em colapso por dessecação em vinte minutos. Sem líquido nutriente, essa selva inteira murcha.
+— O pacote de dados daquela mulher morta no beco apontava direto pro núcleo de controle térmico — ela disse, apontando para uma estrutura cúbica de concreto blindado que se erguia no centro do segundo pavimento, quase completamente engolida por trepadeiras fosforescentes. — Se a gente alcançar a sala das caldeiras e cortar as válvulas de refluxo, o sistema de irrigação entra em colapso por dessecação em vinte minutos. Sem líquido nutriente, essa selva inteira murcha.
 
 — E as pessoas penduradas nas calhas?
 
