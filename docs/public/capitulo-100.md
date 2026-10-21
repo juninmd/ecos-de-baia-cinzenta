@@ -15,7 +15,7 @@ Gabo parou o carro diante da entrada lacrada da estação "Jardim das Flores". O
 
 Ele desligou o motor e ficou um instante parado, ouvindo. A cidade em cima fazia o barulho de sempre: água na calha, gerador, um cachorro latindo para nada. Aqui embaixo havia outro som, fino e constante, que ele levou alguns segundos para reconhecer. Ventilação. Uma coluna de ar subindo por um duto que não devia estar funcionando havia meses, e subindo com força, como pulmão de gente grande.
 
-Ele desceu do carro, ajustando as cintas das órteses nas pernas. O *clique-clique* metálico dos servos acompanhou seus passos até a grade.
+Ele desceu do carro, ajustando as cintas das órteses nas pernas. O *clique-clique* metálico das travas acompanhou seus passos até a grade.
 
 — Você demorou — disse uma voz vinda das sombras da bilheteria.
 
@@ -73,7 +73,7 @@ Ela digitou furiosamente. Gabo observou a tela verde monocromática.
 
 — Qual a senha? — perguntou ele.
 
-— Não é uma senha. É uma localização. Eles esconderam o acesso na geografia da cidade.
+— Não é uma senha. É um nome. Eles esconderam o acesso atrás de uma palavra que não existe em mapa nenhum e que ninguém digitaria por acaso.
 
 Elena digitou: `BERCARIO`.
 
