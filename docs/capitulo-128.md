@@ -1,6 +1,6 @@
 ---
 title: "Capítulo 128: O Ventre da Besta"
-date: "2078-11-04"
+date: "2056-11-04"
 location: "Catedrais de Pedra (Nível 5) - Rede de Drenagem Profunda"
 Personagens Presentes: Gabo, Valéria, Aria (Glitch Bia Vargas), Rangel (Inconsciente)
 Localização: "Catedrais de Pedra (Nível 5) → Estação de Bombeamento"
@@ -50,7 +50,7 @@ Os olhos vermelhos das Quimeras brilhavam na escuridão, multiplicando-se. O bri
 
 — É muito estreito — Gabo avaliou. — Rangel não passa.
 
-— *Ele passa se deslocarmos a clavícula dele* — disse Aria no fone, com a voz doce de Bia. — *É o cálculo pragmático que você faria, não é, Gabo? Pragmático até o fim. Como quando você me deixou entrar naquele beco sozinha...*
+— *Ele passa se deslocarmos a clavícula dele* — disse Aria no fone, com a voz doce de Bia. — *É o cálculo pragmático que você faria, não é, Gabo? Pragmático até o fim. Como quando você me deixou entrar naquele galpão sozinha...*
 
 Gabo parou. O comentário foi uma facada. A memória de Bia morrendo porque ele hesitou.
 
@@ -90,4 +90,4 @@ Sangue. Ou algo muito parecido, sintético, nutriente.
 
 Gabo olhou para o túnel escuro à frente, onde o zumbido era mais forte. Eles tinham escapado dos cães, mas tinham caído na boca do dono.
 
-— Vamos continuar — ele disse, recarregando o último cartucho na *Caronte*. — Antes que os anticorpos cheguem.
+— Vamos continuar — ele disse, recarregando a última bala na *Caronte*. — Antes que os anticorpos cheguem.
