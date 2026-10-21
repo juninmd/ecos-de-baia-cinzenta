@@ -17,7 +17,7 @@ Vinte metros. Poderia muito bem ser a distância até a lua. A respiração de G
 
 *Suba.*
 
-O cheiro de polímeros velhos, aquele espectro acre e insistente que o assombrava desde os anos atrás na casa de Dante, tentou se esgueirar de volta pela sua garganta. Era o cheiro de paredes encardidas, de madrugadas gastas no apartamento, da fumaça de cigarros baratos encobrindo hematomas e garrafas vazias. O estômago de Gabo se contraiu, a náusea ameaçando derrubar sua determinação.
+O cheiro de polímeros velhos, aquele espectro acre e insistente que o assombrava desde a casa de Dante, tentou se esgueirar de volta pela sua garganta. Era o cheiro de paredes encardidas, de madrugadas gastas no apartamento, da fumaça de cigarros baratos encobrindo hematomas e garrafas vazias. O estômago de Gabo se contraiu, a náusea ameaçando derrubar sua determinação.
 
 Ele rosnou, apertando a mão direita contra o próximo degrau. A dor não foi uma faísca dessa vez; foi uma explosão controlada, um fogo branco e limpo que obliterou qualquer fantasma de tabaco. A carne queimada protestou contra a textura enferrujada da escada, e o alívio que a dor trouxe foi perturbador, porém necessário. Era a sua dose de realidade. Fumaça era para os mortos e para os covardes. Dor era para os vivos.
 
