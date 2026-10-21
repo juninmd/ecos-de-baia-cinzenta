@@ -11,6 +11,8 @@ Localização: "Torre do Relógio, Distrito Baixo (Inundado)"
 
 **Torre do Relógio, Distrito Baixo (Inundado).**
 
+A denúncia chegou pelo rádio às nove e quarenta, quando a Orla Norte ainda fumava: uma torre no Distrito Baixo, um homem que comprava relógio velho e não vendia nenhum, e um vizinho que jurou ter ouvido tique-taque onde não havia corrente elétrica desde a enchente. Gabo foi sozinho porque o dia já tinha custado gente demais.
+
 O som não era de água. Era de tempo.
 
 Centenas de relógios preenchiam as paredes circulares da torre antiga, um pesadelo de latão e engrenagens que tiquetaqueava em desarmonia. Nenhum deles marcava a mesma hora. Gabo já tinha visto covil de colecionador antes — o excesso organizado, a obsessão em fileiras. Aquilo não era coleção. Era plateia.
@@ -35,7 +37,7 @@ Ele conhecia aquele cheiro de necrotério. Nunca tinha sentido num lugar onde as
 
 — Você está atrasado, detetive — ecoou a voz, vindo de cima, das sombras das vigas.
 
-Gabo apontou a lanterna para o alto. O feixe atravessou correntes, roldanas e um emaranhado de andaimes que subia até onde a luz não chegava. A água da enchente já batia em seus joelhos, subindo mais rápido do que ele queria admitir. O Dilúvio lá fora estava rompendo as comportas, e aquela torre era um copo de pedra no meio de um rio.
+Gabo apontou a lanterna para o alto. O feixe atravessou correntes, roldanas e um emaranhado de andaimes que subia até onde a luz não chegava. A água da enchente já batia em seus joelhos, subindo mais rápido do que ele queria admitir. Fazia oito dias que o Dilúvio tinha arrombado os diques do Distrito Baixo, a cidade ainda não tinha encontrado o fundo, e aquela torre era um copo de pedra no meio de um rio.
 
 — Desça! — gritou Gabo, a *Caronte* firme nas mãos. — Acabou. O prédio está condenado.
 
