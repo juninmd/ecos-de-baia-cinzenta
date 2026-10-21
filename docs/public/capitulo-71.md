@@ -65,7 +65,7 @@ Gabo aprendeu isso na terceira e passou a cair melhor.
 
 Gabo cuspiu sangue no chão e riu, porque não havia outra coisa a fazer.
 
-O irmão dele tinha fugido pelo esgoto quarenta minutos antes.
+O irmão dele tinha fugido pelo esgoto horas antes.
 
 ---
 
