@@ -29,7 +29,7 @@ No centro do vasto salão branco, havia uma plataforma elevada. E sobre ela, um 
 
 Ele estava de costas, trabalhando em uma mesa de aço escovado. Vestia um jaleco que parecia feito de seda sintética, imaculadamente branco. Quando se virou, Gabo sentiu um calafrio que não tinha nada a ver com a temperatura.
 
-O Taxidermista não era o monstro deformado que Gabo esperava. Pelo contrário. Ele era perfeito.
+O Taxidermista não era o monstro deformado que Gabo esperava. Pelo contrário. Ele era perfeito. O cabelo grisalho caía num rabo de cavalo oleoso, e sob o jaleco imaculado aparecia a barra gasta de um avental de couro.
 
 Seu rosto tinha a simetria impossível de uma estátua grega polida por algoritmos. A pele era lisa demais, sem poros, com um brilho perolado que sugeria que não era orgânica, ou que havia sido cultivada em tanque. Seus olhos eram de um cinza líquido, calmos e terrivelmente vazios.
 
