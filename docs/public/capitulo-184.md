@@ -35,7 +35,7 @@ Valéria se agachou a um metro do corpo, retirando uma sonda com ponta de prova 
 
 — É uma bio-bateria de interface neural reversa — ela encostou a ponta de prova num dos conectores expostos sem encostar na carne. Uma sequência rápida de bipes graves ecoou no display do deck. — Santo Deus... O Silas não tava só infectando pessoas vivas. O Jardim desenvolveu repetidores de sinal parasitando cadáveres frescos. Olha as trilhas de fibra óptica costuradas na jugular dela. O sistema usou a condutividade elétrica residual dos nervos pra manter o transmissor ativo.
 
-O cilindro verde piscou duas vezes, emitindo um estalo seco de solenoide.
+O cilindro piscou duas vezes, emitindo um estalo seco de solenoide.
 
 — Ativo pra quê? — perguntei. — Transmitir o quê se a cidade inteira tá no escuro?
 
@@ -69,7 +69,7 @@ Três segundos depois, o processamento cessou com um bipe limpo.
 
 — A estufa corporativa que abastecia o Distrito de Prata antes do dilúvio.
 
-— Exatamente — ela desconectou o núcleo e guardou o cyberdeck na lona, ajustando o correame nos ombros com determinação renovada. — A Aeterna construiu aquela estufa em cima de uma falha geotérmica com três reatores biológicos independentes. Se a praga do Silas assumir o controle do sistema de irrigação química de lá, a colônia vai ter nutrientes pra se multiplicar cem vezes mais rápido do que na superfície.
+— Exatamente — ela desconectou o núcleo e guardou o cyberdeck na lona, ajustando o correame nos ombros com determinação renovada. — A Aeterna construiu aquela estufa em cima de uma falha geotérmica com três trocadores de calor independentes. Se a praga do Silas assumir o controle do sistema de irrigação química de lá, a colônia vai ter nutrientes pra se multiplicar cem vezes mais rápido do que na superfície.
 
 — Então o nosso destino acabou de ser traçado — bati a mão de ferro na lateral da coxa, sentindo o peso da decisão assentar nos meus ombros cansados. — A gente desce no Setor 7 e queima a raiz principal antes que ela engula o resto da cidade.
 
