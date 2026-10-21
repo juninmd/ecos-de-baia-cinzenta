@@ -25,7 +25,7 @@ O pequeno componente de silício e titânio não ficava ofegante. O esforço bru
 
 O pé de Valéria escorregou dois degraus. Não houve grito; houve o som de uma unha raspando metal e o estalo seco do mosquetão batendo na barra. Gabo jogou o ombro esquerdo contra a escada, travou a bota no degrau de baixo e sentiu a carga de Rangel descer pelo corpo inteiro, como se alguém tivesse enfiado um gancho entre as costelas dele.
 
-Ficaram parados. A respiração de Valéria bateu na nuca dele, quente e rápida.
+Ficaram parados. A respiração de Valéria bateu nas costas dele, quente e rápida.
 
 — Desculpa — ela disse.
 
