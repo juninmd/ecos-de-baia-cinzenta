@@ -1,5 +1,8 @@
 # Análise Crítica - Capítulo 184: O Relógio de Sangue
 
+> **Nota editorial:** esta análise descreve um rascunho em que Valéria já estava em Modo de Segurança pleno. O texto publicado (e o dossiê) usam o **Modo instável**, com lapsos emocionais até o cap. 220. Use o capítulo como fonte, não esta análise.
+
+
 ## Autoavaliação Técnica (Nota: 8.5/10)
 
 - **Ritmo (Pacing):** A tensão foi construída de forma gradual. O capítulo começa com o peso da caminhada física e da exaustão mental de Gabo, transitando para uma descoberta macabra (o cadáver com a bio-bateria). A extração brutal do cilindro serve como um pico de tensão física e psicológica que impulsiona o avanço narrativo para o próximo conflito (o complexo hidropônico). O ritmo se mantém constante e pesado.

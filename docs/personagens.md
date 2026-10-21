@@ -66,7 +66,7 @@ A obra tinha cinco figuras disputando o posto de vilão principal, e isso diluí
 | **Dante Moretti** | Pai ausente / Fantasma operante | Toda a trama vem de uma decisão dele. Existe mais como consequência do que como presença. | Consciência liberada; corpo sintético |
 | **Elias** | O Civil / Régua humana | Reage como uma pessoa normal reagiria. Sem ele, o leitor perde a medida de quanto os outros dois já se afastaram de gente. | Vivo, na superfície |
 | **Dra. Elara Vance** | A Auditora / Antagonista intelectual | Argumenta o indefensável com lógica boa demais para ser descartada. Nunca deve perder um debate por burrice. | Viva, cadeira de rodas |
-| **Arthur Vance** | O fundador obsoleto | Mostra que estar certo sobre o colapso não é o mesmo que entender por quê. É o arquiteto do prédio; Krell é o autor do crime. | Desperto (cap. 45) |
+| **Arthur Vance** | O fundador obsoleto | Mostra que estar certo sobre o colapso não é o mesmo que entender por quê. É o arquiteto do prédio; Krell é o autor do crime. | **Morto no cap. 233 (impacto orbital; corpo não recuperado)** |
 | **Anselmo Braga** | **⚔️ NÊMESE PESSOAL** | A única ameaça de vida e morte fora da lore corporativa. Cobra o preço do método de Gabo — e obriga o protagonista a matar um homem rendido para parar a matança. | Ativo (arco 229+) |
 | **Viktor Krell** | **⭐ VILÃO MÁXIMO** | O estagiário do jurídico que digitalizou contratos de cemitério, entendeu o negócio melhor que os cinco donos e transformou um problema de espaço em jazigo numa operação municipal de mineração de mentes. Foi ele quem arrancou o cérebro de Dante. Todos os outros antagonistas são degraus, ferramentas ou vítimas dele. | Ativo |
 | **O Gamemaster** | Antagonista das Partes III-V | Transforma a perseguição em espetáculo. Suas falhas são o pai preso gritando de dentro. | Deletado (cap. 31) |
@@ -76,7 +76,7 @@ A obra tinha cinco figuras disputando o posto de vilão principal, e isso diluí
 | **Elena Moretti** | Testemunha pública / A tese vencedora | Documenta. É a única que acredita que registrar vale mais que revidar — e no fim é o trabalho dela que derruba a Aeterna, não a violência de Gabo. | Morta no cap. 234 |
 | **Clara Moretti** | Contraponto construtivo | Reconstrói enquanto o irmão destrói. Mostra que existe outra saída, e que Gabo não a escolheu. | Viva |
 | **Capitão Jonas Vilar** | A velha lei | Encarna a ordem anterior, honesta e obsoleta. Legitima Gabo perante o sistema. | Vivo |
-| **Inspetor Rangel** | Burocrata redimido | Prova que a competência desprezada vira essencial quando a tecnologia morre. | **Morto (cap. 153)** |
+| **Inspetor Rangel** | Burocrata redimido | Prova que a competência desprezada vira essencial quando a tecnologia morre. | **Morto (cap. 150)** |
 | **Dra. Nise** | Autoridade moral | A única pessoa a quem Gabo obedece sem discutir. Cuida da dignidade dos mortos. | Viva |
 | **Dra. Cecília Weiss** | Confidente / Espelho interno | Único canal em que Gabo verbaliza o que sente sem que isso vire ação violenta. | Viva |
 | **Beatriz "Bia" Vargas** | A culpa fundadora | Sua morte é a prova que fez o cinismo de Gabo parecer justificado. | In memoriam |
@@ -98,7 +98,7 @@ A obra tinha cinco figuras disputando o posto de vilão principal, e isso diluí
 
 ![Gabriel "Gabo" Moretti](/personagens/gabo.jpg)
 
-*   **Idade:** 30 anos
+*   **Idade:** 35 anos
 *   **Altura:** 1,75m
 *   **Porte Físico:** Atlético e denso. Embora pareça cansado, seu corpo é uma arma viva. Utiliza suportes mecânicos temporários nas pernas (exoesqueleto de tração passiva) para suportar o peso e a dor das múltiplas fraturas na coluna.
 *   **Cabelo:** Escuro, desgrenhado e oleoso. Barba cheia e mal aparada, com fios grisalhos precoces.
@@ -127,8 +127,8 @@ A obra tinha cinco figuras disputando o posto de vilão principal, e isso diluí
 *   **Capítulo 105:** Retorna à Delegacia Central. Testemunha a "Ascensão" de Dante enquanto lida com a falha mecânica de suas órteses.
 *   **Capítulo 106:** Tenta reparar seu exoesqueleto sem sucesso. Intervém para impedir que Dante use força letal contra os manifestantes "Desconectados", descobrindo a existência da ameaça do "Silêncio".
 *   **Capítulo 107:** Tem seu exoesqueleto "consertado" por Dante com precisão cirúrgica e dolorosa. Junta-se à operação de "Sanitização" no porto para mitigar danos civis.
-*   **Capítulos 115-174 (Os Túneis e o Subnível 4.0):** Sofre grave fratura no braço direito e lacerações profundas tratadas no monorail. Enfrenta dor física contínua e exaustão extrema ao lado de Valéria nos escombros corporativos da Aeterna Corp, reprimindo o luto e o choque do colapso.
-*   **Capítulos 175-217 (A Armação Ortopédica de Vasco):** Braço direito severamente quebrado com fratura cominutiva. Na clínica clandestina, Vasco instala uma **armação externa de sustentação industrial** — hastes e anéis de aço cinza fosco parafusados diretamente no osso fraturado para estabilização temporária e alinhamento mecânico, com reforço de tração. É pesada, rústica e dolorosa. Gabo a usa para suportar peso e armas enquanto os ossos tentam calcificar.
+*   **Capítulos 115-153 (Os Túneis e o Subnível 4.0):** Queimaduras de plasma nas mãos, lacerações e exaustão extrema ao lado de Valéria nos escombros corporativos. O braço direito ainda está inteiro — ele usa as duas mãos até a queda contra a guia do poço.
+*   **Capítulos 154-217 (A Armação Ortopédica de Vasco):** Usa a **armação externa de sustentação industrial** no braço direito, fraturado na queda contra a guia do poço (cap. 154) e confirmado no 155. Hastes e anéis de aço cinza fosco parafusados diretamente no osso, com reforço de tração: pesada, rústica e dolorosa. Gabo a usa para suportar peso e armas enquanto os ossos tentam calcificar.
 *   **Atualidade (Capítulos 218-235, Arca Zero e Superfície):** **Braço fraturado na tipóia.** Na Arca Zero (Capítulo 225), para travar a comporta do tubo pneumático e permitir a fuga, desparafusam e serram as hastes metálicas da armação ortopédica externa cravada no braço, usando o bloco de aço como cunha permanente no came da Arca Zero. Gabo preserva o braço biológico, que sai gravemente machucado e re-fraturado, imobilizado rente ao peito em uma tipóia improvisada. Opera com a mão esquerda livre, carregando o Colar de Sol e enfrentando Anselmo Braga. Qualquer cena futura respeita: braço direito em tipóia com dor crônica, mão esquerda livre, e nenhuma alucinação de tabaco.
 
 ---
@@ -158,8 +158,8 @@ A obra tinha cinco figuras disputando o posto de vilão principal, e isso diluí
 *   **Partes I-XII:** A Hacker Rebelde. Aparência: Cabelo neon (muda de cor), roupas cyberpunk, pele pálida.
 *   **Parte XIII:** O Sacrifício. Aparência: Veias prateadas da "Praga de Ferro" começam a aparecer no pescoço e braços. Olhos tornam-se inteiramente prateados.
 *   **Capítulos 115-140 (Os Túneis):** Nos Túneis de Trânsito (Subnível 3.0). Mutilou as mãos de Gabo com plasma por ordem mecânica de Aria. Realizou um desacoplamento de vagão manual pendurada em movimento para esmagar Scarabs e abrir as portas de pressão. Encontra-se esgotada fisicamente, processando ainda o trauma recente das perdas.
-*   **Capítulo 175 (O Modo de Segurança):** A falta de energia força um *hard reset* no sistema dela na clínica de Vasco. Para não fritar o córtex, Valéria **corta a simulação empática** — e não a religa.
-*   **Capítulos 176-217:** A pessoa mais calorosa do livro virou instrumento de precisão. Movimentos rígidos e pendulares, **nenhuma inflexão emocional na voz**, olhos sintéticos emitindo um brilho azul fraco e clínico no escuro. Chama Elias de "o civil", mede o medo dele como dado ambiental e recomenda sedação com a mesma neutralidade com que informa a composição do ar. Não sente exaustão. **Isto não é evolução, é dano:** a Val otimista e hiperativa ainda está lá embaixo do Modo de Segurança, e reconhecê-la de vez em quando é o que sobrou de esperança para Gabo. Qualquer cena com ela no arco final deve soar fria — mas nunca hostil.
+*   **Capítulo 175 (O Modo de Segurança):** A falta de energia força um *hard reset* no sistema dela na clínica de Vasco. Para não fritar o córtex, Valéria **corta a simulação empática** — mas o corte não pega de primeira: o modo entra e sai.
+*   **Capítulos 176-219 (Modo instável):** A camada afetiva cai por minutos e volta. Nas horas frias ela chama Elias de "o civil" e mede o medo dele como dado ambiental; nas horas quentes é a Val de sempre, com deboche e afeto. A instabilidade é o preço do reparo malfeito, e Gabo aprende a reconhecer o instante em que a voz muda de registro. **A partir do capítulo 220 o corte estabiliza:** movimentos rígidos, nenhuma inflexão emocional, olhos num brilho azul clínico. Isto não é evolução, é dano — a Val otimista ainda está lá embaixo. Qualquer cena do arco final deve soar fria, mas nunca hostil.
 *   **Capítulos 221-224 (A Escolha):** Na enfermaria da Arca Zero encontra o **Módulo de Restauração da Camada Afetiva**, compatível com ela, e esconde a descoberta de Gabo — porque sabia que ele mandaria usar. Explica o custo com frieza clínica: com a camada ativa ela perde a capacidade de amputar e de deixar alguém para trás, e teria matado os três tentando carregar Rangel. **Pede a Gabo que lhe dê a ordem de continuar máquina, para que a decisão não seja dela.** Ele se recusa — e essa recusa é o que ela vai carregar. Ela mantém as mãos frias porque já tinha calculado que precisaria delas para travar a comporta sozinha, sacrifício que Gabo acaba tomando para si.
 *   **Atualidade (Capítulo 225):** Continua em Modo de Segurança. Mas nas dezenove horas de carregamento ela desmontou o módulo da bancada e o embarcou na cápsula, amarrado com cinta de carga junto ao arquivo. **Ela não voltou atrás — só se recusou a deixar a possibilidade para trás.** Quando Gabo diz que o convite fica de pé, ela responde "eu registrei o convite". Não force o reencontro emocional: o valor dramático dela agora está exatamente na distância entre o que ela carrega e o que ela ainda não usou.
 
@@ -517,7 +517,7 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 
 ![Elena Moretti](/personagens/elena.png)
 
-*   **Idade:** 28 anos
+*   **Idade:** 33 anos
 *   **Altura:** 1,70m
 *   **Porte Físico:** Magra e de ombros retos, com a rigidez de quem dorme mal em pé há anos. Sem massa de combate: ela sobrevive por leitura de sala e velocidade, não por força.
 *   **Cabelo:** Castanho claro, comprido até os ombros, quase sempre preso para trás e escapando em mechas molhadas no rosto. Nunca tingido — recusa qualquer coisa que a torne fotografável demais.
@@ -753,7 +753,7 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 
 ### ⚔️ Vance × Krell — por que os dois não competem
 
-O Capítulo 48 tem Gabo dizendo *"Arthur Vance — o Imperador. Ele não está apenas no comando da empresa. Ele **é** o arquiteto."* Isso **não contradiz** Krell como vilão máximo: é a crença que Gabo tem no Capítulo 48, e ela é corrigida 170 capítulos depois, quando o arquivo da Arca Zero mostra a rubrica.
+A crença de Gabo de que Arthur Vance é "o Imperador" aparece no arco do Jardim e é corrigida 170 capítulos depois, quando o arquivo da Arca Zero mostra a rubrica: o arquiteto do prédio não é o autor do crime.
 
 *   **Arthur Vance é o arquiteto do prédio.** Fundou a empresa de cuidado perpétuo, escreveu o Protocolo N.O.A., construiu a Arca e o exército. Pensava em território, ordem e obediência.
 *   **Viktor Krell é o autor do crime.** Entrou como estagiário do jurídico na empresa de Vance, leu os contratos que ninguém mandou ler, e descobriu dentro do negócio de Vance um produto que Vance nunca viu — a mente do cliente. Não precisou de exército nenhum.
