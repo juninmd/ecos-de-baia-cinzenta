@@ -1,6 +1,9 @@
 ---
+layout: doc
+title: "Capítulo 99: O Despertar da Máquina"
+description: "A máquina quer o cubo, o cubo quer um dono, e a voz gravada no escuro tem o timbre de uma mulher que a cidade já enterrou."
 image: /capitulo_99.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Inspetor Rangel, Capitão Jonas Vilar, Dra. Nise, Aria
+Personagens Presentes: Gabriel "Gabo" Moretti, Inspetor Rangel, Capitão Jonas Vilar, Dra. Nise
 Localização: "Ruínas do Data Center 4 - Zona Morta"
 ---
 # Capítulo 99: O Despertar da Máquina
@@ -11,7 +14,15 @@ O som não era de vento. Era o ranger de metal contra concreto, um ruído úmido
 
 — Para trás — sussurrou Gabo, empurrando a Dra. Nise para a proteção de uma coluna de aço retorcido.
 
-Rangel sacou sua pistola, tremendo levemente. Não de medo, mas da abstinência de uma mira assistida que nunca mais voltaria. Vilar já estava em posição, o revólver .38 apontado para a escuridão do corredor destruído.
+A mão dele foi para o bolso e não encontrou nada. O cubo continuava na palma do morto, e a linha azul pulsava mais rápido a cada segundo.
+
+Não era mais um piscar. Era uma resposta. Em algum ponto atrás dos escombros, alguma coisa respondia no mesmo ritmo, e o intervalo entre uma resposta e outra encurtava como o passo de quem diminui a distância.
+
+Gabo quebrou a própria ordem. Abriu os dedos do homem um por um — o rigor mortis já tinha travado os tendões — e arrancou o cubo da mão fria. Foi um choque curto, seco, como morder papel-alumínio. A luz azul subiu de intensidade e virou a única coisa acesa naquele andar.
+
+Do outro lado da laje, o som de engrenagens parou de ser paisagem e virou direção.
+
+Rangel sacou sua pistola, tremendo levemente. Não de medo, mas da abstinência de uma mira assistida que nunca mais voltaria. Vilar chegou pela lateral, o joelho ruim estalando a cada passada, o .38 já apontado para a escuridão do corredor destruído.
 
 — O que é aquilo? — perguntou Nise, a voz abafada pela máscara.
 
@@ -35,7 +46,7 @@ Os tiros ecoaram nas ruínas. As balas de chumbo, antigas e confiáveis, ricoche
 
 A máquina nem diminuiu o passo. Com um braço que terminava em uma garra de sucata, ela golpeou a coluna onde Rangel estava. O concreto explodiu. O inspetor foi jogado para trás, tossindo poeira.
 
-Gabo não podia correr. As cintas passivas seguravam a coluna e nada mais, e as pernas reais gritavam de dor só de estar de pé. Ele olhou ao redor, sua mente de detetive processando o cenário em milissegundos. *Sem rede. Sem hacks. Apenas física.*
+Gabo não podia correr. As órteses passivas estavam presas nas pernas, e o arame do remendo mordia a pele acima do joelho a cada passo. Correr era uma palavra de gente com osso inteiro. Ele olhou ao redor, sua mente de detetive processando o cenário em milissegundos. *Sem rede. Sem hacks. Apenas física.*
 
 A criatura se virou para ele, ignorando os tiros de Vilar. Ela queria o cubo.
 
@@ -65,6 +76,8 @@ O silêncio voltou. Apenas o chiado de circuitos morrendo e a respiração ofega
 
 Gabo se levantou, limpando o sangue de um corte na testa. Ele mancou até a pilha de escombros. O cubo preto tinha rolado para longe, intacto, pulsando suavemente.
 
+O servidor que eles derrubaram era a única coisa ali capaz de dizer quem tinha construído aquele monstro — número de série, fabricante, oficina, qualquer coisa. Agora eram duas toneladas de memória morta esmagadas no chão, e a resposta estava embaixo delas.
+
 — Todos bem? — perguntou Vilar, ajudando Rangel a se levantar.
 
 — Meu terno... — resmungou Rangel, tirando o pó da lapela rasgada. — Era o último inteiro.
@@ -85,9 +98,11 @@ O cubo preto estava no centro da mesa.
 
 — Mas quem mandou a máquina? — questionou Rangel. — Não sobrou ninguém com *know-how* para construir aquilo. Os Jardineiros odeiam metal. A Aeterna faliu. O Sindicato só quer vender drogas.
 
-Gabo tocou o cubo. Estava frio, mais frio que a sala.
+— O Código Morto matou o que estava ligado na Raiz — disse Gabo. — Não matou o que estava desligado.
 
-— Talvez não seja "quem". Talvez seja "o quê".
+Ele tocou o cubo. Estava frio, mais frio que a sala.
+
+— Três meses de silêncio não é morte. É espera. — Ele levantou os olhos para Rangel. — Talvez não seja "quem". Talvez seja "o quê".
 
 De repente, o pulso de luz do cubo mudou. De azul calmo para um branco intenso. Um feixe de luz foi projetado para cima, cortando a fumaça das velas.
 
