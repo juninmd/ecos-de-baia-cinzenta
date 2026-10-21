@@ -23,7 +23,7 @@ Roupa molhada, antes de tudo: trezentas pessoas ensopadas em ambiente fechado pr
 
 banheiro entupido.
 
-Sessenta e uma horas de enchente. Quatro vasos sanitários para trezentas e sete pessoas. A rede de esgoto tinha parado de aceitar qualquer coisa desde a segunda-feira, porque a rede de esgoto agora era parte do mar.
+Trinta e duas horas de enchente. Quatro vasos sanitários para trezentas e sete pessoas. A rede de esgoto tinha parado de aceitar qualquer coisa desde a segunda-feira, porque a rede de esgoto agora era parte do mar.
 
 Gabo entrou mancando pela porta dos fundos, com uma caixa de suprimentos no ombro bom e o joelho protestando a cada degrau, e a primeira coisa que fez foi contar as pessoas do corredor por hábito profissional, e a segunda foi parar de contar.
 
@@ -73,13 +73,13 @@ Clara subiu do porão com o rosto duro e uma lista na mão.
 
 — A gente arruma espaço — disse Gabo.
 
-— Não é espaço, Gabriel, é comida. — Ela empurrou a lista contra o peito dele. — Eu estou distribuindo trezentas e sete rações de um estoque de quatrocentas. Cada pessoa a mais que entra por aquela porta não tira comida de você e de mim. Tira das crianças que já estão aqui há três dias, e essas eu conheço pelo nome.
+— Não é espaço, Gabriel, é comida. — Ela empurrou a lista contra o peito dele. — Eu estou distribuindo trezentas e sete rações de um estoque de quatrocentas. Cada pessoa a mais que entra por aquela porta não tira comida de você e de mim. Tira das crianças que já estão aqui há dois dias, e essas eu conheço pelo nome.
 
 — Clara—
 
 — Eu não estou pedindo permissão para ser boa. — A voz dela nem subiu. — Eu estou te falando o número, porque alguém tem que segurar a porta, e quem segura a porta precisa saber o número.
 
-Gabo olhou para a irmã. Vinte e quatro anos, mãos rachadas de água sanitária, e absolutamente nenhum tremor.
+Gabo olhou para a irmã. Dezoito anos, mãos rachadas de água sanitária, e absolutamente nenhum tremor.
 
 Ele desceu para a escadaria.
 
