@@ -109,6 +109,6 @@ Gabriel disparou contra uma tubulação de vapor na parede oposta. O jato de pre
 
 Eles mergulharam na escuridão do túnel de esgoto, deslizando na lama fétida, enquanto atrás deles, o zumbido mecânico das *Vespas* mudava de tom, ativando o modo de perseguição térmica.
 
-Lá atrás, as Vespas pararam de perseguir. Pousaram na parede do túnel, uma a uma, e os quatro pontos vermelhos das lentes ficaram acesos no escuro, imóveis. Miranda arfou, rindo com o pouco de ar que tinha.
+Lá atrás, as Vespas pararam de perseguir. Pousaram na parede do túnel, uma a uma, e os três pontos vermelhos das lentes ficaram acesos no escuro, imóveis. Miranda arfou, rindo com o pouco de ar que tinha.
 
 — Elas não estão mais atrás da gente — ele disse. — Estão esperando a gente chegar.
