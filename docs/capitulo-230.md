@@ -75,7 +75,7 @@ Ela demorou muito para falar de novo.
 
 E essa foi a que doeu.
 
-— Não. — Olhei para ela. — Uma vez. Uma vez só, em dezoito anos de polícia, e eu escolhi bem, e é isso que torna a coisa pior.
+— Não. — Olhei para ela. — Uma vez. Uma vez só, em quatorze anos de polícia, e eu escolhi bem, e é isso que torna a coisa pior.
 
 — Por que pior?
 
@@ -105,7 +105,7 @@ Deixei o copo no chão.
 
 — E ela terminou com você.
 
-— Ela terminou comigo. — Engoli. — E seis meses depois o Miranda matou ela num galpão, e todo mundo, incluindo eu, passou sete anos achando que o que quebrou o Gabriel Moretti foi a morte da Bia.
+— Ela terminou comigo. — Engoli. — E seis meses depois o Miranda matou ela num galpão, e todo mundo, incluindo eu, passou cinco anos achando que o que quebrou o Gabriel Moretti foi a morte da Bia.
 
 Olhei para a Elena.
 
