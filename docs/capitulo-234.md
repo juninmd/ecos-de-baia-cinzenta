@@ -15,13 +15,13 @@ A Dra. Vance parou com a xícara de lata a dois centímetros da boca.
 
 — Esse harmônico não é de gerador a diesel — ela disse, sem alterar o tom. — É a linha auxiliar da Subestação Orla Norte. O circuito de purga térmica.
 
-Valéria já estava ajoelhada junto à carcaça do osciloscópio militar encostada na parede desde antes do Dilúvio. Os fios de LED na franja dela pulsavam num azul rápido e doente, e os olhos prateados faziam microajustes focais com um zumbido seco.
+Valéria já estava ajoelhada junto à carcaça do osciloscópio militar que Kiko Vibe havia deixado anos atrás. Os implantes nas bochechas dela pulsavam num azul rápido e doente, e os olhos prateados faziam microajustes focais com um zumbido seco.
 
 — Frequência portadora em quatrocentos e sessenta megahertz — disse Valéria, a voz reta pelo Modo de Segurança. — Carga indutiva subindo doze por cento a cada três minutos. Em duas horas, a capacitância atinge o limiar de ignição.
 
 — Traduz, Val — pedi, com a mão esquerda apertando a tipoia onde meu ombro quebrado pulsava em pontadas quentes.
 
-— Protocolo Crepúsculo — respondeu a Dra. Vance, girando a cadeira de aço com a lentidão das juntas gastas. — O plano de contingência que meu pai desenhou quando a Aeterna percebeu que um arquivo físico não podia ser hackeado. Se o material saísse do berço, a subestação canalizaria a descarga dos capacitores marítimos direto para as galerias de drenagem sob este galpão. Uma tempestade de micro-ondas de alta intensidade.
+— Protocolo Crepúsculo — respondeu a Dra. Vance, levantando-se da cadeira de aço com a lentidão das juntas gastas. — O plano de contingência que meu pai desenhou quando a Aeterna percebeu que um arquivo físico não podia ser hackeado. Se o material saísse do berço, a subestação canalizaria a descarga dos capacitores marítimos direto para as galerias de drenagem sob este galpão. Uma tempestade de micro-ondas de alta intensidade.
 
 Olhei para as quatro toneladas de papel empilhadas.
 
@@ -35,7 +35,7 @@ Elena estava encostada na rotativa. A jaqueta de campo verde-oliva estava mancha
 
 — A antena está desativada há trinta anos — falei.
 
-— A antena está desativada, Gabriel, mas o cabo coaxial primário desce até o transmissor de emergência da sala de comando — Elena deu dois passos na minha direção. O cheiro de chuva ácida e café velho veio com ela. — Se alguém entrar lá e soldar o circuito de retorno, o sinal do rádio engole a energia da purga e transforma a descarga num transmissor omnidirecional de onda curta. Cem mil watts de potência bruta.
+— A antena está desativada, Gabriel, mas o cabo coaxial primário desce até o transmissor de emergência da sala de comando — Elena deu dois passos na minha direção. O cheiro de chuva ácida e café velho veio com ela. — Se alguém entrar lá e soldar o circuito de retorno, o sinal do rádio engole a energia da purga e transforma a descarga num transmissor omnidirecional de onda curta. Quarenta quilowatts de potência bruta, faixa de quarenta e nove metros.
 
 Elias levantou a cabeça do canto do galpão, onde limpava as graxas da prensa.
 
@@ -63,6 +63,12 @@ Olhei para a escopeta de cano serrado encostada nas caixas de papel. Minha arma.
 
 — Eu odeio ter que usá-la — ela corrigiu, pegando a alça de lona da *Caronte* e jogando sobre o ombro com um puxão firme. — Me dá os cartuchos de balote pesado. Dois no cano, quatro na coronha.
 
+Antes de pegar os cartuchos, ela virou a arma de cabeça para baixo, soltou a soleira de borracha da coronha com o polegar e enfiou lá dentro um disco de plástico achatado, do tamanho de um maço de cigarros, por cima da vareta de limpeza. Fechou com a base da mão.
+
+— O que é isso?
+
+— Reserva. — Ela não levantou os olhos. — Se a bobina não passar, o disco passa.
+
 Valéria deu um passo à frente.
 
 — Probabilidade de infiltração sem detecção: oito por cento. Probabilidade de retorno após o acionamento do transmissor: zero vírgula três por cento.
@@ -71,9 +77,13 @@ Elena olhou para a ciborgue.
 
 — Guarda o cálculo para o Gabriel, Valéria. Ele sempre gostou de perder contra a banca.
 
-Ela virou as costas. Não houve despedida solene, nem beijo de romance barato. Ela ajustou a gola da jaqueta verde-oliva, verificou o estojo de microcassetes no bolso interno e saiu pela porta metálica do galpão para a chuva gelada da madrugada.
+Ela virou as costas. Não houve despedida solene, nem beijo de romance barato. Ela ajustou a gola da jaqueta verde-oliva, verificou o estojo de microcassetes e o volume duro da bobina no bolso interno e saiu pela porta metálica do galpão para a chuva gelada da madrugada.
 
 ---
+
+Não vi o que aconteceu depois que aquela porta fechou.
+
+O que segue é reconstrução: o painel de comando registrou carga, frequência e hora, e a Valéria arrancou os relés antes de a chuva apagar o resto. O que o painel não registrou eu montei com os cartuchos deflagrados no piso e uma marca de sangue secando na borracha. Painel não mente. Só não conta tudo.
 
 A Subestação Orla Norte erguia-se como uma carcaça de navio encalhada nas pedras pretas da costa.
 
@@ -105,13 +115,13 @@ O ruído do banco de capacitores sob o chão crescia para um uivo agudo. O ar co
 
 Elena limpou o suor e o sangue da testa com a manga rasgada da jaqueta. Suas mãos tremiam pelo choque da adrenalina, mas ela encaixou os cabos de ligação rápida no modulador de sinal com uma precisão cirúrgica.
 
-— Transmissão de emergência aberta — ela sussurrou para os mostradores analógicos. — Frequência de cem quilohertz travada no circuito mestre.
+— Transmissão de emergência aberta — ela sussurrou para os mostradores analógicos. — Frequência de seis vírgula um megahertz travada no circuito mestre.
 
-Ela puxou a fita matriz contendo a leitura completa dos arquivos da Arca Zero e as transmissões de Arthur Vance. Inseriu a bobina no cabeçote de leitura da torre e baixou a chave geral.
+Ela puxou do bolso interno a bobina matriz — a leitura integral que a doutora tinha feito naquela tarde, com a etiqueta escrita à caneta de bico. Encaixou o carretel no cabeçote de leitura da torre e baixou a chave geral.
 
 Lá fora, a torre de transmissão de oitenta metros rugiu.
 
-A energia de alta voltagem que Krell pretendia usar para incinerar a Velha Baía foi dragada instantaneamente pelos alimentadores da antena. As lâmpadas de filamento da sala acenderam num clarão cegante. O sinal varreu os céus de Baía Cinzenta com a força de um trovão contínuo, penetrando em cada radinho de pilha, cada comunicador civil e cada terminal analógico da orla marítima.
+A energia de alta voltagem que Krell pretendia usar para incinerar a Velha Baía foi dragada instantaneamente pelos alimentadores da antena. As lâmpadas de filamento da sala acenderam num clarão cegante. O sinal varreu os céus de Baía Cinzenta com a força de um trovão contínuo, penetrando em cada radinho de pilha com dial de onda curta, cada comunicador civil e cada terminal analógico da orla marítima.
 
 A voz gravada da Dra. Vance começou a ecoar pelas ondas de rádio da cidade:
 
@@ -150,3 +160,5 @@ Encaixou uma fita microcassete virgem. Apertou as teclas *REC* e *PLAY* juntas c
 O mecanismo rodou com um clique metálico familiar. A luz vermelha do gravador acendeu na penumbra esfumaçada da sala que morria.
 
 Elena aproximou o microfone dos lábios pálidos.
+
+O painel registrou a hora e a carga. O resto ficou na fita que eu ainda ia tirar da mão dela.
