@@ -17,7 +17,7 @@ O cheiro o enjoou. Cinzas sintéticas. Lembrava o fumo barato que seu pai costum
 
 O Distrito 4 estava morto. Sem a "Voz" de Dante para coordenar a rede elétrica, os prédios eram monólitos negros recortados contra um céu cor de hematoma. A única iluminação vinha de fogueiras em latões de lixo e dos ocasionais faróis de veículos blindados patrulhando à distância.
 
-Gabo ajustou o sobretudo, sentindo a umidade penetrar nas bandagens improvisadas sob a roupa. Ele tateou o bolso interno. Vazio. A ansiedade era uma coceira elétrica sob a pele, exigindo movimento, exigindo violência. Ele apertou o *Colar de Sol* até o metal morder a pele da palma. A dor física era sua única âncora contra o caos mental. O colar queimava frio contra sua mão, lembrando-o de quem ele era. Não o filho do comissário corrupto. Mas algo mais duro.
+Gabo ajustou o sobretudo, sentindo a umidade penetrar nas bandagens improvisadas sob a roupa. Ele tateou o bolso interno atrás do maço que nunca existira. Vazio. A ansiedade era uma coceira elétrica sob a pele, exigindo movimento, exigindo violência. Ele apertou o *Colar de Sol* até o metal morder a pele da palma. A dor física era sua única âncora contra o caos mental. O colar queimava frio contra sua mão, lembrando-o de quem ele era. Não o filho do comissário corrupto. Mas algo mais duro.
 
 *Missão. Rangel. Aria. Sobreviver.*
 
