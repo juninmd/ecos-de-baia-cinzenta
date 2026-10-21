@@ -76,7 +76,7 @@ Valéria operava através das lágrimas, o olho biônico ajustando a compensaç�
 
 O uivo de Gabo morreu, substituído por arquejos curtos e desesperados. Quando Valéria finalmente desligou o maçarico e destravou o exoesqueleto, o silêncio da estação retornou, pesado e fúnebre.
 
-Gabo estava largado no chão, o suor frio ensopando suas roupas. O cheiro de carne queimada preenchia seus pulmões, mas, pela primeira vez em horas, o cheiro de fumaça havia sumido. Ele estava ancorado. Dolorosamente, irremediavelmente ancorado. Seu braço direito estava quebrado pela queda violenta nos escombros, os ossos estalando sob a pele repuxada e cauterizada, e as mãos em carne viva latejavam como brasa sob as ataduras de emergência.
+Gabo estava largado no chão, o suor frio ensopando suas roupas. O cheiro de carne queimada preenchia seus pulmões, mas, pela primeira vez em horas, o cheiro de fumaça havia sumido. Ele estava ancorado. Dolorosamente, irremediavelmente ancorado. Seu braço direito estava quebrado contra a guia do poço, os ossos estalando sob a pele repuxada e cauterizada, e as mãos em carne viva latejavam como brasa sob a crosta enegrecida.
 
 — *O sangramento foi interrompido,* — Aria informou pelo alto-falante do deck, a voz imune ao horror do que acabara de guiar. — *A taxa de sobrevida de curto prazo retornou a parâmetros aceitáveis. Análise secundária: há energia residual na malha viária deste setor.*
 
@@ -84,7 +84,7 @@ O feixe do deck de Valéria apontou para um dos vagões de manutenção parados 
 
 — *O veículo de serviço ainda possui carga residual em suas baterias de estado sólido,* — prosseguiu Aria. — *Se você espetar meu drive diretamente na porta de diagnóstico do vagão, poderei reativar o disjuntor primário e utilizar os trilhos para cruzar os setores adjacentes em um terço do tempo estimado a pé.*
 
-Valéria soltou o maçarico no chão com um estrondo metálico, ainda chorando, as mãos cobrindo o rosto. Ela não conseguia olhar para o que havia feito. Gabo, tremendo violentamente, rolou para o lado, cuspindo o colarinho ensanguentado. Ele olhou para o braço direito quebrado, os ossos estalando sob as ataduras rígidas e as queimaduras escuras seladas a fogo. Ele sorriu, um sorriso quebrado, cínico.
+Valéria soltou o maçarico no chão com um estrondo metálico, ainda chorando, as mãos cobrindo o rosto. Ela não conseguia olhar para o que havia feito. Gabo, tremendo violentamente, rolou para o lado, cuspindo o colarinho ensanguentado. Ele olhou para o braço direito quebrado, os ossos estalando sob a pele repuxada e as queimaduras escuras seladas a fogo. Ele sorriu, um sorriso quebrado, cínico.
 
 Antes que ele pudesse falar, os alto-falantes de emergência da estação estalaram. O som de estática velha e poeira rasgou o ar.
 
