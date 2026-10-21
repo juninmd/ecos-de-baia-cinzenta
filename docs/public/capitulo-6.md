@@ -102,7 +102,7 @@ Gabriel sorriu, um sorriso sem humor, apertando o Colar de Sol com a mão esquer
 
 — Eu sou um Moretti. Nós sempre complicamos.
 
-Gabriel jogou o chip para dentro da boca. Ele engoliu a seco, sentindo o gosto metálico e a borda dura do dispositivo arranhando sua garganta, rasgando o esôfago enquanto descia.
+Gabriel jogou o chip para dentro da boca. Ele engoliu a seco, sentindo o gosto metálico e a borda dura do dispositivo arranhando a garganta enquanto descia.
 
 Kael parou, seus sensores processando o ato ilógico.
 
