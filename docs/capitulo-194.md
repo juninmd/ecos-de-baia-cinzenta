@@ -25,7 +25,7 @@ Elias engoliu seco, os dedos encardidos apertando a alça da máscara de respira
 
 Elias virou à esquerda num corredor de paredes espessas de chumbo, parando diante de uma escada helicoidal de ferro fundido que subia em direção ao teto abobadado.
 
-— Aqui. Os dutos de refrigeração forçada — ele apontou com a ponta da ferramenta para uma escotilha circular de três metros de diâmetro chumbada na parede superior. — Esse conduíte foi construído pela Aeterna durante a expansão industrial de trinta anos atrás. Ele contorna o fosso de exaustão principal e deságua direto nas catacumbas sob o Distrito Comercial do Setor 6. Uma galeria completamente isolada da rede de esgoto da baixa.
+— Aqui. Os dutos de refrigeração forçada — ele apontou com a ponta da ferramenta para uma escotilha circular de um metro e meio de diâmetro chumbada na parede superior. — Esse conduíte foi construído pela Aeterna durante a expansão industrial de trinta anos atrás. Ele contorna o fosso de exaustão principal e deságua direto nas catacumbas sob o Distrito Comercial do Setor 6. Uma galeria completamente isolada da rede de esgoto da baixa.
 
 — E qual é o problema dele? — Valéria perguntou, estreitando os olhos ópticos prateados ao mirar o maquinário.
 
@@ -43,13 +43,13 @@ Valéria encostou a mão enluvada no volante, tentando forçar a rotação no se
 
 — Espera, Moretti! — Valéria bateu com a palma da mão no meu peito de ferro, me empurrando para trás com autoridade técnica. — Se você engatar os vinte quilos desse pistão no volante travado sem soltar a ferrugem primeiro, você estoura a bucha do seu ombro de novo e a gente fica preso aqui com um detetive sem braço funcional. Elias, me passa essa sua chave sônica agora!
 
-O velho técnico piscou atônito, mas entregou a ferramenta adaptada nas mãos dela.
+O técnico piscou atônito, mas entregou a ferramenta adaptada nas mãos dela.
 
 Valéria engatou uma presilha jacaré na base da bobina da ferramenta e ligou o outro terminal diretamente na saída de energia auxiliar do cyberdeck.
 
 — O que você vai fazer com a minha chave, garota? — Elias chiou, aflito.
 
-— Vou salvar a sua pele, vovô — ela ajustou a frequência de oscilação do circuito. — Ressonância acústica de alta frequência. Se eu aplicar a vibração sônica direto no cubo da rosca enquanto você joga solvente penetrante, a onda quebra os cristais de óxido sem empenar o aço. Elias, borrifa o óleo nas ranhuras! Agora!
+— Vou salvar a sua pele, mecânico — ela ajustou a frequência de oscilação do circuito. — Ressonância acústica de alta frequência. Se eu aplicar a vibração sônica direto no cubo da rosca enquanto você joga solvente penetrante, a onda quebra os cristais de óxido sem empenar o aço. Elias, borrifa o óleo nas ranhuras! Agora!
 
 Elias sacou uma lata amassada de desengripante industrial do cinto e esguichou um jato espesso sobre o fuso oxidado.
 
@@ -69,7 +69,7 @@ Mais um tranco. As engrenagens internas estalaram, liberando o contrapeso de dua
 
 Uma corrente de ar fresco, sem fumaça e sem calor, soprou contra nossos rostos suados.
 
-Valéria soltou uma gargalhada limpa e vitoriosa, guardando a chave sônica no cinto de Elias com um tapinha no ombro do velho.
+Valéria soltou uma gargalhada limpa e vitoriosa, guardando a chave sônica no cinto de Elias com um tapinha no ombro dele.
 
 — Quem disse que força bruta e código não se misturam? — ela olhou para mim, os olhos prateados brilhando de adrenalina pura. — Belo trabalho de arrombamento, Moretti.
 
