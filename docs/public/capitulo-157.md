@@ -18,7 +18,7 @@ characters: ["Gabo", "Valéria", "Aria"]
 
 O monorail engolia os trilhos verticais com a fúria de um leviatã de metal subindo das profundezas. O som contínuo do atrito das rodas enferrujadas contra as vigas de aço era uma broca perfurando os ouvidos. Dentro do vagão de carga, a luz amarela mortiça piscava, lutando contra as quedas de tensão na velha malha energética da Aeterna Corp.
 
-Gabo estava sentado no chão corrugado, encostado na parede de aço vibrante. Cada solavanco do trem era traduzido como um soco direto em seus ossos. Seu braço direito quebrado, envolto em talas e ataduras sobre as queimaduras de plasma, era uma âncora de agonia pura. Ele as mantinha erguidas, os tecidos enegrecidos pulsando com a batida de seu coração esfolado.
+Gabo estava sentado no chão corrugado, encostado na parede de aço vibrante. Cada solavanco do trem era traduzido como um soco direto em seus ossos. Seu braço direito quebrado, envolto em talas e ataduras sobre as queimaduras de plasma, era uma âncora de agonia pura. Ele o mantinha erguido, os tecidos enegrecidos pulsando com a batida de seu coração esfolado.
 
 O cheiro do ambiente era uma mistura ácida de ozônio, poeira de décadas e ferrugem molhada, misturado ao odor acre de pele cauterizada. A cada solavanco violento nos trilhos, a náusea ameaçava dominá-lo, mas Gabo respirava fundo pela boca, lutando contra o princípio de choque.
 
@@ -58,7 +58,7 @@ A alucinação atingiu Gabo com a força de um soco no estômago. O ar em seus p
 
 Mas ele não tinha mãos para se proteger.
 
-Com um grito de raiva gutural, Gabo ergueu o braço direito e chocou violentamente o toco carbonizado contra o pilar de sustentação do monorail. O impacto foi devastador. A dor irrompeu não como uma faísca, mas como um sol em chamas. Seus joelhos cederam, e a fumaça ilusória evaporou instantaneamente de seus pulmões, expulsa pela realidade excruciante e incontestável de sua própria carne ferida.
+Com um grito de raiva gutural, Gabo ergueu o braço direito e chocou violentamente a mão carbonizada contra o pilar de sustentação do monorail. O impacto foi devastador. A dor irrompeu não como uma faísca, mas como um sol em chamas. Seus joelhos cederam, e a fumaça ilusória evaporou instantaneamente de seus pulmões, expulsa pela realidade excruciante e incontestável de sua própria carne ferida.
 
 — Vai, Val! — Gabo rugiu, a voz rasgada pelo esforço, os dentes cerrados. Ele atirou o ombro contra a trava da escotilha de chão, soltando a dobradiça enferrujada com um chute.
 
