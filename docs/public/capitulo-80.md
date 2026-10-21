@@ -179,7 +179,7 @@ Não saiu som nenhum, e Gabo tinha aprendido a ler lábio em cento e oitenta hor
 
 ---
 
-Gabo socou o vidro com a mão fechada, uma vez, duas, e não adiantou nada e ele sabia disso antes de bater.
+Gabo socou o vidro com o punho esquerdo, uma vez, duas, e não adiantou nada e ele sabia disso antes de bater.
 
 Do outro lado, a Dra. Nise recuou até a parede do fundo, com o frasco de amostra apertado contra o peito, e olhou para ele através de dois visores e dez centímetros de vidro.
 
