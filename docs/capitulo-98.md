@@ -1,6 +1,9 @@
 ---
+layout: doc
+title: "Capítulo 98: A Cidade Silenciosa"
+description: "Noventa dias de paz, um corpo que sorri e um cubo preto pulsando na mão do morto: o silêncio de Baía Cinzenta acabou."
 image: /capitulo_98.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Dra. Nise, Inspetor Rangel, Capitão Jonas Vilar, Aria
+Personagens Presentes: Gabriel "Gabo" Moretti, Dra. Nise, Inspetor Rangel, Capitão Jonas Vilar
 Localização: "Apartamento de Gabo → Delegacia da Biblioteca Municipal → Zona Morta (ruínas do Data Center 4)"
 ---
 # Capítulo 98: A Cidade Silenciosa
@@ -55,6 +58,22 @@ Vilar empurrou uma pasta de papel pardo pela mesa. Fotos polaroid, granuladas e 
 
 ***
 
+Vilar não pediu para ir. Foi.
+
+Tirou o casaco do encosto da cadeira, abriu a gaveta, contou três balas na palma da mão antes de encaixar no tambor do .38 e fechou o cilindro com o polegar. O livro de ocorrências ficou aberto na página em branco, com a caneta atravessada em cima.
+
+— Capitão, a delegacia fica sem ninguém que saiba assinar.
+
+— A delegacia fica sem ninguém que saiba assinar de qualquer jeito, Moretti. Há três meses eu assino por três. — Ele vestiu o casaco. — E se aquela coisa na Zona Morta for o que eu acho, eu quero estar lá para dizer, com todas as letras, que eu não autorizei.
+
+Rangel foi atrás porque o rádio era dele. Não o aparelho — a frequência. Vinte anos de plantão na mesma orelha do mundo, e não havia mais ninguém na cidade que soubesse de cor a diferença entre chiado de ruído e chiado de gente.
+
+A picape da delegacia morreu na subida da Avenida Norte, com o radiador secando num assobio de chaleira. Fizeram o último quilômetro a pé, entre vergalhões e bueiros abertos. A correia da órtese de Gabo arrebentou no meio do caminho; ele remendou com arame de cerca, três voltas em cada ponta, e não parou de andar. O arame entrou na pele acima do joelho. Ele só percebeu pelo sangue que começou a escorrer dentro da bota.
+
+Chegaram às onze e vinte. O sol já tinha subido o suficiente para secar o orvalho em cima do concreto.
+
+***
+
 A "Zona Morta" era o antigo coração financeiro da Aeterna Corp. Agora, era um cemitério de vidro e aço retorcido. O mato começava a crescer por entre as rachaduras do asfalto, retomando o território.
 
 O corpo estava deitado sobre uma laje de concreto, como se estivesse tomando sol. Era um homem de meia-idade, vestindo trapos de sobrevivente.
@@ -66,6 +85,8 @@ Dra. Nise estava ajoelhada ao lado dele, usando luvas de borracha grossas e uma 
 — O trânsito está ótimo sem os carros voadores caindo do céu. O que temos, Nise?
 
 — Causa da morte indeterminada. Sem marcas de violência externa. Sem veneno detectável nos testes preliminares. O coração simplesmente... parou.
+
+Vilar não se aproximou do corpo. Ficou na boca da rua, o .38 pendurado na mão, de costas para eles, vigiando um quarteirão que não tinha mais ninguém para vigiar.
 
 Gabo se aproximou, observando o rosto da vítima. O sorriso era perturbador. Não era um esgar de dor, mas uma expressão de êxtase absoluto.
 
@@ -109,4 +130,6 @@ Gabo olhou para o cubo na mão do morto. A luz azul pulsou um pouco mais forte.
 
 — O silêncio acabou — disse Gabo, sentindo o peso familiar da sua arma no coldre. — Alguém ligou a música de novo.
 
-E nas sombras das ruínas do Data Center, algo se moveu. Algo que fez o som metálico de engrenagens, não de passos humanos, e que não estava procurando sobrevivente nenhum: estava procurando o cubo.
+E nas sombras das ruínas do Data Center, algo se moveu. Algo que fez o som metálico de engrenagens, não de passos humanos.
+
+A paz de Baía Cinzenta tinha durado exatos noventa dias. E agora, estava morta.
