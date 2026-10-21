@@ -1,11 +1,11 @@
 ---
 image: /capitulo_75.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Aria, Dante Moretti, Beatriz "Bia" Vargas, Enzo e Sofia Rossi
-Localização: "Há 8 anos - Jardim Botânico de Baía Cinzenta"
+Localização: "Há 13 anos - Jardim Botânico de Baía Cinzenta"
 ---
 # Capítulo 75.5: Memórias de Chuva (Flashback)
 
-**Há 8 anos - Jardim Botânico de Baía Cinzenta**
+**Há 13 anos - Jardim Botânico de Baía Cinzenta**
 
 A chuva caía como uma bênção discreta, não a ácida que corroía a alma da cidade, mas uma garoa fina que fazia as flores artificiais brilharem sob as luzes holográficas. O Jardim Botânico era um oásis no topo da Torre de Marfim, reservado apenas para a elite que podia pagar pelo ar filtrado e pelas vistas panorâmicas.
 
