@@ -137,7 +137,7 @@ Elena se levantou devagar.
 
 Ele não repetiu.
 
-Ela ficou olhando para ele por um tempo comprido, com a chuva escorrendo pelo rosto dos dois, e depois falou baixo, quase gentil, que era como ela falava quando estava mais brava:
+Ela ficou olhando para o irmão por um tempo comprido, com a chuva escorrendo pelo rosto dos dois, e depois falou baixo, quase gentil, que era como ela falava quando estava mais brava:
 
 — Guarda essa frase, Gabriel. Guarda inteirinha. Um dia alguém vai te dizer ela de volta, com o teu nome no meio, e você não vai ter resposta.
 
@@ -149,7 +149,7 @@ Trocaram o pneu debaixo da chuva, em silêncio, com o fogo do molotov ainda quei
 
 Gabo não conseguiu ajudar. Tentou se abaixar duas vezes e na segunda quase caiu, e no fim ficou sentado no meio-fio segurando a lanterna, com a perna direita esticada na água suja, sentindo o joelho inchar dentro da calça — um calor surdo e apertado, como se estivessem enchendo a articulação por dentro com uma bomba de encher pneu.
 
-Ele tinha trinta e um anos e acabava de gastar a última coisa que o corpo dele guardava em reserva. O ligamento tinha rompido de vez em algum ponto entre o segundo e o terceiro tiro, e ele não ia saber disso por mais onze dias, e ia andar quebrado esses onze dias inteiros.
+Ele tinha quarenta e um anos e acabava de gastar a última coisa que o corpo dele guardava em reserva. O ligamento tinha rompido de vez em algum ponto entre o segundo e o terceiro tiro, e ele não ia saber disso por mais onze dias, e ia andar quebrado esses onze dias inteiros.
 
 O gosto na boca era de cordite e de moeda. Ele cuspiu, e o que saiu na água da sarjeta veio com um fio de sangue de gengiva — de trincar os dentes, não de pancada. A chuva era gelada e a mão que segurava a lanterna estava quente e áspera de pólvora queimada, e essas duas informações chegavam ao cérebro dele ao mesmo tempo, brigando.
 
