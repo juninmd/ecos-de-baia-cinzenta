@@ -21,9 +21,9 @@ O sensor óptico do comunicador, alimentado pelo pendrive de titânio cujo LED b
 
 Valéria, que estava verificando o pulso de Rangel com dedos trêmulos, olhou para o drive acoplado ao ombro de Gabo com receio. Não era o medo de um inimigo, mas o desconforto de ouvir uma estranha absoluta na frequência de uma aliada.
 
-— A febre baixou um pouco, mas ele perdeu muito sangue — Valéria sussurrou. — A sutura improvisada no abdômen está segurando, mas se o movermos demais...
+— A febre baixou um pouco, mas ele perdeu muito sangue — Valéria sussurrou. — A sutura improvisada no ombro está segurando, mas se o movermos demais...
 
-— *O sujeito Rangel apresenta falência sistêmica iminente* — Aria interrompeu pelo canal de áudio. — *Probabilidade de sobrevivência ao transporte sem suporte avançado: 12,4%. Impacto na mobilidade da unidade principal (Gabo e Valéria): redução de 45%. Probabilidade de interceptação por forças hostis durante a extração com carga de 68 quilos: 98%.*
+— *O sujeito Rangel apresenta falência sistêmica iminente* — Aria interrompeu pelo canal de áudio. — *Probabilidade de sobrevivência ao transporte sem suporte avançado: 12,4%. Impacto na mobilidade da unidade principal (Gabo e Valéria): redução de 45%. Probabilidade de interceptação por forças hostis durante a extração com carga de cento e doze quilos: 98%.*
 
 O LED azul do pendrive pulsou uma única vez no escuro. A voz que horas antes falava com a angústia humana de Bia Vargas agora era apenas um sintetizador clínico.
 
@@ -37,7 +37,7 @@ O ar saiu dos pulmões de Gabo. Ele baixou os olhos para o cilindro no comunicad
 
 Valéria se colocou entre Gabo e a maca, os braços abertos.
 
-— Você não pode estar falando sério, Aria! É o Rangel! Ele nos salvou no Fliperama! Ele desertou por nós!
+— Você não pode estar falando sério, Aria! É o Rangel! Ele levou um estilhaço na doca por nós! Ele desertou por nós!
 
 — *Ações passadas não alteram variáveis futuras* — Aria respondeu pelo alto-falante, sem um milissegundo de hesitação. — *Gratidão é um viés cognitivo ineficiente.*
 
@@ -49,7 +49,7 @@ Gabo desencostou da bancada. Ele levou a mão até o comunicador no peito, senti
 
 Gabo fechou os dedos ao redor do drive blindado por um instante, a ponto de quase arrancá-lo do conector, mas se conteve.
 
-— Escute bem, sua calculadora de merda — Gabo rosnou. — Aquele homem naquela maca sangrou por mim. Eu abri a barriga dele com um canivete e costurei com fio de pesca para que ele vivesse. Ele é minha responsabilidade. E enquanto eu estiver respirando, ninguém fica para trás.
+— Escute bem, sua calculadora de merda — Gabo rosnou. — Aquele homem naquela maca sangrou por mim. Eu queimei o ombro dele com um ferro de solda e depois costurei o que sobrou. Ele é minha responsabilidade. E enquanto eu estiver respirando, ninguém fica para trás.
 
 O LED azul-gelo permaneceu estático.
 
