@@ -5,7 +5,7 @@ Localização: "Delegacia do Setor 4"
 ---
 # Capítulo 36: O Ninho da Serpente
 
-A Delegacia do Setor 4, o último bastião de "lei" na borda da Zona Industrial, parecia menos um posto policial e mais uma fortaleza sitiada medieval. Empilhadas na frente da entrada principal, barreiras de concreto Jersey estavam entrelaçadas com arame farpado e carcaças de drones abatidos. Policiais exaustos, cujos uniformes azuis estavam cinzentos de fuligem, patrulhavam o perímetro com o nervosismo de quem sabe que está em desvantagem numérica e tecnológica. Como a rede elétrica havia caído horas atrás, apenas fogueiras acesas dentro de latões de óleo iluminavam a fachada, projetando sombras longas e distorcidas que pareciam dançar nas paredes marcadas por balas.
+A Delegacia Central do Setor 4, o último bastião de "lei" na borda da Zona Industrial, parecia menos um posto policial e mais uma fortaleza sitiada medieval. Empilhadas na frente da entrada principal, barreiras de concreto Jersey estavam entrelaçadas com arame farpado e carcaças de drones abatidos. Policiais exaustos, cujos uniformes azuis estavam cinzentos de fuligem, patrulhavam o perímetro com o nervosismo de quem sabe que está em desvantagem numérica e tecnológica. Como a rede elétrica havia caído dias atrás, apenas fogueiras acesas dentro de latões de óleo iluminavam a fachada, projetando sombras longas e distorcidas que pareciam dançar nas paredes marcadas por balas.
 
 — Como vamos entrar? — perguntou Elena, observando de longe através de um par de binóculos táticos rachados. Ela estava sentada no banco do carona do Cobalt, que agora ostentava cicatrizes de batalha e um pneu estepe no lugar da roda dianteira direita. — Eles estão no limite. Vão atirar em qualquer coisa que não tenha um distintivo.
 
