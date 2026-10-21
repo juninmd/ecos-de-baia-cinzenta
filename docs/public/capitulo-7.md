@@ -99,7 +99,7 @@ A bifurcação apareceu.
 
 Gabriel puxou o freio de mão e girou o volante. O buggy fez um drift de noventa graus, deslizando para o túnel da direita. A traseira do veículo raspou na quina de concreto.
 
-Os drones tentaram fazer a curva. O primeiro conseguiu. O segundo bateu contra a parede e explodiu.
+Os drones tentaram fazer a curva. O primeiro conseguiu. O segundo bateu contra a parede e explodiu. O terceiro raspou a quina e saiu girando.
 
 — Um a menos! — gritou Miranda, rindo nervosamente.
 
