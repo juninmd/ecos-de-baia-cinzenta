@@ -1,5 +1,8 @@
 # Análise Crítica - Capítulo 183: Carniça de Metal
 
+> **Nota editorial:** esta análise descreve um rascunho em que Valéria já estava em Modo de Segurança pleno. O texto publicado (e o dossiê) usam o **Modo instável**, com lapsos emocionais até o cap. 220. Use o capítulo como fonte, não esta análise.
+
+
 ## Autoavaliação Técnica (Nota: 8.5/10)
 
 ### Ritmo (Pacing)

@@ -74,7 +74,7 @@ timeline
 | XVII | 128–140 | Esculturas de Carne | O glitch de Bia Vargas no pendrive, o hard reboot de Aria e o Protocolo de Limpeza |
 | XVIII | 141–157 | Veias de Vidro | A subida pelo Subnível 7; **Rangel morre** na passarela do Setor de Purga |
 | XIX | 158–169 | O Frio da Lógica | O Aeterna Sentinel **funde o pendrive de Aria** no terminal do Arquivo Executivo |
-| XX | 170–184 | Fronteiras de Ferrugem | A prótese de Vasco; Valéria entra em **Modo de Segurança** e não sai |
+| XX | 170–184 | Fronteiras de Ferrugem | A prótese de Vasco; Valéria entra em **Modo de Segurança instável** — o corte cai e volta, com lapsos de afeto, até estabilizar no cap. 220 |
 
 ### Livro 3 — A Prova (caps 185–236)
 

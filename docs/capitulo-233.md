@@ -222,6 +222,30 @@ Ela apertou a capa do livro.
 
 ---
 
+Antes de rodar o caderno, a Elena levou o gravador de bobina até a mesa e sentou a doutora na cadeira de aço.
+
+— Leia outra vez. Do começo. Para a fita.
+
+— Eu já li.
+
+— A senhora leu para quatro pessoas. A fita não cansa e não corrige. — Ela encaixou o carretel, um dos que vinham dentro da caixa da Arca, com a etiqueta da Aeterna virada para dentro. — Isso aqui é a matriz. Se as doze mil cópias sumirem, essa bobina continua existindo.
+
+Levou três horas e quarenta minutos. A doutora leu o livro inteiro sem parar para café, e quando o carretel acabou ela esticou a mão sem pedir nada, e a Elena pôs outro no cabeçote.
+
+No fim, a Elena escreveu na etiqueta com caneta de bico: **LEITURA INTEGRAL — E. VANCE**. Embrulhou a bobina em papel pardo, do jeito que se embrulha coisa de farmácia, e guardou no bolso interno da jaqueta.
+
+— Devia ficar no cofre — falei.
+
+— Cofre é o primeiro lugar que eles abrem, Gabriel.
+
+A doutora ficou olhando o bolso onde a bobina sumiu.
+
+— A senhora não vai perguntar para quê? — perguntei.
+
+— Eu passei sessenta e um anos sabendo para quê. — Ela endireitou a coluna na cadeira. — Só quero que fique registrado que eu li inteiro. Inclusive a última página.
+
+---
+
 À tarde, a Elena rodou o caderno especial.
 
 Dezesseis páginas, doze mil cópias, capa preta. No alto, uma linha só:

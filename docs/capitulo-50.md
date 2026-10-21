@@ -151,7 +151,7 @@ Gabo não gritou.
 
 Ele virou o rosto para o teto de concreto, e ficou olhando as manchas de infiltração, e a chuva continuou batendo no zinco lá em cima, sem parar, sem ritmo, com aquele barulho dentro do qual dá para ouvir alguém chamando.
 
-Pela primeira vez em quarenta e um anos, Gabriel Moretti desejou não ter acordado.
+Pela primeira vez em trinta e cinco anos, Gabriel Moretti desejou não ter acordado.
 
 ---
 

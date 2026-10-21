@@ -7,7 +7,7 @@ Localização: "Canais de Drenagem do Setor 4 → O Fliperama"
 
 <div class="system-log danger">
 AETHERNA SECURITY GRID // NETWORK ALERT <br>
-DATA: 14/11/2089 - 03:42 AM <br>
+DATA: 14/11/2056 - 03:42 AM <br>
 ALVO: VEÍCULO TÁTICO "RINOCERONTE" (ID: 99-ZULU) <br>
 STATUS: SINAL PERDIDO <br>
 ÚLTIMA LOCALIZAÇÃO: CANAIS DE DRENAGEM PLUVIAL - SETOR 4 <br>

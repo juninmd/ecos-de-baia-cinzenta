@@ -15,7 +15,6 @@
 | Capítulo 79: Frequências Fantasmas | 1363 | 1 | 1 | 2 | 2 | 1 | **7** | ✅ publicável | — |
 | Capítulo 83: Raízes | 1393 | 1 | 1 | 2 | 2 | 1 | **7** | ✅ publicável | — |
 | Capítulo 227: O Estagiário | 1496 | 1 | 1 | 2 | 2 | 1 | **7** | ✅ publicável | — |
-| Capítulo 98: A Cidade Silenciosa | 1109 | 2 | 1 | 2 | 2 | 1 | **8** | ✅ publicável | — |
 | Capítulo 125: Ressonância | 1110 | 2 | 1 | 2 | 2 | 1 | **8** | ✅ publicável | — |
 | Capítulo 34: O Julgamento da Rua | 1130 | 2 | 1 | 2 | 2 | 1 | **8** | ✅ publicável | — |
 | Capítulo 108: Ratos de Cais | 1142 | 2 | 1 | 2 | 2 | 1 | **8** | ✅ publicável | — |
@@ -78,7 +77,6 @@
 | Capítulo 118: O Colapso da Onda | 1159 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 204: O Despertar da Ferrugem | 1159 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 13: Shadowban | 1164 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
-| Capítulo 99: O Despertar da Máquina | 1174 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 55: A Tentação de Lázaro | 1175 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 66: Respirar | 1178 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 173: Fronteiras de Ferrugem | 1181 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
@@ -94,7 +92,6 @@
 | Capítulo 202: O Corredor Silencioso | 1197 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 200: O Poço do Abismo | 1198 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 54: Fé e Ferrugem | 1202 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
-| Capítulo 26: A Escolha de Atlas | 1203 | 2 | 1 | 2 | 2 | 2 | **9** | ⭐ obra-prima | — |
 | Capítulo 52: Dívida Eterna | 1210 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 14: Caçada ao Invisível | 1213 | 2 | 1 | 2 | 2 | 2 | **9** | ⭐ obra-prima | — |
 | Capítulo 53: Café, Código e Conspiração | 1213 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
@@ -104,7 +101,6 @@
 | Capítulo 178: O Som do Subterrâneo | 1217 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 16: Zona Morta | 1218 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 5: A Capela dos Esquecidos | 1222 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
-| Capítulo 100: O Ventre da Besta | 1224 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 30: O Preço da Liberdade | 1232 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 121: Fios Desencapados | 1232 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 138: Vernissage | 1232 | 2 | 1 | 2 | 2 | 2 | **9** | ⭐ obra-prima | — |
@@ -117,7 +113,6 @@
 | Capítulo 176: O Peso da Ferrugem | 1253 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 156: Condutores de Cobre | 1254 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 213: O Peso da Maquinaria | 1259 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
-| Capítulo 8: Ressaca Digital | 1260 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 172: O Peso da Chuva | 1260 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 30.5: A Casa Sempre Ganha | 1268 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 177: Cicatrizes de Cobre | 1271 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
@@ -126,10 +121,10 @@
 | Capítulo 38: A Ressaca | 1281 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 163: O Fosso de Aço | 1282 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 109: Frequência Fantasma | 1285 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
-| Capítulo 97: O Último Suspiro | 1301 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 152: O Frio da Lógica | 1307 | 2 | 1 | 2 | 2 | 2 | **9** | ⭐ obra-prima | — |
 | Capítulo 87: O Novo Sacerdócio | 1322 | 2 | 1 | 2 | 2 | 2 | **9** | ⭐ obra-prima | — |
 | Capítulo 111: Arquivos Mortos | 1327 | 2 | 1 | 2 | 2 | 2 | **9** | ⭐ obra-prima | — |
+| Capítulo 96: A Grande Convergência | 1328 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 168: O Peso do Chumbo | 1330 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 7: O Fim do Silêncio | 1332 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 162: Engrenagens Cegas | 1334 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
@@ -139,7 +134,6 @@
 | Capítulo 94: O Coração da Colmeia | 1349 | 1 | 2 | 2 | 2 | 2 | **9** | ⭐ obra-prima | — |
 | Capítulo 11: Filtros de Realidade | 1350 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 160: O Som do Silício Quebrando | 1350 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
-| Capítulo 76: A Sombra do Meio-Dia | 1365 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 75: Horizonte de Eventos | 1369 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 127: Catedrais de Pedra | 1370 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 102: Raízes Amargas | 1371 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
@@ -147,9 +141,12 @@
 | Capítulo 36: O Ninho da Serpente | 1383 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 22: O Mapa da Alma | 1384 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 21: Lar, Doce Inferno | 1392 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
+| Capítulo 98: A Cidade Silenciosa | 1395 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 189: A Sentinela de Biomassa | 1398 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 197: A Gravidade do Lodo | 1401 | 2 | 1 | 2 | 2 | 2 | **9** | ⭐ obra-prima | — |
+| Capítulo 99: O Despertar da Máquina | 1405 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 139: Curadoria | 1414 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
+| Capítulo 8: Ressaca Digital | 1421 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 39: Dossiê Vance | 1431 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 90: O Arquivista | 1441 | 1 | 2 | 2 | 2 | 2 | **9** | ⭐ obra-prima | — |
 | Capítulo 161: Estática e Cinzas | 1445 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
@@ -170,8 +167,11 @@
 | Capítulo 220: A Fita | 1580 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 224: O Preço do Ar | 1581 | 1 | 2 | 2 | 2 | 2 | **9** | ⭐ obra-prima | — |
 | Capítulo 59: A Fundação | 1588 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
+| Capítulo 97: O Último Suspiro | 1588 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
+| Capítulo 70: O Expurgo | 1590 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 232: O Justo | 1591 | 1 | 2 | 2 | 2 | 2 | **9** | ⭐ obra-prima | — |
 | Capítulo 58: O Dilema do Capitão | 1593 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
+| Capítulo 100: O Ventre da Besta | 1599 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 92: A Praga de Ferro | 1605 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 69: O Fantasma no Shell | 1615 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 117: Zero Absoluto | 1621 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
@@ -182,8 +182,6 @@
 | Capítulo 64: A Cidade Fantasma | 1778 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 225: O Charuto na Sala Limpa | 1864 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 18: A Queda | 1908 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
-| Capítulo 70: O Expurgo | 1936 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
-| Capítulo 96: A Grande Convergência | 1952 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 106: Fios Invisíveis | 1957 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 4: A Torre de Marfim | 2248 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
 | Capítulo 60: Despejo | 2254 | 2 | 2 | 2 | 2 | 1 | **9** | ⭐ obra-prima | — |
@@ -197,7 +195,6 @@
 | Capítulo 212: O Batismo de Sangue Congelado | 1135 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 206: Ecos na Escuridão | 1137 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 27: O Filho Sacrifica o Pai | 1163 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
-| Capítulo 48: Fantasma na Máquina | 1180 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 123: Protocolo de Sombra | 1184 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 179: Ecos de Aço e Ferrugem | 1189 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 174: O Açougueiro de Cobre | 1194 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
@@ -225,6 +222,7 @@
 | Capítulo 217: O Útero de Chumbo | 1266 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 149: Filtros de Sangue | 1289 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 45: Protocolo N.O.A. | 1300 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
+| Capítulo 26: A Escolha de Atlas | 1305 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 190: O Relicário de Silício | 1313 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 151: O Paradoxo da Eficiência | 1318 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 104: O Preço da Alvorada | 1353 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
@@ -236,15 +234,17 @@
 | Capítulo 82: O Profeta Mudo | 1481 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 218: O Ar Limpo | 1481 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 154: A Otimização do Abismo | 1571 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
+| Capítulo 76: A Sombra do Meio-Dia | 1584 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 221: Modo de Segurança | 1589 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 56: O Preço do Amanhã | 1590 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 3: Teatro de Carne | 1593 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
+| Capítulo 48: Fantasma na Máquina | 1597 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 231: Catraca | 1643 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
-| Capítulo 235: O Lado B | 1647 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
+| Capítulo 235: O Lado B | 1664 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 226: A Mulher de Fora | 1723 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 28: O Último Suspiro da Torre | 1761 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 155: Ferrugem e Plasma | 1768 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 68: A Caçada Inversa | 1828 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 229: O Homem no Portão | 1839 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
-| Capítulo 233: Ponto Zero | 2041 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
-| Capítulo 234: O Fio Cortado | 2067 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
+| Capítulo 234: O Fio Cortado | 2252 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
+| Capítulo 233: Ponto Zero | 2270 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |

@@ -50,7 +50,7 @@ Ele estava lendo a etiqueta.
 
 Era uma placa de acrílico parafusada na base, com letras em relevo, do tipo que se fazia em máquina de gravar de papelaria em mil novecentos e noventa e alguma coisa.
 
-**SUJEITO 01 — DOAÇÃO VOLUNTÁRIA — 14.03.1994**
+**SUJEITO 01 — DOAÇÃO VOLUNTÁRIA — 14.03.2019**
 
 E, embaixo, em corpo menor:
 
@@ -202,4 +202,4 @@ Quando apagou de vez, ele disse uma coisa que a Val ouviu e nunca repetiu:
 
 E depois tirou o caderno do bolso com os dentes e a mão boa, e escreveu, na linha seguinte da lista:
 
-*Sujeito 01. Nome desconhecido. Indigente, 1994. Autorizado por D. Moretti.*
+*Sujeito 01. Nome desconhecido. Indigente, 2019. Autorizado por D. Moretti.*

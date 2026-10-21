@@ -1,5 +1,34 @@
 # Cronologia e Resumo da Ópera
 
+## 📅 Calendário mestre (decisão editorial)
+
+> Fonte da verdade para idades e anos. Qualquer capítulo novo ou revisão respeita esta tabela.
+> Âncoras: o registro clínico de Dante é de **2041** (cap. 18) e ele desapareceu há **15 anos**;
+> Bia morre **5 anos** antes do presente (linha do tempo abaixo); o Dilúvio é o presente.
+
+| Fato | Ano | Idade |
+|---|---|---|
+| Nascimento de Dante Moretti | 1989 | — |
+| Nascimento de Helena | 2001 | — |
+| Nascimento de Gabriel "Gabo" Moretti | 2021 | 35 no presente |
+| Gabo entra na polícia | 2042 | 21 |
+| Nascimento de Beatriz "Bia" Vargas | 2022 | — |
+| Noivado de Gabo e Bia | 2043 | ele 22, ela 21 |
+| Desaparecimento/morte de Dante | 2041 | 52 |
+| Morte de Bia | 2051 | 29 |
+| Presente da narrativa | **2056** | Dante teria 67 |
+
+**Consequências obrigatórias:**
+- Gabo tem **35 anos** e **14 anos de polícia**. Onde o texto diz "quarenta e um anos", lê-se 35;
+  onde diz "dezoito anos de polícia", lê-se 14.
+- Bia morreu há **5 anos**, não 15. O noivado foi há **13 anos**.
+- Helena tinha **55 anos** quando morreu no Dilúvio.
+- Elena tem **33 anos**.
+- O registro do Sujeito 01 é de **2019** (37 anos antes do presente).
+- Logs e metadados datados usam **2056**.
+- As 59 safras de rubrica do cap. 227 são do arquivo da Aeterna, não da carreira de Krell (50 anos).
+
+
 ## 📜 Resumo da Ópera (Executive Summary)
 
 "Ecos de Baía Cinzenta" narra a descida de **Gabriel "Gabo" Moretti**, um detetive cínico da Divisão de Casos Esquecidos, ao coração podre de uma megalópole onde a chuva nunca para. O que começa como uma investigação policial noir sobre corrupção corporativa (**Aeterna Corp**) evolui para uma luta metafísica pela alma da humanidade.
@@ -184,7 +213,7 @@ A era da reconstrução autoritária.
 
 *   **Capítulo 226 (A Mulher de Fora):** O arquivo de quatro toneladas da Arca Zero chega à superfície de Velha Baía. Elena Moretti retorna após quatro anos fora da cúpula com caminhões, três prensas gráficas e a rede de distribuição clandestina montada para imprimir a prova física dos 61 anos de crimes da Aeterna.
 *   **Capítulos 227-233 (A Impressão e o Ponto Zero):** O grupo imprime doze mil cadernos revelando a rubrica de Viktor Krell em cada admissão forçada e a farsa do experimento longitudinal em que Gabo era o grupo de controle vivo. Anselmo Braga é capturado e eliminado; a confissão de Arthur Vance é lida por Dra. Elara Vance e distribuída em edição especial.
-*   **Capítulo 234 (O Fio Cortado):** Aeterna ativa o Protocolo Crepúsculo na Subestação Orla Norte para incinerar o galpão por micro-ondas térmicas. Elena Moretti se infiltra na subestação com a *Caronte*, solda o transmissor costeiro em regime de sobrecarga para irradiar a verdade em cem mil watts por todo o litoral e desvia a carga do banco de capacitores marítimos para a antena, cegando a rede de vigilância corporativa e sacrificando-se sob fogo de supressão enquanto grava um microcassete.
+*   **Capítulo 234 (O Fio Cortado):** Aeterna ativa o Protocolo Crepúsculo na Subestação Orla Norte para incinerar o galpão por micro-ondas térmicas. Elena Moretti se infiltra na subestação com a *Caronte*, solda o transmissor costeiro em regime de sobrecarga para irradiar a verdade em quarenta quilowatts de onda curta por todo o litoral e desvia a carga do banco de capacitores marítimos para a antena, cegando a rede de vigilância corporativa e sacrificando-se sob fogo de supressão enquanto grava um microcassete.
 *   **Capítulo 235 (O Lado B):** Gabo, Valéria e Elias chegam à subestação em chamas. Encontram o complexo aniquilado e Elena sem vida com a *Caronte* ao lado. Gabo escuta o microcassete analógico: o Lado A traz as chaves de comando de Krell, e o Lado B traz a despedida pessoal de Elena, libertando-o da culpa do 'Grupo de Controle' e entregando o pingente de latão.
 *   **Capítulo 236 (A Terra Vermelha):** Elena Moretti é sepultada ao lado de Duarte atrás do galpão de impressão na lama vermelha de Velha Baía. Valéria experiencia pela primeira vez latência de processamento equivalente ao luto humano; Dra. Vance formaliza o legado da repórter; e Gabo, com o pingente de Elena no peito ao lado do colar de Helena, reassume a máquina de impressão para levar a verdade até o fim, livre da pecha de cobaia.
 

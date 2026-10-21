@@ -89,6 +89,8 @@ Ela tossiu, um som úmido e áspero que fez meu estômago revirar.
 
 — Lado A — ela continuou, recobrando a postura profissional da repórter que nunca errou uma data de arquivo. — A frequência de retorno da chave mestra de Krell é nove-zero-dois ponto quatro. Os códigos de acesso que eu recuperei do terminal de comando provam que ele opera a partir do iate executivo ancorado no Ponto Zero. Está tudo registrado no minidisc dentro da coronha oca da *Caronte*. Leva isso para a Dra. Vance. Ela sabe como decodificar os contratos de concessão.
 
+O disco na coronha. Eu tinha visto aquilo entrar na arma, no galpão, e não tinha perguntado.
+
 O som de metal sendo rasgado ecoou na fita. Uma saraivada de tiros ressoou perto demais do microfone, seguida pelo gemido abafado de Elena quando os projéteis atravessaram seu corpo.
 
 Silêncio por cinco segundos intermináveis. Eu prendi a respiração, temendo que a gravação tivesse acabado ali.

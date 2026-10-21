@@ -124,7 +124,7 @@ Três segundos inteiros, que numa coisa que processa em milissegundos é uma ete
 
 — Isso não é útil.
 
-— **Não é para ser útil!** — Eu gritei, e o grito rasgou alguma coisa dentro do ombro aberto, e o mundo piscou branco nas beiradas. — Não é para ser útil, Valéria! Faz meses que tudo que sai da sua boca é probabilidade e centímetro e porcentagem, e eu aguentei, porque a gente estava vivo e você tinha razão em cada uma das porcentagens, mas eu não desci oitocentos metros nesse buraco para trazer uma **calculadora** para a superfície!
+— **Não é para ser útil!** — Eu gritei, e o grito rasgou alguma coisa dentro do ombro aberto, e o mundo piscou branco nas beiradas. — Não é para ser útil, Valéria! Faz dias que tudo que sai da sua boca é probabilidade e centímetro e porcentagem, e eu aguentei, porque a gente estava vivo e você tinha razão em cada uma das porcentagens, mas eu não desci oitocentos metros nesse buraco para trazer uma **calculadora** para a superfície!
 
 O eco morreu rápido naquela sala. Paredes boas absorvem tudo.
 
@@ -140,7 +140,7 @@ E eu entendi o que ela estava me pedindo.
 
 Não era permissão para continuar máquina. Era permissão para **não ter escolhido** continuar máquina. Ela queria que a culpa fosse minha, para que o pedaço dela que ainda existe em algum lugar debaixo daquele protocolo não tivesse que carregar a lembrança de ter recusado voltar a sentir.
 
-Era a coisa mais humana que ela tinha feito em meses, e ela nem podia saber disso.
+Era a coisa mais humana que ela tinha feito em dias, e ela nem podia saber disso.
 
 Levantei da mesa. O joelho protestou. Segurei na bancada com a garra industrial, que arranhou o aço e deixou quatro sulcos.
 

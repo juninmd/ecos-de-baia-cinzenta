@@ -1,6 +1,6 @@
 ---
 title: "Capítulo 129: Fluxo Reverso"
-date: "2078-11-04"
+date: "2056-11-04"
 location: "Estação de Bombeamento Bio-Mecânica (Nível 5)"
 Personagens Presentes: Gabo, Valéria, Aria (Glitch Bia Vargas), Rangel (Inconsciente)
 Localização: "Estação de Reciclagem de Fluido Neural 04 (Nível 5)"
@@ -20,7 +20,7 @@ Gabo ignorou o fantasma no fone. Ele se virou para Valéria. A hacker estava ajo
 
 — Val, relatório — ele grunhiu, içando Rangel para uma posição mais segura. O inspetor estava febril, murmurando sobre arquivos perdidos e carimbos sem tinta.
 
-— Estou quase cega, Gabo — Valéria respondeu, a voz tensa. Ela bateu no painel com a mão enluvada. — A interferência eletromagnética aqui embaixo é brutal. O *deck* não acha rede sem fio, só consigo usar a Aria por cabo direto ou leitura óptica. Estou tendo que ler ponteiros físicos. Ponteiros! Quem projeta uma estação de bombeamento com agulhas de pressão em 2078?
+— Estou quase cega, Gabo — Valéria respondeu, a voz tensa. Ela bateu no painel com a mão enluvada. — A interferência eletromagnética aqui embaixo é brutal. O *deck* não acha rede sem fio, só consigo usar a Aria por cabo direto ou leitura óptica. Estou tendo que ler ponteiros físicos. Ponteiros! Quem projeta uma estação de bombeamento com agulhas de pressão em 2056?
 
 — Alguém que não queria ser hackeado — Gabo disse, observando o ambiente.
 

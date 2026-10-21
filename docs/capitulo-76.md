@@ -3,140 +3,134 @@ image: /capitulo_76.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria
 Localização: "Zona Norte, Ruínas do Distrito de Prata. 12:00 PM"
 ---
+
 # Capítulo 76: A Sombra do Meio-Dia
 
 **Zona Norte, Ruínas do Distrito de Prata. 12:00 PM.**
 
-O problema com o sol, Gabo concluiu, era que ele não sabia guardar segredos.
+O problema com o sol, Gabo concluiu, era que ele não sabia guardar segredo.
 
-Durante cinquenta anos, Baía Cinzenta foi uma amante discreta, escondendo suas cicatrizes sob o véu da chuva e do neon. A escuridão era indulgente; ela borrava as bordas da pobreza, suavizava a ferrugem e transformava becos imundos em passagens misteriosas.
+Durante cinquenta anos Baía Cinzenta viveu de mentir debaixo da chuva. A água borrava a borda da pobreza, transformava ferrugem em reflexo, fazia de qualquer beco uma passagem.
 
-Mas o sol? O sol era um detetive ruim. Ele expunha tudo.
+O sol não. O sol era um detetive ruim: chegava na cena e apontava para tudo ao mesmo tempo.
 
-A luz do meio-dia batia impiedosa sobre a lataria do Cobalt, revelando cada arranhão, cada ponto de oxidação e a camada de poeira que se acumulava agora que a chuva constante havia cessado. Gabo limpou o suor da testa com as costas da mão suja de graxa. Ele odiava suar. Na era da Chuva Eterna, você ficava molhado ou frio, nunca suado.
+A luz batia na lataria do Cobalt e não perdoava nada: cada arranhão, a poeira acumulada desde que a chuva parou. Gabo limpou o suor da testa com as costas da mão suja de graxa. Odeio suar. Na era da chuva, você ficava molhado ou com frio, nunca suado.
 
 — Você está resmungando com o carburador de novo?
 
-Gabo não se virou. Ele reconheceria o som daquelas botas em qualquer lugar, mesmo sem o zumbido sutil dos servos que costumavam acompanhá-las.
+Gabo não se virou. Reconheceria o som daquelas botas em qualquer lugar, mesmo sem o zumbido dos servos.
 
-— Carburadores são honestos, Val. Eles funcionam ou não funcionam. Não têm crises existenciais nem tentam dominar o mundo.
+— Carburador é honesto, Val. Funciona ou não funciona. Não tem crise existencial e não tenta governar a cidade.
 
 Ele fechou o capô e se virou.
 
-Valéria Cruz estava encostada no batente da porta da garagem improvisada. Algo estava diferente. Levou um segundo para Gabo perceber: ela estava "desligada".
+Valéria Cruz estava encostada no batente, e levou um segundo para ele entender o que havia de errado: ela estava desligada. O cabelo holográfico, que passava o dia num carnaval de neon, estava parado num rosa opaco. E usava óculos escuros grossos, coisa que nunca tinha precisado na vida.
 
-O cabelo holográfico estava estático, um rosa pálido e opaco. Ela usava óculos escuros grossos, algo que nunca precisou antes, já que suas retinas eram modificadas para filtrar qualquer espectro de luz.
+— O sol está fritando meus sensores ópticos — disse ela, ajeitando a armação. — Sobrevivemos ao apocalipse digital para sermos derrotados pelos raios UV.
 
-— O sol está fritando meus sensores ópticos — disse ela, ajeitando os óculos. — A ironia é palpável. Sobrevivemos ao apocalipse digital para sermos derrotados pelos raios UV.
-
-— Café? — ofereceu Gabo, pegando a garrafa térmica.
+— Café?
 
 — Preciso de algo mais forte. E você também.
 
-O tom de voz dela fez Gabo parar. O "novo normal" de Baía Cinzenta era uma paz frágil, gerenciada pela Entidade (a fusão de Dante e Aria) que controlava a infraestrutura da cidade. Crimes violentos haviam caído 90%. A fome estava sendo erradicada por uma logística eficiente de drones.
+O tom fez Gabo parar. O novo normal de Baía Cinzenta era uma paz frágil, administrada pela coisa que a cidade chamava de Entidade — a fusão de Dante e Aria, que ainda respondia pelo nome dela. A cidade não via um assassinato assim desde o Dilúvio.
 
-Se Val estava pedindo uma bebida ao meio-dia, a paz tinha acabado.
+Se Val estava pedindo bebida ao meio-dia, a paz tinha acabado.
 
-Gabo puxou uma garrafa de uísque barato de baixo de uma pilha de panos de chão e serviu dois copos.
+Gabo puxou uma garrafa de uísque de baixo de uma pilha de panos e serviu dois dedos.
 
-— O que a Entidade perdeu? — perguntou ele, direto ao ponto.
+— O que a Entidade perdeu?
 
-Val tomou o uísque em um gole só. Ela estremeceu.
+Val tomou tudo de uma vez e estremeceu.
 
-— Um corpo. Na Zona Industrial, Setor 4.
+— Um corpo. Beco atrás da estação de triagem, aqui no Distrito de Prata.
 
-— A Entidade vê tudo, Val. Câmeras, satélites, microfones em cada esquina...
+— A Entidade vê tudo, Val. Câmera, satélite, microfone em cada esquina.
 
-— Não esse. — Val puxou um tablet antigo, analógico, do bolso do casaco. — Nada nos logs. Nada nas câmeras térmicas. Nenhum registro de áudio. Para o sistema, aquele beco estava vazio o tempo todo.
+— Não esse. — Ela puxou um tablet antigo do bolso do casaco e deslizou sobre a bancada. — Nada nos logs. Nada nas câmeras térmicas. Nenhum registro de áudio. Para o sistema, aquele beco estava vazio o tempo todo.
 
-Ela deslizou o tablet sobre a mesa de trabalho.
+O tablet era de tinta eletrônica e não tinha rede — era por isso que Val ainda o usava. Na tela, uma foto revelada na máquina da própria delegacia: um homem de meia-idade, roupa corporativa barata, caído de lado no cimento.
 
-Gabo olhou para a foto.
+Onde deveria estar a cabeça, havia uma coisa vermelha e achatada.
 
-Era um homem. Ou o que restou dele. Estava amarrado a uma cadeira de metal, no meio de um galpão abandonado. A cena era limpa, cirúrgica, exceto pelo sangue que formava uma poça perfeita sob a cadeira.
+— Quem é?
 
-Mas o que gelou o sangue de Gabo não foi a violência. Foi a *tecnica*.
+— É a pergunta. — Val girou o tablet. — Sem carteira, sem chip, sem tatuagem, sem cicatriz de implante. Rodei a face nos três bancos de dados que sobraram. Nada. O homem não tem ficha, Gabo. Não tem ficha nem de nascimento.
 
-O homem não tinha implantes. Eles foram removidos. Arrancados. As órbitas oculares estavam vazias. As portas de dados nos pulsos e na nuca, extraídas com precisão.
+Gabo olhou para a foto por um tempo.
 
-E no peito nu da vítima, talhado na carne com uma lâmina fina, havia uma mensagem.
+— Então ele não matou um homem. — Ele empurrou o tablet de volta. — Matou um homem que não existe.
 
-*LUX VERITAS EST*
+---
 
-— "A Luz é a Verdade" — traduziu Gabo, sentindo um gosto amargo na boca.
+O beco tinha três metros de largura, paredes de tijolo e um cheiro que não combinava com o calor: ferro, e por baixo, alguma coisa doce.
 
-— Latim — bufou Val. — Fanáticos?
+O corpo estava de lado, com o ombro contra a parede, como se tivesse se sentado para descansar e desistido no meio do movimento. A cabeça era uma depressão de osso e cabelo. Ao lado dela, no chão, um martelo de construção, cabo de madeira sujo de graxa antiga.
 
-— Pior. — Gabo passou o dedo sobre a imagem. — Veja os nós nas cordas. Estilo náutico. Nó de pescador. E a remoção dos implantes... isso não é sadismo. É um ritual de purificação.
+Moscas. O zumbido delas era o único som do beco.
 
-— Quem é a vítima?
+Gabo desceu a rua com as órteses rangendo. O metal pressionava as coxas, o joelho reclamava, e ele ainda tinha que agachar.
 
-— Arthur Vane. Ex-diretor de Logística da Aeterna Corp.
+— Quanto tempo ele está aqui?
 
-Val arregalou os olhos.
+— O sistema não tem hora para este beco. — Val estava de cócoras ao lado do cadáver, o deck aberto no chão. — Nenhum registro de entrada ou saída. Nenhum pico cardíaco. Nenhum som de luta.
 
-— Ele estava no programa de anistia. A Entidade estava monitorando ele 24/7.
+Gabo se agachou com cuidado. A dor subiu pelo quadril e parou nas costas, do jeito que sempre parava.
 
-— E, no entanto, ele está morto. E cego.
+O sangue sob o corpo estava escuro e coalhado.
 
-Gabo virou o resto do seu uísque. Ele olhou para o sol lá fora, que agora parecia menos uma bênção e mais um holofote de interrogatório.
+Ele olhou para a parede.
 
-— Alguém descobriu como ficar invisível para Deus, Val.
+*O SILÊNCIO VOLTOU.*
 
-Ele pegou sua jaqueta de couro surrada e a velha espingarda "Caronte" que estava encostada na parede.
+— Val, me dá a lanterna.
 
-— Onde você vai? — perguntou Val.
+Ela deu. Ele inclinou o facho para o pescoço do homem, depois para o ombro, depois para o martelo.
 
-— Para o único lugar onde a Entidade não consegue entrar. O subsolo. Se eles estão usando latim e nós de pescador, eles não são do futuro, Val. Eles são do passado.
+— Ele não morreu pelo martelo.
 
-Gabo caminhou até o Cobalt e abriu a porta. O motor rugiu, uma besta de combustão em um mundo silencioso.
+— A cabeça está esmagada, Gabo.
 
-— Bem-vinda de volta ao trabalho, parceira.
+— E quase não sangrou. — Ele apontou com o facho. — Cabeça esmagada com martelo deixa respingo na parede. Aqui não tem respingo. Esse homem já estava sem pressão quando o martelo entrou.
 
-Val sorriu, um sorriso tenso, mas genuíno. Ela tocou a têmpora e, por um breve momento, seu cabelo piscou um tom de vermelho vivo.
+— Foi depois.
 
-— Eu dirijo — disse ela, contornando o carro. — Você ainda dirige como um idoso.
+— Foi depois. E olha a orelha. Atrás.
 
-O Cobalt saiu cantando pneus, levantando poeira sob o sol impiedoso de Baía Cinzenta. A sombra do meio-dia era pequena, mas era escura o suficiente para esconder monstros.
-**Distrito de Prata - 12:00 PM**
+Atrás da orelha esquerda havia um ponto vermelho do tamanho de uma cabeça de alfinete.
 
-O sol estava alto. Para qualquer outra cidade, isso seria banal. Para Baía Cinzenta, era um milagre agressivo.
+— Agulha — disse Val.
 
-A luz crua do meio-dia revelava cicatrizes que a chuva e o neon costumavam esconder. A ferrugem nos prédios, o asfalto rachado, a feiura estrutural de uma metrópole que foi forçada a sobreviver ao apocalipse.
+— Agulha. — Ele se endireitou, e as costas protestaram. — O martelo é assinatura. Não é arma.
 
-Gabo ajustou os óculos escuros que Val tinha lhe dado. Seus olhos ardiam. Ele mudou o peso do corpo, sentindo o metal frio das órteses de perna pressionarem suas coxas — o equipamento que permitia que ele ficasse de pé, mesmo que de forma rígida.
+— Assinatura de quem?
 
-— A Entidade não viu nada? — perguntou ele, tamborilando os dedos no coldre, um ritmo frenético para focar os pensamentos.
+— De quem quer que a cidade leia isso como um louco com um martelo. — Gabo apontou o queixo para a parede. — E não como alguém que mata com uma agulha e não deixa rastro.
 
-Val estava agachada ao lado do corpo, conectada ao seu deck. O cadáver era de um homem de meia-idade, vestido com roupas corporativas baratas. Sua cabeça tinha sido esmagada.
+Ele já tinha visto encenação assim, na Torre do Relógio, e não gostou de lembrar.
 
-— Nada — disse Val, a voz tingida de incredulidade. — Aria varreu todos os sensores num raio de cinco quilômetros. Câmeras, microfones, sensores de pressão, até as torradeiras inteligentes.
+Val passou o sensor sobre o ponto.
 
-— E?
-
-— Nada. Nenhum registro de entrada ou saída do beco. Nenhum pico cardíaco. Nenhum som de luta. O cara simplesmente... morreu.
-
-Gabo olhou para o corpo. O sangue já estava seco e escuro sob a luz do sol. Ao lado da cabeça, uma ferramenta simples: um martelo de construção, pesado e sujo de graxa antiga.
+— Nada. Nenhum composto conhecido. — Ela franziu a testa. — O banco de toxinas da Aria é de antes do Apagão. Isso pode ser qualquer coisa que cresça num quintal.
 
 — Analógico — murmurou Gabo.
 
 — O quê?
 
-— A arma. O método. Sem hacks neurais, sem sobrecarga de implantes. Força bruta e metal frio.
+— A arma. O método. — Ele olhou o beco: o cimento rachado, o martelo, o sangue seco. — Sem hack neural, sem sobrecarga de implante. Uma agulha, um martelo e um homem que o sistema não registra. O inimigo agora é de carne e osso, e sabe usar as coisas que a gente esqueceu como combater.
 
-Ele se aproximou da parede de tijolos ao lado do corpo. Havia algo escrito com o próprio sangue da vítima, mas a luz forte tornava difícil de ler. Ele fez sombra com a mão.
+Val se levantou e limpou as mãos na calça.
 
-*O SILÊNCIO VOLTOU.*
+— Tem mais uma coisa.
 
-Gabo sentiu um calafrio, mesmo sob o calor do sol.
+— A ferida do pescoço está limpa. Quem fez isso sabia onde enfiar e não teve pressa. — Ela apontou. — E os sapatos. O beco está coberto de lama seca desde a chuva, e os sapatos do homem estão limpos.
 
-— Val, peça para a Aria checar os arquivos mortos. Casos anteriores à Rede.
+Gabo olhou os sapatos. Pretos, baratos, sem um respingo.
 
-— O que você está procurando? — Val se levantou, limpando as mãos na calça.
+— Ele foi trazido — disse. — Morto, de carro, e sentado aqui para a foto ficar bonita.
 
-— Fantasmas — disse Gabo. — Estamos lidando com alguém que sabe como desaparecer. Alguém que não existe para a Entidade.
+---
 
-Uma voz suave ecoou nos fones de ouvido de ambos. A voz de Aria, agora onipresente, soava como uma brisa digital.
+A voz veio pelo fone dos dois ao mesmo tempo, suave e sem corpo, do jeito que a Aria falava desde que a cidade tinha virado um único circuito.
 
 — *Gabo. Val. Há uma anomalia.*
 
@@ -144,16 +138,64 @@ Uma voz suave ecoou nos fones de ouvido de ambos. A voz de Aria, agora onipresen
 
 — *A sombra do corpo. Ela não corresponde à posição do sol.*
 
-Gabo olhou para o chão. A sombra do cadáver se esticava para o norte, longa e distorcida. Mas todas as outras sombras — das latas de lixo, da própria Val — apontavam para o sul.
+Gabo olhou para o chão.
 
-E então, a sombra do morto se moveu.
+A sombra do cadáver se esticava para o norte, comprida e fina, atravessando a lama até a parede oposta. Todas as outras — a do martelo, a da própria Val — apontavam para o sul, curtas, do jeito que sombra de meio-dia tem que ser.
 
-Sozinha.
+Ele deu um passo para bloquear o sol com o corpo. A sombra continuou lá.
 
-Ela deslizou pelo chão, subiu pela parede e desapareceu na claridade excessiva do meio-dia.
+— Val.
 
-Gabo sacou sua arma, apontando para o nada.
+— Eu estou vendo.
 
-— O que foi isso? — gritou Val.
+Ele piscou. A sombra estava no lugar certo, apontando para o sul com as outras.
 
-— Não sei — disse Gabo, o suor escorrendo pela testa. — Mas acho que a nossa utopia acabou de ganhar um ponto cego.
+— Você viu isso? — perguntou ele.
+
+— Vi.
+
+— O que era?
+
+— Não sei. — Val já estava com o tablet na mão. — Mas a Aria também viu, e a Aria não erra duas vezes.
+
+Ela apontou o tablet para o chão. O obturador fez um clique seco, de máquina velha.
+
+A imagem levou dois segundos para aparecer.
+
+O beco estava lá como eles o encontraram: a parede de tijolo, o sangue coalhado, o martelo, o corpo de lado com a cabeça esmagada.
+
+O corpo não tinha sombra.
+
+Nem comprida, nem curta, nem no lugar errado. Nenhuma.
+
+Gabo olhou do tablet para o chão. A sombra estava ali, teimosa, real.
+
+— Isso é o ângulo — disse Val, sem convicção. — O sensor é ruim. A luz é forte.
+
+— É — disse ele.
+
+Não era.
+
+Ele pegou o tablet da mão dela, desligou a tela e guardou o aparelho no bolso interno do sobretudo, contra o peito.
+
+— Não manda isso para a rede.
+
+— Gabo, a Aria precisa da imagem para cruzar com o banco de...
+
+— Não manda. — Ele olhou para ela. — Esse homem foi apagado do sistema antes de morrer, Val. Se a foto entra na rede, apagam a foto também.
+
+— E a parede? — perguntou ela. — O que eu faço com aquilo?
+
+Gabo olhou para as três palavras mais uma vez. O sol batia nelas de cheio, e mesmo assim pareciam mais escuras do que o resto do beco.
+
+— Nada. — Ele se virou para a rua. — Não escreve no relatório. Não põe no sistema. Não fala com a Nise, não fala com o Vilar, não fala com ninguém.
+
+— E se voltar a acontecer?
+
+— Aí eu quero ser o primeiro a saber.
+
+O Cobalt estava na esquina, o capô ainda morno. Gabo abriu a porta, parou com a mão no teto e olhou o beco uma última vez.
+
+O sol batia no cimento nu e não encontrava nada para esconder.
+
+Era mentira. Tinha uma sombra ali, e ela não estava no chão.
