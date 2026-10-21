@@ -19,7 +19,7 @@ E o ar... o ar era aquecido e filtrado.
 
 Dava para sentir na primeira inspiração profunda: aquela ausência total de cheiro, uma pureza artificial e estéril que só existia onde corporações com bolsos fundos pagavam fortunas para mantê-la. Os termômetros embutidos nas colunas marcavam vinte e um graus Celsius.
 
-Vinte e um graus positivos, a menos de quarenta metros de um túnel que congelava a carne a quatro graus negativos.
+Vinte e um graus positivos, a menos de quarenta metros de um túnel que congelava a carne a quinze graus negativos.
 
 Elias deu três passos hesitantes pelo piso polido, piscando os olhos sob a luz verde e soltando o ar em um suspiro trêmulo de puro alívio.
 
@@ -35,7 +35,7 @@ Valéria não perdeu tempo com o espanto estético. Caminhou em passos rápidos 
 
 — Interface física arcaica, padrão serial da década de setenta, — murmurou ela, tirando um adaptador de pinos dourados da bolsa do cyberdeck e engatando na porta de diagnóstico com um clique limpo. — Deixa eu ver o que esse silêncio todo tá escondendo.
 
-Sentei-me no chão ao lado de uma coluna de dados, esticando a perna esquerda para que a órtese emperrada pudesse esfriar. O ombro direito latejava no compasso do meu coração; a tração na válvula externa na subida anterior quase arrebentara as pinos que Vasco instalara para conter a fratura. Meus músculos estavam sangrando sob as bandagens sujas, manchando a sarja do casaco, mas o calor limpo da sala ajudava a relaxar a musculatura retesada pelo frio de amônia. As cicatrizes do Dilúvio formigavam, um mapa sensorial de todas as vezes em que Baía Cinzenta tentara me matar.
+Sentei-me no chão ao lado de uma coluna de dados, esticando a perna esquerda para que a órtese emperrada pudesse esfriar. O ombro direito latejava no compasso do meu coração; a tração na válvula externa na subida anterior quase arrebentara os pinos que Vasco instalara para conter a fratura. Meus músculos estavam sangrando sob as bandagens sujas, manchando a sarja do casaco, mas o calor limpo da sala ajudava a relaxar a musculatura retesada pelo frio de amônia. As cicatrizes do Dilúvio formigavam, um mapa sensorial de todas as vezes em que Baía Cinzenta tentara me matar.
 
 — O que você tá achando aí dentro, Val? — perguntei, observando as linhas de código que desciam em cascatas luminosas pelas ópticas dos olhos prateados dela.
 
