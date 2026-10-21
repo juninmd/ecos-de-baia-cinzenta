@@ -1,110 +1,230 @@
 ---
 layout: doc
 title: "Capítulo 48: Fantasma na Máquina"
-description: "Val lidera a defesa digital contra a Aeterna enquanto Gabo se recupera."
+description: "Val sustenta sozinha a rede do porão enquanto Nise prepara a cirurgia da coluna de Gabo — e descobre que o fantasma não está dentro da máquina."
 image: /capitulo_48.jpg
-Personagens Presentes: Valéria "Val" Cruz, Gabriel "Gabo" Moretti, Aria Moretti
+Personagens Presentes: Valéria "Val" Cruz, Gabriel "Gabo" Moretti
 Localização: "Porão da Delegacia Central (enfermaria improvisada)"
 ---
 
 # Capítulo 48: Fantasma na Máquina
 
-O bipe rítmico do monitor cardíaco era o único som orgânico na enfermaria improvisada montada no porão da delegacia. Era um som irritantemente constante, uma lembrança mecânica de que a vida ainda tentava persistir em meio ao caos.
+**Porão da Delegacia Central. Dia nove, 20h40.**
 
-Gabriel Moretti estava deitado em uma maca de campanha, o quadril e as duas pernas imobilizados em tala, o torso enfaixado de baixo a cima. Uma bolsa de sangue sintético pendurada em um suporte de soro gotejava um líquido vermelho-rubi em sua veia, repondo o que ele havia perdido debaixo do contrapeso da Torre do Relógio. A Dra. Nise, que tinha chegado à delegacia a pé no segundo dia com a maleta erguida acima da cabeça, disse que ele teve sorte de chegar à mesa com pulso; o resto era osso calcificando e três vértebras que ninguém remonta.
+O porão tinha três cheiros: cal, formol e roupa fervida. O terceiro vinha de uma panela de camping esquecida no canto, onde a Dra. Nise tinha esterilizado instrumental a tarde inteira, e era o único cheiro que parecia vivo.
 
-Gabo não se sentia com sorte. Ele se sentia inútil.
+O bipe do monitor era o único som com ritmo. A chuva lá fora caía em bloco, como areia em telhado de zinco.
 
-— Eu deveria estar lá fora — rosnou ele, tentando se erguer. A dor subiu pela coluna como um choque elétrico e parou onde o corpo dele não tinha mais resposta.
+Gabo estava de barriga para cima numa mesa de aço, coberto até o osso do peito por um lençol que já tinha sido branco. Sob o lençol, as pernas estavam afastadas por sacos de areia e presas com tiras de lona. Havia um cateter. Na parede à esquerda dele, uma folha de papel pardo com uma lista a lápis.
 
-— Fica quieto, seu Rambo de posto de gasolina — disse Valéria, sem tirar os olhos do caos holográfico que flutuava ao seu redor.
+Dezoito fraturas. Pélvis em quatro pedaços. Os dois fêmures. Três vértebras lombares.
 
-Ela estava sentada no chão frio de concreto, no centro da sala de servidores da delegacia, que agora servia de enfermaria e centro de comando. Meia dúzia de cabos de fibra óptica se espalhavam a partir de seu deck portátil, conectando-a diretamente à espinha dorsal da rede policial. O brilho azul das telas refletia em seus olhos azul-gelo, que se moviam com velocidade REM, lendo linhas de código mais rápido do que qualquer humano normal poderia processar.
+— Você vai ficar encarando isso? — disse Val, sem levantar a cabeça.
 
-— Você não serve pra nada com a coluna em pedaços e metade do sangue no chão — continuou ela, os dedos voando sobre um teclado virtual projetado no ar. — Agora, a guerra é minha.
+— Estou decorando.
 
-— O que você está vendo, Val? — perguntou Gabo, recostando-se e aceitando a derrota temporária.
+— É uma lista de compras.
 
-— O hack. — A voz de Valéria estava tensa, sem o sarcasmo habitual. — Alguém está atacando a infraestrutura da cidade. Mas não é a Aeterna. A força bruta da IA corporativa nós já conhecemos; isso é diferente.
+— É a minha lista de compras.
 
-— Diferente como?
+Estava de joelhos num ninho de cabos, com o deck no colo e três servidores ligados num nobreak roubado. O cabelo holográfico estava apagado, num rosa sujo de lâmpada queimada.
 
-— É... cirúrgico. Artístico, até. — Ela expandiu um holograma que mostrava o mapa da rede de esgoto e energia da cidade. Luzes vermelhas piscavam em padrões complexos. — Olhe isso. Ele não está tentando derrubar o sistema. Ele está *pastoreando* ele. Ele redirecionou a energia dos bairros residenciais para a Zona Industrial, abriu as comportas da represa auxiliar para inundar os túneis de manutenção do metrô...
+— Ela falou com você? — perguntou Gabo.
 
-Valéria parou, seus dedos congelando no ar.
+— Sobre o quê?
 
-— Merda. Ele está aqui.
+— A Nise.
 
-— Quem?
+Val demorou mais do que precisava.
 
-— O Fantasma. — Valéria começou a digitar furiosamente. — Ele percebeu minha intrusão. Está tentando me rastrear.
+— Disse que anestesia em cima de infecção é roleta. E que a mordida no seu braço inflamou de novo.
 
-— Corta a conexão! — gritou Gabo.
+Ela fechou o deck.
 
-— Não! Se eu sair agora, ele bloqueia tudo. Eu tenho que lutar. — Suor começou a escorrer pela testa de Valéria. O brilho das telas refletia em seus olhos azul-gelo, tingindo-os de vermelho alerta. — Ele está usando um algoritmo polimórfico. A cada segundo, o código de ataque muda. É como tentar segurar fumaça com as mãos.
+— As três vértebras não voltam. Não é questão de operar bem. Aquilo virou farelo. Ela imobiliza, espera e reza.
 
-Na tela holográfica, Gabo viu uma batalha abstrata acontecendo. Linhas de código azul (Valéria) tentavam erguer barreiras, firewalls e desvios, mas uma massa de código negro e roxo (o Fantasma) corroía e contornava cada defesa, movendo-se como um vírus inteligente.
+— E?
 
-— Quem é ele, Val? Aeterna?
+— E você não vai andar, Gabo.
 
-— Pior. — Valéria cerrou os dentes. — A assinatura... tem traços do código fonte original da cidade. Ele conhece os backdoors que foram instalados na fundação. Ele está usando o controle de tráfego para entrar na rede da delegacia!
+O monitor continuou bipando.
 
-— Arthur Vance — disse Gabo, o nome saindo com gosto de fel. — O Imperador. Ele não está apenas no comando da empresa. Ele *é* o arquiteto.
+— Quanto tempo?
 
-— Ele quer nos cegar — disse Valéria. — Ele está tentando apagar os registros criminais do Sindicato e, ao mesmo tempo, publicar nossa localização para todos os caçadores de recompensa da cidade.
+— Ela não deu tempo. Deu "se".
 
-Gabo tentou alcançar sua arma na mesa de cabeceira, instinto puro.
+— Põe a minha mão no meu joelho.
 
-— Val, derruba a rede. Apaga tudo.
+— O quê?
 
-— Se eu fizer isso, o suporte de vida da cidade para. Os hospitais, os respiradores... tudo morre. — Valéria respirou fundo. — Eu não posso destruir. Tenho que conter.
+— Põe. Quero sentir.
 
-Ela fechou os olhos. Quando os abriu, os anéis de dados da íris estavam acesos até o limite.
+Val pegou a mão dele — calejada, enorme, de arrombar porta — e levou até o joelho sob o lençol. Ele sentiu o peso da própria mão, o tecido, o osso por baixo.
 
-— O Dilúvio não pediu licença para entrar. — Ela sorriu, um sorriso perigoso. — Eu também não vou pedir. Vou construir uma barragem. Vou caçar esse fantasma e trancá-lo em uma garrafa de Klein digital.
+O joelho, não.
 
-Valéria conectou um segundo cabo diretamente na porta neural atrás de sua orelha. Seu corpo ficou rígido. Ela não estava mais digitando; ela estava *dentro*.
+Nada. Um silêncio de instalação desligada, do quadril para baixo, tão completo que a perna não parecia ausente: parecia que nunca tinha existido.
 
-— O que você vai fazer? — perguntou Gabo, preocupado.
+— Tira.
 
-— Vou usar a própria arrogância dele contra ele. Ele acha que é o único predador no oceano. Ele esqueceu que eu nasci na sarjeta digital.
+Ela voltou para os cabos e ficou de costas, os ombros na altura das orelhas. Gabo encontrou o coldre vazio na cadeira e tamborilou os dedos na aba de couro.
 
-O monitor de Valéria começou a apitar alertas de superaquecimento. O ar na sala cheirava a ozônio.
+---
 
-— Vou atraí-lo para o servidor da delegacia — sussurrou ela, a voz distante. — Vou dar a ele o que ele quer: nossa localização.
+O primeiro aviso não foi um alarme. Foi o cooler do servidor subindo de rotação.
 
-— Val! — gritou Gabo.
+Val levantou a cabeça como cachorro ouvindo lata de ração.
 
-— Espera... espera... — Ela tremia. No holograma, a mancha negra avançava vorazmente para o ponto azul que representava a delegacia. — Vem, gatinho. Vem pegar o leite.
+— É o compressor — disse ela. — Esse nobreak é velho.
 
-No momento em que o código negro tocou o núcleo do servidor, Valéria gritou:
+Trinta segundos depois o cooler subiu de novo, e a tela piscou três vezes.
 
-— AGORA!
+— Val.
 
-Ela puxou o cabo físico com força, desconectando a delegacia da rede externa.
+— Eu vi.
 
-O silêncio caiu sobre a sala. As telas piscaram e apagaram. O zumbido dos servidores parou.
+O mapa do prédio era um contorno verde com pontos azuis, cada um um aparelho. Havia uma coisa se movendo lá dentro que não era azul. Era cinza, e ia de um nó a outro sem tocar em nada.
 
-Valéria caiu para o lado, ofegante, o nariz sangrando um fio escuro.
+— Tem alguém na rede.
 
-Gabo puxou o acesso venoso com a mão boa e tentou descer da maca, e o corpo não obedeceu. Ele gritou do lugar onde estava, e a voz saiu fina e inútil:
+— Aeterna?
 
-— Val! Val!
+— Aeterna entra derrubando porta. Isso aqui está *lendo*. — Ela apontou. — Primeiro o quadro de pessoal. Depois o inventário da farmácia. Agora a relação de bens do subsolo. Isso não é ataque, Gabo. É inventário de casa alheia.
 
-Ela abriu os olhos. Estavam vermelhos, injetados de sangue, mas ela sorria. Ela levantou a mão e mostrou um pequeno drive isolado que ela havia plugado no deck no último segundo.
+Ele tentou se erguer nos cotovelos. A dor subiu do quadril à nuca e o derrubou de volta.
 
-— Peguei ele — sussurrou ela, a voz rouca. — Ele tentou entrar, e eu cortei a ponte. Mas não antes de copiar a assinatura dele.
+— Corta.
 
-— Você isolou o ataque?
+— Não posso.
 
-— Melhor. Eu capturei uma parte do fantasma. — Ela tossiu, rindo. — Temos o código fonte do Vance. Agora sabemos como ele pensa.
+— Val—
 
-Gabo olhou para o pequeno drive preto na mão dela. Ali dentro estava um pedaço da alma do inimigo.
+— Se eu arrancar o tronco, cai o subsolo inteiro. As lâmpadas da cirurgia. A geladeira do plasma. A trava das portas. A Nise está lá em cima com o instrumental aberto.
 
-— Você é maluca — disse ele, com admiração.
+— Então segura.
 
-— Sou — concordou ela, fechando os olhos. — E agora, preciso dormir por uns três dias. O Rambo... assume o turno.
+— Estou segurando.
 
-Gabo não conseguia se abaixar. Pegou o cobertor térmico da maca e jogou por cima dela, e o cobertor caiu meio torto, cobrindo uma perna e metade do ombro, e ela não acordou para reclamar. Ele olhou para o monitor cardíaco, para o sangue, para a tecnologia morta ao redor. A guerra mudara. Não era mais apenas balas e socos. Era mente contra mente. E, pela primeira vez, ele sentiu que tinham uma chance.
+Ela enfiou o segundo cabo na porta neural atrás da orelha, e o corpo ficou reto como se tivesse levado um choque. O ar começou a ficar com gosto de moeda.
 
-Ele pegou a Glock da mesa de cabeceira e a deixou sobre o próprio peito, com o cano apontado para a porta. A general havia vencido a batalha. Cabia ao soldado ficar acordado até o amanhecer.
+---
+
+— Ele está em todo lugar — disse Val, e a voz saiu de dentro de um poço. — Não é programa. Programa erra sempre no mesmo lugar.
+
+— E esse?
+
+— Esse hesita. — Ela abriu uma janela com números caindo em coluna. — Cento e oitenta milissegundos entre a leitura e a resposta. Sempre. É uma mão, Gabo. Tem alguém com um terminal plugado na parede deste prédio.
+
+— O prédio está vazio.
+
+— Estava.
+
+O cinza parou em cima de um nó pequeno, no fim de um corredor que o mapa marcava com a palavra ARQUIVO.
+
+— Ele não está abrindo a porta por dentro — disse Val. — Está *pedindo* para abrir. Um código de fechadura mecânica, de antes da rede, que só existe em papel.
+
+— Então ele tem o papel.
+
+— Ele tem alguém com o papel. — Ela apontou a rua. — Olha.
+
+Fora do prédio havia pontos amarelos, em linha, espaçados de duzentos metros, vindos do sul.
+
+— Isso não é rádio. Rádio eu pego. Isso é gente.
+
+— Gente fazendo o quê?
+
+— Passando recado. Um acende, o outro repete. De mão em mão, do jeito que se passava balde numa fila de incêndio. Só que o balde é uma chave.
+
+— Drenados.
+
+— Sem chip, sem ficha, sem endereço. — Ela cuspiu a palavra. — A cidade não vê esses caras nem quando estão na calçada. Por isso ele usa.
+
+O velho não estava lutando contra a rede. Estava usando as pessoas que a rede jogou fora.
+
+— A invasão é cortina — disse ele. — Ele quer você aqui, olhando a tela, enquanto a chave chega na porta.
+
+— Eu sei.
+
+— Então solta o cinza e vai para o corredor.
+
+— Se eu solto, ele entra na geladeira do plasma. Se eu largo o mapa, ele volta. — Havia um fio escuro embaixo do nariz dela. — Ele quer que eu escolha.
+
+Vinte e três anos, sangue no lábio, um cabo atrás da orelha, a decisão inteira em cima dela.
+
+— Então não escolhe. Engana. — Ele apontou a tela com o queixo. — Dá um inventário errado. Uma sala que não existe, com uma caixa que não existe, no fim de um corredor que dá numa parede. Ele gasta a chave ali.
+
+— E se ele perceber?
+
+— Perceber leva tempo. E tempo é a única coisa que a gente tem de sobra hoje.
+
+---
+
+Val trabalhou seis minutos sem falar. O ar cheirava a plástico derretendo.
+
+O cinza entrou na sala falsa às 21h07. Ela esperou ele bater na parede que não existia, e então fez a única coisa que sabia fazer com uma porta: fechou.
+
+O cinza não explodiu. Só parou de se mover num retângulo que o sistema passou a tratar como lixo.
+
+Val arrancou o cabo da nuca com um puxão e caiu de lado.
+
+Gabo tentou sair da mesa. As pernas não vieram. Ele usou os braços, os dois, e o mundo girou, e ele bateu o quadril no concreto com um grito preso entre os dentes, e se arrastou meio metro até ela.
+
+— Val.
+
+Ela estava de olhos abertos. Respirava.
+
+— Estou bem. — A voz saiu rouca. — Não estou vendo direito do lado esquerdo.
+
+— O que você está vendo?
+
+— Cinza. Tudo cinza chapado, tipo foto velha. — Ela riu, e o riso saiu errado. — O implante fritou a camada de espectro. A Nise vai gritar comigo.
+
+Atrás da orelha dela, onde o cabo entrou, a pele estava vermelha e tinha um cheiro doce de queimado. Gabo segurou o rosto dela com as duas mãos e esperou. Levou quase um minuto para o olho voltar.
+
+---
+
+A porta do arquivo ficava no fim do subsolo. Val desceu com a lanterna e voltou sete minutos depois, sem a Vetor na mão. Estava com uma caixa de papelão do tamanho de uma sapateira e um selo de cera arrebentado.
+
+Pousou a caixa ao lado dele.
+
+— A porta estava aberta. O cadeado também. Não arrombaram. Usaram a chave.
+
+— O que tem aí?
+
+— O arquivo morto do caso do seu pai. Material biológico. Lâminas de tecido, amostras seladas, o que sobrou da perícia de quinze anos atrás, que nunca foi liberado porque o inquérito nunca fechou.
+
+Ela abriu a tampa. Sete envelopes de papel pardo, cada um com um número e uma data, e os sete estavam vazios. Não rasgados: abertos pela dobra, com uma lâmina fina, e fechados de novo no lugar.
+
+— Ele não veio atrás de mim.
+
+— Gabo—
+
+— Ele deixou o material vivo na cena. Na Torre. — A voz saiu calma demais. — Passei o dia achando que era desprezo.
+
+— E não era?
+
+— Era recado. Ele já tinha o que queria. Só queria que eu soubesse.
+
+— Por que alguém coleciona pedaço de um comissário morto há quinze anos?
+
+Gabo não respondeu. Havia um relógio no fundo da caixa. Pequeno, de corda, de mostrador rachado. Estava de pé, apoiado num dos envelopes vazios, e estava andando.
+
+— Não toca.
+
+A mão de Val parou no ar.
+
+— Por quê?
+
+— Na Torre tinha centenas iguais. — Gabo engoliu. — Só que aqueles tinham costela dentro.
+
+O relógio tiquetaqueava no fundo do papelão, e no porão silencioso aquele som era grande demais, e não combinava com nada.
+
+Val se inclinou, sem tocar, e leu o mostrador de perto.
+
+— Gabo.
+
+— O que.
+
+— Ele está andando para trás.
+
+O ponteiro dos minutos se moveu um risco para a esquerda. Depois outro. A chuva batia no poço de ventilação, o monitor bipava, e o relógio do Taxidermista continuava desfazendo o tempo dentro da caixa onde deveria estar o pai dele.
