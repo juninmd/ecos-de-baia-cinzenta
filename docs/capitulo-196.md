@@ -19,7 +19,7 @@ Os letreiros ainda vendiam. Crédito, seguro, confiança. Anunciavam para um sal
 
 Elias rolou para fora do duto logo atrás de nós, caindo de joelhos no piso cimentício, tossindo e engasgando como se tivesse engolido cinza fria. Ele ergueu os olhos amarelados para os neons crepitantes e soltou um suspiro trêmulo de alívio.
 
-— As catacumbas do Distrito Comercial... — o velho murmurou, passando a mão encardida no rosto manchado de graxa. — Nós conseguimos cruzar a fronteira subterrânea. Aquele fogo do Nível B não passa pelas comportas de chumbo. Estamos a salvo da fornalha.
+— As catacumbas do Distrito Comercial... — Elias murmurou, passando a mão encardida no rosto manchado de graxa. — Nós conseguimos cruzar a fronteira subterrânea. Aquele fogo do Nível B não passa pelas comportas de chumbo. Estamos a salvo da fornalha.
 
 — A salvo de virar churrasco, talvez — Valéria aterrissou na plataforma com passos leves e elásticos, ajustando a alça do cyberdeck nas costas com um movimento fluido. Ela ergueu a lanterna tática, varrendo o salão colossal com os olhos prateados atentos. Os filamentos de LED azul na franja curta dela pulsavam num ritmo constante e sereno. — Mas 'salvo' é uma palavra que não existe no dicionário dessa cidade, Elias. Olha pra aquela galeria de escoamento ali na frente.
 
@@ -29,7 +29,7 @@ Cortando o centro do salão de concreto, um canal de drenagem pluvial de quatro 
 
 — O Jardim... — Elias recuou dois passos, o pânico voltando a estalar em sua voz esganiçada. — Ele nos seguiu pelo duto?!
 
-— Não viaja, vovô — Valéria caminhou até a margem do canal, agachando-se com a sonda de teste em punho sem encostar na matéria orgânica. — Essas raízes têm pelo menos três semanas de crescimento. Olha a grossura dos nós e a calcificação em volta dos eletrodos de terra. A praga do Silas Vance não começou na estufa ontem. Ela já tinha se espalhado por cada canal de esgoto da cidade enquanto a gente ainda tava lutando contra o Sentinel no Arquivo.
+— Não viaja, mecânico — Valéria caminhou até a margem do canal, agachando-se com a sonda de teste em punho sem encostar na matéria orgânica. — Essas raízes têm pelo menos três semanas de crescimento. Olha a grossura dos nós e a calcificação em volta dos eletrodos de terra. A praga do Silas Vance não começou na estufa ontem. Ela já tinha se espalhado por cada canal de esgoto da cidade enquanto a gente ainda tava lutando contra o Sentinel no Arquivo.
 
 Perto da margem, alguém tinha montado acampamento. Quatro carrinhos de supermercado amarrados com arame formavam uma parede baixa, e atrás deles havia cobertores apodrecidos, latas vazias e uma fogueira que já era só mancha de fuligem no cimento. Na parede, escrito com giz de obra, um risco e um número: três.
 
@@ -43,7 +43,7 @@ Valéria cravou a ponta de prova num terminal de telemetria fixado num pilar ao 
 
 — As raízes tão drenando corrente dos cabos subterrâneos dos bancos — ela ergueu a cabeça, os traços jovens endurecidos pela constatação tática. — A rede biológica tá usando a energia residual dos geradores dos prédios comerciais lá em cima pra manter a pulsação viva. Se o sinal tá correndo pra oeste, tem uma estrutura de comando intermediária perto do entroncamento ferroviário.
 
-— Onde fica o elevador de carga industrial, Elias? — perguntei, virando-me para o velho técnico.
+— Onde fica o elevador de carga industrial, Elias? — perguntei, virando-me para Elias.
 
 Elias apontou o dedo trêmulo para a galeria escura que se abria ao longo do canal, onde a iluminação dos neons agonizantes perdia a força contra as sombras absolutas.
 
@@ -51,14 +51,14 @@ Elias apontou o dedo trêmulo para a galeria escura que se abria ao longo do can
 
 — Oitocentos metros em linha reta acompanhando esse canal cheio de raízes — Valéria guardou a sonda e checou o carregador da pistola com um clique seco. — Um passeio no parque, considerando que a gente acabou de escalar uma chaminé em chamas.
 
-— Mantém a lanterna baixa, Val — avisei, ajeitando o sobretudo sobre a coronha de *Caronte*. — A bioluminescência dessas trepadeiras reage a pulso eletromagnético e luz direta. A gente se move pelas passarelas laterais de serviço, onde o concreto tá seco.
+— Mantém a lanterna baixa, Val — avisei, ajeitando o sobretudo sobre a coronha de *Caronte*. — A bioluminescência dessas trepadeiras reage a pulso eletromagnético e luz direta. A gente se move pelas passarelas laterais de serviço, onde o lodo é mais raso.
 
 — E se a gente topar com alguma daquelas carcaças reanimadas no caminho? — Elias perguntou, engolindo em seco, os nós dos dedos brancos de tanto apertar a chave sônica no peito.
 
-Valéria olhou para o velho com aquele meio-sorriso cínico e destemido que sempre desarmava o desespero:
+Valéria olhou para Elias com aquele meio-sorriso cínico e destemido que sempre desarmava o desespero:
 
 — Se topar com zumbi corporativo, Elias, você se abaixa e deixa o Moretti e a escopeta dele explicarem a política de demissão sem justa causa da Aeterna Corp. Vamos andar logo antes que os transformadores lá em cima apaguem de vez.
 
-Contei os cartuchos no bolso do sobretudo enquanto andava. Faziam um barulho de dentes batendo. Não era muito, e dali em diante cada um ia ter que justificar a própria existência.
+Contei os cartuchos no bolso do sobretudo enquanto andava. Faziam um barulho de dentes batendo. Não era muito, e dali em diante cada um ia ter que justificar a própria existência. A mão esquerda ainda formigava onde a fita apertara demais; abri e fechei os dedos até o sangue voltar.
 
 Avançamos pela passarela elevada ao lado do canal, o eco ritmado dos nossos passos e o chiado mecânico da minha armação marcando a cadência firme da nossa marcha através das catacumbas esquecidas do Setor 6.
