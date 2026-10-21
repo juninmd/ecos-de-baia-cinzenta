@@ -108,7 +108,9 @@ Elena olhou para ela.
 
 Gabo olhou para os rostos nos monitores. Os "Invisíveis" que ele jurou proteger. Ele não podia deixá-los ali, presos como borboletas em um vidro de âmbar digital.
 
-— A liberdade nunca é de graça — disse Gabo, a voz firme como aço. — Valéria... quebre as correntes.
+O homem do bigode ralo recomeçou a lista de compras. *Dois quilos de arroz.* Parou no meio, como quem esqueceu, e recomeçou do começo. Gabo ouviu até o fim. Depois ouviu de novo.
+
+— A liberdade nunca é de graça — disse ele, e a voz saiu firme como aço, e mais devagar do que ele queria. — Valéria... quebre as correntes.
 
 Valéria fechou os olhos por um instante, aceitando a terrível ordem. Ela começou a digitar.
 
