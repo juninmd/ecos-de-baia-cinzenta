@@ -83,7 +83,7 @@ Gabo se virou.
 
 — Convidados?
 
-— O Profeta Mudo e mais uns setenta. — Ela olhou para os dois. — Eles não estão atacando. Estão sentados em volta das três saídas do túnel. Sem armas. Sem fazer nada.
+— Um Profeta novo e mais uns setenta. — Ela olhou para os dois. — Eles não estão atacando. Estão sentados em volta das três saídas do túnel. Sem armas. Sem fazer nada.
 
 — Esperando o quê?
 
