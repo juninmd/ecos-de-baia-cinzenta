@@ -109,7 +109,7 @@ Ele impulsionou Valéria. Ela se agarrou na borda da rachadura e se içou para f
 
 Gabo prendeu a respiração, sentindo o gás queimar seus olhos. Ele saltou, agarrando a mão de Valéria. Ela era forte, seus servos musculares zumbindo com o esforço enquanto o puxava para o ar fresco da noite.
 
-O ombro dele cedeu no meio do salto. Alguma coisa deslocou para um lugar onde não devia estar, e por um segundo o braço não respondeu — só existiu como dor, um objeto quente pendurado no ombro.
+O ombro dele cedeu no meio do salto. A dor subiu pelo pescoço e o braço não respondeu por um segundo — só existiu como dor, um objeto quente pendurado no ombro.
 
 Eles caíram na lama do lado de fora, tossindo.
 
@@ -117,7 +117,7 @@ Eles caíram na lama do lado de fora, tossindo.
 
 — Por enquanto — disse Gabo, olhando para o distintivo em sua mão. Ele o apertou com força, o metal frio uma âncora para sua nova e terrível clareza. — Não existe mais família.
 
-— Deixa eu ver. — Valéria já estava com a lanterna no ombro dele, os dedos rápidos e frios. — Não está fora do lugar. Está só revoltado.
+— Deixa eu ver. — Valéria já estava com a lanterna no ombro dele, os dedos rápidos e frios. — Fora do lugar, e sem nada aqui para recolocar. — Ela apertou dois dedos na junta e ele viu branco. — Quando inchar, você vai me odiar. Aproveite agora.
 
 — Isso é diagnóstico?
 
@@ -131,4 +131,4 @@ Valéria segurou o pulso dele antes do primeiro passo.
 
 — Primeiro, a gente pega o Leviatã no seu carro. Sem armamento pesado, a gente não passa nem do primeiro bloqueio.
 
-Gabo concordou com um aceno curto. A guerra final podia esperar alguns minutos; morrer desarmado não era heroísmo, era burrice.
+Gabo concordou com um aceno curto. Guardou o distintivo do pai no bolso interno, apertou o Colar de Sol sob a camisa e saiu da cripta sem olhar para trás.
