@@ -51,7 +51,7 @@ Havia uma pilha de roupa rasgada e suja de óleo num canto da sala fria, e dentr
 
 Havia uma mesa, e em cima da mesa um homem aberto.
 
-— A pressão está caindo! — A Dra. Nise falava alto porque o gerador tinha entrado no modo de economia e a bomba estava fazendo barulho. Ela estava com as duas mãos dentro do quadril de Gabriel Moretti, procurando um sangramento que ela sabia que existia e não conseguia ver. — Ele chegou aqui com menos da metade do volume e agora está perdendo o que sobrou. Os ossos da pelve estão em frangalhos, tem esquirla em todo lugar e eu não tenho contraste, não tenho tomógrafo, não tenho sangue tipado e não tenho **luz** suficiente!
+— A pressão está caindo! — A Dra. Nise falava alto porque o gerador tinha entrado no modo de economia e a bomba estava fazendo barulho. Ela estava com as duas mãos dentro do quadril de Gabriel Moretti, procurando um sangramento que ela sabia que existia e não conseguia ver. — Ele chegou aqui com menos da metade do volume. Os ossos da pelve estão em frangalhos, tem esquirla em todo lugar e eu não tenho contraste, não tenho tomógrafo, não tenho sangue tipado e não tenho **luz** suficiente!
 
 — Salva ele — disse Val, encostada na parede, branca. — Não importa como. Usa metal, usa peça, usa o que for. Só não deixa ele morrer.
 
@@ -73,17 +73,15 @@ Helena Moretti parou de respirar às 16h50 do dia doze.
 
 Não foi dramático. As pessoas imaginam que existe um instante. Não existe: existe uma respiração e depois um intervalo maior que os outros, e a gente espera a próxima, e é nessa espera que a coisa acontece — o luto começa dentro de um segundo em que ainda dá para ter esperança.
 
-O quarto cheirava a acetona. O corpo queimando a própria gordura porque não tinha mais insulina para queimar, e Clara ia reconhecer aquele cheiro pelo resto da vida, em lugares onde ele não tinha nada que estar.
-
 Clara ficou paralisada por um tempo que ela não soube medir.
 
 Depois se levantou e fez tudo o que precisava ser feito, porque o luto em Baía Cinzenta é um item de luxo e a morte é um problema de logística.
 
-Fechou os olhos da mãe. Trocou a camisola por um vestido azul, o bom, porque com quarenta e oito horas de calor e sem geladeira ela sabia o que ia acontecer com o corpo e não queria que fosse com a camisola. Amarrou o queixo com uma faixa de gaze. Escreveu num pedaço de papel: **HELENA MARIA MORETTI, 55**, e prendeu no pulso dela com fita, do jeito que a Dra. Nise ensinava a todo mundo desde o dia dois.
+Fechou os olhos da mãe. Trocou a camisola por um vestido azul, o bom, porque com quarenta e oito horas de calor e sem geladeira ela sabia o que ia acontecer com o corpo e não queria que fosse com a camisola. Amarrou o queixo com uma faixa de gaze. Escreveu num pedaço de papel: **HELENA MARIA MORETTI, 61**, e prendeu no pulso dela com fita, do jeito que a Dra. Nise ensinava a todo mundo desde o dia dois.
 
 E, no fim, tirou o colar do pescoço da mãe.
 
-Era uma peça pequena e sem valor nenhum de mercado: um sol de latão, do tamanho de uma moeda, com os raios tortos porque foi feito à mão por um homem que não era ourives. Dante deu de presente em cinquenta e quatro, no primeiro salário de comissário, e Helena usou por trinta e quatro anos, inclusive nos onze em que não falou o nome dele.
+Era uma peça pequena e sem valor nenhum de mercado: um sol de latão, do tamanho de uma moeda, com os raios tortos porque foi feito à mão por um homem que não era ourives. Dante deu de presente em setenta e nove, no primeiro salário de comissário, e Helena usou por trinta e quatro anos, inclusive nos onze em que não falou o nome dele.
 
 Clara segurou aquilo no punho fechado por um tempo bem longo, sentada na beira da cama.
 
@@ -153,7 +151,7 @@ Gabo não gritou.
 
 Ele virou o rosto para o teto de concreto, e ficou olhando as manchas de infiltração, e a chuva continuou batendo no zinco lá em cima, sem parar, sem ritmo, com aquele barulho dentro do qual dá para ouvir alguém chamando.
 
-Pela primeira vez em trinta anos, Gabriel Moretti desejou não ter acordado.
+Pela primeira vez em trinta e cinco anos, Gabriel Moretti desejou não ter acordado.
 
 ---
 
