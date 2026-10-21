@@ -21,7 +21,7 @@ Elena abriu o dossiê no colo, e o papel soltou aquele cheiro de arquivo — mof
 
 — Vai levar a culpa, se alguém for procurar. — Ela alisou a página com o polegar, um gesto de quem se acusa. — Foi ele que decidiu me deixar entrar. Eu só não disse não.
 
-— Isso não faz sentido — murmurou Gabo, esfregando o rosto com as mãos. Ele sentia o cheiro de ozônio e medo que impregnava suas roupas. — Meu pai morreu. Eu vi o caixão fechado. O Capitão Vilar assinou o atestado.
+— Isso não faz sentido — murmurou Gabo, esfregando o rosto com as mãos. Ele sentia o cheiro de ozônio e medo que impregnava suas roupas. — Meu pai morreu. Eu vi o caixão fechado e assinei o atestado com a minha letra.
 
 — O caixão estava fechado por um motivo, Gabo — disse Elena, sua voz suave, mas firme. Ela virou uma página. Era um diagrama médico. Complexo. Grotesco. — Olhe isso.
 
@@ -31,13 +31,11 @@ Mostrava o crânio de Dante aberto, o córtex frontal fatiado e entrelaçado com
 
 — É uma lobotomia — sussurrou Gabo, sentindo a bile subir. — Eles não o conectaram. Eles o escavaram. Tiraram a humanidade com um bisturi laser e encheram o buraco com código.
 
-— "Projeto Lázaro: Fase Terminal" — leu Valéria, seus olhos de prata correndo pelas linhas de código projetadas no ar. — Data de início: três dias antes da "morte" do Comissário.
-
-— Eles não o mataram — disse Elena. — Eles o colheram.
+— "Projeto Lázaro: Fase Terminal" — leu Valéria, seus olhos azul-gelo correndo pelas linhas de código projetadas no ar. — Data de início: três dias antes da "morte" do Comissário.
 
 — Eles não o mataram — disse Elena, sua voz um fio de aço. — Eles o colheram. A Colheita de Dante.
 
-Gabo olhou para o diagrama. O cérebro flutuando em seu casulo de vidro, os cabos penetrando o tecido neural como vermes tecnológicos. A bile subiu por sua garganta, quente e ácida. Não era apenas a imagem. Era o cheiro fantasma de antisséptico e carne que sua mente conjurou, o som imaginário de uma serra de osso. Ele se curvou para o lado, abrindo a porta do Cobalt com um solavanco, e vomitou violentamente na calçada encharcada de chuva. Não foi apenas o jantar da noite anterior; foi uma convulsão profunda, um espasmo de todo o seu ser, como se seu corpo estivesse tentando expulsar a própria verdade. O gosto de metal e podridão encheu sua boca. Ele cuspiu, limpando os lábios com as costas da mão trêmula, e voltou para o carro, batendo a porta. O som ecoou o vazio que se abriu em seu peito.
+Gabo olhou para o diagrama. O cérebro flutuando em seu casulo de vidro, os cabos penetrando o tecido neural como vermes tecnológicos. A bile subiu, quente e ácida. Não era a imagem: era o cheiro fantasma de antisséptico e carne que sua mente conjurou, o som imaginário de uma serra de osso. Ele abriu a porta do Cobalt com um solavanco e vomitou na calçada encharcada. O gosto de metal e podridão ficou na boca. Ele cuspiu, limpou os lábios com as costas da mão trêmula e voltou para o carro, batendo a porta.
 
 — Continue — ordenou ele, a voz um rosnado áspero, quebrado.
 
