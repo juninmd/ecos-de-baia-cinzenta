@@ -35,13 +35,13 @@ O homem era pequeno, esquelético, vestindo um macacão de manutenção da infra
 
 Valéria deu um passo calmo para o lado, a ponta da pistola apontando discretamente para o chão, com uma sobrancelha arqueada sob a franja azul.
 
-— Uma chave sônica com a bobina de retorno invertida? — a voz dela soou afiada, carregada de ironia técnica. — Truque esperto, vovô. Pena que se você descarregar esse capacitor na água da sarjeta, a corrente volta pelo cabo terra da sua bota e frita o seu próprio coração antes de arranhar meu cyberdeck. Abaixa essa sucata.
+— Uma chave sônica com a bobina de retorno invertida? — a voz dela soou afiada, carregada de ironia técnica. — Truque esperto, mecânico. Pena que se você descarregar esse capacitor na água da sarjeta, a corrente volta pelo cabo terra da sua bota e frita o seu próprio coração antes de arranhar meu cyberdeck. Abaixa essa sucata.
 
 O homem piscou os olhos duas vezes, olhando da pistola de Valéria para a minha armação industrial de vinte quilos, que ainda fumegava com o calor residual do incêndio no data-center.
 
 — Vocês... vocês não têm olhos vermelhos — ele gaguejou, a ferramenta baixando alguns centímetros na mão ossuda. — Vocês não tão cheios daquelas raízes nojentas na garganta...
 
-— Se a gente tivesse raízes na garganta, você já teria virado adubo há dois minutos — retruquei, a voz rouca arranhando o ar frio. — Eu sou Gabriel Moretti. A garota é Valéria Cruz. Nós acabamos de explodir o núcleo térmico do Jardim lá embaixo. A rede do Silas Vance acabou de virar carvão no poço de ventilação.
+— Se a gente tivesse raízes na garganta, você já teria virado adubo há dois minutos — retruquei, a voz rouca arranhando o ar frio. — Eu sou Gabriel Moretti. A garota é Valéria Cruz. Nós acabamos de explodir o núcleo térmico do Jardim lá embaixo. O Setor 7 acabou de virar carvão no poço de ventilação.
 
 O homem arregalou os olhos num choque absoluto.
 
@@ -52,6 +52,8 @@ O homem arregalou os olhos num choque absoluto.
 O sujeito soltou o ar num longo suspiro trêmulo, passando a manga suja pelo nariz escorrendo.
 
 — Elias... Elias Duarte. Eu era técnico da Divisão de Drenagem e Esgotos antes da Aeterna fechar as comportas no Dilúvio. Fiquei preso nessa subestação quando as máquinas começaram a acordar com carne humana dentro.
+
+Virei o ouvido direito para ele. O esquerdo ainda apitava desde o estouro no Arquivo, e o que chegava por ali vinha embaixo de um zumbido.
 
 — Você tá sozinho aqui há quanto tempo, Elias? — perguntei, observando as latas de ração vazias empilhadas no canto do abrigo.
 
@@ -67,7 +69,7 @@ Valéria me olhou, os olhos prateados brilhando com uma satisfação tática evi
 
 — O Hub do Setor 6... É exatamente a rota limpa que a gente tava procurando pra contornar o colapso da superfície, Gabo.
 
-— O duto tá desimpedido, Elias? — perguntei ao velho técnico.
+— O duto tá desimpedido, Elias? — perguntei ao técnico.
 
 — Desimpedido não é a palavra, detetive — Elias deu um sorriso desdentado e amarelo, coçando a barba encardida. — Tem uma válvula de alívio emperrada no meio do caminho que pesa quase meia tonelada de ferro fundido. Eu nunca tive força pra abrir sozinho. Mas olhando pra essa marreta de aço que você tem no ombro... acho que a gente tem uma chance de passar.
 
