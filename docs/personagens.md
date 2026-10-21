@@ -66,7 +66,7 @@ A obra tinha cinco figuras disputando o posto de vilão principal, e isso diluí
 | **Dante Moretti** | Pai ausente / Fantasma operante | Toda a trama vem de uma decisão dele. Existe mais como consequência do que como presença. | Consciência liberada; corpo sintético |
 | **Elias** | O Civil / Régua humana | Reage como uma pessoa normal reagiria. Sem ele, o leitor perde a medida de quanto os outros dois já se afastaram de gente. | Vivo, na superfície |
 | **Dra. Elara Vance** | A Auditora / Antagonista intelectual | Argumenta o indefensável com lógica boa demais para ser descartada. Nunca deve perder um debate por burrice. | Viva, cadeira de rodas |
-| **Arthur Vance** | O fundador obsoleto | Mostra que estar certo sobre o colapso não é o mesmo que entender por quê. É o arquiteto do prédio; Krell é o autor do crime. | Desperto (cap. 45) |
+| **Arthur Vance** | O fundador obsoleto | Mostra que estar certo sobre o colapso não é o mesmo que entender por quê. É o arquiteto do prédio; Krell é o autor do crime. | **Morto no cap. 233 (impacto orbital; corpo não recuperado)** |
 | **Anselmo Braga** | **⚔️ NÊMESE PESSOAL** | A única ameaça de vida e morte fora da lore corporativa. Cobra o preço do método de Gabo — e obriga o protagonista a matar um homem rendido para parar a matança. | Ativo (arco 229+) |
 | **Viktor Krell** | **⭐ VILÃO MÁXIMO** | O estagiário do jurídico que digitalizou contratos de cemitério, entendeu o negócio melhor que os cinco donos e transformou um problema de espaço em jazigo numa operação municipal de mineração de mentes. Foi ele quem arrancou o cérebro de Dante. Todos os outros antagonistas são degraus, ferramentas ou vítimas dele. | Ativo |
 | **O Gamemaster** | Antagonista das Partes III-V | Transforma a perseguição em espetáculo. Suas falhas são o pai preso gritando de dentro. | Deletado (cap. 31) |
@@ -753,7 +753,7 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 
 ### ⚔️ Vance × Krell — por que os dois não competem
 
-O Capítulo 48 tem Gabo dizendo *"Arthur Vance — o Imperador. Ele não está apenas no comando da empresa. Ele **é** o arquiteto."* Isso **não contradiz** Krell como vilão máximo: é a crença que Gabo tem no Capítulo 48, e ela é corrigida 170 capítulos depois, quando o arquivo da Arca Zero mostra a rubrica.
+A crença de Gabo de que Arthur Vance é "o Imperador" aparece no arco do Jardim e é corrigida 170 capítulos depois, quando o arquivo da Arca Zero mostra a rubrica: o arquiteto do prédio não é o autor do crime.
 
 *   **Arthur Vance é o arquiteto do prédio.** Fundou a empresa de cuidado perpétuo, escreveu o Protocolo N.O.A., construiu a Arca e o exército. Pensava em território, ordem e obediência.
 *   **Viktor Krell é o autor do crime.** Entrou como estagiário do jurídico na empresa de Vance, leu os contratos que ninguém mandou ler, e descobriu dentro do negócio de Vance um produto que Vance nunca viu — a mente do cliente. Não precisou de exército nenhum.
