@@ -11,7 +11,7 @@
 
 A passarela rangia sob os pés de Gabo como os ossos de um gigante doente. Cada passo era uma aposta contra o colapso estrutural, uma roleta russa jogada sobre um mar de ácido industrial e biomassa liquefeita que exalava odores insuportáveis.
 
-Rangel estava mais pesado. Não fisicamente, mas a ausência de tensão muscular em seu corpo tornava cada movimento seu um peso morto gravitacional, pendendo do ombro de Gabo e do apoio exausto de Valéria do outro lado. O chiado irregular de sua respiração se misturava ao som denso do fluido borbulhando lá embaixo, um ronronar rítmico de estômago metálico faminto.
+Rangel estava mais pesado. Não fisicamente, mas a ausência de tensão muscular em seu corpo tornava cada movimento seu um peso morto gravitacional, pendendo do ombro de Gabo e do apoio exausto de Valéria do outro lado. O chiado irregular de sua respiração se misturava ao som denso do fluido borbulhando lá embaixo, um ronronar rítmico de caldeira fervendo.
 
 — Mais rápido — ofegou Gabo. Sua própria voz soava abafada, distante.
 
@@ -71,4 +71,4 @@ Gabo olhou para o corpo imóvel de Rangel, o rosto pálido e manchado, os olhos 
 
 — Ele não é lixo. — Gabo forçou-se a ficar de pé. — E nós não somos máquinas. A gente lembra dos nossos.
 
-Mas Gabo sabia, assim que as palavras saíram, que o corpo de Rangel ficaria ali. O Setor de Purga não oferecia lápides, apenas tanques vazios e esquecimento. A Noite Eterna tinha cobrado mais um.
+Mas Gabo sabia, assim que as palavras saíram, que o corpo de Rangel ficaria ali. O Setor de Purga não oferecia lápides, apenas tanques vazios e esquecimento.
