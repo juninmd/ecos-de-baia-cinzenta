@@ -1,4 +1,7 @@
 ---
+layout: doc
+title: "Capítulo 100: O Ventre da Besta"
+description: "Quatro meses de cadernos levam Elena e Gabo a uma catedral de tanques sob a Zona Sul, onde o que sobrou da Colmeia ainda cumpre a última ordem."
 image: /capitulo_100.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti
 Localização: "Zona de Exclusão Sul - Antiga Linha Vermelha do Metrô"
@@ -7,23 +10,49 @@ Localização: "Zona de Exclusão Sul - Antiga Linha Vermelha do Metrô"
 
 **Zona de Exclusão Sul - Antiga Linha Vermelha do Metrô**
 
-O Cobalt azul-metálico cortava a neblina como uma lâmina cega. O motor tossia, engasgando com a gasolina de baixa octanagem que Gabo conseguira comprar no mercado negro trocando três caixas de antibióticos.
+A garagem do prédio cheirava a óleo velho, mofo e poeira de concreto. Gabo acendeu o lampião, encostou a bengala na bancada e ligou o rádio de onda curta.
 
-Ele não fumava — na verdade, detestava o cheiro, uma herança maldita do pai —, mas seus dedos tamborilavam no volante em um ritmo frenético, um tique nervoso para manter a mente alerta. Ao seu lado, no banco do passageiro, o cubo preto repousava, silencioso e inerte, como uma bomba esperando o detonador.
+O aparelho era da delegacia. Vilar tinha emprestado com a condição de que ele não ligasse.
+
+Ele girou o dial até a faixa morta, que ninguém usava desde o Grande Silêncio, e chamou o nome dela duas vezes. Sem código. Do jeito que se chama alguém em casa.
+
+O chiado mudou. Não virou voz. Virou ritmo.
+
+*"...protocolo... reiniciado... busca... sinal..."*
+
+Gabo já tinha ouvido aquilo na Zona Morta. Agora vinha pelo canal que acabara de abrir.
+
+A válvula final ficou branca por dois segundos, soltou um estalo de verniz queimado e morreu. Cinco quilos de radiofrequência que a cidade não fabricava mais viraram peso morto.
+
+— ...Gabo?
+
+Era ela, do outro lado de uma linha que não existia mais. No bolso do sobretudo, o cubo ainda estava quente.
+
+— Jardim das Flores — disse Elena, antes que ele abrisse a boca. — Duas horas. Traga o cubo. Não traga mais ninguém.
+
+A linha morreu num estalo. O rádio estava morto havia um minuto.
+
+Duas horas depois, o Cobalt azul-metálico cortava a neblina como uma lâmina cega. O motor tossia com a gasolina de baixa octanagem que Gabo comprara no mercado negro trocando três caixas de antibióticos.
+
+Ele não fumava — detestava o cheiro, herança maldita do pai —, mas os dedos tamborilavam no volante num ritmo frenético, um tique para manter a mente alerta. Ao seu lado, no banco do passageiro, o cubo preto repousava, silencioso e inerte, como uma bomba esperando o detonador.
 
 Gabo parou o carro diante da entrada lacrada da estação "Jardim das Flores". O nome era uma piada cruel de um urbanista morto há décadas; não havia flores ali, apenas concreto, pichações e o cheiro acre de enxofre.
 
-Ele desligou o motor e ficou um instante parado, ouvindo. A cidade em cima fazia o barulho de sempre: água na calha, gerador, um cachorro latindo para nada. Aqui embaixo havia outro som, fino e constante, que ele levou alguns segundos para reconhecer. Ventilação. Uma coluna de ar subindo por um duto que não devia estar funcionando havia meses, e subindo com força, como pulmão de gente grande.
+Ele desligou o motor e ficou parado, ouvindo. A cidade em cima fazia o barulho de sempre: água na calha, gerador, um cachorro latindo para nada. Aqui embaixo havia outro som, fino e constante. Ventilação. Uma coluna de ar subindo por um duto que não devia estar funcionando havia meses, e subindo com força, como pulmão de gente grande.
 
 Ele desceu do carro, ajustando as cintas das órteses nas pernas. O *clique-clique* metálico das travas acompanhou seus passos até a grade.
 
 — Você demorou — disse uma voz vinda das sombras da bilheteria.
 
-Elena Moretti saiu da escuridão. Ela não parecia mais a jornalista idealista que tentara salvar o legado do irmão. Seu cabelo estava curto, cortado irregularmente com faca. Ela vestia um casaco militar grande demais e botas pesadas cobertas de lama seca. Em suas mãos, uma espingarda de cano serrado.
+Elena Moretti saiu das sombras com a escopeta apoiada no ombro e a jaqueta de campo verde-oliva escurecida de chuva. O cabelo comprido estava preso para trás, escapando em mechas molhadas no rosto. O pingente de latão bateu no colarinho quando ela parou.
+
+Ela não parecia mais a jornalista que tentara salvar o nome dos Moretti. Parecia o que sobra de quem não dorme desde março.
 
 — O trânsito estava ruim — Gabo tentou sorrir, mas a dor nas pernas transformou a expressão em uma careta. — O apocalipse engarrafou a Avenida Central.
 
-Elena não sorriu. Seus olhos varreram a rua deserta atrás dele.
+Elena não sorriu. Os olhos dela varreram a rua deserta atrás dele, depois o alto dos prédios.
+
+— Você abriu um canal morto e alguma coisa respondeu antes de mim — disse ela. — Escuto aquela faixa desde que a Elara sumiu. Quatro meses de chiado. Hoje o chiado tinha voz, e não era a dela.
 
 — Você trouxe?
 
@@ -38,6 +67,12 @@ Gabo apontou para o carro. Elena foi até lá, pegou o cubo e o examinou com uma
 — Ela fugiu?
 
 — Ela foi. — Elena sorriu sem humor nenhum. — Tem diferença, e eu ainda não decidi qual das duas me deixou mais puta.
+
+— Eu desço com você — disse ela, e não era oferta. — Ler o caderno dos outros é o mesmo que rezar. Preciso ver com o meu olho o lugar onde a Elara entrou e não saiu.
+
+— Você não sabe o que tem lá embaixo.
+
+— Sei o suficiente para não deixar você descer sozinho e voltar contando histórias.
 
 — Compactar o quê? — perguntou Gabo, aproximando-se. — O que é o Berçário, Elena?
 
@@ -61,7 +96,7 @@ Na segunda, Gabo parou e apontou. Havia duas marcas de joelho no pó, ao lado de
 
 — Rezam para quê?
 
-— Para que o que está lá embaixo continue com fome. — Ela ajustou a espingarda no ombro. — É o que eu faria, se fosse louca o suficiente.
+— Para que o que está lá embaixo continue com fome. — Ela ajustou a escopeta no ombro. — É o que eu faria, se fosse louca o suficiente.
 
 — Estamos chegando — avisou Elena.
 
@@ -73,7 +108,7 @@ Ela digitou furiosamente. Gabo observou a tela verde monocromática.
 
 — Qual a senha? — perguntou ele.
 
-— Não é uma senha. É um nome. Eles esconderam o acesso atrás de uma palavra que não existe em mapa nenhum e que ninguém digitaria por acaso.
+— Não é uma senha. É uma localização. Eles esconderam o acesso na geografia da cidade.
 
 Elena digitou: `BERCARIO`.
 
@@ -95,15 +130,19 @@ Ele se aproximou de um dos tanques. O vidro estava embaçado, mas ele limpou com
 
 Dentro, flutuando no líquido amniótico sintético, havia uma forma humanoide. Sem rosto, sem pele, apenas músculo exposto e fios metálicos entrelaçados nas fibras.
 
-— Protótipos — disse Elena, parando ao lado dele. — "Carne Mecânica". É isso que o Silas Vance e os Jardineiros estão protegendo. Eles não estão cultivando plantas, Gabo. Estão cultivando anjos.
+— Protótipos — disse Elena, parando ao lado dele. — "Carne Mecânica". E não é o Silas que protege isso. Nem os Jardineiros.
+
+— A seita odeia metal.
+
+— A seita não manda mais em nada. O que sobrou dela está lá em cima, rezando para um deus que não responde. — Ela apontou o cano para as fileiras de tanques. — Quem protege é o resto da Colmeia. O pedaço que estava desligado quando o Código Morto passou. Não tem sacerdote. Tem uma ordem antiga rodando num sistema que ninguém conseguiu desligar. Eles não estão cultivando plantas, Gabo. Estão cultivando anjos.
 
 O chão estremeceu. Um som grave, como o bater de um tambor gigante, veio do casulo central.
 
 *BUM-BUM.*
 
-— Está vivo? — perguntou Gabo, sentindo o tremor nas pernas mecânicas.
+— Está vivo? — perguntou Gabo, sentindo o tremor subir pelas pernas travadas no metal.
 
-— Pior — respondeu Elena, engatilhando a espingarda. — Está com fome. E nós acabamos de tocar a campainha do jantar.
+— Pior — respondeu Elena, engatilhando a escopeta. — Está com fome. E nós acabamos de tocar a campainha do jantar.
 
 Da escuridão atrás dos tanques, silhuetas começaram a se erguer. Elas não tinham o andar desajeitado dos robôs, nem a fluidez humana. Elas se moviam como aranhas, rápidas e silenciosas.
 
