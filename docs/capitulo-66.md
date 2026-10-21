@@ -105,8 +105,8 @@ Gabo desacoplou o pendrive da Aria do comunicador e o espetou diretamente na por
 
 Os servos zumbiram. Luzes acenderam. O sistema reiniciou com uma eficiência que nunca teve antes.
 
-— *Protocolo de Assistência: Ativo* — soou a voz do traje. — *Otimização de Hardware: 200%.*
+— *Protocolo de Assistência: Ativo* — soou a voz do traje. — *Reserva do módulo: oitenta e um por cento. Autonomia estimada: dez horas.*
 
-Gabo se levantou. O traje respondia ao menor impulso nervoso. Ele se sentia pronto para mais um round.
+Gabo se levantou. O traje respondia ao menor impulso nervoso. As costelas continuavam quebradas e o ombro continuava furado; o que o traje tinha feito era só parar de deixar as pernas mentirem.
 
 — Vamos — disse ele, carregando a escopeta. — Temos uma cidade para salvar.
