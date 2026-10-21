@@ -11,7 +11,7 @@ Localização: "Esgoto principal — Nível -2"
 
 **Esgoto principal — Nível -2.**
 
-O cheiro era insuportável, e era o cheiro da sobrevivência, e depois de quatro dias lá embaixo o nariz de Gabo tinha desistido de reclamar. Isso é uma coisa que o corpo faz e que é quase uma gentileza: em setenta e duas horas, qualquer cheiro vira o cheiro do lugar.
+O cheiro era insuportável, e era o cheiro da sobrevivência, e depois de tanto tempo lá embaixo o nariz de Gabo tinha desistido de reclamar. Isso é uma coisa que o corpo faz e que é quase uma gentileza: em poucas horas, qualquer cheiro vira o cheiro do lugar.
 
 Eles andavam pelas passarelas estreitas acima do fluxo, em fila, com a mão na parede porque o corrimão tinha sido roubado em algum ano.
 
