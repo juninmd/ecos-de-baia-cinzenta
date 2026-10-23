@@ -51,13 +51,13 @@ Puxou a manga com dois dedos. O tecido veio grudado na pele, e o cheiro que subi
 
 Ela ficou me olhando por um segundo a mais do que era confortável, e o silêncio dela disse o que a discussão não teria dito.
 
-— Eu chego, — respondi, forçando as botas na lama do asfalto para retomar o equilíbrio. — A teimosia me mantém do lado de cá.
+— Preciso que você procure ajuda antes de eu tentar outra quadra, — respondi, forçando as botas na lama do asfalto para retomar o equilíbrio. — A teimosia me mantém do lado de cá.
 
 Ela não discutiu. Sabia que a única alternativa à marcha exaustiva era a morte pelo frio e pela infecção.
 
 — Para onde? — Valéria perguntou, desviando o olhar para a vastidão de prédios mortos à nossa frente. — A Delegacia Central? O domínio do Marco?
 
-Cuspi uma mistura de saliva e sangue na poça aos nossos pés. Marco Moretti, meu querido irmãozinho, que agora provavelmente tentava preencher o vácuo de poder na cidade às escuras. Voltar para lá seria pular do moedor de carne direto para as engrenagens.
+Cuspi uma mistura de saliva e sangue na poça aos nossos pés. Marco Moretti, meu irmão, ficara sob controle de Dante, preenchendo formulários sem responder. Eu não sabia quem o encontrara depois da queda da Usina, nem se conseguira sair daquela sala. Voltar para lá seria pular do moedor de carne direto para as engrenagens.
 
 — Não. O Distrito 4 — decidi, a voz saindo como pedra esmagada. — Precisamos encontrar Vasco. Precisamos de antibióticos reais, ferramentas mecânicas analógicas e um buraco onde ninguém vai procurar os heróis que desligaram a cidade.
 
@@ -69,7 +69,7 @@ No fundo, atrás do balcão, achei um rolo de fita adesiva prateada, da larga. E
 
 — Senta — disse Valéria.
 
-Sentei no chão frio, entre caixas vazias, e ela enrolou a fita em volta do meu antebraço por cima das ataduras, apertando até o sangue parar de aparecer no tecido.
+Sentei no chão frio, entre caixas vazias, e ela usou a fita para prender a tala às tiras do suporte, mantendo a faixa visível. Não tinha material para fechar o ferimento, e não fingiu que a fita resolvia o sangramento.
 
 — Isso não é tala.
 

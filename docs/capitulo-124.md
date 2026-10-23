@@ -1,11 +1,10 @@
-## Metadados
-- **Título:** Carne e Cobre
-- **Data In-Game:** 23 de Novembro, 05:15
-- **Localização:** Túneis de Manutenção do Distrito 4 / O Fliperama (Safehouse)
-- **Personagens Presentes:** Gabo Moretti, Valéria Cruz, Rangel (Crítico), Aria (Inerte).
-- **Foco:** Gabo retorna ao esconderijo com os suprimentos médicos, navegando pelos túneis infestados de ratos e silêncio. No "Fliperama", ele e Valéria realizam um procedimento de emergência para conter a sepse de Rangel, enquanto Valéria solda a ponte de reparo no pendrive da Aria.
-
-## Narrativa
+---
+title: "Capítulo 124: Carne e Cobre"
+Data In-Game: "23 de Novembro, 05:15"
+Localização: "Túneis de Manutenção do Distrito 4 / O Fliperama (Safehouse)"
+Personagens Presentes: "Gabo Moretti, Valéria Cruz, Dra. Nise, Rangel (Crítico), Aria (Inerte)."
+description: "Nise e uma equipe chegam. A mãe reencontra o menino. O atendimento busca estabilizar Rangel para transporte, sem prometer cura definitiva no abrigo."
+---
 
 # Capítulo 124: Carne e Cobre
 
@@ -33,37 +32,19 @@ Gabo largou a mochila sobre uma mesa de trabalho coberta de esquemas técnicos.
 
 — Eu trouxe. Tudo o que Vasco tinha.
 
-Ele foi até a mesa de metal onde Rangel jazia. O ex-inspetor parecia menor. A pele, geralmente rubicunda, estava cinzenta e úmida. O curativo no ombro estava empapado de um fluido escuro que cheirava a cobre e podridão.
+Nise já estava junto à mesa, com duas pessoas da equipe de transporte. A mulher do porto voltara com elas e conferia, do outro lado da sala, se o menino continuava dormindo. Gabo pôs os kits lacrados ao alcance da médica. O ex-inspetor parecia menor. A pele, geralmente rubicunda, estava cinzenta e úmida. O curativo no ombro estava empapado de um fluido escuro que cheirava a cobre e podridão.
 
-— Sepse — Gabo murmurou, tocando a testa de Rangel. Estava fervendo. — Precisamos drenar e bombear isso agora.
+— Ele está com febre e perdeu sangue — disse Nise. — Eu avalio o resto. Vocês fizeram bem em não tirar o estilhaço.
 
-Valéria se aproximou, segurando uma bandeja de metal com mãos trêmulas.
+Gabo começou a explicar o que quase fizera. Ela olhou o ferro de solda na bancada e entendeu antes de ele terminar.
 
-— Eu... eu nunca fiz isso em carne, Gabo. Hardware eu conserto. Soldo circuitos. Mas isso... é molhado. É caótico.
+— Ainda bem que alguém disse não.
 
-Gabo olhou para ela. Viu o medo nos olhos biônicos.
+Val baixou a cabeça. A médica mandou Gabo segurar a luz e passou a trabalhar com a equipe, usando o material que trouxera do posto e conferindo o que vinha da clínica. Não ofereceu nome tranquilo para o ferimento, nem uma promessa de vinte minutos.
 
-— É a mesma coisa, Val. Apenas um sistema hidráulico com vazamento. — Ele mentiu. Não era a mesma coisa. Carne não tinha backup. — Segure a lanterna. E não vomite.
+O exame levou tempo. Duas vezes Nise mandou que afastassem os eletrônicos para liberar espaço. Rangel acordou durante a preparação, tentou fazer uma piada sobre formulários e não terminou. A equipe o preparou para o transporte; o procedimento definitivo exigiria a sala do hospital.
 
-Gabo abriu a mochila e tirou os frascos. *Ceftriaxona. Adrenalina. Morfina.* Ele quebrou as ampolas com precisão praticada, aspirando os líquidos para seringas descartáveis.
-
-— Segure ele — Gabo ordenou.
-
-Ele cortou as bandagens sujas com uma tesoura de trauma. A ferida era feia, as bordas da carne necrosada ao redor do estilhaço. Rangel gemeu, um som gorgolejante, e se contorceu.
-
-— Calma, Rangel. Sou eu. — Gabo pressionou o peito do homem com o antebraço. — Isso vai doer, mas vai te manter vivo para reclamar depois.
-
-Ele injetou a morfina direto na veia do pescoço, esperando a respiração do homem estabilizar. Em seguida, os antibióticos. E então, a parte suja.
-
-Gabo pegou o bisturi que Vasco lhe dera.
-
-— Luz aqui.
-
-Valéria apontou o feixe de luz, desviando o olhar. Gabo fez a incisão de drenagem. O cheiro piorou instantaneamente. Ele trabalhou com a frieza de quem já vira corpos demais, limpando, irrigando com soro, costurando. Suas mãos, que tremiam ao segurar uma xícara de café, estavam firmes como rocha.
-
-Quando terminou, vinte minutos depois, suas mãos estavam cobertas de sangue. Ele as limpou em um trapo velho, sentindo a textura viscosa.
-
-Rangel respirava melhor agora, menos errático. O monitor cardíaco improvisado bipava em um ritmo lento, mas constante.
+Gabo ficou com a luz até o braço perder força. Quando a entregou a Val, havia uma linha vermelha na palma, feita pelo cabo que apertara sem perceber.
 
 Gabo recuou, sentando-se pesadamente em uma cadeira giratória quebrada. Ele tirou o *Colar de Sol* do bolso e enrolou a corrente nos dedos, apertando até os elos marcarem a pele.
 
@@ -71,9 +52,9 @@ Valéria já estava de volta à bancada eletrônica no canto da sala, debruçada
 
 O drive neural estava aberto sob uma lupa iluminada, com cabos de fibra fina ligados aos pinos de manutenção e o micro-ferro de solda de Valéria instalando a nova ponte de silício série-K. O LED indicador continuava apagado, sem o brilho azul ou âmbar. Apenas quartzo inerte.
 
-— Soldei a ponte nova e rodei um diagnóstico enquanto a morfina fazia efeito — Valéria disse, a voz baixa. — O núcleo lógico do pendrive está... fragmentado. É como se ela tivesse tentado processar dor humana usando um compilador binário. Deu *stack overflow* nas partições.
+— Soldei a ponte nova e consegui ler parte do armazenamento enquanto a equipe preparava o transporte — Valéria disse, a voz baixa. — O núcleo lógico do pendrive está... fragmentado. Há arquivos incompletos e índices cruzados. Ainda não sei quais experiências ela vai reconhecer, nem o que consegue separar dos registros recebidos.
 
-— Ela nos salvou — Gabo disse, olhando para o pequeno cilindro de metal que carregava a voz do seu passado. — Ela absorveu a sobrecarga da rede para nos tirar da Usina.
+— Ela nos salvou — Gabo disse, olhando para o pequeno cilindro de metal que carregava a voz do seu passado. — Ela manteve o desligamento da rede para nos tirar da Usina.
 
 — O custo foi alto, Gabo. O armazenamento físico resistiu, mas o software... — Valéria ajustou a carcaça de titânio do pendrive. — É "Dívida Técnica", lembra? Ela pegou emprestado barramento que não tinha. Agora o sistema está cobrando.
 

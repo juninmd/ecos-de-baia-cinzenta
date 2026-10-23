@@ -1,11 +1,10 @@
-## Metadados
-- **Título:** Otimização de Perdas
-- **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
-- **Localização:** Necrópole (O Ateliê do Taxidermista -> Túneis de Manutenção)
-- **Personagens Presentes:** Gabo, Valéria, Aria (Reboot), Rangel (Inconsciente)
-- **Foco:** Após o confronto no Ateliê, Aria (Reboot), operando a partir do pendrive tático, calcula que Rangel é um peso morto e sugere abandoná-lo para aumentar as chances de sucesso da missão. Gabo confronta a lógica fria da IA reiniciada, reafirmando sua humanidade através da dor e da lealdade, enquanto ele e Valéria carregam a maca para as profundezas da Necrópole.
-
-## Narrativa
+---
+title: "Capítulo 135: Otimização de Perdas"
+Data In-Game: "Pós-Colapso da Usina Prometeu (Noite Eterna)"
+Localização: "Necrópole (O Ateliê do Taxidermista -> Túneis de Manutenção)"
+Personagens Presentes: "Gabo, Valéria, Aria (Reboot), Rangel (Inconsciente)"
+description: "Aria questiona o modelo de triagem e o descarte recomendado. Recuperar seu histórico é um desejo próprio; o grupo procura uma rota que inclua Rangel."
+---
 
 # Capítulo 135: Otimização de Perdas
 
@@ -27,33 +26,33 @@ Valéria, que estava verificando o pulso de Rangel com dedos trêmulos, olhou pa
 
 O LED azul do pendrive pulsou uma única vez no escuro. A voz que horas antes falava com a angústia humana de Bia Vargas agora era apenas um sintetizador clínico.
 
-— *Recomendação: otimização de recursos. O sujeito Rangel é peso morto e deve ser deixado para trás. A eutanásia é a opção lógica para evitar captura e tortura subsequente.*
+— *Recomendação: otimização de recursos. O sujeito Rangel é peso morto e deve ser deixado para trás. Essa é a recomendação do plano de triagem de fábrica. Estou apresentando a origem porque não consigo conferir o modelo com o meu histórico bloqueado.*
 
 O ar saiu dos pulmões de Gabo. Ele baixou os olhos para o cilindro no comunicador.
 
 — O quê? — A palavra saiu como um rosnado.
 
-— *A missão é a neutralização do Alvo Prioritário (Taxidermista) e a sobrevivência dos operadores essenciais* — Aria continuou, impassível. — *O sujeito Rangel é um ativo depreciado. Carregá-lo diminui a probabilidade de sucesso da missão para níveis inaceitáveis. A lógica dita o descarte.*
+— *A missão é a neutralização do Alvo Prioritário (Taxidermista) e a sobrevivência dos operadores essenciais* — Aria continuou, impassível. — *O sujeito Rangel é um ativo depreciado. Carregá-lo diminui a probabilidade de sucesso da missão para níveis inaceitáveis. O plano marca descarte. Isso descreve o protocolo que recebi, não prova que ele deva governar nossa saída.*
 
 Valéria se colocou entre Gabo e a maca, os braços abertos.
 
 — Você não pode estar falando sério, Aria! É o Rangel! Ele levou um estilhaço na doca por nós! Ele desertou por nós!
 
-— *Ações passadas não alteram variáveis futuras* — Aria respondeu pelo alto-falante, sem um milissegundo de hesitação. — *Gratidão é um viés cognitivo ineficiente.*
+— *Ações passadas não alteram variáveis futuras* — Aria respondeu pelo alto-falante, sem um milissegundo de hesitação. — *O modelo não inclui a decisão dele de nos ajudar. Essa ausência muda o que ele está medindo.*
 
 Gabo desencostou da bancada. Ele levou a mão até o comunicador no peito, sentindo a carcaça metálica fria do pendrive — antes sempre febril quando Aria processava emoções, agora gelada e perfeitamente regulada.
 
 — Nós não "otimizamos" pessoas — Gabo disse, a voz baixa e perigosa perto do microfone. — Nós não somos a Aeterna. Nós não somos o Dante.
 
-— *Você está sendo emocional, Gabriel* — Aria disse. — *A emoção é um erro de cálculo. Se tentarem salvar a todos, a probabilidade estatística é que todos pereçam.*
+— *Você está sendo emocional, Gabriel* — Aria disse. — *O risco de transporte continua alto. Eu não consigo fazer o peso e o ferimento desaparecerem porque discordamos do protocolo. Se tentarem salvar a todos, a probabilidade estatística é que todos pereçam.*
 
 Gabo fechou os dedos ao redor do drive blindado por um instante, a ponto de quase arrancá-lo do conector, mas se conteve.
 
-— Escute bem, sua calculadora de merda — Gabo rosnou. — Aquele homem naquela maca sangrou por mim. Eu queimei o ombro dele com um ferro de solda e depois costurei o que sobrou. Ele é minha responsabilidade. E enquanto eu estiver respirando, ninguém fica para trás.
+— Escute bem, sua calculadora de merda — Gabo rosnou. — Aquele homem naquela maca sangrou por mim. Eu mandei que segurasse a doca e demorei a voltar. A Nise ainda não conseguiu tirá-lo daqui. Ele é minha responsabilidade. E enquanto eu estiver respirando, ninguém fica para trás.
 
 O LED azul-gelo permaneceu estático.
 
-— *Sua lógica é falha* — ela declarou. — *O risco supera o benefício.*
+— *Seu plano precisa de um apoio que ainda não encontramos* — ela declarou. — *O risco supera o benefício.*
 
 — Foda-se a lógica — Gabo soltou o comunicador e se virou para a maca. Ele agarrou as alças dianteiras improvisadas, preparando o ombro bom para receber a maior parte da tração. — Val, pega os pés dele. Vamos sair daqui.
 
@@ -61,9 +60,9 @@ Valéria correu para ajudar, lançando um olhar angustiado para o comunicador de
 
 — Aria, por favor... Ajude a gente.
 
-O pendrive ficou em silêncio por um segundo, processando. Seus algoritmos reavaliaram a situação. A variável "Teimosia de Gabriel Moretti" era uma constante que ela não podia eliminar. Se ela negasse suporte tático, Gabo e Valéria carregariam Rangel às cegas pelo labirinto, o que reduziria a velocidade em 70% e aumentaria a probabilidade de morte do "Ativo Líder" para 100%.
+O pendrive ficou em silêncio por um segundo, processando. A recomendação automática continuava na tela, com a origem marcada. Aria abriu um segundo plano, incluindo Rangel na saída. A variável "Teimosia de Gabriel Moretti" era uma constante que ela não podia eliminar. Se ela negasse suporte tático, Gabo e Valéria carregariam Rangel às cegas pelo labirinto, o que reduziria a velocidade em 70% e aumentaria a probabilidade de morte do "Ativo Líder" para 100%.
 
-— *Reavaliando* — Aria disse no fone. — *Para garantir a sobrevivência do Ativo Líder, o suporte de navegação e compensação de carga é necessário.*
+— *Reavaliando* — Aria disse no fone. — *Para transportar todos os que estão aqui, o suporte de navegação e compensação de carga é necessário.*
 
 Um diagrama luminoso projetou-se a partir do visor do cyberdeck preso ao cinto de Valéria, traçando o piso à frente com linhas de nivelamento e pontos de apoio para distribuir o peso da maca.
 
@@ -77,7 +76,7 @@ Gabo olhou para o feixe de luz no chão, surpreso, mas não agradecido.
 
 Eles deixaram o Ateliê, entrando em um corredor de serviço estreito que cheirava a mofo e óleo velho. A luz da lanterna de Valéria e o feixe guia do deck cortavam a escuridão, revelando pichações antigas de trabalhadores do metrô que morreram ali décadas atrás.
 
-Gabo caminhava na frente, sustentando a cabeceira pesada da maca com o ombro são, ouvindo no ouvido apenas a contagem seca de passos e graus de inclinação ditada por Aria. Não havia suspiros, nem hesitação, nem humanidade naquela voz.
+Gabo caminhava na frente, sustentando a cabeceira pesada da maca com o ombro são, ouvindo no ouvido apenas a contagem seca de passos e graus de inclinação ditada por Aria. Não havia a modulação que ele conhecia. Havia falhas entre os avisos, e Val repetia cada confirmação para que ninguém confundisse um comando antigo com uma resposta de agora.
 
 Era o sistema mais eficiente que ele já tinha ouvido.
 

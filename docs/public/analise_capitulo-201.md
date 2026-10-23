@@ -1,38 +1,17 @@
-# Análise Crítica - Capítulo 201: Degraus de Sangue e Ferrugem
+# Revisão de Capítulo 201: Degraus de Sangue e Ferrugem
 
-## 1. Avaliação Técnica
+Fonte: [capítulo 201](/capitulo-201.md).
 
-- **Ritmo (Pacing): 9/10**
-  O capítulo mantém uma tensão constante, começando logo após a revelação do final do capítulo 200. A escalada cria uma urgência vertical, culminando em uma sequência de ação rápida e brutal antes da fuga para o próximo cenário.
+A linha de segurança detém a queda de Elias antes que Gabo alcance sua roupa. O braço fraturado não recebe sozinho todo o impacto.
 
-- **Diálogos: 8/10**
-  A interação é reduzida a comandos diretos devido à situação extrema. Os gritos de Elias e as respostas frias de Valéria (em modo de segurança) contrastam bem com o cinismo desesperado de Gabo.
+## Passagens de entrada e saída
 
-- **Atmosfera: 9/10**
-  A "sujeira" do cyberpunk está plenamente incorporada nas texturas: ferrugem descascando, lodo respirando, e os horrores biomecânicos rastejando no escuro. A sensação claustrofóbica do poço é eficiente.
+> A escada de manutenção de emergência cheirava a ferro cru, óleo rançoso e séculos de abandono sob a cidade afundada. Cada barra transversal estava encrustada por uma crosta espessa de óxido escamoso e um lodo vegetal que parecia pulsar em espasmos lentos. Elias subia na frente, impulsionado pelo pavor primal de ser mastigado pela massa biomecânica que infestava a base do poço. Seus coturnos escorregavam no metal podre, as mãos ossudas agarrando os degraus com o desespero cego de um náufrago em mar aberto.
 
-## 2. Pontos Fortes e Fracos
+### Saída
 
-- **Pontos Fortes:**
-  - O uso da dor física por Gabo como um mecanismo de sobrevivência real e psicológico (evitando a alucinação do charuto) amarra a ação física ao desenvolvimento interno do personagem.
-  - A criatura-aranha misturando fiação e carne podre reforça perfeitamente a premissa de um "Jardim" biomecânico distópico.
-  - Valéria, estando em *Safe Mode*, atua de maneira assustadoramente lógica, não processando emoções, o que torna a cena mais isoladora para os personagens humanos.
+> Joguei Elias para o chão de concreto do corredor, Valéria saltou em seguida cobrindo a retaguarda com um último disparo que ricocheteou nos cabos, e eu me atirei para o interior, batendo a escotilha de ferro atrás de nós bem no momento em que dezenas de garras mecânicas batiam do lado de fora, arranhando a blindagem em uma fúria estéril.
 
-- **Pontos Fracos:**
-  - A transição pelo alçapão no final foi ligeiramente apressada; o detalhe do destrancar poderia ser estendido para ampliar um pouco mais o suspense do "no último segundo".
-  - O capítulo foca inteiramente na ação, não avançando muito o plot geral das catacumbas, funcionando mais como uma cena de transição de alta tensão.
+## Alcance do parecer
 
-## 3. Sanity Check
-
-- **Gabo interagiu com algum fumante? Como sua repulsa foi demonstrada?**
-  Não. Durante a tensão no escuro e devido ao lodo e poeira, seu cérebro começou a manifestar uma alucinação olfativa de fumaça e charuto (o trauma do pai). Gabo usou a dor extrema de bater sua perna mecânica machucada contra a escada para "rasgar o véu de fumo" e se manter ancorado na realidade, mantendo perfeitamente o lore de aversão e âncora de dor.
-
-- **O plot twist deste capítulo invalida algo estabelecido nos capítulos anteriores?**
-  Não. A descida das criaturas foi preestabelecida no final do Capítulo 200. Valéria operando em modo de segurança é consistente com as avarias recentes e a decisão de poupar energia, e a fraqueza estrutural do local reflete a idade e a oxidação do Setor 6 (A Praga de Ferro / oxidação acelerada previamente estabelecida).
-
-- **O resumo da lore foi atualizado com os novos eventos?**
-  Os personagens agora entraram em um corredor lateral de manutenção a partir do poço principal do Setor 6, escapando da primeira onda das entidades corrompidas pelo Jardim.
-
-## 4. Avaliação Qualitativa
-
-O capítulo atua como uma excelente ponte de ação que retira os personagens de uma emboscada e os lança em um novo ambiente não mapeado. A coesão do personagem Gabo é o destaque: ele não é um super-herói; seu corpo está falhando e ele sobrevive à custa de dor infligida a si mesmo. Elias continua atuando como a fragilidade humana no trio, ressaltando o peso das responsabilidades de Gabo. O próximo capítulo tem espaço para explorar os mistérios do corredor onde eles acabaram de se abrigar e dar vazão a algum desenvolvimento narrativo do mistério da expansão do Jardim.
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

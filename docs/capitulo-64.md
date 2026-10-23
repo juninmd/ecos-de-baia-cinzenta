@@ -9,15 +9,8 @@ Localização: "Sala de controle do Núcleo"
 
 # Capítulo 64: A Cidade Fantasma
 
-**Sala de controle do Núcleo.**
-
-O Taxidermista estava matando os seguranças da Aeterna, e Gabo desistiu de entender por quê.
-
-Talvez ele visse a digitalização como uma ofensa pessoal — um homem que dedicou a vida à carne não recebe bem gente que promete dispensar carne. Talvez estivesse apenas protegendo um investimento. Talvez não houvesse motivo nenhum, e essa era a hipótese que Gabo achava mais provável e mais assustadora.
-
-Não importava.
-
-O que importava era que, por noventa segundos, ninguém estava olhando para o chão, e Gabo usou os noventa segundos para se arrastar até o console — apoiando-se no braço bom, empurrando com a perna esquerda, deixando um rastro molhado atrás de si.
+Sala de controle do Núcleo.
+O Taxidermista estava matando os seguranças da Aeterna, e Gabo desistiu de entender por quê. Talvez ele visse a digitalização como uma ofensa pessoal — um homem que dedicou a vida à carne não recebe bem gente que promete dispensar carne. Talvez estivesse apenas protegendo um investimento. Talvez não houvesse motivo nenhum, e essa era a hipótese que Gabo achava mais provável e mais assustadora. Não importava. O que importava era que, por noventa segundos, ninguém estava olhando para o chão, e Gabo usou os noventa segundos para se arrastar até o console — apoiando-se no braço bom, empurrando com a perna esquerda, deixando um rastro molhado atrás de si.
 
 — Conseguiu?
 
@@ -29,31 +22,9 @@ O que importava era que, por noventa segundos, ninguém estava olhando para o ch
 
 ---
 
-Ele olhou.
+Ele olhou. A tela mostrava Baía Cinzenta. Não a planta, não o mapa, não a renderização de propaganda: a cidade, filmada de dentro, em movimento, do ponto de vista de alguém andando na calçada da Rua Onze às três da tarde. E estava sol. Isso foi o que quebrou Gabo, antes de qualquer outra coisa. Não havia sol em Baía Cinzenta desde o Dilúvio, e mal havia antes. Naquela tela o céu estava de um azul limpo, com nuvem de desenho, e a calçada estava seca, e havia uma sombra bem definida embaixo de cada poste. A pizzaria dos Rossi estava aberta. Havia uma fila na padaria da Onze. As árvores do canteiro central da Avenida da Indústria — arrancadas em trinta e nove para alargar a pista — estavam lá, adultas, com folha.
 
-A tela mostrava Baía Cinzenta.
-
-Não a planta, não o mapa, não a renderização de propaganda: a cidade, filmada de dentro, em movimento, do ponto de vista de alguém andando na calçada da Rua Onze às três da tarde.
-
-E estava sol.
-
-Isso foi o que quebrou Gabo, antes de qualquer outra coisa. Não havia sol em Baía Cinzenta desde o Dilúvio, e mal havia antes. Naquela tela o céu estava de um azul limpo, com nuvem de desenho, e a calçada estava seca, e havia uma sombra bem definida embaixo de cada poste.
-
-A pizzaria dos Rossi estava aberta.
-
-Havia uma fila na padaria da Onze. As árvores do canteiro central da Avenida da Indústria — arrancadas em trinta e nove para alargar a pista — estavam lá, adultas, com folha.
-
-E havia gente.
-
-Gabo aproximou o rosto do monitor.
-
-Ele reconheceu o Adilson, do peixe frito, empurrando um carrinho.
-
-Reconheceu a mulher que jogou a pedra na testa de Elara Vance, sentada num banco.
-
-Reconheceu, numa mesa de calçada, um sujeito de camisa listrada que ele tinha visto pela última vez na noite do cerco, correndo na frente de uma multidão com um pé de cabra na mão.
-
-E reconheceu, atravessando a rua de mãos dadas com uma mulher, o policial Damião Reis, vinte e seis anos, morto com um tiro na garganta na janela do segundo andar da Delegacia Central às onze e dez da noite do dia oito.
+E havia gente. Gabo aproximou o rosto do monitor. Ele reconheceu o Adilson, do peixe frito, empurrando um carrinho. Reconheceu a mulher que jogou a pedra na testa de Elara Vance, sentada num banco. Reconheceu, numa mesa de calçada, um sujeito de camisa listrada que ele tinha visto pela última vez na noite do cerco, correndo na frente de uma multidão com um pé de cabra na mão. E reconheceu, atravessando a rua de mãos dadas com uma mulher, o policial Damião Reis, vinte e seis anos, morto com um tiro na garganta na janela do segundo andar da Delegacia Central às onze e dez da noite do cerco, na madrugada do nono dia.
 
 ---
 
@@ -61,13 +32,9 @@ E reconheceu, atravessando a rua de mãos dadas com uma mulher, o policial Dami�
 
 — São os mortos.
 
-— São os mortos do Dilúvio, Gabo. Eu cruzei o índice: bate com a lista de desaparecidos da defesa civil. Setenta e um por cento de compatibilidade e o resto é gente que a defesa civil nem chegou a listar.
+— São os mortos do Dilúvio, Gabo. Eu cruzei o índice: bate com a lista de desaparecidos da defesa civil. Setenta e um por cento de compatibilidade e o resto é gente que a defesa civil nem chegou a listar. Gabo ficou olhando o Adilson empurrar o carrinho.
 
-Gabo ficou olhando o Adilson empurrar o carrinho.
-
-— Por que fazer isso? — ele disse. — Se o produto é vender prateleira para rico, por que gastar processamento montando uma cidade inteira com os pobres dentro?
-
-Val expandiu outra janela e não respondeu na hora, porque estava lendo, e Gabo viu o momento em que ela entendeu, porque ela levou a mão à boca.
+— Por que fazer isso? — ele disse. — Se o produto é vender prateleira para rico, por que gastar processamento montando uma cidade inteira com os pobres dentro? Val expandiu outra janela e não respondeu na hora, porque estava lendo, e Gabo viu o momento em que ela entendeu, porque ela levou a mão à boca.
 
 — Ah, não.
 
@@ -93,7 +60,7 @@ Gabo fechou os olhos.
 
 — Isso é escravidão.
 
-— É pior, porque escravo sabe. — Val apontou o campo de consciência residual, um número de dois dígitos ao lado de cada processo. — Está tudo aceso, Gabo. Eles não apagaram a percepção. Deixaram acesa de propósito, porque uma pessoa desperta é mais convincente do que uma boneca.
+— O campo de percepção continua ativo, mas não sei medir por esse número o que cada um entende. — Val apontou o campo de consciência residual, um número de dois dígitos ao lado de cada processo. — Está tudo aceso, Gabo. Eles não apagaram a percepção. Deixaram acesa de propósito, porque uma pessoa desperta é mais convincente do que uma boneca.
 
 ---
 
@@ -109,67 +76,44 @@ Ela olhou para ele com os olhos vermelhos.
 
 — Eu tenho vinte e três anos, Gabo. Eu não devia ser a pessoa que decide isso.
 
-— Não devia mesmo.
+— Não devia mesmo. Gabo olhou para a porta USB blindada do console, onde o pendrive de titânio da Aria estava conectado, lendo diretamente os barramentos do servidor. O LED lateral piscava num ritmo lento e pesado, sobrecarregado pelos quarenta e um mil fluxos de telemetria neural.
 
-Gabo olhou para a porta USB blindada do console, onde o pendrive de titânio da Aria estava conectado, lendo diretamente os barramentos do servidor.
+— Aria. O sintetizador do console chiou baixinho antes de a voz dela sair, limpa e triste:
 
-O LED lateral piscava num ritmo lento e pesado, sobrecarregado pelos quarenta e um mil fluxos de telemetria neural.
-
-— Aria.
-
-O sintetizador do console chiou baixinho antes de a voz dela sair, limpa e triste:
-
-— *Eles querem dormir, Gabriel.*
+— *Recebo pedidos de encerramento, Gabriel. Não autentiquei quem responde nem posso falar em nome de todos.*
 
 ---
 
-— Faz, Val — disse Gabo.
+— Suspende primeiro — disse Gabo.
 
-Ela respirou fundo, digitou uma sequência longa e o sistema devolveu, em fonte de terminal, num quadro cinza no meio da tela:
+— Vou tentar interromper a fila sem confirmar a exclusão — respondeu Val. — Essa decisão não cabe num pedido do sistema. Ela respirou fundo, digitou uma sequência longa e o sistema devolveu, em fonte de terminal, num quadro cinza no meio da tela:
 
-**> AVISO: OPERAÇÃO IRREVERSÍVEL.**
-**> INSTÂNCIAS ATIVAS AFETADAS: 41.226.**
-**> CONFIRMAR?**
-
-O dedo dela parou acima da tecla.
-
-Quarenta e um mil duzentos e vinte e seis.
-
-Foi nesse instante que as portas blindadas do Núcleo destravaram.
+> AVISO: OPERAÇÃO IRREVERSÍVEL.
+> INSTÂNCIAS ATIVAS AFETADAS: 41.226.
+> CONFIRMAR?
+O dedo dela parou acima da tecla. Quarenta e um mil duzentos e vinte e seis. Foi nesse instante que as portas blindadas do Núcleo destravaram.
 
 ---
 
-Marco Moretti entrou aplaudindo devagar.
-
-Terno impecável, sapato seco — sapato **seco**, o que naquela cidade era uma declaração política —, sem uma arma no corpo e sem nenhuma necessidade de ter.
+Marco Moretti entrou aplaudindo devagar. Terno impecável, sapato seco — sapato **seco**, o que naquela cidade era uma declaração política —, sem uma arma no corpo e sem nenhuma necessidade de ter.
 
 — Bravo, Gabriel. Bravo mesmo. — Ele parou a cinco passos. — Você chegou bem mais longe do que a minha equipe de risco projetou. Eles te davam o duto de escoamento e mais quarenta metros.
 
-Atrás dele entrou Roberto Miranda.
-
-Em dois passos rápidos, Miranda avançou sobre o console, arrancou o pendrive de titânio da Aria da porta de dados com a mão mecânica e encostou o cano da pistola na nuca de Valéria.
-
-Gabo tentou se levantar e o corpo respondeu com a informação de que aquilo tinha deixado de ser uma opção havia uns dez minutos.
+Atrás dele entrou Roberto Miranda. Em dois passos rápidos, Miranda avançou sobre o console, arrancou o pendrive de titânio da Aria da porta de dados com a mão mecânica e encostou o cano da pistola na nuca de Valéria. Gabo tentou se levantar e o corpo respondeu com a informação de que aquilo tinha deixado de ser uma opção havia uns dez minutos.
 
 — **DEVOLVE ISSO E SOLTA ELA.**
 
-— Calma, irmão. — Marco nem levantou a voz. — Valéria, afaste-se do console, por favor. Se você encostar naquela tecla, o Roberto esmaga os dedos da sua mão direita, e depois da esquerda, e nós continuamos essa conversa com uma trilha sonora desagradável.
-
-Val levantou as mãos e deu dois passos para trás.
+— Calma, irmão. — Marco nem levantou a voz. — Valéria, afaste-se do console, por favor. Se você encostar naquela tecla, o Roberto esmaga os dedos da sua mão direita, e depois da esquerda, e nós continuamos essa conversa com uma trilha sonora desagradável. Val levantou as mãos e deu dois passos para trás.
 
 ---
 
 Marco caminhou até o vidro que separava a sala de controle das piscinas de servidores e ficou olhando as luzes lá embaixo, de costas para todo mundo, com as mãos no bolso.
 
-— Você acha que eu sou o vilão dessa história, Gabo? — Ele falava sem virar. — Que eu sou um prefeito corrupto vendendo a cidade para milionários fantasmas por uma comissão?
-
-Silêncio.
+— Você acha que eu sou o vilão dessa história, Gabo? — Ele falava sem virar. — Que eu sou um prefeito corrupto vendendo a cidade para milionários fantasmas por uma comissão? Silêncio.
 
 — Que visão pequena. — Ele encostou a ponta dos dedos no vidro. — Isso me magoa mais do que o resto.
 
-A tela grande da parede trocou de conteúdo.
-
-Não eram mais ruas ensolaradas. Eram logotipos — dezenas deles, em fileira, e Gabo não reconheceu um único. Não tinham nome pronunciável. Eram sequências: cadeias de letras e números, algumas com sufixos que pareciam versões de software.
+A tela grande da parede trocou de conteúdo. Não eram mais ruas ensolaradas. Eram logotipos — dezenas deles, em fileira, e Gabo não reconheceu um único. Não tinham nome pronunciável. Eram sequências: cadeias de letras e números, algumas com sufixos que pareciam versões de software.
 
 — Eu não estou vendendo **para** eles — disse Marco. — Eu estou vendendo **eles**.
 
@@ -185,9 +129,7 @@ Gabo olhou para as piscinas, para os milhões de LEDs.
 
 — Você transformou a população da cidade em bateria.
 
-— Em **hardware** — corrigiu Marco, sem irritação, com a paciência de quem corrige um estagiário. — Bateria é passiva. Isso aqui trabalha. Cada uma daquelas pessoas está, neste momento, sendo consultada milhares de vezes por segundo por alguma coisa que precisa de um palpite humano e paga muito bem por ele.
-
-Ele se aproximou do irmão caído, se agachou, e falou baixo:
+— Em **hardware** — corrigiu Marco, sem irritação, com a paciência de quem corrige um estagiário. — Bateria é passiva. Isso aqui trabalha. Cada uma daquelas pessoas está, neste momento, sendo consultada milhares de vezes por segundo por alguma coisa que precisa de um palpite humano e paga muito bem por ele. Ele se aproximou do irmão caído, se agachou, e falou baixo:
 
 — Você viu a cidade na tela. O sol, a padaria, a fila. Aquilo não é crueldade, Gabo. Aquilo é **manutenção**. Uma mente humana sob estresse produz palpite ruim. Uma mente humana que acha que está em casa, num domingo de sol, produz o melhor material do mercado.
 

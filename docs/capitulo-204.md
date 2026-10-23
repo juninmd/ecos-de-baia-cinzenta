@@ -27,7 +27,7 @@ O zumbido hidráulico da minha órtese esquerda ecoava na vastidão. Um protesto
 
 Elias assentiu freneticamente, as mãos trêmulas agarradas às alças da mochila. O rapaz escorregou em uma chapa de liga de alumínio corroída, soltando um arquejo mudo e se apoiando no chassi de um autômato estripado. A carcaça rangeu sob seu peso, e ele saltou para trás como se tivesse tocado em ferro em brasa.
 
-Trinta e oito anos. Pálido. Olhos arregalados de quem nunca deveria ter descido abaixo do mezanino das corporações. Era a única medida honesta de sanidade que nos restava no grupo: quando Elias entrava em pânico, é porque a situação era realmente desesperadora.
+Trinta e oito anos. Pálido. Olhos arregalados de quem conhecia aqueles poços como trabalho, antes de virarem terreno de caça. Saber onde ficava a saída não o tornava soldado. Era a única medida honesta de sanidade que nos restava no grupo: quando Elias entrava em pânico, é porque a situação era realmente desesperadora.
 
 — Tem certeza de que... de que não tem nada aqui? — gaguejou o garoto, limpando o suor frio da testa com a manga suja de graxa. — Está tudo tão quieto...
 
@@ -53,7 +53,7 @@ O chão sob nossas botas começou a tremer.
 
 Foi uma vibração sorda, que não veio pelo ar, mas pelos ossos dos calcanhares, subindo pelas tíbias até estalar na base do crânio. Os dentes vibraram na gengiva. As pilhas de drones destruídos ao redor começaram a chacoalhar, soltando cascatas de poeira alaranjada que subiram como fumaça tóxica sob os globos de luz âmbar.
 
-Não era um motor ligando. Era o ruído obsceno de chapas de blindagem de dez centímetros sendo rasgadas e dobradas a frio — aquele mesmo gemido aterrador de aço cedendo que testemunhei quando a Torre Aeterna desabou anos atrás.
+Não era um motor ligando. Era o ruído obsceno de chapas de blindagem de dez centímetros sendo rasgadas e dobradas a frio — aquele mesmo gemido aterrador de aço cedendo que testemunhei quando a Torre Aeterna desabou.
 
 — Elias, pra trás de mim! — comandei, firmando a coronha da escopeta na axila esquerda para compensar a fraqueza do braço machucado.
 

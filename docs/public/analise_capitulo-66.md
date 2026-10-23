@@ -1,16 +1,18 @@
-# Análise: Capítulo 66 - Respirar
+# Revisão de Capítulo 66: Respirar
 
-**Avaliação Técnica:**
-- Ritmo: 9/10
-- Diálogos: 8/10
-- Atmosfera: 9/10
+Fonte: [capítulo 66](/capitulo-66.md).
 
-**Pontos Fortes / Fracos:**
-- Fortes: Cena subaquática claustrofóbica com bom uso de ação. O detalhe das pernas mecânicas travadas debaixo d'água ressalta bem o problema biológico/mecânico de Gabo. A reativação mágica (ou tecno-mágica) pelas mãos de Aria/Dante funciona no cenário de fusão de realidades.
-- Fracos: O robô CP-Z salvando-os beira o 'Deus ex machina', embora esteja devidamente amarrado à premissa do controle de Dante/Aria.
+A fuga usa os conjuntos de ar e a rota de manutenção. Uma bateria de resgate alimenta os suportes; a cópia de Dante não é o corpo enterrado de volta à vida.
 
-**Sanity Check (Lore):**
-- Totalmente compatível. O ar na máscara, o trauma da asfixia mitigado pela sobrevivência pura; sem menções a cigarro ou fugas mentais envolvendo fumo. As limitações do corpo são sempre o custo das ações.
+## Passagens de entrada e saída
 
-**Avaliação Qualitativa:**
-- Excelente desenvolvimento que consolida a transição do plot. A fusão cibernética da cidade sob os auspícios de Dante prepara bem a próxima fase da guerra corporativa. Sem necessidade de novos personagens.
+> O Núcleo - 10 segundos após a injeção do código.
+> A água não parou de subir. A tubulação rompida continuava lançando água de retorno para dentro da cabine. A mesa prendia Gabo num ponto onde o nível já cobria seu rosto.
+
+### Saída
+
+> — Vamos — disse ele, carregando a escopeta. — Temos uma cidade para salvar.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

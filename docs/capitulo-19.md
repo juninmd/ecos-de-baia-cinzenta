@@ -1,6 +1,6 @@
 ---
 image: /capitulo_19.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, O Gamemaster, Dante Moretti
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria (módulo no deck), Dante Moretti e Gamemaster (registros)
 Localização: "Terminal Esperança, estação de metrô abandonada, Zona Morta do Setor 7"
 ---
 # Capítulo 19: O Código Morto
@@ -9,33 +9,37 @@ O silêncio na Zona Morta do Setor 7 era uma entidade física. Tinha massa, text
 
 A estação de metrô abandonada, "Terminal Esperança", era uma catedral de concreto em ruínas. Os trilhos estavam submersos em uma água negra e oleosa que refletia o brilho intermitente das luzes de emergência. Grafites de gangues extintas cobriam os azulejos brancos, contando a história de guerras territoriais que ninguém mais lembrava.
 
-Gabriel "Gabo" Moretti estava sentado em um banco de plástico laranja, arrancado de algum vagão que não circulava há uma década. Ele limpava sua pistola Glock 19, desmontando-a peça por peça, limpando cada mola e pino com um pedaço de flanela embebido em óleo. O movimento era mecânico, meditativo, exigindo um esforço brutal para ignorar a dor no ombro ferido. Clic. Clac. Desliza. Trava.
+Tinham passado a noite na triagem de um abrigo junto ao terminal. A médica examinara Gabo antes de discutir o aviso de captura: imobilizara o ombro direito após o atendimento, cobrira a queimadura esquerda e insistira na necessidade de exames para a dor no peito. Ele saíra com uma tipoia, orientações e um retorno marcado. Não saíra curado.
+
+Valéria conseguira recarregar o deck ao devolver ao abrigo um monitor que estava parado por falha de configuração. Depois deixara examinarem seu tornozelo e trocarem os curativos das mãos. A porta da triagem ficara aberta durante todo o atendimento; esconder dois procurados cobrava espaço de quem já não tinha nenhum.
+
+Agora Gabo estava no banco laranja da plataforma. Os cinco cartuchos da Glock permaneciam contados; a arma estava guardada na bolsa de Valéria. Com a mão esquerda, ele alisava uma flanela sobre o joelho, sem conseguir dobrá-la direito.
 
 Era a única coisa que mantinha suas mãos paradas.
 
-— Vai desgastar o metal de tanto esfregar — a voz de Valéria veio do canto escuro da plataforma, onde ela havia montado um "ninho" de processamento.
+— Vai gastar o pano de tanto dobrar — a voz de Valéria veio do canto escuro da plataforma, onde ela havia montado um "ninho" de processamento.
 
 Ela estava sentada no chão, de pernas cruzadas, cercada por um semicírculo de três telas holográficas flutuantes. O brilho azul-cobalto iluminava seu rosto pálido, destacando as linhas de exaustão e o implante cicatrizado em sua bochecha. O ar ao redor dela zumbia com o calor dos processadores de seu deck portátil, trabalhando no limite.
 
-— É a única coisa que me impede de atirar nas sombras, Val — Gabo resmungou, montando a arma novamente em segundos. Ele verificou a câmara. Vazia. — E aí? O que tem no núcleo que arrancamos do servidor do Gamemaster?
+— Preciso ocupar a mão, Val — Gabo resmungou, soltando a flanela. — E aí? O que tem no núcleo que arrancamos do servidor do Gamemaster?
 
-Valéria bufou, seus dedos movendo-se no ar como se tocasse um piano invisível. Seus implantes, agora livres do rastreador da Aeterna, pulsavam num ritmo saudável, uma bioluminescência suave que combinava com seus olhos.
+Valéria bufou, seus dedos movendo-se no ar como se tocasse um piano invisível. O módulo externo retirado continuava isolado na lata. A visão básica funcionava; os diagnósticos sem fio tinham acabado. Ela ampliava as letras no deck em vez de forçar os olhos azul-gelo.
 
-— A criptografia é... artística — disse ela, sem desviar o olhar dos fluxos de dados. — Não é força bruta. É uma charada. O Gamemaster não estava apenas protegendo esses dados; ele os estava *escondendo*. Como alguém que enterra um diário no quintal.
+— O índice de manutenção não está cifrado — disse ela. — Os blocos internos estão. Alguém podia querer guardar os dados e ainda deixar uma pessoa de fora encontrar a entrada.
 
-— O que tem dentro? — Gabo levantou-se e caminhou até ela, seus passos ecoando vazios na plataforma. — Mapas? Contas bancárias? A lista negra da Aeterna?
+— O que tem dentro? — Gabo se inclinou, prendendo o braço imobilizado contra o peito. — Mapas? Contas bancárias? A lista negra da Aeterna?
 
 — Não. — Valéria parou de digitar. As telas congelaram em uma imagem estática de código binário dourado. — É uma chave.
 
 — Uma chave para o cofre do banco central? — Gabo tentou brincar, mas sua voz saiu tensa.
 
-— Não. Uma chave de descriptografia para um arquivo específico. Lembra daquele pacote de dados corrompido que extraímos na Fábrica de Sorrisos? Aquele que pesava terabytes mas parecia vazio?
+— Um índice e uma chave para um dos blocos dos registros que copiamos na fábrica. Testei numa cópia. Abriu aquele bloco; não abriu tudo.
 
-Gabo assentiu.
+Aria estava conectada ao deck. Leu em voz alta o identificador comum às duas estruturas e parou quando Gabo perguntou quem o havia criado.
 
-— Achamos que era lixo de cache.
+— Posso comparar os arquivos que tenho. Não autenticar o autor — respondeu.
 
-— Não era lixo. Era uma mensagem na garrafa. E agora temos o abridor. — Valéria respirou fundo. — Gabo, você precisa ver isso. A assinatura na base do código... não é da Aeterna.
+Valéria guardou a versão ainda cifrada e o resultado do teste em pastas separadas. O cilindro arrancado do chassi continuava ao lado, sobre o casaco dobrado. Tinham sido eles a recolhê-lo; ninguém soubera dizer quem o preparara.
 
 Ela fez um gesto e expandiu a tela central. Uma string de código complexa apareceu, girando em 3D. Na base, brilhando em vermelho, estava a assinatura do autor.
 
@@ -48,17 +52,21 @@ O mundo parou. O som da água gotejando nos trilhos desapareceu. O zumbido do de
 
 — Dante? — A voz de Gabo falhou. Ele se apoiou em uma coluna de concreto, sentindo a aspereza fria sob sua mão. — Val... meu pai está morto há quinze anos. Eu vi o corpo. Eu segurei a mão fria dele no necrotério. Eu assinei a porra do atestado de óbito.
 
-— Eu sei o que você viu, Gabo. — Valéria olhou para ele, seus olhos prateados cheios de uma triste compaixão. — Mas código não mente. Carne apodrece, memórias falham, papéis podem ser forjados. Mas a sintaxe? O estilo de programação? É como uma impressão digital mental.
+— Eu sei o que você contou — disse Valéria. — Esse nome pode ser dele, de uma conta usada por outra pessoa ou de alguém que quis que você lesse isso.
 
-Ela apontou para as linhas de código.
+— Você reconhece o código?
 
-— Olha a elegância disso. Sem loops redundantes. A arquitetura limpa. Isso é a assinatura dele. Eu estudei os manuais antigos da fundação da rede. O estilo é idêntico. Esse código foi escrito... recentemente. Ou programado para ativar agora.
+— Reconheço rotinas que aparecem nos manuais antigos. Isso favorece uma origem comum. Não me diz quem estava no teclado.
+
+Aria abriu as datas do bloco. A última alteração parecia recente; o relógio do equipamento não estava conferido.
+
+— Pode ser uma cópia regravada hoje de um programa velho — disse Valéria. — A chave funciona. O resto ainda precisa de prova.
 
 Gabo sentiu uma náusea súbita. As memórias de seu pai — o homem cansado que chegava em casa cheirando a café velho e óleo de máquina, o policial honesto que lutava contra o sistema — começaram a se distorcer.
 
 — Ele era um policial — sussurrou Gabo, a negação sendo sua última linha de defesa. — Ele odiava a Aeterna. Ele morreu investigando eles.
 
-— Ele *construiu* a Aeterna, Gabo. — A voz de Valéria era suave, mas implacável, cortando a ilusão como um bisturi. — Ou pelo menos, a base dela. A chave do Gamemaster desbloqueou um conjunto de coordenadas geográficas dentro do arquivo.
+— E assinou os testes que Nise mostrou. Isso nós já vimos. Este arquivo não o transforma em fundador da empresa. — Valéria virou a tela para ele. — Também não o inocenta. O bloco que abriu contém coordenadas.
 
 Gabo olhou para o mapa que se formava na tela lateral. Um ponto vermelho pulsava na periferia da cidade.
 
@@ -68,32 +76,42 @@ Gabo olhou para o mapa que se formava na tela lateral. Um ponto vermelho pulsava
 
 Gabo recuou. O ar pareceu ser sugado da caverna.
 
-O Gamemaster usando o rosto de seu pai em simulações. O núcleo contendo a chave de seu pai. E agora, as coordenadas para o próprio túmulo.
+O Gamemaster usando o rosto de seu pai em simulações. O núcleo contendo uma chave marcada com o nome do pai. E agora, as coordenadas para o próprio túmulo.
 
 Não era uma conspiração corporativa sem rosto. Era pessoal. Era uma piada doentia contada por um fantasma. Uma vida inteira, uma carreira inteira dedicada a "honrar a memória" de um homem que talvez nunca tivesse partido da forma que ele acreditava.
 
 A dor em seu ombro ferido pulsou violentamente, sincronizada com a batida ensurdecedora de seu coração. A raiva, quente e líquida, começou a substituir o choque.
 
-Ele socou a parede de concreto. Uma vez. Duas vezes. A dor nos nós dos dedos era focada, real, algo para ancorá-lo enquanto seu passado desmoronava.
+Gabo fechou a mão sobre a flanela. A queimadura repuxou e ele soltou o tecido.
 
-— Ele me deixou lutar sozinho — rosnou Gabo, os dentes trincados. — Ele deixou a cidade apodrecer. Ele me observou sangrar por quinze anos... e ele era o arquiteto?
+— Se ele estava vivo, viu tudo isso? Deixou a gente lutar?
 
-Ele se virou para Valéria. O detetive havia sumido. Restava apenas o filho traído.
+— Eu não sei se estava vivo. Não sei se podia ver ou escolher.
 
-— Ele me transformou em uma arma, Val. Ele moldou meu ódio, minha carreira, minha ética... tudo para me preparar para "O Jogo". Eu não fui um herói. Fui um peão.
+— Minha carreira inteira...
+
+— Não cabe nesse comentário de código.
+
+Ela baixou a tela. Pela primeira vez desde a fuga, não tentou preencher o silêncio com outro resultado. Gabo olhou para a tipoia: tinha quebrado o próprio corpo atrás de um nome. Agora alguém oferecia o mesmo nome como motivo para continuar.
 
 — Gabo... — Valéria tentou tocá-lo, mas ele se afastou.
 
-Ele pegou sua jaqueta e a arma. O movimento foi brusco, violento.
+Ele pediu o casaco. Valéria o ajudou a passar o tecido por cima da tipoia; manteve a bolsa com a arma.
 
 — Vamos lá, Val. Vamos cavar.
 
 — Gabo, se ele estiver vivo...
 
-— Se ele estiver vivo, eu o prendo — disse Gabo, a voz fria como o zero absoluto. — Mas se aquele túmulo estiver vazio... se for tudo uma mentira... eu não vou apenas queimar a Aeterna. Eu vou apagar o nome Moretti da história. Eu vou desmontar o legado dele, tijolo por tijolo, até não sobrar nada além de poeira.
+— Se estiver vivo, quero ouvi-lo. Se for uma montagem, quero quem montou.
 
-— Estou com você — disse Valéria, fechando seu deck e levantando-se. — Até o fim do código.
+Valéria mostrou a consulta do lote no cadastro funerário. A concessão aparecia cancelada, com remoção marcada para a manhã seguinte. Não sabiam se o aviso era verdadeiro, mas esperar também podia apagar a cena.
 
-— O código acabou — disse Gabo, caminhando em direção à saída do túnel, onde a chuva ácida esperava. — Agora é carne e sangue.
+Gabo enviou a Vilar o número do lote e um pedido de preservação. A mensagem ficou sem confirmação. Depois gravou o horário de saída e o motivo da visita.
 
-Eles deixaram a Zona Morta para trás, e o silêncio foi com eles.
+— Não vamos começar cavando — disse Valéria. — Primeiro olhamos quem já mexeu.
+
+— E não tocamos no que puder ficar no lugar.
+
+Ela fechou o deck. Sem a luz azul, o banco de plástico pareceu mais velho e o caminho até a saída, mais comprido.
+
+Na última olhada, o aviso já não dizia amanhã: **EQUIPE DE REMOÇÃO A CAMINHO.**

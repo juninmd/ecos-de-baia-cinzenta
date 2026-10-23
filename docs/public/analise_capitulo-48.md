@@ -1,16 +1,18 @@
-# Análise do Capítulo 48: Fantasma na Máquina
+# Revisão de Capítulo 48: Fantasma na Máquina
 
-## Avaliação Técnica
-- Ritmo: 9/10
-- Diálogos: 8/10
-- Atmosfera: 9/10
+Fonte: [capítulo 48](/capitulo-48.md).
 
-## Pontos Fortes e Fracos
-- Fortes: O foco na "guerra digital" que Valéria conduz em contraposição ao estado físico quebrado de Gabo é excelente. A dinâmica de "mercúrio" e o código-fonte da cidade dão vida ao ciberespaço.
-- Fracos: Nise age como um elemento de cura rápido (necessário para a continuidade), mas o sacrifício de Valéria mantém a tensão alta.
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-## Verificação de Sanidade (Lore Compliance)
-- Perfeita. A menção a "fumaça" no ditado holográfico de Valéria havia sido substituída por "mercúrio" conforme a memória de revisão indica, mantendo a consistência do bloqueio lexical de "fumaça" para Gabo, focando na dor da sua recente fratura para a narrativa.
+## Passagens de entrada e saída
 
-## Avaliação Qualitativa
-A dinâmica de "defensor ferido/mago de rede" funciona brilhantemente aqui. O capítulo eleva Valéria como co-protagonista indispensável sem ofuscar a importância do limite físico de Gabo.
+> Porão da Delegacia Central. Dia nove, 20h40.
+> O porão tinha três cheiros: cal, formol e roupa fervida. O terceiro vinha de uma panela de camping esquecida no canto, onde a Dra. Nise tinha esterilizado instrumental a tarde inteira, e era o único cheiro que parecia vivo. O bipe do monitor era o único som com ritmo. A chuva lá fora caía em bloco, como areia em telhado de zinco. Gabo estava de barriga para cima numa mesa de aço, coberto até o osso do peito por um lençol que já tinha sido branco. Sob o lençol, as pernas estavam afastadas por sacos de areia e presas com tiras de lona. Havia um cateter. Na parede à esquerda dele, uma folha de papel pardo com uma lista a lápis. Dezoito fraturas. Pélvis em quatro pedaços. Os dois fêmures. Três vértebras lombares.
+
+### Saída
+
+> O ponteiro dos minutos se moveu um risco para a esquerda. Depois outro. A chuva batia no poço de ventilação, o monitor bipava, e o relógio do Taxidermista continuava desfazendo o tempo dentro da caixa onde deveria estar o pai dele.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

@@ -1,18 +1,18 @@
-# Análise Crítica - Capítulo 103: A Convergência
+# Revisão de Capítulo 103: A Convergência
 
-## Avaliação Técnica
-- **Pacing (Ritmo):** 10/10 - Ação contínua culminando num clímax de tirar o fôlego. O "salto hidráulico" é a recompensa perfeita para a limitação física estabelecida.
-- **Dialogues (Diálogos):** 9/10 - A escolha imposta por Roberto é clichê, mas a resposta de Gabo ("Foda-se o legado") e a execução da cena validam a tropa narrativa.
-- **Atmosphere (Atmosfera):** 10/10 - A descrição do renascimento (Ventre explodindo, a frieza digital nos olhos orgânicos) cria um monstro perfeito.
+Fonte: [capítulo 103](/capitulo-103.md).
 
-## Pontos Fortes e Fracos
-- **Pontos Fortes:** O "Jardineiro" Silas não era o "boss" final, e sua morte anti-climática pelas mãos da própria criação é excelente. A dinâmica de Gabo sacrificando o quadro geral para salvar a irmã é fiel à sua bússola moral trágica.
-- **Pontos Fracos:** A absorção mágica de biomassa pelo novo Dante beira a fantasia, mas alinha-se às regras já propostas do Jardim e biotecnologia extrema.
+Miranda morre definitivamente. O Gênesis ativa uma cópia em biohost, e Silas é drenado. Reconhecer Dante não significa recuperar o pai sepultado.
 
-## Sanity Check (Lore Compliance)
-- **Regras do Lore:** Brilhantemente respeitadas. A cena do salto impossível foi totalmente justificada através da máquina: "usar o impulso de suas pernas mecânicas... impulsionado pela hidráulica no limite de ruptura". Nenhuma referência a cigarros ou quebra da fobia do personagem.
+## Passagens de entrada e saída
 
-## Avaliação Qualitativa
-- **Qualidade da História:** O capítulo consolida a ameaça suprema. Dante "Digital" renascido em carne como um ser frio e letal é a pior versão do luto.
-- **Coerência de Personagens:** Gabo agindo sob seus instintos de proteger os que ama é consistente.
-- **Necessidade de Novos Personagens:** Nenhuma. A encarnação de Dante é tudo que a trama precisa agora.
+> Zona de Exclusão Sul - O Núcleo do Berçário
+> O túnel desembocou em uma caverna vasta, uma catedral invertida escavada na rocha e reforçada com aço e biomassa. O ar era denso, quente e úmido, cheirando a ozônio e sangue coagulado.
+
+### Saída
+
+> Atrás deles, o vidro estalou sob os pés descalços do novo Dante. Ele vinha andando sem pressa, e as raízes negras se fecharam atrás dele como uma porta.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

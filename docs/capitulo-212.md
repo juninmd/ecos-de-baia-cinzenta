@@ -17,7 +17,7 @@ O bloqueio que fechava o eixo principal lembrava uma muralha viva petrificada no
 
 Elias deu um passo à frente, as mãos protegidas por luvas surradas segurando a ferramenta sônica que calibrara na descida. Seus joelhos ainda tremiam, mas o brilho em seus olhos era de pura concentração técnica.
 
-— O cristal de óxido tem uma frequência de cisalhamento em torno de quatro vírgula dois quilohertz, — disse ele, a voz firme apesar do frio que fazia seus dentes baterem. — Se eu emitir um pulso acústico concentrado no nó central, as ondas vão se propagar pela matriz de amônia e trincar a sustentação sem aquecer os condutores elétricos. Mas quando o gelo quebrar... a biomassa vai acordar por alguns segundos antes de morrer congelada de vez.
+— O cristal de óxido tem uma frequência de cisalhamento que a ferramenta ainda precisa encontrar no teste de contato, — disse ele, a voz firme apesar do frio que fazia seus dentes baterem. — Se eu emitir um pulso acústico concentrado no nó central, as ondas vão se propagar pela matriz de amônia e trincar a sustentação sem aquecer os condutores elétricos. Quando a crosta soltar, pode haver tecido vivo embaixo. Não vou prever que morre antes de alcançar a gente.
 
 — Deixa a biomassa por nossa conta, garoto, — Valéria assegurou, sacando a pistola curta e verificando o compensador com um estalo seco. — Você foca em abrir o buraco. Eu e o brutamontes aqui cuidamos de qualquer tentáculo que tentar fazer carinho no seu pescoço.
 
@@ -25,7 +25,7 @@ Elias assentiu, ergueu o bocal de cerâmica da ferramenta sônica e apontou dire
 
 Ele apertou o acionador manual.
 
-Um zumbido agudo, quase imperceptível para o ouvido humano mas devastador para a estrutura cristalina, cortou o ar gélido do túnel. O som parecia vibrar dentro das minhas têmporas e nos dentes da frente. Na superfície da parede congelada, linhas finas e brilhantes começaram a se desenhar em espiral, como teias de aranha rasgando uma vidraça maciça. A crosta de Geada Negra estalou com uma série de estalos secos e sucessivos, soltando lascas que tilintavam no piso de concreto como cacos de obsidiana.
+Um assobio agudo, vindo do bocal em contato com a crosta, cortou o ar gélido do túnel. O som parecia vibrar dentro das minhas têmporas e nos dentes da frente. Na superfície da parede congelada, linhas finas e brilhantes começaram a se desenhar em espiral, como teias de aranha rasgando uma vidraça maciça. A crosta de Geada Negra estalou com uma série de estalos secos e sucessivos, soltando lascas que tilintavam no piso de concreto como cacos de obsidiana.
 
 — Tá funcionando! — gritou Elias, aumentando a amplitude da frequência. — A estrutura molecular tá esfarelando! Três segundos até o ponto de ruptura!
 
@@ -39,7 +39,7 @@ O impacto da massa de ferro forjado contra o bloco de gelo fragilizado soou como
 
 Simultaneamente, enfiei o cano duplo da *Caronte* na brecha aberta e apertei os dois gatilhos.
 
-A explosão de chumbo grosso e tungstênio à queima-roupa desintegrou os cabos condutores e as raízes centrais em uma tempestade de fogo e estilhaços fumegantes. O pulso sônico já quebrara a continuidade entre os condutores: a corrente residual morreu no primeiro elo rompido, e da brecha saiu fumaça, não arco. O choque térmico do disparo contra o ambiente sub-zero fez as camadas adjacentes de metal e madeira fóssil entrarem em colapso catastrófico. Um buraco de um metro e meio abriu-se no centro da barricada, revelando o corredor limpo que conduzia diretamente aos portões do Hub Principal.
+A explosão de chumbo grosso e tungstênio à queima-roupa desintegrou os cabos condutores e as raízes centrais em uma tempestade de fogo e estilhaços fumegantes. Val já isolara a alimentação pelo painel da sala anterior e conferira a ausência de retorno na sonda; e da brecha saiu fumaça, não arco. O choque térmico do disparo contra o ambiente sub-zero fez as camadas adjacentes de metal e madeira fóssil entrarem em colapso catastrófico. Um buraco de um metro e meio abriu-se no centro da barricada, revelando o corredor limpo que conduzia diretamente aos portões do Hub Principal.
 
 Duas ramificações biomecânicas grossas chicotearam para fora das bordas da fenda, tentando agarrar o cano quente da escopeta e os tornozelos de Elias.
 
@@ -47,7 +47,7 @@ Valéria saltou para a frente com um movimento preciso e impiedoso, desferindo u
 
 O silêncio voltou a reinar no túnel, quebrado apenas pela nossa respiração entrecortada e pelo som fino de poeira de ferro caindo sobre as poças de óleo.
 
-Passei a mão enluvada no rosto, limpando a fuligem e o suor que já endureciam na pele fria. O cheiro de pólvora queimada e ozônio elétrico limpou meus pulmões de qualquer resquício de hesitação; o gosto de sangue na gengiva era o sinal inegável de que estávamos vivos, de que a travessia das catacumbas continuava rendendo território metro a metro desde a queda da Torre Aeterna anos atrás.
+Passei a mão enluvada no rosto, limpando a fuligem e o suor que já endureciam na pele fria. O cheiro de pólvora queimada e ozônio elétrico limpou meus pulmões de qualquer resquício de hesitação; o gosto de sangue na gengiva era o sinal inegável de que estávamos vivos, de que a travessia das catacumbas continuava rendendo território metro a metro desde a queda da Torre Aeterna.
 
 — Limpo, — declarei, recarregando a escopeta com dois cartuchos novos que tilintaram ao entrar na câmara.
 

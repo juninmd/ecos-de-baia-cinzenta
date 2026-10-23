@@ -1,11 +1,9 @@
-## Metadados
-- **Título:** Protocolo de Sombra
-- **Data In-Game:** 23 de Novembro, 04:30
-- **Localização:** Distrito 4 (Zona Comercial Abandonada / Clínica de Vasco)
-- **Personagens Presentes:** Gabo Moretti, Vasco (Novo - Traficante de Implantes), Saqueadores (Antagonistas).
-- **Foco:** Gabo emerge na superfície do Distrito 4 para encontrar uma cidade mergulhada no caos do apagão. Ele negocia suprimentos médicos para Rangel e microprocessadores série-K para o pendrive da Aria com Vasco, um "açougueiro de silício", e enfrenta um grupo de saqueadores na saída.
-
-## Narrativa
+---
+title: "Capítulo 123: Protocolo de Sombra"
+Data In-Game: "23 de Novembro, 04:30"
+Localização: "Distrito 4 (Zona Comercial Abandonada / Clínica de Vasco)"
+Personagens Presentes: "Gabo Moretti, Vasco (Novo - Traficante de Implantes), Saqueadores (Antagonistas)."
+---
 
 # Capítulo 123: Protocolo de Sombra
 
@@ -19,8 +17,7 @@ O Distrito 4 estava morto. Sem a "Voz" de Dante para coordenar a rede elétrica,
 
 Gabo ajustou o sobretudo, sentindo a umidade penetrar nas bandagens improvisadas sob a roupa. Ele tateou o bolso interno atrás do maço que nunca existira. Vazio. A ansiedade era uma coceira elétrica sob a pele, exigindo movimento, exigindo violência. Ele apertou o *Colar de Sol* até o metal morder a pele da palma. A dor física era sua única âncora contra o caos mental. O colar queimava frio contra sua mão, lembrando-o de quem ele era. Não o filho do comissário corrupto. Mas algo mais duro.
 
-*Missão. Rangel. Aria. Sobreviver.*
-
+Missão. Rangel. Aria. Sobreviver.
 Ele se moveu pelas sombras, evitando as avenidas principais. O caos já havia se instalado. Vitrines estilhaçadas vomitavam manequins e eletrodomésticos na calçada. Corpos — alguns recentes, vítimas do pânico inicial — jaziam ignorados nas sarjetas.
 
 Gabo virou em um beco estreito atrás de uma lavanderia industrial. O cheiro de produtos químicos e sangue velho era forte ali, mascarando o odor insuportável de queimado da rua principal. Ele parou diante de uma porta de aço reforçada, marcada apenas com um símbolo de risco biológico pintado com spray vermelho.
@@ -53,7 +50,7 @@ O traficante olhou confuso, depois sorriu, revelando gengivas sintéticas.
 
 — Está apagado, Moretti. Economizando para o fim do mundo. Você parece um cadáver. O que você quer?
 
-— Antibióticos. Espectro total. E uma ponte de silício com microprocessadores neurais série-K, se tiver.
+— Material de emergência lacrado. Um cirurgião que possa ir ou uma linha para o hospital. E uma ponte de silício com microprocessadores série-K, se tiver.
 
 Vasco assobiou.
 
@@ -71,7 +68,9 @@ O homem largou a serra e cruzou os braços mecânicos.
 
 Vasco ponderou, os olhos biônicos zumbindo.
 
-— Certo. Leve o que precisar da prateleira três. Mas me deve uma. Se a segurança da Aeterna vier bater aqui, eu digo que você me roubou.
+Vasco levou a mensagem ao rádio de serviço da clínica, por uma frequência diferente da usada na usina. O posto respondeu: a mulher do porto chegara, Nise recebera o endereço e saíra com uma equipe de transporte. Gabo pediu que repetissem a localização antes de acreditar.
+
+— Certo. Leve os kits lacrados da prateleira três. Mas me deve uma. Se a segurança da Aeterna vier bater aqui, eu digo que você me roubou.
 
 Gabo encheu uma mochila impermeável com os frascos e caixas de componentes eletrônicos. Ele sabia que "dever uma" a Vasco significava sangue futuro, mas Rangel não tinha tempo para negociações éticas.
 
@@ -93,13 +92,13 @@ A porta da frente explodiu para dentro com o impacto de um pé de cabra. Três f
 
 Gabo não hesitou. Ele não podia gastar munição. Ele esperou o primeiro passar pela entrada e avançou das sombras.
 
-O cabo da Glock atingiu a têmpora do invasor com um *crack* seco. O homem caiu sem um som. Gabo girou, usando o corpo dele como escudo quando o segundo homem disparou uma pistola de pregos.
+O cabo da Glock atingiu a têmpora do invasor com um *crack* seco. O homem caiu sem um som. Gabo caiu atrás da bancada quando o segundo homem disparou uma pistola de pregos.
 
-*Tack-tack-tack.* Os pregos atingiram o colete do homem caído.
+*Tack-tack-tack.* Os pregos atravessaram o forro da bancada. Um atingiu a perna do homem caído; Gabo ouviu o grito e não pôde alcançá-lo.
 
 Vasco disparou sua espingarda. O flash iluminou a sala como um relâmpago, revelando o caos. O tiro acertou o terceiro invasor no peito, jogando-o contra as prateleiras de vidro.
 
-O segundo homem, em pânico, tentou recarregar. Gabo soltou o corpo inerte e avançou. Um chute no joelho, quebrando a articulação, seguido de um soco descendente na nuca. Eficiente. Brutal. Silencioso.
+O segundo homem, em pânico, tentou recarregar. Gabo empurrou o carrinho de instrumentos contra as pernas do invasor. Vasco manteve a arma apontada enquanto ele afastava a pistola de pregos com a ferramenta. O homem caiu sobre o vidro e continuou gritando. Não era uma vitória limpa.
 
 O silêncio voltou à loja, agora pontuado pelos gemidos dos feridos.
 

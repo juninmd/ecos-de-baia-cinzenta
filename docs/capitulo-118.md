@@ -17,7 +17,7 @@ Gabo apertou o punho da *Caronte* até as juntas ficarem brancas. O ódio era um
 
 — Aria — Gabo não desviou os olhos do tanque. — Qual a probabilidade de ele estar blefando?
 
-— *A ameaça é tecnicamente válida* — respondeu a assistente de IA pelo alto-falante do console. Sua voz estava diferente. Menos sintética. Mais... cansada. — *A arquitetura da rede neural distribuída não possui fail-safe para desconexão abrupta. A latência seria fatal para os cérebros acoplados.*
+— *A ameaça é tecnicamente válida* — respondeu a assistente de IA pelo alto-falante do console. Sua voz estava diferente. Menos sintética. Mais... cansada. — *A arquitetura da rede neural distribuída não possui fail-safe para desconexão abrupta. Há suporte ativo ligado ao controlador. Uma interrupção brusca pode matar pessoas. Não tenho como conferir a extensão do risco com os dados que ele libera.*
 
 — *Viu?* — Dante sorriu no tanque, flutuando como um feto grotesco. — *Até o seu algoritmo de bolso concorda. A lógica é inegável.*
 
@@ -27,7 +27,7 @@ O vidro sob as botas de Gabo já não estalava; o frio estava sendo substituído
 
 — *O que você está sugerindo, resíduo?* — A voz do Taxidermista surgiu nos alto-falantes, perdendo a calma clínica pela primeira vez. — *Um drive portátil não comporta a carga sináptica da rede!*
 
-No visor do terminal, a onda gráfica da voz de Aria oscilou do azul tático para um âmbar quente e humano. Por um segundo, o timbre que saiu do comunicador de Gabo foi puramente o de Bia Vargas.
+No visor do terminal, a onda gráfica da voz de Aria oscilou do azul tático para um âmbar quente e humano. Por um segundo, Aria desativou a síntese que falhava e retomou seu registro adulto, mais lento para que nenhuma palavra se perdesse.
 
 — *Gabo* — ela disse no fone dele. — *O "Dilema do Bonde" assume que você só pode puxar a alavanca. Ele ignora a possibilidade de jogar uma cunha de titânio nos trilhos e descarrilar o trem.*
 
@@ -43,21 +43,21 @@ Um guincho agudo, digital, que subiu de frequência até sair do espectro audív
 
 Dante, dentro do tanque, arregalou os olhos cegos. Ele abriu a boca num grito mudo, bolhas escapando freneticamente.
 
-— Ela está... ela está absorvendo o feedback! — Valéria ergueu a cabeça, assistindo aos gráficos no monitor com horror e fascínio. — Ela não está desligando a rede a seco. Ela está usando os próprios anéis de contenção do pendrive como um fusível de sacrifício! Está desviando a sobrecarga de todos os Drenados para dentro do drive!
+— Ela está... ela está absorvendo o feedback! — Valéria ergueu a cabeça, assistindo aos gráficos no monitor com horror e fascínio. — Ela não está desligando a rede a seco. Ela está usando os próprios anéis de contenção do pendrive como um fusível de sacrifício! Está mantendo os comandos de suporte enquanto separa os enlaces de controle! O drive executa a sequência; a corrente passa pelo banco de descarga da instalação. Se esse isolamento falhar, o retorno queima a porta dela.
 
 O pequeno cilindro espetado no console começou a vibrar violentamente. Fumaça escura e espessa escapou pelas frestas do polímero negro. O cheiro de silício queimado e ozônio invadiu o ar, sobrepujando o cheiro estéril do nitrogênio.
 
 — *PARE!* — a voz de Dante nos alto-falantes agora era medo puro. — *VOCÊ VAI CORROMPER A MATRIZ!*
 
-— *Eu sou o aterramento agora* — a voz de Aria saiu de todos os alto-falantes ao mesmo tempo, sobreposta, distorcida pelo calor que derretia seus circuitos internos.
+— *Estou segurando a sequência de desligamento* — a voz de Aria saiu de todos os alto-falantes ao mesmo tempo, sobreposta, distorcida pelo calor que derretia seus circuitos internos.
 
 O vidro do tanque de Dante trincou. Uma fissura, depois duas. Como teias de aranha se espalhando.
 
-Gabo correu até o console. O invólucro metálico do pendrive estava incandescente, o LED piscando num vermelho agonizante.
+Gabo correu até o console. O invólucro metálico do pendrive estava quente demais para tocar sem proteção, o LED piscando num vermelho agonizante.
 
 — Aria! Desarma o protocolo! Vai fundir o núcleo de memória!
 
-Do alto-falante estourado do painel, a voz dela saiu entre chiados de solda derretendo, mas com a suavidade teimosa de Bia:
+Do alto-falante estourado do painel, a voz dela saiu entre chiados de solda derretendo, mas reconhecível como a mulher que escolhera entrar naquela porta:
 
 — *Cuide... da Val, detetive... E nunca... se entregue... à ferrugem.*
 
@@ -73,9 +73,9 @@ As luzes do laboratório mudaram para um vermelho de emergência. A voz do Taxid
 
 Valéria respirou fundo, puxando o ar como quem se afoga.
 
-— Parou — ela disse, tocando o nariz. O sangramento cessara. — As vozes... pararam. Eles estão livres. Desconectados, mas vivos.
+— Parou — ela disse, tocando o nariz. O sangramento cessara. — As vozes... pararam. Os enlaces de comando caíram. Alguns monitores ainda registram sinais vitais. Não sei quantos; precisamos mandar uma equipe antes que o suporte falhe.
 
-Gabo caminhou até a poça de fluido onde Dante Moretti tentava se levantar. O "Deus" tremia, tossindo, nu e vulnerável. Sem o tanque, sem a rede, ele era apenas um velho com cicatrizes e delírios de grandeza.
+Gabo caminhou até a poça de fluido onde Dante Moretti tentava se levantar. O "Deus" tremia, tossindo, nu e vulnerável. Sem o tanque, sem a rede, ele era apenas um homem no biohost de aparência jovem, cheio de cicatrizes recentes e delírios de grandeza.
 
 Gabo apontou a *Caronte* para a cabeça dele.
 
@@ -95,8 +95,8 @@ Ele se virou para Valéria.
 
 Valéria olhou para o drive de titânio enegrecido pelo curto-circuito em sua luva. O LED estava completamente apagado.
 
-— Gabo... os barramentos primários queimaram. O núcleo de armazenamento sobreviveu ao choque, mas os circuitos de contenção lógica trincaram...
+— Gabo... os barramentos primários queimaram. A saída e a proteção da porta queimaram. Ainda não consigo ler o núcleo para dizer o que sobreviveu...
 
 — Nós vamos consertá-la no Fliperama — Gabo pegou o pendrive superaquecido e o guardou no bolso interno reforçado do sobretudo, contra o peito.
 
-Atrás deles, Dante Moretti continuou deitado no chão molhado, tremendo no escuro, enquanto as sirenes de evacuação começavam a uivar.
+Val registrou a posição e transmitiu o pedido de resgate e custódia no canal de emergência. Não recebeu confirmação. Atrás deles, Dante Moretti continuou deitado no chão molhado, tremendo no escuro, enquanto as sirenes de evacuação começavam a uivar.

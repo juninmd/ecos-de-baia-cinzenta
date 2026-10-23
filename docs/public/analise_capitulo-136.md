@@ -1,11 +1,17 @@
-# Análise Crítica - Capítulo 136
+# Revisão de Capítulo 136: Peso da Carne
 
-## Consistência de Personagem (Lore)
-- **Gabo (Fobia de Fumaça):** Corrigida quebra absurda de lore ("Ele precisava de nicotina"). Trocamos o desejo por alívio químico para o sufocamento pelo trauma e como a fobia quase o paralisava, forçando-o a usar a dor na mão do Colar de Sol.
-- **Gabo (Pernas Mecânicas):** A tensão da descida agora desgasta corretamente suas próteses de pernas, que rangem de esforço.
+Fonte: [capítulo 136](/capitulo-136.md).
 
-## Trama e Continuidade
-- Lógica de descida e estratégia de Aria são consistentes com seu novo modo focado e sem empatia.
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-## Conclusão da Revisão
-**Aprovado.**
+## Passagens de entrada e saída
+
+> O ar nos túneis de manutenção da Necrópole não era apenas viciado; ele tinha textura. Era uma sopa fria de metano, ferrugem e o cheiro adocicado de esgoto antigo que cobria a garganta como um filme de óleo.
+
+### Saída
+
+> Eles não estavam apenas fugindo. Eles estavam entrando no santuário.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

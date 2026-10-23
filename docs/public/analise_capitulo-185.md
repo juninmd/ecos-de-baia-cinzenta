@@ -1,11 +1,17 @@
-# Análise Crítica - Capítulo 185
+# Revisão de Capítulo 185: O Verdor Metálico
 
-## Consistência de Personagem (Lore)
-- **Gabo:** Respeita perfeitamente as regras de fobia e exaustão física da obra. O capítulo usa o gatilho da fumaça como alucinação asfixiante e mostra a auto-tortura de Gabo usando a prótese industrial grosseira (soldada por Vasco) na parede do elevador.
-- **Valéria:** Presa no modo de segurança, calculando ritmos com frieza mecânica e expondo dados sobre os bio-receptáculos mortos do complexo do Jardim.
+Fonte: [capítulo 185](/capitulo-185.md).
 
-## Trama e Continuidade
-- Chegada formal ao Complexo Hidropônico do Setor 7. O arco orgânico se funde com a tecnologia em uma megacolmeia subterrânea. O tom do final corrobora as anotações do lore.
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-## Conclusão da Revisão
-**Aprovado.**
+## Passagens de entrada e saída
+
+> O elevador de carga parou com um solavanco brutal, acompanhado por um rangido que soou como a espinha dorsal de um guindaste enferrujado se partindo sob peso excessivo. As portas corrediças de aço reforçado se abriram com lentidão relutante, vomitando uma lufada de ar viciado que nos atingiu como um soco térmico.
+
+### Saída
+
+> Deixamos o patamar do elevador e começamos a descer a escadaria de serviço, mergulhando na névoa fosforescente daquele pomar profano, onde a linha entre carne humana e máquina corporativa havia sido apagada para sempre.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

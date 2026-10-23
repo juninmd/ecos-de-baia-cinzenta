@@ -5,9 +5,8 @@ Localização: "Dia 46 do Dilúvio - Refúgio Subterrâneo"
 ---
 # Capítulo 55: A Tentação de Lázaro
 
-**Dia 46 do Dilúvio - Refúgio Subterrâneo**
-
-A dor na coluna de Gabo era um lembrete constante de sua mortalidade. Sem as órteses, ele se movia com dificuldade, apoiado em uma bengala improvisada feita de cano de PVC.
+Dia 46 do Dilúvio - Refúgio Subterrâneo
+A dor na coluna de Gabo era um lembrete constante de sua mortalidade. Com as órteses travadas em modo passivo, fazia apenas transferências curtas com ajuda. A bengala de PVC ficava ao alcance para equilíbrio; não substituía a estrutura.
 
 Ele estava sozinho no bar improvisado do esconderijo, tentando afogar a dor em uísque barato, quando ela entrou.
 
@@ -69,7 +68,7 @@ Mas então, Gabo viu.
 
 No pulso de Isadora, sob a manga do vestido, havia uma marca roxa. Uma contusão em forma de dedos mecânicos.
 
-A mão de Gabo passou pelo frasco e agarrou o pulso dela com violência.
+A mão de Gabo passou pelo frasco e parou junto do pulso dela, sem fechá-lo na mão.
 
 — Quem fez isso em você? — ele rosnou.
 
@@ -79,7 +78,7 @@ O sorriso de Isadora vacilou.
 
 — Foi o Miranda, não foi? Com aquela mão de metal dele.
 
-Isadora tentou puxar o braço, mas Gabo segurou firme. Ele viu o medo nos olhos dela. Não o medo de uma vilã pega, mas o medo de uma vítima.
+Isadora recolheu o braço. Gabo afastou a mão para deixá-la cobrir a marca se quisesse. Ele viu o medo nos olhos dela. Não o medo de uma vilã pega, mas o medo de uma vítima.
 
 — Você veio aqui me vender o paraíso, mas você vive no inferno, não é, Isadora?
 

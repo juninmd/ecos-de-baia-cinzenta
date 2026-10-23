@@ -1,15 +1,38 @@
-# Análise do Capítulo 8: Ressaca Digital
+# Parecer — Capítulo 8: Ressaca Digital
 
-## Avaliação Técnica
-- **Ritmo (Pacing):** 7/10. Um capítulo mais lento de transição e estabelecimento de cena (world-building) após os eventos anteriores.
-- **Diálogos:** 8/10. A interação entre Gabo, Valéria e Vilar ajuda a definir as consequências da perda da IA central.
-- **Atmosfera:** 8/10. O tom noir da cidade decadente e poluída (chuva ácida, cacofonia analógica) está muito bem construído.
+Revisão de 21/10/2026. Leitura da fonte [atual](/capitulo-8.md), do
+[anterior](/capitulo-7.md) e do [seguinte](/capitulo-9.md).
+Prosa e espelho sincronizados; nota editorial não é nota do script lexical.
 
-## Pontos Fortes e Fracos
-- **Pontos Fortes:** Estabelece bem o novo status quo de Baía Cinzenta "livre", mas caótica. Apresenta o mistério do assassinato de Kiko Vibe de maneira instigante.
-- **Pontos Fracos:** A transição do Gabo bebendo no chão para a delegacia poderia ser um pouco mais detalhada em suas motivações emocionais imediatas.
+## Mudanças e personagens
 
-## Sanity Check (Lore e Personagens)
-- **Gabo:** Perfeito alinhamento com a diretriz. Usa álcool barato para lidar com a "ressaca", mas não há nenhuma menção a tabaco/cigarro.
-- **Valéria:** Presença forte com suas melhorias cibernéticas, demonstrando sua habilidade técnica. (Nota: Aqui ela ainda não está em "Safe Mode", o que é correto para a cronologia do capítulo 8).
-- **Trama:** O conceito de "Shadowban" físico e digital é uma excelente premissa cyberpunk.
+O intervalo de três meses passa a conter atendimento, custódia, retorno à represa,
+transferência de investigação e tentativa de retirada do chip. Valéria controla
+a preservação e o isolamento de arquivos. Temperatura e falha de resfriamento
+vêm de registro de emergência; fotografia não determina autoria. A aparência
+segue o dossiê: bob assimétrico com fios azuis e olhos azul-gelo.
+
+## Portões
+
+| Critério | Resultado |
+| --- | --- |
+| D1 | 1.207 palavras de prosa; dentro do alvo |
+| D2 | Um H1, igual ao menu |
+| D3 | Local, pessoas presentes e participações indiretas separados |
+| D4 | Estado corporal, hardware e identidades conferidos no bloco; pendências globais abaixo |
+| D5 | Rosto de Kiko continua no anúncio depois da remoção do nome |
+
+## Notas de leitura
+
+Atmosfera 2: som, café e chuva interferem na rotina. Custo 2: salário perdido e
+cicatriz da tentativa de retirada não desaparecem. Voz 2: limites de Valéria,
+pressão de Vilar e cinismo de Gabo distintos. Ritmo 2: dados entram por disputa.
+Consequência 1: enfrenta o fracasso institucional e abre o novo caso. Total: 9/10.
+
+## Limites e continuidade
+
+A remoção da estrutura da represa não equivale a negar a filmagem. O conteúdo do
+chip permanece fechado. O pedido de transferência de Miranda ainda será seguido
+em 12. Origem do Colar de Sol no início continua pendência global.
+
+Veredito: revisão local aplicada. Aprovação integral do arco permanece pendente.

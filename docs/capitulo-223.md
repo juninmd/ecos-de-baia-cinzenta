@@ -7,35 +7,19 @@ Personagens Presentes: Gabo, Valéria, Elias, Dra. Elara Vance
 
 # Capítulo 223: A Auditora
 
-As duas chaves giraram juntas.
+As duas chaves giraram juntas. Elias contou até três com a voz tremendo e nós dois viramos ao mesmo tempo, e o som foi de duas travas mecânicas pesadas caindo em um encaixe que esperava aquilo há anos. Um estalo gordo, satisfeito, de coisa bem feita.
 
-Elias contou até três com a voz tremendo e nós dois viramos ao mesmo tempo, e o som foi de duas travas mecânicas pesadas caindo em um encaixe que esperava aquilo há anos. Um estalo gordo, satisfeito, de coisa bem feita.
+O berço soltou pressão pelas laterais. Vapor branco escorreu pelo chão de epóxi e se dissipou sem deixar cheiro. A tampa de vidro subiu quinze centímetros e parou. Por três minutos inteiros não aconteceu absolutamente nada, e eu comecei a achar que a gente tinha matado a mulher. Aí ela inspirou.
 
-O berço soltou pressão pelas laterais. Vapor branco escorreu pelo chão de epóxi e se dissipou sem deixar cheiro.
+Foi horrível. Foi o som de alguém aprendendo a respirar do zero, com pulmões dependentes do suporte desde que ela entrara ali, e ela tossiu, e a tosse foi seca e feia e sem força nenhuma, e a mão dela — perfeita, com as unhas ainda feitas — se ergueu quinze centímetros e caiu de volta no forro branco.
 
-A tampa de vidro subiu quinze centímetros e parou.
+Elias correu para ajudar. Valéria consultou o painel de retirada assistida e guiou o suporte do berço; eu segurei a manta junto à mão dela. Não havia dignidade nenhuma em deixar uma mulher sufocar para conferir se continuava inteligente.
 
-Por três minutos inteiros não aconteceu absolutamente nada, e eu comecei a achar que a gente tinha matado a mulher.
-
-Aí ela inspirou.
-
-Foi horrível. Foi o som de alguém aprendendo a respirar do zero, com pulmões que passaram anos sendo ventilados por máquina, e ela tossiu, e a tosse foi seca e feia e sem força nenhuma, e a mão dela — perfeita, com as unhas ainda feitas — se ergueu quinze centímetros e caiu de volta no forro branco.
-
-Elias correu para ajudar. Eu segurei o braço dele.
-
-— Espera.
-
-— Ela está sufocando!
-
-— Ela está calculando.
-
-E estava.
+A doutora recuperou o ar aos poucos. Mesmo assim, quando conseguiu abrir os olhos de novo, já estava nos avaliando.
 
 Porque, entre uma tosse e outra, com o corpo inútil e a garganta em carne viva, os olhos azul-gelo da Dra. Elara Vance já tinham varrido a galeria inteira, contado três intrusos, medido o meu ombro sangrando, identificado os implantes de Valéria e registrado a mochila do Elias.
 
-Ela estava trabalhando. Meio morta, e trabalhando.
-
-A quarta tentativa de falar saiu como som.
+Ela estava trabalhando. Meio morta, e trabalhando. A quarta tentativa de falar saiu como som.
 
 — Vocês... — A voz era um sussurro rasgado. — Vocês demoraram.
 
@@ -55,7 +39,7 @@ Ela virou a cabeça — dois centímetros, e custou tudo que ela tinha — e me 
 
 Levou quase uma hora até ela conseguir sentar.
 
-Valéria a hidratou com soro de sessenta anos que ainda estava bom, e mediu tudo, e informou em voz alta os números que ninguém pediu. Elias arrumou uma manta térmica. E a Dra. Elara Vance, com a coluna apoiada na parede branca e as pernas ainda mortas dentro do berço, começou a falar do jeito que ela devia falar em reunião de diretoria: em ordem, sem adjetivo, sem pedir desculpa.
+O suporte do berço completou a retirada assistida com os materiais de reposição identificados na enfermaria. Valéria leu os avisos, ofereceu água quando o painel permitiu e evitou levantar a doutora antes de ela conseguir sustentar a cabeça. Elias arrumou uma manta térmica. E a Dra. Elara Vance, com a coluna apoiada na parede branca e as pernas ainda mortas dentro do berço, começou a falar do jeito que ela devia falar em reunião de diretoria: em ordem, sem adjetivo, sem pedir desculpa.
 
 — Vocês encontraram o arquivo.
 
@@ -89,7 +73,7 @@ Eu levei um tempo para respirar depois disso.
 
 — A senhora está me dizendo que ajudou a construir aquilo tudo... para ter arquivo.
 
-— Estou dizendo que eu tinha duas opções ruins e escolhi a que deixava rastro. — Ela apontou o queixo na direção da porta do arquivo. — Sessenta e um anos de admissões, protocolos, nomes e datas, em papel, em microfilme e em fita, numa instalação que nunca esteve conectada a rede nenhuma. A Praga de Ferro não chegou aqui. O Jardim não chegou aqui. O Sentinel não chegou aqui. — Um sorriso mínimo, e não tinha nenhuma alegria nele. — Eles apagaram todo o resto, inspetor. Cada servidor, cada backup, cada boletim. Este é o único lugar do mundo onde ainda está escrito o que foi feito com aquelas pessoas.
+— Estou dizendo que eu tinha duas opções ruins e escolhi a que deixava rastro. — Ela apontou o queixo na direção da porta do arquivo. — Sessenta e um anos de admissões, protocolos, nomes e datas, em papel, em microfilme e em fita, numa instalação que nunca esteve conectada a rede nenhuma. A Praga de Ferro não chegou aqui. O Jardim não chegou aqui. O Sentinel não chegou aqui. — Um sorriso mínimo, e não tinha nenhuma alegria nele. — Eles apagaram todo o resto, inspetor. Cada servidor, cada backup, cada boletim. Aqui estão séries de documentos que eu preservei. Não posso garantir que apagaram todas as outras, nem que tudo o que arquivamos seja verdadeiro. Vocês terão de conferir as origens e ouvir quem sobreviveu.
 
 — E a senhora guardou a fita do meu pai.
 
@@ -115,13 +99,25 @@ O corredor branco ficou muito quieto.
 
 Eu apertei o Colar de Sol até o metal cortar a palma. A dor veio limpa e eu deixei.
 
-Quinze anos. Quinze anos achando que a coisa com o rosto do meu pai era uma profanação. E era. Mas era também a última coisa que ele conseguiu fazer por mim, e ele fez ela em vinte e dois minutos numa cadeira de metal, sabendo exatamente para onde estava indo.
+Quinze anos procurando meu pai. Meses olhando a coisa com seu rosto e chamando aquilo de profanação. E era. Mas era também a última coisa que ele conseguiu fazer por mim, e ele fez ela em vinte e dois minutos numa cadeira de metal, sabendo exatamente para onde estava indo.
 
 — Por que a senhora entrou no berço? — perguntei, quando consegui.
 
-— Porque eu ia ser apagada. — Simples, sem drama. — Quando o Krell assumiu, a primeira coisa que ele fez foi consolidar arquivos. A segunda foi eliminar quem tinha lido os arquivos antigos. Eu não fugi da queda da Aeterna, inspetor. Eu me **coloquei em quarentena**, junto com a única cópia física da verdade, atrás de quatro metros de chumbo, com uma tranca que exige duas pessoas do lado de fora.
+— Retiraram-me da custódia para a fila do Berçário. Eu usei o transporte de serviço da auditoria antes da entrega final. A baixa nunca foi lançada; deixei a ordem de transferência junto dos cadernos que mandei à Elena. — Ela procurou apoio para a cabeça. — Não consegui avisar de novo depois que entrei neste berço, meses atrás.
+
+— Então a fila não era uma localização — falei.
+
+— Era uma ordem que não se completou. Há diferença.
+
+— E o vidro?
+
+— Porque eu ia ser apagada. — Simples, sem drama. — Quando o Krell assumiu, a primeira coisa que ele fez foi consolidar arquivos. A segunda foi eliminar quem tinha lido os arquivos antigos. Eu não fugi da queda da Aeterna, inspetor. Eu me **coloquei em quarentena**, junto com a única cópia física da verdade, atrás de quatro metros de concreto revestido de chumbo, com uma tranca que exige duas pessoas do lado de fora.
 
 — Duas pessoas.
+
+— Há uma autorização de 2019 com as iniciais dele — falei. — E um corpo sem nome. Esta fita não responde por aquilo.
+
+— Não responde — disse a doutora. — Uma admissão forçada não torna inocente tudo o que veio antes. Procurem o documento completo, não a conclusão que desejam dele.
 
 — Duas. — E os olhos azul-gelo brilharam com alguma coisa que eu não soube nomear. — Eu projetei essa tranca pessoalmente. Uma pessoa sozinha nunca conseguiria me acordar. É preciso que **duas** pessoas atravessem oitocentos metros de inferno e concordem, no mesmo segundo, em girar a chave.
 
@@ -139,13 +135,9 @@ A Dra. Elara Vance olhou para ele. Para o macacão imundo, para a lanterna de d�
 
 ---
 
-Foi nesse momento que a luz mudou.
+Foi nesse momento que a luz mudou. As luminárias embutidas no teto, apagadas desde que a gente entrou, acenderam de uma vez em toda a extensão da galeria — não em branco, mas em **âmbar**. Um âmbar lento, quente, de aviso educado.
 
-As luminárias embutidas no teto, apagadas desde que a gente entrou, acenderam de uma vez em toda a extensão da galeria — não em branco, mas em **âmbar**. Um âmbar lento, quente, de aviso educado.
-
-Em algum lugar atrás das paredes, uma bomba entrou em funcionamento com um zumbido grave.
-
-Valéria levantou a cabeça.
+Em algum lugar atrás das paredes, uma bomba entrou em funcionamento com um zumbido grave. Valéria levantou a cabeça.
 
 — Consumo de reserva, — ela disse. — A sequência de despertar drenou o banco primário. O sistema acaba de transferir a carga para o secundário.
 
@@ -153,6 +145,6 @@ A Dra. Vance fechou os olhos e assentiu, como quem confere um item numa lista.
 
 — Doutora, — falei. — Quanto tempo esse lugar aguenta agora?
 
-E ela respondeu sem hesitar, porque ela já sabia a resposta havia sessenta e um anos:
+E ela respondeu sem hesitar, porque ela conhecia os limites do próprio berço:
 
 — Trinta e uma horas.

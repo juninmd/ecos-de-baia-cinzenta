@@ -15,7 +15,7 @@ O Jardim não lhes dera a decência da decomposição. Ele os transformara em se
 
 Não havia vento ali, e mesmo assim o ar se mexia. Vinha do selo em pulsos curtos, um sopro de fole velho que trazia cheiro de ferro molhado, açúcar queimado e uma nota mais funda, de carne esquecida na geladeira depois do blecaute. O gosto chegava antes: cobre na língua, aquele azedume de morder papel-alumínio.
 
-Abaixei o facho da lanterna pelas botas dos enforcados. Nenhuma tinha lama. Nenhuma tinha sangue seco no solado. Homem que morre atirando num corredor não fica com a bota limpa. Aqueles cinco tinham sido recolhidos, carregados e pendurados com o cuidado de quem guarda ferramenta boa no fim do expediente. O Jardim não os tinha matado. O Jardim os tinha herdado.
+Abaixei o facho da lanterna pelas botas dos enforcados. Nenhuma tinha lama. Nenhuma tinha sangue seco no solado. A sola limpa não dizia como tinham morrido. Podiam ter sido lavados, trocados de roupa, recolhidos de outro lugar. Aqueles cinco tinham sido recolhidos, carregados e pendurados com o cuidado de quem guarda ferramenta boa no fim do expediente. O Jardim os usava. Quem os entregara ainda precisava de nome e prova.
 
 Um deles ainda carregava o crachá preso ao peito. Turno C, Setor Sete, e uma foto que a umidade já apagara até virar mancha. Anotei o turno, como se guarda uma conta que não vai ser paga.
 
@@ -33,8 +33,7 @@ O primeiro sentinela avançou, veloz de um jeito antinatural que a biologia comu
 
 Eu não tinha espaço para esquivar com a perna avariada. Plantei a bota no lodo e ergui o antebraço da prótese pesada para interceptar o golpe.
 
-*ZAP-CLANG!*
-
+ZAP-CLANG!
 A descarga elétrica de alta voltagem espalhou-se pela blindagem da armação numa cascata de faíscas incandescentes. O choque ressoou pelos pregos neurais no meu ombro como ferro em brasa, mas a carcaça de carregador das docas absorveu o impacto principal sem ceder um milímetro.
 
 Travei a mandíbula contra o tranco e disparei o pistão hidráulico num soco ascendente.
@@ -51,7 +50,7 @@ Dois outros avançavam pela esquerda, contornando a passarela para flanquear Val
 
 Saquei *Caronte* com a mão esquerda e disparei à queima-roupa no peito do sentinela do meio.
 
-O estrondo ensurdecedor da escopeta de calibre doze sacudiu a câmara estreita. A carga pesada de balotes rasgou o colete tático podre e estilhaçou a coluna vertebral do cadáver reanimado, arremessando-o por cima do corrimão para o abismo do fosso.
+O estrondo ensurdecedor da escopeta de calibre doze sacudiu a câmara estreita. A carga pesada de balotes rasgou o colete tático podre e estilhaçou a coluna vertebral do cadáver reanimado, fazendo-o perder o apoio junto ao corrimão já rompido. O corpo caiu no fosso; o tiro sozinho não o lançara pela câmara.
 
 O recuo brutal quase arrancou a arma da minha mão e jogou meu corpo contra a parede de concreto, mas antes que o terceiro pudesse erguer o bastão sobre a cabeça de Valéria, dei um passo à frente e enterrei os dedos de ferro da prótese na garganta dele.
 

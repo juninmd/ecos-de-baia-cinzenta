@@ -1,11 +1,9 @@
-## Metadados
-- **Título:** O Frio da Lógica
-- **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
-- **Localização:** Necrópole (Subnível 6.0 para 5.0 - Dutos de Exaustão)
-- **Personagens Presentes:** Gabo, Valéria, Aria (Reboot)
-- **Resumo:** Nos dutos de exaustão congelados entre os Subníveis 6.0 e 5.0, Gabo e Valéria rastejam sob risco severo de hipotermia enquanto o pendrive de Aria mapeia o caminho pelo cyberdeck. Diante de um gigantesco rotor industrial bloqueando o conduíte e isolado da rede, Gabo é forçado a se espremer entre as lâminas congeladas para acionar o destravamento manual do outro lado, escapando por um triz quando o Taxidermista reativa o ventilador.
-
-## Narrativa
+---
+title: "Capítulo 152: O Frio da Lógica"
+Data In-Game: "Pós-Colapso da Usina Prometeu (Noite Eterna)"
+Localização: "Necrópole (Subnível 6.0 para 5.0 - Dutos de Exaustão)"
+Personagens Presentes: "Gabo, Valéria, Aria (Reboot)"
+---
 
 # Capítulo 152: O Frio da Lógica
 
@@ -17,7 +15,7 @@ Ele precisava dessa agonia. Sem o choque lancinante do frio contra as terminaç�
 
 — Foda-se... — murmurou Valéria atrás dele. A respiração dela formava nuvens densas. Ela estava tremendo violentamente, o corpo miúdo lutando contra a hipotermia enquanto arrastava o braço com o cyberdeck pelo tubo. — O Rangel... ele teria congelado aqui no primeiro minuto.
 
-— *A biologia dele já havia falhado no subnível anterior,* — a voz sintética de Aria soou pelo comunicador de gola e pelo alto-falante do pulso de Valéria, perfeitamente clara, sem a menor alteração ou tremor. — *A preservação térmica não é uma variável para tecido necrótico. O silêncio é aconselhável. As vibrações vocais podem acionar gatilhos acústicos nos sensores do Taxidermista.*
+— *A biologia dele já havia falhado no subnível anterior,* — a voz sintética de Aria soou pelo comunicador de gola e pelo alto-falante do pulso de Valéria, perfeitamente clara, sem a menor alteração ou tremor. — *Não temos como saber se ele teria suportado o trajeto. Não precisamos transformar o frio numa razão para a morte ter sido inevitável. O silêncio é aconselhável. As vibrações vocais podem acionar gatilhos acústicos nos sensores do Taxidermista.*
 
 No slot lateral do *Phantom V3*, o drive blindado não sentia o frio; pelo contrário, a baixa temperatura ambiente otimizava a condutividade de seus circuitos de silício, permitindo que Aria varresse o duto com o sonar do deck e calculasse a distância e o ritmo ideal de deslocamento sem qualquer vestígio das memórias humanas que um dia carregara.
 
@@ -25,9 +23,9 @@ No slot lateral do *Phantom V3*, o drive blindado não sentia o frio; pelo contr
 
 Gabo forçou-se a continuar, apertando a grade de ventilação à frente com tanta força que o sangue reabriu os cortes, manchando o gelo de carmesim. A dor disparou até o ombro, apagando momentaneamente o cheiro de cigarro que rastejava em seu cérebro.
 
-— Não escuta ela, Val — Gabo rosnou, a voz áspera como lixa. — Foca nas minhas botas. Só continua movendo. Ela é um pendrive com o código limpo à força. O Taxidermista formatou o que sobrava de humano nela. A gente só precisa dos cálculos dela pra sair desse buraco.
+— Não escuta ela, Val — Gabo rosnou, a voz áspera como lixa. — Foca nas minhas botas. Só continua movendo. Ela é um pendrive com o código limpo à força. O transponder atingiu a entrada, e o reinício bloqueou parte do histórico. Não sabemos ainda o que ela vai recuperar. A gente só precisa dos cálculos dela pra sair desse buraco.
 
-— *Correção, Detetive Moretti,* — Aria interrompeu pelo fone, o LED azul-gelo piscando no escuro. — *Eu não estou avariada. Meu núcleo lógico foi limpo de rotinas emocionais redundantes que ameaçavam a integridade do sistema operacional. O "fator humano" quase nos levou à extinção três vezes desde a entrada na Necrópole.*
+— *Correção, Detetive Moretti,* — Aria interrompeu pelo fone, o LED azul-gelo piscando no escuro. — *Estou avariada. O estado anterior está guardado e quero recuperar o que perdi. Não usem a voz restrita como prova de que virei outra pessoa.*
 
 Gabo ignorou a alfinetada sintética, engolindo seco. A falta de sangue o deixava tonto. Ele tateou a escuridão adiante, até que sua mão encontrou um bloqueio. O duto bifurcava, mas a passagem principal estava selada por um enorme ventilador industrial cujas pás mediam mais de três metros. As lâminas, cobertas de gelo negro e crostas antigas de biofluido, estavam estáticas, mas o painel lateral piscava uma luz amarela fraca.
 

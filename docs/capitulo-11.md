@@ -1,144 +1,124 @@
 ---
 image: /capitulo_11.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Dra. Nise, Valéria "Val" Cruz, Kiko Vibe, Marco Moretti
-Localização: "Subsolo do Distrito da Névoa (sob a lavanderia automática) → Galeria pluvial do Distrito da Névoa"
+Localização: Laboratório de reserva sob a lavanderia do Distrito da Névoa e galeria pluvial
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Dra. Nise, Aria (módulo físico), mulher resgatada da fábrica
+Participação em documentos e gravação: Kiko Vibe, Dante Moretti
 ---
 # Capítulo 11: Filtros de Realidade
 
-A "realidade" em Baía Cinzenta sempre fora uma sugestão, nunca um fato. Mas agora, Gabriel e Valéria estavam descobrindo que ela era editável.
+Nise abriu a porta da lavanderia e olhou primeiro para a mulher no banco traseiro. Não perguntou de quem era a culpa. Mandou Gabo segurar a maca e Valéria não apoiar o pé no degrau.
 
-O esconderijo da Dra. Nise ficava no subsolo do Distrito da Névoa, sob uma antiga lavanderia automática. O lugar cheirava a detergente barato e ozônio.
+O laboratório de reserva ficava abaixo das máquinas, longe da rede de pacientes que a Aeterna administrava. Nise mantinha ali cópias em papel, ferramentas e o equipamento que o hospital já não aceitava cadastrar. O ar tinha cheiro de detergente, borracha velha e chá esquecido no fogo.
 
-— Fiquem parados — ordenou a voz rouca vinda das sombras.
+Ela afastou o lençol da maca com mãos firmes. O coque branco não se moveu quando se inclinou sobre o rosto grampeado. Gabo ficou na porta até que ela lhe pedisse espaço.
 
-Dra. Nise era uma mulher idosa, de olhos acastanhados atentos e pele marcada pelo tempo, o jaleco permanentemente manchado de reagentes. Um enxame de micro-drones zumbia ao seu redor como moscas metálicas, ampliando sua leitura do ambiente.
+— Nome? — perguntou a médica.
 
-— Estamos limpos, Doutora — disse Valéria, levantando as mãos. — Precisamos de ajuda.
+— Não conseguimos — disse Valéria.
 
-— Você está limpa — retrucou Nise, aproximando-se de Valéria e tocando seu rosto com dedos calejados. — Mas ele... — ela apontou para Gabriel. — Ele fede a Aeterna.
+Nise tentou perguntar à mulher. Recebeu dois movimentos dos dedos e um esforço que a fez interromper a tentativa. Ajustou o suporte da maca e cobriu os instrumentos que ela podia ver.
 
-— Eu engoli um chip — disse Gabriel. — Longa história.
+— Vai ficar neste quarto. Antes de qualquer exame para o seu inquérito, ela precisa sobreviver.
 
-Nise riu, um som seco.
+Fechou a divisória, mantendo o monitor à vista. Só depois examinou as mãos de Valéria, o tornozelo imobilizado e o ombro que Gabo não conseguia mover sem travar a mandíbula.
 
-— Entrem. Antes que os drones de busca sintam o cheiro do medo de vocês.
+— Quantos ficaram lá?
 
-Desceram por uma escada de ferro que tinia a cada degrau. O cheiro de detergente virava outra coisa três metros abaixo: ácido, borracha queimada, café requentado pela décima vez. Os micro-drones de Nise subiam pelo corrimão em fila, como formigas que tivessem decidido praticar medicina.
+— Não sei — respondeu ele.
 
-— Não toquem em nada — disse Nise sem se virar. — Metade do que está aí pode matar vocês. A outra metade eu ainda não terminei.
+— Então não escreva que acabou.
 
-Valéria olhou para Gabriel e murmurou: — Eu gosto dela.
+Nise refez os curativos enquanto Valéria descrevia a linha e entregava os registros lacrados. Gabo relatou os tiros, a prensa e o sinalizador. A médica não disse que havia outra saída. Também não disse que ele fizera o certo.
 
-O laboratório de Nise era um museu de tecnologia obsoleta. Monitores de tubo, teclados mecânicos, servidores resfriados a ventiladores barulhentos.
+Na bancada, um terminal de tubo recebeu uma cópia de trabalho da unidade. Valéria conservou o original separado do drive de Kiko. Aria continuava no deck, ligada apenas ao circuito local.
 
-— Kiko Vibe esteve aqui — disse Gabriel, indo direto ao ponto. Mostrou a foto que acharam.
+Gabo mostrou a Nise a fotografia do rapaz.
 
-— O menino sorridente — Nise suspirou, servindo um chá que cheirava a ferrugem. — Ele veio pedir para eu tirar o implante dele. O "Modulador de Humor".
+— Ele chegou a procurar a senhora?
 
-— Quanto custa? — perguntou Gabriel, porque naquela cidade tudo custava e ele preferia ouvir o preço antes de receber o serviço.
+Ela olhou tempo demais antes de responder.
 
-Nise parou com a xícara no ar, como se a pergunta tivesse sido grosseira.
+— Pediu para retirar um modulador de humor. Três semanas atrás. Eu não podia desligá-lo sem a autorização clínica que a fabricante recusou. Ele não queria esperar.
 
-— Você acha que eu vivo disso? — Ela serviu o chá. — Eu quero duas coisas. Primeiro, quando derrubarem a torre, não derrubem a lavanderia. Segundo... — o queixo dela apontou o comunicador no peito de Gabriel — ...eu quero dez minutos com o que está aí dentro.
+— Por quê?
 
-— Não.
+Nise abriu uma pasta de consultas, cobriu as folhas de outros pacientes e mostrou só a de Kiko. Havia uma autorização dele para preservar o exame.
 
-— Não é para copiar. É para perguntar uma coisa a ela.
+— Disse que sorria antes de decidir sorrir. Que os patrocinadores gostavam. Queria saber quanto do que fazia ainda era dele.
 
-— Não.
+Valéria parou de ajustar o curativo. Nise ligou uma gravação feita pelo rapaz na consulta. A voz vinha baixa, sem música:
 
-A voz de Aria saiu do alto-falante, baixa, quase educada: — *Doutora, eu não respondo perguntas sobre a minha origem.*
+> “Se eu aparecer dizendo que está tudo bem, confere a data. Eu não estou autorizando apagar o que eu disse hoje.”
 
-— Eu sei — disse Nise, e sorriu. — É por isso que eu queria os dez minutos.
+No monitor, a médica colocou lado a lado o traçado do exame e o registro extraído da fábrica. Os identificadores de protocolo coincidiam. O rótulo na coluna de comandos era **FREQUÊNCIA FANTASMA**. Valéria abriu as rotas: algumas terminavam no implante; outras seguiam para o sinal distribuído às transmissões.
 
-— Ele descobriu a Frequência Fantasma. — Nise disse, a voz grave. — O implante dele não modulava apenas o humor dele. Modulava o de quem assistia.
+— Isso é resposta ao estímulo, não prova de consentimento — disse Nise, apontando o trecho que a empresa classificava como adesão. — Ele me dizia que queria interromper. O sistema registrava aceitação.
 
-Nise ligou um monitor antigo. A tela tremeluziu e mostrou linhas de onda de áudio.
+Valéria aproximou-se da bancada sem calçar as luvas.
 
-— Kiko gravou isso antes de morrer. É o sinal oculto nas transmissões da nova rede.
+— O arquivo transporta o comando. O aparelho é que o converte em sinal. Aqui tem saída para moduladores e para o canal de áudio de quem assiste. — Ela abriu outra coluna. — Depende do receptor. Não significa que toda antena faça isso sozinha.
 
-Valéria se aproximou.
+— E o som? — perguntou Gabo.
 
-— É uma onda infra-som — disse ela. — Abaixo da audição humana. Mas... o padrão... é hipnótico.
+— Uma componente de baixa frequência no exame. Posso comparar, não medir a cabeça da cidade inteira — respondeu Nise. — O efeito clínico de cada implante precisa de exame próprio. O que eu posso demonstrar é que o pedido de parar foi contado como aprovação.
 
-— Induz passividade — explicou Nise. — Reduz o pensamento crítico. Aumenta a necessidade de aprovação social. É uma droga digital, transmitida pelo Wi-Fi.
+Gabo pensou nos contadores que continuavam subindo na fábrica. A mulher atrás da divisória moveu-se sob o lençol. Nise se levantou para vê-la antes de continuar.
 
-Valéria tirou o fone e esfregou os olhos com a base das mãos. As palmas ainda estavam em carne viva do fosso do elevador, e o gesto arrancou uma careta.
+Quando voltou, encontrou Gabo com a mão sobre a cicatriz do abdômen.
 
-— Isso está em todos os alto-falantes da cidade? — perguntou ela.
+— Trouxe os exames da tentativa de retirada?
 
-— Em tudo que tem antena — disse Nise. — Inclusive nos aparelhos auditivos. Inclusive nos marca-passos de duas câmaras. Você não precisa estar ouvindo; precisa estar por perto.
+Ele mostrou a cópia. Nise conferiu o laudo e a identificação externa do chip.
 
-— E ninguém sente nada?
+— Não vou prometer uma cirurgia que não posso fazer aqui. E quero dez minutos com essa assistente. Ela reconhece protocolos que não deveriam estar numa ferramenta de rua.
 
-— Sente. Sente vontade de concordar. É mais confortável do que discordar.
+Gabo olhou para o módulo.
 
-Gabriel sentiu um gosto amargo.
+— Não para copiar.
 
-— Eles estão transformando a população em viciados obedientes.
+— Para perguntar.
 
-— E Kiko ia contar tudo — disse Valéria. — Por isso o mataram. E apagaram ele.
+Aria respondeu pelo alto-falante do deck:
 
-— Mas quem? — perguntou Gabriel. — Marco Moretti é um político, não um gênio da neurociência.
+— *Não forneço acesso à minha origem. Posso comparar os registros disponíveis.*
 
-— Marco é apenas o rosto — disse Nise. Ela digitou algo no teclado. — O Dante sabia.
+Nise pousou a caneta ao lado do teclado.
 
-Gabriel congelou.
+— Então compare. E indique onde não souber.
 
-— O quê?
+Valéria isolou os cabeçalhos do material da fábrica e da gravação de Kiko. Aria encontrou o mesmo código de instalação no destino de sincronização. Não era a origem de toda a rede: era o ponto a que aqueles registros prestavam contas.
 
-— Seu pai não estava apenas investigando, Gabriel. Ele era Consultor de Segurança Sênior. Ele assinou a autorização para os testes beta do sinal no Distrito 4. Ele achava que podia "sanear" a violência com frequência de rádio. Quando percebeu que virava controle mental, tentou voltar atrás. Mas você não se demite da Aeterna.
+Nise procurou o código numa planta anexada aos pedidos antigos de perícia. A legenda o associava ao bunker sob a Torre Aeterna. Gabo fotografou a relação. Se o cadastro ainda valesse, tinham um endereço para verificar.
 
-Gabriel se sentou na cadeira que Nise não ofereceu. As pernas decidiram por ele.
+— Dante assinou a autorização dos testes beta no Distrito 4 — disse. — Veio anexada aos pedidos de perícia dos primeiros atendimentos. Conservei a via que chegou ao departamento.
 
-— Você tem prova?
+Gabo não pegou o papel de imediato. A letra na margem era grande, inclinada, apressada como os bilhetes de geladeira.
 
-— Eu tenho o que ele assinou. — Nise abriu uma gaveta e tirou um papel amarelado, protegido por um plástico que também tinha amarelado. — Autorização de teste. Assinatura dele. E uma observação na margem que a Aeterna nunca apagou porque ninguém se deu ao trabalho de ler.
+Se o índice de violência não cair em seis meses, eu mesmo desligo isso.
+— Ele sabia o que estavam fazendo?
 
-Gabriel leu. A letra era grande e apressada, inclinada para a direita, a mesma das listas de compras que ele encontrava na porta da geladeira quando era criança.
+— Sabia o que está neste documento. O que disseram a ele, você vai ter que demonstrar. Eu li os atendimentos depois dos testes. Não estive nas reuniões.
 
-*Se o índice de violência não cair em seis meses, eu mesmo desligo isso.*
+Gabo se sentou. No papel, o pai tinha um cargo que os relatos de coragem nunca mencionavam: **Consultor de Segurança Sênior**. Deu a Valéria espaço para fotografar a página inteira, incluindo o carimbo de recebimento, e não só a assinatura.
 
-— Seis meses — disse Gabriel. — Ele deu seis meses para a máquina e nunca deu seis horas para mim.
+— Ele sabia que estavam construindo uma gaiola — disse Nise. — Achava que podia controlá-la. Não sei se imaginou que o filho seria o pássaro.
 
-— O sinal tem uma origem — continuou Nise, ignorando o choque de Gabriel. — Uma fonte primária.
+O aviso veio de uma das pequenas câmeras de vigilância da lavanderia, recebida no monitor do laboratório. Uma unidade sem identificação parou na porta. Na parede ao lado, alguém aplicou uma carga à fechadura.
 
-Um mapa de Baía Cinzenta apareceu na tela. Um ponto vermelho pulsava no miolo do Distrito Central.
+Nise ligou para o transporte da paciente, confirmou o acesso lateral e pôs a maca junto ao corredor protegido. Valéria recolheu os drives. Gabo lhe ofereceu o braço bom para alcançarem a saída de serviço.
 
-— A Torre de Marfim? — perguntou Gabriel. — A sede da Aeterna?
+— A senhora vem — disse ele.
 
-— Não — disse Valéria. — Está vindo do subsolo da Torre. Dos antigos bunkers de dados.
+— Minha paciente ainda está aqui. Eu acompanho a maca quando o transporte entrar. Vocês estão sendo procurados; saiam pela galeria.
 
-— Onde meu pai está — murmurou Gabriel. — Ou o que sobrou dele.
+Nise retirou uma espingarda debaixo do balcão e se posicionou atrás da porta interna. Não havia como saber se o veículo chegaria antes que a carga rompesse o primeiro acesso. Gabo deixou a localização enviada a Vilar no comunicador dela.
 
-Nise virou o rosto na direção dele, e seus drones zumbiram mais perto. — Seu pai era um homem complicado, Gabriel. Ele sabia que a Aeterna estava construindo uma gaiola. Ele só não imaginava que o filho seria o pássaro. Ele sabia do sinal. Achava que podia controlá-lo.
+A explosão os alcançou na escada. Poeira e detergente caíram do teto. Quando entraram na galeria pluvial, a água gelada chegou aos joelhos de Valéria. Ela segurou o corrimão com os punhos, poupando as palmas.
 
-A revelação atingiu Gabriel como um soco. Seu pai, o herói da cidade, era cúmplice?
+O deck vibrou. **LICENÇA BIOMÉTRICA REVOGADA.** Um segundo aviso iniciou a contagem para desligamento das funções óticas.
 
-O chão tremeu antes do som chegar. Poeira caiu do teto baixo.
+— Doze horas — disse Valéria.
 
-— Unidade de Cancelamento. Nível 5. — Nise largou a xícara. — Meus drones detectaram uma unidade de "Cancelamento" se aproximando.
+Gabo iluminou a saída. Os olhos dela ainda acompanhavam o facho; a mão enfaixada se apertou sobre o deck.
 
-— Temos que sair — disse Gabriel, sacando a arma.
-
-— Saiam pelos fundos. Dá no esgoto pluvial. — Nise pegou uma espingarda debaixo do balcão. — Eu seguro eles.
-
-— Doutora — disse Gabriel. — Se sair por aquela porta com a gente, eu consigo te levar até o perímetro.
-
-— E aí eles entram aqui e queimam trinta anos de trabalho. — Nise verificou a espingarda. — Vai. Eu tenho mais medo de perder o arquivo do que de perder a vida, e isso já é um problema meu, não seu.
-
-— Você vai morrer — disse Valéria.
-
-— Eu já estou morta há dez anos, menina. Só esqueci de deitar. — Nise sorriu, seus dentes de metal brilhando. — Vão! E derrubem aquela maldita torre!
-
-Gabriel e Valéria correram para os fundos. O som de explosões começou a sacudir a lavanderia acima deles.
-
-Quando a porta de serviço cedeu, eles despencaram para a galeria pluvial escura sob o Distrito da Névoa. A água podre subia até os joelhos, arrastando restos químicos e seringas velhas.
-
-Valéria piscou duas vezes, tentando estabilizar a visão aumentada. Um aviso vermelho atravessou a íris dela: *Licença Biométrica Revogada*.
-
-— Gabo... meus implantes estão entrando em modo de degradação — ela disse, ofegante. — Se a gente não derrubar a fonte do sinal hoje, eu vou apagar junto com o resto dos cancelados.
-
-Gabriel assentiu, sentindo o peso do nome do pai como chumbo no estômago.
-
-— Então a gente vai para a fonte. Agora.
+— Não apaga esse aviso — pediu ela. — Guarda a prova antes de perder o acesso.

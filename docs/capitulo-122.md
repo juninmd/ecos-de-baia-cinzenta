@@ -1,25 +1,20 @@
 ---
+title: "Capítulo 122: Dívida Técnica"
 image: /capitulo_122.jpg
+Data In-Game: "23 de Novembro, 03:45"
+Localização: "O Fliperama (Esgotos / Subnível do Distrito Industrial)"
+Personagens Presentes: "Gabo Moretti, Valéria Cruz, Inspetor Rangel (Estável/Precário), Aria (Offline/Fragmentada)."
 ---
-
-## Metadados
-- **Título:** Dívida Técnica
-- **Data In-Game:** 23 de Novembro, 03:45
-- **Localização:** O Fliperama (Esgotos / Subnível do Distrito Industrial)
-- **Personagens Presentes:** Gabo Moretti, Valéria Cruz, Inspetor Rangel (Estável/Precário), Aria (Offline/Fragmentada).
-- **Foco:** O pós-operatório improvisado deixa marcas físicas e psicológicas no grupo. Enquanto Rangel luta contra a febre, Valéria explica o conceito de "dívida técnica" ao tentar reparar o pendrive da Aria, traçando um paralelo sombrio entre o código quebrado da IA e as escolhas morais que fizeram para derrubar Dante.
-
-## Narrativa
 
 # Capítulo 122: Dívida Técnica
 
-O cheiro de carne cauterizada não ia embora. Ele parecia ter se agarrado às paredes de concreto úmido do bunker, impregnando o mofo, a ferrugem e até mesmo o gosto da água que Gabo bebia de uma garrafa plástica amassada.
+O cheiro de sangue e do pano queimado na usina não ia embora. Ele parecia ter se agarrado às paredes de concreto úmido do bunker, impregnando o mofo, a ferrugem e até mesmo o gosto da água que Gabo bebia de uma garrafa plástica amassada.
 
-Ele estava sentado no chão, as costas apoiadas contra a frieza de um servidor desativado. Suas mãos, finalmente limpas de sangue, repousavam sobre os joelhos, mas os tremores finos continuavam. Não era frio. Era o *crash*. A adrenalina que o sustentara desde a invasão da Usina Prometeu, passando pela fuga do caminhão de lixo e a cirurgia de açougueiro em Rangel, havia evaporado, deixando para trás apenas um buraco oco no estômago e uma exaustão que pesava como chumbo.
+Ele estava sentado no chão, as costas apoiadas contra a frieza de um servidor desativado. Suas mãos, finalmente limpas de sangue, repousavam sobre os joelhos, mas os tremores finos continuavam. Não era frio. Era o *crash*. A adrenalina que o sustentara desde a invasão da Usina Prometeu, passando pela fuga do caminhão de lixo e a espera ao lado de Rangel, havia evaporado, deixando para trás apenas um buraco oco no estômago e uma exaustão que pesava como chumbo.
 
-O silêncio do "Fliperama" era opressivo. Lá fora, quilômetros acima, Baía Cinzenta devia estar um caos. Sem energia, sem a "Voz" de Dante para manter a ordem, a cidade estaria se devorando. Mas ali embaixo, sob toneladas de esgoto e esquecimento, o único som era o zumbido errático do gerador a diesel que Valéria havia conseguido ligar e a respiração ruidosa de Rangel.
+O silêncio do "Fliperama" era opressivo. Lá fora, na superfície, Baía Cinzenta devia estar um caos. Sem energia, sem a "Voz" de Dante para manter a ordem, a cidade estaria se devorando. Mas ali embaixo, sob toneladas de esgoto e esquecimento, o único som era o zumbido errático do gerador a diesel que Valéria havia conseguido ligar e a respiração ruidosa de Rangel.
 
-Gabo olhou para o inspetor. Rangel estava pálido, suando frio, murmurando coisas desconexas em seu delírio febril. "O rio... não olhe para o rio...". A cauterização havia parado o sangramento, mas a infecção era uma bomba-relógio. Eles haviam comprado tempo, mas a que juros?
+Gabo olhou para o inspetor. Rangel estava pálido, suando frio, murmurando coisas desconexas em seu delírio febril. "O rio... não olhe para o rio...". O curativo retardara a perda aparente de sangue. Sem avaliação, não sabiam quanto continuava perdendo por dentro. Eles haviam comprado tempo, mas a que juros?
 
 Gabo pegou a garrafa amassada do chão e tentou erguer a cabeça de Rangel com a mão livre. O inspetor bebeu dois goles, engasgou, e o resto escorreu pela lateral do rosto para dentro da bandagem. A pele dele tinha a temperatura errada: quente onde devia ser fria, fria nas mãos.
 
@@ -43,7 +38,7 @@ Ela parou de digitar por um segundo e suspirou, um som trêmulo.
 
 Valéria apontou para a tela cheia de erros hexadecimais vermelhos lidos diretamente da memória flash do pendrive.
 
-— O que fizemos com o drive da Aria na usina... espetar a unidade dela direto no monólito como para-raios para o feedback neural de milhares de mentes... foi o maior empréstimo que já vi.
+— O que fizemos com o drive da Aria na usina... espetar a unidade dela direto no monólito sem isolamento adequado para sustentar os comandos de suporte da rede... foi o maior empréstimo que já vi.
 
 Gabo sentiu a garganta secar. O cheiro de ozônio e fuligem da bancada trouxe de volta a memória sufocante da fumaça dos charutos do pai, revirando seu estômago com uma repulsa visceral. Seus dedos tamborilaram nervosamente contra o joelho.
 
@@ -59,7 +54,7 @@ Valéria olhou para o cilindro aberto com os circuitos expostos na morsa.
 
 — Então não liga — disse Gabo.
 
-— Não é assim. — Valéria encostou o dedo na lateral do drive, onde a blindagem estava amassada pelo calor. — Tem coisa aí dentro que não é dela. Os últimos minutos dos Drenados ficaram gravados no barramento quando ela absorveu o pulso deles: nome, endereço, o que a Aeterna prometeu antes de mandar o caminhão. Se eu não religar isso com cuidado, a prova fica presa num chip queimado — e aí a cidade pode dizer que ninguém morreu.
+— Não é assim. — Valéria encostou o dedo na lateral do drive, onde a blindagem estava amassada pelo calor. — Tem coisa aí dentro que não é dela. A transferência copiou registros de triagem e trechos dos estados dos Drenados para o armazenamento: nome, endereço, o que a Aeterna prometeu antes de mandar o caminhão. Se eu não religar isso com cuidado, a prova fica presa num chip queimado — e aí a cidade pode dizer que ninguém morreu.
 
 — Quem vai querer prova? Não tem mais tribunal.
 
@@ -67,7 +62,7 @@ Valéria olhou para o cilindro aberto com os circuitos expostos na morsa.
 
 Gabo se levantou, as articulações estalando. Ele caminhou até a mesa onde Rangel jazia e colocou a mão na testa do inspetor. Estava fervendo.
 
-— Nós também temos uma dívida aqui — disse Gabo, olhando para o ferimento feio, coberto por bandagens improvisadas. — O ferro de solda foi a solução rápida. A sepse vai ser os juros.
+— Nós também temos uma dívida aqui — disse Gabo, olhando para o ferimento feio, coberto por bandagens improvisadas. — O curativo comprou tempo, mas não resolveu o ferimento. Não vou chamar a febre de diagnóstico nem esperar que uma peça eletrônica acorde para decidir o que fazer.
 
 Ele se virou para Valéria. O rosto dela estava manchado de graxa e fuligem, os implantes oculares girando em foco e desfoque, denunciando seu próprio cansaço.
 
@@ -77,7 +72,7 @@ Ele se virou para Valéria. O rosto dela estava manchado de graxa e fuligem, os 
 
 — Eu sei.
 
-Gabo soltou o colar e checou a carga de sua pistola cinética. Três balas. O cartucho de energia estava em 15%. Quase inútil.
+Gabo soltou o colar e checou a carga de sua pistola cinética. Três balas convencionais no carregador. Nenhuma alimentação elétrica que pudesse acabar antes delas.
 
 — Mas a dívida venceu — disse ele, olhando para a escuridão do túnel de saída. — E nós não temos crédito pra renegociar.
 

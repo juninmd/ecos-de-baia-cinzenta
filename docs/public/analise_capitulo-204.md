@@ -1,20 +1,17 @@
-# Análise Crítica - Capítulo 204
+# Revisão de Capítulo 204: O Despertar da Ferrugem
 
-## Avaliação Técnica
-- **Ritmo (Pacing):** 9/10 - A atmosfera começa lenta e densa, aumentando a tensão de forma gradual e orgânica até o clímax de uma nova ameaça mecânica emergir no final do capítulo.
-- **Diálogos:** 8/10 - Curtos, pragmáticos e refletindo as personalidades de cada um. Elias está assustado, Valéria é metodicamente analítica e Gabo reage com cautela e agressividade contida.
-- **Atmosfera:** 10/10 - A descrição da "Praga de Ferro" em pó avermelhado como sangue seco, somada ao galpão escuro e ameaçador e à quietude prévia ao desastre são dignas do tom Cyberpunk Noir.
+Fonte: [capítulo 204](/capitulo-204.md).
 
-## Pontos Fortes e Fracos
-- **Pontos Fortes:** O capítulo aborda perfeitamente o limite mental de Gabo ao utilizar as dores das pernas e do ombro ferido para subjugar sua fobia à fumaça. Além disso, a progressão das ameaças da Praga de Ferro, fundindo-a em um construto bizarro, evolui perfeitamente a narrativa.
-- **Pontos Fracos:** O combate em si fica no "cliffhanger", embora isso funcione bem como final de capítulo para manter a adrenalina.
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-## Sanity Check (Lore)
-- **Aversão a Fumaça/Cigarros:** Perfeito. O texto menciona explicitamente o trauma alucinatório e a rejeição completa, trocando qualquer vício por "alucinação olfativa do charuto de seu pai", evitada por via da dor autoinflingida.
-- **Pernas e Físico de Gabo:** Em sintonia total. O zumbido da órtese, o peso do maquinário, as dores e a necessidade de se apoiar fisicamente na espingarda.
-- **Valéria:** Seu "Safe Mode" analítico foi bem conduzido. Ela relata os riscos ambientais sem inflexões emocionais, validando seu estado cibernético atual.
+## Passagens de entrada e saída
 
-## Avaliação Qualitativa
-- **Qualidade da História:** Excelente. Cumpre seu papel em apresentar o perigo iminente de Setor 6 e transicionar o grupo para um embate.
-- **Coerência de Personagens:** Gabo, Elias e Valéria agem exatamente de acordo com os marcos de estresse estabelecidos nos capítulos mais recentes e memórias-base.
-- **Necessidade de Novos Personagens:** Nenhuma. A atual trindade (Gabo, Valéria e Elias) possui ótima dinâmica para lidar com as ameaças deste arco.
+> A vastidão daquele armazém era opressiva de um jeito difícil de explicar para quem nunca esteve num galpão subterrâneo de trinta mil metros quadrados sem iluminação natural.
+
+### Saída
+
+> O estalo do ferro retorcido ecoou como um trovão quando o colosso de sucata bateu sua pá dianteira contra a borda do fosso, rachando o concreto sob nossos pés. O armazém silencioso acabava de despertar, e as regras da cidade eram claras: ou nós abríamos caminho pelo aço, ou ficaríamos para sempre enterrados sob ele.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

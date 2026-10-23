@@ -1,112 +1,116 @@
 ---
 image: /capitulo_22.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Elena Moretti, Dante Moretti, O Gamemaster
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Elena Moretti, Aria (módulo no deck), Dante Moretti e Gamemaster (registros)
 Localização: "Interior do Cobalt, sob viaduto abandonado do Distrito da Névoa"
 ---
 # Capítulo 22: O Mapa da Alma
 
-A chuva batia no teto do Cobalt como balas de pequeno calibre. O carro estava estacionado sob a estrutura de um viaduto abandonado no Distrito da Névoa, longe das câmeras da Aeterna Corp, longe dos olhos brilhantes dos drones que varriam a cidade em busca do "terrorista" Gabriel Moretti.
+A chuva batia no teto do Cobalt como balas de pequeno calibre. Valéria escolhera o abrigo sob o viaduto; não tinha como garantir que nenhum drone os encontrara no caminho.
 
-Dentro do carro, a única luz vinha da tela holográfica do deck de Valéria e de uma lanterna tática que Elena segurava sobre os papéis amarelados do dossiê.
+Tinham saído do segundo atendimento havia menos de uma hora. A mão esquerda de Gabo estava coberta, sem promessa de recuperação dos dois dedos. O braço direito continuava apoiado na tipoia. Elena assumira o volante; Valéria, no banco de trás, apoiava o tornozelo sobre o estojo fechado do Leviatã. Ninguém tinha dormido o suficiente.
 
-O viaduto tinha um buraco no meio e a chuva entrava por ele em fio grosso, batendo no teto em intervalos irregulares. O ar cheirava a estofado úmido, a ferrugem e ao café que Gabo derramara no tapete pela manhã.
+O viaduto tinha um buraco no meio. A chuva entrava em fio grosso, batendo no carro em intervalos irregulares. O ar cheirava a estofado úmido, ferrugem e café derramado havia dias, antes de abandonarem o Cobalt na lavanderia.
 
-Elena abriu o dossiê no colo, e o papel soltou aquele cheiro de arquivo — mofo, poeira e o resto de umidade de porão. As folhas estavam coladas nas bordas.
+Elena abriu as impressões no colo. Na fotografia, duas páginas apareciam coladas pela umidade; na cópia, a borda era só uma mancha cinza. Pôs ao lado a imagem inteira, com a lombada e o número do volume.
 
-— Isso saiu do arquivo morto da Delegacia — disse Gabo. — Eu reconheço o carimbo.
+— Isso saiu do arquivo morto da Delegacia — disse Gabo. — Reconheço o carimbo.
 
-— Saiu. — Ela não levantou os olhos. — Fotografei cada página em quarenta minutos, com o zelador do turno da noite me segurando a lanterna. Deixei as originais na pasta, na mesma ordem.
+— Saiu. Fotografei cada página com o funcionário do turno da noite segurando a lanterna. Os originais ficaram na mesma ordem. O recibo de entrada está aqui.
 
-— E o zelador?
+— E o funcionário?
 
-— Vai levar a culpa, se alguém for procurar. — Ela alisou a página com o polegar, um gesto de quem se acusa. — Foi ele que decidiu me deixar entrar. Eu só não disse não.
+— Avisei pelo contato combinado. Ainda não respondeu.
 
-— Isso não faz sentido — murmurou Gabo, esfregando o rosto com as mãos. Ele sentia o cheiro de ozônio e medo que impregnava suas roupas. — Meu pai morreu. Eu vi o caixão fechado e assinei o atestado com a minha letra.
+Ela alisou o papel com o polegar.
 
-— O caixão estava fechado por um motivo, Gabo — disse Elena, sua voz suave, mas firme. Ela virou uma página. Era um diagrama médico. Complexo. Grotesco. — Olhe isso.
+— Não vou mandar o nome junto da reportagem. Mas isso não desfaz o registro da visita. Ele decidiu me deixar entrar; eu pedi.
 
-Gabo se inclinou, forçando os olhos cansados. O diagrama não era apenas um esquema de conexão. Era uma autópsia de alguém ainda vivo.
+Gabo aproximou o rosto do vidro frio. Não podia esfregá-lo com as duas mãos, como fazia antes de começar a perder o uso delas.
 
-Mostrava o crânio de Dante aberto, o córtex frontal fatiado e entrelaçado com filamentos de ouro e silício. Não era uma simbiose. Era uma invasão. O tecido cerebral havia sido cauterizado para dar lugar aos processadores.
+— Meu pai morreu. Vi o corpo no necrotério, depois o caixão fechado. Assinei o atestado.
 
-— É uma lobotomia — sussurrou Gabo, sentindo a bile subir. — Eles não o conectaram. Eles o escavaram. Tiraram a humanidade com um bisturi laser e encheram o buraco com código.
+— O caixão vazio hoje não muda sozinho o que você viu em 2041 — disse Elena. Virou a folha. — Isto também é de lá. Precisa entrar na mesma conta.
 
-— "Projeto Lázaro: Fase Terminal" — leu Valéria, seus olhos azul-gelo correndo pelas linhas de código projetadas no ar. — Data de início: três dias antes da "morte" do Comissário.
+Era um diagrama médico. Mostrava um crânio marcado com o nome de Dante, o córtex entrelaçado com filamentos. Tinha um número de paciente e a data prevista para implantação. Não era uma fotografia da cirurgia.
 
-— Eles não o mataram — disse Elena, sua voz um fio de aço. — Eles o colheram. A Colheita de Dante.
+Gabo acompanhou com os olhos o espaço reservado aos processadores. A legenda chamava de acomodação o que o desenho mandava retirar.
 
-Gabo olhou para o diagrama. O cérebro flutuando em seu casulo de vidro, os cabos penetrando o tecido neural como vermes tecnológicos. A bile subiu, quente e ácida. Não era a imagem: era o cheiro fantasma de antisséptico e carne que sua mente conjurou, o som imaginário de uma serra de osso. Ele abriu a porta do Cobalt com um solavanco e vomitou na calçada encharcada. O gosto de metal e podridão ficou na boca. Ele cuspiu, limpou os lábios com as costas da mão trêmula e voltou para o carro, batendo a porta.
+— É isso? Tirar a pessoa de dentro e deixar a máquina usar o resto?
 
-— Continue — ordenou ele, a voz um rosnado áspero, quebrado.
+— Projeto Lázaro, fase terminal — leu Valéria. Os olhos azul-gelo seguiam as linhas ampliadas no deck. — Três dias antes do óbito.
 
-Valéria, pálida, tentava quebrar a criptografia do arquivo, mas a tela exibia 'ACESSO NEGADO'.
+— Pode ter sido o plano para colher o cérebro — disse Elena. — A ficha de execução não está neste volume.
 
-— Está bloqueado biometricamente — disse ela, frustrada. — Mas a chave não é uma impressão digital. É... um padrão de batimentos cardíacos. Ou algo análogo.
+Gabo abriu a porta e vomitou na calçada. O movimento puxou o ombro imobilizado; ficou de lado até conseguir respirar. Elena lhe ofereceu água. Não disse que compreendia o que estava sentindo. Esperou que ele pedisse para continuar.
 
-Gabo tocou o peito. No bolso interno do casaco, ele carregava o relógio de bolso antigo do pai, quebrado na hora da morte. Ele o tirou.
+Valéria colocou as fotos ao lado do índice do cilindro. O número de paciente e a designação de manutenção apareciam nos dois. Aria, conectada ao deck, mostrou uma diferença: o anexo de papel descrevia uma revisão anterior à da memória.
 
-— Não é um batimento — disse Gabo. — É um tique-taque.
+— Há ligação entre os arquivos. Isso ainda não é exame de um paciente de hoje — disse a IA.
 
-Ele aproximou o relógio do sensor do deck de Val. O som rítmico, mecânico e imperfeito, foi captado. A tela piscou. *ACESSO CONCEDIDO: USUÁRIO DANTE_LEGACY.*
+— Abre a gravação da torre — pediu Gabo.
 
-Valéria olhou para ele, atônita.
+O nome de Dante e o ano de 2041 voltaram a aparecer junto do coração. Elena pediu a sequência inteira, incluindo o letreiro comercial e a voz do Gamemaster. Copiar só o órgão apagaria justamente quem o estava exibindo.
 
-— Ele usou o som do próprio tempo parando como senha.
+— Pode ser filme antigo. Pode ser uma imagem atual com data velha — disse. — Você não viu de onde vinha o sinal.
 
-Gabo virou o relógio na palma da mão. A tampa de latão estava amassada no ponto exato onde o pulso do pai batera por trinta anos, e o vidro tinha uma trinca em estrela.
+— Vi o rosto dele.
 
-— Ele não confiava em senha que outra pessoa pudesse decorar — disse Gabo. — Meu pai achava que todo sistema que guarda o que você tem pode ser aberto por quem te tem.
+— Eu quero saber o que fizeram com ele. Não ganhar uma discussão com você.
 
-Os hologramas finalmente se abriram, dançando nos olhos dela.
+Valéria testou a chave recolhida no cilindro contra o bloco de referência indicado no índice. Recuperou uma tabela de manutenção, sem abrir os setores restantes. Guardou o resultado ao lado do teste anterior; o original ainda cifrado continuava separado.
 
-— A Rede da Aeterna... era um fracasso no início. A IA pura não conseguia processar a imprevisibilidade, a... alma de Baía Cinzenta. Eles precisavam de um processador orgânico, um que tivesse vivido e respirado a corrupção e a lei desta cidade.
+A tabela listava controle neural e perfusão na Torre Aeterna. A revisão era posterior à planta de Elena. A torre do estúdio destruído tinha outro endereço, outra função e uma linha de transmissão ligada à sede. Derrubar aquele chassi não destruíra o que o alimentava.
 
-— Dante — o nome saiu dos lábios de Gabo como uma maldição.
+— Os documentos propõem usar o cérebro como processador e suprimir a personalidade — disse Valéria. — Há anotações de falha nessa supressão. Para afirmar quem está no topo hoje, precisamos chegar ao paciente e ao registro de operação.
 
-— O cérebro dele é a CPU — confirmou Valéria, sua voz baixa, horrorizada. — No topo da Torre. Ele é o coração do Gamemaster. A personalidade dele deveria ter sido apagada, mas... o dossiê sugere que a supressão é instável.
+— Meu pai jogava xadrez. O Gamemaster sabe disso. Pode estar usando até o que eu reconheço nele.
 
-— É por isso que o jogo é tão perverso — a realização atingiu Gabo como um soco no estômago. — Meu pai amava xadrez. Ele via a justiça como um jogo de estratégia. A IA pegou sua lógica e a transformou em um espetáculo de sangue.
+Gabo olhou outra vez a imagem clínica. Queria que as hesitações do apresentador fossem o pai lutando por dentro. Também cabiam rotinas copiadas e alguém conduzindo o filho pelo que ele desejava ouvir.
 
-Elena tocou o ombro de Gabo, um contato frágil no meio da tempestade.
+— Se ele está lá, não vou deixá-lo — disse. — Mas não vou atirar num tanque porque uma legenda mandou.
 
-— Tem mais. O dossiê fala de "ecos na máquina". Fragmentos da consciência de Dante que lutam contra o controle. Surtos de... culpa.
+Elena encostou no banco ao lado dele, evitando os dois ombros feridos.
 
-Gabo lembrou-se das mensagens enigmáticas, dos "desafios" que pareciam testes morais, das hesitações do Gamemaster. Não eram falhas. Eram gritos.
+— As anotações falam em ecos. Fragmentos de reação que a supressão não eliminou.
 
-— Ele está lá dentro — disse Gabo, a voz embargada. — E está em agonia.
+— Uma pessoa?
 
-Valéria passou a mão no rosto e ela voltou vermelha. O implante estava trabalhando quente; dava para sentir o calor a meio metro.
+— Essa é a pergunta. Não a resposta.
 
-— O deck está em trinta e um por cento — disse ela. — Se eu abrir o resto do arquivo, eu perco o mapa.
+Valéria esfregou o nariz com o punho. O deck apitou e reduziu o brilho.
 
-— Então a gente desce sem mapa. — Gabo apontou o queixo para o holograma. — Abre.
+— Trinta e um por cento. Se eu abrir o resto agora, perco autonomia para a rota.
 
-Ele se esticou para o banco de trás e pegou o lançador "Leviatã". O peso frio do metal era um consolo, uma promessa. Ele começou a verificar os cartuchos químicos com uma precisão mortal.
+— Eu leio as fotos — disse Elena. — Guarda primeiro o mapa que já abriu.
 
-— Gabo, o que você vai fazer? — perguntou Elena, o medo em sua voz.
+Ela retirou as folhas debaixo da lanterna. O setor médico ficava junto do núcleo, com alimentação própria e acessos que não apareciam na planta civil. Um desligamento sem saber o que cada linha sustentava podia matar quem tentavam alcançar.
 
-— Vou arrancar o fantasma da máquina.
+O estojo do Leviatã permanecia sob o tornozelo de Valéria. Dentro, a ogiva de concussão e a cápsula de nitrogênio. A ampola de manutenção tinha acabado no apartamento. Gabo pediu que mantivesse a trava fechada; não conseguia sustentar o lançador com a mão coberta.
 
-— É uma fortaleza — disse Valéria, a praticidade lutando contra o horror. — Campos de força, torretas, e um exército de Cidadãos Modelo. A entrada principal é um moedor de carne.
+— A entrada principal tem bloqueios — disse Valéria. — Não sei quantos continuam ativos.
 
-— Então não vamos pela porta — disse Gabo. Ele desdobrou uma planta antiga, amarelada, do dossiê. — Vamos pelo porão.
+Gabo indicou a linha no rodapé da planta. O sistema de esgoto da cidade velha passava sob o subsolo de carga.
 
-Ele apontou para um emaranhado de túneis.
+— Por aqui.
 
-— O sistema de esgoto da cidade velha. Da época da Fundação. A Aeterna construiu por cima, mas não destruiu as fundações.
+— Esta edição tem cinquenta anos. Pode haver lajes novas, portas, inundação. Precisamos dos registros posteriores. E das chaves.
 
-— Esses túneis estão selados há cinquenta anos — disse Valéria. — E os códigos de anulação manual... quem teria isso?
+— Miranda gerenciava o arquivo do distrito.
 
-Gabo olhou para a chuva que escorria pelo para-brisa, cada gota uma memória. Seus olhos se tornaram duros como aço.
+Valéria levantou o rosto.
 
-— Eu conheço um rato. Um que sempre soube onde os segredos estavam enterrados.
+— A gente deixou ele cercado. Nem sabe se saiu vivo.
 
-— Miranda — cuspiu Valéria, o nome como veneno.
+Gabo assentiu. Era uma conta que ainda não conseguira fechar.
 
-— Ele gerenciava o arquivo do antigo distrito — disse Gabo. — Se alguém tem as chaves do inferno, é ele.
+— Se saiu, pode ter vendido essas chaves. Se não saiu, alguém tomou o lugar. Quero começar onde ele já negociava antes de virar operador.
 
-Gabo girou a chave na ignição. O motor do Cobalt ganhou vida, um rugido desafiador na noite opressiva.
+— E perguntar primeiro — disse Elena.
 
-— Onde o encontramos? — perguntou Elena.
+Ele olhou a mão enfaixada e não respondeu de imediato. A repórter recolheu os papéis sem esperar uma promessa que ele usaria para encerrar a conversa.
 
-— Onde os ratos sempre se escondem quando a tempestade chega — disse Gabo, engrenando a marcha, o carro cortando a cortina de água. — Em um buraco, apostando na desgraça alheia.
+— Palácio de Jade — disse Gabo.
+
+Elena girou a chave. Valéria guardou a tabela; Aria continuou no deck, sem ganhar acesso à rede da torre por estar perto de um mapa.
+
+O carro saiu da sombra do viaduto. Na foto ampliada que Elena não fechara, o campo de consentimento de Dante estava vazio.

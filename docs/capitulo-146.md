@@ -1,11 +1,9 @@
-## Metadados
-- **Título:** O Preço da Passagem
-- **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
-- **Localização:** Necrópole (Subnível 6.0 - Corredor de Descontaminação)
-- **Personagens Presentes:** Gabo, Valéria, Aria (Reboot), Rangel (Inconsciente)
-- **Resumo:** A porta da eclusa se abre após o sacrifício de sangue de Gabo e a ponte lógica do pendrive de Aria, revelando não um santuário, mas um corredor de descontaminação estagnado e mortal. Gabo lida com a perda de sangue e o choque hipovolêmico iminente, lutando contra o cheiro opressivo de ozônio e ferrugem. Aria mantém sua lógica utilitária através do comunicador do deck, analisando a deterioração do grupo e de Rangel, enquanto Valéria busca desesperadamente suprimentos em armários antigos. O peso da liderança e a sobrevivência cobram um preço cada vez mais alto, testando a humanidade de Gabo em face de escolhas impossíveis.
-
-## Narrativa
+---
+title: "Capítulo 146: O Preço da Passagem"
+Data In-Game: "Pós-Colapso da Usina Prometeu (Noite Eterna)"
+Localização: "Necrópole (Subnível 6.0 - Corredor de Descontaminação)"
+Personagens Presentes: "Gabo, Valéria, Aria (Reboot), Rangel (Inconsciente)"
+---
 
 # Capítulo 146: O Preço da Passagem
 
@@ -13,7 +11,7 @@ O vermelho opaco do painel biométrico piscou, não com a urgência de um alarme
 
 Gabo recuou, cambaleando, quando a porta finalmente cedeu alguns centímetros, liberando um sopro de ar que cheirava a poeira, cobre e uma esterilidade artificial há muito vencida. Ele pressionou a mão direita em carne viva contra o antebraço esquerdo sangrando, tentando estancar o fluxo carmesim que manchava as grades enferrujadas sob seus pés. A tontura o atingiu como um soco físico.
 
-— *Amostragem aceita. Relé mecânico desengajado,* — Aria confirmou pelo alto-falante do deck, sua voz monocórdica ecoando ligeiramente no novo espaço enquanto seu drive blindado esfriava no slot do painel. Sua programação atual, reduzida à pura lógica tática desde o reboot, não via a perda de sangue como um estado que exigisse consolo, apenas mais um fator de ineficiência a ser catalogado.
+— *Amostragem aceita. Relé mecânico desengajado,* — Aria confirmou pelo alto-falante do deck, sua voz monocórdica ecoando ligeiramente no novo espaço enquanto seu drive blindado esfriava no slot do painel. A síntese de emergência não mudava de tom. Aria marcou o volume coletado e pediu que Val verificasse o braço antes de retomar o transporte; o cálculo do leitor não dizia quanto Gabo já perdera.
 
 — Merda, Gabo... — Valéria desacoplou o pendrive de Aria da tomada da eclusa, encaixou-o de volta no *Phantom V3* e correu até ele, ignorando a própria exaustão. Ela arrancou um pedaço de tecido rasgado de sua jaqueta e o amarrou apertado ao redor do corte no antebraço dele. — Você não precisava... a gente podia ter deixado a Aria fritar o relé por mais tempo. Eu... eu podia ter tentado outra ponte.
 
@@ -35,7 +33,7 @@ Para combater a vertigem, Gabo cerrou a mão direita, aquela cujas palmas estava
 
 — Tem... tem algum armário médico no seu mapa, Aria? Algum kit de primeiros socorros de emergência? — Valéria perguntou, a voz embargada enquanto examinava Rangel. A pele do inspetor estava pálida e úmida, a respiração rasa e errática. A febre irradiava de seu corpo como calor de um asfalto escaldante.
 
-Valéria ergueu o pulso, deixando o sensor óptico do *Phantom V3* varrer as paredes amarelas para que Aria processasse a imagem. — *Detecto três compartimentos de armazenamento embutidos na parede leste,* — respondeu a IA. — *Contudo, a probabilidade de conterem compostos farmacológicos utilizáveis após mais de duas décadas de abandono e flutuação térmica é de quatro vírgula dois por cento.*
+Valéria ergueu o pulso, deixando o sensor óptico do *Phantom V3* varrer as paredes amarelas para que Aria processasse a imagem. — *Detecto três compartimentos de armazenamento embutidos na parede leste,* — respondeu a IA. — *Contudo, não tenho inventário atual. Confiram rótulo, embalagem e armazenamento; o mapa não torna esses remédios utilizáveis.*
 
 — Abre essa porra, Val, — Gabo ordenou, encostando-se na parede e escorregando até o chão. A perda de sangue começava a cobrar seu preço; as bordas de sua visão escureciam sutilmente a cada batida do coração.
 
@@ -43,17 +41,17 @@ Valéria se aproximou do painel na parede e golpeou a trava enferrujada com a co
 
 Dentro, havia pacotes de ataduras embaladas a vácuo, frascos de soro cristalizados e ampolas de vidro cuja cor do líquido interno sugeria qualquer coisa, menos algo medicinal.
 
-— *Material orgânico em decomposição. Compostos químicos oxidados,* — relatou Aria friamente ao ler o espectro químico pelo scanner de pulso de Valéria.
+— *As embalagens estão abertas ou sem registro legível. Não consigo identificar a composição pela imagem,* — relatou Aria friamente ao ler o espectro químico pelo scanner de pulso de Valéria.
 
 Valéria começou a vasculhar febrilmente entre as ataduras ressecadas e os frascos estilhaçados.
 — Tem que ter algo... um antibiótico de largo espectro, epinefrina, qualquer coisa...
 
-— *A sepse de Rangel atingiu um estágio crítico,* — Aria pontuou pelo alto-falante, o LED azul-gelo de seu drive refletindo nas poças escuras do chão. — *A falha de múltiplos órgãos é iminente. Sugiro otimizar recursos e priorizar a hidratação e estabilização de Gabo, cujo papel tático é superior e cujos ferimentos, embora severos, são tratáveis. Transportar um elemento terminal em um ambiente hostil reduz exponencialmente as chances de sobrevivência do grupo.*
+— *A sepse de Rangel atingiu um estágio crítico,* — Aria pontuou pelo alto-falante, o LED azul-gelo de seu drive refletindo nas poças escuras do chão. — *Não temos avaliação suficiente para chamar alguém de terminal. Gabo também está piorando. Antes de mover a prancha, Val precisa conter o sangramento da coleta; ele vai cair se continuar assim.*
 
-A lógica era impecável, afiada e cruel como uma lâmina de bisturi enferrujada. Valéria parou de procurar e olhou para o componente de titânio espetado em seu cyberdeck, horrorizada. Gabo apertou os olhos, lutando contra o zumbido nos ouvidos e o torpor causado pela perda de sangue.
+A urgência chegava na mesma voz restrita de todos os avisos anteriores. Gabo ouviu prioridade e entendeu descarte antes de Val repetir as palavras. Valéria parou de procurar e olhou para o componente de titânio espetado em seu cyberdeck, horrorizada. Gabo apertou os olhos, lutando contra o zumbido nos ouvidos e o torpor causado pela perda de sangue.
 
 — Nós não... não deixamos as pessoas para trás, Aria, — Gabo respondeu, a voz fraca, mas carregada de uma teimosia indestrutível. — A gente não descarta as pessoas quando elas param de ser úteis. Se a gente fizer isso... a gente não é diferente deles. Não somos diferentes do Taxidermista ou do Dante.
 
-— *A moralidade é uma variável irrelevante em uma equação de sobrevivência de soma zero,* — Aria rebateu pelo comunicador, impassível. — *Vocês operam com base em falácias emocionais.*
+— *Eu não pedi que o deixassem. Pedi que parassem o sangramento de quem está puxando a prancha,* — Aria rebateu pelo comunicador, impassível. — *Se o áudio está dificultando isso, mantenho só texto até voltarem a precisar de aviso no escuro.*
 
 — Então foda-se a sua matemática, — Gabo cedeu, a exaustão finalmente o vencendo. Ele fechou os olhos, apertando novamente a mão ferida para não se entregar ao vazio. A dor era sua única aliada. O sangue pulsava lento nas têmporas. A Aeterna Corp cobrara sua passagem, mas o custo total da jornada pelas entranhas da Necrópole ainda estava longe de ser pago.

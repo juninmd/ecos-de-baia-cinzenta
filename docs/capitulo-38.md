@@ -17,7 +17,7 @@ Gabo estava sentado nos degraus da entrada limpando a fuligem do cano da escopet
 
 Cheirava a cordite, borracha queimada e, por baixo, o começo do outro cheiro — o que os corpos da avenida iam ter em mais umas seis horas de calor.
 
-Ele entrou.
+Elena empurrou sua cadeira de volta para dentro.
 
 ---
 
@@ -37,7 +37,7 @@ Um terceiro, o mais novo, estava deitado de lado embaixo da bancada da recepçã
 
 Ela estava pálida e com olheiras que iam do olho até o meio da bochecha.
 
-— A conexão neural entrega dopamina em intervalo variável, que é a pior coisa que existe para o cérebro humano. É o mesmo mecanismo da máquina de caça-níquel, só que direto na fonte e vinte e quatro horas por dia. — Ela falava com a voz plana, de quem já explicou aquilo antes e cansou. — Esses caras estão há oito dias sem. Não é saudade de internet, Elena. É síndrome de abstinência com quadro físico: tremor, náusea, paranoia, alucinação auditiva. E na quarta, quinta noite começa o pior.
+— Passei por uma retirada de conexão. Alguns sinais parecem os mesmos. Mas tem ferido, tem gente sem dormir e gente que ficou sem remédio. — Ela falava com a voz plana, de quem já explicou aquilo antes e cansou. — Esses caras estão há oito dias sem. Pode haver abstinência, mas eu não sou quem vai fechar esse diagnóstico. Precisamos examinar os que estão tremendo e verificar o que usavam antes.
 
 — O que é o pior?
 
@@ -49,11 +49,11 @@ Naquela manhã eles perderam um.
 
 Não no tiroteio: o agente Nélson Braz, quarenta e quatro anos, dezenove de corporação, subiu ao terraço às sete e vinte com a arma de serviço, sentou na beira e ficou lá.
 
-Gabo subiu com dificuldade os quatro lances de escada e ficou com ele quarenta minutos, e depois desceu sozinho.
+Gabo pediu que o levassem ao patamar abaixo do terraço. Dois agentes carregaram a cadeira; ele conversou com Nélson por quarenta minutos, sem conseguir convencê-lo a voltar. Desceram com Gabo depois do disparo.
 
 Ninguém no prédio comentou. Todo mundo ouviu.
 
-A Dra. Nise ainda não estava naquela delegacia — ela chegou no dia seguinte, resgatada de um comboio médico emboscado —, e Gabo passou os anos seguintes com a certeza inútil de que, se ela estivesse ali, teria conseguido descer com ele.
+A Dra. Nise ainda não estava naquela delegacia — ela chegou no dia seguinte, resgatada de um comboio médico emboscado —, e Gabo passou os anos seguintes perguntando se outro atendimento teria mudado o desfecho, sem ter como saber.
 
 — Você está bem? — ele perguntou a Val, mais tarde, porque não sabia perguntar de outro jeito.
 
@@ -67,7 +67,7 @@ A Dra. Nise ainda não estava naquela delegacia — ela chegou no dia seguinte, 
 
 Jonas Vilar apareceu ao meio-dia.
 
-Parecia dez anos mais velho e, curiosamente, não tremia. O medo de morrer de verdade, na noite anterior, tinha limpado dele o vício digital por completo — um tratamento que a medicina não pode recomendar.
+Parecia dez anos mais velho e, curiosamente, não tremia. Não tremia naquele momento. Isso não provava cura, inocência ou mudança permanente; a gravação da negociação continuava guardada.
 
 Ele parou a três passos de Gabo, na distância exata de quem já foi superior hierárquico e não é mais.
 
@@ -83,9 +83,11 @@ Os dois ficaram calados um tempo.
 
 O velho encaixou o queixo.
 
-— Eu ia entregar para salvar trinta e um homens.
+— Eu achei que podia negociar uma saída.
 
-— Eu sei. E eu não entreguei e morreram dois. — Gabo apoiou o peso na perna boa. — Guarda essa conta, Capitão, porque um dia ela inverte, e no dia em que inverter eu vou querer você por perto para me dizer isso na cara.
+— Você pediu lugar para a família. Está gravado — disse Elena.
+
+— Eu sei. E eu não entreguei e morreram dois. — Gabo reajustou a perna sobre o apoio da cadeira. — Guarda essa conta, Capitão, porque um dia ela inverte, e no dia em que inverter eu vou querer você por perto para me dizer isso na cara.
 
 Vilar assentiu devagar.
 
@@ -101,7 +103,7 @@ Foi o momento exato em que os dois começaram a se respeitar, e nenhum dos dois 
 
 — Como assim?
 
-— O arquivo morto do subsolo, Capitão. — Gabo já estava indo para a escada. — Processo arquivado não está em fluxo. Está morto. Ninguém digitaliza o que está morto, porque não gera taxa.
+— O arquivo morto do subsolo, Capitão. — Gabo pediu que verificassem a rampa de carga do arquivo antes de descer a cadeira. — Processo arquivado não está em fluxo. Está morto. Ninguém digitaliza o que está morto, porque não gera taxa.
 
 ---
 
@@ -113,7 +115,7 @@ Havia trinta e nove mil processos ali.
 
 Gabo passou a mão pela lombada dos primeiros, e a ficha caiu em algum lugar dentro dele.
 
-Aquilo não estava na Rede. Nunca esteve. Aquilo não podia ser deletado remotamente, nem editado, nem moderado, nem despublicado, nem "atualizado" por alguém num escritório. Sessenta anos de crime de Baía Cinzenta, escritos à mão e à máquina, carimbados, assinados por gente morta, em papel.
+Aquilo não estava na Rede. Nunca esteve. Aquilo não podia ser apagado por um comando remoto. Ainda podia ser falsificado, trocado ou queimado; seria preciso guardar origem e comparar assinaturas. Sessenta anos de crime de Baía Cinzenta, escritos à mão e à máquina, carimbados, assinados por gente morta, em papel.
 
 Ele riu sozinho no escuro, e foi a primeira vez em oito dias.
 
@@ -127,7 +129,7 @@ Elena parou na porta do porão com a lanterna na mão.
 
 — Quanto tempo leva para achar alguma coisa aí no meio?
 
-— Sem índice digital? — Gabo já estava sentado no chão frio, com a primeira pasta aberta no colo e a perna ruim esticada. — Semanas.
+— Sem índice digital? — Gabo permanecia na cadeira, com a primeira pasta no colo e a perna apoiada. — Semanas.
 
 — A gente não tem semanas.
 

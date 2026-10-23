@@ -1,22 +1,18 @@
-# Análise Crítica - Capítulo 92: A Praga de Ferro
+# Revisão de Capítulo 92: A Praga de Ferro
 
-## Avaliação Técnica
-- **Ritmo:** 9/10 - Ação caótica e sufocante.
-- **Diálogos:** 7/10 - Diálogos diretos de combate e comando tático.
-- **Atmosfera:** 9/10 - A ideia de uma "ferrugem acelerada" matando as defesas do enclave é fantástica.
+Fonte: [capítulo 92](/capitulo-92.md).
 
-## Pontos Fortes e Fracos
-**Fortes:**
-- Foco em Vilar, excelente perspectiva para mostrar o desespero de sobreviver sem tecnologia pesada.
-- O conceito da oxidação acelerada das armas e munições muda completamente as regras do jogo e da ação.
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-**Fracos:**
-- Muito curto, focado em apenas uma cena de recuo/combate.
+## Passagens de entrada e saída
 
-## Sanity Check
-- [x] O trauma/aversão fóbica de Gabo a fumo está respeitado? Sim, Gabo nem sequer aparece neste capítulo.
-- [x] A temporalidade das personagens está correta? Sim. Vilar tem o braço protético (agora descartado).
-- [x] A história é coerente? Sim.
-- [x] Não contém mocks? Sim.
+> Distrito Industrial — Setor dos "Puros". Nove dias depois da negociação.
+> O ataque não veio na forma de monstros nem de soldados.
 
-**Conclusão:** O Capítulo 92 é uma excelente representação da derrota tecnológica, respeitando todos os preceitos de lore atuais.
+### Saída
+
+> Tempo suficiente para ele ensaiar a frase que ia ter de dizer ao Moretti quando chegasse: que duzentas e catorze pessoas morreram naquela manhã depois da ameaça que um velho escondera de todos. O assassino estava do lado de fora; o silêncio fora dele.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

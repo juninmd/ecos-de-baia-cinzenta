@@ -19,7 +19,7 @@ Lembrei de cada túnel de fuga que cruzei com o comissariado nos anos anteriores
 
 Elias engoliu seco, os dedos encardidos apertando a alça da máscara de respiração no peito.
 
-— Quinze minutos. Vinte no máximo, se os pilares de chumbo segurarem o tranco.
+— Quinze minutos. Vinte no máximo, se os pilares de aço revestidos de chumbo segurarem o tranco.
 
 — Então para de enrolar e mostra logo a galeria de escape — comentei, ajustando o correame de *Caronte* por baixo do sobretudo rasgado.
 
@@ -61,8 +61,7 @@ Um zumbido agudo, quase imperceptível ao ouvido humano mas doloroso nos dentes,
 
 Aproximei-me da plataforma, posicionei minhas botas nas travessas de ferro e envolvi a roda com a garra mecânica da armação. Travei os motores hidráulicos no limite máximo de compressão. Meus dentes bateram, os nós neurais da minha clavícula estalaram em agonia quando forcei o giro com o peso do meu tronco inteiro como alavanca.
 
-*CREEEEAAAAK.*
-
+CREEEEAAAAK.
 O metal gemeu num grito estridente de atrito vencido. O salitre cedeu, a graxa ferveu nas ranhuras e o volante completou o primeiro quarto de volta.
 
 Mais um tranco. As engrenagens internas estalaram, liberando o contrapeso de duas toneladas com um estrondo mecânico que fez o ar tremer. A comporta circular pesada deslizou para dentro do batente, revelando a escuridão ampla e fria do duto de ventilação do Setor 6.

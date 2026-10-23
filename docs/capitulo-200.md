@@ -13,7 +13,7 @@ Eu escorreguei pela parede de metal frio, deixando o peso morto do meu corpo ced
 
 Valéria ajoelhou-se ao meu lado, os filamentos de LED azul na franja curta iluminando o suor frio que escorria pelo meu queixo. Ela soltou o cyberdeck das costas, colocando-o com cuidado sobre uma caixa de fusíveis vazia, e verificou o aperto da atadura elástica no meu ombro com a mão firme.
 
-— A solda da bucha do seu ombro tá soltando faíscas azuis, Moretti — ela sussurrou, a voz ofegante mas firme, enquanto ajustava a válvula de alívio do pistão com a ponta de uma chave de fenda pequena. — Mais dois trancos daquele e a rosca da clavícula se solta de vez.
+— A solda da bucha do seu ombro tá soltando faíscas azuis, Moretti — ela sussurrou, a voz ofegante mas firme, enquanto ajustava a válvula de alívio do pistão com a ponta de uma chave de fenda pequena. — O relé do atuador abriu. Elias tem um contato compatível no estojo; vou usar no circuito auxiliar, com a pressão limitada. Isso não conserta o fixador. A garra vai responder mais devagar e a força precisa vir do arnês, não do osso.
 
 — O que importa é que a quimera virou carvão lá fora — respondi, o gosto de cobre e poeira de carvão amargo na boca. — E o portão de chumbo segurou o resto da ninhada.
 
@@ -45,7 +45,7 @@ Elias piscou, engolindo o soluço. O tremor nas mãos dele diminuiu gradualmente
 
 — E se a escada quebrar? — ele sussurrou.
 
-— Se a escada quebrar, eu seguro você com essa armação de cais — respondi, apontando para o ferro da estrutura. — Agora engole esse medo e bota a mão no primeiro degrau.
+— Se um degrau quebrar, a linha de segurança precisa segurar você. Essa armação não é uma garantia de que eu consiga — respondi, apontando para o ferro da estrutura. — Agora engole esse medo e bota a mão no primeiro degrau.
 
 Valéria se aproximou, pendurando o cyberdeck com as alças cruzadas no peito para liberar os braços e checando o cão da pistola com um clique seco.
 

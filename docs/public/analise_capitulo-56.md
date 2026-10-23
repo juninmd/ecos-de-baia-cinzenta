@@ -1,20 +1,18 @@
-# Análise Crítica - Capítulo 56
+# Revisão de Capítulo 56: O Preço do Amanhã
 
-## Avaliação Técnica
-- **Ritmo:** 8/10 - É um capítulo transicional e melancólico. Foca nas consequências dos confrontos e na dor física e isolamento de Gabo, o que dá uma excelente pausa na ação frenética.
-- **Diálogos:** 7/10 - Predominantemente introspectivo e narrativo, as raras interações funcionam como âncoras (como o rádio emitindo sentenças de despejo urbanas).
-- **Atmosfera:** 9/10 - A chuva, a poluição e os drones que mapeiam para o "Consórcio Lázaro" estabelecem perfeitamente o desespero de Baía Cinzenta.
+Fonte: [capítulo 56](/capitulo-56.md).
 
-## Pontos Fortes e Fracos
-**Fortes:**
-- Gabo sente as "órteses improvisadas nas pernas rangerem". Isso solidifica muito bem a continuidade da sua pélvis quebrada e danos permanentes, além de validar a dor no arco.
-- O despejo em massa sendo uma manobra imobiliária corporativa para uma Nova Baía consolida muito bem o lado Cyberpunk da trama.
+Sete semanas de reparos e mudanças de refúgio levam ao dia noventa e cinco do Dilúvio. Elena sai com documentos. A data do protocolo anterior às comportas orienta a investigação, sem autenticar toda a hipótese.
 
-**Fracos:**
-- O texto poderia reforçar mais as características de Aria logo de cara em contraste com a melancolia de Gabo.
+## Passagens de entrada e saída
 
-## Sanity Check (Lore Compliance)
-- [x] O trauma/aversão fóbica de Gabo a fumo está respeitado? Sim, Gabo lida com o luto sem fumaça e foca apenas em seu Cobalt e na cafeína antes do carro (cheiro de fuligem distante).
-- [x] A temporalidade e continuidade de saúde estão corretas? Sim. As pernas de Gabo estão estragadas e as órteses são essenciais e causam dor.
+> Dia 95 do Dilúvio.
+> Sete semanas tinham passado desde a oferta de Isadora. Duas mudanças de refúgio, sessões de fisioterapia interrompidas por falta de transporte, baterias emprestadas para sustentar o que ainda respondia nas órteses. Gabo continuava dependendo de ajuda para as transferências; aprender a administrar a limitação não era curar a coluna. Elena usara o intervalo para reunir provas com outras fontes e preparar a saída. Agora levaria o que tinham conseguido manter fora dos servidores.
 
-**Conclusão:** O Capítulo 56 está muito coeso. Não foram necessárias reescritas ou adaptações para focar no trauma. A fisicalidade segue muito bem descrita.
+### Saída
+
+> Engatou a primeira e acelerou para dentro da névoa, na direção do protocolo 2056/61, com um pedaço de papel no bolso escrito com a letra da ex-mulher e a data de doze de fevereiro gravada onde ele guardava as coisas que não deixava esquecer.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

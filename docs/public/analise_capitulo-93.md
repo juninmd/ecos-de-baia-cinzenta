@@ -1,22 +1,18 @@
-# Análise Crítica - Capítulo 93: Fome
+# Revisão de Capítulo 93: Fome
 
-## Avaliação Técnica
-- **Ritmo:** 8/10 - Crescente e sufocante devido ao cerco do hospital.
-- **Diálogos:** 8/10 - Direcionam a trama tática perfeitamente para o sacrifício final.
-- **Atmosfera:** 9/10 - O som de "estômagos roncando, amplificado por milhões de gargantas" é extremamente perturbador.
+Fonte: [capítulo 93](/capitulo-93.md).
 
-## Pontos Fortes e Fracos
-**Fortes:**
-- Gabo reconhecendo as limitações físicas ("ajustar a potência máxima dos servomotores destas pernas velhas"). Essa consistência de fisicalidade destruída eleva a escrita e respeita totalmente as diretrizes.
-- O revólver de aço inoxidável explicando a imunidade parcial à ferrugem é um ótimo detalhe.
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-**Fracos:**
-- Pouco desenvolvimento do cerco do lado de fora, a cena foca mais no planejamento.
+## Passagens de entrada e saída
 
-## Sanity Check
-- [x] O trauma/aversão fóbica de Gabo a fumo está respeitado? Sim, apenas dor e a tensão de sobrevivência em foco, sem elementos fumígenos.
-- [x] A temporalidade das personagens está correta? Sim. Vilar sobreviveu.
-- [x] A história é coerente? Sim.
-- [x] Não contém mocks? Sim.
+> Arredores do Hospital Central.
+> O cerco começou de madrugada e ninguém percebeu na hora, porque cerco vegetal não chega: **aparece**. Ao amanhecer, o Hospital Central era uma ilha de concreto branco num mar preto e verde.
 
-**Conclusão:** O Capítulo 93 configura o clímax da "bomba" com excelente cuidado aos detalhes técnicos e biológicos do cenário e à memória da debilidade do protagonista.
+### Saída
+
+> — Porque a gente vai entregar uma bomba no colo de Deus, e o Deus mora a quatro quilômetros daqui, e ele está com fome.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

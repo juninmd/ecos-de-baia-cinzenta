@@ -25,10 +25,9 @@ Elias tropeçou nos próprios pés, desabando de cara na lama da vala.
 
 — Levanta, Elias! — Valéria avançou sem hesitar, posicionando-se entre Elias caído e a criatura, atirando nos joelhos articulados do monstro. — Gabo! As pernas da besta são recicladas de chassi leve! As juntas de teflon tão expostas!
 
-Aproximei-me da carcaça de um pilar caído, onde um vergalhão de construção de duas polegadas e um metro e meio de comprimento despontava da alvenaria estraçalhada. Enfiei os garras da armação pesada na base do ferro e puxei com toda a tração dos motores hidráulicos de cais.
+Aproximei-me da carcaça de um pilar caído, onde um vergalhão de construção de duas polegadas e um metro e meio de comprimento despontava da alvenaria estraçalhada. Enfiei as garras da armação pesada na base do ferro e puxei com toda a tração dos motores hidráulicos de cais.
 
-*CRACK.*
-
+CRACK.
 A barra soltou-se do concreto numa chuva de cascalho.
 
 O vergalhão veio com lasca de concreto e um pedaço da minha mão. A ferrugem entrou no corte do polegar e ardeu como pimenta. A garra da armação ficou presa no buraco meio segundo a mais do que devia, e o esforço puxou o ponto de solda do ombro com um estalo que eu senti mais no dente do que no ouvido.
@@ -39,9 +38,9 @@ A quimera ignorou os disparos de Valéria e saltou direto contra o pescoço dela
 
 — Elias, a chave sônica! — berrei, correndo manco com todo o peso do meu corpo impulsionado para a frente. — Agora!
 
-O técnico no chão, impulsionado pelo puro desespero de sobrevivência, sacou a ferramenta do cinto e disparou a bobina de sobretensão invertida direto na poça d'água onde a criatura fincava as patas traseiras.
+O técnico no chão, impulsionado pelo puro desespero de sobrevivência, sacou a ferramenta do cinto e pressionou o bocal da chave sônica contra a articulação exposta da pata traseira, antes de rolar para trás do pilar.
 
-A descarga de ressonância acústica e eletricidade de alta frequência explodiu na água ácida.
+A vibração fez a junta já rachada perder o apoio. A água espirrou quando a pata cedeu.
 
 O monstro soltou um uivo agudo ensurdecedor, os sensores cerebrais entrando em curto-circuito temporário pelo choque. O salto da aberração perdeu o rumo no ar, desviando-se de Valéria e caindo de lado no cascalho a dois metros de nós.
 
@@ -55,17 +54,17 @@ Mirei exatamente no nó de biomassa azul e cabos ópticos que pulsava no peito d
 
 Enterrei a barra de ferro no coração do monstro.
 
-A ponta rasgada perfurou o núcleo vegetal e cravou-se fundo no dormente de madeira do chão. A quimera debateu-se violentamente numa convulsão biomecânica selvagem, as patas de aço riscando o teto e quase partindo minha omoplata com o recuo, mas travei o peso da armação sobre o vergalhão, mantendo a besta pregada no chão.
+A ponta rasgada perfurou o núcleo vegetal e cravou-se fundo no dormente de madeira do chão. A quimera debateu-se violentamente, as patas de aço riscando o teto e quase partindo minha omoplata com o recuo, mas travei o peso da armação sobre o vergalhão, mantendo a besta pregada no chão.
 
-Valéria sacou um cabo de alta voltagem que pendia solto da canaleta da parede, puxou a fiação desencapada com a faca e enfiou os fios vivos direto no vergalhão que eu segurava.
+Valéria sacou um cabo de alta voltagem que pendia solto da canaleta da parede, puxou a fiação desencapada com a faca e indicou que eu soltasse o ferro antes de aproximar o cabo da barra presa ao dormente. Recuei atrás do pilar; ela só fechou o contato quando viu minhas duas mãos fora da armação metálica da criatura.
 
-— *Abaixa a cabeça, Moretti!*
+— *Fica fora do contato, Moretti!*
 
 O arco elétrico de quatrocentos volts da rede primária desceu pela barra de ferro.
 
 Um clarão ofuscante azul-celeste iluminou o túnel inteiro com um estrondo ensurdecedor. A biomassa da quimera explodiu em chamas elétricas, os circuitos internos torrando instantaneamente numa fumaça densa de silício e gordura queimada. A criatura estremeceu uma última vez e amoleceu, transformando-se numa carcaça inerte e fumegante de ferro e cinzas.
 
-O impacto da sobrecarga arremessou Valéria dois metros para trás e fez minha armação mecânica vibrar com um choque que desarmou os relés de pressão do ombro, me jogando de costas no lodo.
+O arco fez Valéria recuar e cair atrás da mureta e fez minha armação mecânica vibrar com um choque que desarmou os relés de pressão do ombro, me jogando de costas no lodo.
 
 Puxei o ar com dificuldade, tossindo com o cheiro acre de fiação carbonizada, sentindo o gosto metálico de sangue na língua, mas completamente lúcido.
 
@@ -85,8 +84,7 @@ Disparamos pelos últimos cinquenta metros de trilhos sob uma chuva de faíscas 
 
 Puxamos a alavanca mestra de travamento — eu com a mão esquerda, Valéria com as duas.
 
-*CLANK-BOOM.*
-
+CLANK-BOOM.
 Os ferrolhos de quatro polegadas bateram nos encaixes de chumbo com um estrondo definitivo. As garras dos monstros arranharam o lado de fora como granizo furioso, mas a blindagem naval da Aeterna segurou a maré.
 
 Caímos os três de costas contra a porta blindada, ofegantes, cobertos de cinza e lodo, mas vivos no ventre do poço vertical.

@@ -9,19 +9,16 @@ Localização: 'Distrito Industrial — Setor dos "Puros". Nove dias depois da n
 
 # Capítulo 92: A Praga de Ferro
 
-**Distrito Industrial — Setor dos "Puros". Nove dias depois da negociação.**
-
+Distrito Industrial — Setor dos "Puros". Nove dias depois da negociação.
 O ataque não veio na forma de monstros nem de soldados.
 
 Veio como uma conta vencida.
 
-Vilar estava na guarita leste às cinco e quarenta da manhã, limpando o rifle, porque limpar o rifle era a única coisa naquele enclave que ainda saía exatamente do jeito que ele planejava. Óleo, estopa, vareta. O cheiro do solvente era ácido e limpo, e cortava o resto: o mofo das lonas, o suor de duzentas pessoas dormindo em galpão, e o cheiro adocicado que vinha da cidade lá fora e que já não era cheiro de cidade.
+Vilar estava na guarita leste às cinco e quarenta da manhã, limpando o rifle, com a coronha presa numa morsa, porque ainda reaprendia a desmontar a arma usando uma mão só. Óleo, estopa, vareta. O cheiro do solvente era ácido e limpo, e cortava o resto: o mofo das lonas, o suor de duzentas pessoas dormindo em galpão, e o cheiro adocicado que vinha da cidade lá fora e que já não era cheiro de cidade.
 
 Ele tinha feito aquilo dez mil vezes. Fazia no escuro havia trinta anos.
 
-Foi por isso que percebeu antes de ver.
-
-A estopa saiu vermelha.
+Foi por isso que percebeu antes de ver. A estopa saiu vermelha.
 
 Não vermelha de sangue — sangue tem fundo doce, e ele conhecia. Aquilo era vermelho de tijolo moído, seco, farinhento. Vilar ficou olhando com o cérebro rodando devagar demais, e pensou *ferrugem*, e pensou *impossível, eu passei óleo ontem*, e nesse intervalo — dois segundos, talvez três — o cano do rifle mudou de cor na mão dele.
 
@@ -37,21 +34,15 @@ Aquilo estava no ar. Ele estava respirando aquilo desde que acordou.
 
 ---
 
-A mão esquerda travou em seguida.
+Ele tentou fechar a mão esquerda. A que já não tinha.
 
-Primeiro foi um formigamento nos servos do pulso, a vibração errada que ele já conhecia de quando entrava água na junta. Depois os dedos protéticos se fecharam sozinhos, a meio caminho, e pararam. Depois o cotovelo mecânico começou a esquentar — e o calor não era de esforço. Era de metal se comendo por dentro.
+O espasmo fantasma subiu pelo braço ausente e o fez bater o coto no batente. O curativo da amputação estava úmido; com a mão direita, ele puxou a manga e encontrou a tala externa manchada de laranja. A ferrugem não nascia da carne. Vinha dos grampos e do fecho que o ambulatório usara para prender a proteção.
 
-A ferrugem subia pelas juntas como gangrena com pressa.
+Arrancou a capa pelo velcro. Um dos grampos ficou preso na faixa e ele teve de rasgá-la com os dentes. O sangue apareceu antes de conseguir soltá-lo.
 
-Ele conhecia gangrena. Tinha visto na perna de um recruta no ano quarenta e nove, e aquele dia lhe deu a única lição de medicina que Jonas Vilar levou para a vida inteira: **quando uma coisa está morrendo e ainda está presa em você, você tira, e tira agora, e chora depois.**
+Apoiado no concreto, pressionou uma compressa sobre o coto. Não tinha outra mão para prender a bandagem. Uma mulher da cozinha veio correndo e amarrou o pano sem perguntar.
 
-Encostou o antebraço no batente de concreto da guarita e usou o peso do corpo.
-
-Doeu de um jeito que ele não esperava, porque a prótese estava ancorada em osso, e osso tem nervo. Ele urrou uma vez, curto, entre os dentes. Na terceira pancada o encaixe soltou, e a mão caiu no chão já alaranjada, os dedos travados a meio caminho de um punho que ele nunca mais ia fechar.
-
-Vilar olhou para aquilo por um segundo.
-
-Dezoito meses de fila. Quatro cirurgias. O último objeto naquele mundo que ele ainda chamava de seu.
+Vilar deixou a proteção no chão e foi para a muralha.
 
 Chutou para longe e foi para a muralha.
 
@@ -83,16 +74,13 @@ Vilar disse isso e sentiu a coisa se encaixar no peito com o barulho de uma port
 
 Não era arma. Arma se dispara contra a defesa do inimigo. Aquilo não estava rompendo defesa nenhuma: estava dissolvendo tudo ao mesmo tempo, no enclave inteiro, do lado de dentro, sem alvo e sem pressa. Não existe arma que faça isso.
 
-Existe **decisão**.
-
-Eles sempre puderam.
+Existe **decisão**. Eles sempre puderam.
 
 Em todos aqueles meses de muralha, de turno dobrado, de gente morrendo pendurada em andaime para soldar chapa, os Jardineiros podiam ter feito aquilo em qualquer manhã. Não fizeram. Deixaram os Puros construírem. Deixaram Vilar acreditar que muralha era resposta, e o deixaram ensinar isso a duzentas e quarenta pessoas.
 
 E nove dias atrás um homem de dentes de quartzo tinha lhe dito um preço, e Vilar tinha voltado para casa sem responder.
 
-*Nós não odiamos gente, Capitão. Nós odiamos o velho mundo.*
-
+Nós não odiamos gente, Capitão. Nós odiamos o velho mundo.
 Aquilo não era um ataque. Era um recibo.
 
 — Capitão? — Peçanha estava com a mão no ombro dele. — O senhor ficou branco.
@@ -115,13 +103,13 @@ O primeiro tiroteio durou onze segundos.
 
 Depois disso, não houve mais tiroteio.
 
-Porque as balas eram de chumbo com camisa de latão, e latão é cobre com zinco, e o que estava no ar não fazia distinção fina entre metais. Os projéteis se desfaziam na trajetória. Vilar viu, com uma clareza que ia lhe custar noites, um dos seus disparar três vezes à queima-roupa contra um cão de raiz e produzir apenas três nuvenzinhas de pó cor de tijolo, que ficaram paradas no ar entre o cano e o alvo, como um insulto.
+Porque as balas eram de chumbo com camisa de latão, e latão é cobre com zinco, e o que estava no ar não fazia distinção fina entre metais. Os estojos falhavam nas câmaras; as armas contaminadas engasgavam e rompiam. Vilar viu, com uma clareza que ia lhe custar noites, um dos seus disparar três vezes à queima-roupa contra um cão de raiz e produzir estalos fracos na culatra, sem deter o bicho. Na última tentativa, a arma abriu junto à mão.
 
 O homem olhou para a arma.
 
 O cão não olhou para nada.
 
-— **RECUAR!** — gritou Vilar. — Túnel de serviço! Para o Hospital! O Hospital é concreto e polímero, lá não tem o que apodrecer! ANDA! **ANDA!**
+— **RECUAR!** — gritou Vilar. — Túnel de serviço! Para o Hospital! O túnel ainda está livre e o Hospital tem isolamento! ANDA! **ANDA!**
 
 ---
 
@@ -157,4 +145,4 @@ Agora era a lei da selva. E, na selva, ele não era Capitão de coisa nenhuma.
 
 Faltavam quatro quilômetros até o Hospital Central.
 
-Tempo suficiente para ele ensaiar a frase que ia ter de dizer ao Moretti quando chegasse: que duzentas e catorze pessoas morreram naquela manhã porque um velho decidiu, sozinho e sem consultar ninguém, não entregar uma.
+Tempo suficiente para ele ensaiar a frase que ia ter de dizer ao Moretti quando chegasse: que duzentas e catorze pessoas morreram naquela manhã depois da ameaça que um velho escondera de todos. O assassino estava do lado de fora; o silêncio fora dele.

@@ -51,11 +51,11 @@ Ele olhou para o comunicador vazio na lapela de Gabo, onde antes brilhava o LED 
 
 — A Aria conseguiu?
 
-— Ela fritou a rede — disse Valéria, tirando o pendrive chamuscado do bolso de Gabo com uma luva térmica e conectando-o rapidamente à porta de diagnóstico do deck. — O núcleo de armazenamento resistiu ao curto-circuito, mas o software... é como se ela tivesse queimado a própria contenção lógica para servir de fusível.
+— Ela fritou a rede — disse Valéria, tirando o pendrive chamuscado do bolso de Gabo com uma luva térmica e conectando-o rapidamente à porta de diagnóstico do deck. — O circuito de proteção abriu. O diagnóstico leu alguns setores do armazenamento; outros não respondem. Não vou tentar reiniciar enquanto a carcaça ainda estiver quente.
 
 — E Dante? — perguntou Rangel.
 
-— Vivo — respondeu Gabo, passando o braço bom de Rangel por cima do próprio ombro. — Mas quebrado. Deixamos ele lá.
+— Vivo — respondeu Gabo, passando o braço bom de Rangel por cima do próprio ombro. — Mas quebrado. Deixamos ele lá, com pedido de resgate sem confirmação. Não tínhamos como tirar dois feridos daquele nível.
 
 Rangel assentiu, devagar.
 
@@ -87,7 +87,7 @@ O silêncio era o que mais assustava. Não havia o zumbido constante dos servido
 
 — Nós matamos a cidade — disse Rangel, apoiando quase todo o peso em Gabo para ficar de pé.
 
-— Não — corrigiu Gabo, olhando para a escuridão onde milhões de pessoas agora acordavam livres do controle algorítmico, provavelmente aterrorizadas, mas livres. — Nós a desligamos. Agora ela pode acordar.
+— Não — corrigiu Gabo, olhando para a escuridão onde pessoas agora acordavam livres do controle algorítmico, provavelmente aterrorizadas, mas livres. — Nós a desligamos. Agora ela pode acordar.
 
 Gabo sustentou o tronco pesado de Rangel pelo lado esquerdo. Valéria guardou o pendrive inerte da Aria no estojo blindado e apoiou o inspetor pelo lado direito, mantendo o revólver dele pronto.
 

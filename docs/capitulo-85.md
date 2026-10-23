@@ -9,29 +9,26 @@ Localização: "Memorial do Dilúvio — 12h"
 
 # Capítulo 85: O Sol Negro
 
-**Memorial do Dilúvio — 12h.**
-
+Memorial do Dilúvio — 12h.
 Devia ser o momento mais claro do dia.
 
 Os quatro subiram pela escada rolante morta da saída norte da estação, atravessaram a catraca arrebentada e saíram no parque, e a primeira coisa que Gabo notou foi que estava escurecendo.
 
-Não era nuvem. Nuvem tem borda irregular e se move.
+Não era nuvem. Nuvem tem borda irregular e se move. Não era fumaça. Fumaça sobe.
 
-Não era fumaça. Fumaça sobe.
-
-Era uma sombra circular, com a borda nítida, imóvel, projetada no gramado do Memorial.
-
-Ele levantou a cabeça.
+Era uma sombra circular, com a borda nítida, imóvel, projetada no gramado do Memorial. Ele levantou a cabeça.
 
 ---
 
-A esfera flutuava a uns cento e cinquenta metros de altura, exatamente sobre o espelho d'água, e tinha o diâmetro aproximado de um quarteirão.
+A esfera parecia flutuar a uns cento e cinquenta metros de altura, exatamente sobre o espelho d'água, e tinha o diâmetro aproximado de um quarteirão.
 
 Era feita de coisas.
 
 Dava para reconhecer, se olhasse com paciência, e Gabo olhou com paciência porque era o trabalho dele: dois ônibus, dezenas de carros, seções inteiras de laje com azulejo ainda colado, um caixa d'água, três árvores adultas arrancadas com raiz e torrão, um pedaço de outdoor com metade de um rosto sorrindo.
 
 Tudo isso mantido junto por uma teia de biomassa preta que passava entre os objetos como argamassa e os prendia sem tocar o centro.
+
+Val apontou para as bordas da sombra. Feixes negros desciam até as torres e os pilares que cercavam o lago. A massa estava suspensa naquela trama; onde o sol batia de lado, os cabos incorporados às raízes brilhavam.
 
 Ela pulsava.
 
@@ -45,19 +42,17 @@ Ela estava **comendo** a luz.
 
 ---
 
-Quatro drones da polícia subiram do lado leste do parque em formação.
-
-Chegaram a uns setenta metros da esfera e caíram.
+Quatro drones da polícia subiram do lado leste do parque em formação. Chegaram a uns setenta metros da esfera e caíram.
 
 Não foram abatidos: caíram, os quatro no mesmo instante, girando sem controle, e bateram no gramado com aquele barulho barato de plástico caro.
 
 Val se abaixou ao lado de um deles e olhou a carcaça sem encostar.
 
-— Placa fritada — disse. — Isso é pulso eletromagnético, Gabo, mas não é de descarga. É contínuo. Aquela coisa está com um campo permanente em volta.
+— Placa escurecida — disse. — Pode ter queimado antes da queda. Preciso abrir em lugar isolado. Os quatro perderam controle no mesmo limite; por enquanto é só isso.
 
 — Biológico?
 
-— Enguia elétrica faz cento e vinte volts com músculo modificado. — Ela se levantou. — Escala isso para o tamanho de um quarteirão e me diz onde está o problema.
+— Pode ter atividade elétrica nessa trama, além dos cabos e das subestações que ela tomou. — Ela se levantou. — Não vou explicar um campo desses contando enguias.
 
 ---
 
@@ -65,11 +60,11 @@ Val caiu de joelhos de repente, com as duas mãos na cabeça.
 
 — Val!
 
-— Espera. Espera. — Ela ficou assim uns dez segundos, com os olhos fechados e os dentes trincados. — É a Aria.
+— Espera. Espera. — Ela ficou assim uns dez segundos, com os olhos fechados e os dentes trincados. — É o retorno do comunicador. A Aria mandou desligar a ponte.
 
 — O que ela está falando?
 
-— Ela não está falando. — Val abriu os olhos, e eles estavam vermelhos. — Ela está gritando, Gabo. Ela está dizendo que está sendo **sobrescrita**. Setor por setor. Ela sente cada pedaço parar de ser dela e continuar existindo.
+— Ela não está falando. — Val abriu os olhos, e eles estavam vermelhos. — Ela está gritando, Gabo. Ela está dizendo que está sendo **sobrescrita**. Setor por setor. As rotinas remotas estão devolvendo respostas alteradas. O núcleo dela continua no módulo; vou cortar a conexão antes que alcance o dock.
 
 Gabo se agachou ao lado dela com dificuldade e colocou a mão nas costas dela e não disse nada, porque não havia nada.
 
@@ -83,11 +78,11 @@ A Dra. Nise estava com dois instrumentos nas mãos, e os dois estavam enlouqueci
 
 — Diga assim mesmo.
 
-— Fotossíntese ao contrário. — Ela apontou a esfera. — Uma planta pega luz, água e gás carbônico e monta açúcar: ela transforma energia em ordem. Isso ali está fazendo a mesma coisa numa escala industrial, mas o produto final não é açúcar.
+— Absorção de luz, talvez uma fonte de energia para essa massa. — Ela apontou a esfera. — Uma planta pega luz, água e gás carbônico e monta açúcar: ela transforma energia em ordem. Isso ali está fazendo a mesma coisa numa escala industrial, mas o produto final não é açúcar.
 
 — É o quê?
 
-— Informação. — Nise baixou o instrumento. — Ela está pegando a energia do sol e montando estrutura ordenada. Que é a definição de dado, e — se a estrutura for complexa o suficiente — provavelmente a definição de consciência.
+— Informação. — Nise baixou o instrumento. — Ela está pegando a energia do sol e montando estrutura ordenada. Organização não prova consciência. Estamos vendo uma estrutura funcionar; não sabemos o que ela vive por dentro.
 
 — A senhora está me dizendo que aquilo está **pensando**.
 
@@ -103,37 +98,29 @@ Gabo sentiu quando passou por ele: um solavanco no peito e um sabor de metal na 
 
 E, um segundo depois, Baía Cinzenta parou.
 
-Todos os hologramas da cidade falharam ao mesmo tempo. As luzes se apagaram, do Distrito Alto ao porto. Os carros que ainda andavam pararam onde estavam. O ronco de fundo — bomba, ventilação, transformador, o Ruído que tinha voltado devagar nos últimos três meses — sumiu.
+Os hologramas ao redor do parque falharam. As luzes se apagaram até onde Gabo conseguia ver. Dois carros pararam na avenida; ao longe, uma sirene continuou tocando. O ronco de fundo — bomba, ventilação, transformador, o Ruído que tinha voltado devagar nos últimos três meses — sumiu.
 
 O silêncio caiu.
 
-E dessa vez ninguém vomitou, e ninguém sentiu vertigem, e Gabo entendeu por quê: eles já tinham passado por isso uma vez.
+Gabo procurou o ruído que desaparecera da primeira vez. Val ainda tremia ao lado dele. Não sabia o que estava acontecendo nos outros bairros.
 
-A cidade tinha aprendido a ficar em silêncio.
-
-Era a única coisa que ela tinha aprendido no ano inteiro.
+A cidade tinha aprendido a ficar em silêncio. Era a única coisa que ela tinha aprendido no ano inteiro.
 
 ---
 
-Depois começou a chover.
-
-Não água.
+Depois começou a chover. Não água.
 
 Da superfície da esfera começaram a se soltar partículas — leves, escuras, do tamanho de um floco de cinza — que desciam devagar, girando, sem pressa nenhuma, cobrindo o parque e depois os quarteirões em volta e depois tudo.
 
-Uma neve preta e cinzenta.
+Uma neve preta e cinzenta. Ela pousava no gramado, nas estátuas de bronze, nos ombros dos quatro, nos telhados de uma cidade parada.
 
-Ela pousava no gramado, nas estátuas de bronze, nos ombros dos quatro, nos telhados de uma cidade parada.
-
-Gabo estendeu a mão com a palma para cima, e um floco pousou nela.
-
-Não derreteu. Absorveu.
+Gabo estendeu a mão com a palma para cima, e um floco pousou nela. Não derreteu. Absorveu.
 
 Sumiu para dentro da pele dele em menos de dois segundos e deixou uma mancha cinza de meio centímetro no meio da palma, com a borda esfumada, que parecia tinta e parecia necrose e Gabo não soube dizer qual das duas.
 
 Ele fechou a mão.
 
-— Não respirem — disse a Dra. Nise, com uma calma horrível. — Máscara, todo mundo, agora. E não adianta nada, mas coloquem assim mesmo.
+— Não respirem — disse a Dra. Nise, com uma calma horrível. — Máscara, todo mundo, agora. Não sabemos o quanto os filtros seguram. Cubram a pele e saiam da deposição.
 
 ---
 

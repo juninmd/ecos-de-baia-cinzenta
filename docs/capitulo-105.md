@@ -5,8 +5,7 @@ Localização: "Delegacia da Biblioteca - Zona Neutra"
 ---
 # Capítulo 105: O Silêncio de Concreto
 
-**Delegacia da Biblioteca - Zona Neutra**
-
+Delegacia da Biblioteca - Zona Neutra
 O Cobalt esperava onde Gabo o tinha deixado, duas quadras acima do bueiro. A viagem de volta foi um borrão de silêncio. Dante dispensara a viatura na primeira esquina — desceu do carro de Rangel sem uma palavra de explicação, entrou e sentou-se atrás, como quem volta para casa. Gabo dirigia com o motor engasgando a cada quilômetro, como se o próprio carro sentisse o peso do passageiro no banco de trás.
 
 Dante Moretti não disse uma palavra. Ele apenas observava a cidade passando pela janela suja. Seus olhos, agora inseridos em um corpo biológico jovem e forte, capturavam cada detalhe: os prédios desmoronados, as fogueiras dos sem-teto, as barricadas da resistência. Não havia julgamento em seu olhar, apenas processamento.
@@ -21,7 +20,7 @@ Ele tentou sair do carro, mas a perna direita falhou. A velha órtese que ele im
 
 Antes que Elena pudesse se mover, a porta traseira se abriu. Dante saiu. Ele caminhou até a porta do motorista e, com uma gentileza perturbadora, ofereceu a mão a Gabo.
 
-— Seu equipamento está com uma eficiência de 42%, Gabriel — disse Dante. — O pistão de suporte do joelho está desalinhado em três milímetros.
+— Seu equipamento está com uma eficiência de 42%, Gabriel — disse Dante. — A haste passiva do joelho está visivelmente desalinhada. Posso medir antes que force outra vez.
 
 Gabo olhou para a mão estendida. A mão de seu pai, mas sem as cicatrizes, sem as manchas de nicotina.
 
@@ -41,8 +40,7 @@ A lente da câmera girou. Um zumbido elétrico percorreu o ar. A luz vermelha de
 
 O rádio no peito do guarda chiou. Uma estática alta, seguida por uma voz clara e sintética:
 
-*"Protocolo de Reconhecimento: Código Zero-Um. Acesso Concedido. Bem-vindo, Comissário."*
-
+"Protocolo de Reconhecimento: Código Zero-Um. Acesso Concedido. Bem-vindo, Comissário."
 Os guardas recuaram, pálidos, olhando de Dante para o rádio.
 
 — O que foi isso? — sussurrou Elena.
@@ -59,7 +57,7 @@ O silêncio se espalhou pelo salão como uma onda de choque.
 
 Começou na porta e foi avançando até o fundo, conforme as cabeças se viravam. As conversas morreram. O tec-tec-tec da máquina de escrever de Rangel cessou abruptamente.
 
-Vilar se virou. O rádio caiu de sua mão.
+Vilar se virou. O rádio escapou de sua única mão.
 
 — Deus do céu... — murmurou o Capitão.
 
@@ -103,8 +101,7 @@ Gabo sentiu o tique nervoso em seus dedos, tamborilando no coldre vazio. Ele olh
 
 ***
 
-**Enfermaria Improvisada - Subsolo**
-
+Enfermaria Improvisada - Subsolo
 Minutos depois, longe do zumbido elétrico do salão principal, Gabo encontrou o único lugar onde o silêncio ainda parecia humano.
 
 A enfermaria improvisada cheirava a éter e mofo. Dra. Nise estava curvada sobre uma maca no canto mais escuro, ajustando um soro amarelado.
@@ -113,13 +110,13 @@ A enfermaria improvisada cheirava a éter e mofo. Dra. Nise estava curvada sobre
 
 Gabo mancou até a maca. Seu coração falhou uma batida.
 
-Valéria não era mais uma estátua. A carapaça cinzenta que a cobrira durante semanas — o que todos achavam ser o fim, a petrificação da Praga de Ferro — havia rachado. Pedaços da casca estavam no chão como cascas de ovo.
+Valéria voltara ao hospital na véspera, depois de dias com febre e uma nova rigidez no lado esquerdo. A mão que saíra andando do Memorial continuava sem movimento; agora a camada cinzenta avançara pelo antebraço. Nise recolhia as placas que começavam a se soltar. Não era a primeira recuperação repetida: era uma complicação que ninguém previra.
 
 Por baixo, a pele de Val estava pálida, translúcida, mas quente. As veias prateadas em seu pescoço pulsavam com uma luz fraca, rítmica.
 
-— O que aconteceu? — sussurrou Gabo, tocando a mão dela. Os dedos dela se fecharam levemente ao redor dos dele.
+— O que aconteceu? — sussurrou Gabo, tocando a mão dela. Os dedos da mão direita se fecharam levemente ao redor dos dele. A esquerda continuava rígida sob a faixa.
 
-— Não era morte — explicou Nise, limpando o suor da testa de Val com um pano úmido. — Era um casulo. O corpo dela entrou em um estado de hibernação extrema para processar a infecção. Ela não estava morrendo, Gabo. Ela estava evoluindo.
+— Ainda não sei por que a rigidez recuou — explicou Nise, limpando o suor da testa de Val. — Ela teve uma piora e agora acordou. A mão esquerda não melhorou. Não vou chamar isso de evolução para tornar o resto mais fácil de ouvir.
 
 Val abriu os olhos. As íris, antes cibernéticas e frias, agora tinham um brilho líquido, como mercúrio vivo.
 

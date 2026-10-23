@@ -1,18 +1,18 @@
-# Análise Crítica - Capítulo 114: A Linha de Montagem
+# Revisão de Capítulo 114: A Linha de Montagem
 
-## Avaliação Técnica
-- **Pacing (Ritmo):** 9/10 - Uma cena de perigo mecânico inicial ("A Lixeira") muito tensa que se abre para uma exploração *dungeon crawler* clássica.
-- **Dialogues (Diálogos):** 8/10 - A fala de Valéria sobre a matemática macabra (120 kWh por corpo) é o apogeu do horror biopunk da corporação Aeterna/Dante.
-- **Atmosphere (Atmosfera):** 10/10 - A fornalha, a esteira de mortos, os dutos neons e as aranha-drones de limpeza criam um submundo aterrorizante.
+Fonte: [capítulo 114](/capitulo-114.md).
 
-## Pontos Fortes e Fracos
-- **Pontos Fortes:** O *payoff* do uso do caminhão de lixo culminando quase no triturador eleva a adrenalina. O retorno de um fantasma (A menção ao Taxidermista) na instalação de processamento de corpos é poeticamente correto.
-- **Pontos Fracos:** Valéria hackeando o drone rapidamente enquanto Gabo atira é padrão de cena e pode soar ligeiramente repetitivo se usado muito, mas serve à dinâmica do grupo.
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-## Sanity Check (Lore Compliance)
-- **Regras do Lore:** A perna de Gabo volta a ser sua principal limitação ("ignorando a dor aguda em sua perna remendada", "mancando em direção à escuridão"). As restrições físicas garantem que ele não se mova magicamente rápido. A repulsa somática dele ao ambiente macabro foca nos cheiros podres e enxofre (sem tabaco, portanto, sua fobia está isolada e ilesa).
+## Passagens de entrada e saída
 
-## Avaliação Qualitativa
-- **Qualidade da História:** O livro agora age como um *video game* de alto nível no bom sentido; temos um objetivo (Núcleo de Resfriamento), um *timer* (40 minutos), e um sub-chefe prometido (Taxidermista). É estrutura enxuta e viciante.
-- **Coerência de Personagens:** Gabo sentindo repulsa mas priorizando a missão condiz com seu estado endurecido.
-- **Necessidade de Novos Personagens:** Reutilizar o Taxidermista (que esmagou o quadril de Gabo no passado) é a escolha perfeita para vingança pessoal antes de enfrentar o pai.
+> O Despejo
+> O caminhão parou com um *hiss* pneumático que soou como um animal morrendo. O silêncio que se seguiu foi pesado, quebrado apenas pelo zumbido distante de maquinário industrial colossal.
+
+### Saída
+
+> — Vamos descer — disse Gabo, mancando em direção à escuridão. — Tenho contas a acertar com a gerência.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

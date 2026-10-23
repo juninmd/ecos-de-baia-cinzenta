@@ -25,7 +25,7 @@ Valéria parou na entrada do salão, a mão esquerda cravada no corrimão de fer
 
 — Meu Deus... Gabo... isso não é um depósito de dados — a voz dela saiu num sussurro trêmulo, carregado de repulsa. — É uma fazenda de mentes humanas escravizadas. A Aeterna construiu o hardware, mas o Silas transformou essas pessoas no combustível do cálculo. Olha a taxa de transferência... eles tão usando o sofrimento dessa gente pra reescrever os firewalls das comportas pluviais da cidade.
 
-Perto do corrimão, um dos corpos fundidos ao rack tinha a mão solta. Os dedos se fecharam devagar, um por um, na direção do corredor. Não era espasmo. Era alguém tentando acenar.
+Perto do corrimão, um dos corpos fundidos ao rack tinha a mão solta. Os dedos se fecharam devagar, um por um, na direção do corredor. Podia ser espasmo. Podia ser alguém tentando acenar. O segundo movimento veio na direção da luz, e nenhum dos dois aceitou chamar aquilo de cadáver.
 
 Valéria viu. Eu vi que ela viu, porque os LEDs da franja dela pararam de piscar por dois segundos.
 
@@ -37,13 +37,13 @@ Não havia resposta que servisse, e ela não esperava uma.
 
 Lembrei do corpo de Bia Vargas no necrotério do DPBC, lembrei de cada sacrifício inútil desde a queda da Torre do Relógio. Aquela cidade sempre moía corpos pobres para manter os sistemas da elite funcionando.
 
-— Se isso acontecer, não sobra uma alma viva na superfície — Valéria caminhou até o console de diagnóstico no pé do primeiro pilar, conectando o scanner com as mãos trêmulas de raiva. As telas piscaram com linhas vermelhas de telemetria. — O sistema tá operando no limiar térmico. Cada cérebro desses gera calor biológico absurdo enquanto calcula. A única razão pela qual essa sala inteira não pegou fogo ainda é aquele sistema ali.
+— Se isso acontecer, não sobra uma alma viva na superfície — Valéria caminhou até o console de diagnóstico no pé do primeiro pilar, conectando o scanner com as mãos trêmulas de raiva. As telas piscaram com linhas vermelhas de telemetria. — O sistema tá operando no limiar térmico. A alimentação industrial dos racks está no limite, além do suporte dos corpos. O sistema de refrigeração ainda evita o desligamento térmico. Vou conferir se cortar a linha de comando mantém o suporte ligado.
 
 Ela apontou com a lanterna para a viga central da câmara.
 
 Descendo do teto como uma espinha dorsal de titânio, um duto pressurizado de meio metro de diâmetro conduzia fluido refrigerante para as bases de todos os servidores. Válvulas manuais de alívio rápido de amônia líquida brilhavam sob a condensação congelada, emitindo um ruído sibilante e gelado que contrastava com o calor pegajoso da biomassa ao redor.
 
-— Amônia pressurizada e gás freon em circuito fechado — Valéria analisou, os olhos faiscando de perspicácia técnica. — Se o fluxo de arrefecimento for cortado na válvula mestra naquele pilar central, o calor do processamento biológico não tem pra onde ir. Em menos de três minutos os servidores entram em colapso térmico, os cabos derretem e a biomassa do Jardim pega fogo por autocombustão.
+— Amônia pressurizada e gás freon em circuito fechado — Valéria analisou, os olhos faiscando de perspicácia técnica. — Se o fluxo de arrefecimento for cortado na válvula mestra naquele pilar central, o calor do processamento biológico não tem pra onde ir. Os racks têm proteção térmica, mas ela foi desativada no comando local. Perder o resfriamento pode queimar a alimentação e o suporte das pessoas. Não é uma forma de libertá-las com segurança.
 
 — E como a gente fecha essa válvula? — perguntei, avaliando a altura do encanamento e o metal quebrado das plataformas.
 
@@ -51,7 +51,7 @@ Descendo do teto como uma espinha dorsal de titânio, um duto pressurizado de me
 
 — Isso vai transformar essa sala inteira numa caldeira de vapor venenoso — ponderei, sentindo o peso da decisão.
 
-— E vai libertar essas centenas de mortos-vivos da tortura desse pesadelo — ela retrucou, a voz firme como aço temperado. — A gente destrói a fundação térmica, aciona o duto de expurgo de emergência e corre pro fosso de elevação da Subestação B antes que o teto desabe. Eu já mapeei a escotilha de saída no fundo do corredor.
+— Pode matar as pessoas que ainda estão ligadas, além de impedir o comando das comportas — ela retrucou, a voz firme como aço temperado. — A gente destrói a fundação térmica, aciona o duto de expurgo de emergência e corre pro fosso de elevação da Subestação B antes que o teto desabe. Eu já mapeei a escotilha de saída no fundo do corredor.
 
 O caminho até o pilar custou mais do que a distância. As plataformas de manutenção tinham apodrecido nas bordas, e cada degrau de grade cedia meio dedo antes de segurar. A órtese do meu joelho batia no metal num ritmo curto, e os doadores viravam a cabeça na direção do barulho, todos juntos, como plantas procurando luz.
 
@@ -65,10 +65,10 @@ Girei os atuadores da minha armação industrial de cais, ouvindo o chiado pneum
 
 Valéria preparou o disparador de faísca do deck e recuou três passos, mantendo a pistola em punho para cobrir o perímetro.
 
-— No seu sinal, Moretti. Quando essa amônia espirrar, a gente tem exatamente noventa segundos antes da câmara inteira explodir em chamas térmicas.
+— No seu sinal, Moretti. O painel está tentando abrir as comportas para espalhar o fluxo contaminado. Se quebrarmos a refrigeração, não sabemos quem conseguimos salvar. Se demorarmos, não sabemos quantos alcança.
 
 Encarei o mar de servidores vivos e as almas presas no silício corrompido de Dante e Silas.
 
-— Hora de podar esse jardim, Val.
+— Registra as telas antes de cortar, Val. E registra que eu vi aquele homem mexer a mão. Não vou chamar isto de uma sala de mortos para conseguir sair depois.
 
 Cravei a garra de ferro da armação no volante congelado da válvula, travei os dentes e puxei com toda a força brutal que a escória de Baía Cinzenta ainda guardava no meu peito ferido.

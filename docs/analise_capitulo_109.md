@@ -1,20 +1,18 @@
-# Análise do Capítulo 109: Frequência Fantasma
+# Revisão de Capítulo 109: Frequência Fantasma
 
-## Metadados
-- **Capítulo:** 109
-- **Título:** Frequência Fantasma
-- **Data da Revisão:** Atual
+Fonte: [capítulo 109](/capitulo-109.md).
 
-## Auto-avaliação Técnica
-- **Ritmo (Pacing):** 9/10 - A perseguição motorizada é intensa e as interações no blindado reforçam o desespero.
-- **Diálogo:** 8/10 - Rápidos e diretos, focados na sobrevivência.
-- **Atmosfera:** 9/10 - Claustrofóbico no interior do veículo. Cheiro de diesel e tensão criam uma cena excelente.
+A fuga inclui a mulher e o menino ameaçados no porto. O dock recupera a voz própria de Aria; Rangel abandona o lugar de agente da operação.
 
-## Pontos Fortes e Fracos
-- **Pontos Fortes:** O resgate heroico pontuado pelo peso das falhas físicas (as órteses de Gabo chiando, Rangel exausto). A cena final estabelecendo o conflito mental/lógico com Dante via rádio do blindado é muito forte.
-- **Pontos Fracos:** N/A.
+## Passagens de entrada e saída
 
-## Sanity Check (Verificação de Coerência)
-- **Fobia de Gabo:** Foi encontrada e removida a palavra "fumaça" (do escapamento do motor), trocada por "fuligem escura" para não aproximar o arquétipo visual ao gatilho de Gabo e manter o bloqueio restrito da lore.
-- **Coerência da Trama:** A placa improvisada parafusada na coxa e as pernas chiando solidificam o estado físico danificado de Gabo.
-- **Ajustes de Lore:** Lore mantida coesa.
+> Zona Portuária - Setor 4 (Em Ruínas)
+> O mundo não explodiu. O mundo simplesmente *travou*.
+
+### Saída
+
+> O blindado saltou sobre um quebra-molas, e por um momento, todos flutuaram. O farol arrancado batia na lataria a cada buraco, e Val manteve a mão direita no volante e a esquerda rígida apoiada na adaptação que instalara no posto de comando, como se soltar fosse admitir alguma coisa.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

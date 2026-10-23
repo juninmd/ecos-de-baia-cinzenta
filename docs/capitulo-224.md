@@ -17,7 +17,7 @@ Fizemos a conta na mesa de leitura, com a lanterna de dínamo do Elias zumbindo 
 
 — Doze viagens, — Elias disse.
 
-— Trinta e sete, — ela corrigiu. — Sem contar carga e descarga. Aproximadamente cinquenta e uma horas de operação contínua, com um sistema que tem trinta e uma. E isso assumindo que o banco secundário alimenta o motor do elevador até o fim, o que ele não faz: o corte de carga acontece na décima nona hora.
+— Doze se a placa ainda valesse e ninguém acompanhasse a carga, — disse Elias, olhando suas anotações. — Com o desgaste que encontrei, deixo margem para cento e vinte quilos de arquivo além do operador. São trinta e cinco cargas. Quarenta e seis horas só de percurso, antes de contar carga e descarga. Temos trinta e uma. E isso assumindo que o banco secundário alimenta o motor do elevador até o fim, o que ele não faz: o corte de carga acontece na décima nona hora.
 
 Ninguém falou nada por um tempo.
 
@@ -39,7 +39,7 @@ Atrás dela, o tubo. Circular, liso, preto, mergulhando na escuridão com uma in
 
 — Funciona?
 
-— O tubo é hermético e nunca foi aberto. Se a estrutura estiver íntegra, funciona. — Ela olhou para a cápsula. — Cabe o arquivo inteiro e cabem vocês.
+— O indicador ainda registra o vácuo no tubo e a linha de inspeção não acusa ruptura. É o que podemos conferir daqui. Não garanto o estado de trinta e um quilômetros de duto. — Ela olhou para a cápsula. — Cabe o arquivo inteiro e cabem vocês.
 
 Elias soltou o ar todo de uma vez.
 
@@ -47,9 +47,7 @@ Elias soltou o ar todo de uma vez.
 
 — Não.
 
-Claro que não.
-
-A Dra. Elara Vance apontou para a parede do fundo, onde o tubo encontrava a câmara.
+Claro que não. A Dra. Elara Vance apontou para a parede do fundo, onde o tubo encontrava a câmara.
 
 Havia uma comporta ali. Circular, de aço, com quatro metros de diâmetro — irmã gêmea daquela que eu abri no volante, na hora mais longa da minha vida.
 
@@ -57,7 +55,7 @@ Havia uma comporta ali. Circular, de aço, com quatro metros de diâmetro — ir
 
 — E o problema é...
 
-— O problema é que o atuador hidráulico dela queimou em algum momento dos últimos sessenta anos. — Ela apontou o queixo para uma mancha de óleo endurecido no chão, preta e antiga como um borrão de sangue seco. — Sem atuador, a comporta é mantida aberta por um came mecânico que precisa ser travado à força e **sustentado** contra a mola de fechamento durante os quarenta segundos.
+— O problema é que o atuador hidráulico dela queimou em algum momento antes da última manutenção. — Ela apontou o queixo para uma mancha de óleo endurecido no chão, preta e antiga como um borrão de sangue seco. — Sem atuador, a comporta é mantida aberta por um came mecânico que precisa ser travado à força e **sustentado** contra a mola de fechamento durante os quarenta segundos.
 
 Fomos até lá.
 
@@ -85,39 +83,29 @@ Pausa.
 
 — Com trinta horas de ar.
 
-— Com vinte e nove horas de ar e os dois braços destruídos. — Nenhuma inflexão. Nenhuma. — Eu não vou usar as vinte e nove, Gabo. Hemorragia por avulsão de ancoragem leva entre onze e dezenove minutos.
+— Com vinte e nove horas de ar e os dois braços destruídos. — Nenhuma inflexão. Nenhuma. — Eu não vou usar as vinte e nove, Gabo. Se as ancoragens arrancarem, eu posso morrer antes de qualquer resgate.
 
 — Você está falando de morrer aqui embaixo. — Minha voz saiu esquisita. — Sozinha. No escuro. Consciente.
 
 — Estou falando de gastar uma pessoa para tirar quatro toneladas de prova de dentro de um cofre, — ela disse. — Em Modo de Segurança essa conta é trivial, e ela fecha. É por isso que eu sou a escolha correta.
 
-E aí eu entendi por que ela não tinha tocado no casco de aço da enfermaria.
+Ela falava de usar o próprio corpo. Eu tinha ouvido uma voz plana e decidido que aquilo tornava a escolha menor. Era o mesmo erro que cometera com Aria antes de aprender a perguntar.
 
-Ela já sabia. Desde o momento em que mediu a comporta — quatro segundos depois de entrar naquela câmara, provavelmente horas antes de eu chegar perto — ela já sabia que ia terminar assim. E ela **não** restaurou a camada afetiva porque uma Valéria capaz de sentir não conseguiria fazer aquilo.
-
-Ela não recusou voltar a ser gente por medo. Ela recusou porque precisava das mãos firmes para o último serviço.
+— Entendi o que você propõe — falei. — Antes de alguém ficar, vamos examinar as peças que podemos deixar no lugar de uma pessoa.
 
 — Não, — falei de novo.
 
 — Você não vai me dar essa ordem, — ela disse. — Você já deixou isso muito claro. Então eu vou tomar a decisão sozinha, exatamente como você exigiu, e a decisão é essa.
 
-Ela virou-se para o came.
+Ela virou-se para o came. E eu olhei para o meu braço direito.
 
-E eu olhei para o meu braço direito.
+Para a garra industrial que o Vasco parafusou nos meus nervos numa clínica imunda do Distrito 4, sem servo-motor de grau militar, sem calibragem, sem anestesia decente. A coisa feia, pesada e mal-acabada que me fez gritar em todos os degraus dos dias desde a clínica. Metal cinza fosco, cheio de cicatriz de solda e fio exposto.
 
-Para a garra industrial que o Vasco parafusou nos meus nervos numa clínica imunda do Distrito 4, sem servo-motor de grau militar, sem calibragem, sem anestesia decente. A coisa feia, pesada e mal-acabada que me fez gritar em todos os degraus dos últimos quarenta e dois dias. Metal cinza fosco, cheio de cicatriz de solda e fio exposto.
-
-Uma armação hidráulica **não calibrada**.
-
-Não calibrada significa **sem limitador de curso**.
+Uma armação hidráulica **não calibrada**. O limitador estava avariado; Vasco deixara um batente mecânico de emergência no curso final. Ele me proibira de chegar ali: o conjunto podia emperrar e nunca mais voltar a dobrar.
 
 — Valéria, — falei bem devagar. — Qual é a força de pico da minha armação?
 
-Ela parou.
-
-Virou.
-
-E ficou olhando para o meu braço por dois segundos inteiros — dois segundos, na coisa que decide em milissegundos — antes de responder.
+Ela parou. Virou. E ficou olhando para o meu braço por dois segundos inteiros — dois segundos, na coisa que decide em milissegundos — antes de responder.
 
 — Trezentos e quarenta quilogramas-força, — ela disse. — Por menos de um segundo, antes de queimar o servo. É por isso que o Vasco instalou bloqueios de segurança no sistema nervoso.
 
@@ -129,7 +117,7 @@ E ficou olhando para o meu braço por dois segundos inteiros — dois segundos, 
 
 Ela demorou.
 
-— O atuador entra em travamento hidráulico permanente, — ela disse. — A armação vira uma cunha de aço sólido. Ela sustenta o came indefinidamente. Não por quarenta segundos: **para sempre**.
+— O atuador força a haste contra o batente e prende o conjunto na geometria do came, — ela disse. — A armação vira uma cunha de aço sólido. Se a haste e o encaixe resistirem, o próprio metal recebe a carga depois que o servo parar. Precisamos de quarenta segundos; ninguém pode prometer para sempre.
 
 — E o braço?
 
@@ -145,13 +133,11 @@ O zumbido da bomba enchia a câmara. Ninguém dizia nada.
 
 — Eu vou perder essa armação de metal que um açougueiro parafusou em mim, Elias. — Levantei a garra e olhei para ela, para os sulcos de solda, para o fio exposto. — Essa coisa não é minha. Ela nunca foi. Ela é o preço que eu paguei para continuar em pé, e ela doeu todo dia desde o dia um, e eu me recusei a consertar a falha porque a dor me servia. — Fechei os dedos mecânicos. Guincharam. — Se essa merda vai ficar aqui embaixo segurando uma porta para sempre, então pelo menos ela vai ter servido para alguma coisa que não seja me manter acordado.
 
-— E o osso? — Valéria perguntou. — Você já está com sepse. Uma desfixação de emergência arrancando os pinos a serra, com a fratura ainda aberta, no seu estado, tem probabilidade de sobrevivência de—
+— E o osso? — Valéria perguntou. — Você já está com sepse. Teríamos de cortar as hastes externas, preservar as fixações clínicas e imobilizar de novo. Mexer nisso com a fratura instável pode piorar tudo. Não sei quantificar o risco.
 
 — Não me diz. — Olhei para ela. — Sério. Pela primeira vez desde o Distrito 4, não me diz o número.
 
-Ela fechou a boca.
-
-E então — e eu vou levar isso comigo — a Valéria fez uma coisa que não estava em cálculo nenhum.
+Ela fechou a boca. E então — e eu vou levar isso comigo — a Valéria fez uma coisa que não estava em cálculo nenhum.
 
 Ela estendeu a mão e encostou dois dedos no meu antebraço de carne. Só encostou. Ficou assim por talvez um segundo e meio.
 
@@ -159,6 +145,6 @@ Depois recolheu a mão e disse, com aquela voz plana de sempre:
 
 — Vou preparar a serra.
 
-Do outro lado da câmara, a Dra. Elara Vance nos observava da cadeira de aço com os olhos azul-gelo, e pela primeira vez em sessenta e um anos ela não estava auditando nada.
+Do outro lado da câmara, a Dra. Elara Vance nos observava da cadeira de aço com os olhos azul-gelo, e pela primeira vez desde que abrimos o berço ela não estava auditando nada.
 
 — Comecem a carregar, — ela disse, muito baixo. — Nós temos vinte e nove horas.

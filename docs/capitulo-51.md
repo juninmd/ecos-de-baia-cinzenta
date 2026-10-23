@@ -7,7 +7,7 @@ Localização: "Beco atrás de clínica clandestina, Distrito da Névoa"
 
 A chuva ácida de Baía Cinzenta tem o hábito de lavar as evidências, mas aquele corpo estava estranhamente imaculado.
 
-Gabo desceu do Cobalt, suas botas chapinhando na lama oleosa do beco atrás de uma clínica clandestina no Distrito da Névoa. Jonas Vilar já estava lá, segurando um guarda-chuva preto e fumando um cigarro que lutava para permanecer aceso.
+No quadragésimo quarto dia do Dilúvio, Elena ajudou Gabo a descer do Cobalt. Nise autorizara apenas deslocamentos assistidos com órteses e apoio depois da estabilização; aquilo não era alta. Suas botas tocaram a lama oleosa do beco atrás de uma clínica clandestina no Distrito da Névoa. Jonas Vilar já estava lá, segurando um guarda-chuva preto e fumando um cigarro que lutava para permanecer aceso.
 
 — Você devia estar de repouso, Gabo — disse Vilar, sem olhar para ele. — Aquela queda na Torre quase te quebrou ao meio.
 
@@ -15,7 +15,7 @@ Gabo desceu do Cobalt, suas botas chapinhando na lama oleosa do beco atrás de u
 
 Vilar apontou para o corpo encostado na parede de tijolos. Era um homem bem vestido, terno de seda sintética, sapatos italianos. A única coisa fora do lugar era o pescoço, torcido em um ângulo impossível, e as mãos.
 
-Gabo se agachou. As mãos do homem estavam esmagadas. Cada dedo quebrado metodicamente. E sobre o peito, uma única moeda de prata antiga.
+Gabo pediu que aproximassem um banco e examinou o corpo sentado, sem dobrar as pernas além do limite das órteses. As mãos do homem estavam esmagadas. Cada dedo quebrado metodicamente. E sobre o peito, uma única moeda de prata antiga.
 
 Os joelhos de Gabo protestaram antes dele. A coluna ainda tinha o formato da viga que quase o partira ao meio, e agachar era uma conta que ele pagava em três parcelas: uma ao descer, uma ao ficar, e a maior ao levantar. Ele ficou. O tijolo atrás dele estava gelado mesmo através da luva, e a água entrava pelo cano da bota e subia dois dedos, morna de esgoto.
 
@@ -41,9 +41,9 @@ Gabo sentiu um gosto amargo na boca. Insulina.
 
 — Tem mais — disse Vilar, puxando um tablet holográfico. — Uma câmera de farmácia, das que rodam em bateria própria, pegou um vulto. Val processou as imagens.
 
-Ele entregou o tablet a Gabo. O vídeo granulado mostrava "O Farmacêutico" sendo erguido do chão como um boneco de pano por uma figura encapuzada. A figura usava uma capa de chuva pesada, militar. O movimento foi rápido, eficiente. Um golpe nas articulações, uma chave de braço, e o som audível de ossos estalando mesmo sem áudio.
+Ele entregou o tablet a Gabo. O vídeo granulado mostrava "O Farmacêutico" sendo erguido do chão como um boneco de pano por uma figura encapuzada. A figura usava uma capa de chuva pesada, militar. O movimento era rápido: um golpe nas articulações e uma chave de braço. Sem áudio ou exame naquele instante, o vídeo não confirmava uma fratura.
 
-— Hapkido — disse Gabo, sentindo um arrepio. — Esse movimento... é o "Quebra-Nozes". Golpe proibido em competições.
+— Hapkido — disse Gabo, sentindo um arrepio. — Esse movimento... é o "Quebra-Nozes". Reconheço uma variação do que aprendi. Isso não identifica sozinho quem treinou a pessoa.
 
 — Alguém que treinou onde você treinou? — perguntou Vilar.
 
@@ -61,13 +61,13 @@ Gabo olhou para a moeda de prata no peito da vítima. Havia uma inscrição em l
 
 Vilar tirou o cigarro da boca e olhou para ele de lado, e havia mais cansaço do que censura naquele olhar.
 
-— Você está de licença. Licença médica, assinada por mim, com carimbo e tudo. Se eu te der esse dossiê, ele sai da delegacia como cópia informal. Sem cadeia de custódia, sem número de registro. Nada que você achar ali dentro vale um minuto de tribunal.
+— Você está de licença. Licença médica, assinada por mim, com carimbo e tudo. Se eu te der esse dossiê, ele sai da delegacia como cópia informal. Você recebe uma cópia com origem e número. Se sair investigando sem designação, terá de responder por isso; não significa que toda prova deixe de existir.
 
 — Desde quando o que eu acho vale em tribunal?
 
 — Desde nunca. — Vilar esmagou a bituca no tijolo com o calcanhar. — Mas enquanto existe papel, alguém tem que responder por ele. Sem papel, quem responde é você.
 
-Gabo pegou o tablet. O peso era ridículo para o que estava aceitando: dali em diante, cada porta que ele arrombasse seria arrombamento, cada tiro seria tiro de civil, cada corpo que ele tocasse seria contaminado por uma testemunha sem autoridade nenhuma. Vilar já sabia. Era exatamente por isso que estava entregando.
+Gabo pegou o tablet. O peso era ridículo para o que estava aceitando: dali em diante, cada porta que ele arrombasse seria arrombamento, cada tiro seria tiro de civil, cada intervenção teria de ser explicada e as cópias preservadas. A licença não lhe dava poder para invadir nem retirava automaticamente o valor de uma testemunha. Vilar já sabia. Era exatamente por isso que estava entregando.
 
 Gabo se levantou.
 
@@ -83,13 +83,13 @@ Ele guardou a moeda num saco plástico antes que Vilar pudesse reclamar da cadei
 
 Alguém tinha esperado. Isso era pior do que a força.
 
-Ele ligou o motor do Cobalt.
+Elena ligou o motor do Cobalt.
 
 — Val — disse ele para o painel.
 
 — Na escuta, Chefe.
 
-— Rastreie as últimas transações do Marcos Viana. Quero saber quem ele *negou* atendimento na última semana.
+— Cruze as listas de pedidos entregues pela clínica com as fichas dos abrigos e barqueiros. Preserve a origem de cada cópia. Quero saber quem ele *negou* atendimento na última semana.
 
 — Isso é uma lista longa, Gabo. Com a falta de remédios, ele negou metade da cidade.
 
@@ -101,7 +101,7 @@ Houve uma pausa do outro lado da linha. O som de teclas sendo digitadas furiosam
 
 — O que foi?
 
-— Eu cruzei os dados. Tem três óbitos na área do Setor 7 na semana em que a sua mãe morreu, todos ligados à recusa de fornecimento de insulina desse cara.
+— Cruzei essas cópias locais. São registros incompletos, não acesso ao cadastro inteiro. Tem três óbitos na área do Setor 7 na semana em que a sua mãe morreu, todos ligados à recusa de fornecimento de insulina desse cara.
 
 — Nomes, Val.
 
@@ -111,7 +111,7 @@ Gabo ficou muito tempo sem respirar. O som da chuva sumiu, e o bater do limpador
 
 — Repita — ele sussurrou.
 
-— Helena Moretti. Endereço registrado: Rua Vinte e Dois, 402, Setor 7. Óbito registrado pelo Sindicato dos Barqueiros no dia seguinte. Motivo: coma diabético não tratado.
+— Helena Moretti. Endereço registrado: Rua Vinte e Dois, 402, Setor 7. Óbito registrado pelo Sindicato dos Barqueiros no dia seguinte. Motivo relatado na ficha: coma diabético sem atendimento. A ficha do barqueiro não é um laudo médico.
 
 Gabo socou o volante. A buzina gritou, um lamento mecânico que ecoou pela rua vazia. Ele não gritou. A dor era grande demais para som. Era um buraco negro que engolia tudo.
 
@@ -125,7 +125,7 @@ Clara. Sua irmãzinha.
 
 — O contrato é de vinte e três mil, assinado quatro dias antes da sua mãe morrer, e a garantia não é imóvel, não é carro, não é nada que se possa penhorar. É a assinatura biológica dela. Gabo, se ela não pagou, esses homens não cobram em dinheiro.
 
-Gabo engatou a primeira marcha. Os pneus cantaram no asfalto molhado.
+Gabo pediu a Elena que seguisse até o endereço registrado, sem esperar que a notícia melhorasse. Os pneus cantaram no asfalto molhado.
 
 — Me dê a localização desse Dourado. Agora.
 

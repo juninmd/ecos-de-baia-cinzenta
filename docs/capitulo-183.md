@@ -17,7 +17,7 @@ Joguei meu corpo contra o casco tombado de um antigo ônibus de transporte corpo
 
 — O que você pegou no scanner? — perguntei, sentindo o ar frio queimar meus brônquios cansados.
 
-— Motor a combustão de quatro tempos modificado pra rodar com querosene e álcool combustível — Valéria se agachou ao meu lado, os LEDs azuis da franja piscando numa cadência rápida. Ela abriu a tampa do cyberdeck e conectou a antena direcional. — O ruído do pistão tá vindo pela transversal da fábrica de baterias. Três assinaturas biométricas em cima de um chassi tubular. Saqueadores motorizados da Zona Sul.
+— Um motor a combustão pesado, falhando na retomada. Não sei o combustível só pelo ruído — Valéria se agachou ao meu lado, os LEDs azuis da franja piscando numa cadência rápida. Ela abriu a tampa do cyberdeck e conectou a antena direcional. — O ruído do pistão tá vindo pela transversal da fábrica de baterias. Três assinaturas biométricas em cima de um chassi tubular. Saqueadores motorizados da Zona Sul.
 
 O som áspero e ruidoso de um motor desregulado começou a ecoar pelos galpões em ruínas.
 
@@ -29,7 +29,7 @@ Entre os esqueletos de vigas de ferro, o veículo despontou. Era um buggy de gue
 
 — Parar o motor como, gênio? — ela me encarou, uma sobrancelha erguida, com aquele deboche afiado que a mantinha sã. — Você quer que eu jogue meu deck embaixo da roda deles? Se você der um tiro de doze no bloco do motor a essa distância, os estilhaços de blindagem voltam na nossa cara.
 
-— O radiador tá exposto — apontei com o queixo de ferro para a frente do buggy. — O piloto tirou a grade de proteção pra aumentar o fluxo de ar no motor superaquecido. O ventilador de arrefecimento tá girando solto bem no bico do chassi.
+— O ônibus está preso num cavalete de manutenção com o calço rachado junto à roda — apontei com o queixo de ferro para a frente do buggy. — Se eu soltar o calço, a carcaça desce pela inclinação entre nós e eles. Não vou tentar parar um carro com o osso do meu braço.
 
 Valéria olhou pela fresta da lataria do ônibus, os olhos ópticos dando um clique audível de zoom.
 
@@ -47,19 +47,17 @@ O buggy acelerou, os pneus jogando jatos de lama negra contra as paredes destru�
 
 Esperei até sentir a vibração do motor tremer no meu osso da mandíbula. Cinquenta metros. Trinta metros. Dez metros.
 
-Saltei da cobertura para o meio da poça de lama, posicionando o pé de metal no cascalho para ancorar o impacto. O capô do buggy veio como um projétil cinzento, as pás metálicas do ventilador do radiador girando a milímetros do meu peito.
+Fiquei atrás da carcaça e encaixei a ferramenta no calço quebrado. O atuador externo empurrou a alavanca, com a carga recebida pelo arnês, e mesmo assim senti o fixador puxar a pele. Val chamou que o buggy estava perto demais.
 
-Não tentei desviar. Ergui a armação pesada com as duas mãos e soco o centro da hélice em rotação com toda a carga pneumática de Vasco travada no máximo.
+O calço saiu. O ônibus escorregou pela inclinação curta, raspando a lateral no concreto. Eu me deixei cair para fora do caminho.
 
-*CRASH-CLANG.*
+O piloto freou e virou. A roda direita pegou um vergalhão exposto na borda do asfalto; o buggy bateu na carcaça e tombou. Não foi meu braço que recebeu as duas toneladas. O ruído do choque me deixou sem ouvir a primeira ordem de Val.
 
-O aço industrial do meu punho colidiu com o bloco de ferro fundido do motor. As pás da hélice se estilhaçaram em estilhaços incandescentes, a correia dentada estourou com o estampido de um tiro de canhão e o radiador se rompeu numa explosão violenta de vapor superaquecido e fluido refrigerante fervente.
+Os dois atiradores tentaram sair pela lateral que ficara para cima, ainda com as carabinas. Val atirou antes que terminassem de erguê-las.
 
-A inércia de duas toneladas colidindo contra o braço travado jogou uma chicotada de fogo pela minha clavícula, rasgando os tecidos cicatrizados e me arremessando dois metros para trás na lama. Mas o buggy sofreu a pior parte: a frente afundou no cascalho, o eixo dianteiro quebrou e a traseira capotou de lado, arremessando os dois atiradores pelos ares.
+Dois disparos secos cortaram o vapor sibilante durante a tentativa de sair do veículo.
 
-Dois disparos secos cortaram o vapor sibilante antes mesmo que os corpos deles tocassem o chão.
-
-Valéria emergiu da fumaça como um espectro de couro e neons azuis. Dois tiros cirúrgicos, precisos, disparados em movimento. Os dois atiradores tombaram inertes na lama antes de conseguirem erguer os rifles.
+Valéria emergiu da fumaça como um espectro de couro e neons azuis. Ela disparou apoiada na carcaça do ônibus, usando a mão direita. A esquerda rígida só firmava o deck contra o corpo. Os dois atiradores tombaram inertes na lama antes de conseguirem erguer os rifles.
 
 O piloto do veículo, atordoado pelo capotamento e queimado pelo vapor da água fervente, rastejava para fora dos destroços, tentando puxar uma chave de boca pesada da cintura.
 
@@ -75,12 +73,12 @@ O homem soltou o ferro no cascalho ensopado, os olhos arregalados de terror por 
 
 — O... o túnel de carga da têxtil! — o homem gaguejou, o ar saindo em silvos pela válvula da máscara. — A duzentos metros à esquerda, atrás dos silos de armazenamento de grãos. O portão tá arrombado, mas... tem coisa viva lá embaixo! Raízes azuis! Elas pegaram o nosso grupo de reconhecimento ontem!
 
-Valéria me olhou por cima do ombro. Eu estava de pé, apoiado no capô fumegante do buggy, flexionando os dedos da mão direita sob a armação. O metal chiava de calor residual, mas o choque havia passado sem quebrar os parafusos mestres nos ossos.
+Valéria me olhou por cima do ombro. Eu estava de pé, apoiado no capô fumegante do buggy, conferindo a faixa que prendia a mão direita imobilizada dentro da armação. O metal ainda tremia; havia sangue novo num ponto do fixador. Eu não tinha como saber se a tração deslocara o osso.
 
 — Raízes azuis — ela disse, desativando o rádio do homem com um golpe no concreto. — Exatamente onde a gente precisa ir. O complexo hidropônico.
 
-Ela virou o cano da arma e desferiu uma coronhada seca na têmpora do piloto, apagando-o instantaneamente na poça de lama sem disparar um tiro.
+Ela afastou a ferramenta com a bota, amarrou as mãos do piloto com a cinta solta do buggy e o puxou para fora da poça. O homem ficou consciente, gritando por socorro. Val guardou a posição no mapa antes de se afastar; não podia prometer que alguém o encontraria.
 
 — Deixou o sujeito vivo? — perguntei, ajeitando o sobretudo.
 
-— Matar gasta bala que a gente não tem — ela guardou a arma no coldre e veio até mim, segurando meu antebraço de ferro para checar a folga da bucha. — E ele vai acordar com uma dor de cabeça tão desgraçada que não vai querer ver metal na frente dele pelos próximos cinco anos. Agora anda, Moretti. A água desse radiador vai atrair outros bichos em menos de dez minutos.
+— Matar gasta bala que a gente não tem — ela guardou a arma no coldre e veio até mim, segurando meu antebraço de ferro para checar a folga da bucha. — Ele está rendido e a arma está longe. Não preciso inventar outra razão para não atirar. Agora anda, Moretti. A água desse radiador vai atrair outros bichos em menos de dez minutos.

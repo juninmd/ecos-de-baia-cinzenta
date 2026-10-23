@@ -17,17 +17,17 @@ A Dra. Vance parou com a xícara de lata a dois centímetros da boca.
 
 Valéria já estava ajoelhada junto à carcaça do osciloscópio militar encostada na parede desde antes do Dilúvio. Os fios de LED na franja dela pulsavam num azul rápido e doente, e os olhos prateados faziam microajustes focais com um zumbido seco.
 
-— Frequência portadora em quatrocentos e sessenta megahertz — disse Valéria, a voz reta pelo Modo de Segurança. — Carga indutiva subindo doze por cento a cada três minutos. Em duas horas, a capacitância atinge o limiar de ignição.
+— Frequência portadora em quatrocentos e sessenta megahertz — disse Valéria, a voz reta pelo Modo de Segurança. — Carga indutiva subindo doze por cento a cada três minutos. Em duas horas, a carga do banco alcança o limite indicado no esquema de sabotagem.
 
 — Traduz, Val — pedi, com a mão esquerda apertando a tipoia onde meu ombro quebrado pulsava em pontadas quentes.
 
-— Protocolo Crepúsculo — respondeu a Dra. Vance, girando a cadeira de aço com a lentidão das juntas gastas. — O plano de contingência que meu pai desenhou quando a Aeterna percebeu que um arquivo físico não podia ser hackeado. Se o material saísse do berço, a subestação canalizaria a descarga dos capacitores marítimos direto para as galerias de drenagem sob este galpão. Uma tempestade de micro-ondas de alta intensidade.
+— Protocolo Crepúsculo — respondeu a Dra. Vance, girando a cadeira de aço com a lentidão das juntas gastas. — O plano de contingência que meu pai desenhou para destruir arquivos e testemunhas em caso de retirada não autorizada. Se o material saísse do berço, a subestação canalizaria a descarga dos capacitores marítimos direto para as galerias de drenagem sob este galpão. a ignição dos alimentadores e do combustível de reserva sob o galpão.
 
 Olhei para as quatro toneladas de papel empilhadas.
 
 — Eles vão queimar o galpão por baixo.
 
-— Vão transformar este perímetro em cinza vitrificada — corrigiu a doutora. — Papel, prensas, ossos e testemunhas. Krell não precisa mandar outro homem com catraca de carga. Ele só precisa fechar um disjuntor de alta tensão na Orla Norte.
+— Vão transformar este perímetro em cinza vitrificada — corrigiu a doutora. — Papel, prensas, ossos e testemunhas. Não sabemos se Krell enviou Braga. Este ataque tem outro comando e outra assinatura de circuito. Ele só precisa fechar um disjuntor de alta tensão na Orla Norte.
 
 Elena estava encostada na rotativa. A jaqueta de campo verde-oliva estava manchada de tinta fresca até os cotovelos. Ela não olhou para o osciloscópio. Olhou para o relógio de pulso analógico, aquele com a pulseira de couro gasta que ela usava desde o jornal da faculdade.
 
@@ -35,13 +35,13 @@ Elena estava encostada na rotativa. A jaqueta de campo verde-oliva estava mancha
 
 — A antena está desativada há trinta anos — falei.
 
-— A antena está desativada, Gabriel, mas o cabo coaxial primário desce até o transmissor de emergência da sala de comando — Elena deu dois passos na minha direção. O cheiro de chuva ácida e café velho veio com ela. — Se alguém entrar lá e soldar o circuito de retorno, o sinal do rádio engole a energia da purga e transforma a descarga num transmissor omnidirecional de onda curta. Cem mil watts de potência bruta.
+— A antena está desativada, Gabriel, mas o cabo coaxial primário desce até o transmissor de emergência da sala de comando — Elena deu dois passos na minha direção. O cheiro de chuva ácida e café velho veio com ela. — Se alguém alcançar o quadro de transferência, pode isolar a linha de purga e alimentar o transmissor costeiro de onda curta. Cem mil watts de potência bruta.
 
 Elias levantou a cabeça do canto do galpão, onde limpava as graxas da prensa.
 
 — Isso cobriria a costa inteira — ele murmurou.
 
-— Cobriria a costa, o arquipélago e os sete assentamentos agrícolas fora da barreira — Elena puxou o gravador de microcassete do bolso e conferiu a fita com o polegar. — Seiscentas mil pessoas com rádio de pilha ouviriam as admissões da Arca Zero, o nome de Krell e a assinatura de cada diretor da Aeterna ao mesmo tempo. Não haveria desmentido possível. A corporação não conseguiria comprar cem mil receptores antes do amanhecer.
+— Cobriria a costa, o arquipélago e os sete assentamentos agrícolas fora da barreira — Elena puxou o gravador de microcassete do bolso e conferiu a fita com o polegar. — Os receptores sintonizados na faixa de emergência poderiam ouvir as admissões da Arca Zero, o nome de Krell e a assinatura de cada diretor da Aeterna ao mesmo tempo. Não haveria desmentido possível. A corporação não conseguiria comprar cem mil receptores antes do amanhecer.
 
 — Você não vai — eu disse. A palavra saiu seca, com gosto de bile na língua.
 
@@ -51,7 +51,7 @@ Ela parou diante de mim. Os olhos verdes acinzentados tinham aquela frieza corta
 
 — A subestação está tomada por drones sentinelas autônomos — argumentei, tentando dar um passo à frente, mas o joelho travado pela órtese rangeu contra o cascalho. — Meu braço está quebrado. A Valéria mal consegue manter o processamento estável. Se você entrar naquele complexo, você entra sozinha.
 
-— Eu passei quatro anos fora da cúpula montando gráfica clandestina enquanto você dormia com a escopeta na mão — ela disse, e tocou de leve no meu peito, exatamente onde a carcaça de titânio do meu colete terminava. O toque foi leve, mas ardeu mais que o osso fraturado. — Você passou a vida inteira achando que proteger alguém significa morrer no lugar dela. Mas a verdade não precisa de um mártir quebrado, Gabriel. A verdade precisa de uma manchete que chegue antes da queima de arquivo.
+— Eu mantive uma gráfica clandestina fora da cúpula nestes meses enquanto você dormia com a escopeta na mão — ela disse, e tocou de leve no meu peito, exatamente onde a carcaça de titânio do meu colete terminava. O toque foi leve, mas ardeu mais que o osso fraturado. — Você passou a vida inteira achando que proteger alguém significa morrer no lugar dela. Mas a verdade não precisa de um mártir quebrado, Gabriel. A verdade precisa de uma manchete que chegue antes da queima de arquivo.
 
 — Elena, por favor.
 
@@ -65,7 +65,7 @@ Olhei para a escopeta de cano serrado encostada nas caixas de papel. Minha arma.
 
 Valéria deu um passo à frente.
 
-— Probabilidade de infiltração sem detecção: oito por cento. Probabilidade de retorno após o acionamento do transmissor: zero vírgula três por cento.
+— Não temos o mapa atualizado dos sentinelas nem confirmação de uma saída. Eu não consigo calcular sua chance de voltar.
 
 Elena olhou para a ciborgue.
 
@@ -105,31 +105,28 @@ O ruído do banco de capacitores sob o chão crescia para um uivo agudo. O ar co
 
 Elena limpou o suor e o sangue da testa com a manga rasgada da jaqueta. Suas mãos tremiam pelo choque da adrenalina, mas ela encaixou os cabos de ligação rápida no modulador de sinal com uma precisão cirúrgica.
 
-— Transmissão de emergência aberta — ela sussurrou para os mostradores analógicos. — Frequência de cem quilohertz travada no circuito mestre.
+— Transmissão de emergência aberta — ela sussurrou para os mostradores analógicos. — Frequência de seis megahertz travada no circuito mestre.
 
-Ela puxou a fita matriz contendo a leitura completa dos arquivos da Arca Zero e as transmissões de Arthur Vance. Inseriu a bobina no cabeçote de leitura da torre e baixou a chave geral.
+Ela puxou a fita matriz contendo uma seleção das admissões, a identificação dos depósitos de cópias e trechos das transmissões de Arthur Vance. Inseriu a bobina no cabeçote de leitura da torre e baixou a chave geral.
 
 Lá fora, a torre de transmissão de oitenta metros rugiu.
 
-A energia de alta voltagem que Krell pretendia usar para incinerar a Velha Baía foi dragada instantaneamente pelos alimentadores da antena. As lâmpadas de filamento da sala acenderam num clarão cegante. O sinal varreu os céus de Baía Cinzenta com a força de um trovão contínuo, penetrando em cada radinho de pilha, cada comunicador civil e cada terminal analógico da orla marítima.
+A chave isolou a alimentação da purga e transferiu parte da potência disponível para o transmissor. O resto continuou retido no banco da subestação. As lâmpadas de filamento da sala acenderam num clarão cegante. O sinal varreu os céus de Baía Cinzenta com a força de um trovão contínuo, chegando aos aparelhos que já monitoravam a frequência costeira. Operadores dos assentamentos começaram a repeti-lo em outras faixas.
 
 A voz gravada da Dra. Vance começou a ecoar pelas ondas de rádio da cidade:
 
-*"Para registro público: a Aeterna não foi criada para salvar Baía Cinzenta. O Protocolo Lázaro foi desenhado para colher mentes..."*
-
-Elena sorriu. Um sorriso ensanguentado e feroz.
-
-Mas a blindagem da porta começou a gemer.
+"Para registro público: a Aeterna não foi criada para salvar Baía Cinzenta. O Protocolo Lázaro foi desenhado para colher mentes..."
+Elena sorriu. Um sorriso ensanguentado e feroz. Mas a blindagem da porta começou a gemer.
 
 Os reforços corporativos haviam chegado à subestação. Lá fora, maçaricos térmicos e cargas lineares começaram a cortar as dobradiças da comporta. Fagulhas incandescentes choviam para dentro da sala de comando.
 
-Elena sabia que, no momento em que invadissem, a primeira coisa que fariam seria puxar os disjuntores da antena e silenciar a verdade para sempre.
+Elena sabia que, no momento em que invadissem, a primeira coisa que fariam seria puxar os disjuntores da antena e interromper aquela transmissão.
 
 Ela olhou para o banco de capacitores marítimos atrás da grade de proteção — a mesma carga que Krell ia despejar nas galerias para vitrificar o galpão. Doze fileiras de placas de tântalo mergulhadas em óleo isolante, com uma alavanca de derivação manual lacrada por arame de chumbo e uma placa esmaltada: **DERIVAÇÃO DE EMERGÊNCIA - NÃO OPERAR COM CARGA PLENA**.
 
 Ela pegou uma chave inglesa pesada do chão.
 
-Com três golpes violentos, partiu o lacre e puxou a alavanca até o fim de curso. A carga que devia descer pelas galerias subiu pela linha coaxial e o banco começou a ferver por dentro: o óleo estalava, as placas de tântalo torciam, o cheiro de cobre queimado enchia a sala. Não havia desligamento — a única forma de parar a descarga era a antena derreter junto com o resto. Em dez minutos, a subestação inteira viraria uma cratera de metal e óleo em chamas, e o transmissor seguiria no ar até o último elétron.
+Com três golpes violentos, partiu o lacre e puxou a alavanca até o fim de curso. A carga que devia descer pelas galerias subiu pela linha coaxial e o banco começou a ferver por dentro: o óleo estalava, as placas de tântalo torciam, o cheiro de cobre queimado enchia a sala. A derivação travou o fornecimento de emergência, mas ainda podiam cortar os cabos do lado de fora. Elena ganhara minutos, não uma transmissão impossível de desligar. Em dez minutos, a subestação inteira viraria uma cratera de metal e óleo em chamas, e o transmissor seguiria no ar enquanto o circuito resistisse.
 
 Uma explosão sacudiu a comporta. O maçarico rompeu a trava superior.
 

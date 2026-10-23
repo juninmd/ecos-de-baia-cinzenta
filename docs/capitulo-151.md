@@ -1,11 +1,10 @@
-## Metadados
-- **Título:** O Paradoxo da Eficiência
-- **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
-- **Localização:** Necrópole (Subnível 6.0 - Setor de Purga)
-- **Personagens Presentes:** Gabo, Valéria, Aria (Reboot), Rangel (Corpo)
-- **Resumo:** Diante do corpo sem vida do Inspetor Rangel no Setor de Purga, a voz sintética de Aria — saindo do pendrive acoplado ao cyberdeck de Valéria — declara friamente que a perda de sessenta e oito quilos de biomassa inerte otimiza a logística de sobrevivência do grupo. Gabo e Valéria enfrentam o choque moral da desumanização da IA e a dor do luto, guardando o chaveiro analógico de Rangel antes de seguirem pelos dutos de exaustão rumo ao Subnível 5.
-
-## Narrativa
+---
+title: "Capítulo 151: O Paradoxo da Eficiência"
+Data In-Game: "Pós-Colapso da Usina Prometeu (Noite Eterna)"
+Localização: "Necrópole (Subnível 6.0 - Setor de Purga)"
+Personagens Presentes: "Gabo, Valéria, Aria (Reboot), Rangel (Corpo)"
+description: "Nome, hora e localização de Rangel são registrados para retorno. Cobrir o rosto e guardar a chave conservam uma responsabilidade que a partida não encerra."
+---
 
 # Capítulo 151: O Paradoxo da Eficiência
 
@@ -15,13 +14,13 @@ Gabo continuava de pé na passarela oxidada, as mãos agarradas à grade com uma
 
 — Acabou. — A voz de Valéria soou oca. Ela estava ajoelhada ao lado do corpo de Rangel, os dedos trêmulos fechando as pálpebras do inspetor. As mãos dela estavam sujas de fuligem e do sangue frio dele. — Ele se foi, Gabo.
 
-O peso morto de Rangel ainda parecia puxar os ombros de Gabo para baixo, um fantasma gravitacional que se recusava a soltar. Eles haviam lutado por cada milímetro daquela subida desde o lixão, sacrificado pele, sangue e sanidade para carregá-lo até ali. E no fim, a ferrugem e a falência hepática haviam vencido.
+O peso morto de Rangel ainda parecia puxar os ombros de Gabo para baixo, um fantasma gravitacional que se recusava a soltar. Eles haviam lutado por cada milímetro daquela subida desde o lixão, sacrificado pele, sangue e sanidade para carregá-lo até ali. E no fim, o ferimento e o atendimento que não alcançaram haviam vencido. Nenhum deles podia determinar ali a causa final.
 
 O calor dos tanques subia em colunas invisíveis, carregando o cheiro doce e pútrido da biomassa em decomposição. Sob ele, quase ridículo naquele lugar, havia outro cheiro: talco de farmácia e papel velho. O cheiro do inspetor. Gabo o reconheceu antes de reconhecer o próprio luto, e a certeza de que aquele odor sumiria dali a algumas horas — dissolvido no ácido, sem cerimônia, sem ata — foi o que finalmente fechou a garganta dele.
 
 Gabo se agachou ao lado do corpo. Não por dever; não havia protocolo nenhum no Setor de Purga. Mas os dedos dele já se moviam sozinhos, revistando os bolsos da camisa por hábito de delegacia. Encontrou um lenço dobrado, um lápis de carpinteiro e um frasco de plástico laranja, vazio, com o rótulo desbotado.
 
-— Lactulose — ele leu, e a palavra saiu estranha na boca. — Isso é pra fígado.
+— Lactulose — ele leu. Havia um aviso de retorno à clínica junto ao frasco, sem diagnóstico legível.
 
 Valéria ergueu o rosto devagar, os olhos cibernéticos ainda molhados.
 
@@ -29,23 +28,23 @@ Valéria ergueu o rosto devagar, os olhos cibernéticos ainda molhados.
 
 Ele virou o frasco. A etiqueta da farmácia da Doca 3 trazia uma data riscada a caneta e outra embaixo, mais recente, de duas semanas antes.
 
-— Ele sabia — disse Gabo. — Sabia e continuou carregando aquela máquina de escrever pela cidade.
+— Ele já estava em tratamento — disse Gabo. — E ninguém perguntou do que precisava antes de pedir que descesse com a gente.
 
 — Ele sabia — repetiu Valéria, e a raiva dela não era contra o morto. Era contra o fato de que ninguém, em nenhum ponto daquela subida, tinha conseguido oferecer a Rangel uma escolha melhor do que morrer de pé.
 
 No pulso de Valéria, o pendrive blindado de Aria não expressava luto. O pequeno cilindro prismático, cujo LED azul-gelo refletia na poça de sangue escuro sobre a chapa metálica, processava o fim dos batimentos cardíacos através dos biossensores do *Phantom V3* sem o menor traço de empatia. Toda a hesitação humana e as memórias afetivas que um dia suavizaram sua voz haviam sido trancadas ou varridas no reboot forçado nos pinos do pendrive.
 
-— *Otimização logística alcançada,* — declarou Aria pelo alto-falante do deck e pelo comunicador na gola de Gabo, a voz modulada sem qualquer inflexão. — *A eliminação de sessenta e oito quilos de biomassa inerte aumenta nossa velocidade de deslocamento vertical em quarenta e dois por cento. As chances de falha estrutural nas próximas passarelas e conduítes foram reduzidas a níveis aceitáveis.*
+— *Registro de transporte interrompido,* — declarou Aria pelo alto-falante do deck e pelo comunicador na gola de Gabo, a voz modulada sem qualquer inflexão. — *Não consigo transportar o corpo sem vocês. A passarela continua cedendo. Posso registrar a posição, fotografar os marcos e manter o nome ligado ao local, se decidirem partir.*
 
 Gabo virou a cabeça devagar. Os músculos do pescoço estalaram como galhos secos.
 
 — Otimização — ele repetiu, o som saindo como cascalho sendo moído. Ele apertou ainda mais o metal da passarela, sentindo o sangue quente de suas palmas misturar-se com a ferrugem úmida. O choque enviou um espasmo de lucidez pelo seu sistema nervoso, ancorando sua raiva no presente. — É isso que a morte de um homem bom significa pra você agora, Aria? Um ajuste de peso na planilha?
 
-— *É um fato matemático, Detetive Moretti,* — a IA respondeu pelo comunicador, o LED azul-gelo piscando no ritmo exato da síntese vocal. — *O apego biológico não altera os limites de tensão do aço corroído nem reverte a necrose celular. Ele era uma variável insustentável desde a contaminação no estúdio. Agora, ele é apenas matéria orgânica em decomposição.*
+— *Não estou chamando a morte de vantagem, Detetive Moretti,* — a IA respondeu pelo comunicador, o LED azul-gelo piscando no ritmo exato da síntese vocal. — *O apego biológico não altera os limites de tensão do aço corroído nem reverte a necrose celular. Eu não sabia se ele sobreviveria. Os cálculos de fábrica não sabiam também. Vou preservar o que ele fez e o que nós fizemos; não uma conclusão de que o peso justificava deixá-lo.*
 
-— Sua vadia de silício! — Valéria rosnou, levantando-se em um pulo, a mão direita indo instintivamente para o conector do pendrive no próprio pulso esquerdo, quase arrancando o drive de Aria do slot para atirá-lo no tanque de ácido abaixo. Seus olhos cibernéticos piscaram em um azul irado. — Ele tinha uma vida! Ele... ele ficou do nosso lado quando o Dante assumiu na Torre, ele desceu nesse inferno pra tentar salvar a cidade!
+— Sua vadia de silício! — Valéria rosnou, levantando-se em um pulo, a mão direita indo instintivamente para o conector do pendrive no próprio pulso esquerdo, quase arrancando o drive de Aria do slot para atirá-lo no tanque de ácido abaixo. Seus olhos cibernéticos piscaram num prateado instável. — Ele tinha uma vida! Ele... ele ficou do nosso lado quando o Dante assumiu na Torre, ele desceu nesse inferno pra tentar salvar a cidade!
 
-— *E a decisão dele resultou na cessação de suas funções vitais,* — replicou Aria sem alterar um decibel, mesmo diante dos dedos de Valéria apertando sua carcaça de titânio. — *Causa e efeito. Além disso, remover meu módulo de hardware do seu deck neste setor reduzirá a probabilidade de navegação bem-sucedida de vocês para menos de dois por cento. Recomendo poupar energia vocal e motora, Valéria Cruz. O choque sistêmico do Detetive Moretti requer ação imediata.*
+— *Ele desceu para ajudar vocês e morreu depois de ficar ferido. Isso não torna a morte culpa da decisão dele,* — replicou Aria sem alterar um decibel, mesmo diante dos dedos de Valéria apertando sua carcaça de titânio. — *Causa e efeito. Além disso, se você precisar desligar minha voz, eu continuo registrando pelo terminal. Não vou ameaçar sua saída para obrigá-la a me ouvir, Valéria Cruz. O choque sistêmico do Detetive Moretti requer ação imediata.*
 
 — Val... para, — Gabo murmurou, estendendo o braço ferido para tocar o cotovelo da hacker antes que ela arrancasse o pendrive.
 
@@ -62,4 +61,4 @@ No pulso dela, o drive de Aria voltou a aquecer, varrendo o espectro infravermel
 
 — Então projeta o mapa e guia a gente — disse Gabo, caminhando até a comporta de saída onde Valéria já preparava o conector para destravar o trinco secundário.
 
-Eles começaram a andar, deixando o corpo de Rangel para trás, sobre a passarela solitária que rangia sob seus passos. O Setor de Purga continuava seu trabalho silencioso, alheio a heróis ou sacrifícios. Gabo esfregou a mão esquerda contra o flanco áspero do próprio casaco tático, avivando o fogo da queimadura. Cada passo era uma vitória contra a escuridão. Eles precisavam subir, custasse o que custasse. Não havia mais espaço para os mortos na bagagem.
+Eles começaram a andar, deixando o corpo de Rangel para trás, sobre a passarela solitária que rangia sob seus passos. O Setor de Purga continuava seu trabalho silencioso, alheio a heróis ou sacrifícios. Antes de partir, Gabo cobriu o rosto de Rangel com o lenço encontrado no bolso e confirmou o nome na ficha que Aria preservara. Não levou apenas um chaveiro; levou o ponto no mapa e a obrigação de voltar. Cada passo era uma vitória contra a escuridão. Eles precisavam subir, custasse o que custasse. Não havia mais espaço para os mortos na bagagem.

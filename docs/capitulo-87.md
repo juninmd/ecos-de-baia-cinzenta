@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: "Capítulo 87: O Novo Sacerdócio"
-description: "Vilar negocia água com um sacerdote que tem o mesmo nome que ele. O preço não é dinheiro nem território: é um homem."
+description: "Vilar continua em recuperação após a amputação e o atendimento ocular. A ameaça aos sistemas de ventilação do enclave não equivale a eliminar todo oxigênio da cidade."
 image: /capitulo_87.jpg
 Personagens Presentes: Capitão Jonas Vilar
 Localização: "Catedral de Ferro — que antes era esgoto e agora é morro. Tarde"
@@ -9,8 +9,7 @@ Localização: "Catedral de Ferro — que antes era esgoto e agora é morro. Tar
 
 # Capítulo 87: O Novo Sacerdócio
 
-**Catedral de Ferro — que antes era esgoto e agora é morro. Tarde.**
-
+Catedral de Ferro — que antes era esgoto e agora é morro. Tarde.
 A topografia da cidade tinha mudado, e isso é uma frase que se lê rápido demais.
 
 Quer dizer o seguinte: as raízes que cresceram no subsolo empurraram estruturas inteiras para cima. Quarteirões subiram. O nível da Rua Vinte e Dois estava agora nove metros acima do que era, e o esgoto principal do Setor 4 — o domínio do Padre Miguel, a Catedral de Ferro — tinha emergido.
@@ -19,25 +18,23 @@ O que era subterrâneo virou colina.
 
 A abóbada de tijolo se abriu como casca de ovo, e o que sobrou era uma catedral a céu aberto feita de tubo de drenagem, comporta enferrujada e árvores petrificadas de sete metros, com o sol da tarde entrando pelos vãos em feixes cheios de esporo.
 
-Era, sem nenhum exagero, o lugar mais bonito de Baía Cinzenta.
-
-Vilar odiava aquilo com uma intensidade que ele tinha vergonha de sentir.
+Era, sem nenhum exagero, o lugar mais bonito de Baía Cinzenta. Vilar odiava aquilo com uma intensidade que ele tinha vergonha de sentir.
 
 ---
 
 Ele subiu a rampa a pé, sozinho, desarmado, porque essa tinha sido a condição.
 
-Cinquenta e cinco anos. Um braço. E, desde o mês passado, um tapa-olho.
+Cinquenta e cinco anos. Um braço: o esquerdo, esmagado na porta do laboratório e depois tomado pela infecção, fora amputado durante aqueles três meses. E, desde o mês passado, um tapa-olho.
 
-O olho esquerdo ele tinha perdido para uma infecção fúngica que entrou por um arranhão na sobrancelha e que a Dra. Nise conteve com álcool e faca, sem anestesia, num ambulatório de campanha, em quarenta minutos.
+O olho esquerdo ele tinha perdido para uma infecção fúngica que entrou por um arranhão na sobrancelha e que obrigara a equipe cirúrgica a retirar o olho num ambulatório de campanha. Nise acompanhara o pós-operatório; nem ela prometera que tinham contido tudo.
 
-Ela tinha oferecido para ele morder um pano. Ele recusou. Passou a odiar isso também.
+Ele ainda sentia o olho que não estava lá. Passou a odiar isso também.
 
 ---
 
 Ele liderava a milícia dos Puros.
 
-Eram os que recusavam a Simbiose. Duzentas e quarenta pessoas num enclave fortificado no Distrito Industrial, com chapa de aço naval soldada por sete meses, com gerador a diesel, com água de poço artesiano e com rifle de ferrolho.
+Eram os que recusavam a Simbiose. Duzentas e quarenta pessoas num enclave fortificado no Distrito Industrial, com chapa de aço naval soldada desde os primeiros meses do Apagão, com gerador a diesel, com água de poço artesiano e com rifle de ferrolho.
 
 Tecnologia velha, deliberadamente. Nada com rede, nada com sensor, nada que tivesse porta.
 
@@ -51,21 +48,13 @@ Sentado nele estava o Sumo Sacerdote do Culto do Silêncio.
 
 Não era o Profeta Mudo. Aquele tinha sido um peão — um alto-falante, literalmente, que serviu por seis semanas e depois floresceu.
 
-Este era outro.
-
-Vilar levou uns dez segundos para reconhecer, e quando reconheceu teve de segurar no corrimão.
-
-Era o menino da TI.
+Este era outro. Vilar levou uns dez segundos para reconhecer, e quando reconheceu teve de segurar no corrimão. Era o menino da TI.
 
 ---
 
 O garoto que trazia café para o gabinete às três da tarde. Que consertou a impressora da delegacia quatro vezes sem nunca abrir chamado. Que tinha vergonha de falar em reunião e pedia licença para passar em corredor vazio.
 
-Vinte e seis anos. Chamava-se Jonas.
-
-Como o Capitão.
-
-Nunca tinha incomodado ninguém — a delegacia inteira achava graça, tinha até virado piada de plantão: *Jonas grande e Jonas pequeno.*
+Vinte e seis anos. Chamava-se Jonas. Como o Capitão. Nunca tinha incomodado ninguém — a delegacia inteira achava graça, tinha até virado piada de plantão: *Jonas grande e Jonas pequeno.*
 
 Agora o Jonas pequeno tinha quatro braços a mais.
 
@@ -97,13 +86,13 @@ Vilar riu com o canto da boca.
 
 — Vocês não conseguem cortar o ar de ninguém.
 
-— A cobertura vegetal desta cidade produz, hoje, oitenta e um por cento do oxigênio que os seus duzentos e quarenta respiram. — Jonas falou aquilo sem nenhuma ênfase, do jeito de quem lê uma planilha. — Os outros dezenove por cento vêm de fora, por difusão, e são consumidos em quatro horas por um enclave fechado com gerador a diesel.
+— O enclave vedou as entradas por causa dos esporos. Restaram dois adutores filtrados e os cartuchos de reserva. — Jonas falou aquilo sem nenhuma ênfase. — As raízes já alcançaram os dois adutores. Podemos fechar o que vocês precisam para ventilar.
 
 Os braços pararam de digitar.
 
 — Nós controlamos as plantas, Capitão. Não é ameaça. É contabilidade.
 
-E Vilar sabia que era verdade, e essa era a parte que ele não conseguia engolir desde o mês anterior: o enclave dos Puros só sobrevivia porque os Jardineiros permitiam, e todo dia que amanhecia era uma permissão renovada.
+Vilar conhecia os adutores e o estoque curto de filtros, e essa era a parte que ele não conseguia engolir desde o mês anterior: o enclave dos Puros só sobrevivia porque os Jardineiros permitiam, e todo dia que amanhecia era uma permissão renovada.
 
 Ele soltou o ar pelo nariz.
 
@@ -111,15 +100,11 @@ Ele soltou o ar pelo nariz.
 
 ---
 
-Jonas sorriu.
-
-Os dentes dele eram cristal de quartzo, translúcidos, e não eram iguais entre si — cresciam em ângulos ligeiramente diferentes, como cristal cresce mesmo, sem simetria.
+Jonas sorriu. Os dentes dele eram cristal de quartzo, translúcidos, e não eram iguais entre si — cresciam em ângulos ligeiramente diferentes, como cristal cresce mesmo, sem simetria.
 
 — Queremos o Moretti.
 
-Vilar não se moveu.
-
-Ele levou três décimos de segundo para tomar a decisão de não se mover, e foram os três décimos mais bem gastos da carreira dele.
+Vilar não se moveu. Ele levou três décimos de segundo para tomar a decisão de não se mover, e foram os três décimos mais bem gastos da carreira dele.
 
 — O Gabo está ferido — disse, com a voz normal.
 
@@ -127,7 +112,7 @@ Ele levou três décimos de segundo para tomar a decisão de não se mover, e fo
 
 — Ele levou dezoito fraturas no ano passado, garoto. Isso é registro médico.
 
-— O senhor está mentindo agora, e não sobre isso. — Jonas inclinou a cabeça, e os quatro braços voltaram a digitar. — Nós sabemos que a Dra. Nise mantém ele num quarto sem rede, sem sensor e sem contato com o solo, no subsolo do Hospital. Nós sabemos porque nós **não conseguimos ver aquele quarto**, e num raio de doze quilômetros existe exatamente um ponto que nós não vemos.
+— O senhor está mentindo agora, e não sobre isso. — Jonas inclinou a cabeça, e os quatro braços voltaram a digitar. — Nós sabemos que a Dra. Nise mantém ele num quarto sem rede, sem sensor e sem contato com o solo, no subsolo do Hospital. Nós sabemos porque há um vazio nas leituras do hospital, e gente que entra levando curativo. O senhor acha que só as flores dão informação?
 
 Vilar não disse nada.
 
@@ -149,20 +134,16 @@ Ele se inclinou para a frente no trono de osso.
 
 ---
 
-Vilar desceu o morro sozinho.
-
-Levou quarenta minutos, porque descer é pior que subir quando o joelho é velho, e ele levou os quarenta minutos inteiros com o estômago embrulhado.
+Vilar desceu o morro sozinho. Levou quarenta minutos, porque descer é pior que subir quando o joelho é velho, e ele levou os quarenta minutos inteiros com o estômago embrulhado.
 
 Trair a última esperança da cidade para sobreviver mais um dia.
 
 Ou não trair, e assinar sozinho o atestado de duzentas e quarenta pessoas que confiaram nele porque ele tinha farda e patente e uma voz que nunca tremia.
 
-Era a escolha que ele passou trinta e um anos de corporação esperando nunca ter de fazer, e ela chegou numa quinta-feira, sem aviso, sem promotor e sem ninguém para dividir.
+Era a escolha que ele passou trinta e três anos de corporação esperando nunca ter de fazer, e ela chegou numa quinta-feira, sem aviso, sem promotor e sem ninguém para dividir.
 
 Ele parou no portão do enclave e ficou olhando as chapas soldadas.
 
-Lá dentro, alguém tinha acabado de fazer sopa, e o cheiro veio até ele.
-
-Vilar não disse nada a ninguém naquela noite.
+Lá dentro, alguém tinha acabado de fazer sopa, e o cheiro veio até ele. Vilar não disse nada a ninguém naquela noite.
 
 Nem naquela, nem nas oito seguintes.

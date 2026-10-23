@@ -1,25 +1,17 @@
-# Análise Crítica - Capítulo 193: O Ermitão de Cobre
+# Revisão de Capítulo 193: O Ermitão de Cobre
 
-## Avaliação Técnica (1-10)
+Fonte: [capítulo 193](/capitulo-193.md).
 
-*   **Ritmo (Pacing): 8.5/10** - Diminui ligeiramente a ação brutal do capítulo 192 para focar na introdução do novo personagem e em diálogo investigativo, mas mantém a urgência (colapso da torre).
-*   **Diálogos: 9.0/10** - O contraste entre o pânico de Elias, o cinismo dolorido de Gabo e a neutralidade fria e lógica da Valéria (em Modo de Segurança) enriquece bastante a interação.
-*   **Atmosfera: 9.0/10** - A Subestação B com seu cheiro de ozônio e frio escuro oferece um bom contraponto ao fogo do Jardim, dando a Gabo uma sensação temporária de segurança olfativa.
+Elias Duarte é técnico de drenagem, com trinta e oito anos. Conhecer infraestrutura não lhe dá experiência de combate; aliar-se não significa dever obediência.
 
-## Pontos Fortes e Fracos
+## Passagens de entrada e saída
 
-*   **Pontos Fortes:**
-    *   **Lore de Gabo Respeitado:** Gabo usa o punho avariado para bater na parede de concreto, utilizando a dor no ombro como ancoragem para afastar a asfixia iminente provocada pelas memórias da fumaça do pai, sem desejo por fumo.
-    *   **Modo de Segurança de Valéria:** Ela não se importa com a fobia ou a dor de Gabo; seu papel é meramente informativo e calculista, criando um forte distanciamento emocional.
-    *   **Novo Personagem:** Elias serve como um alívio de exposição orgânico, e não como um herói de ação, balanceando a equipe atual.
-*   **Pontos Fracos:**
-    *   A barricada de Elias foi resolvida rapidamente por intimidação, sem grande resistência física, embora compreensível dado o estado letal de Gabo.
+> A Subestação B era um mausoléu de transformadores gigantescos e cabos de cobre da espessura de troncos de árvores, mergulhada em uma escuridão gélida que contrastava com a fornalha da qual tínhamos acabado de escapar. O único som era o gotejar lento de condensação nas carcaças de aço e o chiado elétrico ocasional vindo de painéis de distribuição avariados.
 
-## Sanity Check
+### Saída
 
-*   **Gabo interagiu com algum fumante? Como sua repulsa foi demonstrada?** Não há fumantes reais. O mero gatilho da ansiedade ameaçou reacender a fobia (cheiro fantasma do charuto de cravo de Dante), o que foi combatido violentamente quando Gabo se auto-infligiu dor esmurrando a parede de concreto para voltar ao foco.
-*   **O plot twist deste capítulo invalida algo estabelecido nos capítulos anteriores?** Não. Ele apenas estabelece as consequências de destruir o núcleo térmico no Arquivo.
-*   **O resumo da lore foi atualizado com os novos eventos?** Sim.
+> — Então pega suas ferramentas e vem com a gente, Elias — falei, dando um passo em direção à passagem. — A gente abre a válvula e você garante que a gente não se perca no escuro.
 
-## Avaliação Qualitativa
-* A história respira neste capítulo, apresentando um obstáculo ambiental (as rotas mortas) ao invés de um obstáculo de combate. Elias adiciona a dose certa de humanidade imperfeita para contrastar com a rigidez cibernética do grupo principal. Coerência dos personagens mantida em alta.
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

@@ -1,16 +1,18 @@
-# Análise do Capítulo 43: Água Negra
+# Revisão de Capítulo 43: Água Negra
 
-## Avaliação Técnica
-- Ritmo: 9/10
-- Diálogos: 9/10
-- Atmosfera: 10/10
+Fonte: [capítulo 43](/capitulo-43.md).
 
-## Pontos Fortes e Fracos
-- Fortes: O horror biológico/químico reforçado pelo retorno da Dra. Nise. A limitação física de Gabo (joelho) pauta a decisão tática de quem vai na missão, tornando o combate físico um risco real e as dores persistentes.
-- Fracos: Nenhum.
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-## Verificação de Sanidade (Lore Compliance)
-- Perfeita obediência. Gabo lida com as dificuldades orgânicas (a dor das órteses/joelho) que agem como sua âncora de sobrevivência na trama sem uso de muletas narrativas (cigarros, drogas).
+## Passagens de entrada e saída
 
-## Avaliação Qualitativa
-Fechamento desse arco com excelente qualidade de construção de mundo e consistência de personagens. Sem necessidade de alterações ou adições de personagens.
+> Delegacia Central do Setor 4, terceiro dia de chuva.
+> O aviso de Valéria chegou tarde demais para alguns.
+
+### Saída
+
+> E nadava bem.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

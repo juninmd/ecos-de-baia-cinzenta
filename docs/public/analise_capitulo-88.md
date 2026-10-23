@@ -1,22 +1,18 @@
-# Análise Crítica - Capítulo 88: Sintomas de Abstinência
+# Revisão de Capítulo 88: Sintomas de Abstinência
 
-## Avaliação Técnica
-- **Ritmo:** 8/10 - Uma cena contida, focada na angústia mental e física de Gabo.
-- **Diálogos:** 9/10 - A agonia de Gabo e a tensão médica de Nise criam muito peso dramático.
-- **Atmosfera:** 9/10 - O isolamento na caixa branca e o contraste com o "delírio botânico" lá fora estabelecem bem a loucura de Gabo.
+Fonte: [capítulo 88](/capitulo-88.md).
 
-## Pontos Fortes e Fracos
-**Fortes:**
-- O texto incorpora de forma excelente a sobrecarga neural compartilhada entre Gabo e o pendrive de titânio da Aria no berço de contenção.
-- O uso da dor física nas pernas com órteses para ancorar a lucidez mental contra a pressão psíquica do Jardim.
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-**Fracos:**
-- A voz saindo simultaneamente do alto-falante do berço de contenção e da garganta de Gabo exige leitura atenta, mas funciona muito bem como sintoma da paginação neural.
+## Passagens de entrada e saída
 
-## Sanity Check
-- [x] O trauma/aversão fóbica de Gabo a fumo está respeitado? Sim, sem gatilhos para fumo.
-- [x] A temporalidade das personagens está correta? Sim. Aria mantida no pendrive de titânio acoplado ao berço de contenção.
-- [x] A história é coerente? Sim.
-- [x] Não contém mocks? Sim.
+> Bunker de isolamento, subsolo do Hospital Central — noite.
+> O quarto era uma caixa branca de três metros por quatro.
 
-**Conclusão:** O Capítulo 88 já foi excelentemente revisado nos lotes anteriores e representa perfeitamente o lore psicológico e físico de Gabo. Nenhuma correção adicional é necessária.
+### Saída
+
+> — Então é essa que a gente cura. — Nise abriu a porta do bunker e a luz do corredor entrou. — Porque se a gente não curar a cidade a tempo, a sobrecarga na cabeça desse homem vai levar todo mundo junto, e eu não vou assinar mais um atestado com o sobrenome Moretti nesta vida.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

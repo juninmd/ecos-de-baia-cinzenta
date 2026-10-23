@@ -1,22 +1,33 @@
-# Análise Crítica - Capítulo 4: O Salão de Vidro
+# Parecer — Capítulo 4: A Torre de Marfim
 
-## Avaliação Técnica
-- **Ritmo:** 9/10 - A perseguição na estação de metrô pelos drones modelo Vespa adiciona tensão cibernética e de ação ágil, equilibrando mistério com urgência.
-- **Diálogos:** 8/10 - Miranda expõe a virada de roteiro central (o Projeto Lázaro e o uso do cérebro de Dante) de forma um pouco expositiva, mas funcional dentro da adrenalina.
-- **Atmosfera:** 8/10 - A transição para os túneis de esgoto sujos e escuros complementa o clima de desespero e opressão policial/corporativa.
+Revisão de 21/10/2026. Fontes: [3](/capitulo-3.md), [4](/capitulo-4.md) e
+[5](/capitulo-5.md). Substitui a análise antiga que descrevia a estação sob o número 4.
 
-## Pontos Fortes e Fracos
-**Fortes:**
-- Integração da tecnologia Lázaro ("processamento de carne").
-- Gabo atira contra a tubulação para gerar uma barreira física de vapor denso (ajustado de fumaça em revisão prévia), respeitando seu trauma.
+## Mudanças e personagens
 
-**Fracos:**
-- O drone "Vespa" realizar a "Esquiva Pêndulo" de Dante é um conceito muito "anime/cinematográfico", mas aceitável dado o contexto da digitalização de padrões neurais de combate.
+Aria usa conexão física e credencial limitada. O acesso fica registrado e não
+apaga câmeras. Gabo toma elevador até 146 e sobe quatro andares, com esforço e
+perda de tempo. Conserva o original da fotografia no carro e leva a reprodução.
+Marco negocia enquadramento público; Krell impõe condições; Kael executa a expulsão.
+A tentativa de Gabo de criar testemunhas o deixa gravado como invasor.
+A data abre a mensagem, mas não autentica o remetente. Valéria recebe o original
+antes do encontro. O estivador fora do campo de visão não é morte confirmada.
 
-## Sanity Check
-- [x] Personagens coerentes e mantendo restrições de memória? Sim.
-- [x] O elemento de Valéria no rádio está natural? Sim. Ela tenta agir como suporte tático/tecnológico externo de forma humana.
-- [x] A história avança coesa e não infringe o lore da asfixia fóbica de fumo? Sim.
-- [x] Não contém mocks? (N/A)
+## Portões e notas
 
-**Conclusão:** O Capítulo 4 não quebra lore de personagem. Gabo persegue respostas sobre o pai e lida com a pressão tecnológica de maneira crua. Nenhuma correção necessária.
+| Critério | Resultado |
+| --- | --- |
+| D1 | 1.226 palavras de prosa; dentro do alvo |
+| D2 | Um H1, igual ao menu |
+| D3 | Local, presença física e memória declarados |
+| D4 | Acessos e ferimentos locais conferidos; origem do Colar de Sol ainda pendente |
+| D5 | Pedido de Valéria sem confirmação de leitura prepara uma decisão arriscada |
+
+Atmosfera 2: doca, ar filtrado e esforço separam distritos. Custo 1: exposição e
+ferimentos sem perda permanente demonstrada aqui. Voz 2: objetivos distintos.
+Ritmo 2: informação por recusa/confronto. Consequência 1: agrava o risco do caso.
+**Nota editorial: 8/10.**
+
+Revisão local aplicada. A chave 14/10 vem de 3, mas não prova autoria. Ferimentos
+e comunicação seguem para 5. Origem do colar e retornos posteriores continuam
+pendentes; a nota não aprova a continuidade global.

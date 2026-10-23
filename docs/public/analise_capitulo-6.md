@@ -1,23 +1,34 @@
-# Análise Crítica - Capítulo 6: O Coração da Tempestade
+# Parecer — Capítulo 6: O Coração da Tempestade
 
-## Avaliação Técnica
-- **Ritmo:** 9/10 - A exploração da sala de servidores orgânicos transita de forma fluida para a ação explosiva contra o ciborgue Kael.
-- **Diálogos:** 8/10 - A provocação cínica de Gabo a Kael antes de engolir o chip demonstra o extremismo e a falta de apego do personagem à própria segurança.
-- **Atmosfera:** 10/10 - O necrotério industrial/sala de servidores cria uma ambientação cyber-horror de excelente qualidade, consolidando o peso do Projeto Lázaro.
+Revisão de 21/10/2026. Fontes: [5](/capitulo-5.md), [6](/capitulo-6.md) e
+[7](/capitulo-7.md). Foco: registro, acesso e custo de uma reação.
 
-## Pontos Fortes e Fracos
-**Fortes:**
-- Gabo utiliza o Colar de Sol mais uma vez para ancorar sua audácia/fuga da sanidade, mantendo coerência estrita com a restrição de vício e seu mecanismo de enfrentamento à base de dor somática.
-- Valéria demonstrando medo/frustração emocional ao não conseguir hackear o inimigo (Air-gapped) reforça sua humanidade pré-capítulo 167.
-- Aria sugere o uso de nitrogênio friamente, preparando o leitor para o combate corpo a corpo na névoa gelada.
+## Mudanças e personagens
 
-**Fracos:**
-- O ato de engolir o chip pode ser visto como um atalho tático absurdo, mas dentro da lógica cyberpunk "hardboiled", funciona bem para escalar o clímax contra o cirurgião cibernético.
+A drenagem tem duração e deixa Miranda enfraquecido. Gabo registra tanques e
+boletim, mas uma cópia não vira identificação pericial definitiva. Envia registro
+parcial a Valéria e guarda o original no comunicador. Valéria recebe telemetria
+externa; não invade todos os arquivos nem o corpo de Kael. Aria usa imagem local.
+O rosto de Dante na tela não prova consciência ou presença dele naquele lugar.
+Gabo rompe a custódia ao engolir o chip e provoca o protocolo de extração.
+A linha de nitrogênio e a válvula aparecem antes do disparo. O jato cobre o visor
+de Kael, sem garantia de cegueira permanente; também ameaça os tanques e isola a sala.
 
-## Sanity Check
-- [x] O trauma fóbico de Gabo continua combatido por automutilação ou autopunição somática? Sim (uso do Colar).
-- [x] Valéria está operando emocionalmente (pré-Safe Mode)? Sim.
-- [x] Personagens secundários/antagonistas e lore estão alinhados? Sim.
-- [x] Não contém mocks? (N/A)
+## Portões e notas
 
-**Conclusão:** O Capítulo 6 fecha este lote de forma excelente e não requer correções na trama. Os personagens estão coerentes.
+| Critério | Resultado |
+| --- | --- |
+| D1 | 1.194 palavras de prosa; dentro do alvo |
+| D2 | Um H1, igual ao menu |
+| D3 | Local, elenco, rádio e imagem incerta declarados |
+| D4 | Chip, armas, energia e posições conferidos localmente; colar anterior pendente |
+| D5 | Válvula perdida na névoa e Kael voltando a andar |
+
+Atmosfera 2: frio, cheiro e marcas conduzem observação. Custo 1: risco corporal e
+perda de custódia, sem desfecho permanente demonstrado aqui. Voz 2: Gabo testa,
+Miranda recua, Valéria delimita. Ritmo 2: urgência disputa o registro. Consequência 2:
+caso abandonado vira possível vítima da operação. **Nota editorial: 9/10.**
+
+Revisão local aplicada. Exame independente dos tanques, boletim e chip ainda falta.
+A captura parcial não substitui o original. O perigo criado exige a ação de 7;
+não há declaração de que os processadores foram salvos ou Dante localizado.

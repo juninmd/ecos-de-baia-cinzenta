@@ -1,171 +1,128 @@
 ---
 image: /capitulo_4.jpg
-Localização: Torre Aeterna, Distrito Alto
-Personagens Presentes: Gabriel "Gabo" Moretti, Viktor Krell, Marco Moretti, Kael "O Cirurgião", Aria (módulo físico)
+Localização: Torre Aeterna e doca de serviço, Distrito Alto
+Personagens Presentes: Gabriel "Gabo" Moretti, Viktor Krell, Marco Moretti, Kael "O Cirurgião", Aria (módulo físico), estivador e três Drenados
 Participação em memória: Dra. Cecília Weiss
 ---
 # Capítulo 4: A Torre de Marfim
 
-A Torre Aeterna não pertencia a Baía Cinzenta. Era um corpo estranho, um implante de luxo em um organismo necrosado. Enquanto a cidade abaixo se afogava em smog e chuva ácida, a torre perfurava as nuvens, brilhando sob o sol que os pobres haviam esquecido que existia.
+A Torre Aeterna perfurava as nuvens. Lá em cima havia sol; no beco onde Gabo estacionou, a água do telhado caía marrom sobre o para-brisa do *Cobalt*. O ar cheirava a esgoto e ao perfume caro que os filtros da doca expeliam.
 
-Gabriel não foi direto para a porta da frente. Ele sabia que tentar entrar na Aeterna Corp sem convite era como tentar arrombar um cofre de banco com um palito de dente. Em vez disso, ele parou o Cobalt a dois quarteirões de distância, em um beco escuro, e observou.
+Ele deixou a fotografia original trancada no carro. No comunicador levava a reprodução da segunda, o relógio no pulso errado, a data legível. Duas imagens que podiam ser montagens. Nenhuma resposta que autorizasse arrombar aquela porta.
 
-Limusines antigravitacionais deslizavam silenciosamente até a entrada, depositando a elite da cidade para o que parecia ser um evento de gala. O "Baile da Evolução", diziam os outdoors holográficos.
+Limusines depositavam convidados sob o anúncio do Baile da Evolução. Gabo ergueu o binóculo com a esquerda. A gaze da mão direita grudara na queimadura.
 
-Enquanto ajustava o binóculo, sua visão embaçou por um segundo. Um flash de memória. O cheiro de café forte e cigarro mentolado, e o som suave da caneta de prata no papel.
+Lembrou a caneta de prata da Dra. Cecília Weiss, parada sobre o papel.
 
-*"Você tem medo de entrar lá, Gabriel?"* A voz da Dra. Cecília Weiss ecoou em sua mente.
+Você começou uma frase com “em catorze anos de polícia eu cruzei uma linha”. Depois mudou de assunto.
+Foi força de expressão.
+Você está com medo de quê, Gabriel?
+No consultório ele não respondera. No beco, apertou o Colar de Sol por cima da camisa e guardou o binóculo. Um baque veio da doca, seguido de um pedido de socorro que terminou antes da palavra inteira.
 
-— *"Eu não tenho medo de prédios, Doutora."*
+Três Drenados cercavam um homem de uniforme cinza. Um chutava suas costelas; outro tentava arrancar o leitor de crédito preso ao pulso. O terceiro vigiava a rua, tremendo tanto que os dentes batiam.
 
-— *"Não do prédio. Do que ele representa. Você diz que a tecnologia é fria, mas eu vejo suas mãos tremerem. Você sabe que a máquina não erra, e isso te aterroriza. Porque se a máquina é perfeita, o erro é sempre humano. E você se sente... defeituoso."*
+Gabo agarrou o primeiro pelo casaco com a esquerda e o lançou contra a caçamba. O segundo avançou com uma lâmina de fibra. Gabo desviou e lhe acertou uma cotovelada curta. Sentiu o esforço na palma que tentava manter aberta. O vigia fugiu; os outros foram atrás, um apoiado no outro.
 
-— *"A senhora está com a caneta parada há um minuto."*
+O estivador ficou sentado no chão. Sangue e graxa corriam pela testa.
 
-— *"Estou. Gabriel, na semana passada você começou uma frase com 'em catorze anos de polícia eu cruzei uma linha' e mudou de assunto. Eu deixei passar. Não vou deixar de novo."*
+— Trabalhei trinta anos ali — disse, apontando para a torre. — As empilhadeiras Série-K fazem meu turno agora. Nem consegui retirar o que ficou no armário.
 
-E ali, no beco, com o binóculo na mão e a Torre de Marfim recortada contra a chuva, Gabo fez o que fazia toda vez: guardou aquilo no mesmo lugar onde guardava o resto, embaixo de tudo, numa caixa que ele não abria nem sozinho.
+Gabo lhe deu uma nota de crédito e esperou que alcançasse a guarita iluminada. O guarda fechou o vidro quando viu o uniforme do homem. O dinheiro ficou estendido entre os dois lados.
 
-— *"Foi força de expressão, doutora."*
+A porta de manutenção tinha uma tampa de diagnóstico. Gabo abriu-a com o canivete e retirou Aria do adaptador da lapela. O módulo encaixou no barramento; o metal morno pressionou a bolha através da gaze.
 
-Ela não acreditou. Ele sabia que ela não acreditou. E o assunto morreu ali por mais alguns anos.
+— *Credencial de manutenção aceita. Acesso registrado*, disse a voz pelo comunicador, ligado ao módulo por cabo. *A autorização não cobre o salão.*
 
-Gabo sacudiu a cabeça, apertando o Colar de Sol com força até a dor silenciar a voz da terapeuta. "Eu não sou defeituoso, Cecília. Eu sou o único que ainda funciona sem bateria."
+— Até onde cobre?
 
-Ele saiu do carro. No caminho para a doca de carga, ele ouviu o som inconfundível de carne sendo atingida. Um baque surdo, seguido de um gemido abafado.
+— *Elevador de carga, piso cento e quarenta e seis. Quatro minutos. As câmeras continuam gravando.*
 
-Em um beco lateral, três figuras cercavam um homem caído. As silhuetas eram esqueléticas, tremendo sob a garoa ácida como se estivessem em curto-circuito. Eram "Drenados" — viciados em Lázaro no estágio terminal, onde a droga já havia consumido a gordura, o músculo e a moral, deixando apenas o desejo elétrico.
+Gabo olhou para a guarita. O estivador ainda estava do lado de fora.
 
-— Passa o crédito! — sibilou um deles, chutando o homem no chão. Sua voz era um chiado de estática. — Preciso... preciso logar... a nuvem tá chamando...
+— Abra.
 
-O homem no chão tentou se proteger, mas os Drenados eram movidos por um desespero que transcendia a força física. Eles não queriam comida. Queriam dados. Queriam a próxima dose digital que fritaria mais um pedaço de seus lobos frontais.
+Recolheu o módulo ao comunicador e entrou. No elevador, o ventilador secou o sangue dos nós dos dedos até repuxar. A cabine subiu rangendo. No piso autorizado, ele esperou um carrinho de louça passar e tomou a escada. Quatro andares depois precisou parar, com a respiração curta e o gosto do café voltando. O relógio de parede consumia o prazo que Dantas lhe dera.
 
-Gabo não sacou a arma. Pólvora atrairia os drones da segurança privada. Ele avançou silenciosamente, agarrando o Drenado mais próximo pelo colarinho sujo e arremessando-o contra uma caçamba de lixo. O corpo do viciado bateu com um som oco, leve demais.
+No salão, vidro inteligente e música de cordas escondiam o ruído das máquinas. O sobretudo molhado de Gabo deixou um rastro no carpete. Um segurança levou a mão ao ponto auditivo, olhou para o centro da festa e permitiu que ele passasse.
 
-Os outros dois viraram-se, os olhos brilhando com uma luminescência azulada e doentia — o sinal da overdose iminente. Um puxou uma faca feita de vidro de fibra ótica afiado.
+Marco Moretti segurava uma taça como quem segurava uma votação ganha. Ao lado, na cadeira flutuante, Viktor Krell ouvia dois investidores. A bengala de titânio repousava sobre seus joelhos; os olhos de safira acompanhavam quem tomava a palavra.
 
-— Erro de sistema... — murmurou o viciado, avançando. — Eliminar obstáculo...
+— A Prefeitura quer garantia de vagas — dizia Marco. — Não posso anunciar recolhimento sem capacidade de atendimento.
 
-Gabo desviou da estocada desajeitada e acertou uma cotovelada curta no plexo solar do agressor. O viciado dobrou-se, vomitando um líquido prateado. O terceiro fugiu para as sombras, gritando códigos binários desconexos.
+— Pode anunciar a capacidade que contratar — respondeu Krell. — A LifeGen só processa o que estiver coberto.
 
-Gabo se agachou ao lado da vítima. Era um homem vestindo o uniforme cinza rasgado dos estivadores do porto.
+Um investidor perguntou pelo custo de um leito. Marco corrigiu:
 
-— Ei, amigo — Gabo ajudou-o a se sentar. — Você está bem?
+— Unidade de acolhimento. Vai constar assim na Nova Alvorada.
 
-O homem agarrou o braço de Gabo, tremendo. O sangue escorria de um corte na testa, misturando-se à graxa do rosto.
+Gabo entrou no círculo. Um garçom tentou lhe oferecer uma taça; ele a afastou com a esquerda.
 
-— Eles não param... eles estão em toda parte agora... — o homem balbuciou, ignorando a própria dor. — Eu só queria voltar pra casa. Perdi meu turno. A Série-K... empilhadeiras que pensam. Eu trabalhei lá por trinta anos. Krell disse que era "otimização". Agora eu sou lixo, e o lixo me ataca.
+— O estivador na sua doca precisa de uma dessas unidades ou só do armário dele, Marco?
 
-Gabo sentiu a raiva queimar no peito, fria e dura. O "progresso" de Krell não apenas tirava os empregos; criava os monstros que caçavam os desempregados.
+O irmão olhou primeiro para as botas enlameadas, depois para o rosto.
 
-— Fique aqui — Gabo colocou uma nota de crédito amassada na mão do homem. — Vou ter uma conversinha com o seu chefe.
+— Você não foi convidado.
 
-Ele precisava de um jeito de entrar. E o jeito veio da peça de titânio fosco acoplada ao seu comunicador tático — o componente tipo pendrive que ele puxara da cabine telefônica durante a enchente. A queimadura na palma direita ainda ardia sob a gaze. Quando se aproximou da porta de manutenção no nível do subsolo, o LED do pendrive piscou em azul-elétrico no bolso do sobretudo e a trava magnética da parede estalou.
+— Vim perguntar sobre duas fotografias encontradas em dois mortos.
 
-*ACESSO CONCEDIDO: UNIDADE AUTÔNOMA ARIA.*
+Gabo mostrou na tela a imagem da delegacia, sem entregar o aparelho. Marco aproximou o rosto. O sorriso desapareceu por um instante; podia ser reconhecimento, podia ser a presença do irmão diante dos investidores.
 
-Gabo olhou para o painel digital. O nome brilhava em verde.
+— Quem lhe deu isso?
 
-— Você está brincando comigo — sussurrou ele para o comunicador na lapela. — Você abre portas da Aeterna agora?
+— É o que estou apurando. O relógio está no braço errado.
 
-— *Credenciais de manutenção injetadas,* — respondeu a voz sintética de Aria pelo fone do comunicador, seca e precisa. — *Quarenta segundos antes que o sensor do corredor reinicie.*
+Krell ajustou a bengala sobre os joelhos.
 
-Gabo entrou. O corredor de serviço cheirava a ozônio e produtos de limpeza caros. Ele subiu as escadas de emergência, evitando as câmeras com a ajuda dos pulsos de interferência que o pendrive de Aria disparava segundos antes dele passar.
+— Sua memória não é uma perícia, detetive.
 
-O salão de festas ficava no 150º andar. As paredes eram de vidro inteligente, mostrando a cidade lá embaixo como um mapa de luzes tristes. A música era suave, tocada por uma orquestra de androides indistinguíveis de humanos.
+— Por isso eu trouxe uma pergunta. Quem teve acesso ao arquivo do meu pai?
 
-Gabriel escaneou o ambiente. Viu políticos, magnatas da tecnologia, chefes de gangues "legitimados". E no centro de tudo, Marco Moretti.
+— Faça uma requisição.
 
-Seu irmão estava mais polido do que nunca. Terno de seda de aranha, um sorriso treinado, segurando uma taça de champanhe como se fosse um cetro. Mas ele não era o centro das atenções.
+— A última notificou o proprietário antes de a gente terminar a coleta.
 
-O centro era um homem pequeno, de não mais que um metro e trinta e cinco, sentado em uma cadeira flutuante ornamentada que o deixava na altura dos olhos dos outros convidados.
+— Então o procedimento funciona.
 
-Viktor Krell.
+Uma mulher ao lado de Marco cobriu a boca com a borda da taça. Gabo não soube se ela escondia riso ou desconforto. O ar filtrado tinha gosto de flores guardadas por tempo demais.
 
-O CEO da Aeterna parecia uma criança vestida de imperador, mas seus olhos — dois orbes de safira cibernética — irradiavam uma maldade antiga. Ele gesticulava com uma bengala de titânio negro, e os magnatas ao redor dele, homens com o dobro de seu tamanho, encolhiam-se como colegiais.
+— Dante também gostava de discutir procedimento aqui — continuou Krell. — Era um homem difícil de retirar de uma sala.
 
-Gabriel, ainda com o sobretudo molhado e botas sujas de lama, caminhou em direção a eles. O contraste com os convidados de gala era um grito visual. Ele pegou uma taça de uma bandeja que passava com a mão esquerda, bebeu em um gole só para acalmar os nervos, e se infiltrou no círculo de conversa.
+— O senhor estava na última em que ele entrou?
 
-— ...a eficiência energética do Distrito 4 aumentou 20% desde que implementamos o racionamento neural — dizia Krell, sua voz um barítono surpreendentemente profundo. — Os pobres não precisam de tanta largura de banda cognitiva. Eles só precisam saber obedecer.
+Marco tocou o braço do irmão. Gabo se soltou; a gaze ficou manchada na manga limpa.
 
-— O problema, Viktor, é o subproduto — Marco interveio, sua voz suave e política, feita para acalmar investidores. Ele girava sua taça de champanhe, observando as bolhas subirem. — A taxa de criminalidade nas zonas de transição subiu 15%. Viciados, Drenados... eles atacam trabalhadores honestos por migalhas de conexão. Acabei de receber um relatório de um incidente na doca de carga agora mesmo. É... inestético.
+— Vamos conversar lá fora — disse Marco.
 
-Krell sorriu, mas seus olhos permaneceram frios.
+— Você pode começar pelo dia catorze de outubro.
 
-— Inestético. Uma palavra curiosa para "desespero", Marco.
+Krell fez um movimento com a bengala. Kael saiu de trás de uma coluna, de traje tático e luvas. O executor não olhou a fotografia. Olhou o coldre.
 
-— É uma questão de saúde pública — continuou Marco, ignorando a provocação. — Por isso a Prefeitura vai aprovar a "Iniciativa Nova Alvorada" na próxima semana. Recolhimento compulsório. Vamos tirar essas cascas vazias das ruas e colocá-las em... centros de tratamento.
+— Acompanhe o detetive à saída. Inteiro.
 
-— Tratamento? — Krell ergueu uma sobrancelha, divertido. — Você quer dizer as minhas instalações de processamento biológico da LifeGen?
+Gabo viu os telefones dos convidados baixarem antes que Kael o alcançasse. Precisava de alguém olhando. Agarrou a toalha de uma mesa e puxou: cristal, caviar e garrafas se despedaçaram, e a música parou.
 
-— Chame como quiser, desde que limpe as ruas — Marco deu de ombros, pragmaticamente cruel. — Se eles querem tanto se conectar à sua rede, Viktor, vamos dar a eles uma conexão permanente. Eles deixam de ser um problema e viram... infraestrutura.
+— Dois mortos! — gritou. — Perguntem por que a polícia não pode falar do arquivo de Dante Moretti!
 
-— E o preço da vida humana? Qual é a cotação hoje na bolsa de valores? — interrompeu Gabriel, surgindo atrás deles como um fantasma de um passado moral que ambos haviam esquecido.
+Kael acertou seu estômago. Gabo perdeu o ar, depois o chão. A bota nas costas impediu que usasse o joelho para se levantar. A mão que tentou proteger o rosto deixou sangue no mármore.
 
-O silêncio caiu como uma guilhotina. Marco virou-se, o sorriso falhando por um milissegundo antes de se recuperar.
+— Sem espetáculo — disse Kael.
 
-— Gabriel. — O tom era de quem encontra um cachorro molhado no sofá da sala. — Eu não sabia que você tinha sido convidado. E... cheirando a esgoto? As coisas estão tão difíceis assim na polícia?
+Marco se agachou junto dele.
 
-Alguns convidados riram educadamente, torcendo os narizes para o cheiro de chuva ácida que emanava de Gabo.
+— Você veio sem prova, Gabriel. Agora eles têm a gravação de você invadindo uma festa.
 
-— É o cheiro da cidade que você governa, Marco. O cheiro que os filtros de ar da sua torre não conseguem esconder. — Gabriel virou-se para Krell. — Sr. Krell. Belo evento. Celebração pelo novo contrato com a Prefeitura ou pelo exército de desempregados que suas máquinas criaram no porto?
+— Pergunte ao Krell sobre a data.
 
-Krell girou sua cadeira flutuante lentamente. Ele olhou para Gabriel de cima a baixo, como um entomologista analisando um besouro.
+O irmão olhou para a cadeira flutuante. Ficou tempo demais sem responder.
 
-— Detetive Moretti. O filho pródigo. — Krell sorriu, revelando dentes perfeitamente alinhados. — Desemprego é uma palavra feia. Eu prefiro "liberação de mão de obra para tarefas mais... criativas".
+Na saída de serviço, os seguranças o soltaram sobre o concreto. Gabo esperou a náusea passar antes de procurar o comunicador. Aria continuava no adaptador; a carcaça tinha aberto um corte na pele sob a gola. Uma mensagem recebida durante a expulsão pedia uma chave.
 
-— Criativas como morrer de fome? Ou como virar cobaia no Projeto Lázaro?
+Ele tentou a data do relógio. O texto abriu: *“O Padre espera no confessionário. Estação Central abandonada. Linha Vermelha. Venha sozinho. Traga o perdão, ou munição.”*
 
-A menção do projeto fez Marco empalidecer. Krell, no entanto, apenas riu. Uma risada seca, sem humor.
+— *A chave abriu o texto. Não identifica o remetente*, disse Aria.
 
-— Você tem a ousadia do seu pai, Detetive. Dante também não sabia quando parar. Ele era um homem... robusto. Grande. — Krell apertou o punho de sua bengala. — Eu sempre apreciei como os grandes caem fazendo tanto barulho.
+Gabo enviou a mensagem original e a localização à detetive Cruz. *Vou procurar Miranda. Se eu não responder, comece pela estação.* A resposta veio quando alcançou o carro: *Não entre antes de eu chegar ao perímetro.*
 
-— Eu tenho as duas fotos, Krell. A do meu pai, a da delegacia. O que o "Taxidermista" tem a ver com vocês?
+Ele cuspiu sangue no meio-fio. Pelo vidro da guarita, o estivador já não aparecia. Gabo procurou na doca, entre os caminhões, e não o encontrou.
 
-— Tudo está conectado, Detetive. O caos que você vê nas ruas... é apenas a matéria-prima. Nós vendemos a ordem.
-
-— Você está cansado, Gabriel. Emocional. Talvez devesse aceitar um drinque e ir para casa.
-
-Krell fez um gesto quase imperceptível com a bengala. Da sombra de uma coluna, uma figura se destacou.
-
-Kael. "O Cirurgião".
-
-Ele não usava terno, mas um traje tático de gala. Suas mãos estavam enluvadas, mas Gabriel sabia o que havia por baixo: aço e morte.
-
-— Acompanhe o Sr. Moretti até a saída — ordenou Krell. — Mas não o quebre... ainda. Ele me diverte.
-
-Kael avançou. Gabriel sabia que não podia vencer numa luta corporal, não contra um ciborgue de combate classe militar. Mas ele não precisava vencer. Precisava de uma cena.
-
-Ele agarrou a toalha da mesa mais próxima com a esquerda e puxou. Cristais, garrafas caras e pratos de caviar voaram, estilhaçando-se no chão com um estrondo que parou a festa inteira.
-
-— Sorriam para as câmeras! — gritou Gabriel, erguendo o distintivo manchado de sangue. — O show de horrores começou! Fachada bonita escondendo sujeira!
-
-Kael o alcançou antes que ele pudesse dar mais um passo. O movimento foi um borrão. Gabriel sentiu um impacto no estômago que tirou todo o ar de seus pulmões, seguido por uma rasteira que o fez bater o rosto no chão polido.
-
-O ciborgue colocou uma bota pesada sobre as costas de Gabriel, pressionando a coluna.
-
-— Sem show, Detetive — a voz de Kael era um zumbido sintetizado, sem entonação humana.
-
-Marco se ajoelhou ao lado do irmão, perto do ouvido dele.
-
-— Você é um idiota, Gabo. Você veio aqui latir, mas não tem dentes. Saia antes que ela mande ele quebrar sua espinha. Eu não posso te salvar duas vezes.
-
-— Pergunte a ela... sobre o dia 14 de Outubro... — engasgou Gabriel.
-
-Marco hesitou. Havia dúvida em seus olhos. Mas ele se levantou e fez um sinal para os seguranças.
-
-— Tirem ele daqui. Joguem na rua.
-
-Enquanto era arrastado pelos corredores de serviço, sangrando pelo nariz, o comunicador de Gabriel vibrou no bolso. Ele conseguiu pegá-lo antes de ser jogado na sarjeta fria fora da torre.
-
-Uma mensagem. Criptografada. Mas a chave era a data no relógio da foto.
-
-A mensagem dizia: *"Você faz muito barulho, Detetive. Se quiser respostas, pare de gritar e comece a ouvir. O Padre está esperando no confessionário. Estação Central abandonada. Linha Vermelha. Venha sozinho. Traga o perdão, ou traga munição."*
-
-Gabriel se levantou, limpando o sangue da boca com as costas da mão esquerda, ainda suja de lama. Ele cuspiu um coágulo escuro no asfalto molhado e tocou o lábio partido. Ardia como o inferno, mas os dentes ainda estavam todos lá.
-
-— Ótimo — resmungou, sentindo o gosto de ferro e tocando o Colar de Sol sob a camisa para se certificar de que ainda estava inteiro. — Menos mal.
-
-A chuva lavava a humilhação externa, mas deixava a fúria intacta.
-
-— Estação Central — murmurou ele, mancando em direção ao carro. — Miranda. O homem morto vai falar.
+Abriu a porta do *Cobalt* com a esquerda. Na tela, o pedido de Valéria continuava sem confirmação de leitura.

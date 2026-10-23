@@ -1,25 +1,17 @@
----
-estado: revisado
-capitulo: 119
----
+# Revisão de Capítulo 119: Cinzas Frias
 
-# Análise Crítica - Capítulo 119
+Fonte: [capítulo 119](/capitulo-119.md).
 
-## Metadados
-- **Capítulo:** 119: Cinzas Frias
-- **Data de Revisão:** (Atual)
-- **Revisor:** AI
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-## Avaliação Técnica (1-10)
-- **Ritmo:** 8/10
-- **Diálogo:** 8/10
-- **Atmosfera:** 9/10
+## Passagens de entrada e saída
 
-## Pontos Fortes e Fracos
-- **Fortes:** O rescaldo da batalha com o apagão da cidade servem como um epílogo fantástico para o arco.
-- **Fracos:** Havia um erro grotesco no personagem de Gabo em que ele "desejava fumar" para aliviar a tensão. Sendo que seu background aponta que ele tem *aversão a cigarro*, foi necessário substituir o desejo por uma alucinação de asfixia que ele domina usando a dor (o Colar de Sol queimando no peito).
+> A gravidade parecia ter dobrado. Não era apenas o cansaço brutal nas órteses de Gabo enquanto ele e Valéria corriam pelos corredores em ruínas em direção à Doca de Carga B; era o peso do que tinham acabado de fazer.
 
-## Sanity Check
-- **Aversão a Fumo:** Verificado. Violação gravíssima de lore revertida. A "vontade de fumar" foi substituída por uma "alucinação de asfixia em fumaça" desencadeada pela biomassa, da qual ele se livra ao infligir dor física a si mesmo, reafirmando sua fobia. "Corredores fumegantes" alterado para "corredores em ruínas".
-- **Coerência de Plot:** Excelente. A escuridão da metrópole mostra a queda da Aeterna.
-- **Lore Updates:** Tudo coerente.
+### Saída
+
+> Eles saíram para a chuva fria, deixando as ruínas da Prometeu para trás. Não havia fanfarra, nem vitória gloriosa. Apenas três sobreviventes de carne e osso — e uma inteligência artificial adormecida num cilindro de titânio — mancando na escuridão, enquanto o cheiro de chuva limpa começava, lentamente, a lavar o cheiro de carne queimada.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

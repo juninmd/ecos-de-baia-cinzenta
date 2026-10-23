@@ -15,11 +15,11 @@ O que veio de dentro não foi som. Foi ausência de som.
 
 Eu tinha esquecido que existia diferença. Nos últimos meses, o silêncio de Baía Cinzenta sempre teve textura: goteira, ferrugem se assentando, o estalo distante de alguma coisa orgânica crescendo onde não devia. Aquilo ali era outra categoria. Um silêncio construído, projetado, pago caro. Um silêncio que custou dinheiro.
 
-— Pressão positiva, — Valéria disse atrás de mim. — O ar está saindo, não entrando. A câmara se mantém acima da pressão externa desde que foi selada. Isso significa que nada lá de fora entrou aqui. Nunca.
+— Pressão positiva, — Valéria disse atrás de mim. — O ar está saindo, não entrando. O mostrador confirma pressão interna maior agora. Não temos o histórico para dizer que nunca houve uma falha.
 
 — E o que significa a gente entrar?
 
-— Significa que nós somos a primeira contaminação.
+— Significa que vamos levar sujeira para dentro. Não encostem nos berços.
 
 Eu ri. Doeu no ombro, e a risada virou tosse, e a tosse trouxe gosto de moeda velha para a boca. A febre estava subindo desde a passarela; meus músculos continuavam sangrando sob as bandagens após a fixação da fratura por Vasco, e agora eu conseguia sentir meu próprio pulso batendo dentro do ferimento, como se houvesse um segundo coração alojado ali, menor e mais raivoso que o primeiro.
 
@@ -53,7 +53,7 @@ Não havia poluição. Não havia o azedume da chuva ácida que corrói Baía Ci
 
 Encostei a testa na parede fria de epóxi e fiquei ali, respirando devagar, como um condenado que acabava de receber uma trégua inesperada no meio da tempestade.
 
-— Gabo, — a voz de Valéria soou suave ao meu lado. Ela parou a um passo de mim, os olhos prateados analisando meu rosto com uma mistura de alívio e preocupação genuína. Ela tocou a lateral da minha têmpora com a ponta dos dedos enluvados. — Sua temperatura tá beirando os quarenta graus. Você tá com um princípio violento de sepse por causa desse ombro estraçalhado. Respira fundo esse oxigênio puro enquanto a gente tem tempo.
+— Gabo, — a voz de Valéria soou suave ao meu lado. Ela parou a um passo de mim, os olhos prateados analisando meu rosto com uma mistura de alívio e preocupação genuína. Ela tocou a lateral da minha têmpora com a ponta dos dedos enluvados. — Você está quente e confuso. Esse ferimento precisa de atendimento; pelo toque eu não sei sua temperatura nem o que a infecção alcançou. Vamos procurar uma enfermaria. Aqui entra ar filtrado, não oxigênio puro.
 
 — Deixa eu aproveitar o silêncio, Val, — murmurei, abrindo os olhos e encarando o corredor imaculado.
 
@@ -67,7 +67,7 @@ Ele estava chorando.
 
 — Ei. — Fui até ele, mancando. — Ei, Elias.
 
-— É limpo. — Ele falou por trás da mão, e a voz saiu quebrada em pedaços pequenos. — Cara, é limpo. Eu esqueci. Eu esqueci que o ar podia ser assim. Eu fiquei trancado naquela sala catorze meses respirando meu próprio... eu esqueci.
+— É limpo. — Ele falou por trás da mão, e a voz saiu quebrada em pedaços pequenos. — Cara, é limpo. Eu esqueci. Eu esqueci que o ar podia ser assim. Eu fiquei trancado naquela sala meses respirando meu próprio... eu esqueci.
 
 Ele encostou nas costas na parede branca e escorregou até o chão, e ficou lá sentado, chorando de forma feia e sem vergonha nenhuma, do jeito que uma pessoa normal chora.
 
@@ -83,10 +83,9 @@ O corredor terminava em uma antecâmara hexagonal.
 
 Seis portas. Cinco fechadas, uma entreaberta. No centro, um pedestal de aço escovado com uma placa fundida — não impressa, *fundida*, letras em relevo, do jeito que se faz quando você espera que alguém leia aquilo daqui a quinhentos anos.
 
-**INSTALAÇÃO ZERO — CUIDADO PERPÉTUO**
-**AETERNA S.A.**
-**"A memória não apodrece."**
-
+INSTALAÇÃO ZERO — CUIDADO PERPÉTUO
+AETERNA S.A.
+"A memória não apodrece."
 Li três vezes.
 
 — Aeterna, — falei. — Cuidado perpétuo.
@@ -127,7 +126,7 @@ Eu cheguei até o vidro. Limpei a condensação com a lateral da mão de carne.
 
 E o rosto que apareceu do outro lado eu conhecia.
 
-Eu conhecia daquele rosto o suficiente para saber que, se ela estava ali, dormindo limpa e intacta enquanto a cidade inteira apodrecia trinta andares acima da cabeça dela, então nada — absolutamente nada — do que aconteceu com Baía Cinzenta tinha sido acidente.
+Eu conhecia daquele rosto o suficiente para saber que, se ela estava ali, dormindo limpa e intacta enquanto a cidade inteira apodrecia centenas de metros acima da cabeça dela, então nada — absolutamente nada — do que aconteceu com Baía Cinzenta tinha sido acidente.
 
 — Valéria, — eu disse, e minha voz saiu estranha até para mim. — Me diz que esse painel está quebrado.
 
@@ -135,6 +134,6 @@ Eu conhecia daquele rosto o suficiente para saber que, se ela estava ali, dormin
 
 — Elevada.
 
-— Ela não está inconsciente, Gabo. — Valéria virou o rosto para mim, e o azul dos olhos dela iluminou o vidro entre nós dois. — Seja o que for que esse berço faz, ele não desliga a mente. Ela está acordada aí dentro.
+— O painel registra atividade; não diz quanto ela percebe, Gabo. — Valéria virou o rosto para mim, e o prateado dos olhos dela iluminou o vidro entre nós dois. — Seja o que for que esse berço faz, ele não desliga a mente. Pode haver alguém nos ouvindo aí dentro.
 
 E, do outro lado do vidro, a Dra. Elara Vance abriu os olhos azul-gelo e olhou diretamente para mim.

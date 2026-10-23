@@ -7,7 +7,7 @@ Personagens Presentes: Gabo, Valéria
 
 # Capítulo 182: A Superfície Pálida
 
-O corredor ascendente fedia a ferrugem antiga e urina ressecada, mas à medida que subíamos, o ar se tornava mais ralo e agressivo. A umidade sufocante do duto de escoamento foi substituída pelo toque áspero do vento carregado de toxinas. O som contínuo dos meus passos era pontuado pelo chiado errático dos servos do meu braço protético, um lembrete constante da sucata que eu me tornara.
+O corredor ascendente fedia a ferrugem antiga e urina ressecada, mas à medida que subíamos, o ar se tornava mais ralo e agressivo. A umidade sufocante do duto de escoamento foi substituída pelo toque áspero do vento carregado de toxinas. O som contínuo dos meus passos era pontuado pelo chiado errático dos servos do suporte externo do meu braço, um lembrete constante da sucata que eu me tornara.
 
 Quando finalmente cruzamos a grade retorcida que marcava o fim do poço de exaustão, o céu do Distrito 4 se abriu sobre nós como um hematoma putrefato.
 
@@ -53,17 +53,17 @@ O alívio na pressão do joelho foi instantâneo. A tensão que repuxava meu qua
 
 — Muito melhor — admiti, engolindo o orgulho. — Onde você aprendeu a regular órtese médica de modelo policial antigo?
 
-— O meu tio usava uma igualzinha quando perdeu a perna nas prensas da Doca Seca — ela se levantou, limpando a ferrugem dos dedos na perna da calça. — Ele vivia reclamando que a polícia recebia equipamento de segunda linha que travava toda vez que chovia. Parece que vinte anos depois a corporação continuou economizando no mesmo fornecedor vagabundo.
+— O meu tio usava uma igualzinha quando perdeu a perna nas prensas da Doca Seca — ela se levantou, limpando a ferrugem dos dedos na perna da calça. — Ele vivia reclamando que a clínica recebia peças reaproveitadas dos equipamentos da polícia, que travavam toda vez que chovia. Parece que vinte anos depois a corporação continuou economizando no mesmo fornecedor vagabundo.
 
 Olhei para o horizonte em direção ao norte. Entre a névoa amarelada do smog, destacavam-se os arcos de aço monumental da Estação Ferroviária do Setor 7. As vigas enferrujadas subiam como as costelas de uma baleia encalhada no meio da cinza.
 
-— É pra lá que a gente tem que ir — apontei com a mão de metal pesada. — O complexo hidropônico fica logo abaixo daquela estação terminal. Se o Silas Vance deixou servidores secundários ativos, eles tão alimentando a malha subterrânea a partir da subestação de lá.
+— A passagem que o Fantasma indicou cruza aquele ramal — apontei com a mão de metal pesada. — O complexo hidropônico fica logo abaixo daquela estação terminal. Se houver servidor ativo lá, precisamos confirmar pelo terminal. O que vimos nos catadores não localiza sozinho o comando da rede.
 
 Valéria olhou para a silhueta das ruínas industriais, a respiração formando pequenas nuvens esbranquiçadas no ar frio.
 
 — O Silas morreu, mas a podridão dele continua crescendo feito erva daninha na sombra. A gente viu o que aquele fungo tava fazendo com os catadores lá embaixo, Gabo... Se o sistema hidropônico inteiro tiver sido infectado, aquilo não é mais uma estufa. É uma colmeia.
 
-— Então a gente vai com cuidado — ajeitei a correia de *Caronte* por baixo do casaco, sentindo o peso familiar da coronha de madeira contra a minha cintura. — Se o Jardim tiver tomado o setor, a gente queima as raízes e segue pro Arquivo.
+— Então a gente vai com cuidado — ajeitei a correia de *Caronte* por baixo do casaco, sentindo o peso familiar da coronha de madeira contra a minha cintura. — Se o Jardim tiver tomado o setor, a gente procura uma passagem que não dependa de atravessar as raízes. O arquivo que desligamos não é um destino para onde voltar às cegas.
 
 Valéria soltou um suspiro pesado, puxando o capuz da jaqueta para proteger os conectores temporais do vento cortante.
 

@@ -1,11 +1,9 @@
-## Metadados
-- **Título:** Ponto de Fusão
-- **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
-- **Localização:** Necrópole (O Estúdio do Taxidermista -> Duto de Descarte)
-- **Personagens Presentes:** Gabo, Valéria, Aria (Reboot), Rangel (Inconsciente), O Taxidermista (Antagonista)
-- **Resumo:** Com o Protocolo de Limpeza ativado, o Estúdio se transforma em uma fornalha. Valéria falha em hackear as saídas blindadas pelo painel central, mas Aria — operando a partir de seu drive neural acoplado ao cyberdeck — identifica um duto de descarte de biomassa como única rota de fuga. Valéria espeta o pendrive blindado de Aria na porta de serviço da comporta, enquanto Gabo, lutando contra o calor extremo e a alucinação de fumaça, usa a dor física e um vergalhão para forçar a grade superaquecida, permitindo que o grupo escape para as profundezas da Necrópole momentos antes da incineração total.
-
-## Narrativa
+---
+title: "Capítulo 140: Ponto de Fusão"
+Data In-Game: "Pós-Colapso da Usina Prometeu (Noite Eterna)"
+Localização: "Necrópole (O Estúdio do Taxidermista -> Duto de Descarte)"
+Personagens Presentes: "Gabo, Valéria, Aria (Reboot), Rangel (Inconsciente), O Taxidermista (Antagonista)"
+---
 
 # Capítulo 140: Ponto de Fusão
 
@@ -13,7 +11,7 @@ O calor não veio de uma vez. Ele cresceu, pesado e sufocante, como um cobertor 
 
 As paredes brancas do Estúdio começaram a perder a cor, distorcidas pelas ondas de calor que emanavam dos painéis de piso. O cheiro de ozônio e sangue, que antes dominava o ar, foi substituído pelo fedor acre de plástico queimado e cabelo chamuscado.
 
-— Temperatura ambiente: 68 graus Celsius — a voz sintética e monocórdica de Aria cortou o zumbido crescente dos incineradores, saindo pelo alto-falante do comunicador tático na gola de Gabo. Acoplado à porta lateral do cyberdeck *Phantom V3* no pulso de Valéria, o drive neural blindado da IA piscava seu LED azul-gelo em frequência frenética. — Aumento de zero vírgula dois graus por segundo. Colapso biológico em noventa segundos.
+— Temperatura ambiente: 68 graus Celsius — a voz sintética e monocórdica de Aria cortou o zumbido crescente dos incineradores, saindo pelo alto-falante do comunicador tático na gola de Gabo. Acoplado à porta lateral do cyberdeck *Phantom V3* no pulso de Valéria, o drive neural blindado da IA piscava seu LED azul-gelo em frequência frenética. — Aumento de zero vírgula dois graus por segundo. O calor está subindo. Não tenho como dar um prazo seguro; temos de sair agora.
 
 Gabo tossiu, o ar seco arranhando sua garganta. Ele olhou para cima. Atrás da cúpula de vidro blindado, o Taxidermista observava. Ele não sorria. Apenas assistia, com as mãos cruzadas nas costas, como um cientista observando uma cultura de bactérias ser esterilizada.
 
@@ -55,8 +53,7 @@ O ar estava irrespirável agora. As bordas de sua visão escureciam. O Taxidermi
 
 Eles puxaram juntos o vergalhão, enquanto o pendrive de Aria forçava os últimos milímetros do trinco elétrico. O vergalhão envergou. Os músculos de Gabo gritaram, tendões estalando sob a tensão. O cheiro de metal superaquecido e ozônio invadiu suas narinas, impulsionando a adrenalina ao limite.
 
-*CRACK.*
-
+CRACK.
 A ferrugem cedeu junto com o estalo final do relé queimado. A grade foi arrancada com um som de rasgo violento e caiu para o lado, tinindo no chão.
 
 Um buraco negro se abriu no piso branco. O cheiro que subiu dele era de podridão antiga e umidade fria. Nunca um cheiro de esgoto foi tão bem-vindo.
@@ -83,7 +80,7 @@ Acima deles, um clarão laranja iluminou a abertura do duto por um segundo, segu
 
 Eles estavam em uma caverna natural, o chão coberto por uma montanha de ossos, próteses descartadas e carne em decomposição. O "lixão" do artista.
 
-— Temperatura ambiente: dezoito graus — disse Aria pelo alto-falante do deck, sua carcaça metálica ainda dissipando o calor extremo do estúdio. — Os sinais vitais de Rangel estão estáveis, mas o estresse térmico acelerou a infecção residual. Precisamos de antibióticos ou resfriamento imediato.
+— Temperatura ambiente: dezoito graus — disse Aria pelo alto-falante do deck, sua carcaça metálica ainda dissipando o calor extremo do estúdio. — Rangel ainda tem pulso e respiração. Isso não confirma estabilidade nem mede a infecção. Precisamos restabelecer contato com Nise e o transporte.
 
 Gabo se levantou, limpando a sujeira da roupa. Suas mãos estavam vermelhas, cheias de bolhas onde seguraram o vergalhão e o colar. Elas tremiam. Não de medo, mas da descarga de adrenalina.
 

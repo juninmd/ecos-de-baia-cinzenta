@@ -1,18 +1,17 @@
-# Análise Crítica - Capítulo 209: Cristais de Óxido
+# Revisão de Capítulo 209: Cristais de Óxido
 
-## Avaliação Técnica
-- **Ritmo (Pacing): 8.5/10**. O pacing foca no obstáculo geográfico fatal (o campo de cristais de óxido cortantes) e no custo físico que a lentidão acarreta sob frio extremo. Isso eleva a tensão através do esgotamento, e não apenas pelo choque direto.
-- **Diálogos: 8.5/10**. Diálogos pontuais onde Valéria oferece estatísticas mortais desprovidas de conforto, e Gabo responde com ação e autoridade baseadas em seu trauma.
-- **Atmosfera: 9.0/10**. A estética visual do corredor coberto por espetos cristalizados e translúcidos escuros aprofunda a ambientação biomecânica/corrompida que caracteriza o jogo de sobrevivência no Setor 6.
+Fonte: [capítulo 209](/capitulo-209.md).
 
-## Pontos Fortes e Fracos
-- **Pontos Fortes**: A debilitação física progressiva (lubrificação congelada na órtese da perna de Gabo, tremores em sua biologia padrão) cimenta o fato de que eles não são super-heróis blindados. A aparição de uma memória traumática de fumaça — repelida prontamente via dor física (Gabo esmagando os tendões feridos do braço) — honra totalmente o *lore* central de sua fobia.
-- **Pontos Fracos**: Apenas a passividade rápida de Elias na cena pode parecer repetitiva, contudo, é a reação mais natural esperada de seu arquétipo no grupo.
+A marca antiga do cabo não certifica sua resistência atual. Uma segunda linha de segurança entra no plano antes de ser exigida pela queda.
 
-## Sanity Check
-- **Gabo interagiu com algum fumante? Como sua repulsa foi demonstrada?** Gabo não encontrou fumantes, mas a claustrofobia induzida pelo medo quase lhe trouxe a alucinação fóbica asfixiante e nauseante da fumaça (cheiro fantasma do charuto). Ele baniu o terror esmagando os tendões feridos de seu braço/ombro, usando a dor física crua para se ancorar à realidade, em absoluta concordância com sua *lore*.
-- **O plot twist deste capítulo invalida algo estabelecido nos capítulos anteriores?** Não há quebra de continuidade. O fato das órteses de Gabo começarem a falhar pelo frio e falta de lubrificação respeita as regras da física cibernética de baixo custo do universo do livro.
-- **O resumo da lore foi atualizado com os novos eventos?** Sim. Os efeitos secundários (cristalização cortante) da mescla Jardim-Ferrugem se revelam um obstáculo táctico grave no percurso, forçando um desvio vertical e perigoso do grupo.
+## Passagens de entrada e saída
 
-## Avaliação Qualitativa
-A história se mantém coerente com a narrativa *Hardboiled* baseada na sobrevivência. Não se faz necessária a inserção de novos personagens, mantendo a vulnerabilidade claustrofóbica do trio perfeitamente intacta. O capítulo amarra brilhantemente as interações biológicas com desafios de navegação e atrito mecânico.
+> O frio da câmara de resfriamento cobrava um tributo metódico e implacável a cada respiração. Frio subterrâneo não é apenas desconforto térmico; é um imposto biológico. Ele rouba a sensibilidade das pontas dos dedos, reduz a flexibilidade dos tendões e transforma a cartilagem dos joelhos em vidro quebradiço. Minha perna esquerda tremia em espasmos involuntários, com a órtese emperrada arranhando o piso a cada passo claudicante.
+
+### Saída
+
+> O silêncio do abismo voltou a nos cercar, pesado e indiferente, quebrado apenas pelo tique-taque distante dos cristais de óxido que continuavam crescendo na escuridão, devorando o pouco calor que ainda nos mantinha vivos.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

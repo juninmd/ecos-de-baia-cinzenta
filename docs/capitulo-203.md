@@ -7,7 +7,7 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 # Capítulo 203: Sombras de Aeterna
 
-O arrasto dos meus coturnos pelo chão de concreto produzia um som áspero, quase rítmico, como uma lixa desgastando uma lâmina velha. Minha perna esquerda dependia inteiramente do suporte rígido da órtese queimada, cujas engrenagens soltavam um silvo asmático a cada passada que eu forçava para a frente. O braço mecânico de sucata instalado por Vasco, embora bem atado pelas bandagens improvisadas de Valéria, pesava como chumbo morto no meu flanco, mas a carne dilacerada pelo vergalhão mantinha meus sentidos em alerta máximo. Não havia espaço para névoa na cabeça; a dor crua era o único lembrete de que eu ainda respirava o ar podre deste subsolo desde a queda na Torre Aeterna anos atrás.
+O arrasto dos meus coturnos pelo chão de concreto produzia um som áspero, quase rítmico, como uma lixa desgastando uma lâmina velha. Minha perna esquerda dependia inteiramente do suporte rígido da órtese queimada, cujas engrenagens soltavam um silvo asmático a cada passada que eu forçava para a frente. O braço mecânico de sucata instalado por Vasco, embora bem atado pelas bandagens improvisadas de Valéria, pesava como chumbo morto no meu flanco, mas a carne dilacerada pelo vergalhão mantinha meus sentidos em alerta máximo. Não havia espaço para névoa na cabeça; a dor crua era o único lembrete de que eu ainda respirava o ar podre deste subsolo desde a queda na Torre Aeterna.
 
 O corredor de concreto continuou sua trajetória monótona por quase cem metros até curvar-se bruscamente à direita. Foi ali que a frieza estéril da arquitetura corporativa encontrou seu primeiro túmulo.
 
@@ -15,7 +15,7 @@ A luz azulada que escapava das ópticas do cyberdeck de Valéria cortou a escuri
 
 O concreto estava estourado de dentro para fora, como se veias subterrâneas de ferrugem tivessem se expandido em espasmos febris. O óxido avermelhado não se limitava a manchar as tubulações mestras — ele as havia triturado em uma crosta escamosa que se soltava em placas soltas, acumulando montes de pó metálico no piso. No centro do colapso, duas gigantescas portas corta-fogo de aço temperado jaziam torcidas para fora dos trilhos, comidas por uma corrosão química que parecia ter fervido o metal antes de esfriar.
 
-— Olha pra isso... — sussurrou Valéria, diminuindo o passo e se agachando perto de uma viga decepada. Ela correu a ponta enluvada dos dedos sobre a poeira alaranjada, esfregando os grãos entre o polegar e o indicador antes de levar à altura dos olhos prateados. — Corrosão catalítica acelerada. A Aeterna não cometeu um acidente aqui; cometeu uma faxina geral.
+— Olha pra isso... — sussurrou Valéria, diminuindo o passo e se agachando perto de uma viga decepada. Ela correu a ponta enluvada dos dedos sobre a poeira alaranjada, esfregando os grãos entre o polegar e o indicador antes de levar à altura dos olhos prateados. — Corrosão catalítica acelerada. Parece a corrosão que vimos no enclave. Só que estas marcas estão por baixo de camadas antigas. Se são do expurgo de trinta e oito, alguém já tinha usado algo parecido antes do Jardim.
 
 — Níveis de contenção da Praga de Ferro? — perguntei, segurando a *Caronte* pelo cano curto e apoiando o peso na soleira.
 
@@ -25,7 +25,7 @@ Elias deu dois passos à frente, mantendo-se colado às minhas costas como se a 
 
 — Isso... isso foi no expurgo de trinta e oito? — perguntou ele, a voz quebrando. — Meu avô dizia que fecharam o Setor Seis por causa de uma falha de ventilação...
 
-— Seu avô era ingênuo ou trabalhava pro departamento de relações públicas da corporação, Elias, — Valéria rebateu com aquele riso seco e sem humor dos sobreviventes da Zona Baixa. — Toda vez que a Aeterna dizia 'falha de ventilação', significava que três centenas de operários tinham sido selados em câmaras de concreto para não contaminar a bolsa de valores lá no Distrito de Prata.
+— O relatório pode ter escondido o que houve, Elias. Seu avô talvez tenha repetido a única versão que deixaram circular, — Valéria rebateu com aquele riso seco e sem humor dos sobreviventes da Zona Baixa. — Toda vez que a Aeterna dizia 'falha de ventilação', significava que três centenas de operários tinham sido selados em câmaras de concreto para não contaminar a bolsa de valores lá no Distrito de Prata.
 
 Avancei com cuidado através do vão retorcido das portas duplas, meus passos levantando uma névoa fina de ferrugem que ardia nas narinas e deixava um gosto metálico de cobre na língua.
 

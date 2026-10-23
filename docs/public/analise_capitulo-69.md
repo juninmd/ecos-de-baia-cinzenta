@@ -1,16 +1,18 @@
-# Análise: Capítulo 69 - O Fantasma no Shell
+# Revisão de Capítulo 69: O Fantasma no Shell
 
-**Avaliação Técnica:**
-- Ritmo: 8/10
-- Diálogos: 9/10
-- Atmosfera: 10/10
+Fonte: [capítulo 69](/capitulo-69.md).
 
-**Pontos Fortes / Fracos:**
-- Fortes: Revelação excelente de que Aria foi compilada por Dante em um pendrive de titânio e enviada para a cabine telefônica durante o Dilúvio. A cena do terminal de computador antigo é clássica e perfeitamente executada.
-- Fracos: Nenhum significativo, o diálogo visual com a tela flui muito bem.
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-**Sanity Check (Lore):**
-- Totalmente compatível. Sem fumaça. O ambiente pútrido dos esgotos, focado no cheiro da água residual, bloqueia totalmente as necessidades somáticas relativas ao fumo e a repulsa é ignorada pela adrenalina e necessidade de ação.
+## Passagens de entrada e saída
 
-**Avaliação Qualitativa:**
-- Excelente momento de pausa estratégica, construindo profundidade no mito de Dante como programador divino na sombra, e dando peso dramático final à relação Gabo/Aria. Sem necessidade de novos personagens.
+> Esgoto principal — Nível -2.
+> O cheiro era insuportável, e era o cheiro da sobrevivência, e depois de tanto tempo lá embaixo o nariz de Gabo tinha desistido de reclamar. Isso é uma coisa que o corpo faz e que é quase uma gentileza: em poucas horas, qualquer cheiro vira o cheiro do lugar. Eles andavam pelas passarelas estreitas acima do fluxo, em fila, com a mão na parede porque o corrimão tinha sido roubado em algum ano. Lá em cima, a guerra soava como móvel sendo arrastado no andar de cima de um prédio. Isso também era estranho de suportar: cada estrondo abafado que chegava pelo concreto significava um quarteirão, e nenhum deles ia saber qual.
+
+### Saída
+
+> — Acho que a gente vai descobrir — disse Gabo, e encaixou um cartucho na *Caronte* com uma mão só, apoiando a coronha no quadril.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

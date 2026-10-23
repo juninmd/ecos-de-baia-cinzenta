@@ -51,13 +51,13 @@ Valéria se agachou a dois metros da borda da massa luminosa, os olhos prateados
 
 — Eles estão construindo uma rede própria no escuro.
 
-— E com fome de metal limpo — ela se levantou rápido, recuando um passo e apontando a lanterna para os dutos superiores, onde raízes fibrosas rastejavam como veias pulsantes sobre o concreto. — Apaga o indicador do seu ombro, Moretti. A frequência dessa luminescência é de dois hertz. Eles reagem a calor e pulso eletromagnético. Se essa colônia perceber a corrente do seu braço mecânico, essas raízes vão tentar sugar sua bateria antes de você puxar o gatilho.
+— E com fome de metal limpo — ela se levantou rápido, recuando um passo e apontando a lanterna para os dutos superiores, onde raízes fibrosas rastejavam como veias pulsantes sobre o concreto. — Apaga o indicador do seu ombro, Moretti. A frequência dessa luminescência é de dois hertz. Eles reagem a calor e pulso eletromagnético. Ela reagiu quando o sensor chegou perto, mas não sabemos se foi luz, calor ou movimento. Não encoste o suporte nela para testar.
 
 Levei a mão de carne ao painel da armação e girei o dial até o ponto morto. O LED verde do ombro morreu, e com ele morreu metade da força: os pistões travaram na posição em que estavam, e o braço virou de repente um peso de vinte quilos pendurado na clavícula, sem contrapeso, sem ajuda.
 
 — Quanto tempo? — perguntei.
 
-— Sem o indicador, a bateria não descarrega. — Ela varreu a colônia com o scanner. — Mas o motor também não trabalha. Você vai subir essa escada com o braço morto. Se escorregar, não tem pistão pra te segurar.
+— Apagar o indicador só esconde a luz. Você desligou o atuador inteiro; a bateria ainda perde carga em repouso. — Ela varreu a colônia com o scanner. — Mas o motor também não trabalha. Você vai subir essa escada com o braço morto. Se escorregar, não tem pistão pra te segurar.
 
 — Já subi pior, Val.
 

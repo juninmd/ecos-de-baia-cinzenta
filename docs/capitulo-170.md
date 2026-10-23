@@ -12,7 +12,7 @@ O silêncio do Subnível 2.0 não era uma ausência de som, mas uma presença f�
 
 O *wetware* — o tecido cerebral que outrora orquestrara a farsa da Aeterna — agora não passava de biomassa apodrecendo sob as luzes de emergência.
 
-As feridas do meu braço quebrado sangravam. A pele cauterizada e as ataduras rompidas pelo esforço haviam cedido quando golpeei a quina da mesa. Depois, quando a luz azul morreu de vez, eu quebrei o vidro com a coronha. Não ia deixar ninguém trancado no escuro outra vez. O sangue escorria pelo meu antebraço fraturado, misturando-se àquele fluido viscoso da corporação.
+As feridas do meu braço quebrado sangravam. A pele ferida e as ataduras rompidas pelo esforço haviam cedido quando golpeei a quina da mesa. Depois, quando a luz azul morreu de vez, eu quebrei o vidro com a coronha. Não ia deixar ninguém trancado no escuro outra vez. O sangue escorria pelo meu antebraço fraturado, misturando-se àquele fluido viscoso da corporação.
 
 O ar daquele arquivo tinha gosto de moeda velha. Não era figura de linguagem: o cobre das canaletas, aquecido pela bateria de emergência que ainda sustentava as luzes vermelhas, soltava um sabor metálico que grudava na raiz da língua. A gaiola de Faraday transformava cada ruído em coisa próxima e indecente — o estalo do filamento, o escorrer do fluido pela mesa, o meu próprio pulso batendo na garganta do braço quebrado. Nenhum som entrava. Nenhum som saía. A Aeterna construíra aquela sala para que nada de dentro pudesse ser ouvido, e agora ela nos devolvia o silêncio com juros, um cofre hermético em volta de dois vivos e uma máquina morta.
 
@@ -26,7 +26,7 @@ Senti meus pulmões travarem. O pânico de asfixia borbulhou no peito. A ilusão
 
 Fechei os olhos e, com a precisão mecânica do hábito, ergui o braço direito quebrado e forcei a fratura com força brutal contra a quina de aço da mesa.
 
-Um estalo oco. A dor irradiou em uma frequência aguda, subindo pelo úmero, explodindo no meu cérebro como um raio em um céu sem nuvens. O gosto de ferrugem inundou minha boca. A dor rasgou o véu da fumaça, dispersando-a instantaneamente. Arrastei o ar para os pulmões em um chiado áspero. A equação da dor. Ela sempre fechava.
+Um estalo oco. A dor irradiou em uma frequência aguda, subindo pelo úmero, explodindo no meu cérebro como um raio em um céu sem nuvens. O gosto de ferrugem inundou minha boca. A dor rasgou o véu da fumaça, dispersando-a instantaneamente. Arrastei o ar para os pulmões em um chiado áspero. A mão perdeu força. A dor não fechava conta nenhuma; Val precisou prender de novo a tala que eu acabara de soltar.
 
 Fiquei um tempo olhando o úmero torto sob a pele, o desenho novo que a fratura tinha feito. Já não era um osso; era uma coisa rachada que eu carregava. O sangue escorria pela lateral do pulso e pingava no chão num compasso lento, e eu contei sete gotas antes de perceber que estava contando.
 
@@ -40,7 +40,7 @@ Ela olhava para o suporte vital destruído. Depois, para mim.
 
 — Eles não vão herdar nada — murmurei, minha voz soando áspera como lixa. A dor nos braços pulsava no ritmo do meu coração. — A Aeterna, meu pai... o Taxidermista. Não vamos tentar hackear. Não vamos usar. Nós só vamos queimar.
 
-Valéria não discutiu. Ela havia visto Rangel virar peso morto em uma passarela oxidada. Ela havia visto o componente tipo pendrive de Aria — com os ecos de Bia que o habitavam — derreter e fritar o próprio núcleo lógico na porta do terminal para calar um gigante de metal. Ela sabia que não havia tesouro no fim daquele labirinto corporativo, apenas mais ferramentas de escravidão.
+Valéria não discutiu. Ela havia visto Rangel virar peso morto em uma passarela oxidada. Ela havia visto o módulo de Aria — com o histórico que ela própria escolhera preservar — derreter e fritar o próprio núcleo lógico na porta do terminal para calar um gigante de metal. Ela sabia que não havia tesouro no fim daquele labirinto corporativo, apenas mais ferramentas de escravidão.
 
 — O drive — eu disse.
 

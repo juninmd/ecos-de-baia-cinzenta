@@ -1,136 +1,138 @@
 ---
 image: /capitulo_12.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Roberto Miranda
-Localização: "Esgoto pluvial do Distrito da Névoa → Bunker sob a Torre Aeterna (caverna da máquina orgânica)"
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria (módulo no deck), Roberto Miranda, pessoas submetidas ao Shadowban
+Localização: "Galeria pluvial do Distrito da Névoa → garagem de manutenção → bunker sob a Torre Aeterna"
 ---
 # Capítulo 12: Cancelamento
 
-O esgoto pluvial do Distrito da Névoa era um rio de lixo químico. Gabriel e Valéria caminhavam com água até os joelhos, guiados apenas pela luz fraca do relógio de Valéria.
+Na terceira parada, Valéria deixou de perguntar quanto faltava. Sentou-se num degrau acima da água e abriu o aviso que pedira a Gabo para guardar. O contador das funções óticas marcava quatro horas e vinte minutos.
 
-— Minhas contas foram congeladas — disse Valéria de repente, parando. Ela olhava para o ar, para telas que só ela via. — Meu ID de cidadã... inválido. Gabo, eles me apagaram.
+A galeria cheirava a detergente azedo e cobre quente. A chuva entrava pelas grelhas com um ruído de fritura. Gabo manteve a lanterna sobre o tornozelo imobilizado dela; o tecido estava encharcado, e a pele começava a inchar acima da faixa.
 
-— Bem-vinda ao clube — disse Gabriel. — Ser um fantasma tem suas vantagens. Ninguém espera que você revide.
+— Não é só o olho — disse Valéria. Virou o deck. — Conta bloqueada. Transporte negado. Meu pedido de atendimento foi encerrado porque a paciente não existe.
 
-— Não, você não entende! — A voz dela subiu uma oitava. — Sem ID, eu não posso comprar comida. Não posso pegar transporte. Meus implantes... eles precisam de atualizações de licença diárias. Se eu não validar... eles desligam.
+Gabo olhou o campo vazio onde estivera o nome. Ainda havia uma cobrança.
 
-Ela tocou o olho biônico.
+— Você salvou o aviso?
 
-— Eu vou ficar cega em doze horas.
+— Salvei. Posso provar que estão me desligando. Não posso pagar alguém para impedir.
 
-Gabriel parou e segurou os ombros dela.
+Ele tirou o cantil do bolso. Restavam dois goles; deixou os dois com ela.
 
-— Vamos resolver isso antes.
+— O bunker tem uma central de autorizações — disse. — Se a planta de Nise estiver certa.
 
-— Doze horas — repetiu ele, e a palavra ficou entre os dois como uma pedra.
+— Também tinha segurança genética no contrato da obra. Eu li a licitação. Não li a porta.
 
-Ele sabia consertar coisas: motores, fechaduras, pessoas que não queriam falar. Não sabia consertar um corpo que estava sendo desligado por um servidor.
+Gabo tocou a cicatriz da tentativa de retirar o chip. Debaixo dela não sentiu chave nenhuma, só uma dor funda.
 
-— Se der errado — disse Valéria, e a voz estava estranhamente calma, o que significava que ela tinha medo — você me mata. Não me deixa aqui, cega, esperando o próximo cancelamento.
+— Vamos olhar a porta.
 
-— Não.
+Valéria não se levantou.
 
-— Gabo.
+— Se eu perder a visão, não me deixa aqui. Não me entrega num posto que vai me vender por peça.
 
-— Eu disse não. — Ele voltou a andar. — Você não vai me pedir isso com fome e com água no joelho.
+Ele se agachou, apoiando o peso no joelho bom.
 
-— Como? Estamos no esgoto, falidos e sendo caçados pela cidade inteira!
+— A gente muda o caminho. Você continua comigo.
 
-— Vamos até a fonte. O bunker sob a Torre.
+— Não promete que consegue consertar.
 
-— É impossível entrar lá. A segurança é biometria de nível genético.
+Gabo fechou a boca. Estivera prestes a prometer.
 
-— Eu tenho a chave — Gabriel bateu no estômago, onde o chip estava. — E tenho você.
+O trajeto cobrou a água que tinham bebido e mais uma hora. Em duas bifurcações, a marca de Nise não correspondia à passagem: uma fora concretada, a outra recebia o despejo de uma caldeira. Voltaram, com a lanterna apagada quando ouviam motores nas grelhas. Valéria apoiava o antebraço nas costas dele, sem usar as palmas feridas.
 
-Eles continuaram. A caminhada durou horas, subindo pelos níveis da cidade através das artérias subterrâneas, evitando patrulhas de drones e scanners de rua.
+A saída dava para uma garagem de manutenção atrás da Torre. Pela abertura do portão, Gabo viu a neblina noturna e um drone passar sem diminuir. Esperou outra volta antes de empurrar a chapa solta.
 
-O esgoto era um organismo. Havia calor saindo das paredes, e o calor tinha cheiro de sabão e cobre. Ratos atravessavam a água sem fazer barulho, e uma vez Gabriel sentiu alguma coisa passar pela perna que não era rato nem água. Não olhou para baixo. Olhar para baixo, ali, era como perguntar o preço da própria coragem.
+No abrigo seco, conferiu a Glock. Sete cartuchos ao todo. Recolocou o carregador com a base da mão, apertando os dentes quando o curativo da palma cedeu.
 
-Valéria falava pouco. A cada vinte passos piscava duas vezes, e a cada piscar o rosto ficava meio segundo mais velho.
+O elevador de carga tinha um leitor na altura da cintura. Valéria conectou o deck à porta de diagnóstico; Aria permaneceu alimentada no barramento lateral.
 
-Quando chegaram ao perímetro da Torre de Marfim, já era noite. A chuva havia parado, substituída por uma neblina densa que cobria o topo dos arranha-céus.
+— *Há um pedido de credencial por proximidade* — disse a IA. — *Não recebo o conteúdo do seu chip.*
 
-A entrada do bunker ficava em uma garagem de manutenção abandonada. Gabriel arrombou a porta com um pé-de-cabra.
+Gabo aproximou o corpo da coluna. Um número apareceu no visor. Valéria o comparou com a identificação externa fotografada na clínica: era o mesmo. A linha seguinte dispensava a verificação biométrica mediante autorização de um operador remoto.
 
-Lá dentro, o ar era frio e estéril. Um elevador de carga esperava.
+— Bem-vindo, Comissário Moretti — disse o elevador.
 
-— Ele só desce — disse Valéria, hackeando o painel. — E só com autorização.
+Gabo recuou.
 
-Gabriel colocou a mão no leitor. O sistema leu seu DNA, leu o chip em seu estômago.
+— Meu pai.
 
-*— Bem-vindo, Comissário Moretti.* — A voz do sistema era antiga, pré-guerra.
+— *É uma saudação, Gabo. Não uma identificação.*
 
-Gabriel tirou a mão do leitor como se tivesse sido queimado.
+Valéria salvou a tela inteira.
 
-— Comissário — repetiu Valéria. — É o seu pai que está no arquivo ou é você?
+— O nome é dele. O chip está com você. Alguém autorizou. Escolhe qual dessas três coisas você sabe explicar.
 
-— Os dois. — Ele entrou no elevador. — É assim que essas coisas funcionam.
+Nenhuma. Entrou mesmo assim. Quando as portas fecharam, já não havia sinal para enviar a localização a Vilar.
 
-As portas se abriram.
+O elevador desceu abaixo dos últimos números pintados na parede. O calor aumentou. Havia um segundo ruído sob o motor: uma aspiração lenta, seguida de vários estalos pequenos, como bocas tentando descolar do vidro.
 
-Eles desceram. E desceram. O medidor de profundidade de Valéria enlouqueceu.
+A cabine parou numa caverna ocupada por colunas de processamento. Tubos transparentes ligavam os gabinetes a volumes pálidos, mergulhados em líquido. Gabo reconheceu a disposição das conexões da represa. Dessa vez havia gente entre elas.
 
-— Estamos abaixo do nível do mar — sussurrou ela. — Abaixo das fundações da cidade.
+Dezenas de pessoas usavam máscaras lisas, presas por aros atrás da cabeça. Cabos saíam dos encostos de suas cadeiras. Um homem levantou as mãos vazias quando Gabo levou a direita ao coldre. Uma mulher tentava alcançar o fecho da própria máscara e não conseguia dobrar o braço o suficiente.
 
-O elevador parou. As portas se abriram para uma escuridão absoluta.
+Roberto Miranda surgiu ao lado da bancada de comando.
 
-Gabriel acendeu um sinalizador. A luz vermelha revelou uma caverna vasta, natural. E no centro, construída como um templo profano, estava a máquina.
+O terno marrom estava limpo demais para o lugar. A manga direita terminava numa mão de aço; junto ao punho, fios sem acabamento entravam sob uma placa nova. Havia uma marca de algema no braço esquerdo.
 
-Era um supercomputador gigantesco, pulsando com luz azul. Mas não era feito de silício. Era orgânico. Tubos de vidro cheios de fluido espinhal conectavam processadores a... coisas.
+Gabo não procurou o velho parceiro naquele rosto. Procurou a escolta.
 
-— O que é isso? — Valéria recuou.
+— Quem te tirou da custódia?
 
-— O Shadowban — disse uma voz vinda da escuridão.
+Miranda deixou que visse um formulário sobre a bancada: transferência hospitalar, alta técnica, destino reservado. Gabo ergueu o comunicador para fotografar. Miranda cobriu a assinatura com a mão de metal.
 
-Luzes se acenderam.
+— Você devia ter negociado na clínica — disse. — Antes de me transformar num processo caro.
 
-Cercando-os, havia dezenas de figuras. Pessoas vestidas com trapos cinzas, sem rosto. Suas faces haviam sido removidas digitalmente de qualquer registro, e fisicamente cobertas por máscaras lisas.
+— Três meses. Vilar interrogando você, médico assinando pedido de transferência. Quem abriu a algema?
 
-Um dos mascarados virou a cabeça na direção de Valéria. Não havia olhos na máscara, mas havia inclinação, e a inclinação dizia alguma coisa. Ela deu um passo para trás, e o homem — era um homem, pela altura dos ombros — levantou as mãos vazias, devagar, como quem mostra que não tem arma.
+— Quem podia pagar o tratamento.
 
-— Ele está pedindo alguma coisa — disse Valéria.
+— E o braço?
 
-— Está pedindo para você não correr — disse Gabriel, e a mão dele foi para o coldre.
+Miranda flexionou os dedos. Ouviram os pequenos motores.
 
-E na frente deles, uma figura familiar.
+— Está funcionando. A oferta também.
 
-Roberto Miranda.
+Valéria olhava a bancada. A sessão do operador estava aberta. Num painel ao lado, os nomes das pessoas eram substituídos por números, horas de trabalho e solicitações de restituição de identidade.
 
-Mas ele estava diferente. Vestia um terno caro, limpo. O braço direito, que na estação era de carne e osso, agora era uma prótese de última geração, e o pulso ainda trazia a marca de algemas que alguém tinha aberto por fora.
+— Elas estão pedindo para sair — disse.
 
-— Miranda? — A voz de Gabriel era um fio de incredulidade. O homem que ele considerava um amigo, um parceiro de trincheira na guerra contra o sistema, estava ali, no coração da besta. — O que você fez?
+— Estão cumprindo o acordo — respondeu Miranda.
 
-— Eu fiz o que você não teve coragem de fazer, Gabo. Eu escolhi o lado que vence. — O sorriso de Miranda não alcançou os olhos. Havia um cansaço ali, mas também uma ponta de desprezo. — Você achou mesmo que a gente ia mudar o mundo com um blog e uma pistola? A gente reclamava da cidade doente, mas era ela que nos mantinha vivos.
+Um dos homens arrancou a pele do pulso ao puxar o cabo. Gabo viu sangue novo na braçadeira.
 
-— Eles te compraram. Esse terno, esse braço... — Gabriel cuspiu as palavras. A dor da traição era mais afiada que qualquer faca. — Por quanto você vendeu sua alma, Roberto?
+— Então solta esse.
 
-— Eu não vendi. Eu *sou* eles. — Miranda abriu os braços. — Ou pelo menos, sou o gerente do turno da noite. O Marco Moretti acha que controla isso, mas ele é só um usuário com privilégios de admin. Seu pai construiu a jaula, garoto. Eu só estou cobrando o ingresso. O verdadeiro poder... está aqui embaixo. Este lugar... — ele gesticulou para a máquina orgânica — ...é o motor da cidade. Ele funciona com os "cancelados", os indesejáveis. Nós os reciclamos. Transformamos o lixo social em poder de processamento.
+Miranda não se virou.
 
-Gabriel olhou para as figuras mascaradas, para o vazio onde deveriam estar seus rostos, e sentiu o estômago gelar.
+— Entrega o chip. Retiro vocês da fila de cancelamento. Sua amiga conserva os olhos. Você conserva o nome.
 
-— Você está usando pessoas como combustível.
+Ele tocou um comando. O registro de Valéria surgiu, com o mesmo aviso da lavanderia. A mão de aço tinha uma placa no antebraço; ao redor dela se formou uma superfície azulada, curta, voltada para Gabo. O resto do corpo continuou fora do campo.
 
-— E qual a diferença do que a cidade sempre fez? — Miranda riu, um som oco e sem alegria. — Pelo menos aqui eles têm um propósito. São úteis. Você sempre foi sentimental, Gabo. Via pessoas onde eu só via peças no tabuleiro.
+— E seu pai? — perguntou Miranda. — Você viu a assinatura. Vai entregar o arquivo inteiro ou só o pedaço que deixa os Moretti bonitos?
 
-Miranda alisou o terno. O gesto era o mesmo de quando ele usava farda, e ver aquilo naquele lugar deu a Gabriel uma raiva mais íntima do que a traição.
+Gabo ouviu a respiração de Valéria falhar. Não pelo implante: ela prendia o ar para conseguir ficar de pé.
 
-— Você está com a mão limpa — disse Gabriel.
+— O arquivo inteiro — disse. — Começando por essa transferência.
 
-— Eu lavei.
+Miranda apagou o formulário.
 
-— Não é isso. — Gabriel apontou com o queixo. — Não tem graxa, não tem sangue, não tem cicatriz nova. É a mão de quem não trabalha há meses.
+Valéria se aproximara do armário de serviço. Um trinco fechava o acesso físico ao comando; a sessão de Miranda continuava ativa atrás do vidro. No diagrama da tubulação, uma linha azul alimentava as cadeiras. Outra, laranja, passava por um reservatório auxiliar junto à bancada.
 
-Miranda olhou para a própria mão, e por um segundo pareceu não reconhecê-la.
+— A laranja resfria os controladores — disse, baixo. — Se perder pressão, abre esse armário e passa para operação local. As cadeiras têm outra linha. Eu preciso interromper o retorno delas antes que a falha chegue.
 
-— Eu passei a vida toda apostando na mão dos outros. Um dia eu cansei de perder o que era meu.
+— Você garante?
 
-Ele estendeu a mão, não como um convite, mas como uma ordem.
+Ela olhou o diagrama, depois as pessoas.
 
-— Chega de brincar de herói. Me dê o chip do seu pai. Ele pertence ao sistema. E eu te dou uma vida de verdade, não essa caça às bruxas. Você pode ter tudo o que sempre quis. Poder, segurança... uma identidade.
+— Garanto que consigo alcançar o comando. O resto, não.
 
-Gabriel olhou para Valéria. Ela estava tremendo, seus implantes começando a falhar.
+Miranda estendeu a mão esquerda.
 
-Ele olhou para Miranda.
+— Escolhe, Gabo. Ela ainda está enxergando.
 
-— Eu tenho uma contraproposta.
+Gabo apontou para o reservatório laranja. Atrás dele havia rocha; mais adiante, gente ligada a máquinas cujo funcionamento ele não conhecia.
 
-Gabriel sacou a arma e atirou não em Miranda, mas no tanque de resfriamento principal da máquina orgânica.
+Olhou uma última vez para Valéria. Ela já estava junto ao trinco.
+
+O primeiro cartucho atravessou o vidro.

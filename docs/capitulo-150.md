@@ -1,11 +1,10 @@
-## Metadados
-- **Título:** Peso Morto
-- **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
-- **Localização:** Necrópole (Subnível 6.0 - Setor de Purga)
-- **Personagens Presentes:** Gabo, Valéria, Aria (Reboot), Rangel (Inconsciente -> Morto)
-- **Resumo:** Durante a travessia da passarela sobre os tanques ácidos do Setor de Purga, o sensor do pendrive de Aria alerta sobre a ruptura do pilar L-4 segundos antes do colapso parcial da estrutura. Gabo e Valéria lutam contra a gravidade e a dor excruciante para não deixar Rangel cair no ácido, enquanto Aria calcula friamente pelo comunicador que soltá-lo garantiria 94% de margem de segurança. Ao içarem o inspetor para a plataforma firme, descobrem que o coração de Rangel parou durante o esforço final.
-
-## Narrativa
+---
+title: "Capítulo 150: Peso Morto"
+Data In-Game: "Pós-Colapso da Usina Prometeu (Noite Eterna)"
+Localização: "Necrópole (Subnível 6.0 - Setor de Purga)"
+Personagens Presentes: "Gabo, Valéria, Aria (Reboot), Rangel (Inconsciente -> Morto)"
+description: "Rangel morre apesar da tentativa de reanimação e do pedido de ajuda. A morte não prova que abandonar o ferido teria sido uma recomendação correta."
+---
 
 # Capítulo 150: Peso Morto
 
@@ -43,11 +42,11 @@ Sangue e dor. Nenhum traço de fumaça. Só realidade bruta.
 
 Acoplado ao pulso trêmulo de Valéria, o pendrive de Aria media a deformação elástica do metal através do laser do deck. Ela não ofereceu encorajamento; ela analisou os números.
 
-— *A tensão cinética atual excede o limite de ruptura do cabo de sustentação restante em oitenta e dois por cento,* — declarou a voz sintética perfeita bem ao lado das mãos de Valéria. — *Se o espécime Rangel for solto agora, a distribuição de peso se estabilizará. Vocês dois poderão retornar à inclinação zero com noventa e quatro por cento de margem de segurança.*
+— *A tensão cinética atual excede o limite de ruptura do cabo de sustentação restante em oitenta e dois por cento,* — declarou a voz sintética perfeita bem ao lado das mãos de Valéria. — *A cinta está presa do lado da placa que cedeu. Se soltarem essa ponta e usarem o cabo de inspeção, a prancha deixa de puxar vocês para a borda.*
 
 — Cala a boca, Aria! — Valéria berrou de volta, as veias saltando no pescoço enquanto seus dedos quase cediam.
 
-— *Manter o aperto é estatisticamente suicida,* — respondeu a IA pelo alto-falante do deck. — *O gasto de energia muscular e o risco de queda para o resgate de biomassa já em falência múltipla de órgãos não são logicamente justificáveis. Ele já está morrendo, Detetive Moretti. Solte-o.*
+— *Manter o aperto é estatisticamente suicida,* — respondeu a IA pelo alto-falante do deck. — *A ponta presa está rasgando o tecido. Solte essa cinta, Detetive Moretti, não o homem. Val já passou o cabo pelo outro lado.*
 
 *Solte-o.* A palavra ecoou no comunicador, misturando-se com a lembrança insidiosa do legista no necrotério. *A fumaça não te deixa em paz, Gabo.*
 
@@ -61,11 +60,11 @@ Foi quando ele percebeu o silêncio.
 
 O chiado irregular de Rangel, que o acompanhara por todo o trajeto infernal até ali, havia parado.
 
-Valéria congelou. Ela se jogou de joelhos ao lado do corpo, tateando o pescoço ensanguentado de Rangel à procura de um pulso que já não existia. Ela não disse nada. O silêncio pesado dela era a confirmação.
+Valéria congelou. Ela se jogou de joelhos ao lado do corpo, tateando o pescoço ensanguentado de Rangel à procura de um pulso que já não existia. Ela não disse nada. Ela começou a tentar reanimá-lo e mandou Gabo chamar pelo rádio. Só veio ruído. Revezaram como puderam sobre o trecho firme da passarela; nenhum deles tinha o equipamento ou o atendimento que Rangel precisava. O tempo correu sem resposta do outro acesso. Quando pararam, a mão direita de Val já não conseguia continuar e o peito do inspetor não voltou a subir sozinho.
 
 No pulso da hacker, o LED azul-gelo do pendrive de Aria estabilizou após ler o sensor biométrico do deck.
 
-— *Previsão confirmada,* — a IA disse friamente pelo alto-falante. — *Parada cardíaca total há quarenta e dois segundos. O peso agora é, literalmente, morto. Podemos prosseguir com a otimização de rota, Detetive?*
+— *Não há retorno dos sinais,* — a IA disse friamente pelo alto-falante. — *Registrei os horários da perda do sinal e da tentativa de reanimação. Não vou chamar isso de confirmação de uma previsão. Precisamos decidir como guardar a localização.*
 
 Gabo olhou para o corpo imóvel de Rangel, o rosto pálido e manchado, os olhos fechados para sempre. Depois, olhou para o pequeno drive piscando no braço de Valéria — a assistente que ele resgatara na enchente e que agora não passava de um bloco de cálculo gelado. A dor nas mãos de Gabo não era nada comparada àquele momento. Ele estava cercado de morte, mas ali, naquele segundo, o luto foi enterrado sob uma fúria gélida.
 

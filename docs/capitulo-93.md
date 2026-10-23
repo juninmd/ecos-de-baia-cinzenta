@@ -9,11 +9,8 @@ Localização: "Arredores do Hospital Central"
 
 # Capítulo 93: Fome
 
-**Arredores do Hospital Central.**
-
-O cerco começou de madrugada e ninguém percebeu na hora, porque cerco vegetal não chega: **aparece**.
-
-Ao amanhecer, o Hospital Central era uma ilha de concreto branco num mar preto e verde.
+Arredores do Hospital Central.
+O cerco começou de madrugada e ninguém percebeu na hora, porque cerco vegetal não chega: **aparece**. Ao amanhecer, o Hospital Central era uma ilha de concreto branco num mar preto e verde.
 
 As raízes já tinham subido três andares pela fachada norte e estavam trabalhando as janelas — não quebrando: procurando. Cada gavinha percorria o caixilho de alumínio milímetro a milímetro procurando fresta, e quando não achava, recuava, e vinha outra.
 
@@ -27,11 +24,7 @@ Refugiados do enclave leste, funcionários do próprio hospital, gente do bairro
 
 A comida durava dois dias contando errado, e a Dra. Nise contava certo, então durava um e meio.
 
-A água estava racionada em novecentos mililitros por pessoa por dia, o que dá para viver e não dá para trabalhar.
-
-Mas não era a comida.
-
-Era o som.
+A água estava racionada em novecentos mililitros por pessoa por dia, o que dá para viver e não dá para trabalhar. Mas não era a comida. Era o som.
 
 ---
 
@@ -41,9 +34,7 @@ Não era rugido, não era grito. Era o som de estômago vazio — aquele gorgole
 
 Milhões de gargantas, cada uma fazendo um ruído baixo demais para ser ouvido sozinho, somando num rumor contínuo que entrava pelo piso e pelas paredes e não dava para tapar com nada.
 
-Ele tinha começado sete horas depois do meio-dia da chuva preta, e não tinha parado desde então.
-
-Nise tinha três casos de crise de pânico por hora, e não tinha mais ansiolítico desde terça.
+Ele tinha começado sete horas depois do meio-dia da chuva preta, e não tinha parado desde então. Nise tinha três casos de crise de pânico por hora, e não tinha mais ansiolítico desde terça.
 
 — Eles estão com fome — ela disse, no terraço, olhando por cima do parapeito.
 
@@ -65,9 +56,7 @@ Nise ficou um tempo olhando o mar verde.
 
 ---
 
-Val apareceu na porta do terraço.
-
-Ela estava com dois dias sem dormir e com aquela leveza esquisita de quem passou do cansaço.
+Val apareceu na porta do terraço. Ela estava com dois dias sem dormir e com aquela leveza esquisita de quem passou do cansaço.
 
 — Consegui contato com o Vilar.
 
@@ -107,7 +96,7 @@ Gabo fechou os olhos.
 
 — E o senhor não entregou.
 
-— *Eu não entreguei, e eu não contei para ninguém que tinham oferecido.* — A voz do Vilar não tremeu, e era pior assim. — *Duzentas e catorze pessoas morreram ontem de manhã por causa dessa decisão, e nenhuma delas soube que ela existia. Elas não foram consultadas, Moretti. Eu escolhi por elas, sozinho, num morro, e desci calado.*
+— *Eu não entreguei, e eu não contei para ninguém que tinham oferecido.* — A voz do Vilar não tremeu, e era pior assim. — *Duzentas e catorze pessoas morreram ontem de manhã, depois da ameaça que escondi, e nenhuma delas soube que ela existia. Elas não foram consultadas, Moretti. Eu escolhi por elas, sozinho, num morro, e desci calado.*
 
 — Capitão—
 
@@ -123,19 +112,19 @@ Ele pensou numa porta de delegacia, na chuva, com água na altura do peito, e nu
 
 — *Estou aqui.*
 
-— O senhor decidiu sozinho porque não tinha ninguém para dividir. Eu já fiz isso. — Gabo apertou o botão com força. — Sobe. E, quando chegar, escreve os duzentos e catorze nomes num papel e me entrega. Vai levar a noite inteira e o senhor vai fazer mesmo assim.
+— O senhor tinha duzentas e quarenta pessoas para ouvir. Escondeu delas. Eu também já escondi o custo de uma escolha. — Gabo apertou o botão com força. — Sobe. E, quando chegar, escreve os duzentos e catorze nomes num papel e me entrega. Vai levar a noite inteira e o senhor vai fazer mesmo assim.
 
 Silêncio longo do outro lado.
 
 — *Por quê?*
 
-— Porque foi o que a Dra. Nise me mandou fazer no meu, e porque funciona. — Ele soltou o botão e apertou de novo. — Não conserta. Funciona.
+— Porque não quero que o número substitua as pessoas. Os sobreviventes vão precisar ouvir o resto, Capitão. A lista não substitui a prestação de contas. — Ele soltou o botão e apertou de novo. — Não conserta. Funciona.
 
 ---
 
 No terraço, Gabo puxou o revólver do coldre e conferiu o tambor por hábito.
 
-Era uma peça velha de família, aço inoxidável de qualidade alta, e tinha resistido à Praga de Ferro melhor que qualquer outra arma do prédio — mas não tinha resistido inteira: havia agora um véu de corrosão fina no cano, e ele sabia que aquilo ia piorar.
+Era uma peça velha de família, aço inoxidável de qualidade alta, e ficara guardada no hospital, fora do ataque ao enclave — mas não tinha resistido inteira: havia agora um véu de corrosão fina no cano, e ele sabia que aquilo ia piorar.
 
 Val e Nise vieram atrás dele.
 
@@ -145,7 +134,7 @@ Val e Nise vieram atrás dele.
 
 — Por quê?
 
-— Porque a Raiz não aceita instrução por rádio, e a interferência biológica do Sol Negro come qualquer sinal em quatrocentos metros. — Ela apontou o horizonte, onde a esfera pulsava por cima do Memorial, maior do que na véspera. — O pendrive tem que ser espetado na interface neural da fonte, com contato físico e descarga de alta tensão.
+— Porque a Raiz não aceita instrução por rádio, e os testes de transmissão falharam na aproximação do Sol Negro. — Ela apontou o horizonte, onde a esfera pulsava por cima do Memorial, maior do que na véspera. — O pendrive tem que ser espetado na interface neural da fonte, com contato físico e descarga de alta tensão.
 
 Gabo assentiu devagar.
 

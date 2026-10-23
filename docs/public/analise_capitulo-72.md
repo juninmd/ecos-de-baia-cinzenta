@@ -1,18 +1,18 @@
-# Análise do Capítulo 72: A Ofensiva
+# Revisão de Capítulo 72: A Ofensiva
 
-## Avaliação Técnica
-- **Ritmo:** 9/10
-- **Diálogos:** 8/10
-- **Atmosfera:** 10/10
+Fonte: [capítulo 72](/capitulo-72.md).
 
-## Pontos Fortes e Fracos
-- **Pontos Fortes:** O conceito de "Cidade Viva" reagindo para salvar a torre é estonteante e coroa perfeitamente as interações simbióticas plantadas no arco. A manobra de lançar os mísseis contra os servidores de Lázaro subverte a destruição e garante a vitória tática.
-- **Pontos Fracos:** Algumas suspensões da descrença são necessárias para a logística dos "prédios segurando a torre", mas a natureza fantástica-urbana da obra acomoda isso muito bem.
+Gabo desvia o ataque orbital para Ponto Zero. As escoras e os apoios têm funções materiais distintas; cortar enlaces de superfície não revela tudo sobre o casco profundo.
 
-## Sanity Check de Lore
-- **Gabo:** Completamente de acordo com sua caracterização.
-- **Ambiente/Ação:** O texto descreve Kael/Santo com "vapor escapando de suas juntas". O uso de "vapor" no lugar de "fumaça" previne conflitos com a fobia profunda de Gabo. A restrição de lore está plenamente preservada.
-- **Outros personagens:** A volta surpresa de Miranda acrescenta a punição dramática final adequada.
+## Passagens de entrada e saída
 
-## Avaliação Qualitativa
-A história se mantém espetacular. O arco de queda/salvação é muito criativo. Os personagens continuam coesos com as escolhas que vêm fazendo (Valória técnica e astuta, Gabo decidido sacrificando tudo corporativo pelo presente, Dante/Aria conectados com a infraestrutura viva). A trama é de qualidade excelente. Não há necessidade de novos personagens.
+> Torre Aeterna — em queda.
+> A gravidade mudando de endereço é uma sensação que o corpo humano não tem categoria para arquivar.
+
+### Saída
+
+> — Vocês são uma praga — disse Miranda. — E eu sou o tratamento.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

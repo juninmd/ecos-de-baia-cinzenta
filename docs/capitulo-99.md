@@ -8,8 +8,7 @@ Localização: "Ruínas do Data Center 4 - Zona Morta"
 ---
 # Capítulo 99: O Despertar da Máquina
 
-**Ruínas do Data Center 4 - Zona Morta**
-
+Ruínas do Data Center 4 - Zona Morta
 O som não era de vento. Era o ranger de metal contra concreto, um ruído úmido e pesado, como se uma engrenagem estivesse mastigando ossos.
 
 — Para trás — sussurrou Gabo, empurrando a Dra. Nise para a proteção de uma coluna de aço retorcido.
@@ -54,8 +53,7 @@ A criatura se virou para ele, ignorando os tiros de Vilar. Ela queria o cubo.
 
 A máquina parou, o único olho restante focando no cubo.
 
-*"Protocolo... Recuperação..."*
-
+"Protocolo... Recuperação..."
 Gabo viu o que precisava. O chão sob a máquina estava rachado, enfraquecido pela chuva ácida e pelo peso dos escombros. E logo acima, pendurado por vergalhões expostos, estava o que restava de um servidor bancário. Toneladas de metal morto.
 
 — Nise! O pé de cabra na sua bolsa! — gritou Gabo.
@@ -66,8 +64,7 @@ A máquina avançou. Gabo não recuou. Ele esperou até sentir o cheiro de óleo
 
 Quando a garra desceu para esmagá-lo, Gabo se jogou para o lado, rolando sobre o ombro bom. Ele bateu com o pé de cabra não na máquina, mas na trava enferrujada que segurava os vergalhões na parede ao lado.
 
-*Clang.*
-
+Clang.
 A trava cedeu. A gravidade, a única lei que nunca falhava em Baía Cinzenta, fez o resto.
 
 O servidor despencou. O estrondo foi ensurdecedor, levantando uma nuvem de poeira de cimento e silício moído. A máquina foi esmagada instantaneamente, transformada em uma panqueca de sucata sob o peso da tecnologia obsoleta.
@@ -76,7 +73,7 @@ O silêncio voltou. Apenas o chiado de circuitos morrendo e a respiração ofega
 
 Gabo se levantou, limpando o sangue de um corte na testa. Ele mancou até a pilha de escombros. O cubo preto tinha rolado para longe, intacto, pulsando suavemente.
 
-O servidor que eles derrubaram era a única coisa ali capaz de dizer quem tinha construído aquele monstro — número de série, fabricante, oficina, qualquer coisa. Agora eram duas toneladas de memória morta esmagadas no chão, e a resposta estava embaixo delas.
+O servidor que eles derrubaram era uma possível fonte de informação sobre quem tinha construído aquele monstro — número de série, fabricante, oficina, qualquer coisa. Agora eram duas toneladas esmagadas no chão. Gabo mandou marcar o local e guardar os fragmentos identificáveis; não sabia se ainda seria possível ler algum módulo.
 
 — Todos bem? — perguntou Vilar, ajudando Rangel a se levantar.
 
@@ -84,8 +81,7 @@ O servidor que eles derrubaram era a única coisa ali capaz de dizer quem tinha 
 
 ***
 
-**Nova Delegacia - Antiga Biblioteca Municipal**
-
+Nova Delegacia - Antiga Biblioteca Municipal
 A luz das velas iluminava as estantes de livros mofados. O gerador estava sendo poupado para o equipamento médico, então a "Sala de Investigação" (uma mesa de carvalho recuperada) estava na penumbra.
 
 O cubo preto estava no centro da mesa.
@@ -112,8 +108,7 @@ Mostrava um mapa. Não de Baía Cinzenta, mas do subsolo. Uma rede complexa de t
 
 E então, uma voz. Não a voz robótica da máquina, nem a voz suave de Aria. Era uma voz humana, cansada, gravada com urgência.
 
-*"...se alguém estiver ouvindo... o silêncio não é o fim. Eles estão acordando. O berçário foi violado. Repito: o berçário foi violado. Eles têm fome e não comem comida. Eles comem..."*
-
+"...se alguém estiver ouvindo... o silêncio não é o fim. Eles estão acordando. O berçário foi violado. Repito: o berçário foi violado. Eles têm fome e não comem comida. Eles comem..."
 A transmissão cortou em estática.
 
 — Quem era? — perguntou Vilar, os olhos arregalados.
@@ -124,7 +119,7 @@ Gabo sentiu um aperto no peito. Ele conhecia aquela voz. Era impossível, mas el
 
 — Ela está morta — disse Rangel. — Desapareceu na Queda.
 
-— Pelo visto, não — Gabo pegou o cubo e o guardou no bolso. — E se ela está com medo... nós devíamos estar aterrorizados.
+— Uma gravação não diz se ela está viva agora — Gabo pegou o cubo e o guardou no bolso. — E se ela está com medo... nós devíamos estar aterrorizados.
 
 Ele pegou sua bengala e se dirigiu à porta.
 

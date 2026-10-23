@@ -1,18 +1,17 @@
-# Análise Crítica - Capítulo 203
+# Revisão de Capítulo 203: Sombras de Aeterna
 
-## Avaliação Técnica (Nota: 8.5/10)
-- **Ritmo (Pacing): 8/10.** O capítulo foca na ambientação e exposição através do cenário ("show, don't tell" em relação à Praga de Ferro). Não há combate ativo, mas a construção da atmosfera sepulcral e a tensão residual mantêm o interesse aguçado.
-- **Diálogos: 8.5/10.** O diálogo expositivo sobre o passado da corporação flui naturalmente através da observação dos drones esmagados. O contraste entre o espanto de Elias e o estoicismo letal de Gabo continua efetivo. Valéria adiciona o contexto técnico frio, mantendo sua coerência no modo de segurança.
-- **Atmosfera: 9.5/10.** A descrição do "cemitério industrial macabro" e da oxidação terminal captura perfeitamente a decadência Cyberpunk Noir. A poeira de ferrugem acumulada como "sangue seco" estabelece um tom visual marcante e deprimente.
+Fonte: [capítulo 203](/capitulo-203.md).
 
-## Pontos Fortes
-- A reintegração narrativa da *Praga de Ferro* (vista anteriormente nos Capítulos 92 e 93) amarra o *lore* e fornece escala temporal à decadência do Setor 6.
-- A analogia que Gabo faz entre a dor cibernética/mecânica das máquinas abandonadas e seu próprio tormento psicológico é poderosa e humaniza as sucatas, aprofundando o subtexto sobre a desumanização gerada pela corporação Aeterna.
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-## Pontos Fracos
-- Algumas descrições do ambiente e o discurso final de Gabo beiram a exposição forçada para o leitor em benefício de Elias. Isso pode ser mais diluído em capítulos futuros, permitindo conclusões mais orgânicas.
+## Passagens de entrada e saída
 
-## Sanity Check
-- **Gabo interagiu com algum fumante ou fumaça?** Não. O cheiro da fumaça fantasma foi expurgado no capítulo anterior através da dor autoinfligida. Ele constata explicitamente a ausência do odor neste ambiente estéril. Sua aversão está perfeitamente em ordem.
-- **O plot twist/avanço invalida algo estabelecido?** Não. O encontro com a Praga de Ferro não conflita com eventos passados e explica fisicamente o isolamento desta seção do Setor 6 e as motivações históricas da Aeterna Corp.
-- **Qualitativo:** A progressão contínua com os três personagens sem introduzir novos indivíduos irrelevantes fortalece o núcleo. O estado físico extremamente arruinado de Gabo e a neutralidade apática de Valéria conduzem bem as interações. O arco explora a história através do ambiente ("Environmental Storytelling") eficientemente.
+> O arrasto dos meus coturnos pelo chão de concreto produzia um som áspero, quase rítmico, como uma lixa desgastando uma lâmina velha. Minha perna esquerda dependia inteiramente do suporte rígido da órtese queimada, cujas engrenagens soltavam um silvo asmático a cada passada que eu forçava para a frente. O braço mecânico de sucata instalado por Vasco, embora bem atado pelas bandagens improvisadas de Valéria, pesava como chumbo morto no meu flanco, mas a carne dilacerada pelo vergalhão mantinha meus sentidos em alerta máximo. Não havia espaço para névoa na cabeça; a dor crua era o único lembrete de que eu ainda respirava o ar podre deste subsolo desde a queda na Torre Aeterna.
+
+### Saída
+
+> — Então vamos nos mover antes que a poeira assente de vez, — avisei, erguendo a *Caronte* e destravando a mira. — Se essa pilha de sucata ensinou alguma coisa sobre a Aeterna, é que eles nunca deixam um cemitério sem tranca. Fiquem juntos e vigiem as sombras. O chão aqui tá coberto de restos de máquinas que morreram com medo; a gente não quer se juntar a elas.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

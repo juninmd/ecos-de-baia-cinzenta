@@ -27,17 +27,17 @@ Os bagos de chumbo grosso e tungstênio bateram na couraça de lagartas com um e
 
 — Tem alguma ideia melhor antes que ele transforme nós dois em massa de tomate? — gritei, rolando para trás de uma coluna de sustentação enquanto o segundo braço mecânico da aberração estraçalhava o concreto acima de mim. Blocos de alvenaria desabaram, cobrindo meus ombros de pó cáustico.
 
-— Olha pro teto, idiota! — Valéria gritou, os fios holográficos azuis de sua franja brilhando febrilmente enquanto ela corria entre as sombras para manter o monstro em fogo cruzado. — O guindaste de ponte rolante de quarenta toneladas! Os suportes de aço da viga mestra tão podres de oxidação catalítica! O trilho tá suspenso por pura inércia!
+— Olha pro teto, idiota! — Valéria gritou, os fios holográficos azuis de sua franja brilhando febrilmente enquanto ela corria entre as sombras para manter o monstro em fogo cruzado. — O guindaste de ponte rolante de quarenta toneladas! Os suportes de aço da viga mestra tão podres de oxidação catalítica! O trilho está pendurado nos dois apoios que sobraram!
 
 Ergui os olhos através do turbilhão de fuligem vermelha. Vinte metros acima do fosso de carga, um guindaste industrial com garras de sustentação de contêineres repousava travado sobre trilhos corroídos. Era uma massa de dezenas de toneladas de ferro maciço.
 
 — Se eu derrubar essa viga, a laje inteira pode vir abaixo! — avisei.
 
-— É isso ou virar purê nas garras dessa empilhadeira do inferno! — ela rebateu, enfiando um cartucho novo na pistola e disparando contra os sensores ópticos da cabine. — Eu tô tentando destravar os freios magnéticos de emergência pelo painel lateral, mas o relé tá preso na ferrugem! Você precisa cortar o pino de ancoragem da esquerda!
+— É isso ou virar purê nas garras dessa empilhadeira do inferno! — ela rebateu, trocando o carregador da pistola e disparando contra os sensores ópticos da cabine. — Eu tô tentando destravar os freios magnéticos de emergência pelo painel lateral, mas o relé tá preso na ferrugem! Você precisa cortar o pino de ancoragem da esquerda!
 
 O colosso girou com um rugido mecânico ensurdecedor, os motores elétricos superaquecidos soltando labaredas vermelhas pelas juntas da carcaça. Ele ignorou Valéria e avançou direto contra mim, farejando o peso da minha armação de aço e o ruído da minha órtese que protestava a cada centímetro.
 
-— Vem buscar, seu monte de lata velha! — rosnei, me levantando com o apoio da coluna trincada e apoiando a coronha da escopeta na axila.
+— Vem buscar, seu monte de lata velha! — rosnei, me levantando com o apoio da coluna trincada e apoiando a coronha da escopeta na axila. Val cobriu a passagem enquanto recarreguei os dois canos vazios; deixei cair um cartucho e não voltei para buscá-lo.
 
 Esperei até que a aberração estivesse a menos de seis metros, erguendo duas pás gigantescas para o esmagamento final. O vento deslocado pelo golpe cheirava a ozônio queimado, diesel antigo e morte corporativa.
 

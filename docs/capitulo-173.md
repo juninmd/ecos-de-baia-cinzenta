@@ -43,11 +43,11 @@ Três figuras bloquearam nosso caminho. Um deles segurava uma haste de ferro ref
 
 Valéria tensionou os ombros, preparando os sistemas de combate. Eu vi a luz pálida de aviso piscar fraca em sua nuca. Se ela tentasse lutar naquele estado, seus núcleos derreteriam antes mesmo do primeiro soco.
 
-Levantei a mão esquerda intacta, sinalizando para ela não se mover.
+Levantei a mão esquerda enfaixada, sinalizando para ela não se mover.
 
 Dei dois passos à frente. A água espirrava nas minhas botas. Eu não saquei minha arma. Apenas olhei para o líder. Meu casaco estava ensopado com a sujeira da cidade e meu próprio sangue fresco escorrendo da fratura exposta e das ataduras arrebentadas do meu braço direito.
 
-Os olhos do saqueador caíram para a minha ferida aberta, para o modo como o sangue fervia sob a chuva, e então subiram de volta para o meu rosto. A expressão fria, vazia e cínica de quem havia passado as últimas horas caminhando pelo inferno corporativo, testemunhando horrores biológicos e apagando a mente de um deus digital.
+Os olhos do saqueador caíram para a minha ferida aberta, para o modo como o sangue se diluía sob a chuva, e então subiram de volta para o meu rosto. A expressão fria, vazia e cínica de quem havia passado as últimas horas caminhando pelo inferno corporativo, testemunhando horrores biológicos e apagando a mente de um deus digital.
 
 Ergui o braço direito quebrado e ensanguentado na direção dele, a tala partida e o osso desalinhado a poucos centímetros do seu rosto. A pele queimada e a carne estalavam sob a chuva ácida.
 

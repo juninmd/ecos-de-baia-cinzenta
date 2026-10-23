@@ -1,11 +1,17 @@
-# Análise Crítica - Capítulo 176
+# Revisão de Capítulo 176: O Peso da Ferrugem
 
-## Consistência de Personagem (Lore)
-- **Gabo (Fobia de Fumaça e Limitações Físicas):** Extremamente coerente. Placeholder convertido em narrativa plena. O trauma fóbico do cigarro asfixiante de Dante ataca e Gabo reverte isso por meio de dor neurológica auto infligida em sua nova prótese desregulada, ancorando a sanidade longe da fumaça fantasma. As pernas passivas/mecânicas também estão presentes e rangendo pelo peso.
-- **Valéria:** O "Safe Mode" foi aplicado com rigor, tornando-a uma entidade puramente analítica e sem emoções.
+Fonte: [capítulo 176](/capitulo-176.md).
 
-## Trama e Continuidade
-- A saída da clínica e a caminhada na chuva ácida foram bem descritas, servindo de elo fluído para os desafios do Distrito 4.
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-## Conclusão da Revisão
-**Aprovado.**
+## Passagens de entrada e saída
+
+> A chuva ácida do Distrito 4 não limpava nada; ela apenas dissolvia as bordas do mundo, transformando o concreto em lama cinzenta e os neons quebrados em poças de sangue luminoso. Quando a porta de aço reforçado da clínica de Vasco bateu às nossas costas, o som foi engolido imediatamente pela tempestade constante.
+
+### Saída
+
+> — Piorando? — ela ironizou, puxando o capuz da jaqueta e saltando uma vala de lodo químico com agilidade felina. — Isso aqui é garoa perto do que a gente passou na Necrópole. Para de enrolar e anda logo, Moretti.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

@@ -47,7 +47,7 @@ No mesmo milésimo de segundo, o olhal da roldana partiu-se ao meio com um estam
 
 A roldana estourou para cima, o cabo chicoteou no vazio e a gravidade puxou meu corpo com o peso de cem quilos em queda livre.
 
-O solavanco foi brutal. Todo o meu peso foi sustentado unicamente pelos dedos de metal cravados na chapa e pelo braço esticado. Os parafusos que prendiam a armação ao osso fraturado rangeram, a pele rasgou nas bordas da cirurgia de Vasco e um urro de pura agonia escapou da minha garganta, ecoando pela vastidão congelada da galeria.
+O solavanco foi brutal. A segunda linha, que Val fixara antes de testar a roldana, reteve meu peso. A garra presa na borda impediu que eu girasse contra os cristais; o braço ferido continuou sendo arrastado pelo arnês, sem receber sozinho a queda. Os parafusos que prendiam a armação ao osso fraturado rangeram, a pele rasgou nas bordas da cirurgia de Vasco e um urro de pura agonia escapou da minha garganta, ecoando pela vastidão congelada da galeria.
 
 Senti os dedos de aço começarem a deslizar pela ferrugem escorregadia da cantoneira.
 

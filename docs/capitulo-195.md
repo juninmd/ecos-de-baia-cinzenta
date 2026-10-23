@@ -47,7 +47,7 @@ A pressão sobre a carne viva foi excruciante. Cerrei os dentes com tanta força
 
 — Pronto — ela deu um puxão final na fita, travando o adesivo com um tapa seco na minha armação de ferro. — Não vai ganhar prêmio de estética médica, mas estancou o vazamento. Agora para de tentar bancar o mártir imortal e usa o apoio do cotovelo mecânico pra distribuir o peso.
 
-A fita apertou mais do que precisava. Em dois minutos, os dedos da mão esquerda começaram a formigar, depois a desaparecer, e o pouco de tato que a armação me devolvia virou um zumbido surdo. Pressão demais segura hemorragia e mata a mão devagar, e Valéria sabia disso melhor do que eu.
+A fita apertou mais do que precisava. Em dois minutos, os dedos da mão direita começaram a formigar, depois a desaparecer, e o pouco de tato que a armação me devolvia virou um zumbido surdo. Pressão demais segura hemorragia e mata a mão devagar, e Valéria afrouxou a faixa ao ouvir que a sensibilidade diminuíra. Não tratou a dormência como um preço necessário para continuar andando.
 
 — Você tá contando — falei, com o queixo apontado para o rolo de fita.
 

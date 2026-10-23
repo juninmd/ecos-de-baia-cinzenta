@@ -2,28 +2,34 @@
 Título: O Som das Engrenagens Mortas
 Data In-Game: Indeterminada (Pós-Colapso da Aeterna)
 Localização: Clínica Clandestina de Vasco, Distrito 4
-Personagens Presentes: Gabo, Valéria, Vasco
+Personagens Presentes: Gabo, Valéria, Vasco, Dra. Nise
 ---
 
 # Capítulo 175: O Som das Engrenagens Mortas
 
-A luz halógena sobre mim falhava a cada oscilação do gerador no subsolo, pintando as paredes de azulejos encardidos com flashes estroboscópicos de pura agonia. Vasco não era um homem de delicadezas, e os recursos no Distrito 4 eram tão escassos quanto a piedade.
+No quinto dia de atendimento na clínica, a luz halógena sobre mim falhava a cada oscilação do gerador no subsolo, pintando as paredes de azulejos encardidos com flashes estroboscópicos de pura agonia. Vasco não era um homem de delicadezas, e os recursos no Distrito 4 eram tão escassos quanto a piedade.
 
-— Não tenho fixador ortopédico de hospital — Vasco resmungou, revirando uma caixa de ferramentas enferrujada que cheirava a graxa velha e fluido de transmissão. — O melhor que posso fazer para salvar esse teu braço estraçalhado é uma armação externa industrial, sucateada de um exoesqueleto de carga das docas. É pesada, é feia e os pinos de aço parafusados no osso vão doer como o diabo toda vez que você tentar mover os dedos.
+— A equipe conseguiu o fixador para o osso. O que não tenho é um suporte de hospital para você sair carregando esse braço — Vasco resmungou, revirando uma caixa de ferramentas enferrujada que cheirava a graxa velha e fluido de transmissão. — Vou acoplar ao fixador um suporte externo industrial, sucateado de um exoesqueleto de carga das docas. É pesada, é feia e os pinos de aço parafusados no osso vão doer como o diabo toda vez que você tentar mover os dedos.
 
 — Coloca logo isso — eu grasnei, minha voz não passando de um sussurro rouco pela garganta seca, com o gosto acre de bile e ferrugem colado nos dentes.
 
 Minha cabeça latejava com o peso acumulado dos últimos dias. A descida ao Arquivo Executivo, a queima dos barramentos de Aria no Sentinel, os dias de rastejo pela escuridão fétida da Necrópole. Meu corpo era um mapa de perdas: costelas trincadas, ombro retalhado, pele em carne viva. Eu não precisava de fantasmas para me lembrar de onde vim; o ferro cru e o sangue que empapava a lona da maca já eram cobrança suficiente.
 
-Vasco trouxe a armação externa. O metal era um cinza fosco, cheio de cicatrizes de solda, hastes de aço e buchas reforçadas. A base da órtese tinha pinos de tração óssea que pareciam pregos grossos de aço temperado. Ele os banhou com álcool barato e não me ofereceu anestesia. Sabia que eu não tinha como pagar, e sabia que policiais da minha estirpe não pediam trégua.
+Vasco trouxe a armação externa. O metal era um cinza fosco, cheio de cicatrizes de solda, hastes de aço e buchas reforçadas. A base da órtese tinha pinos de tração óssea que pareciam pregos grossos de aço temperado. A parte cirúrgica fora feita pela equipe, com o material que Nise conseguira trazer. Vasco trabalhava na armação externa, que se apoiava no arnês do tronco e descarregava parte do peso na cintura. Os pinos não foram instalados para virar arma.
 
 — Morda isto — ele estendeu um pedaço de borracha de pneu endurecida.
 
 Eu não o peguei. Apenas cravei os dedos da mão esquerda na beirada de zinco da maca e fechei os olhos.
 
-A perfuração e a fixação dos pinos sobre os ossos quebrados foi brutal. Os parafusos entrando na derme, perfurando o periósteo e ancorando a estrutura de aço diretamente nas fraturas do rádio e do úmero... aquilo foi uma descarga de puro inferno. Um arco elétrico rasgou minha medula espinhal até a base do crânio. O grito que deixei escapar não foi humano; foi o som de osso estalando e aço temperado brigando pelo mesmo milímetro de existência. Minha visão branqueou, os dentes estalaram na mandíbula e o gosto férreo de sangue inundou minha boca.
+Quando ajustou a haste externa, o puxão chegou ao fixador e me fez pedir que parasse. Ele parou. Ficamos ouvindo o gerador até eu conseguir responder onde o suporte pressionava. A equipe voltaria a conferir os pontos de fixação; a autorização de saída era para transferência curta, com ajuda, e não para voltar ao subsolo.
 
-Mas a tempestade de sinapses se estabilizou. O peso absurdo da armação puxou meu tronco para a direita, um contrapeso de vinte quilos de ferro e pistões hidráulicos travados ao redor do meu braço ferido. Os dedos da mão direita estalaram quando forcei o primeiro movimento dentro da tala mecânica. Um zumbido hidráulico grave, como um motor de elevador em miniatura, respondeu ao sustentar o peso do meu membro quebrado.
+Mas a tempestade de sinapses se estabilizou. O peso absurdo da armação puxou meu tronco para a direita, um conjunto de vinte quilos de ferro, arnês e pistões, distribuído entre o braço e o suporte de cintura. Os dedos da mão direita quase não se moveram dentro da tala. O que abriu e fechou foi a pinça externa, comandada pela interface; a mão de carne continuou imobilizada. Um zumbido hidráulico grave, como um motor de elevador em miniatura, respondeu ao sustentar o peso do meu membro quebrado.
+
+— Não encosta no fim do curso — Vasco avisou. — O limitador está ruim. O batente pode prender a haste e queimar o servo; não foi feito para sustentar ninguém numa queda.
+
+Nise voltou antes de nos deixar sair. Conferiu as fixações, registrou a alta contra a recomendação da equipe e entregou as instruções a Valéria. A mão esquerda dela continuava com a lesão nervosa: uma luva atuada oferecia abertura e preensão grosseiras, sem devolver sensibilidade nem trabalho fino. Precisava de bateria própria; desligada, os dedos voltavam a ficar rígidos. Para fios e gatilhos, ela teria de usar a direita.
+
+Vasco separou dois cilindros de ar de resgate, a máscara e quatro cartuchos de Caronte, anotando tudo na dívida. Não eram filtros contra qualquer gás nem reserva para dias. Valéria conferiu os manômetros antes de guardar o conjunto.
 
 — Bem-vindo de volta ao clube da sucata — Vasco murmurou, limpando o suor oleoso da testa com o antebraço sujo de graxa.
 
@@ -31,7 +37,7 @@ Na maca ao lado, o bipe irregular de um osciloscópio mudou bruscamente de tom. 
 
 Virei o pescoço devagar, sentindo cada vértebra reclamar da nova carga no meu ombro.
 
-O rosto pálido de Valéria se contraiu. Os olhos cibernéticos dela — antes opacos pelo colapso de energia — dispararam um feixe cinzento de diagnóstico que logo se estabilizou no azul-elétrico familiar, cortado por faíscas microscópicas de sobretensão. Os filamentos de LED trançados na franja curta e assimétrica piscaram em amarelo de advertência antes de assentarem no tom ciano habitual.
+O rosto pálido de Valéria se contraiu. Os olhos cibernéticos dela — antes opacos pelo colapso de energia — dispararam um feixe cinzento de diagnóstico que logo se estabilizou no prateado da fase posterior à Convergência, cortado por faíscas microscópicas de sobretensão. Os filamentos de LED trançados na franja curta e assimétrica piscaram em amarelo de advertência antes de assentarem no tom ciano habitual.
 
 Ela puxou o ar de repente, tossindo com o cheiro de ozônio queimado que tomava a sala.
 
@@ -49,7 +55,7 @@ Ela arregalou os olhos prateados, a boca abrindo numa mistura de pavor genuíno 
 
 — O que ele pôde? — Valéria se sentou de vez, arrancando dois eletrodos descartáveis do peito com um puxão irritado. — Ele arrancou o guindaste de uma caçamba de entulho da Zona Portuária e parafusou no seu osso quebrado! Olha o diâmetro dessa haste hidráulica, Gabo! Você não vai conseguir nem coçar o nariz sem arrancar a metade da própria cara.
 
-— Ele tá vivo e com o braço no lugar, alinhado e funcional — rebateu Vasco, cruzando os braços gordos. — E para de reclamar, Cruz. O seu firmware ainda tá rodando em modo de segurança secundário. Teu analisador de risco tá apitando daqui.
+— Ele tá vivo e com o braço no lugar, alinhado e imobilizado. Funcional é outra conversa — rebateu Vasco, cruzando os braços gordos. — E para de reclamar, Cruz. O seu firmware ainda tá rodando em modo de segurança secundário. Teu analisador de risco tá apitando daqui.
 
 Valéria levou a mão à têmpora esquerda, onde a porta do implante neural ainda fumegava de leve. Ela fechou os olhos por um segundo, os nós dos dedos apertando os cabelos escuros da nuca batida. Uma careta de dor real cruzou seus traços jovens.
 

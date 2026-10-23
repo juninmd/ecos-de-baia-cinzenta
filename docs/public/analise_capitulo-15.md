@@ -1,16 +1,41 @@
-# Análise do Capítulo 15: Protocolo de Extermínio
+# Parecer — Capítulo 15: Protocolo de Extermínio
 
-## Avaliação Técnica
-- **Ritmo (Pacing):** 9/10. O pico da ação deste mini-arco.
-- **Diálogos:** 8.5/10. Secos e utilitários durante a trocação, mas com o peso das decisões de Valéria muito evidentes no fim.
-- **Atmosfera:** 10/10. O *Apagão Total* foi extremamente atmosférico. A morte da infraestrutura cibernética é um momento crucial. O terror da escuridão do porão inunda as páginas.
+Revisão de 22/10/2026. Fonte [atual](/capitulo-15.md),
+[anterior](/capitulo-14.md) e [seguinte](/capitulo-16.md).
+A revisão aplicada nesta rodada cobre 12–18. Nota editorial é juízo de leitura;
+triagem lexical e testes não comprovam qualidade literária.
 
-## Pontos Fortes e Fracos
-- **Pontos Fortes:** O confronto com o Executor na loja de departamentos em ruínas foi criativo e visceral, utilizando de elementos do cenário como os manequins de forma muito eficaz. A decisão de apagar a cidade pela raiz foi drástica e pesou. O uso do galão de fluido gerando fumaça tóxica é interessante para a dinâmica de asfixia que Gabo odeia.
-- **Pontos Fracos:** Nenhuma objeção relevante, embora a queda livre do Executor com o lustre tenha sido um pouco "hollywoodiana".
+## Personagens e atuação
 
-## Sanity Check (Lore Compliance)
-- A fobia e a repulsa de Gabo em relação à fumaça são mantidas, tendo a sua própria náusea e a exaustão descritas com clareza na abertura. Nenhuma fumaça de cigarro foi mencionada.
+Valéria testa uma fonte de localização e atua no painel acessível; não assina todo o código da cidade nem transforma seu organismo inteiro em máquina. Gabo usa recursos apresentados antes e os três cartuchos contados. Aria não invade o corpo de Valéria para produzir uma solução.
 
-## Avaliação Qualitativa
-A história agora entra em uma nova fase (Noite Eterna) e de forma impressionante. Os personagens se encontram vulneráveis, emulando o terror real e bruto. A coerência foi mantida. Não é necessária a introdução de novos personagens agora, o mundo mudou de fase e isso é o bastante.
+## Portões
+
+| Critério | Evidência |
+| --- | --- |
+| D1 | 1.189 palavras de prosa, sem título ou metadados; alvo 1.100–1.600 |
+| D2 | Um H1 no formato exigido, igual ao menu |
+| D3 | Localização e elenco distinguem corpo, comunicação, módulo e imagem |
+| D4 | Corpo, identidade, posse e acesso conferidos em 12–18; pendências posteriores abaixo |
+| D5 | A ambulância continua pedindo passagem numa rua bloqueada. |
+
+## Notas de leitura
+
+Atmosfera / custo / voz / ritmo / consequência: **2 / 1 / 2 / 2 / 2**. Total: **9/10**.
+
+Fumaça, metal aquecido, vidro e rangidos mudam o combate. A queda do Executor não comprova morte e não recebe nota de perda permanente. Valéria distingue o que quis fazer do que não consegue medir; Gabo não a absolve com a ideia de cidade morta. A renovação de 13 passa a significar também uma entrada para vigilância.
+
+## Pistas e limites
+
+O corte imediato é local; o anúncio do Gamemaster antecede novas falhas, sem medir toda a cascata. Outros serviços funcionam. O Grande Apagão de 29–31 permanece outro acontecimento. A retirada em 16 precisa conservar corpo, energia e limites da conexão.
+
+O encadeamento conserva os plantios de [8](/capitulo-8.md) e
+[11](/capitulo-11.md), além das observações demonstradas em 12–18. Nenhuma
+revelação futura foi tratada como conhecimento disponível aos personagens.
+
+## Verificação e alcance
+
+Fontes e espelhos sincronizados. Título, extensão, metadados, cadeia de recursos
+e fechamento conferidos por leitura e verificação estrutural. Testes, lint e
+preservação constam do registro editorial da rodada, concluído em 22/10/2026.
+Veredito: **revisão local aplicada; aprovação integral da obra pendente**.

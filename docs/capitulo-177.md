@@ -43,7 +43,7 @@ Os dois flanqueadores avançaram pela calçada enlameada com canos de chumbo erg
 
 Eu não tentei desviar. Com o peso assimétrico que me puxava para a direita, eu era lento demais para esquivar na lama.
 
-Em vez disso, afundei a bota esquerda na sarjeta para firmar o ponto de apoio e liberei a trava manual do pistão pneumático. O zumbido hidráulico no meu ombro explodiu em um silvo ensurdecedor de vapor superaquecido.
+Em vez disso, afundei a bota esquerda na sarjeta para firmar o ponto de apoio e liberei a trava manual do atuador hidráulico. O zumbido hidráulico no meu ombro explodiu em um silvo ensurdecedor de vapor superaquecido.
 
 O vergalhão atingiu o antebraço da armação de ferro. O impacto produziu um estampido estridente de metal contra metal, mas o aço industrial das docas nem sequer arranhou. A barra de ferro entortou na mão do homem.
 
@@ -69,9 +69,9 @@ O silêncio voltou a pesar sobre a rua, quebrado apenas pela água caindo dos be
 
 Valéria soltou o ar devagar, os ombros descendo alguns centímetros. Ela guardou a mão de volta no bolso da jaqueta, mas eu vi o tremor residual nos nós dos seus dedos.
 
-— Bruto pra caramba, Moretti — ela murmurou, chutando o vergalhão torto para dentro da vala. — Custava quebrar só um braço? Sujou o asfalto inteiro.
+— Bruto pra caramba, Moretti — ela murmurou, chutando o vergalhão torto para dentro da vala. — Custava quebrar o ataque sem esmagar o peito? Ele caiu e você ainda estava avançando.
 
-— Resolveu o problema sem gastar cartucho.
+— Eu parei — respondi, olhando o sangue que os outros arrastavam pela rua. Não sabia se o homem ainda respirava. Economizar cartucho não dizia nada sobre isso.
 
 — É, e quase deslocou sua clavícula nova — ela se aproximou, estendendo a mão para inspecionar a junta do meu ombro com os dedos rápidos de hacker. — Tá cheirando a borracha queimada e óleo térmico. A solda do Vasco segurou, mas a folga aumentou dois milímetros. Mais três pancadas dessas e você vai ter que catar os parafusos na sarjeta.
 

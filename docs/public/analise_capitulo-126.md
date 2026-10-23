@@ -1,10 +1,17 @@
-# Análise do Capítulo 126
+# Revisão de Capítulo 126: Frequência Fantasma
 
-## Consistência de Lore
-- **Limitações Físicas de Gabo:** Revisado para enfatizar o peso do corpo de Rangel forçando os servomotores das órteses de perna de Gabo, e a exigência física e atrito de cada passo ao arrastar o companheiro. O protagonista continua respeitando a regra de suas pernas mecânicas desgastadas.
-- **Fobia de Fumaça/Tabaco:** Sem violações presentes. O texto não faz menções a vícios de nicotina, charutos ou fumo para o protagonista. A tortura psicológica vem da IA imitando a ex-namorada (Bia Vargas) e da memória do bombardeio, usando a dor física do Colar de Sol como âncora, sendo totalmente consistente com a caracterização de trauma de Gabo.
+Fonte: [capítulo 126](/capitulo-126.md).
 
-## Revisão Geral
-- A tensão psicológica da fragmentação de personalidade de Aria (agindo como Bia) é o foco central e foi bem executada.
-- As capacidades técnicas de Valéria estão perfeitamente de acordo com suas habilidades estabelecidas.
-- A decisão de abandonar o equipamento e focar na sobrevivência se adequa à postura pragmática de Gabo.
+O colapso separa o trio da equipe de transporte. Rangel segue em prancha com cintas. Aria conserva nome e comunicação possível, apesar da saída danificada.
+
+## Passagens de entrada e saída
+
+> O som não era apenas barulho; era vibração. A sirene de ataque aéreo, uma relíquia da Era Pré-Digital, fazia o pó de concreto dançar sobre a mesa de metal onde Rangel jazia. O uivo mecânico subia e descia, uma onda senoidal de pânico que penetrava nos ossos.
+
+### Saída
+
+> Ele usaria tudo isso. Ele transformaria cada grama de dor em combustível. Porque o dia estava apenas começando, e não prometia ser mais claro que a noite.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

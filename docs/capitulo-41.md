@@ -15,13 +15,13 @@ Em menos de três horas, os Níveis 1 ao 10 tinham desaparecido.
 
 ---
 
-O Cobalt entrou na Avenida da Indústria a quarenta por hora e a avenida não estava mais lá.
+Elena parou o Cobalt no trecho alto da Avenida da Indústria. A pista abaixo já não existia. Gabo permanecia no banco do passageiro, com a perna direita imobilizada.
 
 No lugar dela havia um rio marrom de dois metros correndo em direção ao mar, carregando tudo que a cidade tinha deixado solto: contêineres de lixo, motos, um caixa eletrônico arrancado da parede, um sofá de três lugares girando devagar como se estivesse pensando.
 
-A água batia na altura das portas. Cada vez que uma onda de retorno subia, entrava um dedo d'água pelo assoalho, e o carro cheirava a diesel, esgoto e o cheiro específico e inconfundível de sarjeta revirada — doce, quente, orgânico.
+Nos carros abandonados abaixo da rampa, a água batia nas portas. No trecho alto, a chuva entrava pelas vedações rachadas, e o carro cheirava a diesel, esgoto e o cheiro específico e inconfundível de sarjeta revirada — doce, quente, orgânico.
 
-— Se a água passar do escapamento, o motor morre e a gente vira boia — disse Gabo, sem tirar os olhos da frente. — Val, quanto falta?
+— Não entra nessa água — disse Gabo a Elena. — O motor não segura um carro que perdeu o chão. Val, tem rota acima da avenida?
 
 — Do que? — Valéria estava no banco de trás com o deck no colo, tentando puxar qualquer coisa da rede e conseguindo estática. — Não tem sinal de nada. Nem sirene, nem rádio municipal, nem alerta de evacuação. Gabo, ninguém **avisou** essas pessoas.
 
@@ -29,9 +29,9 @@ A água batia na altura das portas. Cada vez que uma onda de retorno subia, entr
 
 — O sistema de alerta é automatizado, ele devia ter disparado sozinho—
 
-— O sistema de alerta é da Aeterna, Val. — Gabo desviou de um poste caído. — E a Aeterna não avisa quem não paga.
+— O sistema de alerta é da Aeterna, Val. — Elena desviou de um poste caído no piso ainda exposto. — E a Aeterna não avisa quem não paga.
 
-Elena, no banco do carona, estava com a câmera analógica erguida e não estava fotografando. Só olhando pelo visor, do jeito que ela faz quando não quer olhar direto.
+Elena parou junto ao guarda-corpo e ergueu a câmera sem fotografar. Só olhando pelo visor, do jeito que ela faz quando não quer olhar direto.
 
 — Ali — ela disse.
 
@@ -43,15 +43,13 @@ O ônibus estava tremendo. Não de vento. A correnteza estava empurrando, e o ca
 
 — Aquilo vai sair do lugar — disse Elena.
 
-— Vai. — Gabo já estava girando o volante. — Segura firme.
+— Vai. — Gabo apontou o pilar da rampa. — Precisamos de uma linha até o canteiro.
 
-O Cobalt entrou na correnteza de lado e o mundo inclinou. Por dois segundos horríveis o carro deslizou como um sabonete, os pneus buscando chão, e a água bateu na janela do Gabo com força suficiente para estalar o vidro.
-
-Depois pegou. Cascalho, lama, alguma coisa. Os pneus tracionaram e ele encostou a lateral do carro a dois metros do ônibus.
+Elena avançou apenas sobre o piso exposto e estacionou atrás de um pilar. Dois moradores que puxavam uma balsa de portas vieram quando ela chamou. O adulto no ônibus alcançou a corda lançada por um deles. O carro ficou em terreno firme, como ponto de apoio. Gabo não conseguiria puxar ninguém; podia conferir a linha e avisar quando um nó começasse a ceder.
 
 — Elena! Corda!
 
-Ela já estava saindo pelo teto solar antes de ele terminar de falar. Vinte e oito anos e nenhum treinamento de resgate, com a corda de reboque enrolada no braço e a chuva batendo horizontal na cara dela.
+Ela já estava no trecho seco da rampa. Trinta e três anos e nenhum treinamento de resgate, com a ponta livre da corda e a chuva batendo horizontal na cara dela.
 
 — **AMARRA NAS CRIANÇAS PRIMEIRO!** — ela gritou, e a voz dela cortou o barulho da água. — MENOR PRIMEIRO! DEPOIS OS ADULTOS!
 
@@ -65,7 +63,7 @@ O homem da lanterna hesitou.
 
 Levou dezenove minutos.
 
-Gabo ficou o tempo todo com o pé no acelerador, mantendo rotação alta para o escapamento não engolir água, e com a mão esquerda na corda, puxando. Elena recebia no teto. Valéria puxava para dentro pelo teto solar e empilhava as crianças no banco de trás como sacos, sem cerimônia, porque cerimônia custa segundo.
+O adulto do ônibus prendia a linha, e os moradores traziam as crianças para a rampa. Elena as recebia junto do guarda-corpo. Val indicava onde sentar, protegendo o ombro. Gabo contava quem ainda estava no teto. O Cobalt não sairia dali levando dezoito pessoas.
 
 Uma. Duas. Cinco. Nove.
 
@@ -75,15 +73,15 @@ Foi uma menina de uns sete anos, com um casaco amarelo grande demais, e o nó fr
 
 Elena pulou.
 
-Não houve discussão, não houve aviso, não houve um segundo de cálculo. Ela largou a corda e pulou do teto do carro na água marrom, e Gabo gritou o nome dela e o grito não serviu para nada.
+Não houve discussão, não houve aviso, não houve um segundo de cálculo. Ela largou a ponta livre e entrou na água junto da rampa, e Gabo gritou o nome dela e o grito não serviu para nada.
 
-Vinte segundos. Vinte segundos em que Gabo ficou com o pé no acelerador de um carro cheio de crianças e não pôde fazer absolutamente nada, e aprendeu uma coisa sobre si mesmo que ele ia levar quinze anos para admitir: que ele preferia, naquele instante, que a menina se afogasse.
+Vinte segundos. Vinte segundos em que Gabo ficou preso ao banco, incapaz de oferecer um braço ou alcançar a água, e aprendeu uma coisa sobre si mesmo que ele ia levar quinze anos para admitir: que ele preferia, naquele instante, que a menina se afogasse.
 
 Elena emergiu oito metros abaixo, agarrada num poste de sinalização, com o casaco amarelo preso no braço e a criança dentro dele.
 
-Valéria jogou a corda. Gabo puxou.
+Val apontou o poste aos moradores. Eles lançaram outra ponta e puxaram as duas para a rampa.
 
-Quando a Elena subiu de volta no teto do carro, cuspindo água, ela olhou para ele através do para-brisa e viu no rosto dele exatamente o que tinha passado ali.
+Quando Elena voltou ao piso da rampa, cuspindo água, ela olhou para ele através do para-brisa e viu no rosto dele exatamente o que tinha passado ali.
 
 Não disse nada. Nunca disse.
 
@@ -99,7 +97,7 @@ Uma criança começou a chorar e as outras não.
 
 ---
 
-O Cobalt estava com dezoito pessoas dentro. Não cabia. Estava com dezoito assim mesmo: crianças no colo de crianças, duas no porta-malas com a tampa amarrada com o cinto do Gabo, e um cheiro insuportável de roupa molhada, xixi e medo — que tem cheiro, e é metálico, e gruda.
+Eram dezoito pessoas reunidas no trecho alto do viaduto. As crianças se apertavam junto dos adultos, aguardando as balsas dos moradores. O Cobalt receberia o homem da lanterna e a menina que engolira água, além do trio, e um cheiro insuportável de roupa molhada, xixi e medo — que tem cheiro, e é metálico, e gruda.
 
 — O dique não rompeu — disse o homem da lanterna, no banco de trás, tremendo tanto que os dentes batiam. — Eu trabalho na Companhia de Águas. Eu **vi**. Não rompeu.
 
@@ -121,7 +119,7 @@ Elena virou o corpo inteiro no banco.
 
 Valéria parou de mexer no deck.
 
-E Gabo, com as duas mãos no volante e um rio no lugar da avenida, sentiu a coisa fria e conhecida se instalar no estômago — a mesma coisa que ele sentia quando um caso deixava de ser tragédia e virava crime.
+E Gabo, com as mãos sobre o colo e um rio no lugar da avenida, sentiu a coisa fria e conhecida se instalar no estômago — a mesma coisa que ele sentia quando um caso deixava de ser tragédia e virava crime.
 
 ---
 
@@ -137,7 +135,7 @@ E, muito ao longe, atrás da cortina de chuva, a silhueta do Distrito Alto — s
 
 — Depois eu quero saber quem operou aquela comporta.
 
-Ele engatou a marcha e o Cobalt subiu a rampa do viaduto com dezoito pessoas dentro e a água mordendo os pneus traseiros até o último metro.
+Elena levou o Cobalt pelo trecho alto. Os demais seguiram nas balsas até a escada do abrigo indicada pelo rádio; os moradores ficaram de conferir a chegada. Isso ainda não era confirmação de que todos alcançariam a delegacia.
 
 Atrás deles, o Distrito Baixo — o bairro onde Gabo nasceu, onde a mãe dele tinha criado três filhos, onde ficava a pizzaria dos Rossi e a catedral do Padre Miguel e o barraco setenta e um da Vila do Porto Velho — desapareceu debaixo de dois metros de água em três horas e onze minutos.
 

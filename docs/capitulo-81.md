@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: "Capítulo 81: Sangue e Óleo"
-description: "Trinta segundos para tirar uma mulher de sessenta e cinco anos de dentro de um forno. E, na saída, a descoberta de que o fogo matou o mensageiro tarde demais."
+description: "Vilar sofre esmagamento e queimadura no braço esquerdo durante o resgate. A retirada e a descontaminação não apagam a lesão que levará à amputação."
 image: /capitulo_81.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Capitão Jonas Vilar, Dra. Nise
 Localização: "Corredor de acesso, subsolo da Torre Aeterna — 18h05"
@@ -9,119 +9,69 @@ Localização: "Corredor de acesso, subsolo da Torre Aeterna — 18h05"
 
 # Capítulo 81: Sangue e Óleo
 
-**Corredor de acesso, subsolo da Torre Aeterna — 18h05.**
-
+Corredor de acesso, subsolo da Torre Aeterna — 18h05.
 O alarme de purga não é uma sirene comum.
 
 É um tom pulsado de dois quilohertz, escolhido em laboratório por ser a frequência que mais incomoda o ouvido humano, porque o objetivo do aparelho não é avisar: é **expulsar**. Ele vibrava nos dentes de Gabo e no metal das órteses dele ao mesmo tempo.
 
-**VINTE E OITO SEGUNDOS.**
-
+VINTE E OITO SEGUNDOS.
 — Vilar! Arromba essa porta!
 
 — O circuito de segurança é independente! — Vilar estava com o terminal de pulso encostado no painel, e o painel devolvia estática vermelha. — A Aria não responde aqui embaixo! Esse andar inteiro é ponto cego!
 
-**VINTE E QUATRO.**
-
+VINTE E QUATRO.
 Lá dentro, a Dra. Nise recuava de costas pela parede, com o frasco de amostra apertado no peito. A massa fúngica avançava pelo piso num tapete que já cobria dois terços da sala, subindo pelas pernas da mesa de dissecação.
 
 E o calor começava. Dava para ver: o ar acima do piso já tremia.
 
 ---
 
-Gabo não pensou. Isso é literal, e é o que ele contou depois, e a Dra. Weiss anotou.
+Gabo não pensou. Isso é literal, e é o que ele contou depois, e a Dra. Weiss anotou. Ele alcançou a alavanca vermelha acima do batente. Vilar arrancou da parede o macaco hidráulico de manutenção, preso ao lado do painel por duas abraçadeiras.
 
-Ele sacou a arma.
+DEZENOVE.
+Gabo puxou a liberação manual. O contrapeso levantou a porta doze centímetros antes de o mecanismo empenado travar. Vilar encaixou o macaco na fresta.
 
-E não mirou no vidro — vidro daquele era à prova de fuzil e ele sabia. Mirou no conduto acima do batente, onde os cabos hidráulicos do acionamento da porta corriam expostos por quarenta centímetros, num trecho em que o projeto original previa uma calha de proteção que foi cortada do orçamento.
+— **BOMBEIA!**
 
-*Bang. Bang.*
+Gabo manteve a alavanca aberta com o antebraço. Os dedos quebrados da direita não seguravam a peça; a esquerda queimava dentro da luva. O peso ficou no macaco, e Vilar bombeou com o corpo inteiro.
 
-**DEZENOVE.**
-
-O fluido saiu num jato quente e oleoso que bateu na cara dos dois e cheirava a óleo mineral queimado.
-
-A porta de aço, sem pressão, soltou um estalo grave e desceu doze centímetros de uma vez — e travou torta, com o canto direito mais baixo que o esquerdo.
-
-Abriu uma fresta de vinte e dois centímetros no chão.
-
----
-
-— **AJUDA AQUI!**
-
-Gabo enfiou os dedos na fresta.
-
-O metal estava quente e ele estava com dois dedos da mão direita quebrados havia duas semanas, e a luva não protegia de calor nenhum, e ele puxou assim mesmo.
-
-Vilar se enfiou ao lado dele.
-
-O velho tinha cinquenta e cinco anos, o braço mecânico e mais nada, e encaixou os dedos protéticos na fresta e travou o cotovelo.
-
-— **NO TRÊS!**
-
-**QUATORZE.**
-
-Os servos do braço de Vilar zumbiram subindo de tom até um chiado fino e desagradável — o som de um atuador operando acima da faixa nominal.
-
-A porta subiu.
-
-Doze centímetros. Vinte. Quarenta.
-
-E parou, e não subiu mais, e os dois seguraram ali.
+QUATORZE.
+A porta subiu a vinte centímetros. Trinta. Quarenta. O óleo vazou pela junta do macaco. Vilar prendeu o braço esquerdo entre a alavanca e o batente para impedir que ela voltasse; quando o metal cedeu, ele gritou, mas não tirou o braço.
 
 — **NISE, AGORA!**
 
 ---
 
-**ONZE.**
-
+ONZE.
 Ela correu com o traje pesado, atravessou a sala pisando na massa — e o fungo se enrolou nas botas dela, e ela puxou o pé com força e deixou pedaço de bota para trás —, chegou à porta e se jogou no chão.
 
-Deslizou de costas por baixo do vão, com o frasco em cima do peito segurado com as duas mãos.
+Deslizou de costas por baixo do vão, com o frasco em cima do peito segurado com as duas mãos. Os pés dela passaram.
 
-Os pés dela passaram.
+SETE.
+Vilar abriu a válvula do macaco e arrancou o braço da alavanca. A porta desceu os quarenta centímetros e bateu no batente com um estrondo definitivo.
 
-**SETE.**
-
-Vilar soltou. A porta desceu sozinha os quarenta centímetros e bateu no batente com um estrondo definitivo.
-
-**QUATRO.**
-
-Os três se jogaram para trás no corredor.
+QUATRO.
+Os três recuaram até a antecâmara. Barros fechou a segunda porta antes que a primeira começasse a vazar fumaça.
 
 ---
 
 O rugido veio do outro lado.
 
-Não é fogo, tecnicamente. É plasma térmico, mil e cem graus, injetado por doze bicos ao mesmo tempo, e o barulho que isso faz não é de fogueira: é o de um jato de avião passando dentro de uma caixa de sapato.
+Não é fogo, tecnicamente. É gás incandescente, a temperatura nominal de mil e cem graus, injetado por doze bicos ao mesmo tempo, e o barulho que isso faz não é de fogueira: é o de um jato de avião passando dentro de uma caixa de sapato.
 
-O vidro da janela de observação ficou branco.
-
-E, no meio daquele branco, por meio segundo antes de virar cinza, Gabo viu o rosto.
-
-O rosto de fungo, o do homem de macacão azul, sendo consumido.
-
-E a expressão não era de dor.
-
-Era de alívio.
+O vidro da janela de observação ficou branco. E, no meio daquele branco, por meio segundo antes de virar cinza, Gabo viu o rosto. O rosto de fungo, o do homem de macacão azul, sendo consumido. E a expressão não era de dor. Era de alívio.
 
 ---
 
-A porta selou. O alarme parou. Ficou o barulho de ventilação forçada e nada mais.
+A porta selou. O alarme parou. Ficou o barulho de ventilação forçada e nada mais. Nise estava de costas no chão do corredor, tossindo, com o traje chamuscado do joelho para baixo e uma bota faltando.
 
-Nise estava de costas no chão do corredor, tossindo, com o traje chamuscado do joelho para baixo e uma bota faltando.
-
-Gabo se ajoelhou ao lado dela — o que levou tempo — e ajudou a soltar o capacete.
-
-O rosto dela estava vermelho e encharcado, e o cabelo branco, sempre preso naquele coque severo, tinha soltado de um lado.
+Barros iniciou o ciclo de descontaminação. Só depois da lavagem e da retirada assistida do traje Nise soltou o capacete. Ninguém chamou aquilo de garantia; o corredor continuou fechado. O rosto dela estava vermelho e encharcado, e o cabelo branco, sempre preso naquele coque severo, tinha soltado de um lado.
 
 — A senhora está bem?
 
 — Eu estou com sessenta e cinco anos e acabei de rastejar por baixo de uma porta. — Ela tossiu de novo. — Eu vou ficar bem daqui a uns quatro dias.
 
-Vilar sentou no chão ao lado deles, apoiado na parede, segurando o braço mecânico com a mão boa. O antebraço protético estava com uma marca de queimadura de dez centímetros e um dos dedos não fechava mais.
-
-Ele olhou aquilo por um tempo e não comentou.
+Vilar sentou no chão ao lado deles, apoiado na parede, segurando o braço esquerdo com a mão direita. A manga estava rasgada, havia queimadura e o punho começava a inchar. Ele olhou aquilo por um tempo e não comentou.
 
 ---
 
@@ -129,19 +79,15 @@ Ele olhou aquilo por um tempo e não comentou.
 
 — A senhora estava dentro de uma sala com uma coisa que estava crescendo em cima da senhora.
 
-— Estava crescendo **na minha direção**, que é diferente. — Ela se sentou com dificuldade. — Eu tenho quarenta anos de necrotério, detetive. Eu sei distinguir o que ataca do que se aproxima.
+— Estava crescendo **na minha direção**, que é diferente. — Ela se sentou com dificuldade. — Eu vi o rosto se formar antes de a purga começar. Pode ser imitação. Pode ser alguma tentativa de contato.
 
 — Doutora—
 
-— Ele estava tentando **falar comigo**.
+— Eu preciso descobrir se estava tentando **falar comigo**.
 
 ---
 
-Ela levantou a mão direita.
-
-O frasco de amostra ainda estava lá, inteiro, com dois dedos de biogel escuro dentro. E o biogel pulsava — devagar, num compasso de setenta e poucos.
-
-Vilar se afastou vinte centímetros.
+Ela levantou a mão direita. O frasco de amostra ainda estava lá, inteiro, com dois dedos de biogel escuro dentro. E o biogel pulsava — devagar, num compasso de setenta e poucos. Vilar se afastou vinte centímetros.
 
 — A senhora trouxe isso para fora — ele disse.
 
@@ -157,9 +103,7 @@ Ela girou o vidro devagar.
 
 ---
 
-Gabo se inclinou.
-
-Dentro do frasco, os filamentos não estavam distribuídos ao acaso. Formavam blocos: segmentos densos de comprimentos diferentes, separados por vazios de comprimentos diferentes, repetidos em sequência.
+Gabo se inclinou. Dentro do frasco, os filamentos não estavam distribuídos ao acaso. Formavam blocos: segmentos densos de comprimentos diferentes, separados por vazios de comprimentos diferentes, repetidos em sequência.
 
 — Isso é intervalo — disse Gabo.
 
@@ -177,28 +121,22 @@ Nise olhou para o frasco como quem olha para um recém-nascido de mãe desconhec
 
 — E conseguiram.
 
-— Ah, conseguiram. — Ela tampou o frasco e guardou no bolso interno do traje. — Só que ninguém combinou com ela o que ela ia querer fazer depois.
+— Ah, conseguiram. — Barros fechou o frasco na cápsula secundária, descontaminou o exterior e colocou tudo na caixa rígida de transporte. A amostra ficaria isolada, com registro de quem a tocasse. — Só que ninguém combinou com ela o que ela ia querer fazer depois.
 
 ---
 
-Gabo se levantou apoiado na parede.
+Gabo se levantou apoiado na parede. A cicatriz das costas — a linha vertical de onze centímetros onde o cirurgião entrou para remontar as lombares dele — pulsou.
 
-A cicatriz das costas — a linha vertical de onze centímetros onde o cirurgião entrou para remontar as lombares dele — pulsou.
-
-Foi uma dor curta e funda, do tipo que ele já conhecia e classificava como fantasma.
-
-Foi a primeira vez que ele considerou, por um segundo e meio, que talvez não fosse fantasma coisa nenhuma.
-
-Ele não falou isso em voz alta.
+Foi uma dor curta e funda, do tipo que ele já conhecia e classificava como fantasma. Foi a primeira vez que ele considerou, por um segundo e meio, que talvez não fosse fantasma coisa nenhuma. Ele não falou isso em voz alta.
 
 — A gente tem que sair daqui — ele disse. — Vilar, evacuação total, e a Torre fica interditada. Ninguém entra, nem com mandado.
 
 — O fogo matou aquela coisa — disse Vilar.
 
-— O fogo matou o **mensageiro**, Capitão. — Gabo olhou para a porta selada, e o metal ainda estalava do calor. — A mensagem já foi entregue oito semanas atrás, pela água de refrigeração, para todos os prédios da cidade que compartilham a mesma rede.
+— O fogo matou o **mensageiro**, Capitão. — Gabo olhou para a porta selada, e o metal ainda estalava do calor. — A mensagem já foi entregue oito semanas atrás, pela água de refrigeração, para outros prédios ligados ao mesmo circuito de refrigeração. Precisamos descobrir quais, antes de chamar a rede inteira de contaminada.
 
 Vilar ficou branco.
 
 — Quantos prédios?
 
-— Todos, do Distrito Central para leste. — Gabo começou a andar pelo corredor. — A evolução não pede licença, Capitão. Ela só usa a tubulação que já estava instalada.
+— Não sei. A manutenção vai ter de conferir as plantas e colher amostras. — Gabo começou a andar pelo corredor. — A evolução não pede licença, Capitão. Ela só usa a tubulação que já estava instalada.

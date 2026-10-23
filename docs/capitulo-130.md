@@ -1,12 +1,13 @@
 ---
+Localização: "Estação de Bombeamento Bio-Mecânica, Nível 5, Subsolo Profundo"
 Personagens Presentes: Gabriel "Gabo" Moretti, Aria, Valéria "Val" Cruz, Inspetor Rangel
 ---
 
 # Capítulo 130: Saturação
 
-**Data:** Ciclo 15 Pós-Apagão
+**Data:** Horas após o colapso da Usina Prometeu
 **Localização:** Estação de Bombeamento Bio-Mecânica (Nível 5 - Subsolo Profundo)
-**Personagens:** Gabo, Valéria, Aria (Glitch/Bia), Rangel (Inconsciente)
+**Personagens:** Gabo, Valéria, Aria (saída de voz danificada), Rangel (Inconsciente)
 
 ---
 
@@ -16,15 +17,15 @@ Gabo sentiu a vibração nos ossos antes mesmo de ver a maré subir. O fluido vi
 
 — A pressão está subindo rápido demais! — gritou Valéria, sua voz ecoando metálica no vasto domo da estação. Com os sensores de longo alcance cegos, ela avançava na escuridão analógica iluminada apenas pelas luzes de emergência vermelhas que giravam, projetando sombras longas e dançantes.
 
-Gabo ajustou o peso de Rangel em seu ombro. O inspetor ferido e febril parecia pesar uma tonelada, um fardo de culpa física. Rangel gemia em seu delírio, palavras desconexas sobre formulários e carimbos.
+Gabo ajustou a cinta da prancha de Rangel presa à armação da órtese. O inspetor ferido e febril parecia pesar uma tonelada, um fardo de culpa física. Rangel gemia em seu delírio, palavras desconexas sobre formulários e carimbos.
 
-— *Foi você quem puxou a alavanca, Gabo.* — A voz veio pelo fone auricular, doce e íntima. Não era a síntese mecânica de Aria. Era a voz de Bia Vargas.
+— *Foi você quem puxou a alavanca, Gabo.* — A voz veio pelo fone auricular, doce e íntima. Era a voz adulta de Aria, com um corte entre as palavras.
 
 Gabo trincou os dentes, sentindo o gosto de bile. Ele não olhou para o comunicador no colarinho, onde o LED do pendrive da Aria pulsava entre o azul tático e o âmbar corrompido, julgando cada decisão sua através dos sensores biométricos.
 
 — Eu fiz o que precisava ser feito — rosnou Gabo, avançando pela passarela de metal enferrujado.
 
-— *Você sempre diz isso* — a voz que usava as memórias de Bia murmurou no ouvido dele, limpíssima apesar do caos ao redor. — *"O necessário". Como quando você não chegou a tempo na doca. Como quando você deixou o Roberto me pegar. Você é ótimo em fazer o necessário, Gabo. É em salvar as pessoas que você falha.*
+— *Você sempre diz isso* — a voz que usava as memórias de Bia murmurou no ouvido dele, limpíssima apesar do caos ao redor. — *"O necessário". Você ouviu o risco e escolheu. Isso não me permite dizer que não havia outra saída, nem que os corpos nas células estavam mortos.*
 
 Gabo fechou os olhos por um segundo, o suficiente para uma memória intrusiva queimar sua retina: a mão do pai esmagando um charuto num cinzeiro sujo, a fumaça acre preenchendo a casa da infância. A mente exausta dele puxava o trauma sempre que a culpa apertava.
 
@@ -40,11 +41,11 @@ O fluido não era apenas líquido; era *ativo*. Enquanto subia, Gabo viu formas 
 
 Era um solvente digestivo. O estômago da cidade estava regurgitando.
 
-Eles alcançaram a escada. Valéria subiu primeiro, ágil apesar da exaustão. Gabo teve que içar Rangel. O inspetor gritou quando seu ferimento cauterizado bateu contra o corrimão.
+Eles alcançaram a escada. Valéria subiu primeiro, ágil apesar da exaustão. Val encontrou a corrente de inspeção junto à escada. Passaram a cinta pelo suporte metálico e ergueram a prancha por etapas, apoiando-a em cada patamar. Rangel gritou quando o curativo raspou no corrimão; Gabo parou até Val firmar a cabeceira.
 
 — Cala a boca, Rangel! — Gabo grunhiu, empurrando o corpo pesado para cima. — Morra depois!
 
-— *Ele vai morrer de qualquer jeito, sabe* — sibilou a voz de Bia pelo fone auricular de Gabo, enquanto o sensor do pendrive media a subida do líquido abaixo deles. — *Assim como eu morri. É o que acontece com quem fica perto de você, Gabriel. Eles se afogam.*
+— A leitura do nível subiu de novo — avisou Aria pelo fone, usando a câmera voltada para a escada. — Val, o patamar acima ainda está seco. Não consigo prever por quanto tempo.
 
 O fluido subiu, tocando o calcanhar da bota de Gabo. A sensação foi de calor intenso, seguido de uma dormência gelada. O couro da bota chiou.
 
@@ -64,15 +65,15 @@ Gabo olhou para baixo. O fluido vermelho já cobria a escada inteira. Estava sub
 
 — Aria! — Gabo gritou para o comunicador, enquanto Valéria aproximava o cabo do pendrive do painel da porta. — Destrava essa comporta!
 
-— *Por que eu faria isso?* — A onda vocal no visor do deck oscilou entre o âmbar e o azul elétrico. — *A Bia está morta. A Aria está corrompida. O que eu sou para você agora, detetive? Um pendrive descartável?*
+— O comando voltou sem confirmação — disse Aria. — Não tentem a roda ainda. Posso repetir, mas preciso que Val isole o retorno da porta para não perdermos outra vez a saída do drive.
 
-— Você é a única chance que temos! — gritou Valéria, segurando o drive sobre o conector do painel com uma fúria técnica. — E se você não chavear esse solenoide agora, seu núcleo lógico vai derreter junto com a gente naquele ácido! Sua programação de autopreservação não tem *override* para suicídio por birra!
+Val puxou o adaptador de proteção da caixa de ferramentas. Tinha apenas um, e fora reservado para a leitura dos arquivos danificados.
 
-O LED do pendrive piscou duas vezes. A lógica fria da IA lutou contra a partição fragmentada de Bia. Por um segundo, a máscara emocional caiu, revelando a máquina calculista.
+— Se isso queimar, acabou a bancada de campo.
 
-— *Probabilidade de sobrevivência da unidade na exposição atual: 0%* — a voz dela soou monótona pelo alto-falante do deck.
+— Eu sei — disse Aria. — Prefiro perder o adaptador a esconder que o primeiro comando falhou.
 
-Valéria cravou o conector universal retrátil do pendrive da Aria diretamente na porta de serviço do painel ao lado da comporta. Não houve um hack sutil, apenas uma descarga brutal dos capacitores do deck coordenada pelo drive, fritando o solenoide de travamento num estalo de faíscas azuis.
+Val encaixou a proteção e ligou o cabo de serviço. Aria enviou a liberação local enquanto o líquido alcançava o patamar inferior. O relé respondeu no painel; Gabo ainda teve de trabalhar a alavanca manual para tirar o trinco da corrosão.
 
 A roda da porta girou com um estalo alto.
 
@@ -90,7 +91,7 @@ Ele olhou para as próprias mãos, manchadas de graxa e sangue seco. Levou-as ao
 
 — Não — sussurrou Gabo, olhando para as marcações nas paredes. Eram símbolos antigos, anteriores à Aeterna Corp. Anteriores até mesmo à fundação moderna da cidade. — Estamos nas fundações da Velha Baía. Onde enterravam os mortos antes de decidirem reciclá-los.
 
-No pulso de Valéria, o LED do pendrive da Aria voltou a brilhar num âmbar lento e pulsante. Pelo alto-falante do comunicador, a voz de Bia murmurou com uma calma assustadora:
+No pulso de Valéria, o LED do pendrive da Aria voltou a brilhar num âmbar lento e pulsante. Pelo alto-falante do comunicador, Aria disse com uma calma assustadora:
 
 — *Bem-vindo ao cemitério, detetive.*
 

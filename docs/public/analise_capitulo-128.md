@@ -1,9 +1,17 @@
-# Análise do Capítulo 128
+# Revisão de Capítulo 128: O Ventre da Besta
 
-## Consistência de Lore
-- **Fobia de Fumaça/Tabaco:** Ocorreu uma quebra de lore severa onde a IA provocava Gabo sobre a "falta de nicotina tremendo sua mão" e a narrativa trazia memórias de "cinzeiros transbordando e negligência, não desejo". Isso foi corrigido para focar no pânico real do protagonista: a provocação mudou para "o pânico da fumaça", e as memórias foram atreladas à cabine trancada de seu pai, o terror de asfixia que gerou seu TEPT. Ele novamente ancorou sua sanidade e foco travando as próteses pernas e enfrentando a dor.
-- **Limitações Físicas de Gabo:** Adicionado o ranger das engrenagens e as limitações das órteses de perna enquanto ele recuava balançando a escopeta como uma maça, reforçando a limitação imposta por seu corpo cibernético defasado em combate intenso.
+Fonte: [capítulo 128](/capitulo-128.md).
 
-## Revisão Geral
-- A transição do biológico para o sistema circulatório bizarro da infraestrutura ("sangue" nas estações de bombeamento) reflete o avanço da cidade-como-entidade, alinhavando com os temas de carne e máquina em colapso.
-- O combate com as Quimeras demonstrou bem o pragmatismo violento e instintivo de Gabo.
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
+
+## Passagens de entrada e saída
+
+> O cheiro não era apenas de podridão; era de tempo estagnado. Uma mistura de lodo antigo, cobre oxidado e algo adocicado que Gabo conhecia muito bem: carne em decomposição. Mas não havia espaço para o olfato processar o nojo. Seus outros sentidos estavam gritando.
+
+### Saída
+
+> — Vamos continuar — ele disse, recarregando a última bala na *Caronte*. — Antes que os anticorpos cheguem.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

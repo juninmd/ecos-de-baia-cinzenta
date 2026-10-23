@@ -1,18 +1,31 @@
-# Análise Crítica - Capítulo 30.5 (Interlúdio)
+# Análise do Capítulo 30.5
 
-## Avaliação Técnica
-- **Ritmo (Pacing):** 9/10. O capítulo funciona perfeitamente como um interlúdio, revelando o escape de Miranda e sua subsequente punição pelas mãos dos Jardineiros de forma fluida. O suspense escala de forma natural.
-- **Diálogos:** 8/10. Os diálogos de Miranda demonstram bem sua arrogância característica. A voz dos Jardineiros (Silas Vance) introduz bem a ameaça biológica, contrastando perfeitamente com a dependência tecnológica e financeira de Miranda.
-- **Atmosfera:** 9/10. Excelente transição do luxo tecnológico blindado (bunker, uísque, holografias) para o terror somático biológico (raízes, seiva, fungos). O ambiente claustrofóbico gerado pelas plantas invasoras é palpável.
+Escopo: [interlúdio 30.5](/capitulo-30.5.md), cotejado com 13 e 23 e com a referência de prótese em 55. Autorrevisão; os demais capítulos de retorno não estão aprovados por essa comparação.
 
-## Pontos Fortes e Fracos
-- **Pontos Fortes:** A introdução orgânica dos Jardineiros e de Silas Vance no núcleo corporativo. O uso do Syn-Doll como explicação para a falsa morte de Miranda é muito criativo dentro do cenário cyberpunk. O castigo irônico sofrido pelo antagonista enriquece o lore do Projeto Gênesis.
-- **Pontos Fracos:** A transição imediata para a invasão dos Jardineiros poderia ser um pouco mais detalhada nos sensores de segurança antes da voz se manifestar, para aumentar o suspense tecnológico antes da invasão biológica.
+## Mudanças e cadeia causal
 
-## Sanity Check
-- **Gabo interagiu com algum fumante? Como sua repulsa foi demonstrada?** Gabo não está presente nesta cena (é focada no antagonista). Nenhuma quebra de lore de Gabo ocorre aqui.
-- **O plot twist deste capítulo invalida algo estabelecido nos capítulos anteriores?** Não. Ele apenas recontextualiza a morte de Miranda, adicionando profundidade à ameaça do Projeto Gênesis, integrando-o ativamente ao próximo arco da história.
-- **O resumo da lore foi atualizado com os novos eventos?** Sim. Silas Vance e os Jardineiros são formalizados como a nova ameaça que transforma metal em carne, e o destino de Miranda se consolida com a introdução do adubo orgânico/biomorfos.
+O interlúdio é um avanço de vinte e quatro horas. Miranda continua sendo o sobrevivente ferido de 23. Transporte privado e alta a pedido sustentam sua chegada à cobertura; quem o retirou da custódia anterior continua desconhecido. O biomorfo foi retirado: as fontes revistas não apresentavam a morte que ele supostamente explicava.
 
-## Avaliação Qualitativa
-A história se expande de forma brilhante. A arrogância de Roberto Miranda serve como contraponto perfeito à força impiedosa da natureza distorcida. Os Jardineiros surgem como uma ameaça arrepiante. A coerência do universo está mantida, e a necessidade de "novos personagens" é bem suprida pela revelação de que a verdadeira ameaça estava latente o tempo todo. Não há problemas estruturais a reescrever.
+Energia de reserva e gravação local não restauram telefone, autenticação remota ou elevador. A chave mecânica existe antes de abrir o cofre. Planta, umidade e ruídos antecedem a entrada pelo serviço; aço não é rasgado como papel. Um invasor sangra quando ferido.
+
+Silas aparece na fase viva, com jaleco e olhos intactos. A ligação entre manutenção e entrada é uma pista local introduzida nesta revisão; não demonstra retrospectivamente toda a infiltração dos Jardineiros. Miranda é capturado vivo, sem confirmação de morte ou transformação instantânea.
+
+## Portões D1–D5
+
+- **D1:** 1.223 palavras de corpo, incluindo o marcador cronológico; 116 linhas.
+- **D2:** H1 único idêntico ao menu, preservando o número 30.5.
+- **D3:** apenas Miranda, Silas e invasores presentes; Gabo e Aria não são elenco físico.
+- **D4:** prótese direita ausente, dor e uso da esquerda; Silas anterior à drenagem.
+- **D5:** a chave permanece ao alcance do braço que Miranda perdeu.
+
+## Régua editorial
+
+| Eixo | Nota | Evidência |
+| --- | --- | --- |
+| Atmosfera | 2 | Sangue, filtro e terra disputam o abrigo comprado |
+| Custo | 1 | Miranda perde casa, ouro disponível e liberdade; destino corporal continua aberto |
+| Voz | 2 | Miranda negocia valores; Silas escolhe utilidade e controla o ferido |
+| Ritmo | 2 | Cofre, tentativa de fuga e invasão expõem dependências em ação |
+| Consequência | 2 | O cassino visto de dentro devolve a violência ao próprio sobrevivente |
+
+**Total: 9/10.** Conferido no intervalo. A antecipação de Silas em relação à síntese do dossiê e a reposição da prótese antes de 55 pedem alinhamento nos próximos registros de cânone.

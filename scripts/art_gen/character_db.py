@@ -1,6 +1,7 @@
 import os
 import re
-
+from pathlib import Path
+from scripts.art_gen.markdown_sources import read_markdown
 # Compile regex at module level for performance
 NAME_CLEAN_RE = re.compile(r'\[([^\]]+)\](?:\([^\)]+\))?')
 IMAGE_MATCH_RE = re.compile(r'!\[[^\]]*\]\(([^\)]+)\)')
@@ -10,15 +11,12 @@ NICKNAME_MATCH_RE = re.compile(r'"(.*?)"')
 NAO_PERSONAGEM_RE = re.compile(r'<!--\s*nao-personagem\s*-->')
 DESCRIPTION_KEYS_RE = re.compile(
     r'(Porte Físico|Vestuário|Marcas Distintivas|Cabelo|Olhos|Rosto|Idade|Prompt Visual):')
-
 # Títulos viram alias genérico: "Dra." casava com Nise, Elara e Cecília ao mesmo tempo.
 HONORIFICS = {
     "dr.", "dra.", "doutor", "doutora", "padre", "capitão", "capitao", "inspetor",
     "inspetora", "prefeito", "prefeita", "comissário", "comissario", "sargento",
     "tenente", "coronel", "major", "agente", "detetive", "chefe", "senhor", "senhora",
 }
-
-
 class CharacterDatabase:
     def __init__(self, filepath):
         self.filepath = filepath
@@ -26,15 +24,13 @@ class CharacterDatabase:
         self._alias_map = None
         self._compiled_pattern = None
         self.load()
-
     def load(self):
         if not os.path.exists(self.filepath):
             print(f"⚠️ Warning: Character file not found at {self.filepath}")
             return
 
         try:
-            with open(self.filepath, 'r', encoding='utf-8') as f:
-                content = f.read()
+            content = read_markdown(Path(self.filepath))
         except (IOError, OSError) as e:
             print(f"⚠️ Error reading character file: {e}")
             return

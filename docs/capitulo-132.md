@@ -1,15 +1,13 @@
-## Metadados
-- **Título:** Esculturas de Carne
-- **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
-- **Localização:** Necrópole (Fundações da Velha Baía) - Zona de Silêncio
-- **Personagens Presentes:** Gabo, Valéria, Aria (Glitch/Bia), Rangel (Inconsciente)
-- **Foco:** O grupo atravessa a "Galeria de Rejeitos" na Necrópole, onde o Taxidermista descartou experimentos falhos de fusão carne-máquina. Sem poder usar armas de fogo devido ao metano, Gabo enfrenta uma "Escultura" ativa em combate corpo-a-corpo visceral guiado pela análise do pendrive da Aria. Valéria usa epóxi industrial para fechar os ferimentos de Rangel.
-
-## Narrativa
+---
+title: "Capítulo 132: Esculturas de Carne"
+Data In-Game: "Pós-Colapso da Usina Prometeu (Noite Eterna)"
+Localização: "Necrópole (Fundações da Velha Baía) - Zona de Silêncio"
+Personagens Presentes: "Gabo, Valéria, Aria (Glitch/Bia), Rangel (Inconsciente)"
+---
 
 # Capítulo 132: Esculturas de Carne
 
-O silêncio na Necrópole não era vazio; era pesado. Tinha massa, densidade e cheiro. Cheirava a cobre velho, amônia e algo doce demais para ser natural — metano se acumulando em bolsões invisíveis, esperando apenas uma faísca para transformar o subsolo em um forno crematório.
+O silêncio na Necrópole não era vazio; era pesado. Tinha massa, densidade e cheiro. Cheirava a cobre velho, amônia e algo doce demais para ser natural — o detector avisava que havia gás combustível em bolsões invisíveis, esperando apenas uma faísca para transformar o subsolo em um forno crematório.
 
 Gabo ajustou a correia improvisada em seu ombro. O peso de Rangel, amarrado à maca que ele improvisara com canos de PVC arrancados da estação e lonas rasgadas, cortava a circulação de seu braço esquerdo. Cada passo era uma negociação com a gravidade. Suas botas esmagavam ossos antigos — a fundação literal de Baía Cinzenta — com um estalo seco que ecoava como tiros de festim na escuridão.
 
@@ -21,7 +19,7 @@ Gabo grunhiu em resposta. O ar denso e irrespirável trazia à tona a memória s
 
 No comunicador preso ao colarinho de Gabo, o pendrive blindado da Aria processava o feixe infravermelho do visor de Valéria. O pequeno LED na lateral do drive alternava entre o azul tático e um âmbar febril.
 
-— *É bonito, não é?* — a voz dela mudou no fone auricular. Não era a cadência sintética da assistente tática. Era Bia. O tom brincalhão, levemente rouco, que ela usava quando encontrava uma pista irrefutável. — *O Taxidermista tem... visão.*
+— *É bonito, não é?* — a voz dela mudou no fone auricular. Não era a cadência sintética da assistente tática. Era Aria. O registro adulto da assistente, retomado apenas para alertas depois de Val bloquear o canal de reprodução. — *O Taxidermista tem... visão.*
 
 Gabo evitou olhar para o LED piscando no próprio peito. Ouvir aquilo doía mais do que o peso de Rangel.
 
@@ -33,21 +31,21 @@ Dezenas delas. Corpos humanos, ou o que restava deles, fundidos com sucata indus
 
 Eram os rascunhos. As falhas. O lixo do ateliê do Taxidermista.
 
-— *"A carne é efêmera, mas a arte é eterna"* — Aria citou pelo fone, enquanto o scanner óptico do comunicador focava uma escultura que parecia um homem tentando escapar de uma banheira de concreto. — *Ele tentou consertá-los, Gabo. Como a Valéria tentou consertar meu drive. Como você tentou consertar a cidade.*
+— *"A carne é efêmera, mas a arte é eterna"* — Aria citou pelo fone, enquanto o scanner óptico do comunicador focava uma escultura que parecia um homem tentando escapar de uma banheira de concreto. — *A frase está na placa da base. Registrei como citação do ateliê, não como descrição das pessoas que ele matou.*
 
 — Cale a boca — Gabo rosnou, puxando a maca com força. O corpo de Rangel gemeu, um som gorgolejante de dor inconsciente.
 
-— Ele está vazando — Valéria avisou, ajoelhando-se ao lado do inspetor. Ela apontou para o curativo de Rangel. O sangue escuro estava encharcando a lona. — Precisamos estancar isso. Agora. Mas não posso cauterizar sem fogo.
+— Ele está vazando — Valéria avisou, ajoelhando-se ao lado do inspetor. Ela apontou para o curativo de Rangel. O sangue escuro estava encharcando a lona. — Precisamos estancar isso. Agora. O curativo de reserva está no estojo que Nise deixou.
 
-— Use a cola — Gabo ordenou, largando a correia e sacando sua faca de combate. A lâmina de cerâmica negra, não condutora, era a única arma segura ali. — Aquele epóxi industrial que pegamos na estação.
+— Use o material lacrado — Gabo ordenou, largando a correia e sacando sua faca de combate. A lâmina de cerâmica negra, não condutora, era a única arma segura ali. — O kit que a equipe deixou junto à ficha de transporte.
 
-— Vai queimar como o inferno — Valéria disse, já revirando a mochila.
+— Não vai resolver o ferimento — Valéria disse, já revirando a mochila.
 
 — Ele não vai sentir. Ele está apagado agora.
 
 Um som de metal arranhando pedra cortou o ar.
 
-Gabo congelou. Valéria parou com o tubo de cola na mão.
+Gabo congelou. Valéria parou com a embalagem do curativo na mão.
 
 O som veio da "Galeria".
 
@@ -61,9 +59,9 @@ A Coisa avançou. Movia-se aos trancos, as articulações rangendo, mas era ráp
 
 — Valéria, cuide do Rangel — Gabo ordenou, girando a faca na mão. — Aria, joga a telemetria de combate no meu áudio!
 
-— *Eu podia estar aí do seu lado de verdade, Gabo* — a voz de Bia soou magoada no fone. — *Você sempre tenta resolver tudo no braço.*
+— A câmera perdeu a perna direita do alvo — disse Aria. — Recue até conseguir mostrá-la; eu não vejo através do seu corpo.
 
-— Você é um assistente tático num pendrive com crise de identidade! Lê os pontos fracos dessa coisa agora!
+— Você consegue ler o apoio dessa coisa? Lê os pontos fracos dessa coisa agora!
 
 A escultura atacou. A lâmina da ceifadeira desceu com força suficiente para partir concreto. Gabo rolou para o lado, sentindo o vento do golpe em seu rosto. Ele se levantou e chutou o joelho da criatura — uma junção exposta de metal e ligamento.
 
@@ -73,7 +71,7 @@ Gabo abaixou-se, o cheiro de óleo rançoso e carne podre enchendo suas narinas.
 
 Os dedos de metal apertaram o ombro de Gabo, esmagando o tecido do sobretudo e mordendo a carne. Gabo grunhiu, a dor branca explodindo em seu braço.
 
-— *Analisando padrão de ataque pelo giroscópio do seu comunicador* — Aria disse no fone, misturando frieza analítica com a intimidade de Bia. — *O centro de gravidade dele é instável, Gabo. A perna direita. O pistão hidráulico está vazando pressão.*
+— *Analisando padrão de ataque pela câmera do seu comunicador* — Aria disse no fone, misturando frieza analítica com a intimidade de Bia. — *O centro de gravidade dele é instável, Gabo. A perna direita. O pistão hidráulico está vazando pressão.*
 
 — Finalmente... algo útil! — Gabo gritou, chutando o peito da criatura. Parecia chutar uma parede de tijolos.
 
@@ -89,21 +87,21 @@ A escultura caiu pesadamente no chão de pedra, a lâmina da ceifadeira riscando
 
 Gabo montou nas costas da criatura, recuperou sua faca e a enterrou na base do pescoço, girando-a violentamente até sentir a conexão neural — ou o que quer que fosse aquilo — se romper. A Coisa tremeu, espasmos de óleo e sangue negro jorrando, e parou.
 
-Silêncio. Apenas a respiração ofegante de Gabo e o som de Valéria aplicando o epóxi no ferimento de Rangel.
+Silêncio. Apenas a respiração ofegante de Gabo e o som de Valéria prendendo o curativo sobre o ferimento de Rangel.
 
 Gabo se levantou, limpando a faca na calça. No seu colarinho, o LED âmbar do pendrive da Aria piscou suavemente.
 
-— *Boa execução, Gabo* — murmurou a voz de Bia no fone dele. — *Mas sua guarda estava baixa. O Gabo que eu conhecia era mais rápido.*
+— *Boa execução, Gabo* — murmurou a voz de Bia no fone dele. — *Sua guarda estava baixa. Na próxima vez preciso que confirme o que está fora da câmera.*
 
 Gabo tocou o pequeno drive de titânio preso ao comunicador, falando baixo no microfone.
 
-— O Gabo que você conhecia morreu com você, Bia. O que sobrou é isso aqui.
+— Você não conheceu aquele Gabo, Aria. — Ele parou para recuperar o ar. — Desculpa. Eu estou respondendo à pessoa errada.
 
 Ele se virou para Valéria.
 
 — Como está o Rangel?
 
-— Estável. Por enquanto. A cola vai segurar, mas ele precisa de um hospital, não de uma loja de ferragens.
+— Estável. Por enquanto. O curativo está preso, mas ele precisa da Nise. Não temos como dizer que está estável só porque parou de molhar por fora.
 
 Gabo olhou para a escuridão à frente, para o corredor de esculturas que pareciam observá-los.
 

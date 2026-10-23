@@ -8,18 +8,14 @@ Localização: "Zona de Exclusão Sul - Antiga Linha Vermelha do Metrô"
 ---
 # Capítulo 100: O Ventre da Besta
 
-**Zona de Exclusão Sul - Antiga Linha Vermelha do Metrô**
-
+Zona de Exclusão Sul - Antiga Linha Vermelha do Metrô
 A garagem do prédio cheirava a óleo velho, mofo e poeira de concreto. Gabo acendeu o lampião, encostou a bengala na bancada e ligou o rádio de onda curta.
 
 O aparelho era da delegacia. Vilar tinha emprestado com a condição de que ele não ligasse.
 
-Ele girou o dial até a faixa morta, que ninguém usava desde o Grande Silêncio, e chamou o nome dela duas vezes. Sem código. Do jeito que se chama alguém em casa.
+Ele girou o dial até a faixa morta, que ninguém usava desde o Grande Silêncio, e chamou o nome dela duas vezes. Sem código. Do jeito que se chama alguém em casa. O chiado mudou. Não virou voz. Virou ritmo.
 
-O chiado mudou. Não virou voz. Virou ritmo.
-
-*"...protocolo... reiniciado... busca... sinal..."*
-
+"...protocolo... reiniciado... busca... sinal..."
 Gabo já tinha ouvido aquilo na Zona Morta. Agora vinha pelo canal que acabara de abrir.
 
 A válvula final ficou branca por dois segundos, soltou um estalo de verniz queimado e morreu. Cinco quilos de radiofrequência que a cidade não fabricava mais viraram peso morto.
@@ -30,9 +26,9 @@ Era ela, do outro lado de uma linha que não existia mais. No bolso do sobretudo
 
 — Jardim das Flores — disse Elena, antes que ele abrisse a boca. — Duas horas. Traga o cubo. Não traga mais ninguém.
 
-A linha morreu num estalo. O rádio estava morto havia um minuto.
+A voz vinha do cubo, no bolso. Elena repetiu a hora e o lugar; o rádio queimado continuou sem som. Gabo anotou a mudança de fonte antes de sair.
 
-Duas horas depois, o Cobalt azul-metálico cortava a neblina como uma lâmina cega. O motor tossia com a gasolina de baixa octanagem que Gabo comprara no mercado negro trocando três caixas de antibióticos.
+Duas horas depois, o Cobalt azul-metálico cortava a neblina como uma lâmina cega. O motor tossia com a gasolina de baixa octanagem que Gabo comprara no mercado negro entregando a bateria de reserva do apartamento e duas ferramentas que usava nas órteses.
 
 Ele não fumava — detestava o cheiro, herança maldita do pai —, mas os dedos tamborilavam no volante num ritmo frenético, um tique para manter a mente alerta. Ao seu lado, no banco do passageiro, o cubo preto repousava, silencioso e inerte, como uma bomba esperando o detonador.
 
@@ -82,7 +78,7 @@ Ela o encarou, e Gabo viu um medo profundo naqueles olhos, um medo que ele só v
 
 Ela devolveu o cubo. Gabo o guardou no bolso do casaco, onde ficou quente contra o peito, vibrando de vez em quando como dente que dói.
 
-Ela fez um sinal para que ele a seguisse. Eles pularam a catraca quebrada e começaram a descer as escadas rolantes paralisadas.
+Ela conferiu a bolsa: cartuchos de reserva, pé de cabra, dois sinalizadores de emergência. Deixou um cartucho separado para não perder a conta no escuro. Depois fez um sinal para que ele a seguisse. Elena passou pela catraca quebrada e abriu o portão lateral para Gabo e começaram a descer as escadas rolantes paralisadas.
 
 — Dante descobriu antes de morrer — explicou ela, a voz ecoando no túnel. — O "Projeto Gênesis" não era sobre upload de consciência. Era sobre download. Eles queriam trazer algo *de lá* para *cá*. Mas precisavam de um receptáculo que aguentasse a latência. Silício queima. Carne aguenta.
 
@@ -110,17 +106,13 @@ Ela digitou furiosamente. Gabo observou a tela verde monocromática.
 
 — Não é uma senha. É uma localização. Eles esconderam o acesso na geografia da cidade.
 
-Elena digitou: `BERCARIO`.
-
-O terminal bipou.
+Elena encaixou a chave de manutenção presa ao caderno de Elara. O terminal leu o certificado local; ela escolheu o destino marcado na planta: `BERCARIO`. O acesso ficaria registrado naquela chave. O terminal bipou.
 
 `>> ACESSO CONCEDIDO. BEM-VINDO AO NÍVEL 0.`
 
 As travas hidráulicas da porta gemeram. O metal gritou contra a ferrugem, e a porta se abriu lentamente, liberando uma lufada de ar quente e úmido.
 
-Gabo ergueu a lanterna, mas o facho de luz foi engolido pela imensidão do que havia do outro lado.
-
-Não era uma sala. Era uma caverna colossal, escavada sob as fundações da cidade. E não estava vazia.
+Gabo ergueu a lanterna, mas o facho de luz foi engolido pela imensidão do que havia do outro lado. Não era uma sala. Era uma caverna colossal, escavada sob as fundações da cidade. E não estava vazia.
 
 No centro, pendurado no teto por cabos grossos como troncos de árvores, havia um casulo. Um coração gigantesco, pulsando com luz bioluminescente roxa e vermelha. Tubos translúcidos saíam dele, bombeando um fluido viscoso para centenas de tanques menores dispostos em fileiras no chão.
 
@@ -138,8 +130,7 @@ Dentro, flutuando no líquido amniótico sintético, havia uma forma humanoide. 
 
 O chão estremeceu. Um som grave, como o bater de um tambor gigante, veio do casulo central.
 
-*BUM-BUM.*
-
+BUM-BUM.
 — Está vivo? — perguntou Gabo, sentindo o tremor subir pelas pernas travadas no metal.
 
 — Pior — respondeu Elena, engatilhando a escopeta. — Está com fome. E nós acabamos de tocar a campainha do jantar.

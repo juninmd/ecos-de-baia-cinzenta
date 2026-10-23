@@ -1,25 +1,17 @@
----
-estado: revisado
-capitulo: 121
----
+# Revisão de Capítulo 121: Fios Desencapados
 
-# Análise Crítica - Capítulo 121
+Fonte: [capítulo 121](/capitulo-121.md).
 
-## Metadados
-- **Capítulo:** 121: Fios Desencapados
-- **Data de Revisão:** (Atual)
-- **Revisor:** AI
+Val impede a solda na ferida de Rangel. O grupo cobre o ferimento e procura atendimento; a mulher resgatada no porto encaminha o pedido de ajuda.
 
-## Avaliação Técnica (1-10)
-- **Ritmo (Pacing):** 8/10
-- **Diálogos:** 8.5/10
-- **Atmosfera:** 9/10
+## Passagens de entrada e saída
 
-## Pontos Fortes e Fracos
-- **Fortes:** O peso psicológico e prático da operação médica improvisada aprofunda muito as escolhas dos personagens no bunker.
-- **Fracos:** Foi identificada uma inconsistência menor relacionada à forma como Gabo lidava com suas emoções em momentos de estresse.
+> O caminhão de reboque morreu com um suspiro engasgado assim que cruzaram a comporta de entrada do esgoto. O silêncio que se seguiu foi pesado, quebrado apenas pelo som de metal esfriando e pela respiração irregular de Rangel.
 
-## Sanity Check
-- **Aversão a Fumo:** Verificado e corrigido. O texto aborda o trauma da "fumaça" como um gatilho ligado ao pai abusivo de Gabo, e isso está mantido e validado pela lore. Entretanto, havia uma menção que suas mãos tremiam "não por vício", sugerindo um vício passado. Isso foi alterado para "não por fraqueza", reafirmando que o trauma dele não está ligado a vício em nicotina.
-- **Coerência de Plot:** Operação de trauma físico sem mágica de autodocs mantém a essência crua.
-- **Lore Updates:** A explicação sobre a reestruturação fragmentada da personalidade de Aria constrói excelente tensão para o futuro.
+### Saída
+
+> — Por enquanto — repetiu Gabo.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

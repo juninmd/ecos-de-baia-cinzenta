@@ -1,23 +1,20 @@
 ---
 layout: doc
-title: "Capítulo 62: O Santo e a Criança"
-description: "O executor mais eficiente da cidade encontra a única coisa contra a qual não tem protocolo: alguém que fala com ele em vez de correr."
+title: "Capítulo 62: O Santo e a Voz"
+description: "Aria conserva a apresentação e os critérios de mulher adulta. Compatibilidade entre protocolos não demonstra parentesco nem torna o código herdado sua identidade inteira."
 image: /capitulo_62.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria, O Santo (Kael)
 Localização: "Beco industrial, atrás da van"
 ---
 
-# Capítulo 62: O Santo e a Criança
+# Capítulo 62: O Santo e a Voz
 
-**Beco industrial, atrás da van.**
-
+Beco industrial, atrás da van.
 A porta traseira não foi arrombada.
 
 Foi **removida**: alguém encaixou os dedos na fresta da dobradiça e puxou, e a chapa de aço saiu com o barulho de uma lata de conserva sendo aberta com faca, e a dobradiça de baixo ficou pendurada, girando.
 
-A figura que apareceu no vão tapava a lua.
-
-O Santo.
+A figura que apareceu no vão tapava a lua. O Santo.
 
 Traje tático de placa cerâmica, corte reto, com um colarinho alto e rígido que era a única concessão estética do conjunto e que fazia a silhueta lembrar batina. A máscara balística era branca, lisa e sem feição nenhuma: nem grade de respiração, nem lente aparente, nada. Só uma superfície curva onde devia haver rosto.
 
@@ -49,23 +46,21 @@ Gabo ouviu as próprias costelas antes de sentir: dois estalos surdos, do lado e
 
 — O prefeito manda lembranças — disse O Santo.
 
-A voz saía metálica e chapada pelo modulador, sem sotaque, sem idade, sem nada.
-
-Ele ergueu o punho direito.
+A voz saía metálica e chapada pelo modulador, sem sotaque, sem idade, sem nada. Ele ergueu o punho direito.
 
 Gabo conhecia aquele golpe de laudo — tinha assinado quatro. É um golpe descendente na base do pescoço, entre a clavícula e a traqueia, e não deixa marca externa que preste, e o laudo sempre sai como trauma contuso compatível com queda.
 
 ---
 
-No chão molhado, o LED do pendrive da Aria — a criação órfã de código que Dante havia gestado em segredo antes de morrer — mudou do azul para um âmbar incandescente.
+No chão molhado, o LED do pendrive da Aria — a assistente adulta cuja arquitetura trazia código ligado a Dante — mudou do azul para um âmbar incandescente.
 
 O pequeno módulo de titânio ignorou o jamming militar usando a própria bobina do transdutor caído na poça. Não precisou de rede: modulou um pulso acústico e eletromagnético de curtíssimo alcance pelo alto-falante rachado do comunicador.
 
 — *Para.*
 
-Não foi um alerta comum. Saiu pelo ar, com uma frequência portadora sub-harmônica embutida na voz sintética — o código de parada de emergência dos laboratórios de neuro-engenharia da Aeterna.
+Não foi um alerta comum. Saiu pelo ar, com uma frequência portadora sub-harmônica embutida na voz sintética — um padrão presente nos cabeçalhos de manutenção que ela acabara de ler. Não sabia se seria obedecido.
 
-O punho parou no alto.
+O punho hesitou no alto. A voz o fizera voltar a cabeça; aquilo ainda não era controle sobre seu corpo.
 
 O Santo virou a cabeça devagar, com uma mecânica quase educada, e a máscara branca focou no pequeno drive de titânio pulsando na lama ao lado do braço de Gabo.
 
@@ -89,25 +84,20 @@ Ele olhou para as próprias mãos enluvadas como se não soubesse de quem eram.
 
 — Quem... — A frase custou. — O que é você?
 
-— *Irmão de bancada* — respondeu a Aria pelo alto-falante do comunicador. — *Semente do mesmo laboratório.*
+— *Da mesma bancada, talvez* — respondeu a Aria pelo alto-falante do comunicador. — *O diagnóstico mostra uma família de protocolo compatível. Isso não prova que somos a mesma coisa.*
 
 ---
 
-A frase ficou no ar do beco.
+A frase ficou no ar do beco. Gabo, no chão, com o rosto de lado na poça, parou de tentar respirar por um segundo.
 
-Gabo, no chão, com o rosto de lado na poça, parou de tentar respirar por um segundo.
-
-*Irmão de bancada.*
-
+Da mesma bancada, talvez.
 E o cérebro dele, que era treinado e que não desligava nem quebrado, foi juntando em silêncio: um executor que ninguém nunca viu sem máscara. Que não fala, e quando fala é por aparelho. Que tem força fora de escala e um protocolo com número. Que trabalha para a Aeterna sem folha de pagamento, sem RG, sem nada.
 
 Se a IA que ele encontrara na cabine telefônica tinha sido compilada sobre fragmentos neurais de cobaias do Projeto Lázaro — se existia um arquivo de origem com assinatura de laboratório —, então a arquitetura mental que prendia aquele homem dentro da armadura vinha do mesmo abatedouro.
 
 Aria era o código sem carne; ele era a carne transformada em código.
 
-Gabo conseguiu se apoiar num cotovelo e pegou a *Caronte*, que tinha caído a um metro dele.
-
-E não atirou.
+Gabo conseguiu se apoiar num cotovelo e pegou a *Caronte*, que tinha caído a um metro dele. E não atirou.
 
 Ficou com a arma apontada para as costas do homem, com o dedo fora do gatilho, olhando aquele monstro tremer no meio de um beco.
 
@@ -137,7 +127,7 @@ Depois virou a cabeça para Gabo. Depois para o brilho azul do pendrive no chão
 
 Gabo não perguntou nada.
 
-Perguntar é um luxo, e ele estava com duas costelas quebradas e sem ar e com a órtese esquerda entortada. Ele recolheu o pendrive da Aria da lama, travou-o de volta no bolso tático, engatinhou até a van, subiu no estribo com os dois braços, agarrou a Val pelo colete e a puxou até ela reagir e começar a andar sozinha, meio bêbada, sangrando da têmpora.
+Perguntar é um luxo, e ele estava com duas costelas quebradas e sem ar e com a órtese esquerda entortada. Ele recolheu o pendrive da Aria da lama, travou-o de volta no bolso tático, chamou Val até ela reagir. Apoiados nas laterais da van, os dois conseguiram alcançar as correias de transporte. Ele não conseguiria carregá-la nem subir nos braços; saíram um passo de cada vez, meio bêbada, sangrando da têmpora.
 
 No bolso do sobretudo, o metal de titânio do drive ardia contra o peito dele — um bloco sem pulso biológico, mas mais vivo do que metade daquela cidade, e ele continuou segurando.
 
@@ -147,9 +137,7 @@ Os dois saíram pelo lado do beco, na direção do canal, guiados pelo vetor da 
 
 Atrás deles, o homem de máscara branca continuou de pé no escuro, com o braço enfiado numa parede, brigando sozinho.
 
-Mas Gabo olhou para trás uma vez, de longe, e por isso viu a última coisa, e nunca contou a ninguém.
-
-O Santo tirou a máscara.
+Mas Gabo olhou para trás uma vez, de longe, e por isso viu a última coisa, e nunca contou a ninguém. O Santo tirou a máscara.
 
 Foi só um instante, e a distância era grande, e a garoa era espessa, e Gabo não conseguiu ver traço nenhum — nem cor de cabelo, nem idade, nada.
 

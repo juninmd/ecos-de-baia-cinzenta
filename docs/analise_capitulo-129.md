@@ -1,5 +1,17 @@
-# Análise do Capítulo 129
+# Revisão de Capítulo 129: Fluxo Reverso
 
-**Revisão de Lore e Continuidade:**
-- **Tabagismo/Trauma:** Identificada e corrigida uma menção onde Gabo afirma que não havia "desejo de fumar" e cita repulsa ao cheiro que lembrava um crematório, implicando que a repulsa era opcional frente ao vício. Isso foi alterado para reforçar o lore correto: ele tem fobia e pânico ligados à asfixia, combatidos através da ancoragem na dor física.
-- **Órteses Mecânicas:** Foi explicitamente adicionada a menção do ranger e das engrenagens/servomotores das órteses de perna de Gabo ao içar Rangel e ao correr no final do capítulo, reforçando as limitações físicas e cibernéticas do personagem.
+Fonte: [capítulo 129](/capitulo-129.md).
+
+Gabo autoriza uma reversão que pode atingir pessoas ainda vivas. Registra a ordem como sua; desejar que os reservatórios contenham apenas mortos não retira o risco.
+
+## Passagens de entrada e saída
+
+> O calor ali embaixo não era apenas temperatura; era uma pressão física. O ar vibrava com o *thump-thump* colossal dos pistões, um ritmo que Gabo sentia nos dentes e na ferida recém-adquirida no antebraço.
+
+### Saída
+
+> Ele não olhou mais. Ele apenas correu, carregando o peso dos vivos e dos mortos.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

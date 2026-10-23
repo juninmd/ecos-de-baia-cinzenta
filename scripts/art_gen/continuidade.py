@@ -11,6 +11,8 @@ import re
 from pathlib import Path
 from typing import Dict, List, Optional
 
+from scripts.art_gen.markdown_sources import read_markdown
+
 REPO_ROOT = Path(__file__).resolve().parents[2]
 PERSONAGENS_MD = REPO_ROOT / "docs" / "personagens.md"
 
@@ -69,7 +71,7 @@ def _carregar(caminho: Path = PERSONAGENS_MD) -> Dict[str, List[Dict]]:
     if not caminho.exists():
         return {}
     linhas_por_personagem: Dict[str, List[Dict]] = {}
-    for secao in caminho.read_text(encoding="utf-8").split("\n## ")[1:]:
+    for secao in read_markdown(caminho).split("\n## ")[1:]:
         nome = secao.splitlines()[0].strip().replace("*", "").strip()
         marcador = TIMELINE_RE.search(secao)
         if not marcador:
@@ -139,4 +141,5 @@ def primeiro_marco(nome: str) -> Optional[float]:
     sobretudo de couro, e o do 104 em diante é o macacão técnico.
     """
     fases = linhas_do_tempo().get(nome)
-    return fases[0]["inicio"] if fases else None
+    atuais = [f for f in fases or [] if "fase atual" in f["rotulo"].lower()]
+    return atuais[0]["inicio"] if atuais else fases[0]["inicio"] if fases else None
