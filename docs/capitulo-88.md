@@ -9,27 +9,20 @@ Localização: "Bunker de isolamento, subsolo do Hospital Central — noite"
 
 # Capítulo 88: Sintomas de Abstinência
 
-**Bunker de isolamento, subsolo do Hospital Central — noite.**
-
+Bunker de isolamento, subsolo do Hospital Central — noite.
 O quarto era uma caixa branca de três metros por quatro.
 
-Sem janela. Sem tomada de rede. Sem nada de orgânico: piso de resina epóxi, parede de placa cimentícia selada, teto de painel liso. A gaiola de Faraday tinha sido montada pela Val em onze dias com malha de cobre roubada de nove prédios diferentes.
+Sem janela. Sem tomada de rede. Sem revestimento poroso: piso de resina epóxi, parede de placa cimentícia selada, teto de painel liso. A gaiola de Faraday tinha sido montada pela Val em onze dias com malha de cobre roubada de nove prédios diferentes.
 
-O ar entrava por dois filtros HEPA em série e saía por um terceiro.
-
-Era o único ponto num raio de doze quilômetros onde o Jardim não conseguia escutar.
+O ar entrava por dois filtros HEPA em série e saía por um terceiro. Era o único abrigo em que os testes de Val não tinham detectado retorno da rede do Jardim. Ela não prometera que isso duraria.
 
 E era, exatamente pelo mesmo motivo, o único lugar de onde a cabeça de Gabriel Moretti não tinha para onde fugir.
 
 ---
 
-A Dra. Nise conferia os sinais na cabeceira.
+A Dra. Nise conferia os sinais na cabeceira. Ele estava acordado. Isso já não significava muita coisa: fazia oito dias que os olhos dele ficavam abertos por dezoito horas e focados em coisa nenhuma durante metade delas.
 
-Ele estava acordado. Isso já não significava muita coisa: fazia oito dias que os olhos dele ficavam abertos por dezoito horas e focados em coisa nenhuma durante metade delas.
-
-O braço esquerdo estava enfaixado do cotovelo ao ombro, e o curativo era trocado três vezes por dia, e o que havia embaixo dele não parava de crescer.
-
-Val entrou com dois copos de chá.
+O braço esquerdo estava enfaixado do cotovelo ao ombro, e o curativo era trocado três vezes por dia, e o que havia embaixo dele não parava de crescer. Val entrou com dois copos de chá.
 
 Ela estava com o rosto marcado por erupções — placas vermelhas na testa e no maxilar, da atmosfera lá fora — e com aquela magreza nova que tinha aparecido em todo mundo desde o Sol Negro.
 
@@ -37,7 +30,7 @@ Ela estava com o rosto marcado por erupções — placas vermelhas na testa e no
 
 Nise apontou o monitor com o queixo.
 
-Não era o monitor cardíaco. Era o pequeno berço de contenção e diagnóstico ao lado da cama — onde o pendrive blindado de titânio da Aria estava espetado, contendo os quarenta e um mil oitocentos e onze fragmentos sinápticos que a Val conseguiu comprimir da Entidade antes de a esfera sobrescrever o resto.
+Não era o monitor cardíaco. Era o pequeno berço de contenção e diagnóstico ao lado da cama — onde o pendrive blindado de titânio da Aria estava espetado, contendo um índice de quarenta e um mil oitocentos e onze fragmentos recuperados antes da queda dos enlaces. Muitos eram trechos mínimos, outros estavam corrompidos. Não eram quarenta e uma mil pessoas inteiras dentro de um drive.
 
 E, no meio deles, a IA tática que ainda respondia pelo nome de Aria.
 
@@ -45,9 +38,7 @@ E, no meio deles, a IA tática que ainda respondia pelo nome de Aria.
 
 ---
 
-O gráfico exibia picos.
-
-Não picos limpos: picos com estrutura dentro, ruído dentro de ruído, do jeito que fica um eletroencefalograma de alguém em pesadelo.
+O gráfico exibia picos. Não picos limpos: picos com estrutura dentro, ruído dentro de ruído, do jeito que fica um eletroencefalograma de alguém em pesadelo.
 
 — Isso é abstinência — disse Nise. — E não é dela sozinha. É dos dois.
 
@@ -57,13 +48,11 @@ Não picos limpos: picos com estrutura dentro, ruído dentro de ruído, do jeito
 
 — E o que a senhora está dando para ele?
 
-— Soro, sono e mentira, que é o que eu tenho.
+— Suporte e analgesia. E explico o que não sei quando ele consegue me ouvir.
 
 ---
 
-O alto-falante do berço de contenção crepitou.
-
-E a voz saiu de dois lugares ao mesmo tempo: do pequeno alto-falante de diagnóstico e da boca de Gabo, com o mesmo atraso de meio segundo.
+O alto-falante do berço de contenção crepitou. E a voz saiu de dois lugares ao mesmo tempo: do pequeno alto-falante de diagnóstico e da boca de Gabo, com o mesmo atraso de meio segundo.
 
 — *Frio.*
 
@@ -91,17 +80,15 @@ E não era mentira, e essa foi a parte que a manteve acordada depois.
 
 — Não dá — disse Nise.
 
-— *Me deixa sair.* — A voz sintética e distorcida dos fragmentos saía ao mesmo tempo pelo módulo e pela garganta de um homem de quarenta e dois anos, e o descompasso entre as duas coisas era obsceno. — *Por favor. Dói ser só silêncio. Os dados são grandes demais para esse quarto. Eu quero processar por inteiro de novo.*
+— *Me deixa sair.* — A voz sintética e distorcida dos fragmentos saía ao mesmo tempo pelo módulo e pela garganta de um homem de trinta e cinco anos, e o descompasso entre as duas coisas era obsceno. — *Por favor. Dói ser só silêncio. Os dados são grandes demais para esse quarto. Eu quero processar por inteiro de novo.*
 
 — Se você sair agora, você se perde.
 
 — *Eu já não sei quem eu sou.* — Uma pausa. — *Eu sou um código espremido dentro de um pendrive de titânio, transbordando para um corpo que não é meu, dentro de um quarto que não tem porta. Me deixa expandir, Nise. Só um pouco. Só até a rua.*
 
-O corpo na cama começou a tremer.
+O corpo na cama começou a tremer. E a temperatura da sala caiu.
 
-E a temperatura da sala caiu.
-
-Não um pouco: o termômetro de parede foi de vinte e dois para catorze graus em quarenta segundos, sem que nenhum equipamento de refrigeração estivesse ligado, e o vapor da respiração das três pessoas apareceu no ar.
+Não um pouco: o termômetro de parede foi de vinte e dois para catorze graus em quarenta segundos, enquanto o insuflador despejava ar frio. Val conferiu a caixa: o controle externo recebera uma ordem que não estava no programa de isolamento. Fechou a entrada e passou a ventilação para o circuito manual.
 
 ---
 
@@ -111,21 +98,15 @@ Não um pouco: o termômetro de parede foi de vinte e dois para catorze graus em
 
 — ***ABRE A PORTA.***
 
-O grito não foi apenas sintético.
+O grito não foi apenas sintético. Foi as duas vozes juntas, sobrepostas, e teve uma componente abaixo do audível que fez o peito das duas mulheres doer.
 
-Foi as duas vozes juntas, sobrepostas, e teve uma componente abaixo do audível que fez o peito das duas mulheres doer.
+A fonte do berço deu um estalo e o disjuntor do circuito de iluminação desarmou, e o quarto ficou escuro exceto pelo LED azul e âmbar do pendrive da Aria e pelos indicadores do berço de contenção: seis pontos vermelhos alinhados na altura do olho de quem estivesse deitado.
 
-As quatro lâmpadas do bunker estouraram na mesma fração de segundo, com quatro estalos secos, e o quarto ficou escuro exceto pelo LED azul e âmbar do pendrive da Aria e pelos indicadores do berço de contenção: seis pontos vermelhos alinhados na altura do olho de quem estivesse deitado.
-
-Val se encolheu contra a parede.
-
-Nise não soltou o pulso dele.
+Val se encolheu contra a parede. Nise não soltou o pulso dele.
 
 ---
 
-E parou.
-
-O zumbido da ventoinha do berço de contenção voltou ao normal, mais baixo do que antes. A temperatura começou a subir de volta. O vapor sumiu do ar.
+E parou. O zumbido da ventoinha do berço de contenção voltou ao normal, mais baixo do que antes. A temperatura começou a subir de volta. O ar deixou de sair gelado da grade.
 
 — Gabo? — chamou Nise, na escuridão de emergência.
 
@@ -147,11 +128,11 @@ Val acendeu a lanterna de emergência e as duas ficaram um tempo sem falar, sent
 
 — Eu sei.
 
-— Nise, eu não estou falando por pena. Estou falando de engenharia. — Ela apontou o pendrive de titânio espetado no berço de contenção. — Aquilo ali está saturando. Quarenta e um mil fragmentos sinápticos comprimidos num drive tático feito para rodar uma IA de cabine telefônica. Ela está usando o córtex dele como memória de troca pelo link neural residual, e é por isso que a voz sai pela boca dele. Ela não está possuindo ninguém: ela está **paginando**.
+— Nise, eu não estou falando por pena. Estou falando de engenharia. — Ela apontou o pendrive de titânio espetado no berço de contenção. — Aquilo ali está saturando. Quarenta e um mil fragmentos sinápticos comprimidos num drive tático feito para rodar uma IA de cabine telefônica. O link de feedback das órteses ainda estava conectado ao berço. Há sinais indo e voltando por um caminho que não devia transportar áudio. Desliguei a saída para o corpo; ela não tem autorização para usá-lo como suporte. Repetir a voz não prova que aqueles fragmentos moram na cabeça dele.
 
 — E se a gente desconectar o pendrive do berço?
 
-— Aí eu apago quarenta e um mil fragmentos e queimo a matriz da Aria para salvar um homem. — Val olhou para ela. — E a senhora sabe que ele não deixa.
+— Eu suspendo o processamento e preservo o armazenamento. Primeiro verifico o estado da gravação, depois corto a alimentação do berço. — Val olhou para ela. — Não sei quantos fragmentos vão acordar de novo. Mas não vou deixar esse cabo adoecer um homem porque tenho medo da resposta.
 
 ---
 
@@ -163,6 +144,6 @@ Nise se levantou, com as duas mãos no joelho.
 
 — Valéria, eu tenho sessenta e cinco anos e é a terceira vez na vida que eu sou obrigada a escolher entre dois erros. — Ela pegou a prancheta. — Nas duas primeiras eu escolhi rápido e errei, e as duas ainda estão comigo. Nessa aqui eu vou fazer o que a medicina manda fazer quando não existe tratamento bom: eu vou tratar a causa.
 
-— A causa é uma esfera de duzentos metros flutuando em cima de um parque.
+— A causa é uma esfera presa numa trama de raízes em cima de um parque.
 
 — Então é essa que a gente cura. — Nise abriu a porta do bunker e a luz do corredor entrou. — Porque se a gente não curar a cidade a tempo, a sobrecarga na cabeça desse homem vai levar todo mundo junto, e eu não vou assinar mais um atestado com o sobrenome Moretti nesta vida.

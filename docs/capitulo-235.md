@@ -1,6 +1,6 @@
 ---
 Título: O Lado B
-Data In-Game: Sexta madrugada na Velha Baía
+Data In-Game: Sétima madrugada na Velha Baía
 Localização: Subestação Orla Norte em Chamas, Velha Baía
 Personagens Presentes: Gabo, Valéria, Elias, Elena
 ---
@@ -13,19 +13,19 @@ A cinco quilômetros da costa, enquanto o jipe a diesel de Elias subia aos tranc
 
 A cidade inteira estava acordando para ouvir os nomes de seus carrascos.
 
-— O transmissor entrou em regime de ressonância — disse Valéria, debruçada sobre o para-brisa trincado. Os sensores óticos dela refletiam o clarão avermelhado que tingia a linha do horizonte. — A potência irradiada excede os limites operacionais em trezentos por cento. A blindagem da torre cedeu.
+— O transmissor entrou em regime de ressonância — disse Valéria, debruçada sobre o para-brisa trincado. Os sensores óticos dela refletiam o clarão avermelhado que tingia a linha do horizonte. — O sinal está distorcendo e perdendo potência. Não consigo medir a saída do transmissor daqui.
 
 Quando dobramos a curva do quebra-mar, vimos a carcaça da subestação.
 
-Não havia mais prédio. O que restava era uma cratera incandescente de metal e alvenaria retorcida, cuspindo labaredas azuis de óleo isolante contra o céu de chuva. A explosão do banco de capacitores havia arrancado a ala oeste como quem corta uma lata de sardinha. Três veículos blindados da força de contenção da Aeterna estavam reduzidos a carcaças de aço negro, com os pneus queimando em poças de borracha líquida.
+A ala de potência tinha desabado. A sala de transmissão ainda estava de pé, separada pela parede corta-fogo. O que restava era uma cratera incandescente de metal e alvenaria retorcida, cuspindo labaredas azuis de óleo isolante contra o céu de chuva. A explosão do banco de capacitores havia arrancado a ala oeste como quem corta uma lata de sardinha. Três veículos blindados da força de contenção da Aeterna estavam reduzidos a carcaças de aço negro, com os pneus queimando em poças de borracha líquida.
 
-Os drones sentinelas jaziam espalhados pelo cascalho como besouros pisoteados. Nenhum deles operava. O pulso de sobrecarga da torre havia fritado os circuitos de navegação em um raio de dois quilômetros. A infraestrutura de vigilância que sufocava a Baía há meio século estava cega.
+Os drones sentinelas jaziam espalhados pelo cascalho como besouros pisoteados. Nenhum deles operava. A perda do alimentador derrubara os sentinelas ligados àquela subestação. Não sabíamos quantos outros continuavam operando além da orla.
 
-Elena havia cumprido o que prometeu: ela havia quebrado a espinha da corporação.
+Elena havia cumprido o que prometeu: ela mantivera a transmissão tempo bastante para alguém repeti-la.
 
 — Para o carro, Elias — ordenei, batendo com a mão esquerda na chapa da porta.
 
-O freio cantou no cascalho úmido. Desci antes do veículo parar completamente.
+O freio cantou no cascalho úmido. Esperei Elias parar e me ajudar a descer. A urgência não destravava o joelho.
 
 A dor no meu ombro foi uma facada que me fez perder o fôlego, mas forcei a perna direita a avançar, arrastando a órtese travada entre vergalhões retorcidos e cacos de vidro blindado. O ar fedia a borracha queimada, óleo isolante e cabelo chamuscado. Um calor abafado, quase vulcânico, subia das grelhas de ventilação abertas.
 
@@ -37,7 +37,7 @@ A comporta de aço marítimo estava arrancada de suas dobradiças, tombada sobre
 
 Entrei na sala de comando.
 
-A fumaça preta acumulava-se no teto, mas a chuva fria que descia pelo rombo da laje começava a lavar o ar. No centro do recinto, o console de baquelite verde continuava brilhando com relés incandescentes, sustentando o sinal que subia para a torre como um coração artificial teimoso.
+A fumaça preta acumulava-se no teto, mas a chuva fria que descia pelo rombo da laje atravessava a fumaça sem torná-la respirável. Valéria me passou o equipamento de resgate do jipe antes de entrarmos. No centro do recinto, o console de baquelite verde continuava brilhando com relés incandescentes, sustentando o sinal que subia para a torre como um coração artificial teimoso.
 
 Apoiada na base do transmissor, sentada sobre o piso de borracha alagado, estava Elena.
 
@@ -55,9 +55,9 @@ O impacto do cascalho estourou a dor no meu menisco remendado, mas eu não senti
 
 Estendi a mão esquerda e toquei a lateral do pescoço dela, logo abaixo da linha da mandíbula suja de carvão. A pele ainda guardava o calor da sala em chamas, mas não havia pulso. Apenas o silêncio liso e absoluto de quem cruzou a linha sem retorno.
 
-Valéria ajoelhou-se do outro lado. Os dedos metálicos da ciborgue tocaram a carótida de Elena por três segundos antes de recolher-se.
+Valéria ajoelhou-se do outro lado. Os dedos metálicos da ciborgue tocaram a carótida de Elena por alguns segundos antes de conferir o monitor portátil de resgate.
 
-— Cessação de atividade cardiovascular às quatro horas e vinte e sete minutos — declarou Valéria. Houve uma pausa incomum na modulação de sua voz sintética. Um tremor quase imperceptível de microchips buscando uma resposta em tabelas que não tinham consolo. — Causa do óbito: choque hipovolêmico decorrente de múltiplos ferimentos balísticos. O transmissor segue travado em regime perpétuo.
+— Sem sinais de circulação na avaliação. Hora em que a encontramos: quatro e vinte e sete — declarou Valéria. Houve uma pausa incomum na modulação de sua voz sintética. Um tremor quase imperceptível de microchips buscando uma resposta em tabelas que não tinham consolo. — Causa do óbito: choque hipovolêmico decorrente de múltiplos ferimentos balísticos. O transmissor ainda opera, mas está falhando. Vamos tirar os dois daqui.
 
 Atrás de nós, Elias tirou o boné de estivador da cabeça e deu dois passos para trás, encostando-se na parede de concreto descascada.
 
@@ -69,9 +69,9 @@ Ela não havia fugido. Não havia implorado. Havia se trancado com os lobos da A
 
 Com cuidado, puxei o gravador de microcassete de seus dedos rígidos.
 
-A carcaça plástica estava quente ao toque, marcada com a impressão digital de sangue que ela havia deixado ao pressionar o botão de parada. O visor mecânico indicava que a fita havia corrido até o último milímetro do carretel.
+A carcaça plástica estava quente ao toque, marcada com a impressão digital de sangue que ela havia deixado ao pressionar o botão de parada. O contador marcava poucos minutos de gravação. O transporte tinha parado.
 
-Desconectei o pequeno fone de ouvido de plástico que vinha enrolado no corpo do aparelho. Encaixei o fone no meu ouvido esquerdo.
+Desconectei o pequeno fone de ouvido de plástico que vinha enrolado no corpo do aparelho. Encaixei o fone no ouvido direito; o esquerdo já não me entregava aquela voz inteira.
 
 Apertei o botão de rebobinar. O zumbido agudo das engrenagens plásticas durou quinze segundos.
 
@@ -83,15 +83,15 @@ Depois, a respiração de Elena.
 
 Curta. Quebrada pelo sangue nos pulmões.
 
-— Gabriel — a voz dela chegou como se ela estivesse sentada no banco do carona do velho *Cobalt*, numa daquelas noites chuvosas antes do colapso de tudo. — Se você está ouvindo isso, o sinal subiu e a Aeterna perdeu o controle da cidade. Eu fechei o circuito com o cabo principal de força. Eles vão levar seis meses para limpar os destroços deste galpão e, até lá, a verdade já correu o mundo inteiro.
+— Gabriel — a voz dela chegou como se ela estivesse sentada no banco do carona do velho *Cobalt*, numa daquelas noites chuvosas antes do colapso de tudo. — Se você está ouvindo isso, o sinal subiu e a Aeterna perdeu o controle da cidade. Isolei a purga e liguei a difusão. Não sei quanto vai durar. Peçam aos assentamentos que retransmitam e preservem as matrizes.
 
 Ela tossiu, um som úmido e áspero que fez meu estômago revirar.
 
-— Lado A — ela continuou, recobrando a postura profissional da repórter que nunca errou uma data de arquivo. — A frequência de retorno da chave mestra de Krell é nove-zero-dois ponto quatro. Os códigos de acesso que eu recuperei do terminal de comando provam que ele opera a partir do iate executivo ancorado no Ponto Zero. Está tudo registrado no minidisc dentro da coronha oca da *Caronte*. Leva isso para a Dra. Vance. Ela sabe como decodificar os contratos de concessão.
+— Lado A — ela continuou, recobrando a postura profissional da repórter que nunca errou uma data de arquivo. — A frequência de retorno da chave mestra de Krell é nove-zero-dois ponto quatro. Os códigos de acesso que eu recuperei do terminal de comando indicam um repetidor ligado ao iate executivo no setor marítimo de Ponto Zero. Não confirmam que ele esteja a bordo. Está tudo registrado no minidisc dentro da coronha oca da *Caronte*. Leva isso para a Dra. Vance. Ela sabe como decodificar os contratos de concessão.
 
 O disco na coronha. Eu tinha visto aquilo entrar na arma, no galpão, e não tinha perguntado.
 
-O som de metal sendo rasgado ecoou na fita. Uma saraivada de tiros ressoou perto demais do microfone, seguida pelo gemido abafado de Elena quando os projéteis atravessaram seu corpo.
+O som de metal sendo rasgado ecoou na fita. Uma nova rajada atingiu o painel perto do microfone. Elena gemeu; ela começara a gravar já ferida.
 
 Silêncio por cinco segundos intermináveis. Eu prendi a respiração, temendo que a gravação tivesse acabado ali.
 
@@ -109,7 +109,7 @@ Uma pausa longa. O som do sangue pingando nas lajotas da sala.
 
 Sua voz vacilou, quase apagada pelo uivo final do banco de capacitores.
 
-— O cordão de latão... fica com ele. Ele tem a chave da nossa velha caixa postal da estação rodoviária. Tem algumas cartas que eu escrevi quando achava que a gente ia envelhecer juntos. Guarda isso. Mas agora... quando o sol nascer, desliga o rádio, Gabriel. Enterra o que precisa ser enterrado. E vai viver.
+— O cordão de latão... fica com ele. O número gravado atrás identifica nossa velha caixa postal; a chave está presa no bolso interno da jaqueta. Tem algumas cartas que eu escrevi quando achava que a gente ia envelhecer juntos. Guarda isso. Mas agora... quando o sol nascer, desliga o rádio, Gabriel. Enterra o que precisa ser enterrado. E vai viver.
 
 O mecanismo rodou em falso no final da fita plástica. *Clack.*
 

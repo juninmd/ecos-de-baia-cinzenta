@@ -3,15 +3,11 @@ title: "Capítulo 164: O Cofre de Concreto"
 date: "Pós-Colapso da Usina Prometeu (Noite Eterna)"
 location: "Subnível 2.0 - O Arquivo Executivo"
 characters: ["Gabo", "Valéria", "Aria"]
+Data In-Game: "Pós-Colapso da Usina Prometeu (Noite Eterna)"
+Localização: "Subnível 2.0 - O Arquivo Executivo"
+Personagens Presentes: "Gabo, Valéria, Aria"
+description: "O arquivo permite ler a regra antiga de autovalidação do Sentinel. Aria reconhece uma possibilidade de exploração que cobrará risco de seu próprio histórico."
 ---
-
-## Metadados
-- **Título:** O Cofre de Concreto
-- **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
-- **Localização:** Subnível 2.0 - O Arquivo Executivo
-- **Personagens Presentes:** Gabo, Valéria, Aria
-
-## Narrativa
 
 # Capítulo 164: O Cofre de Concreto
 
@@ -35,7 +31,7 @@ No antebraço de Valéria, o pendrive blindado de Aria emitia um zumbido térmic
 
 — Não tenha tanta certeza sobre estarmos seguros, Gabo — Valéria retrucou, caminhando com cautela até uma série de terminais apagados atrás do balcão de triagem. Ela limpou a tela de vidro estilhaçado de um monitor com a manga da jaqueta de couro e tentou acionar a chave de ignição mecânica, sem resposta. — Se o Miranda, o seu pai ou o que sobrou da diretoria quiseram guardar alguma coisa crítica longe dos olhos do mundo e fora do alcance dos tentáculos do Taxidermista, esse seria o lugar exato. E cofres executivos não costumam depender só de portas trancadas.
 
-— *Observação pertinente, Valéria Cruz,* — interveio Aria, o LED azul do pendrive pulsando em cadência analítica. — *Os protocolos de custódia de nível executivo da Aeterna previam redundância letal autônoma em caso de perda de comunicação com a superfície. A ausência de contaminação biológica do Taxidermista neste pavimento indica que o isolamento físico nunca foi violado desde o Dilúvio.*
+— *Observação pertinente, Valéria Cruz,* — interveio Aria, o LED azul do pendrive pulsando em cadência analítica. — *Os protocolos de custódia de nível executivo da Aeterna previam redundância letal autônoma em caso de perda de comunicação com a superfície. Não vemos contaminação biológica neste trecho. Isso não prova que o isolamento nunca foi violado; a porta está entreaberta e há rastros de manutenção no piso.*
 
 Gabo abriu os olhos, o olhar cinzento e injetado de sangue focado no labirinto geométrico de servidores à frente. A disposição dos racks monumentais de dados não era aleatória; eles formavam anéis concêntricos de aço escovado que convergiam para um núcleo central invisível a partir da recepção.
 
@@ -43,7 +39,7 @@ Gabo abriu os olhos, o olhar cinzento e injetado de sangue focado no labirinto g
 
 — E como a gente acha uma agulha num palheiro de cinco mil metros quadrados no escuro? — Valéria perguntou, batendo levemente com a ponta do dedo no corpo metálico do pendrive acoplado ao seu pulso. — Aria, você tem o mapa desse andar nos seus bancos de memória?
 
-— *O acesso à planta arquitetônica detalhada do Arquivo Executivo era restrito ao Conselho Diretor e foi purgado durante a formatação do meu núcleo no Subnível 5,* — Aria informou com frieza cirúrgica. — *No entanto, os sensores infravermelhos do seu cyberdeck indicam um gradiente térmico anômalo no setor alfa-sete, a quatrocentos metros ao norte. Enquanto a temperatura média deste salão é de cinco graus Celsius, há uma fonte estacionária dissipando calor constante no centro do bloco. Uma pequena porção do hardware ainda opera em modo de hibernação profunda, alimentada por uma linha residual de energia geotérmica.*
+— *O acesso à planta arquitetônica detalhada do Arquivo Executivo era restrito ao Conselho Diretor e não está acessível no estado de emergência em que acordei no Ateliê,* — Aria informou com frieza cirúrgica. — *No entanto, os sensores infravermelhos do seu cyberdeck indicam um gradiente térmico anômalo no setor alfa-sete, a quatrocentos metros ao norte. Enquanto a temperatura média deste salão é de cinco graus Celsius, há uma fonte estacionária dissipando calor constante no centro do bloco. Uma pequena porção do hardware ainda opera em modo de hibernação profunda, alimentada por uma linha residual de energia geotérmica.*
 
 — Energia geotérmica independente — murmurou Valéria, olhando para Gabo. Um entendimento mudo e sombrio passou entre os dois sobreviventes: em um complexo morto e congelado, onde há calor, há memória viva. E, invariavelmente, há armadilhas.
 
@@ -51,7 +47,7 @@ Gabo abriu os olhos, o olhar cinzento e injetado de sangue focado no labirinto g
 
 — Vinte e dois por cento. O suficiente para manter o scanner térmico e o processador da Aria rodando por mais uma hora se eu não precisar fritar mais nenhuma fechadura eletrônica — respondeu ela, destravando o coldre e mantendo a pistola em posição de retenção.
 
-— *Recomendo conservar a carga para diagnóstico de interface,* — disse Aria pelo alto-falante. — *Se o terminal no setor alfa-sete utiliza arquitetura legada da primeira geração da Aeterna, minha conexão direta via porta física será o único meio de extrair os registros sem acionar a exclusão magnética das fitas.*
+— *Recomendo conservar a carga para diagnóstico de interface,* — disse Aria pelo alto-falante. — *Se o terminal no setor alfa-sete utiliza arquitetura legada da primeira geração da Aeterna, a conexão de serviço pode oferecer leitura sem executar o protocolo de exclusão magnética. Precisamos consultar o índice antes de aceitar qualquer autenticação. O manual antigo também vincula uma intrusão nesse terminal à autopurga do controlador Sentinel; não sabemos se isso ainda está ativo.*
 
 — Então guia a gente pelo corredor, lata velha — Gabo murmurou, dando o primeiro passo claudicante para dentro do cânion de metal negro.
 

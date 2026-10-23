@@ -1,23 +1,18 @@
-# Análise Crítica - Capítulo 91: Protocolo Gênesis
+# Revisão de Capítulo 91: Protocolo Gênesis
 
-## Avaliação Técnica
-- **Ritmo:** 8/10 - Focado em exposição para explicar a ameaça e a solução final.
-- **Diálogos:** 9/10 - A explicação do DNA como "Disco Rígido Biológico" faz total sentido com o universo do livro e é sci-fi da mais alta qualidade.
-- **Atmosfera:** 9/10 - O peso da escolha no final (queimar o núcleo da Aria no pendrive ou perder a humanidade) traz tensão emocional fortíssima.
+Fonte: [capítulo 91](/capitulo-91.md).
 
-## Pontos Fortes e Fracos
-**Fortes:**
-- Integração e explicação plena do conceito biopunk que a história vem montando.
-- O sacrifício do Código Morto apagar Aria dá peso real às consequências, não há vitória fácil.
-- O vínculo do trauma físico e emocional de Gabo é descrito junto à agonia persistente de suas pernas.
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-**Fracos:**
-- Muito diálogo expositivo, o que é natural para este tipo de virada de ato.
+## Passagens de entrada e saída
 
-## Sanity Check
-- [x] O trauma/aversão fóbica de Gabo a fumo está respeitado? Sim, apenas café com "gosto de ferrugem".
-- [x] A temporalidade das personagens está correta? Sim. Aria mantida como a IA tática no pendrive de titânio.
-- [x] A história é coerente? Sim.
-- [x] Não contém mocks? Sim.
+> Bunker de isolamento — madrugada.
+> Val projetava as páginas digitalizadas do diário na parede branca com um projetor de escola que funcionava a manivela. Eram diagramas de dupla hélice desenhados à mão, a nanquim, com o cuidado de quem gosta do desenho. E, ao lado de cada um, arquitetura de processador — barramento, registrador, pilha — no mesmo traço e na mesma tinta.
 
-**Conclusão:** O Capítulo 91 é um elo excelente na transição de atos, fechando as pontas soltas criadas pelo Arquivista, sem falhas lógicas e respeitando a memória base.
+### Saída
+
+> Depois ela pediu silêncio para trabalhar. Foi esse silêncio que ficou com Gabo pelas horas seguintes.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

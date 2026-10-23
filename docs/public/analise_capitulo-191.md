@@ -1,22 +1,17 @@
-# Análise Crítica - Capítulo 191: O Batismo da Ferrugem
+# Revisão de Capítulo 191: O Batismo da Ferrugem
 
-## Avaliação Técnica (1-10)
+Fonte: [capítulo 191](/capitulo-191.md).
 
-*   **Ritmo (Pacing): 9.5/10** - Um clímax excelente para o arco do Arquivo Executivo. A ação é urgente, pautada por um cronômetro mortal (o aquecimento do núcleo). Cada golpe de Gabo é sentido.
-*   **Diálogos: 8/10** - Minimalistas. Valéria funciona quase como o sistema de alerta do ambiente, contabilizando o desastre enquanto Gabo age com fúria animalesca.
-*   **Atmosfera: 10/10** - O inferno visual do ambiente derretendo, com os cadáveres uivando e as chamas consumindo a biomassa, entrega a sujeira caótica essencial da estética noir/cyberpunk final.
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-## Pontos Fortes e Fracos
+## Passagens de entrada e saída
 
-*   **Pontos Fortes:**
-    *   **Resolução Visceral:** Gabo abraça completamente a "violência como terapia" do seu trauma. A automutilação na órtese para combater a alucinação sufocante é extrema, dolorosa e perfeitamente sintonizada com a progressão da sua descida à loucura/sobrevivência.
-    *   **Fechamento de Arco Local:** A destruição física do núcleo fecha de forma irrefutável a expansão do "Jardim" através do Arquivo Executivo, forçando uma fuga.
+> O primeiro golpe da minha armação industrial contra o volante de arrefecimento soou como um sino fúnebre desafinado, reverberando na vastidão mórbida do relicário de servidores. O metal espesso da tubulação de alta pressão gemeu sob o torque violento do guindaste de docas.
 
-*   **Pontos Fracos:**
-    *   A evacuação não foi detalhada no fim, sendo apenas sugerida. Os próximos capítulos terão que lidar com o escape que, em tese, deve ser extenuante devido ao dano autoinfligido que o protagonista absorveu.
+### Saída
 
-## Sanity Check
+> Disparamos pelo corredor lateral em direção ao fosso de serviço, o inferno laranja rugindo às nossas costas e devorando a catedral de mentiras e cadáveres que Silas Vance tentara erguer no escuro.
 
-*   **Gabo interagiu com algum fumante? Como sua repulsa foi demonstrada?** Não. O calor e os químicos no ar despertaram a fobia e a asfixia em formato da fumaça imaginária de seu pai. Gabo a esmaga usando a alavanca da perna mecânica para destruir a própria pele e ancorar-se na dor.
-*   **O plot twist deste capítulo invalida algo estabelecido nos capítulos anteriores?** Não. Trata-se da execução final da decisão estabelecida no capítulo 190, encerrando o Jardim.
-*   **O resumo da lore foi atualizado com os novos eventos?** Sim. O arco no Arquivo se encerra e o status de evacuação da equipe (Gabo gravemente ferido, Valéria em Safe Mode) necessita atualização na cronologia.
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

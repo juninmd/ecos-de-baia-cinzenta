@@ -29,7 +29,7 @@ Eles rastejaram. O chão de grade metálica estava quente o suficiente para quei
 
 — *Interessante* — a voz do Taxidermista ecoou nos alto-falantes, distorcida pela estática, mas ainda irritantemente calma. — *Você luta como um animal encurralado, Gabriel. Destruindo a própria jaula, mesmo que os estilhaços o cortem. Dante sempre disse que sua imprevisibilidade era um defeito. Eu começo a achar que é sua única qualidade.*
 
-Gabo ignorou. Ele chutou uma grade de ventilação cuja trava magnética Aria havia acabado de sobrecarregar através do emissor de pulso do deck de Valéria. O metal cedeu com um *clang* surdo.
+Gabo ignorou. Ele chutou uma grade de ventilação cujo fecho Val acabara de liberar pelo cabo ligado ao painel de manutenção. O metal cedeu com um *clang* surdo.
 
 — Dentro. Rápido.
 
@@ -51,8 +51,7 @@ Não eram apenas cabos de cobre e fibra ótica. Entrelaçados a eles, pulsando c
 
 Gabo sentiu a mão tremer. A lembrança da fumaça acre de charuto do interrogatório na Torre do Relógio veio do nada e o atingiu como um soco físico — uma alucinação olfativa de asfixia sobreposta ao fedor da abominação, tão nítida que seu peito apertou.
 
-*Foco.*
-
+Foco.
 Ele apertou o Colar de Sol. A borda de metal cortou a pele da palma da mão. A dor clareou sua mente.
 
 — Val, continue movendo — ele ordenou, a voz rouca. — Se eles são processadores, nós vamos puxar a tomada.
@@ -81,7 +80,7 @@ O relógio mental de Gabo tiquetaqueava. A janela de vulnerabilidade térmica de
 
 No pulso de Valéria, o LED do pendrive da Aria pulsou em azul constante, calculando as variáveis em silêncio antes de transmitir no canal interno.
 
-— *A probabilidade de sobrevivência do Inspetor Rangel diminui 8% a cada trinta segundos* — informou a voz sintética da Aria, com o timbre frio de Bia Vargas cortando a indecisão. — *Contudo, a probabilidade de sucesso da missão cai para 0% se perdermos a janela térmica nos próximos três minutos.*
+— *Não tenho imagem da doca. Pelos disparos e pelo relato, Rangel está sob risco imediato* — informou a voz sintética da Aria, com sua voz adulta atravessando o ruído. — *Contudo, se a rotina que lemos estiver correta, o ciclo pode terminar em três minutos. Não há garantia para nenhuma das escolhas.*
 
 Gabo fechou os olhos por um segundo. Ele viu o rosto de Rangel, o homem que desistiu de tudo para fazer a coisa certa. E viu a cidade lá fora, a chuva, os milhões de pessoas presas no pesadelo de Dante.
 
@@ -101,4 +100,4 @@ Valéria olhou para Gabo como se ele fosse um estranho.
 
 — Você o abandonou.
 
-— Eu fiz uma escolha — Gabo respondeu, virando-se para a porta do Núcleo. Ele engatilhou a *Caronte*. — Vamos garantir que a morte dele não seja em vão. Val, pluga a Aria nesse terminal e abra essa maldita porta.
+— Eu fiz uma escolha — Gabo respondeu, virando-se para a porta do Núcleo. Ele engatilhou a *Caronte*. — Não sabemos se ele vai sobreviver. E a ordem que dei fica no registro. Val, pluga a Aria nesse terminal e abra essa maldita porta.

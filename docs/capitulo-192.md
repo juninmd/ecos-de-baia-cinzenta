@@ -11,7 +11,7 @@ O lodo fervia atrás de nós, um oceano vermelho de biologia corrompida evaporan
 
 O cheiro fétido de amônia e fuligem impregnava o poço, deixando um gosto amargo e azedo de fuligem colado na minha língua. Cada respirada parecia lixar a garganta por dentro, e o suor misturado com sangue quente escorria das cicatrizes do meu ombro fraturado.
 
-Lembrei de cada fuga desesperada desde o Dilúvio nas docas; a sensação de carregar um corpo quebrado através de ferro em chamas era a única constante da minha vida nos últimos anos.
+Lembrei de cada fuga desesperada desde o Dilúvio nas docas; a sensação de carregar um corpo quebrado através de ferro em chamas era a sensação que parecia ocupar todos os dias desde o Apagão.
 
 A escada de emergência de ferro fundido tremia sob as vibrações das explosões secundárias que estouravam vinte metros abaixo das nossas solas. O estrondo contínuo da alvenaria despencando nas poças de refrigerante fazia o ar zumbir nos tímpanos.
 
@@ -39,24 +39,22 @@ Olhei para baixo pelo vão da grade. Uma língua de fogo roxo e azul subia pelo 
 
 — Afasta da soleira, Valéria!
 
-Ergui o braço industrial de cais com as duas mãos, posicionando os nós de liga metálica exatamente sobre o conjunto das três cavilhas mestras que prendiam a folha esquerda ao batente de concreto.
+Val expôs o mecanismo manual da porta de pressão. Havia uma haste de destravamento junto às cavilhas, separada do motor térmico. Encaixei a ferramenta no ponto de alavanca enquanto ela tirava o pino de retenção, sem tentar romper duas polegadas de aço com meu braço quebrado.
 
 Travei a postura, respirei fundo a cinza que cobria a sala e comandei a descarga pneumática máxima da junta de Vasco.
 
-*BOOM-CLANG!*
+BOOM-CLANG!
+A haste puxou o conjunto das cavilhas. Uma recuou inteira; a outra parou na metade. A trava soltou um silvo e Val gritou para que eu mantivesse o apoio enquanto ela liberava o último encaixe.
 
-O impacto do punho de aço contra as cavilhas de ferro fundido reverberou pelo corredor como o disparo de uma peça de artilharia. Os pinos de duas polegadas entortaram com o choque, a trava soltou um silvo violento de gás comprimido e a porta cedeu cinco centímetros.
-
-Um segundo golpe. O aço das travas se partiu num estalo limpo de fratura mecânica. A folha de blindagem deslizou pesadamente para o lado, abrindo uma fresta escura que dava acesso aos túneis superiores da subestação.
+Mais um avanço da alavanca. O encaixe corroído se soltou com um estalo. A folha de blindagem deslizou pesadamente para o lado, abrindo uma fresta escura que dava acesso aos túneis superiores da subestação.
 
 — Entra! Agora! — berrei, empurrando Valéria pelo vão estreito antes de me atirar para o outro lado com o ombro metálico à frente.
 
 No segundo exato em que meu sobretudo cruzou a soleira, a onda de choque térmico do núcleo alcançou o topo do fosso.
 
-Uma bola de fogo alaranjada explodiu contra a parte externa da comporta, lançando um jato ensurdecedor de labaredas e estilhaços incandescentes pelo vão. Apoiando as costas e o braço de ferro contra a chapa maciça, forcei a porta a se fechar contra a pressão do ar superaquecido, até que o ferrolho manual de emergência bateu no encaixe com um estrondo definitivo.
+Uma bola de fogo alaranjada explodiu contra a parte externa da comporta, lançando um jato ensurdecedor de labaredas e estilhaços incandescentes pelo vão. Apoiando as costas e o braço de ferro contra a chapa maciça, puxei a alavanca do contrapeso de fechamento antes de a pressão crescer, até que o ferrolho manual de emergência bateu no encaixe com um estrondo definitivo.
 
-*CLANK.*
-
+CLANK.
 A porta vibrou violentamente por três segundos sob o impacto da explosão no fosso, mas a blindagem de aço naval segurou a deflagração. O calor arrefeceu na face interna da chapa.
 
 Desabei de costas contra a parede de concreto gélido do Nível B, escorregando até o chão ensopado de água limpa de drenagem.
@@ -67,10 +65,10 @@ Valéria estava sentada ao meu lado, as costas apoiadas na mesma parede, a jaque
 
 Ela virou o rosto para mim, limpando uma mancha escura de fuligem da bochecha com as costas da mão, e soltou uma risada rouca e cansada que ecoou pela galeria vazia.
 
-— Você tem o pior estilo de demolição que eu já vi na minha vida, Moretti — ela murmurou, a voz trêmula de alívio e adrenalina. — Mas o Jardim... o Jardim virou cinza lá embaixo. Pelo menos essa colônia não vai se alimentar de mais ninguém. Todo aquele sacrifício finalmente teve um fim.
+— Você tem o pior estilo de demolição que eu já vi na minha vida, Moretti — ela murmurou, a voz trêmula de alívio e adrenalina. — Mas o Jardim... o Jardim virou cinza lá embaixo. O enlace desta colônia caiu. Não sei o que sobrou do outro lado, nem quem ainda conseguiríamos tirar de lá.
 
 Olhei para a minha mão de carne, ainda tremendo com o choque residual do esforço, e depois para o aço fosco da prótese, que esfriava lentamente com o toque da umidade do chão.
 
-— A gente cumpriu a missão, Val.
+— A gente impediu aquele comando, Val. O resto vai continuar na conta.
 
 — É — ela apoiou a cabeça no meu ombro mecânico por dois segundos, fechando os olhos antes de se endireitar com sua habitual postura desafiadora. — A gente cumpriu. Agora vamos achar um canto seco pra recarregar meu deck antes que o resto da cidade descubra que a gente acabou de explodir o porão do Setor 7.

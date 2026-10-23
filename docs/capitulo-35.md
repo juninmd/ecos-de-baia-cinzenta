@@ -1,184 +1,120 @@
 ---
 layout: doc
 title: "Capítulo 35: Calibre 12"
-description: "A emboscada na Avenida da Indústria custa um pneu, um joelho e a primeira vez em que Gabo atira em alguém que já tinha largado a arma."
+description: "Uma emboscada custa o pneu do Cobalt. O tiro de Gabo depois da rendição não cabe na conta da sobrevivência."
 image: /capitulo_35.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Valéria "Val" Cruz
-Localização: "Avenida da Indústria"
+Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Valéria "Val" Cruz, Aria (módulo no painel), Éder e outros atacantes
+Localização: "Avenida da Indústria, junto ao Cobalt"
 ---
 
 # Capítulo 35: Calibre 12
 
-Eles não andaram dois quilômetros.
+Não tinham percorrido dois quilômetros quando Elena viu a barreira.
 
-Um motor de combustão numa cidade sem energia é o som mais alto do mundo. Gabo sabia disso quando ligou o carro, e continuou dirigindo assim mesmo, porque as alternativas eram andar e morrer devagar.
+Carros virados, entulho, os dois veículos centrais com o nariz voltado para dentro. Alguém deixara a sarjeta livre e fechara o espaço por onde o Cobalt poderia empurrar passagem. O motor denunciara a aproximação antes de os faróis alcançarem a primeira roda.
 
-A Avenida da Indústria estava fechada por uma barreira de carros virados e entulho, e a barreira estava boa demais. Não era coisa de bandido apressado. Alguém tinha pensado nos ângulos, tinha deixado a sarjeta livre para escoar a água e tinha posto os dois carros do meio de nariz para dentro, para que não se pudesse empurrar.
+— Ré — disse Gabo.
 
-Gabo entendeu isso meio segundo depois de já estar dentro da coisa.
+Elena já procurava o caminho pelo retrovisor. Uma garrafa incendiária caiu atrás do carro; o fogo encontrou combustível derramado no asfalto e tomou a passagem. Aria exibiu o mapa salvo. A rua lateral que ele mostrava terminava agora numa caçamba.
 
-— Ré! — gritou Elena.
+Um disparo atravessou o vidro. O pneu dianteiro direito esvaziou num estouro seco. Elena tentou recuar pelo lado ainda escuro, mas a roda bateu na guia, e o carro parou de lado junto de uma Kombi abandonada.
 
-Foi quando o primeiro molotov caiu atrás.
+— Abaixo das janelas!
 
----
+O cheiro chegou antes do calor: gasolina, borracha e plástico queimado. Val caiu sobre o banco de trás protegendo o ombro. Elena deslizou para o chão pela porta do motorista e tentou alcançar Gabo pelo outro lado. Os tiros batiam na lataria. Ela teve de voltar para trás do motor.
 
-O fogo pegou o asfalto molhado e se espalhou numa poça de gasolina que já estava lá, esperando, e naquele momento os três dentro do Cobalt souberam com absoluta clareza que aquilo tinha sido montado com antecedência, para eles ou para quem passasse.
+Ele não podia rolar para fora. A perna direita, apoiada ao longo do banco, prendia seu corpo à posição. Tentou se deslocar com o cotovelo esquerdo e viu o curativo da mão ficar vermelho contra a borda do assento.
 
-O cheiro entrou pela janela antes do calor: gasolina crua, pneu queimando e aquele fundo doce e nauseante de plástico derretido. Gabo sentiu a onda de calor bater no vidro do lado dele, e o vidro esquentou, e a pele do rosto dele esquentou junto.
+— Eles querem o carro — disse Val, quase sem voz.
 
-Os pneus estouraram com dois estampidos secos, quase iguais a tiro.
+— Não sabemos se param com o carro — respondeu Elena.
 
-O carro derrapou trinta metros e parou de lado.
+Gabo olhou a Caronte, deitada entre o assento e a porta. Dois cartuchos nos canos, outros dois guardados à parte. O carregador da Glock tinha quatro tiros depois da esquina da van. Nenhuma conta fazia dos três um grupo capaz de tomar a avenida.
 
-— **FORA!**
+Elena abriu a porta do passageiro por fora. Gabo deslizou até encostar as costas na soleira, com a perna ainda apoiada. Manteve a escopeta sobre o banco, a correia passada sob o antebraço esquerdo. A mão direita não saiu da tipoia.
 
-Rolaram para fora usando a lataria como escudo. As balas batiam no metal com um som de martelo em tambor, e a poeira de tinta velha subia a cada impacto.
+Ele sentiu alívio ao alcançar o gatilho.
 
-Gabo caiu de mau jeito no asfalto e a perna direita disse *não*.
+Passara a semana recebendo ordens sobre como virar o corpo, quando beber, onde esperar. Diante da arma, teve a impressão de que podia voltar a escolher sozinho. A impressão durou mais do que devia.
 
-Não foi dor. Foi ausência: ele mandou o joelho apoiar e o joelho não respondeu, e ele desabou de lado e ficou meio segundo olhando a própria perna como quem olha uma ferramenta que quebrou na mão.
+O primeiro atacante surgiu junto da frente do carro com um facão erguido. Gabo disparou do apoio. O recuo empurrou a coronha contra o banco e torceu seu braço; ele quase soltou a arma. O homem caiu a poucos passos do capô e não levantou.
 
-— Eles querem o carro! — gritou Val, encolhida junto à roda. — Gabo, é o único veículo funcionando em quinze quarteirões!
+Elena atingiu com um tiro alguém que disparava atrás da caçamba. O homem caiu gritando. Os outros tiros vinham do lado oposto. Ela procurou o ângulo, mudou de posição e atingiu um segundo atacante com os dois disparos seguintes.
 
-— Eu sei.
+Restava um tiro na pistola. A Caronte ainda tinha um cano carregado.
 
-— Então dá o carro!
+— Não sai daí — disse ela a Gabo.
 
-— Se eu der o carro, a gente morre a pé no meio da Indústria.
+Ele não tinha como sair. Voltou a apoiar a escopeta e levou o dedo ao segundo gatilho. Parou antes de apertar. Havia movimento atrás do capô da Kombi, perto o suficiente para distinguir as mãos.
 
----
+O rapaz largou a pistola.
 
-Ele se arrastou de cotovelos até o porta-malas.
+Não a abaixou. Jogou no chão, para longe do corpo. Ergueu as palmas e começou a se levantar. Gabo viu o moletom molhado, a boca formando uma palavra e os dedos abertos.
 
-O lançador estava sem carga. Ao lado dele, embrulhada em pano de chão, estava a *Caronte*: calibre 12, cano serrado, coronha lixada por trinta anos de mão.
+Sustentou a mira.
 
-Gabo encheu os bolsos do sobretudo com cartuchos.
+O segundo tiro da Caronte derrubou o rapaz sobre a calçada.
 
-E fez a coisa que ele passaria os quinze anos seguintes tentando não examinar de perto: ele sentiu alívio.
+Depois ficou o som da água correndo na sarjeta. Os atacantes que ainda podiam correr fugiram pelos vãos entre os carros. O homem da caçamba continuava gemendo. Gabo manteve a arma apontada até Elena tocar o cano por baixo e desviá-lo para o chão.
 
-Não coragem, não medo dominado. **Alívio** — o alívio de um homem que passou dias inteiros negociando com síndico, com irmã, com burocrata, com a própria consciência, e que de repente chega num lugar onde a lista de decisões tem um item só.
+— Acabou — disse ela.
 
-— Elena! Esquerda!
+Ele abriu a escopeta e viu os dois cartuchos gastos. Não colocou os outros.
 
-— Já estou na esquerda!
+Elena foi até o rapaz do moletom. A pistola estava a mais de um passo da mão aberta. Ela se agachou, procurou uma reação, depois puxou o cordão preso sob a roupa. Havia um crachá de estágio, com a fotografia de um garoto de camisa social.
 
----
-
-Ele se levantou apoiado no para-choque, com a perna morta empurrada para trás como muleta, e saiu de trás do carro.
-
-O primeiro veio de frente com um facão, correndo pelo meio da rua, gritando alguma coisa que a chuva engoliu.
-
-*BAM.*
-
-Chumbo grosso a doze metros faz o corpo parar antes de cair — há um instante em que ele para, como se tivesse batido numa parede de vidro, e só depois desiste. O homem caiu sentado e tombou de lado.
-
-Gabo bombeou.
-
-O segundo apareceu atrás de uma caçamba e a caçamba virou peneira, e o cara caiu gritando, e o grito continuou por baixo de tudo pelos próximos dois minutos.
-
-Gabo avançou.
-
-Não corria. Marchava — arrastando a perna direita, encharcado, iluminado por trás pelo fogo do molotov, com o sobretudo pesado de água grudado nas pernas.
-
-— É o Moretti! — gritou alguém do escuro, e a voz falhou no meio. — É o Demônio da Baía!
-
-— **APAREÇAM!** — rugiu Gabo, e a voz saiu maior do que ele. — EU TENHO CHUMBO PARA TODO MUNDO!
-
-Um terceiro tentou flanquear pela direita. Elena o derrubou com dois tiros no peito, do jeito frio dela, sem gritar nada antes nem depois.
-
-E o quarto largou a arma.
-
----
-
-Gabo viu.
-
-Isso é o ponto, e é por isso que esse capítulo existe: ele viu.
-
-O sujeito estava atrás do capô de uma Kombi, a nove metros, e era um rapaz magro de moletom, e ele largou a pistola — não abaixou, **largou**, jogou no chão de propósito, com o braço esticado para longe do corpo — e levantou as duas mãos, e começou a se levantar dizendo alguma coisa que devia ser *calma*.
-
-Gabo bombeou a escopeta e atirou.
-
-A distância entre a decisão e o gatilho foi de zero. Não houve um momento em que ele pensou *vou atirar*; houve o movimento inteiro, contínuo, treinado, e no fim dele o rapaz estava no chão.
-
-O resto do bando saiu correndo. Dava para ouvir as botas na água por um tempo, e depois não dava mais.
-
-Ficou o barulho da chuva, e o chiado do cano quente esfriando, e o cara da caçamba gemendo em algum lugar.
-
----
-
-Elena veio andando pelo meio da rua, com a arma baixa.
-
-Ela parou ao lado do rapaz de moletom, e agachou, e virou o corpo com as duas mãos, com cuidado, e ficou olhando.
-
-Dezenove anos, talvez vinte. Tênis de lona. Um crachá de estágio pendurado no cordão, dentro da roupa, daqueles de plástico com foto — a foto de um garoto de camisa social, sorrindo, feita em algum RH em algum ano em que ainda havia RH.
+Fotografou a posição da arma e do corpo com o telefone que carregara na garagem. Não moveu a pistola para perto dele.
 
 — Gabo.
 
 — Ele estava armado.
 
-— Ele **tinha** estado armado. — Elena não levantou a voz. Foi pior. — Eu vi de onde eu estava. Você viu da onde você estava. Você estava mais perto do que eu.
+— Tinha estado. Eu vi ele largar. Você estava mais perto.
 
 — Estava escuro.
 
-— Não estava.
+Elena apontou a luz que saía do Cobalt. Gabo viu a própria mão iluminada sobre a arma aberta.
 
-Gabo continuou de pé, apoiado na escopeta como se fosse bengala, respirando pela boca.
+Val chegou à porta traseira e ficou apoiada nela, tremendo. Seu olho direito passava do rapaz para o policial. Não tinha uma frase que pudesse tornar aquele tiro parte dos anteriores.
 
-Val chegou por trás, tremendo, com o tablet apertado contra o peito.
+— Eram obstáculos — disse Gabo.
 
-— Gabo, a gente acabou de—
+Ele ouviu a palavra inteira depois de dizê-la. Elena se ergueu devagar.
 
-— Eles não eram pessoas, Val. — Ele ouviu a própria voz dizer isso, e ela saiu firme e razoável e nem um pouco dele. — Eram obstáculos.
+— Repete.
 
-Elena se levantou devagar.
+Não repetiu.
 
-— Repete isso.
+— Eu ouvi ele pedir calma — disse Val. — Não estava correndo para o carro.
 
-Ele não repetiu.
+Gabo procurou o rosto dela. Val apertou o braço ferido contra o tronco e manteve o olho bom voltado para ele.
 
-Ela ficou olhando para o irmão por um tempo comprido, com a chuva escorrendo pelo rosto dos dois, e depois falou baixo, quase gentil, que era como ela falava quando estava mais brava:
+— Não diga que foi pela gente.
 
-— Guarda essa frase, Gabriel. Guarda inteirinha. Um dia alguém vai te dizer ela de volta, com o teu nome no meio, e você não vai ter resposta.
+Ela olhou o rapaz outra vez antes de se afastar da porta.
 
-Ela foi buscar o macaco no porta-malas.
+Elena olhou o ex-marido por um tempo longo. Quando falou, não levantou a voz.
 
----
+— Guarda essa frase. Um dia vão usar ela com o seu nome no meio.
 
-Trocaram o pneu debaixo da chuva, em silêncio, com o fogo do molotov ainda queimando a trinta metros.
+Foi buscar o macaco. A mão tremia ao encaixá-lo no ponto de apoio. Val segurou a lanterna e precisou trocá-la de posição quando o ombro voltou a sangrar. Gabo tentou ajudá-las e recebeu uma dor que o manteve preso à soleira.
 
-Gabo não conseguiu ajudar. Tentou se abaixar duas vezes e na segunda quase caiu, e no fim ficou sentado no meio-fio segurando a lanterna, com a perna direita esticada na água suja, sentindo o joelho inchar dentro da calça — um calor surdo e apertado, como se estivessem enchendo a articulação por dentro com uma bomba de encher pneu.
+A troca do pneu levou tempo demais. O fogo atrás da Kombi baixou. Elena voltou uma vez ao homem da caçamba e tentou conter seu sangramento com um pano. Não conseguiu arrastá-lo para longe sozinha. Quando tornou a ouvir a rua, já não havia gemido.
 
-Ele tinha trinta e cinco anos e acabava de gastar a última coisa que o corpo dele guardava em reserva. O ligamento tinha rompido de vez em algum ponto entre o segundo e o terceiro tiro, e ele não ia saber disso por mais onze dias, e ia andar quebrado esses onze dias inteiros.
+Gabo perguntou por ele. Val disse que parara fazia alguns minutos. Ele respondeu certo, e a palavra soou pior do que a pergunta.
 
-O gosto na boca era de cordite e de moeda. Ele cuspiu, e o que saiu na água da sarjeta veio com um fio de sangue de gengiva — de trincar os dentes, não de pancada. A chuva era gelada e a mão que segurava a lanterna estava quente e áspera de pólvora queimada, e essas duas informações chegavam ao cérebro dele ao mesmo tempo, brigando.
+Elena estendeu a mão para ajudá-lo a voltar ao banco. Ele hesitou; ela esperou sem dizer que aquilo o perdoava. A perna precisou ser levantada junto com o resto do corpo. Gabo deixou que fizessem e fechou os olhos quando a porta encostou.
 
-— Val — ele disse, sem olhar para ela. — Aquele cara da caçamba parou de gemer?
+— Para onde? — perguntou ela, ao conseguir dar partida.
 
-— Faz uns dez minutos.
+— Setor Quatro. A delegacia tem rádio e transporte. Preciso achar a Nise.
 
-— Certo.
+— A van também vai para o relato — disse Elena. — Os reféns que ficaram. E isso aqui.
 
-Ele fechou os olhos e ficou assim.
+Gabo assentiu, com a cabeça contra o vidro. Não pediu que apagasse nenhuma imagem.
 
----
+Passaram pelo canteiro com o estepe batendo nos buracos. Aria guardou a rota e os horários recebidos do carro; não tinha observado cada gesto fora do alcance dos sensores. Elena conservou as fotografias do rapaz e o registro da intervenção anterior no mesmo aparelho.
 
-O Cobalt pegou na quarta tentativa.
+No crachá que permanecera sobre o moletom, o primeiro nome ainda podia ser lido da calçada.
 
-Elena assumiu o volante sem discutir, e Gabo não discutiu, o que por si só assustou as duas mulheres mais do que o tiroteio.
-
-— Para onde? — ela perguntou.
-
-— Norte. — Ele falou com a cabeça encostada no vidro. — O bunker da Nise. Se sobrou um lugar nessa cidade com material médico e ninguém para fazer pergunta, é lá.
-
-— E se o hospital dela caiu?
-
-— Aí eu ando com esse joelho até ele apodrecer, e a senhora fica com o carro.
-
-Elena engatou a primeira.
-
-Passaram pela barreira pelo lado do canteiro, com o carro bicando os buracos, e nenhum dos três olhou para os quatro corpos deixados na Avenida da Indústria — três de um lado e um do outro, o de moletom, com o crachá de plástico virado para cima na chuva.
-
-Ele se chamava Éder.
-
-Ninguém no carro perguntou, e ia levar muito tempo para alguém dizer esse nome em voz alta na frente de Gabriel Moretti.
+Éder.

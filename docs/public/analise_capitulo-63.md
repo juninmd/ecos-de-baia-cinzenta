@@ -1,16 +1,18 @@
-# Análise: Capítulo 63 - Águas Profundas
+# Revisão de Capítulo 63: Águas Profundas
 
-**Avaliação Técnica:**
-- Ritmo: 9/10
-- Diálogos: 8/10
-- Atmosfera: 10/10
+Fonte: [capítulo 63](/capitulo-63.md).
 
-**Pontos Fortes / Fracos:**
-- Fortes: Excelente descrição da represa de servidores e o retorno do Taxidermista como um agente do caos imprevisível é uma ótima reviravolta.
-- Fracos: Nenhum significativo.
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-**Sanity Check (Lore):**
-- Totalmente compatível. Gabo imobilizado pela dor após um tiro, as órteses travando demonstram a debilidade mecânica e biológica, e não há referências a tabagismo ou fuga emocional via fumo. Ele aceita o destino pautado em sua limitação física antes de ser salvo.
+## Passagens de entrada e saída
 
-**Avaliação Qualitativa:**
-- Ótima coesão narrativa, utilizando o ambiente (Represa) para escalar as ameaças digitais (upload e servidores imersos). Personagens coerentes. Não precisamos de personagens novos, as peças atuais estão muito bem posicionadas e sendo utilizadas inteligentemente.
+> Represa de Baía Cinzenta — nível inferior.
+> A entrada do complexo ficava na base da represa, e essa foi a última ironia que Gabo teve estômago para apreciar naquela semana.
+
+### Saída
+
+> E desceu a escada.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

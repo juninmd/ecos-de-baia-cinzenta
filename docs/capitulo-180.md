@@ -13,11 +13,11 @@ O ar ali embaixo era um caldo rançoso, denso com o cheiro de decomposição bac
 
 — Gabo... olha a leitura do barômetro — a voz de Valéria soou rente ao meu ouvido, trêmula e tensa.
 
-Ela estava com o sensor térmico encostado na parede curva do duto. A luz azul dos filamentos de LED na franja dela projetava sombras compridas e fantasmagóricas no chão ensopado.
+Ela estava com o medidor de gases encostado na parede curva do duto. A luz azul dos filamentos de LED na franja dela projetava sombras compridas e fantasmagóricas no chão ensopado.
 
 — A pressão atmosférica tá subindo — continuei andando, mantendo o braço de ferro colado à lateral do corpo para não raspar nos rebites enferrujados. — Estamos descendo rápido demais.
 
-— Não é pressão de ar, seu cabeça-dura — ela puxou a manga do meu sobretudo com força, obrigando-me a estancar. — É acúmulo de metano misturado com vapor de ácido nítrico. Tem alguma câmara de decantação vazando bem na nossa rota. Se alguém acender uma faísca a cem metros daqui, essa galeria inteira vira um canhão de artilharia.
+— O barômetro sozinho não identifica o gás, seu cabeça-dura — ela puxou a manga do meu sobretudo com força, obrigando-me a estancar. — O detector está em alarme para gás combustível e há vazamento corrosivo no retorno. Não tenho análise para dizer tudo o que está no ar. Tem alguma câmara de decantação vazando bem na nossa rota. Se alguém acender uma faísca a cem metros daqui, essa galeria inteira vira um canhão de artilharia.
 
 Dez passos depois, a tubulação abriu-se numa câmara de drenagem titânica, com mais de quarenta metros de largura.
 
@@ -37,7 +37,7 @@ Um deles — um garoto magro, com o crânio rapado e cicatrizes de trepanação 
 
 Valéria deu um passo involuntário para trás, levando a mão à boca num reflexo de pura náusea e horror.
 
-— Meu Deus... Gabo... eles estão conscientes — a voz dela falhou, as lágrimas de choque brilhando na borda dos implantes ópticos prateados. — A rede do Silas tá usando o córtex frontal deles pra manter a malha estabilizada... Olha os pulsos elétricos na têmpora do menino. Ele tá preso num loop de dor pra gerar voltagem.
+— Meu Deus... Gabo... eles estão conscientes — a voz dela falhou, as lágrimas de choque brilhando na borda dos implantes ópticos prateados. — A rede do Silas tá usando o córtex frontal deles pra manter a malha estabilizada... Olha os pulsos elétricos na têmpora do menino. Os pulsos acompanham a atividade dos controladores presos ao corpo. Isso não prova que dor gere voltagem. Ele abriu o olho quando a luz bateu; precisamos tratá-lo como alguém que ainda pode nos ouvir.
 
 Ela ergueu a pistola pesada com a mão trêmula, a mira laser tremendo sobre a cabeça do rapaz.
 
@@ -49,7 +49,7 @@ Agarrei o cano da arma dela com minha mão de carne, empurrando-a para baixo com
 
 — Moretti, ele tá sofrendo! — ela sibilou entre os dentes, os olhos arregalados num desespero visceral, puxando a arma contra o meu aperto. — Olha pra cara dele! O garoto não tem vinte anos! Você quer que a gente passe reto feito covarde?
 
-— Olha pro teto! — rosnei, apontando com a mão de aço pesada para os bolsões de gás que brilhavam com um tom amarelado sob a abóbada de concreto. — Você mesma disse há dois minutos: metano concentrado. Um tiro de pólvora ou faísca elétrica agora e a onda de choque incendeia a câmara inteira. A gente queima vivo junto com eles em três segundos.
+— Olha pro teto! — rosnei, apontando com a mão de aço pesada para o detector em alarme e a névoa amarelada sob a abóbada de concreto. — Você mesma disse há dois minutos: metano concentrado. Um tiro de pólvora ou faísca elétrica agora e a onda de choque incendeia a câmara inteira. A gente queima vivo junto com eles em três segundos.
 
 Valéria soltou o ar num soluço seco, o cano da pistola descendo devagar. Ela encarou o garoto suspenso nos filamentos, o queixo tremendo de raiva e impotência.
 
@@ -65,22 +65,24 @@ Afundei os pés no lodo da passarela, medindo o peso da minha armação de ferro
 
 — O que o Vasco planejou pra essa sucata: trabalho braçal de cais.
 
-Avancei dois passos até ficar exatamente sob o cotovelo da tubulação. Ergui a armação industrial com as duas mãos — a mão esquerda dando suporte na base do bíceps, os pinos neurais da escápula gritando quando forcei o ângulo além do limite de segurança.
+A válvula de desvio ficava dentro de uma caixa aberta, ao alcance da passarela. O tubo corroído passava sobre a biomassa que bloqueava a saída; o ramal de manutenção, acima das nossas cabeças, ainda tinha uma placa de acesso lateral.
 
-Cerrei o punho maciço de aço e desferi o golpe contra a curva oxidada do cano.
+— Não bate ferro em ferro aqui — disse Val. — Você ouviu o detector.
 
-*CRACK.*
+Eu abaixei o braço antes de tentar o golpe. Usamos a chave revestida do estojo para mover o desvio e liberar a pequena portinhola lateral. O retorno corrosivo começou a vazar sobre a colônia ao fundo. O chiado não nos dizia o que matava, nem se alcançaria os três suspensos.
 
-O som do metal podre se partindo ecoou como um trovão mecânico na galeria. Uma tromba d'água verde, escaldante e saturada de ácido nítrico despencou em cascata direto sobre o coração da colônia fúngica que bloqueava a saída.
+Val levantou a câmera. Registrou a posição, os rostos e o ponto em que o ramal entrava na câmara. O menino acompanhou a luz com o olho aberto.
 
-O chiado foi ensurdecedor. A biomassa do Jardim se contorceu em espasmos violentos enquanto o ácido industrial dissolvia as membranas orgânicas, transformando as raízes azuis numa pasta cinzenta, borbulhante e putrefata. Uma fumaça espessa, cáustica e cheirando a enxofre e borracha queimada subiu em ondas, abrindo uma vala fumegante e limpa de dois metros de largura bem no meio da câmara.
+— Tem alguém para chamar? — ela perguntou.
+
+Não havia resposta no rádio. Deixamos a passagem lateral marcada com tinta do kit e transmitimos a localização duas vezes. Fomos para o ramal acima do vazamento, sem atravessar a névoa como se o tecido na boca tornasse aquilo seguro.
 
 Puxei o ar com dificuldade, a dor no ombro fazendo minha visão tremer em tons de amarelo.
 
-— Valéria! — chamei, a voz áspera pela fuligem química. — Passagem aberta! Corre!
+— Valéria! — chamei, a voz áspera pela fuligem química. — A passagem lateral está aberta. Não desce para o vazamento!
 
 Valéria saltou sobre a mureta, ajeitando o cyberdeck com uma mão e cobrindo o nariz com a gola da jaqueta. Ela olhou para o garoto suspenso uma última vez. Os filamentos que o prendiam tremiam com a dor da colônia, mas o menino fechou o olho biológico, como se a escuridão fosse o único alívio que Baía Cinzenta tinha para lhe oferecer.
 
-— Desculpa... — Valéria murmurou para a sombra do rapaz, antes de disparar pelo corredor fumegante que o ácido acabara de abrir.
+— Desculpa... — Valéria murmurou para a sombra do rapaz, antes de disparar pelo ramal de manutenção acima da câmara.
 
-Cruzei a câmara logo atrás dela, o calor do ácido queimando a sola das minhas botas através do couro gasto. Não olhei para trás. A cidade cobrava pedágio em vidas humanas em cada esquina, e nós dois só tínhamos conseguido pagar o nosso por mais algumas horas.
+Cruzei a câmara logo atrás dela, tentando ouvir o rádio por cima do chiado. Não chegou confirmação de resgate; a marca e o registro não tiravam ninguém dos casulos. Não olhei para trás. A cidade cobrava pedágio em vidas humanas em cada esquina, e nós dois só tínhamos conseguido pagar o nosso por mais algumas horas.

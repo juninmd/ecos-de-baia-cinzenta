@@ -1,24 +1,17 @@
----
-estado: revisado
-capitulo: 125
----
+# Revisão de Capítulo 125: Ressonância
 
-# Análise Crítica - Capítulo 125
+Fonte: [capítulo 125](/capitulo-125.md).
 
-## Metadados
-- **Capítulo:** 125: Ressonância
-- **Data de Revisão:** (Atual)
-- **Revisor:** AI
+O reparo preserva a história de Aria e separa gravação de Bia da voz da assistente. Nise prepara o transporte de Rangel.
 
-## Avaliação Técnica (1-10)
-- **Ritmo (Pacing):** 9/10
-- **Diálogos:** 9/10
-- **Atmosfera:** 9.5/10
+## Passagens de entrada e saída
 
-## Pontos Fortes e Fracos
-- **Fortes:** O conflito psicológico gerado pela reinicialização instável de Aria e as personalidades colidentes (IA tática vs. Bia Vargas) é excelente e pesa forte no protagonista.
-- **Fracos:** Havia um erro crasso caracterizando Gabo sofrendo de abstinência química como um viciado em fumo precisando de uma dose.
+> O silêncio era a pior parte.
 
-## Sanity Check
-- **Aversão a Fumo:** Verificado e corrigido. A narrativa detalhava que a "química do corpo" estava pedindo um ritual de fumar (abstinência). Isso foi trocado pelo colapso psicológico derivado do estresse pós-traumático: o cheiro de esgoto mimetizando a fumaça de charuto do pai (alucinação) que ele quebra causando dor com o Colar de Sol.
-- **Lore Updates:** A instabilidade de Aria fundindo arquivos com os da falecida Bia eleva as apostas de forma brilhante sem ferir o universo. O uso das sirenes no final sinaliza mudança de ritmo.
+### Saída
+
+> — Avisem a Nise antes de a maca sair — ele disse. — Ela precisa escolher uma rota longe dos holofotes. Eu vou conferir a passagem.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

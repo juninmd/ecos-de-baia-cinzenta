@@ -29,7 +29,7 @@ Cortando o centro do salão de concreto, um canal de drenagem pluvial de quatro 
 
 — O Jardim... — Elias recuou dois passos, o pânico voltando a estalar em sua voz esganiçada. — Ele nos seguiu pelo duto?!
 
-— Não viaja, mecânico — Valéria caminhou até a margem do canal, agachando-se com a sonda de teste em punho sem encostar na matéria orgânica. — Essas raízes têm pelo menos três semanas de crescimento. Olha a grossura dos nós e a calcificação em volta dos eletrodos de terra. A praga do Silas Vance não começou na estufa ontem. Ela já tinha se espalhado por cada canal de esgoto da cidade enquanto a gente ainda tava lutando contra o Sentinel no Arquivo.
+— Não viaja, mecânico — Valéria caminhou até a margem do canal, agachando-se com a sonda de teste em punho sem encostar na matéria orgânica. — Essas raízes já estavam aqui. Olha a calcificação em volta dos eletrodos. A grossura não me dá uma data, mas não nasceram enquanto cruzávamos o duto. A praga do Silas Vance não começou na estufa ontem. Ela já tinha se espalhado por cada canal de esgoto da cidade enquanto a gente ainda tava lutando contra o Sentinel no Arquivo.
 
 Perto da margem, alguém tinha montado acampamento. Quatro carrinhos de supermercado amarrados com arame formavam uma parede baixa, e atrás deles havia cobertores apodrecidos, latas vazias e uma fogueira que já era só mancha de fuligem no cimento. Na parede, escrito com giz de obra, um risco e um número: três.
 
@@ -59,6 +59,6 @@ Valéria olhou para Elias com aquele meio-sorriso cínico e destemido que sempre
 
 — Se topar com zumbi corporativo, Elias, você se abaixa e deixa o Moretti e a escopeta dele explicarem a política de demissão sem justa causa da Aeterna Corp. Vamos andar logo antes que os transformadores lá em cima apaguem de vez.
 
-Contei os cartuchos no bolso do sobretudo enquanto andava. Faziam um barulho de dentes batendo. Não era muito, e dali em diante cada um ia ter que justificar a própria existência. A mão esquerda ainda formigava onde a fita apertara demais; abri e fechei os dedos até o sangue voltar.
+Contei os cartuchos no bolso do sobretudo enquanto andava. Faziam um barulho de dentes batendo. Não era muito, e dali em diante cada um ia ter que justificar a própria existência. A mão direita ainda formigava onde a fita apertara demais; abri e fechei os dedos até o sangue voltar.
 
 Avançamos pela passarela elevada ao lado do canal, o eco ritmado dos nossos passos e o chiado mecânico da minha armação marcando a cadência firme da nossa marcha através das catacumbas esquecidas do Setor 6.

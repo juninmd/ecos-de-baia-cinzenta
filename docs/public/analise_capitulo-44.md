@@ -1,16 +1,18 @@
-# Análise do Capítulo 44: O Que Saiu do Ralo
+# Revisão de Capítulo 44: O Que Saiu do Ralo
 
-## Avaliação Técnica
-- Ritmo: 10/10
-- Diálogos: 8/10
-- Atmosfera: 10/10
+Fonte: [capítulo 44](/capitulo-44.md).
 
-## Pontos Fortes e Fracos
-- Fortes: Horrores da modificação corporal da Aeterna apresentados em contexto biológico de contaminação e sobrevivência. Tensão genuína.
-- Fracos: A transição poderia ser mais fluída em relação ao volume do combate em barco.
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-## Verificação de Sanidade (Lore Compliance)
-- Perfeita obediência. Ação visceral mantida sob os preceitos de Gabo: sem vício de cigarro, focando sua sobrevivência nos limites do seu corpo traumatizado (joelho destruído).
+## Passagens de entrada e saída
 
-## Avaliação Qualitativa
-A adição dos humanoides mutantes funciona perfeitamente dentro da evolução dos perigos corporativos biológicos no ambiente inundado.
+> Depósito da Alfândega, Cais Três — Nível 20.
+> O depósito era um labirinto de contêineres empilhados em quatro alturas, e a água tinha entrado só até o meio do primeiro nível, o que fazia daquele o lugar mais seco de Baía Cinzenta e o pior lugar do mundo. Elena prendeu o bote entre os pilares da entrada de carga. Gabo permaneceu sentado, com a perna apoiada e a Caronte sobre a borda; não atravessaria o depósito a pé. Ela seguiria pelas passarelas para buscar as caixas.
+
+### Saída
+
+> — Então reza.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

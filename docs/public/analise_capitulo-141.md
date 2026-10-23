@@ -1,11 +1,17 @@
-# Análise Crítica - Capítulo 141
+# Revisão de Capítulo 141: Raízes Amargas
 
-## Consistência de Personagem (Lore)
-- **Gabo (Fobia de Fumaça):** A representação da fobia está impecável. A menção à fumaça é tratada como uma "ilusão nauseante" e um "resquício fantasma" atrelado ao trauma do pai, não como um desejo por cigarro. Gabo usa a dor (mão ferida na viga) para ancorar-se e afastar a asfixia psicológica, alinhando-se perfeitamente com a diretriz.
-- **Limitações Físicas e Outros Personagens:** A dinâmica de grupo e a frieza de Aria estão consistentes.
+Fonte: [capítulo 141](/capitulo-141.md).
 
-## Trama e Continuidade
-- O capítulo parece ser um esqueleto ou placeholder, mas as menções aos personagens e seus traumas estão corretas para a fase atual da jornada.
+O guincho, o cabo e a trava manual entram no plano antes do transporte vertical. Aria fornece comando ao controlador; a potência vem da alimentação local.
 
-## Conclusão da Revisão
-**Aprovado.** Sem infrações de lore identificadas.
+## Passagens de entrada e saída
+
+> O frio do Subnível 7 não era como o frio de inverno nas ruas de Baía Cinzenta. Era um frio úmido e obsoleto, o tipo de gelo que se infiltra pelos ossos e te lembra de que você está pisando onde o sol não toca há um século.
+
+### Saída
+
+> Eles iriam subir. E quando chegassem ao topo, iriam arrancar o Taxidermista da toca e deixar só cinzas e silêncio.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

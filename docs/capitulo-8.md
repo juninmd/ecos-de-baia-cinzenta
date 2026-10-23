@@ -1,112 +1,109 @@
 ---
 image: /capitulo_8.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Capitão Jonas Vilar, Aria Moretti, Roberto Miranda, Kiko Vibe
-Localização: "Apartamento de Gabriel → Ruas de Baía Cinzenta"
+Localização: Apartamento de Gabo, Distrito Central, e Delegacia Central
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Capitão Jonas Vilar, Aria (módulo físico), guarda da DPBC
+Participação em registros e imagens: Roberto Miranda, Kiko Vibe
 ---
 # Capítulo 8: Ressaca Digital
 
-A cidade acordou às seis, como sempre. O Ruído entrou pelos alto-falantes do prédio antes do primeiro ônibus: uma frequência de vinte e dois hertz que ninguém ouvia e que ninguém conseguia deixar de obedecer.
+A cidade acordou às seis. O zumbido dos alto-falantes entrou no apartamento antes do primeiro ônibus, fazendo vibrar o copo esquecido no chão. Gabriel Moretti desejou que alguém apertasse o botão de soneca.
 
-Gabriel Moretti desejava que a cidade tivesse apertado o botão de soneca.
+Fazia três meses que retirara Miranda do buggy. A clínica estancara a hemorragia; Valéria chegara com uma equipe de Vilar antes do amanhecer. Gabo assinara o recebimento de suas próprias armas enquanto outro policial algemava a testemunha à maca. Miranda passara a viagem pedindo que ele não o entregasse.
 
-Ele estava deitado no chão de seu apartamento, encarando o teto manchado de umidade. A chuva chegava às seis e quarenta, pontual. Os satélites climáticos da Aeterna a dosavam ácida o bastante para lavar as calçadas e mansa o bastante para não manchar os carros da Torre. O Ruído — a frequência subliminar de pacificação que a Aeterna transmitia — não calava a cidade. Ele a afinava.
+A visita à represa fora registrada no dia seguinte. As bases dos tanques ainda estavam lá. Os tanques, não. O boletim da desaparecida também sumira. Vilar conservara as filmagens, o original e a transmissão incompleta, mas a investigação passara à Divisão de IA: conflito de interesse do inspetor Moretti. Dantas anexara a gravação do baile ao mesmo despacho.
 
-As buzinas paravam no semáforo antes do segundo toque. As sirenes passavam sem pressa, como se estivessem cumprindo tabela. A ordem tinha o som de um zumbido que ninguém admitia ouvir.
+Gabo perdera duas semanas de salário e o direito de entrar naquele inquérito. Continuara protocolando pedidos. Na última resposta, as unidades da represa apareciam como material biológico encaminhado a descarte. O marido da mulher do Setor 4 recebera uma certidão de óbito sem que ninguém lhe devolvesse um corpo.
 
-O apartamento cheirava a roupa lavada que ficou úmida dentro da máquina. Gabriel contava as rachaduras do teto como quem conta moedas: dezenove, três novas desde o mês passado. A vizinha do 402 começou a brigar com o marido em espanhol e parou no meio da terceira frase, como todo mundo parava. O marido respondeu com silêncio, o que era pior. O prédio registrou a ocorrência e não fez nada.
+O chip continuava dentro de Gabo. A tentativa de retirada deixara uma cicatriz curta no abdômen. O médico interrompera o procedimento ao encontrar o invólucro biológico aderido ao tecido; no laudo, recomendara uma equipe que a clínica não tinha. Gabo saíra devendo, com uma cópia das imagens e um leitor que só conseguira interrogar a identificação externa do módulo. O conteúdo permanecia cifrado.
 
-Ele fez café. O filtro tinha sido lavado tantas vezes que já não filtrava nada, e o pó descia para a garrafa como areia. Bebeu de pé, encostado na pia, ouvindo a cidade funcionar com o cérebro de outra pessoa. O Ruído não deixava ninguém gritar; deixava todo mundo sussurrar a mesma coisa.
+Agora, sentado no chão, ele passou a mão pela cicatriz. Às vezes lhe parecia sentir o dispositivo vibrar. A imagem do exame mostrava o objeto quieto. O corpo dele não respeitava essa conclusão.
 
-Gabriel rolou, sentindo as cicatrizes no estômago repuxarem. O chip de dados que ele engolira meses atrás ainda estava lá, encapsulado em tecido cicatricial, um tumor de silício. Às vezes, ele achava que podia sentir o código vibrando contra suas costelas, sussurrando segredos que ele não conseguia decifrar.
+— *Bom dia, detetive.* Aria falava pelo rádio-despertador, com o módulo espetado na porta lateral. *Precipitação prevista para seis e quarenta. Acidez classificada como tolerável pelo serviço municipal.*
 
-— *Bom dia, detetive,* — a voz de Aria soou pelo alto-falante do rádio-despertador na cabeceira, onde o componente tipo pendrive que Gabo encontrara na cabine telefônica na enchente estava espetado na porta lateral, com o LED azul pulsando devagar. — *Precipitação programada para as seis e quarenta. Índice de acidez: tolerável. Trânsito: fluido. Índice de satisfação do Distrito Central: oitenta e sete por cento. Chance de sobrevivência: Variável.*
+— Para quem?
 
-— Cale a boca, Aria — resmungou Gabriel, levantando-se como um velho de trinta e cinco anos e puxando o pendrive morno da tomada de dados para encaixá-lo no comunicador tático.
+— *O boletim não informa.*
 
-Aria não respondeu. A assistente de IA vivia trancada naquele prisma de titânio de sete centímetros que migrava do painel do carro para o comunicador dele e para a bancada de Valéria. Valéria passara meses tentando descompilar o núcleo do pendrive para entender o código-fonte, mas a arquitetura da IA era blindada: abria os canais quando queria e entrava em modo furtivo quando tentavam dissecá-la.
+Gabo se levantou devagar. A mão ferida já fechava, mas a pele nova repuxava no punho. Fez café num filtro lavado demais, engolindo o pó que chegava à garrafa. A água das seis e quarenta começou a bater na janela antes que terminasse.
 
-Gabriel bebeu um gole de uísque barato direto da garrafa para matar as bactérias da boca e vestiu o sobretudo bege, que agora cheirava permanentemente a mofo. Tocou o Colar de Sol, sentindo o metal frio contra o peito.
+Retirou Aria da base e a encaixou no comunicador. Valéria passara meses examinando o módulo numa bancada isolada. Conseguira separar o tráfego externo das funções locais; não abrira o núcleo. Gabo podia usar o rádio sem entregar ao pendrive todas as credenciais do departamento. Era menos cômodo. Por isso mesmo, ela insistira.
 
-Ao sair do prédio, a realidade não o agrediu. Foi pior: ela o recebeu. Os outdoors holográficos exibiam o rosto de Kiko Vibe sorrindo para a avenida, dentes perfeitos, jaqueta de LEDs anunciando um refrigerante. A censura algorítmica da Aeterna não deixava a cidade mostrar o que bem entendesse. Deixava mostrar o que vendia: pele limpa, torres limpas, nenhuma mancha, nenhum mendigo, nenhum grito.
+O sobretudo ainda cheirava a mofo. Ele guardou os documentos da clínica junto das novas requisições e desceu.
 
-Ele caminhou até a delegacia. Os robôs de limpeza recolhiam o lixo antes que ele tocasse o chão.
+Na avenida, Kiko Vibe sorria num anúncio de refrigerante. Cabelo verde-limão, dentes limpos, mãos erguidas para uma multidão que não aparecia no painel. Os robôs recolhiam o lixo antes que alcançasse a sarjeta. Perto de um deles, um homem vendia baterias usadas sob a placa *ORIGINAIS*. Gabo viu o atraso no leitor de procedência, pensou em voltar depois e soube que não voltaria.
 
-Passou por três quarteirões e viu um homem vendendo baterias de carro numa mesa de plástico, com uma placa escrita à mão: *originais*. Ao lado, um leitor de procedência piscava verde a cada compra. Ninguém comprava sem escanear. Procedência era a única coisa que ainda importava — e o verde do leitor piscava meio segundo atrasado, o que queria dizer que o homem tinha falsificado até aquilo.
+Na porta da DPBC, o guarda afastou o cigarro quando o viu. Nenhum dos dois cumprimentou o outro. O café da rua tinha sido melhor que o do apartamento; Gabo não tinha dinheiro para mais um.
 
-Na porta da DPBC, um guarda de verdade, não um drone, fumava encostado na parede. O cigarro era o único item sem registro na rua inteira. Ele viu Gabriel e não o cumprimentou. Gabriel não o cumprimentou de volta. Cumprimentar ainda era uma forma de esperança, e ele estava economizando.
+Valéria estava à mesa ao lado da sua, de jaqueta sintética e coturnos de plataforma, o bob assimétrico ainda úmido. Os fios azuis da franja iluminavam a tampa aberta do Phantom V3. Ela segurava um copo fechado, sem beber.
 
-Dentro da DPBC, o atraso era físico. Os terminais holográficos funcionavam, as luzes não piscavam, e mesmo assim pilhas de papel cobriam as mesas. Casos esquecidos não mereciam servidor.
+— Cortaram o café? — perguntou Gabo.
 
-— Moretti! — O grito do Capitão Vilar cortou o zumbido.
+— Hoje o problema não é o café.
 
-Vilar parecia ter envelhecido uma década. Ele estava em pé no meio do esquadrão.
+Os olhos azul-gelo acompanharam um aviso que atravessava a tela do deck. Valéria o salvou antes que desaparecesse. Quando Vilar chamou os dois, levou consigo o aparelho e uma folha impressa.
 
-— Na minha sala. E traga sua... parceira.
+Na sala, o capitão havia separado três envelopes. Pousou a foto de um rapaz sobre o primeiro. O cabelo era verde-limão, mas o sorriso da avenida não estava ali.
 
-Gabriel franziu a testa, olhando para a mesa ao lado da sua.
+— Kiko Vibe. Encontrado na cama, ligado ao equipamento de transmissão. A equipe está na Solaris. Vocês vão preservar o que a perícia ainda não retirou.
 
-Sentada lá, com os pés sobre uma pilha de processos, estava a Detetive Valéria Cruz.
+— Overdose? — perguntou Gabo.
 
-Cabelo tingido de um rosa químico que brilhava no escuro, jaqueta de couro sintético cheia de patches e olhos... olhos que não eram dela. Próteses óticas de grau militar, violetas e inquietas.
+Valéria abriu a folha.
 
-Ela parou de mascar chiclete e sorriu.
+— O socorro imprimiu isto antes de desligar o rig. O registro mostra subida de temperatura e inversão do resfriamento. Não mostra quem mandou inverter.
 
-— O velho tá de mau humor hoje. Deve ser a artrite. Ou o fato de que o orçamento do café foi cortado. De novo.
+— Falha?
 
-— Vamos logo, Val.
+— Pode ser. Se eu chamar de assassinato por causa de uma fotografia, você me manda voltar ao laboratório. — Ela lhe devolveu o olhar. — Hoje pode mandar.
 
-Eles entraram na sala de Vilar. O Capitão jogou uma pasta na mesa.
+Gabo puxou a cadeira. Vilar bateu no segundo envelope.
 
-— Kiko Vibe — disse Vilar. — Influencer. Encontrado morto esta manhã.
+— O dispositivo está lacrado. A perícia elétrica vai examinar. O prefeito já pediu uma versão para divulgar ao meio-dia.
 
-— Overdose? — perguntou Gabriel.
+— E o senhor quer que a gente entregue uma.
 
-— Térmica — corrigiu Valéria, pegando uma das fotos sem pedir permissão. — O cérebro dele cozinhou. A temperatura interna do crânio subiu para 60 graus em dois segundos.
+— Quero que vocês não entreguem a errada. — O capitão passou o polegar pelo lacre. — É diferente do que vão me cobrar às onze e meia.
 
-— Falha de hardware?
+Valéria abriu no deck uma captura da noite anterior. Kiko aparecia entre dois anúncios, falando baixo, sem a música habitual.
 
-— Assassinato. — Valéria apontou para o headset na foto. — Alguém injetou um pacote de dados corrompidos direto no córtex visual dele. O sistema de refrigeração do rig foi revertido. Transformaram o capacete num micro-ondas.
+> “O Grande Reset. Amanhã eu mostro o que a infraestrutura nova faz. Não mandem coração. Guardem uma cópia.”
 
-Gabriel sentiu o gosto amargo do uísque voltar.
+— Ele pediu para replicar — disse ela. — Essa veio de um receptor que ainda não sincronizou com a plataforma.
 
-— Quem mataria um garoto que faz vídeos de dança?
+— Ele mostrou alguma coisa?
 
-— A pergunta certa não é essa — disse Valéria, sem levantar os olhos da foto. — É quanto ele ia mostrar. Um milhão e meio de pessoas iam assistir. Isso não é garoto dançando, é uma praça.
+— A transmissão não começou. O anúncio começou a sumir esta manhã.
 
-Vilar olhou para ela. Havia algo entre irritação e respeito naquele olhar.
+Vilar empurrou o terceiro envelope para Gabo. Dentro havia uma transcrição de Miranda, sem assinatura do depoente.
 
-— E por que a Divisão de Esquecidos? — perguntou Gabriel.
+— Ele citou o rapaz nas entrevistas da Inteligência. Contatos com gente que transportava equipamento para o subsolo.
 
-— Porque o morto tem vinte anos e um milhão e meio de seguidores — disse Vilar. — O prefeito quer isso fechado antes do meio-dia. Você não tem meio-dia. Você tem até o café esfriar.
+— Ele assinou?
 
-— E se eu não quiser?
+— Não. Diz que assina depois de reverem as condições médicas.
 
-— Então eu te dou suspensão administrativa e você investiga de qualquer jeito, só que sem salário. — Vilar mastigou a ponta do charuto que nunca acendia. — Não me obrigue a fazer o papel de chefe com você, Moretti. Eu já tenho que fazer isso com a cidade inteira.
+Gabo pensou na coxa amarrada com o lenço e no rosto de Bia. Havia linhas daquele papel que ele desejava verdadeiras demais.
 
-— Kiko ia fazer uma *live* ontem à noite. Chamada "O Grande Reset". — Vilar cruzou os braços. — Ele prometeu revelar "a verdade sobre a nova infraestrutura". Miranda disse que ele tinha contatos no submundo.
+— Não use isso para explicar a morte do garoto.
 
-A menção de Miranda fez Gabriel trincar os dentes. O traidor estava preso em uma cela de segurança máxima no subsolo da delegacia, cantando como um canário para a Inteligência em troca de morfina para sua perna gangrenada.
+— Por isso você vai ao apartamento — respondeu Vilar. — Miranda fica aqui. Ontem pediram uma transferência para uma unidade conveniada. Estou conferindo quem assinou o pedido.
 
-— E o que ele revelou? — perguntou Gabriel.
+O deck de Valéria emitiu um alerta. A captura aberta virou um retângulo cinza.
 
-— Nada — disse Valéria. — Porque ele foi apagado.
+— O perfil dele caiu — disse. — E o espelho público também. Vou isolar esta cópia.
 
-— Apagado?
+Ela desligou a conexão externa. O vídeo local voltou. Gabo olhou para os horários impressos no relatório: a morte, a retirada do equipamento, o início das remoções. A sequência podia ter mais de uma causa. Alguém precisava conservar as horas antes que passassem a ter só uma versão.
 
-— Shadowban Nível 5. — Os olhos violetas de Valéria giraram, focando em algo invisível. — A conta dele sumiu. Os backups na nuvem foram corrompidos. Até as menções ao nome dele em outros fóruns estão desaparecendo enquanto conversamos. Alguém está limpando a existência dele da história.
+— Mataram o corpo e agora estão matando o fantasma — disse.
 
-Gabriel pegou a foto do cadáver. Olhos queimados. A boca aberta num grito silencioso.
+Vilar lhe entregou a requisição de entrada na Solaris.
 
-— Mataram o corpo e agora estão matando o fantasma.
+— Se já retiraram alguma coisa, registre quem autorizou. Se mexerem num lacre, me chamem.
 
-— Precisamos ir ao apartamento dele — disse Valéria, já caminhando para a porta. — Antes que os "Limpadores" cheguem ao hardware físico.
+Na saída, Gabo assinou a cautela do colete que substituía o abandonado na represa. Valéria esperou que ajustasse as tiras antes de pedir as chaves do Cobalt.
 
-Gabriel suspirou e pegou as chaves do carro.
+— Eu dirijo. Você fica com o mapa e com esses envelopes. E não conecta prova desconhecida no painel.
 
-— Aria já traçou a rota? — perguntou ele, tocando o comunicador onde o pendrive estava acoplado.
+Ele deu as chaves. Aria, alimentada pelo comunicador, ofereceu uma rota pelo Distrito das Fábricas e informou a hora do mapa em cache. Valéria a comparou ao boletim de trânsito antes de aceitar.
 
-— *Rota otimizada,* — a voz sintética da assistente de IA saiu pelo canal pareado com o comunicador de Valéria. — *Tráfego pesado na Zona Sul. Recomendo passar pelo Distrito das Fábricas.*
-
-Valéria revirou os olhos.
-
-— Eu odeio quando esse seu pendrive sequestra a frequência do meu deck. Vamos, Gabo. O morto não vai esperar.
+Pelo vidro da entrada, Gabo viu o anúncio mudar na avenida. O nome de Kiko desapareceu do canto. O rosto continuou vendendo refrigerante.

@@ -7,7 +7,7 @@ capítulo); as cláusulas que travam rosto, roupa e fase física vivem neste arq
 from pathlib import Path
 from typing import Dict, List, Optional
 
-from scripts.art_gen import continuidade, vestuario
+from scripts.art_gen import aria_visual, continuidade, vestuario
 from scripts.daily_telegram import characters
 
 REPO_ROOT = Path(__file__).resolve().parents[2]
@@ -103,6 +103,7 @@ def texto_do_prompt(cena, titulo: str, ancora: Optional[Dict], elenco: List[Dict
         + ". " + NEGATIVO
         + vestuario.reforco(elenco)
         + continuidade.clausula(elenco, capitulo)
+        + aria_visual.clausula(elenco, capitulo)
     )
 
 

@@ -7,19 +7,9 @@ Personagens Presentes: Gabo, Valéria, Elias, Elena, Dra. Elara Vance
 
 # Capítulo 230: A Conta Antiga
 
-Enterramos o Duarte às quatro da tarde, num terreno atrás do galpão, porque não havia mais cemitério e nem quem administrasse um.
+Enterramos o Duarte às quatro da tarde, num terreno atrás do galpão, porque não havia mais cemitério e nem quem administrasse um. A irmã dele chegou de Setor 9 no fim do dia. Tinha dezenove anos e veio a pé. Ficou olhando o monte de terra por muito tempo, e depois perguntou à Elena se o irmão tinha morrido fazendo alguma coisa importante, e a Elena disse que sim, e não era mentira, e mesmo assim eu tive que sair de perto. Fiquei no pátio até escurecer, olhando a marca que a cinta laranja deixou na grade.
 
-A irmã dele chegou de Setor 9 no fim do dia. Tinha dezenove anos e veio a pé. Ficou olhando o monte de terra por muito tempo, e depois perguntou à Elena se o irmão tinha morrido fazendo alguma coisa importante, e a Elena disse que sim, e não era mentira, e mesmo assim eu tive que sair de perto.
-
-Fiquei no pátio até escurecer, olhando a marca que a cinta laranja deixou na grade.
-
-O cheiro não saía. Não era o do rapaz — era o **dele**: sabão industrial e água parada, um odor de lavanderia de presídio que ficou grudado no ferro do portão e que o vento do canal não levava. Cada vez que a brisa virava, vinha de novo, azedo e limpo ao mesmo tempo, e o gosto disso descia pela garganta e assentava como moeda velha na língua.
-
-Ao longe, as prensas continuavam batendo. *Tchunc-tchunc-tchunc.* O mundo imprimindo a acusação de um homem enquanto o filho de outra mulher esfriava embaixo de uma lona.
-
-A Elena veio quando as prensas pararam.
-
-Sentou no cascalho, do meu lado, com dois copos e uma garrafa de alguma coisa que tinha sido uísque em outra vida. Serviu os dois. Não me entregou o meu; deixou no chão, ao meu alcance.
+O cheiro não saía. Não era o do rapaz — era o **dele**: sabão industrial e água parada, um odor de lavanderia de presídio que ficou grudado no ferro do portão e que o vento do canal não levava. Cada vez que a brisa virava, vinha de novo, azedo e limpo ao mesmo tempo, e o gosto disso descia pela garganta e assentava como moeda velha na língua. Ao longe, as prensas continuavam batendo. *Tchunc-tchunc-tchunc.* O mundo imprimindo a acusação de um homem enquanto o filho de outra mulher esfriava embaixo de uma lona. A Elena veio quando as prensas pararam. Sentou no cascalho, do meu lado, com dois copos e uma garrafa de alguma coisa que tinha sido uísque em outra vida. Serviu os dois. Não me entregou o meu; deixou no chão, ao meu alcance.
 
 — Fala.
 
@@ -27,9 +17,7 @@ Sentou no cascalho, do meu lado, com dois copos e uma garrafa de alguma coisa qu
 
 E eu falei.
 
-— Barraco setenta e um. Vinte e três de agosto. Eu era o inspetor de plantão e cheguei quarenta minutos depois do chamado.
-
-Peguei o copo. Não bebi.
+— Barraco setenta e um. Vinte e três de agosto. Eu era o policial de plantão e cheguei quarenta minutos depois do chamado. Peguei o copo. Não bebi.
 
 — A Cleuza Braga estava no chão da cozinha, entre o fogão e a mesa. Trinta e quatro anos. Ele tinha usado uma chave de grifo de vinte e quatro polegadas, dessas de encanador, e depois sentou na cadeira e esperou a viatura chegar. Nem lavou a mão.
 
@@ -39,7 +27,7 @@ Peguei o copo. Não bebi.
 
 — A confissão não valia?
 
-— Não tinha advogado presente e ele estava embriagado. Anulada. — Dei de ombros com o ombro que ainda funciona. — Sobrou a vizinha. Dona Zélia, do setenta e três, que viu ele entrar com a chave de grifo na mão. Ela ia depor.
+— A defesa contestou como foi colhida, e o juiz desconsiderou aqueles depoimentos. Eu li a decisão como se ela me desse licença para fabricar o que faltava. — Dei de ombros com o ombro que ainda funciona. — Sobrou a vizinha. Dona Zélia, do setenta e três, que viu ele entrar com a chave de grifo na mão. Ela ia depor.
 
 — E?
 
@@ -47,15 +35,13 @@ Peguei o copo. Não bebi.
 
 — Então você plantou a faca.
 
-— Então eu plantei a faca.
-
-Falar em voz alta foi mais fácil do que eu imaginei em catorze anos de ensaio, e isso me deixou pior.
+— Então eu plantei a faca. Falar em voz alta foi mais fácil do que eu imaginei em catorze anos de ensaio, e isso me deixou pior.
 
 — Peguei uma faca de cozinha da casa dele, do escorredor, na noite da perícia. Passei nela o sangue do laudo velho, que ainda estava na câmara fria porque o depósito de amostras ficava no segundo andar e o segundo andar não alagou. Coloquei na caixa d'água. E na segunda busca eu mandei o perito subir no telhado.
 
 — Você mandou o perito subir no telhado.
 
-— Eu disse que era procedimento padrão em barraco de laje. — Ri, e o som saiu horrível. — Não é. Ninguém nunca subiu num telhado numa segunda busca na história dessa polícia.
+— Eu disse que era procedimento padrão em barraco de laje. — Ri, e o som saiu horrível. — Não é. Era o jeito de fazer uma busca parecer rotina quando eu já sabia onde a peça ia estar.
 
 Elena ficou olhando para a frente.
 
@@ -71,9 +57,7 @@ Ela demorou muito para falar de novo.
 
 — Pergunta.
 
-— Você fez isso outras vezes?
-
-E essa foi a que doeu.
+— Você fez isso outras vezes? E essa foi a que doeu.
 
 — Não. — Olhei para ela. — Uma vez. Uma vez só, em quatorze anos de polícia, e eu escolhi bem, e é isso que torna a coisa pior.
 
@@ -89,7 +73,7 @@ Deixei o copo no chão.
 
 — A Bia descobriu, — Elena disse. Não era pergunta.
 
-— A Bia era boa. Boa de verdade, não boa de discurso. — Fechei os olhos. — Ela pegou o inquérito seis anos depois, num arquivamento de rotina, e viu que a data do laudo de sangue era anterior à data da apreensão da faca. Um erro de dois dias que ninguém nunca ia notar, porque ninguém lê inquérito arquivado.
+— A Bia era boa. Boa de verdade, não boa de discurso. — Fechei os olhos. — Ela pegou o inquérito nove anos depois, num arquivamento de rotina, e viu que a data do laudo de sangue era anterior à data da apreensão da faca. Um erro de dois dias que ninguém nunca ia notar, porque ninguém lê inquérito arquivado.
 
 — Ela te confrontou.
 
@@ -109,7 +93,7 @@ Deixei o copo no chão.
 
 Olhei para a Elena.
 
-— Não foi. O que quebrou foi ela ter morrido antes de eu ter a chance de fazer a coisa certa. Enquanto ela estava viva, eu ainda podia me entregar um dia. Quando ela morreu, virou segredo permanente. E aí eu tive que virar o cara que estava certo, para sempre, porque a alternativa era ser o cara que perdeu a mulher e mentiu.
+— Não foi. O que quebrou foi ela ter morrido antes de eu ter a chance de fazer a coisa certa. enquanto ela estava viva, eu adiava para um dia em que ela fosse comigo. Quando ela morreu, eu usei a morte dela como desculpa para continuar calado. E aí eu tive que virar o cara que estava certo, para sempre, porque a alternativa era ser o cara que perdeu a mulher e mentiu.
 
 ---
 
@@ -123,21 +107,17 @@ A Valéria apareceu na porta do galpão. Ficou lá, sem entrar, com aquela imobi
 
 — Estou processando a implicação operacional.
 
-— Fala em português, Val.
+— Fala em português, Val. Ela entrou. Parou a dois metros.
 
-Ela entrou. Parou a dois metros.
-
-— Eu revi meus registros dos últimos quatro anos com essa informação nova, — ela disse. — Em onze ocasiões você recusou atalhos que teriam salvado tempo e reduzido risco. Eu classifiquei essas recusas como ineficiência moral e as registrei como custo. — Uma pausa. — Elas não eram ineficiência. Você estava evitando repetir isso.
+— Eu revi meus registros dos meses em que estivemos juntos com essa informação nova, — ela disse. — Em onze ocasiões você recusou atalhos que teriam salvado tempo e reduzido risco. Eu classifiquei essas recusas como ineficiência moral e as registrei como custo. — Uma pausa. — Elas não eram ineficiência. Você estava evitando repetir isso.
 
 Eu não tinha resposta.
 
 — Isso muda a sua avaliação sobre mim?
 
-— Muda o modelo, não a avaliação. — Nenhuma inflexão. — Você é mais previsível do que eu calculava, e mais caro. Ambos são úteis de saber.
+— Muda o modelo, não a avaliação. — Nenhuma inflexão. — Você é mais previsível do que eu calculava, e mais caro. Ambos são úteis de saber. Ela olhou para o portão. Para a marca da cinta na grade.
 
-Ela olhou para o portão. Para a marca da cinta na grade.
-
-— O problema tático permanece o mesmo. O sujeito Braga não pode ser preso, não pode ser comprado, não pode ser dissuadido, e anunciou cronograma. Amanhã às onze ele cobra do Elias.
+— O problema tático permanece o mesmo. Braga anunciou um prazo e ameaçou Elias. Precisamos de vigilância, abrigo para os trabalhadores e um lugar de custódia. Não vou tratar a ameaça dele como prova de que nada disso pode funcionar. Amanhã às onze ele cobra do Elias.
 
 — Eu sei.
 
@@ -147,9 +127,7 @@ Ela olhou para o portão. Para a marca da cinta na grade.
 
 — A probabilidade de você resolver isso sem matá-lo é—
 
-— **Não me diz o número.**
-
-Ela fechou a boca.
+— **Não me diz o número.** Ela fechou a boca.
 
 ---
 
@@ -157,9 +135,7 @@ A Dra. Elara Vance falou do escuro, e eu tinha esquecido que ela estava ali.
 
 — Inspetor.
 
-— Doutora.
-
-A cadeira de aço rangeu quando ela se aproximou até a beira da luz.
+— Doutora. A cadeira de aço rangeu quando ela se aproximou até a beira da luz.
 
 — O senhor passou dois dias me olhando como quem olha lixo, — ela disse. — Porque eu assinei um memorando dizendo que uma coisa indefensável devia ser feita em escala, já que ia ser feita de todo jeito.
 
@@ -169,10 +145,6 @@ A cadeira de aço rangeu quando ela se aproximou até a beira da luz.
 
 Ela deixou aquilo assentar.
 
-— A única distinção entre nós é a quantidade de zeros. E eu, ao contrário do senhor, não passei catorze anos fingindo que a distinção era de natureza.
-
-Elena olhou para mim.
-
-Eu não consegui olhar para ela.
+— A única distinção entre nós é a quantidade de zeros. E eu, ao contrário do senhor, não passei catorze anos fingindo que a distinção era de natureza. Elena olhou para mim. Eu não consegui olhar para ela.
 
 — O senhor vai ao portão amanhã, — a Vance continuou. — E vai encontrar um homem que construiu a vida inteira em cima de uma frase verdadeira. Não subestime isso, inspetor. Gente com uma frase verdadeira é a coisa mais difícil de matar que existe.

@@ -5,8 +5,7 @@ Localização: 'Zona de Exclusão Sul - Subsolo do "Berçário"'
 ---
 # Capítulo 101: Ressonância
 
-**Zona de Exclusão Sul - Subsolo do "Berçário"**
-
+Zona de Exclusão Sul - Subsolo do "Berçário"
 O som do disparo do revólver de Gabo não ecoou como deveria. O ar úmido e pesado da caverna absorveu o estrondo, transformando-o em um baque surdo, como se estivessem atirando embaixo d'água.
 
 A criatura que saltara sobre eles foi atingida no meio do salto. O projétil calibre .38, uma relíquia de um mundo anterior aos escudos energéticos, perfurou a massa de carne exposta. Não houve sangue, apenas um spray de fluido amarelado e viscoso. A coisa caiu se debatendo, emitindo um guincho que lembrava o som de metal sendo rasgado.
@@ -17,7 +16,7 @@ Gabo tentou recuar, mas suas pernas não responderam com a agilidade necessária
 
 Mais três daquelas coisas — os "Protótipos", como Elena os chamara — surgiram por trás dos tanques de cultivo. Eram pesadelos anatômicos: torsos humanos fundidos a membros alongados e articulados de forma errada, reforçados por pistões hidráulicos enferrujados que pareciam ter crescido de dentro dos ossos.
 
-— Eles são cegos! — percebeu Gabo, vendo como as criaturas moviam as cabeças sem rosto, guiando-se pelo som. — Eles ouvem os servos das minhas pernas!
+— Eles são cegos! — percebeu Gabo, vendo como as criaturas moviam as cabeças sem rosto, guiando-se pelo som. — Eles seguem os estalos das travas das minhas pernas!
 
 — Então pare de se mexer e atire! — retrucou Elena.
 
@@ -39,7 +38,7 @@ Sem pensar, Gabo arrancou o cubo do bolso e o ergueu.
 
 O efeito foi imediato e aterrorizante.
 
-O coração gigante no teto parou por um segundo. A luz bioluminescente mudou de roxo para um branco cegante. Um som agudo, uma frequência inaudível para ouvidos normais mas devastadora para o sistema nervoso, varreu a sala.
+O coração gigante no teto parou por um segundo. A luz bioluminescente mudou de roxo para um branco cegante. Um ruído agudo acompanhado de vibração no piso, varreu a sala.
 
 As criaturas pararam instantaneamente, como marionetes que tiveram as cordas cortadas, e viraram suas cabeças vazias na direção de Gabo.
 
@@ -109,7 +108,7 @@ Gabo reconheceu a voz imediatamente. Era a voz de um fantasma. Ou de alguém que
 
 — Roberto — rosnou Gabo, sua mão indo instintivamente para o revólver.
 
-Roberto Miranda. O homem que matara Bia. O homem que Gabo vira ser capturado pela Aeterna na queda da Torre Aeterna.
+Roberto Miranda. O homem que matara Bia. O homem que Gabo deixara vivo no Hub e cuja voz voltara pelo rádio. Não tinha visto quem o recolheu.
 
 — *Gabo, meu velho amigo* — a voz continuou, destilando ironia. — *Vejo que você ainda não largou o hábito de se meter onde não é chamado. E vejo que trouxe visitas. Elena... sempre a pedra no sapato da família.*
 

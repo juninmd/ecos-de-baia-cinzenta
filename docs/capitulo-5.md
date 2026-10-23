@@ -1,114 +1,146 @@
 ---
 image: /capitulo_5.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Roberto Miranda, Dante Moretti
-Localização: "Estação Central da Linha Vermelha (A Capela), Setor 4 → Túneis de drenagem"
+Localização: Estação Central da Linha Vermelha (A Capela), Setor 4, e túneis de drenagem
+Personagens Presentes: Gabriel "Gabo" Moretti, Roberto Miranda, Aria (módulo físico), frequentadores da Capela
+Participação por rádio: Valéria "Val" Cruz
+Participação em relato e comparação: Dante Moretti, Beatriz "Bia" Vargas
 ---
 # Capítulo 5: A Capela dos Esquecidos
 
-O cheiro era o primeiro aviso: ozônio queimado misturado com urina velha e cobre.
+O cheiro era o primeiro aviso: ozônio, urina velha e cobre aquecido. Gabo parou no alto da escada rolante imóvel. O golpe de Kael doía quando inspirava fundo; desceu devagar, segurando o corrimão com a esquerda. A *Caronte*, retirada do porta-malas com quatro cartuchos de reserva, pesava sob o sobretudo. Não trouxera os originais das fotografias.
 
-A Estação Central da Linha Vermelha havia morrido há uma década, afogada pelo grande alagamento do Setor 4. Agora, o esqueleto de concreto servia a um novo propósito. Eles a chamavam de "A Capela". Um santuário profano para os viciados digitais, os *glitch-heads*, que haviam desistido da realidade para viver no fluxo de dados brutos.
+Valéria pediu sua posição pelo rádio. Ele apertou duas vezes o transmissor: na escada, conforme combinara. Entrara sem confirmar que ela chegara. A estática comeu o começo do protesto.
 
-Gabriel desceu as escadas rolantes paralisadas, suas botas esmagando vidro e seringas hipodérmicas. Nas paredes, nichos haviam sido escavados no azulejo sujo. Dentro deles, corpos esqueléticos tremiam em espasmos rítmicos, cabos de fibra ótica grosseiramente soldados na base de seus crânios, roubando eletricidade e banda das caixas de força da cidade.
+— *Estou chegando à caixa de serviço da praça. Se você sair do alcance, eu não acompanho.*
 
-Eles não viram Gabriel. Para eles, o inspetor não passava de um erro de renderização.
+Ele baixou o volume. A Capela ocupava o que restara da Estação Central, morta no alagamento do Setor 4. Nichos nos azulejos abrigavam pessoas ligadas por cabos às caixas de força. Um homem tentava encaixar o plugue com a mão trêmula. Uma mulher dormia com o sapato pousado no colo, protegendo-o de alguém.
 
-No final da plataforma, iluminado apenas pelo brilho cancerígeno de um monitor CRT recuperado do lixo, estava Roberto Miranda.
+No fim da plataforma, Roberto Miranda digitava diante de um monitor CRT. O uniforme perdera o azul sob a graxa. Gabo reconheceu a maneira de inclinar a cabeça para escutar sem parar de trabalhar. Conhecera aquele gesto do outro lado de uma mesa de plantão.
 
-O homem que matou Bia.
+O mesmo homem se afastara do beco onde Bia ficou.
 
-Gabriel sentiu o Colar de Sol queimar contra seu peito, reagindo ao aumento súbito de sua temperatura corporal. Sua mão direita foi para o coldre, os dedos tremendo com a vontade de resolver aquilo ali mesmo.
+Gabo sacou a Glock com a direita. A gaze repuxou a queimadura; corrigiu a pegada e sentiu o cano oscilar.
 
-Miranda parecia um fantasma de si mesmo. O uniforme, antes impecável, era agora um trapo manchado de graxa e sangue seco. Ele digitava freneticamente em um terminal modificado, sussurrando para a tela como se rezasse.
+— Mãos na parede, Roberto.
 
-— Você está atrasado — Miranda não se virou. Sua voz era um rasgo seco na garganta. — O tráfego de dados aumentou. Eles estão varrendo os nós.
+Miranda parou. Ergueu os braços e girou devagar.
 
-Gabriel parou a três metros de distância, sacando a Glock. O cano da arma tremia levemente, alinhado com a nuca suja de Miranda.
+— Você demorou. Estão varrendo os nós.
 
-— Me dê um motivo para não puxar o gatilho, Roberto. Um só.
+Gabo o fez afastar-se do terminal. Retirou a pistola prateada do coldre e a colocou no chão, atrás de uma pilastra. Havia um recipiente duro no bolso de Miranda. Pediu que o tirasse com dois dedos e deixasse sobre a mesa.
 
-Miranda parou de digitar. Ele girou na cadeira quebrada lentamente, as mãos levantadas em rendição. Seus olhos eram dois poços de pânico, as pupilas tão dilatadas que a íris castanha havia desaparecido. Ele tremia, abstinência e adrenalina lutando pelo controle de seu sistema nervoso.
+— A mensagem foi sua?
 
-— Porque eu tenho a chave, Gabo. A chave que abre o túmulo.
+— Eu sabia que você entenderia.
 
-— Você abriu o túmulo da Bia quando a vendeu para o Sindicato. — Gabriel engatilhou a arma. O som metálico ecoou na estação vazia.
+— Não perguntei isso.
 
-— Eu não tive escolha! — Miranda gritou, e o som fez alguns viciados gemerem em seus sonhos digitais. — Eles iam matar minha filha! A Aeterna... eles sabem de tudo. Eles compram nossas dívidas, nossos pecados. E agora eles querem me apagar.
+Miranda olhou para o recipiente. Uma luz vermelha pulsava sob o invólucro.
 
-— Você já está apagado para mim.
+— Eu tenho a chave que abre o túmulo.
 
-Gabriel apertou o dedo no gatilho. Seria fácil. Justiça. Vingança. Tudo em um pedaço de chumbo.
+— Você estava no beco quando mataram Bia.
 
-*NÃO.*
+— Eu não atirei.
 
-O alerta vibrou no comunicador tático preso à gola de Gabriel, onde o componente tipo pendrive que ele encontrara na cabine telefônica na enchente aquecia contra sua clavícula. No fone auricular, a voz sintética de Aria cortou o ar.
+Gabo o empurrou contra o azulejo. O monitor estalou; alguém no nicho mais próximo abriu os olhos e tornou a fechá-los.
 
-— *Ele é um nó crítico, detetive,* — a assistente de IA sussurrou pelo ponto de áudio, filtrada por estática. — *Se matá-lo agora, a chave criptográfica morre com ele e a rede não cai.*
+— Quem pagou?
 
-Gabriel hesitou. A lógica fria da IA no pendrive o fez baixar a arma um milímetro.
+— Você não sabe o que era dever para eles. O Sindicato vendeu minha dívida. A Aeterna comprou. Não sobrava um lance que eu pudesse fazer sozinho.
 
-— O que você tem? — rosnou ele.
+— Sobrou deixar Bia entrar.
 
-Miranda, alheio à transmissão no ouvido de Gabo, enfiou a mão no bolso trêmulo e tirou um chip de memória biológico. O invólucro estava sujo, mas o núcleo pulsava com uma luz vermelha fraca.
+Miranda ficou quieto. Gabo aproximou a arma. A boca do ex-parceiro tremeu, e por um segundo o pedido de socorro lhe pareceu uma fala ensaiada para aquele momento.
 
-— O Santo Graal. A apólice de seguro do seu pai.
+— Eles iam matar minha filha.
 
-— Meu pai morreu num tiroteio de gangue.
+— Onde ela está?
 
-— Mentira! — Miranda jogou o chip. Gabriel o pegou no ar com a mão esquerda, sem tirar a arma do alvo. — Dante não morreu. Eles o levaram. A Aeterna... eles não queriam matar o melhor tático da cidade. Eles queriam *processá-lo*.
+— Longe.
 
-Gabriel sentiu um frio no estômago que nada tinha a ver com a umidade da estação.
+— Você quer que eu acredite sem um nome, sem um endereço.
 
-— Do que você está falando?
+Miranda virou o rosto. Gabo apertou o punho da arma até sentir a bolha romper sob a gaze. Não havia ali o depoimento de que precisava. Havia um homem desarmado, encostado na parede, esperando o dedo dele terminar uma decisão.
 
-— O Projeto Lázaro. — Miranda se levantou, cambaleando. — Não é droga. É computação distribuída. Cada viciado conectado... é um processador. Uma rede neural feita de carne humana para rodar a IA de segurança deles. E o seu pai... o cérebro dele é o Sistema Operacional, Gabo. O *Ghost* na máquina.
+— *O gravador está ligado*, disse Aria no fone, a partir do módulo no comunicador. *Só tenho o áudio daqui.*
 
-De repente, o rádio no ombro de Gabriel chiou. A voz da Detetive Valéria Cruz, distorcida pela interferência subterrânea, cortou o ar.
+Ele olhou para a luz de gravação. O aparelho conservaria a voz de Miranda e o estampido. A ordem para baixar a arma teria que sair dele.
 
-— *Gabo! Saia daí! Assinaturas térmicas múltiplas entrando pelos dutos de ventilação. Não são da polícia!*
+Gabo afastou o cano.
 
-Um zumbido agudo, como o bater de asas de mil insetos gigantes, encheu a estação.
+— Sente. E mantenha as mãos onde eu veja.
 
-— Limpadores... — Miranda empalideceu, recuando. — Eles nos acharam.
+Miranda precisou de duas tentativas para alcançar a cadeira. Gabo fotografou o recipiente sobre a mesa antes de abri-lo. Dentro havia um chip de memória biológico. Registrou a hora e o nome de quem o entregava; Miranda pediu que não usasse seu nome.
 
-Do teto escuro, três pontos de luz vermelha desceram. Drones de combate modelo *Vespa*, ágeis e silenciosos, exceto pelo zumbido de seus rotores.
+— Então você quer vender um segredo, não testemunhar.
 
-— Corre! — gritou Gabriel, empurrando Miranda para trás de uma pilastra de concreto, o instinto de sobrevivência superando o ódio por um segundo.
+— Quero chegar vivo ao fim desta conversa.
 
-O primeiro drone abriu fogo. As balas de 9mm trituraram o terminal de computador, fazendo chover faíscas e plástico derretido.
+Gabo guardou o chip num envelope do kit. As mãos estavam tão úmidas que o lacre demorou a colar.
 
-Gabriel saiu da cobertura, disparando duas vezes contra a máquina líder. O que aconteceu a seguir fez seu sangue gelar.
+— O que tem nele?
 
-O drone não apenas desviou. Ele *dançou*.
+— A apólice do seu pai. O Lázaro não vende só sonho. Cada cabeça conectada trabalha. Processa vigilância, reconhece rosto, escolhe quem a patrulha vai recolher.
 
-A máquina realizou um movimento pendular perfeito, girando sobre o próprio eixo para deixar a bala passar a milímetros de sua fuselagem, e retornou à posição de tiro em uma fração de segundo.
+— Você viu isso ou ouviu de alguém?
 
-— Impossível... — sussurrou Gabriel. Aquele movimento. Ele vira aquilo mil vezes no dojo da academia de polícia. Era a "Esquiva Pêndulo" de Dante Moretti.
+— Vi as remessas. Levei gente à represa.
 
-— Eu te disse! — gritou Miranda, disparando sua arma velha cegamente para o alto. — É ele! É o reflexo dele!
+— Viva?
 
-— Val, bloqueie o sinal deles! — Gabriel gritou para o rádio, disparando contra os sensores do segundo drone.
+Miranda passou a língua nos lábios.
 
-— *Estou tentando! A criptografia é insana! É... é como se o código antecipasse meus movimentos!* — A voz de Val estava à beira do pânico.
+— Na entrega, viva.
 
-Um tiro de raspão atingiu a coxa de Miranda, que gritou e caiu.
+O tubo de luz acima deles zumbiu mais alto. Gabo sentiu um gosto amargo subir do estômago vazio.
 
-— Merda. — Gabriel olhou para o traidor sangrando no chão. Seria tão fácil deixá-lo ali. Deixar os drones terminarem o serviço.
+— E Dante?
 
-Mas ele precisava da verdade. E a verdade estava na cabeça daquele verme.
+— Não morreu no tiroteio. Eles levaram o cérebro dele. A segurança aprende com ele, Gabo. É o fantasma na máquina.
 
-Gabriel agarrou o ex-parceiro pelo colarinho, arrastando-o pelo chão sujo com uma violência desnecessária.
+Gabo esperou. O homem no nicho enfim encaixou o plugue e parou de tremer.
 
-— Vamos para os túneis de drenagem. Agora!
+— Você viu meu pai lá?
 
-— Me deixa! — Miranda gania, segurando a perna sangrando. — Eu sou peso morto!
+— Não me deixavam chegar ao núcleo.
 
-— Você é minha testemunha, desgraçado. Você só morre quando eu deixar. E eu prometo que vai doer mais que isso.
+— Então você viu entregas. O resto ainda é a história de alguém.
 
-Gabriel disparou contra uma tubulação de vapor na parede oposta. O jato de pressão explodiu com um silvo ensurdecedor, criando uma cortina de fumaça branca e quente entre eles e as máquinas assassinas.
+— Eu posso mostrar os tanques. Existe uma galeria de drenagem ligando esta linha à represa. Eu usava a rota para fugir dos bloqueios.
 
-Eles mergulharam na escuridão do túnel de esgoto, deslizando na lama fétida, enquanto atrás deles, o zumbido mecânico das *Vespas* mudava de tom, ativando o modo de perseguição térmica.
+Pelo rádio, Valéria pediu silêncio. Ela estava conectada à caixa da praça e recebera as imagens da câmera da escada antes que o sinal caísse.
 
-Lá atrás, as Vespas pararam de perseguir. Pousaram na parede do túnel, uma a uma, e os três pontos vermelhos das lentes ficaram acesos no escuro, imóveis. Miranda arfou, rindo com o pouco de ar que tinha.
+— *Três máquinas entraram no duto de ventilação. Portinholas abrindo acima da plataforma. Não consigo travar o enlace delas por aqui.*
 
-— Elas não estão mais atrás da gente — ele disse. — Estão esperando a gente chegar.
+Miranda levantou os olhos. Gabo o puxou para longe do terminal quando os primeiros pontos vermelhos surgiram no teto.
+
+A rajada destruiu o CRT. Vidro e plástico choveram sobre a mesa onde o chip estivera. Um cabo se soltou do nicho; a mulher agarrou o sapato e correu de joelhos para trás de uma coluna.
+
+— Saiam da plataforma! — Gabo gritou.
+
+Disparou duas vezes contra a *Vespa* mais próxima. Na primeira ele errou. Antes da segunda, a máquina inclinou o corpo, deslocou-se em pêndulo e voltou ao eixo de tiro. Gabo conhecia aquela cadência. Seu pai o fazia atacar o ombro para depois sair pelo lado contrário.
+
+O drone podia ter aprendido com uma gravação. Podia ser coincidência. Gabo atirou cedo demais na terceira tentativa, contra o lugar onde esperava que o pai estivesse.
+
+— É ele! — gritou Miranda.
+
+Uma bala raspou a coxa do ex-parceiro. Ele caiu junto ao terminal destruído. Gabo pressionou o ferimento com o lenço, arrancando um grito. A pistola de Miranda ficara atrás da pilastra; não havia como alcançá-la sem atravessar a linha de tiro.
+
+— Não tire a mão daqui. Val, uma saída!
+
+— *O mapa municipal não mostra os acessos da plataforma. Preciso que você leia as placas.*
+
+Miranda apontou para a boca escura atrás da escada: **DRENAGEM — REPRESA**. Gabo viu que ela ficava abaixo da linha de tiro. Esperou a rajada bater na pilastra e disparou contra uma tubulação de vapor do outro lado. O jato cobriu a plataforma com um assobio que lhe doeu nos dentes.
+
+Arrastou Miranda pelo colete. A gaze quente escorregava entre a mão e o tecido; precisou trocar de braço antes da passagem. Lá dentro, amarrou um pedaço da camisa sobre o lenço ensanguentado e enviou a placa para Valéria.
+
+— *Vou pela estrada da represa. Não tenho sinal garantido no meio da galeria.*
+
+As três Vespas chegaram à entrada. Gabo deitou Miranda na curva e ergueu a arma. As máquinas pousaram na parede, uma a uma. As luzes de mira não apagaram.
+
+Miranda tentou rir, sem ar.
+
+— Estão esperando a gente chegar.
+
+Gabo procurou no escuro a placa seguinte. A seta apontava para a represa; na tampa da passagem, o trinco se abriu sozinho.

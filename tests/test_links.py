@@ -11,7 +11,17 @@ def get_markdown_files():
     """Returns a list of all markdown files in the docs directory."""
     if not DOCS_DIR.exists():
         return []
-    return list(DOCS_DIR.rglob("*.md"))
+    return [p for p in DOCS_DIR.rglob("*.md") if ".vitepress" not in p.parts]
+
+
+def test_markdown_inventory_excludes_generated_site(tmp_path, monkeypatch):
+    source = tmp_path / "capitulo-1.md"
+    source.write_text("# Capítulo 1\n", encoding="utf-8")
+    generated = tmp_path / ".vitepress" / "dist"
+    generated.mkdir(parents=True)
+    (generated / "copia.md").write_text("[link antigo](../ausente.md)", encoding="utf-8")
+    monkeypatch.setitem(get_markdown_files.__globals__, "DOCS_DIR", tmp_path)
+    assert get_markdown_files() == [source]
 
 LINK_REGEX = re.compile(r'\]\(((?:[^)(]|\([^)(]*\))*)\)')
 

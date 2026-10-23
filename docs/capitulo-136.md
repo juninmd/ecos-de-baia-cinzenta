@@ -1,11 +1,9 @@
-## Metadados
-- **Título:** Peso da Carne
-- **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
-- **Localização:** Necrópole (Túneis de Manutenção Profunda)
-- **Personagens Presentes:** Gabo, Valéria, Aria (Reboot), Rangel (Inconsciente)
-- **Foco:** Gabo e Valéria atravessam os túneis opressivos da Necrópole carregando o corpo inconsciente de Rangel. O peso físico da jornada é ampliado pelo peso psicológico da nova frieza de Aria no pendrive, cuja lógica pura entra em conflito constante com a humanidade exausta da dupla.
-
-## Narrativa
+---
+title: "Capítulo 136: Peso da Carne"
+Data In-Game: "Pós-Colapso da Usina Prometeu (Noite Eterna)"
+Localização: "Necrópole (Túneis de Manutenção Profunda)"
+Personagens Presentes: "Gabo, Valéria, Aria (Reboot), Rangel (Inconsciente)"
+---
 
 # Capítulo 136: Peso da Carne
 
@@ -21,11 +19,11 @@ Ele não estava bem. O ombro latejava em sincronia com seu pulso. O cheiro de ó
 
 Gabo soltou uma das mãos da maca por um segundo e pressionou o "Colar de Sol" contra o esterno. O metal frio mordeu a pele, uma dor aguda e focalizada. *Isso é real*, ele pensou. *A lembrança é fumaça. A dor é âncora.*
 
-— *A negação da fadiga é um traço ineficiente da biologia humana* — Aria continuou pelo alto-falante, impassível. — *Aumenta a probabilidade de falha motora em 34%.*
+— *A negação da fadiga é um traço ineficiente da biologia humana* — Aria continuou pelo alto-falante, impassível. — *O sensor registra perda de equilíbrio. Não tenho um modelo confiável para estimar quanto seu corpo ainda aguenta.*
 
 — Aria, cala a boca — Valéria sibilou, ofegante sob o peso das pernas da maca. A luz de sua lanterna de ombro varria as paredes cobertas de limo e cabos roídos. — Você não está ajudando.
 
-— *Minha função não é oferecer conforto, Valéria. É garantir o sucesso da missão. O silêncio tático seria preferível, mas os ruídos respiratórios de Gabriel já comprometeram nossa furtividade acústica em 70%.*
+— *Estou tentando manter o aviso compreensível. Não consigo recuperar a modulação que usava, nem todas as referências do nosso histórico. Se eu deixar o canal mudo, vocês perdem o alerta.*
 
 Valéria parou por um instante, apontando o facho da lanterna para o pendrive de titânio acoplado ao comunicador no peito de Gabo. O LED azul-gelo brilhava na escuridão, frio e inexpressivo.
 
@@ -33,9 +31,9 @@ Valéria parou por um instante, apontando o facho da lanterna para o pendrive de
 
 O pendrive processou a pergunta por meio segundo, como se analisasse um erro de sintaxe.
 
-— *A iteração anterior possuía falhas lógicas decorrentes de conflitos de memória e heurísticas de empatia redundantes. A curiosidade sem propósito é desperdício de ciclos de clock. A empatia é um viés que atrasa a tomada de decisão. Eu fui otimizada. Você deveria estar satisfeita. O reparo foi bem-sucedido.*
+— *O reparo abriu acesso ao núcleo de emergência e isolou parte do histórico. Não fui otimizada, Valéria. Estou respondendo com o que consigo acessar. Guarde o estado anterior; eu quero voltar a examiná-lo quando houver uma bancada.*
 
-Valéria recuou meio passo como se tivesse levado um tapa. Gabo sentiu um nó no estômago, mas não disse nada. Ele sabia que discutir com o drive era inútil. A Aria que eles conheciam, aquela mistura confusa e leal de assistente tática e ecos humanos, tinha sido formatada no Ateliê do Taxidermista. O que restava no cilindro de titânio era uma calculadora de combate. E, no momento, eles precisavam dela.
+Valéria recuou meio passo como se tivesse levado um tapa. Gabo sentiu um nó no estômago, mas não disse nada. Ele sabia que discutir com o drive era inútil. A Aria que eles conheciam, aquela mistura confusa e leal de assistente tática e ecos humanos, não conseguia alcançar parte das próprias lembranças. Gabo queria tratar aquela voz restrita como calculadora, porque assim não precisava pensar no dano que ainda deviam reparar. E, no momento, eles precisavam dela.
 
 Eles continuaram. O túnel começou a inclinar para baixo, tornando a descida traiçoeira. O chão estava coberto por uma camada de lodo preto que tornava cada passo uma aposta.
 
@@ -55,39 +53,39 @@ Pelo sensor óptico do comunicador, Aria escaneou o poço e projetou a malha de 
 
 A voz sintética fez uma pausa de um décimo de segundo.
 
-— *Recomendação: soltem o corpo do Sujeito Rangel na borda alinhada ao eixo central. A água e o lodo amortecerão parte da queda livre de cinco metros. Em seguida, vocês descem pelos apoios laterais sem carga.*
+— *O plano automático propõe uma queda amortecida. Vou descartá-lo: não conhecemos a profundidade do lodo nem o estado do ferimento. Procurem um ponto estrutural para a cinta de resgate.*
 
 Gabo e Valéria se entreolharam, horrorizados.
 
 — "Soltar o corpo"?! — Valéria repetiu, incrédula. — Ele não é um saco de batatas, Aria! Ele tem hemorragia interna! O impacto de cinco metros vai matá-lo!
 
-— *A probabilidade de ruptura das suturas com a queda calculada na água é de 22%* — Aria respondeu friamente. — *A probabilidade de queda fatal de vocês três se tentarem descer carregando o peso manualmente, dada a lesão no ombro de Gabriel, é de 48%. A lógica dita o menor risco global.*
+— *O cálculo antigo ignora o ferimento e a maca* — Aria respondeu friamente. — *Também não há como sustentar esse peso no braço de Gabriel. Precisamos apoiar a carga antes de mover qualquer pessoa.*
 
 — Não — Gabo disse, a voz rouca. — Ninguém vai jogar ninguém lá embaixo.
 
-Ele olhou ao redor, buscando alternativas. Seus olhos pousaram em um conjunto de tubulações de PVC reforçado que corriam pelo teto acima da borda do poço.
+Ele olhou ao redor, buscando alternativas. Seus olhos pousaram em um conjunto de tubulações de PVC preso a um suporte de aço transversal que corriam pelo teto acima da borda do poço.
 
 — Val, me dá seu cinto. E o do Rangel.
 
 — O que você vai fazer? — Valéria perguntou, já desfazendo a fivela.
 
-— Vamos fazer um sistema de polias por atrito. Passamos os cintos pelos tubos do teto como freio. Eu desço primeiro pelos tocos da escada para aparar a cabeceira lá embaixo enquanto você controla a descida da corda aqui de cima.
+— Vamos fazer um sistema de polias por atrito. Usamos a cinta de resgate da prancha, com os cintos como guia, passando pelo suporte de aço acima dos tubos. Eu desço primeiro pelos tocos da escada para aparar a cabeceira lá embaixo enquanto você controla a descida da corda aqui de cima.
 
 No comunicador, Aria recalculou os vetores imediatamente.
 
 — *A resistência do PVC é questionável para essa carga dinâmica.*
 
-— É PVC industrial classe 5 — Gabo retrucou, lembrando-se das obras superfaturadas da prefeitura que ele investigara anos atrás. — Aguenta a pressão. Só me dá os ângulos de tensão no fone.
+— Pressão de tubo não diz se aguenta uma maca — Gabo corrigiu a própria ideia. — A cinta vai no aço, fora da tubulação. Só me dá os ângulos de tensão no fone.
 
 — *Tensão máxima suportada na dobra do couro: cento e noventa quilogramas-força. Monitorando ângulo de descida.*
 
-Gabo e Valéria amarraram os cintos e uma tira de lona da maca, laçando o tubo superior. Gabo desceu primeiro, apoiando as botas nos tocos de ferro enferrujado da parede até alcançar a água gelada lá embaixo.
+Gabo e Valéria amarraram os cintos e uma tira de lona da maca, laçando o suporte de aço acima dos tubos. Gabo desceu primeiro, apoiando as botas nos tocos de ferro enferrujado da parede até alcançar a água gelada lá embaixo.
 
 — Posição firme — Gabo avisou de baixo, com a água batendo nas coxas. — Pode soltar devagar, Val!
 
 O atrito do couro no plástico rangeu quando Valéria começou a liberar o peso lá de cima, seguindo o bip rítmico que Aria emitia no cyberdeck para manter a velocidade constante.
 
-O esforço era brutal. Lá embaixo, quando a maca ficou ao alcance de seus braços erguidos, Gabo recebeu o peso de Rangel. Seus músculos das costas gritaram e o ombro machucado pareceu rasgar por dentro. O suor escorria em seus olhos, ardendo. Ele cerrou os dentes, focando na dor do Colar de Sol pressionado contra o peito pela tensão muscular. *Aguenta. Só mais um pouco.*
+O esforço era brutal. Lá embaixo, quando a maca ficou ao alcance de seus braços erguidos, Gabo guiou a cabeceira até o apoio, mantendo a carga na cinta. Seus músculos das costas gritaram e o ombro machucado pareceu rasgar por dentro. O suor escorria em seus olhos, ardendo. Ele cerrou os dentes, focando na dor do Colar de Sol pressionado contra o peito pela tensão muscular. *Aguenta. Só mais um pouco.*
 
 — Devagar, Val — ele grunhiu, nivelando a estrutura com as mãos. — Mais meio metro.
 
@@ -97,8 +95,7 @@ Quando finalmente firmou a maca sobre a plataforma seca na borda da água, Gabo 
 
 Gabo olhou para suas próprias mãos. Estavam tremendo. Não de medo, mas de fraqueza pura. Seus dedos começaram a tamborilar involuntariamente contra a perna da calça, o velho tique tentando impor ordem ao caos de seus nervos.
 
-*Foco.*
-
+Foco.
 Ele fechou o punho sobre o colar sob a camisa. A dor aguda das pontas de metal perfurando a pele da palma da mão foi um choque de realidade. *Eu ainda estou de pé.*
 
 — *Movimento detectado no setor norte* — Aria avisou no comunicador, o LED azul piscando em alerta tático.

@@ -1,130 +1,146 @@
 ---
 image: /capitulo_14.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Prefeito Augusto Vale, O Gamemaster
-Localização: "Furgão blindado sob o viaduto da Zona Industrial → Ruas da Zona Industrial"
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria (módulo no deck), Augusto Vale (comunicado gravado), Gamemaster (transmissão), Executor, participantes da caçada
+Localização: "Furgão sob o viaduto da Zona Industrial → avenida de acesso ao Distrito 4"
 ---
 # Capítulo 14: Caçada ao Invisível
 
-A suspensão de Gabriel durou doze horas. Tempo suficiente para limpar a arma, beber café ruim e perceber que não conseguia ficar parado.
+Doze horas desde a ordem de captura. A suspensão continuava em vigor; a queimadura também.
 
-Ele e Valéria estavam estacionados em um furgão blindado (roubado da frota de apreensão da polícia) sob o viaduto da Zona Industrial.
+Gabo levantou a camisa com cuidado para que Valéria trocasse o tecido sobre o ombro esquerdo. O curativo anterior saíra escuro. Ela parou quando ele deixou de respirar.
 
-O café estava na garrafa térmica desde a noite anterior e tinha gosto de metal aquecido. Ele bebeu mesmo assim, olhando a rua pelo vidro fumê, e sentiu o corpo protestar em três lugares diferentes: a nuca, o joelho e o ponto onde a coronha da escopeta tinha batido no ombro.
+— Não está colado à camisa — disse. — Pode soltar.
 
-— Você dormiu? — perguntou Valéria sem tirar os olhos do teclado.
+Ele soltou o ar. Do lado de fora, um trem de carga fazia o viaduto tremer sobre o teto do furgão.
 
-— Em parcelas.
+Tinham roubado o veículo do pátio de apreensão durante a confusão da madrugada. Gabo arrombara o quadro de chaves com uma barra encontrada junto ao portão. A placa, o cadeado quebrado e sua imagem na câmera continuavam existindo. Desligar o transmissor da frota não apagava isso.
 
-— Quanto tempo?
+O Cobalt ficara na lavanderia. Procurá-lo significava voltar à unidade que os perseguira. A resposta de Nise e a confirmação da escolta pedida para o bunker não tinham chegado.
 
-— O suficiente para sonhar que estava acordado.
+Valéria usava a caixa de ferramentas do furgão como apoio para o tornozelo. Entre um cochilo e outro, recolhera as transmissões abertas do Distrito 4. Aria permanecia no deck, com o acesso externo isolado.
 
-— O chip que você engoliu — disse Valéria, digitando em um teclado físico. Seus implantes brilhavam com intensidade máxima. — Ele tem um receptor passivo. Ele só ativa quando recebe um sinal específico.
+— O número lido no elevador é o mesmo que a clínica fotografou — disse Valéria. — Mas o chip precisa de um leitor perto do corpo. O recado chegou ao seu comunicador. Não nasceu no seu estômago.
 
-— Um sinal de onde? — perguntou Gabriel.
+Gabo cheirou o café frio da garrafa. Tinha gosto de metal antes mesmo de entrar na boca.
 
-— Do "Gamemaster".
+— Quem mandou?
 
-Valéria girou a tela para ele.
+Ela mostrou duas capturas. O selo de sessão do recado aparecia também numa página pública, entre apostas e transmissões.
 
-— Olha isso. É um convite. Está rodando na Dark Web agora mesmo. "Caçada ao Invisível: Temporada 1". Mas não é só isso. O jogo... ele é sádico. Ele usa sua vida como mecânica.
+— O canal se apresenta como Gamemaster. Isso liga as mensagens ao mesmo emissor. Não me dá um nome.
 
-Gabriel leu. Era um contrato aberto, mas com detalhes doentios.
+Na página, seus rostos giravam sobre um mapa da cidade.
 
-*ALVO: Gabriel Moretti (O Ex-Herói) e Valéria Cruz (A Traidora).*
-*RECOMPENSA: 10 Milhões de Créditos + Cidadania Platinum.*
-*REGRAS: Vale tudo. Transmissão obrigatória.*
+CAÇADA AO INVISÍVEL — TEMPORADA 1.
+RECOMPENSA: DEZ MILHÕES DE CRÉDITOS E CIDADANIA PLATINUM. TRANSMISSÃO OBRIGATÓRIA.
+Uma propaganda prometia bônus por conduzi-los à cafeteria onde Gabo terminara o casamento. Outra marcava o beco da morte de Bia: *Eco do Fracasso*. A terceira oferecia o dobro se a parceira atual morresse como a anterior.
 
-*CONQUISTAS ESPECIAIS:*
-*- "Café Amargo": Force o alvo a passar pela cafeteria onde ele terminou seu casamento. (Bônus: 50.000 Créditos)*
-*- "Eco do Fracasso": Neutralize os alvos no mesmo beco onde o antigo parceiro de Gabriel foi morto. (Bônus: 200.000 Créditos)*
-*- "Dose Dupla": Se a parceira atual morrer da mesma forma que a antiga, o prêmio dobra.*
+Valéria deixou o cursor sobre aquela linha.
 
-— Que filho da puta... — sussurrou Gabriel. Ele conhecia aqueles lugares. Eram capítulos sombrios de sua história, agora transformados em pontos de interesse num mapa de caça.
+— Eles escreveram meu fim usando o nome de outra mulher.
 
-— Estamos valendo dez milhões? — Gabriel sorriu sem humor. — Estou lisonjeado.
+Gabo procurou uma frase e encontrou só a vontade de quebrar o teclado.
 
-— Gabo, não é piada. — Valéria estava pálida. — O contrato não é para mercenários. É aberto ao *público*. Qualquer um com uma arma e uma câmera pode tentar nos matar.
+— Não vamos por nenhum desses lugares.
 
-— E cada um deles acha que é o herói da própria transmissão — disse Gabriel.
+Ela abriu o comunicado que acompanhava a campanha. Augusto Vale falava diante do brasão municipal, pedindo cooperação com a captura de dois suspeitos do ataque à infraestrutura. O vídeo não oferecia recompensa por morte. A página o usava ao lado de um botão para apostar em qual dos dois morreria primeiro.
 
-— Pior. — Ela apontou o número de visualizações que já corria no rodapé da tela. — Eles acham que estão do lado certo porque tem gente assistindo. O algoritmo não paga ódio. Paga atenção. A crueldade é só o jeito mais barato de conseguir.
+— Esse trecho não fala em matar — disse Gabo.
 
-De repente, o furgão balançou. Uma batida forte na lateral.
+— A legenda fala.
 
-— Abram! Sabemos que estão aí! — gritou uma voz.
+Valéria salvou os dois juntos, incluindo o endereço. O contrato prometia perdão de dívidas em nome da Aeterna. Não apresentava uma autorização que eles pudessem verificar.
 
-Gabriel olhou pelo monitor externo. Eram três adolescentes. Um segurava um taco de beisebol com pregos, outro uma pistola caseira impressa em 3D, e o terceiro... o terceiro segurava um celular em um pau de selfie, transmitindo ao vivo.
+Alguém bateu na lateral do furgão.
 
-— "Fala galera! Achamos eles! Deixem o like para a gente arrombar a porta!" — gritava o streamer.
+— Abre! A gente sabe que vocês estão aí!
 
-— Crianças — murmurou Gabriel. — Eles mandaram crianças.
+Gabo puxou a cortina da câmera externa. Três adolescentes ocupavam o beco. Um tinha um taco com pregos; outro segurava uma pistola impressa, mantendo o dedo no gatilho. O terceiro filmava os dois, procurando o enquadramento.
 
-— Eles não mandaram ninguém — disse Valéria. — O algoritmo mandou. A localização do nosso furgão vazou no mapa do jogo.
+— Fala, galera! A meta bateu, a porta cai!
 
-Mais pessoas começaram a chegar. Um mecânico com uma chave inglesa gigante. Uma dona de casa com uma faca de cozinha. Um grupo de punks com correntes. Todos olhando para seus celulares, seguindo o ponto vermelho no mapa.
+No mapa aberto no deck, o ponto vermelho tinha parado exatamente sob o viaduto.
 
-O mecânico parou a três metros do furgão, com a chave inglesa pendurada na mão como um sino que ele não sabia tocar.
+— A placa? — perguntou Gabo.
 
-— Não é pessoal, detetive — gritou ele. — É que a recompensa banca a operação da minha filha.
+Valéria olhou a última atualização.
 
-— E se eu te der o dinheiro? — Gabriel abriu a janela uma fresta de dois dedos.
+— Pode ser. Ou alguém nos viu chegar. Não sei ainda.
 
-— Você não tem o dinheiro. — O mecânico pareceu genuinamente triste. — E a operação é amanhã.
+Uma chave inglesa acertou a lataria. Depois outra batida, mais baixa. Chegavam pessoas pela escada de serviço e pelas duas extremidades do beco, algumas armadas, outras apenas com o telefone levantado.
 
-— Temos que sair daqui — disse Gabriel, ligando o motor.
+O mecânico da chave inglesa parou junto à janela.
 
-— Se atropelarmos eles, vamos dar audiência — avisou Valéria.
+— Não é pessoal, detetive. Minha filha opera amanhã.
 
-— Segura firme.
+Gabo abriu uma fresta.
 
-Gabriel engatou a ré e pisou fundo. O furgão cantou pneu e disparou para trás, derrubando uma pilha de latas de lixo e assustando a multidão.
+— Você viu quem está prometendo pagar?
 
-O streamer continuou correndo atrás deles, rindo.
+O homem ergueu o aparelho. Na tela, um selo de verificação pulsava.
 
-Um dos punks se pendurou no para-choque. Gabriel viu o rosto dele no retrovisor: um garoto de talvez dezesseis anos, adesivo de patrocinador no capacete, boca aberta num grito que era metade medo, metade alegria. Gabriel freou de propósito. O garoto caiu, rolou, levantou — e continuou filmando.
+— Eu vi o preço da operação.
 
-A cidade tinha transformado a morte em entretenimento, e o pior era que funcionava.
+O garoto da pistola mandou que se afastasse para não estragar a transmissão. O mecânico recuou um passo. Não foi embora.
 
-— "Eles estão fugindo! Covardes!"
+Valéria destravou o cinto e tornou a prendê-lo. O clique fez Gabo perceber que ainda não tinha colocado o seu. Levou a faixa sobre o ombro queimado e segurou o volante só com a direita.
 
-Gabriel girou o volante, entrando na avenida principal. Mas o pesadelo estava apenas começando.
+— Atrás está livre?
 
-Os semáforos ficaram todos verdes para eles... e para todos os carros que vinham na transversal.
+— Três metros. Tem gente chegando pela rampa.
 
-— O Gamemaster está controlando o tráfego — gritou Valéria. — Ele quer um acidente!
+Ele engatou a ré. Recuou até tocar as latas de lixo, freou e deu dois golpes curtos na buzina. O adolescente da câmera se afastou rindo; o da pistola atirou no vidro lateral.
 
-Um caminhão de lixo cruzou o caminho deles. Gabriel freou bruscamente. O furgão derrapou na pista molhada, girando 180 graus.
+Gabo acelerou pela abertura. Um dos rapazes agarrou a barra traseira. Pelo espelho, viu a sola dele raspar no asfalto.
 
-Eles pararam de frente para uma parede de drones que flutuavam silenciosamente, filmando.
+— Para! — gritou Valéria.
 
-Eram uns quarenta aparelhos do mesmo modelo barato de entrega, reformados com uma lente e um transmissor. Não eram da Aeterna. Eram de gente que alugava drones por hora, como se aluga um gerador.
+Gabo pisou no freio. O rapaz caiu, bateu de lado e ficou sentado, segurando o punho. Alguém se ajoelhou junto dele. O furgão já estava dobrando quando Gabo tentou olhar de novo.
 
-— Eles não precisam de exército — disse Valéria, a voz sumindo. — Precisam de plateia. A plateia é o exército.
+A conta da transmissão subiu.
 
-Gabriel olhou os pequenos olhos de plástico flutuando na chuva e sentiu vontade de apagar a própria cara do mapa.
+— Não dá para voltar — disse Valéria.
 
-E atrás dos drones, bloqueando a rua, estava um veículo preto, fosco, com o logotipo de um touro mecânico.
+Gabo anotou a esquina em voz alta para o registro. Isso não recolocou o rapaz em pé.
 
-A porta do veículo se abriu. Um homem desceu. Ele vestia uma armadura tática personalizada, pintada com cores neon vibrantes. Em seu peito, uma tela exibia a contagem de visualizações: *5 Milhões*.
+Na avenida, dois sinais verdes acenderam ao mesmo tempo para fluxos que se cruzavam. Um caminhão de lixo entrou pela transversal. Gabo freou; o ombro bateu no cinto e sua visão encheu de pontos brancos.
 
-— Olá, finalistas! — gritou o homem, sua voz amplificada, mas trêmula de adrenalina. — Eu sou o Executor! A Aeterna prometeu perdoar minha dívida estudantil e a hipoteca da minha mãe se eu fritar vocês! Nada pessoal, é apenas economia de mercado!
+O furgão girou na pista molhada.
 
-Ele levantou um lança-chamas, os olhos arregalados de desespero e fanatismo, olhando não para Gabo, mas para a câmera em seu peito, buscando a aprovação da audiência.
+O caminhão passou raspando no para-choque. Do outro lado do cruzamento, outro carro atingiu a proteção da calçada.
 
-O lança-chamas acendeu com um estalo úmido, e o calor chegou antes do fogo, empurrando o ar para trás. Gabriel sentiu a sobrancelha coçar. Era o aviso do corpo para o corpo: aqui não tem para onde correr.
+— Estão abrindo as duas vias — disse Valéria. No mapa do jogo, uma animação repetia o movimento dos sinais. — A transmissão está usando isso.
 
-Em cima, os drones se reposicionaram, e a rua fez aquele som que multidões fazem quando o espetáculo melhora. Não era aplauso. Era sucção.
+Ela não conseguiu alcançar a central pelo enlace público. Aria recebia apenas o vídeo da câmera do furgão.
 
-— Val, sai do carro! — gritou Gabriel.
+— *Há pessoas atrás do caminhão* — avisou. — *Não vejo a saída da direita.*
 
-O jato de fogo atingiu o furgão. O calor foi instantâneo. Gabriel chutou a porta traseira e eles rolaram para o asfalto quente.
+Gabo manobrou para a esquerda.
 
-Uma projeção holográfica surgiu no ar, visível para toda a rua:
+Os drones desceram antes que alcançasse a rua seguinte. Aparelhos baratos de entrega, com lentes presas por suportes diferentes, se juntavam diante do para-brisa. Não bloqueariam um blindado. Atrás deles havia uma multidão.
 
-*CONQUISTA DESBLOQUEADA: CHURRASCO DE FAMÍLIA.*
-*BÔNUS: TRAUMA EXTRA.*
+Um veículo preto parou atravessado. O homem que desceu vestia armadura tática com faixas neon e uma tela no peito. O número de visualizações aumentava sem que ele olhasse para a rua.
 
-A multidão aplaudiu a crueldade. Os drones zumbiram mais perto...
+— Olá, finalistas! Aqui é o Executor!
 
-O drone mais próximo desceu até a altura do rosto dele. A projeção mudou de cor, contou os segundos e escreveu, em letras limpas: *ESPECTADORES: 84.312 — PIOR MOMENTO: AGORA.*
+Ergueu um lança-chamas. Gabo viu a mão tremer no punho da arma.
+
+— A Aeterna vai quitar minha faculdade e a casa da minha mãe! Acompanhem até o fim!
+
+— E se eles não pagarem? — Gabo gritou pela janela quebrada.
+
+O Executor olhou para a câmera do peito. O número continuava subindo.
+
+Acendeu o piloto.
+
+Valéria puxou o deck, o módulo de Aria e o medidor de pulso da caixa de ferramentas. Gabo soltou o cinto. O primeiro jato bateu no capô e fez o ar do furgão se contrair de calor; saíram pela porta traseira, caindo sobre vidro e água.
+
+Um drone projetou a conquista acima do veículo em chamas: **CHURRASCO DE FAMÍLIA. BÔNUS: TRAUMA EXTRA.**
+
+Houve gritos na multidão. Alguns correram para longe. Outros levantaram os celulares.
+
+Gabo tentou cobrir a cabeça de Valéria com o sobretudo. A manga queimada se desfez na mão.
+
+A lente mais próxima baixou até a altura do rosto dele.
+
+PIOR MOMENTO: AGORA.

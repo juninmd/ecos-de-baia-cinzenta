@@ -1,20 +1,18 @@
-# Análise Crítica - Capítulo 58
+# Revisão de Capítulo 58: O Dilema do Capitão
 
-## Avaliação Técnica
-- **Ritmo:** 8/10 - Focado no suspense gerencial/policial. Traz a perspectiva para os corredores do poder sem perder o senso de perigo.
-- **Diálogos:** 9/10 - A extorsão velada entre Miranda (o burocrata corporativo traidor) e o Capitão Jonas Vilar (o veterano cansado) é o pico narrativo.
-- **Atmosfera:** 9/10 - O escritório escuro iluminado por neon e tela holográfica cimenta as raízes Noir de Vilar bebendo uísque na escuridão.
+Fonte: [capítulo 58](/capitulo-58.md).
 
-## Pontos Fortes e Fracos
-**Fortes:**
-- O desenvolvimento do Capitão Vilar. Ele se recusa a sacrificar Gabo (que agora virou uma extensão de seu luto pelo falecido amigo Dante). O tiro no holograma é clichê e excelente ao mesmo tempo.
-- O reaparecimento da figura asquerosa de Miranda comandando o descarte.
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-**Fracos:**
-- Não há progresso com o trio principal, mas o *cliffhanger* ajuda na ponte para o arco de perseguição de Vilar.
+## Passagens de entrada e saída
 
-## Sanity Check (Lore Compliance)
-- [x] Personagens coerentes? Sim. Vilar se rende ao uísque e à raiva, atitudes de um personagem diferente de Gabo. A coerência do grupo de vilões (Aeterna/Miranda) segue sólida.
-- [x] O lore do universo foi corrompido? Não.
+> Delegacia Central — gabinete do Capitão. 23h40.
+> A garrafa de uísque estava sobre a mesa havia quatro dias sem ser aberta, e Jonas Vilar olhava para ela do jeito que se olha para uma amizade antiga que a gente sabe que vai dar errado.
 
-**Conclusão:** O Capítulo 58 solidifica alianças e motivações periféricas na delegacia de Baía Cinzenta com perfeição e prepara o palco para um sacrifício dramático por parte de Vilar no futuro. A restrição de Gabo não se aplica ao núcleo, sendo mantido intacto o lore.
+### Saída
+
+> Ninguém veio naquela noite, e ele descobriu, ali sentado, que essa era a parte pior: eles não precisavam de pressa.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

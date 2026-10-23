@@ -147,4 +147,4 @@
 - Consult `GEMINI.md` for project-specific instructions.
 - Para planejar, escrever ou revisar capítulos, use a [skill escrita-investigativa](.agents/skills/escrita-investigativa/SKILL.md).
 - Fonte oficial dos capítulos: `docs/capitulo-N.md`. O espelho `docs/public/capitulo-N.md` deve ser symlink relativo para `../capitulo-N.md`.
-  Migração pendente no Windows (WinError 1314); hoje ainda são cópias. Até a conversão, mantenha o espelho dos capítulos alterados idêntico à fonte oficial.
+  Migração concluída: os 238 espelhos são links relativos. Edite somente a fonte oficial; nunca substitua o link por uma cópia.

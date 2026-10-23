@@ -1,5 +1,17 @@
-# Análise do Capítulo 130
+# Revisão de Capítulo 130: Saturação
 
-**Revisão de Lore e Continuidade:**
-- **Tabagismo/Trauma:** Houve uma correção grave de violação de lore onde Gabo visualiza um maço de cigarros no bolso e sente que a "nicotina" seria um silenciador para a culpa. Isso foi modificado para que ele tenha um flashback fóbico e traumático (o charuto do pai, sufocamento) em vez de uma fissura de vício.
-- **Órteses Mecânicas:** A descrição do esforço físico nas escadas foi atualizada para incluir o estalar dos servos de suas pernas mecânicas, mantendo as restrições físicas em evidência. Além disso, foi adicionado o som do raspar do metal na parede quando ele desliza até o chão, para que não pareça ter pernas inteiramente orgânicas.
+Fonte: [capítulo 130](/capitulo-130.md).
+
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
+
+## Passagens de entrada e saída
+
+> O som não era de água. Era de carne sendo mastigada por engrenagens gigantes.
+
+### Saída
+
+> Gabo fechou os punhos. A maré lá fora podia ter parado, mas a saturação ali dentro estava apenas começando.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

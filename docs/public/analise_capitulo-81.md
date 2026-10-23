@@ -1,18 +1,18 @@
-# Análise Crítica - Capítulo 81: Sangue e Óleo
+# Revisão de Capítulo 81: Sangue e Óleo
 
-## Avaliação Técnica
-- **Pacing (Ritmo):** 10/10 - Ação frenética lidando com a fuga do laboratório em colapso e o timer da purgação térmica.
-- **Dialogues (Diálogos):** 8/10 - Rápidos e objetivos durante a ação. As considerações finais amarram a descoberta.
-- **Atmosphere (Atmosfera):** 9/10 - A urgência, o calor das chamas e o óleo dos cabos hidráulicos conferem imersão sensorial brutal.
+Fonte: [capítulo 81](/capitulo-81.md).
 
-## Pontos Fortes e Fracos
-- **Pontos Fortes:** O pragmatismo de Gabo atirando no sistema hidráulico da porta. A continuação contínua sem quebras de cena do capítulo anterior. O desdobramento científico do horror: código genético em binário.
-- **Pontos Fracos:** A porta de aço descer "alguns centímetros" sem cair completamente exige uma pequena suspensão de descrença física, mas funciona pela narrativa de urgência.
+Vilar sofre esmagamento e queimadura no braço esquerdo durante o resgate. A retirada e a descontaminação não apagam a lesão que levará à amputação.
 
-## Sanity Check (Lore Compliance)
-- **Regras do Lore:** Nenhuma violação da aversão de Gabo à fumaça. As descrições físicas estão de acordo: a queima nas luvas pela porta de metal escaldante e as dores da cicatriz da medula atuam como âncoras da realidade de Gabo. A fisicalidade crua do óleo e chamas é enfatizada, isolando a palavra "fumaça".
+## Passagens de entrada e saída
 
-## Avaliação Qualitativa
-- **Qualidade da História:** Ótima, fechando a transição do laboratório e elevando as apostas para o que Nise chama de "máquina de carne".
-- **Coerência de Personagens:** A coragem e a inteligência prática de Gabo e a colaboração bruta de Vilar estão bem equilibradas e coerentes com a índole do grupo.
-- **Necessidade de Novos Personagens:** Nenhuma nova introdução necessária; os quatro personagens (Gabo, Nise, Vilar, Aria remotamente ausente) fecham o ciclo dramático satisfatoriamente.
+> Corredor de acesso, subsolo da Torre Aeterna — 18h05.
+> O alarme de purga não é uma sirene comum.
+
+### Saída
+
+> — Não sei. A manutenção vai ter de conferir as plantas e colher amostras. — Gabo começou a andar pelo corredor. — A evolução não pede licença, Capitão. Ela só usa a tubulação que já estava instalada.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

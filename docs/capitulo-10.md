@@ -1,134 +1,107 @@
 ---
 image: /capitulo_10.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria Moretti
-Localização: "Galpão industrial Embalagens Sustentáveis (A Fábrica de Sorrisos), Setor 4"
+Localização: Galpão Embalagens Sustentáveis, Setor 4
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria (módulo físico), pessoas submetidas à linha de processamento, agentes de apoio
+Participação por rádio: Capitão Jonas Vilar, Dra. Nise
 ---
 # Capítulo 10: A Fábrica de Sorrisos
 
-O drive de Kiko Vibe continha apenas uma coordenada GPS e uma foto: a fachada de um galpão industrial no Setor 4, com a placa enferrujada "Embalagens Sustentáveis".
+O drive de Kiko continha uma coordenada e uma fotografia: a fachada de um galpão do Setor 4, placa enferrujada de Embalagens Sustentáveis. Valéria montara uma cópia numa estação isolada da equipe, na saída da Solaris. O original seguia lacrado no estojo; a abertura e o transporte estavam registrados.
 
-Gabriel e Valéria chegaram ao local sob uma chuva torrencial. O Setor 4 era a axila da cidade — uma zona de exclusão cheia de fábricas abandonadas e fumaça química.
+Os paramédicos haviam lavado as mãos dos dois e imobilizado o tornozelo dela. Valéria insistira em acompanhar a verificação da coordenada. Agora, ao descer do Cobalt, demorou a aceitar o peso no pé.
 
-Valéria estava mancando. A descida pelo fosso do elevador havia torcido seu tornozelo, e suas mãos estavam enfaixadas com trapos que Gabriel encontrara no porta-malas.
+— Você não precisa entrar — disse Gabo.
 
-O tornozelo dela estava do tamanho de um punho fechado. Ela não reclamava, o que era pior: Valéria Cruz reclamava de tudo, e o silêncio dela era um jeito de dizer que doía muito.
+— Ainda não sabemos se alguém precisa sair. Me ajuda até a cerca.
 
-— Você pode ficar no carro — disse Gabriel.
+Vilar já recebera a foto e desviara uma equipe. Quinze minutos, dissera pelo rádio. A chuva achatava as palavras contra o telhado de zinco. Valéria abriu o kit de observação no abrigo de uma caçamba e apoiou o deck no metal seco. Aria continuava na porta lateral.
 
-— Posso. E aí você entra sozinho numa fábrica que provavelmente tem quarenta homens armados, e eu fico ouvindo você morrer pelo rádio. — Ela testou o peso no pé e não segurou o gemido. — Passa.
+— *Daqui só recebo os canais anunciados na rede local*, informou a assistente. *Não identifico quem está operando.*
 
-A chuva batia no zinco do galpão como uma salva de palmas que não acabava. O gosto na boca era de cobre e adoçante velho, o resíduo químico que o Setor 4 exalava quando esquentava.
+Gabo usou a lente para ampliar a abertura de uma janela alta. Viu uma esteira e braços mecânicos. Só entendeu o que havia sobre a correia quando um pé se moveu para fora dela e uma garra o recolocou no apoio.
 
-— O lugar fede a formol — disse ela, torcendo o nariz.
+Havia um grito sob o ruído da chuva. Não se repetiu.
 
-— E sangue — completou Gabriel. Ele conhecia aquele cheiro. Ferro e podridão.
+— Vilar, tem gente viva na linha. Vou interromper o processamento.
 
-— *Detecto tráfego de rede massivo,* — a voz sintética de Aria sussurrou pelo comunicador, enquanto o pendrive de titânio aquecia no slot do deck de Valéria. — *Mas não é internet. É... biológico. Milhares de nós. Gritando em silêncio.*
+A resposta pediu que aguardassem apoio. Gabo deixou a localização transmitindo e cortou o arame da cerca com o alicate. Valéria recolheu o deck e foi atrás, apoiando o ombro na caçamba até alcançar a porta.
 
-Eles invadiram pelos fundos, cortando uma cerca de arame. O interior do galpão era vasto, iluminado por luzes de sódio amarelas que davam a tudo um aspecto doente.
+Dentro, o ar era morno e cheirava a formol. Fileiras de corpos passavam sob dispositivos cirúrgicos. Em alguns rostos, os grampos prendiam a pele num sorriso que não mudava com o movimento dos olhos.
 
-Não era uma fábrica de embalagens.
+Uma mulher de cerca de quarenta anos ergueu dois dedos quando Gabo se aproximou. O braço caiu de volta à esteira. Ele viu as pálpebras moverem-se e procurou o comando de parada.
 
-Era uma linha de montagem humana.
+— Está aqui — disse Valéria.
 
-Dezenas de esteiras rolantes cruzavam o espaço. Sobre elas, corpos nus passavam por estações automatizadas. Braços robóticos desciam do teto, realizando cirurgias rápidas e brutais.
+Ela pressionou o botão vermelho junto à estação. A correia parou com um solavanco. Gabo soltou uma tira do suporte da mulher; o braço mecânico acima dela ficou imóvel. A pele sob seus dedos estava quente.
 
-— Meu Deus... — Valéria cobriu a boca, contendo o vômito.
+— Vou tirar você daqui — disse, sem saber quanto ela podia ouvir.
 
-Eles viram um braço mecânico costurar a boca de um homem inconsciente em um sorriso permanente, puxando a pele até as orelhas com grampos cirúrgicos.
+O alto-falante anunciou o fim do turno. Na parede oposta, pessoas que já haviam saído da linha viraram a cabeça ao mesmo tempo. Um homem tentou levar a mão ao próprio pescoço; o braço desceu antes de completar o gesto.
 
-Na esteira ao lado, uma mulher de uns quarenta anos ainda tinha rosto. Não um rosto inteiro: a pele do maxilar estava aberta e os grampos ainda não tinham sido apertados. Ela piscava. Devagar, com esforço, como quem tenta lembrar o nome de alguém.
+Uma tela mostrou **ENGAJAMENTO BIOLÓGICO**. Valéria registrou as janelas abertas: identificação de unidades, estímulo, resposta e envio. Abaixo, contadores de reação subiam em colunas.
 
-Os olhos encontraram Gabriel e não pediram nada. Isso foi o que quase o fez parar.
+— São os terminais das remessas — murmurou Gabo.
 
-— Ela está consciente — sussurrou Valéria, e a voz saiu desafinada.
+— Os números combinam com os da represa. Não sei o que ainda conseguem sentir.
 
-— Estava — disse Gabriel.
+O rádio tentou chamar os dois e perdeu a palavra final. Um alarme de reinício soou na linha que Valéria acabara de parar. Ela abriu a tampa de serviço e desconectou o cabo de comando externo; a esteira permaneceu imóvel. O restante do galpão continuou funcionando.
 
-Depois, como se a palavra tivesse aberto uma porta, ele falou para o comunicador: — Aria, marca essa coordenada. Se eu não sair daqui, alguém vai querer saber que lugar é esse.
+— *Matéria-prima não autorizada. Processar.*
 
-— *Coordenada registrada,* — a voz respondeu, e havia algo de funerário na precisão dela.
+Os homens e mulheres saíram das baias. Vinham em sincronia, mas os olhos não eram iguais. Uma moça chorava sem mudar o sorriso. Gabo apontou a Glock para a armação que prendia a primeira fila, esperando que a ameaça os fizesse parar.
 
-— Eles estão fazendo bonecos — sussurrou Gabriel, horrorizado. — Estão lobotomizando as pessoas e forçando-as a sorrir.
+Não pararam. Um deles o agarrou pelo sobretudo e tentou puxá-lo para uma estação vazia. Gabo se soltou com a coronha. A mão enfaixada abriu por baixo da gaze.
 
-— "A Fábrica de Sorrisos" — Valéria apontou para uma tela de monitoramento. — Olha os dados. "Engajamento Biológico". O córtex é apagado e sobra o miolo antigo: o suficiente para andar, reagir e sentir. Eles usam esses corpos como terminais vivos, gerando reação emocional pura em massa para a Rede. Curtidas, compartilhamentos... tudo gerado por carne escrava.
+— No dispositivo do pescoço! — gritou Valéria.
 
-De repente, uma sirene tocou. Não era um alarme de intrusão, mas um sinal de turno.
+Ela usou a pistola de pulso contra uma unidade que se aproximava. O homem caiu de joelhos, e outro passou sobre ele. Gabo disparou contra o conjunto de comando de quem lhe segurava a manga. O corpo caiu; ele não soube dizer se o tiro acertara só metal.
 
-As luzes mudaram para vermelho.
+Recuaram até a área de compactação. A porta por onde tinham entrado ficava atrás da fila. A mulher retirada da esteira estava apoiada num carrinho de inspeção, tentando manter a cabeça erguida. Valéria puxou o carrinho para o canto da passarela, onde a armação oferecia alguma proteção.
 
-No chão da fábrica, os "produtos acabados" começaram a se mover. Homens e mulheres, com os rostos deformados em sorrisos esticados, desceram das esteiras. Eles não andavam como humanos. Andavam em perfeita sincronia, como um exército de marionetes.
+O painel da prensa indicava controle local. Uma esteira de descarte levava à sua boca, larga o bastante para engolir um carro. Gabo viu o vão entre a passarela e os dois degraus da cabine: só passariam se a fila mudasse de direção.
 
-Eles viraram as cabeças para onde Gabriel e Valéria estavam escondidos.
+— Eu vou levar eles para a correia — disse.
 
-— Eles nos viram? — perguntou Valéria.
+Valéria olhou para a prensa, depois para as pessoas.
 
-— Eles sentem a gente — disse Gabriel, vendo os olhos vazios das criaturas.
+— Gabo.
 
-Uma voz ecoou pelos alto-falantes. Uma voz metálica e distorcida.
+— Não fecha enquanto eu não sair.
 
-— *Matéria-prima não autorizada detectada. Processar.*
+Ele correu até a entrada da esteira. A dor nas mãos não o deixava segurar a Glock; guardou-a e puxou a Caronte pela alça. O primeiro que alcançou a passarela o prendeu pelo braço. Gabo sentiu o ombro torcer e acertou o rosto com a coronha. O homem caiu na correia, ainda tentando agarrá-lo.
 
-A horda de sorrisos avançou. Eles não corriam. Eles marchavam, escalando as passarelas, pulando sobre as máquinas, uma maré de carne silenciosa.
+Valéria conectou o deck à porta de diagnóstico do painel, mantendo Aria alimentada. Leu a sequência do ciclo no diagrama antes de destravar o comando manual. A comunicação externa daquele setor estava cortada; o botão que seu dedo alcançava ainda funcionava.
 
-— Atira! — gritou Valéria, puxando sua pistola de pulso eletromagnético.
+Gabo saltou da correia para o degrau. A fila o seguiu. Valéria acionou o avanço, depois o fechamento.
 
-Gabriel abriu fogo. As balas de 9mm derrubavam os primeiros, mas eles não sentiam dor. Um homem com o peito aberto por um tiro continuou avançando, sorrindo.
+O ruído da prensa atravessou o galpão e se instalou no peito dele. Houve vozes sob o ruído da máquina. Quando o mecanismo emperrou, Gabo permaneceu olhando a mão que surgira entre as chapas. Ela não estava mais tentando alcançá-lo.
 
-Gabriel contava os tiros. Doze no primeiro carregador, mais dez no bolso, e o bolso estava ficando leve. Cada estalo da Glock era uma moeda saindo, e a palma queimada no fosso do elevador reabria a cada recuo, até ele trocar de mão e continuar. Dois bonecos caíram; três continuaram andando por cima dos próprios companheiros, sem olhar para baixo, e ele entendeu que ali não havia exército: havia matéria-prima com um objetivo comum.
+— Preciso de ajuda aqui — disse Valéria.
 
-— Eles não param! — Gabriel recarregou. — Precisamos sair daqui!
+Ele voltou ao carrinho. A mulher respirava com um som curto. Gabo afrouxou a tira que restava no pulso dela e viu que estava preso à própria luva pelo sangue seco.
 
-— A saída está bloqueada por eles!
+— A saída — conseguiu dizer.
 
-Eles recuaram para a zona de maquinário pesado. Prensas hidráulicas gigantes, usadas para compactar lixo, estavam inativas ali.
+Ainda havia gente vindo do outro corredor. O chão guardava um rastro de solvente que vazara de uma embalagem junto à compactação. Gabo tirou um sinalizador do kit e o lançou entre a fila e o carrinho. O fogo atravessou a poça, alcançou as embalagens e subiu pela parede mais depressa do que ele previra.
 
-— Val, consegue ligar aquilo? — Gabriel apontou para a prensa principal, uma boca de aço do tamanho de um caminhão.
+Valéria arrancou a unidade de registro do painel. Não trouxe o servidor inteiro nem as pessoas que continuavam na linha. Gabo e ela empurraram o carrinho pela porta de carga enquanto a fumaça tomava as vigas.
 
-— Posso tentar dar um curto no painel de controle! Mas preciso de tempo!
+No pátio, Gabo encontrou o canal de Vilar. Disse que havia vítimas e incêndio, deu a entrada desobstruída e pediu resgate para todas as linhas. Não soube responder quantas.
 
-— Eu compro tempo.
+— Você provocou o fogo? — perguntou o capitão.
 
-Gabriel sacou a escopeta *Caronte*. Ele se posicionou na passarela estreita que levava ao painel.
+— Provoquei.
 
-— Venham pegar, seus desgraçados sorridentes.
+Valéria ficou sentada na lama, segurando o carrinho para ele não rolar. Aria informou que o último bloco de registros ainda recebidos repetia as mesmas respostas. Não havia como determinar quem permanecia vivo pelo contador.
 
-A luta foi brutal. Gabriel usava a coronha da arma quando a munição acabou, esmagando crânios, chutando corpos para baixo, para as engrenagens das esteiras. O som de ossos quebrando se misturava ao zumbido das máquinas.
+— Guarda tudo — disse Gabo. — Inclusive o que a gente fez.
 
-Um dos "bonecos" agarrou o braço de Gabriel. A força era inumana. Gabriel sentiu o ombro estalar. Ele gritou e enfiou o dedo no olho da criatura, empurrando-a para fora da passarela.
+O primeiro veículo de apoio entrou quando parte do telhado cedeu. Do outro lado da rua, alguém filmava pela janela. Gabo indicou aos agentes a porta de carga e repetiu o que havia visto antes de entregar a lista de unidades que conseguira ler.
 
-— AGORA! — gritou Valéria.
+Nise respondeu à chamada de Valéria. A voz dela ficou dura quando ouviu que a mulher ainda respirava.
 
-As luzes da fábrica piscaram. A prensa hidráulica gigante rugiu, voltando à vida.
+— Tragam para a lavanderia. O acesso é fora da rede hospitalar. Eu estabilizo e procuro transporte que não a devolva à empresa.
 
-Gabriel correu, saltando sobre a esteira principal que alimentava a máquina. A horda veio atrás, cegos em sua programação de ataque.
+No banco traseiro do Cobalt, a mulher se agarrou ao cinto quando Gabo tentou soltá-lo da caixa. Ele levantou as mãos vazias para que ela visse. Esperou que o olhar dela voltasse ao seu, depois mostrou a fivela.
 
-— Comam isso!
-
-Valéria ativou a esteira na velocidade máxima.
-
-A massa de corpos foi arrastada para dentro da prensa. O som que se seguiu foi indescritível. Aço esmagando carne, osso e metal cirúrgico em uma pasta irreconhecível. O chão tremeu com o impacto. Sangue e óleo jorraram das laterais da máquina como uma fonte macabra.
-
-A máquina engasgou, emperrada pelo excesso de biomassa, e parou com um guincho final.
-
-O silêncio voltou ao galpão, quebrado apenas pelo gotejar de fluidos.
-
-Gabriel desceu da passarela, coberto de sangue que não era seu. Valéria estava encostada no painel de controle, tremendo incontrolavelmente, olhando para a carnificina.
-
-— Acabou? — perguntou ela, a voz fraca.
-
-Gabriel olhou para a pilha de corpos esmagados. Um rosto, ainda intacto, sorria para ele do meio dos destroços.
-
-— Aqui, sim — disse ele, limpando o rosto com a manga. — Mas quem construiu isso... ainda está lá fora.
-
-— *Eles ainda estão gritando,* — disse Aria, sua voz trêmula pela primeira vez. — *Mesmo mortos, os dados continuam.*
-
-Gabriel pegou o braço de Valéria.
-
-— Vamos. Precisamos queimar este lugar antes de ir. — Ele apontou para o terminal. — E trazer o que estiver gravado aí.
-
-Valéria arrancou a unidade de memória do monitoramento e a enfiou no bolso da jaqueta, junto do drive do Kiko.
-
-Enquanto saíam, Gabriel jogou um sinalizador aceso em um tanque de solvente industrial. O fogo subiu rápido, laranjas e negros, consumindo a Fábrica de Sorrisos e o resto dos seus segredos.
-
-O fogo estourou o teto e subiu pela chaminé em coluna negra. Na rua, atrás do vidro embaçado de um prédio vizinho, alguém já filmava. Gabriel virou o rosto, mas o sorriso já estava no ar, subindo com a fumaça, disponível para quem quisesse assistir.
+Só então ela deixou que a fechasse.

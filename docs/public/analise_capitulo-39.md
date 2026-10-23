@@ -1,16 +1,17 @@
-# Análise do Capítulo 39: Dossiê Vance
+# Revisão de Capítulo 39: Dossiê Vance
 
-## Avaliação Técnica
-- Ritmo: 9/10
-- Diálogos: 8/10
-- Atmosfera: 9/10
+Fonte: [capítulo 39](/capitulo-39.md).
 
-## Pontos Fortes e Fracos
-- Fortes: A resolução pela "verdade impressa" é uma subversão incrível da estética cyberpunk que costuma lidar apenas com redes digitais e megacorporações intocáveis. Dá peso físico à investigação.
-- Fracos: A queda da Vance foi fácil, embora o texto reconheça que a Aeterna é o verdadeiro inimigo, o que atenua o anticlímax.
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-## Verificação de Sanidade (Lore Compliance)
-- Totalmente aderente. Gabo mantém seu cinismo analógico sem cair no estereótipo do detetive hardboiled fumante, usando a dor física e material para guiar sua moralidade.
+## Passagens de entrada e saída
 
-## Avaliação Qualitativa
-Conclusão narrativa extremamente coesa para a queda da antagonista pública e retorno do Cobalt azul. Sem necessidade de alterações no *cast*.
+> Na segunda semana após a queda, a busca pelos números de procedimento finalmente reuniu o material. Elena cruzou o registro clínico que tinham fotografado, cópias de apreensão e duas impressões de correspondência encontradas no arquivo. Conservou as folhas inteiras e anotou a origem de cada uma antes de preparar o resumo.
+
+### Saída
+
+> Também é a única que apodrece.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

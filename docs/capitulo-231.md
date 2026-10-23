@@ -11,23 +11,13 @@ A Valéria montou a armadilha em sete horas e ela era boa.
 
 Sensor de pressão no barranco do canal, feito com fio de cobre e uma placa de prensa. Rede de carga içada numa polia, presa a um contrapeso de duzentos quilos. Dois pontos de fogo cruzado: ela numa passarela, o Elias com a espingarda de cano duplo dos Rossi atrás de um muro de fardos de papel. E eu no portão, sozinho, como isca, porque era o único jeito de ele chegar perto.
 
-Às onze em ponto ele veio pelo canal.
+Às onze em ponto ele veio pelo canal. Às onze e um a placa de pressão disparou.
 
-Às onze e um a placa de pressão disparou.
-
-Às onze e dois a rede caiu em cima dele e o contrapeso desceu, e duzentos quilos de aço travaram um homem de oitenta no cascalho, com os braços presos ao corpo.
-
-Funcionou.
-
-Funcionou perfeitamente.
-
-Foi a coisa mais assustadora que eu vi naquela semana.
+Às onze e dois a rede caiu em cima dele e o contrapeso desceu, e duzentos quilos de aço travaram um homem de oitenta no cascalho, com os braços presos ao corpo. Funcionou. Funcionou perfeitamente. Foi a coisa mais assustadora que eu vi naquela semana.
 
 ---
 
-Porque ele não lutou.
-
-Ficou caído de lado sob a rede, respirando pesado pelo esforço da queda, e esperou a poeira baixar. Depois virou o rosto na minha direção, no chão, e falou com o mesmo tom de balcão de repartição:
+Porque ele não lutou. Ficou caído de lado sob a rede, respirando pesado pelo esforço da queda, e esperou a poeira baixar. Depois virou o rosto na minha direção, no chão, e falou com o mesmo tom de balcão de repartição:
 
 — Boa, essa. O gatilho no barranco eu não vi.
 
@@ -43,9 +33,7 @@ Valéria desceu da passarela com a *Caronte* apontada.
 
 Elias saiu de trás dos fardos com a espingarda tremendo tanto que eu tive medo de estar mais perto dele do que do Braga.
 
-E aí ficamos os quatro ali, num pátio de cascalho, com o problema resolvido.
-
-E nenhum de nós sabia o que fazer com ele.
+E aí ficamos os quatro ali, num pátio de cascalho, com o problema resolvido. E nenhum de nós sabia o que fazer com ele.
 
 O sol batia na rede de aço e o pátio inteiro cheirava a poeira quente e a maresia podre do canal. Cada vez que Braga respirava, a malha rangia contra o cascalho, um som fino e regular de coisa mastigando devagar. Eu tinha gosto de metal na boca desde o café, e a cinta laranja do Duarte, enrolada no cinto dele, estava exatamente à minha altura dos olhos.
 
@@ -53,7 +41,7 @@ O sol batia na rede de aço e o pátio inteiro cheirava a poeira quente e a mare
 
 — A gente prende, — disse Elias. — Tem um depósito com porta de aço. Bota ele lá.
 
-— E quem alimenta? — perguntou a Valéria. — Quem vigia? Nós somos quatro, sendo que um tem um braço e outro é civil. Um prisioneiro consome uma pessoa em turno integral.
+— E quem alimenta? — perguntou a Valéria. — Quem vigia? Precisamos de revezamento, alimentação e uma sala que ele não consiga abrir. Não basta deixar um civil com a espingarda no colo. Vamos chamar os outros trabalhadores e pedir custódia pelo rádio.
 
 — A gente amarra melhor.
 
@@ -61,7 +49,7 @@ O sol batia na rede de aço e o pátio inteiro cheirava a poeira quente e a mare
 
 — **Cala a boca!** — Elias gritou.
 
-— Estou tentando ajudar. — E o pior é que era verdade. — Vocês não pensaram nessa parte porque vocês são gente boa. Eu já tive catorze anos para pensar em como se guarda uma pessoa. Custa caro. Custa mais do que vocês têm.
+— Estou tentando ajudar. — Era o jeito dele de fazer o próprio ultimato parecer a única conversa possível. — Vocês não pensaram nessa parte porque vocês são gente boa. Eu já tive catorze anos para pensar em como se guarda uma pessoa. Custa caro. Custa mais do que vocês têm.
 
 Eu andei até ele e agachei, com dificuldade, apoiando a mão no joelho bom.
 
@@ -77,11 +65,11 @@ Eu andei até ele e agachei, com dificuldade, apoiando a mão no joelho bom.
 
 Ficamos até o sol começar a descer.
 
+Dois trabalhadores aceitaram turnos de guarda. Pelo rádio, o abrigo do Setor 4 respondeu que poderia receber Braga em dois dias, se a estrada continuasse aberta. Não era uma garantia. Era uma alternativa, e eu ouvi a mensagem inteira.
+
 A Elena foi cuidar da tiragem porque o mundo não para. O Elias ficou de guarda até as três e depois eu mandei ele comer. A Valéria não sai de posição nunca, então a Valéria continuou.
 
-E eu fiquei ali, sentado num caixote a três metros de um homem preso numa rede, porque eu não conseguia sair de perto.
-
-Foi ele que puxou assunto, no fim da tarde.
+E eu fiquei ali, sentado num caixote a três metros de um homem preso numa rede, porque eu não conseguia sair de perto. Foi ele que puxou assunto, no fim da tarde.
 
 — O senhor perdeu a mãe na enchente.
 
@@ -95,7 +83,7 @@ Levantei a cabeça.
 
 — Como.
 
-— Pátio do Fosso. Um agente chamado Peçanha, que gostava de contar coisa de rua para os presos porque isso fazia ele se sentir importante. — Braga estava olhando o céu. — Ele chegou uma tarde e disse assim: *"Braga, sabe aquele detetive que te enfiou aqui? Perdeu a mãe na enchente. Dona Helena morreu afogada em casa enquanto ele bancava o herói na rua. Coisa de Deus."*
+— Pátio do Fosso. Um agente chamado Peçanha, que gostava de contar coisa de rua para os presos porque isso fazia ele se sentir importante. — Braga estava olhando o céu. — Ele chegou uma tarde e disse assim: *"Braga, sabe aquele detetive que te enfiou aqui? Perdeu a mãe na enchente. Dona Helena morreu no cerco, sem conseguir o atendimento de que precisava, enquanto ele bancava o herói na rua. Coisa de Deus."*
 
 Eu senti o cascalho debaixo de mim ficar muito longe.
 
@@ -125,11 +113,11 @@ Eu não estava respirando direito.
 
 Ele fechou os olhos.
 
-— Quando o Apagão abriu as portas eu andei três dias até o Setor 11. A tia tinha morrido. Um vizinho me contou que a Marta ficou até os dezoito e morreu no Dilúvio, num abrigo da escola municipal que encheu porque não coube todo mundo e as portas foram fechadas por fora.
+— Quando as portas do Fosso cederam, três meses atrás, eu andei três dias até o Setor 11. A tia tinha morrido. Um vizinho me contou que a Marta ficou até os dezoito e morreu no Dilúvio, num abrigo da escola municipal que encheu porque não coube todo mundo e as portas foram fechadas por fora.
 
 Abriu os olhos.
 
-— A mesma enchente, Sr. Moretti. A sua mãe e a minha menina, na mesma água, no mesmo mês.
+— O mesmo desastre, Sr. Moretti. A sua mãe e a minha menina, cercadas no mesmo mês.
 
 Silêncio.
 

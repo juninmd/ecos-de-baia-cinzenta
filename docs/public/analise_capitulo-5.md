@@ -1,22 +1,33 @@
-# Análise Crítica - Capítulo 5: A Capela dos Esquecidos
+# Parecer — Capítulo 5: A Capela dos Esquecidos
 
-## Avaliação Técnica
-- **Ritmo:** 9/10 - A transição do encontro tenso com Miranda para o ataque dos drones é fluida e aumenta as apostas.
-- **Diálogos:** 8/10 - A revelação de Miranda sobre o Projeto Lázaro e o destino de Dante Moretti é bem colocada, criando o conflito central da narrativa de forma visceral. O dilema de Gabriel ao ouvir Aria também acrescenta profundidade psicológica.
-- **Atmosfera:** 9/10 - O cenário da "Capela" como um santuário para *glitch-heads* conectados à rede elétrica reforça fortemente os tropos de biopunk e distopia cibernética do universo.
+Revisão de 21/10/2026. Fontes: [4](/capitulo-4.md), [5](/capitulo-5.md) e
+[6](/capitulo-6.md). Foco: entrevista, agência e limites de prova.
 
-## Pontos Fortes e Fracos
-**Fortes:**
-- Integração da tecnologia Lázaro ("processamento de carne").
-- Gabo atira contra a tubulação para gerar uma barreira física de vapor denso (ajustado de fumaça em revisão prévia), respeitando seu trauma.
-- A dor emocional e física de Gabo é mantida (uso implícito do Colar de Sol frente ao trauma com Miranda e Bia).
+## Mudanças e personagens
 
-**Fracos:**
-- O drone "Vespa" realizar a "Esquiva Pêndulo" de Dante é um conceito muito "anime/cinematográfico", mas aceitável dado o contexto da digitalização de padrões neurais de combate.
+Gabo desarma Miranda e conserva o áudio antes de baixar a arma por decisão própria.
+Aria não conhece uma chave biométrica por intuição. Miranda admite dívida e
+remessas, nega o tiro em Bia e não sustenta a alegação sobre a filha com dados
+verificáveis. O destino de Dante continua relato de origem não esclarecida.
+O chip é fotografado e lacrado. A Caronte vem do carro, com quatro cartuchos de
+reserva. Valéria alcança uma câmera da praça, com limite de acesso e cobertura.
+A esquiva lembra Dante; cópia e gravação ainda cabem. A reação leva Gabo a errar.
+A coxa ferida e a pistola perdida na estação seguem para o capítulo 6.
 
-## Sanity Check
-- [x] O trauma fóbico de Gabo com fumo está devidamente omisso/respeitado? Sim.
-- [x] Personagens coesos? Sim.
-- [x] Não contém mocks? (N/A)
+## Portões e notas
 
-**Conclusão:** O Capítulo 5 atende perfeitamente à diretriz do lore, construindo bem a ambientação sem infringir as regras estabelecidas para os personagens. Nenhuma mudança necessária.
+| Critério | Resultado |
+| --- | --- |
+| D1 | 1.209 palavras de prosa; dentro do alvo |
+| D2 | Um H1, igual ao menu |
+| D3 | Aria física, rádio e pessoas citadas separados |
+| D4 | Recursos e mão ferida conferidos localmente; origem do colar anterior pendente |
+| D5 | Trinco que abre sozinho coloca a rota de fuga em dúvida |
+
+Atmosfera 2: corpos conectados, ruído e vapor interferem. Custo 1: ferimento e
+perda de controle sem permanência comprovada. Voz 2: barganha, exigência de fonte
+e limite técnico. Ritmo 2: informação muda a negociação. Consequência 2: exploração
+neural altera a leitura das lentes. **Nota editorial: 9/10.**
+
+Revisão local aplicada. Remessas são testemunho direto alegado; consciência do
+pai não foi localizada. Autoria da mensagem e continuidade global permanecem abertas.

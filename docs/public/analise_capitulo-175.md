@@ -1,10 +1,17 @@
-# Análise Crítica - Capítulo 175
+# Revisão de Capítulo 175: O Som das Engrenagens Mortas
 
-## Consistência de Personagem (Lore)
-- Memorização: *"Chapter 175 ('O Som das Engrenagens Mortas') depicts Vasco installing a crude, makeshift industrial prosthetic arm on Gabo's stump without anesthesia. Gabo relies on the extreme pain to fight his phantom smoke hallucinations, while Valéria reboots into a cold, emotionless safe mode."* O arquivo analisado está coerente com essa diretriz do memory base.
+Fonte: [capítulo 175](/capitulo-175.md).
 
-## Trama e Continuidade
-- Instalação da prótese provisória grosseira no braço de Gabo. Valéria reinicia no 'Safe Mode'. A trama se prepara para deixar o Distrito 4 e retornar aos dutos.
+Depois de cinco dias de cuidado, o fixador recebe a armação externa apoiada no tronco. Vasco alerta sobre o batente. A luva de Val permite preensão grosseira, sem curar o nervo.
 
-## Conclusão da Revisão
-**Aprovado.**
+## Passagens de entrada e saída
+
+> No quinto dia de atendimento na clínica, a luz halógena sobre mim falhava a cada oscilação do gerador no subsolo, pintando as paredes de azulejos encardidos com flashes estroboscópicos de pura agonia. Vasco não era um homem de delicadezas, e os recursos no Distrito 4 eram tão escassos quanto a piedade.
+
+### Saída
+
+> — Vou mandar ela pro inferno, igual a gente fez com o Sentinel — ela disse, respirando fundo e endireitando as costas. — Aria queimou tudo lá embaixo pra gente sair daquele buraco, Moretti. Não foi pra eu virar estatística fria numa bancada de fundo de quintal. Dá essa armação de trator pra cá e me ajuda a levantar. A gente tem uma cidade em ruínas pra atravessar.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

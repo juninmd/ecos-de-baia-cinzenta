@@ -11,7 +11,7 @@ A subida pelo poço do elevador de emergência foi um exercício metódico de do
 
 A escada engolia Valéria acima de mim. Cada passo dela produzia um rangido metálico fraco, engolido pelo breu que empurrávamos para baixo. Para mim, a escalada não exigia apenas força; exigia abstração. Minhas pernas suportavam o peso do chassi avariado do meu corpo, mas meus braços... o braço direito quebrado preso ao peito pesava feito chumbo, e minha mão esquerda em carne viva escorregava no metal frio quando eu tentava usá-la para tração.
 
-A cada dez metros, a carne lacerada e as queimaduras seladas pelo maçarico eram esfoladas na grade. O sangue morno empapava as ataduras improvisadas e os restos das minhas mangas, descendo pelos meus flancos onde a espuma química de Valéria mantinha minhas costelas no lugar.
+A cada dez metros, a carne lacerada e as queimaduras cobertas pelos curativos eram esfoladas na grade. O sangue morno empapava as ataduras improvisadas e os restos das minhas mangas, descendo pelos meus flancos onde a espuma química de Valéria mantinha minhas costelas no lugar.
 
 Na quarta plataforma, a mão esquerda escorregou. Não houve aviso: o suor e o sangue sob a palma venceram o ferro de uma vez, e o mundo inclinou. Valéria me pegou pela gola do sobretudo, o antebraço dela travando contra o meu peito, e por dois segundos ficamos pendurados na mesma escada, respirando perto o bastante para eu ouvir os dentes dela batendo.
 
@@ -21,7 +21,7 @@ A sola da minha bota raspou duas barras antes de achar apoio de novo. Ouvi o met
 
 O cheiro do Subnível 2.0 — o formol, o ozônio estéril, a carne morta no servidor — começou a se dissipar na marca dos quarenta metros. Em seu lugar, a velha e conhecida exalação de Baía Cinzenta desceu pelo poço de ventilação: uma lufada úmida de asfalto molhado, poeira de concreto e a acidez química da chuva contínua.
 
-O esforço contínuo da escalada cobrava um preço avassalador de cada fibra muscular. Com o braço direito quebrado e imobilizado e as mãos em carne viva pelas queimaduras, eu dependia da tração do braço esquerdo, da pressão dos joelhos e da força bruta do abdômen para vencer cada degrau de ferro da escada de serviço. A queimação no osso fraturado e nas feridas cauterizadas irradiava pelo peito a cada impulsão.
+O esforço contínuo da escalada cobrava um preço avassalador de cada fibra muscular. Com o braço direito quebrado e imobilizado e as mãos em carne viva pelas queimaduras, eu dependia da tração do braço esquerdo, da pressão dos joelhos e da força bruta do abdômen para vencer cada degrau de ferro da escada de serviço. A queimação no osso fraturado e nas feridas cobertas pelos curativos irradiava pelo peito a cada impulsão.
 
 Contei os degraus por vício, não por necessidade. Cinquenta e um entre uma plataforma e a seguinte, e em cada um o cheiro mudava um grau: primeiro o formol, depois o pó de concreto, depois o salitre. Era como subir por dentro de uma ferida que cicatrizava ao contrário.
 
@@ -51,7 +51,7 @@ Olhei para Valéria. A figura antes imponente, coberta por cromo e atitude, agor
 
 — Rangel e Aria — ela disse para o chão. Apenas isso. O custo da operação.
 
-— Eles sabiam a conta quando entraram no trem — eu respondi. O cinismo era o único band-aid que eu tinha. Tinha o formato de uma navalha, mas estancava o sangramento mental. — Nós cobramos a dívida lá embaixo. O servidor queimou.
+— Aria respondeu ao risco. Rangel não recebeu uma sentença quando desceu com a gente — eu respondi. O cinismo era o único band-aid que eu tinha. Tinha o formato de uma navalha, mas estancava o sangramento mental. — O servidor queimou. Isso não paga o que aconteceu com eles.
 
 Ela levantou lentamente a cabeça e olhou para as grandes portas de vidro estilhaçado, observando a cidade mergulhada na tempestade perene. Baía Cinzenta não brilhava em neon. Estava cinza, silenciosa e apodrecendo sob a chuva forte.
 

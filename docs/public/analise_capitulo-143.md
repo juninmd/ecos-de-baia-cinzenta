@@ -1,10 +1,17 @@
-# Análise Crítica - Capítulo 143
+# Revisão de Capítulo 143: Vértigem de Sílica
 
-## Consistência de Personagem (Lore)
-- **Gabo (Fobia de Fumaça):** A fobia é tratada corretamente. O termo usado no resumo é "afastar alucinações sufocantes de fumaça", o que reforça o trauma de asfixia e a repulsa biológica, combatendo-o através do tato com o metal frio (dor). A narrativa em si não quebra as regras estabelecidas.
+Fonte: [capítulo 143](/capitulo-143.md).
 
-## Trama e Continuidade
-- Assim como os anteriores deste lote, atua como um placeholder repetindo o parágrafo de âncora do Gabo, o qual, isoladamente, é 100% lore-friendly em relação ao trauma da fumaça.
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-## Conclusão da Revisão
-**Aprovado.** Sem infrações de lore identificadas.
+## Passagens de entrada e saída
+
+> A gravidade é uma amante impiedosa, mas o vazio escuro do poço de ventilação era pior. Ele prometia não apenas a queda, mas o esquecimento.
+
+### Saída
+
+> — Então paramos de pensar na subida como uma fuga, Val, — a voz de Gabo raspou na garganta seca. Ele olhou para a escuridão úmida que continuava acima deles, apertando mais um grau sua mão sangrenta no degrau, sentindo a dor martelar suas veias. — E começamos a tratar como um cerco.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

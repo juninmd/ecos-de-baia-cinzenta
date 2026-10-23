@@ -9,7 +9,7 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 Os oitocentos metros de distância pareciam se multiplicar a cada passo pelas catacumbas do Setor 6. A galeria era um labirinto esquecido de alvenaria brutalista, onde arcos de tijolos seculares gotejavam água fétida e óleo de transformadores sobre um piso inundado que cobria nossas botas até os tornozelos.
 
-Elias choramingava a cada respingo, segurando a lanterna caseira com as duas mãos trêmulas. O facho oscilava freneticamente, projetando sombras compridas sobre as colunas maciças que sustentavam as fundações dos arranha-céus comerciais quilômetros acima de nós.
+Elias choramingava a cada respingo, segurando a lanterna caseira com as duas mãos trêmulas. O facho oscilava freneticamente, projetando sombras compridas sobre as colunas maciças que sustentavam as fundações dos arranha-céus comerciais acima de nós.
 
 Valéria ia logo atrás dele, o cyberdeck seguro no peito e a pistola em punho. Os filamentos de LED azul na franja curta dela iluminavam a água escura com um reflexo elétrico, e seus olhos ópticos prateados varriam as vigas com atenção incansável.
 
@@ -39,7 +39,7 @@ Dei um passo pesado na direção dele, a garra de ferro da armação erguendo-se
 
 — Você vai primeiro exatamente porque é o mais leve, Elias — falei, a voz rouca e sem espaço para negociação. — Você cruza, prende a fita de segurança no olhal de aço do outro lado e joga a ponta de volta pra nós. Se você tentar correr ou se recusar a subir no cano, eu te deixo sozinho nessa plataforma escura. E você sabe muito bem o que vai sair desse esgoto quando os neons apagarem.
 
-Elias encarou o cano frio de *Caronte* que despontava do meu casaco e depois olhou para os olhos azuis de Valéria, que não piscavam. Ele engoliu o choro, assentiu com a cabeça e respirou fundo.
+Elias encarou o cano frio de *Caronte* que despontava do meu casaco e depois olhou para os olhos prateados de Valéria, que não piscavam. Ele engoliu o choro, assentiu com a cabeça e respirou fundo.
 
 — Me dá a cinta de rapel — ele pediu com a voz trêmula.
 
@@ -67,13 +67,12 @@ Avancei dois metros. Três metros. O abismo negro borbulhava logo abaixo das min
 
 No sexto metro, o ferro oxidado cedeu.
 
-*CRACK-SNAP.*
-
+CRACK-SNAP.
 O tubo central partiu-se na solda antiga. A grade de manutenção tombou trinta graus para a direita, e meu pé de metal escorregou no lodo, arremessando meu corpo em direção ao fosso.
 
 — Gabo! — o grito de Valéria rasgou a acústica da galeria.
 
-Cravei a garra de aço da armação no único cano que restava intacto. As engrenagens da armação travaram com um silvo hidráulico ensurdecedor, os nós neurais da minha escápula gritando quando todo o peso do meu corpo foi sustentado por aquele único braço de ferro suspenso no vazio.
+A cinta de segurança travou no ponto que Elias fixara. Encostei a garra da armação no cano restante para não girar contra a parede; o arnês sustentava o peso, não o braço fraturado. As engrenagens da armação travaram com um silvo hidráulico ensurdecedor, os nós neurais da minha escápula gritando quando a cinta recebeu o peso e prendeu meu tronco sob a borda. O puxão no fixador abriu sangue novo; se a guia falhasse, a garra não salvaria o ombro.
 
 A água escura borbulhou a meio metro das minhas botas.
 
@@ -94,3 +93,9 @@ Valéria caiu sentada ao meu lado, limpando o suor da testa com as costas da mã
 — Eu pisei o mais leve que pude — consegui dizer, tossindo e sorrindo com o cinismo que ainda nos mantinha vivos.
 
 — Pois da próxima vez, faz dieta antes de saltar num esgoto — ela me deu um soco fraco na armação de ferro e se levantou, estendendo a mão para me apoiar. — Vamos andar logo. O barulho daquela ponte caindo com certeza acordou a vizinhança inteira do Setor 6.
+
+Elias ficou com a ponta da cinta na mão. Antes de entregá-la, olhou para mim.
+
+— Você me ameaçou para eu passar primeiro. Não chama isso de me salvar quando contar a história.
+
+Assenti. A fita que ele fixara tinha segurado meu corpo; a ameaça fora minha.

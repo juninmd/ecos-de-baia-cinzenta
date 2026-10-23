@@ -3,24 +3,18 @@ title: "Capítulo 157: A Inércia do Caos"
 date: "Pós-Colapso da Usina Prometeu (Noite Eterna)"
 location: "Túneis de Trânsito (Subnível 3.0 - Monorail)"
 characters: ["Gabo", "Valéria", "Aria"]
+Data In-Game: "Pós-Colapso da Usina Prometeu (Noite Eterna)"
+Localização: "Túneis de Trânsito (Subnível 3.0 - Monorail)"
+Personagens Presentes: "Gabo, Valéria, Aria (Reboot)"
 ---
-
-## Metadados
-- **Título:** A Inércia do Caos
-- **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
-- **Localização:** Túneis de Trânsito (Subnível 3.0 - Monorail)
-- **Personagens Presentes:** Gabo, Valéria, Aria (Reboot)
-- **Resumo:** Durante a subida vertical do monorail rumo ao Subnível 3.0, o pendrive de Aria — espetado na porta de diagnóstico do painel — alerta pelo alto-falante da cabine sobre um impacto de quatrocentos quilos de criaturas do Taxidermista no teto. Enquanto Aria gerencia os freios magnéticos pelo painel, Gabo e Valéria lutam fisicamente para abrir a escotilha inferior e desacoplar o módulo trator, arremessando os monstros contra as comportas superiores antes de Valéria puxar o pendrive de Aria de volta para o deck.
-
-## Narrativa
 
 # Capítulo 157: A Inércia do Caos
 
 O monorail engolia os trilhos verticais com a fúria de um leviatã de metal subindo das profundezas. O som contínuo do atrito das rodas enferrujadas contra as vigas de aço era uma broca perfurando os ouvidos. Dentro do vagão de carga, a luz amarela mortiça piscava, lutando contra as quedas de tensão na velha malha energética da Aeterna Corp.
 
-Gabo estava sentado no chão corrugado, encostado na parede de aço vibrante. Cada solavanco do trem era traduzido como um soco direto em seus ossos. Seu braço direito quebrado, envolto em talas e ataduras sobre as queimaduras de plasma, era uma âncora de agonia pura. Ele o mantinha erguido, os tecidos enegrecidos pulsando com a batida de seu coração esfolado.
+Gabo estava sentado no chão corrugado, encostado na parede de aço vibrante. Cada solavanco do trem era traduzido como um soco direto em seus ossos. Seu braço direito quebrado, envolto em talas e ataduras sobre as queimaduras das grades, era uma âncora de agonia pura. Ele o mantinha erguido, os tecidos enegrecidos pulsando com a batida de seu coração esfolado.
 
-O cheiro do ambiente era uma mistura ácida de ozônio, poeira de décadas e ferrugem molhada, misturado ao odor acre de pele cauterizada. A cada solavanco violento nos trilhos, a náusea ameaçava dominá-lo, mas Gabo respirava fundo pela boca, lutando contra o princípio de choque.
+O cheiro do ambiente era uma mistura ácida de ozônio, poeira de décadas e ferrugem molhada, misturado ao odor acre dos curativos úmidos. A cada solavanco violento nos trilhos, a náusea ameaçava dominá-lo, mas Gabo respirava fundo pela boca, lutando contra o princípio de choque.
 
 Ele apoiava as costas contra a chapa de aço vibrante do vagão, mantendo os olhos semicerrados e a mente focada no ritmo mecânico dos motores. A queimação contínua nos membros feridos era brutal, mas era a prova incontestável de que ele ainda estava vivo e lúcido para defender o que restava do grupo.
 
@@ -46,7 +40,7 @@ Gabo não podia segurar uma arma. Ele olhou para o teto lacerado onde as criatur
 
 Valéria demorou um segundo para processar. Quando compreendeu a brutalidade pragmática do plano, engoliu em seco. — O motor vai esmagar os drones no próximo bloqueio de pressão. Mas... nós vamos ficar parados no escuro. Pendurados no abismo.
 
-— *Projeção viável,* — concordou Aria pelo alto-falante da cabine, seu drive aquecendo no slot enquanto preparava a sequência de frenagem magnética. — *As comportas térmicas do Subnível 3.0 estão fechadas à frente. O impacto do módulo trator contra as portas a trezentos quilômetros por hora destruirá os Scarabs e abrirá nossa passagem. No entanto, o pino de desacoplamento entre os módulos é estritamente manual nesta classe de veículo.*
+— *Projeção viável,* — concordou Aria pelo alto-falante da cabine, seu drive aquecendo no slot enquanto preparava a sequência de frenagem magnética. — *As comportas térmicas do Subnível 3.0 estão fechadas à frente. O impacto do módulo trator contra as portas na velocidade de serviço indicada pelo painel destruirá os Scarabs e abrirá nossa passagem. No entanto, o pino de desacoplamento entre os módulos é estritamente manual nesta classe de veículo.*
 
 — Onde é o pino? — exigiu Gabo, virando-se para Valéria, lutando com a exaustão que pesava sobre seus ombros.
 
@@ -58,7 +52,7 @@ A alucinação atingiu Gabo com a força de um soco no estômago. O ar em seus p
 
 Mas ele não tinha mãos para se proteger.
 
-Com um grito de raiva gutural, Gabo ergueu o braço direito e chocou violentamente a mão carbonizada contra o pilar de sustentação do monorail. O impacto foi devastador. A dor irrompeu não como uma faísca, mas como um sol em chamas. Seus joelhos cederam, e a fumaça ilusória evaporou instantaneamente de seus pulmões, expulsa pela realidade excruciante e incontestável de sua própria carne ferida.
+Com um grito de raiva gutural, Gabo ergueu o braço direito e tentou firmar a mão enfaixada no pilar e gritou quando o braço quebrado recebeu o peso. Val o mandou sentar e prender o tronco à cinta do banco; não conseguiria ajudá-la se continuasse se ferindo. O impacto foi devastador. A dor irrompeu não como uma faísca, mas como um sol em chamas. Seus joelhos cederam, e a fumaça ilusória evaporou instantaneamente de seus pulmões, expulsa pela realidade excruciante e incontestável de sua própria carne ferida.
 
 — Vai, Val! — Gabo rugiu, a voz rasgada pelo esforço, os dentes cerrados. Ele atirou o ombro contra a trava da escotilha de chão, soltando a dobradiça enferrujada com um chute.
 

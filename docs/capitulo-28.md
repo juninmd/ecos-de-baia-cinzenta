@@ -1,198 +1,118 @@
 ---
 layout: doc
 title: "Capítulo 28: O Último Suspiro da Torre"
-description: "A purga da Torre Aeterna não mata inimigos: mata o turno da noite. E a mulher que conhece os dutos morre por causa de uma ordem do Gabo."
+description: "A purga ameaça quem trabalha na Torre Aeterna. Gabo ignora a mulher que conhece o caminho e deixa uma dívida com nome."
 image: /capitulo_28.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Valéria "Val" Cruz, Dante Moretti
-Localização: "Torre Aeterna (purga do Protocolo Gênesis, descida)"
+Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Valéria "Val" Cruz, Aria (módulo no deck), Neide R. Santos, Dante Moretti (corpo no tanque)
+Localização: "Torre Aeterna, nível 100 → escada de serviço → cruzamento do 98 → compartimento do 90 → acesso ao 70"
 ---
-
 # Capítulo 28: O Último Suspiro da Torre
 
-O silêncio depois do grito eletrônico de Dante era mais pesado que qualquer som.
+O silêncio depois do grito eletrônico de Dante durou onze segundos.
 
-Durou onze segundos.
+Depois veio uma sirene de dois tons. Uma voz sintética, sem a ironia do Gamemaster, anunciou contenção biológica e purga de composto neurotóxico. No visor da porta, a primeira fase incluía os níveis 100 a 130. A saturação prevista para aquele setor era de doze minutos.
 
-Depois veio a sirene — não a sirene de incêndio, que soa como aviso, mas outra, fria e curta, de dois tons, repetindo com uma paciência de metrônomo. E, por cima dela, uma voz sintética sem nenhuma das ironias que o Gamemaster costumava emprestar às máquinas:
+Gabo tentou se levantar. Não conseguiu na primeira vez.
 
-**"ALERTA DE CONTENÇÃO. PROTOCOLO GÊNESIS ACIONADO. PURGA DE COMPOSTO NEUROTÓXICO INICIADA. EVACUAÇÃO BIOLÓGICA COMPROMETIDA. TEMPO PARA SATURAÇÃO TOTAL: DEZ MINUTOS."**
+Elena sustentava o casaco contra o ombro direito de Valéria. O tecido já estava encharcado de sangue. A jornalista ajustou a pressão e ligou o gravador antes de perguntar onde ficava a saída.
 
-— Gás — disse Valéria. O rosto dela estava do tom do papel sob a luz vermelha. — Eles vão esterilizar a torre inteira.
+Valéria encostou o deck no console auxiliar. A tela principal estava morta, mas o sistema de contenção tinha alimentação de emergência própria. Não era a mesma rede que acabavam de interromper.
 
-— A sala — disse Elena.
+CRACHÁS ATIVOS NO PRÉDIO: 3.847.
+— Isso é o quadro de funcionários? — perguntou Gabo.
 
-— **A torre.**
+— É a contagem que o sistema está mostrando agora. Não sei se todos continuam aqui.
 
-Val virou a tela do console para eles, e Gabo levou dois segundos para entender o que estava vendo, porque era uma planta baixa com números do lado, e os números eram grandes demais para significar o que significavam.
+Na planta apareciam limpeza, refrigeração, cozinha, manutenção e uma creche de plantão no nível 40. O número não vinha acompanhado dos nomes de quem sairia, de quem estava sendo contado duas vezes ou de quem já tinha morrido. Mesmo assim, era gente demais para caber na ideia de fortaleza inimiga.
 
-Cento e quarenta e dois andares. Setores marcados em amarelo do subsolo ao topo. E, no canto, a contagem que o próprio sistema fazia dos crachás ativos dentro do prédio às três e dez da manhã:
+— A purga tem uma ordem aprovada — disse Valéria. — Está registrada antes desta sequência de desligamento. Tem campo de autorização humana.
 
-`OCUPAÇÃO ATUAL: 3.847`
+Elena fotografou a tela inteira. Não conheciam o signatário nem tinham autenticado o registro. A interrupção do núcleo podia ter acionado uma contingência que alguém preparara; isso não transformava o desligamento numa decisão sem autor nem lhes dava um nome para acusar.
 
-— Val — disse Gabo, muito devagar. — O que é esse número.
+A porta estava presa por uma barra no batente. Valéria não encontrou liberação naquele painel. Aria leu a indicação de uma saída de serviço sob o piso, usando a imagem do deck. Depois o aparelho voltou a avisar sobre energia.
 
-— É gente.
+Elena usou a Caronte vazia como alavanca na grade. Uma borda soltou. Por baixo havia um trecho curto de inspeção que levava à escada em lances, atrás da parede da sala. Não precisariam descer pendurados nos braços.
 
-— Não é o quadro de funcionários?
+Antes de passar, Gabo olhou o tanque. O corpo do pai continuava preso pelos tubos. Não havia como levá-lo naquela passagem; também não tinha chegado ninguém para assumir o paciente ou dizer a Gabo o que acabara de fazer.
 
-— É **agora**, Gabo. — A voz dela subiu e quebrou no meio. — Turno da noite. Limpeza, servidores, refrigeração, cozinha, segurança, os caras da manutenção do elevador que trabalham de madrugada porque de dia atrapalha. Tem creche de plantão no 40, para quem faz turno duplo. Tem **creche**.
+Elena chamou de novo. A névoa começava a sair pelas grades junto ao teto.
 
-O som não era de vazamento. Era de dilúvio.
+Gabo atravessou o vão com ajuda. O braço direito ficou apoiado; a mão esquerda só tocava o piso onde precisava de equilíbrio. Valéria guardou o deck e Aria na bolsa antes de entrar, mantendo o outro braço contra o tronco. A câmera de Elena reteve o último quadro do tanque.
 
-Das grades do teto começou a descer uma névoa amarelada que não se comportava como fumaça: era pesada, líquida, e caía em véus que engoliam a luz vermelha e a devolviam parda. Onde tocava o piso, se espalhava como óleo.
+Na escada, a luz de emergência falhava entre os patamares. O metal do corrimão estava frio e deixava ferrugem no curativo. Desceram dois andares em quase três minutos, parando quando Gabo perdia o fôlego ou quando o ombro de Valéria voltava a sangrar por baixo da compressão.
 
-Gabo olhou para cima, para as grades, e teve a certeza — que ia carregar pelos quinze anos seguintes — de que aquele mesmo véu estava caindo naquele mesmo segundo em cento e quarenta e um andares acima e abaixo, sobre gente que estava passando pano, aquecendo marmita, trocando fralda.
+No 98 havia um cruzamento de passagens e uma mulher junto de um carrinho de limpeza virado.
 
-O Protocolo Gênesis não era uma armadilha para ele.
+Ela apertava um pano sobre o rosto. Uniforme cinza de terceirizada, crachá com uma fotografia muito mais nova que ela: **NEIDE R. SANTOS — CONSERVAÇÃO — NÍVEIS 100 A 130**.
 
-Era a política da casa. Estava escrita desde o dia da fundação, esperando o dia em que o prédio fosse tomado. Só que ninguém redigiu o parágrafo que diferencia invasor de faxineiro, porque para quem redigiu não havia diferença.
-
-— A porta! — gritou Elena.
-
-Travada.
-
-— O desligamento do núcleo acionou o lockdown total — disse Val, martelando o console com a mão boa, a outra pendurada e escura de sangue no ombro. — Eu não anulo. Não é software. É uma barra de aço que desceu dentro do batente.
-
-**"NOVE MINUTOS."**
-
----
-
-A grade do piso cedeu no terceiro golpe da coronha.
-
-Por baixo havia um poço quadrado, estreito, com uma escada de manutenção descendo para dentro do prédio. O ar que subia de lá era frio, e cheirava a poeira e a graxa velha, e — pelo menos ainda — não cheirava a amêndoa podre.
-
-— Eu vou primeiro — disse Elena, já se enfiando.
-
-— Val no meio — disse Gabo. — Eu fecho.
-
-Antes de descer, ele olhou uma última vez para o tanque quebrado no centro da sala.
-
-O corpo do pai boiava de lado no fluido escuro, e a névoa amarela já tinha coberto a superfície, e o que sobrava dele estava desaparecendo debaixo daquilo devagar, como coisa que afunda em neve.
-
-Não deu para levar o corpo. Não deu para dizer nada. A única coisa que Gabo teve tempo de fazer foi fechar a grade por cima da própria cabeça, e o barulho daquilo — metal batendo em metal, definitivo — foi o enterro que Dante Moretti recebeu.
-
----
-
-Desceram dezoito andares em quatro minutos, no escuro absoluto, contando os patamares pelo tato.
-
-O metal da escada era gelado e áspero de ferrugem, e cortava as palmas. Val descia com um braço só, apoiando o ombro ferido na parede a cada degrau e deixando ali uma marca que ninguém ia ver. Ninguém falava. Falar gastava ar.
-
-No patamar do que devia ser o Nível 118, o poço se abria em três dutos horizontais.
-
-— Val — chamou Elena, de baixo. — Qual?
-
-— Meu implante está sem rede. — A voz dela veio abafada e fina. — Eu não vejo a planta. A gente vai ter que adivinhar.
-
-E foi então que a lanterna de Elena pegou o rosto da mulher.
-
-Ela estava agachada dentro do duto da direita, encolhida entre um carrinho de limpeza virado e a parede, com um pano amarrado na cara e os olhos enormes de pavor, e não gritou quando a luz bateu nela — o que, Gabo pensou depois, dizia tudo sobre o tipo de vida que ela tinha.
-
-Cinquenta e poucos anos. Uniforme cinza da terceirizada. Crachá com foto de dez anos atrás.
-
-`NEIDE R. SANTOS — CONSERVAÇÃO — NÍVEL 100 A 130`
-
-— Vocês são da segurança? — ela perguntou.
+— Vocês são da segurança?
 
 — Não — disse Elena.
 
-— Ah, graças a Deus.
+— Graças a Deus.
 
----
+Neide tirou o pano para indicar as setas apagadas na parede. Não disse que aquilo filtrava o gás. Era o que tinha encontrado para cobrir a boca.
 
-Neide Santos trabalhava naqueles dutos havia vinte e dois anos.
+— Pela esquerda. Desce até o 90 e atravessa a passarela do elevador. Tem outra escada depois da comporta. A direita desce um pedaço e acaba num registro fechado.
 
-Ela conhecia o desenho da coisa como Gabo conhecia o Distrito Baixo: não pelo mapa, pelas pernas. Sabia onde a tubulação era estreita demais, onde a escada não tinha os quatro últimos degraus desde o ano trinta e nove, sabia que o duto do meio parecia o caminho lógico e terminava numa casa de máquinas soldada.
+Gabo olhou os dois caminhos. Pela esquerda, o primeiro lance subia antes de voltar a descer. Pela direita, uma rampa inclinada sumia limpa na escuridão.
 
-— Pelo da esquerda — ela disse, apontando com o queixo, sem soltar o pano do rosto. — Desce até o 90, aí tem que atravessar por dentro do fosso do elevador de carga e pegar a escada de novo. É mais longe.
+— Trabalha aqui há quanto tempo?
 
-— Mais longe? — disse Gabo. — A gente tem cinco minutos.
+— Vinte e dois anos. Tem degrau que falta desde o ano trinta e nove. Eu sei onde pôr o pé.
 
-— É mais longe e é o único que dá.
+Veio um assobio pela junta acima do cruzamento. O cheiro metálico se misturou a algo doce. O aviso de purga dizia o risco; o nariz não podia dizer quanto já tinham respirado. Elena começou a tossir.
 
-**"CINCO MINUTOS PARA SATURAÇÃO TOTAL."**
+Gabo olhou outra vez a rampa. A via indicada por Neide exigia ganhar altura em direção ao setor que soltava a névoa. A outra parecia afastá-los.
 
-Foi aí que o gás chegou no patamar deles.
+— Direita.
 
-Não desceu pelo poço: entrou por uma junta de tubulação a três metros, num sopro fino e contínuo, com um assobio de pneu furado. O cheiro chegou junto — metálico e adocicado, ozônio e amêndoa podre — e a garganta de Gabo fechou meio dedo, e ele sentiu a língua ficar grossa.
+— Moço, eu acabei de falar que não—
 
-Elena começou a tossir. Val também.
+— Direita! Anda!
 
-E Gabo olhou para o duto da esquerda, que era o certo e era mais longo, e para o duto da direita, que descia reto, e fez a conta que um homem faz quando tem quatro pulmões sob a responsabilidade dele e cinco minutos.
+Era o tom que ele aprendera a usar em catorze anos de polícia. Ocupava o lugar da resposta antes que alguém pudesse terminá-la. Elena hesitou, mas Valéria já tinha entrado para não ficar sob o vazamento, e Neide seguiu com elas.
 
-— Direita — ele disse.
+A passagem desceu um nível e meio. Terminou no registro que Neide descrevera: aço, travessa fechada e vento do outro lado. Não havia leitor para a permissão de Miranda nem espaço para usar a coronha como aríete.
 
-— Moço, a direita não—
+Gabo ficou olhando a barra. Tinha chamado aquilo de rota porque parecia uma saída. Neide o avisara antes do primeiro passo.
 
-— **DIREITA! ANDA!**
-
-Ninguém discute com aquele tom. É para isso que ele existe. Foi treinado durante quinze anos para não ser discutido, e funcionou, e por isso as quatro pessoas entraram no duto da direita.
-
-Ele descia reto, rápido e limpo por trinta e um andares.
-
-E terminava num registro de contenção fechado, de aço de doze milímetros, do outro lado do qual dava para ouvir o vento livre.
-
----
-
-Voltar custou setenta segundos.
-
-Setenta segundos subindo, em fila, no escuro, respirando o que já não era ar. Val vomitou no meio do caminho e continuou subindo. Elena puxava a mulher pelo braço.
-
-Quando chegaram de volta ao patamar do 118, a névoa já estava na altura da cintura, e Neide Santos parou.
-
-Não foi drama. Ela simplesmente parou, e se sentou no degrau, e disse:
+Voltar levou quase dois minutos. Valéria vomitou na rampa e continuou apoiada na parede. Elena ajudava Neide; Gabo não podia oferecer nenhum dos braços para dividir o peso. Ao chegarem ao cruzamento, a mulher sentou no degrau e não conseguiu se levantar.
 
 — Vai, moço.
 
-— Levanta.
-
-— Eu tô com enfisema desde os quarenta. — Ela falou entre chiados, com a mão no peito, muito calma, e tirou o pano do rosto porque o pano já não servia para nada. — Vinte e dois anos limpando produto químico sem máscara direito. Eu não subo essa escada, meu filho. Eu não subo nem a escada da minha casa sem parar no meio.
-
 — Eu carrego a senhora.
 
-— Você tá com o ombro fora do lugar e essa mão que não fecha. — Ela riu, e a risada virou tosse, e a tosse trouxe alguma coisa junto. — Eu limpo o andar da enfermaria. Eu sei como é que anda homem quebrado.
+Ele tentou se agachar. A mão esquerda escorregou na roupa dela, sem fechar, e o ombro direito o obrigou a parar. Elena se pôs do outro lado. Conseguiram levantá-la por um instante; as pernas de Neide cederam antes do próximo degrau.
 
-Ela apontou para cima com dois dedos.
+— Enfisema — ela disse entre os chiados. — Desde os quarenta. Produto de limpeza a vida inteira. Não subo nem a escada de casa sem parar.
 
-— Esquerda. Desce até o 90. Fosso do elevador de carga, atravessa e pega a escada. — Uma pausa longa, com chiado dentro. — E, quando chegar lá embaixo, moço, faz o favor: fala o meu nome pra alguém.
+A névoa alcançava o piso do cruzamento. A sirene repetiu um prazo que nenhum deles conseguia conferir. Valéria segurou a bolsa contra o peito e esperou, encostada, sem pedir que deixassem a mulher.
 
-**"DOIS MINUTOS."**
+— Esquerda — disse Neide. — Noventa. A passarela e a comporta. Me escuta dessa vez.
 
-Gabo ficou parado meio segundo a mais do que devia.
+Gabo assentiu.
 
-Não porque estivesse decidindo. Porque não estava: a decisão já tinha sido tomada trinta e um andares abaixo, quando ele gritou *direita* para uma mulher que sabia o caminho, e tudo depois daquilo era só a fatura chegando com o nome dele na frente.
+— E fala o meu nome para alguém lá embaixo.
 
-— Neide Santos — ele disse. — Conservação.
+Ele repetiu: Neide R. Santos, conservação. Neide soltou o crachá e o entregou a Elena, que aproximou o gravador. A mulher ouviu o nome inteiro, confirmou e tentou puxar outro fôlego. Não conseguiu terminar.
 
-— Isso.
+Neide morreu antes que a levantassem de novo.
 
-Elena puxou o braço dele com força suficiente para machucar.
+Gabo continuou agachado, como se ainda pudesse executar o gesto que o corpo não permitira. A decisão que a trouxera de volta àquele degrau fora dele. Não havia correção de voz, cargo ou intenção que devolvesse os minutos gastos na passagem errada.
 
-Eles entraram no duto da esquerda.
+Elena guardou o crachá que Neide lhe entregara ao pedir ajuda. Não levou só o nome: gravara o aviso que Gabo ignorara e a ordem com que o interrompera.
 
----
+Foram pela esquerda.
 
-Desceram vinte e oito andares sem falar.
+A subida curta, a curva e os lances seguintes estavam onde a mulher dissera. A cada patamar, Gabo encontrava outra parte do caminho que teria podido escolher antes. Desceram até o 90 em pausas que não cabiam no prazo da sirene. A saturação anunciada era nos setores altos; o que vazava pela escada não respeitava as cores da planta.
 
-O fosso do elevador de carga estava lá, e a travessia estava lá, e a segunda escada estava lá, exatamente como ela tinha dito, e a cada acerto daquela mulher morta doía um pouco mais.
+Depois da passarela havia uma comporta manual. Elena a fechou quando os três passaram. O indicador da ventilação desse compartimento mostrava circuito separado. O ar mais frio permitiu respirar melhor; não desfez a tosse, a náusea ou o sangue.
 
-No Nível 90, o ar mudou. Ficou frio e limpo, e o assobio ficou para trás, e a sirene virou uma coisa distante, quase educada, tocando para andares onde não havia mais ninguém para avisar.
+No painel, uma seta apontava a segunda escada e o acesso ao nível 70. Precisariam continuar antes de perderem a força para a próxima porta.
 
-Val escorregou até sentar no chão do duto, encostada na parede, o rosto molhado.
+— Guarda a ordem de purga — pediu Gabo.
 
-— Três mil e oitocentos — ela disse.
+— Já guardei — disse Elena. — A sua também.
 
-— Eu sei.
-
-— Não. — Ela olhou para ele. — Você não sabe, porque eu não te contei ainda: o Gênesis não foi acionado pela morte do núcleo. Eu vi o log antes de a gente sair. Ele tem carimbo de aprovação humana. Alguém, num escritório, em algum lugar, **assinou**.
-
-Elena parou de andar.
-
-Lá em cima, o último suspiro da Torre Aeterna saía pelas chaminés de exaustão — uma coluna amarela subindo tranquila no céu preto de Baía Cinzenta, visível de qualquer ponto da cidade, do jeito que se vê fumaça de fábrica em dia de céu limpo.
-
-Ninguém na rua entendeu o que estava vendo.
-
-Gabo entendeu, e continuou descendo, e começou ali a lista que ele ia levar o livro inteiro para terminar: a lista dos nomes de quem assina.
-
-O primeiro nome dela não era de um executivo.
-
-Era Neide R. Santos, conservação, níveis 100 a 130.
+Ela fechou a bolsa sobre o crachá de Neide, deixando a fita rodar.

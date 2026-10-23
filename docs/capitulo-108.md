@@ -5,9 +5,8 @@ Localização: "Zona Portuária - Setor 4"
 ---
 # Capítulo 108: Ratos de Cais
 
-**Zona Portuária - Setor 4**
-
-A chuva caía em lençóis tão densos que o mundo parecia feito de estática líquida. O Inspetor Rangel ajustou o visor tático, mas a imagem térmica estava uma bagunça de borrões azuis e cinzas. O "Domínio de Silêncio" do bloqueador não apenas bloqueava sinais; ele distorcia a própria leitura da realidade.
+Zona Portuária - Setor 4
+A chuva caía em lençóis tão densos que o mundo parecia feito de estática líquida. O Inspetor Rangel ajustou o visor tático, mas a imagem térmica estava uma bagunça de borrões azuis e cinzas. O "Domínio de Silêncio" do bloqueador não apenas bloqueava sinais; as telas mostravam ruído, imagens atrasadas e lacunas. Rangel ergueu o visor para comparar com a rua.
 
 — Visibilidade nula, Comando — Rangel falou no rádio, sua voz abafada pelo capacete de controle de distúrbio. Ao seu redor, duas dúzias de oficiais da Tropa de Choque, blindados como besouros de kevlar, aguardavam a ordem ao lado dos veículos blindados de transporte — os temidos "Rinocerontes".
 

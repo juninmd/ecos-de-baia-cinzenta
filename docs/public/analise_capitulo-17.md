@@ -1,17 +1,41 @@
-# Análise do Capítulo 17: O Ultimato
+# Parecer — Capítulo 17: O Ultimato
 
-## Avaliação Técnica
-- **Ritmo (Pacing):** 9/10. Épico e cheio de suspense tático. O capítulo foca no confronto direto das ideologias.
-- **Diálogos:** 9.5/10. O monólogo do Gamemaster é muito bem escrito, tocando no conceito de Gabo ser um "NPC", desconstruindo a jornada do herói de forma cínica, algo típico do gênero cyberpunk.
-- **Atmosfera:** 9/10. A torre da transmissão funciona como um "estúdio de TV de pesadelo corporativo", estendendo a metáfora de que Gabo e a cidade viraram mero entretenimento de mídia.
+Revisão de 22/10/2026. Fonte [atual](/capitulo-17.md),
+[anterior](/capitulo-16.md) e [seguinte](/capitulo-18.md).
+A revisão aplicada nesta rodada cobre 12–18. Nota editorial é juízo de leitura;
+triagem lexical e testes não comprovam qualidade literária.
 
-## Pontos Fortes e Fracos
-- **Pontos Fortes:** O confronto de ideologias sobre quem o pai de Gabo realmente era, transformando a figura paternal num exoesqueleto robótico com tela de TV para o rosto, unindo o trauma com o desafio físico. O momento de invasão *stealth* de Valéria em contraponto ao estardalhaço de Gabo é clássico e eficiente.
-- **Pontos Fracos:** O uso do exoesqueleto gigante soa bastante como o clímax de um vídeo game (o *boss* final). Mas como o vilão é o "Gamemaster", faz total sentido temático.
+## Personagens e atuação
 
-## Sanity Check (Lore Compliance)
-- A cena da máscara exibindo o rosto do pai engatilha raiva, mas não é um gatilho fóbico olfativo (não há fumaça, não há tabaco), por isso Gabo mantém o foco na luta. A dor emocional se torna física no combate.
-- Lore perfeitamente validado.
+Gabo procura saídas e mede a passagem do trem; seu poder é observar e negociar com um agressor que precisa encenar. Valéria confere a planta, escolhe a aproximação e conserva uma rota de retirada. O Gamemaster controla a transmissão, admite a arma detectada e expõe seu corpo teatral ao duelo.
 
-## Avaliação Qualitativa
-A história se alinha perfeitamente em torno da temática central desse arco. O Gamemaster usa manipulação de mídia em contraste à crueldade analógica que Gabo representa. Nenhum personagem novo é requerido, a oposição entre Gabo/Valéria e a Aeterna se cristaliza aqui.
+## Portões
+
+| Critério | Evidência |
+| --- | --- |
+| D1 | 1.153 palavras de prosa, sem título ou metadados; alvo 1.100–1.600 |
+| D2 | Um H1 no formato exigido, igual ao menu |
+| D3 | Localização e elenco distinguem corpo, comunicação, módulo e imagem |
+| D4 | Corpo, identidade, posse e acesso conferidos em 12–18; pendências posteriores abaixo |
+| D5 | O chassi avança imitando o movimento de Dante. |
+
+## Notas de leitura
+
+Atmosfera / custo / voz / ritmo / consequência: **2 / 1 / 2 / 2 / 2**. Total: **9/10**.
+
+Som repetido do programa, desinfetante, calor e dor corporal fazem parte da pressão. O duelo ameaça perdas que ainda não ocorreram. Voz de apresentador, perguntas do detetive e objeções da técnica distinguem as ações. A segunda tela muda o significado da face do pai, sem provar sua presença física.
+
+## Pistas e limites
+
+As imagens de Dante e o rótulo clínico podem ser copiados ou montados. O aparelho por contato ainda pode falhar. A audiência é exibida pelo próprio agressor; votação e contador não demonstram milhões de espectadores reais.
+
+O encadeamento conserva os plantios de [8](/capitulo-8.md) e
+[11](/capitulo-11.md), além das observações demonstradas em 12–18. Nenhuma
+revelação futura foi tratada como conhecimento disponível aos personagens.
+
+## Verificação e alcance
+
+Fontes e espelhos sincronizados. Título, extensão, metadados, cadeia de recursos
+e fechamento conferidos por leitura e verificação estrutural. Testes, lint e
+preservação constam do registro editorial da rodada, concluído em 22/10/2026.
+Veredito: **revisão local aplicada; aprovação integral da obra pendente**.

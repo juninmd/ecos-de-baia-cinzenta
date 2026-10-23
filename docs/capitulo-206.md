@@ -13,7 +13,7 @@ Tossi com força, cuspindo uma pasta cinzenta no chão invisível. O ar fedia a 
 
 — Valéria? Elias? — chamei, a voz soando como brita sendo moída em um cano seco.
 
-A resposta veio na forma de um clique duplo e o brilho azul-cobalto de dois olhos cibernéticos acendendo-se a seis metros à minha direita. Os fios holográficos da franja de Valéria dançaram contra a escuridão, iluminando seu rosto fino sujo de fuligem e o cano ainda fumegante de sua pistola.
+A resposta veio na forma de um clique duplo e o brilho prateado dos dois olhos cibernéticos acendendo-se a seis metros à minha direita. Os fios holográficos da franja de Valéria dançaram contra a escuridão, iluminando seu rosto fino sujo de fuligem e o cano ainda fumegante de sua pistola.
 
 — Eu ainda tô de pé, detetive, — a voz dela soou com aquele sarcasmo cortante que me puxava de volta à realidade dos vivos. — E com os dois tímpanos zumbindo feito uma colmeia em curto-circuito. Você não sabe derrubar nada com discrição, né? Tem que ser sempre com quarenta toneladas de aço caindo na cabeça de todo mundo.
 
@@ -49,7 +49,7 @@ Ela franziu a testa, os lábios se comprimindo em uma linha tensa.
 
 A lanterna de Valéria varreu o chão de concreto estilhaçado.
 
-Onde o guindaste colossal havia esmagado o monstro de sucata, o impacto descomunal abrira uma fenda geológica na laje inferior. O chão cedera sob o peso combinado de quase sessenta toneladas, revelando uma garganta escura e vertical de cinco metros de diâmetro. Do interior da abertura subia uma lufada de ar úmido e congelante, carregando o cheiro inconfundível de lodo químico, água estagnada e resíduos de amônia.
+Onde o guindaste colossal havia esmagado o monstro de sucata, o impacto descomunal abrira uma abertura na laje inferior, sobre a tampa de inspeção do antigo duto. O chão cedera sob o peso combinado de quase sessenta toneladas, revelando uma garganta escura e vertical de cinco metros de diâmetro. Do interior da abertura subia uma lufada de ar úmido e congelante, carregando o cheiro inconfundível de lodo químico, água estagnada e resíduos de amônia.
 
 — O portão de carga do fundo virou um muro de escombros intransponível, — disse Elias, aproximando-se com a lanterna fraca de seu cinto de ferramentas e engolindo em seco. — Mas isso aqui... isso é um duto de escoamento industrial da rede secundária. Ele corta por baixo do Armazém e desemboca nos dutos de resfriamento do Setor Seis.
 

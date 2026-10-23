@@ -13,7 +13,7 @@ Arrastávamos nossos corpos pelos dutos de manutenção do Setor Seis como náuf
 
 Minha órtese esquerda soltava um uivo rouco a cada passada, com a graxa congelada travando as engrenagens em ângulos imperfeitos. Elias vinha colado ao meu flanco, os dentes batendo em um ritmo incontrolável e os braços cruzados sobre o peito em uma tentativa desesperada de reter o calor residual do corpo.
 
-— Temperatura ambiente em doze graus negativos e caindo, — disse Valéria, soprando o vapor branco das próprias mãos enluvadas enquanto examinava a grade metálica à frente. A luz azul-cobalto de suas lentes ópticas cortava a névoa de gelo, e os fios holográficos da franja brilhavam com uma teimosia elétrica. — Se a gente não sair desse freezer nos próximos vinte minutos, detetive, seus dedos de carne vão necrosar e você vai virar cliente preferencial de outro cirurgião clandestino.
+— Temperatura ambiente em doze graus negativos e caindo, — disse Valéria, soprando o vapor branco das próprias mãos enluvadas enquanto examinava a grade metálica à frente. a luz prateada de suas lentes ópticas cortava a névoa de gelo, e os fios holográficos da franja brilhavam com uma teimosia elétrica. — Se a gente não sair desse freezer nos próximos vinte minutos, detetive, seus dedos de carne vão necrosar e você vai virar cliente preferencial de outro cirurgião clandestino.
 
 — O Vasco já cobrou caro demais pelo braço, Val, — respondi, cuspindo um escarro escurecido pela fuligem no concreto congelado. — Minha cota de armações de ferro acabou nesta encarnação.
 
@@ -29,7 +29,7 @@ Aproximei-me da bancada central, limpando a crosta de gelo de um mostrador com a
 
 — Isso aqui parece uma sala de autópsia de máquinas, — murmurou Elias, aproximando-se com a lanterna trêmula e olhando as telas rachadas. — Quem controlava esse setor quando as comportas foram fechadas?
 
-— Os mesmos burocratas que decidiram afundar os distritos de baixo durante o Dilúvio anos atrás, — respondi, sentindo o peso das cicatrizes queimar sob a jaqueta de sarja. — Gente que via operários como números em planilhas de descarte. Trancaram as portas por fora e deixaram as equipes morrerem de hipotermia enquanto a bolsa comemorava o corte de custos lá no topo.
+— Os mesmos burocratas que decidiram afundar os distritos de baixo durante o Dilúvio, — respondi, sentindo o peso das cicatrizes queimar sob a jaqueta de sarja. — Gente que via operários como números em planilhas de descarte. Trancaram as portas por fora e deixaram as equipes morrerem de hipotermia enquanto a bolsa comemorava o corte de custos lá no topo.
 
 Valéria já estava debruçada sobre o console principal. Ela sacou uma chave de fenda de titânio do cinto, quebrou a crosta de gelo que selava a baia de manutenção e plugou o cabo do cyberdeck diretamente nos barramentos de cobre da placa-mãe.
 
@@ -51,13 +51,13 @@ Faíscas azuis estalaram no ar frio, e um zumbido mecânico grave e adormecido r
 
 Elias deu um passo à frente, tirando do bolso da jaqueta uma ferramenta cilíndrica com bocal de cerâmica e reguladores manuais.
 
-— A ferramenta sônica de calibração que eu usei na descida... — disse ele, a voz ganhando uma centelha de coragem inesperada. — Se eu sintonizar na frequência harmônica do gelo de amônia, as ondas acústicas podem trincar os cristais por fadiga sem romper os condutores de cobre. O muro esfarela como casca de ovo.
+— A ferramenta sônica de calibração que eu usei na descida... — disse ele, a voz ganhando uma centelha de coragem inesperada. — Se eu sintonizar na frequência harmônica do gelo de amônia, a vibração em contato pode soltar parte da crosta. Antes, preciso que Val isole os condutores; não dá para prometer que só o gelo vai se romper. O muro esfarela como casca de ovo.
 
 Valéria olhou para o garoto, as sobrancelhas erguidas em surpresa genuína.
 
 — Olha só pro nosso estagiário da corporação mostrando serviço, — ela disse, dando um tapinha encorajador no ombro dele que fez o rapaz empinar o peito. — Sabia que você não tava carregando essa mochila pesada só pra passear no escuro.
 
-— Excelente, Elias, — confirmei, checando os cartuchos da escopeta com um clique metálico que quebrou a melancolia da sala. — Você abre a fenda no muro com a ressonância sônica. Eu e Valéria cobrimos os flancos caso qualquer coisa com dentes de aço resolva checar o barulho.
+— Excelente, Elias, — confirmei, checando os cartuchos da escopeta com um clique metálico que quebrou a melancolia da sala. — Val isola a alimentação e você testa a ferramenta num trecho da crosta, junto à borda. Eu e Valéria cobrimos os flancos caso qualquer coisa com dentes de aço resolva checar o barulho.
 
 Apertei a empunhadura da *Caronte* com os dedos enluvados da mão de sucata. A dor que latejava no ombro era o combustível que eu precisava: mantinha a mente acordada, límpida, afastando os fantasmas do passado com o peso frio do presente.
 

@@ -5,27 +5,26 @@ Localização: "O Fliperama (antiga estação de manutenção subterrânea)"
 ---
 # Capítulo 111: Arquivos Mortos
 
-<div class="system-log">
-SYSTEM LOG // OFFLINE STORAGE <br>
-LOCAL: "O FLIPERAMA" (CAIXA DE FARADAY) <br>
-STATUS: DESCONECTADO DA REDE GLOBAL <br>
-HARDWARE: SERVIDOR LEGADO (INTEL PENTIUM IV) <br>
+```text
+SYSTEM LOG // OFFLINE STORAGE
+LOCAL: "O FLIPERAMA" (CAIXA DE FARADAY)
+STATUS: DESCONECTADO DA REDE GLOBAL
+HARDWARE: SERVIDOR LEGADO (INTEL PENTIUM IV)
 DADOS: CORROMPIDOS/CRIPTOGRAFADOS MANUALMENTE
-</div>
+```
 
-**O Santuário de Kiko Vibe**
-
+O Santuário de Kiko Vibe
 O silêncio dentro da gaiola de Faraday era diferente. Não era apenas a ausência de barulho; era a ausência de *pressão*. Lá fora, sob a chuva e os drones de Dante, o ar parecia vibrar com dados invisíveis, uma estática constante que arranhava a nuca de qualquer um com implantes. Ali dentro, o ar era parado, cheirando a poeira superaquecida e ozônio velho.
 
-Gabo sentou-se em um caixote de madeira reforçada, esticando a perna machucada. O conserto que Dante fizera — parafusos industriais perfurando o osso para prender o suporte — latejava com uma dor fria e metálica. Ele ignorou, focando em limpar a graxa da *Caronte* com um pedaço de pano sujo.
+Gabo sentou-se em um caixote de madeira reforçada, esticando a perna machucada. O conserto que Dante fizera — atuadores recuperados e cinta rígida sobre a pele ferida — latejava com uma dor fria e metálica. Ele ignorou, focando em limpar a graxa da *Caronte* com um pedaço de pano sujo.
 
-— Isso é ridículo — resmungou Valéria. Ela estava debruçada sobre o teclado mecânico amarelado do servidor central, seus dedos pairando sobre as teclas sem saber exatamente o que fazer. — Não tem interface neural. Não tem porta de entrada ótica. É tudo... físico. Eu tenho que *digitar* os comandos?
+— Isso é ridículo — resmungou Valéria. Ela estava debruçada sobre o teclado mecânico amarelado do servidor central, seus dedos pairando sobre as teclas sem saber exatamente o que fazer. — Não tem interface neural. Não tem porta de entrada ótica. A interface antiga não aceita meu leitor. Vou ter de usar uma mão e remontar os atalhos do teclado.
 
 — Bem-vinda aos anos 2000, garota — disse Rangel. O ex-inspetor caminhava pelas estantes de metal enferrujado que forravam as paredes laterais. Elas estavam entulhadas não com drives de cristal, mas com caixas de papelão. — Kiko não confiava na nuvem. E pelo visto, ele tinha razão.
 
 Gabo ficou diante da parede de monitores CRT desligados, exceto pelo central, que exibia o prompt de comando piscante em verde-fósforo enquanto o pendrive blindado da Aria processava os diretórios pela porta serial. A luz verde refletiu no suor do rosto dele. Pelo alto-falante do monitor, a voz sintética de Aria comentou em baixa frequência, cruzando os registros antigos.
 
-— *Ele sabia que isso ia acontecer* — disse Aria pelo alto-falante, e Gabo assentiu devagar. — *Kiko mapeou os padrões. Ele isolou a arquitetura do código de Dante antes mesmo do hospedeiro biológico ser ativado.*
+— *Ele sabia que isso ia acontecer* — disse Aria pelo alto-falante, e Gabo assentiu devagar. — *Kiko mapeou os padrões. Ele guardou especificações do projeto do hospedeiro e notas sobre o código. Não são medições do Dante que vimos hoje.*
 
 — Kiko era um *streamer* — Valéria bufou, finalmente arriscando teclar algo. O som das teclas mecânicas (Click-Clack) ecoou alto na sala. — Ele vendia energético e fazia *unboxing* de implantes.
 
@@ -33,7 +32,7 @@ Gabo ficou diante da parede de monitores CRT desligados, exceto pelo central, qu
 
 Rangel puxou uma caixa da prateleira. A poeira subiu em uma nuvem cinza. Ele tossiu, abanando o ar, e olhou para o conteúdo.
 
-— Papel — Rangel disse, incrédulo. Ele tirou uma pasta manila, as bordas comidas por traças. — Relatórios de polícia impressos. Cópias carbono. Isso aqui... isso aqui são os arquivos do caso "Gênesis" original. Aquele que o Silas Vance tentou enterrar trinta anos atrás.
+— Papel — Rangel disse, incrédulo. Ele tirou uma pasta manila, as bordas comidas por traças. — Relatórios de polícia impressos. Cópias carbono. Isso aqui... isso aqui são os arquivos do caso "Gênesis" original. Aquele cuja investigação remonta aos primeiros ensaios do Gênesis, antes da construção da Torre.
 
 Ele folheou as páginas, sentindo a textura áspera. Para Rangel, aquilo era conforto. Ele entendia papel. Ele entendia tinta. No mundo digital de Dante, ele era obsoleto. Mas ali, naquele mausoléu de burocracia, ele era o único que sabia ler a língua morta dos arquivos.
 
@@ -42,7 +41,7 @@ Ele folheou as páginas, sentindo a textura áspera. Para Rangel, aquilo era con
 Valéria parou de digitar.
 — O que você achou?
 
-— A autópsia original do Dante — Rangel apontou para uma linha datilografada. — A de quinze anos atrás. Quando Krell o "matou" pela primeira vez.
+— O laudo do desaparecimento do Dante — Rangel apontou para uma linha datilografada. — O de quinze anos atrás. Quando Krell o "matou" pela primeira vez.
 
 Gabo levantou-se, mancando até a mesa. Ele olhou para o nome do pai no papel amarelado.
 
@@ -61,11 +60,11 @@ Valéria digitou um comando simples: `RUN_LOG_01.EXE`.
 
 A tela piscou e texto rolou rapidamente:
 
-```
+```text
 >> ANÁLISE DE ESTABILIDADE: PROJETO LÁZARO
 >> SUJEITO: ALPHA (D. MORETTI)
->> CONCLUSÃO: O hospedeiro entra em colapso térmico se o processamento exceder 90% por mais de 4 horas.
->> FALHA: O cérebro cozinha dentro do crânio.
+>> MODELO EXPERIMENTAL: risco de colapso térmico com carga sustentada acima do limite de projeto.
+>> FALHA PREVISTA: superaquecimento do hospedeiro. Dados do exemplar atual ausentes.
 >> SOLUÇÃO PALIATIVA: Resfriamento externo e... "Ciclo de Sono".
 ```
 
@@ -77,7 +76,7 @@ A tela piscou e texto rolou rapidamente:
 
 — De quanto tempo estamos falando? — perguntou Rangel, o instinto policial afiando sua voz.
 
-— Quarenta minutos — disse Valéria. — A cada 24 horas.
+— O projeto reserva quarenta minutos a cada vinte e quatro horas — disse Valéria. — Precisamos confirmar se ele usa essa rotina. Não vou acertar um relógio por uma especificação velha.
 
 Gabo olhou para o teto cheio de cabos, como se pudesse ver a cidade acima deles através do concreto e da terra.
 
@@ -91,7 +90,7 @@ Gabo apontou para um mapa desbotado na parede, uma planta da cidade de antes da 
 
 — A Usina Geotérmica "Prometeu" — leu Rangel. — Isso foi desativado depois do Dilúvio. É instável.
 
-— É quente — disse Gabo. — E tem acesso direto ao manto. Energia infinita e calor... perfeito para esconder a assinatura térmica de um corpo superaquecido.
+— É quente — disse Gabo. — E tem poços geotérmicos e refrigeração industrial. A descarga de calor da instalação pode esconder um circuito menor. Precisamos conferir tubulação, consumo e movimento antes de chamá-la de esconderijo.
 
 Um estrondo surdo fez a poeira cair do teto. O chão tremeu levemente.
 

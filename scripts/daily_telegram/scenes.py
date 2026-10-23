@@ -2,6 +2,7 @@ import re
 from dataclasses import dataclass, field
 from typing import Dict, List, Optional
 
+from scripts.art_gen.aria_visual import prompt_ancora
 from scripts.daily_telegram import characters
 
 STYLE = (
@@ -229,6 +230,8 @@ class Scene:
         `roupa` chega resolvida quando a ficha declara fases de vestuário — o Dante do
         capítulo 27 usa fedora, o do 104 em diante usa macacão técnico.
         """
+        if anchor["name"] == "Aria":
+            return prompt_ancora(self.texto_limpo, self.shot, roupa or characters.wardrobe(anchor))
         partes = [
             f"Keep this exact person's face, hair and beard unchanged: {anchor['name']}",
         ]

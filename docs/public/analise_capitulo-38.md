@@ -1,16 +1,17 @@
-# Análise do Capítulo 38: A Ressaca
+# Revisão de Capítulo 38: A Ressaca
 
-## Avaliação Técnica
-- Ritmo: 8/10
-- Diálogos: 9/10
-- Atmosfera: 10/10
+Fonte: [capítulo 38](/capitulo-38.md).
 
-## Pontos Fortes e Fracos
-- Fortes: Aborda brilhantemente a dependência em massa (abstinência digital e neurológica) em contraste com a saúde mental crua de Gabo, que depende da dor física em oposição ao vício.
-- Fracos: A transição para a busca de documentos de papel ocorre um pouco rápido.
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-## Verificação de Sanidade (Lore Compliance)
-- Perfeita. O "vício" da equipe corporativa acentua a diferença de Gabo, que não possui dependência química ou neurológica, isolando seu trauma da fumaça como fobia, não vício.
+## Passagens de entrada e saída
 
-## Avaliação Qualitativa
-História profunda e coerente. Valéria e Gabo brilham em seus escopos. Não precisamos de novos personagens para esse arco burocrático de resolução.
+> Amanheceu, mas o sol não apareceu.
+
+### Saída
+
+> E lá em cima, na cidade sem luz, trezentos mil viciados entravam no nono dia de abstinência, enquanto três pessoas cavavam fantasmas de papel num porão.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

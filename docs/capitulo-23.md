@@ -1,166 +1,124 @@
 ---
 image: /capitulo_23.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Roberto Miranda, Valéria "Val" Cruz, Elena Moretti, Beatriz "Bia" Vargas, Dante Moretti
+Personagens Presentes: Gabriel "Gabo" Moretti, Roberto Miranda, Valéria "Val" Cruz, Elena Moretti, Aria (módulo no deck), Bia Vargas e Dante Moretti (citados)
 Localização: "Palácio de Jade, Zona Industrial"
 ---
 # Capítulo 23: Ratos e Reis
 
-O "Palácio de Jade" exalava o cheiro doce e podre de privilégio decadente. Encravado entre as chaminés mortas da Zona Industrial, parecia um tumor de neon pulsando na carne cinzenta da cidade. Não era apenas um cassino; era um ecossistema. Aqui, o dinheiro impresso pela Aeterna Corp era lavado com o sangue do Sindicato.
+O Palácio de Jade exalava perfume doce por cima da gordura da cozinha. Elena estacionou a uma quadra. A chuva tamborilava no teto do Cobalt; Gabo tentava acompanhar o ritmo com a mão enfaixada e só conseguia mover três dedos.
 
-Gabo parou o Cobalt a uma quadra de distância. A chuva tamborilava no teto blindado, um ritmo nervoso que combinava com o de seus dedos no volante.
+— Tem certeza de que ele está aí? — perguntou ela.
 
-— Tem certeza que ele está aí? — perguntou Elena, verificando a trava de sua pistola pela terceira vez.
+— Não. Antes de virar operador, Miranda vendia favores aqui.
 
-— Ratos de esgoto gostam de queijo caro — disse Gabo. — E Miranda sempre teve um gosto refinado para a imundície.
+Valéria guardou a consulta que fizera na rua. O cassino bloqueava sinal sem fio, mas recebia clientes e pagamentos por uma linha própria. A lista de convidados que aparecia no anúncio externo não era uma planta de segurança.
 
-Ele olhou para a entrada. Dois gorilas com implantes dérmicos de blindagem (grau militar, proibidos para civis) guardavam as portas duplas. Carros de luxo flutuavam ou rodavam até o valet, despejando a elite corrupta de Baía Cinzenta: vereadores que votavam contra a saúde pública, lobistas da Aeterna com sorrisos de porcelana e traficantes de órgãos com ternos de seda sintética.
+Havia o Senador Vargas, que votara pela servidão por dívida, Madame Li e os Gêmeos Kray. Gabo conhecia os nomes pelos inquéritos. Ver os três no mesmo convite não provava associação; explicava por que o porteiro atendia carros antes de pessoas.
 
-— Val, você tem a planta? — perguntou Gabo.
+— Eu pergunto — disse Elena. — Você fica fora da câmera da porta.
 
-— O lugar é uma gaiola de Faraday — respondeu Valéria, frustrada, batendo no deck. — Sem sinal lá dentro. Mas consegui interceptar uma lista de convidados vip.
+Voltou em menos de um minuto. Não corria. Atrás dela, os dois seguranças tinham deixado o tapete e vinham pela passagem dos fornecedores.
 
-Ela projetou os nomes no painel do carro.
+— Disseram que ele está esperando você. E pediram para eu deixar o carro na garagem.
 
-*   **Senador Vargas:** O homem que legalizou a servidão por dívida.
-*   **Madame Li:** A rainha do tráfico de sintéticos da Zona Norte.
-*   **Os Gêmeos Kray:** Executores do Sindicato.
+Uma grade começou a descer na saída da rua. Gabo viu a câmera mudar de direção antes que o primeiro homem tirasse a arma debaixo do paletó.
 
-— "Ratos e Reis" — murmurou Gabo. — Estão todos no mesmo buraco.
+— Elena, pela carga.
 
-— O plano? — perguntou Elena.
+Ela olhou o acesso lateral. Um funcionário empurrava um carrinho vazio para dentro. Elena buzinou; o homem largou o carrinho e correu. Só então ela acelerou.
 
-— Sutileza zero — disse Gabo, engatando a primeira marcha. — Vamos bater na porta. Com o para-choque.
+O Cobalt atravessou a divisória de vidro da recepção de carga. Gabo bateu o ombro imobilizado no banco e perdeu o ar. Do outro lado, uma mulher caiu entre as fichas espalhadas de uma mesa de pagamento. Não havia distintivo capaz de tornar aquele trajeto seguro depois de feito.
 
-Ele pisou fundo. O motor V8 rugiu, acordando a rua morta. O Cobalt disparou como um míssil azul.
+Elena parou o carro. A mulher se levantou com um corte no rosto e aceitou o braço de outro funcionário. Gabo pediu que saíssem pela porta da cozinha, longe dos homens que os seguiam.
 
-Os seguranças nem tiveram tempo de sacar as armas. Gabo não atropelou ninguém — ele era um policial, afinal, mesmo sem distintivo — mas atravessou a parede de vidro fosco ao lado da entrada principal com a delicadeza de um aríete.
+Valéria tirou a Caronte do estojo. Cinco cartuchos. Manteve a arma baixa, com a alça no antebraço, enquanto Elena lhe entregava a bolsa do deck. Gabo ficou com a lanterna; o braço direito não sairia da tipoia para sustentar uma escopeta.
 
-O mundo explodiu em estilhaços e gritos.
+— Saída de serviço! — ele gritou para o salão. — Não fiquem entre a gente e a escada.
 
-O carro derrapou pelo saguão de mármore falso, espalhando mesas de baccarat e jogando fichas de crédito para o ar como confete. A música eletrônica parou. O silêncio que se seguiu foi quebrado apenas pelo som do motor do Cobalt morrendo e pelo tinir de vidro caindo.
+No mezanino, Miranda tentou alcançar uma porta. O terno marrom estava rasgado no cotovelo; o rosto, inchado. A prótese direita tinha uma tala aparafusada sobre a articulação danificada. Ele estava vivo. Isso, pelo menos, podiam registrar.
 
-Gabo chutou a porta do motorista. Ele saiu, a escopeta "Caronte" descansando no ombro. Valéria saltou do outro lado, bloqueando instantaneamente os sistemas de alarme locais com um pulso EMP de curto alcance. Elena ficou na retaguarda, cobrindo os flancos.
+— Roberto!
 
-Gabo olhou ao redor. O Senador Vargas estava encolhido debaixo de uma mesa de blackjack, sua imunidade parlamentar inútil contra calibre 12. Madame Li mantinha a compostura, segurando sua taça de champanhe, embora o líquido tremesse.
+Miranda parou junto ao corrimão. Não precisava fugir de um homem que mal conseguia subir os degraus.
 
-— Ninguém sai! — rugiu Gabo. — A festa acabou.
+— O público me devolveu — disse. — Bastou alguém explicar quanto valiam as minhas senhas.
 
-Um segurança, um armário de músculos sintéticos baratos, tentou sacar uma submetralhadora. Gabo nem mirou. O disparo da Caronte atingiu o joelho do homem, pulverizando a rótula de titânio. Ele caiu gritando, o som ecoando no salão cavernoso.
+Elena ligou o gravador. A explicação dele não substituía ouvir quem o retirara do bunker.
 
-— Eu quero o gerente! — gritou Gabo, caminhando entre as mesas. Ninguém ousou respirar. — Eu quero Roberto Miranda!
+— Quem assinou sua transferência? Vilar te recebeu algemado.
 
-No mezanino, protegido por vidro à prova de balas (ou assim ele pensava), uma figura conhecida tentou se esgueirar para a saída de incêndio. O braço esquerdo da figura brilhava com um cromo novo e caro sob a luz estroboscópica de emergência.
+Miranda alisou a manga rasgada com a mão esquerda.
 
-— Val! — sinalizou Gabo.
+— Quer perguntar sobre papel ou quer chegar ao seu pai?
 
-Valéria fez um gesto cortante no ar. As travas magnéticas das portas de emergência, que Miranda havia instalado com tanta paranoia, agora se voltavam contra ele. Elas selaram com um baque surdo de caixão fechando.
+Elena anotou a pergunta que ele evitara. A presença no cassino confirmava que saíra da custódia; não explicava quem abrira a porta.
 
-Miranda olhou para a porta trancada, depois para Gabo lá embaixo. Ele sorriu, um sorriso nervoso e cheio de dentes.
+— Quero os registros de manutenção da Fundação — disse Gabo.
 
-— Gabriel! — gritou ele, abrindo os braços. — Veio jogar uma partida? Tenho dados novos, feitos de osso humano. Muito chiques.
+— Você entrou pela parede para pedir uma cópia?
 
-Gabo subiu a escada de metal, os passos pesados ressoando.
+— Seus seguranças vieram buscar a gente armados.
 
-— Quero as chaves, Roberto.
+— Não são meus. Aqui todo mundo trabalha para alguém.
 
-— Chaves? Eu tenho muitas chaves. Chaves de corações, chaves de cofres...
+Valéria ficou no início da escada, usando o poste do corrimão como apoio. Elena permaneceu perto da cozinha, de onde ainda saíam funcionários. O alarme continuava tocando. Não havia pulso que lhes entregasse o prédio inteiro.
 
-Gabo chegou ao topo da escada e apontou a escopeta para a cara de Miranda.
+Miranda levantou a mão esquerda e indicou o escritório.
 
-— As chaves dos Níveis de Fundação. O acesso de manutenção aos esgotos antigos.
+— O terminal tem as revisões. Você sabe o preço.
 
-O sorriso de Miranda vacilou.
+— O chip continua comigo. E continua fechado.
 
-— Ah. Aquelas chaves. — Ele recuou, encostando-se no parapeito. — Sabe, Gabo, você está com uma aparência horrível. A vida de fugitivo não te cai bem. O Sindicato está pagando uma fortuna pela sua cabeça.
+O ex-parceiro olhou a cicatriz no pescoço de Gabo e sorriu com a metade do rosto que ainda obedecia.
 
-— E você ia tentar coletar? — Gabo engatilhou a arma.
+— Sempre carregando coisa que não entende. Primeiro a Bia, agora o velho.
 
-— Eu? Jamais. Somos parceiros, lembra? Vargas e Moretti. A dupla dinâmica.
+— Você vendeu a unidade. Quero saber o que entregou sobre ela.
 
-— A Bia morreu — disse Gabo. — Você a matou quando vendeu nossa unidade.
+— Vendemos alguma coisa todos os dias, Gabriel.
 
-Miranda suspirou. Ele olhou para o braço mecânico.
+Ele deixou a mão esquerda cair sobre o leitor do escritório. A tela acendeu. Ao mesmo tempo, a carcaça do antebraço direito abriu uma fenda azul. Gabo reconheceu o emissor do bunker, reparado às pressas.
 
-— Era necessário, Gabo. O futuro é mecânico. Carne é fraca. Olha para você. Cansado. Velho. Quebrado.
+— Val!
 
-De repente, o braço de Miranda zumbiu. Um escudo de energia azulada se formou no ar, e ele sacou uma pistola de plasma oculta no antebraço.
+Ela já tinha visto. O disparo da Caronte atingiu a junção exposta da prótese. O braço bateu no vidro do escritório e caiu, arrastando fios. Miranda foi ao chão com sangue na camisa e fluido escuro na manga. O campo de energia não chegou a fechar.
 
-Mas Gabo não esperou. Ele não hesitou. Ele não teve um monólogo moral.
+Gabo se abaixou com dificuldade, mantendo distância do emissor. Não havia como dizer olhando quanto dano a conexão arrancada fizera ao corpo.
 
-Ele disparou.
+— Chama atendimento — pediu a Elena.
 
-Não na cabeça, mas no ombro mecânico. O tiro da "Caronte" era devastador a curta distância. O impacto jogou Miranda contra a parede, destruindo a articulação do braço biônico. O membro caiu no chão, soltando faíscas.
+— Já chamaram — respondeu ela. Um funcionário estava ao telefone, atrás do balcão. — Não pisa nele.
 
-Miranda gritou, segurando o toco do ombro.
+Gabo tinha começado a avançar. Parou com a sola junto da mão de Miranda.
 
-— SEU LOUCO! ISSO CUSTOU MAIS QUE SUA VIDA!
+— O terminal — disse Valéria. — A sessão está aberta. Não vou entrar na cabeça dele.
 
-Gabo pisou no peito de Miranda, prendendo-o contra o chão sujo. Ele encostou o cano quente da escopeta na testa do ex-parceiro.
+Conectou o deck à porta do escritório. Aria apareceu apenas como voz, alimentada pelo mesmo aparelho. O diretório oferecia plantas, revisões e exportação de permissões. A primeira tentativa de copiar as chaves foi negada.
 
-— Os códigos. Agora. Ou o próximo tiro espalha o que sobrou da sua mente brilhante nessa parede.
+Miranda respirava em golpes curtos.
 
-Miranda choramingava, a arrogância drenada junto com o fluido hidráulico do braço perdido.
+— Me deixa aqui e leva uma rota velha.
 
-— Está... está no chip! No meu pescoço!
+Gabo pediu ao funcionário uma toalha limpa e a entregou para manterem pressão onde a camisa encharcava. O homem não quis dar o nome. Elena registrou a recusa sem insistir diante da câmera do teto.
 
-Gabo olhou para Valéria, que havia subido as escadas. Ela se ajoelhou e conectou um cabo diretamente na porta neural atrás da orelha de Miranda.
+— O atendimento está vindo — disse Gabo. — Autoriza a cópia.
 
-Os olhos de Miranda reviraram.
+Miranda encostou a mão esquerda no leitor. Valéria exportou a revisão e o acesso de manutenção separadamente. A permissão podia ser revogada; o mapa podia estar incompleto. Ela guardou os dois com o horário e o número do terminal, sem abrir os demais arquivos dos clientes.
 
-— Estou extraindo — disse Val, fria. — Mapas de esgoto, códigos de acesso de emergência, rotas de contrabando... Peguei.
+— O velho tentou parar — disse Miranda quando o cabo saiu.
 
-Ela desconectou o cabo.
+— Você viu?
 
-— Podemos ir, Gabo.
+— Vi ordem de não mexer na nuca. Tem alguma coisa ali que eles não conseguiram limpar.
 
-Gabo olhou para Miranda, que tremia no chão, um patético amálgama de carne e metal quebrado.
+— Uma trava?
 
-— Você ia me vender — disse Gabo, a voz desprovida de emoção. — De novo.
+— Um erro. Um caminho de volta. Chama do que quiser. Se matar o Dante, você mata a cidade junto.
 
-Miranda cuspiu um dente ensanguentado. Um riso borbulhante escapou de seus lábios.
+Gabo não conseguiu obter a origem daquela afirmação. Miranda repetiu que a casa sempre ganhava e pediu que alguém afastasse o braço de metal da sua vista. O aviso ficaria como depoimento de um homem interessado em continuar necessário.
 
-— É a natureza do jogo, Gabo. Alguém sempre tem que perder para que o outro possa ganhar.
+Quando saíram, dois funcionários permaneciam com ele. Miranda ainda respondia ao próprio nome. Elena deixou o número do chamado anotado junto da cópia da gravação. Não tinham confirmado prisão, tratamento ou proteção; também não tinham deixado um cadáver demonstrado para trás.
 
-Gabo se afastou, o som de seus passos ecoando a finalidade da coisa. *Não hoje.*
+Do acesso de carga levaram o carrinho abandonado. Valéria acomodou o estojo do Leviatã nele antes de seguirem para os túneis. A Caronte tinha quatro cartuchos; a Glock, ainda na bolsa, cinco. Elena ficou ao volante até o ponto de descida. Gabo não pediu a chave.
 
-— Gabo! — A voz de Miranda era um gorgolejo úmido. Ele tossiu sangue preto. — O velho... Dante... ele tentou parar.
-
-Gabo parou e olhou para trás, encarando o ex-parceiro uma última vez.
-
-— O que está lá embaixo, Roberto? O que guarda a fundação?
-
-Miranda riu, um som que se transformou em um acesso de tosse violenta.
-
-— Os erros! Os protótipos que a Aeterna não conseguiu controlar! A primeira tentativa deles de um "anjo da guarda". Eles estão com fome, Gabo! E eles se lembram de seu criador!
-
-Ele respirou fundo, o ar chiando nos pulmões perfurados.
-
-— O código... no pescoço do Dante... — Miranda continuou, a voz falhando. — Ele inseriu um erro. Um backdoor. Ele sabia que ia perder a cabeça. Ele queria que alguém desligasse. Ele queria... dormir.
-
-— Desligar como? — perguntou Gabo.
-
-— Se você matar o Dante, você mata a todos nós. — Miranda tossiu, e o riso saiu quebrado no meio. — O código tá no pescoço dele. Sem o velho, a cidade não acorda amanhã. É isso que ninguém te contou, Gabriel. Ser herói aqui é escolher quem morre depois.
-
-Miranda caiu para trás, os olhos fixos no teto sujo do cassino.
-
-— Aposto... no vermelho... — ele sussurrou, e o brilho em seus olhos se apagou.
-
-Gabo fechou os olhos por um segundo.
-
-— A casa ganhou dessa vez — murmurou ele.
-
-Ele desceu as escadas, Valéria em seu encalço, deixando o corpo de Miranda para os abutres que certamente viriam.
-
-Elena já estava no volante do Cobalt quando eles saíram.
-
-— Conseguiram? — perguntou ela.
-
-— Sim — disse Gabo, entrando no carro. — Vamos para o inferno.
-
-Enquanto o Cobalt se afastava na chuva, Gabo olhou pelo retrovisor. As luzes de viaturas da polícia se aproximavam do "Palácio de Jade". Mas Miranda já estava além da jurisdição do Capitão Vilar.
-
-Gabo sentiu o peso do que estava por vir. As palavras de Miranda, seu último momento de clareza distorcida, cravaram-se em sua mente.
-
-*Se você o matar... você mata a todos nós.*
-
-A viatura passou por eles com a sirene apagada. O policial ao volante virou a cabeça e olhou o Cobalt por dois segundos a mais do que devia. Gabo acelerou, e ninguém no carro perguntou para onde.
+Na tela sobre a entrada, o cassino já exibia o Cobalt atravessando o vidro. O enquadramento terminava antes dos seguranças armados.

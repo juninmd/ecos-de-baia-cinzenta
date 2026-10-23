@@ -1,10 +1,17 @@
-# Análise Crítica - Capítulo 169
+# Revisão de Capítulo 169: O Fantasma na Máquina de Carne
 
-## Consistência de Personagem (Lore)
-- **Gabo:** Excelente descrição de como a fobia afeta Gabo em forma de terror somático (frio interior, sufocamento, tabaco de Dante). A quebra dessa asfixia através do esmagamento do coto queimado contra a mesa de aço reflete plenamente a conduta de automutilação focada do personagem para manter a clareza.
+Fonte: [capítulo 169](/capitulo-169.md).
 
-## Trama e Continuidade
-- Setor de *Wetware* orgânico no Subnível 2.0 sendo acessado.
+O documento de 2019 com iniciais de Dante precede o cativeiro. Gabo preserva imagens, mas escolhe desligar um suporte sem conhecer toda a consciência ali mantida.
 
-## Conclusão da Revisão
-**Aprovado.**
+## Passagens de entrada e saída
+
+> O zumbido dos aquecedores de suporte à vida era a única pulsação em todo o Arquivo Executivo.
+
+### Saída
+
+> Sujeito 01. Nome desconhecido. Indigente, 2019. Autorizado por D. Moretti.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

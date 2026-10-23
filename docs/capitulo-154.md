@@ -1,11 +1,10 @@
-## Metadados
-- **Título:** A Otimização do Abismo
-- **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
-- **Localização:** Necrópole (Subnível 4.5 - Poço do Elevador de Carga)
-- **Personagens Presentes:** Gabo, Valéria, Aria (Reboot)
-- **Resumo:** Escalando os cabos do poço do elevador de carga no Subnível 4.5, Gabo e Valéria são perseguidos por três unidades de caça pesada do Taxidermista. Através dos sensores do deck de Valéria, o pendrive de Aria identifica um contrapeso de cento e quarenta toneladas retido por duas travas independentes. Enquanto Valéria e Aria disparam um pulso elétrico remoto pela garra magnética do deck para soltar o relé secundário, Gabo usa o peso do próprio corpo para acionar a alavanca mecânica primária, esmagando os perseguidores no abismo.
-
-## Narrativa
+---
+title: "Capítulo 154: A Otimização do Abismo"
+Data In-Game: "Pós-Colapso da Usina Prometeu (Noite Eterna)"
+Localização: "Necrópole (Subnível 4.5 - Poço do Elevador de Carga)"
+Personagens Presentes: "Gabo, Valéria, Aria (Reboot)"
+description: "O esforço e a queda fraturam o braço direito de Gabo. A lesão continua presente; nenhum ganho mecânico substitui a função perdida."
+---
 
 # Capítulo 154: A Otimização do Abismo
 
@@ -13,7 +12,7 @@ O vapor superaquecido da purga térmica havia ficado para trás, substituído po
 
 A caçada havia começado de verdade. O som das unidades de caça pesada do Taxidermista não era um alarme ou um rugido, era uma vibração profunda que ressoava através do metal do poço. Era o compasso lento de pistões hidráulicos esmagando tudo em seu caminho.
 
-Gabo estava agarrado a um dos cabos de sustentação secundários, os braços envolvendo o aço entrelaçado com a força desesperada de um homem à beira da morte. A plataforma do elevador não existia mais — provavelmente havia despencado décadas atrás, no Dilúvio — deixando apenas o abismo e a estrutura ao redor.
+Gabo estava preso por uma cinta de segurança à guia lateral, usando os apoios de inspeção ao lado de um dos cabos de sustentação, os braços envolvendo o aço entrelaçado com a força desesperada de um homem à beira da morte. A plataforma do elevador não existia mais — a guia trazia uma placa de interdição anterior ao Dilúvio — deixando apenas o abismo e a estrutura ao redor.
 
 O cheiro pútrido de cigarro tentou subir por sua garganta, uma alucinação olfativa persistente de seu cérebro privado de sangue. Ele podia ver a brasa vermelha do legista anos atrás, sentir a fumaça rascante que impregnava a pele de Bia no necrotério. Para combater a náusea avassaladora, Gabo apertou ainda mais o aperto ao redor do cabo de aço encharcado de óleo.
 
@@ -33,7 +32,7 @@ Um estrondo surdo interrompeu sua frase. As paredes de concreto armado abaixo de
 
 No pulso de Valéria, o pendrive blindado de titânio aqueceu enquanto Aria varria a estrutura do poço acima com o feixe laser do *Phantom V3*, focando em um conjunto de enormes freios de emergência acoplados à parede de sustentação primária.
 
-— *A infraestrutura deste poço de carga possui contrapesos de alta densidade retidos por travas de segurança em desgaste terminal no nível 4.8, quatro metros acima de vocês,* — ela declarou com frieza analítica. — *A liberação simultânea destas travas causará a queda livre de cento e quarenta toneladas de lastro metálico diretamente sobre a rota de ascensão primária das unidades hostis.*
+— *A infraestrutura deste poço de carga possui contrapesos de alta densidade retidos por travas de segurança em desgaste terminal no nível 4.8, quatro metros acima de vocês,* — ela declarou com frieza analítica. — *A liberação simultânea destas travas causará a queda livre de quatorze toneladas de lastro metálico diretamente sobre a rota de ascensão primária das unidades hostis.*
 
 — Então... vamos destravar essa merda! — Gabo gritou, sentindo as paredes tremerem novamente, desta vez muito mais perto. O cheiro de ozônio e metal moído subia das profundezas.
 
@@ -55,7 +54,7 @@ Valéria hesitou por um segundo, então o olho cibernético se fixou na caixa de
 
 Ela parou de escalar. Envolveu as pernas no cabo de aço e travou o quadril com um grito de esforço. Com a mão trêmula, verificou o encaixe firme do pendrive de Aria no terminal de pulso e disparou o cabo com garra magnética do *Phantom V3* em direção ao painel enferrujado a seis metros de distância. O ímã bateu com um clique surdo contra o metal oxidado da caixa secundária.
 
-— *Tempo para interceptação hostil:* — a voz de Aria contava no comunicador enquanto seu drive fervia no pulso de Valéria, canalizando toda a carga da bateria do deck pelo fio esticado. — *Vinte e dois segundos.*
+— *Tempo para interceptação hostil:* — a voz de Aria contava no comunicador enquanto seu drive fervia no pulso de Valéria, comandando o circuito de teste da caixa por dois contatos separados da garra. A energia vinha da fonte local indicada no painel; encostar um ímã na carcaça não teria acionado a bobina. — *Vinte e dois segundos.*
 
 O estrondo ensurdecedor da primeira garra da unidade hostil cravando na parede logo abaixo deles lançou lascas de concreto pelo ar. O cheiro de morte e metal quente saturou o ambiente.
 
@@ -81,4 +80,4 @@ Gabo cuspiu sangue e poeira, os olhos semicerrados focando-se no pequeno LED azu
 
 — *Ameaça imediata suprimida. A rota de acesso para o Subnível 4.0 está desobstruída,* — Aria informou monotonamente pelo comunicador. — *Otimização bem-sucedida. Vamos prosseguir.*
 
-Gabo encarou a escotilha superior a poucos metros, sentindo a dor excruciante de suas mãos espantar os demônios persistentes da fumaça. Eles haviam sobrevivido por um triz, mas ele sabia que o vazio frio dentro do pendrive de Aria, sua total falta de humanidade após o reboot, era a coisa mais assustadora daquele poço profundo. E ainda assim, aquela IA era o único mapa para chegar ao topo.
+Gabo encarou a escotilha superior a poucos metros, sentindo a dor excruciante de suas mãos espantar os demônios persistentes da fumaça. Eles haviam sobrevivido por um triz, mas ele sabia que o vazio frio dentro do pendrive de Aria, a dificuldade de reconhecer a parceira naquela síntese de emergência, era a coisa mais assustadora daquele poço profundo. E ainda assim, aquela IA era o único mapa para chegar ao topo.

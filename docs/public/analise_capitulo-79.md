@@ -1,18 +1,18 @@
-# Análise Crítica - Capítulo 79
+# Revisão de Capítulo 79: Frequências Fantasmas
 
-## Avaliação Técnica
-- Ritmo: 9/10
-- Diálogos: 9/10
-- Atmosfera: 8/10
+Fonte: [capítulo 79](/capitulo-79.md).
 
-## Pontos Fortes e Fracos
-- Fortes: Excelente utilização da inteligência retro/tecnologia analógica (rádio de ondas curtas) para superar a super-digitalização cegante de Aria, respeitando as raízes do protagonista que valoriza o obsoleto e o pragmático. A transmissão sinistra expande maravilhosamente a ameaça do "Jardim". A volta da voz de Roberto Miranda como um eco macabro é um bom gancho.
-- Fracos: N/A.
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-## Sanity Check (Lore)
-- Fobia de Fumaça: Nenhuma menção a fumo, cigarro ou charuto foi encontrada ou referenciada.
-- Limitações Físicas: Sem quebras; a cena se passa em ambiente fechado de investigação.
-- Consistência de Valéria e Outros: A transição de Aria lidando com a sobrecarga de informações que não pode processar é extremamente bem feita, com Valéria brilhando ao recorrer ao rádio de ondas curtas.
+## Passagens de entrada e saída
 
-## Avaliação Qualitativa
-Capítulo com alto impacto narrativo e ótima evolução do escopo do conflito. A dualidade entre o "digital limpo" e a "verdade suja analógica" amarra tematicamente a transição para o novo arco antagonista biológico. O elenco permanece consistente e essencial.
+> Apartamento da Val — 14h30.
+> O som era insuportável e a Val estava adorando. Chiado de fundo, estalo, um zumbido grave que ia e voltava conforme ela girava o dial um milímetro. Vinte e dois minutos daquilo, num apartamento fechado, no calor. Gabo andava de um lado para o outro do cômodo, o que com duas órteses produzia um ranger a cada dois passos.
+
+### Saída
+
+> — É convite. E convite a gente aceita.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

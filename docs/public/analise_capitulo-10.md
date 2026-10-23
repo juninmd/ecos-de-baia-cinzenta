@@ -1,28 +1,38 @@
-# Análise Crítica - Capítulo 10
+# Parecer — Capítulo 10: A Fábrica de Sorrisos
 
-## Metadados
-- **Capítulo:** 10 (A Fábrica de Sorrisos)
-- **Status:** Revisado
-- **Data da Revisão:** Atual
+Revisão de 21/10/2026. Leitura da fonte [atual](/capitulo-10.md), do
+[anterior](/capitulo-9.md) e do [seguinte](/capitulo-11.md).
+Prosa e espelho sincronizados; nota editorial não é nota do script lexical.
 
-## Autoavaliação Técnica
-- **Ritmo:** 9/10
-- **Diálogo:** 8/10
-- **Atmosfera:** 10/10
+## Mudanças e personagens
 
-## Pontos Fortes e Fracos
-- **Pontos Fortes:** O horror corporal ("A Fábrica de Sorrisos") é perturbador e muito bem executado, ilustrando a distopia hiper-conectada onde humanos viram terminais vivos ("Engajamento Biológico").
-- **Pontos Fracos:** A destruição da fábrica usando a esteira foi um pouco conveniente, mas serviu ao propósito catártico da cena.
+A entrada ocorre por percepção de vida em risco, com apoio solicitado. Uma mulher
+é retirada da esteira e segue ao atendimento em 11. A escolha letal da prensa
+e o incêndio continuam, com responsabilidade atribuída aos protagonistas. Os
+atingidos mantêm condição humana; reação motora não demonstra ausência de dor.
+A prova é preservada com o registro dos atos de Gabo e Valéria.
 
-## Qualidade da História e Coerência de Personagens
-A história neste capítulo se mostra de excelente qualidade (Ritmo 9/10, Atmosfera 10/10). A introdução da "Fábrica de Sorrisos" constrói um horror biológico e tecnológico cyberpunk profundo, expandindo a exploração de lobotomia e subserviência à Rede. A cena atinge o nível esperado de visceralidade.
+## Portões
 
-- **Gabriel Moretti:** Extremamente coerente. Sua reação inicial de pragmatismo investigativo é testada pela repulsa orgânica. Durante o combate brutal, ele sofre luxação no ombro (dor física), que o ancora na realidade, uma resposta comum do personagem ao lidar com oponentes que não sentem dor. Não há fumaça de cigarro ou gatilhos da fobia presentes. A menção a "fumaça química" no início e o incêndio final são bem isolados de seus traumas.
-- **Valéria Cruz:** Coerente. Apresenta vulnerabilidade inicial (mancando pelo tornozelo torcido) mas entrega extrema competência técnica ("hackear" a prensa hidráulica sob pressão), estabelecendo-a como o contrapeso digital perfeito para a brutalidade analógica de Gabo.
-- **Aria:** A representação ciber-espiritual dela permanece coerente ("gritando em silêncio", notando o terror existencial da carne mecanizada).
-- **Necessidade de novos personagens:** Não identificada. O ambiente e as vítimas (como horda) preenchem a necessidade antagonista do capítulo. A história não exige novas adições neste estágio narrativo; focar na sobrevivência de Gabo e Valéria é ideal.
+| Critério | Resultado |
+| --- | --- |
+| D1 | 1.279 palavras de prosa; dentro do alvo |
+| D2 | Um H1, igual ao menu |
+| D3 | Local, pessoas presentes e participações indiretas separados |
+| D4 | Estado corporal, hardware e identidades conferidos no bloco; pendências globais abaixo |
+| D5 | A sobrevivente permite que Gabo feche o cinto |
 
-## Sanity Check (Coerência de Lore)
-1. **Gabo demonstrou aversão a fumaça de cigarro?** Sim. O termo "fumaça química" no início foi revisado anteriormente no planejamento do usuário para "névoa tóxica" para isolar o gatilho, embora como fumaça química já não acionasse a fobia específica pelo cigarro do pai. Ele combateu ancorado na dor do ombro.
-2. **A "Fábrica de Sorrisos" se alinha com o Cyberpunk Noir da história?** Totalmente. Mistura biotecnologia imoral com a obsessão digital.
-3. **A destruição do ambiente corrompe a prova?** Gabo não se importa em perder as provas; ele frequentemente queima lugares corrompidos (como no Lixão de Ossos, e no arco da incineração).
+## Notas de leitura
+
+Atmosfera 2: calor, formol, movimento e som da prensa interferem. Custo 2:
+mortes e destruição permanecem. Voz 2: hesitação de Valéria, declaração de Gabo
+e gestos da vítima têm função. Ritmo 2: informações chegam durante a tentativa
+de interromper a linha. Consequência 1: amplia a exploração observada. Total: 9/10.
+
+## Limites e continuidade
+
+Quantidade de mortos e destino das demais pessoas ainda exigem investigação.
+Resgatar uma pessoa não encerra a responsabilidade pelas outras. O registro
+extraído não prova ausência de consciência. A sobrevivente não é declarada curada.
+
+Veredito: revisão local aplicada. Aprovação integral do arco permanece pendente.

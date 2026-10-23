@@ -9,13 +9,15 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 O fundo do poço nos recebeu com a indiferença gélida de uma câmara mortuária anterior à própria história. Não houve impacto dramático; apenas o baque surdo dos meus coturnos sobre a laje de concreto usinado de alta densidade. O som ecoou na vastidão confinada, seco, pesado e sem retorno. Apoiei o peso na perna boa, enquanto a armação industrial de sucata instalada por Vasco para sustentar a fratura puxava meu ombro com uma fisgada aguda de cansaço. A carne costurada ardia sob as bandagens sujas, onde os pontos continuavam sangrando em silêncio. As cicatrizes do Dilúvio queimavam como brasa viva; tanta gente morreu naquela enchente maldita e eu perdi quase tudo o que chamava de vida, mas a agonia física servia apenas para manter meus sentidos despertos e focados.
 
-— Chegamos ao leito de pedra, — anunciei, a voz raspando na garganta ressecada pelo ar denso e rarefeito.
+— Chegamos ao leito de pedra, — anunciei, a voz raspando na garganta ressecada pelo ar seco e carregado de poeira.
 
 Atrás de mim, Elias desabou sentado sobre um caixote de ferramentas de metal rebitado, com as mãos trêmulas apoiadas nos joelhos. O garoto respirava em golfadas curtas, os olhos arregalados encarando a escuridão imensa que nos cercava.
 
 — O ar... o ar parece chumbo na garganta, Gabo, — murmurou ele, engolindo em seco. — Parece que a terra inteira tá fazendo força pra esmagar a nossa cabeça.
 
-— É a pressão geológica de quatrocentos metros de rocha, basalto e cidade morta acima de nós, Elias, — Valéria explicou, descendo da plataforma da gaiola com passos ágeis e firmes. A lanterna de seu cyberdeck cortava a penumbra, e os fios holográficos azuis da franja desenhavam círculos luminosos na poeira estática suspensa no ar. Ela bateu a mão enluvada no ombro do garoto, um gesto firme e caloroso que desarmou o pânico dele. — Seus pulmões acostumam em cinco minutos. Levanta, garoto. Você desceu o poço como um herói, agora não vai travar na porta da festa.
+— O peso da rocha está nos suportes, Elias, não nos seus pulmões. — Valéria agachou diante dele e manteve a lanterna baixa. — A descida foi rápida e você está respirando curto. Senta um pouco. Se continuar ruim, voltamos ao elevador.
+
+Ficamos parados até ele conseguir me dizer o próprio nome sem buscar ar no meio. Não era uma vitória sobre o medo; era só o direito de não ser arrastado por nós.
 
 Elias soltou um riso nervoso, enxugou o suor gélido da testa com a manga e se pôs de pé, firmando o cinto de ferramentas na cintura.
 
@@ -35,25 +37,23 @@ A estrutura ocupava toda a extensão do vão. Era uma porta de explosão ciclóp
 
 Aproximei-me do volante de metal forjado. Tinha quase um metro e meio de diâmetro, com raios grossos de ferro fundido cobertos por graxa seca de vedação.
 
-— A gente vai precisar de alavanca de novo, — disse Elias, examinando as linguetas de pressão nos cantos superiores. — Os pinos de travamento tão selados por vácuo pneumático. Se alguém girar a válvula de purga de ar primeiro, o vácuo se desfaz e o volante gira com a força manual.
+— A gente vai precisar de alavanca de novo, — disse Elias, examinando as linguetas de pressão nos cantos superiores. — O indicador mostra pressão maior do lado de dentro. Precisamos equalizar pela derivação antes de mexer no volante.
 
 — Boa observação, garoto, — aprovei, apontando com a *Caronte* para uma tubulação de cobre que corria paralela à moldura. — A válvula de purga é aquela manopla de bronze ali em cima. Val, você alcança?
 
-— Se você me der um apoio de pé com essa mão de ferro, eu alcanço até a lua, detetive, — ela respondeu com um sorriso audacioso.
-
-Entrelacei os hastes de metal da armação, abaixando-me para servir de estribo. Valéria apoiou a bota na minha mão de sucata com a leveza de quem passou a vida escalando marquises; ergui o braço postiço com o impulso hidráulico dos servos, lançando-a até a altura do registro de bronze.
+— Alcanço pelo estribo de inspeção. — Valéria apontou dois apoios embutidos no batente. Elias segurou a escada curta do armário de ferramentas enquanto ela subia. Minha armação ficou baixa; o osso não tinha sido feito para içar outra pessoa.
 
 Ela cravou o pé de cabra na alavanca e puxou para baixo com todo o peso do corpo.
 
 Um silvo ensurdecedor de ar comprimido rasgou o silêncio da caverna, como uma serpente colossal despertando de um sono de cem anos. Jatos de vapor limpo escaparam das válvulas de alívio, soprando nuvens de poeira prateada que dançaram no ar morto.
 
-— Vácuo purgado! — gritou Valéria, saltando de volta para o piso com um giro perfeito. — O peso tá livre, Moretti!
+— Pressão equalizada! — gritou Valéria, saltando de volta para o piso com um giro perfeito. — O peso tá livre, Moretti!
 
 Agarrei os raios do volante central. Elias correu e travou as mãos ao lado das minhas.
 
 — No três! — comandei. — Um... dois... gira!
 
-Puxamos a roda de manobra em sentido horário. O motor da minha armação de Vasco rugiu sob o esforço, os parafusos na minha clavícula puxando a carne viva com uma ferroada que me fez cerrar os dentes até ranger os molares. Lembro de provações parecidas no Dilúvio, quando o concreto cedia e a gente quebrou as próprias mãos pra salvar os sobreviventes; a dor era uma velha conhecida, a prova irrefutável de que eu ainda respirava e comandava o próprio corpo.
+Puxamos a roda de manobra em sentido horário. O motor da minha armação de Vasco rugiu sob o esforço, os parafusos na minha clavícula puxando a carne viva com uma ferroada que me fez cerrar os dentes até ranger os molares. Lembro de provações parecidas no Dilúvio, quando o concreto cedia e a gente quebrou as próprias mãos pra salvar os sobreviventes; a dor era conhecida, mas não me dava controle nenhum: precisei soltar o volante para Elias terminar a volta.
 
 O metal rangeu com um gemido profundo e prolongado de engrenagens de bronze deslizando em guias perfeitas.
 

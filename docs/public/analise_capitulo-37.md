@@ -1,16 +1,17 @@
-# Análise do Capítulo 37: A Linha Azul
+# Revisão de Capítulo 37: A Linha Azul
 
-## Avaliação Técnica
-- Ritmo: 9/10
-- Diálogos: 8/10
-- Atmosfera: 9/10
+Fonte: [capítulo 37](/capitulo-37.md).
 
-## Pontos Fortes e Fracos
-- Fortes: Ação visceral e tática policial bem conduzida. O uso de armamento analógico/químico (gás denso) em vez de digitalização de armas mantém a estética de resistência bruta da equipe.
-- Fracos: O capítulo é um pouco curto, mas eficiente em seu propósito.
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-## Verificação de Sanidade (Lore Compliance)
-- A palavra "fumaça" (relacionada à nuvem branca) foi revisada e trocada para "gás denso" para afastar o leitor do gatilho de fobia primária do protagonista. Gabo age puramente de forma física, sofrendo as dores reais do combate para se manter focado.
+## Passagens de entrada e saída
 
-## Avaliação Qualitativa
-A história se mantém excelente, a tensão é bem escalonada sem requerer novos personagens, consolidando a união do grupo.
+> O primeiro coquetel bateu na barricada de concreto às 00h40.
+
+### Saída
+
+> Atrás dele, dentro do prédio, trinta e um policiais começaram a chamá-lo de senhor.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

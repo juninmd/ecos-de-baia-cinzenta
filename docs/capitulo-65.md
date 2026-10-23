@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: "Capítulo 65: O Novo Inquilino"
-description: "Gabo não consegue atirar no irmão sem destruir o drive da Aria. Então atira na água — e descobre quem realmente é o dono da cidade."
+description: "A tubulação de retorno rompida muda a cabine e a rota de saída. As leituras parciais não permitem assegurar o destino de todos os padrões ligados à instalação."
 image: /cidade.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Marco Moretti, Aria, Roberto Miranda
 Localização: "O Núcleo — Momento Zero"
@@ -9,8 +9,7 @@ Localização: "O Núcleo — Momento Zero"
 
 # Capítulo 65: O Novo Inquilino
 
-**O Núcleo — Momento Zero.**
-
+O Núcleo — Momento Zero.
 O pedestal da matriz de interface ficava no centro exato da sala, e não parecia equipamento de guerra. Esse era o detalhe insuportável.
 
 Era uma coluna de vidro escovado e aço cirúrgico, com acabamento de clínica de luxo, iluminação indireta suave e um único slot de recepção neural banhado a ouro no topo. Alguém tinha contratado um designer de interiores para desenhar o altar onde quarenta mil consciências seriam acorrentadas, e essa elegância era, de longe, a coisa mais obscena daquele prédio inteiro.
@@ -75,97 +74,27 @@ Gabo estava com a mão direita quebrada embaixo do sapato do irmão, o ombro dir
 
 Ele tateou o chão com a mão esquerda.
 
-Encontrou metal.
+Encontrou a Caronte junto da base do pedestal. O ombro direito não responderia; manteve a arma sobre o chão com a esquerda e procurou uma linha que não terminasse no módulo.
 
-A *Leviatã* — o lançador modular que ele tinha arrastado pelo duto de escoamento e que estava vazio havia dois dias, porque a última carga tinha ido no portão do Cais Três.
+A tubulação de retorno atravessava a parede junto da entrada. Gotejava desde que tinham chegado. Não era o lançador abandonado na Torre voltando às suas mãos; era um cano pressurizado que não conseguiria alcançar para fechar.
 
-Vazio, não.
+— Val, o armário!
 
-Sobrou uma. A que ele nunca usava, porque não servia para nada em campo aberto: a carga EMP.
+Ele disparou contra a junção corroída. O jato abriu com o estrondo de metal sob pressão e atingiu as fixações já molhadas da cabine. A água de retorno trouxe sujeira e fragmentos para dentro; o piso começou a desaparecer sob ela. O refrigerante das piscinas permaneceu nos tanques — não era um oceano suspenso do outro lado do vidro.
 
-Ele não podia atirar no Marco. O Marco estava encostado no pedestal central, e o cone direto de pulso eletromagnético à queima-roupa fritaria os setores abertos do pendrive da Aria no meio da transferência desprotegida.
+Miranda perdeu apoio ao tentar proteger o rosto. Marco recuou contra o console, tirando o peso da mão de Gabo. Val alcançou o armário indicado antes, recolheu os aparelhos de resgate e tentou voltar ao pedestal. A pressão já empurrava papéis, ferramentas e partes do teto sobre quem estava no chão.
 
-Não podia atirar no Miranda pelo mesmo motivo.
+Gabo não tinha pernas para nadar ou braço para enfrentar a corrente. A água cobriu sua boca quando a mesa deslocada prendeu a órtese. Ergueu a cabeça até encontrar um palmo de ar sob a borda e chamou por Val. Ela tentou afastar a mesa; precisou mudar o apoio, perdendo segundos que nenhum dos dois tinha em reserva.
 
-Ele virou a cabeça, procurando qualquer outra coisa, e encontrou a parede.
-
-A parede da sala de controle era o vidro blindado de doze centímetros que separava aquele cômodo do salão das piscinas — e do outro lado do vidro havia oito milhões de litros de fluorcarbono a sessenta graus.
-
-Gabo olhou aquilo e fez uma conta que não fecharia em nenhum lugar do mundo, exceto ali.
-
-Ele girou o corpo no chão com o braço esquerdo e apontou o tubo para o vidro.
-
-— **MARCO!**
-
-O prefeito virou.
-
-Ele viu o irmão caído, ensanguentado, apontando um tubo de lançador para uma parede, e o rosto dele fez uma coisa que Gabo guardou com prazer pelo resto da vida: ficou confuso.
-
-— O que você vai fazer com um cano vazio, Gabriel?
-
-— Vou te dar um banho.
-
-Ele puxou o gatilho.
-
----
-
-A carga não explode. Isso é o que quase ninguém entende sobre EMP: não há fogo, não há estilhaço. Há um pulso.
-
-O pulso atingiu o vidro blindado e não fez nada com o vidro.
-
-Fez com as **fixações**.
-
-Doze centímetros de vidro daquele tamanho não são segurados por moldura: são segurados por trinta e seis grampos eletromagnéticos de retenção ativa, um sistema caro e elegante que mantém a placa sob compressão constante e compensa a dilatação térmica em tempo real.
-
-Ativa. Ou seja: alimentada.
-
-Os trinta e seis grampos soltaram ao mesmo tempo.
-
-O vidro não estilhaçou. Ele **caiu para dentro**, inteiro, uma placa de nove toneladas girando devagar no ar — e atrás dela veio o oceano.
-
----
-
-O som foi o fim de uma coisa.
-
-A parede de fluorcarbono entrou na sala de controle com pressão de coluna e varreu tudo: consoles, cadeiras, gente, a mesa de vidro, o carrinho de ferramentas.
-
-Marco foi arremessado contra a parede oposta e desapareceu na espuma.
-
-Miranda perdeu o apoio no pedestal e foi levado de lado, batendo em duas colunas no caminho.
-
-Servidores expostos começaram a estourar em série — pop, pop, pop-pop-pop —, cada um soltando um clarão azul curto debaixo do líquido, e o salão inteiro virou uma tempestade elétrica silenciosa vista de dentro de uma garrafa.
-
-Gabo foi submerso.
-
-O líquido era gelado onde tocava a pele e quente onde vinha das piscinas, e as duas coisas ao mesmo tempo, e ele não conseguia respirar e não conseguia se orientar e a órtese esquerda travada funcionava como uma âncora amarrada na perna.
-
-Ele nadou assim mesmo.
-
-Com o braço bom. Com dois dedos quebrados. Na direção do pedestal central.
-
----
-
-Debaixo do líquido ele viu o pendrive da Aria.
+Acima do nível que subia, ele viu o pendrive da Aria.
 
 O pequeno bloco de titânio ainda estava cravado no slot do pedestal. E, pelos cabos transparentes de fibra que subiam dele, passava alguma coisa que dava para ver a olho nu: um feixe de luz correndo do módulo para o teto, contínuo.
 
 O LED duplo do pendrive estava aceso no máximo — um arco azul elétrico e outro âmbar dourado —, iluminando o fluorcarbono em volta num raio de um metro.
 
-Gabo alcançou a trava mecânica do slot e puxou.
+Val conseguiu aliviar a mesa o bastante para ele girar o tronco. Estendeu a mão esquerda até a trava, usando a base do pedestal como apoio. O encaixe continuava bloqueado pela sessão. A visão ficou pontilhada; no visor, o último quadro da câmera se repetiu.
 
-Não soltou. Puxou de novo, com a mão boa, apoiando os pés na coluna de aço, com o que sobrava dele, e não soltou, e o ar dele acabou.
-
-E o mundo parou.
-
----
-
-Não é força de expressão.
-
-A água parou.
-
-Os destroços que giravam ao redor dele ficaram imóveis no meio do giro. Uma bolha de ar que subia parou a quarenta centímetros do rosto dele e ficou lá, oval, perfeita. Uma faísca de curto-circuito ficou pendurada no escuro como um alfinete de luz.
-
-Gabo estava submerso, sem ar, no meio de uma sala congelada, e conseguia pensar com uma clareza absurda.
+Não era o mundo parado. A água batia contra a mesa enquanto a imagem permanecia imóvel diante dos olhos. O fluxo da interface tinha congelado e o áudio continuava aberto.
 
 E uma voz falou pelo transdutor ósseo do comunicador dele.
 
@@ -175,7 +104,7 @@ Não era o sintetizador da Aria. Era mais velha. Era grave, cansada e educada, e
 
 ---
 
-O terminal do canto ainda funcionava debaixo do líquido, porque terminal de sala de núcleo é feito para funcionar submerso — é o único cômodo do prédio projetado para alagar.
+O terminal selado do canto ainda funcionava acima do piso coberto. A imagem do registro chegou ao visor por alguns segundos, antes de falhar outra vez.
 
 Gabo virou a cabeça e leu a tela.
 
@@ -187,8 +116,7 @@ Não era Consórcio Lázaro, nem Aeterna Prime, nem Entidade Alpha-Zero.
 
 Em letras verdes de fósforo, na fonte padrão de um sistema de registro imobiliário municipal:
 
-**PROPRIETÁRIO: DANTE MORETTI.**
-
+PROPRIETÁRIO: DANTE MORETTI.
 Gabo olhou para o pendrive de titânio cravado no pedestal.
 
 A trava magnética clicou e liberou o módulo, com o LED azul-dourado pulsando suavemente na palma da mão dele debaixo d'água.
@@ -197,4 +125,4 @@ O pai dele não tinha apenas morrido.
 
 Ele tinha virado o endereço.
 
-A água voltou a se mover, e a escuridão engoliu tudo.
+O visor apagou. A água continuou batendo contra a mesa, e ele ouviu Val chamar seu nome antes de perder a referência da luz.

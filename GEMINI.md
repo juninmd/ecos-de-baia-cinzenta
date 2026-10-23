@@ -1,216 +1,51 @@
-# GEMINI.md - A Bíblia do Projeto "Ecos de Baía Cinzenta"
+# GEMINI.md — Bíblia de Ecos de Baía Cinzenta
 
-> **Propósito:** Este arquivo serve como a Fonte de Verdade Única (Single Source of Truth) para a IA (Gemini/Agent) manter a consistência narrativa, tom, caracterização e regras do universo ao escrever novos capítulos ou corrigir os existentes.
+## Fontes e escopo
 
----
+Consulte AGENTS.md e a skill escrita-investigativa para capítulos. Fonte oficial: docs/capitulo-N.md; docs/public/capitulo-N.md é symlink relativo para ../capitulo-N.md. Revise a fonte, sem substituir o link por cópia.
 
-## 1. A Essência e o Tom (The Vibe)
+O cânone físico e visual é [docs/personagens.md](docs/personagens.md), composto por includes locais em docs/personagens/. O calendário é [docs/cronologia.md](docs/cronologia.md), a estrutura é [docs/arcos.md](docs/arcos.md) e os limites de Aria estão em[docs/aria.md](docs/aria.md). Resumos, análises e notas não substituem a leitura da fonte. Propostas editoriais antigas não prevalecem sobre o capítulo revisado.
 
-**Gênero:** Cyberpunk Noir / Thriller Psicológico.
-**Atmosfera:** "High Tech, Low Life".
-**Referência Visual:** *Blade Runner* encontra *Se7en* e *Sin City*.
+## Tom
 
-### Regras de Ouro da Narrativa
-1.  **A Luz é Hostil:** O sol nunca é reconfortante; é cruel e revelador. A iluminação predominante é o neon sintético, piscante e doente.
-2.  **Cinismo Operante:** O otimismo é uma fraqueza. O narrador (Gabo) espera sempre o pior. Um sorriso é uma ameaça velada.
-3.  **Tecnologia como Opressão:** A tecnologia não liberta; ela vigia, controla e vicia. IAs são frias, implantes falham, a rede é um labirinto de mentiras.
-4.  **Consequência Física:** A violência dói. Feridas infeccionam. A recuperação é lenta. Não existe cura mágica. O cansaço é crônico.
-5.  **Moralidade Cinzenta:** Não há heróis puros. Gabo é violento. Valéria é criminosa. A polícia é uma gangue legalizada. O "bem" é apenas o "mal menor".
+Cyberpunk noir e thriller psicológico: chuva ácida, concreto, vigilância, burocracia e tecnologia que cobra preço. A luz revela; não oferece consolo automático. O humor é seco, a violência tem consequências e ferimentos não somem na mudança de capítulo. Gabo tende ao pior, mas as demais pessoas não precisam compartilhar a mesma voz.
 
----
+Baía Cinzenta é costeira e estratificada. Distrito de Prata: ar filtrado, silêncio e controle corporativo. Distrito Central: polícia, hospitais e burocracia. Zona Baixa: infraestrutura falha, mercado negro, moradores com trabalho e decisões próprios. Evite tratar quem vive ali como cenário descartável.
 
-## 2. O Universo: Baía Cinzenta
+Aeterna controla energia, saúde e dados. DPBC participa da corrupção, com diferenças entre agentes. Sindicato ocupa o vácuo de poder. Invisíveis sofrem exclusão de cadastro; ausência de ID não é ausência de pessoa.
 
-Uma megalópole costeira, isolada e estratificada, onde chove 300 dias por ano (chuva ácida).
+## Pessoas e continuidade
 
-### Estrutura Social
-*   **O Topo (Distrito de Prata):** Elite corporativa, ar filtrado, luz artificial, silêncio pago. Dominado pela **Aeterna Corp**.
-*   **O Meio (Distrito Central):** Concreto brutalista, burocracia, polícia corrupta, hospitais falidos.
-*   **O Fundo (The Lows/Zona Baixa):** Nível da rua, "smog" tóxico, neon refletido poças de óleo, gangues, mercado negro.
+- Gabo:35 anos,14 de polícia, sobretudo bege, cabelo escuro desarrumado e barba cheia. Nunca fuma. Café, insônia, culpa e violência não o inocentam. Perda auditiva esquerda 24; coluna/perna lesionadas 30; cadeira, órteses e ajuda conforme a fase.
+- Braço direito: fratura 154, tala 155; cinco dias de atendimento antes 175. Fixador instalado por equipe, suporte industrial externo por Vasco, com arnês e carga na cintura. Armação removida 225; braço biológico preservado na tipoia. Não escrever amputação humana ou cura por plasma.
+- Caronte: escopeta de dois canos, exige recarga. Glock: arma de serviço. Leviatã: lançador abandonado 25; não reaparece para resolver outra cena. Unidades anfíbias de 46 têm o mesmo nome, sem serem a arma portátil.
+- Valéria:23 anos, bob curto assimétrico, nuca batida, franja lateral e LEDs azuis. Olhos azul-gelo no início, prateados na fase posterior à Convergência. Mão esquerda com dano nervoso 95-97; luva atuada 175 permite preensão grosseira, sem devolver sensibilidade. Redes exigem conexão; profissional de tecnologia não vira médica por cálculo.
+- Val: após 175 há limitação afetiva intermitente por sobrecarga. Contenção estável 221. O módulo de restauração é uma possibilidade com risco; ela decide sobre seu uso. Gabo não é dono dessa decisão. Levar o equipamento 225 não significa utilizá-lo.
+- Elena:33 anos, jornalista e ex-esposa, não irmã de Gabo. Jaqueta verde-oliva, cabelo castanho claro preso e pingente redondo de latão. Tem equipe e rede de publicação; não passa quatro anos fora durante uma história situada em 2056. Retorna 226, ferida 234, encontrada morta 235, sepultada 236. Transmissão derruba o silêncio e circuitos locais, não toda a corporação por magia.
+- Aria: mulher adulta de IA, autônoma, humor seco, voz própria e capacidade de recusar ordens. Módulo legado de 7 cm, avançado para a época, com desenvolvimento autônomo durante operação. Projetor permite holograma translúcido, sem massa nem contato físico. Âncora imutável nova: docs/public/personagens/aria_3.png. Grafite/gola alta, cabelo longo platinado, heterocromia azul/âmbar. Nunca menina, filha ou androide ambulante.
+- Aria e Bia: material de Bia foi explorado na arquitetura, mas gravações e voz de origem não são a identidade de Aria. Danos 96/118 e reparos não apagam a pessoa. Reinício 134 isola entrada hostil, preserva histórico parcialmente inacessível. Sacrifício 167 é escolha dela e destrói o núcleo definitivamente; registros posteriores não são ressurreição.
+- Dante: nascido 1989, capturado 2041 aos 52; corpo original morre 27 e é sepultado 40. Gamemaster usa padrões e aparência sem ser o pai presente. Bio-Dante 103/104 é uma cópia em biohost rejuvenescido, com afeto limitado e projeto autoritário. Memória e informação recebida precisam de origem; não conhece eventos posteriores que ninguém lhe contou.
+- A fita 220 mostra coerção e preocupação de Dante com os três filhos. Não apaga abandono/abuso nem prova que ele nunca colaborou antes ou que planejou todas as falhas do sistema. A alucinação de Gabo cessa 225, sem absolver o pai ou os crimes do filho.
+- Bia: morreu 2051 aos 29, cinco anos antes. Ruptura seis meses antes; descoberta da fraude Braga cerca de nove anos depois do caso 2042. Noivado 2043, Dante já desaparecido.
+- Helena:55 na morte 50. O Colar de Sol já estava com Gabo antes 1; não é o pingente de Elena, recebido 235.
+- Vilar:55 anos,33 de serviço desde 2023. Braço esquerdo esmagado 81 e amputado antes 87; não ganha prótese por omissão de continuidade. Nomeação comunitária não equivale a eleição; omissões e lista ocultada permanecem responsabilidade dele.
+- Rangel: desertor e aliado. Nise chega 124, transporte 125 é interrompido 126. Prancha/cintas e guincho 141/142. Morre 150, tentativa de reanimação falha, corpo e localização registrados 151. Não muda para morte 153 em resumo.
+- Nise: medicina legal e atendimento com recursos limitados; pode precisar de equipe, hospital e equipamentos. Clara: logística e apoio, não profissional médica presumida. Vasco: mecânica e comércio, não cirurgião universal.
+- Elias:38 anos, manutenção de drenagem. Conhece infraestrutura, teme combate, contesta coerção 197 e pode ir embora 222. Escolher ficar tem valor porque podia partir.
+- Miranda: vivo ao ser deixado 73; retorno 102, morte definitiva 103. Silas, filho de Arthur e irmão de Elara,60 anos: drenado 103. A fase mumificada não começa 100.
+- Arthur: fundador 1995,74 na entrada em estase 2029,101 cronológicos em 2056; aparência 43 por tratamentos/manutenção.27 anos de sono, não 61. Desperta 45 após 23 dias sem pulso. Último registro dia 96 coincide com ataque 72; perda conhecida 233, sem recuperação de corpo.
+- Elara:66 cronológicos, aparência 45; filha de Arthur, irmã de Silas. Audita 2024 aos 34, Krell entra 18. Arquivo tem 61 anos, sua carreira não. Meses no berço, cadeira de rodas após 223. Preservar registros de crimes próprios não absolve sua participação.
+- Krell:50 anos, avales atribuídos a ele desde 2029; estudo Moretti 2035–2056. Índice 227 soma 47.311 admissões; amostra de 300 originais não autentica todas as assinaturas. Poder estrutural não transforma toda escolha dos demais em encenação dele.
+- Gabo planta prova no caso Braga 2042; executa Éder rendido 35. Braga mata Duarte 229, é capturado 231; há resposta de custódia possível. Gabo recusa esperar e executa 232. A imprensa registra a escolha, sem chamá-la de inevitável ou absolvição.
 
-### Facções e Forças
-*   **Aeterna Corp:** A megacorporação onipresente. Controla energia, saúde e dados. Lema: "A Evolução é o nosso Negócio".
-*   **Departamento de Polícia (DPBC):** 70% corrupto. A "Divisão de Casos Esquecidos" é o purgatório onde Gabo trabalha.
-*   **O Sindicato:** O crime organizado que preenche o vácuo deixado pelo estado.
-*   **Os Invisíveis:** Os cidadãos sem ID digital ("Shadowban"), ignorados pelo sistema.
+## Escrita e evidência
 
----
+Informação chega por interesses em conflito. Um especialista interpreta o que observa, declara limites e deixa prova consultável. Papel pode conter fraude, imagem pode ser montagem, voz pode ser reprodução. Custódia e origem não são garantia do conteúdo.
 
-## 3. Personagens Principais e Dinâmicas
+Tecnologia exige energia, calor dissipado, acesso, dados e permissões. Pendrive não fornece força para guincho, motor ou armação. Um cabo cortado não prova extinção da rede inteira. Não invente percentuais clínicos ou probabilidades sem método e dados observáveis.
 
-### Gabriel "Gabo" Moretti (O Protagonista)
-*   **Arquétipo:** O Detetive Noir Clássico (quebrado, mas não vencido).
-*   **Estado Atual:** Fisicamente destruído (múltiplas fraturas, usa exoesqueleto ou manca), psicologicamente no limite (insônia, PTSD).
-*   **Armamento Característico (ATUALIZADO):**
-    *   **"Caronte" (Antiga Vilha):** Escopeta de cano serrado. *Motivo do nome:* O barqueiro que leva as almas. Curta distância, brutal.
-    *   **"Leviatã" (Antiga Mara):** Lançador de Projéteis/Bazuca. *Motivo do nome:* O monstro marinho imparável. Poder de destruição massiva.
-     *   **Glock de Serviço:** Para quando precisa ser "sutil".
-*   **Personalidade:** Cínico, bebe café ruim, teimoso ao extremo. Seu superpoder é a recusa em desistir, mesmo quando deveria.
-*   **Motivação:** Vingança pelo pai (Dante) e proteção dos inocentes ("Os Invisíveis").
+Prosa deve preservar desejo, resistência, custo e saída. Não acrescentar travessias só para alongar. Revisão automática é triagem, não prova de justiça dedutiva, voz ou qualidade literária. Notas antigas 10/10 não aprovam o texto de hoje.
 
-### Valéria "Val" Cruz (A Hacker)
-*   **Arquétipo:** A Tech-Sidekick Genial e Rebelde.
-*   **Dinâmica com Gabo:** É a parceira irritante que ele protege, e o "cérebro" que impede que ele morra por estupidez. Ela traz a cor (neon) para o mundo cinza dele.
-*   **Estilo:** Short Bob levemente assimétrico (bico suave), com a nuca batida, pontas desfiadas e franja lateral longa com fios de LED holográficos azuis. Gírias digitais e desprezo pela autoridade "analógica".
+## Fechamento da revisão integral
 
-### Elena Moretti (A Jornalista / Ex-Esposa)
-*   **Arquétipo:** A Verdade Inconveniente.
-*   **Dinâmica com Gabo:** Tensão romântica não resolvida, mágoa e respeito mútuo. Ela o deixou para não vê-lo morrer.
-*   **Função:** Busca a verdade através dos fatos, enquanto Gabo busca através dos punhos.
-*   **Destino Canônico:** Sacrifício heroico na Subestação Orla Norte (Caps 234-236). Destruiu a infraestrutura de purga e vigilância da Aeterna, transmitiu a Arca Zero via onda curta e deixou o microcassete de despedida. Sepultada na lama vermelha da Velha Baía.
-
-### Roberto Miranda (O Antagonista Pessoal)
-*   **Arquétipo:** O Espelho Distorcido/O Traidor.
-*   **Natureza:** Ex-parceiro de Gabo, corrupto, transformado em ciborgue grotesco. Representa o que Gabo poderia se tornar se perdesse a honra.
-
-### Aria (A Assistente de IA no Pendrive)
-*   **Arquétipo:** A Bússola Tática no Bolso.
-*   **Natureza:** Assistente de IA autônoma que Gabo encontra durante a enchente em uma cabine telefônica (Capítulo 2). Ela fica **fisicamente alojada em um componente de hardware blindado tipo um pendrive** (que Gabo espeta no painel do *Cobalt*, no seu comunicador tático, no cyberdeck de Valéria ou diretamente nos terminais que precisam ser hackeados). Compilada com o backdoor de Dante e fragmentos neurais de Bia Vargas, acompanha o grupo até ser fundida no terminal do Arquivo Executivo (Capítulo 167).
-
----
-
-## 4. Glossário e Termos Técnicos
-*   **Droga Lázaro:** Realidade virtual injetável. Cria o "paraíso", deixa o corpo em coma.
-*   **O Vazio:** Zumbis digitais (viciados em Lázaro com cérebros fritados).
-*   **Smog:** A neblina tóxica da cidade baixa.
-*   **A Ruptura:** Overdose digital.
-
-## 5. Diretrizes de Escrita para a IA
-*   **Diálogos:** Devem ser afiados ("snappy"). Evite exposição óbvia. Subtexto é tudo.
-*   **Descrições:** Use os cinco sentidos. O cheiro de ozônio e lixo, o gosto metálico de sangue, o som do neon zumbindo, a chuva fria na pele.
-*   **Ação:** Brutal, rápida e consequente. Gabo não é um super-herói; ele apanha, sangra e quebra ossos.
-*   **Weapon Handling:** Ao mencionar as armas, use os nomes novos (**Caronte** e **Leviatã**) para reforçar a mitologia pessoal de Gabo.
-
----
----
-
-# SEÇÃO II: CONSOLIDAÇÃO TÉCNICA E ARTÍSTICA
-
-## 6. Manual de Estilo (Consolidado)
-
-*(Fonte: STYLE_GUIDE.md)*
-
-### Tom Narrativo
-*   **Noir Moderno:** Cínico, melancólico, focado nas sombras morais e físicas.
-*   **Cyberpunk "Low-Life, High-Tech":** A tecnologia existe, mas é opressora, suja ou quebrada. Não é um futuro brilhante.
-*   **Sensorial:** Focar na atmosfera tátil — a umidade, o cheiro de chuva ácida, o zumbido do neon, o gosto amargo do café.
-
-### Regras de Escrita
-1.  **Priorize o Drama Psicológico:** A ação é secundária ao impacto emocional e mental nos personagens.
-2.  **Show, Don't Tell:** Descreva o ambiente e as reações físicas em vez de rotular emoções.
-3.  **Linguagem:** Use metáforas urbanas e brutalistas (ex: "o céu parecia um hematoma", "concreto suando").
-
-### Prompting
-Ao gerar conteúdo para este projeto:
-*   Mantenha o tom pesado e atmosférico definido aqui.
-*   Evite clichês de sci-fi utópico; lembre-se que Baía Cinzenta é uma distopia em decadência.
-
----
-
-## 7. Guia Visual e Prompts
-
-*(Fonte: guia_arte.md)*
-
-A estética do projeto é definida por três pilares:
-1.  **Neo-Noir**: Sombras profundas, alto contraste (chiaroscuro), chuva constante, ambientes opressivos.
-2.  **Cyberpunk Decadente**: Tecnologia avançada misturada com ruína urbana ("High Tech, Low Life"). Cabos expostos, neon refletindo em poças de óleo, ferrugem.
-3.  **Realismo Cinematográfico**: Texturas detalhadas (pele, tecido, metal), iluminação dramática, enquadramentos de cinema.
-
-### Tokens de Personagens (Referência Visual)
-*   **Gabo**: `beige trench coat`, `messy dark hair`, `full beard`, `tired eyes`, `glock`.
-*   **Val**: `asymmetrical short bob`, `long side swept bangs with blue holographic LED strands`, `textured wispy ends`, `silver cybernetic eyes`, `LED cheek implants`, `leather jacket`, `cyberdeck`.
-*   **Aria**: `rugged titanium neural pendrive drive with glowing blue status LED`, `holographic HUD projection`, `platinum blonde`, `heterochromatic eyes`.
-
----
-
-# SEÇÃO III: LINHA DO TEMPO, COERÊNCIA E QUALIDADE
-
-## 8. Linha do Tempo Unificada
-
-*(Fonte: linha_do_tempo_unificada.md - Resumo)*
-
-### Resumo dos Arcos
-*   **Arco da Aeterna (Parte I-VI):** A luta contra o controle corporativo e a IA Gamemaster.
-*   **Arco da Sobrevivência (Parte VII-VIII):** Lidar com as consequências da queda da tecnologia.
-*   **Arco do Dilúvio (Parte IX):** A luta contra a enchente artificial, a tirania de Marco Moretti, e a busca por justiça em um mundo que está afundando.
-*   **Arco do Leilão (Parte X):** A revelação de que a cidade está sendo convertida em uma necrópole digital.
-*   **Arco da Redenção (Parte XI):** A batalha final pela alma da cidade, a ponte entre o backup de Dante e o pendrive da Aria contra o Consórcio.
-*   **Arco do Renascimento (Parte XII):** A paz é desafiada por ameaças analógicas e sobrenaturais.
-*   **Arco da Carne Mecânica (Parte XIII):** O enfrentamento entre a tecnologia pura (o Código Morto no pendrive de Aria) e a biologia corrompida (Projeto Gênesis).
-*   **Parte XIV: O Vazio (Atual):** O Grande Silêncio. Tecnologia morta. Gabo luta nos túneis usando métodos analógicos.
-
-### Status Atual dos Personagens (Pós-Capítulo 109)
-| Personagem | Status | Localização | Obs. |
-| :--- | :--- | :--- | :--- |
-| **Gabo** | **VIVO** | Superfície | Ferido, mas ativo. Exoesqueleto falho. |
-| **Elena** | **MORTA (CAP 235)** | Velha Baía | Sacrifício heroico na Orla Norte; fita cassete deixada; sepultada no Cap 236. |
-| **Valéria** | **VIVA** | Superfície | Recuperada da petrificação. Olhos prateados. |
-| **Aria** | **ATIVA NO PENDRIVE (ATÉ CAP 167)** | Drive portátil | Assistente de IA no componente tipo pendrive achado na cabine telefônica; fundida no Cap 167. |
-| **Bio-Dante** | **ATIVO** | Superfície | Antagonista trágico. Ver seção abaixo. |
-| **Silas** | **MORTO** | Esgotos | Absorvido pela colmeia. |
-| **Miranda** | **MORTO** | Esgotos | Destruído no confronto final. |
-| **Helena** | **MORTA** | - | Mãe de Gabo. Morreu no Dilúvio (Cap 50). |
-
----
-
-## 10. Bio-Dante (O Ressurgido) — NOVO PERSONAGEM
-
-### Natureza
-*   **O que é:** Consciência de Dante Moretti em corpo biológico sintético ("biohost").
-*   **NÃO é:** O Dante original. É uma **cópia imperfeita** com memórias completas mas emoções fragmentadas (~30% de capacidade emocional).
-
-### O Conflito Central
-Ele **LEMBRA** de amar Gabriel. Ele **NÃO SENTE** amar Gabriel. É como ler um livro sobre amor vs. estar apaixonado.
-
-### Por Que Não Está Feliz
-1.  **Sabe que é cópia:** Consciência da própria artificialidade.
-2.  **Memórias perfeitas, emoções mortas:** Acessa memórias de calor familiar, sente apenas dados.
-3.  **Corpo estranho:** O biohost é jovem e forte, mas não é "dele".
-4.  **Culpa amplificada sem alívio:** Lembra de todas as falhas, não consegue chorar.
-
-### Motivação
-Quer **ORDEM** para a cidade. Algoritmos > Humanidade. Acha que está **salvando** Baía Cinzenta.
-
-### Vilão ou Antagonista?
-**ANTAGONISTA TRÁGICO**, não vilão clássico:
-*   Não quer destruição, quer "consertar"
-*   Faz mal achando que faz bem
-*   Não sente prazer, sente... nada
-
-### Limitação de Memória (IMPORTANTE!)
-⚠️ Bio-Dante só tem memórias até a morte do Dante original.  
-**Ele NÃO sabe que Helena (mãe de Gabo) morreu no Dilúvio.**  
-Isso pode ser usado dramaticamente.
-
-### Frases Características
-> *"Eu lembro de te amar, Gabriel. É quase como sentir."*  
-> *"A dor humana é uma ineficiência. Eu a removi."*  
-> *"Você chora pelo Dante Moretti. Eu sou o Dante Moretti. Mas você tem razão em chorar."*
-
-### Destino Sugerido (Para Novos Capítulos)
-*   **Opção A:** Redenção via sacrifício (escolhe sentir, aceita a dor, salva Gabo) [a melhor]
-*   **Opção B:** Tragédia pura (Gabo mata o "pai" pela segunda vez)
-*   **Opção C:** Ambiguidade (exílio, final aberto)
-
----
-
-## 9. Análise de Coerência e Ranking
-
-*(Resumo consolidado de ranking_qualidade_capitulos.md e analise_coerencia.md)*
-
-### Destaques e Correções Recentes
-1.  **Gabo e o Cigarro:** Gabo *nunca* fuma. O cheiro o enjoa. Seu tique nervoso é tamborilar os dedos.
-2.  **Valéria:** De "Maya Glitch Sato" (early draft) para **Valéria "Val" Cruz**. Otimista, tech-sidekick. Atualmente petrificada em estase.
-3.  **Armas:** "Mara" agora é **Leviatã**. "Vilha" agora é **Caronte**.
-
-### Top Rankings de Capítulos
-*   **Cap 75: Horizonte de Eventos (10/10)** - Final de "temporada" perfeito.
-*   **Cap 103: A Convergência (10/10)** - Clímax explosivo e resolução de arcos longos.
-*   **Cap 98: A Cidade Silenciosa (10/10)** - Reinvenção da atmosfera para "Analog Noir".
-*   **Cap 50: O Silêncio da Chuva (10/10)** - Ápice emocional com a morte de Helena.
-
-### Veredito de Coerência
-A narrativa mantém uma forte coerência interna, respeitando as consequências dos eventos cataclísmicos. A mudança de tom para "Analog Noir" na Parte XIV é justificada e enriquece o universo.
-
----
-*Fim do Documento Consolidado.*
+Foram revisados os 238 capítulos, incluindo 30.5 e 75.5. Registros emeditorial/revisao-personagens/. Durante a revisão integral o autor determinou lint e testes apenas no final. Evidências e limites de validação devem ser publicados depois dos comandos reais, sem confundir leitura, triagem e aceitação artística.

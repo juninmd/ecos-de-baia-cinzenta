@@ -5,11 +5,10 @@ Localização: "Hospital Central de Baía Cinzenta - 02:45 AM"
 ---
 # Capítulo 77: Anjos da Morte
 
-**Hospital Central de Baía Cinzenta - 02:45 AM**
-
+Hospital Central de Baía Cinzenta - 02:45 AM
 O cheiro de antisséptico era a única coisa que não havia mudado na cidade. Governos caíram, o sol voltou, deuses digitais ascenderam e morreram, mas o Hospital Central ainda cheirava a pinho falso e morte esterilizada.
 
-Gabo odiava hospitais. Eles o lembravam de muitas coisas: da sua coluna quebrada, da primeira vez que viu Dante numa maca, e de quantas vezes Val teve que costurá-lo em becos porque eles não podiam pagar por um médico de verdade.
+Gabo odiava hospitais. Eles o lembravam de muitas coisas: da sua coluna quebrada, da primeira vez que viu Dante numa maca, e de quantas vezes Val precisou improvisar compressão e procurar ajuda em becos porque eles não podiam pagar por um médico de verdade.
 
 O corredor tinha piso encerado até devolver o reflexo das lâmpadas, e o som das botas de Gabo ia na frente dele, avisando o andar inteiro que um homem quebrado estava chegando. O joelho esquerdo reclamava a cada três passos. Ele passou a contar os passos, para não contar as portas.
 
@@ -29,9 +28,9 @@ Ela os guiou até uma sala de observação. Através do vidro, podiam ver a UTI.
 
 — Aria? — perguntou Val.
 
-— Cega — respondeu Nise. — Segundo os registros do sistema, eles simplesmente... desligaram. Sem picos de estresse, sem toxinas no sangue, sem falha de equipamento. Aria registrou como "morte natural".
+— Cega — respondeu Nise. — Segundo os registros do sistema, eles simplesmente... desligaram. A triagem inicial não apontou a causa; isso não exclui substâncias fora do painel nem falhas que os registros não captaram. Aria registrou como "morte natural".
 
-— Quatro mortes naturais na mesma noite, no mesmo setor? — Gabo balançou a cabeça. — Estatisticamente impossível.
+— Quatro mortes naturais na mesma noite, no mesmo setor? — Gabo balançou a cabeça. — Motivo para investigar, sem concluir a causa só pelo número.
 
 — Exatamente. — Nise cruzou os braços. — E há um padrão. Todos morreram durante o turno da equipe B de técnicos de enfermagem.
 
@@ -53,11 +52,11 @@ Nise ficou calada tempo demais para o gosto dele.
 
 — Estou pedindo seis horas.
 
-— Seis horas.
+— Não vou mentir no atestado. Registro a suspeita em papel, guardo a via original e peço perícia. Podemos preservar os dados sem entregar de imediato o acesso remoto.
 
 — Se eu estiver errado, seu relatório vai ter o meu nome como testemunha, e eu perco o que sobrou da minha licença. Se eu estiver certo, você ganha um assassino. — Ele deu de ombros, e o ombro doeu. — É a única aposta que eu tenho pra te oferecer.
 
-Val conectou-se ao terminal da sala. Seus dedos não se moviam, mas seus olhos piscavam rapidamente enquanto ela navegava pelos dados.
+Val conectou-se ao terminal da sala. Usou o teclado e o cabo de serviço; a visão básica acompanhava os registros que a sessão permitia ler.
 
 — Turno da noite. Líder da equipe: Lucas Viana. Ficha limpa. Tão limpa que brilha. Nenhuma infração, nem multa de trânsito.
 
@@ -71,7 +70,9 @@ Val conectou-se ao terminal da sala. Seus dedos não se moviam, mas seus olhos p
 
 Gabo saiu da sala, seguido por Val. Eles mantiveram distância, observando o técnico. Ele parou na porta do quarto 304. Olhou para os lados, verificou o relógio digital na parede, e entrou.
 
-— Val, bloqueie as câmeras — sussurrou Gabo. — Se Aria não está vendo, vamos garantir que ninguém veja o que vou fazer.
+— Val, conserva as imagens numa gravação local — sussurrou Gabo.
+
+— Sem apagar o original — respondeu ela. — Se você entrar, isso também fica registrado.
 
 Ele entrou no quarto sem fazer barulho. O 304 cheirava a sabão de glicerina e a urina velha escondida embaixo do sabão. Na mesinha, um rádio de pilha, um copo com água pela metade e uma foto de casamento com a moldura rachada no canto. O soro pingava no ritmo de um homem sem pressa. No chão, os sapatos do técnico eram de sola macia: sem chip, sem LED, sem nada que a Aria pudesse escutar.
 
@@ -117,7 +118,7 @@ Gabo soltou o cadáver, limpando a espuma da mão na roupa do morto.
 
 Nise recolheu uma amostra do líquido do chão com um swab.
 
-— Vou analisar isso. Mas se for o que ele disse... uma toxina orgânica pura... Aria nunca detectaria. É...
+— Vou analisar isso. Mas se for o que ele disse... um composto fora do que testamos, precisamos de análise dirigida. Ser orgânico não torna nada indetectável nem permite à Aria examinar sangue por telemetria. É...
 
 — Analógico — completou Gabo. — O inimigo agora é de carne e osso, Nise. E ele sabe usar coisas que esquecemos como combater.
 

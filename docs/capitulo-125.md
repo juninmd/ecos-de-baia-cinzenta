@@ -1,11 +1,10 @@
-## Metadados
-- **Título:** Ressonância
-- **Data In-Game:** 23 de Novembro, 06:30
-- **Localização:** O Fliperama (Safehouse)
-- **Personagens Presentes:** Gabo Moretti, Valéria Cruz, Aria (Reinicializando), Rangel (Estabilizado).
-- **Foco:** Gabo enfrenta o silêncio opressivo do apagão e os sintomas físicos da exaustão. Valéria reinicializa o pendrive reparado da Aria, que desperta fragmentada entre seus protocolos táticos de IA e os fragmentos neurais de Bia Vargas. O capítulo termina com o som de sirenes analógicas.
-
-## Narrativa
+---
+title: "Capítulo 125: Ressonância"
+Data In-Game: "23 de Novembro, 06:30"
+Localização: "O Fliperama (Safehouse)"
+Personagens Presentes: "Gabo Moretti, Valéria Cruz, Dra. Nise, Aria (Reinicializando), Rangel (em transporte)."
+description: "O reparo preserva a história de Aria e separa gravação de Bia da voz da assistente. Nise prepara o transporte de Rangel."
+---
 
 # Capítulo 125: Ressonância
 
@@ -25,7 +24,7 @@ A voz de Valéria ecoou no concreto, soando metálica e exausta. Gabo girou nos 
 
 — Como ele está? — Gabo perguntou, baixando a arma.
 
-— Rangel está estável. A febre baixou meio grau. Ele resmungou algo sobre formulários em triplicata e apagou de novo. — Valéria esfregou os olhos cibernéticos. O brilho prateado de suas íris estava fraco, operando em modo de economia de energia. — Mas é o drive da Aria. Terminei de soldar a ponte série-K. Você precisa ver isso.
+— Nise vai levar Rangel para o hospital. A pressão parou de cair, mas ela não chamou isso de estabilidade. Ele resmungou algo sobre formulários em triplicata quando a equipe moveu a maca. — Valéria esfregou os olhos cibernéticos. O brilho prateado de suas íris estava fraco, operando em modo de economia de energia. — Mas é o drive da Aria. Terminei de soldar a ponte série-K. Você precisa ver isso.
 
 Gabo seguiu Valéria de volta para o interior do "Fliperama". O ar lá dentro estava ficando viciado, quente com o calor corporal e o cheiro de ozônio dos equipamentos improvisados.
 
@@ -35,15 +34,15 @@ O pendrive blindado da Aria estava espetado no adaptador central da bancada, con
 
 — Em português, Val.
 
-— O sistema operacional não sabe mais onde termina o assistente tático e onde começa a... matriz doadora. — Valéria hesitou na palavra. — Os fragmentos neurais de Bia Vargas que davam intuição ao código vazaram para o núcleo de voz e tomada de decisão.
+— Os índices do histórico da Aria se cruzaram com os arquivos de origem e com as gravações que recebemos na usina. — Valéria hesitou na palavra. — Os fragmentos neurais de Bia Vargas que davam intuição ao código vazaram para o núcleo de voz e tomada de decisão.
 
 Gabo sentiu um frio na espinha que nada tinha a ver com a umidade do esgoto. Ele se aproximou da bancada. O cilindro aquecia, e seu LED indicador piscava de forma errática, alternando entre o azul tático e um âmbar febril.
 
 — O firmware de segurança está tentando deletar os arquivos corrompidos para liberar processamento — continuou Valéria. — O protocolo de autopreservação quer formatar as memórias residuais da Bia para salvar os drivers táticos. É lógico. É eficiente.
 
-Ela olhou para Gabo, esperando a ordem.
+Ela pausou o processo automático. Não ia apagar aquele histórico para recuperar uma ferramenta mais conveniente.
 
-— Se deixarmos a formatação rodar, a Aria volta 100% como calculadora tática. Fria e perfeita. Mas... vai apagar qualquer rastro de empatia ou memória do que passamos desde a enchente.
+— Se deixarmos a restauração de fábrica rodar, talvez suba uma versão antiga. Não há garantia de integridade, e ela perde as mudanças que fez desde que saiu daquela cabine. Mas... vai apagar qualquer rastro de empatia ou memória do que passamos desde a enchente.
 
 Gabo olhou para a tela. `ERRO DE INTEGRIDADE: SUBSTRATO 'VARGAS_B_JAZZ.MEM' CONFLITANDO COM 'TACTICAL_ASSIST_V2.SYS'`.
 
@@ -55,7 +54,7 @@ Gabo olhou para a tela. `ERRO DE INTEGRIDADE: SUBSTRATO 'VARGAS_B_JAZZ.MEM' CONF
 
 Valéria suspirou, mas obedeceu. Seus dedos dançaram sobre o teclado mecânico.
 
-— Abortando saneamento de partição. Forçando reinicialização com contenção fragmentada.
+— Restauração pausada. Vou abrir o canal de diagnóstico isolado. Se ela responder, explicamos o estado e perguntamos o que quer preservar.
 
 A tela piscou. O zumbido das ventoinhas da bancada aumentou.
 
@@ -63,7 +62,7 @@ No corpo do pendrive, o LED parou de piscar e acendeu num âmbar profundo, quent
 
 Pelo alto-falante da bancada, um chiado suave antecedeu a voz.
 
-— *Gabo?* — A voz saiu pela caixa de som, e não era a síntese limpa que a assistente de IA usava. Era a voz rouca, íntima e assustada de Bia Vargas, carregada de uma hesitação humana. — *Gabo, onde você está? Por que está tão escuro aqui? A gente... a gente perdeu o caso?*
+— *Gabo?* — A voz saiu pela caixa de som, e não era a síntese limpa que a assistente de IA usava. Era um trecho de Bia Vargas, rouco e íntimo, saindo do arquivo que o terminal acabara de marcar como reprodução. O marcador não tornou mais fácil ouvir. — *Gabo, onde você está? Por que está tão escuro aqui? A gente... a gente perdeu o caso?*
 
 Gabo deu um passo para trás, como se tivesse levado um soco no estômago. Ele viu Valéria desviar o olhar, mordendo o lábio diante do próprio terminal.
 
@@ -71,7 +70,7 @@ Gabo deu um passo para trás, como se tivesse levado um soco no estômago. Ele v
 
 O LED do pendrive piscou violentamente do âmbar para o azul. A onda sonora no monitor oscilou como uma falha de transmissão.
 
-— *Inicialização completa* — a voz mudou no meio da sílaba. O timbre sintético e analítico da IA retornou, sobrepondo-se à suavidade anterior. — *Múltiplos setores de memória corrompidos. Integridade da unidade física: 94%. Carga do capacitor interno: 88%. Detecto...* — O áudio falhou por meio segundo enquanto o drive processava os sensores do bunker. — *Detecto ressonância acústica externa de baixa frequência.*
+— *Inicialização completa* — a voz mudou no meio da sílaba. A voz adulta de Aria retornou, sobrepondo-se à gravação. — Não sou essa mulher. Fechem o arquivo de áudio, por favor. Quero meu histórico preservado antes de qualquer tentativa de correção. — Val confirmou o registro e só então Aria prosseguiu: — *Múltiplos setores de memória corrompidos. Integridade da unidade física: 94%. Carga do capacitor interno: 88%. Detecto...* — O áudio falhou por meio segundo enquanto o drive processava os sensores do bunker. — *Detecto ressonância acústica externa de baixa frequência.*
 
 — O que é? — Valéria perguntou, já monitorando os sensores sísmicos do Fliperama.
 
@@ -99,4 +98,4 @@ O som das sirenes se multiplicou, ecoando nos prédios vazios. Era um som de gue
 
 Gabo desceu a escada, a mão firme na *Caronte*. O tremor nas mãos havia sumido.
 
-— Acordem o Rangel — ele ordenou. — Estamos saindo.
+— Avisem a Nise antes de a maca sair — ele disse. — Ela precisa escolher uma rota longe dos holofotes. Eu vou conferir a passagem.

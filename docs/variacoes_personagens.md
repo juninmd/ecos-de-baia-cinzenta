@@ -7,7 +7,7 @@
 ## 🕵️‍♂️ Gabriel "Gabo" Moretti *(Âncora: `gabo.jpg`)*
 
 | Capítulo & Arco | Descrição & Localização | Imagem |
-|---|---|---|
+| --- | --- | --- |
 | **Cap. 1: Olhos de Vidro** | Em sua mesa na Divisão de Casos Esquecidos com dossiê e café. | ![Gabo Delegacia](/personagens/variacoes/gabo/gabo_cap1_delegacia.jpg) |
 | **Cap. 1: Chuva de Neon** | No asfalto molhado de Baía Cinzenta com café sob chuva ácida. | ![Gabo Chuva](/personagens/variacoes/gabo/gabo_chuva_neon.jpg) |
 | **Cap. 47: O Dilúvio** | No capô de viatura submersa na Zona Baixa com a escopeta *Caronte*. | ![Gabo Dilúvio](/personagens/variacoes/gabo/gabo_cap47_diluvio.jpg) |
@@ -21,7 +21,7 @@
 ## ⚡ Valéria "Val" Cruz *(Âncora: `val.png`)*
 
 | Capítulo & Arco | Descrição & Localização | Imagem |
-|---|---|---|
+| --- | --- | --- |
 | **Cap. 3: O Terminal** | Na Vila da Ferrugem cercada por cabos ópticos e terminais CRT. | ![Val Hacker](/personagens/variacoes/val/val_cap3_hacker_den.jpg) |
 | **Cap. 15: Olhos no Céu** | No terraço chuvoso lançando enxame de micro-drones *Vagalumes*. | ![Val Drones](/personagens/variacoes/val/val_cap15_rooftop_drones.jpg) |
 | **Cap. 96: O Sacrifício** | No console central em chamas vendo dados se desintegrarem. | ![Val Sacrifício](/personagens/variacoes/val/val_cap96_sacrificio_console.jpg) |
@@ -33,7 +33,7 @@
 ## 🏛️ Dante Moretti & Bio-Dante *(Âncoras: `dante.jpg` & `bio_dante.png`)*
 
 | Capítulo & Arco | Descrição & Localização | Imagem |
-|---|---|---|
+| --- | --- | --- |
 | **Pré-Queda (Cap. 11)** | Comissário Dante no auge, sobretudo de couro preto e fedora na chuva. | ![Dante Comissário](/personagens/variacoes/dante/dante_pre_queda_comissario.jpg) |
 | **Cap. 105: A Ascensão** | Bio-Dante na sala de relés da Delegacia tocando barramentos de cobre. | ![Bio-Dante Relés](/personagens/variacoes/dante/bio_dante_cap105_reles.jpg) |
 | **Cap. 107: O Porto** | No cais coordenando drones táticos durante a sanitização. | ![Bio-Dante Porto](/personagens/variacoes/dante/bio_dante_cap107_porto.jpg) |
@@ -44,7 +44,7 @@
 ## 🌺 Família Moretti *(Âncoras: `marco.png`, `elena.png`, `helena.png`, `clara.png`)*
 
 | Personagem & Arco | Descrição & Localização | Imagem |
-|---|---|---|
+| --- | --- | --- |
 | **Marco (Cap. 55)** | Terno três peças na cobertura do Distrito de Prata com tablet de dados. | ![Marco Torre](/personagens/variacoes/marco/marco_cap55_torre_prata.jpg) |
 | **Elena (Cap. 4)** | No beco do Distrito Central protegendo câmera mecânica 35mm sob casaco. | ![Elena Beco](/personagens/variacoes/elena/elena_cap4_jornalista_rua.jpg) |
 | **Elena (Cap. 226)** | Na gráfica clandestina inspecionando jornal independente contra a Aeterna. | ![Elena Gráfica](/personagens/variacoes/elena/elena_cap226_grafica_clandestina.jpg) |
@@ -56,7 +56,7 @@
 ## 🚨 Polícia, Justiça & Memória *(Âncoras: `bia.png`, `braga.png`, `miranda.jpg`, `jonas.jpg`, `nise.png`)*
 
 | Personagem & Arco | Descrição & Localização | Imagem |
-|---|---|---|
+| --- | --- | --- |
 | **Bia (Cap. 230)** | Na lanchonete confrontando Gabo com o inquérito forjado sob luz de neon. | ![Bia Confronto](/personagens/variacoes/bia/bia_cap230_lanchonete_confronto.jpg) |
 | **Braga (Cap. 1)** | Nas docas de contêineres com macacão naval, crachá e chave de estiva pesada. | ![Braga Docas](/personagens/variacoes/braga/braga_cap1_docas.jpg) |
 | **Braga (Cap. 229)** | Postura defensiva tensa atrás de empilhadeira em armazém portuário escuro. | ![Braga Armazém](/personagens/variacoes/braga/braga_cap229_confronto.jpg) |
@@ -67,10 +67,10 @@
 
 ---
 
-## 🛠️ Aliados & Submundo *(Âncoras: `vasco.png`, `elias.png`, `kiko.png`, `aria.png`, `silas.png`, `enzo_sofia.png`, `miguel.png`, `cecilia.png`, `isadora.png`, `invisivel.png`)*
+## 🛠️ Aliados & Submundo *(Âncoras: `vasco.png`, `elias.png`, `kiko.png`, `aria_3.png`, `silas.png`, `enzo_sofia.png`, `miguel.png`, `cecilia.png`, `isadora.png`, `invisivel.png`)*
 
 | Personagem & Arco | Descrição & Localização | Imagem |
-|---|---|---|
+| --- | --- | --- |
 | **Vasco (Cap. 175)** | Na oficina subterrânea soldando relés neurais de braço mecânico industrial. | ![Vasco Oficina](/personagens/variacoes/vasco/vasco_cap175_oficina.jpg) |
 | **Elias (Cap. 60)** | Nos túneis alagados sob a Zona Baixa com lanterna tática cortando a névoa. | ![Elias Túneis](/personagens/variacoes/elias/elias_cap60_tuneis_contrabando.jpg) |
 | **Kiko (Cap. 30)** | No ferro-velho entre sucatas de drones testando baterias sob chuva no telhado. | ![Kiko Oficina](/personagens/variacoes/kiko/kiko_cap30_oficina_sucata.jpg) |
@@ -87,7 +87,7 @@
 ## 🏛️ Aeterna Corp, Burocracia & Sindicato *(Âncoras: `krell.jpg`, `elara.png`, `arthur.png`, `gamemaster.png`, `aeterna_sec.png`, `vale.jpg`, `rangel.png`, `dantas.png`, `arquiteto.png`, `cirurgiao.jpg`, `lux.jpg`, `taxidermista.png`)*
 
 | Personagem & Arco | Descrição & Localização | Imagem |
-|---|---|---|
+| --- | --- | --- |
 | **Krell (Cap. 228)** | No cofre brutalista ante tanques de mentes pulsantes (*Think Tanks*). | ![Krell Tanques](/personagens/variacoes/krell/krell_cap228_tanques_mentais.jpg) |
 | **Elara (Cap. 41)** | No arquivo confidencial da Aeterna em cadeira motorizada ante colunas de dados. | ![Elara Arquivo](/personagens/variacoes/elara/elara_cap41_arquivo_aeterna.jpg) |
 | **Arthur (Cap. 45)** | Despertando em câmara criogênica no subnível esquecido sob névoa de nitrogênio. | ![Arthur Criogenia](/personagens/variacoes/arthur/arthur_cap45_camara_criogenica.jpg) |

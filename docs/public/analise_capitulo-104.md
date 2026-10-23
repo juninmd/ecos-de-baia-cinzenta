@@ -1,18 +1,18 @@
-# Análise Crítica - Capítulo 104: O Preço da Alvorada
+# Revisão de Capítulo 104: O Preço da Alvorada
 
-## Avaliação Técnica
-- **Pacing (Ritmo):** 8/10 - Uma cena de descompressão excelente após o clímax no subsolo. A chegada da polícia traz as consequências da ressurreição para o "mundo real".
-- **Dialogues (Diálogos):** 9/10 - As falas do "Dante Digital" ("O Vazio serviu ao seu propósito... eu sou o cérebro") soam incrivelmente ameaçadoras na sua calma matemática.
-- **Atmosphere (Atmosfera):** 9/10 - O amanhecer frio e a chegada das viaturas analógicas contrastam bem com o renascimento tecnológico/divino de Dante.
+Fonte: [capítulo 104](/capitulo-104.md).
 
-## Pontos Fortes e Fracos
-- **Pontos Fortes:** O choque dos policiais (Rangel e os novatos) valida o peso da lenda do "Comissário Dante" no universo. O uso de "A lei ainda existe... ou apenas a sobrevivência?" como a primeira preocupação do novo Dante é muito característico, mas distorcido pela lente digital.
-- **Pontos Fracos:** Os policiais aparecerem exatamente naquele bueiro no exato segundo da alvorada é uma pequena conveniência teatral, mas aceitável para o impacto narrativo.
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-## Sanity Check (Lore Compliance)
-- **Regras do Lore:** A fobia à fumaça permanece estritamente guardada (a cena ocorre com o cheiro de "ozônio, lixo molhado e maresia"). As pernas mecânicas danificadas de Gabo são enfatizadas com excelência: "motor do joelho direito gemia e soltava faíscas", obrigando-o a apoiar-se num poste de luz. O lore está completamente a salvo.
+## Passagens de entrada e saída
 
-## Avaliação Qualitativa
-- **Qualidade da História:** O gancho de Dante assumindo o controle analógico/residual da cidade (como seu "sistema nervoso") promete uma nova ditadura, desta vez guiada pelo luto invertido e perfeição letal.
-- **Coerência de Personagens:** Gabo sentindo um "gosto de cinza" ao chamar a figura de pai estabelece o conflito emocional da próxima fase.
-- **Necessidade de Novos Personagens:** Não há necessidade. Dante renascido assume o posto de principal força motriz.
+> Superfície - Acesso de Manutenção Sul
+> O primeiro sinal do mundo exterior não foi a luz, mas o cheiro.
+
+### Saída
+
+> A luz vinha atrás do carro como uma maré.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

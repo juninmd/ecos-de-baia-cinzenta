@@ -5,16 +5,15 @@ Localização: "Usina Geotérmica Prometeu — Setor de Triagem → Hangar da Fo
 ---
 # Capítulo 114: A Linha de Montagem
 
-<div class="system-log danger">
-SYSTEM LOG // ACCESS GRANTED <br>
-LOCAL: USINA GEOTÉRMICA PROMETEU [SETOR DE TRIAGEM] <br>
-PROTOCOLO: DESCARTE BIOLÓGICO V.4.0 <br>
-EFICIÊNCIA TÉRMICA: 98.4% <br>
+```text
+SYSTEM LOG // ACCESS GRANTED
+LOCAL: USINA GEOTÉRMICA PROMETEU [SETOR DE TRIAGEM]
+PROTOCOLO: DESCARTE BIOLÓGICO V.4.0
+EFICIÊNCIA TÉRMICA: 98.4%
 ALERTA: CONTAMINAÇÃO NÃO PADRONIZADA NO LOTE #899
-</div>
+```
 
-**O Despejo**
-
+O Despejo
 O caminhão parou com um *hiss* pneumático que soou como um animal morrendo. O silêncio que se seguiu foi pesado, quebrado apenas pelo zumbido distante de maquinário industrial colossal.
 
 — Fiquem atentos — a voz de Rangel crepitou no rádio. — O painel diz que o procedimento de despejo é automático. Não consigo travar a caçamba. Vocês têm dez segundos antes que o chão se abra.
@@ -35,7 +34,7 @@ Eles estavam em uma rampa de metal polido, cercados por centenas de sacos pretos
 
 — Saiam da esteira! — Gabo rugiu, ignorando a dor aguda em sua perna remendada. Ele agarrou o braço de Valéria e a puxou.
 
-Valéria já estava em movimento. Ela saltou levemente sobre os sacos móveis, alcançando uma passarela de manutenção lateral. Gabo a içou para cima e, com esforço, subiu atrás dela, os dedos escorregando no metal úmido.
+Valéria já estava em movimento. Ela saltou levemente sobre os sacos móveis, alcançando uma passarela de manutenção lateral. Val prendeu a mão direita na escada lateral e subiu. Ajudou Gabo a alcançar o primeiro apoio; ele se arrastou atrás dela, os dedos escorregando no metal úmido.
 
 Dois segundos depois, um braço mecânico gigante desceu do teto, empurrando o lote de "biomasssa" — onde eles estavam segundos antes — para dentro de um triturador industrial. O som de ossos e material orgânico sendo processados foi um rugido baixo e úmido que fez Valéria vomitar no chão gradeado.
 
@@ -45,8 +44,7 @@ Quando se levantou, a perna direita não acompanhou. A órtese havia girado no e
 
 Valéria estava de quatro, tremendo, o deck pendurado no antebraço como uma prótese inútil. Ele não a levantou. Não tinha braço que chegasse. Só ficou entre ela e a esteira até que conseguisse se mover sozinha — e ela conseguiu, o que de algum modo era pior.
 
-**A Fornalha**
-
+A Fornalha
 Eles estavam em um vasto hangar subterrâneo. O ar era quente, denso e úmido, com gosto de enxofre. Canos gigantescos pulsavam nas paredes como veias varicosas, bombeando fluidos de cores neons. Abaixo deles, esteiras transportadoras infinitas moviam o que restava dos excluídos de Baía Cinzenta em direção aos fornos geotérmicos.
 
 O calor não vinha de uma fonte. Vinha de tudo. Subia do piso em ondas que faziam o ar tremer sobre as esteiras, e o suor de Gabo secava na pele antes de escorrer, deixando uma película de sal que ardia nos cortes. O som era pior: um zumbido grave, constante, de máquina grande trabalhando satisfeita. Nada ali tinha pressa. Nada precisava correr, porque a cidade entregava o próprio material todas as noites, em caminhões com protocolo manual e chave mestra da polícia.
@@ -55,7 +53,7 @@ A usina não odiava ninguém. Era o que dava mais medo.
 
 — Meu Deus... — Valéria limpou a boca com as costas da mão, os olhos arregalados de horror. — O Marco... ele dizia que era "reciclagem". Ele chamava isso de "Nova Alvorada".
 
-— É eficiente — disse Valéria, e a voz saiu errada, plana, como se o número tivesse tomado o lugar dela por um segundo. Ela ouviu a própria frase e fechou a boca. — A queima de biomassa estabiliza a rede em picos de consumo. Cada corpo gera uns 120 kWh. Dá para manter um quarteirão de luxo aceso a noite inteira.
+— É eficiente — disse Valéria, e a voz saiu errada, plana, como se o número tivesse tomado o lugar dela por um segundo. Ela ouviu a própria frase e fechou a boca. — A queima de biomassa estabiliza a rede em picos de consumo. O relatório de rendimento contabiliza energia por lote, sem nome. Não sei se o número fecha. Sei o que está entrando na fornalha.
 
 Gabo rosnou, não por raiva dela, mas pela frieza dos números. Ele tocou o *Caronte* no coldre, sentindo o metal frio contra o quadril.
 
@@ -69,7 +67,7 @@ Gabo rosnou, não por raiva dela, mas pela frieza dos números. Ele tocou o *Car
 
 — E eles obedecem a quem? — perguntou Gabo.
 
-— A quem estiver mais perto do painel. — Valéria engoliu. — Não falam. Não negociam. E não erram.
+— A quem estiver mais perto do painel. — Valéria engoliu. — Não falam. Não negociam. E não temos como negociar com eles.
 
 O ar mudou antes do som chegar. Ficou mais frio num canto do hangar, do jeito que fica um corredor quando alguém abre uma porta atrás de você. Gabo conhecia esse frio. Não era o da noite; era o de um motor ligado há tempo suficiente para querer companhia.
 
@@ -87,7 +85,7 @@ Gabo não esperou. Ele disparou. O som do tiro de calibre 12 foi ensurdecedor no
 
 — Isso vai atrair atenção — disse Valéria, já conectando seu deck a um terminal na parede. — Estou tentando acessar o mapa da instalação. O núcleo de resfriamento deve estar no nível inferior.
 
-— Temos que chegar lá antes que ele acorde — Gabo recarregou a arma com um movimento seco. — A Aria sentiu a rede da cidade cair pela metade há vinte minutos. Quarenta, e o relógio já está correndo.
+— Temos que chegar lá antes que ele acorde — Gabo recarregou a arma com um movimento seco. — A Aria registrou a queda dos enlaces de comando há vinte minutos. Se a rotina antiga continuar válida, temos menos da metade da janela.
 
 Valéria olhou para o corredor escuro à frente.
 

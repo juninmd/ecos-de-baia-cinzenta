@@ -13,7 +13,7 @@ Soltei o ar em uma baforada espessa e branca que rodopiou na escuridão antes de
 
 — Área de desembarque segura, se você considerar um congelador industrial um lugar seguro, — a voz de Valéria soou logo atrás de mim. Ela saltou da boca do tubo com a agilidade costumeira, caindo agachada sobre as solas das botas de combate. Puxou a gola de couro da jaqueta até o queixo e bateu os braços contra o peito. — Mas que diabos de inverno fora de época é esse? Meus implantes de bochecha tão apitando aviso de hipotermia periférica.
 
-— Estamos na galeria dos condensadores de amônia, — respondi, mancando três passos para liberar espaço na borda da passarela. — Se a ventilação quebrou quando a Torre Aeterna ruiu anos atrás, os trocadores de calor continuaram puxando o calor pra fora sem renovação de ar. Isso aqui virou uma tumba de gelo químico.
+— Estamos na galeria dos condensadores de amônia, — respondi, mancando três passos para liberar espaço na borda da passarela. — Se a ventilação quebrou quando a Torre Aeterna ruiu, os trocadores de calor continuaram puxando o calor pra fora sem renovação de ar. Isso aqui virou uma tumba de gelo químico.
 
 Elias caiu em seguida, rolando de lado e soltando um gemido que se transformou em uma crise de tosse seca. Ele abraçou a própria mochila, tremendo tanto que o feixe de sua lanterna parecia um ponteiro desgovernado nas paredes de concreto.
 
@@ -53,7 +53,7 @@ O rapaz soltou um soluço sufocado e recuou um passo, batendo as costas na grade
 
 A luz revelou três figuras sentadas em semicírculo sobre caixotes de ferramentas de metal.
 
-Eram três técnicos da Aeterna Corp, ainda vestidos com os macacões cinzentos de manutenção e as botas pesadas de isolamento elétrico. Estavam mortos há décadas, perfeitamente preservados pelo frio antisséptico da câmara. Seus braços estavam entrelaçados, as cabeças encostadas nos ombros uns dos outros, em uma tentativa desesperada e final de compartilhar o calor de corpos que a corporação abandonara para morrer.
+Eram três técnicos da Aeterna Corp, ainda vestidos com os macacões cinzentos de manutenção e as botas pesadas de isolamento elétrico. Os macacões eram antigos e o frio preservara os corpos. Não sabíamos quando morreram, nem se todos tinham chegado juntos. Seus braços estavam entrelaçados, as cabeças encostadas nos ombros uns dos outros, em uma tentativa desesperada e final de compartilhar o calor de corpos que a corporação abandonara para morrer.
 
 Mas o horror não era apenas a morte; era a assimilação. A Geada Negra havia brotado dos implantes cranianos e dos soquetes neurais dos cadáveres, unindo os três operários ao concreto da parede por meio de cordões espessos de fibras pretas cristalizadas. A ferrugem alaranjada da Praga comia as ferramentas em seus cintos, enquanto os rostos congelados mantinham expressões de um desespero tranquilo e sem saída.
 

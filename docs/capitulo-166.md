@@ -3,15 +3,11 @@ title: "Capítulo 166: A Lógica da Fome"
 date: "Pós-Colapso da Usina Prometeu (Noite Eterna)"
 location: "Subnível 2.0 - O Arquivo Executivo"
 characters: ["Gabo", "Valéria", "Aria"]
+Data In-Game: "Pós-Colapso da Usina Prometeu (Noite Eterna)"
+Localização: "Subnível 2.0 - O Arquivo Executivo"
+Personagens Presentes: "Gabo, Valéria, Aria"
+description: "Aria escolhe o risco proposto e pede que não fabriquem uma substituta com seu nome. Gabo precisa reconhecer que aceitar ajuda não o torna dono desse sacrifício."
 ---
-
-## Metadados
-- **Título:** A Lógica da Fome
-- **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
-- **Localização:** Subnível 2.0 - O Arquivo Executivo
-- **Personagens Presentes:** Gabo, Valéria, Aria
-
-## Narrativa
 
 # Capítulo 166: A Lógica da Fome
 
@@ -33,8 +29,7 @@ O ozônio limpo a cinco graus adoçou-se, tornando-se rançoso e amarelo. A fuma
 
 A náusea atingiu Gabo na boca do estômago com a força de um gancho. A asfixia era real para a sua mente alucinada; ele arfou em desespero cego, cambaleando para a direita enquanto o Sentinel avançava inexorável. A repulsa pelo cheiro do cinzeiro paterno o aprisionava mais rápido do que a máquina de doze toneladas.
 
-*Ele não vai me sufocar de novo.*
-
+Ele não vai me sufocar de novo.
 Gabo girou o tronco dolorido. Ignorando a máquina de morte que ganhava velocidade pelo corredor central, ele mirou a quina de aço negro de um gabinete de arquivos inativo. Com um urro gutural, o detetive chocou violentamente o braço direito quebrado, protegido apenas por talas de emergência e ataduras ensanguentadas, contra a aresta aguda do metal congelado.
 
 A madeira improvisada e as faixas cederam, e os ossos fraturados estalaram numa torção violenta. O impacto mandou uma labareda branca, pura e implacável de agonia elétrica através de suas terminações nervosas direto para a medula.
@@ -73,14 +68,16 @@ Valéria arregalou os olhos, olhando do terminal empoeirado para o módulo blind
 
 — Você tá louco, Gabo?! Se eu plugar o pendrive da Aria direto no barramento de força do Arquivo sem o filtro do meu deck, ela vai receber a descarga bruta do mainframe do Sentinel! — a voz de Valéria tremeu em puro horror tático. — A carcaça de titânio dela não tem dissipador térmico pra aguentar um duelo de força bruta contra uma usina de doze toneladas! Isso vai fritar o silício dela por dentro!
 
-— *Valéria Cruz está correta,* — Aria interveio friamente pelo alto-falante, como se estivessem discutindo um cálculo contábil e não sua própria aniquilação térmica. — *A capacidade de processamento do núcleo do Sentinel supera meu limitador de segurança lógica. Injetar minha matriz neural diretamente na porta do terminal exigirá a desativação do meu firewall periférico de contenção térmica para inundar os barramentos corporativos pela raiz física. A temperatura interna do meu módulo excederá quatrocentos graus Celsius em segundos de confronto lógico.*
+— *Valéria Cruz está correta,* — Aria interveio friamente pelo alto-falante, como se estivessem discutindo um cálculo contábil e não sua própria aniquilação térmica. — *A capacidade de processamento do núcleo do Sentinel supera meu limitador de segurança lógica. Injetar minha matriz neural diretamente na porta do terminal exigirá a desativação do meu firewall periférico de contenção térmica para inundar os barramentos corporativos pela raiz física. A porta combina dados e teste de potência. Minha proteção já está avariada. Se eu sustentar o comando de autopurga enquanto ele tenta cortar o enlace, o retorno pode destruir o núcleo. Isso não depende de eu calcular mais rápido que doze toneladas de blindagem.*
 
 O zumbido da máquina assassina ficou ensurdecedor. Cinquenta metros. As esteiras do colosso rangiam sobre o linóleo, e as travas laterais dos bocais de contenção química estalaram perigosamente.
 
-— E se a gente não fizer isso, essas esteiras vão moer nós dois e esmagar o seu pendrive no chão de qualquer jeito! — retrucou Gabo, a dor fantasma do fumo e do cansaço já espreitando novamente nas bordas de sua visão. Ele olhou diretamente no rosto exausto da hacker. — A máquina calculou as nossas chances lá embaixo e eu deixei os dois pulsos naquela estação pra trazer a gente até aqui. Agora é a vez dela queimar o próprio silício. Faz, Val. Agora!
+— E se a gente não fizer isso, essas esteiras vão moer nós dois e esmagar o seu pendrive no chão de qualquer jeito! — retrucou Gabo, a dor fantasma do fumo e do cansaço já espreitando novamente nas bordas de sua visão. Ele olhou diretamente no rosto exausto da hacker. — A máquina calculou as nossas chances lá embaixo e eu deixei os dois pulsos naquela estação pra trazer a gente até aqui. Aria precisa responder antes. — Ele olhou para o módulo, e teve de corrigir a própria ordem. — Estou pedindo que entre. Não tenho direito de gastar você porque já perdi o resto.
+
+— Eu entro — disse Aria. — Pelo protocolo que o manual descreve, não por uma promessa de que minha carcaça aguenta. Se o núcleo não responder depois, não fabriquem outra com o meu nome e digam que voltei. Guardem o registro do que escolhi.
 
 Valéria cravou os dentes nos lábios rachados, soltou a trava magnética do cyberdeck e arrancou o pendrive quente de Aria do encaixe do pulso.
 
-— *Trinta metros para área de alcance crítico,* — a voz de Aria soou uma última vez pelo comunicador antes de o conector se soltar, o LED azul-gelo piscando na palma suja da hacker com a apatia absoluta de uma lápide.
+— *Trinta metros para área de alcance crítico,* — a voz de Aria soou uma última vez pelo comunicador antes de o conector se soltar, o LED azul-gelo piscando na palma suja da hacker pelo canal de síntese restrito que ainda conseguia usar.
 
 — Corre pro terminal e espeta ela na tomada, Valéria! — Gabo rosnou, atirando o próprio corpo quebrado para o centro do corredor para atrair a mira óptica das doze toneladas de aço corporativo. — E você, Aria... prepare-se para gritar mais alto que ele na rede até queimar!

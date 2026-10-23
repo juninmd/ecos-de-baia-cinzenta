@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node scripts/npm_test.mjs",
+    "test": "node --test scripts/check_dependency_metadata.test.mjs && node scripts/check_dependency_metadata.mjs && node scripts/npm_test.mjs",
     "build:sw": "tsc -p docs/tsconfig.sw.json",
     "docs:dev": "npm run build:sw && vitepress dev docs",
     "docs:build": "npm run build:sw && vitepress build docs",
@@ -15,7 +15,8 @@
     "android:sync": "pnpm docs:build && npx cap sync android",
     "android:open": "npx cap open android",
     "android:build": "pnpm android:sync && cd android && ./gradlew assembleDebug",
-    "android:run": "pnpm android:sync && npx cap run android"
+    "android:run": "pnpm android:sync && npx cap run android",
+    "deps:verify": "node --test scripts/check_dependency_metadata.test.mjs && node scripts/check_dependency_metadata.mjs"
   },
   "repository": {
     "type": "git",
@@ -30,22 +31,22 @@
   },
   "homepage": "https://github.com/juninmd/ecos-de-baia-cinzenta#readme",
   "devDependencies": {
-    "@semantic-release/changelog": "^6.0.3",
-    "@semantic-release/git": "^10.0.1",
-    "@types/node": "^20.19.37",
-    "mermaid": "^11.16.0",
-    "semantic-release": "^23.1.1",
-    "typescript": "^5.9.3",
-    "vitepress": "^1.6.4",
-    "vitepress-plugin-mermaid": "^2.0.17"
+    "@semantic-release/changelog": "6.0.3",
+    "@semantic-release/git": "10.0.1",
+    "@types/node": "20.19.43",
+    "mermaid": "11.16.1",
+    "semantic-release": "23.1.1",
+    "typescript": "5.9.3",
+    "vitepress": "1.6.4",
+    "vitepress-plugin-mermaid": "2.0.17"
   },
   "dependencies": {
-    "medium-zoom": "^1.1.0"
+    "medium-zoom": "1.1.0"
   },
   "optionalDependencies": {
-    "@capacitor/android": "6.2.1",
-    "@capacitor/cli": "6.2.1",
-    "@capacitor/core": "6.2.1"
+    "@capacitor/android": "6.2.2",
+    "@capacitor/cli": "6.2.2",
+    "@capacitor/core": "6.2.2"
   },
   "packageManager": "pnpm@10.30.3",
   "release": {
@@ -85,5 +86,27 @@
         }
       ]
     ]
+  },
+  "pnpm": {
+    "overrides": {
+      "@xmldom/xmldom": "0.8.15",
+      "brace-expansion@2": "2.1.7",
+      "dompurify": "3.4.17",
+      "esbuild": "0.25.12",
+      "handlebars": "4.7.10",
+      "js-yaml": "4.3.2",
+      "katex": "0.18.2",
+      "lodash": "4.18.1",
+      "lodash-es": "4.18.1",
+      "nanoid@3": "3.3.18",
+      "postcss": "8.5.23",
+      "source-map-js": "1.2.2",
+      "tar": "7.5.21",
+      "vite": "6.4.4",
+      "vue": "3.5.42"
+    },
+    "patchedDependencies": {
+      "@capacitor/cli@6.2.2": "patches/@capacitor__cli@6.2.2.patch"
+    }
   }
 }

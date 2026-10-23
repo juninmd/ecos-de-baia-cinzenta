@@ -15,7 +15,7 @@ Bati no berço com a garra da armação. O som ecoou pela galeria como um tiro.
 
 Nada.
 
-— Ela não pode te ouvir, — Valéria disse. — O berço isola acusticamente. E ainda que pudesse, a musculatura dela está sob bloqueio neural há anos. Ela não consegue responder.
+— Ela não pode te ouvir, — Valéria disse. — O berço isola acusticamente. E ainda que pudesse, a musculatura dela está sob bloqueio neural desde a entrada neste berço. Ela não consegue responder.
 
 — Ela abriu os olhos.
 
@@ -23,7 +23,7 @@ Nada.
 
 Encostei a testa no vidro frio. Do outro lado, a mulher que vendeu a minha cidade para uma equação dormia com a pele perfeita e o cabelo prateado arrumado, sem uma cicatriz, sem uma marca, sem um dia de idade a mais do que quando desapareceu.
 
-Eu tinha atravessado oitocentos metros de lodo, perdido um braço, enterrado o Rangel numa passarela oxidada e visto o pendrive da Aria derreter o próprio núcleo num terminal, e ela tinha passado a mesma temporada dormindo em lençóis limpos.
+Eu tinha atravessado oitocentos metros de lodo, perdido o uso de um braço, deixado o corpo do Rangel numa passarela oxidada e visto o pendrive da Aria derreter o próprio núcleo num terminal, e ela tinha passado a mesma temporada dormindo em lençóis limpos.
 
 Bati de novo. Mais forte. A armação soltou faísca.
 
@@ -51,11 +51,11 @@ Elias entrou atrás de mim e soltou um assobio baixo.
 
 — Por que alguém construiria isso?
 
-— Porque papel não é hackeável, — falei. — Papel não pega Praga de Ferro. Papel não vira serviço de assinatura. Você quer que uma coisa dure sessenta anos, você escreve num papel bom e tranca num cofre.
+— Porque este papel ficou fora da rede, — falei. — Pode queimar, mofar ou trazer uma mentira assinada. Mas aqui temos originais para comparar com o registro. Não vamos chamar o cofre de garantia da verdade.
 
-Valéria já estava puxando gavetas com uma velocidade que não tinha nada de humana. Três, cinco, oito por minuto, cada uma escaneada pelo azul dos olhos dela e fechada.
+Valéria já estava puxando gavetas com uma velocidade que não tinha nada de humana. Três, cinco, oito por minuto, cada uma escaneada pelo reflexo prateado dos olhos dela e fechada.
 
-— Vou levar quarenta e um minutos para indexar o conteúdo integral, — ela informou. — Você não tem quarenta e um minutos de lucidez restantes na taxa atual de febre.
+— Vou examinar os índices e selecionar o que precisamos abrir, — ela informou. — Ler o arquivo inteiro levaria dias. Você precisa de atendimento agora.
 
 — Então me dá o resumo em cinco.
 
@@ -79,16 +79,15 @@ Abri a pasta.
 
 Papel timbrado. Datilografado, com correções à mão em caneta azul. O título estava sublinhado duas vezes:
 
-**PROTOCOLO LÁZARO — VERSÃO 0.1**
-*"Sobre a viabilidade de manter o padrão cognitivo do contratante em substrato biológico reduzido."*
-
+PROTOCOLO LÁZARO — VERSÃO 0.1
+"Sobre a viabilidade de manter o padrão cognitivo do contratante em substrato biológico reduzido."
 Eu li a primeira página. Depois a segunda. Na terceira eu tive que parar e olhar para a parede branca por um tempo.
 
 *Substrato biológico reduzido.* Trinta e oito páginas de linguagem educada, tabelas de custo por unidade-ano e notas de rodapé sobre conforto da família enlutada, explicando com muita calma que sai mais barato manter vivo o pedaço da pessoa que pensa do que manter inteiro o pedaço que apodrece.
 
-O Lázaro não começou como droga. A droga veio décadas depois, quando alguém percebeu que o mesmo processo que preservava um cliente pagante podia minerar um cliente que não estava pagando nada.
+O Lázaro não começou como droga. A droga veio depois, quando alguém percebeu que o mesmo processo que preservava um cliente pagante podia minerar um cliente que não estava pagando nada.
 
-Meu pai passou quinze anos em um tanque de nutrientes servindo de processador para uma inteligência artificial. Eu passei quinze anos achando que aquilo era a coisa mais monstruosa que a Aeterna tinha inventado.
+Meu pai passou quinze anos em um tanque de nutrientes servindo de processador para uma inteligência artificial. Eu passei quinze anos procurando meu pai; só na Torre soube do tanque. Desde então, achei que aquilo era a pior invenção da Aeterna.
 
 Não era invenção. Era o **produto original**. Meu pai não foi uma perversão do serviço. Ele foi um **cliente**, sem ter assinado nada.
 
@@ -100,7 +99,7 @@ Valéria puxou a ficha de constituição.
 
 — E a Vance?
 
-— A Dra. Elara Vance não é sócia fundadora. — Uma pausa mínima. — Ela aparece pela primeira vez nos registros doze anos depois, como consultora externa contratada para auditar o Protocolo Lázaro.
+— A Dra. Elara Vance não é sócia fundadora. — Uma pausa mínima. — Ela aparece pela primeira vez nos registros em 2024, como consultora externa contratada para auditar o Protocolo Lázaro.
 
 — Auditar.
 
@@ -110,8 +109,7 @@ Ela colocou a segunda pasta em cima da primeira.
 
 Um único memorando. Meia página. Assinatura firme, sem tremor.
 
-*"O protocolo funciona. O protocolo é indefensável. Recomendo encerramento imediato do programa e destruição dos registros. Se a diretoria optar por prosseguir, recomendo que se prossiga em escala — programas desta natureza não sobrevivem à meia-medida, e a meia-medida é o único cenário em que a companhia responde criminalmente."*
-
+"O protocolo funciona. O protocolo é indefensável. Recomendo encerramento imediato do programa e destruição dos registros. Se a diretoria optar por prosseguir, recomendo que se prossiga em escala — programas desta natureza não sobrevivem à meia-medida, e a meia-medida é o único cenário em que a companhia responde criminalmente."
 Li aquilo umas seis vezes.
 
 Ela sabia. Desde o começo, ela sabia exatamente o que era, e escreveu num papel oficial que era indefensável, e no parágrafo seguinte explicou como fazer aquilo em tamanho grande o suficiente para não dar cadeia.
@@ -142,4 +140,4 @@ Não era um arquivo de clientes.
 
 Era um arquivo de **inquilinos**. E a etiqueta da lata que ele segurava, datilografada com a mesma máquina que escreveu tudo naquela sala, dizia:
 
-**MORETTI, D. — ADMISSÃO ANO 41 — CONTRATO NÃO ASSINADO — MANTER INDEFINIDAMENTE**
+MORETTI, D. — ADMISSÃO ANO 41 — CONTRATO NÃO ASSINADO — MANTER INDEFINIDAMENTE

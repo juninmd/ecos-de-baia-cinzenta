@@ -29,7 +29,7 @@ Uma floresta de biomassa bioluminescente tomara conta de cada viga, calha e pass
 
 Aproximei-me da mureta da passarela superior. Sob a casca vegetal translúcida, vi feixes de cabos coaxiais e fitas de fibra óptica arrancados das canaletas elétricas das paredes. O fungo havia envolvido os barramentos de dados, usando a malha de cobre como guia para espalhar suas hifas pelos três andares do complexo.
 
-— O Jardim tá usando a rede física da Aeterna como sistema nervoso central — Valéria explicou, os dedos correndo rápidos pelo teclado do deck. Os bipes do aparelho soavam abafados pelo ar espesso. — As bombas de circulação química ainda tão operando com energia residual do reator geotérmico. A praga tá bombeando nutrientes sintéticos e eletricidade direto pro tecido vegetal. É um supercomputador de biomassa, Moretti. Uma fazenda de processamento biológico.
+— O Jardim tá usando a rede física da Aeterna como sistema nervoso central — Valéria explicou, os dedos correndo rápidos pelo teclado do deck. Os bipes do aparelho soavam abafados pelo ar espesso. — As bombas de circulação química ainda tão operando com energia residual do reator geotérmico. A praga tá bombeando nutrientes sintéticos e eletricidade para os controladores misturados ao tecido vegetal. O modelo de fazenda de processamento combina com o que vimos, mas precisamos separar alimentação, dados e suporte das pessoas antes de cortar qualquer um deles.
 
 — E cadê o poder de cálculo? — apontei com a mão de aço para o fundo da estufa principal, onde a escuridão se adensava. — Planta não calcula rota de transmissão sozinha.
 
@@ -51,7 +51,7 @@ Valéria desligou a lanterna para não atrair a atenção dos nós bioelétricos
 
 Valéria olhou para a fileira de corpos estáticos na penumbra, os olhos prateados pesados com a amargura de quem já viu mortes demais para a sua idade.
 
-— O córtex deles já foi consumido pelas raízes, Gabo. Aquilo ali é só casca biológica mantida viva por estímulo elétrico. Se a gente desligar a força, a gente não tá matando ninguém... a gente tá dando o descanso que a corporação negou pra eles há três meses.
+— Eu não consigo avaliar o córtex pela câmera, Gabo. Eles podem estar vivos e dependentes do circuito. O que encontramos na usina não nos dá licença para chamar estes de casca. Vou procurar como separar o suporte do comando antes de tocar nas válvulas.
 
 Encarei o labirinto de passarelas enferrujadas que descia até o núcleo de concreto. O ar estava ficando cada vez mais pesado, carregado com esporos microscópicos que faziam a garganta pinicar com um gosto metálico.
 
@@ -59,6 +59,6 @@ Encarei o labirinto de passarelas enferrujadas que descia até o núcleo de conc
 
 Ela puxou o ferrolho da pistola, conferindo a câmara com aquele estalo firme e profissional que sempre me devolvia o foco.
 
-— Atrás de você é o único lugar seguro nessa cidade, detetive — ela deu um sorriso curto, afiado como navalha, ajustando a alça do cyberdeck nas costas. — Só tenta não escorregar no lodo com esse pé de chumbo. Se essa floresta de pesadelo acordar, a gente vai precisar correr mais do que o seu joelho aguenta.
+— Atrás da mureta, com você parado e o suporte travado, talvez a gente consiga pensar, detetive — ela deu um sorriso curto, afiado como navalha, ajustando a alça do cyberdeck nas costas. — Só tenta não escorregar no lodo com esse pé de chumbo. Se essa floresta de pesadelo acordar, a gente vai precisar correr mais do que o seu joelho aguenta.
 
 Deixamos o patamar do elevador e começamos a descer a escadaria de serviço, mergulhando na névoa fosforescente daquele pomar profano, onde a linha entre carne humana e máquina corporativa havia sido apagada para sempre.

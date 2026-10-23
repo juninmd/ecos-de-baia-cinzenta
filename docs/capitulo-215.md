@@ -19,11 +19,11 @@ A blindagem tinha anéis de vedação de quatrocentos milímetros e travas de pr
 
 Elias ajoelhou-se ao lado dela, iluminando as placas de identificação rebitadas no aço com sua lanterna de inspeção. O rapaz correu os dedos sobre as letras gravadas em baixo-relevo.
 
-— 'Companhia Construtora e Hidráulica de Baía Cinzenta — Eixo de Sondagem Zero', — leu ele, a voz carregada de assombro. — Eles cavaram direto na falha tectônica pra ancorar os pilares mestres da cidade. Isso aqui desce quatrocentos metros em queda livre até o leito rochoso.
+— 'Companhia Construtora e Hidráulica de Baía Cinzenta — Eixo de Sondagem Zero', — leu ele, a voz carregada de assombro. — Abriram uma sondagem para estudar a rocha antes de assentar os pilares. A placa não diz quando ampliaram o poço. Isso aqui desce quatrocentos metros em queda livre até o leito rochoso.
 
 — E como a gente desce quatrocentos metros sem arrebentar no fundo? — perguntei, apoiando a *Caronte* na soleira e checando os cartuchos de grosso calibre no cinto.
 
-— Tem uma gaiola de carga industrial suspensa por cabos de aço trançado de duas polegadas, — Valéria explicou, puxando uma alavanca de liberação manual com um estalo seco. — O motor de tração é alimentado por um contrapeso de chumbo e um gerador piezoelétrico subterrâneo. A boa notícia é que o sistema não depende da rede elétrica corrompida da cidade.
+— Tem uma gaiola de carga industrial suspensa por cabos de aço trançado de duas polegadas, — Valéria explicou, puxando uma alavanca de liberação manual com um estalo seco. — O motor de tração é alimentado por um contrapeso de chumbo e a linha geotérmica de serviço. A boa notícia é que o sistema não depende da rede elétrica corrompida da cidade.
 
 — E a má notícia? — indaguei, erguendo uma sobrancelha.
 
@@ -31,13 +31,13 @@ Elias ajoelhou-se ao lado dela, iluminando as placas de identificação rebitada
 
 Elias levantou-se, tirando um jogo de chaves e o testador sônico da mochila. Ele examinou o tambor do guincho através de uma grade de inspeção.
 
-— Os cabos de sustentação tão lubrificados com parafina pesada, — o garoto analisou, apontando a luz para o mecanismo. — Não tem oxidação na alma de aço. Mas o regulador centrífugo tá com a mola de recuo travada por poeira estática. Se eu destravar a mola com um pulso de vibração sônica, a descida vai ser controlada em velocidade constante de três metros por segundo.
+— Os cabos de sustentação tão lubrificados com parafina pesada, — o garoto analisou, apontando a luz para o mecanismo. — Não vejo oxidação nos fios externos. A alma do cabo eu não consigo examinar daqui. Mas o regulador centrífugo tá com a mola de recuo travada por poeira estática. Se eu destravar a mola com um pulso de vibração sônica, podemos testar o regulador sem carga e descer com o freio manual ao alcance. Isso não certifica o cabo.
 
 Valéria olhou para mim, os olhos prateados faiscando de aprovação genuína.
 
-— Viu só, Moretti? Eu disse que trazer um engenheiro civil assustado era o melhor investimento tático da semana.
+— Viu só, Moretti? Eu disse que trazer um técnico de manutenção assustado era o melhor investimento tático da semana.
 
-— O garoto conquistou o lugar dele na equipe faz tempo, Val, — afirmei, dando um tapinha encorajador no ombro de Elias. — Mostra pra essa máquina velha como os engenheiros da nova geração trabalham.
+— O garoto conquistou o lugar dele na equipe faz tempo, Val, — afirmei, dando um tapinha encorajador no ombro de Elias. — Mostra pra essa máquina velha como o pessoal da manutenção trabalha.
 
 Elias engoliu em seco, assentiu com determinação e aproximou a ponta de cerâmica da ferramenta sônica do tambor do regulador. Ele disparou uma sequência curta de pulsos acústicos modulados.
 

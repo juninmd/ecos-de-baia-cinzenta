@@ -1,11 +1,10 @@
-## Metadados
-- **Título:** Curadoria
-- **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
-- **Localização:** Necrópole (O Estúdio do Taxidermista)
-- **Personagens Presentes:** Gabo, Valéria, Aria (Reboot), Rangel (Inconsciente), O Taxidermista (Antagonista)
-- **Foco:** A batalha no Estúdio começa. As "Esculturas" do Taxidermista provam ser adversários formidáveis, movendo-se com elegância letal. Gabo luta com recursos limitados enquanto Aria calcula os vetores de ataque pelo comunicador. Valéria e Aria identificam que o "Tríptico da Lamentação" atua como um servidor de coordenação para as Esculturas. Gabo toma a decisão brutal de destruir o Tríptico para quebrar a sincronia dos inimigos, provocando a fúria do Taxidermista, que inicia o protocolo de "Limpeza".
-
-## Narrativa
+---
+title: "Capítulo 139: Curadoria"
+Data In-Game: "Pós-Colapso da Usina Prometeu (Noite Eterna)"
+Localização: "Necrópole (O Estúdio do Taxidermista)"
+Personagens Presentes: "Gabo, Valéria, Aria (Reboot), Rangel (Inconsciente), O Taxidermista (Antagonista)"
+description: "Gabo destrói uma instalação com pessoas possivelmente vivas. O horror imposto às vítimas não comprova que desejavam morrer; a escolha não fica absolvida pela aparência delas."
+---
 
 # Capítulo 139: Curadoria
 
@@ -37,12 +36,11 @@ Gabo foi arremessado por três metros, colidindo de costas contra uma vitrine de
 
 — *Integridade do barramento externo: 88%* — Aria anunciou pelo alto-falante rachado, a voz desprovida de qualquer alarme. — *Padrão de ataque inimigo analisado. Coordenação via rede local de baixa latência. Eles não operam como unidades autônomas. São membros de um único processamento.*
 
-— Eles compartilham a visão! — Valéria gritou atrás da maca, os dedos voando sobre o deck holográfico de pulso enquanto disparava um pulso magnético que desviou o bote da terceira Escultura. Seus olhos cibernéticos giravam freneticamente, processando o fluxo de dados do ambiente. — É uma rede *mesh* fechada. Eu não consigo entrar! A criptografia é biológica!
+— Eles compartilham a visão! — Valéria gritou atrás da maca, os dedos voando sobre o deck holográfico de pulso enquanto lançava o estrobo diante dos sensores da terceira Escultura. O alvo hesitou o suficiente para ela recuar. Seus olhos cibernéticos giravam freneticamente, processando o fluxo de dados do ambiente. — É uma rede *mesh* fechada. Eu não consigo entrar! A criptografia é biológica!
 
 Gabo bloqueou outro golpe da primeira Escultura, o vergalhão entortando perigosamente. Ele estava suando frio. O ar reciclado estava começando a cheirar a ozônio e sangue. O desespero físico ameaçava turvar sua visão periférica, uma vertigem tóxica subindo pela nuca. Ele largou uma mão do vergalhão por meio segundo e apertou o *Colar de Sol* no peito. As pontas de metal morderam a carne viva.
 
-*Dor é foco. Pânico é morte.*
-
+Dor é foco. Pânico é morte.
 A vertigem passou, substituída pela clareza adrenal.
 
 — Onde está o servidor?! — Gabo gritou, aparando um golpe que visava suas pernas.
@@ -65,11 +63,11 @@ O Taxidermista riu, um som seco.
 
 Gabo olhou para o tanque. Três pessoas. Ou o que sobrou delas. Vivas. Sofrendo. E agora, sendo usadas como armas contra eles.
 
-Se ele destruísse o tanque, pararia as Esculturas. Mas mataria os três.
+Se ele destruísse o tanque, pararia as Esculturas. Podia matar os três. Val tentava separar o enlace de comando do suporte de vida, mas o painel não respondia à chave local.
 
 Uma das Esculturas avançou contra Valéria. Aria disparou uma sobrecarga nos capacitores de iluminação do piso através do deck da hacker, cegando os sensores ópticos da unidade por dois segundos, mas outra Escultura já se aproximava da maca de Rangel.
 
-Não havia escolha.
+Não encontrou outra saída antes de ver a lâmina sobre a maca. Isso não tornava os três do tanque menos vivos.
 
 — Me perdoem — Gabo sussurrou.
 
@@ -83,8 +81,7 @@ Gabo alcançou o cilindro central. Ele segurou o vergalhão com as duas mãos, c
 
 O metal atingiu o vidro temperado.
 
-*CRACK.*
-
+CRACK.
 Uma teia de aranha se formou. O líquido dourado começou a vazar.
 
 O zumbido do Tríptico virou um grito agudo, estático e mental nos alto-falantes da sala, que fez Gabo cair de joelhos.
@@ -99,7 +96,7 @@ Imediatamente, as Esculturas travaram no meio do passo. Elas não desligaram, ma
 
 — *Sincronia de rede inimiga em zero por cento. Junta cervical da unidade frontal exposta* — Aria cantou no fone.
 
-Gabo aproveitou a falha. Com um giro brutal do vergalhão, ele encaixou a ponta de ferro sob o queixo da Escultura mais próxima e alavancou com toda a força do exoesqueleto, arrancando a cabeça de cerâmica branca. O crânio liso rolou pelo chão, parando aos pés da plataforma do Taxidermista.
+Gabo aproveitou a falha. Com um giro brutal do vergalhão, ele encaixou a ponta de ferro sob o queixo da Escultura mais próxima e alavancou usando a borda da base como apoio, rompendo a junta já quebrada da cabeça de cerâmica. O peso da unidade completou o rasgo. O crânio liso rolou pelo chão, parando aos pés da plataforma do Taxidermista.
 
 O silêncio voltou ao estúdio. Mas agora era um silêncio pesado.
 

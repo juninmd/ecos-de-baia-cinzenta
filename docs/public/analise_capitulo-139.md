@@ -1,10 +1,17 @@
-# Análise Crítica - Capítulo 139
+# Revisão de Capítulo 139: Curadoria
 
-## Consistência de Personagem (Lore)
-- **Gabo:** A violação onde Gabo "queria fumar" para aplacar a ansiedade ("A ansiedade era um inseto rastejando sob sua pele") foi corrigida e adaptada. A fobia voltou a assumir o lugar, forçando a lembrança assustadora de asfixia por charuto e o alívio que ele encontra infligindo dor física a si mesmo com o Colar para se desprender do gatilho.
+Fonte: [capítulo 139](/capitulo-139.md).
 
-## Trama e Continuidade
-- Gabo e seu combate com o vergalhão para destruir a máquina central são lógicos.
+Gabo destrói uma instalação com pessoas possivelmente vivas. O horror imposto às vítimas não comprova que desejavam morrer; a escolha não fica absolvida pela aparência delas.
 
-## Conclusão da Revisão
-**Aprovado.**
+## Passagens de entrada e saída
+
+> A primeira Escultura não correu. Ela flutuou.
+
+### Saída
+
+> Mas a porta hidráulica pela qual entraram já estava fechada. E o metal dela começava a brilhar em um tom laranja opaco.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

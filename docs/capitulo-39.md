@@ -9,6 +9,8 @@ Localização: "Porão da Delegacia Central → Mansão dos Vance"
 
 # Capítulo 39: Dossiê Vance
 
+Na segunda semana após a queda, a busca pelos números de procedimento finalmente reuniu o material. Elena cruzou o registro clínico que tinham fotografado, cópias de apreensão e duas impressões de correspondência encontradas no arquivo. Conservou as folhas inteiras e anotou a origem de cada uma antes de preparar o resumo.
+
 Não havia internet para vazar documento.
 
 Não havia telejornal, portal, agregador, nem aquele ecossistema inteiro de gente que ganhava a vida explicando notícia para quem não leu a notícia. A Mídia tinha morrido às 03h14 do dia primeiro, junto com todo o resto, e ninguém sentiu falta nas primeiras setenta e duas horas porque havia problemas mais urgentes.
@@ -19,17 +21,13 @@ Então eles fizeram do jeito velho.
 
 A impressora offset da delegacia era de mil novecentos e noventa e alguma coisa e tinha sido mantida por pura inércia orçamentária: nunca deu baixa porque dar baixa exigia um formulário que exigia uma assinatura de um cargo que foi extinto.
 
-Ela pesava seiscentos quilos, funcionava com um motor de indução que aceitava a corrente suja do gerador a diesel, e o Inspetor aposentado que sabia operá-la ainda estava vivo e morava a quatro quarteirões.
-
-Rodaram durante trinta e uma horas.
+Ela pesava seiscentos quilos, funcionava com um motor de indução que aceitava a corrente suja do gerador a diesel, e o Inspetor aposentado que sabia operá-la ainda estava vivo e morava a quatro quarteirões. Rodaram durante trinta e uma horas.
 
 O barulho era ensurdecedor, um bate-estaca ritmado que fazia o piso do porão vibrar, e o cheiro de tinta de impressão — solvente, óleo, alguma coisa quase de pão — grudou nas roupas de todo mundo e não saiu por uma semana.
 
-Saíram catorze mil folhas.
+Saíram catorze mil folhas. Frente e verso, papel jornal ruim, tinta preta que borrava no polegar. O resumo do Dossiê Vance em nove parágrafos, porque a Elena brigou até conseguir cortar de vinte e dois para nove.
 
-Frente e verso, papel jornal ruim, tinta preta que borrava no polegar. O resumo do Dossiê Vance em nove parágrafos, porque a Elena brigou até conseguir cortar de vinte e dois para nove.
-
-Fotos dos experimentos, granuladas na retícula grossa.
+Fotos dos experimentos, granuladas na retícula grossa. Em folha separada, Elena incluiu o relato de Éder, com as testemunhas e o estágio da apuração. Gabo não autorizava o que podia ser dito sobre ele.
 
 A planilha. Aquela que dizia, em três colunas, quanto custava manter um "sujeito de estudo" vivo, quanto rendia processá-lo, e a diferença.
 
@@ -41,9 +39,7 @@ Distribuíram de mão em mão.
 
 Colaram em poste com cola de farinha. Enfiaram por baixo de porta. Jogaram de cima dos viadutos em maços de duzentas, e as folhas desciam girando na chuva fina e se espalhavam na água parada da avenida como pétalas sujas.
 
-E aconteceu uma coisa que ninguém previu.
-
-As pessoas **paravam para ler**.
+E aconteceu uma coisa que ninguém previu. As pessoas **paravam para ler**.
 
 Não passavam o olho: paravam, encostavam num muro, liam do começo ao fim, e depois liam de novo. Uma mulher no ponto de ônibus da Rua Onze leu em voz alta para nove pessoas, e quando terminou uma delas pediu para ela ler outra vez.
 
@@ -63,13 +59,11 @@ Val ficou olhando aquilo com uma expressão que Gabo não soube identificar.
 
 No terceiro dia, a multidão foi até o Distrito de Prata.
 
-Não foram avatares. Foram pessoas de carne, com tocha de verdade, feita de cabo de vassoura e pano com querosene, e pedra de verdade arrancada do calçamento.
-
-Eram umas quatro mil.
+Não foram avatares. Foram pessoas de carne, com tocha de verdade, feita de cabo de vassoura e pano com querosene, e pedra de verdade arrancada do calçamento. Eram umas quatro mil.
 
 A segurança privada da mansão dos Vance abandonou o posto às onze da manhã. Eles também tinham lido o panfleto. Um deles inclusive ajudou a arrastar o portão.
 
-Gabo estava lá, no meio, apoiado numa bengala improvisada de cano de PVC, e viu o portão cair.
+Gabo estava na cadeira, atrás do cordão que acompanhava Vilar sob comando do sargento, e viu o portão cair. Nise já chegara com a equipe do comboio; pedira que ele não tentasse apoiar a perna.
 
 Viu quando arrancaram a Dra. Elara Vance de dentro da casa.
 
@@ -79,9 +73,7 @@ A multidão a colocou de joelhos no jardim.
 
 ---
 
-E aí Gabo Moretti fez a coisa mais difícil da vida dele até aquela data.
-
-Ele atravessou a multidão, subiu no que sobrou do portão, e gritou para quatro mil pessoas que aquela mulher não ia morrer ali.
+E aí Gabo Moretti fez a coisa mais difícil da vida dele até aquela data. Pediu que aproximassem a cadeira do cordão e ergueu o megafone para dizer que aquela mulher não morreria ali.
 
 — **ELA VAI SER PRESA!**
 
@@ -91,11 +83,7 @@ Ele atravessou a multidão, subiu no que sobrou do portão, e gritou para quatro
 
 — **QUEREMOS AS DUAS!**
 
-E a multidão riu — aquela risada horrível, unida e sem humor, que multidão dá quando já decidiu.
-
-Vilar chegou com dezenove policiais e formaram um cordão.
-
-Não em volta da casa: em volta da mulher.
+E a multidão riu — aquela risada horrível, unida e sem humor, que multidão dá quando já decidiu. Vilar chegou com dezenove policiais e formaram um cordão. Não em volta da casa: em volta da mulher.
 
 Dezenove homens cansados, de braços dados, com as costas para uma assassina em massa e a cara para quatro mil vítimas dela, sabendo perfeitamente de que lado estava a razão.
 
@@ -105,7 +93,7 @@ Foi a coisa mais parecida com Estado que Baía Cinzenta produziu naquele mês.
 
 Vilar leu o mandado em voz alta.
 
-Tinha sido datilografado numa Olivetti que a Val achou no arquivo morto, com duas vias e carbono, assinado por um Capitão sem sistema e carimbado com um carimbo que não valia mais nada.
+Tinha sido datilografado numa Olivetti que a Val achou no arquivo morto, com duas vias e carbono, registrado pelo plantão, com fundamentos e relação das peças, para apresentação à autoridade judiciária assim que fosse possível. A assinatura de Vilar não substituía a decisão de um juiz.
 
 E funcionou. Isso é o que ninguém entende sobre a lei: ela nunca foi o servidor. Sempre foi o teatro, e o teatro estava sendo encenado com convicção.
 
@@ -117,29 +105,21 @@ Ela cuspiu no chão. As mãos tremiam tanto que ela teve de fechá-las.
 
 — A gente prefere a realidade — disse uma mulher na frente do cordão.
 
-E jogou a pedra.
+E jogou a pedra. Acertou a testa da Vance acima da sobrancelha esquerda. Sangue de verdade escorreu, vermelho e comum, e um silêncio breve caiu sobre o jardim, porque ninguém ali tinha visto sangue sair daquele rosto antes.
 
-Acertou a testa da Vance acima da sobrancelha esquerda. Sangue de verdade escorreu, vermelho e comum, e um silêncio breve caiu sobre o jardim, porque ninguém ali tinha visto sangue sair daquele rosto antes.
-
-Gabo não prendeu a mulher que jogou.
-
-Ele registrou o rosto, o que era pior, e passou os anos seguintes sabendo o nome dela.
+Gabo não prendeu a mulher que jogou. Ele registrou o rosto, o que era pior, e passou os anos seguintes sabendo o nome dela.
 
 ---
 
-Colocaram Elara Vance na viatura.
+Colocaram Elara Vance na viatura. Ela sentou no banco de trás com as mãos algemadas na frente, ereta, com o sangue escorrendo até o queixo, e olhou pela janela até encontrar Gabo. E manteve o olhar nele.
 
-Ela sentou no banco de trás com as mãos algemadas na frente, ereta, com o sangue escorrendo até o queixo, e olhou pela janela até encontrar Gabo. E manteve o olhar nele.
-
-Não havia ódio ali. Havia uma avaliação — a mesma que ela devia dar num relatório trimestral.
-
-Ela conseguiu dizer uma frase antes de fecharem a porta, e disse baixo, para ele:
+Não havia ódio ali. Havia uma avaliação — a mesma que ela devia dar num relatório trimestral. Ela conseguiu dizer uma frase antes de fecharem a porta, e disse baixo, para ele:
 
 — Você acabou de me salvar, detetive.
 
 — Eu sei.
 
-— Você é a única pessoa nesta rua que já matou um homem desarmado esta semana. — Ela sorriu, e o sorriso fez o sangue mudar de caminho. — E foi você que segurou a multidão. Pensa nisso quando tiver dificuldade para dormir. Eu vou pensar.
+— Eu li o relato da Avenida da Indústria que sua jornalista publicou junto das denúncias. Você matou um rapaz que se rendeu. — Ela sorriu, e o sorriso fez o sangue mudar de caminho. — E foi você que segurou a multidão. Pensa nisso quando tiver dificuldade para dormir. Eu vou pensar.
 
 A porta bateu.
 
@@ -151,8 +131,7 @@ A porta bateu.
 
 Val se aproximou com um jornal impresso às pressas, quatro páginas, feito por um pessoal da gráfica da Rua Nove que resolveu copiar a ideia. A manchete ocupava metade da capa:
 
-**O FIM DA ILUSÃO**
-
+O FIM DA ILUSÃO
 E, embaixo, em corpo menor: *"O detetive que trouxe a verdade de volta."*
 
 — Eles estão te chamando de herói — disse Val.
@@ -161,9 +140,7 @@ Gabo olhou a própria foto no papel, mal impressa, o rosto duro e desfocado.
 
 — Herói morre no fim — ele disse, e dobrou o jornal em quatro. — Eu sou só o sujeito que ainda está de pé.
 
-Eles voltaram para o Cobalt.
-
-O motor pegou de primeira.
+Eles voltaram para o Cobalt. O motor pegou de primeira.
 
 E, no jardim vazio da mansão dos Vance, o vento empurrou catorze mil folhas de papel jornal encharcado contra a grade caída — todas com o mesmo rosto de mulher impresso na segunda página, todas ilegíveis, porque a tinta borra na chuva.
 

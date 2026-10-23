@@ -1,158 +1,100 @@
 ---
 image: /capitulo_25.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Valéria "Val" Cruz
-Localização: "Torre Aeterna, subnível 5 (logística e carga), em subida"
+Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Valéria "Val" Cruz, Aria (módulo no deck), equipe de segurança
+Localização: "Torre Aeterna, subnível 5 → elevador de carga → escada de serviço do nível 80 ao 100"
 ---
 # Capítulo 25: Elevador para o Inferno
 
-O contraste era brutal. Eles saíram do esgoto vitoriano diretamente para o futuro estéril de um laboratório de alta tecnologia. O piso branco refletia suas silhuetas sujas e armadas.
+O corredor de carga cheirava a filtro novo. Não era ausência de cheiro: era alguém pagando para não sentir o que ficava do outro lado da parede.
 
-O cheiro era o pior detalhe: nenhum. Um corredor de clínica sem clínica, com o ar filtrado três vezes e devolvido sem opinião. O piso, encerado de fresco, era generoso, quase hospitaleiro. Ao fundo, um aspirador de manutenção circulava sozinho, indiferente, cumprindo a rotina de limpeza de um prédio que ignorava estar sendo invadido.
+Elena conduzia o carrinho devagar. O sangue do ouvido esquerdo de Gabo chegara à gola; ele virava a cabeça para ouvi-la à direita. A Caronte, com três cartuchos, estava sobre o estojo do Leviatã. A jornalista mantinha a Glock baixa, com os três tiros restantes contados.
 
-— Estamos no subnível 5 — informou Valéria, consultando o deck. — Logística e Carga.
+— Subnível cinco — disse Valéria, conferindo o número pintado na coluna. — A revisão indica o elevador depois da doca.
 
-O alarme começou a tocar. Não uma sirene estridente, mas um pulso sonoro grave e luzes vermelhas que giravam suavemente. A Aeterna era elegante até em suas emergências.
+Um aspirador de manutenção contornou a roda quebrada do carrinho e seguiu limpando o rastro deles. Atrás, a porta da galeria continuava fechada.
 
-Só que o pulso entrava em Gabo pelo osso, não pelo ouvido: o tímpano esquerdo continuava fechado desde a explosão no túnel, e o mundo daquele lado chegava abafado, com um chiado de fritura.
+O alarme começou sem pressa. Luzes vermelhas giraram e um pulso grave entrou em Gabo pelo peito. Ele se apoiou no carrinho, esperando a tontura passar.
 
-— Você está surdo — disse Valéria, e não era pergunta.
+— Precisa sentar? — perguntou Elena do lado certo.
 
-— Estou economizando.
+— Preciso sair daqui.
 
-— Você está sangrando do ouvido.
+— As duas coisas podem ser verdade.
 
-— Aí eu economizo mais.
+Valéria chegou ao leitor da doca. A permissão de Miranda abriu o modo de inspeção; o trajeto público apareceu bloqueado. Aria leu a lista através do deck. Era uma rota de carga até o setor médico do nível 100, não acesso aos quartos ou aos servidores.
 
-— Eles sabem que estamos aqui — disse Elena.
+— Isso deixa registro — disse Valéria.
 
-— Ótimo — disse Gabo. — Cansei de me esconder.
+Gabo olhou a luz que já girava sobre eles.
 
-Ele foi até um painel de controle e o esmagou com a coronha da escopeta.
+— Guarda o nosso também.
 
-— Onde fica o elevador principal?
+A primeira porta lateral abriu antes de terminarem a consulta. Um drone saiu rente ao teto, com a arma buscando o movimento mais próximo. Elena disparou uma vez; atingiu a carenagem, mas não o derrubou. Recuou atrás da coluna enquanto a rajada rasgava o carrinho.
 
-— No final do corredor — apontou Val. — Mas Gabo, ele vai estar bloqueado. E cheio de guardas.
+Valéria fechou a porta de inspeção pelo comando que ainda estava aberto no leitor. A chapa cortou o campo do drone por um instante. Só aquela porta; as outras continuaram se movendo.
 
-— Destranque o elevador. Deixe os guardas comigo.
+— Pela doca, agora.
 
-Eles correram pelo corredor. Portas laterais se abriram e drones de segurança — esferas flutuantes com tasers e submetralhadoras — saíram zumbindo.
+Elena precisou apoiar a Caronte na borda da coluna para disparar. O segundo impacto desmontou o suporte da arma do drone. A máquina caiu girando, ainda presa a um cabo. O ruído atingiu o ouvido bom de Gabo; do outro lado restou um chiado contínuo.
 
-— Abaixa! — gritou Gabo.
+O elevador de carga tinha tamanho para receber o Cobalt. Diante dele, seis homens de armadura branca aguardavam atrás de divisórias móveis. Não eram rostos: eram visores devolvendo a imagem dos três.
 
-Ele e Elena abriram fogo. O corredor virou uma zona de guerra de luzes estroboscópicas e balas traçantes. Valéria corria agachada, hackeando as portas para fechá-las na cara dos reforços que chegavam.
+— Moretti. A ordem é entregar você inteiro.
 
-Eles chegaram ao saguão do elevador de carga. Era uma plataforma enorme, capaz de levantar caminhões.
+— E elas?
 
-Havia um esquadrão de segurança lá. Homens em armaduras táticas brancas, sem rostos, apenas visores espelhados.
+O homem apontou para o piso, não para a saída.
 
-— Rendam-se! — a voz amplificada do líder ecoou.
+— A repórter deixa a bolsa. A técnica se ajoelha e mantém o cabo onde eu veja.
 
-O líder deu um passo à frente e ergueu a mão enluvada. No visor espelhado, Gabo viu o próprio reflexo: sujo, com o ouvido sangrando, a escopeta no chão aos pés.
+Elena apertou a alça dos papéis. Valéria, mancando, não tinha como chegar ao centro da doca antes que a torre sobre o elevador terminasse de girar para ela.
 
-— Você é o Moretti — disse a voz amplificada. — A ordem é te entregar inteiro. Você tem trinta segundos para decidir se vai ser entregue inteiro.
+— Não queremos os funcionários — disse Gabo. — Queremos o setor médico.
 
-— E se eu não decidir?
+— Eu sei o que você quer.
 
-— Aí a ordem fica mais fácil de cumprir.
+A resposta veio acompanhada do primeiro disparo contra a coluna, antes que Gabo terminasse de tirar a lanterna da mão. Fragmentos de revestimento bateram no rosto de Elena. Os três se abaixaram atrás de uma caixa de motores.
 
-Gabo sorriu. Ele soltou a escopeta no chão e levou a mão às costas.
+O estojo do Leviatã estava no carrinho, junto deles. Valéria destravou a arma e usou a borda metálica como apoio. Gabo não a tomou: não conseguiria sustentar o peso nem controlar o recuo com a mão coberta.
 
-— Calma, rapazes! — gritou ele. — Só viemos entregar uma pizza!
+— A concussão — disse ela.
 
-Ele puxou a "Leviatã" de onde estava presa em suas costas. O lançador parecia grande demais, pesado demais.
+Ele indicou a divisória que separava os guardas do acesso ao elevador. Não havia como garantir quem ficaria atrás dela quando o projétil chegasse. A jornalista baixou a cabeça e tapou o ouvido de Gabo que ainda respondia.
 
-Os guardas hesitaram por uma fração de segundo.
+O impacto jogou a divisória para trás. Um homem caiu com ela; os demais perderam a linha de tiro. Gabo ouviu o grito mesmo através do chiado. Não esperaram para contar feridos. Entraram na plataforma puxando o carrinho torto.
 
-Gabo puxou o gatilho.
+Valéria conectou o deck ao painel. A permissão de manutenção aceitou a chamada já selecionada, até o nível 100. As portas fecharam enquanto alguém batia do lado de fora.
 
-A ogiva de concussão atingiu o chão no meio do esquadrão. A explosão não foi de fogo, mas de força pura. Os guardas foram arremessados como bonecos de pano contra as paredes. A onda de choque estourou os vidros do saguão.
+O primeiro solavanco derrubou Gabo de joelhos. Elena se agachou junto dele, sem tentar levantá-lo pelo braço. Esperaram que pudesse ficar de pé com apoio na cintura.
 
-— Entrem! — Gabo correu para a plataforma, puxando Elena.
+Os números subiram. Não eram borrões de andares abertos: paredes, juntas e breves janelas de serviço passavam do outro lado da grade. Gabo olhou as mãos no próprio colo. Tinha deixado de ser quem carregava o grupo e continuava decidindo para onde ele ia.
 
-Valéria correu para o painel do elevador e conectou seu deck.
+No 80, o freio travou.
 
-— Subindo! — ela gritou.
+— Bloqueio externo — disse Valéria. — O painel não aceita continuar.
 
-A plataforma deu um solavanco e começou a ascender rapidamente pelo poço gigantesco.
+A plataforma parara junto de uma passarela de inspeção. A porta de acesso à escada ficava além dela, numa lateral do poço. Havia um vão curto entre a grade e o patamar; abaixo, oitenta andares que não precisavam de ajuda para matar ninguém.
 
-Eles viam os andares passando como borrões. Escritórios, laboratórios, servidores.
+Luzes se acenderam mais acima. Dois drones desciam pelas guias.
 
-— Estamos indo para o topo? — gritou Elena sobre o vento do poço.
+Valéria recolheu a última cápsula, de nitrogênio. Prendeu o lançador no apoio do carrinho e esperou que as máquinas passassem pela travessa. O projétil atingiu a guia; uma nuvem branca cobriu os sensores. O primeiro drone bateu no suporte, e o segundo mudou de direção tarde demais.
 
-— Para a Antena — disse Gabo. — Nível 100.
+O metal caiu sobre a plataforma. O carrinho virou e levou o lançador vazio para a borda. Elena deixou o estojo; escolheu a bolsa com Aria, os papéis e a Caronte antes de atravessar.
 
-De repente, a plataforma parou com um rangido metálico violento. Faíscas choveram sobre eles.
+Valéria manteve a grade aberta. Gabo tentou passar depressa e o joelho cedeu no vão. Elena o segurou pelo cinto contra a borda, sem suspendê-lo pelo pulso. Ele encontrou apoio para o pé e só então conseguiu se arrastar para o patamar. A tipoia ficou presa na quina; tiveram de soltá-la antes de puxá-lo.
 
-— O que foi isso? — perguntou Gabo.
+Da passarela viram a plataforma ceder até o próximo freio. A queda não chegou ao fundo, mas deixou o elevador inclinado, fora do alcance. O carrinho, o Leviatã vazio e a saída rápida tinham ficado lá.
 
-— Cortaram a energia! — gritou Valéria. — Estamos no andar 80. Travados.
+A escada de serviço tinha degraus comuns e corrimão. Ainda eram vinte andares. Gabo podia empurrar o corpo com as pernas; não podia subir pendurado nas mãos. Elena ficou atrás, Valéria à frente. Paravam nos patamares para o tornozelo dela e para ele recuperar o ar.
 
-Gabo olhou para cima. O poço continuava por mais vinte andares na escuridão.
+Num patamar, Elena desligou o gravador para poupar fita. Anotou o horário aproximado da doca e as falas que não tinham sido registradas. Gabo quis acrescentar a posição do guarda; não conseguiu segurar o lápis. Teve de ditar e esperar que ela terminasse.
 
-— Tem uma escada de manutenção — disse ele, apontando para a lateral do poço.
+Quase uma hora depois, o número 100 apareceu pintado no concreto. O deck marcava nove por cento.
 
-— Vinte andares? — Elena olhou para cima, desanimada.
+— Se a porta estiver bloqueada, não prometo abrir — disse Valéria.
 
-— É melhor do que esperar aqui para sermos alvos de tiro ao alvo — disse Gabo.
+Gabo se sentou no último degrau antes de responder. Elena pousou a Caronte, ainda com dois cartuchos, longe da sua mão ferida. A Glock conservava dois. Nenhum dos três tinha munição para outra doca.
 
-Nesse momento, luzes vermelhas se acenderam nas paredes do poço acima deles.
+A porta destravou sozinha.
 
-— Gabo... — avisou Valéria.
-
-Drones de combate pesados, do tamanho de motos, desciam em formação de ataque.
-
-— Subam! — ordenou Gabo. — Eu dou cobertura!
-
-Elena e Valéria pularam para a escada de metal na parede do poço. Gabo ficou na plataforma, recarregando a "Leviatã" com sua última cápsula de nitrogênio.
-
-— Venham, seus liquidificadores voadores! — desafiou ele.
-
-Os drones abriram fogo. Balas ricochetearam na plataforma. Gabo se escondeu atrás de uma caixa de carga. Ele esperou o momento certo.
-
-Quando os drones se agruparam para o ataque final, Gabo se levantou e disparou.
-
-A explosão iluminou o poço como um relâmpago dentro de uma garrafa. Metal retorcido e fogo choveram. A força do impacto quase jogou Gabo para fora da plataforma.
-
-Ele correu e saltou para a escada.
-
-Seu braço direito falhou. O ombro deslocado gritou, uma dor tão intensa que sua visão escureceu. Seus dedos escorregaram do degrau oleoso.
-
-Ele ia cair. Oitenta andares de vazio.
-
-— GABRIEL!
-
-Uma mão agarrou seu pulso esquerdo. Elena. Ela estava debruçada na escada, segurando-o com uma força que ele não sabia que ela tinha. Valéria segurava as pernas de Elena.
-
-— Eu peguei você! — gritou Elena, puxando-o. — Não se atreva a soltar!
-
-Gabo encontrou apoio para os pés, ofegante, o suor frio misturando-se à fuligem em seu rosto. Ele olhou para cima. Elena, a mulher que ele jurou proteger, estava salvando sua vida.
-
-— Só mais vinte andares — disse ele, a voz trêmula. — Acho que vou precisar de ajuda.
-
-— Estamos juntos nessa — disse Elena.
-
-A plataforma onde ele estava cedeu com os danos e despencou oitenta andares para a escuridão abaixo, colidindo com o fundo em um estrondo distante.
-
-Gabo olhou para baixo, depois para cima, onde Elena e Valéria o esperavam, ofegantes. Ele começou a subir, um degrau de cada vez. Cada movimento do braço direito era uma tortura. A dor era uma faca quente girando na articulação, e o esquerdo já não servia para agarrar: ele enfiava o pulso no degrau e pendurava o peso ali, porque dois dedos daquela mão tinham ficado no apartamento.
-
-— Gabo, você está bem? — gritou Elena, vendo seu progresso lento e doloroso.
-
-— Ótimo — ele ofegou, o sarcasmo uma máscara fina sobre a dor. — Só mais vinte andares de aquecimento.
-
-Ele continuou a subir, degrau por degrau. A dor era uma companheira constante, um lembrete do preço que cada luta cobrava. Cada metro conquistado era uma vitória não apenas contra a Aeterna, mas contra seu próprio corpo quebrado. O caminho para o céu, ele pensou com um humor sombrio, era pavimentado com seus próprios pedaços.
-
-No quarto lance, Valéria parou de subir e ficou com a testa apoiada no metal frio.
-
-— Preciso te falar uma coisa e você não vai gostar.
-
-— Fala.
-
-— O deck está em nove por cento. Se a gente chegar no cem e a porta estiver travada, eu não abro. Não tem mágica, Gabo. Tem bateria.
-
-— Então a gente chega no cem e a porta vai estar destravada.
-
-— Você não pode saber isso.
-
-— Eu não posso saber nada. É por isso que eu ainda estou subindo.
-
-Eles continuaram a subir, em direção ao coração da máquina que devorava a cidade, um homem quebrado liderando o caminho.
+Do outro lado vinha cheiro de café e, por baixo, o tabaco do cachimbo do avô.

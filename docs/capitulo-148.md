@@ -1,15 +1,13 @@
-## Metadados
-- **Título:** Tensão e Ferrugem
-- **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
-- **Localização:** Necrópole (Subnível 6.0 - Corredor de Descontaminação / Duto de Ventilação)
-- **Personagens Presentes:** Gabo, Valéria, Aria (Reboot), Rangel (Inconsciente)
-- **Resumo:** Valéria rasteja por um duto de ventilação enferrujado e sufocante para tentar destrancar a câmara de pressão do outro lado. Abaixo, Gabo trava uma batalha dupla: contra o choque hipovolêmico que enfraquece seu corpo e contra a tortura psicológica da lógica fria de Aria — que fala pelo comunicador a partir do pendrive acoplado ao deck de Valéria e insiste na inevitabilidade da morte de Rangel. Gabo usa a dor lancinante de suas queimaduras para manter-se lúcido e afastar as memórias nauseantes do cheiro de cigarro. Quando Valéria alcança o outro lado, ela espeta o pendrive de Aria no terminal auxiliar para aliviar a trava hidráulica enquanto força a roda mecânica.
-
-## Narrativa
+---
+title: "Capítulo 148: Tensão e Ferrugem"
+Data In-Game: "Pós-Colapso da Usina Prometeu (Noite Eterna)"
+Localização: "Necrópole (Subnível 6.0 - Corredor de Descontaminação / Duto de Ventilação)"
+Personagens Presentes: "Gabo, Valéria, Aria (Reboot), Rangel (Inconsciente)"
+---
 
 # Capítulo 148: Tensão e Ferrugem
 
-A grade cedeu com um guincho metálico que rasgou o silêncio fúnebre do corredor de descontaminação. Uma chuva de poeira ocre e lascas de ferrugem caiu sobre o rosto de Gabo. Ele piscou, sentindo a ardência nos olhos, mas não desviou o olhar. Acima, após subir apoiada nos ombros dele, Valéria já se esgueirava para dentro do duto de ventilação, iluminada apenas pelo brilho fraco e azulado de seus implantes ópticos e pelo LED azul-gelo do pendrive de Aria acoplado ao seu cyberdeck.
+A grade cedeu com um guincho metálico que rasgou o silêncio fúnebre do corredor de descontaminação. Uma chuva de poeira ocre e lascas de ferrugem caiu sobre o rosto de Gabo. Ele piscou, sentindo a ardência nos olhos, mas não desviou o olhar. Acima, após subir pela cinta de manutenção, Valéria já se esgueirava para dentro do duto de ventilação, iluminada apenas pelo brilho fraco e azulado de seus implantes ópticos e pelo LED azul-gelo do pendrive de Aria acoplado ao seu cyberdeck.
 
 O duto era um tubo estreito de quarenta e cinco centímetros de diâmetro, mal dimensionado para a passagem de um ser humano. O som do metal cedendo sob o peso dela era agoniante.
 
@@ -21,7 +19,7 @@ Gabo recostou-se na parede de polímero manchado, deslizando até o chão úmido
 
 Pelo canal de rádio ligado ao deck de Valéria lá em cima, a voz sintética de Aria continuava transmitindo relatórios clínicos sem qualquer filtro humano, tratando a vida de Rangel e o sangue de Gabo com a mesma indiferença que dedicaria a um circuito queimado.
 
-— *A integridade estrutural do duto está em trinta e oito por cento,* — declarou a IA nos fones de ambos, enquanto os sensores do *Phantom V3* no pulso de Valéria mapeavam a tubulação. — *A probabilidade de um colapso durante o deslocamento de Valéria é estatisticamente alta. Uma decisão que coloca a operadora e o meu próprio drive em risco por um sujeito que já ultrapassou o limiar de viabilidade orgânica.*
+— *A integridade estrutural do duto está em trinta e oito por cento,* — declarou a IA nos fones de ambos, enquanto os sensores do *Phantom V3* no pulso de Valéria mapeavam a tubulação. — *A probabilidade de um colapso durante o deslocamento de Valéria é estatisticamente alta. Uma decisão que coloca a operadora e o meu próprio drive em risco enquanto Rangel continua sem o atendimento de que precisa. O detector não mede viabilidade orgânica; estou avisando sobre as chapas do duto.*
 
 Gabo tentou ignorar a voz no ouvido por um momento, fechando os olhos contra a queimação da febre. O cheiro de ozônio e formol irritava suas narinas, e a exaustão acumulada pesava nas pálpebras como chumbo. A cada respiração forçada, a tontura da perda de sangue ameaçava puxá-lo para a inconsciência. Mas apagar ali significava a morte de Rangel e o fim da missão.
 
@@ -29,12 +27,12 @@ Ele apertou o punho direito, sentindo a dor das escoriações latejar através d
 
 — Ele não tá morto, Aria, — Gabo sibilou por entre os dentes para o comunicador, ofegante. — Enquanto ele respirar, ele é nosso problema.
 
-— *Um problema de tempo e massa,* — retrucou Aria pelo fone, sem qualquer tom de acusação. — *A taxa de hemorragia no seu antebraço indica que o choque hipovolêmico atingirá um nível crítico em dezoito minutos. O fígado de Rangel falhará em menos tempo. Vocês estão lutando contra entropia pura. É ilógico.*
+— *Um problema de tempo e massa,* — retrucou Aria pelo fone, sem qualquer tom de acusação. — *A taxa de hemorragia no seu antebraço indica que o choque hipovolêmico atingirá um nível crítico em dezoito minutos. Não tenho como medir o fígado de Rangel daqui. A perda de sangue que consigo ver é sua, e o curativo está voltando a molhar.*
 
 — O mundo é ilógico, cacete, — Gabo rebateu, a raiva fervendo, servindo como combustível para um corpo que implorava por colapso. — Você acha que a Aeterna venceu pela lógica? Não. Eles venceram porque trataram a gente como número desde a Torre. Exatamente como você tá fazendo agora dentro desse pendrive.
 
-Houve uma fração de segundo de estática no canal, onde outrora os fragmentos de Bia Vargas teriam hesitado antes do reboot da Necrópole apagar qualquer empatia.
-— *A Aeterna calculou mal a variável do sacrifício. Eu não estou calculando mal. Eu estou lhe dizendo o resultado da sua equação. Sobrevivência requer escolhas.*
+Houve uma fração de segundo de estática no canal, enquanto Aria tentava recuperar o canal adulto sem reabrir a entrada que o transponder atacara.
+— *Eu não tenho um resultado certo para oferecer. Tenho uma imagem parcial e uma companheira do outro lado da porta. Val, confirma que chegou ao piso antes de mexer no painel.*
 
 Lá em cima, o som de Valéria rastejando tornou-se mais lento e mais ruidoso. O atrito das calças de couro contra o metal corroído preenchia o ambiente.
 — Puta que pariu... — a voz de Valéria chegou abafada. — Essa poeira... é como respirar vidro moído.

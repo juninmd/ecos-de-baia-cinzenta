@@ -47,7 +47,7 @@ Valéria alcançou a grade de retenção no final da descida. As barras de ferro
 
 — Travada por uma camada de gelo de três polegadas e uma corrente de aço naval, — Valéria disse, recuando meio metro para me dar espaço. Ela olhou para a minha mão mecânica de sucata forjada com um sorriso de desafio nos olhos prateados. — Acha que esse trator que o Vasco chamou de braço tem torque pra estourar esse cadeado congelado, ou você quer que eu gaste meus pulsos de hacking nisso?
 
-— Guarda a bateria do deck, Val, — rosnei, puxando o fôlego gelado que ardeu nos meus pulmões como cacos de vidro. — Aço congelado fica quebradiço. Só preciso que você ilumine o elo principal da corrente.
+— Guarda a bateria do deck, Val, — rosnei, puxando o fôlego gelado que ardeu nos meus pulmões como cacos de vidro. — O elo principal já está rachado por corrosão. Ilumina a rachadura; não vou apostar que o frio transforma qualquer corrente em vidro.
 
 Enfiei os garras de ferro da armação no meio do elo coberto de gelo. Apertei a mandíbula, travando o ombro esfolado contra a curva da parede de concreto, e forcei o atuador hidráulico ao limite. O metal da armação rangeu alto, a carcaça de sucata estalou sob a pressão violenta e, com um estalo seco como um tiro de rifle, o elo congelado partiu-se em quatro pedaços.
 

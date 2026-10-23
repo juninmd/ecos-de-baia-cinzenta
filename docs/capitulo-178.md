@@ -43,7 +43,7 @@ O silêncio do túnel pareceu cair sobre nós como uma laje de chumbo. O gotejar
 
 — Não é sobre o Dante, Val — minha voz saiu mais baixa do que eu pretendia.
 
-— É claro que é sobre ele. É sempre sobre ele, ou sobre o arquivo que ele deixou, ou sobre a cidade que ele tentou consertar arrancando o coração de todo mundo — ela se agachou na minha frente, ignorando a poça de lodo que manchava o joelho da calça. A expressão dela perdeu a agressividade, revelando a exaustão profunda sob a maquiagem manchada de chuva. — O Vasco colocou esse troço no seu ombro pra você não morrer de choque hemorrágico. Não foi pra você ficar procurando motivo pra quebrar a própria clavícula. Se você desmoronar, quem é que vai atirar com a *Caronte* quando o próximo monstro aparecer? Eu? Minha mão mal segura o soldador hoje.
+— É claro que é sobre ele. É sempre sobre ele, ou sobre o arquivo que ele deixou, ou sobre a cidade que ele tentou consertar arrancando o coração de todo mundo — ela se agachou na minha frente, ignorando a poça de lodo que manchava o joelho da calça. A expressão dela perdeu a agressividade, revelando a exaustão profunda sob a maquiagem manchada de chuva. — A equipe tratou o sangramento. O Vasco colocou o suporte para sustentar o braço imobilizado. Não foi pra você ficar procurando motivo pra quebrar a própria clavícula. Se você desmoronar, quem é que vai atirar com a *Caronte* quando o próximo monstro aparecer? Eu? Minha mão mal segura o soldador hoje.
 
 Olhei para os dedos finos dela. As pontas estavam avermelhadas de frio e os implantes de pulso tremiam discretamente contra a manga da jaqueta.
 

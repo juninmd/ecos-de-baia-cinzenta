@@ -1,16 +1,18 @@
-# Análise: Capítulo 65 - O Novo Inquilino
+# Revisão de Capítulo 65: O Novo Inquilino
 
-**Avaliação Técnica:**
-- Ritmo: 10/10
-- Diálogos: 8/10
-- Atmosfera: 10/10
+Fonte: [capítulo 65](/capitulo-65.md).
 
-**Pontos Fortes / Fracos:**
-- Fortes: A virada épica de Dante se tornar a "alma" da cidade e a ação explosiva do EMP com inundação dão uma escala imensa. A dinâmica Gabo impotente vs Marco inescrupuloso funciona muito bem.
-- Fracos: Nenhum significativo.
+A tubulação de retorno rompida muda a cabine e a rota de saída. As leituras parciais não permitem assegurar o destino de todos os padrões ligados à instalação.
 
-**Sanity Check (Lore):**
-- Adequado. Sem referências a tabagismo. O protagonista não fuma para aliviar o estresse, utilizando seu fardo, a dor nas pernas paralisadas e a água gelada para manter sua coerência comportamental.
+## Passagens de entrada e saída
 
-**Avaliação Qualitativa:**
-- Excelente capítulo que traz um "pay-off" de vários elementos de ficção construídos até aqui. Personagens coerentes e mantendo o tom dramático sem inserções estranhas. A história segue forte e contida.
+> O Núcleo — Momento Zero.
+> O pedestal da matriz de interface ficava no centro exato da sala, e não parecia equipamento de guerra. Esse era o detalhe insuportável.
+
+### Saída
+
+> O visor apagou. A água continuou batendo contra a mesa, e ele ouviu Val chamar seu nome antes de perder a referência da luz.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

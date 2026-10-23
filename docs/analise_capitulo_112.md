@@ -1,20 +1,18 @@
-# Análise do Capítulo 112: O Peso da Memória
+# Revisão de Capítulo 112: O Peso da Memória
 
-## Metadados
-- **Capítulo:** 112
-- **Título:** O Peso da Memória
-- **Data da Revisão:** Atual
+Fonte: [capítulo 112](/capitulo-112.md).
 
-## Auto-avaliação Técnica
-- **Ritmo (Pacing):** 9/10
-- **Diálogo:** 9/10
-- **Atmosfera:** 9/10 - A chuva ácida e a tensão do confronto de Valéria com Gabo são excelentes.
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-## Pontos Fortes e Fracos
-- **Pontos Fortes:** O embate emocional entre Valéria e a negação de Gabo em relação à morte de Aria.
-- **Pontos Fracos:** N/A.
+## Passagens de entrada e saída
 
-## Sanity Check (Verificação de Coerência)
-- **Fobia de Gabo:** Limpo de gatilhos psicológicos do fumo.
-- **Coerência da Trama:** As órteses falhas travam na tentativa de movimento brusco. Rangel mostrando sua expertise da velha guarda da polícia faz muito sentido para seu personagem.
-- **Ajustes de Lore:** Tudo correto e estabelecido perfeitamente.
+> A Superfície
+> A tampa do bueiro pesava como uma lápide de ferro. Gabo empurrou com o ombro bom, grunhindo enquanto a ferrugem cedia com um grito agudo de metal contra metal. O ar da superfície invadiu o túnel imediatamente — não o ar limpo, mas a mistura familiar de diesel, chuva ácida e o cheiro adocicado de lixo sintético queimando nas incineradoras distantes.
+
+### Saída
+
+> Mas a chuva nunca parava.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.
