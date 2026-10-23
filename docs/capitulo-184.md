@@ -9,13 +9,13 @@ Personagens Presentes: Gabo, Valéria
 
 A chuva fina que castigava as ruínas do Distrito 4 parou, deixando em seu lugar um nevoeiro denso e frio, impregnado com cheiro de cobre molhado e fuligem industrial. O silêncio era absoluto, quebrado apenas pelo chiar intermitente dos servos descalibrados do meu braço mecânico e pelo som oco dos nossos passos no asfalto fragmentado.
 
-A dor latejava no meu ombro direito com a precisão de um relógio de ponto. Cada passada pela lama era uma fisgada aguda; cada movimento de rotação do tronco, uma queimação profunda nos nervos onde Vasco havia cravado os pregos de interface. Era um lembrete físico, pesado e implacável, de que a gravidade de Baía Cinzenta ainda não havia desistido de nos derrubar.
+A dor no ombro já não separava uma passada da outra. A cobertura refeita junto ao ônibus segurava, mas eu precisava parar para aliviar o peso no arnês. Val conferiu o meu curativo antes de olhar o mapa. Não havia confirmação no canal de Nise; a mensagem de localização continuava sem resposta.
 
 O cenário à nossa volta era um cemitério fabril a céu aberto. Galpões de decantação com os telhados desabados, tanques de armazenamento de produtos químicos carcomidos pela ferrugem e guindastes estáticos que pareciam esqueletos de bestas pré-históricas vigiando a podridão.
 
 Valéria caminhava meio metro à frente, os filamentos de LED azul na franja curta iluminando o vapor que saía de seus lábios a cada expiração.
 
-— A temperatura caiu quase três graus desde que saímos do duto — ela comentou, encolhendo os ombros sob a jaqueta de couro e conferindo o leitor de ambiente no pulso. — E esse nevoeiro tá carregado de névoa de ácido sulfúrico. Mais uma hora expostos aqui e a fiação exposta do seu ombro vai começar a descascar feito plástico queimado.
+— A temperatura caiu quase três graus — disse ela por trás da máscara, conferindo o leitor. — O alarme de vapor corrosivo voltou. Eu não sei tudo o que tem nessa névoa. Vamos pela parede, fora da pluma do tanque; se fechar a passagem, a gente recua para o abrigo. O cilindro não dá para fingir que o ar daqui é respirável.
 
 — A gente encontra abrigo logo — respondi, puxando o ar gelado que arranhava o fundo da garganta. — O entroncamento do Setor 6 não deve estar a mais de um quilômetro.
 

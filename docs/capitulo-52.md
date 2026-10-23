@@ -99,6 +99,8 @@ Gabo guardou a arma. Ele tirou o sobretudo pesado e o colocou sobre os ombros de
 
 — Eu sei — disse ele, oferecendo o braço para que ela própria se levantasse. Não conseguiria carregá-la. — Eu sei. Mas eu tenho um lugar seguro. E eu vou descobrir quem estava comprando seu sangue. Eu prometo.
 
+Clara se apoiou nele sem entregar o próprio peso. A dívida podia ter sido anulada; as amostras continuavam fora do alcance dela. Quando chegassem ao abrigo, exigiria uma cópia do contrato e o registro de para onde o sangue fora enviado. Até saber, não assinaria nova cessão por uma promessa de proteção.
+
 Eles saíram do flutuante da morte, dois órfãos em um barco no meio do dilúvio. Gabo olhou para a cidade iluminada ao longe, a carcaça da Torre de Marfim ainda visível como uma lápide gigante.
 
 A conspiração não era apenas política. Era biológica. Era pessoal. E Gabo Moretti sabia que, para descobrir a verdade sobre o "Santo" e sobre o "Jardim", ele teria que mergulhar mais fundo na escuridão do que jamais ousara.

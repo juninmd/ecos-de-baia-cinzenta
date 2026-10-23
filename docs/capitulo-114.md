@@ -1,6 +1,8 @@
 ---
 image: /cenas/cidade.jpg
-Personagens Presentes: Valéria "Val" Cruz, Gabriel "Gabo" Moretti, Inspetor Rangel, Dante Moretti
+Personagens Presentes: Valéria "Val" Cruz, Gabriel "Gabo" Moretti
+Participação por comunicador: Inspetor Rangel
+Identidade em registro de sistema: Dante Moretti
 Localização: "Usina Geotérmica Prometeu — Setor de Triagem → Hangar da Fornalha"
 ---
 # Capítulo 114: A Linha de Montagem

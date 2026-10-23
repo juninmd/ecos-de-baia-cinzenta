@@ -27,7 +27,7 @@ Para Gabo, o ambiente asséptico disparou outro tipo de alarme interno. O cheiro
 
 A repulsa visceral à fumaça o atingiu como um golpe no estômago. Ele nunca fumou; a fumaça era o cheiro da perda, da negligência, dos demônios de sua família. O odor fantasma agora ameaçava asfixiá-lo, provocando uma ânsia de vômito que ele mal conseguia conter. Ele precisava de ar limpo, ou de algo forte o suficiente para despedaçar a memória.
 
-Para combater a vertigem, Gabo cerrou a mão direita, aquela cujas palmas estavam em carne viva da escalada. A dor irradiou pelos nervos, aguda e purificadora. Ele grunhiu, a respiração sibilando por entre os dentes. A dor era o seu escape, a âncora brutal que o prendia ao presente. Ele não estava em um necrotério sufocado por fumaça; ele estava nas entranhas de Baía Cinzenta, e Rangel estava morrendo a seus pés. A dor era real. O resto era apenas sujeira do passado.
+A vertigem não cedeu quando Gabo tentou cerrar a mão ferida. Ele deixou o peso escorregar pela parede até o chão. O lenço de Val cobriu o braço que ainda sangrava; naquele corredor, permanecer consciente dependia de aceitar o curativo, não de abrir outra ferida.
 
 — *Análise ambiental concluída pelos sensores do deck,* — a voz de Aria cortou seus pensamentos pelo comunicador de gola. — *Concentração de oxigênio em dezoito vírgula cinco por cento. Presença de toxinas fúngicas em níveis moderados. Estrutura primária estável. Estamos em um corredor de descontaminação primário da Subdivisão 6.0.*
 

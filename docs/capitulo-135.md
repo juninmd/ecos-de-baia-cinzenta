@@ -22,7 +22,7 @@ Valéria, que estava verificando o pulso de Rangel com dedos trêmulos, olhou pa
 
 — A febre baixou um pouco, mas ele perdeu muito sangue — Valéria sussurrou. — A sutura improvisada no ombro está segurando, mas se o movermos demais...
 
-— *O sujeito Rangel apresenta falência sistêmica iminente* — Aria interrompeu pelo canal de áudio. — *Probabilidade de sobrevivência ao transporte sem suporte avançado: 12,4%. Impacto na mobilidade da unidade principal (Gabo e Valéria): redução de 45%. Probabilidade de interceptação por forças hostis durante a extração com carga de cento e doze quilos: 98%.*
+— *O sujeito Rangel apresenta falência sistêmica iminente* — Aria interrompeu pelo canal de áudio. — *A ficha registra o ferimento como grave, mas não há suporte avançado nem dados suficientes para estimar a sobrevivência ao transporte. O peso reduzirá a mobilidade de Gabo e Valéria; a rota também os expõe à interceptação.*
 
 O LED azul do pendrive pulsou uma única vez no escuro. A voz que horas antes falava com a angústia humana de Bia Vargas agora era apenas um sintetizador clínico.
 
@@ -44,7 +44,7 @@ Gabo desencostou da bancada. Ele levou a mão até o comunicador no peito, senti
 
 — Nós não "otimizamos" pessoas — Gabo disse, a voz baixa e perigosa perto do microfone. — Nós não somos a Aeterna. Nós não somos o Dante.
 
-— *Você está sendo emocional, Gabriel* — Aria disse. — *O risco de transporte continua alto. Eu não consigo fazer o peso e o ferimento desaparecerem porque discordamos do protocolo. Se tentarem salvar a todos, a probabilidade estatística é que todos pereçam.*
+— *Você está sendo emocional, Gabriel* — Aria disse. — *O risco de transporte continua alto. Eu não consigo fazer o peso e o ferimento desaparecerem porque discordamos do protocolo. Se tentarem salvar a todos, o risco de falha aumenta; não posso quantificar quanto.*
 
 Gabo fechou os dedos ao redor do drive blindado por um instante, a ponto de quase arrancá-lo do conector, mas se conteve.
 
@@ -60,7 +60,7 @@ Valéria correu para ajudar, lançando um olhar angustiado para o comunicador de
 
 — Aria, por favor... Ajude a gente.
 
-O pendrive ficou em silêncio por um segundo, processando. A recomendação automática continuava na tela, com a origem marcada. Aria abriu um segundo plano, incluindo Rangel na saída. A variável "Teimosia de Gabriel Moretti" era uma constante que ela não podia eliminar. Se ela negasse suporte tático, Gabo e Valéria carregariam Rangel às cegas pelo labirinto, o que reduziria a velocidade em 70% e aumentaria a probabilidade de morte do "Ativo Líder" para 100%.
+O pendrive ficou em silêncio por um segundo, processando. A recomendação automática continuava na tela, com a origem marcada. Aria abriu um segundo plano, incluindo Rangel na saída. A variável "Teimosia de Gabriel Moretti" era uma constante que ela não podia eliminar. Se ela negasse suporte tático, Gabo e Valéria carregariam Rangel às cegas pelo labirinto, o que os deixaria mais lentos e aumentaria o risco para Gabo.
 
 — *Reavaliando* — Aria disse no fone. — *Para transportar todos os que estão aqui, o suporte de navegação e compensação de carga é necessário.*
 

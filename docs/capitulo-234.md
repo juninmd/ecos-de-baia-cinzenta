@@ -21,7 +21,7 @@ Valéria já estava ajoelhada junto à carcaça do osciloscópio militar encosta
 
 — Traduz, Val — pedi, com a mão esquerda apertando a tipoia onde meu ombro quebrado pulsava em pontadas quentes.
 
-— Protocolo Crepúsculo — respondeu a Dra. Vance, girando a cadeira de aço com a lentidão das juntas gastas. — O plano de contingência que meu pai desenhou para destruir arquivos e testemunhas em caso de retirada não autorizada. Se o material saísse do berço, a subestação canalizaria a descarga dos capacitores marítimos direto para as galerias de drenagem sob este galpão. a ignição dos alimentadores e do combustível de reserva sob o galpão.
+— Protocolo Crepúsculo — respondeu a Dra. Vance, girando a cadeira de aço com a lentidão das juntas gastas. — O plano de contingência que meu pai desenhou para destruir arquivos e testemunhas em caso de retirada não autorizada. Se o material saísse do berço, a subestação canalizaria a descarga dos capacitores marítimos direto para as galerias de drenagem sob este galpão, incendiando os alimentadores e o combustível de reserva.
 
 Olhei para as quatro toneladas de papel empilhadas.
 

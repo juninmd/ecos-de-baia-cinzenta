@@ -49,21 +49,21 @@ Valéria me encarou de soslaio, os olhos prateados piscando um alerta silencioso
 
 Respirei fundo. A frustração desceu amarga pela garganta, mas um policial velho aprende cedo que tiroteio dentro de cano fechado é suicídio disfarçado de coragem.
 
-Deslizei a mão esquerda até a mochila de lona que trazia cruzada no peito. Lá dentro, envoltos em panos secos, estavam os dois cilindros de oxigênio purificado que Vasco havia nos entregado. Dois tubos de titânio de grau médico. O recurso mais valioso e raro em um distrito onde o ar corroía os brônquios de quem não usava máscara.
+Deslizei a mão esquerda até a mochila de lona. Os dois cilindros de ar de resgate continuavam fechados; nas máscaras, usávamos apenas os cartuchos. Entregar um cortaria a reserva de retirada pela metade. Olhei para o ramal por onde tínhamos vindo. Os três catadores continuavam lá, e eu não conseguiria refazer a descida com a gaze já marcada de sangue.
 
 Puxei um dos cilindros e ergui-o para a fresta de vidro.
 
-— Cilindro de oxigênio médico — anunciei, batendo o anel de aço na válvula lacrada com um tilintar metálico e limpo. — Ainda lacrado, com regulador e manômetro. A duração depende do uso; não substitui filtro para todo veneno que corre nesses túneis. Vale dez vezes o que essa sua espingarda velha consegue disparar.
+— Ar comprimido de resgate — anunciei, mostrando o lacre sem bater na válvula. — Regulador e manômetro. Você confere o rótulo pela gaveta. Não é oxigênio nem filtro de água, mas permite sair daqui se o retorno encher de fumaça.
 
 O silêncio do homem durou longos cinco segundos. Eu podia ouvir a respiração ofegante dele através da corneta. Em Baía Cinzenta, munição e comida você roubava; oxigênio limpo comprava a sua vida.
 
-— Passa pela gaveta de descarte — a voz dele perdeu a arrogância, soando quase desesperada. — E só um de vocês cruza a cancela por vez.
+— Minha saída de cima queimou ontem — disse ele. A espingarda baixou alguns centímetros. — Passa pela gaveta. Eu leio o rótulo, você ouve a trava. Só um de vocês cruza por vez.
 
 — O cilindro vai quando a trava pneumática estalar — Valéria rebateu antes que eu respondesse, a voz firme e intransigente. — A gente não é novato de periferia, Fantasma. Libera o ferrolho principal ou eu puxo o cabo e queimo sua estação inteira.
 
 Uma pausa tensa. O som pesado de engrenagens industriais sendo destravadas ecoou pelas paredes do túnel. A fresta da gaveta deslizou, engolindo o cilindro de oxigênio, e logo em seguida o portão de blindagem subiu com um rangido metálico estridente de correntes oxidadas, revelando a passagem estreita para a rampa de saída.
 
-O homem nos observou passar com os olhos arregalados, abraçando o tubo de oxigênio contra o peito como se fosse uma criança recém-nascida.
+O homem conferiu a pressão e guardou o cilindro ao alcance da escada interna. Val anotou o lacre do único que nos restava. Não tínhamos comprado um caminho seguro; tínhamos pago para abandonar o anterior.
 
 — Que a chuva não pegue vocês lá em cima — ele resmungou da penumbra da guarita.
 

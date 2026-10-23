@@ -39,7 +39,7 @@ Gabo encostou a testa no metal congelado, usando o choque térmico para afastar 
 
 — Eu passo — ele disse, com dificuldade. — O vão entre as pás... dá pra espremer.
 
-— *Probabilidade de esmagamento se o rotor reativar antes da liberação total: oitenta e nove vírgula quatro por cento,* — Aria informou com a frieza de quem lê um boletim meteorológico. — *Seu estado de choque hipovolêmico reduz sua coordenação motora em sessenta por cento. A ação é ilógica.*
+— *Se o rotor reativar antes da liberação total, as pás podem esmagá-lo; não consigo quantificar esse risco,* — Aria informou com a frieza de quem lê um boletim meteorológico. — *Sua tontura e os ferimentos comprometem a coordenação. A ação é ilógica.*
 
 — É o que tem pra hoje — Gabo grunhiu, empurrando-se para frente.
 

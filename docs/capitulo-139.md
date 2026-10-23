@@ -40,8 +40,7 @@ Gabo foi arremessado por três metros, colidindo de costas contra uma vitrine de
 
 Gabo bloqueou outro golpe da primeira Escultura, o vergalhão entortando perigosamente. Ele estava suando frio. O ar reciclado estava começando a cheirar a ozônio e sangue. O desespero físico ameaçava turvar sua visão periférica, uma vertigem tóxica subindo pela nuca. Ele largou uma mão do vergalhão por meio segundo e apertou o *Colar de Sol* no peito. As pontas de metal morderam a carne viva.
 
-Dor é foco. Pânico é morte.
-A vertigem passou, substituída pela clareza adrenal.
+O colar feriu a pele sem desfazer a vertigem. Gabo soltou-o para tornar a segurar o vergalhão. Val se moveu entre a próxima lâmina e a maca; ele acompanhou o movimento dela até encontrar espaço para respirar.
 
 — Onde está o servidor?! — Gabo gritou, aparando um golpe que visava suas pernas.
 

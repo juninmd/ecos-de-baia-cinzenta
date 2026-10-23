@@ -50,7 +50,7 @@ O nome atingiu Gabo como um trem de carga.
 
 O mundo parou. O som da água gotejando nos trilhos desapareceu. O zumbido do deck de Val sumiu. Só restou o nome. *D. Moretti*.
 
-— Dante? — A voz de Gabo falhou. Ele se apoiou em uma coluna de concreto, sentindo a aspereza fria sob sua mão. — Val... meu pai está morto há quinze anos. Eu vi o corpo. Eu segurei a mão fria dele no necrotério. Eu assinei a porra do atestado de óbito.
+— Dante? — A voz de Gabo falhou. Ele se apoiou em uma coluna de concreto, sentindo a aspereza fria sob sua mão. — Val... meu pai desapareceu há quinze anos. Disseram que ele morreu. Assinei o recebimento da certidão e fui ao enterro de caixão fechado, mas nunca vi o corpo. Um nome e uma data neste núcleo não provam que ele está vivo.
 
 — Eu sei o que você contou — disse Valéria. — Esse nome pode ser dele, de uma conta usada por outra pessoa ou de alguém que quis que você lesse isso.
 

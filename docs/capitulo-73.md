@@ -36,7 +36,7 @@ A *Caronte* estava perdida em algum ponto da luta com o Santo. A Glock estava co
 
 Val hesitou meio segundo, xingou e foi.
 
-Ela arrancou o pendrive de titânio da Aria do barramento do console — o metal estava tão quente que queimou a palma da mão dela —, travou-o no deck de pulso e sumiu para dentro do duto.
+Ela arrancou o pendrive de titânio da Aria do barramento do console — o metal estava tão quente que queimou a palma da mão dela — e o travou no deck de pulso. Antes de entrar no duto, abriu o painel de manutenção e escolheu o setor do Hub. Os dedos correram por duas telas; por quarenta segundos, a luz de serviço permaneceu âmbar. Gabo não conseguia ler as condições da rotina, só viu Val confirmar e arrancar a mão do painel quando Miranda se aproximou. Então ela sumiu no duto.
 
 ---
 
@@ -100,7 +100,7 @@ E abriu a tampa.
 
 O isqueiro não acendeu nada.
 
-O que ele fez foi outra coisa: a Val tinha passado quarenta segundos, antes de entrar no duto, dentro do sistema predial — e a última coisa que ela fez foi armar o gatilho de supressão de incêndio do Hub, condicionado a um sinal simples, qualquer coisa que produzisse uma faísca com assinatura térmica pontual no setor.
+O que ele fez foi outra coisa: Val programara o gatilho para uma assinatura térmica pontual; o isqueiro dava a ela o sinal que faltava. A rotina de supressão, sem explicação ainda, tinha estado diante dos olhos dele por quarenta segundos.
 
 O Hub não era protegido com água. Água em sala de servidor é crime. Os bicos do teto dispararam nitrogênio líquido.
 

@@ -41,13 +41,13 @@ Um guincho eletrônico estridente rasgou o poço de elevação. A quimera se pro
 
 — Elias! — berrou Valéria.
 
-O técnico soltou um grito apavorado e tentou um salto desesperado para o degrau superior. O metal podre cedeu sob sua bota com um estampido oco. O corpo de Elias despencou no vácuo.
+Elias apoiou o pé no canto que eu indiquei, mas a ferrugem esfarelou. A guia esticou e tomou o peso antes da queda virar um mergulho; o tranco me puxou contra a barra. Ele bateu a canela na viga e ficou suspenso, sem ar.
 
-Reagi por puro instinto de sobrevivência esculpido em catorze anos de DPBC. Projetei a mão de sucata para cima. Os dedos de aço grosso fecharam-se ao redor da gola do casaco dele e da tira de lona de sua mochila no exato instante em que o vazio o engolia. A guia reteve a queda antes de a mão de metal fechar no casaco. Meu corpo ainda recebeu o tranco, e urrei. Não conseguiria deter sozinho os setenta quilos em queda. O pistão hidráulico do meu ombro uivou, os parafusos cravados no osso da minha clavícula puxando a carne viva com uma ferroada de dor absoluta e escaldante. Minha outra mão, cravada no vergalhão de trás, deslizou dez centímetros, rasgando a pele da palma até o osso.
+— Não solta a linha! — gritei.
 
-O gosto ferroso de cobre quente subiu à minha boca quando mordi a própria bochecha para não soltar o peso.
+A mão esquerda de Elias ainda alcançava o apoio lateral. Em vez de esperar que eu o içasse, ele agarrou a guia, encontrou a emenda da escada e travou o pé bom contra a parede. O movimento fez a corda correr um palmo pelo mosquetão. Minha mão de carne, cravada no vergalhão de trás, deslizou e abriu a palma; o pistão do ombro uivou quando tentei conter o balanço. Eu não tinha força para levantá-lo sozinho. Valéria prendeu a guia no apoio inferior, e só então Elias conseguiu subir o joelho até a viga e recuperar o degrau.
 
-— Te peguei! — grunhi, os dentes travados, o sangue escorrendo pelo canto dos lábios. — Trava a perna na viga, seu desgraçado! Trava agora!
+Elias recuperou o apoio, puxando ar em goles curtos. Eu mantive a mão na barra; a palma aberta deixava sangue no ferro. Valéria passou a guia pelo apoio abaixo de nós antes de voltar a mirar a criatura.
 
 A aranha biomecânica não esperou. Ela saltou sobre os degraus em nossa direção, as mandíbulas pneumáticas abrindo em cruz para decapitar Elias.
 

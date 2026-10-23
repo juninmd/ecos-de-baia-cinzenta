@@ -116,13 +116,17 @@ Não era Consórcio Lázaro, nem Aeterna Prime, nem Entidade Alpha-Zero.
 
 Em letras verdes de fósforo, na fonte padrão de um sistema de registro imobiliário municipal:
 
-PROPRIETÁRIO: DANTE MORETTI.
+TITULAR DO REGISTRO DE PERFIL: DANTE MORETTI.
+
+Val leu o campo antes que a tela apagasse.
+
+— É titularidade administrativa do perfil que assinou o código — disse. — Não identifica quem está no circuito, nem prova que Dante seja uma consciência ativa.
 Gabo olhou para o pendrive de titânio cravado no pedestal.
 
 A trava magnética clicou e liberou o módulo, com o LED azul-dourado pulsando suavemente na palma da mão dele debaixo d'água.
 
-O pai dele não tinha apenas morrido.
+O pai dele podia ter morrido.
 
-Ele tinha virado o endereço.
+Mas o registro ainda o usava como endereço.
 
 O visor apagou. A água continuou batendo contra a mesa, e ele ouviu Val chamar seu nome antes de perder a referência da luz.

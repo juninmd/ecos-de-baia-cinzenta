@@ -64,7 +64,7 @@ Gabo se virou.
 
 — Ele está vivo?
 
-— Está vivo e está a duzentos metros, no túnel de serviço da Rua Nove. Chegando com o que sobrou dos Puros. — Ela hesitou. — Vinte e seis pessoas, Gabo.
+— Está vivo e está a duzentos metros, no túnel de serviço da Rua Nove. Chegando com o que sobrou dos Puros. — Ela hesitou. — Vinte e seis pessoas contando Vilar. Entre elas, vinte e cinco Puros; Peçanha ficou entre os mortos.
 
 — De duzentas e quarenta.
 
@@ -96,7 +96,7 @@ Gabo fechou os olhos.
 
 — E o senhor não entregou.
 
-— *Eu não entreguei, e eu não contei para ninguém que tinham oferecido.* — A voz do Vilar não tremeu, e era pior assim. — *Duzentas e catorze pessoas morreram ontem de manhã, depois da ameaça que escondi, e nenhuma delas soube que ela existia. Elas não foram consultadas, Moretti. Eu escolhi por elas, sozinho, num morro, e desci calado.*
+— *Eu não entreguei, e eu não contei para ninguém que tinham oferecido.* — A voz do Vilar não tremeu, e era pior assim. — *Duzentas e catorze morreram ontem de manhã. Peçanha está entre elas. Nenhuma das pessoas que perdi soube da ameaça. Elas não foram consultadas, Moretti. Eu escolhi por elas, sozinho, num morro, e desci calado.*
 
 — Capitão—
 
@@ -118,7 +118,7 @@ Silêncio longo do outro lado.
 
 — *Por quê?*
 
-— Porque não quero que o número substitua as pessoas. Os sobreviventes vão precisar ouvir o resto, Capitão. A lista não substitui a prestação de contas. — Ele soltou o botão e apertou de novo. — Não conserta. Funciona.
+— Porque não quero que o número substitua as pessoas. Os vinte e seis sobreviventes vão precisar ouvir o resto, Capitão. A lista não substitui a prestação de contas. — Ele soltou o botão e apertou de novo. — Não conserta. Funciona.
 
 ---
 

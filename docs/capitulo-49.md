@@ -4,19 +4,19 @@ title: "Capítulo 49: A Vigília"
 description: "Val monta guarda sobre o corpo quebrado de Gabo e descobre, aos vinte e três anos, a diferença entre apagar um alvo e matar um homem."
 image: /capitulo_49.jpg
 Personagens Presentes: Valéria "Val" Cruz, Gabriel "Gabo" Moretti, Dra. Nise
-Localização: "Bunker médico, subsolo da Delegacia Central. Dia nove"
+Localização: "Bunker médico, subsolo da Delegacia Central. Dia dez"
 ---
 
 # Capítulo 49: A Vigília
 
-Bunker médico, subsolo da Delegacia Central. Dia nove.
+Bunker médico, subsolo da Delegacia Central. Dia dez.
 A chuva lá fora soava como estática de televisão fora do ar.
 
 Dentro do bunker havia dois sons e mais nada: o bipe do monitor cardíaco, teimoso, a cada segundo e pouco, e o zumbido dos três servidores que a Val tinha empurrado para o canto e ligado num nobreak roubado, porque a sala mais fria do prédio era a que tinha os servidores, e um corpo remontado precisa de frio.
 
 Gabo estava na mesa, coberto até o peito por um lençol que já não era branco. Dezoito fraturas.
 
-A Dra. Nise tinha trabalhado doze horas seguidas, sozinha, com instrumental fervido em panela de pressão e uma lista escrita a lápis numa folha de papel pardo, colada na parede, para não perder a conta do que tinha remontado. Pélvis em quatro pedaços. Os dois fêmures. Três vértebras lombares, e essas ela não remontou, porque não se remonta: se imobiliza e se reza.
+Nise começara o turno às quinze horas do dia nove. Preparara o instrumental, estabilizara Gabo e passara à cirurgia; àquela madrugada, completava doze horas entre preparação, pausas para manter o corpo estável e intervenção. A lista a lápis na parede contava o que conseguira remontar: pélvis em quatro pedaços, os dois fêmures. Três vértebras lombares ela não remontou, porque não se remonta: se imobiliza e se reza.
 
 Val estava sentada no chão, de costas para a mesa, com a submetralhadora Vetor atravessada no colo. De costas de propósito.
 

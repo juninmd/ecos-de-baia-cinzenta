@@ -24,7 +24,7 @@ Era, sem nenhum exagero, o lugar mais bonito de Baía Cinzenta. Vilar odiava aqu
 
 Ele subiu a rampa a pé, sozinho, desarmado, porque essa tinha sido a condição.
 
-Cinquenta e cinco anos. Um braço: o esquerdo, esmagado na porta do laboratório e depois tomado pela infecção, fora amputado durante aqueles três meses. E, desde o mês passado, um tapa-olho.
+Cinquenta e cinco anos. Um braço: o esquerdo, esmagado na porta do laboratório e depois tomado pela infecção, fora amputado nas três semanas após o Sol Negro. O tapa-olho também era recente.
 
 O olho esquerdo ele tinha perdido para uma infecção fúngica que entrou por um arranhão na sobrancelha e que obrigara a equipe cirúrgica a retirar o olho num ambulatório de campanha. Nise acompanhara o pós-operatório; nem ela prometera que tinham contido tudo.
 

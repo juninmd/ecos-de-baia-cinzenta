@@ -34,7 +34,7 @@ Val dobrou a manta de manutenção sobre o chão e o ajudou a apoiar os braços.
 
 No slot lateral do cyberdeck *Phantom V3*, o drive não ofegava nem tremia. O LED azul-gelo de Aria pulsava constante, lendo a queda abrupta de pressão arterial de Gabo através dos sensores biométricos com a mesma frieza de quem lê um código de barras defeituoso.
 
-— *O sangramento ativo nas extremidades superiores e o déficit de volume intravascular atingiram níveis críticos,* — a voz sintética de Aria ecoou pelo alto-falante do deck na estação vazia. — *Nesta taxa de perda circulatória, o sujeito Gabriel Moretti entrará em falência sistêmica e parada cardíaca em, aproximadamente, vinte e sete minutos e quarenta segundos.*
+— *O sangramento das mãos e do antebraço continua ativo; a leitura do deck é instável e não permite estimar quanto sangue você perdeu. Ele está pálido, tonto e precisa de atendimento urgente,* — a voz sintética de Aria ecoou pelo alto-falante do deck na estação vazia. — *Não consigo prever quando o quadro pode piorar.*
 
 — Então me diz o que fazer, Aria! — Valéria gritou para o pendrive em seu braço, a voz rouca e desesperada quebrando o silêncio. — Você não é a IA tática fodona?! Otimize isso!
 

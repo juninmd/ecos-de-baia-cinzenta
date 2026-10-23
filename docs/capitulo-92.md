@@ -115,7 +115,7 @@ O cão não olhou para nada.
 
 O enclave dos Puros caiu em nove minutos.
 
-Vilar levou vinte e seis pessoas até a boca do túnel. Tinha duzentas e quarenta ao acordar.
+Vilar levou vinte e sete pessoas até a boca do túnel, contando a si mesmo e Peçanha. Ao acordar, eram duzentas e quarenta no enclave; os vinte e sete estavam incluídos nesse total.
 
 Peçanha ficou por último, empurrando os mais lentos escada abaixo, do jeito que Vilar tinha ensinado — porque Vilar tinha ensinado errado. Oficial sair por último é regra de incêndio em prédio. Não é regra de selva.
 
@@ -145,4 +145,4 @@ Agora era a lei da selva. E, na selva, ele não era Capitão de coisa nenhuma.
 
 Faltavam quatro quilômetros até o Hospital Central.
 
-Tempo suficiente para ele ensaiar a frase que ia ter de dizer ao Moretti quando chegasse: que duzentas e catorze pessoas morreram naquela manhã depois da ameaça que um velho escondera de todos. O assassino estava do lado de fora; o silêncio fora dele.
+Tempo suficiente para ele ensaiar a frase que ia ter de dizer ao Moretti quando chegasse: Peçanha era um dos duzentos e catorze mortos naquela manhã, depois da ameaça que Vilar escondera. O assassino estava do lado de fora; o silêncio fora dele.

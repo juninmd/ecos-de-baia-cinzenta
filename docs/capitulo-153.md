@@ -9,7 +9,7 @@ Personagens Presentes: "Gabo, Valéria, Aria (Reboot)"
 
 O eco metálico do ventilador industrial travado morria lentamente no duto às costas de Gabo, substituído pelo zumbido oco do ar gelado. Ele estava caído de bruços sobre uma grelha de aço coberta de gelo sujo, o sangue de suas novas lacerações fumegando ao entrar em contato com o frio extremo. O cheiro de cobre fresco em suas narinas era um alívio temporário. Pelo menos, mascarava o fedor fantasma de tabaco barato e formaldeído que sempre tentava invadir sua mente quando o choque hipovolêmico o arrastava para perto do apagão.
 
-Aquele cheiro. O legista pigarreando anos atrás, a brasa do cigarro iluminando o necrotério enquanto dissecava Bia. Gabo odiava a fumaça com cada fibra do seu ser. O tabaco era o cheiro da morte, da corrupção, de memórias que ele não conseguia apagar. Para afastar a náusea paralisante, ele forçou as palmas das mãos em carne viva contra as arestas cortantes da grelha congelada. A dor aguda, incandescente em sua intensidade gélida, varreu a névoa alucinatória de sua cabeça. Era seu antídoto. A agonia era limpa; a fumaça era podre.
+Aquele cheiro. O legista pigarreando anos atrás, a brasa do cigarro iluminando o necrotério enquanto dissecava Bia. Gabo odiava a fumaça com cada fibra do seu ser. O tabaco era o cheiro da morte, da corrupção, de memórias que ele não conseguia apagar. Para afastar a náusea paralisante, ele forçou as palmas das mãos em carne viva contra as arestas cortantes da grelha congelada. A dor aguda não varreu a névoa desta vez. Gabo precisou contar as luzes de emergência até conseguir distinguir o alerta real do cheiro lembrado.
 
 — *A integridade estrutural da passagem foi comprometida. O Taxidermista recalibrou os sensores térmicos do setor,* — a voz sintética de Aria cortou o silêncio pelo comunicador na gola de Gabo.
 
@@ -29,7 +29,7 @@ Gabo cambaleou até Valéria e tentou esfregar os braços dela, mas suas própri
 
 Gabo parou. A raiva era um combustível sujo, mas quente. Ele cravou os olhos no LED azul-gelo do pendrive espetado no braço trêmulo de Valéria.
 
-— Eu já disse. Não. Você pode ter apagado a Bia da sua memória flash, mas eu não apaguei o que nós somos. Se a gente deixar a Val aqui, não somos melhores que o Taxidermista. Não somos melhores que o Dante.
+— Parte do seu histórico está inacessível; não vou fingir que sei o que isso significa. Agora preciso do mapa do aquecimento — sem vapor direto na Val.
 
 Ele puxou o pendrive de Aria do pulso quase paralisado de Valéria e cambaleou até um painel de controle colossal incrustado na parede de metal. Era um antigo terminal híbrido da Aeterna Corp, com uma fenda de serviço digital e uma pesada alavanca de emergência travada sob décadas de gelo e oxidação. A alavanca, marcada com fita amarela e preta desbotada, indicava 'PURGA TÉRMICA DE EMERGÊNCIA'.
 

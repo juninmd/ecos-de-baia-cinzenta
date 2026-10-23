@@ -40,6 +40,8 @@ Aeterna controla energia, saúde e dados. DPBC participa da corrupção, com dif
 
 ## Escrita e evidência
 
+Calendário de 2056: entre 7 e 8 passam três semanas. As comportas abrem em 19/03/2056; o protocolo de 12/02/2056 já existia antes. Não restaurar o intervalo de três meses nessa passagem. O enclave tinha 240 pessoas incluindo Vilar; 26 sobrevivem incluindo ele, e os 214 mortos incluem Peçanha. Desde 170, o relato assume primeira pessoa, ligada ao registro de responsabilidade de Gabo no caderno.
+
 Informação chega por interesses em conflito. Um especialista interpreta o que observa, declara limites e deixa prova consultável. Papel pode conter fraude, imagem pode ser montagem, voz pode ser reprodução. Custódia e origem não são garantia do conteúdo.
 
 Tecnologia exige energia, calor dissipado, acesso, dados e permissões. Pendrive não fornece força para guincho, motor ou armação. Um cabo cortado não prova extinção da rede inteira. Não invente percentuais clínicos ou probabilidades sem método e dados observáveis.

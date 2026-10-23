@@ -23,11 +23,11 @@ Pelo canal de rádio ligado ao deck de Valéria lá em cima, a voz sintética de
 
 Gabo tentou ignorar a voz no ouvido por um momento, fechando os olhos contra a queimação da febre. O cheiro de ozônio e formol irritava suas narinas, e a exaustão acumulada pesava nas pálpebras como chumbo. A cada respiração forçada, a tontura da perda de sangue ameaçava puxá-lo para a inconsciência. Mas apagar ali significava a morte de Rangel e o fim da missão.
 
-Ele apertou o punho direito, sentindo a dor das escoriações latejar através das ataduras improvisadas. A pontada aguda correu pelo antebraço como um choque elétrico, forçando seus neurônios a permanecerem em alerta. A dor crua era o único lembrete de que ele ainda estava no controle do próprio corpo, dissipando a névoa do cansaço enquanto ele lutava contra o princípio de choque hipovolêmico.
+A mão direita não fechou por completo. Gabo apoiou o antebraço na parede e manteve a outra mão livre para a alavanca; se insistisse em apertar a ferida, perderia a força que ainda precisava para abrir a porta.
 
 — Ele não tá morto, Aria, — Gabo sibilou por entre os dentes para o comunicador, ofegante. — Enquanto ele respirar, ele é nosso problema.
 
-— *Um problema de tempo e massa,* — retrucou Aria pelo fone, sem qualquer tom de acusação. — *A taxa de hemorragia no seu antebraço indica que o choque hipovolêmico atingirá um nível crítico em dezoito minutos. Não tenho como medir o fígado de Rangel daqui. A perda de sangue que consigo ver é sua, e o curativo está voltando a molhar.*
+— *Um problema de tempo e massa,* — retrucou Aria pelo fone, sem qualquer tom de acusação. — *O curativo do seu antebraço está voltando a molhar e você perde firmeza. Não consigo prever quando o choque vai piorar nem avaliar o estado interno de Rangel.*
 
 — O mundo é ilógico, cacete, — Gabo rebateu, a raiva fervendo, servindo como combustível para um corpo que implorava por colapso. — Você acha que a Aeterna venceu pela lógica? Não. Eles venceram porque trataram a gente como número desde a Torre. Exatamente como você tá fazendo agora dentro desse pendrive.
 
@@ -52,7 +52,7 @@ Mais alguns baques e, finalmente, o som de metal batendo contra o chão de concr
 
 Do outro lado da porta blindada, Valéria arrancou o pendrive de titânio do deck e cravou o conector retrátil na porta de serviço da válvula de pressão.
 
-— *A alavancagem manual de uma operadora do peso de Valéria não é suficiente para quebrar o selo da ferrugem sozinha,* — observou Aria pelo comunicador enquanto seu drive aquecia no slot da parede, forçando a purga do óleo velho nos cilindros da porta. — *Injetando pulso de alívio nos freios pneumáticos. A probabilidade de sucesso sobe para cinquenta e quatro por cento se o Detetive aplicar força simultânea pelo lado interno.*
+— *A alavancagem manual de uma operadora do peso de Valéria não é suficiente para quebrar o selo da ferrugem sozinha,* — observou Aria pelo comunicador enquanto seu drive aquecia no slot da parede, forçando a purga do óleo velho nos cilindros da porta. — *Injetando pulso de alívio nos freios pneumáticos. A abertura depende de Val soltar a roda e de Gabo aplicar força ao mesmo tempo. Não consigo estimar a chance de sucesso.*
 
 — Cala a boca e queima esse relé, Aria! — Gabo gritou, posicionando-se do lado de cá e encaixando o vergalhão que trouxera na fresta da eclusa, apoiando os ombros contra a barra. — Quando ela soltar a trava mecânica, eu faço alavanca daqui!
 

@@ -98,7 +98,7 @@ O cubo preto estava no centro da mesa.
 
 Ele tocou o cubo. Estava frio, mais frio que a sala.
 
-— Três meses de silêncio não é morte. É espera. — Ele levantou os olhos para Rangel. — Talvez não seja "quem". Talvez seja "o quê".
+— Semanas de silêncio não são morte. São espera. — Ele levantou os olhos para Rangel. — Talvez não seja "quem". Talvez seja "o quê".
 
 De repente, o pulso de luz do cubo mudou. De azul calmo para um branco intenso. Um feixe de luz foi projetado para cima, cortando a fumaça das velas.
 

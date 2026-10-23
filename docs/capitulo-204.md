@@ -59,7 +59,7 @@ Não era um motor ligando. Era o ruído obsceno de chapas de blindagem de dez ce
 
 Do fundo do fosso de carga, uma massa titânica começou a se erguer.
 
-Não tinha simetria. Não tinha a engenharia limpa e arrogante das máquinas da Aeterna Corp. Era uma aberração arquitetônica: chassis de empilhadeiras pesadas esmagados e soldados uns sobre os outros, braços mecânicos de seis escavadeiras diferentes instalados fora de eixo como pernas de um crustáceo monstruoso, e uma cabine de comando triturada encravada no centro como um coração de vidro estilhaçado. Toda a estrutura estava amarrada por cabos de alta tensão e uma crosta espessa de ferrugem viva e lodo biomecânico.
+Não tinha simetria. Não tinha a engenharia limpa e arrogante das máquinas da Aeterna Corp. Era uma aberração arquitetônica: chassis de empilhadeiras pesadas esmagados e soldados uns sobre os outros, quatro braços hidráulicos de escavadeiras, instalados fora de eixo como patas de um crustáceo monstruoso, e uma cabine de comando triturada encravada no centro como um coração de vidro estilhaçado. Toda a estrutura estava amarrada por cabos de alta tensão e uma crosta espessa de ferrugem viva e lodo biomecânico.
 
 Alguma inteligência residual da Praga de Ferro passara anos no escuro catando restos de carcaças e forjando a si mesma.
 

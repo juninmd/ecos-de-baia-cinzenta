@@ -8,7 +8,7 @@ image: /capitulo_170_pro.jpg
 
 # Capítulo 170: O Fim do Expediente
 
-O silêncio do Subnível 2.0 não era uma ausência de som, mas uma presença física. Pressionava meus tímpanos como água a cinquenta metros de profundidade. A mesa de fibra de carbono à minha frente estava manchada por um fluido denso, escuro e iridescente, que escorria devagar do cilindro estilhaçado.
+Na página depois do Sujeito 01, escrevi meu nome: Gabriel Moretti. Sem patente. Se aquele caderno ia guardar o que tínhamos feito, eu não podia continuar tratando os meus atos como se pertencessem a outro homem. Guardei a caneta com a mão esquerda. O silêncio do Subnível 2.0 pressionava meus tímpanos como água a cinquenta metros de profundidade. Na mesa à minha frente, um fluido escuro escorria do cilindro estilhaçado.
 
 O *wetware* — o tecido cerebral que outrora orquestrara a farsa da Aeterna — agora não passava de biomassa apodrecendo sob as luzes de emergência.
 

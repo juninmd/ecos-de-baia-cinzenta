@@ -17,6 +17,7 @@
 ### ⏳ Linha do Tempo
 
 * **Parte IX (Dilúvio):** Sobreviveu à enchente.
+* **Capítulo 52:** Após o resgate, decide exigir a cópia do contrato e rastrear o destino das amostras. Recuperar a liberdade física não basta como prova de cancelamento da dívida nem de destruição do material coletado. Recusa novas cessões sem esclarecimento.
 * **Atualidade:** Braço direito da Dra. Nise, gerenciando a crise humanitária.
 
 ---

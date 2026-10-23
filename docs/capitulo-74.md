@@ -87,7 +87,7 @@ O LED azul e o âmbar fundiram-se num único feixe branco.
 
 Um dos executivos tentou puxar o pendrive à força do barramento. O arco eletromagnético atravessou a mão dele antes que os dedos tocassem o titânio.
 
-Não queimou como fogo — foi pior e mais estranho: a descarga **rejeitou** o contato, porque os pacotes de memória já não estavam mais gravados no estado sólido do módulo; estavam subindo em frequência gigahertz pelos cabos da antena mestra para cada repetidora da metrópole, um quadro adiante da mão dele.
+A descarga atingiu a blindagem e fez o homem recuar com a mão queimada. Na tela de serviço, os pacotes de coordenação já percorriam os cabos da antena em direção aos repetidores. Eram as tarefas delegadas por Aria, não o núcleo inteiro emigrando para outra máquina. Dentro do módulo, o indicador de memória falhava enquanto ela sustentava a transferência.
 
 O homem olhou para os próprios dedos dormentes e começou a chorar, ali, no vento, aos quarenta e poucos anos, de terno, vendo trilhões de dólares em propriedade intelectual escaparem pelo ar.
 

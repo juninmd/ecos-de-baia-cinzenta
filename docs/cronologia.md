@@ -2,7 +2,7 @@
 
 ## Calendário mestre
 
-O presente dos 238 capítulos é **2056**. Idades de calendário não se confundem com aparência de avatar, corpo rejuvenescido ou cópia. Os intervalos abaixo vêm das fontes oficiais; datas diárias inferidas não são medições adicionais feitas pelos personagens.
+O presente dos 238 capítulos é **2056**. O intervalo entre 7 e 8 é de três semanas; as comportas abrem em **19/03/2056**, e 56 ocorre no dia 95 do Dilúvio. O salto não recua a abertura para 2055. Idades não se confundem com aparência de avatar, corpo rejuvenescido ou cópia. Relógios locais sem sincronização não fornecem datas globais adicionais.
 
 | Marco                                              | Ano            | Consequência                                                          |
 | -------------------------------------------------- | -------------- | --------------------------------------------------------------------- |
@@ -31,7 +31,7 @@ O presente dos 238 capítulos é **2056**. Idades de calendário não se confund
 
 | Fontes  | Intervalo e continuidade                                                                                                                                                                                                                                                                   |
 | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1-39    | Investigação, captura do padrão de Dante, colapso da Torre. Corpo original morre 27; Gabo executa Éder rendido 35.                                                                                                                                                                         |
+| 1-39    | Investigação, com três semanas entre 7 e 8; captura do padrão de Dante e colapso da Torre. Original morre 27; Gabo executa Éder rendido 35.                                                                                                                                                |
 | 40/45   | Vinte e três dias após a queda, começa o Dilúvio e Arthur desperta após 552 h sem pulso. Restos de Dante retirados por equipe e sepultados 40.                                                                                                                                             |
 | 46      | Oitavo dia do Dilúvio: chegada das unidades. A liberação de hangares consumiu dias; oito partiram, duas se perderam na aproximação.                                                                                                                                                        |
 | 50-55   | Helena morre 50. Dia 44 em 51, dia 46 em 55; Gabo continua lesionado e dependente de ajuda.                                                                                                                                                                                                |

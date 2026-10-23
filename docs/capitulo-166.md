@@ -46,7 +46,7 @@ Valéria postou-se ao seu lado, sacando a pistola 9mm e descrevendo um arco defe
 
 — E como a gente para um tanque de doze toneladas dentro de um corredor estreito?! — Valéria berrou, abaixando a arma um centímetro enquanto recuava assombrada, ouvindo o zumbido crescente dos capacitores do monstro carregando. — Não temos granada. Não temos nada que perfure titânio. E ele vai fechar a avenida inteira antes da gente chegar em qualquer saída!
 
-— *Probabilidade de sobrevivência ou evasão cinética em confronto direto: quatro vírgula sete por cento,* — calculou Aria a partir do pendrive no braço da hacker, a voz sintética fria diante do colosso de metal. — *O Sentinel neutralizará alvos orgânicos com força esmagadora ou gel incendiário de contenção assim que a distância atingir quarenta metros de raio. A sobrevivência orgânica é ilógica sob a atual malha de variáveis.*
+— *Não vejo uma rota de evasão diante da velocidade e do armamento do Sentinel,* — calculou Aria a partir do pendrive no braço da hacker, a voz sintética fria diante do colosso de metal. — *O Sentinel neutralizará alvos orgânicos com força esmagadora ou gel incendiário de contenção assim que a distância atingir quarenta metros de raio. Sem interferir no controlador, o confronto direto tende a ser fatal.*
 
 — Ótimo — rebateu Gabo com um sorriso cínico e enviesado. — Então a gente só morre. Mais rápido que virar escultura de carne nos níveis de baixo, imagino.
 

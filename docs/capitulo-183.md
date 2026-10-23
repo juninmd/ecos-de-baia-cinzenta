@@ -33,13 +33,13 @@ Entre os esqueletos de vigas de ferro, o veículo despontou. Era um buggy de gue
 
 Valéria olhou pela fresta da lataria do ônibus, os olhos ópticos dando um clique audível de zoom.
 
-— Você é completamente maluco, Moretti. Se você errar o tempo do salto, aquele parachoque de viga em U parte sua bacia em dois pedaços.
+— Se o calço travar, você larga a ferramenta e recua — disse Val. — Eu não vou conseguir tirar você debaixo desse ônibus.
 
-— Então você garante que os dois atiradores da caçamba não mexam no gatilho enquanto eu pulo.
+— Então cobre a lateral enquanto eu solto o calço. Não vou alcançar a sarjeta se tiver de desviar de tiro também.
 
 Ela soltou um suspiro irritado, puxando o ferrolho da sua pistola com um estalo limpo e metálico que ecoou na escuridão sob o ônibus.
 
-— Três segundos depois do seu impacto, Gabo. Nem um milissegundo antes, senão o piloto desvia o curso. E se você morrer nessa manobra estúpida, eu juro que desmonto seu braço novo e vendo o cobre pros sucateiros do porto.
+— Assim que o ônibus se mover, eu cubro a saída. Não antes. — Ela encostou a arma na lataria. — E você larga a ferramenta, Moretti. O suporte não segura um ônibus e você sabe disso.
 
 — Justo.
 
@@ -73,7 +73,7 @@ O homem soltou o ferro no cascalho ensopado, os olhos arregalados de terror por 
 
 — O... o túnel de carga da têxtil! — o homem gaguejou, o ar saindo em silvos pela válvula da máscara. — A duzentos metros à esquerda, atrás dos silos de armazenamento de grãos. O portão tá arrombado, mas... tem coisa viva lá embaixo! Raízes azuis! Elas pegaram o nosso grupo de reconhecimento ontem!
 
-Valéria me olhou por cima do ombro. Eu estava de pé, apoiado no capô fumegante do buggy, conferindo a faixa que prendia a mão direita imobilizada dentro da armação. O metal ainda tremia; havia sangue novo num ponto do fixador. Eu não tinha como saber se a tração deslocara o osso.
+Valéria me olhou por cima do ombro. Eu estava apoiado no casco do ônibus, fora da fumaça, conferindo a faixa da mão imobilizada. Havia sangue novo na borda do fixador. Ela me fez sentar e trocou a cobertura externa com a última gaze seca do bolso; as outras continuavam seladas no estojo. Eu não tinha como saber se a tração deslocara o osso. Meu corpo estava gastando mais material que a arma.
 
 — Raízes azuis — ela disse, desativando o rádio do homem com um golpe no concreto. — Exatamente onde a gente precisa ir. O complexo hidropônico.
 

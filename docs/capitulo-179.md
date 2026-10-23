@@ -7,7 +7,7 @@ Personagens Presentes: Gabo, Valéria
 
 # Capítulo 179: Ecos de Aço e Ferrugem
 
-A dor no meu ombro direito funcionava como um metrônomo quebrado. Um tique-taque elétrico e sujo que contava os segundos da nossa sobrevida. A cada movimento do braço de ferro, os pregos neurais que Vasco cravou na minha escápula enviavam pontadas agudas até a base do crânio. Era o lembrete físico de que eu ainda pertencia ao mundo dos vivos, mesmo que este mundo cheirasse a esgoto podre e poeira de concreto moído.
+A cada movimento da armação, a tração chegava ao fixador e subia pelo meu pescoço. O curativo que Val trocara no beco ainda estava seco; eu conferia a borda por baixo do sobretudo sem abri-lo. A estação cheirava a esgoto e concreto moído. Tínhamos trocado a chuva por um lugar onde eu podia sentar sem encharcar de novo a proteção.
 
 Valéria terminou de amarrar o cyberdeck às costas com tiras de lona encerada para proteger as portas lógicas da umidade. O corte curto do cabelo dela, molhado de chuva ácida, grudava nas têmporas pálidas, onde os fios de LED azul piscavam num compasso irregular.
 

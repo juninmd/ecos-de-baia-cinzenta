@@ -9,7 +9,7 @@ A chuva batia na vitrine da "Cafeteria do Fim do Mundo" com uma insistência rí
 
 Gabo segurava a caneca com as duas mãos, sentindo o calor penetrar em seus dedos frios. As órteses nas pernas zumbiam suavemente, em modo de repouso, sob a mesa de fórmica gasta.
 
-Valéria estava sentada à frente dele, mexendo em seu deck com uma mão e comendo um pedaço de torta de origem duvidosa com a outra. O cabelo dela, agora roxo néon, iluminava o rosto pálido.
+Valéria estava sentada à frente dele, mexendo em seu deck com uma mão e comendo um pedaço de torta de origem duvidosa com a outra. Os fios de LED azuis na franja assimétrica iluminavam o rosto pálido.
 
 — Você está quieto demais — disse ela, sem levantar os olhos da tela holográfica.
 

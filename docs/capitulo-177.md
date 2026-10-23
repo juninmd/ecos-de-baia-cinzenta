@@ -49,11 +49,11 @@ O vergalhão atingiu o antebraço da armação de ferro. O impacto produziu um e
 
 Antes que ele pudesse puxar a arma de volta, desferi o golpe. Não foi um soco técnico de boxeador da corporação; foi o arremesso estúpido e maciço de um martelo mecânico de vinte quilos empurrado por um pistão sob pressão máxima.
 
-Minha mão de liga espessa colidiu com a caixa torácica dele.
+O batente de liga espessa da armação colidiu com a caixa torácica dele; minha mão biológica continuava presa na tala.
 
 O som do esterno e das costelas se estilhaçando sob o concreto foi audível até mesmo por cima da tempestade. O homem nem chegou a gritar; o ar e o sangue foram expulsos dos pulmões dele instantaneamente enquanto seu corpo era projetado cinco metros para trás, colidindo violentamente contra a lateral do caminhão frigorífico antes de deslizar, inerte, para dentro de uma poça de óleo.
 
-A onda de recuo subiu pela minha omoplata como uma chicotada de fogo. A dor estalou nas terminações nervosas recém-suturadas, fazendo meu maxilar ranger e o osso fraturado protestar sob a chuva no meu rosto. Mas os pinos de fixação aguentaram. A fita isolante de Vasco fumegava na junta, mas os dedos de aço responderam ao meu comando quando fechei o punho ensanguentado.
+A onda de recuo atravessou o arnês e me dobrou sobre o ombro ferido. A tala não deixava a mão fechar; apertei com a esquerda o comando de retorno da pinça externa. Ela recolheu com um estalo atrasado. A faixa impermeável escurecera junto ao fixador. Nem o metal inteiro significava que o osso tivesse ficado no lugar.
 
 Os outros quatro saqueadores pararam no meio do salto. O terror paralisou cada um deles. Olharam para o líder deles afundado na lama sem respirar, olharam para o vapor branco que sibilava da junta do meu braço de ferro, e depois para o cano curto de *Caronte* que eu saquei com a mão esquerda por baixo do casaco.
 
@@ -73,7 +73,7 @@ Valéria soltou o ar devagar, os ombros descendo alguns centímetros. Ela guardo
 
 — Eu parei — respondi, olhando o sangue que os outros arrastavam pela rua. Não sabia se o homem ainda respirava. Economizar cartucho não dizia nada sobre isso.
 
-— É, e quase deslocou sua clavícula nova — ela se aproximou, estendendo a mão para inspecionar a junta do meu ombro com os dedos rápidos de hacker. — Tá cheirando a borracha queimada e óleo térmico. A solda do Vasco segurou, mas a folga aumentou dois milímetros. Mais três pancadas dessas e você vai ter que catar os parafusos na sarjeta.
+— É, e quase levou a clavícula junto — ela se aproximou e me fez sentar sob o caminhão, fora da chuva. Limpou a borda da proteção com o material de Nise antes de trocar a gaze, usando a mão direita; a esquerda só prendia o estojo. — Tem sangue novo. Eu não consigo avaliar o osso aqui. A gente vai parar de usar o seu suporte como arma antes que não dê mais para andar até ajuda.
 
 — Então a gente torce pra não encontrar mais idiotas no caminho.
 

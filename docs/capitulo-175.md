@@ -21,15 +21,15 @@ Vasco trouxe a armação externa. O metal era um cinza fosco, cheio de cicatrize
 
 Eu não o peguei. Apenas cravei os dedos da mão esquerda na beirada de zinco da maca e fechei os olhos.
 
-Quando ajustou a haste externa, o puxão chegou ao fixador e me fez pedir que parasse. Ele parou. Ficamos ouvindo o gerador até eu conseguir responder onde o suporte pressionava. A equipe voltaria a conferir os pontos de fixação; a autorização de saída era para transferência curta, com ajuda, e não para voltar ao subsolo.
+Quando ajustou a haste externa, o puxão chegou ao fixador e me fez pedir que parasse. Ele parou. Ficamos ouvindo o gerador até eu conseguir responder onde o suporte pressionava. A equipe voltaria a conferir as fixações; a transferência prevista era até o posto de Nise, com ajuda. Naquela manhã, Vasco fechara a porta a dois homens que perguntavam por mim sem trazer paciente. Permanecer ali também tinha começado a cobrar de quem nos escondia.
 
 Mas a tempestade de sinapses se estabilizou. O peso absurdo da armação puxou meu tronco para a direita, um conjunto de vinte quilos de ferro, arnês e pistões, distribuído entre o braço e o suporte de cintura. Os dedos da mão direita quase não se moveram dentro da tala. O que abriu e fechou foi a pinça externa, comandada pela interface; a mão de carne continuou imobilizada. Um zumbido hidráulico grave, como um motor de elevador em miniatura, respondeu ao sustentar o peso do meu membro quebrado.
 
 — Não encosta no fim do curso — Vasco avisou. — O limitador está ruim. O batente pode prender a haste e queimar o servo; não foi feito para sustentar ninguém numa queda.
 
-Nise voltou antes de nos deixar sair. Conferiu as fixações, registrou a alta contra a recomendação da equipe e entregou as instruções a Valéria. A mão esquerda dela continuava com a lesão nervosa: uma luva atuada oferecia abertura e preensão grosseiras, sem devolver sensibilidade nem trabalho fino. Precisava de bateria própria; desligada, os dedos voltavam a ficar rígidos. Para fios e gatilhos, ela teria de usar a direita.
+Nise voltou e ouviu nossa decisão de seguir pelo ramal até sair do setor. Pôs o formulário na maca. — O posto é para o outro lado. Eu não estou liberando esse trajeto. — Assinei com a esquerda. Ela conferiu as fixações e entregou a Val curativos selados, horários e um canal de retorno; se a gaze encharcasse ou eu deixasse de conseguir apoiar a perna, teríamos de parar e chamar ajuda. A luva atuada de Val só abria e fechava grosseiramente a mão esquerda, sem devolver sensibilidade; desligada a bateria, os dedos enrijeciam. Fios e gatilhos continuavam trabalho da direita.
 
-Vasco separou dois cilindros de ar de resgate, a máscara e quatro cartuchos de Caronte, anotando tudo na dívida. Não eram filtros contra qualquer gás nem reserva para dias. Valéria conferiu os manômetros antes de guardar o conjunto.
+Vasco separou dois cilindros de ar de resgate, duas máscaras com cartuchos para poeira e névoa e quatro cartuchos de Caronte, anotando tudo na dívida. As máscaras não garantiam proteção contra gases desconhecidos; o ar dos cilindros era reserva de retirada, não combustível para atravessar qualquer lugar. Valéria conferiu manômetros, vedações e a faixa impermeável que cobria meus curativos antes de guardar o conjunto.
 
 — Bem-vindo de volta ao clube da sucata — Vasco murmurou, limpando o suor oleoso da testa com o antebraço sujo de graxa.
 
@@ -59,7 +59,7 @@ Ela arregalou os olhos prateados, a boca abrindo numa mistura de pavor genuíno 
 
 Valéria levou a mão à têmpora esquerda, onde a porta do implante neural ainda fumegava de leve. Ela fechou os olhos por um segundo, os nós dos dedos apertando os cabelos escuros da nuca batida. Uma careta de dor real cruzou seus traços jovens.
 
-— Eu sei o que tá apitando, caramba. Meu subsistema tá piscando uma mensagem de alerta em vermelho que cobre metade do meu campo visual. *'Risco crítico: recursos exauridos, probabilidade de sobrevida da unidade: quatro por cento'*. — Ela abriu os olhos e me encarou, com aquele meio-sorriso cínico e teimoso que sempre a mantinha de pé. — Quatro por cento, Gabo. A máquina quer que eu sente no chão e espere a patrulha da Aeterna vir recolher os pedaços.
+— Eu sei o que tá apitando, caramba. O alerta cobre metade do meu campo visual: recursos exauridos, fonte instável, assistência indisponível. — Ela abriu os olhos e me encarou, sem sorriso. — Até a máquina sabe que sair daqui é uma péssima ideia. Só não tem campo para os homens que bateram na porta.
 
 — E o que você vai fazer com a máquina? — perguntei.
 

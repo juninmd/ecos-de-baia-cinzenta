@@ -12,7 +12,7 @@ Gabriel Moretti, aos 22 anos, estava parado no palco improvisado, vestindo um te
 
 Gabo ouviu na memória a voz do pai pedindo que respirasse. Não havia um homem de uniforme ao lado dele; era o jeito que encontrara de não olhar para a cadeira.
 
-Gabo tentou sorrir, mas o nervosismo o traía. Ele olhou para a congregação pequena: alguns colegas da delegacia, o casal Rossi com sua pizzaria recém-inaugurada, e Elena Moretti, que viera como amiga e testemunha de Bia. Ninguém da família de Bia. Eles haviam se oposto à união desde o início.
+Gabo tentou sorrir, mas o nervosismo o traía. Ele olhou para a congregação pequena: alguns colegas da delegacia, o casal Rossi com sua pizzaria recém-inaugurada, e Elena Moretti, que viera como amiga e testemunha de Bia. Enzo recolhia as caixas vazias da entrega; Sofia conferia as fatias para garantir que sobrasse uma para a equipe da cozinha. Ninguém da família de Bia. Eles haviam se oposto à união desde o início.
 
 Três fileiras de cadeiras dobráveis ficaram vazias à esquerda, reservadas aos Vargas e nunca ocupadas. O zelador do Jardim empilhara as sobras contra a parede, e o plástico branco refletia a luz holográfica como dentes. Bia não olhou para lá. Passou a cerimônia inteira com o queixo na direção de Gabo, e só uma vez, quando o quarteto virtual errou uma nota, o olhar dela escorregou para as cadeiras e voltou rápido demais. O cheiro de terra úmida e adubo químico subia dos canteiros, e por baixo dele havia o perfume gasto do paletó emprestado, que lembrava as roupas guardadas do pai.
 
