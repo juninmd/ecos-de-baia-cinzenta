@@ -31,7 +31,8 @@ jobs:
         shell: bash
         run: |
           docker run --detach --rm --name book-pr --publish 127.0.0.1:8080:8080 book-pr:check
-          curl --fail --silent --show-error --max-time 5 --retry 15 --retry-connrefused --retry-delay 1 \
+          trap 'docker logs book-pr' ERR
+          curl --fail --silent --show-error --max-time 5 --retry 15 --retry-all-errors --retry-delay 1 --retry-max-time 30 \
             http://127.0.0.1:8080/ --output "$RUNNER_TEMP/book-home.html"
           grep -q 'Ecos de Baía Cinzenta' "$RUNNER_TEMP/book-home.html"
       - name: Stop test container
