@@ -13,7 +13,7 @@ def test_real_dossier_keeps_characters_and_phases_after_split():
     dossier = ROOT / 'docs/personagens.md'
     characters = CharacterDatabase(str(dossier)).characters
     assert len(characters) >= 30
-    assert characters['Aria']['image'] == '/personagens/aria_2.png'
+    assert characters['Aria']['image'] == '/personagens/aria_3.png'
     assert characters['Gabriel "Gabo" Moretti']['image'] == '/personagens/gabo.jpg'
     assert 'Vestuário:' in characters['Valéria "Val" Cruz']['description']
     timelines = linhas_do_tempo(dossier)

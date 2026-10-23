@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD041 -->
 
-![Aria](/personagens/aria_2.png)
+![Aria](/personagens/aria_3.png)
 
 * **Status:** [DESTRUÍDA NO CAPÍTULO 167] — Assistente de IA Autônoma, alojada fisicamente em um componente tipo pendrive.
 
@@ -30,6 +30,7 @@
 ### ⏳ Linha do Tempo e Evolução Visual
 
 * **Origem e evolução visual:** Arquitetura compilada com o backdoor de Dante e fragmentos do banco Lázaro, incluindo Bia; desenvolvimento autônomo posterior, cuja cronologia e autoria serão investigadas em arco próprio. Revisão editorial de 21/10/2026: desde a estreia, avatar de mulher adulta com jaqueta grafite, cabelo platinado e olhos azul/âmbar; âncora oficial `aria_2.png`. O retrato anterior `aria.png` é preservado como histórico, não uma fase infantil da personagem.
+* **Revisão visual de 23/10/2026:** Novo retrato holográfico canônico `aria_3.png`, com a mesma identidade adulta e jaqueta grafite. `aria.png` e `aria_2.png` permanecem imutáveis como referências históricas. A projeção é luz sem massa, não um corpo.
 * **Capítulo 2 (O Encontro na Enchente):** Durante a enchente, Gabo ouve o chamado na cabine telefônica de cabos cortados, recolhe o pendrive da Aria espetado no terminal do orelhão e o conecta ao painel do *Cobalt*.
 * **Capítulos 4-10:** Opera conectada ao painel do *Cobalt*, ao comunicador de Gabo e ao cyberdeck de Valéria, abrindo travas por conexão local e lendo o tráfego da rede.
 * **Capítulos 32-55:** Entra em hibernação de baixo consumo após o Apagão da Torre.

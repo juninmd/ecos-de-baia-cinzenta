@@ -31,4 +31,4 @@ Checkout existente master, base `2730f6c`, sem troca de branch, commit ou public
 
 Backups, candidatos e saídas completas: C:/Users/jr_ac/AppData/Local/Temp/ecos-revisao-integral-ljqdojc1. Recibos no repositório: cobertura-final-01/02/03.md e .json, verificacao-final.json, renderizacao-final.json e triagem-final-01/02/03.json.
 
-As propostas e pareceres de rodadas anteriores permanecem como histórico. O pedido anterior de imagens tem seu [registro separado](aria-agy/ESTADO.md); não houve geração de arte nesta etapa de revisão textual.
+As propostas e pareceres de rodadas anteriores permanecem como histórico. A revisão textual acima foi seguida pela [atualização visual de Aria em 23/10](aria-imagens-20261023.md): onze imagens selecionadas para doze destinos, no [PR #550](https://github.com/juninmd/ecos-de-baia-cinzenta/pull/550). O retrato canônico passa a ser aria_3.png; os anteriores foram preservados.

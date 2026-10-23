@@ -1,5 +1,9 @@
 # Aria: estado da geração pelo Antigravity
 
+**Rodada atual, 23/10/2026:** onze imagens selecionadas aplicadas a doze destinos.
+Novo retrato `aria_3.png`; a tentativa abaixo é histórico de 22/10, não o resultado
+atual. [Recibo e homologação](../aria-imagens-20261023.md).
+
 Atualização: 22/10/2026. A direção vigente é **mulher adulta como holograma
 volumétrico**, com rosto estável, cabelo platinado, heterocromia azul/âmbar e
 jaqueta de malha de dados escura. Não substituir a personagem por grandes telas.

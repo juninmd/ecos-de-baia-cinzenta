@@ -3,7 +3,7 @@
 Direção de personagem e aparência adotada em 21/10/2026, a partir da decisão do
 autor. Complementa o [dossiê](personagens.md); o arco da origem ainda será escrito.
 
-![Aria, interface de mulher adulta](/personagens/aria_2.png)
+![Aria, interface de mulher adulta](/personagens/aria_3.png)
 
 ## Identidade e relação com Gabo
 
@@ -38,7 +38,7 @@ a uma câmera desligada ou a um servidor sem conexão.
 
 ## Aparência estável
 
-- **Âncora oficial:** `docs/public/personagens/aria_2.png`.
+- **Âncora oficial:** `docs/public/personagens/aria_3.png`.
 - **Rosto:** traços reconhecíveis do retrato anterior, com maturidade adulta.
 - **Cabelo:** longo, liso, branco-platinado.
 - **Olhos da interface:** um azul e um âmbar, com oscilação de luz sob sobrecarga.

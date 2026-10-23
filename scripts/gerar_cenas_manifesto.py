@@ -25,6 +25,7 @@ from scripts.art_gen import (  # noqa: E402
 )
 from scripts.build_scene_manifest import DESTINO, carregar_regerar  # noqa: E402
 from scripts.lote_cenas import pendentes  # noqa: E402
+from scripts.homologar_cenas import realimentar_fila  # noqa: E402
 
 PAUSA_SEGUNDOS = 2.0
 RESULTADO = REPO_ROOT / "resultado_rodada.json"
@@ -89,6 +90,13 @@ def executar(fila: List[Dict], tentativas: int, com_visao: bool,
     placar["sem_ancora"] = list(getattr(provedor, "sem_ancora", []))
     relatorio_imagens.escrever_rodada(RESULTADO, placar, recusas, provedor)
     return placar
+
+
+def registrar_sem_ancora(caminhos: List[str]) -> int:
+    """Reutiliza a fila de homologação para as cenas sem identidade travada."""
+    if not caminhos:
+        return 0
+    return realimentar_fila([{"arquivo": caminho} for caminho in caminhos])
 
 
 def main() -> int:

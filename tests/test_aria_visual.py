@@ -24,7 +24,7 @@ def test_aria_no_elenco_recebe_limite_material_com_outra_ancora():
     prompt = prompt_cena.texto_do_prompt(cena, "Teste", gabo, elenco, 2)
     assert "ARIA HOLOGRAM" in prompt
     assert "inactive physical drive" in prompt
-    assert next(p for p in elenco if p["nome"] == "Aria")["referencia"].endswith("aria_2.png")
+    assert next(p for p in elenco if p["nome"] == "Aria")["referencia"].endswith("aria_3.png")
     assert "Never depict a child" in prompt
 
 
