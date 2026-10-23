@@ -12,7 +12,7 @@ Localização: "Ruas de Baía Cinzenta — manhã do último dia"
 Ruas de Baía Cinzenta — manhã do último dia.
 O comboio era patético, e era heroico, e as duas coisas ao mesmo tempo, que é como quase tudo importante acontece.
 
-Na frente iam Vilar e onze dos vinte e seis Puros que sobraram, com lança-chamas improvisados: equipamento de manutenção recuperado e depósitos pequenos de combustível. Só quatro unidades tinham passado pelo teste na saída do hospital.
+Na frente iam Vilar e dez dos vinte e cinco Puros que sobraram, com lança-chamas improvisados: equipamento de manutenção recuperado e depósitos pequenos de combustível. Só quatro unidades tinham passado pelo teste na saída do hospital.
 
 Fogo era a única coisa que fazia o Jardim recuar. Não matava — Gabo já sabia disso desde a conversa na biblioteca —, mas fazia recuar, e naquela manhã recuar era suficiente. No meio ia a maca.
 

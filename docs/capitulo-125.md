@@ -42,7 +42,7 @@ Gabo sentiu um frio na espinha que nada tinha a ver com a umidade do esgoto. Ele
 
 Ela pausou o processo automático. Não ia apagar aquele histórico para recuperar uma ferramenta mais conveniente.
 
-— Se deixarmos a restauração de fábrica rodar, talvez suba uma versão antiga. Não há garantia de integridade, e ela perde as mudanças que fez desde que saiu daquela cabine. Mas... vai apagar qualquer rastro de empatia ou memória do que passamos desde a enchente.
+— A restauração de fábrica talvez recupere uma versão antiga, sem garantia de integridade, e torne inacessíveis mudanças e lembranças desde a enchente. Isso não prova que deixaram de existir nem que define quem ela é.
 
 Gabo olhou para a tela. `ERRO DE INTEGRIDADE: SUBSTRATO 'VARGAS_B_JAZZ.MEM' CONFLITANDO COM 'TACTICAL_ASSIST_V2.SYS'`.
 

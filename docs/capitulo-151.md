@@ -32,7 +32,7 @@ Ele virou o frasco. A etiqueta da farmácia da Doca 3 trazia uma data riscada a 
 
 — Ele sabia — repetiu Valéria, e a raiva dela não era contra o morto. Era contra o fato de que ninguém, em nenhum ponto daquela subida, tinha conseguido oferecer a Rangel uma escolha melhor do que morrer de pé.
 
-No pulso de Valéria, o pendrive blindado de Aria não expressava luto. O pequeno cilindro prismático, cujo LED azul-gelo refletia na poça de sangue escuro sobre a chapa metálica, processava o fim dos batimentos cardíacos através dos biossensores do *Phantom V3* sem o menor traço de empatia. Toda a hesitação humana e as memórias afetivas que um dia suavizaram sua voz haviam sido trancadas ou varridas no reboot forçado nos pinos do pendrive.
+No pulso de Valéria, o pendrive blindado de Aria não expressava luto. O pequeno cilindro prismático, cujo LED azul-gelo refletia na poça de sangue escuro sobre a chapa metálica, processava o fim dos batimentos cardíacos pelos biossensores do *Phantom V3*. A síntese não vacilava. Gabo tomou a voz restrita e a parte inacessível do histórico por prova de que a antiga hesitação e os afetos tinham sido apagados; o próprio drive não podia confirmar essa conclusão.
 
 — *Registro de transporte interrompido,* — declarou Aria pelo alto-falante do deck e pelo comunicador na gola de Gabo, a voz modulada sem qualquer inflexão. — *Não consigo transportar o corpo sem vocês. A passarela continua cedendo. Posso registrar a posição, fotografar os marcos e manter o nome ligado ao local, se decidirem partir.*
 

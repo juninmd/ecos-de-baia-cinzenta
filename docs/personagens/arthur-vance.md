@@ -19,10 +19,10 @@
 
 ### ⚔️ Vance × Krell — por que os dois não competem
 
-A crença de Gabo de que Arthur Vance é "o Imperador" aparece no arco do Jardim e é corrigida 170 capítulos depois, quando o arquivo da Arca Zero mostra a rubrica: o arquiteto do prédio não é o autor do crime.
+A atribuição de toda a máquina a Arthur é limitada pelo arquivo da Arca Zero: a rubrica distingue quem financiou a infraestrutura de quem renovou cada autorização. Separar responsabilidades não inocenta o fundador nem transforma Krell no autor de todas as escolhas alheias.
 
 * **Arthur Vance é o arquiteto do prédio.** Fundou a empresa de cuidado perpétuo, escreveu o Protocolo N.O.A., construiu a Arca e o exército. Pensava em território, ordem e obediência.
-* **Viktor Krell é o autor do crime.** Entrou como estagiário do jurídico na empresa de Vance, leu os contratos que ninguém mandou ler, e descobriu dentro do negócio de Vance um produto que Vance nunca viu — a mente do cliente. Não precisou de exército nenhum.
+* **Viktor Krell renova e explora as autorizações.** Entrou no jurídico, converteu contratos em instrumentos de extração e manteve a vigilância documentada em 227/228. Arthur já autorizara infraestrutura e programas antes da estase; dormir não o tornou inocente. A rubrica de Krell prova atos atribuídos a ele, sem absorver a autoria de todos os crimes dos demais.
 
 **Os Leviatãs não chegarem não é fio solto: é a tese.** Das 38 unidades, 18 apodreceram alagadas por juntas de vedação com vida útil de 25 anos que ninguém desceu para trocar, 9 emperraram e 3 pararam na subida. **Oito partiram.** O Imperador acordou para conquistar uma cidade que já tinha sido devorada por um predador melhor, e o exército dele foi derrotado pela própria corrosão antes de ver a superfície.
 

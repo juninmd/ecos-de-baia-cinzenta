@@ -19,7 +19,7 @@ Fiquei de pé na beira da cova, respirando pelo nariz, sentindo a chuva bater no
 
 Não era a chuva ácida da cidade baixa. Era água fria, limpa pela primeira vez desde que o Dilúvio abriu as comportas meses atrás, descendo das nuvens cinzentas que começavam a se abrir no horizonte leste.
 
-Valéria deu dois passos à frente. Ela não usou a pá. Ajoelhou-se na lama vermelha, usou a pá de Elias com a mão direita; a proteção da esquerda só servia de apoio no cabo. Tirou a terra solta, devagar, sem forçar os dedos que não obedeciam. O barro cobriu o cromado dos antebraços dela e manchou as juntas de cerâmica sintética.
+Valéria deu dois passos à frente. Ajoelhou-se na lama vermelha e usou a pá de Elias com a mão direita; a proteção da esquerda só servia de apoio no cabo. Tirou a terra solta, devagar, sem forçar os dedos que não obedeciam. O barro cobriu o cromado dos antebraços dela e manchou as juntas de cerâmica sintética.
 
 — Profundidade atual: um metro e setenta — disse Valéria. Os olhos prateados dela piscaram com uma luz fraca, sem estabilidade. — A cota fica acima da marca das marés que Elias encontrou. Vamos reforçar o monte contra a chuva.
 
@@ -45,7 +45,7 @@ Quando a lona assentou no fundo da cova vermelha, a Dra. Vance se aproximou na c
 
 A doutora soltou o crachá. O plástico caiu sem ruído sobre o peito coberto de lona.
 
-— A Aeterna passou sessenta e um anos enterrando mentes vivas em cofres de nitrogênio líquido para transformá-las em patrimônio corporativo — a voz da velha ressoou com a clareza de uma sentença judicial. — Essa mulher enterrou o silêncio da Aeterna antes que pudessem colocá-la numa gaveta. Se existir alguma justiça na história que sobrou desta praia, o nome dela vai ser lido muito depois de a última torre de vidro ruir.
+— Há sessenta e um anos, a Aeterna prometia cuidar dos mortos. Depois aprendeu a conservar mentes vivas em cofres e chamá-las de patrimônio corporativo — a voz da velha ressoou com a clareza de uma sentença judicial. — Essa mulher enterrou o silêncio da Aeterna antes que pudessem colocá-la numa gaveta. Se existir alguma justiça na história que sobrou desta praia, o nome dela vai ser lido muito depois de a última torre de vidro ruir.
 
 Elias começou a jogar a terra de volta.
 
@@ -81,6 +81,6 @@ Mas, pela primeira vez em vinte e um anos, eu não era o grupo de controle de ni
 
 Entrei no galpão.
 
-A rotativa de Elena já estava ligada, batendo no seu ritmo surdo e honesto, *tchunc-tchunc-tchunc*, cuspindo as páginas que a cidade inteira ia ler antes do meio-dia.
+A rotativa de Elena já estava ligada, batendo no seu ritmo surdo e honesto, *tchunc-tchunc-tchunc*, cuspindo as páginas que precisavam chegar aos assentamentos antes do meio-dia de amanhã.
 
 Puxei o primeiro caderno ainda quente de tinta.

@@ -8,7 +8,7 @@ Participação em registros e imagens: Roberto Miranda, Kiko Vibe
 
 A cidade acordou às seis. O zumbido dos alto-falantes entrou no apartamento antes do primeiro ônibus, fazendo vibrar o copo esquecido no chão. Gabriel Moretti desejou que alguém apertasse o botão de soneca.
 
-Fazia três meses que retirara Miranda do buggy. A clínica estancara a hemorragia; Valéria chegara com uma equipe de Vilar antes do amanhecer. Gabo assinara o recebimento de suas próprias armas enquanto outro policial algemava a testemunha à maca. Miranda passara a viagem pedindo que ele não o entregasse.
+Fazia três semanas que retirara Miranda do buggy. A clínica estancara a hemorragia; Valéria chegara com uma equipe de Vilar antes do amanhecer. Gabo assinara o recebimento de suas próprias armas enquanto outro policial algemava a testemunha à maca. Miranda passara a viagem pedindo que ele não o entregasse.
 
 A visita à represa fora registrada no dia seguinte. As bases dos tanques ainda estavam lá. Os tanques, não. O boletim da desaparecida também sumira. Vilar conservara as filmagens, o original e a transmissão incompleta, mas a investigação passara à Divisão de IA: conflito de interesse do inspetor Moretti. Dantas anexara a gravação do baile ao mesmo despacho.
 

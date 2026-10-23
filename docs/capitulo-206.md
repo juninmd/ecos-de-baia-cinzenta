@@ -29,7 +29,7 @@ Valéria apontou o feixe óptico do cyberdeck para o garoto, examinando-o de cim
 
 — Tá inteiro, Elias. Nem um parafuso a menos. Levanta e sacode a ferrugem do casaco porque essa festa acabou de chamar a atenção da vizinhança inteira.
 
-Apoiei a mão de sucata no chão para me erguer. O pistão instalado por Vasco uivou quando a pressão hidráulica engrenou, e a agonia nos ligamentos da clavícula me arrancou um grunhido involuntário. As cicatrizes antigas do Dilúvio repuxavam sob a jaqueta de sarja, e a órtese da perna esquerda estalou com um som seco de osso destroncado antes de travar no ângulo certo. A dor era limpa, afiada como lâmina, mas mantinha meus pensamentos ancorados na urgência da fuga desde a queda da Torre Aeterna anos atrás.
+Apoiei a pinça da armação no chão para me erguer. O pistão instalado por Vasco uivou, e a tração no fixador me arrancou um grunhido. As cicatrizes do Dilúvio repuxavam; a órtese da perna esquerda estalou antes de travar. A Torre Aeterna caíra meses antes, e as comportas tinham aberto vinte e três dias depois. Nenhuma dessas lembranças me devolvia força. Precisei que Elias prendesse a guia antes de tentar levantar de novo.
 
 — E os outros três colossos que você pegou nos sensores? — perguntei, ejetando os cartuchos vazios da escopeta. O clique metálico de duas balas novas entrando na câmara ecoou como um metrônomo sombrio.
 

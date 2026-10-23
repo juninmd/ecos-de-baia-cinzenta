@@ -102,6 +102,12 @@ Isadora olhou para o líquido desperdiçado, depois para Gabo.
 
 Isadora avaliou o homem à sua frente. Quebrado, sujo, velho. Mas inquebrável.
 
+Antes de abrir o salto do sapato, puxou do bolso um recibo térmico dobrado. No cabeçalho, revisão anual; abaixo, “setor familiar”, **REF-0** e **PEDIDO DE COLETA: RECUSADO — MANTER REFERÊNCIA EM CAMPO**. Val reconheceu a chave do verso guardado por Nise. O rodapé identificava um console administrativo, sem nome de operador.
+
+— Miranda me fez consultar esse pedido — disse Isadora. — Voltei ao terminal e pedi nova revisão. Recusaram de novo, sem exame nem solicitação clínica. Só essa ordem. Eu devia ter queimado o recibo.
+
+Gabo estendeu a mão. Isadora puxou o papel para si. — A foto basta. O original fica comigo. — Val registrou as duas faces, incluindo a borda com o código do console. Só então Isadora dobrou o recibo e tornou a guardá-lo.
+
 — O Miranda controla os robôs de uma sala no subnível da Prefeitura — disse ela, rápido. — Mas o Marco... o Marco está construindo algo pior na Represa. O "Projeto Dilúvio" não é só água. É um reset.
 
 Ela tirou um chip escondido no salto do sapato e o colocou na mesa.

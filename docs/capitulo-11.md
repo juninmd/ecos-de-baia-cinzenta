@@ -101,6 +101,12 @@ Se o índice de violência não cair em seis meses, eu mesmo desligo isso.
 
 Gabo se sentou. No papel, o pai tinha um cargo que os relatos de coragem nunca mencionavam: **Consultor de Segurança Sênior**. Deu a Valéria espaço para fotografar a página inteira, incluindo o carimbo de recebimento, e não só a assinatura.
 
+No verso havia duas colunas: **amostra extraída** e **parente em campo — comparação**. Na segunda, uma linha de inventário: **setor familiar / REF-0 / manter referência viva; não extrair**. Nenhum nome acompanhava a chave. Val fotografou também o verso.
+
+— Compatibilidade de quê? — perguntou Nise. — Aqui não pedem outro doador. Mandam comparar alguém que extraíram com um parente que precisam manter fora da máquina.
+
+Ela procurou o exame de compatibilidade nos anexos. Não havia paciente identificado nem laudo correspondente. Podia faltar uma folha, ou a reserva ter outra finalidade. — Guardem as duas faces — disse, segurando o papel aberto para Val. — Sem o nome dessa referência, eu não sei quem eles querem manter vivo.
+
 — Ele sabia que estavam construindo uma gaiola — disse Nise. — Achava que podia controlá-la. Não sei se imaginou que o filho seria o pássaro.
 
 O aviso veio de uma das pequenas câmeras de vigilância da lavanderia, recebida no monitor do laboratório. Uma unidade sem identificação parou na porta. Na parede ao lado, alguém aplicou uma carga à fechadura.

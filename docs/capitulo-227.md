@@ -2,14 +2,14 @@
 Título: O Estagiário
 Data In-Game: Primeira tarde na Velha Baía
 Localização: Galpão de Impressão, Velha Baía (Superfície)
-Personagens Presentes: Gabo, Valéria, Elias, Dra. Elara Vance, Elena
+Personagens Presentes: Gabo, Valéria, Elias, Dra. Elara Vance, Elena, Duarte
 ---
 
 # Capítulo 227: O Estagiário
 
 Passamos a tarde conferindo o índice e uma amostra de originais. Uma acusação dessas não se faz com uma pasta; quarenta e sete mil fichas também não se verificam entre o almoço e o pôr do sol.
 
-Elias montou uma linha na mesa de carga: abria a caixa, tirava a ficha, lia a linha do segundo aval em voz alta, e passava adiante. Elena anotava. A Dra. Vance conferia a numeração de contrato contra o registro-mestre que ela carregava na memória, e marcou as divergências para uma segunda conferência. Valéria contava.
+Elias montou uma linha na mesa de carga: abria a caixa, tirava a ficha, lia a linha do segundo aval em voz alta, e passava adiante. Elena anotava. A Dra. Vance conferia a numeração de contrato contra o registro-mestre que ela carregava na memória, e marcou as divergências para uma segunda conferência. Valéria contava. Elena pediu a Duarte Falcão, operador da rotativa, que rodasse a capa enquanto ela compunha a nota; ele cobriu o interruptor com a mão engraxada. — Se a gente publicar só o total, vão entender que vocês conferiram cada ficha. Ponham os trezentos e a ressalva na página. A prensa espera; quem receber isso precisa saber o que foi verificado. Elena retomou a caneta e escreveu a ressalva antes de liberar o interruptor.
 
 — Ano vinte e nove: quatrocentos e doze fichas. Rubrica presente em quatrocentos e doze.
 
@@ -115,7 +115,7 @@ Era um exército ridículo. Era o melhor exército que essa cidade já teve.
 
 Ela olhou o relógio de pulso — analógico, corda manual, claro.
 
-— Se a gente começar a compor agora, o primeiro caderno de dezesseis páginas sai amanhã de madrugada. Doze mil cópias até o fim da semana.
+— Se a gente começar a compor agora, o primeiro caderno de dezesseis páginas sai amanhã de madrugada. Doze mil no primeiro turno; cinquenta mil até sexta, se houver papel.
 
 — Começa pelas fichas de aprovação.
 

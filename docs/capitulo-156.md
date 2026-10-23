@@ -39,7 +39,7 @@ Valéria ainda evitava olhar diretamente para as mãos enfaixadas de Gabo, mas f
 
 — Ela está certa, — Valéria murmurou, a voz falhando. — Mas é arriscado. Se houver um pico na malha antiga, a sobretensão vai passar direto pelos pinos do pendrive. Preciso separar alimentação e dados pelo adaptador da cabine. Não vou usar o núcleo dela como fusível outra vez.
 
-— *Risco aceitável,* — Aria respondeu prontamente pelo comunicador, como se estivesse avaliando uma equação trivial. — *Sem o monorail, o tempo estimado de sobrevivência para a subida a pé é de zero.*
+— *Risco elevado,* — Aria respondeu pelo comunicador. — *A pé, a subida levaria muito mais tempo; não consigo estimar quanto vocês suportariam sem atendimento.*
 
 Valéria não esperou segunda ordem. Ela desacoplou o pendrive blindado de Aria de seu cyberdeck *Phantom V3*, limpou a crosta de ferrugem do slot de diagnóstico no painel oxidado do vagão e espetou o componente de titânio até o fundo com um clique seco e metálico. Em seguida, conferiu a separação dos circuitos no adaptador da cabine antes de fechar o contator de teste.
 

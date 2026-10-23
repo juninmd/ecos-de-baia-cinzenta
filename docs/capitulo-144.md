@@ -44,7 +44,7 @@ Um urro seco e gutural escapou de seus lábios, afogado na escuridão vertical. 
 
 — Continuem subindo — a voz dele saiu como cascalho arrastado no fundo de um rio seco, destituída da náusea de um segundo antes, focada e cortante. — Não olha para baixo, Val. Olha para as minhas botas.
 
-— *Os biossensores do pulso de Valéria indicam níveis críticos de fadiga muscular e hipoglicemia,* — relatou Aria pelo comunicador, com a precisão indiferente de um monitor hospitalar. — *Frequência cardíaca: cento e setenta e oito batimentos por minuto. A probabilidade de queda por falha de preensão manual nos próximos vinte metros aumentou para sessenta e oito por cento. O peso extra do sujeito Rangel reduz sua própria margem de sobrevivência, Detetive Moretti, para menos de onze por cento.*
+— *Os biossensores do pulso de Valéria indicam níveis críticos de fadiga muscular e hipoglicemia,* — relatou Aria pelo comunicador, com a precisão indiferente de um monitor hospitalar. — *Frequência cardíaca: cento e setenta e oito batimentos por minuto. A mão de Valéria já escorregou duas vezes; não consigo estimar se ela manterá a preensão pelos próximos vinte metros. O peso extra e o estado de vocês tornam a subida perigosa. Não posso calcular uma margem de sobrevivência.*
 
 — Eu disse para calar a boca e manter o sonar ligado, Aria — Gabo cortou, puxando o corpo mais um degrau acima enquanto os servos danificados de seu exoesqueleto gemiam sob a carga dupla. — Se o seu LED piscar fora de hora, eu arranco você do pulso da Val e jogo de volta para o lixão.
 

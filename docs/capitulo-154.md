@@ -26,7 +26,7 @@ Valéria estava pendurada no cabo adjacente, os movimentos lentos, ainda se recu
 
 Um estrondo surdo interrompeu sua frase. As paredes de concreto armado abaixo deles tremeram violentamente. Pedaços de reboco e poeira caíram no abismo. As unidades de caça não estavam subindo pelos cabos; elas estavam escalando as paredes do poço, afundando garras mecânicas no concreto com brutalidade sistemática.
 
-— *Análise de probabilidade:* — a voz sintética de Aria soou pelo comunicador na gola de Gabo e pelo alto-falante do pulso de Valéria, fria e imune ao pânico. — *Em noventa e dois segundos, as unidades de caça entrarão em alcance efetivo de interceptação. Em nosso atual estado de exaustão e déficit de velocidade de subida, a taxa de sobrevivência do grupo cairá para zero por cento.*
+— *Análise de probabilidade:* — a voz sintética de Aria soou pelo comunicador na gola de Gabo e pelo alto-falante do pulso de Valéria, fria e imune ao pânico. — *O ruído de motores se aproxima; as unidades podem alcançar vocês em pouco tempo. Feridos e lentos, vocês não têm uma rota segura. Não consigo calcular a sobrevivência do grupo.*
 
 — Não... fode, Aria... — Gabo arfou, escorregando alguns centímetros e gemendo quando o cabo esfolou ainda mais suas feridas. Ele usou a dor para se ancorar, cravando as botas em um suporte enferrujado da guia lateral para descansar os braços por uma fração de segundo. — Usa o sonar do deck... tem que ter um jeito de retardá-los!
 
@@ -68,7 +68,7 @@ Valéria fechou os olhos, o rosto em uma máscara de concentração pura. O LED 
 
 Gabo jogou todo o peso do corpo para trás, pendurando-se na alavanca primária com os pulsos e cotovelos em carne viva.
 
-O som foi apocalíptico. O ruído surdo das travas se desengatando ecoou por todo o poço, seguido pelo gemido angustiado de metal sofrendo estresse instantâneo. Cento e quarenta toneladas de aço bruto, desgastadas pelo tempo e enferrujadas em blocos gigantescos, despencaram da escuridão acima.
+O som foi apocalíptico. O ruído surdo das travas se desengatando ecoou por todo o poço, seguido pelo gemido angustiado de metal sofrendo estresse instantâneo. Quatorze toneladas de aço bruto, desgastadas pelo tempo e enferrujadas em blocos gigantescos, despencaram da escuridão acima.
 
 O lastro gigantesco passou a centímetros dos cabos onde eles estavam pendurados, criando um vácuo momentâneo que quase arrancou Gabo de sua posição. Ele apertou os olhos, esperando o impacto.
 

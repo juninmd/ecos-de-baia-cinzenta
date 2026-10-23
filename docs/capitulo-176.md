@@ -11,7 +11,7 @@ A chuva ácida do Distrito 4 não limpava nada; ela apenas dissolvia as bordas d
 
 Dei meu primeiro passo na calçada podre e quase fui ao chão.
 
-A armação industrial que Vasco havia parafusado aos meus ossos e nervos para sustentar o braço quebrado não era apenas feia; ela tinha a sutileza e o equilíbrio de uma bigorna amarrada à minha escápula. Vinte quilos de aço industrial envolvendo meu membro ferido e puxando meu centro de gravidade violentamente para a direita. Cada movimento do meu ombro enviava um espasmo elétrico direto para a minha medula, um zumbido de baixa frequência vibrando nos meus dentes.
+A armação industrial que Vasco acoplara ao fixador instalado pela equipe não era apenas feia; tinha a sutileza de uma bigorna presa ao meu tronco. Vinte quilos distribuídos pelo arnês e pela cintura ainda puxavam meu centro de gravidade para a direita. Cada movimento transmitia tração ao ombro ferido. A faixa impermeável raspava no sobretudo; eu precisava mantê-la fechada mesmo quando a pele coçava sob o curativo.
 
 — Segura a onda aí, Frankenstein — uma mão magra e firme engatou sob o meu cotovelo esquerdo, antes que meu joelho cedesse no lodo.
 

@@ -21,7 +21,7 @@ Elias já havia sido içado até a plataforma elevada de serviço; o garoto jazi
 
 O cinto de rapel mordia minha cintura com ferocidade, cortando a circulação das coxas. Com a perna esquerda presa na órtese rígida que pendia inútil no ar e o braço mecânico puxando o ombro lacerado para baixo após a fixação da fratura, eu precisava confiar unicamente na pegada da minha mão de carne viva e na força de tração da dupla lá em cima. A bandagem improvisada no meu ombro empapou de vermelho escuro; meus músculos continuavam sangrando pelo bíceps, e o esforço arrancou um urro rouco dos meus dentes enquanto as cicatrizes do Dilúvio queimavam no frio.
 
-A dor na carne aberta ardia com a ferocidade de ácido, um eco constante dos ferimentos acumulados desde que a Torre Aeterna desabou sobre nós no Dilúvio anos atrás. Mas a dor era limpa; mantinha meus sentidos em alerta absoluto enquanto meus olhos monitoravam a aproximação da plataforma.
+A carne aberta ardia enquanto eu acompanhava a plataforma. Meses separavam aquela borda da queda da Torre Aeterna; o Dilúvio viera depois da Torre, não junto com ela. Eu já não distinguia o que lembrava do que estava ferindo agora. Val chamou meu nome até eu voltar a olhar a roldana.
 
 Três metros.
 

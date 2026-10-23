@@ -25,7 +25,7 @@ Atrás de mim, a respiração de Elias era um silvo asmático, entrecortado por 
 
 — As paredes tão aí há quarenta anos, Elias, — eu disse, parando por três segundos para firmar o joelho bom no metal e respirar fundo. — O aço não tá encolhendo. É a tua cabeça que tá tentando te derrubar. Respira devagar pelo nariz. Três segundos pra puxar, três pra soltar. Olha pras solas das minhas botas e não para de empurrar o chão.
 
-O peso da armação de ferro que Vasco parafusara no meu osso para travar a fratura puxava meu ombro direito com uma fisgada constante e lancinante. As ataduras estavam empapadas de lodo químico, e a carne viva costurada ardia como se estivesse sob brasas, mas a dor física era um instrumento de foco. Lembrava o peso da água barrenta no Dilúvio e a fúria das comportas estourando anos atrás quando a Torre Aeterna ruiu; a dor provava que eu ainda estava aqui, rastejando, respirando o ar sujo deste purgatório.
+A armação que Vasco acoplara ao fixador puxava meu ombro. A cobertura suja de lodo precisava ser trocada; mantive o braço preso ao arnês para não repuxar ainda mais os pontos. Lembrei a água do Dilúvio, vinte e três dias depois da queda da Torre Aeterna. Tudo naquele mesmo ano. Uma vida podia caber em meses e ainda assim deixar o corpo sem lugar para outra dívida.
 
 — Moretti, — a voz de Valéria mudou de tom, perdendo o deboche e ganhando a afiada frieza de alerta tático.
 

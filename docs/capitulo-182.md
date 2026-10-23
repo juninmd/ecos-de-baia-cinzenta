@@ -15,7 +15,7 @@ As nuvens não eram apenas cinzas; carregavam um matiz ocre e doentio, iluminada
 
 Parei sob o esqueleto de uma antiga passarela de pedestres, apoiando a mão esquerda — a de carne, a que ainda tremia de frio e exaustão — em uma viga de concreto esboroado. A chuva ácida havia dado uma trégua temporária, mas a névoa venenosa deixava uma camada viscosa sobre tudo. O horizonte não revelava a imponência predatória das torres de vidro da Aeterna Corp; aqui, estendia-se uma planície colossal de escombros industriais, carcaças de veículos enferrujados e esqueletos de fábricas têxteis que foram abandonadas décadas antes do grande dilúvio.
 
-Valéria subiu o último degrau atrás de mim, respirando fundo e tossindo com o impacto do ar cáustico. Ela puxou a gola de couro da jaqueta até o queixo e ajustou as lentes ópticas prateadas, que estalaram duas vezes mudando a distância focal.
+Valéria subiu tossindo dentro da máscara. Os cartuchos retinham a poeira, mas o gosto cáustico continuava chegando. Ela manteve a vedação e conferiu o detector antes de escolher a lateral do corredor, onde o vento empurrava a névoa para longe. O cilindro restante ficou fechado na mochila: não alcançaria para os dois se gastássemos a reserva andando pela avenida.
 
 — Santo inferno... — ela murmurou, a voz saindo abafada pela gola. — Parece que alguém pegou a cidade inteira, jogou dentro de um triturador de sucata e cuspiu os restos nesse descampado.
 
@@ -51,7 +51,7 @@ O alívio na pressão do joelho foi instantâneo. A tensão que repuxava meu qua
 
 — Melhor? — ela perguntou, erguendo a cabeça e me encarando de baixo com uma sobrancelha arqueada.
 
-— Muito melhor — admiti, engolindo o orgulho. — Onde você aprendeu a regular órtese médica de modelo policial antigo?
+— Parou de prender — admiti. O joelho ainda doía ao receber peso; ela limpara a junta, não a lesão. — Onde você aprendeu a regular órtese médica de modelo policial antigo?
 
 — O meu tio usava uma igualzinha quando perdeu a perna nas prensas da Doca Seca — ela se levantou, limpando a ferrugem dos dedos na perna da calça. — Ele vivia reclamando que a clínica recebia peças reaproveitadas dos equipamentos da polícia, que travavam toda vez que chovia. Parece que vinte anos depois a corporação continuou economizando no mesmo fornecedor vagabundo.
 

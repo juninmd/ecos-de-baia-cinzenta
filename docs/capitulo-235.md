@@ -57,7 +57,7 @@ Estendi a mão esquerda e toquei a lateral do pescoço dela, logo abaixo da linh
 
 Valéria ajoelhou-se do outro lado. Os dedos metálicos da ciborgue tocaram a carótida de Elena por alguns segundos antes de conferir o monitor portátil de resgate.
 
-— Sem sinais de circulação na avaliação. Hora em que a encontramos: quatro e vinte e sete — declarou Valéria. Houve uma pausa incomum na modulação de sua voz sintética. Um tremor quase imperceptível de microchips buscando uma resposta em tabelas que não tinham consolo. — Causa do óbito: choque hipovolêmico decorrente de múltiplos ferimentos balísticos. O transmissor ainda opera, mas está falhando. Vamos tirar os dois daqui.
+— Sem sinais de circulação detectáveis nesta avaliação. Hora em que a encontramos: quatro e vinte e sete — declarou Valéria. Houve uma pausa incomum na modulação de sua voz sintética. Um tremor quase imperceptível de microchips buscando uma resposta em tabelas que não tinham consolo. — Os ferimentos balísticos e a perda de sangue são compatíveis com choque hipovolêmico; não posso determinar a causa clínica sem exame. O transmissor ainda opera, mas está falhando. Vamos tirar os dois daqui.
 
 Atrás de nós, Elias tirou o boné de estivador da cabeça e deu dois passos para trás, encostando-se na parede de concreto descascada.
 

@@ -69,7 +69,7 @@ Ele se virou para Rangel, deitado inerte na maca.
 
 Gabo deu um passo à frente, colocando-se entre o Taxidermista e a maca, enquanto o LED azul do pendrive em seu peito pulsava em frequência máxima.
 
-— *Análise de ameaça: crítica* — Aria declarou pelo viva-voz do comunicador. — *Indivíduo classificado como Hostil de Alta Complexidade. Probabilidade de negociação: 0%.*
+— *Análise de ameaça: crítica* — Aria declarou pelo viva-voz do comunicador. — *Indivíduo classificado como Hostil de Alta Complexidade. Não há sinal de disposição para negociar.*
 
 O Taxidermista olhou para o drive de titânio acoplado ao comunicador de Gabo com fascínio clínico.
 
@@ -95,7 +95,7 @@ Eram diferentes dos monstros lá fora. Não eram massas de carne. Eram elegantes
 
 — Aria — Gabo rosnou, firmando os pés. — Plano de ataque.
 
-— *Oponentes com blindagem de cerâmica balística* — Aria respondeu instantaneamente no fone. — *Impactos de concussão diretos serão ineficazes contra o torso. Recomendo alavanca mecânica e ruptura dos feixes hidráulicos nas juntas articulares. Probabilidade de sobrevivência do grupo: 34%.*
+— *Oponentes com blindagem de cerâmica balística* — Aria respondeu instantaneamente no fone. — *Impactos de concussão diretos serão ineficazes contra o torso. Recomendo alavanca mecânica e ruptura dos feixes hidráulicos nas juntas articulares. Não consigo estimar a sobrevivência do grupo com os dados disponíveis.*
 
 — Ótimo — Gabo cuspiu no chão imaculado, manchando o branco com sangue e saliva. — Melhores chances que tivemos a semana toda.
 

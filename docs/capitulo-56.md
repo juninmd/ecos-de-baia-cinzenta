@@ -77,9 +77,9 @@ Gabo se aproximou, mancando, com as órteses improvisadas rangendo a cada passo.
 
 > *Estudo de Viabilidade e Levantamento Planialtimétrico — Consórcio Lázaro / Aeterna Prime.*
 > *Rev. 04 — protocolo municipal 2056/61.*
-> *Data de emissão: 12 de fevereiro.*
+> *Data de emissão: 12 de fevereiro de 2056.*
 
-Gabo leu de novo. Doze de fevereiro. As comportas abriram no dia dezenove de março.
+Gabo leu de novo. Doze de fevereiro de 2056. As comportas abriram no dia dezenove de março daquele mesmo ano.
 
 ---
 

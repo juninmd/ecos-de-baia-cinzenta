@@ -77,7 +77,7 @@ Ela soltou uma risada genuína, curta e rouca, que ecoou pelos trilhos mortos co
 
 — Eu também — murmurei.
 
-— Então para de forçar essa armação de lata e descansa vinte minutos — ela fechou os olhos, puxando o zíper da jaqueta até o queixo. — A gente ainda tem quatro quilômetros de túnel escuro até o Setor 6. E se você cair no caminho, eu vou te arrastar pelo sobretudo só pra ter o prazer de reclamar o caminho inteiro.
+— Então descansa vinte minutos. — Val conferiu o detector e os lacres dos dois cilindros antes de fechar a mochila; a reserva continuava guardada para retirada. — O mapa dá quatro quilômetros até o Setor 6. A gente só segue enquanto achar passagem e ar que os cartuchos deem conta de filtrar. Se o detector apitar, para. Não vou gastar todo o ar para chegar mais depressa a outro buraco.
 
 — Combinado, Val.
 

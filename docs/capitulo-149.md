@@ -43,7 +43,7 @@ Entre eles e a comporta, no entanto, havia apenas uma passarela estreita e corro
 Valéria olhou de Rangel, cuja respiração agora era um chiado irregular e úmido, para o pequeno drive brilhando em seu antebraço.
 — Ele não é peso morto, Aria. Ele é um de nós.
 
-— *Ele está gravemente ferido, Valéria Cruz,* — a voz de Aria cortou o ar ácido sem qualquer hesitação, desprovida dos fragmentos de empatia humana que o reboot havia expurgado de seus circuitos. — *Não tenho como avaliar o fígado nem prever uma parada pelo deck. Sei que o suporte central da passarela está cedendo; precisamos prender a prancha ao cabo de inspeção antes de avançar.*
+— *Ele está gravemente ferido, Valéria Cruz,* — a voz de Aria cortou o ar ácido sem hesitação. O reinício deixara parte do histórico inacessível; Gabo ouviu aquela cadência restrita e tomou a lacuna por indiferença. — *Não tenho como avaliar o fígado nem prever uma parada pelo deck. Sei que o suporte central da passarela está cedendo; precisamos prender a prancha ao cabo de inspeção antes de avançar.*
 
 — Cala essa caixa de som, Val — Gabo rosnou, sentindo a raiva ferver em seu peito, uma fornalha improvisada que temporariamente espantou a hipotermia do choque. Ele encarou o LED azul-gelo no pulso da parceira. — Você não faz as contas morais aqui, Aria. Desde que te tirei daquela cabine na enchente, você processa rotas, não quem vive ou morre. Se a passarela quebrar, a gente cai. Se a gente cair, a gente morre. Mas ninguém fica pra trás. Ninguém é descartado como o lixo desses tanques.
 

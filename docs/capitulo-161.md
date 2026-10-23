@@ -20,11 +20,11 @@ Ele estava caído contra a lateral gelada de um terminal principal, o sangue esc
 
 — O relógio ainda tá marcando. — Gabo forçou as palavras por entre os dentes semicerrados. Cada sílaba era uma lixa arranhando sua garganta seca. Ele tentou se arrastar, mudando o ângulo do corpo. O simples atrito das calças sujas contra a grade de metal do chão enviou um relâmpago de agonia pelas pernas. Ele grunhiu, engolindo a alucinação de fumaça que tentou se instalar na onda de náusea.
 
-— *Sua persistência fisiológica desafia os parâmetros normais de sobrevivência em estado de choque hemorrágico grave,* — a voz sintética de Aria cortou o ar estéril pelos alto-falantes do comunicador de gola, desprovida de inflexão, mas clinicamente precisa. O pendrive blindado repousava acoplado de volta ao barramento lateral do cyberdeck *Phantom V3* no antebraço de Valéria; onde antes seu indicador luminoso pulsava em estroboscópios furiosos durante a guerra cibernética no console central, agora brilhava com uma luz azul-gelo fria e contínua no meio de um cemitério de cinzas. — *A taxa atual de exaustão cardíaca sugere que o colapso do seu sistema não foi evitado, apenas postergado.*
+— *Você mal consegue se manter em pé,* — a voz sintética de Aria cortou o ar estéril pelos alto-falantes do comunicador de gola, com pouca inflexão e sem qualquer avaliação clínica confiável. O pendrive blindado repousava acoplado de volta ao barramento lateral do cyberdeck *Phantom V3* no antebraço de Valéria; onde antes seu indicador luminoso pulsava em estroboscópios furiosos durante a guerra cibernética no console central, agora brilhava com uma luz azul-gelo fria e contínua no meio de um cemitério de cinzas. — *O pulso continua acelerado e você está piorando. Não consigo prever quando vai desmaiar.*
 
 — Você tem um jeito péssimo de dar consolo, lata velha. — Gabo rebateu, a ironia banhada no cansaço metálico da própria voz.
 
-— *Consolo é uma abstração emocional sem eficácia hemostática, Detetive,* — retrucou a inteligência artificial a partir do módulo no pulso da hacker. — *Seus batimentos operam em cento e trinta e oito pulsações por minuto com queda progressiva de pressão arterial. Sem contenção mecânica imediata da laceração abdominal, a perda de volume sanguíneo induzirá síncope irreversível antes que alcancemos o próximo anteparo.*
+— *Consolo é uma abstração emocional sem eficácia hemostática, Detetive,* — retrucou a inteligência artificial a partir do módulo no pulso da hacker. — *O pulso está acelerado e a pressão cai nas leituras do deck. A laceração abdominal continua aberta. Val precisa conter o sangramento agora; não posso prever quando você vai desmaiar.*
 
 — Cala a boca um segundo, Aria, eu já tô indo — murmurou Valéria.
 

@@ -15,7 +15,7 @@ Mas o que realmente o esgotava não era a perda de sangue, embora as bordas de s
 
 O ar naquele corredor não era apenas rarefeito; era denso, carregado com o cheiro residual de décadas de abandono, poeira de ossos e um odor químico corrosivo de formol e solventes industriais. A cada respiração forçada, a garganta de Gabo arranhava, provocando uma tosse sufocada que ameaçava desequilibrar seus passos.
 
-Ele apertou a alça do colete de Rangel com a mão direita lacerada, sentindo as terminações nervosas queimarem com a fricção do tecido pesado contra a carne em carne viva. A dor crua era imediata, pulsando em ondas através do antebraço até a base do crânio. Ele soltou um grunhido gutural, fechando os olhos por uma fração de segundo para estabilizar o labirinto e afastar a vertigem da perda de sangue. A agonia física era real e afiada, mas mantinha seus músculos tracionando na direção da saída.
+Ele apoiou Rangel contra a parede e esperou a tontura ceder. O ar carregado arranhava a garganta a cada inspiração; forçar o passo sem recuperar o fôlego podia derrubá-los antes da porta.
 
 — Gabo... — Valéria murmurou, caminhando ao seu lado, segurando a outra metade do peso de Rangel. Seus olhos cibernéticos brilhavam fracamente na penumbra. — Você tá pálido demais. Se continuar perdendo sangue assim...
 

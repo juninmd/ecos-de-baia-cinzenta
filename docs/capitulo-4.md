@@ -17,7 +17,9 @@ Lembrou a caneta de prata da Dra. Cecília Weiss, parada sobre o papel.
 Você começou uma frase com “em catorze anos de polícia eu cruzei uma linha”. Depois mudou de assunto.
 Foi força de expressão.
 Você está com medo de quê, Gabriel?
-No consultório ele não respondera. No beco, apertou o Colar de Sol por cima da camisa e guardou o binóculo. Um baque veio da doca, seguido de um pedido de socorro que terminou antes da palavra inteira.
+No consultório ele não respondera. No monitor junto à pasta, um recibo de sincronização da rede clínica marcava cópia de segurança automática; Weiss fechara a janela antes que ele lesse o destino. Podia ser rotina administrativa. Ainda assim, a lembrança lhe deixava a sensação de que a conversa não terminara entre duas pessoas.
+
+No beco, apertou o Colar de Sol por cima da camisa e guardou o binóculo. Um baque veio da doca, seguido de um pedido de socorro que terminou antes da palavra inteira.
 
 Três Drenados cercavam um homem de uniforme cinza. Um chutava suas costelas; outro tentava arrancar o leitor de crédito preso ao pulso. O terceiro vigiava a rua, tremendo tanto que os dentes batiam.
 
