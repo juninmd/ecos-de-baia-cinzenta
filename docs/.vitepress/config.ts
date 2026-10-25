@@ -11,6 +11,7 @@ const base = process.env.VITEPRESS_BASE || '/'
 
 export default withMermaid(defineConfig({
   base,
+  lang: 'pt-BR',
   title: "Ecos de Baía Cinzenta",
   description: "Um thriller noir cyberpunk em uma cidade onde a chuva nunca para.",
   head: [
