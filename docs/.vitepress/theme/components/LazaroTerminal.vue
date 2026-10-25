@@ -142,7 +142,7 @@ watch(() => props.isOpen, (newVal) => {
     <div :class="['terminal-window', { hacked: isHacked }]">
       <div class="terminal-header">
         <span class="terminal-title">TERMINAL DE ACESSO LÁZARO // V4.0.1 {{ isHacked ? '[ADMIN]' : '' }}</span>
-        <button class="close-btn" @click="emit('close')">✕</button>
+        <button class="close-btn" aria-label="Fechar terminal" @click="emit('close')">✕</button>
       </div>
       <div class="terminal-body" ref="terminalBodyRef" @click="inputRef?.focus()">
         <div v-for="(line, index) in output" :key="index" :class="['line', line.type]">
