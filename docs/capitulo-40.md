@@ -1,13 +1,13 @@
 ---
 image: /capitulo_40.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti
+Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Valéria "Val" Cruz
 Localização: "Cemitério dos Esquecidos, Setor 7 (túmulo de Dante Moretti)"
 ---
 # Capítulo 40: O Céu Quebrou
 
 O Cemitério dos Esquecidos parecia mais abandonado do que nunca. Sem os drones de manutenção para podar a vegetação mutante, o mato já começava a engolir as lápides digitais apagadas. Raízes finas e acinzentadas — produto de alguma semente que escapara dos laboratórios da Aeterna — serpenteavam pelas rachaduras do mármore sintético, consumindo os nomes dos mortos.
 
-Gabo estava diante do túmulo de Dante Moretti. O verdadeiro túmulo, onde jaziam os restos mortais que ele recuperara da Torre dois dias antes, em uma operação que custara três costelas fraturadas e a sanidade de um carregador que viu o que restava do Comissário.
+Vinte e três dias depois da queda da Torre, Gabo estava diante do túmulo de Dante Moretti. O verdadeiro túmulo, onde estavam os restos recuperados por uma equipe de remoção dois dias antes. Gabo acompanhara a identificação na cadeira; o lacre e o registro da retirada ficaram com as demais provas. Não tinha como refazer o trajeto pessoalmente.
 
 A cerimônia havia sido patética. Só ele, Elena e Val. Três pessoas para enterrar o homem que um dia comandara mil policiais. O capelão robótico que costumava presidir os funerais estava desligado, então Gabo improvisou algo sobre poeira e descanso. As palavras soaram ocas, vazias como o caixão antes de receberem o corpo.
 
@@ -15,7 +15,7 @@ A cerimônia havia sido patética. Só ele, Elena e Val. Três pessoas para ente
 
 Era mentira. E ele sabia.
 
-A chuva ácida que martelava Baía Cinzenta há três décadas havia de fato cessado há três semanas, quando os satélites de controle climático da Aeterna foram desativados no colapso. Mas o que veio em seu lugar era pior.
+A chuva ácida que martelava Baía Cinzenta há três décadas mudara de padrão nas últimas três semanas, quando os satélites de controle climático da Aeterna foram desativados no colapso. Mas o que veio em seu lugar era pior.
 
 Gabo olhou para o céu.
 
@@ -41,7 +41,7 @@ Quando ele voltou para o Cobalt, estacionado no portão enferrujado do cemitéri
 
 — Gabo... — A voz dela estava estranha. Não assustada. Reverente. Como quem observa um deus acordando. — Olha aquilo.
 
-Gabo pegou o binóculo e ajustou o foco.
+Elena segurou o binóculo diante dos olhos de Gabo e ajustou o foco para ele.
 
 O que viu fez seu sangue gelar.
 
@@ -51,11 +51,11 @@ Relâmpagos vermelhos dançavam dentro da massa de nuvens. Não azuis ou brancos
 
 — O que diabos é aquilo? — perguntou Elena, saindo do carro e parando ao lado deles, os olhos arregalados.
 
-— Um super-ciclone — disse Val, a voz trêmula mas controlada. Ela estava lendo dados em seu tablet improvisado, conectado a sensores atmosféricos que ela mesma construíra. — Categoria 6. Talvez 7. Ventos sustentados de 350 km/h no olho. Sem a rede de satélites para dissipar a energia acumulada... ele está vindo com força total. Sem freios. Sem filtros.
+— Uma tempestade enorme — disse Val. O tablet recebia o barômetro local; isso não media o vento no mar nem fornecia categoria do ciclone. — A pressão está caindo. Sem radar e boletim confirmado, eu só posso dizer o que estamos vendo.
 
 Ela olhou para Gabo, e ele viu o medo nos olhos dela. Val nunca tinha medo.
 
-— Gabo, o barômetro do carro caiu para níveis que não existem na escala. Estamos prestes a ver algo que nenhum ser humano vivo já presenciou.
+— A leitura do barômetro está fora da faixa que eu calibrei. Pode ser o sensor. Não vou esperar descobrir aqui no cemitério.
 
 — É o Dilúvio — disse Gabo, sentindo um arrepio na espinha que não tinha nada a ver com o frio. A palavra saiu de sua boca antes que ele pudesse processá-la, vinda de algum lugar primitivo de sua mente. — A conta chegou.
 
@@ -69,18 +69,18 @@ O rádio da polícia no painel do Cobalt chiou, a estática cortada por uma voz 
 
 Gabo olhou para Elena. Para Val. Para o horizonte onde a muralha de nuvens roxas continuava avançando, devorando o céu.
 
-Ele suspirou — um som pesado, de quem aceita mais um peso em ombros já sobrecarregados — e entrou no carro, jogando a *Caronte* no banco de trás. A escopeta bateu no estofado rasgado com um som metálico familiar.
+Ele suspirou — um som pesado, de quem aceita mais um peso em ombros já sobrecarregados — e aceitou a ajuda de Elena para passar da cadeira ao banco do passageiro. Val guardou a Caronte atrás. A escopeta bateu no estofado rasgado com um som metálico familiar.
 
 A paz tinha durado vinte e três dias. Vinte e três dias desde a queda da Torre. Vinte e três dias de uma liberdade frágil e sangrenta. Ele deveria ter sabido que era bom demais para durar.
 
-— Vamos — disse ele, ligando o motor do Cobalt. O carro tossiu, engasgou, depois rugiu com a determinação de uma máquina que se recusava a morrer. — Temos que voltar para a delegacia e coordenar a evacuação. Levar todo mundo para os andares altos. Antes que essa cidade vire um aquário.
+— Vamos — disse ele, enquanto Elena ligava o motor do Cobalt. O carro tossiu, engasgou, depois rugiu com a determinação de uma máquina que se recusava a morrer. — Temos que voltar para a delegacia e coordenar a evacuação. Levar todo mundo para os andares altos. Antes que essa cidade vire um aquário.
 
-— E depois? — perguntou Elena, entrando no banco de trás.
+— E depois? — perguntou Elena, ajeitando-se ao volante.
 
 Gabo olhou pelo retrovisor. O primeiro raio vermelho cortou o horizonte, seguido por um trovão que fez os vidros do carro vibrarem.
 
 — Depois... a gente nada.
 
-Ele pisou no acelerador. O Cobalt disparou pela estrada enlameada do cemitério, deixando para trás os mortos que, pela primeira vez em suas eternidades silenciosas, teriam companhia em massa.
+Elena pisou no acelerador. O Cobalt disparou pela estrada enlameada do cemitério, deixando para trás os mortos que, pela primeira vez em suas eternidades silenciosas, teriam companhia em massa.
 
 O Dilúvio estava chegando. E Baía Cinzenta, a cidade que sobrevivera a tudo, estava prestes a descobrir que algumas dívidas não podem ser negociadas.

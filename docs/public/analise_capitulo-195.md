@@ -1,20 +1,17 @@
-# Análise do Capítulo 195: O Sangue nas Engrenagens
+# Revisão de Capítulo 195: O Sangue nas Engrenagens
 
-## Avaliação Técnica
-- **Ritmo (Pacing):** 9/10 - A tensão é constante e claustrofóbica. A fuga pelos dutos mantém a urgência sem perder o foco no sofrimento interno.
-- **Diálogos:** 9/10 - O cinismo de Gabo contrasta perfeitamente com a frieza matemática de Valéria em *Safe Mode*. O desespero de Elias adiciona uma camada extra de tensão.
-- **Atmosfera:** 10/10 - A descrição dos dutos escuros, o cheiro fantasma de fumaça e a brutalidade física são extremamente imersivos.
+Fonte: [capítulo 195](/capitulo-195.md).
 
-## Pontos Fortes / Pontos Fracos
-- **Pontos Fortes:** A representação do trauma de Gabo é excelente. O uso da dor intensa no ombro recém-dilacerado para ancorar a mente e afastar as alucinações de fumaça está perfeitamente alinhado com o lore. O pragmatismo de Valéria gera um conflito moral interessante, mesmo que ela não sinta emoções no momento.
-- **Pontos Fracos:** O ambiente é muito restrito (dutos de ventilação), limitando um pouco a expansão do mundo, mas funciona para a claustrofobia do capítulo.
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-## Sanity Check (Lore)
-- **Fobia de Fumaça (Gabo):** Respeitado integralmente. O cheiro fantasma de tabaco é o gatilho, e a dor no ombro é a âncora usada para estilhaçar a alucinação.
-- **Próteses e Limitações Físicas:** Respeitado. Gabo recusa cauterização e utiliza a agonia física como ferramenta de sobrevivência.
-- **Valéria:** Respeitado. Mantém seu *Safe Mode*, medindo estatísticas de viabilidade.
+## Passagens de entrada e saída
 
-## Avaliação Qualitativa
-- **Qualidade da História:** A narrativa continua opressiva e brutal, característica do Noir/Hardboiled e Cyberpunk estabelecido. A fuga é tensa e as consequências físicas do capítulo anterior são mantidas.
-- **Coerência dos Personagens:** Todos os personagens estão perfeitamente coerentes. Gabo abraça a dor, Valéria é puramente lógica, e Elias é o peso morto humano que reage com pânico realista.
-- **Necessidade de Novos Personagens:** Nenhuma. A dinâmica do trio atual é suficiente para carregar a tensão da fuga neste momento.
+> O interior do duto de refrigeração secundária era um pesadelo de ferro galvanizado e claustrofobia.
+
+### Saída
+
+> Retomamos o rastejo pela escuridão de ferro. A corrente de ar ficava progressivamente mais fria e espaçosa à medida que nos aproximávamos da saída, soprando para longe os resíduos do incêndio e nos conduzindo para as profundezas esquecidas do distrito mais rico que a cidade um dia possuiu.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

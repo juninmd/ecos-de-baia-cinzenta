@@ -2,60 +2,33 @@
 Título: O Homem no Portão
 Data In-Game: Terceira manhã na Velha Baía
 Localização: Galpão de Impressão e Pátio Externo, Velha Baía
-Personagens Presentes: Gabo, Valéria, Elias, Elena, Anselmo Braga
+Personagens Presentes: Gabo, Valéria, Elias, Elena, Anselmo Braga, Dra. Elara Vance
 ---
 
 # Capítulo 229: O Homem no Portão
 
-O primeiro corpo apareceu antes do café.
+O primeiro corpo apareceu antes do café. Não era um corpo de guerra. Eu já vi guerra. Corpo de guerra é feio de um jeito apressado — o tiro que pegou onde deu, a queda que torceu o que torceu. Aquilo ali era o oposto: era um corpo **arrumado**. O rapaz tinha uns vinte e cinco anos e trabalhava numa das prensas da Elena. Chamava-se Duarte Falcão. Estava sentado, encostado no portão de grade do pátio, com as pernas esticadas e as mãos no colo, e alguém tinha fechado os olhos dele com cuidado. Do peito para baixo, uma cinta de carga de poliéster laranja passava três voltas em torno dele e da grade, prendendo os dois. E no lado direito, na altura das costelas, havia uma catraca de aço — dessas de amarrar contêiner em navio, que qualquer estivador do Porto Velho sabe usar de olhos fechados. O roquete estava travado no último dente.
 
-Não era um corpo de guerra. Eu já vi guerra. Corpo de guerra é feio de um jeito apressado — o tiro que pegou onde deu, a queda que torceu o que torceu. Aquilo ali era o oposto: era um corpo **arrumado**.
-
-O rapaz tinha uns vinte e cinco anos e trabalhava numa das prensas da Elena. Chamava-se Duarte. Estava sentado, encostado no portão de grade do pátio, com as pernas esticadas e as mãos no colo, e alguém tinha fechado os olhos dele com cuidado.
-
-Do peito para baixo, uma cinta de carga de poliéster laranja passava três voltas em torno dele e da grade, prendendo os dois. E no lado direito, na altura das costelas, havia uma catraca de aço — dessas de amarrar contêiner em navio, que qualquer estivador do Porto Velho sabe usar de olhos fechados.
-
-O roquete estava travado no último dente.
-
-— Compressão torácica progressiva, — Valéria disse, agachada ao lado. — A cinta foi apertada em incrementos, com pausas. Entre o primeiro e o último clique passaram-se aproximadamente quarenta minutos.
+— Compressão torácica progressiva, — Valéria disse, agachada ao lado. — Há marcas compatíveis com aperto da cinta. Só daqui eu não sei a duração nem a sequência.
 
 Elias virou de costas e vomitou no cascalho.
 
 — Ele estava consciente? — perguntei.
 
-— Nos primeiros trinta.
-
-Elena chegou correndo, viu, e parou. Não gritou. Ficou muito quieta, do jeito que ela fica.
+— Não consigo afirmar. Vou registrar o que encontramos antes de tirar a cinta. Elena chegou correndo, viu, e parou. Não gritou. Ficou muito quieta, do jeito que ela fica.
 
 — Duarte, — ela disse. — Ele operava a rotativa. Tinha uma irmã em Setor 9.
 
-E foi aí que eu vi o papel.
+E foi aí que eu vi o papel. Estava dobrado em quatro e enfiado no bolso do peito do rapaz, com uma pontinha para fora, exatamente no ângulo em que alguém deixa quando quer que seja encontrado. Letra de fôrma, caprichada, feita com lápis e régua invisível.
 
-Estava dobrado em quatro e enfiado no bolso do peito do rapaz, com uma pontinha para fora, exatamente no ângulo em que alguém deixa quando quer que seja encontrado. Letra de fôrma, caprichada, feita com lápis e régua invisível.
+"Este não devia. Peço desculpas à família. Vim pelo Sr. Gabriel Moretti e ele não estava no portão. Voltarei às onze. — A. Braga."
+Li três vezes. Elena olhou por cima do meu ombro.
 
-*"Este não devia. Peço desculpas à família. Vim pelo Sr. Gabriel Moretti e ele não estava no portão. Voltarei às onze. — A. Braga."*
-
-Li três vezes.
-
-Elena olhou por cima do meu ombro.
-
-— Gabo. Quem é A. Braga?
-
-E a minha boca ficou seca de um jeito que não tinha nada a ver com febre.
+— Gabo. Quem é A. Braga? E a minha boca ficou seca de um jeito que não tinha nada a ver com febre.
 
 ---
 
-Ele chegou às onze em ponto.
-
-Não pela estrada, onde a Valéria tinha posicionado o único ponto de observação que a gente conseguiu montar. Veio pelo canal de drenagem, a pé, com água pela canela, e subiu o barranco devagar, do jeito de quem já subiu muito barranco e sabe que pressa é o que quebra tornozelo.
-
-Parou a vinte metros do portão. Ficou lá.
-
-Um homem enorme. Não gordo — **grande**, com uma armação de ombros que devia ter tido cento e vinte quilos em cima um dia, e agora tinha uns oitenta. A pele sobrava. Macacão azul-marinho de estivador, desbotado até quase branco nos joelhos. Botas de biqueira. Cabeça raspada à máquina, com uma cicatriz atravessando o topo do crânio como uma costura mal feita.
-
-Nas mãos, nada. As mãos, aliás, eram a pior parte: os dedos tortos, os nós inchados e brancos, a direita meio fechada de um jeito que não abria mais.
-
-Ele levantou a mão esquerda. Aberta. Devagar.
+Ele chegou às onze em ponto. Não pela estrada, onde a Valéria tinha posicionado o único ponto de observação que a gente conseguiu montar. Veio pelo canal de drenagem, a pé, com água pela canela, e subiu o barranco devagar, do jeito de quem já subiu muito barranco e sabe que pressa é o que quebra tornozelo. Parou a vinte metros do portão. Ficou lá. Um homem enorme. Não gordo — **grande**, com uma armação de ombros que devia ter tido cento e vinte quilos em cima um dia, e agora tinha uns oitenta. A pele sobrava. Macacão azul-marinho de estivador, desbotado até quase branco nos joelhos. Botas de biqueira. Cabeça raspada à máquina, com uma cicatriz atravessando o topo do crânio como uma costura mal feita. Nas mãos, nada. As mãos, aliás, eram a pior parte: os dedos tortos, os nós inchados e brancos, a direita meio fechada de um jeito que não abria mais. Ele levantou a mão esquerda. Aberta. Devagar.
 
 — Bom dia, — ele disse. E a voz saiu baixa, razoável, educada. Uma voz de balcão de repartição. — O senhor é o Sr. Gabriel Moretti?
 
@@ -65,9 +38,7 @@ Valéria já estava com a *Caronte* no ombro, mira travada no peito dele.
 
 — Anselmo Braga. — Ele apontou para si mesmo com dois dedos, como quem se identifica numa fila. — O senhor não vai lembrar de mim de cara. Faz catorze anos e eu era mais gordo.
 
-— Eu lembro.
-
-Alguma coisa mudou no rosto dele. Não foi sorriso. Foi alívio.
+— Eu lembro. Alguma coisa mudou no rosto dele. Não foi sorriso. Foi alívio.
 
 — Ah. — Ele assentiu devagar. — Isso ajuda. Eu tinha um discurso pro caso do senhor não lembrar, e era um discurso ruim.
 
@@ -85,17 +56,13 @@ Alguma coisa mudou no rosto dele. Não foi sorriso. Foi alívio.
 
 — Vinte, — ele corrigiu, sem defesa nenhuma na voz, como quem corrige um número numa nota fiscal. — Foi de vinte em vinte. Eu não gosto de fazer rápido, porque rápido é raiva, e raiva erra. Eu não erro.
 
-Elias fez um som atrás de mim.
-
-Braga olhou para ele. Depois para a Elena. Depois para a Valéria e a arma. Depois para a Dra. Vance na cadeira de aço, na sombra do galpão. Um por um, com atenção. Contando.
+Elias fez um som atrás de mim. Braga olhou para ele. Depois para a Elena. Depois para a Valéria e a arma. Depois para a Dra. Vance na cadeira de aço, na sombra do galpão. Um por um, com atenção. Contando.
 
 — A senhora da cadeira eu não conheço, — ele disse. — A moça das lentes eu não conheço. O rapaz de macacão não deve nada. A jornalista... — ele parou. — A jornalista é a ex-esposa do senhor?
 
 — Não responde, — falei para a Elena, sem virar.
 
-— Não precisa responder, — disse Braga. — Já respondeu. — E anotou alguma coisa num caderninho de bolso, com um lápis pequeno, apoiando na coxa.
-
-Eu senti o gelo descer.
+— Não precisa responder, — disse Braga. — Já respondeu. — E anotou alguma coisa num caderninho de bolso, com um lápis pequeno, apoiando na coxa. Eu senti o gelo descer.
 
 — Você não vai encostar em nenhum deles.
 
@@ -109,9 +76,7 @@ Ele falou aquilo do mesmo jeito que falou "bom dia".
 
 — Que conta? — Elena perguntou.
 
-Ela deu um passo à frente, e eu tentei segurar o braço dela e não consegui, porque o meu direito estava quebrado na tipóia.
-
-Braga olhou para ela com um respeito que era pior que desprezo.
+Ela deu um passo à frente, e eu tentei segurar o braço dela e não consegui, porque o meu direito estava quebrado na tipóia. Braga olhou para ela com um respeito que era pior que desprezo.
 
 — A senhora não sabe.
 
@@ -125,23 +90,17 @@ Silêncio absoluto no pátio.
 
 — Então o senhor foi preso, — disse Elena. — O sistema funcionou.
 
-— Não, senhora.
-
-Ele virou os olhos pequenos e parados para mim.
+— Não, senhora. Ele virou os olhos pequenos e parados para mim.
 
 — A perícia se perdeu na enchente daquele ano. A única testemunha era a vizinha e ela voltou atrás com medo do Sindicato. Não sobrou prova nenhuma. Eu ia sair em quinze dias e eu sabia disso, e o Sr. Moretti sabia disso.
 
 Ele apontou para mim com o queixo. Sem raiva.
 
-— Aí apareceu uma faca na caixa d'água do barraco, com o sangue dela, que não estava lá quando eu fui levado.
-
-O ar sumiu do pátio.
+— Aí apareceu uma faca na caixa d'água do barraco, com o sangue dela, que não estava lá quando eu fui levado. O ar sumiu do pátio.
 
 — Gabo, — Elena disse. Baixinho. — Isso é verdade?
 
-Eu não respondi.
-
-E não responder foi responder, e eu vi o rosto dela mudar, e eu preferia ter levado um tiro.
+Eu não respondi. E não responder foi responder, e eu vi o rosto dela mudar, e eu preferia ter levado um tiro.
 
 ---
 
@@ -153,9 +112,7 @@ Ele deu um passo à frente. Valéria travou o dedo no gatilho e eu levantei a m�
 
 Mais um passo.
 
-— Nós dois quebramos a mesma lei.
-
-Ele parou.
+— Nós dois quebramos a mesma lei. Ele parou.
 
 — Eu matei uma pessoa. O senhor forjou um inquérito. São crimes diferentes de tamanho, eu sei, e eu não vim comparar tamanho. — A mão torta dele se levantou, e ele contou nos dedos, devagar, dois dedos. — Eu vim comparar o resto. Porque eu paguei catorze anos, e o senhor virou herói da cidade.
 
@@ -171,13 +128,9 @@ Eu parei de respirar.
 
 ---
 
-Eu andei até o portão. Passei por cima do Duarte sem olhar, porque olhar ia me quebrar e eu não podia quebrar ali.
+Eu andei até o portão. Passei por cima do Duarte sem olhar, porque olhar ia me quebrar e eu não podia quebrar ali. Parei a três metros dele. Perto o suficiente para sentir o cheiro — sabão industrial e água parada, o cheiro de catorze anos de lavanderia de presídio, o tipo de cheiro que não sai mais da pessoa.
 
-Parei a três metros dele. Perto o suficiente para sentir o cheiro — sabão industrial e água parada, o cheiro de catorze anos de lavanderia de presídio, o tipo de cheiro que não sai mais da pessoa.
-
-— O que você quer, Braga.
-
-E ele me respondeu com uma paciência que eu vou ouvir pelo resto da vida:
+— O que você quer, Braga. E ele me respondeu com uma paciência que eu vou ouvir pelo resto da vida:
 
 — Eu quero que o senhor faça comigo o que fez com todo mundo, Sr. Moretti. — Ele abriu os braços, devagar, a esquerda inteira e a direita meio fechada. — Sem lei, sem processo, sem prova. Do jeito que o senhor gosta.
 

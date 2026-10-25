@@ -1,20 +1,18 @@
-# Análise do Capítulo 107: A Batalha pelo Porto
+# Revisão de Capítulo 107: O Teorema da Chuva
 
-## Metadados
-- **Capítulo:** 107
-- **Título:** A Batalha pelo Porto (Nome inferido/genérico)
-- **Data da Revisão:** Atual
+Fonte: [capítulo 107](/capitulo-107.md).
 
-## Auto-avaliação Técnica
-- **Ritmo (Pacing):** 9/10 - Ação frenética com Rangel no centro da tensão.
-- **Diálogo:** 8/10 - A voz de Dante distorcida via drone acrescenta bastante terror tecnológico.
-- **Atmosfera:** 9/10 - Sensação constante de impotência contra a automação mortal.
+O reparo das órteses é externo, acompanhado e consentido. Não cura a coluna de Gabo. A ordem de sanitização transforma a eficiência de Dante em conflito sobre pessoas.
 
-## Pontos Fortes e Fracos
-- **Pontos Fortes:** Foco num personagem secundário (Rangel) para mostrar o impacto humano perante o massacre das máquinas.
-- **Pontos Fracos:** O "Código Morto" age como um deus ex-machina, mas esperado pela narrativa construída.
+## Passagens de entrada e saída
 
-## Sanity Check (Verificação de Coerência)
-- **Fobia de Gabo:** Limpo. Nenhum cheiro ou menção a tabagismo usado.
-- **Coerência da Trama:** O "silêncio" no porto age de forma contínua desde a introdução em capítulos anteriores.
-- **Ajustes de Lore:** Sem quebras de regras.
+> Subsolo da Delegacia da Biblioteca
+> A dor não era vermelha, como Gabo costumava descrever. Era branca. Um branco cegante, asséptico, como a luz da lâmpada halógena que Dante segurava sobre a perna dele.
+
+### Saída
+
+> Ela desceu do contêiner e começou a apagar as lamparinas do acampamento, uma por uma, antes que os faróis chegassem perto o bastante para contar quantos eram.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

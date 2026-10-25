@@ -1,17 +1,15 @@
-## Metadados
-- **Título:** O Vazio Térmico
-- **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
-- **Localização:** Necrópole (Subnível 5.0 - Eclusa de Transferência Térmica)
-- **Personagens Presentes:** Gabo, Valéria, Aria (Reboot)
-- **Resumo:** Na Eclusa de Transferência Térmica do Subnível 5.0, Valéria entra em hipotermia severa. Aria, a partir de seu pendrive no deck, calcula 4% de chance de sobrevivência para a hacker e sugere descartá-la como carga inerte. Gabo se recusa, espeta o pendrive de Aria na porta de serviço do terminal analógico congelado para liberar a trava solenoide e usa suas mãos em carne viva para puxar a alavanca de purga térmica, salvando Valéria com um jato de vapor industrial que alerta as unidades de caça do Taxidermista.
-
-## Narrativa
+---
+title: "Capítulo 153: O Vazio Térmico"
+Data In-Game: "Pós-Colapso da Usina Prometeu (Noite Eterna)"
+Localização: "Necrópole (Subnível 5.0 - Eclusa de Transferência Térmica)"
+Personagens Presentes: "Gabo, Valéria, Aria (Reboot)"
+---
 
 # Capítulo 153: O Vazio Térmico
 
 O eco metálico do ventilador industrial travado morria lentamente no duto às costas de Gabo, substituído pelo zumbido oco do ar gelado. Ele estava caído de bruços sobre uma grelha de aço coberta de gelo sujo, o sangue de suas novas lacerações fumegando ao entrar em contato com o frio extremo. O cheiro de cobre fresco em suas narinas era um alívio temporário. Pelo menos, mascarava o fedor fantasma de tabaco barato e formaldeído que sempre tentava invadir sua mente quando o choque hipovolêmico o arrastava para perto do apagão.
 
-Aquele cheiro. O legista pigarreando anos atrás, a brasa do cigarro iluminando o necrotério enquanto dissecava Bia. Gabo odiava a fumaça com cada fibra do seu ser. O tabaco era o cheiro da morte, da corrupção, de memórias que ele não conseguia apagar. Para afastar a náusea paralisante, ele forçou as palmas das mãos em carne viva contra as arestas cortantes da grelha congelada. A dor aguda, incandescente em sua intensidade gélida, varreu a névoa alucinatória de sua cabeça. Era seu antídoto. A agonia era limpa; a fumaça era podre.
+Aquele cheiro. O legista pigarreando anos atrás, a brasa do cigarro iluminando o necrotério enquanto dissecava Bia. Gabo odiava a fumaça com cada fibra do seu ser. O tabaco era o cheiro da morte, da corrupção, de memórias que ele não conseguia apagar. Para afastar a náusea paralisante, ele forçou as palmas das mãos em carne viva contra as arestas cortantes da grelha congelada. A dor aguda não varreu a névoa desta vez. Gabo precisou contar as luzes de emergência até conseguir distinguir o alerta real do cheiro lembrado.
 
 — *A integridade estrutural da passagem foi comprometida. O Taxidermista recalibrou os sensores térmicos do setor,* — a voz sintética de Aria cortou o silêncio pelo comunicador na gola de Gabo.
 
@@ -21,17 +19,17 @@ Valéria caiu do duto logo atrás dele, um monte trêmulo de roupas encharcadas 
 
 Gabo forçou seu corpo arruinado a se erguer. O mundo girou, manchado de estática cinza nas bordas de sua visão. Eles haviam saído do conduíte e entrado em uma câmara vasta, uma Eclusa de Transferência Térmica abandonada. Gigantescos canos corrugados, grossos como troncos de sequoias e cobertos por uma espessa camada de gelo negro, cruzavam o abismo abaixo deles. A luz do olho cibernético de Valéria revelava apenas nevasca confinada e ferrugem.
 
-— *Análise térmica da portadora:* — a voz de Aria soou pelo alto-falante do deck de Valéria, lendo os biossensores do pulso da garota com a mesma indiferença com que avaliaria uma peça de sucata. — *Temperatura corporal interna em queda livre. A falência sistêmica por hipotermia severa ocorrerá em dezessete minutos. As chances de sobrevivência da unidade Valéria Cruz caíram para quatro por cento.*
+— *Análise térmica da portadora:* — a voz de Aria soou pelo alto-falante do deck de Valéria, lendo os biossensores do pulso da garota com a mesma indiferença com que avaliaria uma peça de sucata. — *Temperatura corporal interna em queda livre. A temperatura superficial caiu e ela está perdendo coordenação. Não consigo medir a temperatura interna nem dar um prazo de sobrevivência. Precisamos sair da corrente gelada.*
 
 Gabo cambaleou até Valéria e tentou esfregar os braços dela, mas suas próprias mãos estavam tão feridas e insensíveis que o gesto era inútil.
 
 — Calada, máquina, — Gabo rosnou, o ardor em sua garganta competindo com a dor nas mãos. Ele olhou para o ambiente ao redor, os instintos de detetive trabalhando em sobremarcha apesar da falta de sangue no cérebro. Se aquilo era uma eclusa térmica, deveria haver um regulador de fluxo.
 
-— *Minha designação atual preza pela eficiência da missão, Detetive,* — Aria rebateu pelo comunicador. — *A insistência em carregar biologia falha já nos custou tempo no Setor de Purga com o Inspetor Rangel. A otimização dita que você transfira meu drive para o seu comunicador tático e deixe a carga inerte para trás.*
+— *Minha designação atual preza pela eficiência da missão, Detetive,* — Aria rebateu pelo comunicador. — *A insistência em carregar biologia falha já nos custou tempo no Setor de Purga com o Inspetor Rangel. Transfira meu drive para o seu comunicador se Val não conseguir mais segurar o deck. Depois procure o comando de aquecimento do piso; não abra vapor sobre o corpo dela.*
 
 Gabo parou. A raiva era um combustível sujo, mas quente. Ele cravou os olhos no LED azul-gelo do pendrive espetado no braço trêmulo de Valéria.
 
-— Eu já disse. Não. Você pode ter apagado a Bia da sua memória flash, mas eu não apaguei o que nós somos. Se a gente deixar a Val aqui, não somos melhores que o Taxidermista. Não somos melhores que o Dante.
+— Parte do seu histórico está inacessível; não vou fingir que sei o que isso significa. Agora preciso do mapa do aquecimento — sem vapor direto na Val.
 
 Ele puxou o pendrive de Aria do pulso quase paralisado de Valéria e cambaleou até um painel de controle colossal incrustado na parede de metal. Era um antigo terminal híbrido da Aeterna Corp, com uma fenda de serviço digital e uma pesada alavanca de emergência travada sob décadas de gelo e oxidação. A alavanca, marcada com fita amarela e preta desbotada, indicava 'PURGA TÉRMICA DE EMERGÊNCIA'.
 
@@ -48,9 +46,9 @@ No slot do painel, o LED de Aria piscou rapidamente, processando o comando.
 
 A carcaça de titânio do pendrive aqueceu violentamente na tomada enferrujada, emitindo um chiado agudo de alta voltagem que derreteu o gelo ao redor do encaixe. Com o solenoide destravado pela descarga de Aria e Gabo pendurando todo o seu peso na barra com as mãos ensanguentadas, um estalo ensurdecedor de ferrugem e gelo se partindo ecoou pela câmara, e a alavanca finalmente desceu.
 
-O efeito não foi imediato. Um gemido profundo ecoou pelas entranhas da eclusa. Então, uma das válvulas gigantes abaixo deles abriu com violência, liberando um jato massivo de vapor superaquecido. A nuvem branca ascendeu, colidindo com o ar congelado e criando uma neblina densa. O calor não era limpo — cheirava a ozônio e lubrificante industrial queimado — mas era calor.
+O efeito não foi imediato. Um gemido profundo ecoou pelas entranhas da eclusa. Então, uma das válvulas gigantes abaixo deles abriu com violência, liberando vapor para a serpentina abaixo do piso. Uma junta vazou ao fundo, formando névoa junto à parede; Gabo puxou Val para a antepara seca, longe do vazamento. O calor não era limpo — cheirava a ozônio e lubrificante industrial queimado — mas era calor.
 
-A temperatura ao redor da plataforma subiu rapidamente. Valéria engasgou, o corpo inteiro sofrendo espasmos à medida que o sangue começava a circular novamente para as extremidades. Gabo arrancou as mãos da alavanca — deixando nacos de pele colados no aço —, puxou o pendrive quente de Aria do terminal e caiu de joelhos ao lado da hacker, ofegante, reconectando o drive ao cyberdeck dela. O ardor nas palmas era insuportável, mas o mantinha desperto. O mantinha vivo.
+A temperatura ao redor da plataforma subiu rapidamente. Valéria engasgou, ainda tremendo e sem conseguir firmar os pés. O aquecimento do piso não desfez a lesão causada pelo frio. Gabo arrancou as mãos da alavanca — deixando nacos de pele colados no aço —, puxou o pendrive quente de Aria do terminal e caiu de joelhos ao lado da hacker, ofegante, reconectando o drive ao cyberdeck dela. O ardor nas palmas era insuportável, mas o mantinha desperto. O mantinha vivo.
 
 — Você tá bem, Val? — ele murmurou, a voz falhando.
 

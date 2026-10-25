@@ -5,9 +5,8 @@ Localização: "Dia 45 do Dilúvio - Distrito da Ferrugem"
 ---
 # Capítulo 54: Fé e Ferrugem
 
-**Dia 45 do Dilúvio - Distrito da Ferrugem**
-
-O Cobalt de Gabo gemia a cada curva. O motor engasgava, cuspindo óleo negra que se misturava à névoa da cidade. A suspensão rangeu violentamente ao passar por cima de um hidrante submerso, fazendo o carro balançar como um barco bêbado.
+Dia 45 do Dilúvio - Distrito da Ferrugem
+O Cobalt de Gabo gemia a cada curva. O motor engasgava, cuspindo fumaça escura que se misturava à névoa da cidade. A suspensão rangeu violentamente ao passar por cima de um hidrante submerso, fazendo o carro balançar como um barco bêbado.
 
 — Essa lata velha vai nos matar antes do inimigo — reclamou Valéria, segurando-se no painel do passageiro.
 
@@ -47,7 +46,7 @@ O padre limpou as mãos em um pano.
 
 Antes que Gabo pudesse perguntar, um som de metal esmagando metal ecoou lá fora. Gritos.
 
-Gabo e Val correram para a porta.
+Val chegou à porta primeiro. Gabo seguiu apoiado no corrimão, sem saltar os degraus.
 
 Três figuras humanoides marchavam pela água. Eram os Protótipos CP-Z. Robôs policiais de dois metros de altura, pintados de preto fosco, com cabos e pistões expostos como vísceras mecânicas.
 
@@ -65,22 +64,21 @@ A impaciência que vinha fervendo nele há semanas explodiu. Ele não pensou. El
 
 — Gabo, não! — gritou Val.
 
-Gabo saltou os degraus da catedral, aterrissando na água com um estrondo. Ele sacou a escopeta "Caronte" e disparou à queima-roupa no peito do primeiro robô.
+Gabo forçou a descida dos degraus, contrariando a restrição de carga das órteses. Precisou do guarda-corpo para não cair. Ele sacou a escopeta "Caronte" e disparou à queima-roupa no peito do primeiro robô.
 
 O impacto jogou a máquina para trás, faíscas voando. Mas os outros dois giraram instantaneamente, os olhos vermelhos focando nele.
 
 — **AMEAÇA DETECTADA. NÍVEL 5. EXECUTAR.**
 
-Gabo largou a escopeta vazia e avançou. Ele usou a força hidráulica das pernas para chutar o joelho do segundo robô, dobrando o metal titânio como se fosse papel alumínio.
+Gabo largou a escopeta vazia e avançou. Tentou atingir a articulação exposta do segundo robô com o pé. A órtese travou antes do golpe; o robô o empurrou contra a escada.
 
-Ele socou a "cara" do robô, destruindo os sensores óticos. Ele queria destruir. Queria esmagar. Cada golpe era por sua mãe, por Clara, por Dante.
+Bateu com o punho na proteção óptica, sem quebrá-la. A dor subiu pelo braço que ainda não suportava carga. Ele queria destruir. Queria esmagar. Cada golpe era por sua mãe, por Clara, por Dante.
 
 Mas o terceiro robô o flanqueou. Um bastão de choque atingiu suas costas.
 
 Gabo rugiu de dor, caindo de joelhos. As órteses travaram.
 
-*BZZZZT.*
-
+BZZZZT.
 A luz da bateria ficou vermelha e apagou. As pernas de Gabo tornaram-se peso morto.
 
 O robô ergueu o bastão para o golpe final.
@@ -107,13 +105,13 @@ O Padre Miguel se aproximou. Ele olhou para o robô destruído, depois para Gabo
 
 Gabo cuspiu sangue na água e viu que era pouco. Um dente solto, a costela que o segundo bastão tinha encontrado de raspão, e as pernas — as pernas eram duas peças de ferro penduradas no quadril, sem serventia e com peso de âncora. O cheiro de cobre queimado subia das juntas mortas. Ele sentiu quando a mulher da terceira fila puxou o filho para trás, sem gritar, só puxando, e cobriu os olhos do menino com a mão. Não era medo dos robôs. Os robôs tinham ido embora. Era medo dele.
 
-Gabo conseguiu se livrar das pernas mecânicas. Ele tentou ficar de pé, cambaleando. A dor na coluna voltou, aguda, real.
+Val destravou o modo passivo sem retirar a estrutura. As travessas mantinham os joelhos firmes; sem motor, ele não daria um passo seguro. Dois refugiados trouxeram uma cadeira.
 
 — Meu pai está morto, Miguel. E a diplomacia morreu com ele.
 
-Gabo mancou até o carro, apoiado em Val.
+Levaram Gabo na cadeira até o carro. Val ajudou na transferência para o banco do passageiro.
 
-— Vamos embora — disse ele. — As órteses acabaram. De agora em diante, é na raça.
+— Vamos embora — disse ele. — As órteses acabaram. Precisamos de carga e reparo. Eu não saio andando daqui.
 
 Enquanto o Cobalt se afastava, Gabo olhou pelo retrovisor. Viu o padre ajudando o mendigo ferido. Viu a esperança nos olhos daquelas pessoas. E sentiu-se pequeno. E sujo.
 

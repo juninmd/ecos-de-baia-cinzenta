@@ -9,7 +9,7 @@ Personagens Presentes: Gabo, Valéria
 
 O primeiro golpe da minha armação industrial contra o volante de arrefecimento soou como um sino fúnebre desafinado, reverberando na vastidão mórbida do relicário de servidores. O metal espesso da tubulação de alta pressão gemeu sob o torque violento do guindaste de docas.
 
-A junta de vedação partiu-se com um silvo ensurdecedor de gás comprimido. Um jato de amônia líquida esverdeada, gelada e corrosiva explodiu em leque sobre a base do pilar, espalhando um cheiro fétido de produto químico industrial que queimava as narinas e deixava um gosto amargo e ácido de bile no fundo da garganta.
+A junta de vedação partiu-se com um silvo ensurdecedor de gás comprimido. Um jato de refrigerante que parecia esverdeado sob a luz dos indicadores, gelada e corrosiva explodiu em leque sobre a base do pilar, espalhando um cheiro fétido de produto químico industrial que queimava as narinas e deixava um gosto amargo e ácido de bile no fundo da garganta.
 
 Na minha boca, o sabor metálico de sangue misturava-se à poeira cáustica. A dor no meu ombro fraturado explodiu em fagulhas agudas, repuxando as cicatrizes que cobriam minha carne lacerada desde a batalha na Torre do Relógio.
 
@@ -39,15 +39,14 @@ Ergui a armação mecânica de novo, a fiação do ombro estalando em faíscas a
 
 — Sai da frente! — berrei, desferindo o peso da liga de aço contra a segunda válvula de alta pressão.
 
-*CRASH.*
-
+CRASH.
 A chapa de ferro fundido rachou ao meio com um estalo seco de osso quebrado. O duto de cobre dobrou como canudo e uma cascata fervente de refrigerante químico e óleo mineral despencou direto sobre os bancos de servidores centrais.
 
 O choque térmico foi catastrófico. O silício superaquecido em contato com o líquido congelante explodiu em milhares de estilhaços de cerâmica e vidro. Um clarão alaranjado irrompeu quando os primeiros cabos de alta tensão entraram em curto-circuito, incendiando a biomassa ressecada dos fungos que cobriam os servidores.
 
 As chamas se espalharam com a ferocidade de pólvora de canhão.
 
-As raízes carmesins começaram a estalar e queimar em labaredas púrpuras, soltando um odor sulfuroso e asfixiante que preencheu o teto da catedral. Os corpos pendurados amoleceram nas amarras enquanto as conexões neurais torravam internamente pelo fogo elétrico, silenciando para sempre os lamentos que ecoavam nas colunas. Aquela gente estava finalmente livre da prisão de wetware; a carne morta agora descansava em cinzas.
+As raízes carmesins começaram a estalar e queimar em labaredas púrpuras, soltando um odor sulfuroso e asfixiante que preencheu o teto da catedral. Os corpos pendurados amoleceram nas amarras enquanto as conexões neurais torravam internamente pelo fogo elétrico, silenciando para sempre os lamentos que ecoavam nas colunas. Os corpos caíam das amarras; não havia como contar quem morrera com o fogo e quem perdera o suporte. A chama não era prova de descanso.
 
 — A integridade da rede caiu pra 15%! — Valéria berrou, puxando um sinalizador térmico do cinto e arremessando-o contra o depósito de óleo na base do terceiro pilar. A fagulha encontrou o combustível vazando e uma parede de fogo de três metros ergueu-se, isolando o núcleo. — A estrutura tá cedendo, Moretti! Trinta segundos antes da câmara inteira colapsar sob a pressão térmica! Corre pro poço da escada!
 
@@ -59,13 +58,13 @@ As raízes carmesins começaram a estalar e queimar em labaredas púrpuras, solt
 
 Manquei através da cortina de fogo e detritos incandescentes, ignorando o calor abrasador que começava a chamuscar a barra do meu sobretudo. Ergui a mão mecânica uma última vez, mirei no nó central que ancorava a coluna de dados e desferi um golpe descendente com todo o peso do meu tronco ferido.
 
-A garra industrial cravou-se fundo no coração do pilar. O chumbo e o cobre se fundiram num estalo ensurdecedor que sacudiu o piso de concreto sob nossos pés. O último pulso de dados do Jardim piscou em verde, vacilou e apagou-se de vez numa chuva de cinzas e faíscas. A malha fora arrancada da tomada; nunca mais aquela abominação escravizaria mentes na escuridão do Setor 7.
+A garra industrial cravou-se fundo no coração do pilar. O chumbo e o cobre se fundiram num estalo ensurdecedor que sacudiu o piso de concreto sob nossos pés. O último pulso de dados do Jardim piscou em verde, vacilou e apagou-se de vez numa chuva de cinzas e faíscas. A malha fora arrancada da tomada; o enlace local parou de responder. Cópias já enviadas não voltariam porque eu arrancara aquele cabo, e nenhuma vida perdida ali estava paga.
 
 A garra não quis sair. Puxei duas vezes e o metal rangeu dentro do pilar como unha em dente. Deixei lá. Uma das garras da armação ficou enterrada no cobre, e eu ia ter que andar com a mão torta pelo resto daquela descida.
 
-O ouvido esquerdo tinha desligado no estouro. Sobrou um apito fino e constante, e do lado de lá do apito o mundo passou a chegar abafado, como conversa atrás de vidro.
+A audição esquerda, já comprometida na Torre, piorou no estouro. Sobrou um apito fino e constante, e do lado de lá do apito o mundo passou a chegar abafado, como conversa atrás de vidro.
 
-O colapso foi imediato. As vigas de ferro do teto começaram a vergar com estalos de trovão mecânico, e pedaços de alvenaria despencaram nas poças de amônia em chamas, levantando jatos de vapor escaldante.
+O colapso foi imediato. As vigas de ferro do teto começaram a vergar com estalos de trovão mecânico, e pedaços de alvenaria despencaram nas poças de óleo e revestimento em chamas, levantando jatos de vapor escaldante.
 
 Valéria correu até mim através da fumaça, agarrou a manga do meu sobretudo com as duas mãos e puxou com toda a força que tinha no corpo magro.
 

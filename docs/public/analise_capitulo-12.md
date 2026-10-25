@@ -1,28 +1,41 @@
-# Análise Crítica - Capítulo 12
+# Parecer — Capítulo 12: Cancelamento
 
-## Metadados
-- **Capítulo:** 12 (Cancelamento)
-- **Status:** Revisado
-- **Data da Revisão:** Atual
+Revisão de 22/10/2026. Fonte [atual](/capitulo-12.md),
+[anterior](/capitulo-11.md) e [seguinte](/capitulo-13.md).
+A revisão aplicada nesta rodada cobre 12–18. Nota editorial é juízo de leitura;
+triagem lexical e testes não comprovam qualidade literária.
 
-## Autoavaliação Técnica
-- **Ritmo:** 9/10
-- **Diálogo:** 9/10
-- **Atmosfera:** 10/10
+## Personagens e atuação
 
-## Pontos Fortes e Fracos
-- **Pontos Fortes:** A revelação final no bunker é espetacular. A transição de Miranda de traidor acuado para "gerente" do sistema amarra bem os temas corporativos de assimilação de talentos e uso de pessoas ("cancelados") como recurso literal.
-- **Pontos Fracos:** A jornada física até a torre poderia ter um ou dois obstáculos maiores detalhados, mas o foco é claramente no confronto final.
+Gabo observa, pergunta sobre custódia e decide arriscar o circuito. Valéria lê um diagrama disponível e declara a incerteza; Aria distingue saudação de identidade. Miranda usa privilégios concretos para negociar, em vez de ser apresentado como amigo recém-traído.
 
-## Qualidade da História e Coerência de Personagens
-A história atinge um excelente clímax temático neste capítulo. A descoberta do supercomputador orgânico e o confronto ideológico com Miranda fecham brilhantemente o primeiro ato da história, entregando um Cyberpunk visceral de alta qualidade. O enredo é sólido e prende a atenção (Ritmo 9/10).
+## Portões
 
-- **Gabriel Moretti:** Coerente. Fiel a seus princípios moralmente íntegros mas metodologicamente brutais, ele recusa a oferta de Miranda. Sua escolha de atirar no tanque (preferindo o sacrifício e a destruição a ceder ao sistema) alinha-se 100% à sua jornada de dor física e recusa ao alívio fácil.
-- **Valéria Cruz:** Coerente. Atua muito bem na cena ao representar fisicamente o colapso e o peso da biometria corporativa (sua licença revogada causando falha orgânica), adicionando o fator "timer" à ação.
-- **Roberto Miranda:** Coerente e magistralmente desenvolvido. Sua virada de aliado para "gerente" do sistema é calcada num niilismo realista ("escolhi o lado que vence"). A troca de seu braço mecânico antigo por um novo simboliza perfeitamente essa ascensão espúria.
-- **Necessidade de novos personagens:** Absolutamente desnecessária no momento. A dinâmica íntima de traição entre os três protagonistas sustenta toda a força da cena. A multidão anônima ("Cancelados") preenche adequadamente o palco sem precisar de nomes ou arcos próprios agora.
+| Critério | Evidência |
+| --- | --- |
+| D1 | 1.101 palavras de prosa, sem título ou metadados; alvo 1.100–1.600 |
+| D2 | Um H1 no formato exigido, igual ao menu |
+| D3 | Localização e elenco distinguem corpo, comunicação, módulo e imagem |
+| D4 | Corpo, identidade, posse e acesso conferidos em 12–18; pendências posteriores abaixo |
+| D5 | Disparo contra o reservatório; risco deliberado encerra a negociação. |
 
-## Sanity Check (Coerência de Lore)
-1. **O Shadowban e o supercomputador orgânico ferem a lore?** Pelo contrário, são o clímax temático do cyberpunk: humanos literal e figurativamente consumidos pela tecnologia corporativa.
-2. **As falhas nos implantes de Valéria fazem sentido?** Sim, o conceito de "Licença Biométrica Revogada" reforça o monopólio da Aeterna sobre os corpos das pessoas.
-3. **Há alguma menção a cigarro que ative os traumas de Gabo?** Não. O bunker é "frio e estéril", sem menção a fumaça de cigarro. Gabo usa a dor (destruindo o bunker) em vez de paralisia.
+## Notas de leitura
+
+Atmosfera / custo / voz / ritmo / consequência: **2 / 1 / 2 / 2 / 1**. Total: **8/10**.
+
+O cheiro químico, a água, o calor e o atrito dos curativos interferem na rota. O preço imediato é risco e lesão, sem morte nova confirmada. Miranda negocia; Valéria impõe limite; Gabo abandona uma promessa fácil. O diálogo força a informação. A cena desenvolve a exclusão já apresentada, sem resolver a origem.
+
+## Pistas e limites
+
+O operador que autorizou o elevador e a assinatura da transferência permanecem desconhecidos. O acesso não prova parentesco genético. A retirada do rastreador e o confronto seguinte devem preservar a lesão e a custódia do módulo.
+
+O encadeamento conserva os plantios de [8](/capitulo-8.md) e
+[11](/capitulo-11.md), além das observações demonstradas em 12–18. Nenhuma
+revelação futura foi tratada como conhecimento disponível aos personagens.
+
+## Verificação e alcance
+
+Fontes e espelhos sincronizados. Título, extensão, metadados, cadeia de recursos
+e fechamento conferidos por leitura e verificação estrutural. Testes, lint e
+preservação constam do registro editorial da rodada, concluído em 22/10/2026.
+Veredito: **revisão local aplicada; aprovação integral da obra pendente**.

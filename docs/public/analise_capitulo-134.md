@@ -1,11 +1,17 @@
-# Análise Crítica - Capítulo 134
+# Revisão de Capítulo 134: Vale da Estranheza
 
-## Consistência de Personagem (Lore)
-- **Gabo (Fobia de Fumaça):** Não ocorreram quebras da fobia neste capítulo; o combate corpo a corpo e táticas improvisadas continuam de acordo com as habilidades dele.
-- **Aria (Reboot):** O apagamento da persona de Bia foi bem desenvolvido, retornando-a a um estado "máquina pura" consistente com os reinícios forçados de sua programação.
+Fonte: [capítulo 134](/capitulo-134.md).
 
-## Trama e Continuidade
-- Sem falhas identificadas na narrativa do embate. A ação flui respeitando as ferramentas dadas no capítulo anterior.
+O reinício isola a entrada hostil e preserva identidade e histórico parcialmente inacessível. Aria não perde empatia como melhoria de fábrica.
 
-## Conclusão da Revisão
-**Aprovado.** Capítulo coeso com o universo da obra.
+## Passagens de entrada e saída
+
+> O primeiro golpe não foi físico, foi térmico. O ar no Ateliê sibilou quando um dos Guardiões ativou a lança fundida ao seu braço direito. O jato de calor distorceu a visão de Gabo, transformando o laboratório estéril em uma miragem tremeluzente.
+
+### Saída
+
+> — Ela está respondendo. O resto a gente ainda não sabe — ele murmurou, e mancou com Valéria até a maca de Rangel.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

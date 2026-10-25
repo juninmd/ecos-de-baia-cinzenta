@@ -1,23 +1,18 @@
-# Análise Crítica - Capítulo 97: O Último Suspiro
+# Revisão de Capítulo 97: O Último Suspiro
 
-## Avaliação Técnica
-- **Ritmo:** 7/10 - Lento e meditativo, funcionando como epílogo clássico.
-- **Diálogos:** 8/10 - Trocas secas e resignadas, coerentes com sobreviventes de um apocalipse.
-- **Atmosfera:** 9/10 - A visão da "neve negra" (cinzas) e da cidade morta banhada por sol natural passa o sentimento correto de recomeço vazio.
+Fonte: [capítulo 97](/capitulo-97.md).
 
-## Pontos Fortes e Fracos
-**Fortes:**
-- Gabo caminhando com suas órteses rangendo pesadamente garante que seu estado mutilado é irreversível e o acompanhará no recomeço.
-- O ato final de jogar o rádio na água, abraçando o silêncio sem deuses digitais ou biológicos, fecha o arco da parte XIII muito bem.
-- A esperança agridoce para os "petrificados".
+Uma semana depois, Val conserva o dano nervoso da mão esquerda. Gabo depende de suporte. Aria responde por texto quando ligada ao dock, apesar da falha de voz.
 
-**Fracos:**
-- Muito curto, mas eficiente.
+## Passagens de entrada e saída
 
-## Sanity Check
-- [x] O trauma/aversão fóbica de Gabo a fumo está respeitado? Sim, apenas cinzas biológicas mortas, sem cigarros, isqueiros ou fumaça realçada.
-- [x] A temporalidade das personagens está correta? Sim.
-- [x] A história é coerente? Sim.
-- [x] Não contém mocks? Sim.
+> Baía Cinzenta — uma semana depois.
+> Continuava caindo neve preta sobre a cidade, e essa era a piada de mau gosto que a natureza tinha guardado para o fim: era igual, e não era a mesma coisa. Não eram esporos. Eram cinzas. Quase todo o Jardim morreu tão rápido quanto cresceu. Em quarenta e um minutos, os postos ainda em contato relataram colapso da vegetação exposta. Houve setores sem resposta e brotos que continuaram vivos. As árvores de nervo viraram fibra seca e depois pó. O musgo que cobria o asfalto da Zona Norte virou a poeira fina que o vento ainda levantava uma semana depois.
 
-**Conclusão:** O Capítulo 97 fornece um encerramento sólido, fiel à dor física do protagonista e perfeitamente livre de violações de seu lore psicológico.
+### Saída
+
+> — Isso não estava aqui ontem — ela disse. Ela se agachou com a muleta e puxou a flor com a mão direita. A raiz veio junto: comprida, branca, e quente como dedo.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

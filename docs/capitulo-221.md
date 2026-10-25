@@ -7,165 +7,120 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 # Capítulo 221: Modo de Segurança
 
-A enfermaria ficava atrás da quinta porta, e foi Valéria quem me levou até lá — não porque eu pedi, mas porque eu caí.
+A enfermaria ficava atrás da quinta porta. Valéria me levou até lá porque eu caí.
 
-Não desmaiei. Só perdi o joelho por um segundo no corredor, e o chão de epóxi branco veio ao meu encontro com uma pressa desonesta. Ela me pegou antes do impacto. Sem esforço aparente, sem comentário, sem aquele "eu avisei" que a antiga Val teria cuspido com todo o prazer do mundo.
+Não foi uma decisão dramática. O joelho cedeu no corredor, o branco do chão subiu, e ela pôs o corpo entre nós. Quando tentei discutir, mostrou o sangue que minha manga deixara na parede.
 
-Só me pôs de pé, virou noventa graus e começou a andar numa direção nova.
+— Você está febril e confundindo palavras. Não vou estimar quantos minutos seu cérebro ainda aguenta.
 
-— Enfermaria, — ela disse. — Quatorze metros.
+— Então estamos melhorando.
 
-— Eu estou bem.
+Ela não respondeu. Já não era só silêncio cansado. No portão tinha ameaçado atirar na minha perna boa se a alavanca voltasse. Agora as respostas chegavam sem nenhuma daquelas pontas que faziam dela a Valéria.
 
-— Você está com quarenta e um vírgula dois. Acima de quarenta e dois há dano cortical. Você tem entre noventa e cento e vinte minutos antes de tomar decisões que não são suas.
+A sala cheirava a cobre aquecido e embalagem hospitalar. Mesa de manivela, autoclave antiga, armários de vidro. Por trás da aparência de museu havia um módulo automático de atendimento, conectado à linha de manutenção do berço. O estoque registrava reposição recente. Valéria conferiu lotes e lacres; separou os frascos antigos, que não seriam usados em ninguém.
 
----
+— Isto pode estabilizar você. Não substitui uma equipe nem resolve sua fratura.
 
-A sala era um museu.
+O módulo pediu confirmação de paciente. Dei meu nome. Ela leu os avisos em voz alta e esperou meu consentimento antes de conectar o atendimento. Pela primeira vez desde a clínica de Nise, a decisão de mexer no meu corpo não veio disfarçada de ordem tática.
 
-Mesa cirúrgica de aço com manivela, foco de teto articulado, autoclave de cobre, armários de vidro com frascos de rótulo datilografado. Tudo analógico, tudo intacto, tudo estéril há sessenta anos. Do lado direito, uma bancada com um equipamento que eu não soube nomear: um casco de aço acolchoado, do tamanho de um torso, com dezenas de conectores dourados apontando para dentro, como o interior de uma armadura feita para uma pessoa sem pele.
+Elias ficou perto da porta. Eu pedi que procurasse água e uma saída. Ele olhou para Valéria, depois para mim, e saiu sem discutir.
 
-Valéria me sentou na mesa. Cortou a manga sobre o ombro rasgado com uma tesoura de trauma. Não desviou o olhar quando a carne apareceu.
+O equipamento começou a trabalhar sob o foco articulado. Valéria acompanhava os indicadores e trocava as compressas conforme a orientação exibida. Não fingia saber operar o que só conhecia por manual. Quando o aparelho pediu uma avaliação que não podia fazer, ela registrou a limitação. O ferimento continuava meu. A dor também, embora agora eu tivesse intervalos para respirar.
 
-— Necrose em três centímetros de margem, — ela relatou. — Vou desbridar. Há anestésico local no armário dois, com validade vencida em quarenta e um anos. A eficácia estimada é de doze por cento.
+Na bancada ao lado havia um casco acolchoado, do tamanho de um torso, com conectores dourados voltados para dentro. Li a placa enquanto o foco zumbia.
 
-— Então não usa. Guarda pra quem precisa.
-
-— Não há mais ninguém que precise.
-
-— Tem o Elias.
-
-Ela parou. Só um instante — o tempo de um pulso que ela não tem.
-
-— Sim, — ela disse. — Tem o Elias. — E foi pegar o frasco.
-
-Enquanto ela cortava pedaços de mim fora e os depositava numa cuba de aço com um *tinc* pequeno e educado, eu olhei para o casco na bancada e li a placa gravada na base.
-
-**MÓDULO DE RESTAURAÇÃO — CAMADA AFETIVA**
-*Uso exclusivo em portadores sob protocolo de contenção prolongada.*
-
-Levei um tempo estúpido para entender.
-
+MÓDULO DE RESTAURAÇÃO — CAMADA AFETIVA
+Uso em portadores sob protocolo de contenção prolongada.
 — Val.
 
-— Não me chame assim.
+— Prefiro Valéria agora.
 
-Foi a primeira vez em todos aqueles meses de escuridão que ela me interrompeu.
-
-Eu virei a cabeça. Ela estava com a pinça na mão, os olhos fixos na minha carne, o rosto totalmente sem expressão. E ela tinha me interrompido.
-
-— Por que não?
-
-— Porque "Val" é como você chamava a versão anterior, e usar o mesmo nome cria em você a expectativa de uma resposta que eu não posso dar. Isso reduz sua eficiência operacional. E a sua eficiência operacional é a única coisa que ainda está me mantendo em funcionamento.
-
-Ela mergulhou a pinça outra vez. *Tinc.*
-
-— Aquilo ali. — Apontei com o queixo. — Aquilo conserta você.
-
-— Aquilo religa a camada afetiva do meu conjunto neural, que eu desliguei na clínica do Vasco para não fritar o meu córtex junto com os implantes durante o *hard reset*. — *Tinc.* — Sim. Este módulo é compatível. Eu verifiquei em três minutos e quarenta segundos, quando entramos.
-
-— Você verificou.
-
-— Eu verifico tudo.
-
-— E não ia me contar.
-
-— Não.
-
-Eu me segurei na beirada da mesa com a mão boa.
+Virei o rosto. A tesoura de trauma estava parada na mão direita dela. A esquerda continuava rígida, presa à proteção; ela a usava como apoio, sem conseguir fechar os dedos.
 
 — Por quê?
 
-Ela largou a pinça na cuba. Endireitou-se. E, pela primeira vez desde o Distrito 4, virou o corpo inteiro para mim, em vez de só o rosto.
+— Porque você diz esse nome e espera que tudo tenha voltado. Eu ainda não consigo prometer isso.
 
-— Porque você teria me mandado usar.
+— Aquilo serve para você?
 
-— É claro que eu teria!
+Ela olhou para o casco.
 
-— Eu sei. — Nenhuma inflexão. Nenhuma. — E é por isso que eu ia deixar você descobrir depois, quando estivéssemos na superfície e não fizesse mais diferença. Foi um cálculo. Errei o prazo; você achou a sala antes.
+— O modelo é compatível com meus implantes. Precisa de avaliação antes do uso. Compatibilidade não é garantia de que vá sair bem.
 
-— Valéria—
+— Desde quando você sabe?
 
-— Deixe eu terminar, porque a febre vai te tirar do ar e eu preciso que esta parte fique registrada.
+— Desde que entramos.
 
-E ela recitou. Com a mesma voz com que informa a composição do ar.
+O módulo de atendimento fez um clique. Lá fora alguém puxou uma porta de armário e a fechou depressa demais.
 
-— Com a camada afetiva ativa, minha latência de decisão aumenta em média seiscentos e quarenta milissegundos. O meu limiar para machucar alguém vivo sobe para um nível que impede a maioria das intervenções cirúrgicas de emergência. Eu perco a capacidade de amputar. Eu perco a capacidade de deixar alguém para trás. — Uma pausa. — Na passarela do Setor de Purga, com a camada ativa, eu teria tentado carregar o Rangel, e nós três teríamos morrido com ele.
+— E não ia contar.
+
+— Você teria mandado usar.
+
+Abri a boca. Fechei.
+
+Desde o reparo na clínica, o sistema dela limitava respostas para conter a sobrecarga. Eu vira os intervalos: uma piada voltava, uma expressão sumia no meio. Valéria explicou que passara a manter o modo de segurança estável depois da última descida. Não tinha deixado de ser alguém entre dois corredores; tinha parado de gastar o que ainda conseguia sentir.
+
+— Aqui o medo chega longe — disse. — Eu sei que ele existe. Só não me alcança na mesma hora. O luto também. Isso me permite continuar funcionando.
+
+— E você chama isso de bom?
+
+— Chamo de suportável.
+
+Fiquei olhando para o casco. Parecia uma roupa abandonada por alguém que ainda estava dentro da sala.
+
+— Você acha que a outra versão teria nos matado?
+
+— Na passarela eu teria tentado carregar o Rangel até romper o que restava de mim.
 
 — Você não sabe disso.
 
-— Eu sei disso, Gabo. É o cálculo que eu fiz enquanto ele morria, e é por isso que eu não o carreguei.
+Ela demorou para responder.
 
-O foco de teto zumbia. O ar limpo entrava e saía dos meus pulmões sem nenhum cheiro.
+— Não. É o cenário que repasso quando tento justificar ter seguido. Não é uma coisa que eu possa comprovar.
 
-— E na clínica do Vasco, — ela continuou, — quando a Aria ordenou que eu queimasse suas mãos com plasma, eu obedeci em quatro décimos de segundo. Com a camada ativa eu teria hesitado. A hesitação teria custado o braço inteiro em vez da mão. Eu não sinto orgulho disso. Eu não sinto nada disso. Esse é exatamente o ponto.
+O nome dele ficou entre nós. Não havia aparelho na sala que soubesse o que fazer com aquilo.
 
-— Para. — Minha voz falhou. — Só para um segundo.
+— Você me impediu de queimar as mãos — falei. — Improvisou curativo quando eu queria transformar ferramenta industrial em tratamento. Não foi falta de sentimento que fez você acertar.
 
-Ela parou.
+— Também não foi sentimento que me deu formação para operar. O que me preocupa é voltar a ouvir tudo ao mesmo tempo. O Rangel. A Aria. O que deixamos na porta de serviço. Eu sei os nomes, Gabo. Não preciso que você os use para me convencer.
 
-Fiquei olhando para aquele rosto que eu conheço melhor do que o meu. A boca era a mesma. As sardas debaixo da tinta e da fuligem eram as mesmas. O corte de cabelo era o mesmo corte esquisito e assimétrico que ela cortava sozinha com tesoura de papel porque achava barbeiro uma perda de tempo.
+Eu tinha feito exatamente isso, sem dizer nenhum deles.
 
-E não tinha ninguém em casa.
+Apertei a borda da mesa com a mão enfaixada. O braço direito estava imobilizado dentro da armação, osso ruim carregando uma máquina que prometia fazer o serviço dele. Pensei em quantas vezes chamara aquilo de solução porque ainda me deixava sair andando.
 
-— Você quer voltar? — perguntei.
+— Você quer tentar voltar?
 
-— "Querer" é uma função da camada que está desligada.
+— Eu tenho o registro de ter querido. Hoje não sei separar vontade de medo de decepcionar você.
 
-— Não me venha com isso. **Você quer voltar?**
+— Então a gente espera.
 
-Silêncio.
+— Me dê uma ordem.
 
-Três segundos inteiros, que numa coisa que processa em milissegundos é uma eternidade geológica.
-
-— Eu tenho o registro de ter querido, — ela disse. — Eu consigo ler o log. Eu sei que a Valéria de antes chorava com você, e que ela achava graça em coisas idiotas, e que ela teria feito uma piada sobre este corredor ser branco demais. Eu tenho tudo isso arquivado, com data e hora, e eu consigo recitar. — Ela inclinou a cabeça, um grau. — O que eu não consigo é sentir falta. Sentir falta é a camada.
-
-— Então eu sinto por você.
-
-— Isso não é útil.
-
-— **Não é para ser útil!** — Eu gritei, e o grito rasgou alguma coisa dentro do ombro aberto, e o mundo piscou branco nas beiradas. — Não é para ser útil, Valéria! Faz dias que tudo que sai da sua boca é probabilidade e centímetro e porcentagem, e eu aguentei, porque a gente estava vivo e você tinha razão em cada uma das porcentagens, mas eu não desci oitocentos metros nesse buraco para trazer uma **calculadora** para a superfície!
-
-O eco morreu rápido naquela sala. Paredes boas absorvem tudo.
-
-Ela esperou eu terminar. Claro que esperou.
-
-— Me dê uma ordem, — ela disse.
+Encarei ela.
 
 — O quê?
 
-— Você é a única pessoa viva de quem eu ainda aceito uma ordem. Me ordene que eu permaneça em Modo de Segurança até a superfície. Eu registro a ordem, arquivo a decisão como sua, e nós dois paramos de gastar tempo com isso. — E então, com a mesma neutralidade absoluta: — Por favor.
+— Que eu permaneça assim até a superfície. Eu registro a decisão como sua e paro de discutir comigo mesma. — A voz continuou plana. — Por favor.
 
-E eu entendi o que ela estava me pedindo.
+Aquilo me acertou mais que um pedido de socorro. Ela não queria uma instrução. Queria um lugar onde depositar a culpa antes que a culpa voltasse a ter peso.
 
-Não era permissão para continuar máquina. Era permissão para **não ter escolhido** continuar máquina. Ela queria que a culpa fosse minha, para que o pedaço dela que ainda existe em algum lugar debaixo daquele protocolo não tivesse que carregar a lembrança de ter recusado voltar a sentir.
+O equipamento pediu que eu ficasse imóvel. Ignorei e senti o ombro responder; sentei outra vez, esperando a tontura passar. Minha dor não me ensinou nada naquele instante. Só roubou alguns segundos que eu precisava para falar direito.
 
-Era a coisa mais humana que ela tinha feito em dias, e ela nem podia saber disso.
+— Não vou dar essa ordem. Nem a outra. Posso dizer que sinto falta da sua risada. Não posso usar a falta para escolher o que você faz com a própria cabeça.
 
-Levantei da mesa. O joelho protestou. Segurei na bancada com a garra industrial, que arranhou o aço e deixou quatro sulcos.
+Ela baixou os olhos para o painel do atendimento.
 
-— Não, — eu disse.
+— E se eu nunca usar?
 
-— Gabo—
+— Eu continuo tendo que aprender a conversar com você.
 
-— **Não.** — Encarei ela. — Eu não vou te dar essa ordem. Nem essa nem a outra. Você não é uma ferramenta minha, e eu não vou fingir que sou dono dessa escolha só para você não precisar fazê-la.
+Não foi uma frase bonita. Foi a única promessa que cabia na sala.
 
-— Isso é ineficiente.
+Pedi que deixasse o módulo separado. À disposição dela, sujeito aos riscos que ela teria de avaliar, sem um prazo que eu pudesse transformar em cobrança. Valéria anotou o modelo numa etiqueta e prendeu a etiqueta no cabo. A mão direita tremia um pouco; a esquerda não obedecia o bastante para ajudar.
 
-— É. É horrível e é ineficiente e é o único jeito que eu conheço de te tratar como gente. — Bati com a mão de carne no casco de aço. — Isso aqui fica ligado. Fica aqui, pronto, à sua disposição, até a hora em que a gente sair. Você entra quando você quiser entrar. Se você não quiser entrar nunca, tudo bem. Mas a mão que aperta o botão vai ser a sua.
+O atendimento terminou com um aviso de acompanhamento urgente. O sangramento estava contido, a fratura continuava instável, e ninguém me declarou curado. Ela releu as instruções de transporte antes de me ajudar a descer da mesa.
 
-Ela ficou parada por um tempo muito longo.
+Na porta, ficou olhando o casco por dois segundos.
 
-Depois pegou a pinça de volta.
-
-— Você tem cinquenta e dois minutos de lucidez restantes, — ela disse. — Sente-se. Eu não terminei o desbridamento.
-
-Sentei.
-
-Ela trabalhou em silêncio, tirando pedaços podres de mim e depositando cada um na cuba com aquele *tinc* pequeno e educado, e eu olhei para o teto e deixei doer.
-
-Quando ela terminou de suturar, guardou a agulha, lavou as mãos na pia de cobre e enxugou com um pano estéril, dobrando-o em quatro antes de deixá-lo na bancada.
-
-Então ela olhou para o casco de aço na bancada por dois segundos exatos.
-
-E saiu da sala sem tocar nele.
+Depois apagou o foco e saiu sem tocar nele.

@@ -5,9 +5,8 @@ Localização: "O Núcleo - 10 segundos após a injeção do código"
 ---
 # Capítulo 66: Respirar
 
-**O Núcleo - 10 segundos após a injeção do código.**
-
-A água não parou de subir. O vidro quebrado da contenção continuava jorrando o líquido refrigerante gelado e tóxico para dentro da sala de controle.
+O Núcleo - 10 segundos após a injeção do código.
+A água não parou de subir. A tubulação rompida continuava lançando água de retorno para dentro da cabine. A mesa prendia Gabo num ponto onde o nível já cobria seu rosto.
 
 Gabo sentiu seus pulmões queimarem. Ele estava submerso, preso aos escombros de uma mesa de metal. Ao seu lado, o corpo inerte de um técnico da Aeterna boiava na correnteza turva.
 
@@ -17,7 +16,7 @@ Gabo fechou os dedos da mão esquerda em torno do pendrive de titânio da Aria �
 
 Valéria.
 
-Ela tinha uma máscara de oxigênio de emergência — daquelas pequenas, de fuga rápida — presa ao rosto. Ela ofereceu outra para Gabo, pressionando-a contra a boca dele.
+Usava um dos aparelhos autônomos de manutenção que retirara do armário. O segundo estava preso à correia; não eram máscaras comuns de fuga para respirar debaixo d’água. Ela ofereceu outra para Gabo, pressionando-a contra a boca dele.
 
 O ar comprimido entrou com gosto de borracha e vida.
 
@@ -27,25 +26,24 @@ Val apontou para cima. A luz da superfície estava ficando distante. O nível da
 
 Gabo olhou para o pedestal de interface lá embaixo. O slot central estava vazio; os cabos de fibra óptica flutuavam desconectados, soltando faíscas azuis no líquido.
 
-Val bateu no bolso blindado do colete dele, confirmando que o drive da Aria estava seguro, e apontou novamente para cima. Uma escotilha de manutenção no teto da cúpula.
+Val bateu no bolso blindado do colete dele, confirmando que o drive da Aria estava seguro, e apontou novamente para cima. A passagem de manutenção junto da porta, acima do piso mais baixo da cabine.
 
-Eles começaram a nadar. Gabo usava a força bruta dos braços, enquanto Val o auxiliava, puxando-o pelo colete. A água estava turva, cheia de papéis, equipamentos e corpos.
+Val prendeu a correia de Gabo ao próprio cinto e puxou para tirá-lo de sob a mesa. Ele tentou usar o braço esquerdo no apoio; o direito, atravessado pelo tiro, continuava inútil. A água estava turva, cheia de papéis, equipamentos e corpos.
 
 De repente, uma sombra passou por eles. Rápida. Mecânica.
 
-Um robô CP-Z, à prova d'água, nadando com propulsores. Seus olhos vermelhos cortavam a escuridão. Ele mirou o arpão em Val.
+Um robô CP-Z, à prova d'água, avançando pela passagem de manutenção. Seus olhos vermelhos cortavam a escuridão. Ele mirou o arpão em Val.
 
 Gabo não tinha como usar a escopeta debaixo d'água. Ele largou a máscara de oxigênio por um segundo, puxou a faca de combate da bota e, num movimento desesperado, lançou-se na frente de Val.
 
-O arpão atingiu o ombro de Gabo, raspando o kevlar, mas não perfurou fundo. Perfurou o suficiente. O sangue saiu em fumaça vermelha e se abriu na água como tinta, e a dor chegou atrasada, quente, subindo do ombro direito até o ouvido. Ele mordeu a máscara para não gritar bolhas. Gabo agarrou a cabeça do robô e encostou o conector do pendrive da Aria na fresta óptica do chassi.
+O arpão atingiu o ombro de Gabo, raspando o kevlar, mas não perfurou fundo. Perfurou o suficiente. O sangue saiu em fumaça vermelha e se abriu na água como tinta, e a dor chegou atrasada, quente, subindo do ombro direito até o ouvido. Ele mordeu a máscara para não gritar bolhas. A haste ficou presa na borda da mesa. Enquanto o robô tentava recolhê-la, Val alcançou a porta de manutenção identificada no chassi e prendeu o cabo do módulo ali. A primeira consulta foi recusada; a conta que acabara de assumir o Núcleo abriu a rotina de resgate.
 
-*Dante. Pai. Ajuda.*
-
+Dante. Pai. Ajuda.
 O robô parou. As luzes vermelhas piscaram e ficaram azuis.
 
-O CP-Z soltou o arpão. Ele agarrou Gabo e Val com gentileza surpreendente e ativou seus propulsores máximos, levando-os em direção à superfície.
+O CP-Z soltou o arpão. Ele agarrou Gabo e Val com gentileza surpreendente e ativou seus propulsores máximos, retirando-os da cabine até a passagem externa de serviço.
 
-Eles romperam a linha d'água, emergindo no lago externo da represa. A chuva caía torrencialmente, misturando-se à água do lago.
+Alcançaram a plataforma de saída junto do canal externo da represa. A chuva caía torrencialmente, misturando-se à água do lago.
 
 O robô os depositou na margem de concreto e depois afundou, imóvel.
 
@@ -57,7 +55,7 @@ Gabo arrancou a máscara, tossindo água e bile. Val caiu ao lado dele, tremendo
 
 — *Estou operacional, Inspetor.*
 
-A voz veio pelo alto-falante do comunicador e, ao mesmo tempo, pelas caixas de som de um transformador municipal acima deles. No pulso de Gabo, o LED do pendrive brilhava com uma luz branca e azul intensa, evaporando as gotas de chuva que batiam no titânio quente.
+A voz veio pelo alto-falante do comunicador e, ao mesmo tempo, pelo alto-falante de alerta do poste municipal acima deles. No pulso de Gabo, o LED do pendrive brilhava com uma luz branca e azul intensa, evaporando as gotas de chuva que batiam no titânio quente.
 
 — *O upload da matriz foi concluído* — disse Aria pelo transdutor. A voz dela tinha agora uma reverberação dupla: o timbre analítico da IA e a frequência grave de um homem velho.
 
@@ -67,7 +65,7 @@ Gabo olhou para o pequeno módulo luminoso.
 
 O LED oscilou entre o azul e o âmbar.
 
-— *Parte dele. Parte de mim. Parte da Cidade* — respondeu a Aria. — *Marco Moretti fugiu. A correnteza o levou para os dutos de esgoto. Roberto Miranda também.*
+— *Uma cópia ligada ao registro de Dante, integrada à minha sessão. Não é o corpo que ficou no tanque* — respondeu a Aria. — *Marco Moretti fugiu. A correnteza o levou para os dutos de esgoto. Roberto Miranda também.*
 
 Gabo passou o polegar no metal, do jeito que fazia quando precisava ouvir só ela. O LED esquentou sob o dedo, e o calor não vinha da bateria.
 
@@ -83,7 +81,7 @@ Ele tirou o dedo. Havia perguntas que ele fazia àquela voz de madrugada, no Cob
 
 Gabo olhou para o horizonte de Baía Cinzenta.
 
-Os arranha-céus, antes escuros ou piscando com neons comerciais, agora pulsavam em um ritmo uníssono. Uma onda de luz azul percorria as avenidas, como veias bombeando sangue novo.
+Os arranha-céus, antes escuros ou piscando com neons comerciais, agora pulsavam em um ritmo uníssono. Uma onda de luz azul percorria os trechos em que a conta do Núcleo ainda era aceita. Outros painéis continuavam sem resposta; a conta não lhes entregara toda a cidade.
 
 — *O protocolo de Dante é o Administrador agora* — disse a voz no módulo. — *E o aluguel venceu.*
 
@@ -101,11 +99,11 @@ Gabo tentou se levantar, mas suas pernas falharam.
 
 — Eu não consigo andar. As órteses pifaram.
 
-Gabo desacoplou o pendrive da Aria do comunicador e o espetou diretamente na porta de controle lateral do cinturão das órteses. Uma descarga de energia azul percorreu os cabos do módulo para o metal morto.
+Gabo desacoplou o pendrive da Aria do comunicador e o espetou diretamente na porta de controle lateral do cinturão das órteses. Val retirou a bateria removível da unidade de resgate e a ligou ao adaptador das órteses. O módulo leu o diagnóstico e reiniciou o controle; não forneceria sozinho energia para mover o corpo de Gabo.
 
 Os servos zumbiram. Luzes acenderam. O sistema reiniciou com uma eficiência que nunca teve antes.
 
-— *Protocolo de Assistência: Ativo* — soou a voz do traje. — *Reserva do módulo: oitenta e um por cento. Autonomia estimada: dez horas.*
+— *Protocolo de Assistência: Ativo* — soou a voz do traje. — *Reserva externa reconhecida. Leitura de carga sem calibração; autonomia a conferir sob esforço.*
 
 Gabo se levantou. O traje respondia ao menor impulso nervoso. As costelas continuavam quebradas e o ombro continuava furado; o que o traje tinha feito era só parar de deixar as pernas mentirem.
 

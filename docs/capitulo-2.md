@@ -34,8 +34,7 @@ Gabo tirou o pé do acelerador. O caso do Porto, os depoimentos que mudavam entr
 
 — *O 88-C está preenchido. Suspensão preventiva. Se você me der mais um motivo, eu assino também.*
 
-*Click.*
-
+Click.
 Gabo socou o volante. A costura abriu sob os nós dos dedos; a pele também. Ficou olhando a espuma amarela que aparecia pelo rasgo.
 
 — Filho da puta.
@@ -58,7 +57,7 @@ Na calçada mais alta, uma **cabine telefônica** resistia à enxurrada. Aço ox
 
 Três pulsos curtos, três longos, três curtos. Gabo esperou. A sequência se repetiu sem perder o intervalo. Um pedido de socorro num aparelho sem linha.
 
-No visor, um rosto feminino em linhas azuis tentava se formar. Abaixo dele, o indicador do acumulador de emergência marcava três por cento.
+No visor, o rosto de uma mulher adulta em linhas azuis tentava se formar. Abaixo dele, o indicador do acumulador de emergência marcava três por cento.
 
 Podia ser uma chamada antiga presa na memória. Podia ser uma isca. Ele deixou o envelope da fotografia no compartimento trancado do carro e abriu a porta.
 
@@ -76,7 +75,7 @@ Gabo levou o fone ao ouvido com a mão esquerda, mantendo a arma em punho.
 
 — *Voz compatível com Gabriel Moretti. Confirme a identificação.*
 
-Ele apertou o fone. Não dera o nome. A voz sintética parecia mais próxima que o telefone junto à sua orelha.
+Ele apertou o fone. Não dera o nome. A voz adulta, de timbre próprio e modulação sintética discreta, parecia mais próxima que o telefone junto à sua orelha.
 
 — O que é isso? — Gabo murmurou, olhando para os cabos cortados lá fora e depois para o pendrive pulsando no slot. — Quem plantou você aqui?
 
@@ -84,7 +83,7 @@ Ele apertou o fone. Não dera o nome. A voz sintética parecia mais próxima que
 
 — Você é uma IA corporativa?
 
-— *Unidade autônoma de assistência tática. A chave não está no corpo, Moretti. Está na memória.* O LED passou a âmbar. *Estou neste módulo. Se a água fechar o barramento, perco os setores ativos. Desconecte-me.*
+— *Unidade autônoma. Este hardware é legado; meu histórico não parou na versão de fábrica. A chave não está no corpo, Moretti. Está na memória.* O LED passou a âmbar. *Estou neste módulo. Se a água fechar o barramento, perco os setores ativos. Desconecte-me.*
 
 A enchente bateu contra a base da cabine telefônica, subindo mais cinco centímetros num redemoinho de lixo. Ao longe, entre as cortinas de chuva, o zumbido grave de um drone de patrulha cortou o trovão.
 
@@ -119,8 +118,7 @@ Gabo puxou o cabo de transmissão do rádio. O ícone da conexão externa apagou
 
 A tela do console piscou uma única vez, gravando quatro letras em azul-gelo:
 
-**ARIA.**
-
+ARIA.
 Gabo anotou no verso do recibo a hora em que autorizara a sessão. Depois engatou a primeira. Agora havia também um registro dele abrindo a rede policial para um hardware sem procedência.
 
 O trajeto azul seguiu aceso no painel, mesmo com a antena muda.

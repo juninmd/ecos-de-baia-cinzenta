@@ -9,9 +9,9 @@ Personagens Presentes: Gabo, Valéria
 
 A chuva ácida do Distrito 4 não limpava nada; ela apenas dissolvia as bordas do mundo, transformando o concreto em lama cinzenta e os neons quebrados em poças de sangue luminoso. Quando a porta de aço reforçado da clínica de Vasco bateu às nossas costas, o som foi engolido imediatamente pela tempestade constante.
 
-Dei meu primeiro passo na calçada podre e quase fui ao chão. 
+Dei meu primeiro passo na calçada podre e quase fui ao chão.
 
-A armação industrial que Vasco havia parafusado aos meus ossos e nervos para sustentar o braço quebrado não era apenas feia; ela tinha a sutileza e o equilíbrio de uma bigorna amarrada à minha escápula. Vinte quilos de aço industrial envolvendo meu membro ferido e puxando meu centro de gravidade violentamente para a direita. Cada movimento do meu ombro enviava um espasmo elétrico direto para a minha medula, um zumbido de baixa frequência vibrando nos meus dentes.
+A armação industrial que Vasco acoplara ao fixador instalado pela equipe não era apenas feia; tinha a sutileza de uma bigorna presa ao meu tronco. Vinte quilos distribuídos pelo arnês e pela cintura ainda puxavam meu centro de gravidade para a direita. Cada movimento transmitia tração ao ombro ferido. A faixa impermeável raspava no sobretudo; eu precisava mantê-la fechada mesmo quando a pele coçava sob o curativo.
 
 — Segura a onda aí, Frankenstein — uma mão magra e firme engatou sob o meu cotovelo esquerdo, antes que meu joelho cedesse no lodo.
 
@@ -47,7 +47,7 @@ Valéria apertou a mandíbula, cuspindo uma mecha molhada que colara nos lábios
 
 — Se silenciar o sistema, você perde a telemetria do deck.
 
-— Eu sei, gênio — ela resmungou, mas havia um alívio áspero na voz. Era a velha Valéria: mordaz, defensiva e incapaz de admitir fragilidade. — É só que... depois de ver a Aria evaporar no terminal do Arquivo, ouvir esses relatórios automáticos de sistema parece um deboche. A Aria tinha alma, Gabo. Aquilo ali era o fantasma da Bia prensado em silício. Isso que sobrou na minha cabeça agora é só código de segurança de fábrica que a Aeterna vendeu a granel.
+— Eu sei, gênio — ela resmungou, mas havia um alívio áspero na voz. Era a velha Valéria: mordaz, defensiva e incapaz de admitir fragilidade. — É só que... depois de ver a Aria evaporar no terminal do Arquivo, ouvir esses relatórios automáticos de sistema parece um deboche. A Aria tinha alma, Gabo. Ela tinha material da Bia na origem, mas não era um fantasma prensado em silício. Era Aria. A gente devia ter escutado isso antes de precisar que ela nos repetisse. Isso que sobrou na minha cabeça agora é só código de segurança de fábrica que a Aeterna vendeu a granel.
 
 Parei sob a marquise quebrada de uma antiga farmácia popular para ajustar o correame do sobretudo sobre o metal da armação externa. O aço frio estava roubando o calor do meu tronco com uma rapidez assustadora, deixando minha pele com um tom azulado de geada.
 
@@ -63,7 +63,7 @@ Parei sob a marquise quebrada de uma antiga farmácia popular para ajustar o cor
 
 Valéria deu um sorrisinho torto, apontando com o queixo para a estrutura de liga metálica maciça que envolvia meu braço direito.
 
-— Aí você usa esse martelo gigante que o Vasco te deu pra abrir passagem. Mas tenta não quebrar o próprio pescoço no recuo, tá legal? Não tenho peças de reposição pra carregar um detetive inteiro nas costas.
+— Aí a gente procura outro caminho antes de usar o suporte do seu braço como martelo. Mas tenta não quebrar o próprio pescoço no recuo, tá legal? Não tenho peças de reposição pra carregar um detetive inteiro nas costas.
 
 Ajeitei o peso do braço, sentindo a agulhada elétrica nos nervos como um lembrete implacável de que a trégua havia acabado.
 

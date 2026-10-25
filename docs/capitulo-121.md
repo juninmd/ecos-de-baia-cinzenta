@@ -1,21 +1,20 @@
-## Metadados
-- **Título:** Fios Desencapados
-- **Data In-Game:** 23 de Novembro, 01:00
-- **Localização:** O Fliperama (Esgotos / Subnível do Distrito Industrial)
-- **Foco:** O grupo chega ao esconderijo "O Fliperama", onde Gabo luta para estabilizar Rangel usando recursos médicos limitados e improvisação brutal. Valéria tenta diagnosticar o pendrive danificado da Aria, descobrindo que o curto-circuito afetou sua contenção lógica.
-- **Personagens Presentes:** Gabo Moretti, Valéria Cruz, Inspetor Rangel (Crítico), Aria (Offline).
-
-## Narrativa
+---
+title: "Capítulo 121: Fios Desencapados"
+Data In-Game: "23 de Novembro, 01:00"
+Localização: "O Fliperama (Esgotos / Subnível do Distrito Industrial)"
+Personagens Presentes: "Gabo Moretti, Valéria Cruz, Inspetor Rangel (Crítico), Aria (Offline)."
+description: "Val impede a solda na ferida de Rangel. O grupo cobre o ferimento e procura atendimento; a mulher resgatada no porto encaminha o pedido de ajuda."
+---
 
 # Capítulo 121: Fios Desencapados
 
-O caminhão "Toupeira" morreu com um suspiro engasgado assim que cruzaram a comporta de entrada do esgoto. O silêncio que se seguiu foi pesado, quebrado apenas pelo som de metal esfriando e pela respiração irregular de Rangel.
+O caminhão de reboque morreu com um suspiro engasgado assim que cruzaram a comporta de entrada do esgoto. O silêncio que se seguiu foi pesado, quebrado apenas pelo som de metal esfriando e pela respiração irregular de Rangel.
 
 Gabo saltou da cabine, seus joelhos protestando com o impacto no concreto úmido. O ar ali embaixo tinha gosto de cobre e mofo antigo. *O Fliperama*. O santuário de Kiko Vibe.
 
 — Valéria, luzes — ordenou, abrindo a porta do carona.
 
-Rangel estava pálido, a cabeça pendendo num ângulo errado. O improviso de torniquete no ombro estava encharcado.
+Rangel estava pálido, a cabeça pendendo num ângulo errado. O curativo de emergência no ombro estava encharcado.
 
 — Não tenho interface sem fio com o sistema daqui — a voz de Valéria veio da cabine, trêmula, enquanto guardava o deck na mochila. — É tudo... analógico. Interruptores físicos.
 
@@ -41,43 +40,29 @@ O Fliperama tinha dono uma vez. Restavam as provas espalhadas: uma jaqueta de LE
 
 Ele olhou ao redor, buscando algo útil. Havia uma caixa de ferramentas enferrujada e um kit de primeiros socorros industrial na parede. Ele correu até lá. Bandagens secas, antisséptico vencido e...
 
-Ele pegou um ferro de solda da bancada eletrônica.
+Ele olhou para o ferro de solda da bancada eletrônica.
 
-— O que você vai fazer? — Valéria recuou, horrorizada.
+Val viu antes de ele tocar no cabo.
 
-— Cauterizar.
+— Não. Você não sabe o que está aberto aí. Não vai enfiar uma ferramenta de oficina no peito dele.
 
-— Você vai matar ele de choque! — ela gritou. — Ele precisa de cirurgia vascular, não de tortura medieval!
+— Então me diz o que fazer.
 
-— Ele tem três minutos antes de sangrar até secar — Gabo ligou o ferro na tomada. O cheiro de ozônio subiu. — Segure os ombros dele.
+Ela ficou imóvel. A mão esquerda rígida não ajudava; a direita tremia. Não tinha uma cirurgia escondida na memória, nem uma resposta que pudesse carregar no deck.
 
-— Eu não consigo...
+Rangel abriu os olhos.
 
-— Valéria! — Gabo rugiu. — Segure a porra dos ombros dele ou ele morre agora!
+— Chama... alguém que saiba.
 
-Valéria obedeceu, lágrimas prateadas se formando nos cantos dos olhos. Ela segurou Rangel com força, desviando o olhar.
+Gabo recuou da bancada. O rosto do inspetor estava cinzento, e havia sangue suficiente no pano para não deixar espaço para orgulho.
 
-Gabo esperou a ponta do ferro ficar vermelha. Sua mão tremia. Não de medo, mas de adrenalina contida. O cheiro de carne queimada que viria a seguir... aquilo traria memórias que ele lutava para enterrar. A fumaça. Sempre a fumaça. O cheiro dos charutos do pai, impregnando a casa antes de cada surra, antes de cada silêncio.
+Usaram o material lacrado do kit para substituir a camada encharcada do curativo. Não retiraram o estilhaço. Val manteve o registro dos sinais, e Gabo ficou ao lado da mesa, sustentando a compressa enquanto procuravam ajuda pelo cabo de serviço do esconderijo. A linha do hospital só devolvia ocupado.
 
-Ele sentiu a náusea subir, um gosto amargo de bile na boca. *Foco. Agora.*
+A mulher que tinham retirado do porto apareceu com a manta sobre os ombros. O menino dormia no banco. Ela olhou o telefone, entendeu a resposta e pediu o endereço da clínica mais próxima. Gabo escreveu a mensagem com hora, ferimento e localização. Não mandou que saísse; perguntou se conseguia levar aquilo ao posto da rua, sem voltar ao porto.
 
-Ele pressionou o punho contra o peito, sentindo o *Colar de Sol* morder a pele através da camisa. A queimadura fria do metal era sua única âncora. *Dor é realidade. O resto é fumaça.*
+Ela guardou o papel dentro da roupa e saiu. Val anotou o caminho combinado para que não virasse mais uma pessoa desaparecida em nome de uma urgência.
 
-— Desculpe, Rangel — sussurrou.
-
-Ele encostou o ferro na ferida.
-
-O cheiro foi imediato e nauseante. Rangel gritou, um som gutural que ecoou pelas paredes de concreto, antes de desmaiar novamente. Gabo trabalhou rápido, selando o vaso rompido com precisão brutal, ignorando o cheiro de carne cauterizada que impregnava o ar confinado.
-
-Quando terminou, largou o ferro na mesa e se afastou, respirando com dificuldade.
-
-— Está feito — disse, a voz rouca. — O sangramento parou.
-
-Valéria soltou o inspetor e correu para o canto da sala, vomitando bile.
-
-Rangel não acordou. O corpo dele tinha ido para algum lugar onde a dor não chegava, e o que sobrou na mesa era uma coisa grande e cinzenta que respirava rápido demais. A marca do ferro tinha o formato errado — meio círculo, com a borda mais funda onde a mão de Gabo escorregou.
-
-Ele olhou para a própria mão. Não tremia mais. Isso também era ruim.
+Rangel não acordou quando a porta fechou. Respirava rápido demais. Gabo pensou no ferro que não usara e no tempo que ainda podiam perder. Deter a mão fora fácil. Esperar que alguém chegasse não era.
 
 Gabo limpou as mãos num pano sujo de graxa. Ele olhou para a bancada eletrônica no canto, onde Valéria havia deixado o pendrive blindado da Aria sobre um pano antiestático, com o polímero negro chamuscado e o LED completamente apagado.
 
@@ -89,7 +74,7 @@ Valéria limpou a boca e se aproximou da bancada. Ela abriu a carenagem lateral 
 
 — Dá para consertar?
 
-— Os barramentos físicos? Sim, se eu conseguir uma ponte de silício nova. O software? — Valéria hesitou, olhando para as trilhas de cobre trincadas dentro do pendrive. — Ela salvou os Drenados absorvendo o pulso sináptico deles pelo barramento. Isso corrompeu os filtros que isolavam o algoritmo tático do substrato neural da Bia. Se eu religar o drive, não sei o que vai falar no nosso ouvido.
+— Os barramentos físicos? Sim, se eu conseguir uma ponte de silício nova. O software? — Valéria hesitou, olhando para as trilhas de cobre trincadas dentro do pendrive. — Ela separou os enlaces mantendo o suporte ativo pelo barramento de controle. Isso corrompeu os filtros que isolavam o algoritmo tático do substrato neural da Bia. Se eu religar o drive, não sei quais registros ela conseguirá separar da própria voz. Primeiro faço uma leitura sem execução, depois uma inicialização isolada.
 
 Gabo assentiu. Ele se sentou no chão, encostado na mesa onde Rangel respirava superficialmente. As mãos voltaram a tremer, agora que não havia mais nada em que ocupá-las. Ele entrelaçou os dedos, forçando-os a parar.
 

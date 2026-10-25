@@ -1,16 +1,18 @@
-# Análise do Capítulo 55: A Tentação de Lázaro
+# Revisão de Capítulo 55: A Tentação de Lázaro
 
-## Avaliação Técnica
-- Ritmo: 8/10
-- Diálogos: 9/10
-- Atmosfera: 9/10
+Fonte: [capítulo 55](/capitulo-55.md).
 
-## Pontos Fortes e Fracos
-- Fortes: Introduz a personagem Isadora com dualidade interessante (vítima/vilã). O apelo à "droga Lázaro" é uma excelente armadilha emocional baseada no trauma familiar e físico de Gabo, não um vício real dele.
-- Fracos: A transição de Isadora (de sedutora a vítima que confia no detetive) ocorre de modo muito acelerado na mesma cena.
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-## Verificação de Sanidade (Lore Compliance)
-- Gabo rejeita peremptoriamente o frasco e a alienação pela droga simulatória ("Lázaro"). A descrição "seda e fumaça" mencionada nos logs de revisão anteriores já foi corrigida para "seda e lâmina" no texto, blindando os gatilhos fóbicos de fumo perfeitamente.
+## Passagens de entrada e saída
 
-## Avaliação Qualitativa
-A adição de Isadora traz novas ramificações. O isolamento de Gabo com sua dor ("bengala improvisada de PVC") mantém sua postura noir de forma brilhante e puramente física.
+> Dia 46 do Dilúvio - Refúgio Subterrâneo
+> A dor na coluna de Gabo era um lembrete constante de sua mortalidade. Com as órteses travadas em modo passivo, fazia apenas transferências curtas com ajuda. A bengala de PVC ficava ao alcance para equilíbrio; não substituía a estrutura.
+
+### Saída
+
+> Gabo olhou para a mancha azul na parede. Ele tinha recusado o paraíso. Agora, só restava vencer o inferno.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

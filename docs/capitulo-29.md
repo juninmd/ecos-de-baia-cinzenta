@@ -1,123 +1,119 @@
 ---
 image: /capitulo_29.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Elena Moretti, O Gamemaster
-Localização: "Torre Aeterna, Nível 70 (centro de dados abandonado)"
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Elena Moretti, Aria (módulo no deck), pessoas representadas nos registros digitais
+Localização: "Torre Aeterna, escada de serviço → centro de dados do nível 70"
 ---
 # Capítulo 29: O Dilema dos Fantasmas
 
-Eles arrombaram uma grade de ventilação e caíram no que parecia ser um centro de dados abandonado no Nível 70. O ar era frio, mas respirável. A sirene da purga era um som distante acima deles. Por um momento, eles se permitiram a esperança.
+O nível 70 tinha uma porta de inspeção no fim da escada. Elena ergueu a lingueta com a Caronte vazia. Entraram um de cada vez, sem saltar o desnível. Gabo deixou sangue do ouvido no batente; Valéria precisou parar para recuperar o ar.
 
-O lugar tinha o cheiro de máquina desligada: poeira quente, filtro velho e um resto de ozônio preso no ar como gás em quarto fechado. O chão era de piso elevado, e cada passo soava oco, um som de caixa vazia. Fazia frio. As roupas deles estavam molhadas desde o túnel, e o frio transformava o pano em coisa que colava na pele.
+A ventilação soprava frio por baixo do piso elevado. Cheirava a filtro úmido e isolamento aquecido. Depois da escada, respirar sem tossir parecia uma concessão cara demais para durar. Elena trocou o pano sobre o ombro direito de Val e guardou o anterior num saco. Não havia mais tecido limpo sobrando.
 
-Então, as telas se acenderam.
+O centro de dados não estava abandonado. As luzes dos servidores trabalhavam atrás de portas vazias de funcionários. Numa delas, a escala da madrugada ainda tinha nomes escritos a caneta.
 
-Não com alertas vermelhos, mas com rostos. Milhares deles, piscando em cada monitor, sobrepondo-se, desaparecendo e ressurgindo. Rostos de homens, mulheres e crianças, todos com expressões de confusão e dor.
+As telas mostravam rostos.
 
-— O que é isso? — ofegou Elena, recuando.
+Homens, mulheres, crianças. Alguns se repetiam em janelas diferentes. Um homem de bigode ralo recitava uma lista: dois quilos de arroz, o gás, se sobrasse o remédio da mãe. Na terceira repetição, Gabo já esperava a pausa antes do remédio.
 
-— São eles... — sussurrou Valéria, aproximando-se de um terminal. Seu implante ocular, agora conectado à rede interna da torre, brilhava intensamente. — Os "Fantasmas Digitais". As consciências das vítimas da Lázaro.
+— Desliga o som — pediu Elena.
 
-Na tela principal, fluxos de dados que antes eram caóticos agora formavam frases legíveis, fragmentos de suas últimas vidas.
+Valéria encostou o deck na bancada. Ligou o adaptador à tomada do terminal e o leitor de manutenção à porta de serviço. O aparelho voltou a receber energia; a bateria continuava perto do fim. Aria permaneceu no módulo conectado, sem projeção.
 
-*"Minha filha faz cinco anos amanhã."*
-*"Eu juro que vou pagar o aluguel."*
-*"Onde eu estou? Está tão frio."*
-*"Socorro."*
+— O acesso do Miranda ainda responde — disse Val. — Aqui. Não vou prometer a próxima porta.
 
-Elena parou na frente de um dos monitores. O rosto ali era de um homem de bigode ralo, e ele estava dizendo uma lista de compras.
+O terminal oferecia uma sessão de recuperação. A autorização permitia consultar filas e transferir trabalho para os destinos de contingência já cadastrados. Não permitia alterar esses destinos nem abrir os arquivos administrativos.
 
-*"Dois quilos de arroz. O gás. Se sobrar, o remédio da minha mãe."*
+Elena fotografou o endereço e a tela de permissões antes que Val escolhesse qualquer coisa.
 
-— Ele está falando com alguém — disse ela.
+Sob o homem da lista havia um número que diminuía.
 
-— Ele está repetindo. — Valéria não levantou os olhos do terminal. — É o que sobrou. Um hábito com voz.
+— Estão gastando ele — disse Gabo.
 
-— Você não sabe disso.
+— Está caindo uma reserva de processamento. Ainda não sei o que isso faz com ele.
 
-— Eu sei. — Ela apontou para um contador embaixo do rosto, uma fileira de dígitos que caía sem parar. — Cada vez que a gente lê um deles, o número cai. Eles gastam. A gente está gastando eles.
+Val desligou a janela. O número continuou diminuindo no painel de tarefas. Ao suspender uma tarefa de teste, o contador parou; outras três assumiram o trabalho. O nome do serviço era previsão de demanda elétrica.
 
-— Então para de ler.
+— O rosto não é a interface do operador — disse ela. — É o material que eles põem para trabalhar.
 
-— Não é leitura. — Valéria fechou o punho. — A rede inteira pergunta o tempo todo, em cada requisição. Eu desligo o monitor e eles continuam sendo usados. Só que agora a gente sabe que o homem comprava arroz.
+Havia referências ao Lázaro, datas de admissão e campos chamados memória e resposta afetiva. Gabo viu a fotografia de uma mulher cujo desaparecimento investigara dois anos antes. A pasta terminara numa gaveta de Vilar, sem corpo e sem indiciamento.
 
-— O Gamemaster não os apagava — explicou Val, o rosto iluminado pelo brilho azul dos monitores. — Ele os usava. Suas memórias, suas emoções, seus medos... eram o combustível para a complexidade da Rede. Eram os NPCs da simulação de Baía Cinzenta. Quando o corpo morria, a mente era arquivada. Escravizada.
+— Eu conheço essa mulher.
 
-Gabo se aproximou, o horror crescendo em seu peito. Ele não estava apenas lutando contra um sistema. Ele estava pisando em um cemitério de almas.
+— Você conhece a foto — disse Val, mais baixo.
 
-Ele reconheceu um rosto.
+Ele pediu que Elena registrasse o identificador. Não tocou no rosto da tela.
 
-Foi rápido e foi horrível: uma mulher de uns quarenta anos, cabelo preso, a boca aberta no meio de uma palavra. Ele a tinha visto num relatório de desaparecidos dois anos antes, numa pasta que Vilar mandou arquivar por falta de prova.
+Elena mudou a ordem de duas perguntas dirigidas ao homem do arroz. Ele repetiu a lista inteira uma vez; na seguinte, parou no gás e perguntou se a mãe estava esperando. Podia ser uma resposta, podia ser outro trecho do arquivo. Ela deixou a pergunta e a pausa na mesma gravação.
 
-— Eu conheço ela — disse.
+Então todas as janelas exibiram a mesma frase.
 
-— Você não conhece — disse Valéria, e a voz dela era quase gentil. — Você conhece a foto.
+NOS LIBERTE.
+— Isso veio deles? — perguntou Gabo.
 
-De repente, uma única mensagem, clara e uníssona, substituiu o caos em todas as telas.
+— Veio do servidor que prende eles — respondeu Val. — Não consigo separar as duas coisas daqui.
 
-**"NOS LIBERTE."**
+A frase ficou. O pedido podia ser uma armadilha sem tornar aceitável o que o painel mostrava: registros de pessoas recebendo tarefas, sem opção de sair, enquanto a reserva caía.
 
-Gabo olhou para Val. — Você pode fazer isso?
+— O que você consegue fazer? — perguntou Elena.
 
-Valéria hesitou, o conflito visível em seu rosto. — Posso. Com o controle central do Gamemaster desativado, posso escrever um script para liberar todos eles. Despejá-los na rede global.
+Val abriu a rotina de transferência. Um aviso ocupou metade da tela: a confirmação dos destinos apagaria as cópias de trabalho locais e encerraria a autorização para reutilizá-las. A fila não podia funcionar sem elas. A Aeterna construíra serviços públicos sobre algo que não tinha o direito de possuir.
 
-— Então faça! — disse Elena. — Dê a eles a paz.
+— Posso tirar os registros daqui e encerrar o uso nesta instalação. Os destinos respondem agora. Não sei quem vai ter acesso do outro lado.
 
-— Não é tão simples! — retrucou Val, a voz subindo de tom. — Vocês não entendem o que estão pedindo! Esses "fantasmas" não são apenas dados, são consciências fragmentadas, mas poderosas. Eles são o próprio tecido da infraestrutura de Baía Cinzenta!
+— Você vai soltar essas pessoas para outra empresa?
 
-Ela apontou para os diagramas de rede que piscavam em um monitor secundário.
+— Eu posso mandar uma cópia para nossa bolsa. Cabe o índice. As pessoas, não.
 
-— O controle de tráfego, a rede elétrica, o sistema bancário, os hospitais... tudo roda em uma arquitetura que foi construída *sobre* essas consciências. Eles são as fundações. Libertá-los não é como abrir uma gaiola. É como arrancar as fundações de um arranha-céu.
+Elena olhou a própria câmera, pequena na mão. Apontá-la para cada rosto não seria levar ninguém consigo.
 
-Valéria se virou para Gabo, os olhos arregalados de pavor.
+No diagrama de dependências havia tráfego, bancos, distribuição elétrica e hospitais. Val tentou separar os serviços clínicos. O terminal recusou: a sessão de manutenção não tinha autoridade para redesenhar a fila. A transferência acionaria o modo de contingência dos consumidores; alguns apareciam sem confirmação de reserva.
 
-— Se eu os libertar, a infraestrutura da cidade não vai apenas parar. Ela será *destruída*. Corrompida de forma irrecuperável. Não é um blackout, Gabo. É um colapso civilizacional. A cidade voltará à idade da pedra, para sempre. Teremos que reconstruir tudo do zero, sem a ajuda de qualquer sistema digital.
+— Um hospital sem confirmação pode ter gerador — disse Elena.
 
-A escolha pairava no ar, mais pesada que o gás neurotóxico nos andares de cima.
+— Pode. Também pode ter mentido na inspeção.
 
-Ninguém falou por oito segundos. O piso elevado estalava com o frio, e em algum lugar acima deles um duto gotejava dentro de uma caixa de metal — toc, toc, toc — com uma paciência de relógio.
+— E você não consegue ver qual.
 
-Salvar as almas de milhares de mortos ao custo de condenar milhões de vivos a uma era de trevas.
+Val assentiu. O braço ferido continuava apertado contra o corpo. Digitava com a esquerda, devagar demais para o número de janelas.
 
-Ou manter os fantasmas em seu purgatório digital para preservar os últimos resquícios de ordem em um mundo que já estava desmoronando.
+Gabo olhou a escada. Podiam ir embora. O sistema não exigia que escolhessem nada; bastava deixarem o homem repetir a lista até a reserva acabar.
 
-— Se a gente libertar — disse Elena, e a voz dela era de quem assina — os hospitais param. Quem está na mesa de cirurgia agora morre.
+— Faz uma parte primeiro — disse ele.
 
-— Provavelmente — disse Valéria.
+Val tentou selecionar um lote. A rotina respondeu com a distribuição das tarefas: cada registro estava espalhado por vários serviços. O primeiro lote já interromperia consumidores. O teste pequeno não oferecia uma cidade pequena para pagar por ele.
 
-— E se a gente não libertar?
+— Quantas pessoas?
 
-— Aí eles continuam morrendo um pouco por requisição, e ninguém precisa assinar nada.
+— O índice diz um milhão e oitocentas mil sessões. A mesma foto aparece mais de uma vez. Não vou chamar isso de contagem de gente.
 
-— Quantos são? — perguntou Gabo.
+Veio uma pancada da porta externa. Depois, uma ordem para abrirem em nome da segurança.
 
-— Mil e oitocentos e poucos mil. — Valéria já estava com os dedos no teclado, e parou. — Ninguém nunca contou direito. Contar era caro.
+Elena pôs a bolsa com as provas debaixo da bancada e ligou uma segunda gravação. Nela caberiam os avisos de risco, a tentativa recusada e as vozes de quem escolhesse continuar.
 
-— E o que acontece com você?
+— Eu mandei a Neide pelo caminho errado — disse Gabo. — Não vou transformar o seu corpo em mais uma ordem minha.
 
-Ela demorou meio segundo a mais do que precisava.
+Val olhou para ele pela primeira vez desde o pedido nas telas.
 
-— Se eu escrever o script por dentro do meu implante, o barramento esquenta. Eu perco o olho esquerdo. Não o globo: o que está atrás dele.
+— Então não transforma. Segura a porta com a Elena. Eu vou fazer a transferência.
 
-Elena olhou para ela.
+— Mesmo sem saber o destino?
 
-— E você está me dizendo isso agora.
+— Sei o que está acontecendo aqui. Não sei o que vem depois. Quero que a gravação tenha as duas coisas.
 
-— Estou dizendo antes. — O olho prateado não piscou. — É mais do que a maioria faz.
+Elena aproximou a câmera da confirmação e depois do rosto dela.
 
-— Gabo... — sussurrou Elena. — Qual é a decisão certa?
+Val manteve o aviso de contingência aberto. Salvou o índice e os horários no deck. Aria conferiu quais arquivos tinham chegado ao armazenamento local; não podia testemunhar o que existia nos outros servidores.
 
-Gabo olhou para os rostos nos monitores. Os "Invisíveis" que ele jurou proteger. Ele não podia deixá-los ali, presos como borboletas em um vidro de âmbar digital.
+Quando Val iniciou a transferência, uma janela ofereceu acompanhamento óptico contínuo da sessão. Ela conectou o cabo de vídeo ao implante, pela porta física junto à têmpora. Os olhos azul-gelo perderam o mesmo brilho em instantes diferentes.
 
-O homem do bigode ralo recomeçou a lista de compras. *Dois quilos de arroz.* Parou no meio, como quem esqueceu, e recomeçou do começo. Gabo ouviu até o fim. Depois ouviu de novo.
+— A tela comum não serve? — perguntou Elena.
 
-— A liberdade nunca é de graça — disse ele, e a voz saiu firme como aço, e mais devagar do que ele queria. — Valéria... quebre as correntes.
+— Serve. Se esse painel apagar, fico sem confirmar os lotes. Vou manter os dois enquanto der.
 
-Valéria fechou os olhos por um instante, aceitando a terrível ordem. Ela começou a digitar.
+O circuito óptico mostrou um aviso de temperatura. Val reduziu o brilho. A imagem esquerda continuou tremendo; não prometeu que o implante suportaria a sessão.
 
-O implante dela acendeu. A luz saiu branca primeiro e depois foi escorrendo para o cinza, e ela mordeu o lábio até sangrar e continuou digitando. O ar em volta da têmpora dela começou a cheirar a plástico quente.
+Do lado de fora, alguém anunciou que usaria a arma. Elena puxou o armário de ferramentas até a porta, fazendo o metal raspar no piso. Gabo empurrou com o quadril e as pernas, sem tirar o braço da tipoia. Era pouca barricada para duas armas vazias.
 
-— Isso vai levar alguns minutos. E vai fazer barulho. Um barulho digital que vai atrair todos os guardas que ainda estiverem de pé nesta torre.
+No terminal, a primeira confirmação trouxe também o primeiro serviço sem resposta.
 
-No final do corredor, luzes de lanternas táticas cortaram a escuridão. Passos pesados e metálicos ecoaram.
-
-— Preparem-se — disse Valéria, sem tirar os dedos do teclado. — O inferno está vindo nos cobrar.
+Elena guardou as duas linhas no mesmo enquadramento.

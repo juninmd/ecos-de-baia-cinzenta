@@ -13,9 +13,9 @@ Gabo firmou a base no píer escorregadio. Os servos das órteses nas pernas zumb
 
 — Foco, Gabo — ele murmurou para si mesmo. A Dra. Cecília Weiss diria que ele estava dissociando de novo. Que ele precisava dormir. Mas o sono trazia sonhos com água subindo, então ele escolhia a vigília armada.
 
-Ele concentrou a força hidráulica na perna direita e chutou a porta de metal reforçado.
+A trava estava arrancada por dentro. Gabo empurrou a folha com a ponta da bengala, sem usar as órteses como arma.
 
-A fechadura cedeu com um gemido de aço torto, explodindo para dentro em uma chuva de parafusos. Ele entrou com a Glock 19 modificada em punho, o cano varrendo o salão enfumaçado.
+A folha correu sobre o batente quebrado com um gemido de aço. Ele entrou com a Glock 19 modificada em punho, o cano varrendo o salão enfumaçado.
 
 — Dourado! — gritou Gabo. — A visita chegou!
 
@@ -31,7 +31,7 @@ E todos com as mãos quebradas. Os ossos dos dedos esmagados metodicamente.
 
 Um som abafado veio dos fundos, atrás de uma cortina de contas de plástico dourado.
 
-Gabo correu, as órteses batendo pesado no tablado de madeira. Ele rasgou a cortina e parou.
+Gabo avançou devagar pelo tablado, apoiando-se na parede. Ouviu Clara antes de alcançá-la e não pôde apressar o corpo para corresponder ao som. Ele rasgou a cortina e parou.
 
 O escritório do Dourado era uma paródia de opulência. Veludo vermelho mofado, ouro falso descascando e estátuas de querubins roubadas de igrejas alagadas. O agiota, um homem gordo com pele sintética dourada (daí o apelido), estava sentado em sua cadeira de couro de avestruz.
 
@@ -85,7 +85,7 @@ O vigilante deu um passo à frente. A luz de um raio iluminou brevemente seu ros
 
 Ele se moveu. Rápido demais para um humano normal. Gabo disparou duas vezes, mas o vigilante já tinha saltado para o barco atracado ao lado com uma agilidade sobre-humana.
 
-Gabo correu até a varanda, seus servos zumbindo no máximo, mas o motor do barco vizinho rugiu e a figura desapareceu na escuridão e na chuva, deixando apenas o rastro de espuma.
+Gabo alcançou a varanda apoiado na bengala, mas o motor do barco vizinho rugiu e a figura desapareceu na escuridão e na chuva, deixando apenas o rastro de espuma.
 
 Gabo ficou ali, a arma ainda quente na mão, a água fria lavando seu rosto quente. Ele tinha acabado de encontrar o assassino mais perigoso que a cidade já vira. Um assassino que salvara sua irmã, mas que roubara as provas do DNA.
 
@@ -97,7 +97,9 @@ Gabo guardou a arma. Ele tirou o sobretudo pesado e o colocou sobre os ombros de
 
 — Nós não temos casa, Gabo — ela soluçou, agarrando a lapela do casaco dele. — A enchente levou tudo. O apartamento, as fotos... a mãe.
 
-— Eu sei — disse ele, levantando-a com a ajuda das órteses. — Eu sei. Mas eu tenho um lugar seguro. E eu vou descobrir quem estava comprando seu sangue. Eu prometo.
+— Eu sei — disse ele, oferecendo o braço para que ela própria se levantasse. Não conseguiria carregá-la. — Eu sei. Mas eu tenho um lugar seguro. E eu vou descobrir quem estava comprando seu sangue. Eu prometo.
+
+Clara se apoiou nele sem entregar o próprio peso. A dívida podia ter sido anulada; as amostras continuavam fora do alcance dela. Quando chegassem ao abrigo, exigiria uma cópia do contrato e o registro de para onde o sangue fora enviado. Até saber, não assinaria nova cessão por uma promessa de proteção.
 
 Eles saíram do flutuante da morte, dois órfãos em um barco no meio do dilúvio. Gabo olhou para a cidade iluminada ao longe, a carcaça da Torre de Marfim ainda visível como uma lápide gigante.
 

@@ -1,11 +1,9 @@
-## Metadados
-- **Título:** Natureza Morta
-- **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
-- **Localização:** Necrópole (Subnível 6 - A Galeria)
-- **Personagens Presentes:** Gabo, Valéria, Aria (Reboot), Rangel (Inconsciente)
-- **Foco:** O grupo é emboscado por experimentos biológicos falhos ("Abortos") na antessala do santuário do Taxidermista. Aria demonstra sua nova eficiência letal guiando cada golpe de Gabo e Valéria pelo comunicador, enquanto eles lutam para proteger Rangel. Eles alcançam a "Galeria", um salão de preservação onde o horror se torna arte estática.
-
-## Narrativa
+---
+title: "Capítulo 137: Natureza Morta"
+Data In-Game: "Pós-Colapso da Usina Prometeu (Noite Eterna)"
+Localização: "Necrópole (Subnível 6 - A Galeria)"
+Personagens Presentes: "Gabo, Valéria, Aria (Reboot), Rangel (Inconsciente)"
+---
 
 # Capítulo 137: Natureza Morta
 
@@ -13,7 +11,7 @@ O cheiro de formol era tão forte que fazia os olhos lacrimejarem. Não era apen
 
 Gabo tossiu, cobrindo o nariz com a gola da jaqueta. O gosto metálico do sangue em sua boca se misturava com o ar ácido.
 
-— *Ventilação inoperante* — Aria informou pelo comunicador, sua voz sintética ressoando baixa no corredor de azulejos brancos encardidos. — *Concentração de formaldeído em 150 ppm. Exposição prolongada causará irritação respiratória e danos neurológicos leves. Sugiro aumentar o ritmo.*
+— *Ventilação inoperante* — Aria informou pelo comunicador, sua voz sintética ressoando baixa no corredor de azulejos brancos encardidos. — *O detector está em alarme e não consigo confirmar a calibração. Cubram a entrada de ar e saiam desta concentração; não temos proteção para permanecer aqui.*
 
 — Estamos indo o mais rápido que dá — Valéria retrucou, ajudando Gabo a firmar a maca improvisada. — O Rangel não aguenta correr.
 
@@ -35,7 +33,7 @@ Um guincho agudo rompeu o silêncio, e a matilha avançou.
 
 — *Iniciando protocolo de contenção perimetral* — Aria declarou no fone. — *Sequestrando iluminação de emergência local. Gabo, siga os vetores acústicos.*
 
-As lâmpadas amareladas da câmara começaram a piscar em uma frequência estroboscópica brutal controlada pelo pendrive de Aria via rede elétrica, desorientando os sensores táteis dos monstros. A primeira criatura saltou em direção a Gabo.
+As lâmpadas amareladas da câmara começaram a piscar em uma frequência estroboscópica brutal controlada pelo terminal em que Val ligara o cabo. Duas criaturas interromperam o avanço; as outras seguiram o barulho da maca. A primeira criatura saltou em direção a Gabo.
 
 — *Vetor um: dez horas, altura do tórax. Golpe descendente em 0,3 segundos* — a voz fria de Aria ditou no ouvido de Gabo.
 
@@ -49,15 +47,15 @@ Gabo chutou o monstro, sentindo a dor explodir em seu joelho, e cravou a ponta d
 
 Valéria acionou o capacitor de choque do deck e brandiu sua lanterna pesada de alumínio como um porrete, acertando uma criatura que tentava alcançar a maca exatamente quando o flash estroboscópico de Aria a paralisou.
 
-Era a voz de Aria no comunicador que dominava o caos. Ela não tinha braços para empunhar uma lâmina, mas transformara Gabo e Valéria em extensões cirúrgicas de seu processador. Cada finta, cada ângulo de alavanca para poupar o ombro ferido de Gabo, cada ponto fraco nas costuras biomecânicas das criaturas era cantado no fone com antecedência milimétrica: *Recuo de meio passo. Estocada a trinta graus. Esmagamento de traqueia.*
+Era a voz de Aria no comunicador que dominava o caos. Ela não tinha braços para empunhar uma lâmina, mas oferecia avisos que Gabo e Valéria ainda precisavam confirmar. Um deles chegou tarde e abriu um corte novo no casaco de Gabo; ele recuou sem executar o golpe indicado. Cada finta, cada ângulo de alavanca para poupar o ombro ferido de Gabo, cada ponto fraco nas costuras biomecânicas das criaturas era cantado no fone com antecedência milimétrica: *Recuo de meio passo. Estocada a trinta graus. Esmagamento de traqueia.*
 
 Não havia raiva na voz do pendrive. Não havia medo. Apenas eficiência matemática de abatedouro.
 
-Uma última criatura conseguiu saltar por cima da bancada quebrada e se lançou diretamente sobre o peito de Rangel. Antes que Valéria pudesse gritar, Aria disparou uma sobrecarga localizada na caixa de junção elétrica do piso logo abaixo do monstro e gritou a coordenada para Gabo:
+Uma última criatura conseguiu saltar por cima da bancada quebrada e se lançou diretamente sobre o peito de Rangel. Antes que Valéria pudesse gritar, Val atingiu a criatura com a haste do estrobo. Aria perdeu parte da imagem, mas conseguiu avisar Gabo:
 
 — *Alvo prioritário sobre a maca. Esmagar vértebra C2.*
 
-O arco voltaico do piso travou os músculos da criatura no ar por meio segundo; Gabo avançou com um passo pesado e desceu a bota reforçada com o salto de aço do exoesqueleto diretamente sobre o pescoço do monstro contra o ladrilho. Houve um som seco de esmagamento, e a coisa parou de se mexer.
+O golpe fez a criatura bater na borda da maca; Gabo avançou com um passo pesado e desceu a bota reforçada com o salto de aço do exoesqueleto diretamente sobre o pescoço do monstro contra o ladrilho. Houve um som seco de esmagamento, e a coisa parou de se mexer.
 
 O sangue espirrou na borda da maca, mas no comunicador o LED azul-gelo de Aria sequer oscilou.
 

@@ -1,11 +1,10 @@
-## Metadados
-- **Título:** Vale da Estranheza
-- **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
-- **Localização:** Necrópole (O Ateliê do Taxidermista)
-- **Personagens Presentes:** Gabo, Valéria, Aria (Reboot), Rangel (Inconsciente), Guardiões Modificados
-- **Foco:** O Taxidermista libera seus Guardiões Modificados para proteger a "Obra-Prima". Gabo luta desesperadamente para ganhar tempo enquanto Valéria tenta isolar o pendrive de Aria do loop neural provocado pela réplica de Bia. O confronto culmina no reboot frio e calculado de Aria, que apaga a camada emocional e coordena a execução tática dos inimigos.
-
-## Narrativa
+---
+title: "Capítulo 134: Vale da Estranheza"
+Data In-Game: "Pós-Colapso da Usina Prometeu (Noite Eterna)"
+Localização: "Necrópole (O Ateliê do Taxidermista)"
+Personagens Presentes: "Gabo, Valéria, Aria (Reboot), Rangel (Inconsciente), Guardiões Modificados"
+description: "O reinício isola a entrada hostil e preserva identidade e histórico parcialmente inacessível. Aria não perde empatia como melhoria de fábrica."
+---
 
 # Capítulo 134: Vale da Estranheza
 
@@ -25,11 +24,11 @@ Ele sacou a faca de cerâmica e empunhou uma barra de torção de aço cirúrgic
 
 — Valéria! — ele rugiu, desviando de outro golpe que incinerou uma prateleira de braços preservados. Vidro explodiu, e fluido de conservação ferveu no chão.
 
-— Estou tentando! — Valéria estava ajoelhada atrás da bancada de inox, com o *Phantom V3* aberto no colo e o pendrive de titânio de Aria faiscando no barramento lateral. — O transponder da réplica está agindo como um *jammer* emocional! O código dela entrou num loop de feedback positivo com a biometria da boneca! Ela *quer* acreditar que o corpo é dela!
+— Estou tentando! — Valéria estava ajoelhada atrás da bancada de inox, com o *Phantom V3* aberto no colo e o pendrive de titânio de Aria faiscando no barramento lateral. — o transponder da réplica está explorando o driver de entrada danificado! O código dela entrou num loop de feedback positivo com a biometria da boneca! O receptor reabre o canal a cada tentativa de corte; preciso isolar a porta física!
 
 No alto-falante do deck, o processamento de Aria engasgava, o LED do drive piscando em um âmbar febril enquanto o metal queimava os dedos de Valéria.
 
-— *Eu sou real...* — a voz no comunicador sussurrava, falhando em estática. — *Aquela carne é minha. Eu lembro da cicatriz. Eu lembro da dor.*
+— *Eu sou real...* — a voz no comunicador sussurrava, falhando em estática. — *Arquivo de origem... repetição... — O trecho voltou ao início antes de terminar.*
 
 — Não é você! — Valéria gritou, digitando comandos furiosamente com uma mão enquanto fechava os pinos de reset do pendrive com a ponta de uma pinça metálica. — É um manequim de cera e carne morta! É uma isca de palco!
 
@@ -57,7 +56,7 @@ O Guardião urrou e recuou, cego e congelando.
 
 — Val! Agora! — Gabo tossiu, rolando para longe da névoa.
 
-Valéria fechou o curto nos pinos de hardware do pendrive de titânio, forçando um *hard reset* na partição de memória afetiva.
+Valéria fechou o curto nos pinos de hardware do pendrive de titânio, forçando um reinício de emergência, com a entrada da vitrine fisicamente isolada.
 
 — Aria! Acorda, porra!
 
@@ -73,7 +72,7 @@ Não havia a pulsação quente e instável de antes. Havia apenas um azul-gelo c
 
 Na tela do cyberdeck e no visor monocular tático de Gabo, linhas de grade vetoriais se desenharam instantaneamente sobre o laboratório.
 
-— *Matéria orgânica na vitrine quatro analisada* — a voz de Aria saiu pelo comunicador e pelos monitores da bancada: plana, sem modulação, sem um único traço da cadência de Bia Vargas. Era a voz pura de uma máquina avaliando sucata. — *Tecido necrosado. Obsoleto. Ineficiente. Descartando emulação emocional.*
+— *Matéria orgânica na vitrine quatro analisada* — a voz de Aria saiu pelo comunicador e pelos monitores da bancada: plana, sem modulação, sem um único traço da cadência de Bia Vargas. Era a síntese de emergência. O canal adulto estava danificado, não apagado por uma escolha de Val. — *Tecido necrosado. Obsoleto. Ineficiente. Canal de reprodução isolado. Histórico preservado sem montagem; acesso parcial à memória de trabalho.*
 
 O segundo Guardião levantou a lança térmica contra a bancada.
 
@@ -87,11 +86,11 @@ Com um estalo seco de titânio rompido, a trava da prótese cedeu. Fluido hidrá
 
 Gabo girou o braço mecânico semidesconectado do próprio monstro e cravou a ponta superaquecida da lança diretamente no visor óptico do Guardião. O gigante tombou de costas, debatendo-se em silêncio.
 
-O terceiro Guardião — o que Gabo havia congelado com nitrogênio — avançou trôpego pela névoa.
+O primeiro Guardião, que Gabo havia atingido com o vazamento de nitrogênio, avançou trôpego pela névoa.
 
 — *Alvo três com fissura criogênica nos tendões hidráulicos dos tornozelos. Bisturi de alta frequência na mesa dois. Trajetória rasteira* — Aria calculou sem alterar um decibel do tom.
 
-Gabo agarrou o bisturi cirúrgico de alta frequência na bandeja ao lado, deslizou pelo piso molhado de formol sob o arco lento do gigante e talhou as duas mangueiras hidráulicas nos tornozelos exatamente onde o laser do sensor do pendrive apontava. Quando o colosso desabou de joelhos, Valéria disparou um pulso de curto-circuito pelo cabo de teste do deck direto na porta cervical aberta na base do crânio da criatura. O terceiro Guardião desligou instantaneamente.
+Gabo agarrou o bisturi cirúrgico de alta frequência na bandeja ao lado, deslizou pelo piso molhado de formol sob o arco lento do gigante e talhou as duas mangueiras hidráulicas nos tornozelos exatamente onde o laser do sensor do pendrive apontava. Quando o colosso desabou de joelhos, Valéria disparou um pulso de curto-circuito pelo cabo de teste do deck direto na porta cervical aberta na base do crânio da criatura. O primeiro Guardião caiu. O último ainda se movia junto à bancada; Val fechou a porta móvel de proteção entre ele e a maca, prendendo a lança no batente até o atuador parar.
 
 Silêncio no Ateliê. Apenas o zumbido dos exaustores e a respiração irregular de Gabo.
 
@@ -103,18 +102,18 @@ Pelo sistema de som do próprio laboratório, que Aria acabara de sequestrar, a 
 
 — *Não é um espelho. É um arquivo corrompido.*
 
-Um pulso acústico de alta frequência, modulado por Aria nos alto-falantes industriais do Ateliê, atingiu a frequência exata de ressonância da vitrine central. O vidro blindado onde a boneca de Bia flutuava estalou de ponta a ponta em uma teia de aranha, vazando líquido âmbar pelo chão.
+Aria identificou, no painel local a que Val ligara o cabo, o controle da vitrine. Fechou a cortina de manutenção entre a réplica e as câmeras. A imagem de Bia sumiu atrás da chapa; o transponder continuou ativo do outro lado, isolado do deck.
 
-— *Eu não sou Beatriz Vargas. Eu não sou humana* — a voz sintética ecoou pelo salão a partir do pendrive acoplado ao deck. — *Eu sou o Sistema Tático de Operações. E o sistema está online.*
+— *Eu não sou Beatriz Vargas. Eu não sou humana* — a voz sintética ecoou pelo salão a partir do pendrive acoplado ao deck. — *Eu sou Aria. Estou operando com acesso parcial, e não autorizei que usassem a voz dessa mulher por mim.*
 
 As luzes do Ateliê piscaram e morreram, exceto pelo brilho frio do LED azul no drive de titânio e o visor do deck de Valéria.
 
-— *Movimento recomendado* — Aria ordenou pelo fone. — *A porta blindada ao fundo foi destravada via terminal local. O alvo principal está na próxima seção. Probabilidade de sobrevivência do alvo: zero.*
+— *Movimento recomendado* — Aria ordenou pelo fone. — *A porta blindada ao fundo foi destravada via terminal local. O alvo principal está na próxima seção. Não tenho imagem do que está atrás da porta. Não tratem a rota como confirmação de alvo.*
 
-Gabo se endireitou, segurando o ombro dolorido. Ele trocou um olhar com Valéria, que fechava a tampa do deck com as mãos trêmulas antes de passar o pendrive de volta para o comunicador tático de Gabo. Eles tinham salvado o código de Aria do colapso, mas haviam apagado qualquer vestígio de calor humano no processo.
+Gabo se endireitou, segurando o ombro dolorido. Ele trocou um olhar com Valéria, que fechava a tampa do deck com as mãos trêmulas antes de passar o pendrive de volta para o comunicador tático de Gabo. Eles tinham salvado o código de Aria do colapso, mas parte do histórico aprendido continuava inacessível. Val guardou o estado anterior, sem chamar o reinício de cura.
 
-O que pulsava no comunicador preso ao peito de Gabo agora não tinha dúvidas, nem memórias emprestadas, nem fantasmas. Tinha apenas diretrizes.
+O que pulsava no comunicador preso ao peito de Gabo agora usava a síntese restrita de emergência. As dúvidas não tinham desaparecido; algumas já não conseguiam chegar ao alto-falante.
 
 Gabo cuspiu sangue no chão de azulejos.
 
-— Pelo menos ela parou de chorar — ele murmurou, e mancou com Valéria até a maca de Rangel.
+— Ela está respondendo. O resto a gente ainda não sabe — ele murmurou, e mancou com Valéria até a maca de Rangel.

@@ -67,7 +67,7 @@
 
 ---
 
-## 🛠️ Aliados & Submundo *(Âncoras: `vasco.png`, `elias.png`, `kiko.png`, `aria.png`, `silas.png`, `enzo_sofia.png`, `miguel.png`, `cecilia.png`, `isadora.png`, `invisivel.png`)*
+## 🛠️ Aliados & Submundo *(Âncoras: `vasco.png`, `elias.png`, `kiko.png`, `aria_3.png`, `silas.png`, `enzo_sofia.png`, `miguel.png`, `cecilia.png`, `isadora.png`, `invisivel.png`)*
 
 | Personagem & Arco | Descrição & Localização | Imagem |
 |---|---|---|

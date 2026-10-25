@@ -1,20 +1,17 @@
-# Análise do Capítulo 198: A Marcha Fúnebre
+# Revisão de Capítulo 198: A Marcha Fúnebre
 
-## Avaliação Técnica
-- **Ritmo (Pacing):** 9/10 - O ritmo cadenciado da caminhada fúnebre constrói bem a tensão no cenário degradado.
-- **Diálogos:** 9/10 - A dinâmica funciona muito bem. Gabo cínico e bruto, Elias apavorado, Valéria analítica e fria em Safe Mode.
-- **Atmosfera:** 10/10 - Escuridão do túnel, cheiro de ozônio e esgoto, e as raízes bioluminescentes do Jardim criam um ambiente pesado e imersivo de terror biológico.
+Fonte: [capítulo 198](/capitulo-198.md).
 
-## Pontos Fortes / Pontos Fracos
-- **Pontos Fortes:** A utilização das limitações corporais. A necessidade orgânica da dor física de Gabo contrastando com a incubação nojenta e biomecânica do Jardim enriquece o lore do mundo, e cimenta a essência da sobrevivência cyberpunk: puramente mecânica e brutal.
-- **Pontos Fracos:** O avanço é contido, focando na introdução de uma nova ameaça, o que poderia tornar a ação mais passiva até a queda de Gabo, embora se encaixe na proposta.
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-## Sanity Check (Lore)
-- **Fobia de Fumaça (Gabo):** O lore é rigorosamente respeitado. A fumaça é tratada como um gatilho fantasma asfixiante que Gabo ativamente anula causando dor a si próprio (arrancando unhas do ombro ferido; queda brusca da perna mecânica).
-- **Próteses e Limitações:** A limitação dos sistemas mecânicos do próprio personagem dita sua queda acidental frente à exaustão física que as próteses causam à anatomia danificada.
-- **Valéria:** Correta. Opera em Safe Mode desprovida de empatia, sugerindo descartar Elias por ineficiência.
+## Passagens de entrada e saída
 
-## Avaliação Qualitativa
-- **Qualidade da História:** Excelente transição que conecta o terror somático ao avanço para o objetivo final (Setor 6).
-- **Coerência dos Personagens:** Todos agem de acordo com suas configurações estabelecidas (biológicas ou artificiais).
-- **Necessidade de Novos Personagens:** O capítulo é estritamente de atmosfera e obstáculo. Não precisa de personagens adicionais.
+> Os setecentos metros restantes até o Poço de Elevação Três eram uma marcha lenta sob a abóbada fria das catacumbas do Setor 6. O eco do desabamento da ponte atrás de nós ainda reverberava pelas galerias de concreto, transformando o silêncio em uma contagem regressiva tensa.
+
+### Saída
+
+> — Dá cobertura, Moretti! Essa coisa é rápida pra caramba!
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

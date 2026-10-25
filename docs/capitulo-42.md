@@ -9,13 +9,12 @@ Localização: "Delegacia Central do Setor 4, segundo dia de chuva"
 
 # Capítulo 42: O Campo de Refugiados
 
-**Delegacia Central do Setor 4, segundo dia de chuva.**
-
+Delegacia Central do Setor 4, segundo dia de chuva.
 A Delegacia Central não era mais um prédio da lei.
 
 Era um barco salva-vidas de concreto, e como todo barco salva-vidas tinha um problema aritmético que ninguém queria formular em voz alta.
 
-O saguão estava coberto de colchões, papelão e cobertor de doação. Famílias inteiras ocupavam os corredores em faixas territoriais definidas por mochilas e sacolas de mercado. As celas — que a lei mandava manter destrancadas para presos e que ninguém mais chamava de celas — estavam com nove, doze, catorze pessoas cada uma, e eram as vagas mais disputadas do prédio, porque tinham porta.
+O saguão estava coberto de colchões, papelão e cobertor de doação. Famílias inteiras ocupavam os corredores em faixas territoriais definidas por mochilas e sacolas de mercado. As celas — esvaziadas e mantidas abertas para abrigar famílias — estavam com nove, doze, catorze pessoas cada uma, e eram as vagas mais disputadas do prédio, porque tinham porta.
 
 O cheiro batia na cara de quem entrava.
 
@@ -25,7 +24,7 @@ banheiro entupido.
 
 Trinta e duas horas de enchente. Quatro vasos sanitários para trezentas e sete pessoas. A rede de esgoto tinha parado de aceitar qualquer coisa desde a segunda-feira, porque a rede de esgoto agora era parte do mar.
 
-Gabo entrou mancando pela porta dos fundos, com uma caixa de suprimentos no ombro bom e o joelho protestando a cada degrau, e a primeira coisa que fez foi contar as pessoas do corredor por hábito profissional, e a segunda foi parar de contar.
+Empurraram a cadeira de Gabo pela rampa dos fundos, com uma caixa de suprimentos sob o assento, e a primeira coisa que fez foi contar as pessoas do corredor por hábito profissional, e a segunda foi parar de contar.
 
 ---
 
@@ -37,15 +36,15 @@ Ela usava uma braçadeira vermelha feita de um pedaço de bandeira do time do ba
 
 Ela viu Gabo e desceu da mesa.
 
-Vinte e oito anos e três noites sem dormir. Os olhos dela estavam com aquele brilho errado que Gabo já tinha visto em bombeiro no fim de plantão longo.
+Trinta e três anos e duas noites mal dormidas. Os olhos dela estavam com aquele brilho errado que Gabo já tinha visto em bombeiro no fim de plantão longo.
 
 — Como está lá fora?
 
-— Pior. — Ele largou a caixa. — A água chegou no Nível 15. A Zona Industrial já era. O viaduto da Norte caiu às sete da manhã com gente em cima.
+— Pior. — Indicou a caixa sob a cadeira. — A água chegou no Nível 15. A Zona Industrial já era. O viaduto da Norte caiu às sete da manhã com gente em cima.
 
 — Quantos?
 
-— Não dá para saber. — Ele se sentou na beira da escrivaninha porque a perna pediu. — E não vai dar nunca. É esse o número que ninguém vai escrever em lugar nenhum.
+— Não dá para saber. — Ajustou a perna sobre o apoio da cadeira. — E não vai dar nunca. É esse o número que ninguém vai escrever em lugar nenhum.
 
 Elena esfregou a cara com as duas mãos.
 
@@ -81,7 +80,7 @@ Clara subiu do porão com o rosto duro e uma lista na mão.
 
 Gabo olhou para a irmã. Dezoito anos, mãos rachadas de água sanitária, e absolutamente nenhum tremor.
 
-Ele desceu para a escadaria.
+Pediu que levassem a cadeira até o patamar da entrada.
 
 ---
 
@@ -121,7 +120,7 @@ Valéria apareceu às sete e vinte com um tablet de tela rachada e uma expressã
 
 — Morrer envenenado.
 
-Ela virou a tela. Uma malha de pontos verdes espalhados pelo mapa do Distrito Baixo — a rede *mesh* de sensores caseiros que os moradores instalaram por conta própria depois do escândalo do ar, em quarenta e três. Metade dos pontos estava morta. A outra metade estava vermelha.
+Ela virou a tela. Uma malha de pontos verdes espalhados pelo mapa do Distrito Baixo — a rede *mesh* de sensores caseiros que os moradores instalaram por conta própria depois do escândalo do ar, em quarenta e três. O receptor local a bateria trouxera as leituras. Metade dos pontos não respondia; os restantes indicavam valores fora da faixa, alguns com calibração vencida.
 
 Não vermelho de alerta. Vermelho saturado, o vermelho que um sensor mostra quando a leitura passou do fim da escala e ele não tem mais números.
 
@@ -129,13 +128,13 @@ Não vermelho de alerta. Vermelho saturado, o vermelho que um sensor mostra quan
 
 — A água da enchente — disse Elena.
 
-— A água da enchente passou por cima dos depósitos do subsolo industrial. Lavou tudo. — Val engoliu. — Gabo, essa água não é água suja. É rejeito diluído. Quem beber morre, e não morre daqui a dez anos de câncer. Morre em horas.
+— A água da enchente passou por cima dos depósitos do subsolo industrial. Lavou tudo. — Val engoliu. — Gabo, essa água não é água suja. É rejeito diluído. Não dá para estimar a dose por esse mapa. Mas não podemos tratar essa água como potável, nem prometer segurança com sensores sem calibração.
 
 Gabo se virou devagar para a janela do corredor leste.
 
 Lá embaixo, no pátio interno da delegacia, estavam as lonas azuis que eles tinham esticado entre os postes no primeiro dia. A ideia tinha sido dele. Foi a única ideia boa que ele teve em três dias: coletar água de chuva, porque a da torneira já não vinha e a do rio ninguém ia beber.
 
-A chuva escorria pelas lonas e caía em vinte e dois baldes.
+A chuva escorria pelas lonas e caía em vinte e dois baldes. Os recipientes tinham sido retirados do pátio depois de o refluxo da enchente alcançá-los. Uma marca marrom passava pelo plástico por dentro. Na urgência, tinham lavado alguns apenas com a água disponível, sem testar o conteúdo antes da distribuição.
 
 E, na fila dos baldes, com as canecas na mão, aguardando a vez com aquela paciência mansa que a fome ensina em quarenta e oito horas, estavam as famílias do segundo andar.
 
@@ -143,4 +142,4 @@ Entre elas, uma menina pequena com um casaco amarelo grande demais, segurando a 
 
 — Merda — disse Gabo.
 
-E começou a correr, com o joelho quebrado, pelo corredor de trezentas e sete pessoas, sabendo, antes de chegar à escada, que estava chegando tarde.
+Gritou para suspenderem a distribuição. Elena correu até os baldes enquanto um voluntário empurrava sua cadeira. A primeira caneca já voltava vazia.

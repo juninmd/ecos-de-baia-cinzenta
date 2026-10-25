@@ -5,17 +5,16 @@ Localização: "Superfície - Acesso de Manutenção Sul"
 ---
 # Capítulo 104: O Preço da Alvorada
 
-**Superfície - Acesso de Manutenção Sul**
-
+Superfície - Acesso de Manutenção Sul
 O primeiro sinal do mundo exterior não foi a luz, mas o cheiro.
 
 Depois de horas respirando o ar reciclado, metálico e adocicado de sangue do Berçário, o fedor de ozônio, lixo molhado e maresia de Baía Cinzenta parecia perfume.
 
-Gabo emergiu do bueiro de manutenção, puxando-se com os braços. Suas pernas, presas nas órteses danificadas, eram peso morto. O motor do joelho direito gemia e soltava faíscas a cada movimento, um protesto mecânico contra a violência que havia sofrido nas mãos de Roberto Miranda.
+Gabo emergiu do bueiro de manutenção, puxando-se com os braços. Suas pernas, presas nas órteses danificadas, eram peso morto. A trava do joelho direito gemia e prendia a cinta a cada movimento, um protesto mecânico contra a violência que havia sofrido nas mãos de Roberto Miranda.
 
 Ele rolou para o asfalto úmido, ofegante. O céu acima era de um cinza chumbo, clareando lentamente no leste. A alvorada estava chegando, uma mancha pálida tentando perfurar a camada eterna de poluição.
 
-Ficou de barriga para cima por três segundos, o tempo de o corpo decidir se ainda servia. O joelho direito soltou uma faísca e um cheiro de plástico queimado. Havia um corte no antebraço que ele não lembrava de ter feito, e a manga em volta estava rígida de sangue seco. Lá em cima, o céu tinha a cor de água de lavar louça.
+Ficou de barriga para cima por três segundos, o tempo de o corpo decidir se ainda servia. O joelho direito estalou e a cinta plástica rasgou mais um pouco. Havia um corte no antebraço que ele não lembrava de ter feito, e a manga em volta estava rígida de sangue seco. Lá em cima, o céu tinha a cor de água de lavar louça.
 
 — Gabo? — A voz de Elena veio de baixo.
 
@@ -23,7 +22,7 @@ Ele se virou e estendeu a mão. Elena subiu, o rosto manchado de graxa e poeira,
 
 E então, o terceiro.
 
-Não houve esforço. Nenhuma respiração pesada. A figura simplesmente flutuou para fora da escuridão do túnel, impulsionada por uma força física que parecia contradizer a gravidade.
+Não houve esforço. Nenhuma respiração pesada. A figura escalou os apoios da escada sem pausa aparente, usando braços e pernas numa sequência rápida demais para parecer humana.
 
 Dante Moretti pisou no asfalto.
 
@@ -65,7 +64,7 @@ Dante sorriu. Não foi o sorriso caloroso que Gabo via nas fotos antigas. Foi um
 
 Dante baixou os olhos para as pernas de Gabo, para o ângulo errado do joelho, e a expressão dele passou para algo parecido com atenção.
 
-— O servo direito está com o eixo empenado. Você tem quarenta minutos de marcha antes de a bucha fundir. Depois disso o peso da órtese arranca o parafuso. — Ele estendeu dois dedos, como quem pede uma ferramenta. — Eu conserto em quatro minutos. Sem anestesia, mas sem dor desnecessária.
+— A dobradiça direita está empenada. Se continuar andando, a cinta pode abrir e derrubar você. — Ele estendeu dois dedos, como quem pede uma ferramenta. — Eu conserto em quatro minutos. Sem anestesia, mas sem dor desnecessária.
 
 — Não encosta em mim.
 
@@ -85,23 +84,19 @@ Inspetor Rangel saiu do primeiro veículo, a barriga forçando os botões da cam
 
 — Somos nós, Rangel! — gritou Elena, levantando as mãos vazias.
 
-Rangel baixou a arma, soltando um suspiro que balançou seu bigode.
+Rangel baixou a arma, soltando um suspiro. O palito caiu do canto da boca e ele não tentou pegar.
 
 — Puta que pariu, vocês parecem que foram mastigados e cuspidos pelo diabo. O que aconteceu lá embaixo? O sismógrafo na delegacia registrou um abalo nível 4 na Zona Sul...
 
-A voz de Rangel morreu na garganta.
+A voz de Rangel morreu na garganta. Dante deu um passo à frente, entrando no feixe de luz dos faróis.
 
-Dante deu um passo à frente, entrando no feixe de luz dos faróis.
-
-Os recrutas recuaram. Silva deixou a lanterna cair.
-
-Rangel ficou pálido, a cor drenando de seu rosto redondo até deixá-lo com a aparência de cera velha.
+Os recrutas recuaram. Silva deixou a lanterna cair. Rangel ficou pálido, a cor drenando de seu rosto redondo até deixá-lo com a aparência de cera velha.
 
 — Co... Comissário? — sussurrou Rangel. — Mas... nós enterramos você. Eu carreguei o caixão.
 
 Dante inclinou a cabeça.
 
-— Inspetor Rangel. Seu nível de cortisol está elevado. Recomendo respirar fundo. E vejo que ainda não consertou o vazamento de óleo na viatura 04. Posso ouvir a válvula batendo daqui.
+— Inspetor Rangel. O senhor está tremendo. Recomendo respirar fundo. E vejo que ainda não consertou o vazamento de óleo na viatura 04. Posso ouvir a válvula batendo daqui.
 
 Rangel deu um passo para trás, esbarrando no capô do carro.
 

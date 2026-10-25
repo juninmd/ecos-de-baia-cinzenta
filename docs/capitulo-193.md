@@ -47,7 +47,7 @@ O homem arregalou os olhos num choque absoluto.
 
 — Explodiram? O data-center inteiro? — ele deu um passo trêmulo para fora da barricada, a chave sônica pendendo inútil ao lado do quadril. — Eu... eu senti o chão tremer há dez minutos. Pensei que as caldeiras da cidade tinham arrebentado de vez. Eu tava monitorando os picos de energia pelo osciloscópio desse painel...
 
-— A colônia foi destruída, amigo — Valéria se aproximou da barricada, inspecionando o reator portátil que mantinha a lâmpada acesa com curiosidade genuína. — Agora guarda essa chave antes que você se machuque e diz como é o seu nome.
+— O núcleo que alcançamos parou, amigo. Não vou prometer que o resto do subsolo ficou limpo — Valéria se aproximou da barricada, inspecionando o reator portátil que mantinha a lâmpada acesa com curiosidade genuína. — Agora guarda essa chave antes que você se machuque e diz como é o seu nome.
 
 O sujeito soltou o ar num longo suspiro trêmulo, passando a manga suja pelo nariz escorrendo.
 

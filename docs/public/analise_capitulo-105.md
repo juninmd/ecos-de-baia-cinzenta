@@ -1,18 +1,18 @@
-# Análise Crítica - Capítulo 105: O Silêncio de Concreto
+# Revisão de Capítulo 105: O Silêncio de Concreto
 
-## Avaliação Técnica
-- **Pacing (Ritmo):** 8/10 - Uma continuação focada nas repercussões do retorno de Dante e no estabelecimento do novo "reinado" digital.
-- **Dialogues (Diálogos):** 9/10 - O contraste entre o "novo Dante" hiper-racional/frio e os humanos falhos da delegacia é fascinante. O embate com Vilar é excelente.
-- **Atmosphere (Atmosfera):** 9/10 - A energia de uma inteligência artificial retomando o controle físico do ambiente resgata a pegada *cyberpunk* de raiz, mesclando ao corpo *biopunk*.
+Fonte: [capítulo 105](/capitulo-105.md).
 
-## Pontos Fortes e Fracos
-- **Pontos Fortes:** O retorno de Valéria de seu "casulo" quebra a série de desesperanças e reaquece a dinâmica central do trio. A frase "Nós não o trouxemos de volta... Nós o ligamos na tomada" define a magnitude do erro cometido por Gabo e Elena perfeitamente.
-- **Pontos Fracos:** A magia tecnológica de Dante ("Luzes se estabilizaram", "Máquina de escrever começou a digitar sozinha") beira o sobrenatural, ainda que seja justificado como controle de infraestrutura.
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-## Sanity Check (Lore Compliance)
-- **Regras do Lore:** A fobia à fumaça permanece perfeitamente inativa em Gabo, que mantém seus tiques de nervosismo (tamborilar no volante/coldre) no lugar de vícios. O estado das órteses é repetidamente enfatizado como problemático ("rangeu e travou, enviando uma pontada de dor", "ignorar a ajuda e forçando o corpo... gemido abafado"). O personagem continua limitado fisicamente pelo trauma do quadril.
+## Passagens de entrada e saída
 
-## Avaliação Qualitativa
-- **Qualidade da História:** Excelente. O capítulo prepara o palco para a verdadeira disputa final: A humanidade caótica versus a Ordem Absoluta imposta por uma máquina no corpo do herói mártir da cidade.
-- **Coerência de Personagens:** Vilar perdendo o chão é uma reação crível para o velho policial.
-- **Necessidade de Novos Personagens:** O retorno de Valéria retira a necessidade de um novo hacker ou aliado para a resistência.
+> Delegacia da Biblioteca - Zona Neutra
+> O Cobalt esperava onde Gabo o tinha deixado, duas quadras acima do bueiro. A viagem de volta foi um borrão de silêncio. Dante dispensara a viatura na primeira esquina — desceu do carro de Rangel sem uma palavra de explicação, entrou e sentou-se atrás, como quem volta para casa. Gabo dirigia com o motor engasgando a cada quilômetro, como se o próprio carro sentisse o peso do passageiro no banco de trás.
+
+### Saída
+
+> Val fechou os olhos, a respiração estabilizando. Gabo ficou ao lado dela até o soro acabar. Acima do teto, o zumbido dos geradores mudou de tom: firme, contínuo, como uma máquina que tinha aprendido a respirar sozinha.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

@@ -61,15 +61,14 @@ Foi então que o ferro velho traiu nosso avanço.
 
 Sob a poça de lodo que cobria o trilho, uma barra de vergalhão solta estava enterrada. Quando apoiei o calcanhar da bota mecânica sobre o cascalho, a barra escorregou, batendo com um clangor metálico estridente e agudo contra a viga mestre da parede.
 
-*CLANG!*
-
+CLANG!
 O som ecoou pela galeria cavernosa como uma martelada num gongo de aço.
 
 O silêncio que se seguiu durou exatamente um segundo.
 
 Lá em cima, os doze casulos suspensos espasmaram em uníssono. As veias azuis do Jardim dispararam pulsos elétricos de alta frequência, e um zumbido subsônico furioso sacudiu a alvenaria do teto.
 
-— Alerta térmico! — Valéria berrou, puxando a pistola do coldre e cravando os pés na laje com postura de tiro. — A atividade neural nos casulos saltou pra cem por cento! O impacto acústico despertou o ninho!
+— Alerta térmico! — Valéria berrou, puxando a pistola do coldre e cravando os pés na laje com postura de tiro. — A temperatura e o movimento dos casulos saltaram na leitura! O impacto acústico despertou o ninho!
 
 O casulo mais próximo rasgou-se de cima a baixo com um som úmido e nauseante de lona e carne se rompendo. Uma enxurrada de fluido amarelado despencou no chão, seguida pelo baque pesado de uma criatura de dois metros que caiu de quatro patas sobre o cascalho.
 

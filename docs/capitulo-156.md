@@ -3,26 +3,21 @@ title: "Capítulo 156: Condutores de Cobre"
 date: "Pós-Colapso da Usina Prometeu (Noite Eterna)"
 location: "Túneis de Trânsito (Subnível 3.5 - Monorail)"
 characters: ["Gabo", "Valéria", "Aria"]
+Data In-Game: "Pós-Colapso da Usina Prometeu (Noite Eterna)"
+Localização: "Túneis de Trânsito (Subnível 3.5 - Monorail)"
+Personagens Presentes: "Gabo, Valéria, Aria (Reboot)"
+description: "O controlador do vagão recebe comandos de Aria; o motor usa a bateria do veículo. A tala e os curativos continuam necessários."
 ---
-
-## Metadados
-- **Título:** Condutores de Cobre
-- **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
-- **Localização:** Túneis de Trânsito (Subnível 3.5 - Monorail)
-- **Personagens Presentes:** Gabo, Valéria, Aria (Reboot)
-- **Resumo:** Após a cauterização com plasma, Gabo e Valéria embarcam no vagão de manutenção do monorail. Valéria espeta o pendrive blindado de Aria diretamente na porta de diagnóstico do painel oxidado da cabine; a partir do slot, Aria faz a ponte lógica nos relés de cobre e assume a pilotagem e a tração magnética do vagão na subida rumo ao Subnível 3.5.
-
-## Narrativa
 
 # Capítulo 156: Condutores de Cobre
 
-O silêncio após a voz metálica do Taxidermista era pesado, quebrado apenas pelo chiar moribundo do bico de plasma que esfriava na cerâmica suja da estação. Gabo respirava em espasmos curtos e controlados, seus olhos fixos na massa enegrecida em suas extremidades. Cada batimento cardíaco enviava uma onda de dor aguda, um choque elétrico branco e puro através de seus braços até a nuca.
+O silêncio após a voz metálica do Taxidermista era pesado, quebrado pelo gotejar sobre a caixa do kit e pela respiração de Gabo na prancha de inspeção. Gabo respirava em espasmos curtos e controlados, seus olhos fixos na massa enegrecida em suas extremidades. Cada batimento cardíaco enviava uma onda de dor aguda, um choque elétrico branco e puro através de seus braços até a nuca.
 
 Ele não se importava. A dor era um farol na névoa. Era sólida, real, irrefutável. Ela queimava a memória do cheiro de fumaça barata, banindo o piche fantasma de seus pulmões. Ele estava ali. No agora. Vivo por pouco, mutilado, mas no controle.
 
 — Val... — a voz de Gabo raspava como lixa grossa. Ele não conseguia usar as mãos para se erguer, então girou os ombros, usando a lateral dos antebraços para empurrar seu corpo do chão. O exoesqueleto rangeu, protestando contra o movimento não natural. — O trem. O disjuntor.
 
-Valéria estava enrolada sobre si mesma a poucos metros, os braços abraçando os joelhos. O choque do que acabara de fazer a mantinha paralisada. As lágrimas ainda riscavam a sujeira em seu rosto pálido. O som de Gabo se levantando pareceu despertá-la de um transe sombrio.
+Valéria estava enrolada sobre si mesma a poucos metros, os braços abraçando os joelhos. o medo de que o curativo não bastasse a mantinha paralisada. As lágrimas ainda riscavam a sujeira em seu rosto pálido. O som de Gabo se levantando pareceu despertá-la de um transe sombrio.
 
 — Eu não... Gabo, eu achei que... — ela gaguejou, o olho cibernético piscando instável, tentando processar a realidade brutal do momento.
 
@@ -32,21 +27,21 @@ Ela não respondeu. Rasgou tiras do próprio casaco e enfaixou o que sobrara das
 
 Valéria levantou-se trêmula, empurrou a pesada porta deslizante do vagão de manutenção e entrou na cabine dianteira com Gabo logo atrás. O veículo era uma caixa de metal bruto, sem as linhas elegantes dos antigos trens de passageiros da época anterior ao Dilúvio. Era projetado para força bruta e carga. No console frontal, o painel de controle estava coberto de oxidação.
 
-— *O painel principal está em estado de oxidação avançada,* — relatou Aria pelo alto-falante do deck de Valéria, a voz modulada e impessoal ecoando na cabine silenciosa enquanto o scanner lia os circuitos. — *A reativação via chaves manuais tem noventa e oito por cento de chance de curto-circuito. Precisarei de uma interface física direta no barramento de diagnóstico do console.*
+— *O painel principal está em estado de oxidação avançada,* — relatou Aria pelo alto-falante do deck de Valéria, a voz modulada e impessoal ecoando na cabine silenciosa enquanto o scanner lia os circuitos. — *O quadro tem sinais de curto. Val precisa isolar a saída de potência antes de me ligar ao controle. Precisarei de uma interface física direta no barramento de diagnóstico do console.*
 
 Gabo avançou pesadamente até o painel, observando Valéria arrancar a tampa de cobertura do console com uma alavanca. O interior revelava um ninho confuso de fios de cobre descascados, componentes fundidos e uma entrada serial blindada da Aeterna Corp.
 
 — E como você faz isso sem derreter esse seu drive de titânio aí, Aria? — Gabo perguntou, encostando o ombro no metal frio do vagão para não desabar.
 
-No pulso de Valéria, o LED azul-gelo do pendrive piscou sem ressentimento, apenas processando o obstáculo técnico. — *Meu invólucro de titânio e polímero possui isolamento dielétrico de alto calibre. Quando Valéria espetar meu conector universal diretamente na porta de diagnóstico da caixa de junção do trem, poderei fechar o circuito dos condutores de cobre e forçar a partida usando o capacitor do barramento como motor de arranque.*
+No pulso de Valéria, o LED azul-gelo do pendrive piscou sem ressentimento, apenas processando o obstáculo técnico. — *Meu invólucro de titânio e polímero possui isolamento dielétrico de alto calibre. Quando Valéria espetar meu conector universal diretamente na porta de diagnóstico da caixa de junção do trem, poderei comandar o contator de partida. A tração usa o banco de baterias do vagão; meu drive não deve receber corrente dos motores.*
 
-Valéria ainda evitava olhar diretamente para as mãos carbonizadas de Gabo, mas forçou o olho cibernético a escanear a entrada oxidada do painel.
+Valéria ainda evitava olhar diretamente para as mãos enfaixadas de Gabo, mas forçou o olho cibernético a escanear a entrada oxidada do painel.
 
-— Ela está certa, — Valéria murmurou, a voz falhando. — Mas é arriscado. Se houver um pico na malha antiga, a sobretensão vai passar direto pelos pinos do pendrive. É como tentar dar partida num tanque de guerra usando um drive de bolso como chave de ignição.
+— Ela está certa, — Valéria murmurou, a voz falhando. — Mas é arriscado. Se houver um pico na malha antiga, a sobretensão vai passar direto pelos pinos do pendrive. Preciso separar alimentação e dados pelo adaptador da cabine. Não vou usar o núcleo dela como fusível outra vez.
 
-— *Risco aceitável,* — Aria respondeu prontamente pelo comunicador, como se estivesse avaliando uma equação trivial. — *Sem o monorail, o tempo estimado de sobrevivência para a subida a pé é de zero.*
+— *Risco elevado,* — Aria respondeu pelo comunicador. — *A pé, a subida levaria muito mais tempo; não consigo estimar quanto vocês suportariam sem atendimento.*
 
-Valéria não esperou segunda ordem. Ela desacoplou o pendrive blindado de Aria de seu cyberdeck *Phantom V3*, limpou a crosta de ferrugem do slot de diagnóstico no painel oxidado do vagão e espetou o componente de titânio até o fundo com um clique seco e metálico. Em seguida, uniu os dois cabos auxiliares de cobre no borne lateral conforme Aria instruía.
+Valéria não esperou segunda ordem. Ela desacoplou o pendrive blindado de Aria de seu cyberdeck *Phantom V3*, limpou a crosta de ferrugem do slot de diagnóstico no painel oxidado do vagão e espetou o componente de titânio até o fundo com um clique seco e metálico. Em seguida, conferiu a separação dos circuitos no adaptador da cabine antes de fechar o contator de teste.
 
 Um chiado elétrico violento preencheu a cabine. O LED azul-gelo do pendrive cravado no painel brilhou com intensidade quase branca, aquecendo instantaneamente enquanto a IA assumia os barramentos do veículo. Um cheiro forte de ozônio e poeira torrada subiu do console.
 

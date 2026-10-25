@@ -1,6 +1,6 @@
 ---
 title: "Capítulo 129: Fluxo Reverso"
-date: "2056-11-04"
+date: "2056-11-23"
 location: "Estação de Bombeamento Bio-Mecânica (Nível 5)"
 Personagens Presentes: Gabo, Valéria, Aria (Glitch Bia Vargas), Rangel (Inconsciente)
 Localização: "Estação de Reciclagem de Fluido Neural 04 (Nível 5)"
@@ -10,11 +10,11 @@ Localização: "Estação de Reciclagem de Fluido Neural 04 (Nível 5)"
 
 O calor ali embaixo não era apenas temperatura; era uma pressão física. O ar vibrava com o *thump-thump* colossal dos pistões, um ritmo que Gabo sentia nos dentes e na ferida recém-adquirida no antebraço.
 
-Ele apertou o torniquete improvisado com um pedaço de camisa rasgada. O sangue da mordida da Quimera já estava escuro e coagulado, misturando-se à graxa do esgoto. A dor era aguda, latejante, uma âncora necessária. Sempre que sua mente vagava para o cheiro adocicado e enjoativo do fluido que corria nos tubos — um cheiro que lembrava fumaça química e carne queimada —, ele apertava o *Colar de Sol* contra o peito até o metal frio morder a pele.
+Ele conferiu o curativo improvisado com um pedaço de camisa rasgada. O sangue da mordida da Quimera já estava escuro e coagulado, misturando-se à graxa do esgoto. A dor era aguda, latejante, uma âncora necessária. Sempre que sua mente vagava para o cheiro adocicado e enjoativo do fluido que corria nos tubos — um cheiro que lembrava fumaça química e carne queimada —, ele apertava o *Colar de Sol* contra o peito até o metal frio morder a pele.
 
 Havia apenas repulsa. O cheiro de queima o lembrava do crematório e dos charutos do pai, revirando seu estômago.
 
-— *Gabo, sua pressão arterial está caindo* — a voz de Bia Vargas ecoou no fone auricular dele. Vinha do pendrive blindado da Aria, cujo LED âmbar pulsava sob as luzes de emergência enquanto o drive processava os sensores biométricos do comunicador de Gabo. O tom de voz era idêntico. Cruelmente idêntico. — *Você está perdendo sangue rápido, detetive. Igualzinho àquele dia no beco da Rua 7. Lembra? Quando você hesitou em atirar no traficante e eu levei um tiro de raspão?*
+— *Gabo, sua pressão arterial está caindo* — a voz de Aria ecoou no fone auricular dele. Vinha do pendrive blindado da Aria, cujo LED âmbar pulsava sob as luzes de emergência enquanto o drive processava os sensores biométricos do comunicador de Gabo. A saída ainda falhava, mas era a cadência que ela escolhera manter. — *Você está perdendo sangue rápido, detetive. Não tenho uma medida confiável pelo comunicador. Estou vendo sangue atravessar a faixa; Val precisa conferir o ferimento.*
 
 Gabo ignorou o fantasma no fone. Ele se virou para Valéria. A hacker estava ajoelhada diante de um painel de controle manual, seus olhos cibernéticos varrendo os mostradores analógicos com frustração.
 
@@ -34,7 +34,7 @@ Valéria apontou para um diagrama esquemático gravado em uma placa de bronze na
 
 — E por que cheira a sangue? — Gabo perguntou, aproximando-se de um dos tubos de vidro reforçado. O líquido carmesim fluía com uma viscosidade perturbadora.
 
-— *Porque é* — respondeu Aria/Bia pelo comunicador, enquanto o espectrômetro óptico do deck de Valéria analisava a refração do vidro. — *Sangue sintético enriquecido com glicose e... pacotes de dados.*
+— *Porque é* — respondeu Aria pelo comunicador, enquanto o espectrômetro óptico do deck de Valéria analisava a refração do vidro. — *O cadastro do circuito diz fluido nutritivo e refrigerante. Não consigo analisar o conteúdo pelo vidro. Há controladores de dados presos à tubulação.*
 
 Gabo olhou para o pequeno drive de titânio espetado no equipamento. A sobreposição da voz de sua ex-parceira morta saindo de um módulo de inteligência artificial era uma dissonância cognitiva que ele lutava para suportar.
 
@@ -60,21 +60,21 @@ Gabo sentiu o estômago revirar. A bile subiu, ácida. Ele se afastou da escotil
 
 — Vai matar todos eles — Valéria disse, horrorizada.
 
-— *Eles já estão mortos, querida* — a voz de Bia suspirou no canal de áudio, com um cinismo triste que Gabo conhecia de tantas manhãs chuvosas. — *São apenas processadores de carne agora. Se invertermos o fluxo, abrimos as comportas de manutenção. É a nossa saída.*
+— Não sei se estão mortos — disse Aria. — Inverter o fluxo pode romper o suporte. O esquema vincula a abertura da comporta ao alívio de pressão; não tenho uma rota que possa chamar de segura para eles.
 
 Gabo olhou para Rangel, que estava pálido e suando frio. Olhou para o ferimento em seu próprio braço. Eles não durariam mais uma hora ali. Os anticorpos — o que quer que fossem — estariam chegando.
 
 — Gabo, não — Valéria suplicou. — Deve haver outro jeito.
 
-— Não há — Gabo disse, a voz rouca. Ele caminhou até a alavanca. — O sistema de Dante se alimenta de gente. Nós vamos fazê-lo engasgar.
+— Eu não encontrei — Gabo disse, a voz rouca. Ele caminhou até a alavanca. — O sistema de Dante se alimenta de gente. Nós vamos fazê-lo engasgar.
 
 Ele segurou a alavanca fria.
 
-— *Tem certeza, Detetive?* — Aria sussurrou em seu fone auricular, a voz de Bia carregada de uma intimidade dolorosa. — *Vai sujar as mãos de sangue de novo? Como fez comigo?*
+— *Tem certeza, Detetive?* — Aria sussurrou em seu fone auricular, a voz de Bia carregada de uma intimidade dolorosa. — *Estou registrando que havia pessoas ligadas ao circuito e que a consequência era desconhecida. Não vou apagar esse aviso quando sairmos.*
 
 Gabo fechou os olhos. A dor no braço era fogo. O colar no peito era gelo.
 
-— Isso não é por você — ele rosnou.
+— Registra minha mão na alavanca — ele disse. — Não foi uma ordem sua.
 
 E puxou a alavanca.
 

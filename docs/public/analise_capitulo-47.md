@@ -1,16 +1,18 @@
-# Análise do Capítulo 47: Cerco Anfíbio
+# Revisão de Capítulo 47: O Mecanismo da Queda
 
-## Avaliação Técnica
-- Ritmo: 9/10
-- Diálogos: 9/10
-- Atmosfera: 10/10
+Fonte: [capítulo 47](/capitulo-47.md).
 
-## Pontos Fortes e Fracos
-- Fortes: Ação visceral e reintrodução aterrorizante do Taxidermista. As consequências do ambiente (fosso, água) e o esmagamento de Gabo (pélvis e pernas sob duas toneladas) mudam a dinâmica física do protagonista permanentemente (justificando suas futuras órteses).
-- Fracos: O título metadata do arquivo ("Cerco Anfíbio") conflita levemente com o título H1 "O Mecanismo da Queda". Ambos são bons, mas deve haver padronização (embora a história brilhe de qualquer forma).
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-## Verificação de Sanidade (Lore Compliance)
-- Perfeita. O combate se baseia no horror corpóreo e nas consequências das limitações biológicas, com Gabo sendo submetido a dor extrema (esmagamento). Sem fuga para vícios/fumo; a tragédia é imposta pelo peso mecânico.
+## Passagens de entrada e saída
 
-## Avaliação Qualitativa
-Capítulo pivotante. A destruição física do corpo do Gabo ancora o personagem numa resiliência forjada pela dor para o resto da história, casando perfeitamente com a diretriz da memória.
+> Torre do Relógio, Distrito Baixo (Inundado).
+> A denúncia chegou pelo rádio às nove e quarenta, quando a Orla Norte ainda fumava: uma torre no Distrito Baixo, um homem que comprava relógio velho e não vendia nenhum, e um vizinho que jurou ter ouvido tique-taque onde não havia corrente elétrica desde a enchente. Gabo insistiu em ir sem escolta, apesar da proibição de Nise de apoiar a perna direita. Um barqueiro o deixou na rampa da torre com a cadeira. Para passar ao tablado, Gabo usou o corrimão e a perna esquerda. Isso não tornava a escolha segura.
+
+### Saída
+
+> E alguma coisa muito mais fria começou a nascer.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

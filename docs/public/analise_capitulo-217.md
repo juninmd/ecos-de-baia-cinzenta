@@ -1,15 +1,17 @@
-# Análise Crítica - Capítulo 217: O Útero de Chumbo
+# Revisão de Capítulo 217: O Útero de Chumbo
 
-## Avaliação Técnica
-* **Ritmo (Pacing):** 9/10 - A tensão é mantida na transição do final exaustivo da descida para o momento de revelação diante da porta de chumbo, equilibrando ação visceral e descobrimento.
-* **Diálogos:** 8/10 - Curtos, ásperos e condizentes com a situação. O pragmatismo de Gabo contrasta perfeitamente com a frieza técnica da Valéria (Modo de Segurança) e o pânico de Elias, sem parecer expositivo.
-* **Atmosfera:** 9/10 - A "sujeira" do cyberpunk está palpável: ozônio, ferrugem, o cheiro fantasma de fumaça e o concreto maciço. O cenário underground opressor carrega todo o clima noir desejado.
+Fonte: [capítulo 217](/capitulo-217.md).
 
-## Pontos Fortes e Fracos
-* **Pontos Fortes:** O uso continuado da dor física como mecanismo de defesa do Gabo contra seu trauma relacionado à fumaça (e ao Dante) reforça muito a coerência narrativa e aprofunda o elemento Hardboiled. A presença mecânica e insensível de Valéria ajuda a construir o sentimento de isolamento.
-* **Pontos Fracos:** A exploração interna do cofre ficou para o próximo capítulo, o que pode fazer com que este pareça um pouco de transição, mas é justificado pela dificuldade monumental de abrir a porta.
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-## Sanity Check
-* **Lore / Aversão ao Fumo:** A repulsa de Gabo é central e abordada através do cheiro fantasma do charuto de Dante, combatido ativamente com dor física autoprovocada (batendo na perna avariada, ferindo-se nas bordas metálicas). Ele não fuma e sua oposição visceral ao fumo é mantida estritamente.
-* **Coerência da História:** Elias reflete as consequências normais do terror (ataque de ansiedade), enquanto Valéria, operando no Modo de Segurança, age sem empatia, consistente com os capítulos passados recentes. A descoberta deste cofre isolado de Praga e Jardim alinha-se perfeitamente com os "Alicerces do Inferno" mostrados.
-* **Necessidade de Novos Personagens:** Nenhum novo personagem foi inserido, mantendo o foco absoluto no isolamento do grupo, o que favorece o tom melancólico e tenso da narrativa.
+## Passagens de entrada e saída
+
+> O fundo do poço nos recebeu com a indiferença gélida de uma câmara mortuária anterior à própria história. Não houve impacto dramático; apenas o baque surdo dos meus coturnos sobre a laje de concreto usinado de alta densidade. O som ecoou na vastidão confinada, seco, pesado e sem retorno. Apoiei o peso na perna boa, enquanto a armação industrial de sucata instalada por Vasco para sustentar a fratura puxava meu ombro com uma fisgada aguda de cansaço. A carne costurada ardia sob as bandagens sujas, onde os pontos continuavam sangrando em silêncio. As cicatrizes do Dilúvio queimavam como brasa viva; tanta gente morreu naquela enchente maldita e eu perdi quase tudo o que chamava de vida, mas a agonia física servia apenas para manter meus sentidos despertos e focados.
+
+### Saída
+
+> — Então vamos entrar antes que a porta perceba que não somos os donos da casa, — ordenei, passando pela fresta e liderando o caminho para dentro da câmara proibida.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

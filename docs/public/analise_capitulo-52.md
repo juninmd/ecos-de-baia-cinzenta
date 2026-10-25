@@ -1,16 +1,17 @@
-# Análise do Capítulo 52: Dívida Eterna
+# Revisão de Capítulo 52: Dívida Eterna
 
-## Avaliação Técnica
-- Ritmo: 10/10
-- Diálogos: 10/10
-- Atmosfera: 10/10
+Fonte: [capítulo 52](/capitulo-52.md).
 
-## Pontos Fortes e Fracos
-- Fortes: Tensão alta e recompensa dramática com a irmã (Clara). Apresentação física brilhante das limitações do herói (uso de servos/órteses) e reencontro impactante com O Santo. Expandiu o mistério em direção ao "Jardim" e ao sequestro de biometria.
-- Fracos: Nenhum.
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-## Verificação de Sanidade (Lore Compliance)
-- Total alinhamento com a nova memória. Gabo sofre explicitamente dor física ("foco na dor/vigília para afastar terror"). Sem recaídas, sem cigarros. As órteses não são muletas mágicas, têm peso moral e peso físico.
+## Passagens de entrada e saída
 
-## Avaliação Qualitativa
-Um dos melhores capítulos emocionais. Consolidou Clara na narrativa e interligou as conspirações ao "Jardim", que terá peso no fim da obra. O Santo apresenta-se de maneira fantástica.
+> O flutuante do "Dourado" balançava violentamente nas águas negras da cidade submersa, mas não era por causa da maré. O barco, uma boate adaptada sobre cascos de barcaças de lixo, era um templo de néon e vício flutuando sobre a miséria do Setor 9.
+
+### Saída
+
+> O Dilúvio não havia lavado os pecados da cidade. Apenas os havia fertilizado.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

@@ -1,18 +1,18 @@
-# Análise Crítica - Capítulo 113: Carga Viva
+# Revisão de Capítulo 113: Carga Viva
 
-## Avaliação Técnica
-- **Pacing (Ritmo):** 9/10 - Uma infiltração tensa com a manobra do compactador criando um momento de "prender a respiração".
-- **Dialogues (Diálogos):** 8/10 - Valéria exigindo silêncio sobre a "Aria" e as direções do Rangel fluem de forma extremamente realista sob pressão.
-- **Atmosphere (Atmosfera):** 10/10 - O cheiro da morte, amônia e cobre dentro de um caminhão de lixo transportando viciados transformados em biomassa. É opressivo, sombrio e excelente terror industrial.
+Fonte: [capítulo 113](/capitulo-113.md).
 
-## Pontos Fortes e Fracos
-- **Pontos Fortes:** A utilização do "loop de feedback" acionando a prensa do caminhão cria um mini-desafio letal e criativo de infiltração. A tensão entre Gabo e Valéria sobre a voz sintética de Aria no pendrive mantém a pressão psicológica em evidência.
-- **Pontos Fracos:** A tensão da prensa parando a "dez centímetros" da cabeça de Gabo é um leve clichê de ação, mas cumpre bem seu papel cinematográfico na narrativa.
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-## Sanity Check (Lore Compliance)
-- **Regras do Lore:** A fobia está intocada e preservada; o caminhão cheira a "cobre e amônia" (nenhuma menção à fumaça de tabaco). O dano na perna de Gabo dita sua postura "sentado com a perna ruim esticada" e "latejando em sincronia". Aria opera exclusivamente a partir do pendrive de titânio acoplado ao comunicador e ao cyberdeck.
+## Passagens de entrada e saída
 
-## Avaliação Qualitativa
-- **Qualidade da História:** Excelente transição da rua para o ambiente hostil da Usina Prometeu, com pesadas apostas morais sobre os "Drenados" virarem combustível.
-- **Coerência de Personagens:** Gabo sentindo empatia pelos corpos sem nome é essencial para seu papel de vingador e detetive.
-- **Necessidade de Novos Personagens:** Nenhuma. Foco mantido no trio principal.
+> O Ventre da Besta
+> O interior do caminhão de lixo não cheirava a lixo. Cheirava a cobre, amônia e algo doce, nauseante, que Gabo reconheceu imediatamente dos dias em que limpava cenas de crime para pagar o aluguel.
+
+### Saída
+
+> O caminhão acelerou, levando-os para o coração da máquina que mantinha a cidade viva e seus cidadãos mortos.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

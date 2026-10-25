@@ -9,27 +9,22 @@ Localização: "Bunker de isolamento — madrugada"
 
 # Capítulo 91: Protocolo Gênesis
 
-**Bunker de isolamento — madrugada.**
-
-Val projetava as páginas digitalizadas do diário na parede branca com um projetor de escola que funcionava a manivela.
-
-Eram diagramas de dupla hélice desenhados à mão, a nanquim, com o cuidado de quem gosta do desenho. E, ao lado de cada um, arquitetura de processador — barramento, registrador, pilha — no mesmo traço e na mesma tinta.
+Bunker de isolamento — madrugada.
+Val projetava as páginas digitalizadas do diário na parede branca com um projetor de escola que funcionava a manivela. Eram diagramas de dupla hélice desenhados à mão, a nanquim, com o cuidado de quem gosta do desenho. E, ao lado de cada um, arquitetura de processador — barramento, registrador, pilha — no mesmo traço e na mesma tinta.
 
 — É genial — admitiu Val, bebendo um café que tinha gosto de ferrugem porque a água tinha gosto de ferrugem. — E é insano, e as duas coisas na mesma folha.
 
 — Traduz.
 
-— Ele descobriu, ou pelo menos foi o primeiro a levar a sério, que a dupla hélice é o meio de armazenamento mais eficiente do universo conhecido. Um grama de DNA guarda alguns petabytes e dura milhares de anos sem energia. — Ela apontou a parede. — Nenhum data center do mundo chega perto. E o nosso disco rígido apodrece em oito anos.
+— Ele descobriu, ou pelo menos foi o primeiro a levar a sério, que a dupla hélice é um meio extremamente denso de armazenamento. DNA preparado e preservado pode guardar enormes volumes; ler e escrever exige equipamento, energia e correção de erro. — Ela apontou a parede. — Nenhum data center do mundo chega perto. E o nosso disco rígido apodrece em oito anos.
 
 Gabo estava sentado na cadeira do canto, com o braço esquerdo enfaixado até o ombro e a mão direita fechada em cima da coxa.
 
 — Então o plano nunca foi construir servidor.
 
-— Não. — Val virou a página. — Os servidores eram **incubadora**. A Aeterna passou trinta anos cultivando um disco rígido biológico em escala urbana. Isso aqui está escrito com todas as letras na página quarenta e um.
+— Segundo o diário, não. — Val virou a página. — Os servidores eram **incubadora**. A Aeterna passou trinta anos cultivando um disco rígido biológico em escala urbana. Isso aqui está escrito com todas as letras na página quarenta e um.
 
-— E a água?
-
-Val hesitou.
+— E a água? Val hesitou.
 
 — A água era o líquido amniótico.
 
@@ -37,9 +32,7 @@ Val hesitou.
 
 A Dra. Nise, que tinha chegado do hospital havia dez minutos e ainda estava de jaleco, sentou-se pesadamente na beira da maca.
 
-— E as pessoas? — ela perguntou.
-
-Val não respondeu na hora.
+— E as pessoas? — ela perguntou. Val não respondeu na hora.
 
 — Valéria, eu perguntei o que ele fez com as pessoas.
 
@@ -105,7 +98,7 @@ Val foi até o fim do diário, para um gráfico feito à mão numa folha dobrada
 
 Val fez a conta duas vezes. Na segunda ela pegou a régua, o que era só para ganhar tempo.
 
-— A massa da esfera cresce sete vírgula quatro por cento ao dia desde o meio-dia do dia da chuva preta.
+— O volume aparente cresceu nas imagens que conseguimos comparar. Não pesamos a esfera. Se a curva e o limite deste diário estiverem certos...
 
 — **Val.**
 
@@ -113,9 +106,7 @@ Val fez a conta duas vezes. Na segunda ela pegou a régua, o que era só para ga
 
 ---
 
-Ninguém falou por um tempo.
-
-Gabo foi até a janela que não existia, encostou a testa na placa cimentícia e ficou lá.
+Ninguém falou por um tempo. Gabo foi até a janela que não existia, encostou a testa na placa cimentícia e ficou lá.
 
 — A gente precisa do vírus — ele disse. — A gente precisa executar o Código Morto.
 
@@ -123,15 +114,13 @@ Gabo foi até a janela que não existia, encostou a testa na placa cimentícia e
 
 — Sei.
 
-— O senhor sabe **mesmo**?
-
-Ele se virou.
+— O senhor sabe **mesmo**? Ele se virou.
 
 — Significa queimar o núcleo dela — ele disse, com a voz muito plana. — Significa que o pendrive de titânio ali no berço de contenção volta a ser um pedaço de metal chamuscado e vazio, sem ninguém dentro. Não é sono, não é morte, não é nada que tenha nome. Significa que a última mente tática que o meu pai compilou e a parceira que nos guiou desde aquela cabine telefônica somem juntas no mesmo comando.
 
 Ele apontou o pendrive acoplado ao berço de diagnóstico com o queixo.
 
-— E significa que os quarenta e um mil do túnel vão junto.
+— E pode atingir os estados preservados na Raiz. Os do túnel e os que vieram dos servidores. Não sabemos quantos.
 
 — E o operador — disse Val, muito baixo.
 
@@ -143,7 +132,7 @@ Nise sentou de novo na maca.
 
 — Tem que ser o senhor?
 
-— Tem que ser alguém já conectado à Raiz, consciente e disposto. — Gabo abriu a mão direita e mostrou o tecido verde-escuro fechando a palma. — Nós somos três nesta sala e duas de vocês ainda são gente.
+— Tem que ser alguém já conectado à Raiz, consciente e disposto. — Gabo abriu a mão direita e mostrou o tecido verde-escuro fechando a palma. — Entre nós, sou o que conseguiu entrar naquela interface. — Ele baixou a mão. — Não vou pedir que outra pessoa abra o braço para repetir o teste.
 
 — E os quarenta e um mil?
 
@@ -153,8 +142,8 @@ Val virou de costas e ficou olhando a parede.
 
 — Eu odeio essa frase — ela disse. — "É ela ou a humanidade." Eu odeio porque toda vez que alguém fala isso nessa cidade, no fim das contas, quem escolhe é sempre a mesma pessoa e quem paga é sempre outra.
 
-Gabo não respondeu.
+Gabo não respondeu. Do lado dele, espetado no berço de contenção, o LED azul e âmbar do pendrive de titânio da Aria piscou fora de compasso, e a IA lá dentro, que ouvia tudo, não disse absolutamente nada. Antes de suspender o áudio, Aria falou pelo berço:
 
-Do lado dele, espetado no berço de contenção, o LED azul e âmbar do pendrive de titânio da Aria piscou fora de compasso, e a IA lá dentro, que ouvia tudo, não disse absolutamente nada.
+— Eu ouvi o risco e aceito entrar. Vou conferir o código, procurar um caminho que preserve o núcleo e deixar o registro do que fiz. Aceitar não é prometer que o cálculo está certo.
 
-E foi o silêncio dela — não o argumento da Val, não a conta da Nise — que ficou com Gabo pelos três dias seguintes.
+Depois ela pediu silêncio para trabalhar. Foi esse silêncio que ficou com Gabo pelas horas seguintes.

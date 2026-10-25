@@ -1,116 +1,115 @@
 ---
 image: /cenas/safehouse.jpg
-Personagens Presentes: Roberto Miranda, Silas Vance ("O Jardineiro"), Gabriel "Gabo" Moretti, Aria Moretti
+Personagens Presentes: Roberto Miranda, Silas Vance, integrantes dos Jardineiros
 Localização: "Cobertura blindada de Roberto Miranda, Distrito Alto"
 ---
 # Capítulo 30.5: A Casa Sempre Ganha
 
-**Cronologia: 24 horas após a Queda da Torre Aeterna**
+Cronologia: vinte e quatro horas após a queda do controle da Torre.
+Miranda precisou segurar o copo entre os joelhos para despejar o uísque. A mão esquerda tremia. À direita, a manga vazia terminava num curativo que a clínica particular recomendara não molhar. Uma das faixas já tinha uma borda vermelha.
 
-O uísque no copo de cristal tremia, não pela mão de Roberto Miranda, mas pelas explosões distantes que sacudiam a cidade.
+A cobertura cheirava a álcool de limpeza, sangue e filtro caro. O ar condicionado funcionava no circuito de reserva; o visor junto à porta previa mais nove horas de combustível. Depois disso, o Distrito Alto teria de aprender o cheiro da própria cidade.
 
-O ar da cobertura era seco, filtrado, e não cheirava a nada, e isso custava por mês mais do que o salário de um inspetor. O uísque tinha gosto de turfa e de dinheiro. Ao fundo, atrás do vidro duplo, a cidade ardia num silêncio de televisão sem som.
+Na parede, um monitor reproduzia as últimas imagens gravadas pela câmera externa. A Torre estava escura. A palavra AO VIVO continuava num canto, embora o relógio da imagem tivesse parado na madrugada anterior.
 
-Ele estava no seu "bunker" pessoal — uma cobertura blindada e não listada no Distrito Alto, paga com desvios de fundos de apreensões de drogas que nunca chegaram ao depósito de evidências.
+— Amadores — disse Miranda.
 
-Na tela da parede, o caos reinava. A Torre Aeterna, o monólito branco que dominava o horizonte, estava escura. Sem luzes, sem dados, sem Deus. A "Liberdade" que aquela hackerzinha e o idiota do Gabo liberaram estava incendiando as ruas.
+Não estava claro para quem.
 
-Miranda sorriu e tomou um gole. O líquido âmbar queimou de forma agradável.
+Na mesa, havia um recibo da remoção do Palácio de Jade. Um veículo de atendimento privado, dois profissionais, uma autorização de débito que consumira o equivalente a seis meses de salário de um inspetor. Ao lado, a alta a pedido contra recomendação médica, assinada com a mão esquerda.
 
-— Amadores — murmurou ele. — Acham que derrubaram o sistema. Só mudaram a administração.
+Ele dobrou o recibo pela linha do nome da empresa. O papel dizia quem o transportara do cassino à clínica. Não dizia quem o tirara da custódia policial antes disso. Esse nome ele não tinha escrito em lugar nenhum naquela casa.
 
-Ele caminhou até o cofre na parede atrás de um quadro falso (uma réplica de Goya, *Saturno Devorando seu Filho*). Digitou a senha. As travas de titânio giraram.
+O telefone sobre a mesa continuava sem serviço. Miranda discou outra vez o contato do transporte. Esperou ouvir uma voz, uma cobrança, qualquer coisa que ainda soubesse reconhecê-lo. O aparelho só mostrou a chamada incompleta.
 
-O cofre tinha dois segredos. O primeiro era a senha; o segundo era um servidor em algum andar da Torre Aeterna que precisava confirmar que ele era ele. O servidor estava apagado desde a queda. Miranda girou a chave mecânica na lateral — uma chave de latão que ele mandara fazer contra a própria paranoia — e o cofre obedeceu com um estalo relutante.
+— Você saiu de coisa pior, Roberto.
 
-— Burrice minha, engenharia de vocês — murmurou ele para a fechadura. — E sorte minha.
+Falou alto para ocupar o lugar da resposta.
 
-Lá dentro, não havia apenas barras de crédito (agora inúteis com a queda da rede), mas diamantes sintéticos, ouro físico e passaportes com cinco identidades diferentes.
+O cofre ficava atrás de uma reprodução de Goya. Ele tentou o leitor, esqueceu por um instante que a mão autorizada já não estava ali e encostou o curativo na borda de aço. A dor fez o copo bater na parede.
 
-Ele pegou uma maleta. Estava na hora de desaparecer. O Rio de Janeiro ou talvez Nova Xangai pareciam destinos agradáveis nesta época do ano.
+Usou a chave mecânica que guardava na sola de um sapato. Demorou para tirá-la com os dedos molhados de uísque. A fechadura abriu sem pedir rede, assinatura ou perdão.
 
-Seu olhar caiu sobre um monitor secundário, que exibia uma gravação em loop. A imagem granulada de segurança do "Palácio de Jade".
+Dentro havia ouro, diamantes e documentos para cinco nomes. As barras de crédito ficaram onde estavam. Miranda pôs o resto numa maleta e tentou fechá-la apoiando o corpo na tampa. O movimento repuxou o curativo; teve de sentar no chão até a náusea passar.
 
-Viu a si mesmo — ou melhor, a coisa que se parecia com ele — cair para trás com o peito estourado pela escopeta de Gabo.
+Numa gaveta, encontrou o cartão do homem que prometera passagem para fora da cidade. O endereço eletrônico não valia nada naquele momento. No verso, havia um número de atracação escrito a lápis. Isso ainda podia valer.
 
-— *Aposto no vermelho* — a gravação repetiu o áudio captado.
+Precisava chegar ao porto. Precisava de um motorista que aceitasse ouro. Precisava que ninguém no caminho lembrasse quem ele tinha sido.
 
-Miranda riu.
+O monitor secundário exibia o salão do cassino antes da invasão. Miranda selecionou a gravação seguinte. Viu o Cobalt atravessar a recepção, o corrimão sob sua mão e o instante em que a Caronte arrancou a prótese reparada.
 
-— Bravo, Número 4. Atuação digna de um Oscar.
+Parou a imagem antes da queda.
 
-Ele apertou o copo contra o peito, satisfeito. Havia ensaiado aquilo com o biomorfo durante duas semanas, num galpão em Velha Baía: a ordem das palavras, a hora exata de recuar, até o jeito de segurar o ombro depois do tiro. A única coisa que não estava no roteiro era a escopeta de Gabo.
+A câmera guardara o próprio rosto dele, com a boca aberta. Elena também tinha filmado. O cassino já vendera versões mais curtas. Miranda precisava descobrir quem tinha a longa antes de poder comprar silêncio.
 
-— Você gritou "aposto no vermelho" antes da hora — disse Miranda para a gravação, e bebeu. — Amador.
+Ele arrastou a cadeira para longe da tela.
 
-O "Número 4" era um biomorfo de classe militar, um "Syn-Doll" de carne e osso cultivado em tanque, programado com seus engramas básicos e memórias superficiais. Custou o preço de um hospital inteiro, mas valeu cada centavo. Gabo, com toda sua fúria moralista, atirou em um boneco de carne enquanto o verdadeiro Roberto Miranda assistia de camarote, bebendo champanhe.
+A samambaia do canto tocava a moldura de Goya. Não chegava ali quando ele saíra de casa. Sob o vaso havia uma faixa escura de umidade, acompanhando a junta do piso até o armário de manutenção.
 
-— Você sempre foi previsível, Gabriel — disse ele para a tela, fechando a maleta. — A emoção te cega. Você mata o que vê, mas nunca olha o que está nas sombras.
+Miranda olhou o ar condicionado. O visor ainda marcava nove horas.
 
-Ele vestiu seu casaco de couro italiano. Estava feito. O mundo achava que ele estava morto. O Sindicato pararia de caçá-lo. A Polícia encerraria o caso. Ele era um fantasma rico.
+— Vazamento — disse.
 
-A samambaia do canto tinha crescido. Não era impressão: na semana anterior ela não alcançava o quadro, e agora uma folha tocava a moldura com a delicadeza de um dedo. Miranda olhou aquilo por um segundo e meio, e o cérebro dele, que sabia ler balanços e delações, não soube ler uma planta.
+Pegou a pistola com a mão esquerda mesmo assim.
 
-*Clique.*
+Um estalo veio do armário. Depois outro, mais baixo. A tampa de inspeção junto ao rodapé se deslocou um dedo para fora. Alguém estava trabalhando do outro lado.
 
-O som não veio da porta. Veio das luzes.
+Miranda deu dois passos para a saída principal. A luz branca oscilou. O circuito de reserva permaneceu ligado, mas uma claridade verde começou a aparecer entre as folhas da planta. Não vinha das lâmpadas do teto.
 
-Elas não se apagaram. Elas mudaram de cor. Do branco clínico para um verde doentio, bioluminescente.
+— Segurança.
 
-O sistema de ar condicionado parou de zumbir. Em vez disso, um som úmido, de respiração pesada, começou a ecoar pelos dutos de ventilação.
+O comando de voz não respondeu. O serviço doméstico dependia da conexão que o telefone já perdera.
 
-— Computador — disse Miranda, a mão indo para a pistola na cintura. — Relatório de segurança.
+Do duto veio uma voz humana, abafada pela chapa.
 
-Silêncio.
+— A poda é necessária, Roberto.
 
-Então, uma voz respondeu. Mas não era a IA doméstica padrão. Era uma voz rouca, antiga, que parecia vir de dentro das paredes.
+Ele atirou no armário. A primeira bala abriu um buraco no laminado; a segunda fez alguém recuar com um grito curto. O braço esquerdo estava cansado antes do terceiro disparo.
 
-— *A poda é necessária, Roberto.*
+A tampa caiu. Um homem de máscara de gás puxou a perna ferida para dentro da sala. Atrás dele, outra pessoa ergueu uma ferramenta comprida e alcançou a trava manual da porta de serviço.
 
-Miranda girou, apontando a arma para a sombra no canto da sala.
+Miranda tinha pago por aço na entrada principal. Não lembrava quem ainda possuía a chave do corredor por onde vinham os filtros e saíam os sacos de lixo.
 
-— Quem está aí?!
+A porta abriu. Entraram figuras de aniagem, botas sujas e máscaras antigas. Uma carregava uma serra de poda. Outra trazia um recipiente de vidro contra o peito, com raízes comprimidas numa solução leitosa. O cheiro de terra molhada atravessou o álcool e tomou a sala.
 
-As plantas decorativas — samambaias geneticamente modificadas que ele mantinha pela estética — começaram a se mover. Não com o vento, mas com propósito. As folhas se esticaram, os caules engrossaram e pulsaram como veias.
+Miranda tentou alcançar o elevador privativo. O painel reconheceu a passagem do cartão, mas não liberou a cabine: grupo de elevadores indisponível, aguarde manutenção. Ele apertou de novo. A reserva comprava iluminação; não comprava um caminho para baixo.
 
-— *O desperdício é um pecado* — continuou a voz. — *Você descartou um vaso perfeito no Palácio de Jade. Mas nós não desperdiçamos nada.*
+— Eu pago — disse, virando a pistola para os homens.
 
-A porta da cobertura explodiu para dentro. Não com explosivos, mas sob a pressão de raízes grossas e cinzentas que arrombaram o aço como se fosse papelão.
+Uma folha se fechou no punho dele. Pareceu fina até o primeiro espinho entrar. Miranda disparou no vaso. Terra e cacos se espalharam; a pressão diminuiu o suficiente para tirar a mão, mas a arma caiu junto.
 
-O cheiro que entrou com eles não era de esgoto. Era de terra molhada, folha esmagada e formol, e havia umidade nele, como se a cidade tivesse respirado para dentro.
+Um dos invasores a recolheu antes que ele pudesse se abaixar.
 
-Figuras entraram. Usavam trapos de aniagem e máscaras de gás antigas. Eles não carregavam armas de fogo, mas ferramentas de jardinagem modificadas: foices, serras, tesouras de poda gigantes.
+O último homem entrou sem máscara. Alto, de jaleco cerimonial de fibras naturais, parou a uma distância que não exigia levantar a voz. Os cabelos brancos caíam sobre a gola limpa.
 
-"Os Jardineiros". A lenda urbana dos esgotos.
+Miranda reconheceu o rosto. Silas estava ereto, os olhos intactos, observando o curativo antes de olhar a maleta.
 
-— Fiquem longe! — Miranda disparou. *Bang! Bang!*
+— Silas Vance.
 
-Dois cultistas caíram, mas não gritaram. Eles apenas... murcharam, como se não houvesse sangue neles, apenas seiva.
+— Ainda lembra os nomes. Bom.
 
-Miranda correu para o elevador privativo. O painel acendeu, pediu a palma da mão, pensou dois segundos e devolveu uma recusa educada em vermelho. Sem rede, o elevador não sabia quem ele era. O homem que comprara cinco identidades não conseguia provar nenhuma para a própria casa.
+Silas indicou o ferido junto do armário. Dois companheiros o ampararam e o levaram para o corredor. Sangue escorreu de uma bota. Miranda acompanhou a mancha como se ela pudesse tornar aqueles homens negociáveis.
 
-— *Sua dívida não é com o banco, Sr. Miranda* — a voz estava atrás dele agora.
+— Tem ouro na maleta. Passagem. Posso levar vocês.
 
-Miranda se virou. Uma figura alta, vestida com um manto que parecia feito de fungos e raízes tecidas, estava lá. O rosto estava oculto, mas o cheiro... cheiro de terra molhada e formol.
+— Você deixou de pagar a manutenção desta casa faz três meses.
 
-Silas Vance.
+Miranda olhou o vaso partido. A lembrança veio em pedaços: a empresa nova, o desconto, a assinatura que um funcionário pedira no elevador. Plantas que exigiam menos água. Ninguém lê um contrato de jardinagem para descobrir por onde será levado.
 
-— *Sua dívida é com a evolução.*
+Isso não explicava Silas. Explicava a porta aberta.
 
-Miranda tentou atirar, mas algo agarrou seu pulso. Ele olhou para baixo, horrorizado. As "samambaias" haviam crescido, enrolando-se em suas pernas e braços, espinhos penetrando o couro caro, buscando a carne.
+— Quer os arquivos? — perguntou. — Eu sei onde guardam coisa que não aparece na rede.
 
-— Me solta! Você sabe quem eu sou?! Eu posso pagar! Tenho ouro!
+Silas se aproximou. Tinha cheiro de formol por baixo da terra.
 
-Silas se aproximou, tocando o rosto de Miranda com uma mão esquelética.
+— Agora estamos conversando.
 
-— *Ouro é metal morto. Nós buscamos a carne viva. Seu intelecto tático... sua vontade de sobreviver... são nutrientes valiosos.*
+Os dois homens seguraram Miranda pelos braços. Um puxou o lado do curativo; ele gritou e quase caiu. Silas mandou afrouxar a pressão. Não parecia piedade. Parecia a inspeção de algo que precisava chegar inteiro.
 
-Miranda gritou quando as vinhas o levantaram do chão. Ele viu sua maleta de ouro cair e se abrir, as barras brilhantes espalhadas no tapete persa. Inúteis.
+— O Projeto Gênesis precisa de gente que conheça os caminhos — disse.
 
-— *O Projeto Gênesis precisa de um guardião* — sussurrou Silas. — *E você, Roberto... você será um excelente adubo.*
+Miranda prometeu nomes, entradas, depósitos. Não recebeu resposta sobre quando sairia. As raízes que restavam no piso se moveram na direção do corredor, roçando o ouro espalhado sem detê-lo.
 
-As vinhas cobriram sua boca, abafando seus gritos. Ele foi arrastado para a escuridão dos dutos de ventilação, para baixo, para as entranhas da cidade, para longe da luz e do luxo, em direção a um destino muito pior do que a morte que ele forjou.
+Levaram-no pela porta de manutenção, vivo, sem casaco e sem a maleta. Na tela, a gravação parada ainda mostrava sua mão presa ao corrimão do cassino.
 
-A tela na parede continuava passando a gravação do "Número 4" morrendo.
-
-*A Casa sempre ganha.* Mas Miranda esqueceu que, em Baía Cinzenta, a Casa não era o cassino. A Casa era a própria cidade. E ela estava com fome.
+A chave do cofre ficou no chão, ao alcance da prótese que ele já não tinha.

@@ -13,7 +13,7 @@ O túnel afunilou bruscamente cem metros adiante. O lodo escorregadio deu lugar 
 
 — Parou — a voz de Valéria soou seca. Ela puxou a gola do meu casaco, me fazendo estancar antes da curva.
 
-Os filamentos de LED azul na franja dela piscaram com uma cadência rápida. Ela apontou para a penumbra à frente com a ponta do fuzil de assalto curto que trazia pendurado a tiracolo.
+Os filamentos de LED azul na franja dela piscaram com uma cadência rápida. Ela apontou para a penumbra à frente com a ponta do pistola compacta que trazia pendurado a tiracolo.
 
 — O que você viu? — perguntei, a mão mecânica repousando pesada sobre o quadril, os pinos neurais do ombro latejando em sintonia com os meus batimentos cardíacos.
 
@@ -25,7 +25,7 @@ No centro da estrutura, uma escotilha de ferro maciço barrava a passagem de par
 
 Aproximei-me da linha de tiro da barricada, erguendo o queixo para a fresta escura.
 
-Atrás do vidro grosso e engordurado, vi os olhos do homem. Não eram lentes sintéticas; eram olhos humanos cansados, cercados por olheiras fundas que denunciavam uma década sem ver a luz do sol. Suas roupas eram feitas de lonas militares remendadas com arame de cobre. Ele não existia nos bancos de dados corporativos da Aeterna. Era um homem sem código de cidadão, sem histórico médico, sem rastro digital. Um *Shadowban*. Um Fantasma da cidade baixa.
+Atrás do vidro grosso e engordurado, vi os olhos do homem. Não eram lentes sintéticas; eram olhos humanos cansados, cercados por olheiras fundas que denunciavam uma década sem ver a luz do sol. Suas roupas eram feitas de lonas militares remendadas com arame de cobre. A placa na guarita dizia SEM CADASTRO, SEM RECOLHIMENTO. Ele se apresentou como alguém apagado dos registros. Eu não podia confirmar sua história olhando o rosto; podia reconhecer o nome que a cidade dava a quem vivia daquele jeito: *Shadowban*. Fantasma.
 
 — Não somos da corporação — falei, a voz rouca cortando a umidade. — Somos dois sobreviventes tentando alcançar o entroncamento do metrô. Abre a escotilha e a gente segue viagem sem estragar sua tranca.
 
@@ -49,24 +49,24 @@ Valéria me encarou de soslaio, os olhos prateados piscando um alerta silencioso
 
 Respirei fundo. A frustração desceu amarga pela garganta, mas um policial velho aprende cedo que tiroteio dentro de cano fechado é suicídio disfarçado de coragem.
 
-Deslizei a mão esquerda até a mochila de lona que trazia cruzada no peito. Lá dentro, envoltos em panos secos, estavam os dois cilindros de oxigênio purificado que Vasco havia nos entregado. Dois tubos de titânio de grau médico. O recurso mais valioso e raro em um distrito onde o ar corroía os brônquios de quem não usava máscara.
+Deslizei a mão esquerda até a mochila de lona. Os dois cilindros de ar de resgate continuavam fechados; nas máscaras, usávamos apenas os cartuchos. Entregar um cortaria a reserva de retirada pela metade. Olhei para o ramal por onde tínhamos vindo. Os três catadores continuavam lá, e eu não conseguiria refazer a descida com a gaze já marcada de sangue.
 
 Puxei um dos cilindros e ergui-o para a fresta de vidro.
 
-— Cilindro de oxigênio médico — anunciei, batendo o anel de aço na válvula lacrada com um tilintar metálico e limpo. — Cem por cento puro. Trinta horas de ar respirável sem queimar os pulmões com ácido. Vale dez vezes o que essa sua espingarda velha consegue disparar.
+— Ar comprimido de resgate — anunciei, mostrando o lacre sem bater na válvula. — Regulador e manômetro. Você confere o rótulo pela gaveta. Não é oxigênio nem filtro de água, mas permite sair daqui se o retorno encher de fumaça.
 
 O silêncio do homem durou longos cinco segundos. Eu podia ouvir a respiração ofegante dele através da corneta. Em Baía Cinzenta, munição e comida você roubava; oxigênio limpo comprava a sua vida.
 
-— Passa pela gaveta de descarte — a voz dele perdeu a arrogância, soando quase desesperada. — E só um de vocês cruza a cancela por vez.
+— Minha saída de cima queimou ontem — disse ele. A espingarda baixou alguns centímetros. — Passa pela gaveta. Eu leio o rótulo, você ouve a trava. Só um de vocês cruza por vez.
 
 — O cilindro vai quando a trava pneumática estalar — Valéria rebateu antes que eu respondesse, a voz firme e intransigente. — A gente não é novato de periferia, Fantasma. Libera o ferrolho principal ou eu puxo o cabo e queimo sua estação inteira.
 
-Uma pausa tensa. O som pesado de engrenagens industriais sendo destravadas ecoou pelas paredes do túnel. A fresta da gaveta deslizou, engolindo o cilindro de oxigênio, e logo em seguida o portão de blindagem subiu com um rangido metálico estridente de correntes oxidadas, revelando a passagem estreita para os níveis inferiores.
+Uma pausa tensa. O som pesado de engrenagens industriais sendo destravadas ecoou pelas paredes do túnel. A fresta da gaveta deslizou, engolindo o cilindro de oxigênio, e logo em seguida o portão de blindagem subiu com um rangido metálico estridente de correntes oxidadas, revelando a passagem estreita para a rampa de saída.
 
-O homem nos observou passar com os olhos arregalados, abraçando o tubo de oxigênio contra o peito como se fosse uma criança recém-nascida.
+O homem conferiu a pressão e guardou o cilindro ao alcance da escada interna. Val anotou o lacre do único que nos restava. Não tínhamos comprado um caminho seguro; tínhamos pago para abandonar o anterior.
 
 — Que a chuva não pegue vocês lá em cima — ele resmungou da penumbra da guarita.
 
 — Guarda o ar pra quando o Jardim subir até aqui, parceiro — Valéria retrucou, recolhendo seu cabo com um puxão seco e ajeitando a jaqueta enquanto cruzávamos o portão. — Você vai precisar de cada litro.
 
-Seguimos pelo túnel em declive, deixando para trás a barricada e o cheiro de ferrugem fria, com o zumbido mecânico da minha armação marcando o ritmo da nossa descida para a Superfície Pálida.
+Seguimos pelo túnel ascendente, deixando para trás a barricada e o cheiro de ferrugem fria, com o zumbido mecânico da minha armação marcando o ritmo da subida para a Superfície Pálida.

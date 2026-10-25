@@ -1,16 +1,18 @@
-# Análise: Capítulo 67 - Cidade Viva
+# Revisão de Capítulo 67: Cidade Viva
 
-**Avaliação Técnica:**
-- Ritmo: 9/10
-- Diálogos: 9/10
-- Atmosfera: 10/10
+Fonte: [capítulo 67](/capitulo-67.md).
 
-**Pontos Fortes / Fracos:**
-- Fortes: A dinâmica de uma cidade "viva" que interage e protege o grupo é esteticamente incrível e muito Cyberpunk/Animista. O dilema da Névoa (proteção, mas também cegueira) é um ótimo dispositivo narrativo.
-- Fracos: Nenhum significativo.
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-**Sanity Check (Lore):**
-- Adequado e revisado na memória. Menções a fumaça de poluição ("smog") foram modificadas para "vapor químico" e "poluição" para não ativar qualquer ambiguidade textual envolvendo fumo/cigarros. Gabo segue firme em sua jornada focado no perigo físico iminente (Satélites orbitais).
+## Passagens de entrada e saída
 
-**Avaliação Qualitativa:**
-- Excelente setup para o combate urbano em larga escala que virá nos próximos capítulos. Miranda como nêmesis persistente é ótimo. Personagens redondos e história progressiva, sem problemas de "bloat".
+> Avenida Central — Distrito da Névoa
+> Eles não precisavam de carro. A cidade os levava. E era pior que andar. Cada câmera de vigilância girava no eixo quando eles passavam — não com a luz vermelha de varredura, mas com um verde suave que ninguém tinha programado para significar nada, e que ali significava *estou vendo você e está tudo bem*. Os semáforos abriam a Avenida Central inteira em onda, um depois do outro, e fechavam atrás deles para travar as viaturas da corporativa em cruzamentos onde não havia ninguém para atravessar. A ponte levadiça do Canal Norte baixou sozinha quando eles chegaram a duzentos metros, e voltou a subir antes que o segundo veículo alcançasse a rampa. Val parou no meio da rua alagada, com água até o tornozelo, e ficou olhando um outdoor digital trocar uma propaganda de refrigerante por três palavras em caixa alta:
+
+### Saída
+
+> E, acima deles, a cidade apagou a última luz do quarteirão para economizar dezesseis segundos de vida.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

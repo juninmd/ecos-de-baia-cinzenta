@@ -1,35 +1,17 @@
-# Análise Crítica - Capítulo 183: Carniça de Metal
+# Revisão de Capítulo 183: Carniça de Metal
 
-> **Nota editorial:** esta análise descreve um rascunho em que Valéria já estava em Modo de Segurança pleno. O texto publicado (e o dossiê) usam o **Modo instável**, com lapsos emocionais até o cap. 220. Use o capítulo como fonte, não esta análise.
+Fonte: [capítulo 183](/capitulo-183.md).
 
+Gabo usa um calço e uma carcaça para deter o buggy. Val atira da cobertura. O piloto é contido vivo e indica o túnel de carga, sem que o braço quebrado precise deter um veículo.
 
-## Autoavaliação Técnica (Nota: 8.5/10)
+## Passagens de entrada e saída
 
-### Ritmo (Pacing)
-A tensão escala de forma eficaz. Inicia-se com a exploração tensa de um ambiente inóspito, engata na ameaça silenciosa detectada por Valéria, transita para a imobilização claustrofóbica pela crise de pânico induzida, e explode na brutal e violenta catarse do choque mecânico. A transição de conflito interno para externo é rápida e brutal.
+> O cemitério de carcaças industriais se estendia como um mar de esqueletos de aço sob a chuva fina e venenosa do Distrito 4. Cada passo que dávamos na lama oleosa soava como uma confissão clandestina. Eu estava no limite físico; o peso da nova armação arrastava meu ombro direito para baixo, um pêndulo de liga metálica bruta que repuxava minhas costelas a cada passada claudicante.
 
-### Diálogos
-A dicotomia entre a linguagem cirúrgica, estéril e desprovida de humanidade de Valéria (em "Modo de Segurança") contra a visceralidade amarga e ofegante de Gabo reforça a dinâmica estabelecida após o reboot dela. Não há exposição desnecessária; cada fala de Valéria é pautada por dados utilitários de combate.
+### Saída
 
-### Atmosfera
-"A sujeira do cyberpunk" é palpável: chuva ácida venenosa, lama oleosa, o ronco de motor dois-tempos remendado com sucata, o fedor do diesel queimado e o vapor de um radiador estourado ilustram o cemitério de carcaças industriais que define a superfície arruinada do Distrito 4.
+> — Matar gasta bala que a gente não tem — ela guardou a arma no coldre e veio até mim, segurando meu antebraço de ferro para checar a folga da bucha. — Ele está rendido e a arma está longe. Não preciso inventar outra razão para não atirar. Agora anda, Moretti. A água desse radiador vai atrair outros bichos em menos de dez minutos.
 
-## Pontos Fortes e Fracos
+## Alcance do parecer
 
-**Pontos Fortes:**
-- A integração do "fantasma" do charuto (associação psicológica a Dante Moretti) materializado pelo gatilho ambiental do escapamento sujo do inimigo, demonstrando "Show, Don't Tell" no horror psicológico de Gabo.
-- A resolução do conflito. Em vez de tiroteios limpos, Gabo usa a própria desvantagem (um braço mecânico hiper-torcido e não calibrado) para aniquilar um veículo na base da física bruta, sacrificando o próprio corpo.
-
-**Pontos Fracos:**
-- O embate final é rápido, possivelmente demasiadamente eficiente. A letalidade instantânea de Valéria pode minar a sensação de perigo extremo contínuo caso os adversários sempre caiam facilmente. Contudo, reflete seu pragmatismo.
-
-## Auditoria de Coerência (Sanity Check)
-
-1. **"Gabo interagiu com algum fumante? Como sua repulsa foi demonstrada?"**
-   Não houve fumantes reais. Gabo interagiu com a fumaça asfixiante de um motor dois-tempos e o cérebro dele imediatamente a transformou em alucinação da fumaça de charuto do pai. A repulsa é demonstrada por paralisia inicial seguida da busca por auto-lesão extrema (esmagar a prótese no ônibus e quebrar a mão mecânica no radiador) para "acordar" via dor.
-
-2. **"O plot twist deste capítulo invalida algo estabelecido nos capítulos anteriores?"**
-   Não. O capítulo segue estritamente a continuidade: Gabo sofre pela instalação bruta feita por Vasco (Capítulo 175) e a recusa em consertar a "falha" em favor de usar a dor, o modo de segurança ininterrupto de Valéria e o ambiente mortificado que encontraram na saída dos dutos no Capítulo 182.
-
-3. **"O resumo da lore foi atualizado com os novos eventos?"**
-   Sim, a cronologia e os status serão atualizados contemplando esse embate e a caminhada deles pelo Distrito 4.
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

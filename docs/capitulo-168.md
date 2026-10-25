@@ -1,14 +1,10 @@
 ---
+title: "Capítulo 168: O Peso do Chumbo"
 image: /capitulo_168.jpg
+Data In-Game: "Pós-Colapso da Usina Prometeu (Noite Eterna)"
+Localização: "Necrópole (Subnível 2.0 - O Arquivo Executivo da Aeterna Corp, Setor Alfa-Sete)"
+Personagens Presentes: "Gabo, Valéria"
 ---
-## Metadados
-- **Título:** O Peso do Chumbo
-- **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
-- **Localização:** Necrópole (Subnível 2.0 - O Arquivo Executivo da Aeterna Corp, Setor Alfa-Sete)
-- **Personagens Presentes:** Gabo, Valéria
-- **Resumo:** Com o sacrifício de Aria, Gabo e Valéria caminham pela vastidão silenciosa do Arquivo Executivo em direção à anomalia térmica. A ausência da lógica fria da IA amplifica o horror existencial da jornada. Gabo sofre com alucinações sufocantes de fumaça, ancorando sua sanidade na dor excruciante de seu braço fraturado contra o metal frio. Valéria, desolada e ferida, tenta encontrar propósito. Ao chegarem à fonte do calor, descobrem que não se trata apenas de um terminal corporativo, mas de um resquício visceral do legado de Dante.
-
-## Narrativa
 
 # Capítulo 168: O Peso do Chumbo
 
@@ -22,13 +18,13 @@ Gabo mancou devagar, arrastando a bota no linóleo negro imaculado. A cada passo
 
 — Levanta, Val — a voz de Gabo raspou áspera no ar gelado. Ele não tentou oferecer consolo; Baía Cinzenta não deixava espaço para isso. — A máquina não vai religar. E a anomalia térmica ainda tá pulsando no alfa-sete.
 
-Valéria fungou, enxugando o rosto com as costas da mão, deixando rastros cinzentos nas bochechas pálidas. Ela ergueu os olhos azuis sintéticos para ele. Havia um vazio gélido neles, um reflexo distorcido da própria Aria antes de queimar.
+Valéria fungou, enxugando o rosto com as costas da mão, deixando rastros cinzentos nas bochechas pálidas. Ela ergueu os olhos prateados para ele. Havia um vazio gélido neles, um reflexo distorcido da própria Aria antes de queimar.
 
-— Ela descarregou a Bia, Gabo — Valéria sussurrou, a voz trêmula quebrando no silêncio opressor. — Tudo o que o Taxidermista não conseguiu apagar. O luto, a bagunça... ela vomitou a alma dela pra fritar aquele tanque de guerra. E agora... acabou. A gente tá sozinho no meio da porra de um arquivo morto sem fim.
+— Ela usou o próprio histórico, Gabo — Valéria sussurrou, a voz trêmula quebrando no silêncio opressor. — Tudo o que o Taxidermista não conseguiu apagar. O luto, a bagunça... Ela acionou uma falha que o arquivo já tinha. O que ela aprendeu com a gente serviu para alcançar o comando, e a porta destruiu o núcleo dela. E agora... acabou. A gente tá sozinho no meio da porra de um arquivo morto sem fim.
 
 Gabo não desviou o olhar para o monólito fumegante de doze toneladas do Sentinel a poucos metros dali. Ele manteve os olhos em Valéria.
 
-— A gente nasceu sozinho, Valéria. A máquina só calculou a matemática da saída. E a conta da Aeterna Corp sempre fecha. Agora, levanta. Nós vamos ver o que o meu pai enterrou nesse gelo.
+— A gente nasceu sozinho, Valéria. Ela escolheu entrar depois de ouvir o risco. Não vou diminuir isso para conseguir levantar agora. E a conta da Aeterna Corp sempre fecha. Agora, levanta. Nós vamos ver o que o meu pai enterrou nesse gelo.
 
 Ela hesitou, mas a firmeza brutal na voz do detetive forçou seus músculos exaustos a reagirem. Valéria apoiou-se no chão estéril e ficou de pé, as pernas vacilando.
 
@@ -40,8 +36,7 @@ O fedor do silício frito do Sentinel e de Aria foi subitamente expurgado das su
 
 Gabo sentiu a fumaça invisível rastejar para dentro da traqueia. A sala trancada de Dante. O cinzeiro transbordando enquanto as sirenes gritavam na rua. A apatia paterna condensada em fumaça que envenenava o menino assustado no canto. A alucinação não era uma lembrança; era um ataque asfixiante. A náusea contorceu seu estômago vazio em um nó de ferro. A bile ácida subiu, e o pânico da sufocação paralisou suas pernas. A fumaça ilusória enchia seus pulmões mortos de ar.
 
-*Maldito seja.*
-
+Maldito seja.
 Gabo grunhiu, os dentes rangendo até a gengiva sangrar, e atirou o ombro direito e o braço fraturado contra a prateleira metálica fosca à sua direita.
 
 A aresta fria do aço negro esmagou o braço imobilizado sob as ataduras. O osso quebrado latejou violentamente sob o choque cinético.
@@ -76,12 +71,12 @@ Valéria recuou meio passo, a mão subindo para a boca em puro choque existencia
 
 — Gabo... isso não é um processador secundário... — ela sussurrou, a voz trêmula ecoando na alcova, a luz verde das telas refletindo em seus implantes oculares. — Aquele terminal ali embaixo do vidro... ele é operado por isso. A Aeterna não construiu uma IA pra proteger os arquivos antes da queda. Eles usaram wetware. Memória molhada.
 
-Gabo caminhou arrastando os pés até a borda da mesa executiva. Ele olhou para a massa pálida e enrugada suspensa no tanque de conservação. O calor ínfimo que Aria detectara emanava dos aquecedores de suporte de vida primitivos que mantinham o pedaço de carne neural viável para conduzir códigos encriptados por quatro décadas.
+Gabo caminhou arrastando os pés até a borda da mesa executiva. Ele olhou para a massa pálida e enrugada suspensa no tanque de conservação. O calor ínfimo que Aria detectara emanava dos aquecedores de suporte de vida primitivos que mantinham o pedaço de carne neural viável para conduzir códigos encriptados desde a instalação indicada na etiqueta. A circulação do fluido não demonstrava, por si, consciência preservada.
 
-Ele não precisou de um teste de DNA, nem de Valéria confirmando os logs nas telas verde-oliva piscantes que exibiam nomes arquivados. Ele sabia. Sentia nos próprios ossos fraturados e nas palmas queimadas a resposta que não queria encontrar no túmulo do pai.
+Quis atribuir aquilo ao pai antes de ler uma linha. A vontade não era prova. Pediu a Val que fotografasse a etiqueta, os conectores e o estado do suporte antes de tocar no console. Se havia um nome ali, precisavam lê-lo inteiro.
 
 O Taxidermista não foi o primeiro a usar carne humana para alimentar o silício da Aeterna Corp.
 
 Dante Moretti já havia cortado o caminho muito antes da queda de Prometeu.
 
-— Aquele filho da puta — Gabo sibilou, a voz como veneno ácido escorrendo de uma ferida aberta, os olhos negros cravados no cilindro de vidro pálido que pulsava suavemente, enquanto a dor em seus pulsos cauterizados tornava a verdade cristalina e brutal. O cofre do pai não guardava apenas segredos corporativos; guardava a semente do próprio horror da Necrópole.
+— Aquele filho da puta — Gabo sibilou, a voz como veneno ácido escorrendo de uma ferida aberta, os olhos negros cravados no cilindro de vidro pálido que pulsava suavemente, enquanto a dor em seus pulsos enfaixados tornava a verdade cristalina e brutal. O cofre do pai não guardava apenas segredos corporativos; guardava a semente do próprio horror da Necrópole.

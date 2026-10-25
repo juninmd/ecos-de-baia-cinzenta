@@ -27,15 +27,15 @@ Valéria examinou a fresta entre as chapas com o bico da lanterna.
 
 — A trava magnética tá sem energia, mas a biomassa selou as corrediças. Se a gente tentar cortar isso com maçarico, o metano residual no fosso explode na nossa cara.
 
-— Não precisa de maçarico — dei um passo à frente, ajustando a postura das pernas no concreto escorregadio. — O motor desse braço aguenta duas toneladas de tração no ponto morto.
+— Não precisa de maçarico — dei um passo à frente, ajustando a postura das pernas no concreto escorregadio. — O mecanismo da porta tem uma manivela de emergência. O suporte do meu braço ajuda a manter a ferramenta no eixo; não transforma meu ombro numa máquina de duas toneladas.
 
-— Gabo, espera — Valéria segurou meu sobretudo com firmeza. — O pino da sua escápula já tá frouxo por causa do tranco no radiador do buggy. Se você forçar a abertura dessa comporta no torque máximo, o recuo vai estourar os parafusos que o Vasco colocou no seu ombro.
+— Gabo, espera — Valéria segurou meu sobretudo com firmeza. — O pino da sua escápula já tá frouxo depois do esforço para soltar o calço do ônibus. Se você forçar a abertura dessa comporta no torque máximo, o recuo vai estourar os parafusos que o Vasco colocou no seu ombro.
 
 — Se a gente não abrir essa porta agora, Val, as raízes fecham a escada atrás da gente e a gente morre sufocado no corredor. Afasta dois metros.
 
 Ela praguejou em voz baixa, recuando com a arma em punho, mas mantendo os olhos prateados cravados na junta mecânica do meu braço com atenção cirúrgica.
 
-Enfiei as garras de aço da armação na fresta entre as duas portas de blindagem. O metal frio mordeu contra as engrenagens da prótese. Travei os motores da junta e comandei a abertura hidráulica com toda a pressão que os acumuladores de Vasco conseguiam entregar.
+Val abriu a tampa da manivela de emergência. Prendeu o regulador da cinta ao suporte para não receber o retorno da roda se o eixo escapasse. Eu encaixei a ferramenta no acionamento, apoiando a armação contra o batente; giramos em etapas, com as pernas firmadas fora da fresta. A trava mecânica segurava cada pequeno avanço.
 
 O ferro gemeu. As raízes secas que lacravam o batente arrebentaram com estalos múltiplos de cabos de aço se partindo. Um jato de ar gelado e com cheiro de óleo mineral velho escapou pelo vão enquanto a folha esquerda deslizava forçada pelo trilho oxidado.
 

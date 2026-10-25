@@ -5,8 +5,7 @@ Localização: "Zona de Exclusão Sul - O Núcleo do Berçário"
 ---
 # Capítulo 103: A Convergência
 
-**Zona de Exclusão Sul - O Núcleo do Berçário**
-
+Zona de Exclusão Sul - O Núcleo do Berçário
 O túnel desembocou em uma caverna vasta, uma catedral invertida escavada na rocha e reforçada com aço e biomassa. O ar era denso, quente e úmido, cheirando a ozônio e sangue coagulado.
 
 No centro da câmara, suspenso sobre um abismo de escuridão insondável, estava o "Ventre". Uma esfera colossal de vidro e metal, pulsando com uma luz âmbar rítmica. Dentro dela, flutuando em fluido amniótico sintético, estava um corpo.
@@ -47,11 +46,11 @@ Silas não se virou.
 
 O console emitiu um sinal sonoro agudo. Dentro da esfera, o corpo de Dante convulsionou.
 
-Gabo sacou a "Leviatã". Não tinha mais granadas, mas o lançador servia como um porrete de cinco quilos de aço reforçado.
+Gabo apertou o pé de cabra, a ferramenta que ainda conseguia segurar. A borda estava molhada do fluido que vazara na sala de controle.
 
 Ele alcançou a plataforma. Silas se virou, sacando uma pistola de agulhas com uma velocidade surpreendente para um cientista.
 
-Gabo sentiu a picada no ombro, o entorpecimento imediato se espalhando. Ele ignorou. A adrenalina e o ódio eram antídotos poderosos. Ele balançou o lançador, atingindo o braço de Silas. O osso estalou, e a arma caiu no abismo.
+Gabo sentiu a picada no ombro, o entorpecimento imediato se espalhando. Ele perdeu a força no ombro. Antes que o braço pendesse, usou a mão esquerda para empurrar a ferramenta contra a pistola, atingindo o braço de Silas. O osso estalou, e a arma caiu no abismo.
 
 Silas recuou, segurando o braço quebrado, mas sorrindo.
 
@@ -61,7 +60,7 @@ Gabo tateou o bolso. O cubo. Ele estava quente, vibrando contra sua coxa.
 
 — Não... — Gabo tentou puxá-lo, para jogá-lo longe, no abismo.
 
-Mas sua mão não obedeceu. O cubo estava *magnetizado* ou... vivo. Gavinhas de luz roxa começaram a sair do bolso de Gabo, conectando-se sem fio aos receptores do Ventre.
+Mas sua mão não obedeceu. O cubo estava *magnetizado* ou... vivo. Filamentos presos à borda do cubo tinham atravessado o forro e se enroscado no cabo do corrimão. Indicadores roxos correram até os receptores do Ventre. Elena apontou a conexão; Gabo tentou soltá-la, mas já não tinha força no ombro.
 
 Atrás dele, um grito. Gabo olhou por cima do ombro.
 
@@ -77,9 +76,7 @@ Se ele parasse a máquina, Roberto mataria Elena. Se ele salvasse Elena, Dante r
 
 "Foda-se o legado", pensou Gabo.
 
-Ele girou, não para atacar Silas, mas para usar o impulso de suas pernas mecânicas. Ele se lançou no ar, um salto impossível para um aleijado, impulsionado pela hidráulica no limite de ruptura.
-
-Ele colidiu com Roberto como uma bala de canhão humana.
+Ele abandonou Silas e se deixou cair pela rampa lateral, segurando o corrimão com a esquerda. Bateu de lado em Roberto no trecho em que o parapeito já pendia sobre a plataforma inferior. Não foi um salto: o apoio cedeu com o peso dos três.
 
 O impacto jogou ambos contra o parapeito. O metal cedeu.
 
@@ -91,7 +88,7 @@ Gabo arrancou um tubo grosso do pescoço de Roberto. Fluido vital jorrou.
 
 — Eu sou humano — rosnou Gabo.
 
-Ele começou a socar. Esquerda, direita, esquerda. Metal contra metal e carne sintética. Ele bateu até os olhos vermelhos de Roberto se apagarem. Até o rosto do ex-parceiro ser apenas uma massa irreconhecível de circuitos e tecido.
+Ele prendeu a ferramenta na junta exposta do pescoço. Elena puxou o cabo de alimentação da cadeira, ainda preso às costas de Roberto, e cortou a linha com a borda da ferramenta. Os olhos vermelhos se apagaram. Gabo manteve a pressão até parar o último movimento, enquanto Elena registrava o rosto destruído e o número do módulo. Não levariam aquela morte de volta como boato.
 
 — Gabo! A máquina! — gritou Elena, tossindo.
 

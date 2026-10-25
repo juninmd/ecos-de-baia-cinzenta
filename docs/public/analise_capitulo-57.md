@@ -1,20 +1,18 @@
-# Análise Crítica - Capítulo 57
+# Revisão de Capítulo 57: Zona de Interesse
 
-## Avaliação Técnica
-- **Ritmo:** 9/10 - Crescimento exponencial de tensão. Inicia na furtividade do subúrbio sendo despejado e escala para um combate aberto e brutal.
-- **Diálogos:** 8/10 - A inteligência artificial dos "Protótipos CP-Z" contrasta violentamente com o ódio ríspido de Gabo, servindo muito bem à temática cibernética fria do universo.
-- **Atmosfera:** 9/10 - A cena da "remoção forçada" (robôs atirando sonares que explodem vidros) é muito impactante e constrói a corporação Aeterna como uma ameaça sistêmica implacável.
+Fonte: [capítulo 57](/capitulo-57.md).
 
-## Pontos Fortes e Fracos
-**Fortes:**
-- Gabo ignora "a dor nas costas", que é mais uma consequência física de suas limitações. O uso pesado da escopeta "Caronte" para derrubar blindados mantém seu nível de força num patamar realista para os padrões de Baía Cinzenta.
-- A revelação no QR code ao final, ligando o Consórcio Lázaro de volta à Aeterna, faz a trama circular maravilhosamente.
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-**Fracos:**
-- Os robôs erram muitos tiros a curta distância num alvo machucado, embora blindagens e supressão justifiquem parte disso na literatura *pulp*.
+## Passagens de entrada e saída
 
-## Sanity Check (Lore Compliance)
-- [x] O trauma fóbico de fumaça de Gabo está ileso? Sim. O combate não apresenta escapes viciosos. O cheiro predominante da chuva mascara tudo.
-- [x] O *modus operandi* tático é coerente? Sim, Gabo tentou enganar o bot com 9mm e foi para a doze serrada apenas quando as barreiras caíram.
+> Zona de Exclusão — Setor 4
+> Aria quase não usava o sintetizador de voz. Naquela parte da viagem, Aria poupava intervenções. O drive retornara ao painel depois de passar pelo deck e pelos terminais; os registros de cada ligação continuavam separados. No resto do tempo ela operava assim: com o corpo metálico do pendrive morno na porta de dados, o LED azul-gelo pulsando devagar contra o plástico sujo do console, varrendo as frequências do setor.
 
-**Conclusão:** O Capítulo 57 progride com fluidez. As limitações do corpo machucado de Gabo estão ativas e ele não infringe o lore anti-fumo. Sem necessidade de alterações.
+### Saída
+
+> O pequeno componente metálico no painel emitiu um pulso âmbar suave, fechando a entrada de ar externo para reduzir o frio úmido sem que ele precisasse pedir, e Gabo teve que olhar para a chuva pela janela lateral por um tempo antes de conseguir dar a partida.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

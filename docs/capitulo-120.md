@@ -1,11 +1,9 @@
-## Metadados
-- **Título:** O Silêncio de Aeterna
-- **Data In-Game:** 23 de Novembro, 00:15
-- **Localização:** Distrito Industrial - Perímetro Externo da Usina Prometeu
-- **Personagens Presentes:** Gabo Moretti, Valéria Cruz, Inspetor Rangel, Aria (Inerte).
-- **Foco:** O grupo enfrenta a realidade brutal de uma cidade sem energia e sem lei. Rangel luta contra os ferimentos. Gabo utiliza habilidades analógicas para garantir um meio de transporte e manter a coesão do grupo em meio ao caos silencioso.
-
-## Narrativa
+---
+title: "Capítulo 120: O Silêncio de Aeterna"
+Data In-Game: "23 de Novembro, 00:15"
+Localização: "Distrito Industrial - Perímetro Externo da Usina Prometeu"
+Personagens Presentes: "Gabo Moretti, Valéria Cruz, Inspetor Rangel, Aria (Inerte)."
+---
 
 # Capítulo 120: O Silêncio de Aeterna
 
@@ -51,7 +49,7 @@ Ele abriu os olhos. Focou.
 
 Lá dentro, entre fileiras de veículos de limpeza autônomos e drones de carga inoperantes, havia algo diferente. Um caminhão de reboque, antigo, com manchas de ferrugem e pneus borrachudos. Um modelo de tração, anterior à Lei de Ar Limpo de 2045.
 
-— Combustão interna — Gabo murmurou, pulando a grade.
+— Combustão interna — Gabo murmurou, passando pela abertura do portão.
 
 O pátio tinha aquele silêncio de coisas guardadas: brita solta sob a bota, um portão batendo em algum lugar, o cheiro de graxa velha subindo do chão com a chuva. Ele atravessou entre os veículos elétricos com o passo curto que a órtese impunha e sentiu, na nuca, o peso de cada janela do bairro. Um motor ligado ali seria ouvido a três quarteirões. Não havia mais vigilância, mas também não havia mais nada para impedir que a curiosidade de um vizinho virasse saque.
 
@@ -59,7 +57,7 @@ O pátio tinha aquele silêncio de coisas guardadas: brita solta sob a bota, um 
 
 — É analógico — corrigiu Gabo. Ele quebrou o vidro da janela do motorista com a coronha da *Caronte*. O cheiro de mofo e óleo velho invadiu suas narinas. Um perfume melhor que qualquer incenso sintético.
 
-Ele tateou sob o painel, puxando os fios da ignição. Vermelho no vermelho. Terra no chassi.
+Rangel indicou, da calçada, o cilindro de emergência. A chave da frota ainda estava no molho que ele carregava. Gabo a encaixou, sem saber se o motor teria combustível ou bateria.
 
 — Vamos, sua lata velha... — sussurrou.
 

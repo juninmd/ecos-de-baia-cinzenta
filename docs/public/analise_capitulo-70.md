@@ -1,16 +1,18 @@
-# Análise: Capítulo 70 - O Expurgo
+# Revisão de Capítulo 70: O Expurgo
 
-**Avaliação Técnica:**
-- Ritmo: 10/10
-- Diálogos: 9/10
-- Atmosfera: 10/10
+Fonte: [capítulo 70](/capitulo-70.md).
 
-**Pontos Fortes / Fracos:**
-- Fortes: Revelação de horror biológico fantástica (a fusão Kael/Marco), mostrando as consequências físicas terríveis da tecnologia Aeterna. O retorno do Taxidermista como híbrido caótico adiciona tensão macabra.
-- Fracos: O capítulo avança rápido, mas as apostas do satélite estão muito bem ancoradas, exigindo esse ritmo acelerado.
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-**Sanity Check (Lore):**
-- Totalmente compatível. Fumaça, o grande gatilho de Gabo, não foi mencionado e não serviu como muleta para o terror de Gabo na cena horripilante. O cheiro é de esgoto ("água residual", "fétido"), que não desencadeia seus traumas. Tudo está coerente.
+## Passagens de entrada e saída
 
-**Avaliação Qualitativa:**
-- Excelente desenvolvimento que entrega um terror "body-horror" excelente no contexto cyberpunk. Personagens coesos e em evolução natural com o trauma da jornada. Sem necessidade de novos personagens.
+> Túneis de acesso à Torre Aeterna — vinte e três e quarenta.
+> — *Eles chamam isso de economia básica* — disse a Aria.
+
+### Saída
+
+> E Gabo soube, com a certeza de quem já perdeu tudo duas vezes, que nem todos eles sairiam vivos daquela sala.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

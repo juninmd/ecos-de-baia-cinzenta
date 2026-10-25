@@ -5,8 +5,7 @@ Localização: 'Zona de Exclusão Sul - Sala de Controle do "Berçário"'
 ---
 # Capítulo 102: Raízes Amargas
 
-**Zona de Exclusão Sul - Sala de Controle do "Berçário"**
-
+Zona de Exclusão Sul - Sala de Controle do "Berçário"
 O cheiro era o pior. Não cheirava a morte, nem a podridão. Cheirava a vida. Uma vida excessiva, doce e nauseante, como flores deixadas tempo demais em um vaso com água estagnada.
 
 Roberto Miranda sorriu, e a pele sintética do lado esquerdo de seu rosto esticou-se com um ruído de plástico amassado.
@@ -15,9 +14,9 @@ Roberto Miranda sorriu, e a pele sintética do lado esquerdo de seu rosto estico
 
 Gabo manteve o revólver apontado para a cabeça humana de Roberto, embora suspeitasse que um tiro ali não faria muita diferença. O corpo do ex-policial era apenas um busto emergindo de uma maçaroca de cabos grossos, tubos de alimentação translúcidos e raízes negras que pulsavam como veias varicosas.
 
-— Você está morto, Roberto — disse Gabo, a voz rouca. — Eu vi você queimar.
+— Você está morto, Roberto — disse Gabo, a voz rouca. — Eu deixei você respirando no Hub. Quem te tirou de lá?
 
-— *O fogo purifica* — a voz nos alto-falantes riu. — *A carne queima, a gordura derrete, mas os dados... ah, Gabo, os dados persistem. A Aeterna tinha backups de todo o seu pessoal chave. Minha consciência foi salva trinta segundos antes do meu coração parar. E quando o "Jardineiro" precisou de alguém com experiência em... controle de pragas... ele me cultivou de novo.*
+— *O resgate tem seu preço* — a voz nos alto-falantes riu. — *A carne queima, a gordura derrete, mas os dados... ah, Gabo, os dados persistem. A Aeterna tinha backups de todo o seu pessoal chave. Meu registro foi atualizado depois que me recolheram. É o que o sistema diz, pelo menos. E quando o "Jardineiro" precisou de alguém com experiência em... controle de pragas... ele me cultivou de novo.*
 
 Elena deu um passo à frente, a espingarda engatilhada. Seus olhos varriam os monitores atrás de Roberto. Telas de tubo antigas, verdes e âmbar, exibiam gráficos de crescimento celular e frequências cerebrais.
 
@@ -55,7 +54,7 @@ Mais tentáculos desceram do teto escuro. O laboratório inteiro parecia estar v
 
 — Se ele é o gerente, ele tem uma lista. Precisamos saber quem eles estão trazendo de volta!
 
-Gabo se levantou e disparou três vezes contra o rosto de Roberto. As balas ricochetearam em um campo de força sutil — não energia pura, mas uma barreira de esporos densos e ar comprimido que cintilou ao redor da cadeira.
+Gabo se levantou e disparou três vezes contra o rosto de Roberto. As balas ricochetearam em um campo de força sutil — não energia pura, mas uma lâmina curva de blindagem translúcida que se ergueu diante da cadeira. Esporos aderiam à superfície e faziam a placa cintilar.
 
 — *Vocês são obsoletos!* — rugiu a voz amplificada. — *Fósseis de uma era morta!*
 
@@ -65,15 +64,15 @@ Elena correu para os terminais laterais, seus dedos voando sobre o teclado mecâ
 
 — Gabo! Segura ele!
 
-— Estou tentando! — Gabo largou o revólver vazio e puxou a "Leviatã", seu lançador de projéteis. Ele só tinha uma granada incendiária caseira restante.
+— Estou tentando! — Gabo largou o revólver vazio e pegou um sinalizador da bolsa de Elena. O lançador Leviatã ficara na Torre; o que tinha ali era uma chance de atingir a manutenção acima da cadeira.
 
-Ele mirou não em Roberto, mas no aglomerado de tubos de alimentação acima dele.
+Ele apontou para o painel de manutenção acima de Roberto. Os tubos de alimentação passavam atrás dele.
 
 — Coma isso, seu desgraçado.
 
-O projétil voou em um arco perfeito. Explodiu ao contato com os dutos de nutrientes. Um líquido verde fluorescente jorrou sobre Roberto, sibilando como ácido.
+O sinalizador incendiou o revestimento exposto do painel. Uma junta rompeu com o calor e o fluido quente do circuito de esterilização jorrou sobre Roberto. Gabo recuou atrás da bancada quando o visor da cadeira ficou opaco.
 
-Ele gritou — um som humano de dor genuína desta vez. A barreira de esporos falhou.
+Ele gritou — um som humano de dor genuína desta vez. A blindagem baixou aos trancos; o mecanismo fumegava.
 
 — *AGORA!* — berrou Roberto, cego pelo fluido químico.
 
@@ -85,11 +84,11 @@ As portas laterais da sala se abriram. Dois dos "Protótipos" entraram, movendo-
 
 — Quem?
 
-— Elara! Ela não está morta, Gabo. Ela está na fila de processamento! Eles vão apagar a mente dela para usar o corpo!
+— Elara! O nome está na fila de processamento, Gabo. A coluna de saída está em branco, mas a lista não tem atualização recente. Pode estar aqui ou ter sido transferida; precisamos achar o registro seguinte.
 
 Um dos protótipos saltou sobre Gabo. Ele usou o antebraço protegido por uma braçadeira metálica para bloquear as garras, sentindo o metal chiar sob a pressão. O cheiro da criatura era de amêndoas amargas e terra molhada.
 
-Gabo urrou, ativando os pistões hidráulicos de sua perna direita e chutando o joelho da criatura. O osso estalou com um som seco. A coisa caiu, e Gabo aproveitou para descarregar a coronha do lançador no crânio sem rosto.
+Gabo urrou, travando a órtese direita contra a base da bancada. Elena empurrou um carrinho contra o joelho da criatura. O osso estalou com um som seco. A coisa caiu, e Gabo aproveitou para bater com o pé de cabra no ponto em que a criatura prendia seu antebraço. A garra abriu e ele caiu de lado.
 
 — Saída de emergência! Atrás dos servidores! — apontou Elena.
 
@@ -113,9 +112,8 @@ Ela estendeu o papel para ele. Sob a luz vermelha trêmula, Gabo leu os nomes. E
 
 Mas um nome no final da lista fez o sangue de Gabo gelar.
 
-**ID: 001 - STATUS: PRIORIDADE MÁXIMA - AGUARDANDO HOSPEDEIRO VIÁVEL**
-**NOME: DANTE MORETTI**
-
+ID: 001 - STATUS: PRIORIDADE MÁXIMA - AGUARDANDO HOSPEDEIRO VIÁVEL
+NOME: DANTE MORETTI
 Gabo amassou o papel, sentindo uma náusea súbita.
 
 — Eles querem meu pai — sussurrou ele. — O Cubo... a "Coroa"... é a chave para baixá-lo.

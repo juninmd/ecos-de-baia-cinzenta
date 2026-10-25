@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: "Capítulo 73: Carne e Metal"
-description: "O ex-parceiro trocou de corpo para não ser mais o lixo que reciclaram. Gabo mata ele com um isqueiro que não acende nada."
+description: "Miranda fica inconsciente, mas vivo. O pedido de resgate tem hora e localização; não tem confirmação de chegada."
 image: /capitulo_73.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Roberto Miranda, Aria
 Localização: "Hub de Comunicações — o acerto"
@@ -9,15 +9,12 @@ Localização: "Hub de Comunicações — o acerto"
 
 # Capítulo 73: Carne e Metal
 
-**Hub de Comunicações — o acerto.**
-
+Hub de Comunicações — o acerto.
 A arma disparou antes de Gabo entender que era uma arma.
 
 Não houve tiro, nem fogo, nem recuo. Houve um estalo agudo, e a pele do rosto e das mãos de Gabo esquentou de dentro para fora — não a superfície: a **camada de baixo**, como quando se encosta o rosto perto demais de uma fogueira, só que sem a fogueira.
 
-Ele se jogou atrás de um rack.
-
-Um segundo depois, ele estava com a boca seca de um jeito que não se resolve com água.
+Ele se jogou atrás de um rack. Um segundo depois, ele estava com a boca seca de um jeito que não se resolve com água.
 
 — **ARMA DE DISPERSÃO POR MICRO-ONDAS!** — gritou Val, de trás de outro rack. — Gabo, isso é equipamento de controle de multidão, aquilo cozinha a água do corpo! Não deixa ele apontar por mais de dois segundos em você!
 
@@ -39,13 +36,11 @@ A *Caronte* estava perdida em algum ponto da luta com o Santo. A Glock estava co
 
 Val hesitou meio segundo, xingou e foi.
 
-Ela arrancou o pendrive de titânio da Aria do barramento do console — o metal estava tão quente que queimou a palma da mão dela —, travou-o no deck de pulso e sumiu para dentro do duto.
+Ela arrancou o pendrive de titânio da Aria do barramento do console — o metal estava tão quente que queimou a palma da mão dela — e o travou no deck de pulso. Antes de entrar no duto, abriu o painel de manutenção e escolheu o setor do Hub. Os dedos correram por duas telas; por quarenta segundos, a luz de serviço permaneceu âmbar. Gabo não conseguia ler as condições da rotina, só viu Val confirmar e arrancar a mão do painel quando Miranda se aproximou. Então ela sumiu no duto.
 
 ---
 
-Miranda avançava sem pressa, varrendo a sala com a parabólica.
-
-E falava. Ele sempre falou.
+Miranda avançava sem pressa, varrendo a sala com a parabólica. E falava. Ele sempre falou.
 
 — Sabe qual é a parte engraçada, Gabo? — A voz dele era calma, quase carinhosa, com o mesmo timbre com que discutia palpite de jogo dentro de uma viatura, catorze anos antes. — Eu sempre te invejei.
 
@@ -57,9 +52,7 @@ Gabo se moveu para o rack seguinte, e o campo passou por onde ele tinha estado, 
 
 — Nunca me passou pela cabeça que você pudesse estar **enganado**.
 
-Gabo rolou e atirou duas vezes.
-
-Os dois acertaram: peito alto, agrupamento de cinco centímetros, a nove metros, com o braço esquerdo. Era um tiro excelente.
+Gabo rolou e atirou duas vezes. Os dois acertaram: peito alto, agrupamento de cinco centímetros, a nove metros, com o braço esquerdo. Era um tiro excelente.
 
 Miranda parou, olhou para baixo, e abriu a camisa com a mão livre.
 
@@ -77,23 +70,17 @@ Ele chutou a mesa que separava os dois.
 
 Não empurrou: chutou, e a mesa de aço de oitenta quilos atravessou a sala e bateu na parede oposta, e Gabo entendeu que não era só a pele que tinham trocado.
 
-Ele tentou se levantar.
-
-As órteses não responderam.
+Ele tentou se levantar. As órteses não responderam.
 
 O campo de micro-ondas tinha feito com a eletrônica delas o que ia fazer com um homem em dois segundos: os servos travaram travados, os dois joelhos rígidos, e Gabriel Moretti ficou sentado no chão de um Hub inclinado com as pernas esticadas na frente, como um boneco.
 
-Miranda chegou perto e o levantou pelo pescoço com a mão mecânica.
-
-Um braço só. Sem esforço. Os pés de Gabo saíram do chão.
+Miranda chegou perto e o levantou pelo pescoço com a mão mecânica. Um braço só. Sem esforço. Os pés de Gabo saíram do chão.
 
 — Últimas palavras, parceiro?
 
 ---
 
-Gabo olhou nos olhos dele.
-
-Estava tudo lá: a subpele, os implantes de reflexo, a mandíbula reconstruída, o braço que custava mais que a casa da mãe dele.
+Gabo olhou nos olhos dele. Estava tudo lá: a subpele, os implantes de reflexo, a mandíbula reconstruída, o braço que custava mais que a casa da mãe dele.
 
 E, atrás disso, no fundo do olho — que foi a única coisa que ninguém trocou —, havia medo.
 
@@ -101,11 +88,7 @@ O medo específico do sujeito que vendeu tudo, recebeu o pagamento, gastou o pag
 
 — Só uma — disse Gabo, com a voz apertada pela mão no pescoço.
 
-Ele levou a mão esquerda ao bolso do sobretudo.
-
-Miranda deixou. Foi vaidade, e foi a última que ele teve.
-
-Gabo tirou o isqueiro.
+Ele levou a mão esquerda ao bolso do sobretudo. Miranda deixou. Foi vaidade, e foi a última que ele teve. Gabo tirou o isqueiro.
 
 Era um Zippo de latão gasto, sem gravação, com a dobradiça folgada — o isqueiro que Dante Moretti carregou por trinta anos, porque servia para acender vela, fogão e caldeira, e porque um homem devia ter no bolso alguma coisa que funcionasse sem bateria.
 
@@ -117,41 +100,17 @@ E abriu a tampa.
 
 O isqueiro não acendeu nada.
 
-O que ele fez foi outra coisa: a Val tinha passado quarenta segundos, antes de entrar no duto, dentro do sistema predial — e a última coisa que ela fez foi armar o gatilho de supressão de incêndio do Hub, condicionado a um sinal simples, qualquer coisa que produzisse uma faísca com assinatura térmica pontual no setor.
+O que ele fez foi outra coisa: Val programara o gatilho para uma assinatura térmica pontual; o isqueiro dava a ela o sinal que faltava. A rotina de supressão, sem explicação ainda, tinha estado diante dos olhos dele por quarenta segundos.
 
-O Hub não era protegido com água.
-
-Água em sala de servidor é crime.
-
-Os bicos do teto dispararam nitrogênio líquido.
+O Hub não era protegido com água. Água em sala de servidor é crime. Os bicos do teto dispararam nitrogênio líquido.
 
 ---
 
-A nuvem branca desceu de uma vez e encheu a sala inteira, e a temperatura caiu de vinte e quatro para menos setenta em menos de dois segundos.
+Val armara a descarga do circuito criogênico de manutenção sobre a posição que tentavam deixar. O sinal do isqueiro acionou a rotina; a nuvem atingiu o visor e a articulação exposta da prótese de Miranda. A mão abriu, e Gabo caiu no vão atrás do rack.
 
-Miranda soltou Gabo por reflexo.
+Miranda tentou recuperar a arma. O braço direito travou, com a junta coberta de condensação e gelo. Ele perdeu apoio e bateu a cabeça na bancada antes de cair. A descarga não congelou instantaneamente um homem inteiro nem despedaçou titânio; continuava letal ficar naquele setor sem proteção.
 
-E foi aí que a engenharia que ele tinha comprado o matou.
-
-A malha de titânio impresso contraiu. É o que metal faz com choque térmico, e é por isso que essa liga não é usada em ambiente criogênico, e é exatamente o tipo de restrição técnica que aparece no rodapé do manual que ninguém lê.
-
-A malha contraiu dois por cento.
-
-A carne por baixo, não.
-
-Roberto Miranda foi apertado por dentro da própria pele.
-
-Ele abriu a boca para gritar e o grito congelou na garganta antes de sair — literalmente: o ar úmido dos pulmões dele virou cristal na traqueia, e o som que saiu foi um assobio curto e um estalo.
-
-Ele caiu de joelhos.
-
-Ficou assim, com os dois braços meio erguidos, com a mão mecânica ainda brilhando polida e a mão humana já branca de gelo, e parou.
-
----
-
-Gabo se arrastou para trás com os cotovelos até bater as costas num rack, ofegando, com a respiração saindo em nuvem.
-
-Ficou olhando aquilo.
+Gabo se arrastou para trás com os cotovelos até bater as costas num rack, ofegando, com a respiração saindo em nuvem. Ficou olhando aquilo.
 
 Não sentiu vitória, e não sentiu pena, e a coisa que ele sentiu foi tão pequena e tão mesquinha que ele nunca contou a ninguém: sentiu que **ficou barato demais**.
 
@@ -163,15 +122,9 @@ E acabou em três segundos, por causa de uma nota de rodapé sobre coeficiente d
 
 Depois se arrastou até lá.
 
-E, com a mão boa, deu um empurrão no ombro do ex-parceiro.
+Viu o peito de Miranda se mover. O ex-parceiro estava inconsciente, preso sob a arma e a prótese travada. Gabo não tinha força para carregá-lo ou meios de custódia naquela sala. Conservou a imagem e o horário no telefone, indicou o ponto no canal de manutenção e se afastou antes que outra descarga o atingisse.
 
-A estátua tombou de lado e estilhaçou no piso do Hub em algumas centenas de pedaços, e alguns deles eram de metal, e a maioria não era.
-
-Gabo ficou olhando os pedaços por um tempo bem comprido.
-
-— Eu não estava enganado — ele disse, para ninguém. — Você era melhor que isso. Esse é o problema, Roberto.
-
----
+Não sabia quem atenderia ao chamado. Sabia que não estava deixando um corpo despedaçado para justificar um retorno impossível.
 
 Levou seis minutos para destravar as órteses na marra, batendo o punho nos servos até o relé ceder.
 
@@ -183,22 +136,14 @@ O eco voltou vazio.
 
 — **VAL!**
 
-Nada.
-
-O duto seguia reto por uns doze metros e depois subia. No chão de chapa havia uma marca de arraste e uma mancha escura ainda molhada.
+Nada. O duto seguia reto por uns doze metros e depois subia. No chão de chapa havia uma marca de arraste e uma mancha escura ainda molhada.
 
 Gabo saiu do duto e ficou parado no meio do Hub congelado, com nitrogênio evaporando em volta dos tornozelos, escutando.
 
-E ouviu.
-
-Vinha de cima: um som ritmado, pesado, batendo contra o ar.
-
-Rotor.
+E ouviu. Vinha de cima: um som ritmado, pesado, batendo contra o ar. Rotor.
 
 Alguém tinha pousado um helicóptero no heliponto de uma torre inclinada em nove graus, o que exigia um piloto muito bom ou uma ordem muito grande.
 
-Gabo olhou para a escada de emergência.
+Gabo olhou para a escada de emergência. Cento e oitenta e dois andares.
 
-Cento e oitenta e dois andares.
-
-Ele começou a subir.
+Havia um elevador de manutenção no mapa que Val deixara no visor, com alimentação independente ainda indicada como ativa. Gabo arrastou-se até ele e usou a credencial de serviço copiada antes da separação. A primeira porta recusou; a segunda abriu apenas até o pavimento de transferência. Não subiria cento e oitenta e dois andares nos braços.

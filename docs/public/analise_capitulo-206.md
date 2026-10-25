@@ -1,18 +1,17 @@
-# Análise Crítica - Capítulo 206: Ecos na Escuridão
+# Revisão de Capítulo 206: Ecos na Escuridão
 
-## Avaliação Técnica
-- **Ritmo (Pacing): 8/10**. A tensão do combate anterior cede lugar a um momento de exploração claustrofóbica. O ritmo reflete a exaustão física e psicológica dos personagens após a batalha. A transição da imobilidade para a movimentação rumo ao duto mantém o momento focado na sobrevivência.
-- **Diálogos: 8.5/10**. O pragmatismo clínico de Valéria contrasta bem com o medo humanizado de Elias e o estoicismo de Gabo. A resposta final de Gabo para Elias reforça sua natureza cínica.
-- **Atmosfera: 9/10**. O cenário do armazém mergulhado em escuridão, a poeira de ferrugem, o ozônio e o som ensurdecedor das engrenagens falhando de Gabo constroem um ambiente opressivo clássico do Cyberpunk Noir e do subgênero de sobrevivência industrial.
+Fonte: [capítulo 206](/capitulo-206.md).
 
-## Pontos Fortes e Fracos
-- **Pontos Fortes**: A ancoragem de Gabo na dor física para afastar o cheiro fantasma de charuto é muito forte e respeita estritamente sua lore de aversão ao tabagismo. O uso de suas próteses danificadas como fontes constantes de agonia ressalta a fisicalidade da cena.
-- **Pontos Fracos**: A transição para o duto de escoamento é um tanto abrupta no desfecho; a cena de descida poderia explorar mais a logística de movimentar alguém tão machucado em um buraco vertical, embora mantenha a tensão.
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-## Sanity Check
-- **Gabo interagiu com algum fumante? Como sua repulsa foi demonstrada?** Não há fumantes presentes. Gabo teve uma alucinação olfativa com fumaça de charuto (trauma de seu pai) induzida pelo estresse e pela escuridão. Ele repudiou isso violentamente, usando a dor física de seu ombro machucado para quebrar o devaneio e se ancorar na realidade.
-- **O plot twist deste capítulo invalida algo estabelecido nos capítulos anteriores?** Não há um grande plot twist; o capítulo apenas desenvolve organicamente as consequências imediatas da destruição do Colosso de Sucata, de acordo com o capítulo 205.
-- **O resumo da lore foi atualizado com os novos eventos?** Sim. O grupo agora deixou o fosso principal destruído do armazém logístico do Setor 6 e desceu por um duto de escoamento industrial rumo a um subnível desconhecido.
+## Passagens de entrada e saída
 
-## Avaliação Qualitativa
-A história se mantém coerente com a narrativa sombria. Elias e Valéria agem exatamente de acordo com seus arquétipos estabelecidos (o vulnerável humano e a máquina pragmática). Gabo continua aprofundando sua dependência de estímulos de dor para manter a sanidade. Não é necessária a introdução de novos personagens neste momento, focando o holofote nos sobreviventes imediatos e no ambiente letal. A jornada para baixo sublinha a temática de 'abismo' recorrente no Setor 6.
+> O estrondo colossal da ponte rolante desabando ainda reverberava nos meus ossos muito depois que a última viga de aço parou de chiar contra os destroços incandescentes. A escuridão total engoliu o armazém logístico assim que a poeira sufocou os globos de luz âmbar. Sem a visão, o mundo foi reduzido a três sensações primitivas: o ardor cáustico de ozônio queimado na garganta, o gosto amargo de sangue e ferrugem na língua e o pulsar surdo do meu ombro lacerado onde a armação industrial forçava o osso fraturado.
+
+### Saída
+
+> Elias foi em seguida, descendo degrau por degrau com as mãos coladas aos grampos de ferro chumbados na parede curva. Coloquei o cano da *Caronte* sob o braço bom, apoiei a mão de aço de Vasco na borda escorregadia do concreto e iniciei a descida para o duto de escoamento. O ar frio da tubulação me envolveu como uma mortalha úmida, sepultando o barulho do galpão sob camadas infinitas de silêncio e pedra.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

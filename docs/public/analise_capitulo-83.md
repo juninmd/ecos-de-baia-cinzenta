@@ -1,21 +1,18 @@
-# Análise Crítica - Capítulo 83: Raízes
+# Revisão de Capítulo 83: Raízes
 
-## Metadados
-- **Título**: Capítulo 83: Raízes
-- **Data In-Game**: 09:00 AM
-- **Localização**: Gabinete do Prefeito (Interino), Vilar
-- **Personagens Presentes**: Gabo, Vilar, Valéria (Val), Dra. Nise
+Fonte: [capítulo 83](/capitulo-83.md).
 
-## Autoavaliação Técnica
-- **Ritmo (Pacing)**: 8/10
-- **Diálogo**: 9/10
-- **Atmosfera**: 9/10
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-## Pontos Fortes e Fracos
-- **Pontos Fortes**: A progressão misteriosa através da matemática (Fibonacci) para justificar a invasão biológica traz uma camada de ficção científica instigante e muito imersiva, saindo do clichê padrão de "monstros e plantas". O horror da revelação (DNA humano modificado) solidifica a tensão.
-- **Pontos Fracos**: A transição para a ação ocorre de forma um tanto abrupta no final com o telefonema sobre o metrô, mas cumpre o papel de estabelecer a urgência do próximo capítulo.
+## Passagens de entrada e saída
 
-## Sanity Check
-- [x] O protagonista (Gabo) não apresenta contato, desejo ou menção a fumar cigarros. (Seu trauma com fumaça é respeitado).
-- [x] A fisicalidade do protagonista, com as pernas destruídas, continua operando sob as órteses mecânicas, com referências claras ao seu zumbido e pressão adicionadas na revisão.
-- [x] A coerência do mundo, que transita da digitalização para o bio-horror, continua íntegra e não apaga o lore anterior, reciclando de forma brilhante o antigo bunker da Aeterna Corp.
+> Gabinete do prefeito interino — 09h.
+> Vilar odiava aquela sala. Ele tinha assumido a prefeitura interina por três motivos, e nenhum deles era vontade: o cargo estava vago desde que Marco Moretti sumiu num esgoto, os representantes dos abrigos o indicaram para a coordenação provisória e ninguém mais aceitou. A indicação não apagava o inquérito contra ele. Ele nem sentava na cadeira. Trabalhava de pé, na ponta da mesa. Jogou o mapa holográfico da cidade sobre o tampo, e o mapa acendeu cheio de pontos vermelhos.
+
+### Saída
+
+> O mapa holográfico ficou aceso na sala vazia, e a espiral vermelha continuou girando devagar em cima da mesa do prefeito, como um furacão que já chegou à costa e que ninguém percebeu porque estava dentro dele.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

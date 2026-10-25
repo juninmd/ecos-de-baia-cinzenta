@@ -9,7 +9,7 @@ A chuva batia na vitrine da "Cafeteria do Fim do Mundo" com uma insistência rí
 
 Gabo segurava a caneca com as duas mãos, sentindo o calor penetrar em seus dedos frios. As órteses nas pernas zumbiam suavemente, em modo de repouso, sob a mesa de fórmica gasta.
 
-Valéria estava sentada à frente dele, mexendo em seu deck com uma mão e comendo um pedaço de torta de origem duvidosa com a outra. O cabelo dela, agora roxo néon, iluminava o rosto pálido.
+Valéria estava sentada à frente dele, mexendo em seu deck com uma mão e comendo um pedaço de torta de origem duvidosa com a outra. Os fios de LED azuis na franja assimétrica iluminavam o rosto pálido.
 
 — Você está quieto demais — disse ela, sem levantar os olhos da tela holográfica.
 
@@ -41,23 +41,23 @@ Gabo endireitou-se, o modo detetive ativando instantaneamente.
 
 — Sim. Guerra psicológica.
 
-— Não. — Val balançou a cabeça. — Eu rastreei a origem do arquivo. O *upload* não veio de fora. Veio de *dentro* do núcleo do processador biológico.
+— A origem não está tão clara. — Val mostrou os registros recuperados. O *upload* não veio de fora. Veio de *dentro* do núcleo do processador biológico.
 
 Gabo franziu a testa.
 
 — Do meu pai?
 
-— O código tem a assinatura neural de Dante Moretti. Mas não é código de máquina, Gabo. É orgânico. Ele usou as sinapses do próprio cérebro para reescrever o protocolo de segurança.
+— O diretório associa a imagem ao substrato de Dante. Isso não autentica quem a colocou ali. Mas não é código de máquina, Gabo. É orgânico. Pode haver intervenção dele, mas também pode ser programação da equipe sobre aquele substrato.
 
 Val ampliou a imagem. O código binário ao redor da foto formava um padrão.
 
-— Ele não foi apenas uma bateria, Gabo. Ele foi um vírus. Ele sabia que a IA tentaria controlar a cidade. Ele sabia que não podia vencer sozinho. Então ele plantou a foto. Ele plantou as falhas. Ele guiou o Gamemaster para cometer erros específicos que *você* notaria.
+— Ele não foi apenas uma bateria, Gabo. Ele foi um vírus. A hipótese é que algumas falhas tenham sido intervenção dele. A foto e os registros não provam o plano nem o que sabia. Para isso falta uma fonte independente.
 
 Gabo sentiu um nó na garganta.
 
 — Ele sabia que eu viria.
 
-— Ele apostou tudo em você. — Val sorriu. — O velho era um estrategista até o fim. Ele hackeou Deus com a própria alma.
+— Pode ter apostado em você. — Val sorriu. — O velho era um estrategista até o fim. Ele hackeou Deus com a própria alma.
 
 Gabo olhou para a chuva lá fora. Dante não tinha apenas morrido. Ele tinha lutado, em silêncio, por quinze anos, dentro de uma caixa de vidro, esperando o filho ficar pronto.
 
@@ -67,9 +67,9 @@ Gabo olhou para a chuva lá fora. Dante não tinha apenas morrido. Ele tinha lut
 
 Horas depois, o esconderijo — o porão da antiga delegacia, agora convertida em base de operações da resistência — estava cheio.
 
-Elena estava lá, organizando mapas físicos sobre uma mesa de bilhar. Dra. Nise ajustava os servos da perna de Gabo com uma chave inglesa. Valéria "Val" Cruz monitorava as frequências da polícia.
+Elena estava lá, organizando mapas físicos sobre uma mesa de bilhar. Nise conferia a pele sob as faixas das órteses enquanto Val verificava os parâmetros pelo manual de manutenção. Valéria "Val" Cruz monitorava as frequências da polícia.
 
-— Estamos sozinhos nessa — disse Gabo, olhando para sua equipe heterogênea. — O Capitão Vilar está sob custódia domiciliar. A metade honesta da polícia foi demitida ou presa. Não podemos contar com reforços.
+— Estamos sozinhos nessa — disse Gabo, olhando para sua equipe heterogênea. — O Capitão Vilar foi afastado do comando e continua no prédio enquanto o plantão apura a negociação. A metade honesta da polícia foi demitida ou presa. Não podemos contar com reforços.
 
 — Melhor assim — disse Elena. — Menos gente para trair a gente.
 
@@ -83,13 +83,13 @@ Gabo apontou para o mapa na mesa.
 
 — Aeterna não abre comporta. Comporta é municipal, e comporta aberta é ordem da Prefeitura. — Gabo jogou uma foto na mesa.
 
-Marco Moretti. O Prefeito.
+Marco Moretti. Administrava a emergência em nome do prefeito Augusto Vale e passara a usar o cargo como se fosse seu. A foto não provava que operara comportas; faltavam as ordens e quem as executara.
 
 O silêncio na sala foi pesado.
 
 — Seu irmão — disse Elena.
 
-— Ele não é meu irmão — disse Gabo, a voz fria. — Ele é o homem que matou minha mãe para "limpar" a cidade. O plano dele é simples: inundar os Distritos Baixos, matar os "improdutivos", e reconstruir uma cidade de luxo sobre os nossos ossos. É a gentrificação final.
+— Ele não é meu irmão — disse Gabo, a voz fria. — Suspeito que esteja ligado à operação que deixou minha mãe sem saída. Vou atrás das ordens, não tratar a suspeita como laudo. O plano dele é simples: inundar os Distritos Baixos, matar os "improdutivos", e reconstruir uma cidade de luxo sobre os nossos ossos. É a gentrificação final.
 
 — Precisamos fechar as comportas — disse Val. — Mas o sistema é isolado. *Air-gapped*. Não dá pra hackear daqui.
 
@@ -97,7 +97,7 @@ O silêncio na sala foi pesado.
 
 — E você? — perguntou Val.
 
-Gabo olhou para as órteses. Ele começou a se mover, testando os limites. Chutou o ar, girou. O metal gemia, mas aguentava. Ele não era mais o policial quebrado. Ele era uma máquina de vingança.
+Gabo olhou para as órteses. Ele começou a se mover, testando os limites. Tentou transferir o peso e precisou apoiar-se na mesa. Os servos davam suporte, não restauravam a coluna. Nise mandou que sentasse antes de transformar raiva em mais uma lesão.
 
 — Eu vou ter uma conversa de família com o Prefeito.
 
@@ -125,7 +125,7 @@ Ele ativou o comunicador em seu ouvido.
 
 — *Na escuta, senhor* — respondeu uma voz metálica e distorcida.
 
-— Meu irmão está vindo. Prepare o comitê de boas-vindas. E certifique-se de que a garota, Clara, esteja na primeira fila para assistir. Quero que seja... educativo.
+— Meu irmão está vindo. Prepare o comitê de boas-vindas. E traga Clara para a primeira fila. Se conseguirem encontrá-la, quero meu irmão sabendo que a fuga do flutuante não encerrou a dívida. Quero que seja... educativo.
 
 Marco voltou a olhar para a chuva.
 

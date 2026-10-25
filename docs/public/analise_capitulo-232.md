@@ -1,0 +1,17 @@
+# Revisão de Capítulo 232: O Justo
+
+Fonte: [capítulo 232](/capitulo-232.md).
+
+Gabo recusa esperar e executa Braga rendido. Elena exige registrar o assassinato e a custódia recusada. Não é a primeira transgressão dele, nem justiça inevitável.
+
+## Passagens de entrada e saída
+
+> Não dormi. Passei a noite no galpão, entre as pilhas do arquivo, com a lamparina baixa e uma pasta aberta no colo que eu não estava lendo. **MORETTI, G. — EM CAMPO — NÃO COLETAR — GRUPO DE CONTROLE.** Duas caixas de papel, a três metros uma da outra, contando a mesma história de dois jeitos. Numa, um homem que virou o que virou porque uma corporação decidiu isso por ele a partir de 2035. Na outra, um homem amarrado numa rede lá fora dizendo que eu escolhi tudo, sozinho, numa terça-feira, e que a corporação não teve nada com isso. As duas não podiam estar certas. E às três da manhã eu entendi que estavam.
+
+### Saída
+
+> Cor de latão velho, indiferente como sempre.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

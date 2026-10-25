@@ -1,23 +1,18 @@
-# Análise Crítica - Capítulo 90: O Arquivista
+# Revisão de Capítulo 90: O Arquivista
 
-## Avaliação Técnica
-- **Ritmo:** 8/10 - Uma cena de exposição de lore muito fluida e enigmática.
-- **Diálogos:** 9/10 - A figura do Arquivista traz a "profecia" e o peso histórico da corporação muito bem ("A história é um círculo").
-- **Atmosfera:** 9/10 - A biblioteca inundada cheirando a papel mofado e silêncio cria um respiro da ameaça biológica (embora o fungo já esteja na mão de Gabo).
+Fonte: [capítulo 90](/capitulo-90.md).
 
-## Pontos Fortes e Fracos
-**Fortes:**
-- Integração da dor física e peso do corpo danificado ("zumbido das órteses", "dor latejante nos ligamentos").
-- Reintrodução do "Código Morto" em um novo contexto, vinculando as tramas de ficção científica digital com as biológicas.
-- A herança de Silas Vance e Dante sendo entrelaçadas.
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-**Fracos:**
-- O Arquivista saber tudo sobre o protagonista na primeira cena é um arquétipo clássico de mentor místico/sábio, um pouco forçado mas aceitável narrativamente.
+## Passagens de entrada e saída
 
-## Sanity Check
-- [x] O trauma/aversão fóbica de Gabo a fumo está respeitado? Sim, apenas o cheiro de papel mofado e a menção ao "cheiro do Jardim" (biológico/infectado).
-- [x] A temporalidade das personagens está correta? Sim.
-- [x] A história é coerente? Sim.
-- [x] Não contém mocks? Sim.
+> Biblioteca Municipal (submersa) — Nível -3.
+> A Biblioteca era um dos poucos lugares que o Jardim ainda não tinha comido. Gabo levou duas horas para perceber a diferença, e a resposta era humilhante: o Jardim evitava aquele circuito de estantes. Papel e cola podiam alimentar fungo; não era falta de comida. Havia sais secos nas pranchas e marcas de tratamento nas lombadas, uma barreira que alguém continuava renovando. Um milhão e duzentos mil volumes, e a coisa que estava devorando a cidade passou por cima e deixara um corredor estreito sem brotação. Ele remava um bote de alumínio pelos corredores inundados. A água estava a um metro e sessenta do piso original, escura e absolutamente parada, e refletia o teto com uma nitidez de espelho. As estantes emergiam dela como cânions, e a lombada dos livros dos três primeiros metros estava inchada e branca de mofo. O cheiro era de papel molhado. Só isso. E, depois de quatro meses de terra doce e flor podre, aquilo era quase perfume.
 
-**Conclusão:** O Capítulo 90 entrega lore sem sacrificar o clima, conectando as pontas soltas da primeira parte do livro e mantendo fielmente o estado físico de Gabo intacto na narrativa.
+### Saída
+
+> E Gabo, sozinho num bote de alumínio no meio de um milhão de livros molhados, tirou o caderno do bolso e anotou.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

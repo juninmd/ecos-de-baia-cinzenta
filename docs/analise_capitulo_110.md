@@ -1,20 +1,18 @@
-# Análise do Capítulo 110: A Falha do Deus
+# Revisão de Capítulo 110: Ponto Cego
 
-## Metadados
-- **Capítulo:** 110
-- **Título:** A Falha do Deus (Nome inferido/genérico)
-- **Data da Revisão:** Atual
+Fonte: [capítulo 110](/capitulo-110.md).
 
-## Auto-avaliação Técnica
-- **Ritmo (Pacing):** 8/10
-- **Diálogo:** 8/10
-- **Atmosfera:** 8/10
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-## Pontos Fortes e Fracos
-- **Pontos Fortes:** Estabelece bem a falha de Dante baseada no excesso de processamento limitante orgânico.
-- **Pontos Fracos:** N/A.
+## Passagens de entrada e saída
 
-## Sanity Check (Verificação de Coerência)
-- **Fobia de Gabo:** Sem gatilhos (sem fumaça ou cigarros).
-- **Coerência da Trama:** As limitações biológicas de Dante trazem a urgência perfeita para a corrida contra o tempo.
-- **Ajustes de Lore:** Sem quebras de lore identificadas.
+> Canais de Drenagem do Setor 4
+> O Rinoceronte morreu com um engasgo final, afundando o bico blindado na água oleosa e negra do canal de drenagem. A lataria estalou enquanto o motor a diesel esfriava, liberando nuvens de vapor que se misturavam à chuva incessante.
+
+### Saída
+
+> — Não, inspetor — respondeu Gabo, engatilhando a *Caronte* com um som seco e definitivo. — Estamos na trincheira. E a guerra acabou de começar.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

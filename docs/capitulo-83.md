@@ -9,15 +9,8 @@ Localização: "Gabinete do prefeito interino — 09h"
 
 # Capítulo 83: Raízes
 
-**Gabinete do prefeito interino — 09h.**
-
-Vilar odiava aquela sala.
-
-Ele tinha assumido a prefeitura interina por três motivos, e nenhum deles era vontade: era o servidor público vivo de maior patente, o cargo estava vago desde que Marco Moretti sumiu num esgoto, e ninguém mais aceitou.
-
-Ele nem sentava na cadeira. Trabalhava de pé, na ponta da mesa.
-
-Jogou o mapa holográfico da cidade sobre o tampo, e o mapa acendeu cheio de pontos vermelhos.
+Gabinete do prefeito interino — 09h.
+Vilar odiava aquela sala. Ele tinha assumido a prefeitura interina por três motivos, e nenhum deles era vontade: o cargo estava vago desde que Marco Moretti sumiu num esgoto, os representantes dos abrigos o indicaram para a coordenação provisória e ninguém mais aceitou. A indicação não apagava o inquérito contra ele. Ele nem sentava na cadeira. Trabalhava de pé, na ponta da mesa. Jogou o mapa holográfico da cidade sobre o tampo, e o mapa acendeu cheio de pontos vermelhos.
 
 — Ocorrência de vandalismo botânico subiu trezentos por cento em vinte e quatro horas. — Ele esfregou as têmporas com os dedos da mão boa. — Essa é a classificação que o sistema usa, e eu já pedi para mudar, e não tem quem mude porque o servidor que classifica é a Entidade e ela não aceita a minha alteração.
 
@@ -27,15 +20,9 @@ Jogou o mapa holográfico da cidade sobre o tampo, e o mapa acendeu cheio de pon
 
 ---
 
-Gabo se debruçou sobre o holograma.
+Gabo se debruçou sobre o holograma. Ele não estava olhando as ocorrências. Estava olhando o espaço entre elas. Catorze anos de homicídio ensinam uma coisa que não se ensina em curso nenhum: o padrão nunca está nos pontos. Está no vazio.
 
-Ele não estava olhando as ocorrências. Estava olhando o espaço entre elas.
-
-Quinze anos de homicídio ensinam uma coisa que não se ensina em curso nenhum: o padrão nunca está nos pontos. Está no vazio.
-
-— Não é aleatório — ele disse.
-
-Passou o dedo pelo mapa, ligando pontos numa curva.
+— Não é aleatório — ele disse. Passou o dedo pelo mapa, ligando pontos numa curva.
 
 — Parece uma espiral — disse a Dra. Nise, do canto da sala, onde estava sentada com um café que ela não bebia havia quarenta minutos.
 
@@ -43,27 +30,15 @@ Passou o dedo pelo mapa, ligando pontos numa curva.
 
 — É bonito — disse Vilar.
 
-— É **eficiente**. — Val não tirava os olhos do mapa. — É a forma que qualquer coisa assume quando cresce a partir de um ponto e a taxa de crescimento é proporcional ao tamanho. Não tem mística nenhuma, Capitão. Isso aqui é o desenho que uma coisa viva faz quando ninguém está podando.
+— É **eficiente**. — Val não tirava os olhos do mapa. — É um ajuste possível para estes pontos. Vou comparar com o traçado das adutoras e as datas das ocorrências antes de chamar isso de lei de crescimento. Não tem mística nenhuma, Capitão. Isso aqui é o desenho que uma coisa viva faz quando ninguém está podando.
 
 — E o centro? — perguntou Vilar.
 
 ---
 
-Gabo seguiu a curva para dentro, volta a volta, até o ponto de convergência.
+Gabo seguiu a curva para dentro, volta a volta, até o ponto de convergência. Não era a Torre Aeterna. Não era a Prefeitura, nem a estação de tratamento, nem o Cais Três. Era o Memorial do Dilúvio. O parque de vinte e dois hectares inaugurado em cinquenta e três, com cipreste em fileira, um espelho d'água e cento e nove estátuas de bronze. Depois da inundação, rebatizaram o lugar e acrescentaram os nomes dos bairros submersos. Não tinham terminado de gravar os mortos. Um lugar de luto, inaugurado com discurso, ao qual ninguém ia.
 
-Não era a Torre Aeterna.
-
-Não era a Prefeitura, nem a estação de tratamento, nem o Cais Três.
-
-Era o Memorial do Dilúvio.
-
-O parque de vinte e dois hectares construído em cinquenta e três em cima das ruínas dos bairros baixos que ficaram permanentemente submersos, com cipreste em fileira, um espelho d'água e cento e nove estátuas de bronze.
-
-Um lugar de luto, inaugurado com discurso, ao qual ninguém ia.
-
-— O que tem lá? — perguntou Vilar.
-
-Val já estava garimpando arquivo antigo.
+— O que tem lá? — perguntou Vilar. Val já estava garimpando arquivo antigo.
 
 — Tem o bunker.
 
@@ -75,35 +50,27 @@ Val já estava garimpando arquivo antigo.
 
 — Desativado no papel.
 
-— E depois eles despejaram um bairro inteiro em cima e chamaram de memorial. — Gabo se endireitou devagar. — Raiz procura água. Aquele bunker está submerso desde o Dilúvio, com energia geotérmica residual, quatro mil corpos por perto e nenhuma vistoria em vinte e dois anos.
-
-Ele olhou para Vilar.
+— E depois eles despejaram um bairro inteiro em cima e chamaram de memorial. — Gabo se endireitou devagar. — Raiz procura água. Aquele bunker está submerso desde o Dilúvio, com energia geotérmica residual, quatro mil corpos por perto e nenhuma vistoria registrada em dezessete anos. Ele olhou para Vilar.
 
 — É o melhor lugar do planeta para uma coisa crescer sem ninguém encostar.
 
 ---
 
-A Dra. Nise se levantou.
-
-Ela fez isso de um jeito que os três notaram — devagar, apoiando as duas mãos na mesa —, e ficou de pé sem falar por uns cinco segundos.
+A Dra. Nise se levantou. Ela fez isso de um jeito que os três notaram — devagar, apoiando as duas mãos na mesa —, e ficou de pé sem falar por uns cinco segundos.
 
 — Eu terminei a análise da amostra ontem às quatro da manhã — ela disse. — Rodei três vezes porque eu não acreditei nas duas primeiras.
 
 — E?
 
-— O DNA é humano.
-
-O silêncio na sala foi completo. O ar-condicionado escolheu aquele momento para desligar, e ninguém respirou por um tempo.
+— A amostra tem DNA humano e material fúngico. A equipe de biologia confirmou nas três leituras. O silêncio na sala foi completo. O ar-condicionado escolheu aquele momento para desligar, e ninguém respirou por um tempo.
 
 — Humano — repetiu Vilar.
 
-— Modificado, evidentemente. Tem sequência fúngica inserida em pelo menos onze pontos, tem material vegetal, tem uma cadeia polimérica sintética que ocupa o lugar de parte do esqueleto ribossômico e que eu não sei nem como classificar. — Nise falava rápido e com a voz muito controlada, que era o jeito dela de tremer. — Mas a base é humana. É *Homo sapiens* com enxerto.
+— Há sequências alteradas que ainda não conseguimos montar, além de polímeros que não deveriam estar num tecido comum. — Nise pousou a ficha sobre a mesa. — Pode ser uma amostra misturada. Não vou afirmar que cada planta foi uma pessoa porque encontramos material humano num frasco.
 
 — O que isso quer dizer, doutora? — perguntou Val.
 
-— Quer dizer que quem está fazendo isso não está fabricando monstro do zero. — Nise olhou para os três. — Está **convertendo pessoas**. Cada uma daquelas coisas foi alguém, e não foi há muito tempo.
-
-Gabo fechou os olhos.
+— Quer dizer que quem está fazendo isso não está fabricando monstro do zero. — Nise olhou para os três. — Pode estar **convertendo pessoas**. Os corpos do armazém sustentam essa suspeita. A amostra sozinha não conta quantos, nem se há volta. Gabo fechou os olhos.
 
 — O Batismo.
 
@@ -113,9 +80,7 @@ Gabo fechou os olhos.
 
 ---
 
-O comunicador de Vilar tocou.
-
-Não o terminal: o comunicador de rádio, o de canal antigo, que ele agora carregava no cinto e que era a única coisa que ele atendia.
+O comunicador de Vilar tocou. Não o terminal: o comunicador de rádio, o de canal antigo, que ele agora carregava no cinto e que era a única coisa que ele atendia.
 
 — Vilar.
 
@@ -127,9 +92,7 @@ Não o terminal: o comunicador de rádio, o de canal antigo, que ele agora carre
 
 — Repete.
 
-— *Eles disseram que os túneis estão sangrando.*
-
-Vilar olhou para Gabo.
+— *Eles disseram que os túneis estão sangrando.* Vilar olhou para Gabo.
 
 — Sangrando.
 
@@ -141,9 +104,7 @@ Vilar olhou para Gabo.
 
 ---
 
-Vilar baixou o rádio devagar.
-
-Ninguém falou por uns segundos.
+Vilar baixou o rádio devagar. Ninguém falou por uns segundos.
 
 — Começou — disse Gabo, e verificou a carga da arma por hábito, sabendo que não ia servir. — É a colheita.
 
@@ -155,9 +116,7 @@ Ninguém falou por uns segundos.
 
 ---
 
-— E o Memorial? — perguntou Val.
-
-Gabo olhou para o holograma girando na mesa, para a espiral vermelha se apertando em direção ao centro.
+— E o Memorial? — perguntou Val. Gabo olhou para o holograma girando na mesa, para a espiral vermelha se apertando em direção ao centro.
 
 — O Memorial é a raiz-mestra. — Ele apontou. — Se a gente cortar ali, talvez o resto pare de crescer. Vilar, eu preciso de tudo o que existir sobre aquele bunker: planta, alvará de desativação, contrato de terraplanagem, laudo de fundação do parque. Papel.
 
@@ -167,7 +126,7 @@ Gabo olhou para o holograma girando na mesa, para a espiral vermelha se apertand
 
 — Por quê?
 
-— Porque se aquilo lá embaixo está crescendo, está bebendo. E se está bebendo, o nível baixa.
+— Porque quero comparar consumo, chuva, evaporação e bombeamento. Se o nível mudar, precisamos saber o que mais mudou junto.
 
 ---
 
@@ -181,14 +140,10 @@ Val ficou olhando o mapa depois que os três já estavam na porta.
 
 — Aí a gente descobre uma coisa.
 
-— Não. — Ela apontou a espiral com o queixo. — Uma espiral logarítmica não tem centro, é essa a propriedade dela. Ela converge para um ponto que ela nunca alcança. Matematicamente, isso aqui não tem começo: só tem um lugar de onde parece que começou, porque a gente parou de conseguir enxergar mais fundo.
-
-Gabo ficou parado na porta.
+— Não. — Ela apontou a espiral com o queixo. — Ajustar uma espiral aos nossos pontos não prova onde o organismo começou. O centro do desenho pode ser só o ponto em que a nossa amostragem acaba. Gabo ficou parado na porta.
 
 — Você está dizendo que a árvore é maior do que a cidade.
 
-— Eu estou dizendo que a gente não sabe onde ela termina, e que isso é diferente de saber que ela termina longe.
-
-Os quatro saíram.
+— Eu estou dizendo que a gente não sabe onde ela termina, e que isso é diferente de saber que ela termina longe. Os quatro saíram.
 
 O mapa holográfico ficou aceso na sala vazia, e a espiral vermelha continuou girando devagar em cima da mesa do prefeito, como um furacão que já chegou à costa e que ninguém percebeu porque estava dentro dele.

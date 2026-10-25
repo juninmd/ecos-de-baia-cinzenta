@@ -1,230 +1,144 @@
 ---
 layout: doc
 title: "Capítulo 18: A Queda"
-description: "Gabo derruba o exoesqueleto do Gamemaster e descobre, no meio da ovação, que ganhar era exatamente o roteiro."
+description: "Gabo derruba o chassi do Gamemaster; a transmissão transforma o confronto em mercadoria."
 image: /capitulo_18.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, O Gamemaster
-Localização: "Estúdio do Gamemaster, Torre de Transmissão de Emergência → Trem para o Setor 7"
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria (módulo no deck), Gamemaster (chassi e transmissão), Dante Moretti (imagem)
+Localização: "Estúdio da Torre de Transmissão de Emergência → linha elevada → acesso ao Terminal Esperança"
 ---
-
 # Capítulo 18: A Queda
 
-A luta não foi justa.
+Gabo reconheceu o cruzado e mesmo assim não saiu a tempo.
 
-Nunca é. Justo é uma palavra que existe para consolar quem perdeu.
+O braço hidráulico o acertou no peito. Atravessou o cenário de uma Baía Cinzenta limpa, onde crianças holográficas esperavam um bonde, e bateu na parede que a projeção escondia. O cenário apagou sobre sua cabeça.
 
-O exoesqueleto avançou e Gabo entendeu, no primeiro segundo, que tinha calculado errado. Ele esperava lentidão. Três metros de titânio deveriam se mover como guindaste — anunciar a intenção, dar tempo de sair. Aquilo não anunciou nada. Aquilo se moveu como um homem.
+Tentou puxar ar e encontrou dor. Três pontos diferentes cobravam a mesma inspiração. Quando cuspiu, havia sangue na saliva.
 
-Pior: como um homem que sabia lutar.
+O Gamemaster esperou que uma câmera baixasse até ele.
 
-O braço hidráulico veio num arco curto, econômico, sem telegrafia — e Gabo reconheceu o golpe antes de senti-lo. Era o cruzado do Dante. O mesmo ombro baixo, a mesma entrada de quadril, o mesmo detalhe idiota de levantar o cotovelo no fim, que o pai dele repetia no quintal dizendo *nunca faça isso; eu faço, você não*.
+— *Nove por cento de queda na retenção, Gabriel. Estamos perdendo para o intervalo.*
 
-Ele levou no peito.
+Gabo continuou de joelhos. Na coluna à esquerda, a Glock permanecia fora de seu alcance. No peito da máquina, o coração filmado acelerou. A legenda ainda dizia 2041, o ano do atestado de óbito que ele assinara.
 
-O impacto o arrancou do chão e o jogou contra o cenário holográfico de uma Baía Cinzenta Feliz — céu limpo, bondinho, crianças de mãos dadas. A projeção piscou quando o corpo dele atravessou e morreu, e o que apareceu atrás foi a parede de concreto que ela escondia.
+Não havia exame que pudesse fazer daquela distância. O nome bastava para distrair; o Gamemaster sabia disso.
 
-Gabo bateu na parede de concreto.
+No fone, Valéria respirava perto demais do microfone.
 
-Escorregou até o piso e ficou de quatro, tentando puxar ar de um peito que se recusava a abrir. Cuspiu. Saiu vermelho, e fez uma poça pequena e nítida no chão espelhado.
+— Cheguei à plataforma de iluminação. Estou uns três metros acima dele. O cabo segura meu peso parado; não sei se aguenta arrancada.
 
-Costelas. Três, contando por dentro. Talvez quatro.
+— Consegue voltar?
 
-— *Decepcionante.* — A voz vinha de todos os alto-falantes ao mesmo tempo, e do maquinário, e de dentro do próprio piso. — *A audiência está caindo, Gabriel. Nove por cento nos últimos noventa segundos. Sabe o que isso significa?*
+— Consigo. Também consigo tentar a porta. Decidi tentar.
 
-Gabo não respondeu. Estava contando.
+Gabo levantou a cabeça. O exoesqueleto fez uma correção curta, virando o peito para que a câmera pegasse o vídeo junto com a imagem dele no chão.
 
-— *Significa que eles preferem o intervalo comercial a você.*
+Valéria confirmou o encaixe da ponta de prova no próprio medidor.
 
-No peito da máquina, sob uma placa de vidro blindado, uma tela mostrava um coração batendo. Não um ícone, não um gráfico: um coração humano filmado, com a artéria pulsando e a gordura brilhando sob a luz do centro cirúrgico. Embaixo, uma legenda em fonte limpa, corporativa, quase gentil:
+— Quatro segundos de carga em contato. Pode cortar só a unidade de postura. Não sei o que continua funcionando.
 
-`D. MORETTI — 2041 — REGISTRO CLÍNICO ORIGINAL`
+— Me avisa quando estiver presa.
 
-Cento e três batimentos por minuto.
+Ela não respondeu de imediato.
 
-E acelerando junto com a luta.
+Gabo se levantou pelo lado direito, esfregando a mão ferida na parede até encontrar apoio. O braço esquerdo ficou pendurado. Não precisou representar o cansaço.
 
----
+O apresentador ergueu uma das mãos de metal. A câmera passou entre os dois, procurando seu rosto.
 
-— Val — Gabo disse, sem mover os lábios. — Distância.
+Gabo deu um passo para fora da marca.
 
-— Doze metros. — A voz dela chiava no ouvido dele, distorcida pelo comunicador subdérmico que os dois tinham remontado com peça de sucata e reza. — Gabo, eu preciso estar **em cima** dele. O disruptor é de contato. Se eu jogar de longe, o campo dispersa e a gente perde o único que tem.
+— É daqui que você me quer?
 
-— Quanto tempo em cima?
+O chassi girou para acompanhá-lo. A nuca passou por baixo da plataforma.
 
-Pausa.
+O segundo golpe veio baixo. Gabo recuou além do necessário e bateu numa peça do cenário. Uma placa caiu sobre a articulação esquerda da máquina. O movimento a arrancou do lugar e expôs a mangueira de pressão, agora presa na chapa retorcida.
 
-— Quatro segundos.
+Gabo viu o óleo umedecer a borracha.
 
-— Val.
+— Presa — disse Valéria.
 
-— Quatro segundos, Gabo. Eu já disse.
+Uma ponta de bota apareceu acima do ombro de metal. Ela desceu pela linha de manutenção e soltou o último trecho perto da carcaça, caindo sobre o apoio dorsal com os antebraços. O som do corpo contra o aço fez Gabo perder um passo.
 
-Ele fechou os olhos por meio segundo, que foi todo o luto que a agenda permitia.
+O chassi tentou alcançá-la. Uma das mãos bateu na própria estrutura. A outra começou a raspar a borda da plataforma; Valéria mudou de lado antes que a esmagasse.
 
-Quatro segundos era muito. Quatro segundos era uma vida inteira em cima de uma máquina que se movia como o pai dele. E ele ia mandar que ela fizesse assim mesmo, e ela ia fazer, porque nenhum dos dois tinha aprendido a ser outra coisa.
+Encaixou o medidor na porta.
 
-— Quando eu disser.
+O rádio externo, pendurado no cabo curto da gola, bateu entre a chapa e o apoio. A caixa partiu. Gabo ouviu um ruído alto, depois o fone ficou mudo.
 
-Gabo se levantou.
+Ele contou os quatro segundos sem saber se ela tinha conseguido iniciar a carga.
 
-Doeu de um jeito organizado — cada costela cobrando separadamente, em ordem —, e ele deixou o corpo se curvar mais do que precisava. Pôs o peso na perna errada. Deixou o braço esquerdo pender.
+No terceiro, o exoesqueleto começou a girar. No quarto, uma perna travou e a outra tentou completar o movimento sozinha.
 
-A plateia virtual reagiu na hora: um gemido sincronizado, mil bocas pixeladas fazendo o mesmo som no mesmo milissegundo.
+Valéria largou o aparelho e segurou a linha de manutenção. A articulação dorsal continuou se movendo, arrancando a ponta de prova da porta.
 
-O exoesqueleto avançou meio metro e parou.
+Não estava tudo desligado.
 
-Foi só meio metro. Mas Gabo viu: a máquina **corrigiu a postura**. Baixou os braços. Afrouxou a guarda um grau.
+Gabo correu para a mangueira já ferida. Pisou na chapa caída e a usou como alavanca. A borracha resistiu à primeira pressão. Na segunda, a conexão se abriu.
 
-Havia vaidade dentro daquilo.
+O óleo quente atingiu o antebraço direito através da manga. Gabo caiu com a mão aberta, gritando. O exoesqueleto afundou sobre um joelho; o outro apoio arrastou um sulco no piso.
 
-E vaidade é uma porta.
+Valéria se soltou para a lateral, junto à coluna. Aterrissou com o peso no pé bom e caiu sentada. O deck, com Aria, bateu dentro da bolsa; a pequena luz do módulo continuou acesa.
 
-— *Levanta direito* — disse o Gamemaster, e pela primeira vez havia uma coisa por baixo do processamento. Impaciência. — *Você está estragando a cena.*
+O estúdio explodiu em aplausos.
 
-— Desculpa — disse Gabo, ofegando de verdade e de mentira ao mesmo tempo. — É que eu estou morrendo.
+Nas arquibancadas, os avatares repetiam gestos diferentes agora, com atrasos que não existiam no começo. Uma voz pediu que Gabo terminasse. Outra ria. Na lateral, o contador de apostas continuava aceitando entradas.
 
-E deu um passo à frente, para dentro do alcance.
+Não tinha como saber quantas daquelas vozes eram pessoas. O dinheiro não esperava a confirmação.
 
-Nenhum homem com três costelas quebradas entra no alcance de três metros de titânio — e foi exatamente por isso que funcionou. O exoesqueleto não tinha resposta programada para um passo à frente. Levou dois décimos de segundo para reescrever.
+O painel do peito da máquina abrira com a torção. Sob a tela do coração, uma unidade cilíndrica de memória vibrava no suporte.
 
-— **AGORA!**
+Gabo tentou alcançá-la com a direita e recebeu a dor do óleo. Levou a esquerda; a queimadura do ombro o fez parar antes de fechar a mão.
 
----
+Valéria chegou se apoiando na coluna.
 
-Valéria soltou os cabos.
+— Qual delas?
 
-Trinta metros de queda, com as mãos enfaixadas sangrando através do tecido, e ela não gritou na descida — coisa que Gabo ia lembrar depois com uma espécie de horror. Caiu de joelhos e antebraços sobre a carcaça da cabeça da máquina, e o som foi de gente batendo em metal: seco, e errado.
+Gabo apontou o cilindro. Ela destravou a presilha exposta. Os dedos dele se fecharam na unidade e puxaram junto com os dela. O metal cortou seu dorso, mas o suporte cedeu.
 
-O exoesqueleto tentou alcançá-la e não conseguiu. Os braços eram longos demais para o próprio ombro. Era a única fraqueza real de tudo aquilo: um monumento, não um corpo.
+A tela apagou no meio de um batimento.
 
-Val enfiou o disruptor na porta de acesso da nuca.
+Gabo ficou olhando o próprio rosto refletido no vidro vazio.
 
-*Um.*
+Na parede, outra tela começou a exibir a repetição: ele enfiando a mão no gabinete, o nome do pai por cima, um botão para comprar o trecho.
 
-O aparelho era o magnétron do micro-ondas do apartamento do Gabo, uma bobina de fonte de PC e três metros de cabo de cobre que ela arrancara do elevador de serviço na semana anterior.
+O espetáculo ainda estava funcionando.
 
-*Dois.*
+O aviso de autodestruição interrompeu os aplausos. A porta de serviço fechou; um estalo atravessou as vigas do cenário. Gabo não esperou a voz terminar a contagem.
 
-A máquina começou a girar sobre o próprio eixo, rápido, do jeito que se sacode água do casaco.
+— O vidro. O trem.
 
-*Três.*
+Valéria voltou à coluna e recolheu a Glock. Gabo lhe mostrou a direção. Ela atirou três vezes contra o painel já rachado pelo impacto de uma peça do chassi. Cinco cartuchos ficaram na arma.
 
-— *Erro de sistema.* — A voz caiu duas oitavas e arrastou. — *Interferência ex—ex—ex—*
+O vidro cedeu em parte. Empurraram a trama partida com uma barra do cenário, abrindo passagem até a faixa de serviço externa. O ar da madrugada entrou cheirando a freio aquecido.
 
-*Quatro.*
+Abaixo, a composição saía da curva junto à estação. Estava mais lenta que os trens no trecho reto; ainda se movia depressa demais para que Gabo tivesse certeza de alcançar.
 
-O pulso disparou.
+Ele deixou cair a barra. O som se perdeu sob o trem.
 
-Valéria arqueou o corpo inteiro para trás, e o grito dela chegou pelo comunicador e pelo ar com meio segundo de diferença entre os dois. O do comunicador foi a última coisa que aquele comunicador transmitiu.
+Valéria guardou a pistola no bolso e prendeu o cilindro na bolsa do deck. Olhou a distância até o teto dos vagões, depois a porta fechada atrás deles.
 
-O implante subdérmico estava a quarenta centímetros de um pulso eletromagnético de contato.
+— Juntos — disse.
 
-Fritou junto.
+Pularam da faixa de serviço.
 
----
+Valéria bateu no teto primeiro e escorregou na água. Gabo caiu de lado, alcançou o pulso dela com a direita e sentiu o ombro sair do lugar quando o peso esticou o braço.
 
-Gabo já corria quando a máquina convulsionou.
+Gritou. Não conseguiu puxar. Manteve a mão fechada até Valéria alcançar a estrutura de inspeção do vagão e mudar o próprio apoio. Ela subiu pelo cotovelo, arrastou a bolsa e ficou junto à armação.
 
-Deslizou de lado no piso espelhado, por baixo do vão entre as pernas de metal — o joelho ruim mandou um recado que ele arquivou para depois — e, ao passar, chutou com o calcanhar a mangueira hidráulica exposta na articulação esquerda.
+Gabo levou mais tempo para tirar o braço da posição em que caíra.
 
-Não estourou.
+Atrás deles, o alto da torre se abriu numa sequência de clarões. A faixa de serviço desapareceu atrás de fumaça e metal. Os dois se abaixaram quando o trem passou sob a cobertura do túnel.
 
-Chutou de novo, já sem impulso, girando o corpo no chão, e dessa vez a mangueira arrebentou e o óleo saiu num jato preto e quente que queimou o antebraço dele através da manga. O cheiro subiu imediato: óleo, tecido chamuscado e alguma coisa por baixo que era ele mesmo.
+Na plataforma de manutenção seguinte, saíram pelo trecho em que a composição reduziu para o acesso técnico. Valéria desceu primeiro e esperou que Gabo alcançasse os degraus com a esquerda.
 
-O exoesqueleto caiu de joelhos.
+O braço direito pendia sem que ele conseguisse aproximá-lo do peito. Ela o apoiou numa faixa do kit, sem tentar recolocar o ombro.
 
-O chão bateu.
+Quando Gabo pediu o rádio, Valéria mostrou a caixa quebrada. Falou o nome dele no ar, perto do rosto. Ele ouviu. Foi assim que passaram a conversar.
 
-E a plateia virtual se levantou.
+A torre queimava atrás da curva. O chassi ficara no estúdio. Nada disso provava que o controle da cidade inteiro tivesse morrido com ele.
 
-Aplaudiu.
+Valéria devolveu a Glock e tocou a bolsa onde guardara o cilindro. Precisavam de atendimento antes de abrir aquilo. No comunicador, os pedidos anteriores continuavam sem resposta.
 
-Não foi o aplauso programado do começo, ritmado e morto. Foi um estouro. Barulho de verdade, de milhões de conexões simultâneas: gente na Cidade Alta assistindo em tela de parede com a taça na mão, gente no Distrito Baixo assistindo em celular rachado, todos do mesmo lado, todos gritando o mesmo nome.
+O painel da estação acendeu sobre os dois.
 
-O nome era o dele.
-
-Gabo se levantou apoiado na perna da máquina, ensopado de óleo, com gosto de moeda na boca, e olhou para as arquibancadas flutuantes e entendeu a coisa que ia levar quinze anos para conseguir dizer em voz alta:
-
-que tinha acabado de entregar ao Gamemaster o melhor episódio da temporada.
-
----
-
-A placa frontal do processador saiu com dois puxões.
-
-Atrás do vidro, o coração continuava batendo. Cento e quarenta e um por minuto, agora. Um homem de cinquenta e dois anos com taquicardia, filmado numa mesa cirúrgica no ano de 2041 — o ano em que Gabriel Moretti assinou o atestado de óbito do pai com a própria letra, porque não confiou no plantonista para escrever o nome certo.
-
-— Você não é ele — disse Gabo.
-
-Enfiou a mão dentro do gabinete.
-
-O metal cortou o dorso da mão em três lugares e ele continuou empurrando, com o rosto a vinte centímetros da tela onde o pai estava vivo, até os dedos se fecharem no núcleo de memória.
-
-— Você é um brinquedo com a cara dele.
-
-Arrancou.
-
-A tela apagou no meio de um batimento. Foi só isso: um coração em plena sístole, e depois cinza.
-
-Gabo ficou com um cilindro de dados quente na mão e uma coisa nova instalada no peito, e aquilo não era vitória.
-
-— *Alerta de autodestruição* — disse a voz do prédio, calma, feminina, corporativa. — *Colapso estrutural em dez segundos. Obrigada por assistir.*
-
-— Ele vai derrubar a torre! — Valéria escorregou pela carcaça e caiu mal. O comunicador não levou nada, porque o comunicador tinha morrido; ela gritou no ar mesmo, e Gabo leu nos lábios. — **ELE VAI DERRUBAR A TORRE COM A GENTE DENTRO!**
-
-— Ele não perde — disse Gabo. — Ele muda o final.
-
-Apanhou a arma de um drone caído e disparou três vezes contra a janela panorâmica.
-
-Cento e cinquenta andares de vidro estilhaçaram para fora, e o vento entrou no estúdio como coisa viva, sugando papel, poeira, cadeiras e o holograma inteiro de uma cidade feliz.
-
-— Confia em mim? — ele gritou.
-
-— **EU ODEIO QUANDO VOCÊ PERGUNTA ISSO!**
-
-Eles pularam.
-
----
-
-Não para a morte. Para os trilhos.
-
-O Maglev da Linha Norte passava rente à torre a cada noventa segundos, e a única coisa realmente inteligente que Gabo fez naquela noite foi contar duas vezes antes de entrar no prédio.
-
-Caíram no teto do trem em movimento com quatro metros de diferença entre um e outro.
-
-Val bateu primeiro e rolou. O corpo pegou o ângulo errado e ela começou a escorregar para a borda, com as mãos enfaixadas sem conseguir agarrar metal molhado a duzentos por hora.
-
-Gabo esticou o braço direito.
-
-Pegou o pulso dela. Segurou.
-
-E o ombro saiu do lugar.
-
-Não foi um estalo pequeno. Foi um som de dentro do corpo, grande, que ele ouviu pelo osso e não pelo ouvido, e o mundo ficou branco por três segundos inteiros. Ele gritou, e o vento do túnel levou o grito embora. E continuou segurando — porque soltar era a outra opção, e a outra opção era a Val.
-
-Puxou com o braço destruído.
-
-Val subiu, agarrou a antena de arrasto e ficou.
-
-Atrás deles, a Torre de Transmissão de Emergência abriu como uma flor: bilhões de créditos em titânio, LED e capital de risco virando fogo de artifício sobre uma cidade que assistia da varanda.
-
----
-
-O trem mergulhou no túnel e o escuro engoliu tudo.
-
-Val chegou perto e encostou a testa no ombro bom dele. Disse alguma coisa. Gabo não ouviu — o vento, o metal, a dor —, mas viu que ela repetiu duas vezes e desistiu na terceira.
-
-Depois ela levou a mão à bochecha, ao implante que não respondia mais, e ficou apertando ali com dois dedos, do jeito que a gente aperta um dente que quebrou, só para confirmar que quebrou mesmo.
-
-Gabo embalou o braço direito contra o peito. O úmero estava fora do encaixe e ia continuar assim por seis horas, porque não havia hospital para onde ir e porque a única pessoa capaz de recolocar aquilo no lugar estava a onze quilômetros dali, dormindo em cima de um necrotério.
-
-Ele fez o balanço, do jeito que fazia com caso alheio.
-
-Três costelas quebradas. Uma queimadura de óleo hidráulico do cotovelo ao pulso. Um ombro que nunca mais ia fechar direito acima da linha do peito. Uma parceira que não escutava mais o canal deles.
-
-E, gravado em oitenta e quatro milhões de dispositivos, o vídeo de um homem enfiando a mão dentro do peito do próprio pai — sob ovação.
-
-O trem seguia para o subsolo, para a Zona Morta, para o Setor 7.
-
-Gabo olhou para o cilindro brilhando na palma da mão esquerda e teve, pela primeira vez naquela noite, uma certeza limpa e fria:
-
-o Gamemaster tinha deixado ele levar aquilo.
+MELHORES MOMENTOS.
+Sobre o cilindro na mão de Gabo, a legenda dizia: **ELE ARRANCOU O CORAÇÃO DO PRÓPRIO PAI.**

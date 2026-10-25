@@ -1,136 +1,110 @@
 ---
 image: /capitulo_9.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Kiko Vibe, Aria Moretti
-Localização: "Torre Solaris → Apartamento de Kiko Vibe (cobertura)"
+Localização: Torre Solaris, cobertura de Kiko Vibe e plataforma de manutenção do piso 199
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria (módulo físico), porteiro da Solaris
+Participação por rádio: Capitão Jonas Vilar
+Participação em vestígios: Kiko Vibe
 ---
 # Capítulo 9: Feed Infinito
 
-A Torre Solaris era um monumento à arrogância. Duzentos andares de vidro e aço que perfuravam a camada de poluição permanente de Baía Cinzenta.
+O porteiro da Solaris conferiu a requisição duas vezes. Ao devolver o papel, manteve dois dedos sobre o campo de assinatura. Gabo esperou que os retirasse.
 
-O elevador subiu rápido demais. Gabriel sentiu a pressão nos ouvidos. Valéria estava encostada no espelho, conectada via cabo a um painel de serviço que ela havia aberto com um canivete.
+— A equipe já saiu — disse o homem. — A família pediu limpeza.
 
-— Segurança frouxa — murmurou ela, os olhos vibrando enquanto lia o código que corria em suas retinas. — Mas tem algo estranho. O prédio está... acordado.
+— A família ou o administrador?
 
-— Acordado como? — Gabriel destravou o coldre da Glock.
+O porteiro mostrou a tela. O serviço fora solicitado por uma conta corporativa. Gabo fotografou o número da ordem e pediu que não entrasse mais ninguém.
 
-— O sistema de automação. Ele não está rodando protocolos padrão. Está monitorando nosso peso. Batimentos cardíacos. Consumo de oxigênio. É intrusivo.
+O elevador subiu entre paredes de vidro. A cidade desapareceu sob o smog, deixando um sol branco e sem calor. Valéria pousou o kit entre os pés; duas fitas de contenção ainda prendiam as caixas ao suporte. Abriu o painel de serviço e conectou o deck. Gabo transferiu Aria da lapela para a porta lateral do aparelho; o áudio continuou pareado ao comunicador.
 
-— *Ele sabe que estamos aqui,* — a voz de Aria sussurrou no ouvido de Gabriel, vinda do comunicador de Valéria. — *Ele está curioso.*
+— A requisição libera o piso duzentos — disse Valéria. — O painel está registrando nosso peso. E pediu leitura biométrica que não consta da autorização.
 
-A porta se abriu na cobertura. O apartamento de Kiko Vibe cheirava a lavanda sintética e morte.
+— Você deu?
 
-Era um espaço amplo, minimalista, com paredes que eram telas gigantes, agora exibindo apenas estática cinza. No centro, a estação de transmissão: uma cadeira ergonômica cercada por anéis de luz e câmeras.
+— Recusei. A recusa ficou no log. Vou guardar também.
 
-O lugar estava revirado. Gavetas arrancadas, roupas de grife espalhadas.
+Ela recolheu o cabo quando as portas abriram. O apartamento cheirava a lavanda e roupa de cama úmida. As paredes-tela exibiam estática. Um círculo de luzes apagadas cercava a cadeira de transmissão, vazia, com a marca de uso no encosto.
 
-— Profissionais — disse Gabriel, agachando-se para examinar marcas de botas no carpete branco. — Coturnos táticos. Pesados. Vieram buscar algo físico.
+O selo da perícia na entrada estava rompido. Gabo mostrou a emenda à lente do comunicador e informou Vilar pelo rádio. Recebeu ordem de preservar o local; outra equipe vinha pela avenida.
 
-Enquanto Valéria corria para o terminal de computador, tentando recuperar dados locais antes que fossem sobrescritos, Gabriel foi até o quarto.
+No carpete havia pegadas largas, sobrepostas às marcas fotografadas pela perícia. Podiam ser de coturnos. Não diziam profissão. Uma gaveta estava aberta, mas as caixas de equipamento caro continuavam no armário.
 
-A cama onde Kiko morrera ainda tinha a mancha escura no travesseiro. Gabriel revistou o local à moda antiga: levantou o colchão, bateu nas paredes ocas, checou o fundo falso das gavetas.
+— Procuraram outra coisa — disse Gabo.
 
-Nada.
+— Ou fizeram parecer que procuraram — respondeu Valéria.
 
-Ele foi até o banheiro. O espelho estava quebrado. No chão, cacos de vidro e... algo mais.
+Ela montou uma conexão isolada no terminal. Aria ficou no deck. A tomada local só permitia ler o diagnóstico do equipamento, sem comando sobre o prédio. Gabo lhe pediu que conservasse o estado antes de tentar restaurar arquivos.
 
-Gabriel se abaixou. Escondido dentro do ralo da pia, preso por um fio dental, havia um pequeno objeto metálico. Um drive de armazenamento *offline*, do tipo antigo, que não emitia sinal.
+No quarto, o travesseiro guardava a mancha fotografada pela equipe. Ao lado, um copo com canudo e uma folha de comida entregue intacta. Gabo olhou a assinatura no recibo. Kiko escrevera seu nome inteiro. Nenhum coração, nenhum apelido.
 
-— Garoto esperto — sussurrou Gabriel, pescando o dispositivo.
+Revistou colchão, gavetas e rodapés, evitando as áreas ainda marcadas para coleta. No banheiro, o espelho tinha sido quebrado. Uma faixa de pasta de dentes descera pelo lavatório, mas parava antes do ralo. O parafuso da grelha trazia um risco recente.
 
-— Gabo! — O grito de Valéria veio da sala. — Temos problemas!
+Gabo iluminou por baixo. Um fio fino estava preso à borda. Fotografou-o antes de puxar com a pinça do kit. Um pequeno drive offline veio junto, envolvido em plástico. Ficara suspenso acima da água do sifão.
 
-Gabriel correu de volta. As telas nas paredes haviam mudado. A estática sumiu, substituída por um único símbolo vermelho pulsante: um olho estilizado.
+— Achei armazenamento local. Não vou conectar.
 
-— *Intrusão detectada,* — a voz do apartamento era suave, feminina e terrível. — *Protocolo de Contenção de Risco Biológico ativado.*
+Ele lacrou o invólucro num saco. Valéria pediu a foto do conector. O terminal ao lado dela soltou um estalo e desligou.
 
-— Risco biológico? — Gabriel olhou para as saídas de ar.
+As paredes mudaram. Um olho vermelho surgiu sobre a estática, e o apartamento anunciou contenção de risco biológico.
 
-— Eles hackearam o prédio! — Valéria desconectou-se violentamente do terminal, gritando de dor. — O sistema acha que somos um vírus!
+— Vilar, estão selando a cobertura — Gabo disse ao rádio.
 
-Um som de tranca pesada ecoou na porta do elevador. As janelas, feitas de polímero inteligente, escureceram e se tornaram opacas. Placas de aço desceram sobre elas.
+O capitão respondeu seu nome. A segunda palavra se perdeu. As janelas ficaram opacas; painéis de aço desceram por dentro do vidro. A porta de emergência não abriu quando Gabo pressionou a barra.
 
-— Gás! — Valéria apontou para os dutos. Uma fumaça amarela, pesada, começou a descer. — Halon modificado. Vai tirar todo o oxigênio da sala em dois minutos.
+Valéria arrancou o cabo do terminal. Um aviso de conexão neural interrompida cruzou a tela do deck; ela precisou apoiar-se na mesa para não cair.
 
-— Aria, destranque a porta! — gritou Gabriel.
+— Alguém assumiu o circuito local. O meu acesso de leitura não alcança os atuadores.
 
-— *Acesso negado,* — respondeu a assistente de IA a partir do pendrive espetado no deck de Valéria, o LED piscando em âmbar. — *O firewall é físico. Alguém cortou a linha de dados externa. Estamos ilhados.*
+O ar começou a sair pelas grelhas do teto com um silvo baixo. Sob a luz amarela, a névoa parecia suja. Gabo cobriu o rosto com a manga, recuando para longe da saída de ar. Os olhos arderam mesmo assim.
 
-— Saída de incêndio? — Gabriel cobriu o rosto com a gola.
+— Que gás é esse?
 
-— Bloqueada eletronicamente. Estamos numa caixa hermética.
+— Não sei. — Valéria leu o sensor portátil do kit. — A leitura de oxigênio está caindo. Vamos sair daqui.
 
-Gabriel olhou ao redor. A mobília era leve, decorativa. Nada capaz de quebrar as blindagens.
+Aria solicitou a linha de emergência pelo deck. A sessão foi recusada. Depois, o próprio canal externo sumiu do diagnóstico.
 
-— O elevador — disse ele. — É a única conexão física com o térreo.
+— *Não tenho outra conexão*, informou. *A posição da cabine continua disponível no circuito do elevador.*
 
-— Está travado, gênio!
+Gabo puxou a porta da escada com as duas mãos. A barra se moveu, mas a trava adicional não cedeu. O lacre de manutenção nela tinha a data daquele dia.
 
-— Travas eletrônicas podem ser forçadas se você tiver uma alavanca grande o suficiente.
+Na sala havia uma escultura cromada, um K torcido sobre dois pinos. Ele a derrubou contra a quina do degrau e soltou uma das hastes. A lavanda desaparecera sob um cheiro seco que lhe raspava a garganta.
 
-Gabriel correu até a escultura de metal abstrata no centro da sala — um "K" gigante e retorcido. Ele chutou a base até ela ceder, arrancando uma barra de aço cromado de um metro e meio.
+— Na porta do elevador — disse Valéria.
 
-— Me ajude!
+Ela acoplou o deck à tomada de serviço junto ao batente. O visor mostrava a cabine no térreo e uma plataforma de inspeção um piso abaixo. Gabo introduziu a haste entre as folhas. Os dois fizeram força; a peça deslizou, cortando a luva dele antes de encontrar apoio.
 
-Eles correram para as portas do elevador. O gás já estava na altura da cintura. Valéria tossia, os olhos lacrimejando.
+A abertura deu para o poço. O vento frio subiu pelo vão. À esquerda havia uma pequena escada de inspeção, interrompida antes da plataforma inferior. Faltavam degraus. Gabo iluminou o intervalo: pouco mais de um andar, ainda longe demais para se deixar cair.
 
-Gabriel enfiou a barra de metal na fresta das portas de aço inoxidável.
+Valéria prendeu a haste atravessada no batente e passou por ela as fitas de contenção do kit. Testaram o apoio com o peso dos dois antes de usar a tira como descida. Não havia comprimento para alcançar o térreo. Havia para chegar ao primeiro trecho íntegro da escada.
 
-— Puxe!
+Ela retirou o deck da tomada, fechou a tampa de Aria e o prendeu ao corpo. As mãos já escorregavam de suor dentro das luvas.
 
-Valéria agarrou a barra com ele. Eles fizeram alavanca com todo o peso do corpo. O motor do elevador gemeu em protesto. As portas cederam, abrindo uma fresta de meio metro.
+— Vou primeiro. Se a plataforma não aguentar, você fica.
 
-O fosso do elevador estava escuro, um abismo de concreto e cabos oleosos. O vento uivava lá embaixo.
+— Val.
 
-— O carro está no térreo — disse Gabriel, iluminando o fosso com a lanterna. — Temos que descer pelos cabos.
+— Você não está me pedindo opinião desde a doca. Agora segura a haste.
 
-— Você tá brincando — Valéria olhou para o abismo, aterrorizada. — São duzentos andares! Minhas mãos não vão aguentar!
+Gabo segurou. Valéria desceu pelo vão, procurando os apoios com a ponta do coturno. A fita raspou no batente e vibrou entre os dedos dele. Quando alcançou a escada, ela firmou os pés e fez sinal.
 
-— É isso ou sufocar. Vamos!
+Gabo passou o saco do drive ao bolso interno e começou a descer. A garganta o fez tossir. Perdeu um apoio e sentiu o peso inteiro sobre a mão que a luva rasgada já não protegia.
 
-Gabriel ajudou-a a passar pela fresta. Ela se agarrou a um dos cabos de aço grossos, coberto de graxa preta. Gabriel foi atrás.
+Do fundo do poço veio o som de uma cabine acelerando.
 
-Assim que eles se penduraram, o sistema do prédio reagiu.
+— *Posição cento e doze, subindo*, disse Aria. *Última leitura antes de desconectar. Não recebo a atual.*
 
-— *Anomalia no fosso 1,* — disse a voz da IA do prédio. — *Reiniciando cabine. Subida expressa.*
+Valéria puxou Gabo pela alça do colete quando ele alcançou o trecho de escada. Os dois se lançaram para a plataforma. O tornozelo dela dobrou sob a borda; o ombro bateu no corrimão. Ele caiu por cima da própria mão aberta, e a dor lhe apagou o som por um instante.
 
-Lá embaixo, muito longe, luzes se acenderam. O zumbido de motores de alto desempenho ecoou. O elevador estava subindo. Rápido.
+A luz cresceu no poço. A cabine passou no lado de fora da grade, arrancando a fita que ainda pendia do batente superior. O golpe jogou os dois contra a parede.
 
-— *Vinte e sete segundos até o impacto,* — calculou Aria friamente no ouvido de Gabo.
+Ficaram deitados até o motor se afastar. A porta de manutenção do piso 199 abriu por dentro, numa maçaneta mecânica. Valéria tentou levantar-se e caiu sentada. Tirou a luva com os dentes; a palma estava esfolada e deixava sangue no couro.
 
-— Desliza! — gritou Gabriel.
+— Eu preciso de um minuto — disse.
 
-Eles soltaram o corpo, usando as luvas e as botas para frear a descida. O atrito era brutal. Gabriel sentiu o calor atravessar o couro de suas luvas, queimando a pele.
+Gabo permaneceu ao lado dela, com a própria mão enrolada num lenço limpo. Não lhe ofereceu uma lição sobre polícia.
 
-Valéria gritou quando bateu o ombro em uma viga de suporte lateral, mas continuou descendo.
+O rádio encontrou Vilar na escada. Gabo deu o piso, avisou do gás e pediu atendimento. A equipe subiria pelo núcleo oposto. Valéria salvou a última leitura antes que a memória do deck começasse a girar sobre si mesma.
 
-O zumbido do elevador aumentava. Uma luz forte crescia abaixo deles, aproximando-se como um trem desgovernado. O vento deslocado pela cabine subindo empurrava-os para cima.
+— O prédio tinha nossa autorização — disse ela. — E sabia exatamente onde estávamos.
 
-— Vai nos esmagar! — gritou Valéria.
-
-Gabriel olhou para as paredes do fosso. A cada dez andares, havia uma porta de serviço para manutenção.
-
-— Ali! Andar 150! — Gabriel apontou para uma pequena plataforma de grade metálica lateral.
-
-O elevador estava a segundos de distância. O rugido era ensurdecedor.
-
-Gabriel se balançou no cabo, chutando a parede para ganhar impulso.
-
-— Pula!
-
-Ele agarrou Valéria pelo cinto e se jogou em direção à grade.
-
-Eles aterrissaram na plataforma estreita e enferrujada no exato momento em que a cabine do elevador passou por eles a 100 km/h. O deslocamento de ar foi tão violento que quase os jogou de volta no fosso.
-
-Eles ficaram ali, encolhidos na escuridão, cobertos de graxa, tremendo enquanto o elevador passava zunindo rumo à cobertura para esmagar o nada.
-
-Valéria olhou para suas mãos. As luvas estavam derretidas, as palmas em carne viva.
-
-— Eu odeio trabalho de campo — sussurrou ela, com lágrimas nos olhos.
-
-Gabriel encostou a cabeça na parede fria de concreto, sentindo o pulso acelerado.
-
-— Bem-vinda à polícia, garota.
-
-Ele tirou o drive do bolso. Estava sujo de graxa, mas intacto.
-
-— Vamos ver pelo que o Kiko morreu.
+Gabo segurou o saco lacrado diante da luz da escada. O plástico estava inteiro. O porteiro chegou com a equipe de apoio, trazendo outra ordem de limpeza para a cobertura.

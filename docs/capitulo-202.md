@@ -23,11 +23,11 @@ Elias desabou a dois passos de mim, encolhendo os joelhos contra o peito. Seus d
 
 — Eu ouvi isso... — murmurou Elias, a voz sumindo na escuridão.
 
-— Era pra ouvir mesmo, — Valéria disparou, sem tirar os olhos da minha ferida. Ela borrifou o selante na carne viva. O composto químico queimou como ácido de bateria, e precisei fincar as unhas da mão de sucata no chão para não soltar um grito que alertasse qualquer coisa viva no setor. — Aguenta firme, detetive. Pelo menos não infecciona com o lodo do poço.
+— Era pra ouvir mesmo, — Valéria disparou, sem tirar os olhos da minha ferida. Ela borrifou o selante na carne viva. O composto químico queimou como ácido de bateria, e precisei fincar as unhas da mão de sucata no chão para não soltar um grito que alertasse qualquer coisa viva no setor. — Aguenta firme, detetive. Isso cobre a ferida. Não torna o lodo que entrou nela menos sujo.
 
 O ar naquele corredor era seco, com um cheiro pungente de concreto antigo, ferrugem seca e ozônio aprisionado há décadas. O silêncio que se instalou era pesado demais, quase sólido. Depois de horas sob o bombardeio contínuo de ruídos de esgoto, água ácida e gritos biomecânicos, a ausência de som não trazia paz — trazia uma paranoia corrosiva que se infiltrava pelas têmporas.
 
-Fechei os olhos por um segundo para regular o compasso da respiração. Minha garganta arranhava de sede, o gosto amargo de bile e cobre ainda impregnado na boca. A lembrança do gabinete do meu pai na antiga sede da polícia quase ameaçou cruzar o limiar dos meus pensamentos, mas esmaguei a fraqueza antes que ganhasse forma: o passado estava enterrado sob o Dilúvio e sob o concreto; o que importava agora era a munição que restava no tambor e a rota de fuga sob a terra.
+Fechei os olhos por um segundo para regular o compasso da respiração. Minha garganta arranhava de sede, o gosto amargo de bile e cobre ainda impregnado na boca. A lembrança do gabinete do meu pai na antiga sede da polícia quase ameaçou cruzar o limiar dos meus pensamentos, mas esmaguei a fraqueza antes que ganhasse forma: o passado estava enterrado sob o Dilúvio e sob o concreto; o que importava agora era a munição que restava nos dois canos e a rota de fuga sob a terra.
 
 — Esse lugar não parece abandonado como o resto, — comentei, limpando o sangue seco dos lábios com a manga boa do casaco. — Não tem infiltração. Nem musgo.
 

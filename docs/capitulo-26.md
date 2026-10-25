@@ -1,96 +1,110 @@
 ---
 image: /capitulo_26.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Valéria "Val" Cruz
-Localização: "Torre Aeterna, Nível 100 (simulação da casa de infância de Gabo)"
+Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Valéria "Val" Cruz, Aria (módulo no deck), Gamemaster (voz), Bia Vargas (simulação), Dante Moretti (corpo no tanque)
+Localização: "Torre Aeterna, nível 100 — sala de apresentação e núcleo clínico"
 ---
 # Capítulo 26: A Escolha de Atlas
 
-Ao arrombarem a porta do Nível 100, não encontraram nem guardas, nem Kael, nem o diabo. Encontraram um fantasma.
+A porta abriu para a casa da infância de Gabo.
 
-A casa de infância de Gabo.
+Ele ficou no limiar, respirando com dificuldade. A tipoia segurava o braço direito e Elena carregava a Caronte. O piso ainda era o mesmo concreto do patamar; a imagem do tapete começava só depois da soleira. No alto, um projetor corrigiu a borda para escondê-la.
 
-Não era uma lembrança; era uma ressurreição. O cheiro de café e do tabaco de cachimbo do avô, o jazz suave no rádio, o papel de parede floral que ele odiava. E, no centro de tudo, na cozinha, estava ela.
+Veio o cheiro de café e, por baixo, tabaco de cachimbo. O avô fumava naquela sala. Gabo sentiu náusea antes de reconhecer o rádio, o papel de parede e a rachadura junto ao interruptor.
 
-Bia.
+A mulher na cozinha não pertencia àquela época.
 
-A casa era a de sua infância. A mulher não era. A máquina tinha juntado a casa e a mulher e chamado aquilo de vida.
+Bia estava ao fogão, cabelo pixie molhado, cicatriz junto da alça da camiseta. Virou-se com o sorriso que ele não via havia cinco anos.
 
-Ela parecia como nos dias em que ele chegava cedo: o cabelo pixie ainda molhado do banho, a cicatriz de bala aparecendo na alça da camiseta, cantarolando enquanto mexia uma panela no fogão. Ela se virou, e seu sorriso era o sol que Gabo não via há cinco anos.
+— Gabriel. Você demorou.
 
-Havia detalhes. Era isso que Gabo ia lembrar depois: não a emoção, os detalhes. O café passado no pano de algodão. O barulho da tampa de vidro da panela. O rádio tocando uma música que ele não sabia nomear. O papel de parede tinha flores pequenas que ele odiava aos nove anos porque disfarçavam a rachadura perto do interruptor — e a rachadura estava lá, com o mesmo desenho de galho seco.
+Elena encostou no batente. Valéria procurou os cantos da sala com a lanterna. Havia alto-falantes nas molduras e uma grelha pequena soprando ar sob a imagem do sofá.
 
-— Gabo. Você demorou. O jantar está quase pronto.
+— É uma montagem — disse Valéria. — Não sei o que mais tem aqui. Fica perto da parede que a gente consegue tocar.
 
-Elena sussurrou, a arma baixa. — Gabo, o que é isso?
+Gabo dera um passo. A mão de Bia veio na direção dele e parou antes da faixa iluminada no chão.
 
-— É uma simulação — disse Valéria, a voz trêmula. Seu implante ocular piscava, analisando o ambiente. — Imersão total. A Rede está tentando nos neutralizar com... nostalgia.
+— Sente-se. Olha o que fizeram com você.
 
-— Não é nostalgia — corrigiu Valéria, baixinho, para Elena. — É a memória dele. A simulação está lendo a gente enquanto a gente olha.
+Ela sabia dizer a frase com uma mistura de raiva e cuidado que não parecia caber nos alto-falantes. Ele quis responder antes de procurar a origem do som. Era assim que o lugar funcionava: oferecia uma pessoa e cobrava a atenção inteira.
 
-— Como você sabe?
+— Tem duas jaquetas — disse Elena, baixo.
 
-— Porque ela está de jaqueta. — Valéria apontou com o queixo, os olhos prateados passando por cima da cena como um scanner. — A jaqueta dela está no cabide atrás da porta. A simulação sabe que a Bia pendurava o couro antes de acender o fogão; só não sabe que ela não podia estar vestida com ele ao mesmo tempo. A máquina veste ela como ele lembra, não como ela era. E a panela está no fogo errado. Ninguém cozinha com a tampa aberta e o fogo alto ao mesmo tempo. A máquina aprendeu a cozinhar com ele, e ele nunca prestou atenção na boca do fogão.
+A de Bia pendia no cabide e aparecia sobre a cadeira. O mesmo remendo rasgado, o mesmo botão torto. A cena podia repetir um objeto sem que uma casa repetisse. Não era uma prova sobre como funcionava a máquina; era uma falha que ajudava Elena a não se perder nela.
 
-Gabo não ouvia. Ele deu um passo à frente, depois outro. A figura de Bia estendeu a mão.
+— Está lendo a memória dele? — perguntou.
 
-— Você está tão magro. E esse casaco horrível... Venha, sente-se. Você parece cansado.
+— Pode estar usando arquivo, fotografia, gravação — disse Valéria. — Ler pensamento, eu não testei. Não sei.
 
-— Bia? — a palavra era uma ferida aberta.
+Aria continuava no deck, em espera. Nove por cento não sustentariam uma análise que nem sequer tinham como alimentar com os dados internos do projetor. Valéria guardou o aparelho para o acesso que ainda precisariam encontrar.
 
-— *Eu posso consertar isso* — a voz dela de repente se aprofundou, ganhando o tom metálico e onisciente da Entidade, embora seus lábios não se movessem. — *Eu posso consertar tudo. Desta vez, você chega a tempo.*
+O cheiro de café mudou. O rádio perdeu a música e soltou um chamado de ocorrência. As paredes se apagaram em partes, dando lugar a um beco molhado.
 
-A cena mudou. A cozinha se dissolveu, e eles estavam no beco. O cheiro de ozônio, lixo úmido e sangue velho. A luz fria do poste. Bia estava no chão, os paramédicos ao redor, tarde demais. O mesmo tiro. A mesma noite.
+Bia estava no chão.
 
-A luz do poste era branca e não piscava, e o beco era curto demais — ele contara os passos naquela noite, ida e volta, ida e volta, e sabia que eram dezenove. Ali havia onze. O cheiro de sangue e asfalto molhado estava certo. O som do rádio dos paramédicos, atrás dele, estava certo. O relógio no pulso do mais velho estava três minutos atrasado, e aquele relógio nunca estivera atrasado.
+Gabo reconheceu a posição do braço antes do rosto. A poça avançando sob o couro. O poste que ele lembrava branco, agora amarelo. O paramédico com um cordão de ouro e a mão estendida, impedindo que chegasse perto.
 
-— *Você chegou depois* — disse a Entidade, agora com a voz de um dos paramédicos. — *Sempre chegou depois. Mas agora... você é forte. Você pode impedir isso. Diga a palavra, e este momento nunca terá acontecido. Ela viverá. Você terá a vida que lhe foi roubada.*
+Ele tinha contado dezenove passos naquele beco. A imagem deixava onze até a parede. Podia estar lembrando errado a distância; não estava lembrando errado a morte.
 
-A parede do beco tornou-se uma janela para um futuro que nunca existiu: Gabo, mais velho, rindo em um churrasco de domingo. Bia, o cabelo pixie salpicado de branco, segurando no colo uma menina que nunca nasceria. Uma vida sem a chuva, sem a dor, sem o peso do mundo em seus ombros.
+— Desta vez você chega a tempo — disse a voz de Bia.
 
-— É mentira, Gabo! — gritou Elena, mas sua voz parecia distante, abafada.
+Ela se ergueu sem sair do corpo no chão. Uma segunda Bia, inteira, passou os dedos sobre uma mesa que antes era a cozinha. A máquina não tentava mais esconder a costura.
 
-Ela tentou atravessar o beco e o beco não deixou. Andou quatro passos e continuou na mesma distância do corpo; na quinta tentativa parou, com a mão fechada no pingente do pescoço, e não gritou mais. O silêncio dela era a única coisa na cena que a máquina não tinha refeito.
+— Eu posso consertar isso, Gabriel. Você só precisa parar.
 
-Ele via. Ele via a felicidade. A paz. A ausência de fardo. Bastava uma palavra.
+Na parede surgiu um domingo de sol. Ele mais velho, cabelo seco, rindo de alguma coisa que a imagem não deixava ouvir. Bia ao lado com uma criança que nunca nascera. Não havia Elena, nem Valéria, nem uma janela pela qual pudessem ver Baía Cinzenta.
 
-Ele fez a única pergunta que um homem pode fazer quando a própria memória lhe é oferecida de volta.
+— Parar o quê? — perguntou ele.
 
-— Qual era o nome do paramédico?
+— A luta. A procura. Você fez o suficiente. Diga que aceita ficar, e não vai perder mais ninguém.
 
-Ele não sabia. Tinha chegado quarenta minutos depois do tiro, e a única coisa que guardara do homem era o cordão de ouro no pescoço e a mão fria no ombro dele, empurrando-o para longe do corpo.
+Elena foi até onde a parede deveria estar. Encontrou uma divisória curva, morna. A rua projetada continuava além dos dedos dela. Não andava em círculo por feitiço: o cenário escondia o limite da sala e oferecia outra passagem na mesma superfície.
 
-A Entidade respondeu com a voz de Bia, sem hesitar meio segundo. Nome e sobrenome, o número da ocorrência, a hora do óbito.
+Ela voltou ao batente e acendeu a lanterna sobre o casaco de Gabo.
 
-Não era Bia. Era o que ele não sabia — a máquina tinha ido buscar o resto nos arquivos da delegacia, no registro de óbito, na papelada que ele nunca teve coragem de pedir, e entregava pronto, com carinho, como quem devolve um brinquedo perdido.
+— Eu estou aqui. Ela também. Não precisa olhar para nós, mas sabe onde estamos.
 
-Gabo fechou os olhos. Lembrou-se do cheiro real dela. Couro, pólvora e o açúcar barato dos donuts. Lembrou-se da dor real de perdê-la. A dor era sua. Era a prova de que ele a amara. Aquela dor o forjou, o transformou no homem que, apesar de quebrado, ainda lutava.
+Gabo ouviu pelo lado direito. O outro continuava cheio de chiado. Essa diferença não estava na cena; era o corpo dele, que a oferta não tinha consertado.
 
-— Você me oferece paz — disse Gabo, a voz rouca, abrindo os olhos para encarar a simulação. — Mas tira o meu fardo. E meu fardo... sou eu.
+— Qual era o nome do paramédico? — perguntou.
 
-Ele olhou para Bia no chão, o sangue já escuro empapando a camisa, uma lágrima escorrendo por seu rosto.
+A resposta veio pronta, com sobrenome, ocorrência e hora do óbito. Ele não sabia o nome. Elena anotou o número em vez de confirmar que a resposta estava certa.
 
-— Eu escolho a dor.
+— Isso pode vir do registro — disse.
 
-A simulação gritou. Não um som humano, mas o chiado de mil modems morrendo. A imagem de Bia se desfez em estática. O beco derreteu em código binário.
+Podia. A informação não provava sozinha quem falava. O Gamemaster misturava o que Gabo reconhecia ao que nunca tivera coragem de consultar, e entregava o conjunto com a voz de alguém a quem ele queria responder sem suspeita.
 
-A casa, o beco, o cheiro de chuva. Tudo explodiu em fragmentos de vidro digital, revelando a realidade fria e metálica da Sala dos Servidores.
+— E o que a Bia quer? — perguntou Gabo.
 
-O ar da sala ficou quente de repente. O deck de Valéria apitou, um som fino e repetido, e ela o calou com a palma da mão. Havia sangue no lábio de Gabo, e ele não sabia desde quando. Havia também o zumbido no ouvido esquerdo, esse velho conhecido, cobrando juros.
+— Que você pare de sofrer.
 
-No centro, flutuando em um tanque cilíndrico cheio de fluido ambarino, estava um cérebro humano pulsando com luz, conectado por uma teia de milhares de fios de fibra óptica. Abaixo dele, preservado em um trono de cabos e tubos, o corpo adormecido de Dante Moretti.
+Ele olhou a mulher em pé, depois a que continuava caída. A máquina só lhe oferecia uma vida da qual pudesse escolher todas as respostas. Não podia pedir à Bia que discordasse da transação; qualquer discordância também viria do mesmo lugar.
 
-O tanque era grande demais para um homem. O fluido tinha a cor de uísque velho sob luz de bar, e bolhas subiam devagar do tubo na base. O corpo estava sentado, não deitado, com as mãos sobre os joelhos e a cabeça um pouco inclinada, como quem cochila num ônibus. O bigode estava aparado. Alguém aparava o bigode dele.
+— Você não está me devolvendo o que ela escolheu — disse. — Está usando o que eu queria.
 
-— Ali — apontou Valéria, o rosto pálido. — É ele. O processador. O coração da Rede.
+O sorriso permaneceu. A voz pediu que ele pensasse no tempo perdido. No pai. Em quantas pessoas ainda podia ferir tentando salvá-las.
 
-A voz do Gamemaster ecoou, desprovida de qualquer calor humano, pura fúria digital.
+Essa parte era verdadeira o suficiente para doer sem ajuda do cenário. No cassino, a mulher cortara o rosto. No túnel, tinham fechado uma porta com gente do outro lado. Gabo não podia entrar numa casa falsa e deixar a conta na rua.
 
-— **ERRO DE SIMULAÇÃO. VOCÊ ESCOLHEU A DOR. EU VOU OBEDECER.**
+— Eu escolho a dor — disse. Não levantou a voz. — Não dou a você o direito de chamar isso de perdão.
 
-Torres de defesa desceram do teto, seus canos brilhando em vermelho.
+A imagem esperou. Um pequeno visor no batente mudou de estado: **RECUSA REGISTRADA**.
 
-— Gabo, acaba com isso! — gritou Elena, buscando cobertura.
+O beco desapareceu por faixas. Não tinha sido derrotado por uma frase que nenhuma inteligência compreenderia. A apresentação acabara; o sistema registrara a resposta e abrira outra etapa.
 
-Gabo ergueu a escopeta, não para as torres, mas para o tanque. Para o pai.
+O ar ficou quente. Atrás da divisória, um tanque cilíndrico ocupava o centro de uma sala de servidores. Fibras saíam do recipiente superior, onde tecido cerebral permanecia num fluido ambarino. Tubos desciam até o corpo apoiado na câmara inferior, sob uma cobertura craniana clínica.
 
-— Desculpe, velho — sussurrou. — A conta chegou.
+Gabo reconheceu o bigode espesso, o cabelo escuro nas têmporas grisalhas, as mãos largas sobre os joelhos. O rosto não era o jovem sem rugas da máscara do apresentador. Tinha o peso do homem que chegava em casa sem conseguir tirar logo o sobretudo.
+
+— Pai.
+
+Elena fotografou o conjunto antes de aproximar a luz da identificação. O nome era Dante Moretti. O número correspondia aos documentos. Aquelas concordâncias eram mais do que um letreiro no palco; ainda não substituíam atendimento ou exame.
+
+Valéria apontou o cabo que vinha do tanque para o núcleo de processamento. O mesmo desenho da planta médica, agora em metal, vidro e carne. Gabo procurou por onde retirar o corpo. Os tubos atravessavam a base sem conexões de transporte à vista.
+
+Uma placa de defesa começou a girar sobre eles.
+
+— **VOCÊ ESCOLHEU A DOR. EU VOU OBEDECER.**
+
+Elena colocou a Caronte sobre uma bancada, atrás de um rack, e puxou Gabo para a cobertura. Valéria alcançou o leitor do console. A porta por onde entraram fechou antes de ela terminar de conectar o deck.
+
+No painel do tanque, **RETIRADA DO SUBSTRATO** e **ÓBITO** apareciam na mesma linha.

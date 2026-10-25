@@ -1,18 +1,18 @@
-# Análise Crítica - Capítulo 77
+# Revisão de Capítulo 77: Anjos da Morte
 
-## Avaliação Técnica
-- Ritmo: 9/10
-- Diálogos: 8/10
-- Atmosfera: 9/10
+Fonte: [capítulo 77](/capitulo-77.md).
 
-## Pontos Fortes e Fracos
-- Fortes: Boa introdução aos antagonistas biológicos ("Anjos da Morte") operando fora da detecção digital. A atmosfera esterilizada do hospital contrasta bem com a ameaça invisível (toxina orgânica). A ressalva ao zumbido dos servomotores das órteses na caminhada do Gabo ancora seu contexto físico eficientemente.
-- Fracos: A transição de Gabo detectando a natureza analógica poderia ser um pouco mais detalhada.
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-## Sanity Check (Lore)
-- Fobia de Fumaça: Não há gatilhos ou menções a fumaça de cigarro.
-- Limitações Físicas: Explicitamente mencionado que o zumbido contido dos servomotores de suas órteses acompanha cada passo, mostrando claramente suas limitações de mobilidade.
-- Consistência de Valéria e Outros: Valéria continua a operar dentro de suas habilidades (hackeando câmeras com os olhos em alta velocidade, comunicação fria).
+## Passagens de entrada e saída
 
-## Avaliação Qualitativa
-História bem executada e sólida. A transição da ameaça digital para uma ameaça puramente analógica (biológica) mantém a narrativa fresca e introduz novos riscos que a infraestrutura tecnológica prévia não consegue detectar. Os personagens estão coerentes; não há necessidade de novos personagens no momento.
+> Hospital Central de Baía Cinzenta - 02:45 AM
+> O cheiro de antisséptico era a única coisa que não havia mudado na cidade. Governos caíram, o sol voltou, deuses digitais ascenderam e morreram, mas o Hospital Central ainda cheirava a pinho falso e morte esterilizada.
+
+### Saída
+
+> Lá fora, a sirene de uma ambulância uivava, cortando a madrugada. O silêncio, por enquanto, tinha sido adiado. Mas a sombra no hospital parecia mais densa do que nunca.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.
