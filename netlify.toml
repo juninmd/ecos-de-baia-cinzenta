@@ -4,3 +4,12 @@
 
 [build.environment]
   NODE_VERSION = "22"
+
+# Sem CSP por ora: o VitePress usa scripts inline e Google Fonts; exige allowlist própria.
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    X-Frame-Options = "DENY"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    Permissions-Policy = "camera=(), microphone=(), geolocation=()"
