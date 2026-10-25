@@ -678,3 +678,15 @@ body.reader-mode-active .vp-doc p {
   line-height: 1.8;
   font-family: "Merriweather", serif;
 }
+
+/* Quem pede menos movimento no sistema não recebe animações nem transições */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
