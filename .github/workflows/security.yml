@@ -12,4 +12,4 @@ jobs:
   gitleaks:
     uses: juninmd/base-actions/.github/workflows/reusable-security-scan.yml@main
     with:
-      fail-on-findings: false
+      fail-on-findings: true
