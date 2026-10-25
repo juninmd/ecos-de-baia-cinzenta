@@ -75,8 +75,19 @@ function isCacheable(request: Request, response: Response): boolean {
   return response.ok && response.type === 'basic' && new URL(request.url).origin === sw.location.origin;
 }
 
+// O Vite põe hash no nome de /assets/: a mesma URL nunca muda de conteúdo, então o cache serve sem rede
+function isImmutableAsset(request: Request): boolean {
+  const url = new URL(request.url);
+  return url.origin === sw.location.origin && url.pathname.startsWith('/assets/');
+}
+
 async function handleFetchEvent(request: Request): Promise<Response> {
   try {
+    if (isImmutableAsset(request)) {
+      const cached = await caches.match(request);
+      if (cached) return cached;
+    }
+
     const response = await fetch(request);
 
     if (isCacheable(request, response)) {

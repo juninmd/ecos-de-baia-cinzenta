@@ -43,6 +43,8 @@ const cases = [
     () => withType(new Response('nf', { status: 404 }), 'basic'), 'https://site.test/nao-existe'],
   ['cross-origin 200 is not cached', false,
     () => withType(new Response('x', { status: 200 }), 'cors'), 'https://cdn.other.test/x.js'],
+  ['hashed asset miss goes to network and is cached', true,
+    () => withType(new Response('js', { status: 200 }), 'basic'), 'https://site.test/assets/novo.def456.js'],
 ]
 
 let failed = 0
@@ -52,4 +54,18 @@ for (const [name, expected, makeResponse, url] of cases) {
   if (!pass) failed++
   console.log(`${pass ? 'PASS' : 'FAIL'} ${name} (cached=${cached})`)
 }
+// Assets com hash no nome (/assets/) não mudam de conteúdo: servidos do cache sem rede.
+{
+  const hashed = 'https://site.test/assets/app.abc123.js'
+  store.set(hashed, new Response('cached-bundle'))
+  let networkCalls = 0
+  upstream = async () => { networkCalls++; return withType(new Response('network-bundle', { status: 200 }), 'basic') }
+  let pending
+  await handlers.fetch({ request: new Request(hashed), respondWith(p) { pending = p } })
+  const body = await (await pending).text()
+  const pass = networkCalls === 0 && body === 'cached-bundle'
+  if (!pass) failed++
+  console.log(`${pass ? 'PASS' : 'FAIL'} hashed asset served from cache (network=${networkCalls}, body=${body})`)
+}
+
 process.exit(failed ? 1 : 0)
