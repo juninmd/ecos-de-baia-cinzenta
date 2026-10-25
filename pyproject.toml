@@ -7,7 +7,7 @@ requires-python = ">=3.10"
 dependencies = [
     "requests",
     "google-genai>=2.0.0",
-    "pillow>=10.3.0",
+    "pillow>=10.3.0,<13",
     "ollama>=0.4.7",
     "gtts>=2.5.0",
     "pydub>=0.25.1",
