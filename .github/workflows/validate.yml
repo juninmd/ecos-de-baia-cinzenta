@@ -14,7 +14,7 @@ jobs:
     # O reusable não declara `on.workflow_call.secrets`, então passar
     # `secrets:` aqui derrubava o run inteiro em startup_failure. O checkout
     # recebe o GITHUB_TOKEN implícito via permissions do próprio reusable.
-    uses: juninmd/base-actions/.github/workflows/reusable-validate.yml@b1a957daf1a734fdfe18b28f984e85b3c471f4d4
+    uses: juninmd/base-actions/.github/workflows/reusable-validate.yml@main
     with:
       # 3.13 removeu `audioop`, que o pydub ainda importa; o projeto roda em 3.12.
       python-version: '3.12'
