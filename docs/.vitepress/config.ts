@@ -1,4 +1,5 @@
 import sidebar from './navigation/sidebar'
+import { stripDiagramHints } from './preload-hints.mjs'
 ﻿import { defineConfig } from 'vitepress'
 import { withMermaid } from 'vitepress-plugin-mermaid'
 
@@ -10,6 +11,7 @@ import { withMermaid } from 'vitepress-plugin-mermaid'
 const base = process.env.VITEPRESS_BASE || '/'
 
 export default withMermaid(defineConfig({
+  buildEnd: ({ outDir }) => stripDiagramHints(outDir),
   base,
   title: "Ecos de Baía Cinzenta",
   description: "Um thriller noir cyberpunk em uma cidade onde a chuva nunca para.",

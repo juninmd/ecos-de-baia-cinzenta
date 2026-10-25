@@ -17,7 +17,8 @@
     "android:open": "npx cap open android",
     "android:build": "pnpm android:sync && cd android && ./gradlew assembleDebug",
     "android:run": "pnpm android:sync && npx cap run android",
-    "deps:verify": "node --test scripts/check_dependency_metadata.test.mjs && node scripts/check_dependency_metadata.mjs"
+    "deps:verify": "node --test scripts/check_dependency_metadata.test.mjs && node scripts/check_dependency_metadata.mjs",
+    "test:docs": "node --test tests/preload_hints.test.mjs"
   },
   "repository": {
     "type": "git",
