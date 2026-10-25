@@ -184,7 +184,7 @@ onUnmounted(() => {
   <Layout>
     <template #doc-before>
       <div v-if="frontmatter.image" class="chapter-cover-container">
-        <img :src="frontmatter.image" class="chapter-cover" :alt="frontmatter.title || 'Imagem do Capítulo'" />
+        <img :src="frontmatter.image" class="chapter-cover" fetchpriority="high" decoding="async" :alt="frontmatter.title || 'Imagem do Capítulo'" />
       </div>
       
       <!-- Reading Time Indicator -->
