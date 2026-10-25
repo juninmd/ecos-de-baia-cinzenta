@@ -1,4 +1,5 @@
 import sidebar from './navigation/sidebar'
+import { socialMeta } from './social-meta.mjs'
 ﻿import { defineConfig } from 'vitepress'
 import { withMermaid } from 'vitepress-plugin-mermaid'
 
@@ -13,6 +14,7 @@ export default withMermaid(defineConfig({
   base,
   title: "Ecos de Baía Cinzenta",
   description: "Um thriller noir cyberpunk em uma cidade onde a chuva nunca para.",
+  transformHead: socialMeta,
   head: [
     ['link', { rel: 'preconnect', href: 'https://fonts.googleapis.com' }],
     ['link', { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' }],
