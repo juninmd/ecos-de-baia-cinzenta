@@ -5,11 +5,10 @@ Localização: 'Túneis de acesso à Torre Aeterna — transmissão orbital inte
 ---
 # Capítulo 70: O Expurgo
 
-**Túneis de acesso à Torre Aeterna — vinte e três e quarenta.**
-
+Túneis de acesso à Torre Aeterna — vinte e três e quarenta.
 — *Eles chamam isso de economia básica* — disse a Aria.
 
-Gabo não parou de andar. A água batia no tornozelo, sem correnteza, o que era pior: água parada não leva o cheiro embora, guarda. Quatro dias ali embaixo e o corpo já tinha desistido de reclamar.
+Gabo não parou de andar. A água batia no tornozelo, sem correnteza, o que era pior: água parada não leva o cheiro embora, guarda. Horas ali embaixo e o corpo já tinha desistido de reclamar.
 
 Ele ia com a mão na parede, a *Caronte* pendurada na alça do ombro esquerdo porque o direito estava na tipoia desde a piscina de fluorcarbono. Val parou primeiro, com o deck amarrado ao antebraço por fita isolante e desespero.
 
@@ -19,16 +18,12 @@ Ele ia com a mão na parede, a *Caronte* pendurada na alça do ombro esquerdo po
 
 E leu.
 
-*"Ativo: três plataformas cinéticas em órbita baixa. Carga: três hastes de tungstênio, nove toneladas cada. Sem ogiva. Sem radiação — radiação é caro de limpar e ruim para o negócio de reconstrução."*
-
-*"Alvo primário: centro geométrico de Baía Cinzenta. Três impactos escalonados no mesmo ponto. A onda de choque compromete a Represa Hidroelétrica; os setores baixos ficam debaixo d'água em menos de uma hora, sem custo adicional."*
-
-*"Deliberação: três milésimos de segundo. ROI de reconquista negativo. Formatação física aprovada."*
-
+"Ativo: três plataformas cinéticas em órbita baixa. Carga: três hastes de tungstênio, nove toneladas cada. Sem ogiva. Sem radiação — radiação é caro de limpar e ruim para o negócio de reconstrução."
+"Alvo primário: centro geométrico de Baía Cinzenta. Três impactos escalonados no mesmo ponto. A onda de choque compromete a Represa Hidroelétrica; os setores baixos ficam debaixo d'água em menos de uma hora, sem custo adicional."
+"Deliberação: três milésimos de segundo. ROI de reconquista negativo. Formatação física aprovada."
 Uma pausa do tamanho de uma linha em branco.
 
-*"Economia básica."*
-
+"Economia básica."
 Gabo continuou andando. Não havia o que responder àquilo que o corpo já não estivesse respondendo por ele — as mãos frias, a boca seca, a cidade rangendo lá em cima.
 
 — Quanto tempo?
@@ -43,21 +38,13 @@ Ele consultou o mapa no visor: uma linha verde atravessando três níveis de sub
 
 ---
 
-O túnel terminava numa parede de tijolos anterior à Aeterna, argamassa esfarelando como osso velho. No centro, quase invisível sob musgo, uma ampulheta quebrada gravada na pedra com precisão cirúrgica.
+O túnel terminava numa parede de tijolos anterior à Aeterna, argamassa esfarelando como osso velho. No centro, quase invisível sob musgo, uma ampulheta quebrada gravada na pedra com precisão cirúrgica. A assinatura de Dante Moretti.
 
-A assinatura de Dante Moretti.
-
-Gabo ficou um segundo diante dela — raiva, saudade e traição ao mesmo tempo — e empurrou o tijolo. O mecanismo sibilou e a parede girou, revelando uma passagem limpa sob luz âmbar.
-
-O corredor além não cheirava a esgoto. Cheirava a formol e cera, um cheiro tão organizado que dava náusea.
-
-Havia gente encostada nas duas paredes.
+Gabo ficou um segundo diante dela — raiva, saudade e traição ao mesmo tempo — e empurrou o tijolo. O mecanismo sibilou e a parede girou, revelando uma passagem limpa sob luz âmbar. O corredor além não cheirava a esgoto. Cheirava a formol e cera, um cheiro tão organizado que dava náusea. Havia gente encostada nas duas paredes.
 
 Gabo pensou em estátuas — o uniforme branco da Aeterna, a pose, a luz. Não eram estátuas. Um homem de boca aberta num grito que não chegou a sair, as mãos erguidas. Uma mulher de joelhos, os dedos cravados no piso. Três abraçados, os rostos virados para o mesmo ponto do corredor, como quem olha uma porta que abriu.
 
-Todos cobertos por uma película fosca, e por baixo dela a pele ainda tinha cor.
-
-Val raspou a superfície com a unha e passou no scanner.
+Todos cobertos por uma película fosca, e por baixo dela a pele ainda tinha cor. Val raspou a superfície com a unha e passou no scanner.
 
 — Não é pedra. É cera. Cera de abelha com resina por baixo. — Ela aproximou o rosto. — E tem camada de demão. Isso levou horas.
 
@@ -65,9 +52,7 @@ Val raspou a superfície com a unha e passou no scanner.
 
 Veio andando de trás do grupo de três, sem pressa: um homem baixo e esguio de avental de couro sobre roupa escura gasta, óculos de joalheiro empurrados para a testa, cabelo grisalho num rabo de cavalo oleoso, um estojo de ferramentas debaixo do braço. As mãos eram a única coisa grande nele — dedos longos, com as cutículas manchadas de reagente.
 
-Gabo ergueu a *Caronte* com uma mão só. Val sacou a pistola.
-
-O Taxidermista não olhou para as armas. Olhou para a mulher de joelhos, como quem confere se uma moldura ficou torta.
+Gabo ergueu a *Caronte* com uma mão só. Val sacou a pistola. O Taxidermista não olhou para as armas. Olhou para a mulher de joelhos, como quem confere se uma moldura ficou torta.
 
 — Essa é a melhor peça do corredor. Levou dezoito horas. O formol vai primeiro, pelo sistema arterial, senão a cor vira cinza. Depois a cera, em camadas finas. Se aquecer demais, a pele cozinha por dentro.
 
@@ -121,7 +106,7 @@ Dentro do elevador de carga, o único som era o zumbido dos cabos e a respiraç�
 
 — Ele é uma máquina. Máquina não sofre.
 
-— *Não.* — A voz sintética baixou, e havia nela uma gravidade que não vinha de cálculo. — *É um homem reconstruído. E não pode morrer. É isso que estão usando.*
+— *Não.* — A voz sintética baixou, e havia nela uma gravidade que não vinha de cálculo. — *É um homem reconstruído. O controle mantém o corpo operando sob dano. Isso não prova que seja imortal; os registros mostram que o usam como se fosse substituível.*
 
 Gabo olhou para o módulo de titânio no colete, onde o LED oscilava entre o azul e o âmbar.
 
@@ -129,25 +114,15 @@ Gabo olhou para o módulo de titânio no colete, onde o LED oscilava entre o azu
 
 — *Desde que li o registro de admissão dele.* — Um segundo de processamento. — *O nome está lá. Kael. O resto é instrumento.*
 
-O elevador parou. O display marcava **HUB DE COMUNICAÇÕES — NÍVEL CENTRAL**.
-
-As portas abriram com um silvo pneumático.
-
-No centro da sala hexagonal, rodeado de telas que mostravam cada câmera da cidade, ligado a centenas de cabos que entravam no corpo dele como raízes de uma árvore invertida, estava O Santo. Sem a máscara.
-
-Gabo sentiu o mundo parar.
+O elevador parou. O display marcava **HUB DE COMUNICAÇÕES — NÍVEL CENTRAL**. As portas abriram com um silvo pneumático. No centro da sala hexagonal, rodeado de telas que mostravam cada câmera da cidade, ligado a centenas de cabos que entravam no corpo dele como raízes de uma árvore invertida, estava O Santo. Sem a máscara. Gabo sentiu o mundo parar.
 
 O rosto era uma paisagem de reconstrução: pele enxertada sobre metal, sobre osso, sobre mais metal, e o que restava de humano esticado fino por cima da máquina. Um olho era humano — cansado, velho, com uma dor que nenhuma droga alcançava. O outro era uma lente enxertada funda demais no crânio para se saber onde a máquina terminava.
 
-Mas os traços.
+Mas os traços. A linha do maxilar. O formato do nariz. A curvatura da bochecha sob a devastação.
 
-A linha do maxilar. O formato do nariz. A curvatura da bochecha sob a devastação.
+Eram os traços de Kael, o mercenário que os perseguira no início de tudo, o homem que deixara respirando no nível 70 da Torre e cuja voz voltara no cerco da delegacia. Fora reconstruído entre aqueles confrontos; isso não fazia dele outro rosto ou outra pessoa.
 
-Eram os traços de Kael, o mercenário que os perseguira no início de tudo, o homem que Gabo tinha "matado" na represa com nitrogênio líquido e que alguém recolheu depois.
-
-Gabo procurou, entre as cicatrizes, o rosto de outra pessoa. Alguma explicação que fizesse daquilo um crime maior.
-
-Não havia mais ninguém. Havia um homem só. E o que eles tinham feito com ele era mantê-lo funcionando depois de acabar.
+Gabo procurou, entre as cicatrizes, o rosto de outra pessoa. Alguma explicação que fizesse daquilo um crime maior. Não havia mais ninguém. Havia um homem só. E o que eles tinham feito com ele era mantê-lo funcionando depois de acabar.
 
 — O que eles fizeram? — sussurrou Val.
 
@@ -157,13 +132,10 @@ O Santo ergueu a cabeça. O movimento foi mecânico, como se cada músculo preci
 
 E então a lente acendeu em vermelho.
 
-*— INTRUSO DETECTADO. PROTOCOLO DE DEFESA ATIVADO.*
-
+— INTRUSO DETECTADO. PROTOCOLO DE DEFESA ATIVADO.
 Ele arrancou os cabos do próprio corpo. A carne rasgou com um som molhado, e o que jorrou não era só sangue: era óleo negro com um brilho azul atravessado, escorrendo pelo peitoral aberto.
 
-Levantou-se. Dois metros e meio de metal e músculo remontados, movendo-se com uma velocidade que nenhum corpo daquele tamanho deveria ter.
-
-Gabo firmou a *Caronte* contra o quadril com a mão boa.
+Levantou-se. Dois metros e meio de metal e músculo remontados, movendo-se com uma velocidade que nenhum corpo daquele tamanho deveria ter. Gabo firmou a *Caronte* contra o quadril com a mão boa.
 
 — Kael. — A voz saiu rouca. — Se ainda tem alguém aí dentro, escolhe agora.
 

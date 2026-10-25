@@ -1,18 +1,18 @@
-# Análise Crítica - Capítulo 59: A Fundação
+# Revisão de Capítulo 59: A Fundação
 
-## Avaliação Técnica
-- **Ritmo:** 8/10. O capítulo foca em uma descoberta investigativa que rapidamente escala para uma confrontação tática. A tensão é construída de maneira orgânica à medida que descem ao subsolo.
-- **Diálogos:** 8/10. Secos e práticos. As trocas entre Gabo e a projeção mental de Aria são o destaque, aprofundando o horror existencial do Consórcio Lázaro.
-- **Atmosfera:** 9/10. Um excelente horror corporativo distópico. O conceito de resfriamento de servidores usando a enchente que afoga a cidade baixa une elementos de noir com cyberpunk letal.
+Fonte: [capítulo 59](/capitulo-59.md).
 
-## Pontos Fortes e Pontos Fracos
-- **Pontos Fortes:** O "plot twist" sobre os servidores sendo resfriados pela água da enchente amarra as linhas narrativas prévias de maneira brilhante. A inserção da projeção mental de Aria dá peso à gravidade da situação.
-- **Pontos Fracos:** O ataque dos mercenários no final é um pouco abrupto, quase como uma interrupção forçada para criar um cliffhanger em vez de uma complicação contínua.
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-## Sanity Check (Coerência de Lore)
-- **Trauma/Fobia de Fumaça (Gabo):** Aprovado. O protagonista não demonstra nenhum desejo ou aversão falha; ele não está lidando com nada que engatilhe o trauma neste capítulo.
-- **Limitações Físicas (Gabo):** Aprovado. Foram adicionados descritores explicitando o peso, a dor fantasma das pernas mutiladas e o chiado das suas órteses mecânicas para ancorar seu limite físico à realidade.
-- **Valéria:** Ausente no capítulo (mas mantida coesa com sua linha temporal).
+## Passagens de entrada e saída
 
-## Avaliação Qualitativa
-A história se mantém excelente. O conceito central do capítulo (pessoas engolidas pela tecnologia virando hardware/servidores) é muito forte no gênero cyberpunk. Os personagens seguem coesos e lógicos com a narrativa já construída. Não há necessidade de novos personagens; a Aeterna e o Consórcio Lázaro preenchem bem o papel antagônico de força sistêmica sem rosto.
+> Subsolo do Distrito da Névoa.
+> A dica da Isadora tinha levado Gabo para baixo — não para o esgoto, que é raso e tem tampa a cada cinquenta metros, mas para as galerias de manutenção do metrô antigo, escavadas nos anos setenta e desativadas nos noventa, que não aparecem em mapa nenhum porque foram construídas por uma empreiteira que faliu antes de entregar o *as built*. No bolso tático do colete, conectado por cabo blindado ao seu comunicador e ao visor do capacete, o pendrive de titânio da Aria pulsava em azul baixo.
+
+### Saída
+
+> E abriu fogo dentro de um túnel de concreto fechado, o que é a pior ideia possível, e a única disponível.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

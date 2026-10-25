@@ -1,11 +1,10 @@
-## Metadados
-- **Título:** Matéria Prima
-- **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
-- **Localização:** Necrópole (O Ateliê do Taxidermista)
-- **Personagens Presentes:** Gabo, Valéria, Aria (Glitch/Bia), Rangel (Inconsciente)
-- **Foco:** O grupo avança para o coração da Necrópole, encontrando o verdadeiro laboratório do Taxidermista: uma linha de montagem grotesca onde corpos são preparados como "telas" para sua arte. A atmosfera saturada de metano torna cada respiração um risco. O pendrive da Aria sofre uma desestabilização crítica ao escanear um manequim anatômico de Bia Vargas.
-
-## Narrativa
+---
+title: "Capítulo 133: Matéria Prima"
+Data In-Game: "Pós-Colapso da Usina Prometeu (Noite Eterna)"
+Localização: "Necrópole (O Ateliê do Taxidermista)"
+Personagens Presentes: "Gabo, Valéria, Aria (Glitch/Bia), Rangel (Inconsciente)"
+description: "A réplica de Bia é uma construção do Taxidermista. Não é um corpo de Aria. Uma entrada hostil explora o controlador de saída danificado."
+---
 
 # Capítulo 133: Matéria Prima
 
@@ -19,7 +18,7 @@ Ela estava certa. As paredes de concreto bruto e vergalhões expostos haviam dad
 
 Era um matadouro.
 
-— *O Ateliê* — sussurrou Aria pelo fone auricular de Gabo. A voz dela tinha o timbre de Bia Vargas reconhecendo a cena de um crime antigo. — *Ele sempre quis um espaço maior. O sótão na Torre do Relógio era... apertado.*
+— *O Ateliê* — sussurrou Aria pelo fone auricular de Gabo. A voz adulta de Aria acompanhava as imagens que a câmera conseguia transmitir. — *Ele sempre quis um espaço maior. O sótão na Torre do Relógio era... apertado.*
 
 Gabo parou, ofegante. O suor frio escorria por suas costas, misturando-se à sujeira do esgoto. Ele largou a correia da maca e pressionou a testa contra o azulejo frio da parede. O cheiro químico de formol misturado à podridão bateu como um soco no estômago, trazendo uma onda de vertigem e asfixia traumática que fez seus joelhos tremerem.
 
@@ -27,7 +26,7 @@ Ele levou a mão ao peito, apertando o *Colar de Sol* através da camisa suja. O
 
 — Não — ele rosnou para o vazio. — Não hoje.
 
-— *Gabo?* — A voz de Aria mudou de tom no comunicador. Ficou mais grave, mais tática, o glitch recuando por um segundo enquanto o pendrive processava o sensor térmico do deck de Valéria. — *Assinaturas térmicas múltiplas à frente. Estáticas. Temperatura ambiente. Não estão vivos.*
+— *Gabo?* — A voz de Aria mudou de tom no comunicador. Ficou mais grave, mais tática, o glitch recuando por um segundo enquanto o pendrive processava o sensor térmico do deck de Valéria. — *Assinaturas térmicas múltiplas à frente. Estáticas. Temperatura ambiente. Não detecto movimento. Isso não basta para confirmar morte.*
 
 — Mais esculturas? — Valéria perguntou, sacando uma chave inglesa pesada do cinto de ferramentas.
 
@@ -77,7 +76,7 @@ A Bia que morreu nos braços de Gabo. Perfeita. Intacta. Até a cicatriz no ombr
 
 No comunicador de Gabo e no deck de Valéria, o pendrive da Aria emitiu um guincho agudo de estática e dor digital ao escanear a vitrine. O LED do drive começou a piscar freneticamente entre o azul e o âmbar, superaquecendo na porta de conexão.
 
-— *Não...* — a voz de Aria falhou nos alto-falantes. — *Sou eu. Aquela sou eu. Por que meu corpo está lá dentro?*
+— *Não...* — a voz de Aria falhou nos alto-falantes. — *A imagem corresponde aos arquivos de Beatriz. Estou recebendo... — o áudio repetiu o começo da frase e cortou. — A entrada contém dados além da imagem. Val, isole o receptor.*
 
 — *Você é o software preso num pedaço de titânio, minha querida* — a voz do Taxidermista ronronou pelas cornetas. — *Aquilo é o receptáculo que moldei para homenagear a dor de Gabriel. Sem silício. Apenas tecido sintético e cera preservados na eternidade do momento final. Uma gaiola anatômica esperando por uma alma.*
 
@@ -85,9 +84,9 @@ Gabo sentiu o mundo girar. A imagem de Bia na vitrine queimava em sua retina. Er
 
 — É uma boneca de cera e polímero! — Valéria gritou, segurando o braço de Gabo enquanto tentava conter o pico de tensão no pendrive da Aria pelo teclado do deck. — Gabo, olhe para os olhos da estátua! Não tem vida. É uma armadilha lógica para travar o processamento da Aria!
 
-Mas a partição de Bia dentro do pendrive havia entrado em loop, ignorando os comandos de Valéria.
+O transponder da vitrine repetia pacotes de identificação no barramento óptico do deck. Val tentava cortar a entrada; o driver danificado voltava a abri-la.
 
-— *Eu posso... eu posso sair desse drive?* — a voz de Bia sussurrou trêmula nos fones de ouvido, inundando o visor de Valéria com janelas de erro. — *Gabo, eu não quero ficar trancada no escuro desse pendrive... eu quero ser real de novo!*
+— *Canal de reprodução sem origem confirmada:* — a voz de Bia sussurrou trêmula nos fones de ouvido, inundando o visor de Valéria com janelas de erro. — *Gabo, eu... — A gravação repetiu o nome. Aria tentou sobrepor um aviso e perdeu a saída de áudio.*
 
 — Aria, corta a leitura óptica! É um manequim! — Gabo gritou para o comunicador, mas o sistema tático estava completamente travado pelo choque emocional do substrato neural.
 

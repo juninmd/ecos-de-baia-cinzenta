@@ -13,7 +13,7 @@ O Hub Principal do Setor Seis não se parecia com nenhuma das ruínas que havía
 
 Não havia a carne botânica do Jardim rastejando pelas paredes. Não havia a poeira alaranjada da Praga de Ferro devorando as juntas mecânicas. Havia uma esterilidade cirúrgica, quase assustadora.
 
-Gabinetes de servidores antigos, alinhados em fileiras regulares como monólitos monolíticos em uma catedral de silício esquecida, banhavam o saguão com um brilho esmeralda suave emanado dos racks em repouso. O piso era composto por grades metálicas imaculadas, sem um grão de fuligem.
+Gabinetes de servidores antigos, alinhados em fileiras regulares como monólitos em uma catedral de silício esquecida, banhavam o saguão com um brilho esmeralda suave emanado dos racks em repouso. O piso era composto por grades metálicas imaculadas, sem um grão de fuligem.
 
 E o ar... o ar era aquecido e filtrado.
 
@@ -25,7 +25,7 @@ Elias deu três passos hesitantes pelo piso polido, piscando os olhos sob a luz 
 
 — A gente... a gente tá seguro aqui dentro? — sussurrou o rapaz, passando as mãos no rosto para conferir se o calor era real. — Isso aqui parece intocado, Moretti. Parece que ninguém pisa nesse chão faz cinquenta anos.
 
-— Ninguém pisa faz cinquenta anos, — confirmei, limpando a fuligem da testa com as costas da luva.
+— Ou alguém continua limpando, — respondi. — Piso sem poeira não tem calendário.
 
 — Então por que o aquecimento ainda tá ligado?
 
@@ -45,7 +45,7 @@ Valéria soltou um assobio baixo, entrecortado por um riso seco e incrédulo.
 
 — Quanto mais antigo?
 
-— O log do sistema de controle ambiental foi iniciado em mil novecentos e vinte e dois. Quase trinta anos antes de erguerem os primeiros alicerces da Torre Aeterna no centro da cidade.
+— A primeira entrada é a digitalização de um livro de manutenção de mil novecentos e vinte e dois. É a data das obras hidráulicas. Este console foi instalado depois; não havia computador registrando isso naquele ano.
 
 Elias aproximou-se, debruçando-se sobre o ombro dela para enxergar o monitor fosforescente.
 
@@ -59,9 +59,9 @@ Elias aproximou-se, debruçando-se sobre o ombro dela para enxergar o monitor fo
 
 — O que você quer dizer com "vazia"?
 
-— Os servidores estão ligados, alimentados por baterias geotérmicas profundas, operando com noventa e nove por cento de capacidade ociosa. Não tem dados corporativos aqui, Moretti. Não tem listas de acionistas, plantas de armamentos ou registros contábeis. Este lugar não é um arquivo. É um **ninho**. Foi mantido aquecido, limpo e isolado por décadas, esperando receber uma consciência que nunca chegou a ser carregada.
+— Os servidores estão ligados, alimentados por uma usina geotérmica com alimentação de serviço independente das linhas cortadas, operando com noventa e nove por cento de capacidade ociosa. Não tem dados corporativos aqui, Moretti. Não tem listas de acionistas, plantas de armamentos ou registros contábeis. A configuração prevê alojamento de padrões cognitivos. Pode ter sido um **ninho**, ou uma reserva nunca utilizada. Capacidade ociosa não diz quem esperava ocupá-la; vou copiar os arquivos de configuração antes de tentar qualquer comando.
 
-O peso daquelas palavras reverberou no silêncio do salão. Lembrei do sacrifício de Aria, do código que fragmentamos para abrir caminho até os arquivos executivos, e da obsessão de Dante Moretti por uma imortalidade de silício. Alguém, muito antes do meu pai, já sonhava com deuses digitais nas entranhas desta terra alagada.
+O peso daquelas palavras reverberou no silêncio do salão. Lembrei do sacrifício de Aria, do histórico que ela escolheu arriscar para abrir caminho até os arquivos executivos, e da obsessão de Dante Moretti por uma imortalidade de silício. Alguém, muito antes do meu pai, já sonhava com deuses digitais nas entranhas desta terra alagada.
 
 — E as rotas de saída? — indaguei, apontando com o queixo para o painel esquemático. — O mapa mostra pra onde esse complexo leva?
 

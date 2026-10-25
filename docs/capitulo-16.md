@@ -1,102 +1,142 @@
 ---
 image: /capitulo_16.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, O Gamemaster
-Localização: "Túneis de manutenção do metrô antigo → Cemitério dos Esquecidos, Setor 7 → Bunker da família Moretti"
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria (módulo no deck), Gamemaster (canal de transmissão)
+Localização: "Túneis do metrô antigo → Cemitério dos Esquecidos, Setor 7 → abrigo da família Moretti"
 ---
 # Capítulo 16: Zona Morta
 
-A escuridão em Baía Cinzenta tinha peso físico. Sem a poluição luminosa dos neons, dos hologramas publicitários e dos drones de vigilância da Aeterna, a cidade parecia um animal morto, frio e rígido. Era um cadáver de concreto que começava a esfriar sob a chuva constante.
+A bateria dos óculos de reserva acabou antes da segunda bifurcação. Valéria os tirou; pela visão básica dos implantes, o túnel voltava a ter apenas as partes alcançadas pela lanterna de Gabo. Não havia ampliação, mapa nem marcação de movimento.
 
-Gabriel e Valéria se moviam pelos túneis de manutenção do metrô antigo, dois fantasmas deslizando pela artéria entupida da cidade. Valéria usava um óculos de visão noturna tática, cuja bateria de reserva piscava em vermelho no canto da lente.
+Atrás deles, a quadra da loja permanecia escura. Pela abertura de um poço de ventilação, viram luz no topo de um edifício. O corte não tinha tomado tudo. Gabo não sabia se isso significava que havia menos gente em perigo ou apenas que o perigo tinha endereço.
 
-— Para onde estamos indo? — perguntou ela, a voz ecoando baixo no túnel.
+Valéria andava com o apoio dele. Uma hora para um trecho que, antes do elevador da Solaris, ela teria feito em dez minutos. Pararam junto a uma coluna seca; o concreto guardava cheiro de óleo, e a água pingava num trilho com a insistência de um relógio ruim.
 
-— Para o único lugar onde o Gamemaster não pode nos ver — disse Gabriel, mancando levemente, mas avançando com determinação. — O Cemitério dos Esquecidos. Setor 7.
+— Setor 7 — disse Gabo. — Tem um abrigo no mausoléu da minha família.
 
-— Um cemitério? Por que lá?
+— Você sabia de um abrigo e escolheu um furgão?
 
-— Porque os mortos não usam wi-fi. — Gabo parou para verificar uma bifurcação. — Meu pai construiu um bunker lá embaixo. Um "espaço seguro" analógico. Sem rede, sem energia externa, blindado com chumbo e concreto.
+Ele demorou a responder.
 
-Eles caminharam por horas. Acima deles, a superfície estava em guerra civil silenciosa. Gangues saqueavam lojas escuras, cidadãos se armavam com o que tinham. O "Jogo" havia quebrado o fino verniz de civilidade que restava. O medo era a nova moeda corrente.
+— Não entro lá desde antes de meu pai desaparecer.
 
-Quando chegaram ao Setor 7, a chuva havia voltado com força total, lavando a fuligem de seus rostos e encharcando suas roupas. O cemitério era uma favela vertical bizarra, construída sobre túmulos empilhados, onde os vivos moravam em cima dos mortos por falta de espaço. Mas estava quieto. Os moradores do Setor 7 sabiam como se esconder quando a tempestade vinha.
+Valéria olhou para a marca do curativo sob a camisa dele.
 
-Gabriel encontrou a entrada do mausoléu da família Moretti, uma estrutura modesta de pedra cinza, coberta de musgo ácido. Ele empurrou a laje de pedra lateral. Ela rangeu, revelando uma escada em espiral que descia para a escuridão absoluta.
+— E hoje ficou menos difícil?
 
-Lá embaixo, o ar era seco e cheirava a papel velho e óleo. Gabriel riscou um fósforo e acendeu uma lanterna a óleo pendurada na parede. A chama amarela vacilou, depois cresceu, projetando sombras longas nas paredes de tijolo aparente.
+— Ficou mais necessário.
 
-O bunker era pequeno, espartano. Uma mesa de metal, um catre militar, um rádio de ondas curtas soviético e uma parede inteira coberta de mapas de papel, fotos reveladas em quarto escuro e notas manuscritas.
+No Cemitério dos Esquecidos, os vivos tinham erguido cômodos sobre as gavetas dos mortos. Sob um telhado de chapa, alguém recolheu uma panela do fogo quando os viu chegar. Gabo deixou a lanterna apontada para o chão. Não queria dar ao morador um motivo para gritar.
 
-— Isso é... — Valéria passou a mão pelos papéis, maravilhada. — O Dossiê Lázaro original.
+A laje lateral do mausoléu emperrou. Ele tentou empurrá-la com o ombro direito e sentiu a palma rasgar contra a quina. Valéria segurou a lanterna enquanto ele usava a barra de uma grade caída como alavanca.
 
-— Meu pai sabia que a tecnologia ia nos trair eventualmente — disse Gabriel, trancando a porta atrás deles. — Ele deixou isso para o dia em que o sistema caísse.
+Desceram de lado, um degrau por vez.
 
-Gabriel foi até um armário de metal enferrujado e tirou uma caixa de primeiros socorros de metal branco, amassada, com uma cruz vermelha pintada à mão. Dentro, havia munição, rações de emergência e um kit cirúrgico de campo.
+O abrigo cheirava a papel seco e óleo antigo. Gabo reconheceu o catre, a mesa e o gancho onde Dante pendurava o casaco. Não reconheceu o armário junto ao rádio.
 
-— Val, senta aqui. — Ele apontou para a cadeira de metal sob a luz da lanterna.
+A porta estava lacrada com uma fita ressecada. O lacre se partiu quando Valéria tocou a borda.
 
-Ela obedeceu, o maxilar travado. A confiança que ela depositava nele era um peso, uma honra aterrorizante. Ele pegou um bisturi esterilizado do kit, a lâmina brilhando sinistramente à luz do fogo.
+Dentro havia pastas, mapas e envelopes, alguns presos uns aos outros pela umidade que vencera a vedação. Na primeira capa, Gabo leu **LÁZARO — VIAS DE IMPLANTAÇÃO**. A rubrica no canto parecia a mesma da autorização conservada por Nise.
 
-— Você disse que precisava de cirurgia para tirar o rastreador. — A voz de Gabo era calma, mas suas mãos estavam frias.
+— É o original? — perguntou.
 
-Valéria engoliu em seco. O medo era visível em seus olhos prateados, mas ela não recuou.
+Valéria manteve as mãos longe do papel.
 
-— Você vai fazer isso? Aqui? Com uma lanterna a óleo e vodca barata?
+— É outra via. Primeiro a gente vê as datas e o que tem dentro.
 
-— É o que temos. — Gabriel segurou o bisturi. A lâmina tremeu por um milissegundo, depois estabilizou. — Preciso que você confie em mim, Val. Mais do que já confiou em qualquer código ou firewall.
+Gabo puxou uma cadeira em vez de abrir tudo. Precisava que o pai tivesse deixado uma saída para eles. O armário podia conter outra entrada para a mesma jaula.
 
-Valéria olhou nos olhos dele. Viu o medo que ele tentava esconder, mas também viu a determinação de ferro. Ela assentiu, puxando o colarinho da jaqueta para baixo e prendendo o cabelo, expondo a nuca pálida, marcada pelas portas de conexão cromadas.
+No material de emergência, encontraram rações com o invólucro inchado, pilhas vazadas e gaze que se desfazia nas bordas. Separaram o que ainda podiam examinar do que só parecia útil. Gabo abriu uma caixa metálica de munição e conferiu os cartuchos à luz: oito de nove milímetros não mostravam oxidação visível. Colocou-os no carregador. Isso não garantia o funcionamento.
 
-— Tira essa merda de mim, Gabo. Me deixa muda para eles.
+Valéria recuperou uma lanterna a óleo; o pavio precisou de duas tentativas para pegar. A caixa de instrumentos tinha pinças, uma chave curta e um bisturi em embalagem vencida.
 
-A operação foi brutal em sua simplicidade. Não havia anestesia, apenas um pedaço de couro enrolado para ela morder e uma garrafa de uísque barato para desinfetar e entorpecer (pouco). Gabriel cortou a pele com precisão cirúrgica, o sangue quente cobrindo seus dedos, escorregadio e metálico.
+Ela afastou a lâmina.
 
-Valéria gritou abafado contra o couro, seu corpo convulsionando com a dor dos nervos sendo tocados. Gabo teve que segurá-la firmemente com uma mão enquanto escavava com a outra, raspando perto do osso cervical até encontrar o objeto estranho.
+— O transmissor fica no módulo de manutenção. Preso à base do conector, por fora. A interface profunda continua em mim.
 
-— Estou quase lá... segura... — sussurrou ele, suando frio.
+Baixou a gola da jaqueta. Gabo viu uma tampa pequena entre os conectores cromados, com o selo do fabricante rompido de um lado.
 
-Com um puxão seco, ele extraiu o chip — um pequeno besouro preto de silício e carne sintética. Valéria desmaiou por uns segundos, a cabeça pendendo para a frente.
+— Você conhece essa peça?
 
-Gabriel jogou a coisa no chão de concreto e a esmagou com o salto da bota, reduzindo a tecnologia de ponta a pó e lixo.
+— Montei a adaptação quando troquei de deck. Não conheço o que mandaram para ela hoje.
 
-Ele fez um curativo compressivo rápido, limpando o sangue com gaze estéril. Suas mãos tremiam incontrolavelmente agora que a adrenalina baixava.
+Valéria abriu o desenho de manutenção salvo na memória local. Indicou o módulo removível e a linha que continuava para dentro do corpo.
 
-— Acabou — sussurrou ele, limpando o suor do rosto dela com um pano úmido. — Você é só você agora. Sem GPS. Sem feed. Apenas Valéria.
+— A base fica. Se precisar cortar pele, acabou. Se eu mandar parar, você para.
 
-Valéria abriu os olhos. Eles estavam vidrados de dor, mas límpidos.
+Gabo assentiu. Tinha segurado interrogados por aquela nuca. Nunca lhe parecera tão pouco espaço para uma mão.
 
-— O silêncio... — ela respirou, tocando a mão dele com dedos trêmulos. — É a coisa mais linda que eu já ouvi. Não tem vozes. Não tem dados. Gabriel, obrigada.
+Aria acompanhava pelo pequeno sensor do deck, ligado por cabo.
 
-Gabo sentou-se no chão na frente dela, exausto.
+— *Não consigo confirmar a versão pela imagem* — disse. — *O número de série está sob a tampa.*
 
-— Precisamos de um plano. O Gamemaster desligou a cidade para criar o caos, para limpar o tabuleiro. Mas ele é um showman. Ele precisa transmitir o final.
+— Então não me oferece um diagnóstico — respondeu Valéria.
 
-— A Torre de Transmissão de Emergência — disse Valéria, a voz fraca. — Fica no ponto mais alto do Distrito de Prata. É a única coisa que funciona com geradores nucleares independentes. Se ele quiser transmitir a "Season Finale", vai ser de lá.
+— *Estou oferecendo esse limite.*
 
-— Então é para lá que vamos.
+A chave escorregou na primeira tentativa. Gabo apertava o cabo com a parte menos ferida dos dedos. Quando Valéria enrijeceu o corpo, ele tirou a mão e esperou que ela lhe dissesse para continuar.
 
-— Gabo... é uma fortaleza. Drones, torretas, guardas de elite.
+O fecho danificado tornou a prender. O metal esquentava entre os dedos de Gabo; Valéria o fez descansar a ferramenta na mesa antes de tentar de novo. A chama da lanterna estalou junto ao vidro.
 
-Gabriel olhou para o mural de seu pai na parede. Para a foto dele criança, sorrindo sem saber o futuro que o aguardava.
+Valéria guiou a retirada segurando a base com os próprios dedos. O encaixe soltou de repente. Uma dor percorreu o pescoço dela; o retorno de áudio chiou e ficou mudo.
 
-— Não vamos invadir — disse Gabriel, levantando-se. — Vamos ser convidados.
+Gabo pousou a peça sobre a mesa.
 
-— Como?
+— Consegue me ouvir?
 
-— O Gamemaster quer um show? Ele quer o Herói Caído e a Traidora? Nós vamos dar a ele. Vamos nos entregar.
+— Pela orelha. Fala de novo.
 
-— Você ficou maluco? — Valéria tentou se levantar mas tonto.
+Ele disse o nome dela. Valéria acompanhou o movimento de sua mão e leu a marca do fabricante na caixa de instrumentos, primeiro de perto, depois mais longe. A visão básica continuava. O enlace de suporte não.
 
-— É um Cavalo de Troia, Val. Você sem o rastreador é invisível para os sensores biométricos dele. Eu me entrego, atraio toda a atenção, todos os olhos, todas as câmeras. E você entra pelos fundos, invisível, e derruba o servidor.
+O rádio sem fio e as funções que dependiam daquele módulo tinham desaparecido. A licença recuperada permanecia em cache; não sabiam como o sistema reagiria à próxima validação. Tirar uma peça não os tornara donos de todo o resto.
 
-Valéria olhou para ele. Era suicídio. Mas era a única chance.
+Valéria envolveu o transmissor num material isolante e o fechou numa lata metálica. Gabo escreveu o horário e a origem na tampa. Não o esmagou. Talvez ainda pudessem mostrar o que tinham enviado para dentro dela.
 
-— Ok — disse ela, um sorriso fraco aparecendo. — Vamos terminar esse jogo.
+Ela encostou a testa no braço que não o feria.
 
-Gabriel foi até o rádio de ondas curtas e o ligou. O chiado da estática encheu o bunker. Ele ajustou a frequência para o canal de emergência aberto da Aeterna.
+— Não está entrando nada.
 
-— Atenção, Gamemaster — disse Gabriel para o microfone, sua voz calma ecoando na escuridão subterrânea. — Aqui é Gabriel Moretti. Pare de quebrar minha cidade. Eu estou indo.
+Gabo ficou imóvel até perceber que ela não pedira ajuda para se afastar.
 
-Ele soltou o botão.
+Descansaram no catre em turnos. Valéria usou as faixas limpas que tinham trazido no kit, não as do armário antigo, e refez o apoio do tornozelo. Gabo deixou que cuidasse da queimadura até onde conseguia alcançar. O abrigo deu três horas de pausa. Não deu corpos novos.
 
-— Prepare-se, Val. A Zona Morta acabou. Vamos voltar para a luz e quebrar tudo.
+Entre as pausas, ela examinou o medidor de pulso retirado do furgão. O modo de teste podia interromper um controlador industrial por contato, se encontrassem uma porta compatível. Levava quatro segundos para carregar; não atravessava blindagem nem alcançava uma rede inteira. Valéria prendeu a ponta de prova ao cabo curto e guardou o conjunto.
+
+Quando abriram as pastas, encontraram requisições de obras, plantas de instalações e anotações ao lado de assinaturas de Dante. Algumas páginas tinham sido arrancadas. Não havia ali uma frase que absolvesse o dono do armário.
+
+Valéria reconheceu a planta da Torre de Transmissão de Emergência. A via antiga indicava alimentação independente; nas imagens da caçada, a torre continuava iluminada depois dos cortes.
+
+— É de lá que ele está oferecendo o final — disse, comparando o indicativo do canal com a planta. — Ou está usando a torre para retransmitir. Não sabemos onde fica o núcleo.
+
+Gabo olhou o acesso de serviço.
+
+— Eu entro pela frente.
+
+Ela o encarou.
+
+— E eu, por onde a planta velha disser?
+
+— Você confirma antes. Se estiver fechado, não entra.
+
+— Você vai estar lá dentro.
+
+Gabo não respondeu. Valéria esperou.
+
+— Eu sei — disse ele, por fim.
+
+A retirada do transmissor tirava uma fonte de localização. Câmeras, pessoas e sensores continuavam existindo. Precisavam fazer o Gamemaster olhar para um lugar enquanto Valéria examinava outro; não tinham uma mulher invisível.
+
+Dois rádios de serviço cabiam na caixa junto ao transmissor de ondas curtas. Um aceitou a bateria externa do deck; Valéria adaptou o outro ao acumulador do comunicador de Gabo. Testaram a voz nos dois sentidos e separaram fones com fio para a aproximação.
+
+O cabo da antena do rádio maior terminava do lado de fora do mausoléu. Gabo precisou subir para conferir a conexão corroída antes do teste. Quando ouviu a identificação da torre no receptor, voltou ao abrigo.
+
+— Se responder, ele pode procurar essa antena — disse Valéria.
+
+Gabo olhou a porta atrás deles. Até aquele momento ainda tinham um lugar para onde voltar.
+
+Apertou o transmissor.
+
+— Gamemaster. Aqui é Gabriel Moretti. Eu me entrego na torre. Desliga a caçada.
+
+O rádio devolveu estática.
+
+Depois, três notas de um programa de auditório.

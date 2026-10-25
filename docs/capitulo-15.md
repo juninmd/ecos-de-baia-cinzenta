@@ -1,174 +1,141 @@
 ---
 image: /capitulo_15.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, O Gamemaster
-Localização: "Ruas do Distrito 4 → Loja de departamentos em ruínas"
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria (módulo no deck), Executor, Gamemaster (transmissão), participantes da caçada
+Localização: "Acesso ao Distrito 4 → loja de departamentos abandonada → saída de carga"
 ---
 # Capítulo 15: Protocolo de Extermínio
 
-O ar no Distrito 4 tinha gosto de metal enferrujado e chuva velha. Eles corriam pelo labirinto de fábricas mortas, o som de seus passos ecoando no concreto úmido como batidas de um coração arrítmico.
+Valéria conseguiu correr até a segunda esquina. Na terceira, o tornozelo deixou de responder. Gabo a puxou para baixo de uma marquise, mantendo o ombro queimado longe da parede.
 
-Gabriel sentia cada fôlego queimar. Seus pulmões, castigados por anos de fumaça de segunda mão e ar poluído, protestavam. Mas ele não podia parar.
+O cheiro de combustível do furgão continuava no sobretudo. A cada inspiração vinha também a fumaça dos pneus, áspera, grudando no fundo da língua.
 
-— O mapa! — Valéria tropeçou, segurando o lado do corpo. Seu rosto estava pálido sob a luz dos postes piscantes. — O mapa do jogo atualiza nossa posição a cada 30 segundos! Eles têm acesso aos meus implantes!
+— Atualizou — disse Valéria.
 
-— Desliga eles! — gritou Gabriel, puxando-a para a sombra de uma marquise gotejante. Ele olhou para trás. Nada além de escuridão e chuva, mas ele podia sentir os olhos da cidade sobre eles.
+No mapa do jogo, o ponto vermelho saltara do cruzamento para a marquise.
 
-— Se eu desligar, eu morro! — Ela engasgou, limpando o suor frio da testa. — Eles controlam meu sistema nervoso autônomo! Minha respiração, meu batimento... é tudo *driver* proprietário agora.
+Gabo tirou o próprio comunicador desligado do bolso. Ela abriu o diagnóstico da interface ótica. Um envio de suporte acabara de receber confirmação; os horários coincidiam. Não era prova de que todas as posições vinham dali. Era suficiente para testar aquela.
 
-Gabriel parou, segurando-a pelos ombros. Ela tremia violentamente, não de frio, mas de choque sistêmico.
+— A renovação reativou o canal de assistência — disse. Tocou o módulo preso à base dos conectores da nuca. — Eles podem estar usando isso.
 
-— Eles hackearam você?
+— Consegue cortar?
 
-— Eu sou o GPS, Gabo. Eu sou a isca. — Ela olhou para ele, e pela primeira vez, Gabriel viu medo real naqueles olhos cibernéticos azul-gelo. O medo de não ser mais dona da própria mente.
+— Posso desligar a interface inteira. Perco a visão no meio da rua. Se eu conseguir separar só o transmissor...
 
-Um estalo seco cortou o ar.
+O concreto ao lado da cabeça de Gabo se desfez. Ele ouviu o tiro e levou Valéria para dentro da loja por uma abertura da vitrine.
 
-Um pedaço de concreto da parede ao lado da cabeça de Gabriel explodiu, borrifando poeira em seu rosto. O som do tiro chegou um segundo depois, abafado pela distância e pela chuva.
+O piso estava estufado pela água. Entre dois balcões, uma parte cedera e deixava ver o porão inundado. Acima, um lustre pesado ainda se prendia à viga por uma argola coberta de ferrugem. Gabo passou longe do buraco.
 
-— Sniper! — Gabriel empurrou Valéria para dentro de uma loja de departamentos em ruínas.
+Perto da saída de carga havia um quadro de alimentação e telecomunicações. Valéria apoiou o deck numa prateleira baixa e conectou um cabo à porta de manutenção. Queria saber por onde o canal de assistência estava saindo.
 
-A porta de vidro estilhaçada cedeu, e eles caíram sobre um tapete de cacos e manequins quebrados. O lugar cheirava a mofo e sonhos de consumo abandonados. Manequins nus e sem rosto os observavam da penumbra, testemunhas silenciosas de sua caçada.
+— Aria, analisa a resposta do painel. Não entra na minha interface.
 
-— Precisamos tirar isso de você — sussurrou Gabriel, verificando a pistola. Três balas. Ótimo.
+— *Só o painel* — confirmou a IA.
 
-— Não dá! Precisa de cirurgia! — Valéria encostou-se em um balcão, deslizando até o chão. Ela fechou os olhos, concentrando-se. — O sinal... parou.
+Gabo conferiu a Glock atrás de um manequim sem cabeça. Os mesmos três cartuchos que tinham saído do bunker. Não tinha um carregador reserva.
 
-— O Gamemaster pausou?
+Uma luz azul correu pela nuca de Valéria. Ela fechou o envio de telemetria na própria interface. Na cópia do jogo, o ponto parou sob a marquise enquanto os dois já estavam mais para dentro.
 
-— Não, Gabo. Eu parei. — Ela abriu os olhos. O azul estava mais escuro, quase negro. — Eu forcei um *overflow* no buffer de transmissão. Estou inundando o canal com lixo. Mas não vai segurar por muito tempo.
+— Era um dos caminhos — disse. — Pelo menos esse.
 
-De repente, ela gritou. Um som agudo, de dor pura, levando as mãos à cabeça.
+O aviso de suporte se abriu sozinho. Um som agudo escapou pelo retorno dos implantes; Valéria bateu a palma na prateleira e soltou um grito. Quando ergueu a cabeça, uma linha de sangue vinha do nariz.
 
-— O que foi?!
+Gabo se aproximou.
 
-— Eles estão revidando! — Sangue começou a escorrer de seu nariz, uma linha vermelha escura contrastando com a pele pálida. — Estão tentando fritar meu córtex! O código... ele está em tudo. Nos semáforos, nas usinas, nos marcapassos.
+— Para.
 
-Ela olhou para a rua através das vitrines quebradas.
+— Eu parei. O comando reabriu.
 
-— Eu mandei tudo que tinha a minha assinatura desligar. E tudo nessa maldita cidade tem a minha assinatura.
+Ela arrancou o cabo que a ligava ao deck, mas o aviso permaneceu. Aria não tinha acesso a ele.
 
-Lá fora, a iluminação pública piscou. Uma vez. Duas vezes.
+— *Não posso desligar um receptor dentro do seu corpo a partir daqui.*
 
-E então, morreu.
+Valéria enxugou o nariz na manga. A raiva demorou a encontrar a voz.
 
-Todas as luzes do Distrito 4 se apagaram em uníssono. O zumbido elétrico constante da cidade, aquele ruído de fundo que ninguém notava até sumir, cessou. O silêncio que se seguiu foi pesado, físico.
+— Eu aceitei a licença. Não aceitei isso.
 
-O escuro não era apenas ausência de luz. Era uma entidade.
+Do lado de fora, motores de motocicleta chegaram pelas duas ruas. Faróis varreram as prateleiras. Um homem gritou o nome da gangue, Filhos da Ferrugem, e o valor da recompensa. Outra voz pediu que esperassem a câmera.
 
-— O que você fez? — perguntou Gabriel na escuridão.
+Valéria seguia o cabo do quadro pelo desenho colado na porta. Aquele ponto atendia o prédio e o repetidor da esquina. Podia cortar o enlace local; não podia desligar todas as rotas de rádio da cidade.
 
-— Eu puxei a tomada. — A voz de Valéria era fraca.
+— Preciso de tempo para isolar o circuito certo.
 
-No silêncio, o som de motores se aproximando ficou claro. Motocicletas. Muitas delas. Rugindo como bestas famintas na noite.
+— Quanto?
 
-— Eles cercaram o prédio — disse Gabriel, espiando pelas tábuas da janela. A única luz vinha dos faróis dos veículos da gangue "Filhos da Ferrugem". Eram silhuetas grotescas contra a chuva, brandindo correntes e canos. — Val, você consegue hackear o sinal do jogo?
+Ela não ofereceu um número.
 
-— Não com eles dentro da minha cabeça! O ruído é muito alto! É como tentar sussurrar no meio de um furacão!
+Gabo arrastou dois manequins e um expositor até a entrada, usando as pernas para empurrar o que o braço não segurava. Fez uma passagem lateral para Valéria. Atrás do balcão de utilidades, encontrou combustível de isqueiro numa lata fechada. Havia pouca coisa dentro.
 
-— Então vamos fazer barulho também.
+O calor cresceu do outro lado da vitrine. Uma língua de fogo pegou a cabeça do primeiro manequim.
 
-Gabriel começou a arrastar os manequins para a entrada. Corpos de plástico oco raspando no chão.
+O Executor apareceu entre as motocicletas, ainda com a armadura neon e a tela no peito. Não era uma criatura nova: era o mesmo homem que prometera quitar as dívidas queimando duas pessoas.
 
-— O que você vai fazer?
+— O público quer ver vocês!
 
-— Você disse que eles querem um show. Vamos dar um show. — O cinismo na voz de Gabriel era uma armadura tão eficaz quanto o kevlar.
+Gabo despejou o combustível na base dos expositores, sem alcançar a passagem lateral. Sabia o que o plástico faria quando pegasse. Não sabia quanto tempo conseguiria manter aquela passagem aberta.
 
-Ele pegou um galão de fluido de isqueiro de uma prateleira empoeirada. O cheiro químico cortou o ar viciado. Ele encharcou os manequins.
+Acendeu com o maçarico de bolso.
 
-— Saiam, ratos! — gritou o líder da gangue lá fora. — A gente quer a grana! A cabeça de vocês vale dez milhões de créditos!
+As peças ocas se deformaram no fogo. O cheiro atingiu sua garganta antes de a fumaça subir. Gabo descarregou o extintor da parede pela abertura, espalhando pó sobre o clarão. Os faróis viraram círculos brancos.
 
-Gabriel acendeu o maçarico de bolso. A chama dançou, iluminando seu rosto cansado, realçando as olheiras profundas e a barba por fazer.
+— Pelos fundos! — gritou para Valéria.
 
-— Val, quando eu disser, você corre para os fundos. Existe uma saída de carga.
+Ela recolheu o deck, com Aria ainda conectada, e foi apoiada nos balcões. Gabo ficou junto à coluna de concreto, vendo o limite do fogo crescer além do combustível que derramara.
 
-— E você?
+O Executor atravessou a divisória lateral com o peso da armadura. O lança-chamas bateu num expositor e precisou de um segundo para voltar à posição.
 
-— Eu vou cancelar a transmissão.
+Gabo olhou a argola acima dele.
 
-Gabriel jogou o maçarico.
+O primeiro tiro levantou ferrugem e reboco. O homem virou a arma. Gabo se abaixou atrás da coluna; o jato passou onde seu rosto estivera.
 
-*WHOOSH.*
+O calor abriu a pele queimada do ombro sob o curativo. Ele tentou mudar a pistola de mão e não conseguiu.
 
-A barricada de manequins explodiu em chamas. O fogo consumiu o plástico rapidamente, criando uma fumaça negra e tóxica. As silhuetas humanas queimando na entrada pareciam almas condenadas dançando.
+O segundo disparo atingiu a borda da argola. O lustre inclinou. Um pedaço da fixação caiu no piso e quicou até o buraco.
 
-Ao mesmo tempo, Gabriel atirou nos extintores de incêndio presos no teto. A espuma química explodiu, misturando-se à fumaça, criando uma névoa branca e densa, impenetrável.
+O Executor olhou para a câmera do peito.
 
-— AGORA!
+— Viram? Ele não acerta nem parado!
 
-Valéria correu. Gabriel ficou para trás, disparando através da fumaça e do fogo. Ele não mirava em nada específico, apenas criava caos.
+Deu mais um passo para procurar Gabo. A viga gemeu. Os cristais começaram a bater uns nos outros.
 
-Mas então, ele sentiu. Um zumbido grave. Não no ouvido, mas nos dentes.
+Gabo esperou o braço direito parar de tremer o suficiente para alinhar a mira. Apertou o gatilho pela terceira vez.
 
-A parede lateral da loja explodiu para dentro. Tijolos voaram como estilhaços de granada.
+A argola abriu.
 
-O "Executor" entrou.
+O lustre caiu sobre a arma e a parte superior da armadura, puxando o homem para a faixa de piso comprometida. Madeira, metal e revestimento cederam juntos. Gabo viu a água do porão se levantar, depois ouviu o impacto de alguma coisa nas fundações.
 
-Ele era imenso. Uma montanha de músculos sintéticos e placas de cerâmica balística. Sua armadura tinha tubos de neon verde que brilhavam através da fumaça como veias radioativas. Ele segurava um lança-chamas industrial modificado.
+Não viu um corpo parar de se mover. Não desceu para conferir.
 
-— Truques baratos, Detetive! — O Executor riu, a voz amplificada por um modulador de graves. — O público exige sangue real!
+Guardou a pistola vazia e saiu pela passagem que já começava a desaparecer na fumaça.
 
-Ele apertou o gatilho. Um jato de fogo líquido cortou a loja, lambendo as botas de Gabriel. O calor foi insuportável, secando instantaneamente a chuva em suas roupas.
+Valéria estava junto ao quadro, na saída de carga. Um dos disjuntores tinha a alavanca quebrada; o cabo de telecomunicações pendia cortado. Ela respirava com a boca aberta.
 
-Gabriel rolou para trás de uma coluna de concreto. Ele estava encurralado. Sem munição no pente. Sem saída. Apenas fogo e um monstro.
+— O repetidor caiu. O canal parou de confirmar.
 
-Ele olhou para cima. O teto da loja, enfraquecido pela umidade e falta de manutenção, exibia um lustre de cristal maciço — uma relíquia absurda de uma era de ouro esquecida —, pendurado por um único cabo de aço enferrujado.
+Na rua, os postes da quadra apagaram. A iluminação da loja morreu também. Ao longe, uma fileira de fachadas continuou acesa por alguns segundos e depois se extinguiu.
 
-— O público adora uma reviravolta — murmurou Gabriel, erguendo a arma.
+O deck recebeu uma última transmissão em cache. A máscara-tela do Gamemaster ocupou o canto:
 
-Ele mirou não no Executor, mas no ponto de ancoragem do lustre.
+— *Pedirem silêncio foi uma excelente sugestão.*
 
-*Click.*
+ENCERRAMENTO DO SETOR.
+Uma sequência de cortes avançou além da quadra. Valéria tentou abrir a leitura da rede e encontrou o enlace que ela mesma interrompera.
 
-Vazia.
+— Eu desliguei essa linha — disse. — Não sei o que mais estava pendurado nela.
 
-Gabriel praguejou. O Executor avançava, preparando o golpe final.
+Gabo olhou as janelas escuras. Mais ao norte, a luz azul de uma ambulância ainda procurava passagem. Em outros prédios havia geradores arrancando, um de cada vez.
 
-Gabriel tateou o bolso, encontrou o último cartucho solto. Suas mãos tremiam. O Executor estava a cinco metros. Quatro.
+Não era a cidade inteira. Era gente suficiente.
 
-Ele inseriu a bala na câmara. O metal frio contra a pele quente.
+— Se tinha atendimento usando o repetidor... — Valéria começou.
 
-O Executor levantou o lança-chamas.
+Gabo sentou ao lado dela por um instante. Não disse que a cidade merecera nem que ela não tinha culpa.
 
-*BAM!*
+— Vamos ter que descobrir quem ficou sem ajuda.
 
-O tiro acertou o cabo. O fio de aço, tencionado por décadas, estourou com um som de chicote.
+Ela apertou o deck contra o peito.
 
-O lustre de duas toneladas despencou.
+Ele lhe ofereceu o braço direito. Valéria se levantou em dois movimentos, sem soltar o equipamento.
 
-O Executor olhou para cima. Por um segundo, a luz dos cristais refletiu em seu visor, uma beleza final antes do fim.
+Na esquina, a ambulância tornou a ligar a sirene.
 
-O impacto foi sísmico. O chão da loja, podre pela infiltração de água, cedeu sob o peso combinado do lustre e do ciborgue. Com um estrondo que sacudiu as fundações do prédio, ambos despencaram para o porão inundado abaixo.
-
-O silêncio voltou, quebrado apenas pelo som da água engolindo o metal.
-
-Gabriel correu para os fundos, tossindo fumaça acre. Seus olhos ardiam.
-
-Ele encontrou Valéria na saída de carga, caída na lama do beco. Ela estava em posição fetal, mãos agarradas à cabeça, sangue escorrendo dos ouvidos e nariz, misturando-se à chuva na poça onde estava deitada.
-
-— Val? — Gabriel se ajoelhou, virando-a. Ela estava gelada.
-
-— Eu... eu consegui — sussurrou ela, os lábios azuis. — Eu não aguentava mais. O sinal deles na minha cabeça... era como mil agulhas. Eu o reverti. Criei um feedback loop.
-
-Gabriel olhou para o céu, esperando o holograma do Gamemaster. Mas o céu estava vazio. Escuro. Sem anúncios. Sem drones.
-
-— Você parou o jogo?
-
-— Eu queimei a mesa de jogo. — Ela tentou sorrir, mas saiu como uma careta de dor. — A rede deles estava ligada à grade da cidade. Para controlar tudo. Ao fritar o servidor... eu causei uma cascata.
-
-O gemido da cidade morrendo começou.
-
-Primeiro, as luzes dos arranha-céus no centro piscaram e morreram. Depois, os hologramas de publicidade. Por fim, até as luzes de emergência.
-
-A escuridão se espalhou como uma mancha de óleo, engolindo quarteirão por quarteirão. Baía Cinzenta, a cidade que nunca dormia, acabara de entrar em coma.
-
-O som mudou. Sem o zumbido constante da eletricidade, outros sons emergiram: o vento uivando nos becos, vidros quebrando longe, gritos de pânico puro. O som da anarquia.
-
-— O Apagão Total — disse Gabriel, olhando para o horizonte negro. Pela primeira vez em anos, ele podia ver a silhueta real dos prédios, esqueletos de concreto contra um céu sem estrelas.
-
-— Eu fiz isso — chorou Valéria, agarrando a jaqueta dele. — Eu matei a cidade, Gabo. As pessoas nos hospitais... os sistemas de suporte...
-
-— Você nos salvou — disse Gabriel, a voz dura, mas segurando a mão dela com firmeza. A mão dela era pequena e frágil na dele. — A cidade já estava morta, Val. Você só desligou os aparelhos.
-
-Ele a levantou, apoiando o peso dela em seu ombro.
-
-— Agora, no escuro... somos todos monstros iguais. Vamos.
+A rua continuou fechada para ela.

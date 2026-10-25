@@ -1,15 +1,14 @@
 ---
 layout: doc
 title: "Capítulo 98: A Cidade Silenciosa"
-description: "Noventa dias de paz, um corpo que sorri e um cubo preto pulsando na mão do morto: o silêncio de Baía Cinzenta acabou."
+description: "Três semanas de paz terminam com um morto e um cubo. O sorriso do cadáver não permite a Nise determinar toda a causa da morte."
 image: /capitulo_98.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Dra. Nise, Inspetor Rangel, Capitão Jonas Vilar
 Localização: "Apartamento de Gabo → Delegacia da Biblioteca Municipal → Zona Morta (ruínas do Data Center 4)"
 ---
 # Capítulo 98: A Cidade Silenciosa
 
-**Três Meses Após o Grande Silêncio**
-
+Três Semanas Após o Grande Silêncio
 O despertador não era uma notificação neural suave projetada na retina. Era um relógio de corda, barulhento e irritante, martelando metal contra metal em cima da mesa de cabeceira.
 
 Gabo abriu os olhos e, por um segundo, esperou o HUD carregar. A temperatura, a umidade, as manchetes do dia, o nível de bateria do braço mecânico que ele nunca teve.
@@ -24,7 +23,7 @@ Baía Cinzenta tinha mudado. O céu, antes uma cúpula eterna de chuva ácida e 
 
 Gabo levantou-se, mancando até a cozinha. A cafeteira era elétrica, ligada a uma bateria de carro que ele recarregava no gerador comunitário do prédio. O café era ralo, sintético, trazido por caravanas de fora da Zona de Exclusão. Tinha gosto de terra queimada. Era delicioso.
 
-Ele vestiu o sobretudo. O couro estava gasto, mas limpo. O distintivo no cinto não brilhava mais com LEDs de autoridade. Era apenas um pedaço de metal fosco.
+Ele vestiu o sobretudo. O tecido bege estava gasto, mas limpo. O distintivo no cinto não brilhava mais com LEDs de autoridade. Era apenas um pedaço de metal fosco.
 
 Ao sair para a rua, o som o atingiu. Não o zumbido constante dos servidores ou o tráfego aéreo de drones. Mas o som de marretas. Serras. Vozes gritando ordens. O som de reconstrução.
 
@@ -33,6 +32,10 @@ Ao sair para a rua, o som o atingiu. Não o zumbido constante dos servidores ou 
 — Bom dia, Sofia. — Gabo sorriu. — O cheiro está bom.
 
 — Pão fresco. Trigo de verdade, conseguimos com um contrabandista de Nova Esperança.
+
+— Você conseguiu? — perguntou ele.
+
+— Eu fechei a troca. Consertei o forno em duas noites e não aceitei que chamassem isso de doação. A farinha é da pizzaria; a conta também.
 
 Gabo continuou andando. O Departamento de Polícia operava agora no antigo prédio da Biblioteca Municipal, já que a delegacia original tinha sido engolida por uma cratera durante a Queda da Torre.
 
@@ -84,7 +87,7 @@ Dra. Nise estava ajoelhada ao lado dele, usando luvas de borracha grossas e uma 
 
 — O trânsito está ótimo sem os carros voadores caindo do céu. O que temos, Nise?
 
-— Causa da morte indeterminada. Sem marcas de violência externa. Sem veneno detectável nos testes preliminares. O coração simplesmente... parou.
+— Causa da morte indeterminada. Sem marcas de violência externa. Sem veneno detectável nos testes preliminares. Não temos causa definida. Os testes de campo são limitados; preciso da autópsia e do histórico.
 
 Vilar não se aproximou do corpo. Ficou na boca da rua, o .38 pendurado na mão, de costas para eles, vigiando um quarteirão que não tinha mais ninguém para vigiar.
 
@@ -112,14 +115,13 @@ Ele se abaixou, olhando de perto. Havia uma linha fina de luz azul pulsando frac
 
 — Achei que toda a tecnologia Aeterna tinha fritado no pulso eletromagnético da Aria — disse Nise.
 
-— E fritou — respondeu Gabo. — Isso não é Aeterna.
+— O pulso atingiu o que estava conectado à Raiz — respondeu Gabo. — Não prova o fabricante disso. Podia estar isolado.
 
 De repente, o rádio de ondas curtas no cinto de Rangel chiou. Mas não era estática.
 
 Era uma voz. Baixa, distorcida, mas audível.
 
-*"...protocolo... reiniciado... busca... sinal..."*
-
+"...protocolo... reiniciado... busca... sinal..."
 Todos congelaram. O rádio silenciou.
 
 — Rangel — disse Gabo, levantando-se devagar. — De onde veio isso?
@@ -132,4 +134,4 @@ Gabo olhou para o cubo na mão do morto. A luz azul pulsou um pouco mais forte.
 
 E nas sombras das ruínas do Data Center, algo se moveu. Algo que fez o som metálico de engrenagens, não de passos humanos.
 
-A paz de Baía Cinzenta tinha durado exatos noventa dias. E agora, estava morta.
+A paz de Baía Cinzenta tinha durado três semanas. E agora, estava morta.

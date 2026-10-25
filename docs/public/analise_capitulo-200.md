@@ -1,20 +1,17 @@
-# Análise do Capítulo 200: O Poço do Abismo
+# Revisão de Capítulo 200: O Poço do Abismo
 
-## Avaliação Técnica
-- **Ritmo (Pacing):** 9/10 - Uma pequena pausa para avaliação do desastre se torna rapidamente uma rampa ascendente de terror quando o ambiente se manifesta como o próximo inimigo.
-- **Diálogos:** 9/10 - Destaque para a troca bruta entre Gabo e Elias, e as respostas diretas e lógicas de Valéria perante a desvantagem numérica e física.
-- **Atmosfera:** 10/10 - A opressão brutalista do túmulo vertical corrompido pela biomassa do Jardim carrega o ar de fatalidade típica do Noir fundido ao Sci-Fi Horror.
+Fonte: [capítulo 200](/capitulo-200.md).
 
-## Pontos Fortes / Pontos Fracos
-- **Pontos Fortes:** O *cliffhanger* é construído naturalmente. A transição da ameaça do elevador ausente para as abominações do Jardim descendo pelas paredes força o grupo esgotado a se superar organicamente em direção ao desastre.
-- **Pontos Fracos:** O fechamento soa breve pela promessa de escalada absurda, mas sendo um fim de capítulo/início de arco novo, serve o seu propósito narrativo.
+O contato de Elias permite um circuito auxiliar com pressão limitada. O reparo não conserta o fixador nem o osso; a pinça responde com restrições.
 
-## Sanity Check (Lore)
-- **Fobia de Fumaça (Gabo):** O estado de dor (o zumbido elétrico e o corte feito pelo próprio Gabo) ainda age ativamente impedindo que a alucinação fóbica asfixiante se aproprie de sua mente. Total obediência ao lore de trauma sem clichês de fumo.
-- **Próteses e Limitações:** As órteses enferrujadas estão limitando o corpo debilitado, mas o capítulo impõe um teste somático avassalador que ele terá que suportar.
-- **Valéria:** Sua perspectiva crua de estatísticas perante a desvantagem é o único guia válido e frio dentro desse pesadelo analógico-biológico.
+## Passagens de entrada e saída
 
-## Avaliação Qualitativa
-- **Qualidade da História:** Excelente gancho e desafio insuperável que solidifica a progressão e prepara o terreno para eventos colossais na jornada ao topo do Setor 6.
-- **Coerência dos Personagens:** Todos ancorados em seus estereótipos base (pragmatismo, lógica fria, pânico mundano) sem agir fora da sua competência narrativa.
-- **Necessidade de Novos Personagens:** O capítulo prepara o cenário. Não há necessidade orgânica de novos personagens para essa progressão tática vertical.
+> O estrondo da porta de pressão se fechando ainda ecoava na base do crânio, uma reverberação de ferro maciço contra a pedra úmida que quase parecia um batimento cardíaco. Ali dentro, o cheiro de lodo apodrecido e ozônio fritando foi substituído por algo igualmente asfixiante: a poeira centenária de um túmulo vertical de alta tensão.
+
+### Saída
+
+> Subimos para o abismo de aço, deixando para trás o chão das catacumbas enquanto a tempestade de garras e sombras começava a despencar lá de cima sobre as nossas cabeças.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

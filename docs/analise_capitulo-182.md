@@ -1,28 +1,17 @@
-# Análise Crítica - Capítulo 182: A Superfície Pálida
+# Revisão de Capítulo 182: A Superfície Pálida
 
-> **Nota editorial:** esta análise descreve um rascunho em que Valéria já estava em Modo de Segurança pleno. O texto publicado (e o dossiê) usam o **Modo instável**, com lapsos emocionais até o cap. 220. Use o capítulo como fonte, não esta análise.
+Fonte: [capítulo 182](/capitulo-182.md).
 
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-## Autoavaliação Técnica (Nota: 8.5/10)
+## Passagens de entrada e saída
 
-### Ritmo (Pacing)
-A tensão foi bem administrada. O capítulo começou com a subida final claustrofóbica, passando para a vastidão opressiva da "Superfície Pálida". A transição do ambiente fechado para o aberto não aliviou a tensão; pelo contrário, expôs os personagens a uma desolação mais ampla. A cena de crise de Gabo quebrou um ritmo lento de contemplação com um pico de adrenalina autoinduzida.
+> O corredor ascendente fedia a ferrugem antiga e urina ressecada, mas à medida que subíamos, o ar se tornava mais ralo e agressivo. A umidade sufocante do duto de escoamento foi substituída pelo toque áspero do vento carregado de toxinas. O som contínuo dos meus passos era pontuado pelo chiado errático dos servos do suporte externo do meu braço, um lembrete constante da sucata que eu me tornara.
 
-### Diálogos
-Soam naturais e reforçam a dinâmica. A frieza robótica e expositiva de Valéria ("Análise atmosférica", "Estatística") contrasta de modo eficaz com o cansaço cínico de Gabo. A interação mostra a desconexão emocional entre eles, respeitando a diretriz de Valéria operando em Modo de Segurança sem parecer forçada.
+### Saída
 
-### Atmosfera
-A "sujeira" do cyberpunk noir está bastante palpável. Detalhes sensoriais fortes como "céu como um hematoma putrefato", "chuva ácida", "vento carregado de toxinas", "matiz ocre" e "gosto amargo de ozônio" fundamentam o cenário do Distrito 4. A sensação de decadência urbana pós-Aeterna é dominante.
+> — Queimar raiz com essa armação de trator e uma doze de cano serrado... — ela deu aquele meio-sorriso cínico que sempre me lembrava por que ela era a única pessoa na cidade que eu ainda confiava para cobrir minhas costas. — Plano brilhante, Moretti. Quase tão suicida quanto invadir a torre de Krell. Anda logo antes que o tempo mude e comece a chover ácido de verdade.
 
-## Pontos Fortes
-- **A âncora na dor:** A descrição da crise de Gabo é visceral. A necessidade orgânica e desesperada de provocar dor lacerante usando o braço mecânico quebrado para combater a alucinação olfativa reforça o quão estilhaçada está sua psique.
-- **Show, Don't Tell:** O cheiro fantasma de charuto é a "ação" na mente de Gabo. A resposta cínica da ciborgue sobre ajustar a expectativa de vida é o auge do "hardboiled" cibernético, mostrando como a tecnologia ali é indiferente à humanidade.
+## Alcance do parecer
 
-## Pontos Fracos (Áreas de Revisão Editorial)
-- **Tamanho:** O capítulo poderia se beneficiar de ser levemente mais longo para expandir mais o visual da Superfície Pálida e a jornada deles por ela, mas como um fragmento de transição crua, ele funciona.
-- **Ação Externa:** O conflito é unicamente interno e ambiental. Nos próximos capítulos, o desafio externo físico precisará voltar a escalar após essa contemplação desoladora, talvez com elementos de saqueadores ou biomassa sobrevivente nas ruínas.
-
-## Auditoria de Coerência (Sanity Check)
-- **"Gabo interagiu com algum fumante? Como sua repulsa foi demonstrada?"** Não houve interação com fumante real, mas ele lidou com a alucinação (fantasma) do cheiro do charuto do pai. A repulsa foi demonstrada através de automutilação (forçando a prótese no vergalhão) para que a dor física aguda dissipasse a asfixia psicológica da alucinação.
-- **"O plot twist deste capítulo invalida algo estabelecido nos capítulos anteriores?"** Não. A ascensão à superfície após o "Pedágio Fantasma" do capítulo 181 flui de forma natural. O uso do "Modo de Segurança" de Valéria mantém-se íntegro.
-- **"O resumo da lore foi atualizado com os novos eventos?"** Sim. O arquivo `docs/cronologia.md` foi atualizado com o resumo do Capítulo 182 e o status físico/mental dos personagens foi devidamente ajustado.
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

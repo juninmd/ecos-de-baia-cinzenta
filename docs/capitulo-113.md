@@ -5,21 +5,20 @@ Localização: "Interior do caminhão de coleta de lixo (Setor 4, a caminho da U
 ---
 # Capítulo 113: Carga Viva
 
-<div class="system-log danger">
-SYSTEM LOG // CRITICAL ERROR <br>
-VEÍCULO: UNIDADE DE COLETA #899 [SANEAMENTO BAÍA CINZENTA] <br>
-CARGA: BIOMASSA NÃO PROCESSADA (CLASSE C) <br>
-STATUS: PROTOCOLO MANUAL ATIVADO (CHAVE MESTRA: DEP. POLÍCIA) <br>
+```text
+SYSTEM LOG // CRITICAL ERROR
+VEÍCULO: UNIDADE DE COLETA #899 [SANEAMENTO BAÍA CINZENTA]
+CARGA: BIOMASSA NÃO PROCESSADA (CLASSE C)
+STATUS: PROTOCOLO MANUAL ATIVADO (CHAVE MESTRA: DEP. POLÍCIA)
 ALERTA: COMPACTADOR DESSINCRONIZADO
-</div>
+```
 
-**O Ventre da Besta**
-
+O Ventre da Besta
 O interior do caminhão de lixo não cheirava a lixo. Cheirava a cobre, amônia e algo doce, nauseante, que Gabo reconheceu imediatamente dos dias em que limpava cenas de crime para pagar o aluguel.
 
 Cheirava a morte recente.
 
-O compartimento respirava. Era essa a palavra que vinha à cabeça de Gabo: uma respiração lenta e metálica, o ar entrando e saindo pelas frestas da chapa enquanto o motor trabalhava. O metal suava. Gotas grossas escorriam pelas paredes e caíam na nuca dele, mornas, com gosto de moeda na pele. A cada solavanco, a órtese travava no encaixe do joelho direito e o parafuso da haste mordia o osso por dentro, num ponto que nenhum analgésico de farmácia alcançava. Ele tinha aberto uma ferida nova ali e não olhava para baixo. Olhar para baixo era admitir.
+O compartimento respirava. Era essa a palavra que vinha à cabeça de Gabo: uma respiração lenta e metálica, o ar entrando e saindo pelas frestas da chapa enquanto o motor trabalhava. O metal suava. Gotas grossas escorriam pelas paredes e caíam na nuca dele, mornas, com gosto de moeda na pele. A cada solavanco, a órtese travava no encaixe do joelho direito e a cinta da haste comprimia a ferida sob a pele, num ponto que nenhum analgésico de farmácia alcançava. Ele tinha aberto uma ferida nova ali e não olhava para baixo. Olhar para baixo era admitir.
 
 — Segurem-se! — A voz de Rangel ecoou pelo sistema de intercomunicação interno, crepitando com estática. O caminhão deu um solavanco violento, as suspensões hidráulicas gemendo enquanto ele subia a calçada para contornar um bloqueio da Aeterna.
 
@@ -27,7 +26,7 @@ No compartimento de carga, a escuridão era cortada apenas pelas luzes de emerg�
 
 Com o solavanco brusco, um dos sacos pretos ao lado da bota de Gabo se rasgou. A luz azul do LED do pendrive da Aria refletiu na pele acinzentada lá dentro, enquanto o scanner óptico do deck de Valéria fazia a leitura automática da carga.
 
-— *Composição da carga identificada* — soou a voz sintética da Aria pelo fone auricular de Gabo, com aquela cadência analítica que deixava escapar um timbre quase idêntico ao de Bia Vargas. — *Tecido humano com necrose neural induzida. Subproduto de extração sináptica.*
+— *Composição da carga identificada* — soou a voz sintética da Aria pelo fone auricular de Gabo, com sua voz adulta, firme apesar das falhas da saída reparada. — *Tecido humano visível. A etiqueta da pulseira corresponde ao manifesto local: descarte pós-extração. Não consigo confirmar a causa da morte pela câmera.*
 
 — Desliga a leitura biométrica, Aria — murmurou Gabo, sentindo o estômago revirar.
 
@@ -65,7 +64,7 @@ A lanterna parou exatamente onde o plástico rasgado deixava o braço à mostra.
 
 Valéria tocou o painel lateral do caminhão. Os olhos dela refletiram o brilho do *deck*.
 
-— Posso gerar um loop de feedback nos sensores externos. Fazer o caminhão parecer vazio para os scanners térmicos. Mas preciso de acesso direto à bateria do compactador.
+— Posso gerar um loop de feedback nos sensores externos. Mandar a leitura já registrada pelo controlador do caminhão. Isso não engana um sensor independente apontado para nós. Mas preciso de acesso direto à bateria do compactador.
 
 — Vai ativar a prensa! — alertou Gabo.
 
@@ -76,6 +75,8 @@ Valéria tocou o painel lateral do caminhão. Os olhos dela refletiram o brilho 
 — Eles estão escaneando — a voz de Rangel era um sussurro urgente. — Agora ou nunca.
 
 Gabo olhou para Valéria. Ela engoliu em seco, olhou para o teto que começava a descer lentamente com um zumbido hidráulico ameaçador, e assentiu.
+
+Antes de autorizar, Gabo apontou a câmera do comunicador para a pulseira e o lote. Aria guardou a imagem, a hora local e a origem do manifesto; nenhum deles sabia ainda o nome da pessoa.
 
 — Vai!
 

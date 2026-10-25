@@ -1,25 +1,17 @@
----
-estado: revisado
-capitulo: 120
----
+# Revisão de Capítulo 120: O Silêncio de Aeterna
 
-# Análise Crítica - Capítulo 120
+Fonte: [capítulo 120](/capitulo-120.md).
 
-## Metadados
-- **Capítulo:** 120: O Silêncio de Aeterna
-- **Data de Revisão:** (Atual)
-- **Revisor:** AI
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-## Avaliação Técnica (1-10)
-- **Ritmo (Pacing):** 8/10
-- **Diálogos:** 8.5/10
-- **Atmosfera:** 9/10
+## Passagens de entrada e saída
 
-## Pontos Fortes e Fracos
-- **Fortes:** Expansão sólida do lore de Baía Cinzenta com o apagão da cidade.
-- **Fracos:** Havia quebras graves de lore envolvendo a fobia de fumaça de Gabo.
+> A chuva não era mais apenas água. Era um véu frio que lavava o pecado da cidade, transformando a fuligem em lama negra sob suas botas.
 
-## Sanity Check
-- **Aversão a Fumo:** Verificado e corrigido. O protagonista apresentava uma "coceira desesperada por nicotina" e menções a "fumaça de diesel". Esses gatilhos foram removidos e substituídos por alucinações olfativas que ele neutraliza via dor física (usando o Colar de Sol), além do desgaste severo nas engrenagens de suas órteses de perna.
-- **Coerência de Plot:** Mantém a progressão linear do colapso da cidade após a batalha da usina.
-- **Lore Updates:** Adicionadas âncoras focadas em suas restrições físicas (órteses pesadas).
+### Saída
+
+> Gabo não respondeu. Ele apenas dirigiu, mantendo os olhos na estrada e a mão longe do bolso.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

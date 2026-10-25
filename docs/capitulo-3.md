@@ -1,7 +1,7 @@
 ---
 image: /capitulo_3.jpg
 Localização: Galpão do Setor 4, Distrito Industrial
-Personagens Presentes: Gabriel "Gabo" Moretti, Capitão Jonas Vilar, Valéria "Val" Cruz
+Personagens Presentes: Gabriel "Gabo" Moretti, Capitão Jonas Vilar, Valéria "Val" Cruz, Aria
 ---
 # Capítulo 3: Teatro de Carne
 
@@ -47,17 +47,16 @@ Gabriel se aproximou, desviando das poças de sangue coagulado. Ele olhou para o
 
 As pálpebras haviam sido removidas. No lugar dos olhos, lentes de câmeras analógicas, objetivas Leica antigas, haviam sido enxertadas nas órbitas. O vidro escuro das lentes refletia o rosto de Gabriel distorcido.
 
-*Zzzzt. Click.*
-
+Zzzzt. Click.
 O som foi mecânico, vindo de dentro do crânio do rapaz. As lentes giraram, focando.
 
 — Não apenas ativas. Estão transmitindo — disse a voz feminina vinda do chão.
 
-Sentada em posição de lótus, cercada por cabos físicos conectados a um terminal portátil pesado, estava a Detetive Valéria Cruz. Nada de hologramas flutuantes aqui; apenas código rolando em telas de fósforo verde e o cheiro de processadores superaquecidos.
+Sentada em posição de lótus, cercada por cabos físicos conectados a um terminal portátil pesado, estava a Detetive Valéria Cruz. O terminal trabalhava sem projetor: código rolando em telas de fósforo verde e o cheiro de processadores superaquecidos.
 
 — Detetive Cruz — cumprimentou Gabo, surpreso. — Achei que você estivesse confinada no porão da Cybercrimes.
 
-Valéria ergueu os olhos. A luz azul das lentes de contato recortou a viseira; a franja de fios luminosos escapava do capuz de proteção.
+Valéria ergueu os olhos. O azul-gelo dos olhos cibernéticos recortou a viseira; a franja de fios luminosos escapava do capuz de proteção.
 
 — Sua requisição me soltou. Não se acostume. — Apontou o medidor de campo. — A emissão aumenta perto daquele quadro. Pode ser um repetidor ou outro aparelho na mesma frequência. Preciso testar antes de seguir o sinal para lugar nenhum.
 
@@ -131,7 +130,7 @@ Vilar recebeu o aviso no tablet e virou a tela: **CONSULTA EXTERNA REGISTRADA �
 
 Gabriel parou na porta do galpão, a silhueta recortada contra a chuva torrencial. Ele apertou o Colar de Sol mais uma vez.
 
-Antes de sair, recolheu o módulo do painel do *Cobalt* e o acoplou ao comunicador tático. A Cruz ficaria com o registro da sessão e o resto da análise.
+Antes de sair, recolheu o módulo do painel do *Cobalt*. Cruz verificou a alimentação do comunicador, desativou o rádio externo e separou a porta de dados da rede policial antes de permitir o acoplamento. Ficaria com o registro da sessão e o resto da análise. Aria confirmou pelo alto-falante local que continuava ali; não pediu acesso à rede.
 
 — Para entrar num galpão. Para falar com meu irmão, ainda não preciso.
 

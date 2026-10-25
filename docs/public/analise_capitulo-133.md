@@ -1,12 +1,17 @@
-# Análise Crítica - Capítulo 133
+# Revisão de Capítulo 133: Matéria Prima
 
-## Consistência de Personagem (Lore)
-- **Gabo (Fobia de Fumaça):** A infração de Gabo ansiando por fumaça/cigarros foi corrigida de forma a respeitar sua repulsa biológica e psicológica: a necessidade de fumaça foi trocada pela fobia manifestando uma alucinação sensorial que ele espanta com a dor gerada pelo colar.
-- **Aria:** A dualidade entre Aria e "Bia" está operando corretamente e avança o conflito interno de Gabo sem interferir em suas convicções fóbicas.
-- **Mecânicas de Combate e Sobrevivência:** Gabo tem limitações em combate e fadiga; adicionado ranger das pernas mecânicas dele.
+Fonte: [capítulo 133](/capitulo-133.md).
 
-## Trama e Continuidade
-- A transição do túnel de esculturas para o encontro da falsa "Bia" está logicamente encadeada.
+A réplica de Bia é uma construção do Taxidermista. Não é um corpo de Aria. Uma entrada hostil explora o controlador de saída danificado.
 
-## Conclusão da Revisão
-**Aprovado.** Lore resguardado.
+## Passagens de entrada e saída
+
+> O ar mudou. Não era mais apenas o cheiro de esgoto e metano; havia algo químico, estéril e terrivelmente familiar. Formol. Esmalte sintético. O cheiro de um hospital que foi abandonado e depois reocupado por algo que não entende a medicina, apenas a anatomia.
+
+### Saída
+
+> — Val, reinicia o drive da Aria à força. Eu seguro os críticos de arte.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

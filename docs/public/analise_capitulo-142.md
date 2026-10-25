@@ -1,11 +1,17 @@
-# Análise Crítica - Capítulo 142
+# Revisão de Capítulo 142: Veias de Vidro
 
-## Consistência de Personagem (Lore)
-- **Gabo (Fobia de Fumaça):** Mesma coerência observada no capítulo 141. A fobia se manifesta como uma ilusão/alucinação e é combatida de forma condizente com a punição corpórea (dor da mão ferida na viga). Nenhuma menção a desejo de fumar ou tabagismo voluntário.
-- **Limitações Físicas:** A ação de carregar Rangel impõe restrições físicas (mãos feridas), adequando-se ao seu estado físico desgastado.
+Fonte: [capítulo 142](/capitulo-142.md).
 
-## Trama e Continuidade
-- Repete parcialmente o texto do 141 como placeholder, mas o avanço narrativo presente no resumo foca em continuidade aceitável (drones e escalada).
+A prancha sobe pelo guincho, guiada por cinta. Os cartuchos são contados antes do combate. A fibra transmite o comando, não a força de içamento.
 
-## Conclusão da Revisão
-**Aprovado.** Sem infrações de lore identificadas.
+## Passagens de entrada e saída
+
+> A subida pelo poço de ventilação secundário era um exercício brutal em resistência e dor. A escuridão absoluta do fosso vertical só era rasgada de forma intermitente pela iluminação tática de Valéria e pelo pulso azul-gelo do pendrive blindado de Aria acoplado ao seu cyberdeck, revelando paredes metálicas envelhecidas por décadas de condensação, fungos luminosos e ferrugem escamosa.
+
+### Saída
+
+> O inferno começava a vazar para baixo. E eles não tinham para onde fugir.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

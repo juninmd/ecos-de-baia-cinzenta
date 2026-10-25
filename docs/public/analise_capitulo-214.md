@@ -1,18 +1,17 @@
-# Análise do Capítulo 214: O Coração Estéril
+# Revisão de Capítulo 214: O Coração Estéril
 
-## Avaliação Técnica
-- **Ritmo (Pacing):** 9/10. O capítulo serve como um ótimo ponto de revelação *slow burn* (lentamente construído). A quietude do ambiente cria um contraste muito necessário para o bombardeio sensorial de ação e terror físico dos capítulos recentes.
-- **Diálogos:** 10/10. A revelação de Valéria, em sua desconcertante falta de empatia, combinada com a resposta sempre dura e analítica de Gabo (que acaba de sair de um combate interno violento) entrega o autêntico *cyberpunk noir*. Elias é um espetador vital para essa mudança de ambiente.
-- **Atmosfera:** 9/10. A transição da escuridão gelada, biológica e degradada para o santuário arcaico iluminado e imaculado cria um sentimento genuíno de mistério corporativo.
+Fonte: [capítulo 214](/capitulo-214.md).
 
-## Pontos Fortes e Fracos
-- **Pontos Fortes:** O *lore check* e o desenvolvimento da progressão macro (A conspiração da Aeterna Corp) reintroduzidos através da interface de um ambiente novo; a punição psicológica perfeitamente executada de Gabo que não consegue ter um minuto de paz (o trauma que o persegue num lugar seguro).
-- **Pontos Fracos:** Nenhuma revelação imediata e definitiva, sendo mais um degrau de "gancho" para expandir a jornada vertical.
+O Hub tem alimentação independente. A entrada de 1922 é digitalização de um livro de obras; não havia computador registrando o ambiente naquele ano.
 
-## Sanity Check - Auditoria de Coerência
-- **Gabo interagiu com algum fumante? Como sua repulsa foi demonstrada?** Nenhuma interação. O ambiente seguro baixou sua guarda física, disparando novamente a alucinação fóbica (o ataque somático). Gabo recorre à brutalidade, fincando os dedos na carne rasgada de seu próprio braço, esmagando o gatilho psicológico com dor aguda. Perfeitamente coerente e doloroso.
-- **O plot twist deste capítulo invalida algo estabelecido nos capítulos anteriores?** Não. A exploração do subterrâneo foi o pilar desde a "Cidade Viva", e a ideia do Hub intocado adiciona à corrupção da narrativa, sem contradizer nada.
-- **O resumo da lore foi atualizado com os novos eventos?** Sim. O grupo agora descobre as raízes ainda mais profundas que conectam as fundações originais do desastre corporativo.
+## Passagens de entrada e saída
 
-## Avaliação Qualitativa
-A história se expande e solidifica perfeitamente os papéis. Valéria opera no pico do *Safe Mode*, despida de qualquer vínculo emocional ao decodificar horrores. Gabo sofre internamente e se pune severamente para liderar, abraçando sua disfunção psicológica. Elias cumpre o contraponto civil. Nenhum personagem novo é requerido, a coesão desse grupo isolado é a força motriz que carrega a ansiedade da história.
+> Eu me levantei apoiando o peso do corpo na coronha gasta da *Caronte*. Cada passo além das imensas portas blindadas de titânio enviava farpas de vidro através do meu sistema nervoso; não era uma queimação comum, era aquela fisgada fria e persistente dos nervos traumatizados se acomodando na carne machucada. Ainda assim, caminhei os primeiros dez metros de queixo erguido e passo firme, porque Elias estava logo atrás de mim e um garoto assustado precisa ver alguém de pé.
+
+### Saída
+
+> — É a melhor resposta que você deu a noite inteira, Elias, — declarei, destravando a alça da escopeta. — Valéria, inicia a sequência. Nós vamos descer até o fundo do poço.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

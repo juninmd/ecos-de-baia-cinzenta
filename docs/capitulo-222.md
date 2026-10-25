@@ -7,7 +7,7 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 # Capítulo 222: O Homem que Podia Ir Embora
 
-Elias sumiu enquanto ela me costurava.
+Elias sumiu enquanto o módulo cuidava do ferimento.
 
 Descobri quando saí da enfermaria e não achei ninguém no corredor. Chamei uma vez, sem muita força, e o corredor branco devolveu o meu próprio nome com uma nitidez desconfortável.
 
@@ -33,13 +33,11 @@ Elias estava dentro dele.
 
 Tinha a mochila nas costas. A lanterna morta pendurada no cinto, substituída por uma lanterna nova de dínamo que ele devia ter achado num armário. Nos braços, três garrafas de água selada.
 
-E o dedo dele estava a um centímetro do botão de subir.
-
-Eu parei na porta. Não disse nada.
+E o dedo dele estava a um centímetro do botão de subir. Eu parei na porta. Não disse nada.
 
 Ele me viu. Encolheu os ombros para dentro, do jeito que ele faz.
 
-— Funciona, — ele disse. — O maldito funciona, Gabo. Circuito próprio. Nunca esteve na rede, então a Praga nunca pegou. Eu testei o contrapeso, testei o freio, testei tudo três vezes. — Ele riu, e o riso saiu horrível. — Quatro anos de manutenção. É a única coisa em que eu sou bom. E a única vez que serviu para alguma coisa foi para achar a porta dos fundos.
+— Funciona, — ele disse. — O maldito funciona, Gabo. Circuito próprio. Nunca esteve na rede, então a Praga nunca pegou. Conferi o contrapeso, o freio e o caminho acessível. Não subi até a estação; não sei o que há na saída. — Ele riu, e o riso saiu horrível. — Quatro anos de manutenção. É a única coisa em que eu sou bom. E a única vez que serviu para alguma coisa foi para achar a porta dos fundos.
 
 — Onde é que ele sai?
 
@@ -61,11 +59,9 @@ Ele piscou.
 
 — Não é um teste?
 
-— Elias, eu estou com quarenta e um de febre e o braço direito quebrado. Eu não tenho energia para teste.
+— Elias, eu mal consigo ficar em pé e o braço direito quebrado. Eu não tenho energia para teste.
 
-Ele ficou parado no elevador, com o dedo no ar.
-
-E não apertou.
+Ele ficou parado no elevador, com o dedo no ar. E não apertou.
 
 — Aperta, — falei.
 
@@ -115,11 +111,7 @@ Ele enxugou o rosto com as costas da mão, deixando risco de graxa.
 
 — Aí você sobe depois. O botão não vai a lugar nenhum. — Dei um tapinha na grade com a garra, e a coisa fez um barulho horroroso. — A oferta fica de pé até a última porta. Eu não vou te cobrar e não vou te julgar. Você foi o único de nós três que ainda tinha escolha, e olhar você ficar com ela na mão foi a melhor coisa que eu vi esse ano.
 
-Ele se levantou. Ajeitou a mochila.
-
-E apertou o botão.
-
-O de **descer**.
+Ele se levantou. Ajeitou a mochila. E apertou o botão. O de **descer**.
 
 A plataforma tremeu e começou a baixar os dois metros de volta ao nível da Arca com um zumbido antigo e satisfeito.
 
@@ -133,11 +125,11 @@ Valéria nos esperava na antecâmara hexagonal.
 
 — Voltou.
 
-— A probabilidade era de trinta e um por cento.
+— eu achei que ele fosse partir.
 
-— Você calculou a chance dele voltar?
+— Você achou que ele fosse partir?
 
-— Eu calculo tudo. — Ela virou-se para a galeria dos berços. — E registro quando erro. É como o cálculo melhora.
+— Eu posso estar errada sobre alguém. — Ela virou-se para a galeria dos berços. — E registro quando erro. É como o cálculo melhora.
 
 Andamos os três pelo corredor de vidro e cobre, passando por oitenta e três caixões vazios, até a única luz verde no fim da fileira.
 
@@ -145,11 +137,7 @@ A Dra. Elara Vance estava de olhos abertos.
 
 Ela tinha ficado assim o tempo todo. Esperando. E, quando os três chegamos ao pé do berço, a pupila esquerda dela se moveu — devagar, um milímetro por vez — e parou exatamente sobre o painel de controle, ao lado da minha mão.
 
-Depois voltou para mim.
-
-E fez de novo.
-
-Painel. Eu. Painel. Eu.
+Depois voltou para mim. E fez de novo. Painel. Eu. Painel. Eu.
 
 — Ela está dizendo onde apertar, — Elias sussurrou.
 

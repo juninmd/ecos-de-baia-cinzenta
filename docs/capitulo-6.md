@@ -1,141 +1,118 @@
 ---
 image: /capitulo_6.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Kael "O Cirurgião", Roberto Miranda, Aria Moretti
-Localização: "Represa Hidrelétrica de Baía Cinzenta"
+Localização: Galeria de drenagem e sala de processamento da Represa Hidrelétrica de Baía Cinzenta
+Personagens Presentes: Gabriel "Gabo" Moretti, Roberto Miranda, Kael "O Cirurgião", Aria (módulo físico)
+Participação por rádio: Valéria "Val" Cruz
+Participação em imagem: rosto de Dante Moretti no monitor (origem não confirmada)
 ---
 # Capítulo 6: O Coração da Tempestade
 
-A Represa Hidrelétrica de Baía Cinzenta era uma tumba de concreto. O som da água caindo a quilômetros de distância reverberava nas paredes como um batimento cardíaco lento e doente.
+Levaram quase quarenta minutos entre a plataforma e o primeiro corredor seco. Miranda já não protestava quando Gabo o puxava. Deixava sangue nas paredes, na altura da mão, e parava para respirar de costas contra o concreto. A água da represa batia em algum lugar acima deles. Cada pancada parecia vir um pouco mais perto.
 
-Gabriel e Miranda avançavam pelos corredores de serviço, deixando um rastro de sangue e lama. A perna de Miranda estava amarrada com um pedaço de camisa rasgada, mas o ex-policial estava pálido, suando frio.
+Gabo conferiu o comunicador. O chip continuava lacrado no bolso; Aria estava no adaptador, com um único risco de luz. Não havia rede entre as galerias. Havia a respiração de Miranda e o assobio do ar passando pelas juntas de uma porta.
 
-A represa respirava por eles. Cada vez que o vento entrava pelas frinchas do corredor, o concreto soltava um gemido grave, de casa velha que se recusa a admitir que está caindo. O chão tinha uma camada de lodo e cal que grudava na sola, e o gosto de ferro na boca de Gabriel não vinha de ferimento nenhum.
+— Você me trouxe para a entrada de serviço de quem? — perguntou.
 
-Miranda parou para tossir. A tosse saiu molhada, com um som que não pertencia a um pulmão saudável.
+— Era onde eu entregava.
 
-— Você está deixando um rastro que qualquer um pode seguir — disse Gabriel, sem se virar.
+— Não perguntei onde. Perguntei para quem.
 
-— Estou deixando um rastro porque você me arrastou para dentro deste lugar.
+Miranda fechou os olhos. Gabo o deixou sentado num degrau e fotografou as pegadas que seguiam dos dois lados do corredor. Os sapatos eram pequenos demais para os operários da represa, e algumas marcas terminavam arrastadas.
 
-— Você me trouxe o chip.
+Um cabo novo corria sobre a instalação velha. Gabo o acompanhou até a porta. O painel indicava consumo contínuo, muito acima da iluminação dos túneis. Ao lado, uma bancada de reparos guardava uma alavanca de ferro. Ele a introduziu na folha empenada e fez força com o ombro. O golpe de Kael voltou inteiro, tirando-lhe o ar antes que o metal cedesse.
 
-— Eu trouxe o chip para não morrer. Não confunda as coisas.
+O frio do outro lado atravessou o sobretudo molhado. Cheirava a desinfetante e gel adocicado. Fileiras de racks negros enchiam a sala. No centro de cada um, um tubo de vidro e uma massa dobrada em sulcos, suspensa em líquido. Cabos mergulhavam na base.
 
-Gabriel não respondeu. Algumas discussões só servem para gastar o ar que ainda vai faltar.
+Miranda cobriu a boca.
 
-— Estamos perto — sussurrou Miranda, verificando um painel na parede com mãos trêmulas. — O consumo de energia aqui... é astronômico.
+— Não sabia que chegavam a fazer isso.
 
-Gabriel forçou uma porta de aço pesada com o pé de cabra que encontrara no caminho. O metal gemeu e cedeu.
+— Você viu as remessas. Acabou de me dizer.
 
-O ar que saiu de lá de dentro era gélido, carregado de um zumbido elétrico tão intenso que fazia os dentes de Gabriel vibrarem.
+— Eu entregava na porta.
 
-Eles entraram.
+Gabo ergueu a lente do comunicador. Filmou primeiro a entrada, depois as placas: **4590 — PROCESSANDO**. **4591 — FALHA CRÍTICA**. Numa tela, rostos de pedestres passavam em quadros sucessivos; o número de uma das unidades aparecia ao lado de cada identificação.
 
-Não era uma sala de servidores comum. Era um necrotério industrial.
+— Isso sai para a vigilância? — perguntou a Miranda.
 
-Fileiras intermináveis de torres negras se estendiam na penumbra, iluminadas apenas por LEDs de status vermelhos que pulsavam em uníssono. Mas o horror real estava no centro de cada *rack*.
+— Eu disse o que eles me contaram.
 
-Tubos de vidro reforçado. Dentro deles, flutuando em um gel translúcido e borbulhante, estavam cérebros humanos.
+Gabo manteve a câmera ligada. O que via combinava com a história; ainda precisava de alguém capaz de examinar a instalação. Miranda não seria sua própria confirmação.
 
-— Deus do céu... — Miranda cobriu a boca, contendo o vômito. — Eles estão todos aqui.
+Abaixo de outro tanque, **3912**, um envelope plástico continha uma cópia de boletim de desaparecimento. Gabo aproximou a luz. Reconheceu a fotografia da mulher do Setor 4 que saíra para comprar pão. O marido viera três vezes à delegacia. Na terceira, tinham oferecido café enquanto procuravam uma maneira de mandá-lo embora.
 
-Gabriel caminhou pelo corredor central, a arma abaixada, os olhos varrendo os nomes gravados nas placas de metal abaixo de cada tanque.
+Sobre o envelope, a etiqueta manuscrita dizia: *Sem resposta a estímulo. Descartar após extração.*
 
-*Indivíduo 4590 - Status: Processando.*
-*Indivíduo 4591 - Status: Falha Crítica.*
+Gabo fotografou os dois lados do boletim. Quis tirar o envelope dali, mas estava preso sob a alimentação do tanque. Não tocou nos conectores. Deixou na filmagem o ponto onde alguém teria de voltar para recolhê-lo.
 
-— "Mineração de dados" — Gabriel leu, a fúria crescendo em seu peito como um incêndio. — Eles não estão minerando criptomoeda. Estão usando a capacidade neural para processar vigilância.
+— Pode ser uma cópia falsa — disse Miranda.
 
-Gabriel parou diante de um tanque menor, quase escondido atrás de um *rack*. A placa dizia *Indivíduo 3912*. O gel dentro do vidro era mais escuro, e o cérebro flutuava de lado, como fruta que apodreceu por dentro. Uma etiqueta manuscrita estava presa com fita: *sem resposta a estímulo — descartar após extração*.
+— Pode. Você sabe o nome dela?
 
-Ele conhecia aquele número. Não o número — o caso. Trezentos e noventa e um arquivos na Divisão de Esquecidos, e ele tinha aberto aquele em uma tarde de chuva, com café frio e a certeza de que ninguém cobraria resposta. A mulher do Setor 4 que saiu para comprar pão e não voltou. O marido veio três vezes à delegacia. Na terceira, o capitão mandou servir um café para ele e disse que não havia mais o que fazer.
+O ex-parceiro baixou os olhos. O zumbido do resfriamento cobriu a resposta que não veio.
 
-Miranda seguiu o olhar dele e entendeu. Foi a única coisa parecida com vergonha que Gabriel viu no rosto do ex-parceiro naquela noite.
+Valéria conseguiu contato quando Gabo se aproximou da parede externa. Estava numa caixa de inspeção, do lado de fora da represa. O enlace só passava por aquele trecho.
 
-— Eu não sabia que era assim — disse Miranda.
+— *Estou ligada ao painel de manutenção. Recebo temperatura e abertura de portas. O servidor não aceita minha sessão. Não tenho acesso aos arquivos.*
 
-— Você sabia que eles pagavam.
+Ele enviou um trecho da filmagem. Esperou a confirmação antes de voltar para perto de Miranda. Aria continuava alimentada pelo adaptador do comunicador. A carcaça estava quente; a bateria perdera outro segmento.
 
-— Saber que pagam e ver o tanque são coisas diferentes, Gabo.
+— *Guardei o que chegou. Falta parte da imagem do último tanque*, disse Valéria. *Não apague o original.*
 
-De repente, as luzes da sala piscaram violentamente. Os monitores nas paredes, que antes mostravam linhas de código, se encheram de estática.
+As telas apagaram uma a uma. Na última, um som rachou o alto-falante: *pro... te... ger...* O contorno de um rosto apareceu entre as faixas de estática.
 
-— *Val?* — Gabriel tocou o comunicador. — *Você está vendo isso?*
+Gabo chegou perto antes de perceber que largara Miranda sem vigilância.
 
-— *Gabo... tem algo errado,* — a voz de Val cortava, cheia de chiado. — *Eu tentei plugar no sistema da represa, mas... fui rejeitada. Não há firewall. É um vácuo. Algo do outro lado... comeu meu sinal.*
+— Pai?
 
-Um som gutural ecoou pelos alto-falantes da sala. Não era uma voz, era um ruído de dados corrompidos que soava vagamente humano.
+O rosto desapareceu num clarão. O monitor soltou fumaça, com cheiro de plástico e cabelo queimado. Gabo ficou olhando para o vidro escuro onde agora via o próprio reflexo.
 
-*...pro...te...ger...*
+— É o que sobrou — disse Miranda. — Memória, ecos. Eles fazem isso.
 
-Gabriel girou, procurando a origem. Em um dos monitores grandes, a estática se aglutinou por um milissegundo. Um rosto. Apenas um contorno cinza em meio ao ruído branco.
+— Você disse que não tinha entrado aqui.
 
-O rosto de seu pai.
+Uma fechadura hidráulica abriu no fundo da sala. A porta de explosão se recolheu e Kael apareceu, de avental sobre a armadura. Não havia música nem convidados para interromper o ruído de suas juntas. A pistola estava voltada para o chão; a lâmina de monofilamento, para Gabo.
 
-— Pai? — A palavra escapou dos lábios de Gabriel antes que ele pudesse contê-la.
+— Entregue os dados.
 
-O monitor explodiu em faíscas.
+Gabo olhou para o comunicador. Kael corrigiu:
 
-— Não é ele — disse Miranda, a voz trêmula. — É o que sobrou. Fragmentos de memória rodando em *loop*. Ecos.
+— O material que Miranda retirou.
 
-— *Gabo!* — Val gritou no ouvido dele. — *Detectei movimento. A porta principal! Eles estão aí!*
+O ex-parceiro tentou levantar-se. A perna cedeu, e Kael nem se voltou para o som.
 
-Antes que Gabriel pudesse reagir, a porta de explosão no final do corredor se abriu com um silvo hidráulico.
+— Dê a ele — disse Miranda. — Ele vai tirar de você de qualquer jeito.
 
-Uma silhueta maciça bloqueou a luz. Kael.
+Gabo segurou o envelope contra o corpo. A mão queimada já não tinha sensibilidade suficiente para encontrar a borda do lacre. Rasgou-o com os dentes. O chip, menor que uma unha, tinha o invólucro úmido e liso.
 
-O cheiro chegou antes do resto: antisséptico hospitalar por cima de carne velha, o mesmo cheiro da clínica clandestina onde Gabriel pagara em dinheiro vivo para não fazer perguntas. O ar da sala ficou mais espesso, como se o gigante tivesse trazido a própria atmosfera.
+— Aqui? — perguntou, erguendo-o.
 
-O "Cirurgião" da Aeterna parecia ainda maior pessoalmente. Sua armadura tática era coberta por um avental de couro grosso, manchado de fluidos escuros. Em uma das mãos, uma lâmina de monofilamento zumbia suavemente. Na outra, uma pistola automática pesada.
+Kael abriu a mão enluvada. Gabo pôs o chip na boca e engoliu. A borda arranhou sua garganta; ele precisou prender a tosse. O envelope de evidência caiu aberto aos seus pés.
 
-— Invasão de perímetro confirmada — a voz de Kael era amplificada artificialmente, saindo de uma grade de voz em seu pescoço. — Entregue os dados, Moretti.
+Por um segundo não houve ordem nenhuma.
 
-Gabriel sentiu o peso do chip em seu bolso. A verdade. Se Kael o pegasse, tudo estaria perdido. Ele olhou para Miranda, que estava paralisado, e depois para o gigante de metal.
+Então Kael girou o punho. Outra ferramenta avançou no lugar da lâmina.
 
-— Você quer isso? — Gabriel tirou o chip do bolso, segurando-o com dois dedos.
+— Protocolo de extração.
 
-Kael deu um passo à frente, a pistola erguida.
+Gabo puxou a Glock. O disparo atingiu a borda da porta; o seguinte se perdeu no rack quando Kael avançou. Miranda se jogou atrás de uma base de concreto. Gabo o seguiu, batendo a costela no canto, e tentou voltar a respirar sem fazer barulho.
 
-— Não complique, detetive. Me dê o chip e sua morte será rápida.
+— Val, você consegue parar esse homem?
 
-Gabriel sorriu, um sorriso sem humor, apertando o Colar de Sol com a mão esquerda enquanto a direita segurava o chip sobre a boca aberta.
+— *Não por esta conexão. Ele não responde no barramento. Preciso de um acesso físico.*
 
-— Eu sou um Moretti. Nós sempre complicamos.
+Uma lâmina atravessou o metal da cobertura. Gabo rolou para trás de outra fileira. Não havia distância para uma tentativa de conexão. Guardou a Glock e soltou a alça da *Caronte* de dentro do sobretudo. A pele da palma repuxou quando apoiou o cano no rack.
 
-Gabriel jogou o chip para dentro da boca. Ele engoliu a seco, sentindo o gosto metálico e a borda dura do dispositivo arranhando a garganta enquanto descia.
+— *Leia a tubulação acima de você*, disse Aria. *Consigo trabalhar com a imagem local. Não tenho controle da válvula.*
 
-Kael parou, seus sensores processando o ato ilógico.
+Gabo ergueu o comunicador. **N₂ — LINHA CRIOGÊNICA.** A seta apontava para o conjunto de troca térmica junto à passagem de Kael. Um volante vermelho ficava antes da junção, do lado de Gabo.
 
-— Dado orgânico detectado no estômago — zumbiu o ciborgue. — Protocolo de extração cirúrgica iniciado.
+— *Se romper isso, o painel vai isolar a sala*, disse Valéria. *Os tanques também estão aqui.*
 
-— Vai ter que me abrir para pegar — desafiou Gabriel, sacando a Glock com uma velocidade nascida do desespero.
+Kael cortou a quina do rack. Gabo puxou Miranda para baixo com o ombro e disparou a escopeta contra a junção da tubulação. O jato atingiu o peito e o visor do executor. Geada cobriu o vidro enquanto ele recuava. A névoa engoliu a passagem, assobiando mais alto que o alarme.
 
-— Com prazer.
+Na parede, a luz de acesso mudou de verde para vermelho. Gabo sentiu o ar gelado queimar o corte do lábio.
 
-Balas de grosso calibre rasgaram o metal dos servidores, chovendo faíscas sobre Gabriel. Ele mergulhou para trás de uma fileira de *racks*, o coração batendo contra o objeto estranho em seu estômago.
+— *A pressão está caindo*, disse Valéria. *Eu vejo o vazamento no painel. Não consigo fechá-lo daqui.*
 
-— Val, hackeie as defesas dele! — gritou ele pelo rádio.
-
-— *Eu não consigo!* — Val estava chorando de frustração. — *O sistema dele é fechado! Air-gapped! Nada entra!*
-
-— *Use o ambiente, detetive!* — A voz sintética de Aria cortou a transmissão direto do pendrive acoplado ao comunicador de Gabriel, fria e precisa, enquanto o metal aquecia no bolso. — *Tubulação superior. Nitrogênio líquido.*
-
-Gabriel olhou para cima. Tubulações grossas corriam pelo teto, cobertas de gelo. Nitrogênio líquido para resfriar os processadores biológicos.
-
-— Sem hack remoto hoje — rosnou Gabriel, trocando o carregador. — Vamos fazer do jeito analógico.
-
-Ele mirou não em Kael, mas no teto, logo acima da cabeça do ciborgue.
-
-— Miranda, cubra os olhos!
-
-Kael rosnou e avançou, a serra girando. Gabriel sacou a *Caronte* de baixo do casaco.
-
-Um jato de nitrogênio líquido explodiu com a pressão de um gêiser quando o chumbo grosso atingiu o cano. A temperatura na sala despencou instantaneamente. Uma névoa branca e densa, fria como a morte absoluta, engoliu o corredor, ocultando Kael e enchendo o ar com o silvo ensurdecedor do gás expandindo.
-
-O sistema de alarme disparou, luzes estroboscópicas laranjas cortando a névoa.
-
-— *Alerta de temperatura crítica,* — uma voz automatizada soou. — *Falha de contenção.*
-
-Gabriel se levantou, a escopeta *Caronte* agora em suas mãos, a respiração formando nuvens de vapor. Ele não podia ver Kael, mas sabia que os sensores térmicos do ciborgue estariam cegos pelo frio extremo.
-
-— Agora estamos no meu mundo — sussurrou Gabriel, entrando na névoa gelada.
+Gabo procurou o volante que acabara de ver. A névoa já o escondera. Do outro lado da fileira, o aço das botas de Kael voltou a bater no piso.

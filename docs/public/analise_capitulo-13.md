@@ -1,17 +1,41 @@
-# Análise do Capítulo 13: Shadowban
+# Parecer — Capítulo 13: Shadowban
 
-## Avaliação Técnica
-- **Ritmo (Pacing):** 9/10. Excelente tensão de progressão e a ação é dinâmica.
-- **Diálogos:** 8.5/10. Bem elaborados, o duelo verbal entre Gabo e Miranda carrega bastante significado, e a interação entre Valéria e Gabo no final estabelece a dinâmica deles de forma muito natural.
-- **Atmosfera:** 9/10. Caos revolucionário. A sensação de libertação e de colapso do sistema anterior é palpável.
+Revisão de 22/10/2026. Fonte [atual](/capitulo-13.md),
+[anterior](/capitulo-12.md) e [seguinte](/capitulo-14.md).
+A revisão aplicada nesta rodada cobre 12–18. Nota editorial é juízo de leitura;
+triagem lexical e testes não comprovam qualidade literária.
 
-## Pontos Fortes e Fracos
-- **Pontos Fortes:** O fim do "Shadowban" cria um ponto de virada muito interessante. O encerramento do primeiro grande arco com a queda do sistema da Aeterna foi muito satisfatório.
-- **Pontos Fracos:** O final traz uma reviravolta que parece um pouco forçada inicialmente com a caçada ao vivo (jogo de sobrevivência), mas é uma nova premissa a ser explorada.
+## Personagens e atuação
 
-## Sanity Check (Lore Compliance)
-- Nenhuma menção a Gabo fumando, bebendo, ou tendo vícios proibidos pelas regras.
-- Os personagens mantiveram a sua essência.
+Valéria trabalha na sessão local de Miranda com ajuda de uma profissional dos cadastros. A mulher controla o que será publicado sobre as vítimas. Gabo tenta conter o ataque ao preso, escolhe retirar Valéria e conserva a responsabilidade por ter saído. A fala de Miranda sobre Dante permanece alegação.
 
-## Avaliação Qualitativa
-A história se expande e a queda de Miranda foi bem escrita e brutal de forma contida. A narrativa permanece envolvente e sem a necessidade de novos heróis. A transição para a "Fase 2" através de um mandato de caçada joga luz sobre o escopo que as coisas podem tomar.
+## Portões
+
+| Critério | Evidência |
+| --- | --- |
+| D1 | 1.126 palavras de prosa, sem título ou metadados; alvo 1.100–1.600 |
+| D2 | Um H1 no formato exigido, igual ao menu |
+| D3 | Localização e elenco distinguem corpo, comunicação, módulo e imagem |
+| D4 | Corpo, identidade, posse e acesso conferidos em 12–18; pendências posteriores abaixo |
+| D5 | Mensagem dirigida ao Comissário Moretti, com a ameaça de uma segunda fase. |
+
+## Notas de leitura
+
+Atmosfera / custo / voz / ritmo / consequência: **2 / 1 / 2 / 2 / 2**. Total: **9/10**.
+
+Frio, vidro, cheiro de fluido e pele queimada interferem na luta. Ferimentos são concretos, mas a morte de Miranda não foi demonstrada e não vale como perda permanente. As vozes têm interesses distintos. As permissões chegam por disputa, não por um firewall derrubado pelo frio. Recuperar uma licença não equivale a restaurar toda a cidadania.
+
+## Pistas e limites
+
+A reversão é parcial e regional. Não há confirmação do resgate de Miranda nem resposta da escolta. A mensagem externa e seu destinatário não provam que Dante esteja enviando ordens. Três cartuchos seguem para a caçada.
+
+O encadeamento conserva os plantios de [8](/capitulo-8.md) e
+[11](/capitulo-11.md), além das observações demonstradas em 12–18. Nenhuma
+revelação futura foi tratada como conhecimento disponível aos personagens.
+
+## Verificação e alcance
+
+Fontes e espelhos sincronizados. Título, extensão, metadados, cadeia de recursos
+e fechamento conferidos por leitura e verificação estrutural. Testes, lint e
+preservação constam do registro editorial da rodada, concluído em 22/10/2026.
+Veredito: **revisão local aplicada; aprovação integral da obra pendente**.

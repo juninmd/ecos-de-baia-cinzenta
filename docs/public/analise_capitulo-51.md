@@ -1,16 +1,17 @@
-# Análise do Capítulo 51: Mãos Limpas
+# Revisão de Capítulo 51: Mãos Limpas
 
-## Avaliação Técnica
-- Ritmo: 9/10
-- Diálogos: 9/10
-- Atmosfera: 10/10
+Fonte: [capítulo 51](/capitulo-51.md).
 
-## Pontos Fortes e Fracos
-- Fortes: Investigação clássica em meio a um ambiente distópico. Introduz um novo vigilante ("O Santo"). A repulsa de Gabo pela fumaça do cigarro de Vilar é explícita e condizente com a diretriz do personagem de rechaçar ativamente o tabaco.
-- Fracos: Curto, as conclusões com Valéria poderiam ter mais resistência investigativa.
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-## Verificação de Sanidade (Lore Compliance)
-- Perfeita. O texto valida as diretrizes centrais: Gabo rejeita ativamente a fumaça ("desviou o rosto, incomodado com a fumaça"). A fragilidade dele pelas órteses e a dor da perda da mãe alinham o herói com a resiliência na dor em vez da indulgência a vícios.
+## Passagens de entrada e saída
 
-## Avaliação Qualitativa
-A inserção de "O Santo" traz um excelente contraponto moral à narrativa, focada na violência física artesanal. Trama e personagens perfeitamente coesos.
+> A chuva ácida de Baía Cinzenta tem o hábito de lavar as evidências, mas aquele corpo estava estranhamente imaculado.
+
+### Saída
+
+> O "Santo" podia estar matando os pecadores, mas Gabo Moretti estava prestes a invadir o inferno.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

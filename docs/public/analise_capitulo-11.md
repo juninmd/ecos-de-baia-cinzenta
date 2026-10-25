@@ -1,28 +1,40 @@
-# Análise Crítica - Capítulo 11
+# Parecer — Capítulo 11: Filtros de Realidade
 
-## Metadados
-- **Capítulo:** 11 (Filtros de Realidade)
-- **Status:** Revisado
-- **Data da Revisão:** Atual
+Revisão de 21/10/2026. Leitura da fonte [atual](/capitulo-11.md), do
+[anterior](/capitulo-10.md) e do [seguinte](/capitulo-12.md).
+Prosa e espelho sincronizados; nota editorial não é nota do script lexical.
 
-## Autoavaliação Técnica
-- **Ritmo:** 8/10
-- **Diálogo:** 9/10
-- **Atmosfera:** 9/10
+## Mudanças e personagens
 
-## Pontos Fortes e Fracos
-- **Pontos Fortes:** A introdução da Dr. Nise expande o lore. A revelação sobre o pai de Gabo (Dante) adiciona um peso emocional e moral muito forte à narrativa.
-- **Pontos Fracos:** A fuga pelo esgoto se repete um pouco em relação a capítulos anteriores, mas faz sentido geograficamente para personagens banidos da superfície.
+Nise atua como médica legista: estabiliza, examina e delimita conclusões. Valéria
+interpreta a estrutura dos registros. Kiko tem recusa e autorização próprias.
+Aria compara cabeçalhos locais, sem acesso irrestrito nem localização da mente
+de Dante. A autorização do pai tem proveniência; sua intenção não é deduzida só
+da assinatura. Nise permanece com a paciente enquanto organiza o transporte.
 
-## Qualidade da História e Coerência de Personagens
-A história entrega excelente qualidade narrativa neste capítulo, servindo como uma importante ponte de lore para justificar o "Shadowban" e a participação nefasta do pai de Gabo (Dante). A qualidade temática é alta (Atmosfera 9/10), mesclando a velha guarda cibernética com os perigos do hiper-controle.
+## Portões
 
-- **Gabriel Moretti:** Totalmente coerente. O choque com a revelação do envolvimento de seu pai (a "Frequência Fantasma") não o paralisa, refletindo seu pragmatismo calejado. Ele lida bem com a descoberta e foca no objetivo imediato (sobrevivência e destruir a fonte do sinal), honrando o arquétipo de detetive focado na missão, mesmo quando a verdade dói.
-- **Valéria Cruz:** Coerente e dramática. A ameaça de perda dos seus implantes visuais e o colapso gradual sob o "Shadowban" impulsionam a urgência e dão uma dimensão física ao problema sistêmico.
-- **Dr. Nise:** Excelente adição ao elenco. Funciona perfeitamente como a velha *ripperdoc* cínica e experiente. Sua presença contrasta com a nova era de controle da Aeterna e solidifica a estética Cyberpunk.
-- **Necessidade de novos personagens:** Não são necessários novos personagens agora. A introdução da Dr. Nise foi pontual, eficaz e bem resolvida neste mesmo capítulo.
+| Critério | Resultado |
+| --- | --- |
+| D1 | 1.226 palavras de prosa; dentro do alvo |
+| D2 | Um H1, igual ao menu |
+| D3 | Local, pessoas presentes e participações indiretas separados |
+| D4 | Estado corporal, hardware e identidades conferidos no bloco; pendências globais abaixo |
+| D5 | Valéria pede preservação do aviso de revogação |
 
-## Sanity Check (Coerência de Lore)
-1. **Há inconsistências com a aversão de Gabo à fumaça?** Não. O capítulo descreve os aromas de "detergente barato e ozônio" no laboratório.
-2. **O conceito de "Frequência Fantasma" se alinha à lore?** Sim. O uso de infra-som pela Aeterna para pacificação mental e o cancelamento digital de pessoas (Shadowban) estão no cerne do controle corporativo.
-3. **O pai de Gabo construir a máquina quebra o arco?** Pelo contrário, fortalece o tema cyberpunk de que o sistema é inescapável e muitas vezes construído pelos próprios antecessores, forçando Gabo a enfrentar os pecados do pai.
+## Notas de leitura
+
+Atmosfera 2: cheiro, mãos feridas, água e explosão interferem. Custo 1: ameaça
+à licença e risco de vida ainda sem desfecho definitivo. Voz 2: Nise exige prova,
+Valéria distingue alcance, Gabo enfrenta a assinatura. Ritmo 2: cuidados e recusa
+conduzem a informação. Consequência 2: a assinatura muda a leitura da busca pelo
+pai. Total: 9/10.
+
+## Limites e continuidade
+
+O efeito de cada receptor não foi medido em toda a cidade. A assinatura não prova
+a intenção completa de Dante. O resultado do ataque, o transporte da paciente
+e a evolução das lesões permanecem a acompanhar. A entrada de Miranda e o leitor
+biométrico de 12 ainda exigem revisão.
+
+Veredito: revisão local aplicada. Aprovação integral do arco permanece pendente.

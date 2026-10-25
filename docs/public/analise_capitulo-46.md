@@ -1,16 +1,18 @@
-# Análise do Capítulo 46: O Dilúvio
+# Revisão de Capítulo 46: O Dilúvio
 
-## Avaliação Técnica
-- Ritmo: 9/10
-- Diálogos: 8/10
-- Atmosfera: 10/10
+Fonte: [capítulo 46](/capitulo-46.md).
 
-## Pontos Fortes e Fracos
-- Fortes: Ambientação "Noir" clássica de escritório sombrio em contraste com a desolação, aliada ao "telepatia/terror tecnológico". Gabo consome café vencido demonstrando desgaste humano não ligado ao fumo.
-- Fracos: Um timeskip pode desorientar levemente o leitor após o apocalipse inicial da água negra, mas serve para avançar o estado urbano.
+Oito unidades partem, duas se perdem na aproximação e seis chegam. O desgaste não as torna inofensivas. Gabo observa da posição a que foi levado com ajuda, sem recuperar as pernas entre cenas.
 
-## Verificação de Sanidade (Lore Compliance)
-- Nenhuma menção a fumo/fumaça. Gabo combate o caos físico novamente (joelho doendo, atirador ferido mas ativo) perante a descoberta de Arthur Vance (o "Imperador"). Lore impecável.
+## Passagens de entrada e saída
 
-## Avaliação Qualitativa
-Excelente re-ancoragem de ritmo, e a revelação do antagonista Arthur Vance interage brutalmente com a temática de "Fantasmas da máquina", mesclando-o aos elementos biológicos dos Bio-Soldados. A história mantém-se fortíssima.
+> Dia oito. Orla Norte.
+> O sismógrafo da estação meteorológica da Rua Onze funcionava desde o ano trinta e um e, em vinte e cinco anos, quase nunca tinha registrado nada além de caminhão passando.
+
+### Saída
+
+> E, atrás deles, a máquina de quarenta metros firmou as seis pernas boas na areia e começou a subir o aterro em direção à cidade, arrastando a sétima e vazando óleo por todo o caminho, sem saber que estava morrendo, do mesmo jeito que o homem que a mandou não sabia que comandava uma frota sem manutenção para uma guerra que outra pessoa já tinha vencido.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

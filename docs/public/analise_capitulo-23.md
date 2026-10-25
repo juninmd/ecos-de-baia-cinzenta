@@ -1,17 +1,42 @@
-# Análise do Capítulo 23: Ratos e Reis
+# Parecer — Capítulo 23: Ratos e Reis
 
-**Avaliação Técnica:**
-*   **Ritmo:** 9/10. Explosivo. Começa com tensão, vai direto para a ação com o carro invadindo o cassino, e termina em um confronto intenso com Miranda.
-*   **Diálogos:** 8/10. Falas no estilo "hardboiled" de Gabo ("Sutileza zero", "Quero as chaves"). O cinismo de Miranda no fim da vida é patético, trágico e crível.
-*   **Atmosfera:** 9/10. O "Palácio de Jade", neon e elite corrupta sob a chuva ácida formam um excelente contraste visual e narrativo.
+Revisão de 22/10/2026. Fonte [atual](/capitulo-23.md),
+[anterior](/capitulo-22.md) e [seguinte](/capitulo-24.md).
+Aplicação desta rodada: 23–28. Leitura do vizinho para continuidade não equivale
+a correção ou aprovação dele. Este parecer é autorrevisão, sem independência.
 
-**Pontos Fortes / Fracos:**
-*   **Fortes:** O confronto com Roberto Miranda encerra o arco de traição da dupla de forma violenta e pragmática. Gabo não hesita, demonstrando a brutalidade do ambiente. Valéria extratindo os dados bruscamente adiciona à natureza implacável do grupo no momento.
-*   **Fracos:** Miranda desiste facilmente de seus "seguranças VIP", mas é compreensível pelo efeito surpresa e pela "Caronte" de Gabo.
+## Personagens e atuação
 
-**Sanity Check (Lore Compliance):**
-*   **Aversão a fumo:** Sem infrações. O ambiente fede a "privilégio decadente", e não há menção a Gabo cedendo a vícios, focando apenas na violência, raiva e determinação.
-*   **Armamento:** O uso da "Caronte" (escopeta) por Gabo é brutal e condizente com a "força bruta" que ele emprega.
+Elena dirige e pergunta antes da entrada. Gabo procura custódia e registros, com o corpo limitado. Valéria usa apoio e conexão local. Miranda continua negociando para sobreviver; seus avisos são depoimento interessado, não narração infalível.
 
-**Avaliação Qualitativa:**
-Ótima continuação. O desenvolvimento de Gabo, aceitando a brutalidade que precisa ter para enfrentar a Aeterna e extraindo a informação de Miranda a força (e o deixando para morrer), cimenta seu "Cinismo Hardboiled". Os personagens agem em perfeita concordância com seus perfis estabelecidos. Sem necessidade de novos atores.
+## Portões
+
+| Critério | Evidência |
+| --- | --- |
+| D1 | 1.142 palavras de prosa; alvo 1.100–1.600; sem H1 ou metadados |
+| D2 | Um H1, formato e título iguais ao menu |
+| D3 | Localização, corpo, comunicação e imagem distinguidos no elenco |
+| D4 | Corpo, posse, fase e acesso conferidos em 23–28; pendências fora do bloco |
+| D5 | O filme público termina antes de mostrar os seguranças armados. |
+
+## Notas de leitura
+
+Atmosfera / custo / voz / ritmo / consequência: **2 / 1 / 2 / 2 / 1**. Total: **8/10**.
+
+Perfume sobre gordura, chuva, vidro e dor interferem na entrada. Ferimento e exposição têm preço sem morte confirmada. Vozes negociam interesses distintos. A cena obtém acesso e atualiza o estado de Miranda, sem resolver ainda a autoria corporativa.
+
+## Pistas e limites
+
+A sessão aberta não libera tudo: exportar chaves exige outra autorização. Há origem, horário e terminal da cópia. A saída da custódia continua sem signatário. A montagem do vídeo torna verificável o risco de divulgar apenas um recorte.
+
+A continuidade usa [13](/capitulo-13.md), [16](/capitulo-16.md),
+[18](/capitulo-18.md) e [22](/capitulo-22.md), além dos plantios locais demonstrados.
+As reparações de agora não são apresentadas como fatos publicados antes da revisão.
+
+## Validação e pendências
+
+Fonte com espelho em symlink relativo, título e extensão conferidos. Testes e
+lint são registrados no relatório editorial; não comprovam qualidade literária.
+29–31 ainda exigem revisão de acesso, olho, ferimentos, armamento e alcance do
+apagão. Destino de Nise e custódia de Miranda permanecem sem confirmação.
+Veredito: **revisão local aplicada; revisão integral e cânone global pendentes**.

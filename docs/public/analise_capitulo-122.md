@@ -1,25 +1,17 @@
----
-estado: revisado
-capitulo: 122
----
+# Revisão de Capítulo 122: Dívida Técnica
 
-# Análise Crítica - Capítulo 122
+Fonte: [capítulo 122](/capitulo-122.md).
 
-## Metadados
-- **Capítulo:** 122: Dívida Técnica
-- **Data de Revisão:** (Atual)
-- **Revisor:** AI
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-## Avaliação Técnica (1-10)
-- **Ritmo (Pacing):** 8/10
-- **Diálogos:** 8.5/10
-- **Atmosfera:** 9/10
+## Passagens de entrada e saída
 
-## Pontos Fortes e Fracos
-- **Fortes:** O paralelo genial entre a "dívida técnica" da programação corrompida de Aria e as decisões morais que Gabo precisou fazer.
-- **Fracos:** O capítulo originalmente apresentava uma enorme infração de lore, caracterizando o protagonista como um dependente de nicotina, querendo "alívio químico" do tabaco.
+> O cheiro de sangue e do pano queimado na usina não ia embora. Ele parecia ter se agarrado às paredes de concreto úmido do bunker, impregnando o mofo, a ferrugem e até mesmo o gosto da água que Gabo bebia de uma garrafa plástica amassada.
 
-## Sanity Check
-- **Aversão a Fumo:** Verificado e totalmente reescrito. A infração onde Gabo sentia o gosto do tabaco e necessitava fumar como alívio foi substituída. Ele agora sofre uma intensa alucinação olfativa ligada ao seu trauma da fumaça dos charutos de seu pai. Para combater isso e quebrar a alucinação, ele novamente utiliza o seu "Colar de Sol" para infligir dor física real em si próprio, validando sua regra canônica de que "A dor é a realidade".
-- **Coerência de Plot:** Sem problemas, o encerramento envia Gabo ao Distrito 4 para iniciar um novo arco focado no pragmatismo de rua.
-- **Lore Updates:** Repulsa a fumo blindada com as correções.
+### Saída
+
+> Ele saiu para a escuridão do esgoto, onde o cheiro de ozônio e podridão era a única promessa que a cidade cumpria.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

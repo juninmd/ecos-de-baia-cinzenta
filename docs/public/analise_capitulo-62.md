@@ -1,16 +1,18 @@
-# Análise: Capítulo 62 - O Santo e a Criança
+# Revisão de Capítulo 62: O Santo e a Voz
 
-**Avaliação Técnica:**
-- Ritmo: 9/10
-- Diálogos: 8/10
-- Atmosfera: 9/10
+Fonte: [capítulo 62](/capitulo-62.md).
 
-**Pontos Fortes / Fracos:**
-- Fortes: Ação tensa e o desenvolvimento do Santo como alguém sendo controlado, e a conexão de Aria. A dor física sofrida por Gabo (costelas estalando) sendo o centro de sua resistência sem recair em vícios.
-- Fracos: A resolução foi um pouco repentina com o recuo do Santo, mas plausível dadas as circunstâncias de controle.
+Aria conserva a apresentação e os critérios de mulher adulta. Compatibilidade entre protocolos não demonstra parentesco nem torna o código herdado sua identidade inteira.
 
-**Sanity Check (Lore):**
-- Totalmente de acordo. Nenhuma menção a fumaça ou cigarro. Gabo se apoia na dor física extrema (estrangulamento, costelas) para sobreviver ao ataque. Suas pernas mecânicas chiando são um ótimo detalhe.
+## Passagens de entrada e saída
 
-**Avaliação Qualitativa:**
-- A história é envolvente e progride a narrativa principal de forma orgânica. A coerência de Gabo e Valéria é mantida. Não é necessária a introdução de novos personagens no momento.
+> Beco industrial, atrás da van.
+> A porta traseira não foi arrombada.
+
+### Saída
+
+> Do jeito que faz quem passou muito tempo sem sentir chuva.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

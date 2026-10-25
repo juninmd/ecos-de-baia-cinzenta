@@ -1,18 +1,17 @@
-# Análise do Capítulo 213: O Peso da Maquinaria
+# Revisão de Capítulo 213: O Peso da Maquinaria
 
-## Avaliação Técnica
-- **Ritmo (Pacing):** 9/10. O foco em um obstáculo puramente físico dá peso à exaustão e sofrimento contínuo do protagonista, gerando uma excelente catarse.
-- **Diálogos:** 9/10. Secos e utilitários. A interação contínua entre a estatística sem coração de Valéria e o esforço orgânico bruto de Gabo enriquece muito a obra.
-- **Atmosfera:** 9/10. A arquitetura colossal com as travas pesadas dá um sentido de escala, enquanto o ambiente estroboscópico reforça a sensação de perigo latente.
+Fonte: [capítulo 213](/capitulo-213.md).
 
-## Pontos Fortes e Fracos
-- **Pontos Fortes:** O resgate temático da fala de Aria de outrora contrastando duramente com a impossibilidade do protagonista de abrir mão de sua dor física, confirmando a prisão psicológica estabelecida no *lore*.
-- **Pontos Fracos:** Como no anterior, é um capítulo de progressão física.
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-## Sanity Check - Auditoria de Coerência
-- **Gabo interagiu com algum fumante? Como sua repulsa foi demonstrada?** Nenhuma interação. Gabo continuou o uso do seu ombro rasgado para gerar dor excruciante contra a alucinação fóbica (o fantasma da fumaça invadindo em resposta ao trauma da pressão e asfixia local), mantendo a fidelidade total à sua psicologia imposta.
-- **O plot twist deste capítulo invalida algo estabelecido nos capítulos anteriores?** Não. As restrições físicas são plenamente respeitadas.
-- **O resumo da lore foi atualizado com os novos eventos?** O grupo finalmente adentra o Hub do Setor 6.
+## Passagens de entrada e saída
 
-## Avaliação Qualitativa
-Extremamente sólido. O embate homem contra máquina num ambiente morto exalta o horror orgânico e físico. Sem necessidade de novos personagens para diluir a atmosfera crua de solidão e desespero.
+> Ultrapassar a muralha de raízes e cabos estilhaçados foi como deslizar pela traqueia congelada de um monstro pré-histórico. Do outro lado da fenda aberta pelo pulso sônico e pela escopeta, o duto de resfriamento abria-se em um átrio colossal de concreto pré-moldado, sustentado por pilares cilíndricos de aço naval que se erguiam até sombras inacessíveis trinta metros acima.
+
+### Saída
+
+> — Nós entramos, garoto, — afirmei, pegando a *Caronte* e destravando a alça nas costas. — Agora vamos descobrir que segredos a Aeterna escondeu nos alicerces mais profundos dessa cidade antes que as portas decidam se fechar de novo.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

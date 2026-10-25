@@ -1,18 +1,18 @@
-# Análise Crítica - Capítulo 106: O Cálculo de Deus
+# Revisão de Capítulo 106: Fios Invisíveis
 
-## Avaliação Técnica
-- **Pacing (Ritmo):** 8/10 - Um capítulo de consolidação do novo vilão (Dante) e de exposição da nova ameaça (O Silêncio).
-- **Dialogues (Diálogos):** 9/10 - O diálogo da tentação ("Eu posso nos dar a família de volta") carrega todo o peso da saga dos Moretti.
-- **Atmosphere (Atmosfera):** 9/10 - Frio, mecânico e doloroso. O porão da biblioteca contrastando com o poder divino da praça cria um dualismo tenso.
+Fonte: [capítulo 106](/capitulo-106.md).
 
-## Pontos Fortes e Fracos
-- **Pontos Fortes:** O destino do irmão de Gabo, Marco Moretti (transformado num drone logístico e desprovido de ego que envia viciados para biomassa), é um castigo perturbador e ironicamente adequado para o ex-político. O "tiro mágico" do drone na praça cimenta Dante como o controle absoluto da infraestrutura. A introdução do "Silêncio" (um blackout criado para se esconder da rede de Dante) é um gancho forte.
-- **Pontos Fracos:** O holograma da mãe apela fortemente ao clichê do vilão tentando corromper o herói, embora a resposta de Gabo tenha sido excelente.
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-## Sanity Check (Lore Compliance)
-- **Regras do Lore:** A limitação de Gabo é central na cena da perna ("O mecanismo hidráulico do joelho direito estava morto. Peso morto... Ele caiu de joelhos"). Nenhuma fumaça, cigarro ou gatilhos fóbicos acionados (o texto especifica o cheiro de ozônio e graxa). Lore impecável.
+## Passagens de entrada e saída
 
-## Avaliação Qualitativa
-- **Qualidade da História:** A trama evolui, saindo da sobrevivência bruta para um xadrez tático entre a onipresença digital e os fantasmas analógicos (O Silêncio).
-- **Coerência de Personagens:** A recusa de Gabo à chantagem da imagem da mãe consolida seu arco estoico e moral.
-- **Necessidade de Novos Personagens:** O "Silêncio" precisará de uma face ou identidade nos próximos capítulos.
+> Delegacia da Biblioteca - 14 horas após a Ascensão
+> A eficiência tinha um som. Não era o som de engrenagens ou pistões, mas o som de canetas riscando papel em uníssono, de passos sincronizados, de ordens sendo cumpridas antes mesmo de serem terminadas.
+
+### Saída
+
+> Ali, a ordem de Dante encontrava o erro humano que ele não conseguia calcular. E naquele erro, algo mais se movia: o Código Morto, pulsando como um vírus antigo em um corpo novo.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

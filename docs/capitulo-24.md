@@ -1,138 +1,108 @@
 ---
 image: /capitulo_24.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, O Taxidermista, Elena Moretti, Aria Moretti
-Localização: "Túneis da Fundação (esgoto sob a cidade) → Corredores da Torre Aeterna"
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, O Taxidermista, Elena Moretti, Aria (módulo no deck), pessoas submetidas a intervenção mecânica
+Localização: "Túneis da Fundação → acesso de carga da Torre Aeterna"
 ---
 # Capítulo 24: A Galeria dos Deformados
 
-O cheiro não era apenas de esgoto. Era um cheiro químico, doce e podre, como flores em decomposição e carne queimada.
+O cheiro não era só de esgoto. Havia formol e óleo quente na água, um fundo doce que Gabo sentia no céu da boca quando precisava respirar pela boca.
 
-A água estava morna, o que era pior do que se estivesse fria, porque morna significava que alguma coisa ali embaixo ainda funcionava. De vez em quando um cano tossia dentro da parede, um golpe surdo de ar comprimido, e os três paravam ao mesmo tempo. O teto era baixo e suado de condensação. Elena andava com o cotovelo colado ao corpo, contando as junções do concreto em voz baixa, como quem reza.
+Elena puxava o carrinho. O estojo do Leviatã batia nas juntas do piso. Tinham deixado o Cobalt numa entrada de manutenção, fora da rampa; ninguém prometera encontrá-lo inteiro na volta. Gabo carregava a lanterna junto do peito, poupando a mão coberta. A tipoia raspava na parede cada vez que o túnel estreitava.
 
-— São dezoito metros até a câmara de tratamento — disse Valéria, sem olhar para trás.
+— Dezoito metros até a câmara — disse Valéria.
 
-— A gente já andou trinta.
+— Já passamos de trinta.
 
-— O mapa é de cinquenta anos atrás, Gabo.
+— O desenho de base é velho. A revisão do Miranda muda as portas, não mede cada curva.
 
-— O mapa é o que você tirou da cabeça do Miranda.
+Ela comparou a marca de uma junção com a foto da planta. Aria só podia ler o que o deck mostrava. Não tinham sinal de fora nem um olho flutuando à frente.
 
-— E o Miranda tirou de um arquivo que ninguém abria desde antes de eu nascer. — Ela parou, ajustou o deck no pulso, e a luz tremeluziu. — Se eu tiver errado quatro metros, a gente está andando dentro de uma parede. Se eu tiver errado trinta, a gente está embaixo do rio.
+O cano sobre eles tossiu. Preso à parede, um mostrador de pressão tremia junto da faixa vermelha. Valéria fez Elena afastar o carrinho da braçadeira enferrujada.
 
-— E qual é?
+— O que mantém isso ligado? — perguntou a jornalista.
 
-— Ainda não sei. Me dá dois minutos antes de me cobrar.
-
-Eles caminhavam pelos túneis da Fundação há uma hora. A água escura batia em suas canelas. Valéria guiava o caminho com a luz do seu deck, projetando o mapa tridimensional que roubaram de Miranda.
-
-— Estamos perto — sussurrou ela. — A entrada de serviço da Torre fica logo após a câmara de tratamento antiga.
-
-— Por que está tão quieto? — perguntou Elena. Ela segurava uma pistola que Gabo lhe dera, segurando-a com as duas mãos, tremendo levemente.
-
-Gabo parou. Ele ergueu o punho.
-
-— Porque não estamos sozinhos.
-
-Ele apontou a lanterna da escopeta para as paredes.
+Gabo iluminou a parede seguinte.
 
 Não eram tubulações.
 
-Eram corpos.
+Eram pessoas presas a estruturas que entravam na alvenaria. Uma mulher acompanhou o facho com os olhos. Um homem tentou falar; o som foi interrompido pelo golpe regular de um fole. Engrenagens sob aventais de manutenção puxavam membros e devolviam os corpos à mesma posição.
 
-Dezenas deles. Embutidos nas paredes de concreto, fundidos com a alvenaria. Alguns tinham partes mecânicas grosseiras substituindo membros. Outros tinham o peito aberto, expondo órgãos que pulsavam com uma luz bioluminescente fraca.
+Elena tirou uma fotografia. Depois outra, mostrando o número da câmara e a mulher viva, para que ninguém pudesse chamar a primeira de detalhe sem lugar.
 
-— Meu Deus — Elena cobriu a boca.
+Elena baixou a câmera e perguntou o nome da mulher. O fole cobriu a resposta. A jornalista esperou o intervalo e perguntou de novo, sem chamar aquilo de peça, paciente sem número ou monstro. A boca continuou tentando antes que o mecanismo fechasse.
 
-— Arte — disse uma voz vinda da escuridão. Uma voz aguda, arranhada, polida.
+— Vamos tirar vocês daqui — começou Gabo.
 
-Gabo girou, apontando a "Caronte".
+Valéria segurou o tecido do casaco dele.
 
-Uma figura emergiu das sombras no final do túnel. Usava um avental de couro pesado, manchado de óleos escuros. Óculos de joalheiro brilhavam em seus olhos. O cheiro chegou antes do rosto: formol, óleo de máquina e alguma coisa doce por baixo, como fruta passada. Ele trazia um pano e uma chave de fenda, e segurava os dois com a naturalidade de quem foi interrompido no meio de um conserto.
+— Olha as conexões antes de prometer.
 
-O Taxidermista.
+— Arte — disse uma voz no escuro.
 
-— Gabriel Moretti — disse ele, fazendo uma reverência teatral. — E a pequena Valéria. E a Sra. Moretti. Que honra. Raramente recebo convidados de tal... qualidade.
+O homem trazia um pano e uma chave de fenda com a naturalidade de quem fora interrompido num conserto. O avental de couro estava manchado; lentes de joalheiro ampliavam os olhos cinzentos. O cabelo grisalho se juntava num rabo oleoso. O cheiro de formol chegara antes.
 
-— Sai da frente — rosnou Gabo.
+O Taxidermista. Gabo conhecia os instrumentos dos relatórios e das fotografias das vítimas. Agora tinha o homem diante deles, num lugar de que Miranda lhes vendera o acesso.
 
-— Sair? Mas a exposição mal começou. — O Taxidermista estalou os dedos longos e finos.
+— Gabriel Moretti. A pequena Valéria. E a senhora da imprensa.
 
-Nas paredes, os "corpos" abriram os olhos. Olhos de vidro, olhos de câmera, olhos vazios.
+— Afasta o mecanismo dessas pessoas — disse Gabo.
 
-Eles começaram a se soltar do concreto. A carne rasgando, o metal rangendo.
+— A droga consome a mente. Eu evito o desperdício do resto.
 
-— Meus "Lázaros" — explicou o Taxidermista, com orgulho paternal. — A droga mata a mente, mas o corpo... o corpo é tão resiliente. Com um pouco de relojoaria e a tecnologia certa, eles se tornam... úteis.
+A mulher junto da parede tentou mover a boca outra vez. O Taxidermista puxou uma alavanca. As travas abriram com um ruído de metal arrancado; os corpos vieram à frente, sustentados pelas armações.
 
-As criaturas avançaram, um coro de gemidos e metal rangendo.
+Valéria ergueu a Caronte. Não podia mantê-la suspensa por muito tempo com as palmas feridas. Apoiou-a no carrinho e esperou que os outros saíssem da linha.
 
-— Fogo! — gritou Gabo.
+O primeiro homem chegou a Gabo com um braço preso num arco dentado. Gabo recuou, tropeçou na roda e sentiu o ombro bater no estojo. Elena o puxou pelo casaco, sem agarrar o braço imobilizado.
 
-O túnel explodiu em som e fúria. O primeiro disparo da "Caronte" desintegrou uma das abominações. Mas elas continuavam vindo, indiferentes.
+Valéria disparou. O conjunto que arrastava a perna do homem quebrou; ele caiu e continuou tentando se mover. Sangrava onde o suporte havia saído. Parar a máquina não lhe devolvera um corpo inteiro.
 
-Gabo recarregou no escuro, empurrando os cartuchos com o calcanhar da mão esquerda, porque dois dedos dela não fechavam mais. Cinco cartuchos. Contou duas vezes porque a primeira contagem não fechou, e o medo fazia isso, embolsava números.
+— A porta de serviço — disse Gabo. — Atrás do carrinho.
 
-— Val, a porta! Agora! — gritou Gabo, recarregando.
+Elena recebeu a Glock da bolsa. Cinco cartuchos, como Valéria avisou antes de soltar a arma. A jornalista se colocou entre eles e a próxima estrutura, com espaço para recuar. O gravador continuava preso à gola; naquele momento, ela não podia escolher apenas registrar.
 
-— Estou tentando! O mecanismo é antigo, está quase fundido! — Valéria estava conectada a um painel na parede, seus dedos dançando sobre o holograma de seu deck.
+Valéria abriu a tampa do leitor junto à porta. A permissão exportada em Jade foi aceita para manutenção, recusada para passagem. Um trinco aparecia como avariado.
 
-Elena disparou sua pistola, os tiros soando como estalidos perto do rugido da escopeta. Ela acertou um atacante no pescoço, mas ele apenas cambaleou. A pistola travou no tiro seguinte. Ela bateu no ferrolho com a base da mão, uma vez, duas, e a arma voltou; não havia tempo para o orgulho de quem nunca quis aprender a atirar.
+— Não é senha — disse. — Tem uma trava mecânica presa.
 
-— Na cabeça, Elena! O cérebro ainda comanda os motores! — instruiu Gabo, disparando novamente.
+Gabo encontrou a alavanca manual abaixo do painel. Não a puxou com o ombro direito: encostou as costas na parede e usou o peso do corpo sobre a barra, com a mão esquerda só guiando. O curativo ficou úmido de novo. A porta ganhou alguns centímetros.
 
-O Taxidermista ria, uma cacofonia aguda que cortava o barulho da batalha.
+O Taxidermista mexeu num regulador preso ao cinto. As estruturas aceleraram. Elena disparou duas vezes; um tiro acertou a armação que bloqueava a passagem, o outro abriu uma marca no concreto. O homem preso nela gritou. Ela não tinha como atribuir cada ferida ao mecanismo ou à bala.
 
-— Magnífico! A luta pela sobrevivência! A pura textura do medo!
+— Tem gente aí dentro! — gritou.
 
-De repente, Valéria parou de hackear. Ela se virou, não para a porta, mas para o Taxidermista. Seus olhos azul-gelo, normalmente frios e analíticos, queimavam com uma fúria que Gabo nunca vira.
+— Eu sei — disse Gabo.
 
-— Você... — ela sibilou, a voz tremendo de raiva. — Esses atuadores... os circuitos de feedback... são meus.
+Valéria deixou o cabo preso e chegou à barra. No painel exposto do regulador, junto do rosto da mulher, reconhecera a disposição de três retornos e uma marca de revisão.
 
-O Taxidermista inclinou a cabeça, um sorriso se espalhando por seu rosto fino.
+— Esse projeto... Você usou meu circuito de prótese.
 
-— Ah, a pequena Valéria. Sim. Seus projetos iniciais de próteses neurais eram... inspiradores. Um pouco ingênuos, claro. Focados em *curar*. Eu vi o verdadeiro potencial. Em *controlar*.
+O Taxidermista sorriu.
 
-— Você os perverteu! — gritou Valéria. — Você pegou minha tentativa de dar vida e a usou para criar escravos! Marionetes de carne podre!
+— Seu primeiro modelo era público. Muito preocupado em devolver a escolha ao usuário. Foi a primeira coisa que retirei.
 
-— A arte exige sacrifício! — retrucou o Taxidermista. — E matéria-prima. Você deveria se sentir honrada. Sua tecnologia, minha visão. Juntos, criamos... a galeria perfeita.
+Ela olhou para a mulher. A boca tentava formar a mesma palavra; o acionamento continuava a fechá-la antes do som.
 
-Por um segundo, Gabo temeu que Valéria fosse atacá-lo. Mas em vez disso, ela se virou para o painel, um novo tipo de determinação em seu rosto.
+— Val, a trava — chamou Elena.
 
-— Aberto! — ela gritou, quando a porta blindada atrás deles finalmente começou a se erguer com um gemido de metal torturado.
+Valéria voltou à barra. Não havia comando universal para desligar aqueles corpos sem saber o que sustentava cada um. O desenho que reconhecia fora alterado. Nem sequer podia garantir que o circuito visível comandava o conjunto inteiro.
 
-— Entrem! — ordenou Gabo.
+Juntas, ela e Elena levantaram a porta o suficiente para passar o carrinho inclinado. Gabo atravessou por último, arrastando o joelho e o casaco. A tentativa de se erguer sozinho lhe arrancou o ar; teve de esperar Elena ajudá-lo pela cintura.
 
-Elena e Valéria passaram por baixo da porta semi-aberta.
+Uma estrutura prendeu o vão. Valéria acionou o fechamento de manutenção. O trinco desceu sobre o braço mecânico e entortou a braçadeira do cano vizinho.
 
-Gabo se virou para o Taxidermista. O assassino estava parado, admirando a cena.
+O mostrador bateu no limite.
 
-— Você é um desperdício de peças, Moretti.
+O estouro veio antes de a porta terminar o curso. Gabo sentiu o golpe no ouvido esquerdo e perdeu metade do som. Poeira e vapor passaram pela abertura; depois o metal encontrou o chão.
 
-Mas foi Valéria quem respondeu. Ela parou do outro lado da porta, o rosto contorcido de ódio.
+Do outro lado houve gritos, passos e algo pesado tombando. Não viram o Taxidermista morrer. Também não podiam contar sobreviventes através do aço.
 
-— Isso não é arte! — gritou ela, sua voz ecoando pelo túnel. — Monstros de Frankenstein movidos a bateria não são arte. Você não é um artista. Você é um vírus! E eu sou o antivírus.
+Elena apoiou a testa na parede limpa e falou a localização para o gravador, incluindo o modo como haviam fechado a passagem. Gabo tentou abrir de novo; a barra não se moveu. Tinha uma lanterna na mão e nenhum recurso para atravessar aquela porta a tempo de alcançar as pessoas.
 
-Ela digitou um comando final no painel. A porta blindada desceu com o dobro da velocidade, esmagando o braço mecânico de um Lázaro que tentava passar.
+— Ele pegou o que eu fiz para alguém andar — disse Valéria.
 
-Gabo puxou uma granada de fragmentação.
+Gabo ficou ao lado dela. Não encontrou uma frase que separasse o tiro, a porta e o homem caído numa parte limpa da lembrança.
 
-— Crítica dura — disse ele. — Aqui vai a minha.
+O corredor à frente cheirava a filtro novo. Elena lhe mostrou o ouvido manchado de sangue na luz da lanterna. Ele só entendeu quando ela falou do lado direito.
 
-Ele lançou a granada. O Taxidermista arregalou os olhos. Gabo mergulhou sob a porta que se fechava.
-
-A explosão sacudiu as fundações da cidade. O túnel atrás deles colapsou, soterrando a "galeria". Do Taxidermista, Gabo não viu nada: nem o avental, nem a chave de fenda, nem um pedaço de osso.
-
-O som entrou em Gabo de lado, um estalo branco que não parava de doer. O ouvido esquerdo fechou. O direito continuou ouvindo o túnel desabar por muito tempo depois de o túnel ter parado de desabar.
-
-Ele conferiu o cinto por hábito. Vazio. A última granada tinha ido embora com a galeria.
-
-Do outro lado, Gabo se levantou. Elena estava pálida, mas assentiu. Valéria, no entanto, tremia de raiva, os punhos cerrados.
-
-— Ele usou meu trabalho — ela sussurrou, a voz cheia de veneno. — Ele pegou algo que eu criei para ajudar e transformou em um pesadelo.
-
-Gabo colocou a mão em seu ombro.
-
-— É por isso que temos que parar tudo isso, Val. Não é só sobre meu pai. É sobre impedir que monstros como ele continuem a existir.
-
-Eles estavam em um corredor limpo, branco, estéril. O ar era frio e cheirava a nada.
-
-— Bem-vindos à Aeterna — disse Gabo, a voz sombria. — O cheiro de merda acabou. Agora começa o cheiro de sangue e dinheiro.
+No leitor atrás deles, o acesso aparecia encerrado com uma palavra verde: **SEGURO**.

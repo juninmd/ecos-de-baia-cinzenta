@@ -7,7 +7,7 @@ Personagens Presentes: Gabo, Valéria
 
 # Capítulo 179: Ecos de Aço e Ferrugem
 
-A dor no meu ombro direito funcionava como um metrônomo quebrado. Um tique-taque elétrico e sujo que contava os segundos da nossa sobrevida. A cada movimento do braço de ferro, os pregos neurais que Vasco cravou na minha escápula enviavam pontadas agudas até a base do crânio. Era o lembrete físico de que eu ainda pertencia ao mundo dos vivos, mesmo que este mundo cheirasse a esgoto podre e poeira de concreto moído.
+A cada movimento da armação, a tração chegava ao fixador e subia pelo meu pescoço. O curativo que Val trocara no beco ainda estava seco; eu conferia a borda por baixo do sobretudo sem abri-lo. A estação cheirava a esgoto e concreto moído. Tínhamos trocado a chuva por um lugar onde eu podia sentar sem encharcar de novo a proteção.
 
 Valéria terminou de amarrar o cyberdeck às costas com tiras de lona encerada para proteger as portas lógicas da umidade. O corte curto do cabelo dela, molhado de chuva ácida, grudava nas têmporas pálidas, onde os fios de LED azul piscavam num compasso irregular.
 
@@ -51,13 +51,13 @@ Valéria se agachou a dois metros da borda da massa luminosa, os olhos prateados
 
 — Eles estão construindo uma rede própria no escuro.
 
-— E com fome de metal limpo — ela se levantou rápido, recuando um passo e apontando a lanterna para os dutos superiores, onde raízes fibrosas rastejavam como veias pulsantes sobre o concreto. — Apaga o indicador do seu ombro, Moretti. A frequência dessa luminescência é de dois hertz. Eles reagem a calor e pulso eletromagnético. Se essa colônia perceber a corrente do seu braço mecânico, essas raízes vão tentar sugar sua bateria antes de você puxar o gatilho.
+— E com fome de metal limpo — ela se levantou rápido, recuando um passo e apontando a lanterna para os dutos superiores, onde raízes fibrosas rastejavam como veias pulsantes sobre o concreto. — Apaga o indicador do seu ombro, Moretti. A frequência dessa luminescência é de dois hertz. Eles reagem a calor e pulso eletromagnético. Ela reagiu quando o sensor chegou perto, mas não sabemos se foi luz, calor ou movimento. Não encoste o suporte nela para testar.
 
 Levei a mão de carne ao painel da armação e girei o dial até o ponto morto. O LED verde do ombro morreu, e com ele morreu metade da força: os pistões travaram na posição em que estavam, e o braço virou de repente um peso de vinte quilos pendurado na clavícula, sem contrapeso, sem ajuda.
 
 — Quanto tempo? — perguntei.
 
-— Sem o indicador, a bateria não descarrega. — Ela varreu a colônia com o scanner. — Mas o motor também não trabalha. Você vai subir essa escada com o braço morto. Se escorregar, não tem pistão pra te segurar.
+— Apagar o indicador só esconde a luz. Você desligou o atuador inteiro; a bateria ainda perde carga em repouso. — Ela varreu a colônia com o scanner. — Mas o motor também não trabalha. Você vai subir essa escada com o braço morto. Se escorregar, não tem pistão pra te segurar.
 
 — Já subi pior, Val.
 

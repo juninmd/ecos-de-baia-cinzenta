@@ -1,190 +1,110 @@
 ---
 layout: doc
 title: "Capítulo 33: A Sabedoria da Ferrugem"
-description: "Gabo desce para buscar um carro velho e sobe com uma frota, uma dívida e a descoberta de que a cidade agora depende de quem ela aposentou."
+description: "No oitavo dia, um carro guardado e onze chaves oferecem uma saída. O homem que as entrega pede um médico."
 image: /capitulo_33.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Valéria "Val" Cruz
-Localização: "Estacionamento subterrâneo da Rua Quatro → Ruas da cidade (Rua Seis)"
+Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Valéria "Val" Cruz, Otávio Farias, Aria (módulo no painel), Dilma Farias (citada)
+Localização: "Abrigo escolar → estacionamento da Rua Quatro → Rua Seis"
 ---
 
 # Capítulo 33: A Sabedoria da Ferrugem
 
-No oitavo dia sem energia, a cidade era outro bicho.
+No oitavo dia sem distribuição elétrica, a cidade era outro bicho.
 
-Não era a mesma cidade mais escura: era um animal diferente, com outra anatomia. Beco que Gabo conhecia de cor virava abismo. Esquina que ele usava como referência havia quinze anos deixava de existir, porque o que marcava a esquina era o letreiro da farmácia, e o letreiro da farmácia era luz.
+O letreiro da farmácia deixara de ser uma esquina. Sem a luz, Gabo só via portas iguais. Elena parava para contar os prédios antes de empurrar a cadeira pela próxima poça. O pneu dianteiro, fino demais, prendia nas juntas da calçada.
 
-Eles andavam rente ao tijolo molhado, em fila, no ritmo do mais lento — e o mais lento era ele.
+A cadeira tinha vindo da escola. Durante sete dias, uma equipe de saúde fizera curativos, controlara o sangramento e mantivera a perna direita imobilizada. Não havia equipamento para corrigir o osso nem vaga confirmada para transferi-lo. A ficha que Elena guardava dizia que ele não podia apoiar o membro.
 
-A única luz era a lanterna acoplada à pistola de Elena. Um feixe estreito, cirúrgico, que ela mantinha baixo e desligava a cada dez passos, porque luz em cidade escura é o mesmo que gritar o próprio endereço.
+O braço direito continuava preso. O pano da tipoia estava amarelado onde a água de lavagem não tirara o sangue. Valéria mantinha o curativo do ombro e enxergava só à direita; Elena ainda sentia náusea quando se levantava rápido. Nenhum dos três saíra da escola porque tinha ficado bom.
 
-— Precisamos do carro — disse Gabo, parando para respirar. O joelho tinha passado de dor a brasa nas últimas duas horas, e ele já estava naquela fase em que o corpo negocia: *mais duzentos metros e depois a gente conversa.* — O Cobalt está num estacionamento subterrâneo na Rua Quatro. Lata velha, ninguém deu valor.
+Saíram porque o estoque diminuíra antes da fila. Precisavam chegar a um serviço com transporte e encontrar notícias de Nise. O pedido anterior a Vilar continuava sem resposta que pudessem conferir.
 
-— Cinco quarteirões — disse Elena, sem consultar nada, porque o mapa dela era mental e continuava funcionando, ao contrário de todos os GPS da cidade. — E cinco quarteirões hoje não são cinco quarteirões.
+— O Cobalt está na Rua Quatro — disse Elena. — Cinco quarteirões.
 
-— É mais arriscado do que virar estatística no meio da rua?
+Ela o recuperara no segundo dia, no acesso de manutenção onde o tinham deixado antes dos túneis. Levara a chave com a permissão de Gabo e voltara com o carro para transportar feridos da avenida. Quando faltou passagem junto à escola, guardara-o na garagem onde ele já pagava mensalidade. Otávio aceitara a chave e anotara o combustível restante num caderno.
 
-— É uma aposta, é o que eu estou dizendo. Você quer que eu jogue com você, eu jogo. Só não me fala que é seguro.
+Agora a cadeira não passava pelo entulho da rua mais curta.
 
----
+— Você quer que eu aposte, eu aposto — disse Elena. — Só não me chama isso de caminho seguro.
 
-Levaram quarenta minutos.
+Levaram quarenta minutos. Às onze da noite havia uma fila diante de um posto, com galões, baldes e garrafas. Uma mulher dormia sentada sobre o próprio recipiente. O motor de uma bomba trabalhava atrás da porta, alimentado por um gerador pequeno. Não faltava toda energia. Faltava chegar a quem controlava a próxima tomada.
 
-No caminho passaram por três carros autônomos parados no meio da via com as portas abertas, mortos exatamente onde o sinal caiu, alinhados como lápides de um cemitério muito organizado. Passaram por uma loja de eletrônicos com a vitrine arrancada e nada levado — porque não havia mais o que fazer com nada daquilo.
+O portão automático da garagem estava parado. Val olhou a caixa do motor e a liberação manual atrás da grade.
 
-E passaram por uma fila.
+— A manivela fica por dentro. Não vou adivinhar onde meter corrente nisso.
 
-Essa foi a parte que Gabo não esqueceu: às onze da noite, havia uma fila de quarenta pessoas em silêncio na porta de um posto de gasolina, com galões, baldes e garrafa de refrigerante na mão. Ninguém empurrava. Ninguém falava.
+Elena bateu na porta de pedestres com a chave. Chamou Otávio. Uma luz amarela se aproximou, e uma voz pediu mãos à vista antes de tirar a corrente.
 
-A cidade tinha entendido a coisa mais rápido do que ele.
+Ele tinha setenta e poucos anos, o nome bordado na camisa e uma espingarda apontada para o chão. O lampião fazia sombra por baixo de seus olhos.
 
----
+— O senhor é o do azul metálico. Vaga cento e doze. Paga sempre com três dias de atraso.
 
-O portão automático do estacionamento estava travado, como esperado.
+— Quatro — disse Gabo.
 
-— Val?
+— Quatro. Desce devagar. A rampa termina num buraco que eu ainda não consegui tampar.
 
-— Sem energia, sem hack. — Ela tateou a grade fria, e por um instante a voz dela ficou de menina. — Se eu tivesse uma bateria de doze volts eu dava um curto no motor da corrente. Se eu tivesse doze volts eu resolvia metade dos problemas dessa cidade.
+Otávio Farias trabalhava ali havia trinta e um anos. Tinha guardado quarenta e dois carros durante o apagão. Disse que enxotara três grupos com a espingarda e um cartucho.
 
-— Elena.
+— Um? — perguntou Elena.
 
-O portão de pedestres estava emperrado de ferrugem. Elena bateu com o pé uma vez, no ponto certo, na altura da tranqueta, e ele cedeu.
+— Eles não sabem que é um.
 
-Desceram a rampa.
+Não ficara por coragem. Dilma, a mulher, estava no quarto andar do prédio de cima, com a bacia quebrada desde janeiro. Sem elevador e sem equipe para transportá-la, ele não iria embora.
 
-O ar lá embaixo era pesado e cheirava a mofo, óleo queimado e concreto úmido — o cheiro que Gabo associava, sem nunca ter pensado nisso, a segurança. Um estacionamento subterrâneo é a coisa mais parecida com uma caverna que uma cidade produz.
+O subsolo cheirava a querosene, mofo e óleo velho. Gabo viu a poeira sobre o capô do Cobalt e a marca recente do pano que Otávio passara no para-brisa. A garagem guardara o carro melhor do que a escola pudera guardar sua perna.
 
-Foi a Val quem viu primeiro.
+Elena ajudou na passagem da cadeira para o banco do passageiro. Foram precisos dois movimentos e uma pausa longa. Gabo deixou que ela fizesse sem pedir a chave.
 
-— Gabo. Tem luz ali no fundo.
+Quando o motor pegou, a vibração chegou pelo assento antes do som. Cheiro de gasolina, faróis amarelos, o ventilador tossindo pó. Val entrou atrás e fechou os olhos diante do primeiro sopro de ar.
 
-Não era lanterna. Era luz amarela, quente, oscilando: fogo dentro de vidro.
+Elena ligou o deck ao alimentador do carro. A bateria começou a receber carga. Elena deixou o telefone no segundo cabo enquanto abriam o porta-malas. Depois Val reconectou o módulo de Aria e aguardou a sequência de partida. Não abriu o projetor; precisavam conservar energia. A câmera do deck ficou voltada para a rua, oferecendo a Aria um recorte da saída.
 
----
+— *Perdi o intervalo depois da suspensão* — disse a voz adulta. — *Onde estamos?*
 
-Ele estava sentado numa cadeira de praia no meio do subsolo, entre duas fileiras de carros, com um lampião a querosene em cima de um caixote e um rádio de pilha desligado no colo.
+Gabo respondeu garagem, Rua Quatro, oitavo dia. Val ofereceu o registro de tempo do deck. Aria pediu que confirmassem o relógio antes de tratá-lo como referência.
 
-Setenta e poucos anos. Camisa de uniforme com o nome bordado. Uma espingarda de caça encostada na perna da cadeira, apontada para o chão, do jeito de quem sabe mesmo mexer com aquilo.
+— E a cidade? — perguntou ele.
 
-— Devagar — ele disse. — Muito devagar, e me mostra as mãos, moço.
+— *Daqui eu recebo os instrumentos do carro. A cidade você vai ter de me contar.*
 
-Gabo mostrou as mãos.
+Ele ficou ouvindo o motor depois da resposta. Queria ter dito que sentira falta dela; perguntou se a temperatura estava normal. Aria respondeu sobre o carro, sem fingir que não ouvira a pausa.
 
-— Eu sou polícia.
+No porta-malas, Elena conferiu o pequeno estojo que guardara desde a recuperação: quatro cartuchos de calibre 12 e um carregador da Glock com seis tiros. Colocou dois cartuchos nos canos da Caronte e guardou os outros dois à parte. A pistola recebeu o carregador.
 
-— E eu sou o Otávio, e faz oito dias que eu não vejo polícia nenhuma. Continua devagar.
+— Quantos desses funcionam? — perguntou Gabo, olhando a garagem.
 
-Ele levantou o lampião e olhou o rosto dos três, um por um, sem pressa nenhuma. Parou no de Gabo.
+— Onze eu testei — respondeu Otávio. — Tenho chave e consegui dar partida. Nos outros, tem bateria morta, peça faltando e uns que pedem autorização de servidor que não atende. Não é a mesma doença em todos.
 
-— O senhor é o do azul metálico. Vaga cento e doze. Paga o mensalista sempre com três dias de atraso.
+Gabo olhou os carros como veículos de transporte pela primeira vez desde que entrara.
 
-Gabo baixou as mãos.
+— Venha com a gente. A gente busca sua mulher.
 
-— Quatro.
+Otávio indicou a cadeira vazia ao lado da porta.
 
-— Quatro — concordou o velho, e abaixou a espingarda.
+— O senhor não consegue carregar o senhor. A Dilma pesa oitenta quilos e tem a bacia quebrada. Não vou deixar vocês derrubarem minha mulher na escada.
 
----
+Foi buscar um molho de chaves preso num aro de arame. Onze tinham fita azul.
 
-Otávio Farias trabalhava naquele estacionamento havia trinta e um anos.
+— Leva. Anota quem vai usar. Tem gente precisando sair de lugar pior.
 
-Ele não tinha ficado ali por coragem, e explicou isso sem nenhum constrangimento, mastigando um pedaço de pão dormido enquanto falava: a mulher dele estava no quarto andar do prédio em cima, com a bacia quebrada de uma queda em janeiro, e não descia escada. Sem elevador, ela não descia. E ele não ia embora sem ela.
+Elena não estendeu a mão imediatamente.
 
-Então ele ficou. E, ficando, defendeu quarenta e dois carros de três tentativas de saque em oito dias, sozinho, com uma espingarda de caça e um cartucho.
+— Os donos autorizaram?
 
-— Um? — disse Elena.
+— Alguns. Outros não vieram buscar nem saber do carro. Eu respondo pela chave que entrego. Vocês vão responder pelo que fizerem com ela.
 
-— Um. — Otávio deu de ombros. — Mas eles não sabem que é um.
-
-Gabo mancou até a vaga cento e doze e passou a mão no capô do Cobalt. A poeira estava fina e uniforme, e por baixo o metal estava frio.
-
-— Oi, garota.
-
-Ele puxou a chave do bolso. Não um cartão, não um chip de presença: um pedaço de metal serrilhado, gasto de tanto entrar e sair de fechadura. Enfiou na porta. O clique mecânico soou dentro da garagem vazia como um tiro.
-
-Girou a ignição.
-
-O motor tossiu. Tossiu de novo. Engasgou como velho fumante acordando de madrugada.
-
-E rugiu.
-
-Não o zumbido estéril de um elétrico: um rosnado grosso de explosão controlada, cheiro de gasolina não queimada e uma vibração crua que sacudiu o chassi e subiu pelo assoalho. Os faróis se acenderam amarelos e quentes e riscaram o concreto.
-
-Era uma máquina burra, ineficiente, barulhenta e suja.
-
-E era a única coisa viva e livre em quinze quilômetros.
-
-— **Ar condicionado** — gemeu Val, se jogando no banco de trás.
-
----
-
-Foi aí que a coisa mudou de assunto.
-
-Gabo desceu do carro deixando o motor ligado e olhou a garagem inteira, iluminada de amarelo pelos faróis, e viu quarenta e dois carros com a poeira de oito dias.
-
-— Seu Otávio. Quantos desses funcionam?
-
-— Sem energia? — O velho fez um som com a boca, calculando. — Onze.
-
-— Onze?
-
-— Onze, moço. Os outros trinta e um é tudo eletrônico. Não é nem que a bateria acabou. É que eles precisam falar com um servidor lá na China para aceitar que o dono é o dono. Tem uns quatro ali que estão com o tanque cheio e não abrem a porta.
-
-— E os onze, o senhor sabe quais são de cabeça?
-
-Otávio olhou para ele com uma paciência quase ofendida.
-
-— Eu sei o nome do cachorro do dono do cento e sete.
-
-Gabo ficou parado um segundo.
-
-Ele tinha descido ali para buscar um carro. Estava olhando para uma frota — e, mais que a frota, estava olhando para o único homem em Baía Cinzenta que sabia distinguir, à noite, no escuro, sem manual, o que ainda era máquina do que era só enfeite conectado.
-
-E o homem tinha setenta e poucos anos e uma mulher no quarto andar.
-
-— Venha com a gente — disse Gabo.
-
-— Não.
-
-— A gente sobe e carrega a sua esposa.
-
-— Vocês três? — Otávio riu, sem maldade. — O senhor está mancando de um jeito que eu não vou nem comentar, a moça tem metade do meu tamanho e essa aí de cabelo colorido pesa quarenta quilos molhada. A Dilma pesa oitenta e tem a bacia quebrada. Vocês iam derrubar a minha mulher na escada, e eu ia ter que ficar bravo com vocês.
-
-Ele se abaixou, remexeu numa caixa de ferramentas e tirou um molho de chaves preso a um aro de arame — grande, pesado, com etiqueta de plástico amarelado em cada uma.
-
-Estendeu para Gabo.
-
-— Leva.
-
-— Seu Otávio—
-
-— Leva, moço. — Ele empurrou o molho contra o peito de Gabo. — Eu marquei os onze com fita azul no cabo. Quando a cidade voltar, o senhor devolve. Se não voltar, aqui embaixo tem onze carros que andam, e lá fora tem um monte de gente que precisa sair de onde está.
-
-Gabo fechou a mão em volta do arame.
+Ela escreveu vagas e modelos no verso de uma folha. Não chamou a lista de autorização de quem não tinham ouvido. Gabo prometeu registrar cada retirada.
 
 — O que o senhor quer em troca?
 
-O velho pensou uns três segundos, e a resposta veio no tom com que se pede um copo d'água.
+Otávio olhou a porta da rampa antes de responder.
 
-— Quando o senhor achar um médico, manda ele subir no quarto andar do quatrocentos e dez.
+— Um médico. Quarto andar do quatrocentos e dez. Ela está pior desde ontem.
 
----
+Elena perguntou sobre febre, comida e a última visita. Anotou as respostas para entregar a alguém da saúde. Gabo quis dizer amanhã e parou antes de prometer uma hora que ainda não podia cumprir.
 
-Eles subiram a rampa com o Cobalt em primeira e o motor roncando alto demais para o silêncio da rua.
+Saíram com Elena ao volante, Otávio erguendo o portão pela corrente manual e o motor roncando alto demais. O endereço ficou no bolso do sobretudo de Gabo. No colo de Val, as onze fitas azuis batiam umas nas outras.
 
-Val estava calada no banco de trás, o que não era normal.
+Ele levaria dezenove dias para conseguir cumprir aquele endereço.
 
-— Ele vai morrer ali, né? — ela disse, por fim.
-
-— Provavelmente.
-
-— E a gente vai embora assim mesmo.
-
-— Vai. — Gabo virou na Rua Seis, sem farol, guiando pela memória. — E daqui a duas semanas onze famílias vão sair da Zona Baixa dentro dos carros que ele guardou, e nenhuma delas vai saber o nome dele.
-
-Elena olhou para ele de lado, no escuro, e não disse nada.
-
-No colo dela, o molho de chaves fazia barulho a cada buraco da rua.
-
-Onze fitas azuis.
-
-E, no bolso do sobretudo, um endereço que Gabo Moretti ia levar dezenove dias para conseguir cumprir — dezoito a mais do que a Dilma Farias tinha.
+Dilma Farias tinha mais um.

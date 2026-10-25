@@ -1,16 +1,42 @@
-# Análise do Capítulo 19: O Código Morto
+# Parecer — Capítulo 19: O Código Morto
 
-## Avaliação Técnica
-- **Ritmo (Pacing):** 8/10. O capítulo lida com as consequências da queda e estabelece um momento reflexivo necessário.
-- **Diálogos:** 8/10. Secos e cheios do pragmatismo característico da série.
-- **Atmosfera:** 8.5/10. O peso da revelação na "Zona Morta" constrói bem o clima pré-clímax, unindo o físico (dor do Gabo) com o intangível (o código do sistema).
+Revisão de 22/10/2026. Fonte [atual](/capitulo-19.md),
+[anterior](/capitulo-18.md) e [seguinte](/capitulo-20.md).
+A aplicação desta rodada cobre 19–22; leitura para continuidade não equivale a
+aprovação dos capítulos vizinhos ou do livro inteiro.
 
-## Pontos Fortes e Fracos
-- **Pontos Fortes:** O rescaldo da queda de 150 andares é sentido na carne. O ombro avariado de Gabo serve como contrapeso às habilidades do grupo, ancorando-o na realidade da dor física extrema, consistente com seu lore. A fuga para a "Zona Morta" reforça o tema analógico da obra.
-- **Pontos Fracos:** Funciona mais como uma ponte transitória, faltando talvez um pequeno *punch* para prender com o próximo.
+## Personagens e atuação
 
-## Sanity Check (Lore Compliance)
-- **Fumaça:** Nenhuma violação. Nenhuma menção a cigarros ou gatilhos asfixiantes fóbicos. A mente de Gabo é mantida no foco tático usando o ombro quebrado como sua dor central.
+Gabo conserva a função de investigador ao pedir preservação e registrar a visita. Valéria interpreta arquivos com acesso demonstrado; Aria compara dados locais. Nenhuma das duas transforma estilo de código em identificação infalível.
 
-## Avaliação Qualitativa
-A história se afunila. O capítulo entrega exatamente a pausa necessária após uma explosão gigante. Os personagens permanecem íntegros em suas limitações (Gabo quebrado fisicamente, Valéria lidando com o código/hacker).
+## Portões e extensão
+
+| Critério | Evidência |
+| --- | --- |
+| D1 | 1.281 palavras de prosa, excluindo metadados, H1 e pontuação isolada |
+| D2 | Um H1 igual ao menu e no formato exigido |
+| D3 | Localização e elenco distinguem presença física de registro |
+| D4 | Recursos, corpo e identidades conferidos no bloco; conflitos posteriores pendentes |
+| D5 | O fechamento produz ameaça ou pergunta; não resume o capítulo |
+
+## Notas de leitura
+
+Atmosfera / custo / voz / ritmo / consequência: **2 / 1 / 2 / 2 / 1**. Total: **8/10**.
+
+Ferrugem, frio e zumbido integram a recuperação. A pausa cobra dependência sem fingir perda permanente. O conflito entre raiva e método conduz a consulta; a coordenada abre a próxima cena, ainda sem resolver o caso.
+
+## Pistas e limites
+
+A chave é testada numa cópia. Cabe autoria real, conta compartilhada ou montagem; o relógio do equipamento não foi autenticado. As coordenadas e a remoção anunciada justificam preservar a cena, não declarar Dante vivo.
+
+Os plantios e limites vêm de [11](/capitulo-11.md), [13](/capitulo-13.md),
+[16](/capitulo-16.md) e [18](/capitulo-18.md), além das observações locais.
+As reparações desta revisão não são apresentadas como plantios anteriores.
+
+## Verificação e alcance
+
+Fonte e espelho em symlink relativo; extensão, H1 e metadados conferidos.
+Validação técnica registrada no pacote editorial; notas são autorrevisão,
+sem revisão independente. Continuam abertas autenticidade, destino de Nise,
+fase de ferimentos nos capítulos seguintes e revisão integral da obra.
+Veredito: **revisão local aplicada; aprovação global pendente**.

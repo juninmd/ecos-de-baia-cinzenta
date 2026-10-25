@@ -43,7 +43,7 @@ O silêncio do túnel pareceu cair sobre nós como uma laje de chumbo. O gotejar
 
 — Não é sobre o Dante, Val — minha voz saiu mais baixa do que eu pretendia.
 
-— É claro que é sobre ele. É sempre sobre ele, ou sobre o arquivo que ele deixou, ou sobre a cidade que ele tentou consertar arrancando o coração de todo mundo — ela se agachou na minha frente, ignorando a poça de lodo que manchava o joelho da calça. A expressão dela perdeu a agressividade, revelando a exaustão profunda sob a maquiagem manchada de chuva. — O Vasco colocou esse troço no seu ombro pra você não morrer de choque hemorrágico. Não foi pra você ficar procurando motivo pra quebrar a própria clavícula. Se você desmoronar, quem é que vai atirar com a *Caronte* quando o próximo monstro aparecer? Eu? Minha mão mal segura o soldador hoje.
+— É claro que é sobre ele. É sempre sobre ele, ou sobre o arquivo que ele deixou, ou sobre a cidade que ele tentou consertar arrancando o coração de todo mundo — ela se agachou na minha frente, ignorando a poça de lodo que manchava o joelho da calça. A expressão dela perdeu a agressividade, revelando a exaustão profunda sob a maquiagem manchada de chuva. — A equipe tratou o sangramento. O Vasco colocou o suporte para sustentar o braço imobilizado. Não foi pra você ficar procurando motivo pra quebrar a própria clavícula. Se você desmoronar, quem é que vai atirar com a *Caronte* quando o próximo monstro aparecer? Eu? Minha mão mal segura o soldador hoje.
 
 Olhei para os dedos finos dela. As pontas estavam avermelhadas de frio e os implantes de pulso tremiam discretamente contra a manga da jaqueta.
 
@@ -77,7 +77,7 @@ Ela soltou uma risada genuína, curta e rouca, que ecoou pelos trilhos mortos co
 
 — Eu também — murmurei.
 
-— Então para de forçar essa armação de lata e descansa vinte minutos — ela fechou os olhos, puxando o zíper da jaqueta até o queixo. — A gente ainda tem quatro quilômetros de túnel escuro até o Setor 6. E se você cair no caminho, eu vou te arrastar pelo sobretudo só pra ter o prazer de reclamar o caminho inteiro.
+— Então descansa vinte minutos. — Val conferiu o detector e os lacres dos dois cilindros antes de fechar a mochila; a reserva continuava guardada para retirada. — O mapa dá quatro quilômetros até o Setor 6. A gente só segue enquanto achar passagem e ar que os cartuchos deem conta de filtrar. Se o detector apitar, para. Não vou gastar todo o ar para chegar mais depressa a outro buraco.
 
 — Combinado, Val.
 

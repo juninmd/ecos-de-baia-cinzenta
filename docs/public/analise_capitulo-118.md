@@ -1,18 +1,17 @@
-# Análise Crítica - Capítulo 118: O Colapso da Onda
+# Revisão de Capítulo 118: O Colapso da Onda
 
-## Avaliação Técnica
-- **Pacing (Ritmo):** 10/10 - Uma resolução espetacular para o clímax do tanque. O sacrifício de Aria funciona mecanicamente e emocionalmente.
-- **Dialogues (Diálogos):** 9/10 - "O silêncio... é tão... alto." é uma fala incrível para a queda de um deus digital.
-- **Atmosphere (Atmosfera):** 10/10 - O som do guincho digital, a quebra do tanque, e a fumaça de plástico criam o fim da tirania biopunk com perfeição.
+Fonte: [capítulo 118](/capitulo-118.md).
 
-## Pontos Fortes e Fracos
-- **Pontos Fortes:** A solução do Dilema do Bonde através do sacrifício do pendrive de Aria atuando como fusível ("descarrilar o trem") prova o crescimento do tema humano da obra. Gabo poupando Dante (agora vulnerável e inútil) mostra um encerramento real do ressentimento paternal. O *boss fight* não foi na bala, foi na moral e no *hardware*.
-- **Pontos Fracos:** Nenhum; a fala final de Aria no alto-falante foi ajustada para manter a fidelidade absoluta ao cânone.
+A energia é descarregada num banco local. O retorno atinge o módulo de Aria; não são milhares de mentes absorvidas por um pendrive. O resgate solicitado não confirma todos salvos.
 
-## Sanity Check (Lore Compliance)
-- **Regras do Lore (VERIFICADO):** Aria opera exclusivamente a partir do pendrive de titânio fosco acoplado ao console central de Prometeu por Valéria, derretendo seus barramentos internos para absorver a descarga neural dos Drenados. Nenhuma menção a tabagismo por parte de Gabo.
+## Passagens de entrada e saída
 
-## Avaliação Qualitativa
-- **Qualidade da História:** O capítulo é um triunfo literário da ficção biopunk/cyberpunk, amarrando quase todas as pontas soltas da ameaça principal.
-- **Coerência de Personagens:** Gabo desistindo da *Caronte* contra Dante é uma ótima subversão do herói justiceiro cego.
-- **Necessidade de Novos Personagens:** O capítulo é estritamente do núcleo base. Nenhuma necessidade.
+> O líquido no tanque borbulhava, uma sopa amniótica para um deus artificial.
+
+### Saída
+
+> Val registrou a posição e transmitiu o pedido de resgate e custódia no canal de emergência. Não recebeu confirmação. Atrás deles, Dante Moretti continuou deitado no chão molhado, tremendo no escuro, enquanto as sirenes de evacuação começavam a uivar.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

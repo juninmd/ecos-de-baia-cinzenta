@@ -1,18 +1,17 @@
-# Análise Crítica - Capítulo 205
+# Revisão de Capítulo 205: Colosso de Sucata
 
-## Avaliação Técnica
-- **Ritmo (Pacing):** 9/10. A transição da descoberta no final do Capítulo 204 para a ação imediata no 205 manteve a tensão alta. O combate não se prolongou, sendo resolvido com uso inteligente do ambiente ao invés de força bruta irreal.
-- **Diálogos:** 8/10. Secos e práticos. Valéria manteve seu tom analítico, contrastando bem com o pânico de Elias e as ordens urgentes e rasgadas de Gabo. A interação fluiu naturalmente durante o combate.
-- **Atmosfera:** 9/10. A descrição da criatura como "descarte corporativo" e o ambiente decrépito reforçam a sujeira e a desolação cyberpunk/noir. O foco nos sons metálicos e no cheiro de ozônio/ferrugem fortalece a estética estabelecida.
+Fonte: [capítulo 205](/capitulo-205.md).
 
-## Pontos Fortes e Fracos
-- **Pontos Fortes:** O uso do ambiente (guindaste enferrujado) para derrotar o inimigo e a forma como a dor física de Gabo foi incorporada ativamente na cena de ação como um mecanismo de defesa contra o trauma do fumo.
-- **Pontos Fracos:** Elias tem um papel muito passivo no combate. Embora seja coerente com sua inexperiência, ele poderia ser integrado sutilmente para não parecer apenas um peso morto nos próximos capítulos.
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-## Sanity Check
-- **Gabo interagiu com algum fumante? Como sua repulsa foi demonstrada?** Não houve fumantes presentes. Porém, Gabo sentiu o cheiro fantasma de fumo (alucinação atrelada ao estresse). Para não ceder ao pânico, ele forçou propositalmente a dor em seu ombro machucado para se ancorar à realidade, respeitando perfeitamente a lore.
-- **O plot twist deste capítulo invalida algo estabelecido nos capítulos anteriores?** Não. A vitória através da degradação ambiental se encaixa com o avanço da Praga de Ferro apresentada anteriormente.
-- **O resumo da lore foi atualizado com os novos eventos?** Sim. Os eventos de combate no armazém do Setor 6 reforçam as consequências materiais do apocalipse da Praga de Ferro.
+## Passagens de entrada e saída
 
-## Avaliação Qualitativa
-A narrativa prossegue de maneira orgânica e coesa. O personagem de Gabo permanece fiel às suas características centrais, operando mais pela resiliência e dor do que por heroísmo convencional. Não há necessidade de novos personagens no momento; a dinâmica do trio é suficiente para a atual fuga pelo subsolo. A coerência estética do universo "sucateado" foi bem mantida.
+> A aberração que se ergueu da cratera de carga não pertencia à biologia nem à engenharia limpa da Aeterna. Era um leviatã de sucata compactada: vigas I de aço estrutural retorcidas como fêmures, lagartas dentadas de perfuração industrial formando uma couraça impenetrável e quatro braços de escavadeiras hidráulicas erguendo-se como foices monstruosas. Na junção onde deveria repousar uma cabeça, uma cabine de empilhadeira estilhaçada piscava faróis amarelos quebrados, iluminando a poeira vermelha com um olhar doentio e sem pupilas.
+
+### Saída
+
+> — Então recolhe as ferramentas, Elias, — Valéria ordenou, batendo a poeira das calças táticas. — A gente acabou de fazer um barulho que com certeza acordou tudo que dorme no Setor Seis. É hora de sumir dessa tumba antes que os parentes dessa sucata venham pro velório.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

@@ -1,102 +1,110 @@
 ---
 image: /capitulo_30.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Kael "O Cirurgião", Elena Moretti, Valéria "Val" Cruz
-Localização: "Torre Aeterna, Nível 70 (corredor dos servidores)"
+Personagens Presentes: Gabriel "Gabo" Moretti, Kael "O Cirurgião", Elena Moretti, Valéria "Val" Cruz, Aria (módulo no deck), guardas da Aeterna
+Localização: "Torre Aeterna, centro de dados e corredor técnico do nível 70"
 ---
 # Capítulo 30: O Preço da Liberdade
 
-O corredor do Nível 70 da Torre Aeterna se transformou em um matadouro de metal e luz estroboscópica. Gabo e Elena usavam os racks de servidores tombados como barricadas. O ar sibilava com o fogo cruzado, cheio de cheiro de ozônio e plástico derretido. Os guardas de elite da Aeterna, equipados com armaduras de cerâmica branca, avançavam implacavelmente, uma maré asséptica de morte.
+A fechadura saltou antes do armário. Elena já tinha deixado a porta quando os tiros atravessaram a chapa. O metal bateu na bancada; uma gaveta espalhou ferramentas pelo piso elevado. Gabo se abaixou atrás de um servidor e sentiu o peito fechar sobre o pouco ar que lhe restava.
 
-O piso estava coberto de cápsulas de cerâmica estouradas e de um pó branco que grudava na boca e tinha gosto de giz. Cada rajada que acertava os racks deixava um resto de metal na língua. O alarme de incêndio tinha desistido de tocar e só piscava.
+— Pela lateral! — gritou Elena.
 
-— O upload está em 50%! — gritou Valéria por cima do barulho ensurdecedor, os dedos dançando sobre o teclado holográfico. — A rede da cidade está começando a se desfazer! Os firewalls estão caindo como dominós!
+Os guardas atiravam de fora. Queriam afastá-los do terminal sem acertar a bancada; cada ordem vinha seguida de uma pausa curta, de mira refeita. O plástico dos cabos queimados grudava na garganta. No ouvido esquerdo de Gabo, os disparos eram pancadas distantes; no direito, deixavam um apito que engolia palavras.
 
-Então, os guardas pararam. Eles não recuaram; apenas abriram caminho, como o Mar Vermelho, para uma figura que caminhava calmamente através da fumaça e dos flashes de disparo.
+Não havia fogo para devolver. A Glock vazia pesava na bolsa de Elena. A Caronte servia de travessa entre dois móveis. O Leviatã ficara dez andares acima, junto do elevador quebrado.
 
-Kael, "O Cirurgião".
+Valéria permanecia agachada no terminal, a mão esquerda confirmando os lotes. O cabo junto à têmpora limitava o quanto podia se afastar. Aria lia os recibos pelo deck; de vez em quando, só conseguia dizer que uma confirmação não chegara.
 
-Ele não usava armadura volumosa. Seu corpo modificado era uma obra-prima do aprimoramento ilegal, esguio e letal. No lugar de seu braço direito, uma lâmina de osso de cerâmica, longa e serrilhada, vibrava com um zumbido baixo que fazia os dentes de Gabo doerem.
+— Metade saiu desta instalação — disse Val. — Não é metade de gente salva. Não me deixa esquecer isso depois.
 
-— Moretti — a voz de Kael, filtrada por um sintetizador vocal no pescoço, era fria como o metal. — A Dra. Vance me enviou pessoalmente. Ela quer sua dor, não sua morte. Ainda.
+Elena colocou a câmera atrás da quina de um rack, apontada para a porta.
 
-— Eu li o seu arquivo inteiro — disse ele, e o sintetizador tentava fazer ironia e não conseguia. — Trinta e sete páginas. Sabe o que mais me interessou? Você não é forte. Você é teimoso. Forte eu abro em vinte minutos. Teimoso eu tenho que abrir devagar.
+Os tiros pararam. Gabo ouviu alguém reclamar de um homem atravessando a linha de fogo. Em seguida veio o cheiro: antisséptico por cima de sangue velho.
 
-Gabo se levantou da cobertura e disparou. As balas da Glock ricochetearam no peito de Kael como chuva em um telhado de zinco. Ele nem sequer vacilou.
+Kael entrou sem se apressar. O avental de couro raspava na armadura tática. Tinha a cabeça raspada, lentes negras e a mandíbula metálica exposta. A mão esquerda terminou de encaixar um módulo no antebraço direito; uma lâmina cerâmica começou a vibrar.
 
-Com uma velocidade que desafiava a biologia, Kael avançou. A lâmina cortou o ar com um silvo agudo.
+— Moretti. Afasta da bancada.
 
-Gabo tentou bloquear com a coronha de sua escopeta vazia, mas a lâmina de cerâmica cortou a madeira e o metal como se fossem papel. O golpe seguinte foi um chute lateral no peito. Gabo sentiu as costelas estalarem e foi arremessado contra um painel de vidro temperado, que se estilhaçou com o impacto. Ele caiu no meio de cacos brilhantes, o ar expulso de seus pulmões.
+Gabo viu o guarda atrás dele erguer a arma na direção de Valéria.
 
-Elena atacou Kael por trás com uma faca de combate, tentando atingir as juntas do pescoço. Mas Kael era rápido demais. Ele girou, agarrou-a pelo pescoço com a mão humana e a arremessou contra a parede oposta. Ela bateu com um som surdo e caiu, imóvel.
+— Ela termina primeiro.
 
-— Elena! — gritou Gabo, tentando se levantar, cuspindo sangue.
+— A doutora Vance quer você respirando. Não pediu que andasse.
 
-Kael se virou para ele, caminhando devagar. Ele estava saboreando o momento.
+Elena virou a câmera para ele.
 
-— Você tirou o brinquedo favorito dela — sibilou Kael. — A Torre. O controle. Agora, vou tirar o seu. Sua capacidade de caminhar.
+— Vance de onde?
 
-Ele ergueu a lâmina. Gabo rolou para o lado, desesperado, mas o espaço era curto.
+Kael manteve a lâmina a um passo do pescoço de Gabo.
 
-A lâmina desceu.
+— Quer conferir assinatura agora?
 
-Não cortou a perna fora — a armadura leve da canela de Gabo impediu a amputação — mas o impacto foi devastador. A lâmina de cerâmica esmagou a tíbia e a fíbula com a força de uma prensa hidráulica.
+Gabo tentou ganhar espaço entre os servidores. A perna esquerda esbarrou num cabo, e a mão enfaixada não conseguiu se firmar na quina. Kael segurou a gola do sobretudo com a prótese e o empurrou em direção à porta do corredor.
 
-O som foi um estalo úmido e nauseante de osso se partindo em múltiplos fragmentos.
+Gabo bateu de costas. O braço na tipoia recebeu parte da queda. Por alguns segundos, só conseguiu puxar ar pela boca aberta.
 
-A dor foi um sol branco que explodiu na mente de Gabo, cegando-o momentaneamente. Ele gritou, um som animal, primal, que rasgou a garganta. Sua perna direita estava dobrada em um ângulo errado, inútil, destruída internamente.
+Elena agarrou uma chave comprida da gaveta caída e atingiu a articulação que segurava a gola. O golpe fez Kael soltar o tecido. Ele respondeu com o antebraço; Elena bateu a lateral da cabeça no rack e caiu de joelhos.
 
-Kael riu, um som áspero e sintético. Ele levantou a lâmina para o golpe final, mirando no pescoço de Gabo.
+Ela se arrastou para trás antes do golpe seguinte. Havia sangue no cabelo, perto da orelha. Gabo chamou seu nome. Ela levantou dois dedos sem conseguir responder.
 
-— Fim do jogo, detetive.
+— Não olha para ela — disse Kael.
 
-— **UPLOAD CONCLUÍDO** — anunciou a voz de Valéria, não apenas pelo corredor, mas por todos os alto-falantes da torre, da cidade, de cada celular em Baía Cinzenta. — **PROTOCOLO: LIBERDADE.**
+Gabo olhou outra vez. Foi quando a lâmina desceu.
 
-As telas ao redor deles explodiram em luz branca pura. Os rostos dos fantasmas digitais, as vítimas do Gamemaster, olharam para Kael por um instante, um julgamento silencioso de mil almas. E então desapareceram, substituídos por uma única palavra que brilhava em cada superfície: **LIVRES**.
+Kael usou a base do módulo para prender a canela direita contra a borda de um suporte. O estalo veio antes de Gabo entender onde estava a pressão. Quando tentou recolher a perna, o pé ficou apontado para o lado errado.
 
-No rosto de Valéria, o olho esquerdo estourou em branco e depois apagou para um cinza fosco. Ela não levou a mão até ele. Continuou de pé, com o deck fumegando no pulso, como se o que tivesse queimado fosse de outra pessoa.
+Ele gritou até a garganta falhar.
 
-A própria torre pareceu gritar. A infraestrutura de resfriamento que a sustentava foi desligada abruptamente. Luzes de emergência explodiram. Cabos de energia de alta tensão se soltaram do teto, estalando como chicotes elétricos, procurando terra.
+O suporte tinha aberto um corte na calça. Sangue correu pela canaleta do piso. Kael manteve a pressão por um instante, olhando o rosto dele, e então afastou o braço. Não precisava repetir.
 
-O chão tremeu violentamente.
+— Agora você fica.
 
-Uma sobrecarga massiva atingiu o sistema de Kael, que estava conectado à rede da torre para aumentar seus reflexos. Seu corpo travou. Faíscas jorraram de suas articulações. Seus implantes ópticos estouraram, e ele gritou, cego e paralisado, antes de cair de joelhos, fumegando.
+No terminal, Valéria perdeu uma confirmação e refez a consulta. O aviso de temperatura cobriu metade de sua visão esquerda. Ela desligou esse canal, mas o escuro continuou quando tentou voltar à visão básica. Tirou o cabo da têmpora com a mão que tremia.
 
-Gabo, lutando contra a inconsciência, viu o cabo de energia solto dançando perto dele. A dor na perna era uma âncora que o puxava para baixo, mas o ódio o mantinha à tona. Ele se arrastou, deixando um rastro de sangue.
+— Elena, lê o painel para mim.
 
-Com um último esforço titânico, ele pegou o cabo vivo com a mão enluvada e o pressionou contra o pescoço metálico de Kael.
+A jornalista ergueu a cabeça. Teve de segurar o rack para não cair.
 
-O cheiro de ozônio, metal queimado e carne cozida encheu o corredor. O Cirurgião teve uma última convulsão violenta e tombou para o lado, estático. O peito dele subiu uma vez. Depois outra. Gabo ficou olhando aquilo sem entender o que estava vendo: o homem que ia matá-lo tinha voltado a respirar, e ele não tinha perna para terminar o serviço. Então o teto começou a cair, e a decisão foi tomada por ele.
+— Último lote. Aguardando destino.
 
-Valéria correu até Gabo, o rosto pálido de horror ao ver o estado da perna dele.
+Um guarda avançou pelo vão, apontando para Valéria. Elena empurrou a gaveta no caminho dele. O homem tropeçou e recuou para o corredor; levantou a arma e recebeu a ordem de Kael para esperar. Ainda queriam a sessão aberta.
 
-— Gabo! Meu Deus, sua perna...
+Gabo viu que o Cirurgião consultava o corredor antes de cada avanço. Uma indicação verde piscava na lateral do pescoço metálico. Quando o rádio do guarda chiou sem completar a ordem, a indicação ficou âmbar. Kael recuou até o vão da porta, parou um segundo e mexeu a mão esquerda, conferindo os dedos.
 
-— Elena... — ofegou ele, a visão escurecendo nas bordas. — Veja a Elena...
+— Tira ele daí — pediu Elena a Gabo.
 
-Valéria correu até a parceira caída. Elena gemeu e começou a se mexer. Estava viva.
+Não havia braço para lutar nem perna para levantar. Com os três dedos que fechavam, ele puxou a Caronte pelo cano, agora solto entre os móveis. A arma raspou no chão. Kael se voltou para o barulho.
 
-Val voltou para Gabo, rasgando a manga da camisa para fazer um torniquete na perna esmagada.
+Na tela apareceu **TRANSFERÊNCIA ENCERRADA — EXECUÇÃO LOCAL REVOGADA**.
 
-— Não aperta assim — disse ele entre os dentes. — Você vai parar o sangue e a perna morre.
+Os serviços dependentes começaram a perder resposta. A luz da sala baixou; o rádio repetiu metade de uma sílaba. Kael travou o passo, com a lâmina ainda erguida. O pescoço piscou âmbar outra vez. A falha durou pouco. Não fez seu corpo explodir nem o impediu de olhar para Gabo.
 
-— A perna já morreu.
+O corpo de Kael cobria a linha de tiro dos guardas. Elena aproveitou. Empurrou a porta do corredor contra o braço armado e usou a chave como cunha. Kael tentou recuar; o módulo preso bateu no batente. Gabo empurrou a Caronte atravessada junto aos pés dele, usando o calcanhar esquerdo.
 
-— Então aperta.
+Kael caiu de lado. A lâmina continuou vibrando contra o piso.
 
-— Temos que sair daqui! A estrutura está instável! A torre vai cair!
+Elena alcançou a alavanca da porta corta-fogo e puxou. O contrapeso de fechamento desceu até a folha encontrar a prótese. Elena liberou o restante do curso na alavanca; o módulo rachou, e a folha de aço completou o curso entre eles e os guardas.
 
-Gabo olhou para o teto, onde pedaços de concreto começavam a se soltar. Ele não sentia mais a perna, apenas um frio entorpecente. Ele sabia que nunca mais andaria do mesmo jeito. O custo fora alto.
+Do lado de dentro, Kael ainda tinha a outra mão.
 
-Mas, ao longe, através da parede de vidro quebrada, ele podia ouvir algo que não ouvia há anos.
+Gabo não conseguiu segurar a Caronte quando ele a agarrou. O homem se ergueu sobre um joelho, trazendo o cano na direção do rosto do policial. Elena o atingiu na lateral da cabeça com a chave. Uma vez. Na segunda, ele tombou sobre o braço quebrado.
 
-Gritos de alegria vindo da rua. Buzinas. O som de uma cidade acordando.
+Ela ficou com a ferramenta erguida até ver o peito subir.
 
-O vento que entrava pela parede de vidro estava morno — o primeiro ar quente da noite — e cheirava a asfalto molhado e a comida de rua. Alguém, lá embaixo, tinha acendido um fogareiro.
+— Está respirando.
 
-— Eles estão livres, Val — sussurrou ele, um sorriso manchado de sangue nos lábios. — Valeu a pena.
+Gabo continuou olhando. Não tinha como prendê-lo com segurança, nem como levá-lo. Do corredor vieram golpes contra a porta; atrás da bancada, um alarme acusou perda de refrigeração.
 
-— Fique comigo, Gabo! — chorava Valéria, puxando-o. — Não ouse morrer agora!
+Elena recolheu a Caronte e a câmera. Val guardou o módulo de Aria com o deck, desligou o adaptador da tomada e pôs tudo na bolsa. Os recibos finais estavam ali; não havia uma palavra capaz de dizer o que acontecera com cada rosto.
 
-— Só... vou descansar um pouco... — murmurou ele.
+— Sua perna — disse ela, ao se aproximar de Gabo.
 
-A escuridão o envolveu suavemente, enquanto o som da Torre de Marfim morrendo era a canção de ninar mais doce que ele já ouvira. O reinado da Aeterna havia terminado. Mas a longa recuperação de Gabriel Moretti estava apenas começando.
+Elena comprimiu o corte com uma toalha de manutenção. O tecido encharcou, mas a pressão conteve o fluxo. Apoiaram a perna entre duas peças do armário e amarraram sem tentar endireitar o pé.
+
+— Eu não consigo carregar ele — disse Val.
+
+— Nem eu sozinha.
+
+Elena abriu a porta de serviço e chamou os nomes que tinha visto na escala. Ninguém respondeu aos primeiros. Na terceira tentativa, uma voz perguntou se os tiros tinham parado.
+
+Atrás deles, Kael arranhou o piso com a mão restante.

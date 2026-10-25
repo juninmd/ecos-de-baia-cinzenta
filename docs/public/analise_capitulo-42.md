@@ -1,16 +1,18 @@
-# Análise do Capítulo 42: O Campo de Refugiados
+# Revisão de Capítulo 42: O Campo de Refugiados
 
-## Avaliação Técnica
-- Ritmo: 9/10
-- Diálogos: 9/10
-- Atmosfera: 10/10
+Fonte: [capítulo 42](/capitulo-42.md).
 
-## Pontos Fortes e Fracos
-- Fortes: Ótimo cenário logístico e tensão de sobrevivência. A contaminação química traz a consequência corporativa da Aeterna de volta à narrativa de forma orgânica.
-- Fracos: Curto.
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-## Verificação de Sanidade (Lore Compliance)
-- Segue a risca o lore. Gabo age como a liderança amargurada e focada em dor real (física e do ambiente contaminado) sem gatilhos imprecisos.
+## Passagens de entrada e saída
 
-## Avaliação Qualitativa
-Capítulo impecável em construir o terror social do pós-apagão e desastre ecológico.
+> Delegacia Central do Setor 4, segundo dia de chuva.
+> A Delegacia Central não era mais um prédio da lei.
+
+### Saída
+
+> Gritou para suspenderem a distribuição. Elena correu até os baldes enquanto um voluntário empurrava sua cadeira. A primeira caneca já voltava vazia.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

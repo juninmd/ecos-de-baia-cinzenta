@@ -29,17 +29,16 @@ Se o freio de Valéria derretesse a dez metros do chão, o impacto partiria noss
 
 Comandei o atuador hidráulico da armação pesada. As garras de liga de aço se abriram ao redor do cabo de tração primário de cinco polegadas de espessura. Travei os motores na pressão máxima de pinçamento.
 
-*SKRRRRREEEEEEEECH!*
-
+SKRRRRREEEEEEEECH!
 O estampido de aço contra aço ecoou pelo poço como o guincho estridente de uma serra circular cortando blindagem de navio. Uma chuva torrencial de faíscas alaranjadas e incandescentes explodiu no breu, iluminando as paredes circulares do fosso com flashes violentos de luz.
 
-O calor da fricção subiu pela carcaça da armação, fazendo o óleo das juntas ferver e fumegar. O tranco desacelerou nossa queda com uma violência brutal, jogando todo o peso dos nossos dois corpos direto nos pregos neurais da minha escápula. A dor foi avassaladora, uma lança de fogo elétrico que estalou nas minhas vértebras e me arrancou um urro rouco do peito, mas a pinça de carregador das docas segurou.
+O calor da fricção subiu pela carcaça da armação, fazendo o óleo das juntas ferver e fumegar. O tranco desacelerou nossa queda com uma violência brutal, puxando o arnês de cintura e o suporte externo contra meu tronco. Se dependesse dos pinos no braço, o osso não seguraria os dois corpos. A dor foi avassaladora, uma lança de fogo elétrico que estalou nas minhas vértebras e me arrancou um urro rouco do peito, mas a pinça de carregador das docas segurou.
 
 O cabo gemeu sob a mordida do metal, e nossa descida estancou a meio metro acima do chão da plataforma de manutenção.
 
 — Solta a trava! Agora! — Valéria gritou, cortando a fita do arnês com um golpe rápido de faca tática.
 
-Desativei os pistões. Caímos de pé no piso de ferro com um baque surdo, a lama e a graxa amortecendo o impacto. Minha perna de metal cedeu e bati com os joelhos no chão, apoiando a mão esquerda ensanguentada no concreto frio para não desabar de vez.
+Desativei os pistões. Val apoiou os pés primeiro na plataforma e soltou o trecho preso da cinta. Desci o meio metro restante até o piso de ferro com um baque surdo, a lama e a graxa amortecendo o impacto. Minha perna de metal cedeu e bati com os joelhos no chão, apoiando a mão esquerda ensanguentada no concreto frio para não desabar de vez.
 
 Valéria rolou de lado na grade, levantando-se de um salto com a agilidade de um gato de rua, a pistola já apontada para as sombras ao redor. Ela estava ofegante, o rosto manchado de fuligem e os filamentos de LED azul na franja piscando descontrolados pelo choque elétrico residual das faíscas.
 

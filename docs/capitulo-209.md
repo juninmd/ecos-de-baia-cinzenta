@@ -35,7 +35,7 @@ Valéria se agachou com cautela na beirada da formação cristalina, iluminando 
 
 Um estalido fino e cristalino ecoou no silêncio gélido.
 
-— Lâminas moleculares de ferrita cristalizada, — ela explicou, guardando a lâmina e me encarando com uma seriedade límpida. — Frágil ao impacto, mas o fio de corte é mais fino que bisturi a laser. Se você pisar nisso aí, a bota rasga igual papel e os espinhos cravam na carne. A oxidação catalítica entra direto na corrente sanguínea. Septicemia em quatro horas, sem cura nem antibiótico que dê jeito neste subsolo.
+— Lâminas moleculares de ferrita cristalizada, — ela explicou, guardando a lâmina e me encarando com uma seriedade límpida. — Frágil ao impacto, mas o fio de corte é mais fino que bisturi a laser. Se você pisar nisso aí, a bota rasga igual papel e os espinhos cravam na carne. A oxidação catalítica entra direto na corrente sanguínea. Não sei o que há aderido nessas pontas, mas não quero descobrir pelo seu sangue.
 
 — E dá pra contornar? — Elias perguntou, o desespero fazendo sua voz falhar.
 
@@ -49,7 +49,7 @@ Valéria olhou para a escada enferrujada coberta por uma fina película de gelo,
 
 — Se aquele cabo arrebentar enquanto eu estiver lá em cima, Moretti, eu caio direto numa cama de faquir de três mil pontas de ferro envenenado.
 
-— O cabo aguenta três toneladas de contêiner, Val, — afirmei, olhando firme nos olhos prateados dela. — E você não cai. Eu conheço o seu equilíbrio desde que você corria nos telhados do Distrito Central quando a Aeterna botou a polícia atrás de nós.
+— A placa diz três toneladas quando era novo, Val. Vamos prender a segunda linha antes de testar com alguém, — afirmei, olhando firme nos olhos prateados dela. — E você não cai. Eu conheço o seu equilíbrio desde que você corria nos telhados do Distrito Central quando a Aeterna botou a polícia atrás de nós.
 
 Um sorriso fino e desafiador desenhou-se nos lábios pálidos dela. O cinismo deu lugar àquela determinação inabalável que sempre nos salvara da cova.
 
@@ -61,6 +61,6 @@ Elias sentou-se ao meu lado, as mãos nos joelhos, assistindo à subida com o f�
 
 — Gabo... se ela não conseguir fixar a roldana... como a gente sai daqui?
 
-— Ela vai conseguir, Elias, — respondi, apoiando a mão pesada de sucata no ombro do garoto para mantê-lo firme no chão. — Valéria nunca falhou quando a corda apertou no pescoço. Ela perdeu a Aria na Torre, perdeu quase tudo que tinha na Zona Baixa, mas continua de pé. Você só precisa confiar nela e manter a cabeça no lugar.
+— Ela vai conseguir, Elias, — respondi, apoiando a mão pesada de sucata no ombro do garoto para mantê-lo firme no chão. — Valéria já falhou, eu também. Vamos conferir cada fixação e não depender só de confiança. Ela perdeu a Aria na Torre, perdeu quase tudo que tinha na Zona Baixa, mas continua de pé. Você só precisa confiar nela e manter a cabeça no lugar.
 
 O silêncio do abismo voltou a nos cercar, pesado e indiferente, quebrado apenas pelo tique-taque distante dos cristais de óxido que continuavam crescendo na escuridão, devorando o pouco calor que ainda nos mantinha vivos.

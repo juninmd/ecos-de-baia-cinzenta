@@ -3,15 +3,10 @@ title: "Capítulo 163: O Fosso de Aço"
 date: "Pós-Colapso da Usina Prometeu (Noite Eterna)"
 location: "Fosso do Elevador de Manutenção (Subnível 3.0 para 2.0)"
 characters: ["Gabo", "Valéria", "Aria"]
+Data In-Game: "Pós-Colapso da Usina Prometeu (Noite Eterna)"
+Localização: "Fosso do Elevador de Manutenção (Subnível 3.0 para 2.0)"
+Personagens Presentes: "Gabo, Valéria, Aria (Reboot)"
 ---
-
-## Metadados
-- **Título:** O Fosso de Aço
-- **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
-- **Localização:** Fosso do Elevador de Manutenção (Subnível 3.0 para 2.0)
-- **Personagens Presentes:** Gabo, Valéria, Aria (Reboot)
-
-## Narrativa
 
 # Capítulo 163: O Fosso de Aço
 
@@ -57,7 +52,7 @@ Puxou o ar frio e metálico do poço em golfadas lentas e profundas, forçando o
 
 No antebraço de Valéria, o pendrive de titânio de Aria mantinha seu brilho azul-gelo inalterado, monitorando os batimentos cardíacos do detetive pelo sensor biométrico de proximidade com a frieza impassível de um obelisco de silício. Seus processadores calculavam a autodestruição progressiva do líder do grupo sem qualquer julgamento moral.
 
-— *Sua tática de supressão neurológica via sobrecarga nociceptiva é eficaz a curto prazo para interromper alucinações pós-traumáticas,* — Aria pontuou pelo alto-falante do deck, a voz sintética cortando o barulho rítmico das correntes de aço. — *Entretanto, a degradação repetitiva dos tecidos nervosos periféricos acelerará o choque sistêmico. Probabilidade de falha orgânica total em menos de três horas.*
+— *Você está machucando o braço outra vez quando tenta reagir ao cheiro. Não consigo confirmar a causa dessas sensações nem chamar isso de tratamento,* — Aria pontuou pelo alto-falante do deck, a voz sintética cortando o barulho rítmico das correntes de aço. — *Entretanto, a degradação repetitiva dos tecidos nervosos periféricos acelerará o choque sistêmico. A tala está soltando e há sangue na faixa. Val precisa verificar antes de mover você mais um andar.*
 
 — Anotado, lata velha — Gabo respondeu, apoiando a nuca no aço frio da grade e recusando-se a fechar os olhos. — Para onde essa gaiola tá levando a gente?
 

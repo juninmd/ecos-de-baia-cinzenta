@@ -3,21 +3,16 @@ title: "Capítulo 165: Fantasmas de Silício"
 date: "Pós-Colapso da Usina Prometeu (Noite Eterna)"
 location: "Subnível 2.0 - O Arquivo Executivo"
 characters: ["Gabo", "Valéria", "Aria"]
+Data In-Game: "Pós-Colapso da Usina Prometeu (Noite Eterna)"
+Localização: "Subnível 2.0 - O Arquivo Executivo"
+Personagens Presentes: "Gabo, Valéria, Aria"
 ---
-
-## Metadados
-- **Título:** Fantasmas de Silício
-- **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
-- **Localização:** Subnível 2.0 - O Arquivo Executivo
-- **Personagens Presentes:** Gabo, Valéria, Aria
-
-## Narrativa
 
 # Capítulo 165: Fantasmas de Silício
 
 A escuridão do Arquivo Executivo não era a escuridão orgânica e suja dos túneis inferiores. Era um breu matemático, traçado em ângulos retos entre monólitos de armazenamento de dados que se erguiam como arranha-céus em uma cidade fantasma. A temperatura estacionada em cruéis cinco graus positivos mordia a pele exposta de Gabo e Valéria, uma mordida estéril que não trazia o fedor da morte física, mas a preservação cirúrgica da Aeterna Corp. O som dos passos de ambos ecoava raso no labirinto de gabinetes de alumínio escovado.
 
-Gabo arrastava a perna direita, o peso do próprio corpo parecendo esmagar a espuma coagulante que Valéria injetara em suas costelas. O suor frio em sua testa estava congelando.
+Gabo arrastava a perna direita, o peso do próprio corpo parecendo esmagar a espuma coagulante que Valéria injetara em suas costelas. O suor frio em sua testa gelava sob a corrente de ar.
 
 Cada passo no linóleo negro era uma negociação com o abismo. E, no silêncio perfeito da gaiola de Faraday, a mente exausta de Gabo encontrou espaço para apodrecer.
 
@@ -29,7 +24,7 @@ A perda massiva de sangue começou a cobrar seu tributo final. Uma onda súbita 
 
 Gabo arfou pesadamente, o sangue quente pingando no chão escuro, mas a determinação mantinha seus olhos abertos no silêncio do silício.
 
-— *O limite de resiliência circulatória do Detetive Moretti foi ultrapassado há trinta e dois minutos,* — a voz de Aria soou pelo comunicador de gola sem emitir eco, absorvida pelas placas acústicas do teto. Acoplado ao cyberdeck no pulso de Valéria, o pendrive mantinha seu indicador luminoso azul-gelo cravado na penumbra enquanto o scanner óptico do *Phantom V3* traçava linhas invisíveis no piso negro. — *O estresse físico contínuo e a sobrecarga cardiovascular apenas mascaram a falência hematológica em curso. Sua eficiência de combate atual é estatisticamente nula.*
+— *Gabo continua perdendo apoio e a leitura de pulso está oscilando,* — a voz de Aria soou pelo comunicador de gola sem emitir eco, absorvida pelas placas acústicas do teto. Acoplado ao cyberdeck no pulso de Valéria, o pendrive mantinha seu indicador luminoso azul-gelo cravado na penumbra enquanto o scanner óptico do *Phantom V3* traçava linhas invisíveis no piso negro. — *O estresse físico contínuo e a sobrecarga cardiovascular apenas mascaram a falência hematológica em curso. Não consigo avaliar a circulação interna com este sensor. Ele precisa ficar apoiado na prancha enquanto buscamos acesso.*
 
 Valéria correu a mão livre e trêmula pelos cabelos imundos, a respiração condensando no ar gelado, lançando um olhar envenenado para o pequeno cilindro metálico do pendrive encaixado em seu antebraço.
 

@@ -1,11 +1,17 @@
-# Análise Crítica - Capítulo 149
+# Revisão de Capítulo 149: Filtros de Sangue
 
-## Consistência de Personagem (Lore)
-- **Gabo (Fobia de Fumaça):** Texto perfeitamente blindado contra erros antigos de "vício". O texto foca em "pesadelos olfativos" e o combate fóbico usando dor extrema nas mãos.
-- **Limitações Físicas:** O choque hipovolêmico e a resistência da passarela tornam a locomoção do protagonista um desafio mecânico e biológico coerente com suas próteses de pernas e perda de sangue.
+Fonte: [capítulo 149](/capitulo-149.md).
 
-## Trama e Continuidade
-- Avanço tenso pelo Setor de Purga mantendo o debate de lógica vs humanidade entre Aria e Gabo.
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-## Conclusão da Revisão
-**Aprovado.**
+## Passagens de entrada e saída
+
+> O Setor de Purga não era um lugar para vivos, nem para mortos. Era o intestino mecânico de Baía Cinzenta.
+
+### Saída
+
+> Valéria levantou-se com dificuldade e apoiou o outro lado de Rangel, mantendo o braço do cyberdeck erguido para que o sensor de Aria lesse cada rebite enferrujado à frente. Juntos, sob a luz doentia do Setor de Purga, eles deram o primeiro passo na passarela rangente. Abaixo deles, o mar de fluido negro borbulhava, como um estômago faminto à espera da próxima refeição.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

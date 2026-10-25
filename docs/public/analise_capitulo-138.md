@@ -1,11 +1,17 @@
-# Análise Crítica - Capítulo 138
+# Revisão de Capítulo 138: Vernissage
 
-## Consistência de Personagem (Lore)
-- Nenhuma menção a gatilhos que desrespeitem o trauma de asfixia do Gabo.
-- O personagem segue coerente em sua dificuldade de locomoção.
+Fonte: [capítulo 138](/capitulo-138.md).
 
-## Trama e Continuidade
-- Consistente.
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-## Conclusão da Revisão
-**Aprovado.**
+## Passagens de entrada e saída
+
+> O contraste foi violento como um soco no estômago.
+
+### Saída
+
+> A primeira Escultura avançou.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

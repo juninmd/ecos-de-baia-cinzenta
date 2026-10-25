@@ -1,16 +1,18 @@
-# Análise: Capítulo 68 - A Caçada Inversa
+# Revisão de Capítulo 68: A Caçada Inversa
 
-**Avaliação Técnica:**
-- Ritmo: 9/10
-- Diálogos: 8/10
-- Atmosfera: 10/10
+Fonte: [capítulo 68](/capitulo-68.md).
 
-**Pontos Fortes / Fracos:**
-- Fortes: Cena de ação excelente contra o Titã e o retorno de Miranda. A intervenção orgânica de Dante/Aria com os ratos cria uma transição bizarra e sensacional de escala de poder do cibernético para o biológico.
-- Fracos: Nenhum significativo.
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-**Sanity Check (Lore):**
-- Totalmente compatível. O uso tático de "gás denso" previne perfeitamente a associação com a aversão e o trauma em torno do uso de granadas de "fumaça". Gabo suporta a dor na perna sem buscar muletas químicas, agindo como sempre guiado pela sobrevivência pragmática e focado na dor que ele pode controlar.
+## Passagens de entrada e saída
 
-**Avaliação Qualitativa:**
-- Excelente capítulo que mescla ação tradicional com um toque de horror/fantasia urbana, cortesia do controle de Dante. Os personagens se mantêm inteiros e o lore foi honrado. Sem personagens novos requeridos.
+> Delegacia do Distrito 4 — Cerco
+> A parede não caiu. Ela **entrou**. Concreto de sessenta anos não desmorona bonito: ele vira pó primeiro, uma nuvem branca e seca que enche a boca de gosto de cal antes de qualquer pedaço grande chegar ao chão. Gabo engoliu aquilo, e o pó grudou na garganta, e ele estava tossindo antes de entender que estava sob ataque.
+
+### Saída
+
+> Doze horas até as hastes caírem, uma perna sangrando, e um pai gastando minutos de vida para acender lâmpada de rua.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

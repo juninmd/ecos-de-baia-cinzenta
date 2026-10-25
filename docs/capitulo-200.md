@@ -13,7 +13,7 @@ Eu escorreguei pela parede de metal frio, deixando o peso morto do meu corpo ced
 
 Valéria ajoelhou-se ao meu lado, os filamentos de LED azul na franja curta iluminando o suor frio que escorria pelo meu queixo. Ela soltou o cyberdeck das costas, colocando-o com cuidado sobre uma caixa de fusíveis vazia, e verificou o aperto da atadura elástica no meu ombro com a mão firme.
 
-— A solda da bucha do seu ombro tá soltando faíscas azuis, Moretti — ela sussurrou, a voz ofegante mas firme, enquanto ajustava a válvula de alívio do pistão com a ponta de uma chave de fenda pequena. — Mais dois trancos daquele e a rosca da clavícula se solta de vez.
+— A solda da bucha do seu ombro tá soltando faíscas azuis, Moretti — ela sussurrou, a voz ofegante mas firme, enquanto ajustava a válvula de alívio do pistão com a ponta de uma chave de fenda pequena. — O relé do atuador abriu. Elias tem um contato compatível no estojo; vou usar no circuito auxiliar, com a pressão limitada. Isso não conserta o fixador. A garra vai responder mais devagar e a força precisa vir do arnês, não do osso.
 
 — O que importa é que a quimera virou carvão lá fora — respondi, o gosto de cobre e poeira de carvão amargo na boca. — E o portão de chumbo segurou o resto da ninhada.
 
@@ -39,13 +39,15 @@ Olhei para a escada de ferro chumbada na rocha. Uma sucessão vertiginosa de lan
 
 Dei um passo firme em direção a ele, a garra de ferro da armação repousando pesada sobre o ombro dele com um apoio firme e calmo. Olhei bem dentro dos olhos aterrorizados dele, a voz saindo no tom grave e seguro de um policial veterano que já arrancou homens piores da boca do abismo:
 
-— Escuta aqui, Elias. Você sobreviveu sozinho a semanas de cerco naquela subestação comendo ração seca e enganando os zumbis com uma chave sônica. Você não é um covarde que desiste na soleira da porta. Você é a única pessoa viva que sabe onde fica a escotilha do Hub lá em cima. A gente vai subir aquela escada juntos. Um degrau de cada vez.
+— Escuta, Elias. Você sobreviveu semanas naquela subestação porque conhecia os dutos e sabia quando se esconder. Eu não vou chamar isso de covardia. A escada pode ceder, e minha armação não garante que eu consiga segurar você. Podemos ficar atrás da comporta e esperar; com as assinaturas descendo, isso também tem preço. Se você escolher subir, conhece melhor que nós o caminho até a escotilha. Eu acompanho o seu ritmo. Um degrau de cada vez.
 
 Elias piscou, engolindo o soluço. O tremor nas mãos dele diminuiu gradualmente sob o peso do meu aperto.
 
 — E se a escada quebrar? — ele sussurrou.
 
-— Se a escada quebrar, eu seguro você com essa armação de cais — respondi, apontando para o ferro da estrutura. — Agora engole esse medo e bota a mão no primeiro degrau.
+— Se um degrau quebrar, a linha de segurança pode limitar a queda; não promete parar você. A gente prende a guia nos apoios e testa cada trecho antes de passar o peso. Se disser para parar, paramos.
+
+Elias olhou de novo para a comporta. A chuva de garras no lado de fora cresceu; a escolha de esperar já não era neutra. Ele amarrou a guia ao primeiro apoio, puxou com o próprio peso e inspecionou a solda antes de assentir.
 
 Valéria se aproximou, pendurando o cyberdeck com as alças cruzadas no peito para liberar os braços e checando o cão da pistola com um clique seco.
 

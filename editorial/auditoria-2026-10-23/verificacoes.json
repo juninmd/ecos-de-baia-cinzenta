@@ -1,0 +1,22 @@
+{
+  "fontes": 238,
+  "mudancas_nas_fontes_durante_auditoria": [],
+  "problemas_espelhos_relativos": [],
+  "titulos_divergentes_menu": [],
+  "entradas_menu": 238,
+  "mudancas_nas_fontes_ao_final": [],
+  "problemas_arquivos_novos": [],
+  "markdownlint": {
+    "arquivos": 12,
+    "problemas": 0
+  },
+  "pytest": {
+    "aprovados": 1272,
+    "avisos": 4,
+    "segundos": 22.61
+  },
+  "perfis_oficiais": 35,
+  "avaliacoes_incluindo_casal_separado": 36,
+  "participacoes_adicionais": 22,
+  "capitulos_cobertos_por_declaracoes_complementadas": 238
+}

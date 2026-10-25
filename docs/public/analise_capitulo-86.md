@@ -1,26 +1,18 @@
----
-title: "Análise Crítica - Capítulo 86"
-author: "Sistema de Revisão"
-date: "2023-10-27"
----
+# Revisão de Capítulo 86: Simbiose
 
-# Avaliação do Capítulo 86: Simbiose
+Fonte: [capítulo 86](/capitulo-86.md).
 
-## 1. Metadados
-- **Data In-Game:** Três Meses Depois (Pós-Capítulo 85)
-- **Local:** Zona de Exclusão Norte ("O Jardim")
-- **Personagens:** Gabo, "Cão" (Drone biomecânico), Jardineira
+Três semanas após o Sol Negro, Gabo caça energia com Garoto. O convite do Jardim encontra a marca em seu braço e a recusa de aceitar mortes sem nomes.
 
-## 2. Autoavaliação Técnica
-- **Ritmo (Pacing):** 8/10
-- **Diálogo:** 8/10
-- **Atmosfera:** 9/10
+## Passagens de entrada e saída
 
-## 3. Pontos Fortes e Fracos
-- **Pontos Fortes:** A atmosfera de mutação botânica é bem descrita. A dinâmica com o cão drone é ótima.
-- **Pontos Fracos:** Faltava a menção explícita ao uso de órteses mecânicas para locomoção de Gabo.
+> Três semanas depois — Zona de Exclusão Norte.
+> Baía Cinzenta não existia mais.
 
-## 4. Sanity Check (Lore & Personagens)
-- **Aversão a Fumaça/Tabaco:** Preservada. Gabo usa máscara de filtração contra o pólen, sem nenhum desvio pro tabaco.
-- **Coerência de Lore:** Adicionado reforço sobre as pernas arruinadas de Gabo e suas pesadas órteses. O som mecânico lembra-o da realidade limitante.
-- **Status:** Aprovado com ajustes na fisicalidade.
+### Saída
+
+> E, pela primeira vez em três semanas, o Garoto latiu.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

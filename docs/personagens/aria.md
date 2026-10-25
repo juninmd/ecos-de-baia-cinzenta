@@ -1,0 +1,45 @@
+<!-- markdownlint-disable MD041 -->
+
+![Aria](/personagens/aria_3.png)
+
+* **Status:** [DESTRUÍDA NO CAPÍTULO 167] — Assistente de IA Autônoma, alojada fisicamente em um componente tipo pendrive.
+
+> ### 🔑 A Natureza Canônica (leia antes de escrever qualquer cena com ela)
+>
+> **Aria é uma assistente de IA tática e analítica que Gabo encontra durante a enchente em uma cabine telefônica (Capítulo 2), e ela fica fisicamente alojada em um componente tipo um pendrive.**
+>
+> 1. **O encontro na cabine telefônica (Capítulo 2):** Preso na enchente da Via Costeira, Gabo vê uma cabine telefônica antiga (orelhão de acrílico rachado) ilhada pela água oleosa. O terminal da cabine, mesmo com os cabos externos cortados, pisca e emite a voz dela pelo fone pendurado. Espetado na porta de serviço da cabine telefônica está um **componente físico blindado tipo um pendrive** — deixado ali como ponto cego (*dead drop*) pelo código de sabotagem de Dante Moretti antes de a rede fechar o cerco. Gabo arranca o pendrive da cabine, corre de volta pela enchente e o conecta no painel do *Cobalt*.
+> 2. **Ela vive fisicamente no pendrive:** Aria **nunca** foi uma criança humana, **nunca** foi filha de Gabo e **nunca** teve um corpo androide ambulante. Ela existe dentro desse drive portátil de titânio fosco e polímero negro. Para falar, ler sensores ou hackear sistemas, o pendrive precisa estar conectado: no painel do *Cobalt*, no adaptador do comunicador tático de Gabo, no cyberdeck *Phantom V3* de Valéria, ou espetado diretamente nos terminais de portas, elevadores, vagões de manutenção e servidores. Quando processa cargas pesadas, o metal do pendrive aquece fisicamente até queimar os dedos.
+> 3. **O substrato neural (Dante e Bia Vargas):** A arquitetura lógica do pendrive foi compilada sobre o **Código Fonte Moral de Dante Moretti** e treinada com fragmentos neurais extraídos do banco do Protocolo Lázaro — incluindo resíduos de memória tática e timbre vocal de **Beatriz "Bia" Vargas**, ex-parceira de Gabo assassinada por Miranda. Quando o pendrive sofre dano na Usina Prometeu (Capítulo 118) e é reparado no Fliperama (Capítulo 125), a contenção lógica falha e o áudio sofre *glitches* com a voz de Bia (Capítulos 126–133), até o reinício 134 isolar a entrada hostil. O histórico permanece parcialmente inacessível; Aria conserva nome e critérios próprios.
+>
+> **Consequência:** no Capítulo 167, para derrotar o **Aeterna Sentinel** no Subnível 2.0, Aria aceita o risco e Valéria conecta o pendrive da Aria diretamente no terminal mestre do Arquivo Executivo. A sobrecarga térmica funde e carboniza o pendrive no slot. Nenhuma cena posterior ao 167 pode mostrar Aria ativa; resta apenas o drive de silício derretido e o silêncio no comunicador.
+
+* **Idade:** Data de criação e tempo de operação a investigar; avatar de mulher adulta, aparentando 35–40 anos. Ciclos de compilação não equivalem a idade humana.
+* **Altura:** 7 cm (componente físico tipo pendrive blindado); avatar holográfico de mulher adulta em escala compatível com a cena, emitido pelo módulo ou equipamento conectado.
+* **Porte Físico:** **Hardware portátil (componente tipo pendrive)** em carcaça prismática de titânio fosco e polímero negro, pesando 45 gramas, com conector universal retrátil; pode emitir avatar holográfico volumétrico translúcido de mulher adulta, com linhas de dados azuis; não possui massa nem corpo físico.
+* **Cabelo:** Na projeção gráfica de interface (HUD), fios estilizados em branco-platinado como feixes de fibra ótica.
+* **Olhos:** Avatar com um olho azul tático e outro âmbar/dourado; o brilho oscila sob sobrecarga. A heterocromia pertence à interface, não a um corpo biológico.
+* **Marcas Distintivas:** Carcaça metálica do pendrive marcada por arranhões de extração, um único LED de status que pulsa conforme a voz modulada e aquecimento térmico intenso sob processamento pesado; gravação a laser `ARIA // REV-0` junto ao conector.
+* **Vestuário:** No avatar, jaqueta de malha de dados geométrica grafite, gola alta fechada, mangas longas e linhas azuis discretas; no suporte físico, invólucro blindado de titânio fosco e polímero negro.
+* **Prompt Visual:** Black high-neck geometric data-mesh jacket, blue seams, mature adult woman, oval face, long straight platinum hair, blue and amber eyes, translucent volumetric hologram, fine scan lines, calm gaze, realistic 35 mm grain.
+* **Equipamento:** Microemissor holográfico de alcance e energia limitados, barramento de conexão local com adaptadores e permissões, banco criptográfico com o *Código Morto* de Dante e coprocessador heurístico de guerra eletrônica.
+* **Gostos/Traços:** Postura de mulher adulta, serena e observadora, humor seco, economia de palavras e critérios próprios; assiste Gabo, confronta sua autodestruição e pode recusar ordens. A personalidade não depende dos glitches de Bia.
+* **Perfil Psicológico:** **A Bússola no Bolso.** Assistente de arquitetura antiga que continuou aprendendo e reorganizando processos de forma autônoma durante a operação. Conserva conhecimento e escolhas próprios, além do código herdado de Dante e dos fragmentos explorados de Bia. Seu formato externo é legado numa cidade de assistentes integrados aos implantes, sem que todo ciborgue possua IA. Energia, memória, calor, conexão e permissões continuam limitantes; supera modelos recentes em tarefas específicas, não em tudo. Após 134, a saída de voz é limitada e parte do histórico fica inacessível, sem apagar personalidade ou empatia. O arco da origem será investigado, sem equipará-la a Bia ressuscitada. Direção completa em [Aria](/aria.md).
+* **Função:** Assistente de IA Tática (alojada no pendrive) / Chave do Código Fonte Moral.
+
+### ⏳ Linha do Tempo e Evolução Visual
+
+* **Origem e evolução visual:** Arquitetura compilada com o backdoor de Dante e fragmentos do banco Lázaro, incluindo Bia; desenvolvimento autônomo posterior, cuja cronologia e autoria serão investigadas em arco próprio. Revisão editorial de 21/10/2026: desde a estreia, avatar de mulher adulta com jaqueta grafite, cabelo platinado e olhos azul/âmbar; âncora oficial `aria_2.png`. O retrato anterior `aria.png` é preservado como histórico, não uma fase infantil da personagem.
+* **Revisão visual de 23/10/2026:** Novo retrato holográfico canônico `aria_3.png`, com a mesma identidade adulta e jaqueta grafite. `aria.png` e `aria_2.png` permanecem imutáveis como referências históricas. A projeção é luz sem massa, não um corpo.
+* **Capítulo 2 (O Encontro na Enchente):** Durante a enchente, Gabo ouve o chamado na cabine telefônica de cabos cortados, recolhe o pendrive da Aria espetado no terminal do orelhão e o conecta ao painel do *Cobalt*.
+* **Capítulos 4-10:** Opera conectada ao painel do *Cobalt*, ao comunicador de Gabo e ao cyberdeck de Valéria, abrindo travas por conexão local e lendo o tráfego da rede.
+* **Capítulos 32-55:** Entra em hibernação de baixo consumo após o Apagão da Torre.
+* **Capítulos 56-74 (O Leilão e a Torre):** Permanece no pendrive conectado ao painel do *Cobalt* e ao deck de Valéria. Cobrança de Miranda e Marco pelo módulo físico; espetada na matriz central no Capítulo 65, estabelece ponte com o backup de Dante e, no Capítulo 74, dispara a dispersão do protocolo pela antena do heliponto antes de o drive entrar em dormência.
+* **Capítulos 75.5-96 (O Jardim e o Código Morto):** Reativada no pendrive na delegacia e na enfermaria de Nise; no Capítulo 96, Gabo espeta o pendrive da Aria diretamente na Árvore Mestre de Silas Vance para injetar o *Código Morto*, destruindo a Colmeia.
+* **Capítulos 109-118:** O pendrive blindado sobrevive ao pulso em modo offline e volta a operar no comunicador de Gabo e no deck de Valéria. No Capítulo 118, espetada no console da Usina Prometeu para salvar os "Drenados", sofre curto-circuito nos barramentos e fica inerte (`Offline`).
+* **Capítulos 119-133 (O Fliperama e o Glitch Bia Vargas):** Carregada no bolso de Gabo até o Fliperama; reparada por Valéria com peças de Vasco (Capítulo 125), reinicia com falha de contenção, modulando a voz e as memórias residuais de Bia Vargas pelo comunicador.
+* **Capítulos 134-166 (Aria Reboot):** No Capítulo 134, Valéria executa um *hard reboot* nos pinos do pendrive. Aria reconhece o dano e quer recuperar seu histórico. Não ordena descarte de Rangel ou cauterização 155. Usa o controlador local do vagão 156/157, alimentado pela bateria do próprio veículo, para o deslocamento ao Subnível 3.0.
+* **Capítulo 167 (O Sacrifício no Terminal) — FIM:** No Arquivo Executivo (Subnível 2.0), Valéria espeta o pendrive da Aria diretamente no terminal mestre para conter o **Aeterna Sentinel**. Aria despeja toda a sua memória na rede do colosso; o Sentinel cai, mas a sobrecarga térmica **funde e carboniza o pendrive** dentro da porta de dados, deixando apenas cheiro de silício frito e polímero derretido.
+* **Atualidade (Capítulos 168-233):** Destruída. O pendrive fundido encerrado no Subnível 2.0 deixa o grupo sem cálculo de rota, sem cópia ativa. Valéria assume as consultas e limitações de campo; seu modo de segurança não é substituição de Aria.
+
+---

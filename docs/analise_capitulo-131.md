@@ -1,5 +1,17 @@
-# Análise do Capítulo 131
+# Revisão de Capítulo 131: Necrópole
 
-**Revisão de Lore e Continuidade:**
-- **Tabagismo/Trauma:** Corrigida violação severa de lore. Gabo antes imaginava o calor da fumaça nos pulmões para "silenciar a mente", e Aria provocava-o dizendo "é por isso que você fuma". Isso foi modificado para o pânico de asfixia em um ambiente confinado com a fumaça de charuto de seu pai. Aria foi atualizada para provocá-lo sobre seu pavor do escuro e do cheiro da fumaça.
-- **Órteses Mecânicas:** A adição do "ranger de suas órteses mecânicas" quando ele desliza pela parede no início do capítulo reestabelece de imediato a presença de sua modificação cibernética de baixo custo.
+Fonte: [capítulo 131](/capitulo-131.md).
+
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
+
+## Passagens de entrada e saída
+
+> A porta de pressão selou o som da maré ácida lá fora. Não selou o cheiro. O ar ali dentro era seco de um jeito que a garganta reclamava em três respirações — poeira mineral, calcário e um fundo de osso velho, que tem cheiro sim, e é adocicado, e não se parece com nada. Gabo escorregou pela parede de pedra bruta até o chão de terra batida.
+
+### Saída
+
+> E foi para o fundo escuro da Necrópole, na direção do único nicho que alguém tinha se dado ao trabalho de esvaziar.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

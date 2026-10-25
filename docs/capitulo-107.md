@@ -5,27 +5,26 @@ Localização: "Subsolo da Delegacia da Biblioteca"
 ---
 # Capítulo 107: O Teorema da Chuva
 
-**Subsolo da Delegacia da Biblioteca**
-
+Subsolo da Delegacia da Biblioteca
 A dor não era vermelha, como Gabo costumava descrever. Era branca. Um branco cegante, asséptico, como a luz da lâmpada halógena que Dante segurava sobre a perna dele.
 
 — O tecido humano é um design lamentável — disse Dante. Sua voz não tinha inflexão. Era a leitura de um diagnóstico. — Frágil. Inconsistente.
 
-Gabo trincou os dentes, segurando o grito na garganta enquanto a furadeira industrial gemia contra o osso. Sua mão direita buscou instintivamente o bolso interno, onde seus dedos se fecharam ao redor do "Colar de Sol" de Helena. O metal frio do pingente era sua única âncora na realidade.
+Gabo trincou os dentes, segurando o grito na garganta enquanto a furadeira abria a chapa externa do suporte. Aceitara o reparo mecânico depois de Nise verificar o curativo; não permitira que Dante alterasse o corpo. Sua mão direita buscou instintivamente o bolso interno, onde seus dedos se fecharam ao redor do "Colar de Sol" de Helena. O metal frio do pingente era sua única âncora na realidade.
 
-Ele estava deitado em uma bancada de trabalho suja de graxa no subsolo. Dante estava "reparando" sua órtese, mas não com a tecnologia limpa da Aeterna. Ali, na escuridão do mundo real, ele usava o que tinha: sucata.
+Ele estava sentado sobre um lençol limpo numa bancada do subsolo. A órtese direita repousava na morsa, fora da perna; o peso da cinta deixara a pele ferida. Dante estava "reparando" sua órtese, mas não com a tecnologia limpa da Aeterna. Ali, na escuridão do mundo real, ele usava o que tinha: sucata.
 
-Sem anestesia.
+O que doía era retirar e recolocar a cinta sobre a lesão. Gabo mandava parar, e Dante parava com uma impaciência que não tentava esconder.
 
 — Você podia... parar de furar... — arfou Gabo, suando frio.
 
-— A integridade estrutural exige fixação profunda, Gabriel — respondeu Dante, apertando um parafuso oxidado com força desumana. O cheiro de metal lixado e sangue encheu o ar. — Meus recursos físicos são limitados aqui. Tive que improvisar com pistões de uma prensa hidráulica quebrada e chapas de aço do revestimento da caldeira.
+— A integridade estrutural exige outro apoio na armação, Gabriel — respondeu Dante, apertando um parafuso recuperado com força desumana. O cheiro de metal lixado e sangue encheu o ar. — Meus recursos físicos são limitados aqui. Recuperei dois atuadores de transporte e um acumulador do almoxarifado. O circuito será externo, isolado da rede e com liberação manual. Não vai reparar a coluna.
 
 Dante parou. Ele olhou para Gabo. Seus olhos, antes tão cheios da fúria justa do velho Comissário, agora eram poços de lógica pura, analisando o trabalho grosseiro.
 
 — Pronto. Levante-se.
 
-Gabo hesitou. A perna parecia uma âncora de navio. Ele desceu da mesa. Quando o pé tocou o chão, o som foi pesado. *Clank*.
+Nise voltou para conferir a pele antes de Elena prender a cinta. Gabo testou primeiro o travamento, depois o desligamento manual. Só então desceu da mesa, apoiado nos dois lados. Quando o pé tocou o chão, o som foi pesado. *Clank*.
 
 Ele deu um passo. O servomotor recuperado gemeu alto, um som de protesto mecânico. O movimento foi brusco, forte, mas sem qualquer graça.
 
@@ -53,8 +52,7 @@ Dante virou-se para a porta.
 
 ***
 
-**Em Trânsito - Viatura Blindada "Rinoceronte"**
-
+Em Trânsito - Viatura Blindada "Rinoceronte"
 O interior do blindado cheirava a suor velho, óleo diesel e medo. Não havia janelas, apenas telas táticas que mostravam a chuva varrendo as ruas vazias lá fora.
 
 O veículo sacudia violentamente a cada buraco no asfalto degradado da Zona Industrial. Gabo estava sentado no banco de metal, segurando o rifle entre os joelhos. Sua perna nova pulsava com uma dor surda, rítmica, sincronizada com a vibração do motor.
@@ -103,8 +101,7 @@ Eles avançaram para a escuridão do porto.
 
 ***
 
-**Zona Portuária - O Ninho da Aranha**
-
+Zona Portuária - O Ninho da Aranha
 A chuva caía diferente ali. Não batia no chão com força; parecia ser absorvida pelo ar antes de tocar o concreto.
 
 Elena estava sentada na borda de um contêiner empilhado, observando o horizonte. Abaixo dela, centenas de pessoas se amontoavam em um acampamento improvisado. Eram os "Desconectados", os párias, os hackers que fugiram da purga, as famílias que perderam tudo.
@@ -115,7 +112,7 @@ Ela tinha saído da delegacia nos minutos em que todo mundo olhava para a varand
 
 Elena estendeu a mão. O ar ao redor dela vibrou.
 
-Ela havia tecido uma teia invisível. Usando os cabos de alta tensão abandonados e geradores de pulso eletromagnético roubados, a célula dos Desconectados criou uma cúpula de "silêncio digital". Nenhum sinal de rádio entrava. Nenhuma câmera funcionava. Para o mundo lá fora, aquele quilômetro quadrado simplesmente não existia.
+Ela havia tecido uma teia invisível. Usando os cabos de alta tensão abandonados e geradores de pulso eletromagnético roubados, a célula dos Desconectados criou uma cúpula de "silêncio digital". Os enlaces de vigilância falhavam nos testes de aproximação. Câmeras locais e registros anteriores continuavam um risco. O bloqueio escondia movimento de parte dos sensores; não apagava aquele quilômetro quadrado do mapa.
 
 — Eles estão vindo — disse uma voz atrás dela.
 

@@ -1,15 +1,38 @@
-# Análise do Capítulo 9: Feed Infinito
+# Parecer — Capítulo 9: Feed Infinito
 
-## Avaliação Técnica
-- **Ritmo (Pacing):** 9/10. Começa investigativo e escala rapidamente para uma cena de sobrevivência intensa no poço do elevador.
-- **Diálogos:** 8/10. Diálogos rápidos e reativos adequados à situação de fuga.
-- **Atmosfera:** 9/10. O contraste entre o luxo estéril do apartamento da cobertura e o desespero sujo do fosso do elevador é muito bem executado.
+Revisão de 21/10/2026. Leitura da fonte [atual](/capitulo-9.md), do
+[anterior](/capitulo-8.md) e do [seguinte](/capitulo-10.md).
+Prosa e espelho sincronizados; nota editorial não é nota do script lexical.
 
-## Pontos Fortes e Fracos
-- **Pontos Fortes:** A escalada da ameaça de intrusão do prédio inteligente e a fuga criativa usando a barra de aço e a descida no cabo do elevador.
-- **Pontos Fracos:** A rapidez com que o gás desce e eles conseguem quebrar a porta do elevador exige uma certa suspensão da descrença, mas funciona no gênero.
+## Mudanças e personagens
 
-## Sanity Check (Lore e Personagens)
-- **Gabo:** Nenhuma inconsistência. Mantém sua fobia intacta (nenhum tabaco citado, o gás é halon modificado e gera reação orgânica instintiva de sufocamento, mas ele mantém o foco no pragmatismo para fugir).
-- **Valéria:** Atua como suporte presencial e sofre fisicamente com a fuga, estabelecendo a periculosidade do trabalho de campo para ela nesta fase.
-- **Trama:** Coleta de evidências (drive físico no ralo) move o mistério adiante de forma lógica.
+A perícia tem autorização, lacres e limites de acesso. O drive é encontrado por
+vestígios e preservado offline. A fuga usa recurso apresentado antes da armadilha
+e alcança a plataforma do piso 199. O gás é desconhecido; há medição de oxigênio,
+sem diagnóstico por cor. Aria informa uma leitura antiga, sem fingir telemetria
+contínua. As lesões no tornozelo e nas mãos seguem para 10 e 11.
+
+## Portões
+
+| Critério | Resultado |
+| --- | --- |
+| D1 | 1.279 palavras de prosa; dentro do alvo |
+| D2 | Um H1, igual ao menu |
+| D3 | Local, pessoas presentes e participações indiretas separados |
+| D4 | Estado corporal, hardware e identidades conferidos no bloco; pendências globais abaixo |
+| D5 | Nova ordem de limpeza chega com o porteiro |
+
+## Notas de leitura
+
+Atmosfera 2: lavanda, irritação do ar, pressão e poço alteram a busca. Custo 1:
+lesões e perda de controle, sem permanência comprovada. Voz 2: Valéria conduz a
+fuga, Aria limita o que sabe e Gabo espera. Ritmo 2: cada tentativa altera o
+risco. Consequência 1: a preservação física torna-se alvo. Total: 8/10.
+
+## Limites e continuidade
+
+O drive pode ter outra autoria; seu conteúdo requer análise isolada. Não há
+identificação do invasor pela sola da bota nem prova de que o prédio esteja
+consciente. O corpo ferido limita a ação seguinte; não há recuperação instantânea.
+
+Veredito: revisão local aplicada. Aprovação integral do arco permanece pendente.

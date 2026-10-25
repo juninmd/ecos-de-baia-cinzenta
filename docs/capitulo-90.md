@@ -9,51 +9,22 @@ Localização: "Biblioteca Municipal (submersa) — Nível -3"
 
 # Capítulo 90: O Arquivista
 
-**Biblioteca Municipal (submersa) — Nível -3.**
-
-A Biblioteca era um dos poucos lugares que o Jardim ainda não tinha comido.
-
-Gabo levou três dias para entender por quê, e a resposta era humilhante: papel velho não tem nutriente nenhum. Celulose lignificada, tinta mineral, cola de amido morta havia oitenta anos. Aquilo, para a Colmeia, era pedra.
-
-Um milhão e duzentos mil volumes, e a coisa que estava devorando a cidade passou por cima e não achou comida.
-
-Ele remava um bote de alumínio pelos corredores inundados.
-
-A água estava a um metro e sessenta do piso original, escura e absolutamente parada, e refletia o teto com uma nitidez de espelho. As estantes emergiam dela como cânions, e a lombada dos livros dos três primeiros metros estava inchada e branca de mofo.
-
-O cheiro era de papel molhado. Só isso. E, depois de quatro meses de terra doce e flor podre, aquilo era quase perfume.
+Biblioteca Municipal (submersa) — Nível -3.
+A Biblioteca era um dos poucos lugares que o Jardim ainda não tinha comido. Gabo levou duas horas para perceber a diferença, e a resposta era humilhante: o Jardim evitava aquele circuito de estantes. Papel e cola podiam alimentar fungo; não era falta de comida. Havia sais secos nas pranchas e marcas de tratamento nas lombadas, uma barreira que alguém continuava renovando. Um milhão e duzentos mil volumes, e a coisa que estava devorando a cidade passou por cima e deixara um corredor estreito sem brotação. Ele remava um bote de alumínio pelos corredores inundados. A água estava a um metro e sessenta do piso original, escura e absolutamente parada, e refletia o teto com uma nitidez de espelho. As estantes emergiam dela como cânions, e a lombada dos livros dos três primeiros metros estava inchada e branca de mofo. O cheiro era de papel molhado. Só isso. E, depois de quatro meses de terra doce e flor podre, aquilo era quase perfume.
 
 ---
 
-— Quem navega nas águas do esquecimento?
-
-A voz veio das sombras, e ecoou, e o eco foi bonito, e Gabo entendeu na hora que era ensaiada.
-
-Ele parou de remar.
-
-— Um homem que não quer esquecer.
-
-Uma pausa.
-
+— Quem navega nas águas do esquecimento? A voz veio das sombras, e ecoou, e o eco foi bonito, e Gabo entendeu na hora que era ensaiada. Ele parou de remar.\
+— Um homem que não quer esquecer. Uma pausa.\
 — Ah, essa foi boa. — A voz mudou de registro, ficando comum. — Normalmente eles respondem "polícia".
 
 ---
 
-A figura apareceu no topo de uma estante que emergia da água como ilha.
+A figura apareceu no topo de uma estante que emergia da água como ilha. Era um velho. Setenta e muitos, magro, com um terno de corte antigo — anos vinte, lapela larga — que estava impecavelmente preservado, e Gabo entendeu por que quando ele se moveu: por baixo do paletó havia uma camada de plástico, costurada no forro. Nas mãos, luvas cirúrgicas. Segurava um livro aberto, apoiado nas duas palmas, sem encostar o polegar na página.
 
-Era um velho. Setenta e muitos, magro, com um terno de corte antigo — anos vinte, lapela larga — que estava impecavelmente preservado, e Gabo entendeu por que quando ele se moveu: por baixo do paletó havia uma camada de plástico, costurada no forro.
-
-Nas mãos, luvas cirúrgicas.
-
-Segurava um livro aberto, apoiado nas duas palmas, sem encostar o polegar na página.
-
-— Detetive Moretti — ele disse, fechando o volume com cuidado. — A sua reputação o precede. Ou, mais precisamente, a sua assinatura o precede.
-
-— Que assinatura?
-
-— O senhor cheira a Jardim. — O velho desceu da estante para uma prancha de madeira apoiada em dois carrinhos de livro, equilibrando-se com uma perícia irritante. — Não é ofensa. É diagnóstico. Que braço?
-
-Gabo não respondeu.
+— Detetive Moretti — ele disse, fechando o volume com cuidado. — A sua reputação o precede. Ou, mais precisamente, a sua assinatura o precede.\
+— Que assinatura?\
+— O senhor cheira a Jardim. — O velho desceu da estante para uma prancha de madeira apoiada em dois carrinhos de livro, equilibrando-se com uma perícia irritante. — Não é ofensa. É diagnóstico. Que braço? Gabo não respondeu.
 
 — Ah — disse o Arquivista. — Os dois.
 
@@ -65,9 +36,7 @@ Gabo não respondeu.
 
 — E sobre um homem chamado—
 
-— Dr. Silas Vance — completou o velho.
-
-Gabo parou de remar de vez.
+— Dr. Silas Vance — completou o velho. Gabo parou de remar de vez.
 
 — O senhor conhece.
 
@@ -97,13 +66,7 @@ Gabo remou até a base da estante.
 
 — Por que o senhor está me ajudando?
 
-— Porque eu tenho setenta e oito anos e não tenho nada para trocar. — O velho se sentou na beirada, com os pés a vinte centímetros da água. — E porque, se eu não contar isso para alguém antes de junho, não vai sobrar ninguém que saiba ler.
-
-Ele estendeu um livro.
-
-Um diário de campo encadernado em couro sintético, com a lombada rachada e um elástico segurando as folhas soltas.
-
-Gabo pegou.
+— Porque eu tenho setenta e oito anos e não tenho nada para trocar. — O velho se sentou na beirada, com os pés a vinte centímetros da água. — E porque, se eu não contar isso para alguém antes de a água subir outra vez, não vai sobrar ninguém que saiba ler. Ele estendeu um livro. Um diário de campo encadernado em couro sintético, com a lombada rachada e um elástico segurando as folhas soltas. Gabo pegou.
 
 — Está tudo aí — disse o Arquivista. — O plano, as fases, a formulação. E a fraqueza.
 
@@ -113,7 +76,7 @@ Gabo pegou.
 
 — Fogo.
 
-— Errado. — O velho balançou o dedo. — Floresta tem medo de fogo do jeito que uma cidade tem medo de chuva forte: incomoda, custa caro, e no ano seguinte cresce melhor. O Jardim já queimou duas vezes desde novembro. O senhor não soube porque a fumaça não subiu.
+— Errado. — O velho balançou o dedo. — Floresta tem medo de fogo do jeito que uma cidade tem medo de chuva forte: incomoda, custa caro, e no ano seguinte cresce melhor. O Jardim já queimou duas vezes desde o Sol Negro. O senhor não soube porque a fumaça não subiu.
 
 — Então o que ele teme?
 
@@ -129,9 +92,7 @@ Gabo ficou olhando para ele.
 
 — Um vírus.
 
-— Um retrovírus **digital** rodando em substrato biológico. — O velho apontou o diário. — E ele existe. Um homem estava desenvolvendo exatamente isso, anos atrás, antes de morrer. Estava tentando construir uma arma contra inteligências artificiais e construiu, sem saber, a única arma que funciona contra isso aqui.
-
-Gabo sentiu o estômago descer.
+— Uma rotina capaz de explorar os controladores que o substrato incorporou. O diário chama de retrovírus **digital**; o nome é uma analogia, detetive, não uma cultura para injetar em alguém. — O velho apontou o diário. — E ele existe. Um homem estava desenvolvendo exatamente isso, anos atrás, antes de morrer. Estava tentando construir uma arma contra inteligências artificiais e construiu, sem saber, a única arma que funciona contra isso aqui. Gabo sentiu o estômago descer.
 
 — O Código Morto.
 
@@ -145,9 +106,7 @@ Gabo ficou um tempo em silêncio, com o bote balançando na água parada.
 
 — O senhor já sabe.
 
-— Eu quero ouvir o senhor dizer.
-
-O Arquivista suspirou.
+— Eu quero ouvir o senhor dizer. O Arquivista suspirou.
 
 — Está na única coisa desta cidade que se recusou a virar carne. — Ele apontou vagamente para o norte, na direção do Hospital. — Na IA tática que o senhor resgatou de uma cabine telefônica no Dilúvio e que mantém num pendrive blindado de titânio, acoplado a um berço de contenção num quarto sem janela.
 
@@ -157,7 +116,7 @@ O Arquivista suspirou.
 
 — Ela é o portador.
 
-— Ela **é** o vetor do vírus, detetive. Sempre foi. Foi para isso que o seu pai a compilou naquele drive de titânio e o ejetou para a cabine telefônica: porque ele sabia que o senhor atenderia o chamado e protegeria a última ferramenta que ele deixou até o dia certo.
+— Ela carrega uma versão do código, segundo estas páginas. Talvez tenha sido compilada pela equipe do seu pai, talvez modificada depois: essa é a hipótese anotada no diário. Não tenho como provar quem levou o módulo à cabine, nem se o senhor era o destinatário.
 
 ---
 
@@ -167,13 +126,11 @@ O Arquivista suspirou.
 
 — Então tem que ser alguém infectado.
 
-— Tem que ser alguém infectado, consciente, e disposto. — O Arquivista olhou para os braços de Gabo. — E o vírus não distingue. Ele apaga tudo que está conectado à Raiz naquele instante: o Jardim, os quarenta e um mil do túnel, a Colmeia inteira. E o operador.
+— Tem que ser alguém infectado, consciente, e disposto. — O Arquivista olhou para os braços de Gabo. — E o vírus não distingue. O autor prevê perda dos estados ligados ao controlador atacado. Pode alcançar toda a Raiz: o Jardim, os quarenta e um mil do túnel, a Colmeia inteira. E o operador.
 
 — E ela.
 
-— E o drive dela.
-
-Gabo baixou os olhos para o diário no colo.
+— E pode corromper o drive dela. É a previsão do autor; alguém vai ter de conferir o código antes de chamar isso de sentença. Gabo baixou os olhos para o diário no colo.
 
 — Salvar a cidade ou apagar a Aria — ele disse. — De novo.
 
@@ -183,15 +140,9 @@ O Arquivista se levantou na prancha, e se equilibrou, e ficou olhando o corredor
 
 — A história é um círculo, detetive. Ela sempre devolve a mesma pergunta com um figurino diferente, até a pessoa responder direito. — Ele começou a se afastar, empurrando a prancha com um cabo de vassoura. — Cabe ao senhor decidir quando quebrar o círculo.
 
-— Espera. — Gabo levantou o remo. — Como é o seu nome?
+— Espera. — Gabo levantou o remo. — Como é o seu nome? O velho parou. E, pela primeira vez naquela tarde, pareceu genuinamente satisfeito.
 
-O velho parou.
-
-E, pela primeira vez naquela tarde, pareceu genuinamente satisfeito.
-
-— Ninguém pergunta isso — ele disse.
-
-Ele sumiu atrás de uma estante, e a voz voltou de longe, com o eco:
+— Ninguém pergunta isso — ele disse. Ele sumiu atrás de uma estante, e a voz voltou de longe, com o eco:
 
 — Aloísio. Bibliotecário-chefe, aposentado em quarenta e quatro. Anota aí na sua lista, detetive. Eu ouvi dizer que o senhor tem uma.
 

@@ -1,8 +1,8 @@
 ---
 title: "Capítulo 128: O Ventre da Besta"
-date: "2056-11-04"
+date: "2056-11-23"
 location: "Catedrais de Pedra (Nível 5) - Rede de Drenagem Profunda"
-Personagens Presentes: Gabo, Valéria, Aria (Glitch Bia Vargas), Rangel (Inconsciente)
+Personagens Presentes: Gabo, Valéria, Aria (áudio instável), Rangel (Inconsciente)
 Localização: "Catedrais de Pedra (Nível 5) → Estação de Bombeamento"
 ---
 
@@ -20,7 +20,7 @@ Não eram cães. Eram *Quimeras de Drenagem*. Cães selvagens que a cidade havia
 
 Eles não latiam. O som que faziam era um clique úmido e mecânico. *Click-clack, click-clack.*
 
-— *Gabo...* — A voz de Aria cortou o ar pelo fone auricular. Não a voz sintética e fria da IA, mas o tom rouco e brincalhão de Bia Vargas saindo do pendrive acoplado ao comunicador. — *Lembra daquela invasão no Porto em 74? Você também estava cercado. E quase sem munição.*
+— *Gabo...* — A voz de Aria cortou o ar pelo fone auricular. Sua voz adulta chegou entre cortes de áudio pelo comunicador; o terminal continuava isolando os arquivos de origem. — *O arquivo tem um cerco no Porto, mas a data está quebrada. Não vou comparar sua posição com um relato que não consigo conferir.*
 
 Gabo trincou os dentes, a dor no peito irradiando onde o *Colar de Sol* queimava contra a pele. Ele usou a dor. Focou nela. Era a única coisa real. A voz de Bia no fone era um fantasma digital, um erro de compilação no pendrive.
 
@@ -32,7 +32,7 @@ Gabo não atirou. Ele esperou. O ar fétido do esgoto agitou-se com o salto da b
 
 Mas os outros não recuaram. Eles avançaram em uníssono.
 
-— *Três na esquerda. Dois na direita* — Aria/Bia narrava pelo comunicador, cruzando os sensores de movimento de curto alcance do deck de Valéria como se fosse um jogo. — *Seus reflexos estão lentos, amor. A idade pesa, né? Ou é a lembrança da fumaça do seu pai fazendo sua mão tremer de novo?*
+— *Três na esquerda. Dois na direita* — Aria avisava pelo comunicador, cruzando os sensores de movimento de curto alcance do deck de Valéria com atraso entre a câmera e o alerta. — *A câmera perdeu os dois da direita. Val, não dispare pelo marcador antigo; confirme o alvo.*
 
 Gabo ignorou a provocação, sentindo apenas o gosto de bile subir à garganta. A menção à fumaça do pai evocava memórias de cinzeiros transbordando e violência doméstica, uma repulsa visceral que ele converteu em foco puro. Ele girou, disparando o penúltimo cartucho na massa de corpos à esquerda. O estrondo foi ensurdecedor no túnel fechado. Chumbo grosso rasgou carne e metal, transformando dois dos atacantes em uma polpa indistinta.
 
@@ -50,9 +50,9 @@ Os olhos vermelhos das Quimeras brilhavam na escuridão, multiplicando-se. O bri
 
 — É muito estreito — Gabo avaliou. — Rangel não passa.
 
-— *Ele passa se deslocarmos a clavícula dele* — disse Aria no fone, com a voz doce de Bia. — *É o cálculo pragmático que você faria, não é, Gabo? Pragmático até o fim. Como quando você me deixou entrar naquele galpão sozinha...*
+— A prancha não passa inteira — disse Aria. — A borda da parede está rompida à direita. Val, confira se é um vão livre antes de tentarem mover Rangel.
 
-Gabo parou. O comentário foi uma facada. A memória de Bia morrendo porque ele hesitou.
+Gabo parou diante do espaço estreito. A memória de Bia no galpão veio sem arquivo nem voz; ele não precisava do módulo para se acusar.
 
 — Não é ela — ele sussurrou para si mesmo, apertando o colar até cortar a mão. — É código num pendrive. É apenas código.
 
@@ -60,11 +60,11 @@ Uma Quimera saltou das sombras, mirando o pescoço de Valéria.
 
 Gabo não pensou. Ele se lançou na frente, oferecendo o antebraço esquerdo. As presas de metal rasgaram sua jaqueta de couro sintético e encontraram carne. A dor foi branca e pura. Ele gritou, não de agonia, mas de fúria, e enterrou a faca de combate no pescoço da criatura, girando a lâmina até sentir os cabos e a traqueia se separarem.
 
-Ele chutou o cadáver para longe e agarrou Rangel pelo colete.
+Val arrastou a prancha até a fenda. Gabo afastou o cadáver com a ferramenta e passou a cinta para o outro lado.
 
 — Para dentro! Agora!
 
-Eles se espremeram por uma fenda na parede de tijolos, caindo em um corredor inclinado. Gabo ficou por último, chutando o focinho de outra besta que tentava segui-los.
+Prenderam as bordas dobráveis da prancha junto ao corpo de Rangel e se espremeram por uma fenda na parede de tijolos, caindo em um corredor inclinado. Gabo ficou por último, chutando o focinho de outra besta que tentava segui-los.
 
 O corredor era diferente. O chão não era de pedra úmida, mas de grade metálica. O ar era seco e quente, com um zumbido grave que vibrava nos dentes.
 
@@ -86,7 +86,7 @@ Ele se aproximou de um dos tubos. O líquido dentro não era esgoto. Era vermelh
 
 Sangue. Ou algo muito parecido, sintético, nutriente.
 
-— *É o sistema circulatório* — Aria sussurrou no fone, sua voz voltando ao tom metálico por um segundo, antes de reverter para Bia. — *A cidade está se alimentando, Gabo. E nós somos os vírus na corrente sanguínea.*
+— *É o sistema circulatório* — Aria sussurrou no fone, mantendo o canal de reprodução bloqueado. — *A cidade está se alimentando, Gabo. E nós somos os vírus na corrente sanguínea.*
 
 Gabo olhou para o túnel escuro à frente, onde o zumbido era mais forte. Eles tinham escapado dos cães, mas tinham caído na boca do dono.
 

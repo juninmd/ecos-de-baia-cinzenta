@@ -1,96 +1,106 @@
 ---
 image: /capitulo_34.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Valéria "Val" Cruz
-Localização: "Avenida do Distrito Central"
+Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Valéria "Val" Cruz, Aria (módulo no painel), integrantes da Gangue dos Neons e civis capturados
+Localização: "Cobalt, avenida do Distrito Central → rua lateral"
 ---
 # Capítulo 34: O Julgamento da Rua
 
-Dirigir pelo Distrito Central sem a Rede de Tráfego era como navegar num campo minado. Destroços de drones, barricadas improvisadas e as carcaças de carros autônomos pontuavam a avenida.
+Elena dirigia de segunda, evitando os buracos que conseguia ver. O Cobalt tinha saído da garagem havia pouco. Em cada desnível, Gabo pressionava o banco com a mão esquerda e esperava a dor atravessar a perna imobilizada.
 
-Gabo dirigia com uma mão, a outra batucando no volante. Elena mantinha a pistola no colo, os olhos varrendo as sombras que dançavam e fugiam da luz dos faróis.
+O motor fazia mais barulho do que os três gostariam. A chuva parara uma hora antes; das marquises ainda caíam gotas grossas, uma de cada vez. O ar que entrava pela janela tinha gosto de fumaça e ferrugem.
 
-A chuva tinha parado havia uma hora, e a cidade ficou com aquele silêncio de coisa molhada escorrendo. O Cobalt ia de segunda, sem farol alto, e o motor fazia mais barulho do que Gabo queria. Cada buraco na rua subia pela perna direita e parava no joelho como uma agulha empurrada de dentro.
+— Para — disse ele.
 
-— Para — disse Elena, a voz baixa e tensa.
+Elena freou antes de perguntar. Cinquenta metros adiante, uma van blindada bloqueava parte da avenida. Holofotes ligados a um gerador iluminavam uma fila de pessoas ajoelhadas. Havia crianças entre os adultos. Dois homens de colete separavam os mais jovens e os levavam para a porta lateral do veículo.
 
-Gabo freou, o carro deslizando um pouco no asfalto molhado.
+Valéria se inclinou entre os bancos, protegendo o ombro. O olho direito acompanhou o facho; o esquerdo ficou sem resposta.
 
-Cinquenta metros à frente, uma van blindada preta bloqueava a pista. Holofotes potentes, ligados a geradores barulhentos, iluminavam um grupo de civis ajoelhados na calçada. Famílias, crianças, idosos.
+— Neons — disse.
 
-Havia uma fila de gente no asfalto molhado, e os holofotes deixavam cada gota de chuva visível no ar, uma poeira de vidro. Os bandidos separavam as pessoas por idade: os velhos de um lado, os jovens de outro. Duas mulheres já estavam dentro da van, com as mãos amarradas no batente.
+Gabo reconheceu o símbolo apagado num colete. Não precisava concluir o que faziam a todos para ver as mãos amarradas de duas mulheres no batente da van.
 
-Homens mascarados com coletes táticos, cujos símbolos de neon agora estavam mortos, andavam entre eles. A Gangue dos Neons, agora reduzida a abutres sem sua tecnologia.
+Um idoso demorou a se ajoelhar. O homem atrás dele chutou suas pernas e o atingiu com um tiro antes que terminasse de cair.
 
-— O que eles estão fazendo? — sussurrou Val, espiando pelo vão dos bancos.
+Elena tirou o pé do acelerador. Gabo tentou alcançar a maçaneta; o braço direito puxou a tipoia, e ele parou com a mão sobre o próprio peito.
 
-Valéria estava no banco de trás com o deck apagado no colo e o olho esquerdo com uma sombra cinza no lugar do anel prateado. Ela não reclamava. Reclamar tinha virado um luxo de quem não devia nada a ninguém.
+Uma mulher virou o rosto para os faróis. Tinha uma criança apertada contra o casaco.
 
-— "Limpeza" — disse Gabo, a voz carregada de desprezo. Um dos homens chutou um idoso que não se ajoelhou rápido o suficiente. — Acham que o Apagão é uma licença para punir os "não-evoluídos".
+— Leva ele — gritou. — Sete anos. Eu fico.
 
-Um dos bandidos ergueu uma pistola e atirou na cabeça do idoso. O corpo caiu sem cerimônia na poça de chuva.
+O filho não soltou sua cintura. Gabo viu o homem de colete procurar de onde vinha a voz e, em seguida, olhar para o Cobalt.
 
-Uma mulher de joelhos ergueu as duas mãos, sem olhar para os bandidos, olhando para os faróis do Cobalt.
+— Caronte com dois — disse Elena. — Glock com seis. Eles têm gente na frente.
 
-— Leva ele — disse ela, e a voz saiu sem chorar, o que era pior. — Leva o meu filho. Ele tem sete anos. Eu fico.
+— Eu vi.
 
-Gabo não respondeu, porque não havia resposta que ele pudesse dar de dentro de um carro, a cinquenta metros.
+— Não me diz que viu e depois manda eu entrar com o carro.
 
-O sangue de Gabo ferveu. Não era a raiva fria e calculista do detetive. Era ódio.
+Aria falou pelo painel, em volume baixo.
 
-— A gente tem duas armas e um carro — disse Elena, e a voz dela era baixa e rápida, de quem faz conta. — Se você entrar, eles atiram em quem está ajoelhado para te acertar.
+— *Pela câmera do deck, vejo uma abertura até a marquise da esquerda. A mulher pode chegar atrás da caçamba.*
 
-— Eu sei.
+Val olhou. Uma caçamba interrompia a linha entre a calçada e o Cobalt. Não protegia todo o trajeto. O espaço depois dela cabia num carro, sem lugar para manobrar rápido.
 
-— Então me diz que você sabe e vai fazer mesmo assim.
+— Se a gente recuar agora, eles levam os dois — disse Gabo.
 
-— Eu vou fazer mesmo assim.
+Elena manteve as mãos no volante. Ele não deu outra ordem.
 
-— Ótimo. — Ela não desviou os olhos da rua. — Eu só queria ouvir você dizer.
+— Eu chego na esquina — decidiu ela. — Se abrirem tiro em cima dos reféns, eu tiro o carro. Você não levanta desse banco.
 
-— Elena, assume o volante — ordenou Gabo, já abrindo a porta.
+Ela apagou o farol alto, deixou a luz baixa e avançou até a caçamba. O homem armado correu na direção da van. Outro apontou para o para-brisa.
 
-— O que você vai fazer? — perguntou ela, deslizando para o banco do motorista.
+Gabo apoiou a Caronte na borda da janela, com a coronha encostada no banco, e manteve a mão esquerda sobre a arma. Não havia força para sustentá-la fora daquele apoio. Havia gente ajoelhada atrás do homem em quem tentava mirar.
 
-Gabo foi até o porta-malas. Abriu-o e afastou alguns panos oleosos. Havia um cheiro de graxa velha e de pólvora guardada, e o cilindro estava frio de noite. Lá dentro não havia uma arma sofisticada, mas algo muito mais pessoal e brutal: um lançador improvisado, feito com um cilindro de suspensão de caminhão e um sistema de ignição de fogos de artifício. Ao lado, um projétil caseiro: uma lata de café cheia de pregos, parafusos e pólvora industrial.
+— Não tenho tiro — disse.
 
-Ele encaixou a lata no tubo. O clique de travamento foi o som mais satisfatório da noite.
+Elena parou o Cobalt atravessado na entrada da rua lateral, deixando a frente do motor entre a fila e a porta traseira. Buzinou duas vezes. A mãe correu primeiro; o menino ficou no lugar, até ela voltar um passo e puxá-lo pelo capuz.
 
-Era um tiro. Um. O tubo não aguentava dois, e a lata não tinha espoleta de segurança: se ele demorasse meio segundo a mais com o interruptor apertado, o negócio explodia no ombro dele e não sobrava ombro.
+O primeiro disparo atingiu a caçamba. O segundo furou o vidro traseiro do carro. Val se abaixou e abriu a porta do lado da marquise com a mão esquerda. O esforço tirou dela um grito curto.
 
-— Ei! — gritou Gabo, apoiando o tubo pesado no ombro. O metal frio pressionou contra sua clavícula.
+— Aqui! — chamou.
 
-Ele calculou a distância duas vezes. Cinquenta metros e um pouco. A van estava de lado: se acertasse a roda dianteira, o ferro pegava nos bandidos e não nos reféns. Se acertasse meio metro acima, matava a fila inteira.
+A mulher empurrou o filho para dentro e caiu por cima dele. Val tentou puxar a porta, mas o ombro cedeu. A mãe a fechou com o pé antes de se arrastar para longe da janela.
 
-Os bandidos se viraram, ofuscados pelos faróis do Cobalt.
+Um dos homens contornou a van para buscar ângulo sobre o carro. Já não havia ninguém entre ele e a quina do motor. Elena soltou o volante, alcançou a Glock e disparou duas vezes pela janela lateral. O homem caiu atrás da roda. Ela não ficou para verificar se voltaria a se mover.
 
-— Gostam de luzes fortes? — gritou Gabo, a voz rouca. — Então segurem esta!
+Os outros usaram a fila como cobertura.
 
-Ele apertou o interruptor.
+Uma moça começou a se erguer junto do homem morto na poça. O bandido atrás dela prendeu a corda em sua nuca e a puxou de volta. Gabo mudou a mira; a cabeça dela entrou na frente do cano.
 
-O recuo foi um coice de mula. A força da explosão o jogou para trás, e ele caiu sobre a perna quebrada. Uma dor branca e cegante explodiu em seu joelho, e ele gritou, um som abafado pela detonação.
+— Não tenho tiro — repetiu.
 
-Ele ficou no asfalto por três segundos, e naqueles três segundos ouviu tudo: o zumbido no ouvido esquerdo, a bota raspando no chão, o próprio coração. A bota direita estava cheia. Ele não olhou. Sabia o que era.
+Ele disse isso à terceira pessoa que podia ouvir: a mulher agachada no banco de trás. Não queria que a frase parecesse uma desculpa quando ela percebesse quem ficava.
 
-Mas o projétil voou. A lata sibilou pelo ar, um meteoro de fúria enferrujada, e atingiu a lateral da van.
+Elena deixou a pistola entre os joelhos e engatou a ré. Um tiro bateu no capô. O motor perdeu giro, recuperou, e o carro saiu da linha dos holofotes com a lateral raspando no poste da esquina.
 
-A explosão não foi limpa. Foi suja, gutural. Metal rasgou. A van não capotou, mas a lateral se abriu como uma flor de aço retorcido. A onda de choque e uma chuva de estilhaços derrubaram os bandidos mais próximos.
+— Tem duas mulheres presas na van — disse a mãe, sem erguer a cabeça. — Uma de blusa amarela. A outra trabalha na padaria da Onze.
 
-Gabo, ignorando a dor lancinante, largou o cano quente da arma e sacou sua pistola, usando o carro como apoio para se levantar.
+Elena pediu nomes. Ela sabia um: Soraia. Não sabia o sobrenome. Val anotou no deck, junto da avenida, direção da van e símbolo dos coletes. O registro não mandaria ajuda sozinho.
 
-— Quem mais quer brincar?! — rugiu ele, a visão turva pela dor.
+Na rua seguinte, Gabo mandou Aria buscar uma rota até um posto policial.
 
-Os sobreviventes, atordoados e sangrando, olharam para a figura que mancava em sua direção, iluminada pelas chamas. Eles não viram um homem, viram um demônio. E correram, desaparecendo na escuridão dos becos.
+— *Só tenho o mapa salvo antes da queda. Não sei o que continua aberto.*
 
-Um menino, o menor do grupo, não correu. Ficou parado no meio da calçada, olhando Gabo com a boca aberta, e depois começou a chorar de um jeito que não era alívio. A mãe o puxou pelo capuz. Ele tinha medo do homem que mancava em direção a ele, e não dos homens que tinham ido embora.
+Ele pediu o mapa mesmo assim. Precisariam comparar cada passagem com a rua, sem uma linha azul capaz de garantir que chegariam.
 
-Os reféns olhavam para Gabo, paralisados entre o medo e a gratidão.
+A mulher viu a camisa dele por baixo do sobretudo e perguntou se era policial.
 
-— Saiam daqui! — gritou Gabo para eles. — Vão para os abrigos! Agora!
+— Sou.
 
-Ele se arrastou de volta para o carro, o rosto pálido e suado.
+— Então volta com mais gente.
 
-Uma das mulheres que ele mandara correr ficou parada na calçada, olhando a van em chamas, e depois cuspiu no chão na direção dele. Ele não teve certeza do que aquilo significava, e não teve tempo de perguntar.
+Gabo guardou a Caronte com os dois cartuchos que não disparara. O peso deles lhe pareceu pior do que o vazio anterior. Não prometeu que encontraria reforço, mas pediu que ela repetisse a descrição da van para Elena.
 
-— Isso foi... barulhento — comentou Elena, quando ele caiu no banco do passageiro.
+Pararam na entrada de um abrigo sinalizado por um lampião e uma faixa branca. A mulher reconheceu uma voluntária e chamou pelo nome. Só então Elena abriu a porta. O menino não quis descer enquanto viu a escopeta junto de Gabo; ele a cobriu com o sobretudo antes que a mãe tentasse puxá-lo outra vez.
 
-— Eu não faço sutil — disse Gabo, ofegante, segurando o joelho. — Eu faço o trabalho. Acelera. Antes que eu desmaie.
+Antes de descer, a mulher perguntou para quem iria o nome dela. Elena disse que conservaria o relato com os demais registros e perguntaria antes de identificar a família numa publicação. A mãe olhou o filho, depois a rua por onde tinham vindo.
+
+— A van vocês podem descrever. Ele, não.
+
+Elena riscou da cópia destinada ao abrigo a descrição que permitiria reconhecer o menino. Guardou o original separado. Não sabia se ainda existiria jornal, mas aquela decisão não exigia uma redação funcionando.
+
+A mulher tinha sangue na meia e não sabia dizer se era seu. Elena avisou a pessoa do portão e lhe entregou uma cópia manuscrita do endereço da captura. Conservou outra com os nomes que faltavam.
+
+Quando o Cobalt voltou à avenida, o gerador dos holofotes ainda era audível por trás dos prédios.
+
+Do banco de trás, Val recolheu do tapete o cadarço que o menino perdera na fuga.

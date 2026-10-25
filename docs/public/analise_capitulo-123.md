@@ -1,25 +1,17 @@
----
-estado: revisado
-capitulo: 123
----
+# Revisão de Capítulo 123: Protocolo de Sombra
 
-# Análise Crítica - Capítulo 123
+Fonte: [capítulo 123](/capitulo-123.md).
 
-## Metadados
-- **Capítulo:** 123: Protocolo de Sombra
-- **Data de Revisão:** (Atual)
-- **Revisor:** AI
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-## Avaliação Técnica (1-10)
-- **Ritmo (Pacing):** 9/10
-- **Diálogos:** 8/10
-- **Atmosfera:** 9/10
+## Passagens de entrada e saída
 
-## Pontos Fortes e Fracos
-- **Fortes:** A ambientação do apagão estabelece perfeitamente o caos. A introdução de Vasco mostra o lado escuro das negociações de rua.
-- **Fracos:** Anteriormente, o texto apresentava contradições quanto ao trauma do protagonista, usando frases dúbias.
+> A tampa do bueiro pesava uma tonelada. Gabo empurrou o metal enferrujado com o ombro, sentindo os músculos protestarem, e o som de atrito ecoou como um grito abafado na rua deserta.
 
-## Sanity Check
-- **Aversão a Fumo:** Verificado e corrigido. O texto deixava a entender que ele era "viciado em fumaça", o que é contra o lore (ele tem trauma e fobia de fumaça, especificamente do pai). A cena onde ele aperta o colar foi reforçada para mostrar que ele usa a dor para evitar a alucinação olfativa e o trauma mental.
-- **Locomoção (Órteses):** Verificado e corrigido. Foram adicionadas menções claras de que Gabo usa órteses mecânicas nas pernas, seja ao empurrar o bueiro ou ao dar um chute com o "peso morto de metal" de sua prótese, validando seu estado de ciborgue quebrado.
-- **Coerência de Plot:** A negociação com Vasco para conseguir os medicamentos para Rangel funciona bem e move a trama.
+### Saída
+
+> Lá fora, o ar estava limpo de fumaça por um momento. Ele respirou fundo, sentindo a chuva fria lavar o gosto amargo da memória de seu pai. O colar em sua mão já não doia tanto.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

@@ -9,13 +9,13 @@ Personagens Presentes: Gabo, Valéria
 
 A chuva fina que castigava as ruínas do Distrito 4 parou, deixando em seu lugar um nevoeiro denso e frio, impregnado com cheiro de cobre molhado e fuligem industrial. O silêncio era absoluto, quebrado apenas pelo chiar intermitente dos servos descalibrados do meu braço mecânico e pelo som oco dos nossos passos no asfalto fragmentado.
 
-A dor latejava no meu ombro direito com a precisão de um relógio de ponto. Cada passada pela lama era uma fisgada aguda; cada movimento de rotação do tronco, uma queimação profunda nos nervos onde Vasco havia cravado os pregos de interface. Era um lembrete físico, pesado e implacável, de que a gravidade de Baía Cinzenta ainda não havia desistido de nos derrubar.
+A dor no ombro já não separava uma passada da outra. A cobertura refeita junto ao ônibus segurava, mas eu precisava parar para aliviar o peso no arnês. Val conferiu o meu curativo antes de olhar o mapa. Não havia confirmação no canal de Nise; a mensagem de localização continuava sem resposta.
 
 O cenário à nossa volta era um cemitério fabril a céu aberto. Galpões de decantação com os telhados desabados, tanques de armazenamento de produtos químicos carcomidos pela ferrugem e guindastes estáticos que pareciam esqueletos de bestas pré-históricas vigiando a podridão.
 
 Valéria caminhava meio metro à frente, os filamentos de LED azul na franja curta iluminando o vapor que saía de seus lábios a cada expiração.
 
-— A temperatura caiu quase três graus desde que saímos do duto — ela comentou, encolhendo os ombros sob a jaqueta de couro e conferindo o leitor de ambiente no pulso. — E esse nevoeiro tá carregado de névoa de ácido sulfúrico. Mais uma hora expostos aqui e a fiação exposta do seu ombro vai começar a descascar feito plástico queimado.
+— A temperatura caiu quase três graus — disse ela por trás da máscara, conferindo o leitor. — O alarme de vapor corrosivo voltou. Eu não sei tudo o que tem nessa névoa. Vamos pela parede, fora da pluma do tanque; se fechar a passagem, a gente recua para o abrigo. O cilindro não dá para fingir que o ar daqui é respirável.
 
 — A gente encontra abrigo logo — respondi, puxando o ar gelado que arranhava o fundo da garganta. — O entroncamento do Setor 6 não deve estar a mais de um quilômetro.
 
@@ -33,7 +33,7 @@ Cabos ópticos finos como fios de cabelo brotavam da base do cilindro e penetrav
 
 Valéria se agachou a um metro do corpo, retirando uma sonda com ponta de prova do bolso do cyberdeck. Os olhos prateados dela brilhavam com foco analítico, mas havia um vinco fundo de repulsa na testa.
 
-— É uma bio-bateria de interface neural reversa — ela encostou a ponta de prova num dos conectores expostos sem encostar na carne. Uma sequência rápida de bipes graves ecoou no display do deck. — Santo Deus... O Silas não tava só infectando pessoas vivas. O Jardim desenvolveu repetidores de sinal parasitando cadáveres frescos. Olha as trilhas de fibra óptica costuradas na jugular dela. O sistema usou a condutividade elétrica residual dos nervos pra manter o transmissor ativo.
+— É uma bio-bateria de interface neural reversa — ela encostou a ponta de prova num dos conectores expostos sem encostar na carne. Uma sequência rápida de bipes graves ecoou no display do deck. — Santo Deus... O Silas não tava só infectando pessoas vivas. O Jardim desenvolveu repetidores de sinal parasitando cadáveres frescos. Olha as trilhas de fibra óptica costuradas na jugular dela. O transmissor tem uma célula própria; o tecido envolve os contatos. Não dá para explicar a alimentação por uma suposta carga que fica nos nervos depois da morte.
 
 O cilindro piscou duas vezes, emitindo um estalo seco de solenoide.
 
@@ -55,8 +55,7 @@ Olhei para a minha mão direita. Vinte quilos de liga de aço fosca forjada para
 
 Cravei os dedos grossos de ferro ao redor do cilindro blindado. O metal do componente estava gelado, vibrando com uma microtensão que arrepiava os pelos do meu braço. Travei os motores da armação e puxei em linha reta.
 
-*CRACK.*
-
+CRACK.
 O som de metal e cartilagem ressecada se partindo ecoou feio no beco deserto. O cilindro se soltou com um estalo pneumático, liberando um fio de fumaça cinzenta e inodora das conexões rompidas. A dor nos pregos neurais da minha escápula mordeu fundo com o solavanco, mas segurei o núcleo intacto na palma da mão mecânica.
 
 — Perfeito, brutamontes — Valéria respirou aliviada, estendendo um conector com proteção isolante. — Encaixa o pino mestre aqui na porta auxiliar do deck.
@@ -65,13 +64,15 @@ Espetei o núcleo no leitor isolado do cyberdeck dela. As luzes de status do pai
 
 Três segundos depois, o processamento cessou com um bipe limpo.
 
-— Consegui — Valéria ergueu a cabeça, os olhos prateados cravados nos meus, carregados de uma urgência sombria. — Não é uma transmissão aleatória, Gabo. É uma ordem de convergência. Todas as colônias residuais do Jardim estão direcionando seus recursos pra um ponto específico: o antigo Complexo Hidropônico subterrâneo sob o Setor 7.
+— Consegui — Valéria ergueu a cabeça, os olhos prateados cravados nos meus, carregados de uma urgência sombria. — Não é uma transmissão aleatória, Gabo. É uma ordem de convergência. O pacote contém uma ordem de convergência para um ponto específico. Não confirma que todas as colônias a receberam: o antigo Complexo Hidropônico subterrâneo sob o Setor 7.
 
 — A estufa corporativa que abastecia o Distrito de Prata antes do dilúvio.
 
 — Exatamente — ela desconectou o núcleo e guardou o cyberdeck na lona, ajustando o correame nos ombros com determinação renovada. — A Aeterna construiu aquela estufa em cima de uma falha geotérmica com três trocadores de calor independentes. Se a praga do Silas assumir o controle do sistema de irrigação química de lá, a colônia vai ter nutrientes pra se multiplicar cem vezes mais rápido do que na superfície.
 
-— Então o nosso destino acabou de ser traçado — bati a mão de ferro na lateral da coxa, sentindo o peso da decisão assentar nos meus ombros cansados. — A gente desce no Setor 7 e queima a raiz principal antes que ela engula o resto da cidade.
+Val fotografou o rosto da mulher e a posição do implante antes de fechar o estojo com o núcleo. Preservou o pacote sem executar a ordem, anotando que a origem ainda precisava ser confirmada. Eu só tinha uma desconhecida e uma coordenada; não ia fingir que isso já era o mapa de uma rede inteira.
+
+— Então temos uma coordenada para conferir — bati a mão de ferro na lateral da coxa, sentindo o peso da decisão assentar nos meus ombros cansados. — A gente desce no Setor 7 e queima a raiz principal antes que ela engula o resto da cidade.
 
 Valéria deu um meio-sorriso amargo, puxando o capuz da jaqueta e apontando o queixo para a neblina ácida que começava a rodopiar na avenida.
 

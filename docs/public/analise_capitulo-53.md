@@ -1,16 +1,17 @@
-# Análise do Capítulo 53: Café, Código e Conspiração
+# Revisão de Capítulo 53: Café, Código e Conspiração
 
-## Avaliação Técnica
-- Ritmo: 8/10
-- Diálogos: 9/10
-- Atmosfera: 9/10
+Fonte: [capítulo 53](/capitulo-53.md).
 
-## Pontos Fortes e Fracos
-- Fortes: Excelente momento de fôlego tático ("trincheira") com Valéria. O arco com o pai (Dante) no código neural traz profundidade. A revelação de Marco Moretti engatilha bem o conflito familiar e político.
-- Fracos: O monólogo do vilão Marco no final beira ao caricato, embora funcione no tom cyberpunk-noir da história.
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-## Verificação de Sanidade (Lore Compliance)
-- Sem falhas. Gabo não tem qualquer envolvimento com drogas/cigarros, e suas falhas/limitações dependem estritamente das suas órteses avariadas e fadiga natural.
+## Passagens de entrada e saída
 
-## Avaliação Qualitativa
-História perfeitamente conduzida, conectando o enredo inicial (Torre) com o novo arco (Dilúvio) de maneira sensata. Personagens maduros e sem necessidade de novas adições.
+> A chuva batia na vitrine da "Cafeteria do Fim do Mundo" com uma insistência rítmica. Era um estabelecimento irônico no Distrito da Ferrugem: um lugar que servia café de verdade (contrabandeado, claro) em canecas de cerâmica lascada, enquanto o resto da cidade bebia ração sintética em tubos de plástico.
+
+### Saída
+
+> — Venha, irmãozinho. Vamos ver quem se afoga primeiro.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

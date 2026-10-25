@@ -9,23 +9,23 @@ A porta do Núcleo não se abriu com um silvo hidráulico, mas com o estalo seco
 
 Quando a chapa de metal de trinta centímetros de espessura deslizou para o lado, o ar que saiu não era apenas frio; era uma agressão física. Gabo sentiu a umidade em suas roupas, remanescente do vapor do corredor anterior, cristalizar instantaneamente. O tecido do sobretudo endureceu, transformando-se numa armadura quebradiça de gelo sujo.
 
-— *Máscaras. Agora* — alertou Aria pelo comunicador tático. Sua voz sintética chiou no fone de ouvido enquanto os sensores do deck de Valéria sofriam com o choque térmico brusco. — *Atmosfera composta por 70% de nitrogênio líquido vaporizado. Respiração desprotegida causará congelamento alveolar em quatro segundos.*
+— *Máscaras. Agora* — alertou Aria pelo comunicador tático. Sua voz sintética chiou no fone de ouvido enquanto os sensores do deck de Valéria sofriam com o choque térmico brusco. — *Vazamento de gás criogênico no poço. A leitura de oxigênio junto ao piso está caindo. Filtro não resolve falta de ar; usem os conjuntos autônomos do armário de serviço.*
 
-Gabo puxou o respirador tático do cinto. A borracha estava rígida, resistindo ao formato de seu rosto. Ele o prendeu com força, ouvindo o *clique* dos filtros se ativando. O ar que entrou em seus pulmões tinha gosto de química estéril, mas era respirável.
+Val abriu o armário indicado na planta. Vestiram as capas térmicas e os dois conjuntos autônomos de manutenção, verificando o ar restante antes de abrir a segunda porta. A máscara de Gabo apertou a pele queimada. O visor dava minutos, não uma passagem segura.
 
 Eles entraram.
 
 O mundo lá dentro era o oposto polar do inferno de onde vieram. Se o corredor era caos e ruído, o Núcleo era silêncio e estase. Um domo gigantesco, escavado na rocha viva, forrado com painéis de isolamento térmico brancos e imaculados. No centro, suspenso sobre um abismo escuro por passarelas de vidro fosco, pulsava um monólito de cristal e cromo.
 
-A temperatura no display do comunicador de Gabo despencava: -40°C... -80°C... -120°C.
+A temperatura no display do comunicador de Gabo despencava: A passarela marcava doze graus negativos. A sonda voltada ao poço lia muito menos; Aria separou os dois canais antes que Gabo confundisse a temperatura do fluido com a do caminho.
 
-— *Bem-vindos ao inverno eterno* — a voz do Taxidermista não vinha de alto-falantes aqui, mas parecia vibrar nas próprias paredes, transmitida por condução óssea através do frio. — *A entropia é o destino final de tudo, Gabriel. O calor é apenas uma agitação temporária. A ordem... a verdadeira ordem... é fria.*
+— *Bem-vindos ao inverno eterno* — a voz do Taxidermista não vinha de alto-falantes aqui, mas parecia vibrar nas próprias paredes, transmitida pelos transdutores presos à estrutura. — *A entropia é o destino final de tudo, Gabriel. O calor é apenas uma agitação temporária. A ordem... a verdadeira ordem... é fria.*
 
 Gabo avançou pela passarela. O vidro estalava sob suas botas pesadas. Abaixo deles, a neblina de nitrogênio rodopiava como fantasmas presos.
 
 — Onde ele está? — Gabo rosnou, a voz abafada pela máscara.
 
-— No centro — Valéria apontou para o monólito. Ela tremia violentamente, apesar do traje térmico improvisado que haviam roubado dos guardas no nível superior. Seus dedos, digitando freneticamente no terminal de pulso onde o pendrive blindado da Aria irradiava um calor febril contra a geada, estavam ficando azuis. — Gabo... meus implantes. O frio está desacelerando a condutividade neural. Estou ficando lenta.
+— No centro — Valéria apontou para o monólito. Ela tremia violentamente, apesar do traje térmico improvisado que haviam retirado do armário de serviço. Seus dedos, digitando freneticamente no terminal de pulso onde o pendrive blindado da Aria irradiava um calor febril contra a geada, estavam ficando azuis. — Gabo... meus implantes. O frio está desacelerando a condutividade neural. Estou ficando lenta.
 
 — Aguente firme. — Ele não olhou para trás. Não podia. Se olhasse, veria o medo nos olhos dela, e o medo era contagiante.
 
@@ -76,9 +76,8 @@ Ele viu a válvula principal na base do monólito. Uma roda de ferro manual, ant
 
 Gabo se lançou os últimos metros, deslizando pelo chão liso. Ele ergueu a *Caronte* e disparou à queima-roupa contra a junção do cano que alimentava os emissores da passarela.
 
-*BOOM.*
-
-O tiro de chumbo grosso não perfurou o cano reforçado, mas a força cinética, combinada com a fragilidade do metal super-resfriado, fez o serviço. O cano se partiu. O nitrogênio vazou descontroladamente para o abismo abaixo, criando uma nuvem branca que engoliu a base da plataforma.
+BOOM.
+O tiro de chumbo grosso não perfurou o cano reforçado, mas a força cinética, combinada com a fragilidade do metal super-resfriado, fez o serviço. A junção corroída se abriu no ponto marcado pela etiqueta de manutenção vencida. O nitrogênio vazou descontroladamente para o abismo abaixo, criando uma nuvem branca que engoliu a base da plataforma.
 
 A parede de jatos cessou.
 
@@ -120,13 +119,13 @@ Dante sorriu. Não foi um sorriso de vilão. Foi o sorriso cansado de um pai ven
 
 — *Você ainda pensa pequeno. Pensa em indivíduos. Eu penso na Espécie. A dor deles... é o combustível da ordem. Sem mim, eles voltariam ao caos. À lama. Eu sou a represa que segura o dilúvio.*
 
-— Você é o dilúvio — retrucou Valéria, a arma dela tremendo nas mãos. — Você matou Rangel. Você esquartejou a mente da Bia.
+— Você é o dilúvio — retrucou Valéria, a arma dela tremendo nas mãos. — Você mandou matar Rangel. Você esquartejou a mente da Bia.
 
 Os olhos cegos de Dante se voltaram para o pequeno drive conectado ao painel através do cabo de Valéria.
 
 — *Eu não destruí Beatriz Vargas. A Aeterna apenas destilou o que havia de útil na intuição dela para forjar o substrato desse seu pequeno oráculo de bolso.*
 
-No painel, o LED da Aria sofreu uma oscilação abrupta do azul para o âmbar, e uma onda de estática trêmula vazou pelo alto-falante. Uma falha lógica. Uma emoção residual presa no silício.
+No painel, o LED da Aria sofreu uma oscilação abrupta do azul para o âmbar, e uma onda de estática trêmula vazou pelo alto-falante. Aria cortou o áudio do arquivo de origem e respondeu com a própria voz: — Não use a morte dela para tirar meu nome.
 
 — Saia do tanque — ordenou Gabo. — Ou eu quebro o vidro e deixo você derreter no chão.
 

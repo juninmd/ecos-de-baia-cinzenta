@@ -9,9 +9,8 @@ Localização: "Torre do Relógio, Distrito Baixo (Inundado)"
 
 # Capítulo 47: O Mecanismo da Queda
 
-**Torre do Relógio, Distrito Baixo (Inundado).**
-
-A denúncia chegou pelo rádio às nove e quarenta, quando a Orla Norte ainda fumava: uma torre no Distrito Baixo, um homem que comprava relógio velho e não vendia nenhum, e um vizinho que jurou ter ouvido tique-taque onde não havia corrente elétrica desde a enchente. Gabo foi sozinho porque o dia já tinha custado gente demais.
+Torre do Relógio, Distrito Baixo (Inundado).
+A denúncia chegou pelo rádio às nove e quarenta, quando a Orla Norte ainda fumava: uma torre no Distrito Baixo, um homem que comprava relógio velho e não vendia nenhum, e um vizinho que jurou ter ouvido tique-taque onde não havia corrente elétrica desde a enchente. Gabo insistiu em ir sem escolta, apesar da proibição de Nise de apoiar a perna direita. Um barqueiro o deixou na rampa da torre com a cadeira. Para passar ao tablado, Gabo usou o corrimão e a perna esquerda. Isso não tornava a escolha segura.
 
 O som não era de água. Era de tempo.
 
@@ -21,11 +20,7 @@ Ele levou quase um minuto para entender por que o som o incomodava tanto.
 
 Relógio de parede tem um ritmo. Mesmo cem deles fora de sincronia produzem uma média, um zumbido de fundo que o ouvido aceita. Aquilo ali não fazia média. Aquilo pulsava — acelerava em blocos, hesitava, retomava. Como se os relógios estivessem respirando.
 
-Gabo levantou a lanterna e aproximou-se do mais próximo.
-
-Não havia mola dentro da caixa.
-
-Havia uma costela.
+Gabo levantou a lanterna e aproximou-se do mais próximo. Não havia mola dentro da caixa. Havia uma costela.
 
 O pêndulo era um osso longo, polido até brilhar, suspenso por um fio de aço cirúrgico. E, no fundo do mostrador, onde deveria estar o mecanismo, havia um pequeno fole de couro que inflava e desinflava com uma lentidão obscena, movido por um tubo que descia pela parede e sumia no escuro.
 
@@ -39,7 +34,7 @@ Ele conhecia aquele cheiro de necrotério. Nunca tinha sentido num lugar onde as
 
 Gabo apontou a lanterna para o alto. O feixe atravessou correntes, roldanas e um emaranhado de andaimes que subia até onde a luz não chegava. A água da enchente já batia em seus joelhos, subindo mais rápido do que ele queria admitir. Fazia oito dias que o Dilúvio tinha arrombado os diques do Distrito Baixo, a cidade ainda não tinha encontrado o fundo, e aquela torre era um copo de pedra no meio de um rio.
 
-— Desça! — gritou Gabo, a *Caronte* firme nas mãos. — Acabou. O prédio está condenado.
+— Desça! — gritou Gabo, a Caronte apoiada no corrimão, com a mão esquerda limitada sobre o cano. — Acabou. O prédio está condenado.
 
 — Tudo está condenado, Sr. Moretti.
 
@@ -53,27 +48,19 @@ Ele parou a cinco metros, em cima de um caixote, com a água ainda longe dos pé
 
 — Eu tenho todo o tempo do mundo. — Um sorriso pequeno. — É literalmente o meu ofício.
 
-Gabo deu um passo à frente e a água resistiu, pesada como cimento fresco.
-
-Foi aí que ele reparou no chão.
+Gabo deu um passo à frente e a água resistiu, pesada como cimento fresco. Foi aí que ele reparou no chão.
 
 O tablado sob a superfície não era de pedra. Era madeira. Madeira boa, encaixada, muito mais nova que o resto da torre — e disposta em setores, com juntas retas demais para serem originais. Ele estava em cima de alguma coisa que tinha sido *instalada*.
 
-O instinto chegou meio segundo antes do necessário, e meio segundo é o que separa um homem que anda de um homem que não anda.
-
-Gabo disparou.
+O instinto chegou meio segundo antes do necessário, e meio segundo é o que separa um homem que anda de um homem que não anda. Gabo disparou.
 
 Foi um erro, e ele soube que era um erro enquanto o dedo apertava. O tiro ecoou pelas paredes circulares, os relógios estremeceram, e o Taxidermista simplesmente **não estava lá** — ele tinha saído do caixote antes do estampido, com a economia de movimento de quem ensaiou aquilo até virar reflexo.
 
-O que estava ali, no lugar dele, era uma alavanca de ferro enferrujada.
-
-E a mão do velho já estava nela.
+O que estava ali, no lugar dele, era uma alavanca de ferro enferrujada. E a mão do velho já estava nela.
 
 — O tempo é peso, detetive.
 
-Ele puxou.
-
-O chão se abriu.
+Ele puxou. O chão se abriu.
 
 ---
 
@@ -83,23 +70,18 @@ Ele caiu três metros e bateu de costas num fosso de manutenção seco — seco 
 
 Gabo rolou. Cuspiu. Tateou pela *Caronte* na escuridão e encontrou pedra. A arma tinha ficado lá em cima, no andar do mundo em que ele ainda estava inteiro.
 
-Ele conseguiu apoiar um joelho.
-
-E aí ouviu o som de correntes se soltando.
+Ele conseguiu apoiar um joelho. E aí ouviu o som de correntes se soltando.
 
 Não é um barulho ameaçador. Correntes correndo por roldana bem lubrificada fazem um som quase agradável, um assobio metálico e contínuo. Foi o único aviso que ele teve, e ele gastou o aviso olhando para cima em vez de rolar.
 
 O contrapeso do sino da torre — dois mil quilos de ferro fundido, uma peça que passou noventa anos sendo a única coisa naquele prédio que fazia o tempo andar — desceu direto na direção do rosto dele.
 
-Gabo se jogou para o lado.
+Gabo se jogou para o lado. Quase.
 
-Quase.
-
-*CRACK.*
-
+CRACK.
 O som não foi metálico. Foi úmido, curto e muito mais baixo do que ele esperava — o barulho de um galho grosso partindo dentro de um saco de areia.
 
-O bloco pegou as duas pernas e a base da coluna.
+Uma corrente reteve um canto do bloco. A borda prendeu as pernas e a base da coluna contra o piso, sem que as duas toneladas assentassem inteiras sobre seu corpo.
 
 E aí veio a parte que ele nunca conseguiu explicar direito para a Dra. Weiss, nas sessões, nos anos seguintes: **a dor não veio.** Veio um clarão branco atrás dos olhos, veio um zumbido agudo tomando conta de tudo, e depois veio o silêncio. Um silêncio impossível, absoluto, ocupando exatamente metade do corpo dele, como se alguém tivesse desligado a instalação elétrica de um andar inteiro da casa.
 
@@ -151,22 +133,16 @@ A parede externa cedeu com um estrondo geológico.
 
 Não foi a enchente entrando: foi noventa anos de argamassa desistindo de uma vez. Uma parede inteira de água escura despencou dentro do recinto circular, arrancou os relógios das paredes e os jogou contra o outro lado, e por dois ou três segundos o ar ficou cheio de ossos polidos e engrenagens e latão girando no escuro.
 
-O Taxidermista foi varrido para as sombras superiores. Gabo não viu se ele agarrou a corda. Nunca soube.
-
-A água chegou ao peito. Depois ao queixo.
+O Taxidermista foi varrido para as sombras superiores. Gabo não viu se ele agarrou a corda. Nunca soube. A água chegou ao peito. Depois ao queixo.
 
 Ele inclinou a cabeça para trás, o máximo que a coluna quebrada permitiu, e roubou mais um dedo de ar.
 
-Não pensou na Bia. Não pensou no pai. Não pensou na cidade.
+Não pensou na Bia. Não pensou no pai. Não pensou na cidade. Pensou, com uma clareza absurda e completamente inútil, que tinha deixado o Cobalt em fila dupla.
 
-Pensou, com uma clareza absurda e completamente inútil, que tinha deixado o Cobalt em fila dupla.
+E então a água escura passou por cima do rosto dele, mas um bolsão sob a base do mecanismo reteve ar junto à sua boca. O tique-taque ficou distante, e nem em cima nem embaixo, e Gabriel Moretti ficou sozinho no escuro com duas toneladas de ferro nas pernas e a certeza tranquila de que aquilo era o fim.
 
-E então a água escura passou por cima do rosto dele, e o tique-taque parou, e não havia mais som nenhum, e nem em cima nem embaixo, e Gabriel Moretti ficou sozinho no escuro com duas toneladas de ferro nas pernas e a certeza tranquila de que aquilo era o fim.
+Ele estava errado — quarenta minutos depois, o barqueiro voltaria com uma equipe. Seguiriam a amarra até o fosso e usariam o mecanismo para aliviar o bloco antes de retirá-lo. O rosto ainda alcançaria o bolsão de ar; o corpo sairia em estado crítico.
 
-Ele estava errado — em dezoito horas, uma equipe de resgate ia encontrá-lo pelo cabo de aço do contrapeso e passar quatro horas cortando o ferro.
-
-Mas ele não sabia disso.
-
-Então, naquela escuridão, Gabriel Moretti morreu.
+Mas ele não sabia disso. Então, naquela escuridão, Gabriel Moretti morreu.
 
 E alguma coisa muito mais fria começou a nascer.

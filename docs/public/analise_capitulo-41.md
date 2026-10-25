@@ -1,16 +1,17 @@
-# Análise do Capítulo 41: Maré Alta
+# Revisão de Capítulo 41: Maré Alta
 
-## Avaliação Técnica
-- Ritmo: 9/10
-- Diálogos: 8/10
-- Atmosfera: 10/10
+Fonte: [capítulo 41](/capitulo-41.md).
 
-## Pontos Fortes e Fracos
-- Fortes: Excelente cena de ação de resgate. Dá fisicalidade e tensão imediata ao desastre.
-- Fracos: A transição para a delegacia poderia ser um pouco mais descritiva quanto aos arredores.
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-## Verificação de Sanidade (Lore Compliance)
-- Perfeita. O perigo é ambiental. Gabo está fisicamente desgastado, focado na ação de sobrevivência e sem qualquer menção a tabagismo ou fumaça que quebre seu lore (o desastre não envolve fogo/fuligem na cena imediata).
+## Passagens de entrada e saída
 
-## Avaliação Qualitativa
-História concisa e com bom impacto tático e moral, estabelecendo os novos limites urbanos.
+> A chuva não parava. Não era mais água caindo; era o oceano decidindo que a terra lhe pertencia.
+
+### Saída
+
+> E o alarme tinha tocado.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

@@ -21,7 +21,7 @@ Elias já havia sido içado até a plataforma elevada de serviço; o garoto jazi
 
 O cinto de rapel mordia minha cintura com ferocidade, cortando a circulação das coxas. Com a perna esquerda presa na órtese rígida que pendia inútil no ar e o braço mecânico puxando o ombro lacerado para baixo após a fixação da fratura, eu precisava confiar unicamente na pegada da minha mão de carne viva e na força de tração da dupla lá em cima. A bandagem improvisada no meu ombro empapou de vermelho escuro; meus músculos continuavam sangrando pelo bíceps, e o esforço arrancou um urro rouco dos meus dentes enquanto as cicatrizes do Dilúvio queimavam no frio.
 
-A dor na carne aberta ardia com a ferocidade de ácido, um eco constante dos ferimentos acumulados desde que a Torre Aeterna desabou sobre nós no Dilúvio anos atrás. Mas a dor era limpa; mantinha meus sentidos em alerta absoluto enquanto meus olhos monitoravam a aproximação da plataforma.
+A carne aberta ardia enquanto eu acompanhava a plataforma. Meses separavam aquela borda da queda da Torre Aeterna; o Dilúvio viera depois da Torre, não junto com ela. Eu já não distinguia o que lembrava do que estava ferindo agora. Val chamou meu nome até eu voltar a olhar a roldana.
 
 Três metros.
 
@@ -47,7 +47,7 @@ No mesmo milésimo de segundo, o olhal da roldana partiu-se ao meio com um estam
 
 A roldana estourou para cima, o cabo chicoteou no vazio e a gravidade puxou meu corpo com o peso de cem quilos em queda livre.
 
-O solavanco foi brutal. Todo o meu peso foi sustentado unicamente pelos dedos de metal cravados na chapa e pelo braço esticado. Os parafusos que prendiam a armação ao osso fraturado rangeram, a pele rasgou nas bordas da cirurgia de Vasco e um urro de pura agonia escapou da minha garganta, ecoando pela vastidão congelada da galeria.
+O solavanco foi brutal. A segunda linha, que Val fixara antes de testar a roldana, reteve meu peso. A garra presa na borda impediu que eu girasse contra os cristais; o braço ferido continuou sendo arrastado pelo arnês, sem receber sozinho a queda. Os parafusos que prendiam a armação ao osso fraturado rangeram, a pele rasgou nas bordas da cirurgia de Vasco e um urro de pura agonia escapou da minha garganta, ecoando pela vastidão congelada da galeria.
 
 Senti os dedos de aço começarem a deslizar pela ferrugem escorregadia da cantoneira.
 

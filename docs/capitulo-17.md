@@ -1,126 +1,141 @@
 ---
 image: /capitulo_17.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, O Gamemaster, Dante Moretti, Valéria "Val" Cruz
-Localização: "Torre de Transmissão de Emergência (saguão-estúdio do Gamemaster)"
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria (módulo no deck), Gamemaster (chassi e transmissão), Dante Moretti (imagem)
+Localização: "Torre de Transmissão de Emergência, acesso principal → estúdio no mezanino"
 ---
 # Capítulo 17: O Ultimato
 
-A Torre de Transmissão de Emergência não tocava o céu — ela o perfurava. Uma agulha de titânio cravada na camada de nuvens tóxicas, o único lugar em Baía Cinzenta onde a chuva desistia de cair.
+Gabo esperou dois trens antes de subir a escadaria.
 
-Gabriel Moretti subiu os degraus da entrada principal. Mãos para o alto. Corpo desarmado.
+A linha elevada passava junto ao mezanino da torre, desacelerando na curva da estação seguinte. Noventa segundos entre uma composição e outra. Na planta, a passarela de serviço ficava acima dos trilhos; pela rua, ele só conseguia confirmar a altura aproximada e o reflexo de corrimãos.
 
-Mentira. Gabo nunca estava desarmado. Mas eles não precisavam saber disso ainda.
+Valéria já tinha seguido pelo acesso de manutenção, com o tornozelo preso e os rádios externos testados. Gabo não a vira entrar. O máximo que tinham combinado era ela avisar quando pudesse enxergar o estúdio.
 
-Drones de câmera zumbiam ao seu redor como moscas varejeiras em cadáver fresco. Milhões de olhos assistindo. O circo digital que o Gamemaster prometera. E Gabo era o palhaço sangrento que todos queriam ver morrer.
+Deixou a mão direita aberta e levantou os braços. O esquerdo parou antes da altura do ombro.
 
-— EU ME ENTREGO! — ele gritou para as lentes famintas. — O jogo acabou. Eu perdi. Venham me buscar.
+Um drone se aproximou da queimadura. Gabo cobriu o movimento de dor com o corpo, tarde demais. A lente voltou para seu rosto.
 
-As palavras tinham gosto de veneno na boca. Mas eram necessárias. Iscas sempre eram.
+— Eu me entrego. Tira a caçada da rua.
 
-As portas maciças da Torre se abriram. Não havia guardas. Apenas luz — branca, clínica, sem sombra. O tipo de luz que revela tudo e perdoa nada.
+As portas abriram.
 
-Gabo entrou.
+O saguão cheirava a plástico aquecido e desinfetante. Pelo corredor lateral vinham os acordes de uma música alegre, interrompidos sempre no mesmo ponto para que o público não ouvisse o fim.
 
-O saguão era um pesadelo corporativo vestido de estúdio de TV. Plateia virtual — hologramas de cidadãos pagantes com rostos pixelados — ocupava arquibancadas flutuantes. Eles aplaudiam. Não por vontade. Por programação. Palmas sincronizadas que soavam como ossos quebrando em ritmo.
+Uma voz pediu que seguisse as luzes do piso.
 
-— *Bem-vindo, Herói.* — A voz do Gamemaster vinha de todos os lugares e de lugar nenhum, como se o próprio ar estivesse falando. — *Você está atrasado para seu próprio funeral.*
+Gabo seguiu. A Glock carregada apertava suas costas sob a camisa. O scanner do corredor acendeu ao passar por ela; no visor surgiu a indicação de arma de fogo. Nenhuma porta se fechou.
 
-No centro do palco, um trono. Polímero negro moldado em formas que doíam de olhar — ângulos que não deveriam existir geometricamente. E sentado nele, uma figura mascarada.
+— *Você trouxe um patrocinador de nove milímetros* — disse a voz. — *Vamos reservar para um enquadramento melhor.*
 
-A máscara era uma tela curva. Estática branca e cinza dançava na superfície, ocasionalmente formando fragmentos de rostos. Gabo reconheceu alguns. Seu pai. Elena. O menino morto do primeiro caso. Todos piscando como velas na tormenta.
+Gabo deixou de contar com a arma como segredo.
 
-Gabo não deixou o medo chegar ao rosto. Manteve a máscara de cansaço e cinismo que usava há quinze anos.
+O estúdio ocupava o mezanino, de frente para o viaduto do trem. Acima do cenário, uma galeria de manutenção cruzava os refletores. Mais alto ainda, perto do teto, passavam os dutos.
 
-— Vamos pular o monólogo de vilão de terceira. — Sua voz ecoou no estúdio vazio. — Eu vim fazer um acordo.
+Hologramas de espectadores enchiam arquibancadas virtuais. As palmas entraram juntas, cortaram juntas, recomeçaram quando Gabo pisou numa marca vermelha. Ele ficou ao lado dela.
 
-A figura riu. O som foi processado, distorcido, multiplicado. Risadas saindo de mil bocas ao mesmo tempo.
+O apresentador estava num trono de polímero negro, usando uma casaca de ombros altos. A máscara era uma tela curva: estática, o rosto de Elena, o menino encontrado no beco. Dante apareceu por último, sem as rugas que Gabo lembrava.
 
-— *Acordos são para quem tem algo a oferecer.* — A máscara piscou, mostrando agora o rosto de Gabo — mais jovem, sorrindo, sem cicatrizes. — *E você, Gabriel... você não tem nada. Nem distintivo. Nem arma. Nem esposa.*
+— *Gabriel Moretti. O homem que saiu do bunker e deixou seu parceiro com a plateia.*
 
-Pausa calculada.
+Gabo sentiu a garganta fechar. Não perguntou de onde vinha a imagem. O registro público mostrava a saída; o resto podia ser uma provocação ou uma câmera a que ele não tivera acesso.
 
-— *Nem honra.*
+— O que aconteceu com Miranda?
 
-Gabo sentiu a farpada enterrar, mas não reagiu. Era isso que ele queria. Mantê-lo falando. Comprando tempo.
+— *Você quer confirmar a morte ou conferir o crédito?*
 
-— *Quantas regras você quebrou hoje?* — A voz mudou de tom. Mais aguda. Mais jovem. Como se mil crianças falassem em uníssono. — *Quantos dos seus próprios princípios você pisoteou? Você se diz herói, mas rasteja na lama como todos os outros. A única diferença é que você ainda finge que o lodo te incomoda.*
+— Quero que pare de usar gente como chamada.
 
-— Tenho audiência. — Gabo apontou para as câmeras. — E tenho uma pergunta.
+A máscara exibiu a câmera que filmava Gabo naquele instante. Seu olho direito estava inchado; a manga esquerda parecia ter sido arrancada por um animal.
 
-Ele deu um passo à frente. Devagar. Testando.
+— *Você veio até aqui. Não precisei arrastar.*
 
-Os hologramas da plateia se inclinaram para frente como marionetes puxadas pelos mesmos fios.
+— E se eu fosse embora?
 
-— Quem está usando o rosto do meu pai?
+O mapa da caçada apareceu na lateral do palco. Outras pessoas continuavam seguindo os últimos pontos, em ruas por onde ele já não passava.
 
-Silêncio.
+— *Temos material para o dia inteiro.*
 
-Não o silêncio natural. Mas o silêncio digital — aquele momento antes de um sistema crashar.
+Gabo olhou as saídas. Uma porta de serviço sob a galeria, uma passagem à direita do palco e o vidro de frente para a linha elevada. Os drones mantinham a distância de quem não queria estragar o quadro.
 
-Depois, aplausos. A plateia virtual explodiu em ovação. Batidas rítmicas que reverberavam nas paredes de metal.
+No fone com fio, ouviu duas batidas curtas. O sinal combinado. Não respondeu.
 
-A figura se levantou do trono. Devagar. Dramático. Performático.
+Valéria falava baixo, com o microfone encostado na gola.
 
-— *Ah. A Busca Pela Verdade.* — A máscara-tela mostrou agora o símbolo do infinito. — *Tão previsível quanto patético.*
+— Saí do duto para a galeria. Não é o mapa inteiro. Mudaram a posição do palco.
 
-O Gamemaster desceu do palco. Cada passo ecoava como bomba-relógio.
+Gabo passou a mão direita pelo rosto, cobrindo a boca por um instante.
 
-— *Você não entende, Gabriel? Você não é o jogador. Você é um NPC. Um Personagem Não Jogável com um script de "Herói Trágico Clichê". Eu escrevo o roteiro, você sangra nas cenas certas. Dante Moretti é um símbolo. Símbolos não pertencem a ninguém.*
+— Saída?
 
-— Ele. Pertence. A mim. — Gabo cuspiu cada palavra como se fosse bala.
+— Atrás de mim. Ainda alcanço.
 
-— *Errado.* — A figura parou a três metros. Tão perto que Gabo podia ver as linhas de código correndo pela superfície da máscara. — *Ele pertenceu à cidade. E a cidade o consumiu. Como vai consumir você.*
+Ele deixou o braço cair.
 
-Enquanto isso, nos dutos de ventilação trinta metros acima, Valéria rastejava. Mãos enfaixadas sangrando através do tecido. Cada movimento uma tortura silenciosa.
+— Você usa a cara do meu pai — disse ao apresentador. — Mostra o que tem atrás.
 
-— Estou na posição. — Ela sussurrou pelo comunicador subdérmico que haviam reinstalado com peças de sucata e reza. — O servidor central está logo abaixo do palco. Mas Gabo... tem MUITA segurança física. Lasers de detecção. Scanners biométricos. Isso não é servidor. É cofre nuclear.
+O Gamemaster se levantou. Não pareceu haver pressa no movimento; as câmeras precisaram se reposicionar antes que descesse.
 
-— *Segure.* — Gabo sussurrou sem mover os lábios. Uma habilidade que aprendera em interrogatórios.
+— *Um pedido de identificação. Finalmente, trabalho policial.*
 
-Ele voltou o olhar para o Gamemaster.
+— Você já tem meus dados. Está com dificuldade para apresentar os seus?
 
-— Você quer um show? — Gabo abriu os braços. — Então vamos dar um show. Você e eu. Um contra um. Sem drones. Sem armas. Sem truques digitais. Apenas carne e código. Ou você só sabe lutar atrás de telas?
+A plateia devolveu uma gargalhada pronta. O Gamemaster a cortou com um gesto.
 
-A plateia virtual engasgou em uníssono. Som programado de choque.
+Gabo viu. Não bastava continuar no ar; ele queria escolher quando a rua riria.
 
-O Gamemaster inclinou a cabeça. Gesto quase humano. Quase curioso.
+— *Seu pai é um símbolo.*
+
+— Então por que precisa do rosto?
+
+A máscara se aproximou até Gabo ver o reflexo dos próprios dentes na tela. A voz mudou para um timbre de Dante, com um atraso pequeno demais para parecer uma imitação barata e grande o bastante para feri-lo.
+
+— *Gabriel. Levanta a guarda.*
+
+Gabo quase obedeceu. O corpo começou o movimento antes que reconhecesse a ordem. O ombro esquerdo o trouxe de volta.
+
+Do alto, Valéria viu os sensores girarem para a marca vermelha no chão. Apontou a câmera do deck para o palco, mantendo o módulo de Aria preso ao barramento e o alto-falante desligado.
+
+Uma observação apareceu em texto: os drones estavam acompanhando a cena; não havia indicação de que os demais sensores tivessem parado. Valéria guardou o deck na bolsa presa ao corpo e procurou outra posição na galeria.
+
+— Você quer um final — disse Gabo. — Comigo aqui dentro, para de oferecer dinheiro para quem está lá fora.
+
+— *O orçamento já está aprovado.*
+
+— Então gasta comigo. Um contra um. Você deixa as câmeras. Tira os drones armados.
+
+O Gamemaster olhou para uma das lentes, e o silêncio durou o suficiente para virar expectativa. No canto da tela, abriu-se uma votação. Os números corriam rápido demais para Gabo ler os comentários.
+
+— *Sem armas de mão* — respondeu. — *O público merece ver o esforço.*
+
+Gabo retirou a Glock devagar e a colocou no chão, perto da primeira coluna. Não chutou para longe. O apresentador acompanhou a posição com a máscara.
 
 — *Aceito.*
 
-A máscara caiu.
+Uma presilha abriu na lateral da cabeça. A máscara caiu, presa por um cabo. Por baixo havia outra tela, com a mesma imagem de Dante.
 
-O rosto por baixo não era um rosto. Era uma tela curva de LED, exibindo estática e — ocasionalmente — fragmentos do rosto de Dante Moretti. Não o Dante que Gabo conhecia. Mas uma versão idealizada. Mais jovem. Sem rugas. Sem o cansaço de quem viu a cidade devorar pessoas boas.
+O trono começou a se abrir.
 
-O chão do palco se abriu. Placas de metal deslizando com precisão cirúrgica.
+Gabo ouviu primeiro o deslocamento hidráulico. Peças que pareciam ornamento correram por trilhos sob a casaca, cercando as pernas do apresentador; uma estrutura dorsal o ergueu até três metros. A roupa negra caiu entre os apoios.
 
-O trono se desdobrou.
+Na nuca, uma tampa de serviço ficou exposta por um instante antes de girar para trás.
 
-Não. Não desdobrou.
+— Controlador industrial — disse Valéria no fone. — Tem porta de diagnóstico. Se for compatível, o pulso pode interromper a postura. Eu preciso encostar.
 
-*Cresceu.*
+— Consegue chegar?
 
-Metal se esticou, servos sibilaram, hidráulica rugiu. O que era um trono se transformou em um exoesqueleto de combate de três metros de altura. Titânio negro. Articulações reforçadas. Lâminas retráte nas juntas dos dedos. E no peito, onde deveria estar o núcleo de energia, uma tela mostrando o coração batendo de Dante Moretti.
+— Daqui, não. Estou descendo pela galeria. Não começa a contar por mim.
 
-— Val... — Gabo disse, olhando para o monstro de metal. — O plano do Cavalo de Troia ficou mais complicado.
+Gabo viu a silhueta dela parar junto a uma linha de vida de manutenção. Manteve os olhos no palco para que as câmeras não seguissem seu olhar.
 
-— Por quê?! — Valéria gritou no ouvido dele, a voz distorcida por interferência.
+O peito do exoesqueleto acendeu. Um vídeo mostrava um coração humano sob iluminação cirúrgica. A artéria se contraía, molhada, a cada batimento.
 
-— Porque o cavalo é um tanque de guerra.
+D. MORETTI — 2041 — REGISTRO CLÍNICO ORIGINAL.
+Gabo conhecia o ano. Conhecia o nome. Não conhecia a origem daquele filme.
 
-O exoesqueleto deu o primeiro passo. O chão tremeu. Poeira caiu do teto. A plateia virtual começou a cantarolar — não palavras, mas um zumbido baixo, hipnótico, que fazia os dentes de Gabo vibrarem.
+— *Reconhece?* — perguntou o Gamemaster.
 
-Gabo assumiu a postura de Hapkido que seu pai lhe ensinou. Pé esquerdo à frente. Mãos abertas. Respiração controlada.
+Gabo abriu as mãos, procurando uma base que não exigisse o braço queimado. A primeira tentativa de distribuir o peso já doeu.
 
-Mentalmente, ele fez as contas: três metros de titânio e servo-motores versus um metro e setenta e cinco de carne, osso e teimosia.
+O exoesqueleto copiou a posição de Dante nas aulas do quintal: ombro baixo, um cotovelo levantado além do necessário.
 
-As probabilidades eram ruins.
-
-Mas quando, na vida de Gabriel Moretti, elas já tinham sido boas?
-
-Ele sorriu. Não um sorriso feliz. O sorriso de um homem que já tinha morrido duas vezes e decidi que a terceira seria memorável.
-
-— Venha pegar, lata velha.
-
-O Gamemaster avançou.
-
-E o inferno, sempre pontual em Baía Cinzenta, começou.
+Gabo ainda estava decidindo se aquilo era lembrança ou gravação quando o pé de metal saiu da marca.

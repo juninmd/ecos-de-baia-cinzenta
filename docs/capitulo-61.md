@@ -9,8 +9,7 @@ Localização: "Esconderijo móvel da Val — Distrito Industrial"
 
 # Capítulo 61: Tinta no Papel
 
-**Esconderijo móvel da Val — Distrito Industrial.**
-
+Esconderijo móvel da Val — Distrito Industrial.
 A van era uma obra de engenharia de guerrilha e cheirava a isso.
 
 Por fora: um furgão de entrega dos anos trinta, com a pintura descascando, adesivo desbotado de uma pizzaria que faliu em quarenta e dois, um amassado na porta lateral e a placa de um veículo legítimo que existia de verdade e circulava do outro lado da cidade.
@@ -23,9 +22,7 @@ Gabo estava sentado numa caixa de suprimentos, com as pernas esticadas na diagon
 
 No barramento lateral do cyberdeck de Valéria, o pendrive de titânio da Aria estava espetado, com o LED azul-gelo refletindo no metal escuro da bancada enquanto renderizava num monitor auxiliar a topologia do fosso subterrâneo.
 
-Ela traçava diagramas das torres de servidores: blocos retangulares, altos, alinhados em fileira.
-
-Eles pareciam lápides na tela verde. Gabo já tinha reparado nisso na terceira vez e desde então evitava olhar.
+Ela traçava diagramas das torres de servidores: blocos retangulares, altos, alinhados em fileira. Eles pareciam lápides na tela verde. Gabo já tinha reparado nisso na terceira vez e desde então evitava olhar.
 
 ---
 
@@ -55,17 +52,14 @@ Gabo ficou quieto um tempo.
 
 Val digitou. A tela piscou vermelho e devolveu uma caixa cinza com três palavras.
 
-**ACESSO NEGADO — NÍVEL DE AUTORIDADE INSUFICIENTE**
-
+ACESSO NEGADO — NÍVEL DE AUTORIDADE INSUFICIENTE
 — Não sei — ela disse. — E olha, eu já entrei em coisa do Estado, em coisa de banco e em coisa de igreja. É a primeira vez que eu bato numa porta e a porta não me diz nem de quem ela é.
 
 ---
 
 — Mas eu e a Aria tiramos o anexo — ela continuou, e o sorriso dela era do tipo que Gabo tinha aprendido a temer. — O contrato tem um anexo público, porque tem de ter: é o rol de destinatários finais. A lista de inquilinos.
 
-A tela encheu.
-
-Nomes rolando em coluna dupla, com número de unidade ao lado. Milhares. A barra de rolagem era um fiapo.
+A tela encheu. Nomes rolando em coluna dupla, com número de unidade ao lado. Milhares. A barra de rolagem era um fiapo.
 
 Gabo se levantou e se aproximou, apoiando a mão no rack quente.
 
@@ -81,8 +75,7 @@ Gabo se levantou e se aproximou, apoiando a mão no rack quente.
 
 Ela desceu mais um pouco e parou num nome.
 
-**VANE, ALEXANDER — un. 22.140**
-
+VANE, ALEXANDER — un. 22.140
 Gabo leu duas vezes.
 
 — O pai da Isadora.
@@ -125,9 +118,7 @@ Gabo esperou.
 
 ---
 
-Ele ia perguntar o que aquilo significava.
-
-Não perguntou, porque as três telas da van apagaram ao mesmo tempo.
+Ele ia perguntar o que aquilo significava. Não perguntou, porque as três telas da van apagaram ao mesmo tempo.
 
 Não escureceram por falta de conteúdo: **apagaram**, junto com a luz interna, junto com o zumbido dos ventiladores, junto com o chiado do nobreak, e o silêncio que ficou foi tão imediato que doeu no ouvido.
 
@@ -137,21 +128,17 @@ Não escureceram por falta de conteúdo: **apagaram**, junto com a luz interna, 
 
 — Então?
 
-— Então isso é jamming de campo largo, e não existe jamming de campo largo civil. — Ela estava tateando debaixo da bancada, procurando alguma coisa. — Isso é equipamento militar. Isso é uma coisa que vem em cima de um caminhão.
+— Então pode ser um pulso que derrubou os circuitos de proteção, e interferência de rádio sozinha não explica desligar a bateria. Preciso examinar a proteção para distinguir falha e ataque. — Ela estava tateando debaixo da bancada, procurando alguma coisa. — Isso é equipamento militar. Isso é uma coisa que vem em cima de um caminhão.
 
 Gabo sacou a arma no escuro.
 
 O interior da van cheirava agora a componente queimado, e fazia calor, e o único som era a chuva batendo na chapa do teto — aquele martelar de sempre, aleatório, familiar.
 
-E foi por isso que os dois ouviram tão bem quando o martelar parou numa área do teto.
-
-Alguma coisa pesada tinha pousado lá em cima.
+E foi por isso que os dois ouviram tão bem quando o martelar parou numa área do teto. Alguma coisa pesada tinha pousado lá em cima.
 
 A chapa afundou uns dois centímetros sobre a cabeça deles, com um estalo grave de metal cedendo devagar, e ficou assim: sem novo passo, sem correria, sem barulho nenhum.
 
-Quem estava lá em cima não tinha pressa de nada.
-
-Val encontrou a lanterna e não acendeu.
+Quem estava lá em cima não tinha pressa de nada. Val encontrou a lanterna e não acendeu.
 
 — Gabo — sussurrou. — Quanto pesa uma pessoa para amassar chapa de aço de um e meio?
 

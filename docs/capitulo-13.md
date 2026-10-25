@@ -1,148 +1,135 @@
 ---
 image: /capitulo_13.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Roberto Miranda, Valéria "Val" Cruz
-Localização: "Caverna do supercomputador orgânico (bunker sob a Torre Aeterna)"
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria (módulo no deck), Roberto Miranda, pessoas submetidas ao Shadowban
+Localização: "Bunker sob a Torre Aeterna → saída de manutenção do Distrito da Névoa"
 ---
 # Capítulo 13: Shadowban
 
-O vidro do tanque explodiu. Fluido criogênico e biomassa jorraram, inundando o chão da caverna. O supercomputador orgânico gritou — um som agudo, digital e humano ao mesmo tempo.
+O vidro caiu em placas grossas. O líquido correu pela rocha, cheirando a fruta passada, e o frio atravessou as solas de Gabo. No painel, a linha laranja perdeu pressão. A azul continuou acesa.
 
-O frio que subiu do chão tinha peso. Gabriel sentiu o gelo atravessar a sola das botas e subir pelo osso da canela, e o cheiro do fluido era doce, como fruta passada, o que era pior que cheiro de podridão.
+O trinco do armário saltou.
 
-Alguma coisa dentro dos tanques ainda batia. Não como um coração: como uma máquina tentando terminar a frase.
+Valéria se lançou sobre o comando de retorno das cadeiras. Não chegou correndo: o tornozelo dobrou e ela precisou terminar o movimento apoiada na bancada. Um homem arrancava a máscara, outro vomitava pelo vão inferior. Ninguém parecia ter voltado inteiro a lugar nenhum.
 
-— NÃO! — gritou Miranda.
+— Corta isso! — gritou uma mulher.
 
-As figuras mascaradas — os "Cancelados" — começaram a convulsionar. Sem o controle central, suas mentes estavam voltando, desordenadas e furiosas.
+Valéria pressionou o desligamento local do retorno. Os arcos metálicos afrouxaram. Alguns cabos continuaram presos; algumas pessoas ficaram imóveis.
 
-Uma delas caiu de joelhos e arranhou a própria máscara com as unhas, e a máscara não cedeu. O som que saiu de dentro era uma palavra partida ao meio, repetida até virar ruído: *meu nome, meu nome, meu nome*.
+Miranda puxou uma arma curta de energia. O clarão acertou o ombro esquerdo de Gabo e o jogou contra a rocha.
 
-— Val, agora! — gritou Gabriel.
+O sobretudo grudou na pele. Ele tentou apoiar o braço, recebeu uma dor branca e desistiu. A Glock continuava na direita.
 
-Valéria correu para o terminal principal, ignorando os avisos de erro em sua visão. Ela conectou-se fisicamente.
+Miranda avançou com o antebraço erguido. O campo azul protegia o peito e o rosto; não acompanhava os joelhos.
 
-— Estou dentro! O firewall caiu junto com o resfriamento!
+Gabo disparou duas vezes. Os impactos espalharam luz pelo campo. O terceiro tiro pegou a borda do emissor e fez Miranda recolher o braço. Três cartuchos restantes. Gabo mudou de coluna antes da resposta, deixando tecido queimado na pedra.
 
-As mãos dela estavam sangrando outra vez. O cabo de interface brilhava onde encostava na pele, e Gabriel viu o pulso saltar como se houvesse um segundo coração no antebraço.
+— A sessão está aberta! — Valéria gritou. — Mas não é a central da cidade. É o processamento regional do Distrito 4!
 
-— Você tem quanto tempo? — gritou ele.
+— Sai daí!
 
-— Enquanto eu continuar digitando.
+O tiro de Miranda arrancou uma lasca da bancada.
 
-— Isso não é resposta.
+Uma mulher baixa, com o cabelo raspado e a blusa rasgada onde houvera um crachá, puxou Valéria pelo cotovelo. As duas se abaixaram atrás do armário.
 
-— É a única que eu tenho, Gabo!
+— Eu trabalhava nos cadastros — disse. — Você está olhando os pedidos. A aplicação fica embaixo.
 
-Miranda sacou uma arma de energia e disparou. O raio queimou o ombro de Gabriel, jogando-o contra uma parede de rocha.
+Valéria lhe entregou o teclado destacável.
 
-— Você estragou tudo! — Miranda rugia, seu rosto contorcido. — Tínhamos ordem! Tínhamos paz!
+— Mostra sem confirmar nada.
 
-Gabriel levantou-se, ignorando a dor.
+A mulher moveu o cursor. Na tela, um lote de suspensões aguardava conciliação. Valéria reconheceu o próprio registro e o dos atendimentos recusados naquela noite. Havia solicitações antigas, lacunas e campos a que a sessão de Miranda não dava acesso.
 
-A carne do ombro tinha o cheiro de pano esquecido no ferro de passar. A mão direita ainda fechava; era o que importava. Ele não olhou para o ferimento, porque olhar dá ao corpo a ideia de reclamar.
+— Não apaga o histórico — pediu a mulher.
 
-— Paz de cemitério não conta, Miranda.
+— Você quer conservar isso?
 
-Eles trocaram tiros. Gabriel se escondia atrás das colunas de servidores enquanto Miranda avançava, protegido por um escudo de energia pessoal gerado por seu braço novo.
+— Quero poder dizer o que fizeram comigo.
 
-— Val, quanto tempo? — gritou Gabriel.
+Gabo saiu de trás da coluna quando Miranda virou a arma para as duas. Não conseguiu erguer o braço queimado para agarrá-lo. Bateu com o corpo no lado desprotegido, recebeu a mão de aço no rosto e perdeu o equilíbrio junto com ele.
 
-— Estou reescrevendo o protocolo! — gritou Valéria, seus dedos sangrando sobre o teclado. — Vou liberar o "Shadowban"! Vou devolver a identidade de todo mundo!
+O joelho de Miranda ficou preso entre a base da bancada e a perna de Gabo. O estalo veio antes do grito. A arma de energia escorregou pelo líquido.
 
-— Se você fizer isso, a cidade entra em colapso! — gritou Miranda. — O sistema econômico, os registros criminais, as dívidas... tudo vai voltar! Vai ser o caos!
+Gabo a chutou para longe. Encostou a Glock na testa dele, usando o peso do ombro direito porque a mão começava a abrir.
 
-— É, eu sei — disse Gabriel, sorrindo. — Eu adoro o caos.
+— Você ia me entregar a Kael — disse. — Agora vai ficar vivo para explicar quem te trouxe.
 
-Ele saiu da cobertura e correu em direção a Miranda. O traidor disparou, mas Gabriel deslizou pelo chão molhado de fluido, passando por baixo do escudo de energia.
+Miranda respirava pela boca.
 
-Ele chutou o joelho de Miranda, quebrando a perna dele com um estalo seco. Miranda caiu, gritando.
+— Você acha que teu distintivo ainda manda aqui?
 
-Gabriel colocou o cano da Glock na testa do ex-parceiro.
+— Não. Mas eu ainda estou apontando uma arma.
 
-— Acabou, Roberto.
+Não gostou de ouvir a própria resposta.
 
-Miranda olhou para ele, ofegante.
+Na bancada, Valéria preparou a reversão do lote. Não devolvia dinheiro retirado das contas, não desfazia condenações nem restaurava dados que já tivessem sido apagados. Suspendia a ordem de exclusão que aquele nó estava executando.
 
-— Você não tem coragem. Nós somos irmãos de farda.
+— Aria, guarda o original e uma cópia das alterações.
 
-— Eu entreguei meu distintivo — disse Gabriel.
+— *Posso registrar o que passa por este terminal. Não posso garantir que o cadastro diga a verdade.*
 
-— GABRIEL, FEITO! — gritou Valéria.
+— Registra essa ressalva também.
 
-Ela apertou o Enter.
+Miranda tentou se levantar. Gabo apertou o cano contra a testa; viu a marca circular ficar no suor.
 
-O zumbido da máquina parou. As luzes da caverna ficaram verdes.
+— Se publicar isso — Miranda disse — eles vão procurar cada um que você tirar da lista.
 
-E então, em milhões de telas pela cidade, em milhões de implantes oculares, o véu caiu.
+Valéria parou sobre a confirmação. A mulher do cadastro puxou a tela para perto.
 
-As contas bancárias descongelaram. Os históricos de crimes de políticos apareceram em outdoors. As mentiras dos influenciadores foram substituídas pelos vídeos brutos, sem filtro.
+— Me mostra o que vai sair.
 
-A cidade acordou de uma ressaca coletiva.
+Eram os comandos, horários e contas de operador. Os nomes dos submetidos ao sistema estavam ocultos na cópia pública. A lista completa ficaria preservada, não exposta nos anúncios da rua.
 
-No bunker, os "Cancelados" arrancaram suas máscaras. Eram pessoas comuns. Jornalistas, ativistas, cientistas. E eles estavam muito, muito bravos.
+— Isso — disse a mulher. — Manda isso.
 
-Uma mulher ficou olhando para Gabriel como se ele fosse uma conta que não fechava. Era pequena, tinha o cabelo cortado rente ao crânio e um buraco na blusa onde devia estar um crachá.
+Valéria confirmou.
 
-— Você demorou — disse ela.
+O terminal devolveu uma parte das solicitações. Outras falharam. O número de rejeições continuou crescendo depois que a licença ótica dela reapareceu como ativa, com verificação remota pendente.
+
+Um homem mostrou o pulso à pessoa ao lado. Seu nome voltara ao visor. Ela tentou o próprio e recebeu a mesma negativa.
+
+Não houve uma comemoração que servisse para os dois.
+
+Pelos enlaces ainda abertos do prédio, a cópia dos registros começou a sair. Um painel de publicidade exibiu ordens de cancelamento com a conta do operador; outro voltou ao anúncio quando o filtro reagiu. Valéria guardou os recibos de entrega que conseguiu obter. Não sabia quem os conservaria.
+
+As pessoas se aproximavam de Miranda. Gabo ergueu a arma sem apontar para elas.
+
+— Tem gente ainda ligada nas cadeiras. A saída é pelo elevador. Preciso que abram espaço.
+
+— Você demorou — disse a mulher do cadastro.
 
 — Eu não sabia.
 
-— Eu sei. — Ela virou as costas e caminhou para Miranda, e o que disse depois foi baixo demais para Gabriel entender, e alto o bastante para Miranda parar de rir.
+Ela olhou o distintivo no peito dele.
 
-Eles cercaram Miranda.
+— Eu sei.
 
-— Gabo... — Miranda olhou para a multidão. O terror deu lugar a uma aceitação maníaca. Ele começou a rir.
+Virou-se para Miranda. Alguém agarrou a lapela do terno. Gabo tentou puxá-lo pela roupa; o braço esquerdo falhou e a mão de metal o empurrou de volta.
 
-— Você acha que venceu? — ele cuspiu sangue. — Dante não queria salvar a cidade, Gabo. Ele queria *resetá-la*. Eu só estava seguindo o cronograma dele. Você é o executor do testamento do papai!
+— Vem me tirar daqui, irmão de farda! — Miranda gritou. Depois baixou a voz. — Dante queria resetar a cidade. Pergunta o que ele ia fazer com quem não coubesse no projeto.
 
-Gabriel guardou a arma, sentindo o frio na espinha.
+Gabo não tinha como verificar aquilo ali. A provocação acertou mesmo assim.
 
-— Sinto muito. Isso aqui não é jurisdição da polícia. É o tribunal do povo.
+Um golpe atingiu Miranda. Gabo pediu que parassem. A mulher não saiu da frente; atrás dela, os outros avançaram.
 
-Ele deu as costas e caminhou até Valéria.
+Valéria chamou seu nome. Estava sentada na entrada do elevador, sem conseguir apoiar o pé. Duas pessoas precisavam de ajuda para tirar um terceiro da cadeira.
 
-— Vamos sair daqui.
+Gabo escolheu levantá-la. Levou também a localização do terminal, as imagens e uma frase para o registro: Miranda ficara vivo, ferido, cercado; ele saíra antes de conseguir protegê-lo.
 
-Enquanto eles subiam pelo elevador, a risada de Miranda ecoou pelo poço, misturada aos gritos da multidão.
+Não encontrou palavra que tornasse a escolha limpa.
 
-***
+No alto, enviou o pedido de socorro e escolta a Vilar assim que o comunicador encontrou rede. Guardou o horário. O recibo não garantia que uma equipe chegaria.
 
-**Superfície.**
+A madrugada clareava sobre o Distrito da Névoa. Havia vidros quebrados, um posto de atendimento tomado por gente tentando reativar o nome e uma fogueira junto à propaganda da Aeterna. Um homem carregava uma televisão. Uma mulher procurava alguém na fila.
 
-A cidade estava em chamas. Mas eram chamas de revolta, não de destruição. As pessoas estavam nas ruas, quebrando as telas de propaganda, derrubando as estátuas da Aeterna.
+Valéria sentou-se na calçada. Os olhos azul-gelo voltaram a acompanhar o movimento sem as falhas que a faziam piscar.
 
-Um homem passou correndo com uma televisão de plasma nos braços e parou ao ver o sangue no ombro de Gabriel. Olhou para o rosto. Olhou para o sangue. Continuou correndo, porque carregar uma televisão era mais útil que carregar uma opinião.
+— A licença voltou. Não sei por quanto tempo.
 
-Uma menina de uns sete anos estava sentada no meio-fio comendo um pacote de biscoito, indiferente ao mundo que desabava. Valéria olhou para ela e desviou o olhar rápido demais.
+Gabo lhe ofereceu o braço direito para levantar. Desta vez não disse que tinham vencido.
 
-Valéria sentou-se na calçada, exausta. Seus implantes brilharam com um azul forte e saudável.
+Menos de uma hora depois, chegou o comunicado da Corregedoria: suspensão de Gabo, captura dos dois por participação no ataque ao bunker. O documento ignorava os pedidos de socorro anexados ao registro.
 
-— Minha licença renovou — disse ela, rindo e chorando ao mesmo tempo. — Eu sou eu de novo.
+Um segundo recado apareceu no comunicador. Trazia a mesma identificação de sessão que abrira o elevador.
 
-Gabriel sentou-se ao lado dela, segurando o braço queimado.
-
-— Conseguimos.
-
-O braço queimado latejava num ritmo que não era o do coração. Ao redor deles, a cidade comemorava como quem quebra a própria casa para provar que é dono dela. Alguém jogava cadeiras do quarto andar. Alguém vendia água. Havia cheiro de fumaça e de pipoca, e Gabriel não conseguiu decidir qual dos dois o incomodava mais.
-
-— E agora? — perguntou ela. — O Marco Moretti vai cair. O sistema caiu. O que sobrou?
-
-Gabriel olhou para o horizonte, onde o sol tentava nascer através da poluição.
-
-— Sobraram os Ecos — disse ele. — E alguém tem que limpar a bagunça.
-
-Valéria encostou a cabeça no ombro dele.
-
-— Parceiros?
-
-— Parceiros — concordou Gabriel.
-
-Mas enquanto olhava para a cidade, Gabriel sabia que não tinha acabado. O chip em seu estômago vibrou, quente. Uma mensagem, vinda não de fora, mas de dentro.
-
-*— Nível 1 Concluído. Iniciando Fase 2.*
-
-Gabriel fechou os olhos. O jogo estava apenas começando.
-
-Menos de uma hora depois, os comunicados oficiais começaram a pipocar em todas as redes: a Corregedoria anunciava sua suspensão imediata por 'conduta terrorista' e liberava um mandado de captura preventiva contra ele e Valéria.
-
-Doze horas. Foi o tempo entre a queda do Shadowban e o surgimento de um novo espetáculo no submundo: um contrato público de caça com seus nomes no topo.
+NÍVEL 1 CONCLUÍDO. INICIANDO FASE 2.
+No campo do destinatário, o nome era **COMISSÁRIO MORETTI**.

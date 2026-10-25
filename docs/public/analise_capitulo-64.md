@@ -1,16 +1,18 @@
-# Análise: Capítulo 64 - A Cidade Fantasma
+# Revisão de Capítulo 64: A Cidade Fantasma
 
-**Avaliação Técnica:**
-- Ritmo: 9/10
-- Diálogos: 9/10
-- Atmosfera: 10/10
+Fonte: [capítulo 64](/capitulo-64.md).
 
-**Pontos Fortes / Fracos:**
-- Fortes: Dilema ético denso e ciberpunk. A revelação de Marco sobre a função real da cidade como coprocessadores biológicos e as mentes escravizadas é fantástica.
-- Fracos: O ataque despropositado do Taxidermista aos seguranças age a favor do plot armor, embora seja consistente com sua personalidade caótica.
+Este registro apresenta trechos da fonte revisada; não atribui nota automática à qualidade literária.
 
-**Sanity Check (Lore):**
-- Adequado com as diretrizes. A restrição motora de Gabo dita suas ações ("arrastar-se", "pernas não respondiam"). Sem menções a fumaça ou fumo, a repugnância é perfeitamente contornada sem quebrar personagem.
+## Passagens de entrada e saída
 
-**Avaliação Qualitativa:**
-- Uma excelente adição ao "grand scheme" da Aeterna. Desenvolve bem o mundo e aumenta as apostas sem inflar personagens desnecessariamente. Marco é um antagonista crível, e a impotência de Gabo fortalece o tom.
+> Sala de controle do Núcleo.
+> O Taxidermista estava matando os seguranças da Aeterna, e Gabo desistiu de entender por quê. Talvez ele visse a digitalização como uma ofensa pessoal — um homem que dedicou a vida à carne não recebe bem gente que promete dispensar carne. Talvez estivesse apenas protegendo um investimento. Talvez não houvesse motivo nenhum, e essa era a hipótese que Gabo achava mais provável e mais assustadora. Não importava. O que importava era que, por noventa segundos, ninguém estava olhando para o chão, e Gabo usou os noventa segundos para se arrastar até o console — apoiando-se no braço bom, empurrando com a perna esquerda, deixando um rastro molhado atrás de si.
+
+### Saída
+
+> — Conecta o drive.
+
+## Alcance do parecer
+
+Leitura e revisão textual na retomada integral de 22/10/2026. As passagens acima identificam a versão considerada; contagens e verificações de arquivos não comprovam por si só atmosfera, voz ou justiça da dedução. O registro geral de continuidade está no dossiê e na cronologia.

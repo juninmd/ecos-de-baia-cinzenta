@@ -1,45 +1,25 @@
 ---
+layout: doc
+title: "Capítulo 96: A Grande Convergência"
+description: "A ação alcança controladores conectados e danifica a saída de Aria. O resultado não comprova extinção de todo broto nem destruição de todo armazenamento."
 image: /capitulo_96.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Silas Vance ("O Jardineiro"), Aria, Valéria "Val" Cruz, Dante Moretti, Capitão Jonas Vilar
 Localização: "Bunker do Projeto Gênesis — Salão Principal (interface da Árvore-Mãe)"
 ---
 # Capítulo 96: A Grande Convergência
 
-**A Árvore-Mãe**
-
-O titânio esquentou antes de entrar.
-
-Gabo sentiu o calor subir pelo cilindro, atravessar a palma e parar no osso. A porta da árvore era um rasgo de nervo, úmido, e cedeu quando ele empurrou, como carne cansada.
+A Árvore-Mãe
+O titânio esquentou antes de entrar. Gabo sentiu o calor subir pelo cilindro, atravessar a palma e parar no osso. A porta da árvore era um rasgo de nervo, úmido, e cedeu quando ele empurrou, como carne cansada.
 
 — Conexão física estabelecida — disse a Aria no ponto auditivo. A voz saiu limpa, sem chiado. — Estou dentro.
 
-Um segundo depois, a árvore estava dentro dele.
+Um segundo depois, a árvore estava dentro dele. Não foi imagem. Foi temperatura. O salão respirava de sete em sete segundos, e dessa vez o ar entrou por ele: terra molhada, raiz partida, açúcar fermentando. O chão pulou sob os joelhos. As paredes de carne do bunker se contraíram.
 
-Não foi imagem. Foi temperatura. O salão respirava de sete em sete segundos, e dessa vez o ar entrou por ele: terra molhada, raiz partida, açúcar fermentando. O chão pulou sob os joelhos. As paredes de carne do bunker se contraíram.
-
-— Você demorou, detetive.
-
-A voz não veio da boca do homem fundido ao tronco. Veio do concreto, da madeira, do esterno do Gabo.
-
-Ele levantou os olhos. Silas Vance estava a três metros do chão, o tórax saindo da casca, os braços dissolvidos em galho na altura do cotovelo. O rosto era o mesmo do laboratório branco: limpo, calmo, de quem já tinha ganhado a discussão.
-
-— Trouxe o presente? — disse Silas.
-
-— Trouxe a cura — disse Gabo.
-
-— É a mesma coisa. — O tronco se abriu em uma fenda vertical, e a fenda mostrou coisas que não eram dentes. — Venha ver o que eu curei.
-
-As raízes se afastaram do chão.
-
-Gabo viu os rostos.
-
-Estavam encaixados na madeira em camadas, ombro contra ombro, os olhos fechados, a expressão de quem dorme depois de um dia longo. Havia milhares. E, a dois palmos da bota dele, havia o pai.
+Silas abriu mais as raízes, expondo a fileira que Gabo já tentava não olhar. O rosto com os traços de Dante ficou a dois palmos da bota dele. O corpo original estava enterrado; aquilo reproduzia a lembrança que a rede guardara, ou a que queria que Gabo reconhecesse.
 
 Dante Moretti tinha o rosto cansado de quem chegava em casa cheirando a café velho e cigarro frio. A ruga entre as sobrancelhas estava lá. O corte de cabelo estava lá. A boca estava fechada do jeito que fechava quando ele decidia não discutir.
 
-Gabo sentiu o cheiro antes de entender que estava sentindo.
-
-O joelho foi para o chão sozinho.
+Gabo sentiu o cheiro antes de entender que estava sentindo. O joelho foi para o chão sozinho.
 
 — Ele não sente frio — disse Silas, baixo. — Não sente falta. Não sente culpa. O senhor passou quinze anos carregando um homem que já tinha sido resolvido.
 
@@ -47,17 +27,13 @@ A mão do Gabo estava a um dedo do rosto. Ele não lembrava de ter esticado o br
 
 — Olhe para ele. — A voz de Silas veio de todos os lados. — Está em paz. O senhor é o único que não está.
 
-Havia um tubo saindo da têmpora do pai. Fino, translúcido, cheio de um líquido claro que subia devagar na direção do tronco. No ponto em que o tubo entrava na madeira, a madeira estava mais vermelha.
-
-Gabo olhou para os outros rostos. Todos tinham o mesmo tubo.
+Havia um tubo saindo da têmpora do pai. Fino, translúcido, cheio de um líquido claro que subia devagar na direção do tronco. No ponto em que o tubo entrava na madeira, a madeira estava mais vermelha. Gabo olhou para os outros rostos. Todos tinham o mesmo tubo.
 
 — O que é isso? — perguntou.
 
 — Alimento. — Silas não hesitou. — Um jardim come.
 
-Gabo puxou a mão.
-
-Foi um movimento pequeno, de dois centímetros, e custou mais que os quarenta degraus com o berço de baterias nas costas. Ele se levantou com o joelho estalando e ficou olhando o pai de cima, porque de cima era mais fácil mentir.
+Gabo puxou a mão. Foi um movimento pequeno, de dois centímetros, e custou mais que os quarenta degraus freando o trenó de baterias. Ele se levantou com o joelho estalando e ficou olhando o pai de cima, porque de cima era mais fácil mentir.
 
 — O senhor não guardou ninguém — disse. — O senhor enfiou um cano na cabeça do meu pai e chamou de paraíso.
 
@@ -87,11 +63,11 @@ Gabo apertou o cilindro. O titânio já estava quente o bastante para doer.
 
 — Acha outro caminho.
 
-— Não tem outro caminho. — A voz dela não subiu. Nunca subia. — Vou ficar surda. Não é o mesmo que morrer.
+— Não encontrei outro caminho no tempo que temos. — A voz dela ficou firme. — Vou ficar surda. Não é o mesmo que morrer.
 
 — Aria.
 
-— O senhor vai sentir. Eu não.
+— O senhor vai sentir na mão. Sobre o que acontece comigo, não sei prometer.
 
 Ele abriu a boca para dizer não, e o não não saiu, porque a raiz tinha subido pelo tornozelo e estava apertando a perna, e porque o pai dele estava a dois palmos de distância com um cano na cabeça, e porque não havia mais nada naquele bunker que ele pudesse salvar com as duas mãos.
 
@@ -115,23 +91,15 @@ Gabo fechou o circuito.
 
 ***
 
-A explosão não foi de fogo. Foi de luz, e a luz subiu pela árvore de baixo para cima, queimando a instrução que mantinha cada fibra no lugar. As raízes soltaram os tornozelos. Os rostos escorregaram para o escuro, devagar, como coisas que afundam em água grossa.
+A explosão não foi de fogo. Foi de luz, e a luz subiu pela árvore de baixo para cima, apagando os indicadores dos controladores que a biomassa incorporara. O estalo da descarga veio antes do clarão da rede em curto. As raízes soltaram os tornozelos. Os rostos escorregaram para o escuro, devagar, como coisas que afundam em água grossa.
 
-O do pai passou a um palmo da mão dele.
-
-Gabo não pegou.
-
-Foi a coisa mais difícil que ele fez naquele ano.
+O do pai passou a um palmo da mão dele. Gabo não pegou. Foi a coisa mais difícil que ele fez naquele ano.
 
 No alto, a copa da árvore virou pó em cascata. O teto do bunker rachou no meio, e pela rachadura entrou uma luz cinzenta que ele não via havia meses. Lá fora, o Sol Negro perdeu a forma e desabou sobre a cidade como um balão molhado.
 
-Mas o tronco, na altura do peito do Silas, ainda estava inteiro.
+Mas o tronco, na altura do peito do Silas, ainda estava inteiro. A casca se abriu de cima a baixo com um estalo de tábua. O corpo do Silas escorregou para dentro da fenda — primeiro os quadris, depois o peito, depois o rosto — e a madeira se fechou atrás dele como uma boca.
 
-A casca se abriu de cima a baixo com um estalo de tábua. O corpo do Silas escorregou para dentro da fenda — primeiro os quadris, depois o peito, depois o rosto — e a madeira se fechou atrás dele como uma boca.
-
-Gabo se arrastou para a frente e agarrou o que pôde. Pegou um punhado de fibra quente e seiva preta. A fibra se desfez entre os dedos.
-
-Do fundo do tronco, abafada, a voz:
+Gabo se arrastou para a frente e agarrou o que pôde. Pegou um punhado de fibra quente e seiva preta. A fibra se desfez entre os dedos. Do fundo do tronco, abafada, a voz:
 
 — Você podou, detetive. Não arrancou a raiz.
 
@@ -143,19 +111,13 @@ O berço de baterias tinha virado um bloco de plástico derretido e cobre torrad
 
 — Aria.
 
-Nada.
-
-Ele encostou o drive no ouvido. O metal estava morno. Nada.
+Nada. Ele encostou o drive no ouvido. O metal estava morno. Nada.
 
 — Aria.
 
-Um estalo. Um só. Como um osso pequeno se acomodando. O LED deu um pulso âmbar, fraco, e apagou de novo.
+Um estalo. Um só. Como um osso pequeno se acomodando. O LED deu um pulso âmbar, fraco, e apagou de novo. Depois, silêncio.
 
-Depois, silêncio.
-
-Gabo ficou de joelhos no chão do salão, com as mãos em bolha e o cheiro de polímero queimado na garganta. Não conseguiu levantar. Não era a perna. Era o resto.
-
-No rádio do cinto, a voz do Vilar chegou picotada:
+Gabo ficou de joelhos no chão do salão, com as mãos em bolha e o cheiro de polímero queimado na garganta. Não conseguiu levantar. Não era a perna. Era o resto. No rádio do cinto, a voz do Vilar chegou picotada:
 
 — Moretti. Moretti, responde.
 
@@ -181,10 +143,6 @@ Parou ao lado dele e olhou o tronco, os rostos, o buraco.
 
 — Não toda.
 
-Ela seguiu o olhar dele até o chão. Debaixo do joelho do Gabo, a raiz ainda estava úmida. Ainda estava quente.
-
-E a terra subiu um centímetro.
-
-Devagar.
+Ela seguiu o olhar dele até o chão. Debaixo do joelho do Gabo, a raiz ainda estava úmida. Ainda estava quente. E a terra subiu um centímetro. Devagar.
 
 Como peito.

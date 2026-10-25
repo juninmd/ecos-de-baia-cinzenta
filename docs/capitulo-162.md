@@ -3,15 +3,10 @@ title: "Capítulo 162: Engrenagens Cegas"
 date: "Pós-Colapso da Usina Prometeu (Noite Eterna)"
 location: "Servidores Centrais (Subnível 3.0 - Acesso Central)"
 characters: ["Gabo", "Valéria", "Aria"]
+Data In-Game: "Pós-Colapso da Usina Prometeu (Noite Eterna)"
+Localização: "Firewall Mecânico dos Servidores Centrais (Subnível 3.0)"
+Personagens Presentes: "Gabo, Valéria, Aria (Reboot)"
 ---
-
-## Metadados
-- **Título:** Engrenagens Cegas
-- **Data In-Game:** Pós-Colapso da Usina Prometeu (Noite Eterna)
-- **Localização:** Firewall Mecânico dos Servidores Centrais (Subnível 3.0)
-- **Personagens Presentes:** Gabo, Valéria, Aria (Reboot)
-
-## Narrativa
 
 # Capítulo 162: Engrenagens Cegas
 
@@ -23,17 +18,17 @@ E era exatamente dessa dor que ele precisava.
 
 O ar estagnado ali cheirava a poeira antiga e ozônio residual, mas a mente exausta de Gabo tentava injetar algo pior. O fantasma sufocante do tabaco, o odor azedo de cinzeiros transbordando da antiga sala do Comissário Dante, rastejava pelas beiradas da sua sanidade. Para suprimi-lo, Gabo pressionou o braço direito quebrado com força contra a parede de concreto. Um raio quente e cru de agonia explodiu até seu ombro, obliterando a náusea da fumaça instantaneamente.
 
-— *A infraestrutura da porta possui um override de manutenção,* — Aria reportou, sua voz sintética cortando o silêncio fúnebre a partir do comunicador de gola. No pulso de Valéria, o pendrive piscava em azul-gelo enquanto o feixe laser do cyberdeck *Phantom V3* mapeava meticulosamente as ranhuras do aço. — *No entanto, a alavanca de destravamento manual localiza-se na câmara de engrenagens superior. O único acesso é um duto de descompressão de quarenta e cinco centímetros quadrados.*
+— *A infraestrutura da porta possui um override de manutenção,* — Aria reportou, sua voz sintética cortando o silêncio fúnebre a partir do comunicador de gola. No pulso de Valéria, o pendrive piscava em azul-gelo enquanto o feixe laser do cyberdeck *Phantom V3* mapeava meticulosamente as ranhuras do aço. — *No entanto, a alavanca de destravamento manual localiza-se na câmara de engrenagens superior. O único acesso é um duto de descompressão de quarenta e cinco por sessenta centímetros.*
 
 Valéria, sentada no chão coberto de cinzas com os joelhos puxados contra o peito, soltou um riso sem humor. O suor sujo manchava seu rosto pálido de exaustão.
 
 — Quarenta e cinco centímetros? — Ela murmurou, a voz áspera. — Com o colete tático, o cyberdeck no braço e a bateria nas costas, eu precisaria deslocar os dois ombros para passar por aí. E estou quase apagando de fadiga térmica.
 
-— *Sua análise de viabilidade biométrica está correta,* — Aria confirmou pelo alto-falante, o indicador luminoso do pendrive pulsando com frieza matemática. — *E como opero exclusivamente confinada a este módulo de hardware sem atuadores físicos autônomos, não possuo meios de interagir com a alavanca. Consequentemente, a probabilidade de avanço deste grupo no momento é de zero vírgula zero por cento. A estagnação resultará em óbito metabólico.*
+— *Sua análise de viabilidade biométrica está correta,* — Aria confirmou pelo alto-falante, o indicador luminoso do pendrive pulsando com frieza matemática. — *E como opero exclusivamente confinada a este módulo de hardware sem atuadores físicos autônomos, não possuo meios de interagir com a alavanca. Posso mapear o acesso pela planta, mas a câmera não mostra seu interior. Não vou chamar uma passagem estreita de saída garantida.*
 
 Gabo desencostou da parede, o calombo endurecido de espuma química raspando em suas costelas quebradas. Ele olhou para o pequeno duto retangular de ventilação posicionado a dois metros de altura, quase escondido pelas sombras densas.
 
-— Eu não tenho equipamento preso nos braços, só um braço quebrado e uma mão em carne viva. — Gabo cuspiu as palavras com a aspereza de papel lixa. — O que significa que meus ombros não precisam de tanta folga pra rastejar.
+— Eu não tenho equipamento preso nos braços, só um braço quebrado e uma mão em carne viva. — Gabo cuspiu as palavras com a aspereza de papel lixa. — Você não consegue tracionar com a mão esquerda. Eu consigo me empurrar com as órteses se mantiver o braço direito preso à tala. Preciso que fique aqui para me puxar de volta se eu travar.
 
 Valéria ergueu a cabeça rapidamente, os olhos escuros arregalados em um choque genuíno.
 — Gabo, não. Você está literalmente colado com espuma e pura teimosia. Se você engatar naquele duto enferrujado e tiver uma hemorragia interna, você morre afogado no próprio sangue e eu não tenho como te puxar de volta.
@@ -64,7 +59,7 @@ A poça de carne reagiu à aproximação de Gabo. Um sensor óptico do tamanho d
 
 Gabo não hesitou. Ele não tinha mãos livres para desarmar. Nem armas para atirar.
 
-Ele rugiu contra o silêncio frio da câmara. Tomando impulso nas pernas doloridas, Gabo arremessou o peso de todo o seu corpo para frente. Ele usou o ombro e o antebraço direito enfaixado como um aríete primitivo, chocando-se diretamente contra o núcleo do olho do sentinela na alavanca.
+Ele rugiu contra o silêncio frio da câmara. Tomando impulso nas pernas doloridas, Gabo se apoiou no trilho de inspeção. Usou a haste lateral da órtese contra a base já solta da alavanca, mantendo o braço direito preso ao peito. O sensor do sentinela virou para ele; uma garra abriu mais um rasgo no casaco antes de o trinco ceder e o contrapeso assumir a carga.
 
 A biomassa estourou em um guincho agudo e repulsivo. Fluido amniótico cinza espirrou no rosto de Gabo. A dor da colisão nos nervos do seu braço foi transcendental, um abismo escuro onde apenas o som do seu próprio batimento cardíaco existia. Ele sentiu as garras de cobre da criatura arranharem seu casaco, mas já era tarde. Com o impacto, seu corpo forçou a gigantesca alavanca de metal para baixo. O som das garras metálicas se partindo soou junto com o estrondo profundo abaixo.
 

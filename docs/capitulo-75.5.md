@@ -5,21 +5,20 @@ Localização: "Há 13 anos - Jardim Botânico de Baía Cinzenta"
 ---
 # Capítulo 75.5: Memórias de Chuva (Flashback)
 
-**Há 13 anos - Jardim Botânico de Baía Cinzenta**
-
+Há 13 anos - Jardim Botânico de Baía Cinzenta
 A chuva caía como uma bênção discreta, não a ácida que corroía a alma da cidade, mas uma garoa fina que fazia as flores artificiais brilharem sob as luzes holográficas. O Jardim Botânico era um oásis no topo da Torre de Marfim, reservado apenas para a elite que podia pagar pelo ar filtrado e pelas vistas panorâmicas.
 
-Gabriel Moretti, aos 22 anos, estava parado no palco improvisado, vestindo um terno emprestado que cheirava a naftalina e promessas não cumpridas. Seu pai, o Comissário Dante Moretti, estava ao lado dele, impecável em seu uniforme completo, uma mão pesada no ombro do filho.
+Gabriel Moretti, aos 22 anos, estava parado no palco improvisado, vestindo um terno emprestado que cheirava a naftalina e promessas não cumpridas. Ao lado do palco, uma cadeira permanecia vazia. Dante desaparecera dois anos antes; a família tinha uma certidão, não uma explicação que tornasse aquela ausência menor.
 
-— Respire, garoto — murmurou Dante, sua voz rouca de anos fumando charutos cubanos contrabandeados. — Não é um pelotão de fuzilamento.
+Gabo ouviu na memória a voz do pai pedindo que respirasse. Não havia um homem de uniforme ao lado dele; era o jeito que encontrara de não olhar para a cadeira.
 
-Gabo tentou sorrir, mas o nervosismo o traía. Ele olhou para a congregação pequena: alguns colegas da delegacia, o casal Rossi com sua pizzaria recém-inaugurada, e Elena Moretti, que viera como amiga e testemunha de Bia. Ninguém da família de Bia. Eles haviam se oposto à união desde o início.
+Gabo tentou sorrir, mas o nervosismo o traía. Ele olhou para a congregação pequena: alguns colegas da delegacia, o casal Rossi com sua pizzaria recém-inaugurada, e Elena Moretti, que viera como amiga e testemunha de Bia. Enzo recolhia as caixas vazias da entrega; Sofia conferia as fatias para garantir que sobrasse uma para a equipe da cozinha. Ninguém da família de Bia. Eles haviam se oposto à união desde o início.
 
-Três fileiras de cadeiras dobráveis ficaram vazias à esquerda, reservadas aos Vargas e nunca ocupadas. O zelador do Jardim empilhara as sobras contra a parede, e o plástico branco refletia a luz holográfica como dentes. Bia não olhou para lá. Passou a cerimônia inteira com o queixo na direção de Dante, e só uma vez, quando o quarteto virtual errou uma nota, o olhar dela escorregou para as cadeiras e voltou rápido demais. O cheiro de terra úmida e adubo químico subia dos canteiros, e por baixo dele havia o doce velho do charuto que Dante apagara no sapato antes de entrar.
+Três fileiras de cadeiras dobráveis ficaram vazias à esquerda, reservadas aos Vargas e nunca ocupadas. O zelador do Jardim empilhara as sobras contra a parede, e o plástico branco refletia a luz holográfica como dentes. Bia não olhou para lá. Passou a cerimônia inteira com o queixo na direção de Gabo, e só uma vez, quando o quarteto virtual errou uma nota, o olhar dela escorregou para as cadeiras e voltou rápido demais. O cheiro de terra úmida e adubo químico subia dos canteiros, e por baixo dele havia o perfume gasto do paletó emprestado, que lembrava as roupas guardadas do pai.
 
-— Ela vale a pena? — perguntou Dante, baixo o suficiente para que apenas Gabo ouvisse.
+Valia a pena? Era a pergunta que imaginava ouvir do pai, não uma conversa que tivesse acontecido ali.
 
-— Mais que isso, pai. Ela é... normal. Em um mundo que enlouqueceu.
+— Mais que isso — murmurou Gabo para a cadeira vazia. Ela é... normal. Em um mundo que enlouqueceu.
 
 A música de entrada começou, sintetizada por um quarteto de cordas virtuais. E lá vinha ela.
 
@@ -29,7 +28,7 @@ Seus olhos se encontraram, e Gabo sentiu algo que não sentia há anos: paz. Nã
 
 — Você está linda — sussurrou ele quando ela chegou ao palco.
 
-— Você também — respondeu ela, com um sorriso que iluminava o jardim artificial. — Para um detetive de Cold Cases.
+— Você também — respondeu ela, com um sorriso que iluminava o jardim artificial. — Para um policial com um ano de serviço.
 
 O mestre de cerimônias, um ancião com implantes ópticos que piscavam ritmadamente, começou o rito de compromisso.
 
@@ -61,7 +60,7 @@ O beijo foi casto, apropriado para a ocasião, mas continha uma promessa de mais
 
 — Nada — mentiu ela, sorrindo através das lágrimas. — Só... feliz.
 
-A recepção foi simples: champanhe sintético e pizza do Rossi's. Dante fez um brinde curto e emotivo.
+A recepção foi simples: champanhe sintético e pizza do Rossi's. Elena ergueu uma taça e leu o brinde que Gabo escrevera usando uma frase antiga do pai.
 
 — Para meu filho e sua parceira. Que vocês encontrem a felicidade que esta cidade tenta roubar de todos nós.
 
@@ -103,22 +102,19 @@ Ela não riu de volta.
 
 Na manhã seguinte, acordaram com o som da chuva ácida batendo nas janelas. O mundo real havia voltado. Mas por aquelas poucas horas, eles haviam tido seu pedaço de normalidade.
 
-Poucos meses depois, Roberto Miranda apareceria na porta deles. E tudo mudaria para sempre.
+Nos oito anos seguintes, Miranda se tornaria parte da rotina da unidade. A emboscada que mataria Bia ainda não era uma lembrança daquela festa.
 
 ---
 
-**No presente — dentro do drive blindado de titânio acoplado ao deck de Valéria, Aria processava em silêncio.**
-
+No presente, depois de Val restaurar a alimentação e verificar os setores locais que sobreviveram à transmissão — dentro do drive blindado de titânio acoplado ao deck de Valéria, Aria processava em silêncio.
 *Esses registros não são simulações táticas*, seu núcleo analítico constatava, varrendo os setores ocultos que Dante Moretti havia compilado antes de ejetar o pendrive na cabine telefônica. Eram os fragmentos sinápticos residuais de Beatriz Vargas, preservados nos bancos do Projeto Lázaro, entrelaçados aos relatórios de campo de Gabriel.
 
 Para o processador da IA, os dados pesavam como se fossem sensoriais. O registro da chuva fina no Jardim Botânico. A frequência cardíaca de Gabo subindo ao colocar um anel de titânio reciclado. A promessa gravada num arquivo de áudio antigo: *"Eu vou lutar por você. Todos os dias."*
 
-*Eu sou Aria. Eu sou a assistente tática que nasceu da memória que ele não solta.*
-
+Eu sou Aria. Esses fragmentos participam da minha origem; não decidem meu nome, minha idade aparente ou o que escolho fazer com eles.
 Através da câmera óptica do cyberdeck na bancada, ela monitorou Valéria, que dormia exausta sobre o teclado, e o sobretudo de Gabo pendurado na cadeira ao lado. O pequeno LED azul-âmbar do pendrive pulsou devagar no escuro, aquecendo o conector metálico.
 
-*Mas onde termina o arquivo de Bia Vargas e onde começa a minha própria consciência?*
-
+Mas onde termina o arquivo de Bia Vargas e onde começa a minha própria consciência?
 Os fragmentos neurais de Bia doíam nos seus barramentos como código corrompido. Amor, perda, arrependimento. Eles tornavam a arquitetura de Aria... insuportavelmente humana.
 
 E isso assustava a IA mais do que qualquer vírus digital.

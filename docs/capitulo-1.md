@@ -36,8 +36,7 @@ Antes que Gabo pudesse avançar, seu comunicador de pulso vibrou. Uma luz vermel
 
 A linha ficou muda. Gabo praguejou baixinho.
 
-*Certifique-se de que tenha um culpado também, e rápido.*
-
+Certifique-se de que tenha um culpado também, e rápido.
 Ele já tinha ouvido aquela frase antes, dita com outras palavras, num outro plantão, catorze anos atrás. Naquela noite ele tinha um culpado e nenhuma prova, e o prazo era de quinze dias, e ele resolveu o problema.
 
 Gabo guardou o comunicador no bolso com mais força do que precisava.
@@ -46,17 +45,17 @@ Na gaveta de baixo da mesa dele, na delegacia, embaixo de duas caixas de papelad
 
 Pensou agora, por três segundos, e depois voltou para o corpo com as lentes no lugar dos olhos, porque o corpo era o problema de hoje e o resto era problema de nunca.
 
-Gabriel terminou o café. Frio, amargo, com um fiapo de papel do copo grudado no lábio. Aos trinta anos, sentia-se com setenta; o joelho estalou quando se abaixou para passar pela fita. Ainda faltavam vinte e quatro horas para o caso deixar de ser dele. O exame mais simples levaria dois dias.
+Gabriel terminou o café. Frio, amargo, com um fiapo de papel do copo grudado no lábio. Aos trinta e cinco anos, sentia-se com setenta; o joelho estalou quando se abaixou para passar pela fita. Ainda faltavam vinte e quatro horas para o caso deixar de ser dele. O exame mais simples levaria dois dias.
 
-Sob a camisa, apertou o Colar de Sol até sentir as arestas. Soltou-o antes de romper a pele. Precisava das mãos firmes.
+Sob a camisa, apertou o Colar de Sol até sentir as arestas. Helena lhe dera o colar anos antes, numa visita em que Clara ainda precisava subir numa cadeira para alcançar a pia. A mãe continuava viva; a ausência que ele carregava naquele metal ainda era a do pai. Soltou-o antes de romper a pele. Precisava das mãos firmes.
 
 O Ruído parecia vir de dentro dos dentes: a baixa frequência que a cidade emitia dia e noite, hoje forte o bastante para lhe pressionar os olhos. Gabo passou o lenço sob o nariz. Sangue. Dobrou o tecido para esconder de Silva a mancha.
 
 O cheiro atravessava tudo: ozônio, lixo úmido, o adocicado de sangue velho. Gabo levou ao rosto a parte limpa do lenço, impregnada de cânfora e menta. Já não ajudava muito.
 
-Iluminou o chão, procurando marcas de pneus, bitucas, qualquer coisa que a água ainda não tivesse levado. A chuva gelada lhe trouxe Bia: ex-parceira, o amor que não voltou, morta num beco que cheirava à mesma mistura.
+Iluminou o chão, procurando marcas de pneus, bitucas, qualquer coisa que a água ainda não tivesse levado. A chuva gelada lhe trouxe Bia: ex-parceira, o amor que não voltou, morta no galpão dos fundos de um beco que cheirava à mesma mistura.
 
-Ainda via o corpo de Bia no asfalto, a perfuração no peito. O relatório dizia "assalto malsucedido". Gabo vira Roberto Miranda se afastar daquele beco e nunca conseguira transformar o que sabia em prova. Desde então, cada formulário em branco lhe parecia uma segunda chance de errar.
+Ainda via o corpo de Bia na entrada do galpão, a perfuração no peito. O relatório dizia "assalto malsucedido". Gabo vira Roberto Miranda se afastar daquele beco e nunca conseguira transformar o que sabia em prova. Desde então, cada formulário em branco lhe parecia uma segunda chance de errar.
 
 Silva esperava uma ordem. Gabo voltou a luz para o corpo.
 
@@ -112,7 +111,7 @@ O gosto metálico voltou à boca de Gabriel. A mão esquerda segurou o saco com 
 
 O menino na foto era ele.
 
-E atrás do menino, desfocado mas inconfundível, estava um homem observando. Um homem que Gabriel viu morrer há quinze anos: seu pai.
+E atrás do menino, desfocado mas inconfundível, estava um homem observando. Um homem que desaparecera quinze anos antes e cujo corpo Gabriel nunca vira: seu pai.
 
 — Chame a detetive Cruz para examinar o transmissor. E registre que reconheci as duas pessoas da fotografia.
 

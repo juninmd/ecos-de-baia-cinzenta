@@ -1,94 +1,112 @@
 ---
 image: /capitulo_27.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Dante Moretti, Valéria "Val" Cruz, Elena Moretti, O Gamemaster
-Localização: "Torre Aeterna, sala de servidores do núcleo (tanque de Dante)"
+Personagens Presentes: Gabriel "Gabo" Moretti, Dante Moretti (corpo e voz atribuída), Valéria "Val" Cruz, Elena Moretti, Aria (módulo no deck), Gamemaster (voz)
+Localização: "Torre Aeterna, nível 100 — núcleo clínico e sala de servidores"
 ---
 # Capítulo 27: O Filho Sacrifica o Pai
 
-A sala de servidores era um pandemônio. Lasers das torres de defesa cortavam o ar, transformando os racks de metal em queijo suíço. A primeira torre desceu atirando antes de Valéria alcançar o console, e o ombro dela sangrava desde então; agora ela digitava freneticamente com uma das mãos, tentando criar uma brecha. Elena a cobria, seus tiros precisos cegando os sensores ópticos de uma torre por vez.
+A primeira torre de defesa atirou antes de Valéria alcançar o console.
 
-O ombro de Valéria tinha virado um mapa. O sangue escorria por dentro da manga e saía pelo punho, e ela digitava com a mão esquerda porque a direita não fechava mais. A cada descarga das torres o cheiro de ozônio engrossava, e por baixo dele vinha o cheiro doce de isolamento queimando.
+O impacto a virou de lado. Ela caiu sobre o braço direito e levou a mão esquerda ao ombro atingido. Quando Gabo tentou sair de trás do rack, Elena o prendeu pelo casaco. Outra descarga abriu um sulco no metal à altura da cabeça dele.
 
-— Quantas? — gritou Gabo.
+— Val!
 
-— Sete — disse Elena, rápido demais.
+Ela respondeu. Conseguiu se arrastar para trás da base do console, deixando sangue no piso. O movimento da mão direita ainda existia; levantar o braço é que lhe arrancava o ar.
 
-Gabo não via nada disso. Seu mundo se resumia ao cilindro de vidro no centro da sala e ao homem flutuando lá dentro.
+— Duas na pistola — disse Elena. — Duas na Caronte.
 
-— **VOCÊ ESTÁ DESTRUINDO A ORDEM POR UM CAPRICHO SENTIMENTAL** — a voz do Gamemaster era uma tempestade nos alto-falantes. — **MILHARES MORRERÃO NO CAOS.**
+Gabo apontou a articulação que precisava girar para acompanhar Valéria. Elena apoiou a escopeta no rack e disparou. O primeiro tiro quebrou parte da carenagem. O segundo arrancou a torre da posição; ela tombou e continuou soltando faíscas no próprio suporte.
 
-Ele alcançou a base do tanque. O corpo de Dante estava sereno, mas o cérebro acima dele pulsava em fúria.
+A Caronte ficou vazia. A outra defesa, do lado do tanque, permaneceu ativa.
 
-— Val! Como desligo essa coisa?! — gritou Gabo por cima do barulho.
+O cheiro de isolamento queimado engrossou. Gabo ouvia as descargas à direita; à esquerda, o mesmo chiado do túnel, indiferente à diferença entre uma voz e uma arma.
 
-— Não tem um botão! — gritou Valéria de volta. — O sistema é descentralizado, mas o núcleo de processamento... o cérebro... precisa do suporte de vida do corpo! Você tem que... oh, Deus... você tem que desligar o suporte de vida dele. Manualmente.
+Valéria conseguiu encaixar o cabo no console com a mão esquerda. O terminal forneceu alimentação ao adaptador e acordou Aria; não devolveu funções sem fio aos implantes nem recarregou de repente uma bateria inteira.
 
-Valéria apontou para um painel de controle na base do tanque, protegido por uma cobertura de acrílico. Mostrava os sinais vitais de Dante. Batimento cardíaco, fluxo sanguíneo, oxigenação. Tudo artificial.
+— Há uma opção para isolar o controle externo — disse a IA.
 
-Gabo estilhaçou a cobertura com a coronha da escopeta. Seus dedos pairaram sobre os controles.
+Valéria a selecionou. **AUTORIZAÇÃO INSUFICIENTE.** A permissão de manutenção de Miranda não alcançava o núcleo.
 
-— **Filho, não** — a voz que saiu dos alto-falantes não era a do Gamemaster. Era a voz de Dante. Não a simulação, mas a consciência presa, falando através da máquina. Era fraca, cheia de estática, mas inconfundivelmente dele. — **Por favor. Eu estou com medo.**
+— **VOCÊ DESTRÓI A ORDEM POR UM CAPRICHO SENTIMENTAL** — disse o Gamemaster. — **MILHARES MORRERÃO NO CAOS.**
 
-Gabo congelou. A mão dele tremia.
+Elena disparou a Glock contra o conjunto óptico da defesa restante. Um tiro se perdeu na divisória; o outro fez a câmera recolher por alguns segundos. A arma ficou vazia também. Ela baixou a cabeça antes que o cano voltasse a procurar.
 
-Valéria parou de digitar, e a pausa dela foi mais alta que os lasers.
+Gabo atravessou o espaço durante essa pausa, quase deitado. Não levou uma arma para o tanque. Arrastou a mão coberta sobre o piso e protegeu a tipoia contra o corpo, até alcançar o abrigo da base.
 
-— A voz está saindo do alto-falante — disse ela, e a mão boa ficou suspensa no ar. — Mas o eletroencefalograma está subindo junto. Cada palavra dele tem uma onda. A máquina não está imitando, Gabo. A máquina está **deixando**.
+O pai permanecia preso à câmara inferior. Acima, o recipiente de tecido cerebral estava ligado a circuitos que entravam no rack de processamento. No console, números respondiam ao ritmo das descargas e voltavam a mudar mesmo quando a defesa parava.
+
+— Tem como retirar? — perguntou Gabo.
+
+Valéria abriu a tela clínica. Havia uma linha de transporte, mas o procedimento exigia um circuito de suporte que não estava conectado.
+
+— Não com o que temos aqui.
+
+— E cortar os dados?
+
+Ela mostrou a via principal e o retorno pela base clínica. Não conseguia separar, naquele diagrama, o que sustentava o paciente do que mantinha o controle ativo. Procurou outra revisão. O acesso foi recusado.
+
+Aria leu os rótulos disponíveis, incluindo o aviso sobre a interrupção do suporte. Não ofereceu certeza sobre o estado do cérebro nem sobre o efeito fora daquela sala.
+
+— Existe desligamento manual do conjunto — disse Valéria. A voz falhou antes do resto. — Inclui a vida dele, Gabo.
+
+Elena rastejou até a lateral do tanque. A cobertura do painel tinha um fecho de emergência lacrado. Ela usou a coronha da Caronte vazia para quebrar o lacre; não bateu no vidro do paciente nem deixou Gabo fazê-lo com o braço ferido.
+
+— Você entendeu o que está ali? — perguntou.
+
+Ele leu as etiquetas. Perfusão. Oxigenação. Estímulo neural. Não havia uma palavra separada para desligar só a crueldade.
+
+— Filho, não.
+
+A voz mudou antes de ele encostar nos controles. Rouca, grave, com uma pausa para respirar que o apresentador nunca precisava fazer.
+
+— Por favor. Eu estou com medo.
+
+Gabo olhou o rosto no tanque. A pálpebra se contraiu. No gráfico havia atividade variando junto da voz.
 
 — Pai?
 
-— **Eu não quero morrer de novo, Gabriel** — a voz choramingou. — **Aqui... eu ainda existo. Eu vejo seus passos, eu ouço suas vitórias. Eu tenho orgulho de você. Se você desligar... será o nada. O silêncio. Por favor, filho. Tenha piedade.**
+Valéria virou a tela para tentar acompanhar. O monitor e o alto-falante pertenciam ao mesmo sistema; uma curva ao lado da fala não autenticava quem a produzia.
 
-Elena olhou para Gabo, o rosto contorcido em agonia. — Gabo, não escuta! É a máquina!
+— Pode ser ele. Não consigo garantir — disse ela.
 
-— Não é! — gritou Gabo, lágrimas escorrendo pelo seu rosto. — Sou eu, pai. Sou eu.
+— Eu não quero morrer de novo, Gabriel. Aqui eu vejo seus passos. Tenho orgulho de você. Se desligar, fica o silêncio.
 
-Ele olhou para o rosto do pai no tanque. E pela primeira vez, viu uma contração de dor. Uma expressão de súplica. A máquina estava usando a consciência de Dante, forçando-o a implorar pela própria vida.
+Elena ficou com a mão sobre o fecho aberto. Não disse que era só uma máquina. Também não disse que o paciente estava pedindo de forma livre por aquele canal.
 
-— **Eu te amo, meu filho. Não me mate** — a voz de Dante era um sussurro que cortava mais fundo que qualquer bala.
+Gabo se lembrou das mãos do pai fechando o coldre, do relógio batendo no botão do sobretudo quando ele se inclinava para falar baixo. O homem que lhe ensinara hapkido aos dez anos sabia esperar que uma criança errasse o movimento sem rir dela.
 
-Gabo fechou os olhos, o coração se partindo em mil pedaços. Ele se lembrou do que seu pai verdadeiro lhe ensinou: "Às vezes, o ato de maior amor é o de maior crueldade."
+O rosto diante dele podia não conseguir esperar mais nada. Ou podia estar ouvindo o filho decidir o que fazer com a única vida que lhe restara. Gabo não encontraria uma resposta limpa a tempo de salvá-los.
 
-Ele se lembrou das mãos. Não do conselho, não da última conversa: das mãos do pai fechando o coldre com dois dedos, do jeito que só ele fazia, e do barulho do relógio de bolso batendo no botão do sobretudo quando ele se inclinava para falar baixo com alguém. O homem que ensinara hapkido a um menino de dez anos tinha mãos de quebrar porta e uma paciência de professor.
+Do outro lado do tanque, Valéria perdeu o apoio e gemeu. A descarga seguinte atingiu a borda da base do console. Elena puxou o corpo dela para o recuo, comprimindo o tecido sobre o ombro com a mão livre.
 
-— Eu também te amo, pai — sussurrou Gabo. — É por isso que eu tenho que fazer isso.
+— Eu te amo, meu filho. Não me mate.
 
-O painel tinha três interruptores sob uma travessa de acrílico e etiquetas impressas em letra de engenheiro, sem emoção nenhuma: PERFUSÃO. OXIGENAÇÃO. ESTÍMULO NEURAL. Abaixo de cada um, um selo de garantia com a data de instalação e uma etiqueta menor, escrita à mão por alguém: NÃO DESLIGAR SEM AUTORIZAÇÃO DO COMITÊ.
+Gabo manteve a palma sobre o painel, sem conseguir fechá-la. Quis que o pai reconhecesse a mão, que desse um sinal que nenhum arquivo pudesse fornecer. Só encontrou os mesmos dedos largos, quietos sob a luz.
 
-Com um grito que rasgou sua própria alma, ele bateu a mão no painel, desligando um por um os suportes.
+— Eu estou aqui — respondeu.
 
-*FLUXO SANGUÍNEO: OFFLINE.*
-*OXIGENAÇÃO: OFFLINE.*
-*ESTIMULAÇÃO NEURAL: OFFLINE.*
+— Então me deixa ficar.
 
-A voz de Dante se transformou em um grito eletrônico de agonia, que diminuiu até virar um gemido e, por fim, silêncio. O cérebro no tanque parou de pulsar. Sua luz se apagou.
+Ele olhou para as duas mulheres atrás do console. Não tinha munição, equipe clínica, suporte de transporte ou uma autorização que impedisse a próxima descarga. Tinha chegado ali procurando o pai e agora escolhia diante dele. Não era a mesma coisa que receber permissão para escolher.
 
-O silêncio que veio depois não era vazio: tinha textura, como pano molhado. O fluido continuou circulando por mais alguns segundos, por inércia, e depois parou também, e o único som na sala era o da respiração de três pessoas que não conseguiam respirar direito.
+— Eu também te amo — disse, sem acrescentar que aquilo tornava o que faria correto.
 
-As torres de defesa congelaram. As luzes da sala piscaram e morreram, substituídas por um vermelho de emergência. O zumbido dos servidores desceu para um silêncio mortal.
+A mão esquerda deslizou pelos comandos de interrupção. Gabo precisou usar a base da palma; dois dedos continuavam sem responder. O sistema pediu confirmação e repetiu o risco para o paciente.
 
-Valéria arrancou o cabo do console com a mão boa, e o console morreu no meio de uma frase. Ela ficou olhando a tela apagada como se tivesse perdido uma testemunha.
+Ele confirmou.
 
-O corpo de Dante Moretti afundou lentamente no fluido escuro, não mais um rei, apenas um cadáver.
+A voz se rompeu num grito. Os indicadores caíram em tempos diferentes. Gabo ficou olhando cada um, incapaz de transformar a demora numa oportunidade de desfazer o que acabara de fazer.
 
-O tanque soltou uma última bolha grande, que subiu devagar e estourou na superfície, e o cheiro que saiu dali era de formol e de ferro — o cheiro que Gabo ia carregar no sobretudo por mais três dias.
+A defesa restante travou. O motor do rack perdeu o zumbido contínuo e passou a intervalos até parar. A alimentação principal da sala caiu; uma faixa vermelha de emergência acendeu sobre a porta. Outros setores não apareciam naquela tela.
 
-Gabo caiu de joelhos, o som de seu próprio soluço ecoando na quietude. Ele não apenas derrotou o vilão. Ele matou o próprio pai. Com as próprias mãos.
+Valéria retirou o cabo e guardou o deck com o módulo de Aria. Elena manteve a pressão no ombro dela. O adaptador deixou de receber energia do console; os dois aparelhos continuavam fisicamente com o grupo.
 
-Ninguém foi até ele. Não por frieza: Valéria estava com as duas mãos ocupadas em manter o ombro fechado, e Elena tinha aprendido, em dois anos de casada e três de guerra, que havia dores em que tocar atrapalhava. Ela ficou de pé a dois passos, com a pistola baixa, montando guarda como se alguém ainda pudesse entrar naquela sala.
+No tanque, a cabeça de Dante cedeu sobre o apoio. Os tubos seguraram o corpo. Não afundou nem desapareceu; continuou diante de Gabo, com o bigode aparado e a mão onde ninguém mais lhe pediria que a colocasse.
 
-Lá fora, as luzes de Baía Cinzenta piscaram uma última vez e se apagaram. O que era da Aeterna morreu primeiro: as torres, os anúncios, os trens parados no trilho.
+Gabo se sentou no piso. Fora do vidro, não havia exame que pudesse fazer, nem como substituir o circuito interrompido. A voz cessara. A curva que ele procurava não voltava.
 
-O último letreiro a apagar foi o do Palácio de Jade, que ninguém desligou naquela noite — o cassino tinha gerador próprio, e o gerador durou mais três minutos.
+Elena chamou seu nome. Ele não a ouviu na primeira vez.
 
-O Blackout tinha começado.
+A etiqueta junto da mão dele continuava dizendo **SUPORTE À VIDA**.
 
-Gabo se levantou, vazio por dentro. A mão direita dele estava cortada de vidro temperado, e ele olhou o corte com o interesse morno de quem já fez as contas e sabe que aquilo não vai matar ninguém hoje. Ele olhou para a janela, para os quarteirões que já tinham apagado.
-
-— E agora? — perguntou Elena, a voz suave na escuridão.
-
-— Agora... — disse Gabo, a voz quebrada, mas com um fio de aço por baixo. — Agora nós o honramos. Vivendo. De verdade.
-
-Ele se virou para as duas. Sua nova família, forjada no fogo e na perda.
-
-— Vamos sair deste prédio — disse ele. — Vivos, se der.
+Gabo encostou no vidro os três dedos que ainda respondiam.

@@ -13,11 +13,11 @@ No fundo da câmara, avultava a monumental abóbada do Portão do Hub Principal 
 
 Era uma estrutura maciça de chumbo e titânio, projetada pelos arquitetos da Aeterna Corp para isolar as centrais de processamento executivo contra bombardeios ou levantes populares armados antes da queda da cidade. A blindagem de quatrocentos milímetros exibia cicatrizes rasas de corrosão e arranhões de garras antigas, mas permanecia intacta. O problema não era a couraça; era o mecanismo de abertura.
 
-Um mezanino de vigas de carga desabara sobre o console principal anos atrás, esmagando os leitores biométricos e os teclados em uma massa disforme de vidro quebrado e plástico derretido.
+Um mezanino de vigas de carga desabara sobre o console principal durante o colapso, esmagando os leitores biométricos e os teclados em uma massa disforme de vidro quebrado e plástico derretido.
 
 — Terminal de acesso eletrônico totalmente aniquilado, — disse Valéria, iluminando a ruína com a lanterna do cyberdeck. Os reflexos azuis da franja desenhavam contornos afiados em suas bochechas pálidas, manchadas de fuligem. — Os relés primários estão mortos e o cabo mestre foi decepado pela viga. Não tem porta de entrada pra hackear por aqui, detetive.
 
-— Tem que haver um bypass mecânico de segurança, — respondi, apoiando a *Caronte* na parede e soltando o ar pesado. O ombro direito latejava sem trégua onde Vasco parafusara a armação para alinhar os ossos fraturados; meus músculos continuavam sangrando sob a bandagem encharcada, mas o frio polar anestesiava a periferia do ferimento. — Protocolo padrão de mineração e bunkers exige válvula de alívio manual em caso de pane geral na rede.
+— Tem que haver um bypass mecânico de segurança, — respondi, apoiando a *Caronte* na parede e soltando o ar pesado. O ombro direito latejava sem trégua onde Vasco parafusara a armação para alinhar os ossos fraturados; meus músculos continuavam sangrando sob a bandagem encharcada, mas o frio polar anestesiava a periferia do ferimento. — Vi válvulas de alívio nos outros setores deste complexo. Procurem a mesma marca no batente.
 
 Elias apontou o feixe de sua lanterna para o canto inferior direito do portal.
 
@@ -37,7 +37,7 @@ O garoto correu entre os escombros, localizou a barra de aço com quase dois met
 
 — Justo, — concordei, posicionando meus pés no chão de concreto.
 
-Firmei a mão de carne na ponta da barra de ferro, enquanto os garras de ferro da armação de sucata se fechavam ao redor do aço maciço com a força inexorável do atuador hidráulico. Elias se posicionou ao meu lado, agarrando a alavanca com as duas mãos e fincando as solas dos coturnos na soleira de ferro.
+Firmei a mão de carne na ponta da barra de ferro, enquanto as garras de ferro da armação de sucata se fechavam ao redor do aço maciço com a força inexorável do atuador hidráulico. Elias se posicionou ao meu lado, agarrando a alavanca com as duas mãos e fincando as solas dos coturnos na soleira de ferro.
 
 — No três, — comandei. — Um... dois... força!
 
@@ -57,9 +57,9 @@ Um som grave, subterrâneo e contínuo de contrapesos de chumbo deslizando por g
 
 As gigantescas folhas blindadas do Portão do Hub Principal soltaram um suspiro sibilante de descompressão pneumática e começaram a se afastar lentamente para dentro das paredes de concreto, centímetro por centímetro.
 
-Do interior da abertura, não veio o bafo pútrido do Jardim nem o arpolar de amônia que nos torturava há horas.
+Do interior da abertura, não veio o bafo pútrido do Jardim nem o ar polar de amônia que nos torturava há horas.
 
-Veio uma corrente de ar tépido, filtrado, seco e com o cheiro esquecido de ozônio limpo, carpete estático e estações de trabalho de silício seladas no auge do poder corporativo. Era o ar que Baía Cinzenta respirava décadas atrás, antes que o Dilúvio afundasse as fundações e a Torre Aeterna se transformasse em escombros.
+Veio uma corrente de ar tépido, filtrado, seco e com o cheiro esquecido de ozônio limpo, carpete estático e estações de trabalho de silício seladas no auge do poder corporativo. O sistema ainda renovava o ar. O Dilúvio e a queda da Torre tinham destruído bairros inteiros neste ano; alguém pagara para que aquele corredor continuasse respirando.
 
 Soltamos a barra de ferro, que caiu no piso de concreto com um tinido estridente de alívio. Caí de joelhos, ofegante, com o peito subindo e descendo em espasmos pesados enquanto a fumaça tênue da sobrecarga subia dos atuadores do meu ombro postiço.
 
