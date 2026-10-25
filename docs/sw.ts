@@ -70,14 +70,19 @@ async function handleFetchFallback(request: Request): Promise<Response> {
   return handleNavigationFallback(request);
 }
 
+// Only same-origin 2xx responses: caching 404/500 or cross-origin bodies poisons the offline fallback
+function isCacheable(request: Request, response: Response): boolean {
+  return response.ok && response.type === 'basic' && new URL(request.url).origin === sw.location.origin;
+}
+
 async function handleFetchEvent(request: Request): Promise<Response> {
   try {
     const response = await fetch(request);
 
-    // Background cache put to not block response
-    const responseToCache = response.clone();
-    // Do not await updateCache, let it run in background to parallelize
-    updateCache(request, responseToCache);
+    if (isCacheable(request, response)) {
+      // Do not await updateCache, let it run in background to parallelize
+      updateCache(request, response.clone());
+    }
 
     return response;
   } catch {

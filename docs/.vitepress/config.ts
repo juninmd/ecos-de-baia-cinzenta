@@ -39,6 +39,10 @@ export default withMermaid(defineConfig({
   rewrites: {
     "public/:page.md": ":page.md"
   },
+  // 416 ilustrações de capítulo pesam centenas de KB: carregar só o que entra na tela
+  markdown: {
+    image: { lazyLoading: true }
+  },
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },

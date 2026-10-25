@@ -360,11 +360,11 @@ const pause = () => {
           <span v-else>▶ Ouvir</span>
         </button>
 
-        <button @click="pause" :disabled="!isPlaying || isPaused" class="btn" title="Pausar">
+        <button @click="pause" :disabled="!isPlaying || isPaused" class="btn" title="Pausar" aria-label="Pausar">
           ⏸
         </button>
 
-        <button @click="stop" :disabled="!isPlaying && !isPaused" class="btn" title="Parar">
+        <button @click="stop" :disabled="!isPlaying && !isPaused" class="btn" title="Parar" aria-label="Parar">
           ⏹
         </button>
       </div>

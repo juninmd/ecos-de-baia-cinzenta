@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "node --test scripts/check_dependency_metadata.test.mjs && node scripts/check_dependency_metadata.mjs && node scripts/npm_test.mjs",
+    "test:sw": "npm run build:sw && node tests/sw_cache.mjs",
     "build:sw": "tsc -p docs/tsconfig.sw.json",
     "docs:dev": "npm run build:sw && vitepress dev docs",
     "docs:build": "npm run build:sw && vitepress build docs",
