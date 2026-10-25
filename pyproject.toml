@@ -42,7 +42,7 @@ testpaths = ["tests"]
 [tool.uv]
 # Transitivas com CVE: o piso fica na correção, o teto evita salto de major
 constraint-dependencies = [
-    "cryptography>=46.0.7,<47",
+    "cryptography>=50.0.0,<51",
     "urllib3>=2.8.0,<3",
     "requests>=2.33.0,<3",
     "anyio>=4.14.2,<5",
