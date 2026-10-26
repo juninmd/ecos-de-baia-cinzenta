@@ -75,24 +75,24 @@ Este projeto utiliza Node.js e VitePress.
 
 ### Pré-requisitos
 *   Node.js (versão 18 ou superior)
-*   npm
+*   pnpm (o projeto usa `pnpm-lock.yaml`; ative com `corepack enable`)
 
 ### Instalação
 
 1.  Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/ecos-baia-cinzenta.git
-    cd ecos-baia-cinzenta
+    git clone https://github.com/juninmd/ecos-de-baia-cinzenta.git
+    cd ecos-de-baia-cinzenta
     ```
 
 2.  Instale as dependências:
     ```bash
-    npm install
+    pnpm install
     ```
 
 3.  Inicie o servidor de desenvolvimento:
     ```bash
-    npm run docs:dev
+    pnpm docs:dev
     ```
     O site estará acessível em `http://localhost:5173`.
 
@@ -101,7 +101,7 @@ Este projeto utiliza Node.js e VitePress.
 Para gerar os arquivos estáticos para deploy:
 
 ```bash
-npm run docs:build
+pnpm docs:build
 ```
 Os arquivos serão gerados na pasta `docs/.vitepress/dist`.
 
