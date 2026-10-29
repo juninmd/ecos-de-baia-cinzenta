@@ -10,7 +10,7 @@ Localização: "Subsolo do Distrito da Névoa"
 # Capítulo 59: A Fundação
 
 Subsolo do Distrito da Névoa.
-A dica da Isadora tinha levado Gabo para baixo — não para o esgoto, que é raso e tem tampa a cada cinquenta metros, mas para as galerias de manutenção do metrô antigo, escavadas nos anos setenta e desativadas nos noventa, que não aparecem em mapa nenhum porque foram construídas por uma empreiteira que faliu antes de entregar o *as built*. No bolso tático do colete, conectado por cabo blindado ao seu comunicador e ao visor do capacete, o pendrive de titânio da Aria pulsava em azul baixo.
+A dica da Isadora tinha levado Gabo para baixo — às galerias de manutenção do metrô antigo, desativadas e ausentes da planta que consultaram. Val trocara a bateria das órteses e adaptara um apoio com rodas para a entrada; não pudera garantir quanto tempo os servos suportariam a água. No bolso do colete, conectado por cabo ao comunicador e ao visor, o módulo da Aria pulsava em azul baixo.
 
 O ar lá embaixo era quente. Essa foi a primeira coisa errada.
 
@@ -44,7 +44,7 @@ Era bomba d'água. Bomba grande.
 
 ---
 
-Ele avançou mais duzentos metros e a galeria terminou numa grade de ventilação de dois metros por três, chumbada no concreto, com o ar quente saindo por ela em rajadas.
+Ele avançou mais duzentos metros com o apoio de rodas, parando duas vezes para aliviar a coluna. A galeria terminou numa grade de ventilação de dois metros por três, chumbada no concreto, com o ar quente saindo por ela em rajadas.
 
 Gabo encostou o rosto na grade. Do outro lado havia um fosso.
 
@@ -56,15 +56,15 @@ E, correndo entre as torres, cano.
 
 Cano de meio metro de diâmetro, de aço, entrando pelo teto e descendo, com juntas gotejando, com a superfície coberta de condensação. Gabo seguiu o traçado com a lanterna até a origem e a origem era um coletor do tamanho de um vagão, e do coletor saía um duto que ia na direção da baía.
 
-Ele levou uns quinze segundos para juntar as duas coisas. A água da enchente. Não estava ali por acidente. Não estava alagando aquele complexo: estava **sendo bombeada para dentro dele**, filtrada grosseiramente e usada para trocar calor.
+Ele seguiu a direção do duto e viu o bombeamento e a troca de calor. Podia ser água da enchente ou da baía; a tubulação, dali, não mostrava a captação.
 
-Os supercomputadores mais quentes da costa estavam sendo refrigerados com a mesma água que tinha entrado nas casas do Distrito Baixo. Cada litro que passou por cima de uma cozinha, de uma cama, de um berço, estava agora circulando ali dentro, esfriando processador.
+O complexo estava sendo refrigerado com água bombeada. Se vinha dos bairros alagados, a cidade estava pagando duas vezes: pelas casas inundadas e pelo processamento mantido ali.
 
 — Meu Deus — disse Gabo. — Eles não estão construindo casa.
 
 Ele encostou a testa na grade quente.
 
-— É uma fazenda. Eles construíram uma fazenda de dados e afogaram quatro mil pessoas para conseguir o resfriamento de graça.
+— É uma fazenda de dados. Quero saber de onde vem essa água e quem pagou para instalar tudo isso.
 
 ---
 
@@ -96,7 +96,7 @@ Ele baixou a câmera. Levantou de novo. Leu outra fileira.
 
 Três Rodrigues seguidos, na mesma prateleira. Três registros Rodrigues na mesma sequência. Podiam ser uma família; o sobrenome e a posição, sozinhos, não bastavam para confirmar.
 
-Gabo se afastou da grade e sentou no chão molhado, encostado na parede, com a náusea subindo por dentro da garganta. Ele tinha passado quarenta e sete dias construindo uma teoria e a teoria era, ele agora percebia, otimista demais.
+Gabo se afastou da grade e sentou no apoio, encostado na parede, com a náusea subindo por dentro da garganta. Passara semanas construindo uma teoria, e os nomes exigiam uma investigação que ela ainda não explicava.
 
 Ele achava que o Consórcio Lázaro tinha esvaziado a Zona Leste para construir imóvel. Achava que os mortos eram um custo — feio, criminoso, mas custo. Uma externalidade, como as empresas gostam de dizer. Não eram custo. Eram **estoque**.
 
@@ -108,15 +108,15 @@ Mas quem compra imortalidade é gente que tem dinheiro, e gente que tem dinheiro
 
 E precisa de outra coisa que ninguém fala em prospecto: precisa de material de treino. Um modelo de consciência não roda no vazio. Ele precisa de milhões de padrões humanos — memória, reação, hábito, jeito de reagir a susto, jeito de sentir falta de alguém.
 
-Não dá para comprar isso. Mas dá para pegar de uma população inteira que morreu afogada, com os implantes de saúde ainda ativos, num evento classificado como *perda não programada, ambiental*.
+Podiam ter obtido dados de moradores mortos ou desaparecidos. O acesso de diagnóstico e as etiquetas não mostravam como cada registro chegara ali.
 
-— Eles não afogaram a cidade para tirar as pessoas do terreno — Gabo disse para o comunicador, com a voz muito baixa. — Eles afogaram a cidade porque precisavam das pessoas.
+— Se tiraram essas pessoas das casas para pôr aqui, precisamos mostrar como — disse Gabo ao comunicador, com a voz muito baixa.
 
 No visor, a telemetria da Aria não parava de correr.
 
-O pequeno pendrive de titânio continuava encostado na grade, fervendo de tão quente, e Gabo entendeu, com um horror atrasado de quarenta e sete dias, exatamente o que o algoritmo dela estava varrendo nos diretórios do fosso.
+O pequeno módulo de titânio continuava ligado à porta de diagnóstico, quente entre seus dedos. Gabo olhou a consulta que Aria abrira no visor.
 
-Gabo viu a consulta de origem aberta no visor. Aria não estava apenas mapeando as torres. Estava cruzando a própria assinatura de código com as prateleiras para descobrir de quais mortos os fragmentos da sua base neural tinham sido extraídos.
+Aria cruzava a própria assinatura com os identificadores que conseguia ler. A consulta podia apontar semelhanças; ainda não demonstrava de quem vinha seu código.
 
 ---
 
@@ -142,7 +142,7 @@ Armadura tática, visão noturna erguida na testa, arma de cano curto na posiç�
 
 — Inspetor Moretti. — A voz saiu por modulador, sem grave nenhum. — O senhor está invadindo propriedade privada corporativa. A cláusula de rescisão do seu contrato de vida foi ativada às vinte e três e quarenta de hoje.
 
-Gabo fechou a mão esquerda sobre o bolso blindado onde o pendrive da Aria pulsava — um gesto instintivo para proteger o módulo com o próprio tórax. Sacou a Glock.
+Gabo fechou a mão esquerda sobre o bolso blindado onde o módulo da Aria pulsava. Deixou o apoio junto à parede para ter a mão livre e sacou a Glock.
 
 — Eu não assinei nada — ele disse.
 

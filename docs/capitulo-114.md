@@ -1,6 +1,6 @@
 ---
 image: /cenas/cidade.jpg
-Personagens Presentes: Valéria "Val" Cruz, Gabriel "Gabo" Moretti
+Personagens Presentes: Valéria "Val" Cruz, Gabriel "Gabo" Moretti, Aria
 Participação por comunicador: Inspetor Rangel
 Identidade em registro de sistema: Dante Moretti
 Localização: "Usina Geotérmica Prometeu — Setor de Triagem → Hangar da Fornalha"
@@ -22,7 +22,7 @@ O caminhão parou com um *hiss* pneumático que soou como um animal morrendo. O 
 
 — Dez segundos?! — Valéria gritou, tentando se levantar sobre a pilha instável de sacos pretos.
 
-— Saída de emergência! — Gabo ordenou, apontando para a escotilha lateral que Valéria havia encontrado antes. Mas antes que pudessem se mover, o mundo inclinou.
+— Saída de emergência! — Gabo ordenou, apontando para a escotilha lateral que Valéria havia encontrado antes. Mas antes que pudessem alcançá-la, o mundo inclinou.
 
 A caçamba do caminhão se ergueu num ângulo de quarenta e cinco graus. A gravidade assumiu o comando. Gabo deslizou, suas botas raspando inutilmente no metal oleoso, enquanto dezenas de corpos ensacados rolavam sobre ele como uma avalanche macabra.
 
@@ -38,7 +38,7 @@ Eles estavam em uma rampa de metal polido, cercados por centenas de sacos pretos
 
 Valéria já estava em movimento. Ela saltou levemente sobre os sacos móveis, alcançando uma passarela de manutenção lateral. Val prendeu a mão direita na escada lateral e subiu. Ajudou Gabo a alcançar o primeiro apoio; ele se arrastou atrás dela, os dedos escorregando no metal úmido.
 
-Dois segundos depois, um braço mecânico gigante desceu do teto, empurrando o lote de "biomasssa" — onde eles estavam segundos antes — para dentro de um triturador industrial. O som de ossos e material orgânico sendo processados foi um rugido baixo e úmido que fez Valéria vomitar no chão gradeado.
+Dois segundos depois, um braço mecânico gigante desceu do teto, empurrando o lote de "biomassa" — onde eles estavam segundos antes — para dentro de um triturador industrial. O som de ossos e material orgânico sendo processados foi um rugido baixo e úmido que fez Valéria vomitar no chão gradeado.
 
 Gabo ficou deitado por três segundos, o tempo exato que o corpo leva para decidir se ainda obedece. Havia algo pontudo entrando na panturrilha e algo mole debaixo das costas. Ele não quis saber o que era o mole.
 
@@ -87,7 +87,7 @@ Gabo não esperou. Ele disparou. O som do tiro de calibre 12 foi ensurdecedor no
 
 — Isso vai atrair atenção — disse Valéria, já conectando seu deck a um terminal na parede. — Estou tentando acessar o mapa da instalação. O núcleo de resfriamento deve estar no nível inferior.
 
-— Temos que chegar lá antes que ele acorde — Gabo recarregou a arma com um movimento seco. — A Aria registrou a queda dos enlaces de comando há vinte minutos. Se a rotina antiga continuar válida, temos menos da metade da janela.
+— Temos que chegar lá enquanto houver chance de pegá-lo vulnerável — Gabo recarregou a arma com um movimento seco. — A queda dos enlaces pode ser o ciclo que Kiko descreveu, ou outra coisa. Não sabemos quanto tempo temos.
 
 Valéria olhou para o corredor escuro à frente.
 
@@ -101,7 +101,7 @@ Gabo sentiu um calafrio que nada tinha a ver com o sistema de refrigeração.
 
 — Krell?
 
-— Não — Valéria virou-se, os olhos brilhando na penumbra. — O código tem a assinatura do Taxidermista.
+— Não — Valéria virou-se, os olhos brilhando na penumbra. — O painel identifica o sistema pelo mesmo nome que ele usava na Torre do Relógio. Não prova que esteja aqui; pode ser código antigo.
 
 Gabo apertou o cabo da *Caronte* até os nós dos dedos ficarem brancos. É claro. Onde havia corpos sendo processados, o velho monstro estaria perto.
 

@@ -15,17 +15,17 @@ O silêncio após a voz metálica do Taxidermista era pesado, quebrado pelo gote
 
 Ele não se importava. A dor era um farol na névoa. Era sólida, real, irrefutável. Ela queimava a memória do cheiro de fumaça barata, banindo o piche fantasma de seus pulmões. Ele estava ali. No agora. Vivo por pouco, mutilado, mas no controle.
 
-— Val... — a voz de Gabo raspava como lixa grossa. Ele não conseguia usar as mãos para se erguer, então girou os ombros, usando a lateral dos antebraços para empurrar seu corpo do chão. O exoesqueleto rangeu, protestando contra o movimento não natural. — O trem. O disjuntor.
+— Val... — a voz de Gabo raspava como lixa grossa. Ele não conseguia usar as mãos para se erguer, então apoiou o lado esquerdo e manteve o braço direito preso à tala. O exoesqueleto rangeu, protestando contra o movimento não natural. — O trem. O disjuntor.
 
-Valéria estava enrolada sobre si mesma a poucos metros, os braços abraçando os joelhos. o medo de que o curativo não bastasse a mantinha paralisada. As lágrimas ainda riscavam a sujeira em seu rosto pálido. O som de Gabo se levantando pareceu despertá-la de um transe sombrio.
+Valéria estava enrolada sobre si mesma a poucos metros, os braços abraçando os joelhos. O medo de que o curativo não bastasse a mantinha paralisada. As lágrimas ainda riscavam a sujeira em seu rosto pálido. O som de Gabo se levantando pareceu despertá-la de um transe sombrio.
 
 — Eu não... Gabo, eu achei que... — ela gaguejou, o olho cibernético piscando instável, tentando processar a realidade brutal do momento.
 
 — Você salvou a minha vida, garota, — Gabo cortou, duro, embora não houvesse raiva, apenas a necessidade pragmática de seguir em frente. — Acabou. A caçada pesada dele lá embaixo acabou, mas o túnel está esperando. Não podemos ficar parados aqui.
 
-Ela não respondeu. Rasgou tiras do próprio casaco e enfaixou o que sobrara das mãos dele, uma volta por vez, sem olhar para o que cobria.
+Ela não respondeu. Conferiu as faixas colocadas na estação e reforçou a tala antes de ajudá-lo a mover a prancha.
 
-Valéria levantou-se trêmula, empurrou a pesada porta deslizante do vagão de manutenção e entrou na cabine dianteira com Gabo logo atrás. O veículo era uma caixa de metal bruto, sem as linhas elegantes dos antigos trens de passageiros da época anterior ao Dilúvio. Era projetado para força bruta e carga. No console frontal, o painel de controle estava coberto de oxidação.
+Valéria abriu a porta deslizante do vagão e ajudou Gabo a transferir-se da prancha para o banco de carga. Prendeu a prancha ao suporte para levá-la consigo. O veículo era uma caixa de metal bruto, sem as linhas elegantes dos antigos trens de passageiros da época anterior ao Dilúvio. Era projetado para força bruta e carga. No console frontal, o painel de controle estava coberto de oxidação.
 
 — *O painel principal está em estado de oxidação avançada,* — relatou Aria pelo alto-falante do deck de Valéria, a voz modulada e impessoal ecoando na cabine silenciosa enquanto o scanner lia os circuitos. — *O quadro tem sinais de curto. Val precisa isolar a saída de potência antes de me ligar ao controle. Precisarei de uma interface física direta no barramento de diagnóstico do console.*
 
@@ -41,7 +41,7 @@ Valéria ainda evitava olhar diretamente para as mãos enfaixadas de Gabo, mas f
 
 — *Risco elevado,* — Aria respondeu pelo comunicador. — *A pé, a subida levaria muito mais tempo; não consigo estimar quanto vocês suportariam sem atendimento.*
 
-Valéria não esperou segunda ordem. Ela desacoplou o pendrive blindado de Aria de seu cyberdeck *Phantom V3*, limpou a crosta de ferrugem do slot de diagnóstico no painel oxidado do vagão e espetou o componente de titânio até o fundo com um clique seco e metálico. Em seguida, conferiu a separação dos circuitos no adaptador da cabine antes de fechar o contator de teste.
+Valéria limpou o slot de diagnóstico e confirmou a separação entre alimentação e dados no adaptador da cabine. Só então desacoplou Aria do deck e conectou o drive ao adaptador, antes de fechar o contator de teste.
 
 Um chiado elétrico violento preencheu a cabine. O LED azul-gelo do pendrive cravado no painel brilhou com intensidade quase branca, aquecendo instantaneamente enquanto a IA assumia os barramentos do veículo. Um cheiro forte de ozônio e poeira torrada subiu do console.
 
@@ -55,7 +55,7 @@ Valéria correu até a entrada e travou a porta de aço deslizante atrás deles 
 
 No console frontal, o pendrive de Aria pulsava em azul intenso. Sem aviso suave, o monorail estremeceu nos trilhos e arrancou para a frente.
 
-O tranco atirou Valéria contra a parede enferrujada e fez Gabo cair sentado no assoalho corrugado com um grunhido, incapaz de amortecer o impacto sem o uso das mãos. O trem balançou violentamente à medida que os trilhos verticais acomodavam a subida maciça pelo abismo escuro do túnel.
+O tranco atirou Valéria contra a parede enferrujada. Gabo bateu o ombro esquerdo no encosto; a cinta segurou seu corpo no banco, mas o braço direito doeu dentro da tala. O trem balançou violentamente à medida que os trilhos verticais acomodavam a subida maciça pelo abismo escuro do túnel.
 
 O barulho era ensurdecedor, o raspar de metal contra metal engolindo qualquer som baixo. A luz fraca e amarelada projetava sombras longas e fantasmagóricas no pequeno espaço de carga.
 

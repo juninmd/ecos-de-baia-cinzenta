@@ -11,7 +11,7 @@ O eco metálico do ventilador industrial travado morria lentamente no duto às c
 
 Aquele cheiro. O legista pigarreando anos atrás, a brasa do cigarro iluminando o necrotério enquanto dissecava Bia. Gabo odiava a fumaça com cada fibra do seu ser. O tabaco era o cheiro da morte, da corrupção, de memórias que ele não conseguia apagar. Para afastar a náusea paralisante, ele forçou as palmas das mãos em carne viva contra as arestas cortantes da grelha congelada. A dor aguda não varreu a névoa desta vez. Gabo precisou contar as luzes de emergência até conseguir distinguir o alerta real do cheiro lembrado.
 
-— *A integridade estrutural da passagem foi comprometida. O Taxidermista recalibrou os sensores térmicos do setor,* — a voz sintética de Aria cortou o silêncio pelo comunicador na gola de Gabo.
+— *A passagem foi danificada. O painel registra alteração recente nos sensores térmicos,* — a voz sintética de Aria cortou o silêncio pelo comunicador na gola de Gabo.
 
 Valéria caiu do duto logo atrás dele, um monte trêmulo de roupas encharcadas e carne congelada. No pulso dela, o pendrive blindado de Aria brilhava com seu LED azul-gelo intacto e desprovido de qualquer emoção. Os lábios da hacker estavam perigosamente azuis, e o bater de seus dentes soava como pequenos estalos de vidro quebrando.
 
@@ -25,7 +25,7 @@ Gabo cambaleou até Valéria e tentou esfregar os braços dela, mas suas própri
 
 — Calada, máquina, — Gabo rosnou, o ardor em sua garganta competindo com a dor nas mãos. Ele olhou para o ambiente ao redor, os instintos de detetive trabalhando em sobremarcha apesar da falta de sangue no cérebro. Se aquilo era uma eclusa térmica, deveria haver um regulador de fluxo.
 
-— *Minha designação atual preza pela eficiência da missão, Detetive,* — Aria rebateu pelo comunicador. — *A insistência em carregar biologia falha já nos custou tempo no Setor de Purga com o Inspetor Rangel. Transfira meu drive para o seu comunicador se Val não conseguir mais segurar o deck. Depois procure o comando de aquecimento do piso; não abra vapor sobre o corpo dela.*
+— *Minha designação atual preza pela eficiência da missão, Detetive,* — Aria rebateu pelo comunicador. — *Val precisa sair da corrente de ar. Transfira meu drive para o seu comunicador se Val não conseguir mais segurar o deck. Depois procure o comando de aquecimento do piso; não abra vapor sobre o corpo dela.*
 
 Gabo parou. A raiva era um combustível sujo, mas quente. Ele cravou os olhos no LED azul-gelo do pendrive espetado no braço trêmulo de Valéria.
 
@@ -37,7 +37,7 @@ Gabo espetou o pendrive de Aria diretamente na porta de diagnóstico lateral do 
 
 O gelo externo rachou, mas a trava eletromecânica interna não cedeu.
 
-— *A trava solenoide secundária está congelada e a tensão necessária excede sua capacidade muscular atual em oitenta por cento,* — Aria observou pelo comunicador de gola de Gabo.
+— *A trava solenoide secundária não respondeu ao comando,* — Aria observou pelo comunicador de gola de Gabo.
 
 — Então frita a porra do solenoide por dentro, Aria! — Gabo cuspiu, o sangue escorrendo do nariz enquanto ele firmava as botas no chão escorregadio, usando todo o peso de seu corpo em choque e o torque restante do exoesqueleto. A dor rasgava seus nervos desde as pontas dos dedos até os ombros.
 
@@ -57,7 +57,7 @@ Valéria assentiu devagar, tossindo enquanto inalava o vapor espesso. As lágrim
 
 — Eu sei, garota. Eu sei. — Gabo olhou para o pendrive de Aria brilhando no pulso dela. O componente de titânio continuava inalterado pelo frio ou pelo calor, uma sentinela de lógica implacável.
 
-— *O alívio térmico é temporário,* — Aria declarou friamente pelo alto-falante. — *O disparo dos sensores de purga sinalizou nossa localização exata na malha da Aeterna. A detecção de vibrações sísmicas sugere que o Taxidermista enviou unidades de caça pesada. Tempo estimado para contato: três minutos.*
+— *O alívio térmico é temporário,* — Aria declarou friamente pelo alto-falante. — *O painel transmitiu um alerta de purga. Há vibrações se aproximando pelo poço, mas não consigo identificar sua origem nem medir quanto tempo temos.*
 
 Gabo cerrou os dentes, usando a parede para se levantar. A Eclusa de Transferência Térmica não era um refúgio, era apenas mais um estágio no matadouro.
 

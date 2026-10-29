@@ -73,7 +73,7 @@ Gabo acompanhou o feixe da câmera até os trilhos.
 
 O feixe do deck de Valéria apontou para um dos vagões de manutenção parados nos trilhos à beira da plataforma.
 
-— *O veículo de serviço ainda possui carga residual em suas baterias de estado sólido,* — prosseguiu Aria. — *Se você espetar meu drive diretamente na porta de diagnóstico do vagão, poderei reativar o disjuntor primário e utilizar os trilhos para cruzar os setores adjacentes em um terço do tempo estimado a pé.*
+— *O indicador do vagão mostra carga residual. Precisamos testar a bateria e isolar o circuito antes de conectar meu drive ao controle,* — disse Aria.
 
 Valéria guardou o restante do kit. Não tinha curado as mãos nem a fratura; tinha material para manter a cobertura durante o próximo deslocamento. Gabo, tremendo violentamente, rolou para o lado, cuspindo o colarinho ensanguentado. Ele olhou para o braço direito quebrado, os ossos estalando sob a pele repuxada e as mãos cobertas pelo curativo. O ferimento continuava sob a faixa; nenhuma crosta de oficina o tornara suportável. Ele sorriu, um sorriso quebrado, cínico.
 
@@ -85,10 +85,10 @@ E então, a voz.
 
 No pulso de Valéria, o LED de Aria piscou rapidamente, rastreando a origem do sinal pelos cabos dos alto-falantes corroídos no teto.
 
-— *As unidades pesadas eram uma marreta. Uma distração necessária enquanto eu recalibrava a rede deste quadrante,* — continuou o Taxidermista, o som de um suspiro simulado ecoando de forma perturbadora. — *O monorail os levará mais perto da superfície. Mas aviso: a caçada rudimentar terminou. O que os espera acima é a verdadeira curadoria. Venham, Sr. Moretti. O pedestal já está pronto.*
+— *Vocês destruíram minhas unidades. Vou cobrar cada uma,* — continuou o Taxidermista. — *A linha termina no meu setor. Se tomarem o vagão, encontrarei vocês antes da superfície.*
 
 A transmissão foi cortada abruptamente. O único som restante era o gotejar da chuva ácida sobre a ferrugem.
 
-Gabo usou os antebraços e os cotovelos para empurrar seu peso para cima, ficando de joelhos, ofegante. Ele olhou para Valéria e para o pendrive brilhando em seu braço.
+Gabo apoiou o lado esquerdo para se erguer na prancha, mantendo o braço direito imobilizado. Ele olhou para Valéria e para o pendrive brilhando em seu braço.
 
-— Levanta, Val, — Gabo sibilou, a voz como vidro quebrado. — Vamos espetar a Aria... e religar a porra desse trem.
+— Val, verifica a alimentação. Se der para usar o vagão, vamos precisar de freios e de uma saída antes do fim da linha.

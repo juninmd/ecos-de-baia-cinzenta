@@ -2,7 +2,7 @@
 title: "Capítulo 131: Necrópole"
 Data In-Game: "23 de Novembro, 08:30"
 Localização: "Fundações da Velha Baía (Subsolo Profundo)"
-Personagens Presentes: "Gabo Moretti, Valéria Cruz, Aria (Glitch/Bia), Rangel (Inconsciente)."
+Personagens Presentes: "Gabo Moretti, Valéria Cruz, Aria (áudio instável), Rangel (Inconsciente)."
 ---
 
 # Capítulo 131: Necrópole
@@ -104,9 +104,9 @@ Outra pausa, mais longa.
 
 O silêncio que caiu na câmara teve peso. Val levantou a cabeça devagar.
 
-— Gabo. O banco de dados dela está dizendo que a Aeterna começou como uma administradora de cemitério.
+— Gabo. Um dos grupos depois absorvidos pela Aeterna passou por essas escrituras.
 
-— Está dizendo mais que isso. — Ele encostou a mão no nicho vazio. — Está dizendo que a primeira coisa que essa empresa comprou nessa cidade foi um depósito de gente que ninguém ia procurar.
+— E a companhia que administrava este lugar tratava os mortos como propriedade. — Ele encostou a mão no nicho vazio. — Quero ver as escrituras antes de dizer o que a Aeterna herdou.
 
 Ele passou o dedo no fundo do nicho limpo e olhou a ponta do dedo. Sem pó.
 
@@ -126,7 +126,7 @@ Gabo agarrou o comunicador. Queria ordenar que parasse de uma vez, como se uma o
 
 Ele soltou o conector. O visor pequeno continuou recebendo texto; as outras saídas ficaram mudas. Não havia uma morta esperando por ele no cilindro. Havia uma parceira tentando impedir que o arquivo de outra pessoa tomasse sua boca.
 
-E, do chão, atrás dele, o Inspetor Rangel disse uma palavra sem acordar. Disse "Marta", que era o nome da esposa dele, morta aos quarenta e oito, e disse com a entonação de quem responde a uma pergunta. Foi a última coisa que Rangel falou naquela caverna, e Gabo carregou isso por vinte e dois dias sem contar a ninguém.
+E, do chão, atrás dele, o Inspetor Rangel disse uma palavra sem acordar. Disse "Marta", que era o nome da esposa dele, morta aos quarenta e oito, e disse com a entonação de quem responde a uma pergunta. Gabo guardou o nome. Não sabia se Rangel ainda podia ouvi-lo.
 
 ---
 

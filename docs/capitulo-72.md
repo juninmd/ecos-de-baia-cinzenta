@@ -48,7 +48,7 @@ A inclinação medida no núcleo parou em nove décimos de grau. Os nove graus q
 
 ---
 
-Val se levantou, limpando o sangue da testa com as costas da mão.
+Val se levantou, limpando o sangue da testa com as costas da mão. Gabo alcançou a Glock que largara perto do rack e a guardou no coldre com a mão esquerda; a *Caronte* continuava fora de alcance.
 
 — Estamos vivos.
 
@@ -124,11 +124,11 @@ Depois o chão bateu de novo — grave, longo, vindo de leste, atravessando duze
 
 E depois, num monitor lateral, a imagem de satélite: uma coluna de água e vapor subindo do mar como um pilar branco, larga o bastante para ser vista do espaço, que continuou subindo por quase um minuto e não tombou nunca — só ficou lá, e foi se desmanchando de cima para baixo.
 
-— Alvo destruído — confirmou Val, e a voz saiu baixa. — O enlace da Arca N.O.A. caiu. A imagem mostra o impacto e a perda dos terminais de superfície, não o estado do casco a quatro mil metros. O Consórcio perdeu o acesso ao cofre.
+— O impacto atingiu as coordenadas — confirmou Val, e a voz saiu baixa. — O enlace que estávamos acompanhando caiu. A imagem mostra o impacto e a perda dos terminais de superfície, não o estado do casco a quatro mil metros. Não sei se existe outro acesso ao cofre.
 
 Ela olhou para Gabo.
 
-— E você perdeu o seu pai. De novo.
+— E o arquivo do seu pai pode estar perdido.
 
 — Eu sei.
 

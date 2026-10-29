@@ -7,7 +7,7 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 # Capítulo 209: Cristais de Óxido
 
-O frio da câmara de resfriamento cobrava um tributo metódico e implacável a cada respiração. Frio subterrâneo não é apenas desconforto térmico; é um imposto biológico. Ele rouba a sensibilidade das pontas dos dedos, reduz a flexibilidade dos tendões e transforma a cartilagem dos joelhos em vidro quebradiço. Minha perna esquerda tremia em espasmos involuntários, com a órtese emperrada arranhando o piso a cada passo claudicante.
+O frio da câmara de resfriamento cobrava um tributo metódico e implacável a cada respiração. Frio subterrâneo não é apenas desconforto térmico; é um imposto biológico. Ele rouba a sensibilidade das pontas dos dedos, reduz a flexibilidade dos tendões e transforma a cartilagem dos joelhos em vidro quebradiço. Minha perna direita tremia em espasmos involuntários, com a órtese emperrada arranhando o piso a cada passo claudicante.
 
 A dor no ombro direito, onde Vasco parafusara a armação de sucata para conter a fratura, tinha mudado de natureza: ardia em um pulsar surdo e profundo, como se agulhas de gelo estivessem sendo cravadas na minha clavícula. As cicatrizes do Dilúvio queimavam sob a sarja encharcada. Mas a dor física mantinha o foco afiado; afastava o torpor do cansaço crônico e mantinha meus olhos pregados na passarela oxidada.
 
@@ -27,7 +27,7 @@ O piso de aço da passarela desaparecia completamente cinquenta metros adiante. 
 
 Cristais de óxido.
 
-Era a bocarra química da cidade. A reação violenta entre o resíduo biológico do Jardim e as partículas ferrosas da Praga de Ferro consumia o calor ambiente em um processo endotérmico contínuo, fazendo a temperatura despencar enquanto cristalizava o metal e a matéria orgânica em espigões afiados como navalhas cirúrgicas. O teto e o piso pareciam mandíbulas de um predador colossal que ainda não havia terminado de fechar a boca.
+Era a bocarra química da cidade. A formação misturava crostas escuras, gelo e ferrugem em espigões afiados. Nenhum de nós sabia como aquilo crescera. O teto e o piso pareciam mandíbulas de um predador colossal que ainda não havia terminado de fechar a boca.
 
 — Que porcaria é essa? — sussurrei, sentindo o cheiro fétido de gás freon escapar da tubulação e o gosto amargo de ozônio queimar no fundo da língua.
 
@@ -35,7 +35,7 @@ Valéria se agachou com cautela na beirada da formação cristalina, iluminando 
 
 Um estalido fino e cristalino ecoou no silêncio gélido.
 
-— Lâminas moleculares de ferrita cristalizada, — ela explicou, guardando a lâmina e me encarando com uma seriedade límpida. — Frágil ao impacto, mas o fio de corte é mais fino que bisturi a laser. Se você pisar nisso aí, a bota rasga igual papel e os espinhos cravam na carne. A oxidação catalítica entra direto na corrente sanguínea. Não sei o que há aderido nessas pontas, mas não quero descobrir pelo seu sangue.
+— Pontas de material cristalizado, — ela explicou, guardando a lâmina e me encarando com uma seriedade límpida. — Frágil ao impacto, mas o fio de corte é mais fino que bisturi a laser. Se você pisar nisso aí, a bota rasga igual papel e os espinhos cravam na carne. Qualquer sujeira aderida pode entrar na ferida. Não sei o que há aderido nessas pontas, mas não quero descobrir pelo seu sangue.
 
 — E dá pra contornar? — Elias perguntou, o desespero fazendo sua voz falhar.
 
@@ -49,7 +49,7 @@ Valéria olhou para a escada enferrujada coberta por uma fina película de gelo,
 
 — Se aquele cabo arrebentar enquanto eu estiver lá em cima, Moretti, eu caio direto numa cama de faquir de três mil pontas de ferro envenenado.
 
-— A placa diz três toneladas quando era novo, Val. Vamos prender a segunda linha antes de testar com alguém, — afirmei, olhando firme nos olhos prateados dela. — E você não cai. Eu conheço o seu equilíbrio desde que você corria nos telhados do Distrito Central quando a Aeterna botou a polícia atrás de nós.
+— A placa diz três toneladas quando era novo, Val. Vamos prender a segunda linha antes de testar com alguém, — afirmei, olhando firme nos olhos prateados dela. — Testa os apoios antes de subir. Se algum ceder, volta.
 
 Um sorriso fino e desafiador desenhou-se nos lábios pálidos dela. O cinismo deu lugar àquela determinação inabalável que sempre nos salvara da cova.
 

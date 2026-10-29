@@ -58,7 +58,7 @@ Outra pausa.
 "Que pena."
 Elias tinha parado de respirar direito do outro lado da sala. Valéria não se moveu um milímetro. A fita continuou. Vinte minutos. Ela fazia perguntas técnicas — memória de procedimento, hierarquia de decisão, resolução de dilema — e ele respondia todas, uma por uma, com aquela precisão de policial velho que catalogou tanta miséria humana que já não se impressiona com nenhuma. Ela estava mapeando o código moral dele. Testando se aguentava carga.
 
-E ele sabia. Ele sabia exatamente o que ela estava fazendo, e respondia mesmo assim, e em nenhum momento mentiu. Foi aí que eu entendi por que a IA deles funcionou tão bem. Não foi porque roubaram um cérebro bom. Ele respondia sob coerção e ainda procurava interferir no que fariam dele. Responder não era consentir em ser usado. Na marca dos vinte e dois minutos, a voz dela mudou de novo.
+E ele sabia. Ele parecia saber o que ela estava fazendo e respondia mesmo assim. A fita não me deixava conferir tudo o que ele dizia. Foi aí que eu entendi por que a IA deles funcionou tão bem. Não foi porque roubaram um cérebro bom. Ele respondia sob coerção e ainda procurava interferir no que fariam dele. Responder não era consentir em ser usado. Na marca dos vinte e dois minutos, a voz dela mudou de novo.
 
 "Última pergunta, Comissário. Fora do protocolo."
 "Estou ansioso."
@@ -92,7 +92,7 @@ Eu passei a vida inteira convencido de que ele nunca tinha me visto. Que eu era 
 
 O que desabou foi outra coisa: a conveniência de fazer dele um homem de uma peça só. Ele me feriu e pensou em mim antes de ser enterrado vivo. Uma verdade não cancelava a outra. Eu usara a primeira como licença para cobrar dos outros; agora nem esse truque servia.
 
-Éder levantara as mãos e eu atirara. Minha infância não apertou aquele gatilho. Eu apertei. Eu não ganhei nada naquela cadeira de couro. Eu perdi a última desculpa que eu tinha. Meus olhos arderam e eu não fiz absolutamente nada a respeito, porque a mão boa estava ocupada segurando a mesa e a outra é uma garra industrial que Vasco parafusou nos meus nervos, e eu não ia usar o ferro de um açougueiro para enxugar isso.
+Éder levantara as mãos e eu atirara. Minha infância não apertou aquele gatilho. Eu apertei. Eu não ganhei nada naquela cadeira de couro. Eu perdi a última desculpa que eu tinha. Meus olhos arderam e eu não fiz absolutamente nada a respeito, porque a mão boa estava ocupada segurando a mesa e a outra estava presa à armação que Vasco acoplara ao fixador, e eu não ia usar o ferro de um açougueiro para enxugar isso.
 
 — A pasta, — falei, e a voz saiu horrível. — Ele falou pasta em aberto.
 
@@ -114,7 +114,7 @@ Levantei a cabeça devagar.
 
 — Isso significa o quê?
 
-— Significa que a mulher naquele berço guardou de propósito um registro de que Dante foi admitido contra a vontade. Isso não resolve os documentos de 2019 nem todas as escolhas anteriores dele. — Valéria virou o rosto para o corredor branco, na direção da galeria dos berços, e o prateado dos olhos dela cortou o escuro como um farol pequeno e frio. — Ela não estava guardando um ativo. Ela estava guardando um testamento.
+— Significa que a mulher naquele berço guardou de propósito um registro de que Dante foi admitido contra a vontade. Isso não resolve os documentos de 2019 nem todas as escolhas anteriores dele. — Valéria virou o rosto para o corredor branco, na direção da galeria dos berços, e o prateado dos olhos dela cortou o escuro como um farol pequeno e frio. — Ela guardou o registro. Pode ter servido como prova, como instrumento de controle ou como as duas coisas. Precisamos perguntar a ela.
 
 — Por quê?
 

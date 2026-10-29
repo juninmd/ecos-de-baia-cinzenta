@@ -10,7 +10,7 @@ O primeiro sinal do mundo exterior não foi a luz, mas o cheiro.
 
 Depois de horas respirando o ar reciclado, metálico e adocicado de sangue do Berçário, o fedor de ozônio, lixo molhado e maresia de Baía Cinzenta parecia perfume.
 
-Gabo emergiu do bueiro de manutenção, puxando-se com os braços. Suas pernas, presas nas órteses danificadas, eram peso morto. A trava do joelho direito gemia e prendia a cinta a cada movimento, um protesto mecânico contra a violência que havia sofrido nas mãos de Roberto Miranda.
+Gabo emergiu do bueiro de manutenção, puxando-se com os braços. Elena o ajudara na escada depois que a porta presa pelo pé de cabra cedeu atrás deles. As órteses danificadas eram peso morto; a trava do joelho direito prendia a cinta a cada movimento.
 
 Ele rolou para o asfalto úmido, ofegante. O céu acima era de um cinza chumbo, clareando lentamente no leste. A alvorada estava chegando, uma mancha pálida tentando perfurar a camada eterna de poluição.
 
@@ -50,11 +50,11 @@ Dante não olhou para o gravador. Olhou para o bolso.
 
 Elena não guardou. Também não apertou o botão. Ficou com o aparelho no meio da mão, como quem segura uma pedra e ainda não decidiu se atira.
 
-— Nós desligamos tudo — disse Gabo, tentando se levantar, apoiando-se em um poste de luz enferrujado. — O Vazio. Lembra?
+— Nós cortamos a maior parte das conexões depois da Convergência — disse Gabo, apoiando-se num poste. — Chamamos isso de Vazio. Você sabe alguma coisa sobre isso?
 
 Dante virou a cabeça lentamente para Gabo. O movimento foi fluido, líquido.
 
-— Eu lembro dos dados, Gabriel. O conceito de "Vazio" como estratégia de defesa contra a vigilância onipresente da Aeterna. Uma tática primitiva, mas eficaz. — Ele olhou para as próprias mãos, flexionando os dedos. — A sensação térmica é de 12 graus. A umidade é de 88%. É... ineficiente.
+— Não tenho registro desse nome. — Ele olhou para as próprias mãos, flexionando os dedos. — Se vocês cortaram as conexões para impedir vigilância, foi eficaz até agora. O frio, porém, é ineficiente.
 
 — É a realidade, pai — retrucou Gabo, a palavra "pai" saindo com um gosto de cinza na boca.
 
@@ -96,7 +96,7 @@ Os recrutas recuaram. Silva deixou a lanterna cair. Rangel ficou pálido, a cor 
 
 Dante inclinou a cabeça.
 
-— Inspetor Rangel. O senhor está tremendo. Recomendo respirar fundo. E vejo que ainda não consertou o vazamento de óleo na viatura 04. Posso ouvir a válvula batendo daqui.
+— Inspetor Rangel. O senhor está tremendo. Recomendo respirar fundo. A viatura atrás de você tem uma válvula batendo.
 
 Rangel deu um passo para trás, esbarrando no capô do carro.
 
@@ -134,16 +134,16 @@ Gabo sentiu um calafrio percorrer sua espinha, mais frio que o vento da manhã.
 
 — Falar com quem? A Aeterna se foi. Silas se foi.
 
-— Com a infraestrutura — disse Dante, tocando a própria têmpora. — A rede física. Os cabos subterrâneos. Os relés analógicos. A cidade tem um sistema nervoso, Gabriel. E agora... eu sou o cérebro.
+— Com a infraestrutura. — Dante abriu a tampa de serviço do poste e encaixou um contato na linha de controle que ainda recebia energia. — Os cabos subterrâneos, os relés analógicos. Esta parte da cidade tem um sistema nervoso, Gabriel. Quero saber até onde alcança.
 
 Ele começou a caminhar em direção à viatura de Rangel.
 
 — Leve-me para a Delegacia, Inspetor. Tenho novos protocolos para ditar.
 
-Rangel olhou para Gabo, buscando permissão, buscando sanidade. Gabo apenas assentiu, cansado demais para lutar, aterrorizado demais para intervir.
+Rangel olhou para Gabo. Ele contou os policiais, avaliou o corpo que acabara de drenar Silas e não viu como contê-lo ali sem transformar a rua num massacre. — Você vai com escolta, Rangel. Não deixe ninguém sozinho com ele. — O inspetor assentiu, sem baixar a arma.
 
 A viatura deu a volta na praça e sumiu na neblina.
 
 Então a rua acendeu. Não a lâmpada quebrada do poste em frente — o quarteirão inteiro: janelas, vitrines, o letreiro de uma farmácia que estava morto desde o Dilúvio. Depois o quarteirão seguinte, e o outro, e o outro.
 
-A luz vinha atrás do carro como uma maré.
+A luz seguia o trecho ligado àquela linha. Mais longe, o restante da avenida continuava escuro.

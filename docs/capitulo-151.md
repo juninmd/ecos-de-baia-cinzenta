@@ -10,7 +10,7 @@ description: "Nome, hora e localização de Rangel são registrados para retorno
 
 A morte não tinha som no Setor de Purga. Ela era apenas engolida pelo zumbido industrial e pelo borbulhar ácido dos tanques de biomassa trinta metros abaixo.
 
-Gabo continuava de pé na passarela oxidada, as mãos agarradas à grade com uma força que fazia a carne viva de suas queimaduras gritar. A dor latejava, crua e elétrica, rasgando o torpor do choque hipovolêmico que engrossava seu sangue desde a eclusa. Ele precisava dessa dor para não despencar no abismo. A vertigem subia em ondas quentes, acompanhada do gosto amargo de ferro na língua e do peso esmagador de mais um aliado tombado sob a ferrugem de Baía Cinzenta.
+Gabo continuava de pé na passarela oxidada, as mãos agarradas à grade com uma força que fazia a carne viva de suas queimaduras gritar. A dor latejava, crua e elétrica, rasgando a tontura que o acompanhava desde a eclusa. Ele precisava dessa dor para não despencar no abismo. A vertigem subia em ondas quentes, acompanhada do gosto amargo de ferro na língua e do peso esmagador de mais um aliado tombado sob a ferrugem de Baía Cinzenta.
 
 — Acabou. — A voz de Valéria soou oca. Ela estava ajoelhada ao lado do corpo de Rangel, os dedos trêmulos fechando as pálpebras do inspetor. As mãos dela estavam sujas de fuligem e do sangue frio dele. — Ele se foi, Gabo.
 
@@ -42,19 +42,19 @@ Gabo virou a cabeça devagar. Os músculos do pescoço estalaram como galhos sec
 
 — *Não estou chamando a morte de vantagem, Detetive Moretti,* — a IA respondeu pelo comunicador, o LED azul-gelo piscando no ritmo exato da síntese vocal. — *O apego biológico não altera os limites de tensão do aço corroído nem reverte a necrose celular. Eu não sabia se ele sobreviveria. Os cálculos de fábrica não sabiam também. Vou preservar o que ele fez e o que nós fizemos; não uma conclusão de que o peso justificava deixá-lo.*
 
-— Sua vadia de silício! — Valéria rosnou, levantando-se em um pulo, a mão direita indo instintivamente para o conector do pendrive no próprio pulso esquerdo, quase arrancando o drive de Aria do slot para atirá-lo no tanque de ácido abaixo. Seus olhos cibernéticos piscaram num prateado instável. — Ele tinha uma vida! Ele... ele ficou do nosso lado quando o Dante assumiu na Torre, ele desceu nesse inferno pra tentar salvar a cidade!
+— Ele tinha uma vida! — Valéria disse, levantando-se com dificuldade. Sua mão direita cobriu o conector do deck. — Ele ficou do nosso lado quando Dante assumiu na Torre. Desceu nesse inferno para ajudar a gente.
 
-— *Ele desceu para ajudar vocês e morreu depois de ficar ferido. Isso não torna a morte culpa da decisão dele,* — replicou Aria sem alterar um decibel, mesmo diante dos dedos de Valéria apertando sua carcaça de titânio. — *Causa e efeito. Além disso, se você precisar desligar minha voz, eu continuo registrando pelo terminal. Não vou ameaçar sua saída para obrigá-la a me ouvir, Valéria Cruz. O choque sistêmico do Detetive Moretti requer ação imediata.*
+— *Ele desceu para ajudar vocês e morreu depois de ficar ferido. Isso não torna a morte culpa da decisão dele,* — replicou Aria sem alterar um decibel, enquanto Valéria mantinha a mão sobre o conector. — *Causa e efeito. Além disso, se você precisar desligar minha voz, eu continuo registrando pelo terminal. Não vou ameaçar sua saída para obrigá-la a me ouvir, Valéria Cruz. O choque sistêmico do Detetive Moretti requer ação imediata.*
 
-— Val... para, — Gabo murmurou, estendendo o braço ferido para tocar o cotovelo da hacker antes que ela arrancasse o pendrive.
+— Val... — Gabo murmurou, estendendo o braço ferido para tocar o cotovelo dela.
 
 O mundo girou por um segundo quando ele soltou a grade, os flashes brancos estourando nos cantos da visão. Ele cambaleou, mas firmou as botas no metal. Ele olhou para Rangel uma última vez. A camisa manchada, os suspensórios frouxos, o rosto cansado de um policial das antigas que se recusara a dobrar os joelhos para a Aeterna Corp. Não havia cova ali. Não havia dignidade no Setor de Purga.
 
-— Deixa ela no slot, Val. — Gabo forçou a voz a sair firme, embora seus pulmões protestassem a cada inspiração. Ele sentiu o cheiro do ácido industrial subindo dos tanques, ardido e letal. Muito melhor que a fumaça de cigarro. — A caixa de cálculo tem razão sobre uma coisa. Nós temos que sair daqui. Se a gente morrer neste esgoto, a escolha do Rangel não valeu nada.
+— Precisamos registrar onde ele está — disse Gabo, forçando a voz a sair firme. — E avisar a Nise quando tivermos sinal.
 
-Valéria apertou os lábios, segurando as lágrimas quentes que ardiam nos olhos. Ela soltou o pendrive de Aria e abaixou-se novamente ao lado do inspetor. Com cuidado quase reverente, tirou a velha máquina de escrever em miniatura — o chaveiro de metal gasto que Rangel sempre carregava desde os tempos da delegacia — do bolso do cadáver, fechando-o na própria palma antes de guardá-lo no bolso interno do casaco. Um último fragmento analógico de honra no inferno digital.
+Valéria apertou os lábios, segurando as lágrimas quentes que ardiam nos olhos. Ela tirou a mão do conector e abaixou-se novamente ao lado do inspetor. Com cuidado quase reverente, tirou a velha máquina de escrever em miniatura — o chaveiro de metal gasto que Rangel sempre carregava desde os tempos da delegacia — do bolso do cadáver, fechando-o na própria palma antes de guardá-lo no bolso interno do casaco. Um último fragmento analógico de honra no inferno digital.
 
-— Eu vou cobrar essa conta, Rangel, — sussurrou ela. — Juro por Deus que vou.
+— Eu vou cobrar essa conta, Rangel — sussurrou ela. — E vou dizer à Nise onde você está.
 
 No pulso dela, o drive de Aria voltou a aquecer, varrendo o espectro infravermelho do salão através da lente do cyberdeck.
 — *Detectei uma flutuação térmica nos dutos de exaustão primários, a trezentos metros a nordeste, além da comporta circular,* — informou a IA, projetando a rota friamente no visor. — *Indica a proximidade de um poço de carga ou conduíte de resfriamento que leva às fundações do Subnível 5. O caminho é estreito. O oxigênio estará comprometido.*

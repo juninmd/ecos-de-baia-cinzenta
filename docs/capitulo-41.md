@@ -97,7 +97,7 @@ Uma criança começou a chorar e as outras não.
 
 ---
 
-Eram dezoito pessoas reunidas no trecho alto do viaduto. As crianças se apertavam junto dos adultos, aguardando as balsas dos moradores. O Cobalt receberia o homem da lanterna e a menina que engolira água, além do trio, e um cheiro insuportável de roupa molhada, xixi e medo — que tem cheiro, e é metálico, e gruda.
+Eram treze crianças e dois adultos resgatados, além de Gabo, Val e Elena. As crianças se apertavam junto dos adultos no trecho alto, aguardando as balsas dos moradores. O Cobalt receberia o homem da lanterna e a menina que engolira água, além do trio, e um cheiro insuportável de roupa molhada, xixi e medo — que tem cheiro, e é metálico, e gruda.
 
 — O dique não rompeu — disse o homem da lanterna, no banco de trás, tremendo tanto que os dentes batiam. — Eu trabalho na Companhia de Águas. Eu **vi**. Não rompeu.
 
@@ -105,7 +105,7 @@ Gabo olhou para ele pelo retrovisor.
 
 — Como assim, não rompeu?
 
-— As comportas abriram. — O homem apertou os olhos, como quem tenta desver uma coisa. — As três de uma vez. Sequenciadas. Tem um alarme que toca antes da abertura programada, e o alarme tocou, moço. O alarme tocou e ninguém mandou tocar.
+— As comportas abriram. — O homem apertou os olhos, como quem tenta desver uma coisa. — As três, uma depois da outra. Tem um alarme que toca antes da abertura programada, e o alarme tocou, moço. O alarme tocou e ninguém mandou tocar.
 
 Elena virou o corpo inteiro no banco.
 

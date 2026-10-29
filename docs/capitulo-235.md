@@ -55,9 +55,9 @@ O impacto do cascalho estourou a dor no meu menisco remendado, mas eu não senti
 
 Estendi a mão esquerda e toquei a lateral do pescoço dela, logo abaixo da linha da mandíbula suja de carvão. A pele ainda guardava o calor da sala em chamas, mas não havia pulso. Apenas o silêncio liso e absoluto de quem cruzou a linha sem retorno.
 
-Valéria ajoelhou-se do outro lado. Os dedos metálicos da ciborgue tocaram a carótida de Elena por alguns segundos antes de conferir o monitor portátil de resgate.
+Valéria ajoelhou-se do outro lado. Os dedos da mão direita de Val tocaram a carótida de Elena por alguns segundos antes de conferir o monitor portátil de resgate.
 
-— Sem sinais de circulação detectáveis nesta avaliação. Hora em que a encontramos: quatro e vinte e sete — declarou Valéria. Houve uma pausa incomum na modulação de sua voz sintética. Um tremor quase imperceptível de microchips buscando uma resposta em tabelas que não tinham consolo. — Os ferimentos balísticos e a perda de sangue são compatíveis com choque hipovolêmico; não posso determinar a causa clínica sem exame. O transmissor ainda opera, mas está falhando. Vamos tirar os dois daqui.
+— Sem sinais de circulação detectáveis nesta avaliação. Hora em que a encontramos: quatro e vinte e sete — declarou Valéria. Houve uma pausa incomum na modulação de sua voz sintética. Ela interrompeu a frase para respirar e olhou para mim antes de continuar. — Os ferimentos balísticos e a perda de sangue são compatíveis com choque hipovolêmico; não posso determinar a causa clínica sem exame. O transmissor ainda opera, mas está falhando. Vamos tirar os dois daqui.
 
 Atrás de nós, Elias tirou o boné de estivador da cabeça e deu dois passos para trás, encostando-se na parede de concreto descascada.
 
@@ -67,7 +67,7 @@ Elena parecia mais jovem assim, sem a tensão que repuxava os cantos de sua boca
 
 Ela não havia fugido. Não havia implorado. Havia se trancado com os lobos da Aeterna e puxado a jaula para dentro do fogo junto com ela.
 
-Com cuidado, puxei o gravador de microcassete de seus dedos rígidos.
+Valéria voltou com Elias e uma lona de resgate. Ele recolheu a Caronte; Val conferiu a coronha antes de levá-la ao jipe. Prendemos Elena na lona e a levamos para fora, devagar, afastando-nos da parede ameaçada. Eu quis carregar mais peso do que podia; Elias segurou a outra ponta quando meu joelho cedeu. Só no jipe, com a porta fechada contra a chuva, puxei o gravador de microcassete de seus dedos.
 
 A carcaça plástica estava quente ao toque, marcada com a impressão digital de sangue que ela havia deixado ao pressionar o botão de parada. O contador marcava poucos minutos de gravação. O transporte tinha parado.
 
@@ -83,11 +83,11 @@ Depois, a respiração de Elena.
 
 Curta. Quebrada pelo sangue nos pulmões.
 
-— Gabriel — a voz dela chegou como se ela estivesse sentada no banco do carona do velho *Cobalt*, numa daquelas noites chuvosas antes do colapso de tudo. — Se você está ouvindo isso, o sinal subiu e a Aeterna perdeu o controle da cidade. Isolei a purga e liguei a difusão. Não sei quanto vai durar. Peçam aos assentamentos que retransmitam e preservem as matrizes.
+— Gabriel — a voz dela chegou como se ela estivesse sentada no banco do carona do velho *Cobalt*, numa daquelas noites chuvosas antes do colapso de tudo. — Se você está ouvindo isso, liguei a difusão e isolei a purga no quadro. Não sei quanto vai durar nem se funcionou em toda a linha. Peçam aos assentamentos que retransmitam e preservem as matrizes.
 
 Ela tossiu, um som úmido e áspero que fez meu estômago revirar.
 
-— Lado A — ela continuou, recobrando a postura profissional da repórter que nunca errou uma data de arquivo. — A frequência de retorno da chave mestra de Krell é nove-zero-dois ponto quatro. Os códigos de acesso que eu recuperei do terminal de comando indicam um repetidor ligado ao iate executivo no setor marítimo de Ponto Zero. Não confirmam que ele esteja a bordo. Está tudo registrado no minidisc dentro da coronha oca da *Caronte*. Leva isso para a Dra. Vance. Ela sabe como decodificar os contratos de concessão.
+— Lado A — ela continuou, recobrando a postura profissional da repórter que nunca errou uma data de arquivo. — A frequência de retorno da chave mestra de Krell é nove-zero-dois ponto quatro. Os registros que separei no galpão indicam um repetidor ligado ao iate executivo no setor marítimo de Ponto Zero. Não confirmam que ele esteja a bordo. Está tudo registrado no minidisc dentro da coronha oca da *Caronte*. Leva isso para a Dra. Vance. Ela sabe como decodificar os contratos de concessão.
 
 O disco na coronha. Eu tinha visto aquilo entrar na arma, no galpão, e não tinha perguntado.
 
@@ -105,7 +105,7 @@ A voz dela amoleceu. Perdeu a armadura de campo, perdeu a dureza das manchetes.
 
 Uma pausa longa. O som do sangue pingando nas lajotas da sala.
 
-— Não carrega essa culpa, Gabriel. A culpa de Baía Cinzenta não é sua. Você nunca foi o grupo de controle do Krell por escolha; você foi apenas o único homem teimoso o bastante para continuar em pé enquanto todo mundo se vendia ou caía de joelhos. Não deixa eles te transformarem num número de pasta. Você é o Gabriel Moretti. O homem que me beijava na balsa do cais e que não sabia mentir sobre o preço do pão.
+— Não carrega essa culpa, Gabriel. A culpa de Baía Cinzenta não é sua. Você nunca foi o grupo de controle do Krell por escolha; você ainda pode decidir o que fazer com aquilo que eles registraram. Não deixa eles te transformarem num número de pasta. Você é o Gabriel Moretti. O homem que me beijava na balsa do cais e que não sabia mentir sobre o preço do pão.
 
 Sua voz vacilou, quase apagada pelo uivo final do banco de capacitores.
 
@@ -115,10 +115,10 @@ O mecanismo rodou em falso no final da fita plástica. *Clack.*
 
 O silêncio desceu sobre o fone.
 
-Tirei o fone do ouvido devagar. O vento da orla entrava pelo teto aberto, trazendo o cheiro salgado do mar aberto e o chuvisco gelado que caía sobre a pele de Elena.
+Tirei o fone do ouvido devagar. O vento entrava pela janela do jipe, trazendo o cheiro salgado do mar e da chuva.
 
 Aproximei minha mão do peito dela e desatei o cordão fino que prendia o pingente redondo de latão. O metal estava morno do sangue dela. Fechei os dedos ao redor da peça e apertei até que as bordas cortassem a palma da minha mão.
 
 Não gritei. Não quebrei nada.
 
-Apenas encostei minha testa contra a dela, ali na poça de água e cinzas da sala em chamas, e deixei as lágrimas lavarem a fuligem do meu rosto.
+Apenas encostei minha testa contra a dela, ali no banco do jipe, sob a lona de resgate, e deixei as lágrimas lavarem a fuligem do meu rosto.

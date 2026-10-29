@@ -52,7 +52,7 @@ Valéria já estava com a *Caronte* no ombro, mira travada no peito dele.
 
 — Sim, senhor.
 
-— Você amarrou um menino numa grade e apertou o roquete de dez em dez minutos.
+— Você amarrou um menino numa grade e foi apertando o roquete. De quanto em quanto tempo?
 
 — Vinte, — ele corrigiu, sem defesa nenhuma na voz, como quem corrige um número numa nota fiscal. — Foi de vinte em vinte. Eu não gosto de fazer rápido, porque rápido é raiva, e raiva erra. Eu não erro.
 

@@ -78,7 +78,7 @@ O plano da Val cabia em três frases, o que já era um bom sinal:
 
 Era um plano ruim, arriscado e provavelmente suicida. Foi o melhor que qualquer um dos dois tinha ouvido em quarenta e sete dias.
 
-— Eu dou cobertura — disse Gabo, checando a munição. Sete na Glock, quatro na *Caronte*, e nada além disso no mundo inteiro. — Aria, concentra todo o seu processamento em quebrar o firewall com a Val.
+— Eu dou cobertura — disse Gabo, checando a munição. Sete na Glock, três cartuchos de escopeta contando os dois canos carregados, e nada além disso no mundo inteiro. — Aria, concentra todo o seu processamento em quebrar o firewall com a Val.
 
 No ponto auditivo dele, o sintetizador da IA deu um clique curto.
 
@@ -108,7 +108,7 @@ O primeiro caiu com um tiro na perna — Gabo mirou na perna, o que ninguém acr
 
 O drone veio de trás. Gabo ouviu — não o motor, o **ar** — e girou o corpo inteiro no chão, e a rajada rasgou o concreto onde estava a cabeça dele meio segundo antes, e o pó de cimento entrou no olho dele.
 
-Ele atirou de baixo para cima com a *Caronte*, sem mirar direito, no rumo. Acertou. O drone se desmontou no ar e caiu numa piscina, e o fluorcarbono aceitou os destroços com um borbulhar mais forte e depois voltou ao normal, indiferente. Três cartuchos.
+Ele atirou de baixo para cima com a *Caronte*, sem mirar direito, no rumo. Acertou. O drone se desmontou no ar e caiu numa piscina, e o fluorcarbono aceitou os destroços com um borbulhar mais forte e depois voltou ao normal, indiferente. Dois cartuchos.
 
 — **UM MINUTO!**
 
@@ -126,19 +126,19 @@ Gabo olhou para o cano.
 
 Ele estava com o rosto no chão molhado, com sangue quente escorrendo por dentro da roupa, com o ombro direito completamente fora de serviço, e a coisa que passou pela cabeça dele naquele instante — e ele nunca contou isso para a Dra. Weiss — não foi a Elena, não foi a mãe, não foi a Aria.
 
-Foi que ele estava **cansado**. Ele fechou os olhos. O tiro não veio.
+Foi que ele estava **cansado**. Fechou os olhos e deixou a mão esquerda escorregar até a *Caronte*. O técnico deu mais um passo. Gabo abriu os olhos e disparou do chão. O tiro atingiu a perna do homem, que caiu gritando; o fuzil deslizou para baixo da grade. Restava um cartucho.
 
 ---
 
-Veio um som diferente: um som molhado, curto, com um chiado no fim. Gabo abriu os olhos.
+Veio um som diferente do outro lado da sala: metal contra metal e um grito junto à passarela.
 
-O técnico ainda estava de pé, com o fuzil apontado, mas o rosto tinha mudado de assunto. Havia um cabo de metal saindo do lado esquerdo do pescoço dele — um instrumento cirúrgico, comprido e fino, enfiado até o punho e com uma precisão que não era de briga.
+O técnico ferido arrastou-se atrás de um rack, pressionando a perna. Gabo deixou que fosse; precisava chegar ao console onde Val ainda trabalhava.
 
-O homem caiu de joelhos, depois de cara. Gabo virou a cabeça, procurando o ângulo. Na passarela superior, a nove metros de altura, uma silhueta o observava, apoiada no corrimão com as duas mãos, sem pressa nenhuma.
+Gabo virou a cabeça, procurando a origem do grito. Na passarela superior, a nove metros de altura, uma silhueta arrancava uma lâmina da armadura de outro segurança.
 
 Não era o Santo. O Santo era largo. Aquilo era magro, comprido, de ombros estreitos. O cabelo grisalho preso num rabo de cavalo. Óculos de aumento de relojoeiro presos na testa, com as lentes levantadas. Um avental de couro escuro, gasto, com bolsos frontais cheios de coisas compridas.
 
-O Taxidermista. Ele sorriu para Gabo, e limpou uma segunda lâmina no avental com dois movimentos calmos, do jeito que um açougueiro limpa a faca entre um corte e outro.
+O Taxidermista. Ele viu Gabo, limpou a lâmina no avental e avançou até a escada enquanto outro segurança recuava para abrir fogo.
 
 — Ninguém mata a minha obra-prima inacabada, inspetor — ele disse.
 

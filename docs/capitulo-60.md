@@ -28,7 +28,7 @@ Os mercenários avançavam com disciplina militar. Movimentos coordenados, comun
 
 — Entregue o módulo da IA, Moretti! — gritou o líder, a voz amplificada por um modulador tático que a deixava desumana. — O pendrive não tem utilidade para um homem morto! Devolva a propriedade do Consórcio e garantimos uma execução limpa. Sem dor. Sem humilhação. Apenas... fim.
 
-— Tentadora a oferta! — gritou Gabo de volta, trocando o carregador com dedos que tremiam mais do que ele gostaria de admitir. Restavam dois carregadores. Doze balas. Contra oito homens armados até os dentes. — Mas eu prefiro a versão longa e dolorosa! É mais do meu estilo!
+— Tentadora a oferta! — gritou Gabo de volta, trocando o carregador com dedos que tremiam mais do que ele gostaria de admitir. Restavam dois carregadores. Doze balas. Mais homens chegavam por trás dos três que vira na entrada. — Mas eu prefiro a versão longa e dolorosa! É mais do meu estilo!
 
 Ele precisava criar uma distração. Algo que comprasse tempo para tirar o drive da Aria dali antes que o cercassem. Olhou ao redor, forçando os olhos a se adaptarem à penumbra do túnel.
 
@@ -47,9 +47,9 @@ A perna direita travou em posição estendida. Gabo tropeçou, caiu de joelhos n
 
 Ele bateu na coxa com força bruta, ignorando a dor nos nós dos dedos. Uma vez. Duas. Três. O metal gemeu, faíscas saltaram de uma junta solta, e o contato intermitente tornou a fechar por alguns segundos. O aviso de falha permaneceu; bater no conjunto não era reparo. Gabo se levantou, mancando pesadamente na direção da bifurcação indicada pelo vetor da Aria.
 
-Encostou-se em um nicho entre dois canos de esgoto para recuperar o fôlego e verificou o estojo do colete. O pendrive de titânio e polímero negro estava intacto, o LED lateral oscilando entre o azul e o âmbar na escuridão. Pelo ponto auditivo, ele ouvia o processamento acelerado da IA filtrando os rádios criptografados do esquadrão.
+Encostou-se em um nicho entre dois canos de esgoto para recuperar o fôlego e verificou o estojo do colete. O pendrive de titânio e polímero negro estava intacto, o LED lateral oscilando entre o azul e o âmbar na escuridão. Pelo ponto auditivo, ele ouvia o processamento acelerado da IA procurando sinais nos rádios do esquadrão, sem conseguir ler os canais cifrados.
 
-— *Eles têm ordens de extração prioritária sobre o meu núcleo, Inspetor* — disse a voz sintética da Aria, baixa e precisa. — *Se eu for capturada, usarão a minha arquitetura para estabilizar a fazenda de servidores.*
+— *Eles pediram meu núcleo, Inspetor* — disse Aria, baixa e precisa. — *Não sei o que pretendem fazer com ele. A fazenda de servidores é uma possibilidade.*
 
 — Ninguém vai colocar a mão desse drive, Aria — Gabo murmurou, apertando o conector do pendrive com dedos frios, mas firmes. Ela confiava o próprio código a um policial quebrado. Deus sabe por quê.
 
@@ -83,13 +83,13 @@ A voz veio de cima. Gabo ergueu os olhos, protegendo-os do clarão de um holofot
 
 — Prende a correia na cintura! — gritou ela. Um guincho de carga fixado no telhado, que usara para subir os equipamentos da van, segurava a linha. O motor tinha alimentação própria; a corda não exigiria que Gabo se suspendesse com os braços.
 
-Gabo travou o pendrive da Aria no slot blindado da lapela e se agarrou aos corrimãos, ignorando a dor lancinante nas costas que fez sua visão piscar em branco por um segundo. A mochila de munição e o peso morto do exoesqueleto pareciam uma tonelada para seu corpo destruído. As órteses gemiam a cada degrau da escada de metal. Alarmes silenciosos explodiam em seu visor.
+Gabo travou o módulo da Aria na lapela e prendeu a correia à cintura. Agarrou o corrimão para manter o corpo junto à parede enquanto Val recolhia a folga da linha. O peso das órteses puxava sua coluna; os alarmes explodiam no visor.
 
 BATERIA: 2%
 SERVO DIREITO: OFFLINE
 SERVO ESQUERDO: DEGRADAÇÃO TERMINAL
 FALHA SISTÊMICA EM: 45 SEGUNDOS
-Quarenta e cinco segundos. Quarenta. Trinta e cinco. A perna direita travou novamente, desta vez com um estalo audível de metal quebrando. Gabo tropeçou, bateu o joelho na grade da escada, sentiu algo rasgar dentro de si. Não sabia se era músculo, tendão ou esperança.
+Quarenta e cinco segundos. Quarenta. Trinta e cinco. Ao se erguer pela linha, a perna direita travou novamente, com um estalo de metal quebrando. O joelho bateu na grade e a dor subiu pela coxa. Ele segurou o corrimão para não girar para fora do alcance de Val.
 
 — Merda!
 
@@ -135,10 +135,10 @@ Ele se levantou. Foi difícil — as órteses desenergizadas pesavam como uma ar
 
 — Até o fundo dessa maldita piscina. Até onde eles acham que ninguém vai procurar. — Gabo bateu o indicador no pendrive de titânio acoplado ao cinto, depois olhou para Val. — Eles querem o código que está dentro deste drive. E enquanto a Aria estiver conosco, vão continuar vindo. Não importa onde a gente se esconda.
 
-Ele deu um passo em direção à borda do telhado, olhando para o caos abaixo.
+Ele se inclinou com cuidado, ainda apoiado em Val, para olhar o caos abaixo.
 
 — Então a gente para de se esconder. A gente vai até eles. E a gente termina isso.
 
-Val olhou para o brilho azul do pendrive da Aria e depois para Gabo. A hacker e a IA sem corpo. As duas únicas consciências no mundo que ainda acreditavam que Gabriel Moretti sabia o que estava fazendo. Talvez estivessem certas. Provavelmente não.
+Val olhou para o brilho azul do pendrive da Aria e depois para Gabo. Val olhou de novo para a rua e para a linha do guincho. Aria permaneceu em silêncio. Nenhuma das duas tinha concordado com o plano só porque Gabo o anunciara.
 
 Mas em Baía Cinzenta, "provavelmente não" era o mais perto que alguém chegava de esperança.

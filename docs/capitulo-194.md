@@ -9,17 +9,17 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 Elias nos conduziu veloz através do labirinto de transformadores inativos da Subestação B. O piso de concreto vibrava com um tremor rítmico, os reflexos das explosões distantes no data-center subindo pelas paredes como relâmpagos mecânicos abafados.
 
-O ar cheirava a poeira metálica aquecida, enxofre e graxa velha, deixando aquele gosto amargo e azedo de fuligem no fundo da garganta. A cada passada pesada, as órteses das minhas pernas rangiam alto, mas a dor no meu braço fraturado me mantinha alerta, focado no mapa que Elias desdobrava mentalmente à nossa frente.
+O ar cheirava a poeira metálica aquecida, enxofre e graxa velha, deixando aquele gosto amargo e azedo de fuligem no fundo da garganta. A cada passada pesada, a órtese da minha perna direita rangia alto, mas a dor no meu braço fraturado me mantinha alerta, focado no mapa que Elias desdobrava mentalmente à nossa frente.
 
 Lembrei de cada túnel de fuga que cruzei com o comissariado nos anos anteriores; quando a infraestrutura de Baía Cinzenta resolvia cobrar a conta da negligência, ela nunca deixava troco.
 
 — A torre principal de exaustão perdeu a pressurização quando vocês romperam os dutos de amônia lá embaixo — Elias explicava num sussurro esganiçado, correndo com as costas curvadas e olhando para trás a cada dez passos. — O fogo do núcleo tá sugando o oxigênio do fosso mestre. Se a gente tentar subir pelos poços normais de elevador, o ar superaquecido cozinha nossos pulmões antes do terceiro lance de escadas.
 
-— A gente não vai subir pelo fosso mestre, Elias — Valéria cortou com firmeza, conferindo a telemetria do cyberdeck preso ao peito. Os filamentos de LED azul na franja curta dela iluminavam a tubulação superior com um brilho elétrico. — O scanner térmico tá mostrando que a temperatura da laje abaixo dos nossos pés já bateu oitenta graus. As vigas de sustentação desse setor foram sacrificadas pelo calor. Quanto tempo a gente tem até a subestação colapsar?
+— A gente não vai subir pelo fosso mestre, Elias — Valéria cortou com firmeza, conferindo a telemetria do cyberdeck preso ao peito. Os filamentos de LED azul na franja curta dela iluminavam a tubulação superior com um brilho elétrico. — O scanner térmico tá mostrando que a temperatura da laje abaixo dos nossos pés já bateu oitenta graus. Não consigo ver como estão as vigas por dentro. Você conhece outra saída?
 
 Elias engoliu seco, os dedos encardidos apertando a alça da máscara de respiração no peito.
 
-— Quinze minutos. Vinte no máximo, se os pilares de aço revestidos de chumbo segurarem o tranco.
+— Conheço um duto, mas não sei quanto tempo a estrutura aguenta.
 
 — Então para de enrolar e mostra logo a galeria de escape — comentei, ajustando o correame de *Caronte* por baixo do sobretudo rasgado.
 
@@ -59,7 +59,7 @@ Um zumbido agudo, quase imperceptível ao ouvido humano mas doloroso nos dentes,
 
 — A rosca soltou! — Valéria gritou, desligando a ferramenta antes que a bobina derretesse de calor. — Agora é com você, Gabo! Vira no sentido anti-horário com tudo que essa sucata de cais tiver!
 
-Aproximei-me da plataforma, posicionei minhas botas nas travessas de ferro e envolvi a roda com a garra mecânica da armação. Travei os motores hidráulicos no limite máximo de compressão. Meus dentes bateram, os nós neurais da minha clavícula estalaram em agonia quando forcei o giro com o peso do meu tronco inteiro como alavanca.
+Aproximei-me da plataforma, posicionei minhas botas nas travessas de ferro e envolvi a roda com a garra mecânica da armação. Travei os motores hidráulicos no limite máximo de compressão. Meus dentes bateram, o fixador repuxou meu braço ferido quando forcei o giro com o peso do meu tronco inteiro como alavanca.
 
 CREEEEAAAAK.
 O metal gemeu num grito estridente de atrito vencido. O salitre cedeu, a graxa ferveu nas ranhuras e o volante completou o primeiro quarto de volta.

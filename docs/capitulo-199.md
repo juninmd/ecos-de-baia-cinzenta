@@ -46,7 +46,7 @@ O monstro soltou um uivo agudo ensurdecedor, os sensores cerebrais entrando em c
 
 Dois segundos. Era a única janela que Baía Cinzenta nos daria.
 
-Avancei com a perna mecânica firme no lodo, empunhando o vergalhão com as duas mãos — a de carne dando o direcionamento e a de aço entregando duzentos quilos de força mecânica concentrada.
+Avancei com a perna mecânica firme no lodo, segurando o vergalhão com a mão esquerda e apoiando a armação externa no batente para orientar a ponta.
 
 Mirei exatamente no nó de biomassa azul e cabos ópticos que pulsava no peito da criatura, logo atrás da blindagem faturada pelos tiros de Valéria.
 
@@ -56,7 +56,7 @@ Enterrei a barra de ferro no coração do monstro.
 
 A ponta rasgada perfurou o núcleo vegetal e cravou-se fundo no dormente de madeira do chão. A quimera debateu-se violentamente, as patas de aço riscando o teto e quase partindo minha omoplata com o recuo, mas travei o peso da armação sobre o vergalhão, mantendo a besta pregada no chão.
 
-Valéria sacou um cabo de alta voltagem que pendia solto da canaleta da parede, puxou a fiação desencapada com a faca e indicou que eu soltasse o ferro antes de aproximar o cabo da barra presa ao dormente. Recuei atrás do pilar; ela só fechou o contato quando viu minhas duas mãos fora da armação metálica da criatura.
+Valéria sacou um cabo de alta voltagem que pendia solto da canaleta da parede, puxou a fiação desencapada com a faca e indicou que eu soltasse o ferro antes de aproximar o cabo da barra presa ao dormente. Recuei atrás do pilar; ela só fechou o contato quando viu eu fora do alcance da barra metálica.
 
 — *Fica fora do contato, Moretti!*
 
@@ -72,17 +72,17 @@ Tentei levantar com o braço direito e o braço não veio. Os relés estavam for
 
 Elias estava no chão com o tornozelo virando cor de vinho. Ia ter que ser carregado, e o único lado que ainda funcionava era o meu lado ruim.
 
-Valéria se levantou num pulo, limpando o suor e a fuligem dos olhos prateados, correu até Elias e o puxou pelo colarinho com a mão direita, enquanto estendia a esquerda para me erguer da lama.
+Valéria se levantou, limpou a fuligem dos olhos e ajudou Elias a apoiar o pé bom. Depois estendeu a mão direita para mim; apoiei-me no pilar com o lado esquerdo.
 
 — De pé, Gabo! — ela gritou, a voz rouca pela fumaça. — O barulho do arco elétrico ecoou pelo duto inteiro! Os outros casulos do teto tão rachando!
 
 Olhei para trás. Cem metros pelo túnel, outros três vultos aracnídeos saltavam das placentas rompidas, garras estalando no concreto.
 
-— Pro poço do elevador! — berrei, agarrando a mão de Valéria e apoiando o peso de Elias na minha lateral direita.
+— Pro poço do elevador! — berrei, mantendo o braço direito junto ao peito. Elias apoiou-se em Val, que o ajudou a avançar com o pé bom.
 
 Disparamos pelos últimos cinquenta metros de trilhos sob uma chuva de faíscas e goteiras ácidas. Alcançamos a comporta blindada de duas folhas do Poço de Elevação Três, empurramos o corpo trêmulo de Elias para dentro e nos lançamos pela soleira bem no instante em que a primeira garra de cerâmica riscava a chapa externa.
 
-Puxamos a alavanca mestra de travamento — eu com a mão esquerda, Valéria com as duas.
+Puxamos a alavanca mestra de travamento — eu com a mão esquerda, Valéria com a direita.
 
 CLANK-BOOM.
 Os ferrolhos de quatro polegadas bateram nos encaixes de chumbo com um estrondo definitivo. As garras dos monstros arranharam o lado de fora como granizo furioso, mas a blindagem naval da Aeterna segurou a maré.

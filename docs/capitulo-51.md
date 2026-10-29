@@ -17,7 +17,7 @@ Vilar apontou para o corpo encostado na parede de tijolos. Era um homem bem vest
 
 Gabo pediu que aproximassem um banco e examinou o corpo sentado, sem dobrar as pernas além do limite das órteses. As mãos do homem estavam esmagadas. Cada dedo quebrado metodicamente. E sobre o peito, uma única moeda de prata antiga.
 
-Os joelhos de Gabo protestaram antes dele. A coluna ainda tinha o formato da viga que quase o partira ao meio, e agachar era uma conta que ele pagava em três parcelas: uma ao descer, uma ao ficar, e a maior ao levantar. Ele ficou. O tijolo atrás dele estava gelado mesmo através da luva, e a água entrava pelo cano da bota e subia dois dedos, morna de esgoto.
+Os joelhos de Gabo protestaram mesmo sentado. A coluna ainda cobrava cada mudança de posição; ele pediu que não afastassem o banco até terminar de examinar as mãos. O tijolo atrás dele estava gelado mesmo através da luva, e a água entrava pelo cano da bota e subia dois dedos, morna de esgoto.
 
 Atrás dele, a porta de serviço da clínica abriu um palmo. Uma mulher de avental plastificado espiou pelo vão, o rosto amassado de quem não dormia havia dias. Não olhou para o corpo. Olhou para as mãos de Gabo, e para o coldre debaixo do casaco.
 
@@ -79,9 +79,7 @@ Gabo se levantou.
 
 Gabo voltou para o carro. A chuva parecia mais fria agora. Ele não conseguia tirar da cabeça a imagem das mãos quebradas. Eram as mãos de quem recebia dinheiro sujo. O assassino estava enviando uma mensagem.
 
-Ele guardou a moeda num saco plástico antes que Vilar pudesse reclamar da cadeia de custódia que os dois tinham acabado de perder. O metal ainda estava morno, e não era do corpo. Era de bolso. Quem a carregou até ali tinha esperado o beco esvaziar, com a moeda fechada na mão, o tempo suficiente para aquecê-la.
-
-Alguém tinha esperado. Isso era pior do que a força.
+Ele guardou a moeda num saco plástico antes que Vilar pudesse reclamar da cadeia de custódia que os dois tinham acabado de perder. O metal ainda estava morno, e não era do corpo. Era de bolso. A temperatura podia vir do corpo, de um bolso ou do ambiente. Sem preservar o horário e comparar as condições, ele não podia saber quanto tempo alguém esperara ali.
 
 Elena ligou o motor do Cobalt.
 
@@ -113,7 +111,7 @@ Gabo ficou muito tempo sem respirar. O som da chuva sumiu, e o bater do limpador
 
 — Helena Moretti. Endereço registrado: Rua Vinte e Dois, 402, Setor 7. Óbito registrado pelo Sindicato dos Barqueiros no dia seguinte. Motivo relatado na ficha: coma diabético sem atendimento. A ficha do barqueiro não é um laudo médico.
 
-Gabo socou o volante. A buzina gritou, um lamento mecânico que ecoou pela rua vazia. Ele não gritou. A dor era grande demais para som. Era um buraco negro que engolia tudo.
+Gabo socou o painel com a mão livre. Elena segurou o volante quando ele tornou a golpear. Ele não gritou. A dor era grande demais para som. Era um buraco negro que engolia tudo.
 
 Sua mãe estava morta. Ele sabia disso desde o porão, pelo rosto da Val, no dia em que acordou. O que ele não sabia era o nome do homem que tinha dito não — e um nome era uma coisa que ele podia usar.
 

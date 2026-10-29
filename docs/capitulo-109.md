@@ -1,6 +1,7 @@
 ---
 image: /cenas/cidade.jpg
-Personagens Presentes: Inspetor Rangel, Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Dante Moretti, Aria
+Personagens Presentes: Inspetor Rangel, Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria, mulher e menino
+Participação por transmissão: Dante Moretti
 Localização: "Zona Portuária - Setor 4 (Em Ruínas)"
 ---
 # Capítulo 109: Frequência Fantasma
@@ -78,7 +79,7 @@ Rangel apontou um dedo trêmulo para o console adaptado ao lado do painel do ve�
 
 — Gabo — Rangel disse, a voz perigosamente calma. — O que é aquilo espetado no painel?
 
-Gabo passou a mão pelo rosto molhado, limpando a água dos olhos. Ele olhou para o pequeno cilindro blindado com o LED azul piscando — a assistente de IA tática que ele havia resgatado de uma cabine telefônica submersa no começo da enchente, e que despertara de seu modo de isolamento após o Grande Silêncio.
+Gabo passou a mão pelo rosto molhado, limpando a água dos olhos. Ele olhou para o pequeno cilindro blindado com o LED azul piscando — a assistente de IA tática que ele havia resgatado de uma cabine telefônica alagada antes do Dilúvio, e que despertara de seu modo de isolamento após o Grande Silêncio.
 
 — É a Aria. E dentro dela roda o Código Morto — Gabo disse, a voz pesada como chumbo.
 

@@ -9,7 +9,7 @@ Personagens Presentes: Gabo, Valéria
 
 Atravessar as portas de vidro estilhaçado da Aeterna Corp foi como cruzar a fronteira de um cemitério. Deixamos o mausoléu de mármore e silício para trás e pisamos na cova aberta que Baía Cinzenta havia se tornado.
 
-A chuva não caía; ela desabava. Era pesada, ácida e gelada, lavando a fuligem dos meus ombros e escorrendo pelos ferimentos que a espuma coagulante de Valéria tentava, desesperadamente, manter fechados. Sem a poluição luminosa dos painéis holográficos e dos letreiros de neon da corporação, a cidade estava mergulhada num cinza profundo e absoluto. O monólito negro da torre erguia-se às nossas costas, morto e inútil, como um prego enferrujado cravado no coração do Distrito Central.
+A chuva não caía; ela desabava. Era pesada, ácida e gelada, lavando a fuligem dos meus ombros e escorrendo pelos ferimentos cobertos com o curativo de Valéria. Sem a poluição luminosa dos painéis holográficos e dos letreiros de neon da corporação, a cidade estava mergulhada num cinza profundo e absoluto. O monólito negro da torre erguia-se às nossas costas, morto e inútil, como um prego enferrujado cravado no coração do Distrito Central.
 
 A ausência do zumbido elétrico crônico da infraestrutura urbana era ensurdecedora. O silêncio pesava nos ouvidos.
 

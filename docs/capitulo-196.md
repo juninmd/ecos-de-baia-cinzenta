@@ -29,7 +29,7 @@ Cortando o centro do salão de concreto, um canal de drenagem pluvial de quatro 
 
 — O Jardim... — Elias recuou dois passos, o pânico voltando a estalar em sua voz esganiçada. — Ele nos seguiu pelo duto?!
 
-— Não viaja, mecânico — Valéria caminhou até a margem do canal, agachando-se com a sonda de teste em punho sem encostar na matéria orgânica. — Essas raízes já estavam aqui. Olha a calcificação em volta dos eletrodos. A grossura não me dá uma data, mas não nasceram enquanto cruzávamos o duto. A praga do Silas Vance não começou na estufa ontem. Ela já tinha se espalhado por cada canal de esgoto da cidade enquanto a gente ainda tava lutando contra o Sentinel no Arquivo.
+— Não viaja, mecânico — Valéria caminhou até a margem do canal, agachando-se com a sonda de teste em punho sem encostar na matéria orgânica. — Essas raízes já estavam aqui. Olha a calcificação em volta dos eletrodos. A grossura não me dá uma data, mas não nasceram enquanto cruzávamos o duto. Não sabemos até onde chegaram.
 
 Perto da margem, alguém tinha montado acampamento. Quatro carrinhos de supermercado amarrados com arame formavam uma parede baixa, e atrás deles havia cobertores apodrecidos, latas vazias e uma fogueira que já era só mancha de fuligem no cimento. Na parede, escrito com giz de obra, um risco e um número: três.
 
@@ -37,11 +37,11 @@ Perto da margem, alguém tinha montado acampamento. Quatro carrinhos de supermer
 
 — Três pessoas — Elias corrigiu, e a voz falhou no meio. — É assim que a gente marcava embaixo. Quem escreve não volta pra riscar.
 
-— A estufa do Setor 7 era só o viveiro de processamento — falei, sentindo o peso da armação no braço quebrado tracionar contra a atadura elástica que Valéria havia feito. O sangue parara de pingar, mas a dor surda na carne dilacerada me lembrava a cada segundo de que nossos recursos estavam no osso. — O objetivo sempre foi conectar a biomassa nas fundações geológicas.
+— A estufa do Setor 7 era só o viveiro de processamento — falei, sentindo o peso da armação no braço quebrado tracionar contra a atadura elástica que Valéria havia feito. O sangue parara de pingar, mas a dor surda na carne dilacerada me lembrava a cada segundo de que nossos recursos estavam no osso. — Pelo menos uma colônia já estava fora da estufa.
 
 Valéria cravou a ponta de prova num terminal de telemetria fixado num pilar ao lado do canal. O display do cyberdeck desenrolou linhas de código em cascata rápida, acompanhadas por bipes ritmados.
 
-— As raízes tão drenando corrente dos cabos subterrâneos dos bancos — ela ergueu a cabeça, os traços jovens endurecidos pela constatação tática. — A rede biológica tá usando a energia residual dos geradores dos prédios comerciais lá em cima pra manter a pulsação viva. Se o sinal tá correndo pra oeste, tem uma estrutura de comando intermediária perto do entroncamento ferroviário.
+— As raízes tão drenando corrente dos cabos subterrâneos dos bancos — ela ergueu a cabeça, os traços jovens endurecidos pela constatação tática. — A rede biológica tá usando a energia residual dos geradores dos prédios comerciais lá em cima pra manter a pulsação viva. Há corrente nesses cabos, mas não consigo identificar de onde vem ou se existe um comando perto do entroncamento.
 
 — Onde fica o elevador de carga industrial, Elias? — perguntei, virando-me para Elias.
 
@@ -51,7 +51,7 @@ Elias apontou o dedo trêmulo para a galeria escura que se abria ao longo do can
 
 — Oitocentos metros em linha reta acompanhando esse canal cheio de raízes — Valéria guardou a sonda e checou o carregador da pistola com um clique seco. — Um passeio no parque, considerando que a gente acabou de escalar uma chaminé em chamas.
 
-— Mantém a lanterna baixa, Val — avisei, ajeitando o sobretudo sobre a coronha de *Caronte*. — A bioluminescência dessas trepadeiras reage a pulso eletromagnético e luz direta. A gente se move pelas passarelas laterais de serviço, onde o lodo é mais raso.
+— Mantém a lanterna baixa, Val — avisei, ajeitando o sobretudo sobre a coronha de *Caronte*. — Não sabemos a que essas trepadeiras reagem. A gente se move pelas passarelas laterais de serviço, onde o lodo é mais raso.
 
 — E se a gente topar com alguma daquelas carcaças reanimadas no caminho? — Elias perguntou, engolindo em seco, os nós dos dedos brancos de tanto apertar a chave sônica no peito.
 
@@ -59,6 +59,6 @@ Valéria olhou para Elias com aquele meio-sorriso cínico e destemido que sempre
 
 — Se topar com zumbi corporativo, Elias, você se abaixa e deixa o Moretti e a escopeta dele explicarem a política de demissão sem justa causa da Aeterna Corp. Vamos andar logo antes que os transformadores lá em cima apaguem de vez.
 
-Contei os cartuchos no bolso do sobretudo enquanto andava. Faziam um barulho de dentes batendo. Não era muito, e dali em diante cada um ia ter que justificar a própria existência. A mão direita ainda formigava onde a fita apertara demais; abri e fechei os dedos até o sangue voltar.
+Contei os cartuchos no bolso do sobretudo enquanto andava. Faziam um barulho de dentes batendo. Não era muito, e dali em diante cada um ia ter que justificar a própria existência. A mão direita ainda formigava onde a fita apertara demais; avisei Val e ela conferiu a faixa sem soltar a tala.
 
 Avançamos pela passarela elevada ao lado do canal, o eco ritmado dos nossos passos e o chiado mecânico da minha armação marcando a cadência firme da nossa marcha através das catacumbas esquecidas do Setor 6.

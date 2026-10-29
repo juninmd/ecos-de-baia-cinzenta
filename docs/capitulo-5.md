@@ -137,10 +137,10 @@ Arrastou Miranda pelo colete. A gaze quente escorregava entre a mão e o tecido;
 
 — *Vou pela estrada da represa. Não tenho sinal garantido no meio da galeria.*
 
-As três Vespas chegaram à entrada. Gabo deitou Miranda na curva e ergueu a arma. As máquinas pousaram na parede, uma a uma. As luzes de mira não apagaram.
+As três Vespas chegaram à entrada. Gabo deitou Miranda na curva e atirou contra o suporte enferrujado da tubulação sobre elas. A estrutura caiu na passagem; uma máquina bateu contra o metal, e as outras recuaram para contornar os destroços.
 
 Miranda tentou rir, sem ar.
 
-— Estão esperando a gente chegar.
+— Isso não segura elas.
 
-Gabo procurou no escuro a placa seguinte. A seta apontava para a represa; na tampa da passagem, o trinco se abriu sozinho.
+Gabo procurou no escuro a placa seguinte. A seta apontava para a represa. Travou o canivete na folga da tampa e forçou o trinco até ele ceder. Atrás, os rotores já procuravam um caminho entre os canos caídos.

@@ -73,7 +73,7 @@ Deixei o copo no chão.
 
 — A Bia descobriu, — Elena disse. Não era pergunta.
 
-— A Bia era boa. Boa de verdade, não boa de discurso. — Fechei os olhos. — Ela pegou o inquérito nove anos depois, num arquivamento de rotina, e viu que a data do laudo de sangue era anterior à data da apreensão da faca. Um erro de dois dias que ninguém nunca ia notar, porque ninguém lê inquérito arquivado.
+— A Bia era boa. Boa de verdade, não boa de discurso. — Fechei os olhos. — Ela pegou o inquérito nove anos depois, num arquivamento de rotina, e viu que o laudo de exame da faca tinha sido registrado dois dias antes da apreensão oficial dela. Um erro de dois dias que ninguém nunca ia notar, porque ninguém lê inquérito arquivado.
 
 — Ela te confrontou.
 
@@ -93,7 +93,7 @@ Deixei o copo no chão.
 
 Olhei para a Elena.
 
-— Não foi. O que quebrou foi ela ter morrido antes de eu ter a chance de fazer a coisa certa. enquanto ela estava viva, eu adiava para um dia em que ela fosse comigo. Quando ela morreu, eu usei a morte dela como desculpa para continuar calado. E aí eu tive que virar o cara que estava certo, para sempre, porque a alternativa era ser o cara que perdeu a mulher e mentiu.
+— Não foi. O que quebrou foi ela ter morrido antes de eu ter a chance de fazer a coisa certa. Enquanto ela estava viva, eu adiava para um dia em que ela fosse comigo. Quando ela morreu, eu usei a morte dela como desculpa para continuar calado. E aí eu tive que virar o cara que estava certo, para sempre, porque a alternativa era ser o cara que perdeu a mulher e mentiu.
 
 ---
 

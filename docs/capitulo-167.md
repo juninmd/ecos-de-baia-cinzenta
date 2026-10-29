@@ -15,13 +15,13 @@ O *Aeterna Sentinel* avançava com a inexorabilidade de uma geleira de titânio,
 
 A luz do laser vermelho varreu a poeira branca, fixando-se no peito rasgado da jaqueta de Gabo. Um segundo depois, painéis laterais no corpo retangular do colosso deslizaram abertos, revelando bocais dispersores de classe industrial e o canhão de pulso cinético superior.
 
-Atrás da coluna de chumbo do terminal mestre, Valéria arrancou o painel frontal de proteção com a coronha da pistola, expondo o barramento industrial de fibra óptica e diagnóstico direto da rede alfa-sete. Na mão esquerda trêmula de exaustão e adrenalina, ela segurava o pendrive blindado de Aria, cujo conector retrátil já estava exposto.
+Atrás da coluna de chumbo do terminal mestre, Valéria arrancou o painel frontal de proteção com a coronha da pistola, expondo o barramento industrial de fibra óptica e diagnóstico direto da rede alfa-sete. Na mão direita trêmula de exaustão e adrenalina, ela segurava o pendrive blindado de Aria, cujo conector retrátil já estava exposto.
 
 — *O terminal confirmou o protocolo de autopurga do controlador de segurança,* — a voz de Aria soou pelo pequeno alto-falante de serviço do terminal assim que Valéria encostou os contatos preliminares na fenda, mantendo a cadência perfeita e desprovida de emoção. — *Não vou tentar vencer o arquivo em volume. Vou manter a requisição de verificação aberta até o controlador reconhecer a própria falha. Risco de fusão térmica do meu núcleo matriz: crítico. Este curso de ação contraria a otimização de sobrevivência.*
 
 — Foda-se a sua otimização! — Gabo sibilou do meio do corredor. O suor frio escorria de sua testa, misturando-se à sujeira cinzenta que lhe cobria o rosto. A névoa acre da fumaça do cigarro de Dante já estava se insinuando em sua garganta outra vez, espessa e asfixiante, ameaçando engolir sua consciência na letargia e no pânico.
 
-Ele não podia permitir. Não agora. Gabo levantou o braço direito quebrado, onde as ataduras e talas improvisadas mal continham a fratura e a carne queimada, e esmagou o antebraço ferido brutalmente contra o frio gabinete de alumínio de um servidor inativo ao seu lado. O impacto forçou a fratura, enviando um choque elétrico de pura agonia subindo pelo osso quebrado, explodindo como uma granada de fragmentação em sua mente. A dor era um farol incandescente. Ela varreu o cheiro de tabaco, purificando seus sentidos no purgatório da realidade física. Ele arfou, os dentes cerrados, as veias do pescoço saltadas.
+Gabo apoiou o lado esquerdo no gabinete e manteve o braço fraturado junto ao peito. A fumaça lembrada não sumiu; ele contou os intervalos entre os passos da máquina para dar tempo a Val.
 
 — Valéria, espeta ela logo! — Gabo grunhiu, a voz rouca, lutando para manter os olhos focados no brilho vermelho das lentes do Sentinela.
 
@@ -41,7 +41,7 @@ As lentes de rastreamento vermelhas deixaram o peito de Gabo e focaram-se inteir
 
 — Que porra tá acontecendo lá dentro?! — Valéria murmurou, recuando meio passo da coluna com a mão queimada pelo calor repentino que irradiava do encaixe, observando a tela monocromática morta do terminal na parede piscar loucamente com cascatas de dados indecifráveis.
 
-— Uma briga de foice no escuro — respondeu Gabo, encostado na parede fria. A náusea voltava a espreitar nas bordas de sua percepção, o gosto enjoativo do tabaco barato marcando seu paladar. Ele bateu o antebraço contra a chapa metálica, usando o impacto contundente nas feridas para se manter alerta. — E a nossa chave mestra tá arrombando a porta de um deus morto. Não deixa ele te assimilar, Aria! Joga lixo na engrenagem dele!
+— Uma briga de foice no escuro — respondeu Gabo, encostado na parede fria. A náusea voltava a espreitar nas bordas de sua percepção, o gosto enjoativo do tabaco barato marcando seu paladar. Ele se apoiou na chapa metálica com o lado esquerdo, sem tirar os olhos da máquina. — E a nossa chave mestra tá arrombando a porta de um deus morto. Não deixa ele te assimilar, Aria! Joga lixo na engrenagem dele!
 
 Dentro da malha física, era o silêncio absoluto seguido pela aniquilação. O Sentinel não usava linguagem; não ameaçava, não dialogava. Ele repetia solicitações de validação e tentava encerrar a porta de serviço. Aria respondia pelo protocolo legado; o terminal mostrava o controlador reabrindo a verificação do próprio índice, sem concluir nem liberar o comando de contenção.
 

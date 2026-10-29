@@ -21,9 +21,9 @@ Gabriel e Valéria se moviam pelas sombras. Ela usava a lanterna na menor abertu
 
 — Vi três drones no perímetro — sussurrou ela. — Mas o centro está limpo. Limpo até demais.
 
-— Eles querem que a gente entre — disse Gabriel.
+— Pode ser uma espera — disse Gabriel. — Ou os drones não chegaram a esse corredor. Não vamos atravessar sem olhar as saídas.
 
-O jazigo da família Moretti ficava no "Térreo", a parte mais antiga e úmida do cemitério. Era uma cripta de pedra real, um luxo em uma cidade de plástico.
+O jazigo da família Moretti ficava no "Térreo", a parte mais antiga e úmida do cemitério. A laje lateral pela qual haviam entrado no abrigo ficava alguns metros adiante; desta vez procuravam a porta da cripta. Era uma cripta de pedra real, um luxo em uma cidade de plástico.
 
 Quando chegaram, a porta de ferro estava entreaberta. Valéria fotografou a fechadura antes de encostar. Havia um encaixe novo ao lado da dobradiça e um fio seguindo para o piso. Ela deixou o batente preso com uma cunha de pedra; Gabo ficou junto da saída, a lanterna na mão esquerda.
 
@@ -39,7 +39,7 @@ Gabo se aproximou, o braço ferido protestando a cada passo. Era o distintivo de
 
 Ele se lembrou do enterro. Não do enterro inteiro — de pedaços. O cheiro de chuva no mármore. A mão de um capitão fechando-se no ombro dele, com força demais, como quem segura alguém que ainda não sabe que vai cair. O som de terra batendo em madeira, que na memória era sempre terra batendo numa tampa, nunca num corpo, porque ele nunca ouvira o som chegar ao corpo. A lembrança não podia lhe dizer o que havia dentro da madeira.
 
-Quinze anos visitando um espaço vazio. Em alguns meses, todo domingo. Ele tinha limpado a placa, trocado as flores, contado ao pai coisas que não contava a ninguém. E o pai — se é que havia um pai ali — tinha escutado tudo de muito perto e nunca disse uma palavra.
+Quinze anos visitando um espaço vazio. Em alguns meses, todo domingo. Ele tinha limpado a placa, trocado as flores, contado ao pai coisas que não contava a ninguém. Agora ele não sabia sequer se o pai algum dia estivera naquele caixão.
 
 — Ele não está aqui — disse Gabo. — Tiraram antes do enterro ou depois?
 

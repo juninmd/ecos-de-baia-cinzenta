@@ -1,6 +1,7 @@
 ---
 image: /capitulo_101.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Roberto Miranda, Silas Vance ("O Jardineiro"), Dante Moretti
+Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Roberto Miranda e protótipos
+Participação em referência: Silas Vance, Dante Moretti
 Localização: 'Zona de Exclusão Sul - Subsolo do "Berçário"'
 ---
 # Capítulo 101: Ressonância
@@ -16,7 +17,7 @@ Gabo tentou recuar, mas suas pernas não responderam com a agilidade necessária
 
 Mais três daquelas coisas — os "Protótipos", como Elena os chamara — surgiram por trás dos tanques de cultivo. Eram pesadelos anatômicos: torsos humanos fundidos a membros alongados e articulados de forma errada, reforçados por pistões hidráulicos enferrujados que pareciam ter crescido de dentro dos ossos.
 
-— Eles são cegos! — percebeu Gabo, vendo como as criaturas moviam as cabeças sem rosto, guiando-se pelo som. — Eles seguem os estalos das travas das minhas pernas!
+— Parecem seguir os estalos das minhas travas! — gritou Gabo, vendo as criaturas virarem as cabeças sem rosto a cada passo. — Não sei se conseguem enxergar!
 
 — Então pare de se mexer e atire! — retrucou Elena.
 
@@ -44,7 +45,7 @@ As criaturas pararam instantaneamente, como marionetes que tiveram as cordas cor
 
 — Merda... — sussurrou ele.
 
-O cubo em sua mão ficou quente, quase insuportável. Ele estava emitindo um sinal. Um pedido de *upload*.
+O cubo em sua mão ficou quente, quase insuportável. A luz acompanhava as pulsações do coração. Gabo não sabia que informação o objeto estava transmitindo.
 
 — Gabo, agora! — Elena já estava na escotilha, girando a manivela enferrujada.
 
@@ -72,17 +73,17 @@ Eles estavam em um corredor estreito, iluminado por luzes de emergência vermelh
 
 — Uma coroa? — Gabo guardou o objeto, sentindo que estava carregando material radioativo.
 
-— Aquele coração lá fora... é a unidade central de processamento biológico. O "Gênesis". Mas ele precisa de um comando. O cubo contém a assinatura neural do administrador.
+— O caderno chama o coração de unidade central. Associa um perfil de administrador ao receptáculo marcado com o número 001. A reação ao cubo sugere uma ligação, mas não sei o que ele contém.
 
 — Silas Vance? — arriscou Gabo.
 
-— Não — Elena se levantou, ajudando-o a ficar de pé. — Silas é apenas o jardineiro. A assinatura é mais antiga. É do seu pai, Gabo. É do Dante.
+— O perfil 001 leva o nome do seu pai. — Elena se levantou e ajudou-o a ficar de pé. — Silas pode ter usado o nome ou uma cópia. Não posso provar mais do que está no caderno.
 
 Gabo sentiu um calafrio que nada tinha a ver com a temperatura fria do corredor.
 
 — Dante está morto, Elena. Eu vi o corpo.
 
-— O corpo morreu — concordou ela, começando a andar pelo corredor. — Mas a Aeterna fez um backup. E agora, parece que o backup quer o corpo de volta. Ou melhor... ele quer construir um novo.
+— O corpo morreu — concordou ela, começando a andar pelo corredor. — A Aeterna guardou registros dele. Alguém pode estar tentando colocá-los num corpo novo. Isso não diz o que essa cópia quer.
 
 Eles caminharam em silêncio por alguns minutos, o som distante dos golpes na porta ficando para trás. O corredor parecia se estender infinitamente, descendo ainda mais nas entranhas da terra.
 
@@ -108,7 +109,7 @@ Gabo reconheceu a voz imediatamente. Era a voz de um fantasma. Ou de alguém que
 
 — Roberto — rosnou Gabo, sua mão indo instintivamente para o revólver.
 
-Roberto Miranda. O homem que matara Bia. O homem que Gabo deixara vivo no Hub e cuja voz voltara pelo rádio. Não tinha visto quem o recolheu.
+Roberto Miranda. O homem que Gabo vira afastar-se do beco onde Bia morreu, e que negara ter atirado. Ele o deixara vivo no Hub; a voz voltara pelo rádio, mas ninguém vira quem o recolheu.
 
 — *Gabo, meu velho amigo* — a voz continuou, destilando ironia. — *Vejo que você ainda não largou o hábito de se meter onde não é chamado. E vejo que trouxe visitas. Elena... sempre a pedra no sapato da família.*
 
@@ -116,7 +117,7 @@ Roberto Miranda. O homem que matara Bia. O homem que Gabo deixara vivo no Hub e 
 
 — *Vivo é uma palavra forte* — respondeu a voz, ecoando por todos os lados. — *Digamos que fui... reciclado. O Projeto Gênesis não desperdiça recursos. Principalmente recursos com talentos táticos.*
 
-O corredor à frente deles se iluminou. Uma porta se abriu no final, revelando uma sala de controle cheia de monitores. E no centro, sentado em uma cadeira que parecia feita de carne e fios, estava uma figura.
+O corredor à frente deles se iluminou. Uma porta se abriu no final, revelando uma sala de controle cheia de monitores. Elena apontou a folha da planta: o registro seguinte da fila de Elara ficava naquele terminal. No centro, sentado numa cadeira feita de carne e fios, estava uma figura.
 
 Não era mais Roberto Miranda. Pelo menos, não inteiramente. Metade de seu rosto era o de sempre, o sorriso cínico intacto. A outra metade era uma massa de sensores óticos e pele sintética translúcida. Seu corpo estava conectado à cadeira, fundido a ela.
 

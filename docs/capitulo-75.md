@@ -30,7 +30,7 @@ A parede sul tinha ido embora. Isso dava ao lugar uma vista excelente e uma corr
 
 Havia gente na rua desde as cinco. Não fugindo, não saqueando: **limpando**. Mutirões espontâneos com pá, carrinho de mão e balde, empurrando lama para fora dos comércios, tirando móvel arruinado das casas, empilhando na esquina o que ia virar aterro e o que ia virar madeira de novo.
 
-Não havia polícia corporativa. Não havia drone. Não havia sirene. Numa esquina, alguém tinha montado uma mesa com uma placa escrita a mão: **ÁGUA POTÁVEL — PEGA A SUA**. Não havia ninguém tomando conta da mesa.
+Daquela janela ele não via polícia corporativa nem drone, e não ouvia sirene. Numa esquina, alguém tinha montado uma mesa com uma placa escrita a mão: **ÁGUA POTÁVEL — PEGA A SUA**. Não havia ninguém tomando conta da mesa.
 
 Gabo ficou olhando aquilo por vinte minutos, esperando alguém roubar os galões, e ninguém roubou, e ele descobriu que aquilo o incomodava.
 
@@ -78,7 +78,7 @@ Gabo tomou mais um gole.
 
 — Quanto tempo até tentarem tomar de volta? — perguntou ele.
 
-— Anos. — Val deu de ombros. — A Aeterna declarou falência na terça e abandonou a operação local. O Consórcio Lázaro está sendo investigado em três tribunais internacionais, e é por causa daquele cartucho de fita que a Elena levou embaixo do braço num caminhão de carga, não por causa de nada que a gente fez com arma na mão. Anota isso em algum lugar.
+— Não sei. — Val virou o deck para ele. — Houve uma comunicação de suspensão da operação local da Aeterna. Não prova que o grupo inteiro acabou. Elena confirmou que entregou cópias dos documentos a jornalistas fora da cidade; ainda não temos confirmação de processo ou sentença. Anota isso em algum lugar.
 
 — Eu anotei.
 
@@ -102,7 +102,7 @@ Gabo tomou o resto do café.
 
 — Tem?
 
-— Tem trinta e nove mil processos naquele porão. — Ele apontou vagamente para o norte. — Tem gente que sumiu em quarenta e um e nunca teve laudo. Tem duzentas e catorze pessoas que morreram na Orla Norte e que ninguém contou direito. Tem uma senhora chamada Dilma Farias que morreu no quarto andar de um prédio da Rua Quatro esperando um médico que eu prometi mandar.
+— Tem trinta e nove mil processos naquele porão. — Ele apontou vagamente para o norte. — Tem gente que sumiu em quarenta e um e nunca teve laudo. Tem Damião Reis e gente que morreu no cerco da delegacia e ainda precisa ser identificada. Tem uma senhora chamada Dilma Farias que morreu no quarto andar de um prédio da Rua Quatro esperando um médico que eu prometi mandar.
 
 Ele parou.
 
@@ -128,10 +128,7 @@ Ela ainda estava lá, torta, apoiada nos ombros dos vizinhos, com metade da fach
 
 No topo da antena mais alta, uma luz vermelha piscava. Não no ritmo do sinalizador aeronáutico, que é regular e chato. Em blocos.
 
-Ponto. Traço. Ponto.
-Pausa.
-
-Traço. Ponto. Traço. Ponto.
+Ponto. Pausa. Traço-ponto-traço-ponto. Pausa. Três traços. Pausa. Três pontos.
 Gabo tinha aprendido código Morse aos onze anos, num acampamento, com um pai que achava que todo homem devia saber pedir socorro sem depender de energia elétrica.
 
 `E-C-O-S`

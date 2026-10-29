@@ -35,7 +35,7 @@ Valéria não perdeu tempo com o espanto estético. Caminhou em passos rápidos 
 
 — Interface física arcaica, padrão serial da década de setenta, — murmurou ela, tirando um adaptador de pinos dourados da bolsa do cyberdeck e engatando na porta de diagnóstico com um clique limpo. — Deixa eu ver o que esse silêncio todo tá escondendo.
 
-Sentei-me no chão ao lado de uma coluna de dados, esticando a perna esquerda para que a órtese emperrada pudesse esfriar. O ombro direito latejava no compasso do meu coração; a tração na válvula externa na subida anterior quase arrebentara os pinos que Vasco instalara para conter a fratura. Meus músculos estavam sangrando sob as bandagens sujas, manchando a sarja do casaco, mas o calor limpo da sala ajudava a relaxar a musculatura retesada pelo frio de amônia. As cicatrizes do Dilúvio formigavam, um mapa sensorial de todas as vezes em que Baía Cinzenta tentara me matar.
+Sentei-me no chão ao lado de uma coluna de dados, esticando a perna direita para que a órtese emperrada pudesse esfriar. O ombro direito latejava no compasso do meu coração; a tração na válvula externa na subida anterior quase arrebentara os pinos que Vasco instalara para conter a fratura. Meus músculos estavam sangrando sob as bandagens sujas, manchando a sarja do casaco, mas o calor limpo da sala ajudava a relaxar a musculatura retesada pelo frio de amônia. As cicatrizes do Dilúvio formigavam, um mapa sensorial de todas as vezes em que Baía Cinzenta tentara me matar.
 
 — O que você tá achando aí dentro, Val? — perguntei, observando as linhas de código que desciam em cascatas luminosas pelas ópticas dos olhos prateados dela.
 
@@ -51,7 +51,7 @@ Elias aproximou-se, debruçando-se sobre o ombro dela para enxergar o monitor fo
 
 — Vinte e dois? Foi o ano da fundação do Distrito de Prata e dos primeiros aterros do cais...
 
-— Exatamente, garoto, — Valéria continuou, os dedos voando pelas teclas do console enquanto decodificava partições protegidas. — E olha o isolamento físico desse hub. A Praga de Ferro e o Jardim não chegaram aqui por um motivo muito simples: este nó foi **amputado** da rede central de propósito. Quatro linhas principais de fibra óptica e dutos de energia foram cortados a maçarico logo após o colapso inicial, e as pontas foram seladas com resina estrutural.
+— Exatamente, garoto, — Valéria continuou, os dedos voando pelas teclas do console enquanto decodificava partições protegidas. — E olha o isolamento físico desse hub. As linhas principais deste nó foram **cortadas**. Ainda não sei se isso explica a ausência da Praga e do Jardim. Quatro linhas principais de fibra óptica e dutos de energia foram cortados a maçarico logo após o colapso inicial, e as pontas foram seladas com resina estrutural.
 
 — Alguém desceu até aqui no meio da carnificina só pra trancar esse lugar? — perguntei.
 

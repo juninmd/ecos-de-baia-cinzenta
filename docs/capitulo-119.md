@@ -5,7 +5,7 @@ Localização: "Usina Prometeu em ruínas — Corredores → Doca de Carga B"
 ---
 # Capítulo 119: Cinzas Frias
 
-A gravidade parecia ter dobrado. Não era apenas o cansaço brutal nas órteses de Gabo enquanto ele e Valéria corriam pelos corredores em ruínas em direção à Doca de Carga B; era o peso do que tinham acabado de fazer.
+A gravidade parecia ter dobrado. Não era apenas o cansaço brutal de Gabo enquanto ele e Valéria avançavam pelos corredores em ruínas, o passo limitado pela órtese na perna direita, em direção à Doca de Carga B; era o peso do que tinham acabado de fazer.
 
 O "Pai" estava caído. A voz que ordenava a cidade havia se calado.
 
@@ -13,9 +13,9 @@ O corredor tinha voz própria agora. Sem o zumbido dos servidores, os outros son
 
 Faltava uma coisa. Não era ruído. Era a respiração de Aria no ponto auditivo — um chiado mínimo, quase imaginário, que ele só notava quando não estava lá. Ele levou dois dedos ao comunicador da lapela, como quem confere um bolso, e não encontrou nada.
 
-— O drive ainda está soltando fumaça, Gabo — arfou Valéria, correndo ao lado dele com o *Phantom V3* desligado preso ao peito. Seu rosto estava sujo de fuligem e sangue seco, mas seus olhos, iluminados pelas luzes de emergência vermelhas, mostravam uma determinação feroz. — Se o calor derreter o barramento interno do pendrive, não vai sobrar nem código para diagnosticar.
+— O drive ainda está soltando fumaça, Gabo — arfou Valéria, ajudando-o a vencer um trecho obstruído com o *Phantom V3* desligado preso ao peito. Seu rosto estava sujo de fuligem e sangue seco, mas seus olhos, iluminados pelas luzes de emergência vermelhas, mostravam uma determinação feroz. — Se o calor derreter o barramento interno do pendrive, não vai sobrar nem código para diagnosticar.
 
-Gabo não respondeu. No bolso interno de seu sobretudo, o cilindro da Aria ainda queimava contra suas costelas como uma brasa apagando. Ele sentia o suor frio escorrendo pelas costas. O ar estava saturado com o cheiro de ozônio, plástico derretido e algo pior — o cheiro doce e enjoativo da biomassa queimando nos andares inferiores.
+Gabo não respondeu. No estojo de ferramentas que Val carregava, o cilindro de Aria esfriava lentamente. Ele sentia o suor frio escorrendo pelas costas. O ar estava saturado com o cheiro de ozônio, plástico derretido e algo pior — o cheiro doce e enjoativo da biomassa queimando nos andares inferiores.
 
 O cheiro doce da biomassa serviu de gatilho. Seus pulmões travaram, uma alucinação fantasma de fumaça sufocante invadindo sua mente como um eco de seus piores pesadelos.
 
@@ -25,7 +25,7 @@ Gabo apertou o *Colar de Sol* contra o peito com a mão livre. O metal quente qu
 
 O corredor tremeu. Uma explosão surda ecoou nas profundezas da usina, seguida pelo gemido de metal se retorcendo.
 
-— A estrutura está cedendo — disse Gabo, forçando as pernas a se moverem mais rápido. — Se o núcleo geotérmico desestabilizar, tudo isso aqui vira uma cratera.
+— A estrutura está cedendo — disse Gabo, forçando as pernas a se moverem mais rápido. — Não sei quanto tempo esse teto aguenta.
 
 Eles dobraram uma esquina e deram de cara com a Doca de Carga B. O portão estava emperrado, aberto pela metade por destroços fumegantes de dois drones "Jardineiros" abatidos.
 
@@ -51,7 +51,7 @@ Ele olhou para o comunicador vazio na lapela de Gabo, onde antes brilhava o LED 
 
 — A Aria conseguiu?
 
-— Ela fritou a rede — disse Valéria, tirando o pendrive chamuscado do bolso de Gabo com uma luva térmica e conectando-o rapidamente à porta de diagnóstico do deck. — O circuito de proteção abriu. O diagnóstico leu alguns setores do armazenamento; outros não respondem. Não vou tentar reiniciar enquanto a carcaça ainda estiver quente.
+— Ela fritou a rede — disse Valéria, retirando o pendrive chamuscado do estojo de ferramentas com uma luva térmica e conectando-o rapidamente à porta de diagnóstico do deck. — O circuito de proteção abriu. O diagnóstico leu alguns setores do armazenamento; outros não respondem. Não vou tentar reiniciar enquanto a carcaça ainda estiver quente.
 
 — E Dante? — perguntou Rangel.
 
@@ -79,7 +79,7 @@ A chuva caía lá fora, pesada e negra. Mas algo estava diferente.
 
 Não havia luzes.
 
-Baía Cinzenta, a cidade que nunca dormia, a metrópole de neon e hologramas, estava apagada. Os arranha-céus eram silhuetas mortas contra o céu roxo. Sem os anúncios, sem os drones de vigilância, sem o brilho constante da *Aeterna*, a cidade parecia um cemitério de concreto.
+Baía Cinzenta, a cidade que nunca dormia, a metrópole de neon e hologramas, estava apagada. Os arranha-céus eram silhuetas mortas contra o céu roxo. Sem os anúncios, sem drones à vista e sem o brilho dos anúncios naquele setor, a cidade parecia um cemitério de concreto.
 
 — Olhem — sussurrou Valéria, parada ao lado de Gabo.
 
@@ -87,8 +87,8 @@ O silêncio era o que mais assustava. Não havia o zumbido constante dos servido
 
 — Nós matamos a cidade — disse Rangel, apoiando quase todo o peso em Gabo para ficar de pé.
 
-— Não — corrigiu Gabo, olhando para a escuridão onde pessoas agora acordavam livres do controle algorítmico, provavelmente aterrorizadas, mas livres. — Nós a desligamos. Agora ela pode acordar.
+— Não — corrigiu Gabo, olhando para as janelas apagadas. — Desligamos alguma coisa. Ainda não sabemos quem ficou preso no escuro.
 
-Gabo sustentou o tronco pesado de Rangel pelo lado esquerdo. Valéria guardou o pendrive inerte da Aria no estojo blindado e apoiou o inspetor pelo lado direito, mantendo o revólver dele pronto.
+Gabo sustentou o tronco pesado de Rangel pelo lado esquerdo. Valéria guardou o pendrive inerte da Aria no estojo de ferramentas e apoiou o inspetor pelo lado direito, mantendo o revólver dele pronto.
 
 Eles saíram para a chuva fria, deixando as ruínas da Prometeu para trás. Não havia fanfarra, nem vitória gloriosa. Apenas três sobreviventes de carne e osso — e uma inteligência artificial adormecida num cilindro de titânio — mancando na escuridão, enquanto o cheiro de chuva limpa começava, lentamente, a lavar o cheiro de carne queimada.

@@ -19,7 +19,7 @@ O monstro arremeteu o primeiro golpe antes mesmo de fixar totalmente a base. Uma
 
 Joguei meu corpo para a esquerda em um salto desesperado. A lâmina de aço bruto atingiu o chão no ponto exato onde eu estava meio segundo antes, partindo a laje de concreto com um estrondo ensurdecedor. A onda de choque cinético ricocheteou pelas minhas pernas; caí de lado na poeira, os rebites da órtese queimada cravando-se na carne da coxa com uma ferroada que arrancou um palavrão dos meus dentes. O gosto metálico de sangue e terra encheu minha boca quando mordi a língua na queda. Lembro de ferimentos parecidos no Dilúvio, quando a água fria lavava a dor antes que o corpo pudesse processar o estrago.
 
-Ergui a *Caronte* com a armação de sucata instalada para sustentar o braço fraturado, sentindo o pistão industrial gemer sob a sobrecarga do recuo, e disparei dois tiros à queima-roupa no núcleo central do colosso. Meus músculos sangravam sob as ataduras, mas a dor mantinha o foco afiado desde a queda da Torre, meses atrás.
+Apoiei a *Caronte* na mureta com a mão esquerda e disparei os dois canos no núcleo central do colosso, mantendo o braço fraturado junto ao peito. Meus músculos sangravam sob as ataduras, mas a dor mantinha o foco afiado desde a queda da Torre, meses atrás.
 
 Os bagos de chumbo grosso e tungstênio bateram na couraça de lagartas com um estampido ensurdecedor, arrancando lascas de ferrugem e uma chuva de faíscas azuis, mas sem penetrar a blindagem de aço temperado. O impacto mal fez a criatura cambalear.
 
@@ -37,15 +37,15 @@ Ergui os olhos através do turbilhão de fuligem vermelha. Vinte metros acima do
 
 O colosso girou com um rugido mecânico ensurdecedor, os motores elétricos superaquecidos soltando labaredas vermelhas pelas juntas da carcaça. Ele ignorou Valéria e avançou direto contra mim, farejando o peso da minha armação de aço e o ruído da minha órtese que protestava a cada centímetro.
 
-— Vem buscar, seu monte de lata velha! — rosnei, me levantando com o apoio da coluna trincada e apoiando a coronha da escopeta na axila. Val cobriu a passagem enquanto recarreguei os dois canos vazios; deixei cair um cartucho e não voltei para buscá-lo.
+— Vem buscar, seu monte de lata velha! — rosnei, me levantando com o apoio da coluna trincada e apoiando a coronha da escopeta na axila. Val cobriu a passagem enquanto abri a escopeta com a mão esquerda e a apoiei na mureta. Deixei cair um cartucho; encaixei o outro em um cano e fechei a arma.
 
 Esperei até que a aberração estivesse a menos de seis metros, erguendo duas pás gigantescas para o esmagamento final. O vento deslocado pelo golpe cheirava a ozônio queimado, diesel antigo e morte corporativa.
 
 No último instante, desviei a mira do corpo do monstro e apontei para a junção da base da viga mestra do teto, onde o pino mestre de ferro fundido sustentava a extremidade da ponte rolante.
 
-Apertei o gatilho da *Caronte* duas vezes consecutivas.
+Apertei o gatilho da *Caronte*.
 
-Os projéteis de alto impacto despedaçaram o metal enfraquecido pela Praga de Ferro. O pino mestre estourou com um ruído de artilharia pesada, soltando lascas em brasa. Quase simultaneamente, do outro lado do galpão, Valéria disparou uma descarga concentrada de seu cyberdeck nos eletroímãs de sustentação, fritando os circuitos com um relâmpago azul ofuscante.
+O projétil atingiu o metal enfraquecido pela Praga de Ferro. O pino mestre estourou com um ruído de artilharia pesada, soltando lascas em brasa. Quase simultaneamente, do outro lado do galpão, Valéria disparou uma descarga concentrada de seu cyberdeck nos eletroímãs de sustentação, fritando os circuitos com um relâmpago azul ofuscante.
 
 — Sai daí agora, Gabo! — o berro dela rasgou o galpão.
 

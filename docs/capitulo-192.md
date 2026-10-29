@@ -17,9 +17,9 @@ A escada de emergência de ferro fundido tremia sob as vibrações das explosõe
 
 — Não para, Gabo! — a voz de Valéria ecoou cinco degraus acima de mim, rouca e tossindo pela fumaça química. Os filamentos de LED azul na franja curta dela brilhavam através da névoa cinzenta como vaga-lumes cortando uma tempestade de cinzas. — A onda de sobrepressão vai subir por esse tubo em menos de um minuto! Se a gente estiver no meio da chaminé quando o gás pegar fogo, o ar quente derrete a carne dos nossos ossos!
 
-— A minha perna tá derrapando na fuligem — rosnei, cravando a mão de carne no degrau áspero e oxidado enquanto o braço mecânico dava o impulso pesado para erguer meus noventa quilos para o próximo nível.
+— A minha perna tá derrapando na fuligem — rosnei, cravando a mão de carne no degrau áspero e oxidado enquanto apoiava a bota na travessa seguinte. A armação sustentava o braço fraturado, mas não podia me içar.
 
-O ferro da escada estava escaldante, transferindo calor através do couro gasto das minhas luvas. A cada degrau conquistado, os pregos neurais cravados no meu osso latejavam com o esforço do contrapeso mecânico, mas eu mantinha a cadência fixa, recusando-me a olhar para o abismo de chamas que lambia as paredes do poço.
+O ferro da escada estava escaldante, transferindo calor através do couro gasto das minhas luvas. A cada degrau conquistado, o fixador no meu braço latejava com o deslocamento do arnês, mas eu mantinha a cadência fixa, recusando-me a olhar para o abismo de chamas que lambia as paredes do poço.
 
 Valéria estendeu a mão enluvada para baixo, engatando os dedos no colarinho do meu sobretudo rasgado para me ajudar a vencer o desnível de uma viga torcida pelo calor.
 
@@ -35,7 +35,7 @@ Valéria correu até a caixa de comando manual, puxando a tampa de proteção co
 
 — As travas de alívio tão soldadas pela fuligem! — ela gritou, os olhos prateados analisando as cavilhas de travamento hidráulico emperradas no batente. — O relé térmico desligou o motor elétrico! A gente precisa romper os pinos mecânicos de retenção na força bruta antes que o fogo alcance a base dessa plataforma!
 
-Olhei para baixo pelo vão da grade. Uma língua de fogo roxo e azul subia pelo fosso, consumindo os cabos de suspensão como pavios de dinamite. O ar estalava com a pressão crescente do metano confinado. Faltavam quinze segundos para a detonação final. Se a comporta não abrisse, morreríamos cozidos como ratos encurralados.
+Olhei para baixo pelo vão da grade. Uma língua de fogo roxo e azul subia pelo fosso, consumindo os cabos de suspensão como pavios de dinamite. O ar estalava com a pressão crescente do metano confinado. Não havia como saber quando a próxima explosão chegaria. Se a comporta não abrisse, morreríamos cozidos como ratos encurralados.
 
 — Afasta da soleira, Valéria!
 
@@ -67,7 +67,7 @@ Ela virou o rosto para mim, limpando uma mancha escura de fuligem da bochecha co
 
 — Você tem o pior estilo de demolição que eu já vi na minha vida, Moretti — ela murmurou, a voz trêmula de alívio e adrenalina. — Mas o Jardim... o Jardim virou cinza lá embaixo. O enlace desta colônia caiu. Não sei o que sobrou do outro lado, nem quem ainda conseguiríamos tirar de lá.
 
-Olhei para a minha mão de carne, ainda tremendo com o choque residual do esforço, e depois para o aço fosco da prótese, que esfriava lentamente com o toque da umidade do chão.
+Olhei para a minha mão de carne, ainda tremendo com o choque residual do esforço, e depois para o aço fosco da armação externa, que esfriava lentamente com o toque da umidade do chão.
 
 — A gente impediu aquele comando, Val. O resto vai continuar na conta.
 

@@ -132,18 +132,18 @@ Val acendeu a lanterna de emergência e as duas ficaram um tempo sem falar, sent
 
 — E se a gente desconectar o pendrive do berço?
 
-— Eu suspendo o processamento e preservo o armazenamento. Primeiro verifico o estado da gravação, depois corto a alimentação do berço. — Val olhou para ela. — Não sei quantos fragmentos vão acordar de novo. Mas não vou deixar esse cabo adoecer um homem porque tenho medo da resposta.
+— Posso suspender o processamento e preservar o armazenamento, mas não sei quantos fragmentos voltam. — Val olhou para o berço. — Aria, você aceita que eu verifique a gravação e interrompa a alimentação? O LED oscilou. — *Aceito a suspensão. Registre o que encontrar antes de me desligar.*
 
 ---
 
 Nise se levantou, com as duas mãos no joelho.
 
-— Então a gente resolve a cidade.
+— Então procuramos a causa dessas ondas.
 
 — A senhora está falando sério.
 
 — Valéria, eu tenho sessenta e cinco anos e é a terceira vez na vida que eu sou obrigada a escolher entre dois erros. — Ela pegou a prancheta. — Nas duas primeiras eu escolhi rápido e errei, e as duas ainda estão comigo. Nessa aqui eu vou fazer o que a medicina manda fazer quando não existe tratamento bom: eu vou tratar a causa.
 
-— A causa é uma esfera presa numa trama de raízes em cima de um parque.
+— A esfera pode estar ligada a elas. Eu consigo comparar os horários com os registros que ainda temos.
 
-— Então é essa que a gente cura. — Nise abriu a porta do bunker e a luz do corredor entrou. — Porque se a gente não curar a cidade a tempo, a sobrecarga na cabeça desse homem vai levar todo mundo junto, e eu não vou assinar mais um atestado com o sobrenome Moretti nesta vida.
+— Comece por aí. — Nise abriu a porta do bunker e a luz do corredor entrou. — Se as ondas continuarem, preciso saber o que tratar. E não vou assinar mais um atestado com o sobrenome Moretti sem tentar.

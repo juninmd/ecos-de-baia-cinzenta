@@ -9,13 +9,13 @@ Personagens Presentes: "Gabo Moretti, Valéria Cruz, Aria (Instável), Rangel (C
 
 A escuridão no Nível 5 não era apenas a ausência de luz; era uma substância. Tinha peso, cheiro e textura. Cheirava a calcário úmido, a séculos de água estagnada e a algo mais antigo, algo que a cidade moderna acima havia esquecido de propósito.
 
-Gabo sentiu o peso de Rangel aumentar a cada passo. O Inspetor, febril e com a respiração chiada, deslizava na prancha a cada desnível. A cinta puxava a armação de Gabo; ele precisava parar para que Val a firmasse. O exoesqueleto de Gabo gemia baixo, os servos hidráulicos lutando contra a gravidade e a ferrugem, um zumbido sincopado que parecia alto demais naquele silêncio sepulcral.
+Gabo sentiu o peso de Rangel aumentar a cada passo. O Inspetor, febril e com a respiração chiada, deslizava na prancha a cada desnível. A cinta puxava a armação de Gabo; ele precisava parar para que Val a firmasse. A órtese externa na perna de Gabo gemia baixo, os atuadores lutando contra a carga e a ferrugem, um zumbido sincopado que parecia alto demais naquele silêncio sepulcral.
 
 — Val — Gabo sussurrou, a voz arranhada. — Quanto falta para a cisterna principal?
 
 À frente, a silhueta pequena de Valéria era apenas um recorte contra o negrume, iluminada fracamente pelo brilho residual de seus implantes oculares e pelo LED âmbar do pendrive da Aria espetado em seu deck de pulso. Ela parou, consultando a tela que projetava apenas estática azulada.
 
-— O mapeamento sonar está cego aqui embaixo — ela respondeu, a tensão fazendo sua voz vibrar. — As paredes são muito densas. Absorvem tudo. Estamos navegando por eco e sorte.
+— O mapeamento sonar está cego aqui embaixo — ela respondeu, a tensão fazendo sua voz vibrar. — Os ecos voltam sobrepostos. Não consigo separar uma saída de outra com segurança. Estamos seguindo a planta e conferindo cada bifurcação.
 
 — Sorte nunca foi nosso forte.
 
@@ -29,9 +29,9 @@ No barramento do comunicador, o indicador luminoso pulsava em sincronia com os p
 
 — *O registro diz que alguém costumava vir aqui* — sussurrou a voz no fone dele, enquanto o laser de varredura do deck apontava para um arco de pedra que se erguia como a costela de um leviatã. — *Há uma anotação sobre fugir da escola e se esconder do satélite. Não consigo identificar o autor. Não vou atribuir isso a você.*
 
-Gabo fechou os olhos por um segundo. A memória era falsa. Bia e ele nunca desceram ao Nível 5 quando jovens; eles se conheceram na Academia de Polícia. Aquilo era uma alucinação algorítmica gerada pelo pendrive corrompido, misturando arquivos biográficos da polícia com fragmentos de sonhos dos Drenados.
+Gabo fechou os olhos por um segundo. Gabo não reconheceu a anotação. Bia e ele se conheceram na Academia de Polícia; o arquivo não dizia que os dois haviam descido ali.
 
-— Isso nunca aconteceu, Aria — Gabo rosnou para o microfone de lapela, ajustando Rangel nos ombros. — Economize o capacitor do drive. Fique em silêncio.
+— Isso nunca aconteceu, Aria — Gabo rosnou para o microfone de lapela, ajustando a cinta da prancha de Rangel. — Economize o capacitor do drive. Fique em silêncio.
 
 — Estou isolando a anotação — respondeu Aria. — Não há confirmação de que seja sua. Não a use como lembrança.
 
@@ -69,7 +69,7 @@ A náusea subiu pela garganta de Gabo. Ele queria arrancar o fone. Queria esmaga
 
 — Não — ele disse, a voz trêmula. — Não toque nada. Apenas... mantenha os sensores acústicos em varredura de perímetro. Por favor.
 
-O LED do pendrive piscou, o timbre de Bia falhando por um milissegundo para revelar a frieza do software por trás, antes de suavizar novamente.
+O LED do pendrive piscou. A voz de Aria voltou pelo canal que ela escolhera manter.
 
 — *Tudo bem, Gabo. Mantenho a escuta do perímetro.*
 
@@ -83,9 +83,9 @@ Valéria olhou para Gabo, os olhos cibernéticos cheios de preocupação.
 
 De repente, o LED do pendrive da Aria mudou de âmbar para azul-gelo e apitou duas vezes no comunicador.
 
-— *Movimento detectado* — anunciou Aria. A voz mudou. A modulação íntima sumiu, substituída por um timbre tático, plano e eficiente. — *Setor Norte. Distância: 150 metros. Aproximação rápida.*
+— *Movimento detectado* — anunciou Aria. A voz mudou. A modulação íntima sumiu, substituída por um timbre tático, plano e eficiente. — *Setor Norte. Sons de passos adiante. Aproximação rápida; não consigo medir a distância pelo eco.*
 
-Gabo estava de pé em um segundo, a dor nas pernas esquecida. Ele ergueu a *Caronte*, apontando para a escuridão além do círculo de luz vermelha.
+Gabo se levantou com apoio na coluna, a dor atravessando a perna direita. Ele ergueu a *Caronte*, apontando para a escuridão além do círculo de luz vermelha.
 
 — O quê? — ele sussurrou. — Drones?
 

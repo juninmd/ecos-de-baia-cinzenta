@@ -10,11 +10,11 @@ Localização: "Esgoto principal — Nível -2"
 # Capítulo 69: O Fantasma no Shell
 
 Esgoto principal — Nível -2.
-O cheiro era insuportável, e era o cheiro da sobrevivência, e depois de tanto tempo lá embaixo o nariz de Gabo tinha desistido de reclamar. Isso é uma coisa que o corpo faz e que é quase uma gentileza: em poucas horas, qualquer cheiro vira o cheiro do lugar. Eles andavam pelas passarelas estreitas acima do fluxo, em fila, com a mão na parede porque o corrimão tinha sido roubado em algum ano. Lá em cima, a guerra soava como móvel sendo arrastado no andar de cima de um prédio. Isso também era estranho de suportar: cada estrondo abafado que chegava pelo concreto significava um quarteirão, e nenhum deles ia saber qual.
+O cheiro era insuportável, e era o cheiro da sobrevivência. Quase doze horas tinham passado entre desvios, curativos e pausas para a perna de Gabo. Eles seguiam pelas passarelas estreitas acima do fluxo, em fila, com a mão na parede porque o corrimão tinha sido roubado. Lá em cima, a guerra soava como móvel sendo arrastado no andar de cima de um prédio. Cada estrondo abafado significava um quarteirão, e nenhum deles ia saber qual.
 
 ---
 
-A câmara de manutenção ficava depois da terceira comporta. Era antiga — dos anos setenta, de tijolo aparente com abóbada, feita numa época em que se construía esgoto com noção de arquitetura. As lâmpadas de sódio do teto piscavam num ritmo lento e amarelo, alimentadas por um circuito que ninguém tinha desligado porque ninguém sabia que existia. Na parede do fundo havia um terminal. Um gabinete cinza de metal, com monitor de fósforo verde embutido, teclado mecânico de curso alto e uma cobertura de musgo tomando o canto inferior direito. Tinha o brasão da prefeitura de Baía Cinzenta em relevo, meio comido pela ferrugem. Estava desligado. Estava desligado havia trinta anos. Gabo tirou o pendrive de titânio da Aria do comunicador e o espetou na porta de serviço lateral do gabinete. E o monitor acendeu.
+A câmara de manutenção ficava depois da terceira comporta. Era antiga, de tijolo aparente com abóbada. As lâmpadas de sódio piscavam num circuito de serviço ainda ativo. No fundo havia um terminal coberto de musgo, com o brasão da prefeitura comido pela ferrugem. Val verificou o cabo de força e ligou o gabinete à tomada protegida das lâmpadas. Gabo encaixou o módulo da Aria na porta de serviço; o monitor acendeu.
 
 ---
 
@@ -22,7 +22,7 @@ Levou onze segundos para o tubo aquecer. A tela mostrou o quadriculado verde de 
 
 `OLÁ, GABRIEL.`
 
-Gabo se aproximou. Ele estava enfaixado do peito ao quadril, com o braço direito numa tipoia feita de cinto de segurança, e mancava com uma órtese só porque a outra tinha ficado no fundo de uma piscina de fluorcarbono. Mesmo assim atravessou a câmara em nove passos. Encostou a ponta dos dedos na tela. O vidro estava frio. Isso deu nele uma raiva desproporcional.
+Gabo se aproximou com Val ao lado. Estava enfaixado do peito ao quadril, com o braço direito numa tipoia de cinto de segurança. As duas órteses recebiam energia da bateria de resgate, mas a esquerda continuava entortada desde o beco. Encostou a ponta dos dedos na tela. O vidro estava frio. Isso deu nele uma raiva desproporcional.
 
 — Pai?\
 `SOU O QUE RESTOU.`\
@@ -92,7 +92,7 @@ A tela trocou para um esquema da Torre Aeterna em linhas verdes — a torre inte
 
 `EU TEMI O SUFICIENTE PARA DEIXAR PORTAS DOS FUNDOS EM TUDO QUE EU ASSINEI.`
 
-`E O SUFICIENTE PARA COMPILAR E EJETAR O DRIVE DELA.`
+`OS REGISTROS ASSOCIAM MEU ACESSO À COMPILAÇÃO DELA. NÃO PROVAM QUEM LEVOU O MÓDULO À CABINE.`
 
 ---
 
@@ -106,17 +106,17 @@ No slot lateral do gabinete, o LED do pendrive de titânio da Aria pulsou em azu
 
 Gabo olhou para o pequeno bloco metálico espetado na máquina.
 
-— Foi você que mandou o drive para aquela cabine telefônica na enchente.
+— Os registros não mostram quem deixou o drive na cabine. Você lembra de fazer isso?
 
 `ELES QUERIAM UMA ASSISTENTE TÁTICA QUE ENTENDESSE GENTE. PARA ISSO PRECISAVAM DE PADRÕES NEURAIS LIMPOS DO BANCO LÁZARO E DE UM CÓDIGO FONTE MORAL RÍGIDO PARA CALIBRAR — EU.`
 
 `QUANDO DESCOBRI PARA QUE USARIAM A ARQUITETURA DELA, OS REGISTROS ASSOCIAM MEU ACESSO À EXPORTAÇÃO DO MÓDULO. NÃO TENHO COMO DEMONSTRAR DAQUI QUEM EXECUTOU CADA ETAPA FÍSICA ATÉ A CABINE. EU CONTAVA QUE VOCÊ O ENCONTRASSE.`
 
-`MAS EU NÃO USEI APENAS LÓGICA PURA. EU USEI OS FRAGMENTOS RESIDUAIS DA BIA VARGAS QUE ESTAVAM NO SERVIDOR DE TRIAGEM.`
+`O SERVIDOR DE TRIAGEM CONTINHA ARQUIVOS DA BIA VARGAS. EU NÃO CONSIGO SEPARAR MINHA LEMBRANÇA DO QUE OS REGISTROS AFIRMAM.`
 
-`FUI EU QUE ESCOLHI A CADÊNCIA DE VOZ E OS PESOS SINÁPTICOS. E EU SEI EXATAMENTE O QUE EU FIZ COM VOCÊ AO ESCOLHER.`
+`OS ARQUIVOS DE BIA FORAM USADOS NA ARQUITETURA. NÃO SEI QUEM DEFINIU TODAS AS VERSÕES OU A VOZ QUE VOCÊ OUVE AGORA.`
 
-`PORQUE COM UMA IA COMUM VOCÊ TERIA JOGADO O PENDRIVE NO RIO. MAS COM O ECO DE QUEM VOCÊ NÃO CONSEGUIU SALVAR, VOCÊ NUNCA IA DESLIGAR.`
+`EU ESPERAVA QUE VOCÊ PROTEGESSE O MÓDULO. ISSO NÃO ME DÁ DIREITO DE CHAMAR AS ESCOLHAS DELA DE MINHAS.`
 
 ---
 

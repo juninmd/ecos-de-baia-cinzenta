@@ -35,7 +35,7 @@ O homem era pequeno, esquelético, vestindo um macacão de manutenção da infra
 
 Valéria deu um passo calmo para o lado, a ponta da pistola apontando discretamente para o chão, com uma sobrancelha arqueada sob a franja azul.
 
-— Uma chave sônica com a bobina de retorno invertida? — a voz dela soou afiada, carregada de ironia técnica. — Truque esperto, mecânico. Pena que se você descarregar esse capacitor na água da sarjeta, a corrente volta pelo cabo terra da sua bota e frita o seu próprio coração antes de arranhar meu cyberdeck. Abaixa essa sucata.
+— Essa ferramenta pode atingir você também — disse Valéria, mantendo a pistola baixa. — Ninguém aqui quer testar a descarga na água. Abaixa a chave e vamos conversar.
 
 O homem piscou os olhos duas vezes, olhando da pistola de Valéria para a minha armação industrial de vinte quilos, que ainda fumegava com o calor residual do incêndio no data-center.
 
@@ -75,4 +75,4 @@ Valéria me olhou, os olhos prateados brilhando com uma satisfação tática evi
 
 Ajeitei o peso da armação de ferro, ouvindo as juntas chiarem com a pressão renovada.
 
-— Então pega suas ferramentas e vem com a gente, Elias — falei, dando um passo em direção à passagem. — A gente abre a válvula e você garante que a gente não se perca no escuro.
+— Então pega suas ferramentas e vem com a gente, Elias — falei, dando um passo em direção à passagem. — A gente abre a válvula junto. Você conhece o caminho melhor do que nós; decide se quer sair daqui com a gente.

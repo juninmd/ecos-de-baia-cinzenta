@@ -1,6 +1,7 @@
 ---
 image: /capitulo_117_pro.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Dante Moretti, Aria, Valéria "Val" Cruz, O Taxidermista, Inspetor Rangel
+Personagens Presentes: Gabriel "Gabo" Moretti, Dante Moretti, Aria, Valéria "Val" Cruz
+Participação por transmissão: O Taxidermista
 Localização: "Usina Geotérmica Prometeu — Núcleo de Resfriamento"
 ---
 # Capítulo 117: Zero Absoluto
@@ -63,14 +64,14 @@ Valéria piscou, sincronizando seus olhos cibernéticos com o coprocessamento do
 
 — Dois segundos. — Gabo engatilhou a arma. O som foi alto e metálico no silêncio. — É tudo o que eu preciso.
 
-No próximo intervalo, Gabo correu.
+No próximo intervalo, Gabo avançou apoiado na grade.
 
-Não foi uma corrida elegante. Suas pernas mecânicas, remendadas com sucata por Dante, rangiam e protestavam contra o frio, o metal contraindo mais rápido que a carne. A dor era uma lança de fogo em um mundo de gelo.
+Não foi uma corrida elegante. A órtese externa da perna direita rangia contra o frio; a cinta pressionava a ferida a cada passo. A dor era uma lança de fogo em um mundo de gelo.
 
 *Esquerda.* O jato passou a centímetros de seu ombro, congelando a manga do sobretudo.
-*Direita.* Ele deslizou, o joelho batendo no vidro, mas manteve o equilíbrio.
+*Direita.* Ele perdeu o apoio e bateu o joelho no vidro; agarrou a grade antes de cair.
 
-Ele viu a válvula principal na base do monólito. Uma roda de ferro manual, antiga, destoando da tecnologia ao redor. A redundância analógica que Rangel tanto pregava.
+Ele viu a junção do cano que alimentava os emissores, com uma etiqueta de manutenção vencida e corrosão sob o gelo.
 
 — *GABO, AGORA!* — gritou Valéria.
 
@@ -85,7 +86,7 @@ Gabo se levantou, ofegante. O cano da *Caronte* exalava vapor, o calor residual 
 
 — Caminho limpo — ele disse.
 
-Eles correram até o monólito. Valéria conectou o cabo extensor do *Phantom V3* ao painel de acesso, deixando o pendrive da Aria assumir a criptografia diretamente. Desta vez, a interface digital estava presente.
+Valéria alcançou Gabo e o ajudou a chegar ao monólito. Valéria conectou o cabo extensor do *Phantom V3* ao painel de acesso, deixando o pendrive da Aria assumir a criptografia diretamente. Desta vez, a interface digital estava presente.
 
 — *Desbloqueando matriz primária...* — O LED do pendrive da Aria piscou em alta frequência, derretendo os cristais de gelo ao redor do conector. — *Acesso concedido.*
 
@@ -119,7 +120,7 @@ Dante sorriu. Não foi um sorriso de vilão. Foi o sorriso cansado de um pai ven
 
 — *Você ainda pensa pequeno. Pensa em indivíduos. Eu penso na Espécie. A dor deles... é o combustível da ordem. Sem mim, eles voltariam ao caos. À lama. Eu sou a represa que segura o dilúvio.*
 
-— Você é o dilúvio — retrucou Valéria, a arma dela tremendo nas mãos. — Você mandou matar Rangel. Você esquartejou a mente da Bia.
+— Você é o dilúvio — retrucou Valéria, a arma dela tremendo nas mãos. — Você mandou suas máquinas atrás de Rangel. Você esquartejou a mente da Bia.
 
 Os olhos cegos de Dante se voltaram para o pequeno drive conectado ao painel através do cabo de Valéria.
 

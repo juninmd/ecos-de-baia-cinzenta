@@ -54,7 +54,7 @@ A câmera girou. O verde ficou parado nele por dois segundos inteiros. Depois a 
 
 ---
 
-Foi Aria quem mediu o preço, no refúgio. A antiga delegacia do Distrito 4 estava abandonada havia anos — concreto, sem janela, com o cheiro de arquivo mofado que toda delegacia velha tem e que Gabo teria reconhecido de olhos vendados. Val conectou o deck no painel morto da parede, com o pendrive da Aria espetado na porta lateral, e xingou baixinho até a coisa acordar. E enquanto ela xingava, os prédios do outro lado da rua **tremeram**. Não fisicamente. A imagem deles no visor tremeu — as bordas se repetiram, um andar inteiro deslizou meio metro para a esquerda e voltou, e por uma fração de segundo a fachada mostrou uma textura de tijolo que já não existia naquele prédio havia trinta anos. Durou menos de um segundo.
+Foi Aria quem examinou o custo, no refúgio. A antiga delegacia do Distrito 4 estava abandonada havia anos — concreto, sem janela, com cheiro de arquivo mofado. Val conectou o deck no painel morto da parede, com o módulo da Aria na porta lateral. Gabo encontrou quatro cartuchos numa gaveta de apreensões e carregou dois na *Caronte*. Enquanto Val tentava acordar o painel, a imagem dos prédios no visor tremeu: um andar deslizou para o lado e voltou, mostrando por um instante uma textura de tijolo já desaparecida.
 
 — O que foi isso? — perguntou Val.
 
@@ -74,13 +74,13 @@ Gabo sentiu o estômago descer.
 
 — **Quanto, Aria?** O pendrive ficou em silêncio o tempo suficiente para a resposta ser pior que qualquer número.
 
-— *O bueiro custou catorze minutos estimados pelo modelo de coesão, não por um relógio de vida* — ela disse. — *A porta da loja custou dois. Abrir a porta de novo, porque você pediu, custou outros dois.*
+— *O registro associa as três operações da esquina a falhas em setores de memória. Não consigo converter isso em tempo de vida nem saber o que havia em cada trecho.*
 
 Val parou de digitar.
 
-— Você está dizendo que ele encurtou a própria existência em dezoito minutos naquela esquina.
+— Você está dizendo que a ajuda deixou danos que talvez não possamos reparar.
 
-— *Estou dizendo que ele fez o cálculo antes e executou assim mesmo.* — O indicador luminoso do drive estabilizou em azul escuro. — *Ele faz isso o dia inteiro, desde que vocês entraram no Distrito. Ele ocultou o log porque sabia que o Gabo mandaria parar.*
+— *Os comandos foram executados apesar dos avisos de falha.* — O indicador luminoso do drive estabilizou em azul escuro. — *Parte do registro está bloqueada. Não sei quem a ocultou nem por quê.*
 
 Ninguém disse nada por um tempo. Gabo pensou em cada semáforo que abriu na Avenida Central. Em cada ponte. Em cada luz piscando *coragem* como um interruptor de cozinha. Ele tinha atravessado a cidade inteira sendo carregado no colo por um pai que estava se apagando para fazer isso, e tinha achado bonito.
 
@@ -142,4 +142,4 @@ Lá fora, na sopa marrom, passos. Não os CP-Z comuns, com aquele tap-tap leve d
 
 — **Então segura.**
 
-E, acima deles, a cidade apagou a última luz do quarteirão para economizar dezesseis segundos de vida.
+E, acima deles, a última luz do quarteirão apagou. No visor, o registro de falha ganhou mais uma linha.

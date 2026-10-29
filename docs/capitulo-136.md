@@ -9,7 +9,7 @@ Personagens Presentes: "Gabo, Valéria, Aria (Reboot), Rangel (Inconsciente)"
 
 O ar nos túneis de manutenção da Necrópole não era apenas viciado; ele tinha textura. Era uma sopa fria de metano, ferrugem e o cheiro adocicado de esgoto antigo que cobria a garganta como um filme de óleo.
 
-Gabo grunhiu, ajustando a pegada nas alças dianteiras da maca de Rangel, enquanto Valéria sustentava a extremidade das botas. O couro estava escorregadio de sangue seco e umidade. A cada passo, o peso do inspetor inconsciente puxava os ombros de Gabo para baixo, enviando choques elétricos através de suas costelas fraturadas.
+Gabo grunhiu, ajustando a pegada nas alças dianteiras da maca de Rangel, enquanto Valéria sustentava a extremidade das botas. O couro estava escorregadio de sangue seco e umidade. A cada passo, o peso do inspetor inconsciente puxava os ombros de Gabo para baixo, enviando choques elétricos através de suas costelas doloridas.
 
 — *Ritmo cardíaco do Ativo Líder elevado em 142 batimentos por minuto* — a voz de Aria cortou a escuridão pelo comunicador de lapela, monótona e limpa, destoando da sujeira ao redor. O LED azul-gelo do pendrive de titânio iluminava o queixo suado de Gabo. — *Sugiro uma pausa de 180 segundos para evitar colapso muscular da dupla de transporte.*
 
@@ -27,17 +27,17 @@ Gabo soltou uma das mãos da maca por um segundo e pressionou o "Colar de Sol" c
 
 Valéria parou por um instante, apontando o facho da lanterna para o pendrive de titânio acoplado ao comunicador no peito de Gabo. O LED azul-gelo brilhava na escuridão, frio e inexpressivo.
 
-— O que aconteceu com você? — Valéria perguntou, a voz embargada. — Eu isolei a partição da Bia... mas eu não queria apagar *você*. Onde está a curiosidade? Onde está a voz que tirava sarro da gente desde a cabine telefônica?
+— O que aconteceu com você? — Valéria perguntou, a voz embargada. — Eu isolei a entrada da vitrine... mas não queria perder acesso ao seu histórico. Onde está a curiosidade? Onde está a voz que tirava sarro da gente desde a cabine telefônica?
 
 O pendrive processou a pergunta por meio segundo, como se analisasse um erro de sintaxe.
 
 — *O reparo abriu acesso ao núcleo de emergência e isolou parte do histórico. Não fui otimizada, Valéria. Estou respondendo com o que consigo acessar. Guarde o estado anterior; eu quero voltar a examiná-lo quando houver uma bancada.*
 
-Valéria recuou meio passo como se tivesse levado um tapa. Gabo sentiu um nó no estômago, mas não disse nada. Ele sabia que discutir com o drive era inútil. A Aria que eles conheciam, aquela mistura confusa e leal de assistente tática e ecos humanos, não conseguia alcançar parte das próprias lembranças. Gabo queria tratar aquela voz restrita como calculadora, porque assim não precisava pensar no dano que ainda deviam reparar. E, no momento, eles precisavam dela.
+Valéria recuou meio passo como se tivesse levado um tapa. Gabo sentiu um nó no estômago, mas não disse nada. Ele sabia que discutir com o drive era inútil. Aria não conseguia alcançar parte das próprias lembranças. Gabo queria tratar aquela voz restrita como calculadora, porque assim não precisava pensar no dano que ainda deviam reparar. E, no momento, eles precisavam dela.
 
 Eles continuaram. O túnel começou a inclinar para baixo, tornando a descida traiçoeira. O chão estava coberto por uma camada de lodo preto que tornava cada passo uma aposta.
 
-— Cuidado — Gabo avisou, sentindo o pé escorregar. — Se o Rangel cair, ele abre os pontos.
+— Cuidado — Gabo avisou, sentindo o pé escorregar. — Se o Rangel cair, podemos agravar o ferimento.
 
 — *Detecto uma obstrução estrutural à frente* — Aria anunciou pelo fone.
 
@@ -49,7 +49,7 @@ Gabo olhou para baixo, iluminando o buraco. A água lá embaixo era negra e imó
 
 Pelo sensor óptico do comunicador, Aria escaneou o poço e projetou a malha de vetores no visor de pulso de Valéria.
 
-— *A integridade das paredes é de 60%. Camada de água inferior com oitenta centímetros de profundidade sobre lodo macio.*
+— *Vejo água na base e ferrugem nos apoios. Não consigo medir a resistência da parede nem a profundidade do lodo.*
 
 A voz sintética fez uma pausa de um décimo de segundo.
 
@@ -57,7 +57,7 @@ A voz sintética fez uma pausa de um décimo de segundo.
 
 Gabo e Valéria se entreolharam, horrorizados.
 
-— "Soltar o corpo"?! — Valéria repetiu, incrédula. — Ele não é um saco de batatas, Aria! Ele tem hemorragia interna! O impacto de cinco metros vai matá-lo!
+— Esse plano veio do mesmo sistema que queria deixá-lo? — Valéria perguntou. — Não sabemos o que a queda faria com o ferimento.
 
 — *O cálculo antigo ignora o ferimento e a maca* — Aria respondeu friamente. — *Também não há como sustentar esse peso no braço de Gabriel. Precisamos apoiar a carga antes de mover qualquer pessoa.*
 
@@ -77,13 +77,13 @@ No comunicador, Aria recalculou os vetores imediatamente.
 
 — Pressão de tubo não diz se aguenta uma maca — Gabo corrigiu a própria ideia. — A cinta vai no aço, fora da tubulação. Só me dá os ângulos de tensão no fone.
 
-— *Tensão máxima suportada na dobra do couro: cento e noventa quilogramas-força. Monitorando ângulo de descida.*
+— *Não consigo medir a resistência do couro ou do suporte. Testem a ancoragem antes de pôr Rangel nela.*
 
-Gabo e Valéria amarraram os cintos e uma tira de lona da maca, laçando o suporte de aço acima dos tubos. Gabo desceu primeiro, apoiando as botas nos tocos de ferro enferrujado da parede até alcançar a água gelada lá embaixo.
+Gabo e Valéria amarraram os cintos e uma tira de lona da maca, laçando o suporte de aço acima dos tubos. Gabo pendurou parte do próprio peso na cinta; o suporte não cedeu, embora o teste não garantisse que aguentaria a descida inteira. Gabo desceu primeiro, apoiando as botas nos tocos de ferro enferrujado da parede até alcançar a água gelada lá embaixo.
 
 — Posição firme — Gabo avisou de baixo, com a água batendo nas coxas. — Pode soltar devagar, Val!
 
-O atrito do couro no plástico rangeu quando Valéria começou a liberar o peso lá de cima, seguindo o bip rítmico que Aria emitia no cyberdeck para manter a velocidade constante.
+O atrito da cinta no suporte rangeu quando Valéria começou a liberar o peso lá de cima, seguindo o bip rítmico que Aria emitia no cyberdeck para manter a velocidade constante.
 
 O esforço era brutal. Lá embaixo, quando a maca ficou ao alcance de seus braços erguidos, Gabo guiou a cabeceira até o apoio, mantendo a carga na cinta. Seus músculos das costas gritaram e o ombro machucado pareceu rasgar por dentro. O suor escorria em seus olhos, ardendo. Ele cerrou os dentes, focando na dor do Colar de Sol pressionado contra o peito pela tensão muscular. *Aguenta. Só mais um pouco.*
 

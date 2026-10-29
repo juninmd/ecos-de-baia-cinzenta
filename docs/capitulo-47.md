@@ -10,7 +10,7 @@ Localização: "Torre do Relógio, Distrito Baixo (Inundado)"
 # Capítulo 47: O Mecanismo da Queda
 
 Torre do Relógio, Distrito Baixo (Inundado).
-A denúncia chegou pelo rádio às nove e quarenta, quando a Orla Norte ainda fumava: uma torre no Distrito Baixo, um homem que comprava relógio velho e não vendia nenhum, e um vizinho que jurou ter ouvido tique-taque onde não havia corrente elétrica desde a enchente. Gabo insistiu em ir sem escolta, apesar da proibição de Nise de apoiar a perna direita. Um barqueiro o deixou na rampa da torre com a cadeira. Para passar ao tablado, Gabo usou o corrimão e a perna esquerda. Isso não tornava a escolha segura.
+A denúncia chegou pelo rádio às nove e quarenta, quando a Orla Norte ainda fumava: uma torre no Distrito Baixo, um homem que comprava relógio velho e não vendia nenhum, e um vizinho que jurou ter ouvido tique-taque onde não havia corrente elétrica desde a enchente. Gabo insistiu em ir sem escolta, apesar da proibição de Nise de apoiar a perna direita. Um barqueiro o deixou na rampa da torre com a cadeira. Combinaram que, se ele não voltasse ao sinal combinado, o barqueiro buscaria ajuda. Para passar ao tablado, Gabo usou o corrimão e a perna esquerda. Isso não tornava a escolha segura.
 
 O som não era de água. Era de tempo.
 
@@ -139,7 +139,7 @@ Ele inclinou a cabeça para trás, o máximo que a coluna quebrada permitiu, e r
 
 Não pensou na Bia. Não pensou no pai. Não pensou na cidade. Pensou, com uma clareza absurda e completamente inútil, que tinha deixado o Cobalt em fila dupla.
 
-E então a água escura passou por cima do rosto dele, mas um bolsão sob a base do mecanismo reteve ar junto à sua boca. O tique-taque ficou distante, e nem em cima nem embaixo, e Gabriel Moretti ficou sozinho no escuro com duas toneladas de ferro nas pernas e a certeza tranquila de que aquilo era o fim.
+E então a água escura passou por cima do rosto dele, mas um bolsão sob a base do mecanismo reteve ar junto à sua boca. Um duto de manutenção, aberto acima da linha d’água, deixava entrar ar em pequenas rajadas. O tique-taque ficou distante, e nem em cima nem embaixo, e Gabriel Moretti ficou sozinho no escuro com duas toneladas de ferro nas pernas e a certeza tranquila de que aquilo era o fim.
 
 Ele estava errado — quarenta minutos depois, o barqueiro voltaria com uma equipe. Seguiriam a amarra até o fosso e usariam o mecanismo para aliviar o bloco antes de retirá-lo. O rosto ainda alcançaria o bolsão de ar; o corpo sairia em estado crítico.
 

@@ -42,7 +42,7 @@ Mas tinha hesitado.
 
 ---
 
-Nos noventa segundos seguintes, Gabo foi usado como objeto. Ele foi arremessado contra um rack, depois contra o piso, depois contra o mesmo rack. Perdeu a escopeta na segunda vez. Na terceira, sentiu alguma coisa ceder no quadril e decidiu não investigar.
+Nos noventa segundos seguintes, Gabo foi usado como objeto. Ele foi arremessado contra um rack, depois contra o piso, depois contra o mesmo rack. Perdeu a escopeta na segunda vez. Na terceira, sentiu alguma coisa ceder no quadril e decidiu não investigar. Sacou a Glock com a mão esquerda quando o Santo recuou para outro golpe.
 
 O que salvou a vida dele foi um detalhe idiota: o Santo o soltava sempre pelo mesmo lado. Todas as vezes. Uma assimetria de treino, provavelmente de quando aquele corpo ainda tinha nome e frequentava um tatame, e que ninguém corrigiu porque ninguém precisou.
 
@@ -52,7 +52,7 @@ Gabo aprendeu isso na terceira e passou a cair melhor.
 
 — De quem?!
 
-— Do prefeito! **DO MARCO!**
+— Da credencial municipal cadastrada! **DO MARCO!**
 
 Gabo cuspiu sangue no chão e riu, porque não havia outra coisa a fazer. O irmão dele tinha fugido pelo esgoto horas antes.
 

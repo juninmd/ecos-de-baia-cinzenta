@@ -27,11 +27,11 @@ Valéria deu dois passos à frente. Ajoelhou-se na lama vermelha e usou a pá de
 
 Ela parou com as mãos mergulhadas na terra. Ficou olhando para os próprios dedos mecânicos manchados de barro vermelho.
 
-— Há uma inconsistência no registro — ela murmurou. O tom não era o do Modo de Segurança. Era mais lento, hesitante, como se faltasse uma palavra. — O impacto balístico na caixa torácica de Elena produziu uma interrupção definitiva das funções vitais. Eu sei o que aconteceu com o corpo. Mas continuo esperando que ela entre pela porta para corrigir uma data. Esse atraso não aparece no relatório do berço.
+— Há uma inconsistência no registro — ela murmurou. O tom não era o do Modo de Segurança. Era mais lento, hesitante, como se faltasse uma palavra. — Encontramos Elena sem sinais de circulação. Eu sei o que aconteceu com o corpo. Mas continuo esperando que ela entre pela porta para corrigir uma data. Esse atraso não aparece no relatório do berço.
 
 Olhei para a ciborgue. Para o rosto jovem de pele pálida, onde duas faixas de LED azul estalavam com ruído estático.
 
-— Isso se chama luto, Valéria — disse a Dra. Vance, que permanecia na cadeira de rodas improvisada, apoiada no parapeito de madeira da doca. — Os engenheiros da Aeterna chamavam de resíduo emocional não quantificável. Tentaram extirpar isso do meu pai durante os vinte e sete anos de estase na Arca N.O.A. e falharam. Não espere que suas placas de silício lidem melhor com a ausência do que a carne humana.
+— Isso se chama luto, Valéria — disse a Dra. Vance, que permanecia na cadeira de rodas improvisada, apoiada no parapeito de madeira da doca. — Os engenheiros da Aeterna chamavam de resíduo emocional não quantificável. Meu pai chamou o sofrimento alheio de falha para justificar o que fez. Nenhum implante precisa explicar por que a ausência dela dói.
 
 Valéria não respondeu. Fechou os punhos cobertos de terra e saiu da vala com um salto curto, sem olhar para nenhum de nós.
 
@@ -75,12 +75,24 @@ Elias limpou o suor da testa com o antebraço sujo de graxa.
 
 Virei as costas para a cova.
 
-O joelho doeu quando forcei a perna direita na subida da rampa, e a pontada no ombro quebrado me lembrou que eu não tinha mais a *Caronte* para me apoiar, nem o pendrive de Aria no bolso para me dar o cálculo da próxima esquina. Eu era apenas um homem manco, com um braço preso na tipóia e uma dívida impagável com os mortos que ficaram pelo caminho.
+O joelho doeu quando forcei a perna direita na subida da rampa, e a pontada no ombro quebrado me lembrou que a *Caronte* estava guardada com as coisas de Elena. Senti falta da voz de Aria, da maneira como discordava antes de me ajudar a enxergar a próxima esquina. Eu era um homem manco, com um braço preso na tipóia e gente demais para lembrar.
 
-Mas, pela primeira vez em vinte e um anos, eu não era o grupo de controle de ninguém.
+A pasta ainda existia. Eu não precisava aceitar o lugar que ela tinha reservado para mim.
 
 Entrei no galpão.
 
 A rotativa de Elena já estava ligada, batendo no seu ritmo surdo e honesto, *tchunc-tchunc-tchunc*, cuspindo as páginas que precisavam chegar aos assentamentos antes do meio-dia de amanhã.
 
-Puxei o primeiro caderno ainda quente de tinta.
+Puxei o primeiro caderno ainda quente de tinta. Na capa, ao lado do número de admissões, estava a ressalva que Elena exigira. Passei o polegar pela frase até borrar uma letra.
+
+Valéria entrou depois de mim. Trazia a caixa com o disco que Elena escondera na coronha.
+
+— A doutora pode tentar ler isto quando terminar de registrar as fitas — disse. — Quero uma cópia de trabalho e o original lacrado. O repetidor pode apontar para um iate; não prova quem estava nele.
+
+— Eu quero saber quem estava.
+
+— Eu também. Mas antes precisamos de alguém para examinar seu braço. A equipe do Setor 4 respondeu ao meu pedido; chega com os caminhões. — Ela colocou a caixa fora do alcance da tinta. — Eu vou ficar com os registros até a doutora poder conferir.
+
+Eu ia dizer que não havia tempo. Olhei a página outra vez, a letra borrada onde Elena tinha insistido numa distinção que eu queria pular. Assenti.
+
+Do outro lado da mesa, o rádio chiou. Uma voz pediu a repetição do endereço onde podia encontrar os originais. Valéria pegou o microfone. Eu segurei o caderno aberto para ela ler.

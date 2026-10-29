@@ -12,7 +12,7 @@ Personagens Presentes: "Gabo, Valéria, Aria"
 
 A escuridão do Arquivo Executivo não era a escuridão orgânica e suja dos túneis inferiores. Era um breu matemático, traçado em ângulos retos entre monólitos de armazenamento de dados que se erguiam como arranha-céus em uma cidade fantasma. A temperatura estacionada em cruéis cinco graus positivos mordia a pele exposta de Gabo e Valéria, uma mordida estéril que não trazia o fedor da morte física, mas a preservação cirúrgica da Aeterna Corp. O som dos passos de ambos ecoava raso no labirinto de gabinetes de alumínio escovado.
 
-Gabo arrastava a perna direita, o peso do próprio corpo parecendo esmagar a espuma coagulante que Valéria injetara em suas costelas. O suor frio em sua testa gelava sob a corrente de ar.
+Gabo arrastava a perna direita, o peso do próprio corpo puxando o curativo que Valéria colocara no abdômen. O suor frio em sua testa gelava sob a corrente de ar.
 
 Cada passo no linóleo negro era uma negociação com o abismo. E, no silêncio perfeito da gaiola de Faraday, a mente exausta de Gabo encontrou espaço para apodrecer.
 
@@ -20,11 +20,11 @@ O ar purificado de quarenta anos atrás deveria cheirar a nada. Mas, para as sin
 
 O silêncio do arquivo executivo era quase opressor, quebrado apenas pelo zumbido estático dos servidores adormecidos e pelo eco abafado de suas próprias respirações no ar gélido.
 
-A perda massiva de sangue começou a cobrar seu tributo final. Uma onda súbita de fraqueza dobrou os joelhos de Gabo, fazendo-o cambalear para o lado. Ele colidiu os ombros contra a lateral de aço de um imenso arquivo deslizante, apoiando a testa na chapa fria para evitar a queda. A dor aguda nos membros cauterizados pulsou com intensidade feroz, e ele cerrou os dentes para não soltar um gemido, usando a frieza do metal para forçar sua mente a permanecer acordada.
+A perda massiva de sangue começou a cobrar seu tributo final. Uma onda súbita de fraqueza dobrou os joelhos de Gabo, fazendo-o cambalear para o lado. Ele colidiu os ombros contra a lateral de aço de um imenso arquivo deslizante, apoiando a testa na chapa fria para evitar a queda. A dor aguda nos membros enfaixados pulsou com intensidade feroz, e ele cerrou os dentes para não soltar um gemido, usando a frieza do metal para forçar sua mente a permanecer acordada.
 
 Gabo arfou pesadamente, o sangue quente pingando no chão escuro, mas a determinação mantinha seus olhos abertos no silêncio do silício.
 
-— *Gabo continua perdendo apoio e a leitura de pulso está oscilando,* — a voz de Aria soou pelo comunicador de gola sem emitir eco, absorvida pelas placas acústicas do teto. Acoplado ao cyberdeck no pulso de Valéria, o pendrive mantinha seu indicador luminoso azul-gelo cravado na penumbra enquanto o scanner óptico do *Phantom V3* traçava linhas invisíveis no piso negro. — *O estresse físico contínuo e a sobrecarga cardiovascular apenas mascaram a falência hematológica em curso. Não consigo avaliar a circulação interna com este sensor. Ele precisa ficar apoiado na prancha enquanto buscamos acesso.*
+— *Gabo continua perdendo apoio e a leitura de pulso está oscilando,* — a voz de Aria soou pelo comunicador de gola sem emitir eco, absorvida pelas placas acústicas do teto. Acoplado ao cyberdeck no pulso de Valéria, o pendrive mantinha seu indicador luminoso azul-gelo cravado na penumbra enquanto o scanner óptico do *Phantom V3* traçava linhas invisíveis no piso negro. — *O esforço está agravando os sinais que consigo observar. Não consigo avaliar a circulação interna com este sensor. Ele precisa ficar apoiado na prancha enquanto buscamos acesso.*
 
 Valéria correu a mão livre e trêmula pelos cabelos imundos, a respiração condensando no ar gelado, lançando um olhar envenenado para o pequeno cilindro metálico do pendrive encaixado em seu antebraço.
 
@@ -46,13 +46,13 @@ Havia duas marcas paralelas, largas de trinta centímetros cada, que rasgavam o 
 
 O feixe azulado do scanner de pulso varreu as marcas por dois longos segundos enquanto o pendrive de Aria cruzava os padrões geométricos de pressão. O silêncio que se seguiu pareceu preencher todo o andar.
 
-— *Os rastros não pertencem aos drones padrão de limpeza ou manutenção da Aeterna,* — declarou a IA, a voz sintética sem qualquer vestígio de preocupação, embora as palavras carregassem um peso fúnebre. — *São marcas de tração por esteiras pesadas de poliuretano reforçado e suspensão magnética. O Taxidermista não controla a biologia deste andar devido ao isolamento eletromagnético, mas a Aeterna Corp original nunca deixou seu núcleo de hibernação desprotegido. São unidades autônomas de contenção física.*
+— *Os rastros não pertencem aos drones padrão de limpeza ou manutenção da Aeterna,* — declarou a IA, a voz sintética sem qualquer vestígio de preocupação, embora as palavras carregassem um peso fúnebre. — *São marcas de tração por esteiras pesadas de poliuretano reforçado e suspensão magnética. O manual do arquivo descreve unidades autônomas de contenção sobre esteiras. As marcas são compatíveis, mas não identificam quem as controla.*
 
 — Você confia nessa "hibernação profunda"? — Valéria indagou a Gabo, ajustando o corpo cansado em uma postura tática por puro instinto de sobrevivência.
 
 — Não confio em nada que respira energia nesse buraco — respondeu ele, forçando as pernas trêmulas a desgrudarem do servidor. — Mas é a única porta que a gente tem pra bater.
 
-— *A anomalia que buscamos não é apenas um terminal de energia adormecido, Valéria Cruz,* — acrescentou Aria pelo alto-falante. — *A anomalia é a área sob custódia. A entidade que deixou essas esteiras é o executor local deixado pela diretoria de Dante Moretti: um cão de guarda cibernético operando em malha fechada, projetado exclusivamente para a erradicação física de invasores nos dados executivos.*
+— *A anomalia que buscamos não é apenas um terminal de energia adormecido, Valéria Cruz,* — acrescentou Aria pelo alto-falante. — *O manual identifica uma unidade de segurança chamada Sentinel neste setor. Ainda não posso confirmar que ela deixou os rastros ou que continua ativa.*
 
 O silêncio corporativo que os cercava subitamente não pareceu mais um túmulo pacífico. Pareceu a imobilidade de uma câmara de execução antes do carrasco puxar a alavanca.
 

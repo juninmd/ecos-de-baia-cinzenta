@@ -83,7 +83,7 @@ Miranda deixou que visse um formulário sobre a bancada: transferência hospital
 
 — Você devia ter negociado na clínica — disse. — Antes de me transformar num processo caro.
 
-— Três meses. Vilar interrogando você, médico assinando pedido de transferência. Quem abriu a algema?
+— Três semanas. Vilar interrogando você, médico assinando pedido de transferência. Quem abriu a algema?
 
 — Quem podia pagar o tratamento.
 

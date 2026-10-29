@@ -18,29 +18,27 @@ E então, veio o cheiro.
 
 Não o ozônio, não a fuligem da explosão. Mas aquele odor insidioso, adocicado e rançoso que vinha de anos atrás. *Tabaco barato. Piche impregnando as paredes de um apartamento minúsculo. A presença sufocante de Dante no corredor escuro.* A fumaça invisível rastejou pelas suas narinas, ativando a repulsa visceral que sempre dormia com um olho aberto dentro dele. A náusea subiu quente e azeda como bile pela sua garganta.
 
-Ele cerrou a mandíbula até seus dentes rangerem. Com um movimento brusco, apoiou o braço direito quebrado e pressionou a fratura contra a pedra lascada da parede. *Trek.* O osso trincado rangeu sob a tala improvisada, trazendo o gosto salgado e metálico de suor e sangue mordido na língua. A dor irrompeu como uma sirene estilhaçando vidro.
-
-A alucinação recuou instantaneamente. A dor era sua claridade. A dor era limpa.
+Ele tentou apoiar o braço direito na parede. A dor o fez perder o equilíbrio; Val segurou a cinta da prancha e esperou que ele encontrasse apoio com o lado esquerdo. O cheiro lembrado continuou.
 
 — Status, Aria, — a voz de Gabo raspou na garganta seca pelo microfone de lapela, o som saindo mais como um rosnado do que uma palavra humana.
 
 No pulso de Valéria, o pendrive blindado piscou seu LED azul-gelo com a precisão fria da máquina pura. O canal adulto continuava danificado; Aria usava a síntese de emergência para transmitir os avisos através dos sensores do *Phantom V3*.
 
-— *O caminho até os servidores centrais do Subnível 3.0 está setenta e dois por cento desobstruído,* — relatou Aria pelo alto-falante do deck, a modulação de sua voz carente de qualquer emoção após a destruição de metal que ela mesma calculara no painel do trem. — *Os níveis de radiação térmica na brecha estão decaindo. Entretanto, o esforço cinético anterior comprometeu os sistemas hidráulicos do exoesqueleto de suporte em suas pernas, Detetive Moretti. A falha estrutural dos atuadores ocorrerá em aproximadamente quatro horas.*
+— *Vejo uma passagem entre os escombros,* — relatou Aria pelo alto-falante do deck, a modulação de sua voz carente de qualquer emoção após a destruição de metal que ela mesma calculara no painel do trem. — *Os níveis de radiação térmica na brecha estão decaindo. Entretanto, o esforço cinético anterior comprometeu os sistemas hidráulicos do exoesqueleto de suporte em suas pernas, Detetive Moretti. Não consigo prever quando a órtese vai falhar.*
 
-— Eu não preciso de quatro horas, — respondeu ele, não tirando os olhos da cratera luminosa no alto da rampa de destroços. — Preciso apenas chegar lá em cima e arrancar o cabo daquele desgraçado.
+— Então vamos antes que ela pare — respondeu ele, olhando a rampa de destroços.
 
 Valéria estava ajoelhada perto da escotilha superior do vagão, a graxa manchando seu rosto esgotado. Ela segurava o antebraço esquerdo onde o pendrive de Aria ainda irradiava o calor da sobrecarga do monorail, o olho cibernético piscando lentamente. A morte de Rangel no Setor de Purga ainda era um peso fresco e brutal nos ombros da hacker.
 
-— Gabo... a frieza com que a Aria jogou aquele trem... o jeito que *nós* estamos descartando tudo pelo caminho. Eles eram apenas Drones Corrompidos, mas... — Valéria balançou a cabeça, encarando o LED glacial do drive em seu pulso. — Estamos virando máquinas piores do que os monstros dessa cidade.
+— Gabo... a gente jogou um trem contra uma porta sem saber o que tinha atrás. E no tanque... — Valéria balançou a cabeça, encarando o LED glacial do drive em seu pulso. — Não sei se tinha gente do outro lado daquela porta. Ou nas células que o fluxo atingiu.
 
-— A cidade já é um monstro desde a Torre, Val, — retrucou Gabo. Ele deu um passo à frente, as juntas do exoesqueleto gemendo em protesto sob a luz alaranjada das cinzas caindo. — E monstros não respeitam a paz. Eles só entendem de dentes e ferro. O Taxidermista acha que somos peças para o tabuleiro dele, e acha que ter apagado o coração da Aria na Necrópole nos deixou cegos. Vamos mostrar que somos o prego no pneu do carrossel que ele construiu.
+— A cidade já é um monstro desde a Torre, Val, — retrucou Gabo. Ele deu um passo à frente, as juntas do exoesqueleto gemendo em protesto sob a luz alaranjada das cinzas caindo. — E monstros não respeitam a paz. Eles só entendem de dentes e ferro. O Taxidermista acha que somos peças para o tabuleiro dele. Vamos mostrar que somos o prego no pneu do carrossel que ele construiu.
 
 — *Nota corretiva: Não houve remoção dos meus filtros empáticos. Houve perda de acesso a parte do histórico. Eu não sei se minhas decisões melhoraram, e não quero que tratem o dano como vantagem,* — pontuou Aria pelo comunicador, indiferente ao dilema moral de Valéria. — *Adicionalmente, recomendo atenção imediata aos sensores barométricos do deck.*
 
 — O que você está lendo lá em cima, Aria? — Valéria perguntou, levantando-se devagar e apontando o scanner do *Phantom V3* para a fenda fumegante da comporta arrebentada.
 
-O LED azul-gelo do pendrive pulsou rapidamente enquanto processava o espectro químico do ar que vazava do andar superior. — *A taxa de oxigenação e a umidade no nível superior indicam a presença de filtros biológicos ativos. A assinatura térmica captada pelo infravermelho do deck não pertence a drones mecânicos. É biomassa estática enxertada na arquitetura. Muito similar aos padrões do Estúdio.*
+O LED azul-gelo do pendrive pulsou rapidamente enquanto processava o espectro químico do ar que vazava do andar superior. — *Há formas presas à arquitetura, semelhantes ao material do estúdio. Não consigo identificar sua função nem saber se estão vivas.*
 
 O alerta soou como um aviso de tempestade. O Taxidermista não estava dependendo apenas da sucata automatizada da Aeterna. Ele havia plantado algo orgânico nas ruínas do coração digital da corporação.
 

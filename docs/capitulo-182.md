@@ -35,7 +35,7 @@ Valéria soltou uma risada rascante e amarga, apontando para o painel com o dedo
 
 Ela virou o rosto para mim, os filamentos de LED azul na franja iluminando as olheiras escuras sob os olhos cibernéticos. O cansaço dela era palpável, mas a faísca de desdém e teimosia continuava queimando firme.
 
-— Eu não gasto munição com propaganda morta, detetive. Minha preocupação é esse seu joelho esquerdo. Você tá arrastando a bota há dois quilômetros. O mancal da órtese da perna tá chiando tão alto que qualquer cão quimérico a trezentos metros já sabe que tem comida mancando no asfalto.
+— Eu não gasto munição com propaganda morta, detetive. Minha preocupação é esse seu joelho direito. Você tá arrastando a bota há dois quilômetros. O mancal da órtese da perna tá chiando tão alto que qualquer cão quimérico a trezentos metros já sabe que tem comida mancando no asfalto.
 
 — A trava da perna pegou terra no esgoto — respondi, tentando disfarçar o tremor nos músculos da coxa. — Mas ela aguenta até o entroncamento.
 
@@ -45,7 +45,7 @@ Ela virou o rosto para mim, os filamentos de LED azul na franja iluminando as ol
 
 — Cala a boca, Gabo. Se você quebrar o pino de articulação no meio dessa avenida aberta, eu vou ter que arrastar você e o seu braço de guindaste nos braços, e as minhas costas já tão moídas da descida na Necrópole.
 
-Ela tirou uma pequena chave sextavada de dentro do bolso lateral da calça e enfiou-a direto na junta da órtese da minha perna esquerda. Com dois movimentos rápidos e precisos de quem entendia de mecânica de rua desde a adolescência, ela desobstruiu a bucha de teflon e reapertou o parafuso tensor.
+Ela tirou uma pequena chave sextavada de dentro do bolso lateral da calça e enfiou-a direto na junta da órtese da minha perna direita. Com dois movimentos rápidos e precisos de quem entendia de mecânica de rua desde a adolescência, ela desobstruiu a bucha de teflon e reapertou o parafuso tensor.
 
 O alívio na pressão do joelho foi instantâneo. A tensão que repuxava meu quadril afrouxou vários centímetros.
 

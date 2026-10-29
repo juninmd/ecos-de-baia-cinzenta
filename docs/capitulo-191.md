@@ -48,7 +48,7 @@ As chamas se espalharam com a ferocidade de pólvora de canhão.
 
 As raízes carmesins começaram a estalar e queimar em labaredas púrpuras, soltando um odor sulfuroso e asfixiante que preencheu o teto da catedral. Os corpos pendurados amoleceram nas amarras enquanto as conexões neurais torravam internamente pelo fogo elétrico, silenciando para sempre os lamentos que ecoavam nas colunas. Os corpos caíam das amarras; não havia como contar quem morrera com o fogo e quem perdera o suporte. A chama não era prova de descanso.
 
-— A integridade da rede caiu pra 15%! — Valéria berrou, puxando um sinalizador térmico do cinto e arremessando-o contra o depósito de óleo na base do terceiro pilar. A fagulha encontrou o combustível vazando e uma parede de fogo de três metros ergueu-se, isolando o núcleo. — A estrutura tá cedendo, Moretti! Trinta segundos antes da câmara inteira colapsar sob a pressão térmica! Corre pro poço da escada!
+— Os controladores locais estão parando! — Valéria berrou, puxando um sinalizador térmico do cinto e arremessando-o contra o depósito de óleo na base do terceiro pilar. A fagulha encontrou o combustível vazando e uma parede de fogo de três metros ergueu-se, isolando o núcleo. — A estrutura tá cedendo, Moretti! Trinta segundos antes da câmara inteira colapsar sob a pressão térmica! Corre pro poço da escada!
 
 — O nó de dados da coluna dorsal ainda tá vivo! — apontei para o pilar central, onde um tronco espesso de raízes ainda pulsava, tentando redirecionar a pouca energia restante para as profundezas. — Se eu não arrebentar esse nó, a rede transfere o backup pro fundo da terra!
 
@@ -66,7 +66,7 @@ A audição esquerda, já comprometida na Torre, piorou no estouro. Sobrou um ap
 
 O colapso foi imediato. As vigas de ferro do teto começaram a vergar com estalos de trovão mecânico, e pedaços de alvenaria despencaram nas poças de óleo e revestimento em chamas, levantando jatos de vapor escaldante.
 
-Valéria correu até mim através da fumaça, agarrou a manga do meu sobretudo com as duas mãos e puxou com toda a força que tinha no corpo magro.
+Valéria correu até mim através da fumaça, agarrou a manga do meu sobretudo com a mão direita e puxou com toda a força que tinha no corpo magro.
 
 — Sai daí, seu teimoso desgraçado! A escotilha de evacuação tá aberta! Mexe essas pernas antes que a gente morra soterrado!
 

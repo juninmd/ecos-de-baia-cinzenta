@@ -33,13 +33,13 @@ Cabos ópticos finos como fios de cabelo brotavam da base do cilindro e penetrav
 
 Valéria se agachou a um metro do corpo, retirando uma sonda com ponta de prova do bolso do cyberdeck. Os olhos prateados dela brilhavam com foco analítico, mas havia um vinco fundo de repulsa na testa.
 
-— É uma bio-bateria de interface neural reversa — ela encostou a ponta de prova num dos conectores expostos sem encostar na carne. Uma sequência rápida de bipes graves ecoou no display do deck. — Santo Deus... O Silas não tava só infectando pessoas vivas. O Jardim desenvolveu repetidores de sinal parasitando cadáveres frescos. Olha as trilhas de fibra óptica costuradas na jugular dela. O transmissor tem uma célula própria; o tecido envolve os contatos. Não dá para explicar a alimentação por uma suposta carga que fica nos nervos depois da morte.
+— Tem um transmissor e uma célula própria aqui — disse Val, examinando o conector sem tocar na carne. — O tecido envolve os contatos. Não sei quem instalou isso nem se o Jardim está controlando o aparelho.
 
 O cilindro piscou duas vezes, emitindo um estalo seco de solenoide.
 
 — Ativo pra quê? — perguntei. — Transmitir o quê se a cidade inteira tá no escuro?
 
-— Pacotes de telemetria e sincronização de dados — Valéria aproximou o sensor do display do cilindro, a respiração presa. — O Jardim tá mudando a topologia da rede. Em vez de depender de um servidor central como o que a gente explodiu na Usina, a praga tá criando uma malha descentralizada no subsolo. Esse nó aqui tava transmitindo as coordenadas de colheita antes da bateria biológica secar de vez.
+— O visor registra envio de pacotes — disse Val. — Sem ler o conteúdo e comparar a origem, não dá para saber o que transmitia nem para quem.
 
 — Consegue puxar o pacote de dados antes que o cilindro apague?
 
@@ -47,7 +47,7 @@ Valéria mordeu o lábio inferior, hesitando.
 
 — A porta sem fio tá queimada por curto-circuito. Pra pegar o arquivo limpo, a gente precisa extrair o núcleo de memória física que fica dentro desse encapsulamento blindado no peito dela. Mas os grampos tão soldados no osso. Se eu tentar puxar com alicate comum, quebro o invólucro e o ácido da célula queima os chips de leitura.
 
-Olhei para a minha mão direita. Vinte quilos de liga de aço fosca forjada para erguer vigas de contêiner no cais.
+Val fotografou o rosto da mulher, o implante e sua posição antes de tocarmos no conjunto. Olhei para a armação externa do meu braço direito.
 
 — Deixa que a sucata do Vasco resolve isso — murmurei, me abaixando ao lado dela.
 
@@ -64,13 +64,13 @@ Espetei o núcleo no leitor isolado do cyberdeck dela. As luzes de status do pai
 
 Três segundos depois, o processamento cessou com um bipe limpo.
 
-— Consegui — Valéria ergueu a cabeça, os olhos prateados cravados nos meus, carregados de uma urgência sombria. — Não é uma transmissão aleatória, Gabo. É uma ordem de convergência. O pacote contém uma ordem de convergência para um ponto específico. Não confirma que todas as colônias a receberam: o antigo Complexo Hidropônico subterrâneo sob o Setor 7.
+— Consegui — Valéria ergueu a cabeça, os olhos prateados cravados nos meus, carregados de uma urgência sombria. — O pacote contém uma ordem de convergência para um ponto específico. Não confirma que todas as colônias a receberam: o antigo Complexo Hidropônico subterrâneo sob o Setor 7.
 
 — A estufa corporativa que abastecia o Distrito de Prata antes do dilúvio.
 
-— Exatamente — ela desconectou o núcleo e guardou o cyberdeck na lona, ajustando o correame nos ombros com determinação renovada. — A Aeterna construiu aquela estufa em cima de uma falha geotérmica com três trocadores de calor independentes. Se a praga do Silas assumir o controle do sistema de irrigação química de lá, a colônia vai ter nutrientes pra se multiplicar cem vezes mais rápido do que na superfície.
+— Exatamente — ela desconectou o núcleo e guardou o cyberdeck na lona, ajustando o correame nos ombros com determinação renovada. — A Aeterna construiu aquela estufa em cima de uma falha geotérmica com três trocadores de calor independentes. Se a praga do Silas assumir o controle do sistema de irrigação química de lá, a colônia pode ganhar acesso a mais água e nutrientes. Não consigo prever a velocidade de crescimento.
 
-Val fotografou o rosto da mulher e a posição do implante antes de fechar o estojo com o núcleo. Preservou o pacote sem executar a ordem, anotando que a origem ainda precisava ser confirmada. Eu só tinha uma desconhecida e uma coordenada; não ia fingir que isso já era o mapa de uma rede inteira.
+Val fechou o estojo com o núcleo e preservou o pacote sem executar a ordem, anotando que a origem ainda precisava ser confirmada. Eu só tinha uma desconhecida e uma coordenada; não ia fingir que isso já era o mapa de uma rede inteira.
 
 — Então temos uma coordenada para conferir — bati a mão de ferro na lateral da coxa, sentindo o peso da decisão assentar nos meus ombros cansados. — A gente desce no Setor 7 e queima a raiz principal antes que ela engula o resto da cidade.
 

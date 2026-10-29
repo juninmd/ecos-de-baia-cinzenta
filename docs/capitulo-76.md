@@ -9,13 +9,13 @@ Localização: "Zona Norte, Ruínas do Distrito de Prata. 12:00 PM"
 Zona Norte, Ruínas do Distrito de Prata. 12:00 PM.
 Três meses depois da queda da Arca de superfície, o problema com o sol, Gabo concluiu, era que ele não sabia guardar segredo. Durante cinquenta anos Baía Cinzenta viveu de mentir debaixo da chuva. A água borrava a borda da pobreza, transformava ferrugem em reflexo, fazia de qualquer beco uma passagem. O sol não. O sol era um detetive ruim: chegava na cena e apontava para tudo ao mesmo tempo. A luz batia na lataria do Cobalt e não perdoava nada: cada arranhão, a poeira acumulada desde que a chuva parou. Gabo limpou o suor da testa com as costas da mão suja de graxa. Odeio suar. Na era da chuva, você ficava molhado ou com frio, nunca suado.
 
-— Você está resmungando com o carburador de novo?
+— Você está resmungando com a injeção de novo?
 
 Gabo não se virou. Reconheceria o som daquelas botas em qualquer lugar, mesmo sem o zumbido dos servos.
 
-— Carburador é honesto, Val. Funciona ou não funciona. Não tem crise existencial e não tenta governar a cidade.
+— Injeção é honesta, Val. Funciona ou não funciona. Não tem crise existencial e não tenta governar a cidade.
 
-Ele fechou o capô e se virou. Valéria Cruz estava encostada no batente, e levou um segundo para ele entender o que havia de errado: ela estava desligada. O cabelo holográfico, que passava o dia num carnaval de neon, estava parado num azul opaco. E usava óculos escuros grossos, coisa que nunca tinha precisado na vida.
+Ele fechou o capô e se virou. Valéria Cruz estava encostada no batente, com os LEDs azuis da franja apagados e óculos escuros grossos. Ela apertou os olhos mesmo atrás das lentes.
 
 — O sol está fritando meus sensores ópticos — disse ela, ajeitando a armação. — Sobrevivemos ao apocalipse digital para sermos derrotados pelos raios UV.
 
@@ -23,7 +23,7 @@ Ele fechou o capô e se virou. Valéria Cruz estava encostada no batente, e levo
 
 — Preciso de algo mais forte. E você também.
 
-O tom fez Gabo parar. O novo normal de Baía Cinzenta era uma paz frágil, administrada pela coisa que a cidade chamava de Entidade — a fusão de Dante e Aria, que ainda respondia pelo nome dela. A cidade não via um assassinato assim desde o Dilúvio. Se Val estava pedindo bebida ao meio-dia, a paz tinha acabado. Gabo puxou uma garrafa de uísque de baixo de uma pilha de panos e serviu dois dedos.
+O tom fez Gabo parar. O novo normal de Baía Cinzenta era uma paz frágil, com serviços administrados pelo sistema que a cidade chamava de Entidade. Aria continuava no módulo, ligada a parte dessa rede. Se Val estava pedindo bebida ao meio-dia, alguma coisa tinha quebrado a rotina. Gabo puxou uma garrafa de uísque de baixo de uma pilha de panos e serviu dois dedos.
 
 — O que a Entidade perdeu? Val tomou tudo de uma vez e estremeceu.
 
@@ -33,15 +33,15 @@ O tom fez Gabo parar. O novo normal de Baía Cinzenta era uma paz frágil, admin
 
 — Não esse. — Ela puxou um tablet antigo do bolso do casaco e deslizou sobre a bancada. — Nada nos logs. Nada nas câmeras térmicas. Nenhum registro de áudio. Para o sistema, aquele beco estava vazio o tempo todo.
 
-O tablet era de tinta eletrônica e não tinha rede — era por isso que Val ainda o usava. Na tela, uma foto revelada na máquina da própria delegacia: um homem de meia-idade, roupa corporativa barata, caído de lado no cimento. Onde deveria estar a cabeça, havia uma coisa vermelha e achatada.
+O tablet era de tinta eletrônica e não tinha rede; Val copiara para ele o resultado das consultas feitas em outro terminal. Na tela, uma foto revelada na máquina da própria delegacia: um homem de meia-idade, roupa corporativa barata, caído de lado no cimento. Onde deveria estar a cabeça, havia uma coisa vermelha e achatada.
 
 — Quem é?
 
-— É a pergunta. — Val girou o tablet. — Sem carteira, sem chip, sem tatuagem, sem cicatriz de implante. Rodei a face nos três bancos de dados que sobraram. Nada. O homem não tem ficha, Gabo. Não tem ficha nem de nascimento.
+— É a pergunta. — Val girou o tablet. — Sem carteira, sem chip, sem tatuagem, sem cicatriz de implante. Consultei três bancos de dados. Nenhuma correspondência; isso não prova que ele nunca teve registro.
 
 Gabo olhou para a foto por um tempo.
 
-— Então ele não matou um homem. — Ele empurrou o tablet de volta. — Matou um homem que não existe.
+— Mataram um homem e os cadastros não sabem dizer quem ele era. — Ele empurrou o tablet de volta. — Isso não faz dele menos existente.
 
 ---
 
@@ -60,15 +60,15 @@ O SILÊNCIO VOLTOU.
 
 — A cabeça está esmagada, Gabo.
 
-— E quase não sangrou. — Ele apontou com o facho. — Cabeça esmagada com martelo deixa respingo na parede. Aqui não tem respingo. Esse homem já estava sem pressão quando o martelo entrou.
+— E quase não há respingo na parede. — Ele apontou com o facho. — Pode ter sido golpeado em outro lugar, depois da morte, ou a cena pode ter sido limpa. Quero o exame antes de escolher.
 
-— Foi depois.
+— Vou fotografar o chão e a parede antes que mexam.
 
-— Foi depois. E olha a orelha. Atrás. Atrás da orelha esquerda havia um ponto vermelho do tamanho de uma cabeça de alfinete.
+— E olha atrás da orelha. — Havia um ponto vermelho do tamanho de uma cabeça de alfinete.
 
-— Agulha — disse Val.
+— Pode ser uma perfuração — disse Val.
 
-— Agulha. — Ele se endireitou, e as costas protestaram. — O martelo é assinatura. Não é arma.
+— Pode. — Ele se endireitou, e as costas protestaram. — Se a cabeça foi esmagada aqui para encenar alguma coisa, o martelo pode ser parte da mensagem.
 
 — Assinatura de quem?
 
@@ -82,17 +82,15 @@ Ele já tinha visto encenação assim, na Torre do Relógio, e não gostou de le
 
 — O quê?
 
-— A arma. O método. — Ele olhou o beco: o cimento rachado, o martelo, o sangue seco. — Sem hack neural, sem sobrecarga de implante. Uma agulha, um martelo e um homem que o sistema não registra. O inimigo agora é de carne e osso, e sabe usar as coisas que a gente esqueceu como combater.
+— Pode ser o método. — Ele olhou o beco: o cimento rachado, o martelo, o sangue seco. — Alguém pode ter usado coisas que não dependem de rede. Quero saber antes de descartar qualquer outra hipótese.
 
 Val se levantou e limpou as mãos na calça.
 
-— Tem mais uma coisa.
-
-— A ferida do pescoço está limpa. Quem fez isso sabia onde enfiar e não teve pressa. — Ela apontou. — E os sapatos. O beco está coberto de lama seca desde a chuva, e os sapatos do homem estão limpos.
+— Tem mais uma coisa. — Ela apontou. — O beco está coberto de lama seca desde a chuva, e os sapatos do homem estão limpos.
 
 Gabo olhou os sapatos. Pretos, baratos, sem um respingo.
 
-— Ele foi trazido — disse. — Morto, de carro, e sentado aqui para a foto ficar bonita.
+— Podem ter trazido ele para cá. Não sabemos quando nem como.
 
 ---
 
@@ -130,17 +128,17 @@ Não era. Ele pegou o tablet da mão dela, desligou a tela e guardou o aparelho 
 
 — Gabo, a Aria precisa da imagem para cruzar com o banco de...
 
-— Não manda. — Ele olhou para ela. — Esse homem foi apagado do sistema antes de morrer, Val. Se a foto entra na rede, apagam a foto também.
+— Não manda. — Ele olhou para ela. — Não achamos registro desse homem. Se alguém estiver apagando dados, pode atingir a foto também.
 
 — E a parede? — perguntou ela. — O que eu faço com aquilo?
 
 Gabo olhou para as três palavras mais uma vez. O sol batia nelas de cheio, e mesmo assim pareciam mais escuras do que o resto do beco.
 
-— Nada. — Ele se virou para a rua. — Não escreve no relatório. Não põe no sistema. Não fala com a Nise, não fala com o Vilar, não fala com ninguém.
+— Não põe no sistema. Não fala com a Nise nem com o Vilar até a gente entender. — Ele se virou para a rua.
 
-— E se voltar a acontecer?
+— Vou guardar uma cópia local e anotar a frase no meu caderno. — Val recolheu o tablet da mão dele. — Você não decide sozinho o que acontece com a prova.
 
-— Aí eu quero ser o primeiro a saber.
+— Então me mostra antes de entregar a alguém.
 
 O Cobalt estava na esquina, o capô ainda morno. Gabo abriu a porta, parou com a mão no teto e olhou o beco uma última vez. O sol batia no cimento nu e não encontrava nada para esconder.
 

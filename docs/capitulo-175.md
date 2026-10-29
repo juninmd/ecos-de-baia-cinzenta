@@ -27,13 +27,13 @@ Mas a tempestade de sinapses se estabilizou. O peso absurdo da armação puxou m
 
 — Não encosta no fim do curso — Vasco avisou. — O limitador está ruim. O batente pode prender a haste e queimar o servo; não foi feito para sustentar ninguém numa queda.
 
-Nise voltou e ouviu nossa decisão de seguir pelo ramal até sair do setor. Pôs o formulário na maca. — O posto é para o outro lado. Eu não estou liberando esse trajeto. — Assinei com a esquerda. Ela conferiu as fixações e entregou a Val curativos selados, horários e um canal de retorno; se a gaze encharcasse ou eu deixasse de conseguir apoiar a perna, teríamos de parar e chamar ajuda. A luva atuada de Val só abria e fechava grosseiramente a mão esquerda, sem devolver sensibilidade; desligada a bateria, os dedos enrijeciam. Fios e gatilhos continuavam trabalho da direita.
+Nise voltou e conferiu o fixador. Disse que o posto dela tinha mais recursos para continuar meu atendimento. Eu queria sair do setor, mas ainda precisava conversar com Val antes de decidir.
 
-Vasco separou dois cilindros de ar de resgate, duas máscaras com cartuchos para poeira e névoa e quatro cartuchos de Caronte, anotando tudo na dívida. As máscaras não garantiam proteção contra gases desconhecidos; o ar dos cilindros era reserva de retirada, não combustível para atravessar qualquer lugar. Valéria conferiu manômetros, vedações e a faixa impermeável que cobria meus curativos antes de guardar o conjunto.
+Vasco separou dois cilindros de ar de resgate, duas máscaras com cartuchos para poeira e névoa e quatro cartuchos de Caronte, anotando tudo na dívida. As máscaras não garantiam proteção contra gases desconhecidos; o ar dos cilindros era reserva de retirada, não combustível para atravessar qualquer lugar.
 
 — Bem-vindo de volta ao clube da sucata — Vasco murmurou, limpando o suor oleoso da testa com o antebraço sujo de graxa.
 
-Na maca ao lado, o bipe irregular de um osciloscópio mudou bruscamente de tom. Os monitores acoplados ao cyberdeck de Valéria piscaram em uma sequência frenética de código corrompido. O capacitor de carga que Vasco havia ligado na fiação dela estalou, liberando um fio de fumaça azulada.
+Na maca ao lado, o bipe irregular de um osciloscópio mudou bruscamente de tom. Os monitores acoplados ao cyberdeck de Valéria piscaram em uma sequência frenética de código corrompido. O capacitor de carga ligado à interface de diagnóstico estalou, liberando um fio de fumaça azulada.
 
 Virei o pescoço devagar, sentindo cada vértebra reclamar da nova carga no meu ombro.
 
@@ -43,7 +43,7 @@ Ela puxou o ar de repente, tossindo com o cheiro de ozônio queimado que tomava 
 
 — Que cheiro de... desgraça é esse? — a voz dela saiu raspada, mas com a ponta afiada de sempre. Ela tentou se erguer, os cotovelos tremendo na lona da maca. — Vasco, se você usou capacitor de geladeira de segunda mão no meu barramento primário de novo, eu juro que formato o terminal da sua oficina inteira.
 
-— Olha o respeito, garota — Vasco rosnou, recolhendo os alicates. — Teu núcleo lógico tava a dois graus de virar carvão no Arquivo. Se não fosse meu pulso de bypass, você ainda tava em coma induzido.
+— Olha o respeito, garota — Vasco rosnou, recolhendo os alicates. — Sua interface estava superaquecida e instável. A equipe cuidou de você; eu só consegui isolar o circuito defeituoso.
 
 Valéria piscou os olhos duas vezes, reconfigurando os drivers de foco. Foi quando o olhar dela desceu da bancada de ferramentas e parou em mim. Mais especificamente, no monstro de ferro que agora envolvia e sustentava o meu braço direito.
 
@@ -55,7 +55,7 @@ Ela arregalou os olhos prateados, a boca abrindo numa mistura de pavor genuíno 
 
 — O que ele pôde? — Valéria se sentou de vez, arrancando dois eletrodos descartáveis do peito com um puxão irritado. — Ele arrancou o guindaste de uma caçamba de entulho da Zona Portuária e parafusou no seu osso quebrado! Olha o diâmetro dessa haste hidráulica, Gabo! Você não vai conseguir nem coçar o nariz sem arrancar a metade da própria cara.
 
-— Ele tá vivo e com o braço no lugar, alinhado e imobilizado. Funcional é outra conversa — rebateu Vasco, cruzando os braços gordos. — E para de reclamar, Cruz. O seu firmware ainda tá rodando em modo de segurança secundário. Teu analisador de risco tá apitando daqui.
+— Ele tá vivo e com o braço no lugar, alinhado e imobilizado. Funcional é outra conversa — rebateu Vasco, cruzando os braços gordos. — E para de reclamar, Cruz. Sua interface ainda está em modo de segurança. Aqueles alertas não substituem descanso.
 
 Valéria levou a mão à têmpora esquerda, onde a porta do implante neural ainda fumegava de leve. Ela fechou os olhos por um segundo, os nós dos dedos apertando os cabelos escuros da nuca batida. Uma careta de dor real cruzou seus traços jovens.
 
@@ -65,4 +65,8 @@ Valéria levou a mão à têmpora esquerda, onde a porta do implante neural aind
 
 Valéria deslizou as pernas para fora da maca, as botas gastas tocando o chão de concreto imundo com um estalo firme. Ela ajustou a jaqueta de couro puída sobre os ombros e recolheu o cyberdeck surrado com cuidado quase maternal, desconectando os cabos improvisados de Vasco.
 
-— Vou mandar ela pro inferno, igual a gente fez com o Sentinel — ela disse, respirando fundo e endireitando as costas. — Aria queimou tudo lá embaixo pra gente sair daquele buraco, Moretti. Não foi pra eu virar estatística fria numa bancada de fundo de quintal. Dá essa armação de trator pra cá e me ajuda a levantar. A gente tem uma cidade em ruínas pra atravessar.
+— Vou mandar ela pro inferno, igual a gente fez com o Sentinel — ela disse, respirando fundo e endireitando as costas. — Aria queimou tudo lá embaixo pra gente sair daquele buraco, Moretti. Não foi pra eu virar estatística fria numa bancada de fundo de quintal. Me ajuda a levantar. A gente precisa decidir para onde ir.
+
+Quando Val conseguiu ficar sentada, Nise explicou aos dois que preferia levá-los ao posto. Val queria sair do setor: os homens que procuravam Gabo podiam voltar. Nise não liberou o trajeto pelo ramal; eu assinei a saída com a esquerda, e Val confirmou que iria comigo. A médica entregou curativos selados, horários e um canal de retorno. Se a gaze encharcasse ou eu não conseguisse apoiar a perna, tínhamos de parar e chamar ajuda.
+
+A luva atuada de Val só permitia preensão grosseira com a mão esquerda, sem devolver sensibilidade; sem bateria, os dedos enrijeciam. Fios e gatilhos continuavam trabalho da direita. Ela conferiu os manômetros, as vedações e a faixa impermeável sobre meus curativos antes de guardar o conjunto. Lá fora, alguém bateu duas vezes na porta da clínica; Vasco apagou a luz da recepção.

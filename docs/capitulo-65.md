@@ -80,7 +80,7 @@ A tubulação de retorno atravessava a parede junto da entrada. Gotejava desde q
 
 — Val, o armário!
 
-Ele disparou contra a junção corroída. O jato abriu com o estrondo de metal sob pressão e atingiu as fixações já molhadas da cabine. A água de retorno trouxe sujeira e fragmentos para dentro; o piso começou a desaparecer sob ela. O refrigerante das piscinas permaneceu nos tanques — não era um oceano suspenso do outro lado do vidro.
+Com a esquerda, Gabo abriu a escopeta contra o chão, tirou um estojo vazio e encaixou o último cartucho. Fechou a arma apoiando-a na base do pedestal e disparou contra a junção corroída. O jato atingiu as fixações já molhadas da cabine. A água de retorno trouxe sujeira e fragmentos; o piso começou a desaparecer sob ela. O refrigerante das piscinas permaneceu nos tanques.
 
 Miranda perdeu apoio ao tentar proteger o rosto. Marco recuou contra o console, tirando o peso da mão de Gabo. Val alcançou o armário indicado antes, recolheu os aparelhos de resgate e tentou voltar ao pedestal. A pressão já empurrava papéis, ferramentas e partes do teto sobre quem estava no chão.
 

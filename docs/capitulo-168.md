@@ -14,7 +14,7 @@ O ar congelado a cinco graus carregava o fedor ocre e pontiagudo do silício fri
 
 Valéria ainda estava ajoelhada a poucos metros, os ombros sacudindo em espasmos silenciosos de luto e exaustão. Suas mãos, sujas de sangue e poeira, pendiam frouxas ao lado do corpo encolhido sob a jaqueta fina.
 
-Gabo mancou devagar, arrastando a bota no linóleo negro imaculado. A cada passo, as costelas seladas pela espuma química repuxavam, ameaçando reabrir a ferida sob sua jaqueta esfarrapada. Ele parou ao lado de Valéria e olhou para baixo, a expressão endurecida pelas incontáveis perdas que sedimentaram o caminho até aquele abismo.
+Gabo mancou devagar, arrastando a bota no linóleo negro imaculado. A cada passo, o curativo no abdômen repuxava, ameaçando reabrir a ferida sob sua jaqueta esfarrapada. Ele parou ao lado de Valéria e olhou para baixo, a expressão endurecida pelas incontáveis perdas que sedimentaram o caminho até aquele abismo.
 
 — Levanta, Val — a voz de Gabo raspou áspera no ar gelado. Ele não tentou oferecer consolo; Baía Cinzenta não deixava espaço para isso. — A máquina não vai religar. E a anomalia térmica ainda tá pulsando no alfa-sete.
 
@@ -37,19 +37,15 @@ O fedor do silício frito do Sentinel e de Aria foi subitamente expurgado das su
 Gabo sentiu a fumaça invisível rastejar para dentro da traqueia. A sala trancada de Dante. O cinzeiro transbordando enquanto as sirenes gritavam na rua. A apatia paterna condensada em fumaça que envenenava o menino assustado no canto. A alucinação não era uma lembrança; era um ataque asfixiante. A náusea contorceu seu estômago vazio em um nó de ferro. A bile ácida subiu, e o pânico da sufocação paralisou suas pernas. A fumaça ilusória enchia seus pulmões mortos de ar.
 
 Maldito seja.
-Gabo grunhiu, os dentes rangendo até a gengiva sangrar, e atirou o ombro direito e o braço fraturado contra a prateleira metálica fosca à sua direita.
+Gabo vacilou junto à estante. Val segurou seu lado esquerdo antes que o braço fraturado atingisse o metal.
 
-A aresta fria do aço negro esmagou o braço imobilizado sob as ataduras. O osso quebrado latejou violentamente sob o choque cinético.
+— Olha para mim. A coluna, a mesa, a luz verde. Está vendo?
 
-A dor explodiu — uma sinfonia branca e excruciante de pura agonia elétrica que fuzilou seu córtex pré-frontal. O clarão incandescente estilhaçou a alucinação de fumaça em milissegundos. O cheiro do cigarro evaporou, pulverizado pela força brutal da realidade traumática física. O ar limpo e congelante voltou a entrar em seus pulmões em golfadas desesperadas e trêmulas. O gosto de cobre do próprio lábio cortado o ancorava ao chão de linóleo.
-
-A dor era sua guia. O único mapa confiável na escuridão de Aeterna.
-
-Valéria parou, olhando de soslaio para o detetive ofegante encostado na estante de metal, o sangue escorrendo manchando a pureza estéril do arquivo. Ela não fez perguntas; ela conhecia o ritual sangrento que o mantinha lúcido.
+Ele nomeou as três coisas com dificuldade. O cheiro lembrado persistiu, mas seus pés encontraram o chão.
 
 — A anomalia térmica... — Valéria quebrou o silêncio, apontando com um dedo trêmulo para o final do cânion escuro. — Está bem à frente. A radiação não está no infravermelho de rede. É pura dissipação de calor de um núcleo físico.
 
-Gabo descolou-se da estante com um gemido, ignorando a pulsação frenética em seu braço direito quebrado. A clareza devolvida pela dor aguda o impulsionou.
+Gabo descolou-se da estante com um gemido, ignorando a pulsação frenética em seu braço direito quebrado. Ele esperou a tontura diminuir antes de avançar.
 
 — Vamo lá. O velho não blindou o cofre com doze toneladas de aço de brincadeira — Gabo rosnou, recomeçando a marcha mancando pesadamente. — Essa merda deve ser o diário íntimo do velho.
 
@@ -69,14 +65,12 @@ Tecido cerebral humano.
 
 Valéria recuou meio passo, a mão subindo para a boca em puro choque existencial.
 
-— Gabo... isso não é um processador secundário... — ela sussurrou, a voz trêmula ecoando na alcova, a luz verde das telas refletindo em seus implantes oculares. — Aquele terminal ali embaixo do vidro... ele é operado por isso. A Aeterna não construiu uma IA pra proteger os arquivos antes da queda. Eles usaram wetware. Memória molhada.
+— Gabo... isso não é um processador secundário... — ela sussurrou, a voz trêmula ecoando na alcova, a luz verde das telas refletindo em seus implantes oculares. — O terminal está ligado ao tanque. Pode ser processamento em tecido vivo, mas a conexão sozinha não explica o que ele faz.
 
 Gabo caminhou arrastando os pés até a borda da mesa executiva. Ele olhou para a massa pálida e enrugada suspensa no tanque de conservação. O calor ínfimo que Aria detectara emanava dos aquecedores de suporte de vida primitivos que mantinham o pedaço de carne neural viável para conduzir códigos encriptados desde a instalação indicada na etiqueta. A circulação do fluido não demonstrava, por si, consciência preservada.
 
 Quis atribuir aquilo ao pai antes de ler uma linha. A vontade não era prova. Pediu a Val que fotografasse a etiqueta, os conectores e o estado do suporte antes de tocar no console. Se havia um nome ali, precisavam lê-lo inteiro.
 
-O Taxidermista não foi o primeiro a usar carne humana para alimentar o silício da Aeterna Corp.
-
-Dante Moretti já havia cortado o caminho muito antes da queda de Prometeu.
+A etiqueta trazia uma data anterior à queda de Prometeu. O resto ainda precisava ser confrontado com os registros.
 
 — Aquele filho da puta — Gabo sibilou, a voz como veneno ácido escorrendo de uma ferida aberta, os olhos negros cravados no cilindro de vidro pálido que pulsava suavemente, enquanto a dor em seus pulsos enfaixados tornava a verdade cristalina e brutal. O cofre do pai não guardava apenas segredos corporativos; guardava a semente do próprio horror da Necrópole.

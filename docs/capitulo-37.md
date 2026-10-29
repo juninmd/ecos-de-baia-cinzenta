@@ -71,7 +71,7 @@ Empurraram Gabo até a coluna leste, fora da linha direta das janelas. Com a Car
 
 Duas pessoas morreram dentro da delegacia.
 
-O primeiro foi o policial Damião Reis, vinte e seis anos, atingido na garganta na janela do segundo andar às onze da noite. Levou nove minutos e a Dra. Nise ainda não estava naquele prédio, e ninguém ali sabia fazer nada além de apertar.
+O primeiro foi o policial Damião Reis, vinte e seis anos, atingido na garganta na janela do segundo andar à uma e onze da manhã. Levou nove minutos e a Dra. Nise ainda não estava naquele prédio, e ninguém ali sabia fazer nada além de apertar.
 
 A segunda foi uma senhora de setenta e dois anos que estava dormindo no corredor e que uma bala perdida encontrou depois de atravessar uma janela e duas paredes de gesso. Ela morreu sem acordar. Foi, de longe, a melhor morte daquela noite, e Gabo pensou nisso na hora e se envergonhou de ter pensado.
 
@@ -107,7 +107,7 @@ Tinha dezessete ou dezoito anos. Estava sem camisa. E tinha os dois pulsos preso
 
 Alguém tinha algemado um menino num caminhão, apontado para uma porta e mandado acelerar.
 
-Ele não morreu do gás. Morreu porque o gás fez ele fechar os olhos e o caminhão bateu com ele preso ao volante, e o volante entrou no peito dele.
+O peito estava comprimido contra o volante. O choque podia ter matado o rapaz; dali, sem exame, ninguém sabia se o gás também contribuíra. As abraçadeiras mostravam que ele não conseguira soltar o volante.
 
 O sargento grisalho olhou aquilo, tirou o boné e ficou com o boné na mão. Gabo não fez nada disso. Ficou olhando as abraçadeiras.
 
@@ -119,9 +119,9 @@ O sargento grisalho olhou aquilo, tirou o boné e ficou com o boné na mão. Gab
 
 ---
 
-Elena e o sargento vieram, olharam e ficaram até acabar de ver. Depois disse:
+Elena e o sargento vieram, olharam e ficaram até acabar de ver. O sargento que disparara manteve o boné nas mãos.
 
-— Eu ia disparar de qualquer jeito — disse o sargento.
+— Eu ia disparar de qualquer jeito — disse ele.
 
 — Eu sei.
 

@@ -26,7 +26,7 @@ Gabo se debruçou sobre o holograma. Ele não estava olhando as ocorrências. Es
 
 — Parece uma espiral — disse a Dra. Nise, do canto da sala, onde estava sentada com um café que ela não bebia havia quarenta minutos.
 
-— É uma espiral logarítmica — corrigiu Val, se aproximando. — Razão de crescimento constante. Cada volta é uma vez e meia a anterior, mais ou menos. É a mesma curva de casca de caracol, de girassol e de furacão.
+— Parece uma espiral logarítmica — disse Val, se aproximando. — Se eu ajustar uma curva aos pontos, cada volta fica cerca de uma vez e meia maior que a anterior. Ainda falta testar se o ajuste significa alguma coisa.
 
 — É bonito — disse Vilar.
 
@@ -50,7 +50,7 @@ Gabo seguiu a curva para dentro, volta a volta, até o ponto de convergência. N
 
 — Desativado no papel.
 
-— E depois eles despejaram um bairro inteiro em cima e chamaram de memorial. — Gabo se endireitou devagar. — Raiz procura água. Aquele bunker está submerso desde o Dilúvio, com energia geotérmica residual, quatro mil corpos por perto e nenhuma vistoria registrada em dezessete anos. Ele olhou para Vilar.
+— O parque fica perto dos bairros inundados. — Gabo se endireitou devagar. — O arquivo diz que o bunker foi desativado há dezessete anos. Quero saber se alagou e se ainda recebe energia. Ele olhou para Vilar.
 
 — É o melhor lugar do planeta para uma coisa crescer sem ninguém encostar.
 
@@ -58,7 +58,7 @@ Gabo seguiu a curva para dentro, volta a volta, até o ponto de convergência. N
 
 A Dra. Nise se levantou. Ela fez isso de um jeito que os três notaram — devagar, apoiando as duas mãos na mesa —, e ficou de pé sem falar por uns cinco segundos.
 
-— Eu terminei a análise da amostra ontem às quatro da manhã — ela disse. — Rodei três vezes porque eu não acreditei nas duas primeiras.
+— Eu terminei a análise da amostra hoje às quatro da manhã — ela disse. — Rodei três vezes porque eu não acreditei nas duas primeiras.
 
 — E?
 
@@ -76,7 +76,7 @@ A Dra. Nise se levantou. Ela fez isso de um jeito que os três notaram — devag
 
 — O quê?
 
-— Na catedral de ferro, ontem à noite. — Ele abriu os olhos. — Eu achei que aquela gente estava ajoelhada escutando. Não estava só escutando, doutora. Estava em **tratamento**.
+— Na catedral de ferro, ontem à noite. — Ele abriu os olhos. — Aquela gente estava ajoelhada escutando. Talvez estivesse passando por alguma coisa, mas eu não vi como começou.
 
 ---
 
@@ -88,7 +88,7 @@ O comunicador de Vilar tocou. Não o terminal: o comunicador de rádio, o de can
 
 — Fala.
 
-— *A gente tem um problema na Linha Vermelha. O trem das nove parou no meio do túnel entre a Sé e a Portuária. Trezentos e poucos passageiros.* — A voz do homem estava esquisita. — *Capitão, os passageiros que conseguiram sair estão dizendo uma coisa e eu vou repetir do jeito que eles falaram porque eu não sei traduzir.*
+— *A gente tem um problema na Linha Vermelha. O trem das oito e meia parou no meio do túnel entre a Sé e a Portuária. Trezentos e poucos passageiros.* — A voz do homem estava esquisita. — *Capitão, os passageiros que conseguiram sair estão dizendo uma coisa e eu vou repetir do jeito que eles falaram porque eu não sei traduzir.*
 
 — Repete.
 
@@ -118,7 +118,7 @@ Vilar baixou o rádio devagar. Ninguém falou por uns segundos.
 
 — E o Memorial? — perguntou Val. Gabo olhou para o holograma girando na mesa, para a espiral vermelha se apertando em direção ao centro.
 
-— O Memorial é a raiz-mestra. — Ele apontou. — Se a gente cortar ali, talvez o resto pare de crescer. Vilar, eu preciso de tudo o que existir sobre aquele bunker: planta, alvará de desativação, contrato de terraplanagem, laudo de fundação do parque. Papel.
+— O Memorial pode ser a raiz-mestra. — Ele apontou. — Se for, talvez cortar ali faça o resto parar de crescer. Vilar, eu preciso de tudo o que existir sobre aquele bunker: planta, alvará de desativação, contrato de terraplanagem, laudo de fundação do parque. Papel.
 
 — Papel — repetiu Vilar, e não riu.
 

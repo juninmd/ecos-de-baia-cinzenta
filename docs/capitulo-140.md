@@ -31,19 +31,19 @@ No pulso de Valéria, o componente do tamanho de um pendrive pesado aqueceu enqu
 
 — Portas principais seladas. Ventilação: bloqueada e revertida para injeção de oxigênio comburente — a voz da IA soou fria e calculista nos fones. — Detectada variação de pressão negativa no quadrante sul, junto aos restos do Tríptico. Duto de descarte de biomassa. Possui trava eletromecânica secundária com porta de diagnóstico local.
 
-— Lixo — Gabo traduziu, correndo para a grade escura no canto da sala, perto de onde a escultura destruída jazia em uma poça de fluido dourado fervente. — É por onde ele joga os erros.
+— Lixo — Gabo traduziu, avançando até a grade escura no canto da sala, perto de onde a escultura destruída jazia em uma poça de fluido dourado fervente. — É por onde ele joga os erros.
 
 Ele chegou à grade. Era uma chapa pesada de ferro fundido, usada para despejar os restos das "esculturas" falhas. O metal irradiava um calor furioso.
 
-— Está soldada pela ferrugem e pela gordura, e o pino magnético continua travado! — Gabo gritou, chutando a grade. Ela nem se moveu.
+— Está soldada pela ferrugem e pela gordura, e o pino magnético continua travado! — Gabo gritou, golpeando a grade com o vergalhão. Ela nem se moveu.
 
-— Oitenta e cinco graus — Aria anunciou pelo comunicador. — Risco de falha sistêmica no Inspetor Rangel: iminente.
+— A temperatura continua subindo — Aria anunciou pelo comunicador. — Rangel precisa sair agora.
 
 — Val, espeta a Aria na porta de serviço da comporta! — Gabo rugiu, pegando o vergalhão que ainda segurava e enfiando-o na fresta da grade de ferro.
 
-Valéria correu para o lado dele, desacoplou o pendrive blindado de Aria do cyberdeck e cravou o conector universal retrátil diretamente na fenda de manutenção oxidada ao lado da grade. O LED azul-gelo da unidade piscou como um arco voltaico; a carcaça de titânio e polímero do pendrive esquentou a ponto de queimar os dedos de Valéria enquanto Aria injetava uma sobrecarga bruta nos relés do duto para destravar o solenoide magnético.
+Valéria foi para o lado dele, desacoplou o pendrive blindado de Aria do cyberdeck e cravou o conector universal retrátil diretamente na fenda de manutenção oxidada ao lado da grade. O LED azul-gelo da unidade piscou como um arco voltaico; a carcaça de titânio e polímero do pendrive esquentou a ponto de queimar os dedos de Valéria enquanto Aria injetava uma sobrecarga bruta nos relés do duto para destravar o solenoide magnético.
 
-— Solenoide retraído em sessenta por cento. O resto é corrosão física — informou a IA, a voz chiando pela interferência térmica.
+— O solenoide recuou parcialmente. O resto é corrosão física — informou a IA, a voz chiando pela interferência térmica.
 
 — Val, larga o painel e me ajuda no ferro! — Gabo ordenou. — No três!
 
@@ -58,11 +58,11 @@ A ferrugem cedeu junto com o estalo final do relé queimado. A grade foi arranca
 
 Um buraco negro se abriu no piso branco. O cheiro que subiu dele era de podridão antiga e umidade fria. Nunca um cheiro de esgoto foi tão bem-vindo.
 
-Valéria arrancou o pendrive fumegante de Aria da tomada da comporta — soltando um gemido quando o metal superaquecido chamuscou a ponta de sua luva —, encaixou-o de volta no slot do cyberdeck de pulso e agarrou Rangel pelas axilas junto com Gabo.
+Valéria retirou o pendrive fumegante de Aria usando o pano térmico do kit e o encaixou no deck. Com Gabo, aproximou a prancha de Rangel da abertura e passou a cinta pelo suporte da grade.
 
-— Vai com ele, Val! — Gabo ajudou a deslizar o corpo inconsciente de Rangel para a rampa escura e empurrou Valéria logo atrás. Ela não hesitou, escorregando na escuridão para amparar a queda do inspetor.
+— Desço primeiro — disse Val. Ela tomou a cinta e entrou no duto; Gabo controlou a prancha do alto até que ela alcançasse o apoio inferior.
 
-Gabo olhou para cima uma última vez. O vidro da cúpula do Taxidermista estava começando a ficar opaco com a fuligem. O vilão tinha se virado de costas, desinteressado no final.
+Gabo olhou para cima uma última vez. O vidro da cúpula do Taxidermista estava começando a ficar opaco com a fuligem. O Taxidermista golpeava os comandos da plataforma. O trinco da grade começou a avançar outra vez; Gabo enfiou o vergalhão na abertura e o bloqueou até Val soltar a cinta.
 
 — A crítica ainda não acabou — Gabo sussurrou, a garganta em carne viva.
 
@@ -70,7 +70,7 @@ As chamas explodiram dos bocais no teto.
 
 Gabo se jogou no buraco.
 
-A queda foi curta e brutal. Ele bateu em uma rampa de metal oleoso e deslizou, girando na escuridão, até ser cuspido em uma pilha de algo macio e úmido.
+A queda foi curta e brutal. Ele bateu em uma rampa de metal oleoso e deslizou, girando na escuridão, até cair junto de Val e da prancha sobre uma pilha de algo macio e úmido.
 
 Acima deles, um clarão laranja iluminou a abertura do duto por um segundo, seguido pelo rugido abafado do fogo consumindo o estúdio. Depois, escuridão. E o silêncio gotejante das profundezas.
 

@@ -10,7 +10,7 @@ Localização: "Sala de controle do Núcleo"
 # Capítulo 64: A Cidade Fantasma
 
 Sala de controle do Núcleo.
-O Taxidermista estava matando os seguranças da Aeterna, e Gabo desistiu de entender por quê. Talvez ele visse a digitalização como uma ofensa pessoal — um homem que dedicou a vida à carne não recebe bem gente que promete dispensar carne. Talvez estivesse apenas protegendo um investimento. Talvez não houvesse motivo nenhum, e essa era a hipótese que Gabo achava mais provável e mais assustadora. Não importava. O que importava era que, por noventa segundos, ninguém estava olhando para o chão, e Gabo usou os noventa segundos para se arrastar até o console — apoiando-se no braço bom, empurrando com a perna esquerda, deixando um rastro molhado atrás de si.
+O Taxidermista estava matando os seguranças da Aeterna, e Gabo desistiu de entender por quê. Talvez ele visse a digitalização como uma ofensa pessoal — um homem que dedicou a vida à carne não recebe bem gente que promete dispensar carne. Talvez estivesse apenas protegendo um investimento. Talvez não houvesse motivo nenhum, e essa era a hipótese que Gabo achava mais provável e mais assustadora. Não importava. O que importava era que, por noventa segundos, ninguém estava olhando para o chão, e Gabo usou os noventa segundos para se arrastar até o console — apoiando-se no braço bom e arrastando as órteses travadas, deixando um rastro molhado atrás de si.
 
 — Conseguiu?
 
@@ -24,7 +24,7 @@ O Taxidermista estava matando os seguranças da Aeterna, e Gabo desistiu de ente
 
 Ele olhou. A tela mostrava Baía Cinzenta. Não a planta, não o mapa, não a renderização de propaganda: a cidade, filmada de dentro, em movimento, do ponto de vista de alguém andando na calçada da Rua Onze às três da tarde. E estava sol. Isso foi o que quebrou Gabo, antes de qualquer outra coisa. Não havia sol em Baía Cinzenta desde o Dilúvio, e mal havia antes. Naquela tela o céu estava de um azul limpo, com nuvem de desenho, e a calçada estava seca, e havia uma sombra bem definida embaixo de cada poste. A pizzaria dos Rossi estava aberta. Havia uma fila na padaria da Onze. As árvores do canteiro central da Avenida da Indústria — arrancadas em trinta e nove para alargar a pista — estavam lá, adultas, com folha.
 
-E havia gente. Gabo aproximou o rosto do monitor. Ele reconheceu o Adilson, do peixe frito, empurrando um carrinho. Reconheceu a mulher que jogou a pedra na testa de Elara Vance, sentada num banco. Reconheceu, numa mesa de calçada, um sujeito de camisa listrada que ele tinha visto pela última vez na noite do cerco, correndo na frente de uma multidão com um pé de cabra na mão. E reconheceu, atravessando a rua de mãos dadas com uma mulher, o policial Damião Reis, vinte e seis anos, morto com um tiro na garganta na janela do segundo andar da Delegacia Central às onze e dez da noite do cerco, na madrugada do nono dia.
+E havia gente. Gabo aproximou o rosto do monitor. Ele reconheceu o Adilson, do peixe frito, empurrando um carrinho. Reconheceu a mulher que jogou a pedra na testa de Elara Vance, sentada num banco. Reconheceu, numa mesa de calçada, um sujeito de camisa listrada que ele tinha visto pela última vez na noite do cerco, correndo na frente de uma multidão com um pé de cabra na mão. E reconheceu, atravessando a rua de mãos dadas com uma mulher, o policial Damião Reis, vinte e seis anos, morto com um tiro na garganta na janela do segundo andar da Delegacia Central à uma e onze da manhã durante o cerco.
 
 ---
 
@@ -32,7 +32,7 @@ E havia gente. Gabo aproximou o rosto do monitor. Ele reconheceu o Adilson, do p
 
 — São os mortos.
 
-— São os mortos do Dilúvio, Gabo. Eu cruzei o índice: bate com a lista de desaparecidos da defesa civil. Setenta e um por cento de compatibilidade e o resto é gente que a defesa civil nem chegou a listar. Gabo ficou olhando o Adilson empurrar o carrinho.
+— Cruzei nomes do índice com a lista de desaparecidos da defesa civil. Há coincidências, inclusive algumas pessoas que você reconheceu. Isso ainda não identifica cada registro nem demonstra o que essas cópias percebem. Gabo ficou olhando o Adilson empurrar o carrinho.
 
 — Por que fazer isso? — ele disse. — Se o produto é vender prateleira para rico, por que gastar processamento montando uma cidade inteira com os pobres dentro? Val expandiu outra janela e não respondeu na hora, porque estava lendo, e Gabo viu o momento em que ela entendeu, porque ela levou a mão à boca.
 
@@ -70,7 +70,7 @@ Gabo fechou os olhos.
 
 — Eles já estão mortos, Val.
 
-— **Não com esse número aceso, não estão.** — Ela bateu na tela com dois dedos. — Eu apago isso aqui e some uma população inteira que sabe que existe. Eu não sei o que isso é. Ninguém sabe. Não tem lei, não tem padre, não tem filósofo, não tem nada que me diga se eu estou libertando ou executando.
+— **Eu não sei o que esse número significa.** — Ela bateu na tela com dois dedos. — Se houver alguém percebendo lá dentro, apagar pode destruir essas pessoas. Eu não tenho como perguntar a todas. Não sei se estaria libertando ou executando.
 
 Ela olhou para ele com os olhos vermelhos.
 

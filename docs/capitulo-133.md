@@ -2,7 +2,7 @@
 title: "Capítulo 133: Matéria Prima"
 Data In-Game: "Pós-Colapso da Usina Prometeu (Noite Eterna)"
 Localização: "Necrópole (O Ateliê do Taxidermista)"
-Personagens Presentes: "Gabo, Valéria, Aria (Glitch/Bia), Rangel (Inconsciente)"
+Personagens Presentes: "Gabo, Valéria, Aria (áudio instável), Rangel (Inconsciente)"
 description: "A réplica de Bia é uma construção do Taxidermista. Não é um corpo de Aria. Uma entrada hostil explora o controlador de saída danificado."
 ---
 
@@ -18,7 +18,7 @@ Ela estava certa. As paredes de concreto bruto e vergalhões expostos haviam dad
 
 Era um matadouro.
 
-— *O Ateliê* — sussurrou Aria pelo fone auricular de Gabo. A voz adulta de Aria acompanhava as imagens que a câmera conseguia transmitir. — *Ele sempre quis um espaço maior. O sótão na Torre do Relógio era... apertado.*
+— *O painel na porta diz Ateliê* — avisou Aria pelo canal restrito. — *Não tenho planta desse espaço.*
 
 Gabo parou, ofegante. O suor frio escorria por suas costas, misturando-se à sujeira do esgoto. Ele largou a correia da maca e pressionou a testa contra o azulejo frio da parede. O cheiro químico de formol misturado à podridão bateu como um soco no estômago, trazendo uma onda de vertigem e asfixia traumática que fez seus joelhos tremerem.
 
@@ -30,9 +30,9 @@ Ele levou a mão ao peito, apertando o *Colar de Sol* através da camisa suja. O
 
 — Mais esculturas? — Valéria perguntou, sacando uma chave inglesa pesada do cinto de ferramentas.
 
-— *Negativo* — respondeu Aria pelo alto-falante do deck, o LED do pendrive piscando sob a penumbra. — *Matéria-prima.*
+— *Ainda não posso identificar* — respondeu Aria pelo alto-falante do deck.
 
-Eles avançaram. O túnel se abriu em um salão vasto, iluminado por lâmpadas de filamento penduradas em fios desencapados, lançando uma luz amarela e doente sobre o cenário.
+Val verificou o medidor na entrada: o ponteiro havia baixado com o ar puxado pelos exaustores do salão, mas o aparelho antigo não garantia que o gás estivesse ausente em todos os pontos. Eles avançaram sob lâmpadas de filamento penduradas em fios, entre paredes amarelas e doentes.
 
 Gabo teve que cobrir a boca para não vomitar.
 
@@ -88,7 +88,7 @@ O transponder da vitrine repetia pacotes de identificação no barramento óptic
 
 — *Canal de reprodução sem origem confirmada:* — a voz de Bia sussurrou trêmula nos fones de ouvido, inundando o visor de Valéria com janelas de erro. — *Gabo, eu... — A gravação repetiu o nome. Aria tentou sobrepor um aviso e perdeu a saída de áudio.*
 
-— Aria, corta a leitura óptica! É um manequim! — Gabo gritou para o comunicador, mas o sistema tático estava completamente travado pelo choque emocional do substrato neural.
+— Aria, corta a leitura óptica! É um manequim! — Gabo gritou para o comunicador, mas a entrada hostil continuava reabrindo o canal danificado.
 
 Um som mecânico pesado ecoou atrás da vitrine. Portas de contenção se abriram.
 

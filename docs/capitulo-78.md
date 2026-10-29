@@ -3,7 +3,8 @@ layout: doc
 title: "Capítulo 78: O Jardim de Concreto"
 description: "Um armazém que a cidade jura estar vazio. Lá dentro, o primeiro jardim — e a descoberta de que existe um ponto cego dentro de uma inteligência que enxerga tudo."
 image: /capitulo_78.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Capitão Jonas Vilar, Dra. Nise, Aria
+Personagens Presentes: Gabriel "Gabo" Moretti, Capitão Jonas Vilar e homem de macacão
+Participação em referência: Dra. Nise
 Localização: "Zona Leste, antigo Distrito Industrial — 10h"
 ---
 

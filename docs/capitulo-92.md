@@ -44,8 +44,6 @@ Apoiado no concreto, pressionou uma compressa sobre o coto. Não tinha outra mã
 
 Vilar deixou a proteção no chão e foi para a muralha.
 
-Chutou para longe e foi para a muralha.
-
 ---
 
 — **CAPITÃO!** — A voz veio do alto da passarela. Era o Tenente Aldo Peçanha, trinta e dois anos, o único ali que ainda batia continência. — Capitão, as muralhas!

@@ -15,7 +15,7 @@ Valéria terminou de amarrar o cyberdeck às costas com tiras de lona encerada p
 
 — E como tá a rede por lá?
 
-— Que rede, Gabo? — ela soltou um meio-riso irônico, cuspindo no chão de granilite rachado. — A rede morreu quando a Usina Prometeu apagou. Não tem sinal, não tem satélite, não tem nem rádio de baixa frequência. A única coisa que tá vazando pelos canos é interferência estática e água de escoamento químico. Vamos descer antes que o cheiro desse lodo grude no forro da minha jaqueta pra sempre.
+— Que rede, Gabo? — ela soltou um meio-riso irônico, cuspindo no chão de granilite rachado. — Não consigo alcançar a rede daqui. O rádio só pega interferência; não sei o que está funcionando na superfície. A única coisa que tá vazando pelos canos é interferência estática e água de escoamento químico. Vamos descer antes que o cheiro desse lodo grude no forro da minha jaqueta pra sempre.
 
 Descemos pelos trilhos enferrujados. A escuridão era densa, quase mastigável, furada apenas pelo facho estreito da lanterna que Valéria acoplou ao cano da arma. O ar nos túneis de manutenção era frio e pesado, com gosto de enxofre e amônia que ardia no fundo da garganta.
 
@@ -47,11 +47,11 @@ No centro daquela massa viva, a carcaça de um drone de patrulha da Aeterna — 
 
 Valéria se agachou a dois metros da borda da massa luminosa, os olhos prateados arregalados e as pontas dos dedos estendidas para o scanner manual do deck.
 
-— Não é só matéria fúngica, Gabo — ela apontou o sensor com uma precisão cirúrgica, a respiração presa na garganta. — O fungo tá mimetizando as conexões neurais do drone. Ele tá crescendo pra dentro das portas de barramento, decodificando os protocolos ópticos da Aeterna... A porcaria da biomassa tá usando o hardware descartado como esqueleto de processamento.
+— Não é só matéria fúngica, Gabo — ela apontou o sensor com uma precisão cirúrgica, a respiração presa na garganta. — Os filamentos entram nas portas do drone. Não consigo dizer se estão transmitindo dados ou só crescendo sobre ele.
 
-— Eles estão construindo uma rede própria no escuro.
+— Pode ser uma rede — eu disse. — Ou só outro cadáver tomado pela colônia.
 
-— E com fome de metal limpo — ela se levantou rápido, recuando um passo e apontando a lanterna para os dutos superiores, onde raízes fibrosas rastejavam como veias pulsantes sobre o concreto. — Apaga o indicador do seu ombro, Moretti. A frequência dessa luminescência é de dois hertz. Eles reagem a calor e pulso eletromagnético. Ela reagiu quando o sensor chegou perto, mas não sabemos se foi luz, calor ou movimento. Não encoste o suporte nela para testar.
+— E com fome de metal limpo — ela se levantou rápido, recuando um passo e apontando a lanterna para os dutos superiores, onde raízes fibrosas rastejavam como veias pulsantes sobre o concreto. — Apaga o indicador do seu ombro, Moretti. A frequência dessa luminescência é de dois hertz. Ela reagiu quando o sensor chegou perto, mas não sabemos se foi luz, calor ou movimento. Não encoste o suporte nela para testar.
 
 Levei a mão de carne ao painel da armação e girei o dial até o ponto morto. O LED verde do ombro morreu, e com ele morreu metade da força: os pistões travaram na posição em que estavam, e o braço virou de repente um peso de vinte quilos pendurado na clavícula, sem contrapeso, sem ajuda.
 

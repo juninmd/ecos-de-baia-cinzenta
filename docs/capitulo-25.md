@@ -35,7 +35,7 @@ Valéria fechou a porta de inspeção pelo comando que ainda estava aberto no le
 
 — Pela doca, agora.
 
-Elena precisou apoiar a Caronte na borda da coluna para disparar. O segundo impacto desmontou o suporte da arma do drone. A máquina caiu girando, ainda presa a um cabo. O ruído atingiu o ouvido bom de Gabo; do outro lado restou um chiado contínuo.
+Elena guardou a Glock na bolsa, puxou a Caronte do carrinho e apoiou a coronha na borda da coluna para disparar. O impacto desmontou o suporte da arma do drone. A máquina caiu girando, ainda presa a um cabo. O ruído atingiu o ouvido bom de Gabo; do outro lado restou um chiado contínuo.
 
 O elevador de carga tinha tamanho para receber o Cobalt. Diante dele, seis homens de armadura branca aguardavam atrás de divisórias móveis. Não eram rostos: eram visores devolvendo a imagem dos três.
 

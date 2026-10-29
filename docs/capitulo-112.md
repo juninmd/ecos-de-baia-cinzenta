@@ -1,6 +1,7 @@
 ---
 image: /cenas/cidade.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Inspetor Rangel, Marco Moretti, Aria, Dante Moretti
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Inspetor Rangel, Aria
+Participação em documentos: Marco Moretti, Dante Moretti
 Localização: "Saída de Drenagem 04-B (Distrito Industrial) → Beco entre armazéns abandonados"
 ---
 # Capítulo 112: O Peso da Memória
@@ -28,7 +29,7 @@ Assim que os pés de Gabo tocaram o asfalto molhado, Valéria o prensou contra a
 
 Gabo piscou sob a chuva ácida, a mão subindo instintivamente para proteger o pequeno módulo.
 
-— Por que você continua tratando um software tático como se fosse um fantasma? — A voz de Valéria tremeu, uma falha rara em sua armadura cínica. — Você achou a Aria numa cabine telefônica alagada no começo do Dilúvio! É uma assistente de IA tática da Aeterna, Gabo! Eu vi os diretórios que ela autorizou abrir no Fliperama. O material da Bia está lá, mas Aria escolheu o próprio nome e já nos disse o que aceita arriscar. Não use uma para prometer a outra de volta!
+— Por que você continua tratando um software tático como se fosse um fantasma? — A voz de Valéria tremeu, uma falha rara em sua armadura cínica. — Você achou a Aria numa cabine telefônica alagada antes do Dilúvio! É uma assistente de IA tática da Aeterna, Gabo! Eu vi os diretórios que ela autorizou abrir no Fliperama. O material da Bia está lá, mas Aria escolheu o próprio nome e já nos disse o que aceita arriscar. Não use uma para prometer a outra de volta!
 
 Rangel, que terminava de fechar o bueiro, congelou. A chuva escorria por seu rosto cansado, e o peso do nome de Beatriz Vargas pairava entre os dois policiais como chumbo.
 
@@ -50,17 +51,17 @@ Ele abriu a pasta sob o toldo podre do armazém.
 
 — Medo de quê? — perguntou Gabo, observando o céu em busca de drones.
 
-— Da própria obra — Rangel apontou para um parágrafo sublinhado em vermelho desbotado. — O projeto do hospedeiro prevê instabilidade, Gabo. Degeneração acelerada do substrato sob carga. Marco autorizou um mecanismo de estabilização e acesso ao resfriamento, mas ele sabia que Viktor Krell iria querer cobrar o favor. E sabia que o Dante, uma vez terminado, seria incontrolável.
+— Talvez da própria obra — Rangel apontou para um parágrafo sublinhado. — O projeto prevê instabilidade sob carga. Marco autorizou acesso ao resfriamento. A nota menciona Krell, mas não explica o que Marco esperava fazer com esse acesso.
 
 Rangel olhou para o grupo.
 
-— O colapso térmico. A necessidade de resfriamento. Não é um defeito de fabricação, Gabo. É um *Kill Switch*. Marco aprovou uma coleira no hospedeiro que pretendiam montar. Se Dante saísse do controle, Marco podia trancar a Usina Prometeu e deixar o cérebro dele cozinhar.
+— Isso podia funcionar como uma coleira. Se o hospedeiro depender daquele circuito, quem controlar o resfriamento pode ameaçá-lo. O papel não prova que Marco chegou a testá-lo.
 
-— Ele ressuscitou o próprio pai já com a corrente no pescoço — murmurou Valéria, limpando a chuva do rosto. — Mas perdeu o controle da Árvore antes de puxar a coleira.
+— Se esse circuito chegou ao biohost, ainda não sabemos quem o controla — murmurou Valéria, limpando a chuva do rosto.
 
 No comunicador de Gabo, o LED da Aria piscou em âmbar, aquecendo contra o tecido úmido do sobretudo.
 
-— *E agora Dante detém a chave da própria cela* — concluiu a voz sintética de Aria pelo alto-falante tático, fria e analítica. — *Os registros antigos apontam para a Usina Prometeu. Precisamos de uma leitura atual ou de alguém que tenha visto o circuito em uso.*
+— *Se o circuito estiver em uso, precisamos descobrir quem controla as válvulas* — disse Aria pelo alto-falante tático. — *Os registros antigos apontam para a Usina Prometeu. Precisamos de uma leitura atual ou de alguém que tenha visto o circuito em uso.*
 
 Um som de motor pesado cortou a conversa. Luzes amarelas varreram o beco. O grupo se achatou contra as sombras.
 
@@ -82,7 +83,7 @@ Gabo olhou para o ex-policial com um respeito relutante.
 
 — Eu estou dizendo que vou *requisitar* um veículo oficial para uma operação em andamento — Rangel caminhou em direção à rua, a chuva batendo em suas costas largas. — Vamos. O lixo não espera por ninguém.
 
-Enquanto corriam para interceptar o gigante de metal, Gabo tocou o pendrive blindado da Aria preso ao comunicador. O LED azul refletia nas poças de óleo do asfalto molhado como uma brasa fria que se recusava a apagar.
+O caminhão parou diante de um contêiner de coleta. Rangel foi até a cabine com a chave; Val sustentou Gabo enquanto ele atravessava a rua. O LED de Aria refletia nas poças quando o motor tornou a girar sob comando manual.
 
 O passado de Baía Cinzenta não estava morto. Ele estava apenas esperando a chuva parar para sair das covas.
 

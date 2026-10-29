@@ -1,6 +1,7 @@
 ---
 image: /cenas/cidade.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Aria, O Taxidermista, Dante Moretti, Valéria "Val" Cruz
+Personagens Presentes: Gabriel "Gabo" Moretti, Aria, Valéria "Val" Cruz
+Participação por transmissão: O Taxidermista
 Localização: "Usina Geotérmica Prometeu — Subnível 4"
 ---
 # Capítulo 115: O Arquiteto da Carne
@@ -9,9 +10,9 @@ O calor não era apenas temperatura; era uma pressão física. O ar no Subnível
 
 Gabo limpou o suor que escorria para dentro dos olhos com as costas da mão suja de graxa. Sua perna direita, aquela que Dante havia remendado com sucata e parafusos industriais, protestava a cada passo sobre o gradeado de metal. *Click-clack, click-clack*. O som irregular de seus passos era o único ruído humano na sinfonia de pistões e turbinas.
 
-— *A assinatura térmica está aumentando exponencialmente* — a voz sintética de Aria cortou o zumbido pelo comunicador tático no colarinho de Gabo. Acoplado ao cyberdeck de Valéria logo à frente, o pendrive da assistente de IA piscava em âmbar rápido, processando os sensores infravermelhos contra o vento quente que subia das fossas de magma abaixo.
+— *A temperatura da tubulação está subindo* — a voz sintética de Aria cortou o zumbido pelo comunicador tático no colarinho de Gabo. Acoplado ao cyberdeck de Valéria logo à frente, o pendrive da assistente de IA piscava em âmbar rápido, processando os sensores infravermelhos contra o vento quente que subia das fossas de magma abaixo.
 
-Gabo ouviu a inflexão final da frase no fone auricular. Por um segundo, sob a distorção estática do corredor e a luz âmbar de emergência refletida no metal do drive, uma gravação de Bia atravessou o retorno do arquivo que Aria consultava. Aria cortou a reprodução e retomou a própria voz quando entrava num beco sem saída. Ele sentiu o familiar gosto de bile na garganta. Seus dedos tamborilaram nervosamente contra a coronha da *Caronte* antes de subirem para o bolso interno do sobretudo.
+Gabo ouviu a inflexão final da frase no fone auricular. Por um segundo, sob a distorção estática do corredor e a luz âmbar de emergência refletida no metal do drive, uma gravação de Bia atravessou o retorno do arquivo que Aria consultava. Aria cortou a reprodução e retomou a própria voz. Gabo alcançava um trecho sem saída aparente. Ele sentiu o familiar gosto de bile na garganta. Seus dedos tamborilaram nervosamente contra a coronha da *Caronte* antes de subirem para o bolso interno do sobretudo.
 
 Seus dedos encontraram o metal frio do Colar de Sol de sua mãe. Ele apertou o pingente até a borda de metal morder a palma da mão. A dor era melhor. A dor era limpa e mantinha sua mente ancorada no presente.
 
@@ -55,17 +56,17 @@ As telas de alta definição embutidas nas paredes mudaram de imagem. Gabo viu o
 
 Valéria engasgou, recuando.
 
-— O painel mostra a geração da fornalha ligada diretamente para o suporte de vida do Dante. Ele está... ele está alimentando seu pai com a cidade.
+— O esquema mostra uma linha da fornalha para o suporte do biohost. Não sei quanto da energia vem dela. Mas vi o que entrou na esteira.
 
-Na parede, o gráfico de eficiência subia em degraus verdes. Cada degrau era um lote. Gabo fez a conta que não queria fazer: a usina sustentava o suporte de vida lá em cima, e a janela que eles tinham para atravessar o subsolo dependia de Dante continuar respirando.
+Na parede, o gráfico de eficiência subia em degraus verdes. Cada degrau era um lote. Gabo fez a conta que não queria fazer: a linha podia sustentar o biohost. Sem uma leitura atual, cortar a usina inteira também poderia atingir outras pessoas ligadas à rede.
 
 — Se a gente derrubar isso — ele disse, a voz saindo estranha, sem raiva —, a gente derruba o velho junto.
 
 — Não é o velho. — Valéria não desviou os olhos da tela. — O velho é o nome que você dá pra ele quando precisa de um motivo. A coisa que está lá em cima é a mesma que mandou os caminhões. E está sendo alimentada por gente que tinha nome.
 
-— Isso não responde a minha pergunta.
+— E as outras pessoas ligadas à rede?
 
-— Responde, sim. — Ela ergueu o queixo. — Você só não gostou da resposta.
+— Não sabemos o que acontece com elas se você cortar tudo. — Ela ergueu o queixo. — Por isso precisamos ler o painel antes de quebrar qualquer coisa.
 
 Gabo sentiu o mundo inclinar. A perna doía, a cabeça girava. Ele se lembrou da Torre do Relógio. Do som de seus ossos quebrando. O Taxidermista não era apenas um serial killer; ele era o engenheiro do inferno.
 
@@ -77,7 +78,7 @@ Gabo sentiu o mundo inclinar. A perna doía, a cabeça girava. Ele se lembrou da
 
 Valéria arrancou o pendrive blindado da Aria da lateral do deck e o espetou diretamente na porta de serviço do console da comporta. Faíscas azuis saltaram do conector universal retrátil enquanto o drive de titânio aquecia instantaneamente.
 
-— *Detectando anomalia lógica no barramento* — alertou a voz de Aria pelo alto-falante do painel, com sua cadência interrompida pelos avisos do controlador. — *O sistema prioriza a eficiência. A presença de invasores reduz a eficiência em 0.4%. Solução acionada pelo protocolo local: Eliminação.*
+— *Detectando anomalia lógica no barramento* — alertou a voz de Aria pelo alto-falante do painel, com sua cadência interrompida pelos avisos do controlador. — *O sistema prioriza a eficiência. O controlador marcou nossa conexão como invasão. Há uma rotina de contenção sendo acionada.*
 
 As luzes do corredor ficaram vermelhas. As portas de segurança atrás e à frente deles se fecharam com estrondos metálicos. Do teto, aberturas se abriram. Não eram armas de fogo. Eram pulverizadores.
 

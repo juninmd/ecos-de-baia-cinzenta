@@ -1,9 +1,10 @@
 ---
 layout: doc
 title: "Capítulo 90: O Arquivista"
-description: "Numa biblioteca submersa, um velho de luva cirúrgica vende a Gabo a fraqueza do Jardim — e cobra num preço que só se percebe depois."
+description: "Numa biblioteca submersa, um velho entrega a Gabo um diário sobre o Jardim e uma hipótese perigosa sobre o Código Morto."
 image: /capitulo_90.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Silas Vance ("O Jardineiro"), Dante Moretti
+Personagens Presentes: Gabriel "Gabo" Moretti, Aloísio, o Arquivista
+Participação em referência: Silas Vance, Dante Moretti, Valéria "Val" Cruz e Aria
 Localização: "Biblioteca Municipal (submersa) — Nível -3"
 ---
 
@@ -48,17 +49,17 @@ A figura apareceu no topo de uma estante que emergia da água como ilha. Era um 
 
 — Todo mundo acha que ele morreu no primeiro surto da Febre Cinzenta.
 
-— Ele não morreu. Ele se **plantou**. — O velho deu de ombros. — É uma distinção que os obituários da época não estavam preparados para fazer.
+— O diário sugere que ele se **plantou**. — O velho deu de ombros. — Um obituário e essas páginas não bastam para eu dizer o que aconteceu com o homem.
 
 ---
 
 — Ele é o Jardineiro?
 
-— Ele é o Pai. — O Arquivista se aproximou com a prancha. — "Jardineiro" é função, e a função é ocupada por quem estiver de plantão. O senhor já conheceu pelo menos uma jardineira, imagino. Verde-pálida? Cicatriz de cesárea?
+— O diário o chama de Pai. — O Arquivista se aproximou com a prancha. — "Jardineiro" aparece como função, não como nome. O senhor já conheceu pelo menos uma, imagino. Verde-pálida? Cicatriz de cesárea?
 
 — Conheci.
 
-— Aquela era professora de educação física numa escola pública da Rua Onze. — Ele falou aquilo com um cuidado quase carinhoso. — Chamava-se Adriana. Vale a pena guardar, detetive. É a única coisa que o senhor pode fazer por ela.
+— Acho que era Adriana, professora de educação física da Rua Onze. Ela vinha buscar livros para a escola. — O cuidado na voz dele foi quase carinho. — A transformação pode ter me confundido. Se encontrar alguém que a conheceu, confirme o nome.
 
 ---
 
@@ -92,7 +93,7 @@ Gabo ficou olhando para ele.
 
 — Um vírus.
 
-— Uma rotina capaz de explorar os controladores que o substrato incorporou. O diário chama de retrovírus **digital**; o nome é uma analogia, detetive, não uma cultura para injetar em alguém. — O velho apontou o diário. — E ele existe. Um homem estava desenvolvendo exatamente isso, anos atrás, antes de morrer. Estava tentando construir uma arma contra inteligências artificiais e construiu, sem saber, a única arma que funciona contra isso aqui. Gabo sentiu o estômago descer.
+— Uma rotina que o autor acreditava capaz de explorar controladores incorporados ao substrato. O diário chama de retrovírus **digital**; o nome é uma analogia, detetive. Ele atribui o projeto ao seu pai, mas não registra um teste contra este Jardim. Gabo sentiu o estômago descer.
 
 — O Código Morto.
 
@@ -108,7 +109,7 @@ Gabo ficou um tempo em silêncio, com o bote balançando na água parada.
 
 — Eu quero ouvir o senhor dizer. O Arquivista suspirou.
 
-— Está na única coisa desta cidade que se recusou a virar carne. — Ele apontou vagamente para o norte, na direção do Hospital. — Na IA tática que o senhor resgatou de uma cabine telefônica no Dilúvio e que mantém num pendrive blindado de titânio, acoplado a um berço de contenção num quarto sem janela.
+— O diário menciona uma IA tática num módulo portátil. Uma requisição que chegou ao arquivo público identifica um berço de diagnóstico pedido por Valéria Cruz para o hospital. O resto — que seja a mesma IA e que ela esteja lá — eu deduzi. Posso estar errado.
 
 — Como o senhor sabe disso?
 
@@ -126,7 +127,7 @@ Gabo ficou um tempo em silêncio, com o bote balançando na água parada.
 
 — Então tem que ser alguém infectado.
 
-— Tem que ser alguém infectado, consciente, e disposto. — O Arquivista olhou para os braços de Gabo. — E o vírus não distingue. O autor prevê perda dos estados ligados ao controlador atacado. Pode alcançar toda a Raiz: o Jardim, os quarenta e um mil do túnel, a Colmeia inteira. E o operador.
+— O autor propõe alguém conectado, consciente e disposto. — O Arquivista olhou para os braços de Gabo. — Ele prevê perda dos estados ligados ao controlador atacado. Não sei quantos seriam alcançados. Nem o que aconteceria com o operador.
 
 — E ela.
 

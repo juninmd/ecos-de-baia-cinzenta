@@ -140,7 +140,7 @@ Gabo assentiu devagar.
 
 — Então a gente leva o pendrive e as baterias de pulso até lá.
 
-— **Até o Memorial?** — Val arregalou os olhos. — Gabo, é o coração da besta. E o banco de baterias do berço de injeção pesa cinquenta quilos, e a gente atravessa quatro quilômetros de zona ativa levando o pendrive da Aria até lá, com seiscentas pessoas atrás e um homem que não anda direito!
+— **Até o Memorial?** — Val arregalou os olhos. — Gabo, o conjunto de baterias e condensadores pesa oitenta e nove quilos. São quatro quilômetros de zona ativa, seiscentas pessoas dependendo da gente e um homem que não anda direito!
 
 — Então é melhor a gente começar a treinar.
 

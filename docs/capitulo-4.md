@@ -49,13 +49,13 @@ No salão, vidro inteligente e música de cordas escondiam o ruído das máquina
 
 Marco Moretti segurava uma taça como quem segurava uma votação ganha. Ao lado, na cadeira flutuante, Viktor Krell ouvia dois investidores. A bengala de titânio repousava sobre seus joelhos; os olhos de safira acompanhavam quem tomava a palavra.
 
-— A Prefeitura quer garantia de vagas — dizia Marco. — Não posso anunciar recolhimento sem capacidade de atendimento.
+— Vale aceitou seu financiamento para a reeleição e prometeu recolhimento sem dizer onde vai pôr as pessoas — dizia Marco. — Minha candidatura precisa oferecer vagas que existam. Se eu ganhar a prefeitura repetindo a mentira dele, não vou conseguir tirar ninguém da rua.
 
-— Pode anunciar a capacidade que contratar — respondeu Krell. — A LifeGen só processa o que estiver coberto.
+— Pode anunciar a capacidade que contratar — respondeu Krell. — A LifeGen só processa o que estiver coberto. Minha empresa pode financiar sua campanha; o contrato precisa sobreviver à eleição.
 
 Um investidor perguntou pelo custo de um leito. Marco corrigiu:
 
-— Unidade de acolhimento. Vai constar assim na Nova Alvorada.
+— Unidade de acolhimento. Vai constar assim na Nova Alvorada. — Marco pegou o tablet do assessor e aprovou a minuta sem exigir a identificação dos locais. Hesitou antes de devolver o aparelho. — Os endereços vêm depois. Vou cobrar cada um.
 
 Gabo entrou no círculo. Um garçom tentou lhe oferecer uma taça; ele a afastou com a esquerda.
 

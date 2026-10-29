@@ -102,6 +102,6 @@ Miranda agarrou seu sobretudo.
 
 — Não me entregue.
 
-Gabo olhou para a grade aberta. A lente vermelha da última Vespa surgiu do outro lado e parou, apontada para os dois.
+Gabo viu a lente vermelha da última Vespa surgir do outro lado da grade. Puxou Miranda para trás do buggy tombado quando os disparos atingiram a sucata. A chapa retorcida os cobria por enquanto; a clínica ficava depois da esquina.
 
-— Você vai depor — disse, levantando-o. — Inclusive sobre Bia.
+— Você vai depor — disse, procurando com a mão uma passagem entre os destroços. — Inclusive sobre Bia.

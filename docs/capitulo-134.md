@@ -10,21 +10,21 @@ description: "O reinício isola a entrada hostil e preserva identidade e histór
 
 O primeiro golpe não foi físico, foi térmico. O ar no Ateliê sibilou quando um dos Guardiões ativou a lança fundida ao seu braço direito. O jato de calor distorceu a visão de Gabo, transformando o laboratório estéril em uma miragem tremeluzente.
 
-— Val, reinicia a Aria! — Gabo gritou, chutando a maca de Rangel para trás de uma bancada de aço cirúrgico.
+— Val, reinicia a Aria! — Gabo gritou, puxando a prancha de Rangel para trás de uma bancada de aço cirúrgico.
 
 Ele rolou para a esquerda, escapando por pouco de um arco de fogo que derreteu o chão de azulejos onde ele estava um segundo antes. O cheiro de ozônio e cerâmica queimada inundou suas narinas, sobrepondo-se ao formol.
 
 Eram três. Gigantes grotescos, vestidos com restos de armaduras da Tropa de Choque, mas com a carne exposta enxertada diretamente no metal. Não tinham rostos, apenas placas de respiração e visores ópticos rudimentares. Eram ferramentas, não soldados.
 
-— *Cuidado com o fogo, Detetive,* — a voz do Taxidermista ecoou nos alto-falantes, divertida. — *O metano nestas profundezas é... temperamental. Uma faísca errada e todos nós viramos cinzas. Inclusive a minha Obra-Prima. Por isso as lanças dos meus meninos queimam em câmara selada. A sua escopeta, não.*
+— *Cuidado com o fogo, Detetive,* — a voz do Taxidermista ecoou nos alto-falantes. — *Os exaustores mantêm meu ateliê utilizável. Você sabe onde eles levam o gás?*
 
-Gabo praguejou. Ele não podia usar a escopeta *Caronte*. O recuo já seria um problema com o ombro esmagado pela garra da Quimera, mas o risco de explosão era suicídio. Ele estava em um barril de pólvora com três maçaricos ambulantes.
+Gabo praguejou. Ele não podia usar a escopeta *Caronte*. O ombro fora ferido na galeria, e o medidor antigo não garantia segurança em toda a sala. Os guardiões disparavam apesar disso; ele não pretendia confiar na avaliação do Taxidermista.
 
 Ele sacou a faca de cerâmica e empunhou uma barra de torção de aço cirúrgico da bancada com a mão boa. Era ridículo contra lanças térmicas, mas era o que havia.
 
 — Valéria! — ele rugiu, desviando de outro golpe que incinerou uma prateleira de braços preservados. Vidro explodiu, e fluido de conservação ferveu no chão.
 
-— Estou tentando! — Valéria estava ajoelhada atrás da bancada de inox, com o *Phantom V3* aberto no colo e o pendrive de titânio de Aria faiscando no barramento lateral. — o transponder da réplica está explorando o driver de entrada danificado! O código dela entrou num loop de feedback positivo com a biometria da boneca! O receptor reabre o canal a cada tentativa de corte; preciso isolar a porta física!
+— Estou tentando! — Valéria estava ajoelhada atrás da bancada de inox, com o *Phantom V3* aberto no colo e o pendrive de titânio de Aria faiscando no barramento lateral. — O transponder da réplica está explorando o driver de entrada danificado! O código dela entrou num loop de feedback positivo com a biometria da boneca! O receptor reabre o canal a cada tentativa de corte; preciso isolar a porta física!
 
 No alto-falante do deck, o processamento de Aria engasgava, o LED do drive piscando em um âmbar febril enquanto o metal queimava os dedos de Valéria.
 
@@ -32,7 +32,7 @@ No alto-falante do deck, o processamento de Aria engasgava, o LED do drive pisca
 
 — Não é você! — Valéria gritou, digitando comandos furiosamente com uma mão enquanto fechava os pinos de reset do pendrive com a ponta de uma pinça metálica. — É um manequim de cera e carne morta! É uma isca de palco!
 
-Um dos Guardiões avançou sobre a bancada de Valéria, a lança brilhando em um vermelho furioso. Gabo não pensou. Ele correu, ignorando a dor lancinante no ombro, e se jogou nas costas do gigante.
+Um dos Guardiões avançou sobre a bancada de Valéria, a lança brilhando em um vermelho furioso. Gabo não pensou. Ele avançou com dificuldade e se lançou contra as costas do gigante, a dor abrindo o ombro ferido.
 
 O impacto foi como bater em uma parede de tijolos quentes. Gabo enfiou a faca de cerâmica na junta do pescoço do Guardião, buscando cabos, tubos, qualquer coisa vital.
 
@@ -48,7 +48,7 @@ Ele não ia morrer aqui. Não para uma obra de arte defeituosa.
 
 Ele viu um cilindro de nitrogênio líquido preso à base da mesa.
 
-Quando o Guardião disparou o jato térmico, Gabo chutou a válvula do cilindro.
+Quando o Guardião disparou o jato térmico, Gabo puxou a válvula do cilindro com a barra.
 
 O gás comprimido explodiu para fora, encontrando o fogo. A expansão térmica foi violenta. Uma nuvem de vapor branco e gelado engoliu o Guardião. O choque térmico estalou o metal da armadura e a cerâmica da lança.
 
@@ -108,7 +108,7 @@ Aria identificou, no painel local a que Val ligara o cabo, o controle da vitrine
 
 As luzes do Ateliê piscaram e morreram, exceto pelo brilho frio do LED azul no drive de titânio e o visor do deck de Valéria.
 
-— *Movimento recomendado* — Aria ordenou pelo fone. — *A porta blindada ao fundo foi destravada via terminal local. O alvo principal está na próxima seção. Não tenho imagem do que está atrás da porta. Não tratem a rota como confirmação de alvo.*
+— *Movimento recomendado* — Aria ordenou pelo fone. — *A porta blindada ao fundo foi destravada via terminal local. Não tenho imagem do que está atrás da porta. Não tratem a rota como confirmação de alvo.*
 
 Gabo se endireitou, segurando o ombro dolorido. Ele trocou um olhar com Valéria, que fechava a tampa do deck com as mãos trêmulas antes de passar o pendrive de volta para o comunicador tático de Gabo. Eles tinham salvado o código de Aria do colapso, mas parte do histórico aprendido continuava inacessível. Val guardou o estado anterior, sem chamar o reinício de cura.
 

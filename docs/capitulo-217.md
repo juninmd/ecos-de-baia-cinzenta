@@ -33,7 +33,7 @@ A estrutura ocupava toda a extensão do vão. Era uma porta de explosão ciclóp
 
 — Uma tumba sem janelas, — murmurei, avaliando o monumental volante de travamento no centro da folha de aço. — Projetada pra trancar o que quer que estivesse lá dentro longe dos olhos do mundo.
 
-— Ou pra proteger quem tava lá dentro do que ia acontecer lá fora, Moretti, — Valéria contra-atacou, apontando o feixe para o conjunto de contrapesos hidráulicos que desciam pelas laterais do batente. — O arquivo executivo dizia que o Projeto Gênesis não começou na Torre; começou aqui embaixo quando a cidade ainda era uma baía de pântano e indigentes.
+— Ou pra proteger quem tava lá dentro do que ia acontecer lá fora, Moretti, — Valéria contra-atacou, apontando o feixe para o conjunto de contrapesos hidráulicos que desciam pelas laterais do batente. — O índice do arquivo menciona o Projeto Gênesis e aponta para esta instalação. Ainda não sabemos quando o projeto começou aqui.
 
 Aproximei-me do volante de metal forjado. Tinha quase um metro e meio de diâmetro, com raios grossos de ferro fundido cobertos por graxa seca de vedação.
 

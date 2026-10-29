@@ -107,7 +107,7 @@ No verso havia duas colunas: **amostra extraída** e **parente em campo — comp
 
 Ela procurou o exame de compatibilidade nos anexos. Não havia paciente identificado nem laudo correspondente. Podia faltar uma folha, ou a reserva ter outra finalidade. — Guardem as duas faces — disse, segurando o papel aberto para Val. — Sem o nome dessa referência, eu não sei quem eles querem manter vivo.
 
-— Ele sabia que estavam construindo uma gaiola — disse Nise. — Achava que podia controlá-la. Não sei se imaginou que o filho seria o pássaro.
+— Ele autorizou o teste e escreveu que desligaria o sinal se falhasse — disse Nise. — O que imaginava sobre essa comparação de parentes, o papel não diz. Não vou escolher um nome para a referência sem prova.
 
 O aviso veio de uma das pequenas câmeras de vigilância da lavanderia, recebida no monitor do laboratório. Uma unidade sem identificação parou na porta. Na parede ao lado, alguém aplicou uma carga à fechadura.
 

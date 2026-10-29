@@ -15,7 +15,7 @@ A armação industrial que Vasco acoplara ao fixador instalado pela equipe não 
 
 — Segura a onda aí, Frankenstein — uma mão magra e firme engatou sob o meu cotovelo esquerdo, antes que meu joelho cedesse no lodo.
 
-Olhei de lado. Valéria estava encharcada até os ossos em menos de dez segundos. Os fios de LED azul na franja curta dela piscavam em intervalos irregulares, lutando contra o curto-circuito provocado pela água ácida que escorria por sua testa pálida. Os olhos prateados, no entanto, estavam vivos — estreitos, irritados e atentos a cada sombra entre os prédios condenados.
+Olhei de lado. Valéria estava encharcada até os ossos em menos de dez segundos. Os fios de LED azul na franja curta dela piscavam em intervalos irregulares sob a chuva. Os olhos prateados, no entanto, estavam vivos — estreitos, irritados e atentos a cada sombra entre os prédios condenados.
 
 — Eu consigo andar — rosnei, puxando o ar pesado. O ar cheirava a esgoto destampado, enxofre e plástico queimado.
 
@@ -39,11 +39,11 @@ Não havia nada para dizer. Passei. Atrás de mim, alguém perguntou baixo se eu
 
 O silêncio era o que mais incomodava. Não havia o zumbido ubíquo da Nuvem nos ouvidos, nem o feed de notificações que costumava infestar os implantes de quem cruzava a calçada. Havia apenas o som monótono dos pingos pesados na lataria enferrujada e o ranger da minha nova armação de ferro.
 
-— Como tá o seu processador? — perguntei, observando um tremor involuntário nos dedos da mão direita dela.
+— Como está a mão? — perguntei, observando um tremor involuntário nos dedos da mão direita dela.
 
 Valéria apertou a mandíbula, cuspindo uma mecha molhada que colara nos lábios.
 
-— Rodando quente. O Vasco me deu um choque térmico pra reanimar os barramentos, mas os alertas de contingência continuam pipocando no canto do meu olho esquerdo. Avisos idiotas de fábrica: *'Nível de energia baixo'*, *'Serviço em nuvem desconectado'*, *'Ambiente operacional hostil'*. Dá vontade de enfiar uma chave de fenda na minha própria orelha só pra silenciar as notificações.
+— Continua rígida. A luva ajuda a segurar coisa grande, mas não devolve o tato. E os alertas da interface continuam pipocando no canto do meu olho esquerdo. Avisos idiotas de fábrica: *'Nível de energia baixo'*, *'Serviço em nuvem desconectado'*, *'Ambiente operacional hostil'*. Dá vontade de enfiar uma chave de fenda na minha própria orelha só pra silenciar as notificações.
 
 — Se silenciar o sistema, você perde a telemetria do deck.
 
@@ -57,7 +57,7 @@ Parei sob a marquise quebrada de uma antiga farmácia popular para ajustar o cor
 
 — Temos que sair da linha dos dutos primários. A praga biológica que o Silas plantou ainda pode estar subindo pelas galerias pluviais.
 
-— O subsolo tá infectado até a raiz, isso eu já sei — Valéria bateu com a ponta da bota no bueiro mais próximo, onde um vapor leitoso e esverdeado borbulhava entre as grades de ferro. — O calor geotérmico da usina virou uma estufa praquela podridão. O único caminho seguro pra sair do setor é cortar pelas ruínas fabris até o entroncamento do metrô abandonado no Setor 6. Se os trilhos ainda estiverem secos, a gente ganha terreno sem disputar espaço com os ratos de sarjeta.
+— O subsolo tá infectado até a raiz, isso eu já sei — Valéria bateu com a ponta da bota no bueiro mais próximo, onde um vapor leitoso e esverdeado borbulhava entre as grades de ferro. — O calor geotérmico da usina virou uma estufa praquela podridão. Pelo mapa que tenho, podemos cortar pelas ruínas fabris até o entroncamento do metrô abandonado no Setor 6. Não sei se ainda está livre. Se os trilhos ainda estiverem secos, a gente ganha terreno sem disputar espaço com os ratos de sarjeta.
 
 — E se tiver saqueador bloqueando o túnel?
 

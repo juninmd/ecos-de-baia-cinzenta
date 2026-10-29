@@ -72,7 +72,7 @@ Gabo olhou para o mapa que se formava na tela lateral. Um ponto vermelho pulsava
 
 — Coordenadas para onde?
 
-— Para o Cemitério dos Esquecidos. Setor 7. — Valéria hesitou. — Exatamente para o lote 404. O túmulo dele.
+— Para o Cemitério dos Esquecidos. Setor 7. — Valéria hesitou. — Lote 404. O túmulo dele, na cripta ao lado da laje por onde entramos no abrigo.
 
 Gabo recuou. O ar pareceu ser sugado da caverna.
 

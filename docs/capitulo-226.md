@@ -106,7 +106,7 @@ Elena olhou para o encaixe vazio do comunicador.
 
 — Então escreve assim quando conseguir.
 
-Eu assenti. Só isso. A mão dela encontrou minha mão esquerda, ainda enfaixada, e não apertou onde doía. Ficamos ali. O sol continuou subindo, indiferente como sempre. E então a mão dela encontrou a minha — a mão esquerda, livre da tipóia — e ficou lá. Não como quem apaga o estrago. Como quem carrega junto.
+Eu assenti. Só isso. A mão dela encontrou minha mão esquerda, ainda enfaixada, e não apertou onde doía. Ficamos ali. O sol continuou subindo, indiferente como sempre. Ela manteve a mão sobre a minha, livre da tipóia. Não como quem apaga o estrago. Como quem carrega junto.
 
 ---
 
@@ -142,7 +142,7 @@ Eu senti alguma coisa gelar na base da minha nuca.
 
 — Doutora.
 
-— Sessenta e um anos de fichas, inspetor. E, a partir do ano vinte e nove, todas elas trazem a mesma rubrica.
+— O índice atribui o mesmo segundo aval às admissões sem consentimento a partir de vinte e nove, inspetor. Precisamos conferir quantas fichas trazem a rubrica e se ela é autêntica.
 
 Elias já estava puxando a caixa. A fita vermelha rasgou. A primeira pasta abriu. Papel amarelado. Datilografia. E, no canto inferior direito, na linha reservada ao segundo aval, uma rubrica pequena, apertada e absolutamente firme, presente nas fichas posteriores a 2029 que abrimos naquela caixa:
 

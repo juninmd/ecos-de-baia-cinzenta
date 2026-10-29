@@ -30,7 +30,7 @@ Foi a brecha que Valéria precisava. Agarrada à escada com as pernas, a hacker 
 
 Valéria estava espremida contra os degraus gelados, a tela holográfica do deck iluminando seu rosto pálido e suado de azul cobalto. O grosso cabo de fibra óptica, desenterrado do Lixão de Ossos, continuava acoplado à ponte do seu deck onde o pendrive de Aria fervia de processamento.
 
-— Estou tentando, porra! — ela rosnou, os olhos vidrados, lendo o código que caía como chuva na tela. — Não é ele... não diretamente! É um gatilho de intrusão, um alarme que ele deixou. Ele infectou os protocolos de manutenção da Aeterna... para o sistema, nós somos o vírus!
+— Estou tentando, porra! — ela rosnou, os olhos vidrados na tela. — O controlador disparou depois da nossa leitura. Ainda não sei quem alterou o protocolo nem quantas máquinas vão responder.
 
 O terceiro drone desceu rasgando a parede esquerda, lançando uma chuva de faíscas que atingiram o rosto de Gabo. Ele piscou, cego por uma fração de segundo.
 
@@ -62,7 +62,7 @@ Quando o estrondo final sumiu na escuridão do Lixão lá embaixo, o único som 
 
 Valéria desconectou o cabo externo da fibra com um solavanco, arfando e piscando furiosamente para ajeitar o foco ocular.
 
-— Deuses da matriz, — a hacker murmurou, tremendo. — Eles não vão parar. Cada vibração que fazemos no metal ecoa na rede neural principal do Taxidermista.
+— Deuses da matriz, — a hacker murmurou, tremendo. — Podem vir mais. A leitura da fibra acionou algum alarme, e eu não consegui desligá-lo.
 
 Gabo tossiu, cuspindo gosto de pólvora e poeira oxidada. Sua mão direita estava bamba. O revólver descarregado parecia pesar cem quilos. Ele guardou a arma no coldre com cuidado mecânico, não querendo arriscar deixar cair nada. O mosquetão cravando em suas queimaduras manteve o foco da sobrevivência e a urgência do instinto da rua retornou com força total.
 

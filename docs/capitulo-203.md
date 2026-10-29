@@ -7,7 +7,7 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 # Capítulo 203: Sombras de Aeterna
 
-O arrasto dos meus coturnos pelo chão de concreto produzia um som áspero, quase rítmico, como uma lixa desgastando uma lâmina velha. Minha perna esquerda dependia inteiramente do suporte rígido da órtese queimada, cujas engrenagens soltavam um silvo asmático a cada passada que eu forçava para a frente. O braço mecânico de sucata instalado por Vasco, embora bem atado pelas bandagens improvisadas de Valéria, pesava como chumbo morto no meu flanco, mas a carne dilacerada pelo vergalhão mantinha meus sentidos em alerta máximo. Não havia espaço para névoa na cabeça; a dor crua era o único lembrete de que eu ainda respirava o ar podre deste subsolo desde a queda na Torre Aeterna.
+O arrasto dos meus coturnos pelo chão de concreto produzia um som áspero, quase rítmico, como uma lixa desgastando uma lâmina velha. Minha perna direita dependia do suporte rígido da órtese avariada, cujas engrenagens soltavam um silvo asmático a cada passada que eu forçava para a frente. O braço mecânico de sucata instalado por Vasco, embora bem atado pelas bandagens improvisadas de Valéria, pesava como chumbo morto no meu flanco, mas a carne dilacerada pelo vergalhão mantinha meus sentidos em alerta máximo. Não havia espaço para névoa na cabeça; a dor crua era o único lembrete de que eu ainda respirava o ar podre deste subsolo desde a queda na Torre Aeterna.
 
 O corredor de concreto continuou sua trajetória monótona por quase cem metros até curvar-se bruscamente à direita. Foi ali que a frieza estéril da arquitetura corporativa encontrou seu primeiro túmulo.
 
@@ -25,7 +25,7 @@ Elias deu dois passos à frente, mantendo-se colado às minhas costas como se a 
 
 — Isso... isso foi no expurgo de trinta e oito? — perguntou ele, a voz quebrando. — Meu avô dizia que fecharam o Setor Seis por causa de uma falha de ventilação...
 
-— O relatório pode ter escondido o que houve, Elias. Seu avô talvez tenha repetido a única versão que deixaram circular, — Valéria rebateu com aquele riso seco e sem humor dos sobreviventes da Zona Baixa. — Toda vez que a Aeterna dizia 'falha de ventilação', significava que três centenas de operários tinham sido selados em câmaras de concreto para não contaminar a bolsa de valores lá no Distrito de Prata.
+— O relatório pode ter escondido o que houve, Elias. Seu avô talvez tenha repetido a única versão que deixaram circular, — Valéria rebateu com aquele riso seco e sem humor dos sobreviventes da Zona Baixa. — A Aeterna já usou linguagem de manutenção para esconder mortes. Precisamos de registros antes de dizer quantas pessoas ficaram aqui.
 
 Avancei com cuidado através do vão retorcido das portas duplas, meus passos levantando uma névoa fina de ferrugem que ardia nas narinas e deixava um gosto metálico de cobre na língua.
 
@@ -39,19 +39,19 @@ Eram drones industriais pesados, empilhadeiras automáticas de esteiras duplas e
 
 — Que merda aconteceu aqui? — murmurei, descendo o primeiro lance de escadas de serviço com a órtese estalando em protesto.
 
-— Pânico de silício, — respondeu Valéria, saltando os últimos degraus com leveza e apontando a lanterna tática para um drone virado de barriga para cima, com a cabine de comando amassada contra o chão. — Olha as marcas de impacto nos para-choques frontais. Essas unidades não foram atacadas por forasteiros. Elas bateram umas nas outras. Em velocidade máxima.
+— Pânico de silício, — respondeu Valéria, saltando os últimos degraus com leveza e apontando a lanterna tática para um drone virado de barriga para cima, com a cabine de comando amassada contra o chão. — Olha as marcas de impacto nos para-choques frontais. Há marcas de impactos entre unidades, mas não sei em que ordem aconteceram.
 
 Elias tropeçou em um duto de óleo rachado, soltando um arquejo assustado antes de se apoiar no chassi de um trator adormecido.
 
 — Por que máquinas autônomas fariam isso? Elas têm diretrizes de prevenção de colisão...
 
-— Quando a Praga de Ferro infectou as matrizes ópticas e os barramentos de controle, — Valéria explicou, tirando um cabo de interface do cyberdeck e plugando na porta de teste calcinada de um manipulador hidráulico, — ela não desligou os motores. Ela começou a fritar os sensores de proximidade um a um. Os chips de navegação começaram a receber leituras de que as paredes estavam encolhendo, de que o teto estava desabando. Elas sentiram a corrosão comendo os próprios cabos internos como se fosse fogo.
+— Quando a Praga de Ferro infectou as matrizes ópticas e os barramentos de controle, — Valéria explicou, tirando um cabo de interface do cyberdeck e plugando na porta de teste calcinada de um manipulador hidráulico, — os registros mostram falhas de proximidade e comandos repetidos de movimento. Não consigo reconstruir o que os sensores detectaram.
 
 A tela portátil de Valéria cuspiu uma torrente de códigos corrompidos em vermelho fosforescente, iluminando suas feições angulosas e concentradas.
 
-— Elas enlouqueceram, — continuei, sentindo o peso sombrio daquele lugar fechar-se sobre o meu peito. — Quarenta toneladas de aço tentando correr em direção à única saída, sem conseguir enxergar nada além de alarmes de queima total. E quando chegaram aqui...
+— Elas enlouqueceram, — continuei, sentindo o peso sombrio daquele lugar fechar-se sobre o meu peito. — Pelo menos algumas continuaram se movendo com os sensores falhando. E a porta...
 
-— Encontraram as portas estanques seladas por termita, — completou Valéria, puxando o cabo de volta com um estalo limpo e me encarando com os olhos prateados arregalados de admiração macabra. — Foi uma moedora de carne mecânica. Elas se esmagaram contra as chapas de aço até a última bateria descarregar ou os pistões arrebentarem por superaquecimento.
+— Encontraram as portas estanques seladas por termita, — completou Valéria, puxando o cabo de volta com um estalo limpo e me encarando com os olhos prateados arregalados de admiração macabra. — Há impactos perto das chapas, mas isso não prova que todas chegaram aqui juntas ou que a porta já estava fechada.
 
 O silêncio do armazém voltou a nos envolver, quebrado apenas pelo gotejar esporádico de condensação ácida que caía das vigas do teto sobre as carcaças de aço. O ar cheirava a graxa rançosa queimada, mofo e pó ferroso acumulado ao longo de quatro décadas de escuridão.
 

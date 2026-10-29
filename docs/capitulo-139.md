@@ -16,7 +16,7 @@ O impacto vibrou nos ossos de Gabo, subindo pelos braços até os dentes. Ele gr
 
 — Postura incorreta, Detetive — a voz do Taxidermista ecoou pelos alto-falantes invisíveis, calma como um curador guiando um tour. — Você luta como um animal encurralado. Falta... intenção.
 
-Gabo girou o corpo, deixando a lâmina da criatura deslizar pelo vergalhão, e chutou o joelho da Escultura. Parecia chutar uma coluna de concreto. A criatura nem se moveu. Em vez disso, a segunda lâmina veio em um arco descendente visando seu pescoço.
+Gabo girou o corpo, deixando a lâmina da criatura deslizar pelo vergalhão, e golpeou o joelho da Escultura com a perna esquerda. Parecia chutar uma coluna de concreto. A criatura nem se moveu. Em vez disso, a segunda lâmina veio em um arco descendente visando seu pescoço.
 
 — Gabo, esquerda! — gritou Valéria.
 
@@ -34,9 +34,9 @@ Houve um som de metal e polímero rasgando. Gabo torceu a barra de ferro com as 
 
 Gabo foi arremessado por três metros, colidindo de costas contra uma vitrine de vidro blindado. O impacto arrancou o ar de seus pulmões e amassou a borda da carcaça do comunicador tático em seu peito, riscando a carcaça do pendrive de Aria. O LED azul-gelo piscou uma vez e manteve o brilho frio.
 
-— *Integridade do barramento externo: 88%* — Aria anunciou pelo alto-falante rachado, a voz desprovida de qualquer alarme. — *Padrão de ataque inimigo analisado. Coordenação via rede local de baixa latência. Eles não operam como unidades autônomas. São membros de um único processamento.*
+— *O conector sofreu um impacto* — Aria anunciou pelo alto-falante rachado. — *As unidades estão trocando sinais na rede local. Não sei o que cada uma consegue fazer isolada.*
 
-— Eles compartilham a visão! — Valéria gritou atrás da maca, os dedos voando sobre o deck holográfico de pulso enquanto lançava o estrobo diante dos sensores da terceira Escultura. O alvo hesitou o suficiente para ela recuar. Seus olhos cibernéticos giravam freneticamente, processando o fluxo de dados do ambiente. — É uma rede *mesh* fechada. Eu não consigo entrar! A criptografia é biológica!
+— Elas trocam sinais! — Valéria gritou atrás da prancha, lançando o estrobo diante dos sensores da terceira Escultura. O alvo hesitou o suficiente para ela recuar. — A rede é fechada; ainda não consegui entrar.
 
 Gabo bloqueou outro golpe da primeira Escultura, o vergalhão entortando perigosamente. Ele estava suando frio. O ar reciclado estava começando a cheirar a ozônio e sangue. O desespero físico ameaçava turvar sua visão periférica, uma vertigem tóxica subindo pela nuca. Ele largou uma mão do vergalhão por meio segundo e apertou o *Colar de Sol* no peito. As pontas de metal morderam a carne viva.
 
@@ -44,7 +44,7 @@ O colar feriu a pele sem desfazer a vertigem. Gabo soltou-o para tornar a segura
 
 — Onde está o servidor?! — Gabo gritou, aparando um golpe que visava suas pernas.
 
-— Não tem servidor de silício! — Valéria respondeu, frustrada. — O sinal está vindo de todo lugar... Espere.
+— Estou rastreando o sinal, mas não consigo ler o conteúdo... Espere.
 
 — *Origem da portadora neural triangulada* — Aria confirmou no fone. — *Azimute zero. Cilindro central.*
 
@@ -54,7 +54,7 @@ O "Tríptico da Lamentação".
 
 As bocas costuradas tremiam. O zumbido que emanava delas mudava de tom a cada movimento das Esculturas.
 
-— É o tanque! — Valéria apontou. — O Tríptico! Eles são o processador central! Ele está usando os cérebros deles para coordenar os ataques em tempo real!
+— O sinal mais forte vem do tanque! — Valéria apontou. — As mudanças acompanham os movimentos. Pode ser parte do controle, mas não sei o que acontece se a gente interromper.
 
 O Taxidermista riu, um som seco.
 
@@ -62,7 +62,7 @@ O Taxidermista riu, um som seco.
 
 Gabo olhou para o tanque. Três pessoas. Ou o que sobrou delas. Vivas. Sofrendo. E agora, sendo usadas como armas contra eles.
 
-Se ele destruísse o tanque, pararia as Esculturas. Podia matar os três. Val tentava separar o enlace de comando do suporte de vida, mas o painel não respondia à chave local.
+Se ele destruísse o tanque, talvez interrompesse a coordenação. Podia matar os três sem parar os ataques. Val tentava separar o enlace de comando do suporte de vida, mas o painel não respondia à chave local.
 
 Uma das Esculturas avançou contra Valéria. Aria disparou uma sobrecarga nos capacitores de iluminação do piso através do deck da hacker, cegando os sensores ópticos da unidade por dois segundos, mas outra Escultura já se aproximava da maca de Rangel.
 
@@ -70,7 +70,7 @@ Não encontrou outra saída antes de ver a lâmina sobre a maca. Isso não torna
 
 — Me perdoem — Gabo sussurrou.
 
-Ele correu. Não para as Esculturas, mas para o centro da sala.
+Ele avançou mancando. Não para as Esculturas, mas para o centro da sala.
 
 — Detetive, não! — a voz do Taxidermista perdeu a calma polida. — Isso é insubstituível!
 
@@ -93,7 +93,7 @@ O fluido dourado inundou o chão branco como uma onda de âmbar. Os corpos fundi
 
 Imediatamente, as Esculturas travaram no meio do passo. Elas não desligaram, mas perderam a graça. Ficaram rígidas, confusas, como marionetes que tiveram as cordas cortadas.
 
-— *Sincronia de rede inimiga em zero por cento. Junta cervical da unidade frontal exposta* — Aria cantou no fone.
+— *As unidades perderam a coordenação. A junta cervical da unidade frontal está exposta* — Aria avisou no fone.
 
 Gabo aproveitou a falha. Com um giro brutal do vergalhão, ele encaixou a ponta de ferro sob o queixo da Escultura mais próxima e alavancou usando a borda da base como apoio, rompendo a junta já quebrada da cabeça de cerâmica. O peso da unidade completou o rasgo. O crânio liso rolou pelo chão, parando aos pés da plataforma do Taxidermista.
 

@@ -21,7 +21,7 @@ Eu tinha esquecido que existia diferença. Nos últimos meses, o silêncio de Ba
 
 — Significa que vamos levar sujeira para dentro. Não encostem nos berços.
 
-Eu ri. Doeu no ombro, e a risada virou tosse, e a tosse trouxe gosto de moeda velha para a boca. A febre estava subindo desde a passarela; meus músculos continuavam sangrando sob as bandagens após a fixação da fratura por Vasco, e agora eu conseguia sentir meu próprio pulso batendo dentro do ferimento, como se houvesse um segundo coração alojado ali, menor e mais raivoso que o primeiro.
+Eu ri. Doeu no ombro, e a risada virou tosse, e a tosse trouxe gosto de moeda velha para a boca. A febre estava subindo desde a passarela; meus músculos continuavam sangrando sob as bandagens após a fixação da fratura pela equipe médica, e agora eu conseguia sentir meu próprio pulso batendo dentro do ferimento, como se houvesse um segundo coração alojado ali, menor e mais raivoso que o primeiro.
 
 Atravessei a soleira.
 
@@ -49,7 +49,7 @@ Nada. Nem mofo, nem ferrugem, nem podridão doce da biomassa, nem o ozônio quei
 
 E foi aí que eu entendi o verdadeiro impacto daquele santuário.
 
-Não havia poluição. Não havia o azedume da chuva ácida que corrói Baía Cinzenta desde o berço, nem a fuligem de chaminés corporativas ou o lodo asfixiante do esgoto. Pela primeira vez em anos, meus pulmões não precisavam brigar contra o ar que puxavam. Cada inspiração descia suave, fria e límpida, lavando a garganta castigada e acalmando o tremor febril dos meus músculos desgastados.
+Não havia poluição. Não havia o azedume da chuva ácida que corrói Baía Cinzenta desde o berço, nem a fuligem de chaminés corporativas ou o lodo asfixiante do esgoto. Pela primeira vez em anos, o ar parecia menos agressivo. Continuei tossindo, e o tremor não passou.
 
 Encostei a testa na parede fria de epóxi e fiquei ali, respirando devagar, como um condenado que acabava de receber uma trégua inesperada no meio da tempestade.
 

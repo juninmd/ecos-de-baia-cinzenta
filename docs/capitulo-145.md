@@ -12,7 +12,7 @@ O metal cedeu antes dos músculos de Gabo. Não muito, apenas o suficiente para 
 
 — *Plataforma de acesso detectada a vinte metros acima. Inclinação: oitenta e cinco graus. Estrutura primária: reforçada.* — A voz sintética de Aria não ecoou; ela saiu pelo comunicador na gola de Gabo e cortou a umidade como um bisturi, precisa e clínica, enquanto o LED azul-gelo de seu drive blindado piscava no pulso de Valéria.
 
-Vinte metros. Poderia muito bem ser a distância até a lua. A respiração de Gabo saía em arfadas curtas e rasgadas, cada exalação formando uma pequena nuvem no ar frio e estagnado. O corpo de Rangel, balançando ligeiramente abaixo dele, parecia ter dobrado de peso desde a última hora. A sepse não estava apenas devorando o inspetor; estava se alimentando do tempo deles.
+Vinte metros. Poderia muito bem ser a distância até a lua. A respiração de Gabo saía em arfadas curtas e rasgadas, cada exalação formando uma pequena nuvem no ar frio e estagnado. O corpo de Rangel, balançando ligeiramente abaixo dele, parecia ter dobrado de peso desde a última hora. Rangel precisava de atendimento, e cada metro consumia o tempo que restava.
 
 Suba.
 O cheiro de polímeros trouxe a lembrança do apartamento de Dante, mas a mão ferida não lhe deu a clareza de antes; só falhou no degrau. Gabo desviou o peso para o arnês e fixou os olhos nas botas de Val, que subia logo abaixo. Dessa vez, acompanhou a voz dela em vez de forçar a carne a calar o passado.
@@ -33,14 +33,14 @@ O LED azul-gelo do pendrive piscou em um padrão estático, desprovido de ironia
 — *Negativo. A bobina de indução eletrônica está rompida. O acionamento secundário exige validação física no módulo adjacente. A solução requer material genético humano.*
 
 Gabo, ainda de joelhos examinando o pulso fraco de Rangel, levantou os olhos. A dor em sua mão agora era um pulsar baixo e contínuo.
-— Genético? a corporação perdeu a cidade no Apagão. Ninguém aqui tem crachá.
+— Genético? A corporação perdeu a cidade no apagão. Ninguém aqui tem crachá.
 
 — *A memória de validação está corrompida e não exige mais um DNA específico da lista de funcionários originais,* — Aria explicou pelo comunicador, enquanto Valéria arrancava a tampa fosca e manchada de óxido do módulo biométrico ao lado do pendrive, expondo filamentos de fibra óptica morta e um pequeno receptáculo com microagulhas expostas. — *O leitor original pedia uma pequena amostra para comparar com o cadastro. Há uma alteração recente: o comando aceita qualquer amostra humana, mas vincula a abertura ao enchimento do reservatório de coleta. Isso não é necessário para identificar alguém. Transformaram o acesso numa sangria.*
 
 Gabo se ergueu lentamente, os ossos estalando em protesto. Ele caminhou até o painel onde o pendrive de Aria brilhava como uma brasa fria. As microagulhas pareciam dentes minúsculos esperando para morder.
 — Vai exigir sangue, é isso?
 
-— *Afirmativo. Contudo, devido à calcificação dos capilares de leitura, a amostra necessária é significativa. O comando exige duzentos mililitros no reservatório. Posso tentar isolar a coleta e abrir o acesso por fora, mas o sensor de sabotagem está ligado ao fecho.* — A IA não hesitou, nem suavizou a matemática cruel.
+— *Afirmativo. O comando alterado exige duzentos mililitros no reservatório. Posso tentar isolar a coleta e abrir o acesso por fora, mas o sensor de sabotagem está ligado ao fecho.* — A IA não hesitou, nem suavizou a matemática cruel.
 
 Valéria arregalou os olhos. — Duzentos ml? Gabo, você mal consegue ficar em pé, não pode...
 
@@ -54,4 +54,4 @@ Ele olhou para as agulhas. O cheiro de sangue prestes a ser derramado já domina
 
 — Vou correr o risco, caixa de cálculo. — Gabo pressionou o antebraço contra o receptáculo.
 
-A mordida das agulhas foi profunda. Gabo sibilou, fechando os olhos enquanto sentia o maquinário arcaico sugar o calor de suas veias. O som de sucção mecânica misturou-se ao ruído gorgolejante da respiração de Rangel e ao zumbido agudo do pendrive de Aria aquecendo no slot ao lado para converter o sinal biológico em pulso de abertura. A dor, desta vez aguda e constante, varreu sua mente de qualquer vestígio do passado, prendendo-o firmemente no presente implacável da Necrópole. Ele observou, em um transe induzido pela fadiga, enquanto o painel inativo começava a piscar fracamente em um tom vermelho opaco. O módulo registrava cada gota com uma marca de data recente. A corporação instalara o leitor; alguém ainda vivo escolhera cobrar daquele jeito.
+A mordida das agulhas foi profunda. Gabo sibilou, fechando os olhos enquanto sentia o maquinário arcaico sugar o calor de suas veias. O som de sucção mecânica misturou-se ao ruído gorgolejante da respiração de Rangel e ao zumbido agudo do pendrive de Aria aquecendo no slot ao lado para converter o sinal biológico em pulso de abertura. A dor no braço somou-se à tontura. Val segurou o ombro dele e observou o volume subir, pronta para interromper a coleta se ele perdesse a consciência. Ele observou, em um transe induzido pela fadiga, enquanto o painel inativo começava a piscar fracamente em um tom vermelho opaco. O módulo registrava cada gota com uma marca de data recente. A corporação instalara o leitor; alguém ainda vivo escolhera cobrar daquele jeito.

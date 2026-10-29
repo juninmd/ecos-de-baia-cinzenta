@@ -48,7 +48,7 @@ Havia uma pilha de roupa rasgada e suja de óleo num canto da sala fria, e dentr
 
 Havia uma mesa, e em cima da mesa um homem aberto.
 
-— A pressão está caindo! — A Dra. Nise falava alto porque o gerador tinha entrado no modo de economia e a bomba estava fazendo barulho. Ela auxiliava a plantonista cirúrgica convocada para o atendimento, segurando o campo enquanto a equipe procurava a origem do sangramento. — Ele chegou aqui com menos da metade do volume. Os ossos da pelve estão em frangalhos, tem esquirla em todo lugar e eu não tenho contraste, não tenho tomógrafo, não tenho sangue tipado e não tenho **luz** suficiente!
+— A pressão está caindo! — A Dra. Nise falava alto porque o gerador tinha entrado no modo de economia e a bomba estava fazendo barulho. Era uma nova intervenção, dias depois da estabilização inicial. Ela auxiliava a plantonista cirúrgica, segurando o campo enquanto a equipe procurava a origem do sangramento. — Ele chegou aqui com menos da metade do volume. Os ossos da pelve estão em frangalhos, tem esquirla em todo lugar e eu não tenho contraste, não tenho tomógrafo, não tenho sangue tipado e não tenho **luz** suficiente!
 
 — Salva ele — disse Val, encostada na parede, branca. — Não importa como. Usa metal, usa peça, usa o que for. Só não deixa ele morrer.
 
@@ -58,9 +58,9 @@ Havia uma mesa, e em cima da mesa um homem aberto.
 
 — Então segura a lanterna e não fala mais nada.
 
-O comunicador piscou uma segunda vez.
+O comunicador piscou de novo.
 
-Ninguém ouviu, porque um comunicador em modo silencioso não faz som nenhum, e porque a equipe naquele porão estavam ocupadas com o mesmo corpo.
+Ninguém ouviu, porque um comunicador em modo silencioso não faz som nenhum, e porque a equipe naquele porão estava ocupada com o mesmo corpo.
 
 Gabo flutuava embaixo da anestesia. Ele contou depois, uma única vez, à Dra. Weiss, que sonhou com engrenagem e com água, e que em algum momento do sonho o telefone da casa da mãe tocava na sala e ele não conseguia se levantar do sofá para atender.
 

@@ -13,7 +13,7 @@ Personagens Presentes: Gabriel "Gabo" Moretti, Aria, Valéria "Val" Cruz, Inspet
 
 O som não era de água. Era de carne sendo mastigada por engrenagens gigantes.
 
-Gabo sentiu a vibração nos ossos antes mesmo de ver a maré subir. O fluido viscoso e avermelhado — aquele sangue sintético que alimentava os "filtros" humanos nas paredes — começou a borbulhar dos ralos e das comportas que ele havia forçado a inverter. O cheiro era insuportável: cobre, ozônio e algo doce, podre, como frutas deixadas ao sol.
+Gabo sentiu a vibração nos ossos antes mesmo de ver a maré subir. O fluido viscoso e avermelhado — o fluido de composição desconhecida que circulava pelas células humanas — começou a borbulhar dos ralos e das comportas que ele havia forçado a inverter. O cheiro era insuportável: cobre, ozônio e algo doce, podre, como frutas deixadas ao sol.
 
 — A pressão está subindo rápido demais! — gritou Valéria, sua voz ecoando metálica no vasto domo da estação. Com os sensores de longo alcance cegos, ela avançava na escuridão analógica iluminada apenas pelas luzes de emergência vermelhas que giravam, projetando sombras longas e dançantes.
 
@@ -25,7 +25,7 @@ Gabo trincou os dentes, sentindo o gosto de bile. Ele não olhou para o comunica
 
 — Eu fiz o que precisava ser feito — rosnou Gabo, avançando pela passarela de metal enferrujado.
 
-— *Você sempre diz isso* — a voz que usava as memórias de Bia murmurou no ouvido dele, limpíssima apesar do caos ao redor. — *"O necessário". Você ouviu o risco e escolheu. Isso não me permite dizer que não havia outra saída, nem que os corpos nas células estavam mortos.*
+— *Você sempre diz isso* — Aria murmurou no ouvido dele, entre cortes de áudio. — *"O necessário". Você ouviu o risco e escolheu. Isso não me permite dizer que não havia outra saída, nem que os corpos nas células estavam mortos.*
 
 Gabo fechou os olhos por um segundo, o suficiente para uma memória intrusiva queimar sua retina: a mão do pai esmagando um charuto num cinzeiro sujo, a fumaça acre preenchendo a casa da infância. A mente exausta dele puxava o trauma sempre que a culpa apertava.
 
@@ -53,7 +53,7 @@ O fluido subiu, tocando o calcanhar da bota de Gabo. A sensação foi de calor i
 
 Uma risada cristalina e distorcida por estática cortou o barulho das sirenes de alerta dentro do fone dele.
 
-— *Você está com medo, Gabo?* — ela sussurrou no canal privado. — *Deveria estar. O que está subindo não é só lixo. É memória. É tudo o que a cidade tentou esquecer e você trouxe de volta.*
+— *O patamar está quase coberto* — avisou Aria. — *Não sei o que há no líquido. Evitem contato.*
 
 Gabo a ignorou e continuou a subir, degrau por degrau, os músculos das costas queimando, o suor escorrendo frio pela testa. O *Colar de Sol* de sua mãe, enrolado no punho esquerdo, parecia pesar tanto quanto Rangel.
 
@@ -77,7 +77,7 @@ Val encaixou a proteção e ligou o cabo de serviço. Aria enviou a liberação 
 
 A roda da porta girou com um estalo alto.
 
-Gabo chutou a porta, abrindo-a. Eles caíram para dentro de um corredor seco e silencioso, o ar cheirando a poeira antiga e mofo, um alívio comparado ao fedor químico lá fora.
+Gabo forçou a porta com o ombro, abrindo-a. Eles caíram para dentro de um corredor seco e silencioso, o ar cheirando a poeira antiga e mofo, um alívio comparado ao fedor químico lá fora.
 
 Ele arrastou Rangel para dentro. Valéria recolheu o pendrive fumegante da Aria de volta para o barramento do deck. Gabo girou a roda de fechamento assim que o fluido vermelho começou a lamber a soleira da porta. Ele travou a vedação no momento em que um impacto surdo — como uma onda pesada — atingiu o metal do outro lado.
 

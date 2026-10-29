@@ -17,7 +17,7 @@ Elias estava sentado no piso de ripas de aço, com os braços entrelaçados nas 
 
 — Minha cabeça... parece que vai rachar ao meio, — balbuciou ele, a voz quase abafada pelo ruído ensurdecedor do vento nos cabos. — Meus ouvidos tão zumbindo...
 
-— Engole a própria saliva com força, Elias, — instruiu Valéria, em pé junto à alavanca do freio centrífugo. Os reflexos azuis da franja holográfica dançavam contra a névoa escura do fosso, iluminando a expressão concentrada e atenta da hacker. Ela ajustava a alavanca com toques rápidos e firmes para conter a velocidade terminal da gaiola. — A pressão tá mudando mais rápido do que o seu ouvido consegue acompanhar, Elias. A gente acabou de cruzar mais duzentos metros neste poço. Vou reduzir a velocidade. Se a dor não passar, a gente para; engolir saliva não resolve toda lesão de ouvido.
+— Engole a própria saliva com força, Elias, — instruiu Valéria, em pé junto à alavanca do freio centrífugo. Os reflexos azuis da franja holográfica dançavam contra a névoa escura do fosso, iluminando a expressão concentrada e atenta da hacker. Ela ajustava a alavanca com a mão direita para reduzir a velocidade da gaiola. — A pressão tá mudando mais rápido do que o seu ouvido consegue acompanhar, Elias. A gente acabou de cruzar mais duzentos metros neste poço. Vou reduzir a velocidade. Se a dor não passar, a gente para; engolir saliva não resolve toda lesão de ouvido.
 
 — E a gaiola aguenta essa descida toda? — perguntei, observando o cabo de aço trançado de duas polegadas vibrar como uma corda de contrabaixo gigante sobre nossas cabeças.
 
@@ -41,7 +41,7 @@ Elias ergueu a cabeça devagar, correndo a luz de sua lanterna pelas junções s
 
 — E batizaram de Arca Zero, — Elias completou, engolindo em seco.
 
-— Batizaram de salvação pros acionistas e sepultura pros operários, — Valéria corrigiu com o veneno costumeiro na voz. — Mas o sensor do meu cyberdeck tá pegando uma desaceleração no gradiente de descida. Estamos a menos de cinquenta metros do fundo do poço.
+— O nome não diz quem foi protegido aqui nem quem ficou do lado de fora, — Valéria corrigiu com o veneno costumeiro na voz. — Mas o sensor do meu cyberdeck tá pegando uma desaceleração no gradiente de descida. Estamos a menos de cinquenta metros do fundo do poço.
 
 As sapatas de freio rangeram com um uivo prolongado, desacelerando a gaiola de manutenção. O baque surdo de amortecedores hidráulicos comprimindo-se contra a base de concreto ressoou no piso de ferro, jogando nossos corpos ligeiramente para a frente.
 

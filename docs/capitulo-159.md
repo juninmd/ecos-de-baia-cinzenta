@@ -47,13 +47,13 @@ Das sombras entre os corredores de servidores, as abominações começaram a se 
 
 Elas se moviam em completo silêncio, a não ser pelo leve som de garras metálicas clicando contra o chão de grade de aço. Eram cinco. Seis. Sete.
 
-— *Probabilidade de vitória em combate direto nas atuais condições físicas do grupo: dezoito por cento,* — declarou Aria pelo fone. — *O terminal oferece o comando de parada aos controladores enxertados. Algumas unidades podem ignorá-lo. Precisamos de abrigo físico enquanto isolamos a alimentação do anel.*
+— *Combate direto expõe vocês a múltiplos alvos,* — declarou Aria pelo fone. — *O terminal oferece o comando de parada aos controladores enxertados. Algumas unidades podem ignorá-lo. Precisamos de abrigo físico enquanto isolamos a alimentação do anel.*
 
 — Val, — Gabo chamou, a voz tensa, os olhos fixos nas silhuetas vermelhas que os flanqueavam. — Algum terminal limpo onde você possa espetar a Aria? Alguma coisa que não esteja engolida por essa carne?
 
 Valéria estava digitando freneticamente no teclado holográfico do pulso enquanto Aria filtrava as frequências. — Estou tentando! O nível de criptografia biológica é insano, é como tentar hackear um fígado... mas... espere! A Aria achou uma sub-rotina de manutenção de emergência da Aeterna que ainda pulsa no hardware profundo do console central ali na frente. Ela não está contaminada pela rede de carne!
 
-— O que ela faz? — Gabo pressionou a quina da parede com o braço direito fraturado, sentindo o osso protestar. *Foco. Sem fumaça. Só ferrugem e sangue.*
+— O que ela faz? — Gabo firmou a prancha com a perna boa, mantendo o braço direito preso à tala.
 
 — Se eu conectar o pendrive da Aria direto no barramento daquele terminal central... nós duas podemos acionar a rotina chamada Purga de Íons. O nome está no painel; ela isola e descarrega os controladores do anel. Pode interromper as Esculturas ligadas a ele, mas não vai evaporar tecido nem selecionar quem merece viver. Mas preciso de dois minutos de acesso físico ininterrupto no painel!
 
@@ -61,7 +61,7 @@ As Esculturas aceleraram o passo. Não havia rosnados, não havia hesitação. A
 
 — Você e a Aria têm os seus dois minutos, — disse Gabo, apoiando a Caronte no suporte da prancha e mantendo a mão esquerda no gatilho. Só restava um cartucho. Val empurrou a barreira móvel de manutenção para estreitar a passagem diante dele; o lado direito ficou imobilizado junto ao peito.
 
-Ele avançou, colocando-se deliberadamente no estreito corredor entre as abominações e o terminal onde Valéria corria para plugar o drive. Com o braço direito quebrado e as mãos feridas sob as ataduras, suas opções eram brutais e curtas. Ele era apenas o obstáculo mais teimoso da cidade.
+Ele puxou a barreira para estreitar o corredor entre as abominações e o terminal onde Valéria conectava o drive. Com o braço direito quebrado e as mãos feridas sob as ataduras, suas opções eram brutais e curtas. Ele era apenas o obstáculo mais teimoso da cidade.
 
 — *Sua ação é ilógica, Detetive,* — Aria pontuou pelo comunicador na gola dele enquanto Valéria espetava o pendrive de titânio no console central às costas de Gabo e ligava o emissor direcional do deck para dar suporte. — *Você não consegue recarregar sozinho. Confirmo o único cartucho da Caronte e a barreira móvel. Não saia de trás dela para seguir um marcador que eu perca de vista.*
 

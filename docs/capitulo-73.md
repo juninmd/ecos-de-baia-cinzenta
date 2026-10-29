@@ -26,7 +26,7 @@ Ele se jogou atrás de um rack. Um segundo depois, ele estava com a boca seca de
 
 Gabo checou o que tinha.
 
-A *Caronte* estava perdida em algum ponto da luta com o Santo. A Glock estava com ele, e tinha três balas, e ele contou duas vezes porque não queria acreditar.
+A *Caronte* estava perdida em algum ponto da luta com o Santo. A Glock tinha três balas. Enquanto contava, Gabo tirou o isqueiro do bolso e o escondeu na mão esquerda, abaixo da arma.
 
 — Val. Tira o drive da Aria daqui.
 
@@ -36,7 +36,7 @@ A *Caronte* estava perdida em algum ponto da luta com o Santo. A Glock estava co
 
 Val hesitou meio segundo, xingou e foi.
 
-Ela arrancou o pendrive de titânio da Aria do barramento do console — o metal estava tão quente que queimou a palma da mão dela — e o travou no deck de pulso. Antes de entrar no duto, abriu o painel de manutenção e escolheu o setor do Hub. Os dedos correram por duas telas; por quarenta segundos, a luz de serviço permaneceu âmbar. Gabo não conseguia ler as condições da rotina, só viu Val confirmar e arrancar a mão do painel quando Miranda se aproximou. Então ela sumiu no duto.
+Ela arrancou o módulo da Aria do console — o metal queimou sua palma — e o travou no deck de pulso. No painel de manutenção, selecionou a descarga criogênica daquele setor e uma assinatura térmica como gatilho. Viu o isqueiro na mão de Gabo, apontou dois dedos para o sensor e esperou que ele assentisse. A luz ficou âmbar; Val confirmou e entrou no duto quando Miranda se aproximou.
 
 ---
 
@@ -74,7 +74,7 @@ Ele tentou se levantar. As órteses não responderam.
 
 O campo de micro-ondas tinha feito com a eletrônica delas o que ia fazer com um homem em dois segundos: os servos travaram travados, os dois joelhos rígidos, e Gabriel Moretti ficou sentado no chão de um Hub inclinado com as pernas esticadas na frente, como um boneco.
 
-Miranda chegou perto e o levantou pelo pescoço com a mão mecânica. Um braço só. Sem esforço. Os pés de Gabo saíram do chão.
+Miranda chegou perto e o levantou pelo pescoço com a mão mecânica. A Glock caiu no piso. Os pés de Gabo saíram do chão.
 
 — Últimas palavras, parceiro?
 
@@ -88,7 +88,7 @@ O medo específico do sujeito que vendeu tudo, recebeu o pagamento, gastou o pag
 
 — Só uma — disse Gabo, com a voz apertada pela mão no pescoço.
 
-Ele levou a mão esquerda ao bolso do sobretudo. Miranda deixou. Foi vaidade, e foi a última que ele teve. Gabo tirou o isqueiro.
+Gabo abriu a mão esquerda, ainda fechada em torno do isqueiro que escondera antes do confronto.
 
 Era um Zippo de latão gasto, sem gravação, com a dobradiça folgada — o isqueiro que Dante Moretti carregou por trinta anos, porque servia para acender vela, fogão e caldeira, e porque um homem devia ter no bolso alguma coisa que funcionasse sem bateria.
 
@@ -100,7 +100,7 @@ E abriu a tampa.
 
 O isqueiro não acendeu nada.
 
-O que ele fez foi outra coisa: Val programara o gatilho para uma assinatura térmica pontual; o isqueiro dava a ela o sinal que faltava. A rotina de supressão, sem explicação ainda, tinha estado diante dos olhos dele por quarenta segundos.
+O que ele fez foi outra coisa: Val programara o gatilho para uma assinatura térmica pontual; o isqueiro dava ao sensor o sinal que faltava.
 
 O Hub não era protegido com água. Água em sala de servidor é crime. Os bicos do teto dispararam nitrogênio líquido.
 
@@ -142,7 +142,7 @@ Gabo saiu do duto e ficou parado no meio do Hub congelado, com nitrogênio evapo
 
 E ouviu. Vinha de cima: um som ritmado, pesado, batendo contra o ar. Rotor.
 
-Alguém tinha pousado um helicóptero no heliponto de uma torre inclinada em nove graus, o que exigia um piloto muito bom ou uma ordem muito grande.
+Alguém tinha pousado um helicóptero no heliponto de uma torre danificada, com a plataforma local inclinada e vento de mar. Aquilo exigia um piloto muito bom ou uma ordem muito grande.
 
 Gabo olhou para a escada de emergência. Cento e oitenta e dois andares.
 

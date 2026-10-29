@@ -1,6 +1,7 @@
 ---
 image: /cenas/cidade.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Aria, Valéria "Val" Cruz, Inspetor Rangel, Dante Moretti, O Taxidermista
+Personagens Presentes: Gabriel "Gabo" Moretti, Aria, Valéria "Val" Cruz
+Participação por transmissão: Inspetor Rangel, O Taxidermista
 Localização: "Usina Geotérmica Prometeu — Corredores do Subnível 4 → Passarela do Subnível 3"
 ---
 # Capítulo 116: Pressão Crítica
@@ -19,7 +20,7 @@ Gabo sentiu o calor lamber seu rosto através do lenço improvisado. Era úmido,
 
 No barramento lateral do deck, o pendrive blindado de titânio da Aria piscava freneticamente em azul, compensando o ruído térmico dos sensores de Valéria.
 
-— *Sensores externos saturados* — a voz de Aria cortou o ruído nos fones de ambos, plana e sem pânico. — *Eficiência visual reduzida a 12%. Mapeando rota de fuga por sonar acústico na ventilação de serviço. Setor Norte. Sigam o vetor projetado no HUD.*
+— *Sensores externos saturados* — a voz de Aria cortou o ruído nos fones de ambos, plana e sem pânico. — *Não consigo distinguir o corredor. O sonar do comunicador detecta uma abertura no setor norte; a planta indica ventilação de serviço. Não posso garantir que esteja desobstruída.*
 
 Uma seta de luz azul piscou nos óculos de Valéria e no comunicador de Gabo. Ele empurrou Valéria naquela direção.
 
@@ -29,7 +30,7 @@ Eles rastejaram. O chão de grade metálica estava quente o suficiente para quei
 
 — *Interessante* — a voz do Taxidermista ecoou nos alto-falantes, distorcida pela estática, mas ainda irritantemente calma. — *Você luta como um animal encurralado, Gabriel. Destruindo a própria jaula, mesmo que os estilhaços o cortem. Dante sempre disse que sua imprevisibilidade era um defeito. Eu começo a achar que é sua única qualidade.*
 
-Gabo ignorou. Ele chutou uma grade de ventilação cujo fecho Val acabara de liberar pelo cabo ligado ao painel de manutenção. O metal cedeu com um *clang* surdo.
+Gabo ignorou. Val liberou pelo cabo o fecho da grade de ventilação. Gabo usou a coronha como alavanca e arrancou a grade sem apoiar peso na perna ferida. O metal cedeu com um *clang* surdo.
 
 — Dentro. Rápido.
 
@@ -66,7 +67,7 @@ Gabo ativou o comunicador de garganta.
 
 — Rangel? Qual a situação?
 
-— *Ruim!* — A voz do ex-inspetor vinha acompanhada do som inconfundível de fogo automático. — *Estamos na Doca de Carga B. Os drones "Jardineiros" nos cercaram. Estou com pouca munição e o caminhão foi inutilizado. Preciso de suporte ou não vamos sair daqui!*
+— *Ruim!* — A voz do ex-inspetor vinha acompanhada do som inconfundível de fogo automático. — *Estou na Doca de Carga B. Os drones "Jardineiros" nos cercaram. Estou com pouca munição e o caminhão foi inutilizado. Preciso de suporte ou não saio daqui!*
 
 Valéria olhou para Gabo, os olhos arregalados manchados de graxa e fuligem.
 
@@ -74,13 +75,13 @@ Valéria olhou para Gabo, os olhos arregalados manchados de graxa e fuligem.
 
 Gabo olhou para baixo, para o abismo de máquinas e "processadores" humanos. E então olhou para frente, onde uma porta blindada maciça exibia o símbolo de risco de radiação e a inscrição: NÚCLEO DE RESFRIAMENTO.
 
-O relógio mental de Gabo tiquetaqueava. A janela de vulnerabilidade térmica de Dante estava se fechando. Se eles voltassem para a Doca, perderiam a chance de sabotar o núcleo. Se seguissem em frente, Rangel provavelmente morreria.
+O relógio mental de Gabo tiquetaqueava. A janela anotada por Kiko, se aplicável ao biohost, podia estar se fechando. Se eles voltassem para a Doca, perderiam a chance de sabotar o núcleo. Se seguissem em frente, Rangel provavelmente morreria.
 
 — Gabo! — Valéria insistiu.
 
 No pulso de Valéria, o LED do pendrive da Aria pulsou em azul constante, calculando as variáveis em silêncio antes de transmitir no canal interno.
 
-— *Não tenho imagem da doca. Pelos disparos e pelo relato, Rangel está sob risco imediato* — informou a voz sintética da Aria, com sua voz adulta atravessando o ruído. — *Contudo, se a rotina que lemos estiver correta, o ciclo pode terminar em três minutos. Não há garantia para nenhuma das escolhas.*
+— *Não tenho imagem da doca. Pelos disparos e pelo relato, Rangel está sob risco imediato* — informou a voz sintética da Aria, com sua voz adulta atravessando o ruído. — *Contudo, se a rotina que lemos estiver correta, o ciclo poderia terminar em minutos; não conseguimos confirmar que ele começou. Não há garantia para nenhuma das escolhas.*
 
 Gabo fechou os olhos por um segundo. Ele viu o rosto de Rangel, o homem que desistiu de tudo para fazer a coisa certa. E viu a cidade lá fora, a chuva, os milhões de pessoas presas no pesadelo de Dante.
 

@@ -17,19 +17,19 @@ Os servidores gigantescos — fileiras de torres negras de quatro metros de altu
 
 Mas o pior não eram os cabos. Eram os doadores.
 
-Suspensos entre as colunas dos data-centers, fundidos ao metal como relíquias profanas, estavam os corpos. Centenas deles. Mendigos, operários descartados da Zona Baixa, catadores que haviam desaparecido nos canais nos últimos meses. Todos mantidos num coma induzido, os olhos entreabertos brilhando com filamentos de transmissão, o córtex cerebral de cada um sendo drenado para gerar poder de processamento em paralelo. Homens e mulheres que a cidade declarara como mortos anos atrás, agora mantidos em agonia biológica perpétua.
+Suspensos entre as colunas dos data-centers, fundidos ao metal como relíquias profanas, estavam os corpos. Centenas deles. Alguns usavam roupas de trabalho; outros não traziam identificação visível. Tinham os olhos entreabertos e filamentos ligados aos aparelhos. Não sabíamos seus nomes, quanto tempo estavam ali ou se tinham consciência.
 
 Havia um som naquela sala que não vinha de máquina nenhuma. Um acorde grave, contínuo, que subia pelo piso e parava nos meus dentes. Centenas de gargantas secas respirando no mesmo compasso, e por baixo delas o zumbido dos coolers, agora quase um sussurro. O ar era morno e úmido, como o hálito de uma boca grande.
 
 Valéria parou na entrada do salão, a mão esquerda cravada no corrimão de ferro. Os LEDs azuis na franja curta dela piscaram num ritmo errático, refletindo o horror absoluto em seus olhos ópticos prateados.
 
-— Meu Deus... Gabo... isso não é um depósito de dados — a voz dela saiu num sussurro trêmulo, carregado de repulsa. — É uma fazenda de mentes humanas escravizadas. A Aeterna construiu o hardware, mas o Silas transformou essas pessoas no combustível do cálculo. Olha a taxa de transferência... eles tão usando o sofrimento dessa gente pra reescrever os firewalls das comportas pluviais da cidade.
+— Meu Deus... Gabo... isso não é um depósito de dados — a voz dela saiu num sussurro trêmulo, carregado de repulsa. — Há pessoas ligadas aos controladores. O painel mostra comandos para as comportas pluviais, mas não explica o que acontece com elas durante a transmissão.
 
 Perto do corrimão, um dos corpos fundidos ao rack tinha a mão solta. Os dedos se fecharam devagar, um por um, na direção do corredor. Podia ser espasmo. Podia ser alguém tentando acenar. O segundo movimento veio na direção da luz, e nenhum dos dois aceitou chamar aquilo de cadáver.
 
 Valéria viu. Eu vi que ela viu, porque os LEDs da franja dela pararam de piscar por dois segundos.
 
-— Se eu arrancar os cabos, ele morre — disse ela, sem tom nenhum, como quem lê um número. — Se eu não arrancar, ele continua calculando. Não tem opção limpa aqui.
+— Se eu arrancar os cabos, posso matar ele — disse ela, sem tom nenhum, como quem lê um número. — Se eu não arrancar, ele continua preso. Não tem opção limpa aqui.
 
 Não havia resposta que servisse, e ela não esperava uma.
 
@@ -53,7 +53,7 @@ Descendo do teto como uma espinha dorsal de titânio, um duto pressurizado de me
 
 — Pode matar as pessoas que ainda estão ligadas, além de impedir o comando das comportas — ela retrucou, a voz firme como aço temperado. — A gente destrói a fundação térmica, aciona o duto de expurgo de emergência e corre pro fosso de elevação da Subestação B antes que o teto desabe. Eu já mapeei a escotilha de saída no fundo do corredor.
 
-O caminho até o pilar custou mais do que a distância. As plataformas de manutenção tinham apodrecido nas bordas, e cada degrau de grade cedia meio dedo antes de segurar. A órtese do meu joelho batia no metal num ritmo curto, e os doadores viravam a cabeça na direção do barulho, todos juntos, como plantas procurando luz.
+O caminho até o pilar custou mais do que a distância. As plataformas de manutenção tinham apodrecido nas bordas, e cada degrau de grade cedia meio dedo antes de segurar. A órtese do meu joelho batia no metal num ritmo curto, e alguns corpos viravam a cabeça na direção do barulho, como plantas procurando luz.
 
 O frio da linha de amônia chegava antes de eu chegar perto: um hálito que congelava o suor no meu lábio e fazia os olhos arderem até lacrimejar. A pele da minha mão esquerda colou no corrimão e saiu rasgada quando puxei. Deixei um pedaço meu naquele ferro, junto com todo o resto.
 
@@ -61,7 +61,7 @@ Caminhei até o pilar central, meus passos pesados esmagando as raízes carmesin
 
 Diante de mim, o volante de ferro fundido da válvula mestra de arrefecimento estava envolto por uma crosta grossa de gelo químico e raízes ressecadas. O metal chiava sob a pressão monumental da amônia comprimida que corria dentro do duto.
 
-Girei os atuadores da minha armação industrial de cais, ouvindo o chiado pneumático travar as garras de aço no torque máximo. Os nervos enxertados na minha carne arrancada arderam com o esforço, mas a dor agora não era um obstáculo; era a certeza de que eu ainda estava aqui, empunhando a ferramenta certa no lugar certo.
+Girei os atuadores da minha armação industrial de cais, ouvindo o chiado pneumático travar as garras de aço no torque máximo. O ponto de contato do fixador sob o curativo ardeu com o esforço, mas a dor agora não era um obstáculo; era a certeza de que eu ainda estava aqui, empunhando a ferramenta certa no lugar certo.
 
 Valéria preparou o disparador de faísca do deck e recuou três passos, mantendo a pistola em punho para cobrir o perímetro.
 

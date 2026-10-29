@@ -14,13 +14,13 @@ Atrás dele, movendo-se com um silêncio antisséptico, estavam três figuras ve
 
 Dante não lia. Ele escaneava. Seus olhos varriam as páginas em frações de segundo.
 
-— Desvio de suprimentos no Setor 4 — disse Dante, sem levantar a cabeça. — O Tenente Barros está retendo 15% da penicilina para troca no mercado negro. Remova-o do comando. Coloque a Sargento Lima.
+— Divergência de suprimentos no Setor 4 — disse Dante, sem levantar a cabeça. — Remova o Tenente Barros do comando. Coloque a Sargento Lima.
 
 — Mas... como você sabe? — gaguejou Rangel. — Esse relatório é sobre distribuição de cobertores.
 
-— Correlação de dados, Rangel. A mortalidade por infecção no Setor 4 subiu 12% enquanto o estoque de antibióticos permaneceu teoricamente estável. A variável discrepante é o oficial de logística. Barros tem dívidas de jogo. Lima é viúva de um médico e tem um histórico de honestidade estatisticamente improvável. Execute.
+— O estoque declarado não acompanha as solicitações. Barros tem dívidas de jogo; quero sua suspensão até a conferência. Lima assume a distribuição. Execute.
 
-Rangel engoliu em seco e correu para cumprir a ordem. No canto do salão, sentado em uma caixa de munição vazia, Gabo tentava consertar a própria perna.
+— Isso não prova desvio — disse Rangel. Dante estendeu a folha, sem discutir. Rangel engoliu em seco e foi cumprir a ordem. No canto do salão, sentado em uma caixa de munição vazia, Gabo tentava consertar a própria perna.
 
 Ele tinha uma chave de fenda enferrujada na mão e o painel da órtese aberto. O cheiro de ozônio queimado e graxa velha subia de suas calças. A dobradiça do joelho direito não destravava. O suporte passivo se tornara peso morto.
 
@@ -40,7 +40,7 @@ Dante parou. Ele levantou a cabeça lentamente. Pela primeira vez, havia algo hu
 
 Antes que Gabo pudesse responder, um estrondo veio lá de fora. O som de vidro quebrando e gritos.
 
-— Protesto no perímetro externo — anunciou Dante, sua voz fria. — Grupo não identificado. Armamento improvisado. Intenção hostil: 89%.
+— Protesto no perímetro externo — anunciou Dante. — Grupo não identificado. Objetos que podem servir como armas.
 
 Gabo se levantou, apoiando o peso na perna boa e arrastando a morta. Ele mancou até a janela. Lá fora, na chuva que voltava a cair fina e ácida, uma multidão se reunia. Não eram bandidos. Eram sobreviventes. Pessoas com roupas feitas de lona plástica, segurando tochas e pedaços de pau.
 
@@ -82,7 +82,7 @@ Ele se virou para Gabo.
 
 No porão da biblioteca, o ar era frio e cheirava a papel velho. Dante guiou Gabo e Elena por entre as estantes de arquivos mortos até uma sala isolada nos fundos.
 
-Lá dentro, iluminado apenas por uma lâmpada fraca, um homem estava sentado em uma escrivaninha pequena, cercado por montanhas de formulários. Ele escrevia sem parar, sua caneta movendo-se com uma velocidade febril. Sobre uma pilha de documentos finalizados, uma moeda de prata antiga repousava intocada — o único resquício de uma personalidade que costumava deixar tudo ao acaso.
+Lá dentro, iluminado apenas por uma lâmpada fraca, um homem estava sentado em uma escrivaninha pequena, cercado por formulários. Rangel o encontrara no atendimento de triagem e o trouxera à biblioteca naquela madrugada. Ele escrevia sem parar; uma moeda de prata repousava intocada sobre a pilha de documentos.
 
 Ele estava magro, o terno antes impecável agora largo nos ombros, a barba por fazer. Gabo parou, o choque travando sua garganta.
 
@@ -106,7 +106,7 @@ Gabo olhou para o irmão. Marco parecia um autômato, uma casca executando funç
 
 — Isso é redenção através do serviço — corrigiu Dante, sem emoção. Ele caminhou até o centro da sala e limpou uma mesa com um gesto. — E eu posso fazer mais, Gabriel.
 
-Dante tocou a superfície da mesa. Luz brotou de seus dedos, formando um holograma tridimensional. Mas não era um mapa. Era uma mulher. Ela estava na cozinha da casa antiga deles, sorrindo enquanto regava uma samambaia. O sol batia em seu rosto, iluminando as linhas de expressão que Gabo conhecia tão bem. Helena Moretti. Gabo deu um passo para trás, batendo nas estantes.
+Dante conectou seu terminal ao projetor da mesa e abriu um arquivo. Era uma mulher na cozinha da casa antiga deles, sorrindo enquanto regava uma samambaia. A luz batia em seu rosto, iluminando as linhas de expressão que Gabo conhecia tão bem. Helena Moretti. Gabo deu um passo para trás, batendo nas estantes.
 
 — Desligue isso. Agora.
 

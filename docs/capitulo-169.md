@@ -11,7 +11,7 @@ description: "O documento de 2019 com iniciais de Dante precede o cativeiro. Gab
 
 O zumbido dos aquecedores de suporte à vida era a única pulsação em todo o Arquivo Executivo.
 
-Cinquenta e um hertz, contínuo, vindo de baixo do piso elevado. Gabo tinha ouvido aquilo por sete minutos antes de entender o que estava ouvindo, e quando entendeu não conseguiu mais desouvir. Alguma coisa naquele andar estava sendo mantida viva. Havia trinta e sete anos.
+Cinquenta e um hertz, contínuo, vindo de baixo do piso elevado. Gabo tinha ouvido aquilo por sete minutos antes de entender o que estava ouvindo, e quando entendeu não conseguiu mais desouvir. O registro da tela marcava operação desde 2019; ainda precisavam verificar sua integridade.
 
 ---
 
@@ -23,7 +23,7 @@ Um encéfalo humano completo, com o tronco preservado, os hemisférios enrugados
 
 ---
 
-— Ele não roubou vidas — disse Val, e a voz saiu oca. — Ele transformou dor humana em arquitetura de dados. Isso aqui é o wetware original. Isso é o **protótipo**, Gabo. Tudo o que veio depois — o Gamemaster, o Jardim, a Nova Baía — é reimplementação disso.
+— Ele não roubou vidas — disse Val, e a voz saiu oca. — Este sistema liga tecido humano ao arquivo. Pode ser anterior aos outros que vimos, mas não consigo provar que vieram dele.
 
 Gabo não respondeu. Ele estava lendo a etiqueta. Era uma placa de acrílico parafusada na base, com letras em relevo, do tipo que se fazia em máquina de gravar de papelaria em mil novecentos e noventa e alguma coisa.
 
@@ -43,13 +43,7 @@ Não na frente disso
 
 ---
 
-Gabo cerrou os dentes e arremessou o braço direito quebrado contra a quina de fibra de carbono da mesa executiva. O impacto foi oco e curto.
-
-A madeira e as talas da bandagem cederam, e os ossos fraturados — que a Val tinha enfaixado e cujas feridas cobrira com o material do kit da estação, depois de impedir que ele as rasgasse outra vez — estalaram no ponto de sempre.
-
-Um fio quente de sangue vivo escorreu pelo antebraço sob a atadura rota. E a dor chegou. Elétrica, incandescente, subindo da fratura até a nuca em menos de um décimo de segundo, e varrendo tudo no caminho.
-
-O cheiro de cravo evaporou. O andar voltou: frio, iluminado, com cinquenta e um hertz vindo do piso. Gabo ofegou. O suor frio desceu pela testa e ardeu num corte da sobrancelha. Ele contou até quatro e a dor virou latejo, e o latejo virou âncora.
+Gabo apertou a borda da mesa com a mão esquerda. O braço quebrado ficou junto ao peito; Val conferiu a tala antes de ler a placa outra vez. O cheiro de cravo não passou. Ele contou as luzes no console até conseguir ouvir o que ela dizia.
 
 ---
 
@@ -59,11 +53,11 @@ Val deu um passo. Os olhos sintéticos dela estavam focados na ferida reaberta, 
 
 — Eu estou bem.
 
-— Você não está bem, e eu não estou oferecendo pena. — Ela falou baixo. — Eu estou dizendo que essa é a quarta vez esta semana, e que na terça você forçou duas vezes seguidas, e que uma hora esse osso não vai mais colar.
+— Você não está bem, e eu não estou oferecendo pena. — Ela falou baixo. — Eu estou dizendo que a tala está cedendo, e você precisa de atendimento.
 
 — A dor é real, Val. — A voz saiu como cascalho. — É a única coisa real que sobrou nesse buraco. Tudo o resto aqui embaixo é lembrança de alguma coisa, ou cópia de alguém, ou cheiro de um homem que nem estava naquela sala.
 
-Ele apontou a mão enfaixada do braço quebrado para o cilindro.
+Ele apontou com a mão esquerda para o cilindro.
 
 — Aquilo ali dentro do vidro é a prova de que Dante Moretti já era monstro muito antes de virar a Voz da Cidade.
 
@@ -87,7 +81,7 @@ Gabo fechou os olhos.
 
 — Reconhecimento de corpo não reclamado. — Val voltou a olhar o vidro. — É o tipo de registro que precisamos confrontar com o livro do necrotério. As iniciais não transformam uma suspeita numa lista de pessoas que ele entregou.
 
-— Foi por isso que o Taxidermista sabia onde procurar — disse Gabo. — Ele não inventou o horror. Ele achou a planta baixa, e a planta baixa está assinada com o meu sobrenome.
+— Meu sobrenome está aqui — disse Gabo. — Ainda não sei quem colocou essas iniciais nem como o Taxidermista encontrou o lugar.
 
 ---
 
@@ -113,7 +107,7 @@ E, na última coluna, atividade. Não muita. Não organizada. Mas existente. Val
 
 Gabo olhou para a massa de carne flutuando no azul. O latejo do braço fraturado batia junto com o coração dele, e a cada batida ele lembrava por quê, e por isso ele deixava latejar.
 
-— Porque tem trinta e sete anos que essa coisa está acordada — ele disse. — Sem olho, sem ouvido, sem mão, sem ninguém falando com ela. Trinta e sete anos de uma sala com cinquenta e um hertz.
+— Porque isso pode ter passado décadas ligado aqui — ele disse. — E se ainda houver alguém consciente, não sei o que está sentindo.
 
 Ele olhou para a Val.
 
@@ -141,4 +135,4 @@ Gabo ficou de pé ao lado do cilindro o tempo inteiro, com a mão boa apoiada no
 
 E depois tirou o caderno do bolso com os dentes e a mão boa, e escreveu, na linha seguinte da lista:
 
-Sujeito 01. Nome desconhecido. Indigente, 2019. Autorizado por D. Moretti.
+Sujeito 01. Nome desconhecido. Registro de 2019; iniciais D. Moretti, autoria e doação não verificadas.

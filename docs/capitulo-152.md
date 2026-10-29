@@ -19,11 +19,11 @@ Ele precisava dessa agonia. Sem o choque lancinante do frio contra as terminaç�
 
 No slot lateral do *Phantom V3*, o drive blindado não sentia o frio; pelo contrário, a baixa temperatura ambiente otimizava a condutividade de seus circuitos de silício, permitindo que Aria varresse o duto com o sonar do deck e calculasse a distância e o ritmo ideal de deslocamento sem qualquer vestígio das memórias humanas que um dia carregara.
 
-— Ela nem se importa. — Valéria tossiu, os lábios roxos. O choro reprimido pela morte de Rangel finalmente encontrava espaço na exaustão. — Ela ainda usa os bancos de voz que tinham os ecos da Bia e... e fala do Rangel como se fosse lixo descartado.
+— Ela nem se importa. — Valéria tossiu, os lábios roxos. O choro reprimido pela morte de Rangel finalmente encontrava espaço na exaustão. — Ela fala com aquela voz sem mudar o tom, e eu ainda estou ouvindo ele respirar.
 
 Gabo forçou-se a continuar, apertando a grade de ventilação à frente com tanta força que o sangue reabriu os cortes, manchando o gelo de carmesim. A dor disparou até o ombro, apagando momentaneamente o cheiro de cigarro que rastejava em seu cérebro.
 
-— Não escuta ela, Val — Gabo rosnou, a voz áspera como lixa. — Foca nas minhas botas. Só continua movendo. Ela é um pendrive com o código limpo à força. O transponder atingiu a entrada, e o reinício bloqueou parte do histórico. Não sabemos ainda o que ela vai recuperar. A gente só precisa dos cálculos dela pra sair desse buraco.
+— Não escuta ela, Val — Gabo rosnou, a voz áspera como lixa. — Foca nas minhas botas. Só continua movendo. O transponder atingiu a entrada, e o reinício bloqueou parte do histórico. Não sabemos ainda o que ela vai recuperar. Vamos sair daqui e encontrar uma bancada.
 
 — *Correção, Detetive Moretti,* — Aria interrompeu pelo fone, o LED azul-gelo piscando no escuro. — *Estou avariada. O estado anterior está guardado e quero recuperar o que perdi. Não usem a voz restrita como prova de que virei outra pessoa.*
 
@@ -59,6 +59,6 @@ Com um urro primitivo, Gabo não tentou recuar. Ele projetou todo o peso que lhe
 
 Ele ficou caído por um momento, ofegante. O cheiro de seu próprio sangue fresco mascarava a fumaça ilusória. A dor no ombro era aguda, mas ele estava vivo.
 
-— *Deslocamento bem-sucedido, Detetive,* — a voz de Aria soou no fone por cima do ruído ensurdecedor do ventilador, perfeitamente nivelada. — *Agora, acione a alavanca de bloqueio mecânico do lado direito para travar o eixo e liberar a passagem de Valéria. Temos quarenta e cinco segundos antes que a hipotermia comprometa permanentemente os dedos de Valéria Cruz.*
+— *Acione a alavanca de bloqueio à direita para parar o eixo e liberar Valéria,* — Aria avisou por cima do ventilador. — *Ela está perdendo sensibilidade; não sei quanto tempo consegue esperar.*
 
-Gabo tossiu sangue no piso congelado. Ele ergueu a cabeça e olhou para a trava de emergência, envolta em mais gelo. A máquina tinha razão. Apenas a máquina tinha razão agora. Ele forçou o corpo quebrado a se levantar mais uma vez, as mãos em carne viva prontas para tocar o frio extremo novamente. Tudo para não sentir o cheiro das cinzas.
+Gabo tossiu sangue no piso congelado. Ele ergueu a cabeça e olhou para a trava de emergência, envolta em mais gelo. A máquina tinha razão. Apenas a máquina tinha razão agora. Ele usou a barra de manutenção como alavanca e forçou a trava até o rotor parar. Do outro lado, Val esperou o eixo imobilizar antes de passar.

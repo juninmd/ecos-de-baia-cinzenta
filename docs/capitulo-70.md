@@ -5,7 +5,7 @@ Localização: 'Túneis de acesso à Torre Aeterna — transmissão orbital inte
 ---
 # Capítulo 70: O Expurgo
 
-Túneis de acesso à Torre Aeterna — vinte e três e quarenta.
+Túneis de acesso à Torre Aeterna — madrugada.
 — *Eles chamam isso de economia básica* — disse a Aria.
 
 Gabo não parou de andar. A água batia no tornozelo, sem correnteza, o que era pior: água parada não leva o cheiro embora, guarda. Horas ali embaixo e o corpo já tinha desistido de reclamar.
@@ -38,7 +38,7 @@ Ele consultou o mapa no visor: uma linha verde atravessando três níveis de sub
 
 ---
 
-O túnel terminava numa parede de tijolos anterior à Aeterna, argamassa esfarelando como osso velho. No centro, quase invisível sob musgo, uma ampulheta quebrada gravada na pedra com precisão cirúrgica. A assinatura de Dante Moretti.
+O túnel terminava numa parede de tijolos anterior à Aeterna, argamassa esfarelando como osso velho. No centro, quase invisível sob musgo, uma ampulheta quebrada gravada na pedra. Uma linha de combate a incêndio corria junto ao teto, com um registro manual perto do elevador.
 
 Gabo ficou um segundo diante dela — raiva, saudade e traição ao mesmo tempo — e empurrou o tijolo. O mecanismo sibilou e a parede girou, revelando uma passagem limpa sob luz âmbar. O corredor além não cheirava a esgoto. Cheirava a formol e cera, um cheiro tão organizado que dava náusea. Havia gente encostada nas duas paredes.
 
@@ -92,11 +92,11 @@ O Taxidermista parou de limpar a unha.
 
 — Ele não é mais uma pessoa que obedece. É uma pessoa que foi reconstruída para obedecer. Não é a mesma coisa.
 
-Ele se encostou na parede, longe das peças.
+Ele se encostou na parede, longe das peças. Val observou o registro de incêndio acima do ombro dele e deixou a mão perto da válvula, sem tirar os olhos do homem.
 
-— Vão. Eu seguro os que vierem pelo túnel. Se fecharem a comporta, eu perco o nível quatro e começo de novo com material novo. — Olhou os dois dos pés à cabeça. — Vocês dois dariam boas peças. Principalmente ele. Tem história no rosto.
+— Vocês podem chegar ao Hub depois que eu terminar de perguntar quem viu minha oficina. — Ele olhou os dois dos pés à cabeça. — Vocês dariam boas peças. Principalmente ele. Tem história no rosto.
 
-Gabo passou sem responder. Val passou atrás, e não olhou para a mulher de joelhos, e depois olhou mesmo assim.
+Gabo bateu a coronha no registro. A tubulação gemeu, e Val girou a válvula com as duas mãos. Água suja caiu sobre a mulher de joelhos e começou a escorrer pela cera. O Taxidermista avançou para cobri-la com o avental; Val puxou Gabo para o elevador antes que ele voltasse a olhar para eles.
 
 ---
 

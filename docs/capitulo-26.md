@@ -89,7 +89,9 @@ Essa parte era verdadeira o suficiente para doer sem ajuda do cenário. No cassi
 
 A imagem esperou. Um pequeno visor no batente mudou de estado: **RECUSA REGISTRADA**.
 
-O beco desapareceu por faixas. Não tinha sido derrotado por uma frase que nenhuma inteligência compreenderia. A apresentação acabara; o sistema registrara a resposta e abrira outra etapa.
+O beco desapareceu por faixas. A resposta de Gabo não desligara o sistema; o visor continuava aceso. No batente, Valéria encontrou a tampa de manutenção que a projeção tentara esconder. A permissão de Miranda não abriu o painel, mas a lingueta de emergência atrás da tampa tinha uma ranhura para ferramenta.
+
+Elena segurou a lanterna. Val introduziu a chave curta do kit e puxou; a divisória cedeu só um palmo, agarrada pelo trilho. Gabo apoiou as costas no canto fixo e empurrou com as pernas. O movimento cobrou o ar que ainda lhe faltava desde a escada, mas abriu espaço para os três passarem de lado. O visor de recusa continuou piscando atrás deles; não sabiam o que a máquina planejara fazer em seguida.
 
 O ar ficou quente. Atrás da divisória, um tanque cilíndrico ocupava o centro de uma sala de servidores. Fibras saíam do recipiente superior, onde tecido cerebral permanecia num fluido ambarino. Tubos desciam até o corpo apoiado na câmara inferior, sob uma cobertura craniana clínica.
 

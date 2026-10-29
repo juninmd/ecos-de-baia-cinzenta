@@ -41,7 +41,7 @@ O bafo úmido e fétido do esgoto foi sendo gradualmente substituído por uma ra
 
 Valéria alcançou a grade de retenção no final da descida. As barras de ferro forjado estavam cobertas por uma crosta espessa de geada branca, que brilhava como açúcar cristalizado sob a luz da lanterna.
 
-— É amônia líquida vazando dos trocadores de calor do Setor Seis, — ela sussurrou, passando a ponta dos dedos pela geada que estalava ao toque. — A linha de resfriamento das antigas centrais de processamento tá despressurizada. O duto desemboca direto na galeria inferior dos condensadores.
+— Pode ser vazamento de refrigerante dos trocadores do Setor Seis, — ela sussurrou, passando a ponta dos dedos pela geada que estalava ao toque. — A linha de resfriamento pode estar despressurizada. O duto desemboca direto na galeria inferior dos condensadores.
 
 — E a grade tá trancada? — perguntei, alcançando o espaço logo atrás dela e sentindo o frio morder a pele exposta do meu rosto e das mãos em carne viva.
 

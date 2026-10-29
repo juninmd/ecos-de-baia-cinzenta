@@ -27,9 +27,11 @@ Um gemido abafado ecoou atrás de uma pilha de carcaças de autômatos.
 
 Valéria apontou o feixe óptico do cyberdeck para o garoto, examinando-o de cima a baixo com um movimento rápido do queixo.
 
-— Tá inteiro, Elias. Nem um parafuso a menos. Levanta e sacode a ferrugem do casaco porque essa festa acabou de chamar a atenção da vizinhança inteira.
+— Você consegue se mover, Elias? Não dá para avaliar suas costelas daqui. Levanta e sacode a ferrugem do casaco porque essa festa acabou de chamar a atenção da vizinhança inteira.
 
-Apoiei a pinça da armação no chão para me erguer. O pistão instalado por Vasco uivou, e a tração no fixador me arrancou um grunhido. As cicatrizes do Dilúvio repuxavam; a órtese da perna esquerda estalou antes de travar. A Torre Aeterna caíra meses antes, e as comportas tinham aberto vinte e três dias depois. Nenhuma dessas lembranças me devolvia força. Precisei que Elias prendesse a guia antes de tentar levantar de novo.
+Apoiei a pinça da armação no chão para me erguer. O pistão instalado por Vasco uivou, e a tração no fixador me arrancou um grunhido. As cicatrizes do Dilúvio repuxavam; a órtese da perna direita estalou antes de travar. A Torre Aeterna caíra meses antes, e as comportas tinham aberto vinte e três dias depois. Nenhuma dessas lembranças me devolvia força. Precisei que Elias prendesse a guia antes de tentar levantar de novo.
+
+Elias encontrou uma caixa de segurança caída sob os destroços. Dentro havia quatro cartuchos calibre doze ainda lacrados; conferi as cápsulas antes de guardá-los.
 
 — E os outros três colossos que você pegou nos sensores? — perguntei, ejetando os cartuchos vazios da escopeta. O clique metálico de duas balas novas entrando na câmara ecoou como um metrônomo sombrio.
 

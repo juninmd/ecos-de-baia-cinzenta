@@ -44,9 +44,11 @@ Gabo conhecia aquele cheiro de outro lugar. Tinha limpado cenas suficientes por 
 
 Valéria apertou os dentes, os olhos prateados brilhando na luz vermelha de emergência.
 
-— “Drenados”. Viciados que o Marco Moretti varreu das ruas — ela cuspiu. — Eles viraram combustível.
+— A pulseira é de triagem — disse Valéria. — O manifesto chama isso de descarte pós-extração. Não diz quem era nem como morreu.
 
-Gabo fechou os olhos, a dor em sua perna latejando em sincronia com o motor do caminhão. A "Nova Alvorada" não era apenas limpeza social. Era canibalismo industrializado.
+Gabo registrou também o código do lote. Já tinham visto o programa de Marco recolher pessoas das ruas; aquele saco não provava, sozinho, de onde a vítima viera.
+
+Gabo fechou os olhos, a dor em sua perna latejando em sincronia com o motor do caminhão. A "Nova Alvorada" prometia limpeza social. Agora havia um corpo no caminhão que seguia para a usina; ele queria descobrir quem o enviara.
 
 O caminhão freou bruscamente, jogando-os para frente. Gabo bateu o ombro contra a parede de metal frio.
 
@@ -64,25 +66,25 @@ A lanterna parou exatamente onde o plástico rasgado deixava o braço à mostra.
 
 Valéria tocou o painel lateral do caminhão. Os olhos dela refletiram o brilho do *deck*.
 
-— Posso gerar um loop de feedback nos sensores externos. Mandar a leitura já registrada pelo controlador do caminhão. Isso não engana um sensor independente apontado para nós. Mas preciso de acesso direto à bateria do compactador.
+— O guarda conectou o leitor à tomada de inspeção do caminhão. Posso fazer o controlador repetir a última leitura da carga. Se ele usar um sensor independente ou abrir a caçamba, estamos perdidos. O circuito compartilha alimentação com o compactador; vou precisar interromper o travamento.
 
 — Vai ativar a prensa! — alertou Gabo.
 
-— Apenas por três segundos — disse Valéria.
+— Enquanto eu trocar os cabos. Depois preciso religar o travamento manualmente.
 
 — Três segundos é o suficiente para transformar a gente em pasta! — Gabo retrucou.
 
 — Eles estão escaneando — a voz de Rangel era um sussurro urgente. — Agora ou nunca.
 
-Gabo olhou para Valéria. Ela engoliu em seco, olhou para o teto que começava a descer lentamente com um zumbido hidráulico ameaçador, e assentiu.
+Valéria prendeu um calço de manutenção sob a haste da prensa e deixou a mão direita no interruptor de emergência. A esquerda, sem sensibilidade, mal sustentava o cabo. Ela olhou para Gabo; ele firmou o calço com a coronha da Caronte.
 
 Antes de autorizar, Gabo apontou a câmera do comunicador para a pulseira e o lote. Aria guardou a imagem, a hora local e a origem do manifesto; nenhum deles sabia ainda o nome da pessoa.
 
 — Vai!
 
-Valéria enfiou os cabos na porta de manutenção exposta. Faíscas azuis voaram. O teto de metal, uma chapa de aço de duas toneladas projetada para esmagar qualquer coisa em seu caminho, desceu com um rugido.
+Valéria enfiou os cabos na porta de manutenção exposta. Faíscas azuis voaram. A chapa de aço desceu com um rugido. O calço rangeu sob o peso.
 
-Gabo se encolheu, puxando as pernas. O teto parou a dez centímetros de sua cabeça, a pressão do ar estalando seus ouvidos. O som de metal rangendo era ensurdecedor.
+Gabo se encolheu, puxando as pernas. O calço segurou a chapa acima deles. Valéria religou o travamento e pressionou a reversão; por um instante o motor só gemeu.
 
 Do lado de fora, uma voz amplificada soou abafada: *"Leitura negativa. Carga inerte. Pode prosseguir, Unidade 899."*
 
@@ -92,11 +94,11 @@ Valéria soltou o ar que prendia, tremendo. Gabo percebeu que estava segurando a
 
 Ela puxou a mão de volta primeiro. Não com brusquidão — do jeito de quem guarda uma ferramenta que não deveria ter deixado no chão. Checou a temperatura do conector com dois dedos, e o queixo tremeu uma vez antes de endurecer.
 
-— Sessenta e um graus — disse. — O drive aguenta. Eu é que não sei.
+— Está quente demais — disse. — Ainda responde. Eu é que não sei.
 
 — E se esquentar mais? — perguntou Gabo.
 
-— O anel de contenção queima antes do núcleo. É para isso que ele existe. — Ela encostou o dedo no titânio e o retirou rápido. — O problema é que ele só tem um.
+— A proteção da porta pode falhar antes de atingir o núcleo. — Ela encostou o dedo no titânio e o retirou rápido. — Mas não sei quanto tempo aguenta.
 
 Gabo não respondeu. Enfiou a mão na dobra do sobretudo, onde ninguém podia ver o tremor.
 

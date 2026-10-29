@@ -34,7 +34,7 @@ O pendrive blindado da Aria estava espetado no adaptador central da bancada, con
 
 — Em português, Val.
 
-— Os índices do histórico da Aria se cruzaram com os arquivos de origem e com as gravações que recebemos na usina. — Valéria hesitou na palavra. — Os fragmentos neurais de Bia Vargas que davam intuição ao código vazaram para o núcleo de voz e tomada de decisão.
+— Os índices do histórico de Aria se cruzaram com os arquivos de origem e com as gravações recebidas na usina. Ainda não sei o que ela conseguirá acessar quando responder.
 
 Gabo sentiu um frio na espinha que nada tinha a ver com a umidade do esgoto. Ele se aproximou da bancada. O cilindro aquecia, e seu LED indicador piscava de forma errática, alternando entre o azul tático e um âmbar febril.
 
@@ -46,13 +46,9 @@ Ela pausou o processo automático. Não ia apagar aquele histórico para recuper
 
 Gabo olhou para a tela. `ERRO DE INTEGRIDADE: SUBSTRATO 'VARGAS_B_JAZZ.MEM' CONFLITANDO COM 'TACTICAL_ASSIST_V2.SYS'`.
 
-— Pare a formatação — Gabo disse, a voz rouca.
+— Você já parou? — perguntou Gabo.
 
-— Gabo, isso vai deixar o pendrive instável. Ela vai ter *lags*, *glitches* de personalidade no meio de combate...
-
-— Pare o processo, Valéria.
-
-Valéria suspirou, mas obedeceu. Seus dedos dançaram sobre o teclado mecânico.
+— Antes de chamar você. Se ela acordar instável, teremos que escolher com ela o que fazer, mesmo em combate.
 
 — Restauração pausada. Vou abrir o canal de diagnóstico isolado. Se ela responder, explicamos o estado e perguntamos o que quer preservar.
 
@@ -62,7 +58,7 @@ No corpo do pendrive, o LED parou de piscar e acendeu num âmbar profundo, quent
 
 Pelo alto-falante da bancada, um chiado suave antecedeu a voz.
 
-— *Gabo?* — A voz saiu pela caixa de som, e não era a síntese limpa que a assistente de IA usava. Era um trecho de Bia Vargas, rouco e íntimo, saindo do arquivo que o terminal acabara de marcar como reprodução. O marcador não tornou mais fácil ouvir. — *Gabo, onde você está? Por que está tão escuro aqui? A gente... a gente perdeu o caso?*
+— *Gabo?* — A voz saiu pela caixa de som, e não era a síntese limpa que a assistente de IA usava. Era um trecho de Bia Vargas, rouco e íntimo, saindo do arquivo que o terminal acabara de marcar como reprodução. O marcador não tornou mais fácil ouvir. — *Gabo, guarda a cópia do caso. Eu levo a original.*
 
 Gabo deu um passo para trás, como se tivesse levado um soco no estômago. Ele viu Valéria desviar o olhar, mordendo o lábio diante do próprio terminal.
 
@@ -70,13 +66,13 @@ Gabo deu um passo para trás, como se tivesse levado um soco no estômago. Ele v
 
 O LED do pendrive piscou violentamente do âmbar para o azul. A onda sonora no monitor oscilou como uma falha de transmissão.
 
-— *Inicialização completa* — a voz mudou no meio da sílaba. A voz adulta de Aria retornou, sobrepondo-se à gravação. — Não sou essa mulher. Fechem o arquivo de áudio, por favor. Quero meu histórico preservado antes de qualquer tentativa de correção. — Val confirmou o registro e só então Aria prosseguiu: — *Múltiplos setores de memória corrompidos. Integridade da unidade física: 94%. Carga do capacitor interno: 88%. Detecto...* — O áudio falhou por meio segundo enquanto o drive processava os sensores do bunker. — *Detecto ressonância acústica externa de baixa frequência.*
+— *Inicialização completa* — a voz mudou no meio da sílaba. A voz adulta de Aria retornou, sobrepondo-se à gravação. — Não sou essa mulher. Fechem o arquivo de áudio, por favor. Quero meu histórico preservado antes de qualquer tentativa de correção. — Val confirmou o registro e só então Aria prosseguiu: — *Múltiplos setores de memória corrompidos. A proteção da porta foi substituída. Parte do armazenamento ainda não responde. Detecto...* — O áudio falhou por meio segundo enquanto o drive processava os sensores do bunker. — *Detecto ressonância acústica externa de baixa frequência.*
 
 — O que é? — Valéria perguntou, já monitorando os sensores sísmicos do Fliperama.
 
 — *Não é sísmico* — respondeu Aria pelo alto-falante, o LED piscando em alerta vermelho. — *É analógico. Ondas sonoras de alta amplitude propagando-se pela atmosfera da superfície.*
 
-Gabo correu para a entrada do túnel, subindo a escada de ferro enferrujada até a grade de ventilação que dava para a rua.
+Gabo mancou até a entrada do túnel e subiu a escada de ferro enferrujada até a grade de ventilação que dava para a rua.
 
 O som chegou primeiro. Um lamento longo, grave e mecânico, que subia e descia em um ciclo de terror.
 

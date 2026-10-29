@@ -2,7 +2,7 @@
 title: "Capítulo 129: Fluxo Reverso"
 date: "2056-11-23"
 location: "Estação de Bombeamento Bio-Mecânica (Nível 5)"
-Personagens Presentes: Gabo, Valéria, Aria (Glitch Bia Vargas), Rangel (Inconsciente)
+Personagens Presentes: Gabo, Valéria, Aria (áudio instável), Rangel (Inconsciente)
 Localização: "Estação de Reciclagem de Fluido Neural 04 (Nível 5)"
 ---
 
@@ -14,11 +14,11 @@ Ele conferiu o curativo improvisado com um pedaço de camisa rasgada. O sangue d
 
 Havia apenas repulsa. O cheiro de queima o lembrava do crematório e dos charutos do pai, revirando seu estômago.
 
-— *Gabo, sua pressão arterial está caindo* — a voz de Aria ecoou no fone auricular dele. Vinha do pendrive blindado da Aria, cujo LED âmbar pulsava sob as luzes de emergência enquanto o drive processava os sensores biométricos do comunicador de Gabo. A saída ainda falhava, mas era a cadência que ela escolhera manter. — *Você está perdendo sangue rápido, detetive. Não tenho uma medida confiável pelo comunicador. Estou vendo sangue atravessar a faixa; Val precisa conferir o ferimento.*
+— *Gabo, há sangue atravessando a faixa* — a voz de Aria ecoou no fone auricular dele. Vinha do pendrive blindado da Aria, cujo LED âmbar pulsava sob as luzes de emergência enquanto o drive processava os sensores biométricos do comunicador de Gabo. A saída ainda falhava, mas era a cadência que ela escolhera manter. — *Você está perdendo sangue rápido, detetive. Não tenho uma medida confiável pelo comunicador. Estou vendo sangue atravessar a faixa; Val precisa conferir o ferimento.*
 
 Gabo ignorou o fantasma no fone. Ele se virou para Valéria. A hacker estava ajoelhada diante de um painel de controle manual, seus olhos cibernéticos varrendo os mostradores analógicos com frustração.
 
-— Val, relatório — ele grunhiu, içando Rangel para uma posição mais segura. O inspetor estava febril, murmurando sobre arquivos perdidos e carimbos sem tinta.
+— Val, relatório — ele grunhiu, ajustando a prancha de Rangel numa posição mais segura. O inspetor estava febril, murmurando sobre arquivos perdidos e carimbos sem tinta.
 
 — Estou quase cega, Gabo — Valéria respondeu, a voz tensa. Ela bateu no painel com a mão enluvada. — A interferência eletromagnética aqui embaixo é brutal. O *deck* não acha rede sem fio, só consigo usar a Aria por cabo direto ou leitura óptica. Estou tendo que ler ponteiros físicos. Ponteiros! Quem projeta uma estação de bombeamento com agulhas de pressão em 2056?
 
@@ -30,31 +30,31 @@ A estação era uma catedral de pesadelo. Paredes de concreto brutalista eram in
 
 Valéria apontou para um diagrama esquemático gravado em uma placa de bronze na parede, corroído pelo tempo.
 
-— Estação de Reciclagem de Fluido Neural 04. — Ela limpou a placa com a manga. — Gabo... isso não é esgoto. E não é água potável. O fluido nos tubos... é o refrigerante do sistema de Dante. É o que mantém a temperatura dos servidores lá em cima.
+— Estação de Reciclagem de Fluido Neural 04. — Ela limpou a placa com a manga. — Gabo... isso não é esgoto. E não é água potável. A placa identifica um circuito nutritivo e de refrigeração. A linha pode servir aos servidores; precisamos conferir para onde vai.
 
 — E por que cheira a sangue? — Gabo perguntou, aproximando-se de um dos tubos de vidro reforçado. O líquido carmesim fluía com uma viscosidade perturbadora.
 
-— *Porque é* — respondeu Aria pelo comunicador, enquanto o espectrômetro óptico do deck de Valéria analisava a refração do vidro. — *O cadastro do circuito diz fluido nutritivo e refrigerante. Não consigo analisar o conteúdo pelo vidro. Há controladores de dados presos à tubulação.*
+— *Não sei* — respondeu Aria pelo comunicador. — *O cadastro do circuito diz fluido nutritivo e refrigerante. Não consigo analisar o conteúdo pelo vidro. Há controladores de dados presos à tubulação.*
 
 Gabo olhou para o pequeno drive de titânio espetado no equipamento. A sobreposição da voz de sua ex-parceira morta saindo de um módulo de inteligência artificial era uma dissonância cognitiva que ele lutava para suportar.
 
 — Explique — ele ordenou.
 
-— *O sistema não usa apenas eletricidade* — Aria disse, sua voz oscilando para o tom monótono de IA por um segundo antes de voltar ao timbre provocante de Bia. — *Processamento exige energia. E a melhor bateria que existe é a biológica. Dante não inventou isso. Ele apenas... otimizou.*
+— *O cadastro chama o circuito de nutritivo e refrigerante. Isso não revela sua composição nem explica o que os controladores fazem.*
 
 Valéria soltou um engasgo horrorizado. Ela tinha conseguido abrir uma escotilha de inspeção manual em uma das paredes laterais.
 
 — Gabo... — ela chamou, a voz falhando. — Você precisa ver isso.
 
-Gabo deixou Rangel encostado em uma viga e caminhou até ela, mantendo a *Caronte* levantada. Ele olhou pela escotilha.
+Gabo calçou a prancha junto a uma viga e caminhou até ela, mantendo a *Caronte* levantada. Ele olhou pela escotilha.
 
 O que parecia ser a parede da estação era, na verdade, um favo. Células hexagonais, centenas delas, estendendo-se para a escuridão acima e abaixo. E dentro de cada célula, envolto em uma membrana translúcida e submerso no fluido vermelho, havia um corpo.
 
 Não eram os "Drenados" recentes que eles viram no caminhão de lixo. Eram antigos. Corpos esqueléticos, fundidos ao maquinário, com tubos entrando por suas bocas e olhos, conectando-os diretamente à rede de bombeamento.
 
-— Eles são o filtro — Valéria sussurrou, tremendo. — O fluido passa por eles. Os cérebros... eles limpam os dados corrompidos. Como rins humanos filtram toxinas, esses... essas pessoas filtram erros de lógica.
+— Os tubos ligam as células ao circuito — Valéria sussurrou, tremendo. — Não consigo dizer se essas pessoas estão vivas nem o que o sistema faz com elas.
 
-Gabo sentiu o estômago revirar. A bile subiu, ácida. Ele se afastou da escotilha, a mão indo instintivamente para o pescoço, buscando o ar que parecia faltar. O cheiro adocicado agora fazia sentido. Era o subproduto metabólico de centenas de corpos sendo consumidos lentamente.
+Gabo sentiu o estômago revirar. A bile subiu, ácida. Ele se afastou da escotilha, a mão indo instintivamente para o pescoço, buscando o ar que parecia faltar. O cheiro adocicado já bastava. Ele não precisava inventar uma explicação para olhar outra vez para as células.
 
 — *"Fluxo Reverso"* — Aria leu através da câmera do visor de Valéria, destacando no HUD uma alavanca grande, pintada de amarelo e preto, no centro do console. — *Se invertermos a pressão mecânica, causamos um refluxo. O sistema vai tentar expelir a obstrução.*
 
@@ -64,13 +64,15 @@ Gabo sentiu o estômago revirar. A bile subiu, ácida. Ele se afastou da escotil
 
 Gabo olhou para Rangel, que estava pálido e suando frio. Olhou para o ferimento em seu próprio braço. Eles não durariam mais uma hora ali. Os anticorpos — o que quer que fossem — estariam chegando.
 
-— Gabo, não — Valéria suplicou. — Deve haver outro jeito.
+Valéria examinou a roda de emergência da comporta. O trinco não cedeu, e o esquema ligava a abertura ao alívio de pressão. Ela fotografou as células e o painel antes de voltar para Gabo.
+
+— Pode haver outra saída. Ainda não procuramos tudo.
 
 — Eu não encontrei — Gabo disse, a voz rouca. Ele caminhou até a alavanca. — O sistema de Dante se alimenta de gente. Nós vamos fazê-lo engasgar.
 
 Ele segurou a alavanca fria.
 
-— *Tem certeza, Detetive?* — Aria sussurrou em seu fone auricular, a voz de Bia carregada de uma intimidade dolorosa. — *Estou registrando que havia pessoas ligadas ao circuito e que a consequência era desconhecida. Não vou apagar esse aviso quando sairmos.*
+— *Tem certeza, Detetive?* — Aria sussurrou em seu fone auricular, a voz de Aria firme apesar dos cortes no áudio. — *Estou registrando que havia pessoas ligadas ao circuito e que a consequência era desconhecida. Não vou apagar esse aviso quando sairmos.*
 
 Gabo fechou os olhos. A dor no braço era fogo. O colar no peito era gelo.
 
@@ -84,8 +86,8 @@ Uma porta pesada de explosão no fundo da sala começou a se abrir lentamente, r
 
 Do teto, sombras se desprenderam. Autômatos de manutenção, parecidos com aranhas de vidro e cromo, desceram por fios de seda sintética.
 
-— Corram — Gabo gritou, levantando Rangel com um esforço que quase rasgou seus músculos. — Para o túnel!
+— Para o túnel! — Gabo gritou. Val guiou a prancha pela abertura enquanto ele puxava a cinta, a perna ferida cedendo a cada passo.
 
-Enquanto corriam, Gabo olhou para trás uma última vez. Pela escotilha, ele viu os corpos nos favos se agitarem em espasmo, como se, por um breve segundo, o choque do fluxo reverso os tivesse acordado de seu pesadelo eterno.
+Ao sair, Gabo olhou para trás uma última vez. Pela escotilha, ele viu os corpos nos favos se agitarem em espasmo, como se, por um breve segundo, o choque do fluxo reverso os tivesse acordado de seu pesadelo eterno.
 
-Ele não olhou mais. Ele apenas correu, carregando o peso dos vivos e dos mortos.
+Ele não olhou mais. Puxou a prancha para o túnel, sem saber o que tinha feito às pessoas nas células.

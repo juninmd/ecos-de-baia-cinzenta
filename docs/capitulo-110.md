@@ -1,6 +1,7 @@
 ---
 image: /cenas/beco.jpeg
-Personagens Presentes: Gabriel "Gabo" Moretti, Inspetor Rangel, Valéria "Val" Cruz, Aria, Kiko Vibe, Dante Moretti
+Personagens Presentes: Gabriel "Gabo" Moretti, Inspetor Rangel, Valéria "Val" Cruz, Aria, mulher e menino
+Participação em registro: Kiko Vibe
 Localização: "Canais de Drenagem do Setor 4 → O Fliperama"
 ---
 # Capítulo 110: Ponto Cego
@@ -18,27 +19,27 @@ AÇÃO: DRONES DE RASTREAMENTO DESPACHADOS.
 Canais de Drenagem do Setor 4
 O Rinoceronte morreu com um engasgo final, afundando o bico blindado na água oleosa e negra do canal de drenagem. A lataria estalou enquanto o motor a diesel esfriava, liberando nuvens de vapor que se misturavam à chuva incessante.
 
-— Fim da linha — anunciou Gabo, chutando a porta emperrada. — Todo mundo pra fora. Agora.
+— Fim da linha — anunciou Gabo. Ele e Rangel forçaram a porta emperrada com os ombros. — Todo mundo pra fora. Agora.
 
 Inspetor Rangel ajudou a mulher e o menino a descer por uma chapa inclinada, depois entrou na água que chegava aos joelhos. O choque térmico foi imediato. A água cheirava a esgoto, podridão química e coisas mortas. Ele olhou para o veículo blindado, agora apenas um pedaço de sucata inútil semimetalizada na escuridão.
 
 — Nós não podíamos ter ido mais longe? — Rangel perguntou, tiritando. Ele ainda segurava seu distintivo holográfico desligado, um peso inútil no bolso do casaco encharcado.
 
-— Com aquele rastreador gritando no painel? — Valéria desceu do banco do motorista, desacoplando o pendrive blindado da Aria do console e espetando-o na porta lateral do comunicador tático de Gabo antes de fechar a mochila impermeável contra o peito. O rosto dela estava pálido, iluminado apenas pelo brilho fraco de seus implantes oculares. — Tivemos sorte de chegar até aqui. O bloqueador do blindado interrompeu o enlace de rastreamento deles por tempo suficiente, mas a bateria auxiliar sustentava o bloqueador do blindado. Quando ela morreu, o enlace de rastreamento voltou.
+— Com aquele rastreador gritando no painel? — Valéria desceu do banco do motorista, desacoplando o pendrive blindado da Aria do console e espetando-o na porta lateral do comunicador tático de Gabo antes de fechar a mochila impermeável contra o peito. O rosto dela estava pálido, iluminado apenas pelo brilho fraco de seus implantes oculares. — Tivemos sorte de chegar até aqui. O bloqueador do blindado interrompeu o enlace de rastreamento deles por tempo suficiente, mas a bateria auxiliar morreu e o enlace de rastreamento voltou.
 
 Gabo encarou o túnel escuro. A água escorria pelas paredes de concreto, e a cidade parecia um eco distante. No colarinho de seu sobretudo, o LED azul do pendrive acoplado ao comunicador tático piscou duas vezes, e a voz sintética de Aria soou baixa no fone auricular.
 
-— *Eles estão cegos. Por enquanto* — calculou Aria pelo comunicador. — *Mas o algoritmo de busca preditiva de Dante já reduziu nossa localização provável para um raio de três quilômetros. Temos doze minutos antes que os Cães Mecânicos cheguem.*
+— *Eles estão cegos. Por enquanto* — calculou Aria pelo comunicador. — *Pela última posição transmitida e pela velocidade dos Cães que vimos, eles podem alcançar este trecho em doze minutos. Não sei que rota vão escolher.*
 
-Gabo ajustou a correia da escopeta *Caronte* sobre o ombro. Ele mancou até a borda de concreto, a perna mecânica improvisada rangendo em protesto contra a umidade.
+Gabo ajustou a correia da escopeta *Caronte* sobre o ombro. Ele mancou até a borda de concreto, a órtese motorizada improvisada rangendo em protesto contra a umidade.
 
-— A Aria deu doze minutos. É uma eternidade se a gente correr — Gabo disse, estendendo a mão para ajudar Rangel a subir.
+— A Aria deu doze minutos. Dá para sair daqui se não perdermos tempo — Gabo disse, estendendo a mão para ajudar Rangel a subir.
 
 Rangel aceitou a mão, sentindo a força bruta e calejada do ex-policial.
 
 — Para onde estamos indo? — o inspetor perguntou. — Não há nada aqui embaixo além de ratos e lixo tóxico.
 
-— É o que o mapa oficial diz — Gabo sorriu, mas não havia humor em seus olhos. — E é por isso que é o único lugar seguro.
+— É o que o mapa oficial diz — Gabo sorriu, mas não havia humor em seus olhos. — Talvez a gente encontre uma saída que eles não estejam vigiando.
 
 Eles caminharam pela escuridão, guiados apenas pela visão noturna de Valéria, pelas leituras do sonar do comunicador que Aria recebia por cabo e pelo instinto de Gabo. O túnel cheirava a ferrugem antiga e memórias esquecidas. Trilhos de metrô enferrujados surgiam da lama ocasionalmente, vestígios de uma linha de transporte abandonada antes mesmo da Grande Enchente.
 
@@ -52,16 +53,13 @@ Rangel sentia o peso de cada passo. Não era apenas o cansaço físico; era o pe
 
 Eles pararam diante de uma parede de tijolos coberta de limo. Parecia um beco sem saída.
 
-Gabo se aproximou da parede. Ele não procurou uma alavanca secreta ou um painel digital. Em vez disso, ele pegou um pedaço de vergalhão solto no chão e bateu três vezes em um tijolo específico, num ritmo sincopado.
+Gabo viu uma faixa sem limo na junta dos tijolos. Enfiou um vergalhão na fresta e puxou; uma peça cedeu, expondo uma trava de manutenção. Rangel ajudou a soltá-la, e os dois empurraram o painel até as correntes vencerem a ferrugem.
 
-TOC. TOC-TOC. TOC.
-Nada aconteceu por cinco segundos.
-
-Então, um som de engrenagens pesadas e correntes enferrujadas ressoou atrás da parede. Um retângulo de tijolos recuou e deslizou para o lado, revelando uma passagem estreita iluminada por tubos de neon ultravioleta que zumbiam como insetos elétricos.
+Um retângulo de tijolos recuou e deslizou para o lado, revelando uma passagem estreita iluminada por tubos de neon ultravioleta que zumbiam como insetos elétricos.
 
 Gabo fez a mulher e o menino entrarem primeiro. Rangel os levou até o banco mais seco e deu a eles as duas mantas do armário.
 
-— Bem-vindos ao Fliperama — disse Gabo, gesticulando para que entrassem.
+— Primeiro a gente confere as saídas — disse Gabo, gesticulando para que entrassem.
 
 O interior era um mausoléu de tecnologia morta.
 
@@ -71,9 +69,11 @@ Quilos e quilos de cabos de cobre, fibra óptica desencapada e fios elétricos f
 
 — O que é isso? — Rangel perguntou, maravilhado e horrorizado. — Parece um lixão.
 
-— É uma Gaiola de Faraday — explicou Valéria, caminhando até uma bancada de trabalho cheia de ferramentas de solda. Ela passou o dedo por uma camada de poeira. — As paredes são revestidas com malha de chumbo e cobre roubado. Nenhum sinal entra, nenhum sinal sai. Nem o Dante consegue ver aqui dentro.
+— É uma Gaiola de Faraday — explicou Valéria, caminhando até uma bancada de trabalho cheia de ferramentas de solda. Ela passou o dedo por uma camada de poeira. — As paredes são revestidas com malha de chumbo e cobre roubado. A malha pode bloquear boa parte dos sinais sem fio. Ainda precisamos conferir os cabos e procurar outra saída.
 
 — Quem construiu isso? — Rangel tocou em uma máquina de arcade desligada. O adesivo lateral, desbotado, mostrava um personagem pixelado com uma espada de luz.
+
+Valéria apontou para a etiqueta no gabinete central: KIKO_VIBE.
 
 — Kiko Vibe — disse Gabo. O nome caiu na sala como uma pedra pesada.
 
@@ -81,7 +81,7 @@ Rangel congelou.
 
 — O mártir? O garoto que iniciou a Primeira Revolta Digital?
 
-— O próprio — Gabo foi até um frigobar enferrujado no canto, abriu-o e tirou uma garrafa de água lacrada. Ele jogou para Rangel. — Antes de virar um ícone em camisetas de protesto e hologramas de rua, ele era apenas um moleque que gostava de jogos antigos e odiava vigilância. Esse era o santuário dele.
+— O próprio — Gabo foi até um frigobar enferrujado no canto, abriu-o e tirou uma garrafa de água lacrada. Ele jogou para Rangel. — Antes de virar um ícone em camisetas de protesto e hologramas de rua, ele era apenas um moleque que gostava de jogos antigos e odiava vigilância. Parece que achamos um esconderijo dele.
 
 Gabo caminhou até o centro da sala, onde os monitores empilhados formavam o "trono". Ele desacoplou o pendrive da Aria do comunicador e o espetou em um adaptador serial ligado à torre central. O LED do drive aqueceu, mudando para um azul constante.
 
@@ -89,7 +89,7 @@ Pelo pequeno alto-falante piezoelétrico do gabinete, a voz de Aria ecoou baixa:
 
 — *Há dados aqui. Fragmentados. Antigos. Fantasmas de código.*
 
-— Kiko deixou um servidor rodando em *loop* local — disse Gabo, sentando-se em um caixote de madeira e começando a desaparafusar a placa de metal de sua perna para verificar os danos. — Ninguém sabe o que tem nele. A cifra foi montada em etapas. Parte da chave deve estar nos papéis, parte no programa local.
+— Vamos descobrir o que ele guardou — disse Gabo, sentando-se em um caixote de madeira e começando a desaparafusar a placa da órtese para verificar os danos.
 
 — Posso copiar o diretório para análise isolada — ofereceu Valéria, já conectando seu deck portátil ao barramento auxiliar.
 
@@ -103,7 +103,7 @@ USER: KIKO_VIBE
 MSG: "Se você está lendo isso, eu já virei pó. Mas o jogo não acabou. A gente só perdeu uma vida. Insira a ficha para continuar."
 ```
 
-Rangel encostou-se na parede fria, deslizando até sentar no chão. Ele olhou para a água em suas botas, depois para Gabo, que limpava o sangue da perna com um trapo sujo, e para o pequeno drive de titânio pulsando luz azul na entrada do computador antigo.
+Rangel encostou-se na parede fria, deslizando até sentar no chão. Ele olhou para a água em suas botas, depois para Gabo, que limpava o sangue da perna com um trapo do kit de primeiros socorros, e para o pequeno drive de titânio pulsando luz azul na entrada do computador antigo.
 
 — Estamos enterrados vivos — Rangel disse, fechando os olhos.
 

@@ -9,13 +9,13 @@ Personagens Presentes: Gabo, Valéria
 
 O fosso do elevador era um vácuo de breu e óleo mineral rançoso, cortado apenas pelo silvo agudo da fita de rapel correndo pelo regulador de atrito enquanto descíamos suspensos pelos cabos de aço. A cada metro que nos aprofundávamos nas entranhas do Setor 7, a temperatura despencava, mas o frio não era suficiente para aplacar o suor ácido que escorria pelo meu pescoço, ardendo nas cicatrizes abertas.
 
-Meus joelhos castigados protestavam a cada solavanco no vazio. As órteses mecânicas das pernas, amassadas desde a clínica de Vasco e moídas pelas ruínas da superfície, rangiam contra os cabos guias como dentes se partindo sob pressão excessiva.
+Meus joelhos castigados protestavam a cada solavanco no vazio. A órtese mecânica da perna direita, amassada desde a clínica de Vasco e moídas pelas ruínas da superfície, rangiam contra os cabos guias como dentes se partindo sob pressão excessiva.
 
 — Firme a bota no cabo central, Moretti! — a voz de Valéria ecoou rente à minha orelha, áspera e cortada pelo vento que subia do poço. Ela estava amarrada ao meu tronco pela cinta de contenção, as pernas envolvendo as guias com a agilidade de quem conhecia a verticalidade dos arranha-céus da Baía. — O atrito do mosquetão tá fervendo a graxa mineral! Se você deixar o corpo girar, a gente perde o alinhamento da viga mestra e bate com a cara na parede de concreto!
 
 — A minha mão de carne tá escorregando na graxa — rosnei entre dentes, os dedos esquerdos dormentes de frio e cansaço, lutando para manter a empunhadura na corda de segurança.
 
-— Então usa a garra de estivador que tá parafusada no seu ombro, gênio! — ela gritou, os olhos ópticos prateados piscando feixes curtos de medição no breu abaixo. — Faltam vinte metros pra laje de serviço e a nossa velocidade de descida tá dobrando! O regulador da cinta tá começando a escorregar na fita!
+— Prende a linha de segurança no suporte lateral, Gabo! — ela gritou, os olhos ópticos prateados piscando feixes curtos de medição no breu abaixo. — Faltam vinte metros pra laje de serviço e a nossa velocidade de descida tá dobrando! O regulador da cinta tá começando a escorregar na fita!
 
 Olhei para baixo. No fundo do abismo, uma névoa fosforescente azulada e vermelha começava a delinear as estruturas de aço do piso técnico. Mas a aceleração da gravidade estava nos puxando rápido demais; a fita de poliéster do arnês cheirava a tecido queimado pelo atrito violento com o mosquetão de titânio.
 
@@ -38,7 +38,7 @@ O cabo gemeu sob a mordida do metal, e nossa descida estancou a meio metro acima
 
 — Solta a trava! Agora! — Valéria gritou, cortando a fita do arnês com um golpe rápido de faca tática.
 
-Desativei os pistões. Val apoiou os pés primeiro na plataforma e soltou o trecho preso da cinta. Desci o meio metro restante até o piso de ferro com um baque surdo, a lama e a graxa amortecendo o impacto. Minha perna de metal cedeu e bati com os joelhos no chão, apoiando a mão esquerda ensanguentada no concreto frio para não desabar de vez.
+Desativei os pistões. Val apoiou os pés primeiro na plataforma e soltou o trecho preso da cinta. Desci o meio metro restante até o piso de ferro com um baque surdo, a lama e a graxa amortecendo o impacto. Minha perna direita cedeu dentro da órtese e bati com os joelhos no chão, apoiando a mão esquerda ensanguentada no concreto frio para não desabar de vez.
 
 Valéria rolou de lado na grade, levantando-se de um salto com a agilidade de um gato de rua, a pistola já apontada para as sombras ao redor. Ela estava ofegante, o rosto manchado de fuligem e os filamentos de LED azul na franja piscando descontrolados pelo choque elétrico residual das faíscas.
 
@@ -48,7 +48,7 @@ Ela me olhou no chão, bufou alto e me deu um soco de leve no ombro são.
 
 — De nada, garota — consegui dizer, cuspindo uma mistura de saliva e pó de ferro no chão. — Agora me ajuda a levantar antes que esse braço esfrie e trave a junta de vez.
 
-Valéria guardou a arma no coldre e me puxou pelo colarinho do sobretudo com as duas mãos, firmando meu equilíbrio até que as travas das órteses das minhas pernas dessem o clique mecânico de travamento.
+Valéria guardou a arma no coldre e me ajudou pelo lado esquerdo com a mão direita, firmando meu equilíbrio até que as travas das órteses das minhas pernas dessem o clique mecânico de travamento.
 
 Foi então que olhamos ao redor.
 
@@ -62,7 +62,7 @@ As raízes penetravam os vãos da blindagem, e das frestas do metal vazava uma l
 
 Valéria ergueu a mão enluvada, os sensores do cyberdeck apitando numa frequência contínua de aviso de contaminação.
 
-— Tem máquina viva operando lá dentro, Gabo — ela sussurrou, a respiração formando pequenas nuvens no ar gélido da câmara. — A rede do Jardim tá alimentando os servidores com os nós que extraíram da estufa. O sinal tá sincronizado com a base do Arquivo Executivo.
+— Tem máquina viva operando lá dentro, Gabo — ela sussurrou, a respiração formando pequenas nuvens no ar gélido da câmara. — O painel registra atividade nos servidores. O cabo segue na direção do Arquivo, mas ainda não consigo ler o que trafega.
 
 Aproximei-me da porta selada, sentindo a vibração do maquinário ressoar através do metal da minha armação e vibrar nos meus dentes.
 

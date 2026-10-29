@@ -29,7 +29,7 @@ timeline
         Parte XXIV · caps 226-236 : Elena volta : A rubrica : Ponto Zero
 ```
 
-> **A espinha da obra.** A pergunta que sustenta a obra inteira não é *quem matou* — é **por que esta família**. A resposta está no Capítulo 228 e no bloco "Por que os Moretti?" do dossiê: o Protocolo Lázaro precisa de uma linhagem para medir deriva, e Krell escolheu a Moretti porque o chefe dela havia assinado a autorização dos testes beta e, portanto, não podia denunciar sem se autoincriminar. Gabo é o **grupo de controle** — o membro que nunca se coleta, porque sem referência viva não há contra o que medir a degradação dos outros. O arquivo registra vigilância desde 2035 e algumas liberações; não prova controle de todas as fugas.
+> **A espinha da obra.** A pergunta que sustenta a obra inteira não é *quem matou* — é **por que esta família**. A resposta está no Capítulo 228 e no bloco "Por que os Moretti?" do dossiê: o Protocolo Lázaro escolheu uma linhagem para medir deriva, e Krell selecionou a Moretti porque o chefe dela havia assinado a autorização dos testes beta e poderia se autoincriminar ao denunciá-los. O arquivo classifica Gabo como **grupo de controle** e registra vigilância desde 2035; não comprova a hipótese científica do estudo nem que o protocolo tenha comandado suas fugas.
 
 ## 📐 Os três livros
 

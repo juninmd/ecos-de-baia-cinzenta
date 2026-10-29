@@ -3,7 +3,7 @@ layout: doc
 title: "Capítulo 87: O Novo Sacerdócio"
 description: "Vilar continua em recuperação após a amputação e o atendimento ocular. A ameaça aos sistemas de ventilação do enclave não equivale a eliminar todo oxigênio da cidade."
 image: /capitulo_87.jpg
-Personagens Presentes: Capitão Jonas Vilar
+Personagens Presentes: Capitão Jonas Vilar, Jonas Pequeno
 Localização: "Catedral de Ferro — que antes era esgoto e agora é morro. Tarde"
 ---
 
@@ -46,7 +46,7 @@ O trono ficava no fundo da catedral e era feito de osso e servidor derretido, e 
 
 Sentado nele estava o Sumo Sacerdote do Culto do Silêncio.
 
-Não era o Profeta Mudo. Aquele tinha sido um peão — um alto-falante, literalmente, que serviu por seis semanas e depois floresceu.
+Não era o Profeta Mudo. Aquele tinha servido como alto-falante nas semanas anteriores e depois florescera.
 
 Este era outro. Vilar levou uns dez segundos para reconhecer, e quando reconheceu teve de segurar no corrimão. Era o menino da TI.
 
@@ -72,7 +72,7 @@ Ele não estava fazendo mágica. Estava **operando**.
 
 Foi a primeira coisa dita naquela sala com emoção humana dentro, e os dois notaram, e Vilar arquivou.
 
-— Está bem. — Vilar cruzou os braços, o que com um braço só é um gesto ligeiramente ridículo, e ele fez assim mesmo. — A água é de quem pega, Jonas. Não reconheço autoridade nenhuma nesse morro.
+— Está bem. — Vilar tentou cruzar os braços por hábito e parou ao sentir a manga vazia. — A água é de quem pega, Jonas. Não reconheço autoridade nenhuma nesse morro.
 
 — Autoridade é uma construção do velho mundo, Capitão. — Os quatro braços continuavam digitando. — Eu não vim falar de autoridade. Eu vim falar de necessidade, que é a única coisa que sobrou funcionando.
 
@@ -92,7 +92,7 @@ Os braços pararam de digitar.
 
 — Nós controlamos as plantas, Capitão. Não é ameaça. É contabilidade.
 
-Vilar conhecia os adutores e o estoque curto de filtros, e essa era a parte que ele não conseguia engolir desde o mês anterior: o enclave dos Puros só sobrevivia porque os Jardineiros permitiam, e todo dia que amanhecia era uma permissão renovada.
+Vilar conhecia os adutores e o estoque curto de filtros. Desde que as raízes alcançaram a ventilação, a ameaça de fechá-la pairava sobre o enclave; ele não sabia quanto tempo ainda teriam para buscar outra saída.
 
 Ele soltou o ar pelo nariz.
 
@@ -110,7 +110,7 @@ Vilar não se moveu. Ele levou três décimos de segundo para tomar a decisão d
 
 — Mentira.
 
-— Ele levou dezoito fraturas no ano passado, garoto. Isso é registro médico.
+— Ele levou dezoito fraturas meses atrás, Jonas. Isso é registro médico.
 
 — O senhor está mentindo agora, e não sobre isso. — Jonas inclinou a cabeça, e os quatro braços voltaram a digitar. — Nós sabemos que a Dra. Nise mantém ele num quarto sem rede, sem sensor e sem contato com o solo, no subsolo do Hospital. Nós sabemos porque há um vazio nas leituras do hospital, e gente que entra levando curativo. O senhor acha que só as flores dão informação?
 

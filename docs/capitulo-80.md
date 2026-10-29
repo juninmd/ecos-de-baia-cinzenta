@@ -3,7 +3,8 @@ layout: doc
 title: "Capítulo 80: A Autópsia de um Deus"
 description: "Nise abre o servidor onde Dante morreu e encontra fungo no biogel e nos chips — e registros que podem estar sendo destruídos ou copiados."
 image: /capitulo_80.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Dra. Nise, Capitão Jonas Vilar, Dante Moretti
+Personagens Presentes: Gabriel "Gabo" Moretti, Dra. Nise, Capitão Jonas Vilar, técnico Barros
+Participação em referência: Dante Moretti
 Localização: "Laboratório subterrâneo da Torre Aeterna — 18h"
 ---
 
@@ -114,7 +115,7 @@ As portas de emergência desceram nos dois vãos com um estrondo hidráulico. O 
 
 — Gabo, o protocolo diz—
 
-— O protocolo foi escrito para vazamento químico. Isso ali cresce. — Ele apontou o telão. — Isso não é um ataque hacker, Capitão. É uma infecção, e ela tem oito semanas de vantagem.
+— O protocolo foi escrito para vazamento químico. Isso ali cresce. — Ele apontou o telão. — Pode ter começado semanas atrás; a gente ainda não sabe quando nem até onde chegou.
 
 Ele desceu a rampa apoiado no corrimão, depressa demais para as órteses. Vilar passou por ele e alcançou o painel primeiro. O quadril cobrou cada apoio. Chegou ao painel da porta. Vermelho. Bloqueio total. E, em letras pequenas embaixo:
 

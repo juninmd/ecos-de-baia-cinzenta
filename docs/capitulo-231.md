@@ -9,11 +9,11 @@ Personagens Presentes: Gabo, Valéria, Elias, Elena, Anselmo Braga
 
 A Valéria montou a armadilha em sete horas e ela era boa.
 
-Sensor de pressão no barranco do canal, feito com fio de cobre e uma placa de prensa. Rede de carga içada numa polia, presa a um contrapeso de duzentos quilos. Dois pontos de fogo cruzado: ela numa passarela, o Elias com a espingarda de cano duplo dos Rossi atrás de um muro de fardos de papel. E eu no portão, sozinho, como isca, porque era o único jeito de ele chegar perto.
+Sensor de pressão no barranco do canal, feito com fio de cobre e uma placa de prensa. Rede de carga içada numa polia, com as bordas ligadas por cabos a um contrapeso de duzentos quilos. O peso corria por guias ao lado do muro, não cairia sobre o corpo de ninguém. Dois pontos de fogo cruzado: ela numa passarela, o Elias com a espingarda de cano duplo dos Rossi atrás de um muro de fardos de papel. E eu no portão, sozinho, como isca, porque era o único jeito de ele chegar perto.
 
 Às onze em ponto ele veio pelo canal. Às onze e um a placa de pressão disparou.
 
-Às onze e dois a rede caiu em cima dele e o contrapeso desceu, e duzentos quilos de aço travaram um homem de oitenta no cascalho, com os braços presos ao corpo. Funcionou. Funcionou perfeitamente. Foi a coisa mais assustadora que eu vi naquela semana.
+Às onze e dois a rede caiu em cima dele. O contrapeso desceu nas guias e puxou as bordas contra as argolas fincadas no pátio. Braga caiu de lado, com os braços presos ao corpo; a malha cedeu o bastante para ele respirar. Funcionou. Foi a coisa mais assustadora que eu vi naquela semana.
 
 ---
 
@@ -27,13 +27,13 @@ Porque ele não lutou. Ficou caído de lado sob a rede, respirando pesado pelo e
 
 Valéria desceu da passarela com a *Caronte* apontada.
 
-— Sujeito imobilizado, — ela disse. — Rede de carga de dez toneladas. Ele não sai sozinho.
+— A rede está presa nas quatro argolas, — ela disse. — Não consigo garantir quanto tempo elas aguentam. Precisamos revistar ele e colocar algemas antes de aliviar o peso.
 
 — Não saio mesmo, — Braga confirmou, prestativo.
 
 Elias saiu de trás dos fardos com a espingarda tremendo tanto que eu tive medo de estar mais perto dele do que do Braga.
 
-E aí ficamos os quatro ali, num pátio de cascalho, com o problema resolvido. E nenhum de nós sabia o que fazer com ele.
+Valéria cobriu Braga com a escopeta enquanto Elias, tremendo, tirava a faca da bota dele e prendia seus pulsos com algemas de um armário da gráfica. Não tínhamos resolvido o que fazer depois.
 
 O sol batia na rede de aço e o pátio inteiro cheirava a poeira quente e a maresia podre do canal. Cada vez que Braga respirava, a malha rangia contra o cascalho, um som fino e regular de coisa mastigando devagar. Eu tinha gosto de metal na boca desde o café, e a cinta laranja do Duarte, enrolada no cinto dele, estava exatamente à minha altura dos olhos.
 
@@ -67,7 +67,7 @@ Ficamos até o sol começar a descer.
 
 Dois trabalhadores aceitaram turnos de guarda. Pelo rádio, o abrigo do Setor 4 respondeu que poderia receber Braga em dois dias, se a estrada continuasse aberta. Não era uma garantia. Era uma alternativa, e eu ouvi a mensagem inteira.
 
-A Elena foi cuidar da tiragem porque o mundo não para. O Elias ficou de guarda até as três e depois eu mandei ele comer. A Valéria não sai de posição nunca, então a Valéria continuou.
+A Elena foi cuidar da tiragem porque o mundo não para. O Elias ficou de guarda até as três e depois eu mandei ele comer. Valéria organizou com os dois trabalhadores um revezamento de observação, água e verificação das algemas. Depois ficou comigo no primeiro turno.
 
 E eu fiquei ali, sentado num caixote a três metros de um homem preso numa rede, porque eu não conseguia sair de perto. Foi ele que puxou assunto, no fim da tarde.
 

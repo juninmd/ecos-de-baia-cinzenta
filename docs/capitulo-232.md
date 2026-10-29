@@ -7,7 +7,7 @@ Personagens Presentes: Gabo, Valéria, Elena, Anselmo Braga
 
 # Capítulo 232: O Justo
 
-Não dormi. Passei a noite no galpão, entre as pilhas do arquivo, com a lamparina baixa e uma pasta aberta no colo que eu não estava lendo. **MORETTI, G. — EM CAMPO — NÃO COLETAR — GRUPO DE CONTROLE.** Duas caixas de papel, a três metros uma da outra, contando a mesma história de dois jeitos. Numa, um homem que virou o que virou porque uma corporação decidiu isso por ele a partir de 2035. Na outra, um homem amarrado numa rede lá fora dizendo que eu escolhi tudo, sozinho, numa terça-feira, e que a corporação não teve nada com isso. As duas não podiam estar certas. E às três da manhã eu entendi que estavam.
+Não dormi. Passei a noite no galpão, entre as pilhas do arquivo, com a lamparina baixa e uma pasta aberta no colo que eu não estava lendo. **MORETTI, G. — EM CAMPO — NÃO COLETAR — GRUPO DE CONTROLE.** Uma caixa registrava anos de vigilância; lá fora, um homem amarrado numa rede dizia que eu escolhera o que fiz numa terça-feira, sozinho. Eu queria que o arquivo explicasse aquela escolha. Não explicava. A corporação tinha me observado, e eu tinha plantado a faca mesmo assim.
 
 ---
 
@@ -53,7 +53,7 @@ Fui ao portão às cinco e vinte, com o céu ainda cinza. Ele estava acordado. A
 
 — Bom dia, Braga. Ele reparou na minha mão. Eu estava com a *Caronte* apoiada no ombro pela alça, porque com o braço direito quebrado na tipóia não dá para carregar de outro jeito.
 
-— Ah, — ele disse. E foi só isso. Um "ah" pequeno, de quem confere uma encomenda que chegou. A Valéria estava na passarela. Não desceu. Não falou. Ficou lá em cima com os olhos prateados voltados para o pátio, e eu agradeci por isso. Agachei ao lado dele.
+— Ah, — ele disse. E foi só isso. Um "ah" pequeno, de quem confere uma encomenda que chegou. A Valéria estava na passarela. Antes de eu sair, ela tinha me pedido para entregar a arma e esperar a custódia. Eu recusei. Ela avisou Elena pelo rádio e ficou lá em cima, olhando para mim; se atirasse ou avançasse, arriscaria um disparo contra os trabalhadores que vinham pelo corredor. Agachei ao lado dele.
 
 — Antes eu quero dizer duas coisas.
 
@@ -135,7 +135,7 @@ Olhei para ela. O rosto continuava quase imóvel. Eu tinha confundido falta de i
 
 — Registra.
 
-— Também descartei mutilá-lo para facilitar a guarda. Não vou chamar tortura de plano de manutenção. Eu levantei a cabeça devagar.
+— Eu pedi que você esperasse e avisei Elena. Não vou fingir que era tarde demais para escolher outra coisa. Eu levantei a cabeça devagar.
 
 — Val.
 
@@ -145,6 +145,6 @@ Olhei para ela. O rosto continuava quase imóvel. Eu tinha confundido falta de i
 
 — **Não**, — ela repetiu. — Ainda não. — E virou o rosto para o galpão, onde a Elena já estava acordando as prensas. — Mas eu registrei.
 
-Ela foi buscar uma pá. E eu fiquei mais um pouco de joelhos no cascalho, ao lado de um homem que eu escolhera matar mesmo depois de receber uma alternativa, e cuja morte agora teria meu nome — a não ser que a mulher lá dentro imprima, o que ela vai imprimir, porque eu pedi. O sol subiu de vez.
+Ela foi buscar uma pá. E eu fiquei mais um pouco de joelhos no cascalho, ao lado de um homem que eu escolhera matar mesmo depois de receber uma alternativa, e sabendo que Elena podia investigar e publicar a morte dele sem depender da minha permissão. O sol subiu de vez.
 
 Cor de latão velho, indiferente como sempre.

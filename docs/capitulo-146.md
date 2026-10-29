@@ -17,7 +17,7 @@ Gabo recuou, cambaleando, quando a porta finalmente cedeu alguns centímetros, l
 
 — E perderíamos mais uma hora, — Gabo sibilou, a voz áspera e fraca. — Hora que o Rangel não tem. Ajude-me com ele.
 
-Juntos, iluminados pelo feixe azulado do pulso de Valéria e pelo LED glacial do pendrive de Aria, eles arrastaram o corpo do inspetor pela fenda que a porta proporcionara.
+Juntos, usaram o vergalhão para ampliar a abertura e passaram a prancha de Rangel pela porta, mantendo as cintas presas.
 
 O interior da eclusa de manutenção não oferecia o refúgio prometido. Era um corredor estreito, revestido de polímeros que um dia foram brancos e agora ostentavam um tom doentio de amarelo e manchas escuras de mofo industrial. A iluminação era mínima: faixas de emergência cor de âmbar piscavam irregularmente no teto baixo, como olhos cansados no escuro.
 
@@ -29,7 +29,7 @@ A repulsa visceral à fumaça o atingiu como um golpe no estômago. Ele nunca fu
 
 A vertigem não cedeu quando Gabo tentou cerrar a mão ferida. Ele deixou o peso escorregar pela parede até o chão. O lenço de Val cobriu o braço que ainda sangrava; naquele corredor, permanecer consciente dependia de aceitar o curativo, não de abrir outra ferida.
 
-— *Análise ambiental concluída pelos sensores do deck,* — a voz de Aria cortou seus pensamentos pelo comunicador de gola. — *Concentração de oxigênio em dezoito vírgula cinco por cento. Presença de toxinas fúngicas em níveis moderados. Estrutura primária estável. Estamos em um corredor de descontaminação primário da Subdivisão 6.0.*
+— *Análise ambiental concluída pelos sensores do deck,* — a voz de Aria cortou seus pensamentos pelo comunicador de gola. — *O detector indica pouco oxigênio. Há mofo nas paredes; não consigo identificar as partículas nem garantir que a estrutura esteja estável. A placa diz corredor de descontaminação da Subdivisão 6.0.*
 
 — Tem... tem algum armário médico no seu mapa, Aria? Algum kit de primeiros socorros de emergência? — Valéria perguntou, a voz embargada enquanto examinava Rangel. A pele do inspetor estava pálida e úmida, a respiração rasa e errática. A febre irradiava de seu corpo como calor de um asfalto escaldante.
 
@@ -46,7 +46,7 @@ Dentro, havia pacotes de ataduras embaladas a vácuo, frascos de soro cristaliza
 Valéria começou a vasculhar febrilmente entre as ataduras ressecadas e os frascos estilhaçados.
 — Tem que ter algo... um antibiótico de largo espectro, epinefrina, qualquer coisa...
 
-— *A sepse de Rangel atingiu um estágio crítico,* — Aria pontuou pelo alto-falante, o LED azul-gelo de seu drive refletindo nas poças escuras do chão. — *Não temos avaliação suficiente para chamar alguém de terminal. Gabo também está piorando. Antes de mover a prancha, Val precisa conter o sangramento da coleta; ele vai cair se continuar assim.*
+— *Rangel continua em estado grave,* — Aria pontuou pelo alto-falante, o LED azul-gelo de seu drive refletindo nas poças escuras do chão. — *Não temos avaliação suficiente para chamar alguém de terminal. Gabo também está piorando. Antes de mover a prancha, Val precisa conter o sangramento da coleta; ele vai cair se continuar assim.*
 
 A urgência chegava na mesma voz restrita de todos os avisos anteriores. Gabo ouviu prioridade e entendeu descarte antes de Val repetir as palavras. Valéria parou de procurar e olhou para o componente de titânio espetado em seu cyberdeck, horrorizada. Gabo apertou os olhos, lutando contra o zumbido nos ouvidos e o torpor causado pela perda de sangue.
 
@@ -54,4 +54,4 @@ A urgência chegava na mesma voz restrita de todos os avisos anteriores. Gabo ou
 
 — *Eu não pedi que o deixassem. Pedi que parassem o sangramento de quem está puxando a prancha,* — Aria rebateu pelo comunicador, impassível. — *Se o áudio está dificultando isso, mantenho só texto até voltarem a precisar de aviso no escuro.*
 
-— Então foda-se a sua matemática, — Gabo cedeu, a exaustão finalmente o vencendo. Ele fechou os olhos, apertando novamente a mão ferida para não se entregar ao vazio. A dor era sua única aliada. O sangue pulsava lento nas têmporas. A Aeterna Corp cobrara sua passagem, mas o custo total da jornada pelas entranhas da Necrópole ainda estava longe de ser pago.
+Gabo fechou os olhos. Val apertou o curativo até o sangramento diminuir, sem soltar a ficha de Rangel. Ele queria levantar; ela manteve a mão em seu ombro até que a tontura cedesse.

@@ -112,7 +112,7 @@ Essa é a parte que ninguém conta sobre catástrofe: não é a água. É que a 
 
 ---
 
-Valéria apareceu às sete e vinte com um tablet de tela rachada e uma expressão que fez Gabo se levantar antes de ela falar.
+Valéria apareceu às sete e vinte com um tablet de tela rachada e uma expressão que fez Gabo se endireitar na cadeira antes de ela falar.
 
 — Gabo. Elena. Tem um problema maior que a comida.
 
@@ -124,7 +124,7 @@ Ela virou a tela. Uma malha de pontos verdes espalhados pelo mapa do Distrito Ba
 
 Não vermelho de alerta. Vermelho saturado, o vermelho que um sensor mostra quando a leitura passou do fim da escala e ele não tem mais números.
 
-— Mercúrio. Chumbo. Solvente clorado. — Val foi lendo, e a voz dela ficava mais fina a cada item. — E uns picos que o sensor não sabe classificar, então ele só registra "orgânico não catalogado", que é o jeito educado de dizer *isso aqui é coisa que a Aeterna fabricou e não registrou em lugar nenhum*.
+— Mercúrio. Chumbo. Solvente clorado. — Val foi lendo, e a voz dela ficava mais fina a cada item. — E uns picos que o sensor não sabe classificar, então ele só registra "orgânico não catalogado", que só quer dizer que o aparelho não identificou o composto. Pode haver rejeito industrial; precisamos de análise para saber o que é.
 
 — A água da enchente — disse Elena.
 

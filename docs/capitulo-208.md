@@ -7,7 +7,7 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 # Capítulo 208: A Geada Negra
 
-O duto estreito de escoamento desembocou em um patamar de grade de aço que tremia sob uma corrente de ar polar. Deslizei para a frente, sentindo a chapa metálica áspera arranhar o couro da minha jaqueta, e pousei com o peso todo nos pés. O impacto da órtese esquerda contra a grade de ferro produziu um estrondo oco, e um choque gélido subiu pelos meus ossos desgastados, travando os dentes na mandíbula.
+O duto estreito de escoamento desembocou em um patamar de grade de aço que tremia sob uma corrente de ar polar. Deslizei para a frente, sentindo a chapa metálica áspera arranhar o couro da minha jaqueta, e pousei com o peso todo nos pés. O impacto da órtese direita contra a grade de ferro produziu um estrondo oco, e um choque gélido subiu pelos meus ossos desgastados, travando os dentes na mandíbula.
 
 Soltei o ar em uma baforada espessa e branca que rodopiou na escuridão antes de congelar e cair em microcristais sobre o meu peito.
 
@@ -29,11 +29,11 @@ Parecia uma mistura monstruosa de líquen botânico necrótico e cristais de gel
 
 Valéria ergueu o cyberdeck, e a luz azul-esmeralda da tela iluminou seus traços tensos. Os reflexos dos fios holográficos da franja brilhavam pálidos na geada que se acumulava em seus ombros.
 
-— Leituras espectrais... — murmurou ela, correndo os dedos pelas teclas com precisão rápida, apesar da rigidez do frio. — É uma reação endotérmica violenta. Os esporos do Jardim tentaram descer pela tubulação pra colonizar o reservatório de água, mas encontraram os vazamentos de gás refrigerante e o óxido ativo da Praga de Ferro.
+— Leituras espectrais... — murmurou ela, correndo os dedos pelas teclas com precisão rápida, apesar da rigidez do frio. — Parece haver matéria orgânica misturada ao gelo e à corrosão. Não consigo identificar a reação só pelo scanner.
 
 — E quem ganhou a briga? — Elias perguntou, esfregando as palmas enluvadas.
 
-— Ninguém ganhou, — ela respondeu com um sorriso sombrio nos lábios roxos. — A Praga congelou os tecidos do Jardim antes que eles pudessem germinar, e as raízes vegetais absorveram a amônia antes de apodrecer. O que sobrou é essa carne vegetal petrificada pelo frio. É gelo com dentes biológicos.
+— Ninguém ganhou, — ela respondeu com um sorriso sombrio nos lábios roxos. — Pode ser tecido do Jardim preso ao gelo. Precisamos de uma amostra e de análise para saber o que aconteceu aqui. É gelo com dentes biológicos.
 
 O cheiro do ar era uma agressão direta às vias aéreas: ozônio estático, gás refrigerante rançoso e carne crua congelada há semanas. Cada inspiração queimava a traqueia como ácido líquido, deixando um travo amargo na base da língua. Minha mão de sucata — a engrenagem forjada por Vasco — começou a chiar; os lubrificantes industriais estavam endurecendo sob a temperatura negativa, forçando os servos a emitirem pequenos estalos de esforço térmico a cada movimento dos dedos.
 
@@ -57,7 +57,7 @@ Eram três técnicos da Aeterna Corp, ainda vestidos com os macacões cinzentos 
 
 Mas o horror não era apenas a morte; era a assimilação. A Geada Negra havia brotado dos implantes cranianos e dos soquetes neurais dos cadáveres, unindo os três operários ao concreto da parede por meio de cordões espessos de fibras pretas cristalizadas. A ferrugem alaranjada da Praga comia as ferramentas em seus cintos, enquanto os rostos congelados mantinham expressões de um desespero tranquilo e sem saída.
 
-— Ficaram presos aqui quando os trincos das comportas foram detonados lá em cima, — murmurei, sentindo o peso sombrio daquela tumba fechar-se sobre o meu peito.
+— Podem ter ficado presos aqui quando as comportas fecharam, — murmurei, sentindo o peso sombrio daquela tumba fechar-se sobre o meu peito.
 
 — Morreram abraçados no escuro, — Valéria sussurrou, a voz perdendo todo o deboche e revelando uma melancolia profunda, a mesma que eu vira em seus olhos quando o terminal de Aria se apagou. Ela estendeu a mão enluvada, quase tocando o ombro de um dos homens congelados, mas recuou a tempo. — A Aeterna nem sequer registrou os nomes deles nos relatórios de baixa. Aposto que entraram como 'custo operacional de amortização'.
 

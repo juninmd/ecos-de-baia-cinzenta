@@ -109,7 +109,7 @@ Ele enxugou o rosto com as costas da mão, deixando risco de graxa.
 
 — E se eu quiser subir depois?
 
-— Aí você sobe depois. O botão não vai a lugar nenhum. — Dei um tapinha na grade com a garra, e a coisa fez um barulho horroroso. — A oferta fica de pé até a última porta. Eu não vou te cobrar e não vou te julgar. Você foi o único de nós três que ainda tinha escolha, e olhar você ficar com ela na mão foi a melhor coisa que eu vi esse ano.
+— Aí você sobe depois. O botão não vai a lugar nenhum. — Dei um tapinha na grade com a garra, e a coisa fez um barulho horroroso. — A oferta fica de pé até a última porta. Eu não vou te cobrar e não vou te julgar. Você tem escolha, Elias. Não vou transformar a decisão de ficar numa dívida.
 
 Ele se levantou. Ajeitou a mochila. E apertou o botão. O de **descer**.
 
@@ -125,7 +125,7 @@ Valéria nos esperava na antecâmara hexagonal.
 
 — Voltou.
 
-— eu achei que ele fosse partir.
+— Eu achei que ele fosse partir.
 
 — Você achou que ele fosse partir?
 
@@ -135,7 +135,7 @@ Andamos os três pelo corredor de vidro e cobre, passando por oitenta e três ca
 
 A Dra. Elara Vance estava de olhos abertos.
 
-Ela tinha ficado assim o tempo todo. Esperando. E, quando os três chegamos ao pé do berço, a pupila esquerda dela se moveu — devagar, um milímetro por vez — e parou exatamente sobre o painel de controle, ao lado da minha mão.
+Ela abrira os olhos novamente. Quando os três chegamos ao pé do berço, a pupila esquerda dela se moveu — devagar, um milímetro por vez — e parou exatamente sobre o painel de controle, ao lado da minha mão.
 
 Depois voltou para mim. E fez de novo. Painel. Eu. Painel. Eu.
 

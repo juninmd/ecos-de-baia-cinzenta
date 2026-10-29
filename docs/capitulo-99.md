@@ -17,7 +17,7 @@ A mão dele foi para o bolso e não encontrou nada. O cubo continuava na palma d
 
 Não era mais um piscar. Era uma resposta. Em algum ponto atrás dos escombros, alguma coisa respondia no mesmo ritmo, e o intervalo entre uma resposta e outra encurtava como o passo de quem diminui a distância.
 
-Gabo quebrou a própria ordem. Abriu os dedos do homem um por um — o rigor mortis já tinha travado os tendões — e arrancou o cubo da mão fria. Foi um choque curto, seco, como morder papel-alumínio. A luz azul subiu de intensidade e virou a única coisa acesa naquele andar.
+Gabo quebrou a própria ordem. Nise já soltara os dedos do morto com a pinça; ele tirou o cubo da palma usando a barra do sobretudo. Um choque atravessou o tecido. A luz azul subiu de intensidade e virou a única coisa acesa naquele andar.
 
 Do outro lado da laje, o som de engrenagens parou de ser paisagem e virou direção.
 
@@ -58,7 +58,7 @@ Gabo viu o que precisava. O chão sob a máquina estava rachado, enfraquecido pe
 
 — Nise! O pé de cabra na sua bolsa! — gritou Gabo.
 
-A médica, entendendo o plano, deslizou a ferramenta de aço pelo chão. Gabo a pegou no ar, ignorando a dor nas costas.
+A médica deslizou a ferramenta de aço pelo chão. Gabo a recolheu junto da coluna, apoiando-se no concreto para não perder o equilíbrio.
 
 A máquina avançou. Gabo não recuou. Ele esperou até sentir o cheiro de óleo queimado e ferrugem.
 
@@ -92,9 +92,9 @@ O cubo preto estava no centro da mesa.
 
 — Recuperação — disse Gabo, encarando a luz azul. — Disse que era um "Ativo Prioritário".
 
-— Mas quem mandou a máquina? — questionou Rangel. — Não sobrou ninguém com *know-how* para construir aquilo. Os Jardineiros odeiam metal. A Aeterna faliu. O Sindicato só quer vender drogas.
+— Mas quem mandou a máquina? — questionou Rangel. — Não sobrou ninguém com *know-how* para construir aquilo. Os Jardineiros odeiam metal. Disseram que a Aeterna encerrou a operação local. O Sindicato ainda está vendendo drogas.
 
-— O Código Morto matou o que estava ligado na Raiz — disse Gabo. — Não matou o que estava desligado.
+— O Código Morto atingiu controladores ligados à Raiz — disse Gabo. — Não sabemos o que aconteceu com tudo que estava ligado, nem com o que estava isolado.
 
 Ele tocou o cubo. Estava frio, mais frio que a sala.
 
@@ -113,9 +113,9 @@ A transmissão cortou em estática.
 
 — Quem era? — perguntou Vilar, os olhos arregalados.
 
-Gabo sentiu um aperto no peito. Ele conhecia aquela voz. Era impossível, mas ele conhecia.
+Gabo sentiu um aperto no peito. O timbre lhe parecia conhecido, embora uma gravação distorcida pudesse enganá-lo.
 
-— Era a Elara Vance — disse Gabo. — A ex-CEO da Aeterna.
+— Parece a Elara Vance — disse Gabo. — A ex-CEO da Aeterna.
 
 — Ela está morta — disse Rangel. — Desapareceu na Queda.
 

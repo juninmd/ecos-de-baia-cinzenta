@@ -36,7 +36,7 @@ O comunicador da delegacia ganhou vida com um chiado. A voz do Capitão Jonas Vi
 
 — *—rla Norte! Repito, todas as unidades, Orla Norte! Tem alguma coisa saindo da—* — estática — *—não são barcos, não são barcos, eu preciso de—*
 
-O rádio morreu. Val tentou reconectar por vinte segundos, com aquela concentração seca dela, e depois parou de tentar e olhou para Gabo, e o rosto dela era o de uma menina de vinte e três anos que acabou de ficar sem plano.
+O rádio morreu. Val tentou reconectar por vinte segundos. Olhou para Gabo, depois voltou ao aparelho, procurando outra forma de alcançar o capitão.
 
 — A antena dele caiu?
 
@@ -88,7 +88,7 @@ Eles se moviam com uma mistura errada de fluidez animal e precisão militar, e a
 
 As viaturas do Capitão Vilar estavam a duzentos metros, atrás de uma barreira de contêineres. O tiroteio começou às cinco e vinte e três.
 
-Gabo assistiu, deitado na crista do aterro, com o braço apodrecendo dentro da bandagem, e viu a polícia de Baía Cinzenta acertar quatro deles em oito minutos, o que era muito melhor do que ele esperava. Também viu por que não ia adiantar.
+Os barqueiros ajudaram Gabo a passar da cadeira para o abrigo baixo na crista do aterro, apoiando a perna e evitando o braço enfaixado. Dali, ele assistiu e viu a polícia de Baía Cinzenta acertar quatro deles em oito minutos, o que era muito melhor do que ele esperava. Também viu por que não ia adiantar.
 
 Os bio-soldados não mostravam reação aos ferimentos, e isso é um detalhe que a ficção romantiza e a realidade transforma em geometria: um homem baleado se abaixa, e ao se abaixar deixa de cobrir o flanco do companheiro. Aquelas coisas não se abaixavam. A formação nunca abria. Um deles atravessou o pátio inteiro com o ombro destruído e o braço pendurado por um fio de músculo, e continuou empurrando, e o problema não era ele — era que os outros vinte e sete puderam avançar enquanto quatro policiais gastavam munição nele.
 

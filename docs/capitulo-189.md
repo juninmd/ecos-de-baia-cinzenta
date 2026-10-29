@@ -31,10 +31,10 @@ O som de servos oxidados rangendo ecoou como dentes estalando no fosso. Os tent�
 
 O primeiro sentinela avançou, veloz de um jeito antinatural que a biologia comum não permitia. O bastão elétrico desceu num arco assassino mirando direto no meu pescoço.
 
-Eu não tinha espaço para esquivar com a perna avariada. Plantei a bota no lodo e ergui o antebraço da prótese pesada para interceptar o golpe.
+Eu não tinha espaço para esquivar com a perna avariada. Plantei a bota no lodo e ergui o antebraço da armação externa para interceptar o golpe.
 
 ZAP-CLANG!
-A descarga elétrica de alta voltagem espalhou-se pela blindagem da armação numa cascata de faíscas incandescentes. O choque ressoou pelos pregos neurais no meu ombro como ferro em brasa, mas a carcaça de carregador das docas absorveu o impacto principal sem ceder um milímetro.
+A descarga elétrica de alta voltagem espalhou-se pela blindagem da armação numa cascata de faíscas incandescentes. O choque ressoou pelos pinos do fixador no meu braço como ferro em brasa, mas a carcaça de carregador das docas absorveu o impacto principal sem ceder um milímetro.
 
 Travei a mandíbula contra o tranco e disparei o pistão hidráulico num soco ascendente.
 
@@ -52,7 +52,7 @@ Saquei *Caronte* com a mão esquerda e disparei à queima-roupa no peito do sent
 
 O estrondo ensurdecedor da escopeta de calibre doze sacudiu a câmara estreita. A carga pesada de balotes rasgou o colete tático podre e estilhaçou a coluna vertebral do cadáver reanimado, fazendo-o perder o apoio junto ao corrimão já rompido. O corpo caiu no fosso; o tiro sozinho não o lançara pela câmara.
 
-O recuo brutal quase arrancou a arma da minha mão e jogou meu corpo contra a parede de concreto, mas antes que o terceiro pudesse erguer o bastão sobre a cabeça de Valéria, dei um passo à frente e enterrei os dedos de ferro da prótese na garganta dele.
+O recuo brutal quase arrancou a arma da minha mão e jogou meu corpo contra a parede de concreto, mas antes que o terceiro pudesse erguer o bastão sobre a cabeça de Valéria, dei um passo à frente e enterrei a pinça de ferro da armação na garganta dele.
 
 Girei o tronco, usando o peso do meu próprio corpo como alavanca, e esmaguei a cabeça da criatura contra o batente de aço da porta com um baque seco e definitivo.
 
@@ -80,11 +80,11 @@ Contei os corpos por reflexo, do jeito que a academia ensina e a rua desensina. 
 
 O braço direito tremia dentro da armação, um tremor fino que não era medo. A descarga do bastão ainda esquentava o pulso por dentro. Eu ia carregar aquele atraso pela noite inteira, e ali embaixo a noite não tinha hora de terminar.
 
-Valéria soltou o ar num longo suspiro trêmulo, encostando a testa na parede fria por três segundos antes de se recompor. Ela guardou os cabos no bolso da jaqueta, virou-se e correu até mim, estendendo as duas mãos para me ajudar a erguer do chão.
+Valéria soltou o ar num longo suspiro trêmulo, encostando a testa na parede fria por três segundos antes de se recompor. Ela guardou os cabos no bolso da jaqueta, virou-se e correu até mim, estendendo a mão direita para me ajudar a erguer do chão.
 
 — Você tá inteiro, Moretti? — ela perguntou, os olhos prateados examinando a fumaça azulada que saía da junta do meu ombro com genuína preocupação.
 
-— A órtese da perna perdeu pressão — resmunguei, apoiando na mão dela até travar a articulação mecânica —, mas o braço novo aguentou o tranco. E você quase perdeu a cabeça ali, garota.
+— A órtese da perna perdeu pressão — resmunguei, apoiando na mão dela até travar a articulação mecânica —, mas a armação ainda responde. E você quase perdeu a cabeça ali, garota.
 
 Valéria deu aquele meio-sorriso cínico, secando a fuligem da testa com as costas da luva.
 

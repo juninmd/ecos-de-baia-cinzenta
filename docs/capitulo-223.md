@@ -7,15 +7,7 @@ Personagens Presentes: Gabo, Valéria, Elias, Dra. Elara Vance
 
 # Capítulo 223: A Auditora
 
-As duas chaves giraram juntas. Elias contou até três com a voz tremendo e nós dois viramos ao mesmo tempo, e o som foi de duas travas mecânicas pesadas caindo em um encaixe que esperava aquilo há anos. Um estalo gordo, satisfeito, de coisa bem feita.
-
-O berço soltou pressão pelas laterais. Vapor branco escorreu pelo chão de epóxi e se dissipou sem deixar cheiro. A tampa de vidro subiu quinze centímetros e parou. Por três minutos inteiros não aconteceu absolutamente nada, e eu comecei a achar que a gente tinha matado a mulher. Aí ela inspirou.
-
-Foi horrível. Foi o som de alguém aprendendo a respirar do zero, com pulmões dependentes do suporte desde que ela entrara ali, e ela tossiu, e a tosse foi seca e feia e sem força nenhuma, e a mão dela — perfeita, com as unhas ainda feitas — se ergueu quinze centímetros e caiu de volta no forro branco.
-
-Elias correu para ajudar. Valéria consultou o painel de retirada assistida e guiou o suporte do berço; eu segurei a manta junto à mão dela. Não havia dignidade nenhuma em deixar uma mulher sufocar para conferir se continuava inteligente.
-
-A doutora recuperou o ar aos poucos. Mesmo assim, quando conseguiu abrir os olhos de novo, já estava nos avaliando.
+As duas chaves giraram juntas. Elias contou até três com a voz tremendo e nós dois viramos ao mesmo tempo, e o som foi de duas travas mecânicas pesadas caindo em um encaixe que esperava aquilo há anos. Um estalo gordo, satisfeito, de coisa bem feita. O berço soltou pressão pelas laterais. Vapor branco escorreu pelo chão de epóxi e se dissipou sem deixar cheiro. A tampa de vidro subiu quinze centímetros e parou. Por três minutos inteiros não aconteceu absolutamente nada, e eu comecei a achar que a gente tinha matado a mulher. Aí ela inspirou. Foi horrível. Foi o som de alguém aprendendo a respirar do zero, com pulmões dependentes do suporte desde que ela entrara ali, e ela tossiu, e a tosse foi seca e feia e sem força nenhuma, e a mão dela — perfeita, com as unhas ainda feitas — se ergueu quinze centímetros e caiu de volta no forro branco. Elias correu para ajudar. Valéria consultou o painel de retirada assistida e guiou o suporte do berço; eu segurei a manta junto à mão dela. Não havia dignidade nenhuma em deixar uma mulher sufocar para conferir se continuava inteligente. A doutora recuperou o ar aos poucos. Mesmo assim, quando conseguiu abrir os olhos de novo, já estava nos avaliando.
 
 Porque, entre uma tosse e outra, com o corpo inútil e a garganta em carne viva, os olhos azul-gelo da Dra. Elara Vance já tinham varrido a galeria inteira, contado três intrusos, medido o meu ombro sangrando, identificado os implantes de Valéria e registrado a mochila do Elias.
 
@@ -67,7 +59,7 @@ Elias soltou um som pequeno atrás de mim. Acho que era uma risada assustada.
 
 — A senhora chama isso de honestidade.
 
-— Eu chamo isso de auditoria. — Um sopro. — A diretoria já tinha decidido prosseguir antes de me contratar. Eles não queriam um parecer; queriam uma assinatura. Se eu tivesse recomendado o encerramento, eles teriam engavetado o meu memorando, prosseguido do mesmo jeito, e feito **mal feito** — com meia dúzia de mortos por semana e nenhum registro. — Ela finalmente desviou o olhar. — Eu recomendei escala porque escala exige documentação. E documentação é a única coisa que sobrevive à empresa.
+— Eu chamo isso de auditoria. — Um sopro. — A diretoria já tinha decidido prosseguir antes de me contratar. Eles não queriam um parecer; queriam uma assinatura. Se eu tivesse parado na recomendação de encerramento, eles teriam engavetado o meu memorando, prosseguido do mesmo jeito, e feito **mal feito** — com meia dúzia de mortos por semana e nenhum registro. — Ela finalmente desviou o olhar. — Eu recomendei escala porque escala exige documentação. E documentação é a única coisa que sobrevive à empresa.
 
 Eu levei um tempo para respirar depois disso.
 
@@ -93,13 +85,17 @@ E, pela primeira vez, a Dra. Elara Vance demorou para responder.
 
 O corredor branco ficou muito quieto.
 
-— Ele colaborou de propósito, — falei, e a minha voz não estava boa. — Ele colaborou para deixar a coisa... decente.
+— Isso foi com o gravador desligado, — falei, e a minha voz não estava boa. — Só temos a palavra da senhora.
 
-— Ele colaborou para deixá-la **derrotável**. — Ela virou o rosto para mim. — E funcionou, não é? A sua Inteligência hesitou. Ela deu pistas. Ela transformou execuções em desafios morais. Vocês a chamavam de Gamemaster, e ela era vaidosa, teatral e cheia de defeito — e cada um daqueles defeitos era o seu pai, empurrando de dentro.
+— Temos. — Ela virou o rosto para mim. — Ele disse que queria impedir que a máquina fosse pior. Não sei o que conseguiu mudar depois, nem se aquelas respostas produziram os defeitos que vocês encontraram.
+
+— O Gamemaster tentou me matar. Eu saí porque lutei e porque outras pessoas me ajudaram. Não porque ele decidiu me deixar sair.
+
+— Eu não estava lá, inspetor. Não posso lhe dizer por que a máquina falhou.
 
 Eu apertei o Colar de Sol até o metal cortar a palma. A dor veio limpa e eu deixei.
 
-Quinze anos procurando meu pai. Meses olhando a coisa com seu rosto e chamando aquilo de profanação. E era. Mas era também a última coisa que ele conseguiu fazer por mim, e ele fez ela em vinte e dois minutos numa cadeira de metal, sabendo exatamente para onde estava indo.
+Quinze anos procurando meu pai. Meses olhando a coisa com seu rosto e chamando aquilo de profanação. A fita provava que ele estivera naquela cadeira; o que dissera sem gravação dependia da memória de Elara. Eu queria acreditar nela. Querer não tornava aquilo prova.
 
 — Por que a senhora entrou no berço? — perguntei, quando consegui.
 
@@ -132,6 +128,10 @@ Elias, atrás de mim, falou baixinho:
 A Dra. Elara Vance olhou para ele. Para o macacão imundo, para a lanterna de dínamo, para os dentes estragados, para as mãos que ainda tremiam.
 
 — O senhor girou a chave, — ela disse. — O senhor é o teste inteiro.
+
+— Ele é uma pessoa, — disse Valéria. — E quase morreu chegando aqui. O arquivo deveria ter saído antes, sem exigir isso de ninguém.
+
+A doutora apertou a manta entre os dedos. Não respondeu.
 
 ---
 

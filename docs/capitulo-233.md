@@ -19,7 +19,7 @@ A caixa exalou quando abriu. Ar frio e velho, com cheiro de óleo mineral e sal 
 
 A Dra. Elara Vance puxou o livro com as duas mãos. A capa era de couro duro e gelada, e continuou gelada mesmo depois de minutos no colo dela. Abriu ali mesmo, na cadeira de aço no meio do galpão, com as prensas batendo ao fundo. E ficou lendo. Levou quarenta minutos. A Elena mandou parar uma das prensas, depois as outras duas, e o galpão inteiro ficou em silêncio pela primeira vez em cinco dias. Quando terminou, fechou o livro e deixou as mãos em cima dele.
 
-— A última transmissão é do dia noventa e seis — ela disse. — Depois disso não tem mais nada, porque não sobrou de onde transmitir.
+— A última transmissão recebida nesta caixa é do dia noventa e seis — ela disse. — Depois dela, não temos outra. Não sei o que restou do transmissor.
 
 ---
 
@@ -35,25 +35,25 @@ Nos primeiros dias, é um homem eficiente. Inventário de sistemas, diagnóstico
 "Oito. Contava com mais."
 No oitavo dia do Dilúvio as unidades alcançam a Orla Norte, e ele registra a chegada com uma satisfação que ainda atravessava os meses de papel: *"Perímetro estabelecido. A cidade responderá em 72h."* A cidade não respondeu em setenta e duas horas. No dia dezenove, duas unidades param de reportar. No vinte e três, mais uma. Ele anota cada perda com número de série e hipótese técnica — *falha de junta de quadril*, *perda de pressurização*, *causa não determinada* — e nunca, em nenhuma linha, escreve a palavra "ferrugem".
 
-— Ele não podia — disse a doutora, sem levantar os olhos. — Ferrugem significa tempo. E tempo significa que ele dormiu demais. Eu me lembrei da praia. Da manhã em que aquela coisa de quarenta metros subiu o aterro da Orla Norte mancando, com a perna direita tremendo e o hidráulico vazando um filete escuro que formou poça antes de ela parar de andar. Na época eu achei que era dano de combate. Não era. Ninguém tinha atirado nela ainda. Era uma máquina velha chegando ao fim de uma caminhada de duzentos quilômetros que ela não tinha mais como fazer, e eu vi aquilo de perto e não entendi o que estava vendo. O gosto de ferro voltou à minha boca só de lembrar.
+— Ele não podia — disse a doutora, sem levantar os olhos. — Ferrugem significa tempo. E tempo significa que ele dormiu demais. Eu me lembrei da praia. Da manhã em que aquela coisa de quarenta metros subiu o aterro da Orla Norte mancando, com a perna direita tremendo e o hidráulico vazando um filete escuro que formou poça antes de ela parar de andar. Na época eu achei que era dano de combate. O relatório aponta desgaste como outra possibilidade; não prova a causa da falha naquela máquina. Eu vi o vazamento de perto e não soube distinguir uma coisa da outra. O gosto de ferro voltou à minha boca só de lembrar.
 
 ---
 
 A parte insuportável começa no segundo mês. Porque ele continua. Continua emitindo ordem de manobra para unidades que não reportavam havia semanas. Continua fazendo chamada nominal — *L-04, reporte; L-04, reporte* — três vezes por dia, todos os dias, com a mesma letra firme. Continua planejando a Fase 3, que era a administração da cidade pacificada, com organograma, distritos e turnos. Ele transmitiu o organograma inteiro. Está no livro, na página cento e quarenta e um. Uma caixa no topo escrita **COMANDO** e treze embaixo, e em três delas nomes de gente morta durante os vinte e sete anos de estase.
 
-— Ele estava transmitindo para uma estação vazia — disse Valéria. Tinha se aproximado sem ninguém perceber. — A Torre caiu antes de ele acordar. O que recebia essas transmissões era um servidor de arquivo, sem operador. Ninguém leu nenhuma delas até hoje.\
-— Ele nunca soube — falei.\
-— Ele nunca soube de nada. — A doutora apoiou os dedos na capa. — Não soube que a Torre caiu por causa de uma sabotagem nos sistemas de comando e refrigeração. Não soube da Praga de Ferro, do Jardim, do Sentinel. Não soube até onde Krell ampliara o programa que ele mesmo autorizou antes de descer. Desconhecer o que veio depois não o inocenta do que deixou funcionando. Ela olhou para mim.\
-— Meu pai passou os últimos três meses de vida achando que estava conquistando Baía Cinzenta. E Baía Cinzenta já tinha sido comprada, moída e revendida por um rapaz que ele contratou para digitalizar contrato de cemitério e cujo nome ele provavelmente nunca aprendeu.
+— As transmissões foram arquivadas, mas não achei aqui registro de quem as recebeu ou leu — disse Valéria. Tinha se aproximado sem ninguém perceber. — A queda da Torre não prova que toda estação ficou sem operador.\
+— Também não sabemos o que ele soube — falei.\
+— Neste material, ele não menciona o que veio depois. — A doutora apoiou os dedos na capa. — Ele não menciona a queda da Torre, a Praga de Ferro, o Jardim ou o Sentinel. Também não há aqui notícia de que soubesse até onde Krell ampliara o programa que ele mesmo autorizou antes de descer. Desconhecer o que veio depois não o inocenta do que deixou funcionando. Ela olhou para mim.\
+— Nessas transmissões, meu pai passou três meses achando que estava conquistando Baía Cinzenta. E Baía Cinzenta já tinha sido comprada, moída e revendida por um rapaz que ele contratou para digitalizar contrato de cemitério e cujo nome ele provavelmente nunca aprendeu.
 
 ---
 
 — Por que ele não subiu? — perguntou Elias, baixinho. — Não tinha um submersível? Alguma coisa?\
 — Tinha. — Ela abriu numa página marcada com o dedo. — Cápsula de ascensão, dois lugares, manutenção independente. Consta no inventário do dia um: *"Operacional. 100%."*\
 — Então ele podia sair a qualquer momento.\
-— A qualquer momento, durante noventa e seis dias. O galpão ficou muito quieto.\
+— O inventário dizia que estava operacional no primeiro dia. Não mostra se continuou assim até o ataque. O galpão ficou muito quieto.\
 — Ele não subiu porque não ia subir como refugiado. Está transmitido, no dia trinta e um, com essas palavras: *"Ascender antes da consolidação seria chegar como sobrevivente. Eu não passei vinte e sete anos aqui embaixo para chegar como sobrevivente."* Ela fechou o livro.\
-— O meu pai teve uma porta aberta ao lado dele por três meses e não usou porque a entrada não seria suficientemente boa.
+— Ao menos no dia trinta e um, ele dizia preferir esperar. Isso não prova que a cápsula estivesse disponível até o fim.
 
 ---
 
@@ -72,7 +72,7 @@ Ninguém falou nada por um tempo muito longo. Foi a Elena que quebrou, e ela que
 — Não — disse a doutora.\
 — Doutora—\
 — **Não.** — Ela virou a cadeira de aço com as mãos, encarando a Elena de frente. — Eu passei décadas preservando séries de um arquivo de sessenta e um anos justamente para que ele saísse inteiro. Não vou começar a editar agora que a linha ruim é minha. Depois virou para mim. E eu esperei. Eu não sei o que eu esperava — que ela gritasse, acho. Que me chamasse de assassino, que fosse justo, que fizesse sentido. Ela disse:\
-— O senhor tinha três hastes e duas opções, inspetor. Uma delas era o centro geométrico da cidade.\
+— O senhor tinha três hastes e o disparo estava apontado para o centro da cidade, inspetor. A alternativa escolhida foi a instalação no mar.\
 — Doutora, eu—\
 — **Quantas pessoas moravam naquele retângulo?** Eu abri a boca e não saiu nada.\
 — Não havia população cadastrada — ela mesma respondeu. — Isso não prova que só houvesse meu pai lá embaixo. O último registro da cápsula é anterior ao ataque; não temos confirmação do que restou. — E no centro geométrico de Baía Cinzenta moravam cerca de quarenta mil, considerando os abrigos. O senhor desviou o ataque dos abrigos para uma instalação sem população civil registrada. — Ela apoiou as mãos no livro outra vez. — Foi a decisão correta e continuaria sendo correta se o senhor soubesse quem estava lá dentro. Eu me recuso a fingir o contrário só porque a uma era meu pai.\
@@ -125,7 +125,7 @@ Antes de rodar o caderno, a Elena levou o gravador de bobina até a mesa e sento
 
 — Eu já li.
 
-— A senhora leu para quatro pessoas. A fita não cansa e não corrige. — Ela encaixou o carretel, um dos que vinham dentro da caixa da Arca, com a etiqueta da Aeterna virada para dentro. — Isso aqui é a matriz. Se as doze mil cópias sumirem, essa bobina continua existindo. Levou três horas e quarenta minutos. A doutora leu o livro inteiro sem parar para café, e quando o carretel acabou ela esticou a mão sem pedir nada, e a Elena pôs outro no cabeçote. No fim, a Elena escreveu na etiqueta com caneta de bico: **LEITURA INTEGRAL — E. VANCE**. Embrulhou a bobina em papel pardo, do jeito que se embrulha coisa de farmácia, e guardou no bolso interno da jaqueta.
+— A senhora leu para quatro pessoas. A fita não cansa e não corrige. — Ela encaixou um carretel virgem da gráfica; os registros originais da caixa ficaram separados e identificados. — Esta será a matriz da nossa leitura. Se as doze mil cópias sumirem, essa bobina continua existindo. Levou três horas e quarenta minutos. A doutora leu o livro inteiro sem parar para café, e quando o carretel acabou ela esticou a mão sem pedir nada, e a Elena pôs outro no cabeçote. No fim, a Elena escreveu na etiqueta com caneta de bico: **LEITURA INTEGRAL — E. VANCE**. Embrulhou a bobina em papel pardo, do jeito que se embrulha coisa de farmácia, e guardou no bolso interno da jaqueta.
 
 — Devia ficar no cofre — falei.
 
