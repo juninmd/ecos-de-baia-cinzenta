@@ -7,9 +7,7 @@ import { withMermaid } from 'vitepress-plugin-mermaid'
 
 // withMermaid envolve o config para que os blocos ```mermaid de docs/arcos.md
 // virem diagramas. Sem ele, o VitePress renderiza tudo como bloco de código.
-// O Netlify serve na raiz do domínio; o GitHub Pages serve em
-// /<nome-do-repo>/. Em vez de fixar um dos dois, o destino informa o prefixo —
-// assim renomear o repositório não quebra o site.
+// O destino informa o prefixo para servir também em /<nome-do-repo>/.
 const base = process.env.VITEPRESS_BASE || '/'
 
 export default withMermaid(defineConfig({
@@ -33,14 +31,14 @@ export default withMermaid(defineConfig({
     ['meta', { name: 'theme-color', content: '#0a0a0f' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black-translucent' }],
-    ['link', { rel: 'manifest', href: '/manifest.json' }],
-    ['link', { rel: 'icon', type: 'image/png', sizes: '192x192', href: '/icons/icon-192x192.png' }],
-    ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/icons/icon-192x192.png' }],
+    ['link', { rel: 'manifest', href: `${base}manifest.json` }],
+    ['link', { rel: 'icon', type: 'image/png', sizes: '192x192', href: `${base}icons/icon-192x192.png` }],
+    ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: `${base}icons/icon-192x192.png` }],
     ['script', { id: 'register-sw' }, `
       if ('serviceWorker' in navigator) {
         window.addEventListener('load', async () => {
           try {
-            await navigator.serviceWorker.register('/sw.js');
+            await navigator.serviceWorker.register(${JSON.stringify(`${base}sw.js`)});
             console.log('✓ Service Worker registered');
           } catch (err) {
             console.error('✗ SW registration failed:', err);
