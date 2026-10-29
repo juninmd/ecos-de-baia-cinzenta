@@ -16,7 +16,7 @@ O silêncio do "Fliperama" era opressivo. Lá fora, na superfície, Baía Cinzen
 
 Gabo olhou para o inspetor. Rangel estava pálido, suando frio, murmurando coisas desconexas em seu delírio febril. "O rio... não olhe para o rio...". O curativo retardara a perda aparente de sangue. Sem avaliação, não sabiam quanto continuava perdendo por dentro. Eles haviam comprado tempo, mas a que juros?
 
-Gabo pegou a garrafa amassada do chão e tentou erguer a cabeça de Rangel com a mão livre. O inspetor bebeu dois goles, engasgou, e o resto escorreu pela lateral do rosto para dentro da bandagem. A pele dele tinha a temperatura errada: quente onde devia ser fria, fria nas mãos.
+Gabo umedeceu os lábios de Rangel com um pano limpo. O inspetor tossiu; Val afastou a garrafa para que ele não tentasse beber enquanto estava confuso. A pele dele tinha a temperatura errada: quente onde devia ser fria, fria nas mãos.
 
 — O rio — Rangel repetiu, os olhos abertos e vazios. — Não olhem para o rio. Tem gente andando no fundo.
 
@@ -46,15 +46,15 @@ Ele levou a mão ao peito e agarrou o *Colar de Sol* sob a camisa. Apertou o met
 
 — O sistema dela vai voltar? — perguntou Gabo, a voz rouca.
 
-— O núcleo do pendrive é blindado, mas o kernel... — Valéria balançou a cabeça. — É como se o sistema operacional dela tivesse sido reescrito por uma tempestade. Há fragmentos de memória que não são do assistente tático. Pedaços de sonhos dos Drenados. Medos. Dores. Tudo misturado com o substrato neural da Bia Vargas que a Aeterna usou na base do código.
+— Alguns índices estão cruzados — disse Valéria. — Há registros recebidos da usina junto dos arquivos de origem e do histórico de Aria. Não sei se ela consegue acessá-los ou como vai reconhecê-los.
 
 Valéria olhou para o cilindro aberto com os circuitos expostos na morsa.
 
-— Se eu fechar o curto e reinicializar o pendrive agora, pode ser que a assistente tática suba. Ou pode ser que o alto-falante comece a gritar com a voz da Bia e de mil viciados mortos. Essa é a nossa dívida.
+— Se eu fechar o curto e reinicializar o pendrive agora, pode ser que a assistente tática suba. Ou pode reproduzir arquivos que não são a voz dela. Essa é a nossa dívida.
 
 — Então não liga — disse Gabo.
 
-— Não é assim. — Valéria encostou o dedo na lateral do drive, onde a blindagem estava amassada pelo calor. — Tem coisa aí dentro que não é dela. A transferência copiou registros de triagem e trechos dos estados dos Drenados para o armazenamento: nome, endereço, o que a Aeterna prometeu antes de mandar o caminhão. Se eu não religar isso com cuidado, a prova fica presa num chip queimado — e aí a cidade pode dizer que ninguém morreu.
+— Não é assim. — Valéria encostou o dedo na lateral do drive, onde a blindagem estava amassada pelo calor. — Tem coisa aí dentro que não é dela. Consigo ver trechos de registros de triagem recebidos da usina: nomes, endereços e promessas de atendimento. Ainda preciso separar as cópias e verificar de onde vieram. Se eu não religar isso com cuidado, a prova fica presa num chip queimado — e aí a cidade pode dizer que ninguém morreu.
 
 — Quem vai querer prova? Não tem mais tribunal.
 
@@ -78,7 +78,9 @@ Gabo soltou o colar e checou a carga de sua pistola cinética. Três balas conve
 
 Rangel gemeu na mesa, um som de dor crua que sublinhou as palavras de Gabo.
 
-— Cuide deles — Gabo disse, prendendo a arma no coldre. — Tente isolar os setores de memória da Aria. Eu vou buscar o que precisamos.
+— Eu vou buscar o que precisamos — disse Gabo, prendendo a arma no coldre.
+
+— Vou ficar com Rangel e preservar uma cópia do que consigo ler — respondeu Val. — Se a mulher voltar com ajuda, eu mostro o caminho.
 
 — Onde? — Valéria perguntou, a voz tingida de medo.
 

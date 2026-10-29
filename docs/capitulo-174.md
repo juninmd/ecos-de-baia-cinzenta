@@ -2,7 +2,7 @@
 Título: O Açougueiro de Cobre
 Data In-Game: Indeterminada (Pós-Colapso da Aeterna)
 Localização: Clínica Clandestina de Vasco, Distrito 4
-Personagens Presentes: Gabo, Valéria, Vasco
+Personagens Presentes: Gabo, Valéria, Vasco, Dra. Nise e equipe
 ---
 
 # Capítulo 174: O Açougueiro de Cobre
@@ -11,7 +11,7 @@ A clínica de Vasco não tinha placa na porta. O que sinalizava sua existência,
 
 Empurrei a pesada porta de chumbo e metal enferrujado. O sino não tocou — estava quebrado desde que eu conheci o lugar —, mas o ar dentro mudou instantaneamente. O cheiro constante de lixo e ácido da rua foi bloqueado, substituído pelo aroma cáustico de antisséptico barato, ozônio estagnado e metal aquecido. Não havia fumaça. Vasco não permitia cigarros perto de seus preciosos e voláteis tanques de oxigênio. Para mim, era o ambiente mais próximo de um santuário.
 
-Valéria tropeçou ao cruzar o batente. O som de seus joelhos de liga batendo no chão de azulejos sujos foi um baque seco. Ela não conseguiu se levantar.
+Valéria tropeçou ao cruzar o batente. O som de seus joelhos batendo no chão de azulejos sujos foi um baque seco. Ela não conseguiu se levantar.
 
 Do fundo do corredor mal iluminado por lâmpadas halógenas piscantes, uma figura rotunda emergiu. Vasco vestia um avental de borracha manchado com fluidos inidentificáveis e usava um visor óptico duplo no olho direito que o fazia parecer um ciclope hiperativo.
 
@@ -21,23 +21,23 @@ Os braços mecânicos dele brilhavam de graxa até o cotovelo. Atrás dele, as p
 
 Ele não esperou resposta. Foi até a porta de chumbo, empurrou o ferrolho e encostou o ouvido na chapa antes de girar a trava de segurança.
 
-— Tem gente na rua perguntando o que explodiu — disse, sem se virar. — Pirata de rádio falando em ataque. O Sindicato mandando gente pra cima do Distrito. — Voltou-se, e a lente biônica zumbeou ao me focar. — se você saiu daqui prometendo resolver o problema e voltou trazendo a cidade apagada nas costas, então me deve mais do que uma consulta, detetive.
+— Tem gente na rua perguntando o que explodiu — disse, sem se virar. — Pirata de rádio falando em ataque. O Sindicato mandando gente pra cima do Distrito. — Voltou-se, e a lente biônica zumbeou ao me focar. — Se você saiu daqui buscando ajuda e voltou com a cidade apagada nas costas, então me deve mais do que uma consulta, detetive.
 
 — Eu sei quanto eu devo.
 
 — Você não faz ideia.
 
-— Precisamos de estabilização — eu disse. Minha voz saiu mais rouca e frágil do que eu pretendia. Minha visão estava escurecendo nas bordas. — Valéria está com os sistemas em falha crítica. E eu...
+— Precisamos de estabilização — eu disse. Minha voz saiu mais rouca e frágil do que eu pretendia. Minha visão estava escurecendo nas bordas. — Valéria está exausta, com a mão ferida e os implantes falhando. E eu...
 
 Levantei meu braço direito. A fratura exposta sob as ataduras rasgadas ainda pingava sangue no chão do doutor clandestino.
 
-Os olhos por trás da grossa lente de Vasco se arregalaram levemente. Ele se adiantou, rápido para um homem de seu tamanho, ignorando-me inicialmente para examinar os conduítes expostos nas costas de Valéria.
+Os olhos por trás da grossa lente de Vasco se arregalaram levemente. Ele se adiantou, rápido para um homem de seu tamanho, ignorando-me inicialmente para examinar a interface e as feridas de Valéria.
 
 — Os implantes primários dela estão fritos — ele murmurou, a voz assumindo o tom clínico que sempre o separava da escória comum do Distrito 4. — A interface neural está em alimentação de emergência. Vou isolar a entrada da rede e medir a fonte antes de trocar peça. Não sei o que é falha de circuito e o que é lesão do corpo dela. Traga-a para a maca dois.
 
-Ajudei Vasco a erguer Valéria. Ela parecia pesar o triplo do normal, um peso morto de metal e remorso. A deitamos na maca de aço inoxidável fria. Vasco imediatamente plugou um cabo grosso e sujo diretamente em sua nuca cibernética. O zumbido grave dos geradores do subsolo pareceu oscilar por um segundo antes de se estabilizar.
+Ajudei Vasco a erguer Valéria e a deitamos na maca fria. Ela consentiu com o exame da interface; Vasco limpou o conector e verificou a alimentação antes de ligar o cabo de diagnóstico.
 
-— E você — ele se voltou para mim, apontando uma lanterna clínica forte diretamente nos meus olhos. Tive que desviar o rosto, a luz rasgando minha retina acostumada com as trevas corporativas. — Choque hipovolêmico grau três. Suas pupilas estão do tamanho de moedas. Como você ainda está de pé?
+— E você — ele se voltou para mim, apontando uma lanterna clínica forte diretamente nos meus olhos. Tive que desviar o rosto, a luz rasgando minha retina acostumada com as trevas corporativas. — Você está pálido e perdeu sangue. Como ainda está de pé?
 
 — Teimosia — murmurei, sentindo as pernas cederem. Caí sentado em uma cadeira de rodinhas próxima, que rangeu protestando contra meu peso.
 
@@ -51,7 +51,7 @@ Fechei os olhos com força, cravando os dentes no próprio lábio até sentir o 
 
 Vasco parou por um segundo, olhando para o meu rosto pálido. Ele não perguntou mais nada. Pegou gaze hemostática e um enxerto de derme sintética e aplicou grosseiramente sobre os rasgos da fratura, contendo o sangramento temporariamente.
 
-— Os ossos do seu antebraço e úmero tão estraçalhados, Gabo. A estrutura óssea foi quase pulverizada. Se eu não meter uma armação externa de ferro parafusada no osso pra alinhar e travar isso aí, você perde os movimentos pra sempre. — A equipe assumiu a estabilização quando chegou. A mudança que senti não tornou o braço funcional; permitiu que eu parasse de lutar para continuar sentado.
+— Seu braço precisa de avaliação e fixação por uma equipe médica, Gabo. Depois eu posso adaptar um suporte externo, se eles disserem que é viável. — A equipe assumiu a estabilização quando chegou. A mudança que senti não tornou o braço funcional; permitiu que eu parasse de lutar para continuar sentado.
 
 — Não temos créditos — falei, minha voz finalmente ganhando alguma firmeza à medida que a adrenalina baixava e o estabilizador químico agia.
 

@@ -97,13 +97,13 @@ Foi o momento exato em que os dois começaram a se respeitar, e nenhum dos dois 
 
 — Preciso dos arquivos físicos — disse Gabo. — Papel. Tudo que tiver sobre o Projeto Lázaro e sobre a Dra. Vance.
 
-— Não tem. — Vilar coçou a nuca. — Digitalizaram tudo em quarenta e sete, quando a Aeterna comprou o contrato de TI do departamento. Digitalizou e destruiu o original, que era a parte do negócio que interessava a eles.
+— Disseram que destruíram os originais depois da digitalização, em quarenta e sete — disse Vilar. — Era parte do contrato de TI.
 
-— Digitalizaram o que estava no fluxo.
+— Nem todos — disse Elena. — Um funcionário me deixou fotografar o volume de Dante no arquivo morto. Os originais ficaram lá. Não vi os outros armários.
 
-— Como assim?
+— Então ainda há uma coleção a conferir — disse Val. — O que sobreviveu pode estar incompleto, ou ter sido alterado depois.
 
-— O arquivo morto do subsolo, Capitão. — Gabo pediu que verificassem a rampa de carga do arquivo antes de descer a cadeira. — Processo arquivado não está em fluxo. Está morto. Ninguém digitaliza o que está morto, porque não gera taxa.
+Gabo pediu que verificassem a rampa de carga do arquivo antes de descer a cadeira. Não era uma rede secreta descoberta naquele dia. Era o mesmo depósito de onde Elena trouxera as cópias, e agora precisavam saber o que mais tinha resistido.
 
 ---
 
@@ -123,7 +123,7 @@ Ele riu sozinho no escuro, e foi a primeira vez em oito dias.
 
 — Comprando o servidor.
 
-— Então eles apagaram tudo que estava ligado. — Ele puxou a primeira gaveta até o batente. — E deixaram intacta a única rede que eles nunca acharam que valia a pena invadir, porque ela não tem senha, não tem uptime e não dá lucro nenhum.
+— Então eles apagaram tudo que estava ligado. — Ele puxou a primeira gaveta até o batente. — E algumas destas gavetas ficaram fora desse alcance. Isso não prova que ninguém tenha entrado aqui nem que o arquivo esteja inteiro.
 
 Elena parou na porta do porão com a lanterna na mão.
 
@@ -135,4 +135,4 @@ Elena parou na porta do porão com a lanterna na mão.
 
 — A gente não tem mais nada, Elena. — Ele virou a primeira folha. — Só isso.
 
-E lá em cima, na cidade sem luz, trezentos mil viciados entravam no nono dia de abstinência, enquanto três pessoas cavavam fantasmas de papel num porão.
+Lá em cima, gente sem luz procurava água, remédio e pessoas desaparecidas. No porão, três pessoas começaram a conferir uma gaveta de cada vez.

@@ -11,7 +11,7 @@ A subida pelo poço do elevador de emergência foi um exercício metódico de do
 
 A escada engolia Valéria acima de mim. Cada passo dela produzia um rangido metálico fraco, engolido pelo breu que empurrávamos para baixo. Para mim, a escalada não exigia apenas força; exigia abstração. Minhas pernas suportavam o peso do chassi avariado do meu corpo, mas meus braços... o braço direito quebrado preso ao peito pesava feito chumbo, e minha mão esquerda em carne viva escorregava no metal frio quando eu tentava usá-la para tração.
 
-A cada dez metros, a carne lacerada e as queimaduras cobertas pelos curativos eram esfoladas na grade. O sangue morno empapava as ataduras improvisadas e os restos das minhas mangas, descendo pelos meus flancos onde a espuma química de Valéria mantinha minhas costelas no lugar.
+A cada dez metros, a carne lacerada e as queimaduras cobertas pelos curativos eram esfoladas na grade. O sangue morno empapava as ataduras improvisadas e os restos das minhas mangas, descendo pelos meus flancos onde o curativo de Valéria tentava conter o sangramento.
 
 Na quarta plataforma, a mão esquerda escorregou. Não houve aviso: o suor e o sangue sob a palma venceram o ferro de uma vez, e o mundo inclinou. Valéria me pegou pela gola do sobretudo, o antebraço dela travando contra o meu peito, e por dois segundos ficamos pendurados na mesma escada, respirando perto o bastante para eu ouvir os dentes dela batendo.
 
@@ -31,7 +31,7 @@ Parei por três segundos para recuperar o fôlego, apoiando a testa no aço gela
 
 — Não vou — rosnei, puxando o fôlego gelado e sujo para os pulmões purificados pela dor.
 
-Subia de lado, com o tronco torto para proteger o deck, e a cada plataforma checava o próprio pulso como quem espera um sinal que não vem. Não havia sinal. Nem dela, nem de ninguém.
+Val subia de lado, com o tronco torto para proteger o deck, e a cada plataforma checava o próprio pulso como quem espera um sinal que não vem. Não havia sinal. Nem dela, nem de ninguém.
 
 Empurrei o corpo para cima. Quinze minutos depois, quebramos a trava do piso térreo.
 

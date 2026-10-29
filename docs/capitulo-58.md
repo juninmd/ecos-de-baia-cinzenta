@@ -34,7 +34,7 @@ Miranda sorriu com metade da boca.
 
 Vilar não respondeu. Trinta e três anos de interrogatório ensinam a não preencher o silêncio do outro. Miranda fez um gesto e um vídeo abriu ao lado da própria cabeça. Imagem granulada, sem áudio, de uma câmera de segurança no beco dos fundos da delegacia. Timestamp de dois dias antes, 04h12.
 
-Nela, o Capitão Jonas Vilar abria a porta de serviço com a própria chave, olhava para os dois lados, e deixava entrar um homem mancando, apoiado num cano de PVC. Corte. 04h31. O mesmo homem saindo com um kit médico e duas caixas de munição calibre 12 debaixo do braço. O estômago de Vilar ficou frio.
+Nela, o Capitão Jonas Vilar abria a porta de serviço com a própria chave, olhava para os dois lados e ajudava Gabo a atravessar a soleira numa cadeira. Corte. 04h31. Vilar saía com um kit médico e duas caixas de munição calibre 12, colocando a carga no colo de Gabo antes de empurrá-lo até a esquina. O estômago de Vilar ficou frio.
 
 — Obstrução de justiça. Auxílio a terrorista classificado. Desvio de material apreendido. Conspiração. — Miranda listava com a entonação de quem lê o cardápio para a mesa. — São dezoito a vinte e três anos na Colônia Penal Marítima, Jonas. Perda do posto, perda da pensão, e — isso é o que eu acho mais desagradável de toda essa história — perda do plano de saúde.
 
@@ -66,7 +66,7 @@ Vilar olhou para o vidro do copo.
 
 — Em troca de quê?
 
-— Da localização atual de Gabriel Moretti. — Miranda falou tranquilo. — E do drive neural da Aria que ele tirou daquela cabine telefônica na enchente.
+— Da localização atual de Gabriel Moretti. — Miranda falou tranquilo. — E do drive neural da Aria que ele tirou daquela cabine telefônica antes do Dilúvio.
 
 ---
 

@@ -11,7 +11,7 @@ Os setecentos metros restantes até o Poço de Elevação Três eram uma marcha 
 
 O ar ali embaixo não circulava; ele estagnava num caldo espesso que cheirava a ferro oxidado, óleo de transformador queimado e carniça vegetal decomposta. Na minha boca, o gosto amargo de cinzas e poeira de alvenaria misturava-se ao suor frio que escorria pelo meu pescoço.
 
-Minha órtese mecânica esquerda rangia a cada dois passos, as buchas gastas moendo areia contra as juntas de ferro. A atadura compressiva no meu ombro e braço quebrado estancara a sangria principal, mas a dor latente pulsava como um lembrete físico de que nossos corpos orgânicos estavam operando no limite absoluto de tolerância.
+Minha órtese mecânica direita rangia a cada dois passos, as buchas gastas moendo areia contra as juntas de ferro. A atadura compressiva no meu ombro e braço quebrado estancara a sangria principal, mas a dor latente pulsava como um lembrete físico de que nossos corpos orgânicos estavam operando no limite absoluto de tolerância.
 
 Eu contava os passos em vez de sentir a distância. Cada cem, uma pausa de dois segundos para deixar o joelho voltar ao lugar, e mais cem. Os setecentos metros davam sete pausas, e eu já tinha inventado a quarta quando percebi o que estava fazendo: contava errado de propósito, só para ganhar mais pausas.
 
@@ -39,13 +39,13 @@ Ela se aproximou de uma das colunas, apontando a sonda de leitura com extremo cu
 
 Valéria examinou a cavidade aberta, os olhos prateados arregalando-se numa mistura de fascínio técnico e repulsa visceral.
 
-— Não são catadores reciclados, Gabo... — ela murmurou, a respiração presa na garganta. — O Jardim tá construindo unidades de combate autônomas. É um laboratório de incubação biomecânica. Olha pra carcaça dentro dessa placenta: uma estrutura de seis membros de titânio reciclado fundida a placas de músculo vegetal denso, com garras de cerâmica industrial no lugar das mãos.
+— Não são catadores reciclados, Gabo... — ela murmurou, a respiração presa na garganta. — Parece uma unidade biomecânica montada aqui. Não sei se opera sozinha nem quem a construiu. Olha pra carcaça dentro dessa placenta: uma estrutura de seis membros de titânio reciclado fundida a placas de músculo vegetal denso, com garras de cerâmica industrial no lugar das mãos.
 
 Aproximei-me da carcaça inerte. O que estava ali dentro não se parecia com nada que a natureza ou a polícia já tivessem catalogado. Era uma quimera aracnídea forjada na escuridão, desenhada exclusivamente para caçar nos túneis estreitos da cidade subterrânea.
 
-— Silas Vance não queria apenas cultivar a cidade — comentei, o cano de *Caronte* repousando pronto na dobra do meu braço esquerdo. — Ele queria criar um exército de limpeza pra patrulhar o subsolo depois que as torres caíssem.
+— Silas Vance não queria apenas cultivar a cidade — comentei, o cano de *Caronte* repousando pronto na dobra do meu braço esquerdo. — Talvez alguém esteja montando unidades para vigiar o subsolo. Não sei se foi Silas.
 
-— E a incubadora ainda tá ativa — Valéria apontou o sensor térmico para o teto, onde outros doze casulos fechados pulsavam com uma temperatura estável de trinta e sete graus. — Eles tão em dormência metabólica, reagindo a vibração acústica e calor. Se a gente passar em silêncio absoluto, a gente cruza os últimos duzentos metros sem acordar a ninhada.
+— E a incubadora ainda tá ativa — Valéria apontou o sensor térmico para o teto, onde outros doze casulos fechados pulsavam com uma temperatura estável de trinta e sete graus. — O sensor mostra calor nos casulos. Não sei o que os faz reagir; passar em silêncio pode nos dar uma chance.
 
 — Passos curtos pelas canaletas de drenagem — comandei, apontando para a vala lateral de concreto seco onde a água não acumulava. — Sem arrastar bota e sem falar nada.
 

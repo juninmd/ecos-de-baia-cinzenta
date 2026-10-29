@@ -31,7 +31,7 @@ Pior do que a corrosão do metal, no entanto, eram as raízes bioluminescentes d
 
 — A gente não pode passar por aí! — Elias soluçou, recuando até colar as costas num pilar de sustentação. — Aquela porcaria azul tá viva! Se a gente encostar nessas raízes, elas agarram nossas pernas e puxam a gente pro fundo do canal!
 
-— As raízes tão dormentes por causa da temperatura baixa dessa água, Elias — Valéria analisou com calma cirúrgica, raspando a crosta de ferrugem do primeiro tubo. — Mas a armação de ferro tá carcomida. Ela não aguenta o peso de nós três juntos. A gente tem que cruzar em fila indiana, um por vez, com passos curtos e sem pular.
+— As raízes não se mexeram até agora, Elias. Não sei se vão reagir — Valéria analisou com calma cirúrgica, raspando a crosta de ferrugem do primeiro tubo. — Mas a armação de ferro tá carcomida. Ela não aguenta o peso de nós três juntos. A gente tem que cruzar em fila indiana, um por vez, com passos curtos e sem pular.
 
 — Eu não vou primeiro! — Elias gritou baixo, sacudindo a cabeça num pânico cego. — Eu sou magro, se eu cair eu me afogo nessa gosma!
 
@@ -61,7 +61,7 @@ Valéria subiu na passarela com a agilidade felina de quem crescera escalando gu
 
 Respirei fundo, sentindo o ar frio queimar os pulmões. Subi no primeiro cano.
 
-O impacto da minha bota mecânica fez a estrutura inteira vibrar com um gemido agudo de metal fadigado. As gavinhas do Jardim reagiram instantaneamente ao peso e à estática da minha armação, brilhando com um tom azul mais intenso e contraindo-se sobre o aço.
+O impacto da minha bota mecânica fez a estrutura inteira vibrar com um gemido agudo de metal fadigado. As gavinhas do Jardim se contraíram quando a estrutura vibrou, brilhando com um tom azul mais intenso e contraindo-se sobre o aço.
 
 Avancei dois metros. Três metros. O abismo negro borbulhava logo abaixo das minhas pernas, exalando um vapor gelado com cheiro de ácido e podridão.
 
@@ -72,15 +72,15 @@ O tubo central partiu-se na solda antiga. A grade de manutenção tombou trinta 
 
 — Gabo! — o grito de Valéria rasgou a acústica da galeria.
 
-A cinta de segurança travou no ponto que Elias fixara. Encostei a garra da armação no cano restante para não girar contra a parede; o arnês sustentava o peso, não o braço fraturado. As engrenagens da armação travaram com um silvo hidráulico ensurdecedor, os nós neurais da minha escápula gritando quando a cinta recebeu o peso e prendeu meu tronco sob a borda. O puxão no fixador abriu sangue novo; se a guia falhasse, a garra não salvaria o ombro.
+A cinta de segurança travou no ponto que Elias fixara. Encostei a garra da armação no cano restante para não girar contra a parede; o arnês sustentava o peso, não o braço fraturado. As engrenagens da armação travaram com um silvo hidráulico ensurdecedor, o fixador repuxando o braço ferido quando a cinta recebeu o peso e prendeu meu tronco sob a borda. O puxão no fixador abriu sangue novo; se a guia falhasse, a garra não salvaria o ombro.
 
 A água escura borbulhou a meio metro das minhas botas.
 
-Lá em cima, Valéria e Elias já estavam puxando a fita de segurança com as duas mãos, fincando os pés na borda da laje com toda a força de seus corpos.
+Lá em cima, Elias puxava a fita com as duas mãos enquanto Valéria guiava a linha com a direita, fincando os pés na borda da laje com toda a força de seus corpos.
 
 — Puxa, Elias! Não solta essa fita! — Valéria berrava, o rosto vermelho de esforço, os LEDs da franja piscando freneticamente. — Põe a mão boa no corrimão, Gabo! Dá impulso com a perna direita!
 
-Travei os dentes, usei a tração da fita que eles seguravam e dei um impulso violento com a bota boa contra a parede rochosa. O braço mecânico puxou meu tronco para cima com um estalo pneumático, e Valéria agarrou o colarinho do meu casaco, me arrastando para o piso sólido da laje com a ajuda de Elias.
+Travei os dentes, usei a tração da fita que eles seguravam e dei um impulso violento com a bota boa contra a parede rochosa. A cinta sustentou meu tronco enquanto Elias puxava. Valéria alcançou meu casaco com a mão direita e ajudou a me arrastar para a laje.
 
 Caí de costas no concreto molhado, arfando com o coração batendo na garganta.
 

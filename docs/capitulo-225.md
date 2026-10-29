@@ -11,7 +11,7 @@ Carregar quatro toneladas de papel leva dezenove horas quando você tem três pe
 
 Eu fiz o que pude. Empurrava caixa com o ombro bom, arrastava lata de fita com a garra, sentava quando o mundo escurecia nas bordas e levantava quando parava de escurecer. Elias fez o trabalho de dois homens e não reclamou uma vez sequer, o que, no caso dele, era um tipo de milagre. A Vance dirigia o carregamento da cadeira de aço, e ela conhecia aquele arquivo com uma intimidade obscena: sabia qual gaveta continha o quê, em que ordem empilhar, o que podia molhar e o que não podia.
 
-Valéria carregou o resto. Sozinha. Sem pausa, sem ofegar, indo e voltando pelo corredor branco empurrando caixas no carrinho de carga, uma pilha por vez, com aquele andar pendular perfeito, hora após hora após hora. Na décima sétima hora eu a vi parar na antecâmara hexagonal, no escuro âmbar, sem carga nenhuma nos braços. Ela estava lendo a placa fundida.
+Valéria carregou o resto no carrinho, uma pilha por vez. Parava para beber água e alongar os dedos da mão direita; a esquerda, presa na luva, só conseguia ajudar a firmar a carga. Na décima sétima hora eu a vi parar na antecâmara hexagonal, no escuro âmbar, sem carga nenhuma nos braços. Ela estava lendo a placa fundida.
 
 "A memória não apodrece."
 Ficou lá uns dez segundos. Depois pegou a próxima caixa e continuou.
@@ -20,7 +20,7 @@ Ficou lá uns dez segundos. Depois pegou a próxima caixa e continuou.
 
 A serra foi na vigésima hora. Não vou escrever sobre isso.
 
-Vou escrever que Valéria trabalhou rápido, cortando as hastes externas enquanto o suporte da enfermaria mantinha meu braço imóvel. As fixações clínicas ficaram no osso; tiramos a máquina, não o membro, que ela não hesitou uma vez, e que quando terminou de enfaixar meu braço ela pousou a mão no meu peito e esperou eu respirar três vezes antes de tirar. Vou escrever que o Elias segurou a minha cabeça e ficou falando merda no meu ouvido a viagem inteira — sobre um cachorro que ele teve, sobre uma namorada em Setor 9, sobre nada — porque ele entendeu, sem que ninguém explicasse, que eu precisava de uma voz humana ali e que ele era a única disponível.
+Vou escrever que Valéria trabalhou rápido, cortando as hastes externas enquanto o suporte da enfermaria mantinha meu braço imóvel. As fixações clínicas ficaram no osso; tiramos a máquina, não o membro. Quando terminou de enfaixar meu braço, ela pousou a mão no meu peito e esperou eu respirar três vezes antes de tirar. Elias segurou a minha cabeça e ficou falando merda no meu ouvido — sobre um cachorro que ele teve, sobre uma namorada em Setor 9, sobre nada — porque entendeu, sem que ninguém explicasse, que eu precisava ouvir alguém enquanto Val cuidava da serra.
 
 Vou escrever que a Dra. Elara Vance virou o rosto. Décadas auditando o horror, e ela virou o rosto.
 

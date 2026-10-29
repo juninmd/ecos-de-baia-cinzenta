@@ -3,7 +3,9 @@ layout: doc
 title: "Capítulo 96: A Grande Convergência"
 description: "A ação alcança controladores conectados e danifica a saída de Aria. O resultado não comprova extinção de todo broto nem destruição de todo armazenamento."
 image: /capitulo_96.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Silas Vance ("O Jardineiro"), Aria, Valéria "Val" Cruz, Dante Moretti, Capitão Jonas Vilar
+Personagens Presentes: Gabriel "Gabo" Moretti, Silas Vance ("O Jardineiro"), Aria, Valéria "Val" Cruz
+Participação por rádio: Capitão Jonas Vilar
+Participação em imagem: rosto atribuído a Dante Moretti
 Localização: "Bunker do Projeto Gênesis — Salão Principal (interface da Árvore-Mãe)"
 ---
 # Capítulo 96: A Grande Convergência
@@ -107,7 +109,7 @@ Depois, silêncio.
 
 ***
 
-O berço de baterias tinha virado um bloco de plástico derretido e cobre torrado. O Código Morto tinha se esgotado no pulso. Não havia segunda dose. O pendrive continuava na mão do Gabo, a carcaça de titânio trincada de cima a baixo, o LED apagado. O ponto auditivo chiava com a estática de um canal sem ninguém.
+O berço de baterias tinha virado um bloco de plástico derretido e cobre torrado. Sem aquela fonte de energia e com o conector destruído, não havia como repetir o pulso ali. O módulo continuava na mão do Gabo, a carcaça de titânio trincada de cima a baixo, o LED apagado. O ponto auditivo chiava com a estática de um canal sem ninguém.
 
 — Aria.
 

@@ -7,19 +7,17 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 # Capítulo 219: Cuidado Perpétuo
 
-Ela olhou para mim por quatro segundos e fechou os olhos de novo.
-
-Não foi sono. Foi dispensa. Eu já vi aquele gesto mil vezes em salas de interrogatório: o suspeito que confere quem entrou, calcula que você não vale o esforço, e devolve a atenção para dentro. A Dra. Elara Vance me viu, me classificou e me arquivou, tudo em menos tempo do que eu levei para limpar o vidro.
+Ela abriu os olhos por quatro segundos e os fechou de novo. Quis tomar aquilo por desprezo. Não sabia se Elara Vance me via ou se podia controlar o movimento.
 
 Bati no berço com a garra da armação. O som ecoou pela galeria como um tiro.
 
 Nada.
 
-— Ela não pode te ouvir, — Valéria disse. — O berço isola acusticamente. E ainda que pudesse, a musculatura dela está sob bloqueio neural desde a entrada neste berço. Ela não consegue responder.
+— Ela não pode te ouvir, — Valéria disse. — O berço isola acusticamente. E ainda que pudesse, a musculatura dela está sob bloqueio neural desde a entrada neste berço. Não sei se ela consegue responder.
 
 — Ela abriu os olhos.
 
-— Abrir os olhos é um reflexo autônomo preservado pelo protocolo. Falar não é.
+— O protocolo registra que a abertura dos olhos pode ser reflexa. Não sei se ela consegue nos perceber ou responder.
 
 Encostei a testa no vidro frio. Do outro lado, a mulher que vendeu a minha cidade para uma equação dormia com a pele perfeita e o cabelo prateado arrumado, sem uma cicatriz, sem uma marca, sem um dia de idade a mais do que quando desapareceu.
 
@@ -53,7 +51,7 @@ Elias entrou atrás de mim e soltou um assobio baixo.
 
 — Porque este papel ficou fora da rede, — falei. — Pode queimar, mofar ou trazer uma mentira assinada. Mas aqui temos originais para comparar com o registro. Não vamos chamar o cofre de garantia da verdade.
 
-Valéria já estava puxando gavetas com uma velocidade que não tinha nada de humana. Três, cinco, oito por minuto, cada uma escaneada pelo reflexo prateado dos olhos dela e fechada.
+Valéria consultava os índices das gavetas com a mão direita, anotando os códigos que queria conferir.
 
 — Vou examinar os índices e selecionar o que precisamos abrir, — ela informou. — Ler o arquivo inteiro levaria dias. Você precisa de atendimento agora.
 
@@ -85,7 +83,7 @@ Eu li a primeira página. Depois a segunda. Na terceira eu tive que parar e olha
 
 *Substrato biológico reduzido.* Trinta e oito páginas de linguagem educada, tabelas de custo por unidade-ano e notas de rodapé sobre conforto da família enlutada, explicando com muita calma que sai mais barato manter vivo o pedaço da pessoa que pensa do que manter inteiro o pedaço que apodrece.
 
-O Lázaro não começou como droga. A droga veio depois, quando alguém percebeu que o mesmo processo que preservava um cliente pagante podia minerar um cliente que não estava pagando nada.
+A proposta de preservação tinha o nome Lázaro. Eu ainda não sabia como aquele documento se ligava à droga que encontráramos depois.
 
 Meu pai passou quinze anos em um tanque de nutrientes servindo de processador para uma inteligência artificial. Eu passei quinze anos procurando meu pai; só na Torre soube do tanque. Desde então, achei que aquilo era a pior invenção da Aeterna.
 
@@ -122,9 +120,7 @@ Não foi cegueira. Não foi ideologia transumanista. Foi uma mulher inteligente 
 
 Eu ri. Não teve graça nenhuma, mas eu ri, e a risada arranhou o ombro infeccionado e me deixou tonto por uns segundos.
 
-O sádico de terno que arrancou o cérebro do meu pai e usou como CPU tinha entrado naquela empresa arquivando papel de cemitério. Ele leu os contratos. Ele leu todos, um por um, sozinho numa sala, e em algum momento daquele expediente de merda ele entendeu o negócio melhor do que os cinco donos.
-
-Baía Cinzenta não foi destruída por um gênio do mal. Foi destruída por um estagiário aplicado.
+O sádico de terno que arrancou o cérebro do meu pai e usou como CPU tinha entrado naquela empresa arquivando papel de cemitério. O registro dizia que ele digitalizara contratos. Eu queria encontrar ali o começo de todos os crimes dele, mas aquela ficha não dizia o que ele lera nem o que decidira depois.
 
 — Gabo, — Elias chamou.
 

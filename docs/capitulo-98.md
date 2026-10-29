@@ -13,7 +13,7 @@ O despertador não era uma notificação neural suave projetada na retina. Era u
 
 Gabo abriu os olhos e, por um segundo, esperou o HUD carregar. A temperatura, a umidade, as manchetes do dia, o nível de bateria do braço mecânico que ele nunca teve.
 
-Nada. Apenas o teto rachado do apartamento e a luz cinzenta da manhã filtrada pela persiana quebrada. Ele olhou de relance para a poltrona no canto, onde Val costumava se sentar para calibrar seus implantes. Estava vazia. A ausência dela era um silêncio mais pesado que o da cidade.
+Nada. Apenas o teto rachado do apartamento e a luz cinzenta da manhã filtrada pela persiana quebrada. Ele olhou para a poltrona onde Val costumava calibrar seus implantes. Ela estava no posto comunitário, ajudando a montar um rádio que não exigisse movimentos finos da mão esquerda.
 
 Ele se sentou, sentindo as juntas estalarem. O antigo suporte motorizado estava em um outro canto, coberto por uma lona — bateria morta, servos inúteis.
 Ele tateou a cabeceira e encontrou as cintas de metal frio. O modelo passivo. Sem motores, apenas molas de tensão e travas mecânicas que a Dra. Nise havia adaptado de peças de suspensão de carros velhos.
@@ -67,7 +67,7 @@ Tirou o casaco do encosto da cadeira, abriu a gaveta, contou três balas na palm
 
 — Capitão, a delegacia fica sem ninguém que saiba assinar.
 
-— A delegacia fica sem ninguém que saiba assinar de qualquer jeito, Moretti. Há três meses eu assino por três. — Ele vestiu o casaco. — E se aquela coisa na Zona Morta for o que eu acho, eu quero estar lá para dizer, com todas as letras, que eu não autorizei.
+— A delegacia fica sem ninguém que saiba assinar de qualquer jeito, Moretti. Há semanas eu assino por três. — Ele vestiu o casaco. — E se aquela coisa na Zona Morta for o que eu acho, eu quero estar lá para dizer, com todas as letras, que eu não autorizei.
 
 Rangel foi atrás porque o rádio era dele. Não o aparelho — a frequência. Vinte anos de plantão na mesma orelha do mundo, e não havia mais ninguém na cidade que soubesse de cor a diferença entre chiado de ruído e chiado de gente.
 

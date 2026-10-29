@@ -20,7 +20,7 @@ Valéria, agachada sobre o terminal portátil onde o pendrive blindado da Aria e
 
 — O espectro de rádio está uma bagunça. Estática branca em todas as frequências da polícia. Eles estão jammeando o sinal para impedir que qualquer um coordene uma defesa.
 
-— É uma varredura de setor — Gabo recuou para dentro da sala, fechando a porta de aço pesada e girando a tranca manual. — Eles sabem que estamos no subsolo. A Usina caiu, Dante está mudo. Quem quer que esteja no comando agora está limpando as pontas soltas à moda antiga.
+— É uma varredura de setor — Gabo recuou para dentro da sala, fechando a porta de aço pesada e girando a tranca manual. — A explosão fechou nosso acesso e há busca na superfície. Não sei se descobriram este lugar ou se estão varrendo o setor inteiro.
 
 Ele olhou para o comunicador preso à própria lapela e depois para o drive espetado no deck de Valéria. O LED indicador do pendrive piscava em um âmbar febril, pulsando no mesmo ritmo de uma respiração humana.
 
@@ -58,7 +58,7 @@ Gabo se recompôs instantaneamente. A máscara de frieza desceu sobre seu rosto,
 
 — Se você me carregar como uma noiva... talvez. — Rangel tentou se sentar e falhou, caindo de volta com um grunhido de dor. — A costura vai abrir.
 
-— A equipe da Nise espera no outro acesso — Gabo disse, verificando a carga da *Caronte*. — Val, pegue o essencial. O resto fica.
+— Nise pediu que procuremos a galeria de inspeção — Gabo disse, verificando a carga da *Caronte*. — Val, pegue o essencial. O resto fica.
 
 — E o servidor do Kiko? — Valéria apontou para o rack de servidores. — Tem terabytes de dados aqui.
 
@@ -70,7 +70,7 @@ Gabo foi até a mesa e pegou um mapa de papel do sistema de esgoto, desdobrando-
 
 — Drenagem profunda é suicídio — Rangel murmurou. — Gás metano. Ratos do tamanho de cães.
 
-— É o único lugar onde os sensores térmicos deles não funcionam — Gabo traçou uma linha com o dedo sujo de graxa. — Vamos descer para o Nível 5. As Catedrais de Pedra.
+— A água e as paredes podem atrapalhar a busca térmica — Gabo traçou uma linha com o dedo sujo de graxa. — Vamos descer para o Nível 5. As Catedrais de Pedra.
 
 — Ninguém vai lá desde a Fundação — Valéria disse, fechando o deck de pulso com o pendrive da Aria acoplado na lateral e prendendo o cabo de áudio no comunicador de Gabo. — Dizem que as estruturas são instáveis.
 
@@ -78,7 +78,7 @@ Gabo foi até a mesa e pegou um mapa de papel do sistema de esgoto, desdobrando-
 
 O som da sirene mudou de tom. Ficou mais agudo, mais rápido. E então, o som de explosões distantes começou. *Thump. Thump. Thump.* Morteiros de concussão. Eles estavam colapsando os túneis de acesso para selar as saídas.
 
-— *Eles estão fechando a tampa* — avisou Aria pelo comunicador, a voz agora desprovida de emoção, puramente tática, apesar dos cortes no canal de áudio. — *Análise sísmica indica colapso iminente do Setor 3 em 4 minutos.*
+— *Eles estão fechando a tampa* — avisou Aria pelo comunicador, a voz agora desprovida de emoção, puramente tática, apesar dos cortes no canal de áudio. — *O mapa registra outra galeria ao sul. Os impactos estão mais próximos; não consigo prever quando este trecho vai ceder.*
 
 Gabo olhou para o LED azul-âmbar piscando no pulso de Valéria. Por um segundo, ele quis ouvir apenas uma ferramenta. A última resposta dela não deixou.
 

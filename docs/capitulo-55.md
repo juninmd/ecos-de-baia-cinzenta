@@ -1,6 +1,7 @@
 ---
 image: /capitulo_55.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Isadora, Marco Moretti, Roberto Miranda, Elena Moretti
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Isadora e dono do bar
+Participação em relato: Marco Moretti, Roberto Miranda, Elena Moretti
 Localização: "Dia 46 do Dilúvio - Refúgio Subterrâneo"
 ---
 # Capítulo 55: A Tentação de Lázaro
@@ -74,7 +75,7 @@ A mão de Gabo passou pelo frasco e parou junto do pulso dela, sem fechá-lo na 
 
 O sorriso de Isadora vacilou.
 
-— Me solta.
+— Não toca.
 
 — Foi o Miranda, não foi? Com aquela mão de metal dele.
 
@@ -86,7 +87,7 @@ A máscara da femme fatale caiu. Isadora relaxou os ombros, derrotada.
 
 — Ele disse que se eu não fizesse você beber... ele ia me dar para os robôs. — Uma lágrima solitária escorreu pela maquiagem perfeita. — O Marco... ele quer você fora do tabuleiro, mas não quer te matar. Ele quer te possuir. Como um troféu na estante digital dele.
 
-Gabo soltou o braço dela. Ele pegou o frasco de Lázaro e o jogou contra a parede. O vidro quebrou, e o líquido azul evaporou com um chiado.
+Gabo recolheu a mão. Pegou o frasco de Lázaro e o jogou contra a parede. O vidro quebrou, e o líquido azul escorreu entre as rachaduras.
 
 — Diga a ele que eu recuso a oferta.
 
@@ -94,13 +95,13 @@ Isadora olhou para o líquido desperdiçado, depois para Gabo.
 
 — Ele vai me matar.
 
-— Não — disse Gabo, levantando-se com dificuldade, mas com uma nova força nos olhos. — Você vai nos ajudar a matá-los.
+— Senta e me diga como chegar ao Miranda — disse Gabo, firmando a bengala no chão. — Eu quero acabar com ele.
 
 — Por que eu faria isso? Vocês são meia dúzia de ratos contra um exército.
 
-— Porque eu sou o único que viu a marca no seu braço e perguntou quem fez, em vez de perguntar o que você podia fazer por mim.
+— Não sei se consigo proteger você. Posso esconder seu nome e tentar arrumar um lugar longe dele. Se quiser ir embora, não vou impedir.
 
-Isadora avaliou o homem à sua frente. Quebrado, sujo, velho. Mas inquebrável.
+Isadora olhou para a saída. Valéria surgiu na porta com o deck sob o braço, atraída pelo vidro quebrado. Gabo ergueu a mão para que esperasse. Isadora encarou o frasco vazio antes de voltar à mesa.
 
 Antes de abrir o salto do sapato, puxou do bolso um recibo térmico dobrado. No cabeçalho, revisão anual; abaixo, “setor familiar”, **REF-0** e **PEDIDO DE COLETA: RECUSADO — MANTER REFERÊNCIA EM CAMPO**. Val reconheceu a chave do verso guardado por Nise. O rodapé identificava um console administrativo, sem nome de operador.
 
@@ -116,7 +117,7 @@ Ela tirou um chip escondido no salto do sapato e o colocou na mesa.
 
 Gabo pegou o chip.
 
-— Bem-vinda à resistência, Isadora. O café é horrível, mas a liberdade é de graça.
+— Vou procurar um abrigo — disse Gabo. — Não prometo que aceite você.
 
 Ela se levantou, ajeitando o vestido.
 

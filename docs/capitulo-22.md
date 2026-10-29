@@ -27,9 +27,9 @@ Ela alisou o papel com o polegar.
 
 Gabo aproximou o rosto do vidro frio. Não podia esfregá-lo com as duas mãos, como fazia antes de começar a perder o uso delas.
 
-— Meu pai morreu. Vi o corpo no necrotério, depois o caixão fechado. Assinei o atestado.
+— Disseram que meu pai morreu. Assinei o recebimento do atestado, mas nunca vi o corpo. O caixão estava fechado.
 
-— O caixão vazio hoje não muda sozinho o que você viu em 2041 — disse Elena. Virou a folha. — Isto também é de lá. Precisa entrar na mesma conta.
+— O caixão vazio hoje não diz quando foi aberto nem se havia alguém nele em 2041 — disse Elena. Virou a folha. — Isto também é de lá. Precisa entrar na mesma conta.
 
 Era um diagrama médico. Mostrava um crânio marcado com o nome de Dante, o córtex entrelaçado com filamentos. Tinha um número de paciente e a data prevista para implantação. Não era uma fotografia da cirurgia.
 

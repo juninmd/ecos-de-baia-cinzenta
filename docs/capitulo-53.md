@@ -1,6 +1,7 @@
 ---
 image: /capitulo_53.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Marco Moretti, Elena Moretti, Dra. Nise, Dante Moretti, Aria Moretti
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Marco Moretti, Elena Moretti, Dra. Nise, assistente androide
+Participação em imagem e lembrança: Dante Moretti
 Localização: "Cafeteria do Fim do Mundo, Distrito da Ferrugem → Porão da antiga Delegacia"
 ---
 # Capítulo 53: Café, Código e Conspiração
@@ -47,19 +48,19 @@ Gabo franziu a testa.
 
 — Do meu pai?
 
-— O diretório associa a imagem ao substrato de Dante. Isso não autentica quem a colocou ali. Mas não é código de máquina, Gabo. É orgânico. Pode haver intervenção dele, mas também pode ser programação da equipe sobre aquele substrato.
+— O diretório associa a imagem ao substrato de Dante. Isso não autentica quem a colocou ali. Pode haver intervenção dele, mas também pode ser programação da equipe sobre aquele substrato.
 
 Val ampliou a imagem. O código binário ao redor da foto formava um padrão.
 
-— Ele não foi apenas uma bateria, Gabo. Ele foi um vírus. A hipótese é que algumas falhas tenham sido intervenção dele. A foto e os registros não provam o plano nem o que sabia. Para isso falta uma fonte independente.
+— O sistema registrou reações que não esperavam do substrato. Uma hipótese é que Dante tenha interferido. A foto e os registros não provam um plano nem o que ele sabia. Para isso falta uma fonte independente.
 
 Gabo sentiu um nó na garganta.
 
 — Ele sabia que eu viria.
 
-— Pode ter apostado em você. — Val sorriu. — O velho era um estrategista até o fim. Ele hackeou Deus com a própria alma.
+— Pode ter apostado em você. Também pode ser exatamente o que a equipe queria que você pensasse. Não vou escolher por você antes de achar outra fonte.
 
-Gabo olhou para a chuva lá fora. Dante não tinha apenas morrido. Ele tinha lutado, em silêncio, por quinze anos, dentro de uma caixa de vidro, esperando o filho ficar pronto.
+Gabo olhou para a chuva lá fora. Queria acreditar que Dante lutara dentro daquela caixa e deixara um caminho para ele. Querer não preenchia a lacuna no registro.
 
 — Precisamos honrar isso — disse Gabo, levantando-se. As órteses travaram com um clique metálico. — Chega de reagir. Vamos atacar.
 
@@ -77,19 +78,19 @@ Elena estava lá, organizando mapas físicos sobre uma mesa de bilhar. Nise conf
 
 Gabo apontou para o mapa na mesa.
 
-— O Dilúvio não é um acidente natural. É engenharia. As comportas do Distrito Baixo não falharam. Alguém abriu as três na ordem que a Val decifrou — e essa ordem não serve para salvar ninguém. Serve para esvaziar o subsolo da Aeterna.
+— O operador disse que as comportas foram abertas. A simulação da Val mostra um caminho possível da água pelos tanques da Aeterna. Se alguém planejou esse percurso, eu quero a ordem e o nome de quem executou.
 
 — Quem tem esse poder? — perguntou Dra. Nise.
 
-— Aeterna não abre comporta. Comporta é municipal, e comporta aberta é ordem da Prefeitura. — Gabo jogou uma foto na mesa.
+— A autorização formal é municipal. Isso não prova quem tinha acesso ao comando nem quem deu a ordem. — Gabo jogou uma foto na mesa.
 
-Marco Moretti. Administrava a emergência em nome do prefeito Augusto Vale e passara a usar o cargo como se fosse seu. A foto não provava que operara comportas; faltavam as ordens e quem as executara.
+Marco Moretti. Disputava a prefeitura contra Augusto Vale, mas administrava a emergência em nome do rival e passara a usar essa autoridade como se o cargo já fosse seu. A foto não provava que operara comportas; faltavam as ordens e quem as executara.
 
 O silêncio na sala foi pesado.
 
 — Seu irmão — disse Elena.
 
-— Ele não é meu irmão — disse Gabo, a voz fria. — Suspeito que esteja ligado à operação que deixou minha mãe sem saída. Vou atrás das ordens, não tratar a suspeita como laudo. O plano dele é simples: inundar os Distritos Baixos, matar os "improdutivos", e reconstruir uma cidade de luxo sobre os nossos ossos. É a gentrificação final.
+— Ele não é meu irmão — disse Gabo, a voz fria. — Suspeito que esteja ligado à operação que deixou minha mãe sem saída. Vou atrás das ordens, não tratar a suspeita como laudo. Se ele abriu aquelas comportas para esvaziar os bairros, pode querer reconstruir sobre os nossos ossos. Quero saber antes que abra outras.
 
 — Precisamos fechar as comportas — disse Val. — Mas o sistema é isolado. *Air-gapped*. Não dá pra hackear daqui.
 
@@ -99,7 +100,7 @@ O silêncio na sala foi pesado.
 
 Gabo olhou para as órteses. Ele começou a se mover, testando os limites. Tentou transferir o peso e precisou apoiar-se na mesa. Os servos davam suporte, não restauravam a coluna. Nise mandou que sentasse antes de transformar raiva em mais uma lesão.
 
-— Eu vou ter uma conversa de família com o Prefeito.
+— Eu vou ter uma conversa de família com quem está mandando em nome do prefeito.
 
 ***
 
@@ -107,9 +108,9 @@ Enquanto isso, na cobertura da Torre da Prefeitura, Marco Moretti observava a ch
 
 Ele vestia um terno branco impecável, um contraste gritante com o céu cinza. Ao seu lado, hologramas mostravam os níveis da água subindo no Setor 7.
 
-— A limpeza está 40% completa, Senhor Prefeito — disse uma voz sintética de um assistente androide.
+— A remoção está 40% completa, secretário — disse uma voz sintética de um assistente androide. — O gabinete do prefeito pede o relatório de abrigos.
 
-— Ótimo — Marco sorriu. Ele tomou um gole de vinho safra antiga. — É triste, claro. A perda de vidas. Mas olhe para isso... — Ele apontou para a cidade submersa. — É como o batismo. A água leva a sujeira. Leva o crime. Leva a doença.
+— Envie os abrigos que continuam abertos. — Marco tomou um gole de vinho e apontou para a cidade submersa. — Se a prefeitura não oferecer um endereço, a oposição vai contar cada família na água. E não divulgue os contratos de remoção antes de eu lê-los.
 
 Ele se virou para a mesa, onde uma foto antiga da família Moretti estava em um porta-retratos de prata. Ele passou o dedo sobre o rosto de Gabo.
 
@@ -117,7 +118,7 @@ Ele se virou para a mesa, onde uma foto antiga da família Moretti estava em um 
 
 Marco derrubou o porta-retratos com um peteleco, quebrando o vidro.
 
-— Coração é uma fraqueza orgânica. Eu tenho visão.
+— Ele me chama quando precisa de transporte. Depois chama o que eu faço de traição.
 
 Ele ativou o comunicador em seu ouvido.
 
@@ -129,4 +130,4 @@ Ele ativou o comunicador em seu ouvido.
 
 Marco voltou a olhar para a chuva.
 
-— Venha, irmãozinho. Vamos ver quem se afoga primeiro.
+— Venha, irmãozinho. Desta vez eu quero ouvir o que você exige que eu salve primeiro.

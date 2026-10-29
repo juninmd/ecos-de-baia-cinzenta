@@ -56,9 +56,9 @@ O mundo não sumiu. Ficou **maior**.
 
 Gabo continuou de pé com a mão na parede, e ao mesmo tempo estava vendo pelas flores da praça central a nove quarteirões dali, com aquela visão de trezentos e sessenta graus que uma flor tem e que nenhum olho humano sabe processar.
 
-Estava vendo o Vilar, no bunker do enclave, discutindo com dois tenentes em cima de um mapa, e o Vilar levantava e sentava e levantava de novo, e não estava conseguindo falar o que precisava falar.
+Parecia ver Vilar, no bunker do enclave, discutindo com dois tenentes em cima de um mapa, e o Vilar levantava e sentava e levantava de novo, e não estava conseguindo falar o que precisava falar.
 
-Estava vendo a Dra. Nise, no corredor do subsolo do Hospital, sentada ao lado do berço de contenção onde repousava o pendrive da Aria, chorando com o rosto nas mãos de um jeito organizado e silencioso que ela nunca deixaria ninguém ver.
+Parecia ver a Dra. Nise, no corredor do subsolo do Hospital, sentada ao lado do berço de contenção onde repousava o pendrive da Aria, chorando com o rosto nas mãos de um jeito organizado e silencioso que ela nunca deixaria ninguém ver.
 
 Estava vendo mil e quinhentas coisas ao mesmo tempo e nenhuma delas com surpresa. E, embaixo de tudo isso, havia mais fundo.
 
@@ -70,7 +70,8 @@ E o que tinha lá embaixo não era vigilância. Parecia **memória**. Imagens co
 
 Um laboratório branco. Anos antes do Dilúvio, dava para saber pelo modelo dos monitores.
 Um homem de jaleco segurando uma placa de Petri contra a luz, com uma cultura preta dentro.
-E, sentado numa bancada, de terno, com vinte anos a menos e sem nenhuma ruga: Marco Moretti.
+No canto da imagem, um campo de identificação: **S. VANCE — BIOLOGIA APLICADA**. O campo podia ser parte do arquivo ou ter sido acrescentado depois.
+E, sentado numa bancada, de terno, mais jovem e sem a ruga entre as sobrancelhas: Marco Moretti.
 — *"...a imortalidade não é digital, Marco. Nunca foi. O upload falha, sempre falhou, e falha pela mesma razão: a mente não roda sem o corpo. Ela é feita de fome, de dor nas costas e de vontade de mijar. Tire isso e o que sobra é um transcrito."*
 
 O homem girou a placa entre os dedos.
@@ -98,11 +99,11 @@ A conexão rompeu com um som úmido e curto, como pé saindo da lama, e ele caiu
 
 Levou um minuto e meio para conseguir sentar. O rosto do homem do laboratório ele não conhecia. Nunca tinha visto, nem em foto, nem em processo, nem em jornal. Mas os olhos, sim.
 
-Eram os olhos que ele tinha visto, dois dias antes, num mezanino de agência bancária, olhando para ele com curiosidade infantil por trás de um rosto verde-pálido. Era o Jardineiro.
+Lembrou-se do olhar da mulher no mezanino da agência bancária, mas semelhança não dava nome a ninguém. A identificação no canto do arquivo oferecia uma pista, não uma autenticação.
 
 — Silas Vance — disse Gabo, para o teto.
 
-O nome não era novo. Tinha entrado na cidade por um rádio, meses antes, na voz de Arthur Vance chamando o filho pelo nome completo, e Gabo tinha ouvido aquilo de pé num pátio cheio de gente morta sem entender o que era. Entendeu agora, com a mão ainda quente da parede, e a parte assustadora não foi lembrar: foi lembrar com a certeza de quem acabou de ser informado.
+O nome não era novo. Meses antes, Arthur Vance chamara o filho pelo rádio: Silas Vance, diretor de Biologia Aplicada. O campo no arquivo podia apontar para ele. Gabo precisaria de outro registro para confirmar a identidade do homem na gravação.
 
 ---
 
@@ -112,7 +113,7 @@ Não foi à falência, não foi vencida por três hastes de tungstênio no fundo
 
 Ela **mudou de substrato**.
 
-Trinta anos despejando saturação na água da cidade. Um Dilúvio que serviu para hidratar. Um Apagão que ninguém entendeu, que na verdade só desligou a camada de silício que estava atrapalhando.
+A gravação alegava décadas de saturação e um Dilúvio planejado para hidratar o Jardim. A queda dos sistemas digitais podia tê-lo favorecido; a visão não demonstrava que tivesse sido causada para isso.
 
 E o Gabo — que passou o livro inteiro achando que estava atrapalhando um plano — podia ter aberto caminhos que outro plano aproveitou. A gravação dizia que o Dilúvio fazia parte dele; ainda precisava encontrar prova fora daquela parede.
 

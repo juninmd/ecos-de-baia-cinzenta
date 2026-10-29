@@ -40,7 +40,7 @@ Foi um arremesso ruim. A garrafa girou no ar, bateu de lado no chassi do drone e
 
 O que veio foi um pulso sônico. Não teve estampido — teve uma **pressão**, uma coisa que Gabo sentiu no peito e nos dentes dentro do carro fechado a quarenta metros de distância, e o para-brisa do Cobalt vibrou como pele de tambor. E o vidro de todas as janelas daquele andar explodiu **para dentro**.
 
-O homem da regata caiu de joelhos com as mãos nos ouvidos. A boca abria e fechava. Gabo não ouviu nada, e não precisava: ele sabia exatamente que som um homem faz quando os dois tímpanos rompem ao mesmo tempo, porque ele já tinha ouvido em bombardeio de gás em manifestação, quinze anos antes, quando estava do outro lado.
+O homem da regata caiu de joelhos com as mãos nos ouvidos. A boca abria e fechava. Gabo não ouviu nada, e não precisava: a pressão e a queda lembravam um bombardeio de gás em manifestação, quinze anos antes. Daquela distância, ele não podia diagnosticar o ferimento.
 
 Uma mulher apareceu atrás dele e o puxou para fora do vão da janela. O drone subiu, girou e foi para a janela seguinte projetar o mesmo aviso.
 
@@ -54,15 +54,15 @@ Duzentos metros adiante a rua estava fechada. Barreira de concreto pré-moldado 
 
 Não eram os modelos da corporativa. Estes eram maiores, com o torso mais largo, e estavam pintados de **branco imaculado**. Sem número de unidade, sem brasão de departamento, sem nada. Máquina branca de segurança privada, limpa como geladeira nova, em pé no meio de um bairro que tinha lama até o meio-fio. Gabo parou o Cobalt a cinquenta metros.
 
-— Aria. Modo furtivo. Corta toda emissão.
+— Aria. Modo furtivo. Corta a transmissão externa; deixa o cabo do meu ponto auditivo ligado.
 
-O LED azul do pendrive no painel apagou instantaneamente, recolhendo os protocolos de telemetria para dentro da blindagem de titânio em menos de dois décimos de segundo, sem questionar.
+O LED azul do pendrive apagou. O rádio externo ficou mudo; o módulo continuou alimentado pelo carro e ligado ao fone por cabo.
 
-Foi a velocidade da resposta que impressionou. Nenhum sistema comercial desarma a própria portadora com aquela disciplina tática. Aquela IA que ele havia resgatado na cabine telefônica durante a enchente já tinha operado sob caça real muitas vezes. Gabo ficou com a mão na maçaneta por um instante a mais, tocando de leve o metal morno do drive espetado no console.
+Gabo tocou de leve o metal morno do drive espetado no console. Não sabia onde Aria aprendera a se esconder; sabia que a ausência do sinal não apagava as câmeras do bloqueio.
 
-— Eu volto — ele disse.
+— Se eu precisar do porta-malas, consegue abrir pela ligação local?
 
-O módulo permaneceu completamente escuro, camuflado como um simples fusível morto no painel.
+— *Consigo, enquanto a alimentação e a trava responderem.* O módulo permaneceu escuro no painel.
 
 ---
 
@@ -127,7 +127,7 @@ ATIVO IMOBILIÁRIO — LOTE 404
 PROPRIETÁRIO: AETERNA PRIME
 Gabo ficou olhando aquilo por um tempo bem maior do que precisava.
 
-Não era um consórcio novo. Não era gente de fora aproveitando o cadáver. Era a mesma empresa de sempre, com um nome novo e um CNPJ novo, **comprando a cidade que ela mesma quebrou** — e comprando barato, porque terreno em zona de exclusão não vale nada, e a zona de exclusão foi criada por decreto que a própria empresa financiou. Eles afundaram o bairro para poder comprá-lo.
+O adesivo ligava aquele robô à Aeterna Prime; a propaganda ligava o consórcio a um estudo anterior à enchente. Gabo ainda precisava do decreto, do registro do terreno e das ordens das comportas para demonstrar quem ganhara com a remoção e quem causara a inundação.
 
 — Filhos da puta — ele disse, e cuspiu no asfalto.
 
@@ -135,11 +135,11 @@ Nem era raiva, no fim. Era aquele cansaço específico de descobrir que a conspi
 
 ---
 
-Ele permaneceu no carro, ofegante, e guardou a captura do adesivo que o zoom do telefone permitira ler. No console central, o LED azul do pendrive da Aria voltou a acender assim que os sensores confirmaram a morte dos dois CP-Z.
+Ele permaneceu no carro, ofegante, e guardou a captura do adesivo que o zoom do telefone permitira ler. No console central, o LED azul do pendrive da Aria voltou a acender depois que as duas máquinas deixaram de se mover.
 
 — *Você demorou dois minutos além da margem de segurança, Inspetor* — disse a voz sintética e limpa dela pelo alto-falante do painel.
 
-Naquela viagem, poucas frases tinham tido tanto peso. Gabo entrou, fechou a porta, largou a *Caronte* no banco de trás e ficou com as duas mãos no volante sem ligar o carro.
+Naquela viagem, poucas frases tinham tido tanto peso. Gabo fechou a porta, largou a *Caronte* no banco de trás e ficou com as duas mãos no volante sem ligar o carro.
 
 — Eu demorei — ele concordou.
 

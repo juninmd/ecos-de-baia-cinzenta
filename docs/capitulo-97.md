@@ -3,7 +3,8 @@ layout: doc
 title: "Capítulo 97: O Último Suspiro"
 description: "Uma semana depois, Val conserva o dano nervoso da mão esquerda. Gabo depende de suporte. Aria responde por texto quando ligada ao dock, apesar da falha de voz."
 image: /capitulo_97.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Capitão Jonas Vilar, Valéria "Val" Cruz
+Personagens Presentes: Gabriel "Gabo" Moretti, Capitão Jonas Vilar, Valéria "Val" Cruz, morador
+Participação em relato: Aria
 Localização: "Baía Cinzenta — uma semana depois"
 ---
 
@@ -38,7 +39,7 @@ Ele chegou ao Memorial. A cratera ainda estava lá, com as portas de aço arranc
 
 — E na minha mão? — perguntou Val. Vilar demorou um segundo demais.
 
-— Ela disse que o tecido está morto. O nervo não volta.
+— Ela disse que o nervo foi danificado. Pelo exame, não espera recuperar o movimento.
 
 — Então eu tenho uma mão de reserva.
 

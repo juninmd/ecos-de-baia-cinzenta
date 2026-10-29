@@ -36,7 +36,7 @@ Gabo voou dois metros e meio e bateu de costas na parede de tijolo do beco, e o 
 
 Val atacou com uma barra de ferro. Ela acertou, aliás — acertou bem, na lateral do joelho, que era o alvo certo.
 
-O Santo empurrou ela com as costas da mão, sem virar o corpo, e ela voou para dentro da van e bateu a cabeça no rack e ficou lá. No impacto, o comunicador tático de bancada escorregou pelo estribo traseiro e caiu na poça a meio metro de Gabo, com o pendrive blindado da Aria ainda espetado na porta lateral.
+O Santo empurrou ela com as costas da mão, sem virar o corpo, e ela voou para dentro da van e bateu a cabeça no rack e ficou lá. No impacto, o comunicador preso ao pulso se soltou e caiu pela porta na poça a meio metro de Gabo, com o módulo blindado da Aria ainda conectado.
 
 Depois o executor foi até Gabo, que estava tentando se levantar apoiado numa lixeira, e pôs a bota no peito dele e empurrou para o chão.
 
@@ -97,9 +97,9 @@ Se a IA que ele encontrara na cabine telefônica tinha sido compilada sobre frag
 
 Aria era o código sem carne; ele era a carne transformada em código.
 
-Gabo conseguiu se apoiar num cotovelo e pegou a *Caronte*, que tinha caído a um metro dele. E não atirou.
+Gabo conseguiu se apoiar num cotovelo e pegou a *Caronte*, que tinha caído a um metro dele. Esperou o Santo voltar o peso para a perna que Val atingira.
 
-Ficou com a arma apontada para as costas do homem, com o dedo fora do gatilho, olhando aquele monstro tremer no meio de um beco.
+Ficou com a arma apontada para a lateral do joelho, tentando respirar sem mover o peito.
 
 ---
 
@@ -119,15 +119,15 @@ O punho entrou trinta centímetros. A parede desabou num pedaço de dois metros,
 
 Ele ficou com o braço enfiado no buraco, respirando alto, sem tirar.
 
-Depois virou a cabeça para Gabo. Depois para o brilho azul do pendrive no chão.
+Depois virou a cabeça para Gabo. Depois para o brilho azul do módulo no chão. A mão saiu da parede e começou a voltar na direção dele.
 
-— Corram — rosnou. E era a voz de baixo, a humana, e ela estava com pressa. — Corram antes que **ele** volte.
+— Sai da minha cabeça — rosnou, e era a voz de baixo, a humana. Gabo disparou na junta que Val acertara. O joelho cedeu; o Santo caiu contra os tijolos e tentou se apoiar para levantar. Gabo já puxava o módulo pelo cabo.
 
 ---
 
 Gabo não perguntou nada.
 
-Perguntar é um luxo, e ele estava com duas costelas quebradas e sem ar e com a órtese esquerda entortada. Ele recolheu o pendrive da Aria da lama, travou-o de volta no bolso tático, chamou Val até ela reagir. Apoiados nas laterais da van, os dois conseguiram alcançar as correias de transporte. Ele não conseguiria carregá-la nem subir nos braços; saíram um passo de cada vez, meio bêbada, sangrando da têmpora.
+Perguntar era um luxo. Com duas costelas quebradas e a órtese esquerda entortada, Gabo recolheu o módulo e chamou Val até ela reagir. Ela encontrou a barra caída e a enfiou entre a porta arrancada e a roda, fechando a passagem estreita. Apoiados na van, alcançaram as correias de transporte. Ele não conseguiria carregá-la; saíram um passo de cada vez, Val tonta e sangrando da têmpora.
 
 No bolso do sobretudo, o metal de titânio do drive ardia contra o peito dele — um bloco sem pulso biológico, mas mais vivo do que metade daquela cidade, e ele continuou segurando.
 
@@ -135,7 +135,7 @@ Os dois saíram pelo lado do beco, na direção do canal, guiados pelo vetor da 
 
 ---
 
-Atrás deles, o homem de máscara branca continuou de pé no escuro, com o braço enfiado numa parede, brigando sozinho.
+Atrás deles, o homem de máscara branca arrastava a perna atingida e batia contra a porta presa, tentando abrir caminho.
 
 Mas Gabo olhou para trás uma vez, de longe, e por isso viu a última coisa, e nunca contou a ninguém. O Santo tirou a máscara.
 

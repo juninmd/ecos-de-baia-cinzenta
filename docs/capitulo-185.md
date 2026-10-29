@@ -7,7 +7,9 @@ Personagens Presentes: Gabo, Valéria
 
 # Capítulo 185: O Verdor Metálico
 
-O elevador de carga parou com um solavanco brutal, acompanhado por um rangido que soou como a espinha dorsal de um guindaste enferrujado se partindo sob peso excessivo. As portas corrediças de aço reforçado se abriram com lentidão relutante, vomitando uma lufada de ar viciado que nos atingiu como um soco térmico.
+Atrás dos silos, encontramos o portão arrombado da têxtil que o piloto indicara. O mapa no núcleo apontava para a estufa; Val conferiu a placa do poço, testou a alimentação de reserva e acionou o elevador de carga.
+
+O elevador parou com um solavanco brutal, acompanhado por um rangido que soou como a espinha dorsal de um guindaste enferrujado se partindo sob peso excessivo. As portas corrediças de aço reforçado se abriram com lentidão relutante, vomitando uma lufada de ar viciado que nos atingiu como um soco térmico.
 
 Não era o ar seco e gelado da superfície do Distrito 4, nem o odor pungente de asfalto podre que deixáramos para trás. Era terra fértil empapada em adubo químico, decomposição vegetal acelerada e ozônio elétrico de alta voltagem. Um calor úmido, pegajoso, que grudou instantaneamente no couro do meu sobretudo e fez o suor frio escorrer pelas minhas têmporas.
 
@@ -39,13 +41,13 @@ A respiração dela travou na garganta.
 
 Suspensos pelas calhas superiores de irrigação, a quatro metros do piso, havia dezenas de corpos humanos. Não eram catadores mortos jogados no lixo; estavam dispostos em fileiras geométricas perfeitas, como frutos em um pomar macabro. Cada um deles tinha a coluna cervical perfurada por raízes espessas que desciam do teto, as cabeças caídas para a frente, as órbitas brilhando com minúsculos filamentos ópticos que piscavam num ritmo sincopado.
 
-— São... são técnicos da Aeterna — Valéria sussurrou, a voz tremendo com uma fúria contida. — Pessoas que trabalhavam na manutenção do complexo quando a usina colapsou. Silas Vance conectou o cérebro deles em paralelo nas placas controladoras. Eles são os transistores vivos dessa merda, Gabo. Estão processando os dados da rede enquanto a biomassa drena o que sobrou da glicose deles.
+— Alguns usam uniformes de manutenção da Aeterna — Valéria sussurrou. — As raízes chegam aos controladores, mas não sei o que estão fazendo com essas pessoas, nem quando foram presas aqui.
 
 — O mesmo horror que vimos na usina com os Drenados — cerrei o punho mecânico pesado, sentindo as engrenagens gemerem sob a pressão da hidráulica. O estalo seco do ferro ecoou nas vigas altas, reverberando na vastidão da estufa. — O Silas pode ter virado cinzas, mas o código que ele plantou continua colhendo gente.
 
 Valéria desligou a lanterna para não atrair a atenção dos nós bioelétricos. A luz ambiente das raízes desenhava o perfil anguloso do rosto dela, tenso, os dentes cravados no lábio inferior.
 
-— O pacote de dados daquela mulher morta no beco apontava direto pro núcleo de controle térmico — ela disse, apontando para uma estrutura cúbica de concreto blindado que se erguia no centro do segundo pavimento, quase completamente engolida por trepadeiras fosforescentes. — Se a gente alcançar a sala das caldeiras e cortar as válvulas de refluxo, o sistema de irrigação entra em colapso por dessecação em vinte minutos. Sem líquido nutriente, essa selva inteira murcha.
+— O pacote de dados daquela mulher morta no beco apontava direto pro núcleo de controle térmico — ela disse, apontando para uma estrutura cúbica de concreto blindado que se erguia no centro do segundo pavimento, quase completamente engolida por trepadeiras fosforescentes. — O esquema mostra válvulas de refluxo na sala das caldeiras. Elas podem interromper parte da irrigação, mas não sabemos quanto da colônia depende desse circuito.
 
 — E as pessoas penduradas nas calhas?
 

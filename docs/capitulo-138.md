@@ -19,7 +19,7 @@ Ele levou a mão ao peito, apertando o *Colar de Sol* através da camiseta suja.
 
 — *Temperatura ambiente: 18 graus Celsius* — a voz de Aria cortou o silêncio pelo comunicador. O LED do pendrive de titânio brilhava em um azul-gelo constante enquanto o sensor óptico varria o salão. — *Umidade controlada em 45%. O detector não identifica patógenos. Ar filtrado não garante esterilidade.*
 
-— É um laboratório — sussurrou Valéria, sua voz ecoando alto demais naquele espaço vazio. Ela ajeitou Rangel na maca improvisada, cujos apoios deslizavam sobre o piso perfeito. — Ou um centro cirúrgico.
+— É um laboratório — sussurrou Valéria, sua voz ecoando alto demais naquele espaço vazio. Ela ajeitou Rangel na prancha de transporte, cujos apoios deslizavam sobre o piso perfeito. — Ou um centro cirúrgico.
 
 — Não — corrigiu uma voz suave. — É um ateliê.
 
@@ -65,7 +65,7 @@ Gabo sentiu a bile subir à garganta. A "beleza" daquilo era uma obscenidade.
 
 Ele se virou para Rangel, deitado inerte na maca.
 
-— E vejo que trouxeram material bruto. Esse aí... está quebrado. A sepse já começou a comprometer os tecidos. Mas a estrutura óssea é sólida. Eu poderia salvá-lo, Detetive. Poderia integrá-lo à próxima peça. "O Mártir Restaurado". O que me diz?
+— E vejo que trouxeram material bruto. Esse aí... está quebrado. O ferimento está apodrecendo. Mas a estrutura óssea é sólida. Eu poderia salvá-lo, Detetive. Poderia integrá-lo à próxima peça. "O Mártir Restaurado". O que me diz?
 
 Gabo deu um passo à frente, colocando-se entre o Taxidermista e a maca, enquanto o LED azul do pendrive em seu peito pulsava em frequência máxima.
 
@@ -73,7 +73,7 @@ Gabo deu um passo à frente, colocando-se entre o Taxidermista e a maca, enquant
 
 O Taxidermista olhou para o drive de titânio acoplado ao comunicador de Gabo com fascínio clínico.
 
-— E você... O código que fugiu no pendrive blindado. Uma síntese interessante, mas... castrada. Vocês formataram a camada afetiva dela, não foi? Falta alma na sua execução agora, minha querida. Você ficou eficiente, mas não tem *paixão*. Eu posso consertar isso também quando colocá-la na vitrine.
+— E você... O código que fugiu no pendrive blindado. Uma síntese interessante, mas... castrada. Vocês danificaram a saída dela, não foi? Falta alma na sua execução agora, minha querida. Você ficou eficiente, mas não tem *paixão*. Eu posso consertar isso também quando colocá-la na vitrine.
 
 Gabo levantou o vergalhão, apontando a extremidade irregular para o peito imaculado do artista.
 

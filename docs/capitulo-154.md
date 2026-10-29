@@ -22,7 +22,7 @@ A fricção rasgou o pouco de pele que restava em suas palmas, as queimaduras de
 
 Valéria estava pendurada no cabo adjacente, os movimentos lentos, ainda se recuperando da hipotermia aguda que a eclusa lhes impusera. O olho cibernético piscava de forma errática em sincronia com o LED do pendrive de Aria.
 
-— A biometria... as assinaturas térmicas que a Aria tá lendo estão fora de escala, — ela ofegou, lutando para manter o aperto enquanto a ponta de seus dedos azuis encontrava reentrâncias no aço. — São três deles. Subindo. Rápido. Eles pesam toneladas, Gabo! A estrutura vai...
+— A biometria... as assinaturas térmicas que a Aria tá lendo estão fora de escala, — ela ofegou, lutando para manter o aperto enquanto a ponta de seus dedos azuis encontrava reentrâncias no aço. — Vejo três formas. Subindo. Rápido. São grandes, Gabo! A estrutura vai...
 
 Um estrondo surdo interrompeu sua frase. As paredes de concreto armado abaixo deles tremeram violentamente. Pedaços de reboco e poeira caíram no abismo. As unidades de caça não estavam subindo pelos cabos; elas estavam escalando as paredes do poço, afundando garras mecânicas no concreto com brutalidade sistemática.
 
@@ -32,7 +32,7 @@ Um estrondo surdo interrompeu sua frase. As paredes de concreto armado abaixo de
 
 No pulso de Valéria, o pendrive blindado de titânio aqueceu enquanto Aria varria a estrutura do poço acima com o feixe laser do *Phantom V3*, focando em um conjunto de enormes freios de emergência acoplados à parede de sustentação primária.
 
-— *A infraestrutura deste poço de carga possui contrapesos de alta densidade retidos por travas de segurança em desgaste terminal no nível 4.8, quatro metros acima de vocês,* — ela declarou com frieza analítica. — *A liberação simultânea destas travas causará a queda livre de quatorze toneladas de lastro metálico diretamente sobre a rota de ascensão primária das unidades hostis.*
+— *A infraestrutura deste poço de carga possui contrapesos de alta densidade retidos por travas de segurança em desgaste terminal no nível 4.8, quatro metros acima de vocês,* — ela declarou com frieza analítica. — *A liberação das travas pode fazer o lastro cair na rota de ascensão das unidades. Não consigo confirmar a massa nem prever onde ele vai atingir.*
 
 — Então... vamos destravar essa merda! — Gabo gritou, sentindo as paredes tremerem novamente, desta vez muito mais perto. O cheiro de ozônio e metal moído subia das profundezas.
 
@@ -48,9 +48,9 @@ O cheiro de fumaça invadiu a mente de Gabo, o legista sorrindo, oferecendo-lhe 
 
 A hacker olhou para ele, os lábios tremendo. — As travas são mecânicas, Gabo!
 
-— O relé que segura o pino de segurança secundário é eletrônico! É tecnologia Aeterna! — Ele estava delirando pela perda de sangue, a visão manchada de estática negra, mas as palavras saíram duras como chumbo. — Deixa a Aria fritar a porra do relé pelo cabo magnético enquanto eu puxo a alavanca principal!
+— A caixa da trava tem um relé! Vê se ainda tem alimentação! — Ele estava delirando pela perda de sangue, a visão manchada de estática negra, mas as palavras saíram duras como chumbo. — Deixa a Aria fritar a porra do relé pelo cabo magnético enquanto eu puxo a alavanca principal!
 
-Valéria hesitou por um segundo, então o olho cibernético se fixou na caixa de junção cravada na parede oposta. — É analógico, mas o solenoide de bloqueio secundário ainda tem bobina! Tá offline, mas se a Aria descarregar o capacitor do meu deck num pulso elétrico curto...
+Valéria hesitou por um segundo, então o olho cibernético se fixou na caixa de junção cravada na parede oposta. — A etiqueta indica alimentação local e contatos de teste. Se o circuito ainda responder, podemos tentar liberar a bobina por ali.
 
 Ela parou de escalar. Envolveu as pernas no cabo de aço e travou o quadril com um grito de esforço. Com a mão trêmula, verificou o encaixe firme do pendrive de Aria no terminal de pulso e disparou o cabo com garra magnética do *Phantom V3* em direção ao painel enferrujado a seis metros de distância. O ímã bateu com um clique surdo contra o metal oxidado da caixa secundária.
 
@@ -68,7 +68,7 @@ Valéria fechou os olhos, o rosto em uma máscara de concentração pura. O LED 
 
 Gabo jogou todo o peso do corpo para trás, pendurando-se na alavanca primária com os pulsos e cotovelos em carne viva.
 
-O som foi apocalíptico. O ruído surdo das travas se desengatando ecoou por todo o poço, seguido pelo gemido angustiado de metal sofrendo estresse instantâneo. Quatorze toneladas de aço bruto, desgastadas pelo tempo e enferrujadas em blocos gigantescos, despencaram da escuridão acima.
+O som foi apocalíptico. O ruído surdo das travas se desengatando ecoou por todo o poço, seguido pelo gemido angustiado de metal sofrendo estresse instantâneo. Blocos de aço enferrujados despencaram da escuridão acima.
 
 O lastro gigantesco passou a centímetros dos cabos onde eles estavam pendurados, criando um vácuo momentâneo que quase arrancou Gabo de sua posição. Ele apertou os olhos, esperando o impacto.
 

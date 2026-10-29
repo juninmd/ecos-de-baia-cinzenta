@@ -2,7 +2,7 @@
 title: "Capítulo 123: Protocolo de Sombra"
 Data In-Game: "23 de Novembro, 04:30"
 Localização: "Distrito 4 (Zona Comercial Abandonada / Clínica de Vasco)"
-Personagens Presentes: "Gabo Moretti, Vasco (Novo - Traficante de Implantes), Saqueadores (Antagonistas)."
+Personagens Presentes: "Gabo Moretti, Vasco (Traficante de Implantes), Saqueadores (Antagonistas)."
 ---
 
 # Capítulo 123: Protocolo de Sombra
@@ -15,7 +15,7 @@ O cheiro o enjoou. Cinzas sintéticas. Lembrava o fumo barato que seu pai costum
 
 O Distrito 4 estava morto. Sem a "Voz" de Dante para coordenar a rede elétrica, os prédios eram monólitos negros recortados contra um céu cor de hematoma. A única iluminação vinha de fogueiras em latões de lixo e dos ocasionais faróis de veículos blindados patrulhando à distância.
 
-Gabo ajustou o sobretudo, sentindo a umidade penetrar nas bandagens improvisadas sob a roupa. Ele tateou o bolso interno atrás do maço que nunca existira. Vazio. A ansiedade era uma coceira elétrica sob a pele, exigindo movimento, exigindo violência. Ele apertou o *Colar de Sol* até o metal morder a pele da palma. A dor física era sua única âncora contra o caos mental. O colar queimava frio contra sua mão, lembrando-o de quem ele era. Não o filho do comissário corrupto. Mas algo mais duro.
+Gabo ajustou o sobretudo, sentindo a umidade penetrar nas bandagens improvisadas sob a roupa. A ansiedade era uma coceira elétrica sob a pele, exigindo movimento, exigindo violência. Ele apertou o *Colar de Sol* até o metal morder a pele da palma. A dor física era sua única âncora contra o caos mental. O colar queimava frio contra sua mão, lembrando-o de quem ele era. Não o filho do comissário corrupto. Mas algo mais duro.
 
 Missão. Rangel. Aria. Sobreviver.
 Ele se moveu pelas sombras, evitando as avenidas principais. O caos já havia se instalado. Vitrines estilhaçadas vomitavam manequins e eletrodomésticos na calçada. Corpos — alguns recentes, vítimas do pânico inicial — jaziam ignorados nas sarjetas.
@@ -64,11 +64,11 @@ O homem largou a serra e cruzou os braços mecânicos.
 
 — A moeda mudou. Informação. O que aconteceu na Usina? Por que as luzes apagaram? Meus clientes estão nervosos. Dizem que a "Voz" calou.
 
-— A Usina caiu — Gabo mentiu, omitindo os detalhes sobre Dante. — Sobrecarga. Vai demorar semanas para voltar. Quem tiver geradores e remédios vai ser rei.
+— A Usina caiu — Gabo disse, omitindo os detalhes sobre Dante. — Sobrecarga. Não sei quanto tempo vai levar para voltar. Quem tiver geradores e remédios vai cobrar o que quiser.
 
 Vasco ponderou, os olhos biônicos zumbindo.
 
-Vasco levou a mensagem ao rádio de serviço da clínica, por uma frequência diferente da usada na usina. O posto respondeu: a mulher do porto chegara, Nise recebera o endereço e saíra com uma equipe de transporte. Gabo pediu que repetissem a localização antes de acreditar.
+Gabo pediu uma linha para o posto da rua e deu a Vasco os dados de Rangel. Vasco levou a mensagem ao rádio de serviço da clínica, por uma frequência diferente da usada na usina. O posto respondeu: a mulher do porto chegara, Nise recebera o endereço e saíra com uma equipe de transporte. Gabo pediu que repetissem a localização antes de acreditar.
 
 — Certo. Leve os kits lacrados da prateleira três. Mas me deve uma. Se a segurança da Aeterna vier bater aqui, eu digo que você me roubou.
 
@@ -110,4 +110,4 @@ Gabo pegou a mochila do chão. Ele olhou para os homens. Eram apenas desesperado
 
 Gabo saiu para a chuva, o peso da mochila em um ombro e o peso da cidade no outro. Ele tinha os remédios. Tinha as peças. Agora, só precisava voltar para o buraco onde sua "família" quebrada o esperava, antes que a própria noite decidisse engoli-lo.
 
-Lá fora, o ar estava limpo de fumaça por um momento. Ele respirou fundo, sentindo a chuva fria lavar o gosto amargo da memória de seu pai. O colar em sua mão já não doia tanto.
+Lá fora, o ar estava limpo de fumaça por um momento. Ele respirou fundo, sentindo a chuva fria lavar o gosto amargo da memória de seu pai. O colar em sua mão já não doía tanto.

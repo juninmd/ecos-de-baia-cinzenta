@@ -66,7 +66,7 @@ Ele sentou. Ela virou a tela. Um mapa da cidade, em traço fino, com três ponto
 
 — A ordem.
 
-— As três não abriram juntas. — O dedo dela seguiu a linha na tela. — Abriu a de Leste. Quarenta e um minutos depois, a Central. Vinte e dois minutos depois, a de Oeste. Eu passei a madrugada achando que era falha em cascata, que uma puxou a outra. Não é. Eu rodei a topografia. — Ela parou. — O levantamento é da própria prefeitura, de quarenta e um, e a vazão eu tirei do marégrafo do Cais Dois, não de notícia de rádio. É modelo, não é laudo. Com os parâmetros disponíveis, essa sequência explica o percurso. Ainda preciso conferir os horários com outro registro e testar as margens. Nessa simulação, com essa ordem, a coluna d'água entra pelo subsolo do complexo da Aeterna, sobe pelos tanques de decantação, e sai pelo lado norte. As outras sequências que testei mudam o escoamento. Isso sustenta investigar uma operação dirigida; não identifica quem operou nem exclui todas as falhas.
+— As três não abriram juntas. — O dedo dela seguiu a linha na tela. — Abriu a de Leste. Quarenta e um minutos depois, a Central. Vinte e dois minutos depois, a de Oeste. Eu passei a madrugada considerando uma falha em cascata, que uma puxou a outra. Rodei a topografia, mas o modelo não descarta essa possibilidade. — Ela parou. — O levantamento é da própria prefeitura, de quarenta e um, e a vazão eu tirei do marégrafo do Cais Dois, não de notícia de rádio. É modelo, não é laudo. Com os parâmetros disponíveis, essa sequência explica o percurso. Ainda preciso conferir os horários com outro registro e testar as margens. Nessa simulação, com essa ordem, a coluna d'água entra pelo subsolo do complexo da Aeterna, sobe pelos tanques de decantação, e sai pelo lado norte. As outras sequências que testei mudam o escoamento. Isso sustenta investigar uma operação dirigida; não identifica quem operou nem exclui todas as falhas.
 
 Gabo demorou a entender, e quando entendeu foi como pisar num degrau que não existia.
 
@@ -98,7 +98,7 @@ Elena não chorou. Ela soltou a mão da criança, se levantou, dobrou o casaco a
 
 Não foi um pedido, e não foi para ele. A Dra. Nise cobriu o rosto da menina e ficou um tempo com a mão no lugar, do jeito dela.
 
-— Detetive. — Ela falou baixo, para não acordar as outras quatro. — Antes que o senhor saia achando que vai voltar com a cura no colo: mesmo que o senhor traga tudo o que eu pedi, e traga rápido, não posso garantir que os quatro sobrevivam ou sem sequelas. Isso queima rim. Rim queimado não cicatriza, não regenera e não se conserta com carvão ativado. Há sinais de lesão renal grave. Pode ser necessário suporte que esta cidade está perdendo; ainda não sei quem conseguirá se recuperar.
+— Detetive. — Ela falou baixo, para não acordar as outras quatro. — Antes que o senhor saia achando que vai voltar com a cura no colo: mesmo que o senhor traga tudo o que eu pedi, e traga rápido, não posso garantir que os quatro sobrevivam ou sem sequelas. Há sinais de lesão renal grave. Algumas lesões podem deixar dano permanente; carvão ativado não repara um rim lesionado. Pode ser necessário suporte que esta cidade está perdendo; ainda não sei quem conseguirá se recuperar.
 
 — A senhora está me dizendo para não ir?
 

@@ -3,7 +3,7 @@ layout: doc
 title: "Capítulo 81: Sangue e Óleo"
 description: "Vilar sofre esmagamento e queimadura no braço esquerdo durante o resgate. A retirada e a descontaminação não apagam a lesão que levará à amputação."
 image: /capitulo_81.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Capitão Jonas Vilar, Dra. Nise
+Personagens Presentes: Gabriel "Gabo" Moretti, Capitão Jonas Vilar, Dra. Nise, técnico Barros
 Localização: "Corredor de acesso, subsolo da Torre Aeterna — 18h05"
 ---
 
@@ -71,7 +71,7 @@ Barros iniciou o ciclo de descontaminação. Só depois da lavagem e da retirada
 
 — Eu estou com sessenta e cinco anos e acabei de rastejar por baixo de uma porta. — Ela tossiu de novo. — Eu vou ficar bem daqui a uns quatro dias.
 
-Vilar sentou no chão ao lado deles, apoiado na parede, segurando o braço esquerdo com a mão direita. A manga estava rasgada, havia queimadura e o punho começava a inchar. Ele olhou aquilo por um tempo e não comentou.
+Vilar sentou no chão ao lado deles, apoiado na parede, segurando o braço esquerdo com a mão direita. A manga estava rasgada, havia queimadura e o punho começava a inchar. Nise pediu que Barros chamasse transporte para avaliação urgente; o esmagamento podia ter danificado mais do que a pele mostrava.
 
 ---
 
@@ -107,21 +107,21 @@ Gabo se inclinou. Dentro do frasco, os filamentos não estavam distribuídos ao 
 
 — Isso é intervalo — disse Gabo.
 
-— Isso é **codificação**. — Nise falava rápido agora, do jeito dela quando o cansaço vira combustível. — Comprimento variável, separador fixo. É a mesma estrutura de um código genético, e é a mesma estrutura de um protocolo binário, e é por isso que eu passei o dia com a sensação de estar olhando para uma coisa que eu já conhecia.
+— Pode ser um padrão — disse Nise. — Comprimentos diferentes e intervalos que parecem repetidos. Precisamos medir várias sequências para saber se carregam informação ou se são só crescimento.
 
 — O que isso significa? — perguntou Vilar.
 
 Nise olhou para o frasco como quem olha para um recém-nascido de mãe desconhecida.
 
-— Significa que a Aeterna não estava só fabricando inteligência em silício. — Ela falou baixo. — Eles estavam tentando construir hardware que se conserta sozinho. Um substrato que cresce, se repara e se replica.
+— Pode ser um substrato capaz de crescer sobre eletrônica. Ainda não sei se a Aeterna o construiu, se ele se repara ou se a semelhança é acaso.
 
 — Uma máquina de carne — disse Gabo.
 
-— Uma máquina de carne.
+— Uma hipótese — disse Nise. — A amostra vai para exame, não para dentro de outro servidor.
 
-— E conseguiram.
+— E se ela se espalhou?
 
-— Ah, conseguiram. — Barros fechou o frasco na cápsula secundária, descontaminou o exterior e colocou tudo na caixa rígida de transporte. A amostra ficaria isolada, com registro de quem a tocasse. — Só que ninguém combinou com ela o que ela ia querer fazer depois.
+— Precisamos descobrir. — Barros fechou o frasco na cápsula secundária, descontaminou o exterior e colocou tudo na caixa rígida de transporte. A amostra ficaria isolada, com registro de quem a tocasse.
 
 ---
 
@@ -133,7 +133,7 @@ Foi uma dor curta e funda, do tipo que ele já conhecia e classificava como fant
 
 — O fogo matou aquela coisa — disse Vilar.
 
-— O fogo matou o **mensageiro**, Capitão. — Gabo olhou para a porta selada, e o metal ainda estalava do calor. — A mensagem já foi entregue oito semanas atrás, pela água de refrigeração, para outros prédios ligados ao mesmo circuito de refrigeração. Precisamos descobrir quais, antes de chamar a rede inteira de contaminada.
+— Pode haver mais disso em outros prédios — disse Gabo, olhando para a porta selada. — Se passou pela água de refrigeração, precisamos descobrir quais circuitos se ligavam a este e colher amostras.
 
 Vilar ficou branco.
 

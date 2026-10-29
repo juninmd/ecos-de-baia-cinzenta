@@ -1,6 +1,7 @@
 ---
 image: /raizes-amargas.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Roberto Miranda, Elena Moretti, Dra. Elara Vance, Silas Vance ("O Jardineiro")
+Personagens Presentes: Gabriel "Gabo" Moretti, Roberto Miranda, Elena Moretti e protótipos
+Participação em registros e referência: Dra. Elara Vance, Silas Vance, Dante Moretti
 Localização: 'Zona de Exclusão Sul - Sala de Controle do "Berçário"'
 ---
 # Capítulo 102: Raízes Amargas
@@ -64,7 +65,7 @@ Elena correu para os terminais laterais, seus dedos voando sobre o teclado mecâ
 
 — Gabo! Segura ele!
 
-— Estou tentando! — Gabo largou o revólver vazio e pegou um sinalizador da bolsa de Elena. O lançador Leviatã ficara na Torre; o que tinha ali era uma chance de atingir a manutenção acima da cadeira.
+— Estou tentando! — Gabo largou o revólver vazio e pegou um sinalizador da bolsa de Elena. Ela pôs o pé de cabra ao alcance dele antes de voltar ao terminal. O painel de manutenção acima da cadeira oferecia outra chance.
 
 Ele apontou para o painel de manutenção acima de Roberto. Os tubos de alimentação passavam atrás dele.
 
@@ -92,7 +93,7 @@ Gabo urrou, travando a órtese direita contra a base da bancada. Elena empurrou 
 
 — Saída de emergência! Atrás dos servidores! — apontou Elena.
 
-Gabo agarrou o braço dela e eles correram. Atrás deles, Roberto, ainda limpando o ácido dos olhos biônicos, gritava ordens para o sistema.
+Gabo agarrou o braço dela e avançou apoiado na bancada. Atrás deles, Roberto, ainda limpando o fluido dos olhos biônicos, gritava ordens para o sistema.
 
 — *Fechem as comportas! Inundem o setor! Não deixem a semente escapar!*
 
@@ -114,9 +115,9 @@ Mas um nome no final da lista fez o sangue de Gabo gelar.
 
 ID: 001 - STATUS: PRIORIDADE MÁXIMA - AGUARDANDO HOSPEDEIRO VIÁVEL
 NOME: DANTE MORETTI
-Gabo amassou o papel, sentindo uma náusea súbita.
+Gabo dobrou o papel sem tocar na impressão, sentindo uma náusea súbita.
 
-— Eles querem meu pai — sussurrou ele. — O Cubo... a "Coroa"... é a chave para baixá-lo.
+— Querem um hospedeiro para o perfil do meu pai — sussurrou ele. — O cubo pode ser a chave. Não sabemos quem preparou isso.
 
 — Roberto disse que eles querem trazer os deuses de volta — disse Elena, sua voz dura. — Seu pai não era um deus, Gabo. Mas ele sabia onde todos os corpos estavam enterrados. Literalmente.
 

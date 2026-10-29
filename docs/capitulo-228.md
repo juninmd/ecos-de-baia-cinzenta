@@ -7,7 +7,7 @@ Personagens Presentes: Gabo, Valéria, Elias, Dra. Elara Vance, Elena
 
 # Capítulo 228: O Grupo de Controle
 
-A primeira tiragem começou às quatro e dez. A capa trazia uma rubrica firme e o número quarenta e sete mil trezentos e onze; só. Papel barato, tinta que manchava o polegar. A rotativa batia contra minhas costas enquanto eu esperava sentado entre caixas. Elias voltou do arquivo com o índice de retenções aberto.
+A primeira tiragem começou às quatro e dez. A capa trazia uma rubrica firme e o número quarenta e sete mil trezentos e onze, com a ressalva: admissões apontadas pelo índice; trezentos originais examinados, rubricas ainda não autenticadas. Papel barato, tinta que manchava o polegar. A rotativa batia contra minhas costas enquanto eu esperava sentado entre caixas. Elias voltou do arquivo com o índice de retenções aberto.
 
 — Gabo. — Ele estava branco. — Essa aqui não é de admissão.
 
@@ -82,7 +82,7 @@ Não consegui abrir esse de primeira. Elena veio, sentou no chão do meu lado, p
 Sobrou a minha. Peguei a pasta **MORETTI, G.** e ela tinha o peso de um tijolo. Vinte e um anos de acompanhamento. Fotos — eu de uniforme, eu na formatura, eu saindo do hospital depois da Torre do Relógio, eu carregando o corpo da Bia. Relatórios de conduta. Transcrições da Dra. Weiss, que eu julgava privadas. O carimbo de acesso corporativo provava que a Aeterna incorporara o material à vigilância; não mostrava quem o transcrevera ou consultara, nem se Weiss consentira ou sequer soubera. E, na capa interna, o carimbo de status. Não era **ADMITIDO**, como nas quarenta e sete mil fichas lá fora. Não era **COLETADO**. Era:
 
 EM CAMPO — NÃO COLETAR — GRUPO DE CONTROLE
-E abaixo, a rubrica. A mesma de sempre. Renovada a cada exercício, vinte e uma vezes, vinte e uma linhas, vinte e um anos de um homem sentando numa cadeira uma vez por ano para reconfirmar, de próprio punho, que eu devia continuar solto.
+E abaixo, a rubrica. A mesma de sempre. Renovada a cada exercício, vinte e uma vezes, vinte e uma linhas: vinte e um anos de um homem autorizando que eu não fosse coletado. A folha não dizia quem tentara me prender nem quem falhara.
 
 V. KRELL. V. KRELL. V. KRELL
 
@@ -108,19 +108,19 @@ Eu não gritei. Queria ter gritado.
 
 — **Diz o resto.**
 
-— O resto o senhor já sabe. — Eu sabia: o Taxidermista subiu a corda sem me matar; Miranda recebeu ordem para me quebrar; o Gamemaster, com armas para acabar comigo, preferiu um duelo. Isadora já dissera pela boca do meu irmão: *ele não quer te matar, quer te possuir.* O protocolo podia explicar a retenção e parte das falhas, não cada fuga nem o que os outros escolheram. Quase morri quando ele falhou.
+— O resto o senhor já sabe. — Lembrei do vapor na Capela, da tubulação que eu atingira para tirar Miranda da linha de tiro. Kael continuou atirando. Um papel mandando me preservar não tinha aberto aquela passagem. Isadora já dissera pela boca do meu irmão: *ele não quer te matar, quer te possuir.* Querer não era o mesmo que controlar o que aconteceu.
 
 — Val, — falei. — Confirma. Valéria estava parada há um tempo, imóvel, com o prateado dos olhos fixo na pasta.
 
-— Cruzando os relatórios de incidente do arquivo com sua ficha de campo, — ela disse. — Trinta e uma ocasiões em que a força aplicada contra você foi descrita pelo relatório como inferior à força que o autor afirmava disponível no local. Vinte e sete delas com anotação de autorização prévia.
+— Cruzei os relatórios de incidente com sua ficha — ela disse. — Há referências ao protocolo, mas não encontrei ordens operacionais para cada confronto. Quero os registros de origem antes de publicar qualquer ligação.
 
-— Autorização de quem?
+— Então ele sabia?
 
-— Da mesma rubrica. Eu ri. Saiu quebrado.
+— Não sei se ele leu esses relatórios. A rubrica prova a renovação, não a leitura. Eu ri. Saiu quebrado.
 
-— Ele me manteve vivo.
+— Ele queria me manter vivo.
 
-— Ele te manteve **medível**, — corrigiu a Vance. — Não é a mesma coisa. A rubrica mostra que ele renovou o protocolo por vinte e um anos; não revela o que sente por você. Talvez hesite em perder esse controle. Não conte com isso como proteção.
+— Queria uma referência **medível**, — corrigiu a Vance. — A rubrica mostra que renovou o protocolo por vinte e um anos; não revela o que sente por você. Talvez hesite em perder essa referência. Não conte com isso como proteção.
 
 ---
 
@@ -130,7 +130,7 @@ A rotativa batia. Ninguém pediu que eu respondesse.
 
 — Como?
 
-— Ele tem um problema, — repeti, e me levantei, com o joelho e a perna e o ombro e o braço reclamando todos ao mesmo tempo. — A vida inteira ele me deixou vivo porque eu era mais útil solto. Isso funciona enquanto solto significa *inofensivo*. Apontei com a mão que me sobrou para a porta do galpão, para o barulho, para as pilhas.
+— Ele tem um problema, — repeti, e me levantei, com o joelho e a perna e o ombro e o braço reclamando todos ao mesmo tempo. — Ele me queria vivo para medir. Agora vai ter que escolher o que fazer comigo. Apontei com a mão que me sobrou para a porta do galpão, para o barulho, para as pilhas.
 
 — Doze mil cópias saíram hoje. Amanhã saem mais doze. Na sexta são cinquenta mil, em onze assentamentos, com o nome dele na capa e o número embaixo. Fechei a pasta.
 

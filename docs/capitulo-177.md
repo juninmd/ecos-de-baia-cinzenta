@@ -45,17 +45,17 @@ Eu não tentei desviar. Com o peso assimétrico que me puxava para a direita, eu
 
 Em vez disso, afundei a bota esquerda na sarjeta para firmar o ponto de apoio e liberei a trava manual do atuador hidráulico. O zumbido hidráulico no meu ombro explodiu em um silvo ensurdecedor de vapor superaquecido.
 
-O vergalhão atingiu o antebraço da armação de ferro. O impacto produziu um estampido estridente de metal contra metal, mas o aço industrial das docas nem sequer arranhou. A barra de ferro entortou na mão do homem.
+O vergalhão atingiu o antebraço da armação de ferro. O impacto produziu um estampido estridente de metal contra metal, mas a armação recebeu o golpe e me torceu no arnês. A ponta do vergalhão raspou a proteção e desviou para a lateral.
 
 Antes que ele pudesse puxar a arma de volta, desferi o golpe. Não foi um soco técnico de boxeador da corporação; foi o arremesso estúpido e maciço de um martelo mecânico de vinte quilos empurrado por um pistão sob pressão máxima.
 
 O batente de liga espessa da armação colidiu com a caixa torácica dele; minha mão biológica continuava presa na tala.
 
-O som do esterno e das costelas se estilhaçando sob o concreto foi audível até mesmo por cima da tempestade. O homem nem chegou a gritar; o ar e o sangue foram expulsos dos pulmões dele instantaneamente enquanto seu corpo era projetado cinco metros para trás, colidindo violentamente contra a lateral do caminhão frigorífico antes de deslizar, inerte, para dentro de uma poça de óleo.
+O homem caiu contra a lateral do caminhão e escorregou para a poça, tentando respirar. A batida arrancou um grito dele; eu continuei avançando até Val me chamar.
 
 A onda de recuo atravessou o arnês e me dobrou sobre o ombro ferido. A tala não deixava a mão fechar; apertei com a esquerda o comando de retorno da pinça externa. Ela recolheu com um estalo atrasado. A faixa impermeável escurecera junto ao fixador. Nem o metal inteiro significava que o osso tivesse ficado no lugar.
 
-Os outros quatro saqueadores pararam no meio do salto. O terror paralisou cada um deles. Olharam para o líder deles afundado na lama sem respirar, olharam para o vapor branco que sibilava da junta do meu braço de ferro, e depois para o cano curto de *Caronte* que eu saquei com a mão esquerda por baixo do casaco.
+Os outros quatro saqueadores pararam no meio do salto. O terror paralisou cada um deles. Olharam para o líder deles caído na lama, arquejando, olharam para o vapor branco que sibilava da junta do meu braço de ferro, e depois para o cano curto de *Caronte* que eu saquei com a mão esquerda por baixo do casaco.
 
 — Mais alguém quer avaliar o peso da sucata? — minha voz soou rouca, áspera como lixa em ferrugem.
 

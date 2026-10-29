@@ -8,7 +8,7 @@ Localização: "Hospital Central de Baía Cinzenta - 02:45 AM"
 Hospital Central de Baía Cinzenta - 02:45 AM
 O cheiro de antisséptico era a única coisa que não havia mudado na cidade. Governos caíram, o sol voltou, deuses digitais ascenderam e morreram, mas o Hospital Central ainda cheirava a pinho falso e morte esterilizada.
 
-Gabo odiava hospitais. Eles o lembravam de muitas coisas: da sua coluna quebrada, da primeira vez que viu Dante numa maca, e de quantas vezes Val precisou improvisar compressão e procurar ajuda em becos porque eles não podiam pagar por um médico de verdade.
+Gabo odiava hospitais. Eles o lembravam de muitas coisas: da sua coluna quebrada, de Dante preso no tanque da Torre, e de quantas vezes Val precisou improvisar compressão e procurar ajuda em becos porque eles não podiam pagar por um médico de verdade.
 
 O corredor tinha piso encerado até devolver o reflexo das lâmpadas, e o som das botas de Gabo ia na frente dele, avisando o andar inteiro que um homem quebrado estava chegando. O joelho esquerdo reclamava a cada três passos. Ele passou a contar os passos, para não contar as portas.
 
@@ -28,7 +28,7 @@ Ela os guiou até uma sala de observação. Através do vidro, podiam ver a UTI.
 
 — Aria? — perguntou Val.
 
-— Cega — respondeu Nise. — Segundo os registros do sistema, eles simplesmente... desligaram. A triagem inicial não apontou a causa; isso não exclui substâncias fora do painel nem falhas que os registros não captaram. Aria registrou como "morte natural".
+— Cega — respondeu Nise. — Segundo os registros do sistema, eles simplesmente... desligaram. A triagem inicial não apontou a causa; isso não exclui substâncias fora do painel nem falhas que os registros não captaram. A triagem da Entidade registrou como "morte natural".
 
 — Quatro mortes naturais na mesma noite, no mesmo setor? — Gabo balançou a cabeça. — Motivo para investigar, sem concluir a causa só pelo número.
 
@@ -40,7 +40,7 @@ Ela os guiou até uma sala de observação. Através do vidro, podiam ver a UTI.
 
 — Não é você que assina, Gabriel.
 
-— Eu sei. É por isso que estou pedindo. — Gabo apontou o queixo para o vidro da UTI. — Se você escrever "suspeita" nesse sistema, quem lê primeiro é a Aria. E a Aria está com o pai dentro. Eu não sei o que ele faz com o que ela lê.
+— Eu sei. É por isso que estou pedindo. — Gabo apontou o queixo para o vidro da UTI. — Se você escrever "suspeita" nesse sistema, o serviço da Entidade recebe primeiro. Eu não sei quem mais pode ler ou alterar o que entra lá.
 
 — E se eu não escrever?
 
@@ -62,11 +62,11 @@ Val conectou-se ao terminal da sala. Usou o teclado e o cabo de serviço; a vis�
 
 — Ninguém é tão santo assim — resmungou Gabo.
 
-— Tem mais — continuou Val. — Há uma lacuna nos logs das câmeras de segurança. Frações de segundo. Loops de imagem imperceptíveis para um humano, mas Aria deveria ter pego.
+— Tem mais — continuou Val. — Há uma lacuna nos logs das câmeras de segurança. Frações de segundo. Loops de imagem imperceptíveis para um humano, mas o monitoramento da Entidade deveria ter sinalizado.
 
 — Alguém está editando a realidade em tempo real? — perguntou Nise, horrorizada.
 
-— Não — disse Gabo, olhando para o corredor onde um técnico de enfermagem empurrava um carrinho de medicamentos. O homem tinha um sorriso sereno, quase beatífico. — Eles não estão editando o digital. Eles estão agindo fora dele.
+— Ainda não sabemos — disse Gabo, olhando para o corredor onde um técnico de enfermagem empurrava um carrinho de medicamentos. — Conserva os registros. Também quero saber quem teve acesso físico aos quartos.
 
 Gabo saiu da sala, seguido por Val. Eles mantiveram distância, observando o técnico. Ele parou na porta do quarto 304. Olhou para os lados, verificou o relógio digital na parede, e entrou.
 
@@ -106,9 +106,9 @@ O técnico caiu de joelhos, segurando o ombro sangrando. Mas ele ainda sorria.
 
 O homem começou a convulsionar. Espuma branca saiu de sua boca.
 
-— Ele tomou algo! — gritou Nise, entrando no quarto com um kit de emergência.
+— Chamem a equipe! — gritou Nise, entrando no quarto com um kit de emergência. — Não sabemos o que causou isso.
 
-Mas era tarde. O corpo do técnico ficou rígido e depois relaxou, morto.
+Ela pediu o carrinho de reanimação e iniciou o atendimento com a equipe. As tentativas falharam. O corpo do técnico ficou rígido e depois relaxou; a causa da morte ainda precisaria de exame.
 
 Gabo soltou o cadáver, limpando a espuma da mão na roupa do morto.
 

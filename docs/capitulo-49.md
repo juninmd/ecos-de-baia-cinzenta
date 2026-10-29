@@ -16,7 +16,7 @@ Dentro do bunker havia dois sons e mais nada: o bipe do monitor cardíaco, teimo
 
 Gabo estava na mesa, coberto até o peito por um lençol que já não era branco. Dezoito fraturas.
 
-Nise começara o turno às quinze horas do dia nove. Preparara o instrumental, estabilizara Gabo e passara à cirurgia; àquela madrugada, completava doze horas entre preparação, pausas para manter o corpo estável e intervenção. A lista a lápis na parede contava o que conseguira remontar: pélvis em quatro pedaços, os dois fêmures. Três vértebras lombares ela não remontou, porque não se remonta: se imobiliza e se reza.
+Nise começara o turno às quinze horas do dia nove. A equipe preparara o instrumental, estabilizara Gabo e operara para conter o sangramento; àquela madrugada, completava doze horas entre preparação, pausas para manter o corpo estável e intervenção. A lista a lápis na parede contava o que conseguira remontar: pélvis em quatro pedaços, os dois fêmures. Três vértebras lombares ela não remontou, que a equipe imobilizara sem poder reconstruí-las naquela noite.
 
 Val estava sentada no chão, de costas para a mesa, com a submetralhadora Vetor atravessada no colo. De costas de propósito.
 
@@ -48,7 +48,7 @@ Nise parou de esfregar a luva.
 
 — Interrompido.
 
-— Ele deixou o material vivo na cena. — Val finalmente olhou para a médica. — Doutora, ele **volta**. E não vem sozinho, porque agora o Gabo está aqui parado, sedado, num endereço que meia cidade sabe. É o dia mais barato de todos para o Sindicato pagar uma conta velha.
+— Ele tentou afogá-lo e alguém levou as amostras do pai dele. — Val finalmente olhou para a médica. — Não sei se o Taxidermista volta, mas precisamos nos preparar. Se vier acompanhado, o Gabo está aqui parado, sedado, num endereço que meia cidade sabe. É o dia mais barato de todos para o Sindicato pagar uma conta velha.
 
 ---
 
@@ -112,7 +112,7 @@ Ela se agachou, com dificuldade, ao lado do menino, e virou o rosto dele para ci
 
 — O quê?
 
-— Documento, tatuagem, cicatriz, remendo de roupa. Qualquer coisa. — Nise já estava vasculhando o bolso do primeiro homem, com um cuidado que parecia rude e não era. — Eles vão para a vala com os outros, não tem o que fazer, mas vão com um papel amarrado no pulso. Nome, ou sinal, ou "menino de dezessete anos, tatuagem de estrela no pescoço, morreu no dia nove no corredor leste".
+— Documento, tatuagem, cicatriz, remendo de roupa. Qualquer coisa. — Nise já estava vasculhando o bolso do primeiro homem, com um cuidado que parecia rude e não era. — Eles vão para a vala com os outros, não tem o que fazer, mas vão com um papel amarrado no pulso. Nome, ou sinal, ou "menino de dezessete anos, tatuagem de estrela no pescoço, morreu no dia dez no corredor leste".
 
 — Doutora, eu acabei de matar esse menino.
 

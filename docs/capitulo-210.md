@@ -17,9 +17,9 @@ Elias já havia sido içado até a plataforma elevada de serviço; o garoto jazi
 
 — É puro aço forjado de desmanche, Val, — rosnei de volta, tentando encontrar apoio para o calcanhar da bota boa em uma saliência da parede de concreto. — E eu não tô vendo você reclamar da minha musculatura quando preciso arrombar uma porta blindada!
 
-— Eu reclamo de tudo em você, detetive, principalmente da teimosia! — rebateu ela, girando a manivela da roldana com os dois braços. Os tendões do pescoço dela saltavam sob a pele pálida, e o barulho das engrenagens emperradas soava como dentes rangendo a seco. — Elias, puxa essa ponta junto comigo antes que o carretel escape da trava!
+— Eu reclamo de tudo em você, detetive, principalmente da teimosia! — rebateu ela, girando a manivela com a mão direita enquanto apoiava a luva atuada no aro. Os tendões do pescoço dela saltavam sob a pele pálida, e o barulho das engrenagens emperradas soava como dentes rangendo a seco. — Elias, puxa essa ponta junto comigo antes que o carretel escape da trava!
 
-O cinto de rapel mordia minha cintura com ferocidade, cortando a circulação das coxas. Com a perna esquerda presa na órtese rígida que pendia inútil no ar e o braço mecânico puxando o ombro lacerado para baixo após a fixação da fratura, eu precisava confiar unicamente na pegada da minha mão de carne viva e na força de tração da dupla lá em cima. A bandagem improvisada no meu ombro empapou de vermelho escuro; meus músculos continuavam sangrando pelo bíceps, e o esforço arrancou um urro rouco dos meus dentes enquanto as cicatrizes do Dilúvio queimavam no frio.
+O cinto de rapel mordia minha cintura com ferocidade, cortando a circulação das coxas. Com a perna direita presa na órtese rígida que pendia inútil no ar e o braço mecânico puxando o ombro lacerado para baixo após a fixação da fratura, eu precisava confiar unicamente na pegada da minha mão de carne viva e na força de tração da dupla lá em cima. A bandagem improvisada no meu ombro empapou de vermelho escuro; meus músculos continuavam sangrando pelo bíceps, e o esforço arrancou um urro rouco dos meus dentes enquanto as cicatrizes do Dilúvio queimavam no frio.
 
 A carne aberta ardia enquanto eu acompanhava a plataforma. Meses separavam aquela borda da queda da Torre Aeterna; o Dilúvio viera depois da Torre, não junto com ela. Eu já não distinguia o que lembrava do que estava ferindo agora. Val chamou meu nome até eu voltar a olhar a roldana.
 
@@ -47,13 +47,13 @@ No mesmo milésimo de segundo, o olhal da roldana partiu-se ao meio com um estam
 
 A roldana estourou para cima, o cabo chicoteou no vazio e a gravidade puxou meu corpo com o peso de cem quilos em queda livre.
 
-O solavanco foi brutal. A segunda linha, que Val fixara antes de testar a roldana, reteve meu peso. A garra presa na borda impediu que eu girasse contra os cristais; o braço ferido continuou sendo arrastado pelo arnês, sem receber sozinho a queda. Os parafusos que prendiam a armação ao osso fraturado rangeram, a pele rasgou nas bordas da cirurgia de Vasco e um urro de pura agonia escapou da minha garganta, ecoando pela vastidão congelada da galeria.
+O solavanco foi brutal. A segunda linha, que Val fixara antes de testar a roldana, reteve meu peso. A garra presa na borda impediu que eu girasse contra os cristais; o braço ferido continuou sendo arrastado pelo arnês, sem receber sozinho a queda. Os parafusos que prendiam a armação ao osso fraturado rangeram, a pele rasgou nas bordas do curativo sobre o fixador e um urro de pura agonia escapou da minha garganta, ecoando pela vastidão congelada da galeria.
 
 Senti os dedos de aço começarem a deslizar pela ferrugem escorregadia da cantoneira.
 
 — Te peguei! — a voz de Valéria rasgou a névoa.
 
-Ela se jogou de barriga na grade de ferro da plataforma, enfiou os dois braços pelo vão da proteção e travou as mãos enluvadas ao redor do meu pulso de carne e da gola do meu casaco. Os olhos prateados dela estavam dilatados, os dentes trincados em uma careta de esforço sobre-humano.
+Ela se deitou na grade da plataforma e agarrou minha manga esquerda com a mão direita. A segunda linha ainda segurava meu peso. Os olhos prateados dela estavam dilatados, os dentes trincados em uma careta de esforço sobre-humano.
 
 — Elias, pega a perna dele! Me ajuda a erguer! — ela gritava, as veias da testa pulsando com força.
 

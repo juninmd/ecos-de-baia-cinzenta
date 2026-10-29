@@ -141,4 +141,4 @@ Valéria devolveu a Glock e tocou a bolsa onde guardara o cilindro. Precisavam d
 O painel da estação acendeu sobre os dois.
 
 MELHORES MOMENTOS.
-Sobre o cilindro na mão de Gabo, a legenda dizia: **ELE ARRANCOU O CORAÇÃO DO PRÓPRIO PAI.**
+Sobre a imagem gravada de Gabo arrancando o cilindro, a legenda dizia: **ELE ARRANCOU O CORAÇÃO DO PRÓPRIO PAI.**

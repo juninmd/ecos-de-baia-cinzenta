@@ -17,13 +17,13 @@ Eu subia logo abaixo dele. Não por cavalheirismo de manual policial, mas por c�
 
 — Deixa que farejem, Elias, — cortou Valéria, a voz ácida com aquele timbre cortante de sarcasmo da Zona Baixa que me lembrava os becos da Doca Três. — Se alguma aberração com mandíbula de soldador tentar subir na minha bota, eu enfio uma descarga de quatrocentos volts no processador dela. Menos choro e mais músculo nesse quadril, garoto. Você é engenheiro, não um pacote de correio.
 
-O peso da minha armação industrial de sucata — o monstro de aço forjado que Vasco parafusara no meu osso para travar a fratura — puxava meu ombro direito para baixo como uma âncora de navio. A cada elevação de braço, os servos sem blindagem rangiam com um estalo seco, cuspindo fagulhas microscópicas na penumbra. Minha perna esquerda ardia onde a órtese improvisada mordia a carne machucada, uma lembrança persistente das docas e do colapso da Torre Aeterna.
+O peso da minha armação industrial de sucata — o monstro de aço forjado que Vasco parafusara no meu osso para travar a fratura — puxava meu ombro direito para baixo como uma âncora de navio. A cada elevação de braço, os servos sem blindagem rangiam com um estalo seco, cuspindo fagulhas microscópicas na penumbra. Minha perna direita ardia onde a órtese improvisada mordia a carne machucada, uma lembrança persistente das docas e do colapso da Torre Aeterna.
 
 O ar vertical que subia do fundo era gélido, fétido, carregado de esporos que pinicavam a traqueia. A sensação sufocante de confinamento ameaçava apertar minha garganta, mas não havia espaço para fraqueza mental. Havia apenas a gravidade, a ferrugem e a distância até a próxima escotilha.
 
 — Movimento rápido na marca de sessenta metros, subindo em espiral pelas guias dos cabos, — alertou Valéria, o tom endurecendo sem perder o veneno nos lábios. — Três assinaturas térmicas. Rápidas demais para operários da colmeia. São quimeras batedoras. O Jardim tá mandando os cães de caça.
 
-— Quanto falta pra escotilha de transbordo? — perguntei, cravando os dedos de aço da mão direita na barra de ferro até o metal ranger sob a pressão hidráulica.
+— Quanto falta pra escotilha de transbordo? — perguntei, mantendo o braço direito junto ao peito enquanto firmava a mão esquerda na barra.
 
 — Quinze metros acima do nariz empinado do Elias, — ela disparou, subindo dois degraus de uma vez com a agilidade quase felina de quem passou a adolescência pulando telhados de lata sob a chuva ácida. — O trinco mecânico tá bloqueado por um contraventamento antigo. A gente vai ter que arrombar na força bruta.
 
@@ -51,11 +51,11 @@ Elias recuperou o apoio, puxando ar em goles curtos. Eu mantive a mão na barra;
 
 A aranha biomecânica não esperou. Ela saltou sobre os degraus em nossa direção, as mandíbulas pneumáticas abrindo em cruz para decapitar Elias.
 
-Valéria ergueu a pistola compacta com as duas mãos, apoiando as costas contra o vazio, e disparou três tiros certeiros no bloco de articulação da criatura. Faíscas azuis explodiram no joelho de titânio do monstro, desequilibrando seu salto.
+Valéria ergueu a pistola compacta com a mão direita, apoiando as costas contra o vazio, e disparou três tiros certeiros no bloco de articulação da criatura. Faíscas azuis explodiram no joelho de titânio do monstro, desequilibrando seu salto.
 
 — Agora, brutamontes! — gritou ela, os olhos prateados faiscando.
 
-Com Elias preso pela guia e os pés outra vez junto à parede úmida, soltei a perna mecânica reforçada do degrau e desferi um chute vertical de baixo para cima. O impacto do calcanhar de ferro forjado atingiu a face do drone com o estrondo de uma marreta em um cofre. Componentes ópticos estilhaçaram, fios soltaram fumaça cáustica e o animal cibernético perdeu a sustentação, despencando aos guinchos no poço escuro até se esborrachar com um estalo úmido lá embaixo.
+Com Elias preso pela guia e os pés outra vez junto à parede úmida, soltei a perna esquerda do degrau e desferi um chute de baixo para cima. O impacto do calcanhar de ferro forjado atingiu a face do drone com o estrondo de uma marreta em um cofre. Componentes ópticos estilhaçaram, fios soltaram fumaça cáustica e o animal cibernético perdeu a sustentação, despencando aos guinchos no poço escuro até se esborrachar com um estalo úmido lá embaixo.
 
 O esforço arrancou o último fôlego dos meus pulmões. O sangue gotejava da minha palma rasgada sobre a testa de Elias.
 

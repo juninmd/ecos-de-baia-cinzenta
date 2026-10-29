@@ -2,7 +2,7 @@
 title: "Capítulo 124: Carne e Cobre"
 Data In-Game: "23 de Novembro, 05:15"
 Localização: "Túneis de Manutenção do Distrito 4 / O Fliperama (Safehouse)"
-Personagens Presentes: "Gabo Moretti, Valéria Cruz, Dra. Nise, Rangel (Crítico), Aria (Inerte)."
+Personagens Presentes: "Gabo Moretti, Valéria Cruz, Dra. Nise, Rangel (Crítico), Aria (Inerte), mulher e menino resgatados, equipe de transporte."
 description: "Nise e uma equipe chegam. A mãe reencontra o menino. O atendimento busca estabilizar Rangel para transporte, sem prometer cura definitiva no abrigo."
 ---
 
@@ -18,7 +18,7 @@ Gabo parou por um instante, apoiando a mão na parede fria. O suor escorria por 
 
 Seus dedos tamborilaram contra o coldre. O cheiro de mofo e fuligem ainda o enjoava — ele odiava qualquer fumaça, que sempre o lembrava do hálito do pai gritando — e a exaustão pedia um entorpecimento químico que ele se recusava a buscar. Ele rejeitou o pensamento, mordendo o lábio até sentir o gosto metálico de sangue. Dor era foco. Dor era realidade.
 
-O acesso ao "Fliperama" estava camuflado atrás de uma grade de ventilação falsa. Gabo digitou o código no painel analógico — botões físicos, nada de interfaces neurais que pudessem ser rastreadas. A trava cedeu com um gemido hidráulico.
+No acesso ao Fliperama, Gabo afastou o tijolo que ocultava a trava. Bateu na chapa como combinara com Val e esperou que ela abrisse por dentro.
 
 O ar lá dentro era viciado, uma mistura de óleo de máquina, poeira de eletrônicos e o cheiro inconfundível de doença.
 
@@ -26,7 +26,7 @@ O ar lá dentro era viciado, uma mistura de óleo de máquina, poeira de eletrô
 
 Valéria surgiu de trás da bancada de monitores, o rosto iluminado apenas pelo brilho azulado de uma tela de backup. Ela parecia um fantasma cibernético, a pele translúcida demais, as olheiras fundas como crateras.
 
-— Você demorou — ela disse, sem acusação, apenas constatando um fato. — A febre dele subiu para 41 graus. Ele está delirando, Gabo. Falando sobre arquivos perdidos de 98.
+— Você demorou — ela disse, sem acusação, apenas constatando um fato. — Ele continua febril. Ele está delirando, Gabo. Falando sobre arquivos perdidos de 98.
 
 Gabo largou a mochila sobre uma mesa de trabalho coberta de esquemas técnicos.
 
@@ -58,11 +58,11 @@ O drive neural estava aberto sob uma lupa iluminada, com cabos de fibra fina lig
 
 — O custo foi alto, Gabo. O armazenamento físico resistiu, mas o software... — Valéria ajustou a carcaça de titânio do pendrive. — É "Dívida Técnica", lembra? Ela pegou emprestado barramento que não tinha. Agora o sistema está cobrando.
 
-Gabo se levantou, a rigidez nas pernas lembrando-o de que ele também era uma máquina falha, cheia de peças remendadas e código ruim.
+Gabo se levantou, a rigidez na perna lembrando-o do ferimento sob a órtese.
 
 — Rangel precisa de tempo. O drive da Aria precisa de compilação. E nós precisamos de um plano.
 
-— O apagão não vai durar para sempre — Valéria alertou, voltando para os monitores. — A Aeterna tem backups. Dante... Dante vai acordar.
+— O apagão não vai durar para sempre — Valéria alertou, voltando para os monitores. — A Aeterna tem sistemas de reserva. E não sabemos quem chegou ao Dante depois de nós.
 
 — Deixe ele acordar — Gabo disse, caminhando até a saída do esgoto, onde a chuva lá fora criava uma cortina de água suja. — Quando ele acordar, nós estaremos prontos. Ou mortos. Não faz muita diferença em Baía Cinzenta.
 

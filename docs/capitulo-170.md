@@ -10,9 +10,9 @@ image: /capitulo_170_pro.jpg
 
 Na página depois do Sujeito 01, escrevi meu nome: Gabriel Moretti. Sem patente. Se aquele caderno ia guardar o que tínhamos feito, eu não podia continuar tratando os meus atos como se pertencessem a outro homem. Guardei a caneta com a mão esquerda. O silêncio do Subnível 2.0 pressionava meus tímpanos como água a cinquenta metros de profundidade. Na mesa à minha frente, um fluido escuro escorria do cilindro estilhaçado.
 
-O *wetware* — o tecido cerebral que outrora orquestrara a farsa da Aeterna — agora não passava de biomassa apodrecendo sob as luzes de emergência.
+O tecido no tanque já não recebia suporte. Eu não sabia quanto da rede dependia dele, nem se alguém sentira o desligamento.
 
-As feridas do meu braço quebrado sangravam. A pele ferida e as ataduras rompidas pelo esforço haviam cedido quando golpeei a quina da mesa. Depois, quando a luz azul morreu de vez, eu quebrei o vidro com a coronha. Não ia deixar ninguém trancado no escuro outra vez. O sangue escorria pelo meu antebraço fraturado, misturando-se àquele fluido viscoso da corporação.
+As feridas do meu braço quebrado sangravam. A pele ferida e as ataduras haviam cedido durante a subida. Depois, quando a luz azul morreu de vez, eu quebrei o vidro com a coronha. Não ia deixar ninguém trancado no escuro outra vez. O sangue escorria pelo meu antebraço fraturado, misturando-se àquele fluido viscoso da corporação.
 
 O ar daquele arquivo tinha gosto de moeda velha. Não era figura de linguagem: o cobre das canaletas, aquecido pela bateria de emergência que ainda sustentava as luzes vermelhas, soltava um sabor metálico que grudava na raiz da língua. A gaiola de Faraday transformava cada ruído em coisa próxima e indecente — o estalo do filamento, o escorrer do fluido pela mesa, o meu próprio pulso batendo na garganta do braço quebrado. Nenhum som entrava. Nenhum som saía. A Aeterna construíra aquela sala para que nada de dentro pudesse ser ouvido, e agora ela nos devolvia o silêncio com juros, um cofre hermético em volta de dois vivos e uma máquina morta.
 
@@ -24,9 +24,7 @@ Ela rastejou pelas saídas de ar, espessa e com aquele odor enjoativo de cravo, 
 
 Senti meus pulmões travarem. O pânico de asfixia borbulhou no peito. A ilusão era perfeita, densa como neblina.
 
-Fechei os olhos e, com a precisão mecânica do hábito, ergui o braço direito quebrado e forcei a fratura com força brutal contra a quina de aço da mesa.
-
-Um estalo oco. A dor irradiou em uma frequência aguda, subindo pelo úmero, explodindo no meu cérebro como um raio em um céu sem nuvens. O gosto de ferrugem inundou minha boca. A dor rasgou o véu da fumaça, dispersando-a instantaneamente. Arrastei o ar para os pulmões em um chiado áspero. A mão perdeu força. A dor não fechava conta nenhuma; Val precisou prender de novo a tala que eu acabara de soltar.
+Apoiei a mão esquerda na mesa e contei as lâmpadas vermelhas. O cheiro não foi embora. Val esperou comigo até eu conseguir voltar a respirar sem forçar a tala.
 
 Fiquei um tempo olhando o úmero torto sob a pele, o desenho novo que a fratura tinha feito. Já não era um osso; era uma coisa rachada que eu carregava. O sangue escorria pela lateral do pulso e pingava no chão num compasso lento, e eu contei sete gotas antes de perceber que estava contando.
 
@@ -64,7 +62,7 @@ Na mesa do supervisor havia um copo térmico esquecido. O café dentro estava fr
 
 Caminhei até ela, meus passos soando altos demais. Parei a poucos centímetros.
 
-— Nós subimos — eu disse, ignorando o sangue quente escorrendo pelas laterais do meu tronco, onde Valéria havia selado minhas costelas com espuma coagulante. — Achamos a porta da frente. E saímos.
+— Nós subimos — eu disse, ignorando o sangue quente escorrendo pelas laterais do meu tronco, onde o curativo de Valéria começava a escurecer. — Achamos a porta da frente. E saímos.
 
 Valéria bateu a palma contra o batente de aço da escada de serviço.
 

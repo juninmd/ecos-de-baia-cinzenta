@@ -69,7 +69,7 @@ Um impacto na porta de aço fez a barra transversal saltar do encaixe e voltar.
 
 ---
 
-Ele achou duas granadas de fumaça num armário de material de motim, do tipo que a polícia usava em manifestação e que ninguém repunha desde o Apagão.
+Ele achou duas granadas de fumaça num armário de material de motim. Abriu a *Caronte* contra o balcão, retirou o estojo do tiro na blindagem e carregou um dos dois cartuchos que restavam no bolso.
 
 — No meu sinal você destranca. — Ele engatou a *Caronte* no ombro. — E não sai daí por nada.
 
@@ -81,7 +81,7 @@ Ela assentiu uma vez e voltou para o deck, com os dedos voando e a mandíbula tr
 
 — Três. Dois. Um. **Vai.**
 
-A barra saiu. Gabo chutou a porta, jogou as duas granadas em arco alto e se atirou para o corredor, rolando pelo ombro ruim. A fumaça encheu tudo em dois segundos. Sensor óptico não atravessa fumaça densa; os dois CP-Z pararam de avançar e começaram a varrer em setor, girando o torso devagar, procurando padrão de calor num corredor que estava quente igual em todo lugar.
+A barra saiu. Val empurrou a porta enquanto Gabo lançou as duas granadas em arco alto. Ele se deixou cair para o corredor, protegendo o ombro ferido. A fumaça encheu tudo em dois segundos. Os dois CP-Z pararam de avançar e começaram a varrer em setor, girando o torso, procurando calor num corredor já quente.
 
 Miranda não parou. Miranda atirou às cegas, em rajada curta, varrendo na altura da cintura — porque ele conhecia o Gabo, e sabia que o Gabo rola. Uma bala raspou a coxa esquerda. Foi como levar uma marretada com a ponta quente: o impacto primeiro, a queimadura depois, e o sangue morno descendo pela perna antes de qualquer dor.
 
@@ -145,4 +145,4 @@ Eles desceram pelo bueiro aberto no fim do beco, um por vez, com o cheiro de am�
 
 E, no poste da esquina, a luz acendeu e apagou três vezes, curto-curto-curto, que não era código de coisa nenhuma. Era só um homem dizendo *ainda estou aqui*. Gabo puxou a tampa por cima da cabeça.
 
-Doze horas até as hastes caírem, uma perna sangrando, e um pai gastando minutos de vida para acender lâmpada de rua.
+Doze horas até as hastes caírem, uma perna sangrando, e um pai cuja cópia perdia partes do registro a cada intervenção.

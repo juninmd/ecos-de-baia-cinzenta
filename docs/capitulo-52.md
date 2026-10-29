@@ -39,7 +39,7 @@ Sua cabeça pendia para trás em um ângulo impossível. Sua garganta havia sido
 
 Encolhida num canto, abraçando os joelhos contra o peito, estava Clara. Ela estava suja de lama e óleo, os olhos arregalados de terror catatônico, tremendo incontrolavelmente.
 
-— Clara... — Gabo abaixou a arma e se aproximou devagar, desativando os servos barulhentos para não assustá-la.
+— Clara... — Gabo abaixou a arma e se aproximou devagar, reduzindo o ruído dos servos sem desligar o suporte que o mantinha em pé.
 
 Ela levantou a cabeça. Quando viu o rosto dele, o reconhecimento demorou um segundo doloroso para atravessar o trauma. E então, a raiva veio, quente e necessária.
 
@@ -87,7 +87,7 @@ Ele se moveu. Rápido demais para um humano normal. Gabo disparou duas vezes, ma
 
 Gabo alcançou a varanda apoiado na bengala, mas o motor do barco vizinho rugiu e a figura desapareceu na escuridão e na chuva, deixando apenas o rastro de espuma.
 
-Gabo ficou ali, a arma ainda quente na mão, a água fria lavando seu rosto quente. Ele tinha acabado de encontrar o assassino mais perigoso que a cidade já vira. Um assassino que salvara sua irmã, mas que roubara as provas do DNA.
+Gabo ficou ali, a arma ainda quente na mão, a água fria lavando seu rosto quente. Ele tinha acabado de encontrar o assassino mais perigoso que a cidade já vira. Um assassino que salvara sua irmã. Ainda precisavam examinar os frascos e descobrir se faltavam amostras ou registros.
 
 Ele voltou para dentro. Clara estava chorando agora, um choro convulso de quem finalmente permitiu que o terror saísse.
 

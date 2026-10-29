@@ -11,7 +11,7 @@ O interior do duto de refrigeração secundária era um pesadelo de ferro galvan
 
 Com pouco mais de um metro de diâmetro, o tubo cilíndrico nos forçava a avançar de gatinhas sobre um piso ondulado de chapas perfuradas, onde poças de água ácida condensada e lodo calcificado mordiam os joelhos através do tecido da calça. O ar era gelado, cheirando a zinco molhado, ozônio antigo e graxa queimada que vazava das juntas mecânicas da minha armação avariada.
 
-O peso de vinte quilos da liga industrial no meu ombro direito arrastava-se como uma bigorna morta sobre o metal do duto. A cada impulso para a frente, as cicatrizes da fixação neural ardiam como se alguém estivesse encostando pontas de ferro em brasa na minha clavícula.
+O peso de vinte quilos da liga industrial no meu ombro direito arrastava-se como uma bigorna morta sobre o metal do duto. A cada impulso para a frente, os pontos do fixador ardiam como se alguém estivesse encostando pontas de ferro em brasa na minha clavícula.
 
 Três corpos num tubo de um metro fazem um barulho que denuncia. O casaco arrastando na chapa, o deck batendo no cinto de Valéria, a respiração de Elias entrando e saindo com um apito de cano furado. A cada metro, uma chuva de ferrugem solta caía da abóbada e entrava pela gola — areia fina no pescoço, no ouvido, entre os dentes.
 
@@ -25,11 +25,11 @@ Ela rastejava empurrando o cyberdeck enrolado em lona diante do peito. A luz azu
 
 — Eu tô andando! Eu tô andando! — o técnico gaguejava logo atrás de Valéria, a respiração saindo em silvos asmáticos pela máscara de carvão. — Mas o calor lá de trás tá subindo... Eu sinto o metal do piso esquentando na palma da minha mão! A onda de choque vai derreter essa tubulação!
 
-— Para de drama, Elias — Valéria cortou com firmeza, a voz carregada de autoridade de rua. — A comporta de alívio que o Gabo fechou na Subestação segurou a deflagração primária. A temperatura aqui dentro tá caindo três graus por minuto. O que você tá sentindo é só o seu próprio pânico cozinhando a sua cabeça. Respira pelo nariz e não para de mexer os joelhos.
+— Para de drama, Elias — Valéria cortou com firmeza, a voz carregada de autoridade de rua. — A comporta de alívio que o Gabo fechou na Subestação segurou a deflagração primária. O detector mostra que a temperatura está caindo perto de mim, mas não consigo medir a curva atrás de você. Se esquentar mais, avisa. Respira pelo nariz e não para de mexer os joelhos.
 
 Parei sob uma caixa de inspeção técnica onde a tubulação fazia uma curva de quarenta e cinco graus para a esquerda. O espaço vertical era ligeiramente maior, permitindo que eu me apoiasse sobre o joelho direito e respirasse fundo.
 
-O esforço para arrombar a válvula monumental na subestação cobrara um preço alto: o ponto de solda do meu ombro sangrava num fluxo constante, encharcando a manga da camisa e pingando na grade de ferro com um som rítmico de torneira gotejando. Minha mão de carne tremia de exaustão, o gosto metálico de sangue e bile colado no palato.
+O esforço para arrombar a válvula monumental na subestação cobrara um preço alto: o curativo junto ao fixador sangrava num fluxo constante, encharcando a manga da camisa e pingando na grade de ferro com um som rítmico de torneira gotejando. Minha mão de carne tremia de exaustão, o gosto metálico de sangue e bile colado no palato.
 
 Lembrei de cada ferida que acumulei desde o início dessa guerra contra a Aeterna; em Baía Cinzenta, a sobrevivência nunca era de graça. Cada quilômetro conquistado custava carne, metal e anos de vida que eu nunca mais teria de volta.
 
@@ -47,7 +47,7 @@ A pressão sobre a carne viva foi excruciante. Cerrei os dentes com tanta força
 
 — Pronto — ela deu um puxão final na fita, travando o adesivo com um tapa seco na minha armação de ferro. — Não vai ganhar prêmio de estética médica, mas estancou o vazamento. Agora para de tentar bancar o mártir imortal e usa o apoio do cotovelo mecânico pra distribuir o peso.
 
-A fita apertou mais do que precisava. Em dois minutos, os dedos da mão direita começaram a formigar, depois a desaparecer, e o pouco de tato que a armação me devolvia virou um zumbido surdo. Pressão demais segura hemorragia e mata a mão devagar, e Valéria afrouxou a faixa ao ouvir que a sensibilidade diminuíra. Não tratou a dormência como um preço necessário para continuar andando.
+A fita apertou mais do que precisava. Em dois minutos, os dedos da mão direita começaram a formigar, depois a desaparecer, e a dormência subiu pela mão imobilizada. Pressão demais segura hemorragia e mata a mão devagar, e Valéria afrouxou a faixa ao ouvir que a sensibilidade diminuíra. Não tratou a dormência como um preço necessário para continuar andando.
 
 — Você tá contando — falei, com o queixo apontado para o rolo de fita.
 

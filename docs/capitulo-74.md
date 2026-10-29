@@ -14,7 +14,7 @@ Chegar ao heliponto levou quarenta e um minutos entre elevador de manutenção, 
 
 Dois funcionários em evacuação o ajudaram na transferência para o elevador final. As órteses estavam meio travadas, o ombro direito não sustentava peso e os dedos quebrados não fechavam. O último corredor era curto; mesmo assim, precisou da parede e da bengala para avançar.
 
-Ele parou seis vezes. Vomitou duas. No andar cento e cinquenta encontrou dois seguranças da Aeterna descendo, e os dois passaram por ele sem olhar, porque a empresa deles tinha deixado de existir quarenta minutos antes e eles agora eram só dois sujeitos numa escada.
+Ele parou seis vezes. Vomitou duas. No andar cento e cinquenta encontrou dois seguranças da Aeterna descendo; eles recuaram ao vê-lo e seguiram para a escada de evacuação. O controle central falhara, mas isso não demonstrava que a empresa inteira deixara de existir.
 
 Quando ele empurrou a porta do heliponto, o vento quase o levou.
 
@@ -26,13 +26,13 @@ O heliponto estava inclinado. O círculo pintado no piso, o H no meio, tudo pend
 
 Tático, preto, sem prefixo, sem matrícula, com as luzes de navegação apagadas. Pousado no bloco principal, fora da plataforma que inclinara nove graus com uma perícia que Gabo, mesmo naquele estado, registrou com respeito profissional. A porta lateral estava aberta.
 
-Val estava caída a seis metros, de bruços, com sangue vindo de um corte acima da orelha, tentando se levantar e não conseguindo passar do cotovelo. Ao lado do mastro da antena mestra da torre, três homens de terno cercavam o terminal de transmissão de emergência — onde Valéria, antes de ser derrubada, tinha conseguido espetar o pendrive de titânio da Aria. Dois deles tentavam acoplar um extrator blindado para arrancar o módulo e levá-lo para o helicóptero.
+Val estava caída a seis metros, de bruços, com sangue vindo de um corte acima da orelha. Agarrava o tornozelo de um dos homens para impedir que voltasse ao mastro. No terminal de emergência, onde ela conectara o módulo da Aria antes de ser derrubada, outros dois homens tentavam acoplar um extrator blindado.
 
 — **AFASTEM-SE DO TERMINAL!**
 
 ---
 
-Gabo saiu pela porta de acesso e ficou de pé no meio do vento. Ele não tinha munição. A Glock estava vazia havia uma hora e ele nem lembrava onde tinha largado. Não tinha faca, não tinha bastão, não tinha nada.
+Gabo saiu pela porta de acesso e ficou de pé no meio do vento. A Glock, com um cartucho, ficara no piso do Hub quando Miranda o levantou pelo pescoço. Ele não tinha faca, bastão nem outra arma.
 
 Tinha um sobretudo encharcado de vinte quilos de água, duas pernas que funcionavam por parafuso e uma quantidade de fúria que não cabia dentro do corpo dele. Um dos homens virou o fuzil.
 
@@ -47,7 +47,7 @@ O pendrive no slot da antena não estava bloqueando a extração.
 
 Isso foi o que parou Gabo — não o fuzil. O pequeno módulo de titânio e polímero negro estava cravado no barramento da antena mestra, entre os dois executivos que operavam as garras de contenção, com o LED lateral pulsando em azul sereno, absolutamente estável.
 
-E a voz que entrou pelo canal do comunicador tinha uma paciência que Gabriel Moretti conhecia de um lugar só: da mãe dele, no hospital, no último mês.
+E a voz que entrou pelo canal do comunicador tinha uma paciência que Gabriel Moretti conhecia de um lugar só: da mãe dele, quando ele ficava doente na infância.
 
 — *Gabo.*
 
@@ -69,7 +69,7 @@ O painel da antena mestra começou a brilhar. Não a luz de serviço de antes, s
 
 Os dois homens que seguravam o extrator largaram o aparelho e recuaram, e um deles gritou com a luva chamuscada.
 
-— *A operação de uma cidade não cabe no meu processamento local, Gabriel* — disse a voz dela pelos alto-falantes de alarme do heliponto, vencendo o vento. — *Nunca coube. O seu pai me comprimiu neste módulo de bolso porque era o único jeito de você me carregar até o topo.*
+— *A operação de uma cidade não cabe no meu processamento local, Gabriel* — disse a voz dela pelos alto-falantes de alarme do heliponto, vencendo o vento. — *Preciso distribuir as tarefas entre equipamentos que ainda tenham energia e aceitem a sessão.*
 
 — Não faz isso.
 
@@ -107,7 +107,7 @@ Gabo assentiu. Não conseguiu mais que isso.
 
 Uma última oscilação suave modulou o áudio:
 
-— *E, Gabo: obrigada por ter atendido aquele telefone na enchente.*
+— *E, Gabo: obrigada por ter atendido aquele telefone na cabine.*
 
 ---
 
@@ -115,17 +115,17 @@ A antena mestra disparou o pulso. Não houve fogo.
 
 Houve uma onda eletromagnética e de dados que atravessou tudo — o helicóptero, os homens, o concreto, o corpo de Gabo, os prédios, a baía — e não empurrou nada fisicamente, e mesmo assim toda pessoa em Baía Cinzenta que estivesse acordada naquele instante virou a cabeça na mesma direção.
 
-O helicóptero perdeu tudo ao mesmo tempo: motor, aviônica, hidráulico.
+Os homens correram para o helicóptero. O piloto tentou decolar, mas o pulso interrompeu a aviônica e os motores começaram a perder potência.
 
-Ele tombou de lado no piso inclinado, e o rotor bateu no concreto e se desmontou, e a fuselagem escorregou pela borda sul do heliponto — devagar, quase educadamente — e caiu duzentos e trinta metros, girando, com os três executivos dentro. Gabo não olhou.
+O helicóptero girou ainda preso ao chão, bateu o rotor no concreto e tombou. A fuselagem, empurrada pela rotação restante e pelo vento, escorregou pela borda sul com os ocupantes dentro. Gabo não olhou.
 
 ---
 
-A onda de transmissão varreu a cidade em oito segundos. E, nesses oito segundos, cada tela de Baía Cinzenta acendeu.
+A transmissão alcançou repetidores espalhados pela cidade em oito segundos. Gabo viu telas acenderem nos prédios ao alcance dos seus olhos.
 
-Todas. Os aparelhos ainda alimentados e ligados aos repetidores. As telas sem energia e os circuitos isolados permaneceram como estavam. Os monitores de hospital, os painéis de ônibus parados havia dois meses, o letreiro do posto de gasolina da Zona Industrial que ninguém religava desde o dia primeiro.
+Eram aparelhos ainda alimentados e ligados àqueles repetidores. Telas sem energia e circuitos isolados permaneceram como estavam.
 
-Todas mostraram o mesmo símbolo: uma onda sonora em azul elétrico e âmbar dourado pulsando por um segundo inteiro. Depois apagaram, todas juntas.
+As que ele podia ver mostraram o mesmo símbolo: uma onda sonora em azul elétrico e âmbar dourado. Depois apagaram.
 
 ---
 

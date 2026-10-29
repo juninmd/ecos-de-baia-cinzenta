@@ -12,7 +12,7 @@ O cheiro não era apenas de podridão; era de tempo estagnado. Uma mistura de lo
 
 A escuridão das "Catedrais de Pedra" não era vazia. Ela rosnava.
 
-— Eles estão flanqueando — a voz de Valéria sussurrou, trêmula. Sem o sonar digital de longo alcance, ela estava reduzida à visão de curto espectro, quase inútil naquela penumbra absoluta. Ela segurava a pistola compacta com as duas mãos, apontando para o nada.
+— Eles estão flanqueando — a voz de Valéria sussurrou, trêmula. Sem o sonar digital de longo alcance, ela estava reduzida à visão de curto espectro, quase inútil naquela penumbra absoluta. Ela sustentava a pistola compacta com a mão direita; a esquerda ferida ajudava a firmar o punho sem sentir a pressão.
 
 Gabo acendeu o último sinalizador químico e o arremessou. A luz vermelha de fósforo chiou, cortando as sombras e revelando o pesadelo.
 
@@ -34,13 +34,11 @@ Mas os outros não recuaram. Eles avançaram em uníssono.
 
 — *Três na esquerda. Dois na direita* — Aria avisava pelo comunicador, cruzando os sensores de movimento de curto alcance do deck de Valéria com atraso entre a câmera e o alerta. — *A câmera perdeu os dois da direita. Val, não dispare pelo marcador antigo; confirme o alvo.*
 
-Gabo ignorou a provocação, sentindo apenas o gosto de bile subir à garganta. A menção à fumaça do pai evocava memórias de cinzeiros transbordando e violência doméstica, uma repulsa visceral que ele converteu em foco puro. Ele girou, disparando o penúltimo cartucho na massa de corpos à esquerda. O estrondo foi ensurdecedor no túnel fechado. Chumbo grosso rasgou carne e metal, transformando dois dos atacantes em uma polpa indistinta.
+Gabo sentiu o gosto de bile subir à garganta. O som de metal arranhando pedra vinha mais perto. Ele girou, disparando o penúltimo cartucho na massa de corpos à esquerda. O estrondo foi ensurdecedor no túnel fechado. Chumbo grosso rasgou carne e metal, transformando dois dos atacantes em uma polpa indistinta.
 
-Valéria disparou cegamente para a direita. *Pow-pow-pow.*
+Valéria esperou um movimento entrar na luz do sinalizador e disparou para o chão diante dele. Os estilhaços e o estampido fizeram dois animais recuar.
 
-— Acertei? — ela gritou.
-
-— Manteve eles longe — Gabo mentiu. Ela tinha acertado a parede, mas o barulho assustou os animais. — Recuar! Para a galeria lateral!
+— Agora, Gabo! A passagem lateral!
 
 Eles arrastaram Rangel. O inspetor gemia em seu delírio, um peso morto de carne febril. Gabo cobria a retaguarda, balançando a *Caronte* como uma maça.
 
@@ -58,7 +56,7 @@ Gabo parou diante do espaço estreito. A memória de Bia no galpão veio sem arq
 
 Uma Quimera saltou das sombras, mirando o pescoço de Valéria.
 
-Gabo não pensou. Ele se lançou na frente, oferecendo o antebraço esquerdo. As presas de metal rasgaram sua jaqueta de couro sintético e encontraram carne. A dor foi branca e pura. Ele gritou, não de agonia, mas de fúria, e enterrou a faca de combate no pescoço da criatura, girando a lâmina até sentir os cabos e a traqueia se separarem.
+Gabo não pensou. Ele interpôs o antebraço esquerdo, apoiado na perna boa. As presas de metal rasgaram sua jaqueta de couro sintético e encontraram carne. A dor foi branca e pura. Ele gritou, não de agonia, mas de fúria, e enterrou a faca de combate no pescoço da criatura, girando a lâmina até sentir os cabos e a traqueia se separarem.
 
 Val arrastou a prancha até a fenda. Gabo afastou o cadáver com a ferramenta e passou a cinta para o outro lado.
 
@@ -70,7 +68,7 @@ O corredor era diferente. O chão não era de pedra úmida, mas de grade metáli
 
 Eles escorregaram pela inclinação, caindo em uma câmara ampla, iluminada por luzes de emergência âmbar que giravam lentamente.
 
-Gabo se levantou, ofegante, segurando o braço sangrando. Valéria estava checando o pulso de Rangel. No comunicador de Gabo, o LED do pendrive da Aria pulsava intensamente em âmbar, lendo as frequências eletromagnéticas da câmara.
+Gabo se levantou, ofegante, segurando o braço sangrando. Valéria estava checando o pulso de Rangel. No deck de Valéria, o LED do pendrive de Aria pulsava intensamente em âmbar, lendo as frequências eletromagnéticas da câmara.
 
 — *Olha para cima, Gabo* — sussurrou a IA pelo alto-falante tático, a voz carregada de um fascínio inquietante. — *Estamos nas entranhas.*
 
@@ -90,4 +88,4 @@ Sangue. Ou algo muito parecido, sintético, nutriente.
 
 Gabo olhou para o túnel escuro à frente, onde o zumbido era mais forte. Eles tinham escapado dos cães, mas tinham caído na boca do dono.
 
-— Vamos continuar — ele disse, recarregando a última bala na *Caronte*. — Antes que os anticorpos cheguem.
+— Vamos continuar — ele disse, conferindo o cartucho restante na *Caronte*. — Antes que os anticorpos cheguem.

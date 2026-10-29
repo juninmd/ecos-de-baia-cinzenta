@@ -9,7 +9,7 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 A escotilha de ferro fundido bateu com um estampido seco, ecoando pelo túnel como a tampa de um sarcófago se fechando. O barulho das mandíbulas mecânicas e dos guinchos predatórios do enxame lá embaixo foi abafado instantaneamente, reduzido a uma vibração oca que subia pelas solas dos meus coturnos. O corredor que se abria à nossa frente era uma ruptura brutal com a podridão orgânica das catacumbas: não havia raízes azuis, nem lodo escorrendo pelas paredes. Apenas concreto cinzento, maciço e assustadoramente estéril, estendendo-se em linha reta sob uma penumbra morta.
 
-Caí de costas contra a alvenaria gelada. Meus joelhos cederam, e escorreguei até o chão com o barulho áspero do meu casaco de sarja raspando na parede. Meu ombro direito parecia ter sido esticado em um potro de tortura medieval; o peso de Elias na queda quase arrancara os parafusos que Vasco fixara na minha clavícula. O sangue quente escorria da minha palma esquerda lacerada pelo vergalhão da escada, pingando rítmico no piso empoeirado.
+Caí de costas contra a alvenaria gelada. Meus joelhos cederam, e escorreguei até o chão com o barulho áspero do meu casaco de sarja raspando na parede. Meu ombro direito parecia ter sido esticado em um potro de tortura medieval; o tranco da guia havia puxado o fixador no meu braço fraturado. O sangue quente escorria da minha palma esquerda lacerada pelo vergalhão da escada, pingando rítmico no piso empoeirado.
 
 Elias desabou a dois passos de mim, encolhendo os joelhos contra o peito. Seus dentes batiam com tanta força que o som parecia um relé defeituoso.
 
@@ -23,7 +23,7 @@ Elias desabou a dois passos de mim, encolhendo os joelhos contra o peito. Seus d
 
 — Eu ouvi isso... — murmurou Elias, a voz sumindo na escuridão.
 
-— Era pra ouvir mesmo, — Valéria disparou, sem tirar os olhos da minha ferida. Ela borrifou o selante na carne viva. O composto químico queimou como ácido de bateria, e precisei fincar as unhas da mão de sucata no chão para não soltar um grito que alertasse qualquer coisa viva no setor. — Aguenta firme, detetive. Isso cobre a ferida. Não torna o lodo que entrou nela menos sujo.
+— Era pra ouvir mesmo, — Valéria disparou, sem tirar os olhos da minha ferida. Ela limpou a borda e aplicou um curativo do kit sobre a ferida. O composto químico queimou como ácido de bateria, e precisei fincar as unhas da mão de sucata no chão para não soltar um grito que alertasse qualquer coisa viva no setor. — Aguenta firme, detetive. Isso cobre a ferida. Não torna o lodo que entrou nela menos sujo.
 
 O ar naquele corredor era seco, com um cheiro pungente de concreto antigo, ferrugem seca e ozônio aprisionado há décadas. O silêncio que se instalou era pesado demais, quase sólido. Depois de horas sob o bombardeio contínuo de ruídos de esgoto, água ácida e gritos biomecânicos, a ausência de som não trazia paz — trazia uma paranoia corrosiva que se infiltrava pelas têmporas.
 
@@ -43,7 +43,7 @@ Valéria ergueu o punho, ativando o feixe óptico do cyberdeck para varrer a ext
 
 — O Armazém Logístico fica logo depois daquela curva à esquerda, — disse Elias, apontando para onde o corredor sumia na escuridão. — É onde eles estocavam maquinário de perfuração geológica antes do isolamento. Se o caminho até a Arca Zero ainda existe, temos que atravessar o pátio central daquele armazém.
 
-Levantei-me devagar, apoiando as costas na parede fria até que as travas da órtese da perna esquerda encontrassem o encaixe. O metal gemeu, mas sustentou meu peso. Valéria terminou de dar o nó na atadura do meu braço, puxando a fita com uma força deliberada que me fez respirar fundo.
+Levantei-me devagar, apoiando as costas na parede fria até que as travas da órtese da perna direita encontrassem o encaixe. O metal gemeu, mas sustentou meu peso. Valéria terminou de dar o nó na atadura do meu braço, puxando a fita com uma força deliberada que me fez respirar fundo.
 
 — Prontinho, herói da Baía, — murmurou ela, guardando o kit com um meio-sorriso amargo. — Tenta não se jogar de outra escada nos próximos dez minutos. Minha cota de ataduras tá acabando, e eu me recuso a carregar um detetive de cem quilos nas costas.
 

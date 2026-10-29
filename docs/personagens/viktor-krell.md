@@ -12,11 +12,11 @@
 * **Equipamento:** Link neural mestre que lhe dá acesso a todas as câmeras e microfones da cidade.
 * **Gostos/Traços:** Música clássica, xadrez, tortura psicológica e coleção de "Troféus Biológicos".
 * **Perfil Psicológico:** O Sádico Intelectual. Krell compensa sua estatura com uma crueldade sem limites. Ele tem um desprezo visceral por força física, preferindo derrotar seus inimigos com inteligência e tecnologia. Ele não apenas mata; ele converte seus inimigos em ferramentas.
-* **O Segredo Sombrio:** Krell usa os corpos de seus maiores adversários como troféus. O maior deles é **Dante Moretti**, cujo cérebro ele mantém vivo para alimentar sua IA de segurança.
-* **⭐ Por que ele é o vilão máximo (Capítulos 219 e 227):** Krell entrou na Aeterna aos 22 anos no cargo mais irrelevante do prédio — **estagiário do jurídico, digitalizando contratos de cuidado perpétuo** numa sala sem janela. Ninguém pediu que ele lesse; bastava escanear. Ele leu todos, um por um, e entendeu antes dos cinco donos que as famílias não estavam comprando um túmulo: estavam comprando a permanência de alguém. Os donos vendiam o meio; Krell viu que dava para vender o fim. Escreveu um memorando de quatro páginas sem ser convidado, foi promovido por ele, e a diretoria continuou sem entender o próprio negócio até morrer.
-  * **A assinatura:** todo contrato de admissão sem consentimento do inquilino exige um segundo aval interno — um cargo júnior, um carimbo que ninguém importante quer no próprio nome. Em **47.311 admissões ao longo de 59 exercícios**, a rubrica **V. KRELL** aparece em todas. Nenhuma delegação, nenhuma ausência, nenhuma substituição, nem quando já era CEO. *Ele não delega o que gosta.*
-  * **A tese do personagem:** ele é a única figura da obra que **nunca sujou a mão** — nunca levantou de uma cadeira para matar ninguém em sessenta anos. Todos os outros antagonistas são coisas que ele ligou, soltou, financiou ou comprou. Gabo passou quinze anos batendo nos braços da máquina achando que era a máquina. Baía Cinzenta não foi destruída por um gênio do mal: foi destruída por um estagiário aplicado.
-* **Função:** CEO da Aeterna Corp / **O Autor de Tudo**.
+* **O Segredo Sombrio:** Krell explora a mente de Dante para alimentar a segurança da Aeterna. O corpo original morre no capítulo 27 e seus restos são identificados no 40; o biohost posterior é uma cópia.
+* **⭐ Por que é um antagonista central (Capítulos 219 e 227):** Krell entrou na Aeterna aos 18 anos, em 2024, como **estagiário do jurídico, digitalizando contratos de cuidado perpétuo**. Leu os contratos e escreveu um memorando sobre vender a permanência de alguém, sendo promovido. Elara leu o memorando e também participou das decisões posteriores.
+  * **A assinatura:** o índice associa 47.311 admissões sem consentimento, entre 2029 e 2056, ao segundo aval de Krell. Uma amostra de 300 originais contém a rubrica; isso não autentica todas as assinaturas nem prova ausência de delegação.
+  * **A tese do personagem:** ele exerce poder por contratos, estruturas e violência delegada. Sua responsabilidade não transforma os outros antagonistas em marionetes nem faz dele o autor de todas as escolhas de Gabo.
+* **Função:** CEO da Aeterna Corp e responsável por autorizações corporativas sob investigação.
 
 ### ⏳ Linha do Tempo
 

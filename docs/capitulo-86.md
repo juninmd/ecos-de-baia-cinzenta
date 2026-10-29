@@ -3,7 +3,7 @@ layout: doc
 title: "Capítulo 86: Simbiose"
 description: "Três semanas após o Sol Negro, Gabo caça energia com Garoto. O convite do Jardim encontra a marca em seu braço e a recusa de aceitar mortes sem nomes."
 image: /capitulo_86.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti
+Personagens Presentes: Gabriel "Gabo" Moretti, Garoto, Jardineira
 Localização: "Três semanas depois — Zona de Exclusão Norte"
 ---
 
@@ -40,7 +40,7 @@ Nenhum drone K-9 tem função de abanar traseiro. Não existe atuador para isso,
 
 Agora a carcaça de metal estava coberta por uma pele fibrosa, cinza-esverdeada, com pelo curto de queratina de verdade. As articulações não eram mais servos: eram uma coisa nova, com tendão, e ele se movia como predador — com aquela ondulação de ombro que máquina nenhuma consegue imitar.
 
-Ele obedecia ao Gabo, e não por programação, porque os registros da unidade já falhavam desde o quarto mês do Apagão. Gabo não sabia separar o que restava das rotinas do que o tecido novo tinha aprendido.
+Ele seguia Gabo, mas os registros da unidade já falhavam. Gabo não sabia separar o que restava das rotinas do que o tecido novo tinha aprendido.
 
 — Calma, Garoto — murmurou Gabo, encostando a mão na cabeça biomecânica.
 
@@ -132,15 +132,15 @@ Gabo ficou olhando para ela um tempo. O Garoto continuava rosnando ao lado dele,
 
 — Porque eu tenho uma lista — disse Gabo.
 
-— Uma lista.
+— Uma lista. — Ela apontou para a porta. As raízes subiram pelo batente. — Você vai contar ao Pai.
 
-— De nomes. — Ele guardou a faca sem colher fruto nenhum. — Gente que morreu por causa de decisão de alguém e que ninguém anotou. Duzentas e catorze pessoas na Orla Norte. Uma senhora chamada Dilma Farias. Uma menina de sete anos que se chamava Duda. Um rapaz de moletom que se chamava Éder.
+— De nomes. — Ele guardou a faca. — Gente que morreu por causa de decisão de alguém e que ninguém anotou. Damião Reis, morto no cerco da delegacia. Uma senhora chamada Dilma Farias. Uma menina chamada Duda. E Éder, que eu matei quando já estava rendido.
 
 — Nós temos todos eles aqui dentro.
 
-— Vocês têm cópia. — Gabo virou de costas e começou a andar para a porta. — Eu tenho a **conta**. É diferente, e quando eu virar mato ninguém mais vai ter.
+— Vocês podem ter cópia. Eu tenho a **conta**. — Gabo alcançou um dos frutos com a mão direita. — Inclusive a parte que é minha.
 
-Ele parou na saída, sem virar.
+Ele torceu o fruto e o lançou contra a moldura metálica junto do batente. Houve um estalo e faíscas; as raízes se contraíram. O Garoto avançou sobre o vão, rosnando, enquanto Gabo atravessava a abertura com a arma na mão. Não sabia se o choque bastaria para segurá-la.
 
 — Diz para o teu Pai que eu prefiro o silêncio.
 

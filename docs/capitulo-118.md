@@ -1,6 +1,7 @@
 ---
 image: /cenas/cidade.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Aria, Dante Moretti, Valéria "Val" Cruz, O Taxidermista
+Personagens Presentes: Gabriel "Gabo" Moretti, Aria, Dante Moretti, Valéria "Val" Cruz
+Participação por transmissão: O Taxidermista
 Localização: "Usina Geotérmica Prometeu — Núcleo de Resfriamento (tanque de Dante)"
 ---
 # Capítulo 118: O Colapso da Onda
@@ -11,7 +12,7 @@ O líquido no tanque borbulhava, uma sopa amniótica para um deus artificial.
 
 Gabo olhou para Valéria. Ela estava de joelhos, as mãos agarrando a cabeça como se tentasse impedir que seu crânio se partisse. O sangue que escorria de seu nariz pingava no chão branco e estéril, criando manchas vermelhas violentas, como flores desabrochando na neve.
 
-— Ele não está mentindo — sussurrou Valéria, a voz pastosa. — Sinto... sinto todos eles pela rede local. Milhares. Gritando em uníssono. Se a onda quebrar de repente... o choque vai nos fritar.
+— Eu recebo sinais pela rede local — sussurrou Valéria, a voz pastosa. — Gritos, ou gravações deles. Não consigo contar nem saber quem ainda está vivo. Se ele romper o enlace assim, não sei o que acontece comigo.
 
 Gabo apertou o punho da *Caronte* até as juntas ficarem brancas. O ódio era um gosto de cobre na boca. O velho sabia exatamente onde bater. Ele transformara a compaixão em uma arma.
 
@@ -97,6 +98,6 @@ Valéria olhou para o drive de titânio enegrecido pelo curto-circuito em sua lu
 
 — Gabo... os barramentos primários queimaram. A saída e a proteção da porta queimaram. Ainda não consigo ler o núcleo para dizer o que sobreviveu...
 
-— Nós vamos consertá-la no Fliperama — Gabo pegou o pendrive superaquecido e o guardou no bolso interno reforçado do sobretudo, contra o peito.
+— No Fliperama, a gente descobre o que pode fazer — disse Gabo. Val isolou o drive ainda quente no estojo de ferramentas antes de guardá-lo.
 
 Val registrou a posição e transmitiu o pedido de resgate e custódia no canal de emergência. Não recebeu confirmação. Atrás deles, Dante Moretti continuou deitado no chão molhado, tremendo no escuro, enquanto as sirenes de evacuação começavam a uivar.

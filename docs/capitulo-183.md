@@ -51,7 +51,7 @@ Fiquei atrás da carcaça e encaixei a ferramenta no calço quebrado. O atuador 
 
 O calço saiu. O ônibus escorregou pela inclinação curta, raspando a lateral no concreto. Eu me deixei cair para fora do caminho.
 
-O piloto freou e virou. A roda direita pegou um vergalhão exposto na borda do asfalto; o buggy bateu na carcaça e tombou. Não foi meu braço que recebeu as duas toneladas. O ruído do choque me deixou sem ouvir a primeira ordem de Val.
+O piloto freou e virou. A roda direita pegou um vergalhão exposto na borda do asfalto; o buggy bateu na carcaça e tombou. Não foi meu braço que recebeu o impacto. O ruído do choque me deixou sem ouvir a primeira ordem de Val.
 
 Os dois atiradores tentaram sair pela lateral que ficara para cima, ainda com as carabinas. Val atirou antes que terminassem de erguê-las.
 

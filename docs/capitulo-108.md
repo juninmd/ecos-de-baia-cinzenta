@@ -1,6 +1,7 @@
 ---
 image: /capitulo_108.jpg
-Personagens Presentes: Inspetor Rangel, Dante Moretti
+Personagens Presentes: Inspetor Rangel, mulher e menino, policial
+Participação por transmissão: Dante Moretti
 Localização: "Zona Portuária - Setor 4"
 ---
 # Capítulo 108: Ratos de Cais

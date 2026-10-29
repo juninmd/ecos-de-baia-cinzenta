@@ -34,7 +34,7 @@ Era humanoide. Pele cinza-lavada, sem pelo nenhum, esticada sobre uma caixa tor�
 
 A coisa sibilou. E foi aí, quando ela virou o rosto para a luz, que a noite deixou de ser uma noite de monstro.
 
-O rosto estava distorcido, sem nariz, com a mandíbula empurrada para a frente — mas ainda era um rosto. Havia uma sobrancelha. Havia uma cicatriz antiga de cirurgia no lábio, de lábio leporino, do tipo que se opera aos dois anos de idade e que só se faz em criança amada. E, no ombro, uma tatuagem desbotada de tinta azul, letra cursiva, feita à mão numa banca de esquina:
+O rosto estava distorcido, sem nariz, com a mandíbula empurrada para a frente — mas ainda era um rosto. Havia uma sobrancelha. Havia uma cicatriz antiga de cirurgia no lábio, compatível com uma cirurgia antiga de lábio. E, no ombro, uma tatuagem desbotada de tinta azul, letra cursiva, feita à mão numa banca de esquina:
 
 Mamãe.
 Vestia restos de uma túnica de paciente. O cordão ainda tinha a etiqueta de plástico, e na etiqueta havia um código, e Gabo já tinha visto aquele prefixo em papel timbrado. Ele baixou a arma um segundo perigoso.
@@ -43,15 +43,15 @@ Vestia restos de uma túnica de paciente. O cordão ainda tinha a etiqueta de pl
 
 — Gabo—
 
-— Eles não são bicho novo, Elena. — A voz saiu rouca. — São os pacientes da ala de rejeitados. É gente que a Aeterna comprou barato, mexeu e guardou no subsolo porque o resultado não deu certo o bastante para vender.
+— Eles não são bicho novo, Elena. — A voz saiu rouca. — A etiqueta parece usar o prefixo dos registros de pacientes da Aeterna. Pode ser alguém daquela ala. Não sei o que fizeram com essa pessoa.
 
 — E quando a água subiu... — Elena estava com a câmera na mão. Ele nem tinha visto ela sacar.
 
-— Eles não se afogaram.
+— Essa pessoa sobreviveu na água.
 
-— Eles **funcionaram**.
+— Vou guardar a foto e o código — disse Elena. — Não sabemos ainda de onde veio.
 
-O flash disparou. E, na fração de segundo em que o depósito inteiro ficou branco, Gabo lembrou do homem da Companhia de Águas tremendo no banco de trás do Cobalt, três dias antes, dizendo *aquilo foi operado*. A mesma sequência de comportas que empurrou o rejeito químico para dentro da cidade tinha inundado o subsolo da ala de rejeitados. Quem abriu aquelas comportas não soltou só veneno na água. Destrancou o porão.
+O flash disparou. E, na fração de segundo em que o depósito inteiro ficou branco, Gabo lembrou do homem da Companhia de Águas tremendo no banco de trás do Cobalt, três dias antes, dizendo *aquilo foi operado*. A simulação de Val ligava a sequência das comportas ao caminho da água pelo complexo. O prefixo podia ser outra ligação; não provava de onde essas pessoas tinham saído, nem quem operara as comportas.
 
 ---
 
@@ -137,7 +137,7 @@ A chuva batia na cara dele, gelada, e por um segundo pareceu limpa, o que era me
 
 ---
 
-Atrás deles, na entrada do depósito, as coisas subiram nos contêineres para ver o bote ir embora. Nenhuma entrou na água para perseguir. Ficaram lá em cima, as cinco restantes, uma delas sustentando o corpo de quem Gabo atingira,, e Gabo se apoiou no cotovelo bom e virou o corpo para olhar, porque um detetive olha, mesmo quando não convém. Elas não estavam olhando para o bote.
+Atrás deles, na entrada do depósito, as coisas subiram nos contêineres para ver o bote ir embora. Nenhuma entrou na água para perseguir. Ficaram lá em cima, as cinco restantes, uma delas sustentando o corpo de quem Gabo atingira, e Gabo se apoiou no cotovelo bom e virou o corpo para olhar, porque um detetive olha, mesmo quando não convém. Elas não estavam olhando para o bote.
 
 Estavam olhando para o norte, para o outro lado da baía, onde uma luz fraca queimava sozinha no meio da água preta: um gerador a diesel no telhado de uma delegacia, aceso a noite inteira, mantendo trezentas e sete pessoas vivas e quentes. O único lugar iluminado em quinze quilômetros.
 

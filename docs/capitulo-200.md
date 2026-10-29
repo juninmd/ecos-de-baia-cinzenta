@@ -51,7 +51,7 @@ Elias olhou de novo para a comporta. A chuva de garras no lado de fora cresceu; 
 
 Valéria se aproximou, pendurando o cyberdeck com as alças cruzadas no peito para liberar os braços e checando o cão da pistola com um clique seco.
 
-— Elias vai na frente, porque é o mais leve — ela disse, os LEDs azuis na franja iluminando as ferragens com um brilho de foco tático. — Você sobe logo atrás dele, Moretti. Com essa mão de ferro, você segura o que ele não conseguir segurar. Eu fecho a coluna.
+— Elias vai na frente, porque é o mais leve — ela disse, os LEDs azuis na franja iluminando as ferragens com um brilho de foco tático. — Você sobe logo atrás dele, Moretti. A guia vai nos proteger se um apoio falhar. Testamos cada trecho antes de passar o peso. Eu fecho a coluna.
 
 Antes que ele pudesse dar o primeiro passo, um som cavernoso quebrou o silêncio do poço.
 
@@ -61,12 +61,12 @@ Lá em cima, duzentos metros acima de nós, as raízes azuis do Jardim piscaram 
 
 Valéria ergueu a lanterna para o abismo superior. Os olhos prateados dela estreitaram-se, registrando a descida rápida de múltiplos pontos de calor.
 
-— Assinaturas térmicas descendentes — ela anunciou, a voz firme e sem pânico, carregada daquela determinação selvagem que nos mantinha vivos. — O ninho acordou no topo. Eles tão descendo pelas vigas mestras. Estimativa de tempo até a interceptação na nossa altura: doze minutos.
+— Assinaturas térmicas descendentes — ela anunciou, a voz firme e sem pânico, carregada daquela determinação selvagem que nos mantinha vivos. — O ninho acordou no topo. Eles tão descendo pelas vigas mestras. Não consigo estimar quando vão alcançar a gente.
 
-Doze minutos. Duzentos metros de escada enferrujada no breu de um poço tomado por fungos corporativos.
+Duzentos metros de escada enferrujada no breu de um poço tomado por fungos corporativos.
 
-Encarei o primeiro degrau de ferro fundido, cravei os dedos mecânicos na barra com toda a força hidráulica dos meus servos e puxei o primeiro impulso vertical.
+Encarei o primeiro degrau de ferro fundido, prendi a linha de segurança e usei a mão esquerda e as pernas para subir o primeiro degrau, mantendo o braço fraturado junto ao tronco.
 
-— Doze minutos é tempo de sobra pra quem tem pressa de viver, Valéria — rosnei, a dor no ombro virando puro combustível de subida. — Começa a escalar, Elias! Mexe essas pernas agora!
+— Vamos no ritmo que a escada permitir — disse a Elias. — Se um apoio ceder, avisa.
 
 Subimos para o abismo de aço, deixando para trás o chão das catacumbas enquanto a tempestade de garras e sombras começava a despencar lá de cima sobre as nossas cabeças.

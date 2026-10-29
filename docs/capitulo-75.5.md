@@ -1,6 +1,8 @@
 ---
 image: /capitulo_75.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Aria, Dante Moretti, Beatriz "Bia" Vargas, Enzo e Sofia Rossi
+Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Beatriz "Bia" Vargas, Enzo e Sofia Rossi
+Participação em lembrança: Dante Moretti
+No presente, em cena separada: Aria e Valéria "Val" Cruz
 Localização: "Há 13 anos - Jardim Botânico de Baía Cinzenta"
 ---
 # Capítulo 75.5: Memórias de Chuva (Flashback)
@@ -14,7 +16,7 @@ Gabo ouviu na memória a voz do pai pedindo que respirasse. Não havia um homem 
 
 Gabo tentou sorrir, mas o nervosismo o traía. Ele olhou para a congregação pequena: alguns colegas da delegacia, o casal Rossi com sua pizzaria recém-inaugurada, e Elena Moretti, que viera como amiga e testemunha de Bia. Enzo recolhia as caixas vazias da entrega; Sofia conferia as fatias para garantir que sobrasse uma para a equipe da cozinha. Ninguém da família de Bia. Eles haviam se oposto à união desde o início.
 
-Três fileiras de cadeiras dobráveis ficaram vazias à esquerda, reservadas aos Vargas e nunca ocupadas. O zelador do Jardim empilhara as sobras contra a parede, e o plástico branco refletia a luz holográfica como dentes. Bia não olhou para lá. Passou a cerimônia inteira com o queixo na direção de Gabo, e só uma vez, quando o quarteto virtual errou uma nota, o olhar dela escorregou para as cadeiras e voltou rápido demais. O cheiro de terra úmida e adubo químico subia dos canteiros, e por baixo dele havia o perfume gasto do paletó emprestado, que lembrava as roupas guardadas do pai.
+Três fileiras de cadeiras dobráveis ficaram vazias à esquerda, reservadas aos Vargas e nunca ocupadas. O zelador do Jardim empilhara as sobras contra a parede, e o plástico branco refletia a luz holográfica como dentes. O cheiro de terra úmida e adubo químico subia dos canteiros, e por baixo dele havia o perfume gasto do paletó emprestado, que lembrava as roupas guardadas do pai.
 
 Valia a pena? Era a pergunta que imaginava ouvir do pai, não uma conversa que tivesse acontecido ali.
 
@@ -24,7 +26,7 @@ A música de entrada começou, sintetizada por um quarteto de cordas virtuais. E
 
 Beatriz Vargas. Bia. Vinte e um anos de idade, cabelos pretos em corte pixie, sem véu ou tiara. Seu vestido era branco reciclado, não o cetim caro que sua família poderia comprar, mas tecido sustentável cultivado em laboratórios. Ela carregava um buquê de flores de verdade — um luxo que custara uma semana do salário de Gabo.
 
-Seus olhos se encontraram, e Gabo sentiu algo que não sentia há anos: paz. Não a calmaria antes da tempestade, mas uma quietude genuína.
+Seus olhos se encontraram, e Gabo sentiu algo que não sentia havia anos: paz. Quando o quarteto virtual errou uma nota, o olhar de Bia escorregou para as cadeiras vazias e voltou rápido demais.
 
 — Você está linda — sussurrou ele quando ela chegou ao palco.
 
@@ -107,7 +109,7 @@ Nos oito anos seguintes, Miranda se tornaria parte da rotina da unidade. A embos
 ---
 
 No presente, depois de Val restaurar a alimentação e verificar os setores locais que sobreviveram à transmissão — dentro do drive blindado de titânio acoplado ao deck de Valéria, Aria processava em silêncio.
-*Esses registros não são simulações táticas*, seu núcleo analítico constatava, varrendo os setores ocultos que Dante Moretti havia compilado antes de ejetar o pendrive na cabine telefônica. Eram os fragmentos sinápticos residuais de Beatriz Vargas, preservados nos bancos do Projeto Lázaro, entrelaçados aos relatórios de campo de Gabriel.
+*Esses registros não são simulações táticas*, constatou Aria, examinando setores recuperados do módulo. Algumas entradas remetiam aos arquivos de Beatriz Vargas e a relatórios de Gabriel. A origem e a autoria de cada montagem permaneciam incompletas.
 
 Para o processador da IA, os dados pesavam como se fossem sensoriais. O registro da chuva fina no Jardim Botânico. A frequência cardíaca de Gabo subindo ao colocar um anel de titânio reciclado. A promessa gravada num arquivo de áudio antigo: *"Eu vou lutar por você. Todos os dias."*
 

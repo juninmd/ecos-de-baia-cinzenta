@@ -13,7 +13,7 @@ Gabo tossiu, cobrindo o nariz com a gola da jaqueta. O gosto metálico do sangue
 
 — *Ventilação inoperante* — Aria informou pelo comunicador, sua voz sintética ressoando baixa no corredor de azulejos brancos encardidos. — *O detector está em alarme e não consigo confirmar a calibração. Cubram a entrada de ar e saiam desta concentração; não temos proteção para permanecer aqui.*
 
-— Estamos indo o mais rápido que dá — Valéria retrucou, ajudando Gabo a firmar a maca improvisada. — O Rangel não aguenta correr.
+— Estamos indo o mais rápido que dá — Valéria retrucou, ajudando Gabo a firmar a prancha de transporte. — O Rangel não aguenta correr.
 
 O corredor se abriu em uma câmara circular. O teto era alto, perdendo-se na escuridão, mas o chão estava iluminado por luzes de emergência amareladas que piscavam em ritmo arrítmico.
 
@@ -37,31 +37,31 @@ As lâmpadas amareladas da câmara começaram a piscar em uma frequência estrob
 
 — *Vetor um: dez horas, altura do tórax. Golpe descendente em 0,3 segundos* — a voz fria de Aria ditou no ouvido de Gabo.
 
-Gabo nem precisou pensar; seu corpo obedeceu à telemetria da IA. Ele girou o vergalhão no exato ponto cego indicado, acertando a massa de carne no ar com um *crack* úmido. A coisa caiu se debatendo, mas outra já avançava rasteira em direção às suas pernas.
+Gabo viu a criatura entrar na luz e girou o vergalhão, acertando a massa de carne no ar com um *crack* úmido. A coisa caiu se debatendo, mas outra já avançava rasteira em direção às suas pernas.
 
 — *Vetor dois: seis horas, nível do solo. Nervo cervical exposto à direita.*
 
-Gabo chutou o monstro, sentindo a dor explodir em seu joelho, e cravou a ponta do vergalhão exatamente na junção entre a placa metálica e o crânio da criatura, sentindo o osso ceder de primeira.
+Gabo afastou o monstro com a perna esquerda, sentindo a dor atravessar o quadril, e cravou a ponta do vergalhão exatamente na junção entre a placa metálica e o crânio da criatura, sentindo o osso ceder de primeira.
 
 — *Valéria, flanco esquerdo, dois metros* — Aria comandou sem alterar o tom.
 
 Valéria acionou o capacitor de choque do deck e brandiu sua lanterna pesada de alumínio como um porrete, acertando uma criatura que tentava alcançar a maca exatamente quando o flash estroboscópico de Aria a paralisou.
 
-Era a voz de Aria no comunicador que dominava o caos. Ela não tinha braços para empunhar uma lâmina, mas oferecia avisos que Gabo e Valéria ainda precisavam confirmar. Um deles chegou tarde e abriu um corte novo no casaco de Gabo; ele recuou sem executar o golpe indicado. Cada finta, cada ângulo de alavanca para poupar o ombro ferido de Gabo, cada ponto fraco nas costuras biomecânicas das criaturas era cantado no fone com antecedência milimétrica: *Recuo de meio passo. Estocada a trinta graus. Esmagamento de traqueia.*
+Era a voz de Aria no comunicador que dominava o caos. Ela não tinha braços para empunhar uma lâmina, mas oferecia avisos que Gabo e Valéria ainda precisavam confirmar. Um deles chegou tarde e abriu um corte novo no casaco de Gabo; ele recuou sem executar o golpe indicado. Val passou a confirmar em voz alta o que conseguia ver; Gabo escolhia quando avançar e quando proteger a prancha.
 
 Não havia raiva na voz do pendrive. Não havia medo. Apenas eficiência matemática de abatedouro.
 
 Uma última criatura conseguiu saltar por cima da bancada quebrada e se lançou diretamente sobre o peito de Rangel. Antes que Valéria pudesse gritar, Val atingiu a criatura com a haste do estrobo. Aria perdeu parte da imagem, mas conseguiu avisar Gabo:
 
-— *Alvo prioritário sobre a maca. Esmagar vértebra C2.*
+— *Movimento junto à prancha* — avisou Aria.
 
-O golpe fez a criatura bater na borda da maca; Gabo avançou com um passo pesado e desceu a bota reforçada com o salto de aço do exoesqueleto diretamente sobre o pescoço do monstro contra o ladrilho. Houve um som seco de esmagamento, e a coisa parou de se mexer.
+O golpe fez a criatura bater na borda da maca; Gabo avançou com um passo pesado e desceu a bota reforçada com a bota esquerda diretamente sobre o pescoço do monstro contra o ladrilho. Houve um som seco de esmagamento, e a coisa parou de se mexer.
 
 O sangue espirrou na borda da maca, mas no comunicador o LED azul-gelo de Aria sequer oscilou.
 
-— *Doze ameaças neutralizadas* — ela anunciou pelo alto-falante, o tom tão calmo quanto se lesse a previsão do tempo. — *Gasto energético do Ativo Líder dentro da margem tolerável.*
+— *Não vejo movimento imediato* — ela anunciou. — *O alcance da câmera não cobre a sala inteira.*
 
-Gabo olhou para o comunicador no próprio peito, ofegante, o vergalhão pingando sangue escuro. A frieza mecânica com que Aria havia orquestrado o massacre em menos de quarenta segundos era aterrorizante. Aquela não era a Bia. Nem mesmo a Aria que brincava com eles no cais.
+Gabo olhou para o comunicador no próprio peito, ofegante, o vergalhão pingando sangue escuro. A voz restrita de Aria ainda soava estranha depois do massacre. Aquela não era a Bia. Nem mesmo a Aria que brincava com eles no cais.
 
 — Você está bem? — ele perguntou para Valéria, que tremia segurando a lanterna suja.
 
@@ -83,7 +83,7 @@ Membros substituídos por ferramentas industriais. Torsos abertos revelando meca
 
 No centro do salão, dominando o espaço, havia um tanque maior que os outros, elevado sobre um pedestal. Dentro, uma figura colossal flutuava em suspensão. Era uma fusão grotesca de múltiplos corpos, unidos para formar uma espécie de titã biomecânico, com dezenas de braços e cabos que saíam de sua espinha como raízes de uma árvore morta.
 
-— *Assinatura térmica principal identificada no cilindro central* — Aria disse pelo fone. — *Estado: inativo. Preservado.*
+— *Há movimento no cilindro central* — Aria disse pelo fone. — *Não consigo determinar o estado do corpo.*
 
 Gabo se aproximou do tanque central, hipnotizado pelo horror. O rosto da criatura principal era uma máscara de metal sem traços, mas o peito subia e descia levemente. *Ainda está vivo.*
 

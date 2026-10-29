@@ -7,29 +7,27 @@ Personagens Presentes: Gabo, Valéria, Elias, Dra. Elara Vance, Elena, Duarte
 
 # Capítulo 227: O Estagiário
 
-Passamos a tarde conferindo o índice e uma amostra de originais. Uma acusação dessas não se faz com uma pasta; quarenta e sete mil fichas também não se verificam entre o almoço e o pôr do sol.
+Passamos a tarde conferindo o índice e uma amostra de originais. Uma acusação dessas não se faz com uma pasta; quarenta e sete mil fichas também não se verificam entre o almoço e o pôr do sol. Elias montou uma linha na mesa de carga: abria a caixa, tirava a ficha, lia a linha do segundo aval em voz alta, e passava adiante. Elena anotava. A Dra. Vance conferia a numeração de contrato contra o registro-mestre que ela carregava na memória, e marcou as divergências para uma segunda conferência. Valéria contava. Elena pediu a Duarte Falcão, operador da rotativa, que rodasse a capa enquanto ela compunha a nota; ele cobriu o interruptor com a mão engraxada. — Se a gente publicar só o total, vão entender que vocês conferiram cada ficha. Ponham os trezentos e a ressalva na página. A prensa espera; quem receber isso precisa saber o que foi verificado. Elena retomou a caneta e escreveu a ressalva antes de liberar o interruptor.
 
-Elias montou uma linha na mesa de carga: abria a caixa, tirava a ficha, lia a linha do segundo aval em voz alta, e passava adiante. Elena anotava. A Dra. Vance conferia a numeração de contrato contra o registro-mestre que ela carregava na memória, e marcou as divergências para uma segunda conferência. Valéria contava. Elena pediu a Duarte Falcão, operador da rotativa, que rodasse a capa enquanto ela compunha a nota; ele cobriu o interruptor com a mão engraxada. — Se a gente publicar só o total, vão entender que vocês conferiram cada ficha. Ponham os trezentos e a ressalva na página. A prensa espera; quem receber isso precisa saber o que foi verificado. Elena retomou a caneta e escreveu a ressalva antes de liberar o interruptor.
-
-— Ano vinte e nove: quatrocentos e doze fichas. Rubrica presente em quatrocentos e doze.
+— Ano vinte e nove: quatrocentas e doze admissões no índice, todas remetendo ao segundo aval de Krell.
 
 Uma hora depois:
 
-— Ano trinta e quatro: mil e oitenta e nove fichas. Rubrica presente em mil e oitenta e nove.
+— Ano trinta e quatro: mil e oitenta e nove no índice, com o mesmo aval atribuído.
 
 Três horas depois, com o sol descendo do outro lado do galpão:
 
 — Total conferido: **quarenta e sete mil, trezentas e onze admissões marcadas como sem consentimento no índice**, entre 2029 e 2056. — Ela levantou o rosto. — No registro-mestre, todas remetem ao segundo aval de Krell. Na amostra de trezentos originais que abrimos, a rubrica está presente. Isso não autentica cada assinatura nem verifica todos os contratos; vamos publicar a distinção.
 
-O galpão ficou quieto. Quarenta e sete mil pessoas. Não é um número que a cabeça segura. A cabeça segura uma pessoa, segura talvez uma família, e depois desiste e vira estatística. Foi isso que eles compraram: a nossa incapacidade de sentir sessenta anos de uma vez.
+O galpão ficou quieto. Quarenta e sete mil admissões registradas. Não é um número que a cabeça segura. A cabeça segura uma pessoa, segura talvez uma família, e depois desiste e vira estatística. Foi isso que eles compraram: a nossa incapacidade de sentir décadas de uma vez.
 
-— Ele assinou todas, — falei.
+— O índice diz que ele assinou todas, — falei.
 
-— Ele assinou todas, — a Vance confirmou.
+— Diz. A amostra confirma trezentas rubricas presentes, não a autenticidade de cada uma — a Vance corrigiu.
 
-— Nestes vinte e sete anos, nem uma vez ele delegou. Nem uma vez ele tirou férias. Nem uma vez ele deixou outro carimbar por ele.
+— E se a gente encontrar delegações fora da amostra?
 
-— Não.
+— Teremos que publicar isso também.
 
 Puxei uma banqueta e sentei, porque a perna avisou que ia acabar sentando de qualquer jeito.
 
@@ -37,7 +35,7 @@ Puxei uma banqueta e sentei, porque a perna avisou que ia acabar sentando de qua
 
 E a Dra. Elara Vance, que passou décadas auditando aquilo, me deu a única resposta que faz sentido.
 
-— Porque ele não delega o que ele gosta.
+— Suspeito que não delegasse o que gostava. Mas a amostra não resolve essa pergunta.
 
 ---
 
@@ -87,11 +85,11 @@ Olhei para a rubrica pequena e firme no canto do papel.
 
 — E ele nunca apareceu, — disse Elena, baixo.
 
-— Ele nunca precisou. — Ri. — Ele conseguiu manter boa parte das ordens longe das próprias mãos. Nem uma vez. Nem uma vez em vinte e sete anos, ele levantou de uma cadeira para matar alguém. Ele carimbava.
+— Ele conseguiu manter boa parte das ordens longe das próprias mãos. — Ri. — Não preciso saber se ele puxou um gatilho para cobrar o que autorizou sentado naquela cadeira.
 
 Bati o dedo na ficha.
 
-— Mas ele carimbava **todas**. Ele não deixava ninguém carimbar por ele. Ele **gostava**.
+— O índice põe o nome dele em todas. Quero saber quantas dessas assinaturas ele fez e quantas alguém pôs ali por ele.
 
 ---
 
@@ -107,9 +105,7 @@ Elias levantou a mão, meio sem jeito, e depois percebeu que ninguém tinha pedi
 
 — Eu também, — ele murmurou.
 
-Olhei para os quatro. A jornalista que passou meses mantendo a rede fora da cúpula montando prensa. A auditora que preservou décadas de registros e passara os últimos meses dentro de um vidro. O técnico de manutenção que não apertou o botão de subir. E a mulher que continuava ali, mesmo quando eu não sabia reconhecer suas respostas, com o módulo da própria humanidade guardado numa caixa a três metros dali, ainda por usar.
-
-Era um exército ridículo. Era o melhor exército que essa cidade já teve.
+Olhei para os quatro. A jornalista que passou meses mantendo a rede fora da cúpula montando prensa. A auditora que preservou décadas de registros e passara os últimos meses dentro de um vidro. O técnico de manutenção que não apertou o botão de subir. E Valéria, que continuava ali mesmo quando eu não sabia reconhecer suas respostas, com o módulo de restauração afetiva guardado numa caixa a três metros dali. Ela ainda decidiria se queria usá-lo. Era um exército ridículo. Era o melhor exército que essa cidade já teve.
 
 — Elena, — falei. — Quanto tempo até a primeira tiragem?
 
@@ -121,7 +117,11 @@ Ela olhou o relógio de pulso — analógico, corda manual, claro.
 
 — Já é o plano.
 
-— E põe a rubrica na capa. — Peguei a ficha e entreguei para ela. — Grande. Do tamanho da página. Sem manchete, sem foto, sem texto. Só a assinatura dele e o número.
+— E põe a rubrica na capa. — Peguei a ficha e entreguei para ela. — Grande, com o número.
+
+— E com a ressalva — disse Elena. — O índice aponta quarenta e sete mil, trezentas e onze admissões. Abrimos trezentos originais; as rubricas estão presentes, mas ainda não foram autenticadas. Quem vir a capa precisa saber a diferença.
+
+— Põe tudo.
 
 Elena olhou para o papel na mão.
 

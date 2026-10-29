@@ -9,7 +9,7 @@ Personagens Presentes: "Gabo Moretti, Valéria Cruz, Inspetor Rangel, Aria (Iner
 
 A chuva não era mais apenas água. Era um véu frio que lavava o pecado da cidade, transformando a fuligem em lama negra sob suas botas.
 
-Gabo ajustou o peso de Rangel sobre seu ombro. O Kevlar ensanguentado do inspetor estava escorregadio. Do outro lado, Valéria ofegava, o cabelo colado no rosto, lutando para sustentar o braço direito do policial enquanto o pendrive inerte da Aria ia guardado no bolso blindado do sobretudo de Gabo. Eles eram um cortejo fúnebre recusando-se a aceitar o pior, arrastando um homem ferido pela avenida deserta.
+Gabo ajustou o peso de Rangel sobre seu ombro. O Kevlar ensanguentado do inspetor estava escorregadio. Do outro lado, Valéria ofegava, o cabelo colado no rosto, lutando para sustentar o braço direito do policial enquanto o pendrive inerte de Aria seguia no estojo de ferramentas preso à mochila dela. Eles eram um cortejo fúnebre recusando-se a aceitar o pior, arrastando um homem ferido pela avenida deserta.
 
 Mas o que realmente pesava não era apenas o corpo de Rangel. Era o silêncio.
 
@@ -43,7 +43,7 @@ Ele abriu os olhos. Focou.
 
 — Precisamos de rodas.
 
-— Nada funciona — Valéria chutou um pedaço de destroço. — Os carros elétricos... o firmware deles fritou com a queda da rede. Estão todos bloqueados.
+— Os carros que vi estão sem resposta — disse Valéria. — Alguns podem depender da rede ou ter ficado sem carga. Não temos tempo de testar todos.
 
 — Nem todos — Gabo caminhou até a grade de um pátio de manutenção municipal do outro lado da rua. O portão eletrônico estava morto, entreaberto.
 
@@ -67,7 +67,7 @@ Gabo sorriu. Um sorriso triste, de canto de boca.
 
 — Valéria, me ajuda a colocar o Rangel na cabine.
 
-O transporte foi brutal e rápido. Valéria e Gabo ergueram o inspetor ferido para o banco do carona; Rangel tombou contra o encosto, segurando o revólver no colo com os olhos semicerrados, enquanto Valéria se espremia no assento central e espetava o pendrive chamuscado da Aria no seu deck para monitorar a temperatura do núcleo.
+O transporte foi brutal e rápido. Valéria e Gabo ergueram o inspetor ferido para o banco do carona; Rangel tombou contra o encosto, segurando o revólver no colo com os olhos semicerrados, enquanto Valéria se espremia no assento central, mantendo o estojo de Aria firme na mochila.
 
 Gabo assumiu o volante. A vibração do motor percorria seus braços, uma sensação tátil, real, mecânica. Sem assistência de direção, sem navegação por satélite, sem limitador de velocidade.
 
@@ -81,7 +81,7 @@ Gabo olhou pelo retrovisor, vendo apenas a chuva e a noite engolindo o mundo que
 
 — Para o único lugar onde o silêncio não é novidade — disse ele, girando o volante pesado. — O Fliperama. Kiko deve ter suprimentos médicos. E energia independente.
 
-Enquanto dirigiam, Gabo olhou para as janelas apagadas dos arranha-céus residenciais. Milhares de pessoas lá dentro, no escuro, sem saber que o "Deus" que controlava suas cafeteiras e suas carreiras havia caído.
+Enquanto dirigiam, Gabo olhou para as janelas apagadas dos arranha-céus residenciais. Milhares de pessoas lá dentro, no escuro, sem saber que o que provocara o apagão ou quanto tempo ele duraria.
 
 O medo viria pela manhã. O caos viria com o sol.
 

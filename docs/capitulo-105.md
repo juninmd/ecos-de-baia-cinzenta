@@ -14,13 +14,13 @@ Ao lado dele, Elena segurava a escopeta no colo, o cano apontado para a porta. E
 
 Quando pararam em frente à antiga Biblioteca Municipal, agora convertida em Delegacia Central, a alvorada já havia dado lugar a uma manhã cinzenta e úmida.
 
-— Chegamos — disse Gabo, a voz rouca. Ele olhou para o banco do passageiro, onde "Caronte", sua velha escopeta de cano serrado, repousava. Decidiu deixá-la lá. Não precisava de chumbo para entrar na sua própria casa.
+— Chegamos — disse Gabo, a voz rouca. A *Caronte* continuava trancada no porta-malas. Ele decidiu deixá-la ali; não precisava de chumbo para entrar na própria casa.
 
 Ele tentou sair do carro, mas a perna direita falhou. A velha órtese que ele improvisara com peças de sucata rangeu e travou, enviando uma pontada de dor pela espinha que fez a cicatriz em forma de raiz negra em seu braço — a marca da infecção Gênesis — latejar em simpatia. Ele praguejou, batendo no suporte de metal.
 
 Antes que Elena pudesse se mover, a porta traseira se abriu. Dante saiu. Ele caminhou até a porta do motorista e, com uma gentileza perturbadora, ofereceu a mão a Gabo.
 
-— Seu equipamento está com uma eficiência de 42%, Gabriel — disse Dante. — A haste passiva do joelho está visivelmente desalinhada. Posso medir antes que force outra vez.
+— A haste passiva do joelho está visivelmente desalinhada, Gabriel — disse Dante. — Posso medir antes que force outra vez.
 
 Gabo olhou para a mão estendida. A mão de seu pai, mas sem as cicatrizes, sem as manchas de nicotina.
 
@@ -34,7 +34,7 @@ Dante não parou. Ele continuou subindo, os passos leves e precisos.
 
 — Parado! — o guarda engatilhou a arma.
 
-Dante parou. Ele levantou o rosto para a câmera de segurança acima da entrada. Uma câmera antiga, analógica, que estava desligada há meses desde o colapso da rede elétrica.
+Dante parou. A câmera de segurança acima da entrada estava ligada ao painel alimentado pelo gerador da biblioteca. Ele aproximou o contato que usara no poste do cabo de serviço exposto junto à porta.
 
 A lente da câmera girou. Um zumbido elétrico percorreu o ar. A luz vermelha de gravação acendeu.
 

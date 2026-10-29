@@ -12,7 +12,7 @@ Gabo sentiu seus pulmões queimarem. Ele estava submerso, preso aos escombros de
 
 *Respire*, a voz de seu pai ecoou pelo transdutor do comunicador, clara como se estivesse ao seu lado. *Não é a sua hora.*
 
-Gabo fechou os dedos da mão esquerda em torno do pendrive de titânio da Aria — recém-arrancado do pedestal —, travou-o no slot blindado do colete e usou o braço para se impulsionar. Suas pernas, pesadas pelas órteses molhadas e pela dor lancinante dos ossos recém-colados, eram um fardo. A rigidez era uma sentença de morte debaixo d'água. Mas então, algo agarrou seu colete tático.
+Gabo fechou os dedos da mão esquerda em torno do pendrive de titânio da Aria — recém-arrancado do pedestal —, travou-o no slot blindado do colete e usou o braço para se impulsionar. Suas pernas, pesadas pelas órteses molhadas e pela lesão na coluna, eram um fardo. A rigidez era uma sentença de morte debaixo d'água. Mas então, algo agarrou seu colete tático.
 
 Valéria.
 
@@ -20,7 +20,7 @@ Usava um dos aparelhos autônomos de manutenção que retirara do armário. O se
 
 O ar comprimido entrou com gosto de borracha e vida.
 
-Debaixo d'água o frio não avisa. Entra pelas costuras do colete e depois pelas costuras do corpo. Gabo sentiu os dentes doerem antes de sentir a perna, e a perna chegou depois, um peso morto pendurado nele, puxando para o fundo com a paciência de quem tem toda a eternidade. O líquido refrigerante tinha gosto de moeda na boca. Um crachá da Aeterna passou girando na corrente, com a foto de um homem que ele nunca ia interrogar e o lacre ainda preso no plástico.
+Debaixo d'água o frio não avisa. Entra pelas costuras do colete e depois pelas costuras do corpo. Gabo sentiu os dentes doerem antes de sentir a perna, e a perna chegou depois, um peso morto pendurado nele, puxando para o fundo com a paciência de quem tem toda a eternidade. A água de retorno tinha gosto de moeda na boca. Um crachá da Aeterna passou girando na corrente, com a foto de um homem que ele nunca ia interrogar e o lacre ainda preso no plástico.
 
 Val apontou para cima. A luz da superfície estava ficando distante. O nível da água subia rápido demais, preenchendo a cúpula da represa.
 
@@ -47,7 +47,7 @@ Alcançaram a plataforma de saída junto do canal externo da represa. A chuva ca
 
 O robô os depositou na margem de concreto e depois afundou, imóvel.
 
-Gabo ficou olhando a máquina descer até o vermelho dos olhos virar um ponto e sumir. Não era gratidão o que ele sentia. Era o contrário de gratidão: a certeza incômoda de que alguma coisa lá dentro tinha escolhido não matar, e de que ia cobrar por essa escolha depois.
+Gabo ficou olhando a máquina descer até as luzes virarem um ponto e sumirem. Val tinha usado uma autorização que eles mal compreendiam para tirar os dois dali. Ele queria saber quem mais podia usá-la.
 
 Gabo arrancou a máscara, tossindo água e bile. Val caiu ao lado dele, tremendo de frio e choque.
 

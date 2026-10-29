@@ -21,7 +21,7 @@ Elias ajoelhou-se ao lado dela, iluminando as placas de identificação rebitada
 
 — 'Companhia Construtora e Hidráulica de Baía Cinzenta — Eixo de Sondagem Zero', — leu ele, a voz carregada de assombro. — Abriram uma sondagem para estudar a rocha antes de assentar os pilares. A placa não diz quando ampliaram o poço. Isso aqui desce quatrocentos metros em queda livre até o leito rochoso.
 
-— E como a gente desce quatrocentos metros sem arrebentar no fundo? — perguntei, apoiando a *Caronte* na soleira e checando os cartuchos de grosso calibre no cinto.
+— E como a gente desce quatrocentos metros sem arrebentar no fundo? — perguntei, apoiando a *Caronte* na soleira e confirmando os dois cartuchos que ainda estavam na câmara.
 
 — Tem uma gaiola de carga industrial suspensa por cabos de aço trançado de duas polegadas, — Valéria explicou, puxando uma alavanca de liberação manual com um estalo seco. — O motor de tração é alimentado por um contrapeso de chumbo e a linha geotérmica de serviço. A boa notícia é que o sistema não depende da rede elétrica corrompida da cidade.
 

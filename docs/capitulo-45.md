@@ -14,7 +14,7 @@ A pressão ali é de quatrocentas atmosferas: quatrocentas vezes a mão do mundo
 
 Fora do casco, nada. Nem peixe, nem corrente, nem luz. Lodo cinza cobrindo tudo, caindo devagar como neve que leva mil anos para acumular um centímetro.
 
-E dentro, no escuro absoluto de um corredor de comando que ninguém pisava desde desde a entrada de Arthur em 2029, uma luz vermelha começou a piscar.
+E dentro, no escuro absoluto de um corredor de comando que ninguém pisava desde a entrada de Arthur em 2029, uma luz vermelha começou a piscar.
 
 ---
 
@@ -40,7 +40,7 @@ A Arca não sabia disso. A Arca não podia saber nada. A Arca só sabia que o si
 
 A câmara de estase levou onze minutos para abrir.
 
-Devia levar quarenta segundos. Os selos hidráulicos tinham perdido pressão em algum ponto das últimos vinte e sete anos e o mecanismo teve que forçar três vezes, com um rangido de metal contra sal cristalizado, antes de ceder.
+Devia levar quarenta segundos. Os selos hidráulicos tinham perdido pressão em algum ponto dos últimos vinte e sete anos e o mecanismo teve que forçar três vezes, com um rangido de metal contra sal cristalizado, antes de ceder.
 
 O líquido drenou. Cheirava a conservante, a cobre e a algo levemente adocicado, como fruta guardada tempo demais.
 
@@ -68,7 +68,7 @@ No terminal, ativou a recepção dos relés costeiros de contingência. A linha 
 
 E as telas mostraram Baía Cinzenta.
 
-A enchente. Os diques rompidos. Os Níveis Baixos submersos, os prédios com água até o terceiro andar, os pontos de calor dos incêndios que a água não tinha alcançado, a cidade inteira transformada num arquipélago de concreto.
+A enchente. A água cobrindo os diques. Os Níveis Baixos submersos, os prédios com água até o terceiro andar, os pontos de calor dos incêndios que a água não tinha alcançado, a cidade inteira transformada num arquipélago de concreto.
 
 Arthur Vance olhou para aquilo por um longo tempo, com as mãos apoiadas no console, e o rosto dele — bonito, simétrico, com implantes de ouro subdérmicos formando uma coroa fina na testa — se abriu num sorriso genuíno de alívio.
 
@@ -121,7 +121,7 @@ E dezoito não abriram, porque não havia mais o que abrir do outro lado — só
 
 Das que saíram, três pararam antes de subir cem metros.
 
-Arthur Vance viu a contagem no monitor principal — **UNIDADES EM TRÂNSITO: 08** — e não achou estranho, e não abriu o inventário que teria mostrado trinta e oito. Preferiu lembrar de "uma frota". Sessenta anos de estase fazem isso: guardam a ambição intacta e comem os números.
+Arthur Vance viu a contagem no monitor principal — **UNIDADES EM TRÂNSITO: 08** — e não achou estranho, e não abriu o inventário que teria mostrado trinta e oito. Preferiu lembrar de "uma frota". Vinte e sete anos de estase não explicavam a escolha de ignorar o inventário. Arthur preferia a frota que lembrava à que tinha.
 
 Ele olhou o próprio reflexo no vidro escuro do console. A coroa de ouro sob a pele da testa captou a luz vermelha do alarme e brilhou.
 

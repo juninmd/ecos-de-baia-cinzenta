@@ -82,11 +82,11 @@ A Dra. Nise estava com dois instrumentos nas mãos, e os dois estavam enlouqueci
 
 — É o quê?
 
-— Informação. — Nise baixou o instrumento. — Ela está pegando a energia do sol e montando estrutura ordenada. Organização não prova consciência. Estamos vendo uma estrutura funcionar; não sabemos o que ela vive por dentro.
+— Não sei. — Nise baixou o instrumento. — A estrutura parece organizada, mas não medi o que produz nem quanto da luz usa. Organização não prova consciência.
 
 — A senhora está me dizendo que aquilo está **pensando**.
 
-— Eu estou dizendo que aquilo está fabricando algo com que pensar. — Ela olhou para ele. — E que às doze horas de um dia de céu limpo ela tem, para trabalhar, mil watts por metro quadrado vezes a área de um quarteirão.
+— Estou dizendo que pode estar usando luz. Para saber se processa alguma coisa, precisamos de medições que estes aparelhos não estão conseguindo fazer.
 
 ---
 

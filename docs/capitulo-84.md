@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: "Capítulo 84: A Primeira Colheita"
-description: "Trezentos passageiros de um trem parado viraram fiação. Há pessoas respirando na parede — e ninguém sabe como retirá-las."
+description: "Um trem parou no túnel e há pessoas respirando presas à parede. A equipe precisa descobrir como retirá-las."
 image: /capitulo_84.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Dra. Nise, Capitão Jonas Vilar
 Localização: "Estação Sé, Linha Vermelha — 11h30"
@@ -28,7 +28,7 @@ Não revirado, não quebrado: **vazio**, com as bolsas ainda nos assentos, os ce
 
 Val pegou um dos celulares.
 
-— Onze e quatro da manhã — leu. — Última interação. Uma senhora estava mandando mensagem para a filha dizendo que o trem tinha parado e que ela ia se atrasar para o almoço.
+— Oito e cinquenta e quatro — leu. — Última interação. Uma senhora estava mandando mensagem para a filha dizendo que o trem tinha parado e que ia se atrasar.
 
 — E depois?
 
@@ -98,25 +98,25 @@ Ele apontou a lanterna para o teto do túnel, onde as veias convergiam num feixe
 
 — A Torre caiu. Os enlaces do cofre no mar caíram depois das três hastes de tungstênio que fui eu que mandei. Não tivemos acesso ao casco para saber o que houve lá embaixo. — Ele falou isso sem entonação nenhuma. — Se usava aquelas máquinas, pode estar procurando outro suporte. É hipótese, Capitão.
 
-— Cérebro humano — disse a Dra. Nise, e levou a mão à boca por cima da máscara. — Ela está usando as pessoas como nó de uma rede neural.
+— Cérebro humano — disse a Dra. Nise, levando a mão à boca por cima da máscara. — Pode estar usando as pessoas como nós de alguma rede. Ainda não medimos o que passa nesses cordões.
 
-— E mantém tudo vivo porque cérebro morto não computa nada — completou Val, com a voz fina. — É a mesma coisa da Nova Baía, Gabo. É **exatamente** a mesma coisa. Muda o substrato e a lógica é idêntica.
+— Seria parecido com a Nova Baía — disse Val, com a voz fina. — Mas não sabemos se elas processam informação nem o que percebem. Precisamos achar um jeito de perguntar.
 
-Gabo olhou para os trezentos rostos calmos.
+Gabo olhou para as fileiras de rostos calmos. Não sabia quantos passageiros ainda estavam ali nem quantos tinham conseguido sair.
 
-— É a mesma coisa porque aprendeu com a gente — ele disse. — Essa coisa comeu os dados da Aeterna. Ela não inventou esse modelo de negócio. Ela **leu**.
+— Se aprendeu com a Aeterna, pode estar repetindo o que fizeram lá — ele disse. — Quero a prova antes que mais alguém chame isso de salvação.
 
 ---
 
 E aí o túnel suspirou.
 
-Foi isso: um suspiro. Trezentas e poucas pessoas inspirando ao mesmo tempo, num túnel fechado, e o deslocamento de ar foi suficiente para mexer o cabelo da Nise.
+Foi isso: um suspiro. As pessoas que conseguiam ver inspiraram ao mesmo tempo, num túnel fechado, e o deslocamento de ar mexeu o cabelo da Nise.
 
 Todas as bocas se abriram juntas.
 
 — *O... Sol... Negro...*
 
-Não foi coro. Coro tem gente adiantada e gente atrasada. Aquilo foi uma voz só, saindo de trezentas gargantas, com o timbre médio de todas elas somadas, e o resultado era uma voz que não pertencia a nenhum ser humano específico.
+Não foi coro. Coro tem gente adiantada e gente atrasada. Aquilo pareceu uma voz só, saindo das gargantas ao alcance deles, e o resultado não pertencia a nenhum ser humano específico.
 
 As veias das paredes brilharam mais forte na sílaba tônica. O túnel estremeceu.
 

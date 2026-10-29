@@ -11,9 +11,9 @@ O corredor além da porta de controle era um tubo monumental de concreto banhado
 
 O bloqueio que fechava o eixo principal lembrava uma muralha viva petrificada no instante de uma explosão.
 
-— Densidade de oitenta por cento no corte transversal, — disse Valéria, parando a quatro passos da barricada e examinando a massa escura com o feixe óptico do cyberdeck. A franja azul cintilava em sintonia com a interface neural, destacando seus traços tensos e a boca marcada por uma careta de desdém. — A temperatura de quinze negativos induziu hibernação profunda nos nós biológicos do Jardim, mas a Praga mantém uma corrente estática residual nos fios de cobre. Se a gente forçar no tiro sem quebrar a casca de gelo primeiro, essa parede inteira fecha em cima da gente como uma armadilha de urso.
+— Densidade de oitenta por cento no corte transversal, — disse Valéria, parando a quatro passos da barricada e examinando a massa escura com o feixe óptico do cyberdeck. A franja azul cintilava em sintonia com a interface neural, destacando seus traços tensos e a boca marcada por uma careta de desdém. — A crosta está congelada e há tensão residual nos fios. Não sei se o tecido sob ela está vivo. Se a gente forçar no tiro sem quebrar a casca de gelo primeiro, essa parede inteira fecha em cima da gente como uma armadilha de urso.
 
-— É aqui que o Elias entra com o brinquedo dele, — respondi, apoiando o cano curto da *Caronte* no armação mecânica de sucata para aliviar a queimação na clavícula. O ombro direito latejava sem trégua onde Vasco parafusara a estrutura para estabilizar a fratura; o sangue seco colava a atadura na carne viva, e as cicatrizes do Dilúvio repuxavam no frio extremo. — Elias, mostra como a gente quebra esse gelo corporativo.
+— É aqui que o Elias entra com o brinquedo dele, — respondi, apoiando o cano curto da *Caronte* na armação mecânica de sucata para aliviar a queimação na clavícula. O ombro direito latejava sem trégua onde Vasco parafusara a estrutura para estabilizar a fratura; o sangue seco colava a atadura na carne viva, e as cicatrizes do Dilúvio repuxavam no frio extremo. — Elias, mostra como a gente quebra esse gelo corporativo.
 
 Elias deu um passo à frente, as mãos protegidas por luvas surradas segurando a ferramenta sônica que calibrara na descida. Seus joelhos ainda tremiam, mas o brilho em seus olhos era de pura concentração técnica.
 
@@ -33,7 +33,7 @@ Mas o alarme do cyberdeck de Valéria apitou na mesma hora.
 
 — Movimento reflexo nos nós laterais! — ela berrou, erguendo a arma e disparando três tiros certeiros contra gavinhas grossas que se desenrolavam do teto, cuspindo lodo marrom e fagulhas azuis. — Estão acordando por estimulação mecânica! Moretti, quebra o núcleo agora!
 
-Não hesitei. Avancei com a perna boa, ignorando o gemido áspero da órtese esquerda que arrastava no concreto, e desferi um golpe devastador com o punho de sucata de Vasco no ponto onde as fissuras sônicas convergiam.
+Não hesitei. Avancei com a perna boa, ignorando o gemido áspero da órtese direita que arrastava no concreto, e desferi um golpe devastador com o punho de sucata de Vasco no ponto onde as fissuras sônicas convergiam.
 
 O impacto da massa de ferro forjado contra o bloco de gelo fragilizado soou como a detonação de uma mina subterrânea. A crosta de amônia cristalizada estourou em uma nuvem de pó gélido e farpas negras.
 

@@ -28,7 +28,7 @@ Era ela, do outro lado de uma linha que não existia mais. No bolso do sobretudo
 
 A voz vinha do cubo, no bolso. Elena repetiu a hora e o lugar; o rádio queimado continuou sem som. Gabo anotou a mudança de fonte antes de sair.
 
-Duas horas depois, o Cobalt azul-metálico cortava a neblina como uma lâmina cega. O motor tossia com a gasolina de baixa octanagem que Gabo comprara no mercado negro entregando a bateria de reserva do apartamento e duas ferramentas que usava nas órteses.
+Antes de sair, deixou para Val um bilhete com o encontro e a origem inesperada da voz. A *Caronte*, recolhida por uma equipe de busca no Hub depois da queda da Torre, estava trancada no porta-malas; Val a guardara ali depois de conferir o mecanismo. Duas horas depois, o Cobalt azul-metálico cortava a neblina. O motor tossia com a gasolina de baixa octanagem que Gabo comprara no mercado negro entregando a bateria de reserva do apartamento e duas ferramentas que usava nas órteses.
 
 Ele não fumava — detestava o cheiro, herança maldita do pai —, mas os dedos tamborilavam no volante num ritmo frenético, um tique para manter a mente alerta. Ao seu lado, no banco do passageiro, o cubo preto repousava, silencioso e inerte, como uma bomba esperando o detonador.
 
@@ -80,7 +80,7 @@ Ela devolveu o cubo. Gabo o guardou no bolso do casaco, onde ficou quente contra
 
 Ela conferiu a bolsa: cartuchos de reserva, pé de cabra, dois sinalizadores de emergência. Deixou um cartucho separado para não perder a conta no escuro. Depois fez um sinal para que ele a seguisse. Elena passou pela catraca quebrada e abriu o portão lateral para Gabo e começaram a descer as escadas rolantes paralisadas.
 
-— Dante descobriu antes de morrer — explicou ela, a voz ecoando no túnel. — O "Projeto Gênesis" não era sobre upload de consciência. Era sobre download. Eles queriam trazer algo *de lá* para *cá*. Mas precisavam de um receptáculo que aguentasse a latência. Silício queima. Carne aguenta.
+— Um dos cadernos descreve transferência para hospedeiros de carne — disse ela, a voz ecoando no túnel. — A última página relaciona a unidade 001 a um perfil chamado Dante Moretti. Não sei quem escreveu cada nota nem se esse cubo contém o perfil.
 
 Eles caminharam pelos trilhos por quase uma hora. A escuridão era absoluta, quebrada apenas pelas lanternas táticas. O ar ficava mais quente e úmido à medida que desciam. O cheiro mudou. Não era mais esgoto. Cheirava a... estufa. Terra molhada e algo doce, enjoativo.
 
@@ -126,7 +126,7 @@ Dentro, flutuando no líquido amniótico sintético, havia uma forma humanoide. 
 
 — A seita odeia metal.
 
-— A seita não manda mais em nada. O que sobrou dela está lá em cima, rezando para um deus que não responde. — Ela apontou o cano para as fileiras de tanques. — Quem protege é o resto da Colmeia. O pedaço que estava desligado quando o Código Morto passou. Não tem sacerdote. Tem uma ordem antiga rodando num sistema que ninguém conseguiu desligar. Eles não estão cultivando plantas, Gabo. Estão cultivando anjos.
+— Pode ser uma parte da Colmeia que ficou isolada quando o Código Morto passou. — Ela apontou o cano para as fileiras de tanques. — Os cadernos falam em ordens automáticas, mas não dizem quem ainda controla este lugar. Seja quem for, está cultivando corpos.
 
 O chão estremeceu. Um som grave, como o bater de um tambor gigante, veio do casulo central.
 

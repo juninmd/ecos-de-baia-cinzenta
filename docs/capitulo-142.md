@@ -10,7 +10,7 @@ description: "A prancha sobe pelo guincho, guiada por cinta. Os cartuchos são c
 
 A subida pelo poço de ventilação secundário era um exercício brutal em resistência e dor. A escuridão absoluta do fosso vertical só era rasgada de forma intermitente pela iluminação tática de Valéria e pelo pulso azul-gelo do pendrive blindado de Aria acoplado ao seu cyberdeck, revelando paredes metálicas envelhecidas por décadas de condensação, fungos luminosos e ferrugem escamosa.
 
-Gabo liderava a subida. O guincho de inspeção erguia a prancha de Rangel no trilho lateral. Gabo subia preso à linha de segurança e mantinha a cinta-guia na mão para impedir que a cabeceira girasse. A cada metro que avançavam pela estreita escada incrustada na parede, a oscilação da prancha ameaçava prendê-lo entre a carga e a escada, rumo ao abismo negro de ossos de onde haviam saído. O som ruidoso e gutural da respiração do ferido ecoava no tubo apertado, ritmado com os chiados do próprio Gabo e o tilintar dos cabos antigos balançando ao vento gelado que descia das galerias superiores.
+Depois de testarem o guincho com carga sem pessoa e verificarem a trava, Gabo liderava a subida. O guincho de inspeção erguia a prancha de Rangel no trilho lateral. Gabo subia preso à linha de segurança e mantinha a cinta-guia na mão para impedir que a cabeceira girasse. A cada metro que avançavam pela estreita escada incrustada na parede, a oscilação da prancha ameaçava prendê-lo entre a carga e a escada, rumo ao abismo negro de ossos de onde haviam saído. O som ruidoso e gutural da respiração do ferido ecoava no tubo apertado, ritmado com os chiados do próprio Gabo e o tilintar dos cabos antigos balançando ao vento gelado que descia das galerias superiores.
 
 O metal dos degraus parecia feito de brasas geladas contra a carne viva de suas mãos. Cada aperto doía mais do que o anterior, reabrindo as bolhas queimadas na fornalha da Necrópole. O cheiro constante de poeira calcificada, suor azedo e ozônio antigo estava em toda parte, trazendo uma incômoda familiaridade das ruínas subterrâneas que se estendiam desde o Dilúvio.
 
@@ -20,11 +20,11 @@ O metal dos degraus parecia feito de brasas geladas contra a carne viva de suas 
 
 Dois metros abaixo dele na escada, a silhueta da hacker iluminava-se de azul com um feixe de fibra ótica da Aeterna Corp deslizando pelo suporte lateral e espetado diretamente na ponte de dados entre seu cyberdeck e o pendrive da IA.
 
-— Consigo sentir a estrutura central através do filtro da Aria! — Valéria respondeu, a voz tensa ecoando distorcida pelas chapas de metal retorcido. — É um ninho, Gabo. A matriz primária não está apenas ativa. Está vibrando. Há um fluxo maciço de dados indo em direção ao estúdio do Taxidermista. Ele não apenas consome a energia residual; ele está fazendo download dos protocolos de segurança corporativos da época da Torre.
+— Consigo sentir a estrutura central através do filtro da Aria! — Valéria respondeu, a voz tensa ecoando distorcida pelas chapas de metal retorcido. — Há tráfego na fibra, Gabo. Parte segue na direção do estúdio, mas não consigo ler o conteúdo nem identificar quem enviou.
 
 — E o que isso significa pra nós na prática? — Gabo arfou, cravando a bota no degrau seguinte e dando o sinal para Val liberar mais meio metro de cabo no guincho.
 
-— *Significa que a nossa injeção de sinal na fibra ótica gerou um eco de retorno na malha de controle,* — respondeu Aria pelo fone, fria e analítica. — *O sistema de autodefesa do subnível registrou nossa leitura topográfica como uma anomalia parasitária.*
+— *Significa que a nossa injeção de sinal na fibra ótica gerou um eco de retorno na malha de controle,* — respondeu Aria pelo fone, fria e analítica. — *O controlador registrou nossa leitura como acesso não reconhecido. Não sei qual resposta ele vai acionar.*
 
 Gabo não gostava do que estava ouvindo.
 
@@ -46,17 +46,17 @@ As carapaças de titânio branco outrora limpas estavam agora cravadas de farpas
 
 — *Drones Scarab modificados,* — Aria processou os dados da câmera de Valéria com agilidade monótona. — *Unidades de reparo estrutural reconfiguradas pelo Taxidermista para supressão hostil violenta. Alcance de engajamento em seis segundos. O alvo primário somos nós.*
 
-— Ele os infectou! — Valéria murmurou com horror genuíno, colando as costas na grade da escada enquanto tentava manter o cabo de fibra conectado ao deck. — O Taxidermista está usando a infraestrutura do andar de cima. Eles são como... cães de guarda autônomos parasitas!
+— As carcaças têm enxertos como os do ateliê — murmurou Valéria, colando as costas na grade da escada. — Podem ter sido alterados por ele.
 
 — Aria, consegue travar a frequência deles pelo deck da Val?! — Gabo cobrou, sacando o velho revólver do coldre com a mão direita enfaixada. Carregara cinco cartuchos da caixa de Kiko antes de prender a linha de segurança; a Caronte continuava com apenas uma carga.
 
-— *A criptografia deles é híbrida, mesclando pulsos analógicos com reflexos neuromusculares enxertados,* — respondeu a IA pelo alto-falante, o corpo do pendrive esquentando contra a luva de Valéria. — *Posso modular uma rajada de ruído branco pelo controlador de manutenção acessível na fibra para interromper as ordens recebidas pelos drones por curtos intervalos, mas a neutralização definitiva exigirá impacto cinético.*
+— *Não consigo ler as ordens deles,* — respondeu a IA pelo alto-falante, o corpo do pendrive esquentando contra a luva de Valéria. — *Posso modular uma rajada de ruído branco pelo controlador de manutenção acessível na fibra para interromper as ordens recebidas pelos drones por curtos intervalos, mas a neutralização definitiva exigirá impacto cinético.*
 
 Não havia como atirar naquelas velocidades sem arriscar o equilíbrio na escada ou deixar Rangel despencar, mas recuar de volta para o frio da morte no Lixão não era uma opção.
 
 O primeiro drone saltou das sombras, abrindo dois braços de perfuração rotativos que assobiaram no ar denso do poço.
 
-Gabo firmou a mão direita no apoio da escada e mirou, os dentes rangendo até o esmalte estalar. O suor frio formava poças minúsculas em sua testa, mas a dor pulsante em suas mãos queimadas mantinha seus instintos letais, precisos e despertos.
+Gabo firmou a mão esquerda no apoio da escada e mirou com a direita, os dentes rangendo até o esmalte estalar. O suor frio formava poças minúsculas em sua testa, mas a dor pulsante em suas mãos queimadas mantinha seus instintos letais, precisos e despertos.
 
 — Prepara o pulso, Aria! — ele rosnou.
 

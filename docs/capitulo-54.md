@@ -1,6 +1,6 @@
 ---
 image: /capitulo_54.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Padre Miguel, Clara Moretti
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Padre Miguel, refugiados e protótipos CP-Z
 Localização: "Dia 45 do Dilúvio - Distrito da Ferrugem"
 ---
 # Capítulo 54: Fé e Ferrugem
@@ -117,4 +117,4 @@ Enquanto o Cobalt se afastava, Gabo olhou pelo retrovisor. Viu o padre ajudando 
 
 No painel do carro, o rádio da polícia, hackeado por Val, captou uma transmissão codificada vinda dos robôs em retirada.
 
-— *Unidade CP-Z reportando ao Chefe Miranda. Alvo localizado. A Isca está pronta.*
+— *Unidade CP-Z reportando ao Chefe Miranda. Alvo localizado. Solicitamos reforço para o setor da catedral.*

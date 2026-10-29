@@ -19,15 +19,15 @@ Valéria foi a primeira a pisar fora da plataforma. Seus coturnos levantaram peq
 
 — Limpo — murmurou ela, a voz saindo áspera. O cansaço pesava em seus ombros como uma armadura de chumbo. — Parece um túmulo.
 
-Gabo forçou-se a seguir, cada passo uma negociação brutal com a dor. A espuma coagulante de Valéria e os remendos improvisados em seu braço quebrado queimavam como fogo líquido. Ele sentia os ossos partidos e as mãos em carne viva latejando sob as ataduras, em uma agonia em surdina. O cheiro nauseante de fumaça de cigarro, azedo e pegajoso, ameaçou invadir suas narinas novamente, mas ele trincou os dentes e apertou os músculos ao redor da fratura, invocando a dor aguda para expulsar o espectro.
+Gabo forçou-se a seguir, cada passo uma negociação brutal com a dor. O curativo no abdômen e a tala do braço quebrado puxavam a cada passo. Ele sentia os ossos partidos e as mãos em carne viva latejando sob as ataduras, em uma agonia em surdina. O cheiro nauseante de fumaça de cigarro, azedo e pegajoso, ameaçou invadir suas narinas novamente, mas ele trincou os dentes e apertou os músculos ao redor da fratura, invocando a dor aguda para expulsar o espectro.
 
 *O cheiro do velho.* A lembrança do escritório de Dante o enojava visceralmente. Ele não deixaria aquela alucinação dominá-lo, mesmo que custasse cada fibra de sanidade que lhe restava.
 
 No antebraço de Valéria, o pendrive blindado de Aria emitia um zumbido térmico quase imperceptível enquanto filtrava os sinais eletromagnéticos do ambiente através das antenas passivas do *Phantom V3*. O brilho azul-gelo do seu indicador luminoso recortava o rosto tenso da hacker na penumbra enquanto ela erguia o braço para escanear a arquitetura austera do local. Fileiras infinitas de servidores massivos e cofres de fita magnética formavam corredores perfeitos, erguendo-se do chão de linóleo negro até o teto escuro revestido de placas acústicas. O cheiro predominante era de silício velho, ozônio adormecido, freon seco e poeira estática.
 
-— *A integridade estrutural deste setor está preservada em noventa e quatro por cento,* — Aria declarou pelo comunicador, a voz sintética cortando o silêncio sem qualquer modulação emocional. — *A blindagem de chumbo nas paredes perimetrais e os inibidores passivos de frequência formam uma gaiola de Faraday completa. A Aeterna Corp projetou este nível para resistir a um pulso eletromagnético de classe militar ou a um colapso sísmico da torre. É um cofre estéril.*
+— *A planta descreve blindagem perimetral neste setor,* — Aria declarou pelo comunicador, a voz sintética cortando o silêncio sem qualquer modulação emocional. — *A blindagem de chumbo nas paredes perimetrais e os inibidores passivos de frequência podem reduzir sinais de rádio. Não posso confirmar a continuidade da blindagem. A Aeterna Corp projetou este nível para resistir a um pulso eletromagnético de classe militar ou a um colapso sísmico da torre. É um cofre estéril.*
 
-— Bom. Então nada entra e nada sai por onda de rádio — Gabo disse, a voz rouca raspando na garganta seca. Ele se escorou em um balcão de mármore sintético rachado logo na entrada do saguão, fechando os olhos por um segundo que pareceu uma eternidade. O frio do andar começava a infiltrar-se pelas roupas rasgadas, fazendo seus músculos tremerem de hipotermia incipiente e perda sanguínea. A exaustão cobrava um preço extorsivo a cada minuto.
+— Então pode ser difícil pedir ajuda por rádio — Gabo disse, a voz rouca raspando na garganta seca. Ele se escorou em um balcão de mármore sintético rachado logo na entrada do saguão, fechando os olhos por um segundo que pareceu uma eternidade. O frio do andar começava a infiltrar-se pelas roupas rasgadas, fazendo seus músculos tremerem de hipotermia incipiente e perda sanguínea. A exaustão cobrava um preço extorsivo a cada minuto.
 
 — Não tenha tanta certeza sobre estarmos seguros, Gabo — Valéria retrucou, caminhando com cautela até uma série de terminais apagados atrás do balcão de triagem. Ela limpou a tela de vidro estilhaçado de um monitor com a manga da jaqueta de couro e tentou acionar a chave de ignição mecânica, sem resposta. — Se o Miranda, o seu pai ou o que sobrou da diretoria quiseram guardar alguma coisa crítica longe dos olhos do mundo e fora do alcance dos tentáculos do Taxidermista, esse seria o lugar exato. E cofres executivos não costumam depender só de portas trancadas.
 
@@ -43,7 +43,7 @@ Gabo abriu os olhos, o olhar cinzento e injetado de sangue focado no labirinto g
 
 — Energia geotérmica independente — murmurou Valéria, olhando para Gabo. Um entendimento mudo e sombrio passou entre os dois sobreviventes: em um complexo morto e congelado, onde há calor, há memória viva. E, invariavelmente, há armadilhas.
 
-— Quanto tempo de bateria ainda temos no seu deck, Val? — perguntou Gabo, forçando o quadril contra o mármore para desencostar do balcão. O puxão na crosta de espuma coagulante do abdômen arrancou-lhe um grunhido baixo, mas serviu para manter a mente alerta.
+— Quanto tempo de bateria ainda temos no seu deck, Val? — perguntou Gabo, forçando o quadril contra o mármore para desencostar do balcão. O puxão no curativo do abdômen arrancou-lhe um grunhido baixo, mas serviu para manter a mente alerta.
 
 — Vinte e dois por cento. O suficiente para manter o scanner térmico e o processador da Aria rodando por mais uma hora se eu não precisar fritar mais nenhuma fechadura eletrônica — respondeu ela, destravando o coldre e mantendo a pistola em posição de retenção.
 

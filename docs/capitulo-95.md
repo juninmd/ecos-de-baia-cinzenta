@@ -3,7 +3,7 @@ layout: doc
 title: "Capítulo 95: Sacrifício Necessário"
 description: "Uma flor roxa brota no pulso da Val a trezentos metros do fim. E, no fundo do bunker, um homem fundido a uma árvore explica por que ele é a cura."
 image: /capitulo_95.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Silas Vance ("O Jardineiro")
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Silas Vance ("O Jardineiro"), Aria
 Localização: "Bunker do Projeto Gênesis — Salão Principal"
 ---
 
@@ -30,7 +30,7 @@ Pequena, com quatro pétalas, roxa. Tinha brotado no meio de um arranhão de doi
 
 — Val, a Nise tem o coquetel, a gente volta e—
 
-— **Gabo.** — Ela levantou a mão direita, a que estava limpa, e mostrou os dedos. Eles estavam abertos e não fechavam mais que a metade. — Já está no nervo. Eu perdi o movimento dos dedos há uns quarenta minutos e não falei nada porque a gente ainda tinha ladeira.
+— **Gabo.** — Ela levantou a mão esquerda, onde a flor crescera. Os dedos estavam abertos e não fechavam mais que a metade. — Pode ter atingido o nervo. Perdi o movimento há uns quarenta minutos e não falei nada porque a gente ainda tinha ladeira.
 
 Ela sentou no degrau.
 
@@ -48,7 +48,7 @@ Gabo largou a alça e sentou ao lado dela. Não disse nada por uns dez segundos,
 
 — Os dois, seu idiota. — Ela riu, e a risada saiu com um eco duplo — a voz dela e uma segunda por baixo, meio tom abaixo, vegetal. Os dois ouviram e nenhum comentou. — Gabo, a Convergência é daqui a pouco. Se o Código Morto não rodar, eu viro planta de qualquer forma e você também, e a gente vai virar planta **juntos**, o que não melhora nada.
 
-Ela sacou as duas pistolas e conferiu.
+Ela sacou a pistola com a mão direita e conferiu o carregador.
 
 — Eu seguro a retaguarda. Está vindo coisa pelo túnel desde que a gente entrou. Você não ouviu porque você está com a audição esquerda prejudicada desde a Torre e é orgulhoso demais para falar.
 
@@ -68,7 +68,7 @@ E foi tudo o que ele conseguiu, e ela entendeu o tamanho daquilo, porque ela o c
 
 — Está bom.
 
-— E, Gabo. — Ela travou as duas armas com o polegar, o que com aqueles dedos levou tempo. — Não desce achando que isso aqui é despedida. Eu não estou morrendo. Eu estou **endurecendo**, que é diferente, e a Nise disse que atividade cerebral persiste. Se um dia der para me tirar daqui, você me tira.
+— E, Gabo. — Ela verificou a trava da pistola com o polegar direito. — Não desce achando que isso aqui é despedida. Eu não estou morrendo. Eu estou **endurecendo**, que é diferente, e a Nise disse que atividade cerebral persiste. Se um dia der para me tirar daqui, você me tira.
 
 — Eu tiro.
 
@@ -108,11 +108,11 @@ A voz não veio da boca. Veio das paredes, do chão, do tronco, e vibrando no es
 
 ---
 
-— Trouxe a cura — disse Gabo, arriando a bateria de pulso no chão e sacando do bolso o pendrive de titânio fosco da Aria, cujo LED pulsava em azul e âmbar.
+— Trouxe uma proposta — disse Gabo, arriando a bateria de pulso no chão. Manteve o módulo da Aria escondido sob o sobretudo, com o cabo pronto junto à mão.
 
 O homem-árvore riu, e a risada fez a luz do tronco acelerar.
 
-— **Cura.** — Silas Vance inclinou a cabeça. — **Detetive, eu sou a cura. A morte é a doença, e ela é a única que nunca teve tratamento. Vocês construíram uma civilização inteira de analgésico e nenhum de vocês teve coragem de atacar a causa.**
+— **Proposta.** — Silas Vance inclinou a cabeça. — **Detetive, eu sou a cura. A morte é a doença, e ela é a única que nunca teve tratamento. Vocês construíram uma civilização inteira de analgésico e nenhum de vocês teve coragem de atacar a causa.**
 
 — A causa.
 
@@ -134,9 +134,9 @@ Gabo se endireitou. Ele olhou o pai por uns três segundos e depois desviou, por
 
 — **Escolha é um mecanismo de sofrimento.**
 
-— Escolha é a única coisa que a gente tem. — Gabo se abaixou ao lado da base do tronco e acionou a trava do conector retrátil do pendrive de titânio. — Você não curou a morte, doutor. Você fez uma coisa muito mais simples e muito mais velha: você achou que sabia o que era melhor para todo mundo, e teve poder suficiente para não ter que perguntar.
+— Escolha é a única coisa que a gente tem. — Gabo manteve a mão sob o sobretudo, perto do conector. — Você não curou a morte, doutor. Você achou que sabia o que era melhor para todo mundo e teve poder suficiente para não perguntar.
 
-Ele acoplou o cabo da bateria de pulso à traseira do drive blindado.
+Ele acoplou o cabo da bateria ao módulo, escondendo o movimento atrás do corpo. Uma raiz avançou sobre o cabo; Gabo sacou o revólver e disparou contra o ponto em que ela se prendia ao tronco. A raiz recuou, abrindo por um instante a passagem até a interface.
 
 — Isso aqui não é um jardim. É um homem que não aceitou ouvir não.
 
@@ -144,6 +144,6 @@ Ele acoplou o cabo da bateria de pulso à traseira do drive blindado.
 
 — Não.
 
-Ele espetou o pendrive da Aria diretamente na porta de interface neural na base do tronco da Árvore-Mãe. E, dentro do pequeno cilindro de titânio e polímero negro, a IA tática que o acompanhava desde a cabine telefônica retomou o canal de áudio.
+Gabo deslizou o módulo da Aria até a interface na base do tronco e encaixou o conector antes que a raiz tornasse a fechar. A IA retomou o canal de áudio.
 
 — Agora.

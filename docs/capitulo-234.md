@@ -9,15 +9,15 @@ Personagens Presentes: Gabo, Valéria, Elena, Dra. Elara Vance, Elias
 
 O zumbido não veio da rede elétrica, porque rede elétrica é luxo que a Velha Baía enterrou no Apagão.
 
-Veio do chão. Uma vibração surda, contínua, que fazia a poeira de carvão dançar sobre as caixas de papel da Arca Zero e arrepiava os pelos do meu braço bom. Um ruído subterrâneo de transformador trifásico acordando sob quinhentos metros de basalto.
+Veio do chão. Uma vibração surda, contínua, que fazia a poeira de carvão dançar sobre as caixas de papel da Arca Zero e arrepiava os pelos do meu braço bom. Uma vibração subterrânea que atravessava as solas e fazia as ferramentas na mesa tilintarem.
 
 A Dra. Vance parou com a xícara de lata a dois centímetros da boca.
 
-— Esse harmônico não é de gerador a diesel — ela disse, sem alterar o tom. — É a linha auxiliar da Subestação Orla Norte. O circuito de purga térmica.
+— Não reconheço essa vibração — ela disse. Abriu o esquema da drenagem sobre a mesa. — Mas a linha auxiliar da Subestação Orla Norte passa sob este terreno. Há um circuito de purga ligado a ela.
 
 Valéria já estava ajoelhada junto à carcaça do osciloscópio militar encostada na parede desde antes do Dilúvio. Os fios de LED na franja dela pulsavam num azul rápido e doente, e os olhos prateados faziam microajustes focais com um zumbido seco.
 
-— Frequência portadora em quatrocentos e sessenta megahertz — disse Valéria, a voz reta pelo Modo de Segurança. — Carga indutiva subindo doze por cento a cada três minutos. Em duas horas, a carga do banco alcança o limite indicado no esquema de sabotagem.
+— Estou recebendo uma portadora na faixa indicada no esquema — disse Valéria. — A intensidade cresce, mas daqui não consigo medir a carga do banco. Temos de presumir que a linha pode estar sendo ativada.
 
 — Traduz, Val — pedi, com a mão esquerda apertando a tipoia onde meu ombro quebrado pulsava em pontadas quentes.
 
@@ -27,7 +27,7 @@ Olhei para as quatro toneladas de papel empilhadas.
 
 — Eles vão queimar o galpão por baixo.
 
-— Vão transformar este perímetro em cinza vitrificada — corrigiu a doutora. — Papel, prensas, ossos e testemunhas. Não sabemos se Krell enviou Braga. Este ataque tem outro comando e outra assinatura de circuito. Ele só precisa fechar um disjuntor de alta tensão na Orla Norte.
+— Podem incendiar o perímetro — corrigiu a doutora. — Papel, prensas, pessoas. Não sabemos quem ativou o circuito nem se Krell enviou Braga. Se o disjuntor da Orla Norte fechar, o plano prevê a descarga na drenagem.
 
 Elena estava encostada na rotativa. A jaqueta de campo verde-oliva estava manchada de tinta fresca até os cotovelos. Ela não olhou para o osciloscópio. Olhou para o relógio de pulso analógico, aquele com a pulseira de couro gasta que ela usava desde o jornal da faculdade.
 
@@ -41,7 +41,7 @@ Elias levantou a cabeça do canto do galpão, onde limpava as graxas da prensa.
 
 — Isso cobriria a costa inteira — ele murmurou.
 
-— Cobriria a costa, o arquipélago e os sete assentamentos agrícolas fora da barreira — Elena puxou o gravador de microcassete do bolso e conferiu a fita com o polegar. — Os receptores sintonizados na faixa de emergência poderiam ouvir as admissões da Arca Zero, o nome de Krell e a assinatura de cada diretor da Aeterna ao mesmo tempo. Não haveria desmentido possível. A corporação não conseguiria comprar cem mil receptores antes do amanhecer.
+— Talvez alcance parte da costa, se a antena ainda funcionar — disse Elena, conferindo o gravador. — Os assentamentos que ouvirem podem retransmitir. A fita explica o índice, a amostra e onde consultar as cópias. Não impede ninguém de mentir sobre ela; torna mais difícil recolher todas as provas.
 
 — Você não vai — eu disse. A palavra saiu seca, com gosto de bile na língua.
 
@@ -49,7 +49,7 @@ Ela parou diante de mim. Os olhos verdes acinzentados tinham aquela frieza corta
 
 — Eu não estou pedindo permissão, Gabriel. Eu sou a única pessoa nesta sala que sabe calibrar uma mesa de som analógica sem fritar a modulação.
 
-— A subestação está tomada por drones sentinelas autônomos — argumentei, tentando dar um passo à frente, mas o joelho travado pela órtese rangeu contra o cascalho. — Meu braço está quebrado. A Valéria mal consegue manter o processamento estável. Se você entrar naquele complexo, você entra sozinha.
+— O último vigia viu sentinelas na subestação — argumentei, tentando dar um passo à frente, mas o joelho travado pela órtese rangeu contra o cascalho. — Meu braço está quebrado. Não sei chegar lá antes de você.
 
 — Eu mantive uma gráfica clandestina fora da cúpula nestes meses enquanto você dormia com a escopeta na mão — ela disse, e tocou de leve no meu peito, exatamente onde a carcaça de titânio do meu colete terminava. O toque foi leve, mas ardeu mais que o osso fraturado. — Você passou a vida inteira achando que proteger alguém significa morrer no lugar dela. Mas a verdade não precisa de um mártir quebrado, Gabriel. A verdade precisa de uma manchete que chegue antes da queima de arquivo.
 
@@ -67,83 +67,62 @@ Valéria deu um passo à frente.
 
 — Não temos o mapa atualizado dos sentinelas nem confirmação de uma saída. Eu não consigo calcular sua chance de voltar.
 
-Elena olhou para a ciborgue.
+Elena olhou para Valéria.
 
 — Guarda o cálculo para o Gabriel, Valéria. Ele sempre gostou de perder contra a banca.
 
-Ela virou as costas. Não houve despedida solene, nem beijo de romance barato. Ela ajustou a gola da jaqueta verde-oliva, verificou o estojo de microcassetes no bolso interno e saiu pela porta metálica do galpão para a chuva gelada da madrugada.
+Antes de sair, Elena encaixou um pequeno disco na cavidade da coronha. — Tem cópias dos registros que separamos no galpão — disse. — Se eu perder a bolsa, pelo menos ficam em outro lugar. Ela virou as costas. Não houve despedida solene, nem beijo de romance barato. Ela ajustou a gola da jaqueta verde-oliva, verificou o estojo de microcassetes no bolso interno e saiu pela porta metálica do galpão para a chuva gelada da madrugada.
 
 ---
 
-A Subestação Orla Norte erguia-se como uma carcaça de navio encalhada nas pedras pretas da costa.
+— Não vamos esperar aqui — disse Valéria. Ela puxou o mapa para perto e marcou com a caneta a bifurcação da estrada. — Elias, quanto tempo até a subestação pelo quebra-mar?
 
-O concreto estava coberto por crostas de salitre e limo tóxico. O ar ali fedia a ozônio e carcaça de peixe apodrecida na maré baixa. A cada quarenta segundos, um relâmpago de alta tensão faiscava nos isoladores de porcelana do teto, pintando as paredes em azul fosfórico.
+— De jipe, uns vinte minutos, se a ponte aguentar. A estrada de serviço é mais curta, mas foi bloqueada no Dilúvio.
 
-Elena entrou pelos dutos de ventilação do piso técnico, onde a água salobra batia na altura dos tornozelos. O frio entrava pelo couro dos coturnos, mas ela continuou.
+— Você já percorreu o quebra-mar com carga? — perguntou ela.
 
-No corredor central, três drones sentinelas da Aeterna patrulhavam sobre esteiras de borracha. Máquinas cinzentas, armadas com canhões rotativos e sensores termais de varredura. Ela não hesitou: puxou a *Caronte*, apoiou o cano duplo na quina de uma viga de aço e disparou.
+— Ontem. Sem garantia para hoje.
 
-O estrondo dentro do corredor fechado foi ensurdecedor. O recuo brutal da arma arremessou seu ombro contra o concreto, arrancando um pedaço de pele, mas o balote de chumbo maciço perfurou a carcaça do primeiro drone, espalhando óleo hidráulico e estilhaços incandescentes. O segundo sentinela girou o canhão na direção dela, abrindo fogo em rajadas rápidas.
+Val assentiu. Não pediu certeza que ele não tinha. Entregou a Elara uma cópia do esquema e foi até os trabalhadores da prensa.
 
-Elena mergulhou para trás de uma barreira de chumbo. Balas de tungstênio morderam o concreto a centímetros de sua cabeça, pulverizando lascas de pedra que cortaram sua bochecha. O sangue escorreu morno pelo queixo, misturando-se à fuligem.
+— Afastem todo mundo da drenagem e levem o que conseguirem do arquivo para os caminhões. Não empilhem o papel contra o motor. Eu aviso pelo rádio se o sinal mudar.
 
-Sem parar para respirar, ela engatilhou o segundo cano da escopeta, contornou o gerador auxiliar e disparou à queima-roupa no bloco óptico da segunda máquina. A carcaça explodiu numa chuva de fagulhas que iluminou o duto de cabos.
+Elias correu para o jipe. Eu fui atrás dele e tropecei na rampa. Segurei a parede com a mão esquerda; a pancada sacudiu a fratura direita e deixou um gosto de cobre na boca. Val voltou, colocou meu braço bom sobre o ombro dela e esperou até que eu firmasse o pé. Não perguntou se eu precisava de ajuda. Eu precisava.
 
-A porta da sala de transmissão mestre estava a três metros. Uma blindagem de aço marítimo de dez centímetros de espessura.
+— Você devia ter ido com ela — falei.
 
-Elena arremeteu contra a abertura manual de emergência, puxou a alavanca hidráulica com o peso do corpo e rolou para dentro da sala no momento exato em que o terceiro sentinela surgia na ponta do corredor com seu feixe vermelho travado na silhueta dela.
+— Ela saiu antes de termos transporte. Ir sem um caminho não tornaria a decisão menos perigosa. — Val abriu a porta do passageiro. — Ainda podemos alcançá-la ou tirar gente de lá. Escolha onde sentar; preciso levar o rádio e o equipamento de resgate.
 
-Ela bateu o botão de selagem. As travas de chumbo desceram com um baque sísmico.
+Sentei. Elias pôs uma bolsa de primeiros socorros e máscaras com filtros no banco traseiro. Enquanto ele conferia o combustível, Val tentou chamar Elena. O rádio devolveu estática, depois uma voz de outro assentamento perguntando se a frequência estava livre. Ela pediu que mantivessem escuta e retransmitissem qualquer mensagem da jornalista.
 
-Trancada por dentro. A única saída agora era o mar ou a morte.
+A doutora apareceu na entrada do galpão, empurrando a própria cadeira pelo piso irregular.
+
+— Inspetor. — Ela me entregou uma folha dobrada. — O desenho do quadro de transferência. É antigo. Não sei o que foi substituído desde então.
+
+— A Elena tem uma cópia?
+
+— Tem. Eu dei a ela antes de vocês discutirem a escopeta.
+
+Eu quis me irritar com as duas. A doutora estava tremendo de frio; atrás dela, dois trabalhadores carregavam a primeira caixa, sem correr, porque o caminho era estreito e o papel precisava chegar inteiro. Não havia nada útil em gritar.
+
+— Se o rádio cair, procurem abrigo longe do canal — disse Val à doutora. — Não esperem por nós para sair.
+
+Elara segurou a folha que ficara com ela. — Vou com os registros. Os outros escolhem por si.
 
 ---
 
-O console de transmissão era uma relíquia dos anos cinquenta, montado em gabinetes de baquelite verde e válvulas incandescentes do tamanho de garrafas.
+O jipe saiu com o motor tossindo fumaça. Pelo espelho, vi a porta do galpão aberta, as pessoas entrando e saindo, as caixas passando de mão em mão. Não sabíamos se a linha ia descarregar; também não íamos apostar a vida delas em silêncio.
 
-O ruído do banco de capacitores sob o chão crescia para um uivo agudo. O ar começava a queimar nas narinas, carregado de partículas ionizadas. A temperatura na sala subia a passos largos.
+Val girou o seletor do rádio. Elias dirigia com as duas mãos tensas no volante. Na primeira curva, o receptor estalou e uma voz apareceu por baixo da interferência. Era a gravação que Elena preparara com a doutora: nomes, datas, o alcance do índice e o tamanho da amostra. Alguém pedira que repetisse a frequência.
 
-Elena limpou o suor e o sangue da testa com a manga rasgada da jaqueta. Suas mãos tremiam pelo choque da adrenalina, mas ela encaixou os cabos de ligação rápida no modulador de sinal com uma precisão cirúrgica.
+— Pegaram o sinal — disse Elias.
 
-— Transmissão de emergência aberta — ela sussurrou para os mostradores analógicos. — Frequência de seis megahertz travada no circuito mestre.
+— Pelo menos uma estação — respondeu Val. Ela anotou o horário e chamou de novo. — Elena, aqui é Valéria. Estamos a caminho. Diga onde você está.
 
-Ela puxou a fita matriz contendo uma seleção das admissões, a identificação dos depósitos de cópias e trechos das transmissões de Arthur Vance. Inseriu a bobina no cabeçote de leitura da torre e baixou a chave geral.
+Não houve resposta. A gravação continuou por alguns segundos, engasgou e voltou. Depois outra voz confirmou a recepção e prometeu passar o trecho adiante. Era uma pessoa, numa estação que eu não conhecia, fazendo uma escolha que Krell não podia recolher com a mão.
 
-Lá fora, a torre de transmissão de oitenta metros rugiu.
+Apertei o rádio contra a perna para Val ajustar a antena. A dor no braço vinha em ondas, mais quente a cada buraco da estrada. À frente, sobre o mar escuro, uma luz avermelhada cresceu atrás das instalações da orla.
 
-A chave isolou a alimentação da purga e transferiu parte da potência disponível para o transmissor. O resto continuou retido no banco da subestação. As lâmpadas de filamento da sala acenderam num clarão cegante. O sinal varreu os céus de Baía Cinzenta com a força de um trovão contínuo, chegando aos aparelhos que já monitoravam a frequência costeira. Operadores dos assentamentos começaram a repeti-lo em outras faixas.
+— Isso é da subestação? — perguntei.
 
-A voz gravada da Dra. Vance começou a ecoar pelas ondas de rádio da cidade:
-
-"Para registro público: a Aeterna não foi criada para salvar Baía Cinzenta. O Protocolo Lázaro foi desenhado para colher mentes..."
-Elena sorriu. Um sorriso ensanguentado e feroz. Mas a blindagem da porta começou a gemer.
-
-Os reforços corporativos haviam chegado à subestação. Lá fora, maçaricos térmicos e cargas lineares começaram a cortar as dobradiças da comporta. Fagulhas incandescentes choviam para dentro da sala de comando.
-
-Elena sabia que, no momento em que invadissem, a primeira coisa que fariam seria puxar os disjuntores da antena e interromper aquela transmissão.
-
-Ela olhou para o banco de capacitores marítimos atrás da grade de proteção — a mesma carga que Krell ia despejar nas galerias para vitrificar o galpão. Doze fileiras de placas de tântalo mergulhadas em óleo isolante, com uma alavanca de derivação manual lacrada por arame de chumbo e uma placa esmaltada: **DERIVAÇÃO DE EMERGÊNCIA - NÃO OPERAR COM CARGA PLENA**.
-
-Ela pegou uma chave inglesa pesada do chão.
-
-Com três golpes violentos, partiu o lacre e puxou a alavanca até o fim de curso. A carga que devia descer pelas galerias subiu pela linha coaxial e o banco começou a ferver por dentro: o óleo estalava, as placas de tântalo torciam, o cheiro de cobre queimado enchia a sala. A derivação travou o fornecimento de emergência, mas ainda podiam cortar os cabos do lado de fora. Elena ganhara minutos, não uma transmissão impossível de desligar. Em dez minutos, a subestação inteira viraria uma cratera de metal e óleo em chamas, e o transmissor seguiria no ar enquanto o circuito resistisse.
-
-Uma explosão sacudiu a comporta. O maçarico rompeu a trava superior.
-
-Uma saraivada de projéteis penetrou pela fresta aberta. Três tiros atingiram Elena em cheio: um atravessou seu ombro esquerdo, outro rasgou sua coxa e o terceiro penetrou fundo na lateral do abdômen.
-
-O impacto a arremessou de costas contra a mesa do operador de rádio.
-
-A dor não veio como pontada; veio como um peso de chumbo que tirou o ar de seus pulmões. Ela caiu sentada no piso de borracha, as costas apoiadas no painel elétrico que fumegava. O sangue vermelho e espesso começou a empapar sua camisa e a escorrer pelas pernas até a poça de água do chão.
-
-O barulho dos blindados tentando forçar a chapa de metal ressoava como tambores de guerra.
-
-Elena engoliu o sangue que subia à garganta. Sabia que não tinha dez minutos. Talvez tivesse quatro.
-
-Com os dedos manchados de escarlate, ela abriu o zíper do bolso da jaqueta verde-oliva. Puxou seu velho gravador analógico de repórter.
-
-Encaixou uma fita microcassete virgem. Apertou as teclas *REC* e *PLAY* juntas com o polegar fraco.
-
-O mecanismo rodou com um clique metálico familiar. A luz vermelha do gravador acendeu na penumbra esfumaçada da sala que morria.
-
-Elena aproximou o microfone dos lábios pálidos.
+— Pode ser. Ainda não dá para ver — disse ela. E tornou a chamar Elena.

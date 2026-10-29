@@ -1,6 +1,6 @@
 ---
 image: /capitulo_107.jpg
-Personagens Presentes: Dante Moretti, Gabriel "Gabo" Moretti, Elena Moretti, Inspetor Rangel
+Personagens Presentes: Dante Moretti, Gabriel "Gabo" Moretti, Elena Moretti, Inspetor Rangel, Dra. Nise e vigia do cais
 Localização: "Subsolo da Delegacia da Biblioteca"
 ---
 # Capítulo 107: O Teorema da Chuva
@@ -55,7 +55,7 @@ Dante virou-se para a porta.
 Em Trânsito - Viatura Blindada "Rinoceronte"
 O interior do blindado cheirava a suor velho, óleo diesel e medo. Não havia janelas, apenas telas táticas que mostravam a chuva varrendo as ruas vazias lá fora.
 
-O veículo sacudia violentamente a cada buraco no asfalto degradado da Zona Industrial. Gabo estava sentado no banco de metal, segurando o rifle entre os joelhos. Sua perna nova pulsava com uma dor surda, rítmica, sincronizada com a vibração do motor.
+O veículo sacudia violentamente a cada buraco no asfalto degradado da Zona Industrial. Gabo estava sentado no banco de metal, com a Caronte entre os joelhos; retirara a escopeta do porta-malas do Cobalt antes de embarcar. Sua perna nova pulsava com uma dor surda, rítmica, sincronizada com a vibração do motor.
 
 Ele olhou para Dante.
 
@@ -95,7 +95,7 @@ Gabo engatilhou a arma, a dor na perna gritando quando ele pisou no asfalto.
 
 — Vamos logo com isso. Antes que eu desista e te dê um tiro nas costas.
 
-— A probabilidade de você fazer isso é de 12.4% — disse Dante, descendo a rampa. — E a probabilidade de sucesso é zero.
+— Se tentar, Gabriel, eu vou reagir — disse Dante, descendo a rampa.
 
 Eles avançaram para a escuridão do porto.
 
@@ -108,7 +108,7 @@ Elena estava sentada na borda de um contêiner empilhado, observando o horizonte
 
 Mas ali, eles estavam seguros.
 
-Ela tinha saído da delegacia nos minutos em que todo mundo olhava para a varanda — pela porta dos fundos, com dois geradores de pulso no carrinho de mão e o rádio desligado o caminho inteiro. Ninguém a tinha mandado. Ninguém tinha assinado nada. Era a primeira vez em semanas que ela decidia uma coisa sem pedir licença a Gabo.
+Depois de ajudar a prender a órtese, Elena saíra pela porta dos fundos enquanto Dante e Gabo se dirigiam ao blindado. Levou dois geradores de pulso num carrinho e manteve o rádio desligado. A célula do cais escolheu com ela onde instalar os aparelhos.
 
 Elena estendeu a mão. O ar ao redor dela vibrou.
 

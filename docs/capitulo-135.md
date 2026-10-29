@@ -20,11 +20,11 @@ O sensor óptico do comunicador, alimentado pelo pendrive de titânio cujo LED b
 
 Valéria, que estava verificando o pulso de Rangel com dedos trêmulos, olhou para o drive acoplado ao ombro de Gabo com receio. Não era o medo de um inimigo, mas o desconforto de ouvir uma estranha absoluta na frequência de uma aliada.
 
-— A febre baixou um pouco, mas ele perdeu muito sangue — Valéria sussurrou. — A sutura improvisada no ombro está segurando, mas se o movermos demais...
+— A febre baixou um pouco, mas ele perdeu muito sangue — Valéria sussurrou. — O curativo no ombro está preso, mas se o movermos demais...
 
-— *O sujeito Rangel apresenta falência sistêmica iminente* — Aria interrompeu pelo canal de áudio. — *A ficha registra o ferimento como grave, mas não há suporte avançado nem dados suficientes para estimar a sobrevivência ao transporte. O peso reduzirá a mobilidade de Gabo e Valéria; a rota também os expõe à interceptação.*
+— *O sujeito Rangel apresenta sinais de deterioração* — Aria interrompeu pelo canal de áudio. — *A ficha registra o ferimento como grave, mas não há suporte avançado nem dados suficientes para estimar a sobrevivência ao transporte. O peso reduzirá a mobilidade de Gabo e Valéria; a rota também os expõe à interceptação.*
 
-O LED azul do pendrive pulsou uma única vez no escuro. A voz que horas antes falava com a angústia humana de Bia Vargas agora era apenas um sintetizador clínico.
+O LED azul do pendrive pulsou uma única vez no escuro. A síntese de emergência deixava pouca inflexão nas palavras de Aria.
 
 — *Recomendação: otimização de recursos. O sujeito Rangel é peso morto e deve ser deixado para trás. Essa é a recomendação do plano de triagem de fábrica. Estou apresentando a origem porque não consigo conferir o modelo com o meu histórico bloqueado.*
 
@@ -52,7 +52,7 @@ Gabo fechou os dedos ao redor do drive blindado por um instante, a ponto de quas
 
 O LED azul-gelo permaneceu estático.
 
-— *Seu plano precisa de um apoio que ainda não encontramos* — ela declarou. — *O risco supera o benefício.*
+— *Seu plano precisa de um apoio que ainda não encontramos* — ela declarou. — *Não consigo comparar os riscos sem dados suficientes.*
 
 — Foda-se a lógica — Gabo soltou o comunicador e se virou para a maca. Ele agarrou as alças dianteiras improvisadas, preparando o ombro bom para receber a maior parte da tração. — Val, pega os pés dele. Vamos sair daqui.
 
@@ -66,13 +66,13 @@ O pendrive ficou em silêncio por um segundo, processando. A recomendação auto
 
 Um diagrama luminoso projetou-se a partir do visor do cyberdeck preso ao cinto de Valéria, traçando o piso à frente com linhas de nivelamento e pontos de apoio para distribuir o peso da maca.
 
-— *Sua estrutura óssea está comprometida, Gabriel. Ajuste a alça esquerda quinze centímetros acima do quadril para transferir trinta por cento da tração para o exoesqueleto lombar. Eu monitorarei o equilíbrio e as rotas de menor atrito.*
+— *Sua estrutura óssea está comprometida, Gabriel. Ajuste a cinta para que não puxe seu ombro ferido. Eu posso observar o equilíbrio e indicar o piso visível.*
 
 Gabo olhou para o feixe de luz no chão, surpreso, mas não agradecido.
 
 — Não pense que isso muda o que você disse.
 
-— *Não muda os fatos* — Aria respondeu pelo comunicador, fria e exata. — *Apenas altera a estratégia de mitigação de danos. Avancem. Detecto vibrações acústicas nas tubulações ao norte. Reforços estão a caminho.*
+— *Não muda os fatos* — Aria respondeu pelo comunicador, fria e exata. — *Apenas altera a estratégia de mitigação de danos. Avancem. Detecto vibrações nas tubulações ao norte. Não sei o que as produz.*
 
 Eles deixaram o Ateliê, entrando em um corredor de serviço estreito que cheirava a mofo e óleo velho. A luz da lanterna de Valéria e o feixe guia do deck cortavam a escuridão, revelando pichações antigas de trabalhadores do metrô que morreram ali décadas atrás.
 

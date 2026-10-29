@@ -12,17 +12,17 @@ Personagens Presentes: "Gabo, Valéria, Aria (Reboot)"
 
 O som das engrenagens cegas morrendo era um lamento metálico que ecoava pelo corredor de concreto. A imensa porta do firewall recuara completamente, revelando a escuridão absoluta do poço do elevador de manutenção principal.
 
-Gabo estava caído no piso da câmara superior, o sangue escorrendo de novos cortes onde a ferrugem e as garras da biomassa o haviam rasgado. O selante químico em seu abdômen parecia uma placa de chumbo prestes a rachar. Ele forçou os joelhos contra a grade fria, mas seu corpo recusava-se a obedecer. Não havia mais reservas de adrenalina; apenas um vazio sombrio e o pulsar constante de seu braço fraturado.
+Gabo estava caído no piso da câmara superior, o sangue escorrendo de novos cortes onde a ferrugem e as garras da biomassa o haviam rasgado. O curativo no abdômen havia escurecido de novo. Ele forçou os joelhos contra a grade fria, mas seu corpo recusava-se a obedecer. Não havia mais reservas de adrenalina; apenas um vazio sombrio e o pulsar constante de seu braço fraturado.
 
 Valéria apareceu na borda da câmara, vinda pela escada de manutenção que a porta aberta havia exposto. Seu rosto estava coberto de cinza e suor frio, os olhos escuros arregalados pelo horror do que Gabo acabara de fazer. Sem dizer uma palavra, ela deslizou para dentro do maquinário, passando os braços trêmulos ao redor do torso dele.
 
 — Você é um maldito suicida — ela sussurrou, a voz rouca falhando enquanto o puxava para cima. O cheiro de ozônio e suor ácido impregnava sua jaqueta.
 
-— Funcionou, não funcionou? — Gabo grunhiu. O simples ato de falar fez o selante em sua barriga repuxar, ameaçando rasgar a pele estabilizada.
+— Funcionou, não funcionou? — Gabo grunhiu. O simples ato de falar fez o ferimento repuxar sob o curativo.
 
 No pulso de Valéria, o pendrive blindado de Aria piscou com uma luz azul-gelo intensa, cortando a penumbra da galeria de engrenagens enquanto recebia os dados vibracionais da estrutura.
 
-— *A passagem primária está desobstruída,* — a voz sintética e clínica da IA soou pelo comunicador do cyberdeck. — *Recomendo evasão imediata. A perturbação mecânica das engrenagens de bronze gerou uma assinatura sísmica de baixa frequência que atrairá as unidades remanescentes dos anéis adjacentes em menos de quatro minutos.*
+— *A passagem primária está desobstruída,* — a voz sintética e clínica da IA soou pelo comunicador do cyberdeck. — *Recomendo evasão imediata. A perturbação mecânica das engrenagens de bronze pode ter sido ouvida nos anéis adjacentes. Não sei se há unidades se aproximando.*
 
 Com a ajuda de Valéria, Gabo escorregou pela escada de manutenção lateral e desceu da câmara de engrenagens; o impacto das botas com o chão do corredor arrancou-lhe um chiado de dor por entre os dentes trincados. O sangue novo da ferida do braço quebrado pingava lento no concreto coberto de fuligem, mas ele se recusou a cair novamente.
 
@@ -34,7 +34,7 @@ Com um tranco violento que fez os cabos gemerem e as polias superiores soltarem 
 
 Gabo encostou as costas na grade lateral do elevador, ouvindo o vento frio assobiar pelas frestas do poço. O frescor do metal deveria ser reconfortante após o calor sufocante dos servidores purgados, mas, à medida que subiam em direção às fundações da torre corporativa, a temperatura ambiente parecia cair vertiginosamente, e a pressão atmosférica mudava nos tímpanos. Foi então que o ataque ocorreu.
 
-A mente e o corpo de Gabo, levados além de qualquer limite fisiológico pela perda crônica de sangue e pelo choque traumático das fraturas recentes, oscilaram sob a descompressão brusca do poço. A visão periférica escureceu em espirais vertiginosas, e um zumbido estridente tomou conta de seus ouvidos, afogando os motores.
+A mente e o corpo de Gabo, levados além de qualquer limite fisiológico pela perda crônica de sangue e pelo choque traumático das fraturas recentes, oscilaram sob a vibração da plataforma. A visão periférica escureceu em espirais vertiginosas, e um zumbido estridente tomou conta de seus ouvidos, afogando os motores.
 
 Gabo dobrou os joelhos sobre a grade metálica, o peito arfando enquanto a náusea da hipotensão ameaçava derrubá-lo de vez no chão do elevador.
 

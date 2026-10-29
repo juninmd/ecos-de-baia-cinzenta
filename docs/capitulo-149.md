@@ -9,20 +9,20 @@ Personagens Presentes: "Gabo, Valéria, Aria (Reboot), Rangel (Inconsciente)"
 
 O Setor de Purga não era um lugar para vivos, nem para mortos. Era o intestino mecânico de Baía Cinzenta.
 
-Assim que Gabo arrastou Rangel para dentro da câmara além da eclusa, o cheiro de formol e ozônio foi substituído por algo mais espesso e corrosivo. Um aroma de ferrugem molhada, misturado com o adocicado doentio de carne em decomposição e produtos químicos industriais que subia desde os dias do Dilúvio. O ambiente era um vasto complexo de tanques de decantação circulares, cheios de um líquido espesso e escuro que borbulhava sob a luz pálida de lâmpadas de vapor de sódio falhas.
+Assim que Gabo e Val arrastaram a prancha de Rangel para dentro da câmara além da eclusa, o cheiro de formol e ozônio foi substituído por algo mais espesso e corrosivo. Um aroma de ferrugem molhada, misturado com o adocicado doentio de carne em decomposição e produtos químicos industriais que subia desde os dias do Dilúvio. O ambiente era um vasto complexo de tanques de decantação circulares, cheios de um líquido espesso e escuro que borbulhava sob a luz pálida de lâmpadas de vapor de sódio falhas.
 
 Os tanques trabalhavam. Não havia motor visível, mas o líquido subia pelas paredes de concreto em ondas lentas e voltava, e cada volta deixava um anel de espuma ocre que secava e rachava. O calor subia do piso como respiração. Em algum ponto do complexo, uma válvula abria e fechava sozinha num intervalo regular, e aquele som — *tec*, dez segundos, *tec* — era a única coisa ali com ritmo de coração.
 
 O lugar não tinha sido construído para gente entrar. Gabo percebeu isso pela altura das grades, pelo espaçamento dos corrimãos, pela ausência de qualquer coisa parecida com saída de emergência. Ali embaixo quem trabalhava era máquina, e máquina não precisa correr.
 
-Gabo soltou o colarinho de Rangel e caiu de joelhos sobre a grade de metal que formava o piso. Cada respiração parecia rasgar seus pulmões. O choque hipovolêmico causado pela sangria na eclusa estava transformando seu sangue em chumbo. Sua visão periférica escurecia, pontuada por flashes brancos.
+Gabo soltou a cinta da prancha e caiu de joelhos sobre a grade de metal que formava o piso. Cada respiração parecia rasgar seus pulmões. A perda de sangue e o esforço pesavam sobre ele. Sua visão periférica escurecia, pontuada por flashes brancos.
 
 E então, o gatilho. O cheiro de produtos químicos reagiu com o pânico latente em seu subconsciente. A fumaça.
 
 O odor fantasma do cigarro barato invadiu suas narinas, um espectro zombeteiro que trazia consigo a imagem do legista sorrindo torto anos atrás, a maca de aço frio, o corpo pálido de Bia sob os lençóis. O estômago de Gabo se contorceu em um espasmo violento. Ele engasgou, a náusea subindo como bile amarga e fervente até a língua.
 
 Não. Aqui não. Agora não.
-Ele cerrou os punhos. A dor das queimaduras em suas mãos, ainda em carne viva do duto de incineração, explodiu por seus braços. Foi uma agonia pura, elétrica, que perfurou o nevoeiro da ilusão. Gabo arfou, o gosto metálico de sangue real em sua boca afastando o espectro da fumaça. A dor era sua âncora de sanidade.
+Ele cerrou os punhos. A dor das queimaduras em suas mãos, ainda em carne viva do duto de incineração, explodiu por seus braços. A dor fez a mão falhar quando ele tentou se apoiar. Val aproximou a ferramenta para que ele se levantasse sem raspar as queimaduras na grade.
 
 Valéria caiu sentada a poucos metros, encostada na base de um dos tanques, tossindo a poeira ocre que havia engolido no duto de ventilação. Seus olhos cibernéticos tentavam ajustar-se à penumbra amarelada do setor enquanto o pendrive blindado de Aria, acoplado ao seu cyberdeck de pulso, refletia seu LED azul-gelo na superfície viscosa do fluido abaixo da grade.
 
@@ -41,16 +41,16 @@ Entre eles e a comporta, no entanto, havia apenas uma passarela estreita e corro
 — *A estrutura da passarela apresenta falhas de oxidação de até sessenta e quatro por cento nos tirantes centrais,* — Aria continuou, varrendo a rota com o feixe laser do deck de Valéria. — *O peso combinado do grupo, somado ao arrasto mecânico do indivíduo Rangel, aumentará exponencialmente a taxa de colapso estrutural. Reitero minha diretriz anterior: a passarela precisa receber a carga por etapas. Não consigo dar um percentual de segurança com o que a câmera mostra.*
 
 Valéria olhou de Rangel, cuja respiração agora era um chiado irregular e úmido, para o pequeno drive brilhando em seu antebraço.
-— Ele não é peso morto, Aria. Ele é um de nós.
+— O cabo alcança o outro lado? — perguntou Valéria.
 
 — *Ele está gravemente ferido, Valéria Cruz,* — a voz de Aria cortou o ar ácido sem hesitação. O reinício deixara parte do histórico inacessível; Gabo ouviu aquela cadência restrita e tomou a lacuna por indiferença. — *Não tenho como avaliar o fígado nem prever uma parada pelo deck. Sei que o suporte central da passarela está cedendo; precisamos prender a prancha ao cabo de inspeção antes de avançar.*
 
-— Cala essa caixa de som, Val — Gabo rosnou, sentindo a raiva ferver em seu peito, uma fornalha improvisada que temporariamente espantou a hipotermia do choque. Ele encarou o LED azul-gelo no pulso da parceira. — Você não faz as contas morais aqui, Aria. Desde que te tirei daquela cabine na enchente, você processa rotas, não quem vive ou morre. Se a passarela quebrar, a gente cai. Se a gente cair, a gente morre. Mas ninguém fica pra trás. Ninguém é descartado como o lixo desses tanques.
+— Prende primeiro — disse Gabo. — Eu testo a chapa sem a prancha. Se ceder, voltamos.
 
 O indicador luminoso do pendrive piscou duas vezes em silêncio glacial.
 — *Compreendido, Detetive Moretti. Assinalando o protocolo de resgate como prioritário e incluindo Rangel como pessoa a transportar. Monitorando tensão dos cabos em tempo real.*
 
-— É bom mesmo — murmurou Valéria, limpando o suor ácido da testa com a manga rasgada. — Porque se essa ponte cair com a gente, você afunda no ácido junto com o meu braço.
+Valéria prendeu o cabo de inspeção à armação da prancha e verificou a trava com a mão direita.
 
 Valéria se abaixou ao lado do inspetor e colocou dois dedos no pescoço dele. Ficou mais tempo do que precisava.
 
@@ -62,10 +62,6 @@ Valéria se abaixou ao lado do inspetor e colocou dois dedos no pescoço dele. F
 
 Gabo reparou que ela não olhou para ele ao responder. Reparou também que a mão dela, ao sair do pescoço de Rangel, limpou a espuma do canto da boca dele com o polegar, devagar, como se aquilo fosse uma coisa que se faz.
 
-— *Observação registrada. Não vou chamar a travessia de segura porque eu tenho uma carcaça. Se o cabo romper, não consigo tirá-los do tanque,* — respondeu Aria com literalidade sepulcral.
+— *Não consigo verificar a fixação do outro lado. A cinta pode limitar a queda, mas não torna a travessia segura,* — avisou Aria.
 
-Gabo passou o braço de Rangel sobre os ombros, sentindo o peso morto do policial quase derrubá-lo de volta ao chão. A dor em sua própria mão queimada, agora sustentando o peso do amigo, era uma facada contínua que subia até a nuca.
-
-*Foco na facada.* Ele disse a si mesmo. *Esqueça a fumaça. Lembre da dor.*
-
-Valéria levantou-se com dificuldade e apoiou o outro lado de Rangel, mantendo o braço do cyberdeck erguido para que o sensor de Aria lesse cada rebite enferrujado à frente. Juntos, sob a luz doentia do Setor de Purga, eles deram o primeiro passo na passarela rangente. Abaixo deles, o mar de fluido negro borbulhava, como um estômago faminto à espera da próxima refeição.
+Gabo testou a chapa com a bota esquerda. Ela rangeu, mas sustentou seu peso. Ele puxou a cinta da prancha enquanto Val guiava a cabeceira e observava o apoio adiante. Juntos, deram o primeiro passo na passarela rangente. Abaixo deles, o mar de fluido negro borbulhava, como um estômago faminto à espera da próxima refeição.

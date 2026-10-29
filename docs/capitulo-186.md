@@ -9,13 +9,13 @@ Personagens Presentes: Gabo, Valéria
 
 O calor úmido do Complexo Hidropônico colava a poeira e o mofo químico direto no meu rosto, criando uma máscara pegajosa que ardia na pele escoriada. O ar ali dentro vibrava com um zumbido subsônico contínuo, a pulsação de bombas industriais esquecidas alimentando milhares de metros de trepadeiras bioluminescentes.
 
-A cada passada sobre as passarelas de aço perfurado, a prótese no meu ombro direito chiava em protesto, os servos pesados trabalhando no limite da tolerância para compensar o desnível do chão.
+A cada passada sobre as passarelas de aço perfurado, a armação externa do meu braço direito chiava em protesto, os servos pesados trabalhando no limite da tolerância para compensar o desnível do chão.
 
 Valéria ia dois passos à frente, os filamentos de LED azul na franja curta iluminando as calhas suspensas com um halo frio. Ela segurava o cyberdeck com uma mão enquanto usava uma sonda de teste para afastar gavinhas translúcidas que pingavam seiva leitosa sobre a grade.
 
-— A densidade das conexões ópticas tá dobrando a cada dez metros — ela avisou, sem tirar os olhos do display fosco do deck. — As raízes tão perfurando as caixas de derivação elétrica da Aeterna e fundindo o tecido vegetal direto nas trilhas de cobre. Quem desenhou essa praga biológica não era só um geneticista louco; era um engenheiro de redes de primeira linha.
+— Há mais raízes junto às caixas de derivação — ela avisou, sem tirar os olhos do display fosco do deck. — As raízes tão perfurando as caixas de derivação elétrica da Aeterna e fundindo o tecido vegetal direto nas trilhas de cobre. Quem desenhou essa praga biológica não era só um geneticista louco; era um engenheiro de redes de primeira linha.
 
-— Silas Vance aprendeu a programar antes de aprender a odiar a humanidade — respondi, o som da minha voz saindo rouco, arranhando a garganta seca. — Ele passou quarenta anos desenhando a infraestrutura da corporação antes de fundar o culto dos Jardineiros.
+— Silas Vance aprendeu a programar antes de aprender a odiar a humanidade — respondi, o som da minha voz saindo rouco, arranhando a garganta seca. — Não sei quanto dessa infraestrutura ele desenhou; sei o que o culto fez com ela.
 
 — Pois ele criou uma aberração impecável — Valéria parou no fim da passarela diante de uma antecâmara blindada, onde a tubulação principal de nutrientes convergia. — Olha pra essa porta, Moretti.
 
@@ -39,7 +39,7 @@ Olhei para onde ela indicava. Preso à estrutura do teto de vidro reforçado, ha
 
 — Se eu desligar o gerador na força bruta, o terminal queima? — perguntei, avaliando o suporte das prateleiras de ferro enferrujadas que subiam pela lateral da parede.
 
-— O terminal tem uma bateria de serviço indicada no painel. Vou copiar o log antes de cortar o enlace; a energia de reserva pode não sustentar o tempo que a placa promete — Valéria ajustou os cabos de bypass nas costas da mão esquerda, os olhos brilhando com adrenalina tática. — Mas você vai ter que escalar essa estante podre com vinte quilos de ferro no ombro e arrancar o nó antes que o sistema descarregue a sobretensão na sua cabeça. Se você demorar, essa gosma vermelha frita os circuitos do seu braço novo.
+— O terminal tem uma bateria de serviço indicada no painel. Vou copiar o log antes de cortar o enlace; a energia de reserva pode não sustentar o tempo que a placa promete — Valéria ajustou os cabos de bypass com a mão direita, os olhos brilhando com adrenalina tática. — Mas você vai ter que escalar essa estante podre com vinte quilos de ferro no ombro e arrancar o nó antes que o sistema descarregue a sobretensão na sua cabeça. Se você demorar, essa gosma vermelha frita os circuitos do seu braço novo.
 
 — Então começa a emular a frequência, Val. Não vou ficar pendurado lá em cima batendo papo.
 
@@ -47,7 +47,7 @@ Olhei para onde ela indicava. Preso à estrutura do teto de vidro reforçado, ha
 
 A escada de manutenção dobrável estava presa à coluna, atrás da estante. Val a baixou até o piso e conferiu os encaixes. Subi apoiado na linha de inspeção, com o braço direito imobilizado no suporte; não usei os pinos no osso como ponto de escalada. As travas de aço sustentaram o metal oxidado com um estalo seco, garantindo um apoio sólido enquanto minha bota de ferro buscava tração na armação úmida.
 
-A subida foi uma negociação desesperada contra o peso e a ferrugem. Cada metro conquistado enviava descargas agudas de dor pelos pregos neurais cravados na minha escápula, mas a agonia física servia como combustível para focar a mente. O mundo se resumiu ao rangido da carcaça sob minhas mãos, ao chiado dos servos hidráulicos e ao brilho febril do bulbo que crescia diante dos meus olhos.
+A subida foi uma negociação desesperada contra o peso e a ferrugem. Cada metro conquistado enviava descargas agudas de dor pelos pinos do fixador e o arnês, mas a agonia física servia como combustível para focar a mente. O mundo se resumiu ao rangido da carcaça sob minhas mãos, ao chiado dos servos hidráulicos e ao brilho febril do bulbo que crescia diante dos meus olhos.
 
 Alcancei a plataforma superior de manutenção. O calor que emanava do nó era nauseante, cheirando a sangue cozido e plástico derretido. O tecido carnudo tremia como o coração de uma criatura presa numa armadilha, bombeando fluidos químicos pelos cabos com um som sibilante de sucção.
 
@@ -68,17 +68,17 @@ Lá embaixo, a membrana perdeu a tensão no batente e cedeu junto com a folha me
 
 — *Bypass* confirmado! — Valéria gritou, os dedos já voando sobre o console desbloqueado. — A linha de dados abriu!
 
-Desci pela estante com a agilidade possível para quem carregava uma âncora no tronco, caindo de pé no gradeamento ao lado dela. Minha mão mecânica gotejava o resíduo negro da colônia, mas os nós neurais responderam firmes ao comando de relaxamento dos pistões.
+Desci pela escada de manutenção, preso à linha de inspeção, até alcançar o gradeamento ao lado dela. Minha mão mecânica gotejava o resíduo negro da colônia, mas os nós neurais responderam firmes ao comando de relaxamento dos pistões.
 
 — O que o sistema tava processando? — perguntei, limpando o suor misturado com fuligem da testa.
 
 Valéria encarava a tela com as sobrancelhas franzidas, a luz do monitor refletida em seus olhos prateados. O sarcasmo sumira, substituído por uma inquietação pesada.
 
-— Não é uma ordem de defesa local, Gabo. A rede do Jardim no Setor 7 não tá tentando proteger essa estufa... ela tá transferindo cópias de segurança de todo o banco genético da Aeterna pra um terminal isolado nas fundações geológicas.
+— Não é uma ordem de defesa local, Gabo. O registro mostra uma transferência para um destino chamado Arca Zero. Há referências a amostras genéticas, mas não sei se são todas nem se a cópia chegou.
 
 — O Arquivo Executivo?
 
-— Não — ela virou o rosto para mim, os filamentos de LED azul na franja piscando devagar, tensos. — Abaixo do Arquivo Executivo. Bem abaixo. Um setor chamado *Arca Zero*. O lugar onde Arthur Vance guardou os protótipos originais antes da cidade virar esse poço de lodo.
+— Não — ela virou o rosto para mim, os filamentos de LED azul na franja piscando devagar, tensos. — Abaixo do Arquivo Executivo. Bem abaixo. O registro aponta para *Arca Zero*, abaixo do arquivo. Diz que há protótipos, mas não mostra quem os guardou.
 
 Olhei para a escuridão do corredor técnico que se abria atrás da sala de controle. O caminho não subia para a superfície; descia para os alicerces mais profundos e esquecidos de Baía Cinzenta.
 

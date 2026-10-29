@@ -15,7 +15,7 @@ O túnel afunilou bruscamente cem metros adiante. O lodo escorregadio deu lugar 
 
 Os filamentos de LED azul na franja dela piscaram com uma cadência rápida. Ela apontou para a penumbra à frente com a ponta do pistola compacta que trazia pendurado a tiracolo.
 
-— O que você viu? — perguntei, a mão mecânica repousando pesada sobre o quadril, os pinos neurais do ombro latejando em sintonia com os meus batimentos cardíacos.
+— O que você viu? — perguntei, a pinça externa repousando pesada sobre o quadril, os pinos do fixador latejando em sintonia com os meus batimentos cardíacos.
 
 — Barricada artesanal reforçada — ela sussurrou, os olhos prateados estreitos, escaneando as junções de metal. — Placas de blindagem balística arrancadas de furgões da polícia, vigas em I soldadas em cruz e duas câmeras analógicas com cabo coaxial direto. Quem montou isso aqui entende de controle de perímetro. Tem até concertina de arame farpado nas laterais pra ninguém tentar passar pelo vão da tubulação.
 
@@ -43,9 +43,9 @@ O homem reapareceu na fresta, a espingarda de cano serrado tremendo na mão suja
 
 — Você tá muito assanhada pra quem tá cercada, garota! Eu tenho a alavanca da eclusa de descarte aqui dentro! Um puxão e eu solto trinta mil litros de água de caldeira fervendo em cima de vocês!
 
-Valéria me encarou de soslaio, os olhos prateados piscando um alerta silencioso. Ela levou a mão ao meu braço e falou baixo, cobrindo o microfone improvisado:
+Valéria me encarou de soslaio, os olhos prateados piscando um alerta silencioso. Ela tocou meu braço esquerdo e falou baixo, cobrindo o microfone improvisado:
 
-— Ele não tá blefando, Gabo. A tubulação de alívio térmico passa exatamente por cima das nossas cabeças. Se ele abrir a válvula, a gente vira sopa de carne e metal em dez segundos. Não tem espaço pra desviar.
+— A tubulação de alívio passa por cima da nossa cabeça. Não sei se ele consegue abrir a válvula, mas não vejo onde nos esconder caso consiga.
 
 Respirei fundo. A frustração desceu amarga pela garganta, mas um policial velho aprende cedo que tiroteio dentro de cano fechado é suicídio disfarçado de coragem.
 
@@ -55,13 +55,13 @@ Puxei um dos cilindros e ergui-o para a fresta de vidro.
 
 — Ar comprimido de resgate — anunciei, mostrando o lacre sem bater na válvula. — Regulador e manômetro. Você confere o rótulo pela gaveta. Não é oxigênio nem filtro de água, mas permite sair daqui se o retorno encher de fumaça.
 
-O silêncio do homem durou longos cinco segundos. Eu podia ouvir a respiração ofegante dele através da corneta. Em Baía Cinzenta, munição e comida você roubava; oxigênio limpo comprava a sua vida.
+O silêncio do homem durou longos cinco segundos. Eu podia ouvir a respiração ofegante dele através da corneta. Em Baía Cinzenta, munição e comida você roubava; uma reserva de ar podia comprar uma saída.
 
 — Minha saída de cima queimou ontem — disse ele. A espingarda baixou alguns centímetros. — Passa pela gaveta. Eu leio o rótulo, você ouve a trava. Só um de vocês cruza por vez.
 
 — O cilindro vai quando a trava pneumática estalar — Valéria rebateu antes que eu respondesse, a voz firme e intransigente. — A gente não é novato de periferia, Fantasma. Libera o ferrolho principal ou eu puxo o cabo e queimo sua estação inteira.
 
-Uma pausa tensa. O som pesado de engrenagens industriais sendo destravadas ecoou pelas paredes do túnel. A fresta da gaveta deslizou, engolindo o cilindro de oxigênio, e logo em seguida o portão de blindagem subiu com um rangido metálico estridente de correntes oxidadas, revelando a passagem estreita para a rampa de saída.
+Uma pausa tensa. O som pesado de engrenagens industriais sendo destravadas ecoou pelas paredes do túnel. A fresta da gaveta deslizou, engolindo o cilindro de ar comprimido, e logo em seguida o portão de blindagem subiu com um rangido metálico estridente de correntes oxidadas, revelando a passagem estreita para a rampa de saída.
 
 O homem conferiu a pressão e guardou o cilindro ao alcance da escada interna. Val anotou o lacre do único que nos restava. Não tínhamos comprado um caminho seguro; tínhamos pago para abandonar o anterior.
 

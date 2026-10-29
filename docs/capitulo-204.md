@@ -15,7 +15,7 @@ Cada passo meu levantava uma nuvem fina de pó avermelhado.
 
 Sangue seco da Praga de Ferro. É assim que penso naquele pó desde que a cidade começou a afundar: milhares de drones e carregadores pesados, empilhados em pirâmides de dez metros de altura, oxidados até a medula dos rolamentos, desmanchando-se devagar na umidade fria do Setor Seis.
 
-O zumbido hidráulico da minha órtese esquerda ecoava na vastidão. Um protesto metálico, áspero, que voltava das paredes distantes com dois segundos de atraso e me dava a sensação constante de estar sendo seguido por uma versão pior de mim mesmo.
+O zumbido hidráulico da minha órtese direita ecoava na vastidão. Um protesto metálico, áspero, que voltava das paredes distantes com dois segundos de atraso e me dava a sensação constante de estar sendo seguido por uma versão pior de mim mesmo.
 
 — Dá pra calar a boca dessa perna, Moretti? — sussurrou Valéria, caminhando dois passos à minha esquerda. Os fios holográficos azuis da franja dela piscavam em pulsos rápidos, varrendo a poeira com um brilho espectral. — O eco dessa engrenagem frouxa parece um alarme de incêndio em câmera lenta.
 
@@ -33,7 +33,7 @@ Trinta e oito anos. Pálido. Olhos arregalados de quem conhecia aqueles poços c
 
 — Quietude de cemitério corporativo nunca é boa notícia, garoto, — Valéria respondeu, desacelerando o passo e erguendo o cyberdeck na altura do peito. Seus olhos prateados estreitaram-se, analisando linhas de código em verde fosforescente que corriam na tela portátil. — Moretti, para um segundo.
 
-Parei. O peso da minha armação industrial de sucata — parafusada no osso por Vasco para estabilizar a fratura do braço — puxou meu ombro direito com uma fisgada aguda de cansaço. O sangue seco colava a atadura na carne viva, e as cicatrizes do Dilúvio queimavam, mas a agonia física servia apenas para me manter firme no chão de cimento rachado entre as máquinas que jaziam como ferro morto.
+Parei. O peso da minha armação industrial de sucata — acoplada por Vasco ao fixador instalado pela equipe médica — puxou meu ombro direito com uma fisgada aguda de cansaço. O sangue seco colava a atadura na carne viva, e as cicatrizes do Dilúvio queimavam, mas a agonia física servia apenas para me manter firme no chão de cimento rachado entre as máquinas que jaziam como ferro morto.
 
 — O que você tá pegando? — perguntei, destravando a *Caronte* com o polegar.
 
@@ -61,7 +61,7 @@ Do fundo do fosso de carga, uma massa titânica começou a se erguer.
 
 Não tinha simetria. Não tinha a engenharia limpa e arrogante das máquinas da Aeterna Corp. Era uma aberração arquitetônica: chassis de empilhadeiras pesadas esmagados e soldados uns sobre os outros, quatro braços hidráulicos de escavadeiras, instalados fora de eixo como patas de um crustáceo monstruoso, e uma cabine de comando triturada encravada no centro como um coração de vidro estilhaçado. Toda a estrutura estava amarrada por cabos de alta tensão e uma crosta espessa de ferrugem viva e lodo biomecânico.
 
-Alguma inteligência residual da Praga de Ferro passara anos no escuro catando restos de carcaças e forjando a si mesma.
+As marcas de solda e as peças empilhadas não me diziam quem tinha montado aquilo nem quando.
 
 — Que porra de pesadelo corporativo é esse? — sussurrou Valéria, os olhos prateados arregalados enquanto calculava a massa do monstro.
 

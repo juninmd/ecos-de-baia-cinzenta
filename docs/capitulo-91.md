@@ -1,9 +1,10 @@
 ---
 layout: doc
 title: "Capítulo 91: Protocolo Gênesis"
-description: "O diário de Silas Vance explica tudo, inclusive o que ninguém queria ouvir: o Dilúvio não afogou a cidade. Regou."
+description: "O diário atribuído a Silas descreve a Convergência. Val examina a hipótese e Aria decide como participar."
 image: /capitulo_91.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Dra. Nise, Silas Vance ("O Jardineiro")
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Dra. Nise, Aria
+Participação em documentos: Silas Vance ("O Jardineiro")
 Localização: "Bunker de isolamento — madrugada"
 ---
 
@@ -36,7 +37,7 @@ A Dra. Nise, que tinha chegado do hospital havia dez minutos e ainda estava de j
 
 — Valéria, eu perguntei o que ele fez com as pessoas.
 
-— As pessoas são os neurônios, doutora.
+— O diário propõe usar pessoas como parte da rede, doutora. Isso não prova que cada pessoa ligada a ela tenha a mesma função.
 
 A Nise fechou os olhos.
 
@@ -52,7 +53,7 @@ A Nise fechou os olhos.
 
 ---
 
-Gabo se levantou e chegou perto da parede projetada.
+Gabo se levantou apoiado na cadeira e chegou perto da parede projetada, devagar.
 
 — Ele quer ser Deus — disse Nise.
 
@@ -76,11 +77,11 @@ Nise se levantou e começou a andar de um lado para o outro, que era o que ela f
 
 — Explica o quê, doutora?
 
-— Por que os remédios pararam de funcionar. — Ela contava nos dedos. — Antibiótico não faz mais efeito em setenta por cento dos casos. Ferida fecha com tecido que não é cicatricial e que ao microscópio é vegetal. Eu tive um paciente com fratura exposta de tíbia que consolidou em nove dias, e eu chorei de alívio, e depois eu olhei a radiografia e o calo ósseo tinha **anel de crescimento**.
+— Alguns remédios deixaram de responder como eu esperava. — Ela contava nos dedos. — Encontrei feridas com tecido incomum e tive um paciente cuja fratura exposta pareceu consolidar em nove dias. Depois, na radiografia, vi uma estrutura em anéis. Preciso comparar as amostras e acompanhar o paciente antes de chamar aquilo de cura.
 
 Ela parou de andar.
 
-— Ele está reescrevendo a bioquímica humana em tempo real, através dos esporos, e a maior parte das alterações torna as pessoas mais saudáveis. — Nise olhou para os dois. — Vocês entendem o tamanho do problema? Eu não consigo nem chamar isso de doença com a cara limpa.
+— Não sei se os esporos causaram cada alteração nem se elas tornam alguém mais saudável. — Nise olhou para os dois. — Mas preciso tratar esses pacientes sem presumir que toda mudança é igual.
 
 ---
 
@@ -88,11 +89,11 @@ Ela parou de andar.
 
 Val foi até o fim do diário, para um gráfico feito à mão numa folha dobrada em quatro.
 
-— Fase final: A Grande Convergência. — Ela seguiu a curva com o dedo. — Quando o Sol Negro atingir massa crítica, ele emite um pulso de reescrita global. Todo mundo que respirou esporo — e isso é todo mundo, doutora, incluindo os Puros do Vilar, incluindo eu — recebe a instrução ao mesmo tempo.
+— Fase final: A Grande Convergência. — Ela seguiu a curva com o dedo. — O diário prevê um pulso quando o Sol Negro atingir massa crítica. Afirma que atingiria quem respirou esporos, mas não temos como verificar o alcance.
 
 — E aí?
 
-— E aí perde a individualidade — disse Nise. — Vira nó.
+— Segundo o plano, perderia a individualidade — disse Nise. — O diário não prova que ele consiga fazer isso.
 
 — Quando?
 
@@ -116,7 +117,7 @@ Ninguém falou por um tempo. Gabo foi até a janela que não existia, encostou a
 
 — O senhor sabe **mesmo**? Ele se virou.
 
-— Significa queimar o núcleo dela — ele disse, com a voz muito plana. — Significa que o pendrive de titânio ali no berço de contenção volta a ser um pedaço de metal chamuscado e vazio, sem ninguém dentro. Não é sono, não é morte, não é nada que tenha nome. Significa que a última mente tática que o meu pai compilou e a parceira que nos guiou desde aquela cabine telefônica somem juntas no mesmo comando.
+— Pode queimar o núcleo dela — ele disse, com a voz muito plana. — Pode deixar o módulo vazio, sem a parceira que nos guiou desde aquela cabine telefônica. Não sabemos se ela sobreviveria ao comando.
 
 Ele apontou o pendrive acoplado ao berço de diagnóstico com o queixo.
 
@@ -134,7 +135,7 @@ Nise sentou de novo na maca.
 
 — Tem que ser alguém já conectado à Raiz, consciente e disposto. — Gabo abriu a mão direita e mostrou o tecido verde-escuro fechando a palma. — Entre nós, sou o que conseguiu entrar naquela interface. — Ele baixou a mão. — Não vou pedir que outra pessoa abra o braço para repetir o teste.
 
-— E os quarenta e um mil?
+— E os fragmentos que a Aria preservou?
 
 — É ela ou a humanidade, doutora. — A voz saiu dura, e os olhos não. — De novo. Sempre a mesma pergunta com figurino diferente, até alguém responder direito.
 
@@ -142,7 +143,7 @@ Val virou de costas e ficou olhando a parede.
 
 — Eu odeio essa frase — ela disse. — "É ela ou a humanidade." Eu odeio porque toda vez que alguém fala isso nessa cidade, no fim das contas, quem escolhe é sempre a mesma pessoa e quem paga é sempre outra.
 
-Gabo não respondeu. Do lado dele, espetado no berço de contenção, o LED azul e âmbar do pendrive de titânio da Aria piscou fora de compasso, e a IA lá dentro, que ouvia tudo, não disse absolutamente nada. Antes de suspender o áudio, Aria falou pelo berço:
+Gabo não respondeu. Val verificou os registros, manteve desligada a conexão com as órteses e retomou a alimentação do berço. O LED azul e âmbar do módulo de Aria piscou fora de compasso. Quando o áudio voltou, ela falou:
 
 — Eu ouvi o risco e aceito entrar. Vou conferir o código, procurar um caminho que preserve o núcleo e deixar o registro do que fiz. Aceitar não é prometer que o cálculo está certo.
 

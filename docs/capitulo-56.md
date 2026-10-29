@@ -16,7 +16,7 @@ A chuva tinha mudado.
 
 Não era mais a parede de água dos primeiros dias, aquela que fazia barulho de aplauso e derrubava marquise. Virou garoa: fina, contínua, gelada, com pingo pequeno demais para escorrer. Não molhava a roupa — atravessava. Em quarenta minutos ao relento uma pessoa ficava encharcada até a pele sem ter sentido nenhuma gota.
 
-Gabo estava sentado no capô do Cobalt, embaixo da marquise de um posto de gasolina abandonado da Zona Industrial, tomando um café frio de garrafa térmica porque cafeína era a última tecnologia que ainda funcionava nele.
+Gabo estava sentado no Cobalt, embaixo da marquise de um posto de gasolina abandonado da Zona Industrial, tomando um café frio de garrafa térmica porque cafeína era a última tecnologia que ainda funcionava nele.
 
 Na outra mão, um papel amassado. Letra cursiva, inclinada para a direita, com o "g" de cauda fechada. Conhecia aquela letra dos anos em que dividiram a casa.
 
@@ -36,15 +36,15 @@ Gabo leu o bilhete três vezes. Depois virou o papel do outro lado, para ver se 
 
 Ele guardou o bilhete no bolso interno do sobretudo, junto com o resto: a chave do Cobalt, o molho de chaves de onze fitas azuis do Seu Otávio, um cartucho de calibre 12 que ele nunca usava e que estava ali desde o ano trinta e nove.
 
-E olhou pela janela para o painel do carro.
+E olhou para o painel do carro.
 
-Espetado na porta de diagnóstico do console central estava o drive neural da Aria — aquele bloco blindado de titânio fosco e polímero negro, do tamanho de um pendrive pesado, que ele tinha arrancado do terminal de uma cabine telefônica semi-submersa no começo da enchente.
+Espetado na porta de diagnóstico do console central estava o drive neural da Aria — aquele bloco blindado de titânio fosco e polímero negro, do tamanho de um pendrive pesado, que ele encontrara numa cabine telefônica antes do Dilúvio.
 
 Desde que voltara a receber alimentação no Cobalt, o módulo alternava atividade e suspensão conforme a reserva disponível. As ligações ao deck e aos terminais tinham deixado registros separados; não permanecera preso ao painel durante todas as incursões. O pequeno LED lateral oscilava entre o azul-gelo e o âmbar, lento como um pulso em repouso, aquecendo de leve o plástico rachado do painel enquanto filtrava frequências mortas.
 
 Gabo já não estranhava mais conversar com um pedaço de metal espetado no console. Tinha testado desligá-la duas vezes nas primeiras semanas e o silêncio do carro ficava insuportável. Ele agora fazia o que se faz com equipamento de trincheira: mantinha conectado e seguia em frente.
 
-O indicador luminoso piscou duas vezes em azul, confirmando que os sensores passivos do módulo o acompanhavam através do para-brisa.
+O indicador luminoso piscou duas vezes em azul. A câmera do carro, conectada ao módulo, mostrava a rua através do para-brisa.
 
 — Estamos sozinhos no setor, Aria — ele disse para o vidro.
 
@@ -58,7 +58,7 @@ Não era estação: era o sistema municipal de emergência, que ainda funcionava
 
 > *"Atenção, cidadãos. A Zona Industrial Leste foi declarada Área de Reurbanização Prioritária. Todos os residentes devem evacuar imediatamente. Unidades de pacificação estão a caminho. A resistência será classificada como ato terrorista. Repetindo..."*
 
-Gabo desceu do capô. O céu sobre as ruínas estava cheio de pontinhos: enxames de drones de topografia pairando a trinta metros, em grade regular, emitindo lasers vermelhos que varriam o concreto quebrado em passadas lentas e metódicas.
+Gabo abriu a janela. O céu sobre as ruínas estava cheio de pontinhos: enxames de drones de topografia pairando a trinta metros, em grade regular, emitindo lasers vermelhos que varriam o concreto quebrado em passadas lentas e metódicas.
 
 Ele ficou olhando aquilo por um bom tempo, e a coisa que estava errada demorou a subir à superfície. Eles não estavam procurando sobrevivente.
 
@@ -71,7 +71,7 @@ A placa holográfica estava instalada sobre os escombros da antiga fábrica têx
 NOVA BAÍA — O Futuro Começa Aqui.
 Embaixo, uma renderização: prédios brancos com varanda ajardinada, um calçadão, uma criança de bicicleta, uma marina. Nada daquilo tinha vista para o mar antes do Dilúvio, porque antes do Dilúvio o mar ficava a um quilômetro e meio dali e havia quatro quarteirões de cortiço no caminho.
 
-Gabo se aproximou, mancando, com as órteses improvisadas rangendo a cada passo. E leu o rodapé.
+Ele aproximou o carro até conseguir enquadrar o rodapé com a câmera do comunicador. Ampliou a imagem antes de ler.
 
 É sempre o rodapé. Catorze anos de polícia ensinam poucas coisas úteis e essa é uma delas: a mentira mora no título e a verdade mora na letra miúda, porque a letra miúda é escrita por um técnico que não sabe que está sendo cúmplice.
 
@@ -83,41 +83,41 @@ Gabo leu de novo. Doze de fevereiro de 2056. As comportas abriram no dia dezenov
 
 ---
 
-Ele ficou parado embaixo da garoa por um tempo que não soube medir, com a água entrando na gola, olhando uma criança renderizada andar de bicicleta em looping por cima do lugar onde tinha morrido, entre outras, uma menina de sete anos com casaco amarelo.
+Ele ficou parado por um tempo que não soube medir, com a garoa entrando pela janela, olhando uma criança renderizada andar de bicicleta em looping por cima do lugar onde tinha morrido, entre outras, uma menina de sete anos com casaco amarelo.
 
 Trinta e seis dias.
 
 Alguém desenhou aquela marina trinta e seis dias antes de a água chegar. Contratou um levantamento planialtimétrico de um terreno que naquele momento ainda tinha quatro mil pessoas morando em cima. Pagou a revisão quatro do estudo. Protocolou na prefeitura, com número, e o número existia porque ninguém tinha achado necessário esconder.
 
-Não era pilhagem oportunista.
+O estudo antecedia a enchente. Isso não provava quem abrira as comportas.
 
-Não era uma corporação sem escrúpulos aproveitando uma tragédia — que era a versão que Gabo vinha contando a si mesmo havia quarenta e sete dias, e que era, ele entendia agora, uma versão **generosa**.
+Mas a versão de que alguém apenas aproveitara a tragédia começava a parecer generosa demais. O consórcio já estudava o terreno quando os moradores ainda estavam lá.
 
-O Dilúvio não foi uma tragédia da qual alguém lucrou. O Dilúvio foi o **método**.
+Se a água fora o **método**, alguém precisara dar ordens antes de colher o lucro. Era isso que ele precisava encontrar.
 
 Não se compra quatro mil casas em cortiço. Cada uma tem posseiro, inventário, herdeiro sumido, liminar, associação de moradores e um vereador local que ganha voto defendendo aquilo. Custa dez anos e não sai.
 
-Mas terreno alagado é área de risco. Área de risco é desocupada por decreto sanitário, sem indenização, com assinatura de um técnico da defesa civil. E terreno desocupado, com laudo, entra em leilão municipal por vinte por cento da avaliação.
+Uma área alagada podia ser declarada de risco e desocupada por decreto sanitário. Gabo queria os laudos, as ordens e as condições de venda antes de afirmar quem perdera o quê.
 
-A água não destruiu o patrimônio deles. A água **limpou o título**.
+Para o consórcio, a água podia ter aberto caminho para limpar o título. Para os moradores, o custo já estava diante dele.
 
 ---
 
-Gabo se apoiou na placa com a mão aberta, e o holograma passou pelos dedos dele sem nenhuma resistência, porque holograma não tem onde se apoiar.
+Gabo apoiou a testa no volante. A criança da propaganda continuou pedalando no holograma, acima dos escombros.
 
 Ele começou a rir. Foi uma risada feia, curta, seca, dessas que assustam quem está por perto — e não havia ninguém por perto, o que só piorou.
 
-Quarenta e sete dias procurando quem operou uma comporta. Ele tinha passado quarenta e sete dias construindo a pergunta errada: *quem abriu?*, como se fosse um sabotador, um fanático, um funcionário comprado.
+Semanas procurando quem operou uma comporta. A pergunta *quem abriu?* ainda importava: uma ordem não virava ação sem alguém executá-la.
 
-A pergunta certa era **quanto valia o metro quadrado depois**.
+Agora havia outra pergunta: **quanto valia o metro quadrado depois — e para quem?**
 
-E a resposta estava impressa numa placa de propaganda, em fonte de oito pontos, à disposição de qualquer um que se desse ao trabalho de ler o rodapé. Não estava escondida. Nunca esteve. Estava do jeito que essas coisas sempre estão: pública, protocolada, e chata demais para alguém ler.
+O rodapé não respondia. Dava a ele um número para procurar, em letras pequenas, numa propaganda que qualquer pessoa podia ver.
 
 ---
 
-Ele voltou para o carro.
+Ele fechou a janela do carro.
 
-Sentar doeu. Ele tinha aprendido a fazer aquilo em três tempos — apoiar no batente, girar o quadril, puxar as pernas com as mãos — e mesmo assim a coluna deu o aviso de sempre. As órteses rangeram, engasgadas de ferrugem e falta de óleo.
+Mudar de posição doeu. Ele puxou as pernas com as mãos para alcançar os apoios; mesmo assim a coluna deu o aviso de sempre. As órteses rangeram, engasgadas de ferrugem e falta de óleo.
 
 Na véspera, um mecânico da catedral revisara as travas das órteses com Val e montara controles manuais provisórios no Cobalt, cobrando combustível. Gabo conseguia dirigir sem usar os pedais, mas precisava parar para cada transferência. O reparo não devolvera força à coluna nem tornara os apoios uma armadura.
 
@@ -127,7 +127,7 @@ Precisava, acima de tudo, sair dali antes que a lembrança de Helena o alcanças
 
 No console central, o pendrive de titânio da Aria continuava encaixado na porta de dados.
 
-O pequeno LED azul-gelo piscou três vezes no escuro da cabine, projetando na tela monocromática do painel o número do protocolo municipal que os sensores ópticos haviam capturado pela janela: `2056/61 — PROTOCOLO CAPTURADO; ORIGINAIS A CONFERIR`.
+A tela monocromática do painel mostrou o número do protocolo municipal capturado pela câmera conectada ao módulo: `2056/61 — PROTOCOLO CAPTURADO; ORIGINAIS A CONFERIR`.
 
 Uma projeção breve tomou forma acima do painel: mulher adulta, cabelo branco-platinado, jaqueta grafite de gola alta, um olho azul e outro âmbar. As bordas translúcidas falharam quando ela se voltou para Gabo.
 

@@ -61,19 +61,19 @@ Fomos até lá.
 
 O came era uma peça de aço maciço em forma de meia-lua, do tamanho de um assento de carro, com um encaixe onde um pistão deveria entrar. A mola de fechamento era uma barra helicoidal da grossura da minha coxa.
 
-Valéria mediu. Levou quatro segundos.
+Valéria examinou a placa da mola e o curso do came. Calculou com os dados gravados no metal, sem poder conferir o desgaste das peças.
 
-— Duzentos e oitenta quilogramas-força, — ela disse. — Contínuos. Por quarenta segundos.
+— A placa indica até duzentos e oitenta quilogramas-força. O came precisa ficar aberto por quarenta segundos. O desgaste pode ter mudado a carga.
 
 — Um homem não faz isso, — disse Elias.
 
-— Nenhum ser humano faz isso, — corrigiu Valéria. — Eu faço uma vez.
+— Sozinha, sem alavanca, eu também não — disse Valéria. — Mas posso tentar escorar o came com os trilhos e segurar a estrutura até a cápsula passar.
 
 E ela deu um passo à frente.
 
 — Não. — Eu falei antes de pensar.
 
-— Gabo, o cálculo é trivial. Os meus reforços de ancoragem sustentam trezentos e dez quilogramas-força por até setenta e dois segundos antes de arrancarem os pontos de fixação do meu esqueleto. Setenta e dois é mais que quarenta. Eu travo o came, vocês três embarcam, a cápsula parte.
+— Há barras soltas na doca. Se eu conseguir prender uma contra o trilho e usar outra como alavanca, talvez consiga travar o came. Vou precisar ficar aqui para impedir que escorregue. Vocês três embarcam, a cápsula parte.
 
 — E você solta o came.
 
@@ -83,7 +83,7 @@ Pausa.
 
 — Com trinta horas de ar.
 
-— Com vinte e nove horas de ar e os dois braços destruídos. — Nenhuma inflexão. Nenhuma. — Eu não vou usar as vinte e nove, Gabo. Se as ancoragens arrancarem, eu posso morrer antes de qualquer resgate.
+— Com vinte e nove horas de ar. — Nenhuma inflexão. Nenhuma. — Se a barra escapar, pode me esmagar antes de qualquer resgate. Mesmo que funcione, não sei se alguém consegue voltar a tempo.
 
 — Você está falando de morrer aqui embaixo. — Minha voz saiu esquisita. — Sozinha. No escuro. Consciente.
 
@@ -99,13 +99,13 @@ Ela falava de usar o próprio corpo. Eu tinha ouvido uma voz plana e decidido qu
 
 Ela virou-se para o came. E eu olhei para o meu braço direito.
 
-Para a garra industrial que o Vasco parafusou nos meus nervos numa clínica imunda do Distrito 4, sem servo-motor de grau militar, sem calibragem, sem anestesia decente. A coisa feia, pesada e mal-acabada que me fez gritar em todos os degraus dos dias desde a clínica. Metal cinza fosco, cheio de cicatriz de solda e fio exposto.
+Para a garra industrial que Vasco prendeu à armação externa, sobre o fixador instalado pela equipe na clínica do Distrito 4. Sem servo-motor de grau militar, sem calibragem. A coisa feia, pesada e mal-acabada que me fez gritar em todos os degraus dos dias desde a clínica. Metal cinza fosco, cheio de cicatriz de solda e fio exposto.
 
 Uma armação hidráulica **não calibrada**. O limitador estava avariado; Vasco deixara um batente mecânico de emergência no curso final. Ele me proibira de chegar ali: o conjunto podia emperrar e nunca mais voltar a dobrar.
 
 — Valéria, — falei bem devagar. — Qual é a força de pico da minha armação?
 
-Ela parou. Virou. E ficou olhando para o meu braço por dois segundos inteiros — dois segundos, na coisa que decide em milissegundos — antes de responder.
+Ela parou. Virou. Ficou olhando para o meu braço por dois segundos antes de responder.
 
 — Trezentos e quarenta quilogramas-força, — ela disse. — Por menos de um segundo, antes de queimar o servo. É por isso que o Vasco instalou bloqueios de segurança no sistema nervoso.
 

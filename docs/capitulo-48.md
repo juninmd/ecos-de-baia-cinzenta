@@ -126,11 +126,11 @@ A porta do arquivo ficava no fim do subsolo. Val desceu com a lanterna e voltou 
 
 — Gabo—
 
-— Ele deixou o material vivo na cena. Na Torre. — A voz saiu calma demais. — Passei o dia achando que era desprezo.
+— Ele tentou me afogar na Torre. Não sei se quem abriu essa caixa é a mesma pessoa. — A voz saiu calma demais.
 
-— E não era?
+— O relógio podia ser dele.
 
-— Era recado. Ele já tinha o que queria. Só queria que eu soubesse.
+— Pode ser um recado ou uma tentativa de nos fazer olhar para o homem errado. Precisamos descobrir quem tinha acesso à chave.
 
 — Por que alguém coleciona pedaço de um comissário morto há quinze anos? Gabo não respondeu. Havia um relógio no fundo da caixa. Pequeno, de corda, de mostrador rachado. Estava de pé, apoiado num dos envelopes vazios, e estava andando.
 

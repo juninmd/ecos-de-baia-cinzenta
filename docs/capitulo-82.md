@@ -3,14 +3,15 @@ layout: doc
 title: "Capítulo 82: O Profeta Mudo"
 description: "Na catedral de ferro do Padre Miguel há cinquenta pessoas ajoelhadas em silêncio. Não são mendigos: são engenheiros que encontraram uma rede que se alimenta da própria cidade."
 image: /capitulo_82.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Padre Miguel
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, o Profeta e participantes do encontro
+Participação em referência: Padre Miguel
 Localização: "Esgotos do Setor 4 — a Catedral de Ferro. 22h"
 ---
 
 # Capítulo 82: O Profeta Mudo
 
 Esgotos do Setor 4 — a Catedral de Ferro. 22h.
-O lugar onde o Padre Miguel pregou durante dezenove anos para gente que ninguém contava tinha novos inquilinos. E eles eram silenciosos.
+A câmara de drenagem sob a Catedral de Ferro, usada pelo Padre Miguel como abrigo quando a água subia, tinha novos inquilinos. E eles eram silenciosos.
 
 Gabo e Val desceram pelas passarelas enferrujadas com as lanternas apagadas, guiando-se pelo brilho que vinha de baixo. A água corria seis metros abaixo, e o som dela era o único som daquele lugar, o que já era errado: esgoto principal tem eco, gotejo, rato, e uma acústica que devolve tudo.
 
@@ -88,7 +89,7 @@ As quarenta e nove pessoas se levantaram ao mesmo tempo. Como um corpo só. E se
 
 ---
 
-Eles dispararam pela passarela. E o pior, o que Gabo ia levar para casa e para os sonhos, foi que **não houve grito**.
+Val puxou Gabo pela passarela. As órteses o sustentavam com dificuldade; a mão dele raspava na parede a cada passo. E o pior, o que levaria para casa e para os sonhos, foi que **não houve grito**.
 
 Multidão perseguindo faz barulho: berro, xingamento, ordem. Aquilo não. O que veio atrás deles foi o som de noventa e oito pés descalços correndo em chapa de aço, num ritmo perfeitamente sincronizado, com o estalo molhado de sola no metal.
 
@@ -96,11 +97,11 @@ E, por baixo, o infrassom, contínuo, fazendo os dentes de Gabo doerem na raiz.
 
 — **SAÍDA LESTE!** — gritou Val.
 
-Ela girou o corpo enquanto corria e jogou uma granada de luz para trás. O clarão encheu o túnel inteiro e Gabo viu, no negativo da retina, cinquenta silhuetas correndo sem sequer piscar. Eles não precisavam ver. Estavam seguindo a vibração das pisadas dos dois na estrutura.
+Ela girou o corpo e jogou uma granada de luz para trás. O clarão encheu o túnel e Gabo viu cinquenta silhuetas avançando sem piscar. Não pareciam depender da visão; o que seguiam ainda não estava claro.
 
 ---
 
-Val entendeu isso três segundos depois e gritou:
+Val ouviu as botas ecoarem na chapa e gritou:
 
 — **PARA DE CORRER!**
 
@@ -110,7 +111,7 @@ Val entendeu isso três segundos depois e gritou:
 
 Ela pulou para a viga lateral de sustentação, que era estreita e seca, e estendeu a mão. Gabo transferiu o peso devagar, segurando o corrimão e o ombro dela; uma das travas da órtese bateu na viga com um estalo.
 
-Eles andaram os últimos dezoito metros devagar, colados na parede, na viga. E a matilha passou reto embaixo deles, correndo, sincronizada, seguindo o ponto onde o ruído das pisadas tinha parado.
+Val jogou a lanterna acesa para o trecho de chapa adiante. O objeto bateu e rolou; os primeiros perseguidores seguiram o ruído. Ela e Gabo avançaram devagar pela viga, colados à parede, sem saber quanto tempo a distração duraria.
 
 ---
 

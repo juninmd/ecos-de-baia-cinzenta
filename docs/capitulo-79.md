@@ -3,7 +3,8 @@ layout: doc
 title: "Capítulo 79: Frequências Fantasmas"
 description: "Val volta ao rádio de ondas curtas porque o digital ficou limpo demais. E a estática devolve a voz de um homem que Gabo deixou ferido no Hub."
 image: /capitulo_79.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria, Silas Vance ("O Jardineiro"), Roberto Miranda
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria
+Participação em transmissão de origem não confirmada: voz atribuída a Roberto Miranda
 Localização: "Apartamento da Val — 14h30"
 ---
 
@@ -30,7 +31,7 @@ Ela estava sentada de costas para os três monitores, o que já era estranho, co
 
 — E está.
 
-— E está me cegando. — Val olhou para ele. — Gabo, eu passei três dias procurando qualquer coisa sobre o armazém da Zona Leste na rede. Sabe o que eu achei? Um galpão vazio. Sabe o que eu achei nos arquivos de imagem de satélite? Um telhado limpo. A Entidade não está mentindo para a gente. Ela está **enxergando errado**, e ela conserta a realidade para bater com o que ela enxerga.
+— E está me cegando. — Val olhou para ele. — Desde que você saiu do armazém, procurei na rede. O cadastro mostra um galpão vazio; a imagem de satélite mostra um telhado limpo. Não sei se são dados antigos, filtrados ou adulterados. Preciso dos originais e da data de captura.
 
 Ela bateu com dois dedos no gabinete de madeira.
 
@@ -44,15 +45,15 @@ O rádio apitou. E, no meio da estática, veio uma voz humana. Distante, distorc
 
 Val prendeu a respiração e ajustou o dial dois milímetros para a esquerda.
 
-— Loop — ela disse. — Está repetindo a cada quarenta e um segundos. E a triangulação é impossível, porque o sinal está rebatendo de um jeito que não faz sentido físico: está chegando aqui com três atrasos diferentes ao mesmo tempo.
+— Loop — ela disse. — Está repetindo a cada quarenta e um segundos. Ouço três atrasos, mas com um receptor só não consigo triangular a origem.
 
 — O que isso quer dizer?
 
-— Pode ter mais de um transmissor, repetidor ou caminho de propagação. — Ela olhou para ele. — Sincronizados. Espalhados. Como... como galho.
+— Pode ter mais de um transmissor, repetidor ou caminho de propagação. — Ela olhou para ele. — Preciso de outra antena para separar essas possibilidades.
 
 — Resistência?
 
-— Não sobrou resistência, Gabo. A gente ganhou, lembra? — Val riu, e o riso saiu sem nada dentro. — Isso é sobrevivente. Isso é gente escondida em algum lugar avisando outra gente.
+— Pode ser sobrevivente avisando outra gente. Ou alguém usando a voz de um. — Val riu sem alegria. — A gente ganhou, lembra?
 
 ---
 
@@ -74,9 +75,9 @@ Gabo parou de andar.
 
 Ele contou o armazém para ela em quatro frases secas. A árvore. Os dois corpos costurados. O homem de macacão que floresceu. Val ouviu tudo em silêncio, e no fim estava com a mão na boca.
 
-— E a Aria não vê nada disso.
+— E o cadastro consultado pela Aria não mostra nada disso.
 
-— Nada.
+— Não naquele armazém.
 
 ---
 

@@ -49,11 +49,11 @@ Uma parede de nuvens roxas se erguia sobre o mar, avançando em direção à cos
 
 Relâmpagos vermelhos dançavam dentro da massa de nuvens. Não azuis ou brancos como os normais. Vermelhos. Como sangue arterial. Como fúria.
 
-— O que diabos é aquilo? — perguntou Elena, saindo do carro e parando ao lado deles, os olhos arregalados.
+— O que diabos é aquilo? — perguntou Elena, ainda segurando o binóculo para Gabo.
 
 — Uma tempestade enorme — disse Val. O tablet recebia o barômetro local; isso não media o vento no mar nem fornecia categoria do ciclone. — A pressão está caindo. Sem radar e boletim confirmado, eu só posso dizer o que estamos vendo.
 
-Ela olhou para Gabo, e ele viu o medo nos olhos dela. Val nunca tinha medo.
+Ela olhou para Gabo, e ele viu o medo nos olhos dela. Mesmo assim, ela continuou conferindo o aparelho.
 
 — A leitura do barômetro está fora da faixa que eu calibrei. Pode ser o sensor. Não vou esperar descobrir aqui no cemitério.
 

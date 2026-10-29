@@ -1,6 +1,7 @@
 ---
 image: /cenas/investigacao.jpeg
-Personagens Presentes: Gabriel "Gabo" Moretti, Inspetor Rangel, Valéria "Val" Cruz, Aria, Dante Moretti, Kiko Vibe
+Personagens Presentes: Gabriel "Gabo" Moretti, Inspetor Rangel, Valéria "Val" Cruz, Aria, mulher e menino resgatados
+Participação em registros: Kiko Vibe, Dante Moretti
 Localização: "O Fliperama (antiga estação de manutenção subterrânea)"
 ---
 # Capítulo 111: Arquivos Mortos
@@ -49,14 +50,14 @@ Gabo levantou-se, mancando até a mesa. Ele olhou para o nome do pai no papel am
 
 — Sim, mas houve uma análise biológica do sangue encontrado no local — Rangel ajustou os óculos que não usava mais, um hábito fantasma. — O legista da época notou algo. Uma anomalia celular. As células do Dante... elas rejeitavam a integração sintética.
 
-— Como assim? — Valéria se aproximou. — O Dante atual é a fusão perfeita de mente e máquina. É o que o torna um "deus".
+— Como assim? — Valéria se aproximou. — Esse resultado é do corpo original. Não prova como o hospedeiro atual responde.
 
 — Talvez não seja tão perfeita assim — disse Gabo, ainda olhando para o papel. — Dante impõe ordem. Mas a biologia é caótica. O corpo que ele usa agora... é um clone forçado, acelerado pelo Gênesis. Mas a consciência dele é um código viral agressivo.
 
 Gabo tocou o monitor antigo.
-— A carne não aguenta o software. É muito processamento para um cérebro orgânico, mesmo um modificado. Kiko deixou uma nota aqui no servidor.
+— Kiko deixou uma hipótese sobre carga e resfriamento aqui no servidor. Precisamos ler antes de tratar aquilo como fraqueza.
 
-Valéria digitou um comando simples: `RUN_LOG_01.EXE`.
+Valéria abriu a cópia de texto `LOG_01.TXT` no leitor local, sem executar o programa arquivado ao lado.
 
 A tela piscou e texto rolou rapidamente:
 
@@ -70,9 +71,9 @@ A tela piscou e texto rolou rapidamente:
 
 — Ele precisa dormir — Gabo murmurou. — O deus da máquina precisa tirar sonecas.
 
-— Não é sono — corrigiu Valéria, lendo os dados técnicos que surgiam. — É um *reboot* forçado. Ele precisa se desconectar da rede da cidade para resfriar o núcleo biológico. Durante esse tempo... ele fica vulnerável.
+— O projeto descreve um ciclo de desconexão para resfriamento — disse Valéria. — Se este corpo usar a mesma rotina, pode ficar vulnerável durante ela.
 
-— Cego — completou Gabo. — Ele fica cego e surdo. A cidade continua rodando nos protocolos automáticos, mas a "Voz"... a consciência dele... apaga.
+— Talvez perca o acesso aos sensores — disse Gabo. — Ou talvez tenha deixado outra coisa vigiando por ele.
 
 — De quanto tempo estamos falando? — perguntou Rangel, o instinto policial afiando sua voz.
 
@@ -84,7 +85,7 @@ Gabo olhou para o teto cheio de cabos, como se pudesse ver a cidade acima deles 
 
 — Onde se esconde um deus? — completou Valéria, e não era deboche.
 
-— Ele não se esconde — disse Gabo. — Ele vai para a fonte. O único lugar com energia suficiente para manter o suporte de vida durante o resfriamento.
+— Ele pode procurar uma instalação capaz de sustentar o resfriamento — disse Gabo. — Uma fonte de energia perto da rede industrial.
 
 Gabo apontou para um mapa desbotado na parede, uma planta da cidade de antes da enchente. O dedo dele pousou sobre uma estrutura maciça no distrito industrial, agora submersa pela metade.
 
@@ -110,8 +111,8 @@ Click. Click. Click.
 
 Gabo assentiu. Ele se virou para a porta de aço da caixa de Faraday.
 
-— Vamos sair daqui. Temos quarenta minutos para cruzar a cidade, invadir uma usina instável e desligar o sistema operacional.
+— Vamos sair daqui e descobrir se essa rotina existe. Só depois a gente escolhe como entrar na usina.
 
 — E se falharmos? — perguntou Valéria, puxando o capuz sobre os fios de LED.
 
-— Então a gente vira arquivo morto — disse Gabo, abrindo a porta para a escuridão do esgoto. — Igual a todo o resto.
+— Então a gente vira arquivo morto — disse Gabo. A mulher resgatada se aproximou com o menino: conhecia uma saída para o quarteirão do irmão. Val marcou a rota no papel e esperou os dois atravessarem a passagem antes de fechar o painel. — Igual a todo o resto.

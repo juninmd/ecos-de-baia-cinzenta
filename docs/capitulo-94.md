@@ -3,7 +3,8 @@ layout: doc
 title: "Capítulo 94: O Coração da Colmeia"
 description: "Quatro quilômetros levando o pendrive da Aria e o banco de baterias de pulso por uma cidade que respira. O comboio é patético, e é tudo o que sobrou."
 image: /capitulo_94.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Capitão Jonas Vilar, Aria
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Capitão Jonas Vilar, Aria e integrantes dos Puros
+Participação na saída: Dra. Nise
 Localização: "Ruas de Baía Cinzenta — manhã do último dia"
 ---
 
@@ -137,7 +138,7 @@ O túnel descia. Pulsava com uma luz violeta que subia dos degraus, e a cada pul
 
 E, cento e cinquenta metros acima, o Sol Negro tinha parado de crescer. Val olhou para cima, depois para o buraco, e disse a coisa mais assustadora do dia:
 
-— Ele parou de comer, Gabo. Ele já tem o que precisa.
+— Parou de crescer desde que começamos a subida. Não sei o que vai fazer agora.
 
 Gabo firmou a alça da maca com as duas mãos.
 

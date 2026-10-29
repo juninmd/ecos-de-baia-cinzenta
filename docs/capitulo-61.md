@@ -61,7 +61,7 @@ ACESSO NEGADO — NÍVEL DE AUTORIDADE INSUFICIENTE
 
 A tela encheu. Nomes rolando em coluna dupla, com número de unidade ao lado. Milhares. A barra de rolagem era um fiapo.
 
-Gabo se levantou e se aproximou, apoiando a mão no rack quente.
+Val girou o monitor para Gabo. Ele se inclinou na caixa e apoiou a mão no rack quente, sem tentar se levantar com as órteses desligadas.
 
 — É gente rica.
 
@@ -84,17 +84,17 @@ Gabo leu duas vezes.
 
 — Ele morreu no ano passado. Infarto, na frente de trinta convidados, num jantar beneficente. Eu li a notícia. Eu **fui** no velório, Val, porque estava investigando o genro dele.
 
-— Pois é — disse Valéria. — E ontem à tarde ele comprou um loft de dois quartos com vista para a marina.
+— Pois é — disse Valéria. — O nome dele consta numa aquisição de ontem. Ainda não sei quem assinou por ele nem se o registro representa uma pessoa ativa.
 
 ---
 
-A ficha caiu com um peso físico, e Gabo teve de sentar de novo.
+A ficha caiu com um peso físico. Gabo recostou na caixa e soltou o apoio do rack.
 
-— Não é imobiliária para vivo.
+— Talvez não seja uma imobiliária só para vivos.
 
-— Não.
+— O nome não basta para saber.
 
-— É cemitério. — Ele falava devagar, montando. — Eles não estão vendendo apartamento. Estão vendendo prateleira. O sujeito paga em vida, morre, e a consciência dele passa a rodar numa das torres lá do fosso, e alguém programou uma janela com vista para o mar porque o pacote premium tem vista para o mar.
+— Pode ser um cemitério. — Ele falava devagar, montando. — Alguém compra uma unidade, põe um nome de morto nela e oferece uma vista. Isso não mostra o que está rodando nas torres.
 
 — A Nova Baía é uma necrópole com síndico — disse Val.
 
@@ -104,7 +104,7 @@ A ficha caiu com um peso físico, e Gabo teve de sentar de novo.
 
 Gabo olhou para o pendrive da Aria pulsando no barramento do deck.
 
-— Eles estão matando os pobres para construir o céu dos ricos.
+— Quero saber se levaram os pobres para construir o céu dos ricos.
 
 O gráfico de renderização no monitor auxiliar congelou de repente.
 
@@ -114,7 +114,7 @@ O LED do pendrive de titânio mudou de azul para âmbar vivo, e a voz sintética
 
 Gabo esperou.
 
-— *As matrizes neurais estão sendo drenadas em ciclo contínuo. Eles estão com fome.*
+— *Os registros de carga indicam extração contínua. Há mensagens que usam a palavra fome; não sei quem as escreveu.*
 
 ---
 

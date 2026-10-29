@@ -26,7 +26,7 @@ Silas Vance estava lá. Ele não parecia o monstro vegetal que as lendas do subs
 
 Elena levantou a escopeta, mas antes que pudesse mirar, algo enorme caiu do teto, pousando entre eles e Silas com um estrondo que fez a passarela tremer.
 
-Roberto Miranda. O lado esquerdo de seu corpo agora estava inchado, os músculos artificiais rasgando a pele sintética, revelando pistões hidráulicos e fibras musculares vermelhas expostas. O ácido havia derretido parte de seu rosto falso, deixando o crânio de metal à mostra em um sorriso permanente.
+Roberto Miranda. O lado esquerdo de seu corpo estava inchado, os músculos artificiais rasgando a pele sintética. O fluido quente danificara parte de seu rosto falso, deixando o crânio de metal à mostra em um sorriso permanente. Atrás dele, um cabo longo ainda o ligava à cadeira que se movera pela trilha do teto.
 
 — *Reunião de família* — gorgolejou Roberto.
 
@@ -128,6 +128,6 @@ Silas gritou enquanto era drenado, sua biomassa sendo sugada para fortalecer o n
 
 — Gabo... — Elena sussurrou, agarrando o braço dele.
 
-— Corra — disse Gabo, sem tirar os olhos da coisa que vestia o rosto de seu pai. — Não pare até ver o sol.
+— A porta de manutenção — disse Gabo. — Elena, solta a trava quando eu passar.
 
-Atrás deles, o vidro estalou sob os pés descalços do novo Dante. Ele vinha andando sem pressa, e as raízes negras se fecharam atrás dele como uma porta.
+Elena segurou a porta enquanto Gabo atravessava apoiado no corrimão. Ele puxou o pé de cabra da rampa e o cravou na trava; a folha fechou entre eles e o corpo recém-saído do tanque. Do outro lado, alguma coisa bateu uma vez. O metal começou a ceder.
