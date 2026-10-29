@@ -11,13 +11,13 @@ Este projeto está configurado como **PWA (Progressive Web App)** e pode ser com
 - ✅ **Offline Page**: Página exibida quando sem conexão
 
 ### Como instalar (navegador)?
-1. Acesse https://ecos-de-baia-cinzenta.netlify.app no Chrome/Edge mobile
+1. Acesse https://juninmd.github.io/ecos-de-baia-cinzenta/ no Chrome/Edge mobile
 2. Toque no menu (⋮) → "Adicionar à tela inicial"
 3. O app será instalado como PWA
 
 ### Atualizações em tempo real
 - O Service Worker busca atualizações automaticamente
-- Quando novo conteúdo é publicado no Netlify, o app atualiza em background
+- Quando novo conteúdo é publicado no GitHub Pages, o app atualiza em background
 - Usuário recebe novo conteúdo na próxima navegação
 
 ---
@@ -70,21 +70,21 @@ pnpm android:run
 
 ### Arquitetura Híbrida
 ```
-GitHub Push → Netlify Deploy → Atualiza site web
+GitHub Push → GitHub Pages → Atualiza site web
                                     ↓
                           App busca do servidor web
 ```
 
 O app **não empacota** o conteúdo HTML:
-- Ele carrega o site do Netlify em um WebView otimizado
-- Quando você faz push no GitHub → Netlify atualiza → App já mostra novo conteúdo
-- **Zero delay**: Sem necessidade de republicar na Google Play Store
+- Ele carrega o site do GitHub Pages em um WebView otimizado
+- Quando a publicação no GitHub Pages termina, o app pode carregar o novo conteúdo
+- O aplicativo remoto recebe o conteúdo publicado sem republicação na Google Play Store; a atualização depende do cache e do carregamento.
 
 ### Configuração (capacitor.config.json)
 ```json
 {
   "server": {
-    "url": "https://ecos-de-baia-cinzenta.netlify.app"
+    "url": "https://juninmd.github.io/ecos-de-baia-cinzenta/"
   }
 }
 ```
@@ -101,111 +101,4 @@ Para development local, mude para:
 
 ---
 
-## 📦 Publicar na Google Play Store
-
-### 1. Criar keystore (certificado)
-```bash
-cd android
-keytool -genkey -v -keystore meu-livro.keystore -alias baia-cinzenta -keyalg RSA -keysize 2048 -validity 10000
-```
-
-### 2. Configurar assinatura
-Edite `android/app/build.gradle`:
-```gradle
-android {
-    signingConfigs {
-        release {
-            storeFile file('meu-livro.keystore')
-            storePassword 'sua-senha'
-            keyAlias 'baia-cinzenta'
-            keyPassword 'sua-senha'
-        }
-    }
-    buildTypes {
-        release {
-            signingConfig signingConfigs.release
-        }
-    }
-}
-```
-
-### 3. Build release
-```bash
-cd android
-./gradlew bundleRelease
-```
-
-O arquivo `app-release.aab` estará em `android/app/build/outputs/bundle/release/`
-
-### 4. Upload na Play Console
-1. Acesse https://play.google.com/console
-2. Crie novo app
-3. Upload do `.aab`
-4. Preencha metadados (descrição, screenshots, etc)
-5. Publique!
-
----
-
-## 🎨 Personalizar ícone do app
-
-### Opção 1: Usar imagem existente
-```bash
-# Edite scripts/generate_icons.py linha 61:
-source = "docs/public/sua-imagem.png"  # Deve ser 512x512
-
-pnpm icons:generate
-```
-
-### Opção 2: Criar ícone customizado
-1. Crie `docs/public/app-icon-source.png` (512x512 px)
-2. Execute `pnpm icons:generate`
-3. Ícones gerados em `docs/public/icons/`
-
----
-
-## 🐛 Troubleshooting
-
-### PWA não aparece "Adicionar à tela"?
-- Certifique-se que está em HTTPS (Netlify já usa)
-- Limpe cache do navegador
-- Verifique console: Service Worker registrado?
-
-### App Android não conecta?
-```bash
-# Verifique se build está sincronizado
-pnpm android:sync
-
-# Logs do app
-npx cap run android --livereload
-```
-
-### Ícones não aparecem?
-```bash
-# Regerar ícones
-pnpm icons:generate
-
-# Sincronizar com Android
-pnpm android:sync
-```
-
----
-
-## 📊 Comparação: PWA vs App Nativo
-
-| Característica | PWA | App Nativo |
-|---------------|-----|------------|
-| Instalação | Navegador | Google Play Store |
-| Aprovação | Não requer | Requer revisão Google |
-| Atualizações | Instantâneas | Instantâneas (via web) |
-| Tamanho | ~500KB | ~5MB |
-| Funciona offline | Sim (cache) | Sim (cache) |
-| Notificações push | Sim | Sim |
-| Ícone na home | Sim | Sim |
-
-**Recomendação**: Comece com PWA, depois publique app nativo se quiser alcance via Play Store.
-
----
-
-## 🚀 Deploy automatizado (CI/CD)
-
-Veja `.github/workflows/android-build.yml` para build automático do APK em cada release.
+Para publicação, ícones e solução de problemas, consulte [ANDROID-PUBLICACAO.md](ANDROID-PUBLICACAO.md).

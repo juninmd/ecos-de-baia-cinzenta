@@ -9,7 +9,7 @@ This is an AI-collaborative cyberpunk noir novel published as an interactive Vit
 - **Frontend (Node.js)**: VitePress static site with custom TTS player and Terminal UI
   - Config: [docs/.vitepress/config.js](docs/.vitepress/config.js)
   - Theme: `docs/.vitepress/theme/` (custom components)
-  - Deploy: Netlify (automated via `netlify.toml`)
+  - Deploy: GitHub Pages (automated via `.github/workflows/github-pages.yml`)
 
 - **Backend (Python)**: Content generation scripts
   - Dependency manager: `uv` (NOT pip) - see [AGENTS.md](AGENTS.md)
@@ -91,7 +91,7 @@ Auto-generated from [docs/.vitepress/config.js](docs/.vitepress/config.js):
 - **Art**: `.github/workflows/art_generation.yml` - Character artwork
 
 ### APIs & Services
-- **Netlify**: Auto-deploys on push to main
+- **GitHub Pages**: Auto-deploys on push to master
 - **Google Gemini**: Used by `scripts/` for AI tasks (require API key)
 - **TTS**: Browser Web Speech API (no external service)
 

@@ -36,3 +36,9 @@ def test_service_worker_handlers():
 
 def test_offline_page_existe():
     assert (PUBLIC / "offline.html").is_file(), "offline.html ausente"
+
+
+def test_android_aponta_para_site_publicado_em_https():
+    config = json.loads((REPO_ROOT / "capacitor.config.json").read_text(encoding="utf-8"))
+    assert config["server"]["url"] == "https://juninmd.github.io/ecos-de-baia-cinzenta/"
+    assert config["server"].get("cleartext") is False

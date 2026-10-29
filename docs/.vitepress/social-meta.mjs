@@ -1,5 +1,5 @@
 // Origem pública do site (README). og:image e og:url precisam de URL absoluta.
-export const SITE_ORIGIN = 'https://ecos-de-baia-cinzenta.netlify.app'
+export const SITE_ORIGIN = 'https://juninmd.github.io/ecos-de-baia-cinzenta'
 const SITE_NAME = 'Ecos de Baía Cinzenta'
 
 export function socialMeta({ page, title, description, pageData }) {

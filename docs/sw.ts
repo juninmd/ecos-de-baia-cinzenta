@@ -3,15 +3,18 @@
 const sw = self as unknown as ServiceWorkerGlobalScope;
 
 // Service Worker for Ecos de Baía Cinzenta PWA
-const CACHE_VERSION = 'v1.0.0';
-const CACHE_NAME = `baia-cinzenta-${CACHE_VERSION}`;
-const OFFLINE_URL = '/offline.html';
+const CACHE_VERSION = 'v2';
+const scope = new URL(sw.registration.scope);
+const scopedPath = (path: string): string => new URL(path, scope).pathname;
+const CACHE_PREFIX = `baia-cinzenta-${encodeURIComponent(scope.pathname)}-`;
+const CACHE_NAME = `${CACHE_PREFIX}${CACHE_VERSION}`;
+const OFFLINE_URL = scopedPath('offline.html');
 
 const PRECACHE_ASSETS = [
-  '/',
-  '/capitulo-1',
-  '/cidade.jpg',
-  '/manifest.json',
+  scopedPath(''),
+  scopedPath('capitulo-1.html'),
+  scopedPath('cidade.jpg'),
+  scopedPath('manifest.json'),
   OFFLINE_URL
 ];
 
@@ -37,7 +40,7 @@ sw.addEventListener('install', (event: ExtendableEvent) => {
 async function activateWorker(): Promise<void> {
   const cacheNames = await caches.keys();
   await Promise.all(
-    cacheNames.filter(name => name !== CACHE_NAME).map(name => caches.delete(name))
+    cacheNames.filter(name => name.startsWith(CACHE_PREFIX) && name !== CACHE_NAME).map(name => caches.delete(name))
   );
   sw.clients.claim();
 }
@@ -78,7 +81,7 @@ function isCacheable(request: Request, response: Response): boolean {
 // O Vite põe hash no nome de /assets/: a mesma URL nunca muda de conteúdo, então o cache serve sem rede
 function isImmutableAsset(request: Request): boolean {
   const url = new URL(request.url);
-  return url.origin === sw.location.origin && url.pathname.startsWith('/assets/');
+  return url.origin === sw.location.origin && url.pathname.startsWith(scopedPath('assets/'));
 }
 
 async function handleFetchEvent(request: Request): Promise<Response> {
