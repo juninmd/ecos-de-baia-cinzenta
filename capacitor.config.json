@@ -3,8 +3,8 @@
   "appName": "Ecos de Baía Cinzenta",
   "webDir": "docs/.vitepress/dist",
   "server": {
-    "url": "https://ecos-de-baia-cinzenta.netlify.app",
-    "cleartext": true
+    "url": "https://juninmd.github.io/ecos-de-baia-cinzenta/",
+    "cleartext": false
   },
   "android": {
     "buildOptions": {

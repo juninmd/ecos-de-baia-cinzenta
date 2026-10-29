@@ -63,7 +63,7 @@
 ### Feature: Interactive Narrative Frontend (VitePress)
 - **User Value Proposition:** Enhances the reading experience by providing fast, accessible, and easily navigable story content.
 - **Technical Approach:** Leverage VitePress to serve Markdown files statically. Customize the theme to match the cyberpunk noir aesthetic and add custom Vue components for interactive elements.
-- **Success Criteria:** Page load times under 1 second, zero broken links across chapters, and successful deployment via Netlify.
+- **Success Criteria:** Page load times under 1 second, zero broken links across chapters, and successful deployment via GitHub Pages.
 - **Estimated Effort:** Large
 
 ## 5. Dependencies & Risks

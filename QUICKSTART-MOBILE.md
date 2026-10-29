@@ -29,13 +29,13 @@ pnpm docs:preview
 ```bash
 git add .
 git commit -m "feat: add PWA and Android app support"
-git push origin main
+git push origin master
 ```
 
-Netlify automaticamente:
+GitHub Pages automaticamente:
 1. Faz build do VitePress
 2. Publica manifest.json e service worker
-3. PWA fica disponível em: https://ecos-de-baia-cinzenta.netlify.app
+3. PWA fica disponível em: https://juninmd.github.io/ecos-de-baia-cinzenta/
 
 **Usuários podem instalar imediatamente!**
 
@@ -66,14 +66,14 @@ cd android && ./gradlew assembleDebug
 
 ### PWA (via navegador)
 1. Você faz push no GitHub
-2. Netlify rebuilda e publica
+2. GitHub Pages compila e publica
 3. Service Worker detecta nova versão
 4. Na próxima visita, usuário vê conteúdo atualizado
-5. **ZERO delay!**
+5. A disponibilidade depende da publicação e do cache do navegador
 
 ### App Android nativo
-- Se compilado com `server.url` apontando pro Netlify:
-  - Mesma atualização instantânea que PWA
+- Se compilado com `server.url` apontando para o GitHub Pages:
+  - Recebe o conteúdo publicado, sujeito ao cache
   - Não precisa republicar na Play Store
   
 - Se quiser empacotar conteúdo no APK:
@@ -104,7 +104,7 @@ Abra no Chrome mobile e teste "Adicionar à tela inicial"!
 
 ## 📚 Mais detalhes
 
-Ver [ANDROID.md](../ANDROID.md) para:
+Ver [ANDROID.md](ANDROID.md) para:
 - Publicação na Google Play Store
 - Customizar ícone do app
 - Troubleshooting
