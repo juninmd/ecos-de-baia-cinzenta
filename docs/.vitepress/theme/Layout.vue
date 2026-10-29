@@ -282,10 +282,13 @@ onUnmounted(() => {
   z-index: 1;
 }
 
+/* 92 de 109 capas são 1408x736: a proporção reserva o espaço antes da imagem chegar (CLS).
+   contain, e não cover, para que as capas quadradas não sejam cortadas. */
 .chapter-cover {
   width: 100%;
   max-height: 450px;
-  object-fit: cover;
+  aspect-ratio: 1408 / 736;
+  object-fit: contain;
   display: block;
   filter: contrast(1.05) saturate(1.1);
 }
