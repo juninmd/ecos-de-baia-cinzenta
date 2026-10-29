@@ -36,7 +36,7 @@ def say(texto: str, personagem: Optional[dict], destino: Path) -> Optional[float
     destino.parent.mkdir(parents=True, exist_ok=True)
     try:
         asyncio.run(_sintetizar(texto, voz, rate, pitch, destino))
-    except BaseException as exc:
+    except Exception as exc:
         print(f"⚠ edge-tts falhou ({type(exc).__name__}): {str(exc)[:120]}")
         return None
     if not destino.exists() or destino.stat().st_size <= MIN_BYTES:
