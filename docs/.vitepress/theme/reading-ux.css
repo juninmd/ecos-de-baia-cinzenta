@@ -1,0 +1,68 @@
+/* Leitura confortável em telas largas, tablets e celulares. */
+.vp-doc p {
+  max-width: 68ch;
+  font-size: clamp(1.05rem, 1rem + 0.25vw, 1.16rem);
+  line-height: 1.9;
+  text-align: left;
+  hyphens: auto;
+  text-wrap: pretty;
+}
+
+.vp-doc h1,
+.vp-doc h2,
+.vp-doc h3 {
+  text-wrap: balance;
+}
+
+.vp-doc :focus-visible,
+.chapter-navigation button:focus-visible,
+.fab-btn:focus-visible,
+.font-btn:focus-visible {
+  outline: 3px solid var(--neon-cyan, #06b6d4);
+  outline-offset: 4px;
+}
+
+.reading-progress-bar {
+  pointer-events: none;
+  transform-origin: left;
+}
+
+@media (max-width: 640px) {
+  .vp-doc {
+    padding-inline: 1.15rem;
+  }
+
+  .vp-doc p {
+    line-height: 1.82;
+  }
+
+  .chapter-navigation {
+    gap: 0.75rem;
+  }
+
+  .chapter-nav-btn {
+    min-height: 44px;
+    padding-inline: 0.8rem;
+  }
+
+  .reader-fab {
+    bottom: 82px;
+    right: 16px;
+  }
+
+  .terminal-fab {
+    bottom: 18px;
+    right: 16px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
