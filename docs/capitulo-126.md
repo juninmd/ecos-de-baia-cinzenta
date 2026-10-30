@@ -28,25 +28,17 @@ No fone auricular de Gabo, a estática abriu espaço para a voz adulta de Aria.
 
 — O padrão da sirene corresponde ao Código 4-4: evacuação civil. O arquivo de ocorrências registra o mesmo código em operações de cerco nas Revoltas da Água. Não sei qual ordem está em vigor agora.
 
-Uma gravação tentou atravessar o canal. Bia, anos antes, começando a dizer a mesma coisa no rádio da viatura. Val cortou o retorno e deixou o trecho marcado no terminal.
+A voz falhou no meio do aviso. Val inclinou a tela para Gabo: o canal de síntese repetia pacotes danificados.
 
-— Pare — disse Gabo, olhando para o módulo. — Não usa essa voz comigo.
+— Posso manter só texto — disse ela. — Perdemos os avisos no ouvido, mas Aria continua trabalhando.
 
-— Eu não escolhi reproduzi-la. Estou tentando separar as duas saídas desde que acordei.
+Gabo olhou a passagem escura. Precisava das mãos livres e do alerta antes de ver o perigo.
 
-Val inclinou a tela para ele. Havia um arquivo de áudio em execução e, ao lado, o canal de síntese de Aria. A falha não era uma pessoa alternando de corpo. Eram duas fontes que o reparo ainda misturava.
+— Você consegue manter a voz?
 
-— Posso manter só texto — disse Val. — Perdemos os avisos no ouvido, mas ela continua trabalhando.
+— Consigo tentar — disse Aria. — Se falhar, corte o alto-falante, não o núcleo. Meu histórico ainda está na unidade.
 
-Gabo olhou a passagem escura. Precisava das mãos livres, precisava do alerta antes de ver o perigo, e odiou perceber que estava transformando aquilo numa obrigação para os dois lados.
-
-— Mantém o aviso. Sem as gravações.
-
-— Vou tentar — disse Aria. — Se falhar de novo, corte o alto-falante, não o núcleo. E diga meu nome quando falar comigo.
-
-Ele soltou o módulo. A mão foi ao colar e parou antes de apertar. O metal já deixara sangue na camisa.
-
-— Aria. Entendido.
+Val deixou a chave de áudio ao alcance de Gabo. Ele soltou o módulo; a mão foi ao colar e parou antes de apertar. O metal já deixara sangue na camisa.
 
 Um gemido vindo da mesa quebrou a tensão. Rangel se mexeu, os olhos abrindo fendas na face inchada.
 

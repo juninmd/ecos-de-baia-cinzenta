@@ -13,6 +13,7 @@
 * **Prompt Visual:** a heavy-set balding 45 year old man with a big belly, thinning grey hair, small tired brown eyes in dark bags, a wooden toothpick in the corner of his mouth, sweat-soaked wrinkled short-sleeved shirt, wide suspenders, brass police badge
 * **Gostos/Traços:** Reclamar da falta de ar-condicionado como quem reza. Café com açúcar demais. Sabe onde está cada papel de cada caso dos últimos vinte anos, sem índice.
 * **Perfil Psicológico:** **O Homem Que Só Serviu Depois Que o Mundo Quebrou.** Rangel passou sete Partes sendo o obstáculo cômico — a papelada, o carimbo, o "não posso liberar sem a via rosa". Então os computadores morreram e descobriu-se que a única memória confiável da cidade estava na cabeça e nas gavetas de um burocrata que ninguém respeitava. Ele não vira herói: continua covarde, continua reclamando, continua com medo. Só que agora ele fica. Sua obsessão por procedimento nunca foi zelo — era a única forma de ordem que um homem sem coragem conseguia impor ao caos, e no fim isso valeu mais que coragem.
+* **Cargo / ocupação:** Inspetor da Corregedoria da DPBC; depois da deserção, atua como aliado da resistência.
 * **Função:** Fugitivo / Aliado da Resistência (Ex-Inspetor).
 
 ### ⏳ Linha do Tempo

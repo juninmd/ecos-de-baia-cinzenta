@@ -14,6 +14,7 @@
 * **Gostos/Traços:** Obediência cega às diretrizes da Aeterna Corp e zero empatia por alvos não corporativos.
 * **Perfil Psicológico:** A Máquina Humana Corporativa. Despersonalizados e condicionados por protocolos neurais de combate, os operativos não discutem ordens nem negociam. São a ferramenta brutal com a qual Viktor Krell e a diretoria esmagam insurreições e protegem os distritos altos.
 * **Prompt Visual:** cinematic portrait, elite tactical corporate operative, black modular carbon body armor, aerodynamic ballistic helmet with amber-gold visor slit, glowing corporate logo, acid rain
+* **Cargo / ocupação:** Agente de segurança privada e operações táticas da Aeterna Sec.
 * **Função:** Força de Repressão Paramilitar / O Muro Corporativo.
 
 ### ⏳ Linha do Tempo

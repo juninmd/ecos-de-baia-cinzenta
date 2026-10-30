@@ -60,7 +60,7 @@ Marco sorriu.
 
 ---
 
-Val estava com as mãos no alto e ninguém olhava para ela, porque ninguém nunca olha para a mulher desarmada de vinte e três anos.
+Val estava com as mãos no alto e ninguém olhava para ela, porque ninguém nunca olha para a mulher desarmada de vinte e oito anos.
 
 Ela girou o pulso e ativou o deck com o queixo.
 

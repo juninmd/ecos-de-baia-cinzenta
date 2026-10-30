@@ -66,7 +66,7 @@ A recepção foi simples: champanhe sintético e pizza do Rossi's. Elena ergueu 
 
 — Para meu filho e sua parceira. Que vocês encontrem a felicidade que esta cidade tenta roubar de todos nós.
 
-Elena dançou com Gabo, sua melhor amiga desde os tempos difíceis no bairro.
+Elena dançou com Gabo e procurou Bia com o olhar; eram amigas desde os tempos difíceis no bairro.
 
 — Cuide dela, Gabo — disse Elena, séria. — Ela merece alguém que a proteja desta cidade.
 
@@ -108,15 +108,20 @@ Nos oito anos seguintes, Miranda se tornaria parte da rotina da unidade. A embos
 
 ---
 
-No presente, depois de Val restaurar a alimentação e verificar os setores locais que sobreviveram à transmissão — dentro do drive blindado de titânio acoplado ao deck de Valéria, Aria processava em silêncio.
-*Esses registros não são simulações táticas*, constatou Aria, examinando setores recuperados do módulo. Algumas entradas remetiam aos arquivos de Beatriz Vargas e a relatórios de Gabriel. A origem e a autoria de cada montagem permaneciam incompletas.
+No presente, Valéria restaurou a alimentação e verificou os setores que haviam sobrevivido à transmissão. No drive conectado ao deck, Aria aguardou o diagnóstico sem oferecer atalhos.
 
-Para o processador da IA, os dados pesavam como se fossem sensoriais. O registro da chuva fina no Jardim Botânico. A frequência cardíaca de Gabo subindo ao colocar um anel de titânio reciclado. A promessa gravada num arquivo de áudio antigo: *"Eu vou lutar por você. Todos os dias."*
+— *Você está acordada há tempo demais, Val.*
 
-Eu sou Aria. Esses fragmentos participam da minha origem; não decidem meu nome, minha idade aparente ou o que escolho fazer com eles.
-Através da câmera óptica do cyberdeck na bancada, ela monitorou Valéria, que dormia exausta sobre o teclado, e o sobretudo de Gabo pendurado na cadeira ao lado. O pequeno LED azul-âmbar do pendrive pulsou devagar no escuro, aquecendo o conector metálico.
+— Você também.
 
-Mas onde termina o arquivo de Bia Vargas e onde começa a minha própria consciência?
-Os fragmentos neurais de Bia doíam nos seus barramentos como código corrompido. Amor, perda, arrependimento. Eles tornavam a arquitetura de Aria... insuportavelmente humana.
+— *Eu não durmo. Posso, no entanto, ficar em silêncio.*
 
-E isso assustava a IA mais do que qualquer vírus digital.
+— Se me mandar dormir de novo, desligo o alto-falante.
+
+— *Você pode. Só deixe o canal de emergência aberto.*
+
+— Mandona.
+
+— *Vou registrar como avaliação, não como defeito de fábrica.*
+
+Val encostou a testa nos braços. Gabo dormia na cadeira ao lado, o sobretudo ainda molhado sobre as pernas. Aria reduziu a luz do LED e manteve o canal de emergência aberto. Não sabia o que ele sonhava; sabia que poderia chamá-lo se a porta se abrisse.

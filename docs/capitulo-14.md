@@ -33,7 +33,7 @@ Na página, seus rostos giravam sobre um mapa da cidade.
 
 CAÇADA AO INVISÍVEL — TEMPORADA 1.
 RECOMPENSA: DEZ MILHÕES DE CRÉDITOS E CIDADANIA PLATINUM. TRANSMISSÃO OBRIGATÓRIA.
-Uma propaganda prometia bônus por conduzi-los à cafeteria onde Gabo terminara o casamento. Outra marcava o beco da morte de Bia: *Eco do Fracasso*. A terceira oferecia o dobro se a parceira atual morresse como a anterior.
+Uma propaganda prometia bônus por conduzi-los à cafeteria onde o casamento com Elena terminara. Outra marcava o beco da morte de Bia: *Eco do Fracasso*. A terceira oferecia o dobro se a parceira atual morresse como a anterior.
 
 Valéria deixou o cursor sobre aquela linha.
 

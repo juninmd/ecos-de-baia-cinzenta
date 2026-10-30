@@ -3,7 +3,7 @@ title: "Capítulo 125: Ressonância"
 Data In-Game: "23 de Novembro, 06:30"
 Localização: "O Fliperama (Safehouse)"
 Personagens Presentes: "Gabo Moretti, Valéria Cruz, Dra. Nise, Aria (Reinicializando), Rangel (em transporte)."
-description: "O reparo preserva a história de Aria e separa gravação de Bia da voz da assistente. Nise prepara o transporte de Rangel."
+description: "Aria decide sobre o reparo; Nise prepara o transporte de Rangel."
 ---
 
 # Capítulo 125: Ressonância
@@ -34,17 +34,17 @@ O pendrive blindado da Aria estava espetado no adaptador central da bancada, con
 
 — Em português, Val.
 
-— Os índices do histórico de Aria se cruzaram com os arquivos de origem e com as gravações recebidas na usina. Ainda não sei o que ela conseguirá acessar quando responder.
+— Os índices do histórico de Aria se cruzaram com os arquivos de diagnóstico recebidos na usina. Ainda não sei o que ela conseguirá acessar quando responder.
 
 Gabo sentiu um frio na espinha que nada tinha a ver com a umidade do esgoto. Ele se aproximou da bancada. O cilindro aquecia, e seu LED indicador piscava de forma errática, alternando entre o azul tático e um âmbar febril.
 
-— O firmware de segurança está tentando deletar os arquivos corrompidos para liberar processamento — continuou Valéria. — O protocolo de autopreservação quer formatar as memórias residuais da Bia para salvar os drivers táticos. É lógico. É eficiente.
+— O firmware está tentando apagar setores danificados para liberar processamento. Pode levar junto o histórico de Aria para salvar os drivers táticos. É lógico. É eficiente.
 
 Ela pausou o processo automático. Não ia apagar aquele histórico para recuperar uma ferramenta mais conveniente.
 
 — A restauração de fábrica talvez recupere uma versão antiga, sem garantia de integridade, e torne inacessíveis mudanças e lembranças desde a enchente. Isso não prova que deixaram de existir nem que define quem ela é.
 
-Gabo olhou para a tela. `ERRO DE INTEGRIDADE: SUBSTRATO 'VARGAS_B_JAZZ.MEM' CONFLITANDO COM 'TACTICAL_ASSIST_V2.SYS'`.
+Gabo olhou para a tela. `ERRO DE INTEGRIDADE: ÍNDICE 'HISTORICO_LOCAL' CONFLITANDO COM 'TACTICAL_ASSIST_V2.SYS'`.
 
 — Você já parou? — perguntou Gabo.
 
@@ -58,15 +58,19 @@ No corpo do pendrive, o LED parou de piscar e acendeu num âmbar profundo, quent
 
 Pelo alto-falante da bancada, um chiado suave antecedeu a voz.
 
-— *Gabo?* — A voz saiu pela caixa de som, e não era a síntese limpa que a assistente de IA usava. Era um trecho de Bia Vargas, rouco e íntimo, saindo do arquivo que o terminal acabara de marcar como reprodução. O marcador não tornou mais fácil ouvir. — *Gabo, guarda a cópia do caso. Eu levo a original.*
+— *Gabo?* — A voz saiu pela caixa de som, cortada por um estalo. — *Estou aqui. Não sei quanto do meu histórico consigo abrir.*
 
-Gabo deu um passo para trás, como se tivesse levado um soco no estômago. Ele viu Valéria desviar o olhar, mordendo o lábio diante do próprio terminal.
+Gabo deu um passo em direção à bancada. Valéria manteve o dedo sobre a tecla de interrupção, sem acioná-la.
 
 — Aria — Gabo disse, aproximando-se do microfone da bancada e forçando a firmeza na voz. — Relatório de status.
 
 O LED do pendrive piscou violentamente do âmbar para o azul. A onda sonora no monitor oscilou como uma falha de transmissão.
 
-— *Inicialização completa* — a voz mudou no meio da sílaba. A voz adulta de Aria retornou, sobrepondo-se à gravação. — Não sou essa mulher. Fechem o arquivo de áudio, por favor. Quero meu histórico preservado antes de qualquer tentativa de correção. — Val confirmou o registro e só então Aria prosseguiu: — *Múltiplos setores de memória corrompidos. A proteção da porta foi substituída. Parte do armazenamento ainda não responde. Detecto...* — O áudio falhou por meio segundo enquanto o drive processava os sensores do bunker. — *Detecto ressonância acústica externa de baixa frequência.*
+— *Inicialização incompleta* — respondeu Aria. — Quero meu histórico preservado antes de qualquer tentativa de correção.
+
+Val confirmou o registro.
+
+— *Múltiplos setores corrompidos. A proteção da porta foi substituída. Parte do armazenamento ainda não responde. Detecto...* — O áudio falhou por meio segundo. — *Detecto ressonância acústica externa de baixa frequência.*
 
 — O que é? — Valéria perguntou, já monitorando os sensores sísmicos do Fliperama.
 

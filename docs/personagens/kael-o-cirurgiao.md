@@ -12,6 +12,7 @@
 * **Equipamento:** Bisturis de monofilamento, serras ósseas antigas e injetores de adrenalina (para manter as vítimas acordadas).
 * **Gostos/Traços:** Música clássica (ouve ópera enquanto trabalha). Coleciona "peças" anatômicas interessantes de suas vítimas.
 * **Perfil Psicológico:** Sadismo Filosófico. Kael acredita que a dor é a única verdade absoluta em um mundo digital de mentiras. Ele não tortura por informação; ele tortura para "libertar" a essência da pessoa. Ele é o pesadelo que Gabo vê quando fecha os olhos.
+* **Cargo / ocupação:** Operativo de campo e executor da Aeterna; Cirurgião é alcunha, sem formação médica comprovada.
 * **Função:** O Executor da Aeterna / O Pesadelo de Gabo.
 
 ### ⏳ Linha do Tempo

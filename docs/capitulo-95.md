@@ -56,7 +56,7 @@ Ela sacou a pistola com a mão direita e conferiu o carregador.
 
 Gabo olhou para ela.
 
-Valéria Cruz. Vinte e três anos agora. A melhor hacker que aquela cidade produziu, que foi cortada da rede aos dezenove e passou cinco meses sozinha num quarto, que remontou um comunicador com peça de sucata e reza, que caiu trinta metros em cima de um exoesqueleto sem gritar na descida, que matou três homens num corredor aos vinte e três e escreveu os nomes deles com a mão tremendo.
+Valéria Cruz. Vinte e oito anos agora. A melhor hacker que aquela cidade produziu, que foi cortada da rede aos dezenove e passou cinco meses sozinha num quarto, que remontou um comunicador com peça de sucata e reza, que caiu trinta metros em cima de um exoesqueleto sem gritar na descida, que matou três homens num corredor aos vinte e oito e escreveu os nomes deles com a mão tremendo.
 
 A parceira dele. A amiga dele.
 

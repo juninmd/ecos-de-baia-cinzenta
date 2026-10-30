@@ -92,7 +92,7 @@ O primeiro aviso não foi um alarme. Foi o cooler do servidor subindo de rotaç�
 
 — Então solta o cinza e vai para o corredor.
 
-— Se eu solto, ele entra na geladeira do plasma. Se eu largo o mapa, ele volta. — Havia um fio escuro embaixo do nariz dela. — Ele quer que eu escolha. Vinte e três anos, sangue no lábio, um cabo atrás da orelha, a decisão inteira em cima dela.
+— Se eu solto, ele entra na geladeira do plasma. Se eu largo o mapa, ele volta. — Havia um fio escuro embaixo do nariz dela. — Ele quer que eu escolha. Vinte e oito anos, sangue no lábio, um cabo atrás da orelha, a decisão inteira em cima dela.
 
 — Então não escolhe. Engana. — Ele apontou a tela com o queixo. — Dá um inventário errado. Uma sala que não existe, com uma caixa que não existe, no fim de um corredor que dá numa parede. Ele gasta a chave ali.
 

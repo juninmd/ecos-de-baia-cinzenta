@@ -1,6 +1,10 @@
 <!-- markdownlint-disable MD041 -->
 
+<CharacterPortraits name="Roberto Miranda" portrait="/personagens/roberto.png">
+
 ![Roberto Miranda](/personagens/roberto.png)
+
+</CharacterPortraits>
 
 * **Idade:** 32 anos (na primeira aparição) / Indefinida como Ciborgue
 * **Altura:** 1,85 m
@@ -13,6 +17,7 @@
 * **Gostos/Traços:** Poker, charutos, ordem.
 * **Perfil Psicológico:** Viciado em adrenalina e risco disfarçado de agente da lei.
 * **Motivação da Corrupção (O Vício):** Miranda não nasceu corrupto; ele foi comprado. Seu vício em "High-Stakes Poker" no Palácio de Jade acumulou dívidas impagáveis com o Sindicato. A Aeterna Corp comprou sua dívida em troca de obediência cega. O jogo era a única coisa que fazia ele sentir a mesma adrenalina das ruas, substituindo a moralidade pela probabilidade. Ele via a cidade como um cassino, e vidas como fichas.
+* **Cargo / ocupação:** Policial e antigo parceiro de Gabo; mais tarde atua como executor subordinado à Aeterna.
 * **Função:** Ex-Parceiro / Guardião.
 
 ### ⏳ Linha do Tempo e Evolução Visual

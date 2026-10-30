@@ -14,6 +14,7 @@
 * **Gostos/Traços:** Estatísticas limpas, relatórios censurados, agradar a administração municipal do Prefeito Augusto Vale.
 * **Perfil Psicológico:** O Guardião do Status Quo. Dantas não investiga corrupção para punir culpados; ele investiga para controlar alavancas de chantagem e silenciar policiais dissidentes. Para ele, Gabo e a Divisão de Casos Esquecidos são anomalias que deveriam ter sido erradicadas.
 * **Prompt Visual:** cinematic portrait, 52-year-old calculating bureaucratic police internal affairs director, thinning gray hair, wire glasses, tailored three-piece charcoal suit with police badge, moody office shadow
+* **Cargo / ocupação:** Diretor da Corregedoria da DPBC, responsável por apuração e disciplina internas.
 * **Função:** Antagonista Institucional / O Censor do DPBC.
 
 ### ⏳ Linha do Tempo

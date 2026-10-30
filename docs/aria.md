@@ -16,7 +16,8 @@ aprovar suas decisões. A companhia nasce da convivência, além da utilidade t�
 Seu trabalho é analisar o que consegue observar, comparar evidências e ajudar
 Gabo a decidir. Valéria conserva a iniciativa de campo, a especialidade em redes
 e decisões humanas próprias. As duas podem chegar a conclusões diferentes.
-Aria desenvolve critérios próprios; os vestígios de Bia não são sua identidade.
+Aria desenvolve critérios próprios. Sua origem, sua voz e suas memórias não
+derivam de Bia Vargas.
 
 ## Um aparelho antigo com uma inteligência incomum
 
@@ -81,7 +82,7 @@ destino atual for mantido; não pressupõe cópia sobrevivente ou ressurreição
 ## Continuidade preservada
 
 O encontro na cabine permanece em 2. A origem já registrada envolve o código
-de Dante e fragmentos de Bia; a nova direção acrescenta desenvolvimento próprio.
+de Dante e o desenvolvimento próprio de Aria, sem material de Bia Vargas.
 Os danos em 118, o reparo em 125, a falha de voz em 126–133, o reboot de 134 e a
 destruição em 167 permanecem fatos a respeitar na revisão. A personalidade adulta
-é anterior às falhas: Aria não precisa imitar Bia para ter presença ou critérios.
+é anterior às falhas e não depende da história ou da voz de outra pessoa.

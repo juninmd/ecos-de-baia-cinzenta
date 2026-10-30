@@ -1,5 +1,7 @@
 # Revisão editorial — Ecos de Baía Cinzenta
 
+> Registro histórico: observações e citações refletem versões anteriores. Para o cânone atual, consulte os capítulos e os dossiês; a idade de Valéria é 28 anos e a origem, a voz e as memórias de Aria não derivam de Bia.
+
 Revisão capítulo a capítulo: o que precisa ser corrigido, o que precisa ser melhorado e o
 que precisa ser verificado mais adiante na obra. Cada item é acionável — se não dá para
 agir sobre ele, não entra.

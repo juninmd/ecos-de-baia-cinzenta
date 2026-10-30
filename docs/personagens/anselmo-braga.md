@@ -17,6 +17,7 @@
   * **A lógica dele:** *"Eu matei minha mulher. Isso é verdade e eu nunca neguei. O senhor mentiu num inquérito para me prender. Isso também é verdade e o senhor negou a vida inteira. Nós dois quebramos a mesma lei, Sr. Moretti. A diferença é que eu paguei catorze anos e o senhor virou herói."*
   * **A armadilha:** ele **não quer matar Gabo.** Quer levá-lo a executar um homem desarmado, imobilizado, sem reação. Braga acredita que isso encerraria a diferença entre os dois; é a tese dele, não uma equivalência que absolva qualquer dos crimes. Gabo pode esperar a custódia e recusa. O assassinato realiza a provocação, não uma necessidade de sobrevivência.
 * **Prompt Visual:** a towering gaunt 57 year old dockworker, huge shoulders on a body wasted by prison, shaved grey head with a wide scar across the crown, small unblinking brown eyes, swollen ruined knuckles, faded navy coveralls, holding a steel cargo ratchet strap, flooded dock at night
+* **Cargo / ocupação:** Estivador portuário antes da prisão; trabalhou na lavanderia prisional durante a pena.
 * **Função:** A Nêmese Pessoal / O Preço do Método.
 
 ### 🩸 A Dívida (por que ele existe)

@@ -43,7 +43,7 @@ Rangel aceitou a mão, sentindo a força bruta e calejada do ex-policial.
 
 Eles caminharam pela escuridão, guiados apenas pela visão noturna de Valéria, pelas leituras do sonar do comunicador que Aria recebia por cabo e pelo instinto de Gabo. O túnel cheirava a ferrugem antiga e memórias esquecidas. Trilhos de metrô enferrujados surgiam da lama ocasionalmente, vestígios de uma linha de transporte abandonada antes mesmo da Grande Enchente.
 
-Rangel sentia o peso de cada passo. Não era apenas o cansaço físico; era o peso de uma vida inteira desmoronando. Ele era a Lei. Ele era a Ordem. Agora, ele estava marchando no esgoto com um ex-detetive caçado, uma hacker fugitiva e uma inteligência artificial alojada num drive de titânio que tinha voz própria, embora carregasse material roubado de uma colega morta.
+Rangel sentia o peso de cada passo. Não era apenas o cansaço físico; era o peso de uma vida inteira desmoronando. Ele era a Lei. Ele era a Ordem. Agora, ele estava marchando no esgoto com um ex-detetive caçado, uma hacker fugitiva e uma inteligência artificial alojada num drive de titânio, com voz e escolhas próprias.
 
 — Você está pensando alto demais, inspetor — disse Valéria, sem olhar para trás. — O barulho na sua cabeça vai atrair atenção.
 

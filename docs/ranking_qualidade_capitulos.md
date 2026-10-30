@@ -2,6 +2,8 @@
 
 Este documento mantém um registro da avaliação de qualidade narrativa, ritmo e impacto emocional de cada capítulo.
 
+> **Registro histórico:** avaliações antigas podem descrever versões anteriores dos capítulos. Para a continuidade vigente, consulte o texto atual e o dossiê de personagens.
+
 > **Escala:** 1 (Péssimo) a 10 (Obra-Prima).
 > **Diretrizes de Avaliação:** Atmosfera Noir, Coerência de Personagem (especialmente o ódio de Gabo a cigarros), "Sem Soluções Fáceis" (Gritty Realism) e Ritmo.
 

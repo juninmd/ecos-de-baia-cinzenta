@@ -74,7 +74,7 @@ Gabo fechou os olhos.
 
 Ela olhou para ele com os olhos vermelhos.
 
-— Eu tenho vinte e três anos, Gabo. Eu não devia ser a pessoa que decide isso.
+— Eu tenho vinte e oito anos, Gabo. Eu não devia ser a pessoa que decide isso.
 
 — Não devia mesmo. Gabo olhou para a porta USB blindada do console, onde o pendrive de titânio da Aria estava conectado, lendo diretamente os barramentos do servidor. O LED lateral piscava num ritmo lento e pesado, sobrecarregado pelos quarenta e um mil fluxos de telemetria neural.
 

@@ -21,21 +21,21 @@ Gabo sentiu o peso de Rangel aumentar a cada passo. O Inspetor, febril e com a r
 
 — Estamos descendo há trinta minutos. A inclinação sugere que já passamos do nível do mar. Se as plantas da Fundação estiverem certas...
 
-— *Elas nunca estão* — a voz de Aria cortou a conversa pelo fone auricular de Gabo. Era a voz adulta de Aria, interrompida pelo início de uma gravação que o filtro ainda não conseguira separar.
+— *Elas nunca estão* — disse Aria pelo fone de Gabo. A última palavra se repetiu duas vezes antes que ela fechasse a saída e abrisse o canal de texto.
 
-Gabo travou o maxilar. A dor física de carregar Rangel era administrável; ele conhecia a dor, era uma velha amiga. Mas aquela voz saindo do comunicador preso ao seu colarinho... aquela voz era uma picada de gelo na base do crânio.
+Gabo travou o maxilar. Carregar Rangel cobrava a perna e o braço; perder o aviso no fone cobraria tempo que talvez não tivessem.
 
-No barramento do comunicador, o indicador luminoso pulsava em sincronia com os passos de Gabo, processando as leituras acústicas do túnel com uma familiaridade aterrorizante.
+No comunicador, o indicador âmbar piscou. Aria retomou a varredura pelos microfones do deck, mas o canal de voz ainda não respondia.
 
-— *O registro diz que alguém costumava vir aqui* — sussurrou a voz no fone dele, enquanto o laser de varredura do deck apontava para um arco de pedra que se erguia como a costela de um leviatã. — *Há uma anotação sobre fugir da escola e se esconder do satélite. Não consigo identificar o autor. Não vou atribuir isso a você.*
+A tela mostrou uma anotação antiga sobre o túnel, sem origem identificada. Aria separou o registro das leituras dos sensores.
 
-Gabo fechou os olhos por um segundo. Gabo não reconheceu a anotação. Bia e ele se conheceram na Academia de Polícia; o arquivo não dizia que os dois haviam descido ali.
+Gabo conferiu o arco de pedra à frente. A anotação não dizia se o corredor ainda estava livre.
 
-— Isso nunca aconteceu, Aria — Gabo rosnou para o microfone de lapela, ajustando a cinta da prancha de Rangel. — Economize o capacitor do drive. Fique em silêncio.
+— Economize o capacitor — disse Gabo, ajustando a cinta da prancha de Rangel. — E avise se ouvir passos.
 
-— Estou isolando a anotação — respondeu Aria. — Não há confirmação de que seja sua. Não a use como lembrança.
+— Estou isolando o registro — respondeu Aria em texto. — Não use isso como planta atual.
 
-Gabo soltou o ar com força pelo nariz. A mão livre foi instintivamente ao peito, apertando o *Colar de Sol* sob a camisa suja. O metal frio mordeu a pele, a dor aguda servindo como âncora. *Não é ela. É um glitch no pendrive. É um erro de paridade.*
+Gabo soltou o ar pelo nariz. A mão livre foi ao *Colar de Sol*; o metal frio mordeu a pele antes que ele o largasse.
 
 — Chegamos — Valéria anunciou, estendendo a mão para parar o grupo.
 
@@ -61,13 +61,13 @@ Eles avançaram com cuidado. O chão era liso, coberto por um lodo que parecia �
 
 No comunicador preso ao peito de Gabo, o LED âmbar acendeu mais forte.
 
-— *Gabo...* — sussurrou a voz de Aria exclusivamente no canal privado do fone dele. — *Seus batimentos estão em 118 por minuto. Você parece exausto. Quer que eu silencie o canal de origem e mantenha só os alertas? Não preciso tocar gravação nenhuma para ajudar.*
+— *Gabo...* — A voz de Aria voltou ao canal privado, entrecortada. — *Seus batimentos estão em 118 por minuto. Posso manter só os alertas.*
 
-Gabo olhou para o pequeno cilindro de titânio conectado pelo cabo tático ao deck de Valéria. A luz vermelha do sinalizador refletia no metal fosco do pendrive, mas o tom de voz no seu ouvido era a voz de Aria, baixa para não encobrir os ruídos da câmara. A lembrança de Bia vinha dele; o marcador de reprodução estava apagado.
+Gabo olhou para o cilindro conectado por cabo ao deck. A luz do sinalizador refletia no metal; a voz de Aria saía baixa para não encobrir os ruídos da câmara.
 
-A náusea subiu pela garganta de Gabo. Ele queria arrancar o fone. Queria esmagar o drive sob a bota. Queria continuar ouvindo.
+A náusea subiu pela garganta de Gabo. Ele queria arrancar o fone; também precisava ouvir o que se aproximasse pela água.
 
-— Não — ele disse, a voz trêmula. — Não toque nada. Apenas... mantenha os sensores acústicos em varredura de perímetro. Por favor.
+— Mantenha os sensores acústicos no perímetro. Por favor.
 
 O LED do pendrive piscou. A voz de Aria voltou pelo canal que ela escolhera manter.
 
@@ -79,11 +79,11 @@ Valéria olhou para Gabo, os olhos cibernéticos cheios de preocupação.
 
 — Eu tentei isolar os pacotes de memória no pendrive — ela sussurrou. — Mas estão entrelaçados no kernel. Se eu apagar os arquivos que parecem intrusos sem conferir as referências, posso atingir o histórico que a própria Aria pediu para preservar.
 
-— Isso não é a Bia — Gabo disse, mas não sabia se estava tentando convencer Valéria ou a si mesmo. — É tortura.
+— Então não apaga — disse Gabo. — Se ela precisar do histórico, a decisão é dela.
 
 De repente, o LED do pendrive da Aria mudou de âmbar para azul-gelo e apitou duas vezes no comunicador.
 
-— *Movimento detectado* — anunciou Aria. A voz mudou. A modulação íntima sumiu, substituída por um timbre tático, plano e eficiente. — *Setor Norte. Sons de passos adiante. Aproximação rápida; não consigo medir a distância pelo eco.*
+— *Movimento detectado* — anunciou Aria, a voz cortando e retornando. — *Setor norte. Sons de passos adiante. Aproximação rápida; não consigo medir a distância pelo eco.*
 
 Gabo se levantou com apoio na coluna, a dor atravessando a perna direita. Ele ergueu a *Caronte*, apontando para a escuridão além do círculo de luz vermelha.
 

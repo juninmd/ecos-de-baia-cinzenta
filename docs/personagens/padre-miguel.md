@@ -13,6 +13,7 @@
 * **Prompt Visual:** a burly broad-chested 52 year old priest, thick arms covered in faded prison tattoos, short curly black hair greying at the temples, three-day stubble, tired dark brown eyes, worn black cassock with sleeves rolled up, kitchen apron, wooden crucifix
 * **Gostos/Traços:** Chamar todo mundo de "filho", inclusive homens mais velhos que ele. Servir pão sem parar de falar. Se recusa a perguntar de que lado a pessoa está antes de alimentá-la.
 * **Perfil Psicológico:** **O Único Poder Que Não Quis Crescer.** Miguel é a última instituição de Baía Cinzenta que ainda funciona pelo motivo pelo qual foi criada — e ele sabe exatamente o quanto isso é frágil. Não prega salvação; ele faz logística de sobrevivência com vocabulário de fé. Trata Gabo com a franqueza de quem já ouviu a confissão dele e não ficou impressionado ("Veio se confessar ou se esconder?"). Sua fé não é em Deus, é em fila organizada: enquanto houver ordem na distribuição de pão, ainda existe cidade.
+* **Cargo / ocupação:** Padre e responsável pela organização de abrigo e apoio comunitário.
 * **Função:** Abrigo do Distrito Baixo / Informante Moral de Gabo.
 
 ### ⏳ Linha do Tempo

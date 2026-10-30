@@ -2,7 +2,7 @@
 
 Fonte: [capítulo 125](/capitulo-125.md).
 
-O reparo preserva a história de Aria e separa gravação de Bia da voz da assistente. Nise prepara o transporte de Rangel.
+O reparo preserva o histórico de Aria e pede sua decisão sobre o que recuperar. Nise prepara o transporte de Rangel.
 
 ## Passagens de entrada e saída
 

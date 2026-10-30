@@ -11,7 +11,7 @@ A retirada usa heliponto e ajuda. Rotinas e chaves são distribuídas, mas o nú
 
 ### Saída
 
-> E ficou ali em cima, ajoelhado numa torre torta, segurando a cabeça de uma hacker de vinte e três anos fora da poça, até parar de chover.
+> E ficou ali em cima, ajoelhado numa torre torta, segurando a cabeça de uma hacker de vinte e oito anos fora da poça, até parar de chover.
 
 ## Alcance do parecer
 

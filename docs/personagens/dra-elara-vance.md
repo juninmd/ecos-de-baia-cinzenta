@@ -1,6 +1,10 @@
 <!-- markdownlint-disable MD041 -->
 
+<CharacterPortraits name="Dra. Elara Vance" portrait="/personagens/elara.png">
+
 ![Dra. Elara Vance](/personagens/elara.png)
+
+</CharacterPortraits>
 
 * **Idade:** 66 anos cronológicos em 2056, aparência canônica de 45 mantida por tratamentos corporativos. Nascida 1990; Arthur tinha 35. Auditora em 2024, aos 34.
 * **Altura:** 1,75 m
@@ -13,6 +17,7 @@
 * **Gostos/Traços:** Xadrez 4D, música clássica, chá branco.
 * **⚠️ Filiação:** **Filha de Arthur Vance**, o fundador da Aeterna, e irmã de **Silas Vance**. Isso não é detalhe de árvore genealógica: é o que explica por que uma "consultora externa" tinha autoridade total sobre o arquivo, acesso à infraestrutura da Arca Zero e uma chave de estase própria. Ela auditou a empresa **do próprio pai**.
 * **Perfil Psicológico:** A Auditora. Recomenda encerramento do programa e, se prosseguirem, escala: escolha de participação que tenta justificar como preservação de rastro. Guardar prova não a absolve. Sua tese sobre impunidade municipal é argumento próprio, não lei universal; pode ser confrontada por Gabo e pelo arquivo.
+* **Cargo / ocupação:** Consultora e auditora corporativa; exerceu chefia na Aeterna e preserva seu arquivo.
 * **Função:** Ex-CEO da Aeterna Corp / A Guardiã do Arquivo.
 
 ### Linha do Tempo e Evolução Visual

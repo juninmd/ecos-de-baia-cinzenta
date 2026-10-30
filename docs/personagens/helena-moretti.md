@@ -13,6 +13,7 @@
 * **Equipamento:** Nenhum. Uma tesoura de poda e uma lata de regar enferrujada.
 * **Gostos/Traços:** Jardinagem obstinada num quintal que a chuva ácida matava todo inverno (e que ela replantava todo ano). Rádio ligado em jazz baixinho na cozinha. Chamava os dois filhos pelo nome inteiro quando estava brava.
 * **Perfil Psicológico:** **A Régua Moral Ausente.** Helena é a única pessoa do livro que nunca precisou escolher entre a lei e o certo, porque nunca teve poder nenhum — e é exatamente por isso que Gabo a usa como medida. Ela não era doce: era teimosa de um jeito silencioso, aguentou vinte anos de marido casado com a cidade e não perdoou nem uma vez em voz alta. Quando ela morreu, Gabo não chorou; ele *desligou*. Ele não a trata como perda, e sim como falha profissional própria — o que é a forma mais eficiente que ele encontrou de nunca precisar sentir.
+* **Cargo / ocupação:** Cuidadora do lar e jardineira doméstica; a obra não informa trabalho remunerado.
 * **Função:** Mãe de Gabriel, Marco e Clara / A Consciência Que Gabo Carrega no Punho.
 
 ### ⏳ Linha do Tempo

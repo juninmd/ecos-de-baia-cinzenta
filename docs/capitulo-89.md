@@ -109,7 +109,7 @@ O nome não era novo. Meses antes, Arthur Vance chamara o filho pelo rádio: Sil
 
 Ele ficou sentado ali por mais um tempo, montando. A Aeterna não tinha quebrado.
 
-Não foi à falência, não foi vencida por três hastes de tungstênio no fundo do mar, não foi derrubada por um detetive de sobretudo bege e uma hacker de vinte e três anos num estúdio de televisão.
+Não foi à falência, não foi vencida por três hastes de tungstênio no fundo do mar, não foi derrubada por um detetive de sobretudo bege e uma hacker de vinte e oito anos num estúdio de televisão.
 
 Ela **mudou de substrato**.
 

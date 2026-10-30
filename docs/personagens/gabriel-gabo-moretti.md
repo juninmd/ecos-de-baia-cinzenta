@@ -1,6 +1,10 @@
 <!-- markdownlint-disable MD041 -->
 
+<CharacterPortraits name="Gabriel &quot;Gabo&quot; Moretti" portrait="/personagens/gabo.jpg">
+
 ![Gabriel "Gabo" Moretti](/personagens/gabo.jpg)
+
+</CharacterPortraits>
 
 * **Idade:** 35 anos
 * **Altura:** 1,75 m
@@ -17,8 +21,9 @@
   * **Auxiliar:** Exoesqueleto passivo de pernas (ruidoso, mas funcional) e o **componente físico tipo pendrive da Aria** (acoplado ao painel do Cobalt, ao comunicador de lapela ou ao deck de Valéria até o Capítulo 167).
 * **Gostos/Traços:** Viciado em pizza e café. Insone e paranoico.
 * **Perfil Psicológico:** Cínico e violento, mas com um código de honra rígido. Protege os inocentes com uma fúria silenciosa.
+* **Cargo / ocupação:** Ex-inspetor e investigador criminal da Divisão de Casos Esquecidos da DPBC; depois, investigador independente na resistência.
 * **Função:** Inspetor da Divisão de Casos Esquecidos / "O Herói do Apagão".
-* **⚠️ A Assistente no Pendrive (Aria):** Encontro 2; mulher adulta de IA alojada em módulo legado, com critérios próprios. Os fragmentos de Bia e as gravações de origem são distintos da sua voz. Danos 96/118, reparo 125, reinício 134 preservando identidade e histórico parcialmente inacessível. Escolhe o risco e é destruída 167; Gabo reconhece sua identidade na conversa 226. Sem cópia ativa posterior.
+* **⚠️ A Assistente no Pendrive (Aria):** Encontro 2; mulher adulta de IA alojada em módulo legado, com critérios próprios. Sua origem, sua voz e seu histórico são independentes de Bia. Danos 96/118, reparo 125, reinício 134 preservando identidade e histórico parcialmente inacessível. Escolhe o risco e é destruída 167; Gabo reconhece sua identidade na conversa 226. Sem cópia ativa posterior.
 * **O Luto por Helena:** Gabo não chorou quando sua mãe morreu na enchente; ele "desligou". Ele encara a morte dela não como uma tragédia, mas como sua falha profissional final. Ele carrega o "Colar de Sol" dela enrolado no punho ou no bolso interno, tocando-o quando precisa lembrar por que luta. Sua dor foi convertida em combustível para a "Fúria Silenciosa". Ele se recusa a visitar o túmulo (ou o local onde ela morreu no cerco), pois isso tornaria a morte real. Enquanto ele lutar, ela é apenas mais uma pessoa que ele precisa "salvar" retroativamente, destruindo quem causou o Dilúvio.
 
 ### Linha do Tempo e Evolução Visual

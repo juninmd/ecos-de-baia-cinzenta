@@ -14,6 +14,7 @@
 * **Perfil Psicológico:** O Administrador da Nova Ordem. Marco não é mais o político carismático nem o servo lobotomizado.
   * *Persona Anterior:* Ambicioso e inseguro, buscando aprovação.
   * *Persona Atual (O Rival):* Com a queda de Dante, Marco despertou, mas sem as "fraquezas" humanas de antes. Ele absorveu a lógica fria da Aeterna. Ele vê a cidade como um sistema que precisa ser gerido sem a interferência "suja" de heróis como Gabo. Ele não quer destruir a cidade; ele quer possuí-la e organizá-la sob sua vontade de ferro.
+* **Cargo / ocupação:** Administrador e dirigente político ligado à organização burocrática da cidade.
 * **Função:** Líder da Facção Burocrática / O Novo Rival.
 
 ### ⏳ Linha do Tempo e Evolução Visual

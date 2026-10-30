@@ -13,6 +13,7 @@
 * **Gostos/Traços:** Choramingar em movimento. Falar de maldições e desabamento. Perguntar "e se a gente ficar aqui?" a cada obstáculo — e ir mesmo assim.
 * **Perfil Psicológico:** **O Civil.** Elias é a única pessoa do último arco que reage à Baía Cinzenta como um ser humano normal reagiria: com pavor honesto, sem código de honra, sem função tática, sem nada a provar. Ele existe para medir o quanto Gabo e Valéria já deixaram de ser gente — a dor que Gabo trata como âncora, Elias vê como automutilação; a lógica de Valéria, que o grupo aceita, ele ouve como sentença de morte. Ele não é covarde: covardia seria ter ficado trancado na sala de monitoramento. Ele desce oitocentos metros no escuro apesar de estar aterrorizado o tempo inteiro, e essa é a definição mais limpa de coragem que o livro oferece.
 * **Prompt Visual:** a gaunt frightened 38 year old maintenance worker, hunched shoulders, ashen sunless skin, tangled brown hair plastered to a sweating forehead, wide startled brown eyes, nervous smile with rotten yellowed teeth, filthy grease-stained coveralls, flashlight
+* **Cargo / ocupação:** Trabalhador de manutenção de drenagem; atua como guia pela infraestrutura que conhece.
 * **Função:** Guia dos Subníveis / A Última Testemunha Civil.
 
 ### ⏳ Linha do Tempo

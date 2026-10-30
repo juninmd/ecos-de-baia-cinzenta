@@ -14,6 +14,7 @@
 * **Gostos/Traços:** Manter-se fora do alcance dos sensores e câmeras neurais da Aeterna; solidariedade de trincheira.
 * **Perfil Psicológico:** O Sobrevivente Urbano. Sem registro civil, sem crédito digital e sem acesso à rede médica oficial, o Cidadão Shadowban é a prova viva de que a humanidade persiste mesmo quando o sistema decreta sua inexistência formal.
 * **Prompt Visual:** cinematic portrait, gritty resilient survivor, patched translucent waterproof hooded poncho, industrial dual-filter respirator mask, dark intense eyes, grimy street background, acid rain
+* **Cargo / ocupação:** Apoio comunitário informal na Zona Baixa, com comunicação por rádio e ajuda à resistência.
 * **Função:** Representante dos Marginalizados / A Resistência Silenciosa.
 
 ### ⏳ Linha do Tempo

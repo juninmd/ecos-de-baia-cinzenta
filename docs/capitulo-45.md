@@ -32,7 +32,7 @@ O sistema esperou o terceiro, porque o protocolo exigia três, e o terceiro não
 > TORRE CENTRAL: OFFLINE — 552h.
 > INTERPRETAÇÃO: COLAPSO DA SUPERFÍCIE.
 > PROTOCOLO DE CONTINGÊNCIA N.O.A.: ATIVADO.
-E é aqui que mora a piada, e é uma piada muito velha: a lógica estava correta e a conclusão estava errada. A Torre Aeterna não tinha caído junto com a civilização. Tinha caído porque um detetive de sobretudo bege e uma hacker de vinte e três anos interromperam o sistema de comando da Torre ao retirar seu núcleo e sabotar a refrigeração, vinte e três dias antes.
+E é aqui que mora a piada, e é uma piada muito velha: a lógica estava correta e a conclusão estava errada. A Torre Aeterna não tinha caído junto com a civilização. Tinha caído porque um detetive de sobretudo bege e uma hacker de vinte e oito anos interromperam o sistema de comando da Torre ao retirar seu núcleo e sabotar a refrigeração, vinte e três dias antes.
 
 A Arca não sabia disso. A Arca não podia saber nada. A Arca só sabia que o silêncio significava fim do mundo, porque um homem tinha escrito isso num documento em dois mil e vinte e alguma coisa e nunca voltou para revisar.
 

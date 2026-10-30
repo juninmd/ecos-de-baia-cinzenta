@@ -16,6 +16,7 @@
 * **⭐ Por que é um antagonista central (Capítulos 219 e 227):** Krell entrou na Aeterna aos 18 anos, em 2024, como **estagiário do jurídico, digitalizando contratos de cuidado perpétuo**. Leu os contratos e escreveu um memorando sobre vender a permanência de alguém, sendo promovido. Elara leu o memorando e também participou das decisões posteriores.
   * **A assinatura:** o índice associa 47.311 admissões sem consentimento, entre 2029 e 2056, ao segundo aval de Krell. Uma amostra de 300 originais contém a rubrica; isso não autentica todas as assinaturas nem prova ausência de delegação.
   * **A tese do personagem:** ele exerce poder por contratos, estruturas e violência delegada. Sua responsabilidade não transforma os outros antagonistas em marionetes nem faz dele o autor de todas as escolhas de Gabo.
+* **Cargo / ocupação:** Executivo da Aeterna e responsável por autorizações corporativas sob investigação.
 * **Função:** CEO da Aeterna Corp e responsável por autorizações corporativas sob investigação.
 
 ### ⏳ Linha do Tempo

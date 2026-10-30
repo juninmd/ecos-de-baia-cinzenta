@@ -120,13 +120,13 @@ Dante sorriu. Não foi um sorriso de vilão. Foi o sorriso cansado de um pai ven
 
 — *Você ainda pensa pequeno. Pensa em indivíduos. Eu penso na Espécie. A dor deles... é o combustível da ordem. Sem mim, eles voltariam ao caos. À lama. Eu sou a represa que segura o dilúvio.*
 
-— Você é o dilúvio — retrucou Valéria, a arma dela tremendo nas mãos. — Você mandou suas máquinas atrás de Rangel. Você esquartejou a mente da Bia.
+— Você é o dilúvio — retrucou Valéria, a arma tremendo nas mãos. — Mandou suas máquinas atrás de Rangel. E chama o que fez com os Drenados de ordem.
 
 Os olhos cegos de Dante se voltaram para o pequeno drive conectado ao painel através do cabo de Valéria.
 
-— *Eu não destruí Beatriz Vargas. A Aeterna apenas destilou o que havia de útil na intuição dela para forjar o substrato desse seu pequeno oráculo de bolso.*
+— *Eu usei o que esta cidade já descartava. Seu pequeno oráculo também conhece o valor de uma escolha calculada.*
 
-No painel, o LED da Aria sofreu uma oscilação abrupta do azul para o âmbar, e uma onda de estática trêmula vazou pelo alto-falante. Aria cortou o áudio do arquivo de origem e respondeu com a própria voz: — Não use a morte dela para tirar meu nome.
+No painel, o LED de Aria oscilou do azul para o âmbar. Ela cortou a estática e respondeu com a própria voz: — Você escolheu por pessoas que não podiam recusar. Eu não.
 
 — Saia do tanque — ordenou Gabo. — Ou eu quebro o vidro e deixo você derreter no chão.
 

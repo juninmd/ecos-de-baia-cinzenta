@@ -24,13 +24,13 @@ Ele sacou a faca de cerâmica e empunhou uma barra de torção de aço cirúrgic
 
 — Valéria! — ele rugiu, desviando de outro golpe que incinerou uma prateleira de braços preservados. Vidro explodiu, e fluido de conservação ferveu no chão.
 
-— Estou tentando! — Valéria estava ajoelhada atrás da bancada de inox, com o *Phantom V3* aberto no colo e o pendrive de titânio de Aria faiscando no barramento lateral. — O transponder da réplica está explorando o driver de entrada danificado! O código dela entrou num loop de feedback positivo com a biometria da boneca! O receptor reabre o canal a cada tentativa de corte; preciso isolar a porta física!
+— Estou tentando! — Valéria estava ajoelhada atrás da bancada de inox, com o *Phantom V3* aberto no colo e o pendrive de titânio de Aria faiscando no barramento lateral. — O transmissor do Ateliê está explorando o driver de entrada danificado! O receptor reabre o canal a cada tentativa de corte; preciso isolar a porta física!
 
 No alto-falante do deck, o processamento de Aria engasgava, o LED do drive piscando em um âmbar febril enquanto o metal queimava os dedos de Valéria.
 
-— *Eu sou real...* — a voz no comunicador sussurrava, falhando em estática. — *Arquivo de origem... repetição... — O trecho voltou ao início antes de terminar.*
+— *Val, o canal...* — a voz de Aria falhou em estática. — *O canal... — O aviso voltou ao início antes de terminar.*
 
-— Não é você! — Valéria gritou, digitando comandos furiosamente com uma mão enquanto fechava os pinos de reset do pendrive com a ponta de uma pinça metálica. — É um manequim de cera e carne morta! É uma isca de palco!
+— Vou isolar a entrada! — Valéria gritou, digitando com uma mão enquanto alcançava os pinos de reset com a pinça. — Segura mais um pouco, Aria!
 
 Um dos Guardiões avançou sobre a bancada de Valéria, a lança brilhando em um vermelho furioso. Gabo não pensou. Ele avançou com dificuldade e se lançou contra as costas do gigante, a dor abrindo o ombro ferido.
 
@@ -72,7 +72,7 @@ Não havia a pulsação quente e instável de antes. Havia apenas um azul-gelo c
 
 Na tela do cyberdeck e no visor monocular tático de Gabo, linhas de grade vetoriais se desenharam instantaneamente sobre o laboratório.
 
-— *Matéria orgânica na vitrine quatro analisada* — a voz de Aria saiu pelo comunicador e pelos monitores da bancada: plana, sem modulação, sem um único traço da cadência de Bia Vargas. Era a síntese de emergência. O canal adulto estava danificado, não apagado por uma escolha de Val. — *Tecido necrosado. Obsoleto. Ineficiente. Canal de reprodução isolado. Histórico preservado sem montagem; acesso parcial à memória de trabalho.*
+— *Matéria orgânica na vitrine quatro analisada* — a voz de Aria saiu pelo comunicador, plana e sem modulação. Era a síntese de emergência; o canal habitual estava danificado. — *Tecido necrosado. Canal de entrada isolado. Histórico preservado; acesso parcial à memória de trabalho.*
 
 O segundo Guardião levantou a lança térmica contra a bancada.
 
@@ -102,9 +102,9 @@ Pelo sistema de som do próprio laboratório, que Aria acabara de sequestrar, a 
 
 — *Não é um espelho. É um arquivo corrompido.*
 
-Aria identificou, no painel local a que Val ligara o cabo, o controle da vitrine. Fechou a cortina de manutenção entre a réplica e as câmeras. A imagem de Bia sumiu atrás da chapa; o transponder continuou ativo do outro lado, isolado do deck.
+Aria identificou, no painel local a que Val ligara o cabo, o controle da vitrine. Fechou a cortina de manutenção entre a réplica e as câmeras. A imagem de Bia sumiu atrás da chapa; o transmissor do Ateliê continuou isolado do deck.
 
-— *Eu não sou Beatriz Vargas. Eu não sou humana* — a voz sintética ecoou pelo salão a partir do pendrive acoplado ao deck. — *Eu sou Aria. Estou operando com acesso parcial, e não autorizei que usassem a voz dessa mulher por mim.*
+— *Eu sou Aria* — a voz sintética ecoou pelo salão. — *Estou operando com acesso parcial. Não autorizei que entrassem no meu canal.*
 
 As luzes do Ateliê piscaram e morreram, exceto pelo brilho frio do LED azul no drive de titânio e o visor do deck de Valéria.
 
