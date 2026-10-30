@@ -13,6 +13,7 @@
 * **Prompt Visual:** a 34 year old femme fatale wearing a scarlet red satin dress, long red gloves, straight platinum blonde hair, bleached white blonde, sharp green eyes, dark eyeliner, flawless makeup, a purple bruise shaped like mechanical fingers on her wrist
 * **Gostos/Traços:** Falar com voz de seda e fumaça. Nunca beber o que oferece. Guardar a rota de fuga antes de entrar na sala. Recusa terminantemente ser chamada de vítima.
 * **Perfil Psicológico:** **A Femme Fatale Que Também É Refém.** Isadora é enviada para oferecer a Gabo a família simulada no Lázaro. Quando ele percebe a marca no pulso, ela revela a ameaça que recebeu e negocia uma possibilidade de abrigo, sem garantia de segurança. Preserva o recibo original, deixa Val fotografá-lo e entrega dados de Miranda. Sua colaboração busca sobrevivência; ela avisa que não é amiga de Gabo, e sua confiança precisa ser conquistada em ações posteriores.
+* **Cargo / ocupação:** Intermediária do Sindicato sob coerção; depois, informante da resistência.
 * **Função:** Isca do Lázaro / Informante da Resistência.
 
 ### ⏳ Linha do Tempo

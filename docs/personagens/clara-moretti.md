@@ -12,6 +12,7 @@
 * **Equipamento:** Tablet antigo com registros de saúde da comunidade e um rádio de ondas curtas para coordenar resgates.
 * **Gostos/Traços:** Ler livros físicos (resgatados da Biblioteca), organizar estoques com precisão militar, cuidar de crianças órfãs do Dilúvio.
 * **Perfil Psicológico:** A Cuidadora de Ferro. Clara é o oposto do irmão: onde ele usa a violência para proteger, ela usa a compaixão para reconstruir. Mas não se engane: ela possui a mesma teimosia dos Moretti. Ela não teme o sangue nem a sujeira, e defenderá seus pacientes com a ferocidade de uma leoa.
+* **Cargo / ocupação:** Apoio comunitário e logística de suprimentos na resistência; não há formação médica estabelecida.
 * **Função:** O Coração da Comunidade / Líder da Resistência Humanitária.
 
 ### ⏳ Linha do Tempo

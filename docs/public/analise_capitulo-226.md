@@ -2,7 +2,7 @@
 
 Fonte: [capítulo 226](/capitulo-226.md).
 
-Elena reúne transporte e publicação. Gabo distingue Bia de Aria e reconhece a morte da pessoa autônoma. Originais, cópias e procedência acompanham a acusação.
+Elena reúne transporte e publicação. Elena confronta Gabo pela quebra de confiança que levou à separação; ele reconhece a morte de Aria como pessoa autônoma. Originais, cópias e procedência acompanham a acusação.
 
 ## Passagens de entrada e saída
 

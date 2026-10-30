@@ -82,6 +82,9 @@ Valéria olhou para a mão esquerda dele, para a tipoia e depois para Elena.
 — Eu seguro.
 — Gabo — disse Elena. — Não decide por mim sem me dizer.
 
+Ele lembrou as fotografias deixadas na recepção da redação e a fonte que
+abordara sem avisá-la. Não era a hora de pedir perdão. Era hora de responder.
+
 Ele explicou o pouco que sabiam: precisavam ganhar estabilidade, não parar um relógio com frio. Podiam piorar o sensor. A porta continuava aberta e os três podiam ouvir gente descendo pela escada. Elena deixou de olhar o contador.
 — Tentem. E ninguém fica na porta para filmar.
 

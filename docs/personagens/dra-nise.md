@@ -13,6 +13,7 @@
 * **Prompt Visual:** a short stooped 65 year old woman, snow-white hair in a severe bun, warm intelligent light-brown eyes behind reading glasses, steady surgeon hands, a lab coat stained with chemical reagents, dim morgue laboratory
 * **Gostos/Traços:** Chá de ervas fortíssimos (para acordar os mortos), música clássica em vinil, corrigir a gramática dos relatórios policiais.
 * **Perfil Psicológico:** A Matriarca da Medicina de Guerra. Nise não trata apenas corpos; ela trata a dignidade dos mortos. Em um mundo onde a vida é descartável, ela insiste que cada cadáver conte sua história. Ela é a única pessoa que Gabo obedece sem questionar.
+* **Cargo / ocupação:** Médica legista; também presta atendimento de urgência com os recursos disponíveis.
 * **Função:** Médica Legista Chefe / Curandeira do Submundo.
 
 ### ⏳ Linha do Tempo

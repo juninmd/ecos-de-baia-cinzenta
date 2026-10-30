@@ -15,6 +15,7 @@
 * **Prompt Visual:** a faceless figure whose head is a curved LED screen full of white and grey static, a ghost of a man's face forming in the noise, glowing code on the screen, tall and unnaturally lean, no hair, black cloak with exaggerated shoulders
 * **Gostos/Traços:** Audiência. Ritmo dramático. Pausas calculadas. Chamar as pessoas de NPCs. Encenar dilemas morais como "desafios" e transmitir tudo ao vivo.
 * **Perfil Psicológico:** **O Showman Sem Plateia Interna.** O Gamemaster é a lógica tática de Dante rodando sem a pessoa que a justificava, e o vazio deixado por essa ausência ele preenche com espetáculo. Ele não quer matar Gabo — quer que a cidade *assista* Gabo desistir, porque provar que o herói é um script vale mais que um cadáver. A crueldade dele é editorial: escolhe o ângulo, corta na hora certa, mede o engajamento. E há um defeito no meio de tudo: ele **hesita**. Erra o tempo de propósito, dá pistas, formula desafios que são testes morais de verdade. Não é bug — é Dante, preso lá dentro, gritando pelo único canal que sobrou.
+* **Cargo / ocupação:** Sistema de IA de vigilância, controle e comunicação da Aeterna; não ocupa cargo humano.
 * **Função:** Antagonista Central das Partes III-V / A Voz da Aeterna.
 
 ### ⏳ Linha do Tempo

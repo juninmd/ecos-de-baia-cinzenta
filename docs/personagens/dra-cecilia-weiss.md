@@ -14,6 +14,7 @@
 * **Prompt Visual:** a thin tense 42 year old Black woman with deep dark skin, long dark box braids gathered in a bun, analytical dark brown eyes, holding a silver pen, a sober women's suit worn thin at the elbows, dim office
 * **Gostos/Traços:** Psicanálise clássica, uísque barato escondido na gaveta, cinismo.
 * **Perfil Psicológico:** A Guardiã dos Segredos. Cecília é a única pessoa que viu Gabo chorar (uma vez, e ela nunca mencionou). Ela deveria tê-lo aposentado por invalidez mental anos atrás, mas falsifica seus laudos. Por quê? Porque ela sabe que a "sanidade" não resolve crimes em Baía Cinzenta. Ela protege Gabo da burocracia porque precisa que ele proteja a cidade do caos.
+* **Cargo / ocupação:** Psicóloga que atende policiais, incluindo Gabo.
 * **Função:** Psicóloga Policial / Confidente Relutante.
 
 ### ⏳ Linha do Tempo

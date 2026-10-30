@@ -14,6 +14,7 @@
 * **Prompt Visual:** a frail 20 year old man, lime green hair styled to look computer rendered, contact lenses projecting glowing heart emojis over his irises, QR tattoos on his neck, a jacket of programmable LED panels scrolling ads, pale skin
 * **Gostos/Traços:** Viciado em validação externa e métricas de engajamento.
 * **Perfil Psicológico:** O Produto Perfeito. Kiko não era uma pessoa, era uma marca. Ele acreditava que ser amado pela rede era o mesmo que ser amado por pessoas. Sua superficialidade escondia um terror profundo de ser esquecido (deletado).
+* **Cargo / ocupação:** Criador de conteúdo e apresentador de transmissões digitais.
 * **Função:** O Primeiro Mártir Digital / Vítima da Aeterna.
 
 ### ⏳ Linha do Tempo

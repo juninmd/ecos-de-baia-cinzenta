@@ -101,11 +101,11 @@ Então, o estalo do interruptor. A respiração dela voltou, mais baixa agora, q
 
 A voz dela amoleceu. Perdeu a armadura de campo, perdeu a dureza das manchetes.
 
-— Eu passei anos dizendo para mim mesma que fui embora porque você amava mais a cidade e a memória dos seus mortos do que a nós dois. Foi mentira minha. Eu fui embora porque eu tinha medo de ver você morrer devagar e não ter forças para te enterrar. No fim das contas... eu tive que ir primeiro para você poder terminar o que começou.
+— Eu fui embora porque você usou meu nome sem me contar e depois quis escolher o risco por mim. Eu também tinha medo de ver você morrer devagar. As duas coisas eram verdade. Ter medo não fez de mim uma espectadora, Gabriel. Eu escolhi vir até aqui porque precisava transmitir aqueles nomes. Queria voltar.
 
 Uma pausa longa. O som do sangue pingando nas lajotas da sala.
 
-— Não carrega essa culpa, Gabriel. A culpa de Baía Cinzenta não é sua. Você nunca foi o grupo de controle do Krell por escolha; você ainda pode decidir o que fazer com aquilo que eles registraram. Não deixa eles te transformarem num número de pasta. Você é o Gabriel Moretti. O homem que me beijava na balsa do cais e que não sabia mentir sobre o preço do pão.
+— Não carregue minha escolha como se tivesse sido uma ordem sua. A culpa pelo que fizeram com Baía Cinzenta não é sua. Isso não apaga o que você fez; você ainda tem que responder por isso. Você nunca foi o grupo de controle do Krell por escolha; você ainda pode decidir o que fazer com aquilo que eles registraram. Não deixa eles te transformarem num número de pasta. Você é o Gabriel Moretti. O homem que me beijava na balsa do cais e que não sabia mentir sobre o preço do pão.
 
 Sua voz vacilou, quase apagada pelo uivo final do banco de capacitores.
 

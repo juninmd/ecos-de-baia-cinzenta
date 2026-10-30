@@ -75,7 +75,7 @@ Rangel ignorou a pergunta. Olhou para Valéria, depois para a lataria amassada e
 
 — A Nise que espere.
 
-Rangel apontou um dedo trêmulo para o console adaptado ao lado do painel do veículo, onde o pendrive blindado estava espetado num barramento de alto ganho. Do alto-falante tático acoplado ao deck de Valéria, uma voz sintética relatou a telemetria de fuga — mas sob a cadência analítica da IA, Rangel ouviu um timbre residual que gelou seu sangue: uma inflexão que o fez lembrar de Beatriz Vargas. A voz era de uma mulher adulta, firme, com pausas próprias; a semelhança vinha em trechos, não numa imitação contínua.
+Rangel apontou para o console adaptado ao lado do painel, onde o pendrive blindado estava espetado num barramento de alto ganho. Aria informava a telemetria de fuga pelo alto-falante do deck. Ao ouvir o nome de Miranda entre os alertas, ele puxou a manga sobre o curativo e baixou os olhos.
 
 — Gabo — Rangel disse, a voz perigosamente calma. — O que é aquilo espetado no painel?
 
@@ -83,19 +83,19 @@ Gabo passou a mão pelo rosto molhado, limpando a água dos olhos. Ele olhou par
 
 — É a Aria. E dentro dela roda o Código Morto — Gabo disse, a voz pesada como chumbo.
 
-— Aquela unidade de bolso travou três drones de combate? — Rangel riu, um som sem humor, encarando o pendrive. — E por que diabos a voz dela soa como a Bia?
+— Aquela unidade de bolso travou três drones de combate? — Rangel riu sem humor, olhando para o pendrive. — O Miranda mandou os drones?
 
-— Há material da Bia nos arquivos de origem, mas Aria não é a Bia — disse Valéria lá da frente, fazendo uma curva brusca que jogou todos contra a parede lateral. — E o que está gravado nesse drive pode matar o Dante. Ou salvar a cidade. Ainda não decidimos.
+— Não sabemos quem deu a ordem — disse Valéria ao volante. Uma curva brusca jogou os três contra a parede lateral. — Sei que eles continuam atrás da gente. E que o código nesse drive pode atingir o Dante. Ou salvar a cidade. Ainda não decidimos.
 
-— Eu assinei o papel dela — disse Rangel.
+— Eu assinei o papel da Bia — disse Rangel.
 
 A cabine ficou pequena. O motor era a única coisa com coragem de fazer barulho.
 
-— Beatriz Vargas. Óbito em via pública, causa a determinar. — Ele olhava para o cilindro no console, não para Gabo. — Eu assinei "a determinar" e fechei a pasta, porque tinha mais dezenove na fila e o plantão era meu.
+— Beatriz Vargas. Óbito em via pública, causa a determinar. — Ele olhava para as mãos. — Eu assinei "a determinar" e fechei a pasta, porque tinha mais dezenove na fila e o plantão era meu.
 
 — Você leu o laudo?
 
-— Li três vezes. — Rangel engoliu em seco. — E assinei do mesmo jeito. É a parte que eu nunca consegui explicar pra ninguém. Agora estou querendo perguntar a uma voz no painel o que devia ter perguntado a quem estava vivo naquele plantão.
+— Li três vezes. — Rangel engoliu em seco. — E assinei do mesmo jeito. É a parte que nunca consegui explicar. Devia ter perguntado a quem estava vivo naquele plantão.
 
 Gabo não disse nada. Havia coisas que ele tinha enterrado com mais cuidado do que corpos.
 

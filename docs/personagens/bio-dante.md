@@ -14,6 +14,7 @@
 * **Gostos/Traços:** Ordem absoluta e algoritmos preditivos. Acredita racionalmente estar salvando a cidade da decadência humana.
 * **Perfil Psicológico:** O Antagonista Trágico. Ele lembra de amar Gabriel, mas não sente o amor. Sabe que é uma cópia artificial criada pelo Projeto Gênesis. Não tem ódio, apenas a determinação implacável de impor estabilidade e erradicar a ineficiência biológica.
 * **Prompt Visual:** cinematic portrait, 42-year-old hardened synthetic clone man, slicked dark hair, piercing grey eyes with subtle blue ring, flawless pale skin, tailored high-collar charcoal corporate coat, neo-noir lighting
+* **Cargo / ocupação:** Cópia em biohost que dirige operações e infraestrutura do Projeto Gênesis; não ocupa o antigo cargo policial de Dante.
 * **Função:** Antagonista Trágico / O Reflexo Frio do Legado.
 
 ### ⏳ Linha do Tempo

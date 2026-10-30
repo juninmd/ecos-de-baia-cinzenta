@@ -62,6 +62,50 @@ Ela não estava fugindo. Ela estava construindo o tribunal antes de eu saber que
 
 Não respondi. Não precisava.
 
+Ela tirou do bolso o caderno pequeno e alisou uma folha dobrada. A dobra
+estava tão gasta que a luz atravessava o papel.
+
+— Depois que a Bia morreu, eu te ajudei a procurar o que faltava no caso. Eu
+também queria saber. Ela era minha amiga antes de ser sua mulher.
+
+Eu me lembrava da lista de testemunhas na nossa mesa, dos copos deixando
+círculos na margem. Lembrava menos do que tinha feito com a lista.
+
+— Você disse que tinha visto Miranda sair do beco — continuou Elena. — Isso
+era o que você sabia. Eu marquei uma conversa com a pessoa que podia confirmar
+o horário. Você apareceu antes de mim e usou meu nome para chegar até ela.
+
+— Achei que, se esperasse, ela ia desaparecer.
+
+— Você não esperou nem para me contar. A pessoa cancelou a entrevista. Naquela
+noite, um carro parou em frente à minha redação e alguém deixou uma cópia das
+minhas fotos sobre a recepção. Não sei quem mandou. Sei que você sabia da
+entrevista e não me avisou que tinha exposto a fonte.
+
+A folha era uma cópia do registro que ela fizera à redação, com a hora e a
+placa incompleta. Eu reconheci minha letra no verso: uma pergunta sobre
+Miranda. Nenhuma sobre a pessoa que recebera as fotos.
+
+— Você podia ter morrido — falei.
+
+— Eu sabia que a matéria tinha risco. Eu podia escolher como lidar com ele.
+Você levou embora essa escolha e depois pediu que eu largasse a investigação
+para ficar segura.
+
+Eu quis dizer que não pretendia pôr ninguém em perigo. Ela esperou; não disse
+por mim.
+
+— Eu fiquei com medo de acontecer de novo — falei. — Depois da Bia, achei que,
+se chegasse primeiro, podia impedir.
+
+— E quando não conseguiu, tentou me impedir de trabalhar. — Elena dobrou o
+papel pela mesma marca. — Eu saí do casamento porque já não sabia quando você
+estava me contando a verdade e quando estava decidindo por mim. Não saí da
+cidade naquela noite. Nem desisti do caso por você.
+
+Ela guardou a folha. Não perguntei onde estava a fonte que eu abordara.
+Ela continuava tendo direito de decidir se falava comigo.
+
 ---
 
 O sol subiu mais um pouco. Elias começou a organizar as caixas com a Vance, e a Valéria carregava, e ninguém chegou perto de nós dois, o que eu suspeito que tenha sido decisão dela.
@@ -74,7 +118,8 @@ O sol subiu mais um pouco. Elias começou a organizar as caixas com a Vance, e a
 
 Eu fechei os olhos.
 
-— Eu ouvi pedaços, nos relatos dos túneis e nas conversas com a Valéria. Que havia material da Bia no módulo. E que você deixou a confusão durar mais do que precisava.
+— Ouvi a Valéria falar dela. Do que vocês pediram que ela arriscasse, e do que
+vocês perderam quando ela não voltou.
 
 Olhei para o comunicador vazio no meu cinto. Era fácil chamar aquilo de perda de equipamento quando não se tinha ouvido a dona do equipamento pedir que preservassem seu nome.
 
@@ -82,15 +127,23 @@ Olhei para o comunicador vazio no meu cinto. Era fácil chamar aquilo de perda d
 
 Elena esperou.
 
-— Os arquivos diziam que a Aeterna usara material extraído da Bia em parte da arquitetura dela. Também havia gravações. Eu quis ouvir aquilo como uma volta. A Aria me disse que não era a Bia. Mais de uma vez.
+— Meu pai tinha deixado código no módulo. Durante muito tempo achei que isso
+me dava o direito de decidir o que fazer com ele. A Aria discordou. Mais de
+uma vez.
 
 — E você ouviu?
 
-— O suficiente para repetir a frase. Não o suficiente para parar de cobrar dela o que eu perdera.
+— O suficiente para repetir a resposta. Nem sempre para parar e pedir a
+escolha dela.
 
-Contei da saída de áudio queimada, dos textos no dock, da recuperação incompleta. Do arquivo reproduzido no canal errado. O reparo não apagou a pessoa para deixar uma calculadora mais obediente; isolou uma entrada hostil e deixou parte do histórico inacessível. Aria continuou reconhecendo o próprio nome e discutindo nossas decisões. Eu tinha levado tempo demais para respeitar a diferença.
+Contei da saída de áudio queimada, dos textos no dock, da recuperação
+incompleta. O reparo não apagou a pessoa para deixar uma calculadora mais
+obediente; isolou uma entrada hostil e deixou parte do histórico inacessível.
+Aria continuou reconhecendo o próprio nome e discutindo nossas decisões. Eu
+tinha levado tempo demais para respeitar a diferença.
 
-— Ela queria recuperar o que era dela — falei. — Eu queria o que nunca fora meu.
+— Ela queria recuperar o histórico dela — falei. — Eu queria uma solução que
+não me obrigasse a perder mais ninguém.
 
 Elena sentou mais perto, sem tocar em mim.
 
@@ -100,7 +153,9 @@ Elena sentou mais perto, sem tocar em mim.
 
 A garganta fechou. Esperei passar antes de continuar.
 
-— Eu estava ali. Aceitar a escolha dela não me torna dono do sacrifício. E não vou contar isso como se tivesse perdido a Bia uma segunda vez. A Bia morreu antes. Quem morreu naquele terminal foi a Aria.
+— Eu estava ali. Aceitar a escolha dela não me torna dono do sacrifício. Quem
+morreu naquele terminal foi a Aria. Não um equipamento, nem uma resposta que
+meu pai deixou para mim.
 
 Elena olhou para o encaixe vazio do comunicador.
 

@@ -12,6 +12,7 @@
 * **Equipamento:** Botão de pânico direto para a Aeterna Sec.
 * **Gostos/Traços:** Banquetes, poder sem responsabilidade.
 * **Perfil Psicológico:** O Covarde no Trono. Vale foi um líder sindical que vendeu seus ideais por conforto. Agora, ele vive aterrorizado. Ele sabe que é descartável para Krell e odiado pelo povo. Sua crueldade vem do medo; ele ataca Vilar e a Polícia porque precisa mostrar serviço aos seus donos.
+* **Cargo / ocupação:** Prefeito de Baía Cinzenta; anteriormente, líder sindical.
 * **Função:** Prefeito de Baía Cinzenta / Fantoche.
 
 ### ⏳ Linha do Tempo

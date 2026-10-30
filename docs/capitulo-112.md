@@ -29,15 +29,15 @@ Assim que os pés de Gabo tocaram o asfalto molhado, Valéria o prensou contra a
 
 Gabo piscou sob a chuva ácida, a mão subindo instintivamente para proteger o pequeno módulo.
 
-— Por que você continua tratando um software tático como se fosse um fantasma? — A voz de Valéria tremeu, uma falha rara em sua armadura cínica. — Você achou a Aria numa cabine telefônica alagada antes do Dilúvio! É uma assistente de IA tática da Aeterna, Gabo! Eu vi os diretórios que ela autorizou abrir no Fliperama. O material da Bia está lá, mas Aria escolheu o próprio nome e já nos disse o que aceita arriscar. Não use uma para prometer a outra de volta!
+— Por que você continua decidindo pelo módulo? — A voz de Valéria tremeu. — Você achou a Aria na cabine alagada. Ela escolheu o próprio nome e já nos disse o que aceita arriscar. Se quer levá-la de volta à rede, pergunte a ela primeiro.
 
-Rangel, que terminava de fechar o bueiro, congelou. A chuva escorria por seu rosto cansado, e o peso do nome de Beatriz Vargas pairava entre os dois policiais como chumbo.
+Rangel terminou de fechar o bueiro. A chuva escorria por seu rosto cansado; ele ficou junto à tampa enquanto os dois discutiam.
 
 Gabo segurou o pulso de Valéria com firmeza, mas sem violência, afastando-a meio passo.
 
 — Eu sei o que ela é, Val — ele sussurrou, a voz rouca competindo com a tempestade. — Sei que é código num pedaço de titânio. Mas naquela cabine telefônica, e nos túneis depois do pulso... essa voz foi a única coisa que calculou uma saída quando todo o resto falhou.
 
-— Isso está te corroendo por dentro — disse Rangel, aproximando-se devagar. — Confundir essa mulher com a Bia pode fazer você decidir por alguém que não está pedindo a mesma coisa.
+— Quando você decide sozinho, o outro pode não ter chance de discordar — disse Rangel, aproximando-se devagar. — Eu sei o que é assinar sem fazer a pergunta que devia.
 
 Valéria soltou Gabo, recuando como se o calor do pequeno drive tivesse queimado seus dedos.
 

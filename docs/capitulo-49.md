@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: "Capítulo 49: A Vigília"
-description: "Val monta guarda sobre o corpo quebrado de Gabo e descobre, aos vinte e três anos, a diferença entre apagar um alvo e matar um homem."
+description: "Val monta guarda sobre o corpo quebrado de Gabo e descobre, aos vinte e oito anos, a diferença entre apagar um alvo e matar um homem."
 image: /capitulo_49.jpg
 Personagens Presentes: Valéria "Val" Cruz, Gabriel "Gabo" Moretti, Dra. Nise
 Localização: "Bunker médico, subsolo da Delegacia Central. Dia dez"
@@ -122,7 +122,7 @@ Ela se agachou, com dificuldade, ao lado do menino, e virou o rosto dele para ci
 
 Nise levantou os olhos, e naquele momento tinha sessenta e cinco anos e uma autoridade que não precisava de arma nenhuma.
 
-— Eu quero que você escreva o nome dele **porque** foi você. — A voz não subiu um grau. — Se eu escrever, é burocracia. Se você escrever, é conta. Menina, você tem vinte e três anos e uma noite inteira pela frente para decidir que tipo de pessoa você vai ser em relação a isso. Eu já vi as duas opções, e uma delas dorme melhor e é bem pior.
+— Eu quero que você escreva o nome dele **porque** foi você. — A voz não subiu um grau. — Se eu escrever, é burocracia. Se você escrever, é conta. Menina, você tem vinte e oito anos e uma noite inteira pela frente para decidir que tipo de pessoa você vai ser em relação a isso. Eu já vi as duas opções, e uma delas dorme melhor e é bem pior.
 
 Val ficou de joelhos no corredor por um tempo. Depois pegou o bloco de receita da Nise, arrancou três folhas e começou a escrever com a mão tremendo tanto que a primeira ficou ilegível e ela teve que refazer.
 

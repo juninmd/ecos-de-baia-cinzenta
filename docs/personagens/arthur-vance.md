@@ -15,6 +15,7 @@
 * **Gostos/Traços:** Falar sozinho com o próprio reflexo. Chamar planos de "fases". Ter escrito à mão, num caderno, a sequência de comando que ele repetiu mentalmente todas as noites até a estase apagar as noites.
 * **Perfil Psicológico:** **O Fundador Obsoleto.** Arthur Vance não é um gênio adormecido: é um homem do século passado com uma fantasia de homem forte, que confundiu escala com visão. O plano dele para o colapso era militar e bruto — descer com um exército e impor ordem. Ele previu corretamente que a civilização cairia e errou tudo sobre o motivo, e essa combinação de estar certo pela razão errada é a definição do personagem. A estase preservou a ambição dele intacta **e comeu os números**: ele lembra de "uma frota" e prefere não abrir o inventário que registra trinta e oito.
 * **Prompt Visual:** a 43 year old man with marble-pale unmarked skin, short dark brown hair, very pale blue eyes with slow pupils, thin subdermal gold implants forming a crown across his forehead, athletic build maintained by machines, standing barefoot in a flooded deep-sea command corridor, red alarm light
+* **Cargo / ocupação:** Empresário e fundador da Aeterna; dirigente corporativo antes da estase.
 * **Função:** Fundador da Aeterna / O Imperador Que Chegou Tarde.
 
 ### ⚔️ Vance × Krell — por que os dois não competem

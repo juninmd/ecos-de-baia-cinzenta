@@ -2,7 +2,7 @@
 
 ![Valéria "Val" Cruz](/personagens/val.png)
 
-* **Idade:** 23 anos
+* **Idade:** 28 anos
 * **Altura:** 1,60 m
 * **Porte Físico:** Pequena e esguia, com postura rígida de quem passa horas em interfaces neurais. Recuperando-se de um estado de coma biológico induzido.
 * **Cabelo:** Short Bob assimétrico com textura "wispy" (pontas desfiadas) e nuca batida. A franja lateral longa é entrelaçada com fios de LED holográficos azuis que brilham suavemente na chuva.
@@ -12,11 +12,12 @@
 * **Vestuário:** Jaquetas de couro sintético, coturnos de plataforma e calças cargo.
 * **Equipamento:** Deck de pulso "Phantom V3", enxame de micro-drones "Vagalumes".
 * **Gostos/Traços:** Viciada em bebidas energéticas e noodles. Hackear outdoors por diversão.
-* **Perfil Psicológico:** Otimista e hiperativa. A bússola moral digital de Gabo. Lealdade feroz e uma paixão crescente por ele.
-* **Função:** Detetive Júnior / Especialista em Redes da Nova Ordem.
+* **Perfil Psicológico:** Irônica, leal e inquieta, Valéria toma decisões próprias mesmo quando contraria Gabo. A amizade e o cuidado entre eles não eliminam divergências nem a responsabilidade de cada um.
+* **Cargo / ocupação:** Ex-detetive da DPBC com especialidade em crimes cibernéticos e redes; depois, investigadora e analista de redes na resistência. Não é apresentada como perita oficial.
+* **Função:** Investigação criminal e análise de redes.
 
-* **Relação com Elena:** Rivalidade velada. Valéria vê Elena como "analógica demais" e lenta, sentindo ciúmes da história passada dela com Gabo.
-* **Visão sobre o Casal:** Valéria despreza a "autopreservação" de Elena. Para Val, amar Gabo exige aceitar sua natureza autodestrutiva. Ela considera a recusa de Elena em voltar como covardia emocional. Val acredita que *ela* é a única com coragem para ficar com Gabo "até o fim do sistema" (ou da vida), e usa esse vácuo deixado por Elena para tentar provar que é a verdadeira parceira definitiva dele.
+* **Relação com Elena:** As duas trabalham de maneiras diferentes e nem sempre concordam. Elena socorre Valéria no capítulo 27; no 35, ambas contestam o tiro de Gabo. No 236, Val reconhece a ausência da jornalista como luto.
+* **Relação com Gabo:** Parceira e amiga, Valéria cuida dele sem aceitar que a proteção dê a qualquer um direito de decidir pelo outro. O vínculo não depende de uma disputa romântica com Elena.
 
 ### Linha do Tempo e Evolução Visual
 

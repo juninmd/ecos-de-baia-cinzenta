@@ -11,7 +11,7 @@ O noivado ocorre em 2043, com Gabo aos vinte e dois e Bia aos vinte e um. Dante 
 
 ### Saída
 
-> E isso assustava a IA mais do que qualquer vírus digital.
+> Não sabia o que ele sonhava; sabia que poderia chamá-lo se a porta se abrisse.
 
 ## Alcance do parecer
 

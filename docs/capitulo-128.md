@@ -20,9 +20,9 @@ Não eram cães. Eram *Quimeras de Drenagem*. Cães selvagens que a cidade havia
 
 Eles não latiam. O som que faziam era um clique úmido e mecânico. *Click-clack, click-clack.*
 
-— *Gabo...* — A voz de Aria cortou o ar pelo fone auricular. Sua voz adulta chegou entre cortes de áudio pelo comunicador; o terminal continuava isolando os arquivos de origem. — *O arquivo tem um cerco no Porto, mas a data está quebrada. Não vou comparar sua posição com um relato que não consigo conferir.*
+— *Gabo...* — A voz de Aria chegou entre cortes pelo comunicador. — *O arquivo tem um cerco no Porto, mas a data está quebrada. Não vou comparar sua posição com um relato que não consigo conferir.*
 
-Gabo trincou os dentes, a dor no peito irradiando onde o *Colar de Sol* queimava contra a pele. Ele usou a dor. Focou nela. Era a única coisa real. A voz de Bia no fone era um fantasma digital, um erro de compilação no pendrive.
+Gabo trincou os dentes. O *Colar de Sol* pressionava o peito, onde a pele já estava ferida. Tirou a mão do metal e conferiu a cinta da prancha de Rangel; precisava manter o peso fora da perna que falhava.
 
 — Cale a boca, Aria — ele rosnou, levantando a escopeta *Caronte*. Duas balas restantes. — Valéria, proteja o Rangel. Fique atrás de mim.
 
@@ -50,7 +50,7 @@ Os olhos vermelhos das Quimeras brilhavam na escuridão, multiplicando-se. O bri
 
 — A prancha não passa inteira — disse Aria. — A borda da parede está rompida à direita. Val, confira se é um vão livre antes de tentarem mover Rangel.
 
-Gabo parou diante do espaço estreito. A memória de Bia no galpão veio sem arquivo nem voz; ele não precisava do módulo para se acusar.
+Gabo parou diante do espaço estreito. A lembrança de Bia no galpão veio com o cheiro da chuva sobre concreto. Ele apertou a cinta da prancha para não perder o apoio.
 
 — Não é ela — ele sussurrou para si mesmo, apertando o colar até cortar a mão. — É código num pendrive. É apenas código.
 

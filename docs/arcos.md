@@ -66,7 +66,7 @@ timeline
 | --- | --- | --- | --- |
 | XV | 105–114 | A Ascensão | O pai retorna com o código moral intacto e a empatia amputada; a coleira térmica |
 | XVI | 115–127 | Catedrais de Pedra | A descida à Necrópole; o pendrive de Aria sofre sobrecarga e é reparado no Fliperama |
-| XVII | 128–140 | Esculturas de Carne | O glitch de Bia Vargas no pendrive, o hard reboot de Aria e o Protocolo de Limpeza |
+| XVII | 128–140 | Esculturas de Carne | Os danos de Aria, o ataque ao seu canal, o reinício e o Protocolo de Limpeza |
 | XVIII | 141–157 | Veias de Vidro | A subida pelo Subnível 7; **Rangel morre** na passarela do Setor de Purga |
 | XIX | 158–169 | O Frio da Lógica | O Aeterna Sentinel **funde o pendrive de Aria** no terminal do Arquivo Executivo |
 | XX | 170–184 | Fronteiras de Ferrugem | A prótese de Vasco; Valéria entra em **Modo de Segurança instável** — o corte cai e volta, com lapsos de afeto, até estabilizar no cap. 221 |
@@ -126,7 +126,7 @@ Os três momentos em que a história passa a significar outra coisa. Cada um rec
 ```mermaid
 flowchart TD
     A["<b>Cap. 22</b><br/>O cérebro do pai é a CPU"] --> A1["Reinterpreta caps 1-21:<br/>o vilão que perseguia Gabo<br/>era o pai gritando por socorro"]
-    B["<b>Cap. 112 / 128</b><br/>O pendrive carrega Dante e Bia"] --> B1["Reinterpreta caps 2-111:<br/>a assistente de IA da cabine telefônica<br/>foi semeada com o código do pai e ecos de Bia"]
+    B["<b>Cap. 112 / 128</b><br/>O módulo contém código de Dante"] --> B1["Reinterpreta caps 2-111:<br/>Aria desenvolveu escolhas próprias<br/>a partir de uma arquitetura herdada"]
     C["<b>Cap. 220</b><br/>A fita de admissão"] --> C1["Reinterpreta o livro inteiro:<br/>Dante responde sob coerção<br/>sem apagar suas escolhas anteriores"]
     A1 --> B
     B1 --> C

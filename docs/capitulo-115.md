@@ -12,7 +12,7 @@ Gabo limpou o suor que escorria para dentro dos olhos com as costas da mão suja
 
 — *A temperatura da tubulação está subindo* — a voz sintética de Aria cortou o zumbido pelo comunicador tático no colarinho de Gabo. Acoplado ao cyberdeck de Valéria logo à frente, o pendrive da assistente de IA piscava em âmbar rápido, processando os sensores infravermelhos contra o vento quente que subia das fossas de magma abaixo.
 
-Gabo ouviu a inflexão final da frase no fone auricular. Por um segundo, sob a distorção estática do corredor e a luz âmbar de emergência refletida no metal do drive, uma gravação de Bia atravessou o retorno do arquivo que Aria consultava. Aria cortou a reprodução e retomou a própria voz. Gabo alcançava um trecho sem saída aparente. Ele sentiu o familiar gosto de bile na garganta. Seus dedos tamborilaram nervosamente contra a coronha da *Caronte* antes de subirem para o bolso interno do sobretudo.
+Gabo ouviu a inflexão final da frase no fone. O retorno cortou uma sílaba e voltou carregado de estática. Aria repetiu o aviso, mais devagar. Ele sentiu gosto de bile; os dedos tamborilaram contra a coronha da *Caronte* antes de subirem para o bolso interno do sobretudo.
 
 Seus dedos encontraram o metal frio do Colar de Sol de sua mãe. Ele apertou o pingente até a borda de metal morder a palma da mão. A dor era melhor. A dor era limpa e mantinha sua mente ancorada no presente.
 

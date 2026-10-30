@@ -3,7 +3,7 @@ title: "Capítulo 133: Matéria Prima"
 Data In-Game: "Pós-Colapso da Usina Prometeu (Noite Eterna)"
 Localização: "Necrópole (O Ateliê do Taxidermista)"
 Personagens Presentes: "Gabo, Valéria, Aria (áudio instável), Rangel (Inconsciente)"
-description: "A réplica de Bia é uma construção do Taxidermista. Não é um corpo de Aria. Uma entrada hostil explora o controlador de saída danificado."
+description: "O Taxidermista usa uma réplica de Bia contra Gabo; uma entrada hostil atinge o comunicador de Aria."
 ---
 
 # Capítulo 133: Matéria Prima
@@ -74,21 +74,21 @@ Bia.
 
 A Bia que morreu nos braços de Gabo. Perfeita. Intacta. Até a cicatriz no ombro estava lá.
 
-No comunicador de Gabo e no deck de Valéria, o pendrive da Aria emitiu um guincho agudo de estática e dor digital ao escanear a vitrine. O LED do drive começou a piscar freneticamente entre o azul e o âmbar, superaquecendo na porta de conexão.
+No deck de Valéria, o pendrive de Aria emitiu um guincho de estática quando o sistema do Ateliê abriu uma transmissão no receptor deles. O LED do drive começou a piscar freneticamente entre o azul e o âmbar, superaquecendo na porta de conexão.
 
-— *Não...* — a voz de Aria falhou nos alto-falantes. — *A imagem corresponde aos arquivos de Beatriz. Estou recebendo... — o áudio repetiu o começo da frase e cortou. — A entrada contém dados além da imagem. Val, isole o receptor.*
+— *O receptor está recebendo pacotes desconhecidos* — a voz de Aria falhou nos alto-falantes. — *Val, isole o receptor.* O áudio repetiu o começo do aviso e cortou.
 
-— *Você é o software preso num pedaço de titânio, minha querida* — a voz do Taxidermista ronronou pelas cornetas. — *Aquilo é o receptáculo que moldei para homenagear a dor de Gabriel. Sem silício. Apenas tecido sintético e cera preservados na eternidade do momento final. Uma gaiola anatômica esperando por uma alma.*
+— *Reconhece, Gabriel?* — A voz do Taxidermista ronronou pelas cornetas. — *Tecido sintético e cera. Guardei o momento para você. Queria ver quanto tempo levaria para olhar.*
 
 Gabo sentiu o mundo girar. A imagem de Bia na vitrine queimava em sua retina. Era uma mentira. Tinha que ser. O corpo dela tinha sido cremado.
 
 — É uma boneca de cera e polímero! — Valéria gritou, segurando o braço de Gabo enquanto tentava conter o pico de tensão no pendrive da Aria pelo teclado do deck. — Gabo, olhe para os olhos da estátua! Não tem vida. É uma armadilha lógica para travar o processamento da Aria!
 
-O transponder da vitrine repetia pacotes de identificação no barramento óptico do deck. Val tentava cortar a entrada; o driver danificado voltava a abri-la.
+O transmissor do Ateliê repetia pacotes pelo receptor do deck. Val tentava cortar a entrada; o driver danificado voltava a abri-la.
 
-— *Canal de reprodução sem origem confirmada:* — a voz de Bia sussurrou trêmula nos fones de ouvido, inundando o visor de Valéria com janelas de erro. — *Gabo, eu... — A gravação repetiu o nome. Aria tentou sobrepor um aviso e perdeu a saída de áudio.*
+Nas cornetas, a voz do Taxidermista repetiu o nome de Gabo. No deck de Valéria, janelas de erro se abriram em sequência; a entrada hostil atravessara o receptor conectado ao sistema do Ateliê. Aria tentou sobrepor um aviso e perdeu a saída de áudio.
 
-— Aria, corta a leitura óptica! É um manequim! — Gabo gritou para o comunicador, mas a entrada hostil continuava reabrindo o canal danificado.
+— Aria, corta a entrada! — Gabo gritou para o comunicador, mas o sistema do Ateliê continuava reabrindo o canal danificado.
 
 Um som mecânico pesado ecoou atrás da vitrine. Portas de contenção se abriram.
 

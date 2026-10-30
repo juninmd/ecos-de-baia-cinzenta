@@ -26,6 +26,20 @@ Agora, sentado no chão, ele passou a mão pela cicatriz. Às vezes lhe parecia 
 
 Gabo se levantou devagar. A mão ferida já fechava, mas a pele nova repuxava no punho. Fez café num filtro lavado demais, engolindo o pó que chegava à garrafa. A água das seis e quarenta começou a bater na janela antes que terminasse.
 
+— Pior que ontem.
+
+— *Você disse isso ontem também.*
+
+— E estava errado?
+
+— *Não provei o café, detetive. Só posso confirmar o que você disse.*
+
+Ele deixou o copo junto ao rádio.
+
+— Amanhã a gente compara.
+
+— *Pode ser. Você precisa me contar o resultado.*
+
 Retirou Aria da base e a encaixou no comunicador. Nas três semanas desde a represa, Valéria examinara o módulo numa bancada isolada. Conseguira separar o tráfego externo das funções locais; não abrira o núcleo. Gabo podia usar o rádio sem entregar ao pendrive todas as credenciais do departamento. Era menos cômodo. Por isso mesmo, ela insistira.
 
 O sobretudo ainda cheirava a mofo. Ele guardou os documentos da clínica junto das novas requisições e desceu.

@@ -1,6 +1,10 @@
 <!-- markdownlint-disable MD041 -->
 
+<CharacterPortraits name="Elena Moretti" portrait="/personagens/elena.png">
+
 ![Elena Moretti](/personagens/elena.png)
+
+</CharacterPortraits>
 
 * **Idade:** 33 anos
 * **Altura:** 1,70 m
@@ -12,10 +16,11 @@
 * **Equipamento:** Duas câmeras analógicas de filme (as digitais são rastreáveis), gravador de fita, e uma escopeta que ela aprendeu usar por necessidade e detesta carregar.
 * **Gostos/Traços:** Verificar a mesma informação em três fontes antes de escrever uma linha. Café requentado. Anota tudo em caderno de papel. Odeia ser chamada de corajosa — chama isso de teimosia mal remunerada.
 * **Perfil Psicológico:** **A Testemunha Profissional.** Elena não é destemida; ela é alguém que decidiu que documentar é a única vingança que sobra. Onde Gabo quebra dentes, ela publica nomes — e acredita, com uma fé que já lhe custou o casamento, que a segunda coisa dura mais que a primeira. Sua contradição central: passou a vida exigindo que as pessoas encarem a verdade e é incapaz de encarar a própria, que é continuar amando um homem cuja morte ela já ensaiou mentalmente cem vezes.
+* **Cargo / ocupação:** Jornalista e editora independente; investiga, preserva fontes e coordena a publicação.
 * **Função:** Jornalista Independente / A Memória Pública da Cidade.
-* **Relação com Valéria:** Tensão competitiva. Respeita as habilidades técnicas de Val, mas acha que ela depende demais delas. Busca provar a Gabo que o "instinto humano" e a ação direta são insubstituíveis, competindo sutilmente pela atenção dele no campo de batalha.
-* **⚠️ O que realmente separou os dois (A Obsessão e os Fantasmas):** Ex-esposa antes da série, não irmã de Gabo. O casamento terminou por perdas, obsessão e medo da morte dele; Aria só entra na vida de Gabo 2, depois da separação. Em 226 ele reconhece que confundira arquivos de Bia com a pessoa autônoma Aria, sem apagar a diferença entre as duas mortes.
-* **Relacionamento com Gabo (O Dilema):** Elena ainda ama Gabo profundamente, e sabe que ele sente o mesmo. No entanto, ela se recusa a reatar o casamento. O motivo não é falta de amor, mas excesso de autopreservação emocional. Ela entendeu que Gabo é "casado com a cidade" e com sua cruzada. Ela o deixou porque não suportava mais assistir ao lento suicídio dele em nome do dever. Ela continua ao lado dele como parceira de combate porque não consegue deixá-lo morrer sozinho, mas mantém a distância romântica como um escudo. Para ela, voltar para ele seria aceitar ser viúva antes do enterro.
+* **Relação com Valéria:** Métodos diferentes não impedem que trabalhem juntas: Elena socorre Valéria em 27 e ambas contestam o tiro de Gabo em 35. A confiança não elimina divergências; Val reconhece o luto por Elena em 236.
+* **⚠️ O que separou os dois:** Depois da morte de Bia, amiga de Elena, os dois investigaram o caso. Gabo sabia que Miranda saíra do beco, sem ter prova do crime. Ao usar o nome de Elena para abordar uma fonte sem avisá-la, comprometeu a entrevista; fotografias deixadas na redação demonstraram uma ameaça, sem identificar quem a enviou. Ele tentou então fazê-la abandonar a reportagem. Elena encerrou o casamento pela quebra de confiança e da sua autonomia, não por recusar o risco profissional (plantio 21; confronto 226). A identidade e a autoria do crime de Bia têm apuração posterior.
+* **Relacionamento com Gabo:** Há afeto e uma história compartilhada, sem obrigação de reatar. Elena decide como investigar e publicar, e cobra que Gabo lhe conte quando suas escolhas atingirem fontes ou terceiros. A distância entre os dois não apaga a amizade com Bia nem transforma a jornalista em extensão da investigação dele.
 
 ### ⏳ Linha do Tempo e Evolução Visual
 

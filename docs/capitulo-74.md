@@ -145,4 +145,4 @@ Havia um buraco no meio das nuvens. E, dentro do buraco, uma estrela. Uma só. G
 
 — Não — ele disse, com a mão apoiada sobre o bolso onde o pendrive repousava. — A operação está espalhada. Ela continua aqui, no módulo. Ainda não sei o que conseguiu conservar.
 
-E ficou ali em cima, ajoelhado numa torre torta, segurando a cabeça de uma hacker de vinte e três anos fora da poça, até parar de chover.
+E ficou ali em cima, ajoelhado numa torre torta, segurando a cabeça de uma hacker de vinte e oito anos fora da poça, até parar de chover.

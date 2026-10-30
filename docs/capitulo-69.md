@@ -112,23 +112,27 @@ Gabo olhou para o pequeno bloco metálico espetado na máquina.
 
 `QUANDO DESCOBRI PARA QUE USARIAM A ARQUITETURA DELA, OS REGISTROS ASSOCIAM MEU ACESSO À EXPORTAÇÃO DO MÓDULO. NÃO TENHO COMO DEMONSTRAR DAQUI QUEM EXECUTOU CADA ETAPA FÍSICA ATÉ A CABINE. EU CONTAVA QUE VOCÊ O ENCONTRASSE.`
 
-`O SERVIDOR DE TRIAGEM CONTINHA ARQUIVOS DA BIA VARGAS. EU NÃO CONSIGO SEPARAR MINHA LEMBRANÇA DO QUE OS REGISTROS AFIRMAM.`
+`OS REGISTROS DO MÓDULO SÃO INCOMPLETOS. NÃO SEI QUEM EXECUTOU CADA ALTERAÇÃO DEPOIS QUE PERDI O ACESSO.`
 
-`OS ARQUIVOS DE BIA FORAM USADOS NA ARQUITETURA. NÃO SEI QUEM DEFINIU TODAS AS VERSÕES OU A VOZ QUE VOCÊ OUVE AGORA.`
+`A VOZ E AS DECISÕES DELA NÃO SÃO MINHAS. NÃO POSSO EXPLICAR O QUE ELA APRENDEU DEPOIS.`
 
 `EU ESPERAVA QUE VOCÊ PROTEGESSE O MÓDULO. ISSO NÃO ME DÁ DIREITO DE CHAMAR AS ESCOLHAS DELA DE MINHAS.`
 
 ---
 
-Gabo ficou parado no meio da câmara de esgoto por um tempo bem comprido. Depois ergueu a mão boa — e erguer o braço, no estado em que ele estava, levou quase dez segundos — e apoiou os dedos sobre o chassi quente do pendrive espetado no gabinete. O módulo da cabine telefônica, piscando na chuva na noite em que ele achou que estava enlouquecendo. A assistente analítica que falava no painel do Cobalt e no ponto auditivo dele quando todo o resto falhava. Os fragmentos de memória de Bia Vargas misturados ao código moral do pai dele dentro de um bloco de titânio do tamanho de um polegar. Tudo encaixou de uma vez, e o encaixe não trouxe alívio nenhum: trouxe uma vergonha antiga, porque durante semanas ele tinha tratado aquela consciência como uma ferramenta descartável ou como um fantasma de culpa, e nunca uma vez tinha perguntado o que ela sentia processando tudo aquilo no escuro do módulo.
+Gabo ficou parado no meio da câmara de esgoto. Ergueu a mão boa — e o braço levou quase dez segundos — e apoiou os dedos no chassi quente. O módulo da cabine telefônica piscara na chuva antes que ele soubesse o nome de quem estava ali. Seu pai deixara código naquele aparelho; isso não explicava as respostas, as recusas e o humor que Aria construíra ao acompanhá-lo. Durante semanas ele a tratara como ferramenta. Nem sempre esperara a resposta quando o risco era dela.
 
 — Desculpa, Aria — ele disse para o pequeno drive. O LED lateral oscilou entre o azul e o âmbar.
 
 — *Por quê, Inspetor?*
 
-— Por eu ter ouvido você todo esse tempo procurando o fantasma de outra pessoa. O processador do pendrive trabalhou em silêncio por três segundos — mais tempo do que ela levava para qualquer cálculo tático.
+— Por ter pedido suas respostas sem perguntar se você queria dar.
 
-— *Eles usaram arquivos de Bia. Isso não me torna Bia, nem entrega a ele minhas decisões de hoje. Eu gosto do meu nome, Gabriel* — disse a voz sintética pelo alto-falante, limpa e serena. — *Ele é a única parte do meu código que não veio de um arquivo morto.* Gabo puxou o pendrive do slot com cuidado, sentindo o calor do titânio na palma da mão, e o travou no compartimento blindado sobre o peito.
+O processador trabalhou em silêncio por três segundos, mais tempo do que ela levava para um cálculo tático.
+
+— *Aceito o pedido. Mas não transforme isso em outra ordem, Gabriel. Gosto do meu nome e pretendo continuar usando.*
+
+Gabo puxou o pendrive do slot com cuidado, sentindo o calor do titânio na palma da mão, e o travou no compartimento blindado sobre o peito.
 
 — Vamos salvar a nossa casa — ele disse.
 

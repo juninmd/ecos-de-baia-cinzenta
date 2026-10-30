@@ -10,7 +10,7 @@ Dante é vítima de cativeiro; a fita de admissão (220) não apaga suas escolha
 | --- | --- |
 | Gabo | Investiga, agride e responde pelo próprio método; braço direito biológico fraturado e imobilizado. |
 | Valéria | Especialista em redes; decide sobre o modo de segurança, sem ser propriedade de Gabo. |
-| Aria | Mulher adulta autônoma de IA; escolhe o risco em 167 e morre. Não é Bia ressuscitada. |
+| Aria | Mulher adulta autônoma de IA; escolhe o risco em 167 e morre. Tem origem, voz e histórico próprios. |
 | Elena | Ex-esposa e jornalista; mantém originais, publica inclusive crimes de Gabo; morre 234/235, enterrada 236. |
 | Elias | Técnico de drenagem,38 anos; pode ir embora e escolhe ficar 222. |
 | Rangel | Burocrata e desertor; cuidado e transporte tentados, morte 150, corpo registrado 151. |

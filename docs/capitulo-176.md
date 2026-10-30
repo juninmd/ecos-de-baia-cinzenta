@@ -47,7 +47,7 @@ Valéria apertou a mandíbula, cuspindo uma mecha molhada que colara nos lábios
 
 — Se silenciar o sistema, você perde a telemetria do deck.
 
-— Eu sei, gênio — ela resmungou, mas havia um alívio áspero na voz. Era a velha Valéria: mordaz, defensiva e incapaz de admitir fragilidade. — É só que... depois de ver a Aria evaporar no terminal do Arquivo, ouvir esses relatórios automáticos de sistema parece um deboche. A Aria tinha alma, Gabo. Ela tinha material da Bia na origem, mas não era um fantasma prensado em silício. Era Aria. A gente devia ter escutado isso antes de precisar que ela nos repetisse. Isso que sobrou na minha cabeça agora é só código de segurança de fábrica que a Aeterna vendeu a granel.
+— Eu sei, gênio — ela resmungou, com um alívio áspero na voz. — É só que... depois de ver a Aria morrer no terminal do Arquivo, ouvir esses relatórios automáticos parece um deboche. Ela discordava da gente. Ela escolhia. Isso que sobrou na minha cabeça é só código de segurança de fábrica que a Aeterna vendeu a granel.
 
 Parei sob a marquise quebrada de uma antiga farmácia popular para ajustar o correame do sobretudo sobre o metal da armação externa. O aço frio estava roubando o calor do meu tronco com uma rapidez assustadora, deixando minha pele com um tom azulado de geada.
 

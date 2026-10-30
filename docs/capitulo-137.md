@@ -61,7 +61,7 @@ O sangue espirrou na borda da maca, mas no comunicador o LED azul-gelo de Aria s
 
 — *Não vejo movimento imediato* — ela anunciou. — *O alcance da câmera não cobre a sala inteira.*
 
-Gabo olhou para o comunicador no próprio peito, ofegante, o vergalhão pingando sangue escuro. A voz restrita de Aria ainda soava estranha depois do massacre. Aquela não era a Bia. Nem mesmo a Aria que brincava com eles no cais.
+Gabo olhou para o comunicador no peito, ofegante, o vergalhão pingando sangue escuro. A voz restrita de Aria ainda soava estranha depois do massacre. Ela reconhecia os dois, mas precisava de tempo e acesso ao próprio histórico para avaliar o dano.
 
 — Você está bem? — ele perguntou para Valéria, que tremia segurando a lanterna suja.
 

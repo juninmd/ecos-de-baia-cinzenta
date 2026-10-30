@@ -15,6 +15,7 @@
 * **Gostos/Traços:** Obras de arte renascentistas contrabandeadas, uísque puro malte e xadrez tático.
 * **Perfil Psicológico:** O Estrategista das Sombras. Diferente dos chefes de gangue violentos da rua, O Arquiteto enxerga a criminalidade como infraestrutura essencial de Baía Cinzenta. Ele opera a partir do camarote blindado do Palácio de Jade, manipulando o equilíbrio de poder com a frieza de um banqueiro central.
 * **Prompt Visual:** cinematic portrait, 50-year-old syndicate crime boss, trimmed salt-and-pepper beard, pinstripe tailored three-piece suit, black tie, luxury cigar smoke, onyx signet ring, shadowy luxury casino booth
+* **Cargo / ocupação:** Dirigente da organização criminosa conhecida como Sindicato.
 * **Função:** Mente Criminosa / O Dono do Submundo.
 
 ### ⏳ Linha do Tempo

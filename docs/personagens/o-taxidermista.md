@@ -14,6 +14,7 @@
 * **Equipamento:** Estojo de ferramentas cirúrgicas antigas e mecanismos de relógio. Agulhas de paralisia.
 * **Gostos/Traços:** Fusão de carne e mecanismo. Odeia implantes digitais ("eletrônica é vulgar"). Admira a "mecânica sagrada" da anatomia.
 * **Perfil Psicológico:** Artista Delirante. Ele não se vê como um assassino, mas como um "curador". Para ele, a morte é apenas a estagnação do tempo, e sua arte é fazer a carne "funcionar" para sempre através de engrenagens.
+* **Cargo / ocupação:** Artista e taxidermista clandestino; a atividade criminosa não comprova formação médica.
 * **Função:** Serial Killer / O Criador do Monstro (Gabo).
 
 ### 📖 A Narrativa do Confronto (O Dia da Queda - Capítulo 47)
