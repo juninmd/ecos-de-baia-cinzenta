@@ -1,6 +1,7 @@
 import { fileURLToPath } from 'node:url'
 import sidebar from './navigation/sidebar'
 import { socialMeta } from './social-meta.mjs'
+import { prefixCoverPath } from './cover-path.mjs'
 import { stripDiagramHints } from './preload-hints.mjs'
 ﻿import { defineConfig } from 'vitepress'
 import { withMermaid } from 'vitepress-plugin-mermaid'
@@ -12,6 +13,10 @@ const base = process.env.VITEPRESS_BASE || '/'
 
 export default withMermaid(defineConfig({
   buildEnd: ({ outDir }) => stripDiagramHints(outDir),
+  transformPageData: (pageData) => {
+    const image = pageData.frontmatter.image
+    if (typeof image === 'string') pageData.frontmatter.image = prefixCoverPath(image, base)
+  },
   base,
   vite: {
     resolve: {

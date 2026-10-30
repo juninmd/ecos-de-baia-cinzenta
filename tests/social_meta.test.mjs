@@ -31,3 +31,8 @@ test('index.md vira a raiz do site', () => {
   const tags = tagsFor({ page: 'index.md', title: 'Início', description: '', pageData: { frontmatter: {} } })
   assert.equal(tags['og:url'], `${SITE_ORIGIN}/`)
 })
+
+ test('capa com prefixo do Pages mantém URL social correta', () => {
+  const tags = tagsFor({ page: 'capitulo-1.md', title: '', description: '', pageData: { frontmatter: { image: '/ecos-de-baia-cinzenta/capitulo_1.jpg' } } })
+  assert.equal(tags['og:image'], `${SITE_ORIGIN}/capitulo_1.jpg`)
+})

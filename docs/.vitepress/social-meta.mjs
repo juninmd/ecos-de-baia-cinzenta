@@ -5,7 +5,8 @@ const SITE_NAME = 'Ecos de Baía Cinzenta'
 export function socialMeta({ page, title, description, pageData }) {
   const image = pageData.frontmatter?.image
   const path = page.replace(/(^|\/)index\.md$/, '$1').replace(/\.md$/, '')
-  const absoluteImage = image ? `${SITE_ORIGIN}${image}` : null
+  const site = new URL(`${SITE_ORIGIN}/`)
+  const absoluteImage = image ? new URL(image.startsWith(site.pathname) || image.startsWith('//') ? image : image.replace(/^\//, ''), site).href : null
 
   const tags = [
     ['meta', { property: 'og:site_name', content: SITE_NAME }],
