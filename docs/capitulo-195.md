@@ -9,7 +9,7 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 O interior do duto de refrigeração secundária era um pesadelo de ferro galvanizado e claustrofobia.
 
-Com pouco mais de um metro de diâmetro, o tubo cilíndrico nos forçava a avançar de gatinhas sobre um piso ondulado de chapas perfuradas, onde poças de água ácida condensada e lodo calcificado mordiam os joelhos através do tecido da calça. O ar era gelado, cheirando a zinco molhado, ozônio antigo e graxa queimada que vazava das juntas mecânicas da minha armação avariada.
+Com pouco mais de um metro de diâmetro, o tubo cilíndrico nos forçava a avançar de gatinhas sobre um piso ondulado de chapas perfuradas, onde poças de água ácida condensada e lodo calcificado mordiam os joelhos através do tecido da calça. No primeiro alargamento, Elias me deixou passar à frente para eu testar se a armação cabia; Val ficou entre nós, com o deck. O ar era gelado, cheirando a zinco molhado, ozônio antigo e graxa queimada que vazava das juntas mecânicas da minha armação avariada.
 
 O peso de vinte quilos da liga industrial no meu ombro direito arrastava-se como uma bigorna morta sobre o metal do duto. A cada impulso para a frente, os pontos do fixador ardiam como se alguém estivesse encostando pontas de ferro em brasa na minha clavícula.
 
@@ -25,13 +25,11 @@ Ela rastejava empurrando o cyberdeck enrolado em lona diante do peito. A luz azu
 
 — Eu tô andando! Eu tô andando! — o técnico gaguejava logo atrás de Valéria, a respiração saindo em silvos asmáticos pela máscara de carvão. — Mas o calor lá de trás tá subindo... Eu sinto o metal do piso esquentando na palma da minha mão! A onda de choque vai derreter essa tubulação!
 
-— Para de drama, Elias — Valéria cortou com firmeza, a voz carregada de autoridade de rua. — A comporta de alívio que o Gabo fechou na Subestação segurou a deflagração primária. O detector mostra que a temperatura está caindo perto de mim, mas não consigo medir a curva atrás de você. Se esquentar mais, avisa. Respira pelo nariz e não para de mexer os joelhos.
+— Avisa se piorar, Elias — disse Valéria. — A comporta de alívio que o Gabo fechou na Subestação segurou a deflagração primária. O detector mostra que a temperatura está caindo perto de mim, mas não consigo medir a curva atrás de você. Se esquentar mais, avisa. Respira pelo nariz e não para de mexer os joelhos.
 
 Parei sob uma caixa de inspeção técnica onde a tubulação fazia uma curva de quarenta e cinco graus para a esquerda. O espaço vertical era ligeiramente maior, permitindo que eu me apoiasse sobre o joelho direito e respirasse fundo.
 
 O esforço para arrombar a válvula monumental na subestação cobrara um preço alto: o curativo junto ao fixador sangrava num fluxo constante, encharcando a manga da camisa e pingando na grade de ferro com um som rítmico de torneira gotejando. Minha mão de carne tremia de exaustão, o gosto metálico de sangue e bile colado no palato.
-
-Lembrei de cada ferida que acumulei desde o início dessa guerra contra a Aeterna; em Baía Cinzenta, a sobrevivência nunca era de graça. Cada quilômetro conquistado custava carne, metal e anos de vida que eu nunca mais teria de volta.
 
 Valéria alcançou o recuo da curva e parou ao meu lado, os olhos ópticos prateados faiscando sob a luz fria do scanner.
 
@@ -39,13 +37,13 @@ Valéria alcançou o recuo da curva e parou ao meu lado, os olhos ópticos prate
 
 — A gente tem que continuar avançando, Val...
 
-— Eu mandei parar, cabeça-dura — ela puxou um rolo de fita hemostática de compressão médica de dentro do bolso tático e arrancou uma tira com os dentes. — Você tá deixando uma trilha de sangue fresco na grade que qualquer carniceiro com olfato cibernético consegue seguir no escuro. Se a gente não estancar essa sangria no ombro agora, você apaga por choque hipovolêmico antes da gente cruzar a fronteira do Setor 6.
+— Eu mandei parar, cabeça-dura — ela puxou um rolo de fita hemostática de compressão médica de dentro do bolso tático e arrancou uma tira com os dentes. — Você tá deixando uma trilha de sangue fresco na grade que qualquer carniceiro com olfato cibernético consegue seguir no escuro. Se continuar sangrando assim, você pode ficar fraco antes da saída. Me deixa conferir.
 
-Ela não esperou minha permissão. Com a habilidade rápida e rude de quem já remendara dezenas de estivadores esfaqueados nas docas da Zona Sul, ela enfiou uma gaze compressiva sob o rasgo do meu casaco e enrolou a fita elástica ao redor da junção entre o meu ombro ferido e a chapa de fixação da armação.
+Assenti. Ela afastou o tecido rasgado com cuidado, colocou gaze sobre o sangramento visível e prendeu a cobertura ao redor do suporte. Não podia examinar o fixador inteiro naquele espaço.
 
 A pressão sobre a carne viva foi excruciante. Cerrei os dentes com tanta força que o maxilar estalou, a respiração presa na garganta enquanto a dor me ancorava na realidade imediata daquele tubo escuro.
 
-— Pronto — ela deu um puxão final na fita, travando o adesivo com um tapa seco na minha armação de ferro. — Não vai ganhar prêmio de estética médica, mas estancou o vazamento. Agora para de tentar bancar o mártir imortal e usa o apoio do cotovelo mecânico pra distribuir o peso.
+— Pronto — ela deu um puxão final na fita, travando o adesivo com um tapa seco na minha armação de ferro. — Por enquanto, a gaze segurou o sangue. Agora para de tentar bancar o mártir imortal e usa o apoio do cotovelo mecânico pra distribuir o peso.
 
 A fita apertou mais do que precisava. Em dois minutos, os dedos da mão direita começaram a formigar, depois a desaparecer, e a dormência subiu pela mão imobilizada. Pressão demais segura hemorragia e mata a mão devagar, e Valéria afrouxou a faixa ao ouvir que a sensibilidade diminuíra. Não tratou a dormência como um preço necessário para continuar andando.
 

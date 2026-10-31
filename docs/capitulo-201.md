@@ -7,7 +7,7 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 # Capítulo 201: Degraus de Sangue e Ferrugem
 
-A escada de manutenção de emergência cheirava a ferro cru, óleo rançoso e séculos de abandono sob a cidade afundada. Cada barra transversal estava encrustada por uma crosta espessa de óxido escamoso e um lodo vegetal que parecia pulsar em espasmos lentos. Elias subia na frente, impulsionado pelo pavor primal de ser mastigado pela massa biomecânica que infestava a base do poço. Seus coturnos escorregavam no metal podre, as mãos ossudas agarrando os degraus com o desespero cego de um náufrago em mar aberto.
+A escada de manutenção de emergência cheirava a ferro cru, óleo rançoso e séculos de abandono sob a cidade afundada. Cada barra transversal estava encrustada por uma crosta espessa de óxido escamoso e um lodo vegetal que parecia pulsar em espasmos lentos. Elias subia na frente, testando os apoios antes de passar o peso. A bota enfaixada alcançava o degrau com dificuldade; quando escorregava, ele parava até firmar a outra perna.
 
 Eu subia logo abaixo dele. Não por cavalheirismo de manual policial, mas por cálculo prático: se Elias entrasse em choque e despencasse, a guia de segurança que Elias passara pelos apoios era a barreira entre ele e uma queda livre de quarenta metros até a laje das catacumbas. Valéria fechava a coluna, cinco degraus abaixo de mim, o cyberdeck preso ao colete e os fios holográficos azuis da franja emitindo pulsos curtos e ritmados contra o abismo escuro.
 
@@ -17,7 +17,7 @@ Eu subia logo abaixo dele. Não por cavalheirismo de manual policial, mas por c�
 
 — Deixa que farejem, Elias, — cortou Valéria, a voz ácida com aquele timbre cortante de sarcasmo da Zona Baixa que me lembrava os becos da Doca Três. — Se alguma aberração com mandíbula de soldador tentar subir na minha bota, eu enfio uma descarga de quatrocentos volts no processador dela. Menos choro e mais músculo nesse quadril, garoto. Você é engenheiro, não um pacote de correio.
 
-O peso da minha armação industrial de sucata — o monstro de aço forjado que Vasco parafusara no meu osso para travar a fratura — puxava meu ombro direito para baixo como uma âncora de navio. A cada elevação de braço, os servos sem blindagem rangiam com um estalo seco, cuspindo fagulhas microscópicas na penumbra. Minha perna direita ardia onde a órtese improvisada mordia a carne machucada, uma lembrança persistente das docas e do colapso da Torre Aeterna.
+O peso da armação que Vasco acoplara ao fixador puxava meu ombro direito para baixo. Mantive o braço junto ao tronco; cada degrau fazia o arnês ranger e repuxava o curativo. Minha perna direita ardia onde a órtese improvisada mordia a carne machucada, uma lembrança persistente das docas e do colapso da Torre Aeterna.
 
 O ar vertical que subia do fundo era gélido, fétido, carregado de esporos que pinicavam a traqueia. A sensação sufocante de confinamento ameaçava apertar minha garganta, mas não havia espaço para fraqueza mental. Havia apenas a gravidade, a ferrugem e a distância até a próxima escotilha.
 
@@ -27,21 +27,21 @@ O ar vertical que subia do fundo era gélido, fétido, carregado de esporos que 
 
 — Quinze metros acima do nariz empinado do Elias, — ela disparou, subindo dois degraus de uma vez com a agilidade quase felina de quem passou a adolescência pulando telhados de lata sob a chuva ácida. — O trinco mecânico tá bloqueado por um contraventamento antigo. A gente vai ter que arrombar na força bruta.
 
-— Elias, acelera esse passo! — gritei.
+— O que está vendo, Elias? — perguntei, tentando ouvir a resposta acima das garras.
 
-Mas o silêncio que se seguiu foi o pior tipo de resposta. As solas de borracha de Elias congelaram. Eu bati a testa contra o couro das costas dele, sentindo o tremor febril que sacudia toda a sua caixa torácica.
+A resposta demorou. As solas de borracha de Elias congelaram. Eu bati a testa contra o couro das costas dele, sentindo o tremor febril que sacudia toda a sua caixa torácica.
 
 — Eu... eu não consigo, Gabo... — balbuciou ele, os dedos brancos grudados no ferro oxidado. — O degrau do meio... apodreceu. É só casca de ferrugem. Vai estalar. Vai quebrar tudo.
 
 Olhei para cima, apertando os olhos contra a poeira fina que caía do teto do túnel. A barra horizontal em que ele precisava apoiar o peso estava corroída até a espessura de um graveto, comida pelo ácido do lodo vegetal. Mais acima, na penumbra azulada das raízes que rasgavam o concreto, vi o primeiro brilho de ópticas corrompidas. Quatro olhos mecânicos facetados, montados sobre uma carcaça de drone de vigilância fundida a fibras musculares sintéticas e espasmos de pernas articuladas de aço. Uma aranha de dois metros, descendo pelas vigas mestras com velocidade obscena.
 
-— Não pisa no centro! — rosnei, puxando Elias pela barra da calça de sarja. — Pisa no canto, colado na solda da viga mestra! A parede segura o pino! Move agora, Elias!
+— A solda do canto parece mais inteira — falei. — Você consegue alcançar sem pôr peso no meio?
 
 Um guincho eletrônico estridente rasgou o poço de elevação. A quimera se projetou no vazio, caindo dez metros em queda livre antes de enterrar três garras de tungstênio diretamente nos rebites da escada, a menos de quatro metros acima da cabeça de Elias. A vibração do choque percorreu toda a estrutura de ferro, arrancando nuvens de fuligem vermelha.
 
 — Elias! — berrou Valéria.
 
-Elias apoiou o pé no canto que eu indiquei, mas a ferrugem esfarelou. A guia esticou e tomou o peso antes da queda virar um mergulho; o tranco me puxou contra a barra. Ele bateu a canela na viga e ficou suspenso, sem ar.
+Elias testou o canto com a bota boa e tentou avançar, mas a ferrugem esfarelou. A guia esticou e tomou o peso antes da queda virar um mergulho; o tranco me puxou contra a barra. Ele bateu a canela na viga e ficou suspenso, sem ar.
 
 — Não solta a linha! — gritei.
 

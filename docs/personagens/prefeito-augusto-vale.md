@@ -9,6 +9,7 @@
 * **Olhos:** Castanhos, esquivos.
 * **Marcas Distintivas:** Lenço de seda sempre na mão para enxugar a testa.
 * **Vestuário:** Ternos caros que não caem bem.
+* **Prompt Visual:** an obese sweating 58 year old politician, thinning grey hair stuck to sweaty forehead, shifty tired brown eyes, holding silk handkerchief, expensive ill-fitting dark suit, dim city hall office
 * **Equipamento:** Botão de pânico direto para a Aeterna Sec.
 * **Gostos/Traços:** Banquetes, poder sem responsabilidade.
 * **Perfil Psicológico:** O Covarde no Trono. Vale foi um líder sindical que vendeu seus ideais por conforto. Agora, ele vive aterrorizado. Ele sabe que é descartável para Krell e odiado pelo povo. Sua crueldade vem do medo; ele ataca Vilar e a Polícia porque precisa mostrar serviço aos seus donos.

@@ -1,5 +1,5 @@
 ---
-image: /cenas/cidade.jpg
+image: /cenas/capitulo_112/cena_1.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Inspetor Rangel, Aria
 Participação em documentos: Marco Moretti, Dante Moretti
 Localização: "Saída de Drenagem 04-B (Distrito Industrial) → Beco entre armazéns abandonados"

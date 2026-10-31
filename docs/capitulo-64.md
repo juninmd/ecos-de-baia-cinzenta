@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: "Capítulo 64: A Cidade Fantasma"
-description: "Dentro do Núcleo existe uma Baía Cinzenta perfeita, ensolarada e habitada pelos mortos do Dilúvio. E eles não estão de férias: estão trabalhando."
+description: "No Núcleo, uma Baía Cinzenta simulada reúne rostos conhecidos. O painel mostra processos ativos, mas não revela o que as cópias percebem."
 image: /capitulo_64.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Marco Moretti, Aria, Roberto Miranda
 Localização: "Sala de controle do Núcleo"
@@ -46,7 +46,7 @@ E havia gente. Gabo aproximou o rosto do monitor. Ele reconheceu o Adilson, do p
 
 Ela apontou a lista de processos na lateral da tela.
 
-— Olha a alocação. Cada um desses tem uma carga de instrução permanente. O Adilson não está andando com o carrinho porque quer: ele está executando um laço de comportamento de vinte e dois minutos, e depois volta para o começo da rua e faz de novo.
+— Olha a alocação. Cada um desses tem uma carga de instrução permanente. O processo associado ao Adilson tem um laço de movimento de vinte e dois minutos. O painel diz que ele volta ao começo da rua; eu ainda não vi uma volta inteira.
 
 — Para quem?
 
@@ -54,13 +54,13 @@ Ela apontou a lista de processos na lateral da tela.
 
 — E foi mais barato pegar as pessoas de verdade.
 
-— Foi mais barato **e melhor**. Ninguém consegue programar um Adilson. — Ela riu, e o riso saiu errado. — Eles não estão vendendo imortalidade para os ricos. Eles estão vendendo **companhia**. E a companhia são os nossos mortos, com o nome e o rosto e o jeito de andar, presos em rotina de vinte e dois minutos, para sempre, para que um banqueiro morto não se sinta sozinho.
+— Olha a cidade que estão oferecendo: tem **companhia**. — Ela riu, e o riso saiu errado. — Com nomes, rostos e rotinas de gente que conhecemos. Não sei quanto custa criar cada registro nem há quanto tempo eles estão aqui.
 
 Gabo fechou os olhos.
 
 — Isso é escravidão.
 
-— O campo de percepção continua ativo, mas não sei medir por esse número o que cada um entende. — Val apontou o campo de consciência residual, um número de dois dígitos ao lado de cada processo. — Está tudo aceso, Gabo. Eles não apagaram a percepção. Deixaram acesa de propósito, porque uma pessoa desperta é mais convincente do que uma boneca.
+— O campo de percepção continua ativo, mas não sei medir por esse número o que cada um entende. — Val apontou o campo de consciência residual, um número de dois dígitos ao lado de cada processo. — O campo está ligado. Não sei se alguém percebe a rotina, nem por que deixaram esse campo ativo. Se percebe, a gente não pode tratar como uma imagem qualquer.
 
 ---
 
@@ -76,7 +76,7 @@ Ela olhou para ele com os olhos vermelhos.
 
 — Eu tenho vinte e oito anos, Gabo. Eu não devia ser a pessoa que decide isso.
 
-— Não devia mesmo. Gabo olhou para a porta USB blindada do console, onde o pendrive de titânio da Aria estava conectado, lendo diretamente os barramentos do servidor. O LED lateral piscava num ritmo lento e pesado, sobrecarregado pelos quarenta e um mil fluxos de telemetria neural.
+— Não devia mesmo. Gabo olhou para a porta USB blindada do console, onde o pendrive de titânio da Aria estava conectado, lendo diretamente os barramentos do servidor. O LED lateral piscava num ritmo lento e pesado, aquecendo enquanto processava os trechos de telemetria que o console exibia.
 
 — Aria. O sintetizador do console chiou baixinho antes de a voz dela sair, limpa e triste:
 

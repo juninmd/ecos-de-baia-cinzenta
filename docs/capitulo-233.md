@@ -39,7 +39,7 @@ No oitavo dia do Dilúvio as unidades alcançam a Orla Norte, e ele registra a c
 
 ---
 
-A parte insuportável começa no segundo mês. Porque ele continua. Continua emitindo ordem de manobra para unidades que não reportavam havia semanas. Continua fazendo chamada nominal — *L-04, reporte; L-04, reporte* — três vezes por dia, todos os dias, com a mesma letra firme. Continua planejando a Fase 3, que era a administração da cidade pacificada, com organograma, distritos e turnos. Ele transmitiu o organograma inteiro. Está no livro, na página cento e quarenta e um. Uma caixa no topo escrita **COMANDO** e treze embaixo, e em três delas nomes de gente morta durante os vinte e sete anos de estase.
+A parte insuportável começa no segundo mês. Porque ele continua. Continua emitindo ordem de manobra para unidades que não reportavam havia semanas. Continua fazendo chamada nominal — *L-04, reporte; L-04, reporte* — três vezes por dia, todos os dias, com a mesma repetição mecânica. Continua planejando a Fase 3, que era a administração da cidade pacificada, com organograma, distritos e turnos. Ele transmitiu o organograma inteiro. Está no livro, na página cento e quarenta e um. Uma caixa no topo escrita **COMANDO** e treze embaixo, e em três delas nomes de gente morta durante os vinte e sete anos de estase.
 
 — As transmissões foram arquivadas, mas não achei aqui registro de quem as recebeu ou leu — disse Valéria. Tinha se aproximado sem ninguém perceber. — A queda da Torre não prova que toda estação ficou sem operador.\
 — Também não sabemos o que ele soube — falei.\
@@ -62,7 +62,7 @@ A parte insuportável começa no segundo mês. Porque ele continua. Continua emi
 — Que **data**. Ela me olhou. E entendeu antes de responder, do jeito que ela entende tudo, meio segundo antes de todo mundo.\
 — O senhor sabe que data foi.
 
-Eu sabia. Foi no ataque orbital. Eu estava num poço de ventilação no subsolo do Distrito Industrial, com a Val digitando ao meu lado e três plataformas orbitais em janela de lançamento, e um alvo padrão marcado no centro geométrico de Baía Cinzenta que ninguém precisava confirmar porque o *default* já estava lá. E eu escolhi um retângulo de água preta a leste. A Val me avisou que o arquivo de apoio ligado ao padrão do meu pai estava lá embaixo, e eu disse que meu pai estava na cidade e que o que tinha no fundo do mar era um arquivo corporativo com a cara dele, e ela confirmou o risco, registrou meu comando e digitou as coordenadas, e eu falei *fogo*. Quatro minutos e onze segundos. O céu ficou branco três vezes. O chão bateu de leste. Nove toneladas de tungstênio a doze mil quilômetros por hora, três vezes, num ponto do oceano onde eu sabia que tinha um cofre. Eu não sabia que tinha um homem.
+Eu sabia. Foi no ataque orbital. Eu estava num poço de ventilação no subsolo da Torre Aeterna, com a Val digitando ao meu lado e três plataformas orbitais em janela de lançamento, e um alvo padrão marcado no centro geométrico de Baía Cinzenta que ninguém precisava confirmar porque o *default* já estava lá. E eu escolhi um retângulo de água preta a leste. A Val me avisou que o arquivo de apoio ligado ao padrão do meu pai estava lá embaixo, e eu disse que meu pai estava na cidade e que o que tinha no fundo do mar era um arquivo corporativo com a cara dele, e ela confirmou o risco, registrou meu comando e digitou as coordenadas, e eu falei *fogo*. Quatro minutos e onze segundos. O céu ficou branco três vezes. O chão bateu de leste. Nove toneladas de tungstênio a doze mil quilômetros por hora, três vezes, num ponto do oceano onde eu sabia que tinha um cofre. Eu não sabia que tinha um homem.
 
 ---
 
@@ -113,7 +113,7 @@ Fiquei no galpão depois que os outros voltaram ao trabalho. Sentei no cascalho 
 
 — Eu também. — Do jeito que se confere um número. — Não pelo homem. Pelo desperdício. Ficamos ali. E aí ela falou mais uma coisa, e foi a única vez em que a voz dela saiu com alguma coisa dentro.
 
-— Nós dois estivemos debaixo d'água ao mesmo tempo, sabia? Eu na Arca Zero, ele em Ponto Zero. Cento e vinte quilômetros de distância. Ele acordado, esperando uma cidade que não vinha. Eu acordada dentro do vidro, esperando duas pessoas que conseguissem concordar em girar uma chave. Ela apertou a capa do livro.
+- Nós dois estivemos debaixo d'água ao mesmo tempo, sabia? Eu na Arca Zero, ele em Ponto Zero. Duzentos quilômetros de distância. Ele acordado, esperando uma cidade que não vinha. Eu acordada dentro do vidro, esperando duas pessoas que conseguissem concordar em girar uma chave. Ela apertou a capa do livro.
 
 — Ele esperou noventa e seis dias e não veio ninguém. Eu esperei meses e vieram vocês.
 
@@ -125,11 +125,11 @@ Antes de rodar o caderno, a Elena levou o gravador de bobina até a mesa e sento
 
 — Eu já li.
 
-— A senhora leu para quatro pessoas. A fita não cansa e não corrige. — Ela encaixou um carretel virgem da gráfica; os registros originais da caixa ficaram separados e identificados. — Esta será a matriz da nossa leitura. Se as doze mil cópias sumirem, essa bobina continua existindo. Levou três horas e quarenta minutos. A doutora leu o livro inteiro sem parar para café, e quando o carretel acabou ela esticou a mão sem pedir nada, e a Elena pôs outro no cabeçote. No fim, a Elena escreveu na etiqueta com caneta de bico: **LEITURA INTEGRAL — E. VANCE**. Embrulhou a bobina em papel pardo, do jeito que se embrulha coisa de farmácia, e guardou no bolso interno da jaqueta.
+— A senhora leu para quatro pessoas. A fita não cansa e não corrige. — Ela encaixou um carretel virgem da gráfica; os registros originais da caixa ficaram separados e identificados. — Esta será a matriz da nossa leitura. Se as doze mil cópias sumirem, essa bobina continua existindo. Levou três horas e quarenta minutos. A doutora leu o livro inteiro sem parar para café, e quando o carretel acabou ela esticou a mão sem pedir nada, e a Elena pôs outro no cabeçote. No fim, a Elena escreveu na etiqueta com caneta de bico: **LEITURA INTEGRAL — E. VANCE**. Embrulhou os carretéis em papel pardo, identificou a ordem e entregou o conjunto à equipe para guardar com as outras cópias.
 
 — Devia ficar no cofre — falei.
 
-— Cofre é o primeiro lugar que eles abrem, Gabriel. A doutora ficou olhando o bolso onde a bobina sumiu.
+— Cofre é o primeiro lugar que eles abrem, Gabriel. A doutora ficou olhando os carretéis nas mãos da equipe.
 
 — A senhora não vai perguntar para quê? — perguntei.
 

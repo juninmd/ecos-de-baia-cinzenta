@@ -1,0 +1,9 @@
+# Capas reprovadas pela medição de `scripts/verificar_capas.py`.
+# O agy pode sobrescrever estes arquivos; os demais blocos são só para capa ausente.
+32
+49
+70
+77
+117
+122
+170

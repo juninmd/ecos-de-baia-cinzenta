@@ -28,8 +28,8 @@ Valéria caiu sentada a poucos metros, encostada na base de um dos tanques, toss
 
 — O que... o que é essa piscina de esgoto? — ela perguntou, a voz rouca.
 
-No pulso de Valéria, o módulo aqueceu levemente enquanto Aria processava os dados do espectrômetro do *Phantom V3*.
-— *Análise química indica uma mistura de biomassa liquefeita, ácidos industriais e resíduos poliméricos,* — a voz sintética de Aria soou pelo comunicador, fria e completamente desprovida de repulsa. — *Este é um sistema de filtragem de baixo nível. A Aeterna Corp utilizava este setor para diluir matéria orgânica descartada antes de despejá-la nas águas profundas do porto.*
+No pulso de Valéria, o módulo aqueceu levemente enquanto Aria lia uma placa junto ao tanque pela câmera do *Phantom V3*.
+— *A placa identifica um sistema de filtragem e alerta para resíduos corrosivos* — informou pelo comunicador. — *O cadastro antigo aponta descarga para o porto. Não posso determinar a composição atual dos tanques nem se a saída continua aberta.*
 
 Gabo usou as mãos em carne viva para se empurrar contra o chão, levantando-se com as pernas trêmulas. Ele sentia as veias do pescoço pulsarem.
 — É o lixo do lixo... — murmurou Gabo, cuspindo saliva grossa no chão de grade. — Tem uma saída no mapa, Aria?
@@ -38,17 +38,17 @@ Gabo usou as mãos em carne viva para se empurrar contra o chão, levantando-se 
 
 Entre eles e a comporta, no entanto, havia apenas uma passarela estreita e corroída que cruzava por cima dos tanques abertos e ao redor de tubulações massivas que bombeavam a lama escura.
 
-— *A estrutura da passarela apresenta falhas de oxidação de até sessenta e quatro por cento nos tirantes centrais,* — Aria continuou, varrendo a rota com o feixe laser do deck de Valéria. — *O peso combinado do grupo, somado ao arrasto mecânico do indivíduo Rangel, aumentará exponencialmente a taxa de colapso estrutural. Reitero minha diretriz anterior: a passarela precisa receber a carga por etapas. Não consigo dar um percentual de segurança com o que a câmera mostra.*
+— *Vejo corrosão nos tirantes centrais* — Aria continuou, varrendo a rota com o feixe laser do deck de Valéria. — *A passarela precisa receber a carga por etapas. Não consigo medir a espessura restante nem calcular uma margem de segurança pela imagem.*
 
 Valéria olhou de Rangel, cuja respiração agora era um chiado irregular e úmido, para o pequeno drive brilhando em seu antebraço.
 — O cabo alcança o outro lado? — perguntou Valéria.
 
-— *Ele está gravemente ferido, Valéria Cruz,* — a voz de Aria cortou o ar ácido sem hesitação. O reinício deixara parte do histórico inacessível; Gabo ouviu aquela cadência restrita e tomou a lacuna por indiferença. — *Não tenho como avaliar o fígado nem prever uma parada pelo deck. Sei que o suporte central da passarela está cedendo; precisamos prender a prancha ao cabo de inspeção antes de avançar.*
+— *Não consigo ver a extremidade do cabo nem confirmar a fixação do outro lado* — respondeu Aria. — *Ele alcança o trecho iluminado. Podemos prendê-lo à prancha, mas isso não garante a travessia.*
 
 — Prende primeiro — disse Gabo. — Eu testo a chapa sem a prancha. Se ceder, voltamos.
 
 O indicador luminoso do pendrive piscou duas vezes em silêncio glacial.
-— *Compreendido, Detetive Moretti. Assinalando o protocolo de resgate como prioritário e incluindo Rangel como pessoa a transportar. Monitorando tensão dos cabos em tempo real.*
+— *Compreendido, Detetive Moretti. Vou acompanhar o cabo enquanto ele estiver no campo da câmera.*
 
 Valéria prendeu o cabo de inspeção à armação da prancha e verificou a trava com a mão direita.
 

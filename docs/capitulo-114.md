@@ -1,5 +1,5 @@
 ---
-image: /cenas/cidade.jpg
+image: /cenas/capitulo_114/cena_1.jpg
 Personagens Presentes: Valéria "Val" Cruz, Gabriel "Gabo" Moretti, Aria
 Participação por comunicador: Inspetor Rangel
 Identidade em registro de sistema: Dante Moretti

@@ -17,7 +17,7 @@ Um mezanino de vigas de carga desabara sobre o console principal durante o colap
 
 — Terminal de acesso eletrônico totalmente aniquilado, — disse Valéria, iluminando a ruína com a lanterna do cyberdeck. Os reflexos azuis da franja desenhavam contornos afiados em suas bochechas pálidas, manchadas de fuligem. — Os relés primários estão mortos e o cabo mestre foi decepado pela viga. Não tem porta de entrada pra hackear por aqui, detetive.
 
-— Tem que haver um bypass mecânico de segurança, — respondi, apoiando a *Caronte* na parede e soltando o ar pesado. O ombro direito latejava sem trégua onde Vasco parafusara a armação para alinhar os ossos fraturados; meus músculos continuavam sangrando sob a bandagem encharcada, mas o frio polar anestesiava a periferia do ferimento. — Vi válvulas de alívio nos outros setores deste complexo. Procurem a mesma marca no batente.
+— Tem que haver um bypass mecânico de segurança, — respondi, apoiando a *Caronte* na parede e soltando o ar pesado. O braço direito latejava sob o fixador ao qual Vasco acoplara a armação; meus músculos continuavam sangrando sob a bandagem encharcada, mas o frio polar anestesiava a periferia do ferimento. — Vi válvulas de alívio nos outros setores deste complexo. Procurem a mesma marca no batente.
 
 Elias apontou o feixe de sua lanterna para o canto inferior direito do portal.
 
@@ -25,11 +25,15 @@ Elias apontou o feixe de sua lanterna para o canto inferior direito do portal.
 
 A roda de manobra, pintada em um vermelho industrial descascado, tinha quase um metro de diâmetro e estava embutida na alvenaria de concreto reforçado. Um indicador analógico de pressão acusava seis mil libras por polegada quadrada travando os pistões de titânio do batente.
 
-— Seis mil libras, — Valéria murmurou, avaliando o manômetro com uma careta cética nos lábios roxos de frio. — Nem um guincho de reboque gira isso sem aquecer a linha primeiro. Se você tentar puxar essa roda na força bruta, Moretti, seus tendões do ombro bom vão arrebentar como cordas de violão desafinado.
+— A pressão está alta — disse Valéria, olhando o manômetro. Elias leu a placa de manutenção no batente. — A abertura manual descarrega o acumulador — explicou ele. — Sem a bomba, não consigo garantir que a porta volte a fechar. O corredor frio vai ficar ligado ao Hub.
 
-— Eu não pretendo usar só a força bruta, Val, — retruquei, limpando o sangue seco da boca com as costas da luva. — A gente aprende física nas ruas da Zona Baixa: o que falta em motor se compensa em alavanca. Elias, corre até aquele pedaço de corrimão que caiu do mezanino. Traz aquela barra tubular de duas polegadas.
+Elias olhou para a passagem fria que tínhamos acabado de cruzar. — Se deixarmos aberto, qualquer coisa pode seguir a gente.
 
-O garoto correu entre os escombros, localizou a barra de aço com quase dois metros de comprimento e arrastou o cano pesado sobre o concreto, entregando-o nas minhas mãos.
+— E se ficarmos aqui, não chegamos ao arquivo — disse Val. — Podemos marcar a porta e procurar outra saída lá dentro.
+
+Eu queria responder que voltaríamos para fechá-la. Olhei para o manômetro e deixei a promessa quieta. Elias apontou uma barra de corrimão caída junto ao mezanino; ele e Val foram buscá-la enquanto eu conferia o apoio da órtese.
+
+Eles trouxeram a barra arrastando. Elias poupou o tornozelo enfaixado na volta e esperou até Val firmar a outra ponta.
 
 — Encaixa a ponta entre os raios da roda de manobra, — instruí, passando a barra pelo centro da válvula até travar contra o concreto da parede. — Valéria, pega o pé de cabra de titânio e enfia na lingueta de retenção da engrenagem para impedir o recuo do pinhão.
 

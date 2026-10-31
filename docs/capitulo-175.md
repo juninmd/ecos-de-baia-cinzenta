@@ -1,4 +1,5 @@
 ---
+image: /cenas/capitulo_175/cena_1.jpg
 Título: O Som das Engrenagens Mortas
 Data In-Game: Indeterminada (Pós-Colapso da Aeterna)
 Localização: Clínica Clandestina de Vasco, Distrito 4

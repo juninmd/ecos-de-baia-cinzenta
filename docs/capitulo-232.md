@@ -39,7 +39,7 @@ Eu fiquei quieto.
 
 — Fala.
 
-— Escreve. — Eu olhei para ela. — Isso aqui. Amanhã. Com o meu nome, com a data, com a faca de catorze anos atrás, com Éder rendido na Torre e com tudo o que fiz agora. Põe na tiragem junto com o Krell. Ela levou um tempo.
+— Escreve. — Eu olhei para ela. — O que eu fiz com a faca de catorze anos atrás, com Éder rendido na Avenida da Indústria, e o que eu acabei de dizer. Se eu matar o Braga, escreve isso também. Põe meu nome e a data na tiragem sobre o Krell. Ela levou um tempo.
 
 — Você tem noção do que isso faz com você?
 

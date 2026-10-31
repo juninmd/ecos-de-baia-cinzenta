@@ -13,7 +13,7 @@ description: "O controlador do vagão recebe comandos de Aria; o motor usa a bat
 
 O silêncio após a voz metálica do Taxidermista era pesado, quebrado pelo gotejar sobre a caixa do kit e pela respiração de Gabo na prancha de inspeção. Gabo respirava em espasmos curtos e controlados, seus olhos fixos na massa enegrecida em suas extremidades. Cada batimento cardíaco enviava uma onda de dor aguda, um choque elétrico branco e puro através de seus braços até a nuca.
 
-Ele não se importava. A dor era um farol na névoa. Era sólida, real, irrefutável. Ela queimava a memória do cheiro de fumaça barata, banindo o piche fantasma de seus pulmões. Ele estava ali. No agora. Vivo por pouco, mutilado, mas no controle.
+Ele tentou usar a dor como antes, mas a fumaça lembrada continuou. Val prendeu a faixa que se soltava e pediu que ele apoiasse o peso do lado esquerdo. Gabo acompanhou o movimento das mãos dela até conseguir responder.
 
 — Val... — a voz de Gabo raspava como lixa grossa. Ele não conseguia usar as mãos para se erguer, então apoiou o lado esquerdo e manteve o braço direito preso à tala. O exoesqueleto rangeu, protestando contra o movimento não natural. — O trem. O disjuntor.
 
@@ -65,6 +65,4 @@ Gabo arrastou as costas contra a parede lateral do vagão e firmou-se encostado 
 
 Valéria ergueu os olhos pesados e cibernéticos, cheios de uma tristeza cinza profunda, olhando para o pequeno cilindro de titânio espetado no console à frente, cujo LED azul-gelo regia a subida. Ela não discutiu. Seus olhos se fecharam por um instante enquanto o monorail os arrastava contra a gravidade de Baía Cinzenta.
 
-O escuro do túnel do Subnível 3.5 passava voando pela única janela do vagão em linhas embaçadas de poeira e estruturas em ruínas. A cada baque sobre a junção dos trilhos, a dor latejava no braço quebrado de Gabo, e a cada pulsação, sua mente se agarrava um pouco mais à clareza insana do momento. Não havia fumaça. Havia apenas aço, ferrugem, dor crua e a voz impessoal e perfeitamente lógica saindo do painel do trem em direção à curadoria prometida do Taxidermista.
-
-A verdadeira caçada ainda não havia começado. Gabo apertou a mandíbula até seus dentes estalarem, preparando o coração esfolado para o que viria no fim da linha.
+O escuro do túnel do Subnível 3.5 passava voando pela única janela do vagão em linhas embaçadas de poeira e estruturas em ruínas. A cada baque sobre a junção dos trilhos, a dor latejava no braço quebrado de Gabo, e a cada pulsação sua mente se agarrava um pouco mais à clareza insana do momento. Não havia fumaça. Havia apenas aço, ferrugem, dor crua e a voz impessoal e perfeitamente lógica saindo do painel do trem em direção à curadoria prometida do Taxidermista.

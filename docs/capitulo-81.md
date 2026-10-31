@@ -4,12 +4,12 @@ title: "Capítulo 81: Sangue e Óleo"
 description: "Vilar sofre esmagamento e queimadura no braço esquerdo durante o resgate. A retirada e a descontaminação não apagam a lesão que levará à amputação."
 image: /capitulo_81.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Capitão Jonas Vilar, Dra. Nise, técnico Barros
-Localização: "Corredor de acesso, subsolo da Torre Aeterna — 18h05"
+Localização: "Corredor de acesso, subsolo da Torre Aeterna - 18h20"
 ---
 
 # Capítulo 81: Sangue e Óleo
 
-Corredor de acesso, subsolo da Torre Aeterna — 18h05.
+Corredor de acesso, subsolo da Torre Aeterna - 18h20.
 O alarme de purga não é uma sirene comum.
 
 É um tom pulsado de dois quilohertz, escolhido em laboratório por ser a frequência que mais incomoda o ouvido humano, porque o objetivo do aparelho não é avisar: é **expulsar**. Ele vibrava nos dentes de Gabo e no metal das órteses dele ao mesmo tempo.
@@ -137,6 +137,6 @@ Foi uma dor curta e funda, do tipo que ele já conhecia e classificava como fant
 
 Vilar ficou branco.
 
-— Quantos prédios?
+- Quantos prédios?
 
-— Não sei. A manutenção vai ter de conferir as plantas e colher amostras. — Gabo começou a andar pelo corredor. — A evolução não pede licença, Capitão. Ela só usa a tubulação que já estava instalada.
+Ninguém respondeu. Do lado de fora, o vento empurrou a fumaça contra a janela e, por um instante, o corredor inteiro cheirou a carne queimada.

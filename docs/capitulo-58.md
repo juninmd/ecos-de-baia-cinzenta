@@ -22,7 +22,7 @@ O comunicador holográfico zumbiu. Vilar olhou o identificador e ficou olhando p
 
 — Aceitar.
 
-A imagem de Roberto Miranda subiu da base do projetor e se estabilizou flutuando sobre a papelada. Vestia o terno marrom, amarrotado nos ombros; o rosto encovado e os olhos avermelhados resistiam ao filtro da chamada. A prótese direita era nova e bruta, instalada depois da perda no cassino. A luz ressaltava o aço, não apagava o ferimento. Atrás dele havia janela. Janela com **vista**, e a vista tinha luz elétrica.
+A imagem de Roberto Miranda subiu da base do projetor e se estabilizou flutuando sobre a papelada. Vestia o terno marrom, amarrotado nos ombros; o rosto encovado e os olhos avermelhados resistiam ao filtro da chamada. A prótese direita era nova e bruta, instalada depois da perda no cassino. A luz ressaltava o aço, não apagava o ferimento. Silas o tinha soltado duas semanas depois, com a prótese e uma dívida; Miranda não gostava de lembrar o preço. Atrás dele havia janela. Janela com **vista**, e a vista tinha luz elétrica.
 
 — Boa noite, Jonas. Ou devo dizer Capitão Vilar?
 

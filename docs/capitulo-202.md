@@ -13,17 +13,17 @@ Caí de costas contra a alvenaria gelada. Meus joelhos cederam, e escorreguei at
 
 Elias desabou a dois passos de mim, encolhendo os joelhos contra o peito. Seus dentes batiam com tanta força que o som parecia um relé defeituoso.
 
-— A gente... a gente quase virou comida de engrenagem... — balbuciou ele, puxando o ar em golfadas asmáticas. — Eu vi as garras daquela coisa. Aquilo não era um drone. Tinha tendões... tendões humanos enrolados nos motores.
+— A gente... a gente quase virou comida de engrenagem... — balbuciou ele, puxando o ar em golfadas asmáticas. — Eu vi as garras daquela coisa. Aquilo não era um drone. Tinha fibras parecendo tendões enroladas nos motores.
 
 — Bem-vindo ao cardápio da Baía Cinzenta, gênio, — retrucou Valéria, ajoelhando-se ao meu lado sem cerimônia. Os reflexos azuis da franja holográfica dançavam em sua testa suada, iluminando os olhos prateados que avaliavam o meu braço arruinado. — Deixa eu ver essa monstruosidade, Moretti. Se você estourou a fiação do servomotor, a gente tá ferrado.
 
-— O pistão tá inteiro, — resmunguei, cerrando os dentes enquanto ela puxava a manga rasgada da minha jaqueta. — Só puxou o tecido mole na emenda da chapa.
+— O pistão ainda responde — resmunguei, enquanto ela afastava a manga rasgada. — Não sei o que aconteceu por baixo da chapa.
 
-— "Só puxou", diz o homem que tá vazando sangue igual cano furado de hidrante, — ela rebateu com um estalo de língua irritado, tirando uma lata amassada de selante cirúrgico e um rolo de atadura de fibra sintética do bolso tático. — Você tem a sutileza de um trator desgovernado. Se quebrar esse braço de ferro agora, quem vai abrir as portas estanques do Setor Seis? O Elias? Ele mal consegue segurar a própria bexiga.
+— "Só puxou", diz o homem que tá vazando sangue igual cano furado de hidrante, — ela rebateu com um estalo de língua irritado, tirando uma lata amassada de selante cirúrgico e um rolo de atadura de fibra sintética do bolso tático. — Você tem a sutileza de um trator desgovernado. Se a armação parar, vamos ter que achar outra forma de abrir as portas. Elias, seu tornozelo aguentou a escada?
 
-— Eu ouvi isso... — murmurou Elias, a voz sumindo na escuridão.
+— Aguentou porque eu parei quando precisava — disse Elias. Ele apoiou a bota enfaixada e esperou a dor baixar antes de se levantar.
 
-— Era pra ouvir mesmo, — Valéria disparou, sem tirar os olhos da minha ferida. Ela limpou a borda e aplicou um curativo do kit sobre a ferida. O composto químico queimou como ácido de bateria, e precisei fincar as unhas da mão de sucata no chão para não soltar um grito que alertasse qualquer coisa viva no setor. — Aguenta firme, detetive. Isso cobre a ferida. Não torna o lodo que entrou nela menos sujo.
+— Continua avisando se piorar — disse Valéria. Ela limpou a borda da minha ferida e aplicou um curativo do kit. A ardência me fez apertar a mão esquerda contra a perna para não gritar. — Aguenta firme, detetive. Isso cobre a ferida. Não torna o lodo que entrou nela menos sujo.
 
 O ar naquele corredor era seco, com um cheiro pungente de concreto antigo, ferrugem seca e ozônio aprisionado há décadas. O silêncio que se instalou era pesado demais, quase sólido. Depois de horas sob o bombardeio contínuo de ruídos de esgoto, água ácida e gritos biomecânicos, a ausência de som não trazia paz — trazia uma paranoia corrosiva que se infiltrava pelas têmporas.
 

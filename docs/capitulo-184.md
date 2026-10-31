@@ -56,7 +56,7 @@ Val fotografou o rosto da mulher, o implante e sua posição antes de tocarmos n
 Cravei os dedos grossos de ferro ao redor do cilindro blindado. O metal do componente estava gelado, vibrando com uma microtensão que arrepiava os pelos do meu braço. Travei os motores da armação e puxei em linha reta.
 
 CRACK.
-O som de metal e cartilagem ressecada se partindo ecoou feio no beco deserto. O cilindro se soltou com um estalo pneumático, liberando um fio de fumaça cinzenta e inodora das conexões rompidas. A dor nos pregos neurais da minha escápula mordeu fundo com o solavanco, mas segurei o núcleo intacto na palma da mão mecânica.
+O som de metal e cartilagem ressecada se partindo ecoou feio no beco deserto. O cilindro se soltou com um estalo pneumático, liberando um fio de fumaça cinzenta e inodora das conexões rompidas. O tranco atravessou o arnês e puxou o fixador sob o curativo, mas segurei o núcleo intacto na palma da mão mecânica.
 
 — Perfeito, brutamontes — Valéria respirou aliviada, estendendo um conector com proteção isolante. — Encaixa o pino mestre aqui na porta auxiliar do deck.
 

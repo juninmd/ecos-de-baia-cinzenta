@@ -20,6 +20,8 @@ Dra. Nise apareceu no final do corredor. Ela parecia ter envelhecido dez anos de
 
 — Obrigada por virem — disse ela, sem preâmbulos. — Tenho quatro corpos no necrotério que não deveriam estar lá.
 
+Val lhe entregou a cópia local e a anotação do beco. Nise guardou as duas num envelope de papel, junto da própria requisição de exame. Ainda não tinha um laudo do homem encontrado atrás da estação.
+
 Ela os guiou até uma sala de observação. Através do vidro, podiam ver a UTI. Estava lotada, mas silenciosa. O zumbido dos respiradores era hipnótico.
 
 — O que houve? — perguntou Gabo.
@@ -42,13 +44,13 @@ Ela os guiou até uma sala de observação. Através do vidro, podiam ver a UTI.
 
 — Eu sei. É por isso que estou pedindo. — Gabo apontou o queixo para o vidro da UTI. — Se você escrever "suspeita" nesse sistema, o serviço da Entidade recebe primeiro. Eu não sei quem mais pode ler ou alterar o que entra lá.
 
-— E se eu não escrever?
+— E as famílias? Vão receber o quê enquanto você procura quem mexeu no sistema?
 
-— Aí são quatro mortes naturais. Sem inquérito, sem perícia, sem indenização. Quatro famílias enterram com o papel errado e nunca vão saber por quê.
+— Eu não quero que recebam um papel dizendo morte natural antes da perícia. Me dá tempo para conservar os registros, e eu explico a elas o que estamos fazendo.
 
 Nise ficou calada tempo demais para o gosto dele.
 
-— Eu passei trinta anos lutando para que a morte tivesse nome — disse ela. — Você está me pedindo para mentir no atestado.
+— Eu passei trinta anos lutando para que a morte tivesse nome — disse ela. — Se eu esperar pelo seu prazo, quem impede que emitam os quatro atestados errados?
 
 — Estou pedindo seis horas.
 
@@ -60,19 +62,23 @@ Val conectou-se ao terminal da sala. Usou o teclado e o cabo de serviço; a vis�
 
 — Turno da noite. Líder da equipe: Lucas Viana. Ficha limpa. Tão limpa que brilha. Nenhuma infração, nem multa de trânsito.
 
+Ela abriu a folha de acesso aos quartos. A credencial de Lucas aparecia nas quatro passagens anteriores às mortes; outras pessoas também tinham entrado. Val copiou a lista inteira, com horários e lacunas, para a perícia.
+
 — Ninguém é tão santo assim — resmungou Gabo.
 
 — Tem mais — continuou Val. — Há uma lacuna nos logs das câmeras de segurança. Frações de segundo. Loops de imagem imperceptíveis para um humano, mas o monitoramento da Entidade deveria ter sinalizado.
 
 — Alguém está editando a realidade em tempo real? — perguntou Nise, horrorizada.
 
-— Ainda não sabemos — disse Gabo, olhando para o corredor onde um técnico de enfermagem empurrava um carrinho de medicamentos. — Conserva os registros. Também quero saber quem teve acesso físico aos quartos.
+— Ainda não sabemos — disse Gabo, olhando para o corredor onde um técnico de enfermagem empurrava um carrinho de medicamentos. — Conserva os registros. Quero comparar as entradas com a escala e as prescrições.
 
-Gabo saiu da sala, seguido por Val. Eles mantiveram distância, observando o técnico. Ele parou na porta do quarto 304. Olhou para os lados, verificou o relógio digital na parede, e entrou.
+Nise conferiu a escala e indicou Lucas no corredor, empurrando um carrinho de medicamentos. Gabo e Val mantiveram distância. Ele parou na porta do quarto 304, verificou o relógio e entrou.
 
 — Val, conserva as imagens numa gravação local — sussurrou Gabo.
 
 — Sem apagar o original — respondeu ela. — Se você entrar, isso também fica registrado.
+
+Nise consultou a prescrição impressa do quarto. A próxima medicação endovenosa estava marcada para mais tarde; ligou para o posto para confirmar se houvera mudança. A resposta demorou. Gabo já avançava para a porta.
 
 Ele entrou no quarto sem fazer barulho. O 304 cheirava a sabão de glicerina e a urina velha escondida embaixo do sabão. Na mesinha, um rádio de pilha, um copo com água pela metade e uma foto de casamento com a moldura rachada no canto. O soro pingava no ritmo de um homem sem pressa. No chão, os sapatos do técnico eram de sola macia: sem chip, sem LED, sem nada que a Aria pudesse escutar.
 
@@ -98,6 +104,8 @@ Val entrou correndo, arma em punho.
 
 — Nise, traga a segurança! — gritou ela.
 
+O paciente acordou com o disparo. Nise chamou uma enfermeira para verificar a linha de soro e acompanhar o homem enquanto a equipe entrava; ele não tinha visto o que havia na seringa.
+
 O técnico caiu de joelhos, segurando o ombro sangrando. Mas ele ainda sorria.
 
 — Vocês não entendem — sussurrou ele, olhando para Gabo com olhos vidrados. — A sombra está crescendo. O meio-dia foi apenas um aviso. Nós somos os anjos que preparam o caminho.
@@ -114,7 +122,7 @@ Gabo soltou o cadáver, limpando a espuma da mão na roupa do morto.
 
 — Anjos da Morte — murmurou Val, olhando para a seringa quebrada.
 
-— Ele disse a mesma coisa que estava escrito na parede do beco — disse Gabo, sombrio. — Sobre o silêncio.
+— Ele falou em silêncio — disse Gabo. — Como a frase da parede. Quero a gravação ao lado da foto, não uma conclusão de que foram as mesmas pessoas.
 
 Nise recolheu uma amostra do líquido do chão com um swab.
 

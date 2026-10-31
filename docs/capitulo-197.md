@@ -19,8 +19,6 @@ Valéria ia logo atrás dele, o cyberdeck seguro no peito e a pistola em punho, 
 
 A dor no meu braço fraturado latejava em sintonia com os meus batimentos cardíacos, mas o curativo compressivo que Valéria improvisara segurava a hemorragia. Eu arrastava a bota mecânica pelo lodo, usando a parede como guia tátil, focado no peso real de vinte quilos de ferro e na empunhadura áspera de *Caronte* sob o casaco.
 
-Lembrei de quantas travessias semelhantes enfrentei desde o Dilúvio na Zona Baixa; a escuridão dos túneis de Baía Cinzenta sempre cobrava pedágio em ossos quebrados e sangue derramado.
-
 Cinquenta metros adiante, a passarela de concreto estancou abruptamente.
 
 O piso desabara numa extensão de dez metros, engolido por uma cratera onde um canal de escoamento profundo borbulhava um lodo negro e viscoso. O único caminho sobre o abismo era uma ponte improvisada formada por três canos industriais de aço de oito polegadas e uma grade de manutenção enferrujada amarrada com cabos de aço.
@@ -41,7 +39,7 @@ Dei um passo pesado na direção dele, a garra de ferro da armação erguendo-se
 
 Elias encarou o cano frio de *Caronte* que despontava do meu casaco e depois olhou para os olhos prateados de Valéria, que não piscavam. Ele engoliu o choro, assentiu com a cabeça e respirou fundo.
 
-— Me dá a cinta de rapel — ele pediu com a voz trêmula.
+— Me dá a minha cinta de manutenção — ele pediu com a voz trêmula.
 
 Valéria engatou a ponta da fita no mosquetão do cinto dele:
 
@@ -59,7 +57,7 @@ Valéria subiu na passarela, guiando-se pela fita com a mão direita. A esquerda
 
 — Minha vez de segurar a linha! Vem, Gabo! Mas pisa leve, seu brutamontes! Esse tubo não foi desenhado pra carregar vinte quilos de ferro industrial!
 
-Respirei fundo, sentindo o ar frio queimar os pulmões. Subi no primeiro cano.
+Val prendeu a ponta livre da cinta ao meu arnês e conferiu o fecho; Elias manteve a outra extremidade no ponto de ancoragem. Respirei fundo, sentindo o ar frio queimar os pulmões. Subi no primeiro cano.
 
 O impacto da minha bota mecânica fez a estrutura inteira vibrar com um gemido agudo de metal fadigado. As gavinhas do Jardim se contraíram quando a estrutura vibrou, brilhando com um tom azul mais intenso e contraindo-se sobre o aço.
 

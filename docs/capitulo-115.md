@@ -1,5 +1,5 @@
 ---
-image: /cenas/cidade.jpg
+image: /cenas/capitulo_115/cena_1.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Aria, Valéria "Val" Cruz
 Participação por transmissão: O Taxidermista
 Localização: "Usina Geotérmica Prometeu — Subnível 4"

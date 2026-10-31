@@ -5,7 +5,7 @@ Localização: "Túneis da Fundação → acesso de carga da Torre Aeterna"
 ---
 # Capítulo 24: A Galeria dos Deformados
 
-O cheiro não era só de esgoto. Havia formol e óleo quente na água, um fundo doce que Gabo sentia no céu da boca quando precisava respirar pela boca.
+Havia formol e óleo quente na água, um fundo doce que Gabo sentia no céu da boca quando precisava respirar pela boca.
 
 Elena puxava o carrinho. O estojo do Leviatã batia nas juntas do piso. Tinham deixado o Cobalt numa entrada de manutenção, fora da rampa; ninguém prometera encontrá-lo inteiro na volta. Gabo carregava a lanterna junto do peito, poupando a mão coberta. A tipoia raspava na parede cada vez que o túnel estreitava.
 
@@ -41,7 +41,7 @@ Valéria segurou o tecido do casaco dele.
 
 O homem trazia um pano e uma chave de fenda com a naturalidade de quem fora interrompido num conserto. O avental de couro estava manchado; lentes de joalheiro ampliavam os olhos cinzentos. O cabelo grisalho se juntava num rabo oleoso. O cheiro de formol chegara antes.
 
-O Taxidermista. Gabo conhecia os instrumentos dos relatórios e das fotografias das vítimas. Agora tinha o homem diante deles, num lugar de que Miranda lhes vendera o acesso.
+Gabo lembrou o apelido dos relatórios e as fotografias dos mortos com lentes. As armações e o homem que as controlava davam motivo para suspeitar; não demonstravam quem montara os corpos da Ferrugem e do galpão.
 
 — Gabriel Moretti. A pequena Valéria. E a senhora da imprensa.
 

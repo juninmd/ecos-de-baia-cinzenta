@@ -92,6 +92,4 @@ Ele olhou para a escuridão que se estendia à frente. Túneis ainda mais antigo
 
 — Estamos no fundo do poço — disse Gabo, sentindo o latejar reconfortante das queimaduras nas mãos. — A única saída é cavar.
 
-— Negativo — corrigiu Aria pelo comunicador, o pendrive no pulso de Valéria ainda quente do forno. — A única saída é subir. E agora temos a assinatura da rede dele.
-
-Gabo assentiu. A dor nas mãos era uma âncora de pura realidade, e o fogo real da subida mal havia começado.
+- Negativo - corrigiu Aria pelo comunicador, o pendrive no pulso de Valéria ainda quente do forno. - A única saída é subir. E agora temos a assinatura da rede dele.

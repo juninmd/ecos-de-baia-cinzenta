@@ -7,11 +7,13 @@ Personagens Presentes: Gabo, Valéria, Elias, Dra. Elara Vance
 
 # Capítulo 236: A Terra Vermelha
 
+Voltamos ao galpão depois que Elias e dois trabalhadores examinaram a drenagem sob o prédio. Não acharam fogo nem sinais de descarga naquele trecho; o restante da linha ainda precisava de inspeção.
+
 A terra da Velha Baía não é preta como a do interior. É vermelha, pesada de minério de ferro e sal, daquele tipo que gruda na pá e pesa o dobro a cada golpe.
 
 Enterramos Elena ao lado do monte de pedras de Duarte, atrás do galpão de impressão, onde a encosta de barro desce suave até encontrar as poças de óleo da praia morta. Dois montes de terra fresca separados por quatro metros de capim cinzento. Duas pessoas que pagaram a conta da mesma tiragem.
 
-Elias cavou a maior parte.
+Elias cavou a maior parte, parando para aliviar o tornozelo antes de recomeçar.
 
 Eu tentei ajudar com a pá curta, usando apenas o braço esquerdo enquanto o ombro direito ardia na tipoia a cada impulso do quadril, mas o joelho emperrado pela órtese falseava no barro mole. No sexto golpe, a pá escapou dos meus dedos e caiu na vala com um estalo oco. O gosto amargo de bile e ferrugem subiu à minha garganta.
 
@@ -73,11 +75,11 @@ Elias limpou o suor da testa com o antebraço sujo de graxa.
 
 — Avisa a eles para carregarem até o teto — falei. — E que a Clara pegue a carga do Setor 9. Ela sabe com quem falar sem assustar ninguém.
 
-Elias assentiu e saiu correndo para o rádio.
+Elias tirou do bolso o mapa protegido em plástico. No verso, a localização dos três trabalhadores da galeria ainda estava legível. Copiou a localização para outra folha e a entregou ao operador do rádio, para que pedisse ao pessoal do Setor 4 uma verificação quando houvesse acesso; guardou o mapa. Não sabíamos os nomes nem se uma equipe conseguiria chegar ao nicho. Depois ele foi até o rádio, poupando o tornozelo.
 
 Virei as costas para a cova.
 
-O joelho doeu quando forcei a perna direita na subida da rampa, e a pontada no ombro quebrado me lembrou que a *Caronte* estava guardada com as coisas de Elena. Senti falta da voz de Aria, da maneira como discordava antes de me ajudar a enxergar a próxima esquina. Eu era um homem manco, com um braço preso na tipóia e gente demais para lembrar.
+O joelho doeu quando forcei a perna direita na subida da rampa, e a pontada no braço fraturado me lembrou que a *Caronte* estava guardada com as coisas de Elena. Senti falta da voz de Aria, da maneira como discordava antes de me ajudar a enxergar a próxima esquina. Eu era um homem manco, com um braço preso na tipóia e gente demais para lembrar.
 
 A pasta ainda existia. Eu não precisava aceitar o lugar que ela tinha reservado para mim.
 
@@ -98,5 +100,7 @@ Valéria entrou depois de mim. Trazia a caixa com o disco que Elena escondera na
 — Eu também. Mas antes precisamos de alguém para examinar seu braço. A equipe do Setor 4 respondeu ao meu pedido; chega com os caminhões. — Ela colocou a caixa fora do alcance da tinta. — Eu vou ficar com os registros até a doutora poder conferir.
 
 Eu ia dizer que não havia tempo. Olhei a página outra vez, a letra borrada onde Elena tinha insistido numa distinção que eu queria pular. Assenti.
+
+Uma operadora da prensa parou ao meu lado com um bloco de anotações. Queria ouvir Val, os guardas e o abrigo do Setor 4 sobre Braga; depois ouviria a mim. Dei a ela o caderno dele e indiquei a caixa com a cinta e o registro da custódia. Ela anotou sem prometer o que publicaria.
 
 Do outro lado da mesa, o rádio chiou. Uma voz pediu a repetição do endereço onde podia encontrar os originais. Valéria pegou o microfone. Eu segurei o caderno aberto para ela ler.

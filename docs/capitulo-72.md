@@ -14,7 +14,7 @@ A gravidade mudando de endereço é uma sensação que o corpo humano não tem c
 
 Não é queda livre, que o ouvido interno reconhece e para a qual existe um medo pronto desde a savana. É outra coisa: é o chão continuar embaixo dos pés e ao mesmo tempo **apontar** para o lado. O olho diz que está tudo no lugar e o labirinto diz que não, e a discussão entre os dois se resolve com vômito.
 
-Val vomitou. Gabo também, sem parar de olhar em volta. Duzentos andares de estrutura gemiam ao mesmo tempo. Não era um som: eram milhares de sons pequenos — cada junta de dilatação, cada solda, cada trilho de elevador — reclamando em frequências diferentes e formando, juntos, uma nota grave e contínua que fazia cócega no esterno.
+Val vomitou. Gabo também, sem parar de olhar em volta. Cento e oitenta e dois andares de estrutura gemiam ao mesmo tempo. Não era um som: eram milhares de sons pequenos — cada junta de dilatação, cada solda, cada trilho de elevador — reclamando em frequências diferentes e formando, juntos, uma nota grave e contínua que fazia cócega no esterno.
 
 — **ARIA!**
 
@@ -66,7 +66,7 @@ Gabo abriu a boca e não teve o que dizer. Da escada de emergência já vinha o 
 
 — *Eu seguro a porta* — disse Kael.
 
-Gabo assentiu uma vez. Não agradeceu, porque naquele momento ele entendeu que agradecer seria transformar aquilo em favor, e aquilo não era favor. Era a primeira coisa que aquele homem escolhia sozinho em não se sabe quantos anos, e a escolha era dele, e o respeito devido era não estragar.
+Gabo assentiu uma vez. Queria perguntar por que Kael estava fazendo aquilo; queria perguntar também por Elena, pela perna e por todos os outros. A porta tremeu sob o primeiro impacto. Kael apoiou nela o ombro, e Gabo foi até Val.
 
 ---
 
@@ -94,7 +94,7 @@ Val parou de digitar por dois segundos.
 
 — Entendi.
 
-— O backup do teu pai está lá. Tudo o que sobrou do imprint original do Dante está naquela Arca. Se isso cair lá, não tem cópia em lugar nenhum. Nunca mais.
+— Os registros apontam uma cópia do teu pai naquela Arca. — Val manteve a mão sobre o teclado. — Se o impacto alcançar o cofre, podemos perder essa cópia. Não sei quantas outras existem, nem se a sessão com que falamos pode ser restaurada sem ela.
 
 Gabo olhou para o pendrive de titânio da Aria espetado no console, com o diagrama de luz branca girando acima dele. E não hesitou, e ele mesmo achou aquilo estranho, e ia pensar sobre isso durante anos.
 
@@ -142,7 +142,7 @@ Ele estava mentindo, e ela sabia, e teve a bondade de não insistir.
 
 A vitória durou dezenove segundos. A porta do Hub explodiu para dentro — não a de emergência, que o Santo estava segurando: a de serviço, do outro lado, que ninguém tinha lembrado de mapear.
 
-A onda de calor entrou primeiro. Roberto Miranda entrou depois, andando sem pressa, passando por cima do corpo desativado do Santo com a naturalidade de quem passa por cima de um cabo no chão. O terno dele estava seco.
+A onda de calor entrou primeiro. Roberto Miranda entrou depois, andando sem pressa. Do outro lado da sala, o Santo jazia imóvel junto à porta de emergência que escolhera defender. O terno de Miranda estava seco.
 
 Na mão direita — a mecânica, a nova, a polida — ele segurava um tubo curto e grosso com uma parabólica na ponta, que emitia um zumbido subindo de tom, do tipo que um flash antigo faz antes de disparar. Ele olhou os dois e sorriu.
 

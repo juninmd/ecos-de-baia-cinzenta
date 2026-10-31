@@ -86,8 +86,4 @@ Prenderam Rangel à prancha de transporte. As rodas cabiam na galeria de inspeç
 
 Eles saíram do "Fliperama" para a escuridão absoluta do túnel principal. Atrás deles, a porta do esconderijo se fechou, selando o pouco de segurança que tiveram.
 
-Gabo não olhou para trás. Ele marchou para a escuridão, puxando a prancha de Rangel, acompanhado pelo brilho fantasmagórico do LED do pendrive da Aria e pelos passos leves de Valéria. A sirene continuava a uivar lá fora, mas aqui embaixo, o único som era o da respiração deles e o gotejar eterno da cidade chorando sobre suas cabeças.
-
-A dor no peito de Gabo era constante. O colar. O zumbido fantasma da cidade. As duas fontes que ainda falhavam no fone.
-
-Ele usaria tudo isso. Ele transformaria cada grama de dor em combustível. Porque o dia estava apenas começando, e não prometia ser mais claro que a noite.
+Rangel parou de responder antes da segunda curva. Val segurou a cabeceira da prancha com as duas mãos e não olhou para trás. A sirene continuava lá fora, mas o túnel já tinha um som próprio: o gotejar da cidade sobre o teto, marcando o passo que eles não podiam perder.

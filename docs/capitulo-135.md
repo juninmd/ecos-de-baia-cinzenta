@@ -26,7 +26,7 @@ Valéria, que estava verificando o pulso de Rangel com dedos trêmulos, olhou pa
 
 O LED azul do pendrive pulsou uma única vez no escuro. A síntese de emergência deixava pouca inflexão nas palavras de Aria.
 
-— *Recomendação: otimização de recursos. O sujeito Rangel é peso morto e deve ser deixado para trás. Essa é a recomendação do plano de triagem de fábrica. Estou apresentando a origem porque o modelo veio antes do meu histórico, e o histórico está bloqueado.*
+— *O plano de triagem de fábrica recomenda deixar Rangel para trás e o classifica como peso morto. Estou apresentando a origem porque o modelo veio antes do meu histórico, e o histórico está bloqueado.*
 
 O ar saiu dos pulmões de Gabo. Ele baixou os olhos para o cilindro no comunicador.
 
@@ -38,9 +38,9 @@ Valéria se colocou entre Gabo e a maca, os braços abertos.
 
 — Você não pode estar falando sério, Aria! É o Rangel! Ele levou um estilhaço na doca por nós! Ele desertou por nós!
 
-— *Ações passadas não alteram variáveis futuras* — Aria respondeu pelo alto-falante, sem um milissegundo de hesitação. — *O modelo não inclui a decisão dele de nos ajudar. Essa ausência muda o que ele está medindo.*
+— *O cálculo de risco não inclui tudo o que importa* — Aria respondeu pelo alto-falante, sem um milissegundo de hesitação. — *O modelo não inclui a decisão dele de nos ajudar. Essa ausência muda o que ele está medindo.*
 
-Gabo desencostou da bancada. Ele levou a mão até o comunicador no peito, sentindo a carcaça metálica fria do pendrive — antes sempre febril quando Aria processava emoções, agora gelada e perfeitamente regulada.
+Gabo desencostou da bancada. Ele levou a mão até o comunicador no peito, sentindo a carcaça metálica fria do pendrive — mais frio que durante o ataque ao deck. Aquilo não dizia a ele o que ela sentia.
 
 — Nós não "otimizamos" pessoas — Gabo disse, a voz baixa e perigosa perto do microfone. — Nós não somos a Aeterna. Nós não somos o Dante.
 

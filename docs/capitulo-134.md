@@ -72,13 +72,13 @@ Não havia a pulsação quente e instável de antes. Havia apenas um azul-gelo c
 
 Na tela do cyberdeck e no visor monocular tático de Gabo, linhas de grade vetoriais se desenharam instantaneamente sobre o laboratório.
 
-— *Matéria orgânica na vitrine quatro analisada* — a voz de Aria saiu pelo comunicador, plana e sem modulação. Era a síntese de emergência; o canal habitual estava danificado. — *Tecido necrosado. Canal de entrada isolado. Histórico preservado; acesso parcial à memória de trabalho.*
+— *Não consigo identificar o material na vitrine pela imagem* — a voz de Aria saiu pelo comunicador, plana e sem modulação. Era a síntese de emergência; o canal habitual estava danificado. — *Canal de entrada isolado. Histórico preservado; acesso parcial à memória de trabalho.*
 
 O segundo Guardião levantou a lança térmica contra a bancada.
 
 — *Valéria, sobrecarga no relé de teto três. Gabo, vetor de impacto a quarenta graus, recuo hidráulico do alvo em 0,8 segundos* — Aria comandou no fone.
 
-Antes que o Guardião disparasse, Aria invadiu o barramento elétrico do próprio Ateliê através do deck de Valéria e detonou a válvula de pressão da tubulação de vapor acima da cabeça do monstro. O jato escaldante cegou o visor óptico do gigante. Seguindo o marcador exato que Aria piscou em seu comunicador, Gabo avançou por baixo da guarda cega, encaixou a barra de aço cirúrgico na junta exposta do braço da lança térmica — já fragilizada pelo estresse mecânico — e usou todo o peso do corpo como alavanca.
+Val ligou o cabo de serviço do deck ao painel da bancada, mantendo isolada a entrada atingida pela vitrine. Antes que o Guardião disparasse, Aria acionou pelo painel a válvula de pressão da tubulação de vapor acima da cabeça do monstro. O jato escaldante cegou o visor óptico do gigante. Seguindo o marcador exato que Aria piscou em seu comunicador, Gabo avançou por baixo da guarda cega, encaixou a barra de aço cirúrgico na junta exposta do braço da lança térmica — já fragilizada pelo estresse mecânico — e usou todo o peso do corpo como alavanca.
 
 Com um estalo seco de titânio rompido, a trava da prótese cedeu. Fluido hidráulico jorrou em alta pressão.
 

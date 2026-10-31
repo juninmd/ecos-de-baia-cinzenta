@@ -32,7 +32,7 @@ Ele conhecia aquele cheiro de necrotério. Nunca tinha sentido num lugar onde as
 
 — Você está atrasado, detetive — ecoou a voz, vindo de cima, das sombras das vigas.
 
-Gabo apontou a lanterna para o alto. O feixe atravessou correntes, roldanas e um emaranhado de andaimes que subia até onde a luz não chegava. A água da enchente já batia em seus joelhos, subindo mais rápido do que ele queria admitir. Fazia oito dias que o Dilúvio tinha arrombado os diques do Distrito Baixo, a cidade ainda não tinha encontrado o fundo, e aquela torre era um copo de pedra no meio de um rio.
+Gabo apontou a lanterna para o alto. O feixe atravessou correntes, roldanas e um emaranhado de andaimes que subia até onde a luz não chegava. A água da enchente já batia em seus joelhos, subindo mais rápido do que ele queria admitir. Fazia oito dias que o Dilúvio tinha aberto as comportas do Distrito Baixo, a cidade ainda não tinha encontrado o fundo, e aquela torre era um copo de pedra no meio de um rio.
 
 — Desça! — gritou Gabo, a Caronte apoiada no corrimão, com a mão esquerda limitada sobre o cano. — Acabou. O prédio está condenado.
 

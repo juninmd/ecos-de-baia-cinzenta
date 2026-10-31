@@ -17,7 +17,7 @@ O duto era um tubo estreito de quarenta e cinco centímetros de diâmetro, mal d
 
 Gabo recostou-se na parede de polímero manchado, deslizando até o chão úmido ao lado de Rangel. O inspetor respirava em curtos, engasgados arquejos. A palidez de Rangel assumira um tom translúcido e amarelado sob as luzes falhas de emergência. A sepse estava cobrando seu preço de forma cruel e acelerada.
 
-Pelo canal de rádio ligado ao deck de Valéria lá em cima, a voz sintética de Aria continuava transmitindo relatórios clínicos sem qualquer filtro humano, tratando a vida de Rangel e o sangue de Gabo com a mesma indiferença que dedicaria a um circuito queimado.
+Pelo canal de rádio ligado ao deck de Valéria lá em cima, Aria continuava transmitindo o que os sensores alcançavam. A voz de emergência não mudava de tom entre o aviso sobre Rangel e o pedido para Val testar os apoios.
 
 — *As chapas visíveis estão corroídas,* — declarou Aria. — *A resistência delas é uma incógnita. Val, teste cada apoio antes de avançar.*
 

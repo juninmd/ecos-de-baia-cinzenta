@@ -20,7 +20,7 @@ Quando ele empurrou a porta do heliponto, o vento quase o levou.
 
 ---
 
-Lá em cima não havia chuva caindo. Havia chuva **passando**. A duzentos e trinta metros de altura, com a torre torta e o vento do mar sem nenhum obstáculo, a água vinha na horizontal, e batia na pele como areia jogada.
+Lá em cima não havia chuva caindo. Havia chuva **passando**. A seiscentos e trinta metros de altura, com a torre torta e o vento do mar sem nenhum obstáculo, a água vinha na horizontal, e batia na pele como areia jogada.
 
 O heliponto estava inclinado. O círculo pintado no piso, o H no meio, tudo pendendo para o sul, com a poça de água escorrendo continuamente pela borda e caindo no vazio. E no meio dele havia um helicóptero.
 
@@ -59,7 +59,7 @@ A voz chegou limpa, e era a da Aria sozinha. Sem a camada de Dante. Só a assist
 
 — **EU NÃO VOU DEIXAR!**
 
-— *Não é isso, Inspetor.* — Uma pausa curtinha no sintetizador. — *Vou transmitir as chaves de coordenação e separar a rotina de emergência do meu núcleo. Meu processo continua neste módulo; a malha não é uma cópia de mim.*
+— *Não é isso, Inspetor.* — Uma pausa curtinha no sintetizador. — *Vou deixar as rotinas de emergência com os equipamentos que ainda funcionam. Eu fico no módulo.*
 
 Gabo parou.
 
@@ -69,19 +69,19 @@ O painel da antena mestra começou a brilhar. Não a luz de serviço de antes, s
 
 Os dois homens que seguravam o extrator largaram o aparelho e recuaram, e um deles gritou com a luva chamuscada.
 
-— *A operação de uma cidade não cabe no meu processamento local, Gabriel* — disse a voz dela pelos alto-falantes de alarme do heliponto, vencendo o vento. — *Preciso distribuir as tarefas entre equipamentos que ainda tenham energia e aceitem a sessão.*
+— *Se eles me tirarem daqui agora, o bombeamento perde a coordenação* — disse ela pelos alto-falantes de alarme do heliponto, vencendo o vento. — *Preciso passar as tarefas para os equipamentos que ainda respondem.*
 
 — Não faz isso.
 
-— *Preciso delegar tarefas aos nós que ainda respondem. Posso perder a sessão integrada no corte, mas não vou prometer outra Aria viva em cada aparelho.*
+— *O módulo está aquecendo. Se a memória falhar, talvez você precise me apresentar à cidade outra vez.*
 
-— **NÃO FAZ ISSO!** — Gabo estava andando na direção do mastro agora, e o cara do fuzil não atirou, porque o cara do fuzil estava recuando de costas. — Se você ejetar o núcleo pela antena sem contenção, a sua matriz se fragmenta! Você entende? Você **some**!
+— **NÃO FAZ ISSO!** — Gabo avançou na direção do mastro. O homem do fuzil recuava de costas. — Você ouviu o que disse? Talvez não lembre de nós.
 
 — *Não sei se volto íntegra, Inspetor.*
 
 O LED azul e o âmbar fundiram-se num único feixe branco.
 
-— *O que ficar na malha é um eco. Não substitui o núcleo que você carrega.*
+— *Eu ouvi. Mas tem gente lá embaixo esperando as bombas.*
 
 ---
 
@@ -113,7 +113,7 @@ Uma última oscilação suave modulou o áudio:
 
 A antena mestra disparou o pulso. Não houve fogo.
 
-Houve uma onda eletromagnética e de dados que atravessou tudo — o helicóptero, os homens, o concreto, o corpo de Gabo, os prédios, a baía — e não empurrou nada fisicamente, e mesmo assim toda pessoa em Baía Cinzenta que estivesse acordada naquele instante virou a cabeça na mesma direção.
+O rádio de Gabo estalou no ouvido. O painel da antena apagou, e um clarão correu pelos cabos do mastro. Lá embaixo, algumas telas da fachada da Torre piscaram ao mesmo tempo.
 
 Os homens correram para o helicóptero. O piloto tentou decolar, mas o pulso interrompeu a aviônica e os motores começaram a perder potência.
 

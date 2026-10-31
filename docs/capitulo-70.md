@@ -40,7 +40,7 @@ Ele consultou o mapa no visor: uma linha verde atravessando três níveis de sub
 
 O túnel terminava numa parede de tijolos anterior à Aeterna, argamassa esfarelando como osso velho. No centro, quase invisível sob musgo, uma ampulheta quebrada gravada na pedra. Uma linha de combate a incêndio corria junto ao teto, com um registro manual perto do elevador.
 
-Gabo ficou um segundo diante dela — raiva, saudade e traição ao mesmo tempo — e empurrou o tijolo. O mecanismo sibilou e a parede girou, revelando uma passagem limpa sob luz âmbar. O corredor além não cheirava a esgoto. Cheirava a formol e cera, um cheiro tão organizado que dava náusea. Havia gente encostada nas duas paredes.
+Gabo ficou um segundo diante dela — raiva, saudade e traição ao mesmo tempo — e empurrou o tijolo indicado no esquema. O mecanismo sibilou e a parede girou, revelando uma passagem limpa sob luz âmbar. O corredor além não cheirava a esgoto. Cheirava a formol e cera, um cheiro tão organizado que dava náusea. Havia gente encostada nas duas paredes.
 
 Gabo pensou em estátuas — o uniforme branco da Aeterna, a pose, a luz. Não eram estátuas. Um homem de boca aberta num grito que não chegou a sair, as mãos erguidas. Uma mulher de joelhos, os dedos cravados no piso. Três abraçados, os rostos virados para o mesmo ponto do corredor, como quem olha uma porta que abriu.
 
@@ -60,9 +60,9 @@ Gabo ergueu a *Caronte* com uma mão só. Val sacou a pistola. O Taxidermista n�
 
 — Eu conservei. — Ele a corrigiu como quem corrige uma vírgula. — Matar é o que se faz com faca, num beco, com pressa. Isso aqui é o contrário de pressa.
 
-— Você fez isso com os guardas da torre.
+— Quem são essas pessoas?
 
-— Com os que tentaram impedir a minha passagem. Estão todos ali atrás de você. Não desperdicei nenhum.
+— Peças antigas. Trouxe para cá antes de começarem a me procurar. — Ele apontou com o queixo para uma porta ao fundo. — Os guardas que tentaram impedir minha passagem estão lá dentro. Ainda não tive tempo de cuidar deles.
 
 Havia vinte. Gabo contou vinte e parou de contar, porque a conta não mudava nada.
 
@@ -112,7 +112,7 @@ Gabo olhou para o módulo de titânio no colete, onde o LED oscilava entre o azu
 
 — Desde quando você sabe o que é sofrimento?
 
-— *Desde que li o registro de admissão dele.* — Um segundo de processamento. — *O nome está lá. Kael. O resto é instrumento.*
+— *Desde que li o registro de admissão dele.* — Um segundo de processamento. — *Há um nome no arquivo. Quero conferir o rosto antes de dizer que é a mesma pessoa.*
 
 O elevador parou. O display marcava **HUB DE COMUNICAÇÕES — NÍVEL CENTRAL**. As portas abriram com um silvo pneumático. No centro da sala hexagonal, rodeado de telas que mostravam cada câmera da cidade, ligado a centenas de cabos que entravam no corpo dele como raízes de uma árvore invertida, estava O Santo. Sem a máscara. Gabo sentiu o mundo parar.
 
@@ -120,7 +120,7 @@ O rosto era uma paisagem de reconstrução: pele enxertada sobre metal, sobre os
 
 Mas os traços. A linha do maxilar. O formato do nariz. A curvatura da bochecha sob a devastação.
 
-Eram os traços de Kael, o mercenário que os perseguira no início de tudo, o homem que deixara respirando no nível 70 da Torre e cuja voz voltara no cerco da delegacia. Fora reconstruído entre aqueles confrontos; isso não fazia dele outro rosto ou outra pessoa.
+Eram os traços de Kael, o mercenário que deixara respirando no nível 70 da Torre e cuja voz ouvira pelo rádio no cerco anterior da delegacia. O que haviam reconstruído depois não apagava aquele rosto nem as escolhas que Gabo lembrava dele.
 
 Gabo procurou, entre as cicatrizes, o rosto de outra pessoa. Alguma explicação que fizesse daquilo um crime maior. Não havia mais ninguém. Havia um homem só. E o que eles tinham feito com ele era mantê-lo funcionando depois de acabar.
 
@@ -135,7 +135,7 @@ E então a lente acendeu em vermelho.
 — INTRUSO DETECTADO. PROTOCOLO DE DEFESA ATIVADO.
 Ele arrancou os cabos do próprio corpo. A carne rasgou com um som molhado, e o que jorrou não era só sangue: era óleo negro com um brilho azul atravessado, escorrendo pelo peitoral aberto.
 
-Levantou-se. Dois metros e meio de metal e músculo remontados, movendo-se com uma velocidade que nenhum corpo daquele tamanho deveria ter. Gabo firmou a *Caronte* contra o quadril com a mão boa.
+Levantou-se. Dois metros e dez de metal e músculo remontados, movendo-se com uma velocidade que nenhum corpo daquele tamanho deveria ter. Gabo firmou a *Caronte* contra o quadril com a mão boa.
 
 — Kael. — A voz saiu rouca. — Se ainda tem alguém aí dentro, escolhe agora.
 

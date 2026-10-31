@@ -80,7 +80,7 @@ A voz da IA no ponto auditivo saiu carregada de estática, processando milhões 
 
 O visor da câmera tática destacou os barramentos luminosos das torres.
 
-— *As matrizes neurais. São pessoas, Gabriel.*
+— *A porta identifica matrizes neurais, Gabriel. Não consigo saber por esta leitura de quem são nem como foram obtidas.*
 
 ---
 
@@ -98,7 +98,7 @@ Três Rodrigues seguidos, na mesma prateleira. Três registros Rodrigues na mesm
 
 Gabo se afastou da grade e sentou no apoio, encostado na parede, com a náusea subindo por dentro da garganta. Passara semanas construindo uma teoria, e os nomes exigiam uma investigação que ela ainda não explicava.
 
-Ele achava que o Consórcio Lázaro tinha esvaziado a Zona Leste para construir imóvel. Achava que os mortos eram um custo — feio, criminoso, mas custo. Uma externalidade, como as empresas gostam de dizer. Não eram custo. Eram **estoque**.
+Ele achava que o Consórcio Lázaro tinha esvaziado a Zona Leste para construir imóvel. Achava que os mortos eram um custo — feio, criminoso, mas custo. Uma externalidade, como as empresas gostam de dizer. Se aquelas matrizes viessem dos moradores removidos, eles não teriam sido apenas custo: teriam virado **estoque**. As etiquetas não demonstravam essa origem.
 
 ---
 
@@ -120,7 +120,7 @@ Aria cruzava a própria assinatura com os identificadores que conseguia ler. A c
 
 ---
 
-— A gente tem que sair — disse Gabo, puxando o pendrive de volta para o estojo blindado do colete e se levantando com as duas mãos na parede. — Tem que contar isso para alguém.
+— A gente tem que sair — disse Gabo, desconectando o módulo da porta de diagnóstico. Reconectou-o ao comunicador alimentado no colete e se levantou com as duas mãos na parede. — Tem que contar isso para alguém.
 
 E a frase morreu no ar assim que saiu, porque ele fez a lista mentalmente e a lista estava vazia.
 

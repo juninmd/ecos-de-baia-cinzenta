@@ -119,7 +119,7 @@ A rajada destruiu o CRT. Vidro e plástico choveram sobre a mesa onde o chip est
 
 — Saiam da plataforma! — Gabo gritou.
 
-Disparou duas vezes contra a *Vespa* mais próxima. Na primeira ele errou. Antes da segunda, a máquina inclinou o corpo, deslocou-se em pêndulo e voltou ao eixo de tiro. Gabo conhecia aquela cadência. Seu pai o fazia atacar o ombro para depois sair pelo lado contrário.
+Disparou contra a *Vespa* mais próxima e errou. Antes do segundo tiro, a máquina inclinou o corpo, deslocou-se em pêndulo e voltou ao eixo de tiro. A bala riscou a carcaça sem derrubá-la. Gabo conhecia aquela cadência. Seu pai o fazia atacar o ombro para depois sair pelo lado contrário.
 
 O drone podia ter aprendido com uma gravação. Podia ser coincidência. Gabo atirou cedo demais na terceira tentativa, contra o lugar onde esperava que o pai estivesse.
 

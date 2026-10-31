@@ -7,15 +7,15 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 # Capítulo 208: A Geada Negra
 
-O duto estreito de escoamento desembocou em um patamar de grade de aço que tremia sob uma corrente de ar polar. Deslizei para a frente, sentindo a chapa metálica áspera arranhar o couro da minha jaqueta, e pousei com o peso todo nos pés. O impacto da órtese direita contra a grade de ferro produziu um estrondo oco, e um choque gélido subiu pelos meus ossos desgastados, travando os dentes na mandíbula.
+O duto estreito de escoamento desembocou em um patamar de grade de aço que tremia sob uma corrente de ar polar. Val saiu primeiro e conferiu o patamar. Depois deslizei para a frente, sentindo a chapa metálica áspera arranhar o couro da minha jaqueta, e pousei com o peso todo nos pés. O impacto da órtese direita contra a grade de ferro produziu um estrondo oco, e um choque gélido subiu pelos meus ossos desgastados, travando os dentes na mandíbula.
 
-Soltei o ar em uma baforada espessa e branca que rodopiou na escuridão antes de congelar e cair em microcristais sobre o meu peito.
+Soltei o ar em uma baforada espessa e branca que rodopiou na escuridão e se dispersou sob a luz da lanterna.
 
-— Área de desembarque segura, se você considerar um congelador industrial um lugar seguro, — a voz de Valéria soou logo atrás de mim. Ela saltou da boca do tubo com a agilidade costumeira, caindo agachada sobre as solas das botas de combate. Puxou a gola de couro da jaqueta até o queixo e bateu os braços contra o peito. — Mas que diabos de inverno fora de época é esse? Meus implantes de bochecha tão apitando aviso de hipotermia periférica.
+— A grade segurou nós dois; não sei o estado da fixação — disse Valéria, já agachada no patamar. Puxou a gola de couro da jaqueta até o queixo e bateu os braços contra o peito. — Mas que diabos de inverno fora de época é esse? Meus implantes de bochecha tão apitando aviso de hipotermia periférica.
 
-— Estamos na galeria dos condensadores de amônia, — respondi, mancando três passos para liberar espaço na borda da passarela. — Se a ventilação quebrou quando a Torre Aeterna ruiu, os trocadores de calor continuaram puxando o calor pra fora sem renovação de ar. Isso aqui virou uma tumba de gelo químico.
+— A placa fala em condensadores — respondi, mancando para liberar espaço na borda. — Não sei o que ainda está funcionando aqui.
 
-Elias caiu em seguida, rolando de lado e soltando um gemido que se transformou em uma crise de tosse seca. Ele abraçou a própria mochila, tremendo tanto que o feixe de sua lanterna parecia um ponteiro desgovernado nas paredes de concreto.
+Elias saiu em seguida, apoiando primeiro o pé bom. A bota enfaixada tocou a grade devagar, e ele tossiu antes de conseguir se endireitar. Ele abraçou a própria mochila, tremendo tanto que o feixe de sua lanterna parecia um ponteiro desgovernado nas paredes de concreto.
 
 — T-tá muito frio... — gaguejou o rapaz, os lábios já adquirindo um tom azulado e doentio. — A gente tá abaixo do nível da rua... devia fazer calor por causa das caldeiras geotérmicas da cidade...
 
@@ -37,9 +37,9 @@ Valéria ergueu o cyberdeck, e a luz azul-esmeralda da tela iluminou seus traço
 
 O cheiro do ar era uma agressão direta às vias aéreas: ozônio estático, gás refrigerante rançoso e carne crua congelada há semanas. Cada inspiração queimava a traqueia como ácido líquido, deixando um travo amargo na base da língua. Minha mão de sucata — a engrenagem forjada por Vasco — começou a chiar; os lubrificantes industriais estavam endurecendo sob a temperatura negativa, forçando os servos a emitirem pequenos estalos de esforço térmico a cada movimento dos dedos.
 
-A dor nos ossos fraturados sob as ataduras era profunda e constante, mas agia como uma blindagem mental: impedia que a letargia do frio tomasse conta das minhas reações.
+A dor nos ossos fraturados sob as ataduras era profunda e constante, e eu demorava mais a perceber onde terminava o frio e começava o ferimento.
 
-— Não toquem nessa crosta escura, — ordenei, liderando a marcha pela passarela suspensa de grade perfurada. — Se a pele rasgar nisso, o frio queima o músculo até o osso em trinta segundos.
+— Não toquem nessa crosta escura, — ordenei, liderando a marcha pela passarela suspensa de grade perfurada. — Não sabemos o que há nessa crosta, e qualquer corte aqui vai ser difícil de cuidar.
 
 — E a minha bateria tá drenando duas vezes mais rápido com essa temperatura, — Valéria avisou, colando o cotovelo no meu flanco para dividir o calor dos corpos enquanto avançávamos na névoa gélida. — Temos que atravessar essa galeria antes que o deck desligue a interface tática.
 
@@ -57,10 +57,38 @@ Eram três técnicos da Aeterna Corp, ainda vestidos com os macacões cinzentos 
 
 Mas o horror não era apenas a morte; era a assimilação. A Geada Negra havia brotado dos implantes cranianos e dos soquetes neurais dos cadáveres, unindo os três operários ao concreto da parede por meio de cordões espessos de fibras pretas cristalizadas. A ferrugem alaranjada da Praga comia as ferramentas em seus cintos, enquanto os rostos congelados mantinham expressões de um desespero tranquilo e sem saída.
 
-— Podem ter ficado presos aqui quando as comportas fecharam, — murmurei, sentindo o peso sombrio daquela tumba fechar-se sobre o meu peito.
+Elias se agachou com cuidado, poupando o tornozelo. No punho de um dos macacões havia um retalho de tecido azul, preso por um nó. Ele olhou para o próprio casaco, onde uma tira igual prendia a lanterna.
 
-— Morreram abraçados no escuro, — Valéria sussurrou, a voz perdendo todo o deboche e revelando uma melancolia profunda, a mesma que eu vira em seus olhos quando o terminal de Aria se apagou. Ela estendeu a mão enluvada, quase tocando o ombro de um dos homens congelados, mas recuou a tempo. — A Aeterna nem sequer registrou os nomes deles nos relatórios de baixa. Aposto que entraram como 'custo operacional de amortização'.
+— Na drenagem a gente marcava assim quando dividia turno — disse. — A cor mudava de equipe para equipe. Não sei se eram da minha.
 
-— A cidade inteira é um custo operacional pra quem tá no topo, Val, — respondi, puxando-a suavemente pelo braço para continuarmos andando. — Mas nós não vamos virar monumento de gelo neste corredor. O duto de subida pro Setor Seis fica no final dessa passarela. Apertem o passo enquanto o sangue ainda tá correndo nas veias.
+Val iluminou o peito do técnico mais próximo. A fotografia do crachá estava encoberta pela crosta; ela não tentou arrancá-lo.
 
-Deixamos os três sentinelas congelados para trás, marchando contra a neblina gélida enquanto a escuridão do Setor Seis se abria à nossa frente como uma boca faminta de metal e geada.
+— Posso guardar a posição e as marcas da roupa. Nome, daqui, eu não consigo ler.
+
+Elias tirou o mapa dobrado do bolso e abriu-o sobre o joelho. Ele procurou espaço no verso, como fazia na lista de desaparecidos que datilografara na subestação. A ponta do lápis quebrou quando tocou o papel frio. Ele a virou e escreveu com o pedaço que restou: *três, galeria dos condensadores, junto aos tanques*.
+
+— Não sei se eles estão na sua lista — falei.
+
+— Eu também não. Por isso vou levar o lugar.
+
+Olhei para a passagem adiante. A bateria de Val caía e o tornozelo de Elias mal cabia na bota. Eu podia dizer que não tínhamos tempo. Na ponte, eu já tinha usado a falta de tempo como uma arma.
+
+— A gente precisa sair do frio — falei. — Você consegue terminar andando?
+
+Elias não fechou o mapa.
+
+— Você vai me deixar aqui se eu disser que não?
+
+A pergunta veio sem grito. Foi pior por isso. Ele esperou olhando para minha mão na armação, não para meu rosto.
+
+— Não — respondi. — Eu ameacei você. Não devia ter feito aquilo.
+
+Val conservou a luz sobre o nicho. Elias terminou a anotação, dobrou o papel pela marca antiga e o guardou dentro da jaqueta. Não disse que estava tudo bem.
+
+— Agora consigo — falou. — Mas não puxa ninguém pelo colarinho de novo.
+
+Fui à frente até a grade seguinte. Val fotografou os três e o número dos tanques, incluindo a posição em que estavam; guardou a cópia no deck. Elias parou ao meu lado e apontou para a bifurcação acima da passarela.
+
+— A placa antiga diz que a subida é por ali. Se ainda estiver aberta, a gente sai deste frio. Se não estiver, pelo menos já sabemos voltar até este nicho.
+
+Desta vez esperei que ele começasse a andar.

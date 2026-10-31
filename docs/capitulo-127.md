@@ -7,7 +7,7 @@ Personagens Presentes: "Gabo Moretti, Valéria Cruz, Aria (Instável), Rangel (C
 
 # Capítulo 127: Catedrais de Pedra
 
-A escuridão no Nível 5 não era apenas a ausência de luz; era uma substância. Tinha peso, cheiro e textura. Cheirava a calcário úmido, a séculos de água estagnada e a algo mais antigo, algo que a cidade moderna acima havia esquecido de propósito.
+A escuridão do Nível 5 tinha peso, cheiro e textura. Cheirava a calcário úmido, a séculos de água estagnada e a algo mais antigo, algo que a cidade moderna acima havia esquecido de propósito.
 
 Gabo sentiu o peso de Rangel aumentar a cada passo. O Inspetor, febril e com a respiração chiada, deslizava na prancha a cada desnível. A cinta puxava a armação de Gabo; ele precisava parar para que Val a firmasse. A órtese externa na perna de Gabo gemia baixo, os atuadores lutando contra a carga e a ferrugem, um zumbido sincopado que parecia alto demais naquele silêncio sepulcral.
 
@@ -61,7 +61,7 @@ Eles avançaram com cuidado. O chão era liso, coberto por um lodo que parecia �
 
 No comunicador preso ao peito de Gabo, o LED âmbar acendeu mais forte.
 
-— *Gabo...* — A voz de Aria voltou ao canal privado, entrecortada. — *Seus batimentos estão em 118 por minuto. Posso manter só os alertas.*
+— *Gabo...* — Aria tentou reabrir o canal privado; a voz saiu entrecortada. — *Seus batimentos estão em 118 por minuto. Posso manter só os alertas.*
 
 Gabo olhou para o cilindro conectado por cabo ao deck. A luz do sinalizador refletia no metal; a voz de Aria saía baixa para não encobrir os ruídos da câmara.
 
@@ -89,7 +89,7 @@ Gabo se levantou com apoio na coluna, a dor atravessando a perna direita. Ele er
 
 — O quê? — ele sussurrou. — Drones?
 
-— *Negativo* — Aria respondeu pelo fone, processando os dados acústicos do eco na caverna. — *Padrão de respiração orgânico. Quadrúpede. Múltiplos alvos.*
+— *Ouço respiração e passos. Parecem quadrúpedes, mais de um* — Aria respondeu pelo fone. — *Não consigo excluir outra coisa atrás deles.*
 
 Um som ecoou na caverna. Não era o zumbido de um motor. Era o som de garras arranhando pedra. E um rosnado baixo, úmido, que reverberou nas paredes da catedral como o riso de um demônio.
 

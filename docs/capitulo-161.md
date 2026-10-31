@@ -10,7 +10,7 @@ Personagens Presentes: "Gabo, Valéria, Aria (Reboot)"
 
 # Capítulo 161: Estática e Cinzas
 
-O silêncio nos Servidores Centrais não era o vazio pacífico da noite. Era um vácuo auditivo, pesado e opressivo, o tipo de silêncio que se segue a uma explosão ensurdecedora. O isolamento dos controladores tinha encerrado os comandos naquele trecho. Havia corpos e biomassa entre os racks; não cinza suficiente para transformar a violência numa limpeza sem restos.
+O isolamento dos controladores tinha encerrado os comandos naquele trecho, e o silêncio que sobrou tinha textura de vácuo auditivo - o tipo de silêncio que se segue a uma explosão ensurdecedora. Havia corpos e biomassa entre os racks; não cinza suficiente para transformar a violência numa limpeza sem restos.
 
 O cheiro era o único indício do inferno que acabara de ocorrer. Uma mistura acre de silício derretido, pó de cerâmica e a pungência seca de cinzas orgânicas. Para Gabo, era preferível. Qualquer coisa era melhor do que o cheiro sufocante de cigarro barato que ainda ameaçava vazar das rachaduras de sua sanidade exausta.
 
@@ -48,10 +48,12 @@ A dor das queimaduras recentes nos punhos era uma lembrança constante, pulsando
 
 — *Sua análise é estatisticamente provável,* — Aria confirmou pelo alto-falante, o pendrive piscando duas vezes enquanto processava os ecos de sonar no concreto. — *Ele perdeu a telemetria ativa do Subnível 3.0, mas seus nós logísticos superiores permanecem intactos além deste anteparo. Sugiro deslocamento imediato antes que protocolos secundários de expurgo térmico ou inundação química sejam acionados manualmente.*
 
-— Deslocamento imediato. Fácil falar quando você pesa duzentos gramas e viaja de carona no braço dos outros — resmungou Gabo, apoiando as costas contra a carcaça do servidor para alavancar o tronco.
+- Deslocamento imediato. Fácil falar quando você pesa quarenta e cinco gramas e viaja de carona no braço dos outros - resmungou Gabo, apoiando as costas contra a carcaça do servidor para alavancar o tronco.
 
 Valéria ajudou Gabo a transferir o peso para a prancha de inspeção. Cada centímetro que ele se afastava do terminal era um castigo medieval; os joelhos tremiam, quase falhando sob o peso do próprio corpo, sustentados por nada mais do que teimosia pura e uma rejeição visceral à derrota.
 
 — Eu ainda posso ajudar — ele disse, mantendo a mão esquerda na cinta da prancha, a agonia pulsando como um tambor de guerra nos membros mutilados. Mas a dor mantinha o foco afiado, limpando a mente de qualquer hesitação diante do perigo. Era apenas a cruel, mas inegável, realidade da sobrevivência em um mundo quebrado.
 
-— Cala a boca e pisa firme, detetive. O pesadelo ainda não acabou — Valéria suspirou pesadamente e guiou a prancha com a mão direita. A pistola ficou no coldre. A marcha exaustiva pelo corredor negro que os aguardava começava de novo. As cinzas das abominações rangiam sob suas botas como vidro quebrado.
+- Cala a boca e pisa firme, detetive. - Valéria suspirou pesadamente e guiou a prancha com a mão direita. A pistola ficou no coldre.
+
+À frente, o corredor negro engoliu a lanterna. As cinzas das abominações rangiam sob suas botas como vidro quebrado.

@@ -2,7 +2,7 @@
 
 ![Kiko Vibe](/personagens/kiko.png)
 
-* **Status:** Falecido (Parte IV). Continua "vivo" como recorte de vídeo em replay pela cidade.
+* **Status:** Falecido (Parte III). Continua "vivo" como recorte de vídeo em replay pela cidade.
 * **Idade:** 20 anos (Eternamente preservado no cache).
 * **Altura:** 1,78 m
 * **Porte Físico:** Magro, quase digitalmente frágil.
@@ -20,6 +20,6 @@
 ### ⏳ Linha do Tempo
 
 * **Parte II:** Celebridade digital usada pela Aeterna Corp para vender a ilusão de prosperidade.
-* **Parte IV:** Encontrado morto por overdose da droga Lázaro. Sua morte foi transmitida ao vivo por seus próprios implantes, tornando-se o vídeo mais assistido da história da cidade antes do Apagão.
+* **Parte III:** Encontrado morto por overdose da droga Lázaro. A transmissão ao vivo não chegou a começar; os implantes continuaram gravando, e o vídeo do corpo virou o mais assistido da história da cidade antes do Apagão.
 
 ---

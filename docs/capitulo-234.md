@@ -19,7 +19,7 @@ Valéria já estava ajoelhada junto à carcaça do osciloscópio militar encosta
 
 — Estou recebendo uma portadora na faixa indicada no esquema — disse Valéria. — A intensidade cresce, mas daqui não consigo medir a carga do banco. Temos de presumir que a linha pode estar sendo ativada.
 
-— Traduz, Val — pedi, com a mão esquerda apertando a tipoia onde meu ombro quebrado pulsava em pontadas quentes.
+— Traduz, Val — pedi, com a mão esquerda apertando a tipoia onde meu braço fraturado pulsava em pontadas quentes.
 
 — Protocolo Crepúsculo — respondeu a Dra. Vance, girando a cadeira de aço com a lentidão das juntas gastas. — O plano de contingência que meu pai desenhou para destruir arquivos e testemunhas em caso de retirada não autorizada. Se o material saísse do berço, a subestação canalizaria a descarga dos capacitores marítimos direto para as galerias de drenagem sob este galpão, incendiando os alimentadores e o combustível de reserva.
 
@@ -41,7 +41,7 @@ Elias levantou a cabeça do canto do galpão, onde limpava as graxas da prensa.
 
 — Isso cobriria a costa inteira — ele murmurou.
 
-— Talvez alcance parte da costa, se a antena ainda funcionar — disse Elena, conferindo o gravador. — Os assentamentos que ouvirem podem retransmitir. A fita explica o índice, a amostra e onde consultar as cópias. Não impede ninguém de mentir sobre ela; torna mais difícil recolher todas as provas.
+— Talvez alcance parte da costa, se a antena ainda funcionar — disse Elena, conferindo o gravador. — Os assentamentos que ouvirem podem retransmitir. A gravação que preparei com a doutora explica o índice, a amostra e onde consultar as cópias. Não impede ninguém de mentir sobre ela; torna mais difícil recolher todas as provas.
 
 — Você não vai — eu disse. A palavra saiu seca, com gosto de bile na língua.
 
@@ -71,7 +71,7 @@ Elena olhou para Valéria.
 
 — Guarda o cálculo para o Gabriel, Valéria. Ele sempre gostou de perder contra a banca.
 
-Antes de sair, Elena encaixou um pequeno disco na cavidade da coronha. — Tem cópias dos registros que separamos no galpão — disse. — Se eu perder a bolsa, pelo menos ficam em outro lugar. Ela virou as costas. Não houve despedida solene, nem beijo de romance barato. Ela ajustou a gola da jaqueta verde-oliva, verificou o estojo de microcassetes no bolso interno e saiu pela porta metálica do galpão para a chuva gelada da madrugada.
+Antes de sair, Elena encaixou um pequeno disco na cavidade da coronha. — Tem cópias dos registros que separamos no galpão — disse. — Se eu perder a bolsa, pelo menos ficam em outro lugar. Ela virou as costas. Não houve despedida solene, nem beijo de romance barato. Ela ajustou a gola da jaqueta verde-oliva, verificou o estojo de microcassetes no bolso interno e saiu pela porta metálica do galpão para a chuva gelada da noite.
 
 ---
 

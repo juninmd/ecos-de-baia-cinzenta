@@ -12,6 +12,8 @@ Notas de trabalho de revisão. **Não é cânone.** O texto oficial são os cap�
 | `revisao-personagens/` (demais) | Diagnóstico, cobertura, estrutura, validação e os cadastros de personagens por grupo |
 | `revisao-personagens/aria-agy/` | Notas do experimento de arte da Aria (`ESTADO.md`, `PEDIDO.md`) |
 | `REVISAO-historico.md` | Registro histórico da revisão editorial, capítulo a capítulo (488 KB). Saiu de `docs/` em 31/10/2026: era a maior página do site e não estava no menu |
+| `revisao-continuidade-2026-10-31.md` | Revisão dos 239 capítulos em quatro blocos: contradições demonstradas e correções mínimas aplicadas |
+| `revisao-ganchos-2026-10-31.md` | Passada de abertura e fecho: o que foi reescrito para virar a página, com antes/depois |
 
 ## O que foi removido em 31/10/2026
 

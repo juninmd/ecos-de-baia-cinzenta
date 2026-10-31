@@ -29,7 +29,7 @@ Valéria examinou a fresta entre as chapas com o bico da lanterna.
 
 — Não precisa de maçarico — dei um passo à frente, ajustando a postura das pernas no concreto escorregadio. — O mecanismo da porta tem uma manivela de emergência. O suporte do meu braço ajuda a manter a ferramenta no eixo; não transforma meu ombro numa máquina de duas toneladas.
 
-— Gabo, espera — Valéria segurou meu sobretudo com firmeza. — O pino da sua escápula já tá frouxo depois do esforço para soltar o calço do ônibus. Se você forçar a abertura dessa comporta no torque máximo, o recuo vai estourar os parafusos que o Vasco colocou no seu ombro.
+— Gabo, espera — Valéria segurou meu sobretudo com firmeza. — O curativo voltou a sangrar depois do calço do ônibus. Se você forçar essa comporta de uma vez, o tranco pode deslocar o fixador que a equipe colocou no seu braço.
 
 — Se a gente não abrir essa porta agora, Val, as raízes podem fechar a escada atrás da gente. Precisamos abrir uma saída. Afasta dois metros.
 
@@ -59,7 +59,7 @@ Valéria debruçou-se sobre o abismo com a lanterna, os olhos ópticos estalando
 
 — Tem alternativa?
 
-— Tem — ela passou a cinta de contenção sob as minhas axilas com movimentos rápidos e profissionais, travando o mosquetão de titânio na guia de segurança de um dos cabos mais grossos. — A gente desce em dupla na mesma linha de freio. Eu controlo a descida com o regulador do meu arnês e você mantém a linha de segurança livre e usa as pernas para nos afastar da parede. A pinça não foi projetada para segurar uma queda. E se você soltar esse cabo antes de tocarmos o chão, Gabo, eu juro que passo o resto da eternidade te assombrando.
+— Tem — ela passou a cinta de contenção sob as minhas axilas com movimentos rápidos e profissionais, travando o mosquetão de titânio na guia de segurança de um dos cabos mais grossos. — A gente desce em dupla na mesma linha de freio. Eu controlo a descida com o regulador do meu arnês e você mantém a linha de segurança livre e usa as pernas para nos afastar da parede. Vou prender o freio de reserva à guia lateral; se o primeiro falhar, eu tento travar. A pinça do seu suporte não foi projetada para segurar uma queda. Não conte com ela.
 
 Olhei para a escuridão do fosso, sentindo o arrepio frio do abismo subir pelas pernas.
 

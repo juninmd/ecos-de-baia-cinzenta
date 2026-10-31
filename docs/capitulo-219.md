@@ -51,7 +51,7 @@ Elias entrou atrás de mim e soltou um assobio baixo.
 
 — Porque este papel ficou fora da rede, — falei. — Pode queimar, mofar ou trazer uma mentira assinada. Mas aqui temos originais para comparar com o registro. Não vamos chamar o cofre de garantia da verdade.
 
-Valéria consultava os índices das gavetas com a mão direita, anotando os códigos que queria conferir.
+Valéria consultava os índices das gavetas com a mão direita, anotando os códigos que queria conferir. Elias abriu o mapa no balcão e comparou o número que anotara na sala de controle com uma folha de recebimento. A entrada registrava uma caixa lacrada vinda do Hub, sem inventário anexado. Ele marcou a gaveta para voltarmos; a coincidência dos números não revelava o conteúdo nem autenticava a folha.
 
 — Vou examinar os índices e selecionar o que precisamos abrir, — ela informou. — Ler o arquivo inteiro levaria dias. Você precisa de atendimento agora.
 

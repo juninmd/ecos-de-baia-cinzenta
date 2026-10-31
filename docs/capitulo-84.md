@@ -66,15 +66,15 @@ Val ergueu o escâner e a mão dela tremeu.
 
 — Como assim vivo?
 
-— Movimento respiratório e temperatura superficial baixa. Não tenho saturação sem contato, nem vou chamar isso de estase pelo escâner. — Ela engoliu. — Ele está vivo agora. E olha o fluxo: está entrando nele pelas costas e voltando. Ele está sendo nutrido pela parede.
+— Movimento respiratório e temperatura superficial baixa. Não tenho saturação sem contato, nem vou chamar isso de estase pelo escâner. — Ela engoliu. — Ele está vivo agora. E olha o fluxo: parece entrar pelas costas e voltar. Não consigo dizer o que estão trocando.
 
 — Nutrido ou drenado? — perguntou Gabo.
 
-— Não sabemos. — Nise respondeu antes da Val, sem tirar os olhos do homem. — Parece uma troca. Uma simbiose que ele não escolheu, mas simbiose. O organismo ganha alguma coisa dele e devolve o suficiente para mantê-lo.
+— Não sabemos. — Nise respondeu antes da Val, sem tirar os olhos do homem. — Pode haver troca, mas ainda não sabemos se os cordões mantêm ele vivo ou quanto tempo ele resiste assim.
 
-— Devolve o quê?
+— Como tiramos ele daí?
 
-— Talvez suporte. Precisamos medir, e ver se há um jeito de separar sem matar. — Ela finalmente olhou para Gabo. — Tudo o que a gente sai de casa às seis da manhã para conseguir.
+— Precisamos medir e ver se há um jeito de separar sem matar. — Ela finalmente olhou para Gabo. — Tudo o que a gente sai de casa às seis da manhã para conseguir.
 
 ---
 
@@ -136,14 +136,14 @@ Gabo registrou aquilo com a parte fria do cérebro: *ela reage ao corte. O sinal
 
 ---
 
-Eles voltaram correndo os duzentos metros até a plataforma.
+Eles voltaram pelo túnel na direção do trem e da plataforma.
 
-Vilar puxava a Nise pelo braço. Val ia na frente, disparando o flash do escâner no chão para ver onde pisar. Gabo ia por último, andando de costas, com a *Caronte* apontada para o túnel, e a perna esquerda avisando que aquilo ia ser cobrado.
+Vilar puxava Nise com a mão direita; o braço imobilizado batia contra o peito a cada passo. Val ia na frente, disparando o flash do escâner no chão para ver onde pisar. Gabo ia por último, andando de costas, com a *Caronte* apontada para o túnel, e a perna esquerda avisando que aquilo ia ser cobrado.
 
 Atrás deles, o coro subiu de volume. E depois deixou de ser som.
 
-Aos cento e vinte metros do túnel, o que vinha atrás deles parou de entrar pelo ouvido e passou a entrar direto: uma pressão dentro do crânio, atrás dos olhos, com palavras que não estavam sendo faladas.
+Depois de mais de cem metros, o que vinha atrás deles parou de entrar pelo ouvido e passou a entrar direto: uma pressão dentro do crânio, atrás dos olhos, com palavras que não estavam sendo faladas.
 
-Val caiu de joelhos na plataforma e vomitou. Gabo se apoiou numa coluna, com as duas mãos, e ficou ali até passar.
+Val caiu de joelhos no lastro e vomitou. Gabo se apoiou numa coluna, com as duas mãos, e ficou ali até passar.
 
-Quando passou, ele percebeu que estava chorando, e que não sabia por quê, e que não era ele quem estava triste.
+Quando passou, ele percebeu que estava chorando, e que não sabia por quê. Vilar ajudou Val a levantar; seguiram junto ao trem até a plataforma. Gabo não reconhecia aquela tristeza como sua.

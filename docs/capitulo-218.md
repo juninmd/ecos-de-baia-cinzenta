@@ -13,7 +13,7 @@ Não empurrei. Ela simplesmente continuou, puxada por um contrapeso que alguém 
 
 O que veio de dentro não foi som. Foi ausência de som.
 
-Eu tinha esquecido que existia diferença. Nos últimos meses, o silêncio de Baía Cinzenta sempre teve textura: goteira, ferrugem se assentando, o estalo distante de alguma coisa orgânica crescendo onde não devia. Aquilo ali era outra categoria. Um silêncio construído, projetado, pago caro. Um silêncio que custou dinheiro.
+No Hub, os servidores ainda zumbiam. Ali o silêncio era outro. Nos últimos meses, o silêncio de Baía Cinzenta sempre teve textura: goteira, ferrugem se assentando, o estalo distante de alguma coisa orgânica crescendo onde não devia. Aquilo ali era outra categoria. Um silêncio construído, projetado, pago caro. Um silêncio que custou dinheiro.
 
 — Pressão positiva, — Valéria disse atrás de mim. — O ar está saindo, não entrando. O mostrador confirma pressão interna maior agora. Não temos o histórico para dizer que nunca houve uma falha.
 
@@ -43,13 +43,13 @@ Ele estava parado na porta, sem passar. A lanterna tremia na mão dele.
 
 Eu parei. Porque ele tinha razão, e eu não tinha percebido o que estava me incomodando desde que a porta abriu.
 
-Não havia cheiro.
+O cheiro do antisséptico que sentíramos na soleira tinha quase desaparecido.
 
-Nada. Nem mofo, nem ferrugem, nem podridão doce da biomassa, nem o ozônio queimado que vinha grudado nas nossas roupas desde o Arquivo. Eu inspirei fundo, procurando qualquer coisa, e o ar entrou nos meus pulmões como água destilada. Frio. Neutro. Vazio.
+Restava o odor da nossa roupa, mas não havia mofo nem a podridão doce da biomassa dominando o corredor. Eu inspirei fundo, procurando qualquer coisa, e o ar entrou nos meus pulmões como água destilada. Frio. Neutro. Vazio.
 
 E foi aí que eu entendi o verdadeiro impacto daquele santuário.
 
-Não havia poluição. Não havia o azedume da chuva ácida que corrói Baía Cinzenta desde o berço, nem a fuligem de chaminés corporativas ou o lodo asfixiante do esgoto. Pela primeira vez em anos, o ar parecia menos agressivo. Continuei tossindo, e o tremor não passou.
+Não havia poluição. Não havia o azedume da chuva ácida que corrói Baía Cinzenta desde o berço, nem a fuligem de chaminés corporativas ou o lodo asfixiante do esgoto. Como no Hub, o ar parecia menos agressivo; ali o silêncio também deixava a tosse mais alta. Continuei tossindo, e o tremor não passou.
 
 Encostei a testa na parede fria de epóxi e fiquei ali, respirando devagar, como um condenado que acabava de receber uma trégua inesperada no meio da tempestade.
 

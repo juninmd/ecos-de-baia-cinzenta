@@ -7,7 +7,7 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 # Capítulo 207: O Peso da Ferrugem
 
-A escuridão dentro daquele duto de escoamento não era apenas falta de luz; era uma presença sólida, viscosa, que parecia colar nas paredes da garganta. O diâmetro do tubo não passava de um metro e vinte. Para um homem do meu tamanho, com uma armação pesada de sucata parafusada sobre o braço fraturado e uma perna travada em órtese rígida, aquele espaço era o mais próximo que um vivo podia chegar de ser enterrado vivo num caixão de ferro corrugado.
+O duto tinha um metro e vinte de diâmetro. Para um homem do meu tamanho, com uma armação pesada de sucata parafusada sobre o braço fraturado e uma perna travada em órtese rígida, aquele espaço era o mais próximo que um vivo podia chegar de ser enterrado num caixão de ferro corrugado. Falta de luz teria sido mais simples. Aquilo era uma presença sólida, viscosa, colada às paredes da garganta.
 
 O ar parado sufocava os pulmões com o gosto rançoso de lodo industrial, esgoto antigo e metal corroído. Cada centímetro conquistado exigia uma negociação humilhante com a gravidade e com a carcaça do meu próprio corpo.
 
@@ -23,7 +23,9 @@ Atrás de mim, a respiração de Elias era um silvo asmático, entrecortado por 
 
 — Gabo... eu não consigo... o ar tá acabando, — ele gemeu, a voz espremida pelo pânico claustrofóbico. — Parece que as paredes tão encolhendo... a tubulação vai fechar em cima da gente.
 
-— As paredes tão aí há quarenta anos, Elias, — eu disse, parando por três segundos para firmar o joelho bom no metal e respirar fundo. — O aço não tá encolhendo. É a tua cabeça que tá tentando te derrubar. Respira devagar pelo nariz. Três segundos pra puxar, três pra soltar. Olha pras solas das minhas botas e não para de empurrar o chão.
+— Eu também preciso parar — disse, firmando o joelho bom no metal. — Val, dá um minuto.
+
+Ela apagou a lanterna e esperou. Elias apoiou a testa na manga; o som da respiração dele foi diminuindo aos poucos. Quando pediu para continuar, eu me movi.
 
 A armação que Vasco acoplara ao fixador puxava meu ombro. A cobertura suja de lodo precisava ser trocada; mantive o braço preso ao arnês para não repuxar ainda mais os pontos. Lembrei a água do Dilúvio, vinte e três dias depois da queda da Torre Aeterna. Tudo naquele mesmo ano. Uma vida podia caber em meses e ainda assim deixar o corpo sem lugar para outra dívida.
 
@@ -31,13 +33,13 @@ A armação que Vasco acoplara ao fixador puxava meu ombro. A cobertura suja de 
 
 — O que você achou? — perguntei, forçando a órtese emperrada a avançar mais trinta centímetros.
 
-— Anomalia térmica na grade de descarte, trinta metros à frente, — disse ela, mantendo o feixe de luz travado em uma bifurcação onde a tubulação se alargava. — Mas não é o calor do Jardim nem a radiação da Praga. Tá despencando. A temperatura na saída do duto tá abaixo de zero.
+— Anomalia térmica na grade de descarte, trinta metros à frente, — disse ela, mantendo o feixe de luz travado em uma bifurcação onde a tubulação se alargava. — A leitura está caindo. A saída do duto parece abaixo de zero; não sei o que está causando isso.
 
 — Abaixo de zero? No meio de um complexo subterrâneo abafado? — Elias ergueu a cabeça, piscando contra as gotas de condensação que pingavam do teto de ferro e batiam na sua testa. — Isso não faz sentido. O calor geotérmico do Setor Seis devia manter tudo a mais de trinta graus.
 
-— Faz todo sentido se o circuito primário de refrigeração da Aeterna Corp tiver estourado na câmara de baixo, — respondi, sentindo o ar que entrava pelas minhas narinas mudar de textura.
+— Pode ser algum circuito de refrigeração, — respondi, sentindo o ar que entrava pelas minhas narinas mudar de textura.
 
-O bafo úmido e fétido do esgoto foi sendo gradualmente substituído por uma rajada gélida, cortante, que trazia cristais minúsculos de geada suspensos no ar. O cheiro de amônia anidra e gás freon queimado começou a arder na garganta, misturado ao aroma metálico de gelo seco.
+O bafo úmido e fétido do esgoto foi sendo gradualmente substituído por uma rajada gélida, cortante, que trazia cristais minúsculos de geada suspensos no ar. Um odor químico áspero começou a arder na garganta.
 
 Valéria alcançou a grade de retenção no final da descida. As barras de ferro forjado estavam cobertas por uma crosta espessa de geada branca, que brilhava como açúcar cristalizado sob a luz da lanterna.
 

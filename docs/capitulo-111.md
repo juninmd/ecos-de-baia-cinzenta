@@ -25,11 +25,13 @@ Gabo sentou-se em um caixote de madeira reforçada, esticando a perna machucada.
 
 Gabo ficou diante da parede de monitores CRT desligados, exceto pelo central, que exibia o prompt de comando piscante em verde-fósforo enquanto o pendrive blindado da Aria processava os diretórios pela porta serial. A luz verde refletiu no suor do rosto dele. Pelo alto-falante do monitor, a voz sintética de Aria comentou em baixa frequência, cruzando os registros antigos.
 
-— *Ele sabia que isso ia acontecer* — disse Aria pelo alto-falante, e Gabo assentiu devagar. — *Kiko mapeou os padrões. Ele guardou especificações do projeto do hospedeiro e notas sobre o código. Não são medições do Dante que vimos hoje.*
+— *Kiko registrou risco de instabilidade* — disse Aria pelo alto-falante. — *Guardou especificações do projeto do hospedeiro e notas sobre o código. Não são medições do Dante que vimos hoje.*
 
-— Kiko era um *streamer* — Valéria bufou, finalmente arriscando teclar algo. O som das teclas mecânicas (Click-Clack) ecoou alto na sala. — Ele vendia energético e fazia *unboxing* de implantes.
+— Na gravação que Nise guardou, ele pediu para desligar o modulador — disse Valéria, enfim tecleando. O som seco das teclas ecoou na sala. — Na tela, os patrocinadores chamavam aquilo de sorriso.
 
-— Essa era a máscara — corrigiu Gabo, sem levantar os olhos da arma. — Todo mundo precisa de uma. A dele era ser um idiota superficial. Ninguém vigia o bobo da corte.
+— E alguém tentou apagar o que ele deixou — disse Gabo. — Não sabemos quem entrou no apartamento nem se Kiko foi assassinado.
+
+Val copiou o índice para o deck. — Talvez os papéis ajudem a descobrir. Primeiro vamos ver o que ele realmente guardou.
 
 Rangel puxou uma caixa da prateleira. A poeira subiu em uma nuvem cinza. Ele tossiu, abanando o ar, e olhou para o conteúdo.
 

@@ -1,5 +1,5 @@
 ---
-image: /cenas/cidade.jpg
+image: /cenas/capitulo_109/cena_1.jpg
 Personagens Presentes: Inspetor Rangel, Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria, mulher e menino
 Participação por transmissão: Dante Moretti
 Localização: "Zona Portuária - Setor 4 (Em Ruínas)"

@@ -10,6 +10,8 @@ A parede não caiu. Ela **entrou**. Concreto de sessenta anos não desmorona bon
 
 Depois do pó veio o Titã. Três metros. Blindagem em placas sobrepostas, do tipo que engenheiro desenha quando não precisa se preocupar com peso. Os canhões rotativos giraram em vazio por meio segundo — aquele zumbido subindo de tom antes do primeiro tiro, que é o som que dá tempo de correr e nunca é tempo suficiente.
 
+Dois CP-Z menores passaram pela abertura atrás dele, procurando espaço entre a parede e o chassi do Titã.
+
 Gabo disparou a *Caronte* com perfurante. O cartucho bateu na placa peitoral e arrancou tinta. Foi isso. Uma faísca alaranjada, um risco de metal exposto do tamanho de um dedo, e o cheiro instantâneo de pólvora queimada e chumbo vaporizado.
 
 — Recuar! — ele gritou, e a própria voz saiu abafada pelo zumbido no ouvido.
@@ -69,7 +71,7 @@ Um impacto na porta de aço fez a barra transversal saltar do encaixe e voltar.
 
 ---
 
-Ele achou duas granadas de fumaça num armário de material de motim. Abriu a *Caronte* contra o balcão, retirou o estojo do tiro na blindagem e carregou um dos dois cartuchos que restavam no bolso.
+Ele achou duas granadas de fumaça num armário de material de motim. Abriu a *Caronte* contra o balcão, retirou o estojo do tiro na blindagem e carregou um dos dois cartuchos que restavam no bolso. O outro cano ainda estava carregado.
 
 — No meu sinal você destranca. — Ele engatou a *Caronte* no ombro. — E não sai daí por nada.
 
@@ -143,6 +145,6 @@ Gabo olhou para os onze segundos que tinham acabado de acontecer em nome dele.
 
 Eles desceram pelo bueiro aberto no fim do beco, um por vez, com o cheiro de amônia dando lugar ao cheiro doce e podre do subsolo. Gabo foi por último. Antes de descer, ele olhou para trás uma vez. Os animais estavam se dispersando — sem pressa, cada um para o seu lado, como funcionários no fim do turno. O cachorro cinza foi embora andando pelo meio da rua.
 
-E, no poste da esquina, a luz acendeu e apagou três vezes, curto-curto-curto, que não era código de coisa nenhuma. Era só um homem dizendo *ainda estou aqui*. Gabo puxou a tampa por cima da cabeça.
+E, no poste da esquina, a luz acendeu e apagou três vezes, curto-curto-curto, que não era código de coisa nenhuma. Gabo quis ler ali *ainda estou aqui*. Puxou a tampa por cima da cabeça antes que a luz piscasse outra vez.
 
-Doze horas até as hastes caírem, uma perna sangrando, e um pai cuja cópia perdia partes do registro a cada intervenção.
+Menos de doze horas até as hastes caírem, uma perna sangrando, e um registro que acumulava falhas a cada intervenção.

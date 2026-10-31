@@ -17,7 +17,7 @@ Valéria ajoelhou-se ao meu lado e enxugou o suor frio do meu queixo com o dorso
 
 — O que importa é que a quimera virou carvão lá fora — respondi, o gosto de cobre e poeira de carvão amargo na boca. — E o portão de chumbo segurou o resto da ninhada.
 
-Elias estava jogado no chão a três metros de nós, abraçando os joelhos contra o peito. Ele tremia tanto que seus dentes batiam num ritmo frenético, os olhos amarelos e esbugalhados percorrendo a escuridão monumental que se erguia sobre as nossas cabeças. O técnico da drenagem vira o inferno de perto e quase não voltara.
+Elias estava sentado a três metros de nós, com o tornozelo inchado apoiado na mochila. Seus dentes batiam enquanto olhava para o alto. Val perguntou se podia examinar; ele assentiu e mostrou onde doía. Ela ajustou uma faixa sobre a bota, sem prometer que sustentaria uma subida. Elias testou o apoio com cuidado e fez uma careta. A porta recebeu outra pancada. Ele recolheu a chave do chão.
 
 — Não tem saída... — ele murmurou num soluço engasgado, apontando o dedo trêmulo para o alto. — O poço... olhem pro teto desse poço. A cabine do elevador não tá aqui.
 
@@ -37,11 +37,11 @@ Olhei para a escada de ferro chumbada na rocha. Uma sucessão vertiginosa de lan
 
 — Em pé?! — Elias quase berrou, as lágrimas limpando trilhas de lama na poeira de seu rosto. — Aquela escada tá carcomida por quarenta anos de umidade ácida, detetive! Três passos com essa sua perna pesada e o ferro se quebra no meio! A gente vai cair no fundo desse fosso e virar pasta!
 
-Dei um passo firme em direção a ele, a garra de ferro da armação repousando pesada sobre o ombro dele com um apoio firme e calmo. Olhei bem dentro dos olhos aterrorizados dele, a voz saindo no tom grave e seguro de um policial veterano que já arrancou homens piores da boca do abismo:
+Aproximei-me devagar e deixei a garra junto ao meu corpo, longe do ombro dele. Olhei bem dentro dos olhos aterrorizados dele, a voz saindo no tom grave e seguro de um policial veterano que já arrancou homens piores da boca do abismo:
 
 — Escuta, Elias. Você sobreviveu semanas naquela subestação porque conhecia os dutos e sabia quando se esconder. Eu não vou chamar isso de covardia. A escada pode ceder, e minha armação não garante que eu consiga segurar você. Podemos ficar atrás da comporta e esperar; com as assinaturas descendo, isso também tem preço. Se você escolher subir, conhece melhor que nós o caminho até a escotilha. Eu acompanho o seu ritmo. Um degrau de cada vez.
 
-Elias piscou, engolindo o soluço. O tremor nas mãos dele diminuiu gradualmente sob o peso do meu aperto.
+Elias piscou, engolindo o soluço. Ele manteve distância de mim e apertou a faixa em volta da bota.
 
 — E se a escada quebrar? — ele sussurrou.
 
@@ -51,7 +51,7 @@ Elias olhou de novo para a comporta. A chuva de garras no lado de fora cresceu; 
 
 Valéria se aproximou, pendurando o cyberdeck com as alças cruzadas no peito para liberar os braços e checando o cão da pistola com um clique seco.
 
-— Elias vai na frente, porque é o mais leve — ela disse, os LEDs azuis na franja iluminando as ferragens com um brilho de foco tático. — Você sobe logo atrás dele, Moretti. A guia vai nos proteger se um apoio falhar. Testamos cada trecho antes de passar o peso. Eu fecho a coluna.
+— Se você ainda quiser ir na frente, Elias, pode escolher onde pôr o pé — disse Val. — Moretti sobe depois; eu fecho a coluna. Testamos cada apoio. A guia pode limitar uma queda, mas não garante que segure.
 
 Antes que ele pudesse dar o primeiro passo, um som cavernoso quebrou o silêncio do poço.
 

@@ -11,7 +11,7 @@ A Subestação B era um mausoléu de transformadores gigantescos e cabos de cobr
 
 O ar cheirava a poeira antiga, óleo mineral estagnado e ozônio frio. Na boca, o gosto amargo de cinzas e fuligem química ainda me queimava a língua, uma herança crua de cada batalha que travei desde o Dilúvio nas docas.
 
-Avancei pelos corredores estreitos, apoiando a mão esquerda na parede de alvenaria crua. Minha perna com a órtese mecânica rangia a cada passo, o metal castigado pelo choque do poço de exaustão, mas a dor no meu ombro fraturado me mantinha focado no chão de cimento e nas sombras do caminho.
+Avancei pelos corredores estreitos, apoiando a mão esquerda na parede de alvenaria crua. Minha perna com a órtese mecânica rangia a cada passo, o metal castigado pelo choque do poço de exaustão, e a dor no braço me obrigava a parar para aliviar o peso do arnês.
 
 Valéria caminhava dois passos à frente, a pistola curta firme na mão e o cyberdeck preso às costas, o ventilador girando alto demais para o silêncio daquele setor.
 

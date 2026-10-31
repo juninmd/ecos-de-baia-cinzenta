@@ -1,5 +1,5 @@
 ---
-image: /cenas/beco.jpeg
+image: /cenas/capitulo_110/cena_1.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Inspetor Rangel, Valéria "Val" Cruz, Aria, mulher e menino
 Participação em registro: Kiko Vibe
 Localização: "Canais de Drenagem do Setor 4 → O Fliperama"
@@ -81,7 +81,7 @@ Rangel congelou.
 
 — O mártir? O garoto que iniciou a Primeira Revolta Digital?
 
-— O próprio — Gabo foi até um frigobar enferrujado no canto, abriu-o e tirou uma garrafa de água lacrada. Ele jogou para Rangel. — Antes de virar um ícone em camisetas de protesto e hologramas de rua, ele era apenas um moleque que gostava de jogos antigos e odiava vigilância. Parece que achamos um esconderijo dele.
+— O próprio — Gabo foi até um frigobar enferrujado no canto, abriu-o e tirou uma garrafa de água lacrada. Ele jogou para Rangel. — A gente achou o drive que ele escondeu na Solaris. Foi o que levou à fábrica. Parece que este era outro esconderijo dele.
 
 Gabo caminhou até o centro da sala, onde os monitores empilhados formavam o "trono". Ele desacoplou o pendrive da Aria do comunicador e o espetou em um adaptador serial ligado à torre central. O LED do drive aqueceu, mudando para um azul constante.
 

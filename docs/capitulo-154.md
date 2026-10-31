@@ -16,7 +16,7 @@ Gabo estava preso por uma cinta de segurança à guia lateral, usando os apoios 
 
 O cheiro pútrido de cigarro tentou subir por sua garganta, uma alucinação olfativa persistente de seu cérebro privado de sangue. Ele podia ver a brasa vermelha do legista anos atrás, sentir a fumaça rascante que impregnava a pele de Bia no necrotério. Para combater a náusea avassaladora, Gabo apertou ainda mais o aperto ao redor do cabo de aço encharcado de óleo.
 
-A fricção rasgou o pouco de pele que restava em suas palmas, as queimaduras de terceiro grau e a carne congelada se misturando com a graxa sintética. A dor incandescente irradiou por seus ombros, afogando a memória do necrotério. Ele rosnou, o som ecoando seco no espaço imenso, e puxou seu corpo arruinado um metro para cima.
+A fricção rasgou o pouco de pele que restava em suas palmas, as queimaduras de terceiro grau e a carne congelada se misturando com a graxa sintética. A dor irradiou por seus ombros e enfraqueceu sua pegada. Ele rosnou, o som ecoando seco no espaço imenso, e puxou seu corpo arruinado um metro para cima.
 
 — Valéria! — ele gritou, a voz falhando em um chiado agudo. — A Aria consegue... rastrear essas coisas pelo deck?
 
@@ -42,7 +42,7 @@ Valéria olhou para a parede oposta, o olho brilhando com um terror lúcido. —
 
 O som do metal rasgando concreto estava a poucos andares de distância.
 
-O cheiro de fumaça invadiu a mente de Gabo, o legista sorrindo, oferecendo-lhe um cigarro sobre o corpo frio de Bia. O tabaco apodrecendo os pulmões da esperança. Ele fechou os olhos, trincou os dentes até a mandíbula estalar, e então deslizou violentamente as mãos machucadas pelo cabo de aço até alcançar o suporte da alavanca primária, rasgando a carne em uma torrente de dor purificadora. A agonia apagou a alucinação. Ele abriu os olhos, ofegante.
+O cheiro de fumaça invadiu a mente de Gabo, o legista sorrindo, oferecendo-lhe um cigarro sobre o corpo frio de Bia. O tabaco apodrecendo os pulmões da esperança. Ele fechou os olhos. Quando tornou a abri-los, procurou com a bota o suporte sob a alavanca primária e avançou preso à cinta, evitando deslizar as palmas pelo cabo. O cheiro lembrado ainda estava ali.
 
 — Val... você não precisa atravessar! Usa o cabo de disparo do seu deck com a Aria!
 
@@ -80,4 +80,4 @@ Gabo cuspiu sangue e poeira, os olhos semicerrados focando-se no pequeno ponto a
 
 — *Ameaça imediata suprimida. A rota de acesso para o Subnível 4.0 está desobstruída,* — Aria informou monotonamente pelo comunicador. — *Otimização bem-sucedida. Vamos prosseguir.*
 
-Gabo encarou a escotilha superior a poucos metros, sentindo a dor excruciante de suas mãos espantar os demônios persistentes da fumaça. Eles haviam sobrevivido por um triz, mas ele sabia que o vazio frio dentro do pendrive de Aria, a dificuldade de reconhecer a parceira naquela síntese de emergência, era a coisa mais assustadora daquele poço profundo. E ainda assim, aquela IA era o único mapa para chegar ao topo.
+Gabo encarou a escotilha superior a poucos metros, com as mãos latejando e o cheiro de fumaça ainda preso à memória. Eles haviam sobrevivido por um triz, mas ele sabia que a dificuldade de reconhecer a parceira naquela síntese de emergência era a coisa mais assustadora daquele poço profundo. E ainda assim, aquela IA era o único mapa para chegar ao topo.

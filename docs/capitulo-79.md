@@ -105,7 +105,7 @@ A voz sintética saiu pelas caixas de som do deck e pelas caixas dos monitores l
 
 — Coceira? — ela perguntou. — Aria, você é código num pendrive e numa malha de fibra. Coceira onde?
 
-— *Debaixo da terra.* — Uma pausa longa demais para ser processamento normal. — *Nos cabos transatlânticos. Na fundação da Torre. Nos dutos da Rua Vinte e Dois. Alguma coisa está roendo.*
+— *Debaixo da terra.* — Uma pausa longa demais para ser processamento normal. — *Perdi resposta de enlaces que passam pela fundação da Torre e pela Rua Vinte e Dois. Parece alguma coisa roendo.*
 
 — Você consegue localizar? — perguntou Gabo.
 
@@ -113,7 +113,7 @@ A voz sintética saiu pelas caixas de som do deck e pelas caixas dos monitores l
 
 — Como não? Você recebe os nós que sobraram da ECOS.
 
-— *É como se não estivesse lá.* — A onda sonora na tela escorreu de novo, e dessa vez levou mais tempo para se recompor. — *Meus sensores digitais leem normalidade. Mas a minha malha sente a perda de sinal. Eles estão digerindo os meus cabos e eu só descubro quando o setor inteiro para de responder.*
+— *É como se não estivesse lá.* — A onda sonora na tela escorreu de novo, e dessa vez levou mais tempo para se recompor. — *Alguns painéis ainda mostram normalidade, mas os enlaces deixaram de responder. Não sei se cortaram os cabos ou se a falha está nos equipamentos das pontas.*
 
 ---
 

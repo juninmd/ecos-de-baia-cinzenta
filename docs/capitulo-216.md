@@ -11,7 +11,7 @@ A descida pela garganta de rocha da cidade parecia uma queda livre em câmera le
 
 O vento frio que subia do poço não tinha cheiro de lodo ou esgoto; era um sopro mineral, seco e gélido, com o odor metálico de poeira antiga e chumbo estagnado. A gaiola descia rápido demais para os ouvidos acompanharem; a cada dez metros meus tímpanos estalavam com uma pontada que subia até a raiz do dente.
 
-Apoiei as costas contra as grades de proteção da gaiola, segurando o corrimão central com as garras de ferro da armação instalada por Vasco para alinhar a fratura do braço. A vibração das sapatas de freio ricocheteava pela estrutura e subia pela minha coluna, arrancando espasmos da musculatura lacerada do ombro que continuava sangrando sob as ataduras sujas. Lembro de provações parecidas no Dilúvio, quando a água negra engoliu os distritos e tanta gente morreu afogada nos túneis; desde a queda da Torre Aeterna neste ano, a cidade vinha quebrando nossos corpos em pedaços, deixando cicatrizes que nunca mais se apagariam. Mas a agonia física me mantinha lúcido, focado na descida e na proteção de quem ainda estava comigo.
+Apoiei as costas contra as grades de proteção da gaiola, segurando o corrimão central com as garras de ferro da armação instalada por Vasco para alinhar a fratura do braço. A vibração das sapatas de freio ricocheteava pela estrutura e subia pela minha coluna, arrancando espasmos da musculatura lacerada do ombro que continuava sangrando sob as ataduras sujas. Lembro de provações parecidas no Dilúvio, quando a água negra engoliu os distritos e tanta gente morreu afogada nos túneis; desde a queda da Torre Aeterna neste ano, a cidade vinha quebrando nossos corpos em pedaços, deixando cicatrizes que nunca mais se apagariam. A dor e o ruído se misturavam; precisei pedir a Val que repetisse a distância.
 
 Elias estava sentado no piso de ripas de aço, com os braços entrelaçados nas próprias pernas e a cabeça encostada nos joelhos. O garoto respirava em arfadas curtas e rápidas, lutando contra a náusea do movimento e da mudança de pressão. O medo do rapaz era legítimo: estávamos caindo no centro da terra, onde a luz do dia nunca havia tocado e onde o silêncio guardava os segredos dos fundadores.
 
@@ -21,7 +21,7 @@ Elias estava sentado no piso de ripas de aço, com os braços entrelaçados nas 
 
 — E a gaiola aguenta essa descida toda? — perguntei, observando o cabo de aço trançado de duas polegadas vibrar como uma corda de contrabaixo gigante sobre nossas cabeças.
 
-— A gaiola aguenta, Moretti, — ela respondeu com um sorriso de canto que desafiava a escuridão. — Desde que esses trilhos centenários não decidam se soltar da rocha antes de chegarmos na plataforma de serviço. Mas se você quiser descer a pé pela escada de emergência na parede, eu posso puxar a alavanca de emergência e te deixar aí no vácuo.
+— O freio segurou no teste curto, Moretti, — ela respondeu. — Isso não garante o cabo nem os trilhos até o fundo. Mas se você quiser descer a pé pela escada de emergência na parede, eu posso puxar a alavanca de emergência e te deixar aí no vácuo.
 
 — Deixa a alavanca quieta, Val, — resmunguei, soltando uma risada rouca que terminou em uma tosse seca provocada pela poeira do poço. — Já passei tempo demais pendurado em cabos esta semana pra querer repetir a dose.
 

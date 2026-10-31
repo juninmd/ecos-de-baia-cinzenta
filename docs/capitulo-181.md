@@ -7,7 +7,9 @@ Personagens Presentes: Gabo, Valéria, "O Guardião" (Fantasma)
 
 # Capítulo 181: Pedágio Fantasma
 
-A escuridão dos dutos de escoamento não era silenciosa; ela mastigava o som dos nossos passos e o cuspia de volta como um eco difuso e distorcido. Atrás de nós, a câmara com as vítimas assimiladas pelo Jardim ficava cada vez mais distante, um pesadelo deixado na umidade sufocante do esgoto. Mas o rastro de podridão parecia nos seguir, colado à sola das botas e impregnado na lã encharcada do meu sobretudo.
+- Parou - a voz de Valéria soou seca. Ela puxou a gola do meu casaco, me fazendo estancar antes da curva.
+
+Atrás de nós, a câmara com as vítimas assimiladas pelo Jardim ficava cada vez mais distante, um pesadelo deixado na umidade sufocante do esgoto. Mas o rastro de podridão parecia nos seguir, colado à sola das botas e impregnado na lã encharcada do meu sobretudo. A escuridão dos dutos mastigava o som dos nossos passos e o cuspia de volta como um eco difuso e distorcido.
 
 O túnel afunilou bruscamente cem metros adiante. O lodo escorregadio deu lugar a um piso seco de placas de ferro perfurado, onde o ar cheirava a ferrugem fresca, óleo mineral e lixo queimado em latão de tinta.
 

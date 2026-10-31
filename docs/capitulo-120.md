@@ -1,4 +1,5 @@
 ---
+image: /cenas/capitulo_120/cena_4.jpg
 title: "Capítulo 120: O Silêncio de Aeterna"
 Data In-Game: "23 de Novembro, 00:15"
 Localização: "Distrito Industrial - Perímetro Externo da Usina Prometeu"
@@ -7,7 +8,7 @@ Personagens Presentes: "Gabo Moretti, Valéria Cruz, Inspetor Rangel, Aria (Iner
 
 # Capítulo 120: O Silêncio de Aeterna
 
-A chuva não era mais apenas água. Era um véu frio que lavava o pecado da cidade, transformando a fuligem em lama negra sob suas botas.
+A chuva lavava a fuligem das paredes do Distrito Industrial e transformava o chão em lama negra sob as botas.
 
 Gabo ajustou o peso de Rangel sobre seu ombro. O Kevlar ensanguentado do inspetor estava escorregadio. Do outro lado, Valéria ofegava, o cabelo colado no rosto, lutando para sustentar o braço direito do policial enquanto o pendrive inerte de Aria seguia no estojo de ferramentas preso à mochila dela. Eles eram um cortejo fúnebre recusando-se a aceitar o pior, arrastando um homem ferido pela avenida deserta.
 
@@ -25,7 +26,7 @@ Gabo e Valéria pararam, amparando Rangel com cuidado contra um poste apagado.
 
 — É longe... o suficiente — Rangel riu, e o som foi um gorgolejo. — Sem med-evac. Sem sinal. Estamos no século vinte de novo, Moretti.
 
-O palito continuava no canto da boca dele, torto, e era a coisa mais absurda que Gabo tinha visto naquela noite. Valéria se ajoelhou do outro lado e puxou o Kevlar para cima com dois dedos, sem comentar o cheiro. A bandagem improvisada já estava escura de borda e o sangue tinha um brilho espesso, de coisa que não devia estar fora do corpo.
+A boca dele estava vazia, sem o palito de sempre, e era a coisa mais absurda que Gabo tinha visto naquela noite. Valéria se ajoelhou do outro lado e puxou o Kevlar para cima com dois dedos, sem comentar o cheiro. A bandagem improvisada já estava escura de borda e o sangue tinha um brilho espesso, de coisa que não devia estar fora do corpo.
 
 — Você vai ficar de pé — ela disse. Não era promessa; era instrução. — A gente não vai te carregar como saco de batata até o Fliperama.
 
@@ -37,7 +38,7 @@ Gabo olhou ao redor. A escuridão era absoluta, quebrada apenas pelos relâmpago
 
 — Ela tem razão — Gabo se levantou. Seus dedos tamborilaram nervosamente contra a coxa, o tique antigo disparando enquanto a lembrança traumática da fumaça da Usina ainda arranhava sua garganta.
 
-Ele fechou os olhos e apertou o *Colar de Sol* contra o esterno, logo acima do bolso onde repousava o drive silencioso da Aria. A queimadura fria do metal foi um lembrete: *Dor é realidade. Desespero é fuga.*
+Ele fechou os olhos e apertou o *Colar de Sol* contra o esterno, logo acima do bolso interno do sobretudo. A queimadura fria do metal foi um lembrete: *Dor é realidade. Desespero é fuga.*
 
 Ele abriu os olhos. Focou.
 

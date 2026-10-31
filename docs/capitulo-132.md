@@ -19,9 +19,9 @@ Gabo grunhiu em resposta. O ar denso e irrespirável trazia à tona a memória s
 
 No deck de Valéria, o pendrive blindado de Aria processava o feixe infravermelho do visor de Valéria. O pequeno LED na lateral do drive alternava entre o azul tático e um âmbar febril.
 
-— *Há estruturas à frente. A penumbra come o contorno.* — avisou Aria pelo canal restrito de áudio. Val acendeu a lanterna química.
+*Há estruturas à frente, mas não consigo distingui-las na penumbra*, escreveu Aria no visor. Val acendeu a lanterna química.
 
-Gabo evitou olhar para o LED piscando no próprio peito. O fone chiou; Gabo conferiu se o canal de reprodução continuava bloqueado.
+Gabo conferiu o indicador no comunicador: a saída de voz continuava bloqueada. No pulso de Val, o LED do pendrive piscava.
 
 As paredes do túnel se abriram em uma vasta câmara circular. O teto desaparecia na escuridão, sustentado por pilares que não eram feitos de concreto, mas de... material reciclado. Gabo levantou sua lanterna química, a luz verde e doente revelando o horror.
 
@@ -31,7 +31,7 @@ Dezenas delas. Corpos humanos, ou o que restava deles, fundidos com sucata indus
 
 Eram os rascunhos. As falhas. O lixo do ateliê do Taxidermista.
 
-— *"A carne é efêmera, mas a arte é eterna"* — Aria citou pelo fone, enquanto o scanner óptico do comunicador focava uma escultura que parecia um homem tentando escapar de uma banheira de concreto. — *A frase está na placa da base. Registrei como citação do ateliê, não como descrição das pessoas que ele matou.*
+O comunicador enquadrou a placa junto a uma escultura que parecia um homem tentando escapar de uma banheira de concreto. Aria transcreveu: *A carne é efêmera, mas a arte é eterna.* Em seguida, acrescentou: *Citação do ateliê. Não é uma descrição das pessoas que ele matou.*
 
 — Cale a boca — Gabo rosnou, puxando a maca com força. O corpo de Rangel gemeu, um som gorgolejante de dor inconsciente.
 
@@ -53,13 +53,13 @@ Uma das esculturas se moveu.
 
 Não era uma máquina elegante como os drones da Aeterna, nem um ciborgue militar como Roberto Miranda. Era algo quebrado. Uma figura alta, composta por ossos de pernas alongados com vergalhões, arrastou-se para fora das sombras. Não tinha rosto, apenas uma placa de cerâmica branca onde deveria estar a face, pintada com um sorriso grosseiro de batom vermelho.
 
-— *Há movimento e calor na galeria* — avisou Aria. — *O que se aproxima não bate com nenhuma assinatura do meu catálogo.*
+*Há movimento e calor na galeria*, avisou Aria no visor. *Não consigo identificar o que está se aproximando.*
 
 A Coisa avançou. Movia-se aos trancos, as articulações rangendo, mas era rápida. Um braço terminava em uma lâmina de ceifadeira enferrujada.
 
-— Valéria, cuide do Rangel — Gabo ordenou, girando a faca na mão. — Aria, joga a telemetria de combate no meu áudio!
+— Valéria, cuide do Rangel — Gabo ordenou, girando a faca na mão. — Aria, mostra o que conseguir no visor!
 
-— A câmera perdeu a perna direita do alvo — disse Aria. — Recue até conseguir mostrá-la; eu não vejo através do seu corpo.
+*A câmera perdeu a perna direita do alvo*, escreveu Aria. *Recue até conseguir mostrá-la; eu não vejo através do seu corpo.*
 
 — Você consegue ler o apoio dessa coisa? Lê os pontos fracos dessa coisa agora!
 
@@ -71,7 +71,7 @@ Gabo abaixou-se, o cheiro de óleo rançoso e carne podre enchendo suas narinas.
 
 Os dedos de metal apertaram o ombro de Gabo, esmagando o tecido do sobretudo e mordendo a carne. Gabo grunhiu, a dor branca explodindo em seu braço.
 
-— *Analisando padrão de ataque pela câmera do seu comunicador* — Aria disse no fone, entre cortes de áudio. — *O centro de gravidade dele é instável, Gabo. A perna direita. O pistão hidráulico está vazando pressão.*
+O visor destacou a perna direita da criatura. *Pistão vazando*, escreveu Aria. *O apoio pode ceder.*
 
 — Finalmente... algo útil! — Gabo gritou, chutando o peito da criatura. Parecia chutar uma parede de tijolos.
 
@@ -89,9 +89,9 @@ Gabo montou nas costas da criatura, recuperou sua faca e a enterrou na base do p
 
 Silêncio. Apenas a respiração ofegante de Gabo e o som de Valéria prendendo o curativo sobre o ferimento de Rangel.
 
-Gabo se levantou, limpando a faca na calça. No seu colarinho, o LED âmbar do pendrive da Aria piscou suavemente.
+Gabo se levantou, limpando a faca na calça. O visor do comunicador acendeu no colarinho.
 
-— *Boa execução, Gabo* — disse Aria no fone dele. — *Sua guarda estava baixa. Na próxima vez preciso que confirme o que está fora da câmera.*
+*Sua guarda estava baixa*, escreveu Aria. *Na próxima vez preciso que confirme o que está fora da câmera.*
 
 Gabo tocou o pequeno drive de titânio preso ao comunicador, falando baixo no microfone.
 

@@ -30,11 +30,11 @@ O ozônio limpo a cinco graus adoçou-se, tornando-se rançoso e amarelo. A fuma
 A náusea atingiu Gabo na boca do estômago com a força de um gancho. A asfixia era real para a sua mente alucinada; ele arfou em desespero cego, cambaleando para a direita enquanto o Sentinel avançava inexorável. A repulsa pelo cheiro do cinzeiro paterno o aprisionava mais rápido do que a máquina de doze toneladas.
 
 Ele não vai me sufocar de novo.
-Gabo girou o tronco dolorido. Ignorando a máquina de morte que ganhava velocidade pelo corredor central, ele mirou a quina de aço negro de um gabinete de arquivos inativo. Com um urro gutural, o detetive chocou violentamente o braço direito quebrado, protegido apenas por talas de emergência e ataduras ensanguentadas, contra a aresta aguda do metal congelado.
+Gabo girou o tronco em direção à quina de um gabinete. Quis bater o braço ali, como se uma dor mais forte pudesse calar a lembrança. Antes que alcançasse o metal, Val segurou a cinta da prancha e chamou seu nome.
 
-A madeira improvisada e as faixas cederam, e os ossos fraturados estalaram numa torção violenta. O impacto mandou uma labareda branca, pura e implacável de agonia elétrica através de suas terminações nervosas direto para a medula.
+Ele parou com a tala a um palmo da quina. A mão esquerda tremia; apoiou-a na parede e esperou até conseguir localizar Val pelo som.
 
-A névoa nauseante do tabaco fantasma evaporou em um milionésimo de segundo, dissipada pelo raio incandescente da dor física. O ozônio cortante e frio voltou. Gabo arfou ruidosamente, os olhos lacrimejando enquanto o gosto metálico do próprio sangue suplantava o asco. A realidade, cruel e lúcida, ancorou suas botas no linóleo.
+O cheiro não desapareceu. O ozônio do arquivo vinha por baixo dele, e o atrito das esteiras crescia no corredor. Val puxou a cinta uma vez para indicar onde estava.
 
 — Tá perto — murmurou Gabo, ofegante, debruçado sobre a quina de metal enquanto a pulsação frenética do braço fraturado martelava em sua mente. — E não tá convidando a gente pra um café.
 
@@ -66,7 +66,7 @@ Era uma porta de diagnóstico primária cravada na lateral do corredor, ligada d
 
 Valéria arregalou os olhos, olhando do terminal empoeirado para o módulo blindado em seu antebraço.
 
-— Você tá louco, Gabo?! Se eu plugar o pendrive da Aria direto no barramento de força do Arquivo sem o filtro do meu deck, ela vai receber a descarga bruta do mainframe do Sentinel! — a voz de Valéria tremeu em puro horror tático. — A carcaça de titânio dela não tem dissipador térmico pra aguentar um duelo de força bruta contra uma usina de doze toneladas! Isso vai fritar o silício dela por dentro!
+— Você tá louco, Gabo?! Se eu plugar o pendrive da Aria direto no barramento de força do Arquivo sem o filtro do meu deck, ela vai receber a descarga bruta do mainframe do Sentinel! — a voz de Valéria tremeu em puro horror tático. — Os dissipadores dela não têm capacidade pra aguentar um duelo de força bruta contra uma usina de doze toneladas! Isso vai fritar o silício dela por dentro!
 
 — *Valéria Cruz está correta,* — Aria interveio friamente pelo alto-falante, como se estivessem discutindo um cálculo contábil e não sua própria aniquilação térmica. — *A capacidade de processamento do núcleo do Sentinel supera meu limitador de segurança lógica. Injetar minha matriz neural diretamente na porta do terminal exigirá a desativação do meu firewall periférico de contenção térmica para inundar os barramentos corporativos pela raiz física. A porta combina dados e teste de potência. Minha proteção já está avariada. Se eu sustentar o comando de autopurga enquanto ele tenta cortar o enlace, o retorno pode destruir o núcleo. Isso não depende de eu calcular mais rápido que doze toneladas de blindagem.*
 

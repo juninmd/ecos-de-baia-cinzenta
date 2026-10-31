@@ -15,7 +15,7 @@ Na minha boca, o sabor metálico de sangue misturava-se à poeira cáustica. A d
 
 O gás subiu em coluna e achou meu rosto antes que eu pudesse virar. Ardência de agulha nas narinas, os olhos fechando sozinhos, a garganta fechando junto. Cuspi de lado e o cuspe saiu esverdeado no gradeamento.
 
-A névoa congelou na armação em cristais brancos que estalavam a cada movimento do meu pulso. O metal ficou tão frio que a sensação atravessou os nós neurais e virou queimadura seca, daquelas que a gente só descobre horas depois, quando a pele já soltou.
+A névoa congelou na armação em cristais brancos. O frio atravessou a faixa e alcançou minha pele; recuei a mão sem saber quanto dano tinha feito sob o curativo.
 
 Instantaneamente, a câmara reagiu como uma besta ferida.
 
@@ -25,7 +25,7 @@ Lembrei de cada homem e mulher que vi morrer nos esgotos desde o Dilúvio. Toda 
 
 Sem a refrigeração forçada, a temperatura dos circuitos começou a subir a uma velocidade que nenhum dissipador acompanhava. O calor escaldante expulsou a umidade, transformando o salão num forno crematório.
 
-Um dos doadores acordou de verdade nos últimos segundos. Não os olhos, que estavam abertos desde sempre. A boca. Ele moveu os lábios sem som, duas vezes, e o que eu li foi um nome ou uma pergunta, e nunca vou saber qual dos dois.
+Um dos homens moveu os lábios sem som, duas vezes. Podia ser um espasmo ou uma tentativa de falar; o que eu quis ler foi um nome ou uma pergunta, e nunca vou saber qual dos dois.
 
 — Vai — falei, sem saber se ele ouvia. — Tá quase.
 

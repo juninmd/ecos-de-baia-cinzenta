@@ -24,7 +24,7 @@ Debaixo d'água o frio não avisa. Entra pelas costuras do colete e depois pelas
 
 Val apontou para cima. A luz da superfície estava ficando distante. O nível da água subia rápido demais, preenchendo a cúpula da represa.
 
-Gabo olhou para o pedestal de interface lá embaixo. O slot central estava vazio; os cabos de fibra óptica flutuavam desconectados, soltando faíscas azuis no líquido.
+Gabo olhou para o pedestal de interface lá embaixo. O slot central estava vazio; as fibras ópticas flutuavam desconectadas junto de fios elétricos rompidos. Um contato faiscou por um instante antes de apagar.
 
 Val bateu no bolso blindado do colete dele, confirmando que o drive da Aria estava seguro, e apontou novamente para cima. A passagem de manutenção junto da porta, acima do piso mais baixo da cabine.
 
@@ -45,7 +45,7 @@ O CP-Z soltou o arpão. Ele agarrou Gabo e Val com gentileza surpreendente e ati
 
 Alcançaram a plataforma de saída junto do canal externo da represa. A chuva caía torrencialmente, misturando-se à água do lago.
 
-O robô os depositou na margem de concreto e depois afundou, imóvel.
+O robô os depositou na margem de concreto e depois afundou, imóvel. Val soltou do cinto a correia da Caronte, que trouxera presa desde a cabine, e deixou a arma junto de Gabo.
 
 Gabo ficou olhando a máquina descer até as luzes virarem um ponto e sumirem. Val tinha usado uma autorização que eles mal compreendiam para tirar os dois dali. Ele queria saber quem mais podia usá-la.
 

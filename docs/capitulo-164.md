@@ -19,7 +19,7 @@ Valéria foi a primeira a pisar fora da plataforma. Seus coturnos levantaram peq
 
 — Limpo — murmurou ela, a voz saindo áspera. O cansaço pesava em seus ombros como uma armadura de chumbo. — Parece um túmulo.
 
-Gabo forçou-se a seguir, cada passo uma negociação brutal com a dor. O curativo no abdômen e a tala do braço quebrado puxavam a cada passo. Ele sentia os ossos partidos e as mãos em carne viva latejando sob as ataduras, em uma agonia em surdina. O cheiro nauseante de fumaça de cigarro, azedo e pegajoso, ameaçou invadir suas narinas novamente, mas ele trincou os dentes e apertou os músculos ao redor da fratura, invocando a dor aguda para expulsar o espectro.
+Gabo forçou-se a seguir, cada passo uma negociação brutal com a dor. O curativo no abdômen e a tala do braço quebrado puxavam a cada passo. Ele sentia os ossos partidos e as mãos em carne viva latejando sob as ataduras, em uma agonia em surdina. O cheiro nauseante de fumaça de cigarro, azedo e pegajoso, ameaçou invadir suas narinas novamente, e ele tentou firmar o braço junto ao corpo. A dor não afastou o cheiro.
 
 *O cheiro do velho.* A lembrança do escritório de Dante o enojava visceralmente. Ele não deixaria aquela alucinação dominá-lo, mesmo que custasse cada fibra de sanidade que lhe restava.
 

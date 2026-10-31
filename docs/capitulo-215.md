@@ -9,7 +9,7 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 O silêncio do Hub Principal pesava como chumbo derretido sobre os nossos ombros. As palavras de Valéria continuavam suspensas no ar filtrado, frias e incontestáveis, ecoando entre as colunas de servidores adormecidos: *a porta dos fundos para o porão do inferno*.
 
-Ajustei a jaqueta de sarja manchada sobre o peito, sentindo o peso da armação mecânica de sucata que Vasco parafusara no meu osso para travar a fratura. O músculo esfolado latejava em um ritmo surdo e constante sob as ataduras, onde ferimentos recentes continuavam sangrando em silêncio. As cicatrizes do Dilúvio queimavam como se o tempo não tivesse passado desde que a Torre Aeterna desabou e metade da cidade morreu afogada sob a lama ácida. Perdi amigos, quase perdi o braço e quase perdi o juízo, mas a dor física era um preço que eu já me acostumara a pagar; ela mantinha meus sentidos alertas, arrancando qualquer vestígio de fraqueza antes que o abismo pudesse nos engolir.
+Ajustei a jaqueta de sarja manchada sobre o peito, sentindo o peso da armação mecânica que Vasco acoplara ao fixador instalado pela equipe. O músculo esfolado latejava em um ritmo surdo e constante sob as ataduras, onde ferimentos recentes continuavam sangrando em silêncio. As cicatrizes do Dilúvio queimavam como se o tempo não tivesse passado desde que a Torre Aeterna desabou e metade da cidade morreu afogada sob a lama ácida. Perdi amigos, quase perdi o braço e quase perdi o juízo. Precisei parar para ajustar o arnês antes de seguir.
 
 Caminhamos em direção ao quadrante nordeste do salão com passos medidos. A cada passada, minha órtese quebrou a rigidez do silêncio com um ruído áspero de ferro desgastado. O pé direito pousava de chapa, o esquerdo procurava o chão como quem desce uma escada no escuro, e a assimetria cobrava juros no quadril a cada metro. Ali, afastada das baias de computação, uma imensa escotilha circular de aço naval repousava chumbada diretamente na laje de concreto usinado.
 
@@ -47,7 +47,7 @@ Na mesma hora, Valéria girou a válvula mestre da escotilha.
 
 O ar comprimido escapou com um rugido ensurdecedor de descompressão, soltando uma lufada de vento gelado, límpido e seco que subiu das profundezas da terra. O cheiro era puramente mineral: rocha vulcânica antiga, basalto fraturado e a umidade silenciosa de cavernas seladas há milhões de anos. Não havia o fedor de lixo da superfície, nem o cheiro de óleo queimado das fábricas da Aeterna. Era o hálito da terra nua, anterior a qualquer pecado construído pelo homem.
 
-A tampa de aço ergueu-se sobre pistões pneumáticos, revelando a boca do poço vertical e a gaiola de manutenção de ferro forjado, cujas grades enferrujadas estavam prontas para nos engolir.
+A tampa de aço ergueu-se sobre pistões pneumáticos, revelando a boca do poço e a gaiola de manutenção. Elias pediu que deixássemos a plataforma vazia e acionou o teste por um trecho curto. O regulador acionou as sapatas e a gaiola parou; ele rearmou o mecanismo e verificou o freio manual antes de recolhê-la. O ensaio não mostrava o estado interno do cabo.
 
 — Plataforma posicionada e pronta para embarque, — Valéria anunciou, passando a alça do cyberdeck pelo peito e sacando sua pistola curta com movimentos metódicos. — Última chamada pro expresso do subsolo profundo. Quem ficar pra trás perde o apocalipse.
 

@@ -7,11 +7,9 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 # Capítulo 194: O Preço da Manutenção
 
-Elias nos conduziu veloz através do labirinto de transformadores inativos da Subestação B. O piso de concreto vibrava com um tremor rítmico, os reflexos das explosões distantes no data-center subindo pelas paredes como relâmpagos mecânicos abafados.
+Elias escolheu sair conosco. Recolheu a chave, uma cinta de manutenção enrolada e o óleo de sua bancada antes de nos conduzir pelo labirinto de transformadores inativos da Subestação B. O piso de concreto vibrava com um tremor rítmico, os reflexos das explosões distantes no data-center subindo pelas paredes como relâmpagos mecânicos abafados.
 
-O ar cheirava a poeira metálica aquecida, enxofre e graxa velha, deixando aquele gosto amargo e azedo de fuligem no fundo da garganta. A cada passada pesada, a órtese da minha perna direita rangia alto, mas a dor no meu braço fraturado me mantinha alerta, focado no mapa que Elias desdobrava mentalmente à nossa frente.
-
-Lembrei de cada túnel de fuga que cruzei com o comissariado nos anos anteriores; quando a infraestrutura de Baía Cinzenta resolvia cobrar a conta da negligência, ela nunca deixava troco.
+O ar cheirava a poeira metálica aquecida, enxofre e graxa velha, deixando aquele gosto amargo e azedo de fuligem no fundo da garganta. A cada passada pesada, a órtese da minha perna direita rangia alto, e o braço fraturado doía a cada mudança de direção. Eu precisava que Elias repetisse as instruções quando o apito no ouvido esquerdo cobria sua voz.
 
 — A torre principal de exaustão perdeu a pressurização quando vocês romperam os dutos de amônia lá embaixo — Elias explicava num sussurro esganiçado, correndo com as costas curvadas e olhando para trás a cada dez passos. — O fogo do núcleo tá sugando o oxigênio do fosso mestre. Se a gente tentar subir pelos poços normais de elevador, o ar superaquecido cozinha nossos pulmões antes do terceiro lance de escadas.
 
@@ -21,7 +19,7 @@ Elias engoliu seco, os dedos encardidos apertando a alça da máscara de respira
 
 — Conheço um duto, mas não sei quanto tempo a estrutura aguenta.
 
-— Então para de enrolar e mostra logo a galeria de escape — comentei, ajustando o correame de *Caronte* por baixo do sobretudo rasgado.
+— Mostra o caminho — pedi, ajustando o correame de *Caronte* por baixo do sobretudo rasgado.
 
 Elias virou à esquerda num corredor de paredes espessas de chumbo, parando diante de uma escada helicoidal de ferro fundido que subia em direção ao teto abobadado.
 
@@ -37,19 +35,17 @@ No patamar superior, a escotilha circular estava lacrada por uma válvula mecân
 
 Valéria encostou a mão enluvada no volante, tentando forçar a rotação no sentido horário. O metal nem sequer vibrou.
 
-— Tá congelada — ela praguejou entre dentes, os LEDs da franja piscando em vermelho de advertência. — O salitre soldou as roscas do fuso. Se a gente tentar puxar na força bruta seca, o volante se parte e a trava interna sela o duto pra sempre.
+— Tá congelada — ela praguejou entre dentes, os LEDs da franja piscando em vermelho de advertência. — A rosca parece presa pela corrosão. Se a gente forçar de uma vez, pode quebrar o volante e perder o acionamento.
 
 — Deixa eu tentar com o torque da armação — dei um passo à frente, erguendo a estrutura industrial pesada.
 
-— Espera, Moretti! — Valéria bateu com a palma da mão no meu peito de ferro, me empurrando para trás com autoridade técnica. — Se você engatar os vinte quilos desse pistão no volante travado sem soltar a ferrugem primeiro, você estoura a bucha do seu ombro de novo e a gente fica preso aqui com um detetive sem braço funcional. Elias, me passa essa sua chave sônica agora!
+— Espera, Moretti! — Valéria pôs a mão direita na armação para me deter. — Se forçar de uma vez, pode quebrar o volante ou puxar seu fixador. Elias, como você trabalhava nessa rosca?
 
-O técnico piscou atônito, mas entregou a ferramenta adaptada nas mãos dela.
+— Com óleo e vibração curta — disse Elias. — Nunca consegui força para terminar o giro sozinho.
 
-Valéria engatou uma presilha jacaré na base da bobina da ferramenta e ligou o outro terminal diretamente na saída de energia auxiliar do cyberdeck.
+Ele mostrou a conexão gasta da chave. Valéria ofereceu a saída auxiliar do deck; Elias aceitou e acompanhou enquanto ela prendia a presilha.
 
-— O que você vai fazer com a minha chave, garota? — Elias chiou, aflito.
-
-— Vou salvar a sua pele, mecânico — ela ajustou a frequência de oscilação do circuito. — Ressonância acústica de alta frequência. Se eu aplicar a vibração sônica direto no cubo da rosca enquanto você joga solvente penetrante, a onda quebra os cristais de óxido sem empenar o aço. Elias, borrifa o óleo nas ranhuras! Agora!
+— Vamos tentar soltar a rosca antes de pôr peso nela — disse Val. — Se o metal ceder ou aquecer demais, a gente para.
 
 Elias sacou uma lata amassada de desengripante industrial do cinto e esguichou um jato espesso sobre o fuso oxidado.
 
@@ -57,7 +53,7 @@ Valéria encostou a ponta da chave sônica no centro da porca mestre e acionou o
 
 Um zumbido agudo, quase imperceptível ao ouvido humano mas doloroso nos dentes, ecoou pela câmara. O metal do volante começou a vibrar violentamente, e uma nuvem fina de ferrugem avermelhada se esfarelou das ranhuras da rosca, borbulhando junto com o óleo penetrante.
 
-— A rosca soltou! — Valéria gritou, desligando a ferramenta antes que a bobina derretesse de calor. — Agora é com você, Gabo! Vira no sentido anti-horário com tudo que essa sucata de cais tiver!
+— Mexeu um pouco — disse Elias, tocando o volante depois que Val desligou a ferramenta. — Tenta devagar, Gabo. Se a roda entortar, larga.
 
 Aproximei-me da plataforma, posicionei minhas botas nas travessas de ferro e envolvi a roda com a garra mecânica da armação. Travei os motores hidráulicos no limite máximo de compressão. Meus dentes bateram, o fixador repuxou meu braço ferido quando forcei o giro com o peso do meu tronco inteiro como alavanca.
 
@@ -68,10 +64,10 @@ Mais um tranco. As engrenagens internas estalaram, liberando o contrapeso de dua
 
 Uma corrente de ar fresco, sem fumaça e sem calor, soprou contra nossos rostos suados.
 
-Valéria soltou uma gargalhada limpa e vitoriosa, guardando a chave sônica no cinto de Elias com um tapinha no ombro dele.
+Valéria devolveu a chave a Elias. Ele conferiu a bobina antes de guardá-la no cinto.
 
-— Quem disse que força bruta e código não se misturam? — ela olhou para mim, os olhos prateados brilhando de adrenalina pura. — Belo trabalho de arrombamento, Moretti.
+— Belo trabalho — ela disse, olhando primeiro para Elias e depois para mim.
 
-— Belo trabalho de ressonância, Cruz — retruquei, recuperando o fôlego enquanto flexionava os dedos mecânicos para aliviar a tensão hidráulica. — Agora vamos entrar antes que essa subestação desmorone de vez.
+— Obrigado pela chave, Elias — falei, recuperando o fôlego enquanto aliviava a pressão da garra. — Agora vamos entrar antes que essa subestação desmorone de vez.
 
 Elias foi o primeiro a saltar para dentro do duto, seguido por Valéria e por mim. Selamos a escotilha às nossas costas bem no instante em que o piso inferior da subestação colapsava num rugido de fogo e concreto triturado, deixando para trás a sepultura do Jardim e avançando firmes rumo ao coração do Setor 6.

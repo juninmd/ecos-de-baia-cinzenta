@@ -90,4 +90,4 @@ Gabo deixou a cabeça cair para trás, olhando para o abismo fumegante lá no al
 
 Ele ergueu o que restava dos braços para Valéria.
 
-— Me ajude a levantar, — disse Gabo, a fúria silenciosa mais uma vez endurecendo seu maxilar. — Ainda não chegamos no topo. A caçada não acabou.
+- Me ajude a levantar, - disse Gabo, a fúria silenciosa mais uma vez endurecendo seu maxilar. - Ainda não chegamos no topo.

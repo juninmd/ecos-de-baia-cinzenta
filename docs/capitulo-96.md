@@ -65,7 +65,7 @@ Gabo apertou o cilindro. O titânio já estava quente o bastante para doer.
 
 — Acha outro caminho.
 
-— Não encontrei outro caminho no tempo que temos. — A voz dela ficou firme. — Vou ficar surda. Não é o mesmo que morrer.
+— Não encontrei outro caminho no tempo que temos. — A voz dela ficou firme. — Posso perder esta saída de voz. Não é o mesmo que morrer.
 
 — Aria.
 

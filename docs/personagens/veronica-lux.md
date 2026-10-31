@@ -9,6 +9,7 @@
 * **Olhos:** Violeta (Lentes cosméticas de marca).
 * **Marcas Distintivas:** A voz. Uma voz modulada para inspirar confiança e submissão.
 * **Vestuário:** Roupas de âncora futurista, cores vibrantes que contrastam com o cinza da cidade.
+* **Prompt Visual:** a gorgeous 25 year old news anchor woman, model build, perfect golden blonde hair, striking violet eyes, vibrant futuristic corporate broadcast blazer, holographic studio background
 * **Equipamento:** Estúdio de transmissão neural.
 * **Gostos/Traços:** Ser adorada.
 * **Perfil Psicológico:** A Narcisista Digital. Veronica acredita nas próprias mentiras? Ninguém sabe. Ela trata tragédias como entretenimento e vítimas como estatísticas de audiência. Ela é o rosto bonito que diz que "está tudo bem" enquanto o mundo queima.
