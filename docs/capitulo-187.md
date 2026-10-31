@@ -13,7 +13,7 @@ A órtese da perna direita rangia a cada degrau, as buchas gastas protestando co
 
 Contava os anéis de concreto como quem conta moeda. Cada volta completa era uma linha de solda na parede, e depois de sete eu parei de contar porque o número não servia para nada além de me lembrar que a saída ficava para cima. No piso havia uma lâmina de água com película alaranjada de óxido, e o cheiro de fluido de freio era tão forte que grudava no fundo da garganta como um comprimido.
 
-Valéria descia rente ao corrimão de ferro, o facho da lanterna de sua arma apontado para os cabos de alta tensão que desciam pelas canaletas da parede. Os filamentos de LED azul na franja dela pulsavam num ritmo constante, banhando seu rosto pálido com um brilho elétrico.
+Valéria descia rente ao corrimão de ferro, o facho da lanterna de sua arma apontado para os cabos de alta tensão que desciam pelas canaletas da parede. Ela descia sem pressa, como se o poço já fosse rotina.
 
 — As raízes do Jardim tão usando esse poço como condutor primário — ela apontou o feixe de luz para a base da curva. — Olha como as gavinhas se enroscam nos cabos mestres. A praga tá descendo pro mesmo lugar que a gente: os níveis subterrâneos onde ficavam os bancos de memória profunda da corporação.
 

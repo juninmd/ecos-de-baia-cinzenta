@@ -11,7 +11,7 @@ Os oitocentos metros de distância pareciam se multiplicar a cada passo pelas ca
 
 Elias choramingava a cada respingo, segurando a lanterna caseira com as duas mãos trêmulas. O facho oscilava freneticamente, projetando sombras compridas sobre as colunas maciças que sustentavam as fundações dos arranha-céus comerciais acima de nós.
 
-Valéria ia logo atrás dele, o cyberdeck seguro no peito e a pistola em punho. Os filamentos de LED azul na franja curta dela iluminavam a água escura com um reflexo elétrico, e seus olhos ópticos prateados varriam as vigas com atenção incansável.
+Valéria ia logo atrás dele, o cyberdeck seguro no peito e a pistola em punho, os olhos ópticos prateados varrendo as vigas com atenção incansável.
 
 — Mantém a luz baixa, Elias — ela repreendeu num sussurro ríspido, dando um toque com o cano da arma na mochila dele. — Se você continuar sacudindo esse facho pro teto, vai chamar a atenção de qualquer rato ou drone de caça que estiver aninhado nas canaletas superiores.
 
@@ -55,7 +55,7 @@ Ele correu até a coluna oposta e amarrou a fita de segurança num pino mestre d
 
 — Vê se não solta a corda, detetive — ela me lançou um olhar rápido, confiante e desafiador.
 
-Valéria subiu na passarela com a agilidade felina de quem crescera escalando guindastes nas docas. Ela avançou em equilíbrio perfeito, as mãos deslizando pela guia de segurança, cruzando o abismo em menos de quinze segundos. Quando seus pés tocaram a margem segura, ela se virou e gritou:
+Valéria subiu na passarela, guiando-se pela fita com a mão direita. A esquerda enluvada não sentia a pressão; ela parou duas vezes para conferir o apoio dos pés antes de alcançar a margem. Então se virou e gritou:
 
 — Minha vez de segurar a linha! Vem, Gabo! Mas pisa leve, seu brutamontes! Esse tubo não foi desenhado pra carregar vinte quilos de ferro industrial!
 

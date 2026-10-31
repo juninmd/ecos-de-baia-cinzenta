@@ -12,9 +12,9 @@ O calor ali embaixo não era apenas temperatura; era uma pressão física. O ar 
 
 Ele conferiu o curativo improvisado com um pedaço de camisa rasgada. O sangue da mordida da Quimera já estava escuro e coagulado, misturando-se à graxa do esgoto. A dor era aguda, latejante, uma âncora necessária. Sempre que sua mente vagava para o cheiro adocicado e enjoativo do fluido que corria nos tubos — um cheiro que lembrava fumaça química e carne queimada —, ele apertava o *Colar de Sol* contra o peito até o metal frio morder a pele.
 
-Havia apenas repulsa. O cheiro de queima o lembrava do crematório e dos charutos do pai, revirando seu estômago.
+Havia apenas repulsa. O gosto de ferrugem na boca o lembrava do crematório e dos charutos do pai, revirando seu estômago.
 
-— *Gabo, há sangue atravessando a faixa* — a voz de Aria ecoou no fone auricular dele. Vinha do pendrive blindado da Aria, cujo LED âmbar pulsava sob as luzes de emergência enquanto o drive processava os sensores biométricos do comunicador de Gabo. A saída ainda falhava, mas era a cadência que ela escolhera manter. — *Você está perdendo sangue rápido, detetive. Não tenho uma medida confiável pelo comunicador. Estou vendo sangue atravessar a faixa; Val precisa conferir o ferimento.*
+— *Gabo, há sangue atravessando a faixa* — Aria falou no fone auricular, o drive de titânio pulsando âmbar sob as luzes de emergência enquanto o drive processava os sensores biométricos do comunicador de Gabo. A saída ainda falhava, mas era a cadência que ela escolhera manter. — *Você está perdendo sangue rápido, detetive. Não tenho uma medida confiável pelo comunicador. Estou vendo sangue atravessar a faixa; Val precisa conferir o ferimento.*
 
 Gabo ignorou o fantasma no fone. Ele se virou para Valéria. A hacker estava ajoelhada diante de um painel de controle manual, seus olhos cibernéticos varrendo os mostradores analógicos com frustração.
 
@@ -36,7 +36,7 @@ Valéria apontou para um diagrama esquemático gravado em uma placa de bronze na
 
 — *Não sei* — respondeu Aria pelo comunicador. — *O cadastro do circuito diz fluido nutritivo e refrigerante. Não consigo analisar o conteúdo pelo vidro. Há controladores de dados presos à tubulação.*
 
-Gabo olhou para o pequeno drive de titânio espetado no equipamento. A sobreposição da voz de sua ex-parceira morta saindo de um módulo de inteligência artificial era uma dissonância cognitiva que ele lutava para suportar.
+Gabo fitou o pequeno drive de titânio espetado no equipamento. A sobreposição da voz de sua ex-parceira morta saindo de um módulo de inteligência artificial era uma dissonância cognitiva que ele lutava para suportar.
 
 — Explique — ele ordenou.
 
@@ -62,7 +62,7 @@ Gabo sentiu o estômago revirar. A bile subiu, ácida. Ele se afastou da escotil
 
 — Não sei se estão mortos — disse Aria. — Inverter o fluxo pode romper o suporte. O esquema vincula a abertura da comporta ao alívio de pressão; não tenho uma rota que possa chamar de segura para eles.
 
-Gabo olhou para Rangel, que estava pálido e suando frio. Olhou para o ferimento em seu próprio braço. Eles não durariam mais uma hora ali. Os anticorpos — o que quer que fossem — estariam chegando.
+Gabo mediu Rangel, que estava pálido e suando frio. Mediu o ferimento no próprio braço. Eles não durariam mais uma hora ali. Os anticorpos — o que quer que fossem — estariam chegando.
 
 Valéria examinou a roda de emergência da comporta. O trinco não cedeu, e o esquema ligava a abertura ao alívio de pressão. Ela fotografou as células e o painel antes de voltar para Gabo.
 

@@ -11,7 +11,7 @@ O estrondo da porta de pressão se fechando ainda ecoava na base do crânio, uma
 
 Eu escorreguei pela parede de metal frio, deixando o peso morto do meu corpo ceder até que minhas costas encontrassem apoio na laje de concreto. O choque elétrico da batalha anterior ainda zumbia nas terminações nervosas do meu braço direito, um formigamento incandescente que transformava meus dedos mecânicos em garras retorcidas. Mas era o ombro mutilado e a perna avariada que cobravam o preço de cada respirada, ardendo sob o curativo ensanguentado.
 
-Valéria ajoelhou-se ao meu lado, os filamentos de LED azul na franja curta iluminando o suor frio que escorria pelo meu queixo. Ela soltou o cyberdeck das costas, colocando-o com cuidado sobre uma caixa de fusíveis vazia, e verificou o aperto da atadura elástica no meu ombro com a mão firme.
+Valéria ajoelhou-se ao meu lado e enxugou o suor frio do meu queixo com o dorso da mão. Depois soltou o cyberdeck das costas, colocando-o com cuidado sobre uma caixa de fusíveis vazia, e verificou o aperto da atadura elástica no meu ombro com a mão firme.
 
 — A solda da bucha do seu ombro tá soltando faíscas azuis, Moretti — ela sussurrou, a voz ofegante mas firme, enquanto ajustava a válvula de alívio do pistão com a ponta de uma chave de fenda pequena. — O relé do atuador abriu. Elias tem um contato compatível no estojo; vou usar no circuito auxiliar, com a pressão limitada. Isso não conserta o fixador. A garra vai responder mais devagar e a força precisa vir do arnês, não do osso.
 

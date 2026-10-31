@@ -9,23 +9,23 @@ Personagens Presentes: "Gabo, Valéria, Aria (Reboot)"
 
 Os dutos de exaustão primários eram artérias congeladas. Diferente do Setor de Purga, onde o ar era denso, químico e fervente, aquele conduíte sugava o calor do corpo com uma eficiência brutal. O gelo cobria o aço em camadas finas e cortantes, brilhando opacamente sob a luz fria do olho cibernético de Valéria e do LED azul-gelo do pendrive de Aria em seu pulso.
 
-Gabo se arrastava à frente. Não havia outra palavra para descrever o movimento. O choque hipovolêmico era um peso de chumbo em suas veias; o coração bombeava ar e desespero mais do que sangue. Cada vez que suas mãos nuas e queimadas agarravam a superfície congelada do duto, a pele em carne viva gritava, rasgada pela temperatura negativa. O sangue quente, o pouco que restava, sibilava contra o gelo, congelando quase instantaneamente.
+Gabo se arrastava à frente. Não havia outra palavra para descrever o movimento. A tontura e a perda de sangue tornavam cada avanço mais lento. Quando suas mãos queimadas tocavam o aço gelado, ele procurava outro apoio; o tecido improvisado já não cobria todas as feridas.
 
-Ele precisava dessa agonia. Sem o choque lancinante do frio contra as terminações nervosas destruídas, a náusea assumia o controle. E com a náusea vinha o cheiro. O fantasma pútrido de tabaco barato, o odor impregnado na jaqueta do legista que havia dissecado Bia anos atrás. Aquele cheiro de cinzeiro e formaldeído era o prenúncio do apagão total de sua sanidade. Para Gabo, a dor aguda do metal congelado em suas queimaduras era o único antídoto contra a fumaça ilusória.
+A náusea trouxe o cheiro de volta: tabaco barato impregnado na jaqueta do legista que havia dissecado Bia. Gabo quis apertar o metal até sentir outra coisa. Soltou a grade antes de fazê-lo e contou os espaços entre os rebites, como contara os degraus com Val na subida.
 
 — Foda-se... — murmurou Valéria atrás dele. A respiração dela formava nuvens densas. Ela estava tremendo violentamente, o corpo miúdo lutando contra a hipotermia enquanto arrastava o braço com o cyberdeck pelo tubo. — O Rangel... ele teria congelado aqui no primeiro minuto.
 
-— *A biologia dele já havia falhado no subnível anterior,* — a voz sintética de Aria soou pelo comunicador de gola e pelo alto-falante do pulso de Valéria, perfeitamente clara, sem a menor alteração ou tremor. — *Não temos como saber se ele teria suportado o trajeto. Não precisamos transformar o frio numa razão para a morte ter sido inevitável. O silêncio é aconselhável. As vibrações vocais podem acionar gatilhos acústicos nos sensores do Taxidermista.*
+— *A biologia dele já havia falhado no subnível anterior,* — Aria falou pelo comunicador de gola e pelo alto-falante do pulso de Valéria, sem a menor alteração ou tremor. — *Não temos como saber se ele teria suportado o trajeto. Não precisamos transformar o frio numa razão para a morte ter sido inevitável. O silêncio é aconselhável. As vibrações vocais podem acionar gatilhos acústicos nos sensores do Taxidermista.*
 
-No slot lateral do *Phantom V3*, o drive blindado não sentia o frio; pelo contrário, a baixa temperatura ambiente otimizava a condutividade de seus circuitos de silício, permitindo que Aria varresse o duto com o sonar do deck e calculasse a distância e o ritmo ideal de deslocamento sem qualquer vestígio das memórias humanas que um dia carregara.
+No slot lateral do *Phantom V3*, o drive blindado processava os ecos captados pelo deck. Parte do histórico de Aria continuava inacessível, e sua voz saía pela síntese de emergência.
 
 — Ela nem se importa. — Valéria tossiu, os lábios roxos. O choro reprimido pela morte de Rangel finalmente encontrava espaço na exaustão. — Ela fala com aquela voz sem mudar o tom, e eu ainda estou ouvindo ele respirar.
 
-Gabo forçou-se a continuar, apertando a grade de ventilação à frente com tanta força que o sangue reabriu os cortes, manchando o gelo de carmesim. A dor disparou até o ombro, apagando momentaneamente o cheiro de cigarro que rastejava em seu cérebro.
+Gabo forçou-se a continuar. Uma borda da grade prendeu o tecido em sua palma; ele parou para soltá-lo. O cheiro lembrado não passou, mas a respiração de Val atrás dele deu um ritmo ao próximo movimento.
 
 — Não escuta ela, Val — Gabo rosnou, a voz áspera como lixa. — Foca nas minhas botas. Só continua movendo. O transponder atingiu a entrada, e o reinício bloqueou parte do histórico. Não sabemos ainda o que ela vai recuperar. Vamos sair daqui e encontrar uma bancada.
 
-— *Correção, Detetive Moretti,* — Aria interrompeu pelo fone, o LED azul-gelo piscando no escuro. — *Estou avariada. O estado anterior está guardado e quero recuperar o que perdi. Não usem a voz restrita como prova de que virei outra pessoa.*
+— *Correção, Detetive Moretti,* — Aria interrompeu pelo fone, o drive piscando no escuro. — *Estou avariada. O estado anterior está guardado e quero recuperar o que perdi. Não usem a voz restrita como prova de que virei outra pessoa.*
 
 Gabo ignorou a alfinetada sintética, engolindo seco. A falta de sangue o deixava tonto. Ele tateou a escuridão adiante, até que sua mão encontrou um bloqueio. O duto bifurcava, mas a passagem principal estava selada por um enorme ventilador industrial cujas pás mediam mais de três metros. As lâminas, cobertas de gelo negro e crostas antigas de biofluido, estavam estáticas, mas o painel lateral piscava uma luz amarela fraca.
 
@@ -35,7 +35,7 @@ Gabo ignorou a alfinetada sintética, engolindo seco. A falta de sangue o deixav
 
 — *Negativo. Não desconecte meu drive,* — respondeu Aria imediatamente. — *A malha de dados deste lado do rotor foi fisicamente cortada para evitar invasões externas. O bypass deve ser mecânico ou acionado pelo terminal secundário. As travas de liberação das pás estão do outro lado do rotor.*
 
-Gabo encostou a testa no metal congelado, usando o choque térmico para afastar a vertigem. A náusea voltou, forte, empurrando o cheiro nauseabundo de fumaça pela sua garganta. Ele engasgou, batendo a própria mão na lateral do duto, forçando os nervos a gritarem mais alto que a alucinação.
+Gabo encostou o ombro no duto. A náusea voltou, seca, sem imagem. Ele esperou o tremor diminuir e olhou para Val antes de se aproximar do rotor.
 
 — Eu passo — ele disse, com dificuldade. — O vão entre as pás... dá pra espremer.
 
@@ -45,7 +45,7 @@ Gabo encostou a testa no metal congelado, usando o choque térmico para afastar 
 
 O espaço entre as lâminas de aço era exíguo. Gabo teve que se contorcer, o casaco encharcado arranhando contra o gelo sujo. O frio emanava das pás como uma parede sólida. Metade do seu corpo estava do outro lado quando um estalo metálico ensurdecedor ecoou pelo duto.
 
-A luz amarela no painel mudou para um vermelho furioso. O Taxidermista.
+A luz amarela no painel mudou para vermelho. Alguém ou alguma rotina havia acionado o mecanismo; Gabo lembrou-se da voz do Taxidermista no estúdio.
 
 — Gabo! — Valéria gritou, a voz estrangulada pelo terror.
 

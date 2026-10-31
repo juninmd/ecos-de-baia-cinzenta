@@ -20,9 +20,9 @@ Valéria apareceu na borda da câmara, vinda pela escada de manutenção que a p
 
 — Funcionou, não funcionou? — Gabo grunhiu. O simples ato de falar fez o ferimento repuxar sob o curativo.
 
-No pulso de Valéria, o pendrive blindado de Aria piscou com uma luz azul-gelo intensa, cortando a penumbra da galeria de engrenagens enquanto recebia os dados vibracionais da estrutura.
+A luz azul-gelo do pendrive cortou a penumbra da galeria de engrenagens enquanto ele recebia os dados vibracionais da estrutura.
 
-— *A passagem primária está desobstruída,* — a voz sintética e clínica da IA soou pelo comunicador do cyberdeck. — *Recomendo evasão imediata. A perturbação mecânica das engrenagens de bronze pode ter sido ouvida nos anéis adjacentes. Não sei se há unidades se aproximando.*
+— *A passagem primária está desobstruída,* — a voz sintética e clínica da IA soou pelo comunicador do cyberdeck. — *Recomendo evasão imediata. A perturbação mecânica das engrenagens de bronze pode ter sido ouvida nos anéis adjacentes. As unidades podem estar a caminho.*
 
 Com a ajuda de Valéria, Gabo escorregou pela escada de manutenção lateral e desceu da câmara de engrenagens; o impacto das botas com o chão do corredor arrancou-lhe um chiado de dor por entre os dentes trincados. O sangue novo da ferida do braço quebrado pingava lento no concreto coberto de fuligem, mas ele se recusou a cair novamente.
 
@@ -52,7 +52,7 @@ Puxou o ar frio e metálico do poço em golfadas lentas e profundas, forçando o
 
 No antebraço de Valéria, o pendrive de titânio de Aria mantinha seu brilho azul-gelo inalterado, monitorando os batimentos cardíacos do detetive pelo sensor biométrico de proximidade com a frieza impassível de um obelisco de silício. Seus processadores calculavam a autodestruição progressiva do líder do grupo sem qualquer julgamento moral.
 
-— *Você está machucando o braço outra vez quando tenta reagir ao cheiro. Não consigo confirmar a causa dessas sensações nem chamar isso de tratamento,* — Aria pontuou pelo alto-falante do deck, a voz sintética cortando o barulho rítmico das correntes de aço. — *Entretanto, a degradação repetitiva dos tecidos nervosos periféricos acelerará o choque sistêmico. A tala está soltando e há sangue na faixa. Val precisa verificar antes de mover você mais um andar.*
+— *Você está machucando o braço outra vez quando tenta reagir ao cheiro. A causa dessas sensações não está no meu diagnóstico, e eu não vou chamar isso de tratamento,* — Aria pontuou pelo alto-falante do deck, a voz sintética cortando o barulho rítmico das correntes de aço. — *Entretanto, a degradação repetitiva dos tecidos nervosos periféricos acelerará o choque sistêmico. A tala está soltando e há sangue na faixa. Val precisa verificar antes de mover você mais um andar.*
 
 — Anotado, lata velha — Gabo respondeu, apoiando a nuca no aço frio da grade e recusando-se a fechar os olhos. — Para onde essa gaiola tá levando a gente?
 

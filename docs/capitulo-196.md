@@ -21,7 +21,7 @@ Elias rolou para fora do duto logo atrás de nós, caindo de joelhos no piso cim
 
 — As catacumbas do Distrito Comercial... — Elias murmurou, passando a mão encardida no rosto manchado de graxa. — Nós conseguimos cruzar a fronteira subterrânea. Aquele fogo do Nível B não passa pelas comportas de chumbo. Estamos a salvo da fornalha.
 
-— A salvo de virar churrasco, talvez — Valéria aterrissou na plataforma com passos leves e elásticos, ajustando a alça do cyberdeck nas costas com um movimento fluido. Ela ergueu a lanterna tática, varrendo o salão colossal com os olhos prateados atentos. Os filamentos de LED azul na franja curta dela pulsavam num ritmo constante e sereno. — Mas 'salvo' é uma palavra que não existe no dicionário dessa cidade, Elias. Olha pra aquela galeria de escoamento ali na frente.
+— A salvo de virar churrasco, talvez — Valéria aterrissou na plataforma com passos leves e elásticos, ajustando a alça do cyberdeck nas costas com um movimento fluido. Ela ergueu a lanterna tática, varrendo o salão colossal com os olhos prateados atentos. — Mas 'salvo' é uma palavra que não existe no dicionário dessa cidade, Elias. Olha pra aquela galeria de escoamento ali na frente.
 
 Apontei o cano de *Caronte* na direção que ela indicava.
 

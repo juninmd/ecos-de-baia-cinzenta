@@ -24,7 +24,7 @@ Ele tentou apoiar o braço direito na parede. A dor o fez perder o equilíbrio; 
 
 No pulso de Valéria, o pendrive blindado piscou seu LED azul-gelo com a precisão fria da máquina pura. O canal adulto continuava danificado; Aria usava a síntese de emergência para transmitir os avisos através dos sensores do *Phantom V3*.
 
-— *Vejo uma passagem entre os escombros,* — relatou Aria pelo alto-falante do deck, a modulação de sua voz carente de qualquer emoção após a destruição de metal que ela mesma calculara no painel do trem. — *Os níveis de radiação térmica na brecha estão decaindo. Entretanto, o esforço cinético anterior comprometeu os sistemas hidráulicos do exoesqueleto de suporte em suas pernas, Detetive Moretti. Não consigo prever quando a órtese vai falhar.*
+— *Vejo uma passagem entre os escombros,* — relatou Aria pelo alto-falante do deck, a modulação de sua voz carente de qualquer emoção após a destruição de metal que ela mesma calculara no painel do trem. — *Os níveis de radiação térmica na brecha estão decaindo. Entretanto, o esforço cinético anterior comprometeu os sistemas hidráulicos do exoesqueleto de suporte em suas pernas, Detetive Moretti. A órtese vai falhar; quando, é questão de carga.*
 
 — Então vamos antes que ela pare — respondeu ele, olhando a rampa de destroços.
 
@@ -38,7 +38,7 @@ Valéria estava ajoelhada perto da escotilha superior do vagão, a graxa manchan
 
 — O que você está lendo lá em cima, Aria? — Valéria perguntou, levantando-se devagar e apontando o scanner do *Phantom V3* para a fenda fumegante da comporta arrebentada.
 
-O LED azul-gelo do pendrive pulsou rapidamente enquanto processava o espectro químico do ar que vazava do andar superior. — *Há formas presas à arquitetura, semelhantes ao material do estúdio. Não consigo identificar sua função nem saber se estão vivas.*
+O LED azul-gelo do pendrive pulsou rapidamente enquanto processava o espectro químico do ar que vazava do andar superior. — *Há formas presas à arquitetura, semelhantes ao material do estúdio. A função delas não está no catálogo; se estão vivas, o calor não diz.*
 
 O alerta soou como um aviso de tempestade. O Taxidermista não estava dependendo apenas da sucata automatizada da Aeterna. Ele havia plantado algo orgânico nas ruínas do coração digital da corporação.
 

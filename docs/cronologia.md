@@ -2,7 +2,7 @@
 
 ## Calendário mestre
 
-O presente dos 238 capítulos é **2056**. O intervalo entre 7 e 8 é de três semanas; as comportas abrem em **19/03/2056**, e 56 ocorre no dia 95 do Dilúvio. O salto não recua a abertura para 2055. Idades não se confundem com aparência de avatar, corpo rejuvenescido ou cópia. Relógios locais sem sincronização não fornecem datas globais adicionais.
+O presente dos 239 capítulos é **2056**. O intervalo entre 7 e 8 é de três semanas; as comportas abrem em **19/03/2056**, e 56 ocorre no dia 95 do Dilúvio. O salto não recua a abertura para 2055. Idades não se confundem com aparência de avatar, corpo rejuvenescido ou cópia. Relógios locais sem sincronização não fornecem datas globais adicionais.
 
 | Marco                                              | Ano            | Consequência                                                          |
 | -------------------------------------------------- | -------------- | --------------------------------------------------------------------- |

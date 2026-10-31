@@ -15,7 +15,7 @@ Lembrei de cada túnel de fuga que cruzei com o comissariado nos anos anteriores
 
 — A torre principal de exaustão perdeu a pressurização quando vocês romperam os dutos de amônia lá embaixo — Elias explicava num sussurro esganiçado, correndo com as costas curvadas e olhando para trás a cada dez passos. — O fogo do núcleo tá sugando o oxigênio do fosso mestre. Se a gente tentar subir pelos poços normais de elevador, o ar superaquecido cozinha nossos pulmões antes do terceiro lance de escadas.
 
-— A gente não vai subir pelo fosso mestre, Elias — Valéria cortou com firmeza, conferindo a telemetria do cyberdeck preso ao peito. Os filamentos de LED azul na franja curta dela iluminavam a tubulação superior com um brilho elétrico. — O scanner térmico tá mostrando que a temperatura da laje abaixo dos nossos pés já bateu oitenta graus. Não consigo ver como estão as vigas por dentro. Você conhece outra saída?
+— A gente não vai subir pelo fosso mestre, Elias — Valéria cortou com firmeza, conferindo a telemetria do cyberdeck preso ao peito. — O scanner térmico tá mostrando que a temperatura da laje abaixo dos nossos pés já bateu oitenta graus. Não consigo ver como estão as vigas por dentro. Você conhece outra saída?
 
 Elias engoliu seco, os dedos encardidos apertando a alça da máscara de respiração no peito.
 

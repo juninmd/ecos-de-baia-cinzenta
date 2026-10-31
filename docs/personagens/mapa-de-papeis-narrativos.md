@@ -17,7 +17,7 @@ Dante é vítima de cativeiro; a fita de admissão (220) não apaga suas escolha
 | Vilar | Comando comunitário e omissões próprias; perde o braço esquerdo após 81. |
 | Nise | Medicina legal e atendimento possível; não tem cura ou diagnóstico universal. |
 | Clara | Logística e apoio; sem formação médica presumida. |
-| Marco | Rival político e administrador; não autor automático de cada evento posterior. |
+| Marco | Rival político e administrador; não autor automático de cada evento posterior. Recusa certificar o índice em 233.5 e não fecha a estrada. |
 | Krell | Responsável pelos avales atribuídos a ele; índice 227 exige conferência dos originais. |
 | Elara | Auditora participante e guardiã do arquivo; cadeira de rodas após 223. |
 | Arthur | Fundador,101 anos cronológicos; estase 2029–2056, perda em 72 conhecida 233. |

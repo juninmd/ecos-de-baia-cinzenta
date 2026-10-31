@@ -35,7 +35,7 @@ Valéria ergueu a cabeça rapidamente, os olhos escuros arregalados em um choque
 
 — Se ficarmos aqui, o Taxidermista nos enterra assim que a energia primária reiniciar. — Gabo rebateu, a voz perigosamente baixa. Ele cravou os dentes no próprio lábio até sentir o gosto ferroso de sangue, forçando a mente a se concentrar na única saída viável. — Val, arrasta aquela caixa de junção e me dá um pé.
 
-— *Sua intenção desafia a lógica de autopreservação básica, Detetive Moretti. Seus sinais vitais indicam exaustão crítica,* — alertou Aria pelo ponto de áudio, seu tom permanentemente clínico. — *O esforço pode agravar a lesão abdominal. Não consigo estimar quanto seu corpo suporta.*
+— *Sua intenção desafia a lógica de autopreservação básica, Detetive Moretti. Seus sinais vitais indicam exaustão crítica,* — alertou Aria pelo ponto de áudio, seu tom permanentemente clínico. — *O esforço pode agravar a lesão abdominal. Seu corpo já está no limite que mede.*
 
 — Eu não pedi uma segunda opinião, pendrive. Valéria, me levanta. — Gabo ordenou, caminhando até abaixo do duto.
 

@@ -20,7 +20,7 @@ O cheiro de cigarro vagabundo. Aquele alcatrão queimado invadindo as narinas, i
 
 Gabo afrouxou a mão machucada na cinta. A fumaça não estava ali; Val estava, guiando a prancha pelo metal que rangia. Ele acompanhou o ritmo dos passos dela.
 
-No pulso de Valéria, o pendrive blindado de Aria processava em tempo real a vibração acústica de cada placa de metal enferrujada através dos sensores do cyberdeck *Phantom V3*. Onde a antiga versão da IA teria demonstrado urgência humana, o drive pós-reboot apenas otimizava vetores de deslocamento, seu LED azul-gelo piscando frio na neblina ácida.
+No pulso de Valéria, o pendrive de Aria processava em tempo real a vibração acústica de cada placa de metal enferrujada através dos sensores do cyberdeck *Phantom V3*. Onde a antiga versão da IA teria demonstrado urgência humana, o drive pós-reboot apenas otimizava vetores de deslocamento, seu LED azul-gelo piscando frio na neblina ácida.
 
 — *Alerta Estrutural Iminente,* — Aria anunciou pelo comunicador na gola de Gabo e pelo alto-falante do deck, sem alterar o tom constante. — *O pilar de sustentação L-4 à frente apresenta fadiga térmica e corrosão grave. Transição de carga não recomendada.*
 
@@ -58,7 +58,7 @@ O chiado irregular de Rangel, que o acompanhara por todo o trajeto infernal até
 
 Valéria congelou. Ela se jogou de joelhos ao lado do corpo, tateando o pescoço ensanguentado de Rangel à procura de um pulso que já não existia. Ela não disse nada. Ela começou a tentar reanimá-lo e mandou Gabo chamar pelo rádio. Só veio ruído. Revezaram como puderam sobre o trecho firme da passarela; nenhum deles tinha o equipamento ou o atendimento que Rangel precisava. O tempo correu sem resposta do outro acesso. Quando pararam, a mão direita de Val já não conseguia continuar e o peito do inspetor não voltou a subir sozinho.
 
-No pulso da hacker, o LED azul-gelo do pendrive de Aria estabilizou após ler o sensor biométrico do deck.
+No pulso da hacker, o pendrive estabilizou após ler o sensor biométrico do deck.
 
 — *Não há retorno dos sinais,* — a IA disse friamente pelo alto-falante. — *Registrei os horários da perda do sinal e da tentativa de reanimação. Não vou chamar isso de confirmação de uma previsão. Precisamos decidir como guardar a localização.*
 

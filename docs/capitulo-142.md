@@ -50,7 +50,7 @@ As carapaças de titânio branco outrora limpas estavam agora cravadas de farpas
 
 — Aria, consegue travar a frequência deles pelo deck da Val?! — Gabo cobrou, sacando o velho revólver do coldre com a mão direita enfaixada. Carregara cinco cartuchos da caixa de Kiko antes de prender a linha de segurança; a Caronte continuava com apenas uma carga.
 
-— *Não consigo ler as ordens deles,* — respondeu a IA pelo alto-falante, o corpo do pendrive esquentando contra a luva de Valéria. — *Posso modular uma rajada de ruído branco pelo controlador de manutenção acessível na fibra para interromper as ordens recebidas pelos drones por curtos intervalos, mas a neutralização definitiva exigirá impacto cinético.*
+— *As ordens deles vêm cifradas no barramento.,* — respondeu a IA pelo alto-falante, o corpo do pendrive esquentando contra a luva de Valéria. — *Posso modular uma rajada de ruído branco pelo controlador de manutenção acessível na fibra para interromper as ordens recebidas pelos drones por curtos intervalos, mas a neutralização definitiva exigirá impacto cinético.*
 
 Não havia como atirar naquelas velocidades sem arriscar o equilíbrio na escada ou deixar Rangel despencar, mas recuar de volta para o frio da morte no Lixão não era uma opção.
 

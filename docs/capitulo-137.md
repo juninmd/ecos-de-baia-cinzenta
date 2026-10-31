@@ -11,7 +11,7 @@ O cheiro de formol era tão forte que fazia os olhos lacrimejarem. Não era apen
 
 Gabo tossiu, cobrindo o nariz com a gola da jaqueta. O gosto metálico do sangue em sua boca se misturava com o ar ácido.
 
-— *Ventilação inoperante* — Aria informou pelo comunicador, sua voz sintética ressoando baixa no corredor de azulejos brancos encardidos. — *O detector está em alarme e não consigo confirmar a calibração. Cubram a entrada de ar e saiam desta concentração; não temos proteção para permanecer aqui.*
+— *Ventilação inoperante* — Aria informou pelo comunicador, sua voz sintética ressoando baixa no corredor de azulejos brancos encardidos. — *O detector está em alarme e a última calibração dele é anterior a esta noite. Cubram a entrada de ar e saiam desta concentração; não temos proteção para permanecer aqui.*
 
 — Estamos indo o mais rápido que dá — Valéria retrucou, ajudando Gabo a firmar a prancha de transporte. — O Rangel não aguenta correr.
 
@@ -83,7 +83,7 @@ Membros substituídos por ferramentas industriais. Torsos abertos revelando meca
 
 No centro do salão, dominando o espaço, havia um tanque maior que os outros, elevado sobre um pedestal. Dentro, uma figura colossal flutuava em suspensão. Era uma fusão grotesca de múltiplos corpos, unidos para formar uma espécie de titã biomecânico, com dezenas de braços e cabos que saíam de sua espinha como raízes de uma árvore morta.
 
-— *Há movimento no cilindro central* — Aria disse pelo fone. — *Não consigo determinar o estado do corpo.*
+— *Há movimento no cilindro central* — Aria disse pelo fone. — *O corpo se move; vivo ou não, o sensor não separa.*
 
 Gabo se aproximou do tanque central, hipnotizado pelo horror. O rosto da criatura principal era uma máscara de metal sem traços, mas o peito subia e descia levemente. *Ainda está vivo.*
 

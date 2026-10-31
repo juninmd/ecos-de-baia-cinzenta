@@ -19,7 +19,7 @@ Gabo grunhiu em resposta. O ar denso e irrespirável trazia à tona a memória s
 
 No deck de Valéria, o pendrive blindado de Aria processava o feixe infravermelho do visor de Valéria. O pequeno LED na lateral do drive alternava entre o azul tático e um âmbar febril.
 
-— *Há estruturas à frente, mas não consigo distingui-las na penumbra* — avisou Aria pelo canal restrito de áudio. Val acendeu a lanterna química.
+— *Há estruturas à frente. A penumbra come o contorno.* — avisou Aria pelo canal restrito de áudio. Val acendeu a lanterna química.
 
 Gabo evitou olhar para o LED piscando no próprio peito. O fone chiou; Gabo conferiu se o canal de reprodução continuava bloqueado.
 
@@ -53,7 +53,7 @@ Uma das esculturas se moveu.
 
 Não era uma máquina elegante como os drones da Aeterna, nem um ciborgue militar como Roberto Miranda. Era algo quebrado. Uma figura alta, composta por ossos de pernas alongados com vergalhões, arrastou-se para fora das sombras. Não tinha rosto, apenas uma placa de cerâmica branca onde deveria estar a face, pintada com um sorriso grosseiro de batom vermelho.
 
-— *Há movimento e calor na galeria* — avisou Aria. — *Não consigo identificar o que está se aproximando.*
+— *Há movimento e calor na galeria* — avisou Aria. — *O que se aproxima não bate com nenhuma assinatura do meu catálogo.*
 
 A Coisa avançou. Movia-se aos trancos, as articulações rangendo, mas era rápida. Um braço terminava em uma lâmina de ceifadeira enferrujada.
 

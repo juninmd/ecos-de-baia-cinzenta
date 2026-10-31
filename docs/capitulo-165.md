@@ -24,7 +24,7 @@ A perda massiva de sangue começou a cobrar seu tributo final. Uma onda súbita 
 
 Gabo arfou pesadamente, o sangue quente pingando no chão escuro, mas a determinação mantinha seus olhos abertos no silêncio do silício.
 
-— *Gabo continua perdendo apoio e a leitura de pulso está oscilando,* — a voz de Aria soou pelo comunicador de gola sem emitir eco, absorvida pelas placas acústicas do teto. Acoplado ao cyberdeck no pulso de Valéria, o pendrive mantinha seu indicador luminoso azul-gelo cravado na penumbra enquanto o scanner óptico do *Phantom V3* traçava linhas invisíveis no piso negro. — *O esforço está agravando os sinais que consigo observar. Não consigo avaliar a circulação interna com este sensor. Ele precisa ficar apoiado na prancha enquanto buscamos acesso.*
+— *Gabo continua perdendo apoio e a leitura de pulso está oscilando,* — a voz de Aria soou pelo comunicador de gola sem emitir eco, absorvida pelas placas acústicas do teto. Acoplado ao cyberdeck no pulso de Valéria, o pendrive mantinha seu indicador luminoso azul-gelo cravado na penumbra enquanto o scanner óptico do *Phantom V3* traçava linhas invisíveis no piso negro. — *O esforço está agravando os sinais que consigo observar. Este sensor lê pele; a circulação interna, não. Ele precisa ficar apoiado na prancha enquanto buscamos acesso.*
 
 Valéria correu a mão livre e trêmula pelos cabelos imundos, a respiração condensando no ar gelado, lançando um olhar envenenado para o pequeno cilindro metálico do pendrive encaixado em seu antebraço.
 
@@ -52,7 +52,7 @@ O feixe azulado do scanner de pulso varreu as marcas por dois longos segundos en
 
 — Não confio em nada que respira energia nesse buraco — respondeu ele, forçando as pernas trêmulas a desgrudarem do servidor. — Mas é a única porta que a gente tem pra bater.
 
-— *A anomalia que buscamos não é apenas um terminal de energia adormecido, Valéria Cruz,* — acrescentou Aria pelo alto-falante. — *O manual identifica uma unidade de segurança chamada Sentinel neste setor. Ainda não posso confirmar que ela deixou os rastros ou que continua ativa.*
+— *A anomalia que buscamos não é apenas um terminal de energia adormecido, Valéria Cruz,* — acrescentou Aria pelo alto-falante. — *O manual identifica uma unidade de segurança chamada Sentinel neste setor. Os rastros existem. Que sejam dela e que ela ainda esteja ativa, são duas suposições.*
 
 O silêncio corporativo que os cercava subitamente não pareceu mais um túmulo pacífico. Pareceu a imobilidade de uma câmara de execução antes do carrasco puxar a alavanca.
 
@@ -70,7 +70,7 @@ Não foi um rugido orgânico como os horrores dos níveis inferiores, nem o zumb
 
 Segundos depois, o zumbido subgrave de capacitores gigantescos acordando de um sono de quatro décadas começou a fazer o piso negro de linóleo vibrar contra as solas das botas de Gabo.
 
-No pulso de Valéria, o LED azul-gelo do pendrive de Aria acelerou para um piscar de alerta máximo.
+No pulso de Valéria, o pendrive acelerou para um piscar de alerta máximo.
 
 — *Inicialização de matriz hostil confirmada,* — a voz sintética de Aria foi o único som além do zumbido elétrico crescente de metal pesado deslizando sobre o concreto liso. — *A otimização sugere dispersão imediata em ângulos oblíquos. O alvo primário da unidade de expurgo será o intruso biológico com maior assinatura térmica.*
 

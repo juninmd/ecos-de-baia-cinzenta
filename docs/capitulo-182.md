@@ -7,7 +7,7 @@ Personagens Presentes: Gabo, Valéria
 
 # Capítulo 182: A Superfície Pálida
 
-O corredor ascendente fedia a ferrugem antiga e urina ressecada, mas à medida que subíamos, o ar se tornava mais ralo e agressivo. A umidade sufocante do duto de escoamento foi substituída pelo toque áspero do vento carregado de toxinas. O som contínuo dos meus passos era pontuado pelo chiado errático dos servos do suporte externo do meu braço, um lembrete constante da sucata que eu me tornara.
+O corredor ascendente fedia a ferrugem antiga e urina ressecada, mas à medida que subíamos, o ar se tornava mais ralo e agressivo. A umidade sufocante do duto de escoamento foi substituída pelo toque áspero do vento carregado de toxinas. O suporte externo do meu braço, ainda desligado, rangia contra o arnês a cada passo.
 
 Quando finalmente cruzamos a grade retorcida que marcava o fim do poço de exaustão, o céu do Distrito 4 se abriu sobre nós como um hematoma putrefato.
 
@@ -33,7 +33,7 @@ Valéria soltou uma risada rascante e amarga, apontando para o painel com o dedo
 
 — Guarda a pólvora, Val. Você vai precisar dela se a gente topar com mais saqueadores no cruzamento.
 
-Ela virou o rosto para mim, os filamentos de LED azul na franja iluminando as olheiras escuras sob os olhos cibernéticos. O cansaço dela era palpável, mas a faísca de desdém e teimosia continuava queimando firme.
+Ela virou o rosto para mim. As olheiras escuras sob os olhos cibernéticos diziam duas noites sem carga decente. O cansaço dela era palpável, mas a faísca de desdém e teimosia continuava queimando firme.
 
 — Eu não gasto munição com propaganda morta, detetive. Minha preocupação é esse seu joelho direito. Você tá arrastando a bota há dois quilômetros. O mancal da órtese da perna tá chiando tão alto que qualquer cão quimérico a trezentos metros já sabe que tem comida mancando no asfalto.
 

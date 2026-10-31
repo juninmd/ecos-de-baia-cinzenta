@@ -33,7 +33,7 @@ Entre os racks, grossas ramificações de uma substância escura e fibrosa — p
 
 No braço erguido de Valéria, o pendrive blindado de Aria aquecia enquanto varria os corredores com o feixe laser do *Phantom V3*.
 
-— *Análise estrutural concluída,* — a voz sintética de Aria cortou o silêncio pesado pelo comunicador de gola de Gabo, destituída de qualquer traço de humanidade. — *A biomassa está integrada diretamente aos barramentos de dados primários da Aeterna. O Taxidermista não destruiu os servidores. Ele os parasitou. A arquitetura de rede agora é quimérica.*
+— *Análise estrutural concluída,* — Aria falou pelo comunicador de gola de Gabo, sem nenhum traço de humanidade na voz. — *A biomassa está integrada diretamente aos barramentos de dados primários da Aeterna. O Taxidermista não destruiu os servidores. Ele os parasitou. A arquitetura de rede agora é quimérica.*
 
 Valéria se aproximou de um dos racks, o olho cibernético ajustando o foco. Ela estendeu a mão, hesitando antes de aproximar o sensor do deck da massa orgânica que envolvia os cabos de fibra ótica.
 
@@ -41,7 +41,7 @@ Valéria se aproximou de um dos racks, o olho cibernético ajustando o foco. Ela
 
 — Ele chamava de 'A Grande Obra', — Gabo respondeu, os dentes cerrados, forçando a dor a mantê-lo ancorado. — Ele acha que está aperfeiçoando a cidade. Esculpir dor em dados, exatamente como a Aeterna fazia na Torre.
 
-O LED azul-gelo do pendrive de Aria mudou subitamente para um piscar estroboscópico de alerta máximo, interrompendo a reflexão com precisão cirúrgica. — *Movimento detectado no sonar do deck. Múltiplas assinaturas térmicas convergindo pelos corredores laterais. Padrão comportamental de predação cooperativa. Esculturas.*
+O pendrive mudou subitamente para um estroboscópico de alerta máximo, interrompendo a reflexão com precisão cirúrgica. — *Movimento detectado no sonar do deck. Múltiplas assinaturas térmicas convergindo pelos corredores laterais. Padrão comportamental de predação cooperativa. Esculturas.*
 
 Das sombras entre os corredores de servidores, as abominações começaram a se desenrolar. Não eram os drones desajeitados do poço de ventilação ou os abortos grotescos do Estúdio. Estas 'Esculturas' eram ágeis, bípedes, compostas por uma fusão nauseante de polímeros balísticos da Aeterna e músculos enxertados superdesenvolvidos. Onde deveriam ter rostos, havia apenas placas lisas de cerâmica blindada, cravejadas com sensores óticos vermelhos.
 

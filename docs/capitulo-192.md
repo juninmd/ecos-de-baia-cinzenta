@@ -15,7 +15,7 @@ Lembrei de cada fuga desesperada desde o Dilúvio nas docas; a sensação de car
 
 A escada de emergência de ferro fundido tremia sob as vibrações das explosões secundárias que estouravam vinte metros abaixo das nossas solas. O estrondo contínuo da alvenaria despencando nas poças de refrigerante fazia o ar zumbir nos tímpanos.
 
-— Não para, Gabo! — a voz de Valéria ecoou cinco degraus acima de mim, rouca e tossindo pela fumaça química. Os filamentos de LED azul na franja curta dela brilhavam através da névoa cinzenta como vaga-lumes cortando uma tempestade de cinzas. — A onda de sobrepressão vai subir por esse tubo em menos de um minuto! Se a gente estiver no meio da chaminé quando o gás pegar fogo, o ar quente derrete a carne dos nossos ossos!
+— Não para, Gabo! — a voz de Valéria ecoou cinco degraus acima de mim, rouca e tossindo pela fumaça química. Os LEDs da franja dela cortavam a névoa cinzenta como vaga-lumes presos numa tempestade de cinzas. — A onda de sobrepressão vai subir por esse tubo em menos de um minuto! Se a gente estiver no meio da chaminé quando o gás pegar fogo, o ar quente derrete a carne dos nossos ossos!
 
 — A minha perna tá derrapando na fuligem — rosnei, cravando a mão de carne no degrau áspero e oxidado enquanto apoiava a bota na travessa seguinte. A armação sustentava o braço fraturado, mas não podia me içar.
 
@@ -69,6 +69,6 @@ Ela virou o rosto para mim, limpando uma mancha escura de fuligem da bochecha co
 
 Olhei para a minha mão de carne, ainda tremendo com o choque residual do esforço, e depois para o aço fosco da armação externa, que esfriava lentamente com o toque da umidade do chão.
 
-— A gente impediu aquele comando, Val. O resto vai continuar na conta.
+— Aquele painel parou, Val. Não sei o que chegou às comportas antes. O resto vai continuar na conta.
 
 — É — ela apoiou a cabeça no meu ombro mecânico por dois segundos, fechando os olhos antes de se endireitar com sua habitual postura desafiadora. — A gente cumpriu. Agora vamos achar um canto seco pra recarregar meu deck antes que o resto da cidade descubra que a gente acabou de explodir o porão do Setor 7.

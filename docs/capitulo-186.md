@@ -11,7 +11,7 @@ O calor úmido do Complexo Hidropônico colava a poeira e o mofo químico direto
 
 A cada passada sobre as passarelas de aço perfurado, a armação externa do meu braço direito chiava em protesto, os servos pesados trabalhando no limite da tolerância para compensar o desnível do chão.
 
-Valéria ia dois passos à frente, os filamentos de LED azul na franja curta iluminando as calhas suspensas com um halo frio. Ela segurava o cyberdeck com uma mão enquanto usava uma sonda de teste para afastar gavinhas translúcidas que pingavam seiva leitosa sobre a grade.
+Valéria ia dois passos à frente, o cyberdeck numa mão e a sonda de teste na outra, afastando gavinhas translúcidas que pingavam seiva leitosa sobre a grade.
 
 — Há mais raízes junto às caixas de derivação — ela avisou, sem tirar os olhos do display fosco do deck. — As raízes tão perfurando as caixas de derivação elétrica da Aeterna e fundindo o tecido vegetal direto nas trilhas de cobre. Quem desenhou essa praga biológica não era só um geneticista louco; era um engenheiro de redes de primeira linha.
 
@@ -78,7 +78,7 @@ Valéria encarava a tela com as sobrancelhas franzidas, a luz do monitor refleti
 
 — O Arquivo Executivo?
 
-— Não — ela virou o rosto para mim, os filamentos de LED azul na franja piscando devagar, tensos. — Abaixo do Arquivo Executivo. Bem abaixo. O registro aponta para *Arca Zero*, abaixo do arquivo. Diz que há protótipos, mas não mostra quem os guardou.
+— Não — ela virou o rosto para mim. A franja piscou devagar, tensa. — Abaixo do Arquivo Executivo. Bem abaixo. O registro aponta para *Arca Zero*, abaixo do arquivo. Diz que há protótipos, mas não mostra quem os guardou.
 
 Olhei para a escuridão do corredor técnico que se abria atrás da sala de controle. O caminho não subia para a superfície; descia para os alicerces mais profundos e esquecidos de Baía Cinzenta.
 
