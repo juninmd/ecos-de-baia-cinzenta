@@ -19,6 +19,20 @@ Notas de trabalho de revisão. **Não é cânone.** O texto oficial são os cap�
 - **20 imagens de candidatos e rejeitadas** do experimento `aria-agy` (52 MB). O retrato aprovado já está em `docs/public/personagens/aria_3.png`.
 - **Saídas de máquina** (JSON de triagem, cobertura, verificação e lotes) que os relatórios `.md` já resumem e que `quality_gate.py` regenera.
 
+## Duplicatas de imagem
+
+`docs/public/personagens/variacoes/` era uma **cópia byte a byte** de 50 cenas já existentes em `docs/public/cenas/` (mesmo blob no git, 36,6 MB no checkout). Como `AGENTS.md` define `docs/public/cenas/` como cache canônico da arte, as cópias foram removidas e a galeria `docs/variacoes_personagens.md` passou a apontar para as cenas — 50 referências reescritas, nenhuma imagem perdida.
+
+Sobraram **três grupos de imagens repetidas** que são decisão de conteúdo, não arquivo órfão:
+
+| Arquivos | Situação |
+| --- | --- |
+| `capitulo_105-108.jpg`, `cidade.jpg`, `raizes-amargas.jpg` | mesma arte usada como capa de capítulos sem imagem própria |
+| `personagens/lux.jpg`, `personagens/vale.jpg` | retratos ainda apontando para a arte genérica da cidade |
+| `personagens/krell.jpg`, `personagens/cirurgiao.jpg` | **mesma imagem para dois personagens** — retrato de Krell errado |
+
+Os dois últimos são dívida de arte, não duplicata de arquivo: unificar o caminho só esconderia o problema.
+
 ## Processo vigente
 
 ```powershell
