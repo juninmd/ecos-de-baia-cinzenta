@@ -23,7 +23,7 @@ inútil; um perfil detalhado, sozinho, também não demonstra função narrativa
 - **Destino editorial:** preservar vida e decisões anteriores à morte por meio de vestígios concretos. Um esconderijo pronto não pode surgir como solução herdada sem origem demonstrada.
 - **Limite:** ficha e cronologia divergem sobre amplitude da função; aparições em lembrança, vídeo ou cache não são ressurreição.
 
-Na revisão de [8–11](revisao-008-011.md), o anúncio da live e a gravação da consulta
+Na revisão de [8–11](revisao-capitulos-1-35.md#lote-008-a-011), o anúncio da live e a gravação da consulta
 dão a Kiko um pedido próprio de preservação e uma recusa de apagamento. Isso
 prepara agência, mas ainda não comprova a construção posterior do Fliperama.
 

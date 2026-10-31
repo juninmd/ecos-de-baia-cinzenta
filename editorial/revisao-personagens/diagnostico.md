@@ -4,7 +4,7 @@
 decisões posteriores, incluindo idade 35/14 anos de polícia e oscilação do Modo
 de Segurança até 219. P01/P09 exigem essa leitura temporal. A referência residual
 a 30 anos no capítulo 1 foi corrigida nesta rodada. Status e aplicação atuais:
-[revisão 4–7](revisao-004-007.md). Os achados abaixo não são confirmação automática
+[revisão 4–7](revisao-capitulos-1-35.md#lote-004-a-007). Os achados abaixo não são confirmação automática
 de que cada passagem permaneceu igual após os commits posteriores.
 
 Escopo: dossiê completo, arcos, documentos de continuidade, leitura e buscas

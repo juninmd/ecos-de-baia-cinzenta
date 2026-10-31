@@ -60,3 +60,6 @@ docs_dev.log
 .venv-qwen/
 unsloth_compiled_cache/
 .logs/
+
+# Estado de envio do Telegram (runtime, recriado pelo script)
+.daily_telegram_state.json

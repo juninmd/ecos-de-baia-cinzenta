@@ -14,7 +14,7 @@ Em caso de critérios resumidos abaixo, aplique a régua completa do `AGENTS.md`
 
 - [ ] Ler `GEMINI.md` para alinhar com o tom (Noir/Cyberpunk) e regras do universo.
 - [ ] Ler `docs/personagens.md` para verificar fichas de personagens.
-- [ ] Ler `docs/ranking_qualidade_capitulos.md` para entender o padrão de notas.
+- [ ] Ler `docs/qualidade_capitulos.md` (gerado por `scripts/quality_gate.py`) para ver o padrão de notas.
 
 ## 2. Critérios de Análise
 
@@ -42,7 +42,7 @@ Para cada capítulo revisado:
 
 1. **Atribuir Nota (1-10).**
 2. **Listar Pontos Fortes e Fracos.**
-3. **Atualizar `docs/ranking_qualidade_capitulos.md`:** Inserir a análise no formato padrão.
+3. **Rodar `uv run --no-sync python scripts/quality_gate.py`:** a nota e o veredito saem do texto medido e ficam em `docs/qualidade_capitulos.md`; não se digitam à mão.
 4. **Atualizar `docs/personagens.md`:** Se houver mudança visual, idade ou evento marcante na linha do tempo.
 5. **Atualizar Checklist:** Marcar como concluído no sistema de tarefas.
 
