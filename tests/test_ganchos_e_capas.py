@@ -52,3 +52,8 @@ def test_capa_so_entra_no_frontmatter_se_o_arquivo_existe():
     faltando = integrar_capas.capa_valida("---\nimage: /nao-existe.jpg\n---\n")
     assert existente is True
     assert faltando is False
+
+
+def test_variante_antiga_da_vez_lugar_a_capa_padrao():
+    assert integrar_capas.deve_trocar("image: /capitulo_117_pro.jpg", "/capitulo_117.jpg") is True
+    assert integrar_capas.deve_trocar("image: /capitulo_1.jpg", "/capitulo_1.jpg") is False

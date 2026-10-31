@@ -18,7 +18,18 @@ DOCS = ROOT / "docs"
 MANIFESTO = DOCS / "public" / "cenas" / "manifesto_pendentes.json"
 SAIDA_MD = DOCS / "public" / "cenas" / "manifesto_capas.md"
 SAIDA_JSON = DOCS / "public" / "cenas" / "manifesto_capas.json"
+REGERAR = DOCS / "public" / "cenas" / "capas_regerar.txt"
 FORMATO = "Cinematic chapter cover, widescreen 16:9 landscape composition."
+
+
+def carregar_regerar() -> set[str]:
+    if not REGERAR.exists():
+        return set()
+    return {
+        linha.strip()
+        for linha in REGERAR.read_text(encoding="utf-8").splitlines()
+        if linha.strip() and not linha.startswith("#")
+    }
 
 
 def capa_ok(p: Path) -> bool:
@@ -45,10 +56,11 @@ def main() -> int:
         por_capitulo.setdefault(c["capitulo"], []).append(c)
 
     fila = []
+    regerar = carregar_regerar()
     for p in sorted(DOCS.glob("capitulo-*.md")):
-        if capa_ok(p):
-            continue
         num = p.stem.split("-", 1)[1]
+        if capa_ok(p) and num not in regerar:
+            continue
         opcoes = por_capitulo.get(num, [])
         cena = escolher_cena(opcoes)
         if cena is None:
@@ -58,6 +70,7 @@ def main() -> int:
             "capitulo": num,
             "saida": f"docs/public/capitulo_{num}.jpg",
             "seed": cena["seed"],
+            "substituir": num in regerar,
             "referencias": [e["referencia"] for e in cena["elenco"] if e.get("referencia")],
             "prompt": f"{cena['prompt']} {FORMATO}",
         })
@@ -68,13 +81,15 @@ def main() -> int:
         "",
         "Para cada bloco: gere uma capa 16:9 com a ferramenta nativa de imagem,",
         "anexando os retratos de referência, e grave exatamente no caminho de saída.",
-        "Não sobrescreva arquivo existente. Não escreva texto na imagem.",
+        "Não sobrescreva arquivo existente, exceto os blocos marcados **REGERAR**.",
+        "Não escreva texto na imagem.",
         "",
     ]
     for i, item in enumerate(fila, 1):
         refs = ", ".join(f"`{r}`" for r in item["referencias"]) or "(sem retrato)"
+        marca = " **REGERAR**" if item.get("substituir") else ""
         linhas += [
-            f"## {i}. Capítulo {item['capitulo']}",
+            f"## {i}. Capítulo {item['capitulo']}{marca}",
             f"- **Saída:** `{item['saida']}`",
             f"- **Referências:** {refs}",
             f"- **Seed:** {item['seed']}",

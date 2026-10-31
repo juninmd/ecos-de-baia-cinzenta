@@ -4,6 +4,8 @@
 O gerador grava `docs/public/capitulo_N.jpg`; o site só mostra a capa se o
 frontmatter tiver `image:`. Este passo fecha a lacuna e é idempotente: capítulo
 com `image:` válido não é tocado, capítulo sem arquivo continua sem capa.
+Variantes antigas (`_pro`, `_std`) são substituídas pela capa padrão quando ela
+existe; capa de cena continua valendo.
 """
 from __future__ import annotations
 
@@ -15,9 +17,23 @@ ROOT = Path(__file__).resolve().parents[1]
 DOCS = ROOT / "docs"
 
 
-def capa_valida(texto: str) -> bool:
+def imagem_atual(texto: str) -> str | None:
     m = re.search(r"^image:\s*(\S+)", texto, re.M)
-    return bool(m) and (DOCS / "public" / m.group(1).lstrip("/")).exists()
+    return m.group(1) if m else None
+
+
+def capa_valida(texto: str) -> bool:
+    img = imagem_atual(texto)
+    return bool(img) and (DOCS / "public" / img.lstrip("/")).exists()
+
+
+def deve_trocar(texto: str, novo: str) -> bool:
+    atual = imagem_atual(texto)
+    if atual is None:
+        return True
+    if not (DOCS / "public" / atual.lstrip("/")).exists():
+        return True
+    return atual != novo and re.search(r"_(pro|std)\.jpg$", atual, re.I) is not None
 
 
 def main() -> int:
@@ -28,9 +44,9 @@ def main() -> int:
         if not capa.exists():
             continue
         texto = p.read_text(encoding="utf-8")
-        if capa_valida(texto):
-            continue
         novo = f"/capitulo_{num}.jpg"
+        if not deve_trocar(texto, novo):
+            continue
         if re.search(r"^image:\s*\S+", texto, re.M):
             texto = re.sub(r"^image:\s*\S+", f"image: {novo}", texto, count=1, flags=re.M)
         elif texto.startswith("---\n"):
