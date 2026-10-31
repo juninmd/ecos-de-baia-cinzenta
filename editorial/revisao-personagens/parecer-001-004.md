@@ -2,7 +2,7 @@
 
 Registro da etapa inicial na base `2e2f7ed`. O capítulo 4 foi posteriormente
 reescrito e a idade residual de Gabo em 1 foi alinhada ao calendário de 35 anos.
-Medidas, correções e pendências atuais: [revisão aplicada](revisao-004-007.md).
+Medidas, correções e pendências atuais: [revisão aplicada](revisao-capitulos-1-35.md#lote-004-a-007).
 
 Parecer da etapa de perfis; a prosa não foi alterada. Leitura integral destes
 quatro capítulos e confronto com as fichas. O capítulo 5 ainda não foi lido

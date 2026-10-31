@@ -6,14 +6,14 @@ Lint não executado após a orientação do autor: reservado ao fechamento da re
 19 originais, 244 protegidos e 238 symlinks conferidos; recibo no backup.
 Quatro perfis editoriais adicionados; 54 fichas, sem inventário exaustivo.
 Verificação conjunta: 33 documentos e 301 links locais; 37 backups de duas épocas.
-Sem build, mídia ou publicação. Detalhes: [32–35](revisao-032-035.md).
+Sem build, mídia ou publicação. Detalhes: [32–35](revisao-capitulos-1-35.md#lote-032-a-035).
 
 **Rodada 29, 30, 30.5 e 31:** quatro fontes, resumos e pareceres aplicados.
 Suíte: 1.664 aprovados, quatro avisos, 18,95 s. Lint de 12 documentos passou
 antes da orientação de deixar o lint restante para o fechamento da revisão.
 238 links relativos, 18 originais e 244 protegidos conferidos antes da rodada
 seguinte; títulos/menu, UTF-8 e teto de linhas verificados. Build não repetido.
-Detalhes e limites: [revisão de 29–31](revisao-029-031.md).
+Detalhes e limites: [revisão de 29–31](revisao-capitulos-1-35.md#lote-029-a-031).
 
 **Rodada 23–28:** seis fontes, resumos e pareceres aplicados; 238 symlinks
 relativos íntegros. Suíte final: 1.664 aprovados, quatro avisos, 8,76 s. Lint:
@@ -24,7 +24,7 @@ seis páginas HTML confirmadas com a prosa nova. Diff sem problemas.
 A primeira tentativa de build falhou com EPERM ao limpar um arquivo de dist,
 enquanto a suíte também lia essa pasta. O handle específico não foi identificado;
 a repetição sequencial passou, seguida da suíte final. Sem alteração de código.
-Detalhes, notas, inventário e pendências: [revisão de 23–28](revisao-023-028.md).
+Detalhes, notas, inventário e pendências: [revisão de 23–28](revisao-capitulos-1-35.md#lote-023-a-028).
 
 **Rodada 19–22 e espelhos:** 1.664 testes aprovados, quatro avisos, 9,41 s.
 Ruff passou. Build final do site passou em 77,38 s, com avisos npm e de tamanho
@@ -37,7 +37,7 @@ Lint: 22 documentos, zero problemas; 415 links locais existentes, UTF-8, newline
 limite de linhas, backups e fontes fora do escopo conferidos. Diff sem problemas.
 Quatro downloads Markdown conferidos contra fontes; o de 21 foi sincronizado
 após remoção de brancos finais. HTML de 22 contém a prosa nova. Recibo no backup.
-Detalhes: [19–22](revisao-019-022.md) e [symlinks](espelhos-symlinks.md).
+Detalhes: [19–22](revisao-capitulos-1-35.md#lote-019-a-022) e [symlinks](espelhos-symlinks.md).
 
 **Rodada 12–18, base 2730f6c:** 1.557 testes aprovados, quatro avisos; lint de
 35 arquivos, zero problemas. Sete pares fonte/espelho idênticos, 33 backups e
@@ -46,21 +46,21 @@ UTF-8, newline, teto de 150 linhas, títulos contra menu e diff conferidos.
 Contagens de prosa excluem metadados, H1 e pontuação isolada. O MD025 deixa de
 contar o campo YAML title como H1; a exigência de um único H1 continua ativa.
 O relatório de qualidade preexistente não foi regravado. Nenhuma mídia gerada.
-Evidências e limites: [revisão de 12–18](revisao-012-018.md).
+Evidências e limites: [revisão de 12–18](revisao-capitulos-1-35.md#lote-012-a-018).
 
 **Rodada 8–11, base `2730f6c`:** 1.552 testes aprovados, quatro avisos, 4,87 s.
 Lint dos 51 arquivos alterados/novos sob responsabilidade desta revisão: zero
 problemas. Quatro pares novos de fonte/espelho idênticos; 32 backups conferidos
 contra manifesto e 24 arquivos protegidos mantidos byte a byte. UTF-8, links,
 newlines, limite de 150 linhas, base e `git diff --check` conferidos.
-Resultados narrativos e pendências: [revisão de 8–11](revisao-008-011.md).
+Resultados narrativos e pendências: [revisão de 8–11](revisao-capitulos-1-35.md#lote-008-a-011).
 
 **Rodada de aplicação, base `2730f6c`:** 1.552 testes aprovados, quatro avisos,
 4,85 s; lint dos 34 arquivos conferidos com zero problemas. Cinco pares de
 fonte/espelho idênticos. UTF-8, links, newline final e limite de 150 linhas
 conferidos nos 34 arquivos; `git diff --check` sem problemas. O hash exato do
 relatório preexistente foi preservado e a base permaneceu estável. Prosa, resumos,
-pareceres e pendências atuais: [revisão de 4–7](revisao-004-007.md).
+pareceres e pendências atuais: [revisão de 4–7](revisao-capitulos-1-35.md#lote-004-a-007).
 
 Os recibos e resultados abaixo descrevem a primeira etapa de perfis, anterior
 à aplicação. Não são hashes de preservação das fontes deliberadamente revisadas.

@@ -8,40 +8,40 @@ revisão concluída. Aplicação local de 4–35, incluindo 30.5 não aprova o a
 | [1](../../docs/capitulo-1.md) | Integral para perfis; idade reconferida | [Inicial, com pendências](parecer-001-004.md) | Idade alinhada; demais pendências abertas |
 | [2](../../docs/capitulo-2.md) | Integral para perfis | [Inicial, com pendências](parecer-001-004.md) | Pendente |
 | [3](../../docs/capitulo-3.md) | Integral para perfis | [Inicial, com pendências](parecer-001-004.md) | Pendente |
-| [4](../../docs/capitulo-4.md) | Integral e revista | [Aplicada, com pendências globais](revisao-004-007.md) | Conferida localmente; arco pendente |
-| [5](../../docs/capitulo-5.md) | Integral e revista | [Aplicada, com pendências globais](revisao-004-007.md) | Conferida localmente; arco pendente |
-| [6](../../docs/capitulo-6.md) | Integral e revista | [Aplicada, com pendências globais](revisao-004-007.md) | Conferida localmente; arco pendente |
-| [7](../../docs/capitulo-7.md) | Integral e revista | [Aplicada, com pendências globais](revisao-004-007.md) | Conferida localmente; arco pendente |
-| [8](../../docs/capitulo-8.md) | Integral e revista | [Aplicada, com pendências globais](revisao-008-011.md) | Conferida localmente; arco pendente |
-| [9](../../docs/capitulo-9.md) | Integral e revista | [Aplicada, com pendências globais](revisao-008-011.md) | Conferida localmente; arco pendente |
-| [10](../../docs/capitulo-10.md) | Integral e revista | [Aplicada, com pendências globais](revisao-008-011.md) | Conferida localmente; arco pendente |
-| [11](../../docs/capitulo-11.md) | Integral e revista | [Aplicada, com pendências globais](revisao-008-011.md) | Conferida localmente; arco pendente |
-| [12](../../docs/capitulo-12.md) | Integral e revista | [Aplicada, com pendências posteriores](revisao-012-018.md) | Conferida localmente; obra pendente |
-| [13](../../docs/capitulo-13.md) | Integral e revista | [Aplicada, com pendências posteriores](revisao-012-018.md) | Conferida localmente; obra pendente |
-| [14](../../docs/capitulo-14.md) | Integral e revista | [Aplicada, com pendências posteriores](revisao-012-018.md) | Conferida localmente; obra pendente |
-| [15](../../docs/capitulo-15.md) | Integral e revista | [Aplicada, com pendências posteriores](revisao-012-018.md) | Conferida localmente; obra pendente |
-| [16](../../docs/capitulo-16.md) | Integral e revista | [Aplicada, com pendências posteriores](revisao-012-018.md) | Conferida localmente; obra pendente |
-| [17](../../docs/capitulo-17.md) | Integral e revista | [Aplicada, com pendências posteriores](revisao-012-018.md) | Conferida localmente; obra pendente |
-| [18](../../docs/capitulo-18.md) | Integral e revista | [Aplicada, com pendências posteriores](revisao-012-018.md) | Conferida localmente; obra pendente |
-| [19](../../docs/capitulo-19.md) | Integral e revista | [Aplicada, com pendências posteriores](revisao-019-022.md) | Conferida localmente; obra pendente |
-| [20](../../docs/capitulo-20.md) | Integral e revista | [Aplicada, com pendências posteriores](revisao-019-022.md) | Conferida localmente; obra pendente |
-| [21](../../docs/capitulo-21.md) | Integral e revista | [Aplicada, com pendências posteriores](revisao-019-022.md) | Conferida localmente; obra pendente |
-| [22](../../docs/capitulo-22.md) | Integral e revista | [Aplicada, com pendências posteriores](revisao-019-022.md) | Conferida localmente; obra pendente |
-| [23](../../docs/capitulo-23.md) | Integral e revista | [Aplicada, com pendências posteriores](revisao-023-028.md) | Conferida localmente; obra pendente |
-| [24](../../docs/capitulo-24.md) | Integral e revista | [Aplicada, com pendências posteriores](revisao-023-028.md) | Conferida localmente; obra pendente |
-| [25](../../docs/capitulo-25.md) | Integral e revista | [Aplicada, com pendências posteriores](revisao-023-028.md) | Conferida localmente; obra pendente |
-| [26](../../docs/capitulo-26.md) | Integral e revista | [Aplicada, com pendências posteriores](revisao-023-028.md) | Conferida localmente; obra pendente |
-| [27](../../docs/capitulo-27.md) | Integral e revista | [Aplicada, com pendências posteriores](revisao-023-028.md) | Conferida localmente; obra pendente |
-| [28](../../docs/capitulo-28.md) | Integral e revista | [Aplicada, com pendências posteriores](revisao-023-028.md) | Conferida localmente; obra pendente |
-| [29](../../docs/capitulo-29.md) | Integral e revista | [Aplicada](revisao-029-031.md) | Conferida localmente; arco pendente |
-| [30](../../docs/capitulo-30.md) | Integral e revista | [Aplicada](revisao-029-031.md) | Conferida localmente; arco pendente |
-| [30.5](../../docs/capitulo-30.5.md) | Integral e revista | [Aplicada](revisao-029-031.md) | Conferida localmente; arco pendente |
-| [31](../../docs/capitulo-31.md) | Integral e revista | [Aplicada](revisao-029-031.md) | Conferida localmente; arco pendente |
-| [32](../../docs/capitulo-32.md) | Integral e revista | [Aplicada](revisao-032-035.md) | Conferida localmente; arco pendente |
-| [33](../../docs/capitulo-33.md) | Integral e revista | [Aplicada](revisao-032-035.md) | Conferida localmente; arco pendente |
-| [34](../../docs/capitulo-34.md) | Integral e revista | [Aplicada](revisao-032-035.md) | Conferida localmente; arco pendente |
-| [35](../../docs/capitulo-35.md) | Integral e revista | [Aplicada](revisao-032-035.md) | Conferida localmente; arco pendente |
-| [36](../../docs/capitulo-36.md) | Integral para continuidade | [Pendências](revisao-032-035.md) | Pendente |
+| [4](../../docs/capitulo-4.md) | Integral e revista | [Aplicada, com pendências globais](revisao-capitulos-1-35.md#lote-004-a-007) | Conferida localmente; arco pendente |
+| [5](../../docs/capitulo-5.md) | Integral e revista | [Aplicada, com pendências globais](revisao-capitulos-1-35.md#lote-004-a-007) | Conferida localmente; arco pendente |
+| [6](../../docs/capitulo-6.md) | Integral e revista | [Aplicada, com pendências globais](revisao-capitulos-1-35.md#lote-004-a-007) | Conferida localmente; arco pendente |
+| [7](../../docs/capitulo-7.md) | Integral e revista | [Aplicada, com pendências globais](revisao-capitulos-1-35.md#lote-004-a-007) | Conferida localmente; arco pendente |
+| [8](../../docs/capitulo-8.md) | Integral e revista | [Aplicada, com pendências globais](revisao-capitulos-1-35.md#lote-008-a-011) | Conferida localmente; arco pendente |
+| [9](../../docs/capitulo-9.md) | Integral e revista | [Aplicada, com pendências globais](revisao-capitulos-1-35.md#lote-008-a-011) | Conferida localmente; arco pendente |
+| [10](../../docs/capitulo-10.md) | Integral e revista | [Aplicada, com pendências globais](revisao-capitulos-1-35.md#lote-008-a-011) | Conferida localmente; arco pendente |
+| [11](../../docs/capitulo-11.md) | Integral e revista | [Aplicada, com pendências globais](revisao-capitulos-1-35.md#lote-008-a-011) | Conferida localmente; arco pendente |
+| [12](../../docs/capitulo-12.md) | Integral e revista | [Aplicada, com pendências posteriores](revisao-capitulos-1-35.md#lote-012-a-018) | Conferida localmente; obra pendente |
+| [13](../../docs/capitulo-13.md) | Integral e revista | [Aplicada, com pendências posteriores](revisao-capitulos-1-35.md#lote-012-a-018) | Conferida localmente; obra pendente |
+| [14](../../docs/capitulo-14.md) | Integral e revista | [Aplicada, com pendências posteriores](revisao-capitulos-1-35.md#lote-012-a-018) | Conferida localmente; obra pendente |
+| [15](../../docs/capitulo-15.md) | Integral e revista | [Aplicada, com pendências posteriores](revisao-capitulos-1-35.md#lote-012-a-018) | Conferida localmente; obra pendente |
+| [16](../../docs/capitulo-16.md) | Integral e revista | [Aplicada, com pendências posteriores](revisao-capitulos-1-35.md#lote-012-a-018) | Conferida localmente; obra pendente |
+| [17](../../docs/capitulo-17.md) | Integral e revista | [Aplicada, com pendências posteriores](revisao-capitulos-1-35.md#lote-012-a-018) | Conferida localmente; obra pendente |
+| [18](../../docs/capitulo-18.md) | Integral e revista | [Aplicada, com pendências posteriores](revisao-capitulos-1-35.md#lote-012-a-018) | Conferida localmente; obra pendente |
+| [19](../../docs/capitulo-19.md) | Integral e revista | [Aplicada, com pendências posteriores](revisao-capitulos-1-35.md#lote-019-a-022) | Conferida localmente; obra pendente |
+| [20](../../docs/capitulo-20.md) | Integral e revista | [Aplicada, com pendências posteriores](revisao-capitulos-1-35.md#lote-019-a-022) | Conferida localmente; obra pendente |
+| [21](../../docs/capitulo-21.md) | Integral e revista | [Aplicada, com pendências posteriores](revisao-capitulos-1-35.md#lote-019-a-022) | Conferida localmente; obra pendente |
+| [22](../../docs/capitulo-22.md) | Integral e revista | [Aplicada, com pendências posteriores](revisao-capitulos-1-35.md#lote-019-a-022) | Conferida localmente; obra pendente |
+| [23](../../docs/capitulo-23.md) | Integral e revista | [Aplicada, com pendências posteriores](revisao-capitulos-1-35.md#lote-023-a-028) | Conferida localmente; obra pendente |
+| [24](../../docs/capitulo-24.md) | Integral e revista | [Aplicada, com pendências posteriores](revisao-capitulos-1-35.md#lote-023-a-028) | Conferida localmente; obra pendente |
+| [25](../../docs/capitulo-25.md) | Integral e revista | [Aplicada, com pendências posteriores](revisao-capitulos-1-35.md#lote-023-a-028) | Conferida localmente; obra pendente |
+| [26](../../docs/capitulo-26.md) | Integral e revista | [Aplicada, com pendências posteriores](revisao-capitulos-1-35.md#lote-023-a-028) | Conferida localmente; obra pendente |
+| [27](../../docs/capitulo-27.md) | Integral e revista | [Aplicada, com pendências posteriores](revisao-capitulos-1-35.md#lote-023-a-028) | Conferida localmente; obra pendente |
+| [28](../../docs/capitulo-28.md) | Integral e revista | [Aplicada, com pendências posteriores](revisao-capitulos-1-35.md#lote-023-a-028) | Conferida localmente; obra pendente |
+| [29](../../docs/capitulo-29.md) | Integral e revista | [Aplicada](revisao-capitulos-1-35.md#lote-029-a-031) | Conferida localmente; arco pendente |
+| [30](../../docs/capitulo-30.md) | Integral e revista | [Aplicada](revisao-capitulos-1-35.md#lote-029-a-031) | Conferida localmente; arco pendente |
+| [30.5](../../docs/capitulo-30.5.md) | Integral e revista | [Aplicada](revisao-capitulos-1-35.md#lote-029-a-031) | Conferida localmente; arco pendente |
+| [31](../../docs/capitulo-31.md) | Integral e revista | [Aplicada](revisao-capitulos-1-35.md#lote-029-a-031) | Conferida localmente; arco pendente |
+| [32](../../docs/capitulo-32.md) | Integral e revista | [Aplicada](revisao-capitulos-1-35.md#lote-032-a-035) | Conferida localmente; arco pendente |
+| [33](../../docs/capitulo-33.md) | Integral e revista | [Aplicada](revisao-capitulos-1-35.md#lote-032-a-035) | Conferida localmente; arco pendente |
+| [34](../../docs/capitulo-34.md) | Integral e revista | [Aplicada](revisao-capitulos-1-35.md#lote-032-a-035) | Conferida localmente; arco pendente |
+| [35](../../docs/capitulo-35.md) | Integral e revista | [Aplicada](revisao-capitulos-1-35.md#lote-032-a-035) | Conferida localmente; arco pendente |
+| [36](../../docs/capitulo-36.md) | Integral para continuidade | [Pendências](revisao-capitulos-1-35.md#lote-032-a-035) | Pendente |
 | [37](../../docs/capitulo-37.md) | Abertura para cronologia | Pendente | Pendente |
 | [38](../../docs/capitulo-38.md) | Não lido | Pendente | Pendente |
 | [39](../../docs/capitulo-39.md) | Não lido | Pendente | Pendente |

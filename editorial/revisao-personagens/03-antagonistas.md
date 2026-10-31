@@ -23,7 +23,7 @@ toda ação alheia. Fontes não lidas integralmente estão identificadas como tr
 - **Trajetória proposta:** a derrota resulta de limites e da exploração de falhas observadas, preservando o papel de Gabo e Valéria. A influência de Dante precisa de evidência anterior à solução.
 - **Voz:** apresentador que distribui papéis e exige resposta; a voz real de Dante aparece como ruptura, não como mais uma provocação indistinta.
 - **Ajuste:** ordenar derrota do chassi, sobrevivência do controle e deleção. Não chamar o Gamemaster de pai nem tratar a ordem de preservação de Gabo como invulnerabilidade absoluta.
-- **Fontes:** perfil e linha do tempo no dossiê; interpretação tardia em [220](../../docs/capitulo-220.md) e [228](../../docs/capitulo-228.md). Aplicação sequencial até 31, incluindo 30.5, em [revisão](revisao-029-031.md); alcance da deleção não é comprovado por recibos locais.
+- **Fontes:** perfil e linha do tempo no dossiê; interpretação tardia em [220](../../docs/capitulo-220.md) e [228](../../docs/capitulo-228.md). Aplicação sequencial até 31, incluindo 30.5, em [revisão](revisao-capitulos-1-35.md#lote-029-a-031); alcance da deleção não é comprovado por recibos locais.
 
 ## O Taxidermista
 
@@ -45,7 +45,7 @@ toda ação alheia. Fontes não lidas integralmente estão identificadas como tr
 - **Trajetória proposta:** do parceiro que se vende ao corpo tratado como garantia. Cada transformação deve reduzir suas opções e revelar o que ainda escolhe.
 - **Voz:** probabilidade e negociação informal; intimidade antiga com Gabo permite ferir sem explicar todo o passado.
 - **Ajuste:** amarrar motivação, autoria da morte de Bia e custódia da prova. Distinguir suspeita inicial, confissão e demonstração; destruição de 103 não autoriza outro retorno vivo.
-- **Fontes:** conhecimento e falta de prova em [1](../../docs/capitulo-1.md); versão de Gabo em [230](../../docs/capitulo-230.md); fases e desfecho no dossiê. [30.5 revisto](revisao-029-031.md): capturado vivo, sem biomorfo; prótese perdida em 23, reposição até 55 pendente.
+- **Fontes:** conhecimento e falta de prova em [1](../../docs/capitulo-1.md); versão de Gabo em [230](../../docs/capitulo-230.md); fases e desfecho no dossiê. [30.5 revisto](revisao-capitulos-1-35.md#lote-029-a-031): capturado vivo, sem biomorfo; prótese perdida em 23, reposição até 55 pendente.
 
 ## Kael "O Cirurgião" / O Santo
 
@@ -56,7 +56,7 @@ toda ação alheia. Fontes não lidas integralmente estão identificadas como tr
 - **Trajetória proposta:** executor, vigilante e recusa final precisam de causas e continuidade de identidade; a mudança de título não basta.
 - **Voz:** poucas palavras de comando; quando hesita, perde a sintaxe operacional. Não lhe dar os mesmos discursos de artista do Taxidermista.
 - **Ajuste:** conferir o Santo agressor de 62, a aparente composição Kael/Marco em 70, o Marco separado em 71 e o corpo desativado em 72. A ficha "caiu na Parte XIII" não descreve adequadamente essa sequência.
-- **Fontes:** [4](../../docs/capitulo-4.md); trechos consultados de [62](../../docs/capitulo-62.md), [70](../../docs/capitulo-70.md), [71](../../docs/capitulo-71.md) e [72](../../docs/capitulo-72.md); dossiê. [30 revisto](revisao-029-031.md): respiração e movimento preservados, sem execução elétrica.
+- **Fontes:** [4](../../docs/capitulo-4.md); trechos consultados de [62](../../docs/capitulo-62.md), [70](../../docs/capitulo-70.md), [71](../../docs/capitulo-71.md) e [72](../../docs/capitulo-72.md); dossiê. [30 revisto](revisao-capitulos-1-35.md#lote-029-a-031): respiração e movimento preservados, sem execução elétrica.
 
 ## Anselmo Braga
 
