@@ -8,7 +8,7 @@ description: "Rangel morre apesar da tentativa de reanimação e do pedido de aj
 
 # Capítulo 150: Peso Morto
 
-A passarela rangia sob os pés de Gabo como os ossos de um gigante doente. Cada passo era uma aposta contra o colapso estrutural, uma roleta russa jogada sobre um mar de ácido industrial e biomassa liquefeita que exalava odores insuportáveis.
+A passarela rangia sob os pés de Gabo como os ossos de um gigante doente. Cada passo era uma aposta contra o colapso estrutural, sobre o líquido escuro dos tanques que exalava odores insuportáveis.
 
 Rangel estava mais pesado. Não fisicamente, mas a ausência de tensão muscular em seu corpo tornava cada movimento seu um peso morto gravitacional, preso à prancha que Gabo puxava e Valéria guiava. O chiado irregular de sua respiração se misturava ao som denso do fluido borbulhando lá embaixo, um ronronar rítmico de caldeira fervendo.
 
@@ -20,9 +20,9 @@ O cheiro de cigarro vagabundo. Aquele alcatrão queimado invadindo as narinas, i
 
 Gabo afrouxou a mão machucada na cinta. A fumaça não estava ali; Val estava, guiando a prancha pelo metal que rangia. Ele acompanhou o ritmo dos passos dela.
 
-No pulso de Valéria, o pendrive de Aria processava em tempo real a vibração acústica de cada placa de metal enferrujada através dos sensores do cyberdeck *Phantom V3*. Onde a antiga versão da IA teria demonstrado urgência humana, o drive pós-reboot apenas otimizava vetores de deslocamento, seu LED azul-gelo piscando frio na neblina ácida.
+No pulso de Valéria, o pendrive de Aria recebia pelo *Phantom V3* a imagem da passarela e o rangido do metal. O canal de voz ainda carregava as limitações do reparo; no visor, ela acompanhava as placas e o cabo de inspeção preso à prancha.
 
-— *Alerta Estrutural Iminente,* — Aria anunciou pelo comunicador na gola de Gabo e pelo alto-falante do deck, sem alterar o tom constante. — *O pilar de sustentação L-4 à frente apresenta fadiga térmica e corrosão grave. Transição de carga não recomendada.*
+— *Alerta Estrutural Iminente,* — Aria anunciou pelo comunicador na gola de Gabo e pelo alto-falante do deck, sem alterar o tom constante. — *O pilar L-4 à frente está visivelmente corroído. Não consigo avaliar quanto peso ele suporta. Não recomendo transferir a carga.*
 
 — A gente... não tem... outra ponte, porra! — Valéria rosnou, o suor traçando linhas claras em seu rosto sujo de poeira e fuligem. — Continua andando.
 

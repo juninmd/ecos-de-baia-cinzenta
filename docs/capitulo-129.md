@@ -14,9 +14,9 @@ Ele conferiu o curativo improvisado com um pedaço de camisa rasgada. O sangue d
 
 Havia apenas repulsa. O gosto de ferrugem na boca o lembrava do crematório e dos charutos do pai, revirando seu estômago.
 
-— *Gabo, há sangue atravessando a faixa* — Aria falou no fone auricular, o drive de titânio pulsando âmbar sob as luzes de emergência enquanto o drive processava os sensores biométricos do comunicador de Gabo. A saída ainda falhava, mas era a cadência que ela escolhera manter. — *Você está perdendo sangue rápido, detetive. Não tenho uma medida confiável pelo comunicador. Estou vendo sangue atravessar a faixa; Val precisa conferir o ferimento.*
+— *Gabo, há sangue atravessando a faixa* — Aria falou no fone auricular, o drive de titânio pulsando âmbar sob as luzes de emergência enquanto o drive processava os sensores biométricos do comunicador de Gabo. A saída ainda falhava, mas era a cadência que ela escolhera manter. — *Não tenho uma medida confiável da perda pelo comunicador. Estou vendo sangue atravessar a faixa; Val precisa conferir o ferimento.*
 
-Gabo ignorou o fantasma no fone. Ele se virou para Valéria. A hacker estava ajoelhada diante de um painel de controle manual, seus olhos cibernéticos varrendo os mostradores analógicos com frustração.
+Gabo ouviu o aviso e se virou para Valéria. A hacker estava ajoelhada diante de um painel de controle manual, seus olhos cibernéticos varrendo os mostradores analógicos com frustração.
 
 — Val, relatório — ele grunhiu, ajustando a prancha de Rangel numa posição mais segura. O inspetor estava febril, murmurando sobre arquivos perdidos e carimbos sem tinta.
 
@@ -36,7 +36,7 @@ Valéria apontou para um diagrama esquemático gravado em uma placa de bronze na
 
 — *Não sei* — respondeu Aria pelo comunicador. — *O cadastro do circuito diz fluido nutritivo e refrigerante. Não consigo analisar o conteúdo pelo vidro. Há controladores de dados presos à tubulação.*
 
-Gabo fitou o pequeno drive de titânio espetado no equipamento. A sobreposição da voz de sua ex-parceira morta saindo de um módulo de inteligência artificial era uma dissonância cognitiva que ele lutava para suportar.
+Gabo fitou o pequeno drive de titânio espetado no equipamento. O cheiro de fumaça trouxe a lembrança de Bia, mas a voz no fone pertencia a Aria, que acabara de alertá-lo sobre o ferimento.
 
 — Explique — ele ordenou.
 

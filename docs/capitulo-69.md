@@ -86,6 +86,8 @@ A tela trocou para um esquema da Torre Aeterna em linhas verdes — a torre inte
 `ELE NÃO ESTÁ EM PLANTA NENHUMA. EU PAGUEI A EQUIPE POR FORA E ELES ACHARAM QUE ERA CORRUPÇÃO, O QUE ERA CONVENIENTE.`\
 `NEM O MARCO SABE.`
 
+No esquema, uma ampulheta quebrada marcava a entrada; uma seta apontava para o tijolo à direita da gravação. Val guardou a imagem no deck antes que o terminal falhasse.
+
 — Você sabia que ia acontecer? — perguntou Gabo. — Você sabia, quando construiu isso, no que a cidade ia virar?
 
 `EU TEMI.`

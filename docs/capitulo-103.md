@@ -20,6 +20,8 @@ Dante Moretti. Ou melhor, uma casca vazia cultivada para ser ele.
 
 Silas Vance estava lá. Ele não parecia o monstro vegetal que as lendas do subsolo descreviam. Ele parecia humano, dolorosamente humano, vestido com um jaleco branco imaculado que contrastava violentamente com a sujeira do mundo exterior. Apenas as veias negras que subiam pelo seu pescoço denunciavam a infecção controlada.
 
+- Você me deixou uma raiz, detetive - disse Silas, como se lesse a pergunta no rosto de Gabo. - Ela fez o resto.
+
 — Silas — rosnou Gabo, o som de suas órteses metálicas clicando enquanto ele avançava pela passarela.
 
 — Gabriel. E a intrépida Srta. Moretti. — Silas abriu os braços. — Vocês chegaram a tempo para o batizado.

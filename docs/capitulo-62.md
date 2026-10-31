@@ -18,7 +18,7 @@ A figura que apareceu no vão tapava a lua. O Santo.
 
 Traje tático de placa cerâmica, corte reto, com um colarinho alto e rígido que era a única concessão estética do conjunto e que fazia a silhueta lembrar batina. A máscara balística era branca, lisa e sem feição nenhuma: nem grade de respiração, nem lente aparente, nada. Só uma superfície curva onde devia haver rosto.
 
-Gabo disparou três vezes antes de pensar.
+Gabo puxou a Caronte pela alça e a prendeu ao corpo antes de apontar a Glock. Disparou três vezes antes de pensar.
 
 Os três acertaram: dois no peito, um no ombro. O corpo não recuou. Não é que ele resistiu ao impacto — o impacto foi absorvido pela placa e distribuído, e a massa daquele homem era grande o bastante para que quinhentos joules não significassem nada.
 
@@ -32,7 +32,7 @@ Isso é importante, porque nos anos seguintes muita gente contou aquela cena com
 
 Ele agarrou Gabo pela gola e pelo cinto e o arremessou pela porta aberta.
 
-Gabo voou dois metros e meio e bateu de costas na parede de tijolo do beco, e o ar saiu inteiro dos pulmões dele de uma vez, e as órteses das pernas guincharam e uma das barras entortou.
+Gabo voou dois metros e meio e bateu de costas na parede de tijolo do beco. O ar saiu dos pulmões; a alça da Caronte rompeu e a escopeta caiu perto dele. As órteses guincharam, e uma das barras entortou.
 
 Val atacou com uma barra de ferro. Ela acertou, aliás — acertou bem, na lateral do joelho, que era o alvo certo.
 
@@ -95,7 +95,7 @@ E o cérebro dele, que era treinado e que não desligava nem quebrado, foi junta
 
 Se a IA que ele encontrara na cabine telefônica tinha sido compilada sobre fragmentos neurais de cobaias do Projeto Lázaro — se existia um arquivo de origem com assinatura de laboratório —, então a arquitetura mental que prendia aquele homem dentro da armadura vinha do mesmo abatedouro.
 
-Aria era o código sem carne; ele era a carne transformada em código.
+A semelhança no protocolo não contava quem construíra a armadura nem o que Aria tinha em comum com aquele homem. Gabo precisava perguntar aos dois — se conseguissem sair dali.
 
 Gabo conseguiu se apoiar num cotovelo e pegou a *Caronte*, que tinha caído a um metro dele. Esperou o Santo voltar o peso para a perna que Val atingira.
 

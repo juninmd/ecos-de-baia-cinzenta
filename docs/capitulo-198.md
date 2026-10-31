@@ -17,9 +17,9 @@ Eu contava os passos em vez de sentir a distância. Cada cem, uma pausa de dois 
 
 Elias caminhava colado ao meu lado esquerdo, os olhos saltando freneticamente pelas sombras projetadas pela lanterna fraca que ele mantinha apontada para o chão.
 
-— Frequência respiratória muito rápida, Elias — a voz de Valéria soou num sussurro cortante logo atrás de nós. A luz azul dos filamentos de LED na franja dela desenhava seu perfil concentrado, o cyberdeck seguro no peito e a pistola destravada. — Se você continuar puxando o ar desse jeito descompassado, vai ter uma crise de hiperventilação e desmaiar na lama. E se você desmaiar, eu e o Gabo não temos maca pra carregar seu peso. Respira fundo pelo nariz e solta pela boca devagar.
+— Frequência respiratória muito rápida, Elias — a voz de Valéria soou num sussurro cortante logo atrás de nós. A luz azul dos filamentos de LED na franja dela desenhava seu perfil concentrado, o cyberdeck seguro no peito e a pistola destravada. — Sua respiração está muito rápida. Se precisar parar, me avisa; eu e o Gabo não temos maca para carregar você. Respira fundo pelo nariz e solta pela boca devagar.
 
-Elias soltou um soluço assustado, mas obedeceu, forçando a mandíbula a fechar e controlando o ritmo dos pulmões por trás da máscara de carvão.
+Elias fez sinal de que ouvira. Tentou diminuir o passo e levou alguns metros até conseguir responder sem interromper cada palavra.
 
 Entramos numa galeria mais larga, onde os pilares de concreto davam sustentação aos antigos trilhos de carga subterrâneos da área comercial. Mas a arquitetura humana fora completamente engolida por algo doentio.
 

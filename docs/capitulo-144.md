@@ -7,7 +7,7 @@ Personagens Presentes: "Gabo, Valéria, Aria (Reboot), Rangel (Inconsciente)"
 
 # Capítulo 144: Tensão de Ruptura
 
-O silêncio que se seguiu à destruição dos drones não era vazio. Era pesado, denso e carregado de uma eletricidade estática que fazia os pelos da nuca arrepiarem. A nuvem de poeira de sílica e ferrugem baixou lentamente pelo fosso, mas o poço continuava escuro, um esôfago de metal podre que engolia qualquer som de esperança desde o colapso da superfície.
+A poeira de sílica ainda descia pelo fosso quando o mosquetão puxou o cinto de Gabo. O silêncio que se seguiu à destruição dos drones tinha peso: uma eletricidade estática que arrepiou os pelos da nuca e fez o poço parecer ainda mais fundo. Lá embaixo, o metal podre engolia qualquer som de esperança desde o colapso da superfície.
 
 Gabo já não sentia os braços. Seus músculos haviam passado do estágio do ácido lático para o torpor prévio à falha estrutural. A cada degrau que ele avançava, a cinta-guia da prancha de Rangel puxava o mosquetão do cinto tático. O cabo do guincho sustentava a carga, mas cada oscilação chegava ao arnês de Gabo cavava um sulco profundo em sua cintura e forçando as articulações dos ombros e a coluna do exoesqueleto ao limite do rompimento.
 

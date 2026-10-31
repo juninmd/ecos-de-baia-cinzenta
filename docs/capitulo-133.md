@@ -82,7 +82,7 @@ No deck de Valéria, o pendrive de Aria emitiu um guincho de estática quando o 
 
 Gabo sentiu o mundo girar. A imagem de Bia na vitrine queimava em sua retina. Era uma mentira. Tinha que ser. O corpo dela tinha sido cremado.
 
-— É uma boneca de cera e polímero! — Valéria gritou, segurando o braço de Gabo enquanto tentava conter o pico de tensão no pendrive da Aria pelo teclado do deck. — Gabo, olhe para os olhos da estátua! Não tem vida. É uma armadilha lógica para travar o processamento da Aria!
+— Ele disse que é cera e polímero! — Valéria gritou, segurando o braço de Gabo enquanto tentava conter o pico de tensão no pendrive da Aria pelo teclado do deck. — Os pacotes estão entrando pelo receptor. Preciso isolar essa porta!
 
 O transmissor do Ateliê repetia pacotes pelo receptor do deck. Val tentava cortar a entrada; o driver danificado voltava a abri-la.
 

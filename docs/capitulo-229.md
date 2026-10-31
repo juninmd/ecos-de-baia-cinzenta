@@ -1,4 +1,5 @@
 ---
+image: /cenas/capitulo_229/cena_4.jpg
 Título: O Homem no Portão
 Data In-Game: Terceira manhã na Velha Baía
 Localização: Galpão de Impressão e Pátio Externo, Velha Baía

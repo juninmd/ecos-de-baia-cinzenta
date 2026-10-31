@@ -92,7 +92,7 @@ A cabeça dela inclinou de lado.
 
 — Ninguém morreu.
 
-— Trezentas pessoas num túnel de metrô, senhora.
+— Eu vi gente presa na parede de um túnel. Gente que não escolheu estar ali.
 
 — *Nenhuma delas morreu.* — Ela falou sem nenhuma agressividade, com a paciência de quem corrige uma criança. — Elas mudaram de formato. Estão todas lá, todas conscientes, todas sem dor pela primeira vez na vida. Você pode ir conferir. Ninguém vai te impedir. Você não vai, porque você tem medo de descobrir que eu estou falando a verdade.
 
@@ -134,7 +134,7 @@ Gabo ficou olhando para ela um tempo. O Garoto continuava rosnando ao lado dele,
 
 — Uma lista. — Ela apontou para a porta. As raízes subiram pelo batente. — Você vai contar ao Pai.
 
-— De nomes. — Ele guardou a faca. — Gente que morreu por causa de decisão de alguém e que ninguém anotou. Damião Reis, morto no cerco da delegacia. Uma senhora chamada Dilma Farias. Uma menina chamada Duda. E Éder, que eu matei quando já estava rendido.
+— De nomes. — Ele guardou a faca. — Gente que morreu por causa de decisão de alguém. Damião Reis, morto no cerco da delegacia. Dilma Farias. Duda. E Éder, que eu matei quando já estava rendido. Elena publicou o que aconteceu com ele. Não basta eu lembrar só dos outros.
 
 — Nós temos todos eles aqui dentro.
 

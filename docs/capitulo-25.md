@@ -5,7 +5,7 @@ Localização: "Torre Aeterna, subnível 5 → elevador de carga → escada de s
 ---
 # Capítulo 25: Elevador para o Inferno
 
-O corredor de carga cheirava a filtro novo. Não era ausência de cheiro: era alguém pagando para não sentir o que ficava do outro lado da parede.
+O corredor de carga cheirava a filtro novo, o cheiro de alguém pagando para não sentir o que ficava do outro lado da parede.
 
 Elena conduzia o carrinho devagar. O sangue do ouvido esquerdo de Gabo chegara à gola; ele virava a cabeça para ouvi-la à direita. A Caronte, com três cartuchos, estava sobre o estojo do Leviatã. A jornalista mantinha a Glock baixa, com os três tiros restantes contados.
 

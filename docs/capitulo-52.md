@@ -1,5 +1,5 @@
 ---
-image: /cidade.jpg
+image: /capitulo_52.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Clara Moretti
 Localização: "Boate flutuante O Dourado, Setor 9 (águas da cidade submersa)"
 ---

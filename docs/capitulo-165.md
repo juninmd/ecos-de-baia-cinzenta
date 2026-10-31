@@ -10,7 +10,7 @@ Personagens Presentes: "Gabo, Valéria, Aria"
 
 # Capítulo 165: Fantasmas de Silício
 
-A escuridão do Arquivo Executivo não era a escuridão orgânica e suja dos túneis inferiores. Era um breu matemático, traçado em ângulos retos entre monólitos de armazenamento de dados que se erguiam como arranha-céus em uma cidade fantasma. A temperatura estacionada em cruéis cinco graus positivos mordia a pele exposta de Gabo e Valéria, uma mordida estéril que não trazia o fedor da morte física, mas a preservação cirúrgica da Aeterna Corp. O som dos passos de ambos ecoava raso no labirinto de gabinetes de alumínio escovado.
+Cinco graus acima de zero. O ar do Arquivo Executivo tinha a mordida estéril de uma sala de cirurgia, não o fedor orgânico dos túneis inferiores. Entre os monólitos de armazenamento de dados, o breu era matemático, traçado em ângulos retos, e os passos de Gabo e Valéria ecoavam rasos no labirinto de alumínio escovado.
 
 Gabo arrastava a perna direita, o peso do próprio corpo puxando o curativo que Valéria colocara no abdômen. O suor frio em sua testa gelava sob a corrente de ar.
 

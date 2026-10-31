@@ -92,10 +92,4 @@ Valéria surgiu atrás dele, segurando um tablet com estática.
 
 — O que está acontecendo? A energia voltou?
 
-— Não — Gabo disse, vendo um dos holofotes iluminar a torre distante da Delegacia Central. — A energia não voltou. A *Ordem* voltou.
-
-O som das sirenes se multiplicou, ecoando nos prédios vazios. Era um som de guerra. Um som que dizia que o silêncio havia acabado, e que o barulho que viria a seguir seria muito pior.
-
-Gabo desceu a escada, a mão firme na *Caronte*. O tremor nas mãos havia sumido.
-
-— Avisem a Nise antes de a maca sair — ele disse. — Ela precisa escolher uma rota longe dos holofotes. Eu vou conferir a passagem.
+- A energia não voltou. A *Ordem* voltou.

@@ -7,7 +7,7 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 # Capítulo 222: O Homem que Podia Ir Embora
 
-Elias sumiu enquanto o módulo cuidava do ferimento.
+Elias não voltou enquanto o módulo cuidava do ferimento.
 
 Descobri quando saí da enfermaria e não achei ninguém no corredor. Chamei uma vez, sem muita força, e o corredor branco devolveu o meu próprio nome com uma nitidez desconfortável.
 
@@ -77,21 +77,19 @@ Ele gritou aquilo, e a mão dele caiu, e ele encostou de costas na grade sanfona
 
 — E aí?
 
-— E aí eu percebi que não tem ninguém lá em cima pra contar.
+— E aí eu percebi que não sei quem ainda está lá em cima para ouvir.
 
 Silêncio.
 
-— Meu chefe morreu no Colapso, — ele continuou. — O pessoal do turno morreu no Colapso. Eu não tenho mulher, não tenho filho, meu irmão foi embora da cidade no Apagão e nunca mandou notícia. — Ele levantou os olhos para mim, e estavam vermelhos e completamente lúcidos. — Se eu subir agora, eu vou sair numa estação de bombeamento no Setor 4 e vou ser um cara sozinho no escuro que viu coisas que ninguém acredita. E a única prova de que eu não enlouqueci vai estar oitocentos metros abaixo dos meus pés, morrendo de infecção.
+— Meu chefe morreu no Colapso. Gente do meu turno também. Meu irmão foi embora no Apagão e nunca mandou notícia. — Ele tirou o mapa dobrado do bolso. — Ainda tenho os lugares que anotei. Posso levar a lista para alguém procurar os três da galeria. Posso levar uma cópia da remessa. Mas não sei quem vai me ouvir na estação, nem quem eu posso procurar sem entregar esses papéis para a Aeterna. — Ele olhou para mim. — E você está aqui embaixo com um ferimento que precisa de hospital.
 
 Ele bateu com a nuca na grade. Uma vez. Duas.
 
-— Eu não quero ser corajoso, Gabo. Eu não sou. Eu me caguei de medo naquela ponte e me caguei de medo no poço e vou me cagar de medo em tudo que vier. — A voz dele quebrou. — Mas eu não tenho para onde ir. Vocês são a única coisa que eu tenho, e vocês nem são gente direito. Uma não sente mais nada e o outro está apodrecendo em pé.
+— Eu não quero ser corajoso, Gabo. Eu me caguei de medo naquela ponte e no poço e vou me cagar de medo em tudo que vier. — A voz dele quebrou. — Eu queria encontrar meu irmão. Queria que alguém procurasse as pessoas da lista. Queria não ter que escolher entre subir sozinho e deixar vocês aqui. E tenho raiva de você por ter me posto naquela ponte.
 
-Eu ri.
+Fiquei quieto. A marca do colarinho ainda estava na minha memória, onde a garra o prendia junto à ponte.
 
-Foi a primeira risada honesta que saiu de mim desde o Distrito 4, e ela doeu como o inferno, e valeu cada pontada.
-
-— É, — falei. — É mais ou menos isso mesmo.
+— Você tem razão de ter raiva. Eu disse que não ia repetir aquilo e não vou usar o arquivo para cobrar sua companhia. Se decidir subir, você leva cópias. Se ficar, a gente procura outro jeito de fazê-las chegar.
 
 Andei até o elevador. Cada passo era uma negociação. Entrei na plataforma, com ele, e fiquei em pé segurando a grade.
 
@@ -109,7 +107,7 @@ Ele enxugou o rosto com as costas da mão, deixando risco de graxa.
 
 — E se eu quiser subir depois?
 
-— Aí você sobe depois. O botão não vai a lugar nenhum. — Dei um tapinha na grade com a garra, e a coisa fez um barulho horroroso. — A oferta fica de pé até a última porta. Eu não vou te cobrar e não vou te julgar. Você tem escolha, Elias. Não vou transformar a decisão de ficar numa dívida.
+— Aí a gente volta e confere se ainda funciona. Não posso prometer que o caminho vai continuar aberto. — Dei um tapinha na grade com a garra, e a coisa fez um barulho horroroso. — Eu não vou te cobrar por ficar nem te julgar por partir. Não vou transformar sua decisão numa dívida.
 
 Ele se levantou. Ajeitou a mochila. E apertou o botão. O de **descer**.
 

@@ -131,9 +131,9 @@ O zumbido da bomba enchia a câmara. Ninguém dizia nada.
 
 — Você vai esmagar esse braço de vez!
 
-— Eu vou perder essa armação de metal que um açougueiro parafusou em mim, Elias. — Levantei a garra e olhei para ela, para os sulcos de solda, para o fio exposto. — Essa coisa não é minha. Ela nunca foi. Ela é o preço que eu paguei para continuar em pé, e ela doeu todo dia desde o dia um, e eu me recusei a consertar a falha porque a dor me servia. — Fechei os dedos mecânicos. Guincharam. — Se essa merda vai ficar aqui embaixo segurando uma porta para sempre, então pelo menos ela vai ter servido para alguma coisa que não seja me manter acordado.
+— Eu vou perder essa armação de metal que o Vasco prendeu ao fixador, Elias. — Levantei a garra e olhei para ela, para os sulcos de solda, para o fio exposto. — Essa coisa não é minha. Ela nunca foi. Ela é o preço que eu paguei para continuar em pé, e ela doeu todo dia desde o dia um, e eu me recusei a consertar a falha porque a dor me servia. — Fechei os dedos mecânicos. Guincharam. — Se essa merda vai ficar aqui embaixo segurando uma porta para sempre, então pelo menos ela vai ter servido para alguma coisa que não seja me manter acordado.
 
-— E o osso? — Valéria perguntou. — Você já está com sepse. Teríamos de cortar as hastes externas, preservar as fixações clínicas e imobilizar de novo. Mexer nisso com a fratura instável pode piorar tudo. Não sei quantificar o risco.
+— E o osso? — Valéria perguntou. — Você está febril e sangrando. Teríamos de cortar as hastes externas, preservar as fixações clínicas e imobilizar de novo. Mexer nisso com a fratura instável pode piorar tudo. Não sei quantificar o risco.
 
 — Não me diz. — Olhei para ela. — Sério. Pela primeira vez desde o Distrito 4, não me diz o número.
 

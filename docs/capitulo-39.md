@@ -63,7 +63,7 @@ Não foram avatares. Foram pessoas de carne, com tocha de verdade, feita de cabo
 
 A segurança privada da mansão dos Vance abandonou o posto às onze da manhã. Eles também tinham lido o panfleto. Um deles inclusive ajudou a arrastar o portão.
 
-Gabo estava na cadeira, atrás do cordão que acompanhava Vilar sob comando do sargento, e viu o portão cair. Nise já chegara com a equipe do comboio; pedira que ele não tentasse apoiar a perna.
+Gabo estava na cadeira, atrás do cordão que acompanhava Vilar sob comando do sargento. Nise já chegara com a equipe do comboio; pedira que ele não tentasse apoiar a perna. Ele perguntou pela mulher retirada da fábrica. — Entreguei a outra equipe antes da emboscada — disse Nise. — Ela pediu que o nome não circulasse. Desde então, não tive notícias. O portão caiu.
 
 Viu quando arrancaram a Dra. Elara Vance de dentro da casa.
 
@@ -107,7 +107,7 @@ Ela cuspiu no chão. As mãos tremiam tanto que ela teve de fechá-las.
 
 E jogou a pedra. Acertou a testa da Vance acima da sobrancelha esquerda. Sangue de verdade escorreu, vermelho e comum, e um silêncio breve caiu sobre o jardim, porque ninguém ali tinha visto sangue sair daquele rosto antes.
 
-Gabo não prendeu a mulher que jogou. Ele registrou o rosto, o que era pior, e passou os anos seguintes sabendo o nome dela.
+Gabo não prendeu a mulher que jogou. Ele registrou o rosto e a posição dela na multidão. Naquele momento, não sabia seu nome.
 
 ---
 

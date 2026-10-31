@@ -33,19 +33,19 @@ Trinta e oito anos. Pálido. Olhos arregalados de quem conhecia aqueles poços c
 
 — Quietude de cemitério corporativo nunca é boa notícia, garoto, — Valéria respondeu, desacelerando o passo e erguendo o cyberdeck na altura do peito. Seus olhos prateados estreitaram-se, analisando linhas de código em verde fosforescente que corriam na tela portátil. — Moretti, para um segundo.
 
-Parei. O peso da minha armação industrial de sucata — acoplada por Vasco ao fixador instalado pela equipe médica — puxou meu ombro direito com uma fisgada aguda de cansaço. O sangue seco colava a atadura na carne viva, e as cicatrizes do Dilúvio queimavam, mas a agonia física servia apenas para me manter firme no chão de cimento rachado entre as máquinas que jaziam como ferro morto.
+Parei. O peso da minha armação industrial de sucata — acoplada por Vasco ao fixador instalado pela equipe médica — puxou meu ombro direito com uma fisgada aguda de cansaço. O sangue seco colava a atadura na carne viva, e as cicatrizes do Dilúvio queimavam, e precisei apoiar a mão esquerda numa carcaça para descansar antes de continuar.
 
 — O que você tá pegando? — perguntei, destravando a *Caronte* com o polegar.
 
-— Sensores sísmicos do deck, — disse ela, o tom sarcástico sumindo de repente para dar lugar à frieza da hacker que já sobreviveu a três purgas da Aeterna. — Vibrações de frequência ultra-baixa no solo. Não é reflexo das bombas de água do Dilúvio, nem colapso de rocha.
+— Sensores sísmicos do deck, — disse ela, o tom sarcástico sumindo de repente para dar lugar à frieza da hacker que já sobreviveu a três purgas da Aeterna. — Vibrações de frequência ultra-baixa no solo. Ainda não sei o que está produzindo isso.
 
 — Como você sabe?
 
-— Colapso de rocha decai em curva exponencial, — ela explicou, apontando a ponta do feixe óptico para o chão à nossa frente. — Isso aqui tem intervalo exato de onze segundos entre picos. E a amplitude tá subindo trinta por cento a cada batida.
+— Há picos repetidos no registro — ela apontou a tela. — Eles estão ficando mais fortes. Pode ser uma máquina ou outra fonte vibrando; não consigo localizar só por esta leitura.
 
 — Intervalo regular é passo, Val, — rosnei.
 
-— Ou uma biela gigante girando na lama, — completou ela, sacando a pistola curta e ajustando o compensador com um estalo limpo. — E tá vindo direto do fosso central.
+— Ou uma biela gigante girando na lama, — completou ela, sacando a pistola curta e ajustando o compensador com um estalo limpo. — Vamos procurar de onde vem.
 
 O fosso de carga era uma cratera retangular de trinta metros de comprimento por doze de largura, afundando nas entranhas do Setor Seis. As guias de cabo de aço dos elevadores industriais pendiam rompidas, retorcidas como serpentes mortas entre pirâmides de sucata compactada.
 
@@ -71,6 +71,6 @@ As marcas de solda e as peças empilhadas não me diziam quem tinha montado aqui
 
 — Fala, Val!
 
-— Tem mais três assinaturas de calor idênticas subindo pelas calhas de descarga atrás da gente.
+— Tem mais três fontes de calor nas calhas atrás da gente. Não consigo identificar o que são daqui.
 
 O estalo do ferro retorcido ecoou como um trovão quando o colosso de sucata bateu sua pá dianteira contra a borda do fosso, rachando o concreto sob nossos pés. O armazém silencioso acabava de despertar, e as regras da cidade eram claras: ou nós abríamos caminho pelo aço, ou ficaríamos para sempre enterrados sob ele.

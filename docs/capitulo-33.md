@@ -55,7 +55,7 @@ O subsolo cheirava a querosene, mofo e óleo velho. Gabo viu a poeira sobre o ca
 
 Elena ajudou na passagem da cadeira para o banco do passageiro. Foram precisos dois movimentos e uma pausa longa. Gabo deixou que ela fizesse sem pedir a chave.
 
-Quando o motor pegou, a vibração chegou pelo assento antes do som. Cheiro de gasolina, faróis amarelos, o ventilador tossindo pó. Val entrou atrás e fechou os olhos diante do primeiro sopro de ar.
+Quando o motor pegou, a vibração chegou pelo assento antes do som. Cheiro de óleo quente, faróis amarelos, o ventilador tossindo pó. Val entrou atrás e fechou os olhos diante do primeiro sopro de ar.
 
 Elena ligou o deck ao alimentador do carro. A bateria começou a receber carga. Elena deixou o telefone no segundo cabo enquanto abriam o porta-malas. Depois Val reconectou o módulo de Aria e aguardou a sequência de partida. Não abriu o projetor; precisavam conservar energia. A câmera do deck ficou voltada para a rua, oferecendo a Aria um recorte da saída.
 

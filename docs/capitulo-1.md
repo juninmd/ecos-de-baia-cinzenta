@@ -14,7 +14,7 @@ Gabriel "Gabo" Moretti sentiu a água fria escorrer pelo pescoço, infiltrando-s
 
 — Pare aí. — Gabo segurou o ombro do rapaz antes do segundo passo. — Fotografe a sola da sua bota e marque por onde entrou. A chuva já levou metade do chão. Não vamos inventar a outra metade.
 
-— D-desculpe, senhor.
+— Desculpe, senhor. Já marquei onde a viatura parou; vou marcar minha sola também.
 
 — O trânsito na Ponte Sul estava um inferno. Já isolou o perímetro e colheu depoimentos dos vizinhos? — Gabo olhou para as janelas fechadas dos contêineres acima. Cortinas se mexiam rapidamente. Olhos assustados espiavam através das frestas.
 

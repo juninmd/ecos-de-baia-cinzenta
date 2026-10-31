@@ -1,5 +1,5 @@
 ---
-image: /cenas/cidade.jpg
+image: /capitulo_116.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Aria, Valéria "Val" Cruz
 Participação por transmissão: Inspetor Rangel, O Taxidermista
 Localização: "Usina Geotérmica Prometeu — Corredores do Subnível 4 → Passarela do Subnível 3"

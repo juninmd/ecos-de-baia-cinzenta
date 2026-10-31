@@ -1,4 +1,5 @@
 ---
+image: /cenas/capitulo_228/cena_1.jpg
 Título: O Grupo de Controle
 Data In-Game: Segunda madrugada na Velha Baía
 Localização: Galpão de Impressão, Velha Baía (Superfície)
@@ -79,7 +80,7 @@ Não consegui abrir esse de primeira. Elena veio, sentou no chão do meu lado, p
 
 ---
 
-Sobrou a minha. Peguei a pasta **MORETTI, G.** e ela tinha o peso de um tijolo. Vinte e um anos de acompanhamento. Fotos — eu de uniforme, eu na formatura, eu saindo do hospital depois da Torre do Relógio, eu carregando o corpo da Bia. Relatórios de conduta. Transcrições da Dra. Weiss, que eu julgava privadas. O carimbo de acesso corporativo provava que a Aeterna incorporara o material à vigilância; não mostrava quem o transcrevera ou consultara, nem se Weiss consentira ou sequer soubera. E, na capa interna, o carimbo de status. Não era **ADMITIDO**, como nas quarenta e sete mil fichas lá fora. Não era **COLETADO**. Era:
+Sobrou a minha. Peguei a pasta **MORETTI, G.** e ela tinha o peso de um tijolo. Vinte e um anos de acompanhamento. Fotos — eu de uniforme, eu na formatura, eu saindo do hospital depois da Torre do Relógio, eu carregando o corpo da Bia. Relatórios de conduta. Transcrições da Dra. Weiss, que eu julgava privadas. O carimbo de acesso corporativo provava que a Aeterna incorporara o material à vigilância; não mostrava quem o transcrevera ou consultara, nem se Weiss consentira ou sequer soubera. E, na capa interna, o carimbo de status. Não era **ADMITIDO**, como nas fichas de admissão examinadas lá fora. Não era **COLETADO**. Era:
 
 EM CAMPO — NÃO COLETAR — GRUPO DE CONTROLE
 E abaixo, a rubrica. A mesma de sempre. Renovada a cada exercício, vinte e uma vezes, vinte e uma linhas: vinte e um anos de um homem autorizando que eu não fosse coletado. A folha não dizia quem tentara me prender nem quem falhara.
@@ -116,11 +117,11 @@ Eu não gritei. Queria ter gritado.
 
 — Então ele sabia?
 
-— Não sei se ele leu esses relatórios. A rubrica prova a renovação, não a leitura. Eu ri. Saiu quebrado.
+— Não sei se ele leu esses relatórios. A rubrica registra a renovação, mas ainda precisa ser autenticada; não prova que ele tenha lido os relatórios. Eu ri. Saiu quebrado.
 
 — Ele queria me manter vivo.
 
-— Queria uma referência **medível**, — corrigiu a Vance. — A rubrica mostra que renovou o protocolo por vinte e um anos; não revela o que sente por você. Talvez hesite em perder essa referência. Não conte com isso como proteção.
+— Queria uma referência **medível**, — corrigiu a Vance. — A rubrica atribuída a ele registra a renovação do protocolo por vinte e um anos; não revela o que sente por você. Talvez hesite em perder essa referência. Não conte com isso como proteção.
 
 ---
 
@@ -132,7 +133,7 @@ A rotativa batia. Ninguém pediu que eu respondesse.
 
 — Ele tem um problema, — repeti, e me levantei, com o joelho e a perna e o ombro e o braço reclamando todos ao mesmo tempo. — Ele me queria vivo para medir. Agora vai ter que escolher o que fazer comigo. Apontei com a mão que me sobrou para a porta do galpão, para o barulho, para as pilhas.
 
-— Doze mil cópias saíram hoje. Amanhã saem mais doze. Na sexta são cinquenta mil, em onze assentamentos, com o nome dele na capa e o número embaixo. Fechei a pasta.
+— Doze mil cópias estão saindo hoje. Amanhã saem mais doze. Na sexta são cinquenta mil, em onze assentamentos, com o nome dele na capa e o número embaixo. Fechei a pasta.
 
 — Pela primeira vez em vinte e um anos, o grupo de controle contaminou o experimento. A Dra. Elara Vance me olhou por um segundo inteiro. E então ela sorriu — aquele sorriso feio, sem alegria nenhuma, de auditora conferindo um número que finalmente fecha.
 

@@ -58,7 +58,7 @@ Um bloco gigantesco de chapa metálica, poeira centenária e fiação desconecta
 
 Quando o estrondo final sumiu na escuridão do Lixão lá embaixo, o único som que restou foi a respiração rouca de Rangel e o zumbido agoniante nos ouvidos de Gabo.
 
-— *Perigo imediato eliminado,* — a voz monótona de Aria soou pelo comunicador no meio da fumaça empoeirada, o LED azul-gelo do pendrive brilhando firme no pulso de Valéria, completamente insensível ao caos que acabara de orquestrar.
+— *Perigo imediato eliminado,* — a voz monótona de Aria soou pelo comunicador no meio da fumaça empoeirada, o LED azul-gelo do pendrive brilhando firme no pulso de Valéria. O sintetizador não alterava o tom.
 
 Valéria desconectou o cabo externo da fibra com um solavanco, arfando e piscando furiosamente para ajeitar o foco ocular.
 

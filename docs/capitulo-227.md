@@ -7,7 +7,7 @@ Personagens Presentes: Gabo, Valéria, Elias, Dra. Elara Vance, Elena, Duarte
 
 # Capítulo 227: O Estagiário
 
-Passamos a tarde conferindo o índice e uma amostra de originais. Uma acusação dessas não se faz com uma pasta; quarenta e sete mil fichas também não se verificam entre o almoço e o pôr do sol. Elias montou uma linha na mesa de carga: abria a caixa, tirava a ficha, lia a linha do segundo aval em voz alta, e passava adiante. Elena anotava. A Dra. Vance conferia a numeração de contrato contra o registro-mestre que ela carregava na memória, e marcou as divergências para uma segunda conferência. Valéria contava. Elena pediu a Duarte Falcão, operador da rotativa, que rodasse a capa enquanto ela compunha a nota; ele cobriu o interruptor com a mão engraxada. — Se a gente publicar só o total, vão entender que vocês conferiram cada ficha. Ponham os trezentos e a ressalva na página. A prensa espera; quem receber isso precisa saber o que foi verificado. Elena retomou a caneta e escreveu a ressalva antes de liberar o interruptor.
+Passamos a tarde conferindo o índice e uma amostra de originais. Uma acusação dessas não se faz com uma pasta; quarenta e sete mil fichas também não se verificam entre o almoço e o pôr do sol. Elias montou uma linha na mesa de carga: abria a caixa, tirava a ficha, lia a linha do segundo aval em voz alta, e passava adiante. Elena anotava. A Dra. Vance conferia a numeração dos originais da amostra contra o registro-mestre aberto na mesa e marcou as divergências para uma segunda conferência. Valéria contava. Elena pediu a Duarte Falcão, operador da rotativa, que rodasse a capa enquanto ela compunha a nota; ele cobriu o interruptor com a mão engraxada. — Se a gente publicar só o total, vão entender que vocês conferiram cada ficha. Ponham os trezentos e a ressalva na página. A prensa espera; quem receber isso precisa saber o que foi verificado. Elena retomou a caneta e escreveu a ressalva antes de liberar o interruptor.
 
 — Ano vinte e nove: quatrocentas e doze admissões no índice, todas remetendo ao segundo aval de Krell.
 
@@ -55,7 +55,7 @@ Elena tinha parado de escrever.
 
 — Ele fez uma apresentação para a diretoria? — perguntei.
 
-— Ele fez um memorando de quatro páginas, sem ser convidado. Eu li antes deles. — Um som seco que quase foi risada. — Estava correto. Cada linha. Um estagiário de dezoito anos entregou a tese estratégica mais competente que aquela empresa viu em vinte e sete anos, e a diretoria promoveu ele por isso, e continuou não entendendo o próprio negócio até morrer.
+- Ele fez um memorando de quatro páginas, sem ser convidado. Eu li antes deles. - Um som seco que quase foi risada. - Estava correto. Cada linha. Um estagiário de dezoito anos entregou a tese estratégica mais competente que aquela empresa viu em vinte e nove anos, e a diretoria promoveu ele por isso, e continuou não entendendo o próprio negócio até morrer.
 
 — E a senhora entendeu.
 

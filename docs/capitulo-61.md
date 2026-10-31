@@ -18,7 +18,7 @@ Por dentro: quatro racks parafusados no assoalho, um nobreak do tamanho de uma g
 
 Cheirava a solda, plástico quente, café e a roupa de quem dorme onde trabalha.
 
-Gabo estava sentado numa caixa de suprimentos, com as pernas esticadas na diagonal porque não cabiam de outro jeito, sentindo o joelho latejar no compasso do gerador.
+Gabo estava sentado numa caixa de suprimentos, com as pernas esticadas na diagonal porque não cabiam de outro jeito, sentindo o joelho latejar no compasso do gerador. Antes de deixarem o Cobalt, Val trouxera a Caronte do banco traseiro para a van; a escopeta estava presa junto à bancada.
 
 No barramento lateral do cyberdeck de Valéria, o pendrive de titânio da Aria estava espetado, com o LED azul-gelo refletindo no metal escuro da bancada enquanto renderizava num monitor auxiliar a topologia do fosso subterrâneo.
 
@@ -27,6 +27,8 @@ Ela traçava diagramas das torres de servidores: blocos retangulares, altos, ali
 ---
 
 — Achei — disse Val, girando na cadeira. — Rastreei o dinheiro do Fundo Ômega com os filtros da Aria.
+
+No telhado, Val recusara descer outra vez sem uma rota ou uma prova melhor do que a suspeita de Gabo. Aria concordara em examinar os registros acessíveis com ela; não oferecera o próprio núcleo à rede. Gabo aceitara esperar na van.
 
 Ela virou a tela. Um grafo de transações se abriu, uma teia de nós e setas com valores em cima.
 

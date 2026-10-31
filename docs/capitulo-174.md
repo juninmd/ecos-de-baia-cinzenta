@@ -29,7 +29,7 @@ Ele não esperou resposta. Foi até a porta de chumbo, empurrou o ferrolho e enc
 
 — Precisamos de estabilização — eu disse. Minha voz saiu mais rouca e frágil do que eu pretendia. Minha visão estava escurecendo nas bordas. — Valéria está exausta, com a mão ferida e os implantes falhando. E eu...
 
-Levantei meu braço direito. A fratura exposta sob as ataduras rasgadas ainda pingava sangue no chão do doutor clandestino.
+Levantei meu braço direito. A fratura sob as ataduras rasgadas ainda pingava sangue no chão do doutor clandestino.
 
 Os olhos por trás da grossa lente de Vasco se arregalaram levemente. Ele se adiantou, rápido para um homem de seu tamanho, ignorando-me inicialmente para examinar a interface e as feridas de Valéria.
 
@@ -51,7 +51,7 @@ Fechei os olhos com força, cravando os dentes no próprio lábio até sentir o 
 
 Vasco parou por um segundo, olhando para o meu rosto pálido. Ele não perguntou mais nada. Pegou gaze hemostática e um enxerto de derme sintética e aplicou grosseiramente sobre os rasgos da fratura, contendo o sangramento temporariamente.
 
-— Seu braço precisa de avaliação e fixação por uma equipe médica, Gabo. Depois eu posso adaptar um suporte externo, se eles disserem que é viável. — A equipe assumiu a estabilização quando chegou. A mudança que senti não tornou o braço funcional; permitiu que eu parasse de lutar para continuar sentado.
+— Seu braço precisa de avaliação e fixação por uma equipe médica, Gabo. Depois eu posso adaptar um suporte externo, se eles disserem que é viável. — A equipe assumiu a estabilização quando chegou. Val contou à Nise onde havíamos deixado Rangel e descreveu a tentativa de reanimação. Mostrou os marcos registrados no deck. Nise disse que procuraria uma equipe quando houvesse acesso; não prometeu uma busca imediata. A mudança que senti não tornou o braço funcional; permitiu que eu parasse de lutar para continuar sentado.
 
 — Não temos créditos — falei, minha voz finalmente ganhando alguma firmeza à medida que a adrenalina baixava e o estabilizador químico agia.
 

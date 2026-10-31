@@ -1,5 +1,5 @@
 ---
-image: /cenas/cidade.jpg
+image: /capitulo_118.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Aria, Dante Moretti, Valéria "Val" Cruz
 Participação por transmissão: O Taxidermista
 Localização: "Usina Geotérmica Prometeu — Núcleo de Resfriamento (tanque de Dante)"

@@ -5,13 +5,7 @@ Personagens Presentes: Gabriel "Gabo" Moretti, Aria, Valéria "Val" Cruz, Inspet
 
 # Capítulo 130: Saturação
 
-**Data:** Horas após o colapso da Usina Prometeu
-**Localização:** Estação de Bombeamento Bio-Mecânica (Nível 5 - Subsolo Profundo)
-**Personagens:** Gabo, Valéria, Aria (saída de voz danificada), Rangel (Inconsciente)
-
----
-
-O som não era de água. Era de carne sendo mastigada por engrenagens gigantes.
+Horas depois do colapso da Usina Prometeu, o Nível 5 ainda trabalhava. O som não era de água. Era de carne sendo mastigada por engrenagens gigantes.
 
 Gabo sentiu a vibração nos ossos antes mesmo de ver a maré subir. O fluido viscoso e avermelhado — o fluido de composição desconhecida que circulava pelas células humanas — começou a borbulhar dos ralos e das comportas que ele havia forçado a inverter. O cheiro era insuportável: cobre, ozônio e algo doce, podre, como frutas deixadas ao sol.
 
@@ -93,6 +87,4 @@ Ele olhou para as próprias mãos, manchadas de graxa e sangue seco. Levou-as ao
 
 No pulso de Valéria, o LED do pendrive da Aria voltou a brilhar num âmbar lento e pulsante. Pelo alto-falante do comunicador, Aria disse com uma calma assustadora:
 
-— *Bem-vindo ao cemitério, detetive.*
-
-Gabo fechou os punhos. A maré lá fora podia ter parado, mas a saturação ali dentro estava apenas começando.
+- *Bem-vindo ao cemitério, detetive.*

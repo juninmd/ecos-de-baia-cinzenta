@@ -1,4 +1,5 @@
 ---
+image: /cenas/capitulo_225/cena_4.jpg
 Título: O Charuto na Sala Limpa
 Data In-Game: Pós-Colapso do Sentinel (Noite Eterna) / Alvorada na Velha Baía
 Localização: Arca Zero - Doca de Carga / Tubo Pneumático até a Velha Baía
@@ -9,7 +10,7 @@ Personagens Presentes: Gabo, Valéria, Elias, Dra. Elara Vance
 
 Carregar quatro toneladas de papel leva dezenove horas quando você tem três pessoas, e uma não anda, e a outra está morrendo em pé.
 
-Eu fiz o que pude. Empurrava caixa com o ombro bom, arrastava lata de fita com a garra, sentava quando o mundo escurecia nas bordas e levantava quando parava de escurecer. Elias fez o trabalho de dois homens e não reclamou uma vez sequer, o que, no caso dele, era um tipo de milagre. A Vance dirigia o carregamento da cadeira de aço, e ela conhecia aquele arquivo com uma intimidade obscena: sabia qual gaveta continha o quê, em que ordem empilhar, o que podia molhar e o que não podia.
+Eu fiz o que pude. Empurrava caixa com o ombro bom, arrastava lata de fita com a garra, sentava quando o mundo escurecia nas bordas e levantava quando parava de escurecer. Elias carregava o que podia, parava para aliviar o tornozelo e voltava. Não reclamou uma vez sequer, o que, no caso dele, era um tipo de milagre. A Vance dirigia o carregamento da cadeira de aço, e ela conhecia aquele arquivo com uma intimidade obscena: sabia qual gaveta continha o quê, em que ordem empilhar, o que podia molhar e o que não podia.
 
 Valéria carregou o resto no carrinho, uma pilha por vez. Parava para beber água e alongar os dedos da mão direita; a esquerda, presa na luva, só conseguia ajudar a firmar a carga. Na décima sétima hora eu a vi parar na antecâmara hexagonal, no escuro âmbar, sem carga nenhuma nos braços. Ela estava lendo a placa fundida.
 
@@ -55,7 +56,7 @@ Eu não abri os olhos. Não precisava.
 
 *— Olha o estado disso.* — Ele deu uma tragada. A brasa iluminou o bigode. — *Um braço. Um joelho. Sepse. Você já provou o que tinha para provar. Ninguém está contando ponto. Senta aqui.*
 
-E era essa a diferença, dessa vez. Todas as outras vezes ele tinha vindo com desprezo. Com aquela apatia de porta de escritório trancada. Ele vinha para me lembrar de que eu era ruído de fundo, e eu batia a armação no ferro para calar a boca dele, e a dor era mais verdadeira que a fumaça, e eu ganhava.
+E era essa a diferença, dessa vez. Todas as outras vezes ele tinha vindo com desprezo. Com aquela apatia de porta de escritório trancada. Ele vinha para me lembrar de que eu era ruído de fundo, e eu tentava calá-lo com dor. Nem sempre funcionava. Quando minhas mãos não conseguiam segurar uma barra, Val me ajudava a encontrar outro apoio.
 
 Agora ele estava me oferecendo **descanso**. E estava fazendo isso com carinho. Era a versão mais perigosa que ele já tinha montado.
 
@@ -93,7 +94,7 @@ O servo queimou no fim do curso. A haste ficou presa contra o batente, uma cunha
 
 Acordei com a Valéria me arrastando pela escotilha e o Elias gritando alguma coisa sobre pressão.
 
-A cápsula era escura, apertada e cheirava a papel velho — quatro toneladas de nomes, datas e registros que ainda teríamos de conferir empilhadas até o teto, amarradas com cinta de carga. A Dra. Vance estava presa numa das paredes com o cinto da própria cadeira. Elias segurou minha cabeça no colo. Valéria selou a escotilha apoiando a proteção da mão esquerda no batente enquanto a direita girava o volante interno.
+A cápsula era escura, apertada e cheirava a papel velho — quatro toneladas de nomes, datas e registros que ainda teríamos de conferir empilhadas até o teto, amarradas com cinta de carga. A Dra. Vance estava presa numa das paredes com o cinto da própria cadeira. Elias havia guardado o mapa com suas anotações num saco fechado, dentro da jaqueta. Segurou minha cabeça no colo. Valéria selou a escotilha apoiando a proteção da mão esquerda no batente enquanto a direita girava o volante interno.
 
 Do outro lado do aço, a Arca Zero começou a morrer.
 

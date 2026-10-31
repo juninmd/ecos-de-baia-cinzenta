@@ -19,7 +19,7 @@ Valéria caiu do duto logo atrás dele, um monte trêmulo de roupas encharcadas 
 
 Gabo forçou seu corpo arruinado a se erguer. O mundo girou, manchado de estática cinza nas bordas de sua visão. Eles haviam saído do conduíte e entrado em uma câmara vasta, uma Eclusa de Transferência Térmica abandonada. Gigantescos canos corrugados, grossos como troncos de sequoias e cobertos por uma espessa camada de gelo negro, cruzavam o abismo abaixo deles. A luz do olho cibernético de Valéria revelava apenas nevasca confinada e ferrugem.
 
-— *Análise térmica da portadora:* — a voz de Aria soou pelo alto-falante do deck de Valéria, lendo os biossensores do pulso da garota com a mesma indiferença com que avaliaria uma peça de sucata. — *Temperatura corporal interna em queda livre. A temperatura superficial caiu e ela está perdendo coordenação. A temperatura interna não tem leitura, e prazo de sobrevivência eu não dou. Precisamos sair da corrente gelada.*
+— *Análise térmica da portadora:* — a voz de Aria soou pelo alto-falante do deck de Valéria, com a cadência fixa da síntese de emergência. — *A temperatura superficial caiu e ela está perdendo coordenação. A temperatura interna não tem leitura, e prazo de sobrevivência eu não dou. Precisamos sair da corrente gelada.*
 
 Gabo cambaleou até Valéria e tentou esfregar os braços dela, mas suas próprias mãos estavam tão feridas e insensíveis que o gesto era inútil.
 
@@ -61,4 +61,4 @@ Valéria assentiu devagar, tossindo enquanto inalava o vapor espesso. As lágrim
 
 Gabo cerrou os dentes, usando a parede para se levantar. A Eclusa de Transferência Térmica não era um refúgio, era apenas mais um estágio no matadouro.
 
-— Então a gente não para, — ele disse, puxando Valéria para cima com o antebraço. A dor latejava, ritmada, constante, enxotando qualquer traço de fumaça. — Vamos continuar subindo.
+— Então a gente não para, — ele disse, puxando Valéria para cima com o antebraço. A dor latejava, ritmada, constante. A lembrança de fumaça ainda vinha em intervalos. — Vamos continuar subindo.

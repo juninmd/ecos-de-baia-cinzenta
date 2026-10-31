@@ -47,7 +47,7 @@ Olhei para onde ela indicava. Preso à estrutura do teto de vidro reforçado, ha
 
 A escada de manutenção dobrável estava presa à coluna, atrás da estante. Val a baixou até o piso e conferiu os encaixes. Subi apoiado na linha de inspeção, com o braço direito imobilizado no suporte; não usei os pinos no osso como ponto de escalada. As travas de aço sustentaram o metal oxidado com um estalo seco, garantindo um apoio sólido enquanto minha bota de ferro buscava tração na armação úmida.
 
-A subida foi uma negociação desesperada contra o peso e a ferrugem. Cada metro conquistado enviava descargas agudas de dor pelos pinos do fixador e o arnês, mas a agonia física servia como combustível para focar a mente. O mundo se resumiu ao rangido da carcaça sob minhas mãos, ao chiado dos servos hidráulicos e ao brilho febril do bulbo que crescia diante dos meus olhos.
+A subida foi uma negociação desesperada contra o peso e a ferrugem. Cada metro enviava uma fisgada pelo fixador e pelo arnês. A dor me obrigou a parar antes da plataforma, com a mão esquerda agarrada ao corrimão, até conseguir firmar a bota. Lá embaixo, Val mantinha a linha de inspeção esticada.
 
 Alcancei a plataforma superior de manutenção. O calor que emanava do nó era nauseante, cheirando a sangue cozido e plástico derretido. O tecido carnudo tremia como o coração de uma criatura presa numa armadilha, bombeando fluidos químicos pelos cabos com um som sibilante de sucção.
 

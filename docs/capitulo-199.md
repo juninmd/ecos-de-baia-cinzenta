@@ -30,7 +30,7 @@ Aproximei-me da carcaça de um pilar caído, onde um vergalhão de construção 
 CRACK.
 A barra soltou-se do concreto numa chuva de cascalho.
 
-O vergalhão veio com lasca de concreto e um pedaço da minha mão. A ferrugem entrou no corte do polegar e ardeu como pimenta. A garra da armação ficou presa no buraco meio segundo a mais do que devia, e o esforço puxou o ponto de solda do ombro com um estalo que eu senti mais no dente do que no ouvido.
+O vergalhão veio com uma lasca de concreto. Quando tentei segurá-lo com a esquerda, a ferrugem abriu o polegar e ardeu como pimenta. A garra da armação ficou presa no buraco meio segundo a mais do que devia, e o esforço puxou o arnês contra meu ombro com um estalo que senti mais no dente do que no ouvido.
 
 Não deu tempo de conferir se era osso ou fio. Levantei a barra e corri.
 
@@ -42,7 +42,7 @@ O técnico no chão, impulsionado pelo puro desespero de sobrevivência, sacou a
 
 A vibração fez a junta já rachada perder o apoio. A água espirrou quando a pata cedeu.
 
-O monstro soltou um uivo agudo ensurdecedor, os sensores cerebrais entrando em curto-circuito temporário pelo choque. O salto da aberração perdeu o rumo no ar, desviando-se de Valéria e caindo de lado no cascalho a dois metros de nós.
+O monstro soltou um uivo agudo ensurdecedor, a pata falhando sob o peso. O salto da aberração perdeu o rumo no ar, desviando-se de Valéria e caindo de lado no cascalho a dois metros de nós.
 
 Dois segundos. Era a única janela que Baía Cinzenta nos daria.
 
@@ -70,7 +70,7 @@ Puxei o ar com dificuldade, tossindo com o cheiro acre de fiação carbonizada, 
 
 Tentei levantar com o braço direito e o braço não veio. Os relés estavam fora, e o membro de ferro ficou pendurado do ombro como ferramenta no prego — sem comando, sem resposta, um peso a mais para carregar. Rolei para o lado esquerdo, que é o lado errado para quem passou a vida atirando com a direita, e cheguei ao cotovelo. Não passei dali.
 
-Elias estava no chão com o tornozelo virando cor de vinho. Ia ter que ser carregado, e o único lado que ainda funcionava era o meu lado ruim.
+Elias estava no chão com o tornozelo virando cor de vinho. Ele não conseguia apoiar aquele pé, e o único braço que eu podia usar era o esquerdo.
 
 Valéria se levantou, limpou a fuligem dos olhos e ajudou Elias a apoiar o pé bom. Depois estendeu a mão direita para mim; apoiei-me no pilar com o lado esquerdo.
 

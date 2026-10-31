@@ -90,15 +90,15 @@ Ela sorriu, mas havia uma sombra em seus olhos.
 
 — Qualquer coisa.
 
-— Se algo acontecer comigo... não deixe que a cidade te quebre. Continue lutando.
+— Quando eu disser que preciso ficar sozinha, não transforme isso num problema para resolver. Me escuta.
 
-Ele riu, pensando que era apenas nervos do compromisso.
+Ele abriu a boca para responder. Bia apoiou dois dedos sobre a mão dele.
 
-— Nada vai acontecer com você. Eu sou um detetive, lembra?
+— Eu sei que você tenta ajudar — disse ela. — Mas às vezes eu só quero que você pare e me ouça.
 
-Ela não riu de volta.
+Gabo olhou para os dedos dela sobre os seus.
 
-— Prometa.
+— Consegue prometer isso?
 
 — Eu prometo.
 

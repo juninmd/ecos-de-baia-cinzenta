@@ -28,7 +28,7 @@ O líquido fervia baixinho. É o que aquilo faz: absorve o calor mudando de fase
 
 O som de tudo junto era o de chuva num telhado muito distante. O cheiro era de nada. Fluorcarbono não tem cheiro, e essa ausência, num lugar daquele porte, era a coisa mais errada de todas: o corpo humano espera cheiro de qualquer ambiente grande.
 
-— É lindo — murmurou Val, e ela odiou a si mesma por dizer. — Gabo, é lindo. É a coisa mais bonita que eu já vi na vida, e é feita de gente.
+— É lindo — murmurou Val, e ela odiou a si mesma por dizer. — Gabo, é lindo. É a coisa mais bonita que eu já vi na vida. Se as etiquetas do fosso forem o que parecem, tem gente presa nisso.
 
 ---
 

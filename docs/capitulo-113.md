@@ -26,7 +26,7 @@ No compartimento de carga, a escuridão era cortada apenas pelas luzes de emerg�
 
 Com o solavanco brusco, um dos sacos pretos ao lado da bota de Gabo se rasgou. A luz azul do LED do pendrive da Aria refletiu na pele acinzentada lá dentro, enquanto o scanner óptico do deck de Valéria fazia a leitura automática da carga.
 
-— *Composição da carga identificada* — soou a voz sintética da Aria pelo fone auricular de Gabo, com sua voz adulta, firme apesar das falhas da saída reparada. — *Tecido humano visível. A etiqueta da pulseira corresponde ao manifesto local: descarte pós-extração. Não consigo confirmar a causa da morte pela câmera.*
+- *Composição da carga identificada* - soou a voz sintética da Aria pelo fone auricular de Gabo, com sua voz adulta, firme apesar das falhas da saída. - *Tecido humano visível. A etiqueta da pulseira corresponde ao manifesto local: descarte pós-extração. Não consigo confirmar a causa da morte pela câmera.*
 
 — Desliga a leitura biométrica, Aria — murmurou Gabo, sentindo o estômago revirar.
 

@@ -11,7 +11,7 @@ O som do rádio chegou antes da fumaça.
 
 A cinco quilômetros da costa, enquanto o jipe a diesel de Elias subia aos trancos pelas pistas esburacadas da Orla Norte, o rádio de painel chiou, estalou e explodiu na voz limpa da Dra. Vance. Não era apenas no nosso carro. Pelas janelas das oficinas abandonadas e dos casebres de estivadores, pontos de luz amarela acendiam na escuridão. Velhos rádios de pilha, alto-falantes de doca, comunicadores civis sintonizados na frequência de emergência.
 
-A cidade inteira estava acordando para ouvir os nomes de seus carrascos.
+Naquela parte da orla, havia gente acordando para ouvir os nomes de seus carrascos.
 
 — O transmissor entrou em regime de ressonância — disse Valéria, debruçada sobre o para-brisa trincado. Os sensores óticos dela refletiam o clarão avermelhado que tingia a linha do horizonte. — O sinal está distorcendo e perdendo potência. Não consigo medir a saída do transmissor daqui.
 
@@ -65,7 +65,7 @@ Fiquei olhando para o rosto dela.
 
 Elena parecia mais jovem assim, sem a tensão que repuxava os cantos de sua boca toda vez que ela olhava para as minhas cicatrizes ou conferia o nível de água nos porões. Não havia horror na expressão dela. Havia apenas uma determinação teimosa, petrificada no formato de seus lábios entreabertos.
 
-Ela não havia fugido. Não havia implorado. Havia se trancado com os lobos da Aeterna e puxado a jaula para dentro do fogo junto com ela.
+Eu não sabia tudo o que acontecera ali dentro. Ela tinha chegado ao transmissor e a voz da doutora ainda saía dos rádios. O resto estava espalhado pela sala, entre os cartuchos e os estilhaços.
 
 Valéria voltou com Elias e uma lona de resgate. Ele recolheu a Caronte; Val conferiu a coronha antes de levá-la ao jipe. Prendemos Elena na lona e a levamos para fora, devagar, afastando-nos da parede ameaçada. Eu quis carregar mais peso do que podia; Elias segurou a outra ponta quando meu joelho cedeu. Só no jipe, com a porta fechada contra a chuva, puxei o gravador de microcassete de seus dedos.
 
@@ -81,7 +81,7 @@ O estalo característico do cabeçote magnético soou no meu tímpano, seguido p
 
 Depois, a respiração de Elena.
 
-Curta. Quebrada pelo sangue nos pulmões.
+Curta. Quebrada por uma tosse molhada.
 
 — Gabriel — a voz dela chegou como se ela estivesse sentada no banco do carona do velho *Cobalt*, numa daquelas noites chuvosas antes do colapso de tudo. — Se você está ouvindo isso, liguei a difusão e isolei a purga no quadro. Não sei quanto vai durar nem se funcionou em toda a linha. Peçam aos assentamentos que retransmitam e preservem as matrizes.
 

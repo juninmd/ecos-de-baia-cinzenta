@@ -1,4 +1,5 @@
 ---
+image: /cenas/capitulo_230/cena_1.jpg
 Título: A Conta Antiga
 Data In-Game: Terceira noite na Velha Baía
 Localização: Galpão de Impressão, Velha Baía
@@ -9,7 +10,7 @@ Personagens Presentes: Gabo, Valéria, Elias, Elena, Dra. Elara Vance
 
 Enterramos o Duarte às quatro da tarde, num terreno atrás do galpão, porque não havia mais cemitério e nem quem administrasse um. A irmã dele chegou de Setor 9 no fim do dia. Tinha dezenove anos e veio a pé. Ficou olhando o monte de terra por muito tempo, e depois perguntou à Elena se o irmão tinha morrido fazendo alguma coisa importante, e a Elena disse que sim, e não era mentira, e mesmo assim eu tive que sair de perto. Fiquei no pátio até escurecer, olhando a marca que a cinta laranja deixou na grade.
 
-O cheiro não saía. Não era o do rapaz — era o **dele**: sabão industrial e água parada, um odor de lavanderia de presídio que ficou grudado no ferro do portão e que o vento do canal não levava. Cada vez que a brisa virava, vinha de novo, azedo e limpo ao mesmo tempo, e o gosto disso descia pela garganta e assentava como moeda velha na língua. Ao longe, as prensas continuavam batendo. *Tchunc-tchunc-tchunc.* O mundo imprimindo a acusação de um homem enquanto o filho de outra mulher esfriava embaixo de uma lona. A Elena veio quando as prensas pararam. Sentou no cascalho, do meu lado, com dois copos e uma garrafa de alguma coisa que tinha sido uísque em outra vida. Serviu os dois. Não me entregou o meu; deixou no chão, ao meu alcance.
+O cheiro não saía. Não era o do rapaz — era o **dele**: sabão industrial e água parada, um odor de lavanderia de presídio que ficou grudado no ferro do portão e que o vento do canal não levava. Cada vez que a brisa virava, vinha de novo, azedo e limpo ao mesmo tempo, e o gosto disso descia pela garganta e assentava como moeda velha na língua. Ao longe, as prensas continuavam batendo. *Tchunc-tchunc-tchunc.* O mundo imprimindo a acusação de um homem enquanto o filho de outra mulher jazia debaixo da terra recém-virada. A Elena veio quando as prensas pararam. Sentou no cascalho, do meu lado, com dois copos e uma garrafa de alguma coisa que tinha sido uísque em outra vida. Serviu os dois. Não me entregou o meu; deixou no chão, ao meu alcance.
 
 — Fala.
 
@@ -109,7 +110,7 @@ A Valéria apareceu na porta do galpão. Ficou lá, sem entrar, com aquela imobi
 
 — Fala em português, Val. Ela entrou. Parou a dois metros.
 
-— Eu revi meus registros dos meses em que estivemos juntos com essa informação nova, — ela disse. — Em onze ocasiões você recusou atalhos que teriam salvado tempo e reduzido risco. Eu classifiquei essas recusas como ineficiência moral e as registrei como custo. — Uma pausa. — Elas não eram ineficiência. Você estava evitando repetir isso.
+— Eu revi meus registros dos meses em que estivemos juntos com essa informação nova, — ela disse. — Em onze ocasiões você recusou atalhos que teriam salvado tempo e reduzido risco. Eu classifiquei essas recusas como ineficiência moral e as registrei como custo. — Uma pausa. — Talvez você estivesse evitando repetir isso. Eu não tinha essa informação quando registrei as recusas.
 
 Eu não tinha resposta.
 

@@ -13,13 +13,13 @@ O ruído das juntas enferrujadas girando a seco soava como metal sendo martelado
 
 — Elias, recua pro mezanino de trás! — berrei, o som rouco rasgando minha garganta ressecada. — Se esconde atrás dos contêineres de carga e não levanta essa cabeça por nada!
 
-O garoto não hesitou; tropeçou de costas, arrastando-se pela lama de óxido e sumindo entre as pirâmides de carcaças de drones.
+Elias recuou, poupando o tornozelo enfaixado. Apoiado nas carcaças, alcançou o abrigo entre as máquinas.
 
 O monstro arremeteu o primeiro golpe antes mesmo de fixar totalmente a base. Uma pá de carregadeira de duas toneladas desceu em arco diagonal, visando abrir meu peito ao meio.
 
 Joguei meu corpo para a esquerda em um salto desesperado. A lâmina de aço bruto atingiu o chão no ponto exato onde eu estava meio segundo antes, partindo a laje de concreto com um estrondo ensurdecedor. A onda de choque cinético ricocheteou pelas minhas pernas; caí de lado na poeira, os rebites da órtese queimada cravando-se na carne da coxa com uma ferroada que arrancou um palavrão dos meus dentes. O gosto metálico de sangue e terra encheu minha boca quando mordi a língua na queda. Lembro de ferimentos parecidos no Dilúvio, quando a água fria lavava a dor antes que o corpo pudesse processar o estrago.
 
-Apoiei a *Caronte* na mureta com a mão esquerda e disparei os dois canos no núcleo central do colosso, mantendo o braço fraturado junto ao peito. Meus músculos sangravam sob as ataduras, mas a dor mantinha o foco afiado desde a queda da Torre, meses atrás.
+Apoiei a *Caronte* na mureta com a mão esquerda e disparei os dois canos no núcleo central do colosso, mantendo o braço fraturado junto ao peito. O recuo puxou minha palma ferida contra a coronha; precisei apoiar a arma de novo antes de abrir os canos.
 
 Os bagos de chumbo grosso e tungstênio bateram na couraça de lagartas com um estampido ensurdecedor, arrancando lascas de ferrugem e uma chuva de faíscas azuis, mas sem penetrar a blindagem de aço temperado. O impacto mal fez a criatura cambalear.
 
@@ -45,7 +45,7 @@ No último instante, desviei a mira do corpo do monstro e apontei para a junçã
 
 Apertei o gatilho da *Caronte*.
 
-O projétil atingiu o metal enfraquecido pela Praga de Ferro. O pino mestre estourou com um ruído de artilharia pesada, soltando lascas em brasa. Quase simultaneamente, do outro lado do galpão, Valéria disparou uma descarga concentrada de seu cyberdeck nos eletroímãs de sustentação, fritando os circuitos com um relâmpago azul ofuscante.
+O projétil atingiu o metal corroído do pino. O pino mestre estourou com um ruído de artilharia pesada, soltando lascas em brasa. Quase simultaneamente, do outro lado do galpão, Valéria disparou uma descarga concentrada de seu cyberdeck nos eletroímãs de sustentação, fritando os circuitos com um relâmpago azul ofuscante.
 
 — Sai daí agora, Gabo! — o berro dela rasgou o galpão.
 

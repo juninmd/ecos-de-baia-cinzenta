@@ -28,14 +28,14 @@ Ele chegou ao Memorial. A cratera ainda estava lá, com as portas de aço arranc
 — Cura?\
 — Não. Mas ajuda a esperar. Vilar estava lá, agachado na beira da cratera, colocando uma flor no chão. Uma margarida branca, nascida sozinha numa rachadura da Rua Nove, a primeira flor normal que alguém tinha visto em Baía Cinzenta desde março. Ele levou onze minutos escolhendo qual arrancar.\
 — Para quem é? — perguntou Gabo.\
-— Para os que estão embaixo. — Vilar se ergueu com o joelho estalando. — A Nise disse que não tem corpo para enterrar. Então a gente enterra flor.
+— Para os que estão embaixo. — Vilar se ergueu com o joelho estalando. — Ainda não sabemos como tirar os que encontramos sem matá-los. Então eu trouxe uma flor.
 
 ---
 
-— A Nise mediu de novo ontem — disse Vilar. — Tem atividade cerebral. Baixa, mas tem. E é regular.\
-— Em quantos?
+— A equipe da Nise voltou ao túnel ontem — disse Vilar. — Alcançou três pessoas. Uma ainda respirava; as outras duas não respondiam ao exame. Não conseguiram soltá-las.\
+— E as outras?
 
-— Nos petrificados, uns quatrocentos. Nos do túnel do metrô, quase todos.
+— Sem acesso. A lista de desaparecidos continua aberta; eu passei os nomes ao Bezerra. Nise disse que respirar não nos conta o que a pessoa percebe. — Vilar tirou um papel dobrado do bolso. — A irmã do Mauro Serpa recebeu a notícia antes do metrô parar. Voltou a perguntar pela causa. Ainda não tenho o resultado para ela; Nise está procurando o laudo no arquivo.
 
 — E na minha mão? — perguntou Val. Vilar demorou um segundo demais.
 

@@ -90,7 +90,7 @@ Dava para ouvir o ventilador interno da armadura acelerando, e um estalo repetid
 
 ---
 
-Gabo viu a brecha. E fez a única coisa em toda a carreira dele que ninguém, nunca, conseguiu explicar depois: largou a arma.
+Gabo viu a brecha e largou a arma. Se Kael avançasse, não teria tempo de pegá-la de novo.
 
 Não escondeu, não colocou no chão devagar: **largou**, deixou cair da mão, e o barulho da coronha batendo no piso foi alto naquele silêncio.
 
@@ -100,15 +100,15 @@ Depois se apoiou no rack que restara, com o quadril errado e as órteses guincha
 
 O gigante virou a cabeça.
 
-— Eu não sei o que fizeram com você. — Gabo falava normal. Sem gritar, sem tom de negociação de refém, sem nada. — Eu não sei quanto sobrou. Eu sei que alguém, em algum momento, te deu um nome antes de te dar um número, e o nome veio primeiro.
+— Eu lembro de você na Torre. — Gabo falava sem gritar. — Lembro da minha perna presa no suporte e de você aumentando a pressão. Não vou fingir que era outra pessoa.
 
 O modulador chiou.
 
-— Você está preso ao que fizeram com você, Kael. Hesitar não torna ninguém menos cativo. Mas você ainda pode recusar essa ordem. — Gabo apontou a mão aberta para a tela onde o irmão dele gritava. — Você hesitou duas vezes nos últimos quatro minutos, e ele viu, e é por isso que ele está com pressa.
+— No beco você mandou ele sair da sua cabeça. Eu ouvi. — Gabo apontou a mão aberta para a tela. — Agora ele quer que você mate doze mil pessoas. Não sei se consegue recusar. Mas estou pedindo.
 
 — *NÃO ESCUTA ELE!* — berrou Marco.
 
-— **Lembra** — disse Gabo.
+Kael olhou para a mão vazia de Gabo. Depois, para a tela.
 
 ---
 
@@ -123,6 +123,7 @@ O braço direito dele se reconfigurou — placa deslizando sobre placa, um som l
 O modulador falou pela última vez naquela noite, e falou devagar, com uma dicção que não tinha nada de mecânica:
 
 — *Ordem recusada.*
+— *Não foi por você, Moretti.*
 
 E disparou.
 

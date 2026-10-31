@@ -8,7 +8,7 @@ Localização: "Catedrais de Pedra (Nível 5) → Estação de Bombeamento"
 
 # Capítulo 128: O Ventre da Besta
 
-O cheiro não era apenas de podridão; era de tempo estagnado. Uma mistura de lodo antigo, cobre oxidado e algo adocicado que Gabo conhecia muito bem: carne em decomposição. Mas não havia espaço para o olfato processar o nojo. Seus outros sentidos estavam gritando.
+O cheiro era de tempo estagnado: lodo antigo, cobre oxidado e algo adocicado que Gabo conhecia bem - carne em decomposição. Não havia espaço para o nojo. Seus outros sentidos estavam gritando.
 
 A escuridão das "Catedrais de Pedra" não era vazia. Ela rosnava.
 
@@ -16,7 +16,7 @@ A escuridão das "Catedrais de Pedra" não era vazia. Ela rosnava.
 
 Gabo acendeu o último sinalizador químico e o arremessou. A luz vermelha de fósforo chiou, cortando as sombras e revelando o pesadelo.
 
-Não eram cães. Eram *Quimeras de Drenagem*. Cães selvagens que a cidade havia mastigado e cuspido de volta, com pedaços de sucata fundidos à carne. Um deles tinha uma placa de circuito exposta onde deveria estar o olho esquerdo; outro arrastava uma pata traseira substituída por uma mola de suspensão enferrujada. O líder da matilha, uma besta do tamanho de um lobo, tinha a mandíbula inferior arrancada, substituída por lâminas serrilhadas de um triturador industrial.
+Eram cães, ou tinham sido: *Quimeras de Drenagem*. Animais selvagens que a cidade havia mastigado e cuspido de volta, com pedaços de sucata fundidos à carne. Um deles tinha uma placa de circuito exposta onde deveria estar o olho esquerdo; outro arrastava uma pata traseira substituída por uma mola de suspensão enferrujada. O líder da matilha, uma besta do tamanho de um lobo, tinha a mandíbula inferior arrancada, substituída por lâminas serrilhadas de um triturador industrial.
 
 Eles não latiam. O som que faziam era um clique úmido e mecânico. *Click-clack, click-clack.*
 
@@ -52,7 +52,7 @@ Os olhos vermelhos das Quimeras brilhavam na escuridão, multiplicando-se. O bri
 
 Gabo parou diante do espaço estreito. A lembrança de Bia no galpão veio com o cheiro da chuva sobre concreto. Ele apertou a cinta da prancha para não perder o apoio.
 
-— Não é ela — ele sussurrou para si mesmo, apertando o colar até cortar a mão. — É código num pendrive. É apenas código.
+— Essa lembrança é minha — ele sussurrou, soltando o colar. — Aria está aqui. Rangel também. — Firmou os pés junto da prancha.
 
 Uma Quimera saltou das sombras, mirando o pescoço de Valéria.
 
@@ -84,7 +84,7 @@ Ele se aproximou de um dos tubos. O líquido dentro não era esgoto. Era vermelh
 
 Sangue. Ou algo muito parecido, sintético, nutriente.
 
-— *É o sistema circulatório* — Aria sussurrou no fone, mantendo o canal de reprodução bloqueado. — *A cidade está se alimentando, Gabo. E nós somos os vírus na corrente sanguínea.*
+— *É o sistema circulatório* — Aria sussurrou no fone, com a voz falhando entre as palavras. — *A cidade está se alimentando, Gabo. E nós somos os vírus na corrente sanguínea.*
 
 Gabo olhou para o túnel escuro à frente, onde o zumbido era mais forte. Eles tinham escapado dos cães, mas tinham caído na boca do dono.
 

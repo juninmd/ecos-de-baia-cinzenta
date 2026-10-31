@@ -2,15 +2,13 @@
 
 Unifica cenas de ambiente (text-to-image) e cenas com personagem (image-to-image),
 preservando a Regra Zero ao receber o retrato canônico como âncora visual.
-
-Uso:
-    & "$UNSLOTH_PY" scripts/gerar_cenas_qwen21.py --capitulo 3
-    & "$UNSLOTH_PY" scripts/gerar_cenas_qwen21.py --limite 1
 """
 
 import argparse
 import json
+import os
 import sys
+import time
 from pathlib import Path
 from typing import Dict, List, Optional
 from PIL import Image
@@ -27,8 +25,8 @@ GGUF_REPO = "unsloth/Qwen-Image-2.1-GGUF"
 GGUF_FILE = "qwen-image-2.1-Q2_K.gguf"
 BASE_REPO = "Qwen/Qwen-Image-2.1"
 LARGURA, ALTURA = 1376, 768
-PASSOS = 30
-CFG = 4.0
+PASSOS = 25
+CFG = 1.0
 NEGATIVO = (
     "different person, deformed face, deformed hands, extra fingers, "
     "same pose as reference, cut-out person, pasted subject, standing still, "
@@ -36,6 +34,30 @@ NEGATIVO = (
 )
 
 _pipe = None
+
+
+def resolver_caminhos_locais():
+    hub_dir = Path.home() / ".cache" / "huggingface" / "hub"
+    gguf_snap = hub_dir / f"models--{GGUF_REPO.replace('/', '--')}" / "snapshots"
+    base_snap = hub_dir / f"models--{BASE_REPO.replace('/', '--')}" / "snapshots"
+
+    gguf_path = f"https://huggingface.co/{GGUF_REPO}/blob/main/{GGUF_FILE}"
+    if gguf_snap.exists():
+        for s in gguf_snap.iterdir():
+            cand = s / GGUF_FILE
+            if cand.exists():
+                gguf_path = str(cand)
+                break
+
+    base_path = BASE_REPO
+    if base_snap.exists():
+        for s in base_snap.iterdir():
+            if (s / "model_index.json").exists():
+                base_path = str(s)
+                break
+
+    local_only = not gguf_path.startswith("http") and base_path != BASE_REPO
+    return gguf_path, base_path, local_only
 
 
 def carregar_pipeline():
@@ -46,16 +68,19 @@ def carregar_pipeline():
     from diffusers import (GGUFQuantizationConfig, QwenImage21Pipeline,
                            QwenImage21Transformer2DModel)
 
-    print(f"🖥️ Carregando Qwen-Image-2.1 ({GGUF_FILE})...")
+    gguf_path, base_path, local_only = resolver_caminhos_locais()
+    print(f"🖥️ Carregando Qwen-Image-2.1 ({Path(gguf_path).name})...")
     transformer = QwenImage21Transformer2DModel.from_single_file(
-        f"https://huggingface.co/{GGUF_REPO}/blob/main/{GGUF_FILE}",
+        gguf_path,
         quantization_config=GGUFQuantizationConfig(compute_dtype=torch.bfloat16),
         dtype=torch.bfloat16,
-        config=BASE_REPO,
+        config=base_path,
         subfolder="transformer",
+        local_files_only=local_only,
     )
     pipe = QwenImage21Pipeline.from_pretrained(
-        BASE_REPO, transformer=transformer, dtype=torch.bfloat16
+        base_path, transformer=transformer, dtype=torch.bfloat16,
+        local_files_only=local_only,
     )
     pipe.enable_model_cpu_offload()
     pipe.set_progress_bar_config(disable=True)
@@ -68,24 +93,27 @@ def gerar_cena(pipe, entrada: Dict, destino: Path) -> bool:
     import torch
 
     refs = [REPO_ROOT / p["referencia"] for p in entrada.get("elenco", [])
-            if (REPO_ROOT / p["referencia"]).exists()]
+            if p.get("referencia") and (REPO_ROOT / p["referencia"]).exists()]
     imagens = [Image.open(r).convert("RGB") for r in refs] if refs else None
 
     prompt = entrada.get("prompt", "")
     seed = int(entrada.get("seed", 42))
 
     try:
-        resultado = pipe(
-            prompt=prompt,
-            image=imagens,
-            negative_prompt=NEGATIVO,
-            true_cfg_scale=CFG,
-            width=LARGURA,
-            height=ALTURA,
-            num_inference_steps=PASSOS,
-            generator=torch.Generator("cpu").manual_seed(seed),
-        ).images[0]
+        kwargs = {
+            "prompt": prompt,
+            "width": LARGURA,
+            "height": ALTURA,
+            "num_inference_steps": PASSOS,
+            "generator": torch.Generator("cpu").manual_seed(seed),
+        }
+        if CFG > 1.0:
+            kwargs["true_cfg_scale"] = CFG
+            kwargs["negative_prompt"] = NEGATIVO
+        if imagens:
+            kwargs["image"] = imagens
 
+        resultado = pipe(**kwargs).images[0]
         destino.parent.mkdir(parents=True, exist_ok=True)
         resultado.save(destino, quality=94, optimize=True)
 
@@ -117,20 +145,22 @@ def main() -> int:
         print("✅ Nenhuma cena pendente no filtro informado.")
         return 0
 
-    print(f"🎬 Processando até {min(args.limite, len(fila))} cenas pendentes...")
+    total_processar = min(args.limite, len(fila))
+    print(f"🎬 Processando até {total_processar} cenas pendentes (de {len(fila)})...")
     pipe = carregar_pipeline()
     aprovadas = 0
 
-    for item in fila[:args.limite]:
+    for i, item in enumerate(fila[:args.limite], start=1):
         saida = REPO_ROOT / item["saida"]
         if args.subpasta:
             saida = saida.parent / args.subpasta / saida.name
-        print(f"[{item['capitulo']}:{item['cena']}] -> {saida.name}")
+        t0 = time.time()
+        print(f"[{i}/{total_processar}] cap_{item['capitulo']}:{item['cena']} -> {saida.name}...")
         if gerar_cena(pipe, item, saida):
             aprovadas += 1
-            print("   ✅ Homologada com sucesso.")
+            print(f"   ✅ Homologada em {time.time()-t0:.1f}s.")
 
-    print(f"🏁 Concluído: {aprovadas} cenas aprovadas nesta rodada.")
+    print(f"🏁 Concluído: {aprovadas}/{total_processar} cenas aprovadas nesta rodada.")
     return 0
 
 

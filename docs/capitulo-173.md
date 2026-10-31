@@ -15,11 +15,11 @@ Eu também não estava muito melhor. O choque hipovolêmico era uma sombra amea�
 
 Nas bordas do Distrito 4, a ordem corporativa nunca existiu de fato, e a falta de energia apenas escancarou isso. Os moradores sobreviventes haviam começado a queimar o que encontravam em tambores improvisados nas ruas para espantar a escuridão e o frio: plástico isolante velho, pneus velhos e restos químicos.
 
-Nas calçadas, junto aos tambores, as pessoas se aqueciam em silêncio. Ninguém pedia nada, ninguém oferecia nada. Uma mulher segurava uma chaleira com as duas mãos, e a chaleira não fumegava. Mais adiante, um velho de casaco comprido alimentava o fogo com o que tirava de uma pasta de papelão: processos, fichas, formulários, e o fogo comia cada folha com uma alegria fina e amarela. Toda a papelada de uma vida subindo em fumaça porque a noite estava fria. Onde quer que Rangel estivesse, estaria gritando com o velho.
+Nas calçadas, junto aos tambores, as pessoas se aqueciam em silêncio. Ninguém pedia nada, ninguém oferecia nada. Uma mulher segurava uma chaleira com as duas mãos, e a chaleira não fumegava. Mais adiante, um velho de casaco comprido alimentava o fogo com o que tirava de uma pasta de papelão: processos, fichas, formulários, e o fogo comia cada folha com uma alegria fina e amarela. Toda a papelada de uma vida subindo em fumaça porque a noite estava fria. Rangel teria discutido com o velho antes de entregar mais uma folha às chamas.
 
 O vento soprou a fumaça negra de uma dessas fogueiras na nossa direção. O ardor nos olhos e a acidez cáustica no fundo da garganta foram imediatos; o plástico queimado e os vapores de borracha roubaram o oxigênio em um instante.
 
-Com o corpo debilitado pelo choque e pelas fraturas e queimaduras recentes, a fumaça química provocou um espasmo violento na minha traqueia. Caí de joelhos no asfalto quebrado, tossindo em acessos secos e dolorosos que repuxavam os pontos do abdômen e faziam a água suja da sarjeta salpicar meu rosto.
+Com o corpo debilitado pelo choque e pelas fraturas e queimaduras recentes, a fumaça química provocou um espasmo violento na minha traqueia. Caí de joelhos no asfalto quebrado, tossindo em acessos secos e dolorosos que repuxavam o curativo do abdômen e faziam a água suja da sarjeta salpicar meu rosto.
 
 Valéria ajoelhou-se ao meu lado imediatamente, usando o próprio corpo para bloquear a rajada de vento tóxico que vinha do tambor em chamas.
 
@@ -45,7 +45,7 @@ Valéria tensionou os ombros e levou a mão direita até a pistola. Ela tremia; 
 
 Levantei a mão esquerda enfaixada, sinalizando para ela não se mover.
 
-Dei dois passos à frente. A água espirrava nas minhas botas. Eu não saquei minha arma. Apenas olhei para o líder. Meu casaco estava ensopado com a sujeira da cidade e meu próprio sangue fresco escorrendo da fratura exposta e das ataduras arrebentadas do meu braço direito.
+Dei dois passos à frente. A água espirrava nas minhas botas. Eu não saquei minha arma. Apenas olhei para o líder. Meu casaco estava ensopado com a sujeira da cidade e meu próprio sangue fresco escorrendo da fratura e das ataduras arrebentadas do meu braço direito.
 
 Os olhos do saqueador caíram para a minha ferida aberta, para o modo como o sangue se diluía sob a chuva, e então subiram de volta para o meu rosto. A expressão fria, vazia e cínica de quem havia passado as últimas horas caminhando pelo inferno corporativo, testemunhando horrores biológicos e apagando a mente de um deus digital.
 

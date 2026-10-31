@@ -1,5 +1,5 @@
 ---
-image: /cenas/cidade.jpg
+image: /capitulo_119.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Inspetor Rangel, Valéria "Val" Cruz, Aria
 Localização: "Usina Prometeu em ruínas — Corredores → Doca de Carga B"
 ---
@@ -91,4 +91,4 @@ O silêncio era o que mais assustava. Não havia o zumbido constante dos servido
 
 Gabo sustentou o tronco pesado de Rangel pelo lado esquerdo. Valéria guardou o pendrive inerte da Aria no estojo de ferramentas e apoiou o inspetor pelo lado direito, mantendo o revólver dele pronto.
 
-Eles saíram para a chuva fria, deixando as ruínas da Prometeu para trás. Não havia fanfarra, nem vitória gloriosa. Apenas três sobreviventes de carne e osso — e uma inteligência artificial adormecida num cilindro de titânio — mancando na escuridão, enquanto o cheiro de chuva limpa começava, lentamente, a lavar o cheiro de carne queimada.
+Eles saíram para a chuva fria. O estojo com o cilindro de titânio pesava mais do que o inspetor. Atrás deles, as luzes da Prometeu não voltaram.

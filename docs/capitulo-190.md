@@ -21,7 +21,7 @@ Suspensos entre as colunas dos data-centers, fundidos ao metal como relíquias p
 
 Havia um som naquela sala que não vinha de máquina nenhuma. Um acorde grave, contínuo, que subia pelo piso e parava nos meus dentes. Centenas de gargantas secas respirando no mesmo compasso, e por baixo delas o zumbido dos coolers, agora quase um sussurro. O ar era morno e úmido, como o hálito de uma boca grande.
 
-Valéria parou na entrada do salão, a mão esquerda cravada no corrimão de ferro. Os LEDs azuis na franja curta dela piscaram num ritmo errático, refletindo o horror absoluto em seus olhos ópticos prateados.
+Valéria parou na entrada do salão, apoiando o antebraço esquerdo no corrimão de ferro. Os LEDs azuis na franja curta dela piscaram num ritmo errático, refletindo o horror absoluto em seus olhos ópticos prateados.
 
 — Meu Deus... Gabo... isso não é um depósito de dados — a voz dela saiu num sussurro trêmulo, carregado de repulsa. — Há pessoas ligadas aos controladores. O painel mostra comandos para as comportas pluviais, mas não explica o que acontece com elas durante a transmissão.
 
@@ -35,9 +35,9 @@ Não havia resposta que servisse, e ela não esperava uma.
 
 — Eles querem a rede de drenagem inteira — falei, o cano fumegante de *Caronte* apontado para o chão, o peso da armação no braço quebrado latejando com o calor acumulado da batalha anterior. As cicatrizes da junção dos nervos queimavam como fogo. — Querem usar a água da chuva e os esgotos pra espalhar esse fungo por cada ralo de Baía Cinzenta.
 
-Lembrei do corpo de Bia Vargas no necrotério do DPBC, lembrei de cada sacrifício inútil desde a queda da Torre do Relógio. Aquela cidade sempre moía corpos pobres para manter os sistemas da elite funcionando.
+Lembrei da mulher que Val e eu tiramos da esteira na fábrica. Chamamos resgate para quem ficou nas outras linhas; não vimos quem conseguiram alcançar. O homem junto ao corrimão moveu a mão de novo. Desta vez eu também estava olhando para uma escolha que podia deixá-lo para trás.
 
-— Se isso acontecer, não sobra uma alma viva na superfície — Valéria caminhou até o console de diagnóstico no pé do primeiro pilar, conectando o scanner com as mãos trêmulas de raiva. As telas piscaram com linhas vermelhas de telemetria. — O sistema tá operando no limiar térmico. A alimentação industrial dos racks está no limite, além do suporte dos corpos. O sistema de refrigeração ainda evita o desligamento térmico. Vou conferir se cortar a linha de comando mantém o suporte ligado.
+— Se isso acontecer, não sobra uma alma viva na superfície — Valéria caminhou até o console de diagnóstico no pé do primeiro pilar, conectando o scanner com a mão direita trêmula. As telas piscaram com linhas vermelhas de telemetria. — O sistema tá operando no limiar térmico. A alimentação industrial dos racks está no limite, além do suporte dos corpos. O sistema de refrigeração ainda evita o desligamento térmico. Vou conferir se cortar a linha de comando mantém o suporte ligado.
 
 Ela apontou com a lanterna para a viga central da câmara.
 
@@ -45,9 +45,11 @@ Descendo do teto como uma espinha dorsal de titânio, um duto pressurizado de me
 
 — Amônia pressurizada e gás freon em circuito fechado — Valéria analisou, os olhos faiscando de perspicácia técnica. — Se o fluxo de arrefecimento for cortado na válvula mestra naquele pilar central, o calor do processamento biológico não tem pra onde ir. Os racks têm proteção térmica, mas ela foi desativada no comando local. Perder o resfriamento pode queimar a alimentação e o suporte das pessoas. Não é uma forma de libertá-las com segurança.
 
+Valéria isolou no painel a linha identificada como comando e pediu sua interrupção. A tela recusou: a mesma alimentação mantinha os controladores e o suporte. Ela salvou o aviso e tentou o barramento de emergência; não conseguiu separá-los. O indicador das comportas continuava avançando.
+
 — E como a gente fecha essa válvula? — perguntei, avaliando a altura do encanamento e o metal quebrado das plataformas.
 
-— A gente não fecha, Gabo — Valéria me encarou, e pela primeira vez naquela noite, havia um sorriso selvagem e vingativo em seus lábios cortados. — A gente quebra. A gente arrebenta o volante da tubulação principal. O líquido superaquecido vai vazar em spray direto sobre os servidores mestre.
+— A gente não fecha, Gabo — Valéria me encarou, mantendo a mão sobre o aviso que acabara de salvar. — A gente quebra. A gente arrebenta o volante da tubulação principal. O líquido superaquecido vai vazar em spray direto sobre os servidores mestre.
 
 — Isso vai transformar essa sala inteira numa caldeira de vapor venenoso — ponderei, sentindo o peso da decisão.
 
@@ -61,7 +63,7 @@ Caminhei até o pilar central, meus passos pesados esmagando as raízes carmesin
 
 Diante de mim, o volante de ferro fundido da válvula mestra de arrefecimento estava envolto por uma crosta grossa de gelo químico e raízes ressecadas. O metal chiava sob a pressão monumental da amônia comprimida que corria dentro do duto.
 
-Girei os atuadores da minha armação industrial de cais, ouvindo o chiado pneumático travar as garras de aço no torque máximo. O ponto de contato do fixador sob o curativo ardeu com o esforço, mas a dor agora não era um obstáculo; era a certeza de que eu ainda estava aqui, empunhando a ferramenta certa no lugar certo.
+Girei os atuadores da minha armação industrial de cais, ouvindo o chiado pneumático travar as garras de aço no torque máximo. O ponto de contato do fixador sob o curativo ardeu com o esforço, e precisei parar para firmar os pés antes de alcançar a válvula.
 
 Valéria preparou o disparador de faísca do deck e recuou três passos, mantendo a pistola em punho para cobrir o perímetro.
 

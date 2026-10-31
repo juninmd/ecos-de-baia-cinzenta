@@ -7,7 +7,7 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 # Capítulo 217: O Útero de Chumbo
 
-O fundo do poço nos recebeu com a indiferença gélida de uma câmara mortuária anterior à própria história. Não houve impacto dramático; apenas o baque surdo dos meus coturnos sobre a laje de concreto usinado de alta densidade. O som ecoou na vastidão confinada, seco, pesado e sem retorno. Apoiei o peso na perna boa, enquanto a armação industrial de sucata instalada por Vasco para sustentar a fratura puxava meu ombro com uma fisgada aguda de cansaço. A carne costurada ardia sob as bandagens sujas, onde os pontos continuavam sangrando em silêncio. As cicatrizes do Dilúvio queimavam como brasa viva; tanta gente morreu naquela enchente maldita e eu perdi quase tudo o que chamava de vida, mas a agonia física servia apenas para manter meus sentidos despertos e focados.
+O fundo do poço nos recebeu com a indiferença gélida de uma câmara mortuária anterior à própria história. Não houve impacto dramático; apenas o baque surdo dos meus coturnos sobre a laje de concreto usinado de alta densidade. O som ecoou na vastidão confinada, seco, pesado e sem retorno. Apoiei o peso na perna boa, enquanto a armação industrial de sucata instalada por Vasco para sustentar a fratura puxava meu ombro com uma fisgada aguda de cansaço. A carne costurada ardia sob as bandagens sujas, onde os pontos continuavam sangrando em silêncio. As cicatrizes do Dilúvio queimavam como brasa viva; tanta gente morreu naquela enchente maldita e eu perdi quase tudo o que chamava de vida, e tive de esperar a tontura passar antes de andar.
 
 — Chegamos ao leito de pedra, — anunciei, a voz raspando na garganta ressecada pelo ar seco e carregado de poeira.
 
@@ -53,7 +53,7 @@ Agarrei os raios do volante central. Elias correu e travou as mãos ao lado das 
 
 — No três! — comandei. — Um... dois... gira!
 
-Puxamos a roda de manobra em sentido horário. O motor da minha armação de Vasco rugiu sob o esforço, os parafusos na minha clavícula puxando a carne viva com uma ferroada que me fez cerrar os dentes até ranger os molares. Lembro de provações parecidas no Dilúvio, quando o concreto cedia e a gente quebrou as próprias mãos pra salvar os sobreviventes; a dor era conhecida, mas não me dava controle nenhum: precisei soltar o volante para Elias terminar a volta.
+Puxamos a roda de manobra em sentido horário. O motor da minha armação de Vasco rugiu sob o esforço, a tração do arnês alcançando o fixador no braço com uma ferroada que me fez cerrar os dentes até ranger os molares. Lembro de provações parecidas no Dilúvio, quando o concreto cedia e a gente quebrou as próprias mãos pra salvar os sobreviventes; a dor era conhecida, mas não me dava controle nenhum: precisei soltar o volante para Elias terminar a volta.
 
 O metal rangeu com um gemido profundo e prolongado de engrenagens de bronze deslizando em guias perfeitas.
 
@@ -67,4 +67,4 @@ Valéria deu um passo à frente, os olhos prateados arregalados e a boca aberta 
 
 — Não tem ferrugem... não tem colapso... — sussurrou ela. — Moretti... nós encontramos a Arca.
 
-— Então vamos entrar antes que a porta perceba que não somos os donos da casa, — ordenei, passando pela fresta e liderando o caminho para dentro da câmara proibida.
+— Vamos olhar antes de entrar — disse, parando junto à fresta. A corrente de ar empurrava a poeira para fora.

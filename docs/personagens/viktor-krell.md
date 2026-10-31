@@ -9,6 +9,7 @@
 * **Olhos:** Azul Aeterna (Cibernéticos). Eles nunca demonstram calor, apenas cálculo.
 * **Marcas Distintivas:** Caminha com o auxílio de uma bengala de titânio negro, que na verdade é uma lâmina disfarçada e um emissor de choque neural.
 * **Vestuário:** Ternos de alfaiataria sob medida, sempre impecáveis, projetados para impor respeito.
+* **Prompt Visual:** a terrifying 50 year old man with dwarfism, 1.35m tall, slicked-back platinum blonde hair, cold calculating cybernetic blue eyes, black titanium cane, tailored bespoke charcoal suit, dark corporate office
 * **Equipamento:** Link neural mestre que lhe dá acesso a todas as câmeras e microfones da cidade.
 * **Gostos/Traços:** Música clássica, xadrez, tortura psicológica e coleção de "Troféus Biológicos".
 * **Perfil Psicológico:** O Sádico Intelectual. Krell compensa sua estatura com uma crueldade sem limites. Ele tem um desprezo visceral por força física, preferindo derrotar seus inimigos com inteligência e tecnologia. Ele não apenas mata; ele converte seus inimigos em ferramentas.

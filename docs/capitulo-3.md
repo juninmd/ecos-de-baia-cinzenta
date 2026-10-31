@@ -50,7 +50,7 @@ As pálpebras haviam sido removidas. No lugar dos olhos, lentes de câmeras anal
 Zzzzt. Click.
 O som foi mecânico, vindo de dentro do crânio do rapaz. As lentes giraram, focando.
 
-— Não apenas ativas. Estão transmitindo — disse a voz feminina vinda do chão.
+— Não apenas ativas. Há uma emissão aqui — disse a voz feminina vinda do chão.
 
 Sentada em posição de lótus, cercada por cabos físicos conectados a um terminal portátil pesado, estava a Detetive Valéria Cruz. O terminal trabalhava sem projetor: código rolando em telas de fósforo verde e o cheiro de processadores superaquecidos.
 
@@ -68,7 +68,7 @@ Gabriel se inclinou mais perto, encarando as lentes no rosto do morto.
 
 — O que ele está vendo? O que *eles* estão vendo?
 
-— A câmera está voltada para nós. A transmissão está ativa. Quem recebe e quem armazena, ainda não sei. — Valéria olhou para a viseira dele. — Mas se abaixar aí, você aparece inteiro.
+— A câmera está voltada para nós, e a emissão acompanha o mecanismo. Ainda não sei se leva imagem, nem quem recebe. — Valéria olhou para a viseira dele. — Mas, se levar, você aparece inteiro.
 
 Gabriel sentiu a raiva fria subir pelo pescoço. Ele olhou para a cavidade torácica novamente. Entre as engrenagens, algo destoava. Um pedaço de papel, preso por um alfinete de gravata, bem no lugar onde deveria estar o coração.
 
@@ -102,9 +102,9 @@ Vilar ficou em silêncio.
 
 — A Inteligência diz que ele foi visto nos níveis inferiores. Tentando vender informações para o Sindicato. Ele conhece os túneis de drenagem da época da construção. Ninguém mapeou aquilo.
 
-Gabo foi se aproximar das lentes, mas parou ao ver o próprio rosto na tela do terminal. Do outro lado, alguém teria uma imagem melhor de sua reação do que ele mesmo.
+Gabo foi se aproximar das lentes, mas parou ao ver o próprio rosto na tela do terminal. Se a emissão levasse aquela imagem para fora, alguém teria um registro melhor de sua reação do que ele mesmo.
 
-— Corte a transmissão, Val. Guarde a captura que conseguiu. A original, sem limpar o ruído.
+— Corte a emissão, Val. Guarde a captura que conseguiu. A original, sem limpar o ruído.
 
 O obturador deu um último clique. Dessa vez, não tornou a girar.
 

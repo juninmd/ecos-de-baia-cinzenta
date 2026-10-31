@@ -33,21 +33,21 @@ Apoiei a pinça da armação no chão para me erguer. O pistão instalado por Va
 
 Elias encontrou uma caixa de segurança caída sob os destroços. Dentro havia quatro cartuchos calibre doze ainda lacrados; conferi as cápsulas antes de guardá-los.
 
-— E os outros três colossos que você pegou nos sensores? — perguntei, ejetando os cartuchos vazios da escopeta. O clique metálico de duas balas novas entrando na câmara ecoou como um metrônomo sombrio.
+— E os outros três colossos que você pegou nos sensores? — perguntei, ejetando o único cartucho gasto da escopeta. O clique metálico de duas balas novas entrando na câmara ecoou como um metrônomo sombrio.
 
 Valéria consultou o gráfico de telemetria na tela fosforescente do cyberdeck.
 
-— Dois deles estavam no fundo da calha de transbordo e foram soterrados pelo desabamento da parede norte. O sensor térmico mostra apenas blocos de concreto amassando os núcleos. Estão mortos e frios.
+— Duas das fontes sumiram da leitura depois do desabamento na calha. Podem estar soterradas ou encobertas pelo concreto. Não consigo dizer o que eram nem se pararam.
 
 — E o quarto?
 
 Ela franziu a testa, os lábios se comprimindo em uma linha tensa.
 
-— Recuou para dentro do fosso de drenagem a cento e vinte metros ao sul. Não tá perseguindo a gente, mas parou na bifurcação. Tá em modo de espera, Moretti. Quase como se soubesse que a gente não tem como voltar pelo caminho da escada.
+— A terceira se moveu para a bifurcação ao sul e parou. Não sei se percebeu a gente ou o que está fazendo.
 
 — Máquinas infectadas pela Praga de Ferro não montam emboscada estratégica, Val, — contestei, mancando em direção ao centro do galpão.
 
-— Máquinas padrão da Aeterna não montam, — ela retrucou, iluminando a cratera aberta pela queda do guindaste. — Mas seja lá o que o Consórcio e o Projeto Gênesis plantaram nessas linhas de código antes de afundar a cidade, isso aprende. Aprendeu a soldar sucatas e aprendeu que nós somos frágeis.
+— Máquinas padrão da Aeterna não montam, — ela retrucou, iluminando a cratera aberta pela queda do guindaste. — Não sabemos quem montou aquilo nem como escolhe o caminho. A fonte parada continua entre nós e a escada; eu não contaria com ela ficando lá.
 
 A lanterna de Valéria varreu o chão de concreto estilhaçado.
 
@@ -59,7 +59,7 @@ Onde o guindaste colossal havia esmagado o monstro de sucata, o impacto descomun
 
 — Vocês querem mesmo descer nisso? — Elias perguntou, os olhos dilatados de pavor. — Parece uma garganta feita pra engolir gente e nunca mais cuspir.
 
-— É uma garganta de concreto, Elias, — Valéria respondeu, ajustando a alça do cyberdeck nas costas com um estalo firme. — E garanto que o estômago dela é bem mais seguro do que ficar aqui em cima esperando o quarto monstro decidir se quer almoçar a gente.
+— É uma garganta de concreto, Elias, — Valéria respondeu, ajustando a alça do cyberdeck nas costas com um estalo firme. — Não consigo garantir que ela seja segura. Mas podemos verificar os apoios antes de descer.
 
 Ela se virou para mim, os olhos prateados faiscando sob o feixe azul da lanterna. Havia uma determinação feroz naquela mulher, a mesma que nos mantivera vivos depois que o drive de Aria foi sacrificado nos terminais da diretoria.
 

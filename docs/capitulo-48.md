@@ -114,7 +114,7 @@ Val trabalhou seis minutos sem falar. O ar cheirava a plástico derretendo. O ci
 
 ---
 
-A porta do arquivo ficava no fim do subsolo. Val desceu com a lanterna e voltou sete minutos depois, sem a Vetor na mão. Estava com uma caixa de papelão do tamanho de uma sapateira e um selo de cera arrebentado. Pousou a caixa ao lado dele.
+A porta do arquivo ficava no fim do subsolo. Val desceu com a lanterna e voltou sete minutos depois, sem a Vetor na mão. Estava com uma caixa de papelão do tamanho de uma sapateira e um selo de cera arrebentado. Pousou a caixa ao lado dele e encostou a Caronte na parede, ao alcance da mão esquerda; a equipe de resgate a tinha achado no fosso da torre.
 
 — A porta estava aberta. O cadeado também. Não arrombaram. Usaram a chave.
 

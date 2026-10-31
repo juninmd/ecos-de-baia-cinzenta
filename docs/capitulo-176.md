@@ -1,4 +1,5 @@
 ---
+image: /cenas/capitulo_176/cena_4.jpg
 Título: O Peso da Ferrugem
 Data In-Game: Indeterminada (Pós-Colapso da Aeterna)
 Localização: Ruas do Distrito 4

@@ -29,13 +29,13 @@ Elias deu três passos hesitantes pelo piso polido, piscando os olhos sob a luz 
 
 — Então por que o aquecimento ainda tá ligado?
 
-O garoto, sem perceber, acabara de fazer a única pergunta que realmente importava naquele santuário de metal.
+Elias deixou a pergunta no ar e voltou a olhar para a porta que não conseguiriam fechar pelo mesmo comando.
 
 Valéria não perdeu tempo com o espanto estético. Caminhou em passos rápidos e decididos até o console central de processamento — uma torre monumental de quatro metros de altura que se conectava diretamente ao teto abobadado. Os fios holográficos azuis de sua franja piscaram em alta frequência, refletindo-se nas superfícies cromadas dos gabinetes.
 
 — Interface física arcaica, padrão serial da década de setenta, — murmurou ela, tirando um adaptador de pinos dourados da bolsa do cyberdeck e engatando na porta de diagnóstico com um clique limpo. — Deixa eu ver o que esse silêncio todo tá escondendo.
 
-Sentei-me no chão ao lado de uma coluna de dados, esticando a perna direita para que a órtese emperrada pudesse esfriar. O ombro direito latejava no compasso do meu coração; a tração na válvula externa na subida anterior quase arrebentara os pinos que Vasco instalara para conter a fratura. Meus músculos estavam sangrando sob as bandagens sujas, manchando a sarja do casaco, mas o calor limpo da sala ajudava a relaxar a musculatura retesada pelo frio de amônia. As cicatrizes do Dilúvio formigavam, um mapa sensorial de todas as vezes em que Baía Cinzenta tentara me matar.
+Sentei-me no chão ao lado de uma coluna de dados, esticando a perna direita para que a órtese emperrada pudesse esfriar. O ombro direito latejava no compasso do meu coração; a tração na válvula puxara o fixador instalado pela equipe, ao qual Vasco acoplara o suporte. Meus músculos estavam sangrando sob as bandagens sujas, manchando a sarja do casaco, mas o calor limpo da sala ajudava a relaxar a musculatura retesada pelo frio de amônia. As cicatrizes do Dilúvio formigavam, um mapa sensorial de todas as vezes em que Baía Cinzenta tentara me matar.
 
 — O que você tá achando aí dentro, Val? — perguntei, observando as linhas de código que desciam em cascatas luminosas pelas ópticas dos olhos prateados dela.
 
@@ -75,7 +75,7 @@ Não era um diagrama que subia para a superfície. Era uma espiral descendente, 
 
 — É lá que a verdade dessa cidade tá enterrada, Elias, — eu disse, levantando-me devagar e firmando a escopeta na mão boa. — Valéria, quanto tempo pra destravar o elevador de carga do poço?
 
-— Quinze minutos pra bypassar o intertravamento analógico da Aeterna, — ela respondeu, puxando o cyberdeck e desconectando os cabos com um estalo profissional. Ela olhou para Elias com uma sobrancelha arqueada. — E você, garoto? Se quiser ficar aqui nessa sala quentinha com ar condicionado esperando a bateria acabar daqui a dez anos, a escolha é sua.
+— Quinze minutos pra bypassar o intertravamento analógico da Aeterna, — ela respondeu, puxando o cyberdeck e desconectando os cabos com um estalo profissional. Ela olhou para Elias com uma sobrancelha arqueada. — E você, garoto? Se quiser esperar aqui, a escolha é sua. Mas a porta para o corredor ficou aberta e não sei quanto tempo este lugar continuará seguro.
 
 Elias olhou para os servidores imaculados, depois para as cicatrizes e as armas que carregávamos. Suas mãos pararam de tremer.
 

@@ -26,7 +26,7 @@ Senti meus pulmões travarem. O pânico de asfixia borbulhou no peito. A ilusão
 
 Apoiei a mão esquerda na mesa e contei as lâmpadas vermelhas. O cheiro não foi embora. Val esperou comigo até eu conseguir voltar a respirar sem forçar a tala.
 
-Fiquei um tempo olhando o úmero torto sob a pele, o desenho novo que a fratura tinha feito. Já não era um osso; era uma coisa rachada que eu carregava. O sangue escorria pela lateral do pulso e pingava no chão num compasso lento, e eu contei sete gotas antes de perceber que estava contando.
+Fiquei um tempo olhando o antebraço torto, o desenho novo que a fratura tinha feito. O osso já não era um osso; era uma coisa rachada que eu carregava. O sangue escorria pela lateral do pulso e pingava no chão num compasso lento, e eu contei sete gotas antes de perceber que estava contando.
 
 — Gabo... — A voz de Valéria soou oca, vindo de algum lugar atrás de mim.
 
@@ -76,4 +76,4 @@ Encaixei a ponta na fresta e puxei. O aço gemeu, a trava cedeu com estalo de de
 
 — Toda porta nessa cidade agora tá trancada por dentro. — Subi o primeiro degrau, e o joelho respondeu com uma fisgada branca. — Anda.
 
-Deixamos o Setor Alfa-Sete para trás, sem olhar uma segunda vez para a mesa de fibra de carbono. A máquina de carne de Dante estava finalmente desligada. O expediente havia terminado. Agora, só restava a conta a pagar na superfície.
+A máquina de carne de Dante estava finalmente desligada. O pé de cabra torto bateu no cinto a cada degrau; atrás de nós, o Setor Alfa-Sete ficou em silêncio.

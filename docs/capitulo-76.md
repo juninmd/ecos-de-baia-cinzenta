@@ -134,11 +134,13 @@ Não era. Ele pegou o tablet da mão dela, desligou a tela e guardou o aparelho 
 
 Gabo olhou para as três palavras mais uma vez. O sol batia nelas de cheio, e mesmo assim pareciam mais escuras do que o resto do beco.
 
-— Não põe no sistema. Não fala com a Nise nem com o Vilar até a gente entender. — Ele se virou para a rua.
+— Não põe no sistema. A gente precisa entender primeiro quem consegue mexer nele. — Ele se virou para a rua.
 
-— Vou guardar uma cópia local e anotar a frase no meu caderno. — Val recolheu o tablet da mão dele. — Você não decide sozinho o que acontece com a prova.
+— Vou guardar uma cópia local e anotar a frase no meu caderno. — Val recolheu o tablet da mão dele. — E vou chamar Nise para examinar o corpo. Você não decide sozinho o que acontece com a prova.
 
-— Então me mostra antes de entregar a alguém.
+Gabo olhou para o homem no chão. Adiar a rede não precisava significar deixá-lo ali.
+
+— Peça que ela venha pelo rádio. A foto fica com você até termos uma cópia para a perícia.
 
 O Cobalt estava na esquina, o capô ainda morno. Gabo abriu a porta, parou com a mão no teto e olhou o beco uma última vez. O sol batia no cimento nu e não encontrava nada para esconder.
 

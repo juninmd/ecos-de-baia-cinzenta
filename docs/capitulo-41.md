@@ -19,7 +19,7 @@ Elena parou o Cobalt no trecho alto da Avenida da Indústria. A pista abaixo já
 
 No lugar dela havia um rio marrom de dois metros correndo em direção ao mar, carregando tudo que a cidade tinha deixado solto: contêineres de lixo, motos, um caixa eletrônico arrancado da parede, um sofá de três lugares girando devagar como se estivesse pensando.
 
-Nos carros abandonados abaixo da rampa, a água batia nas portas. No trecho alto, a chuva entrava pelas vedações rachadas, e o carro cheirava a diesel, esgoto e o cheiro específico e inconfundível de sarjeta revirada — doce, quente, orgânico.
+Nos carros abandonados abaixo da rampa, a água batia nas portas. No trecho alto, a chuva entrava pelas vedações rachadas, e o carro cheirava a óleo queimado, esgoto e o cheiro específico e inconfundível de sarjeta revirada - doce, quente, orgânico.
 
 — Não entra nessa água — disse Gabo a Elena. — O motor não segura um carro que perdeu o chão. Val, tem rota acima da avenida?
 

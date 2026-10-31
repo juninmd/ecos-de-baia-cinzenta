@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: "Capítulo 78: O Jardim de Concreto"
-description: "Um armazém que a cidade jura estar vazio. Lá dentro, o primeiro jardim — e a descoberta de que existe um ponto cego dentro de uma inteligência que enxerga tudo."
+description: "Um cadastro antigo descreve um armazém vazio. Lá dentro, Gabo e Vilar encontram um jardim e pessoas presas às raízes."
 image: /capitulo_78.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Capitão Jonas Vilar e homem de macacão
 Participação em referência: Dra. Nise
@@ -11,9 +11,7 @@ Localização: "Zona Leste, antigo Distrito Industrial — 10h"
 # Capítulo 78: O Jardim de Concreto
 
 Zona Leste, antigo Distrito Industrial — 10h.
-A luz do sol não perdoava nada.
-
-Durante quinze anos, a chuva e o neon tinham feito o serviço de maquiagem de Baía Cinzenta: escondiam a rachadura, engoliam o mofo, transformavam a sujeira em textura. Agora, sob um sol amarelo e direto, a cidade parecia o que sempre foi — um corpo em decomposição adiantada, fotografado com flash.
+A luz do sol não perdoava nada. Durante quinze anos, a chuva e o neon tinham feito o serviço de maquiagem de Baía Cinzenta: escondiam a rachadura, engoliam o mofo, transformavam a sujeira em textura. Agora, sob um sol amarelo e direto, a cidade parecia o que sempre foi — um corpo em decomposição adiantada, fotografado com flash.
 
 Gabo estacionou o Cobalt e a chapa azul já estava quente ao toque. Ele ajustou os óculos escuros, um objeto que tinha comprado quatro dias antes e que ainda o irritava, porque olho acostumado a penumbra permanente não aprende a lidar com sol em uma semana.
 
@@ -23,13 +21,15 @@ O Capitão Jonas Vilar estava parado na frente de um armazém da antiga Aeterna 
 
 — Era vandalismo — disse Vilar. — Até a gente abrir.
 
+Ele mostrou a Gabo uma mensagem recebida pelo rádio: Nise estava a caminho. O paciente do quarto 304 permanecia em observação; a amostra da seringa seguia para análise. Ela também pedia que a delegacia comparasse os desaparecidos com as impressões do homem do beco. Ainda não tinha nome para entregar à família.
+
 ---
 
 A porta de correr, de chapa de aço com quatro metros de altura, estava retorcida. Gabo se aproximou e passou os dedos pela deformação, e a informação chegou antes da conclusão: as bordas estavam **para fora**. Não tinha sido arrombada. Tinha sido empurrada por dentro.
 
 — Com o quê? — perguntou ele.
 
-— É o que eu queria saber. — Vilar cuspiu no chão. — Não tem marca de ferramenta. Não tem corte de maçarico. A chapa não rasgou: ela cedeu, devagar, ao longo de um tempão. Pode ter cedido sob carga, Gabo. Mas só de olhar eu não sei se levou meses ou uma pancada.
+— É o que eu queria saber. — Vilar cuspiu no chão. — Não tem marca de ferramenta nem corte de maçarico. A chapa dobrou sem rasgar. Pode ter cedido sob carga, mas só de olhar eu não sei se levou meses ou uma pancada.
 
 ---
 
@@ -69,7 +69,7 @@ Gabo olhou aquilo por um tempo comprido, e a coisa que ele sentiu não foi medo.
 
 — Eu perguntei três vezes, Gabo. — Vilar mostrou o terminal de pulso. — Segundo o último registro recebido, este armazém está **vazio**. Vinte e nove graus, umidade de quarenta por cento, zero atividade biológica, zero consumo de energia, sem alteração desde a última inspeção em cinquenta e um.
 
-Gabo pegou o terminal e leu com os próprios olhos. O prédio em que ele estava naquele instante, com trinta e um graus, noventa por cento de umidade e uma árvore de osso no meio, era, para o cadastro que as rotinas da Entidade conseguiam consultar, um galpão vazio e seco.
+Gabo pegou o terminal e leu com os próprios olhos. O calor úmido grudava a camisa nas costas dele, e havia uma árvore de osso no meio do prédio. A consulta mostrava um galpão vazio e seco; o registro de 2051 não dizia o que havia ali naquela manhã.
 
 — Ponto cego — disse Gabo.
 

@@ -1,4 +1,5 @@
 ---
+image: /cenas/capitulo_226/cena_4.jpg
 Título: A Mulher de Fora
 Data In-Game: Primeira manhã na Velha Baía
 Localização: Doca de Recebimento Pluvial, Velha Baía (Superfície)

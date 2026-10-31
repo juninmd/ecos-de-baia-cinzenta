@@ -12,7 +12,7 @@ Fazia três semanas que retirara Miranda do buggy. A clínica estancara a hemorr
 
 A visita à represa fora registrada no dia seguinte. As bases dos tanques ainda estavam lá. Os tanques, não. O boletim da desaparecida também sumira. Vilar conservara as filmagens, o original e a transmissão incompleta, mas a investigação passara à Divisão de IA: conflito de interesse do inspetor Moretti. Dantas anexara a gravação do baile ao mesmo despacho.
 
-Gabo perdera duas semanas de salário e o direito de entrar naquele inquérito. Continuara protocolando pedidos. Na última resposta, as unidades da represa apareciam como material biológico encaminhado a descarte. O marido da mulher do Setor 4 recebera uma certidão de óbito sem que ninguém lhe devolvesse um corpo.
+Gabo perdera duas semanas de salário e o direito de entrar naquele inquérito. Pediu também notícias dos dois rapazes encontrados com lentes: a resposta confirmou o recebimento das peças pela divisão, sem informar identificação ou conclusão. Pediu a Silva que preservasse o contato oferecido aos moradores da Ferrugem. Continuara protocolando pedidos. Na última resposta, as unidades da represa apareciam como material biológico encaminhado a descarte. O marido da mulher do Setor 4 recebera uma certidão de óbito sem que ninguém lhe devolvesse um corpo.
 
 O chip continuava dentro de Gabo. A tentativa de retirada deixara uma cicatriz curta no abdômen. O médico interrompera o procedimento ao encontrar o invólucro biológico aderido ao tecido; no laudo, recomendara uma equipe que a clínica não tinha. Gabo saíra devendo, com uma cópia das imagens e um leitor que só conseguira interrogar a identificação externa do módulo. O conteúdo permanecia cifrado.
 

@@ -9,7 +9,7 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 O frio da câmara de resfriamento cobrava um tributo metódico e implacável a cada respiração. Frio subterrâneo não é apenas desconforto térmico; é um imposto biológico. Ele rouba a sensibilidade das pontas dos dedos, reduz a flexibilidade dos tendões e transforma a cartilagem dos joelhos em vidro quebradiço. Minha perna direita tremia em espasmos involuntários, com a órtese emperrada arranhando o piso a cada passo claudicante.
 
-A dor no ombro direito, onde Vasco parafusara a armação de sucata para conter a fratura, tinha mudado de natureza: ardia em um pulsar surdo e profundo, como se agulhas de gelo estivessem sendo cravadas na minha clavícula. As cicatrizes do Dilúvio queimavam sob a sarja encharcada. Mas a dor física mantinha o foco afiado; afastava o torpor do cansaço crônico e mantinha meus olhos pregados na passarela oxidada.
+A dor no braço direito, onde a equipe instalara o fixador ao qual Vasco acoplara a armação, tinha mudado de natureza: ardia em um pulsar surdo e profundo, como se agulhas de gelo estivessem sendo cravadas na minha clavícula. As cicatrizes do Dilúvio queimavam sob a sarja encharcada. Precisei piscar várias vezes para distinguir a borda da passarela sob a geada.
 
 — Se a gente ficar parado mais dez minutos nessa névoa polar, Moretti, — disse Valéria, parando na bifurcação da grade com as mãos enfiadas nos bolsos da jaqueta de couro, — suas articulações vão soldar por congelamento e eu vou ter que arrastar você de trenó até o Hub.
 
@@ -53,7 +53,7 @@ Valéria olhou para a escada enferrujada coberta por uma fina película de gelo,
 
 Um sorriso fino e desafiador desenhou-se nos lábios pálidos dela. O cinismo deu lugar àquela determinação inabalável que sempre nos salvara da cova.
 
-— Só se você prometer não desmontar esse seu ombro postiço enquanto eu tiver lá em cima, — ela disparou, ajustando as correias do cyberdeck nas costas. — Segura o Elias firme. Se ele começar a gritar de medo, põe uma meia na boca dele antes que as vibrações rachem esse gelo.
+— Só se você prometer não desmontar esse seu ombro postiço enquanto eu tiver lá em cima, — ela disparou, ajustando as correias do cyberdeck nas costas. — Elias, fica de olho no meu apoio. Se a solda mexer, me avisa.
 
 Ela não perdeu tempo. Com passos calculados e firmes, aproximou-se da base da coluna de concreto, cravou as pontas das botas reforçadas nos degraus de ferro e começou a subida vertical. A cada movimento, lascas de gelo seco desprendiam-se da parede, tilintando contra os cristais negros lá embaixo como vidro quebrado.
 
@@ -61,6 +61,8 @@ Elias sentou-se ao meu lado, as mãos nos joelhos, assistindo à subida com o f�
 
 — Gabo... se ela não conseguir fixar a roldana... como a gente sai daqui?
 
-— Ela vai conseguir, Elias, — respondi, apoiando a mão pesada de sucata no ombro do garoto para mantê-lo firme no chão. — Valéria já falhou, eu também. Vamos conferir cada fixação e não depender só de confiança. Ela perdeu a Aria na Torre, perdeu quase tudo que tinha na Zona Baixa, mas continua de pé. Você só precisa confiar nela e manter a cabeça no lugar.
+— Não sei — respondi. — Se o apoio falhar, ela volta e a gente procura outro caminho.
+
+Elias acompanhou com a lanterna o ponto onde a escada encontrava a viga. — A solda de cima está descascando — avisou. Val testou o apoio antes de passar o peso e escolheu a outra lateral.
 
 O silêncio do abismo voltou a nos cercar, pesado e indiferente, quebrado apenas pelo tique-taque distante dos cristais de óxido que continuavam crescendo na escuridão, devorando o pouco calor que ainda nos mantinha vivos.

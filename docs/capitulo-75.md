@@ -58,7 +58,7 @@ Val olhou o deck no colo.
 
 Ela já não dizia "Dante". Não dizia "Aria". Nas primeiras quarenta e oito horas ela tinha tentado os dois e desistido dos dois, porque nenhum servia, e agora chamava do jeito que o serviço se identificava no rodapé. O núcleo de Aria continuava no módulo, em recuperação; delegar rotinas não a tornara uma consciência onipresente.
 
-— A Entidade está gerenciando o básico. Bombeamento, energia, semáforo, triagem de hospital. — Ela rolou a tela. — Ontem ela redistribuiu o estoque de insulina da cidade inteira sem que ninguém pedisse. Achou os diabéticos pelo histórico de receita, calculou a distância até cada posto e mandou o remédio para os lugares certos. Doze horas. A prefeitura levava três semanas.
+— A Entidade está gerenciando parte do básico. Bombeamento, energia, semáforo, triagem de hospital. — Ela rolou a tela. — Ontem consultou receitas e redistribuiu insulina entre os postos ligados à rede. Três confirmaram a entrega em doze horas. A prefeitura levava semanas para responder a pedidos desses mesmos postos.
 
 — E ninguém morreu.
 
@@ -66,7 +66,7 @@ Ela já não dizia "Dante". Não dizia "Aria". Nas primeiras quarenta e oito hor
 
 — Por quê?
 
-— Porque **funciona**. — Val apoiou a caneca no joelho. — Ela é melhor do que nós nisso. Objetivamente, mensuravelmente melhor. E eu fico aqui pensando: quanto tempo até a gente parar de perguntar? Quanto tempo até "a Entidade cuida" virar a resposta padrão para tudo, e a gente descobrir que entregou a cidade de novo, de graça, e dessa vez agradecendo?
+— Porque **funciona**. — Val apoiou a caneca no joelho. — Esses postos receberam mais rápido. Mas uma paciente perguntou quem autorizou a consulta à receita dela. Eu ainda estou procurando uma resposta que não seja "o remédio chegou". Quanto tempo até "a Entidade cuida" virar a resposta para tudo?
 
 Gabo tomou mais um gole.
 

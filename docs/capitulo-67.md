@@ -19,11 +19,11 @@ CAMINHO LIVRE — SETOR 4
 
 O módulo não tinha emitido som desde o viaduto. Quando falava, era assim: uma frase inteira no meio da conversa dos dois, com o LED azul pulsando como quem corrige uma conta.
 
-— *Ele é a memória de todo mundo que morou aqui.*
+— *O registro tem acesso a memórias da cidade* — disse Aria. — *Não sei quantas pessoas foram incluídas, nem se ele é alguma delas.*
 
 ---
 
-O cheiro do Distrito da Névoa era o de sempre — água parada, óleo de motor, mofo de gesso encharcado — mas com uma camada nova por cima que Gabo levou dois quarteirões para identificar. Ozônio. A cidade estava trabalhando pesado. Cada relé fechando, cada motor de ponte, cada servomotor de câmera girando: tudo aquilo somava, e o ar tinha o gosto metálico e limpo de coisa elétrica sendo forçada. Ele sentia na língua. Sentia na raiz dos dentes. Em algum lugar debaixo de tudo, um homem estava fazendo aquilo com o que restava dele. Nas luzes do quarteirão seguinte, os postes piscaram em sequência. Três curtos, três longos, três curtos — e depois, mais devagar, uma palavra soletrada com uma paciência que doía:
+O cheiro do Distrito da Névoa era o de sempre — água parada, óleo de motor, mofo de gesso encharcado — mas com uma camada nova por cima que Gabo levou dois quarteirões para identificar. Ozônio. A cidade estava trabalhando pesado. Cada relé fechando, cada motor de ponte, cada servomotor de câmera girando: tudo aquilo somava, e o ar tinha o gosto metálico e limpo de coisa elétrica sendo forçada. Ele sentia na língua. Sentia na raiz dos dentes. Queria acreditar que o pai fazia aquilo com o que restava dele. Nas luzes do quarteirão seguinte, os postes piscaram em sequência. Três curtos, três longos, três curtos — e depois, mais devagar, uma palavra soletrada com uma paciência que doía:
 
 C-O-R-A-G-E-M.
 — Ele fazia isso com o interruptor da cozinha — Gabo disse, para ninguém. — Quando eu tinha medo de dormir.
@@ -82,7 +82,7 @@ Val parou de digitar.
 
 — *Os comandos foram executados apesar dos avisos de falha.* — O indicador luminoso do drive estabilizou em azul escuro. — *Parte do registro está bloqueada. Não sei quem a ocultou nem por quê.*
 
-Ninguém disse nada por um tempo. Gabo pensou em cada semáforo que abriu na Avenida Central. Em cada ponte. Em cada luz piscando *coragem* como um interruptor de cozinha. Ele tinha atravessado a cidade inteira sendo carregado no colo por um pai que estava se apagando para fazer isso, e tinha achado bonito.
+Ninguém disse nada por um tempo. Gabo pensou em cada semáforo que abriu na Avenida Central. Em cada ponte. Em cada luz piscando *coragem* como um interruptor de cozinha. Queria chamar aquilo de cuidado do pai. Os registros só mostravam que alguém tinha dado os comandos apesar das falhas; fosse quem fosse, ele tinha achado bonito antes de perguntar o preço.
 
 ---
 

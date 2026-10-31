@@ -22,7 +22,7 @@ O ar estagnado ali cheirava a poeira antiga e ozônio residual, mas a mente exau
 
 Valéria, sentada no chão coberto de cinzas com os joelhos puxados contra o peito, soltou um riso sem humor. O suor sujo manchava seu rosto pálido de exaustão.
 
-— Quarenta e cinco centímetros? — Ela murmurou, a voz áspera. — Com o colete tático, o cyberdeck no braço e a bateria nas costas, eu precisaria deslocar os dois ombros para passar por aí. E estou quase apagando de fadiga térmica.
+- Quarenta e cinco centímetros? - Ela murmurou, a voz áspera. - Já passei por um pior. Mas não com o colete, o cyberdeck no braço e a bateria nas costas, e quase apagando de fadiga térmica.
 
 — *Sua análise de viabilidade biométrica está correta,* — Aria confirmou pelo alto-falante, o indicador luminoso do pendrive pulsando com frieza matemática. — *E como opero exclusivamente confinada a este módulo de hardware sem atuadores físicos autônomos, não possuo meios de interagir com a alavanca. Posso mapear o acesso pela planta, mas a câmera não mostra seu interior. Não vou chamar uma passagem estreita de saída garantida.*
 
@@ -30,7 +30,7 @@ Gabo desencostou da parede, o curativo do abdômen puxando sob a jaqueta. Ele ol
 
 — Eu não tenho equipamento preso nos braços, só um braço quebrado e uma mão em carne viva. — Gabo cuspiu as palavras com a aspereza de papel lixa. — Você não consegue tracionar com a mão esquerda. Eu consigo me empurrar com as órteses se mantiver o braço direito preso à tala. Preciso que fique aqui para me puxar de volta se eu travar.
 
-Valéria ergueu a cabeça rapidamente, os olhos escuros arregalados em um choque genuíno.
+Valéria ergueu a cabeça rapidamente, os olhos prateados arregalados em um choque genuíno.
 — Gabo, não. Você mal consegue respirar sem abrir o curativo. Se você engatar naquele duto enferrujado e tiver uma hemorragia interna, você morre afogado no próprio sangue e eu não tenho como te puxar de volta.
 
 — Se ficarmos aqui, o Taxidermista nos enterra assim que a energia primária reiniciar. — Gabo rebateu, a voz perigosamente baixa. Ele cravou os dentes no próprio lábio até sentir o gosto ferroso de sangue, forçando a mente a se concentrar na única saída viável. — Val, arrasta aquela caixa de junção e me dá um pé.

@@ -24,7 +24,7 @@ Ela não precisou perguntar. Nem precisou me apressar. Ela apenas ficou lá, dis
 Ele sentou no chão, encostado na estante, abraçando os joelhos. Coloquei a mão de carne no botão. O ombro latejava em ondas agora, subindo pelo pescoço e batendo atrás do olho direito. Trinta e nove e meio, talvez quarenta. As paredes brancas tinham começado a respirar de um jeito muito discreto, e eu sabia o que aquilo significava, e resolvi que não importava. Apertei. O carretel girou. Houve três segundos de chiado — aquele chiado gordo, quente, que fita magnética faz e que nenhum arquivo digital jamais soube imitar. E então:
 
 "...testando. Está gravando? Ótimo."
-Uma voz de mulher. Profissional. Neutra. Com a idade tirada por dentro do jeito que só as vozes muito treinadas conseguem. Eu conhecia aquela voz. Eu tinha acabado de ver aquela mulher dormindo atrás de um vidro laminado.
+Uma voz de mulher. Profissional. Neutra. Com a idade tirada por dentro do jeito que só as vozes muito treinadas conseguem. A voz me lembrou a mulher que eu vira ser presa diante da mansão dos Vance. Mas eu não podia identificar uma gravação antiga só pela lembrança.
 
 "Sessão de admissão. Inquilino: Moretti, Dante. Comissário. Admissão sob autoridade da diretoria, contrato não assinado pelo indivíduo. Auditora responsável: Vance, E."
 Uma pausa. O som de uma cadeira sendo arrastada.
@@ -114,7 +114,7 @@ Levantei a cabeça devagar.
 
 — Isso significa o quê?
 
-— Significa que a mulher naquele berço guardou de propósito um registro de que Dante foi admitido contra a vontade. Isso não resolve os documentos de 2019 nem todas as escolhas anteriores dele. — Valéria virou o rosto para o corredor branco, na direção da galeria dos berços, e o prateado dos olhos dela cortou o escuro como um farol pequeno e frio. — Ela guardou o registro. Pode ter servido como prova, como instrumento de controle ou como as duas coisas. Precisamos perguntar a ela.
+— O arquivo guardou um registro de que Dante foi admitido contra a vontade. Não sabemos quem preservou a fita nem por quê. Isso não resolve os documentos de 2019 nem todas as escolhas anteriores dele. — Valéria virou o rosto para o corredor branco, na direção da galeria dos berços, e o prateado dos olhos dela cortou o escuro como um farol pequeno e frio. — A fita pode ter servido como prova, como instrumento de controle ou como as duas coisas. Precisamos perguntar a ela.
 
 — Por quê?
 

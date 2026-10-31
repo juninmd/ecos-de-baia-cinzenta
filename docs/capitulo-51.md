@@ -121,7 +121,7 @@ Clara. Sua irmãzinha.
 
 — Onde ela está, Val? — A voz de Gabo era gelo e metal.
 
-— O contrato é de vinte e três mil, assinado quatro dias antes da sua mãe morrer, e a garantia não é imóvel, não é carro, não é nada que se possa penhorar. É a assinatura biológica dela. Gabo, se ela não pagou, esses homens não cobram em dinheiro.
+- O contrato é de vinte e três mil, assinado quatro dias antes da sua mãe morrer, num coletor que subiu até o apartamento com o anel norte fechado, e a garantia não é imóvel, não é carro, não é nada que se possa penhorar. É a assinatura biológica dela. Gabo, se ela não pagou, esses homens não cobram em dinheiro.
 
 Gabo pediu a Elena que seguisse até o endereço registrado, sem esperar que a notícia melhorasse. Os pneus cantaram no asfalto molhado.
 

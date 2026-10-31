@@ -14,7 +14,7 @@ O som das engrenagens cegas morrendo era um lamento metálico que ecoava pelo co
 
 Gabo estava caído no piso da câmara superior, o sangue escorrendo de novos cortes onde a ferrugem e as garras da biomassa o haviam rasgado. O curativo no abdômen havia escurecido de novo. Ele forçou os joelhos contra a grade fria, mas seu corpo recusava-se a obedecer. Não havia mais reservas de adrenalina; apenas um vazio sombrio e o pulsar constante de seu braço fraturado.
 
-Valéria apareceu na borda da câmara, vinda pela escada de manutenção que a porta aberta havia exposto. Seu rosto estava coberto de cinza e suor frio, os olhos escuros arregalados pelo horror do que Gabo acabara de fazer. Sem dizer uma palavra, ela deslizou para dentro do maquinário, passando os braços trêmulos ao redor do torso dele.
+Valéria apareceu na borda da câmara, vinda pela escada de manutenção que a porta aberta havia exposto. Seu rosto estava coberto de cinza e suor frio, os olhos prateados arregalados pelo horror do que Gabo acabara de fazer. Sem dizer uma palavra, ela deslizou para dentro do maquinário, passando os braços trêmulos ao redor do torso dele.
 
 — Você é um maldito suicida — ela sussurrou, a voz rouca falhando enquanto o puxava para cima. O cheiro de ozônio e suor ácido impregnava sua jaqueta.
 

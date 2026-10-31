@@ -7,11 +7,11 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 # Capítulo 203: Sombras de Aeterna
 
-O arrasto dos meus coturnos pelo chão de concreto produzia um som áspero, quase rítmico, como uma lixa desgastando uma lâmina velha. Minha perna direita dependia do suporte rígido da órtese avariada, cujas engrenagens soltavam um silvo asmático a cada passada que eu forçava para a frente. O braço mecânico de sucata instalado por Vasco, embora bem atado pelas bandagens improvisadas de Valéria, pesava como chumbo morto no meu flanco, mas a carne dilacerada pelo vergalhão mantinha meus sentidos em alerta máximo. Não havia espaço para névoa na cabeça; a dor crua era o único lembrete de que eu ainda respirava o ar podre deste subsolo desde a queda na Torre Aeterna.
+O arrasto dos meus coturnos pelo chão de concreto produzia um som áspero, quase rítmico, como uma lixa desgastando uma lâmina velha. Minha perna direita dependia do suporte rígido da órtese avariada, cujas engrenagens soltavam um silvo asmático a cada passada que eu forçava para a frente. O braço mecânico de sucata instalado por Vasco, embora bem atado pelas bandagens improvisadas de Valéria, pesava como chumbo morto no meu flanco, e a palma cortada latejava contra a coronha. Precisei parar para mudar a pegada antes de continuar.
 
-O corredor de concreto continuou sua trajetória monótona por quase cem metros até curvar-se bruscamente à direita. Foi ali que a frieza estéril da arquitetura corporativa encontrou seu primeiro túmulo.
+O corredor de concreto continuou sua trajetória monótona por quase cem metros até curvar-se bruscamente à esquerda. Foi ali que a frieza estéril da arquitetura corporativa encontrou seu primeiro túmulo.
 
-A luz azulada que escapava das ópticas do cyberdeck de Valéria cortou a escuridão e revelou um rasgo violento na estrutura do túnel. Não se tratava do avanço biológico do Jardim que tínhamos combatido nos níveis superiores; era uma ruína muito mais antiga, mineral e implacável: a Praga de Ferro.
+A luz azulada que escapava das ópticas do cyberdeck de Valéria cortou a escuridão e revelou um rasgo violento na estrutura do túnel. Não se tratava do avanço biológico do Jardim que tínhamos combatido nos níveis superiores; era uma corrosão coberta por camadas de poeira antiga, parecida com a Praga de Ferro que havíamos visto no enclave.
 
 O concreto estava estourado de dentro para fora, como se veias subterrâneas de ferrugem tivessem se expandido em espasmos febris. O óxido avermelhado não se limitava a manchar as tubulações mestras — ele as havia triturado em uma crosta escamosa que se soltava em placas soltas, acumulando montes de pó metálico no piso. No centro do colapso, duas gigantescas portas corta-fogo de aço temperado jaziam torcidas para fora dos trilhos, comidas por uma corrosão química que parecia ter fervido o metal antes de esfriar.
 
@@ -19,7 +19,7 @@ O concreto estava estourado de dentro para fora, como se veias subterrâneas de 
 
 — Níveis de contenção da Praga de Ferro? — perguntei, segurando a *Caronte* pelo cano curto e apoiando o peso na soleira.
 
-— Pior que isso, Moretti, — ela disse, levantando-se e jogando para trás a franja de fios azuis reluzentes com um sacudir de cabeça impaciente. — O padrão de derretimento nos trincos mostra que essas portas foram soldadas por fora com maçarico de termita. Alguém trancou esse setor de propósito enquanto a praga comia os sistemas vivos.
+— Pior que isso, Moretti, — ela disse, levantando-se e jogando para trás a franja de fios azuis reluzentes com um sacudir de cabeça impaciente. — Os trincos têm marcas de calor e metal depositado pelo lado de fora. Podem ter soldado a porta. Eu não sei quando nem com qual processo.
 
 Elias deu dois passos à frente, mantendo-se colado às minhas costas como se a escuridão pudesse mordê-lo a qualquer descuido. O rapaz esticou o pescoço sobre meu ombro, o rosto pálido refletindo a penumbra avermelhada.
 
@@ -45,13 +45,13 @@ Elias tropeçou em um duto de óleo rachado, soltando um arquejo assustado antes
 
 — Por que máquinas autônomas fariam isso? Elas têm diretrizes de prevenção de colisão...
 
-— Quando a Praga de Ferro infectou as matrizes ópticas e os barramentos de controle, — Valéria explicou, tirando um cabo de interface do cyberdeck e plugando na porta de teste calcinada de um manipulador hidráulico, — os registros mostram falhas de proximidade e comandos repetidos de movimento. Não consigo reconstruir o que os sensores detectaram.
+— Se isso tiver relação com a corrosão, — Valéria explicou, tirando um cabo de interface do cyberdeck e plugando na porta de teste calcinada de um manipulador hidráulico, — os registros mostram falhas de proximidade e comandos repetidos de movimento. Não consigo reconstruir o que os sensores detectaram.
 
 A tela portátil de Valéria cuspiu uma torrente de códigos corrompidos em vermelho fosforescente, iluminando suas feições angulosas e concentradas.
 
 — Elas enlouqueceram, — continuei, sentindo o peso sombrio daquele lugar fechar-se sobre o meu peito. — Pelo menos algumas continuaram se movendo com os sensores falhando. E a porta...
 
-— Encontraram as portas estanques seladas por termita, — completou Valéria, puxando o cabo de volta com um estalo limpo e me encarando com os olhos prateados arregalados de admiração macabra. — Há impactos perto das chapas, mas isso não prova que todas chegaram aqui juntas ou que a porta já estava fechada.
+— Há marcas de calor nas portas, — completou Valéria, puxando o cabo de volta com um estalo limpo e me encarando com os olhos prateados arregalados de admiração macabra. — Há impactos perto das chapas, mas isso não prova que todas chegaram aqui juntas ou que a porta já estava fechada.
 
 O silêncio do armazém voltou a nos envolver, quebrado apenas pelo gotejar esporádico de condensação ácida que caía das vigas do teto sobre as carcaças de aço. O ar cheirava a graxa rançosa queimada, mofo e pó ferroso acumulado ao longo de quatro décadas de escuridão.
 

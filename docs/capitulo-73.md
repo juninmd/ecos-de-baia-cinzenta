@@ -124,7 +124,7 @@ Depois se arrastou até lá.
 
 Viu o peito de Miranda se mover. O ex-parceiro estava inconsciente, preso sob a arma e a prótese travada. Gabo não tinha força para carregá-lo ou meios de custódia naquela sala. Conservou a imagem e o horário no telefone, indicou o ponto no canal de manutenção e se afastou antes que outra descarga o atingisse.
 
-Não sabia quem atenderia ao chamado. Sabia que não estava deixando um corpo despedaçado para justificar um retorno impossível.
+Não sabia quem atenderia ao chamado. Deixou a imagem aberta no telefone até precisar das duas mãos para alcançar o duto.
 
 Levou seis minutos para destravar as órteses na marra, batendo o punho nos servos até o relé ceder.
 
@@ -145,5 +145,3 @@ E ouviu. Vinha de cima: um som ritmado, pesado, batendo contra o ar. Rotor.
 Alguém tinha pousado um helicóptero no heliponto de uma torre danificada, com a plataforma local inclinada e vento de mar. Aquilo exigia um piloto muito bom ou uma ordem muito grande.
 
 Gabo olhou para a escada de emergência. Cento e oitenta e dois andares.
-
-Havia um elevador de manutenção no mapa que Val deixara no visor, com alimentação independente ainda indicada como ativa. Gabo arrastou-se até ele e usou a credencial de serviço copiada antes da separação. A primeira porta recusou; a segunda abriu apenas até o pavimento de transferência. Não subiria cento e oitenta e dois andares nos braços.

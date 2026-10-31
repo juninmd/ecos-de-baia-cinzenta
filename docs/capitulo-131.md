@@ -122,9 +122,9 @@ Gabo agarrou o comunicador. Queria ordenar que parasse de uma vez, como se uma o
 
 — Você sabe o que isso faz comigo?
 
-— Sei o que você disse. Não sei o que sente. Estou pedindo que me deixe trabalhar sem usar a voz dela.
+*Sei o que você disse. Não sei o que sente. Estou pedindo que me deixe trabalhar sem essa reprodução que eu não autorizei*, escreveu Aria no visor.
 
-Ele soltou o conector. O visor pequeno continuou recebendo texto; as outras saídas ficaram mudas. Não havia uma morta esperando por ele no cilindro. Havia uma parceira tentando impedir que o arquivo de outra pessoa tomasse sua boca.
+Ele soltou o conector. O visor pequeno continuou recebendo texto; as outras saídas ficaram mudas. Não havia uma morta esperando por ele no cilindro. Havia uma parceira tentando impedir que uma gravação de origem desconhecida voltasse a ocupar seu canal.
 
 E, do chão, atrás dele, o Inspetor Rangel disse uma palavra sem acordar. Disse "Marta", que era o nome da esposa dele, morta aos quarenta e oito, e disse com a entonação de quem responde a uma pergunta. Gabo guardou o nome. Não sabia se Rangel ainda podia ouvi-lo.
 

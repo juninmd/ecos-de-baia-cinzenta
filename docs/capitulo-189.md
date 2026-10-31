@@ -9,23 +9,23 @@ Personagens Presentes: Gabo, Valéria
 
 A porta selada à nossa frente não era apenas uma barreira física de engenharia; era um pulmão monstruoso de aço, cabos ópticos e carne esfolada. O metal blindado do selo de segurança Nível Sete fora completamente engolido por um tecido bioluminescente vermelho-púrpura. Raízes que pareciam artérias dilatadas pulsavam lentamente em sincronia com os circuitos internos, bombeando seiva química para uma fileira de cinco corpos suspensos no teto por ganchos enferrujados.
 
-Eram antigos seguranças da Aeterna Corp, caídos meses atrás durante os motins do colapso. Seus uniformes táticos estavam em frangalhos, carcomidos pelo ácido dos fungos, e viseiras de silicone despedaçadas cobriam órbitas onde cabos de fibra óptica se enroscavam como vermes de vidro.
+Usavam uniformes de segurança da Aeterna Corp. Eu não sabia quando tinham sido capturados nem o que restava de cada um. Seus uniformes táticos estavam em frangalhos, carcomidos pelo ácido dos fungos, e viseiras de silicone despedaçadas cobriam órbitas onde cabos de fibra óptica se enroscavam como vermes de vidro.
 
-O Jardim não lhes dera a decência da decomposição. Ele os transformara em sentinelas de ferro e osso.
+O Jardim os mantinha ligados à porta, suspensos entre ferro e raízes.
 
 Não havia vento ali, e mesmo assim o ar se mexia. Vinha do selo em pulsos curtos, um sopro de fole velho que trazia cheiro de ferro molhado, açúcar queimado e uma nota mais funda, de carne esquecida na geladeira depois do blecaute. O gosto chegava antes: cobre na língua, aquele azedume de morder papel-alumínio.
 
-Abaixei o facho da lanterna pelas botas dos enforcados. Nenhuma tinha lama. Nenhuma tinha sangue seco no solado. A sola limpa não dizia como tinham morrido. Podiam ter sido lavados, trocados de roupa, recolhidos de outro lugar. Aqueles cinco tinham sido recolhidos, carregados e pendurados com o cuidado de quem guarda ferramenta boa no fim do expediente. O Jardim os usava. Quem os entregara ainda precisava de nome e prova.
+Abaixei o facho da lanterna pelas botas dos enforcados. Nenhuma tinha lama. Nenhuma tinha sangue seco no solado. A sola limpa não dizia o que acontecera com eles. Podiam ter sido lavados, trocados de roupa, recolhidos de outro lugar. Aqueles cinco tinham sido recolhidos, carregados e pendurados com o cuidado de quem guarda ferramenta boa no fim do expediente. O Jardim os usava. Quem os entregara ainda precisava de nome e prova.
 
 Um deles ainda carregava o crachá preso ao peito. Turno C, Setor Sete, e uma foto que a umidade já apagara até virar mancha. Anotei o turno, como se guarda uma conta que não vai ser paga.
 
-— Interface biológica travada em malha fechada — Valéria ajoelhou-se diante do console quebrado da comporta, as mãos ágeis já espetando dois cabos de teste direto nas trilhas de cobre expostas da parede. A luz azul de seus LEDs na franja cortava a penumbra avermelhada. — Abertura física bloqueada. Essa porta exige autorização executiva de diretoria ou uma sobrecarga brutal que quebre o ciclo de processamento dessas cinco carcaças no teto. Vou tentar um bypass pelo barramento de emergência, mas preciso de sessenta segundos de silêncio!
+— Interface biológica travada em malha fechada — Valéria ajoelhou-se diante do console quebrado da comporta, a mão direita encaixando um cabo de teste nas trilhas de cobre expostas da parede enquanto a esquerda firmava o deck contra o corpo. A luz azul de seus LEDs na franja cortava a penumbra avermelhada. — Abertura física bloqueada. Essa porta exige autorização executiva de diretoria ou uma sobrecarga brutal que quebre o ciclo de processamento das cinco pessoas ligadas ao teto. Vou tentar um bypass pelo barramento de emergência, mas preciso de sessenta segundos de silêncio!
 
 — Sessenta segundos é tempo demais, Val — avisei, a mão esquerda engatando na empunhadura serrilhada de *Caronte* por baixo do sobretudo.
 
-Lá em cima, as cinco carcaças espasmaram em uníssono.
+Lá em cima, os cinco corpos espasmaram em uníssono.
 
-O som de servos oxidados rangendo ecoou como dentes estalando no fosso. Os tentáculos do Jardim que as sustentavam relaxaram a tensão, descendo os corpos até o piso de ferro com um baque úmido e pesado. As mãos mortas se fecharam ao redor de bastões de choque industrial, cujos eletrodos sibilavam com centelhas de eletricidade azulada.
+O som de servos oxidados rangendo ecoou como dentes estalando no fosso. Os tentáculos do Jardim que as sustentavam relaxaram a tensão, descendo os corpos até o piso de ferro com um baque úmido e pesado. As mãos se fecharam ao redor de bastões de choque industrial, cujos eletrodos sibilavam com centelhas de eletricidade azulada.
 
 — Gabo! Alerta de aproximação tática! — Valéria gritou sem tirar os olhos do display do deck. — Eles tão sincronizados pela mesma frequência de rede!
 
@@ -50,17 +50,17 @@ Dois outros avançavam pela esquerda, contornando a passarela para flanquear Val
 
 Saquei *Caronte* com a mão esquerda e disparei à queima-roupa no peito do sentinela do meio.
 
-O estrondo ensurdecedor da escopeta de calibre doze sacudiu a câmara estreita. A carga pesada de balotes rasgou o colete tático podre e estilhaçou a coluna vertebral do cadáver reanimado, fazendo-o perder o apoio junto ao corrimão já rompido. O corpo caiu no fosso; o tiro sozinho não o lançara pela câmara.
+O estrondo ensurdecedor da escopeta de calibre doze sacudiu a câmara estreita. A carga pesada de balotes rasgou o colete tático podre e estilhaçou a coluna vertebral do sentinela, fazendo-o perder o apoio junto ao corrimão já rompido. O corpo caiu no fosso; o tiro sozinho não o lançara pela câmara.
 
 O recuo brutal quase arrancou a arma da minha mão e jogou meu corpo contra a parede de concreto, mas antes que o terceiro pudesse erguer o bastão sobre a cabeça de Valéria, dei um passo à frente e enterrei a pinça de ferro da armação na garganta dele.
 
 Girei o tronco, usando o peso do meu próprio corpo como alavanca, e esmaguei a cabeça da criatura contra o batente de aço da porta com um baque seco e definitivo.
 
-— Trinta segundos, Gabo! — Valéria berrou, o suor escorrendo pelo nariz enquanto seus dedos sangravam ao manusear os fios desencapados da parede. — A criptografia tá mudando de chave a cada ciclo! Falta pouco!
+— Trinta segundos, Gabo! — Valéria berrou, o suor escorrendo pelo nariz enquanto os dedos da mão direita sangravam ao manusear os fios desencapados da parede. — A criptografia tá mudando de chave a cada ciclo! Falta pouco!
 
 O quarto sentinela investiu por trás. O bastão de choque atingiu a lateral da minha coxa direita, onde a órtese mecânica absorveu parte do golpe, mas a voltagem estourou dois relés de pressão. Meus joelhos cederam na lama.
 
-O quinto e último cadáver pulou sobre a passarela, o bastão erguido em duas mãos, descendo direto contra a nuca de Valéria.
+O quinto sentinela pulou sobre a passarela, o bastão erguido em duas mãos, descendo direto contra a nuca de Valéria.
 
 — Valéria! Cuidado!
 
@@ -78,7 +78,7 @@ O silêncio desceu de repente, quebrado apenas pela minha respiração entrecort
 
 Contei os corpos por reflexo, do jeito que a academia ensina e a rua desensina. Quatro no piso. O quinto desceu para o fosso e demorou a parar de bater nas paredes.
 
-O braço direito tremia dentro da armação, um tremor fino que não era medo. A descarga do bastão ainda esquentava o pulso por dentro. Eu ia carregar aquele atraso pela noite inteira, e ali embaixo a noite não tinha hora de terminar.
+O braço direito tremia dentro da armação; o curativo já sangrava desde o tranco na descida. A descarga do bastão ainda esquentava o pulso por dentro. Eu ia carregar aquele atraso pela noite inteira, e ali embaixo a noite não tinha hora de terminar.
 
 Valéria soltou o ar num longo suspiro trêmulo, encostando a testa na parede fria por três segundos antes de se recompor. Ela guardou os cabos no bolso da jaqueta, virou-se e correu até mim, estendendo a mão direita para me ajudar a erguer do chão.
 
@@ -88,4 +88,4 @@ Valéria soltou o ar num longo suspiro trêmulo, encostando a testa na parede fr
 
 Valéria deu aquele meio-sorriso cínico, secando a fuligem da testa com as costas da luva.
 
-— Quase não é registro no banco de dados, detetive. Eu sabia que você ia quebrar a cara daquele zumbi corporativo antes dele encostar na minha franja. Agora limpa esse cano de escopeta e entra logo. O coração dessa praga tá bem ali na frente.
+— Quase não é registro no banco de dados, detetive. Eu não sabia se a porta ia responder a tempo. Agora limpa esse cano de escopeta e entra logo. O coração dessa praga tá bem ali na frente.

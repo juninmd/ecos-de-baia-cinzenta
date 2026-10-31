@@ -2,7 +2,7 @@
 layout: doc
 title: "Capítulo 65: O Novo Inquilino"
 description: "A tubulação de retorno rompida muda a cabine e a rota de saída. As leituras parciais não permitem assegurar o destino de todos os padrões ligados à instalação."
-image: /cidade.jpg
+image: /capitulo_65.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Marco Moretti, Aria, Roberto Miranda
 Localização: "O Núcleo — Momento Zero"
 ---
@@ -12,7 +12,7 @@ Localização: "O Núcleo — Momento Zero"
 O Núcleo — Momento Zero.
 O pedestal da matriz de interface ficava no centro exato da sala, e não parecia equipamento de guerra. Esse era o detalhe insuportável.
 
-Era uma coluna de vidro escovado e aço cirúrgico, com acabamento de clínica de luxo, iluminação indireta suave e um único slot de recepção neural banhado a ouro no topo. Alguém tinha contratado um designer de interiores para desenhar o altar onde quarenta mil consciências seriam acorrentadas, e essa elegância era, de longe, a coisa mais obscena daquele prédio inteiro.
+Era uma coluna de vidro escovado e aço cirúrgico, com acabamento de clínica de luxo, iluminação indireta suave e um único slot de recepção neural banhado a ouro no topo. Alguém tinha contratado um designer de interiores para aquele altar. Se Val estivesse certa sobre o risco, quarenta mil pessoas podiam ser atingidas ali; a elegância do acabamento não ajudava Gabo a decidir o que eram.
 
 Do teto desciam os barramentos de fibra óptica.
 
@@ -82,7 +82,7 @@ A tubulação de retorno atravessava a parede junto da entrada. Gotejava desde q
 
 Com a esquerda, Gabo abriu a escopeta contra o chão, tirou um estojo vazio e encaixou o último cartucho. Fechou a arma apoiando-a na base do pedestal e disparou contra a junção corroída. O jato atingiu as fixações já molhadas da cabine. A água de retorno trouxe sujeira e fragmentos; o piso começou a desaparecer sob ela. O refrigerante das piscinas permaneceu nos tanques.
 
-Miranda perdeu apoio ao tentar proteger o rosto. Marco recuou contra o console, tirando o peso da mão de Gabo. Val alcançou o armário indicado antes, recolheu os aparelhos de resgate e tentou voltar ao pedestal. A pressão já empurrava papéis, ferramentas e partes do teto sobre quem estava no chão.
+Miranda perdeu apoio ao tentar proteger o rosto. Marco recuou contra o console, tirando o peso da mão de Gabo. Val alcançou o armário indicado antes, recolheu os aparelhos de resgate e tentou voltar ao pedestal. No caminho, a escopeta bateu na perna dela; Val prendeu a correia rompida ao próprio cinto. A pressão já empurrava papéis, ferramentas e partes do teto sobre quem estava no chão.
 
 Gabo não tinha pernas para nadar ou braço para enfrentar a corrente. A água cobriu sua boca quando a mesa deslocada prendeu a órtese. Ergueu a cabeça até encontrar um palmo de ar sob a borda e chamou por Val. Ela tentou afastar a mesa; precisou mudar o apoio, perdendo segundos que nenhum dos dois tinha em reserva.
 

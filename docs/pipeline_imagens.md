@@ -111,3 +111,20 @@ e os retratos canônicos para um modelo de visão e pede um veredito em JSON (`f
 
 Sem chave configurada, o portão mecânico continua funcionando sozinho e a auditoria de
 visão se declara indisponível em vez de quebrar a rodada.
+
+## Capas dos capítulos
+
+O frontmatter `image:` é a capa exibida na lista e no topo do capítulo. Capítulo sem
+`image:` (ou com arquivo inexistente) some da vitrine mesmo tendo cena pronta.
+
+```powershell
+python scripts/manifesto_capas.py   # fila de capas pendentes
+```
+
+O script grava `docs/public/cenas/manifesto_capas.md` e o JSON equivalente. Cada bloco
+traz prompt com o retrato canônico, seed e o caminho `docs/public/capitulo_N.jpg` em
+16:9, o mesmo formato das capas antigas. A fila prefere uma cena ancorada em Gabo; sem
+ele, usa a cena com mais elenco - capa de figurante não vende capítulo.
+
+Capítulo que já tem cena pode usar a própria cena como capa (`image: /cenas/capitulo_N/cena_1.jpg`)
+sem gastar quota. É o que fazem os capítulos 109-119 e 175-230.
