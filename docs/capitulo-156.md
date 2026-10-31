@@ -39,7 +39,7 @@ Valéria ainda evitava olhar diretamente para as mãos enfaixadas de Gabo, mas f
 
 — Ela está certa, — Valéria murmurou, a voz falhando. — Mas é arriscado. Se houver um pico na malha antiga, a sobretensão vai passar direto pelos pinos do pendrive. Preciso separar alimentação e dados pelo adaptador da cabine. Não vou usar o núcleo dela como fusível outra vez.
 
-— *Risco elevado,* — Aria respondeu pelo comunicador. — *A pé, a subida levaria muito mais tempo; não consigo estimar quanto vocês suportariam sem atendimento.*
+— *Risco elevado,* — Aria respondeu pelo comunicador. — *A pé, a subida levaria muito mais tempo; sem atendimento, vocês não têm esse tempo.*
 
 Valéria limpou o slot de diagnóstico e confirmou a separação entre alimentação e dados no adaptador da cabine. Só então desacoplou Aria do deck e conectou o drive ao adaptador, antes de fechar o contator de teste.
 

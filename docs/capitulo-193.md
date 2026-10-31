@@ -13,7 +13,7 @@ O ar cheirava a poeira antiga, óleo mineral estagnado e ozônio frio. Na boca, 
 
 Avancei pelos corredores estreitos, apoiando a mão esquerda na parede de alvenaria crua. Minha perna com a órtese mecânica rangia a cada passo, o metal castigado pelo choque do poço de exaustão, mas a dor no meu ombro fraturado me mantinha focado no chão de cimento e nas sombras do caminho.
 
-Valéria caminhava dois passos à frente, os filamentos de LED azul na franja iluminando as canaletas de força. Ela segurava a pistola curta com firmeza, enquanto o cyberdeck preso às costas zumbia com o ventilador de arrefecimento em rotação alta.
+Valéria caminhava dois passos à frente, a pistola curta firme na mão e o cyberdeck preso às costas, o ventilador girando alto demais para o silêncio daquele setor.
 
 — A temperatura do ar tá estabilizando em dez graus — ela sussurrou, ajeitando a alça do deck com o ombro. — A blindagem da comporta de pressão segurou a onda de fogo lá embaixo. Mas esse setor foi desativado há anos, Gabo. As leituras do scanner mostram que os transformadores principais tão secos.
 

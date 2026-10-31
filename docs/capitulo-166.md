@@ -56,7 +56,7 @@ E foi então que Gabo entendeu, sob a clareza gélida de seus ferimentos, como c
 
 — Aria... essa lata de sardinha ambulante obedece a uma diretriz primária, certo? — Gabo perguntou, os olhos cravados no brilho vermelho do colosso. — E os sinais de rádio aqui estão fracos.
 
-— *Afirmativo,* — respondeu a IA pelo comunicador. — *Sua diretriz primária é o expurgo ativo de ameaças orgânicas. O manual descreve conexão por fibra local. O isolamento pode limitar o rádio, mas não posso afirmar que a máquina não tenha outra interface.*
+— *Afirmativo,* — respondeu a IA pelo comunicador. — *Sua diretriz primária é o expurgo ativo de ameaças orgânicas. O manual descreve conexão por fibra local. O isolamento limita o rádio; se a máquina tem outra interface, o concreto não responde.*
 
 — Ele é imune pelo ar porque a porra da nossa tomada ainda não entrou na rede dele — Gabo cortou a frase, virando o pescoço duro para Valéria e apontando com a mão enfaixada para um antigo terminal mestre de manutenção coberto de poeira branca, embutido na coluna de chumbo de um servidor no meio da avenida central, entre eles e a máquina assassina que estava agora a sessenta metros de distância.
 

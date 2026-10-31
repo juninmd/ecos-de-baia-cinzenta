@@ -10,11 +10,11 @@ Personagens Presentes: "Gabo Moretti, Valéria Cruz, Inspetor Rangel (Estável/P
 
 O cheiro de sangue e do pano queimado na usina não ia embora. Ele parecia ter se agarrado às paredes de concreto úmido do bunker, impregnando o mofo, a ferrugem e até mesmo o gosto da água que Gabo bebia de uma garrafa plástica amassada.
 
-Ele estava sentado no chão, as costas apoiadas contra a frieza de um servidor desativado. Suas mãos, finalmente limpas de sangue, repousavam sobre os joelhos, mas os tremores finos continuavam. Não era frio. Era o *crash*. A adrenalina que o sustentara desde a invasão da Usina Prometeu, passando pela fuga do caminhão de lixo e a espera ao lado de Rangel, havia evaporado, deixando para trás apenas um buraco oco no estômago e uma exaustão que pesava como chumbo.
+Ele estava sentado no chão, as costas apoiadas contra a frieza de um servidor desativado. Suas mãos, finalmente limpas de sangue, repousavam sobre os joelhos, mas os tremores finos continuavam. Não era frio. Era o *crash*. A adrenalina que o sustentara desde a invasão da Usina Prometeu, passando pela fuga no caminhão de reboque e a espera ao lado de Rangel, havia evaporado, deixando para trás apenas um buraco oco no estômago e uma exaustão que pesava como chumbo.
 
 O silêncio do "Fliperama" era opressivo. Lá fora, na superfície, Baía Cinzenta devia estar um caos. Sem energia, sem a "Voz" de Dante para manter a ordem, a cidade estaria se devorando. Mas ali embaixo, sob toneladas de esgoto e esquecimento, o único som era o zumbido errático do gerador a diesel que Valéria havia conseguido ligar e a respiração ruidosa de Rangel.
 
-Gabo olhou para o inspetor. Rangel estava pálido, suando frio, murmurando coisas desconexas em seu delírio febril. "O rio... não olhe para o rio...". O curativo retardara a perda aparente de sangue. Sem avaliação, não sabiam quanto continuava perdendo por dentro. Eles haviam comprado tempo, mas a que juros?
+O inspetor estava pálido, suando frio, murmurando coisas desconexas em seu delírio febril. "O rio... não olhe para o rio...". O curativo retardara a perda aparente de sangue. Sem avaliação, não sabiam quanto continuava perdendo por dentro. Eles haviam comprado tempo, mas a que juros?
 
 Gabo umedeceu os lábios de Rangel com um pano limpo. O inspetor tossiu; Val afastou a garrafa para que ele não tentasse beber enquanto estava confuso. A pele dele tinha a temperatura errada: quente onde devia ser fria, fria nas mãos.
 
@@ -22,7 +22,7 @@ Gabo umedeceu os lábios de Rangel com um pano limpo. O inspetor tossiu; Val afa
 
 Valéria não se virou. Continuou digitando, com mais força do que precisava, como se o barulho das teclas pudesse cobrir a voz do homem na mesa.
 
-— Você sabe o que é dívida técnica, Gabo? — a voz de Valéria quebrou o silêncio.
+— Você sabe o que é dívida técnica, Gabo? — Valéria falou sem se virar.
 
 Ela estava debruçada sobre a bancada onde o pendrive aberto da Aria estava preso a uma morsa de precisão, iluminada apenas pelo brilho azulado de um monitor terminal conectado às trilhas de diagnóstico do drive. Seus dedos dançavam sobre um teclado mecânico antigo, o som das teclas *clack-clack-clack* ecoando como tiros distantes.
 
@@ -40,7 +40,7 @@ Valéria apontou para a tela cheia de erros hexadecimais vermelhos lidos diretam
 
 — O que fizemos com o drive da Aria na usina... espetar a unidade dela direto no monólito sem isolamento adequado para sustentar os comandos de suporte da rede... foi o maior empréstimo que já vi.
 
-Gabo sentiu a garganta secar. O cheiro de ozônio e fuligem da bancada trouxe de volta a memória sufocante da fumaça dos charutos do pai, revirando seu estômago com uma repulsa visceral. Seus dedos tamborilaram nervosamente contra o joelho.
+A garganta de Gabo secou. O ozônio e a fuligem da bancada traziam de volta a memória sufocante da fumaça dos charutos do pai, revirando seu estômago com uma repulsa visceral. Seus dedos tamborilaram nervosamente contra o joelho.
 
 Ele levou a mão ao peito e agarrou o *Colar de Sol* sob a camisa. Apertou o metal até as arestas machucarem a palma da mão. A dor era uma âncora.
 
@@ -48,7 +48,7 @@ Ele levou a mão ao peito e agarrou o *Colar de Sol* sob a camisa. Apertou o met
 
 — Alguns índices estão cruzados — disse Valéria. — Há registros recebidos da usina junto dos arquivos de origem e do histórico de Aria. Não sei se ela consegue acessá-los ou como vai reconhecê-los.
 
-Valéria olhou para o cilindro aberto com os circuitos expostos na morsa.
+O cilindro aberto na morsa mostrava os circuitos expostos. Valéria não desviava os olhos deles.
 
 — Se eu fechar o curto e reinicializar o pendrive agora, pode ser que a assistente tática suba. Ou pode reproduzir arquivos que não são a voz dela. Essa é a nossa dívida.
 
@@ -92,4 +92,4 @@ Ele caminhou até a saída, parando apenas para olhar uma última vez para o gru
 
 — Tranque a porta atrás de mim.
 
-Ele saiu para a escuridão do esgoto, onde o cheiro de ozônio e podridão era a única promessa que a cidade cumpria.
+Ele saiu para a escuridão do esgoto, onde podridão e ferrugem eram a única promessa que a cidade cumpria.

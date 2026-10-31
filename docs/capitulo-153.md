@@ -11,7 +11,7 @@ O eco metálico do ventilador industrial travado morria lentamente no duto às c
 
 Aquele cheiro. O legista pigarreando anos atrás, a brasa do cigarro iluminando o necrotério enquanto dissecava Bia. Gabo odiava a fumaça com cada fibra do seu ser. O tabaco era o cheiro da morte, da corrupção, de memórias que ele não conseguia apagar. Para afastar a náusea paralisante, ele forçou as palmas das mãos em carne viva contra as arestas cortantes da grelha congelada. A dor aguda não varreu a névoa desta vez. Gabo precisou contar as luzes de emergência até conseguir distinguir o alerta real do cheiro lembrado.
 
-— *A passagem foi danificada. O painel registra alteração recente nos sensores térmicos,* — a voz sintética de Aria cortou o silêncio pelo comunicador na gola de Gabo.
+— *A passagem foi danificada. O painel registra alteração recente nos sensores térmicos,* — Aria falou pelo comunicador na gola de Gabo.
 
 Valéria caiu do duto logo atrás dele, um monte trêmulo de roupas encharcadas e carne congelada. No pulso dela, o pendrive blindado de Aria brilhava com seu LED azul-gelo intacto e desprovido de qualquer emoção. Os lábios da hacker estavam perigosamente azuis, e o bater de seus dentes soava como pequenos estalos de vidro quebrando.
 
@@ -19,7 +19,7 @@ Valéria caiu do duto logo atrás dele, um monte trêmulo de roupas encharcadas 
 
 Gabo forçou seu corpo arruinado a se erguer. O mundo girou, manchado de estática cinza nas bordas de sua visão. Eles haviam saído do conduíte e entrado em uma câmara vasta, uma Eclusa de Transferência Térmica abandonada. Gigantescos canos corrugados, grossos como troncos de sequoias e cobertos por uma espessa camada de gelo negro, cruzavam o abismo abaixo deles. A luz do olho cibernético de Valéria revelava apenas nevasca confinada e ferrugem.
 
-— *Análise térmica da portadora:* — a voz de Aria soou pelo alto-falante do deck de Valéria, lendo os biossensores do pulso da garota com a mesma indiferença com que avaliaria uma peça de sucata. — *Temperatura corporal interna em queda livre. A temperatura superficial caiu e ela está perdendo coordenação. Não consigo medir a temperatura interna nem dar um prazo de sobrevivência. Precisamos sair da corrente gelada.*
+— *Análise térmica da portadora:* — a voz de Aria soou pelo alto-falante do deck de Valéria, lendo os biossensores do pulso da garota com a mesma indiferença com que avaliaria uma peça de sucata. — *Temperatura corporal interna em queda livre. A temperatura superficial caiu e ela está perdendo coordenação. A temperatura interna não tem leitura, e prazo de sobrevivência eu não dou. Precisamos sair da corrente gelada.*
 
 Gabo cambaleou até Valéria e tentou esfregar os braços dela, mas suas próprias mãos estavam tão feridas e insensíveis que o gesto era inútil.
 
@@ -57,7 +57,7 @@ Valéria assentiu devagar, tossindo enquanto inalava o vapor espesso. As lágrim
 
 — Eu sei, garota. Eu sei. — Gabo olhou para o pendrive de Aria brilhando no pulso dela. O componente de titânio continuava inalterado pelo frio ou pelo calor, uma sentinela de lógica implacável.
 
-— *O alívio térmico é temporário,* — Aria declarou friamente pelo alto-falante. — *O painel transmitiu um alerta de purga. Há vibrações se aproximando pelo poço, mas não consigo identificar sua origem nem medir quanto tempo temos.*
+— *O alívio térmico é temporário,* — Aria declarou friamente pelo alto-falante. — *O painel transmitiu um alerta de purga. Há vibrações subindo pelo poço. A origem não importa agora; o tempo, sim, e ele não tem medida.*
 
 Gabo cerrou os dentes, usando a parede para se levantar. A Eclusa de Transferência Térmica não era um refúgio, era apenas mais um estágio no matadouro.
 

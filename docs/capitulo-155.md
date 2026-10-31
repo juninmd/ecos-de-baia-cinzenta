@@ -34,11 +34,11 @@ Val dobrou a manta de manutenção sobre o chão e o ajudou a apoiar os braços.
 
 No slot lateral do cyberdeck *Phantom V3*, o drive não ofegava nem tremia. O LED azul-gelo de Aria pulsava constante, lendo a queda abrupta de pressão arterial de Gabo através dos sensores biométricos com a mesma frieza de quem lê um código de barras defeituoso.
 
-— *O sangramento das mãos e do antebraço continua ativo; a leitura do deck é instável e não permite estimar quanto sangue você perdeu. Ele está pálido, tonto e precisa de atendimento urgente,* — a voz sintética de Aria ecoou pelo alto-falante do deck na estação vazia. — *Não consigo prever quando o quadro pode piorar.*
+— *O sangramento das mãos e do antebraço continua ativo; a leitura do deck é instável e não permite estimar quanto sangue você perdeu. Ele está pálido, tonto e precisa de atendimento urgente,* — a voz sintética de Aria ecoou pelo alto-falante do deck na estação vazia. — *O quadro pode piorar a qualquer momento; a hora não está no sensor.*
 
 — Então me diz o que fazer, Aria! — Valéria gritou para o pendrive em seu braço, a voz rouca e desesperada quebrando o silêncio. — Você não é a IA tática fodona?! Otimize isso!
 
-No pulso de Valéria, o módulo de Aria aqueceu enquanto usava o scanner óptico do deck para varrer a plataforma escura, os vagões enferrujados parados em seus trilhos e a cabine de manutenção envidraçada no extremo da plataforma.
+O módulo de Aria esquentou no pulso de Valéria enquanto usava o scanner óptico do deck para varrer a plataforma escura, os vagões enferrujados parados em seus trilhos e a cabine de manutenção envidraçada no extremo da plataforma.
 — *Detecto equipamentos de reparo pesado na cabine de manutenção a doze metros,* — respondeu a IA.
 
 Valéria foi até a cabine de manutenção. Havia um maçarico de plasma sobre a bancada e, preso à parede, um kit de emergência com etiqueta recente. Alguém mantinha aquela linha de serviço; a data não combinava com uma estação abandonada desde o Dilúvio.
@@ -83,7 +83,7 @@ E então, a voz.
 
 — *A dor é uma ferramenta de cinzelamento fascinante, Sr. Moretti,* — a voz sintética, polida e perfeitamente modulada do Taxidermista preencheu a plataforma. Não havia os ruídos de metal esmagado como nas unidades de caça pesada; havia apenas a arrogância de quem domina o tabuleiro. — *Você destruiu meu ateliê. Sobreviveu ao lastro do abismo. E agora, se marca como uma tela defeituosa para escapar da Morte.*
 
-No pulso de Valéria, o LED de Aria piscou rapidamente, rastreando a origem do sinal pelos cabos dos alto-falantes corroídos no teto.
+O pendrive no pulso de Valéria piscou rápido, rastreando a origem do sinal pelos cabos dos alto-falantes corroídos no teto.
 
 — *Vocês destruíram minhas unidades. Vou cobrar cada uma,* — continuou o Taxidermista. — *A linha termina no meu setor. Se tomarem o vagão, encontrarei vocês antes da superfície.*
 

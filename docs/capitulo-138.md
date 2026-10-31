@@ -53,7 +53,7 @@ Mas o mais perturbador não era a fusão. Era que, através do vidro, Gabo podia
 
 — Eles estão... cantando? — Valéria recuou, horrorizada.
 
-— *Estão processando* — corrigiu Aria pelo alto-falante do deck. — *O painel local registra atividade sincronizada entre os três. Não consigo medir a taxa de dados só pela imagem, nem o estado de consciência deles.*
+— *Estão processando* — corrigiu Aria pelo alto-falante do deck. — *O painel local registra atividade sincronizada entre os três. A imagem mostra o ritmo. A taxa e a consciência, não.*
 
 — Exato — o Taxidermista aplaudiu, encantado. — O "Tríptico da Lamentação". Três mentes em agonia perpétua, filtrando o ruído da cidade, transformando o caos de dados brutos em informação pura e cristalina para a rede do Dante. A dor, meus caros, é o melhor condutor. Ela foca a mente. Elimina distrações.
 
@@ -95,7 +95,7 @@ Eram diferentes dos monstros lá fora. Não eram massas de carne. Eram elegantes
 
 — Aria — Gabo rosnou, firmando os pés. — Plano de ataque.
 
-— *Oponentes com blindagem de cerâmica balística* — Aria respondeu instantaneamente no fone. — *Impactos de concussão diretos serão ineficazes contra o torso. Recomendo alavanca mecânica e ruptura dos feixes hidráulicos nas juntas articulares. Não consigo estimar a sobrevivência do grupo com os dados disponíveis.*
+— *Oponentes com blindagem de cerâmica balística* — Aria respondeu instantaneamente no fone. — *Impactos de concussão diretos serão ineficazes contra o torso. Recomendo alavanca mecânica e ruptura dos feixes hidráulicos nas juntas articulares. Com esses dados, a sobrevivência do grupo não fecha conta.*
 
 — Ótimo — Gabo cuspiu no chão imaculado, manchando o branco com sangue e saliva. — Melhores chances que tivemos a semana toda.
 

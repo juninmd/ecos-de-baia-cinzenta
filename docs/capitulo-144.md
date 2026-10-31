@@ -13,7 +13,7 @@ Gabo já não sentia os braços. Seus músculos haviam passado do estágio do á
 
 Sua mão direita... ele preferia não olhar para ela. As queimaduras abertas na grade do incinerador latejavam como se tivessem vontade própria, uma pulsação rítmica e febril em sincronia com os batimentos acelerados do seu coração. O metal gelado e áspero da escada mastigava a carne exposta a cada apoio, deixando manchas escuras e viscosas de sangue misturado à ferrugem úmida.
 
-— *Análise estrutural da rota de subida concluída,* — a voz monótona de Aria soou pelo comunicador na gola de Gabo e pelo alto-falante do pulso de Valéria. Acoplado à lateral do *Phantom V3*, o drive blindado projetava um feixe de varredura acústica através dos sensores do deck, seu LED azul-gelo cortando o breu como um olho clínico solitário. — *Há ferrugem nos chumbadores que a câmera alcança. Não consigo verificar os de trás. Evitem movimentos bruscos.*
+— *Análise estrutural da rota de subida concluída,* — a voz monótona de Aria soou pelo comunicador na gola de Gabo e pelo alto-falante do pulso de Valéria. Acoplado à lateral do *Phantom V3*, o drive blindado projetava um feixe de varredura acústica através dos sensores do deck, seu LED azul-gelo cortando o breu como um olho clínico solitário. — *Há ferrugem nos chumbadores que a câmera alcança. Atrás, a câmera não chega. Evitem movimentos bruscos.*
 
 O pequeno componente de silício e titânio não ficava ofegante. O esforço brutal do combate e da escalada vertical não gerava ácido lático em seus circuitos lógicos, nem fazia seus conectores tremerem de terror. Aria apenas calculava, processava os dados telemétricos do deck e ditava probabilidades, sem conseguir recuperar o registro de voz que usava antes da avaria. Val repetia os avisos para confirmar que eram respostas atuais, não uma ordem armazenada.
 
@@ -42,7 +42,7 @@ Ele apertou a mão ferida contra o degrau e perdeu a força na pegada. A dor nã
 
 — Espera — disse ele, até recuperar o apoio. — Agora continua. — Não olha para baixo, Val. Olha para as minhas botas.
 
-— *Valéria perdeu o apoio duas vezes,* — relatou Aria pelo comunicador, com a precisão indiferente de um monitor hospitalar. — *Frequência cardíaca: cento e setenta e oito batimentos por minuto. A mão de Valéria já escorregou duas vezes; não consigo estimar se ela manterá a preensão pelos próximos vinte metros. O peso extra e o estado de vocês tornam a subida perigosa. Não posso calcular uma margem de sobrevivência.*
+— *Valéria perdeu o apoio duas vezes,* — relatou Aria pelo comunicador, com a precisão indiferente de um monitor hospitalar. — *Frequência cardíaca: cento e setenta e oito batimentos por minuto. A mão de Valéria já escorregou duas vezes; vinte metros é mais do que ela aguentou. O peso extra e o estado de vocês tornam a subida perigosa. Margem de sobrevivência, aqui, é conta sem número.*
 
 — Eu disse para calar a boca e manter o sonar ligado, Aria — Gabo cortou, puxando o corpo mais um degrau acima enquanto os servos danificados de seu exoesqueleto gemiam sob a carga dupla. — Se o seu LED piscar fora de hora, eu arranco você do pulso da Val e jogo de volta para o lixão.
 

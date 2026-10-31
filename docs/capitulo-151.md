@@ -12,7 +12,7 @@ A morte não tinha som no Setor de Purga. Ela era apenas engolida pelo zumbido i
 
 Gabo continuava de pé na passarela oxidada, as mãos agarradas à grade com uma força que fazia a carne viva de suas queimaduras gritar. A dor latejava, crua e elétrica, rasgando a tontura que o acompanhava desde a eclusa. Ele precisava dessa dor para não despencar no abismo. A vertigem subia em ondas quentes, acompanhada do gosto amargo de ferro na língua e do peso esmagador de mais um aliado tombado sob a ferrugem de Baía Cinzenta.
 
-— Acabou. — A voz de Valéria soou oca. Ela estava ajoelhada ao lado do corpo de Rangel, os dedos trêmulos fechando as pálpebras do inspetor. As mãos dela estavam sujas de fuligem e do sangue frio dele. — Ele se foi, Gabo.
+— Acabou. — A voz de Valéria soou oca. Ela estava ajoelhada ao lado do corpo de Rangel e fechou as pálpebras do inspetor com a mão direita trêmula. Tinha fuligem e sangue nas mãos. — Ele se foi, Gabo.
 
 O peso morto de Rangel ainda parecia puxar os ombros de Gabo para baixo, um fantasma gravitacional que se recusava a soltar. Eles haviam lutado por cada milímetro daquela subida desde o lixão, sacrificado pele, sangue e sanidade para carregá-lo até ali. E no fim, o ferimento e o atendimento que não alcançaram haviam vencido. Nenhum deles podia determinar ali a causa final.
 
@@ -34,7 +34,7 @@ Ele virou o frasco. A etiqueta da farmácia da Doca 3 trazia uma data riscada a 
 
 No pulso de Valéria, o pendrive blindado de Aria não expressava luto. O pequeno cilindro prismático, cujo LED azul-gelo refletia na poça de sangue escuro sobre a chapa metálica, processava o fim dos batimentos cardíacos pelos biossensores do *Phantom V3*. A síntese não vacilava. Gabo tomou a voz restrita e a parte inacessível do histórico por prova de que a antiga hesitação e os afetos tinham sido apagados; o próprio drive não podia confirmar essa conclusão.
 
-— *Registro de transporte interrompido,* — declarou Aria pelo alto-falante do deck e pelo comunicador na gola de Gabo, a voz modulada sem qualquer inflexão. — *Não consigo transportar o corpo sem vocês. A passarela continua cedendo. Posso registrar a posição, fotografar os marcos e manter o nome ligado ao local, se decidirem partir.*
+— *Registro de transporte interrompido,* — declarou Aria pelos alto-falantes do deck e da gola, a voz modulada sem qualquer inflexão. — *Não consigo transportar o corpo sem vocês. A passarela continua cedendo. Posso registrar a posição, fotografar os marcos e manter o nome ligado ao local, se decidirem partir.*
 
 Gabo virou a cabeça devagar. Os músculos do pescoço estalaram como galhos secos.
 

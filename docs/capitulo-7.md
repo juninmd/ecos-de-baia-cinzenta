@@ -30,7 +30,7 @@ Gabo soltou o volante e procurou a escopeta com a mão que mal fechava. A névoa
 
 Aria falou no fone:
 
-— *Na sua imagem, o revestimento do joelho esquerdo está aberto. Não consigo ver o mecanismo interno.*
+— *Na sua imagem, o revestimento do joelho esquerdo está aberto. O mecanismo fica atrás do revestimento; a imagem para ali.*
 
 Kael testou o apoio. Houve um estalo, e ele transferiu o peso para a outra perna. Gabo esperou esse movimento se repetir antes de sair da parede.
 

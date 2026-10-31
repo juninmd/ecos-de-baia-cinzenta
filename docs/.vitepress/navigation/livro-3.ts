@@ -40,7 +40,7 @@ export default {
             items: [
   { text: 'Capítulo 226: A Mulher de Fora', link: '/capitulo-226' }, { text: 'Capítulo 227: O Estagiário', link: '/capitulo-227' }, { text: 'Capítulo 228: O Grupo de Controle', link: '/capitulo-228' },
   { text: 'Capítulo 229: O Homem no Portão', link: '/capitulo-229' }, { text: 'Capítulo 230: A Conta Antiga', link: '/capitulo-230' }, { text: 'Capítulo 231: Catraca', link: '/capitulo-231' },
-  { text: 'Capítulo 232: O Justo', link: '/capitulo-232' }, { text: 'Capítulo 233: Ponto Zero', link: '/capitulo-233' }, { text: 'Capítulo 234: O Fio Cortado', link: '/capitulo-234' },
+  { text: 'Capítulo 232: O Justo', link: '/capitulo-232' }, { text: 'Capítulo 233: Ponto Zero', link: '/capitulo-233' }, { text: 'Capítulo 233.5: Fé Pública', link: '/capitulo-233.5' }, { text: 'Capítulo 234: O Fio Cortado', link: '/capitulo-234' },
   { text: 'Capítulo 235: O Lado B', link: '/capitulo-235' }, { text: 'Capítulo 236: A Terra Vermelha', link: '/capitulo-236' },
             ]
           },

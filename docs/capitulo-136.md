@@ -23,7 +23,7 @@ Gabo soltou uma das mãos da maca por um segundo e pressionou o "Colar de Sol" c
 
 — Aria, cala a boca — Valéria sibilou, ofegante sob o peso das pernas da maca. A luz de sua lanterna de ombro varria as paredes cobertas de limo e cabos roídos. — Você não está ajudando.
 
-— *Estou tentando manter o aviso compreensível. Não consigo recuperar a modulação que usava, nem todas as referências do nosso histórico. Se eu deixar o canal mudo, vocês perdem o alerta.*
+— *Estou tentando manter o aviso compreensível. A modulação que eu usava se perdeu no reboot, e com ela metade do nosso histórico. Se eu deixar o canal mudo, vocês perdem o alerta.*
 
 Valéria parou por um instante, apontando o facho da lanterna para o pendrive de titânio acoplado ao comunicador no peito de Gabo. O LED azul-gelo brilhava na escuridão, frio e inexpressivo.
 
@@ -49,7 +49,7 @@ Gabo olhou para baixo, iluminando o buraco. A água lá embaixo era negra e imó
 
 Pelo sensor óptico do comunicador, Aria escaneou o poço e projetou a malha de vetores no visor de pulso de Valéria.
 
-— *Vejo água na base e ferrugem nos apoios. Não consigo medir a resistência da parede nem a profundidade do lodo.*
+— *Vejo água na base e ferrugem nos apoios. A parede pode ceder; o lodo tem fundo que o sonar não fecha.*
 
 A voz sintética fez uma pausa de um décimo de segundo.
 
@@ -77,7 +77,7 @@ No comunicador, Aria recalculou os vetores imediatamente.
 
 — Pressão de tubo não diz se aguenta uma maca — Gabo corrigiu a própria ideia. — A cinta vai no aço, fora da tubulação. Só me dá os ângulos de tensão no fone.
 
-— *Não consigo medir a resistência do couro ou do suporte. Testem a ancoragem antes de pôr Rangel nela.*
+— *O couro pode arrebentar no primeiro tranco; o suporte, no segundo. Testem a ancoragem antes de pôr Rangel nela.*
 
 Gabo e Valéria amarraram os cintos e uma tira de lona da maca, laçando o suporte de aço acima dos tubos. Gabo pendurou parte do próprio peso na cinta; o suporte não cedeu, embora o teste não garantisse que aguentaria a descida inteira. Gabo desceu primeiro, apoiando as botas nos tocos de ferro enferrujado da parede até alcançar a água gelada lá embaixo.
 

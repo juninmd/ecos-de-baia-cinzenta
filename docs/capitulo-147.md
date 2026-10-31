@@ -39,7 +39,7 @@ O feixe laser do deck de Valéria destacou uma grade de exaustão corroída pres
 Valéria olhou para cima, avaliando a distância.
 — Eu posso subir e tentar soltar a trava da porta pelo outro lado. Mas... e o Rangel? Se a porta não abrir por lá, como a gente vai içar ele?
 
-No pulso de Valéria, o LED de Aria pulsou frio enquanto os biossensores do deck liam a frequência cardíaca quase inaudível do inspetor encostado na parede.
+O pendrive no pulso de Valéria pulsou frio enquanto os biossensores do deck liam a frequência cardíaca quase inaudível do inspetor encostado na parede.
 — *A passagem de um indivíduo da massa corporal dele, em estado de inconsciência, por aquele duto é logisticamente inviável,* — a IA concluiu friamente. — *Rangel não passa pelo duto na prancha. Val pode alcançar a trava pelo outro lado enquanto Gabo fica com ele. Vou marcar o caminho sem propor outra vez uma rota que exclua o paciente.*
 
 O silêncio que se seguiu foi pesado como chumbo. A lógica de Aria era matemática, impecável e absolutamente aterradora em sua eficiência pragmática. Valéria olhou para o pequeno drive em seu pulso como se o componente fosse radioativo.

@@ -13,7 +13,7 @@ O túnel afunilou bruscamente cem metros adiante. O lodo escorregadio deu lugar 
 
 — Parou — a voz de Valéria soou seca. Ela puxou a gola do meu casaco, me fazendo estancar antes da curva.
 
-Os filamentos de LED azul na franja dela piscaram com uma cadência rápida. Ela apontou para a penumbra à frente com a ponta do pistola compacta que trazia pendurado a tiracolo.
+A franja dela apagou por meio segundo, o tempo de erguer a pistola compacta que trazia a tiracolo e apontá-la para a penumbra à frente.
 
 — O que você viu? — perguntei, a pinça externa repousando pesada sobre o quadril, os pinos do fixador latejando em sintonia com os meus batimentos cardíacos.
 
@@ -65,8 +65,12 @@ Uma pausa tensa. O som pesado de engrenagens industriais sendo destravadas ecoou
 
 O homem conferiu a pressão e guardou o cilindro ao alcance da escada interna. Val anotou o lacre do único que nos restava. Não tínhamos comprado um caminho seguro; tínhamos pago para abandonar o anterior.
 
+— Três catadores ficaram presos na câmara de drenagem — Val disse antes de sair. Mostrou no mapa o ramal marcado e o registro dos rostos. — Se tiver rádio para a superfície, avisa que precisam de equipe. Tem gás e vazamento; não entra lá sozinho.
+
+O homem copiou o ponto num pedaço de papel. — Posso tentar chamar quando a linha abrir. Não sei quem responde. — Val anotou a frequência da guarita ao lado da localização, sem chamar aquilo de resgate.
+
 — Que a chuva não pegue vocês lá em cima — ele resmungou da penumbra da guarita.
 
 — Guarda o ar pra quando o Jardim subir até aqui, parceiro — Valéria retrucou, recolhendo seu cabo com um puxão seco e ajeitando a jaqueta enquanto cruzávamos o portão. — Você vai precisar de cada litro.
 
-Seguimos pelo túnel ascendente, deixando para trás a barricada e o cheiro de ferrugem fria, com o zumbido mecânico da minha armação marcando o ritmo da subida para a Superfície Pálida.
+Seguimos pelo túnel ascendente, deixando para trás a barricada e o cheiro de ferrugem fria. A armação, ainda desligada, rangia a cada passo na subida para a Superfície Pálida.

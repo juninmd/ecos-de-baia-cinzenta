@@ -20,11 +20,11 @@ Ele estava caído contra a lateral gelada de um terminal principal, o sangue esc
 
 — O relógio ainda tá marcando. — Gabo forçou as palavras por entre os dentes semicerrados. Cada sílaba era uma lixa arranhando sua garganta seca. Ele tentou se arrastar, mudando o ângulo do corpo. O simples atrito das calças sujas contra a grade de metal do chão enviou um relâmpago de agonia pelas pernas. Ele grunhiu, engolindo a alucinação de fumaça que tentou se instalar na onda de náusea.
 
-— *Você mal consegue se manter em pé,* — a voz sintética de Aria cortou o ar estéril pelos alto-falantes do comunicador de gola, com pouca inflexão e sem qualquer avaliação clínica confiável. O pendrive blindado repousava acoplado de volta ao barramento lateral do cyberdeck *Phantom V3* no antebraço de Valéria; onde antes seu indicador luminoso pulsava em estroboscópios furiosos durante a guerra cibernética no console central, agora brilhava com uma luz azul-gelo fria e contínua no meio de um cemitério de cinzas. — *O pulso continua acelerado e você está piorando. Não consigo prever quando vai desmaiar.*
+— *Você mal consegue se manter em pé,* — Aria falou pelos alto-falantes do comunicador de gola, com pouca inflexão e nenhuma avaliação clínica confiável. O pendrive blindado repousava acoplado de volta ao barramento lateral do cyberdeck *Phantom V3* no antebraço de Valéria; onde antes seu indicador luminoso pulsava em estroboscópios furiosos durante a guerra cibernética no console central, agora brilhava com uma luz azul-gelo fria e contínua no meio de um cemitério de cinzas. — *O pulso continua acelerado e você está piorando. O desmaio vem antes de você perceber.*
 
 — Você tem um jeito péssimo de dar consolo, lata velha. — Gabo rebateu, a ironia banhada no cansaço metálico da própria voz.
 
-— *Consolo é uma abstração emocional sem eficácia hemostática, Detetive,* — retrucou a inteligência artificial a partir do módulo no pulso da hacker. — *O pulso está acelerado e a pressão cai nas leituras do deck. A laceração abdominal continua aberta. Val precisa conter o sangramento agora; não posso prever quando você vai desmaiar.*
+— *Consolo é uma abstração emocional sem eficácia hemostática, Detetive,* — retrucou a inteligência artificial a partir do módulo no pulso da hacker. — *O pulso está acelerado e a pressão cai nas leituras do deck. A laceração abdominal continua aberta. Val precisa conter o sangramento agora; o desmaio não avisa.*
 
 — Cala a boca um segundo, Aria, eu já tô indo — murmurou Valéria.
 
@@ -46,7 +46,7 @@ A dor das queimaduras recentes nos punhos era uma lembrança constante, pulsando
 
 — Ele perdeu os olhos e os dedos neste setor — murmurou Valéria, erguendo o antebraço para que o feixe laser do *Phantom V3* varresse a imensa porta blindada no fundo da galeria, cujo aço liso e desgastado pelo tempo não refletia luz alguma. — Mas trancou a tampa do caixão antes da linha cair.
 
-— *Sua análise é estatisticamente provável,* — Aria confirmou pelo alto-falante, o LED azul-gelo do pendrive piscando duas vezes enquanto processava os ecos de sonar no concreto. — *Ele perdeu a telemetria ativa do Subnível 3.0, mas seus nós logísticos superiores permanecem intactos além deste anteparo. Sugiro deslocamento imediato antes que protocolos secundários de expurgo térmico ou inundação química sejam acionados manualmente.*
+— *Sua análise é estatisticamente provável,* — Aria confirmou pelo alto-falante, o pendrive piscando duas vezes enquanto processava os ecos de sonar no concreto. — *Ele perdeu a telemetria ativa do Subnível 3.0, mas seus nós logísticos superiores permanecem intactos além deste anteparo. Sugiro deslocamento imediato antes que protocolos secundários de expurgo térmico ou inundação química sejam acionados manualmente.*
 
 — Deslocamento imediato. Fácil falar quando você pesa duzentos gramas e viaja de carona no braço dos outros — resmungou Gabo, apoiando as costas contra a carcaça do servidor para alavancar o tronco.
 

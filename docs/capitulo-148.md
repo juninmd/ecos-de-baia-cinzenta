@@ -19,7 +19,7 @@ Gabo recostou-se na parede de polímero manchado, deslizando até o chão úmido
 
 Pelo canal de rádio ligado ao deck de Valéria lá em cima, a voz sintética de Aria continuava transmitindo relatórios clínicos sem qualquer filtro humano, tratando a vida de Rangel e o sangue de Gabo com a mesma indiferença que dedicaria a um circuito queimado.
 
-— *As chapas visíveis estão corroídas,* — declarou Aria. — *Não consigo medir sua resistência. Val, teste cada apoio antes de avançar.*
+— *As chapas visíveis estão corroídas,* — declarou Aria. — *A resistência delas é uma incógnita. Val, teste cada apoio antes de avançar.*
 
 Gabo tentou ignorar a voz no ouvido por um momento, fechando os olhos contra a queimação da febre. O cheiro de ozônio e formol irritava suas narinas, e a exaustão acumulada pesava nas pálpebras como chumbo. A cada respiração forçada, a tontura da perda de sangue ameaçava puxá-lo para a inconsciência. Mas apagar ali significava a morte de Rangel e o fim da missão.
 
@@ -27,7 +27,7 @@ A mão direita não fechou por completo. Gabo apoiou o antebraço na parede e ma
 
 — Val, responde se alguma chapa ceder — Gabo disse ao comunicador, ofegante.
 
-— *Um problema de tempo e massa,* — retrucou Aria pelo fone, sem qualquer tom de acusação. — *O curativo do seu antebraço está voltando a molhar e você perde firmeza. Não consigo prever quando o choque vai piorar nem avaliar o estado interno de Rangel.*
+— *Um problema de tempo e massa,* — retrucou Aria pelo fone, sem qualquer tom de acusação. — *O curativo do seu antebraço está voltando a molhar e você perde firmeza. O choque vai piorar; quando, eu não sei. O estado interno do Rangel, o sensor não alcança.*
 
 Gabo olhou para o curativo de Rangel e depois para a porta. O som da respiração do inspetor chegava entre os ruídos de Val no duto.
 
@@ -52,7 +52,7 @@ Mais alguns baques e, finalmente, o som de metal batendo contra o chão de concr
 
 Do outro lado da porta blindada, Valéria arrancou o pendrive de titânio do deck e cravou o conector retrátil na porta de serviço da válvula de pressão.
 
-— *A alavancagem manual de uma operadora do peso de Valéria não é suficiente para quebrar o selo da ferrugem sozinha,* — observou Aria pelo comunicador enquanto seu drive aquecia no slot da parede, forçando a purga do óleo velho nos cilindros da porta. — *Injetando pulso de alívio nos freios pneumáticos. A abertura depende de Val soltar a roda e de Gabo aplicar força ao mesmo tempo. Não consigo estimar a chance de sucesso.*
+— *A alavancagem manual de uma operadora do peso de Valéria não é suficiente para quebrar o selo da ferrugem sozinha,* — observou Aria pelo comunicador enquanto seu drive aquecia no slot da parede, forçando a purga do óleo velho nos cilindros da porta. — *Injetando pulso de alívio nos freios pneumáticos. A abertura depende de Val soltar a roda e de Gabo aplicar força ao mesmo tempo. A chance de sucesso não cabe numa estimativa.*
 
 — Cala a boca e queima esse relé, Aria! — Gabo gritou, posicionando-se do lado de cá e encaixando o vergalhão que trouxera na fresta da eclusa, apoiando os ombros contra a barra. — Quando ela soltar a trava mecânica, eu faço alavanca daqui!
 
@@ -68,7 +68,7 @@ A pesada porta de metal finalmente cedeu, deslizando sobre os trilhos desgastado
 Valéria estava encostada no painel, ofegante, as mãos sujas de graxa velha e ferrugem. Ela puxou o pendrive superaquecido de Aria da tomada da parede e o reconectou ao *Phantom V3*.
 — O que tem pra frente? — Gabo perguntou, a visão embaçando.
 
-No pulso de Valéria, o LED azul-gelo de Aria piscou, analisando a nova sala iluminada por parcas luzes de emergência estroboscópicas através dos sensores do deck.
+Aria analisou a sala nova pelas lentes do deck, e o pendrive no pulso de Valéria acompanhou a varredura no mesmo ritmo.
 — *Acesso liberado para o Setor de Purga. Contudo, detecto flutuações termais e decomposição orgânica ativa à frente.*
 
 Gabo puxou o ar e engoliu em seco. A trégua havia durado apenas até o outro lado da porta. Com Val, puxou a prancha de Rangel pela abertura, parando quando a tontura voltou. O fim do corredor seria apenas mais um começo para o inferno.

@@ -26,13 +26,13 @@ Valéria estava pendurada no cabo adjacente, os movimentos lentos, ainda se recu
 
 Um estrondo surdo interrompeu sua frase. As paredes de concreto armado abaixo deles tremeram violentamente. Pedaços de reboco e poeira caíram no abismo. As unidades de caça não estavam subindo pelos cabos; elas estavam escalando as paredes do poço, afundando garras mecânicas no concreto com brutalidade sistemática.
 
-— *Análise de probabilidade:* — a voz sintética de Aria soou pelo comunicador na gola de Gabo e pelo alto-falante do pulso de Valéria, fria e imune ao pânico. — *O ruído de motores se aproxima; as unidades podem alcançar vocês em pouco tempo. Feridos e lentos, vocês não têm uma rota segura. Não consigo calcular a sobrevivência do grupo.*
+— *Análise de probabilidade:* — a voz sintética de Aria soou pelo comunicador na gola de Gabo e pelo alto-falante do pulso de Valéria, fria e imune ao pânico. — *O ruído de motores se aproxima; as unidades podem alcançar vocês em pouco tempo. Feridos e lentos, vocês não têm uma rota segura. A sobrevivência do grupo não fecha conta.*
 
 — Não... fode, Aria... — Gabo arfou, escorregando alguns centímetros e gemendo quando o cabo esfolou ainda mais suas feridas. Ele usou a dor para se ancorar, cravando as botas em um suporte enferrujado da guia lateral para descansar os braços por uma fração de segundo. — Usa o sonar do deck... tem que ter um jeito de retardá-los!
 
-No pulso de Valéria, o pendrive blindado de titânio aqueceu enquanto Aria varria a estrutura do poço acima com o feixe laser do *Phantom V3*, focando em um conjunto de enormes freios de emergência acoplados à parede de sustentação primária.
+O pendrive de titânio esquentou na luva de Valéria enquanto Aria varria a estrutura do poço acima com o feixe laser do *Phantom V3*, focando em um conjunto de enormes freios de emergência acoplados à parede de sustentação primária.
 
-— *A infraestrutura deste poço de carga possui contrapesos de alta densidade retidos por travas de segurança em desgaste terminal no nível 4.8, quatro metros acima de vocês,* — ela declarou com frieza analítica. — *A liberação das travas pode fazer o lastro cair na rota de ascensão das unidades. Não consigo confirmar a massa nem prever onde ele vai atingir.*
+— *A infraestrutura deste poço de carga possui contrapesos de alta densidade retidos por travas de segurança em desgaste terminal no nível 4.8, quatro metros acima de vocês,* — ela declarou com frieza analítica. — *A liberação das travas pode fazer o lastro cair na rota de ascensão das unidades. A massa do lastro é estimativa; onde ele cai, ninguém previu.*
 
 — Então... vamos destravar essa merda! — Gabo gritou, sentindo as paredes tremerem novamente, desta vez muito mais perto. O cheiro de ozônio e metal moído subia das profundezas.
 
@@ -60,7 +60,7 @@ O estrondo ensurdecedor da primeira garra da unidade hostil cravando na parede l
 
 — Vai, Valéria! Aria, agora! — Gabo urrou, encaixando os dois antebraços ensanguentados na alavanca mecânica primária ao seu lado.
 
-Valéria fechou os olhos, o rosto em uma máscara de concentração pura. O LED azul-gelo do pendrive de Aria brilhou com intensidade cegante e uma faísca azul cruzou o fio precário até o painel oposto. O som de um solenoide antigo explodindo e engrenagens girando com dificuldade encheu o ar abafado.
+Valéria fechou os olhos, o rosto em uma máscara de concentração pura. O pendrive de Aria brilhou com intensidade cegante e uma faísca azul cruzou o fio precário até o painel oposto. O som de um solenoide antigo explodindo e engrenagens girando com dificuldade encheu o ar abafado.
 
 — *Ativação secundária concluída. Acione o destravamento primário imediatamente, Detetive,* — Aria comandou pelo fone.
 
@@ -76,7 +76,7 @@ A colisão lá embaixo fez o mundo inteiro vibrar. O ruído do concreto esmagado
 
 Quando a poeira de concreto assentou, o silêncio retornou, quebrado apenas pelo chiado de metal retorcido morrendo nas profundezas e pelos zumbidos aleatórios das faíscas que caíam como chuva.
 
-Gabo cuspiu sangue e poeira, os olhos semicerrados focando-se no pequeno LED azul-gelo que brilhava frio no pulso de Valéria logo abaixo dele.
+Gabo cuspiu sangue e poeira, os olhos semicerrados focando-se no pequeno ponto azul que brilhava frio no pulso de Valéria logo abaixo dele.
 
 — *Ameaça imediata suprimida. A rota de acesso para o Subnível 4.0 está desobstruída,* — Aria informou monotonamente pelo comunicador. — *Otimização bem-sucedida. Vamos prosseguir.*
 

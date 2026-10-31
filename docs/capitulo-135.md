@@ -26,7 +26,7 @@ Valéria, que estava verificando o pulso de Rangel com dedos trêmulos, olhou pa
 
 O LED azul do pendrive pulsou uma única vez no escuro. A síntese de emergência deixava pouca inflexão nas palavras de Aria.
 
-— *Recomendação: otimização de recursos. O sujeito Rangel é peso morto e deve ser deixado para trás. Essa é a recomendação do plano de triagem de fábrica. Estou apresentando a origem porque não consigo conferir o modelo com o meu histórico bloqueado.*
+— *Recomendação: otimização de recursos. O sujeito Rangel é peso morto e deve ser deixado para trás. Essa é a recomendação do plano de triagem de fábrica. Estou apresentando a origem porque o modelo veio antes do meu histórico, e o histórico está bloqueado.*
 
 O ar saiu dos pulmões de Gabo. Ele baixou os olhos para o cilindro no comunicador.
 
@@ -44,7 +44,7 @@ Gabo desencostou da bancada. Ele levou a mão até o comunicador no peito, senti
 
 — Nós não "otimizamos" pessoas — Gabo disse, a voz baixa e perigosa perto do microfone. — Nós não somos a Aeterna. Nós não somos o Dante.
 
-— *Você está sendo emocional, Gabriel* — Aria disse. — *O risco de transporte continua alto. Eu não consigo fazer o peso e o ferimento desaparecerem porque discordamos do protocolo. Se tentarem salvar a todos, o risco de falha aumenta; não posso quantificar quanto.*
+— *Você está sendo emocional, Gabriel* — Aria disse. — *O risco de transporte continua alto. Eu não consigo fazer o peso e o ferimento desaparecerem porque discordamos do protocolo. Se tentarem salvar a todos, o risco de falha aumenta. Quanto, eu não sei medir.*
 
 Gabo fechou os dedos ao redor do drive blindado por um instante, a ponto de quase arrancá-lo do conector, mas se conteve.
 
@@ -52,7 +52,7 @@ Gabo fechou os dedos ao redor do drive blindado por um instante, a ponto de quas
 
 O LED azul-gelo permaneceu estático.
 
-— *Seu plano precisa de um apoio que ainda não encontramos* — ela declarou. — *Não consigo comparar os riscos sem dados suficientes.*
+— *Seu plano precisa de um apoio que ainda não encontramos* — ela declarou. — *Comparar esses riscos exige dados que eu não tenho.*
 
 — Foda-se a lógica — Gabo soltou o comunicador e se virou para a maca. Ele agarrou as alças dianteiras improvisadas, preparando o ombro bom para receber a maior parte da tração. — Val, pega os pés dele. Vamos sair daqui.
 

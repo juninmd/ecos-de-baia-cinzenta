@@ -20,7 +20,7 @@ Gabo sentiu o calor lamber seu rosto através do lenço improvisado. Era úmido,
 
 No barramento lateral do deck, o pendrive blindado de titânio da Aria piscava freneticamente em azul, compensando o ruído térmico dos sensores de Valéria.
 
-— *Sensores externos saturados* — a voz de Aria cortou o ruído nos fones de ambos, plana e sem pânico. — *Não consigo distinguir o corredor. O sonar do comunicador detecta uma abertura no setor norte; a planta indica ventilação de serviço. Não posso garantir que esteja desobstruída.*
+— *Sensores externos saturados* — a voz de Aria cortou o ruído nos fones de ambos, plana e sem pânico. — *O ruído térmico comeu o corredor. O sonar do comunicador detecta uma abertura no setor norte; a planta indica ventilação de serviço. A planta é de antes do incêndio; desobstruída é promessa dela, não minha.*
 
 Uma seta de luz azul piscou nos óculos de Valéria e no comunicador de Gabo. Ele empurrou Valéria naquela direção.
 
@@ -69,19 +69,19 @@ Gabo ativou o comunicador de garganta.
 
 — *Ruim!* — A voz do ex-inspetor vinha acompanhada do som inconfundível de fogo automático. — *Estou na Doca de Carga B. Os drones "Jardineiros" nos cercaram. Estou com pouca munição e o caminhão foi inutilizado. Preciso de suporte ou não saio daqui!*
 
-Valéria olhou para Gabo, os olhos arregalados manchados de graxa e fuligem.
+Valéria já estava de pé, as mãos brancas de graxa apertando o deck como se pudesse arrancar o Rangel pelo cabo.
 
 — Temos que voltar. Temos que ajudar o Rangel.
 
-Gabo olhou para baixo, para o abismo de máquinas e "processadores" humanos. E então olhou para frente, onde uma porta blindada maciça exibia o símbolo de risco de radiação e a inscrição: NÚCLEO DE RESFRIAMENTO.
+Abaixo, o abismo de máquinas e "processadores" humanos zumbia sem parar. À frente, a porta blindada maciça exibia o símbolo de risco de radiação e a inscrição: NÚCLEO DE RESFRIAMENTO.
 
 O relógio mental de Gabo tiquetaqueava. A janela anotada por Kiko, se aplicável ao biohost, podia estar se fechando. Se eles voltassem para a Doca, perderiam a chance de sabotar o núcleo. Se seguissem em frente, Rangel provavelmente morreria.
 
 — Gabo! — Valéria insistiu.
 
-No pulso de Valéria, o LED do pendrive da Aria pulsou em azul constante, calculando as variáveis em silêncio antes de transmitir no canal interno.
+O pendrive no pulso de Valéria piscou três vezes antes de Aria abrir o canal interno — o mesmo ritmo com que costumava pedir licença.
 
-— *Não tenho imagem da doca. Pelos disparos e pelo relato, Rangel está sob risco imediato* — informou a voz sintética da Aria, com sua voz adulta atravessando o ruído. — *Contudo, se a rotina que lemos estiver correta, o ciclo poderia terminar em minutos; não conseguimos confirmar que ele começou. Não há garantia para nenhuma das escolhas.*
+— *Não tenho imagem da doca. Pelos disparos e pelo relato, Rangel está sob risco imediato* — informou Aria, a voz adulta atravessando o ruído. — *Contudo, se a rotina que lemos estiver correta, o ciclo poderia terminar em minutos; não conseguimos confirmar que ele começou. Nenhuma das duas escolhas cabe numa garantia.*
 
 Gabo fechou os olhos por um segundo. Ele viu o rosto de Rangel, o homem que desistiu de tudo para fazer a coisa certa. E viu a cidade lá fora, a chuva, os milhões de pessoas presas no pesadelo de Dante.
 

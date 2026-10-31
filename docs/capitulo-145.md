@@ -10,7 +10,7 @@ description: "A porta foi alterada para exigir uma sangria desnecessária à ide
 
 O metal cedeu antes dos músculos de Gabo. Não muito, apenas o suficiente para que o mosquetão raspasse com um gemido estridente contra a estrutura do poço, um lembrete físico de que a gravidade estava farta de brincar.
 
-— *Plataforma de acesso detectada a vinte metros acima. Inclinação: oitenta e cinco graus. Estrutura primária: reforçada.* — A voz sintética de Aria não ecoou; ela saiu pelo comunicador na gola de Gabo e cortou a umidade como um bisturi, precisa e clínica, enquanto o LED azul-gelo de seu drive blindado piscava no pulso de Valéria.
+— *Plataforma de acesso detectada a vinte metros acima. Inclinação: oitenta e cinco graus. Estrutura primária: reforçada.* — A voz sintética de Aria não ecoou; saiu pelo comunicador e cortou a umidade como um bisturi, precisa e clínica, enquanto o drive piscava no pulso de Valéria.
 
 Vinte metros. Poderia muito bem ser a distância até a lua. A respiração de Gabo saía em arfadas curtas e rasgadas, cada exalação formando uma pequena nuvem no ar frio e estagnado. O corpo de Rangel, balançando ligeiramente abaixo dele, parecia ter dobrado de peso desde a última hora. Rangel precisava de atendimento, e cada metro consumia o tempo que restava.
 

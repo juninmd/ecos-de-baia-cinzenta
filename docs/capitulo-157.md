@@ -42,7 +42,7 @@ Gabo não podia segurar uma arma. Ele olhou para o teto lacerado onde as criatur
 
 Valéria demorou um segundo para processar. Quando compreendeu a brutalidade pragmática do plano, engoliu em seco. — O motor vai esmagar os drones no próximo bloqueio de pressão. Mas... nós vamos ficar parados no escuro. Pendurados no abismo.
 
-— *Projeção viável,* — concordou Aria pelo alto-falante da cabine, seu drive aquecendo no slot enquanto preparava a sequência de frenagem magnética. — *As comportas térmicas do Subnível 3.0 estão fechadas à frente. O módulo trator pode atingir as portas e arrastar os drones. Não consigo garantir que a passagem abra. No entanto, o pino de desacoplamento entre os módulos é estritamente manual nesta classe de veículo.*
+— *Projeção viável,* — concordou Aria pelo alto-falante da cabine, seu drive aquecendo no slot enquanto preparava a sequência de frenagem magnética. — *As comportas térmicas do Subnível 3.0 estão fechadas à frente. O módulo trator pode atingir as portas e arrastar os drones. A passagem pode não abrir. No entanto, o pino de desacoplamento entre os módulos é estritamente manual nesta classe de veículo.*
 
 — Onde é o pino? — exigiu Gabo, virando-se para Valéria, lutando com a exaustão que pesava sobre seus ombros.
 

@@ -69,9 +69,11 @@ Dois metais frios batendo contra o osso do meu esterno a cada batida do meu cora
 
 Elias limpou o suor da testa com o antebraço sujo de graxa.
 
-— Os caminhões da resistência do Setor 4 chegam antes das nove, Gabo. A estrada da serra está aberta.
+— Os caminhões do Setor 4 chegam antes das nove, Gabo. O capitão Vilar mandou dizer que a estrada da serra está aberta. Ele não vem; com um braço só não faz a serra de noite, mas mandou a rota conferida.
 
-— Avisa a eles para carregarem até o teto — falei.
+— Avisa a eles para carregarem até o teto — falei. — E que a Clara pegue a carga do Setor 9. Ela sabe com quem falar sem assustar ninguém.
+
+Elias assentiu e saiu correndo para o rádio.
 
 Virei as costas para a cova.
 
@@ -84,6 +86,8 @@ Entrei no galpão.
 A rotativa de Elena já estava ligada, batendo no seu ritmo surdo e honesto, *tchunc-tchunc-tchunc*, cuspindo as páginas que precisavam chegar aos assentamentos antes do meio-dia de amanhã.
 
 Puxei o primeiro caderno ainda quente de tinta. Na capa, ao lado do número de admissões, estava a ressalva que Elena exigira. Passei o polegar pela frase até borrar uma letra.
+
+Na primeira página, embaixo do índice, o retângulo do selo continuava vazio, e a linha miúda que Elena tinha mandado compor dizia: *certificação solicitada e recusada nesta data*. Meu irmão não assinou. Não fechou a estrada também. Era o mais perto de justiça que aquele papel ia chegar, e o papel saía assim mesmo, com o buraco no lugar da assinatura.
 
 Valéria entrou depois de mim. Trazia a caixa com o disco que Elena escondera na coronha.
 

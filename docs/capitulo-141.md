@@ -14,7 +14,7 @@ Gabo estava sentado em uma carcaça que outrora fora o torso de um ciborgue de c
 
 Ele fechou os punhos com força. O latejar agudo subiu pelos antebraços como um choque elétrico. Ele inspirou devagar, retendo o ar, e expirou. A dor era limpa, nítida. O cheiro de queimado no ar o enjoava profundamente — um lembrete visceral do trauma, a fumaça suja invadindo seus pulmões sem permissão desde o escritório de Dante. Ele odiava a fumaça. Odiava a fraqueza que ela representava. A dor nas mãos, em contraste, era uma escolha. Uma âncora afiada que o prendia à realidade. *Dez segundos de foco*, ele pensou. *Só preciso de mais dez segundos de foco.*
 
-— A temperatura do Inspetor Rangel está em trinta e nove ponto dois graus — a voz sintética de Aria soou pelo comunicador do cyberdeck de Valéria, de uma precisão cirúrgica e vazia de qualquer empatia. Conectado à porta lateral do *Phantom V3*, o drive neural blindado emitia seu brilho azul-gelo constante na névoa fria da caverna. — O ferimento e o calor o expuseram a mais risco. Os registros da ficha e a leitura atual indicam piora. Não posso prever falha de órgãos pelo sensor do deck.
+— A temperatura do Inspetor Rangel está em trinta e nove ponto dois graus — Aria falou pelo comunicador do cyberdeck de Valéria, com a precisão e a cadência fixa da síntese de emergência. Conectado à porta lateral do *Phantom V3*, o drive neural blindado emitia seu brilho azul-gelo constante na névoa fria da caverna. — O ferimento e o calor o expuseram a mais risco. Os registros da ficha e a leitura atual indicam piora. Não posso prever falha de órgãos pelo sensor do deck.
 
 Valéria estava ajoelhada ao lado do inspetor, iluminando-o com o feixe auxiliar de seu pulso enquanto os biossensores do deck liam os sinais vitais dele. O peito de Rangel subia e descia em uma respiração rasa e ofegante. O curativo lacrado que Valéria havia colocado sobre a ferida parecia estar cedendo sob o suor febril.
 
@@ -60,7 +60,7 @@ Valéria ofegou, seus dedos tremendo ao tocar os cabos.
 
 — As pontas foram cortadas, mas o trecho protegido pode estar utilizável. O estúdio está acima da infraestrutura antiga; se houver ligação, talvez possamos seguir o percurso.
 
-Gabo olhou para cima, para a escuridão intransponível de onde tinham despencado. O cheiro de podridão e o frio se misturaram em uma constatação sombria.
+Gabo ergueu o queixo para a escuridão de onde tinham despencado. Nada se mexia lá em cima. O poço não tinha fim visível, e mesmo assim era uma saída.
 
 — Ele não está só brincando de artista com os cadáveres — murmurou Gabo, o peso da verdade ancorando-o à realidade. — Ele é uma aranha no centro da teia velha. Se essas raízes sobem até o estúdio dele...
 

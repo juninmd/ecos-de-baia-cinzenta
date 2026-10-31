@@ -40,7 +40,7 @@ O cabo gemeu sob a mordida do metal, e nossa descida estancou a meio metro acima
 
 Desativei os pistões. Val apoiou os pés primeiro na plataforma e soltou o trecho preso da cinta. Desci o meio metro restante até o piso de ferro com um baque surdo, a lama e a graxa amortecendo o impacto. Minha perna direita cedeu dentro da órtese e bati com os joelhos no chão, apoiando a mão esquerda ensanguentada no concreto frio para não desabar de vez.
 
-Valéria rolou de lado na grade, levantando-se de um salto com a agilidade de um gato de rua, a pistola já apontada para as sombras ao redor. Ela estava ofegante, o rosto manchado de fuligem e os filamentos de LED azul na franja piscando descontrolados pelo choque elétrico residual das faíscas.
+Valéria rolou de lado na grade, levantando-se de um salto com a agilidade de um gato de rua, a pistola já apontada para as sombras ao redor. Ela estava ofegante, o rosto manchado de fuligem e a franja piscando descontrolada, ainda queimada pelas faíscas do choque elétrico.
 
 Ela me olhou no chão, bufou alto e me deu um soco de leve no ombro são.
 

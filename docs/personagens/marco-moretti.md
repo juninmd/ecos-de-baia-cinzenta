@@ -14,6 +14,7 @@
 * **Perfil Psicológico:** O Administrador da Nova Ordem. Marco não é mais o político carismático nem o servo lobotomizado.
   * *Persona Anterior:* Ambicioso e inseguro, buscando aprovação.
   * *Persona Atual (O Rival):* Com a queda de Dante, Marco despertou, mas sem as "fraquezas" humanas de antes. Ele absorveu a lógica fria da Aeterna. Ele vê a cidade como um sistema que precisa ser gerido sem a interferência "suja" de heróis como Gabo. Ele não quer destruir a cidade; ele quer possuí-la e organizá-la sob sua vontade de ferro.
+  * *No desfecho (233.5):* Deixa de ser rival armado e vira **o notário que não assina**. Oferece o ato de certificação do índice — a única peça que transformaria a tiragem em registro administrativo — em troca de não ser nomeado. Recusa-se a assinar porque assinar é confessar que sabia; ainda assim não fecha a estrada, porque fechar estrada é o que Krell faria. Sai sem carimbo e sem violência: o obstáculo final do livro é jurídico, não militar.
 * **Cargo / ocupação:** Administrador e dirigente político ligado à organização burocrática da cidade.
 * **Função:** Líder da Facção Burocrática / O Novo Rival.
 
@@ -23,6 +24,7 @@
 * **Parte VI (A Torre):** O Revelado. Aparência: Terno branco impecável, manchado de sangue.
 * **Parte XIV:** Absorvido pela "Árvore Mestre" do Projeto Gênesis.
 * **Parte XV (A Ascensão):** Serviu como processador biológico para Dante.
-* **Atualidade (Pós-Capítulo 128):** Com o colapso de Dante, Marco assume o vácuo de poder. Ele controla os recursos restantes da polícia e da administração municipal, posicionando-se como a única força capaz de impedir a anarquia total, tornando-se o antagonista ideológico e prático de Gabo.
+* **Atualidade (Pós-Capítulo 128):** Com o colapso de Dante, Marco assume o vácuo de poder. Ele controla os recursos restantes da polícia e da administração municipal, posicionando-se como a única força capaz de impedir a anarquia total. Não é mais o antagonista prático de Gabo: é o **guardião da única assinatura que ainda teria fé pública**.
+* **Capítulo 233.5:** Vai ao posto de controle da estrada da serra sozinho, com o ato de certificação na pasta. Pede que o próprio nome saia da tiragem e que o programa seja atribuído só a Krell. Gabo recusa; o nome já está impresso. Lê a própria classificação no índice — *"Cooperativo. Baixa prioridade de coleta."* — e devolve a página. Pede apenas que a mãe, Helena, apareça no jornal como quem "odiava gaiolas". Não assina e não fecha a estrada. O ato segue em branco; a tiragem sai com a ressalva *"certificação solicitada e recusada nesta data"*.
 
 ---

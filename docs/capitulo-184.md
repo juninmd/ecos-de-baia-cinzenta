@@ -9,11 +9,11 @@ Personagens Presentes: Gabo, Valéria
 
 A chuva fina que castigava as ruínas do Distrito 4 parou, deixando em seu lugar um nevoeiro denso e frio, impregnado com cheiro de cobre molhado e fuligem industrial. O silêncio era absoluto, quebrado apenas pelo chiar intermitente dos servos descalibrados do meu braço mecânico e pelo som oco dos nossos passos no asfalto fragmentado.
 
-A dor no ombro já não separava uma passada da outra. A cobertura refeita junto ao ônibus segurava, mas eu precisava parar para aliviar o peso no arnês. Val conferiu o meu curativo antes de olhar o mapa. Não havia confirmação no canal de Nise; a mensagem de localização continuava sem resposta.
+A dor no ombro já não separava uma passada da outra. A cobertura refeita junto ao ônibus segurava, mas eu precisava parar para aliviar o peso no arnês. Val conferiu o meu curativo antes de olhar o mapa. Nise recebera a localização de Rangel na clínica; não havia notícia de uma equipe ter alcançado a passarela.
 
 O cenário à nossa volta era um cemitério fabril a céu aberto. Galpões de decantação com os telhados desabados, tanques de armazenamento de produtos químicos carcomidos pela ferrugem e guindastes estáticos que pareciam esqueletos de bestas pré-históricas vigiando a podridão.
 
-Valéria caminhava meio metro à frente, os filamentos de LED azul na franja curta iluminando o vapor que saía de seus lábios a cada expiração.
+Valéria caminhava meio metro à frente, o vapor saindo dos lábios em jatos curtos, medidos, como quem economiza o ar que ainda tem.
 
 — A temperatura caiu quase três graus — disse ela por trás da máscara, conferindo o leitor. — O alarme de vapor corrosivo voltou. Eu não sei tudo o que tem nessa névoa. Vamos pela parede, fora da pluma do tanque; se fechar a passagem, a gente recua para o abrigo. O cilindro não dá para fingir que o ar daqui é respirável.
 

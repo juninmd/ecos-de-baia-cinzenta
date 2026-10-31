@@ -10,7 +10,7 @@ O calor não era apenas temperatura; era uma pressão física. O ar no Subnível
 
 Gabo limpou o suor que escorria para dentro dos olhos com as costas da mão suja de graxa. Sua perna direita, aquela que Dante havia remendado com sucata e parafusos industriais, protestava a cada passo sobre o gradeado de metal. *Click-clack, click-clack*. O som irregular de seus passos era o único ruído humano na sinfonia de pistões e turbinas.
 
-— *A temperatura da tubulação está subindo* — a voz sintética de Aria cortou o zumbido pelo comunicador tático no colarinho de Gabo. Acoplado ao cyberdeck de Valéria logo à frente, o pendrive da assistente de IA piscava em âmbar rápido, processando os sensores infravermelhos contra o vento quente que subia das fossas de magma abaixo.
+— *A temperatura da tubulação está subindo* — Aria cortou o zumbido pelo comunicador tático no colarinho de Gabo. Acoplado ao cyberdeck de Valéria logo à frente, o pendrive da assistente de IA piscava em âmbar rápido, processando os sensores infravermelhos contra o vento quente que subia das fossas de magma abaixo.
 
 Gabo ouviu a inflexão final da frase no fone. O retorno cortou uma sílaba e voltou carregado de estática. Aria repetiu o aviso, mais devagar. Ele sentiu gosto de bile; os dedos tamborilaram contra a coronha da *Caronte* antes de subirem para o bolso interno do sobretudo.
 

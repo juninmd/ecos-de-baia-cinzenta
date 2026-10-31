@@ -62,6 +62,6 @@ Valéria se abaixou ao lado do inspetor e colocou dois dedos no pescoço dele. F
 
 Gabo reparou que ela não olhou para ele ao responder. Reparou também que a mão dela, ao sair do pescoço de Rangel, limpou a espuma do canto da boca dele com o polegar, devagar, como se aquilo fosse uma coisa que se faz.
 
-— *Não consigo verificar a fixação do outro lado. A cinta pode limitar a queda, mas não torna a travessia segura,* — avisou Aria.
+— *A fixação do outro lado continua sendo suposição. A cinta pode limitar a queda, mas não torna a travessia segura,* — avisou Aria.
 
 Gabo testou a chapa com a bota esquerda. Ela rangeu, mas sustentou seu peso. Ele puxou a cinta da prancha enquanto Val guiava a cabeceira e observava o apoio adiante. Juntos, deram o primeiro passo na passarela rangente. Abaixo deles, o mar de fluido negro borbulhava, como um estômago faminto à espera da próxima refeição.

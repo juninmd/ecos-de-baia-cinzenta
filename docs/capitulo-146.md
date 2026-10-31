@@ -29,7 +29,7 @@ A repulsa visceral à fumaça o atingiu como um golpe no estômago. Ele nunca fu
 
 A vertigem não cedeu quando Gabo tentou cerrar a mão ferida. Ele deixou o peso escorregar pela parede até o chão. O lenço de Val cobriu o braço que ainda sangrava; naquele corredor, permanecer consciente dependia de aceitar o curativo, não de abrir outra ferida.
 
-— *Análise ambiental concluída pelos sensores do deck,* — a voz de Aria cortou seus pensamentos pelo comunicador de gola. — *O detector indica pouco oxigênio. Há mofo nas paredes; não consigo identificar as partículas nem garantir que a estrutura esteja estável. A placa diz corredor de descontaminação da Subdivisão 6.0.*
+— *Análise ambiental concluída pelos sensores do deck,* — a voz de Aria cortou seus pensamentos pelo comunicador de gola. — *O detector indica pouco oxigênio. Há mofo nas paredes; as partículas não entram no meu catálogo, e a estrutura já cedeu em outros pontos. A placa diz corredor de descontaminação da Subdivisão 6.0.*
 
 — Tem... tem algum armário médico no seu mapa, Aria? Algum kit de primeiros socorros de emergência? — Valéria perguntou, a voz embargada enquanto examinava Rangel. A pele do inspetor estava pálida e úmida, a respiração rasa e errática. A febre irradiava de seu corpo como calor de um asfalto escaldante.
 
@@ -41,7 +41,7 @@ Valéria se aproximou do painel na parede e golpeou a trava enferrujada com a co
 
 Dentro, havia pacotes de ataduras embaladas a vácuo, frascos de soro cristalizados e ampolas de vidro cuja cor do líquido interno sugeria qualquer coisa, menos algo medicinal.
 
-— *As embalagens estão abertas ou sem registro legível. Não consigo identificar a composição pela imagem,* — relatou Aria friamente ao ler o espectro químico pelo scanner de pulso de Valéria.
+— *As embalagens estão abertas ou sem registro legível. A imagem não separa vidro de ácido,* — relatou Aria friamente ao ler o espectro químico pelo scanner de pulso de Valéria.
 
 Valéria começou a vasculhar febrilmente entre as ataduras ressecadas e os frascos estilhaçados.
 — Tem que ter algo... um antibiótico de largo espectro, epinefrina, qualquer coisa...

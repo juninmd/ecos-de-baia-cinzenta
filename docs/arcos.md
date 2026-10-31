@@ -6,7 +6,7 @@ description: "A estrutura da saga: três livros, vinte e quatro partes, do prime
 
 # Arcos e Linha do Tempo
 
-> **Para que serve este documento:** a saga tem 238 capítulos e cresceu por acréscimo. Aqui ela está separada em **livros** e **partes**, cada uma com uma pergunta que abre e uma resposta que custa alguma coisa. Antes de escrever um capítulo novo, localize em que parte ele cai — se não couber em nenhuma, é porque ele começa uma.
+> **Para que serve este documento:** a saga tem 239 capítulos e cresceu por acréscimo. Aqui ela está separada em **livros** e **partes**, cada uma com uma pergunta que abre e uma resposta que custa alguma coisa. Antes de escrever um capítulo novo, localize em que parte ele cai — se não couber em nenhuma, é porque ele começa uma.
 >
 > **Esta é a fonte da verdade estrutural.** Os intervalos abaixo são exatamente os do menu lateral (`docs/.vitepress/config.ts`). Se um dia divergirem, o menu está certo e este arquivo está velho — é o menu que o leitor navega.
 
@@ -14,7 +14,7 @@ description: "A estrutura da saga: três livros, vinte e quatro partes, do prime
 
 ```mermaid
 timeline
-    title Ecos de Baía Cinzenta — 238 capítulos, 3 livros, 24 partes
+    title Ecos de Baía Cinzenta — 239 capítulos, 3 livros, 24 partes
     section Livro 1 · O Dilúvio (caps 1-104)
         Partes I-VI · caps 1-27 : Olhos de Vidro : A voz sem corpo : O Gamemaster usa o rosto do pai
         Partes VII-IX · caps 28-55 : A Torre cai : O céu quebra : Torre do Relógio
@@ -78,7 +78,7 @@ timeline
 | XXI | 185–199 | O Verdor Metálico | O Arquivo, a biomassa e o encontro com Elias |
 | XXII | 200–217 | O Poço do Abismo | Oitocentos metros até a porta de chumbo |
 | XXIII | 218–225 | **Arca Zero** | A fita de admissão do pai; Gabo deixa a armação externa, preserva o braço fraturado e enfrenta o luto |
-| XXIV | 226–236 | **A Rubrica** | Elena volta com as prensas; Krell é exposto; Elena destrói a subestação da Aeterna e morre heroicamente; a fita cassete e o enterro |
+| XXIV | 226–236 | **A Rubrica** | Elena volta com as prensas; Krell é exposto; **Marco recusa a certificação do índice (233.5)**; Elena destrói a subestação da Aeterna e morre heroicamente; a fita cassete e o enterro |
 
 ## ⏳ Linha do tempo dos personagens
 
@@ -86,7 +86,7 @@ Quem entra, quem sai e quem morre. Barras cortadas indicam ausência do palco, n
 
 ```mermaid
 gantt
-    title Presença dos personagens ao longo dos 238 capítulos
+    title Presença dos personagens ao longo dos 239 capítulos
     dateFormat X
     axisFormat cap %s
     section Núcleo
@@ -103,6 +103,7 @@ gantt
     Elena — na cidade                    :done, 17, 112
     Elena — fora da cúpula               :crit, 113, 225
     Marco (o rival)                      :active, 4, 172
+    Marco (o administrador sem carimbo)  :crit, 233, 236
     Clara (a reconstrução)               :active, 29, 160
 
     section Antagonistas
@@ -110,7 +111,8 @@ gantt
     O Gamemaster (arma de Krell)         :done, 14, 31
     O Taxidermista                       :done, 3, 170
     Dra. Elara Vance — Aeterna           :done, 13, 112
-    Dra. Elara Vance — no berço          :crit, 113, 225
+    Dra. Elara Vance — no berço, fora de cena :crit, 113, 217
+    Dra. Elara Vance — de volta ao arquivo    :active, 218, 236
 
     section Baixas
     Roberto Miranda (destruído 103)      :done, 1, 103
