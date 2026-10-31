@@ -10,7 +10,7 @@ sem resumir o que acabou de acontecer?). O relatório completo fica em
 A triagem é heurística: ela marca fórmulas de abertura ("o silêncio não era X; era Y"),
 travessias no fecho, resumos de percepção e fechos longos. Uma nota baixa não reescreve
 um capítulo sozinha; ela só indica onde a leitura manual começa. Dos 44 capítulos
-marcados na primeira passada, 22 continuam marcados - quase todos por abertura longa,
+marcados na primeira passada, 19 continuam marcados - quase todos por abertura longa,
 não por gancho fraco. Foram corrigidos os que tinham fecho genérico ou abertura travada
 por metadado.
 
@@ -39,9 +39,9 @@ por metadado.
 ## Evidência
 
 ```powershell
-uv run --no-sync python scripts/auditoria_ganchos.py   # 239 capítulos, 22 marcados
+uv run --no-sync python scripts/auditoria_ganchos.py   # 239 capítulos, 19 marcados
 uv run --no-sync python scripts/quality_gate.py        # 239 capítulos, 0 reprovados, média 8,9
-uv run --no-sync python -m pytest tests/ -q            # 1024 passed
+uv run --no-sync python -m pytest tests/ -q            # 1025 passed
 git diff --check                                       # sem erro de espaço
 ```
 

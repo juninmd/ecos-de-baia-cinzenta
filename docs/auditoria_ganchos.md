@@ -28,8 +28,8 @@
 | 21 | 2/5 | 4/5 | abertura longa (60 palavras) |
 | 22 | 3/5 | 3/5 | - |
 | 23 | 3/5 | 3/5 | - |
-| 24 | 1/5 | 3/5 | fórmula de abertura (silêncio/chuva/cheiro 'não era') |
-| 25 | 1/5 | 3/5 | fórmula de abertura (silêncio/chuva/cheiro 'não era') |
+| 24 | 3/5 | 3/5 | - |
+| 25 | 2/5 | 3/5 | nenhum nome próprio |
 | 26 | 3/5 | 3/5 | - |
 | 27 | 3/5 | 3/5 | - |
 | 28 | 3/5 | 3/5 | - |
@@ -87,7 +87,7 @@
 | 78 | 3/5 | 3/5 | abertura longa (65 palavras), abre com fala |
 | 79 | 4/5 | 3/5 | abertura longa (64 palavras), abre com fala, tem marca concreta de tempo/espaço |
 | 80 | 4/5 | 3/5 | abre com fala |
-| 81 | 5/5 | 4/5 | abre com fala, tem marca concreta de tempo/espaço |
+| 81 | 4/5 | 4/5 | tem marca concreta de tempo/espaço |
 | 82 | 4/5 | 2/5 | abre com fala, fecha em travessia/saída |
 | 83 | 3/5 | 4/5 | abertura longa (158 palavras), abre com fala |
 | 84 | 5/5 | 3/5 | abre com fala, tem marca concreta de tempo/espaço |
@@ -217,7 +217,7 @@
 | 208 | 2/5 | 3/5 | abertura longa (80 palavras) |
 | 209 | 2/5 | 3/5 | abertura longa (66 palavras) |
 | 210 | 2/5 | 3/5 | abertura longa (75 palavras), fecho longo (47 palavras) |
-| 211 | 0/5 | 4/5 | fórmula de abertura (silêncio/chuva/cheiro 'não era'), nenhum nome próprio |
+| 211 | 3/5 | 4/5 | - |
 | 212 | 3/5 | 3/5 | - |
 | 213 | 2/5 | 3/5 | abertura longa (58 palavras) |
 | 214 | 2/5 | 3/5 | abertura longa (79 palavras) |
@@ -245,7 +245,7 @@
 | 235 | 2/5 | 3/5 | nenhum nome próprio |
 | 236 | 3/5 | 3/5 | - |
 
-**22 capítulos com gancho fraco (soma <= 4).**
+**19 capítulos com gancho fraco (soma <= 4).**
 
 - `capitulo-216` — abertura 1/5, fecho 2/5: abertura longa (65 palavras), nenhum nome próprio, fecho longo (64 palavras)
 - `capitulo-111` — abertura 2/5, fecho 2/5: nenhum nome próprio, fecho longo (50 palavras)
@@ -265,7 +265,4 @@
 - `capitulo-204` — abertura 2/5, fecho 2/5: nenhum nome próprio, fecho longo (55 palavras)
 - `capitulo-205` — abertura 2/5, fecho 2/5: abertura longa (79 palavras), fecho longo (48 palavras)
 - `capitulo-206` — abertura 2/5, fecho 2/5: abertura longa (88 palavras), fecho longo (73 palavras)
-- `capitulo-211` — abertura 0/5, fecho 4/5: fórmula de abertura (silêncio/chuva/cheiro 'não era'), nenhum nome próprio
 - `capitulo-230` — abertura 2/5, fecho 2/5: abertura longa (97 palavras), fecho longo (46 palavras)
-- `capitulo-24` — abertura 1/5, fecho 3/5: fórmula de abertura (silêncio/chuva/cheiro 'não era')
-- `capitulo-25` — abertura 1/5, fecho 3/5: fórmula de abertura (silêncio/chuva/cheiro 'não era')

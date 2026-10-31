@@ -238,7 +238,7 @@
 | Capítulo 154: A Otimização do Abismo | 1573 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 76: A Sombra do Meio-Dia | 1623 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 3: Teatro de Carne | 1626 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
-| Capítulo 48: Fantasma na Máquina | 1660 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
+| Capítulo 48: Fantasma na Máquina | 1661 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 234: O Fio Cortado | 1681 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 56: O Preço do Amanhã | 1699 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
 | Capítulo 70: O Expurgo | 1699 | 2 | 2 | 2 | 2 | 2 | **10** | ⭐ obra-prima | — |
