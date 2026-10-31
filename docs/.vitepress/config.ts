@@ -12,6 +12,16 @@ import { withMermaid } from 'vitepress-plugin-mermaid'
 const base = process.env.VITEPRESS_BASE || '/'
 
 export default withMermaid(defineConfig({
+  // Dossiês editoriais contêm o desfecho do livro e notas de revisão. Sem esta
+  // lista, o VitePress publica todo .md de docs/ e eles viram páginas
+  // alcançáveis por URL, mesmo sem link no menu.
+  srcExclude: [
+    'comparativo_literario.md',
+    'parecer_revisao.md',
+    'plano_personagens.md',
+    'auditoria_repeticao.md',
+    'auditoria_tiques.md',
+  ],
   buildEnd: ({ outDir }) => stripDiagramHints(outDir),
   transformPageData: (pageData) => {
     const image = pageData.frontmatter.image
