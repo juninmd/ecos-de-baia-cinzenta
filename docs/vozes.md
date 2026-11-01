@@ -1,3 +1,8 @@
+---
+pageClass: pagina-larga
+aside: false
+---
+
 # Vozes do elenco
 
 Cada personagem tem uma identidade sonora única: a trinca *voz, ritmo e tom* nunca se repete

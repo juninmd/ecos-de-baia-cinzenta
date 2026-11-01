@@ -15,7 +15,6 @@
 }
 
 .vp-doc :focus-visible,
-.chapter-navigation button:focus-visible,
 .fab-btn:focus-visible,
 .font-btn:focus-visible {
   outline: 3px solid var(--neon-cyan, #06b6d4);
@@ -34,15 +33,6 @@
 
   .vp-doc p {
     line-height: 1.82;
-  }
-
-  .chapter-navigation {
-    gap: 0.75rem;
-  }
-
-  .chapter-nav-btn {
-    min-height: 44px;
-    padding-inline: 0.8rem;
   }
 
   .reader-fab {
@@ -65,4 +55,55 @@
     animation-iteration-count: 1 !important;
     transition-duration: 0.01ms !important;
   }
+}
+
+/* Título de capítulo longo não estoura a coluna nem vira bloco de 4 linhas no celular. */
+.vp-doc h1 {
+  font-size: clamp(1.7rem, 1.1rem + 2.2vw, 2.6rem);
+  overflow-wrap: anywhere;
+  line-height: 1.15;
+}
+
+/* Tabela larga rola dentro de si mesma em vez de cortar colunas (ex.: Amostra em Vozes). */
+.vp-doc table {
+  display: block;
+  max-width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.vp-doc audio {
+  display: block;
+  width: 100%;
+  min-width: 220px;
+  max-width: 320px;
+  height: 36px;
+  margin-bottom: 0.4rem;
+}
+
+/* Páginas de tabela (Vozes, Arcos) usam a largura útil da tela. */
+.pagina-larga .VPDoc .container,
+.pagina-larga .VPDoc .content-container,
+.pagina-larga .VPDoc .content {
+  max-width: min(1120px, 100%) !important;
+}
+
+/* Paginador padrão (anterior/próximo) no tema neon, com área de toque confortável. */
+.VPDocFooter .pager-link {
+  min-height: 64px;
+  border-color: rgba(168, 85, 247, 0.3);
+  background: linear-gradient(135deg, rgba(168, 85, 247, 0.1), rgba(6, 182, 212, 0.05));
+  transition: border-color 0.25s ease, box-shadow 0.25s ease, transform 0.25s ease;
+}
+
+.VPDocFooter .pager-link:hover {
+  border-color: var(--neon-purple, #a855f7);
+  box-shadow: 0 4px 20px rgba(168, 85, 247, 0.3);
+  transform: translateY(-2px);
+}
+
+.VPDocFooter .pager-link .desc {
+  font-size: 0.7rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
 }
