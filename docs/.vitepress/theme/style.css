@@ -5,7 +5,7 @@
 /* ---------- CSS Variables (Design Tokens) ---------- */
 :root {
   /* Typography */
-  --vp-font-family-base: "Merriweather", "Georgia", serif;
+  --vp-font-family-base: "Literata", "Georgia", serif;
   --vp-font-family-display: "Orbitron", "Rajdhani", sans-serif;
   --vp-font-family-mono: "Fira Code", monospace;
 
@@ -88,12 +88,11 @@
 /* ---------- Typography ---------- */
 .vp-doc p {
   text-align: justify;
-  line-height: 1.95;
-  font-size: 1.18rem;
-  margin-bottom: 1.6em;
-  font-weight: 300;
-  font-family: "Merriweather", serif;
-  letter-spacing: 0.015em;
+  line-height: 1.8;
+  font-size: 1.12rem;
+  margin-bottom: 1.5em;
+  font-weight: 400;
+  font-family: "Literata", serif;
   color: var(--vp-c-text-1);
 }
 
@@ -106,7 +105,6 @@
 
 .dark .vp-doc p {
   color: rgba(255, 255, 255, 0.90);
-  text-shadow: 0 0 1px rgba(0, 0, 0, 0.5);
 }
 
 /* Heading Typography - Now with GLOW */
@@ -305,7 +303,7 @@
 
 .dark .VPHero .tagline {
   color: var(--vp-c-text-2);
-  font-family: "Merriweather", serif;
+  font-family: "Literata", serif;
   font-style: italic;
 }
 
@@ -570,8 +568,12 @@
     margin: 1.5rem 0;
   }
 
+  /* Capitular flutuante: letra grande inline estica só a primeira linha. */
   .vp-doc p:first-of-type::first-letter {
-    font-size: 3em;
+    float: left;
+    font-size: 3.1em;
+    line-height: 0.82;
+    padding: 0.06em 0.1em 0 0;
   }
 
   .dark .VPHero::before {
@@ -676,7 +678,7 @@ body.reader-mode-active .vp-doc p {
   text-align: justify;
   font-size: 1.25rem;
   line-height: 1.8;
-  font-family: "Merriweather", serif;
+  font-family: "Literata", serif;
 }
 
 /* Quem pede menos movimento no sistema não recebe animações nem transições */

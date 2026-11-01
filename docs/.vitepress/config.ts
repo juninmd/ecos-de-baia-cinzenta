@@ -42,7 +42,7 @@ export default withMermaid(defineConfig({
   head: [
     ['link', { rel: 'preconnect', href: 'https://fonts.googleapis.com' }],
     ['link', { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' }],
-    ['link', { href: 'https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300&family=Orbitron:wght@400;500;600;700&family=Playfair+Display:wght@700&family=Rajdhani:wght@400;500;600;700&display=swap', rel: 'stylesheet' }],
+    ['link', { href: 'https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500&family=Literata:ital,opsz,wght@0,7..72,400..700;1,7..72,400..700&family=Orbitron:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,700;1,400&family=Rajdhani:wght@400;500;600;700&display=swap', rel: 'stylesheet' }],
     ['meta', { name: 'theme-color', content: '#0a0a0f' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black-translucent' }],
@@ -78,6 +78,13 @@ export default withMermaid(defineConfig({
       { text: 'Sobre o Autor', link: '/sobre-o-autor' }
     ],
     sidebar: sidebar,
+    docFooter: { prev: 'Capítulo anterior', next: 'Próximo capítulo' },
+    outline: { label: 'Nesta página' },
+    returnToTopLabel: 'Voltar ao topo',
+    sidebarMenuLabel: 'Menu',
+    darkModeSwitchLabel: 'Tema',
+    lightModeSwitchTitle: 'Mudar para o tema claro',
+    darkModeSwitchTitle: 'Mudar para o tema escuro',
     socialLinks: [
     ]
   },

@@ -1,4 +1,5 @@
 ---
+pageClass: pagina-larga
 title: "Arcos e Linha do Tempo"
 description: "A estrutura da saga: quatro livros, vinte e sete partes, do primeiro corpo na chuva à sentença e às oito portas."
 
