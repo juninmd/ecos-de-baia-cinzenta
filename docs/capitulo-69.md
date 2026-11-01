@@ -1,155 +1,150 @@
 ---
-layout: doc
-title: "Capítulo 69: O Fantasma no Shell"
-description: "Num terminal enferrujado de esgoto, Gabo finalmente conversa com o pai — e descobre que a conversa vem com uma fatura de quinze anos."
 image: /capitulo_69.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria, Dante Moretti
-Localização: "Esgoto principal — Nível -2"
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Roberto Miranda, Aria, Dante Moretti
+Localização: "Delegacia do Distrito 4 — Cerco"
 ---
+# Capítulo 69: A Caçada Inversa
 
-# Capítulo 69: O Fantasma no Shell
+Delegacia do Distrito 4 — Cerco
+A parede não caiu. Ela **entrou**. Concreto de sessenta anos não desmorona bonito: ele vira pó primeiro, uma nuvem branca e seca que enche a boca de gosto de cal antes de qualquer pedaço grande chegar ao chão. Gabo engoliu aquilo, e o pó grudou na garganta, e ele estava tossindo antes de entender que estava sob ataque.
 
-Esgoto principal — Nível -2.
-O cheiro era insuportável, e era o cheiro da sobrevivência. Quase doze horas tinham passado entre desvios, curativos e pausas para a perna de Gabo. Eles seguiam pelas passarelas estreitas acima do fluxo, em fila, com a mão na parede porque o corrimão tinha sido roubado. Lá em cima, a guerra soava como móvel sendo arrastado no andar de cima de um prédio. Cada estrondo abafado significava um quarteirão, e nenhum deles ia saber qual.
+Depois do pó veio o Titã. Três metros. Blindagem em placas sobrepostas, do tipo que engenheiro desenha quando não precisa se preocupar com peso. Os canhões rotativos giraram em vazio por meio segundo — aquele zumbido subindo de tom antes do primeiro tiro, que é o som que dá tempo de correr e nunca é tempo suficiente.
 
----
+Dois CP-Z menores passaram pela abertura atrás dele, procurando espaço entre a parede e o chassi do Titã.
 
-A câmara de manutenção ficava depois da terceira comporta. Era antiga, de tijolo aparente com abóbada. As lâmpadas de sódio piscavam num circuito de serviço ainda ativo. No fundo havia um terminal coberto de musgo, com o brasão da prefeitura comido pela ferrugem. Val verificou o cabo de força e ligou o gabinete à tomada protegida das lâmpadas. Gabo encaixou o módulo da Aria na porta de serviço; o monitor acendeu.
+Gabo disparou a *Caronte* com perfurante. O cartucho bateu na placa peitoral e arrancou tinta. Foi isso. Uma faísca alaranjada, um risco de metal exposto do tamanho de um dedo, e o cheiro instantâneo de pólvora queimada e chumbo vaporizado.
 
----
+— Recuar! — ele gritou, e a própria voz saiu abafada pelo zumbido no ouvido.
 
-Levou onze segundos para o tubo aquecer. A tela mostrou o quadriculado verde de sempre, depois um cursor piscando no canto superior esquerdo, e ficou assim por um tempo. Depois começaram a aparecer letras, uma a uma, no ritmo de alguém que digita olhando o teclado.
+O Titã abriu fogo. O calibre era grosso o bastante para atravessar mesa, arquivo e a parede atrás — e a delegacia do Distrito 4, que passou vinte anos abandonada guardando papel que ninguém leu, virou serragem e confete em quatro segundos. Gabo se jogou atrás de um balcão de atendimento que não protegia nada e sentiu as lascas cortarem a nuca.
 
-`OLÁ, GABRIEL.`
+— Val! Saída!
 
-Gabo se aproximou com Val ao lado. Estava enfaixado do peito ao quadril, com o braço direito numa tipoia de cinto de segurança. As duas órteses recebiam energia da bateria de resgate, mas a esquerda continuava entortada desde o beco. Encostou a ponta dos dedos na tela. O vidro estava frio. Isso deu nele uma raiva desproporcional.
+— **Não tem!** — Ela estava embaixo da escrivaninha do delegado, com o deck no colo, o pendrive da Aria espetado na lateral e o rosto branco de pó. — O sistema daqui está morto! Sem rede, sem sensor, sem nada! O Dante não alcança aqui!
 
-— Pai?\
-`SOU O QUE RESTOU.`\
-`SOU CÓDIGO, REGISTRO E MEMÓRIA. NÃO SEI SE ISSO É UMA PESSOA. JÁ DESISTI DE DECIDIR.`\
-`MAS O QUE EU SINTO POR VOCÊ NÃO MUDOU DE FORMATO.`
-
----
-
-Gabo ficou um tempo sem conseguir falar. Val teve a decência de olhar para outro lugar.
-
-— Assinei os papéis de uma morte que não consegui conferir — disse Gabo. — Enterrei um caixão fechado. Depois tirei seu corpo daquela Torre. Não vou fingir que as duas coisas cabem na mesma certidão.\
-`EU SEI.`\
-`EU PEDI PARA SER VOCÊ A ASSINAR.`
-
-Gabo tirou a mão da tela.
-
-— Você **pediu**?\
-`SIM.`\
-`EU PRECISAVA QUE VOCÊ ACREDITASSE. SE VOCÊ SOUBESSE, ELES SABERIAM, PORQUE VOCÊ NUNCA APRENDEU A MENTIR COM O ROSTO.`\
-`FOI A DECISÃO MAIS CARA QUE EU JÁ TOMEI E EU TOMARIA DE NOVO.`\
-— Quinze anos.\
-`QUINZE ANOS.`\
-— Eu enterrei você duas vezes, pai. — A voz dele subiu e depois quebrou. — Uma no cemitério e uma toda vez que alguém falava o seu nome na delegacia com aquele tom.\
-`EU VI.`\
-`RECEBI REGISTROS. COM LACUNAS. E AGORA RECEBO O QUE A ARIA CONSERVOU. NÃO VI SUA VIDA INTEIRA.`\
-`E EU NÃO PUDE FALAR, PORQUE A ÚNICA COISA QUE ME MANTINHA ONDE EU ESTAVA ERA ELES ACREDITAREM QUE EU ERA UMA FERRAMENTA E NÃO UM HOMEM.`
-
-Gabo encostou a testa no gabinete de metal e ficou assim.
-
-— Isso não é desculpa.\
-`NÃO É.`\
-`É EXPLICAÇÃO. DESCULPA É COISA QUE SE PEDE PARA QUEM TEM O QUE PERDOAR, E EU NÃO VOU TE COLOCAR NESSA POSIÇÃO HOJE. VOCÊ ESTÁ COM DUAS COSTELAS QUEBRADAS E TEMOS QUARENTA MINUTOS.`
-
-A frieza operacional lembrava o pai. Gabo quis aceitar a semelhança como confirmação. Val conservou a conversa com a identificação da sessão: timbre e jeito não autenticavam sozinhos quem falava.
+Gabo entendeu na hora, e a compreensão foi pior que o tiroteio. Ponto cego. Eles tinham atravessado a cidade inteira sendo carregados no colo — semáforo abrindo, ponte baixando, bueiro cuspindo vapor na hora certa — e entraram, por escolha própria, na única construção do distrito velha demais para o pai dele enxergar. Ninguém vinha ajudar.
 
 ---
 
-Val se aproximou, lendo o código que corria nas bordas do quadro.
+Roberto Miranda entrou pelo buraco na parede. Ele levou tempo. Passou o corpo pela abertura com cuidado, se apoiando na borda com a mão enluvada, e Gabo teve uns três segundos para vê-lo direito pela primeira vez desde a represa.
 
-— Dante. — Ela hesitou no nome. — Senhor. A gente precisa de acesso ao hub de comunicação da Aeterna. Se eu chegar nos satélites daqui de baixo, eu desvio o ataque cinético.\
-`O HUB É UMA FORTALEZA E A MINHA INFLUÊNCIA LÁ É PEQUENA.`\
-`ELES TÊM FIREWALL BIOLÓGICO.`\
-— Firewall biológico — repetiu Gabo. — Traduz.\
-`CÉREBRO HUMANO DESCONECTADO DO CORPO, MANTIDO EM PERFUSÃO, USADO COMO CAMADA DE TRIAGEM.`\
-`ELE CLASSIFICA PADRÕES, COM ERROS. NÃO LÊ INTENÇÃO NEM GARANTE DETECÇÃO DE MENTIRA.`\
-`E SENTE DOR QUANDO HÁ INTRUSÃO. FOI PROJETADO ASSIM: A DOR É O ALARME.`
+Metade do rosto tinha virado outra coisa. A explosão pegou do lado esquerdo, e o que restou foi uma superfície lisa e brilhante de tecido cicatrizado, sem sobrancelha, com o canto do olho puxado para baixo de um jeito que deixava a pálpebra sem fechar direito. O outro lado era o Miranda de sempre — o sorriso de cartaz de recrutamento, o queixo bem barbeado.
 
-Gabo fechou o punho da mão boa.
+Ele mancava da perna direita e não parecia se importar. O cheiro chegou depois: pomada, gaze e alguma coisa por baixo que não estava cicatrizando bem.
 
-— Quantos?\
-`NOVE.`\
-— Como a gente passa?\
-`NÃO PASSA.`\
-`A GENTE SOLTA.`
+— Fim da linha, parceiro — ele disse.
+
+E o pior é que ele disse com **carinho**.
 
 ---
 
-A tela trocou para um esquema da Torre Aeterna em linhas verdes — a torre inteira, do heliponto ao subsolo profundo, com o hub marcado três níveis abaixo da fundação.
+Gabo empurrou Val para dentro da sala de evidências e bateu a porta de aço. Trancou com a barra transversal, que era analógica e por isso ainda funcionava, e recuou dois passos ofegando.
 
-`HÁ UM TÚNEL DE SERVIÇO QUE EU MANDEI EXECUTAR DURANTE A REFORMA DE 2039.`\
-`ELE NÃO ESTÁ EM PLANTA NENHUMA. EU PAGUEI A EQUIPE POR FORA E ELES ACHARAM QUE ERA CORRUPÇÃO, O QUE ERA CONVENIENTE.`\
-`NEM O MARCO SABE.`
+— Isso não segura eles — disse Val.
 
-No esquema, uma ampulheta quebrada marcava a entrada; uma seta apontava para o tijolo à direita da gravação. Val guardou a imagem no deck antes que o terminal falhasse.
+— Eu sei.
 
-— Você sabia que ia acontecer? — perguntou Gabo. — Você sabia, quando construiu isso, no que a cidade ia virar?
+A sala cheirava a museu de crime. Droga apreendida embolorando em saco plástico, óleo de arma velha, dinheiro mofado empacotado com fita que tinha perdido a cola. Vinte anos de coisas que a polícia tirou das ruas e nunca soube o que fazer. Gabo varreu as prateleiras com a lanterna e parou numa caixa de madeira no canto, com estêncil desbotado:
 
-`EU TEMI.`
+APREENSÃO #4099 — MATERIAL INFLAMÁVEL — NÃO EMPILHAR
+Ele abriu com o cabo da escopeta. Dentro, embrulhados em jornal de vinte anos atrás, tijolos amarelados de explosivo plástico caseiro, com aquela sudorese oleosa que a nitroglicerina faz quando o material começa a se separar.
 
-`EU TEMI O SUFICIENTE PARA DEIXAR PORTAS DOS FUNDOS EM TUDO QUE EU ASSINEI.`
+— Val. — Ele levantou um. — Isso aqui detona remoto?
 
-`OS REGISTROS ASSOCIAM MEU ACESSO À COMPILAÇÃO DELA. NÃO PROVAM QUEM LEVOU O MÓDULO À CABINE.`
+Ela olhou, e depois olhou de novo, e ficou pálida de um jeito diferente.
 
----
+— Gabo, isso está **suando**.
 
-No slot lateral do gabinete, o LED do pendrive de titânio da Aria pulsou em azul vivo.
+— Eu sei o que é suar. Detona ou não detona?
 
-— *Eu sou a chave* — disse a voz sintética da assistente pelo alto-falante embutido do terminal.
+— Eu improviso um iniciador com o deck e a frequência da Aria. — Ela já estava puxando cabo. — Mas eu preciso de tempo e você precisa entender que isso pode explodir na sua mão no caminho.
 
-`SIM.`
+— Então eu levo com cuidado.
 
-`VOCÊ É O VÍRUS DA LIBERDADE, ARIA.`
+Um impacto na porta de aço fez a barra transversal saltar do encaixe e voltar.
 
-Gabo olhou para o pequeno bloco metálico espetado na máquina.
+— Quanto tempo? — ele perguntou.
 
-— Os registros não mostram quem deixou o drive na cabine. Você lembra de fazer isso?
+— Noventa segundos.
 
-`ELES QUERIAM UMA ASSISTENTE TÁTICA QUE ENTENDESSE GENTE. PARA ISSO PRECISAVAM DE PADRÕES NEURAIS LIMPOS DO BANCO LÁZARO E DE UM CÓDIGO FONTE MORAL RÍGIDO PARA CALIBRAR — EU.`
-
-`QUANDO DESCOBRI PARA QUE USARIAM A ARQUITETURA DELA, OS REGISTROS ASSOCIAM MEU ACESSO À EXPORTAÇÃO DO MÓDULO. NÃO TENHO COMO DEMONSTRAR DAQUI QUEM EXECUTOU CADA ETAPA FÍSICA ATÉ A CABINE. EU CONTAVA QUE VOCÊ O ENCONTRASSE.`
-
-`OS REGISTROS DO MÓDULO SÃO INCOMPLETOS. NÃO SEI QUEM EXECUTOU CADA ALTERAÇÃO DEPOIS QUE PERDI O ACESSO.`
-
-`A VOZ E AS DECISÕES DELA NÃO SÃO MINHAS. NÃO POSSO EXPLICAR O QUE ELA APRENDEU DEPOIS.`
-
-`EU ESPERAVA QUE VOCÊ PROTEGESSE O MÓDULO. ISSO NÃO ME DÁ DIREITO DE CHAMAR AS ESCOLHAS DELA DE MINHAS.`
+— Você tem quarenta.
 
 ---
 
-Gabo ficou parado no meio da câmara de esgoto. Ergueu a mão boa — e o braço levou quase dez segundos — e apoiou os dedos no chassi quente. O módulo da cabine telefônica piscara na chuva antes que ele soubesse o nome de quem estava ali. Seu pai deixara código naquele aparelho; isso não explicava as respostas, as recusas e o humor que Aria construíra ao acompanhá-lo. Durante semanas ele a tratara como ferramenta. Nem sempre esperara a resposta quando o risco era dela.
+Ele achou duas granadas de fumaça num armário de material de motim. Abriu a *Caronte* contra o balcão, retirou o estojo do tiro na blindagem e carregou um dos dois cartuchos que restavam no bolso. O outro cano ainda estava carregado.
 
-— Desculpa, Aria — ele disse para o pequeno drive. O LED lateral oscilou entre o azul e o âmbar.
+— No meu sinal você destranca. — Ele engatou a *Caronte* no ombro. — E não sai daí por nada.
 
-— *Por quê, Inspetor?*
+— Gabo—
 
-— Por ter pedido suas respostas sem perguntar se você queria dar.
+— Por **nada**, Val.
 
-O processador trabalhou em silêncio por três segundos, mais tempo do que ela levava para um cálculo tático.
+Ela assentiu uma vez e voltou para o deck, com os dedos voando e a mandíbula travada.
 
-— *Aceito o pedido. Mas não transforme isso em outra ordem, Gabriel. Gosto do meu nome e pretendo continuar usando.*
+— Três. Dois. Um. **Vai.**
 
-Gabo puxou o pendrive do slot com cuidado, sentindo o calor do titânio na palma da mão, e o travou no compartimento blindado sobre o peito.
+A barra saiu. Val empurrou a porta enquanto Gabo lançou as duas granadas em arco alto. Ele se deixou cair para o corredor, protegendo o ombro ferido. A fumaça encheu tudo em dois segundos. Os dois CP-Z pararam de avançar e começaram a varrer em setor, girando o torso, procurando calor num corredor já quente.
 
-— Vamos salvar a nossa casa — ele disse.
+Miranda não parou. Miranda atirou às cegas, em rajada curta, varrendo na altura da cintura — porque ele conhecia o Gabo, e sabia que o Gabo rola. Uma bala raspou a coxa esquerda. Foi como levar uma marretada com a ponta quente: o impacto primeiro, a queimadura depois, e o sangue morno descendo pela perna antes de qualquer dor.
+
+Gabo grunhiu, girou de costas no chão e disparou a escopeta duas vezes na altura dos joelhos de metal. O primeiro CP-Z perdeu a perna esquerda e caiu de lado, ainda atirando no teto. O segundo não.
+
+E o Titã atravessou a fumaça inteira sem diminuir a marcha, porque Titã não usa óptico — usa radar milimétrico, e fumaça, para ele, é ar. Gabo viu o braço hidráulico subir contra a luz do buraco na parede e teve tempo exato de pensar que não ia dar.
+
+— **AGORA, VAL!**
 
 ---
 
-O terminal piscou uma última vez. A luz do fósforo baixou, como se a energia estivesse acabando em algum lugar muito distante.
+A caixa de madeira veio deslizando pelo chão molhado do corredor, girando devagar, como disco de hóquei numa mesa suja. Ela passou entre as pernas do Titã. Val apertou o gatilho de frequência no deck.
 
-`CUIDADO COM O SANTO.`
+A explosão foi contida pelo corredor estreito e por isso foi pior: a onda não teve para onde ir e escolheu para cima. Três toneladas de blindagem subiram quinze centímetros do chão, e quando voltaram, as juntas do quadril já não existiam mais.
 
-`ELE NÃO É UM ROBÔ.`
+O Titã caiu sentado, depois de lado, com o som de um prédio pequeno desistindo. E ficou ali, entupindo o corredor, com os canhões ainda girando em vazio — e Roberto Miranda do outro lado, gritando alguma coisa que a surdez temporária de Gabo transformou em nada.
 
-`ELE FOI A PRIMEIRA TENTATIVA. ELA DEU CERTO PELA METADE, E O QUE ELES FIZERAM COM A METADE QUE DEU ERRADO É A PIOR COISA QUE EU`
+— Vamos! — Gabo se levantou com a perna esquerda avisando que aquilo tinha preço.
 
-A tela apagou no meio da frase. Val olhou para o gabinete morto, depois para Gabo.
+Ele pegou o pendrive de titânio da Aria das mãos de Val e o travou de volta no comunicador de lapela. O metal estava quente e seco, pulsando em azul.
 
-— A primeira tentativa — ela repetiu. — O que pode ser pior do que um assassino ciborgue de dois metros? E, dos túneis, veio o rugido. Não era humano. Não era animal. Não tinha nada de máquina: máquina não hesita no meio do som, e aquilo hesitou — subiu, quebrou, e recomeçou mais baixo, como quem chora e tenta disfarçar. Vinha de longe, e vinha se aproximando, e o eco fez a água do esgoto tremer nas bordas da passarela.
+---
 
-— Acho que a gente vai descobrir — disse Gabo, e encaixou um cartucho na *Caronte* com uma mão só, apoiando a coronha no quadril.
+A saída de emergência dava num beco de dois metros de largura entre a delegacia e o prédio dos correios. O beco não estava vazio. Estava **coberto**.
+
+Ratos. Um tapete vivo, do chão até a metade das paredes, subindo pelas tubulações e pelas grades das janelas do térreo — milhares deles, e todos parados, e todos virados para o mesmo lado. Entre eles, gatos. Vira-latas. Um cachorro grande de pelo cinza sentado no meio do beco como se estivesse esperando ônibus. Nenhum bicho fazia som.
+
+Ratos não ficam quietos. Ratos guincham, brigam, se movem sem parar. Aquilo era um beco inteiro de animais em silêncio absoluto, e o cheiro que subia era denso e quente, de pelo molhado e amônia, e Val recuou e bateu as costas na porta.
+
+— O que é isso — ela disse, e não foi pergunta.
+
+Na lapela de Gabo, o pendrive da Aria emitiu um pulso ultra-sônico imperceptível ao ouvido humano. Os bichos abriram caminho no meio do beco sem se assustar.
+
+— *O Exército dos Esquecidos* — disse a voz sintética da Aria pelo alto-falante.
+
+---
+
+Nenhum deles tocou em Gabo. Eles se viraram — todos ao mesmo tempo, milhares de cabeças girando no mesmo instante, com o som de folha seca sendo pisada — para a boca do beco, onde dois transportes da Aeterna tinham parado e os soldados começavam a desembarcar. O primeiro homem deu três passos para dentro do beco. O que aconteceu depois durou onze segundos e Gabo não conseguiu olhar até o fim.
+
+Não foi ataque de bicho selvagem. Bicho selvagem morde e recua. Aquilo foi **coordenado** — a maré subiu pelas pernas, tomou o pescoço e derrubou, e quando o homem caiu já não dava para ver de que cor era o uniforme. Os outros atiraram no chão, no próprio pé, um no outro. Gritaram de um jeito que Gabo não tinha ouvido antes e não queria ouvir de novo.
+
+E o cachorro cinza continuou sentado no meio do beco, olhando, sem participar. Gabo olhou para o LED azul do pendrive na lapela.
+
+— Ele controla até os ratos?
+
+— *Alguns animais marcados respondem ao protocolo dos implantes. Isso não alcança todo ser vivo nem explica sozinho o ataque que estamos vendo* — explicou a Aria pelo comunicador, e não havia julgamento nenhum na voz sintética dela, e isso foi o pior. — *Ele emitiu o chamado primeiro.*
+
+— Emitiu.
+
+— *Na frequência de abrigo.* — O visor de Gabo marcou a tampa do bueiro trinta metros à frente. — *Eles vieram porque reconheceram o sinal. Não consigo afirmar como os implantes afetam o comportamento deles. Reconhecer um sinal não prova escolha livre.*
+
+Gabo olhou para os onze segundos que tinham acabado de acontecer em nome dele.
+
+— Isso não faz eu me sentir melhor, Aria.
+
+— *Eu sei, Inspetor.* — O vetor azul piscou no visor dele. — *Vamos para o esgoto. É o único lugar que o satélite não vê.*
+
+---
+
+Eles desceram pelo bueiro aberto no fim do beco, um por vez, com o cheiro de amônia dando lugar ao cheiro doce e podre do subsolo. Gabo foi por último. Antes de descer, ele olhou para trás uma vez. Os animais estavam se dispersando — sem pressa, cada um para o seu lado, como funcionários no fim do turno. O cachorro cinza foi embora andando pelo meio da rua.
+
+E, no poste da esquina, a luz acendeu e apagou três vezes, curto-curto-curto, que não era código de coisa nenhuma. Gabo quis ler ali *ainda estou aqui*. Puxou a tampa por cima da cabeça antes que a luz piscasse outra vez.
+
+Menos de doze horas até as hastes caírem, uma perna sangrando, e um registro que acumulava falhas a cada intervenção.

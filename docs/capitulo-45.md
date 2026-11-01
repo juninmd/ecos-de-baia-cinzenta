@@ -1,136 +1,148 @@
 ---
+layout: doc
+title: "Capítulo 45: O Que Saiu do Ralo"
+description: "Dois cartuchos, cinco criaturas e uma escolha entre duas caixas. No depósito da Alfândega, Gabo descobre o que a Aeterna fazia com quem sobrava."
 image: /capitulo_45.jpg
-Personagens Presentes: Arthur Vance
-Localização: "Ponto Zero — Fossa Oceânica, 200 km da costa. Profundidade: 4.000 metros"
----
-<!-- markdownlint-disable MD026 -->
-
-# Capítulo 45: Protocolo N.O.A.
-
-Ponto Zero — Fossa Oceânica, 200 km da costa. Profundidade: 4.000 metros.
-A quatro mil metros não existe escuro. Existe **peso**.
-
-A pressão ali é de quatrocentas atmosferas: quatrocentas vezes a mão do mundo empurrando cada centímetro de casco, o tempo inteiro, sem descanso, há vinte e sete anos. O aço da Arca N.O.A. respondia a isso do único jeito que aço responde — gemendo. Um lamento grave e contínuo, abaixo do que ouvido humano registra como som, que os projetistas chamaram de "assentamento estrutural" no relatório e de "a canção" quando estavam bêbados.
-
-Fora do casco, nada. Nem peixe, nem corrente, nem luz. Lodo cinza cobrindo tudo, caindo devagar como neve que leva mil anos para acumular um centímetro.
-
-E dentro, no escuro absoluto de um corredor de comando que ninguém pisava desde a entrada de Arthur em 2029, uma luz vermelha começou a piscar.
-
+Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti
+Localização: "Depósito da Alfândega, Cais Três — Nível 20"
 ---
 
-O sistema não tinha acordado por inteligência. Tinha acordado por ausência.
+# Capítulo 45: O Que Saiu do Ralo
 
-A cada seis horas, durante vinte e sete anos, a Torre Aeterna mandava um pulso. Não continha informação: era só um sinal dizendo *ainda estamos aqui*. Trinta e sete bytes. Quase quarenta mil pulsos, um atrás do outro, atravessando duzentos quilômetros de cabo submarino que ninguém sabia que existia.
+Depósito da Alfândega, Cais Três — Nível 20.
+O depósito era um labirinto de contêineres empilhados em quatro alturas, e a água tinha entrado só até o meio do primeiro nível, o que fazia daquele o lugar mais seco de Baía Cinzenta e o pior lugar do mundo. Elena prendeu o bote entre os pilares da entrada de carga. Gabo permaneceu sentado, com a perna apoiada e a Caronte sobre a borda; não atravessaria o depósito a pé. Ela seguiria pelas passarelas para buscar as caixas.
 
-O pulso das 03h14 não chegou.
+A lanterna tática dela varria o corredor entre as pilhas e não alcançava o fim. A dele estava presa no cano da *Caronte*, apontando para onde a escopeta apontava, que é como se anda quando se tem dois cartuchos e nenhuma vontade de descobrir o que há atrás da esquina. Dois cartuchos. Ele tinha checado três vezes na travessia. A quarta seria confissão.
 
-O de 09h14 também não.
+— Ali — disse Elena, baixinho. O feixe parou num contêiner marcado com uma cruz vermelha desbotada e um lacre da Alfândega. — Cruz vermelha. Suprimento médico apreendido.
 
-O sistema esperou o terceiro, porque o protocolo exigia três, e o terceiro não veio. Depois disso fez o que uma máquina antiga faz com pergunta sem resposta: continuou perguntando. Levou vinte e três dias para aceitar que não havia ninguém do outro lado.
+— Quantos daqueles você está vendo?
 
-> ERRO DE SINCRONIA.
-> TORRE CENTRAL: OFFLINE — 552h.
-> INTERPRETAÇÃO: COLAPSO DA SUPERFÍCIE.
-> PROTOCOLO DE CONTINGÊNCIA N.O.A.: ATIVADO.
-E é aqui que mora a piada, e é uma piada muito velha: a lógica estava correta e a conclusão estava errada. A Torre Aeterna não tinha caído junto com a civilização. Tinha caído porque um detetive de sobretudo bege e uma hacker de vinte e oito anos interromperam o sistema de comando da Torre ao retirar seu núcleo e sabotar a refrigeração, vinte e três dias antes.
+— Uns quarenta.
 
-A Arca não sabia disso. A Arca não podia saber nada. A Arca só sabia que o silêncio significava fim do mundo, porque um homem tinha escrito isso num documento em dois mil e vinte e alguma coisa e nunca voltou para revisar.
+— Ótimo — disse Gabo. — Então é só um trabalho de arquivo com água até o joelho.
 
----
+O telhado era de zinco e a chuva batia lá em cima num rufar constante, sem intervalo, que apagava todo o resto. Foi por isso que eles não ouviram nada até ouvir a única coisa que aquele som não conseguia cobrir: metal sendo rasgado. Não amassado. **Rasgado**, longo e agudo, como uma lata de sardinha abrindo do tamanho de uma porta. Gabo levantou a mão fechada. Os dois pararam.
 
-A câmara de estase levou onze minutos para abrir.
+O cheiro chegou depois — e era o detalhe que ia acordar Gabo de madrugada nos anos seguintes, porque não era cheiro de bicho. Bicho cheira a bicho. Aquilo cheirava a enfermaria: iodo, gaze velha e o adocicado inconfundível de pele que ficou coberta tempo demais.
 
-Devia levar quarenta segundos. Os selos hidráulicos tinham perdido pressão em algum ponto dos últimos vinte e sete anos e o mecanismo teve que forçar três vezes, com um rangido de metal contra sal cristalizado, antes de ceder.
+Alguma coisa se moveu na água à frente. O movimento estava errado. Rápido demais para o tamanho, e fluido demais para ossos — sem aquele meio segundo de decisão que todo corpo grande gasta antes de mudar de direção. Uma forma emergiu de trás de um contêiner.
 
-O líquido drenou. Cheirava a conservante, a cobre e a algo levemente adocicado, como fruta guardada tempo demais.
+Era humanoide. Pele cinza-lavada, sem pelo nenhum, esticada sobre uma caixa torácica larga demais. No pescoço, três fendas se abrindo e fechando com um estalo úmido a cada respiração. Os olhos eram inteiramente negros, sem esclera, e refletiam a lanterna como olho de peixe na feira.
 
-O homem lá dentro abriu os olhos.
+— O que é isso — sussurrou Elena.
 
-Parecia um homem de pouco mais de quarenta anos. Tinha entrado ali aos setenta e quatro, depois de tratamentos de rejuvenescimento; somava agora cento e um no calendário. A manutenção biológica e a estase haviam preservado parte do resultado, sem impedir a deterioração. O corpo recebera eletroestimulação, alimentado por sonda, com a musculatura contraída e relaxada por uma máquina em ciclos de noventa minutos durante vinte e sete anos. A pele era branca de mármore, sem uma mancha, sem uma marca de sol, porque não havia sol.
+A coisa sibilou. E foi aí, quando ela virou o rosto para a luz, que a noite deixou de ser uma noite de monstro.
 
-Ele levou a mão à garganta e arrancou os tubos com um puxão só, sem hesitar e sem demonstrar dor.
+O rosto estava distorcido, sem nariz, com a mandíbula empurrada para a frente — mas ainda era um rosto. Havia uma sobrancelha. Havia uma cicatriz antiga de cirurgia no lábio, compatível com uma cirurgia antiga de lábio. E, no ombro, uma tatuagem desbotada de tinta azul, letra cursiva, feita à mão numa banca de esquina:
 
-Depois tossiu por três minutos, de quatro no chão da câmara, cuspindo conservante nos ladrilhos.
+Mamãe.
+Vestia restos de uma túnica de paciente. O cordão ainda tinha a etiqueta de plástico, e na etiqueta havia um código, e Gabo já tinha visto aquele prefixo em papel timbrado. Ele baixou a arma um segundo perigoso.
 
-Quando parou, ficou ali um tempo, apoiado nas mãos e nos joelhos, respirando ar de verdade pela primeira vez em vinte e sete anos.
+— Meu Deus.
 
-— *Merda* — disse Arthur Vance.
+— Gabo—
 
-E riu. Uma risada rouca, de garganta destreinada, que ecoou no corredor vazio.
+— Eles não são bicho novo, Elena. — A voz saiu rouca. — A etiqueta parece usar o prefixo dos registros de pacientes da Aeterna. Pode ser alguém daquela ala. Não sei o que fizeram com essa pessoa.
+
+— E quando a água subiu... — Elena estava com a câmera na mão. Ele nem tinha visto ela sacar.
+
+— Essa pessoa sobreviveu na água.
+
+— Vou guardar a foto e o código — disse Elena. — Não sabemos ainda de onde veio.
+
+O flash disparou. E, na fração de segundo em que o depósito inteiro ficou branco, Gabo lembrou do homem da Companhia de Águas tremendo no banco de trás do Cobalt, três dias antes, dizendo *aquilo foi operado*. A simulação de Val ligava a sequência das comportas ao caminho da água pelo complexo. O prefixo podia ser outra ligação; não provava de onde essas pessoas tinham saído, nem quem operara as comportas.
 
 ---
 
-Ele caminhou nu até o terminal central, pisando descalço no lodo fino que a condensação tinha depositado no chão ao longo das décadas.
+Naquele momento Gabo teria dado o braço esquerdo para que a Elena Moretti fosse uma pessoa ligeiramente pior. O flash pintou o corredor inteiro de branco por um décimo de segundo, e no branco apareceram os outros. Três. Não: cinco. Agarrados na lateral dos contêineres a dois metros de altura, com os dedos enfiados nas nervuras da chapa, imóveis, na posição em que lagartixa espera mosquito. Eles estavam ali havia um tempo.
 
-O corpo era impecável e não sabia andar. Cada passo era um cálculo. A musculatura estava lá, perfeita, definida pela máquina, mas o cerebelo tinha passado vinte e sete anos sem praticar equilíbrio, e ele se apoiou na parede duas vezes no percurso de vinte metros.
+— Elena — disse Gabo, muito calmo. — Você fotografou.
 
-No terminal, ativou a recepção dos relés costeiros de contingência. A linha de pulso da Torre estava morta; aquelas câmeras usavam outro enlace, intermitente e sem retorno de comando.
+— Eu tinha que fotografar.
 
-E as telas mostraram Baía Cinzenta.
+— Eu sei. — Ele soltou uma amarra para afastar a proa com o remo, usando o apoio da borda. — Agora corre para a cruz vermelha e não olha para trás. Eu seguro.
 
-A enchente. A água cobrindo os diques. Os Níveis Baixos submersos, os prédios com água até o terceiro andar, os pontos de calor dos incêndios que a água não tinha alcançado, a cidade inteira transformada num arquipélago de concreto.
+— Com dois cartuchos?
 
-Arthur Vance olhou para aquilo por um longo tempo, com as mãos apoiadas no console, e o rosto dele — bonito, simétrico, com implantes de ouro subdérmicos formando uma coroa fina na testa — se abriu num sorriso genuíno de alívio.
+Ele nem virou a cabeça.
 
-— Lindo — ele disse.
+— Quem te contou?
 
-A voz era profunda e acostumada a dar ordens que mudavam o destino de nações, e não tinha perdido nada disso no sono.
-
-— Eu falei que ia acontecer. Eu **falei**.
-
-Ele passou a mão pela tela, e a imagem da cidade afogada se moveu sob os dedos dele.
-
-— Dante era mole demais. — Um nome pronunciado com desprezo prático, sem ódio. — E a minha filha era ambiciosa demais.
-
-Ele parou nessa parte.
-
-Só por um segundo. O sorriso não caiu — mas os olhos foram para outro lugar, para trás dos monitores, e ficaram lá um instante antes de voltar.
-
-— Elara — ele disse, para o próprio reflexo no vidro. — Você devia ter esperado, menina.
+— Ninguém me conta nada, Gabriel. Eu **conto** — ela disse, e foi.
 
 ---
 
-O que ele não olhou foi o painel lateral.
+A primeira saltou e Gabo não atirou. A criatura bateu na borda, e Gabo empurrou o remo atravessado contra seu rosto, usando o banco e o tronco como apoio, e a coisa bateu na chapa do contêiner com um estrondo de tambor e caiu na água. Não gritou. Levantou.
 
-Estava ali, à esquerda dele, piscando em âmbar desde o momento em que a Arca acordou. Uma coluna de trinta e oito linhas, uma por hangar, com o status de cada um.
+A segunda veio baixa, por dentro da água, e essa ele não viu chegando. Sentiu a mordida no antebraço esquerdo antes de entender que tinha alguma coisa encostada nele. Não foi uma dentada de cachorro, de fechar e soltar. Foi uma dentada de tubarão pequeno: fechou, e girou.
 
-Onze estavam verdes.
+O mundo ficou vermelho e branco por um segundo. Elena voltou ao ouvir o grito e atingiu o rosto da criatura com o gancho da amarra, permitindo que Gabo tirasse o braço. Ela soltou. Ele não olhou o braço, porque olhar o braço é como se perde tempo, e porque ele já sabia pela temperatura da manga o tamanho aproximado do problema.
 
-Nove estavam amarelos — *"integridade de casco comprometida, unidade operacional com restrição"*.
+— **PEGA A CAIXA!**
 
-Dezoito estavam vermelhos, e ao lado dos dezoito, a mesma frase repetida em maiúsculas de sistema antigo: **ALAGADO — CORROSÃO CATASTRÓFICA — SEM REPARO**.
+— Tem quatro! — gritou Elena, de algum lugar entre as pilhas. — Gabo, tem quatro caixas, tem insumos farmacêuticos, tem antibiótico, tem soro e material de suporte—
 
-O aço aguenta quatrocentas atmosferas. As juntas de vedação, não. Elas tinham vida útil projetada de vinte e cinco anos, e ninguém desceu para trocá-las, porque a operação de manutenção prevista nunca retornou. Elara conhecia o projeto; os pagamentos e as equipes que deveriam sustentá-lo tinham sido cortados longe daquele casco.
+— **QUAL É A MAIS PESADA?**
 
-Arthur Vance não olhou o painel.
+— O quê?!
 
-Ele digitou a sequência de comando que tinha escrito à mão num caderno vinte e sete anos antes, e que sabia de cor, e que ensaiou mentalmente todas as noites até a estase apagar as noites.
+— QUAL É A QUE VOCÊ NÃO CONSEGUE CARREGAR?
 
-> INICIAR FASE 2: PACIFICAÇÃO.
-> LIBERAR UNIDADES LEVIATÃ.
+Silêncio de dois segundos, o barulho da chuva no zinco, e a resposta veio no tom de quem entendeu a pergunta inteira:
+
+— O carvão.
+
+— Então deixa o carvão.
+
+Ele disse isso e ouviu a própria frase existir no mundo, e soube, com a clareza de um homem que já assinou dezenas de laudos, exatamente quantas crianças aquela frase custava. A requisição continha recursos diferentes, sem antídoto universal. Gabo não sabia o que faria falta a qual criança. Escolher pela caixa que conseguiam transportar, sem saber essa resposta, lhe pareceu uma confissão.
+
+— **O QUE CONSEGUIR LEVAR SEM MOLHAR! ANDA!**
 
 ---
 
-Lá fora, no lodo e no peso, os hangares começaram a abrir.
+Ele usou o primeiro cartucho na terceira criatura, à queima-roupa, porque ela veio de frente e ele não tinha mais braço esquerdo para bloquear. Chumbo grosso a um metro e meio faz um serviço definitivo. A coisa desabou sentada, encostada num contêiner, do jeito estranhamente humano que os corpos às vezes escolhem, e ficou ali com a cabeça pendendo e a etiqueta de plástico boiando ao lado.
 
-O protocolo de liberação consumiu dias purgando linhas e equalizando hangares. Arthur transmitiu ordens enquanto os indicadores repetiam falhas. Quando as travas cederam, onze deles abriram limpo, com explosivos de emergência estourando décadas de crosta salina numa sequência de clarões surdos que iluminaram, por três segundos, um pedaço de fundo oceânico que nunca tinha visto luz.
+Sangue azul-acinzentado se espalhou na superfície como óleo diesel. As outras pararam. Não recuaram — **pararam**. Todas ao mesmo tempo, e viraram a cabeça na mesma direção, e Gabo, que passara catorze anos aprendendo a ler um cômodo, entendeu o que estava vendo e desejou não ter entendido. Elas estavam olhando para a morta. Uma delas se aproximou do corpo, encostou a testa nele e ficou assim.
 
-Nove abriram torto, emperraram na metade e ficaram assim.
+— Ah, não — disse Gabo. — Não, não. Não faz isso.
 
-E dezoito não abriram, porque não havia mais o que abrir do outro lado — só água, ferro dissolvido e o formato do que um dia foi uma máquina de guerra anfíbia de quarenta metros, agora deitada de lado numa cama de própria ferrugem.
+Porque monstro a gente atira. Monstro não fecha o círculo em volta do corpo do outro monstro. O luto durou quatro segundos. Depois todas se viraram para ele ao mesmo tempo, e não havia mais nada de humano na coreografia daquilo.
 
-Das que saíram, três pararam antes de subir cem metros.
+---
 
-Arthur Vance viu a contagem no monitor principal — **UNIDADES EM TRÂNSITO: 08** — e não achou estranho, e não abriu o inventário que teria mostrado trinta e oito. Preferiu lembrar de "uma frota". Vinte e sete anos de estase não explicavam a escolha de ignorar o inventário. Arthur preferia a frota que lembrava à que tinha.
+Gabo manteve o segundo cartucho. Elena voltou ao comando da porta de carga por onde tinham entrado. A corrente manual estava à vista desde a entrada. Puxou-a até a folha descer entre o bote e as criaturas.
 
-Ele olhou o próprio reflexo no vidro escuro do console. A coroa de ouro sob a pele da testa captou a luz vermelha do alarme e brilhou.
+Uma delas tentou passar o braço por baixo; Elena não conseguiu ver se o recolhera quando a chapa tocou a água. Gabo soltou a última amarra. Ela alcançou o motor com duas caixas protegidas na proa. Saíram antes de conferir o que tinham deixado junto da porta.
 
-— Eu sou o dilúvio — disse o Imperador da Aeterna, para ninguém, a quatro mil metros de qualquer ouvido humano. — E eu trago a paz.
+Passaram o portão do depósito rasgando a água. Gabo ficou deitado no fundo do bote, com o braço esquerdo apertado contra o peito, olhando o teto de zinco correr para trás. Sentia a manga colada na pele e o calor saindo dela num ritmo constante que não era bom.
 
-Ele apertou **ENTER**.
+Elena olhou para o braço uma vez e não disse nada, e depois olhou para a frente e disse o que precisava ser dito, que é uma coisa que ela sempre soube fazer melhor que ele:
 
-Muito acima, oito máquinas velhas começaram a subir na direção de uma cidade que, sem ele saber, já tinha sido comida por um predador melhor — um sujeito de terno e bengala que entrou na empresa dele como estagiário do jurídico e nunca precisou de exército nenhum.
+— Duas caixas.
 
-A terra tremeu.
+— Duas caixas.
 
-E, no painel lateral que ninguém leu, a última linha mudou de âmbar para vermelho.
+— A Nise vai perguntar do carvão.
+
+— Vai.
+
+— O que você vai dizer?
+
+Gabo fechou os olhos.
+
+— A verdade. Que eu escolhi.
+
+A chuva batia na cara dele, gelada, e por um segundo pareceu limpa, o que era mentira.
+
+---
+
+Atrás deles, na entrada do depósito, as coisas subiram nos contêineres para ver o bote ir embora. Nenhuma entrou na água para perseguir. Ficaram lá em cima, as cinco restantes, uma delas sustentando o corpo de quem Gabo atingira, e Gabo se apoiou no cotovelo bom e virou o corpo para olhar, porque um detetive olha, mesmo quando não convém. Elas não estavam olhando para o bote.
+
+Estavam olhando para o norte, para o outro lado da baía, onde uma luz fraca queimava sozinha no meio da água preta: um gerador a diesel no telhado de uma delegacia, aceso a noite inteira, mantendo trezentas e sete pessoas vivas e quentes. O único lugar iluminado em quinze quilômetros.
+
+— Elena. — Gabo tossiu, e o que subiu não era só água. — Acelera.
+
+— Já está no máximo.
+
+— Então reza.

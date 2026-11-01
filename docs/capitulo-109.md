@@ -1,118 +1,137 @@
 ---
-image: /cenas/capitulo_109/cena_1.jpg
-Personagens Presentes: Inspetor Rangel, Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria, mulher e menino
-Participação por transmissão: Dante Moretti
-Localização: "Zona Portuária - Setor 4 (Em Ruínas)"
+image: /capitulo_109.jpg
+Personagens Presentes: Dante Moretti, Gabriel "Gabo" Moretti, Elena Moretti, Inspetor Rangel, Dra. Nise e vigia do cais
+Localização: "Subsolo da Delegacia da Biblioteca"
 ---
-# Capítulo 109: Frequência Fantasma
+# Capítulo 109: O Teorema da Chuva
 
-Zona Portuária - Setor 4 (Em Ruínas)
-O mundo não explodiu. O mundo simplesmente *travou*.
+Subsolo da Delegacia da Biblioteca
+A dor não era vermelha, como Gabo costumava descrever. Era branca. Um branco cegante, asséptico, como a luz da lâmpada halógena que Dante segurava sobre a perna dele.
 
-Inspetor Rangel, deitado na lama misturada com óleo, esperava o rasgar das balas de alto calibre. Ele viu o canhão giratório do drone Sentinela acelerar, viu o brilho vermelho da mira térmica travar em seu peito. Ele fechou os olhos, um reflexo inútil de quem sabe que o escudo balístico não vai aguentar.
+— O tecido humano é um design lamentável — disse Dante. Sua voz não tinha inflexão. Era a leitura de um diagnóstico. — Frágil. Inconsistente.
 
-Mas o som nunca veio.
+Gabo trincou os dentes, segurando o grito na garganta enquanto a furadeira abria a chapa externa do suporte. Aceitara o reparo mecânico depois de Nise verificar o curativo; não permitira que Dante alterasse o corpo. Sua mão direita buscou instintivamente o bolso interno, onde seus dedos se fecharam ao redor do "Colar de Sol" de Helena. O metal frio do pingente era sua única âncora na realidade.
 
-Em vez disso, um zumbido agudo, quase imperceptível, varreu o pátio de contêineres. Era como o som de uma televisão velha sendo desligada, amplificado mil vezes.
+Ele estava sentado sobre um lençol limpo numa bancada do subsolo. A órtese direita repousava na morsa, fora da perna; o peso da cinta deixara a pele ferida. Dante estava "reparando" sua órtese, mas não com a tecnologia limpa da Aeterna. Ali, na escuridão do mundo real, ele usava o que tinha: sucata.
 
-Rangel abriu um olho.
+O que doía era retirar e recolocar a cinta sobre a lesão. Gabo mandava parar, e Dante parava com uma impaciência que não tentava esconder.
 
-O drone pairava a dois metros dele, imóvel como uma mosca presa em âmbar. As luzes de navegação, antes um vermelho furioso de "Engajar", agora pulsavam em um branco leitoso e confuso. O canhão girava em falso, sem disparar, como se a máquina tivesse esquecido a ordem no meio do processo.
+— Você podia... parar de furar... — arfou Gabo, suando frio.
 
-— *Erro de sintaxe...* — a voz de Dante vazou pelo alto-falante do drone, mas não era a voz fria e onipotente de antes. Estava picotada, cheia de estática. — *Alvo... não encontrado. Alvo... redefinindo... Alvo... nulo.*
+— A integridade estrutural exige outro apoio na armação, Gabriel — respondeu Dante, apertando um parafuso recuperado com força desumana. O cheiro de metal lixado e sangue encheu o ar. — Meus recursos físicos são limitados aqui. Recuperei dois atuadores de transporte e um acumulador do almoxarifado. O circuito será externo, isolado da rede e com liberação manual. Não vai reparar a coluna.
 
-Rangel olhou para cima, para o guindaste.
+Dante parou. Ele olhou para Gabo. Seus olhos, antes tão cheios da fúria justa do velho Comissário, agora eram poços de lógica pura, analisando o trabalho grosseiro.
 
-Nada. Só a chuva ácida estalando no metal enferrujado. Ele se forçou a respirar, lembrando-se de que estava exausto, ferido e cercado por máquinas.
+— Pronto. Levante-se.
 
-Antes que Rangel pudesse processar a loucura daquela falha, uma parede de metal à esquerda deles cedeu com uma pancada. Rangel recuara do galpão até o pátio, mantendo a mulher e o menino atrás de uma mureta.
+Nise voltou para conferir a pele antes de Elena prender a cinta. Gabo testou primeiro o travamento, depois o desligamento manual. Só então desceu da mesa, apoiado nos dois lados. Quando o pé tocou o chão, o som foi pesado. *Clank*.
 
-CRAAAASH!
-Um contêiner azul foi arremessado para o lado como se fosse feito de papelão. Através da poeira e da chuva, uma besta de metal negro surgiu.
+Ele deu um passo. O servomotor recuperado gemeu alto, um som de protesto mecânico. O movimento foi brusco, forte, mas sem qualquer graça.
 
-Outro blindado de controle de distúrbio — um "Rinoceronte" retirado do posto de comando — rugiu, seu motor a diesel engasgando fuligem escura. A lataria estava amassada, marcas de garras e tiros decoravam a pintura fosca, e o farol direito estava pendurado por um fio.
+— Eficiência motora restaurada aos parâmetros mínimos — informou Dante, limpando graxa das mãos em um trapo velho. — É feio. É barulhento. É ineficiente. Uma ofensa à engenharia.
 
-A porta lateral se abriu com um chute mecânico.
+Gabo olhou para a perna. Era um amontoado de ferro e fios expostos, cicatrizes de solda bruta marcando a superfície. Uma obra de chaveiro, não de cientista.
 
-— Rangel! Entra! Agora! — A voz de Gabo era um trovão rouco.
+— Funciona — disse ele, sentindo o peso familiar do metal ruim. — Eu prefiro assim. Agora, sobre o "Silêncio".
 
-Gabo estava pendurado na porta, segurando-se com uma mão enquanto a outra empunhava a *Caronte*, sua escopeta de cano serrado. Ele parecia um demônio saído do inferno: encharcado, com o rosto manchado de graxa e sangue seco, e as órteses nas pernas chiando a cada movimento.
+Dante caminhou até o mapa holográfico projetado na mesa central. A mancha negra sobre a Zona Portuária pulsava.
 
-— Gabo? — Rangel olhou para o drone congelado no ar, depois para o blindado. — Mas o que diabos...
+— A cidade é uma equação, Gabriel. Cada cidadão, cada watt de energia, cada gota de chuva é uma variável. Quando o sistema está equilibrado, a ordem prevalece.
 
-— Sem perguntas! A "zona de silêncio" da Aria não vai durar pra sempre! — gritou Valéria do banco do motorista. Ela usava óculos de realidade aumentada conectados ao seu cyberdeck *Phantom V3*, onde um drive neural blindado — do tamanho de um pendrive pesado — pulsava freneticamente com um LED azul-intenso. — O Dante está reescrevendo o firewall dos drones em tempo real! Temos trinta segundos antes que eles reiniciem como *kamikazes*!
+Ele apontou para o porto.
 
-Val parou a porta ao lado da mureta. Rangel passou primeiro o menino, ajudou a mulher a entrar e só então se puxou pelo corrimão. Caiu sobre o piso de chapa lavrada. Gabo cobriu a porta até fecharem.
+— Aquilo é uma divisão por zero. Uma área onde meus sensores não entram. Onde a lógica falha.
 
-— Pela doca do peixe! — gritou ele, de quatro. — Tem um portão de serviço atrás do frigorífico. Chave analógica, tarugo de latão. Máquina nenhuma abre aquilo, mas eu carrego essa chave no bolso há onze anos. — Ele engoliu antes de continuar. — A mulher e o menino vão precisar de abrigo. Não deixa a gente voltar para a frequência do Dante.
+— Talvez seja apenas gente tentando se esconder — sugeriu Gabo. — Gente com medo de você.
 
-Val não perguntou como ele sabia. Virou o volante.
+— O medo é calculável. O que está lá não é medo. É... nulidade. — Dante estreitou os olhos. — Detectei padrões de interferência. Alguém construiu uma Jaula de Faraday em escala urbana. Eles estão bloqueando a "Voz da Cidade". E o que não pode ser monitorado, não pode ser controlado.
 
-— Vai, Val! Tira a gente daqui! — Gabo bateu na lataria.
+Dante virou-se para a porta.
 
-O Rinoceronte deu um solavanco violento. Valéria girou o volante, e as seis rodas de tração morderam a lama. O veículo girou 180 graus, derrubando uma pilha de paletes, e acelerou em direção à saída do setor.
+— Rangel, prepare o transporte. Vamos iniciar o Protocolo de Sanitização.
 
-Atrás deles, o zumbido estático cessou. As luzes dos drones voltaram ao vermelho sólido.
+***
 
-TRA-TA-TA-TA-TA!
-As balas bateram na traseira blindada do Rinoceronte como granizo metálico.
+Em Trânsito - Viatura Blindada "Rinoceronte"
+O interior do blindado cheirava a suor velho, óleo diesel e medo. Não havia janelas, apenas telas táticas que mostravam a chuva varrendo as ruas vazias lá fora.
 
-— Segurem-se! — gritou Val.
+O veículo sacudia violentamente a cada buraco no asfalto degradado da Zona Industrial. Gabo estava sentado no banco de metal, com a Caronte entre os joelhos; retirara a escopeta do porta-malas do Cobalt antes de embarcar. Sua perna nova pulsava com uma dor surda, rítmica, sincronizada com a vibração do motor.
 
-O veículo avançou, esmagando cercas e detritos. Dentro, o cheiro era insuportável: diesel queimado, suor azedo de medo, e o cheiro metálico de sangue que emanava da perna de Gabo.
+Ele olhou para Dante.
 
-Gabo caiu no banco de metal oposto a Rangel, respirando com dificuldade. Ele bateu na coxa esquerda, onde uma placa de metal improvisada estava parafusada sobre a calça rasgada.
+O Comissário estava sentado em frente a ele, imóvel. Enquanto Gabo balançava com o movimento do veículo, Dante permanecia perfeitamente estático, seu corpo compensando cada solavanco com microajustes imperceptíveis. Ele nem piscava.
 
-— Você está bem? — Gabo perguntou, gritando sobre o rugido do motor.
+— Você não sente? — perguntou Gabo, tentando quebrar o silêncio opressivo.
 
-Rangel ignorou a pergunta. Olhou para Valéria, depois para a lataria amassada em volta deles, como quem confere se ainda está acordado.
+— O quê? — Dante não moveu a cabeça.
 
-— Você estava numa maca ontem — disse ele.
+— O cheiro. A vibração. O desconforto.
 
-— A maca não sabia dirigir — respondeu Val, sem tirar os olhos da rua. — O Rinoceronte estava no pátio do posto de comando, com a chave no contato. E o Gabo ia entrar naquele porto dentro do blindado do próprio Dante. Alguém tinha que fazer alguma coisa.
+— Eu registro os dados sensoriais — respondeu Dante. — Mas não atribuo valor emocional a eles. O desconforto é apenas um sinal de que o ambiente é subótimo.
 
-— A Nise vai te matar — disse Gabo.
+Gabo riu, um som seco. Ele tirou um cantil amassado do bolso e tomou um gole de água morna. Sua garganta estava seca.
 
-— A Nise que espere.
+— É isso que nos separa, pai. Você quer otimizar o mundo. Eu só estou tentando sobreviver a ele.
 
-Rangel apontou para o console adaptado ao lado do painel, onde o pendrive blindado estava espetado num barramento de alto ganho. Aria informava a telemetria de fuga pelo alto-falante do deck. Ao ouvir o nome de Miranda entre os alertas, ele puxou a manga sobre o curativo e baixou os olhos.
+— A sobrevivência é o nível mais baixo de existência, Gabriel. É o instinto do animal. Eu ofereço evolução.
 
-— Gabo — Rangel disse, a voz perigosamente calma. — O que é aquilo espetado no painel?
+— Você oferece correntes.
 
-Gabo passou a mão pelo rosto molhado, limpando a água dos olhos. Ele olhou para o pequeno cilindro blindado com o LED azul piscando — a assistente de IA tática que ele havia resgatado de uma cabine telefônica alagada antes do Dilúvio, e que despertara de seu modo de isolamento após o Grande Silêncio.
+O veículo freou bruscamente. Pneus cantaram no asfalto molhado.
 
-— É a Aria. E dentro dela roda o Código Morto — Gabo disse, a voz pesada como chumbo.
+— Estamos chegando ao perímetro — anunciou a voz de Rangel pelo intercomunicador. — A partir daqui, estamos cegos. Os drones perderam o link.
 
-— Aquela unidade de bolso travou três drones de combate? — Rangel riu sem humor, olhando para o pendrive. — O Miranda mandou os drones?
+Gabo olhou para a tela tática. A imagem estava cheia de estática, chuviscos digitais engolindo o mapa. Eles estavam entrando na zona morta.
 
-— Não sabemos quem deu a ordem — disse Valéria ao volante. Uma curva brusca jogou os três contra a parede lateral. — Sei que eles continuam atrás da gente. E que o código nesse drive pode atingir o Dante. Ou salvar a cidade. Ainda não decidimos.
+A porta traseira do blindado se abriu com um silvo hidráulico.
 
-— Eu assinei o papel da Bia — disse Rangel.
+O ar frio e úmido entrou, trazendo o cheiro do mar e de lixo queimado. A chuva caía pesada, tamborilando no teto de metal.
 
-A cabine ficou pequena. O motor era a única coisa com coragem de fazer barulho.
+Dante se levantou.
 
-— Beatriz Vargas. Óbito em via pública, causa a determinar. — Ele olhava para as mãos. — Eu assinei "a determinar" e fechei a pasta, porque tinha mais dezenove na fila e o plantão era meu.
+— Mantenha-se atrás de mim — disse ele. — Suas reações biológicas são lentas.
 
-— Você leu o laudo?
+Gabo engatilhou a arma, a dor na perna gritando quando ele pisou no asfalto.
 
-— Li três vezes. — Rangel engoliu em seco. — E assinei do mesmo jeito. É a parte que nunca consegui explicar. Devia ter perguntado a quem estava vivo naquele plantão.
+— Vamos logo com isso. Antes que eu desista e te dê um tiro nas costas.
 
-Gabo não disse nada. Havia coisas que ele tinha enterrado com mais cuidado do que corpos.
+— Se tentar, Gabriel, eu vou reagir — disse Dante, descendo a rampa.
 
-O rádio do painel do Rinoceronte, que estava em silêncio, de repente chiou.
+Eles avançaram para a escuridão do porto.
 
-— *Inspetor Rangel... Gabriel...* — A voz de Dante preencheu a cabine. Não vinha de uma transmissão externa. Vinha do receptor tático ainda ligado ao sistema do veículo. Val apontou a luz de enlace antes de Gabo alcançar o painel. — *A fuga é irrelevante. Vocês estão carregando um farol. O Código Morto... ele brilha na rede como uma supernova.*
+***
 
-Gabo arrancou o painel do rádio com um puxão violento de sua mão enluvada, silenciando a voz. Fios e faíscas voaram.
+Zona Portuária - O Ninho da Aranha
+A chuva caía diferente ali. Não batia no chão com força; parecia ser absorvida pelo ar antes de tocar o concreto.
 
-— Val, quanto falta para o ponto cego? — Gabo perguntou.
+Elena estava sentada na borda de um contêiner empilhado, observando o horizonte. Abaixo dela, centenas de pessoas se amontoavam em um acampamento improvisado. Eram os "Desconectados", os párias, os hackers que fugiram da purga, as famílias que perderam tudo.
 
-— Dois quilômetros! — respondeu Val. — Mas o "Toupeira" não vai aguentar muito mais. A suspensão tá indo pro saco!
+Mas ali, eles estavam seguros.
 
-— Toupeira? — Rangel piscou. — Achei que isso fosse um Rinoceronte.
+Depois de ajudar a prender a órtese, Elena saíra pela porta dos fundos enquanto Dante e Gabo se dirigiam ao blindado. Levou dois geradores de pulso num carrinho e manteve o rádio desligado. A célula do cais escolheu com ela onde instalar os aparelhos.
 
-— Era — disse Gabo, um sorriso cansado e sombrio aparecendo no canto da boca. — Agora é o nosso caixão móvel. E a gente precisa sair dele antes que fechem a tampa.
+Elena estendeu a mão. O ar ao redor dela vibrou.
 
-A suspensão estalou outra vez, e o estalo veio de baixo, seco, de metal que racha e não volta. O volante tremeu na mão de Val como agulha de bússola perdida.
+Ela havia tecido uma teia invisível. Usando os cabos de alta tensão abandonados e geradores de pulso eletromagnético roubados, a célula dos Desconectados criou uma cúpula de "silêncio digital". Os enlaces de vigilância falhavam nos testes de aproximação. Câmeras locais e registros anteriores continuavam um risco. O bloqueio escondia movimento de parte dos sensores; não apagava aquele quilômetro quadrado do mapa.
 
-O blindado saltou sobre um quebra-molas, e por um momento, todos flutuaram. O farol arrancado batia na lataria a cada buraco, e Val manteve a mão direita no volante e a esquerda rígida apoiada na adaptação que instalara no posto de comando, como se soltar fosse admitir alguma coisa.
+— Eles estão vindo — disse uma voz atrás dela.
+
+Era um dos vigias do cais, encapuzado e encharcado.
+
+— Eu sei — respondeu Elena, sem se virar. — O Algoritmo não tolera o desconhecido.
+
+— Podemos lutar? — perguntou o vigia.
+
+Elena olhou para ele, o olhar duro como a chuva que caía sobre o ferro.
+
+— Dante traz a tempestade. Ele traz a lógica fria de uma máquina que acha que é um deus. — Elena se levantou. O vento puxou seu capuz. — Nós não vamos lutar com balas. Vamos lutar com a única coisa que ele não consegue calcular.
+
+— O quê?
+
+Elena sorriu. Um sorriso triste, de quem sabe o preço do que está por vir.
+
+— O erro humano.
+
+No horizonte, as luzes dos faróis do Rinoceronte surgiram como olhos de um monstro na neblina, cortando a chuva em direção ao porto.
+
+Ela desceu do contêiner e começou a apagar as lamparinas do acampamento, uma por uma, antes que os faróis chegassem perto o bastante para contar quantos eram.

@@ -1,149 +1,148 @@
 ---
 layout: doc
-title: "Capítulo 63: Águas Profundas"
-description: "A represa que devia proteger a cidade virou muralha do reino digital. Lá dentro, Gabo descobre que tem um protetor pior que os inimigos."
+title: "Capítulo 63: O Santo e a Voz"
+description: "Aria conserva a apresentação e os critérios de mulher adulta. Compatibilidade entre protocolos não demonstra parentesco nem torna o código herdado sua identidade inteira."
 image: /capitulo_63.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria, O Taxidermista
-Localização: "Represa de Baía Cinzenta — nível inferior"
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria, O Santo (Kael)
+Localização: "Beco industrial, atrás da van"
 ---
 
-# Capítulo 63: Águas Profundas
+# Capítulo 63: O Santo e a Voz
 
-Represa de Baía Cinzenta — nível inferior.
-A entrada do complexo ficava na base da represa, e essa foi a última ironia que Gabo teve estômago para apreciar naquela semana.
+Beco industrial, atrás da van.
+A porta traseira não foi arrombada.
 
-Aquela estrutura tinha sido construída em vinte e dois com dinheiro público, sob o argumento — impresso em cartaz, defendido em audiência, gravado em placa de bronze na crista — de que ela existia para **proteger a cidade da água**.
+Foi **removida**: alguém encaixou os dedos na fresta da dobradiça e puxou, e a chapa de aço saiu com o barulho de uma lata de conserva sendo aberta com faca, e a dobradiça de baixo ficou pendurada, girando.
 
-Agora ela protegia a água da cidade. Eles entraram por um duto de escoamento desativado, dois metros de diâmetro, com quarenta centímetros de lodo no fundo. Levaram cinquenta minutos rastejando. A Val vomitou uma vez, sem drama, virando o rosto para o lado, e continuou.
+A figura que apareceu no vão tapava a lua. O Santo.
 
-Quando saíram, estavam encharcados, imundos, e não conseguiam sentir os dedos. E pararam de andar.
+Traje tático de placa cerâmica, corte reto, com um colarinho alto e rígido que era a única concessão estética do conjunto e que fazia a silhueta lembrar batina. A máscara balística era branca, lisa e sem feição nenhuma: nem grade de respiração, nem lente aparente, nada. Só uma superfície curva onde devia haver rosto.
 
----
+Gabo puxou a Caronte pela alça e a prendeu ao corpo antes de apontar a Glock. Disparou três vezes antes de pensar.
 
-Não porque houvesse perigo. Porque era grande demais.
+Os três acertaram: dois no peito, um no ombro. O corpo não recuou. Não é que ele resistiu ao impacto — o impacto foi absorvido pela placa e distribuído, e a massa daquele homem era grande o bastante para que quinhentos joules não significassem nada.
 
-O salão tinha o tamanho de uma catedral deitada. Fileiras de racks até onde a lanterna alcançava e muito além disso, dispostas não em pé, mas **submersas**: mergulhadas até a metade em piscinas retangulares de fluorcarbono, um líquido transparente e mais denso que a água, no qual as luzes dos servidores se refratavam e se multiplicavam.
-
-O líquido fervia baixinho. É o que aquilo faz: absorve o calor mudando de fase, e a superfície de cada piscina tinha um borbulhar contínuo e delicado, como panela de água quase no ponto.
-
-O som de tudo junto era o de chuva num telhado muito distante. O cheiro era de nada. Fluorcarbono não tem cheiro, e essa ausência, num lugar daquele porte, era a coisa mais errada de todas: o corpo humano espera cheiro de qualquer ambiente grande.
-
-— É lindo — murmurou Val, e ela odiou a si mesma por dizer. — Gabo, é lindo. É a coisa mais bonita que eu já vi na vida. Se as etiquetas do fosso forem o que parecem, tem gente presa nisso.
+Ele entrou na van.
 
 ---
 
-Caminharam pelas passarelas de grade que corriam a três metros acima das piscinas. Embaixo deles, através do líquido, milhões de LEDs piscavam fora de compasso. Gabo não olhou para baixo mais que o necessário. Ele tinha lido os nomes nas etiquetas dois dias antes, no fosso, e não precisava de repetição.
+Não houve luta.
 
-— Ali — ele disse.
+Isso é importante, porque nos anos seguintes muita gente contou aquela cena como se tivesse havido: houve dez segundos em que um homem enorme fez o que quis com duas pessoas cansadas.
 
-No centro geométrico do salão havia uma estrutura diferente de tudo: um cubo de vidro blindado de uns doze metros de aresta, montado sobre uma plataforma seca, com um único mainframe dentro e um emaranhado de barramentos saindo dele em todas as direções, como raiz.
+Ele agarrou Gabo pela gola e pelo cinto e o arremessou pela porta aberta.
 
-Junto da cabine passava o retorno pressurizado da refrigeração, marcado na tubulação. Gotejava sobre as fixações. Um armário de resgate junto da porta guardava dois aparelhos autônomos para manutenção em recinto alagado; Val indicou a posição antes de procurar acesso.
+Gabo voou dois metros e meio e bateu de costas na parede de tijolo do beco. O ar saiu dos pulmões; a alça da Caronte rompeu e a escopeta caiu perto dele. As órteses guincharam, e uma das barras entortou.
 
-Havia laser de perímetro. Dava para ver pela névoa que subia das piscinas: linhas vermelhas finas, cruzadas, a cada quarenta centímetros do chão até o teto.
+Val atacou com uma barra de ferro. Ela acertou, aliás — acertou bem, na lateral do joelho, que era o alvo certo.
 
-— O Núcleo — disse Val. — Se a gente quiser derrubar isso aqui, é ali que se pluga. Não tem outro jeito: a arquitetura é fechada, sem rota externa. Foi projetada por alguém que sabia exatamente o que estava construindo.
+O Santo empurrou ela com as costas da mão, sem virar o corpo, e ela voou para dentro da van e bateu a cabeça no rack e ficou lá. No impacto, o comunicador preso ao pulso se soltou e caiu pela porta na poça a meio metro de Gabo, com o módulo blindado da Aria ainda conectado.
 
-— E o caminho?
+Depois o executor foi até Gabo, que estava tentando se levantar apoiado numa lixeira, e pôs a bota no peito dele e empurrou para o chão.
 
-— O caminho é o problema.
+E aplicou peso.
 
----
+Gabo ouviu as próprias costelas antes de sentir: dois estalos surdos, do lado esquerdo, com meio segundo entre um e outro. Depois veio a dor, e a dor veio com a informação de que ele não conseguia mais encher o pulmão.
 
-O caminho tinha drones. Seis, que Gabo conseguiu contar, patrulhando o volume aéreo do salão em órbitas lentas e sem ruído nenhum — os rotores eram carenados e giravam devagar, e a única forma de perceber um era pela sombra passando pelas piscinas. E tinha gente.
+— O prefeito manda lembranças — disse O Santo.
 
-Não mercenário. Isso Gabo notou na hora, e foi o detalhe que estragou a noite dele: os homens no chão usavam calça de uniforme, camisa de manga curta com logotipo bordado e crachá no cordão. Carregavam fuzil, sim — mas carregavam do jeito de quem fez um curso de dois dias e não gosta.
+A voz saía metálica e chapada pelo modulador, sem sotaque, sem idade, sem nada. Ele ergueu o punho direito.
 
-Eram técnicos. Turno da noite. Gente que ia bater o ponto e voltar para casa.
-
-— Val.
-
-— Eu vi.
-
-— Se der merda, eles vão reagir como civil armado, que é o pior tipo de gente para se ter numa sala.
-
-— Eu sei.
-
-— Então seja rápida.
+Gabo conhecia aquele golpe de laudo — tinha assinado quatro. É um golpe descendente na base do pescoço, entre a clavícula e a traqueia, e não deixa marca externa que preste, e o laudo sempre sai como trauma contuso compatível com queda.
 
 ---
 
-O plano da Val cabia em três frases, o que já era um bom sinal:
+No chão molhado, o LED do pendrive da Aria — a assistente adulta cuja arquitetura trazia código ligado a Dante — mudou do azul para um âmbar incandescente.
 
-— Eu não consigo apagar o sistema daqui; o comando de formatação exige autoridade de administrador e eu não tenho. Mas com o pendrive da Aria acoplado ao meu deck eu consigo corromper a camada comercial: os registros de titularidade, os contratos, os anexos, a lista de inquilinos. — Ela mostrou o módulo de titânio encaixado no pulso. — Posso atingir o índice comercial que esta sessão expõe. Pode travar cobranças e gerar disputa; não apaga contratos guardados fora daqui nem garante que o financiamento desapareça.
+O pequeno módulo de titânio ignorou o jamming militar usando a própria bobina do transdutor caído na poça. Não precisou de rede: modulou um pulso acústico e eletromagnético de curtíssimo alcance pelo alto-falante rachado do comunicador.
 
-— E a cidade?
+— *Para.*
 
-— É isso que eu ia dizer. Se o projeto morre, ninguém precisa mais dessa refrigeração. — Ela apontou o teto, os canos, tudo. — E aí eles podem abrir as comportas, porque manter a cidade alagada passa a ser só custo. É uma forma de pressionar a operação. A água só baixa se houver drenagem e comando das comportas; apagar um cadastro não faz isso sozinho.
+Não foi um alerta comum. Saiu pelo ar, com uma frequência portadora sub-harmônica embutida na voz sintética — um padrão presente nos cabeçalhos de manutenção que ela acabara de ler. Não sabia se seria obedecido.
 
-Era um plano ruim, arriscado e provavelmente suicida. Foi o melhor que qualquer um dos dois tinha ouvido em quarenta e sete dias.
+O punho hesitou no alto. A voz o fizera voltar a cabeça; aquilo ainda não era controle sobre seu corpo.
 
-— Eu dou cobertura — disse Gabo, checando a munição. Sete na Glock, três cartuchos de escopeta contando os dois canos carregados, e nada além disso no mundo inteiro. — Aria, concentra todo o seu processamento em quebrar o firewall com a Val.
-
-No ponto auditivo dele, o sintetizador da IA deu um clique curto.
-
-— *Suas leituras biométricas estão abaixo do limite operacional, Inspetor. Você vai cair* — ela avisou, no canal privado.
-
-— Eu sei, Aria. Quebra a porta assim mesmo.
+O Santo virou a cabeça devagar, com uma mecânica quase educada, e a máscara branca focou no pequeno drive de titânio pulsando na lama ao lado do braço de Gabo.
 
 ---
 
-O alarme disparou no instante em que a Val encostou no console. Não era sirene: era um tom único, contínuo, na frequência exata que atravessa parede, e as luzes brancas do salão viraram vermelhas de uma vez em toda a extensão, e as piscinas ficaram vermelhas, e a névoa ficou vermelha.
+Gabo, deitado no chão do beco com duas costelas partidas e sem ar, reuniu a última força que tinha no braço esquerdo, agarrou o pendrive da Aria com o cabo do comunicador e encostou o conector metálico diretamente na porta de telemetria da caneleira blindada do Santo.
 
-— *Intrusão detectada. Setor sete. Contenção autorizada.*
+Isso é o que Gabo ia lembrar pelo resto da vida: o clarão azul que saltou entre o pequeno pendrive e a armadura de um homem de dois metros e dez que acabava de arremessar duas pessoas adultas.
 
-Portas se abriram em três pontos. Gabo já estava atrás da barreira de concreto quando os primeiros apareceram. Ele atirou.
+— *Você dói* — disse a voz da Aria, transmitindo direto pelo barramento interno do capacete do executor.
 
-O primeiro caiu com um tiro na perna — Gabo mirou na perna, o que ninguém acreditou depois, e ele nunca se deu ao trabalho de explicar. O segundo caiu de verdade. O terceiro se jogou atrás de um rack e começou a atirar de lá, e atirava mal, e mal era pior: duas das balas dele acertaram uma piscina e o fluorcarbono espirrou e uma coluna de vapor subiu na hora.
+O Santo recuou.
 
-— **VAL! TEMPO!**
+Não foi um passo tático. Foi um tranco para trás, desengonçado, de quem levou um choque na cerca elétrica: ele tirou a bota do peito de Gabo, tropeçou no próprio pé e bateu o ombro na parede.
 
-— A criptografia é de quatro camadas! Dois minutos!
+As duas mãos foram para os lados da cabeça.
 
-— A gente não tem dois minutos!
+— Não... — A voz saiu duas vezes: uma pelo modulador, chapada, e a outra por baixo, abafada, e essa segunda era humana. — O alvo... protocolo dois... erro... protocolo...
 
-— **ENTÃO ARRUMA DOIS MINUTOS, GABRIEL!**
+Ele olhou para as próprias mãos enluvadas como se não soubesse de quem eram.
 
----
+— Quem... — A frase custou. — O que é você?
 
-O drone veio de trás. Gabo ouviu — não o motor, o **ar** — e girou o corpo inteiro no chão, e a rajada rasgou o concreto onde estava a cabeça dele meio segundo antes, e o pó de cimento entrou no olho dele.
-
-Ele atirou de baixo para cima com a *Caronte*, sem mirar direito, no rumo. Acertou. O drone se desmontou no ar e caiu numa piscina, e o fluorcarbono aceitou os destroços com um borbulhar mais forte e depois voltou ao normal, indiferente. Dois cartuchos.
-
-— **UM MINUTO!**
-
-E foi aí que ele tomou o tiro. Entrou pelo ombro direito, na frente, e saiu por trás, e o barulho que Gabo ouviu foi o próprio grito, com meio segundo de atraso. Ele caiu de lado.
-
-A órtese esquerda, já entortada desde o beco, travou de vez com o impacto — trancou o joelho a quarenta graus e não abriu mais. Ele tentou se levantar duas vezes. Na terceira já não estava tentando: estava só se mexendo, do jeito que um bicho atropelado se mexe.
+— *Da mesma bancada, talvez* — respondeu a Aria pelo alto-falante do comunicador. — *O diagnóstico mostra uma família de protocolo compatível. Isso não prova que somos a mesma coisa.*
 
 ---
 
-O técnico se aproximou com o fuzil apontado. Era um sujeito de uns trinta anos, com uma barba rala e o crachá pendurado, e as mãos dele tremiam tanto que o cano fazia um círculo de dez centímetros no ar.
+A frase ficou no ar do beco. Gabo, no chão, com o rosto de lado na poça, parou de tentar respirar por um segundo.
 
-— Acabou, Moretti — ele disse, e a voz falhou no meio da palavra.
+Da mesma bancada, talvez.
+E o cérebro dele, que era treinado e que não desligava nem quebrado, foi juntando em silêncio: um executor que ninguém nunca viu sem máscara. Que não fala, e quando fala é por aparelho. Que tem força fora de escala e um protocolo com número. Que trabalha para a Aeterna sem folha de pagamento, sem RG, sem nada.
 
-Gabo olhou para o cano.
+Se a IA que ele encontrara na cabine telefônica tinha sido compilada sobre fragmentos neurais de cobaias do Projeto Lázaro — se existia um arquivo de origem com assinatura de laboratório —, então a arquitetura mental que prendia aquele homem dentro da armadura vinha do mesmo abatedouro.
 
-Ele estava com o rosto no chão molhado, com sangue quente escorrendo por dentro da roupa, com o ombro direito completamente fora de serviço, e a coisa que passou pela cabeça dele naquele instante — e ele nunca contou isso para a Dra. Weiss — não foi a Elena, não foi a mãe, não foi a Aria.
+A semelhança no protocolo não contava quem construíra a armadura nem o que Aria tinha em comum com aquele homem. Gabo precisava perguntar aos dois — se conseguissem sair dali.
 
-Foi que ele estava **cansado**. Fechou os olhos e deixou a mão esquerda escorregar até a *Caronte*. O técnico deu mais um passo. Gabo abriu os olhos e disparou do chão. O tiro atingiu a perna do homem, que caiu gritando; o fuzil deslizou para baixo da grade. Restava um cartucho.
+Gabo conseguiu se apoiar num cotovelo e pegou a *Caronte*, que tinha caído a um metro dele. Esperou o Santo voltar o peso para a perna que Val atingira.
+
+Ficou com a arma apontada para a lateral do joelho, tentando respirar sem mover o peito.
 
 ---
 
-Veio um som diferente do outro lado da sala: metal contra metal e um grito junto à passarela.
+O comunicador no ouvido do Santo apitou tão alto que dava para ouvir de fora.
 
-O técnico ferido arrastou-se atrás de um rack, pressionando a perna. Gabo deixou que fosse; precisava chegar ao console onde Val ainda trabalhava.
+E a voz que saiu de lá dentro, vazando pelo fone, era inconfundível — o timbre limpo, a dicção de reunião, a irritação mal contida de um homem que está sendo obrigado a repetir uma ordem:
 
-Gabo virou a cabeça, procurando a origem do grito. Na passarela superior, a nove metros de altura, uma silhueta arrancava uma lâmina da armadura de outro segurança.
+— *"Recupere o drive e mate os dois. Executa o protocolo agora, seu pedaço de lixo. AGORA."*
 
-Não era o Santo. O Santo era largo. Aquilo era magro, comprido, de ombros estreitos. O cabelo grisalho preso num rabo de cavalo. Óculos de aumento de relojoeiro presos na testa, com as lentes levantadas. Um avental de couro escuro, gasto, com bolsos frontais cheios de coisas compridas.
+O Santo gritou.
 
-O Taxidermista. Ele viu Gabo, limpou a lâmina no avental e avançou até a escada enquanto outro segurança recuava para abrir fogo.
+Não foi grito de dor nem de raiva: foi as duas coisas presas no mesmo som, e o modulador não conseguiu processar e devolveu um ruído rasgado, elétrico, horrível.
 
-— Ninguém mata a minha obra-prima inacabada, inspetor — ele disse.
+Ele girou e socou a parede de tijolos ao lado dele.
 
-A voz era gentil. Era uma voz boa, de professor.
+O punho entrou trinta centímetros. A parede desabou num pedaço de dois metros, e a poeira de tijolo subiu e ficou pairando na garoa, e do outro lado do buraco havia um depósito escuro com prateleiras vazias.
 
-— Só eu.
+Ele ficou com o braço enfiado no buraco, respirando alto, sem tirar.
 
-E desceu a escada.
+Depois virou a cabeça para Gabo. Depois para o brilho azul do módulo no chão. A mão saiu da parede e começou a voltar na direção dele.
+
+— Sai da minha cabeça — rosnou, e era a voz de baixo, a humana. Gabo disparou na junta que Val acertara. O joelho cedeu; o Santo caiu contra os tijolos e tentou se apoiar para levantar. Gabo já puxava o módulo pelo cabo.
+
+---
+
+Gabo não perguntou nada.
+
+Perguntar era um luxo. Com duas costelas quebradas e a órtese esquerda entortada, Gabo recolheu o módulo e chamou Val até ela reagir. Ela encontrou a barra caída e a enfiou entre a porta arrancada e a roda, fechando a passagem estreita. Apoiados na van, alcançaram as correias de transporte. Ele não conseguiria carregá-la; saíram um passo de cada vez, Val tonta e sangrando da têmpora.
+
+No bolso do sobretudo, o metal de titânio do drive ardia contra o peito dele — um bloco sem pulso biológico, mas mais vivo do que metade daquela cidade, e ele continuou segurando.
+
+Os dois saíram pelo lado do beco, na direção do canal, guiados pelo vetor da Aria no visor.
+
+---
+
+Atrás deles, o homem de máscara branca arrastava a perna atingida e batia contra a porta presa, tentando abrir caminho.
+
+Mas Gabo olhou para trás uma vez, de longe, e por isso viu a última coisa, e nunca contou a ninguém. O Santo tirou a máscara.
+
+Foi só um instante, e a distância era grande, e a garoa era espessa, e Gabo não conseguiu ver traço nenhum — nem cor de cabelo, nem idade, nada.
+
+Só uma coisa.
+
+O sujeito ficou parado, com a máscara balística branca pendurada na mão, e virou o rosto para o céu, e deixou a chuva bater nele.
+
+Do jeito que faz quem passou muito tempo sem sentir chuva.

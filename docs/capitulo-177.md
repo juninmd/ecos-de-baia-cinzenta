@@ -1,80 +1,73 @@
 ---
-Título: Cicatrizes de Cobre
+image: /cenas/capitulo_177/cena_1.jpg
+Título: O Som das Engrenagens Mortas
 Data In-Game: Indeterminada (Pós-Colapso da Aeterna)
-Localização: Ruas do Distrito 4
-Personagens Presentes: Gabo, Valéria
+Localização: Clínica Clandestina de Vasco, Distrito 4
+Personagens Presentes: Gabo, Valéria, Vasco, Dra. Nise
 ---
 
-# Capítulo 177: Cicatrizes de Cobre
+# Capítulo 177: O Som das Engrenagens Mortas
 
-A chuva do Distrito 4 não tinha a decência de apenas molhar; ela engolia tudo, diluindo os neons escassos em borrões nauseantes de amarelo e vermelho. Cada passo pelas ruas esburacadas era uma negociação com a lama tóxica, um lembrete constante de que a cidade nos detestava tanto quanto nós a ela.
+No quinto dia de atendimento na clínica, a luz halógena sobre mim falhava a cada oscilação do gerador no subsolo, pintando as paredes de azulejos encardidos com flashes estroboscópicos de pura agonia. Vasco não era um homem de delicadezas, e os recursos no Distrito 4 eram tão escassos quanto a piedade.
 
-Valéria caminhava dois passos à minha esquerda, o capuz da jaqueta encharcado colado à cabeça, os olhos prateados rastreando os becos transversais. O cyberdeck dela zumbia sob o couro com um som arranhado, como um disco rígido com os cabeçotes desalinhados.
+— A equipe conseguiu o fixador para o osso. O que não tenho é um suporte de hospital para você sair carregando esse braço — Vasco resmungou, revirando uma caixa de ferramentas enferrujada que cheirava a graxa velha e fluido de transmissão. — Vou acoplar ao fixador um suporte externo industrial, sucateado de um exoesqueleto de carga das docas. É pesada, é feia e os pinos de aço parafusados no osso vão doer como o diabo toda vez que você tentar mover os dedos.
 
-— Cinco assinaturas térmicas a setenta metros — ela disse de repente, a voz baixa, cortante como navalha. — Agachados atrás daquele caminhão frigorífico tombado da Aeterna. Armamento improvisado: canos de ferro, lâminas soldadas e pelo menos uma pistola de pregos com ar comprimido.
+— Coloca logo isso — eu grasnei, minha voz não passando de um sussurro rouco pela garganta seca, com o gosto acre de bile e ferrugem colado nos dentes.
 
-Apertei o passo, sentindo a junta mecânica do ombro chiar com a umidade ácida.
+Minha cabeça latejava com o peso acumulado dos últimos dias. A descida ao Arquivo Executivo, a queima dos barramentos de Aria no Sentinel, os dias de rastejo pela escuridão fétida da Necrópole. Meu corpo era um mapa de perdas: costelas trincadas, ombro retalhado, pele em carne viva. Eu não precisava de fantasmas para me lembrar de onde vim; o ferro cru e o sangue que empapava a lona da maca já eram cobrança suficiente.
 
-— Saqueadores da baixa — murmurei, o gosto de ferro e chuva ácida colando na língua. — Caçando carcaça corporativa que já foi limpa há semanas.
+Vasco trouxe a armação externa. O metal era um cinza fosco, cheio de cicatrizes de solda, hastes de aço e buchas reforçadas. A base da órtese tinha pinos de tração óssea que pareciam pregos grossos de aço temperado. A parte cirúrgica fora feita pela equipe, com o material que Nise conseguira trazer. Vasco trabalhava na armação externa, que se apoiava no arnês do tronco e descarregava parte do peso na cintura. Os pinos não foram instalados para virar arma.
 
-— Não tão caçando lata velha, Gabo — Valéria inclinou a cabeça, os LEDs azuis da franja disparando pulsos rápidos de escaneamento. — Tão caçando carne viva com implante. O leitor do meu deck tá pegando o rádio deles na frequência aberta dos canais de esgoto. Chamaram a gente de 'peixe grande com metal bom'. O líder deles acha que seu braço de guindaste vale três botijões de gás no mercado negro do cais.
+— Morda isto — ele estendeu um pedaço de borracha de pneu endurecida.
 
-— Eles vão se decepcionar bastante quando tentarem arrancar.
+Eu não o peguei. Apenas cravei os dedos da mão esquerda na beirada de zinco da maca e fechei os olhos.
 
-— Se você errar a alavanca do pistão, quem vai se decepcionar é o seu cirurgião clandestino favorito — ela retrucou, o sarcasmo afiado servindo de escudo contra o medo óbvio. — O Vasco colocou uma válvula de alívio rápido na altura do bíceps, mas esqueceu de vedar o diafragma. Se você desferir um impacto frontal sem travar a escápula, o contragolpe cinético estoura o resto das suas costelas.
+Quando ajustou a haste externa, o puxão chegou ao fixador e me fez pedir que parasse. Ele parou. Ficamos ouvindo o gerador até eu conseguir responder onde o suporte pressionava. A equipe voltaria a conferir as fixações; a transferência prevista era até o posto de Nise, com ajuda. Naquela manhã, Vasco fechara a porta a dois homens que perguntavam por mim sem trazer paciente. Permanecer ali também tinha começado a cobrar de quem nos escondia.
 
-— Obrigado pelo manual de instruções em cima da hora, Val.
+Mas a tempestade de sinapses se estabilizou. O peso absurdo da armação puxou meu tronco para a direita, um conjunto de vinte quilos de ferro, arnês e pistões, distribuído entre o braço e o suporte de cintura. Os dedos da mão direita quase não se moveram dentro da tala. O que abriu e fechou foi a pinça externa, comandada pela interface; a mão de carne continuou imobilizada. Um zumbido hidráulico grave, como um motor de elevador em miniatura, respondeu ao sustentar o peso do meu membro quebrado.
 
-— De nada, detetive. Minha comissão é você continuar respirando pra não me deixar sozinha nessa lama.
+— Não encosta no fim do curso — Vasco avisou. — O limitador está ruim. O batente pode prender a haste e queimar o servo; não foi feito para sustentar ninguém numa queda.
 
-As cinco sombras emergiram de trás do caminhão virado. Eram homens magros, desfigurados por implantes caseiros mal cicatrizados e cobertos por trapos impermeáveis imundos. O líder deles avançou com um pedaço de vergalhão de construção de dois metros, a ponta afiada em bisel brilhando com a água da chuva.
+Nise voltou e conferiu o fixador. Disse que o posto dela tinha mais recursos para continuar meu atendimento. Eu queria sair do setor, mas ainda precisava conversar com Val antes de decidir.
 
-— Parou aí, sucata da Central! — o homem gritou, a voz rouca cheia do catarro típico de quem respirava o smog sem filtro há anos. — O pedágio do beco é o braço mecânico e as lentes óticas da vadiazinha. Solta o cyberdeck no chão e a gente deixa vocês dois saírem andando pela própria perna.
+Vasco separou dois cilindros de ar de resgate, duas máscaras com cartuchos para poeira e névoa e quatro cartuchos de Caronte, anotando tudo na dívida. As máscaras não garantiam proteção contra gases desconhecidos; o ar dos cilindros era reserva de retirada, não combustível para atravessar qualquer lugar.
 
-Valéria soltou uma risada curta, fria, daquelas que ecoavam nos becos da Zona Portuária antes da guerra.
+— Bem-vindo de volta ao clube da sucata — Vasco murmurou, limpando o suor oleoso da testa com o antebraço sujo de graxa.
 
-— Vadiazinha é a sua mãe, seu rato de duto — ela deu um passo à frente, a mão enluvada repousando casualmente sobre a trava do gerador de pulsos do deck. — E essas lentes aqui custam mais do que o seu barraco inteiro e a sua árvore genealógica somadas. Dá meia-volta enquanto seu coração ainda tem energia pra bater.
+Na maca ao lado, o bipe irregular de um osciloscópio mudou bruscamente de tom. Os monitores acoplados ao cyberdeck de Valéria piscaram em uma sequência frenética de código corrompido. O capacitor de carga ligado à interface de diagnóstico estalou, liberando um fio de fumaça azulada.
 
-O homem cuspiu no chão, a saliva tingida de marrom pelo mofo químico.
+Virei o pescoço devagar, sentindo cada vértebra reclamar da nova carga no meu ombro.
 
-— Tá muito valente pra quem tá isolada da rede, garota. Pega eles!
+O rosto pálido de Valéria se contraiu. Os olhos cibernéticos dela — antes opacos pelo colapso de energia — dispararam um feixe cinzento de diagnóstico que logo se estabilizou no prateado da fase posterior à Convergência, cortado por faíscas microscópicas de sobretensão. Os filamentos de LED trançados na franja curta e assimétrica piscaram em amarelo de advertência antes de assentarem no tom ciano habitual.
 
-Os dois flanqueadores avançaram pela calçada enlameada com canos de chumbo erguidos. Mas o líder foi mais rápido, avançando pelo centro com o vergalhão mirando direto na garganta desprotegida do meu sobretudo.
+Ela puxou o ar de repente, tossindo com o cheiro de ozônio queimado que tomava a sala.
 
-Eu não tentei desviar. Com o peso assimétrico que me puxava para a direita, eu era lento demais para esquivar na lama.
+— Que cheiro de... desgraça é esse? — a voz dela saiu raspada, mas com a ponta afiada de sempre. Ela tentou se erguer, os cotovelos tremendo na lona da maca. — Vasco, se você usou capacitor de geladeira de segunda mão no meu barramento primário de novo, eu juro que formato o terminal da sua oficina inteira.
 
-Em vez disso, afundei a bota esquerda na sarjeta para firmar o ponto de apoio e liberei a trava manual do atuador hidráulico. O zumbido hidráulico no meu ombro explodiu em um silvo ensurdecedor de vapor superaquecido.
+— Olha o respeito, garota — Vasco rosnou, recolhendo os alicates. — Sua interface estava superaquecida e instável. A equipe cuidou de você; eu só consegui isolar o circuito defeituoso.
 
-O vergalhão atingiu o antebraço da armação de ferro. O impacto produziu um estampido estridente de metal contra metal, mas a armação recebeu o golpe e me torceu no arnês. A ponta do vergalhão raspou a proteção e desviou para a lateral.
+Valéria piscou os olhos duas vezes, reconfigurando os drivers de foco. Foi quando o olhar dela desceu da bancada de ferramentas e parou em mim. Mais especificamente, no monstro de ferro que agora envolvia e sustentava o meu braço direito.
 
-Antes que ele pudesse puxar a arma de volta, desferi o golpe. Não foi um soco técnico de boxeador da corporação; foi o arremesso estúpido e maciço de um martelo mecânico de vinte quilos empurrado por um pistão sob pressão máxima.
+Ela arregalou os olhos prateados, a boca abrindo numa mistura de pavor genuíno e puro sarcasmo de sarjeta.
 
-O batente de liga espessa da armação colidiu com a caixa torácica dele; minha mão biológica continuava presa na tala.
+— Santo Deus dos circuitos integrados... Moretti, que aberração é essa?
 
-O homem caiu contra a lateral do caminhão e escorregou para a poça, tentando respirar. A batida arrancou um grito dele; eu continuei avançando até Val me chamar.
+— O Vasco fez o que pôde pra salvar o osso com a sucata que tinha — eu murmurei, apoiando o braço com a pesada armação de ferro na borda da mesa. O zinco rangeu sob a pressão.
 
-A onda de recuo atravessou o arnês e me dobrou sobre o ombro ferido. A tala não deixava a mão fechar; apertei com a esquerda o comando de retorno da pinça externa. Ela recolheu com um estalo atrasado. A faixa impermeável escurecera junto ao fixador. Nem o metal inteiro significava que o osso tivesse ficado no lugar.
+— O que ele pôde? — Valéria se sentou de vez, arrancando dois eletrodos descartáveis do peito com um puxão irritado. — Ele arrancou o guindaste de uma caçamba de entulho da Zona Portuária e parafusou no seu osso quebrado! Olha o diâmetro dessa haste hidráulica, Gabo! Você não vai conseguir nem coçar o nariz sem arrancar a metade da própria cara.
 
-Os outros quatro saqueadores pararam no meio do salto. O terror paralisou cada um deles. Olharam para o líder deles caído na lama, arquejando, olharam para o vapor branco que sibilava da junta do meu braço de ferro, e depois para o cano curto de *Caronte* que eu saquei com a mão esquerda por baixo do casaco.
+— Ele tá vivo e com o braço no lugar, alinhado e imobilizado. Funcional é outra conversa — rebateu Vasco, cruzando os braços gordos. — E para de reclamar, Cruz. Sua interface ainda está em modo de segurança. Aqueles alertas não substituem descanso.
 
-— Mais alguém quer avaliar o peso da sucata? — minha voz soou rouca, áspera como lixa em ferrugem.
+Valéria levou a mão à têmpora esquerda, onde a porta do implante neural ainda fumegava de leve. Ela fechou os olhos por um segundo, os nós dos dedos apertando os cabelos escuros da nuca batida. Uma careta de dor real cruzou seus traços jovens.
 
-— C-covardia... — um deles gaguejou, o pedaço de cano tremendo na mão.
+— Eu sei o que tá apitando, caramba. O alerta cobre metade do meu campo visual: recursos exauridos, fonte instável, assistência indisponível. — Ela abriu os olhos e me encarou, sem sorriso. — Até a máquina sabe que sair daqui é uma péssima ideia. Só não tem campo para os homens que bateram na porta.
 
-— Covardia é tentar roubar quem sobreviveu ao Arquivo Executivo, seu bosta — Valéria deu um passo adiante, os olhos prateados brilhando com um ódio concentrado que os fez recuar dois passos. — Peguem o lixo de vocês e sumam antes que eu decida descarregar o resto da bateria nos olhos de vocês.
+— E o que você vai fazer com a máquina? — perguntei.
 
-Eles não precisaram de um segundo convite. Dois deles agarraram o corpo quebrado do líder pelas axilas e arrastaram-no de ré pela água imunda, enquanto os outros dois tropeçavam nas próprias pernas na fuga desesperada em direção aos becos da Zona Sul.
+Valéria deslizou as pernas para fora da maca, as botas gastas tocando o chão de concreto imundo com um estalo firme. Ela ajustou a jaqueta de couro puída sobre os ombros e recolheu o cyberdeck surrado com cuidado quase maternal, desconectando os cabos improvisados de Vasco.
 
-O silêncio voltou a pesar sobre a rua, quebrado apenas pela água caindo dos beirais de lata.
+— Vou mandar ela pro inferno, igual a gente fez com o Sentinel — ela disse, respirando fundo e endireitando as costas. — Aria queimou tudo lá embaixo pra gente sair daquele buraco, Moretti. Não foi pra eu virar estatística fria numa bancada de fundo de quintal. Me ajuda a levantar. A gente precisa decidir para onde ir.
 
-Valéria soltou o ar devagar, os ombros descendo alguns centímetros. Ela guardou a mão de volta no bolso da jaqueta, mas eu vi o tremor residual nos nós dos seus dedos.
+Quando Val conseguiu ficar sentada, Nise explicou aos dois que preferia levá-los ao posto. Val queria sair do setor: os homens que procuravam Gabo podiam voltar. Nise não liberou o trajeto pelo ramal; eu assinei a saída com a esquerda, e Val confirmou que iria comigo. A médica entregou curativos selados, horários e um canal de retorno. Se a gaze encharcasse ou eu não conseguisse apoiar a perna, tínhamos de parar e chamar ajuda.
 
-— Bruto pra caramba, Moretti — ela murmurou, chutando o vergalhão torto para dentro da vala. — Custava quebrar o ataque sem esmagar o peito? Ele caiu e você ainda estava avançando.
-
-— Eu parei — respondi, olhando o sangue que os outros arrastavam pela rua. Não sabia se o homem ainda respirava. Economizar cartucho não dizia nada sobre isso.
-
-— É, e quase levou a clavícula junto — ela se aproximou e me fez sentar sob o caminhão, fora da chuva. Limpou a borda da proteção com o material de Nise antes de trocar a gaze, usando a mão direita; a esquerda só prendia o estojo. — Tem sangue novo. Eu não consigo avaliar o osso aqui. A gente vai parar de usar o seu suporte como arma antes que não dê mais para andar até ajuda.
-
-— Então a gente torce pra não encontrar mais idiotas no caminho.
-
-— Em Baía Cinzenta? — Valéria soltou um meio-riso amargo, puxando o capuz para proteger o cyberdeck da água ácida. — Essa cidade não produz nada além de chuva e idiota armado, Gabo. Vamos andar logo antes que o cheiro de sangue chame coisas que não têm medo de pistão mecânico.
+A luva atuada de Val só permitia preensão grosseira com a mão esquerda, sem devolver sensibilidade; sem bateria, os dedos enrijeciam. Fios e gatilhos continuavam trabalho da direita. Ela conferiu os manômetros, as vedações e a faixa impermeável sobre meus curativos antes de guardar o conjunto. Lá fora, alguém bateu duas vezes na porta da clínica; Vasco apagou a luz da recepção.

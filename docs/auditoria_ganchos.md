@@ -35,234 +35,251 @@
 | 28 | 3/5 | 3/5 | - |
 | 29 | 3/5 | 3/5 | - |
 | 30 | 3/5 | 3/5 | - |
-| 30.5 | 3/5 | 3/5 | - |
-| 31 | 2/5 | 3/5 | nenhum nome próprio |
+| 31 | 3/5 | 3/5 | - |
 | 32 | 2/5 | 3/5 | nenhum nome próprio |
 | 33 | 2/5 | 3/5 | nenhum nome próprio |
-| 34 | 3/5 | 3/5 | - |
+| 34 | 2/5 | 3/5 | nenhum nome próprio |
 | 35 | 3/5 | 3/5 | - |
-| 36 | 2/5 | 4/5 | abertura longa (104 palavras) |
-| 37 | 3/5 | 3/5 | nenhum nome próprio, tem marca concreta de tempo/espaço |
-| 38 | 3/5 | 3/5 | - |
+| 36 | 3/5 | 3/5 | - |
+| 37 | 2/5 | 4/5 | abertura longa (104 palavras) |
+| 38 | 3/5 | 3/5 | nenhum nome próprio, tem marca concreta de tempo/espaço |
 | 39 | 3/5 | 3/5 | - |
-| 40 | 3/5 | 3/5 | abertura longa (57 palavras), abre com fala |
-| 41 | 3/5 | 3/5 | - |
+| 40 | 3/5 | 3/5 | - |
+| 41 | 3/5 | 3/5 | abertura longa (57 palavras), abre com fala |
 | 42 | 3/5 | 3/5 | - |
 | 43 | 3/5 | 3/5 | - |
-| 44 | 3/5 | 3/5 | abertura longa (86 palavras), abre com fala |
-| 45 | 5/5 | 4/5 | abre com fala, tem marca concreta de tempo/espaço |
-| 46 | 3/5 | 2/5 | fecho longo (66 palavras) |
-| 47 | 2/5 | 3/5 | abertura longa (110 palavras) |
-| 48 | 3/5 | 3/5 | abertura longa (140 palavras), tem marca concreta de tempo/espaço |
-| 49 | 3/5 | 4/5 | - |
-| 50 | 2/5 | 3/5 | nenhum nome próprio |
-| 51 | 3/5 | 3/5 | - |
+| 44 | 3/5 | 3/5 | - |
+| 45 | 3/5 | 3/5 | abertura longa (86 palavras), abre com fala |
+| 46 | 5/5 | 4/5 | abre com fala, tem marca concreta de tempo/espaço |
+| 47 | 3/5 | 2/5 | fecho longo (66 palavras) |
+| 48 | 2/5 | 3/5 | abertura longa (110 palavras) |
+| 49 | 3/5 | 3/5 | abertura longa (140 palavras), tem marca concreta de tempo/espaço |
+| 50 | 3/5 | 4/5 | - |
+| 51 | 2/5 | 3/5 | nenhum nome próprio |
 | 52 | 3/5 | 3/5 | - |
 | 53 | 3/5 | 3/5 | - |
-| 54 | 4/5 | 3/5 | tem marca concreta de tempo/espaço |
+| 54 | 3/5 | 3/5 | - |
 | 55 | 4/5 | 3/5 | tem marca concreta de tempo/espaço |
-| 56 | 3/5 | 3/5 | abertura longa (77 palavras), tem marca concreta de tempo/espaço |
-| 57 | 3/5 | 2/5 | abertura longa (75 palavras), abre com fala, fecho longo (47 palavras) |
-| 58 | 5/5 | 4/5 | abre com fala, tem marca concreta de tempo/espaço |
-| 59 | 3/5 | 3/5 | abertura longa (74 palavras), abre com fala |
-| 60 | 3/5 | 3/5 | - |
-| 61 | 4/5 | 3/5 | abre com fala |
-| 62 | 3/5 | 3/5 | - |
-| 63 | 4/5 | 3/5 | abre com fala |
-| 64 | 3/5 | 3/5 | abertura longa (115 palavras), abre com fala |
-| 65 | 4/5 | 4/5 | abre com fala |
-| 66 | 4/5 | 3/5 | tem marca concreta de tempo/espaço |
-| 67 | 3/5 | 3/5 | abertura longa (147 palavras), abre com fala |
-| 68 | 3/5 | 3/5 | abertura longa (64 palavras), abre com fala |
-| 69 | 3/5 | 3/5 | abertura longa (80 palavras), abre com fala |
-| 70 | 4/5 | 3/5 | abre com fala |
+| 56 | 4/5 | 3/5 | tem marca concreta de tempo/espaço |
+| 57 | 3/5 | 3/5 | abertura longa (77 palavras), tem marca concreta de tempo/espaço |
+| 58 | 3/5 | 2/5 | abertura longa (75 palavras), abre com fala, fecho longo (47 palavras) |
+| 59 | 5/5 | 4/5 | abre com fala, tem marca concreta de tempo/espaço |
+| 60 | 3/5 | 3/5 | abertura longa (74 palavras), abre com fala |
+| 61 | 3/5 | 3/5 | - |
+| 62 | 4/5 | 3/5 | abre com fala |
+| 63 | 3/5 | 3/5 | - |
+| 64 | 4/5 | 3/5 | abre com fala |
+| 65 | 3/5 | 3/5 | abertura longa (115 palavras), abre com fala |
+| 66 | 4/5 | 4/5 | abre com fala |
+| 67 | 4/5 | 3/5 | tem marca concreta de tempo/espaço |
+| 68 | 3/5 | 3/5 | abertura longa (147 palavras), abre com fala |
+| 69 | 3/5 | 3/5 | abertura longa (64 palavras), abre com fala |
+| 70 | 3/5 | 3/5 | abertura longa (80 palavras), abre com fala |
 | 71 | 4/5 | 3/5 | abre com fala |
 | 72 | 4/5 | 3/5 | abre com fala |
 | 73 | 4/5 | 3/5 | abre com fala |
-| 74 | 3/5 | 3/5 | - |
+| 74 | 4/5 | 3/5 | abre com fala |
 | 75 | 3/5 | 3/5 | - |
-| 75.5 | 2/5 | 3/5 | abertura longa (66 palavras), fecho longo (47 palavras) |
-| 76 | 2/5 | 4/5 | abertura longa (128 palavras) |
-| 77 | 3/5 | 3/5 | - |
-| 78 | 3/5 | 3/5 | abertura longa (65 palavras), abre com fala |
-| 79 | 4/5 | 3/5 | abertura longa (64 palavras), abre com fala, tem marca concreta de tempo/espaço |
-| 80 | 4/5 | 3/5 | abre com fala |
-| 81 | 4/5 | 4/5 | tem marca concreta de tempo/espaço |
-| 82 | 4/5 | 2/5 | abre com fala, fecha em travessia/saída |
-| 83 | 3/5 | 4/5 | abertura longa (158 palavras), abre com fala |
-| 84 | 5/5 | 3/5 | abre com fala, tem marca concreta de tempo/espaço |
-| 85 | 4/5 | 4/5 | abre com fala |
-| 86 | 4/5 | 3/5 | abre com fala |
-| 87 | 4/5 | 3/5 | abre com fala |
-| 88 | 4/5 | 4/5 | abre com fala |
+| 76 | 3/5 | 3/5 | - |
+| 77 | 2/5 | 3/5 | abertura longa (66 palavras), fecho longo (47 palavras) |
+| 78 | 2/5 | 4/5 | abertura longa (128 palavras) |
+| 79 | 3/5 | 3/5 | - |
+| 80 | 3/5 | 3/5 | abertura longa (65 palavras), abre com fala |
+| 81 | 4/5 | 3/5 | abertura longa (64 palavras), abre com fala, tem marca concreta de tempo/espaço |
+| 82 | 4/5 | 3/5 | abre com fala |
+| 83 | 4/5 | 4/5 | tem marca concreta de tempo/espaço |
+| 84 | 4/5 | 2/5 | abre com fala, fecha em travessia/saída |
+| 85 | 3/5 | 4/5 | abertura longa (158 palavras), abre com fala |
+| 86 | 5/5 | 3/5 | abre com fala, tem marca concreta de tempo/espaço |
+| 87 | 4/5 | 4/5 | abre com fala |
+| 88 | 4/5 | 3/5 | abre com fala |
 | 89 | 4/5 | 3/5 | abre com fala |
-| 90 | 3/5 | 3/5 | - |
-| 91 | 3/5 | 3/5 | abertura longa (63 palavras), abre com fala |
-| 92 | 4/5 | 3/5 | abre com fala |
-| 93 | 3/5 | 3/5 | - |
+| 90 | 4/5 | 4/5 | abre com fala |
+| 91 | 4/5 | 3/5 | abre com fala |
+| 92 | 3/5 | 3/5 | - |
+| 93 | 3/5 | 3/5 | abertura longa (63 palavras), abre com fala |
 | 94 | 4/5 | 3/5 | abre com fala |
-| 95 | 2/5 | 3/5 | abertura longa (60 palavras) |
-| 96 | 3/5 | 3/5 | - |
-| 97 | 3/5 | 3/5 | abertura longa (106 palavras), abre com fala |
+| 95 | 3/5 | 3/5 | - |
+| 96 | 4/5 | 3/5 | abre com fala |
+| 97 | 2/5 | 3/5 | abertura longa (60 palavras) |
 | 98 | 3/5 | 3/5 | - |
-| 99 | 3/5 | 3/5 | - |
-| 100 | 3/5 | 4/5 | - |
+| 99 | 3/5 | 3/5 | abertura longa (106 palavras), abre com fala |
+| 100 | 3/5 | 3/5 | - |
 | 101 | 3/5 | 3/5 | - |
-| 102 | 3/5 | 3/5 | - |
-| 103 | 3/5 | 3/5 | fecho longo (47 palavras) |
+| 102 | 3/5 | 4/5 | - |
+| 103 | 3/5 | 3/5 | - |
 | 104 | 3/5 | 3/5 | - |
-| 105 | 3/5 | 3/5 | abertura longa (78 palavras), abre com fala |
-| 106 | 4/5 | 3/5 | tem marca concreta de tempo/espaço |
-| 107 | 3/5 | 3/5 | - |
-| 108 | 2/5 | 3/5 | abertura longa (66 palavras) |
-| 109 | 3/5 | 2/5 | fecho longo (49 palavras) |
-| 110 | 2/5 | 3/5 | nenhum nome próprio |
-| 111 | 2/5 | 2/5 | nenhum nome próprio, fecho longo (50 palavras) |
+| 105 | 3/5 | 3/5 | fecho longo (47 palavras) |
+| 106 | 3/5 | 3/5 | - |
+| 107 | 3/5 | 3/5 | abertura longa (78 palavras), abre com fala |
+| 108 | 4/5 | 3/5 | tem marca concreta de tempo/espaço |
+| 109 | 3/5 | 3/5 | - |
+| 110 | 2/5 | 3/5 | abertura longa (66 palavras) |
+| 111 | 3/5 | 2/5 | fecho longo (49 palavras) |
 | 112 | 2/5 | 3/5 | nenhum nome próprio |
-| 113 | 2/5 | 3/5 | nenhum nome próprio |
+| 113 | 2/5 | 2/5 | nenhum nome próprio, fecho longo (50 palavras) |
 | 114 | 2/5 | 3/5 | nenhum nome próprio |
-| 115 | 3/5 | 3/5 | - |
-| 116 | 2/5 | 4/5 | nenhum nome próprio |
+| 115 | 2/5 | 3/5 | nenhum nome próprio |
+| 116 | 2/5 | 3/5 | nenhum nome próprio |
 | 117 | 3/5 | 3/5 | - |
-| 118 | 2/5 | 3/5 | nenhum nome próprio |
-| 119 | 3/5 | 2/5 | fecha em travessia/saída |
-| 120 | 3/5 | 3/5 | - |
-| 121 | 3/5 | 3/5 | - |
+| 118 | 2/5 | 4/5 | nenhum nome próprio |
+| 119 | 3/5 | 3/5 | - |
+| 120 | 2/5 | 3/5 | nenhum nome próprio |
+| 121 | 3/5 | 2/5 | fecha em travessia/saída |
 | 122 | 3/5 | 3/5 | - |
 | 123 | 3/5 | 3/5 | - |
 | 124 | 3/5 | 3/5 | - |
-| 125 | 2/5 | 3/5 | nenhum nome próprio |
-| 126 | 3/5 | 2/5 | fecho longo (51 palavras) |
-| 127 | 3/5 | 3/5 | - |
-| 128 | 3/5 | 3/5 | - |
+| 125 | 3/5 | 3/5 | - |
+| 126 | 3/5 | 3/5 | - |
+| 127 | 2/5 | 3/5 | nenhum nome próprio |
+| 128 | 3/5 | 2/5 | fecho longo (51 palavras) |
 | 129 | 3/5 | 3/5 | - |
 | 130 | 3/5 | 3/5 | - |
-| 131 | 3/5 | 3/5 | abertura longa (68 palavras), abre com fala |
-| 132 | 2/5 | 3/5 | fórmula de abertura (silêncio/chuva/cheiro 'não era'), abre com fala |
-| 133 | 3/5 | 3/5 | - |
-| 134 | 3/5 | 3/5 | - |
+| 131 | 3/5 | 3/5 | - |
+| 132 | 3/5 | 3/5 | - |
+| 133 | 3/5 | 3/5 | abertura longa (68 palavras), abre com fala |
+| 134 | 2/5 | 3/5 | fórmula de abertura (silêncio/chuva/cheiro 'não era'), abre com fala |
 | 135 | 3/5 | 3/5 | - |
 | 136 | 3/5 | 3/5 | - |
-| 137 | 3/5 | 4/5 | - |
-| 138 | 2/5 | 3/5 | nenhum nome próprio |
+| 137 | 3/5 | 3/5 | - |
+| 138 | 3/5 | 3/5 | - |
 | 139 | 3/5 | 4/5 | - |
-| 140 | 3/5 | 3/5 | - |
-| 141 | 3/5 | 3/5 | - |
-| 142 | 2/5 | 3/5 | abertura longa (58 palavras) |
-| 143 | 3/5 | 2/5 | fecho longo (53 palavras) |
-| 144 | 2/5 | 2/5 | abertura longa (59 palavras), fecho longo (86 palavras) |
-| 145 | 3/5 | 2/5 | fecho longo (128 palavras) |
-| 146 | 2/5 | 3/5 | abertura longa (77 palavras) |
-| 147 | 2/5 | 2/5 | abertura longa (66 palavras), fecho longo (86 palavras) |
-| 148 | 2/5 | 4/5 | abertura longa (83 palavras) |
-| 149 | 3/5 | 2/5 | fecho longo (55 palavras) |
-| 150 | 3/5 | 3/5 | - |
-| 151 | 3/5 | 2/5 | fecha em travessia/saída, fecho longo (96 palavras) |
-| 152 | 2/5 | 3/5 | abertura longa (64 palavras), fecho longo (58 palavras) |
-| 153 | 2/5 | 3/5 | abertura longa (90 palavras) |
-| 154 | 2/5 | 2/5 | abertura longa (78 palavras), fecho longo (62 palavras) |
-| 155 | 3/5 | 3/5 | - |
-| 156 | 2/5 | 2/5 | abertura longa (65 palavras), fecho longo (83 palavras) |
-| 157 | 2/5 | 3/5 | abertura longa (59 palavras) |
-| 158 | 2/5 | 3/5 | abertura longa (69 palavras) |
-| 159 | 3/5 | 2/5 | fecho longo (70 palavras) |
-| 160 | 3/5 | 3/5 | - |
-| 161 | 3/5 | 3/5 | - |
-| 162 | 2/5 | 4/5 | abertura longa (64 palavras) |
-| 163 | 2/5 | 2/5 | nenhum nome próprio, fecho longo (69 palavras) |
-| 164 | 2/5 | 2/5 | abertura longa (64 palavras), fecho longo (75 palavras) |
-| 165 | 3/5 | 3/5 | - |
-| 166 | 3/5 | 2/5 | abertura longa (63 palavras), abre com fala, fecho longo (49 palavras) |
-| 167 | 2/5 | 2/5 | abertura longa (63 palavras), fecho longo (80 palavras) |
-| 168 | 3/5 | 3/5 | fecho longo (60 palavras) |
-| 169 | 3/5 | 4/5 | - |
-| 170 | 2/5 | 3/5 | abertura longa (70 palavras) |
-| 171 | 3/5 | 2/5 | fecho longo (61 palavras) |
-| 172 | 3/5 | 3/5 | fecho longo (53 palavras) |
-| 173 | 3/5 | 3/5 | - |
-| 174 | 2/5 | 3/5 | abertura longa (61 palavras) |
-| 175 | 3/5 | 3/5 | fecho longo (62 palavras) |
-| 176 | 3/5 | 3/5 | - |
-| 177 | 3/5 | 3/5 | fecho longo (51 palavras) |
-| 178 | 2/5 | 2/5 | nenhum nome próprio, fecho longo (50 palavras) |
-| 179 | 2/5 | 3/5 | abertura longa (60 palavras) |
-| 180 | 3/5 | 3/5 | fecho longo (56 palavras) |
-| 181 | 3/5 | 3/5 | - |
-| 182 | 2/5 | 3/5 | nenhum nome próprio, fecho longo (68 palavras) |
-| 183 | 2/5 | 3/5 | abertura longa (65 palavras), fecho longo (64 palavras) |
-| 184 | 3/5 | 2/5 | fecho longo (64 palavras) |
-| 185 | 3/5 | 3/5 | - |
-| 186 | 3/5 | 4/5 | - |
-| 187 | 2/5 | 3/5 | abertura longa (58 palavras) |
-| 188 | 2/5 | 3/5 | abertura longa (68 palavras) |
-| 189 | 2/5 | 4/5 | abertura longa (70 palavras) |
-| 190 | 2/5 | 3/5 | abertura longa (69 palavras) |
-| 191 | 2/5 | 3/5 | nenhum nome próprio |
-| 192 | 2/5 | 2/5 | abertura longa (64 palavras), fecho longo (58 palavras) |
-| 193 | 2/5 | 3/5 | abertura longa (59 palavras) |
-| 194 | 3/5 | 2/5 | fecho longo (56 palavras) |
-| 195 | 2/5 | 2/5 | nenhum nome próprio, fecho longo (48 palavras) |
-| 196 | 3/5 | 3/5 | - |
-| 197 | 3/5 | 3/5 | - |
+| 140 | 2/5 | 3/5 | nenhum nome próprio |
+| 141 | 3/5 | 4/5 | - |
+| 142 | 3/5 | 3/5 | - |
+| 143 | 3/5 | 3/5 | - |
+| 144 | 2/5 | 3/5 | abertura longa (58 palavras) |
+| 145 | 3/5 | 2/5 | fecho longo (53 palavras) |
+| 146 | 2/5 | 2/5 | abertura longa (59 palavras), fecho longo (86 palavras) |
+| 147 | 3/5 | 2/5 | fecho longo (128 palavras) |
+| 148 | 2/5 | 3/5 | abertura longa (77 palavras) |
+| 149 | 2/5 | 2/5 | abertura longa (66 palavras), fecho longo (86 palavras) |
+| 150 | 2/5 | 4/5 | abertura longa (83 palavras) |
+| 151 | 3/5 | 2/5 | fecho longo (55 palavras) |
+| 152 | 3/5 | 3/5 | - |
+| 153 | 3/5 | 2/5 | fecha em travessia/saída, fecho longo (96 palavras) |
+| 154 | 2/5 | 3/5 | abertura longa (64 palavras), fecho longo (58 palavras) |
+| 155 | 2/5 | 3/5 | abertura longa (90 palavras) |
+| 156 | 2/5 | 2/5 | abertura longa (78 palavras), fecho longo (62 palavras) |
+| 157 | 3/5 | 3/5 | - |
+| 158 | 2/5 | 2/5 | abertura longa (65 palavras), fecho longo (83 palavras) |
+| 159 | 2/5 | 3/5 | abertura longa (59 palavras) |
+| 160 | 2/5 | 3/5 | abertura longa (69 palavras) |
+| 161 | 3/5 | 2/5 | fecho longo (70 palavras) |
+| 162 | 3/5 | 3/5 | - |
+| 163 | 3/5 | 3/5 | - |
+| 164 | 2/5 | 4/5 | abertura longa (64 palavras) |
+| 165 | 2/5 | 2/5 | nenhum nome próprio, fecho longo (69 palavras) |
+| 166 | 2/5 | 2/5 | abertura longa (64 palavras), fecho longo (75 palavras) |
+| 167 | 3/5 | 3/5 | - |
+| 168 | 3/5 | 2/5 | abertura longa (63 palavras), abre com fala, fecho longo (49 palavras) |
+| 169 | 2/5 | 2/5 | abertura longa (63 palavras), fecho longo (80 palavras) |
+| 170 | 3/5 | 3/5 | fecho longo (60 palavras) |
+| 171 | 3/5 | 4/5 | - |
+| 172 | 2/5 | 3/5 | abertura longa (70 palavras) |
+| 173 | 3/5 | 2/5 | fecho longo (61 palavras) |
+| 174 | 3/5 | 3/5 | fecho longo (53 palavras) |
+| 175 | 3/5 | 3/5 | - |
+| 176 | 2/5 | 3/5 | abertura longa (61 palavras) |
+| 177 | 3/5 | 3/5 | fecho longo (62 palavras) |
+| 178 | 3/5 | 3/5 | - |
+| 179 | 3/5 | 3/5 | fecho longo (51 palavras) |
+| 180 | 2/5 | 2/5 | nenhum nome próprio, fecho longo (50 palavras) |
+| 181 | 2/5 | 3/5 | abertura longa (60 palavras) |
+| 182 | 3/5 | 3/5 | fecho longo (56 palavras) |
+| 183 | 3/5 | 3/5 | - |
+| 184 | 2/5 | 3/5 | nenhum nome próprio, fecho longo (68 palavras) |
+| 185 | 2/5 | 3/5 | abertura longa (65 palavras), fecho longo (64 palavras) |
+| 186 | 3/5 | 2/5 | fecho longo (64 palavras) |
+| 187 | 3/5 | 3/5 | - |
+| 188 | 3/5 | 4/5 | - |
+| 189 | 2/5 | 3/5 | abertura longa (58 palavras) |
+| 190 | 2/5 | 3/5 | abertura longa (68 palavras) |
+| 191 | 2/5 | 4/5 | abertura longa (70 palavras) |
+| 192 | 2/5 | 3/5 | abertura longa (69 palavras) |
+| 193 | 2/5 | 3/5 | nenhum nome próprio |
+| 194 | 2/5 | 2/5 | abertura longa (64 palavras), fecho longo (58 palavras) |
+| 195 | 2/5 | 3/5 | abertura longa (59 palavras) |
+| 196 | 3/5 | 2/5 | fecho longo (56 palavras) |
+| 197 | 2/5 | 2/5 | nenhum nome próprio, fecho longo (48 palavras) |
 | 198 | 3/5 | 3/5 | - |
-| 199 | 3/5 | 4/5 | - |
+| 199 | 3/5 | 3/5 | - |
 | 200 | 3/5 | 3/5 | - |
-| 201 | 2/5 | 2/5 | abertura longa (71 palavras), fecho longo (60 palavras) |
-| 202 | 2/5 | 2/5 | abertura longa (91 palavras), fecho longo (80 palavras) |
-| 203 | 2/5 | 2/5 | abertura longa (87 palavras), fecho longo (69 palavras) |
-| 204 | 2/5 | 2/5 | nenhum nome próprio, fecho longo (55 palavras) |
-| 205 | 2/5 | 2/5 | abertura longa (79 palavras), fecho longo (48 palavras) |
-| 206 | 2/5 | 2/5 | abertura longa (88 palavras), fecho longo (73 palavras) |
-| 207 | 2/5 | 3/5 | abertura longa (70 palavras) |
-| 208 | 2/5 | 3/5 | abertura longa (80 palavras) |
-| 209 | 2/5 | 3/5 | abertura longa (66 palavras) |
-| 210 | 2/5 | 3/5 | abertura longa (75 palavras), fecho longo (47 palavras) |
-| 211 | 3/5 | 4/5 | - |
-| 212 | 3/5 | 3/5 | - |
-| 213 | 2/5 | 3/5 | abertura longa (58 palavras) |
-| 214 | 2/5 | 3/5 | abertura longa (79 palavras) |
-| 215 | 3/5 | 3/5 | - |
-| 216 | 1/5 | 2/5 | abertura longa (65 palavras), nenhum nome próprio, fecho longo (64 palavras) |
-| 217 | 2/5 | 3/5 | abertura longa (126 palavras) |
-| 218 | 2/5 | 3/5 | nenhum nome próprio |
-| 219 | 3/5 | 3/5 | - |
-| 220 | 3/5 | 3/5 | abertura longa (81 palavras), abre com fala |
+| 201 | 3/5 | 4/5 | - |
+| 202 | 3/5 | 3/5 | - |
+| 203 | 2/5 | 2/5 | abertura longa (71 palavras), fecho longo (60 palavras) |
+| 204 | 2/5 | 2/5 | abertura longa (91 palavras), fecho longo (80 palavras) |
+| 205 | 2/5 | 2/5 | abertura longa (87 palavras), fecho longo (69 palavras) |
+| 206 | 2/5 | 2/5 | nenhum nome próprio, fecho longo (55 palavras) |
+| 207 | 2/5 | 2/5 | abertura longa (79 palavras), fecho longo (48 palavras) |
+| 208 | 2/5 | 2/5 | abertura longa (88 palavras), fecho longo (73 palavras) |
+| 209 | 2/5 | 3/5 | abertura longa (70 palavras) |
+| 210 | 2/5 | 3/5 | abertura longa (80 palavras) |
+| 211 | 2/5 | 3/5 | abertura longa (66 palavras) |
+| 212 | 2/5 | 3/5 | abertura longa (75 palavras), fecho longo (47 palavras) |
+| 213 | 3/5 | 4/5 | - |
+| 214 | 3/5 | 3/5 | - |
+| 215 | 2/5 | 3/5 | abertura longa (58 palavras) |
+| 216 | 2/5 | 3/5 | abertura longa (79 palavras) |
+| 217 | 3/5 | 3/5 | - |
+| 218 | 1/5 | 2/5 | abertura longa (65 palavras), nenhum nome próprio, fecho longo (64 palavras) |
+| 219 | 2/5 | 3/5 | abertura longa (126 palavras) |
+| 220 | 2/5 | 3/5 | nenhum nome próprio |
 | 221 | 3/5 | 3/5 | - |
-| 222 | 3/5 | 3/5 | - |
-| 223 | 3/5 | 3/5 | abertura longa (217 palavras), abre com fala |
+| 222 | 3/5 | 3/5 | abertura longa (81 palavras), abre com fala |
+| 223 | 3/5 | 3/5 | - |
 | 224 | 3/5 | 3/5 | - |
-| 225 | 3/5 | 3/5 | - |
+| 225 | 3/5 | 3/5 | abertura longa (217 palavras), abre com fala |
 | 226 | 3/5 | 3/5 | - |
-| 227 | 3/5 | 3/5 | abertura longa (164 palavras), abre com fala |
-| 228 | 2/5 | 3/5 | abertura longa (67 palavras) |
-| 229 | 3/5 | 3/5 | abertura longa (155 palavras), abre com fala |
-| 230 | 2/5 | 2/5 | abertura longa (97 palavras), fecho longo (46 palavras) |
+| 227 | 3/5 | 3/5 | - |
+| 228 | 3/5 | 3/5 | - |
+| 229 | 3/5 | 3/5 | abertura longa (164 palavras), abre com fala |
+| 230 | 2/5 | 3/5 | abertura longa (67 palavras) |
 | 231 | 3/5 | 3/5 | - |
-| 232 | 3/5 | 3/5 | abertura longa (85 palavras), abre com fala |
-| 233 | 3/5 | 3/5 | abertura longa (60 palavras), abre com fala |
-| 233.5 | 3/5 | 3/5 | - |
+| 232 | 3/5 | 3/5 | abertura longa (155 palavras), abre com fala |
+| 233 | 2/5 | 2/5 | abertura longa (97 palavras), fecho longo (46 palavras) |
 | 234 | 3/5 | 3/5 | - |
-| 235 | 2/5 | 3/5 | nenhum nome próprio |
-| 236 | 3/5 | 3/5 | - |
+| 235 | 3/5 | 3/5 | abertura longa (85 palavras), abre com fala |
+| 236 | 3/5 | 3/5 | abertura longa (60 palavras), abre com fala |
+| 237 | 3/5 | 3/5 | - |
+| 238 | 3/5 | 3/5 | - |
+| 239 | 2/5 | 3/5 | nenhum nome próprio |
+| 240 | 3/5 | 3/5 | - |
+| 241 | 3/5 | 4/5 | - |
+| 242 | 2/5 | 3/5 | abertura longa (60 palavras) |
+| 243 | 2/5 | 3/5 | abertura longa (63 palavras) |
+| 244 | 3/5 | 3/5 | - |
+| 245 | 3/5 | 2/5 | fecho longo (54 palavras) |
+| 246 | 3/5 | 3/5 | - |
+| 247 | 3/5 | 3/5 | - |
+| 248 | 2/5 | 4/5 | abertura longa (75 palavras) |
+| 249 | 2/5 | 3/5 | abertura longa (73 palavras), fecho longo (138 palavras) |
+| 250 | 2/5 | 4/5 | abertura longa (71 palavras) |
+| 251 | 3/5 | 2/5 | fecho longo (55 palavras) |
+| 252 | 2/5 | 3/5 | nenhum nome próprio, fecho longo (47 palavras) |
+| 253 | 2/5 | 3/5 | abertura longa (78 palavras) |
+| 254 | 2/5 | 4/5 | abertura longa (64 palavras) |
+| 255 | 3/5 | 2/5 | fecho longo (57 palavras) |
+| 256 | 3/5 | 4/5 | - |
 
 **19 capítulos com gancho fraco (soma <= 4).**
 
-- `capitulo-216` — abertura 1/5, fecho 2/5: abertura longa (65 palavras), nenhum nome próprio, fecho longo (64 palavras)
-- `capitulo-111` — abertura 2/5, fecho 2/5: nenhum nome próprio, fecho longo (50 palavras)
-- `capitulo-144` — abertura 2/5, fecho 2/5: abertura longa (59 palavras), fecho longo (86 palavras)
-- `capitulo-147` — abertura 2/5, fecho 2/5: abertura longa (66 palavras), fecho longo (86 palavras)
-- `capitulo-154` — abertura 2/5, fecho 2/5: abertura longa (78 palavras), fecho longo (62 palavras)
-- `capitulo-156` — abertura 2/5, fecho 2/5: abertura longa (65 palavras), fecho longo (83 palavras)
-- `capitulo-163` — abertura 2/5, fecho 2/5: nenhum nome próprio, fecho longo (69 palavras)
-- `capitulo-164` — abertura 2/5, fecho 2/5: abertura longa (64 palavras), fecho longo (75 palavras)
-- `capitulo-167` — abertura 2/5, fecho 2/5: abertura longa (63 palavras), fecho longo (80 palavras)
-- `capitulo-178` — abertura 2/5, fecho 2/5: nenhum nome próprio, fecho longo (50 palavras)
-- `capitulo-192` — abertura 2/5, fecho 2/5: abertura longa (64 palavras), fecho longo (58 palavras)
-- `capitulo-195` — abertura 2/5, fecho 2/5: nenhum nome próprio, fecho longo (48 palavras)
-- `capitulo-201` — abertura 2/5, fecho 2/5: abertura longa (71 palavras), fecho longo (60 palavras)
-- `capitulo-202` — abertura 2/5, fecho 2/5: abertura longa (91 palavras), fecho longo (80 palavras)
-- `capitulo-203` — abertura 2/5, fecho 2/5: abertura longa (87 palavras), fecho longo (69 palavras)
-- `capitulo-204` — abertura 2/5, fecho 2/5: nenhum nome próprio, fecho longo (55 palavras)
-- `capitulo-205` — abertura 2/5, fecho 2/5: abertura longa (79 palavras), fecho longo (48 palavras)
-- `capitulo-206` — abertura 2/5, fecho 2/5: abertura longa (88 palavras), fecho longo (73 palavras)
-- `capitulo-230` — abertura 2/5, fecho 2/5: abertura longa (97 palavras), fecho longo (46 palavras)
+- `capitulo-218` — abertura 1/5, fecho 2/5: abertura longa (65 palavras), nenhum nome próprio, fecho longo (64 palavras)
+- `capitulo-113` — abertura 2/5, fecho 2/5: nenhum nome próprio, fecho longo (50 palavras)
+- `capitulo-146` — abertura 2/5, fecho 2/5: abertura longa (59 palavras), fecho longo (86 palavras)
+- `capitulo-149` — abertura 2/5, fecho 2/5: abertura longa (66 palavras), fecho longo (86 palavras)
+- `capitulo-156` — abertura 2/5, fecho 2/5: abertura longa (78 palavras), fecho longo (62 palavras)
+- `capitulo-158` — abertura 2/5, fecho 2/5: abertura longa (65 palavras), fecho longo (83 palavras)
+- `capitulo-165` — abertura 2/5, fecho 2/5: nenhum nome próprio, fecho longo (69 palavras)
+- `capitulo-166` — abertura 2/5, fecho 2/5: abertura longa (64 palavras), fecho longo (75 palavras)
+- `capitulo-169` — abertura 2/5, fecho 2/5: abertura longa (63 palavras), fecho longo (80 palavras)
+- `capitulo-180` — abertura 2/5, fecho 2/5: nenhum nome próprio, fecho longo (50 palavras)
+- `capitulo-194` — abertura 2/5, fecho 2/5: abertura longa (64 palavras), fecho longo (58 palavras)
+- `capitulo-197` — abertura 2/5, fecho 2/5: nenhum nome próprio, fecho longo (48 palavras)
+- `capitulo-203` — abertura 2/5, fecho 2/5: abertura longa (71 palavras), fecho longo (60 palavras)
+- `capitulo-204` — abertura 2/5, fecho 2/5: abertura longa (91 palavras), fecho longo (80 palavras)
+- `capitulo-205` — abertura 2/5, fecho 2/5: abertura longa (87 palavras), fecho longo (69 palavras)
+- `capitulo-206` — abertura 2/5, fecho 2/5: nenhum nome próprio, fecho longo (55 palavras)
+- `capitulo-207` — abertura 2/5, fecho 2/5: abertura longa (79 palavras), fecho longo (48 palavras)
+- `capitulo-208` — abertura 2/5, fecho 2/5: abertura longa (88 palavras), fecho longo (73 palavras)
+- `capitulo-233` — abertura 2/5, fecho 2/5: abertura longa (97 palavras), fecho longo (46 palavras)

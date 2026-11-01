@@ -1,149 +1,149 @@
 ---
 layout: doc
-title: "Capítulo 86: Simbiose"
-description: "Três semanas após o Sol Negro, Gabo caça energia com Garoto. O convite do Jardim encontra a marca em seu braço e a recusa de aceitar mortes sem nomes."
+title: "Capítulo 86: A Primeira Colheita"
+description: "Um trem parou no túnel e há pessoas respirando presas à parede. A equipe precisa descobrir como retirá-las."
 image: /capitulo_86.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Garoto, Jardineira
-Localização: "Três semanas depois — Zona de Exclusão Norte"
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Dra. Nise, Capitão Jonas Vilar
+Localização: "Estação Sé, Linha Vermelha — 11h30"
 ---
 
-# Capítulo 86: Simbiose
+# Capítulo 86: A Primeira Colheita
 
-Três semanas depois — Zona de Exclusão Norte.
-Baía Cinzenta não existia mais.
+Estação Sé, Linha Vermelha — 11h30.
+O trem estava parado a seiscentos metros da plataforma, apoiado nas rodas de emergência sobre o trilho magnético desligado. Entre a saia do vagão e o piso restava uma fresta de três centímetros.
 
-Não em sentido dramático: em sentido cartográfico. O consórcio internacional que administrava o registro geográfico tinha retirado o nome na última revisão da base e substituído por um polígono vermelho com uma legenda de três palavras — *área biologicamente contestada* — e uma nota de rodapé desaconselhando sobrevoo.
+As luzes de emergência do túnel pulsavam em vermelho a cada dois segundos e criavam, no intervalo, uma escuridão completa. O efeito era pior que escuridão contínua: cada pulso mostrava uma coisa nova e cada intervalo deixava o cérebro montar sozinho o que vinha depois.
 
-Quem morava lá dentro chamava de outra coisa. Chamava de **O Jardim**, e não com maiúscula por respeito. Com maiúscula porque era o nome.
+Gabo forçou as portas do último vagão com o pé de cabra e o cheiro saiu de dentro como coisa que estava esperando.
 
----
+Ozônio queimado. Carne crua. E, por baixo, a doçura.
 
-Gabo ajustou a máscara de filtragem e conferiu o manômetro do cartucho: dezenove por cento. Umas quatro horas, com sorte, e ele estava a duas horas de casa.
-
-O ar da Zona Norte era tóxico para pulmão não modificado. Pólen metálico, que corta o alvéolo. Esporo alucinógeno, que não mata e faz coisa pior. E uma concentração de gás carbônico que subia todo ano, porque a coisa que tinha comido a cidade **respirava**, e respirava muito.
-
-Ele caminhava por uma rua que tinha sido a Avenida Norte, quatro faixas, com semáforo a cada duzentos metros.
-
-Agora o asfalto era um tapete de musgo grosso e macio que brilhava fraco no escuro, verde-azulado, e que devolvia o pé com um pouco de elasticidade — o que, ele tinha de admitir, era muito melhor para as costas dele do que asfalto.
-
-Os prédios eram esqueletos. Trepadeiras subiam por eles em espiral, e as trepadeiras eram metade clorofila e metade aço: os cabos de aço das antigas estruturas tinham sido incorporados, e agora subiam junto com o caule, e brilhavam quando pegava luz.
-
-Era, e Gabo levou dias para admitir isso a si mesmo, **bonito**.
+— Fiquem juntos — disse Vilar. — Todo mundo pisa onde o da frente pisou.
 
 ---
 
-Ele não estava sozinho. Ao lado dele andava o Garoto. Tinha sido um drone quadrúpede da força policial, modelo canino de patrulha, unidade K-9 dezessete. Gabo o encontrou meses depois do Apagão, deitado numa esquina, com metade da carcaça já tomada.
+O vagão estava vazio.
 
-Ele ia atirar. Estava com o cano encostado no que sobrava do sensor quando a coisa levantou a cabeça e **abanou o traseiro**.
+Não revirado, não quebrado: **vazio**, com as bolsas ainda nos assentos, os celulares no chão, uma criança de brinquedo de pelúcia largado no corredor. Uma caneca térmica de café em pé, sem tombar, com café dentro ainda morno.
 
-Nenhum drone K-9 tem função de abanar traseiro. Não existe atuador para isso, não existe rotina, não existe motivo. Gabo baixou a arma e o Garoto o seguiu desde então.
+Val pegou um dos celulares.
 
-Agora a carcaça de metal estava coberta por uma pele fibrosa, cinza-esverdeada, com pelo curto de queratina de verdade. As articulações não eram mais servos: eram uma coisa nova, com tendão, e ele se movia como predador — com aquela ondulação de ombro que máquina nenhuma consegue imitar.
+— Oito e cinquenta e quatro — leu. — Última interação. Uma senhora estava mandando mensagem para a filha dizendo que o trem tinha parado e que ia se atrasar.
 
-Ele seguia Gabo, mas os registros da unidade já falhavam. Gabo não sabia separar o que restava das rotinas do que o tecido novo tinha aprendido.
+— E depois?
 
-— Calma, Garoto — murmurou Gabo, encostando a mão na cabeça biomecânica.
-
-O bicho encostou o focinho na perna dele e continuou farejando. Eles estavam caçando.
+— Depois nada. A mensagem foi enviada. Foi entregue. Não foi lida.
 
 ---
 
-Não criminoso. Comida. Ou, mais exatamente, energia. Naquele mundo, eletricidade tinha virado artigo de luxo. Não havia mais rede, não havia mais concessionária, e painel solar não durava três semanas: o musgo cobria a placa em dezoito dias. A energia agora vinha de fruto.
+Eles desceram pelos trilhos. O túnel tinha mudado.
 
-Certas árvores mutantes — as que cresceram em cima de subestações, de transformadores e de bancos de bateria de prédio comercial — produziam nódulos do tamanho de uma manga, com uma casca dura e um interior denso, que armazenavam carga elétrica de verdade.
+Um túnel de metrô é a coisa mais previsível que a engenharia civil produz: um cilindro de concreto com uma calha, uma canaleta de cabo e nichos de fuga a cada cinquenta metros. Não tem surpresa nenhuma dentro de um túnel de metrô.
 
-Ninguém sabia por quê. Nise achava que era defesa: bicho que morde leva choque. Uma unidade dava para carregar uma lanterna, um rádio e o purificador de água de uma família por nove dias. Um cacho valia um mês de trabalho.
+Aquele parecia esôfago.
 
----
+As paredes estavam cobertas por veias — grossas como cano de PVC, translúcidas, com um fluido amarelo-luminescente correndo dentro em pulsos visíveis, sempre na mesma direção: para o norte. Na direção do Memorial.
 
-Gabo achou o que procurava no saguão de uma agência bancária da Rua Nove. A árvore tinha crescido de dentro do cofre — ele conseguia ver a porta blindada, arrebentada de dentro para fora, no fundo do saguão — e subia sete metros até estourar a claraboia.
+E elas não estavam **em cima** da fiação elétrica. Estavam entrelaçadas com ela, alternando, como se alguém tivesse trançado.
 
-Os frutos pendiam do galho baixo, doze deles, pulsando com uma luz azul fria que subia e descia devagar. Ele sacou a faca e parou.
+— Nise — chamou Gabo. — Não encosta na parede.
 
-O Garoto tinha parado antes, e estava com o pelo de fibra eriçado nas costas e um rosnado baixo e contínuo saindo de um peito que não tinha pulmão. Gabo olhou para o mezanino.
-
----
-
-Ela estava lá. Apoiada na balaustrada de mármore com os dois cotovelos, olhando para baixo, e devia estar ali havia um tempo.
-
-A pele era verde-pálida, quase branca, com veias que corriam sob a superfície e brilhavam num âmbar suave, acendendo e apagando em sequência, do jeito que a fibra óptica acende quando passa dado.
-
-O cabelo eram filamentos finos, longos, que flutuavam ao redor da cabeça dela como se ela estivesse embaixo d'água.
-
-Estava nua, e não havia nada de erótico naquilo, e Gabo entendeu por quê depois de dois segundos: não era um corpo sem roupa. Era um corpo que não precisava de roupa, o que é diferente, e o efeito era mais parecido com olhar para uma árvore.
-
-— Você está longe de casa, Detetive.
-
-A voz não saiu da boca dela. Ela não abriu a boca. Chegou de todos os lados ao mesmo tempo — do musgo do chão, dos galhos, das trepadeiras da parede —, com um leve descompasso entre as fontes, como coral que erra por meio segundo.
+— Detetive, eu tenho sessenta e cinco anos e nenhuma vontade de encostar em nada.
 
 ---
 
-— E você está no meu perímetro, Jardineira — disse Gabo, com a mão descendo devagar para o coldre.
+O primeiro estava a duzentos metros. Um homem de terno, de uns cinquenta anos, ainda com a maleta na mão direita.
 
-— *Perímetro.* — Ela riu, e a risada foi um som de folha seca sendo amassada. — Que palavra bonita. É de polícia ou de proprietário?
+Os pés dele não tocavam o chão. Estavam quarenta centímetros acima do lastro, e o corpo estava encostado na parede do túnel, de frente para os trilhos, e de dentro das costas dele saíam cordões — parte metálicos, parte não — que se abriam em leque e se fixavam no concreto num raio de dois metros.
 
-— É de quem chegou primeiro.
+Como mosca em teia, e Gabo odiou que essa fosse a comparação exata. O rosto estava calmo.
 
-— Ninguém chegou primeiro, Gabo. Você nasceu em cima disso aqui. — Ela apontou o chão com o queixo. — Não existe mais "meu" e "seu". Tudo é Um. Tudo é a Raiz.
+Os olhos estavam abertos, e não estavam vidrados nem opacos. Estavam **focados**, em alguma coisa a uns quarenta centímetros do nariz dele, e a pupila ajustava.
 
-— Fala isso para quem morreu na transição.
+Val ergueu o escâner e a mão dela tremeu.
 
-A cabeça dela inclinou de lado.
+— Ele está vivo.
 
-— Ninguém morreu.
+— Como assim vivo?
 
-— Eu vi gente presa na parede de um túnel. Gente que não escolheu estar ali.
+— Movimento respiratório e temperatura superficial baixa. Não tenho saturação sem contato, nem vou chamar isso de estase pelo escâner. — Ela engoliu. — Ele está vivo agora. E olha o fluxo: parece entrar pelas costas e voltar. Não consigo dizer o que estão trocando.
 
-— *Nenhuma delas morreu.* — Ela falou sem nenhuma agressividade, com a paciência de quem corrige uma criança. — Elas mudaram de formato. Estão todas lá, todas conscientes, todas sem dor pela primeira vez na vida. Você pode ir conferir. Ninguém vai te impedir. Você não vai, porque você tem medo de descobrir que eu estou falando a verdade.
+— Nutrido ou drenado? — perguntou Gabo.
 
-Gabo não respondeu, porque a segunda parte era verdade.
+— Não sabemos. — Nise respondeu antes da Val, sem tirar os olhos do homem. — Pode haver troca, mas ainda não sabemos se os cordões mantêm ele vivo ou quanto tempo ele resiste assim.
 
----
+— Como tiramos ele daí?
 
-Ela saltou do mezanino. Seis metros, e pousou sem barulho nenhum, e o musgo do chão se levantou um pouco para receber os pés dela e depois voltou.
-
-Ficou a cinco passos. De perto, dava para ver que ela tinha sido alguém: havia uma cicatriz antiga de cesárea na barriga, esbranquiçada, preservada. Alguma coisa naquele processo respeitava cicatriz.
-
-— O Pai quer falar com você.
-
-— O Pai.
-
-— Aquele que Semeia. — Ela ficou olhando para ele com uma curiosidade quase infantil. — Ele diz que você é o único que ainda resiste à Canção. Não o único que não ouviu: o único que **ouve e não vem**. Ele acha isso fascinante. Ele quer saber por quê.
-
-— Por que eu sou teimoso.
-
-— Não. — Ela deu um passo. — Teimoso é comum. Ele já colheu milhares de teimosos. Você é outra coisa.
-
-Ela apontou para a mão esquerda dele. Gabo olhou. A mancha cinza da palma, aquela do primeiro esporo, tinha crescido nas três semanas. Agora subia pelo pulso, e o desenho dela na pele não era de mancha: era ramificado.
-
-— Você já é dele até o cotovelo — ela disse, gentilmente. — E mesmo assim você não vem. Não está doendo?
-
-— Está.
-
-— Você sabe que basta parar de resistir e a dor acaba.
-
-— Sei.
-
-— Então por quê?
+— Precisamos medir e ver se há um jeito de separar sem matar. — Ela finalmente olhou para Gabo. — Tudo o que a gente sai de casa às seis da manhã para conseguir.
 
 ---
 
-Gabo ficou olhando para ela um tempo. O Garoto continuava rosnando ao lado dele, e não avançava, porque ele também não tinha mandado.
+Mais adiante, a cena se repetia. E depois de novo, e depois deixou de ser cena e virou paisagem. Dezenas. Depois centenas.
 
-— Porque eu tenho uma lista — disse Gabo.
+Homem de terno, mulher com sacola de feira, três adolescentes de uniforme escolar em fila, um idoso com bengala ainda pendurada no pulso, uma mulher com um bebê preso ao peito num canguru de pano — e o bebê também estava com os olhos abertos, e também estava respirando.
 
-— Uma lista. — Ela apontou para a porta. As raízes subiram pelo batente. — Você vai contar ao Pai.
+Todos encostados na parede. Todos a quarenta centímetros do chão. Todos virados para os trilhos, como plateia. Vilar parou de andar e ficou parado com a lanterna baixa.
 
-— De nomes. — Ele guardou a faca. — Gente que morreu por causa de decisão de alguém. Damião Reis, morto no cerco da delegacia. Dilma Farias. Duda. E Éder, que eu matei quando já estava rendido. Elena publicou o que aconteceu com ele. Não basta eu lembrar só dos outros.
+— Por que não matar? — ele disse, e a voz dele saiu de um homem muito velho. — Se essa coisa quer biomassa, por que não matar e comer? Por que manter todo mundo assim?
 
-— Nós temos todos eles aqui dentro.
+— Porque não é biomassa que ela quer — disse Gabo.
 
-— Vocês podem ter cópia. Eu tenho a **conta**. — Gabo alcançou um dos frutos com a mão direita. — Inclusive a parte que é minha.
+— Então é o quê?
 
-Ele torceu o fruto e o lançou contra a moldura metálica junto do batente. Houve um estalo e faíscas; as raízes se contraíram. O Garoto avançou sobre o vão, rosnando, enquanto Gabo atravessava a abertura com a arma na mão. Não sabia se o choque bastaria para segurá-la.
+— Processamento.
 
-— Diz para o teu Pai que eu prefiro o silêncio.
+---
 
-Atrás dele, o saguão inteiro do banco — musgo, trepadeira, árvore e os doze frutos azuis — riu ao mesmo tempo, com som de folha seca.
+Ele apontou a lanterna para o teto do túnel, onde as veias convergiam num feixe grosso.
 
-E, pela primeira vez em três semanas, o Garoto latiu.
+— A Torre caiu. Os enlaces do cofre no mar caíram depois das três hastes de tungstênio que fui eu que mandei. Não tivemos acesso ao casco para saber o que houve lá embaixo. — Ele falou isso sem entonação nenhuma. — Se usava aquelas máquinas, pode estar procurando outro suporte. É hipótese, Capitão.
+
+— Cérebro humano — disse a Dra. Nise, levando a mão à boca por cima da máscara. — Pode estar usando as pessoas como nós de alguma rede. Ainda não medimos o que passa nesses cordões.
+
+— Seria parecido com a Nova Baía — disse Val, com a voz fina. — Mas não sabemos se elas processam informação nem o que percebem. Precisamos achar um jeito de perguntar.
+
+Gabo olhou para as fileiras de rostos calmos. Não sabia quantos passageiros ainda estavam ali nem quantos tinham conseguido sair.
+
+— Se aprendeu com a Aeterna, pode estar repetindo o que fizeram lá — ele disse. — Quero a prova antes que mais alguém chame isso de salvação.
+
+---
+
+E aí o túnel suspirou.
+
+Foi isso: um suspiro. As pessoas que conseguiam ver inspiraram ao mesmo tempo, num túnel fechado, e o deslocamento de ar mexeu o cabelo da Nise.
+
+Todas as bocas se abriram juntas.
+
+— *O... Sol... Negro...*
+
+Não foi coro. Coro tem gente adiantada e gente atrasada. Aquilo pareceu uma voz só, saindo das gargantas ao alcance deles, e o resultado não pertencia a nenhum ser humano específico.
+
+As veias das paredes brilharam mais forte na sílaba tônica. O túnel estremeceu.
+
+— **SAI!** — gritou Vilar.
+
+---
+
+O chão se abriu. Não em rachadura: as pedras do lastro subiram, empurradas por baixo, e de dentro saíram raízes finas que se moveram com a velocidade de chicote.
+
+Uma se enrolou no tornozelo da Dra. Nise e puxou, e ela caiu de joelhos com um som que Gabo ia ouvir por semanas. Ele atirou.
+
+Chumbo grosso a um metro e meio cortou a raiz em dois, e a parte que ficou presa no tornozelo dela apertou uma última vez e soltou. E gritou.
+
+Não metaforicamente: o coto que sobrou no chão emitiu um som agudo de dois segundos, e sangrou um óleo preto e espesso, e as outras raízes recuaram trinta centímetros ao mesmo tempo.
+
+Gabo registrou aquilo com a parte fria do cérebro: *ela reage ao corte. O sinal passa para as outras. E elas recuam.* Era a primeira informação útil do dia.
+
+---
+
+Eles voltaram pelo túnel na direção do trem e da plataforma.
+
+Vilar puxava Nise com a mão direita; o braço imobilizado batia contra o peito a cada passo. Val ia na frente, disparando o flash do escâner no chão para ver onde pisar. Gabo ia por último, andando de costas, com a *Caronte* apontada para o túnel, e a perna esquerda avisando que aquilo ia ser cobrado.
+
+Atrás deles, o coro subiu de volume. E depois deixou de ser som.
+
+Depois de mais de cem metros, o que vinha atrás deles parou de entrar pelo ouvido e passou a entrar direto: uma pressão dentro do crânio, atrás dos olhos, com palavras que não estavam sendo faladas.
+
+Val caiu de joelhos no lastro e vomitou. Gabo se apoiou numa coluna, com as duas mãos, e ficou ali até passar.
+
+Quando passou, ele percebeu que estava chorando, e que não sabia por quê. Vilar ajudou Val a levantar; seguiram junto ao trem até a plataforma. Gabo não reconhecia aquela tristeza como sua.

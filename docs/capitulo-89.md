@@ -1,138 +1,149 @@
 ---
 layout: doc
-title: "Capítulo 89: Memória Genética"
-description: "Gabo enfia a mão aberta na parede viva da Torre para consultar o arquivo. Sai com a resposta, com o nome do Jardineiro e com veias pretas até o cotovelo."
+title: "Capítulo 89: O Novo Sacerdócio"
+description: "Vilar continua em recuperação após a amputação e o atendimento ocular. A ameaça aos sistemas de ventilação do enclave não equivale a eliminar todo oxigênio da cidade."
 image: /capitulo_89.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti
-Localização: "Ruínas da Torre Aeterna — Zona Proibida"
+Personagens Presentes: Capitão Jonas Vilar, Jonas Pequeno
+Localização: "Catedral de Ferro — que antes era esgoto e agora é morro. Tarde"
 ---
 
-# Capítulo 89: Memória Genética
+# Capítulo 89: O Novo Sacerdócio
 
-Ruínas da Torre Aeterna — Zona Proibida.
-Ele não devia estar ali, e todo mundo que tinha o direito de opinar já tinha opinado.
+Catedral de Ferro — que antes era esgoto e agora é morro. Tarde.
+A topografia da cidade tinha mudado, e isso é uma frase que se lê rápido demais.
 
-A Torre era o epicentro. Era onde o Sol Negro pairava mais baixo — a uns oitenta metros do topo torto —, e o ar naquele quarteirão não era ar: era uma suspensão. O facho da lanterna morria em quatro metros, como dentro de água suja.
+Quer dizer o seguinte: as raízes que cresceram no subsolo empurraram estruturas inteiras para cima. Quarteirões subiram. O nível da Rua Vinte e Dois estava agora nove metros acima do que era, e o esgoto principal do Setor 4 — o domínio do Padre Miguel, a Catedral de Ferro — tinha emergido.
 
-Gabo tinha saído do bunker às três da manhã, sem avisar, com a Dra. Nise dormindo numa cadeira do corredor.
+O que era subterrâneo virou colina.
 
-Ele deixou um bilhete de sete palavras: *Volto até as nove. Não venham atrás. G.*
+A abóbada de tijolo se abriu como casca de ovo, e o que sobrou era uma catedral a céu aberto feita de tubo de drenagem, comporta enferrujada e árvores petrificadas de sete metros, com o sol da tarde entrando pelos vãos em feixes cheios de esporo.
 
----
-
-Ele precisava de resposta, e não havia mais onde procurar. Não havia arquivo. Não havia servidor. Não havia rede — não a que ele conhecia.
-
-A nova internet daquela cidade não rodava em silício. Rodava em seiva.
-
-E, se rodava em seiva, então existia um jeito de consultar, e o jeito era o mais antigo e o mais burro de todos, e Gabo tinha passado quatro noites tentando pensar num melhor.
+Era, sem nenhum exagero, o lugar mais bonito de Baía Cinzenta. Vilar odiava aquilo com uma intensidade que ele tinha vergonha de sentir.
 
 ---
 
-A parede da antiga sala de servidores estava viva.
+Ele subiu a rampa a pé, sozinho, desarmado, porque essa tinha sido a condição.
 
-Onde tinha havido um banco de dados de quatro andares, agora havia uma membrana contínua, de uns quinze centímetros de espessura, colada ao concreto e cobrindo tudo — parede, teto, o vão dos elevadores. Pulsava devagar, no compasso de setenta e poucos, e a superfície era morna e ligeiramente úmida, com uma textura de couro fino.
+Cinquenta e cinco anos. Um braço: o esquerdo, esmagado na porta do laboratório e depois tomado pela infecção, fora amputado nas três semanas após o Sol Negro. O tapa-olho também era recente.
 
-Gabo encostou a lanterna no chão, virada para cima.
+O olho esquerdo ele tinha perdido para uma infecção fúngica que entrou por um arranhão na sobrancelha e que obrigara a equipe cirúrgica a retirar o olho num ambulatório de campanha. Nise acompanhara o pós-operatório; nem ela prometera que tinham contido tudo.
 
-— Vamos ver se a teoria funciona — ele murmurou, e a voz dele soou horrível naquele silêncio.
-
-Ele tirou a luva da mão direita — ainda limitada pelas lesões antigas, mas sem a ramificação que já tomava a esquerda.
-
-E parou por uns oito segundos, porque uma coisa é montar a teoria e outra é executar. Depois abriu a palma com a faca.
+Ele ainda sentia o olho que não estava lá. Passou a odiar isso também.
 
 ---
 
-Um corte de quatro centímetros, na diagonal, fundo o suficiente. Sangue vermelho e vivo brotou na hora e escorreu pelo pulso. Ele encostou a mão aberta na membrana. A reação foi imediata.
+Ele liderava a milícia dos Puros.
 
-Não houve espera, não houve reconhecimento: gavinhas finíssimas saíram da parede e entraram no corte, dezenas delas, procurando vaso, e encontraram — e a dor foi de um tipo que ele não conhecia.
+Eram os que recusavam a Simbiose. Duzentas e quarenta pessoas num enclave fortificado no Distrito Industrial, com chapa de aço naval soldada desde os primeiros meses do Apagão, com gerador a diesel, com água de poço artesiano e com rifle de ferrolho.
 
-Não era queimar. Era **gelo líquido** subindo por dentro do braço, centímetro a centímetro, cada centímetro chegando com um estalo de frio, e ele conseguiu acompanhar a subida pelo tempo: antebraço em dois segundos, cotovelo em três, ombro em cinco.
+Tecnologia velha, deliberadamente. Nada com rede, nada com sensor, nada que tivesse porta.
 
-Ele gritou e não soltou. E aí a Torre abriu o arquivo.
-
----
-
-O mundo não sumiu. Ficou **maior**.
-
-Gabo continuou de pé com a mão na parede, e ao mesmo tempo estava vendo pelas flores da praça central a nove quarteirões dali, com aquela visão de trezentos e sessenta graus que uma flor tem e que nenhum olho humano sabe processar.
-
-Parecia ver Vilar, no bunker do enclave, discutindo com dois tenentes em cima de um mapa, e o Vilar levantava e sentava e levantava de novo, e não estava conseguindo falar o que precisava falar.
-
-Parecia ver a Dra. Nise, no corredor do subsolo do Hospital, sentada ao lado do berço de contenção onde repousava o pendrive da Aria, chorando com o rosto nas mãos de um jeito organizado e silencioso que ela nunca deixaria ninguém ver.
-
-Estava vendo mil e quinhentas coisas ao mesmo tempo e nenhuma delas com surpresa. E, embaixo de tudo isso, havia mais fundo.
+Vilar tinha construído aquilo com as próprias mãos e uma mão só, e estava orgulhoso, e o orgulho durou até o dia em que ele fez a conta do oxigênio.
 
 ---
 
-Ele mergulhou.
+O trono ficava no fundo da catedral e era feito de osso e servidor derretido, e essa combinação dizia tudo sobre a estética do novo regime.
 
-E o que tinha lá embaixo não era vigilância. Parecia **memória**. Imagens com cortes de câmera, som de microfone, datas truncadas: arquivos do laboratório, talvez reproduzidos pela interface que invadia o braço. Nada ali vinha com garantia de integridade.
+Sentado nele estava o Sumo Sacerdote do Culto do Silêncio.
 
-Um laboratório branco. Anos antes do Dilúvio, dava para saber pelo modelo dos monitores.
-Um homem de jaleco segurando uma placa de Petri contra a luz, com uma cultura preta dentro.
-No canto da imagem, um campo de identificação: **S. VANCE — BIOLOGIA APLICADA**. O campo podia ser parte do arquivo ou ter sido acrescentado depois.
-E, sentado numa bancada, de terno, mais jovem e sem a ruga entre as sobrancelhas: Marco Moretti.
-— *"...a imortalidade não é digital, Marco. Nunca foi. O upload falha, sempre falhou, e falha pela mesma razão: a mente não roda sem o corpo. Ela é feita de fome, de dor nas costas e de vontade de mijar. Tire isso e o que sobra é um transcrito."*
+Não era o Profeta Mudo. Aquele tinha servido como alto-falante nas semanas anteriores e depois florescera.
 
-O homem girou a placa entre os dedos.
-— *"A carne é o hardware definitivo. Se a gente quiser viver para sempre, a gente tem que virar a única coisa da biologia que não sabe morrer: o câncer."*
+Este era outro. Vilar levou uns dez segundos para reconhecer, e quando reconheceu teve de segurar no corrimão. Era o menino da TI.
 
 ---
 
-Corte.
-O mesmo laboratório, sem ninguém além dele. Uma seringa.
-O homem injetou a cultura na própria veia antecubital, com a competência tranquila de quem já fez aquilo antes em outra coisa.
-E ficou sentado, olhando o relógio de parede.
-Nos quatro minutos seguintes o corpo dele se contorceu de um jeito que nenhuma pessoa aguenta em silêncio, e ele aguentou em silêncio, com os dentes trincados e os olhos abertos e nenhum som.
-A pele foi ficando cinza a partir do ponto da injeção.
-E, quando as primeiras raízes saíram de baixo das unhas dele, ele estava sorrindo.
-— *"Projeto Gênesis. Fase 1: saturação — trinta anos, pela água. Fase 2: o Dilúvio, para hidratar. Fase 3: o despertar."*
+O garoto que trazia café para o gabinete às três da tarde. Que consertou a impressora da delegacia quatro vezes sem nunca abrir chamado. Que tinha vergonha de falar em reunião e pedia licença para passar em corredor vazio.
 
-Ele se virou para a câmera do laboratório e falou direto para ela, como se falasse para alguém que ainda demoraria a chegar.
-— *"Se você está assistindo isso, é porque funcionou. Meus parabéns: você é a última geração."*
+Vinte e seis anos. Chamava-se Jonas. Como o Capitão. Nunca tinha incomodado ninguém — a delegacia inteira achava graça, tinha até virado piada de plantão: *Jonas grande e Jonas pequeno.*
+
+Agora o Jonas pequeno tinha quatro braços a mais.
+
+Membros finos, articulados em três pontos, de aparência insetoide, saindo das costas por baixo das escápulas, e eles se mexiam o tempo inteiro. Digitavam. No ar, em nada, com uma velocidade e uma precisão que davam náusea de assistir — e, conforme eles digitavam, as vinhas ao redor do trono respondiam.
+
+Ele não estava fazendo mágica. Estava **operando**.
 
 ---
 
-Gabo puxou a mão.
+— Capitão Vilar. — A voz saía multiplicada, com três ou quatro cordas vocais em alturas diferentes, e o efeito era de coral pequeno. — O senhor está bebendo muita água.
 
-A conexão rompeu com um som úmido e curto, como pé saindo da lama, e ele caiu de costas no chão da sala e ficou lá, ofegando, com a lanterna iluminando o teto vivo.
+— A água é de quem pega, garoto.
 
-Levou um minuto e meio para conseguir sentar. O rosto do homem do laboratório ele não conhecia. Nunca tinha visto, nem em foto, nem em processo, nem em jornal. Mas os olhos, sim.
+— Não me chame de garoto.
 
-Lembrou-se do olhar da mulher no mezanino da agência bancária, mas semelhança não dava nome a ninguém. A identificação no canto do arquivo oferecia uma pista, não uma autenticação.
+Foi a primeira coisa dita naquela sala com emoção humana dentro, e os dois notaram, e Vilar arquivou.
 
-— Silas Vance — disse Gabo, para o teto.
+— Está bem. — Vilar tentou cruzar os braços por hábito e parou ao sentir a manga vazia. — A água é de quem pega, Jonas. Não reconheço autoridade nenhuma nesse morro.
 
-O nome não era novo. Meses antes, Arthur Vance chamara o filho pelo rádio: Silas Vance, diretor de Biologia Aplicada. O campo no arquivo podia apontar para ele. Gabo precisaria de outro registro para confirmar a identidade do homem na gravação.
+— Autoridade é uma construção do velho mundo, Capitão. — Os quatro braços continuavam digitando. — Eu não vim falar de autoridade. Eu vim falar de necessidade, que é a única coisa que sobrou funcionando.
 
----
+— Fala então.
 
-Ele ficou sentado ali por mais um tempo, montando. A Aeterna não tinha quebrado.
-
-Não foi à falência, não foi vencida por três hastes de tungstênio no fundo do mar, não foi derrubada por um detetive de sobretudo bege e uma hacker de vinte e oito anos num estúdio de televisão.
-
-Ela **mudou de substrato**.
-
-A gravação alegava décadas de saturação e um Dilúvio planejado para hidratar o Jardim. A queda dos sistemas digitais podia tê-lo favorecido; a visão não demonstrava que tivesse sido causada para isso.
-
-E o Gabo — que passou o livro inteiro achando que estava atrapalhando um plano — podia ter aberto caminhos que outro plano aproveitou. A gravação dizia que o Dilúvio fazia parte dele; ainda precisava encontrar prova fora daquela parede.
-
-Ele riu. Foi feio, e durou três segundos, e terminou em tosse.
+— O senhor cede a estação de tratamento da Rua Sete. Ou nós cortamos o oxigênio do seu enclave.
 
 ---
 
-Ele tinha a resposta. Levantou a mão direita para a luz.
+Vilar riu com o canto da boca.
 
-O corte de quatro centímetros não sangrava mais. Estava fechado — não cicatrizado: **fechado**, com um tecido verde-escuro, liso, que preenchia o vão e que era firme ao toque.
+— Vocês não conseguem cortar o ar de ninguém.
 
-Ele apertou com o polegar. Não doeu.
+— O enclave vedou as entradas por causa dos esporos. Restaram dois adutores filtrados e os cartuchos de reserva. — Jonas falou aquilo sem nenhuma ênfase. — As raízes já alcançaram os dois adutores. Podemos fechar o que vocês precisam para ventilar.
 
-Do pulso para cima, sob a pele, corriam veias pretas ramificadas até o cotovelo, e elas não estavam ali quarenta minutos antes. Gabo baixou a manga.
+Os braços pararam de digitar.
 
-Depois olhou o relógio: seis e vinte. Ia dar para voltar antes das nove, como prometido, se ele saísse agora e não parasse.
+— Nós controlamos as plantas, Capitão. Não é ameaça. É contabilidade.
 
-Ele se levantou apoiado na parede viva, que era morna e que o recebeu, e começou a andar. Duas coisas ele levou consigo ao sair da Torre naquela manhã.
+Vilar conhecia os adutores e o estoque curto de filtros. Desde que as raízes alcançaram a ventilação, a ameaça de fechá-la pairava sobre o enclave; ele não sabia quanto tempo ainda teriam para buscar outra saída.
 
-A primeira: tinha um nome e um cronograma para confrontar com documentos. Não ia aceitar a lembrança que alguém lhe enfiara no sangue como confissão assinada.
+Ele soltou o ar pelo nariz.
 
-A segunda: a ramificação chegara ao cotovelo em minutos. Baixou a manga e não conseguiu impedir que o tecido se movesse por baixo.
+— O que vocês querem em troca da água?
+
+---
+
+Jonas sorriu. Os dentes dele eram cristal de quartzo, translúcidos, e não eram iguais entre si — cresciam em ângulos ligeiramente diferentes, como cristal cresce mesmo, sem simetria.
+
+— Queremos o Moretti.
+
+Vilar não se moveu. Ele levou três décimos de segundo para tomar a decisão de não se mover, e foram os três décimos mais bem gastos da carreira dele.
+
+— O Gabo está ferido — disse, com a voz normal.
+
+— Mentira.
+
+— Ele levou dezoito fraturas meses atrás, Jonas. Isso é registro médico.
+
+— O senhor está mentindo agora, e não sobre isso. — Jonas inclinou a cabeça, e os quatro braços voltaram a digitar. — Nós sabemos que a Dra. Nise mantém ele num quarto sem rede, sem sensor e sem contato com o solo, no subsolo do Hospital. Nós sabemos porque há um vazio nas leituras do hospital, e gente que entra levando curativo. O senhor acha que só as flores dão informação?
+
+Vilar não disse nada.
+
+— Traga o Moretti. O Pai quer integrá-lo.
+
+— Vocês odeiam gente.
+
+---
+
+— Nós não odiamos gente, Capitão. — E dessa vez a voz veio quase gentil. — Nós odiamos o velho mundo. Eu passei quatro anos levando café para homens que não sabiam o meu nome, e no dia em que a Torre caiu eu fiquei três semanas sem que ninguém percebesse que eu não tinha ido trabalhar. Eu não odeio nenhum deles. Eu só não vejo por que preservar aquilo.
+
+Ele se inclinou para a frente no trono de osso.
+
+— Moretti é a semente perfeita para o que vem. Ele é o único que ouve a Canção e não vem, e a única coisa que a Raiz ainda não tem é alguém que saiba dizer não.
+
+— E se eu não entregar?
+
+— Aí o senhor terá tomado uma decisão bonita — disse Jonas Pequeno — e duzentas e quarenta pessoas vão ter oito ou nove dias para admirá-la.
+
+---
+
+Vilar desceu o morro sozinho. Levou quarenta minutos, porque descer é pior que subir quando o joelho é velho, e ele levou os quarenta minutos inteiros com o estômago embrulhado.
+
+Trair a última esperança da cidade para sobreviver mais um dia.
+
+Ou não trair, e assinar sozinho o atestado de duzentas e quarenta pessoas que confiaram nele porque ele tinha farda e patente e uma voz que nunca tremia.
+
+Era a escolha que ele passou trinta e três anos de corporação esperando nunca ter de fazer, e ela chegou numa quinta-feira, sem aviso, sem promotor e sem ninguém para dividir.
+
+Ele parou no portão do enclave e ficou olhando as chapas soldadas.
+
+Lá dentro, alguém tinha acabado de fazer sopa, e o cheiro veio até ele. Vilar não disse nada a ninguém naquela noite.
+
+Nem naquela, nem nas oito seguintes.

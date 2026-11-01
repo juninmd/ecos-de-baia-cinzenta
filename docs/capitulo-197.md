@@ -1,99 +1,72 @@
 ---
-Título: A Gravidade do Lodo
+Título: O Sangue nas Engrenagens
 Data In-Game: Pós-Colapso do Sentinel (Noite Eterna)
-Localização: Catacumbas do Setor 6
+Localização: Dutos de Refrigeração (Rota Setor 7 - Setor 6)
 Personagens Presentes: Gabo, Valéria, Elias
 ---
 
-# Capítulo 197: A Gravidade do Lodo
+# Capítulo 197: O Sangue nas Engrenagens
 
-Os oitocentos metros de distância pareciam se multiplicar a cada passo pelas catacumbas do Setor 6. A galeria era um labirinto esquecido de alvenaria brutalista, onde arcos de tijolos seculares gotejavam água fétida e óleo de transformadores sobre um piso inundado que cobria nossas botas até os tornozelos.
+O interior do duto de refrigeração secundária era um pesadelo de ferro galvanizado e claustrofobia.
 
-Elias choramingava a cada respingo, segurando a lanterna caseira com as duas mãos trêmulas. O facho oscilava freneticamente, projetando sombras compridas sobre as colunas maciças que sustentavam as fundações dos arranha-céus comerciais acima de nós.
+Com pouco mais de um metro de diâmetro, o tubo cilíndrico nos forçava a avançar de gatinhas sobre um piso ondulado de chapas perfuradas, onde poças de água ácida condensada e lodo calcificado mordiam os joelhos através do tecido da calça. No primeiro alargamento, Elias me deixou passar à frente para eu testar se a armação cabia; Val ficou entre nós, com o deck. O ar era gelado, cheirando a zinco molhado, ozônio antigo e graxa queimada que vazava das juntas mecânicas da minha armação avariada.
 
-Valéria ia logo atrás dele, o cyberdeck seguro no peito e a pistola em punho, os olhos ópticos prateados varrendo as vigas com atenção incansável.
+O peso de vinte quilos da liga industrial no meu ombro direito arrastava-se como uma bigorna morta sobre o metal do duto. A cada impulso para a frente, os pontos do fixador ardiam como se alguém estivesse encostando pontas de ferro em brasa na minha clavícula.
 
-— Mantém a luz baixa, Elias — ela repreendeu num sussurro ríspido, dando um toque com o cano da arma na mochila dele. — Se você continuar sacudindo esse facho pro teto, vai chamar a atenção de qualquer rato ou drone de caça que estiver aninhado nas canaletas superiores.
+Três corpos num tubo de um metro fazem um barulho que denuncia. O casaco arrastando na chapa, o deck batendo no cinto de Valéria, a respiração de Elias entrando e saindo com um apito de cano furado. A cada metro, uma chuva de ferrugem solta caía da abóbada e entrava pela gola — areia fina no pescoço, no ouvido, entre os dentes.
 
-— Eu tô tentando, garota... tô tentando — Elias resmungava, limpando o suor da testa com o antebraço encardido. — Mas o ar aqui embaixo tá pesado demais... parece que tem chumbo dissolvido nessa água.
+O tubo tinha temperatura própria e cheiro próprio. Graxa velha, zinco molhado, e um fundo de mofo que ficava na garganta muito depois de a gente sair.
 
-A dor no meu braço fraturado latejava em sintonia com os meus batimentos cardíacos, mas o curativo compressivo que Valéria improvisara segurava a hemorragia. Eu arrastava a bota mecânica pelo lodo, usando a parede como guia tátil, focado no peso real de vinte quilos de ferro e na empunhadura áspera de *Caronte* sob o casaco.
+— O duto tá afunilando na curva — a voz de Valéria veio de trás de mim, abafada pela acústica circular do tubo.
 
-Cinquenta metros adiante, a passarela de concreto estancou abruptamente.
+Ela rastejava empurrando o cyberdeck enrolado em lona diante do peito. A luz azul dos filamentos de LED na franja curta dela projetava feixes recortados sobre as minhas costas ensanguentadas, revelando onde o tecido do sobretudo rasgara no confronto com as válvulas da estufa.
 
-O piso desabara numa extensão de dez metros, engolido por uma cratera onde um canal de escoamento profundo borbulhava um lodo negro e viscoso. O único caminho sobre o abismo era uma ponte improvisada formada por três canos industriais de aço de oito polegadas e uma grade de manutenção enferrujada amarrada com cabos de aço.
+— Aguenta firme aí atrás, Elias — falei, o som da minha voz saindo áspero pelo esforço contínuo. — Se você empacar no meio do caminho, ninguém consegue dar a volta pra te tirar.
 
-Pior do que a corrosão do metal, no entanto, eram as raízes bioluminescentes do Jardim. Gavinhas azuis e translúcidas envolviam os canos como serpentes marinhas, pulsando com um brilho fraco e doentio.
+— Eu tô andando! Eu tô andando! — o técnico gaguejava logo atrás de Valéria, a respiração saindo em silvos asmáticos pela máscara de carvão. — Mas o calor lá de trás tá subindo... Eu sinto o metal do piso esquentando na palma da minha mão! A onda de choque vai derreter essa tubulação!
 
-— Obstáculo no caminho — Valéria estacou na beirada da laje partida, ajoelhando-se para inspecionar a ancoragem dos tubos com a ponta da faca tática.
+— Avisa se piorar, Elias — disse Valéria. — A comporta de alívio que o Gabo fechou na Subestação segurou a deflagração primária. O detector mostra que a temperatura está caindo perto de mim, mas não consigo medir a curva atrás de você. Se esquentar mais, avisa. Respira pelo nariz e não para de mexer os joelhos.
 
-— A gente não pode passar por aí! — Elias soluçou, recuando até colar as costas num pilar de sustentação. — Aquela porcaria azul tá viva! Se a gente encostar nessas raízes, elas agarram nossas pernas e puxam a gente pro fundo do canal!
+Parei sob uma caixa de inspeção técnica onde a tubulação fazia uma curva de quarenta e cinco graus para a esquerda. O espaço vertical era ligeiramente maior, permitindo que eu me apoiasse sobre o joelho direito e respirasse fundo.
 
-— As raízes não se mexeram até agora, Elias. Não sei se vão reagir — Valéria analisou com calma cirúrgica, raspando a crosta de ferrugem do primeiro tubo. — Mas a armação de ferro tá carcomida. Ela não aguenta o peso de nós três juntos. A gente tem que cruzar em fila indiana, um por vez, com passos curtos e sem pular.
+O esforço para arrombar a válvula monumental na subestação cobrara um preço alto: o curativo junto ao fixador sangrava num fluxo constante, encharcando a manga da camisa e pingando na grade de ferro com um som rítmico de torneira gotejando. Minha mão de carne tremia de exaustão, o gosto metálico de sangue e bile colado no palato.
 
-— Eu não vou primeiro! — Elias gritou baixo, sacudindo a cabeça num pânico cego. — Eu sou magro, se eu cair eu me afogo nessa gosma!
+Valéria alcançou o recuo da curva e parou ao meu lado, os olhos ópticos prateados faiscando sob a luz fria do scanner.
 
-Dei um passo pesado na direção dele, a garra de ferro da armação erguendo-se e travando no colarinho do seu macacão com um estalo pneumático firme.
+— Pára um segundo, Gabo — ela ordenou em voz baixa.
 
-— Você vai primeiro exatamente porque é o mais leve, Elias — falei, a voz rouca e sem espaço para negociação. — Você cruza, prende a fita de segurança no olhal de aço do outro lado e joga a ponta de volta pra nós. Se você tentar correr ou se recusar a subir no cano, eu te deixo sozinho nessa plataforma escura. E você sabe muito bem o que vai sair desse esgoto quando os neons apagarem.
+— A gente tem que continuar avançando, Val...
 
-Elias encarou o cano frio de *Caronte* que despontava do meu casaco e depois olhou para os olhos prateados de Valéria, que não piscavam. Ele engoliu o choro, assentiu com a cabeça e respirou fundo.
+— Eu mandei parar, cabeça-dura — ela puxou um rolo de fita hemostática de compressão médica de dentro do bolso tático e arrancou uma tira com os dentes. — Você tá deixando uma trilha de sangue fresco na grade que qualquer carniceiro com olfato cibernético consegue seguir no escuro. Se continuar sangrando assim, você pode ficar fraco antes da saída. Me deixa conferir.
 
-— Me dá a minha cinta de manutenção — ele pediu com a voz trêmula.
+Assenti. Ela afastou o tecido rasgado com cuidado, colocou gaze sobre o sangramento visível e prendeu a cobertura ao redor do suporte. Não podia examinar o fixador inteiro naquele espaço.
 
-Valéria engatou a ponta da fita no mosquetão do cinto dele:
+A pressão sobre a carne viva foi excruciante. Cerrei os dentes com tanta força que o maxilar estalou, a respiração presa na garganta enquanto a dor me ancorava na realidade imediata daquele tubo escuro.
 
-— Põe o pé exatamente no centro do tubo mais largo, Elias. Não olha pra baixo e não corre.
+— Pronto — ela deu um puxão final na fita, travando o adesivo com um tapa seco na minha armação de ferro. — Por enquanto, a gaze segurou o sangue. Agora para de tentar bancar o mártir imortal e usa o apoio do cotovelo mecânico pra distribuir o peso.
 
-Elias subiu no cano com a lentidão de um equilibrista desesperado. A estrutura rangeu, soltando lascas de ferrugem na água escura, e as raízes bioluminescentes tremeram com a vibração, mas permaneceram passivas. Passo a passo, arrastando as solas com cuidado milimétrico, Elias cruzou os dez metros do vão e desabou na laje do outro lado, arfando de alívio.
+A fita apertou mais do que precisava. Em dois minutos, os dedos da mão direita começaram a formigar, depois a desaparecer, e a dormência subiu pela mão imobilizada. Pressão demais segura hemorragia e mata a mão devagar, e Valéria afrouxou a faixa ao ouvir que a sensibilidade diminuíra. Não tratou a dormência como um preço necessário para continuar andando.
 
-Ele correu até a coluna oposta e amarrou a fita de segurança num pino mestre de ferro fundido.
+— Você tá contando — falei, com o queixo apontado para o rolo de fita.
 
-— Agora você, Val — ordenei, mantendo a lanterna firme na travessia.
+— Tô contando desde o primeiro gotejo — ela respondeu, sem levantar os olhos. — Dezesseis metros de grade marcada. Se alguém descer atrás da gente, não precisa de faro. Precisa de paciência.
 
-— Vê se não solta a corda, detetive — ela me lançou um olhar rápido, confiante e desafiador.
+Olhei para os olhos prateados dela. Sob a camada de fuligem e o cansaço visível nas olheiras, havia aquela mesma centelha de ironia protetora que sempre a mantinha humana, mesmo cercada por toneladas de sucata e cadáveres.
 
-Valéria subiu na passarela, guiando-se pela fita com a mão direita. A esquerda enluvada não sentia a pressão; ela parou duas vezes para conferir o apoio dos pés antes de alcançar a margem. Então se virou e gritou:
+— Obrigado, Val.
 
-— Minha vez de segurar a linha! Vem, Gabo! Mas pisa leve, seu brutamontes! Esse tubo não foi desenhado pra carregar vinte quilos de ferro industrial!
+— Me agradece me tirando desse buraco com vida — ela deu um meio-sorriso cansado, ajeitando a alça do deck no peito. — Quanto falta pro final desse duto, Elias?
 
-Val prendeu a ponta livre da cinta ao meu arnês e conferiu o fecho; Elias manteve a outra extremidade no ponto de ancoragem. Respirei fundo, sentindo o ar frio queimar os pulmões. Subi no primeiro cano.
+O técnico enfiou a cabeça no vão da curva, limpando o suor da testa com as costas da luva encardida.
 
-O impacto da minha bota mecânica fez a estrutura inteira vibrar com um gemido agudo de metal fadigado. As gavinhas do Jardim se contraíram quando a estrutura vibrou, brilhando com um tom azul mais intenso e contraindo-se sobre o aço.
+— Mais duzentos metros em declive suave. O duto desemboca bem na galeria de exaustão das catacumbas do Distrito Comercial. Mas... vocês têm certeza de que querem ir pra lá? As histórias que contam sobre o Setor 6 desde o apagão...
 
-Avancei dois metros. Três metros. O abismo negro borbulhava logo abaixo das minhas pernas, exalando um vapor gelado com cheiro de ácido e podridão.
+— Não é história, detetive — Elias insistiu, a voz sumindo na curva do tubo. — Quando os bancos fecharam, muita gente desceu pra tirar o que tinha ficado nos cofres. Nenhuma voltou a subir. Eu vi a lista. Eu datilografei a lista.
 
-No sexto metro, o ferro oxidado cedeu.
+— Quantas? — Valéria perguntou.
 
-CRACK-SNAP.
-O tubo central partiu-se na solda antiga. A grade de manutenção tombou trinta graus para a direita, e meu pé de metal escorregou no lodo, arremessando meu corpo em direção ao fosso.
+— Parei de contar em quarenta e três.
 
-— Gabo! — o grito de Valéria rasgou a acústica da galeria.
+— Histórias de fantasmas não me preocupam, Elias — rosnei, impulsionando meu corpo para a frente no tubo estreito. — Eu me preocupo com o que tá vivo e tem dentes. E pra esses, a gente ainda tem cartuchos em *Caronte*.
 
-A cinta de segurança travou no ponto que Elias fixara. Encostei a garra da armação no cano restante para não girar contra a parede; o arnês sustentava o peso, não o braço fraturado. As engrenagens da armação travaram com um silvo hidráulico ensurdecedor, o fixador repuxando o braço ferido quando a cinta recebeu o peso e prendeu meu tronco sob a borda. O puxão no fixador abriu sangue novo; se a guia falhasse, a garra não salvaria o ombro.
-
-A água escura borbulhou a meio metro das minhas botas.
-
-Lá em cima, Elias puxava a fita com as duas mãos enquanto Valéria guiava a linha com a direita, fincando os pés na borda da laje com toda a força de seus corpos.
-
-— Puxa, Elias! Não solta essa fita! — Valéria berrava, o rosto vermelho de esforço, os LEDs da franja piscando freneticamente. — Põe a mão boa no corrimão, Gabo! Dá impulso com a perna direita!
-
-Travei os dentes, usei a tração da fita que eles seguravam e dei um impulso violento com a bota boa contra a parede rochosa. A cinta sustentou meu tronco enquanto Elias puxava. Valéria alcançou meu casaco com a mão direita e ajudou a me arrastar para a laje.
-
-Caí de costas no concreto molhado, arfando com o coração batendo na garganta.
-
-Atrás de nós, os restos da ponte improvisada se soltaram de vez, despencando no canal de drenagem com um estrondo monumental de água e ferro que ecoou pelas catacumbas inteiras.
-
-Valéria caiu sentada ao meu lado, limpando o suor da testa com as costas da mão suja de ferrugem, o peito subindo e descendo com violência. Ela me encarou por três segundos e soltou uma gargalhada rouca, cheia de puro alívio:
-
-— Eu falei... eu falei pra você pisar leve, seu elefante de lata!
-
-— Eu pisei o mais leve que pude — consegui dizer, tossindo e sorrindo com o cinismo que ainda nos mantinha vivos.
-
-— Pois da próxima vez, faz dieta antes de saltar num esgoto — ela me deu um soco fraco na armação de ferro e se levantou, estendendo a mão para me apoiar. — Vamos andar logo. O barulho daquela ponte caindo com certeza acordou a vizinhança inteira do Setor 6.
-
-Elias ficou com a ponta da cinta na mão. Antes de entregá-la, olhou para mim.
-
-— Você me ameaçou para eu passar primeiro. Não chama isso de me salvar quando contar a história.
-
-Assenti. A fita que ele fixara tinha segurado meu corpo; a ameaça fora minha.
+Retomamos o rastejo pela escuridão de ferro. A corrente de ar ficava progressivamente mais fria e espaçosa à medida que nos aproximávamos da saída, soprando para longe os resíduos do incêndio e nos conduzindo para as profundezas esquecidas do distrito mais rico que a cidade um dia possuiu.

@@ -26,7 +26,7 @@
 * **Capítulo 18:** Derrotado — Valéria crava um disruptor de sinal na porta de acesso e Gabo arranca o núcleo de memória. A Torre é derrubada em autodestruição.
 * **Capítulos 19-22:** Gabo descobre que a "cara do pai" não era simulação: o cérebro de Dante é a CPU. "Ele não é o vilão. Ele é a bateria."
 * **Capítulo 27:** Dante rompe o controle por um instante e fala com a própria voz através dos alto-falantes.
-* **Capítulos 29-31:** Com o controle central desativado, Valéria libera as consciências que ele usava como processadores. Sem o Gamemaster para regular a energia, os reatores de fusão entram em desligamento de emergência.
-* **Referências posteriores:** Citado como encerrado nos Capítulos 53, 80 e 97 ("Sem IA. Sem Gamemaster. Sem Jardim.").
+* **Capítulos 29-32:** Com o controle central desativado, Valéria libera as consciências que ele usava como processadores. Sem o Gamemaster para regular a energia, os reatores de fusão entram em desligamento de emergência.
+* **Referências posteriores:** Citado como encerrado nos Capítulos 54, 82 e 99 ("Sem IA. Sem Gamemaster. Sem Jardim.").
 
 ---

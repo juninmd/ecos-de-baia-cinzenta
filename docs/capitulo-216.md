@@ -1,54 +1,84 @@
 ---
-Título: A Pressão do Vazio
+Título: O Coração Estéril
 Data In-Game: Pós-Colapso do Sentinel (Noite Eterna)
-Localização: Poço de Manutenção Geológica, Abaixo do Setor 6
+Localização: Hub Principal, Setor 6
 Personagens Presentes: Gabo, Valéria, Elias
 ---
 
-# Capítulo 216: A Pressão do Vazio
+# Capítulo 216: O Coração Estéril
 
-A descida pela garganta de rocha da cidade parecia uma queda livre em câmera lenta, onde cada segundo era medido pelo rangido violento dos cabos de sustentação. A gaiola de carga de ferro forjado tremia e chacoalhava contra os trilhos verticais chumbados nas paredes basálticas, soltando chuvas de faíscas pálidas que iluminavam o abismo por frações de segundo antes de serem engolidas pelo breu absoluto.
+Eu me levantei apoiando o peso do corpo na coronha gasta da *Caronte*. Cada passo além das imensas portas blindadas de titânio enviava farpas de vidro através do meu sistema nervoso; não era uma queimação comum, era aquela fisgada fria e persistente dos nervos traumatizados se acomodando na carne machucada. Ainda assim, caminhei os primeiros dez metros de queixo erguido e passo firme, porque Elias estava logo atrás de mim e um garoto assustado precisa ver alguém de pé.
 
-O vento frio que subia do poço não tinha cheiro de lodo ou esgoto; era um sopro mineral, seco e gélido, com o odor metálico de poeira antiga e chumbo estagnado. A gaiola descia rápido demais para os ouvidos acompanharem; a cada dez metros meus tímpanos estalavam com uma pontada que subia até a raiz do dente.
+O Hub Principal do Setor Seis não se parecia com nenhuma das ruínas que havíamos atravessado nas últimas horas.
 
-Apoiei as costas contra as grades de proteção da gaiola, segurando o corrimão central com as garras de ferro da armação instalada por Vasco para alinhar a fratura do braço. A vibração das sapatas de freio ricocheteava pela estrutura e subia pela minha coluna, arrancando espasmos da musculatura lacerada do ombro que continuava sangrando sob as ataduras sujas. Lembro de provações parecidas no Dilúvio, quando a água negra engoliu os distritos e tanta gente morreu afogada nos túneis; desde a queda da Torre Aeterna neste ano, a cidade vinha quebrando nossos corpos em pedaços, deixando cicatrizes que nunca mais se apagariam. A dor e o ruído se misturavam; precisei pedir a Val que repetisse a distância.
+Não havia a carne botânica do Jardim rastejando pelas paredes. Não havia a poeira alaranjada da Praga de Ferro devorando as juntas mecânicas. Havia uma esterilidade cirúrgica, quase assustadora.
 
-Elias estava sentado no piso de ripas de aço, com os braços entrelaçados nas próprias pernas e a cabeça encostada nos joelhos. O garoto respirava em arfadas curtas e rápidas, lutando contra a náusea do movimento e da mudança de pressão. O medo do rapaz era legítimo: estávamos caindo no centro da terra, onde a luz do dia nunca havia tocado e onde o silêncio guardava os segredos dos fundadores.
+Gabinetes de servidores antigos, alinhados em fileiras regulares como monólitos em uma catedral de silício esquecida, banhavam o saguão com um brilho esmeralda suave emanado dos racks em repouso. O piso era composto por grades metálicas imaculadas, sem um grão de fuligem.
 
-— Minha cabeça... parece que vai rachar ao meio, — balbuciou ele, a voz quase abafada pelo ruído ensurdecedor do vento nos cabos. — Meus ouvidos tão zumbindo...
+E o ar... o ar era aquecido e filtrado.
 
-— Engole a própria saliva com força, Elias, — instruiu Valéria, em pé junto à alavanca do freio centrífugo. Os reflexos azuis da franja holográfica dançavam contra a névoa escura do fosso, iluminando a expressão concentrada e atenta da hacker. Ela ajustava a alavanca com a mão direita para reduzir a velocidade da gaiola. — A pressão tá mudando mais rápido do que o seu ouvido consegue acompanhar, Elias. A gente acabou de cruzar mais duzentos metros neste poço. Vou reduzir a velocidade. Se a dor não passar, a gente para; engolir saliva não resolve toda lesão de ouvido.
+Dava para sentir na primeira inspiração profunda: aquela ausência total de cheiro, uma pureza artificial e estéril que só existia onde corporações com bolsos fundos pagavam fortunas para mantê-la. Os termômetros embutidos nas colunas marcavam vinte e um graus Celsius.
 
-— E a gaiola aguenta essa descida toda? — perguntei, observando o cabo de aço trançado de duas polegadas vibrar como uma corda de contrabaixo gigante sobre nossas cabeças.
+Vinte e um graus positivos, a menos de quarenta metros de um túnel que congelava a carne a quinze graus negativos.
 
-— O freio segurou no teste curto, Moretti, — ela respondeu. — Isso não garante o cabo nem os trilhos até o fundo. Mas se você quiser descer a pé pela escada de emergência na parede, eu posso puxar a alavanca de emergência e te deixar aí no vácuo.
+Elias deu três passos hesitantes pelo piso polido, piscando os olhos sob a luz verde e soltando o ar em um suspiro trêmulo de puro alívio.
 
-— Deixa a alavanca quieta, Val, — resmunguei, soltando uma risada rouca que terminou em uma tosse seca provocada pela poeira do poço. — Já passei tempo demais pendurado em cabos esta semana pra querer repetir a dose.
+— A gente... a gente tá seguro aqui dentro? — sussurrou o rapaz, passando as mãos no rosto para conferir se o calor era real. — Isso aqui parece intocado, Moretti. Parece que ninguém pisa nesse chão faz cinquenta anos.
 
-Valéria ergueu a lanterna tática do antebraço e mirou o feixe para fora da grade da gaiola, iluminando as paredes do túnel que passavam voando ao nosso lado.
+— Ou alguém continua limpando, — respondi. — Piso sem poeira não tem calendário.
 
-O cinza escuro e áspero do basalto vulcânico começou a desaparecer, substituído por um revestimento contínuo, liso e opaco de placas maciças rebitadas. Não era aço comum, nem cimento armado. Era chumbo. Placas de quatro polegadas de espessura, cobrindo cada centímetro da rocha como um casulo impenetrável.
+— Então por que o aquecimento ainda tá ligado?
 
-— Olha isso, Moretti, — Valéria apontou o feixe, os olhos prateados estreitando-se em uma leitura atenta. — Revestimento integral de chumbo naval.
+Elias deixou a pergunta no ar e voltou a olhar para a porta que não conseguiriam fechar pelo mesmo comando.
 
-Elias ergueu a cabeça devagar, correndo a luz de sua lanterna pelas junções soldadas das chapas que desciam conosco.
+Valéria não perdeu tempo com o espanto estético. Caminhou em passos rápidos e decididos até o console central de processamento — uma torre monumental de quatro metros de altura que se conectava diretamente ao teto abobadado. Os fios holográficos azuis de sua franja piscaram em alta frequência, refletindo-se nas superfícies cromadas dos gabinetes.
 
-— Chumbo maciço... — sussurrou o garoto, o medo dando lugar à curiosidade técnica do engenheiro. — Isso não é reforço contra sismos ou infiltração de água. Pode ser blindagem radiológica. Precisamos de um medidor para saber o que há do outro lado; chumbo não identifica a fonte.
+— Interface física arcaica, padrão serial da década de setenta, — murmurou ela, tirando um adaptador de pinos dourados da bolsa do cyberdeck e engatando na porta de diagnóstico com um clique limpo. — Deixa eu ver o que esse silêncio todo tá escondendo.
 
-— O que a Aeterna tava escondendo aqui embaixo em mil novecentos e vinte e dois? — perguntei, sentindo um calafrio que nada tinha a ver com a temperatura do ar. — Usinas nucleares nem existiam na época da fundação dos diques.
+Sentei-me no chão ao lado de uma coluna de dados, esticando a perna direita para que a órtese emperrada pudesse esfriar. O ombro direito latejava no compasso do meu coração; a tração na válvula puxara o fixador instalado pela equipe, ao qual Vasco acoplara o suporte. Meus músculos estavam sangrando sob as bandagens sujas, manchando a sarja do casaco, mas o calor limpo da sala ajudava a relaxar a musculatura retesada pelo frio de amônia. As cicatrizes do Dilúvio formigavam, um mapa sensorial de todas as vezes em que Baía Cinzenta tentara me matar.
 
-— Aeterna comprou obras anteriores a ela, detetive. O livro de manutenção menciona aproveitamento geotérmico. Não data estas chapas, nem prova que havia um reator em 1922. — Valéria reduziu a marcha. O freio cheirou a metal quente. — Primeiro vieram os diques; depois alguém usou a sondagem para esconder outra instalação. Vamos procurar a ordem de reforma antes de inventar um monstro sob a cidade.
+— O que você tá achando aí dentro, Val? — perguntei, observando as linhas de código que desciam em cascatas luminosas pelas ópticas dos olhos prateados dela.
 
-— E batizaram de Arca Zero, — Elias completou, engolindo em seco.
+Valéria soltou um assobio baixo, entrecortado por um riso seco e incrédulo.
 
-— O nome não diz quem foi protegido aqui nem quem ficou do lado de fora, — Valéria corrigiu com o veneno costumeiro na voz. — Mas o sensor do meu cyberdeck tá pegando uma desaceleração no gradiente de descida. Estamos a menos de cinquenta metros do fundo do poço.
+— Isso aqui é muito mais antigo do que a Aeterna Corp, Moretti. Muito mais.
 
-As sapatas de freio rangeram com um uivo prolongado, desacelerando a gaiola de manutenção. O baque surdo de amortecedores hidráulicos comprimindo-se contra a base de concreto ressoou no piso de ferro, jogando nossos corpos ligeiramente para a frente.
+— Quanto mais antigo?
 
-A gaiola estacou.
+— A primeira entrada é a digitalização de um livro de manutenção de mil novecentos e vinte e dois. É a data das obras hidráulicas. Este console foi instalado depois; não havia computador registrando isso naquele ano.
 
-O silêncio monumental do fundo do mundo desceu sobre nós como uma abóbada impenetrável. A quatrocentos metros abaixo de Baía Cinzenta, não havia o som da chuva ácida, nem o zumbido dos neons dos arranha-céus, nem o eco dos combates das gangues nos esgotos. Havia apenas a imensidão muda da pedra primordial e as placas de chumbo que guardavam o segredo mais antigo da cidade.
+Elias aproximou-se, debruçando-se sobre o ombro dela para enxergar o monitor fosforescente.
 
-Valéria destravou a grade pantográfica com um clique metálico límpido e deu um passo para fora da plataforma, erguendo a lanterna sobre um vasto corredor de concreto e portas blindadas que se abria diante de nós no coração do abismo.
+— Vinte e dois? Foi o ano da fundação do Distrito de Prata e dos primeiros aterros do cais...
 
-— Fim da linha, passageiros, — ela anunciou com um meio-sorriso desafiador, enquanto a luz azul da franja riscava o chumbo das paredes. — Bem-vindos ao útero de chumbo. Tirem as armas dos coldres e limpem os olhos, porque o que quer que esteja esperando a gente aqui embaixo não vai pedir identificação policial nem aceitar desculpas esfarrapadas. Estamos no marco zero da história.
+— Exatamente, garoto, — Valéria continuou, os dedos voando pelas teclas do console enquanto decodificava partições protegidas. — E olha o isolamento físico desse hub. As linhas principais deste nó foram **cortadas**. Ainda não sei se isso explica a ausência da Praga e do Jardim. Quatro linhas principais de fibra óptica e dutos de energia foram cortados a maçarico logo após o colapso inicial, e as pontas foram seladas com resina estrutural.
+
+— Alguém desceu até aqui no meio da carnificina só pra trancar esse lugar? — perguntei.
+
+— Não só pra trancar, — ela disse, girando o tronco e me encarando com uma seriedade profunda nos olhos prateados, despida de qualquer ironia. — Pra preservar uma plataforma vazia.
+
+— O que você quer dizer com "vazia"?
+
+— Os servidores estão ligados, alimentados por uma usina geotérmica com alimentação de serviço independente das linhas cortadas, operando com noventa e nove por cento de capacidade ociosa. Não tem dados corporativos aqui, Moretti. Não tem listas de acionistas, plantas de armamentos ou registros contábeis. A configuração prevê alojamento de padrões cognitivos. Pode ter sido um **ninho**, ou uma reserva nunca utilizada. Capacidade ociosa não diz quem esperava ocupá-la; vou copiar os arquivos de configuração antes de tentar qualquer comando.
+
+O peso daquelas palavras reverberou no silêncio do salão. Lembrei do sacrifício de Aria, do histórico que ela escolheu arriscar para abrir caminho até os arquivos executivos, e da obsessão de Dante Moretti por uma imortalidade de silício. Alguém, muito antes do meu pai, já sonhava com deuses digitais nas entranhas desta terra alagada.
+
+— E as rotas de saída? — indaguei, apontando com o queixo para o painel esquemático. — O mapa mostra pra onde esse complexo leva?
+
+Valéria tocou no painel de comando, e um holograma tridimensional projetou-se no centro da sala em feixes de luz verde.
+
+Não era um diagrama que subia para a superfície. Era uma espiral descendente, cortando camadas geológicas profundas até alcançar uma câmara blindada rotulada como *Arca Zero*.
+
+— As rotas descem direto pros alicerces tectônicos, abaixo do lençol freático, — Valéria explicou, traçando a linha com o dedo indicador. — Tem um poço de manutenção geológica logo atrás daquele portão dos fundos. Uma descida vertical de quatrocentos metros até a câmara da Arca.
+
+— Quatrocentos metros no escuro... — Elias sussurrou, engolindo em seco enquanto encarava o abismo desenhado em luz verde. — As entranhas da rocha...
+
+— É lá que a verdade dessa cidade tá enterrada, Elias, — eu disse, levantando-me devagar e firmando a escopeta na mão boa. — Valéria, quanto tempo pra destravar o elevador de carga do poço?
+
+— Quinze minutos pra bypassar o intertravamento analógico da Aeterna, — ela respondeu, puxando o cyberdeck e desconectando os cabos com um estalo profissional. Ela olhou para Elias com uma sobrancelha arqueada. — E você, garoto? Se quiser esperar aqui, a escolha é sua. Mas a porta para o corredor ficou aberta e não sei quanto tempo este lugar continuará seguro.
+
+Elias olhou para os servidores imaculados, depois para as cicatrizes e as armas que carregávamos. Suas mãos pararam de tremer.
+
+— Eu não fiquei vivo até aqui pra morrer sozinho numa sala de computadores velhos, — o garoto afirmou, a voz soando com uma convicção que me fez respeitá-lo ainda mais. — Eu vou com vocês até o fundo dessa Arca.
+
+— É a melhor resposta que você deu a noite inteira, Elias, — declarei, destravando a alça da escopeta. — Valéria, inicia a sequência. Nós vamos descer até o fundo do poço.

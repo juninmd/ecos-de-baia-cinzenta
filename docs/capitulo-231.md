@@ -1,150 +1,111 @@
 ---
-Título: Catraca
-Data In-Game: Quarto dia na Velha Baía
-Localização: Pátio Externo e Canal de Drenagem, Velha Baía
-Personagens Presentes: Gabo, Valéria, Elias, Elena, Anselmo Braga
+image: /capitulo_231.jpg
+Título: O Número que Falta
+Data In-Game: Segunda tarde na Velha Baía
+Localização: Galpão de Impressão e Prédio do Arquivo, Velha Baía (Superfície)
+Personagens Presentes: Gabo, Valéria, Elias, Elena, Dra. Elara Vance
 ---
 
-# Capítulo 231: Catraca
+# Capítulo 231: O Número que Falta
 
-A Valéria montou a armadilha em sete horas e ela era boa.
+A prateleira estava vazia, mas não limpa. Valéria apagou a lanterna de bolso e deixou só a luz rasante, aquela que ela encostava no metal como quem procura rachadura numa parede. Sob o ângulo certo, a poeira desenhava um retângulo: a marca exata de uma caixa menor, parada ali por anos e retirada há pouco.
 
-Sensor de pressão no barranco do canal, feito com fio de cobre e uma placa de prensa. Rede de carga içada numa polia, com as bordas ligadas por cabos a um contrapeso de duzentos quilos. O peso corria por guias ao lado do muro, não cairia sobre o corpo de ninguém. Dois pontos de fogo cruzado: ela numa passarela, o Elias com a espingarda de cano duplo dos Rossi atrás de um muro de fardos de papel. E eu no portão, sozinho, como isca, porque era o único jeito de ele chegar perto.
+— Oito centímetros de profundidade — ela disse. — Cantos reforçados. Tiraram com as duas mãos e não arrastaram.
 
-Às onze em ponto ele veio pelo canal. Às onze e um a placa de pressão disparou.
+— Alguém que sabia o peso — falei.
 
-Às onze e dois a rede caiu em cima dele. O contrapeso desceu nas guias e puxou as bordas contra as argolas fincadas no pátio. Braga caiu de lado, com os braços presos ao corpo; a malha cedeu o bastante para ele respirar. Funcionou. Foi a coisa mais assustadora que eu vi naquela semana.
+Elias chegou do prédio do Arquivo com o livro-caixa da drenagem aberto sobre o antebraço, do jeito que se carrega coisa que pode molhar. Tinha dobrado a página e passava o polegar na dobra sem parar, como se alisar a folha pudesse alisar a notícia.
 
----
+— Aqui. — A voz dele não firmava. Eu li por ele.
 
-Porque ele não lutou. Ficou caído de lado sob a rede, respirando pesado pelo esforço da queda, e esperou a poeira baixar. Depois virou o rosto na minha direção, no chão, e falou com o mesmo tom de balcão de repartição:
+Linha de baixa, letra de manutenção, tinta quase gasta: *Pasta E-002 retirada para Residência Executiva. Sem devolução. V.K. 2049.*
 
-— Boa, essa. O gatilho no barranco eu não vi.
+— Quem escreveu isso? — perguntou Elena, sem levantar os olhos da composição.
 
-— Cala a boca.
+— O homem da drenagem. Anotava tudo que descia pelo monta-cargas de serviço, porque a equipe dele tinha que dar baixa. — Elias esfregou o rosto com a manga. — Ele anotou porque era o trabalho dele. Não porque queria que alguém lesse.
 
-— Não estou provocando, Sr. Moretti. Estou elogiando. — Ele mexeu os ombros, testando a rede sem força, como quem confere se a carga está bem amarrada. — A moça das lentes que montou?
+Entre duas páginas, presa com fita adesiva velha, havia meia ficha cortada rente à aba:
 
-Valéria desceu da passarela com a *Caronte* apontada.
+*…OGUEIRA, R.*
+*CONSENT.: SIM*
+*ASS.:*
 
-— A rede está presa nas quatro argolas, — ela disse. — Não consigo garantir quanto tempo elas aguentam. Precisamos revistar ele e colocar algemas antes de aliviar o peso.
-
-— Não saio mesmo, — Braga confirmou, prestativo.
-
-Elias saiu de trás dos fardos com a espingarda tremendo tanto que eu tive medo de estar mais perto dele do que do Braga.
-
-Valéria cobriu Braga com a escopeta enquanto Elias, tremendo, tirava a faca da bota dele e prendia seus pulsos com algemas de um armário da gráfica. Não tínhamos resolvido o que fazer depois.
-
-O sol batia na rede de aço e o pátio inteiro cheirava a poeira quente e a maresia podre do canal. Cada vez que Braga respirava, a malha rangia contra o cascalho, um som fino e regular de coisa mastigando devagar. Eu tinha gosto de metal na boca desde o café, e a cinta laranja do Duarte, enrolada no cinto dele, estava exatamente à minha altura dos olhos.
+O resto da assinatura tinha ido embora com a outra metade.
 
 ---
 
-— A gente prende, — disse Elias. — Tem um depósito com porta de aço. Bota ele lá.
+A Dra. Elara Vance rodou a cadeira até a mesa sem que ninguém pedisse. Pegou o pedaço com a ponta dos dedos, como faria com papel de cem anos, e aproximou da lâmpada. Ficou olhando a curva do *S* por um tempo longo demais.
 
-— E quem alimenta? — perguntou a Valéria. — Quem vigia? Precisamos de revezamento, alimentação e uma sala que ele não consiga abrir. Não basta deixar um civil com a espingarda no colo. Vamos chamar os outros trabalhadores e pedir custódia pelo rádio.
+— Letra de professora — disse. — Cursiva de escola pública, barra do *T* puxada para trás. As fichas do Programa Futuro eram preenchidas por professoras contratadas pela Aeterna. Eu aprovei o pagamento delas.
 
-— A gente amarra melhor.
+— Então me explica o consentimento — falei.
 
-— Ele é estivador, rapaz, — disse Braga do chão, sem levantar a voz. — Eu amarro melhor que a moça e sei desfazer o que eu amarro. Vocês vão precisar me deixar sem uma das mãos, e aí eu infecciono e vocês vão ter que cuidar disso também.
+— No 001, o campo de consentimento dos sujeitos está em branco. A família não assinou nada por si. Quem assinou o aval foi o consultor. — Ela não me olhou. — Dante.
 
-— **Cala a boca!** — Elias gritou.
+— Dante — repeti. O nome saiu sem gosto.
 
-— Estou tentando ajudar. — Era o jeito dele de fazer o próprio ultimato parecer a única conversa possível. — Vocês não pensaram nessa parte porque vocês são gente boa. Eu já tive catorze anos para pensar em como se guarda uma pessoa. Custa caro. Custa mais do que vocês têm.
+— No 002, os pais assinaram. Nome, data, o termo escrito à mão. Um consentimento completo.
 
-Eu andei até ele e agachei, com dificuldade, apoiando a mão no joelho bom.
+— Então o 002 existe porque alguém aceitou — disse Elena, e a caneta parou.
 
-— Eu posso te soltar longe daqui. Cem quilômetros. Sem comida.
+— Existe porque alguém aceitou do jeito que um tribunal aceita — corrigiu a Vance. — É isso que vai servir a Krell. Um sujeito com consentimento é um escudo. Prova que o programa tinha papel em ordem. Essa pasta vale mais para ele do que para qualquer um de nós.
 
-— O senhor pode. — Ele assentiu. — E eu volto andando. Vai levar uns onze dias e eu chego. — Ele disse aquilo sem bravata nenhuma, como quem informa horário de ônibus. — E nesses onze dias o senhor vai dormir mal, e a jornalista vai dormir mal, e o rapaz de macacão vai dormir com a espingarda no colo até se acostumar, e aí ele vai relaxar num dia qualquer, e é nesse dia que eu chego.
+Olhei a prateleira. O retângulo na poeira não dizia nada, o que era pior que dizer.
 
-— Você não vai chegar.
+— Quem tirou a pasta, então, guardou — falei.
 
-— Sr. Moretti. — Pela primeira vez, alguma coisa parecida com cansaço na voz dele. — O senhor sabe o que eu sou. O senhor prendeu gente a vida inteira e sabe diferenciar o sujeito que fala grosso do sujeito que só está informando. Eu estou informando.
+— Ou escondeu — disse Elena.
 
----
+— Ele não rasga o que pode usar.
 
-Ficamos até o sol começar a descer.
-
-Dois trabalhadores aceitaram turnos de guarda. Pelo rádio, o abrigo do Setor 4 respondeu que poderia receber Braga em dois dias, se a estrada continuasse aberta. Não era uma garantia. Era uma alternativa, e eu ouvi a mensagem inteira.
-
-A Elena foi cuidar da tiragem porque o mundo não para. O Elias ficou de guarda até as três e depois eu mandei ele comer. Valéria organizou com os dois trabalhadores um revezamento de observação, água e verificação das algemas. Depois ficou comigo no primeiro turno.
-
-E eu fiquei ali, sentado num caixote a três metros de um homem preso numa rede, porque eu não conseguia sair de perto. Foi ele que puxou assunto, no fim da tarde.
-
-— O senhor perdeu a mãe na enchente.
-
-Eu não me mexi.
-
-— Não fala da minha mãe, Braga.
-
-— **Eu não estou provocando**, — ele respondeu, baixo e gentil. — Eu não estou perguntando, Sr. Moretti. Eu sei desde o mês do Dilúvio.
-
-Levantei a cabeça.
-
-— Como.
-
-— Pátio do Fosso. Um agente chamado Peçanha, que gostava de contar coisa de rua para os presos porque isso fazia ele se sentir importante. — Braga estava olhando o céu. — Ele chegou uma tarde e disse assim: *"Braga, sabe aquele detetive que te enfiou aqui? Perdeu a mãe na enchente. Dona Helena morreu no cerco, sem conseguir o atendimento de que precisava, enquanto ele bancava o herói na rua. Coisa de Deus."*
-
-Eu senti o cascalho debaixo de mim ficar muito longe.
-
-— E o pátio inteiro achou ótimo, — ele continuou. — Uns cinquenta homens comemorando a morte de uma senhora que não fez mal a ninguém, só porque ela era mãe do policial que prendeu eles. Teve gente que bateu palma.
-
-Uma pausa.
-
-— Eu levantei e fui pro canto e vomitei atrás do bebedouro.
-
-Eu não estava respirando direito.
-
-— Por quê? — consegui perguntar.
-
-— Porque eu tinha uma filha lá fora, na mesma água. — Ele virou o rosto, e os olhos pequenos e parados estavam molhados, e ele não fez absolutamente nada a respeito. — E porque quem comemora inocente afogado é bicho, e eu já era assassino de mulher, mas eu ainda não era bicho. Naquela tarde eu decidi que ia continuar não sendo.
-
-— Você matou o Duarte ontem.
-
-— Matei. E vou pagar por ele. — Assentiu. — Mas eu não comemorei, Sr. Moretti. Tem diferença. É pouca, e é a única que eu tenho.
+Elena não respondeu. Voltou a compor a linha com a unha, uma letra por vez, e o silêncio entre nós ficou com o barulho da rotativa parada.
 
 ---
 
-— A minha filha chamava Marta, — ele disse, depois de um tempo. — Tinha quatro anos quando eu entrei. Ficou com a tia no Setor 11.
+Valéria levou o receptor de bancada até o meio da mesa. Era um rádio sujo, que ela tinha ligado à antena do telhado do galpão na noite anterior e deixado chiando como quem deixa um cachorro na porta. Ela girou o botão de sintonia até o chiado virar batida.
 
-— Braga.
+*Tic.* Pausa. *Tic.* Pausa.
 
-— Eu escrevi toda semana. Catorze anos. Setecentas e vinte e oito cartas, com a letra bonita, porque eu treinei a letra na cadeia justamente pra isso. — A voz dele não mudava nunca, e por isso era insuportável. — Ela respondeu até os onze. Depois parou, e eu continuei escrevendo, porque carta que não é respondida ainda é carta.
+— Quatro segundos — eu disse, contando sem querer.
 
-Ele fechou os olhos.
+— Quatro segundos — confirmou ela. — Pulso periódico. Nove-zero-dois ponto quatro. Estava aí antes do amanhecer. Não é interferência de rede; a cadência é regular demais para a cúpula.
 
-— Quando as portas do Fosso cederam, três meses atrás, eu andei três dias até o Setor 11. A tia tinha morrido. Um vizinho me contou que a Marta ficou até os dezoito e morreu no Dilúvio, num abrigo da escola municipal que encheu porque não coube todo mundo e as portas foram fechadas por fora.
+— Eu vi esse número no monitor do tanque. Por cima do seu ombro.
 
-Abriu os olhos.
+— Eu anotei e dobrei — disse ela. — Duas vezes. Como fiz da outra.
 
-— O mesmo desastre, Sr. Moretti. A sua mãe e a minha menina, cercadas no mesmo mês.
+— Não sei de quem é — falou a Vance, antes que eu perguntasse.
 
-Silêncio.
+— Nem eu — disse Val. — Só sei que se repete, e que alguém a sincronizou com alguma coisa que não está na cúpula.
 
-— E é por isso que eu vim, — ele disse. — Não é vingança. Vingança seria eu tirar alguém seu pra gente ficar quites, e a água já tirou, e eu não fico feliz com isso e não é isso que eu quero.
-
-Ele me olhou.
-
-— Eu vim porque eu perdi catorze anos que eram os anos dela. Se eu tivesse solto, eu não sei se ela estaria viva — talvez não, talvez eu fosse um pai ruim e ela morresse igual. Eu não sei. **E é o não saber que eu não aguento.** O senhor me tirou a chance de descobrir, com uma faca que o senhor colocou numa caixa d'água, porque o senhor tinha pressa.
-
-Eu abri a boca e não saiu nada.
-
-— E aí eu passei catorze anos deitado num beliche pensando: se o homem que fez isso comigo é um homem justo, então eu mereço. Eu consigo carregar isso, se ele for justo. — A voz dele finalmente rachou, uma vez, no meio. — Mas se ele for igual a mim, um sujeito que faz o que dá na telha e depois dorme, então eu perdi a minha filha porque um cara qualquer teve pressa numa terça-feira. E isso eu não carrego, Sr. Moretti. Isso eu não carrego de jeito nenhum.
+Ninguém disse nada sobre o tanque. O número ficou entre nós, batendo a cada quatro segundos sobre a mesa de carga.
 
 ---
 
-Ele respirou fundo. Recompôs. Voltou ao tom de balcão.
+Elena pegou a folha de composição e a girou para mim. A manchete estava pronta. Dava para ler a letra grande mesmo com a tinta ainda úmida.
 
-— Então é isso que eu vim buscar. Não é a sua morte. É uma resposta.
+— Dez linhas, Gabo. Nome da pasta, data, assinatura do pai. Sai na tiragem de amanhã de madrugada.
 
-— Que resposta?
+— Não.
 
-— O senhor vai me matar aqui, no chão, amarrado, sem eu poder levantar a mão. — Ele disse aquilo como quem descreve um procedimento. — E aí eu vou saber. Vou saber que era isso, que foi sempre isso, que não teve justiça nenhuma na minha vida, só um homem com pressa. E vai doer, mas vai ser **descanso**, porque eu vou parar de perguntar.
+— O 002 é a melhor prova que temos de que eles não só mediam. Escolhiam quem tinha um pai que assinasse.
 
-— E se eu não matar?
+— E é o único papel que o Krell pode botar na frente de um juiz — falei. — Se você publica sem saber o que é, ele mostra primeiro, e a versão dele vira a cópia que todo mundo lê. Não publica antes de a lupa aguentar.
 
-— Aí eu saio dessa rede algum dia e cobro do rapaz de macacão. — Sem crueldade. Com pena, quase. — E depois da jornalista. E o senhor vai voltar aqui e vai me matar de qualquer jeito, só que com mais três pessoas embaixo da terra e nenhuma dúvida sobrando.
+Ela me olhou com os olhos verdes-acinzentados sem piscar, o tempo que ela usava nas entrevistas de propósito, como técnica. Eu sabia que era técnica. Mesmo assim, aguentei.
 
-Ele fechou os olhos e apoiou a cabeça no cascalho, confortável, como quem termina o expediente.
+— Só publico o que a lupa aguenta — disse Elena, por fim.
 
-— Eu já pensei em tudo isso, Sr. Moretti. Eu tive catorze anos. O senhor tem até de manhã.
+Tirou a linha da forma com a unha, devagar, e deixou as letras de chumbo voltarem para a caixa uma a uma. Eu vi o custo. A manchete estava escrita na cabeça dela antes de estar escrita na folha, e agora ela tinha que carregá-la sem usar.
+
+---
+
+Quando a noite entrou pelas frestas do galpão, a Dra. Vance pediu que a levassem de volta à sala de fitas. Elias empurrou a cadeira pela rampa com o tornozelo mal apoiado, reclamando baixo de cada tábua. Val guardou o receptor na caixa e não desligou o pulso. Elena foi até a porta do galpão com o caderno de capa dura, e ficou ali, olhando o barro vermelho lá fora, sem escrever nada.
+
+Eu fiquei na frente da prateleira.
+
+O retângulo de poeira continuava lá, com as bordas limpas de quem tirou a caixa devagar, sem arrastá-la. Quem tirou a pasta a guardou. Não rasgou, não queimou, não jogou no poço. Pôs numa caixa reforçada, deu baixa com a própria letra e deixou o papel dizer o que tinha feito. Era a parte da história que eu não queria ver: alguém achava que aquilo valia a pena guardar.
+
+Valéria se aproximou com um papel dobrado na mão. Escreveu o número nele, *902.4*, e dobrou duas vezes, como fizera no tanque. Não me mostrou. Enfiou o papel no bolso do casaco, ao lado da lanterna, e ficou olhando a mesma prateleira que eu.
+
+O vazio ainda tinha forma. Alguém o deixara exato, com contorno, para que qualquer um que chegasse soubesse o tamanho do que faltava.

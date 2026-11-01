@@ -1,81 +1,64 @@
 ---
-Título: A Marcha Fúnebre
+Título: Ecos de Neon no Submundo
 Data In-Game: Pós-Colapso do Sentinel (Noite Eterna)
-Localização: Catacumbas do Setor 6
+Localização: Catacumbas do Setor 6 (Infraestrutura Legada)
 Personagens Presentes: Gabo, Valéria, Elias
 ---
 
-# Capítulo 198: A Marcha Fúnebre
+# Capítulo 198: Ecos de Neon no Submundo
 
-Os setecentos metros restantes até o Poço de Elevação Três eram uma marcha lenta sob a abóbada fria das catacumbas do Setor 6. O eco do desabamento da ponte atrás de nós ainda reverberava pelas galerias de concreto, transformando o silêncio em uma contagem regressiva tensa.
+A grade circular de exaustão cedeu com um estalo de ferrugem moída quando forcei o punho mecânico contra as travas carcomidas. Caímos de pé numa plataforma de alvenaria maciça, cercados pela amplidão cavernosa das catacumbas do Setor 6.
 
-O ar ali embaixo não circulava; ele estagnava num caldo espesso que cheirava a ferro oxidado, óleo de transformador queimado e carniça vegetal decomposta. Na minha boca, o gosto amargo de cinzas e poeira de alvenaria misturava-se ao suor frio que escorria pelo meu pescoço.
+O ar ali embaixo era frio, estagnado e cortante, carregado com um cheiro pesado de poeira de concreto, ozônio úmido e água mineral parada em canais profundos. Não havia a fumaça cáustica da estufa em chamas; havia apenas o hálito gélido de uma infraestrutura esquecida que servira de fundação para o coração financeiro de Baía Cinzenta muito antes das corporações erguerem suas torres de espelhos.
 
-Minha órtese mecânica direita rangia a cada dois passos, as buchas gastas moendo areia contra as juntas de ferro. A atadura compressiva no meu ombro e braço quebrado estancara a sangria principal, mas a dor latente pulsava como um lembrete físico de que nossos corpos orgânicos estavam operando no limite absoluto de tolerância.
+Acima de nós, pendurados em vigas de sustentação de ferro forjado a dez metros de altura, restos de antigos letreiros de neon piscavam em espasmos febris de luz esmeralda e âmbar. Tubos de vidro quebrado zumbiam alimentados por circuitos parasitas da rede secundária, desenhando sombras compridas e fantasmagóricas no chão ensopado: *'Banco Comercial da Baía'*, *'Crédito Atlântico'*, *'Seguros Fênix S.A.'*.
 
-Eu contava os passos em vez de sentir a distância. Cada cem, uma pausa de dois segundos para deixar o joelho voltar ao lugar, e mais cem. Os setecentos metros davam sete pausas, e eu já tinha inventado a quarta quando percebi o que estava fazendo: contava errado de propósito, só para ganhar mais pausas.
+Fiquei parado um instante, ouvindo o lugar. Não era silêncio. Era uma soma de coisas pequenas: gota caindo em água funda, zumbido de tubo de neon meio morto, o estalo de dilatação de uma viga de ferro que não esquentava de dia há anos. E por baixo de tudo, muito baixo, um coro de água correndo em canos que ninguém usava mais.
 
-Elias caminhava colado ao meu lado esquerdo, os olhos saltando freneticamente pelas sombras projetadas pela lanterna fraca que ele mantinha apontada para o chão.
+Os letreiros ainda vendiam. Crédito, seguro, confiança. Anunciavam para um salão vazio com a insistência de quem não sabe que morreu. A cidade tinha erguido o dinheiro em cima daquele buraco e depois jogado o buraco fora com tudo dentro.
 
-— Frequência respiratória muito rápida, Elias — a voz de Valéria soou num sussurro cortante logo atrás de nós. A luz azul dos filamentos de LED na franja dela desenhava seu perfil concentrado, o cyberdeck seguro no peito e a pistola destravada. — Sua respiração está muito rápida. Se precisar parar, me avisa; eu e o Gabo não temos maca para carregar você. Respira fundo pelo nariz e solta pela boca devagar.
+Elias rolou para fora do duto logo atrás de nós, caindo de joelhos no piso cimentício, tossindo e engasgando como se tivesse engolido cinza fria. Ele ergueu os olhos amarelados para os neons crepitantes e soltou um suspiro trêmulo de alívio.
 
-Elias fez sinal de que ouvira. Tentou diminuir o passo e levou alguns metros até conseguir responder sem interromper cada palavra.
+— As catacumbas do Distrito Comercial... — Elias murmurou, passando a mão encardida no rosto manchado de graxa. — Nós conseguimos cruzar a fronteira subterrânea. Aquele fogo do Nível B não passa pelas comportas de chumbo. Estamos a salvo da fornalha.
 
-Entramos numa galeria mais larga, onde os pilares de concreto davam sustentação aos antigos trilhos de carga subterrâneos da área comercial. Mas a arquitetura humana fora completamente engolida por algo doentio.
+— A salvo de virar churrasco, talvez — Valéria ajustou a alça do cyberdeck depois de me ajudar a sair do duto. Ela ergueu a lanterna tática, varrendo o salão colossal com os olhos prateados atentos. — Mas 'salvo' é uma palavra que não existe no dicionário dessa cidade, Elias. Olha pra aquela galeria de escoamento ali na frente.
 
-Gavinhas espessas do Jardim, da cor de carne esfolada e entrelaçadas com cabos de alta voltagem, cobriam as colunas como cipós de pesadelo. No teto, a quatro metros de altura, casulos fibrosos do tamanho de caixões pendiam de estruturas de aço, gotejando um fluido amniótico amarelado e viscoso que sibilava ao tocar o piso inundado.
+Apontei o cano de *Caronte* na direção que ela indicava.
 
-Os casulos estavam pendurados em ordem. Do menor, na entrada, ao maior, perto da porta do poço, e cada um trazia um número estampado na fibra com tinta de estêncil que a umidade não conseguira borrar. Alguém contava. Alguém conferia. Viveiro não numera o que nasce solto; numera o que vai ser entregue.
+Cortando o centro do salão de concreto, um canal de drenagem pluvial de quatro metros de largura conduzia um líquido espesso, escuro e lento em direção ao oeste. Nas bordas de cantaria corroída, onde a lama se acumulava sobre os tijolos seculares, raízes translúcidas e bioluminescentes azuladas rastejavam como varizes pulsantes de um organismo subterrâneo.
 
-O fluido pingava no piso num compasso que imitava relógio. A galeria tinha opinião sobre nós, e a opinião era que estávamos atrasados.
+— O Jardim... — Elias recuou dois passos, o pânico voltando a estalar em sua voz esganiçada. — Ele nos seguiu pelo duto?!
 
-— Apaga essa lanterna, Elias — ordenei num sussurro ríspido, parando imediatamente e erguendo o punho mecânico. — Agora.
+— Não viaja, mecânico — Valéria caminhou até a margem do canal, agachando-se com a sonda de teste em punho sem encostar na matéria orgânica. — Essas raízes já estavam aqui. Olha a calcificação em volta dos eletrodos. A grossura não me dá uma data, mas não nasceram enquanto cruzávamos o duto. Não sabemos até onde chegaram.
 
-Elias apagou o interruptor num clique seco. Mergulhamos numa penumbra fantasmagórica, iluminada apenas pela fosforescência azulada que corria pelas veias do Jardim e pelo brilho tênue dos implantes ópticos de Valéria.
+Perto da margem, alguém tinha montado acampamento. Quatro carrinhos de supermercado amarrados com arame formavam uma parede baixa, e atrás deles havia cobertores apodrecidos, latas vazias e uma fogueira que já era só mancha de fuligem no cimento. Na parede, escrito com giz de obra, um risco e um número: três.
 
-Ela se aproximou de uma das colunas, apontando a sonda de leitura com extremo cuidado para um casulo rompido que pendia a meio metro do chão.
+— Três dias? — perguntei.
 
-— O que tem dentro dessa desgraça, garota? — Elias sussurrou, a voz sumindo de terror.
+— Três pessoas — Elias corrigiu, e a voz falhou no meio. — É assim que a gente marcava embaixo. Quem escreve não volta pra riscar.
 
-Valéria examinou a cavidade aberta, os olhos prateados arregalando-se numa mistura de fascínio técnico e repulsa visceral.
+— A estufa do Setor 7 era só o viveiro de processamento — falei, sentindo o peso da armação no braço quebrado tracionar contra a atadura elástica que Valéria havia feito. O sangue parara de pingar, mas a dor surda na carne dilacerada me lembrava a cada segundo de que nossos recursos estavam no osso. — Pelo menos uma colônia já estava fora da estufa.
 
-— Não são catadores reciclados, Gabo... — ela murmurou, a respiração presa na garganta. — Parece uma unidade biomecânica montada aqui. Não sei se opera sozinha nem quem a construiu. Olha pra carcaça dentro dessa placenta: uma estrutura de seis membros de titânio reciclado fundida a placas de músculo vegetal denso, com garras de cerâmica industrial no lugar das mãos.
+Valéria cravou a ponta de prova num terminal de telemetria fixado num pilar ao lado do canal. O display do cyberdeck desenrolou linhas de código em cascata rápida, acompanhadas por bipes ritmados.
 
-Aproximei-me da carcaça inerte. O que estava ali dentro não se parecia com nada que a natureza ou a polícia já tivessem catalogado. Era uma quimera aracnídea forjada na escuridão, desenhada exclusivamente para caçar nos túneis estreitos da cidade subterrânea.
+— As raízes tão drenando corrente dos cabos subterrâneos dos bancos — ela ergueu a cabeça, os traços jovens endurecidos pela constatação tática. — A rede biológica tá usando a energia residual dos geradores dos prédios comerciais lá em cima pra manter a pulsação viva. Há corrente nesses cabos, mas não consigo identificar de onde vem ou se existe um comando perto do entroncamento.
 
-— Silas Vance não queria apenas cultivar a cidade — comentei, o cano de *Caronte* repousando pronto na dobra do meu braço esquerdo. — Talvez alguém esteja montando unidades para vigiar o subsolo. Não sei se foi Silas.
+— Onde fica o elevador de carga industrial, Elias? — perguntei, virando-me para Elias.
 
-— E a incubadora ainda tá ativa — Valéria apontou o sensor térmico para o teto, onde outros doze casulos fechados pulsavam com uma temperatura estável de trinta e sete graus. — O sensor mostra calor nos casulos. Não sei o que os faz reagir; passar em silêncio pode nos dar uma chance.
+Elias apontou o dedo trêmulo para a galeria escura que se abria ao longo do canal, onde a iluminação dos neons agonizantes perdia a força contra as sombras absolutas.
 
-— Passos curtos pelas canaletas de drenagem — comandei, apontando para a vala lateral de concreto seco onde a água não acumulava. — Sem arrastar bota e sem falar nada.
+— Oitocentos metros naquela direção. O Poço de Elevação Três. Ele ligava os depósitos de lingotes dos bancos direto aos trilhos de carga subterrâneos. É um poço blindado com guinchos manuais e gaiola de aço naval. Se a gente alcançar aquele poço, a gente contorna o labirinto dos esgotos e sobe direto pro nível do Hub Principal.
 
-Começamos a avançar pela beirada da galeria. A cada metro, o peso da armação puxava meu ombro com uma gravidade impiedosa. Meus músculos tremiam com a tensão acumulada, a mente focada exclusivamente em manter o equilíbrio nos trilhos enferrujados.
+— Oitocentos metros em linha reta acompanhando esse canal cheio de raízes — Valéria guardou a sonda e checou o carregador da pistola com um clique seco. — Um passeio no parque, considerando que a gente acabou de escalar uma chaminé em chamas.
 
-Silêncio não é ausência de som; é disciplina. A bota de metal tinha que descer reta, sem arrastar, e o peso da armação tinha que passar para o quadril antes do pé. Cada passo meu custava um cálculo, e o cálculo custava um pedaço do ombro. Na metade da travessia, a bucha do joelho travou no meio do curso e eu tive que soltar com a mão, devagar, sentindo a graxa quente vazar entre os dedos.
+— Mantém a lanterna baixa, Val — avisei, ajeitando o sobretudo sobre a coronha de *Caronte*. — Não sabemos a que essas trepadeiras reagem. A gente se move pelas passarelas laterais de serviço, onde o lodo é mais raso.
 
-Valéria ia na frente marcando as lajes com dois toques de dedo no ar. Elias seguia atrás de mim e não respirava. Nem eu.
+— E se a gente topar com alguma daquelas carcaças reanimadas no caminho? — Elias perguntou, engolindo em seco, os nós dos dedos brancos de tanto apertar a chave sônica no peito.
 
-Cinquenta metros. Cem metros. As portas maciças do Poço de Elevação Três já podiam ser vistas no final da reta, recortadas contra a escuridão.
+Valéria olhou para Elias com aquele meio-sorriso cínico e destemido que sempre desarmava o desespero:
 
-Foi então que o ferro velho traiu nosso avanço.
+— Se topar com zumbi corporativo, Elias, você se abaixa e deixa o Moretti e a escopeta dele explicarem a política de demissão sem justa causa da Aeterna Corp. Vamos andar logo antes que os transformadores lá em cima apaguem de vez.
 
-Sob a poça de lodo que cobria o trilho, uma barra de vergalhão solta estava enterrada. Quando apoiei o calcanhar da bota mecânica sobre o cascalho, a barra escorregou, batendo com um clangor metálico estridente e agudo contra a viga mestre da parede.
+Contei os cartuchos no bolso do sobretudo enquanto andava. Faziam um barulho de dentes batendo. Não era muito, e dali em diante cada um ia ter que justificar a própria existência. A mão direita ainda formigava onde a fita apertara demais; avisei Val e ela conferiu a faixa sem soltar a tala.
 
-CLANG!
-O som ecoou pela galeria cavernosa como uma martelada num gongo de aço.
-
-O silêncio que se seguiu durou exatamente um segundo.
-
-Lá em cima, os doze casulos suspensos espasmaram em uníssono. As veias azuis do Jardim dispararam pulsos elétricos de alta frequência, e um zumbido subsônico furioso sacudiu a alvenaria do teto.
-
-— Alerta térmico! — Valéria berrou, puxando a pistola do coldre e cravando os pés na laje com postura de tiro. — A temperatura e o movimento dos casulos saltaram na leitura! O impacto acústico despertou o ninho!
-
-O casulo mais próximo rasgou-se de cima a baixo com um som úmido e nauseante de lona e carne se rompendo. Uma enxurrada de fluido amarelado despencou no chão, seguida pelo baque pesado de uma criatura de dois metros que caiu de quatro patas sobre o cascalho.
-
-A abominação ergueu a cabeça cega, desprovida de olhos, com mandíbulas de aço serrilhado estalando num silvo assassino enquanto garras de cerâmica batiam no concreto.
-
-— Corre, Elias! — empurrei o técnico com força em direção ao portão do elevador, sacando *Caronte* com um giro limpo da mão esquerda. — Vai pro poço do elevador e não olha pra trás!
-
-Valéria já estava ao meu lado, os olhos brilhando com fogo frio enquanto descarregava os primeiros três tiros cirúrgicos no tórax blindado da besta.
-
-— Dá cobertura, Moretti! Essa coisa é rápida pra caramba!
+Avançamos pela passarela elevada ao lado do canal, o eco ritmado dos nossos passos e o chiado mecânico da minha armação marcando a cadência firme da nossa marcha através das catacumbas esquecidas do Setor 6.

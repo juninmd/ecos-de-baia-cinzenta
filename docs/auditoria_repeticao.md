@@ -6,12 +6,12 @@
 
 ## Expressões repetidas
 
-- **que nao tinha nada a ver com** — 4 capítulos: cap 40, cap 138, cap 218, cap 229
-- **o pendrive blindado de titanio da aria** — 4 capítulos: cap 88, cap 94, cap 95, cap 116
-- **que nada tinha a ver com a** — 4 capítulos: cap 101, cap 123, cap 125, cap 216
-- **de valeria o pendrive blindado de aria** — 4 capítulos: cap 132, cap 151, cap 159, cap 164
-- **o feixe laser do deck de valeria** — 4 capítulos: cap 143, cap 147, cap 149, cap 165
-- **pelo alto falante do pulso de valeria** — 4 capítulos: cap 144, cap 152, cap 154, cap 157
+- **que nao tinha nada a ver com** — 4 capítulos: cap 41, cap 140, cap 220, cap 232
+- **o pendrive blindado de titanio da aria** — 4 capítulos: cap 90, cap 96, cap 97, cap 118
+- **que nada tinha a ver com a** — 4 capítulos: cap 103, cap 125, cap 127, cap 218
+- **de valeria o pendrive blindado de aria** — 4 capítulos: cap 134, cap 153, cap 161, cap 166
+- **o feixe laser do deck de valeria** — 4 capítulos: cap 145, cap 149, cap 151, cap 167
+- **pelo alto falante do pulso de valeria** — 4 capítulos: cap 146, cap 154, cap 156, cap 159
 
 ## Aberturas de parágrafo mais comuns
 

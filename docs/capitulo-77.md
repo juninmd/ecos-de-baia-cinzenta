@@ -1,133 +1,127 @@
 ---
-image: /capitulo_77.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Dra. Nise, Aria
-Localização: "Hospital Central de Baía Cinzenta - 02:45 AM"
+image: /capitulo_76.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Beatriz "Bia" Vargas, Enzo e Sofia Rossi
+Participação em lembrança: Dante Moretti
+No presente, em cena separada: Aria e Valéria "Val" Cruz
+Localização: "Há 13 anos - Jardim Botânico de Baía Cinzenta"
 ---
-# Capítulo 77: Anjos da Morte
+# Capítulo 77: Memórias de Chuva (Flashback)
 
-Hospital Central de Baía Cinzenta - 02:45 AM
-O cheiro de antisséptico era a única coisa que não havia mudado na cidade. Governos caíram, o sol voltou, deuses digitais ascenderam e morreram, mas o Hospital Central ainda cheirava a pinho falso e morte esterilizada.
+Há 13 anos - Jardim Botânico de Baía Cinzenta
+A chuva caía como uma bênção discreta, não a ácida que corroía a alma da cidade, mas uma garoa fina que fazia as flores artificiais brilharem sob as luzes holográficas. O Jardim Botânico era um oásis no topo da Torre de Marfim, reservado apenas para a elite que podia pagar pelo ar filtrado e pelas vistas panorâmicas.
 
-Gabo odiava hospitais. Eles o lembravam de muitas coisas: da sua coluna quebrada, de Dante preso no tanque da Torre, e de quantas vezes Val precisou improvisar compressão e procurar ajuda em becos porque eles não podiam pagar por um médico de verdade.
+Gabriel Moretti, aos 22 anos, estava parado no palco improvisado, vestindo um terno emprestado que cheirava a naftalina e promessas não cumpridas. Ao lado do palco, uma cadeira permanecia vazia. Dante desaparecera dois anos antes; a família tinha uma certidão, não uma explicação que tornasse aquela ausência menor.
 
-O corredor tinha piso encerado até devolver o reflexo das lâmpadas, e o som das botas de Gabo ia na frente dele, avisando o andar inteiro que um homem quebrado estava chegando. O joelho esquerdo reclamava a cada três passos. Ele passou a contar os passos, para não contar as portas.
+Gabo ouviu na memória a voz do pai pedindo que respirasse. Não havia um homem de uniforme ao lado dele; era o jeito que encontrara de não olhar para a cadeira.
 
-— Você está pálido — comentou Val, mastigando um chiclete de cafeína. Ela estava encostada na parede do corredor, seus olhos varrendo o espectro digital invisível.
+Gabo tentou sorrir, mas o nervosismo o traía. Ele olhou para a congregação pequena: alguns colegas da delegacia, o casal Rossi com sua pizzaria recém-inaugurada, e Elena Moretti, que viera como amiga e testemunha de Bia. Enzo recolhia as caixas vazias da entrega; Sofia conferia as fatias para garantir que sobrasse uma para a equipe da cozinha. Ninguém da família de Bia. Eles haviam se oposto à união desde o início.
 
-— É a luz — mentiu Gabo. — Muito branca.
+Três fileiras de cadeiras dobráveis ficaram vazias à esquerda, reservadas aos Vargas e nunca ocupadas. O zelador do Jardim empilhara as sobras contra a parede, e o plástico branco refletia a luz holográfica como dentes. O cheiro de terra úmida e adubo químico subia dos canteiros, e por baixo dele havia o perfume gasto do paletó emprestado, que lembrava as roupas guardadas do pai.
 
-Dra. Nise apareceu no final do corredor. Ela parecia ter envelhecido dez anos desde a revolução. Seu jaleco, impecável como sempre, parecia pesar em seus ombros.
+Valia a pena? Era a pergunta que imaginava ouvir do pai, não uma conversa que tivesse acontecido ali.
 
-— Obrigada por virem — disse ela, sem preâmbulos. — Tenho quatro corpos no necrotério que não deveriam estar lá.
+— Mais que isso — murmurou Gabo para a cadeira vazia. Ela é... normal. Em um mundo que enlouqueceu.
 
-Val lhe entregou a cópia local e a anotação do beco. Nise guardou as duas num envelope de papel, junto da própria requisição de exame. Ainda não tinha um laudo do homem encontrado atrás da estação.
+A música de entrada começou, sintetizada por um quarteto de cordas virtuais. E lá vinha ela.
 
-Ela os guiou até uma sala de observação. Através do vidro, podiam ver a UTI. Estava lotada, mas silenciosa. O zumbido dos respiradores era hipnótico.
+Beatriz Vargas. Bia. Vinte e um anos de idade, cabelos pretos em corte pixie, sem véu ou tiara. Seu vestido era branco reciclado, não o cetim caro que sua família poderia comprar, mas tecido sustentável cultivado em laboratórios. Ela carregava um buquê de flores de verdade — um luxo que custara uma semana do salário de Gabo.
 
-— O que houve? — perguntou Gabo.
+Seus olhos se encontraram, e Gabo sentiu algo que não sentia havia anos: paz. Quando o quarteto virtual errou uma nota, o olhar de Bia escorregou para as cadeiras vazias e voltou rápido demais.
 
-— Parada cardiorrespiratória. Todos eles. — Nise apontou para um gráfico holográfico flutuando sobre a mesa. — Pacientes em recuperação. Um garoto com perna quebrada, uma senhora com pneumonia leve, dois casos de desnutrição que já estavam estáveis. Todos mortos nas últimas seis horas.
+— Você está linda — sussurrou ele quando ela chegou ao palco.
 
-— Aria? — perguntou Val.
+— Você também — respondeu ela, com um sorriso que iluminava o jardim artificial. — Para um policial com um ano de serviço.
 
-— Cega — respondeu Nise. — Segundo os registros do sistema, eles simplesmente... desligaram. A triagem inicial não apontou a causa; isso não exclui substâncias fora do painel nem falhas que os registros não captaram. A triagem da Entidade registrou como "morte natural".
+O mestre de cerimônias, um ancião com implantes ópticos que piscavam ritmadamente, começou o rito de compromisso.
 
-— Quatro mortes naturais na mesma noite, no mesmo setor? — Gabo balançou a cabeça. — Motivo para investigar, sem concluir a causa só pelo número.
+— Estamos reunidos aqui hoje para celebrar o amor em tempos difíceis...
 
-— Exatamente. — Nise cruzou os braços. — E há um padrão. Todos morreram durante o turno da equipe B de técnicos de enfermagem.
+Mas Gabo mal ouvia. Ele olhava para Bia, memorizando cada detalhe: a maneira como ela mordia o lábio inferior quando nervosa, o pequeno sinal de nascença na clavícula esquerda, o jeito como seus olhos se enrugavam nos cantos quando ela sorria de verdade.
 
-— Vou registrar como suspeita — disse Nise, e havia um desafio na forma como ela apoiou as duas mãos na mesa.
+— Gabriel Moretti, aceita Beatriz Vargas como sua companheira?
 
-— Não vai.
+— Aceito.
 
-— Não é você que assina, Gabriel.
+— Beatriz Vargas, aceita Gabriel Moretti como seu companheiro?
 
-— Eu sei. É por isso que estou pedindo. — Gabo apontou o queixo para o vidro da UTI. — Se você escrever "suspeita" nesse sistema, o serviço da Entidade recebe primeiro. Eu não sei quem mais pode ler ou alterar o que entra lá.
+Ela hesitou por um segundo. Não de dúvida, mas de realização. Este era o momento. Não havia volta.
 
-— E as famílias? Vão receber o quê enquanto você procura quem mexeu no sistema?
+— Aceito.
 
-— Eu não quero que recebam um papel dizendo morte natural antes da perícia. Me dá tempo para conservar os registros, e eu explico a elas o que estamos fazendo.
+Os anéis de compromisso eram simples: bandas de titânio reciclado, gravadas com suas iniciais. Quando Gabo colocou o dela, sentiu a mão dela tremer ligeiramente.
 
-Nise ficou calada tempo demais para o gosto dele.
+O metal esquentou rápido no dedo dela, e por baixo dele Gabo sentiu o pulso de Bia batendo mais depressa do que o sorriso admitia. Ela apertou a mão dele antes de soltar — três pressões curtas, o código que os dois usavam quando alguém precisava sair de uma sala sem dizer por quê. Não era medo dele. Era do que vinha depois: a cidade, o plantão, a família que não estava ali. Gabo devolveu as três pressões e guardou o resto para si.
 
-— Eu passei trinta anos lutando para que a morte tivesse nome — disse ela. — Se eu esperar pelo seu prazo, quem impede que emitam os quatro atestados errados?
+— Eu te amo — disse ela, tão baixo que apenas ele ouviu.
 
-— Estou pedindo seis horas.
+— Eu também — respondeu ele, e era verdade.
 
-— Não vou mentir no atestado. Registro a suspeita em papel, guardo a via original e peço perícia. Podemos preservar os dados sem entregar de imediato o acesso remoto.
+O beijo foi casto, apropriado para a ocasião, mas continha uma promessa de mais. Quando se separaram, Gabo viu lágrimas nos olhos dela.
 
-— Se eu estiver errado, seu relatório vai ter o meu nome como testemunha, e eu perco o que sobrou da minha licença. Se eu estiver certo, você ganha um assassino. — Ele deu de ombros, e o ombro doeu. — É a única aposta que eu tenho pra te oferecer.
+— Ei — disse ele, enxugando uma com o polegar. — O que foi?
 
-Val conectou-se ao terminal da sala. Usou o teclado e o cabo de serviço; a visão básica acompanhava os registros que a sessão permitia ler.
+— Nada — mentiu ela, sorrindo através das lágrimas. — Só... feliz.
 
-— Turno da noite. Líder da equipe: Lucas Viana. Ficha limpa. Tão limpa que brilha. Nenhuma infração, nem multa de trânsito.
+A recepção foi simples: champanhe sintético e pizza do Rossi's. Elena ergueu uma taça e leu o brinde que Gabo escrevera usando uma frase antiga do pai.
 
-Ela abriu a folha de acesso aos quartos. A credencial de Lucas aparecia nas quatro passagens anteriores às mortes; outras pessoas também tinham entrado. Val copiou a lista inteira, com horários e lacunas, para a perícia.
+— Para meu filho e sua parceira. Que vocês encontrem a felicidade que esta cidade tenta roubar de todos nós.
 
-— Ninguém é tão santo assim — resmungou Gabo.
+Elena dançou com Gabo e procurou Bia com o olhar; eram amigas desde os tempos difíceis no bairro.
 
-— Tem mais — continuou Val. — Há uma lacuna nos logs das câmeras de segurança. Frações de segundo. Loops de imagem imperceptíveis para um humano, mas o monitoramento da Entidade deveria ter sinalizado.
+— Cuide dela, Gabo — disse Elena, séria. — Ela merece alguém que a proteja desta cidade.
 
-— Alguém está editando a realidade em tempo real? — perguntou Nise, horrorizada.
+— Sempre — prometeu ele.
 
-— Ainda não sabemos — disse Gabo, olhando para o corredor onde um técnico de enfermagem empurrava um carrinho de medicamentos. — Conserva os registros. Quero comparar as entradas com a escala e as prescrições.
+Mais tarde, quando a festa acabou e eles estavam sozinhos no apartamento minúsculo de Gabo no Distrito Central, Bia se aninhou contra ele na cama estreita.
 
-Nise conferiu a escala e indicou Lucas no corredor, empurrando um carrinho de medicamentos. Gabo e Val mantiveram distância. Ele parou na porta do quarto 304, verificou o relógio e entrou.
+— Você acha que vai durar? — perguntou ela, traçando padrões no peito dele.
 
-— Val, conserva as imagens numa gravação local — sussurrou Gabo.
+— O quê?
 
-— Sem apagar o original — respondeu ela. — Se você entrar, isso também fica registrado.
+— Nós. Nesta cidade. Com tudo que está acontecendo.
 
-Nise consultou a prescrição impressa do quarto. A próxima medicação endovenosa estava marcada para mais tarde; ligou para o posto para confirmar se houvera mudança. A resposta demorou. Gabo já avançava para a porta.
+Gabo beijou sua testa.
 
-Ele entrou no quarto sem fazer barulho. O 304 cheirava a sabão de glicerina e a urina velha escondida embaixo do sabão. Na mesinha, um rádio de pilha, um copo com água pela metade e uma foto de casamento com a moldura rachada no canto. O soro pingava no ritmo de um homem sem pressa. No chão, os sapatos do técnico eram de sola macia: sem chip, sem LED, sem nada que a Aria pudesse escutar.
+— Eu não sei do futuro, Bia. Mas sei que vou lutar por você. Todos os dias.
 
-O técnico estava debruçado sobre o paciente, um homem idoso que dormia. Em sua mão, uma seringa de vidro antiquada, sem chip de rastreamento.
+Ela sorriu, mas havia uma sombra em seus olhos.
 
-O líquido dentro era transparente.
+— Só... me prometa uma coisa.
 
-— Parado — disse Gabo, apontando sua arma.
+— Qualquer coisa.
 
-O técnico não se assustou. Ele se virou lentamente, o sorriso ainda colado no rosto.
+— Quando eu disser que preciso ficar sozinha, não transforme isso num problema para resolver. Me escuta.
 
-— O silêncio precisa ser alimentado, detetive — disse ele, a voz calma como a de um padre. — Eles sofrem tanto com o barulho do mundo. Eu apenas trago a paz.
+Ele abriu a boca para responder. Bia apoiou dois dedos sobre a mão dele.
 
-— Solte a seringa.
+— Eu sei que você tenta ajudar — disse ela. — Mas às vezes eu só quero que você pare e me ouça.
 
-— Não deixa rastro — continuou o homem, ignorando a ordem. — Extraído de uma planta que crescia aqui antes do concreto. Metaboliza em segundos. Para o coração como um beijo de boa noite.
+Gabo olhou para os dedos dela sobre os seus.
 
-Ele fez menção de injetar o líquido no soro do paciente.
+— Consegue prometer isso?
 
-Gabo não hesitou. Disparou, atingindo o ombro do técnico. O homem gritou, deixando a seringa cair. O vidro se estilhaçou no chão, o líquido sibilando levemente ao tocar o linóleo.
+— Eu prometo.
 
-Val entrou correndo, arma em punho.
+Na manhã seguinte, acordaram com o som da chuva ácida batendo nas janelas. O mundo real havia voltado. Mas por aquelas poucas horas, eles haviam tido seu pedaço de normalidade.
 
-— Nise, traga a segurança! — gritou ela.
+Nos oito anos seguintes, Miranda se tornaria parte da rotina da unidade. A emboscada que mataria Bia ainda não era uma lembrança daquela festa.
 
-O paciente acordou com o disparo. Nise chamou uma enfermeira para verificar a linha de soro e acompanhar o homem enquanto a equipe entrava; ele não tinha visto o que havia na seringa.
+---
 
-O técnico caiu de joelhos, segurando o ombro sangrando. Mas ele ainda sorria.
+No presente, Valéria restaurou a alimentação e verificou os setores que haviam sobrevivido à transmissão. No drive conectado ao deck, Aria aguardou o diagnóstico sem oferecer atalhos.
 
-— Vocês não entendem — sussurrou ele, olhando para Gabo com olhos vidrados. — A sombra está crescendo. O meio-dia foi apenas um aviso. Nós somos os anjos que preparam o caminho.
+— *Você está acordada há tempo demais, Val.*
 
-— Caminho para quem? — perguntou Gabo, agarrando-o pelo colarinho.
+— Você também.
 
-O homem começou a convulsionar. Espuma branca saiu de sua boca.
+— *Eu não durmo. Posso, no entanto, ficar em silêncio.*
 
-— Chamem a equipe! — gritou Nise, entrando no quarto com um kit de emergência. — Não sabemos o que causou isso.
+— Se me mandar dormir de novo, desligo o alto-falante.
 
-Ela pediu o carrinho de reanimação e iniciou o atendimento com a equipe. As tentativas falharam. O corpo do técnico ficou rígido e depois relaxou; a causa da morte ainda precisaria de exame.
+— *Você pode. Só deixe o canal de emergência aberto.*
 
-Gabo soltou o cadáver, limpando a espuma da mão na roupa do morto.
+— Mandona.
 
-— Anjos da Morte — murmurou Val, olhando para a seringa quebrada.
+— *Vou registrar como avaliação, não como defeito de fábrica.*
 
-— Ele falou em silêncio — disse Gabo. — Como a frase da parede. Quero a gravação ao lado da foto, não uma conclusão de que foram as mesmas pessoas.
-
-Nise recolheu uma amostra do líquido do chão com um swab.
-
-— Vou analisar isso. Mas se for o que ele disse... um composto fora do que testamos, precisamos de análise dirigida. Ser orgânico não torna nada indetectável nem permite à Aria examinar sangue por telemetria. É...
-
-— Analógico — completou Gabo. — O inimigo agora é de carne e osso, Nise. E ele sabe usar coisas que esquecemos como combater.
-
-Lá fora, a sirene de uma ambulância uivava, cortando a madrugada. O silêncio, por enquanto, tinha sido adiado. Mas a sombra no hospital parecia mais densa do que nunca.
+Val encostou a testa nos braços. Gabo dormia na cadeira ao lado, o sobretudo ainda molhado sobre as pernas. Aria reduziu a luz do LED e manteve o canal de emergência aberto. Não sabia o que ele sonhava; sabia que poderia chamá-lo se a porta se abrisse.

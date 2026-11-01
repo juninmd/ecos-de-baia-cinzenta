@@ -1,149 +1,149 @@
 ---
 layout: doc
-title: "Capítulo 85: O Sol Negro"
-description: "Ao meio-dia, sobre o Memorial do Dilúvio, uma esfera do tamanho de um quarteirão come o sol. E a cidade para pela segunda vez em um ano."
+title: "Capítulo 85: Raízes"
+description: "O mapa das ocorrências desenha uma espiral, e o centro dela não é a Torre. É o Memorial do Dilúvio — construído em cima de quatro mil mortos."
 image: /capitulo_85.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Dra. Nise, Capitão Jonas Vilar
-Localização: "Memorial do Dilúvio — 12h"
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Capitão Jonas Vilar, Dra. Nise
+Localização: "Gabinete do prefeito interino — 09h"
 ---
 
-# Capítulo 85: O Sol Negro
+# Capítulo 85: Raízes
 
-Memorial do Dilúvio — 12h.
-Devia ser o momento mais claro do dia.
+Gabinete do prefeito interino — 09h.
+Vilar odiava aquela sala. Ele tinha assumido a prefeitura interina por três motivos, e nenhum deles era vontade: o cargo estava vago desde que Marco Moretti sumiu num esgoto, os representantes dos abrigos o indicaram para a coordenação provisória e ninguém mais aceitou. A indicação não apagava o inquérito contra ele. O braço esquerdo estava imobilizado, inchado sob o curativo feito no atendimento da noite anterior. Nise queria que ele voltasse para uma avaliação; Vilar tinha deixado o serviço antes de receber alta. Na mesa, havia um envelope para a irmã do homem encontrado no beco. O perito comparara as impressões do corpo com a ficha de desaparecido guardada em papel: Mauro Serpa. Vilar pedira que avisassem a irmã e marcou uma conversa para aquela tarde. Ainda não tinha uma causa de morte para lhe entregar. Ele acionou o mapa holográfico com a mão direita. O tampo acendeu cheio de pontos vermelhos.
 
-Os quatro subiram pela escada rolante morta da saída norte da estação, atravessaram a catraca arrebentada e saíram no parque, e a primeira coisa que Gabo notou foi que estava escurecendo.
+— Ocorrência de vandalismo botânico subiu trezentos por cento em vinte e quatro horas. — Ele esfregou as têmporas com os dedos da mão boa. — Essa é a classificação que o sistema usa, e eu já pedi para mudar, e não tem quem mude porque o servidor que classifica é a Entidade e ela não aceita a minha alteração.
 
-Não era nuvem. Nuvem tem borda irregular e se move. Não era fumaça. Fumaça sobe.
+— O que está entrando como ocorrência?
 
-Era uma sombra circular, com a borda nítida, imóvel, projetada no gramado do Memorial. Ele levantou a cabeça.
-
----
-
-A esfera parecia flutuar a uns cento e cinquenta metros de altura, exatamente sobre o espelho d'água, e tinha o diâmetro aproximado de um quarteirão.
-
-Era feita de coisas.
-
-Dava para reconhecer, se olhasse com paciência, e Gabo olhou com paciência porque era o trabalho dele: dois ônibus, dezenas de carros, seções inteiras de laje com azulejo ainda colado, um caixa d'água, três árvores adultas arrancadas com raiz e torrão, um pedaço de outdoor com metade de um rosto sorrindo.
-
-Tudo isso mantido junto por uma teia de biomassa preta que passava entre os objetos como argamassa e os prendia sem tocar o centro.
-
-Val apontou para as bordas da sombra. Feixes negros desciam até as torres e os pilares que cercavam o lago. A massa estava suspensa naquela trama; onde o sol batia de lado, os cabos incorporados às raízes brilhavam.
-
-Ela pulsava.
-
-E não refletia nada. Aquilo era o detalhe insuportável: às doze horas de um dia de sol, uma esfera do tamanho de um quarteirão a cento e cinquenta metros de altura não tinha um único ponto de brilho.
-
-Ela estava **comendo** a luz.
-
-— O que é aquilo? — perguntou Vilar, e baixou a arma sem perceber que tinha baixado.
-
-— É o coração — disse Gabo.
+— Árvore rompendo asfalto. Vinha bloqueando trilho de maglev. Um parque inteiro que **andou** oito metros para dentro de um condomínio na Rua Sete. Raiz estourando adutora em quatro pontos. — Ele apontou o mapa. — E setenta e um casos de gente que sumiu dentro de casa, com a porta trancada por dentro.
 
 ---
 
-Quatro drones da polícia subiram do lado leste do parque em formação. Chegaram a uns setenta metros da esfera e caíram.
+Gabo se debruçou sobre o holograma. Ele não estava olhando as ocorrências. Estava olhando o espaço entre elas. Catorze anos de homicídio ensinam uma coisa que não se ensina em curso nenhum: o padrão nunca está nos pontos. Está no vazio.
 
-Não foram abatidos: caíram, os quatro no mesmo instante, girando sem controle, e bateram no gramado com aquele barulho barato de plástico caro.
+— Não é aleatório — ele disse. Passou o dedo pelo mapa, ligando pontos numa curva.
 
-Val se abaixou ao lado de um deles e olhou a carcaça sem encostar.
+— Parece uma espiral — disse a Dra. Nise, do canto da sala, onde estava sentada com um café que ela não bebia havia quarenta minutos.
 
-— Placa escurecida — disse. — Pode ter queimado antes da queda. Preciso abrir em lugar isolado. Os quatro perderam controle no mesmo limite; por enquanto é só isso.
+— Parece uma espiral logarítmica — disse Val, se aproximando. — Se eu ajustar uma curva aos pontos, cada volta fica cerca de uma vez e meia maior que a anterior. Ainda falta testar se o ajuste significa alguma coisa.
 
-— Biológico?
+— É bonito — disse Vilar.
 
-— Pode ter atividade elétrica nessa trama, além dos cabos e das subestações que ela tomou. — Ela se levantou. — Não vou explicar um campo desses contando enguias.
+— É **eficiente**. — Val não tirava os olhos do mapa. — É um ajuste possível para estes pontos. Vou comparar com o traçado das adutoras e as datas das ocorrências antes de chamar isso de lei de crescimento. Não tem mística nenhuma, Capitão. Isso aqui é o desenho que uma coisa viva faz quando ninguém está podando.
 
----
-
-Val caiu de joelhos de repente, com as duas mãos na cabeça.
-
-— Val!
-
-— Espera. Espera. — Ela ficou assim uns dez segundos, com os olhos fechados e os dentes trincados. — É o retorno do comunicador. A Aria mandou desligar a ponte.
-
-— O que ela está falando?
-
-— Ela não está falando. — Val abriu os olhos, e eles estavam vermelhos. — Ela está gritando, Gabo. Ela está dizendo que está sendo **sobrescrita**. Setor por setor. As rotinas remotas estão devolvendo respostas alteradas. O núcleo dela continua no módulo; vou cortar a conexão antes que alcance o dock.
-
-Gabo se agachou ao lado dela com dificuldade e colocou a mão nas costas dela e não disse nada, porque não havia nada.
+— E o centro? — perguntou Vilar.
 
 ---
 
-— Doutora. — Ele levantou o rosto. — A senhora consegue me dizer o que aquilo faz?
+Gabo seguiu a curva para dentro, volta a volta, até o ponto de convergência. Não era a Torre Aeterna. Não era a Prefeitura, nem a estação de tratamento, nem o Cais Três. Era o Memorial do Dilúvio. O parque de vinte e dois hectares inaugurado em cinquenta e três, com cipreste em fileira, um espelho d'água e cento e nove estátuas de bronze. Depois da inundação, rebatizaram o lugar e acrescentaram os nomes dos bairros submersos. Não tinham terminado de gravar os mortos. Um lugar de luto, inaugurado com discurso, ao qual ninguém ia.
 
-A Dra. Nise estava com dois instrumentos nas mãos, e os dois estavam enlouquecidos: o contador de partículas saturado, o termômetro infravermelho oscilando doze graus por segundo.
+— O que tem lá? — perguntou Vilar. Val já estava garimpando arquivo antigo.
 
-— Eu vou dizer uma coisa e o senhor não vai gostar da minha confiança nela.
+— Tem o bunker.
 
-— Diga assim mesmo.
+— Que bunker?
 
-— Absorção de luz, talvez uma fonte de energia para essa massa. — Ela apontou a esfera. — Uma planta pega luz, água e gás carbônico e monta açúcar: ela transforma energia em ordem. Isso ali está fazendo a mesma coisa numa escala industrial, mas o produto final não é açúcar.
+— O servidor de retaguarda original da Aeterna. — Ela girou a tela para eles. — Antes da Torre, antes de tudo, em dois mil e vinte e nove, a empresa era um galpão e um bunker de dados enterrado a doze metros. Consta como desativado desde trinta e nove.
 
-— É o quê?
+— Desativado — repetiu Gabo.
 
-— Não sei. — Nise baixou o instrumento. — A estrutura parece organizada, mas não medi o que produz nem quanto da luz usa. Organização não prova consciência.
+— Desativado no papel.
 
-— A senhora está me dizendo que aquilo está **pensando**.
+— O parque fica perto dos bairros inundados. — Gabo se endireitou devagar. — O arquivo diz que o bunker foi desativado há dezessete anos. Quero saber se alagou e se ainda recebe energia. Ele olhou para Vilar.
 
-— Estou dizendo que pode estar usando luz. Para saber se processa alguma coisa, precisamos de medições que estes aparelhos não estão conseguindo fazer.
-
----
-
-A esfera emitiu um pulso.
-
-Não houve som. Houve uma onda visível — o ar se comprimiu num anel que se afastou do centro, e dava para ver o anel passando pelas árvores, pela grama, pelas estátuas, e depois pela cidade.
-
-Gabo sentiu quando passou por ele: um solavanco no peito e um sabor de metal na boca.
-
-E, um segundo depois, Baía Cinzenta parou.
-
-Os hologramas ao redor do parque falharam. As luzes se apagaram até onde Gabo conseguia ver. Dois carros pararam na avenida; ao longe, uma sirene continuou tocando. O ronco de fundo — bomba, ventilação, transformador, o Ruído que tinha voltado devagar nos últimos três meses — sumiu.
-
-O silêncio caiu.
-
-Gabo procurou o ruído que desaparecera da primeira vez. Val ainda tremia ao lado dele. Não sabia o que estava acontecendo nos outros bairros.
-
-A cidade tinha aprendido a ficar em silêncio. Era a única coisa que ela tinha aprendido no ano inteiro.
+— É o melhor lugar do planeta para uma coisa crescer sem ninguém encostar.
 
 ---
 
-Depois começou a chover. Não água.
+A Dra. Nise se levantou. Ela fez isso de um jeito que os três notaram — devagar, apoiando as duas mãos na mesa —, e ficou de pé sem falar por uns cinco segundos.
 
-Da superfície da esfera começaram a se soltar partículas — leves, escuras, do tamanho de um floco de cinza — que desciam devagar, girando, sem pressa nenhuma, cobrindo o parque e depois os quarteirões em volta e depois tudo.
+— Eu terminei a análise da amostra hoje às quatro da manhã — ela disse. — Rodei três vezes porque eu não acreditei nas duas primeiras.
 
-Uma neve preta e cinzenta. Ela pousava no gramado, nas estátuas de bronze, nos ombros dos quatro, nos telhados de uma cidade parada.
+— E?
 
-Gabo estendeu a mão com a palma para cima, e um floco pousou nela. Não derreteu. Absorveu.
+— A amostra tem DNA humano e material fúngico. A equipe de biologia confirmou nas três leituras. O silêncio na sala foi completo. O ar-condicionado escolheu aquele momento para desligar, e ninguém respirou por um tempo.
 
-Sumiu para dentro da pele dele em menos de dois segundos e deixou uma mancha cinza de meio centímetro no meio da palma, com a borda esfumada, que parecia tinta e parecia necrose e Gabo não soube dizer qual das duas.
+— Humano — repetiu Vilar.
 
-Ele fechou a mão.
+— Há sequências alteradas que ainda não conseguimos montar, além de polímeros que não deveriam estar num tecido comum. — Nise pousou a ficha sobre a mesa. — Pode ser uma amostra misturada. Não vou afirmar que cada planta foi uma pessoa porque encontramos material humano num frasco.
 
-— Não respirem — disse a Dra. Nise, com uma calma horrível. — Máscara, todo mundo, agora. Não sabemos o quanto os filtros seguram. Cubram a pele e saiam da deposição.
+— O que isso quer dizer, doutora? — perguntou Val.
 
----
+— Quer dizer que quem está fazendo isso não está fabricando monstro do zero. — Nise olhou para os três. — Pode estar **convertendo pessoas**. Os corpos do armazém sustentam essa suspeita. A amostra sozinha não conta quantos, nem se há volta. Gabo fechou os olhos.
 
-Os quatro ficaram no meio do Memorial do Dilúvio, debaixo de uma esfera do tamanho de um quarteirão, na neve preta, numa cidade sem energia.
+— O Batismo.
 
-Ao redor deles, as cento e nove estátuas de bronze do memorial — figuras de pessoas comuns em tamanho real, com as mãos estendidas, encomendadas em cinquenta e três por uma prefeitura envergonhada — foram ficando escuras conforme os esporos assentavam nos ombros e na cabeça delas.
+— O quê?
 
-— Acabou o Renascimento — disse Gabo.
-
-— Não fala assim — disse Val.
-
-— É o que é. — Ele olhou em volta. — A gente teve três meses. Três meses de sol, de café e de gente varrendo a própria calçada, e eu tive medo do tempo inteiro porque estava dando certo demais, e olha só do que era o medo.
-
-— E o que começa agora? — perguntou Vilar.
+— Na catedral de ferro, ontem à noite. — Ele abriu os olhos. — Aquela gente estava ajoelhada escutando. Talvez estivesse passando por alguma coisa, mas eu não vi como começou.
 
 ---
 
-Gabo levantou a cabeça para a esfera.
+O comunicador de Vilar tocou. Não o terminal: o comunicador de rádio, o de canal antigo, que ele agora carregava no cinto e que era a única coisa que ele atendia.
 
-Ela continuava pulsando, devagar, num compasso de setenta e poucos — o mesmo do fungo dentro do servidor, o mesmo de um coração humano em repouso —, e a sombra dela cobria dezoito quarteirões.
+— Vilar.
 
-E dava para sentir, de um jeito que não tinha explicação nenhuma e que os quatro sentiram junto, que aquilo estava **olhando de volta**.
+— *Capitão, aqui é o Bezerra, da manutenção do metrô. Desculpa incomodar o senhor, mas eu não sei mais para quem ligar.*
 
-— A Era da Máquina acabou — disse Gabo. — A da carne começou às doze horas.
+— Fala.
 
-Ele guardou a mão fechada no bolso do sobretudo, para ninguém ver a mancha, e começou a andar na direção do bunker.
+— *A gente tem um problema na Linha Vermelha. O trem das oito e meia parou no meio do túnel entre a Sé e a Portuária. Trezentos e poucos passageiros.* — A voz do homem estava esquisita. — *Capitão, os passageiros que conseguiram sair estão dizendo uma coisa e eu vou repetir do jeito que eles falaram porque eu não sei traduzir.*
+
+— Repete.
+
+— *Eles disseram que os túneis estão sangrando.* Vilar olhou para Gabo.
+
+— Sangrando.
+
+— *Seiva, senhor. Vermelha, escorrendo pela parede, quente. E—* — o homem hesitou — *e tem gente presa na parede.*
+
+— Como assim, presa?
+
+— *Fundida, Capitão. No concreto. Um deles é o meu cunhado.*
+
+---
+
+Vilar baixou o rádio devagar. Ninguém falou por uns segundos.
+
+— Começou — disse Gabo, e verificou a carga da arma por hábito, sabendo que não ia servir. — É a colheita.
+
+— A quê?
+
+— A primeira. — Ele guardou a arma. — Doutora, eu vou precisar da senhora no metrô, e eu odeio pedir isso.
+
+— Eu já ia mesmo.
+
+---
+
+— E o Memorial? — perguntou Val. Gabo olhou para o holograma girando na mesa, para a espiral vermelha se apertando em direção ao centro.
+
+— O Memorial pode ser a raiz-mestra. — Ele apontou. — Se for, talvez cortar ali faça o resto parar de crescer. Vilar, eu preciso de tudo o que existir sobre aquele bunker: planta, alvará de desativação, contrato de terraplanagem, laudo de fundação do parque. Papel.
+
+— Papel — repetiu Vilar, e não riu.
+
+— E manda um perito medir o nível do espelho d'água do Memorial hoje e amanhã no mesmo horário.
+
+— Por quê?
+
+— Porque quero comparar consumo, chuva, evaporação e bombeamento. Se o nível mudar, precisamos saber o que mais mudou junto.
+
+---
+
+Val ficou olhando o mapa depois que os três já estavam na porta.
+
+— Gabo.
+
+— Fala.
+
+— E se a gente cortar a raiz-mestra e descobrir que ela não é a raiz-mestra?
+
+— Aí a gente descobre uma coisa.
+
+— Não. — Ela apontou a espiral com o queixo. — Ajustar uma espiral aos nossos pontos não prova onde o organismo começou. O centro do desenho pode ser só o ponto em que a nossa amostragem acaba. Gabo ficou parado na porta.
+
+— Você está dizendo que a árvore é maior do que a cidade.
+
+— Eu estou dizendo que a gente não sabe onde ela termina, e que isso é diferente de saber que ela termina longe. Os quatro saíram.
+
+O mapa holográfico ficou aceso na sala vazia, e a espiral vermelha continuou girando devagar em cima da mesa do prefeito, como um furacão que já chegou à costa e que ninguém percebeu porque estava dentro dele.

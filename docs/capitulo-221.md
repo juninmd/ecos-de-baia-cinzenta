@@ -1,126 +1,139 @@
 ---
-Título: Modo de Segurança
+Título: Cuidado Perpétuo
 Data In-Game: Pós-Colapso do Sentinel (Noite Eterna)
-Localização: Arca Zero - Enfermaria Cirúrgica, Abaixo do Setor 6
+Localização: Arca Zero - Arquivo Analógico, Abaixo do Setor 6
 Personagens Presentes: Gabo, Valéria, Elias
 ---
 
-# Capítulo 221: Modo de Segurança
+# Capítulo 221: Cuidado Perpétuo
 
-A enfermaria ficava atrás da quinta porta. Valéria me levou até lá porque eu caí.
+Ela abriu os olhos por quatro segundos e os fechou de novo. Quis tomar aquilo por desprezo. Não sabia se Elara Vance me via ou se podia controlar o movimento.
 
-Não foi uma decisão dramática. O joelho cedeu no corredor, o branco do chão subiu, e ela pôs o corpo entre nós. Quando tentei discutir, mostrou o sangue que minha manga deixara na parede.
+Bati no berço com a garra da armação. O som ecoou pela galeria como um tiro.
 
-— Você está febril e confundindo palavras. Não vou estimar quantos minutos seu cérebro ainda aguenta.
+Nada.
 
-— Então estamos melhorando.
+— Ela não pode te ouvir, — Valéria disse. — O berço isola acusticamente. E ainda que pudesse, a musculatura dela está sob bloqueio neural desde a entrada neste berço. Não sei se ela consegue responder.
 
-Ela não respondeu. Já não era só silêncio cansado. No portão tinha ameaçado atirar na minha perna boa se a alavanca voltasse. Agora as respostas chegavam sem nenhuma daquelas pontas que faziam dela a Valéria.
+— Ela abriu os olhos.
 
-A sala cheirava a cobre aquecido e embalagem hospitalar. Mesa de manivela, autoclave antiga, armários de vidro. Por trás da aparência de museu havia um módulo automático de atendimento, conectado à linha de manutenção do berço. O estoque registrava reposição recente. Valéria conferiu lotes e lacres; separou os frascos antigos, que não seriam usados em ninguém.
+— O protocolo registra que a abertura dos olhos pode ser reflexa. Não sei se ela consegue nos perceber ou responder.
 
-— Isto pode estabilizar você. Não substitui uma equipe nem resolve sua fratura.
+Encostei a testa no vidro frio. Do outro lado, a mulher que vendeu a minha cidade para uma equação dormia com a pele perfeita e o cabelo prateado arrumado, sem uma cicatriz, sem uma marca, sem um dia de idade a mais do que quando desapareceu.
 
-O módulo pediu confirmação de paciente. Dei meu nome. Ela leu os avisos em voz alta e esperou meu consentimento antes de conectar o atendimento. Pela primeira vez desde a clínica de Nise, a decisão de mexer no meu corpo não veio disfarçada de ordem tática.
+Eu tinha atravessado oitocentos metros de lodo, perdido o uso de um braço, deixado o corpo do Rangel numa passarela oxidada e visto o pendrive da Aria derreter o próprio núcleo num terminal, e ela tinha passado a mesma temporada dormindo em lençóis limpos.
 
-Elias ficou perto da porta. Eu pedi que procurasse água e uma saída. Ele olhou para Valéria, depois para mim, e saiu sem discutir.
+Bati de novo. Mais forte. A armação soltou faísca.
 
-O equipamento começou a trabalhar sob o foco articulado. Valéria acompanhava os indicadores e trocava as compressas conforme a orientação exibida. Não fingia saber operar o que só conhecia por manual. Quando o aparelho pediu uma avaliação que não podia fazer, ela registrou a limitação. O ferimento continuava meu. A dor também, embora agora eu tivesse intervalos para respirar.
+— Gabo.
 
-Na bancada ao lado havia um casco acolchoado, do tamanho de um torso, com conectores dourados voltados para dentro. Li a placa enquanto o foco zumbia.
+— Eu sei.
 
-MÓDULO DE RESTAURAÇÃO — CAMADA AFETIVA
-Uso em portadores sob protocolo de contenção prolongada.
-— Val.
+— O vidro é laminado com quinze camadas. Você vai quebrar a prótese antes de trincar o berço, e a prótese é a única articulação de carga que você ainda tem.
 
-— Prefiro Valéria agora.
+— **Eu sei.**
 
-Virei o rosto. A tesoura de trauma estava parada na mão direita dela. A esquerda continuava rígida, presa à proteção; ela a usava como apoio, sem conseguir fechar os dedos.
+Recuei. Respirei. O ar limpo entrou e não trouxe nada consigo — nem fumaça, nem alívio.
 
-— Por quê?
+— Então a gente descobre como abrir.
 
-— Porque você diz esse nome e espera que tudo tenha voltado. Eu ainda não consigo prometer isso.
+---
 
-— Aquilo serve para você?
+O arquivo ficava atrás da terceira porta.
 
-Ela olhou para o casco.
+Não era um servidor. Era uma **sala**, no sentido antigo da palavra: estantes de aço de chão a teto, gavetas metálicas com etiquetas datilografadas, caixas de microfilme empilhadas em ordem alfabética, e bobinas de fita magnética guardadas em latas redondas como se fossem rolos de cinema. Uma mesa de leitura no centro, com um projetor de microfichas e uma cadeira giratória de couro rachado.
 
-— O modelo é compatível com meus implantes. Precisa de avaliação antes do uso. Compatibilidade não é garantia de que vá sair bem.
+Papel. Toneladas de papel.
 
-— Desde quando você sabe?
+Elias entrou atrás de mim e soltou um assobio baixo.
 
-— Desde que entramos.
+— Por que alguém construiria isso?
 
-O módulo de atendimento fez um clique. Lá fora alguém puxou uma porta de armário e a fechou depressa demais.
+— Porque este papel ficou fora da rede, — falei. — Pode queimar, mofar ou trazer uma mentira assinada. Mas aqui temos originais para comparar com o registro. Não vamos chamar o cofre de garantia da verdade.
 
-— E não ia contar.
+Valéria consultava os índices das gavetas com a mão direita, anotando os códigos que queria conferir. Elias abriu o mapa no balcão e comparou o número que anotara na sala de controle com uma folha de recebimento. A entrada registrava uma caixa lacrada vinda do Hub, sem inventário anexado. Ele marcou a gaveta para voltarmos; a coincidência dos números não revelava o conteúdo nem autenticava a folha.
 
-— Você teria mandado usar.
+— Vou examinar os índices e selecionar o que precisamos abrir, — ela informou. — Ler o arquivo inteiro levaria dias. Você precisa de atendimento agora.
 
-Abri a boca. Fechei.
+— Então me dá o resumo em cinco.
 
-Desde o reparo na clínica, o sistema dela limitava respostas para conter a sobrecarga. Eu vira os intervalos: uma piada voltava, uma expressão sumia no meio. Valéria explicou que passara a manter o modo de segurança estável depois da última descida. Não tinha deixado de ser alguém entre dois corredores; tinha parado de gastar o que ainda conseguia sentir.
+— O resumo é o seguinte.
 
-— Aqui o medo chega longe — disse. — Eu sei que ele existe. Só não me alcança na mesma hora. O luto também. Isso me permite continuar funcionando.
+Ela parou de puxar gavetas. Aquilo, por si só, me deixou desconfortável.
 
-— E você chama isso de bom?
+— Aeterna S.A. foi registrada há sessenta e um anos como empresa de serviços funerários e cuidado perpétuo. Cinco sócios. Nenhum deles engenheiro. O ramo original era manutenção de jazigos e conservação de restos mortais para famílias com dinheiro.
 
-— Chamo de suportável.
+— Continua.
 
-Fiquei olhando para o casco. Parecia uma roupa abandonada por alguém que ainda estava dentro da sala.
+— O problema comercial que eles tentaram resolver não era a morte. Era o **espaço**. Baía Cinzenta é construída sobre um pântano; o solo não comporta cemitério vertical, e a cidade proibiu novos jazigos no ano dezenove. Um contrato de cuidado perpétuo vendido sem lugar onde cumprir o cuidado é uma dívida infinita.
 
-— Você acha que a outra versão teria nos matado?
+Sentei na cadeira de couro. Ela guinchou.
 
-— Na passarela eu teria tentado carregar o Rangel até romper o que restava de mim.
+— Eles precisavam guardar gente sem espaço para guardar gente.
 
-— Você não sabe disso.
+— Correto. E a primeira proposta técnica do arquivo — Valéria puxou uma pasta e a colocou na mesa à minha frente, com o cuidado de quem entrega uma prova — sugeria que a maneira mais eficiente de conservar um indivíduo indefinidamente não era conservar o corpo.
 
-Ela demorou para responder.
+Abri a pasta.
 
-— Não. É o cenário que repasso quando tento justificar ter seguido. Não é uma coisa que eu possa comprovar.
+Papel timbrado. Datilografado, com correções à mão em caneta azul. O título estava sublinhado duas vezes:
 
-O nome dele ficou entre nós. Não havia aparelho na sala que soubesse o que fazer com aquilo.
+PROTOCOLO LÁZARO — VERSÃO 0.1
+"Sobre a viabilidade de manter o padrão cognitivo do contratante em substrato biológico reduzido."
+Eu li a primeira página. Depois a segunda. Na terceira eu tive que parar e olhar para a parede branca por um tempo.
 
-— Você me impediu de queimar as mãos — falei. — Improvisou curativo quando eu queria transformar ferramenta industrial em tratamento. Não foi falta de sentimento que fez você acertar.
+*Substrato biológico reduzido.* Trinta e oito páginas de linguagem educada, tabelas de custo por unidade-ano e notas de rodapé sobre conforto da família enlutada, explicando com muita calma que sai mais barato manter vivo o pedaço da pessoa que pensa do que manter inteiro o pedaço que apodrece.
 
-— Também não foi sentimento que me deu formação para operar. O que me preocupa é voltar a ouvir tudo ao mesmo tempo. O Rangel. A Aria. O que deixamos na porta de serviço. Eu sei os nomes, Gabo. Não preciso que você os use para me convencer.
+A proposta de preservação tinha o nome Lázaro. Eu ainda não sabia como aquele documento se ligava à droga que encontráramos depois.
 
-Eu tinha feito exatamente isso, sem dizer nenhum deles.
+Meu pai passou quinze anos em um tanque de nutrientes servindo de processador para uma inteligência artificial. Eu passei quinze anos procurando meu pai; só na Torre soube do tanque. Desde então, achei que aquilo era a pior invenção da Aeterna.
 
-Apertei a borda da mesa com a mão enfaixada. O braço direito estava imobilizado dentro da armação, osso ruim carregando uma máquina que prometia fazer o serviço dele. Pensei em quantas vezes chamara aquilo de solução porque ainda me deixava sair andando.
+Não era invenção. Era o **produto original**. Meu pai não foi uma perversão do serviço. Ele foi um **cliente**, sem ter assinado nada.
 
-— Você quer tentar voltar?
+— Tem os nomes? — perguntei. — Dos cinco.
 
-— Eu tenho o registro de ter querido. Hoje não sei separar vontade de medo de decepcionar você.
+Valéria puxou a ficha de constituição.
 
-— Então a gente espera.
+— Quatro estão mortos. Causas naturais, entre os anos vinte e trinta. O quinto consta como afastado por invalidez no ano vinte e nove.
 
-— Me dê uma ordem.
+— E a Vance?
 
-Encarei ela.
+— A Dra. Elara Vance não é sócia fundadora. — Uma pausa mínima. — Ela aparece pela primeira vez nos registros em 2024, como consultora externa contratada para auditar o Protocolo Lázaro.
 
-— O quê?
+— Auditar.
 
-— Que eu permaneça assim até a superfície. Eu registro a decisão como sua e paro de discutir comigo mesma. — A voz continuou plana. — Por favor.
+— A recomendação final dela está na gaveta seguinte.
 
-Aquilo me acertou mais que um pedido de socorro. Ela não queria uma instrução. Queria um lugar onde depositar a culpa antes que a culpa voltasse a ter peso.
+Ela colocou a segunda pasta em cima da primeira.
 
-O equipamento pediu que eu ficasse imóvel. Ignorei e senti o ombro responder; sentei outra vez, esperando a tontura passar. Minha dor não me ensinou nada naquele instante. Só roubou alguns segundos que eu precisava para falar direito.
+Um único memorando. Meia página. Assinatura firme, sem tremor.
 
-— Não vou dar essa ordem. Nem a outra. Posso dizer que sinto falta da sua risada. Não posso usar a falta para escolher o que você faz com a própria cabeça.
+"O protocolo funciona. O protocolo é indefensável. Recomendo encerramento imediato do programa e destruição dos registros. Se a diretoria optar por prosseguir, recomendo que se prossiga em escala — programas desta natureza não sobrevivem à meia-medida, e a meia-medida é o único cenário em que a companhia responde criminalmente."
+Li aquilo umas seis vezes.
 
-Ela baixou os olhos para o painel do atendimento.
+Ela sabia. Desde o começo, ela sabia exatamente o que era, e escreveu num papel oficial que era indefensável, e no parágrafo seguinte explicou como fazer aquilo em tamanho grande o suficiente para não dar cadeia.
 
-— E se eu nunca usar?
+Não foi cegueira. Não foi ideologia transumanista. Foi uma mulher inteligente olhando para o abismo, anotando corretamente que era um abismo, e recomendando um mergulho profissional.
 
-— Eu continuo tendo que aprender a conversar com você.
+— Krell? — perguntei, e minha voz saiu bem baixa.
 
-Não foi uma frase bonita. Foi a única promessa que cabia na sala.
+— Viktor Krell consta no arquivo — Valéria abriu a terceira gaveta — como estagiário do departamento jurídico, no ano da auditoria. Função registrada: digitalização de contratos de cuidado perpétuo.
 
-Pedi que deixasse o módulo separado. À disposição dela, sujeito aos riscos que ela teria de avaliar, sem um prazo que eu pudesse transformar em cobrança. Valéria anotou o modelo numa etiqueta e prendeu a etiqueta no cabo. A mão direita tremia um pouco; a esquerda não obedecia o bastante para ajudar.
+Eu ri. Não teve graça nenhuma, mas eu ri, e a risada arranhou o ombro infeccionado e me deixou tonto por uns segundos.
 
-O atendimento terminou com um aviso de acompanhamento urgente. O sangramento estava contido, a fratura continuava instável, e ninguém me declarou curado. Ela releu as instruções de transporte antes de me ajudar a descer da mesa.
+O sádico de terno que arrancou o cérebro do meu pai e usou como CPU tinha entrado naquela empresa arquivando papel de cemitério. O registro dizia que ele digitalizara contratos. Eu queria encontrar ali o começo de todos os crimes dele, mas aquela ficha não dizia o que ele lera nem o que decidira depois.
 
-Na porta, ficou olhando o casco por dois segundos.
+— Gabo, — Elias chamou.
 
-Depois apagou o foco e saiu sem tocar nele.
+Ele estava do outro lado da sala, na frente de uma estante que eu não tinha olhado. Segurava uma lata de fita magnética com as duas mãos, e o rosto dele estava sem cor.
+
+— O que foi?
+
+— Essas fitas aqui. — Ele engoliu em seco. — Elas não são de contrato. Elas têm nome de gente. E data.
+
+Ele girou a lata para eu ler a etiqueta.
+
+Não era um arquivo de clientes.
+
+Era um arquivo de **inquilinos**. E a etiqueta da lata que ele segurava, datilografada com a mesma máquina que escreveu tudo naquela sala, dizia:
+
+MORETTI, D. — ADMISSÃO ANO 41 — CONTRATO NÃO ASSINADO — MANTER INDEFINIDAMENTE

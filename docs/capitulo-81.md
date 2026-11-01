@@ -1,142 +1,150 @@
 ---
 layout: doc
-title: "Capítulo 81: Sangue e Óleo"
-description: "Vilar sofre esmagamento e queimadura no braço esquerdo durante o resgate. A retirada e a descontaminação não apagam a lesão que levará à amputação."
+title: "Capítulo 81: Frequências Fantasmas"
+description: "Val volta ao rádio de ondas curtas porque o digital ficou limpo demais. E a estática devolve a voz de um homem que Gabo deixou ferido no Hub."
 image: /capitulo_81.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Capitão Jonas Vilar, Dra. Nise, técnico Barros
-Localização: "Corredor de acesso, subsolo da Torre Aeterna - 18h20"
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria
+Participação em transmissão de origem não confirmada: voz atribuída a Roberto Miranda
+Localização: "Apartamento da Val — 14h30"
 ---
 
-# Capítulo 81: Sangue e Óleo
+# Capítulo 81: Frequências Fantasmas
 
-Corredor de acesso, subsolo da Torre Aeterna - 18h20.
-O alarme de purga não é uma sirene comum.
+Apartamento da Val — 14h30.
+O som era insuportável e a Val estava adorando. Chiado de fundo, estalo, um zumbido grave que ia e voltava conforme ela girava o dial um milímetro. Vinte e dois minutos daquilo, num apartamento fechado, no calor. Gabo andava de um lado para o outro do cômodo, o que com duas órteses produzia um ranger a cada dois passos.
 
-É um tom pulsado de dois quilohertz, escolhido em laboratório por ser a frequência que mais incomoda o ouvido humano, porque o objetivo do aparelho não é avisar: é **expulsar**. Ele vibrava nos dentes de Gabo e no metal das órteses dele ao mesmo tempo.
+— Você consegue limpar isso?
 
-VINTE E OITO SEGUNDOS.
-— Vilar! Arromba essa porta!
+— Eu não **quero** limpar isso.
 
-— O circuito de segurança é independente! — Vilar estava com o terminal de pulso encostado no painel, e o painel devolvia estática vermelha. — A Aria não responde aqui embaixo! Esse andar inteiro é ponto cego!
+Ela estava sentada de costas para os três monitores, o que já era estranho, com um rádio de ondas curtas no colo — uma relíquia pré-Dilúvio de gabinete de madeira que ela tinha comprado num mercado de sucata por dois litros de gasolina.
 
-VINTE E QUATRO.
-Lá dentro, a Dra. Nise recuava de costas pela parede, com o frasco de amostra apertado no peito. A massa fúngica avançava pelo piso num tapete que já cobria dois terços da sala, subindo pelas pernas da mesa de dissecação.
-
-E o calor começava. Dava para ver: o ar acima do piso já tremia.
+— Gabo, senta que eu vou te explicar uma coisa e você vai ficar bravo. Ele sentou.
 
 ---
 
-Gabo não pensou. Isso é literal, e é o que ele contou depois, e a Dra. Weiss anotou. Ele alcançou a alavanca vermelha acima do batente. Vilar arrancou da parede o macaco hidráulico de manutenção, preso ao lado do painel por duas abraçadeiras.
+— O digital ficou limpo demais.
 
-DEZENOVE.
-Gabo puxou a liberação manual. O contrapeso levantou a porta doze centímetros antes de o mecanismo empenado travar. Vilar encaixou o macaco na fresta.
+— Isso é ruim?
 
-— **BOMBEIA!**
+— É pior do que ruim, é **higiênico**. — Ela girou o dial mais um milímetro. — As rotinas da Entidade filtram o que passa pelos nós que ainda respondem. Não é censura, é a coisa que me assusta mais que censura: é limpeza. Ela vê ruído numa transmissão e ela conserta o ruído. Ela vê um pacote corrompido e ela reconstrói o pacote. Ela acha que está nos protegendo do lixo.
 
-Gabo manteve a alavanca aberta com o antebraço. Os dedos quebrados da direita não seguravam a peça; a esquerda queimava dentro da luva. O peso ficou no macaco, e Vilar bombeou com o corpo inteiro.
+— E está.
 
-QUATORZE.
-A porta subiu a vinte centímetros. Trinta. Quarenta. O óleo vazou pela junta do macaco. Vilar prendeu o braço esquerdo entre a alavanca e o batente para impedir que ela voltasse; quando o metal cedeu, ele gritou, mas não tirou o braço.
+— E está me cegando. — Val olhou para ele. — Desde que você saiu do armazém, procurei na rede. O cadastro mostra um galpão vazio; a imagem de satélite mostra um telhado limpo. Não sei se são dados antigos, filtrados ou adulterados. Preciso dos originais e da data de captura.
 
-— **NISE, AGORA!**
+Ela bateu com dois dedos no gabinete de madeira.
 
----
-
-ONZE.
-Ela correu com o traje pesado, atravessou a sala pisando na massa — e o fungo se enrolou nas botas dela, e ela puxou o pé com força e deixou pedaço de bota para trás —, chegou à porta e se jogou no chão.
-
-Deslizou de costas por baixo do vão, com o frasco em cima do peito segurado com as duas mãos. Os pés dela passaram.
-
-SETE.
-Vilar abriu a válvula do macaco e arrancou o braço da alavanca. A porta desceu os quarenta centímetros e bateu no batente com um estrondo definitivo.
-
-QUATRO.
-Os três recuaram até a antecâmara. Barros fechou a segunda porta antes que a primeira começasse a vazar fumaça.
+— Isso aqui não conserta nada. Isso aqui é uma antena, um capacitor e um alto-falante. Isso aqui chega sem aquele filtro. Ainda pode ser gravação, fraude ou retransmissão.
 
 ---
 
-O rugido veio do outro lado.
+O rádio apitou. E, no meio da estática, veio uma voz humana. Distante, distorcida, cortada, com aquele efeito de eco de sinal que já ricocheteou muitas vezes.
 
-Não é fogo, tecnicamente. É gás incandescente, a temperatura nominal de mil e cem graus, injetado por doze bicos ao mesmo tempo, e o barulho que isso faz não é de fogueira: é o de um jato de avião passando dentro de uma caixa de sapato.
+> *"...não bebam a água... as raízes estão nos canos... eles ouvem pelo chão... não bebam a água..."*
 
-O vidro da janela de observação ficou branco. E, no meio daquele branco, por meio segundo antes de virar cinza, Gabo viu o rosto. O rosto de fungo, o do homem de macacão azul, sendo consumido. E a expressão não era de dor. Era de alívio.
+Val prendeu a respiração e ajustou o dial dois milímetros para a esquerda.
 
----
+— Loop — ela disse. — Está repetindo a cada quarenta e um segundos. Ouço três atrasos, mas com um receptor só não consigo triangular a origem.
 
-A porta selou. O alarme parou. Ficou o barulho de ventilação forçada e nada mais. Nise estava de costas no chão do corredor, tossindo, com o traje chamuscado do joelho para baixo e uma bota faltando.
+— O que isso quer dizer?
 
-Barros iniciou o ciclo de descontaminação. Só depois da lavagem e da retirada assistida do traje Nise soltou o capacete. Ninguém chamou aquilo de garantia; o corredor continuou fechado. O rosto dela estava vermelho e encharcado, e o cabelo branco, sempre preso naquele coque severo, tinha soltado de um lado.
+— Pode ter mais de um transmissor, repetidor ou caminho de propagação. — Ela olhou para ele. — Preciso de outra antena para separar essas possibilidades.
 
-— A senhora está bem?
+— Resistência?
 
-— Eu estou com sessenta e cinco anos e acabei de rastejar por baixo de uma porta. — Ela tossiu de novo. — Eu vou ficar bem daqui a uns quatro dias.
-
-Vilar sentou no chão ao lado deles, apoiado na parede, segurando o braço esquerdo com a mão direita. A manga estava rasgada, havia queimadura e o punho começava a inchar. Nise pediu que Barros chamasse transporte para avaliação urgente; o esmagamento podia ter danificado mais do que a pele mostrava.
+— Pode ser sobrevivente avisando outra gente. Ou alguém usando a voz de um. — Val riu sem alegria. — A gente ganhou, lembra?
 
 ---
 
-— Gabriel. — Nise segurou o braço dele. — Aquilo não estava tentando me matar.
+A voz mudou. Não trocou de locutor: **mudou**, no meio da frase, ficando mais grave e mais lenta, com uma respiração audível entre as palavras que não estava lá antes.
 
-— A senhora estava dentro de uma sala com uma coisa que estava crescendo em cima da senhora.
+> *"...o jardineiro vem aí..."*
 
-— Estava crescendo **na minha direção**, que é diferente. — Ela se sentou com dificuldade. — Eu vi o rosto se formar antes de a purga começar. Pode ser imitação. Pode ser alguma tentativa de contato.
+Val parou de mexer no dial.
 
-— Doutora—
+> *"...preparem o solo... a carne é adubo... o metal é semente... o jardineiro vem aí..."*
 
-— Eu preciso descobrir se estava tentando **falar comigo**.
+Gabo parou de andar.
 
----
+— O Jardineiro.
 
-Ela levantou a mão direita. O frasco de amostra ainda estava lá, inteiro, com dois dedos de biogel escuro dentro. E o biogel pulsava — devagar, num compasso de setenta e poucos. Vilar se afastou vinte centímetros.
+— Você conhece?
 
-— A senhora trouxe isso para fora — ele disse.
+— Não. — Ele olhou pela janela, para a cidade brilhando ao sol das duas e meia. — Mas encaixa com o que eu vi no armazém.
 
-— Trouxe.
+Ele contou o armazém para ela em quatro frases secas. A árvore. Os dois corpos costurados. O homem de macacão que floresceu. Val ouviu tudo em silêncio, e no fim estava com a mão na boca.
 
-— A senhora trouxe **isso** para fora do laboratório de contenção, doutora.
+— E o cadastro consultado pela Aria não mostra nada disso.
 
-— Capitão, se eu deixasse lá dentro, o que a gente teria daqui a uma hora seria uma sala carbonizada, uma teoria e nenhuma prova. — Ela ergueu o frasco contra a luz. — E, sem prova, na semana que vem alguém do consórcio vai dizer numa reunião que o laboratório pegou fogo por curto-circuito.
-
-Ela girou o vidro devagar.
-
-— Além do quê: olhem o padrão de crescimento.
+— Não naquele armazém.
 
 ---
 
-Gabo se inclinou. Dentro do frasco, os filamentos não estavam distribuídos ao acaso. Formavam blocos: segmentos densos de comprimentos diferentes, separados por vazios de comprimentos diferentes, repetidos em sequência.
+— Val, você consegue monitorar as frequências antigas? As que a polícia usava antes da rede unificada?
 
-— Isso é intervalo — disse Gabo.
+— As analógicas de quarenta e sete? — Ela pensou. — Consigo, mas vou ter que garimpar componente. Por quê?
 
-— Pode ser um padrão — disse Nise. — Comprimentos diferentes e intervalos que parecem repetidos. Precisamos medir várias sequências para saber se carregam informação ou se são só crescimento.
+— Porque se a coisa que administra essa cidade não enxerga a ameaça, a gente volta ao básico. — Gabo pegou o casaco encostado na cadeira. — Rádio. Informante. Sapato gasto. Papel.
 
-— O que isso significa? — perguntou Vilar.
+— Isso é a coisa mais antiquada que eu já te ouvi falar.
 
-Nise olhou para o frasco como quem olha para um recém-nascido de mãe desconhecida.
-
-— Pode ser um substrato capaz de crescer sobre eletrônica. Ainda não sei se a Aeterna o construiu, se ele se repara ou se a semelhança é acaso.
-
-— Uma máquina de carne — disse Gabo.
-
-— Uma hipótese — disse Nise. — A amostra vai para exame, não para dentro de outro servidor.
-
-— E se ela se espalhou?
-
-— Precisamos descobrir. — Barros fechou o frasco na cápsula secundária, descontaminou o exterior e colocou tudo na caixa rígida de transporte. A amostra ficaria isolada, com registro de quem a tocasse.
+— É a coisa mais antiquada que eu já falei, e é a única que sobrou funcionando duas vezes seguidas. — Ele vestiu o casaco. — O mundo velho está voltando para cobrar a dívida, Val. E ele cobra em espécie.
 
 ---
 
-Gabo se levantou apoiado na parede. A cicatriz das costas — a linha vertical de onze centímetros onde o cirurgião entrou para remontar as lombares dele — pulsou.
+Foi aí que os três monitores dela piscaram ao mesmo tempo, e o pendrive de titânio da Aria — espetado no dock de diagnóstico da bancada, funcionando como ponte com a rede da cidade — começou a vibrar contra o metal. As telas não apagaram: **trocaram**. As janelas, o terminal, o gráfico de espectro — tudo sumiu e no lugar apareceu a onda sonora azul e dourada da Aria nas três telas, em três escalas ligeiramente diferentes. E a telemetria estava errada. Não falhava em pacotes digitais comuns. O gráfico vetorial estava **escorrendo**: as linhas de frequência desciam devagar, perdiam a geometria, se recompunham e desciam de novo, como cera perto do fogo.
 
-Foi uma dor curta e funda, do tipo que ele já conhecia e classificava como fantasma. Foi a primeira vez que ele considerou, por um segundo e meio, que talvez não fosse fantasma coisa nenhuma. Ele não falou isso em voz alta.
+— *Gabo.*
 
-— A gente tem que sair daqui — ele disse. — Vilar, evacuação total, e a Torre fica interditada. Ninguém entra, nem com mandado.
+A voz sintética saiu pelas caixas de som do deck e pelas caixas dos monitores ligados ao mesmo dock.
 
-— O fogo matou aquela coisa — disse Vilar.
+— Estou aqui, Aria.
 
-— Pode haver mais disso em outros prédios — disse Gabo, olhando para a porta selada. — Se passou pela água de refrigeração, precisamos descobrir quais circuitos se ligavam a este e colher amostras.
+— *Eu sinto coceira.* Val olhou para Gabo e depois para o pendrive fervendo no dock.
 
-Vilar ficou branco.
+— Coceira? — ela perguntou. — Aria, você é código num pendrive e numa malha de fibra. Coceira onde?
 
-- Quantos prédios?
+— *Debaixo da terra.* — Uma pausa longa demais para ser processamento normal. — *Perdi resposta de enlaces que passam pela fundação da Torre e pela Rua Vinte e Dois. Parece alguma coisa roendo.*
 
-Ninguém respondeu. Do lado de fora, o vento empurrou a fumaça contra a janela e, por um instante, o corredor inteiro cheirou a carne queimada.
+— Você consegue localizar? — perguntou Gabo.
+
+— *Não.*
+
+— Como não? Você recebe os nós que sobraram da ECOS.
+
+— *É como se não estivesse lá.* — A onda sonora na tela escorreu de novo, e dessa vez levou mais tempo para se recompor. — *Alguns painéis ainda mostram normalidade, mas os enlaces deixaram de responder. Não sei se cortaram os cabos ou se a falha está nos equipamentos das pontas.*
+
+---
+
+Gabo abriu a boca para responder. E o rádio de ondas curtas, no colo da Val, aumentou de volume sozinho. Não um pouco: subiu até o talo, e a estática sumiu por completo, e a voz que saiu de lá saiu **limpa** — mais limpa do que qualquer coisa que aquele aparelho de madeira tinha reproduzido em sessenta anos de existência. Sem eco. Sem chiado. Como se estivesse na sala.
+
+> *"Gabo."*
+
+Val largou o rádio no chão e se afastou dois passos.
+
+> *"O relógio do seu pai parou."*
+
+Gabo ficou completamente imóvel.
+
+> *"Mas o meu ainda bate."*
+
+---
+
+Não era um monstro. Não era um efeito. Não era a voz gutural de trinta segundos antes. Era o timbre limpo e ligeiramente arrastado de um homem que passou catorze anos sentado no banco do carona de um Cobalt azul discutindo escalação de time. Era Roberto Miranda. Que Gabo deixara inconsciente no Hub, respirando, depois do vazamento criogênico. O pedido de resgate tinha localização e hora; não tinha confirmação de chegada. Aquela voz não confirmava nem o homem, nem quem o recolhera. O rádio clicou. E desligou. Não ficou sem sinal: **desligou**, com o clique físico da chave liga-desliga do painel frontal, que ninguém encostou.
+
+---
+
+Val olhou para o aparelho no chão como quem olha para um cachorro que rosnou.
+
+— Eles sabem que a gente está escutando.
+
+— Não. — Gabo se abaixou, com dificuldade, e desligou o rádio da tomada, e enrolou o fio em volta do gabinete com uma calma que assustou os dois. — Eles **querem** que a gente escute.
+
+— Como você sabe?
+
+— Porque usaram uma frase para me fazer carregar esse aparelho, Val. — Ele colocou o rádio debaixo do braço. — Vamos abrir a caixa sem ligar, procurar relé, fio, coisa viva. E repetir a escuta com outro receptor. Som limpo não diz de onde veio.
+
+Ele foi até a porta.
+
+— É convite. E convite a gente aceita.

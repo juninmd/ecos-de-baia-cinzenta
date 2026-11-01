@@ -1,149 +1,149 @@
 ---
 layout: doc
-title: "Capítulo 49: A Vigília"
-description: "Val monta guarda sobre o corpo quebrado de Gabo e descobre, aos vinte e oito anos, a diferença entre apagar um alvo e matar um homem."
+title: "Capítulo 49: Fantasma na Máquina"
+description: "Val sustenta sozinha a rede do porão enquanto Nise prepara a cirurgia da coluna de Gabo — e descobre que o fantasma não está dentro da máquina."
 image: /capitulo_49.jpg
-Personagens Presentes: Valéria "Val" Cruz, Gabriel "Gabo" Moretti, Dra. Nise
-Localização: "Bunker médico, subsolo da Delegacia Central. Dia dez"
+Personagens Presentes: Valéria "Val" Cruz, Gabriel "Gabo" Moretti
+Localização: "Porão da Delegacia Central (enfermaria improvisada)"
 ---
 
-# Capítulo 49: A Vigília
+# Capítulo 49: Fantasma na Máquina
 
-Bunker médico, subsolo da Delegacia Central. Dia dez.
-A chuva lá fora soava como estática de televisão fora do ar.
+Porão da Delegacia Central. Dia nove, 20h40.
+O porão tinha três cheiros: cal, formol e roupa fervida. O terceiro vinha de uma panela de camping esquecida no canto, onde a Dra. Nise tinha esterilizado instrumental a tarde inteira, e era o único cheiro que parecia vivo. O bipe do monitor era o único som com ritmo. A chuva lá fora caía em bloco, como areia em telhado de zinco. Gabo estava de barriga para cima numa mesa de aço, coberto até o osso do peito por um lençol que já tinha sido branco. Sob o lençol, as pernas estavam afastadas por sacos de areia e presas com tiras de lona. Havia um cateter. Na parede à esquerda dele, uma folha de papel pardo com uma lista a lápis. Dezoito fraturas. Pélvis em quatro pedaços. Os dois fêmures. Três vértebras lombares.
 
-Dentro do bunker havia dois sons e mais nada: o bipe do monitor cardíaco, teimoso, a cada segundo e pouco, e o zumbido dos três servidores que a Val tinha empurrado para o canto e ligado num nobreak roubado, porque a sala mais fria do prédio era a que tinha os servidores, e um corpo remontado precisa de frio.
-
-Gabo estava na mesa, coberto até o peito por um lençol que já não era branco. Dezoito fraturas.
-
-Nise começara o turno às quinze horas do dia nove. A equipe preparara o instrumental, estabilizara Gabo e operara para conter o sangramento; àquela madrugada, completava doze horas entre preparação, pausas para manter o corpo estável e intervenção. A lista a lápis na parede contava o que conseguira remontar: pélvis em quatro pedaços, os dois fêmures. Três vértebras lombares ela não remontou, que a equipe imobilizara sem poder reconstruí-las naquela noite.
-
-Val estava sentada no chão, de costas para a mesa, com a submetralhadora Vetor atravessada no colo. De costas de propósito.
-
-Ela tinha aguentado olhar durante as primeiras quatro horas. Depois a Nise abriu o quadril dele e o som que aquilo fez não foi um som de cirurgia, foi um som de obra, e Val se levantou, girou o banco, sentou de costas e não virou mais.
-
----
-
-— Você devia dormir, menina.
-
-— O sono é um app que eu desinstalei.
-
-— É engraçadinha essa frase. — A Dra. Nise falava sem parar de limpar as luvas na bacia, e a água da bacia estava marrom. — Eu ouço uma dessas por semana, de gente da sua idade, sempre no mesmo tom. Vocês inventam a frase antes de saber do que ela é feita.
-
-— A senhora está querendo brigar comigo?
-
-— Estou querendo que você durma quatro horas para eu não ter dois pacientes.
-
-Val não respondeu.
-
-Os olhos dela varriam o corredor pela porta entreaberta, e não era força de expressão: ela alternava a visão básica direita com o monitor de uma câmera térmica emprestada do arsenal. Sem o sensor externo, não teria os espectros que perdera ao retirar o módulo de suporte.
-
-— Ele não trabalha sozinho — ela disse.
-
-— Quem?
-
-— O Taxidermista. — Ela falou o nome sem entonação nenhuma, do jeito que se lê um item de lista. — Ele não é bandido, doutora. Ele é fornecedor. Tem clientela. Ele não fez aquilo com o Gabo na Torre do Relógio porque odeia o Gabo; fez porque tem gente que paga por peça, e ele começou a colheita e foi interrompido no meio.
-
-Nise parou de esfregar a luva.
-
-— Interrompido.
-
-— Ele tentou afogá-lo e alguém levou as amostras do pai dele. — Val finalmente olhou para a médica. — Não sei se o Taxidermista volta, mas precisamos nos preparar. Se vier acompanhado, o Gabo está aqui parado, sedado, num endereço que meia cidade sabe. É o dia mais barato de todos para o Sindicato pagar uma conta velha.
+— Você vai ficar encarando isso? — disse Val, sem levantar a cabeça.\
+— Estou decorando.\
+— É uma lista de compras.\
+— É a minha lista de compras. Estava de joelhos num ninho de cabos, com o deck no colo e três servidores ligados num nobreak roubado. Os fios de LED azuis estavam apagados junto do bob assimétrico.\
+— Ela falou com você? — perguntou Gabo.\
+— Sobre o quê?\
+— A Nise. Val demorou mais do que precisava.\
+— Disse que anestesia em cima de infecção é roleta. E que a mordida no seu braço inflamou de novo. Ela fechou o deck.\
+— As três vértebras não voltam. Não é questão de operar bem. Aquilo virou farelo. Ela imobiliza, espera e reza.\
+— E?\
+— E você não vai andar, Gabo. O monitor continuou bipando.\
+— Quanto tempo?\
+— Ela não deu tempo. Deu "se".\
+— Põe a minha mão no meu joelho.\
+— O quê?\
+— Põe. Quero sentir. Val pegou a mão dele — calejada, enorme, de arrombar porta — e levou até o joelho sob o lençol. Ele sentiu o peso da própria mão, o tecido, o osso por baixo. O joelho, não. Nada. Um silêncio de instalação desligada, do quadril para baixo, tão completo que a perna não parecia ausente: parecia que nunca tinha existido.\
+— Tira. Ela voltou para os cabos e ficou de costas, os ombros na altura das orelhas. Gabo encontrou o coldre vazio na cadeira e tamborilou os dedos na aba de couro.
 
 ---
 
-O sensor apitou às 03h14 na lente de contato dela.
+O primeiro aviso não foi um alarme. Foi o cooler do servidor subindo de rotação. Val levantou a cabeça como cachorro ouvindo lata de ração.
 
-Três assinaturas térmicas no corredor leste. Espaçamento de dois metros e meio. Passo curto. Armamento longo apontado para baixo em posição de patrulha, não de assalto — o que significava que eles achavam que iam encontrar um homem dormindo, um servidor e uma velha.
+— É o compressor — disse ela. — Esse nobreak é velho. Trinta segundos depois o cooler subiu de novo, e a tela piscou três vezes.
 
-Val se levantou sem fazer barulho.
+— Val.
 
-Ela apagou os fios azuis da franja e ligou um indicador vermelho de alerta no deck. Não foi escolha estética. Era um script antigo — um aviso para os amigos dela, num tempo em que ela tinha amigos.
+— Eu vi. O mapa do prédio era um contorno verde com pontos azuis, cada um um aparelho. Havia uma coisa se movendo lá dentro que não era azul. Era cinza, e ia de um nó a outro sem tocar em nada.
 
-— Doutora. Apaga a luz e deita no chão, atrás da mesa dele. A mesa é de aço.
+— Tem alguém na rede.
 
-— O que você vai fazer?
+— Aeterna?
 
-Val já estava plugando o deck na porta de manutenção.
+— Aeterna entra derrubando porta. Isso aqui está *lendo*. — Ela apontou. — Primeiro o quadro de pessoal. Depois o inventário da farmácia. Agora a relação de bens do subsolo. Isso não é ataque, Gabo. É inventário de casa alheia. Ele tentou se erguer nos cotovelos. A dor subiu do quadril à nuca e o derrubou de volta.
 
-— Vou explicar a eles por que ninguém invade a casa de um hacker.
+— Corta.
 
----
+— Não posso.
 
-As câmeras do corredor apagaram uma a uma.
+— Val—
 
-As travas magnéticas de quatro portas laterais destravaram ao mesmo tempo, com um estalo, e os três homens fizeram exatamente o que era esperado: viraram as armas para os estalos, todos os três, porque foram treinados nisso.
+— Se eu arrancar o tronco, cai o subsolo inteiro. As lâmpadas da cirurgia. A geladeira do plasma. A trava das portas. A Nise está lá em cima com o instrumental aberto.
 
-E, nos três segundos em que estiveram olhando para portas vazias, Val ligou os projetores.
+— Então segura.
 
-Ela tinha espalhado sete emissores no corredor durante a tarde, presos com fita nos canos do teto. Cada um projetou uma silhueta humana, e as sete silhuetas começaram a se mover em direções diferentes.
-
-Os homens abriram fogo contra as sombras. Val disparou contra a carne.
+— Estou segurando. Ela ligou um segundo cabo ao adaptador físico de vídeo junto da têmpora, e o corpo ficou reto como se tivesse levado um choque. O ar começou a ficar com gosto de moeda.
 
 ---
 
-Foi rápido, e foi de perto, e não foi limpo.
+— Ele está em todo lugar — disse Val, e a voz saiu de dentro de um poço. — Não é programa. Programa erra sempre no mesmo lugar.
 
-Os dois primeiros caíram sem entender. O terceiro, sim: ele girou, mirou no vulto certo, apertou o gatilho e o tiro dele passou tão perto da cabeça dela que a onda de pressão fez o implante do ouvido esquerdo desligar por dois segundos.
+— E esse?
 
-Ela atirou nele três vezes e ele caiu de costas e ficou tossindo. Não morreu na hora.
+— Esse hesita. — Ela abriu uma janela com números caindo em coluna. — Cento e oitenta milissegundos entre a leitura e a resposta. Sempre. É uma mão, Gabo. Pode haver alguém numa conexão local. O intervalo constante também pode ser um repetidor; preciso conferir o ponto de entrada.
 
-Val já tinha disparado contra pessoas. Até aquela noite, evitara acompanhar um ferido depois do impacto. Nos jogos, nas simulações, nas cinquenta e duas operações que ela tinha corrido remotamente da segurança do apartamento, o alvo cai e some da tela. Ali no corredor o alvo caiu e continuou existindo, e o barulho que ele fazia era um barulho de pessoa tentando encher um pulmão que não enchia mais, e durou quase um minuto.
+— O prédio está vazio.
 
-Val ficou parada, apontando a arma para ele, com o dedo fora do gatilho, durante o minuto inteiro.
+— Estava. O cinza parou em cima de um nó pequeno, no fim de um corredor que o mapa marcava com a palavra ARQUIVO.
 
-Quando parou, ela acendeu a lanterna e olhou os três rostos, porque uma parte dela — a parte que ela ia passar os quinze anos seguintes tentando desligar — precisou olhar.
+— Ele não está abrindo a porta por dentro — disse Val. — Está *pedindo* para abrir. Um código de fechadura mecânica, de antes da rede, que só existe em papel.
 
-O terceiro tinha dezessete anos, talvez dezoito. Tênis furado. Uma tatuagem amadora de estrela no pescoço, dessas de agulha e tinta de caneta, feita por amigo.
+— Então ele tem o papel.
 
-Ela conhecia aquela estrela. Era a marca dos correios do Sindicato — os moleques que levavam pacote de um lado para o outro da cidade por comida. Podia ter sido o guia. A marca não provava sua função nem apagava que atirara nela. Val não sabia o nome, a história ou como chegara até ali; teria de registrar o que vira, em vez de inventar uma vida que a absolvesse.
+— Ele tem alguém com o papel. — Ela apontou a rua. — Olha. Fora do prédio havia pontos amarelos, em linha, espaçados de duzentos metros, vindos do sul.
 
-Val sentou no chão do corredor, entre os corpos, e vomitou.
+— A câmera do pátio mostra gente repetindo luzes. Pode ser uma cadeia de recados; não estou lendo o que cada um transmite.
 
----
+— Gente fazendo o quê?
 
-Nise apareceu com a lanterna dez minutos depois e não disse nenhuma das coisas que se dizem.
+— Passando recado. Um acende, o outro repete. De mão em mão, do jeito que se passava balde numa fila de incêndio. Só que o balde é uma chave.
 
-Não disse *você fez o que precisava*. Não disse *não foi culpa sua*. Não disse *eles teriam matado vocês*, porque não tinha presenciado a entrada e não podia resolver a conta com uma frase.
+— Drenados.
 
-Ela se agachou, com dificuldade, ao lado do menino, e virou o rosto dele para cima com dois dedos, e ficou olhando um tempo.
+— Sem chip, sem ficha, sem endereço. — Ela cuspiu a palavra. — A cidade não vê esses caras nem quando estão na calçada. Por isso ele usa. O velho não estava lutando contra a rede. Estava usando as pessoas que a rede jogou fora.
 
-— Vamos precisar de nomes — ela disse.
-
-— O quê?
-
-— Documento, tatuagem, cicatriz, remendo de roupa. Qualquer coisa. — Nise já estava vasculhando o bolso do primeiro homem, com um cuidado que parecia rude e não era. — Eles vão para a vala com os outros, não tem o que fazer, mas vão com um papel amarrado no pulso. Nome, ou sinal, ou "menino de dezessete anos, tatuagem de estrela no pescoço, morreu no dia dez no corredor leste".
-
-— Doutora, eu acabei de matar esse menino.
+— A invasão é cortina — disse ele. — Ele quer você aqui, olhando a tela, enquanto a chave chega na porta.
 
 — Eu sei.
 
-— E a senhora quer que eu **escreva o nome dele**?
+— Então solta o cinza e vai para o corredor.
 
-Nise levantou os olhos, e naquele momento tinha sessenta e cinco anos e uma autoridade que não precisava de arma nenhuma.
+— Se eu solto, ele entra na geladeira do plasma. Se eu largo o mapa, ele volta. — Havia um fio escuro embaixo do nariz dela. — Ele quer que eu escolha. Vinte e oito anos, sangue no lábio, um cabo atrás da orelha, a decisão inteira em cima dela.
 
-— Eu quero que você escreva o nome dele **porque** foi você. — A voz não subiu um grau. — Se eu escrever, é burocracia. Se você escrever, é conta. Menina, você tem vinte e oito anos e uma noite inteira pela frente para decidir que tipo de pessoa você vai ser em relação a isso. Eu já vi as duas opções, e uma delas dorme melhor e é bem pior.
+— Então não escolhe. Engana. — Ele apontou a tela com o queixo. — Dá um inventário errado. Uma sala que não existe, com uma caixa que não existe, no fim de um corredor que dá numa parede. Ele gasta a chave ali.
 
-Val ficou de joelhos no corredor por um tempo. Depois pegou o bloco de receita da Nise, arrancou três folhas e começou a escrever com a mão tremendo tanto que a primeira ficou ilegível e ela teve que refazer.
+— E se ele perceber?
+
+— Perceber leva tempo. E tempo é a única coisa que a gente tem de sobra hoje.
 
 ---
 
-Voltou para a enfermaria às cinco da manhã com as mãos lavadas duas vezes e o cheiro ainda lá.
+Val trabalhou seis minutos sem falar. O ar cheirava a plástico derretendo. O cinza entrou na sala falsa às 21h07. Ela esperou ele bater na parede que não existia, e então fez a única coisa que sabia fazer com uma porta: fechou. O cinza não explodiu. Só parou de se mover num retângulo que o sistema passou a tratar como lixo. Val arrancou o cabo da nuca com um puxão e caiu de lado. Gabo tentou sair da mesa. As pernas não vieram. Tentou apoiar o cotovelo direito; o braço e a pelve o impediram de sair. Gritou pela equipe do corredor até alguém entrar para levantar Val.
 
-Sentou no banco ao lado da mesa — de frente, dessa vez — e olhou o homem quebrado sob o lençol.
+— Val. Ela estava de olhos abertos. Respirava.
 
-Ele estava com a cor errada. A respiração era rasa e curta, de gente que respira só o suficiente para não ser acordada pela falta. Sob a pele do peito havia hematomas do tamanho de mãos, e Val sabia que não eram mãos, eram costelas.
+— Estou bem. — A voz saiu rouca. — Não estou vendo direito do lado esquerdo.
 
-Ela pegou a mão dele, aquela mão calejada e enorme, e entrelaçou os dedos. Os dela eram frios. Os dele também.
+— O que você está vendo?
 
-— Ninguém toca em você — ela disse, para a sala escura. — Ninguém.
+— Cinza. Tudo cinza chapado, tipo foto velha. — Ela riu, e o riso saiu errado. — O implante fritou a camada de espectro. A Nise vai gritar comigo. Atrás da orelha dela, onde o cabo entrou, a pele estava vermelha e tinha um cheiro doce de queimado. Gabo segurou o rosto dela com as duas mãos e esperou. O olho direito voltou à visão básica depois de quase um minuto. O esquerdo continuava sem imagem desde a Torre.
 
-E depois, mais baixo, para ninguém:
+---
 
-— Mas eu vou ter que continuar fazendo isso, né?
+A porta do arquivo ficava no fim do subsolo. Val desceu com a lanterna e voltou sete minutos depois, sem a Vetor na mão. Estava com uma caixa de papelão do tamanho de uma sapateira e um selo de cera arrebentado. Pousou a caixa ao lado dele e encostou a Caronte na parede, ao alcance da mão esquerda; a equipe de resgate a tinha achado entre os escombros da torre.
 
-O monitor cardíaco respondeu a única coisa que sabia responder, e continuou respondendo a noite inteira, e às seis e quarenta da manhã, quando a chuva mudou de tom e a Nise finalmente dormiu sentada, o comunicador do Gabo — largado numa pilha de roupa rasgada e suja de óleo, no canto da sala — piscou uma vez, em silêncio, com uma chamada perdida.
+— A porta estava aberta. O cadeado também. Não arrombaram. Usaram a chave.
 
-Val não viu.
+— O que tem aí?
 
-Estava de olho na porta.
+— O arquivo morto do caso do seu pai. Material biológico. Lâminas de tecido, amostras seladas, o que sobrou da perícia de quinze anos atrás, que nunca foi liberado porque o inquérito nunca fechou. Ela abriu a tampa. Sete envelopes de papel pardo, cada um com um número e uma data, e os sete estavam vazios. Não rasgados: abertos pela dobra, com uma lâmina fina, e fechados de novo no lugar.
+
+— Ele não veio atrás de mim.
+
+— Gabo—
+
+— Ele tentou me afogar na Torre. Não sei se quem abriu essa caixa é a mesma pessoa. — A voz saiu calma demais.
+
+— O relógio podia ser dele.
+
+— Pode ser um recado ou uma tentativa de nos fazer olhar para o homem errado. Precisamos descobrir quem tinha acesso à chave.
+
+— Por que alguém coleciona pedaço de um comissário morto há quinze anos? Gabo não respondeu. Havia um relógio no fundo da caixa. Pequeno, de corda, de mostrador rachado. Estava de pé, apoiado num dos envelopes vazios, e estava andando.
+
+— Não toca. A mão de Val parou no ar.
+
+— Por quê?
+
+— Na Torre tinha centenas iguais. — Gabo engoliu. — Só que aqueles tinham costela dentro. O relógio tiquetaqueava no fundo do papelão, e no porão silencioso aquele som era grande demais, e não combinava com nada. Val se inclinou, sem tocar, e leu o mostrador de perto.
+
+— Gabo.
+
+— O que.
+
+— Ele está andando para trás.
+
+O ponteiro dos minutos se moveu um risco para a esquerda. Depois outro. A chuva batia no poço de ventilação, o monitor bipava, e o relógio do Taxidermista continuava desfazendo o tempo dentro da caixa onde deveria estar o pai dele.

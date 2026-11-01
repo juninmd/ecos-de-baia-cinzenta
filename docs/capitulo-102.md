@@ -1,126 +1,146 @@
 ---
-image: /raizes-amargas.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Roberto Miranda, Elena Moretti e protótipos
-Participação em registros e referência: Dra. Elara Vance, Silas Vance, Dante Moretti
-Localização: 'Zona de Exclusão Sul - Sala de Controle do "Berçário"'
+layout: doc
+title: "Capítulo 102: O Ventre da Besta"
+description: "Quatro meses de cadernos levam Elena e Gabo a uma catedral de tanques sob a Zona Sul, onde o que sobrou da Colmeia ainda cumpre a última ordem."
+image: /capitulo_102.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti
+Localização: "Zona de Exclusão Sul - Antiga Linha Vermelha do Metrô"
 ---
-# Capítulo 102: Raízes Amargas
+# Capítulo 102: O Ventre da Besta
 
-Zona de Exclusão Sul - Sala de Controle do "Berçário"
-O cheiro era o pior. Não cheirava a morte, nem a podridão. Cheirava a vida. Uma vida excessiva, doce e nauseante, como flores deixadas tempo demais em um vaso com água estagnada.
+Zona de Exclusão Sul - Antiga Linha Vermelha do Metrô
+A garagem do prédio cheirava a óleo velho, mofo e poeira de concreto. Gabo acendeu o lampião, encostou a bengala na bancada e ligou o rádio de onda curta.
 
-Roberto Miranda sorriu, e a pele sintética do lado esquerdo de seu rosto esticou-se com um ruído de plástico amassado.
+O aparelho era da delegacia. Vilar tinha emprestado com a condição de que ele não ligasse.
 
-— *Vocês parecem confusos* — disse ele, a voz saindo das caixas de som enferrujadas nas paredes, onipresente, enquanto sua boca humana apenas articulava as palavras em silêncio. — *Esperavam o quê? Um vilão de desenho animado girando o bigode? Silas é um visionário, Gabo. Eu sou apenas... o gerente de recursos humanos.*
+Ele girou o dial até a faixa morta, que ninguém usava desde o Grande Silêncio, e chamou o nome dela duas vezes. Sem código. Do jeito que se chama alguém em casa. O chiado mudou. Não virou voz. Virou ritmo.
 
-Gabo manteve o revólver apontado para a cabeça humana de Roberto, embora suspeitasse que um tiro ali não faria muita diferença. O corpo do ex-policial era apenas um busto emergindo de uma maçaroca de cabos grossos, tubos de alimentação translúcidos e raízes negras que pulsavam como veias varicosas.
+"...protocolo... reiniciado... busca... sinal..."
+Gabo já tinha ouvido aquilo na Zona Morta. Agora vinha pelo canal que acabara de abrir.
 
-— Você está morto, Roberto — disse Gabo, a voz rouca. — Eu deixei você respirando no Hub. Quem te tirou de lá?
+A válvula final ficou branca por dois segundos, soltou um estalo de verniz queimado e morreu. Cinco quilos de radiofrequência que a cidade não fabricava mais viraram peso morto.
 
-— *O resgate tem seu preço* — a voz nos alto-falantes riu. — *A carne queima, a gordura derrete, mas os dados... ah, Gabo, os dados persistem. A Aeterna tinha backups de todo o seu pessoal chave. Meu registro foi atualizado depois que me recolheram. É o que o sistema diz, pelo menos. E quando o "Jardineiro" precisou de alguém com experiência em... controle de pragas... ele me cultivou de novo.*
+— ...Gabo?
 
-Elena deu um passo à frente, a espingarda engatilhada. Seus olhos varriam os monitores atrás de Roberto. Telas de tubo antigas, verdes e âmbar, exibiam gráficos de crescimento celular e frequências cerebrais.
+Era ela, do outro lado de uma linha que não existia mais. No bolso do sobretudo, o cubo ainda estava quente.
 
-— Vocês não estão apenas cultivando monstros lá fora — disse ela, o horror amanhecendo em sua voz. — Aqueles "protótipos"... eles não são armas. São recipientes.
+— Jardim das Flores — disse Elena, antes que ele abrisse a boca. — Duas horas. Traga o cubo. Não traga mais ninguém.
 
-Roberto bateu palmas, um som úmido, já que suas mãos agora eram garras de osso fundidas ao metal da cadeira.
+A voz vinha do cubo, no bolso. Elena repetiu a hora e o lugar; o rádio queimado continuou sem som. Gabo anotou a mudança de fonte antes de sair.
 
-— *Bingo, detetive. Sempre perspicaz. O mundo digital acabou, Elena. A "Nuvem" caiu. Mas as mentes que viviam nela... as consciências ricas e poderosas que compraram a imortalidade digital com a Aeterna... elas ficaram presas no escuro. Gritando no vácuo.*
+Antes de sair, deixou para Val um bilhete com o encontro e a origem inesperada da voz. A *Caronte*, recolhida por uma equipe de busca no Hub depois da queda da Torre, estava trancada no porta-malas; Val a guardara ali depois de conferir o mecanismo. Duas horas depois, o Cobalt azul-metálico cortava a neblina. O motor tossia com a gasolina de baixa octanagem que Gabo comprara no mercado negro entregando a bateria de reserva do apartamento e duas ferramentas que usava nas órteses.
 
-Ele se inclinou para frente, os tubos em suas costas chiando.
+Ele não fumava — detestava o cheiro, herança maldita do pai —, mas os dedos tamborilavam no volante num ritmo frenético, um tique para manter a mente alerta. Ao seu lado, no banco do passageiro, o cubo preto repousava, silencioso e inerte, como uma bomba esperando o detonador.
 
-— *Silas lhes ofereceu uma saída. Uma segunda chance. Não em silício, que enferruja e quebra. Mas em carne. Carne projetada, melhorada. O "Projeto Gênesis" não é sobre criar monstros. É sobre trazer os deuses de volta à terra.*
+Gabo parou o carro diante da entrada lacrada da estação "Jardim das Flores". O nome era uma piada cruel de um urbanista morto há décadas; não havia flores ali, apenas concreto, pichações e o cheiro acre de enxofre.
 
-Gabo sentiu o estômago revirar. Os monstros no átrio. As formas humanoides distorcidas. Não eram bestas irracionais. Eram ternos de carne esperando por seus donos.
+Ele desligou o motor e ficou parado, ouvindo. A cidade em cima fazia o barulho de sempre: água na calha, gerador, um cachorro latindo para nada. Aqui embaixo havia outro som, fino e constante. Ventilação. Uma coluna de ar subindo por um duto que não devia estar funcionando havia meses, e subindo com força, como pulmão de gente grande.
 
-— E você? — perguntou Gabo. — Quem está vestindo você, Roberto?
+Ele desceu do carro, ajustando as cintas das órteses nas pernas. O *clique-clique* metálico das travas acompanhou seus passos até a grade.
 
-O olho humano de Roberto tremeu. Por um segundo, Gabo viu o homem que conhecera, o parceiro corrupto, mas humano. Então, o brilho vermelho no olho sintético intensificou-se.
+— Você demorou — disse uma voz vinda das sombras da bilheteria.
 
-— *Eu sou eu mesmo, Gabo. Alguém precisava vigiar a colheita. E, francamente, a oferta de benefícios era irrecusável. Imortalidade. Força. E a chance de terminar o que comecei com você e sua... namoradinha.*
+Elena Moretti saiu das sombras com a escopeta apoiada no ombro e a jaqueta de campo verde-oliva escurecida de chuva. O cabelo comprido estava preso para trás, escapando em mechas molhadas no rosto. O pingente de latão bateu no colarinho quando ela parou.
 
-Um tentáculo de metal e vinha chicoteou do teto, rápido como uma cobra. Gabo se jogou para o lado, as órteses de suas pernas estalando violentamente. A ponta de aço perfurou o chão de metal onde ele estava um segundo antes.
+Ela não parecia mais a jornalista que tentara salvar o nome dos Moretti. Parecia o que sobra de quem não dorme desde março.
 
-— *Sem truques digitais hoje, Gabo* — zombou Roberto. — *Aqui embaixo, somos apenas nós e a biologia.*
+— O trânsito estava ruim — Gabo tentou sorrir, mas a dor nas pernas transformou a expressão em uma careta. — O apocalipse engarrafou a Avenida Central.
 
-Elena disparou. O tiro de escopeta atingiu o ombro de Roberto, arrancando pedaços de carne pálida e circuitos. Ele nem piscou.
+Elena não sorriu. Os olhos dela varreram a rua deserta atrás dele, depois o alto dos prédios.
 
-— *Isso é rude.*
+— Você abriu um canal morto e alguma coisa respondeu antes de mim — disse ela. — Escuto aquela faixa desde que a Elara sumiu. Quatro meses de chiado. Hoje o chiado tinha voz, e não era a dela.
 
-Mais tentáculos desceram do teto escuro. O laboratório inteiro parecia estar vivo, uma extensão do corpo de Roberto.
+— Você trouxe?
 
-— Aos monitores! — gritou Gabo, rolando para trás de uma bancada de metal enquanto um chicote biológico esmagava uma fileira de provetas.
+Gabo apontou para o carro. Elena foi até lá, pegou o cubo e o examinou com uma intensidade quase religiosa.
 
-— O que tem neles? — Elena se agachou ao lado dele, recarregando a arma com mãos trêmulas.
+— Elara estava certa — murmurou ela. — Eles conseguiram compactar.
 
-— Se ele é o gerente, ele tem uma lista. Precisamos saber quem eles estão trazendo de volta!
+— Você leu isso onde?
 
-Gabo se levantou e disparou três vezes contra o rosto de Roberto. As balas ricochetearam em um campo de força sutil — não energia pura, mas uma lâmina curva de blindagem translúcida que se ergueu diante da cadeira. Esporos aderiam à superfície e faziam a placa cintilar.
+— Nos cadernos dela. Três mil páginas, todas em papel, porque ela não confiava em nada que tivesse antena. — Elena passou o polegar na borda do cubo, devagar. — Eu passei quatro meses traduzindo aquilo num quarto sem janela, com um aquecedor que só funcionava de madrugada. Perdi o emprego, o apartamento e a coluna na Gazeta. E perdi a Elara, que sumiu antes de terminar de me explicar o que era o Berçário.
 
-— *Vocês são obsoletos!* — rugiu a voz amplificada. — *Fósseis de uma era morta!*
+— Ela fugiu?
 
-O chão tremeu. As raízes sob a cadeira de Roberto começaram a se erguer, levantando-o como um rei em um trono de pesadelos.
+— Ela foi. — Elena sorriu sem humor nenhum. — Tem diferença, e eu ainda não decidi qual das duas me deixou mais puta.
 
-Elena correu para os terminais laterais, seus dedos voando sobre o teclado mecânico barulhento.
+— Eu desço com você — disse ela, e não era oferta. — Ler o caderno dos outros é o mesmo que rezar. Preciso ver com o meu olho o lugar onde a Elara entrou e não saiu.
 
-— Gabo! Segura ele!
+— Você não sabe o que tem lá embaixo.
 
-— Estou tentando! — Gabo largou o revólver vazio e pegou um sinalizador da bolsa de Elena. Ela pôs o pé de cabra ao alcance dele antes de voltar ao terminal. O painel de manutenção acima da cadeira oferecia outra chance.
+— Sei o suficiente para não deixar você descer sozinho e voltar contando histórias.
 
-Ele apontou para o painel de manutenção acima de Roberto. Os tubos de alimentação passavam atrás dele.
+— Compactar o quê? — perguntou Gabo, aproximando-se. — O que é o Berçário, Elena?
 
-— Coma isso, seu desgraçado.
+Ela o encarou, e Gabo viu um medo profundo naqueles olhos, um medo que ele só vira em veteranos que encararam o "Santo" nos olhos.
 
-O sinalizador incendiou o revestimento exposto do painel. Uma junta rompeu com o calor e o fluido quente do circuito de esterilização jorrou sobre Roberto. Gabo recuou atrás da bancada quando o visor da cadeira ficou opaco.
+— Não é um servidor, Gabo. Aeterna não estava construindo uma IA. Eles estavam construindo um corpo.
 
-Ele gritou — um som humano de dor genuína desta vez. A blindagem baixou aos trancos; o mecanismo fumegava.
+Ela devolveu o cubo. Gabo o guardou no bolso do casaco, onde ficou quente contra o peito, vibrando de vez em quando como dente que dói.
 
-— *AGORA!* — berrou Roberto, cego pelo fluido químico.
+Ela conferiu a bolsa: cartuchos de reserva, pé de cabra, dois sinalizadores de emergência. Deixou um cartucho separado para não perder a conta no escuro. Depois fez um sinal para que ele a seguisse. Elena passou pela catraca quebrada e abriu o portão lateral para Gabo e começaram a descer as escadas rolantes paralisadas.
 
-As portas laterais da sala se abriram. Dois dos "Protótipos" entraram, movendo-se com aquela agilidade quebrada e perturbadora.
+— Um dos cadernos descreve transferência para hospedeiros de carne — disse ela, a voz ecoando no túnel. — A última página relaciona a unidade 001 a um perfil chamado Dante Moretti. Não sei quem escreveu cada nota nem se esse cubo contém o perfil.
 
-— Elena! — chamou Gabo, recuando para a parede.
+Eles caminharam pelos trilhos por quase uma hora. A escuridão era absoluta, quebrada apenas pelas lanternas táticas. O ar ficava mais quente e úmido à medida que desciam. O cheiro mudou. Não era mais esgoto. Cheirava a... estufa. Terra molhada e algo doce, enjoativo.
 
-— Achei! — Elena arrancou uma folha de papel contínuo que a impressora matricial do terminal estava cuspindo. — Gabo, temos que ir! Eu sei onde ela está!
+Duas vezes passaram por uma lâmpada de emergência acesa. Não era bateria velha: o plástico estava limpo, o fio era novo, o laço de nylon ainda tinha o nó. Alguém trocava aquilo.
 
-— Quem?
+Na segunda, Gabo parou e apontou. Havia duas marcas de joelho no pó, ao lado de um banco de concreto, e ao lado das marcas um prato de alumínio raspado até o brilho.
 
-— Elara! O nome está na fila de processamento, Gabo. A coluna de saída está em branco, mas a lista não tem atualização recente. Pode estar aqui ou ter sido transferida; precisamos achar o registro seguinte.
+— Eles rezam aqui — disse Elena, baixo. — Antes de descer.
 
-Um dos protótipos saltou sobre Gabo. Ele usou o antebraço protegido por uma braçadeira metálica para bloquear as garras, sentindo o metal chiar sob a pressão. O cheiro da criatura era de amêndoas amargas e terra molhada.
+— Rezam para quê?
 
-Gabo urrou, travando a órtese direita contra a base da bancada. Elena empurrou um carrinho contra o joelho da criatura. O osso estalou com um som seco. A coisa caiu, e Gabo aproveitou para bater com o pé de cabra no ponto em que a criatura prendia seu antebraço. A garra abriu e ele caiu de lado.
+— Para que o que está lá embaixo continue com fome. — Ela ajustou a escopeta no ombro. — É o que eu faria, se fosse louca o suficiente.
 
-— Saída de emergência! Atrás dos servidores! — apontou Elena.
+— Estamos chegando — avisou Elena.
 
-Gabo agarrou o braço dela e avançou apoiado na bancada. Atrás deles, Roberto, ainda limpando o fluido dos olhos biônicos, gritava ordens para o sistema.
+Eles pararam diante de uma porta blindada maciça, marcada com o logo da Aeterna e pichada com símbolos estranhos — espirais e olhos — feitos com tinta vermelha.
 
-— *Fechem as comportas! Inundem o setor! Não deixem a semente escapar!*
+— O sistema é isolado — disse Elena, conectando um terminal portátil, uma relíquia cheia de fios expostos, ao painel da porta. — Sem wi-fi, sem bluetooth. Apenas cabo. Como nos velhos tempos.
 
-Eles se jogaram contra uma porta pesada com a inscrição "SISTEMA DE DRENAGEM". Gabo girou a roda de bloqueio, seus músculos gritando. A porta cedeu com um gemido de metal enferrujado.
+Ela digitou furiosamente. Gabo observou a tela verde monocromática.
 
-Entraram em um túnel escuro e úmido, o som de água correndo ecoando nas paredes. Gabo travou a porta por dentro, girando a roda até travar. Segundos depois, algo bateu contra o outro lado, fazendo a poeira cair do teto.
+— Qual a senha? — perguntou ele.
 
-Ficaram em silêncio por um momento, apenas o som de suas respirações ofegantes preenchendo o escuro.
+— Não é uma senha. É uma localização. Eles esconderam o acesso na geografia da cidade.
 
-— Você está bem? — perguntou Gabo, acendendo um sinalizador químico que banhou o túnel em luz vermelha.
+Elena encaixou a chave de manutenção presa ao caderno de Elara. O terminal leu o certificado local; ela escolheu o destino marcado na planta: `BERCARIO`. O acesso ficaria registrado naquela chave. O terminal bipou.
 
-Elena assentiu, apertando o papel impresso contra o peito.
+`>> ACESSO CONCEDIDO. BEM-VINDO AO NÍVEL 0.`
 
-— Gabo... a lista. Não é só a Elara.
+As travas hidráulicas da porta gemeram. O metal gritou contra a ferrugem, e a porta se abriu lentamente, liberando uma lufada de ar quente e úmido.
 
-Ela estendeu o papel para ele. Sob a luz vermelha trêmula, Gabo leu os nomes. Eram centenas. Políticos, criminosos, cientistas. Todos "falecidos" durante o colapso. Todos aguardando "reencarnação".
+Gabo ergueu a lanterna, mas o facho de luz foi engolido pela imensidão do que havia do outro lado. Não era uma sala. Era uma caverna colossal, escavada sob as fundações da cidade. E não estava vazia.
 
-Mas um nome no final da lista fez o sangue de Gabo gelar.
+No centro, pendurado no teto por cabos grossos como troncos de árvores, havia um casulo. Um coração gigantesco, pulsando com luz bioluminescente roxa e vermelha. Tubos translúcidos saíam dele, bombeando um fluido viscoso para centenas de tanques menores dispostos em fileiras no chão.
 
-ID: 001 - STATUS: PRIORIDADE MÁXIMA - AGUARDANDO HOSPEDEIRO VIÁVEL
-NOME: DANTE MORETTI
-Gabo dobrou o papel sem tocar na impressão, sentindo uma náusea súbita.
+— Meu Deus... — sussurrou Gabo.
 
-— Querem um hospedeiro para o perfil do meu pai — sussurrou ele. — O cubo pode ser a chave. Não sabemos quem preparou isso.
+Ele se aproximou de um dos tanques. O vidro estava embaçado, mas ele limpou com a luva.
 
-— Roberto disse que eles querem trazer os deuses de volta — disse Elena, sua voz dura. — Seu pai não era um deus, Gabo. Mas ele sabia onde todos os corpos estavam enterrados. Literalmente.
+Dentro, flutuando no líquido amniótico sintético, havia uma forma humanoide. Sem rosto, sem pele, apenas músculo exposto e fios metálicos entrelaçados nas fibras.
 
-Gabo olhou para a escuridão do túnel à frente. O caminho para o inferno não era pavimentado com boas intenções. Era pavimentado com raízes, carne e códigos antigos que se recusavam a morrer.
+— Protótipos — disse Elena, parando ao lado dele. — "Carne Mecânica". E não é o Silas que protege isso. Nem os Jardineiros.
 
-— Vamos achar a Elara — disse Gabo, guardando o papel no bolso, ao lado do Cubo que parecia pesar uma tonelada. — E depois, vamos queimar esse jardim até o chão.
+— A seita odeia metal.
+
+— Pode ser uma parte da Colmeia que ficou isolada quando o Código Morto passou. — Ela apontou o cano para as fileiras de tanques. — Os cadernos falam em ordens automáticas, mas não dizem quem ainda controla este lugar. Seja quem for, está cultivando corpos.
+
+O chão estremeceu. Um som grave, como o bater de um tambor gigante, veio do casulo central.
+
+BUM-BUM.
+— Está vivo? — perguntou Gabo, sentindo o tremor subir pelas pernas travadas no metal.
+
+— Pior — respondeu Elena, engatilhando a escopeta. — Está com fome. E nós acabamos de tocar a campainha do jantar.
+
+Da escuridão atrás dos tanques, silhuetas começaram a se erguer. Elas não tinham o andar desajeitado dos robôs, nem a fluidez humana. Elas se moviam como aranhas, rápidas e silenciosas.
+
+Gabo sacou seu revólver. O cubo no bolso de seu casaco começou a vibrar violentamente, entrando em ressonância com o coração gigante.
+
+— Gabo — disse Elena, a voz firme. — Se não sairmos daqui, nós viramos adubo.
+
+— Então vamos fazer barulho — disse ele.
+
+Ele disparou o primeiro tiro, e o silêncio do subsolo foi quebrado para sempre. O ventre da besta havia acordado, e ele estava furioso.

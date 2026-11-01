@@ -1,66 +1,85 @@
 ---
-Título: O Abismo de Aço
+Título: Raízes de Silício
 Data In-Game: Pós-Colapso do Sentinel (Noite Eterna)
-Localização: Setor 7 (Fosso do Arquivo Executivo)
+Localização: Setor 7 (Núcleo do Complexo Hidropônico)
 Personagens Presentes: Gabo, Valéria
 ---
 
-# Capítulo 188: O Abismo de Aço
+# Capítulo 188: Raízes de Silício
 
-O fosso do elevador era um vácuo de breu e óleo mineral rançoso, cortado apenas pelo silvo agudo da fita de rapel correndo pelo regulador de atrito enquanto descíamos suspensos pelos cabos de aço. A cada metro que nos aprofundávamos nas entranhas do Setor 7, a temperatura despencava, mas o frio não era suficiente para aplacar o suor ácido que escorria pelo meu pescoço, ardendo nas cicatrizes abertas.
+O calor úmido do Complexo Hidropônico colava a poeira e o mofo químico direto no meu rosto, criando uma máscara pegajosa que ardia na pele escoriada. O ar ali dentro vibrava com um zumbido subsônico contínuo, a pulsação de bombas industriais esquecidas alimentando milhares de metros de trepadeiras bioluminescentes.
 
-Meus joelhos castigados protestavam a cada solavanco no vazio. A órtese mecânica da perna direita, amassada desde a clínica de Vasco e moída pelas ruínas da superfície, rangia contra os cabos guias como dentes se partindo sob pressão excessiva.
+A cada passada sobre as passarelas de aço perfurado, a armação externa do meu braço direito chiava em protesto, os servos pesados trabalhando no limite da tolerância para compensar o desnível do chão.
 
-— Firme a bota no cabo central, Moretti! — a voz de Valéria ecoou rente à minha orelha, áspera e cortada pelo vento que subia do poço. Ela estava amarrada ao meu tronco pela cinta de contenção, as pernas envolvendo as guias com a agilidade de quem conhecia a verticalidade dos arranha-céus da Baía. — O atrito do mosquetão tá fervendo a graxa mineral! Se você deixar o corpo girar, a gente perde o alinhamento da viga mestra e bate com a cara na parede de concreto!
+Valéria ia dois passos à frente, o cyberdeck numa mão e a sonda de teste na outra, afastando gavinhas translúcidas que pingavam seiva leitosa sobre a grade.
 
-— A minha mão de carne tá escorregando na graxa — rosnei entre dentes, os dedos esquerdos dormentes de frio e cansaço, lutando para manter a empunhadura na corda de segurança.
+— Há mais raízes junto às caixas de derivação — ela avisou, sem tirar os olhos do display fosco do deck. — As raízes tão perfurando as caixas de derivação elétrica da Aeterna e fundindo o tecido vegetal direto nas trilhas de cobre. Quem desenhou essa praga biológica não era só um geneticista louco; era um engenheiro de redes de primeira linha.
 
-— Prende a linha de segurança no suporte lateral, Gabo! — ela gritou, os olhos ópticos prateados piscando feixes curtos de medição no breu abaixo. — A laje tá chegando e a gente tá descendo rápido demais! O regulador da cinta tá começando a escorregar na fita!
+— Silas Vance aprendeu a programar antes de aprender a odiar a humanidade — respondi, o som da minha voz saindo rouco, arranhando a garganta seca. — Não sei quanto dessa infraestrutura ele desenhou; sei o que o culto fez com ela.
 
-Olhei para baixo. No fundo do abismo, uma névoa fosforescente azulada e vermelha começava a delinear as estruturas de aço do piso técnico. Mas a aceleração da gravidade estava nos puxando rápido demais; a fita de poliéster do arnês cheirava a tecido queimado pelo atrito violento com o mosquetão de titânio.
+— Pois ele criou uma aberração impecável — Valéria parou no fim da passarela diante de uma antecâmara blindada, onde a tubulação principal de nutrientes convergia. — Olha pra essa porta, Moretti.
 
-Se o freio de Valéria derretesse a dez metros do chão, o impacto partiria nossas pernas e espinhas contra a laje de ferro.
+Aproximei-me, apoiando a mão esquerda na mureta de ferro para aliviar o peso que repuxava minha coluna.
 
-— O reserva! — gritei.
+O arco de acesso ao centro de processamento do setor estava completamente lacrado por uma membrana orgânica grossa, translúcida e pulsante. Por trás da camada de tecido vivo, uma interface de terminal da Aeterna cintilava em verde-musgo, engolida por raízes azuis que se enfiavam nos teclados e nas portas de barramento.
 
-Valéria puxou a alça do segundo freio com a mão direita. O primeiro continuou correndo por um instante; depois o dispositivo preso à guia mordeu o metal. O tranco nos jogou contra a parede. Minha bota raspou o concreto e a órtese ficou presa entre nós e a guia.
+— Pode hackear isso? — perguntei, observando os pequenos espasmos elétricos que corriam pela membrana.
 
-O arnês apertou minha cintura; a armação bateu no meu lado e puxou o braço ferido. A dor me arrancou o ar. A fita continuou deslizando um palmo antes de parar, e fiquei escutando o estalo baixo da costura, sem saber se aguentaria.
+Valéria soltou um suspiro exasperado, encostando a ponta de prova do leitor na borda da carne vegetal. O aparelho emitiu uma sequência de três apitos agudos que terminaram num estalo estático.
 
-A plataforma estava logo abaixo. Val procurou apoio com a bota, alcançou a borda e transferiu o peso para ela antes de soltar a linha.
+— Não é um firewall de software comum, Gabo. Isso aqui é criptografia por resposta neurobiológica. O terminal espera o retorno dos controladores ligados aos corpos. O campo está rotulado como estresse neural. Não sei se mede dor nem se a senha vem dessas pessoas; sei que o sistema mantém a porta fechada quando o retorno falta.
 
-— Solta a trava! Agora! — Valéria gritou, cortando a fita do arnês com um golpe rápido de faca tática.
+Encarei a membrana viva com um nojo frio que subiu amargo pelo esôfago.
 
-Ela soltou o trecho preso da cinta enquanto eu firmava a bota na borda. Desci o meio metro restante até o piso de ferro com um baque surdo, a lama e a graxa amortecendo o impacto. Minha perna direita cedeu dentro da órtese e bati com os joelhos no chão, apoiando a mão esquerda ensanguentada no concreto frio para não desabar de vez.
+— E qual é o vetor de invasão?
 
-Valéria ficou de joelhos na grade até recuperar o fôlego. Só então sacou a pistola e apontou para as sombras. O rosto estava manchado de fuligem, e ela mantinha a mão esquerda rígida contra o peito.
+— Ou eu reproduzo o sinal de teste que o terminal oferece à manutenção com o meu deck — ela ergueu a cabeça, os olhos prateados apontando para uma viga transversal seis metros acima de nós —, ou você arrebenta o nó de alimentação que tá bombeando a energia pra essa membrana.
 
-Ela me olhou no chão, bufou alto e me deu um soco de leve no ombro são.
+Olhei para onde ela indicava. Preso à estrutura do teto de vidro reforçado, havia um bulbo vegetal do tamanho de um barril de chope. A massa pulsava com um tom avermelhado doentio, envolta em cabos de alta tensão arrancados dos transformadores da estufa. Veias grossas de fluido escuro desciam daquele casulo e entravam direto no batente da porta selada.
 
-— O freio de reserva pegou — ela disse, olhando para a fita puída. — Não vamos usar essa cinta de novo.
+— Se eu desligar o gerador na força bruta, o terminal queima? — perguntei, avaliando o suporte das prateleiras de ferro enferrujadas que subiam pela lateral da parede.
 
-— Me ajuda a levantar — consegui dizer, cuspindo pó de ferro no chão. — Preciso ver se o fixador soltou.
+— O terminal tem uma bateria de serviço indicada no painel. Vou copiar o log antes de cortar o enlace; a energia de reserva pode não sustentar o tempo que a placa promete — Valéria ajustou os cabos de bypass com a mão direita, os olhos brilhando com adrenalina tática. — Mas você vai ter que escalar essa estante podre com vinte quilos de ferro no ombro e arrancar o nó antes que o sistema descarregue a sobretensão na sua cabeça. Se você demorar, essa gosma vermelha frita os circuitos do seu braço novo.
 
-Valéria guardou a arma e me ajudou pelo lado esquerdo com a mão direita. A cobertura do fixador tinha sangue novo; ela a apertou sobre a faixa e conferiu a folga do suporte. Não podia dizer se o osso tinha deslocado. Firmei as pernas até ouvir as travas das órteses encaixarem.
+— Então começa a emular a frequência, Val. Não vou ficar pendurado lá em cima batendo papo.
 
-Foi então que olhamos ao redor.
+— Não cai de costas, Moretti! Se você despencar dessa altura, eu não tenho soldador pra remendar seus ossos de novo!
 
-A plataforma de desembarque do Setor 7 era uma monstruosidade de arquitetura brutalista. Vigas de sustentação em arco de três metros de largura sustentavam o teto aveludado de escuridão. Mas o aço e o concreto não estavam sozinhos.
+A escada de manutenção dobrável estava presa à coluna, atrás da estante. Val a baixou até o piso e conferiu os encaixes. Subi apoiado na linha de inspeção, com o braço direito imobilizado no suporte; não usei os pinos no osso como ponto de escalada. As travas de aço sustentaram o metal oxidado com um estalo seco, garantindo um apoio sólido enquanto minha bota de ferro buscava tração na armação úmida.
 
-O Jardim havia transformado o andar inteiro num ninho de pesadelo biomecânico.
+A subida foi uma negociação desesperada contra o peso e a ferrugem. Cada metro enviava uma fisgada pelo fixador e pelo arnês. A dor me obrigou a parar antes da plataforma, com a mão esquerda agarrada ao corrimão, até conseguir firmar a bota. Lá embaixo, Val mantinha a linha de inspeção esticada.
 
-Grossas trepadeiras orgânicas de cor carmim, entrelaçadas com fitas de dados e cabos coaxiais de alta voltagem, pulsavam no chão como artérias expostas de um animal agonizante. Elas convergiam em direção a uma enorme porta blindada de quatro folhas no final do corredor, onde a inscrição desbotada na chapa de chumbo ainda anunciava: *'Arquivo Central de Contingência - Nível Sete'*.
+Alcancei a plataforma superior de manutenção. O calor que emanava do nó era nauseante, cheirando a sangue cozido e plástico derretido. O tecido carnudo tremia como o coração de uma criatura presa numa armadilha, bombeando fluidos químicos pelos cabos com um som sibilante de sucção.
 
-As raízes penetravam os vãos da blindagem, e das frestas do metal vazava uma luz vermelha fosca acompanhada pelo som baixo, constante e aterrorizante de centenas de ventiladores de servidores girando em uníssono nas profundezas.
+Lá embaixo, Valéria cravou os eletrodos do deck na borda da porta.
 
-Valéria ergueu a mão enluvada, os sensores do cyberdeck apitando numa frequência contínua de aviso de contaminação.
+— Sinal de estresse injetado na malha! — a voz dela ecoou na galeria, alta e tensa. — A membrana tá hesitando! Agora, Gabo! Arrebenta essa porcaria!
 
-— Tem máquina viva operando lá dentro, Gabo — ela sussurrou, a respiração formando pequenas nuvens no ar gélido da câmara. — O painel registra atividade nos servidores. O cabo segue na direção do Arquivo, mas ainda não consigo ler o que trafega.
+Encaixei a ferramenta de manutenção na trava do alimentador. A haste do suporte externo me ajudou a manter o ângulo, com o arnês recebendo o peso. Não enfiei a mão ferida no tecido nem nos contatos expostos.
 
-Aproximei-me da porta selada, sentindo a vibração do maquinário ressoar através do metal da minha armação e vibrar nos meus dentes.
+As hastes de aço da armação rasgaram a membrana externa como se fosse lona podre, afundando dez centímetros até encontrarem o emaranhado de fios de cobre e silício que serviam de esqueleto ao nó. A trava já estava solta de um lado. Fiz alavanca no suporte do alimentador enquanto Val mantinha o sinal de teste no terminal.
 
-— Eles estão acordando o monstro adormecido da Aeterna — murmurei, a mão esquerda alcançando a empunhadura áspera de *Caronte*. — Mas a gente desceu até aqui pra puxar o fio da tomada.
+CRASH.
+O som de fios estourando e ligas de cerâmica se partindo foi abafado por um guincho agudo de feedback que ecoou pelos dutos do complexo. Uma enxurrada de lodo negro e viscoso jorrou sobre meu antebraço mecânico, fumegando ao entrar em contato com o ar.
 
-Valéria abriu a caixa de ferramentas do deck com um estalo firme, os olhos prateados faiscando de determinação feroz na penumbra vermelha.
+A pulsação luminosa morreu instantaneamente.
 
-— Então fica na cobertura, detetive. Vou precisar de três minutos pra quebrar a trava mestra desse portão, e eu tenho certeza absoluta de que o Jardim não vai gostar nem um pouco de ver a gente encostar nessa fiação.
+Lá embaixo, a membrana perdeu a tensão no batente e cedeu junto com a folha metálica da porta, revelando a sala de controle com o monitor principal aceso em linhas de comando verde-fosfato.
+
+— *Bypass* confirmado! — Valéria gritou, os dedos já voando sobre o console desbloqueado. — A linha de dados abriu!
+
+Desci pela escada de manutenção, preso à linha de inspeção, até alcançar o gradeamento ao lado dela. Minha mão mecânica gotejava o resíduo negro da colônia, mas os nós neurais responderam firmes ao comando de relaxamento dos pistões.
+
+— O que o sistema tava processando? — perguntei, limpando o suor misturado com fuligem da testa.
+
+Valéria encarava a tela com as sobrancelhas franzidas, a luz do monitor refletida em seus olhos prateados. O sarcasmo sumira, substituído por uma inquietação pesada.
+
+— Não é uma ordem de defesa local, Gabo. O registro mostra uma transferência para um destino chamado Arca Zero. Há referências a amostras genéticas, mas não sei se são todas nem se a cópia chegou.
+
+— O Arquivo Executivo?
+
+— Não — ela virou o rosto para mim. A franja piscou devagar, tensa. — Abaixo do Arquivo Executivo. Bem abaixo. O registro aponta para *Arca Zero*, abaixo do arquivo. Diz que há protótipos, mas não mostra quem os guardou.
+
+Olhei para a escuridão do corredor técnico que se abria atrás da sala de controle. O caminho não subia para a superfície; descia para os alicerces mais profundos e esquecidos de Baía Cinzenta.
+
+— Então é pra lá que a gente vai — falei, conferindo os dois canos de Caronte e os cartuchos de reserva que Vasco entregara na saída. — Vamos descer até o fundo dessa mentira.

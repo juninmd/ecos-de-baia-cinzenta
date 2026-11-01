@@ -1,149 +1,142 @@
 ---
 layout: doc
-title: "Capítulo 83: Raízes"
-description: "O mapa das ocorrências desenha uma espiral, e o centro dela não é a Torre. É o Memorial do Dilúvio — construído em cima de quatro mil mortos."
+title: "Capítulo 83: Sangue e Óleo"
+description: "Vilar sofre esmagamento e queimadura no braço esquerdo durante o resgate. A retirada e a descontaminação não apagam a lesão que levará à amputação."
 image: /capitulo_83.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Capitão Jonas Vilar, Dra. Nise
-Localização: "Gabinete do prefeito interino — 09h"
+Personagens Presentes: Gabriel "Gabo" Moretti, Capitão Jonas Vilar, Dra. Nise, técnico Barros
+Localização: "Corredor de acesso, subsolo da Torre Aeterna - 18h20"
 ---
 
-# Capítulo 83: Raízes
+# Capítulo 83: Sangue e Óleo
 
-Gabinete do prefeito interino — 09h.
-Vilar odiava aquela sala. Ele tinha assumido a prefeitura interina por três motivos, e nenhum deles era vontade: o cargo estava vago desde que Marco Moretti sumiu num esgoto, os representantes dos abrigos o indicaram para a coordenação provisória e ninguém mais aceitou. A indicação não apagava o inquérito contra ele. O braço esquerdo estava imobilizado, inchado sob o curativo feito no atendimento da noite anterior. Nise queria que ele voltasse para uma avaliação; Vilar tinha deixado o serviço antes de receber alta. Na mesa, havia um envelope para a irmã do homem encontrado no beco. O perito comparara as impressões do corpo com a ficha de desaparecido guardada em papel: Mauro Serpa. Vilar pedira que avisassem a irmã e marcou uma conversa para aquela tarde. Ainda não tinha uma causa de morte para lhe entregar. Ele acionou o mapa holográfico com a mão direita. O tampo acendeu cheio de pontos vermelhos.
+Corredor de acesso, subsolo da Torre Aeterna - 18h20.
+O alarme de purga não é uma sirene comum.
 
-— Ocorrência de vandalismo botânico subiu trezentos por cento em vinte e quatro horas. — Ele esfregou as têmporas com os dedos da mão boa. — Essa é a classificação que o sistema usa, e eu já pedi para mudar, e não tem quem mude porque o servidor que classifica é a Entidade e ela não aceita a minha alteração.
+É um tom pulsado de dois quilohertz, escolhido em laboratório por ser a frequência que mais incomoda o ouvido humano, porque o objetivo do aparelho não é avisar: é **expulsar**. Ele vibrava nos dentes de Gabo e no metal das órteses dele ao mesmo tempo.
 
-— O que está entrando como ocorrência?
+VINTE E OITO SEGUNDOS.
+— Vilar! Arromba essa porta!
 
-— Árvore rompendo asfalto. Vinha bloqueando trilho de maglev. Um parque inteiro que **andou** oito metros para dentro de um condomínio na Rua Sete. Raiz estourando adutora em quatro pontos. — Ele apontou o mapa. — E setenta e um casos de gente que sumiu dentro de casa, com a porta trancada por dentro.
+— O circuito de segurança é independente! — Vilar estava com o terminal de pulso encostado no painel, e o painel devolvia estática vermelha. — A Aria não responde aqui embaixo! Esse andar inteiro é ponto cego!
 
----
+VINTE E QUATRO.
+Lá dentro, a Dra. Nise recuava de costas pela parede, com o frasco de amostra apertado no peito. A massa fúngica avançava pelo piso num tapete que já cobria dois terços da sala, subindo pelas pernas da mesa de dissecação.
 
-Gabo se debruçou sobre o holograma. Ele não estava olhando as ocorrências. Estava olhando o espaço entre elas. Catorze anos de homicídio ensinam uma coisa que não se ensina em curso nenhum: o padrão nunca está nos pontos. Está no vazio.
-
-— Não é aleatório — ele disse. Passou o dedo pelo mapa, ligando pontos numa curva.
-
-— Parece uma espiral — disse a Dra. Nise, do canto da sala, onde estava sentada com um café que ela não bebia havia quarenta minutos.
-
-— Parece uma espiral logarítmica — disse Val, se aproximando. — Se eu ajustar uma curva aos pontos, cada volta fica cerca de uma vez e meia maior que a anterior. Ainda falta testar se o ajuste significa alguma coisa.
-
-— É bonito — disse Vilar.
-
-— É **eficiente**. — Val não tirava os olhos do mapa. — É um ajuste possível para estes pontos. Vou comparar com o traçado das adutoras e as datas das ocorrências antes de chamar isso de lei de crescimento. Não tem mística nenhuma, Capitão. Isso aqui é o desenho que uma coisa viva faz quando ninguém está podando.
-
-— E o centro? — perguntou Vilar.
+E o calor começava. Dava para ver: o ar acima do piso já tremia.
 
 ---
 
-Gabo seguiu a curva para dentro, volta a volta, até o ponto de convergência. Não era a Torre Aeterna. Não era a Prefeitura, nem a estação de tratamento, nem o Cais Três. Era o Memorial do Dilúvio. O parque de vinte e dois hectares inaugurado em cinquenta e três, com cipreste em fileira, um espelho d'água e cento e nove estátuas de bronze. Depois da inundação, rebatizaram o lugar e acrescentaram os nomes dos bairros submersos. Não tinham terminado de gravar os mortos. Um lugar de luto, inaugurado com discurso, ao qual ninguém ia.
+Gabo não pensou. Isso é literal, e é o que ele contou depois, e a Dra. Weiss anotou. Ele alcançou a alavanca vermelha acima do batente. Vilar arrancou da parede o macaco hidráulico de manutenção, preso ao lado do painel por duas abraçadeiras.
 
-— O que tem lá? — perguntou Vilar. Val já estava garimpando arquivo antigo.
+DEZENOVE.
+Gabo puxou a liberação manual. O contrapeso levantou a porta doze centímetros antes de o mecanismo empenado travar. Vilar encaixou o macaco na fresta.
 
-— Tem o bunker.
+— **BOMBEIA!**
 
-— Que bunker?
+Gabo manteve a alavanca aberta com o antebraço. Os dedos quebrados da direita não seguravam a peça; a esquerda queimava dentro da luva. O peso ficou no macaco, e Vilar bombeou com o corpo inteiro.
 
-— O servidor de retaguarda original da Aeterna. — Ela girou a tela para eles. — Antes da Torre, antes de tudo, em dois mil e vinte e nove, a empresa era um galpão e um bunker de dados enterrado a doze metros. Consta como desativado desde trinta e nove.
+QUATORZE.
+A porta subiu a vinte centímetros. Trinta. Quarenta. O óleo vazou pela junta do macaco. Vilar prendeu o braço esquerdo entre a alavanca e o batente para impedir que ela voltasse; quando o metal cedeu, ele gritou, mas não tirou o braço.
 
-— Desativado — repetiu Gabo.
-
-— Desativado no papel.
-
-— O parque fica perto dos bairros inundados. — Gabo se endireitou devagar. — O arquivo diz que o bunker foi desativado há dezessete anos. Quero saber se alagou e se ainda recebe energia. Ele olhou para Vilar.
-
-— É o melhor lugar do planeta para uma coisa crescer sem ninguém encostar.
+— **NISE, AGORA!**
 
 ---
 
-A Dra. Nise se levantou. Ela fez isso de um jeito que os três notaram — devagar, apoiando as duas mãos na mesa —, e ficou de pé sem falar por uns cinco segundos.
+ONZE.
+Ela correu com o traje pesado, atravessou a sala pisando na massa — e o fungo se enrolou nas botas dela, e ela puxou o pé com força e deixou pedaço de bota para trás —, chegou à porta e se jogou no chão.
 
-— Eu terminei a análise da amostra hoje às quatro da manhã — ela disse. — Rodei três vezes porque eu não acreditei nas duas primeiras.
+Deslizou de costas por baixo do vão, com o frasco em cima do peito segurado com as duas mãos. Os pés dela passaram.
 
-— E?
+SETE.
+Vilar abriu a válvula do macaco e arrancou o braço da alavanca. A porta desceu os quarenta centímetros e bateu no batente com um estrondo definitivo.
 
-— A amostra tem DNA humano e material fúngico. A equipe de biologia confirmou nas três leituras. O silêncio na sala foi completo. O ar-condicionado escolheu aquele momento para desligar, e ninguém respirou por um tempo.
-
-— Humano — repetiu Vilar.
-
-— Há sequências alteradas que ainda não conseguimos montar, além de polímeros que não deveriam estar num tecido comum. — Nise pousou a ficha sobre a mesa. — Pode ser uma amostra misturada. Não vou afirmar que cada planta foi uma pessoa porque encontramos material humano num frasco.
-
-— O que isso quer dizer, doutora? — perguntou Val.
-
-— Quer dizer que quem está fazendo isso não está fabricando monstro do zero. — Nise olhou para os três. — Pode estar **convertendo pessoas**. Os corpos do armazém sustentam essa suspeita. A amostra sozinha não conta quantos, nem se há volta. Gabo fechou os olhos.
-
-— O Batismo.
-
-— O quê?
-
-— Na catedral de ferro, ontem à noite. — Ele abriu os olhos. — Aquela gente estava ajoelhada escutando. Talvez estivesse passando por alguma coisa, mas eu não vi como começou.
+QUATRO.
+Os três recuaram até a antecâmara. Barros fechou a segunda porta antes que a primeira começasse a vazar fumaça.
 
 ---
 
-O comunicador de Vilar tocou. Não o terminal: o comunicador de rádio, o de canal antigo, que ele agora carregava no cinto e que era a única coisa que ele atendia.
+O rugido veio do outro lado.
 
-— Vilar.
+Não é fogo, tecnicamente. É gás incandescente, a temperatura nominal de mil e cem graus, injetado por doze bicos ao mesmo tempo, e o barulho que isso faz não é de fogueira: é o de um jato de avião passando dentro de uma caixa de sapato.
 
-— *Capitão, aqui é o Bezerra, da manutenção do metrô. Desculpa incomodar o senhor, mas eu não sei mais para quem ligar.*
-
-— Fala.
-
-— *A gente tem um problema na Linha Vermelha. O trem das oito e meia parou no meio do túnel entre a Sé e a Portuária. Trezentos e poucos passageiros.* — A voz do homem estava esquisita. — *Capitão, os passageiros que conseguiram sair estão dizendo uma coisa e eu vou repetir do jeito que eles falaram porque eu não sei traduzir.*
-
-— Repete.
-
-— *Eles disseram que os túneis estão sangrando.* Vilar olhou para Gabo.
-
-— Sangrando.
-
-— *Seiva, senhor. Vermelha, escorrendo pela parede, quente. E—* — o homem hesitou — *e tem gente presa na parede.*
-
-— Como assim, presa?
-
-— *Fundida, Capitão. No concreto. Um deles é o meu cunhado.*
+O vidro da janela de observação ficou branco. E, no meio daquele branco, por meio segundo antes de virar cinza, Gabo viu o rosto. O rosto de fungo, o do homem de macacão azul, sendo consumido. E a expressão não era de dor. Era de alívio.
 
 ---
 
-Vilar baixou o rádio devagar. Ninguém falou por uns segundos.
+A porta selou. O alarme parou. Ficou o barulho de ventilação forçada e nada mais. Nise estava de costas no chão do corredor, tossindo, com o traje chamuscado do joelho para baixo e uma bota faltando.
 
-— Começou — disse Gabo, e verificou a carga da arma por hábito, sabendo que não ia servir. — É a colheita.
+Barros iniciou o ciclo de descontaminação. Só depois da lavagem e da retirada assistida do traje Nise soltou o capacete. Ninguém chamou aquilo de garantia; o corredor continuou fechado. O rosto dela estava vermelho e encharcado, e o cabelo branco, sempre preso naquele coque severo, tinha soltado de um lado.
 
-— A quê?
+— A senhora está bem?
 
-— A primeira. — Ele guardou a arma. — Doutora, eu vou precisar da senhora no metrô, e eu odeio pedir isso.
+— Eu estou com sessenta e cinco anos e acabei de rastejar por baixo de uma porta. — Ela tossiu de novo. — Eu vou ficar bem daqui a uns quatro dias.
 
-— Eu já ia mesmo.
-
----
-
-— E o Memorial? — perguntou Val. Gabo olhou para o holograma girando na mesa, para a espiral vermelha se apertando em direção ao centro.
-
-— O Memorial pode ser a raiz-mestra. — Ele apontou. — Se for, talvez cortar ali faça o resto parar de crescer. Vilar, eu preciso de tudo o que existir sobre aquele bunker: planta, alvará de desativação, contrato de terraplanagem, laudo de fundação do parque. Papel.
-
-— Papel — repetiu Vilar, e não riu.
-
-— E manda um perito medir o nível do espelho d'água do Memorial hoje e amanhã no mesmo horário.
-
-— Por quê?
-
-— Porque quero comparar consumo, chuva, evaporação e bombeamento. Se o nível mudar, precisamos saber o que mais mudou junto.
+Vilar sentou no chão ao lado deles, apoiado na parede, segurando o braço esquerdo com a mão direita. A manga estava rasgada, havia queimadura e o punho começava a inchar. Nise pediu que Barros chamasse transporte para avaliação urgente; o esmagamento podia ter danificado mais do que a pele mostrava.
 
 ---
 
-Val ficou olhando o mapa depois que os três já estavam na porta.
+— Gabriel. — Nise segurou o braço dele. — Aquilo não estava tentando me matar.
 
-— Gabo.
+— A senhora estava dentro de uma sala com uma coisa que estava crescendo em cima da senhora.
 
-— Fala.
+— Estava crescendo **na minha direção**, que é diferente. — Ela se sentou com dificuldade. — Eu vi o rosto se formar antes de a purga começar. Pode ser imitação. Pode ser alguma tentativa de contato.
 
-— E se a gente cortar a raiz-mestra e descobrir que ela não é a raiz-mestra?
+— Doutora—
 
-— Aí a gente descobre uma coisa.
+— Eu preciso descobrir se estava tentando **falar comigo**.
 
-— Não. — Ela apontou a espiral com o queixo. — Ajustar uma espiral aos nossos pontos não prova onde o organismo começou. O centro do desenho pode ser só o ponto em que a nossa amostragem acaba. Gabo ficou parado na porta.
+---
 
-— Você está dizendo que a árvore é maior do que a cidade.
+Ela levantou a mão direita. O frasco de amostra ainda estava lá, inteiro, com dois dedos de biogel escuro dentro. E o biogel pulsava — devagar, num compasso de setenta e poucos. Vilar se afastou vinte centímetros.
 
-— Eu estou dizendo que a gente não sabe onde ela termina, e que isso é diferente de saber que ela termina longe. Os quatro saíram.
+— A senhora trouxe isso para fora — ele disse.
 
-O mapa holográfico ficou aceso na sala vazia, e a espiral vermelha continuou girando devagar em cima da mesa do prefeito, como um furacão que já chegou à costa e que ninguém percebeu porque estava dentro dele.
+— Trouxe.
+
+— A senhora trouxe **isso** para fora do laboratório de contenção, doutora.
+
+— Capitão, se eu deixasse lá dentro, o que a gente teria daqui a uma hora seria uma sala carbonizada, uma teoria e nenhuma prova. — Ela ergueu o frasco contra a luz. — E, sem prova, na semana que vem alguém do consórcio vai dizer numa reunião que o laboratório pegou fogo por curto-circuito.
+
+Ela girou o vidro devagar.
+
+— Além do quê: olhem o padrão de crescimento.
+
+---
+
+Gabo se inclinou. Dentro do frasco, os filamentos não estavam distribuídos ao acaso. Formavam blocos: segmentos densos de comprimentos diferentes, separados por vazios de comprimentos diferentes, repetidos em sequência.
+
+— Isso é intervalo — disse Gabo.
+
+— Pode ser um padrão — disse Nise. — Comprimentos diferentes e intervalos que parecem repetidos. Precisamos medir várias sequências para saber se carregam informação ou se são só crescimento.
+
+— O que isso significa? — perguntou Vilar.
+
+Nise olhou para o frasco como quem olha para um recém-nascido de mãe desconhecida.
+
+— Pode ser um substrato capaz de crescer sobre eletrônica. Ainda não sei se a Aeterna o construiu, se ele se repara ou se a semelhança é acaso.
+
+— Uma máquina de carne — disse Gabo.
+
+— Uma hipótese — disse Nise. — A amostra vai para exame, não para dentro de outro servidor.
+
+— E se ela se espalhou?
+
+— Precisamos descobrir. — Barros fechou o frasco na cápsula secundária, descontaminou o exterior e colocou tudo na caixa rígida de transporte. A amostra ficaria isolada, com registro de quem a tocasse.
+
+---
+
+Gabo se levantou apoiado na parede. A cicatriz das costas — a linha vertical de onze centímetros onde o cirurgião entrou para remontar as lombares dele — pulsou.
+
+Foi uma dor curta e funda, do tipo que ele já conhecia e classificava como fantasma. Foi a primeira vez que ele considerou, por um segundo e meio, que talvez não fosse fantasma coisa nenhuma. Ele não falou isso em voz alta.
+
+— A gente tem que sair daqui — ele disse. — Vilar, evacuação total, e a Torre fica interditada. Ninguém entra, nem com mandado.
+
+— O fogo matou aquela coisa — disse Vilar.
+
+— Pode haver mais disso em outros prédios — disse Gabo, olhando para a porta selada. — Se passou pela água de refrigeração, precisamos descobrir quais circuitos se ligavam a este e colher amostras.
+
+Vilar ficou branco.
+
+- Quantos prédios?
+
+Ninguém respondeu. Do lado de fora, o vento empurrou a fumaça contra a janela e, por um instante, o corredor inteiro cheirou a carne queimada.

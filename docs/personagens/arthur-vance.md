@@ -2,7 +2,7 @@
 
 ![Arthur Vance](/personagens/arthur.png)
 
-* **Status:** Fundador da Aeterna S.A. em 1995, reorganiza o grupo e entra em estase 2029. Desperta 45 após 23 dias sem pulso. Perda presumida no ataque 72, conhecida pelo arquivo 233; corpo não recuperado.
+* **Status:** Fundador da Aeterna S.A. em 1995, reorganiza o grupo e entra em estase 2029. Desperta 46 após 23 dias sem pulso. Perda presumida no ataque 73, conhecida pelo arquivo 236; corpo não recuperado.
 * **Alcunha:** "O Imperador".
 * **Idade:** 101 anos de calendário em 2056;74 na entrada de 2029. Aparência 43 após tratamentos de rejuvenescimento e manutenção biológica, não apenas eletroestimulação.
 * **Altura:** 1,88 m
@@ -23,7 +23,7 @@
 A atribuição de toda a máquina a Arthur é limitada pelo arquivo da Arca Zero: a rubrica distingue quem financiou a infraestrutura de quem renovou cada autorização. Separar responsabilidades não inocenta o fundador nem transforma Krell no autor de todas as escolhas alheias.
 
 * **Arthur Vance é o arquiteto do prédio.** Fundou a empresa de cuidado perpétuo, escreveu o Protocolo N.O.A., construiu a Arca e o exército. Pensava em território, ordem e obediência.
-* **Viktor Krell renova e explora as autorizações.** Entrou no jurídico, converteu contratos em instrumentos de extração e manteve a vigilância documentada em 227/228. Arthur já autorizara infraestrutura e programas antes da estase; dormir não o tornou inocente. A rubrica de Krell prova atos atribuídos a ele, sem absorver a autoria de todos os crimes dos demais.
+* **Viktor Krell renova e explora as autorizações.** Entrou no jurídico, converteu contratos em instrumentos de extração e manteve a vigilância documentada em 229/230. Arthur já autorizara infraestrutura e programas antes da estase; dormir não o tornou inocente. A rubrica de Krell prova atos atribuídos a ele, sem absorver a autoria de todos os crimes dos demais.
 
 **Os Leviatãs não chegarem não é fio solto: é a tese.** Das 38 unidades, 18 apodreceram alagadas por juntas de vedação com vida útil de 25 anos que ninguém desceu para trocar, 9 emperraram e 3 pararam na subida. **Oito partiram.** O Imperador acordou para conquistar uma cidade que já tinha sido devorada por um predador melhor, e o exército dele foi derrotado pela própria corrosão antes de ver a superfície.
 
@@ -41,9 +41,9 @@ A obra tem duas famílias destruídas pela decisão de um pai, e elas se reflete
 * **1995:** Aos 40, funda a Aeterna S.A. funerária com mais quatro sócios. Elara nasce 1990, Silas 1996.
 * **2024:** Elara 34 audita o Lázaro; Krell 18 entra no jurídico. Arthur autoriza infraestrutura e programas que depois serão ampliados; não é inocentado por dormir.
 * **2029:** Aos 74, reorganiza o grupo, entra na Arca N.O.A. a 4.000 m, com 38 unidades e pulso de presença de seis em seis horas. Há cápsula de ascensão operacional.
-* **Capítulo 45:** Depois de 23 dias sem pulso da Torre, desperta. Vinte e sete anos de sono, corpo de aparência 43 e manutenção deteriorada. A liberação dos hangares consome dias. Oito unidades partem.
-* **Capítulos 46-48:** Chegada no oitavo dia do Dilúvio. Duas unidades se perdem na aproximação, seis chegam. Não confundir essas máquinas com o lançador Leviatã abandonado 25.
-* **Capítulo 72:** Ataque orbital desviado para o setor oceânico atinge a infraestrutura de Ponto Zero. Não há confirmação de ocupantes recuperados.
-* **Capítulo 233:** Série de transmissões termina no dia 96 após o despertar, coincidente com o ataque 72. Arthur rejeitou sair como refugiado. Última mensagem tenta absolver Elara; ela pede publicação integral e recusa. Não há seis anos adicionais, parada cardíaca atestada ou corpo preservado recuperado.
+* **Capítulo 46:** Depois de 23 dias sem pulso da Torre, desperta. Vinte e sete anos de sono, corpo de aparência 43 e manutenção deteriorada. A liberação dos hangares consome dias. Oito unidades partem.
+* **Capítulos 47-49:** Chegada no oitavo dia do Dilúvio. Duas unidades se perdem na aproximação, seis chegam. Não confundir essas máquinas com o lançador Leviatã abandonado 25.
+* **Capítulo 73:** Ataque orbital desviado para o setor oceânico atinge a infraestrutura de Ponto Zero. Não há confirmação de ocupantes recuperados.
+* **Capítulo 236:** Série de transmissões termina no dia 96 após o despertar, coincidente com o ataque 73. Arthur rejeitou sair como refugiado. Última mensagem tenta absolver Elara; ela pede publicação integral e recusa. Não há seis anos adicionais, parada cardíaca atestada ou corpo preservado recuperado.
 
 ---

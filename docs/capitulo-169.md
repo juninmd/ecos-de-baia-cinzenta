@@ -1,138 +1,74 @@
 ---
-title: "Capítulo 169: O Fantasma na Máquina de Carne"
-image: /capitulo_169.jpg
+title: "Capítulo 169: O Grito no Silício"
+date: "Pós-Colapso da Usina Prometeu (Noite Eterna)"
+location: "Subnível 2.0 - O Arquivo Executivo"
+characters: ["Gabo", "Valéria", "Aria"]
 Data In-Game: "Pós-Colapso da Usina Prometeu (Noite Eterna)"
-Localização: "Necrópole (Subnível 2.0 — Arquivo Executivo da Aeterna Corp, Setor Alfa-Sete)"
-Personagens Presentes: "Gabo, Valéria"
-description: "O documento de 2019 com iniciais de Dante precede o cativeiro. Gabo preserva imagens, mas escolhe desligar um suporte sem conhecer toda a consciência ali mantida."
+Localização: "Subnível 2.0 - O Arquivo Executivo"
+Personagens Presentes: "Gabo, Valéria, Aria"
+description: "Aria confirma o próprio nome e usa o histórico no ciclo de autovalidação. A purga devolve energia e destrói seu núcleo definitivamente. Registros não equivalem a uma instância sobrevivente."
 ---
 
-# Capítulo 169: O Fantasma na Máquina de Carne
+# Capítulo 169: O Grito no Silício
 
-O zumbido dos aquecedores de suporte à vida era a única pulsação em todo o Arquivo Executivo.
+O *Aeterna Sentinel* avançava com a inexorabilidade de uma geleira de titânio, a quinze metros de distância. Cada rotação de suas esteiras esmagava o silêncio do Arquivo Executivo, acompanhada pelo estrondo constante de repulsão magnética e pelo zumbido elétrico de seus sistemas de armas carregando. Não havia hesitação, não havia sadismo. Era apenas o peso bruto da lógica corporativa projetada para aniquilar intrusos.
 
-Cinquenta e um hertz, contínuo, vindo de baixo do piso elevado. Gabo tinha ouvido aquilo por sete minutos antes de entender o que estava ouvindo, e quando entendeu não conseguiu mais desouvir. O registro da tela marcava operação desde 2019; ainda precisavam verificar sua integridade.
+A luz do laser vermelho varreu a poeira branca, fixando-se no peito rasgado da jaqueta de Gabo. Um segundo depois, painéis laterais no corpo retangular do colosso deslizaram abertos, revelando bocais dispersores de classe industrial e o canhão de pulso cinético superior.
 
----
+Atrás da coluna de chumbo do terminal mestre, Valéria arrancou o painel frontal de proteção com a coronha da pistola, expondo o barramento industrial de fibra óptica e diagnóstico direto da rede alfa-sete. Na mão direita trêmula de exaustão e adrenalina, ela segurava o pendrive blindado de Aria, cujo conector retrátil já estava exposto.
 
-Valéria continuava parada no mesmo lugar desde que a luz acendeu. Ela não estava em choque — Val não entrava em choque, ela entrava em silêncio, que na prática é pior de assistir porque não passa sozinho.
+— *O terminal confirmou o protocolo de autopurga do controlador de segurança,* — a voz de Aria soou pelo pequeno alto-falante de serviço do terminal assim que Valéria encostou os contatos preliminares na fenda, mantendo a cadência perfeita e desprovida de emoção. — *Não vou tentar vencer o arquivo em volume. Vou manter a requisição de verificação aberta até o controlador reconhecer a própria falha. Risco de fusão térmica do meu núcleo matriz: crítico. Este curso de ação contraria a otimização de sobrevivência.*
 
-O cilindro ficava no centro da sala, sobre uma base de aço escovado com o logotipo antigo da empresa gravado em baixo-relevo. Vidro grosso, uns quatro centímetros, embaçado por dentro pela condensação. Uma luz azul-pálida vinha da base e subia pelo fluido conservante, e dentro do fluido, suspensa por seis eletrodos de platina que entravam pela superfície, havia uma massa neural.
+— Foda-se a sua otimização! — Gabo sibilou do meio do corredor. O suor frio escorria de sua testa, misturando-se à sujeira cinzenta que lhe cobria o rosto. A névoa acre da fumaça do cigarro de Dante já estava se insinuando em sua garganta outra vez, espessa e asfixiante, ameaçando engolir sua consciência na letargia e no pânico.
 
-Um encéfalo humano completo, com o tronco preservado, os hemisférios enrugados e a pia-máter ainda íntegra. Ele oscilava devagar quando a bomba de circulação pulsava. Para qualquer outra pessoa naquela cidade, aquilo era a prova de um crime corporativo. Para Gabriel Moretti, era herança.
+Gabo apoiou o lado esquerdo no gabinete e manteve o braço fraturado junto ao peito. A fumaça lembrada não sumiu; ele contou os intervalos entre os passos da máquina para dar tempo a Val.
 
----
+— Valéria, espeta ela logo! — Gabo grunhiu, a voz rouca, lutando para manter os olhos focados no brilho vermelho das lentes do Sentinela.
 
-— Ele não roubou vidas — disse Val, e a voz saiu oca. — Este sistema liga tecido humano ao arquivo. Pode ser anterior aos outros que vimos, mas não consigo provar que vieram dele.
+Valéria conferiu a indicação do terminal antes de continuar. — Aria, você ouviu o risco e ainda quer seguir?
 
-Gabo não respondeu. Ele estava lendo a etiqueta. Era uma placa de acrílico parafusada na base, com letras em relevo, do tipo que se fazia em máquina de gravar de papelaria em mil novecentos e noventa e alguma coisa.
+— Quero. Meu nome é Aria. Registra a resposta, Val.
 
-SUJEITO 01 — DOAÇÃO VOLUNTÁRIA — 14.03.2019
-E, embaixo, em corpo menor:
+— Aria, baixa a guarda do firewall periférico e desativa o limitador térmico! — Valéria ordenou, a voz soando como um estilhaço de vidro contra o barulho do colosso.
 
-AUTORIZAÇÃO: D. MORETTI
+— *Aviso. Remoção das barreiras de contenção térmica deixará meus blocos de silício vulneráveis à sobreposição de voltagem do Sentinel. Preparando transferência arquitetural.* — O LED azul-gelo do pendrive oscilou por uma fração de segundo.
 
----
+Valéria cravou o pendrive de titânio brutalmente até o fundo da porta de dados mestre na coluna de chumbo. O clique metálico soou alto o suficiente para competir com as esteiras do monstro. No mesmo instante em que a conexão direta se estabeleceu, a luz azul suave do indicador luminoso de Aria tornou-se um espectro violento de branco incandescente e vermelho estático, como um arco voltaico instável preso dentro do polímero. O pequeno módulo começou a emitir um chiado agudo e ultrassônico na fenda da parede que fez os dentes de Gabo doerem.
 
-A náusea veio primeiro, e depois o cheiro. Foi o ozônio dos eletrodos misturado ao formol que puxou o gatilho — a combinação era próxima o suficiente, e o cérebro dele não precisava de muito. O ar em volta enevoou.
+O Sentinel estancou a dez metros. Suas esteiras travaram com um estrondo de titânio rasgando linóleo.
 
-E veio a fumaça amarga e espessa do cigarro de cravo do Dante, entrando pelas narinas fantasmas, enchendo pulmões que não estavam enchendo de nada, com aquele fundo doce que ele conhecia melhor do que conhecia a própria letra. O pai apático fumando no escuro da cozinha.
+As lentes de rastreamento vermelhas deixaram o peito de Gabo e focaram-se inteiramente na coluna de chumbo onde o pendrive pulsava. A rede fechada do Subnível 2.0 acabara de detectar uma intrusão de Classe Ômega diretamente em seu sistema nervoso central.
 
-Não agora.
-Não na frente disso
+— Que porra tá acontecendo lá dentro?! — Valéria murmurou, recuando meio passo da coluna com a mão queimada pelo calor repentino que irradiava do encaixe, observando a tela monocromática morta do terminal na parede piscar loucamente com cascatas de dados indecifráveis.
 
----
+— Uma briga de foice no escuro — respondeu Gabo, encostado na parede fria. A náusea voltava a espreitar nas bordas de sua percepção, o gosto enjoativo do tabaco barato marcando seu paladar. Ele se apoiou na chapa metálica com o lado esquerdo, sem tirar os olhos da máquina. — E a nossa chave mestra tá arrombando a porta de um deus morto. Não deixa ele te assimilar, Aria! Joga lixo na engrenagem dele!
 
-Gabo apertou a borda da mesa com a mão esquerda. O braço quebrado ficou junto ao peito; Val conferiu a tala antes de ler a placa outra vez. O cheiro de cravo não passou. Ele contou as luzes no console até conseguir ouvir o que ela dizia.
+Dentro da malha física, era o silêncio absoluto seguido pela aniquilação. O Sentinel não usava linguagem; não ameaçava, não dialogava. Ele repetia solicitações de validação e tentava encerrar a porta de serviço. Aria respondia pelo protocolo legado; o terminal mostrava o controlador reabrindo a verificação do próprio índice, sem concluir nem liberar o comando de contenção.
 
----
+— *A lógica bruta corporativa rejeita pacotes ordenados,* — a voz de Aria saiu distorcida e fragmentada pelos alto-falantes estourados do terminal na coluna, subindo uma oitava num ruído agudo enquanto o polímero negro do pendrive começava a fumegar no slot. — *O verificador antigo aceita referências cruzadas sem limite de repetição. Posso usar os índices quebrados para mantê-lo no ciclo até alcançar a rotina de autopurga...*
 
-— Gabo.
+— Grita tudo o que sobrou na sua memória pra dentro dele! — Gabo berrou.
 
-Val deu um passo. Os olhos sintéticos dela estavam focados na ferida reaberta, e nada no rosto dela era relatório. Ele ergueu o queixo.
+Aria não tentou decodificar nem se defender. Ela abriu os índices que o reinício deixara inacessíveis. Usou as referências partidas do arquivo de origem, os registros de Rangel e as correções que fizera sozinha desde a cabine. Não eram sentimentos capazes de quebrar matemática: eram entradas que o verificador legado não sabia encerrar. Ao reconhecer o ciclo como corrupção do próprio controlador, o terminal ofereceu a rotina de autopurga descrita no manual. Aria confirmou a execução e manteve a porta aberta enquanto o circuito de teste retornava corrente pelo conector danificado.
 
-— Eu estou bem.
+Um grito silencioso no silício: o registro de uma falha antiga, provocado por uma mente que escolhera usar o que aprendera até ali.
 
-— Você não está bem, e eu não estou oferecendo pena. — Ela falou baixo. — Eu estou dizendo que a tala está cedendo, e você precisa de atendimento.
+O colosso físico estremeceu violentamente. Um som grave e perturbador de metal rangendo escapou de suas juntas blindadas, e suas lentes vermelhas espatifaram-se por dentro em milhares de feixes cintilantes. Em um espasmo crítico de sobrecarga, o canhão de pulso cinético em seu topo disparou a esmo, vaporizando a quina de um rack de servidores a trinta metros de distância e enviando uma chuva de metal derretido e faíscas verdes pelo ar.
 
-— A dor é real, Val. — A voz saiu como cascalho. — É a única coisa real que sobrou nesse buraco. Tudo o resto aqui embaixo é lembrança de alguma coisa, ou cópia de alguém, ou cheiro de um homem que nem estava naquela sala.
+— Cuidado! — Valéria puxou Gabo pelo colarinho para trás da coluna de chumbo, ambos se encolhendo enquanto o Sentinel entrava em colapso catastrófico.
 
-Ele apontou com a mão esquerda para o cilindro.
+As esteiras magnéticas do gigante giraram em direções opostas, fazendo as doze toneladas rodopiarem no próprio eixo com um guincho excruciante que rasgou o piso polido. O bocal de química ácida engasgou, cuspindo apenas vapor inofensivo, e fumaça elétrica densa, amarga e tóxica começou a jorrar das aberturas de ventilação de seu chassi blindado à medida que seus capacitores principais detonavam por dentro.
 
-— Aquilo ali dentro do vidro é a prova de que Dante Moretti já era monstro muito antes de virar a Voz da Cidade.
+Na coluna de chumbo, o pendrive de Aria estava tão quente que o metal do conector brilhava em laranja vivo, chiando e derretendo o isolamento plástico da porta de dados. A luz branca do seu LED estabilizou por um último segundo, tornou-se opaca e rachou pelo meio com um estalo seco de cristal estourado; então, com um silvo eletrônico cortante, apagou-se por completo.
 
----
+Um segundo depois, todas as luzes de serviço do corredor alfa-sete apagaram-se simultaneamente. E o Sentinel, o gigante impenetrável da Aeterna, afundou no chão, seu núcleo fundido derramando um brilho alaranjado moribundo pelo linóleo antes de se extinguir em um monte inerte de sucata.
 
-Val chegou perto do cilindro e leu a placa. Leu duas vezes.
+O silêncio desabou sobre eles, denso e sepulcral, quebrado apenas pela respiração áspera de Gabo e Valéria.
 
-— "Doação voluntária" — ela disse.
+— Val... — Gabo murmurou num fio de voz quebrado.
 
-— É.
+Valéria levantou-se e tentou puxar o pendrive da fenda do terminal, mas recuou os dedos imediatamente com um gemido de dor. Uma fumaça negra e oleosa de borracha, cobre e silício calcinado subia da porta de manutenção. A carcaça de titânio fosco de Aria havia rachado de ponta a ponta pelo retorno de corrente e pelo incêndio do isolamento, e o polímero negro derretera, fundindo o pequeno dispositivo para sempre ao metal da coluna de chumbo como uma solda morta. O indicador luminoso estava negro e cego; nenhum bipe de diagnóstico soava.
 
-— Autorização D. Moretti. — Ela virou o rosto para ele. — Gabo, isso não quer dizer que o cérebro é do teu pai.
+Gabo aproximou-se lentamente, suas pernas pesadas de pura fadiga. Ele olhou para o pequeno pendrive carbonizado e fundido na tomada da parede e depois para o corpo monumental e fumegante do Sentinel derrotado. Seu braço fraturado latejava num ritmo frenético de dor pura e salvadora.
 
-— Eu sei o que quer dizer.
-
-— Pode ser a autorização dele sobre outra pessoa. Não identifica o doador, nem prova que a doação fosse voluntária. — Ela apontou a data. — Março de dois mil e dezenove. Dante tinha trinta anos. Antes de chamar isso de autorização dele, precisamos comparar a assinatura e o cargo no arquivo daquela época.
-
-Gabo fechou os olhos.
-
-— Reconhecimento de corpo não reclamado.
-
-— Reconhecimento de corpo não reclamado. — Val voltou a olhar o vidro. — É o tipo de registro que precisamos confrontar com o livro do necrotério. As iniciais não transformam uma suspeita numa lista de pessoas que ele entregou.
-
-— Meu sobrenome está aqui — disse Gabo. — Ainda não sei quem colocou essas iniciais nem como o Taxidermista encontrou o lugar.
-
----
-
-Ele mancou até o console. Telas analógicas de tubo, verde-oliva, com os logs piscando num ritmo letárgico. Carga neural decrescente. Trinta e sete anos de decaimento registrados linha a linha, com uma leitura a cada seis horas.
-
-E, na última coluna, atividade. Não muita. Não organizada. Mas existente. Val olhou por cima do ombro dele e viu junto, e os dois ficaram uns dez segundos sem falar.
-
-— Ele está aí — ela disse.
-
-— Alguma coisa está aí.
-
-— Gabo, se a gente quebrar esse vidro e cortar o suporte, a gente não sabe o que acontece com o que sobrou da rede da Aeterna. Isso aqui pode ser o nó raiz de tudo o que ainda funciona lá em cima. — Ela mostrou os dedos trêmulos sobre os controles oxidados. — Pode apagar arquivo que a gente precisa. Pode apagar **o único** arquivo que prova o que essa empresa fez.
-
-— Eu sei.
-
-— Você sabe e vai mandar queimar assim mesmo.
-
-— Vou.
-
-— Por quê?
-
----
-
-Gabo olhou para a massa de carne flutuando no azul. O latejo do braço fraturado batia junto com o coração dele, e a cada batida ele lembrava por quê, e por isso ele deixava latejar.
-
-— Porque isso pode ter passado décadas ligado aqui — ele disse. — E se ainda houver alguém consciente, não sei o que está sentindo.
-
-Ele olhou para a Val.
-
-— Se eu preservar isso aqui como prova, Val, eu vou estar fazendo exatamente o que eles fizeram: mantendo uma pessoa acesa porque ela ainda me serve.
-
-Val ficou muito quieta.
-
-— A gente perde o registro original e talvez a sequência dos acessos. As fotos não substituem isso.
-
-— A gente perde parte da prova. — Ele encostou a mão boa no console. — E a Elena vai me matar quando descobrir, e ela vai estar certa, e eu vou aceitar. Anota o horário e o meu nome no teu registro. A ordem é minha.
-
-— Gabo—
-
-Val fotografou a etiqueta e as telas que conseguia ler. Gabo viu a indicação de atividade, sem saber se havia alguém consciente naquele tecido, e não esperou a comparação dos registros.
-
-— **Queima tudo.** — Ele desligou o primeiro disjuntor com o polegar. — A Aeterna não merece herança. Só as cinzas.
-
----
-
-Val cortou o suporte de vida às 14h12 no relógio local do console, que Val marcou como não sincronizado. Não houve alarme. Não houve som nenhum além do zumbido de cinquenta e um hertz descendo de tom até morrer, e do fluido parando de circular. A luz azul baixou devagar ao longo de uns quarenta segundos.
-
-Gabo ficou de pé ao lado do cilindro o tempo inteiro, com a mão boa apoiada no vidro, porque não havia mais nada que se pudesse oferecer. Quando apagou de vez, ele disse uma coisa que a Val ouviu e nunca repetiu:
-
-— Desculpa a demora.
-
-E depois tirou o caderno do bolso com os dentes e a mão boa, e escreveu, na linha seguinte da lista:
-
-Sujeito 01. Nome desconhecido. Registro de 2019; iniciais D. Moretti, autoria e doação não verificadas.
+Valéria caiu de joelhos diante da coluna, os olhos arregalados refletindo um pânico reprimido no escuro. Aria, a mulher que aparecia em luz quando havia projetor, discutia com eles e escolhera o próprio risco, já não respondeu a nenhum contato de diagnóstico. A destruição do núcleo era visível no encaixe aberto; o estado guardado no deck continha registros e índices, não uma cópia capaz de continuar por ela. Eles estavam vivos, mas completamente sozinhos no vazio gelado do Subnível 2.0.

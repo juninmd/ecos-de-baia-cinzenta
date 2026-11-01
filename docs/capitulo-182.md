@@ -1,70 +1,88 @@
 ---
-Título: A Superfície Pálida
+Título: A Fome do Abismo
 Data In-Game: Indeterminada (Pós-Colapso da Aeterna)
-Localização: Distrito 4 (Superfície)
+Localização: Dutos de Escoamento Secundário, Distrito 4
 Personagens Presentes: Gabo, Valéria
 ---
 
-# Capítulo 182: A Superfície Pálida
+# Capítulo 182: A Fome do Abismo
 
-O corredor ascendente fedia a ferrugem antiga e urina ressecada, mas à medida que subíamos, o ar se tornava mais ralo e agressivo. A umidade sufocante do duto de escoamento foi substituída pelo toque áspero do vento carregado de toxinas. O suporte externo do meu braço, ainda desligado, rangia contra o arnês a cada passo.
+O lodo ácido agarrava-se às minhas botas como mãos de moribundos implorando por salvação. Deixamos a galeria superior e nos embrenhamos mais fundo nos dutos de escoamento secundário, onde o eco úmido dos nossos passos acompanhava o peso da armação. O atuador continuava desligado desde a galeria anterior.
 
-Quando finalmente cruzamos a grade retorcida que marcava o fim do poço de exaustão, o céu do Distrito 4 se abriu sobre nós como um hematoma putrefato.
+O ar ali embaixo era um caldo rançoso, denso com o cheiro de decomposição bacteriana e ozônio frio. Não era o fedor seco da superfície; era a respiração pesada de uma arcologia subterrânea que apodrecia de dentro para fora, vazando graxa e fluidos humanos pelas fissuras do concreto brutalista.
 
-As nuvens não eram apenas cinzas; carregavam um matiz ocre e doentio, iluminadas pelas raras descargas elétricas estáticas que cortavam o smog tóxico. A "Superfície Pálida", como o Fantasma havia chamado com razão. O vento não refrescava; ele fustigava a pele com uma poeira ácida que ardia nos olhos e deixava um travo de enxofre e cobre moído na boca.
+— Gabo... olha a leitura do barômetro — a voz de Valéria soou rente ao meu ouvido, trêmula e tensa.
 
-Parei sob o esqueleto de uma antiga passarela de pedestres, apoiando a mão esquerda — a de carne, a que ainda tremia de frio e exaustão — em uma viga de concreto esboroado. A chuva ácida havia dado uma trégua temporária, mas a névoa venenosa deixava uma camada viscosa sobre tudo. O horizonte não revelava a imponência predatória das torres de vidro da Aeterna Corp; aqui, estendia-se uma planície colossal de escombros industriais, carcaças de veículos enferrujados e esqueletos de fábricas têxteis que foram abandonadas décadas antes do grande dilúvio.
+Ela estava com o medidor de gases encostado na parede curva do duto. A luz azul dos filamentos de LED na franja dela projetava sombras compridas e fantasmagóricas no chão ensopado.
 
-Valéria subiu tossindo dentro da máscara. Os cartuchos retinham a poeira, mas o gosto cáustico continuava chegando. Ela manteve a vedação e conferiu o detector antes de escolher a lateral do corredor, onde o vento empurrava a névoa para longe. O cilindro restante ficou fechado na mochila: não alcançaria para os dois se gastássemos a reserva andando pela avenida.
+— A pressão atmosférica tá subindo — continuei andando, mantendo o braço de ferro colado à lateral do corpo para não raspar nos rebites enferrujados. — Estamos descendo rápido demais.
 
-— Santo inferno... — ela murmurou, a voz saindo abafada pela gola. — Parece que alguém pegou a cidade inteira, jogou dentro de um triturador de sucata e cuspiu os restos nesse descampado.
+— O barômetro sozinho não identifica o gás, seu cabeça-dura — ela puxou a manga do meu sobretudo com força, obrigando-me a estancar. — O detector está em alarme para gás combustível e há vazamento corrosivo no retorno. Não tenho análise para dizer tudo o que está no ar. Tem alguma câmara de decantação vazando bem na nossa rota. Se alguém acender uma faísca a cem metros daqui, essa galeria inteira vira um canhão de artilharia.
 
-— Bem-vinda à periferia fabril do Distrito 4 — falei, sentindo a junta mecânica do ombro esfriar com rapidez alarmante no vento úmido. — A Aeterna nunca gastou um crédito limpando o ar desse setor. Quando o mar subiu na Zona Sul, eles só empurraram a população sem registro pra cá e cercaram o perímetro com arame farpado.
+Nós dois ajustamos as máscaras e conferimos os cartuchos. O detector ainda apitava; mantivemos os cilindros de ar fechados como reserva de retirada. Dez passos depois, a tubulação abriu-se numa câmara de drenagem titânica, com mais de quarenta metros de largura.
 
-Valéria caminhou até a beirada da laje quebrada, olhando para baixo.
+O facho de luz da lanterna de Valéria varreu o espaço e nós dois travamos no mesmo milésimo de segundo.
 
-À nossa frente, uma avenida larga de asfalto estraçalhado cortava o mar de ruínas em direção ao norte. Não havia tráfego, nem sirenes de patrulha, nem o zumbido familiar dos drones de entrega que costumavam cruzar o céu em enxames pontuais. Havia apenas carcaças calcinadas de caminhões de transporte e pilhas monumentais de contêineres marítimos empilhados como peças de dominó derrubadas por um gigante bêbado.
+O chão, as colunas de sustentação e até o teto curvado estavam forrados por uma teia viva de filamentos carnudos e bioluminescentes do Jardim. A matéria fúngica escorria pelas paredes feito cera derretida de uma vela doentia, pulsando num azul hipnótico que iluminava o horror central da câmara.
 
-No topo de um prédio de três andares com a fachada desabada, um painel holográfico antigo da Aeterna piscava em espasmos de estática avermelhada. O projetor quebrado exibia repetidamente meio segundo de um anúncio dos tempos dourados: o rosto sorridente de uma mulher com dentes brancos demais ao lado do slogan: *'Respire o Futuro. Aeterna CleanAir® ao alcance da sua família'*.
+Suspensos a dois metros do chão, envoltos em casulos grossos de biomassa fibrosa, pendiam três catadores de sucata.
 
-Valéria soltou uma risada rascante e amarga, apontando para o painel com o dedo médio.
+Seus implantes clandestinos de mercado negro — conectores ópticos caseiros, braços mecânicos de segunda mão soldados com arame — haviam sido rasgados por tentáculos biológicos que se enfiavam direto nos pontos de solda neural. O tecido fúngico invadira as órbitas oculares e a garganta deles, pulsando em sincronicidade com os barramentos de cobre.
 
-— Olha que ironia primorosa, Moretti. O ar puro da família feliz enquanto a gente tá cuspindo fuligem de carvão. Dá vontade de dar um tiro no projetor só pra poupar o resto do mundo dessa vergonha.
+Eles ainda estavam vivos.
 
-— Guarda a pólvora, Val. Você vai precisar dela se a gente topar com mais saqueadores no cruzamento.
+Seus peitos subiam e desciam num ritmo lento, e havia controladores presos aos corpos; não sabíamos o que a ligação fazia com eles.
 
-Ela virou o rosto para mim. As olheiras escuras sob os olhos cibernéticos diziam duas noites sem carga decente. O cansaço dela era palpável, mas a faísca de desdém e teimosia continuava queimando firme.
+Um deles — um garoto magro, com o crânio rapado e cicatrizes de trepanação recente na têmpora — abriu um olho biológico injetado de sangue quando a lanterna de Valéria bateu no seu rosto. Um gemido oco, rouco, quase imperceptível de ar escapou de seus lábios cinzentos.
 
-— Eu não gasto munição com propaganda morta, detetive. Minha preocupação é esse seu joelho direito. Você tá arrastando a bota há dois quilômetros. O mancal da órtese da perna tá chiando tão alto que qualquer cão quimérico a trezentos metros já sabe que tem comida mancando no asfalto.
+Valéria deu um passo involuntário para trás, levando a mão à boca num reflexo de pura náusea e horror.
 
-— A trava da perna pegou terra no esgoto — respondi, tentando disfarçar o tremor nos músculos da coxa. — Mas ela aguenta até o entroncamento.
+— Meu Deus... Gabo... eles estão conscientes — a voz dela falhou, as lágrimas de choque brilhando na borda dos implantes ópticos prateados. — Olha os indicadores na têmpora do menino. Eles piscam junto com os controladores presos ao corpo, mas não sei o que está sendo transmitido. Ele abriu o olho quando a luz bateu; precisamos tratá-lo como alguém que ainda pode nos ouvir.
 
-— Deixa eu ver isso — ela se abaixou sem pedir licença, os joelhos tocando o asfalto sujo.
+Ela ergueu a pistola pesada com a mão trêmula, a mira laser tremendo sobre a cabeça do rapaz.
 
-— Valéria, não precisa...
+— Eu vou tirar ele disso. Não dá pra deixar um ser humano preso numa merda dessas...
 
-— Cala a boca, Gabo. Se você quebrar o pino de articulação no meio dessa avenida aberta, eu vou ter que arrastar você e o seu braço de guindaste nos braços, e as minhas costas já tão moídas da descida na Necrópole.
+Agarrei o cano da arma dela com minha mão de carne, empurrando-a para baixo com firmeza.
 
-Ela tirou uma pequena chave sextavada de dentro do bolso lateral da calça e enfiou-a direto na junta da órtese da minha perna direita. Com dois movimentos rápidos e precisos de quem entendia de mecânica de rua desde a adolescência, ela desobstruiu a bucha de teflon e reapertou o parafuso tensor.
+— Abaixa isso, Valéria! Agora!
 
-O alívio na pressão do joelho foi instantâneo. A tensão que repuxava meu quadril afrouxou vários centímetros.
+— Moretti, ele tá sofrendo! — ela sibilou entre os dentes, os olhos arregalados num desespero visceral, puxando a arma contra o meu aperto. — Olha pra cara dele! O garoto não tem vinte anos! Você quer que a gente passe reto feito covarde?
 
-— Melhor? — ela perguntou, erguendo a cabeça e me encarando de baixo com uma sobrancelha arqueada.
+— Olha pro teto! — rosnei, apontando com a mão de aço pesada para o detector em alarme e a névoa amarelada sob a abóbada de concreto. — Você mesma disse há dois minutos: metano concentrado. Um tiro de pólvora ou faísca elétrica agora e a onda de choque incendeia a câmara inteira. A gente queima vivo junto com eles em três segundos.
 
-— Parou de prender — admiti. O joelho ainda doía ao receber peso; ela limpara a junta, não a lesão. — Onde você aprendeu a regular órtese médica de modelo policial antigo?
+Valéria soltou o ar num soluço seco, o cano da pistola descendo devagar. Ela encarou o garoto suspenso nos filamentos, o queixo tremendo de raiva e impotência.
 
-— O meu tio usava uma igualzinha quando perdeu a perna nas prensas da Doca Seca — ela se levantou, limpando a ferrugem dos dedos na perna da calça. — Ele vivia reclamando que a clínica recebia peças reaproveitadas dos equipamentos da polícia, que travavam toda vez que chovia. Parece que vinte anos depois a corporação continuou economizando no mesmo fornecedor vagabundo.
+— Então a gente faz o quê? Assiste?
 
-Olhei para o horizonte em direção ao norte. Entre a névoa amarelada do smog, destacavam-se os arcos de aço monumental da Estação Ferroviária do Setor 7. As vigas enferrujadas subiam como as costelas de uma baleia encalhada no meio da cinza.
+— A gente abre caminho sem faísca — falei, puxando-a para trás da mureta de proteção da passarela. — Fica aqui e cobre os olhos.
 
-— A passagem que o Fantasma indicou cruza aquele ramal — apontei com a mão de metal pesada. — O complexo hidropônico fica logo abaixo daquela estação terminal. Se houver servidor ativo lá, precisamos confirmar pelo terminal. O que vimos nos catadores não localiza sozinho o comando da rede.
+Olhei acima da massa principal de fungos que bloqueava o arco de saída da câmara. Três metros acima do chão passava uma tubulação industrial de retorno, velha, coberta de ferrugem corrosiva e pingando uma água verde-esmeralda que fumegava ao tocar o piso. Resíduo de purga ácida das caldeiras antigas do Distrito 4.
 
-Valéria olhou para a silhueta das ruínas industriais, a respiração formando pequenas nuvens esbranquiçadas no ar frio.
+Afundei os pés no lodo da passarela, medindo o peso da minha armação de ferro.
 
-— O Silas morreu, mas a podridão dele continua crescendo feito erva daninha na sombra. A gente viu o que aquele fungo tava fazendo com os catadores lá embaixo, Gabo... Se o sistema hidropônico inteiro tiver sido infectado, aquilo não é mais uma estufa. É uma colmeia.
+— O que você vai fazer, Gabo? — Valéria sussurrou, encostada na parede.
 
-— Então a gente vai com cuidado — ajeitei a correia de *Caronte* por baixo do casaco, sentindo o peso familiar da coronha de madeira contra a minha cintura. — Se o Jardim tiver tomado o setor, a gente procura uma passagem que não dependa de atravessar as raízes. O arquivo que desligamos não é um destino para onde voltar às cegas.
+— O que o Vasco planejou pra essa sucata: trabalho braçal de cais.
 
-Valéria soltou um suspiro pesado, puxando o capuz da jaqueta para proteger os conectores temporais do vento cortante.
+A válvula de desvio ficava dentro de uma caixa aberta, ao alcance da passarela. O tubo corroído passava sobre a biomassa que bloqueava a saída; o ramal de manutenção, acima das nossas cabeças, ainda tinha uma placa de acesso lateral.
 
-— Queimar raiz com essa armação de trator e uma doze de cano serrado... — ela deu aquele meio-sorriso cínico que sempre me lembrava por que ela era a única pessoa na cidade que eu ainda confiava para cobrir minhas costas. — Plano brilhante, Moretti. Quase tão suicida quanto invadir a torre de Krell. Anda logo antes que o tempo mude e comece a chover ácido de verdade.
+— Não bate ferro em ferro aqui — disse Val. — Você ouviu o detector.
+
+Eu abaixei o braço antes de tentar o golpe. Usamos a chave revestida do estojo para mover o desvio e liberar a pequena portinhola lateral. O retorno corrosivo começou a vazar sobre a colônia ao fundo. O chiado não nos dizia o que matava, nem se alcançaria os três suspensos.
+
+Val levantou a câmera. Registrou a posição, os rostos e o ponto em que o ramal entrava na câmara. O menino acompanhou a luz com o olho aberto.
+
+— Tem alguém para chamar? — ela perguntou.
+
+Não havia resposta no rádio. Deixamos a passagem lateral marcada com tinta do kit e transmitimos a localização duas vezes. Fomos para o ramal acima do vazamento, sem atravessar a névoa como se o tecido na boca tornasse aquilo seguro.
+
+Puxei o ar com dificuldade, a dor no ombro fazendo minha visão tremer em tons de amarelo.
+
+— Valéria! — chamei, a voz áspera pela fuligem química. — A passagem lateral está aberta. Não desce para o vazamento!
+
+Valéria atravessou pela abertura lateral, mantendo a máscara vedada e o cyberdeck junto ao corpo. Ela olhou para o garoto suspenso uma última vez. Os filamentos que o prendiam tremiam com a dor da colônia, mas o menino fechou o olho biológico, como se a escuridão fosse o único alívio que Baía Cinzenta tinha para lhe oferecer.
+
+— Desculpa... — Valéria murmurou para a sombra do rapaz, antes de seguir pelo ramal de manutenção acima da câmara.
+
+Segui pelo ramal logo atrás dela, tentando ouvir o rádio por cima do chiado. Não chegou confirmação de resgate; a marca e o registro não tiravam ninguém dos casulos. Não olhei para trás. A cidade cobrava pedágio em vidas humanas em cada esquina, e nós dois só tínhamos conseguido pagar o nosso por mais algumas horas.

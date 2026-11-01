@@ -1,148 +1,149 @@
 ---
 layout: doc
-title: "Capítulo 44: O Que Saiu do Ralo"
-description: "Dois cartuchos, cinco criaturas e uma escolha entre duas caixas. No depósito da Alfândega, Gabo descobre o que a Aeterna fazia com quem sobrava."
-image: /capitulo_44.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti
-Localização: "Depósito da Alfândega, Cais Três — Nível 20"
+title: "Capítulo 44: Água Negra"
+description: "O Dilúvio não foi só água. Gabo descobre que a enchente foi rota de entrega, e paga por isso com a menina do casaco amarelo."
+image: /cenas/capitulo_44/cena_1.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Valéria "Val" Cruz, Dra. Nise, Clara Moretti, Capitão Jonas Vilar
+Localização: "Delegacia Central do Setor 4, terceiro dia de chuva"
 ---
 
-# Capítulo 44: O Que Saiu do Ralo
+# Capítulo 44: Água Negra
 
-Depósito da Alfândega, Cais Três — Nível 20.
-O depósito era um labirinto de contêineres empilhados em quatro alturas, e a água tinha entrado só até o meio do primeiro nível, o que fazia daquele o lugar mais seco de Baía Cinzenta e o pior lugar do mundo. Elena prendeu o bote entre os pilares da entrada de carga. Gabo permaneceu sentado, com a perna apoiada e a Caronte sobre a borda; não atravessaria o depósito a pé. Ela seguiria pelas passarelas para buscar as caixas.
+Delegacia Central do Setor 4, terceiro dia de chuva.
+O aviso de Valéria chegou tarde demais para alguns.
 
-A lanterna tática dela varria o corredor entre as pilhas e não alcançava o fim. A dele estava presa no cano da *Caronte*, apontando para onde a escopeta apontava, que é como se anda quando se tem dois cartuchos e nenhuma vontade de descobrir o que há atrás da esquina. Dois cartuchos. Ele tinha checado três vezes na travessia. A quarta seria confissão.
+Gabo soube disso pelo cheiro antes de saber pelas palavras. A antiga sala de descanso dos oficiais tinha cheirado a pé, café requentado e desinfetante barato por vinte anos, e ele conhecia aquele cheiro do jeito que a gente conhece o cheiro da própria casa — sem nunca ter reparado nele.
 
-— Ali — disse Elena, baixinho. O feixe parou num contêiner marcado com uma cruz vermelha desbotada e um lacre da Alfândega. — Cruz vermelha. Suprimento médico apreendido.
+Agora cheirava a metal.
 
-— Quantos daqueles você está vendo?
+Não era sangue. Sangue tem um fundo doce, quase de moeda velha, e ele já tinha sentido esse o bastante para não confundir. Aquilo era mais seco. Mordia o fundo da garganta e ficava lá, como se alguém tivesse aberto uma lata de tinta e uma vala ao mesmo tempo.
 
-— Uns quarenta.
+Cinco colchões no chão. Cinco crianças.
 
-— Ótimo — disse Gabo. — Então é só um trabalho de arquivo com água até o joelho.
+Elas vomitavam um líquido preto que não era vômito, e as bacias de plástico ao lado de cada colchão já estavam com o fundo manchado de uma película que não saía com pano. A pele delas tinha ficado da cor do papel que fica muito tempo na gaveta. Sob a pele, as veias apareciam escuras e desenhadas demais, como raízes vistas por baixo do vidro.
 
-O telhado era de zinco e a chuva batia lá em cima num rufar constante, sem intervalo, que apagava todo o resto. Foi por isso que eles não ouviram nada até ouvir a única coisa que aquele som não conseguia cobrir: metal sendo rasgado. Não amassado. **Rasgado**, longo e agudo, como uma lata de sardinha abrindo do tamanho de uma porta. Gabo levantou a mão fechada. Os dois pararam.
+Clara estava de joelhos entre dois colchões, trocando uma compressa, e não levantou a cabeça quando o irmão entrou.
 
-O cheiro chegou depois — e era o detalhe que ia acordar Gabo de madrugada nos anos seguintes, porque não era cheiro de bicho. Bicho cheira a bicho. Aquilo cheirava a enfermaria: iodo, gaze velha e o adocicado inconfundível de pele que ficou coberta tempo demais.
+— Não fica aí parado — ela disse. — Ou você segura a bacia, ou você sai.
 
-Alguma coisa se moveu na água à frente. O movimento estava errado. Rápido demais para o tamanho, e fluido demais para ossos — sem aquele meio segundo de decisão que todo corpo grande gasta antes de mudar de direção. Uma forma emergiu de trás de um contêiner.
-
-Era humanoide. Pele cinza-lavada, sem pelo nenhum, esticada sobre uma caixa torácica larga demais. No pescoço, três fendas se abrindo e fechando com um estalo úmido a cada respiração. Os olhos eram inteiramente negros, sem esclera, e refletiam a lanterna como olho de peixe na feira.
-
-— O que é isso — sussurrou Elena.
-
-A coisa sibilou. E foi aí, quando ela virou o rosto para a luz, que a noite deixou de ser uma noite de monstro.
-
-O rosto estava distorcido, sem nariz, com a mandíbula empurrada para a frente — mas ainda era um rosto. Havia uma sobrancelha. Havia uma cicatriz antiga de cirurgia no lábio, compatível com uma cirurgia antiga de lábio. E, no ombro, uma tatuagem desbotada de tinta azul, letra cursiva, feita à mão numa banca de esquina:
-
-Mamãe.
-Vestia restos de uma túnica de paciente. O cordão ainda tinha a etiqueta de plástico, e na etiqueta havia um código, e Gabo já tinha visto aquele prefixo em papel timbrado. Ele baixou a arma um segundo perigoso.
-
-— Meu Deus.
-
-— Gabo—
-
-— Eles não são bicho novo, Elena. — A voz saiu rouca. — A etiqueta parece usar o prefixo dos registros de pacientes da Aeterna. Pode ser alguém daquela ala. Não sei o que fizeram com essa pessoa.
-
-— E quando a água subiu... — Elena estava com a câmera na mão. Ele nem tinha visto ela sacar.
-
-— Essa pessoa sobreviveu na água.
-
-— Vou guardar a foto e o código — disse Elena. — Não sabemos ainda de onde veio.
-
-O flash disparou. E, na fração de segundo em que o depósito inteiro ficou branco, Gabo lembrou do homem da Companhia de Águas tremendo no banco de trás do Cobalt, três dias antes, dizendo *aquilo foi operado*. A simulação de Val ligava a sequência das comportas ao caminho da água pelo complexo. O prefixo podia ser outra ligação; não provava de onde essas pessoas tinham saído, nem quem operara as comportas.
+Gabo segurou a bacia.
 
 ---
 
-Naquele momento Gabo teria dado o braço esquerdo para que a Elena Moretti fosse uma pessoa ligeiramente pior. O flash pintou o corredor inteiro de branco por um décimo de segundo, e no branco apareceram os outros. Três. Não: cinco. Agarrados na lateral dos contêineres a dois metros de altura, com os dedos enfiados nas nervuras da chapa, imóveis, na posição em que lagartixa espera mosquito. Eles estavam ali havia um tempo.
+A Dra. Nise trabalhava numa mesa de canto sob a única lâmpada que o gerador ainda aguentava, com uma lâmina de microscópio na mão e os óculos empurrados para a testa. Chegara com o comboio resgatado depois do cerco e permanecera no atendimento; agora tentava trabalhar entre água contaminada, material escasso e crianças que pioravam depressa.
 
-— Elena — disse Gabo, muito calmo. — Você fotografou.
+— Não é cólera — ela disse, sem se virar. — Eu queria que fosse cólera. Uma causa conhecida pelo menos permitiria escolher os recursos de que preciso.
 
-— Eu tinha que fotografar.
+— Então é o quê?
 
-— Eu sei. — Ele soltou uma amarra para afastar a proa com o remo, usando o apoio da borda. — Agora corre para a cruz vermelha e não olha para trás. Eu seguro.
+— Suspeito de intoxicação, e ainda não excluí infecção. — Ela ergueu a lâmina contra a lâmpada. — O microscópio mostra partículas; não identifica sozinho um composto ou sua origem. Preciso de análise que não temos e de suporte que está acabando. Não vou dar nome de certeza ao que ainda estou investigando.
 
-— Com dois cartuchos?
+Gabo olhou para os colchões. Uma das crianças tinha parado de vomitar e isso era pior.
 
-Ele nem virou a cabeça.
+— A Aeterna — ele disse.
 
-— Quem te contou?
+— Nem toda desgraça precisa de sobrenome, detetive.
 
-— Ninguém me conta nada, Gabriel. Eu **conto** — ela disse, e foi.
+— Essa precisa. — Ele apontou o queixo para a janela, para o rio marrom que tinha sido a Rua da Alfândega. — Aquela água passou por cima dos tanques de decantação do subsolo da Aeterna. Passou por dentro. E alcançou os recipientes que usamos para recolher chuva. A gente não conferiu os baldes.
 
----
+Nise finalmente se virou. Os olhos dela eram gentis e não tinham nenhuma piedade sobrando.
 
-A primeira saltou e Gabo não atirou. A criatura bateu na borda, e Gabo empurrou o remo atravessado contra seu rosto, usando o banco e o tronco como apoio, e a coisa bateu na chapa do contêiner com um estrondo de tambor e caiu na água. Não gritou. Levantou.
-
-A segunda veio baixa, por dentro da água, e essa ele não viu chegando. Sentiu a mordida no antebraço esquerdo antes de entender que tinha alguma coisa encostada nele. Não foi uma dentada de cachorro, de fechar e soltar. Foi uma dentada de tubarão pequeno: fechou, e girou.
-
-O mundo ficou vermelho e branco por um segundo. Elena voltou ao ouvir o grito e atingiu o rosto da criatura com o gancho da amarra, permitindo que Gabo tirasse o braço. Ela soltou. Ele não olhou o braço, porque olhar o braço é como se perde tempo, e porque ele já sabia pela temperatura da manga o tamanho aproximado do problema.
-
-— **PEGA A CAIXA!**
-
-— Tem quatro! — gritou Elena, de algum lugar entre as pilhas. — Gabo, tem quatro caixas, tem insumos farmacêuticos, tem antibiótico, tem soro e material de suporte—
-
-— **QUAL É A MAIS PESADA?**
-
-— O quê?!
-
-— QUAL É A QUE VOCÊ NÃO CONSEGUE CARREGAR?
-
-Silêncio de dois segundos, o barulho da chuva no zinco, e a resposta veio no tom de quem entendeu a pergunta inteira:
-
-— O carvão.
-
-— Então deixa o carvão.
-
-Ele disse isso e ouviu a própria frase existir no mundo, e soube, com a clareza de um homem que já assinou dezenas de laudos, exatamente quantas crianças aquela frase custava. A requisição continha recursos diferentes, sem antídoto universal. Gabo não sabia o que faria falta a qual criança. Escolher pela caixa que conseguiam transportar, sem saber essa resposta, lhe pareceu uma confissão.
-
-— **O QUE CONSEGUIR LEVAR SEM MOLHAR! ANDA!**
+— Então trate de conseguir insumos de grau farmacêutico, soros e o material de suporte desta requisição, e trate de conseguir hoje, porque eu não tenho nem uma coisa nem outra e há crianças piorando a cada hora. Não tenho como prometer um prazo.
 
 ---
 
-Ele usou o primeiro cartucho na terceira criatura, à queima-roupa, porque ela veio de frente e ele não tinha mais braço esquerdo para bloquear. Chumbo grosso a um metro e meio faz um serviço definitivo. A coisa desabou sentada, encostada num contêiner, do jeito estranhamente humano que os corpos às vezes escolhem, e ficou ali com a cabeça pendendo e a etiqueta de plástico boiando ao lado.
+Valéria estava no corredor, sentada no chão com o deck no colo e as costas na parede, e não tinha dormido. Dava para ver pela maneira como ela piscava: devagar demais, como quem fecha o olho e considera não abrir mais.
 
-Sangue azul-acinzentado se espalhou na superfície como óleo diesel. As outras pararam. Não recuaram — **pararam**. Todas ao mesmo tempo, e viraram a cabeça na mesma direção, e Gabo, que passara catorze anos aprendendo a ler um cômodo, entendeu o que estava vendo e desejou não ter entendido. Elas estavam olhando para a morta. Uma delas se aproximou do corpo, encostou a testa nele e ficou assim.
+— Gabo. Senta.
 
-— Ah, não — disse Gabo. — Não, não. Não faz isso.
+— Eu estou com pressa, Val.
 
-Porque monstro a gente atira. Monstro não fecha o círculo em volta do corpo do outro monstro. O luto durou quatro segundos. Depois todas se viraram para ele ao mesmo tempo, e não havia mais nada de humano na coreografia daquilo.
+— Senta.
 
----
+Ele sentou. Ela virou a tela. Um mapa da cidade, em traço fino, com três pontos vermelhos onde ficavam as comportas do Distrito Baixo, e uma linha que descia do primeiro ponto até um retângulo cinza embaixo do Distrito Industrial.
 
-Gabo manteve o segundo cartucho. Elena voltou ao comando da porta de carga por onde tinham entrado. A corrente manual estava à vista desde a entrada. Puxou-a até a folha descer entre o bote e as criaturas.
+— Você me pediu para descobrir quem operou a comporta. Eu não descobri. — Ela esfregou os olhos com a base da mão. — Descobri uma coisa pior. Eu descobri a **ordem**.
 
-Uma delas tentou passar o braço por baixo; Elena não conseguiu ver se o recolhera quando a chapa tocou a água. Gabo soltou a última amarra. Ela alcançou o motor com duas caixas protegidas na proa. Saíram antes de conferir o que tinham deixado junto da porta.
+— A ordem.
 
-Passaram o portão do depósito rasgando a água. Gabo ficou deitado no fundo do bote, com o braço esquerdo apertado contra o peito, olhando o teto de zinco correr para trás. Sentia a manga colada na pele e o calor saindo dela num ritmo constante que não era bom.
+— As três não abriram juntas. — O dedo dela seguiu a linha na tela. — Abriu a de Leste. Quarenta e um minutos depois, a Central. Vinte e dois minutos depois, a de Oeste. Eu passei a madrugada considerando uma falha em cascata, que uma puxou a outra. Rodei a topografia, mas o modelo não descarta essa possibilidade. — Ela parou. — O levantamento é da própria prefeitura, de quarenta e um, e a vazão eu tirei do marégrafo do Cais Dois, não de notícia de rádio. É modelo, não é laudo. Com os parâmetros disponíveis, essa sequência explica o percurso. Ainda preciso conferir os horários com outro registro e testar as margens. Nessa simulação, com essa ordem, a coluna d'água entra pelo subsolo do complexo da Aeterna, sobe pelos tanques de decantação, e sai pelo lado norte. As outras sequências que testei mudam o escoamento. Isso sustenta investigar uma operação dirigida; não identifica quem operou nem exclui todas as falhas.
 
-Elena olhou para o braço uma vez e não disse nada, e depois olhou para a frente e disse o que precisava ser dito, que é uma coisa que ela sempre soube fazer melhor que ele:
+Gabo demorou a entender, e quando entendeu foi como pisar num degrau que não existia.
 
-— Duas caixas.
+— Val, você está me dizendo que a enchente foi—
 
-— Duas caixas.
+— Eu estou dizendo que a hipótese é que usaram a enchente como **caminhão**. — A voz dela saiu fina. — Alguém precisava esvaziar aquele subsolo sem assinar nada. E usou o oceano para fazer a entrega.
 
-— A Nise vai perguntar do carvão.
-
-— Vai.
-
-— O que você vai dizer?
-
-Gabo fechou os olhos.
-
-— A verdade. Que eu escolhi.
-
-A chuva batia na cara dele, gelada, e por um segundo pareceu limpa, o que era mentira.
+Do outro lado da parede, na enfermaria, uma criança começou a chorar e parou no meio, e o silêncio depois disso foi de um tipo específico.
 
 ---
 
-Atrás deles, na entrada do depósito, as coisas subiram nos contêineres para ver o bote ir embora. Nenhuma entrou na água para perseguir. Ficaram lá em cima, as cinco restantes, uma delas sustentando o corpo de quem Gabo atingira, e Gabo se apoiou no cotovelo bom e virou o corpo para olhar, porque um detetive olha, mesmo quando não convém. Elas não estavam olhando para o bote.
+A menina do casaco amarelo se chamava Duda e tinha sete anos.
 
-Estavam olhando para o norte, para o outro lado da baía, onde uma luz fraca queimava sozinha no meio da água preta: um gerador a diesel no telhado de uma delegacia, aceso a noite inteira, mantendo trezentas e sete pessoas vivas e quentes. O único lugar iluminado em quinze quilômetros.
+Gabo só ficou sabendo do nome ali, no terceiro dia, quando Clara escreveu com caneta esferográfica numa fita adesiva colada na cabeceira do colchão, porque não havia prontuário e porque a Dra. Nise fazia questão de que todo mundo tivesse nome escrito em algum lugar.
 
-— Elena. — Gabo tossiu, e o que subiu não era só água. — Acelera.
+Era a mesma menina. O casaco estava pendurado num prego atrás da porta, secando havia três dias, grande demais para ela então e grande demais para ela agora.
 
-— Já está no máximo.
+Elena estava sentada no chão, ao lado do colchão, com as costas curvadas e a câmera analógica largada a um metro de distância, virada para baixo. Ela não fotografou nada. Ficou segurando a mão da criança com as duas mãos, como quem segura um passarinho, e falando baixo uma coisa que Gabo não ouviu e não quis ouvir.
 
-— Então reza.
+Duda morreu às quatro e dez da tarde, sem barulho, do jeito que as crianças fazem essas coisas.
+
+Gabo tinha visto duzentos corpos. Tinha carregado alguns. Tinha aprendido, aos vinte e seis anos, a olhar cadáver como quem olha uma peça de um problema, e essa foi a única coisa que a profissão lhe deu de graça. Não funcionou daquela vez.
+
+Porque ele estava lá quando a Elena pulou. Ele lembrava dos vinte segundos, e lembrava do que tinha passado pela cabeça dele durante os vinte segundos, e agora a conta chegava com uma clareza obscena: a Elena tinha entrado num rio para tirar aquela menina da água, e a água tinha ficado com ela assim mesmo. Tinha só levado três dias a mais para cobrar.
+
+Elena não chorou. Ela soltou a mão da criança, se levantou, dobrou o casaco amarelo com um cuidado horrível de assistir e o colocou embaixo do braço.
+
+— Você vai me arrumar o que a Nise pediu — ela disse.
+
+Não foi um pedido, e não foi para ele. A Dra. Nise cobriu o rosto da menina e ficou um tempo com a mão no lugar, do jeito dela.
+
+— Detetive. — Ela falou baixo, para não acordar as outras quatro. — Antes que o senhor saia achando que vai voltar com a cura no colo: mesmo que o senhor traga tudo o que eu pedi, e traga rápido, não posso garantir que os quatro sobrevivam ou sem sequelas. Há sinais de lesão renal grave. Algumas lesões podem deixar dano permanente; carvão ativado não repara um rim lesionado. Pode ser necessário suporte que esta cidade está perdendo; ainda não sei quem conseguirá se recuperar.
+
+— A senhora está me dizendo para não ir?
+
+— Estou dizendo para o senhor ir sabendo o preço. — Ela tirou os óculos. — Eu perdi o hábito de deixar homem nenhum sair daqui achando que existe vitória limpa.
+
+---
+
+Val tinha o endereço em dois minutos.
+
+— Depósito da Alfândega, Cais Três. Eles apreendem carga médica ilegal e empilham lá até prescrever. Está no Nível 20, a água ainda não chegou. — Ela hesitou. — O inventário antigo lista soros, insumos farmacêuticos e material de suporte. Não sei o que continua lá ou em condições de uso.
+
+— E o resto da frase? — perguntou Gabo.
+
+— O porto é do Sindicato.
+
+O Capitão Jonas Vilar estava na porta havia um tempo, escutando, com a farda amassada de três dias e as mãos nos bolsos porque as mãos tremiam.
+
+Cinquenta e cinco anos de idade e trinta e três de corporação. Ele tinha entrado na polícia quando a lei ainda era uma coisa que se citava em voz alta sem constrangimento, e passara os últimos dez anos assistindo a isso virar folclore.
+
+— Eu vou com vocês — disse Jonas.
+
+— Não vai — disse Gabo. — Alguém segura trezentas pessoas aqui dentro, e essa pessoa tem que ter patente para as outras obedecerem. — Ele olhou para o velho e viu o que o velho queria, e deu a ele de outro jeito. — Capitão, eu preciso que essa porta continue de pé quando eu voltar. Isso não é o prêmio de consolação. É o trabalho.
+
+Jonas endureceu o queixo e assentiu uma vez.
+
+— Tragam o que a Nise conseguir usar da requisição. Eu seguro as pontas.
+
+Gabo checou a *Caronte* no caminho para a escada. Dois cartuchos. Ele não disse isso para a Elena.
+
+---
+
+O bote inflável confiscado estava amarrado na escadaria da entrada, e a escadaria da entrada era o cais agora.
+
+O motor de popa tossiu, engasgou, cuspiu fumaça azul e pegou. Elena sentou na proa com a lanterna e o casaco amarelo dobrado dentro da jaqueta, contra o corpo, porque de alguma forma aquilo ia junto.
+
+Eles saíram para o que tinha sido a Avenida da Indústria. Placas de rua saindo da superfície como lápides mal enterradas. Um semáforo ainda funcionando debaixo d'água, piscando amarelo para ninguém, tingindo dois metros de líquido negro a cada segundo.
+
+— Gabo. — Elena não se virou. — Quando a gente descobrir quem operou aquelas comportas.
+
+— Eu sei.
+
+— Não. — Ela finalmente olhou para trás, e a chuva escorria pelo rosto dela sem que ela piscasse. — Você não sabe, porque você acha que eu vou querer prender.
+
+O motor engrossou. Atrás deles, a Delegacia Central foi ficando pequena, com o gerador acendendo uma janela de cada vez. Gabo ia responder alguma coisa e não respondeu, porque reparou na esteira do bote. Havia duas.
+
+A que o motor abria, reta e branca — e outra vindo de trás, larga, sem espuma, no ritmo errado. Alguma coisa grande nadava fundo, naquela água que matava criança em trinta horas.
+
+E nadava bem.

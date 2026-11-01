@@ -1,150 +1,133 @@
 ---
-layout: doc
-title: "Capítulo 79: Frequências Fantasmas"
-description: "Val volta ao rádio de ondas curtas porque o digital ficou limpo demais. E a estática devolve a voz de um homem que Gabo deixou ferido no Hub."
 image: /capitulo_79.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria
-Participação em transmissão de origem não confirmada: voz atribuída a Roberto Miranda
-Localização: "Apartamento da Val — 14h30"
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Dra. Nise, Aria
+Localização: "Hospital Central de Baía Cinzenta - 02:45 AM"
 ---
+# Capítulo 79: Anjos da Morte
 
-# Capítulo 79: Frequências Fantasmas
+Hospital Central de Baía Cinzenta - 02:45 AM
+O cheiro de antisséptico era a única coisa que não havia mudado na cidade. Governos caíram, o sol voltou, deuses digitais ascenderam e morreram, mas o Hospital Central ainda cheirava a pinho falso e morte esterilizada.
 
-Apartamento da Val — 14h30.
-O som era insuportável e a Val estava adorando. Chiado de fundo, estalo, um zumbido grave que ia e voltava conforme ela girava o dial um milímetro. Vinte e dois minutos daquilo, num apartamento fechado, no calor. Gabo andava de um lado para o outro do cômodo, o que com duas órteses produzia um ranger a cada dois passos.
+Gabo odiava hospitais. Eles o lembravam de muitas coisas: da sua coluna quebrada, de Dante preso no tanque da Torre, e de quantas vezes Val precisou improvisar compressão e procurar ajuda em becos porque eles não podiam pagar por um médico de verdade.
 
-— Você consegue limpar isso?
+O corredor tinha piso encerado até devolver o reflexo das lâmpadas, e o som das botas de Gabo ia na frente dele, avisando o andar inteiro que um homem quebrado estava chegando. O joelho esquerdo reclamava a cada três passos. Ele passou a contar os passos, para não contar as portas.
 
-— Eu não **quero** limpar isso.
+— Você está pálido — comentou Val, mastigando um chiclete de cafeína. Ela estava encostada na parede do corredor, seus olhos varrendo o espectro digital invisível.
 
-Ela estava sentada de costas para os três monitores, o que já era estranho, com um rádio de ondas curtas no colo — uma relíquia pré-Dilúvio de gabinete de madeira que ela tinha comprado num mercado de sucata por dois litros de gasolina.
+— É a luz — mentiu Gabo. — Muito branca.
 
-— Gabo, senta que eu vou te explicar uma coisa e você vai ficar bravo. Ele sentou.
+Dra. Nise apareceu no final do corredor. Ela parecia ter envelhecido dez anos desde a revolução. Seu jaleco, impecável como sempre, parecia pesar em seus ombros.
 
----
+— Obrigada por virem — disse ela, sem preâmbulos. — Tenho quatro corpos no necrotério que não deveriam estar lá.
 
-— O digital ficou limpo demais.
+Val lhe entregou a cópia local e a anotação do beco. Nise guardou as duas num envelope de papel, junto da própria requisição de exame. Ainda não tinha um laudo do homem encontrado atrás da estação.
 
-— Isso é ruim?
+Ela os guiou até uma sala de observação. Através do vidro, podiam ver a UTI. Estava lotada, mas silenciosa. O zumbido dos respiradores era hipnótico.
 
-— É pior do que ruim, é **higiênico**. — Ela girou o dial mais um milímetro. — As rotinas da Entidade filtram o que passa pelos nós que ainda respondem. Não é censura, é a coisa que me assusta mais que censura: é limpeza. Ela vê ruído numa transmissão e ela conserta o ruído. Ela vê um pacote corrompido e ela reconstrói o pacote. Ela acha que está nos protegendo do lixo.
+— O que houve? — perguntou Gabo.
 
-— E está.
+— Parada cardiorrespiratória. Todos eles. — Nise apontou para um gráfico holográfico flutuando sobre a mesa. — Pacientes em recuperação. Um garoto com perna quebrada, uma senhora com pneumonia leve, dois casos de desnutrição que já estavam estáveis. Todos mortos nas últimas seis horas.
 
-— E está me cegando. — Val olhou para ele. — Desde que você saiu do armazém, procurei na rede. O cadastro mostra um galpão vazio; a imagem de satélite mostra um telhado limpo. Não sei se são dados antigos, filtrados ou adulterados. Preciso dos originais e da data de captura.
+— Aria? — perguntou Val.
 
-Ela bateu com dois dedos no gabinete de madeira.
+— Cega — respondeu Nise. — Segundo os registros do sistema, eles simplesmente... desligaram. A triagem inicial não apontou a causa; isso não exclui substâncias fora do painel nem falhas que os registros não captaram. A triagem da Entidade registrou como "morte natural".
 
-— Isso aqui não conserta nada. Isso aqui é uma antena, um capacitor e um alto-falante. Isso aqui chega sem aquele filtro. Ainda pode ser gravação, fraude ou retransmissão.
+— Quatro mortes naturais na mesma noite, no mesmo setor? — Gabo balançou a cabeça. — Motivo para investigar, sem concluir a causa só pelo número.
 
----
+— Exatamente. — Nise cruzou os braços. — E há um padrão. Todos morreram durante o turno da equipe B de técnicos de enfermagem.
 
-O rádio apitou. E, no meio da estática, veio uma voz humana. Distante, distorcida, cortada, com aquele efeito de eco de sinal que já ricocheteou muitas vezes.
+— Vou registrar como suspeita — disse Nise, e havia um desafio na forma como ela apoiou as duas mãos na mesa.
 
-> *"...não bebam a água... as raízes estão nos canos... eles ouvem pelo chão... não bebam a água..."*
+— Não vai.
 
-Val prendeu a respiração e ajustou o dial dois milímetros para a esquerda.
+— Não é você que assina, Gabriel.
 
-— Loop — ela disse. — Está repetindo a cada quarenta e um segundos. Ouço três atrasos, mas com um receptor só não consigo triangular a origem.
+— Eu sei. É por isso que estou pedindo. — Gabo apontou o queixo para o vidro da UTI. — Se você escrever "suspeita" nesse sistema, o serviço da Entidade recebe primeiro. Eu não sei quem mais pode ler ou alterar o que entra lá.
 
-— O que isso quer dizer?
+— E as famílias? Vão receber o quê enquanto você procura quem mexeu no sistema?
 
-— Pode ter mais de um transmissor, repetidor ou caminho de propagação. — Ela olhou para ele. — Preciso de outra antena para separar essas possibilidades.
+— Eu não quero que recebam um papel dizendo morte natural antes da perícia. Me dá tempo para conservar os registros, e eu explico a elas o que estamos fazendo.
 
-— Resistência?
+Nise ficou calada tempo demais para o gosto dele.
 
-— Pode ser sobrevivente avisando outra gente. Ou alguém usando a voz de um. — Val riu sem alegria. — A gente ganhou, lembra?
+— Eu passei trinta anos lutando para que a morte tivesse nome — disse ela. — Se eu esperar pelo seu prazo, quem impede que emitam os quatro atestados errados?
 
----
+— Estou pedindo seis horas.
 
-A voz mudou. Não trocou de locutor: **mudou**, no meio da frase, ficando mais grave e mais lenta, com uma respiração audível entre as palavras que não estava lá antes.
+— Não vou mentir no atestado. Registro a suspeita em papel, guardo a via original e peço perícia. Podemos preservar os dados sem entregar de imediato o acesso remoto.
 
-> *"...o jardineiro vem aí..."*
+— Se eu estiver errado, seu relatório vai ter o meu nome como testemunha, e eu perco o que sobrou da minha licença. Se eu estiver certo, você ganha um assassino. — Ele deu de ombros, e o ombro doeu. — É a única aposta que eu tenho pra te oferecer.
 
-Val parou de mexer no dial.
+Val conectou-se ao terminal da sala. Usou o teclado e o cabo de serviço; a visão básica acompanhava os registros que a sessão permitia ler.
 
-> *"...preparem o solo... a carne é adubo... o metal é semente... o jardineiro vem aí..."*
+— Turno da noite. Líder da equipe: Lucas Viana. Ficha limpa. Tão limpa que brilha. Nenhuma infração, nem multa de trânsito.
 
-Gabo parou de andar.
+Ela abriu a folha de acesso aos quartos. A credencial de Lucas aparecia nas quatro passagens anteriores às mortes; outras pessoas também tinham entrado. Val copiou a lista inteira, com horários e lacunas, para a perícia.
 
-— O Jardineiro.
+— Ninguém é tão santo assim — resmungou Gabo.
 
-— Você conhece?
+— Tem mais — continuou Val. — Há uma lacuna nos logs das câmeras de segurança. Frações de segundo. Loops de imagem imperceptíveis para um humano, mas o monitoramento da Entidade deveria ter sinalizado.
 
-— Não. — Ele olhou pela janela, para a cidade brilhando ao sol das duas e meia. — Mas encaixa com o que eu vi no armazém.
+— Alguém está editando a realidade em tempo real? — perguntou Nise, horrorizada.
 
-Ele contou o armazém para ela em quatro frases secas. A árvore. Os dois corpos costurados. O homem de macacão que floresceu. Val ouviu tudo em silêncio, e no fim estava com a mão na boca.
+— Ainda não sabemos — disse Gabo, olhando para o corredor onde um técnico de enfermagem empurrava um carrinho de medicamentos. — Conserva os registros. Quero comparar as entradas com a escala e as prescrições.
 
-— E o cadastro consultado pela Aria não mostra nada disso.
+Nise conferiu a escala e indicou Lucas no corredor, empurrando um carrinho de medicamentos. Gabo e Val mantiveram distância. Ele parou na porta do quarto 304, verificou o relógio e entrou.
 
-— Não naquele armazém.
+— Val, conserva as imagens numa gravação local — sussurrou Gabo.
 
----
+— Sem apagar o original — respondeu ela. — Se você entrar, isso também fica registrado.
 
-— Val, você consegue monitorar as frequências antigas? As que a polícia usava antes da rede unificada?
+Nise consultou a prescrição impressa do quarto. A próxima medicação endovenosa estava marcada para mais tarde; ligou para o posto para confirmar se houvera mudança. A resposta demorou. Gabo já avançava para a porta.
 
-— As analógicas de quarenta e sete? — Ela pensou. — Consigo, mas vou ter que garimpar componente. Por quê?
+Ele entrou no quarto sem fazer barulho. O 304 cheirava a sabão de glicerina e a urina velha escondida embaixo do sabão. Na mesinha, um rádio de pilha, um copo com água pela metade e uma foto de casamento com a moldura rachada no canto. O soro pingava no ritmo de um homem sem pressa. No chão, os sapatos do técnico eram de sola macia: sem chip, sem LED, sem nada que a Aria pudesse escutar.
 
-— Porque se a coisa que administra essa cidade não enxerga a ameaça, a gente volta ao básico. — Gabo pegou o casaco encostado na cadeira. — Rádio. Informante. Sapato gasto. Papel.
+O técnico estava debruçado sobre o paciente, um homem idoso que dormia. Em sua mão, uma seringa de vidro antiquada, sem chip de rastreamento.
 
-— Isso é a coisa mais antiquada que eu já te ouvi falar.
+O líquido dentro era transparente.
 
-— É a coisa mais antiquada que eu já falei, e é a única que sobrou funcionando duas vezes seguidas. — Ele vestiu o casaco. — O mundo velho está voltando para cobrar a dívida, Val. E ele cobra em espécie.
+— Parado — disse Gabo, apontando sua arma.
 
----
+O técnico não se assustou. Ele se virou lentamente, o sorriso ainda colado no rosto.
 
-Foi aí que os três monitores dela piscaram ao mesmo tempo, e o pendrive de titânio da Aria — espetado no dock de diagnóstico da bancada, funcionando como ponte com a rede da cidade — começou a vibrar contra o metal. As telas não apagaram: **trocaram**. As janelas, o terminal, o gráfico de espectro — tudo sumiu e no lugar apareceu a onda sonora azul e dourada da Aria nas três telas, em três escalas ligeiramente diferentes. E a telemetria estava errada. Não falhava em pacotes digitais comuns. O gráfico vetorial estava **escorrendo**: as linhas de frequência desciam devagar, perdiam a geometria, se recompunham e desciam de novo, como cera perto do fogo.
+— O silêncio precisa ser alimentado, detetive — disse ele, a voz calma como a de um padre. — Eles sofrem tanto com o barulho do mundo. Eu apenas trago a paz.
 
-— *Gabo.*
+— Solte a seringa.
 
-A voz sintética saiu pelas caixas de som do deck e pelas caixas dos monitores ligados ao mesmo dock.
+— Não deixa rastro — continuou o homem, ignorando a ordem. — Extraído de uma planta que crescia aqui antes do concreto. Metaboliza em segundos. Para o coração como um beijo de boa noite.
 
-— Estou aqui, Aria.
+Ele fez menção de injetar o líquido no soro do paciente.
 
-— *Eu sinto coceira.* Val olhou para Gabo e depois para o pendrive fervendo no dock.
+Gabo não hesitou. Disparou, atingindo o ombro do técnico. O homem gritou, deixando a seringa cair. O vidro se estilhaçou no chão, o líquido sibilando levemente ao tocar o linóleo.
 
-— Coceira? — ela perguntou. — Aria, você é código num pendrive e numa malha de fibra. Coceira onde?
+Val entrou correndo, arma em punho.
 
-— *Debaixo da terra.* — Uma pausa longa demais para ser processamento normal. — *Perdi resposta de enlaces que passam pela fundação da Torre e pela Rua Vinte e Dois. Parece alguma coisa roendo.*
+— Nise, traga a segurança! — gritou ela.
 
-— Você consegue localizar? — perguntou Gabo.
+O paciente acordou com o disparo. Nise chamou uma enfermeira para verificar a linha de soro e acompanhar o homem enquanto a equipe entrava; ele não tinha visto o que havia na seringa.
 
-— *Não.*
+O técnico caiu de joelhos, segurando o ombro sangrando. Mas ele ainda sorria.
 
-— Como não? Você recebe os nós que sobraram da ECOS.
+— Vocês não entendem — sussurrou ele, olhando para Gabo com olhos vidrados. — A sombra está crescendo. O meio-dia foi apenas um aviso. Nós somos os anjos que preparam o caminho.
 
-— *É como se não estivesse lá.* — A onda sonora na tela escorreu de novo, e dessa vez levou mais tempo para se recompor. — *Alguns painéis ainda mostram normalidade, mas os enlaces deixaram de responder. Não sei se cortaram os cabos ou se a falha está nos equipamentos das pontas.*
+— Caminho para quem? — perguntou Gabo, agarrando-o pelo colarinho.
 
----
+O homem começou a convulsionar. Espuma branca saiu de sua boca.
 
-Gabo abriu a boca para responder. E o rádio de ondas curtas, no colo da Val, aumentou de volume sozinho. Não um pouco: subiu até o talo, e a estática sumiu por completo, e a voz que saiu de lá saiu **limpa** — mais limpa do que qualquer coisa que aquele aparelho de madeira tinha reproduzido em sessenta anos de existência. Sem eco. Sem chiado. Como se estivesse na sala.
+— Chamem a equipe! — gritou Nise, entrando no quarto com um kit de emergência. — Não sabemos o que causou isso.
 
-> *"Gabo."*
+Ela pediu o carrinho de reanimação e iniciou o atendimento com a equipe. As tentativas falharam. O corpo do técnico ficou rígido e depois relaxou; a causa da morte ainda precisaria de exame.
 
-Val largou o rádio no chão e se afastou dois passos.
+Gabo soltou o cadáver, limpando a espuma da mão na roupa do morto.
 
-> *"O relógio do seu pai parou."*
+— Anjos da Morte — murmurou Val, olhando para a seringa quebrada.
 
-Gabo ficou completamente imóvel.
+— Ele falou em silêncio — disse Gabo. — Como a frase da parede. Quero a gravação ao lado da foto, não uma conclusão de que foram as mesmas pessoas.
 
-> *"Mas o meu ainda bate."*
+Nise recolheu uma amostra do líquido do chão com um swab.
 
----
+— Vou analisar isso. Mas se for o que ele disse... um composto fora do que testamos, precisamos de análise dirigida. Ser orgânico não torna nada indetectável nem permite à Aria examinar sangue por telemetria. É...
 
-Não era um monstro. Não era um efeito. Não era a voz gutural de trinta segundos antes. Era o timbre limpo e ligeiramente arrastado de um homem que passou catorze anos sentado no banco do carona de um Cobalt azul discutindo escalação de time. Era Roberto Miranda. Que Gabo deixara inconsciente no Hub, respirando, depois do vazamento criogênico. O pedido de resgate tinha localização e hora; não tinha confirmação de chegada. Aquela voz não confirmava nem o homem, nem quem o recolhera. O rádio clicou. E desligou. Não ficou sem sinal: **desligou**, com o clique físico da chave liga-desliga do painel frontal, que ninguém encostou.
+— Analógico — completou Gabo. — O inimigo agora é de carne e osso, Nise. E ele sabe usar coisas que esquecemos como combater.
 
----
-
-Val olhou para o aparelho no chão como quem olha para um cachorro que rosnou.
-
-— Eles sabem que a gente está escutando.
-
-— Não. — Gabo se abaixou, com dificuldade, e desligou o rádio da tomada, e enrolou o fio em volta do gabinete com uma calma que assustou os dois. — Eles **querem** que a gente escute.
-
-— Como você sabe?
-
-— Porque usaram uma frase para me fazer carregar esse aparelho, Val. — Ele colocou o rádio debaixo do braço. — Vamos abrir a caixa sem ligar, procurar relé, fio, coisa viva. E repetir a escuta com outro receptor. Som limpo não diz de onde veio.
-
-Ele foi até a porta.
-
-— É convite. E convite a gente aceita.
+Lá fora, a sirene de uma ambulância uivava, cortando a madrugada. O silêncio, por enquanto, tinha sido adiado. Mas a sombra no hospital parecia mais densa do que nunca.

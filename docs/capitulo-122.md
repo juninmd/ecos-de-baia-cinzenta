@@ -1,95 +1,93 @@
 ---
-title: "Capítulo 122: Dívida Técnica"
-image: /capitulo_122.jpg
-Data In-Game: "23 de Novembro, 03:45"
-Localização: "O Fliperama (Esgotos / Subnível do Distrito Industrial)"
-Personagens Presentes: "Gabo Moretti, Valéria Cruz, Inspetor Rangel (Estável/Precário), Aria (Offline/Fragmentada)."
+image: /cenas/capitulo_122/cena_4.jpg
+title: "Capítulo 122: O Silêncio de Aeterna"
+Data In-Game: "23 de Novembro, 00:15"
+Localização: "Distrito Industrial - Perímetro Externo da Usina Prometeu"
+Personagens Presentes: "Gabo Moretti, Valéria Cruz, Inspetor Rangel, Aria (Inerte)."
 ---
 
-# Capítulo 122: Dívida Técnica
+# Capítulo 122: O Silêncio de Aeterna
 
-O cheiro de sangue e do pano queimado na usina não ia embora. Ele parecia ter se agarrado às paredes de concreto úmido do bunker, impregnando o mofo, a ferrugem e até mesmo o gosto da água que Gabo bebia de uma garrafa plástica amassada.
+A chuva lavava a fuligem das paredes do Distrito Industrial e transformava o chão em lama negra sob as botas.
 
-Ele estava sentado no chão, as costas apoiadas contra a frieza de um servidor desativado. Suas mãos, finalmente limpas de sangue, repousavam sobre os joelhos, mas os tremores finos continuavam. Não era frio. Era o *crash*. A adrenalina que o sustentara desde a invasão da Usina Prometeu, passando pela fuga no caminhão de reboque e a espera ao lado de Rangel, havia evaporado, deixando para trás apenas um buraco oco no estômago e uma exaustão que pesava como chumbo.
+Gabo ajustou o peso de Rangel sobre seu ombro. O Kevlar ensanguentado do inspetor estava escorregadio. Do outro lado, Valéria ofegava, o cabelo colado no rosto, lutando para sustentar o braço direito do policial enquanto o pendrive inerte de Aria seguia no estojo de ferramentas preso à mochila dela. Eles eram um cortejo fúnebre recusando-se a aceitar o pior, arrastando um homem ferido pela avenida deserta.
 
-O silêncio do "Fliperama" era opressivo. Lá fora, na superfície, Baía Cinzenta devia estar um caos. Sem energia, sem a "Voz" de Dante para manter a ordem, a cidade estaria se devorando. Mas ali embaixo, sob toneladas de esgoto e esquecimento, o único som era o zumbido errático do gerador a diesel que Valéria havia conseguido ligar e a respiração ruidosa de Rangel.
+Mas o que realmente pesava não era apenas o corpo de Rangel. Era o silêncio.
 
-O inspetor estava pálido, suando frio, murmurando coisas desconexas em seu delírio febril. "O rio... não olhe para o rio...". O curativo retardara a perda aparente de sangue. Sem avaliação, não sabiam quanto continuava perdendo por dentro. Eles haviam comprado tempo, mas a que juros?
+Baía Cinzenta sempre teve um som. Um zumbido de fundo, uma vibração constante de servidores, trens magnéticos, drones e hologramas gritando ofertas de felicidade sintética. Agora, não havia nada. Apenas o *tap-tap-tap* da chuva no asfalto rachado e a respiração rouca de Rangel entre eles.
 
-Gabo umedeceu os lábios de Rangel com um pano limpo. O inspetor tossiu; Val afastou a garrafa para que ele não tentasse beber enquanto estava confuso. A pele dele tinha a temperatura errada: quente onde devia ser fria, fria nas mãos.
+A avenida parecia a sala de espera de um hospital: fileiras de janelas apagadas, um banco de praça, uma banca de jornal aberta com as capas encharcadas. Numa das janelas do terceiro andar, alguém tinha acendido uma vela. A chama tremia atrás do vidro como um olho que não consegue decidir se ainda está acordado. Era a única luz num quarteirão inteiro — e por algum motivo aquilo pareceu a Gabo mais obsceno que o escuro.
 
-— O rio — Rangel repetiu, os olhos abertos e vazios. — Não olhem para o rio. Tem gente andando no fundo.
+— Parem... — Rangel grunhiu, as pernas falhando de vez. Ele escorregou para a lama, a mão pressionando o buraco no ombro. O sangue escuro se misturava com a água da sarjeta.
 
-Valéria não se virou. Continuou digitando, com mais força do que precisava, como se o barulho das teclas pudesse cobrir a voz do homem na mesa.
+Gabo e Valéria pararam, amparando Rangel com cuidado contra um poste apagado.
 
-— Você sabe o que é dívida técnica, Gabo? — Valéria falou sem se virar.
+— Rangel — Gabo se ajoelhou ao lado dele. A pele do inspetor estava cinza, fria ao toque. — Aguenta firme. O Fliperama não é longe.
 
-Ela estava debruçada sobre a bancada onde o pendrive aberto da Aria estava preso a uma morsa de precisão, iluminada apenas pelo brilho azulado de um monitor terminal conectado às trilhas de diagnóstico do drive. Seus dedos dançavam sobre um teclado mecânico antigo, o som das teclas *clack-clack-clack* ecoando como tiros distantes.
+— É longe... o suficiente — Rangel riu, e o som foi um gorgolejo. — Sem med-evac. Sem sinal. Estamos no século vinte de novo, Moretti.
 
-Gabo piscou, tentando focar.
+A boca dele estava vazia, sem o palito de sempre, e era a coisa mais absurda que Gabo tinha visto naquela noite. Valéria se ajoelhou do outro lado e puxou o Kevlar para cima com dois dedos, sem comentar o cheiro. A bandagem improvisada já estava escura de borda e o sangue tinha um brilho espesso, de coisa que não devia estar fora do corpo.
 
-— O quê?
+— Você vai ficar de pé — ela disse. Não era promessa; era instrução. — A gente não vai te carregar como saco de batata até o Fliperama.
 
-— Dívida técnica — repetiu ela, sem tirar os olhos da tela rolando linhas de código corrompido. — É um termo de engenharia. Quando você escolhe uma solução rápida e suja agora, em vez de fazer do jeito certo, porque precisa entregar o projeto a tempo. Você "pega emprestado" do futuro.
+— Você carrega — Rangel respondeu, os olhos ainda fechados. — Você tem braço de quem nunca levantou nada, mas tem teimosia de Moretti. Já vi essa combinação dar errado.
 
-Ela parou de digitar por um segundo e suspirou, um som trêmulo.
+Gabo olhou ao redor. A escuridão era absoluta, quebrada apenas pelos relâmpagos ocasionais que iluminavam as carcaças das fábricas abandonadas como esqueletos de gigantes.
 
-— Funciona no curto prazo. O sistema roda. O cliente fica feliz. Mas o código fica podre por dentro. E eventualmente... eventualmente você tem que pagar a dívida. Com juros compostos.
+— Não podemos ficar aqui — disse Valéria, sua voz tremendo levemente. Ela olhava para as sombras com a paranoia de quem sabe o que vive no escuro. — Sem a vigilância da Aeterna, as gangues vão sair das tocas. Os Saqueadores...
 
-Valéria apontou para a tela cheia de erros hexadecimais vermelhos lidos diretamente da memória flash do pendrive.
+— Ela tem razão — Gabo se levantou. Seus dedos tamborilaram nervosamente contra a coxa, o tique antigo disparando enquanto a lembrança traumática da fumaça da Usina ainda arranhava sua garganta.
 
-— O que fizemos com o drive da Aria na usina... espetar a unidade dela direto no monólito sem isolamento adequado para sustentar os comandos de suporte da rede... foi o maior empréstimo que já vi.
+Ele fechou os olhos e apertou o *Colar de Sol* contra o esterno, logo acima do bolso interno do sobretudo. A queimadura fria do metal foi um lembrete: *Dor é realidade. Desespero é fuga.*
 
-A garganta de Gabo secou. O ozônio e a fuligem da bancada traziam de volta a memória sufocante da fumaça dos charutos do pai, revirando seu estômago com uma repulsa visceral. Seus dedos tamborilaram nervosamente contra o joelho.
+Ele abriu os olhos. Focou.
 
-Ele levou a mão ao peito e agarrou o *Colar de Sol* sob a camisa. Apertou o metal até as arestas machucarem a palma da mão. A dor era uma âncora.
+— Precisamos de rodas.
 
-— O sistema dela vai voltar? — perguntou Gabo, a voz rouca.
+— Os carros que vi estão sem resposta — disse Valéria. — Alguns podem depender da rede ou ter ficado sem carga. Não temos tempo de testar todos.
 
-— Alguns índices estão cruzados — disse Valéria. — Há registros recebidos da usina junto dos arquivos de origem e do histórico de Aria. Não sei se ela consegue acessá-los ou como vai reconhecê-los.
+— Nem todos — Gabo caminhou até a grade de um pátio de manutenção municipal do outro lado da rua. O portão eletrônico estava morto, entreaberto.
 
-O cilindro aberto na morsa mostrava os circuitos expostos. Valéria não desviava os olhos deles.
+Lá dentro, entre fileiras de veículos de limpeza autônomos e drones de carga inoperantes, havia algo diferente. Um caminhão de reboque, antigo, com manchas de ferrugem e pneus borrachudos. Um modelo de tração, anterior à Lei de Ar Limpo de 2045.
 
-— Se eu fechar o curto e reinicializar o pendrive agora, pode ser que a assistente tática suba. Ou pode reproduzir arquivos que não são a voz dela. Essa é a nossa dívida.
+— Combustão interna — Gabo murmurou, passando pela abertura do portão.
 
-— Então não liga — disse Gabo.
+O pátio tinha aquele silêncio de coisas guardadas: brita solta sob a bota, um portão batendo em algum lugar, o cheiro de graxa velha subindo do chão com a chuva. Ele atravessou entre os veículos elétricos com o passo curto que a órtese impunha e sentiu, na nuca, o peso de cada janela do bairro. Um motor ligado ali seria ouvido a três quarteirões. Não havia mais vigilância, mas também não havia mais nada para impedir que a curiosidade de um vizinho virasse saque.
 
-— Não é assim. — Valéria encostou o dedo na lateral do drive, onde a blindagem estava amassada pelo calor. — Tem coisa aí dentro que não é dela. Consigo ver trechos de registros de triagem recebidos da usina: nomes, endereços e promessas de atendimento. Ainda preciso separar as cópias e verificar de onde vieram. Se eu não religar isso com cuidado, a prova fica presa num chip queimado — e aí a cidade pode dizer que ninguém morreu.
+— Isso é sucata — Rangel protestou, tentando se levantar com a ajuda de Valéria.
 
-— Quem vai querer prova? Não tem mais tribunal.
+— É analógico — corrigiu Gabo. Ele quebrou o vidro da janela do motorista com a coronha da *Caronte*. O cheiro de mofo e óleo velho invadiu suas narinas. Um perfume melhor que qualquer incenso sintético.
 
-— Tem gente viva. — Ela levantou o queixo. — E gente viva lembra de quem mostrou primeiro.
+Rangel indicou, da calçada, o cilindro de emergência. A chave da frota ainda estava no molho que ele carregava. Gabo a encaixou, sem saber se o motor teria combustível ou bateria.
 
-Gabo se levantou, as articulações estalando. Ele caminhou até a mesa onde Rangel jazia e colocou a mão na testa do inspetor. Estava fervendo.
+— Vamos, sua lata velha... — sussurrou.
 
-— Nós também temos uma dívida aqui — disse Gabo, olhando para o ferimento feio, coberto por bandagens improvisadas. — O curativo comprou tempo, mas não resolveu o ferimento. Não vou chamar a febre de diagnóstico nem esperar que uma peça eletrônica acorde para decidir o que fazer.
+Uma faísca. O motor tossiu, engasgou e, com um rugido sujo e vibrante, ganhou vida. Fumaça de diesel, preta e tóxica, saiu pelo escape.
 
-Ele se virou para Valéria. O rosto dela estava manchado de graxa e fuligem, os implantes oculares girando em foco e desfoque, denunciando seu próprio cansaço.
+Gabo sorriu. Um sorriso triste, de canto de boca.
 
-— Precisamos de antibióticos. De verdade. Não essa merda vencida que o Kiko guardou aqui. Precisamos de soro, analgésicos. E precisamos de uma ponte de silício e microprocessadores série-K para consertar os barramentos do pendrive da Aria.
+— Valéria, me ajuda a colocar o Rangel na cabine.
 
-— Lá fora é zona de guerra, Gabo — Valéria alertou. — Sem a rede, os drones de segurança devem ter entrado em protocolo de contenção autônoma. E as gangues... os Carniceiros, os Lázaros... eles vão sair das tocas. O escuro é o recreio deles.
+O transporte foi brutal e rápido. Valéria e Gabo ergueram o inspetor ferido para o banco do carona; Rangel tombou contra o encosto, segurando o revólver no colo com os olhos semicerrados, enquanto Valéria se espremia no assento central, mantendo o estojo de Aria firme na mochila.
 
-— Eu sei.
+Gabo assumiu o volante. A vibração do motor percorria seus braços, uma sensação tátil, real, mecânica. Sem assistência de direção, sem navegação por satélite, sem limitador de velocidade.
 
-Gabo soltou o colar e checou a carga de sua pistola cinética. Três balas convencionais no carregador. Nenhuma alimentação elétrica que pudesse acabar antes delas.
+Ele engatou a marcha com um tranco e acelerou.
 
-— Mas a dívida venceu — disse ele, olhando para a escuridão do túnel de saída. — E nós não temos crédito pra renegociar.
+O caminhão saiu do pátio, os faróis amarelos cortando a escuridão como facas. Eles avançaram pela avenida principal, passando por carros de luxo parados, apagados e inúteis.
 
-Rangel gemeu na mesa, um som de dor crua que sublinhou as palavras de Gabo.
+— Para onde? — perguntou Valéria, sentada no meio, espremida entre Gabo e Rangel.
 
-— Eu vou buscar o que precisamos — disse Gabo, prendendo a arma no coldre.
+Gabo olhou pelo retrovisor, vendo apenas a chuva e a noite engolindo o mundo que conheciam.
 
-— Vou ficar com Rangel e preservar uma cópia do que consigo ler — respondeu Val. — Se a mulher voltar com ajuda, eu mostro o caminho.
+— Para o único lugar onde o silêncio não é novidade — disse ele, girando o volante pesado. — O Fliperama. Kiko deve ter suprimentos médicos. E energia independente.
 
-— Onde? — Valéria perguntou, a voz tingida de medo.
+Enquanto dirigiam, Gabo olhou para as janelas apagadas dos arranha-céus residenciais. Milhares de pessoas lá dentro, no escuro, sem saber que o que provocara o apagão ou quanto tempo ele duraria.
 
-Gabo ajustou o sobretudo, sentindo o peso familiar da responsabilidade e do fracasso.
+O medo viria pela manhã. O caos viria com o sol.
 
-— Conheço um lugar no Distrito 4. Uma clínica de rua. O tipo de lugar que não faz perguntas e aceita pagamento em favores ou violência.
+Mas por enquanto, naquela cabine cheirando a diesel e sangue, havia apenas o som do motor e a estrada aberta.
 
-Ele caminhou até a saída, parando apenas para olhar uma última vez para o grupo quebrado sob a luz amarela do bunker.
+— Sabe de uma coisa? — Rangel murmurou, a cabeça encostada no vidro frio. — Até que o silêncio... não é tão ruim.
 
-— Tranque a porta atrás de mim.
-
-Ele saiu para a escuridão do esgoto, onde podridão e ferrugem eram a única promessa que a cidade cumpria.
+Gabo não respondeu. Ele apenas dirigiu, mantendo os olhos na estrada e a mão longe do bolso.

@@ -1,90 +1,110 @@
 ---
 image: /cenas/capitulo_112/cena_1.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Inspetor Rangel, Aria
-Participação em documentos: Marco Moretti, Dante Moretti
-Localização: "Saída de Drenagem 04-B (Distrito Industrial) → Beco entre armazéns abandonados"
+Personagens Presentes: Gabriel "Gabo" Moretti, Inspetor Rangel, Valéria "Val" Cruz, Aria, mulher e menino
+Participação em registro: Kiko Vibe
+Localização: "Canais de Drenagem do Setor 4 → O Fliperama"
 ---
-# Capítulo 112: O Peso da Memória
+# Capítulo 112: Ponto Cego
 
 ```text
-SYSTEM LOG // PERIMETER BREACH
-LOCAL: SAÍDA DE DRENAGEM 04-B [DISTRITO INDUSTRIAL]
-CLIMA: CHUVA ÁCIDA (NÍVEL 3)
-VISIBILIDADE: 15%
-ALERTA: TRÁFEGO DE DRONES DE VIGILÂNCIA AUMENTADO
+AETHERNA SECURITY GRID // NETWORK ALERT
+DATA: DATA LOCAL NÃO SINCRONIZADA - 03:42 AM
+ALVO: VEÍCULO TÁTICO "RINOCERONTE" (ID: 99-ZULU)
+STATUS: SINAL PERDIDO
+ÚLTIMA LOCALIZAÇÃO: CANAIS DE DRENAGEM PLUVIAL - SETOR 4
+ANÁLISE: INTERFERÊNCIA ELETROMAGNÉTICA MACIÇA DETECTADA.
+AÇÃO: DRONES DE RASTREAMENTO DESPACHADOS.
 ```
 
-A Superfície
-A tampa do bueiro pesava como uma lápide de ferro. Gabo empurrou com o ombro bom, grunhindo enquanto a ferrugem cedia com um grito agudo de metal contra metal. O ar da superfície invadiu o túnel imediatamente — não o ar limpo, mas a mistura familiar de diesel, chuva ácida e o cheiro adocicado de lixo sintético queimando nas incineradoras distantes.
+Canais de Drenagem do Setor 4
+O Rinoceronte morreu com um engasgo final, afundando o bico blindado na água oleosa e negra do canal de drenagem. A lataria estalou enquanto o motor a diesel esfriava, liberando nuvens de vapor que se misturavam à chuva incessante.
 
-Eles emergiram em um beco estreito entre dois armazéns abandonados no Distrito Industrial. A chuva caía em lençóis pesados, lavando a poeira do esgoto de suas roupas, mas não a tensão.
+— Fim da linha — anunciou Gabo. Ele e Rangel forçaram a porta emperrada com os ombros. — Todo mundo pra fora. Agora.
 
-Valéria foi a primeira a sair, sua *techwear* já camuflando-se com o cinza do concreto. Ela não olhou para o perímetro; ela olhou direto para Gabo, que subia a escada de mão ajustando o comunicador tático na lapela, onde o pendrive blindado da Aria pulsava com seu pequeno LED azul.
+Inspetor Rangel ajudou a mulher e o menino a descer por uma chapa inclinada, depois entrou na água que chegava aos joelhos. O choque térmico foi imediato. A água cheirava a esgoto, podridão química e coisas mortas. Ele olhou para o veículo blindado, agora apenas um pedaço de sucata inútil semimetalizada na escuridão.
 
-Assim que os pés de Gabo tocaram o asfalto molhado, Valéria o prensou contra a parede de tijolos.
+— Nós não podíamos ter ido mais longe? — Rangel perguntou, tiritando. Ele ainda segurava seu distintivo holográfico desligado, um peso inútil no bolso do casaco encharcado.
 
-— Val! — Gabo tentou recuar, mas a órtese da perna travou na lama.
+— Com aquele rastreador gritando no painel? — Valéria desceu do banco do motorista, desacoplando o pendrive blindado da Aria do console e espetando-o na porta lateral do comunicador tático de Gabo antes de fechar a mochila impermeável contra o peito. O rosto dela estava pálido, iluminado apenas pelo brilho fraco de seus implantes oculares. — Tivemos sorte de chegar até aqui. O bloqueador do blindado interrompeu o enlace de rastreamento deles por tempo suficiente, mas a bateria auxiliar morreu e o enlace de rastreamento voltou.
 
-— Não — Valéria rosnou, o braço pressionando o peito dele e os olhos prateados fixos no drive espetado no comunicador. — Chega de segredos, Gabo. Chega de decidir sozinho o que vai acontecer com quem está nesse módulo.
+Gabo encarou o túnel escuro. A água escorria pelas paredes de concreto, e a cidade parecia um eco distante. No colarinho de seu sobretudo, o LED azul do pendrive acoplado ao comunicador tático piscou duas vezes, e a voz sintética de Aria soou baixa no fone auricular.
 
-Gabo piscou sob a chuva ácida, a mão subindo instintivamente para proteger o pequeno módulo.
+— *Eles estão cegos. Por enquanto* — calculou Aria pelo comunicador. — *Pela última posição transmitida e pela velocidade dos Cães que vimos, eles podem alcançar este trecho em doze minutos. Não sei que rota vão escolher.*
 
-— Por que você continua decidindo pelo módulo? — A voz de Valéria tremeu. — Você achou a Aria na cabine alagada. Ela escolheu o próprio nome e já nos disse o que aceita arriscar. Se quer levá-la de volta à rede, pergunte a ela primeiro.
+Gabo ajustou a correia da escopeta *Caronte* sobre o ombro. Ele mancou até a borda de concreto, a órtese motorizada improvisada rangendo em protesto contra a umidade.
 
-Rangel terminou de fechar o bueiro. A chuva escorria por seu rosto cansado; ele ficou junto à tampa enquanto os dois discutiam.
+— A Aria deu doze minutos. Dá para sair daqui se não perdermos tempo — Gabo disse, estendendo a mão para ajudar Rangel a subir.
 
-Gabo segurou o pulso de Valéria com firmeza, mas sem violência, afastando-a meio passo.
+Rangel aceitou a mão, sentindo a força bruta e calejada do ex-policial.
 
-— Eu sei o que ela é, Val — ele sussurrou, a voz rouca competindo com a tempestade. — Sei que é código num pedaço de titânio. Mas naquela cabine telefônica, e nos túneis depois do pulso... essa voz foi a única coisa que calculou uma saída quando todo o resto falhou.
+— Para onde estamos indo? — o inspetor perguntou. — Não há nada aqui embaixo além de ratos e lixo tóxico.
 
-— Quando você decide sozinho, o outro pode não ter chance de discordar — disse Rangel, aproximando-se devagar. — Eu sei o que é assinar sem fazer a pergunta que devia.
+— É o que o mapa oficial diz — Gabo sorriu, mas não havia humor em seus olhos. — Talvez a gente encontre uma saída que eles não estejam vigiando.
 
-Valéria soltou Gabo, recuando como se o calor do pequeno drive tivesse queimado seus dedos.
+Eles caminharam pela escuridão, guiados apenas pela visão noturna de Valéria, pelas leituras do sonar do comunicador que Aria recebia por cabo e pelo instinto de Gabo. O túnel cheirava a ferrugem antiga e memórias esquecidas. Trilhos de metrô enferrujados surgiam da lama ocasionalmente, vestígios de uma linha de transporte abandonada antes mesmo da Grande Enchente.
 
-— E o que você sabe sobre os mortos deles, Rangel? — ela cuspiu, virando-se para o inspetor. — Você era da Corregedoria. Você encobria a sujeira deles.
+Rangel sentia o peso de cada passo. Não era apenas o cansaço físico; era o peso de uma vida inteira desmoronando. Ele era a Lei. Ele era a Ordem. Agora, ele estava marchando no esgoto com um ex-detetive caçado, uma hacker fugitiva e uma inteligência artificial alojada num drive de titânio, com voz e escolhas próprias.
 
-— Eu encobria os erros dos policiais — Rangel corrigiu, tirando a pasta manila que roubara do bunker de Kiko Vibe de dentro da jaqueta. Ele a protegeu da chuva com o corpo. — Mas isso aqui? Isso não é erro policial. Isso é engenharia familiar.
+— Você está pensando alto demais, inspetor — disse Valéria, sem olhar para trás. — O barulho na sua cabeça vai atrair atenção.
 
-Ele abriu a pasta sob o toldo podre do armazém.
+— Eu sou um fugitivo — Rangel murmurou, a realidade finalmente se assentando. — Eu atirei nos meus próprios homens. Eu abandonei o posto.
 
-— Eu li os arquivos no caminho. Marco Moretti não apenas assinou o projeto de "higiene social". Ele tinha medo.
+— Você salvou civis — corrigiu Gabo, sua voz dura. — Você fez a única coisa que um policial de verdade faria. O que sobrou lá em cima, Rangel... aquilo não é polícia. É segurança privada com subsídio estatal.
 
-— Medo de quê? — perguntou Gabo, observando o céu em busca de drones.
+Eles pararam diante de uma parede de tijolos coberta de limo. Parecia um beco sem saída.
 
-— Talvez da própria obra — Rangel apontou para um parágrafo sublinhado. — O projeto prevê instabilidade sob carga. Marco autorizou acesso ao resfriamento. A nota menciona Krell, mas não explica o que Marco esperava fazer com esse acesso.
+Gabo viu uma faixa sem limo na junta dos tijolos. Enfiou um vergalhão na fresta e puxou; uma peça cedeu, expondo uma trava de manutenção. Rangel ajudou a soltá-la, e os dois empurraram o painel até as correntes vencerem a ferrugem.
 
-Rangel olhou para o grupo.
+Um retângulo de tijolos recuou e deslizou para o lado, revelando uma passagem estreita iluminada por tubos de neon ultravioleta que zumbiam como insetos elétricos.
 
-— Isso podia funcionar como uma coleira. Se o hospedeiro depender daquele circuito, quem controlar o resfriamento pode ameaçá-lo. O papel não prova que Marco chegou a testá-lo.
+Gabo fez a mulher e o menino entrarem primeiro. Rangel os levou até o banco mais seco e deu a eles as duas mantas do armário.
 
-— Se esse circuito chegou ao biohost, ainda não sabemos quem o controla — murmurou Valéria, limpando a chuva do rosto.
+— Primeiro a gente confere as saídas — disse Gabo, gesticulando para que entrassem.
 
-No comunicador de Gabo, o LED da Aria piscou em âmbar, aquecendo contra o tecido úmido do sobretudo.
+O interior era um mausoléu de tecnologia morta.
 
-— *Se o circuito estiver em uso, precisamos descobrir quem controla as válvulas* — disse Aria pelo alto-falante tático. — *Os registros antigos apontam para a Usina Prometeu. Precisamos de uma leitura atual ou de alguém que tenha visto o circuito em uso.*
+O espaço era vasto, uma antiga estação de manutenção subterrânea convertida em algo... diferente. As paredes estavam forradas com gabinetes de servidores antigos, torres de PCs bege dos anos 2000, e máquinas de arcade com telas CRT quebradas. Mas o que chamava a atenção era o cabeamento.
 
-Um som de motor pesado cortou a conversa. Luzes amarelas varreram o beco. O grupo se achatou contra as sombras.
+Quilos e quilos de cabos de cobre, fibra óptica desencapada e fios elétricos formavam uma teia de aranha caótica que cobria o teto. No centro da sala, uma "ilha" de monitores empilhados formava um trono digital.
 
-Um caminhão de coleta de lixo automatizado — um monstro de aço blindado com o logo da "Saneamento Baía Cinzenta" — passou roncando pela rua principal. Não havia motorista na cabine, apenas sensores LIDAR girando.
+— O que é isso? — Rangel perguntou, maravilhado e horrorizado. — Parece um lixão.
 
-— Transporte — disse Gabo, os olhos fixos no veículo. — Blindado, ignora toques de recolher e vai direto para a zona de processamento de biomassa.
+— É uma Gaiola de Faraday — explicou Valéria, caminhando até uma bancada de trabalho cheia de ferramentas de solda. Ela passou o dedo por uma camada de poeira. — As paredes são revestidas com malha de chumbo e cobre roubado. A malha pode bloquear boa parte dos sinais sem fio. Ainda precisamos conferir os cabos e procurar outra saída.
 
-— Que fica ao lado da usina — completou Valéria.
+— Quem construiu isso? — Rangel tocou em uma máquina de arcade desligada. O adesivo lateral, desbotado, mostrava um personagem pixelado com uma espada de luz.
 
-— Eu não consigo hackear isso daqui sem alertar a rede — disse Valéria, tocando o *Phantom V3*. — O firewall desses caminhões é isolado para evitar sequestros de carga.
+Valéria apontou para a etiqueta no gabinete central: KIKO_VIBE.
 
-Rangel guardou a pasta e sacou um molho de chaves antigas, um chaveiro físico com o brasão da polícia.
+— Kiko Vibe — disse Gabo. O nome caiu na sala como uma pedra pesada.
 
-— Quem disse que precisamos hackear? — Rangel sorriu, um sorriso triste e nostálgico. — A Prefeitura terceirizou a frota de saneamento cinco anos atrás, mas eles nunca mudaram os cilindros de ignição manual de emergência. Protocolo de segurança em caso de falha de IA.
+Rangel congelou.
 
-Gabo olhou para o ex-policial com um respeito relutante.
+— O mártir? O garoto que iniciou a Primeira Revolta Digital?
 
-— Você está dizendo que vai roubar um caminhão de lixo com uma chave mestra?
+— O próprio — Gabo foi até um frigobar enferrujado no canto, abriu-o e tirou uma garrafa de água lacrada. Ele jogou para Rangel. — A gente achou o drive que ele escondeu na Solaris. Foi o que levou à fábrica. Parece que este era outro esconderijo dele.
 
-— Eu estou dizendo que vou *requisitar* um veículo oficial para uma operação em andamento — Rangel caminhou em direção à rua, a chuva batendo em suas costas largas. — Vamos. O lixo não espera por ninguém.
+Gabo caminhou até o centro da sala, onde os monitores empilhados formavam o "trono". Ele desacoplou o pendrive da Aria do comunicador e o espetou em um adaptador serial ligado à torre central. O LED do drive aqueceu, mudando para um azul constante.
 
-O caminhão parou diante de um contêiner de coleta. Rangel foi até a cabine com a chave; Val sustentou Gabo enquanto ele atravessava a rua. O LED de Aria refletia nas poças quando o motor tornou a girar sob comando manual.
+Pelo pequeno alto-falante piezoelétrico do gabinete, a voz de Aria ecoou baixa:
 
-O passado de Baía Cinzenta não estava morto. Ele estava apenas esperando a chuva parar para sair das covas.
+— *Há dados aqui. Fragmentados. Antigos. Fantasmas de código.*
 
-Mas a chuva nunca parava.
+— Vamos descobrir o que ele guardou — disse Gabo, sentando-se em um caixote de madeira e começando a desaparafusar a placa da órtese para verificar os danos.
+
+— Posso copiar o diretório para análise isolada — ofereceu Valéria, já conectando seu deck portátil ao barramento auxiliar.
+
+— *Desnecessário* — respondeu Aria pelo alto-falante do terminal, sincronizando o protocolo do pendrive com a porta antiga. — *Não precisamos quebrar. O terminal oferece um arquivo público sem autenticação. Vou ler primeiro o que ele expõe, sem executar programa desconhecido.*
+
+De repente, um dos monitores piscou. Linhas de código verde-fósforo correram pela tela preta, seguidas por uma imagem de baixa resolução. Um rosto pixelado, usando óculos escuros e um sorriso desafiador.
+
+```text
+SYSTEM LOG // LOCAL STORAGE
+USER: KIKO_VIBE
+MSG: "Se você está lendo isso, eu já virei pó. Mas o jogo não acabou. A gente só perdeu uma vida. Insira a ficha para continuar."
+```
+
+Rangel encostou-se na parede fria, deslizando até sentar no chão. Ele olhou para a água em suas botas, depois para Gabo, que limpava o sangue da perna com um trapo do kit de primeiros socorros, e para o pequeno drive de titânio pulsando luz azul na entrada do computador antigo.
+
+— Estamos enterrados vivos — Rangel disse, fechando os olhos.
+
+— Não, inspetor — respondeu Gabo, engatilhando a *Caronte* com um som seco e definitivo. — Estamos na trincheira. E a guerra acabou de começar.

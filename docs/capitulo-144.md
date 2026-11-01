@@ -1,57 +1,63 @@
 ---
-title: "Capítulo 144: Tensão de Ruptura"
+title: "Capítulo 144: Veias de Vidro"
 Data In-Game: "Pós-Colapso da Usina Prometeu (Noite Eterna)"
 Localização: "Necrópole (Subnível 7 - Poços de Ventilação da Aeterna Corp)"
 Personagens Presentes: "Gabo, Valéria, Aria (Reboot), Rangel (Inconsciente)"
+description: "A prancha sobe pelo guincho, guiada por cinta. Os cartuchos são contados antes do combate. A fibra transmite o comando, não a força de içamento."
 ---
 
-# Capítulo 144: Tensão de Ruptura
+# Capítulo 144: Veias de Vidro
 
-A poeira de sílica ainda descia pelo fosso quando o mosquetão puxou o cinto de Gabo. O silêncio que se seguiu à destruição dos drones tinha peso: uma eletricidade estática que arrepiou os pelos da nuca e fez o poço parecer ainda mais fundo. Lá embaixo, o metal podre engolia qualquer som de esperança desde o colapso da superfície.
+A subida pelo poço de ventilação secundário era um exercício brutal em resistência e dor. A escuridão absoluta do fosso vertical só era rasgada de forma intermitente pela iluminação tática de Valéria e pelo pulso azul-gelo do pendrive blindado de Aria acoplado ao seu cyberdeck, revelando paredes metálicas envelhecidas por décadas de condensação, fungos luminosos e ferrugem escamosa.
 
-Gabo já não sentia os braços. Seus músculos haviam passado do estágio do ácido lático para o torpor prévio à falha estrutural. A cada degrau que ele avançava, a cinta-guia da prancha de Rangel puxava o mosquetão do cinto tático. O cabo do guincho sustentava a carga, mas cada oscilação chegava ao arnês de Gabo cavava um sulco profundo em sua cintura e forçando as articulações dos ombros e a coluna do exoesqueleto ao limite do rompimento.
+Depois de testarem o guincho com carga sem pessoa e verificarem a trava, Gabo liderava a subida. O guincho de inspeção erguia a prancha de Rangel no trilho lateral. Gabo subia preso à linha de segurança e mantinha a cinta-guia na mão para impedir que a cabeceira girasse. A cada metro que avançavam pela estreita escada incrustada na parede, a oscilação da prancha ameaçava prendê-lo entre a carga e a escada, rumo ao abismo negro de ossos de onde haviam saído. O som ruidoso e gutural da respiração do ferido ecoava no tubo apertado, ritmado com os chiados do próprio Gabo e o tilintar dos cabos antigos balançando ao vento gelado que descia das galerias superiores.
 
-Sua mão direita... ele preferia não olhar para ela. As queimaduras abertas na grade do incinerador latejavam como se tivessem vontade própria, uma pulsação rítmica e febril em sincronia com os batimentos acelerados do seu coração. O metal gelado e áspero da escada mastigava a carne exposta a cada apoio, deixando manchas escuras e viscosas de sangue misturado à ferrugem úmida.
+O metal dos degraus parecia feito de brasas geladas contra a carne viva de suas mãos. Cada aperto doía mais do que o anterior, reabrindo as bolhas queimadas na fornalha da Necrópole. O cheiro constante de poeira calcificada, suor azedo e ozônio antigo estava em toda parte, trazendo uma incômoda familiaridade das ruínas subterrâneas que se estendiam desde o Dilúvio.
 
-— *Análise estrutural da rota de subida concluída,* — a voz monótona de Aria soou pelo comunicador na gola de Gabo e pelo alto-falante do pulso de Valéria. Acoplado à lateral do *Phantom V3*, o drive blindado projetava um feixe de varredura acústica através dos sensores do deck, seu LED azul-gelo cortando o breu como um olho clínico solitário. — *Há ferrugem nos chumbadores que a câmera alcança. Atrás, a câmera não chega. Evitem movimentos bruscos.*
+— *Progressão vertical abaixo do limiar de segurança*, — reportou a voz sintética de Aria pelo comunicador de gola de Gabo, enquanto o drive de titânio no pulso de Valéria processava os sensores barométricos e o sonar do *Phantom V3*. — *Quarenta metros percorridos. Níveis de temperatura subindo para dezenove vírgula cinco graus Celsius. Taxa de esforço cardíaco do Detetive Moretti em cento e sessenta e dois batimentos por minuto.*
 
-O pequeno componente de silício e titânio não ficava ofegante. O esforço brutal do combate e da escalada vertical não gerava ácido lático em seus circuitos lógicos, nem fazia seus conectores tremerem de terror. Aria apenas calculava, processava os dados telemétricos do deck e ditava probabilidades, sem conseguir recuperar o registro de voz que usava antes da avaria. Val repetia os avisos para confirmar que eram respostas atuais, não uma ordem armazenada.
+— Poupa o relatório médico, Aria... e me diz do mapeamento, Val! — Gabo perguntou entredentes, sentindo um gosto amargo de ferro misturado ao próprio suor salgado na língua. Ele se deteve por uma fração de segundo, soltando a mão direita para chacoalhá-la no ar úmido, tentando recuperar a sensibilidade antes que a dor insuportável travasse seus músculos de vez.
 
-— Falar é... fácil, pendrive maldito... — Valéria arfou logo abaixo, a voz embargada pelo esforço e pelo medo, apoiando a testa suada na barra enferrujada. O cyberdeck em seu antebraço parecia pesar uma tonelada. Ela piscava repetidamente, tentando limpar o código residual que ainda dançava em sua visão periférica após a conexão forçada com a rede infectada da Aeterna Corp.
+Dois metros abaixo dele na escada, a silhueta da hacker iluminava-se de azul com um feixe de fibra ótica da Aeterna Corp deslizando pelo suporte lateral e espetado diretamente na ponte de dados entre seu cyberdeck e o pendrive da IA.
 
-— *O motor de inspeção está aquecendo também,* — respondeu Aria. — *Precisamos parar no próximo apoio.*
+— Consigo sentir a estrutura central através do filtro da Aria! — Valéria respondeu, a voz tensa ecoando distorcida pelas chapas de metal retorcido. — Há tráfego na fibra, Gabo. Parte segue na direção do estúdio, mas não consigo ler o conteúdo nem identificar quem enviou.
 
-O pé de Valéria escorregou dois degraus. Não houve grito; houve o som de uma unha raspando metal e o estalo seco do mosquetão batendo na barra. Gabo jogou o ombro esquerdo contra a escada, travou a bota no degrau de baixo e sentiu a cinta-guia de Rangel puxar seu arnês antes de a trava do guincho prender o cabo, como se alguém tivesse enfiado um gancho entre as costelas dele.
+— E o que isso significa pra nós na prática? — Gabo arfou, cravando a bota no degrau seguinte e dando o sinal para Val liberar mais meio metro de cabo no guincho.
 
-Ficaram parados. A respiração de Valéria bateu nas costas dele, quente e rápida.
+— *Significa que a nossa injeção de sinal na fibra ótica gerou um eco de retorno na malha de controle,* — respondeu Aria pelo fone, fria e analítica. — *O controlador registrou nossa leitura como acesso não reconhecido. Não sei qual resposta ele vai acionar.*
 
-— Desculpa — ela disse.
+Gabo não gostava do que estava ouvindo.
 
-— Não pede desculpa. Sobe.
+Ele sentiu algo cutucar o limite de seu olfato. Era fumaça. Uma lembrança suja e indesejada de chaminés industriais e cinzeiros cheios. Uma náusea profunda e visceral revirou seu estômago vazio. Ele odiava a fumaça desde a infância, anos atrás, quando o ar da casa de Dante parecia irrespirável. Cada partícula de poeira suspensa no poço trazia de volta o sufocamento daquele passado. Para não sucumbir à vertigem crescente que a repulsa lhe causava, ele precisava do seu verdadeiro escape. Sua única âncora funcional. A dor.
 
-— Cala a boca, Aria... — Valéria murmurou, engolindo um soluço seco. — Só... continua escaneando a parede.
+*Não.* Ele rosnou internamente, as veias do pescoço saltando enquanto apertava a ferida aberta da palma direita contra a quina viva do ferro frio intencionalmente, buscando o ápice da queimação. A dor lancinante e física o trouxe de volta da beirada, limpando a mente da fumaça imaginária. *A dor purifica o medo.* Ele recusou o pânico.
 
-Gabo não entrou na discussão. Ele fechou os olhos, apertando os dentes até a mandíbula estalar e um gosto amargo de bile e ferro invadir a língua. A umidade fria do fosso trazia um odor peculiar das profundezas. Misturado ao cheiro metálico de sangue e suor estagnado, vinha um aroma acre de polímeros deteriorados pelo fogo.
+— *Aviso. Assinaturas acústicas anômalas detectadas no eixo vertical acima,* — Aria declarou repentinamente pelo comunicador. No pulso de Valéria, o LED azul-gelo do pendrive piscou em alerta máximo, varrendo o fosso através do microfone direcional do deck. — *Múltiplos vetores em descida acelerada.*
 
-O cheiro o transportou de volta anos atrás. Não para as ruas lavadas pela chuva ácida de Baía Cinzenta ou para os destroços do Dilúvio, mas para o pequeno e claustrofóbico apartamento onde passara a infância. O cheiro constante e opressivo de cigarros baratos, impregnando as paredes amareladas e os móveis velhos, o fedor que anunciava a presença fria de Dante antes mesmo de a porta se abrir. Uma náusea violenta rasgou seu estômago. O ar do poço pareceu subitamente escasso, denso com a fumaça ilusória de um passado que ele repudiava com cada fibra do seu ser. O pânico da asfixia lutou para subir pela garganta.
+Gabo levantou o rosto suado. Seus olhos demoraram a se ajustar à penumbra cortada pela névoa de condensação que começava a despencar sobre eles.
 
-Foque. Foque agora.
-Ele apertou a mão ferida contra o degrau e perdeu a força na pegada. A dor não tirou a fumaça da cabeça; só o fez escorregar. Val segurou sua linha de segurança enquanto ele procurava outro apoio.
+O som não era humano. Parecia o ruído de mil agulhas metálicas chocalhando contra chapa de aço, acompanhado por um zumbido grave e elétrico que fazia os dentes vibrarem no maxilar.
 
-— Gabo? — a voz de Valéria ecoou fraca no escuro, temerosa ao ouvir o baque da bota dele vacilar no degrau. — Você tá sangrando mais...
+— Val... luz máxima para o alto! — murmurou Gabo, apoiando a perna do exoesqueleto com força contra um degrau enferrujado para estabilizar o próprio corpo e a carga inerte de Rangel.
 
-— Espera — disse ele, até recuperar o apoio. — Agora continua. — Não olha para baixo, Val. Olha para as minhas botas.
+O feixe da lanterna acoplada ao pulso de Valéria varreu as paredes do fosso. Do alto, cinco silhuetas angulares começaram a descer em espiral. Elas tinham pernas finas e articuladas, parecendo agulhas de tricô de carbono, sustentando torsos ovais lotados de pequenos receptores ópticos que cintilavam em vermelho vivo. Drones de manutenção corporativa da antiga Aeterna Corp. Mas eles não pareciam estar ali para limpar dutos ou soldar cabos.
 
-— *Valéria perdeu o apoio duas vezes,* — relatou Aria pelo comunicador, com a precisão indiferente de um monitor hospitalar. — *Frequência cardíaca: cento e setenta e oito batimentos por minuto. A mão de Valéria já escorregou duas vezes; vinte metros é mais do que ela aguentou. O peso extra e o estado de vocês tornam a subida perigosa. Margem de sobrevivência, aqui, é conta sem número.*
+As carapaças de titânio branco outrora limpas estavam agora cravadas de farpas ósseas e tendões ressecados, fundidos rudimentarmente nos chassis, pingando o mesmo fluido biossintético dourado das esculturas do estúdio.
 
-— Eu disse para calar a boca e manter o sonar ligado, Aria — Gabo cortou, puxando o corpo mais um degrau acima enquanto os servos danificados de seu exoesqueleto gemiam sob a carga dupla. — Se o seu LED piscar fora de hora, eu arranco você do pulso da Val e jogo de volta para o lixão.
+— *Drones Scarab modificados,* — Aria processou os dados da câmera de Valéria com agilidade monótona. — *Unidades de reparo estrutural reconfiguradas pelo Taxidermista para supressão hostil violenta. Alcance de engajamento em seis segundos. O alvo primário somos nós.*
 
-— *Ameaça registrada como improdutiva,* — replicou a IA sem alterar meio hertz na modulação vocal. — *A câmera mostra um degrau rompido acima. Vou manter o aviso, mas a ameaça não melhora o mapeamento. Mantendo telemetria ativa.*
+— As carcaças têm enxertos como os do ateliê — murmurou Valéria, colando as costas na grade da escada. — Podem ter sido alterados por ele.
 
-O degrau seguinte cedeu meio dedo quando ele transferiu o peso — o suficiente para que o coração subisse antes da cabeça. Gabo ficou ouvindo o metal trabalhar, aquele rangido fino de chumbador arrancando da alvenaria, e pensou em quantas pessoas já tinham subido aquela escada carregando alguma coisa que não queriam largar.
+— Aria, consegue travar a frequência deles pelo deck da Val?! — Gabo cobrou, sacando o velho revólver do coldre com a mão direita enfaixada. Carregara cinco cartuchos da caixa de Kiko antes de prender a linha de segurança; a Caronte continuava com apenas uma carga.
 
-O gosto na boca era de moeda velha. Lá embaixo, os drones queimados ainda estalavam de vez em quando, esfriando.
+— *As ordens deles vêm cifradas no barramento.,* — respondeu a IA pelo alto-falante, o corpo do pendrive esquentando contra a luva de Valéria. — *Posso modular uma rajada de ruído branco pelo controlador de manutenção acessível na fibra para interromper as ordens recebidas pelos drones por curtos intervalos, mas a neutralização definitiva exigirá impacto cinético.*
 
-Ele subiu mais três degraus. Depois mais três.
+Não havia como atirar naquelas velocidades sem arriscar o equilíbrio na escada ou deixar Rangel despencar, mas recuar de volta para o frio da morte no Lixão não era uma opção.
 
-O som irregular e gorgolejante da respiração de Rangel, preso à prancha suspensa no trilho lateral, servia como uma contagem regressiva cruel. A demora custava ao inspetor um atendimento que eles ainda não tinham como oferecer. A vida reduzia-se ao próximo degrau, ao próximo aperto ardente na barra enferrujada, esmagando a fumaça ilusória com a dor viva da carne rasgada. Acima deles, a escuridão finalmente começava a revelar o contorno quadrado de uma eclusa lateral, mas o cansaço devorava a esperança mais rápido que a subida.
+O primeiro drone saltou das sombras, abrindo dois braços de perfuração rotativos que assobiaram no ar denso do poço.
+
+Gabo firmou a mão esquerda no apoio da escada e mirou com a direita, os dentes rangendo até o esmalte estalar. O suor frio formava poças minúsculas em sua testa, mas a dor pulsante em suas mãos queimadas mantinha seus instintos letais, precisos e despertos.
+
+— Prepara o pulso, Aria! — ele rosnou.
+
+O inferno começava a vazar para baixo. E eles não tinham para onde fugir.

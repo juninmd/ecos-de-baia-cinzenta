@@ -22,6 +22,6 @@
 * **Pré-Série:** Designada para avaliar Gabo após a morte de Bia Vargas.
 * **Partes I-VII:** As sessões de terapia servem como "interlúdios noir", onde Gabo verbaliza seus demônios internos enquanto ela tenta, inutilmente, oferecer estruturas de enfrentamento saudáveis.
 * **Parte XIV:** Continua atendendo pro-bono nas ruínas do prédio administrativo, tratando o PTSD coletivo da população sobrevivente. Ela é a "curadora da mente" enquanto Nise é a do corpo.
-* **Limite de prova em 4/228:** O recibo de sincronização e as transcrições arquivadas demonstram que a confidencialidade foi vulnerada. Não identificam quem transcreveu, autorizou ou acessou o material, nem provam consentimento de Weiss. A proteção irregular de Gabo descrita no perfil não equivale a entregar suas sessões à corporação; são questões distintas a apurar.
+* **Limite de prova em 4/230:** O recibo de sincronização e as transcrições arquivadas demonstram que a confidencialidade foi vulnerada. Não identificam quem transcreveu, autorizou ou acessou o material, nem provam consentimento de Weiss. A proteção irregular de Gabo descrita no perfil não equivale a entregar suas sessões à corporação; são questões distintas a apurar.
 
 ---

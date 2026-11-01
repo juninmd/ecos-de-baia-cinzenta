@@ -1,78 +1,76 @@
 ---
-Título: Pedágio Fantasma
+Título: Ecos de Aço e Ferrugem
 Data In-Game: Indeterminada (Pós-Colapso da Aeterna)
-Localização: Dutos de Escoamento Secundário (Ponto de Estrangulamento), Distrito 4
-Personagens Presentes: Gabo, Valéria, "O Guardião" (Fantasma)
+Localização: Estação de Metrô Abandonada, Distrito 4 / Túneis de Manutenção
+Personagens Presentes: Gabo, Valéria
 ---
 
-# Capítulo 181: Pedágio Fantasma
+# Capítulo 181: Ecos de Aço e Ferrugem
 
-- Parou - a voz de Valéria soou seca. Ela puxou a gola do meu casaco, me fazendo estancar antes da curva.
+A cada movimento da armação, a tração chegava ao fixador e subia pelo meu pescoço. O curativo que Val trocara no beco ainda estava seco; eu conferia a borda por baixo do sobretudo sem abri-lo. A estação cheirava a esgoto e concreto moído. Tínhamos trocado a chuva por um lugar onde eu podia sentar sem encharcar de novo a proteção.
 
-Atrás de nós, a câmara com as vítimas assimiladas pelo Jardim ficava cada vez mais distante, um pesadelo deixado na umidade sufocante do esgoto. Mas o rastro de podridão parecia nos seguir, colado à sola das botas e impregnado na lã encharcada do meu sobretudo. A escuridão dos dutos mastigava o som dos nossos passos e o cuspia de volta como um eco difuso e distorcido.
+Valéria terminou de amarrar o cyberdeck às costas com tiras de lona encerada para proteger as portas lógicas da umidade. O corte curto do cabelo dela, molhado de chuva ácida, grudava nas têmporas pálidas, onde os fios de LED azul piscavam num compasso irregular.
 
-O túnel afunilou bruscamente cem metros adiante. O lodo escorregadio deu lugar a um piso seco de placas de ferro perfurado, onde o ar cheirava a ferrugem fresca, óleo mineral e lixo queimado em latão de tinta.
+— Terminei o diagnóstico do setor — ela disse, recolhendo a pistola pesada do coldre e checando o cão com o polegar calejado. — Esse ramal do metrô cruzava por baixo dos armazéns industriais da Aeterna antes de ser desativado na enchente de vinte anos atrás. Se os mapas antigos não estiverem mentindo, tem uma galeria de manutenção técnica duzentos metros à frente que corta direto para os dutos do Setor 6.
 
-— Parou — a voz de Valéria soou seca. Ela puxou a gola do meu casaco, me fazendo estancar antes da curva.
+— E como tá a rede por lá?
 
-A franja dela apagou por meio segundo, o tempo de erguer a pistola compacta que trazia a tiracolo e apontá-la para a penumbra à frente.
+— Que rede, Gabo? — ela soltou um meio-riso irônico, cuspindo no chão de granilite rachado. — Não consigo alcançar a rede daqui. O rádio só pega interferência; não sei o que está funcionando na superfície. A única coisa que tá vazando pelos canos é interferência estática e água de escoamento químico. Vamos descer antes que o cheiro desse lodo grude no forro da minha jaqueta pra sempre.
 
-— O que você viu? — perguntei, a pinça externa repousando pesada sobre o quadril, os pinos do fixador latejando em sintonia com os meus batimentos cardíacos.
+Descemos pelos trilhos enferrujados. A escuridão era densa, quase mastigável, furada apenas pelo facho estreito da lanterna que Valéria acoplou ao cano da arma. O ar nos túneis de manutenção era frio e pesado, com gosto de enxofre e amônia que ardia no fundo da garganta.
 
-— Barricada artesanal reforçada — ela sussurrou, os olhos prateados estreitos, escaneando as junções de metal. — Placas de blindagem balística arrancadas de furgões da polícia, vigas em I soldadas em cruz e duas câmeras analógicas com cabo coaxial direto. Quem montou isso aqui entende de controle de perímetro. Tem até concertina de arame farpado nas laterais pra ninguém tentar passar pelo vão da tubulação.
+A estação morta ainda tinha bilheteria, com o vidro fosco e um cartaz de campanha eleitoral desbotado onde só restava o sorriso. Passei por baixo da catraca sem pagar, porque a catraca estava desmontada e porque já não havia ninguém para cobrar. A água cobria os trilhos até o tornozelo.
 
-No centro da estrutura, uma escotilha de ferro maciço barrava a passagem de parede a parede. Acima da fresta blindada de observação, um autofalante de corneta oxidado rangeu com estática.
+— Não encosta no terceiro trilho — Valéria avisou.
 
-— Nem mais um passo, sucata da Central — a voz saiu metálica e arranhada pelo cone de papelão furado. — A biomassa devorou os túneis inferiores há três horas. Quem tenta passar por aqui pra Superfície Pálida paga pedágio.
+— Eu sei o que é terceiro trilho, Val.
 
-Aproximei-me da linha de tiro da barricada, erguendo o queixo para a fresta escura.
+— Só confirmando que o choque não te deixou mais burro do que você já era.
 
-Atrás do vidro grosso e engordurado, vi os olhos do homem. Não eram lentes sintéticas; eram olhos humanos cansados, cercados por olheiras fundas que denunciavam uma década sem ver a luz do sol. Suas roupas eram feitas de lonas militares remendadas com arame de cobre. A placa na guarita dizia SEM CADASTRO, SEM RECOLHIMENTO. Ele se apresentou como alguém apagado dos registros. Eu não podia confirmar sua história olhando o rosto; podia reconhecer o nome que a cidade dava a quem vivia daquele jeito: *Shadowban*. Fantasma.
+A cada dez passos, o peso assimétrico da armação externa forçava minha bota a escorregar no cascalho úmido. Eu respirava com dificuldade, sentindo as costelas trincadas protestarem contra o esforço contínuo de equilibrar vinte quilos de ferro sustentando meu braço fraturado.
 
-— Não somos da corporação — falei, a voz rouca cortando a umidade. — Somos dois sobreviventes tentando alcançar o entroncamento do metrô. Abre a escotilha e a gente segue viagem sem estragar sua tranca.
+— Pisa firme, Moretti — Valéria advertiu sem olhar para trás, a voz ecoando abafada pelas paredes circulares de concreto bruto. — Os dormentes tão podres. Se o seu pé furar essa madeira encharcada, eu não vou descer nos bueiros pra pescar sua perna de lata.
 
-O homem soltou uma risada esganiçada que estalou no alto-falante.
+— Presta atenção no teto, Val. A vibração dos meus passos tá soltando reboco.
 
-— Força bruta não abre ferrolho de locomotiva, detetive. Sei muito bem quem você é pelo tamanho dessa pá de lixo parafusada no seu ombro. E a sua garota aí tem cara de quem carrega peças caras no cyberdeck. O pedágio é simples: a bateria militar dela ou dois filtros de água limpa. Se não tiverem, voltem pros fungos.
+Avançamos mais cinquenta metros até que o facho de luz dela congelou sobre a parede da bifurcação.
 
-Valéria deu um passo à frente, os nós dos dedos estalando. Ela puxou um cabo curto com conector jacaré de dentro da manga e espetou-o diretamente na caixa de passagem do cabo do alto-falante na parede do duto.
+— Que merda é aquela? — o sussurro de Valéria perdeu todo o sarcasmo num instante.
 
-O interfone do homem deu um estrondo agudo de microfonia que o fez recuar com a mão no ouvido.
+Aproximei-me, arrastando a bota pesada pelo lodo. O chão e as paredes da galeria lateral não eram feitos de concreto cinzento. Estavam forrados por um tapete espesso de matéria orgânica esbranquiçada e viscosa, entremeada por filamentos azulados que pulsavam com uma fosforescência pálida e doentia.
 
-— Escuta aqui, seu rato de esgoto — a voz de Valéria saiu amplificada e estridente pelo próprio sistema de som do sujeito, carregada de puro veneno do cais. — Meu nome é Val Cruz. Se você tentar encostar um dedo no meu deck, eu descarrego a sobretensão desse capacitor no seu circuito de interfone e frito seus tímpanos até você sangrar pelo nariz. Você acha que é o único que sabe fazer gambiarra em duto de esgoto?
+O cheiro não era de podridão. Era de adubo, de terra revirada depois da chuva, e essa doçura foi pior do que qualquer fedor: coisa nenhuma cheira a jardim num túnel a trinta metros abaixo da rua.
 
-O homem reapareceu na fresta, a espingarda de cano serrado tremendo na mão suja.
+No centro daquela massa viva, a carcaça de um drone de patrulha da Aeterna — um modelo blindado de choque — estava engolida até a metade. Os filamentos fúngicos penetravam as frestas do chassi de titânio, arrancando os fios de cobre e envolvendo os processadores numa crosta carnuda que parecia respirar.
 
-— Você tá muito assanhada pra quem tá cercada, garota! Eu tenho a alavanca da eclusa de descarte aqui dentro! Um puxão e eu solto trinta mil litros de água de caldeira fervendo em cima de vocês!
+— O Jardim... — murmurei, a mão esquerda instintivamente descendo para o cabo de *Caronte* sob o sobretudo. — A podridão do Silas não morreu na Usina. Ela tá descendo pelas galerias de esgoto.
 
-Valéria me encarou de soslaio, os olhos prateados piscando um alerta silencioso. Ela tocou meu braço esquerdo e falou baixo, cobrindo o microfone improvisado:
+Valéria se agachou a dois metros da borda da massa luminosa, os olhos prateados arregalados e as pontas dos dedos estendidas para o scanner manual do deck.
 
-— A tubulação de alívio passa por cima da nossa cabeça. Não sei se ele consegue abrir a válvula, mas não vejo onde nos esconder caso consiga.
+— Não é só matéria fúngica, Gabo — ela apontou o sensor com uma precisão cirúrgica, a respiração presa na garganta. — Os filamentos entram nas portas do drone. Não consigo dizer se estão transmitindo dados ou só crescendo sobre ele.
 
-Respirei fundo. A frustração desceu amarga pela garganta, mas um policial velho aprende cedo que tiroteio dentro de cano fechado é suicídio disfarçado de coragem.
+— Pode ser uma rede — eu disse. — Ou só outro cadáver tomado pela colônia.
 
-Deslizei a mão esquerda até a mochila de lona. Os dois cilindros de ar de resgate continuavam fechados; nas máscaras, usávamos apenas os cartuchos. Entregar um cortaria a reserva de retirada pela metade. Olhei para o ramal por onde tínhamos vindo. Os três catadores continuavam lá, e eu não conseguiria refazer a descida com a gaze já marcada de sangue.
+— E com fome de metal limpo — ela se levantou rápido, recuando um passo e apontando a lanterna para os dutos superiores, onde raízes fibrosas rastejavam como veias pulsantes sobre o concreto. — Apaga o indicador do seu ombro, Moretti. A frequência dessa luminescência é de dois hertz. Ela reagiu quando o sensor chegou perto, mas não sabemos se foi luz, calor ou movimento. Não encoste o suporte nela para testar.
 
-Puxei um dos cilindros e ergui-o para a fresta de vidro.
+Levei a mão de carne ao painel da armação e girei o dial até o ponto morto. O LED verde do ombro morreu, e com ele morreu metade da força: os pistões travaram na posição em que estavam, e o braço virou de repente um peso de vinte quilos pendurado na clavícula, sem contrapeso, sem ajuda.
 
-— Ar comprimido de resgate — anunciei, mostrando o lacre sem bater na válvula. — Regulador e manômetro. Você confere o rótulo pela gaveta. Não é oxigênio nem filtro de água, mas permite sair daqui se o retorno encher de fumaça.
+— Quanto tempo? — perguntei.
 
-O silêncio do homem durou longos cinco segundos. Eu podia ouvir a respiração ofegante dele através da corneta. Em Baía Cinzenta, munição e comida você roubava; uma reserva de ar podia comprar uma saída.
+— Apagar o indicador só esconde a luz. Você desligou o atuador inteiro; a bateria ainda perde carga em repouso. — Ela varreu a colônia com o scanner. — Mas o motor também não trabalha. Você vai subir essa escada com o braço morto. Se escorregar, não tem pistão pra te segurar.
 
-— Minha saída de cima queimou ontem — disse ele. A espingarda baixou alguns centímetros. — Passa pela gaveta. Eu leio o rótulo, você ouve a trava. Só um de vocês cruza por vez.
+— Já subi pior, Val.
 
-— O cilindro vai quando a trava pneumática estalar — Valéria rebateu antes que eu respondesse, a voz firme e intransigente. — A gente não é novato de periferia, Fantasma. Libera o ferrolho principal ou eu puxo o cabo e queimo sua estação inteira.
+— Não, não subiu.
 
-Uma pausa tensa. O som pesado de engrenagens industriais sendo destravadas ecoou pelas paredes do túnel. A fresta da gaveta deslizou, engolindo o cilindro de ar comprimido, e logo em seguida o portão de blindagem subiu com um rangido metálico estridente de correntes oxidadas, revelando a passagem estreita para a rampa de saída.
+— Tem caminho pela direita?
 
-O homem conferiu a pressão e guardou o cilindro ao alcance da escada interna. Val anotou o lacre do único que nos restava. Não tínhamos comprado um caminho seguro; tínhamos pago para abandonar o anterior.
+Valéria ergueu a lanterna, iluminando uma passarela de manutenção elevada, cerca de dois metros acima do nível do chão tomado pela biomassa. O corrimão de ferro estava carcomido pela ferrugem, mas a estrutura ainda parecia sólida o bastante para aguentar nosso peso.
 
-— Três catadores ficaram presos na câmara de drenagem — Val disse antes de sair. Mostrou no mapa o ramal marcado e o registro dos rostos. — Se tiver rádio para a superfície, avisa que precisam de equipe. Tem gás e vazamento; não entra lá sozinho.
+— Dá pra subir pela escada de serviço ali na frente — ela disse, ajustando o cyberdeck e me encarando com a determinação feroz de quem se recusa a ser engolida por Baía Cinzenta. — A gente passa por cima dessa meleca bioluminescente sem encostar na colônia. Mas anda sem bater essa mão de ferro nas grades, Gabo. O som reverbera nesse túnel feito sino de igreja.
 
-O homem copiou o ponto num pedaço de papel. — Posso tentar chamar quando a linha abrir. Não sei quem responde. — Val anotou a frequência da guarita ao lado da localização, sem chamar aquilo de resgate.
+— Eu não faço barulho, garota.
 
-— Que a chuva não pegue vocês lá em cima — ele resmungou da penumbra da guarita.
+— Não faz barulho? — ela bufou, já alcançando o primeiro degrau de ferro da escada lateral com passos ágeis. — Você anda parecendo um trator desgovernado caindo de um penhasco. Sobe logo antes que essa coisa decida que você é um ótimo condutor de energia.
 
-— Guarda o ar pra quando o Jardim subir até aqui, parceiro — Valéria retrucou, recolhendo seu cabo com um puxão seco e ajeitando a jaqueta enquanto cruzávamos o portão. — Você vai precisar de cada litro.
-
-Seguimos pelo túnel ascendente, deixando para trás a barricada e o cheiro de ferrugem fria. A armação, ainda desligada, rangia a cada passo na subida para a Superfície Pálida.
+Subi atrás dela, sentindo cada centímetro do meu corpo ranger com o esforço da escalada, enquanto a fosforescência azulada do Jardim pulsava silenciosamente lá embaixo, esperando o menor deslize da nossa carne cansada.

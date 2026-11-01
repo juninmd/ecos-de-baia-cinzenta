@@ -1,57 +1,69 @@
 ---
-title: "Capítulo 145: Sangue nas Dobradiças"
+title: "Capítulo 145: Vértigem de Sílica"
 Data In-Game: "Pós-Colapso da Usina Prometeu (Noite Eterna)"
-Localização: "Necrópole (Subnível 6.5 - Eclusa de Manutenção da Aeterna Corp)"
+Localização: "Necrópole (Subnível 7 - Poços de Ventilação da Aeterna Corp)"
 Personagens Presentes: "Gabo, Valéria, Aria (Reboot), Rangel (Inconsciente)"
-description: "A porta foi alterada para exigir uma sangria desnecessária à identificação. O grupo reconhece a modificação, em vez de tratá-la como regra natural de biometria."
 ---
 
-# Capítulo 145: Sangue nas Dobradiças
+# Capítulo 145: Vértigem de Sílica
 
-O metal cedeu antes dos músculos de Gabo. Não muito, apenas o suficiente para que o mosquetão raspasse com um gemido estridente contra a estrutura do poço, um lembrete físico de que a gravidade estava farta de brincar.
+A gravidade é uma amante impiedosa, mas o vazio escuro do poço de ventilação era pior. Ele prometia não apenas a queda, mas o esquecimento.
 
-— *Plataforma de acesso detectada a vinte metros acima. Inclinação: oitenta e cinco graus. Estrutura primária: reforçada.* — A voz sintética de Aria não ecoou; saiu pelo comunicador e cortou a umidade como um bisturi, precisa e clínica, enquanto o drive piscava no pulso de Valéria.
+O zumbido elétrico dos drones *Scarab* vibrou contra o metal corroído da parede, ecoando no peito de Gabo. A primeira máquina atacou com um silvo agudo, caindo como uma aranha mecânica gigantesca diretamente em direção ao seu rosto. Seus receptores ópticos vermelhos deixavam um rastro sangrento na escuridão, cravados no chassi de titânio branco sujo com enxertos grotescos de cartilagem endurecida.
 
-Vinte metros. Poderia muito bem ser a distância até a lua. A respiração de Gabo saía em arfadas curtas e rasgadas, cada exalação formando uma pequena nuvem no ar frio e estagnado. O corpo de Rangel, balançando ligeiramente abaixo dele, parecia ter dobrado de peso desde a última hora. Rangel precisava de atendimento, e cada metro consumia o tempo que restava.
+O polegar de Gabo puxou o cão do revólver. O tambor girou com um clique pesado e satisfatório. Ele não podia errar. Não pendurado a quarenta metros do chão escuro do Lixão, mantendo a cinta-guia da prancha de Rangel na mão esquerda. O guincho travado sustentava o peso; se o cabo rompesse, ele não conseguiria segurá-lo.
 
-Suba.
-O cheiro de polímeros trouxe a lembrança do apartamento de Dante, mas a mão ferida não lhe deu a clareza de antes; só falhou no degrau. Gabo desviou o peso para o arnês e fixou os olhos nas botas de Val, que subia logo abaixo. Dessa vez, acompanhou a voz dela em vez de forçar a carne a calar o passado.
+Bam.
+O estampido ensurdecedor da bala rasgou a acústica apertada do poço. O coice da arma torceu o pulso de Gabo, enviando um choque de agonia fresca pelos tendões esfolados da mão direita. O projétil de chumbo atingiu o torso oval do drone, despedaçando o invólucro de titânio e explodindo a matriz de sensores. O *Scarab* guinchou, fagulhas azuis vomitando de seu núcleo enquanto despencava no abismo além deles. O som de metal quebrado sumiu no breu lá embaixo.
 
-— Tá... tá quase lá, chefe. — Valéria resfolegou, logo abaixo. O som de seus cotovelos batendo contra o metal revelava a total falta de coordenação causada pela exaustão. — Eu só... só preciso de dois minutos sem ter que hackear a porra da gravidade.
+Um a menos. Quatro sobrando.
 
-Gabo alcançou a plataforma e prendeu sua linha no apoio. Val acionou a transferência lateral do guincho até as rodas da prancha tocarem a grade; só então recolheu o cabo e subiu. Ele ofereceu o antebraço para que ela passasse a borda, sem tentar levantá-la. O impacto dos joelhos de Gabo contra o metal soou como um tiro surdo. Ele ficou de quatro, o suor ácido pingando do queixo, misturando-se com a poeira de eras depositada ali.
+— *Interferência de protocolo em curso,* — a voz sintética e oca de Aria cortou o zumbido remanescente pelo comunicador de gola de Gabo.
 
-O espaço não era um andar propriamente dito, mas um nicho cravado na parede do poço — uma eclusa de manutenção da antiga Aeterna Corp. As paredes de titânio desgastado carregavam cicatrizes de uso e abandono desde o Dilúvio. À frente deles, bloqueando o avanço horizontal, havia uma porta pesada, ladeada por tubulações estilhaçadas.
+Abaixo dele, no pulso de Valéria, o pendrive blindado aqueceu subitamente, o LED azul-gelo piscando como um estroboscópio enquanto Aria usava o transmissor de curto alcance do cyberdeck *Phantom V3* e o próprio cabo de fibra ótica espetado na malha para injetar um pulso de blefe corporativo.
 
-Valéria se arrastou até a porta, tirou o pendrive blindado de Aria do slot lateral do *Phantom V3* e espetou o conector universal retrátil diretamente na fenda de diagnóstico do painel lateral oxidado. O LED azul-gelo da unidade pulsou rapidamente enquanto Aria invadia os barramentos mortos da tranca.
+O segundo drone, que saltava em direção à cabeça de Valéria com duas pernas de carbono afiadas em riste, travou os servomotores em pleno ar por meio segundo — seus receptores ópticos piscando em conflito entre a ordem orgânica do Taxidermista e o código de parada de emergência que Aria acabara de falsificar.
 
-— *Analisando o bloqueio,* — a voz de Aria soou pelo alto-falante do deck de Valéria, fria e isenta de qualquer fadiga. — *Tranca de segurança classe militar. Painel biométrico integrado à malha local inativa da Aeterna.*
+Foi a brecha que Valéria precisava. Agarrada à escada com as pernas, a hacker girou o tronco e golpeou a articulação exposta da máquina com uma pesada chave de grifo presa ao cinto, enquanto Aria enviava pela fibra uma parada de manutenção ao controlador do poço. O segundo drone aceitou o comando; os outros continuaram descendo. O *Scarab* tremeu violentamente, seus sensores vermelhos estourando em faíscas antes de apagar de vez e despencar no escuro.
 
-Valéria desabou sentada contra a parede, tentando recuperar o fôlego enquanto olhava para o drive espetado no painel. — E... e agora, Aria? Consegue girar o solenoide por dentro?
+— Aria! — Gabo gritou, a garganta rasgando de sede. — Val, você tem que fechar a porta lógica deles! O que diabos eles estão fazendo no canal da Aeterna?
 
-O LED azul-gelo do pendrive piscou em um padrão estático, desprovido de ironia ou aborrecimento.
-— *Negativo. A bobina de indução eletrônica está rompida. O acionamento secundário exige validação física no módulo adjacente. A solução requer material genético humano.*
+Valéria estava espremida contra os degraus gelados, a tela holográfica do deck iluminando seu rosto pálido e suado de azul cobalto. O grosso cabo de fibra óptica, desenterrado do Lixão de Ossos, continuava acoplado à ponte do seu deck onde o pendrive de Aria fervia de processamento.
 
-Gabo, ainda de joelhos examinando o pulso fraco de Rangel, levantou os olhos. A dor em sua mão agora era um pulsar baixo e contínuo.
-— Genético? A corporação perdeu a cidade no apagão. Ninguém aqui tem crachá.
+— Estou tentando, porra! — ela rosnou, os olhos vidrados na tela. — O controlador disparou depois da nossa leitura. Ainda não sei quem alterou o protocolo nem quantas máquinas vão responder.
 
-— *A memória de validação está corrompida e não exige mais um DNA específico da lista de funcionários originais,* — Aria explicou pelo comunicador, enquanto Valéria arrancava a tampa fosca e manchada de óxido do módulo biométrico ao lado do pendrive, expondo filamentos de fibra óptica morta e um pequeno receptáculo com microagulhas expostas. — *O leitor original pedia uma pequena amostra para comparar com o cadastro. Há uma alteração recente: o comando aceita qualquer amostra humana, mas vincula a abertura ao enchimento do reservatório de coleta. Isso não é necessário para identificar alguém. Transformaram o acesso numa sangria.*
+O terceiro drone desceu rasgando a parede esquerda, lançando uma chuva de faíscas que atingiram o rosto de Gabo. Ele piscou, cego por uma fração de segundo.
 
-Gabo se ergueu lentamente, os ossos estalando em protesto. Ele caminhou até o painel onde o pendrive de Aria brilhava como uma brasa fria. As microagulhas pareciam dentes minúsculos esperando para morder.
-— Vai exigir sangue, é isso?
+O cheiro o atingiu antes do impacto. Não o ozônio familiar dos tiros, mas fumaça pura. Fuligem. O fedor cáustico de cigarros baratos queimando junto a cinzeiros velhos, impregnando as cortinas e estofados da antiga casa dos Moretti anos atrás. A náusea subiu rasgando o estômago de Gabo, ameaçando paralisar seus reflexos. Um frio sepulcral gelou seu sangue. Ele ia morrer, asfixiado novamente, e ia levar Rangel junto.
 
-— *Afirmativo. O comando alterado exige duzentos mililitros no reservatório. Posso tentar isolar a coleta e abrir o acesso por fora, mas o sensor de sabotagem está ligado ao fecho.* — A IA não hesitou, nem suavizou a matemática cruel.
+Não.
+Gabo apertou a mão esquerda ferida ao redor do mosquetão do cinto tático. Com força. Com intenção.
 
-Valéria arregalou os olhos. — Duzentos ml? Gabo, você mal consegue ficar em pé, não pode...
+A carne queimada gritou contra o aço irregular. A dor roubou força da mão em vez de devolver clareza. Ele quase largou a cinta. Val mandou que prendesse a guia no apoio e parasse de apertar a ferida. Gabo obedeceu antes de erguer a arma; o medo continuou ali.
 
-— Rangel já perdeu sangue demais, — Gabo interrompeu, a voz rouca e firme. — Não vou usar o braço dele para pagar essa porta. E você, Valéria, precisa estar inteira para carregar a Aria e nos tirar do próximo buraco tecnológico em que cairmos.
+Ele ergueu o braço direito, o revólver estabilizado no instante em que o *Scarab* armou o salto.
 
-— Gabo... — Valéria protestou, mas ele já estava levantando a manga do braço esquerdo, já ferido pela mordida, que ele ainda conseguia apoiar sem pressionar a palma.
+Dois tiros rápidos, engolindo os tímpanos de todos no fosso. O primeiro tiro arrancou a perna dianteira da máquina. O segundo atravessou a carapaça modificada, estilhaçando os ossos amarelados que protegiam o servomotor central. O drone bateu violentamente contra a lateral do fosso e deslizou, raspando metal com metal até cair no esquecimento.
 
-Ele olhou para as agulhas. O cheiro de sangue prestes a ser derramado já dominava o ambiente, mas era um cheiro metálico, limpo, real. Muito melhor que a fumaça ilusória que tentava invadir suas memórias.
+— *Probabilidade de contenção balística esgotada: restam apenas dois projéteis no tambor,* — Aria relatou pelo fone, enquanto o feixe laser do deck de Valéria escaneava o teto sombrio logo acima deles. — *Dois alvos restantes. Recomendação tática: eliminar base de apoio estrutural. Viga transversal a dois metros acima de sua cabeça apresenta corrosão aparente no pino de ancoragem leste. Não é a viga que sustenta o guincho.*
 
-— *Você já está sangrando e tonto. Não consigo medir sua perda total, nem chamar essa coleta de segura,* — Aria informou pelo alto-falante, como se estivesse comentando sobre a previsão do tempo.
+Antes que os dois últimos drones pudessem convergir, Gabo entendeu o cálculo frio da IA. Aria falava pela síntese restrita e não podia conferir o outro lado da viga. Gabo esperou Val confirmar o apoio antes de usar os dois cartuchos restantes.
 
-— Vou correr o risco, caixa de cálculo. — Gabo pressionou o antebraço contra o receptáculo.
+— Val, segura o cabo! — Gabo rugiu, apontando o cano fumegante do revólver para cima, direto na junta oxidada da pesada viga de sustentação que cruzava o fosso onde os dois *Scarabs* se apoiavam.
 
-A mordida das agulhas foi profunda. Gabo sibilou, fechando os olhos enquanto sentia o maquinário arcaico sugar o calor de suas veias. O som de sucção mecânica misturou-se ao ruído gorgolejante da respiração de Rangel e ao zumbido agudo do pendrive de Aria aquecendo no slot ao lado para converter o sinal biológico em pulso de abertura. A dor no braço somou-se à tontura. Val segurou o ombro dele e observou o volume subir, pronta para interromper a coleta se ele perdesse a consciência. Ele observou, em um transe induzido pela fadiga, enquanto o painel inativo começava a piscar fracamente em um tom vermelho opaco. O módulo registrava cada gota com uma marca de data recente. A corporação instalara o leitor; alguém ainda vivo escolhera cobrar daquele jeito.
+Bam! Bam!
+Os dois últimos disparos estilhaçaram o pino de ferro podre. O metal estalou, gemeu sob o peso das máquinas e cedeu de vez.
+
+Um bloco gigantesco de chapa metálica, poeira centenária e fiação desconectada desabou das sombras. Os dois drones *Scarab* finais, que se preparavam para um ataque coordenado, foram varridos e esmagados instantaneamente contra a parede do duto pela avalanche de detritos corporativos. A sucata desceu rasgando pelo fosso, raspando as paredes, errando Gabo e Valéria por pouco, levantando uma nuvem densa de pó de sílica e ferrugem.
+
+Quando o estrondo final sumiu na escuridão do Lixão lá embaixo, o único som que restou foi a respiração rouca de Rangel e o zumbido agoniante nos ouvidos de Gabo.
+
+— *Perigo imediato eliminado,* — a voz monótona de Aria soou pelo comunicador no meio da fumaça empoeirada, o LED azul-gelo do pendrive brilhando firme no pulso de Valéria. O sintetizador não alterava o tom.
+
+Valéria desconectou o cabo externo da fibra com um solavanco, arfando e piscando furiosamente para ajeitar o foco ocular.
+
+— Deuses da matriz, — a hacker murmurou, tremendo. — Podem vir mais. A leitura da fibra acionou algum alarme, e eu não consegui desligá-lo.
+
+Gabo tossiu, cuspindo gosto de pólvora e poeira oxidada. Sua mão direita estava bamba. O revólver descarregado parecia pesar cem quilos. Ele guardou a arma no coldre com cuidado mecânico, não querendo arriscar deixar cair nada. O mosquetão cravando em suas queimaduras manteve o foco da sobrevivência e a urgência do instinto da rua retornou com força total.
+
+— Então paramos de pensar na subida como uma fuga, Val, — a voz de Gabo raspou na garganta seca. Ele olhou para a escuridão úmida que continuava acima deles, apertando mais um grau sua mão sangrenta no degrau, sentindo a dor martelar suas veias. — E começamos a tratar como um cerco.

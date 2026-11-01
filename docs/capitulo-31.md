@@ -1,126 +1,115 @@
 ---
-image: /capitulo_31.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Valéria "Val" Cruz, Aria (módulo na bolsa), funcionários da Torre Aeterna
-Localização: "Torre Aeterna, nível 70 → escadas de serviço → desvio no 50 → escritório e escada do 28"
+image: /cenas/safehouse.jpg
+Personagens Presentes: Roberto Miranda, Silas Vance, integrantes dos Jardineiros
+Localização: "Cobertura blindada de Roberto Miranda, Distrito Alto"
 ---
-# Capítulo 31: Ruptura Total
+# Capítulo 31: A Casa Sempre Ganha
 
-Na madrugada da queda, ainda no nível 70, a voz atrás da porta recusou o primeiro pedido de ajuda.
+Cronologia: vinte e quatro horas após a queda do controle da Torre.
+Miranda precisou segurar o copo entre os joelhos para despejar o uísque. A mão esquerda tremia. À direita, a manga vazia terminava num curativo que a clínica particular recomendara não molhar. Uma das faixas já tinha uma borda vermelha.
 
-— Se tiver arma apontada, eu não abro.
+A cobertura cheirava a álcool de limpeza, sangue e filtro caro. O ar condicionado funcionava no circuito de reserva; o visor junto à porta previa mais nove horas de combustível. Depois disso, o Distrito Alto teria de aprender o cheiro da própria cidade.
 
-Elena pôs a Caronte no chão. Mostrou as mãos pela abertura e explicou que havia um homem com a perna quebrada. Não disse polícia. Esperou.
+Na parede, um monitor reproduzia as últimas imagens gravadas pela câmera externa. A Torre estava escura. A palavra AO VIVO continuava num canto, embora o relógio da imagem tivesse parado na madrugada anterior.
 
-Um funcionário de manutenção espiou o centro de dados. Tinha pó branco no cabelo e um molho de chaves preso à cintura. Atrás dele, outro homem segurava a ponta de uma prancha de transporte, dessas usadas para mover equipamentos compridos na escada.
+— Amadores — disse Miranda.
 
-— Já ouvimos a segurança dizer isso — respondeu o primeiro.
+Não estava claro para quem.
 
-Ele viu a perna de Gabo. Depois olhou para Valéria, que pressionava o ombro e mantinha o olho esquerdo fechado. Abriu espaço sem sorrir.
+Na mesa, havia um recibo da remoção do Palácio de Jade. Um veículo de atendimento privado, dois profissionais, uma autorização de débito que consumira o equivalente a seis meses de salário de um inspetor. Ao lado, a alta a pedido contra recomendação médica, assinada com a mão esquerda.
 
-— O elevador morreu. Nessa prancha ele vai bater em cada patamar.
+Ele dobrou o recibo pela linha do nome da empresa. O papel dizia quem o transportara do cassino à clínica. Não dizia quem o tirara da custódia policial antes disso. Esse nome ele não tinha escrito em lugar nenhum naquela casa.
 
-— Pode falar comigo — disse Gabo.
+O telefone sobre a mesa continuava sem serviço. Miranda discou outra vez o contato do transporte. Esperou ouvir uma voz, uma cobrança, qualquer coisa que ainda soubesse reconhecê-lo. O aparelho só mostrou a chamada incompleta.
 
-— Então não tenta levantar quando doer.
+— Você saiu de coisa pior, Roberto.
 
-Passaram duas tiras de carga sob o tronco e os quadris. Elena sustentou a perna apoiada enquanto os homens o deslocavam para a prancha. O ombro direito de Gabo recebeu um tranco; ele pediu que parassem e não conseguiu terminar a palavra. Tiveram de recomeçar.
+Falou alto para ocupar o lugar da resposta.
 
-Antes de sair, Elena recuperou as armas vazias. Levou a bolsa das provas atravessada no peito. Valéria carregava o deck e Aria junto ao braço esquerdo, sem força para ajudar no peso de ninguém.
+O cofre ficava atrás de uma reprodução de Goya. Ele tentou o leitor, esqueceu por um instante que a mão autorizada já não estava ali e encostou o curativo na borda de aço. A dor fez o copo bater na parede.
 
-A escada cheirava a tinta quente. O ruído dos ventiladores diminuíra; por baixo dele apareciam tosse, passos e gente chamando familiares. O homem das chaves conhecia os lances onde cabia girar a prancha. No primeiro patamar, avisou antes de inclinar.
+Usou a chave mecânica que guardava na sola de um sapato. Demorou para tirá-la com os dedos molhados de uísque. A fechadura abriu sem pedir rede, assinatura ou perdão.
 
-Gabo mesmo assim gritou.
+Dentro havia ouro, diamantes e documentos para cinco nomes. As barras de crédito ficaram onde estavam. Miranda pôs o resto numa maleta e tentou fechá-la apoiando o corpo na tampa. O movimento repuxou o curativo; teve de sentar no chão até a náusea passar.
 
-No terceiro, já sabia qual borda do degrau ia transmitir o choque pela perna. Antecipar não ajudava. A mão esquerda apertava o cinto sem conseguir fechar todos os dedos; a direita continuava presa contra o corpo.
+Numa gaveta, encontrou o cartão do homem que prometera passagem para fora da cidade. O endereço eletrônico não valia nada naquele momento. No verso, havia um número de atracação escrito a lápis. Isso ainda podia valer.
 
-Val descia atrás de Elena, apoiando a mão livre no corrimão. Quando uma faixa de luz atravessou o rosto dela, Gabo viu o olho esquerdo sem acompanhar o direito.
+Precisava chegar ao porto. Precisava de um motorista que aceitasse ouro. Precisava que ninguém no caminho lembrasse quem ele tinha sido.
 
-— Está vendo?
+O monitor secundário exibia o salão do cassino antes da invasão. Miranda selecionou a gravação seguinte. Viu o Cobalt atravessar a recepção, o corrimão sob sua mão e o instante em que a Caronte arrancou a prótese reparada.
 
-— De um lado.
+Parou a imagem antes da queda.
 
-— Volta quando desligar?
+A câmera guardara o próprio rosto dele, com a boca aberta. Elena também tinha filmado. O cassino já vendera versões mais curtas. Miranda precisava descobrir quem tinha a longa antes de poder comprar silêncio.
 
-Ela não respondeu. Gabo deixou a pergunta onde estava.
+Ele arrastou a cadeira para longe da tela.
 
-Levaram mais de meia hora para alcançar o nível 50. Haviam parado para trocar quem pegava a ponta, ceder passagem a uma mulher com um bebê e apertar de novo a compressão na canela de Gabo. O segundo carregador já não conseguia esconder o tremor nos braços.
+A samambaia do canto tocava a moldura de Goya. Não chegava ali quando ele saíra de casa. Sob o vaso havia uma faixa escura de umidade, acompanhando a junta do piso até o armário de manutenção.
 
-No patamar, a fumaça vinha de baixo. Havia uma porta fechada, uma pequena multidão e gente de cima continuando a chegar.
+Miranda olhou o ar condicionado. O visor ainda marcava nove horas.
 
-Um alto-falante anunciou extensão da purga para outro setor. Não dava o andar de forma audível. O homem das chaves apontou o indicador amarelo no duto e mandou que se afastassem dali. Não precisou dizer que aquilo podia alcançá-los.
+— Vazamento — disse.
 
-Gabo começou a indicar a janela no fim do corredor. Viu os cabos pendurados na fachada e o vazio depois deles. Olhou a própria mão antes de terminar a frase.
+Pegou a pistola com a mão esquerda mesmo assim.
 
-— Tem outro caminho? — perguntou ao funcionário.
+Um estalo veio do armário. Depois outro, mais baixo. A tampa de inspeção junto ao rodapé se deslocou um dedo para fora. Alguém estava trabalhando do outro lado.
 
-— Pela copa. Passarela interna para a escada sul. Se não fecharam também.
+Miranda deu dois passos para a saída principal. A luz branca oscilou. O circuito de reserva permaneceu ligado, mas uma claridade verde começou a aparecer entre as folhas da planta. Não vinha das lâmpadas do teto.
 
-Foram atrás dele. A passagem tinha louça quebrada, café derramado e um cheiro doce de comida esquecida num forno. Elena usou a lanterna da câmera para iluminar o chão. A bateria piscou o aviso de reserva; ela desligou o visor e continuou com a luz.
+— Segurança.
 
-Na porta seguinte, um supervisor tentava bloquear a saída com o próprio corpo.
+O comando de voz não respondeu. O serviço doméstico dependia da conexão que o telefone já perdera.
 
-— A ala executiva está isolada.
+Do duto veio uma voz humana, abafada pela chapa.
 
-O funcionário levantou o molho de chaves.
+— A poda é necessária, Roberto.
 
-— Eu troco o filtro deles há onze anos. Você vai me impedir de passar?
+Ele atirou no armário. A primeira bala abriu um buraco no laminado; a segunda fez alguém recuar com um grito curto. O braço esquerdo estava cansado antes do terceiro disparo.
 
-O supervisor olhou a câmera de Elena. Ela ainda estava gravando. Ele saiu da frente, mas reteve o funcionário pelo cotovelo para perguntar se o acesso ficaria registrado em seu nome.
+A tampa caiu. Um homem de máscara de gás puxou a perna ferida para dentro da sala. Atrás dele, outra pessoa ergueu uma ferramenta comprida e alcançou a trava manual da porta de serviço.
 
-— Fica no meu — disse Elena. — Fala o seu para a gravação.
+Miranda tinha pago por aço na entrada principal. Não lembrava quem ainda possuía a chave do corredor por onde vinham os filtros e saíam os sacos de lixo.
 
-Ele soltou o braço.
+A porta abriu. Entraram figuras de aniagem, botas sujas e máscaras antigas. Uma carregava uma serra de poda. Outra trazia um recipiente de vidro contra o peito, com raízes comprimidas numa solução leitosa. O cheiro de terra molhada atravessou o álcool e tomou a sala.
 
-A travessia terminou numa escada mais larga. Desceram devagar, incorporados a uma fila que carregava água, crianças e malas demais. Gabo não viu quantos ficaram no patamar anterior. Ninguém tinha uma contagem em que pudesse confiar.
+Miranda tentou alcançar o elevador privativo. O painel reconheceu a passagem do cartão, mas não liberou a cabine: grupo de elevadores indisponível, aguarde manutenção. Ele apertou de novo. A reserva comprava iluminação; não comprava um caminho para baixo.
 
-No 28, os carregadores precisaram parar. O primeiro baixou a prancha no chão de um escritório e ficou agachado, segurando os próprios punhos. O outro pediu água com a voz que se usa para pedir dinheiro emprestado.
+— Eu pago — disse, virando a pistola para os homens.
 
-Um executivo começou a dizer que aquela área não era de circulação. Parou quando Elena apontou o bebedouro atrás dele.
+Uma folha se fechou no punho dele. Pareceu fina até o primeiro espinho entrar. Miranda disparou no vaso. Terra e cacos se espalharam; a pressão diminuiu o suficiente para tirar a mão, mas a arma caiu junto.
 
-— Tem copo?
+Um dos invasores a recolheu antes que ele pudesse se abaixar.
 
-O homem abriu um armário. Havia garrafas de vidro, lacradas, numa caixa marcada para uma reunião da diretoria. Elena tirou a caixa inteira e colocou junto da porta. Os funcionários beberam antes de voltar à prancha.
+O último homem entrou sem máscara. Alto, de jaleco cerimonial de fibras naturais, parou a uma distância que não exigia levantar a voz. Os cabelos brancos caíam sobre a gola limpa.
 
-Valéria sentou ao lado de Gabo. O ombro voltara a molhar a compressão. Elena segurou o pano no lugar e entregou uma garrafa para que ela bebesse com a esquerda. Val tomou dois goles e vomitou entre os pés.
+Miranda reconheceu o rosto. Silas estava ereto, os olhos intactos, observando o curativo antes de olhar a maleta.
 
-— Bati a cabeça — disse Elena ao executivo. — Ela foi baleada. Ele não pode apoiar a perna. Precisamos de atendimento lá embaixo.
+— Silas Vance.
 
-O homem mostrou o telefone sem sinal, como se já tivesse feito sua parte.
+— Ainda lembra os nomes. Bom.
 
-Pela janela, as luzes ainda desenhavam pedaços da cidade. Um bairro acendeu por um segundo e desapareceu. Veio um tremor baixo, seguido do silêncio das bombas do escritório. O ar condicionado deixou sair um bafo de poeira antes de parar.
+Silas indicou o ferido junto do armário. Dois companheiros o ampararam e o levaram para o corredor. Sangue escorreu de uma bota. Miranda acompanhou a mancha como se ela pudesse tornar aqueles homens negociáveis.
 
-Val ergueu o deck. O aparelho recebeu um último aviso pela porta de diagnóstico que ela acabara de ligar ao painel da sala: perda de despacho central, desligamento de geração, separação dos circuitos de distribuição. Depois perdeu a conexão.
+— Tem ouro na maleta. Passagem. Posso levar vocês.
 
-— Os reatores estão saindo da rede — disse.
+— Você deixou de pagar a manutenção desta casa faz três meses.
 
-— Vão explodir? — perguntou o executivo.
+Miranda olhou o vaso partido. A lembrança veio em pedaços: a empresa nova, o desconto, a assinatura que um funcionário pedira no elevador. Plantas que exigiam menos água. Ninguém lê um contrato de jardinagem para descobrir por onde será levado.
 
-— O aviso é de desligamento. Eu não estou dentro deles.
+Isso não explicava Silas. Explicava a porta aberta.
 
-— Quando a luz volta?
+— Quer os arquivos? — perguntou. — Eu sei onde guardam coisa que não aparece na rede.
 
-Val olhou o olho imóvel refletido na janela. Desconectou o cabo.
+Silas se aproximou. Tinha cheiro de formol por baixo da terra.
 
-— Eu não sei.
+— Agora estamos conversando.
 
-O restante da iluminação pública caiu por setores. O apagão que começara em partes da Torre alcançava agora a distribuição da cidade. Não apagou o telefone na mão do homem, nem a lanterna de Elena. No aquário da parede, uma pequena bateria manteve a bomba funcionando.
+Os dois homens seguraram Miranda pelos braços. Um puxou o lado do curativo; ele gritou e quase caiu. Silas mandou afrouxar a pressão. Não parecia piedade. Parecia a inspeção de algo que precisava chegar inteiro.
 
-Gabo ouviu aquela água enquanto tentava imaginar quantos hospitais tinham conseguido fazer o mesmo. Não havia ninguém ali que pudesse lhe dar esse número.
+— O Projeto Gênesis precisa de gente que conheça os caminhos — disse.
 
-O executivo tentou usar o painel de emergência para chamar um elevador exclusivo. A tela pediu conexão com a central. Ele bateu no vidro até o homem das chaves mandar parar: estava gastando a reserva que acendia o corredor.
+Miranda prometeu nomes, entradas, depósitos. Não recebeu resposta sobre quando sairia. As raízes que restavam no piso se moveram na direção do corredor, roçando o ouro espalhado sem detê-lo.
 
-— Ela escolhe o que mantém ligado? — perguntou Gabo, indicando a instalação do aquário.
+Levaram-no pela porta de manutenção, vivo, sem casaco e sem a maleta. Na tela, a gravação parada ainda mostrava sua mão presa ao corrimão do cassino.
 
-— Tem tomada separada — respondeu o funcionário. — A saída não tem.
-
-Elena apontou a câmera para as duas. A luz de gravação piscou mais rápido; ela salvou o arquivo e desligou o aparelho. A última imagem guardada foi a água circulando atrás de uma placa de segurança apagada.
-
-Da escada vieram gritos pedindo espaço. Havia gente demais tentando passar pela porta ao mesmo tempo. Os dois funcionários se levantaram com dificuldade. Elena guardou a câmera junto do crachá de Neide e foi ajudar a separar a fila.
-
-Gabo tentou se erguer na prancha. A dor o fez deitar antes que alguém mandasse. Não havia cidade libertada esperando por sua frase, nem rua capaz de lhe devolver a perna. Havia vinte e oito andares e pessoas que podiam decidir deixá-lo.
-
-— Eu seguro a luz — disse Val, abrindo a lanterna do deck com a mão esquerda.
-
-O homem das chaves tornou a pegar a ponta da prancha.
-
-— Então aponta para o próximo degrau.
+A chave do cofre ficou no chão, ao alcance da prótese que ele já não tinha.

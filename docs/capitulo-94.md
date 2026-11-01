@@ -1,145 +1,146 @@
 ---
 layout: doc
-title: "Capítulo 94: O Coração da Colmeia"
-description: "Quatro quilômetros levando o pendrive da Aria e o banco de baterias de pulso por uma cidade que respira. O comboio é patético, e é tudo o que sobrou."
+title: "Capítulo 94: A Praga de Ferro"
+description: "O enclave dos Puros não é atacado: é cobrado. Vilar descobre que a ferrugem é a resposta ao preço que ele se recusou a pagar."
 image: /capitulo_94.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Capitão Jonas Vilar, Aria e integrantes dos Puros
-Participação na saída: Dra. Nise
-Localização: "Ruas de Baía Cinzenta — manhã do último dia"
+Personagens Presentes: Capitão Jonas Vilar
+Localização: 'Distrito Industrial — Setor dos "Puros". Nove dias depois da negociação'
 ---
 
-# Capítulo 94: O Coração da Colmeia
+# Capítulo 94: A Praga de Ferro
 
-Ruas de Baía Cinzenta — manhã do último dia.
-O comboio era patético, e era heroico, e as duas coisas ao mesmo tempo, que é como quase tudo importante acontece.
+Distrito Industrial — Setor dos "Puros". Nove dias depois da negociação.
+O ataque não veio na forma de monstros nem de soldados.
 
-Na frente iam Vilar e dez dos vinte e cinco Puros que sobraram, com lança-chamas improvisados: equipamento de manutenção recuperado e depósitos pequenos de combustível. Só quatro unidades tinham passado pelo teste na saída do hospital.
+Veio como uma conta vencida.
 
-Fogo era a única coisa que fazia o Jardim recuar. Não matava — Gabo já sabia disso desde a conversa na biblioteca —, mas fazia recuar, e naquela manhã recuar era suficiente. No meio ia a maca.
+Vilar estava na guarita leste às cinco e quarenta da manhã, limpando o rifle, com a coronha presa numa morsa, porque ainda reaprendia a desmontar a arma usando uma mão só. Óleo, estopa, vareta. O cheiro do solvente era ácido e limpo, e cortava o resto: o mofo das lonas, o suor de duzentas pessoas dormindo em galpão, e o cheiro adocicado que vinha da cidade lá fora e que já não era cheiro de cidade.
 
-Uma maca hospitalar reforçada, dessas de transporte de paciente bariátrico, com quatro rodas de borracha maciça. Em cima dela, amarrado com cinta de carga, o berço portátil de injeção onde o pendrive blindado de titânio da Aria estava acoplado a duas baterias de nobreak ligadas em paralelo para forçar o pulso do Código Morto.
+Ele tinha feito aquilo dez mil vezes. Fazia no escuro havia trinta anos.
 
-Cinquenta e um quilos de condensadores e trinta e oito de bateria para alimentar um drive do tamanho de um polegar. Gabo e Val empurravam. A Dra. Nise tinha ficado.
+Foi por isso que percebeu antes de ver. A estopa saiu vermelha.
 
-Ela não discutiu, e ninguém pediu que discutisse: havia seiscentas pessoas no Hospital Central e uma médica, e essa conta não tem outra solução. Ela apertou o braço do Gabo na saída, disse "traz ela de volta" sem especificar quem, e voltou para dentro.
+Não vermelha de sangue — sangue tem fundo doce, e ele conhecia. Aquilo era vermelho de tijolo moído, seco, farinhento. Vilar ficou olhando com o cérebro rodando devagar demais, e pensou *ferrugem*, e pensou *impossível, eu passei óleo ontem*, e nesse intervalo — dois segundos, talvez três — o cano do rifle mudou de cor na mão dele.
 
----
+Não enferrujou. Enferrujar leva anos. Aquilo **envelheceu**: como se alguém tivesse empurrado quarenta invernos para dentro do aço de uma vez só.
 
-Estou vendo muitas cores.
-A voz chegou fraca pelo alto-falante do berço. Val mantivera o link corporal desligado.
+Vilar apertou por reflexo.
 
-O mundo ficou tão verde, Gabo. Antes era todo cinza. Eu lembro do cinza.
-— Foca — disse Val, e disparou duas vezes contra um cão de raiz que saltou de um beco à esquerda. O bicho recuou com um coto fumegando e não voltou. — Gabo, guarda energia. Você vai precisar no fim.
+O rifle cedeu. Não quebrou, não partiu: virou pó entre os dedos e escorreu pelo antebraço abaixo, e o que restou caiu no concreto com um som de saco de areia rasgando.
 
-— Não sou eu que estou falando.
+O gosto chegou depois. Ferro na língua, forte, o gosto que fica na boca quando se chupa uma moeda ou se leva um soco na cara.
 
-— Eu sei quem está falando. — Val empurrou mais forte. — Por isso eu falei com os dois.
+Aquilo estava no ar. Ele estava respirando aquilo desde que acordou.
 
 ---
 
-O caminho até o Memorial era de quatro quilômetros e trezentos metros, e Gabo tinha feito aquele trajeto de carro em nove minutos a vida inteira. Naquela manhã levou três horas e vinte. Os prédios tinham se curvado.
+Ele tentou fechar a mão esquerda. A que já não tinha.
 
-É difícil explicar isso para quem não viu: eles não desabaram. Curvaram, como árvore ao vento, ao longo de meses, com a estrutura cedendo por fluência e as raízes puxando de um lado só. Quarteirões inteiros formavam agora arcos sobre a rua, e passar por baixo era passar por dentro de uma nave de catedral feita de janela e sacada.
+O espasmo fantasma subiu pelo braço ausente e o fez bater o coto no batente. O curativo da amputação estava úmido; com a mão direita, ele puxou a manga e encontrou a tala externa manchada de laranja. A ferrugem não nascia da carne. Vinha dos grampos e do fecho que o ambulatório usara para prender a proteção.
 
-E o chão era macio. Esponjoso. Cedia dois centímetros a cada pisada e devolvia. E, se a pessoa ficasse parada no mesmo lugar por mais de quinze segundos, começava a subir uma umidade morna pela sola da bota.
+Arrancou a capa pelo velcro. Um dos grampos ficou preso na faixa e ele teve de rasgá-la com os dentes. O sangue apareceu antes de conseguir soltá-lo.
 
-O chão daquela cidade **respirava**, com um ciclo de sete segundos, e depois de meia hora todo mundo do comboio estava respirando junto sem perceber.
+Apoiado no concreto, pressionou uma compressa sobre o coto. Não tinha outra mão para prender a bandagem. Uma mulher da cozinha veio correndo e amarrou o pano sem perguntar.
 
-Vilar percebeu primeiro e mandou todo mundo cantar. Cantaram uma marcha velha de corporação, desafinada e alto, os quatro quilômetros quase inteiros, e foi por isso que sobreviveram à primeira parte.
-
----
-
-— Quinhentos metros! — gritou Val, conferindo um mapa desenhado à mão numa folha de caderno, porque GPS era memória de outra era.
-
-Foi quando o chão abriu. Não foi buraco.
-
-Foi **boca**: uma área de uns nove metros por quatro, que parecia asfalto e tinha textura de asfalto e cor de asfalto, e que se dobrou para dentro em duas metades como alçapão.
-
-A vanguarda inteira caiu. Sete homens. O grito durou uns três segundos, e depois o barulho que veio de baixo não foi de queda: foi de fervura.
+Vilar deixou a proteção no chão e foi para a muralha.
 
 ---
 
-— **VILAR!**
+— **CAPITÃO!** — A voz veio do alto da passarela. Era o Tenente Aldo Peçanha, trinta e dois anos, o único ali que ainda batia continência. — Capitão, as muralhas!
 
-O capitão tinha rolado para a direita no meio décimo de segundo em que o asfalto começou a ceder — trinta e três anos de instinto pagando a última parcela — e estava agarrado na borda com a mão boa, com as pernas penduradas.
+Vilar subiu a rampa com as pernas de cinquenta e cinco anos e viu.
 
-O lança-chamas dele tinha caído dentro. Gabo largou a maca e se jogou de bruços e agarrou o pulso do velho com a mão direita.
+As chapas de aço naval que eles tinham arrancado de um cargueiro encalhado, soldadas ao longo de sete meses, com quatro homens mortos no processo, estavam mudando de cor de baixo para cima. Uma maré alaranjada subindo pelo metal, silenciosa e uniforme, com a paciência de quem já ganhou.
 
-Val prendeu uma cinta no cinturão do capitão. Gabo segurou o pulso só até dois dos Puros assumirem a cinta; os três recuaram de joelhos, tirando Vilar da borda. O ombro de Gabo cedeu antes do último puxão.
+Não só as muralhas. Os geradores. As vigas do galpão. Os dois caminhões. Os barris, as correntes dos portões, os pregos das paredes, a estrutura da caixa d'água.
 
-Os dois ficaram deitados de costas no chão respirante, ofegando.
+Em algum lugar do pátio uma mulher gritou, e o grito foi cortado no meio pelo estrondo de uma viga cedendo.
 
-Lá embaixo, a boca se fechou devagar e o asfalto voltou a ser asfalto, e não sobrou marca nenhuma, e essa foi a parte que Gabo não conseguiu tirar da cabeça: dali a uma hora ninguém saberia dizer onde tinha acontecido.
+— É a Praga de Ferro — disse Vilar.
 
----
+— O quê?
 
-E aí eles vieram das paredes. Os Integrados. Humanoides de casca — a pele endurecida em placas com aparência de córtex de árvore, com fissuras verticais —, e no lugar dos dedos, espinhos de lignina de sete ou oito centímetros.
+— O nome que eu estou dando agora, tenente. Alguém tinha que dar.
 
-Saíram de dentro dos prédios curvados por rachaduras que se abriram para eles. Eram uns quarenta.
+Peçanha olhava para as próprias mãos, onde a fivela do cinto tinha manchado o uniforme de laranja.
 
-— **CONTINUEM!** — rugiu Vilar, já de pé, puxando o facão de cerâmica do cinto. — Moretti, empurra essa porcaria e não olha para trás!
+— Capitão, isso é uma arma nova. Eles desenvolveram uma arma nova, eles—
 
-— Capitão—
+— Não é nova.
 
-— **EU DISSE ANDA!**
+Vilar disse isso e sentiu a coisa se encaixar no peito com o barulho de uma porta se fechando.
 
----
+Não era arma. Arma se dispara contra a defesa do inimigo. Aquilo não estava rompendo defesa nenhuma: estava dissolvendo tudo ao mesmo tempo, no enclave inteiro, do lado de dentro, sem alvo e sem pressa. Não existe arma que faça isso.
 
-Gabo pegou a alça da maca.
+Existe **decisão**. Eles sempre puderam.
 
-E parou meio segundo, e olhou para o velho: cinquenta e cinco anos, um braço, um olho, farda de uma corporação que não existia mais, com um facão de cerâmica na mão e quarenta coisas descendo pela parede na direção dele.
+Em todos aqueles meses de muralha, de turno dobrado, de gente morrendo pendurada em andaime para soldar chapa, os Jardineiros podiam ter feito aquilo em qualquer manhã. Não fizeram. Deixaram os Puros construírem. Deixaram Vilar acreditar que muralha era resposta, e o deixaram ensinar isso a duzentas e quarenta pessoas.
 
-— Vilar.
+E nove dias atrás um homem de dentes de quartzo tinha lhe dito um preço, e Vilar tinha voltado para casa sem responder.
 
-— O que é?
+Nós não odiamos gente, Capitão. Nós odiamos o velho mundo.
+Aquilo não era um ataque. Era um recibo.
 
-— A lista dos duzentos e catorze está no meu bolso.
+— Capitão? — Peçanha estava com a mão no ombro dele. — O senhor ficou branco.
 
-O velho parou de olhar para os Integrados e olhou para ele.
+Vilar respirou fundo uma vez.
 
-— Está?
-
-— Está. E eu vou ler todos, um por um, em voz alta, quando isso acabar. — Gabo firmou a maca. — O senhor não precisa morrer aqui para pagar nada. A lista não paga vida nenhuma. O senhor ainda deve uma explicação a quem saiu do enclave.
-
-Jonas Vilar ficou parado por um segundo inteiro. Depois deu de ombros, e sorriu de lado, e ficou de repente com vinte anos a menos.
-
-— Eu não vou morrer aqui, garoto. Eu vou ficar velho e chato e você vai ter que me aturar. — Ele girou o facão. — Mas alguém precisa segurar essa esquina. **ANDA.**
+— Eu vou lhe contar uma coisa quando a gente estiver dentro do Hospital, tenente. Antes não.
 
 ---
 
-Gabo e Val empurraram a maca ladeira acima nos últimos quatrocentos metros.
+O Jardim entrou pela muralha norte às seis e dois.
 
-A rodinha dianteira esquerda travou aos duzentos e eles passaram a arrastar, e arrastar oitenta e nove quilos numa ladeira de chão macio é uma coisa que o corpo humano registra como agressão.
+Não escalou: passou por onde a chapa já era pó. Vieram primeiro as coisas de quatro patas — cães de raiz trançada, com dentes de pedra encravados na mandíbula, correndo com um passo errado, longo demais na frente e curto atrás. Depois vieram os grandes, de carapaça de queratina, cinza como unha.
 
-Val estava com o rosto vermelho e a respiração cortada. Gabo não estava sentindo as pernas desde o segundo quilômetro, e isso era a única razão pela qual ainda conseguia andar.
+Nenhum deles fazia barulho de bicho. Faziam barulho de mato sendo pisado.
 
-Atrás deles, os tiros dos Puros iam ficando espaçados. Vilar ainda gritava as posições.
+— **CERÂMICA! PLÁSTICO! MADEIRA!** — Vilar berrou, arrancando com a mão boa a pistola de polímero impressa do coldre. — ESQUECE O METAL! QUEM ESTIVER COM ARMA DE AÇO, LARGA A ARMA E PEGA UM CANO DE PVC! **AGORA!**
 
-Eles estão com dor.
-— Eu sei — disse Gabo, com a voz sem ar.
+O primeiro tiroteio durou onze segundos.
 
-Não os monstros. Recebo fragmentos de voz pelos controladores ao alcance do cabo. Parece dor. Não sei quem ainda está consciente, nem se os pedidos são de agora.
-— Eu vou acabar com isso.
+Depois disso, não houve mais tiroteio.
 
-Eu sei.
-Uma pausa.
+Porque as balas eram de chumbo com camisa de latão, e latão é cobre com zinco, e o que estava no ar não fazia distinção fina entre metais. Os estojos falhavam nas câmaras; as armas contaminadas engasgavam e rompiam. Vilar viu, com uma clareza que ia lhe custar noites, um dos seus disparar três vezes à queima-roupa contra um cão de raiz e produzir estalos fracos na culatra, sem deter o bicho. Na última tentativa, a arma abriu junto à mão.
 
-É por isso que eu não estou tentando te impedir
+O homem olhou para a arma.
+
+O cão não olhou para nada.
+
+— **RECUAR!** — gritou Vilar. — Túnel de serviço! Para o Hospital! O túnel ainda está livre e o Hospital tem isolamento! ANDA! **ANDA!**
 
 ---
 
-Eles chegaram ao Memorial às onze e quarenta.
+O enclave dos Puros caiu em nove minutos.
 
-O parque estava irreconhecível: os ciprestes tinham triplicado de altura e se fundido num anel contínuo, e as cento e nove estátuas de bronze estavam todas de pé no mesmo lugar, tomadas por musgo, e todas — todas as cento e nove — tinham sido viradas para dentro, olhando o centro do parque.
+Vilar levou vinte e sete pessoas até a boca do túnel, contando a si mesmo e Peçanha. Ao acordar, eram duzentas e quarenta no enclave; os vinte e sete estavam incluídos nesse total.
 
-Não havia mais espelho d'água. Havia uma cratera, e no fundo dela a entrada do bunker do Projeto Gênesis, com as portas de aço arrancadas e caídas ao lado, retorcidas para fora.
+Peçanha ficou por último, empurrando os mais lentos escada abaixo, do jeito que Vilar tinha ensinado — porque Vilar tinha ensinado errado. Oficial sair por último é regra de incêndio em prédio. Não é regra de selva.
 
-O túnel descia. Pulsava com uma luz violeta que subia dos degraus, e a cada pulso o ar quente saía de dentro em rajada e cheirava a estufa.
+A vinha brotou do asfalto entre as botas dele.
 
-E, cento e cinquenta metros acima, o Sol Negro tinha parado de crescer. Val olhou para cima, depois para o buraco, e disse a coisa mais assustadora do dia:
+Não houve luta. Enrolou no tornozelo, subiu até a cintura em menos de um segundo e puxou. O concreto se abriu como se sempre tivesse sido feito para abrir. Peçanha não gritou por socorro: gritou o posto do Capitão, uma vez só, com entonação de pergunta.
 
-— Parou de crescer desde que começamos a subida. Não sei o que vai fazer agora.
+Depois a rua se fechou por cima dele e ficou lisa, e não dava para saber onde tinha sido.
 
-Gabo firmou a alça da maca com as duas mãos.
+Vilar viu tudo, da boca do túnel, a doze metros de distância, com uma pistola de plástico na única mão que lhe restava.
 
-— É aqui — ele disse. — Vamos entrar.
+Não voltou.
+
+Não por ser forte. Por ser velho o bastante para saber que voltar ali transformava um morto em vinte e sete, e essa é a única aritmética que um comandante não tem permissão de errar.
+
+---
+
+O túnel de serviço cheirava a água parada e mofo. Era escuro, estreito e não tinha uma peça de metal em lugar nenhum: canos de PVC, escadas de fibra, parafusos de nylon. Uma obra barata dos anos vinte, feita para economizar cimento, que naquela manhã virou a construção mais bem projetada de Baía Cinzenta.
+
+Vilar seguia na frente com a lanterna presa entre o ombro e o queixo, porque não dava mais para segurar lanterna e arma ao mesmo tempo. Toda vez que precisava apontar a luz para o lado, precisava virar o corpo inteiro. Ele ia levar meses para se acostumar com isso, e naquela manhã descobriu em cinco minutos.
+
+Atrás dele, alguém chorava baixo. Alguém rezava. A maioria não fazia nada, que é o que as pessoas realmente fazem.
+
+Ele pensou em Nise, que jurara proteger. Pensou no servidor. Pensou no mundo de aço e pólvora, onde Jonas Vilar tinha sido um homem competente por trinta anos — e entendeu, com uma calma que o assustou mais do que o medo, que aquele mundo tinha acabado às cinco e quarenta da manhã, num pedaço de estopa sujo de vermelho.
+
+Agora era a lei da selva. E, na selva, ele não era Capitão de coisa nenhuma.
+
+Faltavam quatro quilômetros até o Hospital Central.
+
+Tempo suficiente para ele ensaiar a frase que ia ter de dizer ao Moretti quando chegasse: Peçanha era um dos duzentos e catorze mortos naquela manhã, depois da ameaça que Vilar escondera. O assassino estava do lado de fora; o silêncio fora dele.

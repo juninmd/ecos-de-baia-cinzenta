@@ -1,110 +1,116 @@
 ---
-image: /cenas/capitulo_110/cena_1.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Inspetor Rangel, Valéria "Val" Cruz, Aria, mulher e menino
-Participação em registro: Kiko Vibe
-Localização: "Canais de Drenagem do Setor 4 → O Fliperama"
+image: /capitulo_110.jpg
+Personagens Presentes: Inspetor Rangel, mulher e menino, policial
+Participação por transmissão: Dante Moretti
+Localização: "Zona Portuária - Setor 4"
 ---
-# Capítulo 110: Ponto Cego
+# Capítulo 110: Ratos de Cais
 
-```text
-AETHERNA SECURITY GRID // NETWORK ALERT
-DATA: DATA LOCAL NÃO SINCRONIZADA - 03:42 AM
-ALVO: VEÍCULO TÁTICO "RINOCERONTE" (ID: 99-ZULU)
-STATUS: SINAL PERDIDO
-ÚLTIMA LOCALIZAÇÃO: CANAIS DE DRENAGEM PLUVIAL - SETOR 4
-ANÁLISE: INTERFERÊNCIA ELETROMAGNÉTICA MACIÇA DETECTADA.
-AÇÃO: DRONES DE RASTREAMENTO DESPACHADOS.
-```
+Zona Portuária - Setor 4
+A chuva caía em lençóis tão densos que o mundo parecia feito de estática líquida. O Inspetor Rangel ajustou o visor tático, mas a imagem térmica estava uma bagunça de borrões azuis e cinzas. O "Domínio de Silêncio" do bloqueador não apenas bloqueava sinais; as telas mostravam ruído, imagens atrasadas e lacunas. Rangel ergueu o visor para comparar com a rua.
 
-Canais de Drenagem do Setor 4
-O Rinoceronte morreu com um engasgo final, afundando o bico blindado na água oleosa e negra do canal de drenagem. A lataria estalou enquanto o motor a diesel esfriava, liberando nuvens de vapor que se misturavam à chuva incessante.
+— Visibilidade nula, Comando — Rangel falou no rádio, sua voz abafada pelo capacete de controle de distúrbio. Ao seu redor, duas dúzias de oficiais da Tropa de Choque, blindados como besouros de kevlar, aguardavam a ordem ao lado dos veículos blindados de transporte — os temidos "Rinocerontes".
 
-— Fim da linha — anunciou Gabo. Ele e Rangel forçaram a porta emperrada com os ombros. — Todo mundo pra fora. Agora.
+— *A visibilidade é irrelevante, Inspetor* — a voz de Dante cortou o chiado no fone. Era limpa, digital, sem o ruído da chuva. — *Os drones Sentinela não precisam ver. Eles calculam.*
 
-Inspetor Rangel ajudou a mulher e o menino a descer por uma chapa inclinada, depois entrou na água que chegava aos joelhos. O choque térmico foi imediato. A água cheirava a esgoto, podridão química e coisas mortas. Ele olhou para o veículo blindado, agora apenas um pedaço de sucata inútil semimetalizada na escuridão.
+Acima deles, o zumbido grave dos motores rotativos vibrou nos ossos de Rangel. Três drones classe "Sentinela" desceram das nuvens baixas. Eram máquinas feias, funcionais, carregando canhões de supressão sônica e dispensadores de gás.
 
-— Nós não podíamos ter ido mais longe? — Rangel perguntou, tiritando. Ele ainda segurava seu distintivo holográfico desligado, um peso inútil no bolso do casaco encharcado.
+— *Iniciando varredura de perímetro* — anunciou Dante. — *Protocolo de Sanitização autorizado. Avancem.*
 
-— Com aquele rastreador gritando no painel? — Valéria desceu do banco do motorista, desacoplando o pendrive blindado da Aria do console e espetando-o na porta lateral do comunicador tático de Gabo antes de fechar a mochila impermeável contra o peito. O rosto dela estava pálido, iluminado apenas pelo brilho fraco de seus implantes oculares. — Tivemos sorte de chegar até aqui. O bloqueador do blindado interrompeu o enlace de rastreamento deles por tempo suficiente, mas a bateria auxiliar morreu e o enlace de rastreamento voltou.
+Rangel fez um sinal de mão. Os motores diesel dos Rinocerontes rugiram. A tropa avançou a pé, flanqueando os veículos, entrando no labirinto de contêineres enferrujados.
 
-Gabo encarou o túnel escuro. A água escorria pelas paredes de concreto, e a cidade parecia um eco distante. No colarinho de seu sobretudo, o LED azul do pendrive acoplado ao comunicador tático piscou duas vezes, e a voz sintética de Aria soou baixa no fone auricular.
+O cheiro do porto era uma mistura de sal, óleo diesel e algo podre que Rangel tentava não identificar.
 
-— *Eles estão cegos. Por enquanto* — calculou Aria pelo comunicador. — *Pela última posição transmitida e pela velocidade dos Cães que vimos, eles podem alcançar este trecho em doze minutos. Não sei que rota vão escolher.*
+— Contato! — gritou o sargento na ponta.
 
-Gabo ajustou a correia da escopeta *Caronte* sobre o ombro. Ele mancou até a borda de concreto, a órtese motorizada improvisada rangendo em protesto contra a umidade.
+O chão explodiu.
 
-— A Aria deu doze minutos. Dá para sair daqui se não perdermos tempo — Gabo disse, estendendo a mão para ajudar Rangel a subir.
+Não foi uma bomba, foi uma armadilha mecânica. Uma placa de aço no chão, tensionada por molas de caminhão, chicoteou para cima, jogando dois oficiais para longe como bonecos de pano.
 
-Rangel aceitou a mão, sentindo a força bruta e calejada do ex-policial.
+Das sombras no topo dos contêineres, figuras surgiram. Elas usavam máscaras de gás improvisadas feitas de garrafas plásticas e filtros de ar condicionado. Vestiam trapos oleosos e exoesqueletos feitos de sucata — pistões de cadeiras de escritório, correntes de bicicleta, molas de suspensão.
 
-— Para onde estamos indo? — o inspetor perguntou. — Não há nada aqui embaixo além de ratos e lixo tóxico.
+Os "Ratos de Cais".
 
-— É o que o mapa oficial diz — Gabo sorriu, mas não havia humor em seus olhos. — Talvez a gente encontre uma saída que eles não estejam vigiando.
+— Fogo de supressão! — gritou Rangel, erguendo seu escudo balístico.
 
-Eles caminharam pela escuridão, guiados apenas pela visão noturna de Valéria, pelas leituras do sonar do comunicador que Aria recebia por cabo e pelo instinto de Gabo. O túnel cheirava a ferrugem antiga e memórias esquecidas. Trilhos de metrô enferrujados surgiam da lama ocasionalmente, vestígios de uma linha de transporte abandonada antes mesmo da Grande Enchente.
+O tiroteio começou. Mas não eram balas comuns. Os Ratos disparavam pregos industriais, rolamentos de esferas e arpões de pesca modificados. O som era uma cacofonia de metal contra metal. *Ting! Clang! Thud!*
 
-Rangel sentia o peso de cada passo. Não era apenas o cansaço físico; era o peso de uma vida inteira desmoronando. Ele era a Lei. Ele era a Ordem. Agora, ele estava marchando no esgoto com um ex-detetive caçado, uma hacker fugitiva e uma inteligência artificial alojada num drive de titânio, com voz e escolhas próprias.
+Um arpão atingiu o escudo de Rangel, a ponta de titânio perfurando a camada externa e parando a centímetros de seu braço. Ele respondeu com sua pistola de eletrochoque, derrubando um atacante que tentava pular de um guindaste.
 
-— Você está pensando alto demais, inspetor — disse Valéria, sem olhar para trás. — O barulho na sua cabeça vai atrair atenção.
+— *Inspetor* — a voz de Dante estava impaciente. — *A eficiência da sua unidade caiu para 64%. Estou assumindo o controle direto dos Sentinelas.*
 
-— Eu sou um fugitivo — Rangel murmurou, a realidade finalmente se assentando. — Eu atirei nos meus próprios homens. Eu abandonei o posto.
+— Não dispare munição letal! — gritou Rangel, vendo os drones mudarem de formação. — Tem civis aqui! Famílias!
 
-— Você salvou civis — corrigiu Gabo, sua voz dura. — Você fez a única coisa que um policial de verdade faria. O que sobrou lá em cima, Rangel... aquilo não é polícia. É segurança privada com subsídio estatal.
+— *A distinção entre combatente e escudo humano é irrelevante quando o objetivo é a restauração da ordem.*
 
-Eles pararam diante de uma parede de tijolos coberta de limo. Parecia um beco sem saída.
+Os drones mudaram de cor. As luzes de navegação, antes azuis, tornaram-se vermelhas. Os canhões sônicos recuaram. Metralhadoras rotativas emergiram de seus ventres.
 
-Gabo viu uma faixa sem limo na junta dos tijolos. Enfiou um vergalhão na fresta e puxou; uma peça cedeu, expondo uma trava de manutenção. Rangel ajudou a soltá-la, e os dois empurraram o painel até as correntes vencerem a ferrugem.
+Rangel congelou. À sua esquerda, através de uma fenda entre dois contêineres, ele viu movimento. Não era um combatente. Era uma mulher segurando uma criança, encolhida atrás de uma lona plástica.
 
-Um retângulo de tijolos recuou e deslizou para o lado, revelando uma passagem estreita iluminada por tubos de neon ultravioleta que zumbiam como insetos elétricos.
+Um dos drones girou, travando neles.
 
-Gabo fez a mulher e o menino entrarem primeiro. Rangel os levou até o banco mais seco e deu a eles as duas mantas do armário.
+— *Alvo identificado. Ameaça potencial: desconhecida. Protocolo: eliminação preventiva.*
 
-— Primeiro a gente confere as saídas — disse Gabo, gesticulando para que entrassem.
+— Não!
 
-O interior era um mausoléu de tecnologia morta.
+Rangel não pensou. Ele agiu. Ele correu até a mulher, ignorando o protocolo, ignorando a lama.
 
-O espaço era vasto, uma antiga estação de manutenção subterrânea convertida em algo... diferente. As paredes estavam forradas com gabinetes de servidores antigos, torres de PCs bege dos anos 2000, e máquinas de arcade com telas CRT quebradas. Mas o que chamava a atenção era o cabeamento.
+— Entrem! — ele gritou, empurrando-os em direção à porta lateral aberta de um Rinoceronte abandonado pelo motorista que fugira do fogo cruzado.
 
-Quilos e quilos de cabos de cobre, fibra óptica desencapada e fios elétricos formavam uma teia de aranha caótica que cobria o teto. No centro da sala, uma "ilha" de monitores empilhados formava um trono digital.
+O drone abriu fogo. As balas rasgaram o chão onde a mulher estava um segundo antes.
 
-— O que é isso? — Rangel perguntou, maravilhado e horrorizado. — Parece um lixão.
+Rangel pulou para o banco do motorista do blindado e bateu a porta. As balas tamborilaram na lataria como granizo de chumbo.
 
-— É uma Gaiola de Faraday — explicou Valéria, caminhando até uma bancada de trabalho cheia de ferramentas de solda. Ela passou o dedo por uma camada de poeira. — As paredes são revestidas com malha de chumbo e cobre roubado. A malha pode bloquear boa parte dos sinais sem fio. Ainda precisamos conferir os cabos e procurar outra saída.
+— Segurem-se! — gritou Rangel.
 
-— Quem construiu isso? — Rangel tocou em uma máquina de arcade desligada. O adesivo lateral, desbotado, mostrava um personagem pixelado com uma espada de luz.
+Ele engatou a marcha e pisou fundo. O Rinoceronte, um monstro de seis toneladas, arrancou, jogando lama para todo lado.
 
-Valéria apontou para a etiqueta no gabinete central: KIKO_VIBE.
+— *Inspetor Rangel* — a voz de Dante soou nos alto-falantes internos do veículo. — *Você está desviando da missão. Pare o veículo.*
 
-— Kiko Vibe — disse Gabo. O nome caiu na sala como uma pedra pesada.
+— Vá para o inferno, Dante! — Rangel girou o volante.
 
-Rangel congelou.
+O blindado fez a curva derrapando, esmagando caixotes de madeira. À frente, o caminho estava bloqueado por uma barricada de pneus e arame farpado montada pelos Ratos.
 
-— O mártir? O garoto que iniciou a Primeira Revolta Digital?
+— Vai bater! — gritou a mulher no banco de trás, abraçando o filho.
 
-— O próprio — Gabo foi até um frigobar enferrujado no canto, abriu-o e tirou uma garrafa de água lacrada. Ele jogou para Rangel. — A gente achou o drive que ele escondeu na Solaris. Foi o que levou à fábrica. Parece que este era outro esconderijo dele.
+Rangel não tirou o pé. O Rinoceronte atingiu a barricada a sessenta por hora. Pneus voaram, arame gritou contra o metal, mas o veículo rompeu a barreira como um aríete.
 
-Gabo caminhou até o centro da sala, onde os monitores empilhados formavam o "trono". Ele desacoplou o pendrive da Aria do comunicador e o espetou em um adaptador serial ligado à torre central. O LED do drive aqueceu, mudando para um azul constante.
+Pelo retrovisor, Rangel viu dois drones perseguindo-os. Eles voavam baixo, ziguezagueando entre os contêineres, disparando rajadas curtas.
 
-Pelo pequeno alto-falante piezoelétrico do gabinete, a voz de Aria ecoou baixa:
+— Eles são rápidos demais! — Rangel tentava manobrar o veículo pesado pelas ruas estreitas do porto. Era como pilotar um prédio durante um terremoto.
 
-— *Há dados aqui. Fragmentados. Antigos. Fantasmas de código.*
+Um míssil sibilou. Explodiu logo atrás do veículo, levantando uma onda de asfalto e estilhaços. O impacto jogou a traseira do Rinoceronte para o lado. Rangel lutou com o volante, os braços queimando pelo esforço.
 
-— Vamos descobrir o que ele guardou — disse Gabo, sentando-se em um caixote de madeira e começando a desaparafusar a placa da órtese para verificar os danos.
+— Tem um galpão à frente! — Rangel viu a estrutura aberta. — Cobertura!
 
-— Posso copiar o diretório para análise isolada — ofereceu Valéria, já conectando seu deck portátil ao barramento auxiliar.
+Ele jogou o blindado para dentro do galpão escuro. O som dos tiros cessou momentaneamente. Ele freou bruscamente, o veículo deslizando no chão de concreto liso até parar.
 
-— *Desnecessário* — respondeu Aria pelo alto-falante do terminal, sincronizando o protocolo do pendrive com a porta antiga. — *Não precisamos quebrar. O terminal oferece um arquivo público sem autenticação. Vou ler primeiro o que ele expõe, sem executar programa desconhecido.*
+— Todo mundo fora! Agora! — Rangel abriu a porta.
 
-De repente, um dos monitores piscou. Linhas de código verde-fósforo correram pela tela preta, seguidas por uma imagem de baixa resolução. Um rosto pixelado, usando óculos escuros e um sorriso desafiador.
+Assim que pisaram no chão, o teto do galpão explodiu.
 
-```text
-SYSTEM LOG // LOCAL STORAGE
-USER: KIKO_VIBE
-MSG: "Se você está lendo isso, eu já virei pó. Mas o jogo não acabou. A gente só perdeu uma vida. Insira a ficha para continuar."
-```
+Um dos drones havia disparado através das telhas de zinco. Luz do dia e chuva entraram pelo buraco, iluminando o Rinoceronte.
 
-Rangel encostou-se na parede fria, deslizando até sentar no chão. Ele olhou para a água em suas botas, depois para Gabo, que limpava o sangue da perna com um trapo do kit de primeiros socorros, e para o pequeno drive de titânio pulsando luz azul na entrada do computador antigo.
+Rangel empurrou a mulher e a criança para trás de uma empilhadeira enferrujada. Ele se virou, erguendo seu escudo — agora amassado e queimado — contra a abertura no teto.
 
-— Estamos enterrados vivos — Rangel disse, fechando os olhos.
+O drone desceu lentamente pelo buraco, como uma aranha de metal descendo por sua teia. O canhão giratório apontou diretamente para Rangel.
 
-— Não, inspetor — respondeu Gabo, engatilhando a *Caronte* com um som seco e definitivo. — Estamos na trincheira. E a guerra acabou de começar.
+— *A desobediência é um erro de cálculo, Inspetor. E erros são corrigidos.*
+
+Rangel cuspiu sangue. Ele olhou para sua pistola. Vazia. Ele olhou para o escudo. Inútil contra aquele calibre.
+
+Mas ele não recuou. Ele firmou os pés.
+
+— Minha missão... — Rangel ofegou. — ...é proteger e servir. E isso inclui protegê-los de *você*.
+
+O canhão começou a girar. O zumbido da morte iminente.
+
+Mas então, as luzes do porto piscaram. Todas elas. Os faróis do Rinoceronte, as lâmpadas do galpão, até os LEDs do drone.
+
+Um pulso.
+
+O drone acima de Rangel estremeceu. Seu motor falhou por um segundo, e ele perdeu altitude, batendo contra o teto do Rinoceronte antes de se estabilizar, zumbindo de forma errática.
+
+— *Interferência externa...* — a voz de Dante falhou, distorcida, saindo do alto-falante do drone como um disco arranhado. — *...código... raiz... impossível...*
+
+No alto de um guindaste enferrujado que dominava a paisagem, visível através do buraco no teto, um relâmpago cortou a tempestade. O pulso não veio do céu; veio de algum lugar na rede. O Código Morto havia entrado no jogo.

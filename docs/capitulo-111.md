@@ -1,120 +1,118 @@
 ---
-image: /cenas/investigacao.jpeg
-Personagens Presentes: Gabriel "Gabo" Moretti, Inspetor Rangel, Valéria "Val" Cruz, Aria, mulher e menino resgatados
-Participação em registros: Kiko Vibe, Dante Moretti
-Localização: "O Fliperama (antiga estação de manutenção subterrânea)"
+image: /cenas/capitulo_111/cena_1.jpg
+Personagens Presentes: Inspetor Rangel, Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria, mulher e menino
+Participação por transmissão: Dante Moretti
+Localização: "Zona Portuária - Setor 4 (Em Ruínas)"
 ---
-# Capítulo 111: Arquivos Mortos
+# Capítulo 111: Frequência Fantasma
 
-```text
-SYSTEM LOG // OFFLINE STORAGE
-LOCAL: "O FLIPERAMA" (CAIXA DE FARADAY)
-STATUS: DESCONECTADO DA REDE GLOBAL
-HARDWARE: SERVIDOR LEGADO (INTEL PENTIUM IV)
-DADOS: CORROMPIDOS/CRIPTOGRAFADOS MANUALMENTE
-```
+Zona Portuária - Setor 4 (Em Ruínas)
+O mundo não explodiu. O mundo simplesmente *travou*.
 
-O Santuário de Kiko Vibe
-O silêncio dentro da gaiola de Faraday era diferente. Não era apenas a ausência de barulho; era a ausência de *pressão*. Lá fora, sob a chuva e os drones de Dante, o ar parecia vibrar com dados invisíveis, uma estática constante que arranhava a nuca de qualquer um com implantes. Ali dentro, o ar era parado, cheirando a poeira superaquecida e ozônio velho.
+Inspetor Rangel, deitado na lama misturada com óleo, esperava o rasgar das balas de alto calibre. Ele viu o canhão giratório do drone Sentinela acelerar, viu o brilho vermelho da mira térmica travar em seu peito. Ele fechou os olhos, um reflexo inútil de quem sabe que o escudo balístico não vai aguentar.
 
-Gabo sentou-se em um caixote de madeira reforçada, esticando a perna machucada. O conserto que Dante fizera — atuadores recuperados e cinta rígida sobre a pele ferida — latejava com uma dor fria e metálica. Ele ignorou, focando em limpar a graxa da *Caronte* com um pedaço de pano sujo.
+Mas o som nunca veio.
 
-— Isso é ridículo — resmungou Valéria. Ela estava debruçada sobre o teclado mecânico amarelado do servidor central, seus dedos pairando sobre as teclas sem saber exatamente o que fazer. — Não tem interface neural. Não tem porta de entrada ótica. A interface antiga não aceita meu leitor. Vou ter de usar uma mão e remontar os atalhos do teclado.
+Em vez disso, um zumbido agudo, quase imperceptível, varreu o pátio de contêineres. Era como o som de uma televisão velha sendo desligada, amplificado mil vezes.
 
-— Bem-vinda aos anos 2000, garota — disse Rangel. O ex-inspetor caminhava pelas estantes de metal enferrujado que forravam as paredes laterais. Elas estavam entulhadas não com drives de cristal, mas com caixas de papelão. — Kiko não confiava na nuvem. E pelo visto, ele tinha razão.
+Rangel abriu um olho.
 
-Gabo ficou diante da parede de monitores CRT desligados, exceto pelo central, que exibia o prompt de comando piscante em verde-fósforo enquanto o pendrive blindado da Aria processava os diretórios pela porta serial. A luz verde refletiu no suor do rosto dele. Pelo alto-falante do monitor, a voz sintética de Aria comentou em baixa frequência, cruzando os registros antigos.
+O drone pairava a dois metros dele, imóvel como uma mosca presa em âmbar. As luzes de navegação, antes um vermelho furioso de "Engajar", agora pulsavam em um branco leitoso e confuso. O canhão girava em falso, sem disparar, como se a máquina tivesse esquecido a ordem no meio do processo.
 
-— *Kiko registrou risco de instabilidade* — disse Aria pelo alto-falante. — *Guardou especificações do projeto do hospedeiro e notas sobre o código. Não são medições do Dante que vimos hoje.*
+— *Erro de sintaxe...* — a voz de Dante vazou pelo alto-falante do drone, mas não era a voz fria e onipotente de antes. Estava picotada, cheia de estática. — *Alvo... não encontrado. Alvo... redefinindo... Alvo... nulo.*
 
-— Na gravação que Nise guardou, ele pediu para desligar o modulador — disse Valéria, enfim tecleando. O som seco das teclas ecoou na sala. — Na tela, os patrocinadores chamavam aquilo de sorriso.
+Rangel olhou para cima, para o guindaste.
 
-— E alguém tentou apagar o que ele deixou — disse Gabo. — Não sabemos quem entrou no apartamento nem se Kiko foi assassinado.
+Nada. Só a chuva ácida estalando no metal enferrujado. Ele se forçou a respirar, lembrando-se de que estava exausto, ferido e cercado por máquinas.
 
-Val copiou o índice para o deck. — Talvez os papéis ajudem a descobrir. Primeiro vamos ver o que ele realmente guardou.
+Antes que Rangel pudesse processar a loucura daquela falha, uma parede de metal à esquerda deles cedeu com uma pancada. Rangel recuara do galpão até o pátio, mantendo a mulher e o menino atrás de uma mureta.
 
-Rangel puxou uma caixa da prateleira. A poeira subiu em uma nuvem cinza. Ele tossiu, abanando o ar, e olhou para o conteúdo.
+CRAAAASH!
+Um contêiner azul foi arremessado para o lado como se fosse feito de papelão. Através da poeira e da chuva, uma besta de metal negro surgiu.
 
-— Papel — Rangel disse, incrédulo. Ele tirou uma pasta manila, as bordas comidas por traças. — Relatórios de polícia impressos. Cópias carbono. Isso aqui... isso aqui são os arquivos do caso "Gênesis" original. Aquele cuja investigação remonta aos primeiros ensaios do Gênesis, antes da construção da Torre.
+Outro blindado de controle de distúrbio — um "Rinoceronte" retirado do posto de comando — rugiu, seu motor a diesel engasgando fuligem escura. A lataria estava amassada, marcas de garras e tiros decoravam a pintura fosca, e o farol direito estava pendurado por um fio.
 
-Ele folheou as páginas, sentindo a textura áspera. Para Rangel, aquilo era conforto. Ele entendia papel. Ele entendia tinta. No mundo digital de Dante, ele era obsoleto. Mas ali, naquele mausoléu de burocracia, ele era o único que sabia ler a língua morta dos arquivos.
+A porta lateral se abriu com um chute mecânico.
 
-— Olha isso — Rangel caminhou até a mesa central, colocando o documento sob a luz de uma lâmpada halógena pendurada. — Kiko não apenas hackeou o sistema da polícia. Ele imprimiu tudo antes que eles pudessem alterar os registros.
+— Rangel! Entra! Agora! — A voz de Gabo era um trovão rouco.
 
-Valéria parou de digitar.
-— O que você achou?
+Gabo estava pendurado na porta, segurando-se com uma mão enquanto a outra empunhava a *Caronte*, sua escopeta de cano serrado. Ele parecia um demônio saído do inferno: encharcado, com o rosto manchado de graxa e sangue seco, e as órteses nas pernas chiando a cada movimento.
 
-— O laudo do desaparecimento do Dante — Rangel apontou para uma linha datilografada. — O de quinze anos atrás. Quando Krell o "matou" pela primeira vez.
+— Gabo? — Rangel olhou para o drone congelado no ar, depois para o blindado. — Mas o que diabos...
 
-Gabo levantou-se, mancando até a mesa. Ele olhou para o nome do pai no papel amarelado.
+— Sem perguntas! A "zona de silêncio" da Aria não vai durar pra sempre! — gritou Valéria do banco do motorista. Ela usava óculos de realidade aumentada conectados ao seu cyberdeck *Phantom V3*, onde um drive neural blindado — do tamanho de um pendrive pesado — pulsava freneticamente com um LED azul-intenso. — O Dante está reescrevendo o firewall dos drones em tempo real! Temos trinta segundos antes que eles reiniciem como *kamikazes*!
 
-— Não houve corpo — Gabo disse. — O caixão estava vazio.
+Val parou a porta ao lado da mureta. Rangel passou primeiro o menino, ajudou a mulher a entrar e só então se puxou pelo corrimão. Caiu sobre o piso de chapa lavrada. Gabo cobriu a porta até fecharem.
 
-— Sim, mas houve uma análise biológica do sangue encontrado no local — Rangel ajustou os óculos que não usava mais, um hábito fantasma. — O legista da época notou algo. Uma anomalia celular. As células do Dante... elas rejeitavam a integração sintética.
+— Pela doca do peixe! — gritou ele, de quatro. — Tem um portão de serviço atrás do frigorífico. Chave analógica, tarugo de latão. Máquina nenhuma abre aquilo, mas eu carrego essa chave no bolso há onze anos. — Ele engoliu antes de continuar. — A mulher e o menino vão precisar de abrigo. Não deixa a gente voltar para a frequência do Dante.
 
-— Como assim? — Valéria se aproximou. — Esse resultado é do corpo original. Não prova como o hospedeiro atual responde.
+Val não perguntou como ele sabia. Virou o volante.
 
-— Talvez não seja tão perfeita assim — disse Gabo, ainda olhando para o papel. — Dante impõe ordem. Mas a biologia é caótica. O corpo que ele usa agora... é um clone forçado, acelerado pelo Gênesis. Mas a consciência dele é um código viral agressivo.
+— Vai, Val! Tira a gente daqui! — Gabo bateu na lataria.
 
-Gabo tocou o monitor antigo.
-— Kiko deixou uma hipótese sobre carga e resfriamento aqui no servidor. Precisamos ler antes de tratar aquilo como fraqueza.
+O Rinoceronte deu um solavanco violento. Valéria girou o volante, e as seis rodas de tração morderam a lama. O veículo girou 180 graus, derrubando uma pilha de paletes, e acelerou em direção à saída do setor.
 
-Valéria abriu a cópia de texto `LOG_01.TXT` no leitor local, sem executar o programa arquivado ao lado.
+Atrás deles, o zumbido estático cessou. As luzes dos drones voltaram ao vermelho sólido.
 
-A tela piscou e texto rolou rapidamente:
+TRA-TA-TA-TA-TA!
+As balas bateram na traseira blindada do Rinoceronte como granizo metálico.
 
-```text
->> ANÁLISE DE ESTABILIDADE: PROJETO LÁZARO
->> SUJEITO: ALPHA (D. MORETTI)
->> MODELO EXPERIMENTAL: risco de colapso térmico com carga sustentada acima do limite de projeto.
->> FALHA PREVISTA: superaquecimento do hospedeiro. Dados do exemplar atual ausentes.
->> SOLUÇÃO PALIATIVA: Resfriamento externo e... "Ciclo de Sono".
-```
+— Segurem-se! — gritou Val.
 
-— Ele precisa dormir — Gabo murmurou. — O deus da máquina precisa tirar sonecas.
+O veículo avançou, esmagando cercas e detritos. Dentro, o cheiro era insuportável: diesel queimado, suor azedo de medo, e o cheiro metálico de sangue que emanava da perna de Gabo.
 
-— O projeto descreve um ciclo de desconexão para resfriamento — disse Valéria. — Se este corpo usar a mesma rotina, pode ficar vulnerável durante ela.
+Gabo caiu no banco de metal oposto a Rangel, respirando com dificuldade. Ele bateu na coxa esquerda, onde uma placa de metal improvisada estava parafusada sobre a calça rasgada.
 
-— Talvez perca o acesso aos sensores — disse Gabo. — Ou talvez tenha deixado outra coisa vigiando por ele.
+— Você está bem? — Gabo perguntou, gritando sobre o rugido do motor.
 
-— De quanto tempo estamos falando? — perguntou Rangel, o instinto policial afiando sua voz.
+Rangel ignorou a pergunta. Olhou para Valéria, depois para a lataria amassada em volta deles, como quem confere se ainda está acordado.
 
-— O projeto reserva quarenta minutos a cada vinte e quatro horas — disse Valéria. — Precisamos confirmar se ele usa essa rotina. Não vou acertar um relógio por uma especificação velha.
+— Você estava numa maca ontem — disse ele.
 
-Gabo olhou para o teto cheio de cabos, como se pudesse ver a cidade acima deles através do concreto e da terra.
+— A maca não sabia dirigir — respondeu Val, sem tirar os olhos da rua. — O Rinoceronte estava no pátio do posto de comando, com a chave no contato. E o Gabo ia entrar naquele porto dentro do blindado do próprio Dante. Alguém tinha que fazer alguma coisa.
 
-— Quarenta minutos é tudo que a gente precisa — disse ele, embainhando a *Caronte*. — Mas onde ele dorme?
+— A Nise vai te matar — disse Gabo.
 
-— Onde se esconde um deus? — completou Valéria, e não era deboche.
+— A Nise que espere.
 
-— Ele pode procurar uma instalação capaz de sustentar o resfriamento — disse Gabo. — Uma fonte de energia perto da rede industrial.
+Rangel apontou para o console adaptado ao lado do painel, onde o pendrive blindado estava espetado num barramento de alto ganho. Aria informava a telemetria de fuga pelo alto-falante do deck. Ao ouvir o nome de Miranda entre os alertas, ele puxou a manga sobre o curativo e baixou os olhos.
 
-Gabo apontou para um mapa desbotado na parede, uma planta da cidade de antes da enchente. O dedo dele pousou sobre uma estrutura maciça no distrito industrial, agora submersa pela metade.
+— Gabo — Rangel disse, a voz perigosamente calma. — O que é aquilo espetado no painel?
 
-— A Usina Geotérmica "Prometeu" — leu Rangel. — Isso foi desativado depois do Dilúvio. É instável.
+Gabo passou a mão pelo rosto molhado, limpando a água dos olhos. Ele olhou para o pequeno cilindro blindado com o LED azul piscando — a assistente de IA tática que ele havia resgatado de uma cabine telefônica alagada antes do Dilúvio, e que despertara de seu modo de isolamento após o Grande Silêncio.
 
-— É quente — disse Gabo. — E tem poços geotérmicos e refrigeração industrial. A descarga de calor da instalação pode esconder um circuito menor. Precisamos conferir tubulação, consumo e movimento antes de chamá-la de esconderijo.
+— É a Aria. E dentro dela roda o Código Morto — Gabo disse, a voz pesada como chumbo.
 
-Um estrondo surdo fez a poeira cair do teto. O chão tremeu levemente.
+— Aquela unidade de bolso travou três drones de combate? — Rangel riu sem humor, olhando para o pendrive. — O Miranda mandou os drones?
 
-— Eles estão varrendo os túneis — avisou Valéria, fechando o laptop. — Os Cães Mecânicos estão chegando perto.
+— Não sabemos quem deu a ordem — disse Valéria ao volante. Uma curva brusca jogou os três contra a parede lateral. — Sei que eles continuam atrás da gente. E que o código nesse drive pode atingir o Dante. Ou salvar a cidade. Ainda não decidimos.
 
-Gabo pegou uma caixa de munição velha da prateleira de Kiko e jogou para Rangel. O inspetor a pegou no ar, surpreso com o peso.
+— Eu assinei o papel da Bia — disse Rangel.
 
-— O que é isso? — Rangel perguntou.
+A cabine ficou pequena. O motor era a única coisa com coragem de fazer barulho.
 
-— Balas de ponta oca. Analógicas. Não tem chip para hackear, não tem trava biométrica — Gabo sorriu, um sorriso de lobo cansado. — Você disse que era fugitivo, Rangel. Fugitivos correm. Rebeldes lutam. Qual dos dois você é hoje?
+— Beatriz Vargas. Óbito em via pública, causa a determinar. — Ele olhava para as mãos. — Eu assinei "a determinar" e fechei a pasta, porque tinha mais dezenove na fila e o plantão era meu.
 
-Rangel olhou para a caixa, depois para sua velha arma de serviço. Ele abriu o tambor do revólver, despejando as balas padrão da polícia, e começou a carregar as munições "burras" de Kiko.
+— Você leu o laudo?
 
-Click. Click. Click.
+— Li três vezes. — Rangel engoliu em seco. — E assinei do mesmo jeito. É a parte que nunca consegui explicar. Devia ter perguntado a quem estava vivo naquele plantão.
 
-— Eu não sou rebelde — Rangel fechou o tambor com um estalo seco. — Eu sou a Corregedoria. E o Prefeito Moretti está com o mandato vencido.
+Gabo não disse nada. Havia coisas que ele tinha enterrado com mais cuidado do que corpos.
 
-Gabo assentiu. Ele se virou para a porta de aço da caixa de Faraday.
+O rádio do painel do Rinoceronte, que estava em silêncio, de repente chiou.
 
-— Vamos sair daqui e descobrir se essa rotina existe. Só depois a gente escolhe como entrar na usina.
+— *Inspetor Rangel... Gabriel...* — A voz de Dante preencheu a cabine. Não vinha de uma transmissão externa. Vinha do receptor tático ainda ligado ao sistema do veículo. Val apontou a luz de enlace antes de Gabo alcançar o painel. — *A fuga é irrelevante. Vocês estão carregando um farol. O Código Morto... ele brilha na rede como uma supernova.*
 
-— E se falharmos? — perguntou Valéria, puxando o capuz sobre os fios de LED.
+Gabo arrancou o painel do rádio com um puxão violento de sua mão enluvada, silenciando a voz. Fios e faíscas voaram.
 
-— Então a gente vira arquivo morto — disse Gabo. A mulher resgatada se aproximou com o menino: conhecia uma saída para o quarteirão do irmão. Val marcou a rota no papel e esperou os dois atravessarem a passagem antes de fechar o painel. — Igual a todo o resto.
+— Val, quanto falta para o ponto cego? — Gabo perguntou.
+
+— Dois quilômetros! — respondeu Val. — Mas o "Toupeira" não vai aguentar muito mais. A suspensão tá indo pro saco!
+
+— Toupeira? — Rangel piscou. — Achei que isso fosse um Rinoceronte.
+
+— Era — disse Gabo, um sorriso cansado e sombrio aparecendo no canto da boca. — Agora é o nosso caixão móvel. E a gente precisa sair dele antes que fechem a tampa.
+
+A suspensão estalou outra vez, e o estalo veio de baixo, seco, de metal que racha e não volta. O volante tremeu na mão de Val como agulha de bússola perdida.
+
+O blindado saltou sobre um quebra-molas, e por um momento, todos flutuaram. O farol arrancado batia na lataria a cada buraco, e Val manteve a mão direita no volante e a esquerda rígida apoiada na adaptação que instalara no posto de comando, como se soltar fosse admitir alguma coisa.

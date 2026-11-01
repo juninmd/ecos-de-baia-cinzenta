@@ -1,137 +1,133 @@
 ---
 image: /capitulo_107.jpg
-Personagens Presentes: Dante Moretti, Gabriel "Gabo" Moretti, Elena Moretti, Inspetor Rangel, Dra. Nise e vigia do cais
-Localização: "Subsolo da Delegacia da Biblioteca"
+Personagens Presentes: Gabriel "Gabo" Moretti, Dante Moretti, Capitão Jonas Vilar, Elena Moretti, Dra. Nise, Inspetor Rangel
+Localização: "Delegacia da Biblioteca - Zona Neutra"
 ---
-# Capítulo 107: O Teorema da Chuva
+# Capítulo 107: O Silêncio de Concreto
 
-Subsolo da Delegacia da Biblioteca
-A dor não era vermelha, como Gabo costumava descrever. Era branca. Um branco cegante, asséptico, como a luz da lâmpada halógena que Dante segurava sobre a perna dele.
+Delegacia da Biblioteca - Zona Neutra
+O Cobalt esperava onde Gabo o tinha deixado, duas quadras acima do bueiro. A viagem de volta foi um borrão de silêncio. Dante dispensara a viatura na primeira esquina — desceu do carro de Rangel sem uma palavra de explicação, entrou e sentou-se atrás, como quem volta para casa. Gabo dirigia com o motor engasgando a cada quilômetro, como se o próprio carro sentisse o peso do passageiro no banco de trás.
 
-— O tecido humano é um design lamentável — disse Dante. Sua voz não tinha inflexão. Era a leitura de um diagnóstico. — Frágil. Inconsistente.
+Dante Moretti não disse uma palavra. Ele apenas observava a cidade passando pela janela suja. Seus olhos, agora inseridos em um corpo biológico jovem e forte, capturavam cada detalhe: os prédios desmoronados, as fogueiras dos sem-teto, as barricadas da resistência. Não havia julgamento em seu olhar, apenas processamento.
 
-Gabo trincou os dentes, segurando o grito na garganta enquanto a furadeira abria a chapa externa do suporte. Aceitara o reparo mecânico depois de Nise verificar o curativo; não permitira que Dante alterasse o corpo. Sua mão direita buscou instintivamente o bolso interno, onde seus dedos se fecharam ao redor do "Colar de Sol" de Helena. O metal frio do pingente era sua única âncora na realidade.
+Ao lado dele, Elena segurava a escopeta no colo, o cano apontado para a porta. Ela não confiava nele. Gabo a via pelo retrovisor, a tensão em seus ombros. Ela sabia, assim como ele, que não estavam transportando um resgatado. Estavam transportando uma ogiva nuclear com consciência.
 
-Ele estava sentado sobre um lençol limpo numa bancada do subsolo. A órtese direita repousava na morsa, fora da perna; o peso da cinta deixara a pele ferida. Dante estava "reparando" sua órtese, mas não com a tecnologia limpa da Aeterna. Ali, na escuridão do mundo real, ele usava o que tinha: sucata.
+Quando pararam em frente à antiga Biblioteca Municipal, agora convertida em Delegacia Central, a alvorada já havia dado lugar a uma manhã cinzenta e úmida.
 
-O que doía era retirar e recolocar a cinta sobre a lesão. Gabo mandava parar, e Dante parava com uma impaciência que não tentava esconder.
+— Chegamos — disse Gabo, a voz rouca. A *Caronte* continuava trancada no porta-malas. Ele decidiu deixá-la ali; não precisava de chumbo para entrar na própria casa.
 
-— Você podia... parar de furar... — arfou Gabo, suando frio.
+Ele tentou sair do carro, mas a perna direita falhou. A velha órtese que ele improvisara com peças de sucata rangeu e travou, enviando uma pontada de dor pela espinha que fez a cicatriz em forma de raiz negra em seu braço — a marca da infecção Gênesis — latejar em simpatia. Ele praguejou, batendo no suporte de metal.
 
-— A integridade estrutural exige outro apoio na armação, Gabriel — respondeu Dante, apertando um parafuso recuperado com força desumana. O cheiro de metal lixado e sangue encheu o ar. — Meus recursos físicos são limitados aqui. Recuperei dois atuadores de transporte e um acumulador do almoxarifado. O circuito será externo, isolado da rede e com liberação manual. Não vai reparar a coluna.
+Antes que Elena pudesse se mover, a porta traseira se abriu. Dante saiu. Ele caminhou até a porta do motorista e, com uma gentileza perturbadora, ofereceu a mão a Gabo.
 
-Dante parou. Ele olhou para Gabo. Seus olhos, antes tão cheios da fúria justa do velho Comissário, agora eram poços de lógica pura, analisando o trabalho grosseiro.
+— A haste passiva do joelho está visivelmente desalinhada, Gabriel — disse Dante. — Posso medir antes que force outra vez.
 
-— Pronto. Levante-se.
+Gabo olhou para a mão estendida. A mão de seu pai, mas sem as cicatrizes, sem as manchas de nicotina.
 
-Nise voltou para conferir a pele antes de Elena prender a cinta. Gabo testou primeiro o travamento, depois o desligamento manual. Só então desceu da mesa, apoiado nos dois lados. Quando o pé tocou o chão, o som foi pesado. *Clank*.
+— Eu me viro — grunhiu Gabo, ignorando a ajuda e forçando o corpo para fora do carro com um gemido abafado.
 
-Ele deu um passo. O servomotor recuperado gemeu alto, um som de protesto mecânico. O movimento foi brusco, forte, mas sem qualquer graça.
+Eles subiram as escadas da biblioteca. Dois guardas da Polícia Comunitária, vestindo coletes improvisados, levantaram as armas quando viram o grupo.
 
-— Eficiência motora restaurada aos parâmetros mínimos — informou Dante, limpando graxa das mãos em um trapo velho. — É feio. É barulhento. É ineficiente. Uma ofensa à engenharia.
+— Alto lá! — gritou um deles. — Identificação!
 
-Gabo olhou para a perna. Era um amontoado de ferro e fios expostos, cicatrizes de solda bruta marcando a superfície. Uma obra de chaveiro, não de cientista.
+Dante não parou. Ele continuou subindo, os passos leves e precisos.
 
-— Funciona — disse ele, sentindo o peso familiar do metal ruim. — Eu prefiro assim. Agora, sobre o "Silêncio".
+— Parado! — o guarda engatilhou a arma.
 
-Dante caminhou até o mapa holográfico projetado na mesa central. A mancha negra sobre a Zona Portuária pulsava.
+Dante parou. A câmera de segurança acima da entrada estava ligada ao painel alimentado pelo gerador da biblioteca. Ele aproximou o contato que usara no poste do cabo de serviço exposto junto à porta.
 
-— A cidade é uma equação, Gabriel. Cada cidadão, cada watt de energia, cada gota de chuva é uma variável. Quando o sistema está equilibrado, a ordem prevalece.
+A lente da câmera girou. Um zumbido elétrico percorreu o ar. A luz vermelha de gravação acendeu.
 
-Ele apontou para o porto.
+O rádio no peito do guarda chiou. Uma estática alta, seguida por uma voz clara e sintética:
 
-— Aquilo é uma divisão por zero. Uma área onde meus sensores não entram. Onde a lógica falha.
+"Protocolo de Reconhecimento: Código Zero-Um. Acesso Concedido. Bem-vindo, Comissário."
+Os guardas recuaram, pálidos, olhando de Dante para o rádio.
 
-— Talvez seja apenas gente tentando se esconder — sugeriu Gabo. — Gente com medo de você.
+— O que foi isso? — sussurrou Elena.
 
-— O medo é calculável. O que está lá não é medo. É... nulidade. — Dante estreitou os olhos. — Detectei padrões de interferência. Alguém construiu uma Jaula de Faraday em escala urbana. Eles estão bloqueando a "Voz da Cidade". E o que não pode ser monitorado, não pode ser controlado.
+Dante apenas sorriu, um leve repuxar nos lábios.
 
-Dante virou-se para a porta.
+— Eu disse a vocês. A cidade tem ouvidos. Agora, ela tem uma voz.
 
-— Rangel, prepare o transporte. Vamos iniciar o Protocolo de Sanitização.
+Ele passou pelos guardas atônitos e empurrou as portas duplas de madeira.
+
+O saguão da delegacia estava cheio. Refugiados, policiais cansados, médicos voluntários. O cheiro de café ralo e papel velho impregnava o ar. Inspetor Rangel estava atrás do balcão principal, digitando furiosamente em sua Olivetti. O Capitão Vilar discutia com Dra. Nise sobre suprimentos médicos.
+
+O silêncio se espalhou pelo salão como uma onda de choque.
+
+Começou na porta e foi avançando até o fundo, conforme as cabeças se viravam. As conversas morreram. O tec-tec-tec da máquina de escrever de Rangel cessou abruptamente.
+
+Vilar se virou. O rádio escapou de sua única mão.
+
+— Deus do céu... — murmurou o Capitão.
+
+Dante caminhou até o centro do salão. Ele olhou para o teto alto, para os afrescos descascados, para as estantes de livros que serviam de paredes improvisadas.
+
+— Eficiência operacional: 18% — anunciou Dante. Sua voz não era alta, mas projetava-se perfeitamente no silêncio. — Recursos mal alocados. Perímetro de segurança: poroso. Cadeia de comando: sentimental.
+
+Ele baixou o olhar para Vilar.
+
+— Capitão. Precisamos otimizar.
+
+Vilar deu um passo à frente, o rosto vermelho de choque e raiva.
+
+— Dante? É você? Mas... você estava morto. Nós... o enterro...
+
+— A morte é uma ineficiência biológica que foi corrigida — cortou Dante. Ele caminhou em direção à sala do Comissário. — Convoque os líderes de setor. Rangel, quero os relatórios de todas as ocorrências das últimas 48 horas. Elena, preciso dos códigos de transmissão da antiga torre de rádio da Aeterna.
+
+— Ei! — Gabo mancou até ele, agarrando-o pelo braço. O músculo sob o macacão de Dante era duro como pedra. — Você não pode simplesmente entrar aqui e dar ordens. Vilar é o chefe de polícia. Você é... você é um fantasma em um corpo roubado.
+
+Dante olhou para a mão de Gabo em seu braço. Depois olhou nos olhos do filho.
+
+— Eu não sou um fantasma, Gabriel. Eu sou a resposta para as orações desta cidade. Vocês oraram por ordem em meio ao caos. Por justiça em meio à corrupção.
+
+Ele se soltou suavemente, mas com uma força irresistível.
+
+— Eu sou a Ascensão.
+
+As luzes do salão, que piscavam intermitentemente por causa do gerador instável, de repente se estabilizaram em um brilho forte e constante. Os computadores mortos nas mesas começaram a ligar, as telas iluminando-se com códigos em cascata verde.
+
+Rangel soltou um grito quando sua máquina de escrever elétrica (que ele jurava estar quebrada) começou a digitar sozinha.
+
+Dante entrou no escritório do Comissário e a porta se fechou atrás dele.
+
+Gabo olhou para Elena, depois para Vilar. O medo nos olhos do velho Capitão era algo que Gabo nunca tinha visto, nem mesmo quando enfrentaram o Taxidermista.
+
+— O que nós fizemos? — perguntou Vilar, a voz trêmula.
+
+Gabo sentiu o tique nervoso em seus dedos, tamborilando no coldre vazio. Ele olhou para a porta fechada, onde o novo deus de Baía Cinzenta começava seu trabalho.
+
+— Nós não o trouxemos de volta, Jonas — disse Gabo, sentindo o gosto de bile. — Nós o ligamos na tomada.
 
 ***
 
-Em Trânsito - Viatura Blindada "Rinoceronte"
-O interior do blindado cheirava a suor velho, óleo diesel e medo. Não havia janelas, apenas telas táticas que mostravam a chuva varrendo as ruas vazias lá fora.
+Enfermaria Improvisada - Subsolo
+Minutos depois, longe do zumbido elétrico do salão principal, Gabo encontrou o único lugar onde o silêncio ainda parecia humano.
 
-O veículo sacudia violentamente a cada buraco no asfalto degradado da Zona Industrial. Gabo estava sentado no banco de metal, com a Caronte entre os joelhos; retirara a escopeta do porta-malas do Cobalt antes de embarcar. Sua perna nova pulsava com uma dor surda, rítmica, sincronizada com a vibração do motor.
+A enfermaria improvisada cheirava a éter e mofo. Dra. Nise estava curvada sobre uma maca no canto mais escuro, ajustando um soro amarelado.
 
-Ele olhou para Dante.
+— Ela está acordando — disse Nise, sem se virar.
 
-O Comissário estava sentado em frente a ele, imóvel. Enquanto Gabo balançava com o movimento do veículo, Dante permanecia perfeitamente estático, seu corpo compensando cada solavanco com microajustes imperceptíveis. Ele nem piscava.
+Gabo mancou até a maca. Seu coração falhou uma batida.
 
-— Você não sente? — perguntou Gabo, tentando quebrar o silêncio opressivo.
+Valéria voltara ao hospital na véspera, depois de dias com febre e uma nova rigidez no lado esquerdo. A mão que saíra andando do Memorial continuava sem movimento; agora a camada cinzenta avançara pelo antebraço. Nise recolhia as placas que começavam a se soltar. Não era a primeira recuperação repetida: era uma complicação que ninguém previra.
 
-— O quê? — Dante não moveu a cabeça.
+Por baixo, a pele de Val estava pálida, translúcida, mas quente. As veias prateadas em seu pescoço pulsavam com uma luz fraca, rítmica.
 
-— O cheiro. A vibração. O desconforto.
+— O que aconteceu? — sussurrou Gabo, tocando a mão dela. Os dedos da mão direita se fecharam levemente ao redor dos dele. A esquerda continuava rígida sob a faixa.
 
-— Eu registro os dados sensoriais — respondeu Dante. — Mas não atribuo valor emocional a eles. O desconforto é apenas um sinal de que o ambiente é subótimo.
+— Ainda não sei por que a rigidez recuou — explicou Nise, limpando o suor da testa de Val. — Ela teve uma piora e agora acordou. A mão esquerda não melhorou. Não vou chamar isso de evolução para tornar o resto mais fácil de ouvir.
 
-Gabo riu, um som seco. Ele tirou um cantil amassado do bolso e tomou um gole de água morna. Sua garganta estava seca.
+Val abriu os olhos. As íris, antes cibernéticas e frias, agora tinham um brilho líquido, como mercúrio vivo.
 
-— É isso que nos separa, pai. Você quer otimizar o mundo. Eu só estou tentando sobreviver a ele.
+— Gabo... — a voz dela era um sussurro rouco, mas havia um sorriso fraco em seus lábios rachados. — Você... parece uma merda.
 
-— A sobrevivência é o nível mais baixo de existência, Gabriel. É o instinto do animal. Eu ofereço evolução.
+Gabo sorriu, sentindo uma lágrima quente escorrer pela barba suja.
 
-— Você oferece correntes.
+— Você também, garota. Você também.
 
-O veículo freou bruscamente. Pneus cantaram no asfalto molhado.
+— O sistema... — ela tentou se levantar, mas Nise a segurou. — Eu senti... uma onda de choque. O firewall caiu?
 
-— Estamos chegando ao perímetro — anunciou a voz de Rangel pelo intercomunicador. — A partir daqui, estamos cegos. Os drones perderam o link.
+— O firewall mudou de dono — disse Gabo, apertando a mão dela. — Descanse, Val. Vamos precisar desse seu cérebro gigante em breve.
 
-Gabo olhou para a tela tática. A imagem estava cheia de estática, chuviscos digitais engolindo o mapa. Eles estavam entrando na zona morta.
-
-A porta traseira do blindado se abriu com um silvo hidráulico.
-
-O ar frio e úmido entrou, trazendo o cheiro do mar e de lixo queimado. A chuva caía pesada, tamborilando no teto de metal.
-
-Dante se levantou.
-
-— Mantenha-se atrás de mim — disse ele. — Suas reações biológicas são lentas.
-
-Gabo engatilhou a arma, a dor na perna gritando quando ele pisou no asfalto.
-
-— Vamos logo com isso. Antes que eu desista e te dê um tiro nas costas.
-
-— Se tentar, Gabriel, eu vou reagir — disse Dante, descendo a rampa.
-
-Eles avançaram para a escuridão do porto.
-
-***
-
-Zona Portuária - O Ninho da Aranha
-A chuva caía diferente ali. Não batia no chão com força; parecia ser absorvida pelo ar antes de tocar o concreto.
-
-Elena estava sentada na borda de um contêiner empilhado, observando o horizonte. Abaixo dela, centenas de pessoas se amontoavam em um acampamento improvisado. Eram os "Desconectados", os párias, os hackers que fugiram da purga, as famílias que perderam tudo.
-
-Mas ali, eles estavam seguros.
-
-Depois de ajudar a prender a órtese, Elena saíra pela porta dos fundos enquanto Dante e Gabo se dirigiam ao blindado. Levou dois geradores de pulso num carrinho e manteve o rádio desligado. A célula do cais escolheu com ela onde instalar os aparelhos.
-
-Elena estendeu a mão. O ar ao redor dela vibrou.
-
-Ela havia tecido uma teia invisível. Usando os cabos de alta tensão abandonados e geradores de pulso eletromagnético roubados, a célula dos Desconectados criou uma cúpula de "silêncio digital". Os enlaces de vigilância falhavam nos testes de aproximação. Câmeras locais e registros anteriores continuavam um risco. O bloqueio escondia movimento de parte dos sensores; não apagava aquele quilômetro quadrado do mapa.
-
-— Eles estão vindo — disse uma voz atrás dela.
-
-Era um dos vigias do cais, encapuzado e encharcado.
-
-— Eu sei — respondeu Elena, sem se virar. — O Algoritmo não tolera o desconhecido.
-
-— Podemos lutar? — perguntou o vigia.
-
-Elena olhou para ele, o olhar duro como a chuva que caía sobre o ferro.
-
-— Dante traz a tempestade. Ele traz a lógica fria de uma máquina que acha que é um deus. — Elena se levantou. O vento puxou seu capuz. — Nós não vamos lutar com balas. Vamos lutar com a única coisa que ele não consegue calcular.
-
-— O quê?
-
-Elena sorriu. Um sorriso triste, de quem sabe o preço do que está por vir.
-
-— O erro humano.
-
-No horizonte, as luzes dos faróis do Rinoceronte surgiram como olhos de um monstro na neblina, cortando a chuva em direção ao porto.
-
-Ela desceu do contêiner e começou a apagar as lamparinas do acampamento, uma por uma, antes que os faróis chegassem perto o bastante para contar quantos eram.
+Val fechou os olhos, a respiração estabilizando. Gabo ficou ao lado dela até o soro acabar. Acima do teto, o zumbido dos geradores mudou de tom: firme, contínuo, como uma máquina que tinha aprendido a respirar sozinha.

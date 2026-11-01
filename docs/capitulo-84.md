@@ -1,149 +1,150 @@
 ---
 layout: doc
-title: "Capítulo 84: A Primeira Colheita"
-description: "Um trem parou no túnel e há pessoas respirando presas à parede. A equipe precisa descobrir como retirá-las."
+title: "Capítulo 84: O Profeta Mudo"
+description: "Na catedral de ferro do Padre Miguel há cinquenta pessoas ajoelhadas em silêncio. Não são mendigos: são engenheiros que encontraram uma rede que se alimenta da própria cidade."
 image: /capitulo_84.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Dra. Nise, Capitão Jonas Vilar
-Localização: "Estação Sé, Linha Vermelha — 11h30"
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, o Profeta e participantes do encontro
+Participação em referência: Padre Miguel
+Localização: "Esgotos do Setor 4 — a Catedral de Ferro. 22h"
 ---
 
-# Capítulo 84: A Primeira Colheita
+# Capítulo 84: O Profeta Mudo
 
-Estação Sé, Linha Vermelha — 11h30.
-O trem estava parado a seiscentos metros da plataforma, apoiado nas rodas de emergência sobre o trilho magnético desligado. Entre a saia do vagão e o piso restava uma fresta de três centímetros.
+Esgotos do Setor 4 — a Catedral de Ferro. 22h.
+A câmara de drenagem sob a Catedral de Ferro, usada pelo Padre Miguel como abrigo quando a água subia, tinha novos inquilinos. E eles eram silenciosos.
 
-As luzes de emergência do túnel pulsavam em vermelho a cada dois segundos e criavam, no intervalo, uma escuridão completa. O efeito era pior que escuridão contínua: cada pulso mostrava uma coisa nova e cada intervalo deixava o cérebro montar sozinho o que vinha depois.
+Gabo e Val desceram pelas passarelas enferrujadas com as lanternas apagadas, guiando-se pelo brilho que vinha de baixo. A água corria seis metros abaixo, e o som dela era o único som daquele lugar, o que já era errado: esgoto principal tem eco, gotejo, rato, e uma acústica que devolve tudo.
 
-Gabo forçou as portas do último vagão com o pé de cabra e o cheiro saiu de dentro como coisa que estava esperando.
+Ali, o som morria.
 
-Ozônio queimado. Carne crua. E, por baixo, a doçura.
+— Os meus drones perderam sinal na descida — sussurrou Val. — Todos os quatro, no mesmo ponto, a doze metros de profundidade. Pode ser a estrutura, água, interferência. Vou recolher um pelo cabo antes de culpar os esporos.
 
-— Fiquem juntos — disse Vilar. — Todo mundo pisa onde o da frente pisou.
-
----
-
-O vagão estava vazio.
-
-Não revirado, não quebrado: **vazio**, com as bolsas ainda nos assentos, os celulares no chão, uma criança de brinquedo de pelúcia largado no corredor. Uma caneca térmica de café em pé, sem tombar, com café dentro ainda morno.
-
-Val pegou um dos celulares.
-
-— Oito e cinquenta e quatro — leu. — Última interação. Uma senhora estava mandando mensagem para a filha dizendo que o trem tinha parado e que ia se atrasar.
-
-— E depois?
-
-— Depois nada. A mensagem foi enviada. Foi entregue. Não foi lida.
+E o cheiro tinha mudado. Não era esgoto. Era terra molhada e flor doce, o mesmo cheiro exato do armazém da Zona Leste e do laboratório da Torre. Gabo já estava começando a odiar aquele cheiro de um jeito pessoal.
 
 ---
 
-Eles desceram pelos trilhos. O túnel tinha mudado.
+O salão principal era uma câmara de drenagem circular de trinta metros, com um pé-direito de oito, e havia sido construída em mil novecentos e setenta e um com abóbada de tijolo, porque naquela época se construía esgoto com respeito.
 
-Um túnel de metrô é a coisa mais previsível que a engenharia civil produz: um cilindro de concreto com uma calha, uma canaleta de cabo e nichos de fuga a cada cinquenta metros. Não tem surpresa nenhuma dentro de um túnel de metrô.
+Estava iluminado por tochas. Fogo de verdade. Pano enrolado em cabo, embebido em gordura, preso na parede com abraçadeira. Nenhum LED, nenhuma lanterna, nenhuma célula. Quarenta e nove pessoas ajoelhadas no chão molhado, em fileiras, absolutamente em silêncio.
 
-Aquele parecia esôfago.
+Vestiam túnicas de fibra grosseira — juta, ou algo parecido — entrelaçadas com fio de cobre fino, costurado em espiral no tecido, do ombro à barra. Val se abaixou atrás do parapeito e sussurrou, mais para si mesma:
 
-As paredes estavam cobertas por veias — grossas como cano de PVC, translúcidas, com um fluido amarelo-luminescente correndo dentro em pulsos visíveis, sempre na mesma direção: para o norte. Na direção do Memorial.
-
-E elas não estavam **em cima** da fiação elétrica. Estavam entrelaçadas com ela, alternando, como se alguém tivesse trançado.
-
-— Nise — chamou Gabo. — Não encosta na parede.
-
-— Detetive, eu tenho sessenta e cinco anos e nenhuma vontade de encostar em nada.
+— Aquilo é antena.
 
 ---
 
-O primeiro estava a duzentos metros. Um homem de terno, de uns cinquenta anos, ainda com a maleta na mão direita.
+No altar improvisado — uma comporta de aço virada de lado — estava ele. Tinha sido um ciborgue de construção pesada. Modelo antigo, dos que a prefeitura comprou em quarenta e três para obra de contenção: chassi de exoesqueleto ancorado na coluna, tronco humano, dois braços hidráulicos de carga.
 
-Os pés dele não tocavam o chão. Estavam quarenta centímetros acima do lastro, e o corpo estava encostado na parede do túnel, de frente para os trilhos, e de dentro das costas dele saíam cordões — parte metálicos, parte não — que se abriam em leque e se fixavam no concreto num raio de dois metros.
+As partes mecânicas tinham sido arrancadas. Não removidas com chave: **arrancadas**, e os pontos de ancoragem estavam cicatrizados por cima, com tecido novo crescido em volta do metal restante.
 
-Como mosca em teia, e Gabo odiou que essa fosse a comparação exata. O rosto estava calmo.
+No lugar do braço hidráulico direito havia um galho. Grosso, nodoso, com uns oitenta centímetros, e funcional — Gabo viu ele se dobrar em três pontos, com articulações que não existem em galho nenhum.
 
-Os olhos estavam abertos, e não estavam vidrados nem opacos. Estavam **focados**, em alguma coisa a uns quarenta centímetros do nariz dele, e a pupila ajustava.
-
-Val ergueu o escâner e a mão dela tremeu.
-
-— Ele está vivo.
-
-— Como assim vivo?
-
-— Movimento respiratório e temperatura superficial baixa. Não tenho saturação sem contato, nem vou chamar isso de estase pelo escâner. — Ela engoliu. — Ele está vivo agora. E olha o fluxo: parece entrar pelas costas e voltar. Não consigo dizer o que estão trocando.
-
-— Nutrido ou drenado? — perguntou Gabo.
-
-— Não sabemos. — Nise respondeu antes da Val, sem tirar os olhos do homem. — Pode haver troca, mas ainda não sabemos se os cordões mantêm ele vivo ou quanto tempo ele resiste assim.
-
-— Como tiramos ele daí?
-
-— Precisamos medir e ver se há um jeito de separar sem matar. — Ela finalmente olhou para Gabo. — Tudo o que a gente sai de casa às seis da manhã para conseguir.
+A caixa de voz tinha sido removida. O buraco na garganta, do tamanho de um punho, estava tomado por uma orquídea preta, viva, com as pétalas voltadas para fora.
 
 ---
 
-Mais adiante, a cena se repetia. E depois de novo, e depois deixou de ser cena e virou paisagem. Dezenas. Depois centenas.
+— Eles não estão rezando — disse Gabo, muito baixo. — Olha a postura. Estão com a cabeça de lado.
 
-Homem de terno, mulher com sacola de feira, três adolescentes de uniforme escolar em fila, um idoso com bengala ainda pendurada no pulso, uma mulher com um bebê preso ao peito num canguru de pano — e o bebê também estava com os olhos abertos, e também estava respirando.
+— Estão ouvindo — disse Val.
 
-Todos encostados na parede. Todos a quarenta centímetros do chão. Todos virados para os trilhos, como plateia. Vilar parou de andar e ficou parado com a lanterna baixa.
+O Profeta levantou o braço-galho. E as quarenta e nove pessoas inclinaram a cabeça ao mesmo tempo. Sem atraso. Sem uma única que se atrasasse meio segundo, o que é impossível num grupo humano: sempre tem um que demora.
 
-— Por que não matar? — ele disse, e a voz dele saiu de um homem muito velho. — Se essa coisa quer biomassa, por que não matar e comer? Por que manter todo mundo assim?
+Não houve som nenhum. Mas Gabo sentiu no peito. Uma pressão surda no esterno e nos ouvidos, exatamente como mergulhar dois metros numa piscina, e um mal-estar que subiu do estômago sem motivo.
 
-— Porque não é biomassa que ela quer — disse Gabo.
+— Infrassom — disse Val, lendo os óculos. — Dezoito hertz. Gabo, isso é abaixo da audição, mas o corpo capta pela caixa torácica. Temos vibração e estamos passando mal. Isso não prova que uma frequência fabrica medo, nem que explica o que eles estão ouvindo.
 
-— Então é o quê?
+— Ele está fazendo eles sentirem Deus.
 
-— Processamento.
-
----
-
-Ele apontou a lanterna para o teto do túnel, onde as veias convergiam num feixe grosso.
-
-— A Torre caiu. Os enlaces do cofre no mar caíram depois das três hastes de tungstênio que fui eu que mandei. Não tivemos acesso ao casco para saber o que houve lá embaixo. — Ele falou isso sem entonação nenhuma. — Se usava aquelas máquinas, pode estar procurando outro suporte. É hipótese, Capitão.
-
-— Cérebro humano — disse a Dra. Nise, levando a mão à boca por cima da máscara. — Pode estar usando as pessoas como nós de alguma rede. Ainda não medimos o que passa nesses cordões.
-
-— Seria parecido com a Nova Baía — disse Val, com a voz fina. — Mas não sabemos se elas processam informação nem o que percebem. Precisamos achar um jeito de perguntar.
-
-Gabo olhou para as fileiras de rostos calmos. Não sabia quantos passageiros ainda estavam ali nem quantos tinham conseguido sair.
-
-— Se aprendeu com a Aeterna, pode estar repetindo o que fizeram lá — ele disse. — Quero a prova antes que mais alguém chame isso de salvação.
+— Ele pode estar usando a vibração junto com a Canção. Eu não sei o que essa gente está sentindo. É a coisa mais antiga que existe, e ele está fazendo com um sistema de som feito de flor.
 
 ---
 
-E aí o túnel suspirou.
+Gabo procurou o Padre Miguel. Ele não estava no altar. Não estava entre os ajoelhados. Gabo passou os olhos por todas as quarenta e nove nucas e não achou aquela careca conhecida, e ficou com isso engasgado. Mas achou outra coisa.
 
-Foi isso: um suspiro. As pessoas que conseguiam ver inspiraram ao mesmo tempo, num túnel fechado, e o deslocamento de ar mexeu o cabelo da Nise.
+— Val. Terceira fileira, quarto da esquerda.
 
-Todas as bocas se abriram juntas.
+— O que tem?
 
-— *O... Sol... Negro...*
+— É o Fabiano. Fabiano Duarte. Trabalhava na infraestrutura da Aeterna, camada de dados. Eu depus duas vezes com ele em processo de vazamento, em quarenta e nove. — Gabo continuou varrendo. — E aquela ali de trança é a Priscila alguma coisa, engenheira de rede da concessionária.
 
-Não foi coro. Coro tem gente adiantada e gente atrasada. Aquilo pareceu uma voz só, saindo das gargantas ao alcance deles, e o resultado não pertencia a nenhum ser humano específico.
+— Como você sabe?
 
-As veias das paredes brilharam mais forte na sílaba tônica. O túnel estremeceu.
-
-— **SAI!** — gritou Vilar.
+— Porque eu passei catorze anos decorando rosto de testemunha. — Ele desceu mais um degrau. — Val, esses aí não são os mendigos do Padre Miguel. Isso aí é o corpo técnico da cidade.
 
 ---
 
-O chão se abriu. Não em rachadura: as pedras do lastro subiram, empurradas por baixo, e de dentro saíram raízes finas que se moveram com a velocidade de chicote.
+O Profeta virou a cabeça. Ele não tinha olhos. As órbitas estavam preenchidas por um musgo pálido que emitia luz própria, e mesmo assim ele virou a cabeça direto para o ponto exato do parapeito onde os dois estavam agachados no escuro absoluto.
 
-Uma se enrolou no tornozelo da Dra. Nise e puxou, e ela caiu de joelhos com um som que Gabo ia ouvir por semanas. Ele atirou.
+Val parou de respirar. A orquídea na garganta dele vibrou. Dava para ver as pétalas tremerem. E o som que saiu não foi humano, e não foi mecânico.
 
-Chumbo grosso a um metro e meio cortou a raiz em dois, e a parte que ficou presa no tornozelo dela apertou uma última vez e soltou. E gritou.
+Foi o estalo de uma árvore grande rachando com o vento — aquele *crack* seco, longo, com um rasgo de fibra no fim — amplificado até doer.
 
-Não metaforicamente: o coto que sobrou no chão emitiu um som agudo de dois segundos, e sangrou um óleo preto e espesso, e as outras raízes recuaram trinta centímetros ao mesmo tempo.
-
-Gabo registrou aquilo com a parte fria do cérebro: *ela reage ao corte. O sinal passa para as outras. E elas recuam.* Era a primeira informação útil do dia.
+CRACK
 
 ---
 
-Eles voltaram pelo túnel na direção do trem e da plataforma.
+As quarenta e nove pessoas se levantaram ao mesmo tempo. Como um corpo só. E se viraram para o parapeito. Os olhos eram brancos e leitosos, todos, sem exceção. Cegos.
 
-Vilar puxava Nise com a mão direita; o braço imobilizado batia contra o peito a cada passo. Val ia na frente, disparando o flash do escâner no chão para ver onde pisar. Gabo ia por último, andando de costas, com a *Caronte* apontada para o túnel, e a perna esquerda avisando que aquilo ia ser cobrado.
+— Corre — disse Gabo.
 
-Atrás deles, o coro subiu de volume. E depois deixou de ser som.
+---
 
-Depois de mais de cem metros, o que vinha atrás deles parou de entrar pelo ouvido e passou a entrar direto: uma pressão dentro do crânio, atrás dos olhos, com palavras que não estavam sendo faladas.
+Val puxou Gabo pela passarela. As órteses o sustentavam com dificuldade; a mão dele raspava na parede a cada passo. E o pior, o que levaria para casa e para os sonhos, foi que **não houve grito**.
 
-Val caiu de joelhos no lastro e vomitou. Gabo se apoiou numa coluna, com as duas mãos, e ficou ali até passar.
+Multidão perseguindo faz barulho: berro, xingamento, ordem. Aquilo não. O que veio atrás deles foi o som de noventa e oito pés descalços correndo em chapa de aço, num ritmo perfeitamente sincronizado, com o estalo molhado de sola no metal.
 
-Quando passou, ele percebeu que estava chorando, e que não sabia por quê. Vilar ajudou Val a levantar; seguiram junto ao trem até a plataforma. Gabo não reconhecia aquela tristeza como sua.
+E, por baixo, o infrassom, contínuo, fazendo os dentes de Gabo doerem na raiz.
+
+— **SAÍDA LESTE!** — gritou Val.
+
+Ela girou o corpo e jogou uma granada de luz para trás. O clarão encheu o túnel e Gabo viu cinquenta silhuetas avançando sem piscar. Não pareciam depender da visão; o que seguiam ainda não estava claro.
+
+---
+
+Val ouviu as botas ecoarem na chapa e gritou:
+
+— **PARA DE CORRER!**
+
+— O QUÊ?!
+
+— **PARA! ANDA NA VIGA, NÃO NA CHAPA!**
+
+Ela pulou para a viga lateral de sustentação, que era estreita e seca, e estendeu a mão. Gabo transferiu o peso devagar, segurando o corrimão e o ombro dela; uma das travas da órtese bateu na viga com um estalo.
+
+Val jogou a lanterna acesa para o trecho de chapa adiante. O objeto bateu e rolou; os primeiros perseguidores seguiram o ruído. Ela e Gabo avançaram devagar pela viga, colados à parede, sem saber quanto tempo a distração duraria.
+
+---
+
+A escada de manutenção estava onde devia estar. Val subiu primeiro, destravou a tampa com a alavanca presa à escada e usou o contrapeso de manutenção para abri-la. Voltou alguns degraus para ajudar Gabo. Ele passou para o asfalto frio da Rua Vinte e Dois com as costas raspando na borda.
+
+Val soldou a tampa por fora com a maçarico de emergência, três pontos, e depois sentou no chão da rua e ficou de olho na coisa por dois minutos inteiros.
+
+Nada empurrou de baixo. O céu estava limpo e havia estrelas, o que ainda era uma novidade que ninguém tinha aprendido a levar a sério.
+
+---
+
+— Você viu aquilo? — Val estava ofegante, o que era raro. — Gabo, aqueles não eram sem-teto. Eu reconheci duas pessoas do fórum de engenharia.
+
+— Eu reconheci seis.
+
+— **Por quê?** — Ela virou o rosto para ele. — Explica isso para mim. Gente com formação, com casa, com carreira. Por que largar tudo e ir se ajoelhar na lama para escutar um infrassom?
+
+Gabo ficou um tempo olhando a tampa de bueiro.
+
+— Você lembra do agente Braz? — ele disse. — Aquele que subiu no terraço da delegacia no nono dia.
+
+— Lembro.
+
+— Eu não sei por que ele subiu. Vi o sofrimento dele e não consegui tirá-lo de lá. Não vou transformar isso numa explicação para quarenta e nove pessoas. — Gabo se levantou com dificuldade. — Essa gente aí embaixo passou a vida inteira conectada. E aí a rede caiu, e ficou aquele buraco.
+
+— E agora eles acharam outra.
+
+— Acharam uma rede que parece viver sem a nossa tomada. Deve comer, respirar, falhar. E cobrar de outro jeito. — Ele bateu o pé na tampa. — E o Profeta Mudo não é o profeta de nada, Val. Ele é o roteador.
+
+Val ficou olhando para ele.
+
+— E se for boa? — ela perguntou, baixinho. — E se essa rede for melhor que a nossa?
+
+Gabo não respondeu, porque não tinha resposta, e porque a pergunta era boa demais.
+
+Eles voltaram para o carro em silêncio, pisando na rua vazia, e nenhum dos dois comentou que estavam andando na ponta do pé.

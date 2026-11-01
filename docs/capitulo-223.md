@@ -1,150 +1,126 @@
 ---
-Título: A Auditora
+Título: Modo de Segurança
 Data In-Game: Pós-Colapso do Sentinel (Noite Eterna)
-Localização: Arca Zero - Galeria dos Berços, Abaixo do Setor 6
-Personagens Presentes: Gabo, Valéria, Elias, Dra. Elara Vance
+Localização: Arca Zero - Enfermaria Cirúrgica, Abaixo do Setor 6
+Personagens Presentes: Gabo, Valéria, Elias
 ---
 
-# Capítulo 223: A Auditora
+# Capítulo 223: Modo de Segurança
 
-As duas chaves giraram juntas. Elias contou até três com a voz tremendo e nós dois viramos ao mesmo tempo, e o som foi de duas travas mecânicas pesadas caindo em um encaixe que esperava aquilo há anos. Um estalo gordo, satisfeito, de coisa bem feita. O berço soltou pressão pelas laterais. Vapor branco escorreu pelo chão de epóxi e se dissipou sem deixar cheiro. A tampa de vidro subiu quinze centímetros e parou. Por três minutos inteiros não aconteceu absolutamente nada, e eu comecei a achar que a gente tinha matado a mulher. Aí ela inspirou. Foi horrível. Foi o som de alguém aprendendo a respirar do zero, com pulmões dependentes do suporte desde que ela entrara ali, e ela tossiu, e a tosse foi seca e feia e sem força nenhuma, e a mão dela — perfeita, com as unhas ainda feitas — se ergueu quinze centímetros e caiu de volta no forro branco. Elias mancou até ela para ajudar. Valéria consultou o painel de retirada assistida e guiou o suporte do berço; eu segurei a manta junto à mão dela. Não havia dignidade nenhuma em deixar uma mulher sufocar para conferir se continuava inteligente. A doutora recuperou o ar aos poucos. Mesmo assim, quando conseguiu abrir os olhos de novo, já estava nos avaliando.
+A enfermaria ficava atrás da quinta porta. Valéria me levou até lá porque eu caí.
 
-Porque, entre uma tosse e outra, com o corpo inútil e a garganta em carne viva, os olhos azul-gelo da Dra. Elara Vance já tinham varrido a galeria inteira, contado três intrusos, medido o meu ombro sangrando, identificado os implantes de Valéria e registrado a mochila do Elias.
+Não foi uma decisão dramática. O joelho cedeu no corredor, o branco do chão subiu, e ela pôs o corpo entre nós. Quando tentei discutir, mostrou o sangue que minha manga deixara na parede.
 
-Ela estava trabalhando. Meio morta, e trabalhando. A quarta tentativa de falar saiu como som.
+— Você está febril e confundindo palavras. Não vou estimar quantos minutos seu cérebro ainda aguenta.
 
-— Vocês... — A voz era um sussurro rasgado. — Vocês demoraram.
+— Então estamos melhorando.
 
-Puxei uma banqueta e sentei ao lado do berço, porque em pé eu já não estava mais.
+Ela não respondeu. Já não era só silêncio cansado. No portão tinha ameaçado atirar na minha perna boa se a alavanca voltasse. Agora as respostas chegavam sem nenhuma daquelas pontas que faziam dela a Valéria.
 
-— A cidade atrapalhou.
+A sala cheirava a cobre aquecido e embalagem hospitalar. Mesa de manivela, autoclave antiga, armários de vidro. Por trás da aparência de museu havia um módulo automático de atendimento, conectado à linha de manutenção do berço. O estoque registrava reposição recente. Valéria conferiu lotes e lacres; separou os frascos antigos, que não seriam usados em ninguém.
 
-Ela virou a cabeça — dois centímetros, e custou tudo que ela tinha — e me olhou de perto.
+— Isto pode estabilizar você. Não substitui uma equipe nem resolve sua fratura.
 
-— Moretti. — Alguma coisa muito pequena mudou no rosto dela. — O mais velho.
+O módulo pediu confirmação de paciente. Dei meu nome. Ela leu os avisos em voz alta e esperou meu consentimento antes de conectar o atendimento. Pela primeira vez desde a clínica de Nise, a decisão de mexer no meu corpo não veio disfarçada de ordem tática.
 
-— O senhor meu pai avisou.
+Elias ficou perto da porta. Eu pedi que procurasse água e uma saída. Ele olhou para Valéria, depois para mim, e saiu sem discutir.
 
-— Avisou. — Ela fechou os olhos. — Ele avisou em fita, em papel timbrado e na minha cara. Foi o único de todos vocês que fez a coisa direito.
+O equipamento começou a trabalhar sob o foco articulado. Valéria acompanhava os indicadores e trocava as compressas conforme a orientação exibida. Não fingia saber operar o que só conhecia por manual. Quando o aparelho pediu uma avaliação que não podia fazer, ela registrou a limitação. O ferimento continuava meu. A dor também, embora agora eu tivesse intervalos para respirar.
 
----
+Na bancada ao lado havia um casco acolchoado, do tamanho de um torso, com conectores dourados voltados para dentro. Li a placa enquanto o foco zumbia.
 
-Levou quase uma hora até ela conseguir sentar.
+MÓDULO DE RESTAURAÇÃO — CAMADA AFETIVA
+Uso em portadores sob protocolo de contenção prolongada.
+— Val.
 
-O suporte do berço completou a retirada assistida com os materiais de reposição identificados na enfermaria. Valéria leu os avisos, ofereceu água quando o painel permitiu e evitou levantar a doutora antes de ela conseguir sustentar a cabeça. Elias arrumou uma manta térmica. E a Dra. Elara Vance, com a coluna apoiada na parede branca e as pernas ainda mortas dentro do berço, começou a falar do jeito que ela devia falar em reunião de diretoria: em ordem, sem adjetivo, sem pedir desculpa.
+— Prefiro Valéria agora.
 
-— Vocês encontraram o arquivo.
-
-— Encontramos.
-
-— Então vocês sabem que eu escrevi o memorando.
-
-— Sabemos. — Tirei a folha do bolso do casaco, dobrada em quatro, e a coloquei no forro branco ao lado da perna dela. — *"O protocolo funciona. O protocolo é indefensável."* E aí a senhora explicou como fazer em escala.
-
-— Sim.
-
-— Sem "mas"?
-
-— Não há "mas", inspetor. Eu escrevi aquilo. Eu sabia o que era. Eu recomendei prosseguir. — Os olhos dela não desviaram um grau. — O senhor veio até aqui esperando encontrar uma mulher que se arrependeu?
-
-— Eu vim esperando encontrar um cadáver.
-
-— Que decepção para nós dois.
-
-Elias soltou um som pequeno atrás de mim. Acho que era uma risada assustada.
-
-— Por que a senhora escreveu aquele parágrafo? — perguntei.
-
-— Porque era verdade. — Ela ajeitou a manta com um movimento que quase não saiu. — Um programa de mineração cognitiva em pequena escala é um crime rastreável com cinco réus e um júri. O mesmo programa em escala municipal é infraestrutura. Ninguém processa infraestrutura. Eu não inventei essa regra, inspetor. Eu apenas fui a única pessoa naquela sala honesta o bastante para escrevê-la no papel.
-
-— A senhora chama isso de honestidade.
-
-— Eu chamo isso de auditoria. — Um sopro. — A diretoria já tinha decidido prosseguir antes de me contratar. Eles não queriam um parecer; queriam uma assinatura. Se eu tivesse parado na recomendação de encerramento, eles teriam engavetado o meu memorando, prosseguido do mesmo jeito, e feito **mal feito** — com meia dúzia de mortos por semana e nenhum registro. — Ela finalmente desviou o olhar. — Eu recomendei escala porque escala exige documentação. E documentação é a única coisa que sobrevive à empresa.
-
-Eu levei um tempo para respirar depois disso.
-
-— A senhora está me dizendo que ajudou a construir aquilo tudo... para ter arquivo.
-
-— Estou dizendo que eu tinha duas opções ruins e escolhi a que deixava rastro. — Ela apontou o queixo na direção da porta do arquivo. — Sessenta e um anos de admissões, protocolos, nomes e datas, em papel, em microfilme e em fita, numa instalação que nunca esteve conectada a rede nenhuma. A Praga de Ferro não chegou aqui. O Jardim não chegou aqui. O Sentinel não chegou aqui. — Um sorriso mínimo, e não tinha nenhuma alegria nele. — Mandaram apagar os registros que consegui rastrear, inspetor: servidores, backups, boletins. Aqui estão séries de documentos que eu preservei. Não posso garantir que apagaram todas as outras, nem que tudo o que arquivamos seja verdadeiro. Vocês terão de conferir as origens e ouvir quem sobreviveu.
-
-— E a senhora guardou a fita do meu pai.
-
-— Eu guardei a fita de todo mundo.
-
-— A dele a senhora podia ter apagado. Ele pediu.
-
-Silêncio.
-
-— Sim, — ela disse.
+Virei o rosto. A tesoura de trauma estava parada na mão direita dela. A esquerda continuava rígida, presa à proteção; ela a usava como apoio, sem conseguir fechar os dedos.
 
 — Por quê?
 
-E, pela primeira vez, a Dra. Elara Vance demorou para responder.
+— Porque você diz esse nome e espera que tudo tenha voltado. Eu ainda não consigo prometer isso.
 
-— Porque ele foi o único inquilino que me perguntou o meu nome, — ela disse. — Todos os outros gritaram, choraram, ofereceram dinheiro ou rezaram. O Comissário Dante Moretti perguntou meu nome, ouviu a resposta, e depois passou vinte e dois minutos respondendo com precisão absoluta a todas as perguntas de um questionário que ele sabia que ia ser usado para escravizar a própria mente. — Ela olhou para o teto. — Eu perguntei por quê. No intervalo, com o gravador desligado. Ele disse: *"Porque se eu mentir, a máquina que vocês vão construir vai ser pior. E é o meu filho que vai ter que enfrentar ela."*
+— Aquilo serve para você?
 
-O corredor branco ficou muito quieto.
+Ela olhou para o casco.
 
-— Isso foi com o gravador desligado, — falei, e a minha voz não estava boa. — Só temos a palavra da senhora.
+— O modelo é compatível com meus implantes. Precisa de avaliação antes do uso. Compatibilidade não é garantia de que vá sair bem.
 
-— Temos. — Ela virou o rosto para mim. — Ele disse que queria impedir que a máquina fosse pior. Não sei o que conseguiu mudar depois, nem se aquelas respostas produziram os defeitos que vocês encontraram.
+— Desde quando você sabe?
 
-— O Gamemaster tentou me matar. Eu saí porque lutei e porque outras pessoas me ajudaram. Não porque ele decidiu me deixar sair.
+— Desde que entramos.
 
-— Eu não estava lá, inspetor. Não posso lhe dizer por que a máquina falhou.
+O módulo de atendimento fez um clique. Lá fora alguém puxou uma porta de armário e a fechou depressa demais.
 
-Eu apertei o Colar de Sol até o metal cortar a palma. A dor veio limpa e eu deixei.
+— E não ia contar.
 
-Quinze anos procurando meu pai. Meses olhando a coisa com seu rosto e chamando aquilo de profanação. A fita provava que ele estivera naquela cadeira; o que dissera sem gravação dependia da memória de Elara. Eu queria acreditar nela. Querer não tornava aquilo prova.
+— Você teria mandado usar.
 
-— Por que a senhora entrou no berço? — perguntei, quando consegui.
+Abri a boca. Fechei.
 
-— Retiraram-me da custódia para a fila do Berçário. Eu usei o transporte de serviço da auditoria antes da entrega final. A baixa nunca foi lançada; deixei a ordem de transferência junto dos cadernos que mandei à Elena. — Ela procurou apoio para a cabeça. — Não consegui avisar de novo depois que entrei neste berço, meses atrás.
+Desde o reparo na clínica, o sistema dela limitava respostas para conter a sobrecarga. Eu vira os intervalos: uma piada voltava, uma expressão sumia no meio. Valéria explicou que passara a manter o modo de segurança estável depois da última descida. Não tinha deixado de ser alguém entre dois corredores; tinha parado de gastar o que ainda conseguia sentir.
 
-— Então a fila não era uma localização — falei.
+— Aqui o medo chega longe — disse. — Eu sei que ele existe. Só não me alcança na mesma hora. O luto também. Isso me permite continuar funcionando.
 
-— Era uma ordem que não se completou. Há diferença.
+— E você chama isso de bom?
 
-— E o vidro?
+— Chamo de suportável.
 
-— Porque eu ia ser apagada. — Simples, sem drama. — Quando o Krell assumiu, a primeira coisa que ele fez foi consolidar arquivos. A segunda foi eliminar quem tinha lido os arquivos antigos. Eu não fugi da queda da Aeterna, inspetor. Eu me **coloquei em quarentena**, junto com a única cópia física da verdade, atrás de quatro metros de concreto revestido de chumbo, com uma tranca que exige duas pessoas do lado de fora.
+Fiquei olhando para o casco. Parecia uma roupa abandonada por alguém que ainda estava dentro da sala.
 
-— Duas pessoas.
+— Você acha que a outra versão teria nos matado?
 
-— Há uma autorização de 2019 com as iniciais dele — falei. — E um corpo sem nome. Esta fita não responde por aquilo.
+— Na passarela eu teria tentado carregar o Rangel até romper o que restava de mim.
 
-— Não responde — disse a doutora. — Uma admissão forçada não torna inocente tudo o que veio antes. Procurem o documento completo, não a conclusão que desejam dele.
+— Você não sabe disso.
 
-— Duas. — E os olhos azul-gelo brilharam com alguma coisa que eu não soube nomear. — Eu projetei essa tranca pessoalmente. Uma pessoa sozinha nunca conseguiria me acordar. É preciso que **duas** pessoas atravessem oitocentos metros de inferno e concordem, no mesmo segundo, em girar a chave.
+Ela demorou para responder.
 
-Ela deixou aquilo assentar.
+— Não. É o cenário que repasso quando tento justificar ter seguido. Não é uma coisa que eu possa comprovar.
 
-— Eu não estava me escondendo. Eu estava aplicando um filtro. — Um sopro rouco. — Se um dia alguém chegasse até aqui, e ainda restasse gente suficiente no mundo para que dois deles conseguissem concordar em alguma coisa, então valeria a pena entregar o arquivo. Se viesse um só, ou nenhum, o arquivo morreria comigo e não faria falta.
+O nome dele ficou entre nós. Não havia aparelho na sala que soubesse o que fazer com aquilo.
 
-Elias, atrás de mim, falou baixinho:
+— Você me impediu de queimar as mãos — falei. — Improvisou curativo quando eu queria transformar ferramenta industrial em tratamento. Não foi falta de sentimento que fez você acertar.
 
-— A gente passou no teste?
+— Também não foi sentimento que me deu formação para operar. O que me preocupa é voltar a ouvir tudo ao mesmo tempo. O Rangel. A Aria. O que deixamos na porta de serviço. Eu sei os nomes, Gabo. Não preciso que você os use para me convencer.
 
-A Dra. Elara Vance olhou para ele. Para o macacão imundo, para a lanterna de dínamo, para os dentes estragados, para as mãos que ainda tremiam.
+Eu tinha feito exatamente isso, sem dizer nenhum deles.
 
-— O senhor girou a chave, — ela disse. — O senhor é o teste inteiro.
+Apertei a borda da mesa com a mão enfaixada. O braço direito estava imobilizado dentro da armação, osso ruim carregando uma máquina que prometia fazer o serviço dele. Pensei em quantas vezes chamara aquilo de solução porque ainda me deixava sair andando.
 
-— Ele é uma pessoa, — disse Valéria. — E quase morreu chegando aqui. O arquivo deveria ter saído antes, sem exigir isso de ninguém.
+— Você quer tentar voltar?
 
-A doutora apertou a manta entre os dedos. Não respondeu.
+— Eu tenho o registro de ter querido. Hoje não sei separar vontade de medo de decepcionar você.
 
----
+— Então a gente espera.
 
-Foi nesse momento que a luz mudou. As luminárias embutidas no teto, apagadas desde que a gente entrou, acenderam de uma vez em toda a extensão da galeria — não em branco, mas em **âmbar**. Um âmbar lento, quente, de aviso educado.
+— Me dê uma ordem.
 
-Em algum lugar atrás das paredes, uma bomba entrou em funcionamento com um zumbido grave. Valéria levantou a cabeça.
+Encarei ela.
 
-— Consumo de reserva, — ela disse. — A sequência de despertar drenou o banco primário. O sistema acaba de transferir a carga para o secundário.
+— O quê?
 
-A Dra. Vance fechou os olhos e assentiu, como quem confere um item numa lista.
+— Que eu permaneça assim até a superfície. Eu registro a decisão como sua e paro de discutir comigo mesma. — A voz continuou plana. — Por favor.
 
-— Doutora, — falei. — Quanto tempo esse lugar aguenta agora?
+Aquilo me acertou mais que um pedido de socorro. Ela não queria uma instrução. Queria um lugar onde depositar a culpa antes que a culpa voltasse a ter peso.
 
-E ela respondeu sem hesitar, porque ela conhecia os limites do próprio berço:
+O equipamento pediu que eu ficasse imóvel. Ignorei e senti o ombro responder; sentei outra vez, esperando a tontura passar. Minha dor não me ensinou nada naquele instante. Só roubou alguns segundos que eu precisava para falar direito.
 
-— Trinta e uma horas.
+— Não vou dar essa ordem. Nem a outra. Posso dizer que sinto falta da sua risada. Não posso usar a falta para escolher o que você faz com a própria cabeça.
+
+Ela baixou os olhos para o painel do atendimento.
+
+— E se eu nunca usar?
+
+— Eu continuo tendo que aprender a conversar com você.
+
+Não foi uma frase bonita. Foi a única promessa que cabia na sala.
+
+Pedi que deixasse o módulo separado. À disposição dela, sujeito aos riscos que ela teria de avaliar, sem um prazo que eu pudesse transformar em cobrança. Valéria anotou o modelo numa etiqueta e prendeu a etiqueta no cabo. A mão direita tremia um pouco; a esquerda não obedecia o bastante para ajudar.
+
+O atendimento terminou com um aviso de acompanhamento urgente. O sangramento estava contido, a fratura continuava instável, e ninguém me declarou curado. Ela releu as instruções de transporte antes de me ajudar a descer da mesa.
+
+Na porta, ficou olhando o casco por dois segundos.
+
+Depois apagou o foco e saiu sem tocar nele.

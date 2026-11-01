@@ -1,205 +1,150 @@
 ---
-image: /cenas/capitulo_226/cena_4.jpg
-Título: A Mulher de Fora
-Data In-Game: Primeira manhã na Velha Baía
-Localização: Doca de Recebimento Pluvial, Velha Baía (Superfície)
-Personagens Presentes: Gabo, Valéria, Elias, Dra. Elara Vance, Elena
+Título: O Preço do Ar
+Data In-Game: Pós-Colapso do Sentinel (Noite Eterna)
+Localização: Arca Zero - Doca de Carga / Tubo Pneumático, Abaixo do Setor 6
+Personagens Presentes: Gabo, Valéria, Elias, Dra. Elara Vance
 ---
 
-# Capítulo 226: A Mulher de Fora
+# Capítulo 226: O Preço do Ar
 
-Eles vieram antes do meio-dia, e eu ouvi os caminhões antes de ver. Motor de combustão. Três, talvez quatro, subindo a rampa de cascalho do galpão com aquele ronco sujo e honesto de coisa que queima diesel. Nenhum zumbido de célula, nenhum sussurro elétrico. Máquina que precisa de alguém para dar partida.
+Trinta e uma horas parece muito quando alguém diz em voz alta.
 
-Elias se levantou de um salto. Valéria já estava de pé, posicionada entre a cápsula e a porta, com a escopeta *Caronte* nas mãos — minha escopeta, porque eu não tenho mais como segurá-la e mirar ao mesmo tempo.
+Deixa de parecer no instante em que você calcula quanto papel cabe nas costas de três pessoas, sendo que uma delas está com o braço direito quebrado e a outra não pode andar.
 
-— Quatro veículos, — ela disse. — Onze assinaturas térmicas. Nenhuma armadura corporativa. Padrão de aproximação não-tático.
+Fizemos a conta na mesa de leitura, com a lanterna de dínamo do Elias zumbindo entre nós porque ninguém confiava mais nas luzes âmbar.
 
-— Isso é bom ou ruim?
+— A instalação tem quatro toneladas e duzentos quilos de material físico, — Valéria informou. — Papel, microfilme e fita. O elevador de serviço suporta trezentos e cinquenta quilos por viagem, com quarenta minutos de subida e quarenta de descida.
 
-— É civil.
+— Doze viagens, — Elias disse.
 
-E aí a porta do galpão subiu, e a luz entrou toda de uma vez, e eu tive que fechar os olhos como um bicho. Quando abri, ela estava contra o sol. Cabelo castanho claro preso para trás, escapando em mechas. Jaqueta de campo verde-oliva encharcada de chuva de fora da cúpula. Coturnos. Uma câmera analógica pendurada no ombro e um caderno de papel no bolso do peito. Elena.
+— Doze se a placa ainda valesse e ninguém acompanhasse a carga, — disse Elias, olhando suas anotações. — Com o desgaste que encontrei, deixo margem para cento e vinte quilos de arquivo além do operador. São trinta e cinco cargas. Quarenta e seis horas só de percurso, antes de contar carga e descarga. Temos trinta e uma. E isso assumindo que o banco secundário alimenta o motor do elevador até o fim, o que ele não faz: o corte de carga acontece na décima nona hora.
 
-Ela ficou parada na entrada por um tempo longo, olhando para dentro do galpão. Para as quatro toneladas de papel. Para a mulher de cabelo prateado na cadeira de aço. Para o rapaz imundo de macacão. Para a mulher de olhos prateados que apontava uma escopeta na direção dela. E depois para mim. Vi o momento em que ela percebeu o braço imobilizado e a ausência da armação.
+Ninguém falou nada por um tempo.
 
-— Gabriel.
+— Então a gente escolhe, — falei. — A gente sobe com o que couber nas costas e deixa o resto apagar.
 
-— Elena.
-
-E ficamos assim, a uns quinze metros um do outro, sem que nenhum dos dois soubesse como atravessar aquilo.
+— Não. — A Dra. Vance disse aquilo do jeito que ela devia encerrar reuniões. — Vocês vão usar a doca.
 
 ---
 
-Ela mandou os caminhões esperarem. Sentou na borda da cápsula, ao meu lado, com a distância exata de sempre — perto o bastante para eu sentir o cheiro de chuva e papel na jaqueta dela, longe o bastante para não encostar.
+A doca de carga não estava em planta nenhuma, o que a essa altura já era praticamente uma tradição.
 
-— Você recebeu, — ela disse.
+Ficava atrás da galeria dos berços, numa câmara em curva com trilhos embutidos no chão e um teto abobadado de concreto armado. No centro, uma cápsula.
 
-— O quê?
+Não era um vagão. Era um **projétil**: nove metros de aço fuselado, sem janela, sem cabine, sem controle, com quatro pares de patins magnéticos e uma escotilha traseira do tamanho de uma porta de garagem.
 
-— O sinal. Quando a comporta abriu, o diferencial de pressão disparou um transponder analógico nessa doca. Um pulso de rádio na faixa de emergência de sessenta anos atrás. — Ela olhou para a Dra. Vance do outro lado do galpão. — Só uma pessoa saberia projetar uma coisa dessas.
+Atrás dela, o tubo. Circular, liso, preto, mergulhando na escuridão com uma inclinação suave para cima.
 
-— Eu não recebi nada, Elena. Eu não sabia que existia sinal.
+— Transporte pneumático de carga, — disse a Vance, na cadeira de rodas de aço que o Elias tinha desencavado de um almoxarifado. — Construído junto com a instalação. Trinta e um quilômetros até a doca de recebimento na Velha Baía, na superfície. Sem eletrônica. Sem rede. Movido por diferencial de pressão.
 
-— Eu sei. — Um sorriso muito pequeno. — Eu monitoro essa faixa desde o recado de antes do Apagão. Até quando estava na cidade, deixava alguém de plantão aqui. Foi a única coisa que a doutora me deixou por escrito antes de sumir.
+— Funciona?
 
-Levei um segundo.
+— O indicador ainda registra o vácuo no tubo e a linha de inspeção não acusa ruptura. É o que podemos conferir daqui. Não garanto o estado de trinta e um quilômetros de duto. — Ela olhou para a cápsula. — Cabe o arquivo inteiro e cabem vocês.
 
-— Você falou com ela? Antes?
+Elias soltou o ar todo de uma vez.
 
-— Uma vez. — Elena olhou para as próprias botas. — Ela me procurou, três semanas antes do Apagão. Disse que existia um arquivo, que era físico, que nenhuma rede ia poder apagar, e que um dia ele ia sair de baixo da terra. E disse que, quando saísse, ia precisar de alguém que soubesse publicar. — Ela deu de ombros. — Foi um dos motivos para eu manter uma equipe do lado de fora, Gabo. A separação foi nossa; não vou transformar aquele fracasso numa operação secreta.
+— Então acabou? A gente carrega, entra e vai embora?
 
-E foi aí que eu entendi o que a carta dela realmente queria dizer, meses depois de eu ter lido, e sozinho, e mal.
+— Não.
 
-Não me procure. O que eu carrego é grande demais para ser escondido em um porão.
-Ela não estava fugindo. Ela estava construindo o tribunal antes de eu saber que ia precisar de um.
+Claro que não. A Dra. Elara Vance apontou para a parede do fundo, onde o tubo encontrava a câmara.
 
-— Meses, — falei.
+Havia uma comporta ali. Circular, de aço, com quatro metros de diâmetro — irmã gêmea daquela que eu abri no volante, na hora mais longa da minha vida.
 
-— Meses. Três prensas, dois transmissores de onda curta e uma rede de distribuição em onze assentamentos fora da cúpula. — Ela finalmente me olhou. — Enquanto você quebrava dentes, eu montava uma editora. Você achou que eu tinha desistido.
+— A comporta de pressurização, — ela disse. — Ela precisa ficar aberta enquanto a cápsula acelera, para que o diferencial se estabeleça, e fechar depois que a cápsula passa, para que o vácuo não despressurize a instalação inteira. O ciclo é de quarenta segundos.
 
-— Eu achei que você tinha se salvado.
+— E o problema é...
 
-— Achou que eu tinha te abandonado.
+— O problema é que o atuador hidráulico dela queimou em algum momento antes da última manutenção. — Ela apontou o queixo para uma mancha de óleo endurecido no chão, preta e antiga como um borrão de sangue seco. — Sem atuador, a comporta é mantida aberta por um came mecânico que precisa ser travado à força e **sustentado** contra a mola de fechamento durante os quarenta segundos.
 
-Não respondi. Não precisava.
+Fomos até lá.
 
-Ela tirou do bolso o caderno pequeno e alisou uma folha dobrada. A dobra
-estava tão gasta que a luz atravessava o papel.
+O came era uma peça de aço maciço em forma de meia-lua, do tamanho de um assento de carro, com um encaixe onde um pistão deveria entrar. A mola de fechamento era uma barra helicoidal da grossura da minha coxa.
 
-— Depois que a Bia morreu, eu te ajudei a procurar o que faltava no caso. Eu
-também queria saber. Ela era minha amiga antes de ser sua mulher.
+Valéria examinou a placa da mola e o curso do came. Calculou com os dados gravados no metal, sem poder conferir o desgaste das peças.
 
-Eu me lembrava da lista de testemunhas na nossa mesa, dos copos deixando
-círculos na margem. Lembrava menos do que tinha feito com a lista.
+— A placa indica até duzentos e oitenta quilogramas-força. O came precisa ficar aberto por quarenta segundos. O desgaste pode ter mudado a carga.
 
-— Você disse que tinha visto Miranda sair do beco — continuou Elena. — Isso
-era o que você sabia. Eu marquei uma conversa com a pessoa que podia confirmar
-o horário. Você apareceu antes de mim e usou meu nome para chegar até ela.
+— Um homem não faz isso, — disse Elias.
 
-— Achei que, se esperasse, ela ia desaparecer.
+— Sozinha, sem alavanca, eu também não — disse Valéria. — Mas posso tentar escorar o came com os trilhos e segurar a estrutura até a cápsula passar.
 
-— Você não esperou nem para me contar. A pessoa cancelou a entrevista. Naquela
-noite, um carro parou em frente à minha redação e alguém deixou uma cópia das
-minhas fotos sobre a recepção. Não sei quem mandou. Sei que você sabia da
-entrevista e não me avisou que tinha exposto a fonte.
+E ela deu um passo à frente.
 
-A folha era uma cópia do registro que ela fizera à redação, com a hora e a
-placa incompleta. Eu reconheci minha letra no verso: uma pergunta sobre
-Miranda. Nenhuma sobre a pessoa que recebera as fotos.
+— Não. — Eu falei antes de pensar.
 
-— Você podia ter morrido — falei.
+— Há barras soltas na doca. Se eu conseguir prender uma contra o trilho e usar outra como alavanca, talvez consiga travar o came. Vou precisar ficar aqui para impedir que escorregue. Vocês três embarcam, a cápsula parte.
 
-— Eu sabia que a matéria tinha risco. Eu podia escolher como lidar com ele.
-Você levou embora essa escolha e depois pediu que eu largasse a investigação
-para ficar segura.
+— E você solta o came.
 
-Eu quis dizer que não pretendia pôr ninguém em perigo. Ela esperou; não disse
-por mim.
+Pausa.
 
-— Eu fiquei com medo de acontecer de novo — falei. — Depois da Bia, achei que,
-se chegasse primeiro, podia impedir.
+— Eu não solto o came, — ela disse. — Se eu soltar antes de a cápsula limpar o tubo, o diferencial mata vocês três. Eu seguro até o fim, e a comporta fecha comigo deste lado.
 
-— E quando não conseguiu, tentou me impedir de trabalhar. — Elena dobrou o
-papel pela mesma marca. — Eu saí do casamento porque já não sabia quando você
-estava me contando a verdade e quando estava decidindo por mim. Não saí da
-cidade naquela noite. Nem desisti do caso por você.
+— Com trinta horas de ar.
 
-Ela guardou a folha. Não perguntei onde estava a fonte que eu abordara.
-Ela continuava tendo direito de decidir se falava comigo.
+— Com vinte e nove horas de ar. — Nenhuma inflexão. Nenhuma. — Se a barra escapar, pode me esmagar antes de qualquer resgate. Mesmo que funcione, não sei se alguém consegue voltar a tempo.
 
----
+— Você está falando de morrer aqui embaixo. — Minha voz saiu esquisita. — Sozinha. No escuro. Consciente.
 
-O sol subiu mais um pouco. Elias começou a organizar as caixas com a Vance, e a Valéria carregava, e ninguém chegou perto de nós dois, o que eu suspeito que tenha sido decisão dela.
+— Estou falando de gastar uma pessoa para tirar quatro toneladas de prova de dentro de um cofre, — ela disse. — Em Modo de Segurança essa conta é trivial, e ela fecha. É por isso que eu sou a escolha correta.
 
-— Gabo. — A voz de Elena mudou. — Eu preciso perguntar uma coisa e você não vai gostar.
+Ela falava de usar o próprio corpo. Eu tinha ouvido uma voz plana e decidido que aquilo tornava a escolha menor. Era o mesmo erro que cometera com Aria antes de aprender a perguntar.
 
-— Pergunta.
+— Entendi o que você propõe — falei. — Antes de alguém ficar, vamos examinar as peças que podemos deixar no lugar de uma pessoa.
 
-— O que tinha de verdade naquele pendrive da Aria?
+— Não, — falei de novo.
 
-Eu fechei os olhos.
+— Você não vai me dar essa ordem, — ela disse. — Você já deixou isso muito claro. Então eu vou tomar a decisão sozinha, exatamente como você exigiu, e a decisão é essa.
 
-— Ouvi a Valéria falar dela. Do que vocês pediram que ela arriscasse, e do que
-vocês perderam quando ela não voltou.
+Ela virou-se para o came. E eu olhei para o meu braço direito.
 
-Olhei para o comunicador vazio no meu cinto. Era fácil chamar aquilo de perda de equipamento quando não se tinha ouvido a dona do equipamento pedir que preservassem seu nome.
+Para a garra industrial que Vasco prendeu à armação externa, sobre o fixador instalado pela equipe na clínica do Distrito 4. Sem servo-motor de grau militar, sem calibragem. A coisa feia, pesada e mal-acabada que me fez gritar em todos os degraus dos dias desde a clínica. Metal cinza fosco, cheio de cicatriz de solda e fio exposto.
 
-— Aria falava com a própria voz. Uma mulher adulta. Às vezes escolhia aparecer como holograma quando havia um projetor ligado. O corpo era luz; a presença não era de mentira.
+Uma armação hidráulica **não calibrada**. O limitador estava avariado; Vasco deixara um batente mecânico de emergência no curso final. Ele me proibira de chegar ali: o conjunto podia emperrar e nunca mais voltar a dobrar.
 
-Elena esperou.
+— Valéria, — falei bem devagar. — Qual é a força de pico da minha armação?
 
-— Meu pai tinha deixado código no módulo. Durante muito tempo achei que isso
-me dava o direito de decidir o que fazer com ele. A Aria discordou. Mais de
-uma vez.
+Ela parou. Virou. Ficou olhando para o meu braço por dois segundos antes de responder.
 
-— E você ouviu?
+— Trezentos e quarenta quilogramas-força, — ela disse. — Por menos de um segundo, antes de queimar o servo. É por isso que o Vasco instalou bloqueios de segurança no sistema nervoso.
 
-— O suficiente para repetir a resposta. Nem sempre para parar e pedir a
-escolha dela.
+— E eu já passei por cima desses bloqueios com comando neural bruto. Duas vezes.
 
-Contei da saída de áudio queimada, dos textos no dock, da recuperação
-incompleta. O reparo não apagou a pessoa para deixar uma calculadora mais
-obediente; isolou uma entrada hostil e deixou parte do histórico inacessível.
-Aria continuou reconhecendo o próprio nome e discutindo nossas decisões. Eu
-tinha levado tempo demais para respeitar a diferença.
+— Sim.
 
-— Ela queria recuperar o histórico dela — falei. — Eu queria uma solução que
-não me obrigasse a perder mais ninguém.
+— Se eu travar a garra no encaixe do came, com o punho em extensão máxima e o bloqueio desligado, o que acontece?
 
-Elena sentou mais perto, sem tocar em mim.
+Ela demorou.
 
-— Onde ficou o módulo?
+— O atuador força a haste contra o batente e prende o conjunto na geometria do came, — ela disse. — A armação vira uma cunha de aço sólido. Se a haste e o encaixe resistirem, o próprio metal recebe a carga depois que o servo parar. Precisamos de quarenta segundos; ninguém pode prometer para sempre.
 
-— No terminal do Sentinel. Destruído. Ela escolheu usar o próprio histórico para acionar uma falha do protocolo. Sabia que podia não sair. Pediu que não inventássemos outra pessoa com o nome dela depois.
+— E o braço?
 
-A garganta fechou. Esperei passar antes de continuar.
+— Fica preso a ela se você não soltar os pinos e a estrutura.
 
-— Eu estava ali. Aceitar a escolha dela não me torna dono do sacrifício. Quem
-morreu naquele terminal foi a Aria. Não um equipamento, nem uma resposta que
-meu pai deixou para mim.
+O zumbido da bomba enchia a câmara. Ninguém dizia nada.
 
-Elena olhou para o encaixe vazio do comunicador.
+— Gabo, — Elias falou, e a voz dele estava horrível. — Não.
 
-— Então escreve assim quando conseguir.
+— Já foi decidido.
 
-Eu assenti. Só isso. A mão dela encontrou minha mão esquerda, ainda enfaixada, e não apertou onde doía. Ficamos ali. O sol continuou subindo, indiferente como sempre. Ela manteve a mão sobre a minha, livre da tipóia. Não como quem apaga o estrago. Como quem carrega junto.
+— Você vai esmagar esse braço de vez!
 
----
+— Eu vou perder essa armação de metal que o Vasco prendeu ao fixador, Elias. — Levantei a garra e olhei para ela, para os sulcos de solda, para o fio exposto. — Essa coisa não é minha. Ela nunca foi. Ela é o preço que eu paguei para continuar em pé, e ela doeu todo dia desde o dia um, e eu me recusei a consertar a falha porque a dor me servia. — Fechei os dedos mecânicos. Guincharam. — Se essa merda vai ficar aqui embaixo segurando uma porta para sempre, então pelo menos ela vai ter servido para alguma coisa que não seja me manter acordado.
 
-Foi a Dra. Elara Vance quem quebrou aquilo, porque ela é incapaz de deixar uma reunião se estender.
+— E o osso? — Valéria perguntou. — Você está febril e sangrando. Teríamos de cortar as hastes externas, preservar as fixações clínicas e imobilizar de novo. Mexer nisso com a fratura instável pode piorar tudo. Não sei quantificar o risco.
 
-— Senhora, — ela chamou da cadeira de aço, com a voz ainda rasgada. — A senhora tem prensas?
+— Não me diz. — Olhei para ela. — Sério. Pela primeira vez desde o Distrito 4, não me diz o número.
 
-Elena limpou o rosto com as costas da mão e se levantou. Virou jornalista em três segundos, e eu vi a coisa acontecer.
+Ela fechou a boca. E então — e eu vou levar isso comigo — a Valéria fez uma coisa que não estava em cálculo nenhum.
 
-— Três. Duas offset e uma rotativa velha. Papel de baixa gramatura para tiragem alta.
+Ela estendeu a mão e encostou dois dedos no meu antebraço de carne. Só encostou. Ficou assim por talvez um segundo e meio.
 
-— Capacidade diária?
+Depois recolheu a mão e disse, com aquela voz plana de sempre:
 
-— Doze mil exemplares de dezesseis páginas. Distribuição em onze assentamentos, mais rádio de onda curta duas vezes por dia.
+— Vou preparar a serra.
 
-A Vance ficou quieta um instante. Depois assentiu uma vez, com a satisfação seca de quem confere um número que fecha.
+Do outro lado da câmara, a Dra. Elara Vance nos observava da cadeira de aço com os olhos azul-gelo, e pela primeira vez desde que abrimos o berço ela não estava auditando nada.
 
-— Então funciona. — Ela apontou o queixo para as quatro toneladas. — Sessenta e um anos de admissões, com nome, data, número de contrato e assinatura de aprovação. É contabilidade, senhora. Pode conter fraude, assinatura copiada e lacuna. Quero que publique os números de origem junto das imagens; quem contestar precisa encontrar o mesmo documento que nós.
-
-— Quanto tempo para digitalizar?
-
-— Digitalize e preserve os originais. — A voz da doutora ficou dura. — Uma cópia digital isolada é apagável. Papel também queima. Distribua por meios diferentes, guarde a procedência e registre cada retirada de caixa. Não deixem uma única falha levar tudo outra vez.
-
-Elena escreveu no caderno. Papel, caneta.
-
-— E por onde a senhora começaria?
-
-E aí a Dra. Elara Vance sorriu pela primeira vez desde que a gente abriu aquele vidro. Não foi um sorriso bonito.
-
-— Pelas fichas de aprovação. — Ela ergueu a mão trêmula e apontou para uma caixa específica, na terceira pilha, marcada com fita vermelha. — Todo contrato de admissão sem assinatura do inquilino exige um segundo aval interno. Um nome que carimba, que valida, que autoriza. É um cargo júnior. Ninguém importante quer o próprio nome nesse papel.
-
-Eu senti alguma coisa gelar na base da minha nuca.
-
-— Doutora.
-
-— O índice atribui o mesmo segundo aval às admissões sem consentimento a partir de vinte e nove, inspetor. Precisamos conferir quantas fichas trazem a rubrica e se ela é autêntica.
-
-Elias já estava puxando a caixa. A fita vermelha rasgou. A primeira pasta abriu. Papel amarelado. Datilografia. E, no canto inferior direito, na linha reservada ao segundo aval, uma rubrica pequena, apertada e absolutamente firme, presente nas fichas posteriores a 2029 que abrimos naquela caixa:
-
-V. KRELL
+— Comecem a carregar, — ela disse, muito baixo. — Nós temos vinte e nove horas.

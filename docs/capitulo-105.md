@@ -1,133 +1,135 @@
 ---
 image: /capitulo_105.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Dante Moretti, Capitão Jonas Vilar, Elena Moretti, Dra. Nise, Inspetor Rangel
-Localização: "Delegacia da Biblioteca - Zona Neutra"
+Personagens Presentes: Gabriel "Gabo" Moretti, Silas Vance ("O Jardineiro"), Roberto Miranda, Elena Moretti, Dante Moretti
+Localização: "Zona de Exclusão Sul - O Núcleo do Berçário"
 ---
-# Capítulo 105: O Silêncio de Concreto
+# Capítulo 105: A Convergência
 
-Delegacia da Biblioteca - Zona Neutra
-O Cobalt esperava onde Gabo o tinha deixado, duas quadras acima do bueiro. A viagem de volta foi um borrão de silêncio. Dante dispensara a viatura na primeira esquina — desceu do carro de Rangel sem uma palavra de explicação, entrou e sentou-se atrás, como quem volta para casa. Gabo dirigia com o motor engasgando a cada quilômetro, como se o próprio carro sentisse o peso do passageiro no banco de trás.
+Zona de Exclusão Sul - O Núcleo do Berçário
+O túnel desembocou em uma caverna vasta, uma catedral invertida escavada na rocha e reforçada com aço e biomassa. O ar era denso, quente e úmido, cheirando a ozônio e sangue coagulado.
 
-Dante Moretti não disse uma palavra. Ele apenas observava a cidade passando pela janela suja. Seus olhos, agora inseridos em um corpo biológico jovem e forte, capturavam cada detalhe: os prédios desmoronados, as fogueiras dos sem-teto, as barricadas da resistência. Não havia julgamento em seu olhar, apenas processamento.
+No centro da câmara, suspenso sobre um abismo de escuridão insondável, estava o "Ventre". Uma esfera colossal de vidro e metal, pulsando com uma luz âmbar rítmica. Dentro dela, flutuando em fluido amniótico sintético, estava um corpo.
 
-Ao lado dele, Elena segurava a escopeta no colo, o cano apontado para a porta. Ela não confiava nele. Gabo a via pelo retrovisor, a tensão em seus ombros. Ela sabia, assim como ele, que não estavam transportando um resgatado. Estavam transportando uma ogiva nuclear com consciência.
+Gabo sentiu o reconhecimento atingi-lo como um soco físico.
 
-Quando pararam em frente à antiga Biblioteca Municipal, agora convertida em Delegacia Central, a alvorada já havia dado lugar a uma manhã cinzenta e úmida.
+Não era apenas um corpo. Era *o* corpo. O modelo original. O homem cujos traços Gabo via no espelho todas as manhãs, mas sem as cicatrizes e o cansaço.
 
-— Chegamos — disse Gabo, a voz rouca. A *Caronte* continuava trancada no porta-malas. Ele decidiu deixá-la ali; não precisava de chumbo para entrar na própria casa.
+Dante Moretti. Ou melhor, uma casca vazia cultivada para ser ele.
 
-Ele tentou sair do carro, mas a perna direita falhou. A velha órtese que ele improvisara com peças de sucata rangeu e travou, enviando uma pontada de dor pela espinha que fez a cicatriz em forma de raiz negra em seu braço — a marca da infecção Gênesis — latejar em simpatia. Ele praguejou, batendo no suporte de metal.
+— Impressionante, não é? — A voz ecoou, não dos alto-falantes desta vez, mas de uma plataforma elevada conectada ao Ventre por pontes de cabos orgânicos.
 
-Antes que Elena pudesse se mover, a porta traseira se abriu. Dante saiu. Ele caminhou até a porta do motorista e, com uma gentileza perturbadora, ofereceu a mão a Gabo.
+Silas Vance estava lá. Ele não parecia o monstro vegetal que as lendas do subsolo descreviam. Ele parecia humano, dolorosamente humano, vestido com um jaleco branco imaculado que contrastava violentamente com a sujeira do mundo exterior. Apenas as veias negras que subiam pelo seu pescoço denunciavam a infecção controlada.
 
-— A haste passiva do joelho está visivelmente desalinhada, Gabriel — disse Dante. — Posso medir antes que force outra vez.
+- Você me deixou uma raiz, detetive - disse Silas, como se lesse a pergunta no rosto de Gabo. - Ela fez o resto.
 
-Gabo olhou para a mão estendida. A mão de seu pai, mas sem as cicatrizes, sem as manchas de nicotina.
+— Silas — rosnou Gabo, o som de suas órteses metálicas clicando enquanto ele avançava pela passarela.
 
-— Eu me viro — grunhiu Gabo, ignorando a ajuda e forçando o corpo para fora do carro com um gemido abafado.
+— Gabriel. E a intrépida Srta. Moretti. — Silas abriu os braços. — Vocês chegaram a tempo para o batizado.
 
-Eles subiram as escadas da biblioteca. Dois guardas da Polícia Comunitária, vestindo coletes improvisados, levantaram as armas quando viram o grupo.
+Elena levantou a escopeta, mas antes que pudesse mirar, algo enorme caiu do teto, pousando entre eles e Silas com um estrondo que fez a passarela tremer.
 
-— Alto lá! — gritou um deles. — Identificação!
+Roberto Miranda. O lado esquerdo de seu corpo estava inchado, os músculos artificiais rasgando a pele sintética. O fluido quente danificara parte de seu rosto falso, deixando o crânio de metal à mostra em um sorriso permanente. Atrás dele, um cabo longo ainda o ligava à cadeira que se movera pela trilha do teto.
 
-Dante não parou. Ele continuou subindo, os passos leves e precisos.
+— *Reunião de família* — gorgolejou Roberto.
 
-— Parado! — o guarda engatilhou a arma.
+— Cuidem dele! — ordenou Silas, virando as costas e digitando em um console holográfico que projetava luz azul sobre o vidro do Ventre. — A transferência começa em dois minutos.
 
-Dante parou. A câmera de segurança acima da entrada estava ligada ao painel alimentado pelo gerador da biblioteca. Ele aproximou o contato que usara no poste do cabo de serviço exposto junto à porta.
+— Gabo, vai! — gritou Elena. — Eu seguro o Frankenstein!
 
-A lente da câmera girou. Um zumbido elétrico percorreu o ar. A luz vermelha de gravação acendeu.
+Roberto avançou como um trem de carga. Elena rolou para o lado, disparando a escopeta à queima-roupa no joelho mecânico da criatura. O tiro explodiu em faíscas e fluido preto, mas Roberto apenas vacilou, girando o braço modificado em um arco mortal.
 
-O rádio no peito do guarda chiou. Uma estática alta, seguida por uma voz clara e sintética:
+Gabo não olhou para trás. Ele correu — ou o mais próximo que suas pernas permitiam — em direção a Silas. O som rítmico de *clique-hiss, clique-hiss* de suas órteses marcava o tempo de sua fúria.
 
-"Protocolo de Reconhecimento: Código Zero-Um. Acesso Concedido. Bem-vindo, Comissário."
-Os guardas recuaram, pálidos, olhando de Dante para o rádio.
+— Pare isso, Silas! — gritou Gabo. — Ele está morto! Deixe-o morto!
 
-— O que foi isso? — sussurrou Elena.
+Silas não se virou.
 
-Dante apenas sorriu, um leve repuxar nos lábios.
+— A morte é um erro de programação, Gabriel. A Aeterna quase resolveu isso com a Nuvem. Mas eles esqueceram a variável mais importante: o hardware. A mente precisa de carne.
 
-— Eu disse a vocês. A cidade tem ouvidos. Agora, ela tem uma voz.
+O console emitiu um sinal sonoro agudo. Dentro da esfera, o corpo de Dante convulsionou.
 
-Ele passou pelos guardas atônitos e empurrou as portas duplas de madeira.
+Gabo apertou o pé de cabra, a ferramenta que ainda conseguia segurar. A borda estava molhada do fluido que vazara na sala de controle.
 
-O saguão da delegacia estava cheio. Refugiados, policiais cansados, médicos voluntários. O cheiro de café ralo e papel velho impregnava o ar. Inspetor Rangel estava atrás do balcão principal, digitando furiosamente em sua Olivetti. O Capitão Vilar discutia com Dra. Nise sobre suprimentos médicos.
+Ele alcançou a plataforma. Silas se virou, sacando uma pistola de agulhas com uma velocidade surpreendente para um cientista.
 
-O silêncio se espalhou pelo salão como uma onda de choque.
+Gabo sentiu a picada no ombro, o entorpecimento imediato se espalhando. Ele perdeu a força no ombro. Antes que o braço pendesse, usou a mão esquerda para empurrar a ferramenta contra a pistola, atingindo o braço de Silas. O osso estalou, e a arma caiu no abismo.
 
-Começou na porta e foi avançando até o fundo, conforme as cabeças se viravam. As conversas morreram. O tec-tec-tec da máquina de escrever de Rangel cessou abruptamente.
+Silas recuou, segurando o braço quebrado, mas sorrindo.
 
-Vilar se virou. O rádio escapou de sua única mão.
+— Tarde demais. O upload começou. A "Coroa" que você carrega... ela está sincronizada por proximidade. Obrigado por trazê-la até aqui.
 
-— Deus do céu... — murmurou o Capitão.
+Gabo tateou o bolso. O cubo. Ele estava quente, vibrando contra sua coxa.
 
-Dante caminhou até o centro do salão. Ele olhou para o teto alto, para os afrescos descascados, para as estantes de livros que serviam de paredes improvisadas.
+— Não... — Gabo tentou puxá-lo, para jogá-lo longe, no abismo.
 
-— Eficiência operacional: 18% — anunciou Dante. Sua voz não era alta, mas projetava-se perfeitamente no silêncio. — Recursos mal alocados. Perímetro de segurança: poroso. Cadeia de comando: sentimental.
+Mas sua mão não obedeceu. O cubo estava *magnetizado* ou... vivo. Filamentos presos à borda do cubo tinham atravessado o forro e se enroscado no cabo do corrimão. Indicadores roxos correram até os receptores do Ventre. Elena apontou a conexão; Gabo tentou soltá-la, mas já não tinha força no ombro.
 
-Ele baixou o olhar para Vilar.
+Atrás dele, um grito. Gabo olhou por cima do ombro.
 
-— Capitão. Precisamos otimizar.
+Elena estava encurralada contra o parapeito. Roberto a segurava pelo pescoço com sua garra mecânica, erguendo-a sobre o vazio.
 
-Vilar deu um passo à frente, o rosto vermelho de choque e raiva.
+— *Escolha, Gabo!* — riu Roberto. — *O pai ou ela? Você pode salvar o legado... ou quem ainda respira.*
 
-— Dante? É você? Mas... você estava morto. Nós... o enterro...
+Gabo olhou para Silas, que observava o monitor de transferência atingir 80%. Depois olhou para Elena, debatendo-se, o rosto ficando roxo.
 
-— A morte é uma ineficiência biológica que foi corrigida — cortou Dante. Ele caminhou em direção à sala do Comissário. — Convoque os líderes de setor. Rangel, quero os relatórios de todas as ocorrências das últimas 48 horas. Elena, preciso dos códigos de transmissão da antiga torre de rádio da Aeterna.
+O tempo parou. O som do mundo se reduziu ao *tump-tump* do coração de Gabo e ao zumbido elétrico do Ventre.
 
-— Ei! — Gabo mancou até ele, agarrando-o pelo braço. O músculo sob o macacão de Dante era duro como pedra. — Você não pode simplesmente entrar aqui e dar ordens. Vilar é o chefe de polícia. Você é... você é um fantasma em um corpo roubado.
+Se ele parasse a máquina, Roberto mataria Elena. Se ele salvasse Elena, Dante renasceria — e com ele, talvez, o pesadelo da Aeterna.
 
-Dante olhou para a mão de Gabo em seu braço. Depois olhou nos olhos do filho.
+"Foda-se o legado", pensou Gabo.
 
-— Eu não sou um fantasma, Gabriel. Eu sou a resposta para as orações desta cidade. Vocês oraram por ordem em meio ao caos. Por justiça em meio à corrupção.
+Ele abandonou Silas e se deixou cair pela rampa lateral, segurando o corrimão com a esquerda. Bateu de lado em Roberto no trecho em que o parapeito já pendia sobre a plataforma inferior. Não foi um salto: o apoio cedeu com o peso dos três.
 
-Ele se soltou suavemente, mas com uma força irresistível.
+O impacto jogou ambos contra o parapeito. O metal cedeu.
 
-— Eu sou a Ascensão.
+Gabo, Elena e Roberto caíram na plataforma inferior, uma confusão de membros e metal. A garra de Roberto soltou Elena. Gabo montou sobre o ciborgue, usando o próprio peso das órteses para prender o peito da criatura.
 
-As luzes do salão, que piscavam intermitentemente por causa do gerador instável, de repente se estabilizaram em um brilho forte e constante. Os computadores mortos nas mesas começaram a ligar, as telas iluminando-se com códigos em cascata verde.
+— *Você é patético!* — cuspiu Roberto.
 
-Rangel soltou um grito quando sua máquina de escrever elétrica (que ele jurava estar quebrada) começou a digitar sozinha.
+Gabo arrancou um tubo grosso do pescoço de Roberto. Fluido vital jorrou.
 
-Dante entrou no escritório do Comissário e a porta se fechou atrás dele.
+— Eu sou humano — rosnou Gabo.
 
-Gabo olhou para Elena, depois para Vilar. O medo nos olhos do velho Capitão era algo que Gabo nunca tinha visto, nem mesmo quando enfrentaram o Taxidermista.
+Ele prendeu a ferramenta na junta exposta do pescoço. Elena puxou o cabo de alimentação da cadeira, ainda preso às costas de Roberto, e cortou a linha com a borda da ferramenta. Os olhos vermelhos se apagaram. Gabo manteve a pressão até parar o último movimento, enquanto Elena registrava o rosto destruído e o número do módulo. Não levariam aquela morte de volta como boato.
 
-— O que nós fizemos? — perguntou Vilar, a voz trêmula.
+— Gabo! A máquina! — gritou Elena, tossindo.
 
-Gabo sentiu o tique nervoso em seus dedos, tamborilando no coldre vazio. Ele olhou para a porta fechada, onde o novo deus de Baía Cinzenta começava seu trabalho.
+Gabo olhou para cima.
 
-— Nós não o trouxemos de volta, Jonas — disse Gabo, sentindo o gosto de bile. — Nós o ligamos na tomada.
+Silas estava rindo, os braços erguidos para o Ventre.
 
-***
+— **100%**.
 
-Enfermaria Improvisada - Subsolo
-Minutos depois, longe do zumbido elétrico do salão principal, Gabo encontrou o único lugar onde o silêncio ainda parecia humano.
+Um trovão silencioso sacudiu a caverna. A luz âmbar do Ventre tornou-se um branco cegante.
 
-A enfermaria improvisada cheirava a éter e mofo. Dra. Nise estava curvada sobre uma maca no canto mais escuro, ajustando um soro amarelado.
+O vidro explodiu.
 
-— Ela está acordando — disse Nise, sem se virar.
+Fluido e estilhaços choveram sobre eles. Gabo cobriu Elena com seu corpo.
 
-Gabo mancou até a maca. Seu coração falhou uma batida.
+Quando a poeira baixou, Silas estava de joelhos, chorando de êxtase.
 
-Valéria voltara ao hospital na véspera, depois de dias com febre e uma nova rigidez no lado esquerdo. A mão que saíra andando do Memorial continuava sem movimento; agora a camada cinzenta avançara pelo antebraço. Nise recolhia as placas que começavam a se soltar. Não era a primeira recuperação repetida: era uma complicação que ninguém previra.
+E na plataforma, em meio aos cacos de vidro, a figura se levantou. Nua, perfeita, sem cicatrizes.
 
-Por baixo, a pele de Val estava pálida, translúcida, mas quente. As veias prateadas em seu pescoço pulsavam com uma luz fraca, rítmica.
+O homem olhou para suas próprias mãos. Depois, levantou os olhos. Eram os olhos de Dante Moretti. Mas havia algo mais neles. Algo antigo. Algo frio como o vácuo entre as estrelas.
 
-— O que aconteceu? — sussurrou Gabo, tocando a mão dela. Os dedos da mão direita se fecharam levemente ao redor dos dele. A esquerda continuava rígida sob a faixa.
+— Onde... estou? — A voz era a de Dante, mas a entonação era... digital.
 
-— Ainda não sei por que a rigidez recuou — explicou Nise, limpando o suor da testa de Val. — Ela teve uma piora e agora acordou. A mão esquerda não melhorou. Não vou chamar isso de evolução para tornar o resto mais fácil de ouvir.
+Silas rastejou até ele.
 
-Val abriu os olhos. As íris, antes cibernéticas e frias, agora tinham um brilho líquido, como mercúrio vivo.
+— Bem-vindo de volta, Comissário. Bem-vindo à carne.
 
-— Gabo... — a voz dela era um sussurro rouco, mas havia um sorriso fraco em seus lábios rachados. — Você... parece uma merda.
+A figura olhou para Silas. Depois olhou para baixo, para Gabo e Elena.
 
-Gabo sorriu, sentindo uma lágrima quente escorrer pela barba suja.
+Um sorriso lento, desprovido de qualquer calor humano, curvou os lábios de Dante.
 
-— Você também, garota. Você também.
+— Carne... — ele sussurrou. — É tão... limitante.
 
-— O sistema... — ela tentou se levantar, mas Nise a segurou. — Eu senti... uma onda de choque. O firewall caiu?
+Ele estendeu a mão para Silas. As raízes negras que permeavam a sala responderam, brotando do chão e envolvendo o "Jardineiro".
 
-— O firewall mudou de dono — disse Gabo, apertando a mão dela. — Descanse, Val. Vamos precisar desse seu cérebro gigante em breve.
+Silas gritou enquanto era drenado, sua biomassa sendo sugada para fortalecer o novo hospedeiro.
 
-Val fechou os olhos, a respiração estabilizando. Gabo ficou ao lado dela até o soro acabar. Acima do teto, o zumbido dos geradores mudou de tom: firme, contínuo, como uma máquina que tinha aprendido a respirar sozinha.
+— Gabo... — Elena sussurrou, agarrando o braço dele.
+
+— A porta de manutenção — disse Gabo. — Elena, solta a trava quando eu passar.
+
+Elena segurou a porta enquanto Gabo atravessava apoiado no corrimão. Ele puxou o pé de cabra da rampa e o cravou na trava; a folha fechou entre eles e o corpo recém-saído do tanque. Do outro lado, alguma coisa bateu uma vez. O metal começou a ceder.

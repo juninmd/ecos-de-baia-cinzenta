@@ -24,8 +24,8 @@
 
 * **Pré-Série:** Ex-parceiro de Gabo. Aparência: Policial modelo, uniforme impecável, sorriso confiante.
 * **Parte II:** Confrontado por Gabo. Aparência: Suado, olhos injetados (vício em estimulantes e falta de sono), uniforme desgrenhado.
-* **Partes VII-XIII (O Devedor) — retrato `miranda.jpg`:** Novo visual canônico da fase de decadência. Rosto encovado e doentio, olhos fundos e avermelhados, cabelo ralo colado de suor, terno marrom manchado no lugar da farda. **Braço direito substituído por uma prótese mecânica bruta de aço** — a "mão de metal" com que ele marca o pulso de Isadora no Capítulo 55. Sempre visto perto dos neons do cassino ilegal do Sindicato, onde a dívida que o comprou foi feita. Use este retrato como âncora para tudo entre a Parte VII e o Capítulo 102.
+* **Partes VII-XIII (O Devedor) — retrato `miranda.jpg`:** Novo visual canônico da fase de decadência. Rosto encovado e doentio, olhos fundos e avermelhados, cabelo ralo colado de suor, terno marrom manchado no lugar da farda. **Braço direito substituído por uma prótese mecânica bruta de aço** — a "mão de metal" com que ele marca o pulso de Isadora no Capítulo 56. Sempre visto perto dos neons do cassino ilegal do Sindicato, onde a dívida que o comprou foi feita. Use este retrato como âncora para tudo entre a Parte VII e o Capítulo 104.
 * **Parte XIV:** Reanimado pelo Projeto Gênesis. Aparência: Ciborgue grotesco ("Frankenstein Tático"), crânio reforçado com placas de metal, sem pele no rosto, apenas músculos e sensores.
-* **Capítulo 103:** Destruído permanentemente (Biomassa Inerte).
+* **Capítulo 105:** Destruído permanentemente (Biomassa Inerte).
 
 ---

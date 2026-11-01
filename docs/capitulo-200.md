@@ -1,72 +1,81 @@
 ---
-Título: O Poço do Abismo
+Título: A Marcha Fúnebre
 Data In-Game: Pós-Colapso do Sentinel (Noite Eterna)
-Localização: Catacumbas do Setor 6 - Poço de Elevação Principal
+Localização: Catacumbas do Setor 6
 Personagens Presentes: Gabo, Valéria, Elias
 ---
 
-# Capítulo 200: O Poço do Abismo
+# Capítulo 200: A Marcha Fúnebre
 
-O estrondo da porta de pressão se fechando ainda ecoava na base do crânio, uma reverberação de ferro maciço contra a pedra úmida que quase parecia um batimento cardíaco. Ali dentro, o cheiro de lodo apodrecido e ozônio fritando foi substituído por algo igualmente asfixiante: a poeira centenária de um túmulo vertical de alta tensão.
+Os setecentos metros restantes até o Poço de Elevação Três eram uma marcha lenta sob a abóbada fria das catacumbas do Setor 6. O eco do desabamento da ponte atrás de nós ainda reverberava pelas galerias de concreto, transformando o silêncio em uma contagem regressiva tensa.
 
-Eu escorreguei pela parede de metal frio, deixando o peso morto do meu corpo ceder até que minhas costas encontrassem apoio na laje de concreto. O choque elétrico da batalha anterior ainda zumbia nas terminações nervosas do meu braço direito, um formigamento incandescente que transformava meus dedos mecânicos em garras retorcidas. Mas era o ombro mutilado e a perna avariada que cobravam o preço de cada respirada, ardendo sob o curativo ensanguentado.
+O ar ali embaixo não circulava; ele estagnava num caldo espesso que cheirava a ferro oxidado, óleo de transformador queimado e carniça vegetal decomposta. Na minha boca, o gosto amargo de cinzas e poeira de alvenaria misturava-se ao suor frio que escorria pelo meu pescoço.
 
-Valéria ajoelhou-se ao meu lado e enxugou o suor frio do meu queixo com o dorso da mão. Depois soltou o cyberdeck das costas, colocando-o com cuidado sobre uma caixa de fusíveis vazia, e verificou o aperto da atadura elástica no meu ombro com a mão firme.
+Minha órtese mecânica direita rangia a cada dois passos, as buchas gastas moendo areia contra as juntas de ferro. A atadura compressiva no meu ombro e braço quebrado estancara a sangria principal, mas a dor latente pulsava como um lembrete físico de que nossos corpos orgânicos estavam operando no limite absoluto de tolerância.
 
-— A solda da bucha do seu ombro tá soltando faíscas azuis, Moretti — ela sussurrou, a voz ofegante mas firme, enquanto ajustava a válvula de alívio do pistão com a ponta de uma chave de fenda pequena. — O relé do atuador abriu. Elias tem um contato compatível no estojo; vou usar no circuito auxiliar, com a pressão limitada. Isso não conserta o fixador. A garra vai responder mais devagar e a força precisa vir do arnês, não do osso.
+Eu contava os passos em vez de sentir a distância. Cada cem, uma pausa de dois segundos para deixar o joelho voltar ao lugar, e mais cem. Os setecentos metros davam sete pausas, e eu já tinha inventado a quarta quando percebi o que estava fazendo: contava errado de propósito, só para ganhar mais pausas.
 
-— O que importa é que a quimera virou carvão lá fora — respondi, o gosto de cobre e poeira de carvão amargo na boca. — E o portão de chumbo segurou o resto da ninhada.
+Elias caminhava colado ao meu lado esquerdo, os olhos saltando freneticamente pelas sombras projetadas pela lanterna fraca que ele mantinha apontada para o chão.
 
-Elias estava sentado a três metros de nós, com o tornozelo inchado apoiado na mochila. Seus dentes batiam enquanto olhava para o alto. Val perguntou se podia examinar; ele assentiu e mostrou onde doía. Ela ajustou uma faixa sobre a bota, sem prometer que sustentaria uma subida. Elias testou o apoio com cuidado e fez uma careta. A porta recebeu outra pancada. Ele recolheu a chave do chão.
+— Frequência respiratória muito rápida, Elias — a voz de Valéria soou num sussurro cortante logo atrás de nós. A luz azul dos filamentos de LED na franja dela desenhava seu perfil concentrado, o cyberdeck seguro no peito e a pistola destravada. — Sua respiração está muito rápida. Se precisar parar, me avisa; eu e o Gabo não temos maca para carregar você. Respira fundo pelo nariz e solta pela boca devagar.
 
-— Não tem saída... — ele murmurou num soluço engasgado, apontando o dedo trêmulo para o alto. — O poço... olhem pro teto desse poço. A cabine do elevador não tá aqui.
+Elias fez sinal de que ouvira. Tentou diminuir o passo e levou alguns metros até conseguir responder sem interromper cada palavra.
 
-Ergui os olhos, acompanhando o facho de luz concentrado que Valéria projetou para a verticalidade da câmara.
+Entramos numa galeria mais larga, onde os pilares de concreto davam sustentação aos antigos trilhos de carga subterrâneos da área comercial. Mas a arquitetura humana fora completamente engolida por algo doentio.
 
-O Poço de Elevação Três era uma artéria de concreto brutalista de quinze metros de largura, projetada durante o auge do Distrito Comercial para transportar vagões inteiros de lingotes e equipamentos pesados entre os cofres subterrâneos e a superfície. Mas a cabine blindada de carga estava emperrada num dos níveis altos desde o primeiro apagão; o cabo de tração mestre, da grossura de uma árvore secular, pendia solto no centro do fosso, desfiado em tentáculos de aço retorcido.
+Gavinhas espessas do Jardim, da cor de carne esfolada e entrelaçadas com cabos de alta voltagem, cobriam as colunas como cipós de pesadelo. No teto, a quatro metros de altura, casulos fibrosos do tamanho de caixões pendiam de estruturas de aço, gotejando um fluido amniótico amarelado e viscoso que sibilava ao tocar o piso inundado.
 
-As paredes verticais de alvenaria não eram lisas.
+Os casulos estavam pendurados em ordem. Do menor, na entrada, ao maior, perto da porta do poço, e cada um trazia um número estampado na fibra com tinta de estêncil que a umidade não conseguira borrar. Alguém contava. Alguém conferia. Viveiro não numera o que nasce solto; numera o que vai ser entregue.
 
-Subindo por centenas de metros até desaparecerem na escuridão do topo, veias bioluminescentes azuladas do Jardim serpenteavam pelas vigas de sustentação em I, pulsando num ritmo cadenciado e lento. A praga biológica havia colonizado o poço inteiro, transformando o poço de elevação numa gigantesca chaminé viva.
+O fluido pingava no piso num compasso que imitava relógio. A galeria tinha opinião sobre nós, e a opinião era que estávamos atrasados.
 
-— A cabine de carga tá emperrada no nível quarenta e dois — Valéria relatou, os olhos ópticos prateados efetuando varreduras de telemetria em alta frequência. — O único acesso contínuo até a subestação do Hub Principal é a escada de emergência fixada na parede norte. Aquela estrutura de vigas metálicas ali.
+— Apaga essa lanterna, Elias — ordenei num sussurro ríspido, parando imediatamente e erguendo o punho mecânico. — Agora.
 
-Olhei para a escada de ferro chumbada na rocha. Uma sucessão vertiginosa de lances verticais e patamares estreitos de gradeamento enferrujado subindo por mais de duzentos metros no vazio.
+Elias apagou o interruptor num clique seco. Mergulhamos numa penumbra fantasmagórica, iluminada apenas pela fosforescência azulada que corria pelas veias do Jardim e pelo brilho tênue dos implantes ópticos de Valéria.
 
-— A escada tá em pé, Elias — falei, forçando meu corpo a se erguer com a ajuda do corrimão. — Você disse que ela cortava direto pro Setor 6.
+Ela se aproximou de uma das colunas, apontando a sonda de leitura com extremo cuidado para um casulo rompido que pendia a meio metro do chão.
 
-— Em pé?! — Elias quase berrou, as lágrimas limpando trilhas de lama na poeira de seu rosto. — Aquela escada tá carcomida por quarenta anos de umidade ácida, detetive! Três passos com essa sua perna pesada e o ferro se quebra no meio! A gente vai cair no fundo desse fosso e virar pasta!
+— O que tem dentro dessa desgraça, garota? — Elias sussurrou, a voz sumindo de terror.
 
-Aproximei-me devagar e deixei a garra junto ao meu corpo, longe do ombro dele. Olhei bem dentro dos olhos aterrorizados dele, a voz saindo no tom grave e seguro de um policial veterano que já arrancou homens piores da boca do abismo:
+Valéria examinou a cavidade aberta, os olhos prateados arregalando-se numa mistura de fascínio técnico e repulsa visceral.
 
-— Escuta, Elias. Você sobreviveu semanas naquela subestação porque conhecia os dutos e sabia quando se esconder. Eu não vou chamar isso de covardia. A escada pode ceder, e minha armação não garante que eu consiga segurar você. Podemos ficar atrás da comporta e esperar; com as assinaturas descendo, isso também tem preço. Se você escolher subir, conhece melhor que nós o caminho até a escotilha. Eu acompanho o seu ritmo. Um degrau de cada vez.
+— Não são catadores reciclados, Gabo... — ela murmurou, a respiração presa na garganta. — Parece uma unidade biomecânica montada aqui. Não sei se opera sozinha nem quem a construiu. Olha pra carcaça dentro dessa placenta: uma estrutura de seis membros de titânio reciclado fundida a placas de músculo vegetal denso, com garras de cerâmica industrial no lugar das mãos.
 
-Elias piscou, engolindo o soluço. Ele manteve distância de mim e apertou a faixa em volta da bota.
+Aproximei-me da carcaça inerte. O que estava ali dentro não se parecia com nada que a natureza ou a polícia já tivessem catalogado. Era uma quimera aracnídea forjada na escuridão, desenhada exclusivamente para caçar nos túneis estreitos da cidade subterrânea.
 
-— E se a escada quebrar? — ele sussurrou.
+— Silas Vance não queria apenas cultivar a cidade — comentei, o cano de *Caronte* repousando pronto na dobra do meu braço esquerdo. — Talvez alguém esteja montando unidades para vigiar o subsolo. Não sei se foi Silas.
 
-— Se um degrau quebrar, a linha de segurança pode limitar a queda; não promete parar você. A gente prende a guia nos apoios e testa cada trecho antes de passar o peso. Se disser para parar, paramos.
+— E a incubadora ainda tá ativa — Valéria apontou o sensor térmico para o teto, onde outros doze casulos fechados pulsavam com uma temperatura estável de trinta e sete graus. — O sensor mostra calor nos casulos. Não sei o que os faz reagir; passar em silêncio pode nos dar uma chance.
 
-Elias olhou de novo para a comporta. A chuva de garras no lado de fora cresceu; a escolha de esperar já não era neutra. Ele amarrou a guia ao primeiro apoio, puxou com o próprio peso e inspecionou a solda antes de assentir.
+— Passos curtos pelas canaletas de drenagem — comandei, apontando para a vala lateral de concreto seco onde a água não acumulava. — Sem arrastar bota e sem falar nada.
 
-Valéria se aproximou, pendurando o cyberdeck com as alças cruzadas no peito para liberar os braços e checando o cão da pistola com um clique seco.
+Começamos a avançar pela beirada da galeria. A cada metro, o peso da armação puxava meu ombro com uma gravidade impiedosa. Meus músculos tremiam com a tensão acumulada, a mente focada exclusivamente em manter o equilíbrio nos trilhos enferrujados.
 
-— Se você ainda quiser ir na frente, Elias, pode escolher onde pôr o pé — disse Val. — Moretti sobe depois; eu fecho a coluna. Testamos cada apoio. A guia pode limitar uma queda, mas não garante que segure.
+Silêncio não é ausência de som; é disciplina. A bota de metal tinha que descer reta, sem arrastar, e o peso da armação tinha que passar para o quadril antes do pé. Cada passo meu custava um cálculo, e o cálculo custava um pedaço do ombro. Na metade da travessia, a bucha do joelho travou no meio do curso e eu tive que soltar com a mão, devagar, sentindo a graxa quente vazar entre os dedos.
 
-Antes que ele pudesse dar o primeiro passo, um som cavernoso quebrou o silêncio do poço.
+Valéria ia na frente marcando as lajes com dois toques de dedo no ar. Elias seguia atrás de mim e não respirava. Nem eu.
 
-Não foi um rangido de ferro oxidado. Foi um *pulso*. Um batimento cardíaco grave, elétrico e visceral que fez o concreto da parede tremer contra as nossas costas.
+Cinquenta metros. Cem metros. As portas maciças do Poço de Elevação Três já podiam ser vistas no final da reta, recortadas contra a escuridão.
 
-Lá em cima, duzentos metros acima de nós, as raízes azuis do Jardim piscaram com intensidade furiosa. O som de centenas de garras de cerâmica raspando na alvenaria ecoou pelo duto vertical como uma cascata de cascalho rolando montanha abaixo.
+Foi então que o ferro velho traiu nosso avanço.
 
-Valéria ergueu a lanterna para o abismo superior. Os olhos prateados dela estreitaram-se, registrando a descida rápida de múltiplos pontos de calor.
+Sob a poça de lodo que cobria o trilho, uma barra de vergalhão solta estava enterrada. Quando apoiei o calcanhar da bota mecânica sobre o cascalho, a barra escorregou, batendo com um clangor metálico estridente e agudo contra a viga mestre da parede.
 
-— Assinaturas térmicas descendentes — ela anunciou, a voz firme e sem pânico, carregada daquela determinação selvagem que nos mantinha vivos. — O ninho acordou no topo. Eles tão descendo pelas vigas mestras. Não consigo estimar quando vão alcançar a gente.
+CLANG!
+O som ecoou pela galeria cavernosa como uma martelada num gongo de aço.
 
-Duzentos metros de escada enferrujada no breu de um poço tomado por fungos corporativos.
+O silêncio que se seguiu durou exatamente um segundo.
 
-Encarei o primeiro degrau de ferro fundido, prendi a linha de segurança e usei a mão esquerda e as pernas para subir o primeiro degrau, mantendo o braço fraturado junto ao tronco.
+Lá em cima, os doze casulos suspensos espasmaram em uníssono. As veias azuis do Jardim dispararam pulsos elétricos de alta frequência, e um zumbido subsônico furioso sacudiu a alvenaria do teto.
 
-— Vamos no ritmo que a escada permitir — disse a Elias. — Se um apoio ceder, avisa.
+— Alerta térmico! — Valéria berrou, puxando a pistola do coldre e cravando os pés na laje com postura de tiro. — A temperatura e o movimento dos casulos saltaram na leitura! O impacto acústico despertou o ninho!
 
-Subimos para o abismo de aço, deixando para trás o chão das catacumbas enquanto a tempestade de garras e sombras começava a despencar lá de cima sobre as nossas cabeças.
+O casulo mais próximo rasgou-se de cima a baixo com um som úmido e nauseante de lona e carne se rompendo. Uma enxurrada de fluido amarelado despencou no chão, seguida pelo baque pesado de uma criatura de dois metros que caiu de quatro patas sobre o cascalho.
+
+A abominação ergueu a cabeça cega, desprovida de olhos, com mandíbulas de aço serrilhado estalando num silvo assassino enquanto garras de cerâmica batiam no concreto.
+
+— Corre, Elias! — empurrei o técnico com força em direção ao portão do elevador, sacando *Caronte* com um giro limpo da mão esquerda. — Vai pro poço do elevador e não olha pra trás!
+
+Valéria já estava ao meu lado, os olhos brilhando com fogo frio enquanto descarregava os primeiros três tiros cirúrgicos no tórax blindado da besta.
+
+— Dá cobertura, Moretti! Essa coisa é rápida pra caramba!

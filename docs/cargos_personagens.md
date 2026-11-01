@@ -30,14 +30,15 @@ As ocupações refletem a fase indicada; atividades sob coerção ou informais n
 | Elena Moretti | Jornalista e editora independente. |
 | Elias | Trabalhador de manutenção de drenagem e guia da infraestrutura. |
 | Enzo Rossi | Proprietário e trabalhador da pizzaria Rossi. |
-| Sofia Rossi | Proprietária e trabalhadora da pizzaria Rossi. |
 | Gabriel «Gabo» Moretti | Ex-inspetor da DPBC; investigador independente na resistência. |
 | Helena Moretti | Cuidadora do lar e jardineira doméstica. |
 | Inspetor Rangel | Inspetor da Corregedoria; depois, aliado da resistência. |
 | Isadora | Intermediária do Sindicato sob coerção; depois, informante. |
+| Ísis Nogueira | Perita grafotécnica do Cartório Central; perita da Mesa de Fé Pública. |
 | Kael «O Cirurgião» | Operativo de campo e executor da Aeterna. |
 | Kiko Vibe | Criador de conteúdo e apresentador digital. |
 | Marco Moretti | Administrador e dirigente político. |
+| Nina Duarte | Trabalhadora do Setor 9; acusadora formal da Mesa de Fé Pública. |
 | O Arquiteto | Dirigente do Sindicato criminoso. |
 | O Gamemaster | Sistema de IA de vigilância, controle e comunicação. |
 | O Taxidermista | Artista e taxidermista clandestino. |
@@ -45,7 +46,10 @@ As ocupações refletem a fase indicada; atividades sob coerção ou informais n
 | Padre Miguel | Padre e organizador de abrigo e apoio comunitário. |
 | Prefeito Augusto Vale | Prefeito; anteriormente, líder sindical. |
 | Roberto Miranda | Policial; depois, executor subordinado à Aeterna. |
+| Saulo Brito | Advogado de Viktor Krell; ex-diretor jurídico da Aeterna. |
 | Silas Vance | Líder dos Jardineiros e responsável pelo Projeto Gênesis. |
+| Sofia Rossi | Proprietária e trabalhadora da pizzaria Rossi. |
+| Teresa «Tê» Prado | Operadora de prensa; presidente da Mesa de Fé Pública. |
 | Valéria «Val» Cruz | Ex-detetive da DPBC; investigadora e analista de redes na resistência. |
 | Vasco | Mecânico de próteses e comerciante de implantes e suprimentos. |
 | Veronica Lux | Jornalista e apresentadora da Nexus News. |

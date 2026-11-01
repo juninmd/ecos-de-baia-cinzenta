@@ -19,10 +19,10 @@
 
 ### ⏳ Linha do Tempo
 
-* **Capítulo 123:** Negocia antibióticos de espectro total e processadores neurais série-K com Gabo, em troca da informação sobre a queda da Usina. Deixa registrado que Gabo "lhe deve uma".
-* **Capítulo 124:** Fuma na presença de Gabo — o único personagem que faz isso sem consequência, porque Gabo precisa dele.
-* **Capítulo 172:** Gabo decide voltar ao Distrito 4 atrás dele por antibióticos reais e ferramentas analógicas.
-* **Capítulo 175:** Depois de atendimento clínico e fixação pela equipe, adapta ao suporte uma armação externa industrial sustentada por arnês e cintura. Valéria recebe reparo de alimentação; sua resposta afetiva permanece intermitente.
-* **Capítulo 176:** A armação metálica pesada que ele adaptou passa a definir o modo de andar e lutar de Gabo daí em diante.
+* **Capítulo 125:** Negocia antibióticos de espectro total e processadores neurais série-K com Gabo, em troca da informação sobre a queda da Usina. Deixa registrado que Gabo "lhe deve uma".
+* **Capítulo 126:** Fuma na presença de Gabo — o único personagem que faz isso sem consequência, porque Gabo precisa dele.
+* **Capítulo 174:** Gabo decide voltar ao Distrito 4 atrás dele por antibióticos reais e ferramentas analógicas.
+* **Capítulo 177:** Depois de atendimento clínico e fixação pela equipe, adapta ao suporte uma armação externa industrial sustentada por arnês e cintura. Valéria recebe reparo de alimentação; sua resposta afetiva permanece intermitente.
+* **Capítulo 178:** A armação metálica pesada que ele adaptou passa a definir o modo de andar e lutar de Gabo daí em diante.
 
 ---

@@ -1,73 +1,95 @@
 ---
-title: "Capítulo 124: Carne e Cobre"
-Data In-Game: "23 de Novembro, 05:15"
-Localização: "Túneis de Manutenção do Distrito 4 / O Fliperama (Safehouse)"
-Personagens Presentes: "Gabo Moretti, Valéria Cruz, Dra. Nise, Rangel (Crítico), Aria (Inerte), mulher e menino resgatados, equipe de transporte."
-description: "Nise e uma equipe chegam. A mãe reencontra o menino. O atendimento busca estabilizar Rangel para transporte, sem prometer cura definitiva no abrigo."
+title: "Capítulo 124: Dívida Técnica"
+image: /capitulo_124.jpg
+Data In-Game: "23 de Novembro, 03:45"
+Localização: "O Fliperama (Esgotos / Subnível do Distrito Industrial)"
+Personagens Presentes: "Gabo Moretti, Valéria Cruz, Inspetor Rangel (Estável/Precário), Aria (Offline/Fragmentada)."
 ---
 
-# Capítulo 124: Carne e Cobre
+# Capítulo 124: Dívida Técnica
 
-O subsolo de Baía Cinzenta tinha uma acústica própria. No mundo de cima, o som se perdia na vastidão do céu de chumbo; aqui embaixo, ele ricocheteava, amplificado e distorcido pelo concreto úmido. Cada passo de Gabo ecoava como um tiro abafado.
+O cheiro de sangue e do pano queimado na usina não ia embora. Ele parecia ter se agarrado às paredes de concreto úmido do bunker, impregnando o mofo, a ferrugem e até mesmo o gosto da água que Gabo bebia de uma garrafa plástica amassada.
 
-Ele caminhava com o peso do mundo na mochila. Os frascos de antibióticos tilintavam contra as caixas de processadores série-K, um som de vidro e cerâmica que parecia alto demais na escuridão opressiva.
+Ele estava sentado no chão, as costas apoiadas contra a frieza de um servidor desativado. Suas mãos, finalmente limpas de sangue, repousavam sobre os joelhos, mas os tremores finos continuavam. Não era frio. Era o *crash*. A adrenalina que o sustentara desde a invasão da Usina Prometeu, passando pela fuga no caminhão de reboque e a espera ao lado de Rangel, havia evaporado, deixando para trás apenas um buraco oco no estômago e uma exaustão que pesava como chumbo.
 
-A lanterna tática presa ao ombro do sobretudo cortava a negridão, revelando a arquitetura intestinal da cidade: canos gotejantes cobertos de limo, cabos de fibra ótica rompidos pendurados como tripas expostas e a água oleosa correndo no canal central, carregando os detritos de uma sociedade que havia esquecido como descartar seu lixo.
+O silêncio do "Fliperama" era opressivo. Lá fora, na superfície, Baía Cinzenta devia estar um caos. Sem energia, sem a "Voz" de Dante para manter a ordem, a cidade estaria se devorando. Mas ali embaixo, sob toneladas de esgoto e esquecimento, o único som era o zumbido errático do gerador a diesel que Valéria havia conseguido ligar e a respiração ruidosa de Rangel.
 
-Gabo parou por um instante, apoiando a mão na parede fria. O suor escorria por suas costas, gelado. A adrenalina do confronto na clínica de Vasco estava baixando, deixando para trás apenas a dor surda das velhas fraturas na coluna e o latejar rítmico no ombro onde a coronha da *Caronte* batia.
+O inspetor estava pálido, suando frio, murmurando coisas desconexas em seu delírio febril. "O rio... não olhe para o rio...". O curativo retardara a perda aparente de sangue. Sem avaliação, não sabiam quanto continuava perdendo por dentro. Eles haviam comprado tempo, mas a que juros?
 
-Seus dedos tamborilaram contra o coldre. O cheiro de mofo e fuligem ainda o enjoava — ele odiava qualquer fumaça, que sempre o lembrava do hálito do pai gritando — e a exaustão pedia um entorpecimento químico que ele se recusava a buscar. Ele rejeitou o pensamento, mordendo o lábio até sentir o gosto metálico de sangue. Dor era foco. Dor era realidade.
+Gabo umedeceu os lábios de Rangel com um pano limpo. O inspetor tossiu; Val afastou a garrafa para que ele não tentasse beber enquanto estava confuso. A pele dele tinha a temperatura errada: quente onde devia ser fria, fria nas mãos.
 
-No acesso ao Fliperama, Gabo afastou o tijolo que ocultava a trava. Bateu na chapa como combinara com Val e esperou que ela abrisse por dentro.
+— O rio — Rangel repetiu, os olhos abertos e vazios. — Não olhem para o rio. Tem gente andando no fundo.
 
-O ar lá dentro era viciado, uma mistura de óleo de máquina, poeira de eletrônicos e o cheiro inconfundível de doença.
+Valéria não se virou. Continuou digitando, com mais força do que precisava, como se o barulho das teclas pudesse cobrir a voz do homem na mesa.
 
-— Val? — ele chamou, a voz rouca.
+— Você sabe o que é dívida técnica, Gabo? — Valéria falou sem se virar.
 
-Valéria surgiu de trás da bancada de monitores, o rosto iluminado apenas pelo brilho azulado de uma tela de backup. Ela parecia um fantasma cibernético, a pele translúcida demais, as olheiras fundas como crateras.
+Ela estava debruçada sobre a bancada onde o pendrive aberto da Aria estava preso a uma morsa de precisão, iluminada apenas pelo brilho azulado de um monitor terminal conectado às trilhas de diagnóstico do drive. Seus dedos dançavam sobre um teclado mecânico antigo, o som das teclas *clack-clack-clack* ecoando como tiros distantes.
 
-— Você demorou — ela disse, sem acusação, apenas constatando um fato. — Ele continua febril. Ele está delirando, Gabo. Falando sobre arquivos perdidos de 98.
+Gabo piscou, tentando focar.
 
-Gabo largou a mochila sobre uma mesa de trabalho coberta de esquemas técnicos.
+— O quê?
 
-— Eu trouxe. Tudo o que Vasco tinha.
+— Dívida técnica — repetiu ela, sem tirar os olhos da tela rolando linhas de código corrompido. — É um termo de engenharia. Quando você escolhe uma solução rápida e suja agora, em vez de fazer do jeito certo, porque precisa entregar o projeto a tempo. Você "pega emprestado" do futuro.
 
-Nise já estava junto à mesa, com duas pessoas da equipe de transporte. A mulher do porto voltara com elas e conferia, do outro lado da sala, se o menino continuava dormindo. Gabo pôs os kits lacrados ao alcance da médica. O ex-inspetor parecia menor. A pele, geralmente rubicunda, estava cinzenta e úmida. O curativo no ombro estava empapado de um fluido escuro que cheirava a cobre e podridão.
+Ela parou de digitar por um segundo e suspirou, um som trêmulo.
 
-— Ele está com febre e perdeu sangue — disse Nise. — Eu avalio o resto. Vocês fizeram bem em não tirar o estilhaço.
+— Funciona no curto prazo. O sistema roda. O cliente fica feliz. Mas o código fica podre por dentro. E eventualmente... eventualmente você tem que pagar a dívida. Com juros compostos.
 
-Gabo começou a explicar o que quase fizera. Ela olhou o ferro de solda na bancada e entendeu antes de ele terminar.
+Valéria apontou para a tela cheia de erros hexadecimais vermelhos lidos diretamente da memória flash do pendrive.
 
-— Ainda bem que alguém disse não.
+— O que fizemos com o drive da Aria na usina... espetar a unidade dela direto no monólito sem isolamento adequado para sustentar os comandos de suporte da rede... foi o maior empréstimo que já vi.
 
-Val baixou a cabeça. A médica mandou Gabo segurar a luz e passou a trabalhar com a equipe, usando o material que trouxera do posto e conferindo o que vinha da clínica. Não ofereceu nome tranquilo para o ferimento, nem uma promessa de vinte minutos.
+A garganta de Gabo secou. O ozônio e a fuligem da bancada traziam de volta a memória sufocante da fumaça dos charutos do pai, revirando seu estômago com uma repulsa visceral. Seus dedos tamborilaram nervosamente contra o joelho.
 
-O exame levou tempo. Duas vezes Nise mandou que afastassem os eletrônicos para liberar espaço. Rangel acordou durante a preparação, tentou fazer uma piada sobre formulários e não terminou. A equipe o preparou para o transporte; o procedimento definitivo exigiria a sala do hospital.
+Ele levou a mão ao peito e agarrou o *Colar de Sol* sob a camisa. Apertou o metal até as arestas machucarem a palma da mão. A dor era uma âncora.
 
-Gabo ficou com a luz até o braço perder força. Quando a entregou a Val, havia uma linha vermelha na palma, feita pelo cabo que apertara sem perceber.
+— O sistema dela vai voltar? — perguntou Gabo, a voz rouca.
 
-Gabo recuou, sentando-se pesadamente em uma cadeira giratória quebrada. Ele tirou o *Colar de Sol* do bolso e enrolou a corrente nos dedos, apertando até os elos marcarem a pele.
+— Alguns índices estão cruzados — disse Valéria. — Há registros recebidos da usina junto dos arquivos de origem e do histórico de Aria. Não sei se ela consegue acessá-los ou como vai reconhecê-los.
 
-Valéria já estava de volta à bancada eletrônica no canto da sala, debruçada sobre o pendrive da Aria.
+O cilindro aberto na morsa mostrava os circuitos expostos. Valéria não desviava os olhos deles. No canto do monitor, por cima do ombro dela, Gabo viu uma segunda janela: pulso de manutenção, 902.4 MHz, um estalo a cada quatro segundos, origem no nível do tanque. Ela a fechou, anotou o número num pedaço de papel e o dobrou duas vezes. Nenhuma equipe confirmara a retirada do corpo.
 
-O drive neural estava aberto sob uma lupa iluminada, com cabos de fibra fina ligados aos pinos de manutenção e o micro-ferro de solda de Valéria instalando a nova ponte de silício série-K. O LED indicador continuava apagado, sem o brilho azul ou âmbar. Apenas quartzo inerte.
+— Se eu fechar o curto e reinicializar o pendrive agora, pode ser que a assistente tática suba. Ou pode reproduzir arquivos que não são a voz dela. Essa é a nossa dívida.
 
-— Soldei a ponte nova e consegui ler parte do armazenamento enquanto a equipe preparava o transporte — Valéria disse, a voz baixa. — O núcleo lógico do pendrive está... fragmentado. Há arquivos incompletos e índices cruzados. Ainda não sei quais experiências ela vai reconhecer, nem o que consegue separar dos registros recebidos.
+— Então não liga — disse Gabo.
 
-— Ela nos salvou — Gabo disse, olhando para o pequeno cilindro de metal que carregava a voz do seu passado. — Ela manteve o desligamento da rede para nos tirar da Usina.
+— Não é assim. — Valéria encostou o dedo na lateral do drive, onde a blindagem estava amassada pelo calor. — Tem coisa aí dentro que não é dela. Consigo ver trechos de registros de triagem recebidos da usina: nomes, endereços e promessas de atendimento. Ainda preciso separar as cópias e verificar de onde vieram. Se eu não religar isso com cuidado, a prova fica presa num chip queimado — e aí a cidade pode dizer que ninguém morreu.
 
-— O custo foi alto, Gabo. O armazenamento físico resistiu, mas o software... — Valéria ajustou a carcaça de titânio do pendrive. — É "Dívida Técnica", lembra? Ela pegou emprestado barramento que não tinha. Agora o sistema está cobrando.
+— Quem vai querer prova? Não tem mais tribunal.
 
-Gabo se levantou, a rigidez na perna lembrando-o do ferimento sob a órtese.
+— Tem gente viva. — Ela levantou o queixo. — E gente viva lembra de quem mostrou primeiro.
 
-— Rangel precisa de tempo. O drive da Aria precisa de compilação. E nós precisamos de um plano.
+Gabo se levantou, as articulações estalando. Ele caminhou até a mesa onde Rangel jazia e colocou a mão na testa do inspetor. Estava fervendo.
 
-— O apagão não vai durar para sempre — Valéria alertou, voltando para os monitores. — A Aeterna tem sistemas de reserva. E não sabemos quem chegou ao Dante depois de nós.
+— Nós também temos uma dívida aqui — disse Gabo, olhando para o ferimento feio, coberto por bandagens improvisadas. — O curativo comprou tempo, mas não resolveu o ferimento. Não vou chamar a febre de diagnóstico nem esperar que uma peça eletrônica acorde para decidir o que fazer.
 
-— Deixe ele acordar — Gabo disse, caminhando até a saída do esgoto, onde a chuva lá fora criava uma cortina de água suja. — Quando ele acordar, nós estaremos prontos. Ou mortos. Não faz muita diferença em Baía Cinzenta.
+Ele se virou para Valéria. O rosto dela estava manchado de graxa e fuligem, os implantes oculares girando em foco e desfoque, denunciando seu próprio cansaço.
 
-Ele olhou para as próprias mãos, ainda manchadas de sangue seco nas cutículas. Carne e cobre. Sangue e ferrugem. Era tudo a mesma matéria-prima no final.
+— Precisamos de antibióticos. De verdade. Não essa merda vencida que o Kiko guardou aqui. Precisamos de soro, analgésicos. E precisamos de uma ponte de silício e microprocessadores série-K para consertar os barramentos do pendrive da Aria.
 
-— Descanse, Val. Eu assumo o primeiro turno.
+— Lá fora é zona de guerra, Gabo — Valéria alertou. — Sem a rede, os drones de segurança devem ter entrado em protocolo de contenção autônoma. E as gangues... os Carniceiros, os Lázaros... eles vão sair das tocas. O escuro é o recreio deles.
 
-Gabo sentou-se na entrada do túnel, a *Caronte* no colo, ouvindo os ratos correrem na escuridão, esperando o silêncio acabar.
+— Eu sei.
+
+Gabo soltou o colar e checou a carga de sua pistola cinética. Três balas convencionais no carregador. Nenhuma alimentação elétrica que pudesse acabar antes delas.
+
+— Mas a dívida venceu — disse ele, olhando para a escuridão do túnel de saída. — E nós não temos crédito pra renegociar.
+
+Rangel gemeu na mesa, um som de dor crua que sublinhou as palavras de Gabo.
+
+— Eu vou buscar o que precisamos — disse Gabo, prendendo a arma no coldre.
+
+— Vou ficar com Rangel e preservar uma cópia do que consigo ler — respondeu Val. — Se a mulher voltar com ajuda, eu mostro o caminho.
+
+— Onde? — Valéria perguntou, a voz tingida de medo.
+
+Gabo ajustou o sobretudo, sentindo o peso familiar da responsabilidade e do fracasso.
+
+— Conheço um lugar no Distrito 4. Uma clínica de rua. O tipo de lugar que não faz perguntas e aceita pagamento em favores ou violência.
+
+Ele caminhou até a saída, parando apenas para olhar uma última vez para o grupo quebrado sob a luz amarela do bunker.
+
+— Tranque a porta atrás de mim.
+
+Ele saiu para a escuridão do esgoto, onde podridão e ferrugem eram a única promessa que a cidade cumpria.

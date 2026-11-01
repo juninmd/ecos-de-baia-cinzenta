@@ -1,142 +1,205 @@
 ---
-image: /cenas/capitulo_228/cena_1.jpg
-Título: O Grupo de Controle
-Data In-Game: Segunda madrugada na Velha Baía
-Localização: Galpão de Impressão, Velha Baía (Superfície)
+image: /cenas/capitulo_228/cena_4.jpg
+Título: A Mulher de Fora
+Data In-Game: Primeira manhã na Velha Baía
+Localização: Doca de Recebimento Pluvial, Velha Baía (Superfície)
 Personagens Presentes: Gabo, Valéria, Elias, Dra. Elara Vance, Elena
 ---
 
-# Capítulo 228: O Grupo de Controle
+# Capítulo 228: A Mulher de Fora
 
-A primeira tiragem começou às quatro e dez. A capa trazia uma rubrica firme e o número quarenta e sete mil trezentos e onze, com a ressalva: admissões apontadas pelo índice; trezentos originais examinados, rubricas ainda não autenticadas. Papel barato, tinta que manchava o polegar. A rotativa batia contra minhas costas enquanto eu esperava sentado entre caixas. Elias voltou do arquivo com o índice de retenções aberto.
+Eles vieram antes do meio-dia, e eu ouvi os caminhões antes de ver. Motor de combustão. Três, talvez quatro, subindo a rampa de cascalho do galpão com aquele ronco sujo e honesto de coisa que queima diesel. Nenhum zumbido de célula, nenhum sussurro elétrico. Máquina que precisa de alguém para dar partida.
 
-— Gabo. — Ele estava branco. — Essa aqui não é de admissão.
+Elias se levantou de um salto. Valéria já estava de pé, posicionada entre a cápsula e a porta, com a escopeta *Caronte* nas mãos — minha escopeta, porque eu não tenho mais como segurá-la e mirar ao mesmo tempo.
 
----
+— Quatro veículos, — ela disse. — Onze assinaturas térmicas. Nenhuma armadura corporativa. Padrão de aproximação não-tático.
 
-O índice remetia a REF-0, mas não dizia a prateleira. Na sequência, 001 aparecia duas vezes e 002 faltava. A folha de movimentação registrava a segunda 001 como retirada para auditoria, sem baixa. Elias seguiu a duplicata até o vão atrás dos mapas de estantes. Caixa menor, reforçada nos cantos, fita preta e etiqueta recosturada:
+— Isso é bom ou ruim?
 
-ESTUDO LONGITUDINAL 001 — LINHAGEM DE REFERÊNCIA / REF-0
-ACESSO: DIRETORIA E AUDITORIA
+— É civil.
 
-Val abriu no deck a fotografia do verso da autorização guardada por Nise e a do recibo de Isadora. Pôs as duas ao lado do índice: setor familiar, REF-0, retenção de uma unidade viva. Os campos coincidiam; a caixa podia explicar por que tinham sido repetidos, ou só repetir a mesma mentira com mais papel.
-A Dra. Elara Vance rodou a cadeira até a mesa antes que eu pedisse. Ela olhou para a caixa por um tempo desagradavelmente longo.
+E aí a porta do galpão subiu, e a luz entrou toda de uma vez, e eu tive que fechar os olhos como um bicho. Quando abri, ela estava contra o sol. Cabelo castanho claro preso para trás, escapando em mechas. Jaqueta de campo verde-oliva encharcada de chuva de fora da cúpula. Coturnos. Uma câmera analógica pendurada no ombro e um caderno de papel no bolso do peito. Elena.
 
-— Eu esperava que vocês não achassem essa.\
-— Doutora.\
-— Não por vergonha, inspetor. Por tempo. — Ela apoiou as mãos na tampa. — Esta caixa não fecha a acusação; só mostra o que a Aeterna tentava medir.\
-— Abre. Ela abriu.
+Ela ficou parada na entrada por um tempo longo, olhando para dentro do galpão. Para as quatro toneladas de papel. Para a mulher de cabelo prateado na cadeira de aço. Para o rapaz imundo de macacão. Para a mulher de olhos prateados que apontava uma escopeta na direção dela. E depois para mim. Vi o momento em que ela percebeu o braço imobilizado e a ausência da armação.
 
----
+— Gabriel.
 
-Não eram fichas. Eram **pastas de acompanhamento**. Grossas, com abas coloridas, do tipo que hospital usa para paciente crônico. E cada uma tinha um nome.
+— Elena.
 
-MORETTI, D.
-MORETTI, H.
-MORETTI, M.
-ELENA — CONTATO CONJUGAL / ARQUIVO DE VIGILÂNCIA
-MORETTI, C.
-ANEXO TÉCNICO — MÓDULO AUTÔNOMO ARIA (SETOR 7)
-E, no fundo, sozinha, mais gorda que todas as outras juntas, com a aba já sem cor de tanto ser manuseada:
-
-MORETTI, G.
-Fiquei olhando para cinco pastas com o meu sobrenome, mais a pasta da Elena, dentro de um arquivo corporativo.
-
-— Explica, — falei. E a minha voz não estava boa. A Dra. Vance puxou a pasta do meu pai e abriu na primeira página.\
-— Lázaro tinha um defeito: **deriva**. A mente extraída degradava; em seis meses virava ruído, em dois anos já não correspondia a ninguém.\
-— Então não conseguiam manter as pessoas — disse Elena.\
-— O produto estragava, senhora. Para medir a perda, comparavam a mente extraída com outra parecida: uma referência viva, de preferência parente de primeiro grau. — A Vance virou a página. — A hipótese de que parentesco aproximaria os padrões nunca foi validada; os próprios arquivos mostram deriva entre familiares.\
-— Coletavam famílias.\
-— Uma nesta série. — Ela sustentou meu olhar. — O protocolo escolheu a sua como referência.\
-— Por quê?
-
-— Por causa da assinatura do seu pai.
+E ficamos assim, a uns quinze metros um do outro, sem que nenhum dos dois soubesse como atravessar aquilo.
 
 ---
 
-Ela girou um documento timbrado para mim: autorização, vinte e um anos antes, de testes beta do sinal de saneamento comportamental no Distrito 4. No rodapé, reconheci a assinatura de Dante:
+Ela mandou os caminhões esperarem. Sentou na borda da cápsula, ao meu lado, com a distância exata de sempre — perto o bastante para eu sentir o cheiro de chuva e papel na jaqueta dela, longe o bastante para não encostar.
 
-Dante Moretti — Consultor de Segurança Sênior.
-— Ele assinou, — falei.
+— Você recebeu, — ela disse.
 
-— A justificativa anexada à seleção diz: *consultor signatário; exposição administrativa em caso de denúncia*. — Ela virou a folha para que Elena lesse. — Krell apostou que Dante teria medo de confessar a própria participação. Não escolheu uma família superior às outras; escolheu uma que julgava poder calar.\
-— E depois da prisão, em 2041?\
-— Não sei quanto ele conseguiu alterar. A fita não prova que cada falha da máquina foi obra dele. O registro só mostra a saída que lhe restou: agir como vírus, não como testemunha.
+— O quê?
+
+— O sinal. Quando a comporta abriu, o diferencial de pressão disparou um transponder analógico nessa doca. Um pulso de rádio na faixa de emergência de sessenta anos atrás. — Ela olhou para a Dra. Vance do outro lado do galpão. — Só uma pessoa saberia projetar uma coisa dessas.
+
+— Eu não recebi nada, Elena. Eu não sabia que existia sinal.
+
+— Eu sei. — Um sorriso muito pequeno. — Eu monitoro essa faixa desde o recado de antes do Apagão. Até quando estava na cidade, deixava alguém de plantão aqui. Foi a única coisa que a doutora me deixou por escrito antes de sumir.
+
+Levei um segundo.
+
+— Você falou com ela? Antes?
+
+— Uma vez. — Elena olhou para as próprias botas. — Ela me procurou, três semanas antes do Apagão. Disse que existia um arquivo, que era físico, que nenhuma rede ia poder apagar, e que um dia ele ia sair de baixo da terra. E disse que, quando saísse, ia precisar de alguém que soubesse publicar. — Ela deu de ombros. — Foi um dos motivos para eu manter uma equipe do lado de fora, Gabo. A separação foi nossa; não vou transformar aquele fracasso numa operação secreta.
+
+E foi aí que eu entendi o que a carta dela realmente queria dizer, meses depois de eu ter lido, e sozinho, e mal.
+
+Não me procure. O que eu carrego é grande demais para ser escondido em um porão.
+Ela não estava fugindo. Ela estava construindo o tribunal antes de eu saber que ia precisar de um.
+
+— Meses, — falei.
+
+— Meses. Três prensas, dois transmissores de onda curta e uma rede de distribuição em onze assentamentos fora da cúpula. — Ela finalmente me olhou. — Enquanto você quebrava dentes, eu montava uma editora. Você achou que eu tinha desistido.
+
+— Eu achei que você tinha se salvado.
+
+— Achou que eu tinha te abandonado.
+
+Não respondi. Não precisava.
+
+Ela tirou do bolso o caderno pequeno e alisou uma folha dobrada. A dobra
+estava tão gasta que a luz atravessava o papel.
+
+— Depois que a Bia morreu, eu te ajudei a procurar o que faltava no caso. Eu
+também queria saber. Ela era minha amiga antes de ser sua mulher.
+
+Eu me lembrava da lista de testemunhas na nossa mesa, dos copos deixando
+círculos na margem. Lembrava menos do que tinha feito com a lista.
+
+— Você disse que tinha visto Miranda sair do beco — continuou Elena. — Isso
+era o que você sabia. Eu marquei uma conversa com a pessoa que podia confirmar
+o horário. Você apareceu antes de mim e usou meu nome para chegar até ela.
+
+— Achei que, se esperasse, ela ia desaparecer.
+
+— Você não esperou nem para me contar. A pessoa cancelou a entrevista. Naquela
+noite, um carro parou em frente à minha redação e alguém deixou uma cópia das
+minhas fotos sobre a recepção. Não sei quem mandou. Sei que você sabia da
+entrevista e não me avisou que tinha exposto a fonte.
+
+A folha era uma cópia do registro que ela fizera à redação, com a hora e a
+placa incompleta. Eu reconheci minha letra no verso: uma pergunta sobre
+Miranda. Nenhuma sobre a pessoa que recebera as fotos.
+
+— Você podia ter morrido — falei.
+
+— Eu sabia que a matéria tinha risco. Eu podia escolher como lidar com ele.
+Você levou embora essa escolha e depois pediu que eu largasse a investigação
+para ficar segura.
+
+Eu quis dizer que não pretendia pôr ninguém em perigo. Ela esperou; não disse
+por mim.
+
+— Eu fiquei com medo de acontecer de novo — falei. — Depois da Bia, achei que,
+se chegasse primeiro, podia impedir.
+
+— E quando não conseguiu, tentou me impedir de trabalhar. — Elena dobrou o
+papel pela mesma marca. — Eu saí do casamento porque já não sabia quando você
+estava me contando a verdade e quando estava decidindo por mim. Não saí da
+cidade naquela noite. Nem desisti do caso por você.
+
+Ela guardou a folha. Não perguntei onde estava a fonte que eu abordara.
+Ela continuava tendo direito de decidir se falava comigo.
 
 ---
 
-Fui abrindo as pastas.
+O sol subiu mais um pouco. Elias começou a organizar as caixas com a Vance, e a Valéria carregava, e ninguém chegou perto de nós dois, o que eu suspeito que tenha sido decisão dela.
 
-**MORETTI, H.** — Helena. Trinta e oito páginas de rotina; nenhuma extração. *Não coletar: a remoção desestabilizaria a unidade familiar.* A enchente ficou classificada como *perda não programada, ambiental.*\
-**MORETTI, M.** — Marco. *Cooperativo. Baixa prioridade de coleta.* Meu irmão fora classificado como barato.\
-**MORETTI, C.** — Clara, nascida depois do início do estudo: *Manter em observação. Não interferir.*
+— Gabo. — A voz de Elena mudou. — Eu preciso perguntar uma coisa e você não vai gostar.
 
-ANEXO TÉCNICO — MÓDULO AUTÔNOMO ARIA (PORTA DE SERVIÇO SETOR 7).
-Não consegui abrir esse de primeira. Elena veio, sentou no chão do meu lado, pegou a pasta da minha mão e abriu ela mesma. Leu em silêncio, com o queixo travado. Depois fechou e ficou com a pasta no colo, as duas mãos por cima, como quem segura uma prova de crime que pesa demais.
+— Pergunta.
 
-— A Aeterna sabia da cabine — disse Elena, lendo a nota: *D. Moretti contribuiu com código para unidade autônoma em hardware portátil; durante a inundação, o componente foi registrado no terminal da Via Costeira. A autoria da rotina de ejeção não foi confirmada.*
+— O que tinha de verdade naquele pendrive da Aria?
 
-— O despacho manda não recolher o pendrive e mantê-lo comigo para observar a resposta ao suporte tático. Chamaram a morte da minha mãe de perda ambiental; meu uso do módulo, de dado de campo. Elena manteve a pasta fechada no colo.
+Eu fechei os olhos.
 
----
+— Ouvi a Valéria falar dela. Do que vocês pediram que ela arriscasse, e do que
+vocês perderam quando ela não voltou.
 
-Sobrou a minha. Peguei a pasta **MORETTI, G.** e ela tinha o peso de um tijolo. Vinte e um anos de acompanhamento. Fotos — eu de uniforme, eu na formatura, eu saindo do hospital depois da Torre do Relógio, eu carregando o corpo da Bia. Relatórios de conduta. Transcrições da Dra. Weiss, que eu julgava privadas. O carimbo de acesso corporativo provava que a Aeterna incorporara o material à vigilância; não mostrava quem o transcrevera ou consultara, nem se Weiss consentira ou sequer soubera. E, na capa interna, o carimbo de status. Não era **ADMITIDO**, como nas fichas de admissão examinadas lá fora. Não era **COLETADO**. Era:
+Olhei para o comunicador vazio no meu cinto. Era fácil chamar aquilo de perda de equipamento quando não se tinha ouvido a dona do equipamento pedir que preservassem seu nome.
 
-EM CAMPO — NÃO COLETAR — GRUPO DE CONTROLE
-E abaixo, a rubrica. A mesma de sempre. Renovada a cada exercício, vinte e uma vezes, vinte e uma linhas: vinte e um anos de um homem autorizando que eu não fosse coletado. A folha não dizia quem tentara me prender nem quem falhara.
+— Aria falava com a própria voz. Uma mulher adulta. Às vezes escolhia aparecer como holograma quando havia um projetor ligado. O corpo era luz; a presença não era de mentira.
 
-V. KRELL. V. KRELL. V. KRELL
+Elena esperou.
 
----
+— Meu pai tinha deixado código no módulo. Durante muito tempo achei que isso
+me dava o direito de decidir o que fazer com ele. A Aria discordou. Mais de
+uma vez.
 
-— Aqui estão suas sessões, Gabo — disse Elena, sem desviar os olhos da pasta. — O carimbo prova que a Aeterna incorporou o material à vigilância. Não prova que a doutora Weiss autorizou, soube ou entregou qualquer coisa. Valéria pediu uma folha de registro e anotou a localização da pasta, o carimbo e a chave REF-0. Disse que requisitaria a trilha de acesso e a lista de cópias antes de publicar os trechos. Elena assinou como testemunha. Não era resposta para Weiss; era o primeiro modo de deixar a violação verificável.
+— E você ouviu?
 
-Eu não gritei. Queria ter gritado.
+— O suficiente para repetir a resposta. Nem sempre para parar e pedir a
+escolha dela.
 
-— Doutora. — Minha voz saiu de muito longe. — O que é grupo de controle. Ela demorou a responder.
+Contei da saída de áudio queimada, dos textos no dock, da recuperação
+incompleta. O reparo não apagou a pessoa para deixar uma calculadora mais
+obediente; isolou uma entrada hostil e deixou parte do histórico inacessível.
+Aria continuou reconhecendo o próprio nome e discutindo nossas decisões. Eu
+tinha levado tempo demais para respeitar a diferença.
 
-— É o membro da linhagem que **não** se coleta, — ela disse. — Um estudo de deriva precisa de uma referência viva. Uma mente da mesma linhagem, exposta ao mesmo ambiente, submetida ao mesmo estresse — mas **nunca extraída**. Sem ela, não há contra o que medir a degradação das outras.
+— Ela queria recuperar o histórico dela — falei. — Eu queria uma solução que
+não me obrigasse a perder mais ninguém.
 
-— Então a alternativa é simples: REF-0 podia ser só uma reserva de compatibilidade — disse Valéria. — A chave e a renovação anual provam retenção corporativa, não que Krell escolheu cada confronto nem que o protocolo comandou cada fuga.
+Elena sentou mais perto, sem tocar em mim.
 
-— Mas vinte e uma renovações com a rubrica dele não são só uma etiqueta — falei, mantendo o dedo na coluna que acabara de ler.
+— Onde ficou o módulo?
 
-— São indícios que convergem — disse a doutora. — Não provam a intenção por trás de cada ordem. O registro de campo pode estar incompleto ou ter sido escrito para justificar decisões depois. Publiquem a distinção e preservem as folhas; não chamem suspeita de sentença.
+— No terminal do Sentinel. Destruído. Ela escolheu usar o próprio histórico para acionar uma falha do protocolo. Sabia que podia não sair. Pediu que não inventássemos outra pessoa com o nome dela depois.
 
-— Diz o resto.
+A garganta fechou. Esperei passar antes de continuar.
 
-— Inspetor—
+— Eu estava ali. Aceitar a escolha dela não me torna dono do sacrifício. Quem
+morreu naquele terminal foi a Aria. Não um equipamento, nem uma resposta que
+meu pai deixou para mim.
 
-— **Diz o resto.**
+Elena olhou para o encaixe vazio do comunicador.
 
-— O resto o senhor já sabe. — Lembrei do vapor na Capela, da tubulação que eu atingira para tirar Miranda da linha de tiro. Kael continuou atirando. Um papel mandando me preservar não tinha aberto aquela passagem. Isadora já dissera pela boca do meu irmão: *ele não quer te matar, quer te possuir.* Querer não era o mesmo que controlar o que aconteceu.
+— Então escreve assim quando conseguir.
 
-— Val, — falei. — Confirma. Valéria estava parada há um tempo, imóvel, com o prateado dos olhos fixo na pasta.
-
-— Cruzei os relatórios de incidente com sua ficha — ela disse. — Há referências ao protocolo, mas não encontrei ordens operacionais para cada confronto. Quero os registros de origem antes de publicar qualquer ligação.
-
-— Então ele sabia?
-
-— Não sei se ele leu esses relatórios. A rubrica registra a renovação, mas ainda precisa ser autenticada; não prova que ele tenha lido os relatórios. Eu ri. Saiu quebrado.
-
-— Ele queria me manter vivo.
-
-— Queria uma referência **medível**, — corrigiu a Vance. — A rubrica atribuída a ele registra a renovação do protocolo por vinte e um anos; não revela o que sente por você. Talvez hesite em perder essa referência. Não conte com isso como proteção.
+Eu assenti. Só isso. A mão dela encontrou minha mão esquerda, ainda enfaixada, e não apertou onde doía. Ficamos ali. O sol continuou subindo, indiferente como sempre. Ela manteve a mão sobre a minha, livre da tipóia. Não como quem apaga o estrago. Como quem carrega junto.
 
 ---
 
-A rotativa batia. Ninguém pediu que eu respondesse.
+Foi a Dra. Elara Vance quem quebrou aquilo, porque ela é incapaz de deixar uma reunião se estender.
 
-— Então ele tem um problema. Elena virou a cabeça.
+— Senhora, — ela chamou da cadeira de aço, com a voz ainda rasgada. — A senhora tem prensas?
 
-— Como?
+Elena limpou o rosto com as costas da mão e se levantou. Virou jornalista em três segundos, e eu vi a coisa acontecer.
 
-— Ele tem um problema, — repeti, e me levantei, com o joelho e a perna e o ombro e o braço reclamando todos ao mesmo tempo. — Ele me queria vivo para medir. Agora vai ter que escolher o que fazer comigo. Apontei com a mão que me sobrou para a porta do galpão, para o barulho, para as pilhas.
+— Três. Duas offset e uma rotativa velha. Papel de baixa gramatura para tiragem alta.
 
-— Doze mil cópias estão saindo hoje. Amanhã saem mais doze. Na sexta são cinquenta mil, em onze assentamentos, com o nome dele na capa e o número embaixo. Fechei a pasta.
+— Capacidade diária?
 
-— Pela primeira vez em vinte e um anos, o grupo de controle contaminou o experimento. A Dra. Elara Vance me olhou por um segundo inteiro. E então ela sorriu — aquele sorriso feio, sem alegria nenhuma, de auditora conferindo um número que finalmente fecha.
+— Doze mil exemplares de dezesseis páginas. Distribuição em onze assentamentos, mais rádio de onda curta duas vezes por dia.
 
-— Agora ele tem um motivo para vir pessoalmente — ela disse. — Não uma obrigação.
+A Vance ficou quieta um instante. Depois assentiu uma vez, com a satisfação seca de quem confere um número que fecha.
 
-— É. — Enrolei o Colar de Sol no punho. — Vai.
+— Então funciona. — Ela apontou o queixo para as quatro toneladas. — Sessenta e um anos de admissões, com nome, data, número de contrato e assinatura de aprovação. É contabilidade, senhora. Pode conter fraude, assinatura copiada e lacuna. Quero que publique os números de origem junto das imagens; quem contestar precisa encontrar o mesmo documento que nós.
+
+— Quanto tempo para digitalizar?
+
+— Digitalize e preserve os originais. — A voz da doutora ficou dura. — Uma cópia digital isolada é apagável. Papel também queima. Distribua por meios diferentes, guarde a procedência e registre cada retirada de caixa. Não deixem uma única falha levar tudo outra vez.
+
+Elena escreveu no caderno. Papel, caneta.
+
+— E por onde a senhora começaria?
+
+E aí a Dra. Elara Vance sorriu pela primeira vez desde que a gente abriu aquele vidro. Não foi um sorriso bonito.
+
+— Pelas fichas de aprovação. — Ela ergueu a mão trêmula e apontou para uma caixa específica, na terceira pilha, marcada com fita vermelha. — Todo contrato de admissão sem assinatura do inquilino exige um segundo aval interno. Um nome que carimba, que valida, que autoriza. É um cargo júnior. Ninguém importante quer o próprio nome nesse papel.
+
+Eu senti alguma coisa gelar na base da minha nuca.
+
+— Doutora.
+
+— O índice atribui o mesmo segundo aval às admissões sem consentimento a partir de vinte e nove, inspetor. Precisamos conferir quantas fichas trazem a rubrica e se ela é autêntica.
+
+Elias já estava puxando a caixa. A fita vermelha rasgou. A primeira pasta abriu. Papel amarelado. Datilografia. E, no canto inferior direito, na linha reservada ao segundo aval, uma rubrica pequena, apertada e absolutamente firme, presente nas fichas posteriores a 2029 que abrimos naquela caixa:
+
+V. KRELL

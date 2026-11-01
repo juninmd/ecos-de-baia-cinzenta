@@ -1,94 +1,72 @@
 ---
-Título: A Geada Negra
+Título: Ecos na Escuridão
 Data In-Game: Pós-Colapso do Sentinel (Noite Eterna)
-Localização: Dutos Inferiores de Resfriamento, Setor 6
+Localização: Armazém Logístico Corrompido, Setor 6
 Personagens Presentes: Gabo, Valéria, Elias
 ---
 
-# Capítulo 208: A Geada Negra
+# Capítulo 208: Ecos na Escuridão
 
-O duto estreito de escoamento desembocou em um patamar de grade de aço que tremia sob uma corrente de ar polar. Val saiu primeiro e conferiu o patamar. Depois deslizei para a frente, sentindo a chapa metálica áspera arranhar o couro da minha jaqueta, e pousei com o peso todo nos pés. O impacto da órtese direita contra a grade de ferro produziu um estrondo oco, e um choque gélido subiu pelos meus ossos desgastados, travando os dentes na mandíbula.
+O estrondo colossal da ponte rolante desabando ainda reverberava nos meus ossos muito depois que a última viga de aço parou de chiar contra os destroços incandescentes. A escuridão total engoliu o armazém logístico assim que a poeira sufocou os globos de luz âmbar. Sem a visão, o mundo foi reduzido a três sensações primitivas: o ardor cáustico de ozônio queimado na garganta, o gosto amargo de sangue e ferrugem na língua e o pulsar surdo do meu ombro lacerado onde a armação industrial forçava o osso fraturado.
 
-Soltei o ar em uma baforada espessa e branca que rodopiou na escuridão e se dispersou sob a luz da lanterna.
+Tossi com força, cuspindo uma pasta cinzenta no chão invisível. O ar fedia a graxa mineral frita, metal pulverizado e óleo hidráulico vazando aos borbotões de mangueiras estouradas.
 
-— A grade segurou nós dois; não sei o estado da fixação — disse Valéria, já agachada no patamar. Puxou a gola de couro da jaqueta até o queixo e bateu os braços contra o peito. — Mas que diabos de inverno fora de época é esse? Meus implantes de bochecha tão apitando aviso de hipotermia periférica.
+— Valéria? Elias? — chamei, a voz soando como brita sendo moída em um cano seco.
 
-— A placa fala em condensadores — respondi, mancando para liberar espaço na borda. — Não sei o que ainda está funcionando aqui.
+A resposta veio na forma de um clique duplo e o brilho prateado dos dois olhos cibernéticos acendendo-se a seis metros à minha direita. Os fios holográficos da franja de Valéria dançaram contra a escuridão, iluminando seu rosto fino sujo de fuligem e o cano ainda fumegante de sua pistola.
 
-Elias saiu em seguida, apoiando primeiro o pé bom. A bota enfaixada tocou a grade devagar, e ele tossiu antes de conseguir se endireitar. Ele abraçou a própria mochila, tremendo tanto que o feixe de sua lanterna parecia um ponteiro desgovernado nas paredes de concreto.
+— Eu ainda tô de pé, detetive, — a voz dela soou com aquele sarcasmo cortante que me puxava de volta à realidade dos vivos. — E com os dois tímpanos zumbindo feito uma colmeia em curto-circuito. Você não sabe derrubar nada com discrição, né? Tem que ser sempre com quarenta toneladas de aço caindo na cabeça de todo mundo.
 
-— T-tá muito frio... — gaguejou o rapaz, os lábios já adquirindo um tom azulado e doentio. — A gente tá abaixo do nível da rua... devia fazer calor por causa das caldeiras geotérmicas da cidade...
+— Funcionou, não funcionou? — resmunguei, apoiando as costas contra o concreto rachado de uma coluna tombada e soltando o ar devagar.
 
-— Devia se o mundo ainda funcionasse com o manual da prefeitura, garoto, — Valéria disparou, aproximando-se dele e puxando um capuz térmico sobre a cabeça do rapaz com um puxão brusco, mas protetor. — Bate os pés no chão e respira devagar. Se você congelar os dedos aqui, não vai conseguir segurar a chave de fenda quando a gente achar a porta mestra do Setor Seis.
+— Funcionou igual dinamite em loja de porcelana, — ela rebateu, aproximando-se com passos leves que mal faziam barulho sobre a poeira. — Mas admito que a pontaria com a *Caronte* foi quase decente pra um veterano meio cego.
 
-Ergui a lanterna da *Caronte* para inspecionar a câmara. O salão era uma caverna industrial ciclópica, com dutos de seis metros de diâmetro suspensos no teto como colunas gregas tombadas. Mas o metal não estava apenas enferrujado pela Praga de Ferro; estava recoberto por uma substância espessa, escura, aveludada e eriçada de agulhas pontiagudas: a Geada Negra.
+Um gemido abafado ecoou atrás de uma pilha de carcaças de autômatos.
 
-Parecia uma mistura monstruosa de líquen botânico necrótico e cristais de gelo químico, crescendo em ramificações que lembravam veias abertas congeladas no instante do sangramento.
+— Eu... eu tô vivo... — a voz de Elias surgiu entre soluços e tossidas secas. O técnico rastejou para fora do esconderijo, as mãos cheias de graxa preta e as pernas tremendo como varas verdes. — Acho que uma placa de blindagem raspou na minha costela, mas os ossos tão no lugar.
 
-— Olha as paredes, Val, — apontei o cano da arma.
+Valéria apontou o feixe óptico do cyberdeck para o garoto, examinando-o de cima a baixo com um movimento rápido do queixo.
 
-Valéria ergueu o cyberdeck, e a luz azul-esmeralda da tela iluminou seus traços tensos. Os reflexos dos fios holográficos da franja brilhavam pálidos na geada que se acumulava em seus ombros.
+— Você consegue se mover, Elias? Não dá para avaliar suas costelas daqui. Levanta e sacode a ferrugem do casaco porque essa festa acabou de chamar a atenção da vizinhança inteira.
 
-— Leituras espectrais... — murmurou ela, correndo os dedos pelas teclas com precisão rápida, apesar da rigidez do frio. — Parece haver matéria orgânica misturada ao gelo e à corrosão. Não consigo identificar a reação só pelo scanner.
+Apoiei a pinça da armação no chão para me erguer. O pistão instalado por Vasco uivou, e a tração no fixador me arrancou um grunhido. As cicatrizes do Dilúvio repuxavam; a órtese da perna direita estalou antes de travar. A Torre Aeterna caíra meses antes, e as comportas tinham aberto vinte e três dias depois. Nenhuma dessas lembranças me devolvia força. Precisei que Elias prendesse a guia antes de tentar levantar de novo.
 
-— E quem ganhou a briga? — Elias perguntou, esfregando as palmas enluvadas.
+Elias encontrou uma caixa de segurança caída sob os destroços. Dentro havia quatro cartuchos calibre doze ainda lacrados; conferi as cápsulas antes de guardá-los.
 
-— Ninguém ganhou, — ela respondeu com um sorriso sombrio nos lábios roxos. — Pode ser tecido do Jardim preso ao gelo. Precisamos de uma amostra e de análise para saber o que aconteceu aqui. É gelo com dentes biológicos.
+— E os outros três colossos que você pegou nos sensores? — perguntei, ejetando o único cartucho gasto da escopeta. O clique metálico de duas balas novas entrando na câmara ecoou como um metrônomo sombrio.
 
-O cheiro do ar era uma agressão direta às vias aéreas: ozônio estático, gás refrigerante rançoso e carne crua congelada há semanas. Cada inspiração queimava a traqueia como ácido líquido, deixando um travo amargo na base da língua. Minha mão de sucata — a engrenagem forjada por Vasco — começou a chiar; os lubrificantes industriais estavam endurecendo sob a temperatura negativa, forçando os servos a emitirem pequenos estalos de esforço térmico a cada movimento dos dedos.
+Valéria consultou o gráfico de telemetria na tela fosforescente do cyberdeck.
 
-A dor nos ossos fraturados sob as ataduras era profunda e constante, e eu demorava mais a perceber onde terminava o frio e começava o ferimento.
+— Duas das fontes sumiram da leitura depois do desabamento na calha. Podem estar soterradas ou encobertas pelo concreto. Não consigo dizer o que eram nem se pararam.
 
-— Não toquem nessa crosta escura, — ordenei, liderando a marcha pela passarela suspensa de grade perfurada. — Não sabemos o que há nessa crosta, e qualquer corte aqui vai ser difícil de cuidar.
+— E o quarto?
 
-— E a minha bateria tá drenando duas vezes mais rápido com essa temperatura, — Valéria avisou, colando o cotovelo no meu flanco para dividir o calor dos corpos enquanto avançávamos na névoa gélida. — Temos que atravessar essa galeria antes que o deck desligue a interface tática.
+Ela franziu a testa, os lábios se comprimindo em uma linha tensa.
 
-A passarela de serviço estendia-se por mais de oitenta metros sobre um fosso escuro onde tubulações gigantescas pingavam estalagmites negras. Meus passos descompassados — o baque surdo da bota boa e o tilintar agudo da órtese gélida — ecoavam pelo salão silencioso.
+— A terceira se moveu para a bifurcação ao sul e parou. Não sei se percebeu a gente ou o que está fazendo.
 
-Na metade do trajeto, o feixe de luz de Elias parou sobre um nicho de manutenção entre dois tanques de expansão.
+— Máquinas infectadas pela Praga de Ferro não montam emboscada estratégica, Val, — contestei, mancando em direção ao centro do galpão.
 
-O rapaz soltou um soluço sufocado e recuou um passo, batendo as costas na grade de proteção.
+— Máquinas padrão da Aeterna não montam, — ela retrucou, iluminando a cratera aberta pela queda do guindaste. — Não sabemos quem montou aquilo nem como escolhe o caminho. A fonte parada continua entre nós e a escada; eu não contaria com ela ficando lá.
 
-— O que foi agora, Elias? — Valéria perguntou, virando a lanterna na direção do nicho.
+A lanterna de Valéria varreu o chão de concreto estilhaçado.
 
-A luz revelou três figuras sentadas em semicírculo sobre caixotes de ferramentas de metal.
+Onde o guindaste colossal havia esmagado o monstro de sucata, o impacto descomunal abrira uma abertura na laje inferior, sobre a tampa de inspeção do antigo duto. O chão cedera sob o peso combinado de quase sessenta toneladas, revelando uma garganta escura e vertical de cinco metros de diâmetro. Do interior da abertura subia uma lufada de ar úmido e congelante, carregando o cheiro inconfundível de lodo químico, água estagnada e resíduos de amônia.
 
-Eram três técnicos da Aeterna Corp, ainda vestidos com os macacões cinzentos de manutenção e as botas pesadas de isolamento elétrico. Os macacões eram antigos e o frio preservara os corpos. Não sabíamos quando morreram, nem se todos tinham chegado juntos. Seus braços estavam entrelaçados, as cabeças encostadas nos ombros uns dos outros, em uma tentativa desesperada e final de compartilhar o calor de corpos que a corporação abandonara para morrer.
+— O portão de carga do fundo virou um muro de escombros intransponível, — disse Elias, aproximando-se com a lanterna fraca de seu cinto de ferramentas e engolindo em seco. — Mas isso aqui... isso é um duto de escoamento industrial da rede secundária. Ele corta por baixo do Armazém e desemboca nos dutos de resfriamento do Setor Seis.
 
-Mas o horror não era apenas a morte; era a assimilação. A Geada Negra havia brotado dos implantes cranianos e dos soquetes neurais dos cadáveres, unindo os três operários ao concreto da parede por meio de cordões espessos de fibras pretas cristalizadas. A ferrugem alaranjada da Praga comia as ferramentas em seus cintos, enquanto os rostos congelados mantinham expressões de um desespero tranquilo e sem saída.
+— É a nossa única descida, — concluí, encarando o abismo escuro.
 
-Elias se agachou com cuidado, poupando o tornozelo. No punho de um dos macacões havia um retalho de tecido azul, preso por um nó. Ele olhou para o próprio casaco, onde uma tira igual prendia a lanterna.
+— Vocês querem mesmo descer nisso? — Elias perguntou, os olhos dilatados de pavor. — Parece uma garganta feita pra engolir gente e nunca mais cuspir.
 
-— Na drenagem a gente marcava assim quando dividia turno — disse. — A cor mudava de equipe para equipe. Não sei se eram da minha.
+— É uma garganta de concreto, Elias, — Valéria respondeu, ajustando a alça do cyberdeck nas costas com um estalo firme. — Não consigo garantir que ela seja segura. Mas podemos verificar os apoios antes de descer.
 
-Val iluminou o peito do técnico mais próximo. A fotografia do crachá estava encoberta pela crosta; ela não tentou arrancá-lo.
+Ela se virou para mim, os olhos prateados faiscando sob o feixe azul da lanterna. Havia uma determinação feroz naquela mulher, a mesma que nos mantivera vivos depois que o drive de Aria foi sacrificado nos terminais da diretoria.
 
-— Posso guardar a posição e as marcas da roupa. Nome, daqui, eu não consigo ler.
+— Eu vou na frente pra escanear os degraus de serviço na parede do duto, — disse ela. — Você cobre a retaguarda, Moretti. Se a perna travar de novo, me avisa antes de despencar.
 
-Elias tirou o mapa dobrado do bolso e abriu-o sobre o joelho. Ele procurou espaço no verso, como fazia na lista de desaparecidos que datilografara na subestação. A ponta do lápis quebrou quando tocou o papel frio. Ele a virou e escreveu com o pedaço que restou: *três, galeria dos condensadores, junto aos tanques*.
+— Eu não caio, garota, — respondi com um meio-sorriso amargo. — Detetive velho morre de teimosia, não de queda.
 
-— Não sei se eles estão na sua lista — falei.
+— Então para de conversar e mexe essa carcaça enferrujada, — ela rebateu, sentando na borda do fosso e deslizando com agilidade para dentro da escuridão.
 
-— Eu também não. Por isso vou levar o lugar.
-
-Olhei para a passagem adiante. A bateria de Val caía e o tornozelo de Elias mal cabia na bota. Eu podia dizer que não tínhamos tempo. Na ponte, eu já tinha usado a falta de tempo como uma arma.
-
-— A gente precisa sair do frio — falei. — Você consegue terminar andando?
-
-Elias não fechou o mapa.
-
-— Você vai me deixar aqui se eu disser que não?
-
-A pergunta veio sem grito. Foi pior por isso. Ele esperou olhando para minha mão na armação, não para meu rosto.
-
-— Não — respondi. — Eu ameacei você. Não devia ter feito aquilo.
-
-Val conservou a luz sobre o nicho. Elias terminou a anotação, dobrou o papel pela marca antiga e o guardou dentro da jaqueta. Não disse que estava tudo bem.
-
-— Agora consigo — falou. — Mas não puxa ninguém pelo colarinho de novo.
-
-Fui à frente até a grade seguinte. Val fotografou os três e o número dos tanques, incluindo a posição em que estavam; guardou a cópia no deck. Elias parou ao meu lado e apontou para a bifurcação acima da passarela.
-
-— A placa antiga diz que a subida é por ali. Se ainda estiver aberta, a gente sai deste frio. Se não estiver, pelo menos já sabemos voltar até este nicho.
-
-Desta vez esperei que ele começasse a andar.
+Elias foi em seguida, descendo degrau por degrau com as mãos coladas aos grampos de ferro chumbados na parede curva. Coloquei o cano da *Caronte* sob o braço bom, apoiei a mão de aço de Vasco na borda escorregadia do concreto e iniciei a descida para o duto de escoamento. O ar frio da tubulação me envolveu como uma mortalha úmida, sepultando o barulho do galpão sob camadas infinitas de silêncio e pedra.

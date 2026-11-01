@@ -8,7 +8,7 @@
 * **Cabelo:** Ralo e grisalho, penteado de lado sobre a calvície, sempre suado na raiz.
 * **Olhos:** Pequenos, castanhos, afundados em bolsas de cansaço — mas que registram tudo, como um arquivo que ninguém sabe que está sendo alimentado.
 * **Marcas Distintivas:** **Palito de dente permanente no canto da boca** e manchas azuis de fita de máquina de escrever nas pontas dos dedos. Respiração pesada e audível. Cheiro de talco e papel velho. No fim, a pele amarelada da falência hepática.
-* **Vestuário:** Camisa social de manga curta amarrotada, sempre com suor nas costas, suspensórios largos sobre a barriga, gravata frouxa. Distintivo de latão fosco (até o Capítulo 110).
+* **Vestuário:** Camisa social de manga curta amarrotada, sempre com suor nas costas, suspensórios largos sobre a barriga, gravata frouxa. Distintivo de latão fosco (até o Capítulo 112).
 * **Equipamento:** Máquina de escrever Olivetti verde (que ele carrega fisicamente pela cidade em fuga) e revólver .38 de cano curto que ele quase nunca saca.
 * **Prompt Visual:** a heavy-set balding 45 year old man with a big belly, thinning grey hair, small tired brown eyes in dark bags, a wooden toothpick in the corner of his mouth, sweat-soaked wrinkled short-sleeved shirt, wide suspenders, brass police badge
 * **Gostos/Traços:** Reclamar da falta de ar-condicionado como quem reza. Café com açúcar demais. Sabe onde está cada papel de cada caso dos últimos vinte anos, sem índice.
@@ -20,9 +20,9 @@
 
 * **Partes I-VII:** Burocrata ineficiente que atrapalhava Gabo com papelada.
 * **Parte XIV:** Foi reintegrado por Vilar. Sua obsessão por procedimentos e arquivos físicos tornou-se vital para a administração da polícia após o colapso dos computadores.
-* **Capítulo 105:** Testemunha o retorno de Dante, que reativa sua máquina de escrever elétrica e os sistemas da delegacia.
-* **Capítulo 106:** Torna-se o braço direito executivo de Dante, sobrecarregado pela velocidade de processamento do novo Comandante.
-* **Capítulo 110:** Abandona o distintivo e foge para o subsolo com a resistência. Torna-se fugitivo procurado pela Aeterna.
-* **Atualidade:** Falecido 150. Ferimento no ombro, cuidados tentados por Nise 124 e tentativa de transporte 125 interrompida 126. Prancha, cintas e guincho 141–145. Tentam reanimá-lo 150; registram nome e localização 151. Sem garantia de diagnóstico hepático ou previsão exata da morte.
+* **Capítulo 107:** Testemunha o retorno de Dante, que reativa sua máquina de escrever elétrica e os sistemas da delegacia.
+* **Capítulo 108:** Torna-se o braço direito executivo de Dante, sobrecarregado pela velocidade de processamento do novo Comandante.
+* **Capítulo 112:** Abandona o distintivo e foge para o subsolo com a resistência. Torna-se fugitivo procurado pela Aeterna.
+* **Atualidade:** Falecido 152. Ferimento no ombro, cuidados tentados por Nise 126 e tentativa de transporte 127 interrompida 128. Prancha, cintas e guincho 143–147. Tentam reanimá-lo 152; registram nome e localização 153. Sem garantia de diagnóstico hepático ou previsão exata da morte.
 
 ---

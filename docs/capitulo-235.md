@@ -1,124 +1,150 @@
 ---
-Título: O Lado B
-Data In-Game: Sétima madrugada na Velha Baía
-Localização: Subestação Orla Norte em Chamas, Velha Baía
-Personagens Presentes: Gabo, Valéria, Elias, Elena
+Título: O Justo
+Data In-Game: Quinta madrugada na Velha Baía
+Localização: Pátio Externo, Velha Baía
+Personagens Presentes: Gabo, Valéria, Elena, Anselmo Braga
 ---
 
-# Capítulo 235: O Lado B
+# Capítulo 235: O Justo
 
-O som do rádio chegou antes da fumaça.
+Não dormi. Passei a noite no galpão, entre as pilhas do arquivo, com a lamparina baixa e uma pasta aberta no colo que eu não estava lendo. **MORETTI, G. — EM CAMPO — NÃO COLETAR — GRUPO DE CONTROLE.** Uma caixa registrava anos de vigilância; lá fora, um homem amarrado numa rede dizia que eu escolhera o que fiz numa terça-feira, sozinho. Eu queria que o arquivo explicasse aquela escolha. Não explicava. A corporação tinha me observado, e eu tinha plantado a faca mesmo assim.
 
-A cinco quilômetros da costa, enquanto o jipe a diesel de Elias subia aos trancos pelas pistas esburacadas da Orla Norte, o rádio de painel chiou, estalou e explodiu na voz limpa da Dra. Vance. Não era apenas no nosso carro. Pelas janelas das oficinas abandonadas e dos casebres de estivadores, pontos de luz amarela acendiam na escuridão. Velhos rádios de pilha, alto-falantes de doca, comunicadores civis sintonizados na frequência de emergência.
+---
 
-Naquela parte da orla, havia gente acordando para ouvir os nomes de seus carrascos.
+A Elena me achou às quatro. Sentou no chão de novo, do mesmo jeito, e não trouxe copo dessa vez.
 
-— O transmissor entrou em regime de ressonância — disse Valéria, debruçada sobre o para-brisa trincado. Os sensores óticos dela refletiam o clarão avermelhado que tingia a linha do horizonte. — O sinal está distorcendo e perdendo potência. Não consigo medir a saída do transmissor daqui.
+— Eu vou fazer, — falei.
 
-Quando dobramos a curva do quebra-mar, vimos a carcaça da subestação.
+— Eu sei.
 
-A ala de potência tinha desabado. A sala de transmissão ainda estava de pé, separada pela parede corta-fogo. O que restava era uma cratera incandescente de metal e alvenaria retorcida, cuspindo labaredas azuis de óleo isolante contra o céu de chuva. A explosão do banco de capacitores havia arrancado a ala oeste como quem corta uma lata de sardinha. Três veículos blindados da força de contenção da Aeterna estavam reduzidos a carcaças de aço negro, com os pneus queimando em poças de borracha líquida.
+— Você não vai tentar me impedir?
 
-Os drones sentinelas jaziam espalhados pelo cascalho como besouros pisoteados. Nenhum deles operava. A perda do alimentador derrubara os sentinelas ligados àquela subestação. Não sabíamos quantos outros continuavam operando além da orla.
+— Vou continuar tentando — disse. — O abrigo respondeu. Podemos manter a guarda por dois dias. Pode dar errado, mas existe essa saída. Você está escolhendo não esperar.
 
-Elena havia cumprido o que prometeu: ela mantivera a transmissão tempo bastante para alguém repeti-la.
+— Ele pode fugir.
 
-— Para o carro, Elias — ordenei, batendo com a mão esquerda na chapa da porta.
+— Pode. Não sabemos que vai. E uma ameaça não torna verdadeiro tudo que ele diz sobre o futuro. Ela olhou para mim.
 
-O freio cantou no cascalho úmido. Esperei Elias parar e me ajudar a descer. A urgência não destravava o joelho.
+— A única coisa que eu vim pedir é que você não minta pra si mesmo sobre o que isso é.
 
-A dor no meu ombro foi uma facada que me fez perder o fôlego, mas forcei a perna direita a avançar, arrastando a órtese travada entre vergalhões retorcidos e cacos de vidro blindado. O ar fedia a borracha queimada, óleo isolante e cabelo chamuscado. Um calor abafado, quase vulcânico, subia das grelhas de ventilação abertas.
+— Como assim?
 
-— Gabriel — a voz de Valéria veio atrás de mim, mecânica e compassada. — Leitura de radiação térmica no piso de comando: setenta e oito graus. Risco de colapso estrutural do teto.
+— Você vai matar um homem desarmado e imobilizado. — A voz dela não tinha julgamento; tinha exatidão, que é pior. — Isso tem um nome, e o nome não é justiça, e não é legítima defesa, e não é execução de sentença porque não existe sentença. Você diz que vai proteger os outros, mas está recusando uma custódia possível porque não aceita o risco. Eu não vou chamar essa recusa de necessidade. Continua sendo um assassinato.
 
-— Fica atrás, Val.
+Eu fiquei quieto.
 
-A comporta de aço marítimo estava arrancada de suas dobradiças, tombada sobre um monte de escombros de alvenaria.
-
-Entrei na sala de comando.
-
-A fumaça preta acumulava-se no teto, mas a chuva fria que descia pelo rombo da laje atravessava a fumaça sem torná-la respirável. Valéria me passou o equipamento de resgate do jipe antes de entrarmos. No centro do recinto, o console de baquelite verde continuava brilhando com relés incandescentes, sustentando o sinal que subia para a torre como um coração artificial teimoso.
-
-Apoiada na base do transmissor, sentada sobre o piso de borracha alagado, estava Elena.
-
-A *Caronte* repousava ao lado de sua coxa, com a culatra aberta e dois cartuchos deflagrados fumegando no cascalho — a mesma arma que ela havia empunhado na Torre e que eu carregava desde o Dilúvio. A jaqueta verde-oliva estava empapada de um vermelho escuro e pesado que escorria até o chão, colorindo a poça de água salobra em que ela descansava as pernas esticadas.
-
-Ela não estava se mexendo.
-
-O queixo estava caído sobre o peito. As mechas do cabelo castanho claro estavam coladas na testa molhada de suor e fuligem. Lembrei-me da carta que ela me deixara antes de cruzar o perímetro, quando prometera levar a verdade para fora da cúpula para que os arquivos nunca morressem. Em sua mão direita, apertada contra o peito com os nós dos dedos brancos de esforço, repousava o gravador de microcassete de plástico cinza.
-
-Caí de joelhos ao lado dela.
-
-O impacto do cascalho estourou a dor no meu menisco remendado, mas eu não senti nada além do frio repentino que tomou minha nuca.
+— Se você chamar de outra coisa, — ela continuou, — daqui a dez anos você vai fazer de novo com menos cuidado. É assim que começa. Você mesmo me contou como começa.
 
 — Elena.
 
-Estendi a mão esquerda e toquei a lateral do pescoço dela, logo abaixo da linha da mandíbula suja de carvão. A pele ainda guardava o calor da sala em chamas, mas não havia pulso. Apenas o silêncio liso e absoluto de quem cruzou a linha sem retorno.
+— Fala.
 
-Valéria ajoelhou-se do outro lado. Os dedos da mão direita de Val tocaram a carótida de Elena por alguns segundos antes de conferir o monitor portátil de resgate.
+— Escreve. — Eu olhei para ela. — O que eu fiz com a faca de catorze anos atrás, com Éder rendido na Avenida da Indústria, e o que eu acabei de dizer. Se eu matar o Braga, escreve isso também. Põe meu nome e a data na tiragem sobre o Krell. Ela levou um tempo.
 
-— Sem sinais de circulação detectáveis nesta avaliação. Hora em que a encontramos: quatro e vinte e sete — declarou Valéria. Houve uma pausa incomum na modulação de sua voz sintética. Ela interrompeu a frase para respirar e olhou para mim antes de continuar. — Os ferimentos balísticos e a perda de sangue são compatíveis com choque hipovolêmico; não posso determinar a causa clínica sem exame. O transmissor ainda opera, mas está falhando. Vamos tirar os dois daqui.
+— Você tem noção do que isso faz com você?
 
-Atrás de nós, Elias tirou o boné de estivador da cabeça e deu dois passos para trás, encostando-se na parede de concreto descascada.
+— Tenho. — Levantei, e o joelho reclamou. — É o que a Bia pediu numa lanchonete da Rua Ferrugem e eu não fiz. A prensa registra o que fiz. Não substitui eu responder por isso diante de gente que possa me julgar. Se estamos construindo um tribunal, eu não posso escolher que ele só sirva para Krell.
 
-Fiquei olhando para o rosto dela.
+---
 
-Elena parecia mais jovem assim, sem a tensão que repuxava os cantos de sua boca toda vez que ela olhava para as minhas cicatrizes ou conferia o nível de água nos porões. Não havia horror na expressão dela. Havia apenas uma determinação teimosa, petrificada no formato de seus lábios entreabertos.
+Fui ao portão às cinco e vinte, com o céu ainda cinza. Ele estava acordado. Acho que ficou acordado a noite toda também, do mesmo jeito, olhando para o mesmo céu de lados opostos de uma rede de carga.
 
-Eu não sabia tudo o que acontecera ali dentro. Ela tinha chegado ao transmissor e a voz da doutora ainda saía dos rádios. O resto estava espalhado pela sala, entre os cartuchos e os estilhaços.
+— Bom dia, Sr. Moretti.
 
-Valéria voltou com Elias e uma lona de resgate. Ele recolheu a Caronte; Val conferiu a coronha antes de levá-la ao jipe. Prendemos Elena na lona e a levamos para fora, devagar, afastando-nos da parede ameaçada. Eu quis carregar mais peso do que podia; Elias segurou a outra ponta quando meu joelho cedeu. Só no jipe, com a porta fechada contra a chuva, puxei o gravador de microcassete de seus dedos.
+— Bom dia, Braga. Ele reparou na minha mão. Eu estava com a *Caronte* apoiada no ombro pela alça, porque com o braço direito quebrado na tipóia não dá para carregar de outro jeito.
 
-A carcaça plástica estava quente ao toque, marcada com a impressão digital de sangue que ela havia deixado ao pressionar o botão de parada. O contador marcava poucos minutos de gravação. O transporte tinha parado.
+— Ah, — ele disse. E foi só isso. Um "ah" pequeno, de quem confere uma encomenda que chegou. A Valéria estava na passarela. Antes de eu sair, ela tinha me pedido para entregar a arma e esperar a custódia. Eu recusei. Ela avisou Elena pelo rádio e ficou lá em cima, olhando para mim; se atirasse ou avançasse, arriscaria um disparo contra os trabalhadores que vinham pelo corredor. Agachei ao lado dele.
 
-Desconectei o pequeno fone de ouvido de plástico que vinha enrolado no corpo do aparelho. Encaixei o fone no ouvido direito; o esquerdo já não me entregava aquela voz inteira.
+— Antes eu quero dizer duas coisas.
 
-Apertei o botão de rebobinar. O zumbido agudo das engrenagens plásticas durou quinze segundos.
+— O senhor tem o meu tempo.
 
-Parei. Apertei o *PLAY*.
+— A primeira. — Respirei. — Eu não vou dizer que fiz certo há catorze anos. Eu fiz errado. Não errado de detalhe, não errado de procedimento: errado. Eu tinha razão sobre você e eu fiz errado assim mesmo, e as duas coisas cabem juntas, e eu levei catorze anos para conseguir dizer isso em voz alta.
 
-O estalo característico do cabeçote magnético soou no meu tímpano, seguido por um ruído de fundo ensurdecedor — o rugido dos maçaricos corporativos cortando a porta, o alarme de emergência da subestação uivando em dois tons e o chiar contínuo da alta tensão da antena.
+Ele ficou muito quieto.
 
-Depois, a respiração de Elena.
+— A segunda. — E essa foi mais difícil. — Você está errado sobre a sua filha.
 
-Curta. Quebrada por uma tosse molhada.
+— Não me venha—
 
-— Gabriel — a voz dela chegou como se ela estivesse sentada no banco do carona do velho *Cobalt*, numa daquelas noites chuvosas antes do colapso de tudo. — Se você está ouvindo isso, liguei a difusão e isolei a purga no quadro. Não sei quanto vai durar nem se funcionou em toda a linha. Peçam aos assentamentos que retransmitam e preservem as matrizes.
+— Você não perdeu a Marta porque eu tive pressa numa terça. — Falei devagar, porque eu precisava que entrasse. — Você perdeu a Marta porque você matou a mãe dela com uma chave de grifo, no dia vinte e três de agosto, na frente do fogão. Naquele minuto aquela menina ficou órfã de mãe e filha de assassino, e nada do que eu fiz ou deixei de fazer depois muda um grama disso.
 
-Ela tossiu, um som úmido e áspero que fez meu estômago revirar.
+Ele começou a respirar mais rápido. Foi a primeira vez.
 
-— Lado A — ela continuou, recobrando a postura profissional da repórter que nunca errou uma data de arquivo. — A frequência de retorno da chave mestra de Krell é nove-zero-dois ponto quatro. Os registros que separei no galpão indicam um repetidor ligado ao iate executivo no setor marítimo de Ponto Zero. Não confirmam que ele esteja a bordo. Está tudo registrado no minidisc dentro da coronha oca da *Caronte*. Leva isso para a Dra. Vance. Ela sabe como decodificar os contratos de concessão.
+— Eu forjei o inquérito, e isso é meu e eu carrego. — Continuei. — Mas a cadeia era sua. Você mesmo disse. E eu não vou te dar o presente de sair daqui achando que a sua vida foi culpa minha, porque isso é mentira e mentira é exatamente o que a gente está aqui resolvendo.
 
-O disco na coronha. Eu tinha visto aquilo entrar na arma, no galpão, e não tinha perguntado.
+Silêncio no pátio. E aí o Anselmo Braga chorou. Não foi bonito. Não foi digno. Foi um homem enorme e destruído chorando de boca aberta debaixo de uma rede de carga, com os ombros presos, sem poder levar a mão ao rosto, e o som saía dele como coisa arrancada. Levou um tempo.
 
-O som de metal sendo rasgado ecoou na fita. Uma nova rajada atingiu o painel perto do microfone. Elena gemeu; ela começara a gravar já ferida.
+— Eu sei, — ele disse, quando conseguiu. — Meu Deus, o senhor acha que eu não sei?
 
-Silêncio por cinco segundos intermináveis. Eu prendi a respiração, temendo que a gravação tivesse acabado ali.
+— Eu sei que você sabe.
 
-Então, o estalo do interruptor. A respiração dela voltou, mais baixa agora, quase um sussurro contra a membrana plástica do gravador.
+— Eu precisava que fosse do senhor. — A voz falhou de novo. — Se fosse do senhor, dava pra carregar.
 
-— Lado B, Gabriel.
+— Eu sei.
 
-A voz dela amoleceu. Perdeu a armadura de campo, perdeu a dureza das manchetes.
+— Não dá pra carregar sendo meu.
 
-— Eu fui embora porque você usou meu nome sem me contar e depois quis escolher o risco por mim. Eu também tinha medo de ver você morrer devagar. As duas coisas eram verdade. Ter medo não fez de mim uma espectadora, Gabriel. Eu escolhi vir até aqui porque precisava transmitir aqueles nomes. Queria voltar.
+— Eu sei, Braga. Ele fechou os olhos e chorou mais um pouco, e eu esperei, e não tinha absolutamente nada que eu pudesse fazer com aquilo.
 
-Uma pausa longa. O som do sangue pingando nas lajotas da sala.
+---
 
-— Não carregue minha escolha como se tivesse sido uma ordem sua. A culpa pelo que fizeram com Baía Cinzenta não é sua. Isso não apaga o que você fez; você ainda tem que responder por isso. Você nunca foi o grupo de controle do Krell por escolha; você ainda pode decidir o que fazer com aquilo que eles registraram. Não deixa eles te transformarem num número de pasta. Você é o Gabriel Moretti. O homem que me beijava na balsa do cais e que não sabia mentir sobre o preço do pão.
+Quando ele parou, estava calmo. Calmo de verdade — não a calma de balcão, a outra.
 
-Sua voz vacilou, quase apagada pelo uivo final do banco de capacitores.
+— O senhor vai fazer agora?
 
-— O cordão de latão... fica com ele. O número gravado atrás identifica nossa velha caixa postal; a chave está presa no bolso interno da jaqueta. Tem algumas cartas que eu escrevi quando achava que a gente ia envelhecer juntos. Guarda isso. Mas agora... quando o sol nascer, desliga o rádio, Gabriel. Enterra o que precisa ser enterrado. E vai viver.
+— Vou.
 
-O mecanismo rodou em falso no final da fita plástica. *Clack.*
+— Posso pedir uma coisa?
 
-O silêncio desceu sobre o fone.
+— Pode.
 
-Tirei o fone do ouvido devagar. O vento entrava pela janela do jipe, trazendo o cheiro salgado do mar e da chuva.
+— O caderninho está no bolso de dentro. — Ele mexeu o queixo na direção do peito. — Tem nome de gente que eu cobrei nesses três meses, tudo escrito, endereço e data. Nove pessoas. Umas deviam e outras não. — Ele engoliu. — Entrega pra jornalista. Deixa ela escrever tudo. Não tira nenhum.
 
-Aproximei minha mão do peito dela e desatei o cordão fino que prendia o pingente redondo de latão. O metal estava morno do sangue dela. Fechei os dedos ao redor da peça e apertei até que as bordas cortassem a palma da minha mão.
+— Eu entrego.
 
-Não gritei. Não quebrei nada.
+— E o Duarte Falcão é o último da lista, e do lado do nome dele está escrito *"este não devia"*. Faz questão que ela publique essa parte.
 
-Apenas encostei minha testa contra a dela, ali no banco do jipe, sob a lona de resgate, e deixei as lágrimas lavarem a fuligem do meu rosto.
+— Faço. Ele assentiu. Olhou o céu, que estava começando a clarear de verdade, com aquela luz cor de latão que a Velha Baía tem de manhã.
+
+— É bonito aqui fora, — ele disse. — Catorze anos eu esqueci que amanhecia assim. Depois:
+
+— Sr. Moretti.
+
+— Diz.
+
+— Não fecha os olhos.
+
+---
+
+Eu não fechei. Encostei o cano na testa dele, na altura da cicatriz, e ele não desviou, e eu não fechei os olhos, e ele estava me olhando quando eu puxei. O estampido levantou os pássaros do canal inteiro. Foi rápido. Ele não sentiu, provavelmente. E é isso que ninguém te conta sobre executar um homem rendido: não é difícil. É fácil. É a coisa mais fácil que eu fiz naquela semana, mais fácil que carregar caixa, mais fácil que subir a escada do poço, e o corpo faz sozinho, e leva um segundo.
+
+O difícil é o depois, e o depois começa imediatamente. Fiquei ali de joelhos, no cascalho, com um homem morto na minha frente e a arma pendurada na alça, e a única coisa que eu conseguia pensar era que ele estava certo. Sempre pôde. Anos de discurso sobre uma linha que eu já cruzara com a faca plantada e com Éder, e ainda usava para me declarar diferente de Miranda, Kael e Marco — e no fim das contas eu **sempre pude**, e a única coisa que me segurava era não ter aparecido ninguém com uma conta boa o suficiente. Ele apareceu. E eu paguei em um segundo.
+
+---
+
+Tirei o caderninho do bolso dele. Peguei a cinta laranja que ele usou no Duarte, que estava enrolada no cinto, e a catraca de aço, e separei as duas numa caixa identificada, junto do registro de onde encontramos Duarte. Eu não tinha direito de apagar mais uma prova. A Valéria desceu da passarela. Parou ao meu lado.
+
+— Você quer que eu registre a outra saída? — ela perguntou.
+
+— Que saída?
+
+— A custódia no Setor 4. A resposta do rádio, os dois voluntários e a sua recusa em esperar. Você não pode pedir à Elena um relato inteiro e omitir isso.
+
+Olhei para ela. O rosto continuava quase imóvel. Eu tinha confundido falta de inflexão com falta de julgamento.
+
+— Registra.
+
+— Eu pedi que você esperasse e avisei Elena. Não vou fingir que era tarde demais para escolher outra coisa. Eu levantei a cabeça devagar.
+
+— Val.
+
+— Não.
+
+— Val, isso foi—
+
+— **Não**, — ela repetiu. — Ainda não. — E virou o rosto para o galpão, onde a Elena já estava acordando as prensas. — Mas eu registrei.
+
+Ela foi buscar uma pá. E eu fiquei mais um pouco de joelhos no cascalho, ao lado de um homem que eu escolhera matar mesmo depois de receber uma alternativa, e sabendo que Elena podia investigar e publicar a morte dele sem depender da minha permissão. O sol subiu de vez.
+
+Cor de latão velho, indiferente como sempre.

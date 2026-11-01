@@ -76,13 +76,13 @@ a existir pelas escolhas que ela fez desde então?
    precisa mudar o que ela aceita fazer, além de aumentar sua eficiência.
 
 Esses são plantios a escrever, não pistas já publicadas. Capítulos e datas serão
-definidos pela revisão sequencial. O arco deve se completar antes de 167, se o
+definidos pela revisão sequencial. O arco deve se completar antes de 169, se o
 destino atual for mantido; não pressupõe cópia sobrevivente ou ressurreição.
 
 ## Continuidade preservada
 
 O encontro na cabine permanece em 2. A origem já registrada envolve o código
 de Dante e o desenvolvimento próprio de Aria, sem material de Bia Vargas.
-Os danos em 118, o reparo em 125, a falha de voz em 126–133, o reboot de 134 e a
-destruição em 167 permanecem fatos a respeitar na revisão. A personalidade adulta
+Os danos em 120, o reparo em 127, a falha de voz em 128–135, o reboot de 136 e a
+destruição em 169 permanecem fatos a respeitar na revisão. A personalidade adulta
 é anterior às falhas e não depende da história ou da voz de outra pessoa.

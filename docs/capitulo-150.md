@@ -1,69 +1,74 @@
 ---
-title: "Capítulo 150: Peso Morto"
+title: "Capítulo 150: Tensão e Ferrugem"
 Data In-Game: "Pós-Colapso da Usina Prometeu (Noite Eterna)"
-Localização: "Necrópole (Subnível 6.0 - Setor de Purga)"
-Personagens Presentes: "Gabo, Valéria, Aria (Reboot), Rangel (Inconsciente -> Morto)"
-description: "Rangel morre apesar da tentativa de reanimação e do pedido de ajuda. A morte não prova que abandonar o ferido teria sido uma recomendação correta."
+Localização: "Necrópole (Subnível 6.0 - Corredor de Descontaminação / Duto de Ventilação)"
+Personagens Presentes: "Gabo, Valéria, Aria (Reboot), Rangel (Inconsciente)"
 ---
 
-# Capítulo 150: Peso Morto
+# Capítulo 150: Tensão e Ferrugem
 
-A passarela rangia sob os pés de Gabo como os ossos de um gigante doente. Cada passo era uma aposta contra o colapso estrutural, sobre o líquido escuro dos tanques que exalava odores insuportáveis.
+A grade cedeu com um guincho metálico que rasgou o silêncio fúnebre do corredor de descontaminação. Uma chuva de poeira ocre e lascas de ferrugem caiu sobre o rosto de Gabo. Ele piscou, sentindo a ardência nos olhos, mas não desviou o olhar. Acima, após subir pela cinta de manutenção, Valéria já se esgueirava para dentro do duto de ventilação, iluminada apenas pelo brilho fraco e azulado de seus implantes ópticos e pelo LED azul-gelo do pendrive de Aria acoplado ao seu cyberdeck.
 
-Rangel estava mais pesado. Não fisicamente, mas a ausência de tensão muscular em seu corpo tornava cada movimento seu um peso morto gravitacional, preso à prancha que Gabo puxava e Valéria guiava. O chiado irregular de sua respiração se misturava ao som denso do fluido borbulhando lá embaixo, um ronronar rítmico de caldeira fervendo.
+O duto era um tubo estreito de quarenta e cinco centímetros de diâmetro, mal dimensionado para a passagem de um ser humano. O som do metal cedendo sob o peso dela era agoniante.
 
-— Mais rápido — ofegou Gabo. Sua própria voz soava abafada, distante.
+— Val... — a voz de Gabo saiu como um rasgo na garganta seca pelo microfone de lapela. — Vai devagar. Se o teto ceder, eu não tenho como te tirar de baixo do escombro.
 
-A perda de sangue e a exaustão estavam cobrando seu preço. A cada vinte passos, flashes de luz branca estouravam nos cantos de seus olhos, como as lâmpadas de neon defeituosas do Distrito Vermelho antes do Dilúvio. E com as falhas na visão, vinham os gatilhos no olfato.
+— Relaxa, Gabo. — O eco abafado da voz dela desceu pela abertura e chiou no fone dele. — Eu sou leve. O problema é essa ferrugem. Tá esfarelando. Me dê alguns minutos.
 
-O cheiro de cigarro vagabundo. Aquele alcatrão queimado invadindo as narinas, impregnando a alma. O cheiro da morte estagnada de Bia anos atrás.
+Gabo recostou-se na parede de polímero manchado, deslizando até o chão úmido ao lado de Rangel. O inspetor respirava em curtos, engasgados arquejos. A palidez de Rangel assumira um tom translúcido e amarelado sob as luzes falhas de emergência. A sepse estava cobrando seu preço de forma cruel e acelerada.
 
-Gabo afrouxou a mão machucada na cinta. A fumaça não estava ali; Val estava, guiando a prancha pelo metal que rangia. Ele acompanhou o ritmo dos passos dela.
+Pelo canal de rádio ligado ao deck de Valéria lá em cima, Aria continuava transmitindo o que os sensores alcançavam. A voz de emergência não mudava de tom entre o aviso sobre Rangel e o pedido para Val testar os apoios.
 
-No pulso de Valéria, o pendrive de Aria recebia pelo *Phantom V3* a imagem da passarela e o rangido do metal. O canal de voz ainda carregava as limitações do reparo; no visor, ela acompanhava as placas e o cabo de inspeção preso à prancha.
+— *As chapas visíveis estão corroídas,* — declarou Aria. — *A resistência delas é uma incógnita. Val, teste cada apoio antes de avançar.*
 
-— *Alerta Estrutural Iminente,* — Aria anunciou pelo comunicador na gola de Gabo e pelo alto-falante do deck, sem alterar o tom constante. — *O pilar L-4 à frente está visivelmente corroído. Não consigo avaliar quanto peso ele suporta. Não recomendo transferir a carga.*
+Gabo tentou ignorar a voz no ouvido por um momento, fechando os olhos contra a queimação da febre. O cheiro de ozônio e formol irritava suas narinas, e a exaustão acumulada pesava nas pálpebras como chumbo. A cada respiração forçada, a tontura da perda de sangue ameaçava puxá-lo para a inconsciência. Mas apagar ali significava a morte de Rangel e o fim da missão.
 
-— A gente... não tem... outra ponte, porra! — Valéria rosnou, o suor traçando linhas claras em seu rosto sujo de poeira e fuligem. — Continua andando.
+A mão direita não fechou por completo. Gabo apoiou o antebraço na parede e manteve a outra mão livre para a alavanca; se insistisse em apertar a ferida, perderia a força que ainda precisava para abrir a porta.
 
-Eles avançaram mais cinco metros. Então, o som de um trovão subaquático reverberou pelo setor.
+— Val, responde se alguma chapa ceder — Gabo disse ao comunicador, ofegante.
 
-O suporte de aço corroído cedeu com um estalo violento. A passarela inclinou quarenta graus para a direita, soltando detritos no tanque negro que sibilou como se tivesse engolido água no azeite quente.
+— *Um problema de tempo e massa,* — retrucou Aria pelo fone, sem qualquer tom de acusação. — *O curativo do seu antebraço está voltando a molhar e você perde firmeza. O choque vai piorar; quando, eu não sei. O estado interno do Rangel, o sensor não alcança.*
 
-Gabo escorregou, as solas desgastadas não encontrando aderência no metal coberto de umidade ácida. O joelho dele bateu na grade, e a prancha inclinada puxou a cinta em direção à borda.
+Gabo olhou para o curativo de Rangel e depois para a porta. O som da respiração do inspetor chegava entre os ruídos de Val no duto.
 
-Valéria travou a bota num rebite do guarda-corpo e segurou o cabo de inspeção com a mão direita. Gabo agarrou a cinta da prancha, sentindo o vazio nas costas e o bafo morno do tanque na nuca.
+Houve uma fração de segundo de estática no canal, enquanto Aria tentava recuperar o canal adulto sem reabrir a entrada que o transponder atacara.
+— *Eu não tenho um resultado certo para oferecer. Tenho uma imagem parcial e uma companheira do outro lado da porta. Val, confirma que chegou ao piso antes de mexer no painel.*
 
-Sangue e dor. Nenhum traço de fumaça. Só realidade bruta.
+Lá em cima, o som de Valéria rastejando tornou-se mais lento e mais ruidoso. O atrito das calças de couro contra o metal corroído preenchia o ambiente.
+— Puta que pariu... — a voz de Valéria chegou abafada. — Essa poeira... é como respirar vidro moído.
 
-— Puxa! — berrou Gabo, ignorando a visão turva que ameaçava engoli-lo.
+— Falta muito? — Gabo perguntou, a ansiedade injetando um breve lampejo de adrenalina em seu sistema nervoso.
 
-Acoplado ao pulso trêmulo de Valéria, o pendrive de Aria media a deformação elástica do metal através do laser do deck. Ela não ofereceu encorajamento; ela analisou os números.
+— Cheguei no fim da curva. O duto termina aqui, em cima da eclusa. Vou tentar abrir a grade de saída.
 
-— *A cinta está rasgando na borda da chapa,* — declarou a voz sintética perfeita bem ao lado das mãos de Valéria. — *A cinta está presa do lado da placa que cedeu. Se soltarem essa ponta e usarem o cabo de inspeção, a prancha deixa de puxar vocês para a borda.*
+O som de pancadas surdas ecoou pelo tubo. Uma, duas, três vezes. O metal rangeu dolorosamente. Gabo imaginou a claustrofobia, a escuridão, a impossibilidade de recuar caso algo desse errado. Ele cravou as unhas na própria coxa, mantendo a mente acesa.
 
-— Gabo, solta a ponta presa! — Valéria gritou, mantendo o cabo esticado.
+Mais alguns baques e, finalmente, o som de metal batendo contra o chão de concreto do outro lado.
+— Consegui! — A voz de Valéria agora vinha filtrada por trás do enorme portal de metal travado. Ela havia saltado para o outro lado da câmara.
 
-— *Manter o aperto é estatisticamente suicida,* — respondeu a IA pelo alto-falante do deck. — *A ponta presa está rasgando o tecido. Solte essa cinta, Detetive Moretti, não o homem. Val já passou o cabo pelo outro lado.*
+— A trava, Val. Acha a roda de segurança mecânica e vê se tem um terminal de alívio hidráulico desse lado, — instruiu Gabo, levantando-se com dificuldade, apoiando-se na parede. O teto pareceu girar. Ele apertou a ferida das mãos novamente. *Foco.*
 
-*Solte-o.* A palavra ecoou no comunicador, misturando-se com a lembrança insidiosa do legista no necrotério. *A fumaça não te deixa em paz, Gabo.*
+— Tô nela. Mas Gabo... a ferrugem fundiu o eixo aqui também. Tem uma caixa de manutenção auxiliar do pistão ao lado da roda. Vou espetar a Aria nela!
 
-Gabo soltou a ponta que prendia a prancha à chapa. Val puxou o cabo de inspeção enquanto ele apoiava a armação com a perna boa. Por etapas, conseguiram trazer Rangel ao trecho nivelado junto à comporta, segundos antes de a parte inclinada desaparecer no tanque com um barulho espesso.
+Do outro lado da porta blindada, Valéria arrancou o pendrive de titânio do deck e cravou o conector retrátil na porta de serviço da válvula de pressão.
 
-Gabo caiu de costas no metal firme, ofegante. O peito subia e descia descontroladamente.
+— *A alavancagem manual de uma operadora do peso de Valéria não é suficiente para quebrar o selo da ferrugem sozinha,* — observou Aria pelo comunicador enquanto seu drive aquecia no slot da parede, forçando a purga do óleo velho nos cilindros da porta. — *Injetando pulso de alívio nos freios pneumáticos. A abertura depende de Val soltar a roda e de Gabo aplicar força ao mesmo tempo. A chance de sucesso não cabe numa estimativa.*
 
-Foi quando ele percebeu o silêncio.
+— Cala a boca e queima esse relé, Aria! — Gabo gritou, posicionando-se do lado de cá e encaixando o vergalhão que trouxera na fresta da eclusa, apoiando os ombros contra a barra. — Quando ela soltar a trava mecânica, eu faço alavanca daqui!
 
-O chiado irregular de Rangel, que o acompanhara por todo o trajeto infernal até ali, havia parado.
+Do outro lado, Valéria soltou um grito rasgado, pendurando todo o peso do corpo na roda de ferro enquanto o pendrive de Aria chiava na tomada, liberando um jato de pressão estagnada das válvulas. O som de algo estalando alto dominou o ambiente, seguido por um baque surdo.
+— Girei! Soltei a trava primária! — ela arfou, esgotada. — Empurra, Gabo!
 
-Valéria congelou. Ela se jogou de joelhos ao lado do corpo, tateando o pescoço ensanguentado de Rangel à procura de um pulso que já não existia. Ela não disse nada. Ela começou a tentar reanimá-lo e mandou Gabo chamar pelo rádio. Só veio ruído. Revezaram como puderam sobre o trecho firme da passarela; nenhum deles tinha o equipamento ou o atendimento que Rangel precisava. O tempo correu sem resposta do outro acesso. Quando pararam, a mão direita de Val já não conseguia continuar e o peito do inspetor não voltou a subir sozinho.
+Gabo fechou os olhos e jogou todo o seu peso e sua fúria contra a alavanca improvisada na fresta da porta. A agonia nas mãos queimadas era insuportável, as costas doloridas reclamavam e o exoesqueleto estalava. Do lado de lá, o comando lógico de Aria mantinha os pistões abertos no limite térmico do pendrive, enquanto Valéria mantinha a mão direita na roda e apoiava a esquerda rígida no aro.
 
-No pulso da hacker, o pendrive estabilizou após ler o sensor biométrico do deck.
+O selo hermético rompeu-se com um chiado agudo e o cheiro podre de ar estagnado vindo da câmara adjacente, como uma lufada de exaustão mecânica de décadas de abandono.
 
-— *Não há retorno dos sinais,* — a IA disse friamente pelo alto-falante. — *Registrei os horários da perda do sinal e da tentativa de reanimação. Não vou chamar isso de confirmação de uma previsão. Precisamos decidir como guardar a localização.*
+A pesada porta de metal finalmente cedeu, deslizando sobre os trilhos desgastados e abrindo caminho para a câmara seguinte. Gabo cambaleou para a frente, caindo de joelhos. O oxigênio do outro lado era rançoso, mas era o suficiente.
 
-Gabo olhou para o corpo imóvel de Rangel, o rosto pálido e manchado, os olhos fechados para sempre. Depois, olhou para o pequeno drive piscando no braço de Valéria — a parceira cuja voz ainda saía limitada pelo reparo. A dor nas mãos de Gabo não era nada comparada àquele momento. Ele estava cercado de morte, mas ali, naquele segundo, o luto foi enterrado sob uma fúria gélida.
+Valéria estava encostada no painel, ofegante, as mãos sujas de graxa velha e ferrugem. Ela puxou o pendrive superaquecido de Aria da tomada da parede e o reconectou ao *Phantom V3*.
+— O que tem pra frente? — Gabo perguntou, a visão embaçando.
 
-— Ele não é lixo. — Gabo forçou-se a ficar de pé. — E nós não somos máquinas. A gente lembra dos nossos.
+Aria analisou a sala nova pelas lentes do deck, e o pendrive no pulso de Valéria acompanhou a varredura no mesmo ritmo.
+— *Acesso liberado para o Setor de Purga. Contudo, detecto flutuações termais e decomposição orgânica ativa à frente.*
 
-Mas Gabo sabia, assim que as palavras saíram, que o corpo de Rangel ficaria ali. O Setor de Purga não oferecia lápides, apenas tanques vazios e esquecimento.
+Gabo puxou o ar e engoliu em seco. A trégua havia durado apenas até o outro lado da porta. Com Val, puxou a prancha de Rangel pela abertura, parando quando a tontura voltou. O fim do corredor seria apenas mais um começo para o inferno.

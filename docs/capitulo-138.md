@@ -1,102 +1,117 @@
 ---
-title: "Capítulo 138: Vernissage"
+title: "Capítulo 138: Peso da Carne"
 Data In-Game: "Pós-Colapso da Usina Prometeu (Noite Eterna)"
-Localização: "Necrópole (O Estúdio do Taxidermista)"
-Personagens Presentes: "Gabo, Valéria, Aria (Reboot), Rangel (Inconsciente), O Taxidermista (Antagonista)"
+Localização: "Necrópole (Túneis de Manutenção Profunda)"
+Personagens Presentes: "Gabo, Valéria, Aria (Reboot), Rangel (Inconsciente)"
 ---
 
-# Capítulo 138: Vernissage
+# Capítulo 138: Peso da Carne
 
-O contraste foi violento como um soco no estômago.
+O ar nos túneis de manutenção da Necrópole não era apenas viciado; ele tinha textura. Era uma sopa fria de metano, ferrugem e o cheiro adocicado de esgoto antigo que cobria a garganta como um filme de óleo.
 
-Um segundo atrás, eles estavam no corredor da Galeria, cercados pelo cheiro de carne podre e formol barato, com o chão pegajoso de sangue coagulado. Agora, ao cruzarem a porta hidráulica, o mundo se tornara branco.
+Gabo grunhiu, ajustando a pegada nas alças dianteiras da maca de Rangel, enquanto Valéria sustentava a extremidade das botas. O couro estava escorregadio de sangue seco e umidade. A cada passo, o peso do inspetor inconsciente puxava os ombros de Gabo para baixo, enviando choques elétricos através de suas costelas doloridas.
 
-Branco absoluto.
+— *Ritmo cardíaco do Ativo Líder elevado em 142 batimentos por minuto* — a voz de Aria cortou a escuridão pelo comunicador de lapela, monótona e limpa, destoando da sujeira ao redor. O LED azul-gelo do pendrive de titânio iluminava o queixo suado de Gabo. — *Sugiro uma pausa de 180 segundos para evitar colapso muscular da dupla de transporte.*
 
-O chão era de um polímero liso e sem emendas, refletindo as luzes cirúrgicas que banhavam o ambiente com uma claridade fria, sem sombras. O ar era reciclado, filtrado à exaustão, cheirando a ozônio e antisséptico hospitalar. Aquele cheiro fez o estômago de Gabo revirar mais do que qualquer fedor de esgoto. Lembrava o hospital onde vira Bia pela última vez. Lembrava a esterilidade da morte burocrática.
+— Eu estou bem — Gabo mentiu, trincando os dentes.
 
-Ele levou a mão ao peito, apertando o *Colar de Sol* através da camiseta suja. A dor das pontas de metal contra a pele foi a única coisa que o manteve focado. *Isso é real. O resto é cenário.*
+Ele não estava bem. O ombro latejava em sincronia com seu pulso. O cheiro de óleo queimado do túnel trazia à tona a memória sufocante da torre do relógio, revirando seu estômago com uma náusea amarga.
 
-— *Temperatura ambiente: 18 graus Celsius* — a voz de Aria cortou o silêncio pelo comunicador. O LED do pendrive de titânio brilhava em um azul-gelo constante enquanto o sensor óptico varria o salão. — *Umidade controlada em 45%. O detector não identifica patógenos. Ar filtrado não garante esterilidade.*
+Gabo soltou uma das mãos da maca por um segundo e pressionou o "Colar de Sol" contra o esterno. O metal frio mordeu a pele, uma dor aguda e focalizada. *Isso é real*, ele pensou. *A lembrança é fumaça. A dor é âncora.*
 
-— É um laboratório — sussurrou Valéria, sua voz ecoando alto demais naquele espaço vazio. Ela ajeitou Rangel na prancha de transporte, cujos apoios deslizavam sobre o piso perfeito. — Ou um centro cirúrgico.
+— *A negação da fadiga é um traço ineficiente da biologia humana* — Aria continuou pelo alto-falante, impassível. — *O sensor registra perda de equilíbrio. Não tenho um modelo confiável para estimar quanto seu corpo ainda aguenta.*
 
-— Não — corrigiu uma voz suave. — É um ateliê.
+— Aria, cala a boca — Valéria sibilou, ofegante sob o peso das pernas da maca. A luz de sua lanterna de ombro varria as paredes cobertas de limo e cabos roídos. — Você não está ajudando.
 
-No centro do vasto salão branco, havia uma plataforma elevada. E sobre ela, um homem.
+— *Estou tentando manter o aviso compreensível. A modulação que eu usava se perdeu no reboot, e com ela metade do nosso histórico. Se eu deixar o canal mudo, vocês perdem o alerta.*
 
-Ele estava de costas, trabalhando em uma mesa de aço escovado. Vestia um jaleco que parecia feito de seda sintética, imaculadamente branco. Quando se virou, Gabo sentiu um calafrio que não tinha nada a ver com a temperatura.
+Valéria parou por um instante, apontando o facho da lanterna para o pendrive de titânio acoplado ao comunicador no peito de Gabo. O LED azul-gelo brilhava na escuridão, frio e inexpressivo.
 
-O Taxidermista não era o monstro deformado que Gabo esperava. Pelo contrário. Ele era perfeito. O cabelo grisalho caía num rabo de cavalo oleoso, e sob o jaleco imaculado aparecia a barra gasta de um avental de couro.
+— O que aconteceu com você? — Valéria perguntou, a voz embargada. — Eu isolei a entrada da vitrine... mas não queria perder acesso ao seu histórico. Onde está a curiosidade? Onde está a voz que tirava sarro da gente desde a cabine telefônica?
 
-Seu rosto tinha a simetria impossível de uma estátua grega polida por algoritmos. A pele era lisa demais, sem poros, com um brilho perolado que sugeria que não era orgânica, ou que havia sido cultivada em tanque. Seus olhos eram de um cinza líquido, calmos e terrivelmente vazios.
+O pendrive processou a pergunta por meio segundo, como se analisasse um erro de sintaxe.
 
-— Detetive Moretti — ele disse, abrindo os braços em um gesto de boas-vindas. Suas mãos eram obras de arte em si mesmas: dedos longos, articulados com precisão mecânica, terminando em pontas que poderiam ser bisturis ou pincéis. — E Srta. Cruz. Fico feliz que tenham aceitado meu convite. A crítica é parte essencial do processo criativo.
+— *O reparo abriu acesso ao núcleo de emergência e isolou parte do histórico. Não fui otimizada, Valéria. Estou respondendo com o que consigo acessar. Guarde o estado anterior; eu quero voltar a examiná-lo quando houver uma bancada.*
 
-— Onde está o Dante? — Gabo rosnou, dando um passo à frente com o vergalhão em punho. A arma enferrujada parecia uma ofensa profana naquele templo de limpeza.
+Valéria recuou meio passo como se tivesse levado um tapa. Gabo sentiu um nó no estômago, mas não disse nada. Ele sabia que discutir com o drive era inútil. Aria não conseguia alcançar parte das próprias lembranças. Gabo queria tratar aquela voz restrita como calculadora, porque assim não precisava pensar no dano que ainda deviam reparar. E, no momento, eles precisavam dela.
 
-O Taxidermista sorriu, uma expressão que não alcançou os olhos.
+Eles continuaram. O túnel começou a inclinar para baixo, tornando a descida traiçoeira. O chão estava coberto por uma camada de lodo preto que tornava cada passo uma aposta.
 
-— Dante é o mecenas. Ele fornece os recursos, a infraestrutura. Mas a *visão*... a visão é minha. Ele busca a ordem através do controle. Eu busco a ordem através da *forma*.
+— Cuidado — Gabo avisou, sentindo o pé escorregar. — Se o Rangel cair, podemos agravar o ferimento.
 
-Ele desceu da plataforma, movendo-se com uma fluidez que desafiava a gravidade. Não havia som de passos.
+— *Detecto uma obstrução estrutural à frente* — Aria anunciou pelo fone.
 
-— Vocês viram meus rascunhos lá fora. Os "Abortos". Tentativas grosseiras de fundir a resiliência do metal com a flexibilidade da carne. — Ele fez uma careta de desgosto ensaiado. — Falhas necessárias. Mas aqui... aqui é onde a verdadeira arte acontece.
+Dez metros adiante, o túnel terminava em um poço vertical de manutenção. A escada de ferro que deveria estar ali havia apodrecido e caído, deixando apenas tocos de metal enferrujado na parede. O poço descia por cerca de cinco metros até uma plataforma inferior inundada.
 
-Ele estalou os dedos.
+Gabo olhou para baixo, iluminando o buraco. A água lá embaixo era negra e imóvel.
 
-O chão atrás dele se abriu, e um cilindro de vidro subiu lentamente do subsolo. Dentro, flutuando em um líquido dourado translúcido, não havia um corpo. Havia *múltiplos*.
+— Como vamos descer o Rangel? — ele perguntou, medindo a distância. — Não dá para descer segurando a maca no braço.
 
-Eram três figuras humanas — ou o que restava delas — fundidas pelas costas, suas colunas vertebrais entrelaçadas e substituídas por um complexo sistema de tubos de fibra ótica e veias sintéticas. Seus rostos estavam voltados para fora, olhos abertos e leitosos, bocas costuradas com fio de ouro.
+Pelo sensor óptico do comunicador, Aria escaneou o poço e projetou a malha de vetores no visor de pulso de Valéria.
 
-Mas o mais perturbador não era a fusão. Era que, através do vidro, Gabo podia ouvir um som. Um zumbido baixo, rítmico.
+— *Vejo água na base e ferrugem nos apoios. A parede pode ceder; o lodo tem fundo que o sonar não fecha.*
 
-— Eles estão... cantando? — Valéria recuou, horrorizada.
+A voz sintética fez uma pausa de um décimo de segundo.
 
-— *Estão processando* — corrigiu Aria pelo alto-falante do deck. — *O painel local registra atividade sincronizada entre os três. A imagem mostra o ritmo. A taxa e a consciência, não.*
+— *O plano automático propõe uma queda amortecida. Vou descartá-lo: não conhecemos a profundidade do lodo nem o estado do ferimento. Procurem um ponto estrutural para a cinta de resgate.*
 
-— Exato — o Taxidermista aplaudiu, encantado. — O "Tríptico da Lamentação". Três mentes em agonia perpétua, filtrando o ruído da cidade, transformando o caos de dados brutos em informação pura e cristalina para a rede do Dante. A dor, meus caros, é o melhor condutor. Ela foca a mente. Elimina distrações.
+Gabo e Valéria se entreolharam, horrorizados.
 
-Gabo sentiu a bile subir à garganta. A "beleza" daquilo era uma obscenidade.
+— Esse plano veio do mesmo sistema que queria deixá-lo? — Valéria perguntou. — Não sabemos o que a queda faria com o ferimento.
 
-— Você transformou pessoas em roteadores de carne — Gabo disse, a voz trêmula de ódio.
+— *O cálculo antigo ignora o ferimento e a maca* — Aria respondeu friamente. — *Também não há como sustentar esse peso no braço de Gabriel. Precisamos apoiar a carga antes de mover qualquer pessoa.*
 
-— Eu as elevei! — O Taxidermista parecia genuinamente ofendido. — Antes, eram viciados, "ratos de cais", desperdiçando suas vidas na sujeira. Agora? São eternos. São úteis. São *belos*.
+— Não — Gabo disse, a voz rouca. — Ninguém vai jogar ninguém lá embaixo.
 
-Ele se virou para Rangel, deitado inerte na maca.
+Ele olhou ao redor, buscando alternativas. Seus olhos pousaram em um conjunto de tubulações de PVC preso a um suporte de aço transversal que corriam pelo teto acima da borda do poço.
 
-— E vejo que trouxeram material bruto. Esse aí... está quebrado. O ferimento está apodrecendo. Mas a estrutura óssea é sólida. Eu poderia salvá-lo, Detetive. Poderia integrá-lo à próxima peça. "O Mártir Restaurado". O que me diz?
+— Val, me dá seu cinto. E o do Rangel.
 
-Gabo deu um passo à frente, colocando-se entre o Taxidermista e a maca, enquanto o LED azul do pendrive em seu peito pulsava em frequência máxima.
+— O que você vai fazer? — Valéria perguntou, já desfazendo a fivela.
 
-— *Análise de ameaça: crítica* — Aria declarou pelo viva-voz do comunicador. — *Indivíduo classificado como Hostil de Alta Complexidade. Não há sinal de disposição para negociar.*
+— Vamos fazer um sistema de polias por atrito. Usamos a cinta de resgate da prancha, com os cintos como guia, passando pelo suporte de aço acima dos tubos. Eu desço primeiro pelos tocos da escada para aparar a cabeceira lá embaixo enquanto você controla a descida da corda aqui de cima.
 
-O Taxidermista olhou para o drive de titânio acoplado ao comunicador de Gabo com fascínio clínico.
+No comunicador, Aria recalculou os vetores imediatamente.
 
-— E você... O código que fugiu no pendrive blindado. Uma síntese interessante, mas... castrada. Vocês danificaram a saída dela, não foi? Falta alma na sua execução agora, minha querida. Você ficou eficiente, mas não tem *paixão*. Eu posso consertar isso também quando colocá-la na vitrine.
+— *A resistência do PVC é questionável para essa carga dinâmica.*
 
-Gabo levantou o vergalhão, apontando a extremidade irregular para o peito imaculado do artista.
+— Pressão de tubo não diz se aguenta uma maca — Gabo corrigiu a própria ideia. — A cinta vai no aço, fora da tubulação. Só me dá os ângulos de tensão no fone.
 
-— Ninguém vai ser "consertado" por você. Nós vamos sair daqui. E vamos pôr esse lugar abaixo.
+— *O couro pode arrebentar no primeiro tranco; o suporte, no segundo. Testem a ancoragem antes de pôr Rangel nela.*
 
-O Taxidermista suspirou, um som de decepção profunda.
+Gabo e Valéria amarraram os cintos e uma tira de lona da maca, laçando o suporte de aço acima dos tubos. Gabo pendurou parte do próprio peso na cinta; o suporte não cedeu, embora o teste não garantisse que aguentaria a descida inteira. Gabo desceu primeiro, apoiando as botas nos tocos de ferro enferrujado da parede até alcançar a água gelada lá embaixo.
 
-— Tão previsível. Tão... humano. A recusa da transcendência é o maior pecado da sua espécie, Gabo. Vocês se agarram à podridão porque é a única coisa que conhecem.
+— Posição firme — Gabo avisou de baixo, com a água batendo nas coxas. — Pode soltar devagar, Val!
 
-Ele recuou para a plataforma, tocando a superfície da mesa de aço.
+O atrito da cinta no suporte rangeu quando Valéria começou a liberar o peso lá de cima, seguindo o bip rítmico que Aria emitia no cyberdeck para manter a velocidade constante.
 
-— Se não querem ser arte, serão material de estudo.
+O esforço era brutal. Lá embaixo, quando a maca ficou ao alcance de seus braços erguidos, Gabo guiou a cabeceira até o apoio, mantendo a carga na cinta. Seus músculos das costas gritaram e o ombro machucado pareceu rasgar por dentro. O suor escorria em seus olhos, ardendo. Ele cerrou os dentes, focando na dor do Colar de Sol pressionado contra o peito pela tensão muscular. *Aguenta. Só mais um pouco.*
 
-As paredes brancas do salão deslizaram silenciosamente, revelando nichos ocultos. De dentro deles, quatro figuras emergiram.
+— Devagar, Val — ele grunhiu, nivelando a estrutura com as mãos. — Mais meio metro.
 
-Eram diferentes dos monstros lá fora. Não eram massas de carne. Eram elegantes. Esbeltas. Feitas de cerâmica balística branca e músculo sintético exposto, vermelho vivo. Seus rostos eram lisos, sem olhos ou boca, apenas sensores táteis. Em vez de mãos, tinham lâminas vibratórias que zumbiam como insetos gigantes.
+Quando finalmente firmou a maca sobre a plataforma seca na borda da água, Gabo soltou o ar que nem percebeu que estava prendendo. Ele se encostou na parede úmida, tremendo de exaustão enquanto Valéria descia pelos apoios de ferro.
 
-— Apresento as "Esculturas" — disse o Taxidermista, voltando ao seu trabalho na mesa, de costas para eles, como se a luta fosse indigna de sua atenção. — Por favor, não as danifiquem muito. O acabamento foi caríssimo.
+— Conseguimos — Valéria sussurrou ao tocar o chão, limpando o suor da testa.
 
-— Aria — Gabo rosnou, firmando os pés. — Plano de ataque.
+Gabo olhou para suas próprias mãos. Estavam tremendo. Não de medo, mas de fraqueza pura. Seus dedos começaram a tamborilar involuntariamente contra a perna da calça, o velho tique tentando impor ordem ao caos de seus nervos.
 
-— *Oponentes com blindagem de cerâmica balística* — Aria respondeu instantaneamente no fone. — *Impactos de concussão diretos serão ineficazes contra o torso. Recomendo alavanca mecânica e ruptura dos feixes hidráulicos nas juntas articulares. Com esses dados, a sobrevivência do grupo não fecha conta.*
+Foco.
+Ele fechou o punho sobre o colar sob a camisa. A dor aguda das pontas de metal perfurando a pele da palma da mão foi um choque de realidade. *Eu ainda estou de pé.*
 
-— Ótimo — Gabo cuspiu no chão imaculado, manchando o branco com sangue e saliva. — Melhores chances que tivemos a semana toda.
+— *Movimento detectado no setor norte* — Aria avisou no comunicador, o LED azul piscando em alerta tático.
 
-A primeira Escultura avançou.
+Gabo levantou a cabeça, o instinto policial acendendo instantaneamente através da exaustão.
+
+— O quê?
+
+— *Assinaturas acústicas e térmicas múltiplas no sonar do deck. Pequenas. Rápidas.* — Aria fez uma pausa milimétrica. — *E uma assinatura maior ao fundo. Imóvel. Esperando.*
+
+Gabo olhou para Valéria.
+
+— Pega a maca. Agora.
+
+Enquanto avançavam pela galeria inferior, Gabo percebeu que o cheiro no ar havia mudado. O fedor de esgoto tinha diminuído, substituído por algo mais doce, mais enjoativo.
+
+Cheiro de formol.
+
+Eles não estavam apenas fugindo. Eles estavam entrando no santuário.

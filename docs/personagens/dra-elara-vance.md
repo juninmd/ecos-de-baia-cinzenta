@@ -24,9 +24,10 @@
 
 * **2024:** Consultora externa na empresa do pai, audita o Lázaro. Krell entra como estagiário aos 18.
 * **2041:** Registra a admissão de Dante contra a vontade e conserva a fita. Não é prova de inocência de toda a vida dele.
-* **Capítulos 13-39:** Chefia corporativa, retrato elara_b.png; elara.png é close da mesma fase. Filha de Arthur e irmã de Silas, com acesso ao arquivo. Detida 39.
-* **Capítulos 99-102:** Recado e índice de fila não fornecem localização atual garantida. Transferência posterior leva à Arca Zero; o registro incompleto da fila não demonstra processamento concluído.
-* **Capítulos 218-223:** Encontrada após meses no berço, consciente; depende de retirada assistida. Duas chaves simultâneas são requisito da tranca e símbolo concebido por ela, não prova científica de moralidade dos visitantes.
-* **Capítulos 224-236:** Cadeira de rodas, cabelo prateado e olhos azul-gelo. Não recupera marcha ao despertar. Leva arquivo de 61 anos, embora sua carreira não tenha 61. Confere amostra e índice 227; lê a perda de Arthur 233 e recusa absolvição. Preserva testemunho de Elena e continua viva 236.
+* **Capítulos 13-40:** Chefia corporativa, retrato elara_b.png; elara.png é close da mesma fase. Filha de Arthur e irmã de Silas, com acesso ao arquivo. Detida 40.
+* **Capítulos 101-104:** Recado e índice de fila não fornecem localização atual garantida. Transferência posterior leva à Arca Zero; o registro incompleto da fila não demonstra processamento concluído.
+* **Capítulos 220-225:** Encontrada após meses no berço, consciente; depende de retirada assistida. Duas chaves simultâneas são requisito da tranca e símbolo concebido por ela, não prova científica de moralidade dos visitantes.
+* **Capítulos 226-240:** Cadeira de rodas, cabelo prateado e olhos azul-gelo. Não recupera marcha ao despertar. Leva arquivo de 61 anos, embora sua carreira não tenha 61. Confere amostra e índice 229; lê a perda de Arthur 236 e recusa absolvição. Preserva testemunho de Elena e continua viva 240.
+* **Capítulos 245-251:** Nomeia-se defensora de Gabo "por nomeação própria", aceita pela Mesa; "Defender não é absolver" (245, 254). Pergunta a Gabo se havia outra via e por que não a usou (249). Lembra a Krell o memorando de 2024 que ela leu antes da diretoria (251).
 
 ---

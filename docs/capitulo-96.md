@@ -1,150 +1,145 @@
 ---
 layout: doc
-title: "Capítulo 96: A Grande Convergência"
-description: "A ação alcança controladores conectados e danifica a saída de Aria. O resultado não comprova extinção de todo broto nem destruição de todo armazenamento."
+title: "Capítulo 96: O Coração da Colmeia"
+description: "Quatro quilômetros levando o pendrive da Aria e o banco de baterias de pulso por uma cidade que respira. O comboio é patético, e é tudo o que sobrou."
 image: /capitulo_96.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Silas Vance ("O Jardineiro"), Aria, Valéria "Val" Cruz
-Participação por rádio: Capitão Jonas Vilar
-Participação em imagem: rosto atribuído a Dante Moretti
-Localização: "Bunker do Projeto Gênesis — Salão Principal (interface da Árvore-Mãe)"
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Capitão Jonas Vilar, Aria e integrantes dos Puros
+Participação na saída: Dra. Nise
+Localização: "Ruas de Baía Cinzenta — manhã do último dia"
 ---
-# Capítulo 96: A Grande Convergência
 
-A Árvore-Mãe
-O titânio esquentou antes de entrar. Gabo sentiu o calor subir pelo cilindro, atravessar a palma e parar no osso. A porta da árvore era um rasgo de nervo, úmido, e cedeu quando ele empurrou, como carne cansada.
+# Capítulo 96: O Coração da Colmeia
 
-— Conexão física estabelecida — disse a Aria no ponto auditivo. A voz saiu limpa, sem chiado. — Estou dentro.
+Ruas de Baía Cinzenta — manhã do último dia.
+O comboio era patético, e era heroico, e as duas coisas ao mesmo tempo, que é como quase tudo importante acontece.
 
-Um segundo depois, a árvore estava dentro dele. Não foi imagem. Foi temperatura. O salão respirava de sete em sete segundos, e dessa vez o ar entrou por ele: terra molhada, raiz partida, açúcar fermentando. O chão pulou sob os joelhos. As paredes de carne do bunker se contraíram.
+Na frente iam Vilar e dez dos vinte e cinco Puros que sobraram, com lança-chamas improvisados: equipamento de manutenção recuperado e depósitos pequenos de combustível. Só quatro unidades tinham passado pelo teste na saída do hospital.
 
-Silas abriu mais as raízes, expondo a fileira que Gabo já tentava não olhar. O rosto com os traços de Dante ficou a dois palmos da bota dele. O corpo original estava enterrado; aquilo reproduzia a lembrança que a rede guardara, ou a que queria que Gabo reconhecesse.
+Fogo era a única coisa que fazia o Jardim recuar. Não matava — Gabo já sabia disso desde a conversa na biblioteca —, mas fazia recuar, e naquela manhã recuar era suficiente. No meio ia a maca.
 
-Dante Moretti tinha o rosto cansado de quem chegava em casa cheirando a café velho e cigarro frio. A ruga entre as sobrancelhas estava lá. O corte de cabelo estava lá. A boca estava fechada do jeito que fechava quando ele decidia não discutir.
+Uma maca hospitalar reforçada, dessas de transporte de paciente bariátrico, com quatro rodas de borracha maciça. Em cima dela, amarrado com cinta de carga, o berço portátil de injeção onde o pendrive blindado de titânio da Aria estava acoplado a duas baterias de nobreak ligadas em paralelo para forçar o pulso do Código Morto.
 
-Gabo sentiu o cheiro antes de entender que estava sentindo. O joelho foi para o chão sozinho.
+Cinquenta e um quilos de condensadores e trinta e oito de bateria para alimentar um drive do tamanho de um polegar. Gabo e Val empurravam. A Dra. Nise tinha ficado.
 
-— Ele não sente frio — disse Silas, baixo. — Não sente falta. Não sente culpa. O senhor passou quinze anos carregando um homem que já tinha sido resolvido.
+Ela não discutiu, e ninguém pediu que discutisse: havia seiscentas pessoas no Hospital Central e uma médica, e essa conta não tem outra solução. Ela apertou o braço do Gabo na saída, disse "traz ela de volta" sem especificar quem, e voltou para dentro.
 
-A mão do Gabo estava a um dedo do rosto. Ele não lembrava de ter esticado o braço.
+---
 
-— Olhe para ele. — A voz de Silas veio de todos os lados. — Está em paz. O senhor é o único que não está.
+Estou vendo muitas cores.
+A voz chegou fraca pelo alto-falante do berço. Val mantivera o link corporal desligado.
 
-Havia um tubo saindo da têmpora do pai. Fino, translúcido, cheio de um líquido claro que subia devagar na direção do tronco. No ponto em que o tubo entrava na madeira, a madeira estava mais vermelha. Gabo olhou para os outros rostos. Todos tinham o mesmo tubo.
+O mundo ficou tão verde, Gabo. Antes era todo cinza. Eu lembro do cinza.
+— Foca — disse Val, e disparou duas vezes contra um cão de raiz que saltou de um beco à esquerda. O bicho recuou com um coto fumegando e não voltou. — Gabo, guarda energia. Você vai precisar no fim.
 
-— O que é isso? — perguntou.
+— Não sou eu que estou falando.
 
-— Alimento. — Silas não hesitou. — Um jardim come.
+— Eu sei quem está falando. — Val empurrou mais forte. — Por isso eu falei com os dois.
 
-Gabo puxou a mão. Foi um movimento pequeno, de dois centímetros, e custou mais que os quarenta degraus freando o trenó de baterias. Ele se levantou com o joelho estalando e ficou olhando o pai de cima, porque de cima era mais fácil mentir.
+---
 
-— O senhor não guardou ninguém — disse. — O senhor enfiou um cano na cabeça do meu pai e chamou de paraíso.
+O caminho até o Memorial era de quatro quilômetros e trezentos metros, e Gabo tinha feito aquele trajeto de carro em nove minutos a vida inteira. Naquela manhã levou três horas e vinte. Os prédios tinham se curvado.
 
-— Eu dei a ele o que a cidade nunca deu.
+É difícil explicar isso para quem não viu: eles não desabaram. Curvaram, como árvore ao vento, ao longo de meses, com a estrutura cedendo por fluência e as raízes puxando de um lado só. Quarteirões inteiros formavam agora arcos sobre a rua, e passar por baixo era passar por dentro de uma nave de catedral feita de janela e sacada.
 
-— O senhor deu a ele um cano.
+E o chão era macio. Esponjoso. Cedia dois centímetros a cada pisada e devolvia. E, se a pessoa ficasse parada no mesmo lugar por mais de quinze segundos, começava a subir uma umidade morna pela sola da bota.
 
-A temperatura do salão caiu de uma vez. As raízes se contraíram em volta dos tornozelos do Gabo, e o tronco soltou um som grave, de madeira entrando em carga.
+O chão daquela cidade **respirava**, com um ciclo de sete segundos, e depois de meia hora todo mundo do comboio estava respirando junto sem perceber.
 
-— Então o senhor escolheu a podridão — disse Silas.
+Vilar percebeu primeiro e mandou todo mundo cantar. Cantaram uma marcha velha de corporação, desafinada e alto, os quatro quilômetros quase inteiros, e foi por isso que sobreviveram à primeira parte.
 
-— Escolhi não ser adubo.
+---
 
-A voz da Aria cortou o canal:
+— Quinhentos metros! — gritou Val, conferindo um mapa desenhado à mão numa folha de caderno, porque GPS era memória de outra era.
 
-— Detetive. Ele está fechando a porta. Tenho quarenta segundos.
+Foi quando o chão abriu. Não foi buraco.
 
-— Dispara.
+Foi **boca**: uma área de uns nove metros por quatro, que parecia asfalto e tinha textura de asfalto e cor de asfalto, e que se dobrou para dentro em duas metades como alçapão.
 
-— Não posso disparar assim. — Uma pausa de dois décimos, o equivalente a um suspiro em alguém com pressa. — O pacote precisa do estágio de saída em sobrecarga. Quando eu empurrar, o transmissor queima.
+A vanguarda inteira caiu. Sete homens. O grito durou uns três segundos, e depois o barulho que veio de baixo não foi de queda: foi de fervura.
 
-— Quanto tempo?
+---
 
-— Para sempre.
+— **VILAR!**
 
-Gabo apertou o cilindro. O titânio já estava quente o bastante para doer.
+O capitão tinha rolado para a direita no meio décimo de segundo em que o asfalto começou a ceder — trinta e três anos de instinto pagando a última parcela — e estava agarrado na borda com a mão boa, com as pernas penduradas.
 
-— Acha outro caminho.
+O lança-chamas dele tinha caído dentro. Gabo largou a maca e se jogou de bruços e agarrou o pulso do velho com a mão direita.
 
-— Não encontrei outro caminho no tempo que temos. — A voz dela ficou firme. — Posso perder esta saída de voz. Não é o mesmo que morrer.
+Val prendeu uma cinta no cinturão do capitão. Gabo segurou o pulso só até dois dos Puros assumirem a cinta; os três recuaram de joelhos, tirando Vilar da borda. O ombro de Gabo cedeu antes do último puxão.
 
-— Aria.
+Os dois ficaram deitados de costas no chão respirante, ofegando.
 
-— O senhor vai sentir na mão. Sobre o que acontece comigo, não sei prometer.
+Lá embaixo, a boca se fechou devagar e o asfalto voltou a ser asfalto, e não sobrou marca nenhuma, e essa foi a parte que Gabo não conseguiu tirar da cabeça: dali a uma hora ninguém saberia dizer onde tinha acontecido.
 
-Ele abriu a boca para dizer não, e o não não saiu, porque a raiz tinha subido pelo tornozelo e estava apertando a perna, e porque o pai dele estava a dois palmos de distância com um cano na cabeça, e porque não havia mais nada naquele bunker que ele pudesse salvar com as duas mãos.
+---
 
-— Segura o conector — disse a Aria. — Não deixa ele sair.
+E aí eles vieram das paredes. Os Integrados. Humanoides de casca — a pele endurecida em placas com aparência de córtex de árvore, com fissuras verticais —, e no lugar dos dedos, espinhos de lignina de sete ou oito centímetros.
 
-Gabo cravou a palma no titânio.
+Saíram de dentro dos prédios curvados por rachaduras que se abriram para eles. Eram uns quarenta.
 
-— Eu seguro.
+— **CONTINUEM!** — rugiu Vilar, já de pé, puxando o facão de cerâmica do cinto. — Moretti, empurra essa porcaria e não olha para trás!
 
-— Três.
+— Capitão—
 
-O LED do drive passou de azul para branco.
+— **EU DISSE ANDA!**
 
-— Dois.
+---
 
-Silas gritou. Não com a boca: com o salão inteiro, as paredes, o chão, as raízes.
+Gabo pegou a alça da maca.
 
-— Um.
+E parou meio segundo, e olhou para o velho: cinquenta e cinco anos, um braço, um olho, farda de uma corporação que não existia mais, com um facão de cerâmica na mão e quarenta coisas descendo pela parede na direção dele.
 
-Gabo fechou o circuito.
+— Vilar.
 
-***
+— O que é?
 
-A explosão não foi de fogo. Foi de luz, e a luz subiu pela árvore de baixo para cima, apagando os indicadores dos controladores que a biomassa incorporara. O estalo da descarga veio antes do clarão da rede em curto. As raízes soltaram os tornozelos. Os rostos escorregaram para o escuro, devagar, como coisas que afundam em água grossa.
+— A lista dos duzentos e catorze está no meu bolso.
 
-O do pai passou a um palmo da mão dele. Gabo não pegou. Foi a coisa mais difícil que ele fez naquele ano.
+O velho parou de olhar para os Integrados e olhou para ele.
 
-No alto, a copa da árvore virou pó em cascata. O teto do bunker rachou no meio, e pela rachadura entrou uma luz cinzenta que ele não via havia meses. Lá fora, o Sol Negro perdeu a forma e desabou sobre a cidade como um balão molhado.
+— Está?
 
-Mas o tronco, na altura do peito do Silas, ainda estava inteiro. A casca se abriu de cima a baixo com um estalo de tábua. O corpo do Silas escorregou para dentro da fenda — primeiro os quadris, depois o peito, depois o rosto — e a madeira se fechou atrás dele como uma boca.
+— Está. E eu vou ler todos, um por um, em voz alta, quando isso acabar. — Gabo firmou a maca. — O senhor não precisa morrer aqui para pagar nada. A lista não paga vida nenhuma. O senhor ainda deve uma explicação a quem saiu do enclave.
 
-Gabo se arrastou para a frente e agarrou o que pôde. Pegou um punhado de fibra quente e seiva preta. A fibra se desfez entre os dedos. Do fundo do tronco, abafada, a voz:
+Jonas Vilar ficou parado por um segundo inteiro. Depois deu de ombros, e sorriu de lado, e ficou de repente com vinte anos a menos.
 
-— Você podou, detetive. Não arrancou a raiz.
+— Eu não vou morrer aqui, garoto. Eu vou ficar velho e chato e você vai ter que me aturar. — Ele girou o facão. — Mas alguém precisa segurar essa esquina. **ANDA.**
 
-Depois, silêncio.
+---
 
-***
+Gabo e Val empurraram a maca ladeira acima nos últimos quatrocentos metros.
 
-O berço de baterias tinha virado um bloco de plástico derretido e cobre torrado. Sem aquela fonte de energia e com o conector destruído, não havia como repetir o pulso ali. O módulo continuava na mão do Gabo, a carcaça de titânio trincada de cima a baixo, o LED apagado. O ponto auditivo chiava com a estática de um canal sem ninguém.
+A rodinha dianteira esquerda travou aos duzentos e eles passaram a arrastar, e arrastar oitenta e nove quilos numa ladeira de chão macio é uma coisa que o corpo humano registra como agressão.
 
-— Aria.
+Val estava com o rosto vermelho e a respiração cortada. Gabo não estava sentindo as pernas desde o segundo quilômetro, e isso era a única razão pela qual ainda conseguia andar.
 
-Nada. Ele encostou o drive no ouvido. O metal estava morno. Nada.
+Atrás deles, os tiros dos Puros iam ficando espaçados. Vilar ainda gritava as posições.
 
-— Aria.
+Eles estão com dor.
+— Eu sei — disse Gabo, com a voz sem ar.
 
-Um estalo. Um só. Como um osso pequeno se acomodando. O LED deu um pulso âmbar, fraco, e apagou de novo. Depois, silêncio.
+Não os monstros. Recebo fragmentos de voz pelos controladores ao alcance do cabo. Parece dor. Não sei quem ainda está consciente, nem se os pedidos são de agora.
+— Eu vou acabar com isso.
 
-Gabo ficou de joelhos no chão do salão, com as mãos em bolha e o cheiro de polímero queimado na garganta. Não conseguiu levantar. Não era a perna. Era o resto. No rádio do cinto, a voz do Vilar chegou picotada:
+Eu sei.
+Uma pausa.
 
-— Moretti. Moretti, responde.
+É por isso que eu não estou tentando te impedir
 
-Gabo apertou o botão com o polegar. Demorou a encontrar a voz.
+---
 
-— Está feito.
+Eles chegaram ao Memorial às onze e quarenta.
 
-— O que está feito?
+O parque estava irreconhecível: os ciprestes tinham triplicado de altura e se fundido num anel contínuo, e as cento e nove estátuas de bronze estavam todas de pé no mesmo lugar, tomadas por musgo, e todas — todas as cento e nove — tinham sido viradas para dentro, olhando o centro do parque.
 
-Ele olhou o tronco morto, os rostos que ainda afundavam, a rachadura no teto.
+Não havia mais espelho d'água. Havia uma cratera, e no fundo dela a entrada do bunker do Projeto Gênesis, com as portas de aço arrancadas e caídas ao lado, retorcidas para fora.
 
-— Não sei.
+O túnel descia. Pulsava com uma luz violeta que subia dos degraus, e a cada pulso o ar quente saía de dentro em rajada e cheirava a estufa.
 
-Passos na escada.
+E, cento e cinquenta metros acima, o Sol Negro tinha parado de crescer. Val olhou para cima, depois para o buraco, e disse a coisa mais assustadora do dia:
 
-— Levanta, cowboy.
+— Parou de crescer desde que começamos a subida. Não sei o que vai fazer agora.
 
-Valéria desceu os últimos degraus segurando o corrimão com a mão direita. A esquerda estava enrolada na barra do casaco, e os dedos que saíam da manga não pareciam dela: duros, com veias prateadas, parados na posição em que tinham travado. Ela andava. Devagar, com o joelho rígido, mas andava.
+Gabo firmou a alça da maca com as duas mãos.
 
-Parou ao lado dele e olhou o tronco, os rostos, o buraco.
-
-— A árvore morreu — ela disse.
-
-— Não toda.
-
-Ela seguiu o olhar dele até o chão. Debaixo do joelho do Gabo, a raiz ainda estava úmida. Ainda estava quente. E a terra subiu um centímetro. Devagar.
-
-Como peito.
+— É aqui — ele disse. — Vamos entrar.

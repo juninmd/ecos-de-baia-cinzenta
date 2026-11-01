@@ -41,7 +41,7 @@ Ele já tinha ouvido aquela frase antes, dita com outras palavras, num outro pla
 
 Gabo guardou o comunicador no bolso com mais força do que precisava.
 
-Na gaveta de baixo da mesa dele, na delegacia, embaixo de duas caixas de papelada morta, havia uma pasta de inquérito arquivado que ele nunca jogou fora e nunca reabriu. **BRAGA, A. — 1º Distrito.** Ele não pensava nela havia meses.
+Na gaveta de baixo da mesa dele, na delegacia, embaixo de duas caixas de papelada morta, havia uma pasta de inquérito arquivado que ele nunca jogou fora e nunca reabriu. **BRAGA, A. — 1º Distrito.** Ele não pensava nela havia meses. A última folha era o laudo de uma página que fechara a condenação, assinado em letra redonda.
 
 Pensou agora, por três segundos, e depois voltou para o corpo com as lentes no lugar dos olhos, porque o corpo era o problema de hoje e o resto era problema de nunca.
 

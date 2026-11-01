@@ -3,5 +3,5 @@
 docs/public/cenas/capitulo_13/cena_5.jpg
 docs/public/cenas/capitulo_18/cena_3.jpg
 docs/public/cenas/capitulo_3/cena_10.jpg
-docs/public/cenas/capitulo_36/cena_3.jpg
+docs/public/cenas/capitulo_37/cena_3.jpg
 docs/public/cenas/capitulo_4/cena_1.jpg

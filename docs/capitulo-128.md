@@ -1,91 +1,89 @@
 ---
-title: "Capítulo 128: O Ventre da Besta"
-date: "2056-11-23"
-location: "Catedrais de Pedra (Nível 5) - Rede de Drenagem Profunda"
-Personagens Presentes: Gabo, Valéria, Aria (áudio instável), Rangel (Inconsciente)
-Localização: "Catedrais de Pedra (Nível 5) → Estação de Bombeamento"
+title: "Capítulo 128: Frequência Fantasma"
+Data In-Game: "23 de Novembro, 06:45"
+Localização: "O Fliperama (Esgotos do Distrito 4)"
+Personagens Presentes: "Gabo Moretti, Valéria Cruz, Aria (Instável), Rangel (Crítico)."
+description: "O colapso separa o trio da equipe de transporte. Rangel segue em prancha com cintas. Aria conserva nome e comunicação possível, apesar da saída danificada."
 ---
 
-# Capítulo 128: O Ventre da Besta
+# Capítulo 128: Frequência Fantasma
 
-O cheiro era de tempo estagnado: lodo antigo, cobre oxidado e algo adocicado que Gabo conhecia bem - carne em decomposição. Não havia espaço para o nojo. Seus outros sentidos estavam gritando.
+O som não era apenas barulho; era vibração. A sirene de ataque aéreo, uma relíquia da Era Pré-Digital, fazia o pó de concreto dançar sobre a mesa de metal onde Rangel jazia. O uivo mecânico subia e descia, uma onda senoidal de pânico que penetrava nos ossos.
 
-A escuridão das "Catedrais de Pedra" não era vazia. Ela rosnava.
+Nise saíra com a mulher, o menino e a equipe para preparar o transporte no acesso oeste. Rangel ainda aguardava na prancha com rodas quando a primeira explosão derrubou o trecho entre eles e a saída. Pelo rádio, Nise confirmou que estava viva e pediu que procurassem a galeria de inspeção; o retorno para o hospital ficara cortado. Val guardou a ficha de atendimento junto ao curativo de reserva.
 
-— Eles estão flanqueando — a voz de Valéria sussurrou, trêmula. Sem o sonar digital de longo alcance, ela estava reduzida à visão de curto espectro, quase inútil naquela penumbra absoluta. Ela sustentava a pistola compacta com a mão direita; a esquerda ferida ajudava a firmar o punho sem sentir a pressão.
+Gabo estava parado na entrada do túnel, a *Caronte* engatilhada. Seus olhos varriam a escuridão do esgoto, esperando o brilho vermelho de óticas táticas ou o feixe branco de lanternas halógenas.
 
-Gabo acendeu o último sinalizador químico e o arremessou. A luz vermelha de fósforo chiou, cortando as sombras e revelando o pesadelo.
+— Eles não estão usando a rede — Gabo disse, a voz abafada pelo ruído externo. — Estão usando cães. Estão usando calor.
 
-Eram cães, ou tinham sido: *Quimeras de Drenagem*. Animais selvagens que a cidade havia mastigado e cuspido de volta, com pedaços de sucata fundidos à carne. Um deles tinha uma placa de circuito exposta onde deveria estar o olho esquerdo; outro arrastava uma pata traseira substituída por uma mola de suspensão enferrujada. O líder da matilha, uma besta do tamanho de um lobo, tinha a mandíbula inferior arrancada, substituída por lâminas serrilhadas de um triturador industrial.
+Valéria, agachada sobre o terminal portátil onde o pendrive blindado da Aria estava conectado em ponte com o transmissor tático de Gabo, xingou baixinho.
 
-Eles não latiam. O som que faziam era um clique úmido e mecânico. *Click-clack, click-clack.*
+— O espectro de rádio está uma bagunça. Estática branca em todas as frequências da polícia. Eles estão jammeando o sinal para impedir que qualquer um coordene uma defesa.
 
-— *Gabo...* — A voz de Aria chegou entre cortes pelo comunicador. — *O arquivo tem um cerco no Porto, mas a data está quebrada. Não vou comparar sua posição com um relato que não consigo conferir.*
+— É uma varredura de setor — Gabo recuou para dentro da sala, fechando a porta de aço pesada e girando a tranca manual. — A explosão fechou nosso acesso e há busca na superfície. Não sei se descobriram este lugar ou se estão varrendo o setor inteiro.
 
-Gabo trincou os dentes. O *Colar de Sol* pressionava o peito, onde a pele já estava ferida. Tirou a mão do metal e conferiu a cinta da prancha de Rangel; precisava manter o peso fora da perna que falhava.
+Ele olhou para o comunicador preso à própria lapela e depois para o drive espetado no deck de Valéria. O LED indicador do pendrive piscava em um âmbar febril, pulsando no mesmo ritmo de uma respiração humana.
 
-— Cale a boca, Aria — ele rosnou, levantando a escopeta *Caronte*. Duas balas restantes. — Valéria, proteja o Rangel. Fique atrás de mim.
+No fone auricular de Gabo, a estática abriu espaço para a voz adulta de Aria.
 
-O líder das Quimeras avançou.
+— O padrão da sirene corresponde ao Código 4-4: evacuação civil. O arquivo de ocorrências registra o mesmo código em operações de cerco nas Revoltas da Água. Não sei qual ordem está em vigor agora.
 
-Gabo não atirou. Ele esperou. O ar fétido do esgoto agitou-se com o salto da besta. Quando as lâminas serrilhadas estavam a centímetros de seu rosto, ele usou a coronha da *Caronte* como um taco, acertando o crânio da criatura com um *crack* surdo. O animal ganiu — um som de estática e dor — e rolou para a água negra.
+A voz falhou no meio do aviso. Val inclinou a tela para Gabo: o canal de síntese repetia pacotes danificados.
 
-Mas os outros não recuaram. Eles avançaram em uníssono.
+— Posso manter só texto — disse ela. — Perdemos os avisos no ouvido, mas Aria continua trabalhando.
 
-— *Três na esquerda. Dois na direita* — Aria avisava pelo comunicador, cruzando os sensores de movimento de curto alcance do deck de Valéria com atraso entre a câmera e o alerta. — *A câmera perdeu os dois da direita. Val, não dispare pelo marcador antigo; confirme o alvo.*
+Gabo olhou a passagem escura. Precisava das mãos livres e do alerta antes de ver o perigo.
 
-Gabo sentiu o gosto de bile subir à garganta. O som de metal arranhando pedra vinha mais perto. Ele girou, disparando o penúltimo cartucho na massa de corpos à esquerda. O estrondo foi ensurdecedor no túnel fechado. Chumbo grosso rasgou carne e metal, transformando dois dos atacantes em uma polpa indistinta.
+— Você consegue manter a voz?
 
-Valéria esperou um movimento entrar na luz do sinalizador e disparou para o chão diante dele. Os estilhaços e o estampido fizeram dois animais recuar.
+— Consigo tentar — disse Aria. — Se falhar, corte o alto-falante, não o núcleo. Meu histórico ainda está na unidade.
 
-— Agora, Gabo! A passagem lateral!
+Val deixou a chave de áudio ao alcance de Gabo. Ele soltou o módulo; a mão foi ao colar e parou antes de apertar. O metal já deixara sangue na camisa.
 
-Eles arrastaram Rangel. O inspetor gemia em seu delírio, um peso morto de carne febril. Gabo cobria a retaguarda, balançando a *Caronte* como uma maça.
+Um gemido vindo da mesa quebrou a tensão. Rangel se mexeu, os olhos abrindo fendas na face inchada.
 
-Os olhos vermelhos das Quimeras brilhavam na escuridão, multiplicando-se. O brilho do sinalizador estava morrendo.
+— Se vocês... vão discutir o relacionamento com um pendrive... — Rangel tossiu, uma tosse úmida e feia. — ...façam isso depois que sairmos do alcance da artilharia.
 
-— Ali! — Valéria apontou para uma grade de manutenção arrombada. — Parece um duto de ventilação antigo.
+Gabo se recompôs instantaneamente. A máscara de frieza desceu sobre seu rosto, escondendo o terror.
 
-— É muito estreito — Gabo avaliou. — Rangel não passa.
+— Você consegue andar?
 
-— A prancha não passa inteira — disse Aria. — A borda da parede está rompida à direita. Val, confira se é um vão livre antes de tentarem mover Rangel.
+— Se você me carregar como uma noiva... talvez. — Rangel tentou se sentar e falhou, caindo de volta com um grunhido de dor. — A costura vai abrir.
 
-Gabo parou diante do espaço estreito. A lembrança de Bia no galpão veio com o cheiro da chuva sobre concreto. Ele apertou a cinta da prancha para não perder o apoio.
+— Nise pediu que procuremos a galeria de inspeção — Gabo disse, verificando a carga da *Caronte*. — Val, pegue o essencial. O resto fica.
 
-— Essa lembrança é minha — ele sussurrou, soltando o colar. — Aria está aqui. Rangel também. — Firmou os pés junto da prancha.
+— E o servidor do Kiko? — Valéria apontou para o rack de servidores. — Tem terabytes de dados aqui.
 
-Uma Quimera saltou das sombras, mirando o pescoço de Valéria.
+— O servidor não anda. Nós andamos.
 
-Gabo não pensou. Ele interpôs o antebraço esquerdo, apoiado na perna boa. As presas de metal rasgaram sua jaqueta de couro sintético e encontraram carne. A dor foi branca e pura. Ele gritou, não de agonia, mas de fúria, e enterrou a faca de combate no pescoço da criatura, girando a lâmina até sentir os cabos e a traqueia se separarem.
+Gabo foi até a mesa e pegou um mapa de papel do sistema de esgoto, desdobrando-o sobre as pernas de Rangel.
 
-Val arrastou a prancha até a fenda. Gabo afastou o cadáver com a ferramenta e passou a cinta para o outro lado.
+— Estamos aqui. Setor 4. A varredura está vindo de Norte, da Torre. Eles vão empurrar todo mundo para o mar ou para os túneis de drenagem profunda.
 
-— Para dentro! Agora!
+— Drenagem profunda é suicídio — Rangel murmurou. — Gás metano. Ratos do tamanho de cães.
 
-Prenderam as bordas dobráveis da prancha junto ao corpo de Rangel e se espremeram por uma fenda na parede de tijolos, caindo em um corredor inclinado. Gabo ficou por último, chutando o focinho de outra besta que tentava segui-los.
+— A água e as paredes podem atrapalhar a busca térmica — Gabo traçou uma linha com o dedo sujo de graxa. — Vamos descer para o Nível 5. As Catedrais de Pedra.
 
-O corredor era diferente. O chão não era de pedra úmida, mas de grade metálica. O ar era seco e quente, com um zumbido grave que vibrava nos dentes.
+— Ninguém vai lá desde a Fundação — Valéria disse, fechando o deck de pulso com o pendrive da Aria acoplado na lateral e prendendo o cabo de áudio no comunicador de Gabo. — Dizem que as estruturas são instáveis.
 
-Eles escorregaram pela inclinação, caindo em uma câmara ampla, iluminada por luzes de emergência âmbar que giravam lentamente.
+— Melhor ser esmagado por pedra do que processado pela Aeterna — Gabo dobrou o mapa e o enfiou no bolso.
 
-Gabo se levantou, ofegante, segurando o braço sangrando. Valéria estava checando o pulso de Rangel. No deck de Valéria, o LED do pendrive de Aria pulsava intensamente em âmbar, lendo as frequências eletromagnéticas da câmara.
+O som da sirene mudou de tom. Ficou mais agudo, mais rápido. E então, o som de explosões distantes começou. *Thump. Thump. Thump.* Morteiros de concussão. Eles estavam colapsando os túneis de acesso para selar as saídas.
 
-— *Olha para cima, Gabo* — sussurrou a IA pelo alto-falante tático, a voz carregada de um fascínio inquietante. — *Estamos nas entranhas.*
+— *Eles estão fechando a tampa* — avisou Aria pelo comunicador, a voz agora desprovida de emoção, puramente tática, apesar dos cortes no canal de áudio. — *O mapa registra outra galeria ao sul. Os impactos estão mais próximos; não consigo prever quando este trecho vai ceder.*
 
-Acima deles, gigantescos pistões de latão e cromo moviam-se em um ritmo hipnótico, bombeando algo viscoso através de tubos transparentes. O som era o de um coração titânico batendo. *Thump-thump. Thump-thump.*
+Gabo olhou para o LED azul-âmbar piscando no pulso de Valéria. Por um segundo, ele quis ouvir apenas uma ferramenta. A última resposta dela não deixou.
 
-Eles não estavam mais nos esgotos. Estavam na infraestrutura primária da cidade. O verdadeiro ventre da besta.
+— Destrave a porta sul, Aria.
 
-— O que é isso? — Valéria perguntou, limpando o lodo do rosto.
+— *Sim, Inspetor.*
 
-— Uma estação de bombeamento — Gabo disse, rasgando um pedaço da camisa para estancar o braço. — Mas não de água.
+Valéria encostou o conector do pendrive da Aria no painel da comporta. As travas magnéticas giraram com um estalo pesado.
 
-Ele se aproximou de um dos tubos. O líquido dentro não era esgoto. Era vermelho escuro, denso.
+Prenderam Rangel à prancha de transporte. As rodas cabiam na galeria de inspeção; nas soleiras, Val guiava a cabeceira enquanto Gabo puxava a cinta presa à armação. O inspetor gritou quando passaram pela primeira junta.
 
-Sangue. Ou algo muito parecido, sintético, nutriente.
+— Vamos — Gabo ordenou.
 
-— *É o sistema circulatório* — Aria sussurrou no fone, com a voz falhando entre as palavras. — *A cidade está se alimentando, Gabo. E nós somos os vírus na corrente sanguínea.*
+Eles saíram do "Fliperama" para a escuridão absoluta do túnel principal. Atrás deles, a porta do esconderijo se fechou, selando o pouco de segurança que tiveram.
 
-Gabo olhou para o túnel escuro à frente, onde o zumbido era mais forte. Eles tinham escapado dos cães, mas tinham caído na boca do dono.
-
-— Vamos continuar — ele disse, conferindo o cartucho restante na *Caronte*. — Antes que os anticorpos cheguem.
+Rangel parou de responder antes da segunda curva. Val segurou a cabeceira da prancha com as duas mãos e não olhou para trás. A sirene continuava lá fora, mas o túnel já tinha um som próprio: o gotejar da cidade sobre o teto, marcando o passo que eles não podiam perder.

@@ -1,68 +1,58 @@
 ---
-Título: Cristais de Óxido
+Título: O Peso da Ferrugem
 Data In-Game: Pós-Colapso do Sentinel (Noite Eterna)
-Localização: Dutos Inferiores de Resfriamento, Setor 6
+Localização: Dutos de Escoamento, Setor 6
 Personagens Presentes: Gabo, Valéria, Elias
 ---
 
-# Capítulo 209: Cristais de Óxido
+# Capítulo 209: O Peso da Ferrugem
 
-O frio da câmara de resfriamento cobrava um tributo metódico e implacável a cada respiração. Frio subterrâneo não é apenas desconforto térmico; é um imposto biológico. Ele rouba a sensibilidade das pontas dos dedos, reduz a flexibilidade dos tendões e transforma a cartilagem dos joelhos em vidro quebradiço. Minha perna direita tremia em espasmos involuntários, com a órtese emperrada arranhando o piso a cada passo claudicante.
+O duto tinha um metro e vinte de diâmetro. Para um homem do meu tamanho, com uma armação pesada de sucata parafusada sobre o braço fraturado e uma perna travada em órtese rígida, aquele espaço era o mais próximo que um vivo podia chegar de ser enterrado num caixão de ferro corrugado. Falta de luz teria sido mais simples. Aquilo era uma presença sólida, viscosa, colada às paredes da garganta.
 
-A dor no braço direito, onde a equipe instalara o fixador ao qual Vasco acoplara a armação, tinha mudado de natureza: ardia em um pulsar surdo e profundo, como se agulhas de gelo estivessem sendo cravadas na minha clavícula. As cicatrizes do Dilúvio queimavam sob a sarja encharcada. Precisei piscar várias vezes para distinguir a borda da passarela sob a geada.
+O ar parado sufocava os pulmões com o gosto rançoso de lodo industrial, esgoto antigo e metal corroído. Cada centímetro conquistado exigia uma negociação humilhante com a gravidade e com a carcaça do meu próprio corpo.
 
-— Se a gente ficar parado mais dez minutos nessa névoa polar, Moretti, — disse Valéria, parando na bifurcação da grade com as mãos enfiadas nos bolsos da jaqueta de couro, — suas articulações vão soldar por congelamento e eu vou ter que arrastar você de trenó até o Hub.
+Valéria ia na vanguarda, rastejando de joelhos com a facilidade de quem cresceu entrando por tubulações de ar nos prédios corporativos do Distrito Central. A lanterna em seu antebraço riscava a curvatura do duto com um feixe fino, iluminando o lodo cinzento que cobria o fundo como uma camada de graxa podre. Os fios holográficos azuis da franja dela piscavam contra a ferrugem, desenhando sombras inquietas no teto baixo.
 
-— Não precisa de trenó, Val, — resmunguei, batendo o calcanhar da bota boa no ferro para manter a circulação ativa. Minha respiração formava uma nuvem densa e leitosa que se dissipava contra o teto baixo. — Eu ainda sei andar sobre as minhas próprias pernas.
+— Se eu soubesse que a nossa rota turística incluía rastejar no esgoto dos fundos da Aeterna, — murmurou ela, a voz ecoando abafada pelo metal, — eu tinha cobrado o dobro daquele adiantamento em créditos que você nunca me pagou na Doca Três.
 
-— "Andar" é uma palavra muito generosa pro que você tá fazendo, — ela rebateu, com os olhos prateados faiscando sob o brilho azul da franja holográfica. — Tá mais pra um guindaste bêbado arrastando uma âncora. E o Elias tá quase virando estátua de sal ali atrás.
+— Você já me roubou três cyberdecks e uma garrafa de gim sintético, Val, — retruquei entre dentes, arrastando o cotovelo de aço sobre a chapa oxidada. O atrito arrancava faíscas pálidas que iluminavam a poeira ácida. — Considera a dívida quitada.
 
-Elias estava encostado na tubulação mestra, abraçando os próprios joelhos com os dentes castanholando em um ritmo frenético. O rapaz olhava para a frente com os olhos arregalados, a lanterna tremendo em sua mão enluvada.
+— Aquele gim tinha gosto de desinfetante de necrotério e você sabe disso, — rebateu ela, soltando um estalo curto de riso que quebrou a tensão opressiva do túnel. — E o deck do Vasco tava com o processador queimado. Eu tive que refazer as trilhas de cobre no canivete.
 
-— Gabo... olha pro chão logo depois da curva... — a voz de Elias saiu em um fio rouco. — Aquilo... aquilo não é grade.
+Atrás de mim, a respiração de Elias era um silvo asmático, entrecortado por arquejos de pavor. O rapaz avançava quase de barriga no chão, as mãos nuas afundando na lama fria que acumulava no fundo da calha.
 
-Dei dois passos à frente, apoiando o cano curto da *Caronte* na cintura, e mirei a lanterna na direção que ele apontava.
+— Gabo... eu não consigo... o ar tá acabando, — ele gemeu, a voz espremida pelo pânico claustrofóbico. — Parece que as paredes tão encolhendo... a tubulação vai fechar em cima da gente.
 
-O piso de aço da passarela desaparecia completamente cinquenta metros adiante. No lugar da grade perfurada, erguia-se uma floresta mineral bizarra: centenas de agulhas translúcidas e negras, medindo de trinta a sessenta centímetros de comprimento, brotando do chão e das paredes curvas em ângulos pontiagudos e desordenados.
+— Eu também preciso parar — disse, firmando o joelho bom no metal. — Val, dá um minuto.
 
-Cristais de óxido.
+Ela apagou a lanterna e esperou. Elias apoiou a testa na manga; o som da respiração dele foi diminuindo aos poucos. Quando pediu para continuar, eu me movi.
 
-Era a bocarra química da cidade. A formação misturava crostas escuras, gelo e ferrugem em espigões afiados. Nenhum de nós sabia como aquilo crescera. O teto e o piso pareciam mandíbulas de um predador colossal que ainda não havia terminado de fechar a boca.
+A armação que Vasco acoplara ao fixador puxava meu ombro. A cobertura suja de lodo precisava ser trocada; mantive o braço preso ao arnês para não repuxar ainda mais os pontos. Lembrei a água do Dilúvio, vinte e três dias depois da queda da Torre Aeterna. Tudo naquele mesmo ano. Uma vida podia caber em meses e ainda assim deixar o corpo sem lugar para outra dívida.
 
-— Que porcaria é essa? — sussurrei, sentindo o cheiro fétido de gás freon escapar da tubulação e o gosto amargo de ozônio queimar no fundo da língua.
+— Moretti, — a voz de Valéria mudou de tom, perdendo o deboche e ganhando a afiada frieza de alerta tático.
 
-Valéria se agachou com cautela na beirada da formação cristalina, iluminando a base de um dos espigões com o feixe óptico do cyberdeck. Ela sacou uma faca tática curta da cintura e tocou de leve a ponta da lâmina na ponta de um cristal.
+— O que você achou? — perguntei, forçando a órtese emperrada a avançar mais trinta centímetros.
 
-Um estalido fino e cristalino ecoou no silêncio gélido.
+— Anomalia térmica na grade de descarte, trinta metros à frente, — disse ela, mantendo o feixe de luz travado em uma bifurcação onde a tubulação se alargava. — A leitura está caindo. A saída do duto parece abaixo de zero; não sei o que está causando isso.
 
-— Pontas de material cristalizado, — ela explicou, guardando a lâmina e me encarando com uma seriedade límpida. — Frágil ao impacto, mas o fio de corte é mais fino que bisturi a laser. Se você pisar nisso aí, a bota rasga igual papel e os espinhos cravam na carne. Qualquer sujeira aderida pode entrar na ferida. Não sei o que há aderido nessas pontas, mas não quero descobrir pelo seu sangue.
+— Abaixo de zero? No meio de um complexo subterrâneo abafado? — Elias ergueu a cabeça, piscando contra as gotas de condensação que pingavam do teto de ferro e batiam na sua testa. — Isso não faz sentido. O calor geotérmico do Setor Seis devia manter tudo a mais de trinta graus.
 
-— E dá pra contornar? — Elias perguntou, o desespero fazendo sua voz falhar.
+— Pode ser algum circuito de refrigeração, — respondi, sentindo o ar que entrava pelas minhas narinas mudar de textura.
 
-— Não tem contorno, gênio, — Valéria respondeu, apontando a luz para o alto. — A galeria inteira tá selada por esses dentes de ferro. O único caminho livre é por cima.
+O bafo úmido e fétido do esgoto foi sendo gradualmente substituído por uma rajada gélida, cortante, que trazia cristais minúsculos de geada suspensos no ar. Um odor químico áspero começou a arder na garganta.
 
-Ergui os olhos, acompanhando o feixe da lanterna. Seis metros acima da floresta de cristais, presa à viga mestra do teto de concreto, uma plataforma estreita de manutenção corria paralela à tubulação de descarte, sustentada por correntes industriais e roldanas antigas. O piso daquela passarela suspensa estava enferrujado, mas livre da geada negra.
+Valéria alcançou a grade de retenção no final da descida. As barras de ferro forjado estavam cobertas por uma crosta espessa de geada branca, que brilhava como açúcar cristalizado sob a luz da lanterna.
 
-— A gente usa a plataforma elevada, — determinei, avaliando a distância vertical. — Valéria, você é a mais leve e tem a agilidade que me falta. Sobe pela escada de marinheiro chumbada na coluna oeste. O concreto ali parece firme. Alcança a roldana mestra e desce o cabo guia pra gente içar o Elias.
+— Pode ser vazamento de refrigerante dos trocadores do Setor Seis, — ela sussurrou, passando a ponta dos dedos pela geada que estalava ao toque. — A linha de resfriamento pode estar despressurizada. O duto desemboca direto na galeria inferior dos condensadores.
 
-Valéria olhou para a escada enferrujada coberta por uma fina película de gelo, depois para o leito de cristais mortais logo abaixo.
+— E a grade tá trancada? — perguntei, alcançando o espaço logo atrás dela e sentindo o frio morder a pele exposta do meu rosto e das mãos em carne viva.
 
-— Se aquele cabo arrebentar enquanto eu estiver lá em cima, Moretti, eu caio direto numa cama de faquir de três mil pontas de ferro envenenado.
+— Travada por uma camada de gelo de três polegadas e uma corrente de aço naval, — Valéria disse, recuando meio metro para me dar espaço. Ela olhou para a minha mão mecânica de sucata forjada com um sorriso de desafio nos olhos prateados. — Acha que esse trator que o Vasco chamou de braço tem torque pra estourar esse cadeado congelado, ou você quer que eu gaste meus pulsos de hacking nisso?
 
-— A placa diz três toneladas quando era novo, Val. Vamos prender a segunda linha antes de testar com alguém, — afirmei, olhando firme nos olhos prateados dela. — Testa os apoios antes de subir. Se algum ceder, volta.
+— Guarda a bateria do deck, Val, — rosnei, puxando o fôlego gelado que ardeu nos meus pulmões como cacos de vidro. — O elo principal já está rachado por corrosão. Ilumina a rachadura; não vou apostar que o frio transforma qualquer corrente em vidro.
 
-Um sorriso fino e desafiador desenhou-se nos lábios pálidos dela. O cinismo deu lugar àquela determinação inabalável que sempre nos salvara da cova.
+Enfiei os garras de ferro da armação no meio do elo coberto de gelo. Apertei a mandíbula, travando o ombro esfolado contra a curva da parede de concreto, e forcei o atuador hidráulico ao limite. O metal da armação rangeu alto, a carcaça de sucata estalou sob a pressão violenta e, com um estalo seco como um tiro de rifle, o elo congelado partiu-se em quatro pedaços.
 
-— Só se você prometer não desmontar esse seu ombro postiço enquanto eu tiver lá em cima, — ela disparou, ajustando as correias do cyberdeck nas costas. — Elias, fica de olho no meu apoio. Se a solda mexer, me avisa.
+A grade de ferro rangeu e abriu-se para o vazio gélido que nos esperava do outro lado.
 
-Ela não perdeu tempo. Com passos calculados e firmes, aproximou-se da base da coluna de concreto, cravou as pontas das botas reforçadas nos degraus de ferro e começou a subida vertical. A cada movimento, lascas de gelo seco desprendiam-se da parede, tilintando contra os cristais negros lá embaixo como vidro quebrado.
-
-Elias sentou-se ao meu lado, as mãos nos joelhos, assistindo à subida com o fôlego preso.
-
-— Gabo... se ela não conseguir fixar a roldana... como a gente sai daqui?
-
-— Não sei — respondi. — Se o apoio falhar, ela volta e a gente procura outro caminho.
-
-Elias acompanhou com a lanterna o ponto onde a escada encontrava a viga. — A solda de cima está descascando — avisou. Val testou o apoio antes de passar o peso e escolheu a outra lateral.
-
-O silêncio do abismo voltou a nos cercar, pesado e indiferente, quebrado apenas pelo tique-taque distante dos cristais de óxido que continuavam crescendo na escuridão, devorando o pouco calor que ainda nos mantinha vivos.
+— Nada mal pra uma sucata ambulante, — Valéria comentou, empurrando a grade com o pé e espiando a imensidão branca e enevoada da galeria inferior. — Prepara os dentes, rapazes. A gente acabou de entrar no inverno eterno da corporação.

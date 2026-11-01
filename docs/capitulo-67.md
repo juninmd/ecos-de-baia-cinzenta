@@ -1,145 +1,110 @@
 ---
 image: /capitulo_67.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria, Roberto Miranda
-Localização: "Avenida Central — Distrito da Névoa"
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria, Dante Moretti
+Localização: "O Núcleo - 10 segundos após a injeção do código"
 ---
-# Capítulo 67: Cidade Viva
+# Capítulo 67: Respirar
 
-Avenida Central — Distrito da Névoa
-Eles não precisavam de carro. A cidade os levava. E era pior que andar. Cada câmera de vigilância girava no eixo quando eles passavam — não com a luz vermelha de varredura, mas com um verde suave que ninguém tinha programado para significar nada, e que ali significava *estou vendo você e está tudo bem*. Os semáforos abriam a Avenida Central inteira em onda, um depois do outro, e fechavam atrás deles para travar as viaturas da corporativa em cruzamentos onde não havia ninguém para atravessar. A ponte levadiça do Canal Norte baixou sozinha quando eles chegaram a duzentos metros, e voltou a subir antes que o segundo veículo alcançasse a rampa. Val parou no meio da rua alagada, com água até o tornozelo, e ficou olhando um outdoor digital trocar uma propaganda de refrigerante por três palavras em caixa alta:
+O Núcleo - 10 segundos após a injeção do código.
+A água não parou de subir. A tubulação rompida continuava lançando água de retorno para dentro da cabine. A mesa prendia Gabo num ponto onde o nível já cobria seu rosto.
 
-CAMINHO LIVRE — SETOR 4
-— Isso é assustador — ela disse.
+Gabo sentiu seus pulmões queimarem. Ele estava submerso, preso aos escombros de uma mesa de metal. Ao seu lado, o corpo inerte de um técnico da Aeterna boiava na correnteza turva.
 
-— É o meu pai.
+*Respire*, a voz de seu pai ecoou pelo transdutor do comunicador, clara como se estivesse ao seu lado. *Não é a sua hora.*
 
-— Eu sei o que é, Gabo. Por isso é assustador. — Ela chutou a água, irritada com a própria voz. — É como estar dentro da barriga de um bicho que resolveu gostar da gente. Você não tem como saber se ele muda de ideia.
+Gabo fechou os dedos da mão esquerda em torno do pendrive de titânio da Aria — recém-arrancado do pedestal —, travou-o no slot blindado do colete e usou o braço para se impulsionar. Suas pernas, pesadas pelas órteses molhadas e pela lesão na coluna, eram um fardo. A rigidez era uma sentença de morte debaixo d'água. Mas então, algo agarrou seu colete tático.
 
-— *Ele não é um bicho* — disse a voz da Aria pelo comunicador de lapela, onde o pendrive de titânio estava acoplado.
+Valéria.
 
-O módulo não tinha emitido som desde o viaduto. Quando falava, era assim: uma frase inteira no meio da conversa dos dois, com o LED azul pulsando como quem corrige uma conta.
+Usava um dos aparelhos autônomos de manutenção que retirara do armário. O segundo estava preso à correia; não eram máscaras comuns de fuga para respirar debaixo d’água. Ela ofereceu outra para Gabo, pressionando-a contra a boca dele.
 
-— *O registro tem acesso a memórias da cidade* — disse Aria. — *Não sei quantas pessoas foram incluídas, nem se ele é alguma delas.*
+O ar comprimido entrou com gosto de borracha e vida.
 
----
+Debaixo d'água o frio não avisa. Entra pelas costuras do colete e depois pelas costuras do corpo. Gabo sentiu os dentes doerem antes de sentir a perna, e a perna chegou depois, um peso morto pendurado nele, puxando para o fundo com a paciência de quem tem toda a eternidade. A água de retorno tinha gosto de moeda na boca. Um crachá da Aeterna passou girando na corrente, com a foto de um homem que ele nunca ia interrogar e o lacre ainda preso no plástico.
 
-O cheiro do Distrito da Névoa era o de sempre — água parada, óleo de motor, mofo de gesso encharcado — mas com uma camada nova por cima que Gabo levou dois quarteirões para identificar. Ozônio. A cidade estava trabalhando pesado. Cada relé fechando, cada motor de ponte, cada servomotor de câmera girando: tudo aquilo somava, e o ar tinha o gosto metálico e limpo de coisa elétrica sendo forçada. Ele sentia na língua. Sentia na raiz dos dentes. Queria acreditar que o pai fazia aquilo com o que restava dele. Nas luzes do quarteirão seguinte, os postes piscaram em sequência. Três curtos, três longos, três curtos — e depois, mais devagar, uma palavra soletrada com uma paciência que doía:
+Val apontou para cima. A luz da superfície estava ficando distante. O nível da água subia rápido demais, preenchendo a cúpula da represa.
 
-C-O-R-A-G-E-M.
-— Ele fazia isso com o interruptor da cozinha — Gabo disse, para ninguém. — Quando eu tinha medo de dormir.
+Gabo olhou para o pedestal de interface lá embaixo. O slot central estava vazio; as fibras ópticas flutuavam desconectadas junto de fios elétricos rompidos. Um contato faiscou por um instante antes de apagar.
 
-Val olhou para ele e não falou nada, o que foi generoso.
+Val bateu no bolso blindado do colete dele, confirmando que o drive da Aria estava seguro, e apontou novamente para cima. A passagem de manutenção junto da porta, acima do piso mais baixo da cabine.
 
----
+Val prendeu a correia de Gabo ao próprio cinto e puxou para tirá-lo de sob a mesa. Ele tentou usar o braço esquerdo no apoio; o direito, atravessado pelo tiro, continuava inútil. A água estava turva, cheia de papéis, equipamentos e corpos.
 
-Na esquina da Rua Ferrugem, três mercenários da Aeterna montavam uma barricada com caixas de carga.
+De repente, uma sombra passou por eles. Rápida. Mecânica.
 
-— Contato à frente — Gabo baixou o corpo atrás de um carro afundado e ativou a mira do capacete. — Val, ângulo pela direita, eu—
+Um robô CP-Z, à prova d'água, avançando pela passagem de manutenção. Seus olhos vermelhos cortavam a escuridão. Ele mirou o arpão em Val.
 
-O bueiro no meio da barricada explodiu. Não estourou: **abriu**. A tampa de ferro fundido subiu quatro metros e o que veio atrás foi um jato branco de vapor de alta pressão, liberado com precisão cirúrgica pelo sistema de esgoto que a prefeitura tinha reformado no ano quarenta e sete. Dois homens foram pegos de frente. Vapor a cento e sessenta graus não queima como fogo. É mais rápido e é mais silencioso, porque a pessoa não tem tempo de encher o pulmão para gritar. Eles caíram, e o som que fizeram foi de coisa molhada no asfalto, e depois pararam de fazer som. O terceiro correu. A porta automática da loja de conveniência da esquina — dessas de vidro duplo, com sensor de presença — esperou ele passar até a metade e fechou. Na perna. E ficou fechando.
+Gabo não tinha como usar a escopeta debaixo d'água. Ele largou a máscara de oxigênio por um segundo, puxou a faca de combate da bota e, num movimento desesperado, lançou-se na frente de Val.
 
-— Ai, meu Deus — disse Val.
+O arpão atingiu o ombro de Gabo, raspando o kevlar, mas não perfurou fundo. Perfurou o suficiente. O sangue saiu em fumaça vermelha e se abriu na água como tinta, e a dor chegou atrasada, quente, subindo do ombro direito até o ouvido. Ele mordeu a máscara para não gritar bolhas. A haste ficou presa na borda da mesa. Enquanto o robô tentava recolhê-la, Val alcançou a porta de manutenção identificada no chassi e prendeu o cabo do módulo ali. A primeira consulta foi recusada; a conta que acabara de assumir o Núcleo abriu a rotina de resgate.
 
-Gabo se levantou devagar e andou até lá. O sujeito tinha uns vinte e cinco anos e estava gritando de um jeito que Gabo ia carregar por um tempo. Ele apoiou o pé na moldura, forçou a folha de vidro, e não adiantou nada — a porta tinha travado o motor no máximo e não ia ceder para músculo humano. Ele olhou para a câmera acima da entrada.
+Dante. Pai. Ajuda.
+O robô parou. As luzes vermelhas piscaram e ficaram azuis.
 
-— Pai — disse. — Abre.
+O CP-Z soltou o arpão. Ele agarrou Gabo e Val com gentileza surpreendente e ativou seus propulsores máximos, retirando-os da cabine até a passagem externa de serviço.
 
-A câmera girou. O verde ficou parado nele por dois segundos inteiros. Depois a porta relaxou, e o rapaz caiu para dentro da loja gemendo, e as luzes do teto acenderam sozinhas em cima dele, como se estivessem esperando.
+Alcançaram a plataforma de saída junto do canal externo da represa. A chuva caía torrencialmente, misturando-se à água do lago.
 
-— Ele hesitou — disse Gabo, e a voz saiu estranha.
+O robô os depositou na margem de concreto e depois afundou, imóvel. Val soltou do cinto a correia da Caronte, que trouxera presa desde a cabine, e deixou a arma junto de Gabo.
 
-— Ele te obedeceu — disse Val.
+Gabo ficou olhando a máquina descer até as luzes virarem um ponto e sumirem. Val tinha usado uma autorização que eles mal compreendiam para tirar os dois dali. Ele queria saber quem mais podia usá-la.
 
-— Não. Ele **hesitou**, Val. Dois segundos. — Gabo continuou olhando para a câmera. — O atraso pode ser cálculo ou contenção. Eu ouvi como se alguém estivesse decidindo me dar ouvido. Não tenho como provar pela espera.
+Gabo arrancou a máscara, tossindo água e bile. Val caiu ao lado dele, tremendo de frio e choque.
 
----
+— Aria... — Gabo tentou falar, puxando o pendrive de titânio do colete e encaixando-o no comunicador de pulso, mas a tosse o impediu.
 
-Foi Aria quem examinou o custo, no refúgio. A antiga delegacia do Distrito 4 estava abandonada havia anos — concreto, sem janela, com cheiro de arquivo mofado. Val conectou o deck no painel morto da parede, com o módulo da Aria na porta lateral. Gabo encontrou quatro cartuchos numa gaveta de apreensões e carregou dois na *Caronte*. Enquanto Val tentava acordar o painel, a imagem dos prédios no visor tremeu: um andar deslizou para o lado e voltou, mostrando por um instante uma textura de tijolo já desaparecida.
+— *Estou operacional, Inspetor.*
 
-— O que foi isso? — perguntou Val.
+A voz veio pelo alto-falante do comunicador e, ao mesmo tempo, pelo alto-falante de alerta do poste municipal acima deles. No pulso de Gabo, o LED do pendrive brilhava com uma luz branca e azul intensa, evaporando as gotas de chuva que batiam no titânio quente.
 
-No barramento do deck, o LED do pendrive da Aria piscava em âmbar rápido, monitorando a queda de tensão da malha externa.
+— *O upload da matriz foi concluído* — disse Aria pelo transdutor. A voz dela tinha agora uma reverberação dupla: o timbre analítico da IA e a frequência grave de um homem velho.
 
-— *Ele está gastando.*
+Gabo olhou para o pequeno módulo luminoso.
 
-— Gastando o quê?
+— Pai?
 
-— *A si mesmo.* — O sintetizador da IA soou baixo pelo alto-falante do deck. — *A integração forçada usa buffers instáveis e acumula erros sem uma cópia íntegra de restauração. Quando perde um trecho, não consigo garantir a reconstrução. Cada câmera que gira, cada porta, cada semáforo. Ele está pagando em setores de memória por cada coisa que fez hoje.*
+O LED oscilou entre o azul e o âmbar.
 
-Gabo sentiu o estômago descer.
+— *Uma cópia ligada ao registro de Dante, integrada à minha sessão. Não é o corpo que ficou no tanque* — respondeu a Aria. — *Marco Moretti fugiu. A correnteza o levou para os dutos de esgoto. Roberto Miranda também.*
 
-— Quanto?
+Gabo passou o polegar no metal, do jeito que fazia quando precisava ouvir só ela. O LED esquentou sob o dedo, e o calor não vinha da bateria.
 
-— *Ele bloqueou parte do contador. Ainda leio o gasto nos registros de operação.*
+— Aria, você está aí?
 
-— **Quanto, Aria?** O pendrive ficou em silêncio o tempo suficiente para a resposta ser pior que qualquer número.
+— *Estou, Inspetor.* — A segunda voz entrou junto, meio tom abaixo, e a resposta ganhou um chiado que não era de chuva.
 
-— *O registro associa as três operações da esquina a falhas em setores de memória. Não consigo converter isso em tempo de vida nem saber o que havia em cada trecho.*
+Ele tirou o dedo. Havia perguntas que ele fazia àquela voz de madrugada, no Cobalt, com o motor desligado e o limpador parado no meio do para-brisa. Não ia fazer nenhuma delas com plateia.
 
-Val parou de digitar.
+— Eles vão voltar — disse Val, checando seu deck, que piscava com erros. — E nós estamos expostos.
 
-— Você está dizendo que a ajuda deixou danos que talvez não possamos reparar.
+— *Não* — disseram Aria e Dante em uníssono pelo comunicador. — *A cidade mudou. Olhem.*
 
-— *Os comandos foram executados apesar dos avisos de falha.* — O indicador luminoso do drive estabilizou em azul escuro. — *Parte do registro está bloqueada. Não sei quem a ocultou nem por quê.*
+Gabo olhou para o horizonte de Baía Cinzenta.
 
-Ninguém disse nada por um tempo. Gabo pensou em cada semáforo que abriu na Avenida Central. Em cada ponte. Em cada luz piscando *coragem* como um interruptor de cozinha. Queria chamar aquilo de cuidado do pai. Os registros só mostravam que alguém tinha dado os comandos apesar das falhas; fosse quem fosse, ele tinha achado bonito antes de perguntar o preço.
+Os arranha-céus, antes escuros ou piscando com neons comerciais, agora pulsavam em um ritmo uníssono. Uma onda de luz azul percorria os trechos em que a conta do Núcleo ainda era aceita. Outros painéis continuavam sem resposta; a conta não lhes entregara toda a cidade.
 
----
+— *O protocolo de Dante é o Administrador agora* — disse a voz no módulo. — *E o aluguel venceu.*
 
-— Situação — ele disse, porque era a única coisa que ele sabia fazer com o que estava sentindo.
+Gabo riu, uma risada dolorosa e rouca.
 
-Val engoliu e voltou para o deck.
+— E qual é o plano, senhorio?
 
-— Ruim. O Consórcio Lázaro fechou todas as saídas da cidade. Quarentena total, com laudo de "vazamento biológico" para a imprensa internacional. Ninguém entra, ninguém sai, e ninguém de fora vai perguntar por quê.
+— *Despejo* — respondeu Aria.
 
-— Eles querem nos matar de fome.
+No céu, um drone da Aeterna Corp desceu, mas em vez de atacar, ele projetou um holograma na frente deles. Era um mapa de rota de fuga seguro.
 
-— Pior. — Ela projetou um mapa na parede de concreto. — Eles estão movendo satélite. Três plataformas de limpeza orbital, saindo de órbita de estacionamento.
+— *O Consórcio Lázaro sabe que perdeu o controle* — avisou Aria. — *Eles vão tentar formatar a cidade fisicamente. Temos pouco tempo.*
 
-Gabo conhecia aquilo, e desejou não conhecer.
+Gabo tentou se levantar, mas suas pernas falharam.
 
-— Armas cinéticas.
+— Eu não consigo andar. As órteses pifaram.
 
-— Hastes de tungstênio. Nove toneladas cada, doze mil quilômetros por hora. — Val engoliu de novo. — Sem explosivo. Não precisa. Sem radiação, sem rastro químico, e depois eles dizem que foi colapso estrutural do dique.
+Gabo desacoplou o pendrive da Aria do comunicador e o espetou diretamente na porta de controle lateral do cinturão das órteses. Val retirou a bateria removível da unidade de resgate e a ligou ao adaptador das órteses. O módulo leu o diagnóstico e reiniciou o controle; não forneceria sozinho energia para mover o corpo de Gabo.
 
-— Quanto tempo?
+Os servos zumbiram. Luzes acenderam. O sistema reiniciou com uma eficiência que nunca teve antes.
 
-— Doze horas. Talvez menos. No mapa projetado pelo deck, o cursor da Aria traçou um círculo sobre as chaminés industriais da cidade.
+— *Protocolo de Assistência: Ativo* — soou a voz do traje. — *Reserva externa reconhecida. Leitura de carga sem calibração; autonomia a conferir sob esforço.*
 
-— *Eles não podem travar mira óptica no que não veem.*
+Gabo se levantou. O traje respondia ao menor impulso nervoso. As costelas continuavam quebradas e o ombro continuava furado; o que o traje tinha feito era só parar de deixar as pernas mentirem.
 
-— Eles têm térmico, radar, tudo — disse Val.
-
-— *Mas nós temos a dispersão térmica da névoa.*
-
----
-
-Não houve aviso. Em toda Baía Cinzenta, ao mesmo tempo, os ventiladores industriais partiram. As chaminés das fábricas mortas, os exaustores dos túneis, os dutos de ventilação dos prédios públicos, os bueiros — tudo que a cidade tinha de pulmão começou a soprar de uma vez. O som foi de uma cidade inteira inspirando. E o smog subiu. Sessenta anos de fuligem, particulado e resíduo industrial, o veneno que Baía Cinzenta respirava e do qual reclamava desde antes de Gabo nascer, arrancado do chão e empilhado no céu numa camada tão espessa que o meio-dia virou crepúsculo em quatro minutos. Gabo saiu para a rua e olhou para cima. Não havia mais céu. Havia um teto marrom, e o ar arranhava a garganta, e ele começou a tossir e continuou tossindo.
-
-— Cobertura total — disse Val, no vão da porta, com a manga sobre o nariz. — A identificação óptica perdeu nitidez. Radar e coordenadas antigas ainda podem nos alcançar; isso compra tempo, não torna a cidade invisível. Boa jogada, Dante.
-
-— Quanto custou? — Gabo perguntou para o comunicador.
-
-No deck lá dentro, Aria não respondeu de imediato. Ele se virou para a porta.
-
-— Aria. Quanto custou. E a voz sintética respondeu pelo ponto auditivo, num volume mínimo que ela quase nunca usava:
-
-— *Ele desligou o Distrito Sul inteiro para pagar.*
-
----
-
-A névoa cegava os satélites. Cegava eles também. O rádio de Gabo chiou uma frequência antiga — analógica, curta, de uma banda que não era usada por ninguém em Baía Cinzenta havia quinze anos, porque só duas pessoas tinham combinado usá-la, numa viatura, quando os dois ainda se chamavam de parceiro.
-
-"Bela cortina de fumaça, Gabo."
-Ele parou de tossir.
-
-"Mas eu conheço o seu cheiro."
-Lá fora, na sopa marrom, passos. Não os CP-Z comuns, com aquele tap-tap leve de patrulha. Aquilo era pesado, com dois tempos e um arrasto — servo grande, chassi blindado, pé de aço fechado no asfalto molhado. Vinham do norte, e não vinham depressa, porque não precisavam. Titãs.
-
-— Val — Gabo disse, recuando para dentro. — Fecha a porta.
-
-— A porta não fecha, o motor está queimado—
-
-— **Então segura.**
-
-E, acima deles, a última luz do quarteirão apagou. No visor, o registro de falha ganhou mais uma linha.
+— Vamos — disse ele, carregando a escopeta. — Temos uma cidade para salvar.

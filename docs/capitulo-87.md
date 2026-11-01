@@ -1,149 +1,149 @@
 ---
 layout: doc
-title: "Capítulo 87: O Novo Sacerdócio"
-description: "Vilar continua em recuperação após a amputação e o atendimento ocular. A ameaça aos sistemas de ventilação do enclave não equivale a eliminar todo oxigênio da cidade."
+title: "Capítulo 87: O Sol Negro"
+description: "Ao meio-dia, sobre o Memorial do Dilúvio, uma esfera do tamanho de um quarteirão come o sol. E a cidade para pela segunda vez em um ano."
 image: /capitulo_87.jpg
-Personagens Presentes: Capitão Jonas Vilar, Jonas Pequeno
-Localização: "Catedral de Ferro — que antes era esgoto e agora é morro. Tarde"
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Dra. Nise, Capitão Jonas Vilar
+Localização: "Memorial do Dilúvio — 12h"
 ---
 
-# Capítulo 87: O Novo Sacerdócio
+# Capítulo 87: O Sol Negro
 
-Catedral de Ferro — que antes era esgoto e agora é morro. Tarde.
-A topografia da cidade tinha mudado, e isso é uma frase que se lê rápido demais.
+Memorial do Dilúvio — 12h.
+Devia ser o momento mais claro do dia.
 
-Quer dizer o seguinte: as raízes que cresceram no subsolo empurraram estruturas inteiras para cima. Quarteirões subiram. O nível da Rua Vinte e Dois estava agora nove metros acima do que era, e o esgoto principal do Setor 4 — o domínio do Padre Miguel, a Catedral de Ferro — tinha emergido.
+Os quatro subiram pela escada rolante morta da saída norte da estação, atravessaram a catraca arrebentada e saíram no parque, e a primeira coisa que Gabo notou foi que estava escurecendo.
 
-O que era subterrâneo virou colina.
+Não era nuvem. Nuvem tem borda irregular e se move. Não era fumaça. Fumaça sobe.
 
-A abóbada de tijolo se abriu como casca de ovo, e o que sobrou era uma catedral a céu aberto feita de tubo de drenagem, comporta enferrujada e árvores petrificadas de sete metros, com o sol da tarde entrando pelos vãos em feixes cheios de esporo.
-
-Era, sem nenhum exagero, o lugar mais bonito de Baía Cinzenta. Vilar odiava aquilo com uma intensidade que ele tinha vergonha de sentir.
-
----
-
-Ele subiu a rampa a pé, sozinho, desarmado, porque essa tinha sido a condição.
-
-Cinquenta e cinco anos. Um braço: o esquerdo, esmagado na porta do laboratório e depois tomado pela infecção, fora amputado nas três semanas após o Sol Negro. O tapa-olho também era recente.
-
-O olho esquerdo ele tinha perdido para uma infecção fúngica que entrou por um arranhão na sobrancelha e que obrigara a equipe cirúrgica a retirar o olho num ambulatório de campanha. Nise acompanhara o pós-operatório; nem ela prometera que tinham contido tudo.
-
-Ele ainda sentia o olho que não estava lá. Passou a odiar isso também.
+Era uma sombra circular, com a borda nítida, imóvel, projetada no gramado do Memorial. Ele levantou a cabeça.
 
 ---
 
-Ele liderava a milícia dos Puros.
+A esfera parecia flutuar a uns cento e cinquenta metros de altura, exatamente sobre o espelho d'água, e tinha o diâmetro aproximado de um quarteirão.
 
-Eram os que recusavam a Simbiose. Duzentas e quarenta pessoas num enclave fortificado no Distrito Industrial, com chapa de aço naval soldada desde os primeiros meses do Apagão, com gerador a diesel, com água de poço artesiano e com rifle de ferrolho.
+Era feita de coisas.
 
-Tecnologia velha, deliberadamente. Nada com rede, nada com sensor, nada que tivesse porta.
+Dava para reconhecer, se olhasse com paciência, e Gabo olhou com paciência porque era o trabalho dele: dois ônibus, dezenas de carros, seções inteiras de laje com azulejo ainda colado, um caixa d'água, três árvores adultas arrancadas com raiz e torrão, um pedaço de outdoor com metade de um rosto sorrindo.
 
-Vilar tinha construído aquilo com as próprias mãos e uma mão só, e estava orgulhoso, e o orgulho durou até o dia em que ele fez a conta do oxigênio.
+Tudo isso mantido junto por uma teia de biomassa preta que passava entre os objetos como argamassa e os prendia sem tocar o centro.
 
----
+Val apontou para as bordas da sombra. Feixes negros desciam até as torres e os pilares que cercavam o lago. A massa estava suspensa naquela trama; onde o sol batia de lado, os cabos incorporados às raízes brilhavam.
 
-O trono ficava no fundo da catedral e era feito de osso e servidor derretido, e essa combinação dizia tudo sobre a estética do novo regime.
+Ela pulsava.
 
-Sentado nele estava o Sumo Sacerdote do Culto do Silêncio.
+E não refletia nada. Aquilo era o detalhe insuportável: às doze horas de um dia de sol, uma esfera do tamanho de um quarteirão a cento e cinquenta metros de altura não tinha um único ponto de brilho.
 
-Não era o Profeta Mudo. Aquele tinha servido como alto-falante nas semanas anteriores e depois florescera.
+Ela estava **comendo** a luz.
 
-Este era outro. Vilar levou uns dez segundos para reconhecer, e quando reconheceu teve de segurar no corrimão. Era o menino da TI.
+— O que é aquilo? — perguntou Vilar, e baixou a arma sem perceber que tinha baixado.
 
----
-
-O garoto que trazia café para o gabinete às três da tarde. Que consertou a impressora da delegacia quatro vezes sem nunca abrir chamado. Que tinha vergonha de falar em reunião e pedia licença para passar em corredor vazio.
-
-Vinte e seis anos. Chamava-se Jonas. Como o Capitão. Nunca tinha incomodado ninguém — a delegacia inteira achava graça, tinha até virado piada de plantão: *Jonas grande e Jonas pequeno.*
-
-Agora o Jonas pequeno tinha quatro braços a mais.
-
-Membros finos, articulados em três pontos, de aparência insetoide, saindo das costas por baixo das escápulas, e eles se mexiam o tempo inteiro. Digitavam. No ar, em nada, com uma velocidade e uma precisão que davam náusea de assistir — e, conforme eles digitavam, as vinhas ao redor do trono respondiam.
-
-Ele não estava fazendo mágica. Estava **operando**.
+— É o coração — disse Gabo.
 
 ---
 
-— Capitão Vilar. — A voz saía multiplicada, com três ou quatro cordas vocais em alturas diferentes, e o efeito era de coral pequeno. — O senhor está bebendo muita água.
+Quatro drones da polícia subiram do lado leste do parque em formação. Chegaram a uns setenta metros da esfera e caíram.
 
-— A água é de quem pega, garoto.
+Não foram abatidos: caíram, os quatro no mesmo instante, girando sem controle, e bateram no gramado com aquele barulho barato de plástico caro.
 
-— Não me chame de garoto.
+Val se abaixou ao lado de um deles e olhou a carcaça sem encostar.
 
-Foi a primeira coisa dita naquela sala com emoção humana dentro, e os dois notaram, e Vilar arquivou.
+— Placa escurecida — disse. — Pode ter queimado antes da queda. Preciso abrir em lugar isolado. Os quatro perderam controle no mesmo limite; por enquanto é só isso.
 
-— Está bem. — Vilar tentou cruzar os braços por hábito e parou ao sentir a manga vazia. — A água é de quem pega, Jonas. Não reconheço autoridade nenhuma nesse morro.
+— Biológico?
 
-— Autoridade é uma construção do velho mundo, Capitão. — Os quatro braços continuavam digitando. — Eu não vim falar de autoridade. Eu vim falar de necessidade, que é a única coisa que sobrou funcionando.
-
-— Fala então.
-
-— O senhor cede a estação de tratamento da Rua Sete. Ou nós cortamos o oxigênio do seu enclave.
+— Pode ter atividade elétrica nessa trama, além dos cabos e das subestações que ela tomou. — Ela se levantou. — Não vou explicar um campo desses contando enguias.
 
 ---
 
-Vilar riu com o canto da boca.
+Val caiu de joelhos de repente, com as duas mãos na cabeça.
 
-— Vocês não conseguem cortar o ar de ninguém.
+— Val!
 
-— O enclave vedou as entradas por causa dos esporos. Restaram dois adutores filtrados e os cartuchos de reserva. — Jonas falou aquilo sem nenhuma ênfase. — As raízes já alcançaram os dois adutores. Podemos fechar o que vocês precisam para ventilar.
+— Espera. Espera. — Ela ficou assim uns dez segundos, com os olhos fechados e os dentes trincados. — É o retorno do comunicador. A Aria mandou desligar a ponte.
 
-Os braços pararam de digitar.
+— O que ela está falando?
 
-— Nós controlamos as plantas, Capitão. Não é ameaça. É contabilidade.
+— Ela não está falando. — Val abriu os olhos, e eles estavam vermelhos. — Ela está gritando, Gabo. Ela está dizendo que está sendo **sobrescrita**. Setor por setor. As rotinas remotas estão devolvendo respostas alteradas. O núcleo dela continua no módulo; vou cortar a conexão antes que alcance o dock.
 
-Vilar conhecia os adutores e o estoque curto de filtros. Desde que as raízes alcançaram a ventilação, a ameaça de fechá-la pairava sobre o enclave; ele não sabia quanto tempo ainda teriam para buscar outra saída.
-
-Ele soltou o ar pelo nariz.
-
-— O que vocês querem em troca da água?
+Gabo se agachou ao lado dela com dificuldade e colocou a mão nas costas dela e não disse nada, porque não havia nada.
 
 ---
 
-Jonas sorriu. Os dentes dele eram cristal de quartzo, translúcidos, e não eram iguais entre si — cresciam em ângulos ligeiramente diferentes, como cristal cresce mesmo, sem simetria.
+— Doutora. — Ele levantou o rosto. — A senhora consegue me dizer o que aquilo faz?
 
-— Queremos o Moretti.
+A Dra. Nise estava com dois instrumentos nas mãos, e os dois estavam enlouquecidos: o contador de partículas saturado, o termômetro infravermelho oscilando doze graus por segundo.
 
-Vilar não se moveu. Ele levou três décimos de segundo para tomar a decisão de não se mover, e foram os três décimos mais bem gastos da carreira dele.
+— Eu vou dizer uma coisa e o senhor não vai gostar da minha confiança nela.
 
-— O Gabo está ferido — disse, com a voz normal.
+— Diga assim mesmo.
 
-— Mentira.
+— Absorção de luz, talvez uma fonte de energia para essa massa. — Ela apontou a esfera. — Uma planta pega luz, água e gás carbônico e monta açúcar: ela transforma energia em ordem. Isso ali está fazendo a mesma coisa numa escala industrial, mas o produto final não é açúcar.
 
-— Ele levou dezoito fraturas meses atrás, Jonas. Isso é registro médico.
+— É o quê?
 
-— O senhor está mentindo agora, e não sobre isso. — Jonas inclinou a cabeça, e os quatro braços voltaram a digitar. — Nós sabemos que a Dra. Nise mantém ele num quarto sem rede, sem sensor e sem contato com o solo, no subsolo do Hospital. Nós sabemos porque há um vazio nas leituras do hospital, e gente que entra levando curativo. O senhor acha que só as flores dão informação?
+— Não sei. — Nise baixou o instrumento. — A estrutura parece organizada, mas não medi o que produz nem quanto da luz usa. Organização não prova consciência.
 
-Vilar não disse nada.
+— A senhora está me dizendo que aquilo está **pensando**.
 
-— Traga o Moretti. O Pai quer integrá-lo.
-
-— Vocês odeiam gente.
+— Estou dizendo que pode estar usando luz. Para saber se processa alguma coisa, precisamos de medições que estes aparelhos não estão conseguindo fazer.
 
 ---
 
-— Nós não odiamos gente, Capitão. — E dessa vez a voz veio quase gentil. — Nós odiamos o velho mundo. Eu passei quatro anos levando café para homens que não sabiam o meu nome, e no dia em que a Torre caiu eu fiquei três semanas sem que ninguém percebesse que eu não tinha ido trabalhar. Eu não odeio nenhum deles. Eu só não vejo por que preservar aquilo.
+A esfera emitiu um pulso.
 
-Ele se inclinou para a frente no trono de osso.
+Não houve som. Houve uma onda visível — o ar se comprimiu num anel que se afastou do centro, e dava para ver o anel passando pelas árvores, pela grama, pelas estátuas, e depois pela cidade.
 
-— Moretti é a semente perfeita para o que vem. Ele é o único que ouve a Canção e não vem, e a única coisa que a Raiz ainda não tem é alguém que saiba dizer não.
+Gabo sentiu quando passou por ele: um solavanco no peito e um sabor de metal na boca.
 
-— E se eu não entregar?
+E, um segundo depois, Baía Cinzenta parou.
 
-— Aí o senhor terá tomado uma decisão bonita — disse Jonas Pequeno — e duzentas e quarenta pessoas vão ter oito ou nove dias para admirá-la.
+Os hologramas ao redor do parque falharam. As luzes se apagaram até onde Gabo conseguia ver. Dois carros pararam na avenida; ao longe, uma sirene continuou tocando. O ronco de fundo — bomba, ventilação, transformador, o Ruído que tinha voltado devagar nos últimos três meses — sumiu.
+
+O silêncio caiu.
+
+Gabo procurou o ruído que desaparecera da primeira vez. Val ainda tremia ao lado dele. Não sabia o que estava acontecendo nos outros bairros.
+
+A cidade tinha aprendido a ficar em silêncio. Era a única coisa que ela tinha aprendido no ano inteiro.
 
 ---
 
-Vilar desceu o morro sozinho. Levou quarenta minutos, porque descer é pior que subir quando o joelho é velho, e ele levou os quarenta minutos inteiros com o estômago embrulhado.
+Depois começou a chover. Não água.
 
-Trair a última esperança da cidade para sobreviver mais um dia.
+Da superfície da esfera começaram a se soltar partículas — leves, escuras, do tamanho de um floco de cinza — que desciam devagar, girando, sem pressa nenhuma, cobrindo o parque e depois os quarteirões em volta e depois tudo.
 
-Ou não trair, e assinar sozinho o atestado de duzentas e quarenta pessoas que confiaram nele porque ele tinha farda e patente e uma voz que nunca tremia.
+Uma neve preta e cinzenta. Ela pousava no gramado, nas estátuas de bronze, nos ombros dos quatro, nos telhados de uma cidade parada.
 
-Era a escolha que ele passou trinta e três anos de corporação esperando nunca ter de fazer, e ela chegou numa quinta-feira, sem aviso, sem promotor e sem ninguém para dividir.
+Gabo estendeu a mão com a palma para cima, e um floco pousou nela. Não derreteu. Absorveu.
 
-Ele parou no portão do enclave e ficou olhando as chapas soldadas.
+Sumiu para dentro da pele dele em menos de dois segundos e deixou uma mancha cinza de meio centímetro no meio da palma, com a borda esfumada, que parecia tinta e parecia necrose e Gabo não soube dizer qual das duas.
 
-Lá dentro, alguém tinha acabado de fazer sopa, e o cheiro veio até ele. Vilar não disse nada a ninguém naquela noite.
+Ele fechou a mão.
 
-Nem naquela, nem nas oito seguintes.
+— Não respirem — disse a Dra. Nise, com uma calma horrível. — Máscara, todo mundo, agora. Não sabemos o quanto os filtros seguram. Cubram a pele e saiam da deposição.
+
+---
+
+Os quatro ficaram no meio do Memorial do Dilúvio, debaixo de uma esfera do tamanho de um quarteirão, na neve preta, numa cidade sem energia.
+
+Ao redor deles, as cento e nove estátuas de bronze do memorial — figuras de pessoas comuns em tamanho real, com as mãos estendidas, encomendadas em cinquenta e três por uma prefeitura envergonhada — foram ficando escuras conforme os esporos assentavam nos ombros e na cabeça delas.
+
+— Acabou o Renascimento — disse Gabo.
+
+— Não fala assim — disse Val.
+
+— É o que é. — Ele olhou em volta. — A gente teve três meses. Três meses de sol, de café e de gente varrendo a própria calçada, e eu tive medo do tempo inteiro porque estava dando certo demais, e olha só do que era o medo.
+
+— E o que começa agora? — perguntou Vilar.
+
+---
+
+Gabo levantou a cabeça para a esfera.
+
+Ela continuava pulsando, devagar, num compasso de setenta e poucos — o mesmo do fungo dentro do servidor, o mesmo de um coração humano em repouso —, e a sombra dela cobria dezoito quarteirões.
+
+E dava para sentir, de um jeito que não tinha explicação nenhuma e que os quatro sentiram junto, que aquilo estava **olhando de volta**.
+
+— A Era da Máquina acabou — disse Gabo. — A da carne começou às doze horas.
+
+Ele guardou a mão fechada no bolso do sobretudo, para ninguém ver a mancha, e começou a andar na direção do bunker.

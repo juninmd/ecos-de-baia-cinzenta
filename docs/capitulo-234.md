@@ -1,128 +1,150 @@
 ---
-Título: O Fio Cortado
-Data In-Game: Sexta noite na Velha Baía
-Localização: Galpão de Impressão e Subestação Orla Norte, Velha Baía
-Personagens Presentes: Gabo, Valéria, Elena, Dra. Elara Vance, Elias
+Título: Catraca
+Data In-Game: Quarto dia na Velha Baía
+Localização: Pátio Externo e Canal de Drenagem, Velha Baía
+Personagens Presentes: Gabo, Valéria, Elias, Elena, Anselmo Braga
 ---
 
-# Capítulo 234: O Fio Cortado
+# Capítulo 234: Catraca
 
-O zumbido não veio da rede elétrica, porque rede elétrica é luxo que a Velha Baía enterrou no Apagão.
+A Valéria montou a armadilha em sete horas e ela era boa.
 
-Veio do chão. Uma vibração surda, contínua, que fazia a poeira de carvão dançar sobre as caixas de papel da Arca Zero e arrepiava os pelos do meu braço bom. Uma vibração subterrânea que atravessava as solas e fazia as ferramentas na mesa tilintarem.
+Sensor de pressão no barranco do canal, feito com fio de cobre e uma placa de prensa. Rede de carga içada numa polia, com as bordas ligadas por cabos a um contrapeso de duzentos quilos. O peso corria por guias ao lado do muro, não cairia sobre o corpo de ninguém. Dois pontos de fogo cruzado: ela numa passarela, o Elias com a espingarda de cano duplo dos Rossi atrás de um muro de fardos de papel. E eu no portão, sozinho, como isca, porque era o único jeito de ele chegar perto.
 
-A Dra. Vance parou com a xícara de lata a dois centímetros da boca.
+Às onze em ponto ele veio pelo canal. Às onze e um a placa de pressão disparou.
 
-— Não reconheço essa vibração — ela disse. Abriu o esquema da drenagem sobre a mesa. — Mas a linha auxiliar da Subestação Orla Norte passa sob este terreno. Há um circuito de purga ligado a ela.
-
-Valéria já estava ajoelhada junto à carcaça do osciloscópio militar encostada na parede desde antes do Dilúvio. Os fios de LED na franja dela pulsavam num azul rápido e doente, e os olhos prateados faziam microajustes focais com um zumbido seco.
-
-— Estou recebendo uma portadora na faixa indicada no esquema — disse Valéria. — A intensidade cresce, mas daqui não consigo medir a carga do banco. Temos de presumir que a linha pode estar sendo ativada.
-
-— Traduz, Val — pedi, com a mão esquerda apertando a tipoia onde meu braço fraturado pulsava em pontadas quentes.
-
-— Protocolo Crepúsculo — respondeu a Dra. Vance, girando a cadeira de aço com a lentidão das juntas gastas. — O plano de contingência que meu pai desenhou para destruir arquivos e testemunhas em caso de retirada não autorizada. Se o material saísse do berço, a subestação canalizaria a descarga dos capacitores marítimos direto para as galerias de drenagem sob este galpão, incendiando os alimentadores e o combustível de reserva.
-
-Olhei para as quatro toneladas de papel empilhadas.
-
-— Eles vão queimar o galpão por baixo.
-
-— Podem incendiar o perímetro — corrigiu a doutora. — Papel, prensas, pessoas. Não sabemos quem ativou o circuito nem se Krell enviou Braga. Se o disjuntor da Orla Norte fechar, o plano prevê a descarga na drenagem.
-
-Elena estava encostada na rotativa. A jaqueta de campo verde-oliva estava manchada de tinta fresca até os cotovelos. Ela não olhou para o osciloscópio. Olhou para o relógio de pulso analógico, aquele com a pulseira de couro gasta que ela usava desde o jornal da faculdade.
-
-— A subestação tem a antena principal de difusão costeira — ela disse. A voz dela saiu muito calma, com aquele peso específico de quando ela encontrava um erro em relatório policial. — A torre de rádio analógica que ligava os faróis da baía ao continente antes da cúpula existir.
-
-— A antena está desativada há trinta anos — falei.
-
-— A antena está desativada, Gabriel, mas o cabo coaxial primário desce até o transmissor de emergência da sala de comando — Elena deu dois passos na minha direção. O cheiro de chuva ácida e café velho veio com ela. — Se alguém alcançar o quadro de transferência, pode isolar a linha de purga e alimentar o transmissor costeiro de onda curta. Cem mil watts de potência bruta.
-
-Elias levantou a cabeça do canto do galpão, onde limpava as graxas da prensa.
-
-— Isso cobriria a costa inteira — ele murmurou.
-
-— Talvez alcance parte da costa, se a antena ainda funcionar — disse Elena, conferindo o gravador. — Os assentamentos que ouvirem podem retransmitir. A gravação que preparei com a doutora explica o índice, a amostra e onde consultar as cópias. Não impede ninguém de mentir sobre ela; torna mais difícil recolher todas as provas.
-
-— Você não vai — eu disse. A palavra saiu seca, com gosto de bile na língua.
-
-Ela parou diante de mim. Os olhos verdes acinzentados tinham aquela frieza cortante que eu conhecia desde o tempo em que dividíamos uma mesa de mogno falsa e duas canecas lascadas na Zona Leste.
-
-— Eu não estou pedindo permissão, Gabriel. Eu sou a única pessoa nesta sala que sabe calibrar uma mesa de som analógica sem fritar a modulação.
-
-— O último vigia viu sentinelas na subestação — argumentei, tentando dar um passo à frente, mas o joelho travado pela órtese rangeu contra o cascalho. — Meu braço está quebrado. Não sei chegar lá antes de você.
-
-— Eu mantive uma gráfica clandestina fora da cúpula nestes meses enquanto você dormia com a escopeta na mão — ela disse, e tocou de leve no meu peito, exatamente onde a carcaça de titânio do meu colete terminava. O toque foi leve, mas ardeu mais que o osso fraturado. — Você passou a vida inteira achando que proteger alguém significa morrer no lugar dela. Mas a verdade não precisa de um mártir quebrado, Gabriel. A verdade precisa de uma manchete que chegue antes da queima de arquivo.
-
-— Elena, por favor.
-
-— Me dá a *Caronte*.
-
-Olhei para a escopeta de cano serrado encostada nas caixas de papel. Minha arma. A mesma coronha de nogueira desgastada que já quebrou dentes de capitães da milícia e estourou travas de blindados no Dilúvio.
-
-— Você odeia essa arma — sussurrei.
-
-— Eu odeio ter que usá-la — ela corrigiu, pegando a alça de lona da *Caronte* e jogando sobre o ombro com um puxão firme. — Me dá os cartuchos de balote pesado. Dois no cano, quatro na coronha.
-
-Valéria deu um passo à frente.
-
-— Não temos o mapa atualizado dos sentinelas nem confirmação de uma saída. Eu não consigo calcular sua chance de voltar.
-
-Elena olhou para Valéria.
-
-— Guarda o cálculo para o Gabriel, Valéria. Ele sempre gostou de perder contra a banca.
-
-Antes de sair, Elena encaixou um pequeno disco na cavidade da coronha. — Tem cópias dos registros que separamos no galpão — disse. — Se eu perder a bolsa, pelo menos ficam em outro lugar. Ela virou as costas. Não houve despedida solene, nem beijo de romance barato. Ela ajustou a gola da jaqueta verde-oliva, verificou o estojo de microcassetes no bolso interno e saiu pela porta metálica do galpão para a chuva gelada da noite.
+Às onze e dois a rede caiu em cima dele. O contrapeso desceu nas guias e puxou as bordas contra as argolas fincadas no pátio. Braga caiu de lado, com os braços presos ao corpo; a malha cedeu o bastante para ele respirar. Funcionou. Foi a coisa mais assustadora que eu vi naquela semana.
 
 ---
 
-— Não vamos esperar aqui — disse Valéria. Ela puxou o mapa para perto e marcou com a caneta a bifurcação da estrada. — Elias, quanto tempo até a subestação pelo quebra-mar?
+Porque ele não lutou. Ficou caído de lado sob a rede, respirando pesado pelo esforço da queda, e esperou a poeira baixar. Depois virou o rosto na minha direção, no chão, e falou com o mesmo tom de balcão de repartição:
 
-— De jipe, uns vinte minutos, se a ponte aguentar. A estrada de serviço é mais curta, mas foi bloqueada no Dilúvio.
+— Boa, essa. O gatilho no barranco eu não vi.
 
-— Você já percorreu o quebra-mar com carga? — perguntou ela.
+— Cala a boca.
 
-— Ontem. Sem garantia para hoje.
+— Não estou provocando, Sr. Moretti. Estou elogiando. — Ele mexeu os ombros, testando a rede sem força, como quem confere se a carga está bem amarrada. — A moça das lentes que montou?
 
-Val assentiu. Não pediu certeza que ele não tinha. Entregou a Elara uma cópia do esquema e foi até os trabalhadores da prensa.
+Valéria desceu da passarela com a *Caronte* apontada.
 
-— Afastem todo mundo da drenagem e levem o que conseguirem do arquivo para os caminhões. Não empilhem o papel contra o motor. Eu aviso pelo rádio se o sinal mudar.
+— A rede está presa nas quatro argolas, — ela disse. — Não consigo garantir quanto tempo elas aguentam. Precisamos revistar ele e colocar algemas antes de aliviar o peso.
 
-Elias correu para o jipe. Eu fui atrás dele e tropecei na rampa. Segurei a parede com a mão esquerda; a pancada sacudiu a fratura direita e deixou um gosto de cobre na boca. Val voltou, colocou meu braço bom sobre o ombro dela e esperou até que eu firmasse o pé. Não perguntou se eu precisava de ajuda. Eu precisava.
+— Não saio mesmo, — Braga confirmou, prestativo.
 
-— Você devia ter ido com ela — falei.
+Elias saiu de trás dos fardos com a espingarda tremendo tanto que eu tive medo de estar mais perto dele do que do Braga.
 
-— Ela saiu antes de termos transporte. Ir sem um caminho não tornaria a decisão menos perigosa. — Val abriu a porta do passageiro. — Ainda podemos alcançá-la ou tirar gente de lá. Escolha onde sentar; preciso levar o rádio e o equipamento de resgate.
+Valéria cobriu Braga com a escopeta enquanto Elias, tremendo, tirava a faca da bota dele e prendia seus pulsos com algemas de um armário da gráfica. Não tínhamos resolvido o que fazer depois.
 
-Sentei. Elias pôs uma bolsa de primeiros socorros e máscaras com filtros no banco traseiro. Enquanto ele conferia o combustível, Val tentou chamar Elena. O rádio devolveu estática, depois uma voz de outro assentamento perguntando se a frequência estava livre. Ela pediu que mantivessem escuta e retransmitissem qualquer mensagem da jornalista.
-
-A doutora apareceu na entrada do galpão, empurrando a própria cadeira pelo piso irregular.
-
-— Inspetor. — Ela me entregou uma folha dobrada. — O desenho do quadro de transferência. É antigo. Não sei o que foi substituído desde então.
-
-— A Elena tem uma cópia?
-
-— Tem. Eu dei a ela antes de vocês discutirem a escopeta.
-
-Eu quis me irritar com as duas. A doutora estava tremendo de frio; atrás dela, dois trabalhadores carregavam a primeira caixa, sem correr, porque o caminho era estreito e o papel precisava chegar inteiro. Não havia nada útil em gritar.
-
-— Se o rádio cair, procurem abrigo longe do canal — disse Val à doutora. — Não esperem por nós para sair.
-
-Elara segurou a folha que ficara com ela. — Vou com os registros. Os outros escolhem por si.
+O sol batia na rede de aço e o pátio inteiro cheirava a poeira quente e a maresia podre do canal. Cada vez que Braga respirava, a malha rangia contra o cascalho, um som fino e regular de coisa mastigando devagar. Eu tinha gosto de metal na boca desde o café, e a cinta laranja do Duarte, enrolada no cinto dele, estava exatamente à minha altura dos olhos.
 
 ---
 
-O jipe saiu com o motor tossindo fumaça. Pelo espelho, vi a porta do galpão aberta, as pessoas entrando e saindo, as caixas passando de mão em mão. Não sabíamos se a linha ia descarregar; também não íamos apostar a vida delas em silêncio.
+— A gente prende, — disse Elias. — Tem um depósito com porta de aço. Bota ele lá.
 
-Val girou o seletor do rádio. Elias dirigia com as duas mãos tensas no volante. Na primeira curva, o receptor estalou e uma voz apareceu por baixo da interferência. Era a gravação que Elena preparara com a doutora: nomes, datas, o alcance do índice e o tamanho da amostra. Alguém pedira que repetisse a frequência.
+— E quem alimenta? — perguntou a Valéria. — Quem vigia? Precisamos de revezamento, alimentação e uma sala que ele não consiga abrir. Não basta deixar um civil com a espingarda no colo. Vamos chamar os outros trabalhadores e pedir custódia pelo rádio.
 
-— Pegaram o sinal — disse Elias.
+— A gente amarra melhor.
 
-— Pelo menos uma estação — respondeu Val. Ela anotou o horário e chamou de novo. — Elena, aqui é Valéria. Estamos a caminho. Diga onde você está.
+— Ele é estivador, rapaz, — disse Braga do chão, sem levantar a voz. — Eu amarro melhor que a moça e sei desfazer o que eu amarro. Vocês vão precisar me deixar sem uma das mãos, e aí eu infecciono e vocês vão ter que cuidar disso também.
 
-Não houve resposta. A gravação continuou por alguns segundos, engasgou e voltou. Depois outra voz confirmou a recepção e prometeu passar o trecho adiante. Era uma pessoa, numa estação que eu não conhecia, fazendo uma escolha que Krell não podia recolher com a mão.
+— **Cala a boca!** — Elias gritou.
 
-Apertei o rádio contra a perna para Val ajustar a antena. A dor no braço vinha em ondas, mais quente a cada buraco da estrada. À frente, sobre o mar escuro, uma luz avermelhada cresceu atrás das instalações da orla.
+— Estou tentando ajudar. — Era o jeito dele de fazer o próprio ultimato parecer a única conversa possível. — Vocês não pensaram nessa parte porque vocês são gente boa. Eu já tive catorze anos para pensar em como se guarda uma pessoa. Custa caro. Custa mais do que vocês têm.
 
-— Isso é da subestação? — perguntei.
+Eu andei até ele e agachei, com dificuldade, apoiando a mão no joelho bom.
 
-— Pode ser. Ainda não dá para ver — disse ela. E tornou a chamar Elena.
+— Eu posso te soltar longe daqui. Cem quilômetros. Sem comida.
+
+— O senhor pode. — Ele assentiu. — E eu volto andando. Vai levar uns onze dias e eu chego. — Ele disse aquilo sem bravata nenhuma, como quem informa horário de ônibus. — E nesses onze dias o senhor vai dormir mal, e a jornalista vai dormir mal, e o rapaz de macacão vai dormir com a espingarda no colo até se acostumar, e aí ele vai relaxar num dia qualquer, e é nesse dia que eu chego.
+
+— Você não vai chegar.
+
+— Sr. Moretti. — Pela primeira vez, alguma coisa parecida com cansaço na voz dele. — O senhor sabe o que eu sou. O senhor prendeu gente a vida inteira e sabe diferenciar o sujeito que fala grosso do sujeito que só está informando. Eu estou informando.
+
+---
+
+Ficamos até o sol começar a descer.
+
+Dois trabalhadores aceitaram turnos de guarda. Pelo rádio, o abrigo do Setor 4 respondeu que poderia receber Braga em dois dias, se a estrada continuasse aberta. Não era uma garantia. Era uma alternativa, e eu ouvi a mensagem inteira.
+
+A Elena foi cuidar da tiragem porque o mundo não para. O Elias ficou de guarda até as três e depois eu mandei ele comer. Valéria organizou com os dois trabalhadores um revezamento de observação, água e verificação das algemas. Depois ficou comigo no primeiro turno.
+
+E eu fiquei ali, sentado num caixote a três metros de um homem preso numa rede, porque eu não conseguia sair de perto. Foi ele que puxou assunto, no fim da tarde.
+
+— O senhor perdeu a mãe na enchente.
+
+Eu não me mexi.
+
+— Não fala da minha mãe, Braga.
+
+— **Eu não estou provocando**, — ele respondeu, baixo e gentil. — Eu não estou perguntando, Sr. Moretti. Eu sei desde o mês do Dilúvio.
+
+Levantei a cabeça.
+
+— Como.
+
+— Pátio do Fosso. Um agente chamado Peçanha, que gostava de contar coisa de rua para os presos porque isso fazia ele se sentir importante. — Braga estava olhando o céu. — Ele chegou uma tarde e disse assim: *"Braga, sabe aquele detetive que te enfiou aqui? Perdeu a mãe na enchente. Dona Helena morreu no cerco, sem conseguir o atendimento de que precisava, enquanto ele bancava o herói na rua. Coisa de Deus."*
+
+Eu senti o cascalho debaixo de mim ficar muito longe.
+
+— E o pátio inteiro achou ótimo, — ele continuou. — Uns cinquenta homens comemorando a morte de uma senhora que não fez mal a ninguém, só porque ela era mãe do policial que prendeu eles. Teve gente que bateu palma.
+
+Uma pausa.
+
+— Eu levantei e fui pro canto e vomitei atrás do bebedouro.
+
+Eu não estava respirando direito.
+
+— Por quê? — consegui perguntar.
+
+— Porque eu tinha uma filha lá fora, na mesma água. — Ele virou o rosto, e os olhos pequenos e parados estavam molhados, e ele não fez absolutamente nada a respeito. — E porque quem comemora inocente afogado é bicho, e eu já era assassino de mulher, mas eu ainda não era bicho. Naquela tarde eu decidi que ia continuar não sendo.
+
+— Você matou o Duarte ontem.
+
+— Matei. E vou pagar por ele. — Assentiu. — Mas eu não comemorei, Sr. Moretti. Tem diferença. É pouca, e é a única que eu tenho.
+
+---
+
+— A minha filha chamava Marta, — ele disse, depois de um tempo. — Tinha quatro anos quando eu entrei. Ficou com a tia no Setor 11.
+
+— Braga.
+
+— Eu escrevi toda semana. Catorze anos. Setecentas e vinte e oito cartas, com a letra bonita, porque eu treinei a letra na cadeia justamente pra isso. — A voz dele não mudava nunca, e por isso era insuportável. — Ela respondeu até os onze. Depois parou, e eu continuei escrevendo, porque carta que não é respondida ainda é carta.
+
+Ele fechou os olhos.
+
+— Quando as portas do Fosso cederam, três meses atrás, eu andei três dias até o Setor 11. A tia tinha morrido. Um vizinho me contou que a Marta ficou até os dezoito e morreu no Dilúvio, num abrigo da escola municipal que encheu porque não coube todo mundo e as portas foram fechadas por fora.
+
+Abriu os olhos.
+
+— O mesmo desastre, Sr. Moretti. A sua mãe e a minha menina, cercadas no mesmo mês.
+
+Silêncio.
+
+— E é por isso que eu vim, — ele disse. — Não é vingança. Vingança seria eu tirar alguém seu pra gente ficar quites, e a água já tirou, e eu não fico feliz com isso e não é isso que eu quero.
+
+Ele me olhou.
+
+— Eu vim porque eu perdi catorze anos que eram os anos dela. Se eu tivesse solto, eu não sei se ela estaria viva — talvez não, talvez eu fosse um pai ruim e ela morresse igual. Eu não sei. **E é o não saber que eu não aguento.** O senhor me tirou a chance de descobrir, com uma faca que o senhor colocou numa caixa d'água, porque o senhor tinha pressa.
+
+Eu abri a boca e não saiu nada.
+
+— E aí eu passei catorze anos deitado num beliche pensando: se o homem que fez isso comigo é um homem justo, então eu mereço. Eu consigo carregar isso, se ele for justo. — A voz dele finalmente rachou, uma vez, no meio. — Mas se ele for igual a mim, um sujeito que faz o que dá na telha e depois dorme, então eu perdi a minha filha porque um cara qualquer teve pressa numa terça-feira. E isso eu não carrego, Sr. Moretti. Isso eu não carrego de jeito nenhum.
+
+---
+
+Ele respirou fundo. Recompôs. Voltou ao tom de balcão.
+
+— Então é isso que eu vim buscar. Não é a sua morte. É uma resposta.
+
+— Que resposta?
+
+— O senhor vai me matar aqui, no chão, amarrado, sem eu poder levantar a mão. — Ele disse aquilo como quem descreve um procedimento. — E aí eu vou saber. Vou saber que era isso, que foi sempre isso, que não teve justiça nenhuma na minha vida, só um homem com pressa. E vai doer, mas vai ser **descanso**, porque eu vou parar de perguntar.
+
+— E se eu não matar?
+
+— Aí eu saio dessa rede algum dia e cobro do rapaz de macacão. — Sem crueldade. Com pena, quase. — E depois da jornalista. E o senhor vai voltar aqui e vai me matar de qualquer jeito, só que com mais três pessoas embaixo da terra e nenhuma dúvida sobrando.
+
+Ele fechou os olhos e apoiou a cabeça no cascalho, confortável, como quem termina o expediente.
+
+— Eu já pensei em tudo isso, Sr. Moretti. Eu tive catorze anos. O senhor tem até de manhã.

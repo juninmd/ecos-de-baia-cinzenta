@@ -1,91 +1,94 @@
 ---
-title: "Capítulo 121: Fios Desencapados"
-Data In-Game: "23 de Novembro, 01:00"
-Localização: "O Fliperama (Esgotos / Subnível do Distrito Industrial)"
-Personagens Presentes: "Gabo Moretti, Valéria Cruz, Inspetor Rangel (Crítico), Aria (Offline), mulher e menino resgatados."
-description: "Val impede a solda na ferida de Rangel. O grupo cobre o ferimento e procura atendimento; a mulher resgatada no porto encaminha o pedido de ajuda."
+image: /capitulo_121.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Inspetor Rangel, Valéria "Val" Cruz, Aria
+Localização: "Usina Prometeu em ruínas — Corredores → Doca de Carga B"
 ---
+# Capítulo 121: Cinzas Frias
 
-# Capítulo 121: Fios Desencapados
+A gravidade parecia ter dobrado. Não era apenas o cansaço brutal de Gabo enquanto ele e Valéria avançavam pelos corredores em ruínas, o passo limitado pela órtese na perna direita, em direção à Doca de Carga B; era o peso do que tinham acabado de fazer.
 
-O caminhão de reboque morreu com um suspiro engasgado junto à entrada de serviço do esgoto. Eles o deixaram escondido e levaram Rangel pela passagem estreita até o Fliperama. O silêncio que se seguiu foi pesado, quebrado apenas pelo som de metal esfriando e pela respiração irregular de Rangel.
+O "Pai" estava caído. A voz que ordenava a cidade havia se calado.
 
-Gabo firmou a órtese antes de vencer o último desnível do túnel. O ar ali embaixo tinha gosto de cobre e mofo antigo. *O Fliperama*. O santuário de Kiko Vibe.
+O corredor tinha voz própria agora. Sem o zumbido dos servidores, os outros sons subiram de volume: água correndo por dentro das paredes, o estalo térmico das vigas, o clique de um relé morrendo em algum armário elétrico. Gabo ouviu tudo com a clareza irritante de quem passou a vida numa cidade que nunca deixava ninguém escutar nada.
 
-— Valéria, luzes — ordenou, abrindo a porta do carona.
+Faltava uma coisa. Não era ruído. Era a respiração de Aria no ponto auditivo — um chiado mínimo, quase imaginário, que ele só notava quando não estava lá. Ele levou dois dedos ao comunicador da lapela, como quem confere um bolso, e não encontrou nada.
 
-Rangel estava pálido, a cabeça pendendo sobre o ombro de Gabo. O curativo de emergência no ombro estava encharcado.
+— O drive ainda está soltando fumaça, Gabo — arfou Valéria, ajudando-o a vencer um trecho obstruído com o *Phantom V3* desligado preso ao peito. Seu rosto estava sujo de fuligem e sangue seco, mas seus olhos, iluminados pelas luzes de emergência vermelhas, mostravam uma determinação feroz. — Se o calor derreter o barramento interno do pendrive, não vai sobrar nem código para diagnosticar.
 
-— Não tenho interface sem fio com o sistema daqui — disse Valéria, trêmula, enquanto procurava um interruptor com a mão direita.
+Gabo não respondeu. No estojo de ferramentas que Val carregava, o cilindro de Aria esfriava lentamente. Ele sentia o suor frio escorrendo pelas costas. O ar estava saturado com o cheiro de ozônio, plástico derretido e algo pior — o cheiro doce e enjoativo da biomassa queimando nos andares inferiores.
 
-Gabo praguejou e tateou a parede até encontrar a caixa de disjuntores. Ele empurrou a alavanca principal com força.
+O cheiro doce da biomassa serviu de gatilho. Seus pulmões travaram, uma alucinação fantasma de fumaça sufocante invadindo sua mente como um eco de seus piores pesadelos.
 
-Com um zumbido grave, lâmpadas de filamento no teto piscaram e acenderam, banhando o bunker em uma luz amarela e doente. O lugar parecia um museu de tecnologias mortas: servidores torre, monitores CRT volumosos, e emaranhados de cabos que pareciam intestinos de máquinas estripadas.
+*Não desmorone,* sussurrou a parte mais forte de seu cérebro, enquanto o pânico da asfixia fantasma tentava dominá-lo. *Respire através da dor.*
 
-O mofo ali tinha idade. Cheirava a papel molhado, a poeira quente de válvula e a um resto de tempero que nunca mais ia sair das panelas. A luz amarela não melhorava nada: só dava contorno às coisas e deixava o resto no escuro, do jeito que um lugar fechado há anos prefere ser visto.
+Gabo apertou o *Colar de Sol* contra o peito com a mão livre. O metal quente queimou a pele através da camisa encharcada. A dor foi uma âncora. *Eu me importo,* ele pensou, cerrando os dentes. *Eu sou fogo, não cinza.*
 
-— Me ajude com ele — Gabo ajustou o apoio de Rangel. O inspetor era pesado, um peso morto de carne e culpa.
+O corredor tremeu. Uma explosão surda ecoou nas profundezas da usina, seguida pelo gemido de metal se retorcendo.
 
-Eles o arrastaram até uma mesa de metal no centro da sala, empurrando teclados e xícaras de café fossilizadas para o chão.
+— A estrutura está cedendo — disse Gabo, forçando as pernas a se moverem mais rápido. — Não sei quanto tempo esse teto aguenta.
 
-O Fliperama tinha dono uma vez. Restavam as provas espalhadas: uma jaqueta de LEDs pendurada num gancho, apagada, com os painéis rachados; um pôster plastificado de um garoto de cabelo verde-limão sorrindo para uma câmera que não existia mais; e, na parede, dezenas de recortes impressos com a mesma cara. Kiko Vibe não estava ali. Kiko Vibe não estaria em lugar nenhum nunca mais, e o bunker continuava esperando por ele com a paciência idiota das coisas.
+Eles dobraram uma esquina e deram de cara com a Doca de Carga B. O portão estava emperrado, aberto pela metade por destroços fumegantes de dois drones "Jardineiros" abatidos.
 
-— Ele deixou tudo — Valéria disse baixo, os olhos nos recortes. — A trava ainda estava escondida atrás dos tijolos.
+Do fundo da doca veio um som pequeno e metálico: o cão de uma pistola sendo puxado para trás, devagar, por alguém que não confiava na própria mão. O cheiro de sangue chegou junto, aquele cobre quente que se sobrepõe a tudo.
 
-— Não tinha para onde levar. Ninguém ia roubar um garoto morto. — Gabo disse isso para os recortes na parede, não para ela, e a frase ficou no ar com cheiro de poeira quente.
+Gabo parou. Ergueu as mãos na altura do peito, a direita ainda suja até o pulso, e disse o único nome que importava naquele corredor.
 
-— Ele está perdendo muito sangue — Valéria disse, suas mãos pairando sobre o ferimento no ombro de Rangel. Seus olhos cibernéticos giravam, processando dados que não podia usar. — Não sei o que o estilhaço atingiu. Gabo, precisamos de alguém que saiba tratar isso.
+— Rangel.
 
-— Não tem autodoc aqui — Gabo rasgou a camisa de Rangel. A ferida era feia, bordas rasgadas pelo estilhaço. — Kiko não planejava se machucar, só se esconder.
+E lá estava ele.
 
-Ele olhou ao redor, buscando algo útil. Havia uma caixa de ferramentas enferrujada e um kit de primeiros socorros industrial na parede. Ele mancou até lá. Bandagens secas, antisséptico vencido e...
+Rangel estava sentado encostado em uma pilha de caixotes, segurando o ombro esquerdo. O uniforme da Tropa de Choque estava rasgado, e uma poça de sangue escuro se formava ao seu redor. Mas em sua mão direita, firme como rocha, ele segurava o velho revólver de serviço apontado para a porta.
 
-Ele olhou para o ferro de solda da bancada eletrônica.
+Ele baixou a arma ao vê-los.
 
-Val viu antes de ele tocar no cabo.
+— Vocês demoraram — Rangel tossiu, um som úmido e feio. — Comecei a achar que tinham virado bateria para o velho.
 
-— Não. Você não sabe o que está aberto aí. Não vai enfiar uma ferramenta de oficina no peito dele.
+— Quase — Gabo ajoelhou-se imediatamente ao lado do ex-inspetor, verificando o pulso no pescoço dele. — Qual a situação?
 
-— Então me diz o que fazer.
+— Ruim. — Rangel fez uma careta quando Gabo inspecionou o ferimento. Um estilhaço de metal havia atravessado o Kevlar. — A segurança automatizada enlouqueceu quando a rede caiu. Os drones começaram a atacar uns aos outros. Consegui segurar a posição, mas...
 
-Ela ficou imóvel. A mão esquerda rígida não ajudava; a direita tremia. Não tinha uma cirurgia escondida na memória, nem uma resposta que pudesse carregar no deck.
+Ele olhou para o comunicador vazio na lapela de Gabo, onde antes brilhava o LED azul da IA.
 
-Rangel abriu os olhos.
+— A Aria conseguiu?
 
-— Chama... alguém que saiba.
+— Ela fritou a rede — disse Valéria, retirando o pendrive chamuscado do estojo de ferramentas com uma luva térmica e conectando-o rapidamente à porta de diagnóstico do deck. — O circuito de proteção abriu. O diagnóstico leu alguns setores do armazenamento; outros não respondem. Não vou tentar reiniciar enquanto a carcaça ainda estiver quente.
 
-Gabo recuou da bancada. O rosto do inspetor estava cinzento, e havia sangue suficiente no pano para não deixar espaço para orgulho.
+— E Dante? — perguntou Rangel.
 
-Usaram o material lacrado do kit para substituir a camada encharcada do curativo. Não retiraram o estilhaço. Val manteve o registro dos sinais, e Gabo ficou ao lado da mesa, sustentando a compressa enquanto procuravam ajuda pelo cabo de serviço do esconderijo. A linha do hospital só devolvia ocupado.
+— Vivo — respondeu Gabo, passando o braço bom de Rangel por cima do próprio ombro. — Mas quebrado. Deixamos ele lá, com pedido de resgate sem confirmação. Não tínhamos como tirar dois feridos daquele nível.
 
-A mulher que tinham retirado do porto surgiu na passagem com o menino pela mão. Tentara seguir pela rota que conhecia, mas encontrara a rua bloqueada e voltara ao esconderijo quando ouviu o motor do caminhão. Ajudou a acomodar o filho no banco e pôs a manta sobre ele. Ela olhou o telefone, entendeu a resposta e pediu o endereço da clínica mais próxima. Gabo escreveu a mensagem com hora, ferimento e localização. Não mandou que saísse; perguntou se conseguia levar aquilo ao posto da rua, sem voltar ao porto.
+Rangel assentiu, devagar.
 
-Ela guardou o papel dentro da roupa e saiu. Val anotou o caminho combinado para que não virasse mais uma pessoa desaparecida em nome de uma urgência.
+— Bom. A morte é muito rápida para ele.
 
-Rangel não acordou quando a porta fechou. Respirava rápido demais. Gabo pensou no ferro que não usara e no tempo que ainda podiam perder. Deter a mão fora fácil. Esperar que alguém chegasse não era.
+Ajoelhado ao lado dele, Gabo viu o que o Kevlar tinha escondido: um estilhaço do tamanho de um dedo entrando por baixo da clavícula, e a pele em volta já quente e escura. Não havia sutura, não havia soro. Havia um rolo de esparadrapo vencido no bolso do sobretudo e a mão dele tremendo.
 
-Gabo limpou as mãos num pano sujo de graxa. Ele olhou para a bancada eletrônica no canto, onde Valéria havia deixado o pendrive blindado da Aria sobre um pano antiestático, com o polímero negro chamuscado e o LED completamente apagado.
+— Não faz essa cara — Rangel disse, os olhos fechados. — Eu conheço a sua cara. É a cara de quem vai tentar me carregar até o fim do mundo e depois pedir desculpa.
 
-— E a Aria? — perguntou, acenando com a cabeça para o drive de titânio.
+— Você pesa demais pro fim do mundo. — Gabo rasgou a manga da própria camisa. — Vamos até a doca externa.
 
-Valéria limpou a boca e se aproximou da bancada. Ela abriu a carenagem lateral do pendrive com uma chave de precisão e espetou o conector universal em um barramento de diagnóstico ligado ao seu cyberdeck.
+— Vamos até onde der.
 
-— Parte do armazenamento responde — disse Valéria, sua voz voltando ao tom analítico, uma defesa contra o horror que acabara de presenciar. — Ainda não consigo avaliar o resto. — Mas os circuitos de contenção e a matriz de voz... ela se fragmentou para aterrar o feedback da rede neural de Dante.
+Foi a única vez que Rangel aceitou um limite sem discutir, e isso assustou Gabo mais que o sangue.
 
-— Dá para consertar?
+Um novo tremor sacudiu o chão, mais violento dessa vez. Poeira de concreto caiu do teto.
 
-— Os barramentos físicos? Sim, se eu conseguir uma ponte de silício nova. O software? — Valéria hesitou, olhando para as trilhas de cobre trincadas dentro do pendrive. — Ela separou os enlaces mantendo o suporte ativo pelo barramento de controle. Alguns índices ligados aos arquivos de origem e à voz estão danificados. Se eu religar o drive, não sei quais registros ela conseguirá separar da própria voz. Primeiro faço uma leitura sem execução, depois uma inicialização isolada.
+— Temos que sair. Agora — Gabo olhou para o pátio externo através do portão.
 
-Gabo assentiu. Ele se sentou no chão, encostado na mesa onde Rangel respirava superficialmente. As mãos voltaram a tremer, agora que não havia mais nada em que ocupá-las. Ele entrelaçou os dedos, forçando-os a parar.
+A chuva caía lá fora, pesada e negra. Mas algo estava diferente.
 
-— O apagão pode ter atrasado quem vinha atrás de nós — disse ele, fechando os olhos. — Não sei por quanto tempo.
+Não havia luzes.
 
-— Por enquanto — corrigiu Valéria, sentando-se diante da bancada e tocando o invólucro frio de titânio do pendrive da Aria.
+Baía Cinzenta, a cidade que nunca dormia, a metrópole de neon e hologramas, estava apagada. Os arranha-céus eram silhuetas mortas contra o céu roxo. Sem os anúncios, sem drones à vista e sem o brilho dos anúncios naquele setor, a cidade parecia um cemitério de concreto.
 
-O som da chuva gotejando de algum cano estourado marcava o tempo. *Tap. Tap. Tap.*
+— Olhem — sussurrou Valéria, parada ao lado de Gabo.
 
-Gabo puxou o colar debaixo da camisa e o segurou firme. O metal estava quente com o calor do seu corpo.
+O silêncio era o que mais assustava. Não havia o zumbido constante dos servidores, nem o tráfego aéreo, nem as sirenes. Apenas o som da chuva batendo no metal.
 
-Eles estavam vivos. Quebrados, sujos, e cercados de fantasmas. Mas vivos.
+— Nós matamos a cidade — disse Rangel, apoiando quase todo o peso em Gabo para ficar de pé.
 
-— Por enquanto — repetiu Gabo.
+— Não — corrigiu Gabo, olhando para as janelas apagadas. — Desligamos alguma coisa. Ainda não sabemos quem ficou preso no escuro.
+
+Gabo sustentou o tronco pesado de Rangel pelo lado esquerdo. Valéria guardou o pendrive inerte da Aria no estojo de ferramentas e apoiou o inspetor pelo lado direito, mantendo o revólver dele pronto.
+
+Eles saíram para a chuva fria. O estojo com o cilindro de titânio pesava mais do que o inspetor. Atrás deles, as luzes da Prometeu não voltaram.

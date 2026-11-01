@@ -1,149 +1,150 @@
 ---
 layout: doc
-title: "Capítulo 93: Fome"
-description: "O Hospital Central vira ilha. Lá fora a Colmeia ronca de fome; lá dentro Vilar chega com vinte e seis sobreviventes e uma confissão."
+title: "Capítulo 93: Protocolo Gênesis"
+description: "O diário atribuído a Silas descreve a Convergência. Val examina a hipótese e Aria decide como participar."
 image: /capitulo_93.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Dra. Nise, Capitão Jonas Vilar
-Localização: "Arredores do Hospital Central"
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Dra. Nise, Aria
+Participação em documentos: Silas Vance ("O Jardineiro")
+Localização: "Bunker de isolamento — madrugada"
 ---
 
-# Capítulo 93: Fome
+# Capítulo 93: Protocolo Gênesis
 
-Arredores do Hospital Central.
-O cerco começou de madrugada e ninguém percebeu na hora, porque cerco vegetal não chega: **aparece**. Ao amanhecer, o Hospital Central era uma ilha de concreto branco num mar preto e verde.
+Bunker de isolamento — madrugada.
+Val projetava as páginas digitalizadas do diário na parede branca com um projetor de escola que funcionava a manivela. Eram diagramas de dupla hélice desenhados à mão, a nanquim, com o cuidado de quem gosta do desenho. E, ao lado de cada um, arquitetura de processador — barramento, registrador, pilha — no mesmo traço e na mesma tinta.
 
-As raízes já tinham subido três andares pela fachada norte e estavam trabalhando as janelas — não quebrando: procurando. Cada gavinha percorria o caixilho de alumínio milímetro a milímetro procurando fresta, e quando não achava, recuava, e vinha outra.
+— É genial — admitiu Val, bebendo um café que tinha gosto de ferrugem porque a água tinha gosto de ferrugem. — E é insano, e as duas coisas na mesma folha.
 
-Havia uma paciência ali que dava mais medo do que violência.
+— Traduz.
 
----
+— Ele descobriu, ou pelo menos foi o primeiro a levar a sério, que a dupla hélice é um meio extremamente denso de armazenamento. DNA preparado e preservado pode guardar enormes volumes; ler e escrever exige equipamento, energia e correção de erro. — Ela apontou a parede. — Nenhum data center do mundo chega perto. E o nosso disco rígido apodrece em oito anos.
 
-Lá dentro, seiscentas e poucas pessoas.
+Gabo estava sentado na cadeira do canto, com o braço esquerdo enfaixado até o ombro e a mão direita fechada em cima da coxa.
 
-Refugiados do enclave leste, funcionários do próprio hospital, gente do bairro, e os pacientes que não podiam ser movidos e por isso ficaram, e por causa deles ficou todo mundo.
+— Então o plano nunca foi construir servidor.
 
-A comida durava dois dias contando errado, e a Dra. Nise contava certo, então durava um e meio.
+— Segundo o diário, não. — Val virou a página. — Os servidores eram **incubadora**. A Aeterna passou trinta anos cultivando um disco rígido biológico em escala urbana. Isso aqui está escrito com todas as letras na página quarenta e um.
 
-A água estava racionada em novecentos mililitros por pessoa por dia, o que dá para viver e não dá para trabalhar. Mas não era a comida. Era o som.
+— E a água? Val hesitou.
 
----
-
-Do lado de fora, a Colmeia roncava.
-
-Não era rugido, não era grito. Era o som de estômago vazio — aquele gorgolejo grave e íntimo que a barriga da gente faz de madrugada — amplificado por alguma coisa do tamanho de uma cidade.
-
-Milhões de gargantas, cada uma fazendo um ruído baixo demais para ser ouvido sozinho, somando num rumor contínuo que entrava pelo piso e pelas paredes e não dava para tapar com nada.
-
-Ele tinha começado sete horas depois do meio-dia da chuva preta, e não tinha parado desde então. Nise tinha três casos de crise de pânico por hora, e não tinha mais ansiolítico desde terça.
-
-— Eles estão com fome — ela disse, no terraço, olhando por cima do parapeito.
-
-Gabo estava ao lado, refazendo a bandagem do braço com uma mão só.
-
-A mancha tinha chegado ao ombro na noite anterior. Nise tinha conseguido segurar o avanço com um coquetel antifúngico experimental que ela mesma formulou e que doía mais que o problema — mas segurou.
-
-A dor era constante e ele já não comentava.
-
-— Eles gastaram muita energia com a Praga de Ferro — disse Gabo. — Acelerar a oxidação de todo o aço do Distrito Industrial num raio de dois quilômetros custa. Metabolismo alto por seis horas, e agora eles precisam repor.
-
-— Repor com o quê?
-
-— Com a gente, doutora. — Ele apertou o nó da bandagem com os dentes. — Não é para nos matar. É para absorver. Somos a única concentração de biomassa disponível a menos de quatro quilômetros do Sol Negro.
-
-Nise ficou um tempo olhando o mar verde.
-
-— Eu passei quarenta anos dizendo aos meus alunos que a medicina é a arte de tornar um corpo humano menos apetitoso para o resto do universo — ela disse. — Nunca imaginei que fosse literal.
+— A água era o líquido amniótico.
 
 ---
 
-Val apareceu na porta do terraço. Ela estava com dois dias sem dormir e com aquela leveza esquisita de quem passou do cansaço.
+A Dra. Nise, que tinha chegado do hospital havia dez minutos e ainda estava de jaleco, sentou-se pesadamente na beira da maca.
 
-— Consegui contato com o Vilar.
+— E as pessoas? — ela perguntou. Val não respondeu na hora.
 
-Gabo se virou.
+— Valéria, eu perguntei o que ele fez com as pessoas.
 
-— Ele está vivo?
+— O diário propõe usar pessoas como parte da rede, doutora. Isso não prova que cada pessoa ligada a ela tenha a mesma função.
 
-— Está vivo e está a duzentos metros, no túnel de serviço da Rua Nove. Chegando com o que sobrou dos Puros. — Ela hesitou. — Vinte e seis pessoas contando Vilar. Entre elas, vinte e cinco Puros; Peçanha ficou entre os mortos.
+A Nise fechou os olhos.
 
-— De duzentas e quarenta.
+— Está aqui, na página cinquenta e três. — Val leu direto do original, e leu devagar, porque a letra era ruim. — *"O tecido nervoso humano é o único substrato conhecido capaz de sustentar intuição. Não é necessário replicá-lo. É necessário integrá-lo."*
 
-— De duzentas e quarenta. — Val engoliu. — E ele disse que trouxe convidados.
+— Integrar.
 
-— Convidados?
+— O Protocolo Gênesis prevê a Integração Total. — Val virou para eles. — Uma mente coletiva rodando em hardware humano, com uma superconsciência central fazendo a arbitragem. Ele desenhou o organograma, Gabo. Tem organograma.
 
-— Um Profeta novo e mais uns setenta. — Ela olhou para os dois. — Eles não estão atacando. Estão sentados em volta das três saídas do túnel. Sem armas. Sem fazer nada.
+— E no topo do organograma tem um nome.
 
-— Esperando o quê?
-
-— Não sei. — Val respirou fundo. — Gabo, o Vilar quer falar com você antes de subir. Pelo rádio, agora, não quando chegar. Ele insistiu nisso três vezes.
+— Tem um cargo. — Ela projetou a página. — *"O Pai."*
 
 ---
 
-Gabo desceu ao subsolo e pegou o rádio.
+Gabo se levantou apoiado na cadeira e chegou perto da parede projetada, devagar.
 
-— Vilar.
+— Ele quer ser Deus — disse Nise.
 
-— *Moretti.* — A voz do velho estava rouca de poeira. — *Antes de eu botar o pé aí dentro, eu preciso te falar uma coisa, e eu preciso falar por rádio porque eu não sei se eu consigo olhando na tua cara.*
+— Não é bem isso — disse Gabo, lendo o rodapé da página. — Deus, na versão de vocês, é uma coisa em outro lugar que você não toca. Ele acha isso um projeto malfeito. Olha aqui o que ele escreve.
 
-— Fala.
+Ele leu em voz alta:
 
-Silêncio de quatro segundos.
+— *"O erro de todas as religiões foi colocar o divino fora do alcance. Um deus que não se pode tocar não pode ser cobrado. Eu proponho um deus de carne, que cobre a cidade inteira, no qual qualquer pessoa possa encostar a mão a qualquer hora — e que sinta quando encostam."*
 
-— *Faz nove dias eles me ofereceram água e ar por uma geração em troca de você.*
+Silêncio no bunker.
 
-Gabo fechou os olhos.
+— Isso é bonito — disse Val, com nojo.
 
-— E o senhor não entregou.
-
-— *Eu não entreguei, e eu não contei para ninguém que tinham oferecido.* — A voz do Vilar não tremeu, e era pior assim. — *Duzentas e catorze morreram ontem de manhã. Peçanha está entre elas. Nenhuma das pessoas que perdi soube da ameaça. Elas não foram consultadas, Moretti. Eu escolhi por elas, sozinho, num morro, e desci calado.*
-
-— Capitão—
-
-— *Deixa eu terminar.* — Uma pausa. — *Eu não estou te pedindo perdão, porque não é a ti que eu devo. Eu estou te avisando, porque agora você vai me deixar entrar aí com vinte e seis pessoas e você tem o direito de saber com quem está lidando.*
+— É bonito — concordou Gabo. — É esse o problema. Se fosse só monstruoso, a gente não estaria com quarenta e nove engenheiros ajoelhados num esgoto.
 
 ---
 
-Gabo ficou com o rádio na mão por um tempo.
+Nise se levantou e começou a andar de um lado para o outro, que era o que ela fazia quando a cabeça estava trabalhando rápido demais para o corpo ficar parado.
 
-Ele pensou numa porta de delegacia, na chuva, com água na altura do peito, e num sujeito chamado Adilson que vendia peixe frito na esquina da Rua Onze.
+— Isso explica os meus últimos quatro meses.
 
-— Vilar.
+— Explica o quê, doutora?
 
-— *Estou aqui.*
+— Alguns remédios deixaram de responder como eu esperava. — Ela contava nos dedos. — Encontrei feridas com tecido incomum e tive um paciente cuja fratura exposta pareceu consolidar em nove dias. Depois, na radiografia, vi uma estrutura em anéis. Preciso comparar as amostras e acompanhar o paciente antes de chamar aquilo de cura.
 
-— O senhor tinha duzentas e quarenta pessoas para ouvir. Escondeu delas. Eu também já escondi o custo de uma escolha. — Gabo apertou o botão com força. — Sobe. E, quando chegar, escreve os duzentos e catorze nomes num papel e me entrega. Vai levar a noite inteira e o senhor vai fazer mesmo assim.
+Ela parou de andar.
 
-Silêncio longo do outro lado.
-
-— *Por quê?*
-
-— Porque não quero que o número substitua as pessoas. Os vinte e seis sobreviventes vão precisar ouvir o resto, Capitão. A lista não substitui a prestação de contas. — Ele soltou o botão e apertou de novo. — Não conserta. Funciona.
+— Não sei se os esporos causaram cada alteração nem se elas tornam alguém mais saudável. — Nise olhou para os dois. — Mas preciso tratar esses pacientes sem presumir que toda mudança é igual.
 
 ---
 
-No terraço, Gabo puxou o revólver do coldre e conferiu o tambor por hábito.
+— Quanto tempo até a Integração Total? — perguntou Gabo.
 
-Era uma peça velha de família, aço inoxidável de qualidade alta, e ficara guardada no hospital, fora do ataque ao enclave — mas não tinha resistido inteira: havia agora um véu de corrosão fina no cano, e ele sabia que aquilo ia piorar.
+Val foi até o fim do diário, para um gráfico feito à mão numa folha dobrada em quatro.
 
-Val e Nise vieram atrás dele.
+— Fase final: A Grande Convergência. — Ela seguiu a curva com o dedo. — O diário prevê um pulso quando o Sol Negro atingir massa crítica. Afirma que atingiria quem respirou esporos, mas não temos como verificar o alcance.
 
-— O berço de injeção está pronto? — perguntou.
+— E aí?
 
-— O Código Morto está carregado no pendrive da Aria — disse Val. — Compilado, testado no que dá para testar, empacotado nos setores que sobraram do drive de titânio. — Ela cruzou os braços. — Mas, Gabo, ele não dispara daqui.
+— Segundo o plano, perderia a individualidade — disse Nise. — O diário não prova que ele consiga fazer isso.
 
-— Por quê?
+— Quando?
 
-— Porque a Raiz não aceita instrução por rádio, e os testes de transmissão falharam na aproximação do Sol Negro. — Ela apontou o horizonte, onde a esfera pulsava por cima do Memorial, maior do que na véspera. — O pendrive tem que ser espetado na interface neural da fonte, com contato físico e descarga de alta tensão.
+Val fez a conta duas vezes. Na segunda ela pegou a régua, o que era só para ganhar tempo.
 
-Gabo assentiu devagar.
+— O volume aparente cresceu nas imagens que conseguimos comparar. Não pesamos a esfera. Se a curva e o limite deste diário estiverem certos...
 
-— Então a gente leva o pendrive e as baterias de pulso até lá.
+— **Val.**
 
-— **Até o Memorial?** — Val arregalou os olhos. — Gabo, o conjunto de baterias e condensadores pesa oitenta e nove quilos. São quatro quilômetros de zona ativa, seiscentas pessoas dependendo da gente e um homem que não anda direito!
+— Três dias.
 
-— Então é melhor a gente começar a treinar.
+---
 
-Ele fechou o tambor com um estalo.
+Ninguém falou por um tempo. Gabo foi até a janela que não existia, encostou a testa na placa cimentícia e ficou lá.
 
-— Porque a gente vai entregar uma bomba no colo de Deus, e o Deus mora a quatro quilômetros daqui, e ele está com fome.
+— A gente precisa do vírus — ele disse. — A gente precisa executar o Código Morto.
+
+— Gabriel. — Nise falou baixo. — O senhor sabe o que isso significa.
+
+— Sei.
+
+— O senhor sabe **mesmo**? Ele se virou.
+
+— Pode queimar o núcleo dela — ele disse, com a voz muito plana. — Pode deixar o módulo vazio, sem a parceira que nos guiou desde aquela cabine telefônica. Não sabemos se ela sobreviveria ao comando.
+
+Ele apontou o pendrive acoplado ao berço de diagnóstico com o queixo.
+
+— E pode atingir os estados preservados na Raiz. Os do túnel e os que vieram dos servidores. Não sabemos quantos.
+
+— E o operador — disse Val, muito baixo.
+
+— E o operador.
+
+---
+
+Nise sentou de novo na maca.
+
+— Tem que ser o senhor?
+
+— Tem que ser alguém já conectado à Raiz, consciente e disposto. — Gabo abriu a mão direita e mostrou o tecido verde-escuro fechando a palma. — Entre nós, sou o que conseguiu entrar naquela interface. — Ele baixou a mão. — Não vou pedir que outra pessoa abra o braço para repetir o teste.
+
+— E os fragmentos que a Aria preservou?
+
+— É ela ou a humanidade, doutora. — A voz saiu dura, e os olhos não. — De novo. Sempre a mesma pergunta com figurino diferente, até alguém responder direito.
+
+Val virou de costas e ficou olhando a parede.
+
+— Eu odeio essa frase — ela disse. — "É ela ou a humanidade." Eu odeio porque toda vez que alguém fala isso nessa cidade, no fim das contas, quem escolhe é sempre a mesma pessoa e quem paga é sempre outra.
+
+Gabo não respondeu. Val verificou os registros, manteve desligada a conexão com as órteses e retomou a alimentação do berço. O LED azul e âmbar do módulo de Aria piscou fora de compasso. Quando o áudio voltou, ela falou:
+
+— Eu ouvi o risco e aceito entrar. Vou conferir o código, procurar um caminho que preserve o núcleo e deixar o registro do que fiz. Aceitar não é prometer que o cálculo está certo.
+
+Depois ela pediu silêncio para trabalhar. Foi esse silêncio que ficou com Gabo pelas horas seguintes.

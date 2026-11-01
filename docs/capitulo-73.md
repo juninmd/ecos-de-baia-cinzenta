@@ -1,147 +1,149 @@
 ---
 layout: doc
-title: "Capítulo 73: Carne e Metal"
-description: "Miranda fica inconsciente, mas vivo. O pedido de resgate tem hora e localização; não tem confirmação de chegada."
+title: "Capítulo 73: A Ofensiva"
+description: "Gabo desvia o ataque orbital para Ponto Zero. As escoras e os apoios têm funções materiais distintas; cortar enlaces de superfície não revela tudo sobre o casco profundo."
 image: /capitulo_73.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Roberto Miranda, Aria
-Localização: "Hub de Comunicações — o acerto"
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria, Kael "O Cirurgião", Roberto Miranda
+Localização: "Torre Aeterna — em queda"
 ---
 
-# Capítulo 73: Carne e Metal
+# Capítulo 73: A Ofensiva
 
-Hub de Comunicações — o acerto.
-A arma disparou antes de Gabo entender que era uma arma.
+Torre Aeterna — em queda.
+A gravidade mudando de endereço é uma sensação que o corpo humano não tem categoria para arquivar.
 
-Não houve tiro, nem fogo, nem recuo. Houve um estalo agudo, e a pele do rosto e das mãos de Gabo esquentou de dentro para fora — não a superfície: a **camada de baixo**, como quando se encosta o rosto perto demais de uma fogueira, só que sem a fogueira.
+Não é queda livre, que o ouvido interno reconhece e para a qual existe um medo pronto desde a savana. É outra coisa: é o chão continuar embaixo dos pés e ao mesmo tempo **apontar** para o lado. O olho diz que está tudo no lugar e o labirinto diz que não, e a discussão entre os dois se resolve com vômito.
 
-Ele se jogou atrás de um rack. Um segundo depois, ele estava com a boca seca de um jeito que não se resolve com água.
+Val vomitou. Gabo também, sem parar de olhar em volta. Cento e oitenta e dois andares de estrutura gemiam ao mesmo tempo. Não era um som: eram milhares de sons pequenos — cada junta de dilatação, cada solda, cada trilho de elevador — reclamando em frequências diferentes e formando, juntos, uma nota grave e contínua que fazia cócega no esterno.
 
-— **ARMA DE DISPERSÃO POR MICRO-ONDAS!** — gritou Val, de trás de outro rack. — Gabo, isso é equipamento de controle de multidão, aquilo cozinha a água do corpo! Não deixa ele apontar por mais de dois segundos em você!
+— **ARIA!**
 
-— O que acontece em dois segundos?
-
-— **NÃO DESCOBRE.**
-
----
-
-Gabo checou o que tinha.
-
-A *Caronte* estava perdida em algum ponto da luta com o Santo. A Glock tinha três balas. Enquanto contava, Gabo tirou o isqueiro do bolso e o escondeu na mão esquerda, abaixo da arma.
-
-— Val. Tira o drive da Aria daqui.
-
-— Eu não vou te deixar—
-
-— **VAL.** — Ele apontou o duto de ventilação aberto na parede baixa, do lado dela. — Esse pendrive é a única coisa nessa sala que importa e você é a única aqui que sabe operar um teclado. Eu sou o item descartável desse conjunto e essa é a informação mais objetiva que eu vou te dar hoje. **Vai.**
-
-Val hesitou meio segundo, xingou e foi.
-
-Ela arrancou o módulo da Aria do console — o metal queimou sua palma — e o travou no deck de pulso. No painel de manutenção, selecionou a descarga criogênica daquele setor e uma assinatura térmica como gatilho. Viu o isqueiro na mão de Gabo, apontou dois dedos para o sensor e esperou que ele assentisse. A luz ficou âmbar; Val confirmou e entrou no duto quando Miranda se aproximou.
+Gabo agarrou um corrimão com a mão boa. No console central da sala, o pendrive de titânio continuava firme no barramento. E o projetor holográfico acima dele tinha acabado de disparar.
 
 ---
 
-Miranda avançava sem pressa, varrendo a sala com a parabólica. E falava. Ele sempre falou.
+Uma esfera de telemetria vetorial pairava quinze centímetros acima do console inclinado, mantendo a horizontal absoluta, indiferente ao ângulo do mundo. As linhas de força moviam-se como correntes dentro d'água. A luz que saía do LED duplo do pendrive agora era branca de tão intensa e não deixava sombra em lugar nenhum.
 
-— Sabe qual é a parte engraçada, Gabo? — A voz dele era calma, quase carinhosa, com o mesmo timbre com que discutia palpite de jogo dentro de uma viatura, catorze anos antes. — Eu sempre te invejei.
+Quando a resposta saiu pelos alto-falantes do Hub, a voz veio dupla. Uma era a da Aria, sintética, analítica e firme. A outra era grave, cansada, com aquele arrasto na última sílaba.
 
-Gabo se moveu para o rack seguinte, e o campo passou por onde ele tinha estado, e o plástico do gabinete empenou e começou a soltar fumaça branca.
-
-— Você era o filho do mártir. O incorruptível. — Miranda deu mais um passo. — Todo mundo na corporação te olhava com aquela cara, e eu... eu era o lixo que você tentava reciclar. Todo santo dia, um sermão. "Roberto, você é melhor que isso." Você lembra?
-
-— Lembro.
-
-— Nunca me passou pela cabeça que você pudesse estar **enganado**.
-
-Gabo rolou e atirou duas vezes. Os dois acertaram: peito alto, agrupamento de cinco centímetros, a nove metros, com o braço esquerdo. Era um tiro excelente.
-
-Miranda parou, olhou para baixo, e abriu a camisa com a mão livre.
-
-Sob o tecido não havia colete. Havia uma superfície fosca, contínua, cinza-clara, com dois pontos brilhantes onde as balas tinham achatado e caído.
-
-— Subpele de titânio impresso — disse ele. — Malha de dois milímetros, ancorada na costela. — Ele fechou a camisa e ajustou o punho. — O Consórcio investiu pesado.
-
-— Quanto sobrou de você aí dentro, Roberto?
-
-— O suficiente para preferir isso.
+— *Estabilizando.*
 
 ---
 
-Ele chutou a mesa que separava os dois.
+Lá fora, a cidade reagiu. Val estava com a cara colada na janela do Hub — a janela do subsolo, que dava para o poço de ventilação e de onde não se via nada além de concreto — e mesmo assim ouviu, e o que ela ouviu ninguém em Baía Cinzenta ia esquecer.
 
-Não empurrou: chutou, e a mesa de aço de oitenta quilos atravessou a sala e bateu na parede oposta, e Gabo entendeu que não era só a pele que tinham trocado.
+Toda a cidade ouviu. O núcleo estrutural ainda sustentava a maior parte da carga. Os guindastes dos canteiros vizinhos giraram para as escoras de obra que já tocavam a ala danificada; não tentariam apanhar no ar o peso de uma torre inteira. Sozinhos, sem operador, às quatro e dez da manhã.
 
-Ele tentou se levantar. As órteses não responderam.
+As passarelas de ligação entre os edifícios do Distrito Central — aquelas que a prefeitura chamava de "malha aérea" e que ninguém usava porque tinha catraca — desengataram das cremalheiras e se estenderam para fora, atravessando o vazio, e se ancoraram na fachada da Aeterna como quem escora um armário que vai tombar.
 
-O campo de micro-ondas tinha feito com a eletrônica delas o que ia fazer com um homem em dois segundos: os servos travaram travados, os dois joelhos rígidos, e Gabriel Moretti ficou sentado no chão de um Hub inclinado com as pernas esticadas na frente, como um boneco.
+E, do topo de nove prédios, foram disparados cabos. Cabos de aço de sistema de manutenção de fachada, aqueles que sustentam os andaimes dos limpadores de vidro, dezenas deles, cravando-se na estrutura da Torre com um estampido de arpão.
 
-Miranda chegou perto e o levantou pelo pescoço com a mão mecânica. A Glock caiu no piso. Os pés de Gabo saíram do chão.
-
-— Últimas palavras, parceiro?
+As escoras assumiam parte da carga da ala, enquanto os cabos retinham painéis que se soltavam. A estrutura principal continuava nos pilares ainda de pé.
 
 ---
 
-Gabo olhou nos olhos dele. Estava tudo lá: a subpele, os implantes de reflexo, a mandíbula reconstruída, o braço que custava mais que a casa da mãe dele.
+A queda desacelerou ao longo de onze segundos. Não parou de uma vez: foi cedendo, com o rangido de cento e sessenta mil toneladas encontrando um novo ponto de equilíbrio. Vidros estouraram em série num raio de dois quilômetros, todos ao mesmo tempo, e depois choveu vidro sobre o Distrito Central por quase um minuto inteiro.
 
-E, atrás disso, no fundo do olho — que foi a única coisa que ninguém trocou —, havia medo.
+A inclinação medida no núcleo parou em nove décimos de grau. Os nove graus que o visor marcara vinham da plataforma local, parcialmente solta. Apoiada nos ombros dos vizinhos. Ninguém ali podia certificar estabilidade ou permanência. Os cabos de fachada não suportavam a torre: retinham peças leves enquanto as escoras e os pilares preservados lhes davam tempo para sair.
 
-O medo específico do sujeito que vendeu tudo, recebeu o pagamento, gastou o pagamento e descobriu que continuava sendo ele mesmo dentro da roupa nova.
+---
 
-— Só uma — disse Gabo, com a voz apertada pela mão no pescoço.
+Val se levantou, limpando o sangue da testa com as costas da mão. Gabo alcançou a Glock que largara perto do rack e a guardou no coldre com a mão esquerda; a *Caronte* continuava fora de alcance.
 
-Gabo abriu a mão esquerda, ainda fechada em torno do isqueiro que escondera antes do confronto.
+— Estamos vivos.
 
-Era um Zippo de latão gasto, sem gravação, com a dobradiça folgada — o isqueiro que Dante Moretti carregou por trinta anos, porque servia para acender vela, fogão e caldeira, e porque um homem devia ter no bolso alguma coisa que funcionasse sem bateria.
+— Por enquanto — disse Gabo.
+
+O Santo estava ajoelhado junto à viga, com fumaça saindo das juntas do ombro e do quadril, e o peitoral dele agora emitia um estalo a cada dois segundos, sempre igual. Ele levantou a cabeça.
+
+— *Vão* — disse. A voz vinha só pelo modulador agora, e vinha fraca. — *Satélites. Dez minutos.*
+
+— Você vem junto — disse Gabo.
+
+— *Eu peso quatrocentos e dez quilos.* — Uma pausa. — *E essa estrutura está inclinada.*
+
+Gabo abriu a boca e não teve o que dizer. Da escada de emergência já vinha o barulho: bota. Muitas.
+
+— *Eu seguro a porta* — disse Kael.
+
+Gabo assentiu uma vez. Queria perguntar por que Kael estava fazendo aquilo; queria perguntar também por Elena, pela perna e por todos os outros. A porta tremeu sob o primeiro impacto. Kael apoiou nela o ombro, e Gabo foi até Val.
+
+---
+
+O terminal principal ainda funcionava porque o Hub tinha alimentação independente e blindagem sísmica, o que era irônico de um jeito que ninguém tinha tempo de apreciar. Val voltou ao deck conectado ao pendrive.
+
+— Sem a biometria do Marco eu não cancelo o disparo. — Ela estava com pânico na voz e continuava digitando, porque é isso que ela faz. — Gabo, os satélites entram em janela de lançamento em nove minutos. Três hastes de tungstênio de nove toneladas cada, em queda orbital. A cidade inteira vira cratera.
+
+Gabo olhou a tela por cima do ombro dela. Coordenadas. Vetores. Uma janela verde de confirmação que ninguém precisava apertar, porque o padrão do sistema — o *default*, a opção que fica marcada quando ninguém escolhe nada — era **executar**.
+
+— A gente não precisa cancelar — ele disse.
+
+— O quê?
+
+— A gente precisa mudar o alvo.
+
+---
+
+Val parou de digitar por dois segundos.
+
+— Mudar para onde?
+
+— Para o oceano. Duzentos quilômetros a leste, na fossa. — Gabo apontou a tela com o dedo quebrado, o que doeu, e ele não corrigiu. — A base submarina do N.O.A. Onde estão os servidores de retaguarda do Consórcio.
+
+— Gabo. — Ela virou o rosto. — Você entendeu o que você está falando?
+
+— Entendi.
+
+— Os registros apontam uma cópia do teu pai naquela Arca. — Val manteve a mão sobre o teclado. — Se o impacto alcançar o cofre, podemos perder essa cópia. Não sei quantas outras existem, nem se a sessão com que falamos pode ser restaurada sem ela.
+
+Gabo olhou para o pendrive de titânio da Aria espetado no console, com o diagrama de luz branca girando acima dele. E não hesitou, e ele mesmo achou aquilo estranho, e ia pensar sobre isso durante anos.
+
+— Meu pai não está lá — ele disse. — Meu pai está na cidade e no código que ele deixou aqui. O que tem no fundo do mar é um arquivo corporativo com a cara dele.
+
+Val olhou para ele mais um segundo. Depois sorriu, e foi um sorriso feio e cansado e verdadeiro.
+
+— Mirando no fundo do mar.
+
+Ela digitou as coordenadas.
+
+---
+
+Seiscentos quilômetros acima, três plataformas ajustaram giroscópio.
+
+As hastes de tungstênio — cada uma do tamanho de um poste telefônico, sem explosivo nenhum, porque nove toneladas a doze mil quilômetros por hora dispensam explosivo — giraram devagar e trocaram o ponto de mira: saíram dos alvos marcados sobre Baía Cinzenta e foram para um retângulo de água preta a leste.
 
 — *Fogo* — disse Gabo.
 
-E abriu a tampa.
+Val apertou Enter.
 
 ---
 
-O isqueiro não acendeu nada.
+Levou quatro minutos e onze segundos. Do poço de ventilação do subsolo não dava para ver nada, mas dava para ver a luz mudar: o quadrado de céu preto lá em cima ficou branco por meio segundo, três vezes seguidas, com intervalo de um segundo entre elas.
 
-O que ele fez foi outra coisa: Val programara o gatilho para uma assinatura térmica pontual; o isqueiro dava ao sensor o sinal que faltava.
+Depois o chão bateu de novo — grave, longo, vindo de leste, atravessando duzentos quilômetros de crosta.
 
-O Hub não era protegido com água. Água em sala de servidor é crime. Os bicos do teto dispararam nitrogênio líquido.
+E depois, num monitor lateral, a imagem de satélite: uma coluna de água e vapor subindo do mar como um pilar branco, larga o bastante para ser vista do espaço, que continuou subindo por quase um minuto e não tombou nunca — só ficou lá, e foi se desmanchando de cima para baixo.
+
+— O impacto atingiu as coordenadas — confirmou Val, e a voz saiu baixa. — O enlace que estávamos acompanhando caiu. A imagem mostra o impacto e a perda dos terminais de superfície, não o estado do casco a quatro mil metros. Não sei se existe outro acesso ao cofre.
+
+Ela olhou para Gabo.
+
+— E o arquivo do seu pai pode estar perdido.
+
+— Eu sei.
+
+— Você quer um minuto?
+
+— Não.
+
+Ele estava mentindo, e ela sabia, e teve a bondade de não insistir.
 
 ---
 
-Val armara a descarga do circuito criogênico de manutenção sobre a posição que tentavam deixar. O sinal do isqueiro acionou a rotina; a nuvem atingiu o visor e a articulação exposta da prótese de Miranda. A mão abriu, e Gabo caiu no vão atrás do rack.
+A vitória durou dezenove segundos. A porta do Hub explodiu para dentro — não a de emergência, que o Santo estava segurando: a de serviço, do outro lado, que ninguém tinha lembrado de mapear.
 
-Miranda tentou recuperar a arma. O braço direito travou, com a junta coberta de condensação e gelo. Ele perdeu apoio e bateu a cabeça na bancada antes de cair. A descarga não congelou instantaneamente um homem inteiro nem despedaçou titânio; continuava letal ficar naquele setor sem proteção.
+A onda de calor entrou primeiro. Roberto Miranda entrou depois, andando sem pressa. Do outro lado da sala, o Santo jazia imóvel junto à porta de emergência que escolhera defender. O terno de Miranda estava seco.
 
-Gabo se arrastou para trás com os cotovelos até bater as costas num rack, ofegando, com a respiração saindo em nuvem. Ficou olhando aquilo.
+Na mão direita — a mecânica, a nova, a polida — ele segurava um tubo curto e grosso com uma parabólica na ponta, que emitia um zumbido subindo de tom, do tipo que um flash antigo faz antes de disparar. Ele olhou os dois e sorriu.
 
-Não sentiu vitória, e não sentiu pena, e a coisa que ele sentiu foi tão pequena e tão mesquinha que ele nunca contou a ninguém: sentiu que **ficou barato demais**.
-
-Catorze anos de parceria. Duas mil e poucas horas dentro do mesmo carro. Uma traição que custou nove vidas, entre elas duas que Gabo tinha jurado proteger.
-
-E acabou em três segundos, por causa de uma nota de rodapé sobre coeficiente de dilatação.
-
-— Justiça fria — ele murmurou, porque era a piada que a situação pedia, e porque falar sozinho em voz alta era melhor do que o silêncio.
-
-Depois se arrastou até lá.
-
-Viu o peito de Miranda se mover. O ex-parceiro estava inconsciente, preso sob a arma e a prótese travada. Gabo não tinha força para carregá-lo ou meios de custódia naquela sala. Conservou a imagem e o horário no telefone, indicou o ponto no canal de manutenção e se afastou antes que outra descarga o atingisse.
-
-Não sabia quem atenderia ao chamado. Deixou a imagem aberta no telefone até precisar das duas mãos para alcançar o duto.
-
-Levou seis minutos para destravar as órteses na marra, batendo o punho nos servos até o relé ceder.
-
-Quando conseguiu ficar de pé, mancou até o duto de ventilação e enfiou a cabeça.
-
-— Val?
-
-O eco voltou vazio.
-
-— **VAL!**
-
-Nada. O duto seguia reto por uns doze metros e depois subia. No chão de chapa havia uma marca de arraste e uma mancha escura ainda molhada.
-
-Gabo saiu do duto e ficou parado no meio do Hub congelado, com nitrogênio evaporando em volta dos tornozelos, escutando.
-
-E ouviu. Vinha de cima: um som ritmado, pesado, batendo contra o ar. Rotor.
-
-Alguém tinha pousado um helicóptero no heliponto de uma torre danificada, com a plataforma local inclinada e vento de mar. Aquilo exigia um piloto muito bom ou uma ordem muito grande.
-
-Gabo olhou para a escada de emergência. Cento e oitenta e dois andares.
+— Vocês são uma praga — disse Miranda. — E eu sou o tratamento.

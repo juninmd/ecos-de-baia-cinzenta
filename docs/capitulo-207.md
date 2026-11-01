@@ -1,58 +1,72 @@
 ---
-Título: O Peso da Ferrugem
+Título: Colosso de Sucata
 Data In-Game: Pós-Colapso do Sentinel (Noite Eterna)
-Localização: Dutos de Escoamento, Setor 6
+Localização: Armazém Logístico Corrompido, Setor 6
 Personagens Presentes: Gabo, Valéria, Elias
 ---
 
-# Capítulo 207: O Peso da Ferrugem
+# Capítulo 207: Colosso de Sucata
 
-O duto tinha um metro e vinte de diâmetro. Para um homem do meu tamanho, com uma armação pesada de sucata parafusada sobre o braço fraturado e uma perna travada em órtese rígida, aquele espaço era o mais próximo que um vivo podia chegar de ser enterrado num caixão de ferro corrugado. Falta de luz teria sido mais simples. Aquilo era uma presença sólida, viscosa, colada às paredes da garganta.
+A aberração que se ergueu da cratera de carga não pertencia à biologia nem à engenharia limpa da Aeterna. Era um leviatã de sucata compactada: vigas I de aço estrutural retorcidas como fêmures, lagartas dentadas de perfuração industrial formando uma couraça impenetrável e quatro braços de escavadeiras hidráulicas erguendo-se como foices monstruosas. Na junção onde deveria repousar uma cabeça, uma cabine de empilhadeira estilhaçada piscava faróis amarelos quebrados, iluminando a poeira vermelha com um olhar doentio e sem pupilas.
 
-O ar parado sufocava os pulmões com o gosto rançoso de lodo industrial, esgoto antigo e metal corroído. Cada centímetro conquistado exigia uma negociação humilhante com a gravidade e com a carcaça do meu próprio corpo.
+O ruído das juntas enferrujadas girando a seco soava como metal sendo martelado em uma forja em colapso. O chão de concreto armado estalou sob as esteiras da criatura, cuspindo estilhaços de cimento que zumbiram pelo ar frio como estilhaços de granada.
 
-Valéria ia na vanguarda, rastejando de joelhos com a facilidade de quem cresceu entrando por tubulações de ar nos prédios corporativos do Distrito Central. A lanterna em seu antebraço riscava a curvatura do duto com um feixe fino, iluminando o lodo cinzento que cobria o fundo como uma camada de graxa podre. Os fios holográficos azuis da franja dela piscavam contra a ferrugem, desenhando sombras inquietas no teto baixo.
+— Elias, recua pro mezanino de trás! — berrei, o som rouco rasgando minha garganta ressecada. — Se esconde atrás dos contêineres de carga e não levanta essa cabeça por nada!
 
-— Se eu soubesse que a nossa rota turística incluía rastejar no esgoto dos fundos da Aeterna, — murmurou ela, a voz ecoando abafada pelo metal, — eu tinha cobrado o dobro daquele adiantamento em créditos que você nunca me pagou na Doca Três.
+Elias recuou, poupando o tornozelo enfaixado. Apoiado nas carcaças, alcançou o abrigo entre as máquinas.
 
-— Você já me roubou três cyberdecks e uma garrafa de gim sintético, Val, — retruquei entre dentes, arrastando o cotovelo de aço sobre a chapa oxidada. O atrito arrancava faíscas pálidas que iluminavam a poeira ácida. — Considera a dívida quitada.
+O monstro arremeteu o primeiro golpe antes mesmo de fixar totalmente a base. Uma pá de carregadeira de duas toneladas desceu em arco diagonal, visando abrir meu peito ao meio.
 
-— Aquele gim tinha gosto de desinfetante de necrotério e você sabe disso, — rebateu ela, soltando um estalo curto de riso que quebrou a tensão opressiva do túnel. — E o deck do Vasco tava com o processador queimado. Eu tive que refazer as trilhas de cobre no canivete.
+Joguei meu corpo para a esquerda em um salto desesperado. A lâmina de aço bruto atingiu o chão no ponto exato onde eu estava meio segundo antes, partindo a laje de concreto com um estrondo ensurdecedor. A onda de choque cinético ricocheteou pelas minhas pernas; caí de lado na poeira, os rebites da órtese queimada cravando-se na carne da coxa com uma ferroada que arrancou um palavrão dos meus dentes. O gosto metálico de sangue e terra encheu minha boca quando mordi a língua na queda. Lembro de ferimentos parecidos no Dilúvio, quando a água fria lavava a dor antes que o corpo pudesse processar o estrago.
 
-Atrás de mim, a respiração de Elias era um silvo asmático, entrecortado por arquejos de pavor. O rapaz avançava quase de barriga no chão, as mãos nuas afundando na lama fria que acumulava no fundo da calha.
+Apoiei a *Caronte* na mureta com a mão esquerda e disparei os dois canos no núcleo central do colosso, mantendo o braço fraturado junto ao peito. O recuo puxou minha palma ferida contra a coronha; precisei apoiar a arma de novo antes de abrir os canos.
 
-— Gabo... eu não consigo... o ar tá acabando, — ele gemeu, a voz espremida pelo pânico claustrofóbico. — Parece que as paredes tão encolhendo... a tubulação vai fechar em cima da gente.
+Os bagos de chumbo grosso e tungstênio bateram na couraça de lagartas com um estampido ensurdecedor, arrancando lascas de ferrugem e uma chuva de faíscas azuis, mas sem penetrar a blindagem de aço temperado. O impacto mal fez a criatura cambalear.
 
-— Eu também preciso parar — disse, firmando o joelho bom no metal. — Val, dá um minuto.
+— Munição de escopeta só tá limpando a poeira dele, Moretti! — a voz de Valéria ecoou da escuridão lateral, viva, ácida e tensa. Ela disparou quatro tiros rápidos com sua pistola compacta, mirando nos atuadores hidráulicos expostos do flanco esquerdo. As balas perfuraram uma mangueira de alta pressão, fazendo jorrar óleo negro fervente sobre a esteira. — O núcleo tá blindado por placas de três polegadas! Você não vai atravessar isso no tiro!
 
-Ela apagou a lanterna e esperou. Elias apoiou a testa na manga; o som da respiração dele foi diminuindo aos poucos. Quando pediu para continuar, eu me movi.
+— Tem alguma ideia melhor antes que ele transforme nós dois em massa de tomate? — gritei, rolando para trás de uma coluna de sustentação enquanto o segundo braço mecânico da aberração estraçalhava o concreto acima de mim. Blocos de alvenaria desabaram, cobrindo meus ombros de pó cáustico.
 
-A armação que Vasco acoplara ao fixador puxava meu ombro. A cobertura suja de lodo precisava ser trocada; mantive o braço preso ao arnês para não repuxar ainda mais os pontos. Lembrei a água do Dilúvio, vinte e três dias depois da queda da Torre Aeterna. Tudo naquele mesmo ano. Uma vida podia caber em meses e ainda assim deixar o corpo sem lugar para outra dívida.
+— Olha pro teto, idiota! — Valéria gritou, os fios holográficos azuis de sua franja brilhando febrilmente enquanto ela corria entre as sombras para manter o monstro em fogo cruzado. — O guindaste de ponte rolante de quarenta toneladas! Os suportes de aço da viga mestra tão podres de oxidação catalítica! O trilho está pendurado nos dois apoios que sobraram!
 
-— Moretti, — a voz de Valéria mudou de tom, perdendo o deboche e ganhando a afiada frieza de alerta tático.
+Ergui os olhos através do turbilhão de fuligem vermelha. Vinte metros acima do fosso de carga, um guindaste industrial com garras de sustentação de contêineres repousava travado sobre trilhos corroídos. Era uma massa de dezenas de toneladas de ferro maciço.
 
-— O que você achou? — perguntei, forçando a órtese emperrada a avançar mais trinta centímetros.
+— Se eu derrubar essa viga, a laje inteira pode vir abaixo! — avisei.
 
-— Anomalia térmica na grade de descarte, trinta metros à frente, — disse ela, mantendo o feixe de luz travado em uma bifurcação onde a tubulação se alargava. — A leitura está caindo. A saída do duto parece abaixo de zero; não sei o que está causando isso.
+— É isso ou virar purê nas garras dessa empilhadeira do inferno! — ela rebateu, trocando o carregador da pistola e disparando contra os sensores ópticos da cabine. — Eu tô tentando destravar os freios magnéticos de emergência pelo painel lateral, mas o relé tá preso na ferrugem! Você precisa cortar o pino de ancoragem da esquerda!
 
-— Abaixo de zero? No meio de um complexo subterrâneo abafado? — Elias ergueu a cabeça, piscando contra as gotas de condensação que pingavam do teto de ferro e batiam na sua testa. — Isso não faz sentido. O calor geotérmico do Setor Seis devia manter tudo a mais de trinta graus.
+O colosso girou com um rugido mecânico ensurdecedor, os motores elétricos superaquecidos soltando labaredas vermelhas pelas juntas da carcaça. Ele ignorou Valéria e avançou direto contra mim, farejando o peso da minha armação de aço e o ruído da minha órtese que protestava a cada centímetro.
 
-— Pode ser algum circuito de refrigeração, — respondi, sentindo o ar que entrava pelas minhas narinas mudar de textura.
+— Vem buscar, seu monte de lata velha! — rosnei, me levantando com o apoio da coluna trincada e apoiando a coronha da escopeta na axila. Val cobriu a passagem enquanto abri a escopeta com a mão esquerda e a apoiei na mureta. Deixei cair um cartucho; encaixei o outro em um cano e fechei a arma.
 
-O bafo úmido e fétido do esgoto foi sendo gradualmente substituído por uma rajada gélida, cortante, que trazia cristais minúsculos de geada suspensos no ar. Um odor químico áspero começou a arder na garganta.
+Esperei até que a aberração estivesse a menos de seis metros, erguendo duas pás gigantescas para o esmagamento final. O vento deslocado pelo golpe cheirava a ozônio queimado, diesel antigo e morte corporativa.
 
-Valéria alcançou a grade de retenção no final da descida. As barras de ferro forjado estavam cobertas por uma crosta espessa de geada branca, que brilhava como açúcar cristalizado sob a luz da lanterna.
+No último instante, desviei a mira do corpo do monstro e apontei para a junção da base da viga mestra do teto, onde o pino mestre de ferro fundido sustentava a extremidade da ponte rolante.
 
-— Pode ser vazamento de refrigerante dos trocadores do Setor Seis, — ela sussurrou, passando a ponta dos dedos pela geada que estalava ao toque. — A linha de resfriamento pode estar despressurizada. O duto desemboca direto na galeria inferior dos condensadores.
+Apertei o gatilho da *Caronte*.
 
-— E a grade tá trancada? — perguntei, alcançando o espaço logo atrás dela e sentindo o frio morder a pele exposta do meu rosto e das mãos em carne viva.
+O projétil atingiu o metal corroído do pino. O pino mestre estourou com um ruído de artilharia pesada, soltando lascas em brasa. Quase simultaneamente, do outro lado do galpão, Valéria disparou uma descarga concentrada de seu cyberdeck nos eletroímãs de sustentação, fritando os circuitos com um relâmpago azul ofuscante.
 
-— Travada por uma camada de gelo de três polegadas e uma corrente de aço naval, — Valéria disse, recuando meio metro para me dar espaço. Ela olhou para a minha mão mecânica de sucata forjada com um sorriso de desafio nos olhos prateados. — Acha que esse trator que o Vasco chamou de braço tem torque pra estourar esse cadeado congelado, ou você quer que eu gaste meus pulsos de hacking nisso?
+— Sai daí agora, Gabo! — o berro dela rasgou o galpão.
 
-— Guarda a bateria do deck, Val, — rosnei, puxando o fôlego gelado que ardeu nos meus pulmões como cacos de vidro. — O elo principal já está rachado por corrosão. Ilumina a rachadura; não vou apostar que o frio transforma qualquer corrente em vidro.
+Girei o corpo e me atirei de cabeça em direção a uma vala de drenagem lateral, sentindo os tendões da perna machucada gritarem sob a tensão do salto.
 
-Enfiei os garras de ferro da armação no meio do elo coberto de gelo. Apertei a mandíbula, travando o ombro esfolado contra a curva da parede de concreto, e forcei o atuador hidráulico ao limite. O metal da armação rangeu alto, a carcaça de sucata estalou sob a pressão violenta e, com um estalo seco como um tiro de rifle, o elo congelado partiu-se em quatro pedaços.
+O teto desabou.
 
-A grade de ferro rangeu e abriu-se para o vazio gélido que nos esperava do outro lado.
+A ponte rolante de quarenta toneladas se soltou dos trilhos com um gemido angustiante de ferro rasgando ferro e despencou em queda livre. A estrutura colossal atingiu o colosso de sucata bem no centro de sua cabine de comando. O som do impacto foi tão monumental que esvaziou meus pulmões, fazendo o chão de concreto afundar trinta centímetros sob a pressão.
 
-— Nada mal pra uma sucata ambulante, — Valéria comentou, empurrando a grade com o pé e espiando a imensidão branca e enevoada da galeria inferior. — Prepara os dentes, rapazes. A gente acabou de entrar no inverno eterno da corporação.
+Chapas de blindagem foram esmagadas como latas de refrigerante. Motores estouraram em uma torrente de óleo em chamas e peças de engrenagens voaram em todas as direções, riscando as paredes do armazém. O monstro soltou um último uivo eletrônico corrompido, e suas quatro pás mecânicas desabaram imóveis sobre os destroços fumegantes.
+
+Uma onda de poeira e fumaça química varreu o espaço, apagando as últimas lâmpadas âmbar do teto.
+
+Fiquei deitado na vala, tossindo o pó acre e sentindo o pulsar ensurdecedor do sangue nas têmporas. Meu braço mecânico estalava com pequenos espasmos térmicos, mas a estrutura resistira. A dor era limpa, real e imediata.
+
+Um feixe de luz azul cortou a escuridão absoluta e focou no meu rosto. Valéria surgiu sobre a borda da vala, o rosto manchado de fuligem, a franja desgrenhada e um sorriso cansado, mas vitorioso, estampado nos lábios finos.
+
+— Você ainda tá respirando, Moretti, ou eu tenho que procurar outro parceiro com gosto horrível pra café?
+
+— Eu ainda... tô aqui, Val, — grunhi, aceitando a mão enluvada que ela estendeu para me içar da vala. — Cadê o Elias?
+
+— Tô aqui! — a voz do técnico surgiu entre os destroços, trêmula mas inteira. — Tô inteiro... acho que tô inteiro.
+
+— Então recolhe as ferramentas, Elias, — Valéria ordenou, batendo a poeira das calças táticas. — A gente acabou de fazer um barulho que com certeza acordou tudo que dorme no Setor Seis. É hora de sumir dessa tumba antes que os parentes dessa sucata venham pro velório.

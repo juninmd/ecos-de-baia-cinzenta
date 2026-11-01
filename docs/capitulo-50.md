@@ -1,147 +1,149 @@
 ---
 layout: doc
-title: "Capítulo 50: O Silêncio da Chuva"
-description: "Helena morre. O Colar de Sol já estava com Gabo desde antes da abertura; a perda muda o que o objeto significa, sem alterar sua procedência."
+title: "Capítulo 50: A Vigília"
+description: "Val monta guarda sobre o corpo quebrado de Gabo e descobre, aos vinte e oito anos, a diferença entre apagar um alvo e matar um homem."
 image: /capitulo_50.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Clara Moretti, Valéria "Val" Cruz, Helena Moretti, Dra. Nise, equipe cirúrgica de plantão
-Localização: "Apartamento da família Moretti, Rua Vinte e Dois → Porão da Delegacia Central"
+Personagens Presentes: Valéria "Val" Cruz, Gabriel "Gabo" Moretti, Dra. Nise
+Localização: "Bunker médico, subsolo da Delegacia Central. Dia dez"
 ---
 
-# Capítulo 50: O Silêncio da Chuva
+# Capítulo 50: A Vigília
 
-O som da chuva no telhado de zinco não é relaxante.
+Bunker médico, subsolo da Delegacia Central. Dia dez.
+A chuva lá fora soava como estática de televisão fora do ar.
 
-Isso é uma coisa que as pessoas dizem sem nunca terem morado debaixo de um. Quatro horas de chuva em zinco é aconchego. Quarenta dias é uma broca. É um martelar sem intervalo e sem ritmo, e depois de duas semanas o cérebro para de filtrar e a pessoa começa a ouvir vozes dentro do barulho — nomes, conversas, alguém chamando da rua.
+Dentro do bunker havia dois sons e mais nada: o bipe do monitor cardíaco, teimoso, a cada segundo e pouco, e o zumbido dos três servidores que a Val tinha empurrado para o canto e ligado num nobreak roubado, porque a sala mais fria do prédio era a que tinha os servidores, e um corpo remontado precisa de frio.
 
-Clara Moretti ouvia a mãe chamando havia três dias, e a mãe estava a dois metros dela, e não chamava mais nada.
+Gabo estava na mesa, coberto até o peito por um lençol que já não era branco. Dezoito fraturas.
 
----
+Nise começara o turno às quinze horas do dia nove. A equipe preparara o instrumental, estabilizara Gabo e operara para conter o sangramento; àquela madrugada, completava doze horas entre preparação, pausas para manter o corpo estável e intervenção. A lista a lápis na parede contava o que conseguira remontar: pélvis em quatro pedaços, os dois fêmures. Três vértebras lombares ela não remontou, que a equipe imobilizara sem poder reconstruí-las naquela noite.
 
-O apartamento ficava no sétimo andar de um prédio da Rua Vinte e Dois, no lado errado do cerco.
+Val estava sentada no chão, de costas para a mesa, com a submetralhadora Vetor atravessada no colo. De costas de propósito.
 
-Clara tinha atravessado a cidade no dia seis, quando ainda dava. Foi buscar a mãe e trazer para a delegacia, onde havia gerador, comida racionada e uma médica. Levou quatro horas para chegar e não conseguiu levar quarenta minutos para voltar, porque no meio da tarde a Aeterna fechou o anel norte e o que era um trajeto virou uma fronteira.
-
-Ela mandou uma mensagem naquele dia: *Estou com ela. Assim que abrir, eu volto.* Não abriu.
-
-Diabetes tipo 1 não negocia com cerco. Helena Moretti dependia de duas coisas: insulina refrigerada e um monitor contínuo de glicose que rodava com bateria de lítio.
-
-No dia nove acabou a energia do prédio.
-
-No dia dez acabou o gelo, e Clara passou a manter as ampolas dentro de uma garrafa térmica com água da chuva, sabendo — porque tinha lido, porque ela sempre lia — que fora das condições de conservação a insulina podia perder potência sem mudança visível. Clara já não tinha como verificar a conservação nem obter orientação ou reposição. Não sabia o que cada ampola ainda poderia fazer.
-
-No dia doze, o monitor começou a piscar em vermelho nos dois indicadores ao mesmo tempo: bateria e leitura.
-
-CRÍTICO.
-— Só mais um pouco, mãe — sussurrou Clara.
-
-Helena gemeu. Fazia dois dias que era só isso.
-
-Clara pegou o comunicador. Tinha três barras de bateria e um número salvo com um nome de três letras.
-
-Apertou o botão.
+Ela tinha aguentado olhar durante as primeiras quatro horas. Depois a Nise abriu o quadril dele e o som que aquilo fez não foi um som de cirurgia, foi um som de obra, e Val se levantou, girou o banco, sentou de costas e não virou mais.
 
 ---
 
-Do outro lado da cidade, no subsolo da Delegacia Central, não havia ninguém para atender.
+— Você devia dormir, menina.
 
-Havia uma pilha de roupa rasgada e suja de óleo num canto da sala fria, e dentro dela um aparelho piscando em silêncio.
+— O sono é um app que eu desinstalei.
 
-Havia uma mesa, e em cima da mesa um homem aberto.
+— É engraçadinha essa frase. — A Dra. Nise falava sem parar de limpar as luvas na bacia, e a água da bacia estava marrom. — Eu ouço uma dessas por semana, de gente da sua idade, sempre no mesmo tom. Vocês inventam a frase antes de saber do que ela é feita.
 
-— A pressão está caindo! — A Dra. Nise falava alto porque o gerador tinha entrado no modo de economia e a bomba estava fazendo barulho. Era uma nova intervenção, dias depois da estabilização inicial. Ela auxiliava a plantonista cirúrgica, segurando o campo enquanto a equipe procurava a origem do sangramento. — Ele chegou aqui com menos da metade do volume. Os ossos da pelve estão em frangalhos, tem esquirla em todo lugar e eu não tenho contraste, não tenho tomógrafo, não tenho sangue tipado e não tenho **luz** suficiente!
+— A senhora está querendo brigar comigo?
 
-— Salva ele — disse Val, encostada na parede, branca. — Não importa como. Usa metal, usa peça, usa o que for. Só não deixa ele morrer.
+— Estou querendo que você durma quatro horas para eu não ter dois pacientes.
 
-— Menina, sai da minha sala.
+Val não respondeu.
 
-— Não.
+Os olhos dela varriam o corredor pela porta entreaberta, e não era força de expressão: ela alternava a visão básica direita com o monitor de uma câmera térmica emprestada do arsenal. Sem o sensor externo, não teria os espectros que perdera ao retirar o módulo de suporte.
 
-— Então segura a lanterna e não fala mais nada.
+— Ele não trabalha sozinho — ela disse.
 
-O comunicador piscou de novo.
+— Quem?
 
-Ninguém ouviu, porque um comunicador em modo silencioso não faz som nenhum, e porque a equipe naquele porão estava ocupada com o mesmo corpo.
+— O Taxidermista. — Ela falou o nome sem entonação nenhuma, do jeito que se lê um item de lista. — Ele não é bandido, doutora. Ele é fornecedor. Tem clientela. Ele não fez aquilo com o Gabo na Torre do Relógio porque odeia o Gabo; fez porque tem gente que paga por peça, e ele começou a colheita e foi interrompido no meio.
 
-Gabo flutuava embaixo da anestesia. Ele contou depois, uma única vez, à Dra. Weiss, que sonhou com engrenagem e com água, e que em algum momento do sonho o telefone da casa da mãe tocava na sala e ele não conseguia se levantar do sofá para atender.
+Nise parou de esfregar a luva.
 
----
+— Interrompido.
 
-Helena Moretti parou de respirar às 16h50 do dia doze.
-
-Não foi dramático. As pessoas imaginam que existe um instante. Não existe: existe uma respiração e depois um intervalo maior que os outros, e a gente espera a próxima, e é nessa espera que a coisa acontece — o luto começa dentro de um segundo em que ainda dá para ter esperança.
-
-Clara ficou paralisada por um tempo que ela não soube medir.
-
-Depois se levantou e fez tudo o que precisava ser feito, porque o luto em Baía Cinzenta é um item de luxo e a morte é um problema de logística.
-
-Fechou os olhos da mãe. Trocou a camisola por um vestido azul, o bom, porque com quarenta e oito horas de calor e sem geladeira ela sabia o que ia acontecer com o corpo e não queria que fosse com a camisola. Amarrou o queixo com uma faixa de gaze. Escreveu num pedaço de papel: **HELENA MARIA MORETTI, 55**, e prendeu no pulso dela com fita, do jeito que a Dra. Nise ensinava a todo mundo desde o dia dois.
-
-No pescoço da mãe havia uma faixa mais clara, onde o Colar de Sol costumava ficar. Helena o dera a Gabo anos antes, quando ainda havia visitas em que os três conseguiam sentar à mesa sem falar de Dante. Clara pensou em pedir que ele devolvesse. Depois pensou que a mãe não precisaria de metal dentro do forno.
-
-Ficou sentada na beira da cama com a mão sobre aquela marca. Não havia lembrança que pudesse pagar o transporte do corpo.
+— Ele tentou afogá-lo e alguém levou as amostras do pai dele. — Val finalmente olhou para a médica. — Não sei se o Taxidermista volta, mas precisamos nos preparar. Se vier acompanhado, o Gabo está aqui parado, sedado, num endereço que meia cidade sabe. É o dia mais barato de todos para o Sindicato pagar uma conta velha.
 
 ---
 
-Clara tentou descer o corpo sozinha e parou no primeiro lance. Chamou os vizinhos até uma porta abrir.
+O sensor apitou às 03h14 na lente de contato dela.
 
-Com os dois vizinhos, usou o lençol como maca de arrasto, degrau por degrau, e cada degrau fazia um som, e ela pediu desculpa em voz alta nos primeiros dez e depois parou de pedir. No térreo, os dois ajudaram a colocá-la no barco. Nenhum dos dois perguntou quem era. Todo mundo naquele prédio já tinha descido alguém.
+Três assinaturas térmicas no corredor leste. Espaçamento de dois metros e meio. Passo curto. Armamento longo apontado para baixo em posição de patrulha, não de assalto — o que significava que eles achavam que iam encontrar um homem dormindo, um servidor e uma velha.
 
-O crematório improvisado funcionava no antigo galpão da feira, porque enterrar tinha deixado de ser possível: a água subiu e devolveu o cemitério do Setor 4 na semana anterior, e ninguém que viu aquilo queria ver de novo.
+Val se levantou sem fazer barulho.
 
-O homem do forno pediu duzentos. Clara não tinha duzentos. Não tinha dois.
+Ela apagou os fios azuis da franja e ligou um indicador vermelho de alerta no deck. Não foi escolha estética. Era um script antigo — um aviso para os amigos dela, num tempo em que ela tinha amigos.
 
-Ela tirou do bolso o relógio do pai — o Seiko de aço que Dante Moretti usou por vinte e dois anos e que Helena guardou na gaveta da cômoda dentro de uma meia, e que Clara tinha pegado por instinto ao sair do quarto, sem saber por quê.
+— Doutora. Apaga a luz e deita no chão, atrás da mesa dele. A mesa é de aço.
 
-O homem olhou o relógio contra a luz, sacudiu perto do ouvido, e assentiu.
+— O que você vai fazer?
 
-Queimou por quase três horas.
+Val já estava plugando o deck na porta de manutenção.
 
-Clara ficou o tempo inteiro do lado de fora, encostada na parede do galpão, debaixo da marquise, olhando a chuva cair na água parada da rua, e não chorou. Ela ia chorar meses depois, no meio de uma fila de distribuição de arroz, por causa de nada.
-
-Naquela tarde, o que ela sentiu foi outra coisa, e a coisa tinha uma forma exata:
-
-Ele não está aqui.
-Não *ele não pôde vir*. Não *ele deve estar ferido*. Só a frase mais simples, a frase de irmã pequena, a que ela tinha aprendido aos nove anos e repetido aos catorze e aos dezoito: ele nunca está.
-
-O luto e a raiva chegaram juntos e nunca mais se separaram direito, e é por isso que os dois irmãos Moretti passaram os meses seguintes conseguindo se ver, se falar, se ajudar — e não conseguindo, nunca, ficar sozinhos numa sala.
+— Vou explicar a eles por que ninguém invade a casa de um hacker.
 
 ---
 
-Três dias depois.
-Gabo acordou.
+As câmeras do corredor apagaram uma a uma.
 
-A dor era uma coisa viva instalada na metade inferior dele, com opinião própria: ela subia quando ele respirava fundo e descia quando ele parava, e o corpo aprendeu isso em dez minutos e passou a respirar pouco.
+As travas magnéticas de quatro portas laterais destravaram ao mesmo tempo, com um estalo, e os três homens fizeram exatamente o que era esperado: viraram as armas para os estalos, todos os três, porque foram treinados nisso.
 
-— Você está vivo — disse Val, sentada ao lado, com uma xícara de café frio que ela não tinha bebido.
+E, nos três segundos em que estiveram olhando para portas vazias, Val ligou os projetores.
 
-— Que dia é hoje?
+Ela tinha espalhado sete emissores no corredor durante a tarde, presos com fita nos canos do teto. Cada um projetou uma silhueta humana, e as sete silhuetas começaram a se mover em direções diferentes.
 
-— Quinze.
-
-Ele levou um tempo para fazer a conta e a conta não fechou, e ele deixou para depois.
-
-— As minhas pernas.
-
-— Estão aí. — Val falou rápido. — Estão as duas aí, Gabo. Mas a Nise disse que a reconstrução leva meses e que você vai precisar de suporte mecânico para andar, e antes de você discutir com ela eu quero deixar registrado que eu não vou participar dessa discussão.
-
-Gabo fechou os olhos.
-
-Ele ia perguntar sobre o Taxidermista, sobre a Elena, sobre quantos morreram na Orla Norte. Perguntou outra coisa, e nem ele soube por quê.
-
-— A minha mãe. — A voz saiu áspera de tubo. — A Clara ligou?
-
-Val baixou os olhos.
-
-Foi só isso. Ela não disse nada, não tentou explicar, não usou nenhuma das frases que as pessoas usam. Ela só olhou para o próprio café e não conseguiu levantar o rosto, e o silêncio que se instalou naquele porão durou onze segundos e teve peso, e volume, e uma temperatura.
-
-Gabo não gritou.
-
-Ele virou o rosto para o teto de concreto, e ficou olhando as manchas de infiltração, e a chuva continuou batendo no zinco lá em cima, sem parar, sem ritmo, com aquele barulho dentro do qual dá para ouvir alguém chamando.
-
-Pela primeira vez em trinta e cinco anos, Gabriel Moretti desejou não ter acordado.
+Os homens abriram fogo contra as sombras. Val disparou contra a carne.
 
 ---
 
-Sob o curativo da mão esquerda, o Colar de Sol deixou uma marca no lençol. Gabo tentou alcançá-lo. Val cobriu a peça com a palma, sem tomá-la dele.
+Foi rápido, e foi de perto, e não foi limpo.
 
-Do outro lado da cidade, Clara esperava que alguém atendesse.
+Os dois primeiros caíram sem entender. O terceiro, sim: ele girou, mirou no vulto certo, apertou o gatilho e o tiro dele passou tão perto da cabeça dela que a onda de pressão fez o implante do ouvido esquerdo desligar por dois segundos.
+
+Ela atirou nele três vezes e ele caiu de costas e ficou tossindo. Não morreu na hora.
+
+Val já tinha disparado contra pessoas. Até aquela noite, evitara acompanhar um ferido depois do impacto. Nos jogos, nas simulações, nas cinquenta e duas operações que ela tinha corrido remotamente da segurança do apartamento, o alvo cai e some da tela. Ali no corredor o alvo caiu e continuou existindo, e o barulho que ele fazia era um barulho de pessoa tentando encher um pulmão que não enchia mais, e durou quase um minuto.
+
+Val ficou parada, apontando a arma para ele, com o dedo fora do gatilho, durante o minuto inteiro.
+
+Quando parou, ela acendeu a lanterna e olhou os três rostos, porque uma parte dela — a parte que ela ia passar os quinze anos seguintes tentando desligar — precisou olhar.
+
+O terceiro tinha dezessete anos, talvez dezoito. Tênis furado. Uma tatuagem amadora de estrela no pescoço, dessas de agulha e tinta de caneta, feita por amigo.
+
+Ela conhecia aquela estrela. Era a marca dos correios do Sindicato — os moleques que levavam pacote de um lado para o outro da cidade por comida. Podia ter sido o guia. A marca não provava sua função nem apagava que atirara nela. Val não sabia o nome, a história ou como chegara até ali; teria de registrar o que vira, em vez de inventar uma vida que a absolvesse.
+
+Val sentou no chão do corredor, entre os corpos, e vomitou.
+
+---
+
+Nise apareceu com a lanterna dez minutos depois e não disse nenhuma das coisas que se dizem.
+
+Não disse *você fez o que precisava*. Não disse *não foi culpa sua*. Não disse *eles teriam matado vocês*, porque não tinha presenciado a entrada e não podia resolver a conta com uma frase.
+
+Ela se agachou, com dificuldade, ao lado do menino, e virou o rosto dele para cima com dois dedos, e ficou olhando um tempo.
+
+— Vamos precisar de nomes — ela disse.
+
+— O quê?
+
+— Documento, tatuagem, cicatriz, remendo de roupa. Qualquer coisa. — Nise já estava vasculhando o bolso do primeiro homem, com um cuidado que parecia rude e não era. — Eles vão para a vala com os outros, não tem o que fazer, mas vão com um papel amarrado no pulso. Nome, ou sinal, ou "menino de dezessete anos, tatuagem de estrela no pescoço, morreu no dia dez no corredor leste".
+
+— Doutora, eu acabei de matar esse menino.
+
+— Eu sei.
+
+— E a senhora quer que eu **escreva o nome dele**?
+
+Nise levantou os olhos, e naquele momento tinha sessenta e cinco anos e uma autoridade que não precisava de arma nenhuma.
+
+— Eu quero que você escreva o nome dele **porque** foi você. — A voz não subiu um grau. — Se eu escrever, é burocracia. Se você escrever, é conta. Menina, você tem vinte e oito anos e uma noite inteira pela frente para decidir que tipo de pessoa você vai ser em relação a isso. Eu já vi as duas opções, e uma delas dorme melhor e é bem pior.
+
+Val ficou de joelhos no corredor por um tempo. Depois pegou o bloco de receita da Nise, arrancou três folhas e começou a escrever com a mão tremendo tanto que a primeira ficou ilegível e ela teve que refazer.
+
+---
+
+Voltou para a enfermaria às cinco da manhã com as mãos lavadas duas vezes e o cheiro ainda lá.
+
+Sentou no banco ao lado da mesa — de frente, dessa vez — e olhou o homem quebrado sob o lençol.
+
+Ele estava com a cor errada. A respiração era rasa e curta, de gente que respira só o suficiente para não ser acordada pela falta. Sob a pele do peito havia hematomas do tamanho de mãos, e Val sabia que não eram mãos, eram costelas.
+
+Ela pegou a mão dele, aquela mão calejada e enorme, e entrelaçou os dedos. Os dela eram frios. Os dele também.
+
+— Ninguém toca em você — ela disse, para a sala escura. — Ninguém.
+
+E depois, mais baixo, para ninguém:
+
+— Mas eu vou ter que continuar fazendo isso, né?
+
+O monitor cardíaco respondeu a única coisa que sabia responder, e continuou respondendo a noite inteira, e às seis e quarenta da manhã, quando a chuva mudou de tom e a Nise finalmente dormiu sentada, o comunicador do Gabo — largado numa pilha de roupa rasgada e suja de óleo, no canto da sala — piscou uma vez, em silêncio, com uma chamada perdida.
+
+Val não viu.
+
+Estava de olho na porta.

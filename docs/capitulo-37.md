@@ -1,150 +1,100 @@
 ---
-layout: doc
-title: "Capítulo 37: A Linha Azul"
-description: "A delegacia aguenta a noite inteira. O preço aparece de manhã, algemado ao volante de um caminhão."
 image: /capitulo_37.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Valéria "Val" Cruz, Capitão Jonas Vilar
-Localização: "Delegacia Central"
+Personagens Presentes: Gabriel "Gabo" Moretti, Capitão Jonas Vilar, Elena Moretti, Valéria "Val" Cruz
+Localização: "Delegacia do Setor 4"
 ---
+# Capítulo 37: O Ninho da Serpente
 
-# Capítulo 37: A Linha Azul
+A Delegacia Central do Setor 4, o último bastião de "lei" na borda da Zona Industrial, parecia menos um posto policial e mais uma fortaleza sitiada medieval. Empilhadas na frente da entrada principal, barreiras de concreto Jersey estavam entrelaçadas com arame farpado e carcaças de drones abatidos. Policiais exaustos, cujos uniformes azuis estavam cinzentos de fuligem, patrulhavam o perímetro com o nervosismo de quem sabe que está em desvantagem numérica e tecnológica. Como a rede elétrica havia caído dias atrás, apenas fogueiras acesas dentro de latões de óleo iluminavam a fachada, projetando sombras longas e distorcidas que pareciam dançar nas paredes marcadas por balas.
 
-O primeiro coquetel bateu na barricada de concreto às 00h40.
+Elena parou o Cobalt fora da linha de tiro. Gabo continuava no banco do passageiro, com a perna imobilizada e o braço na tipoia. A cadeira estava no porta-malas. Val abriu a Caronte e colocou os dois cartuchos restantes; a Glock de Elena tinha um tiro.
 
-O fogo subiu e, por três segundos, iluminou a avenida inteira — e foi a primeira vez em oito dias que alguém dentro da Delegacia Central conseguiu ver o tamanho do problema. Eram muitos.
+— Entrada de custódia — disse Gabo. — Tem interfone a bateria e uma janela para conferir quem chega. Primeiro chama. Não quero outra porta arrombada sobre gente que não vimos.
 
-Não centenas, como o sargento gritou da janela e como todo mundo repetiu depois. Gabo contou por blocos, do jeito que se conta multidão em manifestação: umas cento e vinte pessoas no primeiro grupo, talvez oitenta atrás, e mais chegando pela Rua Nove.
+Elena contornou a barricada sozinha, com as mãos abertas. O policial que veio ao visor reconheceu Gabo, mas exigiu que guardassem as armas. Ela mostrou a ficha da escola antes do antigo distintivo. Precisavam de atendimento, rádio e transporte; também traziam um relato sobre reféns na avenida.
 
-E não era um exército.
+Dois agentes ajudaram a passar Gabo para a cadeira e empurraram pela rampa da doca. No corredor de custódia, pessoas sem conexão murmuravam diante de telas desligadas. Val começou a falar em abstinência e parou diante de um homem com um corte infectado.
 
-Havia motoqueiro do Sindicato, sim, com colete e ferro. Havia mercenário de contrato, dava para reconhecer pelo equipamento e pela disciplina de fila. Mas o grosso daquilo era gente do bairro — de bermuda, de chinelo, com pé de cabra e barra de ferro, e um cara na frente empurrando um carrinho de supermercado com galões.
+— Tem alguém da saúde aqui? — perguntou.
 
-Foi a Val quem falou primeiro, e falou baixo, do lado do Gabo, olhando pela mesma fresta:
+A plantonista tinha saído para buscar suprimentos. Um agente anotou os ferimentos e prometeu chamar a equipe pelo rádio quando encontrasse uma frequência livre. Elena entregou cópia do endereço da van, pediu número de registro e acrescentou que precisava prestar depoimento sobre os tiros na Avenida da Indústria. Não esperaria Gabo escolher uma versão conveniente.
 
-— Gabo, aquele de camisa listrada é o filho do dono da padaria da Onze.
+A sala de Vilar no segundo andar ficava inacessível pela cadeira. Foram dois policiais que a levaram pelos lances; Elena sustentou a perna, e todos pararam no patamar. Val ficou com as bolsas e o módulo de Aria no deck. Ela não ofereceu hackear uma tranca mecânica enquanto esperavam socorro.
 
-— Eu sei.
+No corredor superior, a porta do capitão estava entreaberta. O agente da frente ia chamar quando a voz de Vilar pediu uma vaga para a família. Gabo lhe fez sinal para esperar. Elena ligou o gravador do telefone.
 
-— Ele me vendia pão.
+Pela fresta da porta entreaberta, ele viu a cena.
 
-— Eu sei, Val.
+O Capitão Jonas Vilar não estava comandando seus homens. Ele estava fazendo as malas.
 
----
+Vilar, um homem que Gabo respeitara como um pai substituto por anos, estava enfiando barras de ouro e drives de dados criptografados em uma mochila tática. Um rádio de emergência de banda larga estava ligado na mesa.
 
-O megafone estava no arsenal, e devia ter pilha desde antes do Apagão.
+— ...Sim, eu confirmo. — A voz de Vilar tremia, não de medo, mas de pressa. — Eu tenho os códigos de acesso ao arsenal pesado e a rota das patrulhas. Quero extração imediata. Vaga no helicóptero da Vance para o Distrito Alto. Eu e minha família.
 
-Colocaram a cadeira de Gabo junto do primeiro degrau do saguão. A perna direita continuava apoiada. O sargento assumira o plantão; entregara do arsenal uma caixa de doze cartuchos para repor a reserva da Caronte e registrara a retirada.
+— Entendido, Capitão — respondeu uma voz distorcida no rádio. — O Sindicato honra seus acordos. Esteja no telhado em dez minutos. Leve os códigos. Deixe a delegacia aberta.
 
-Trinta e um policiais olhavam para ele. Nenhum era subordinado dele. A metade estava sem dormir havia dois dias e um terço estava em abstinência da Rede, com tremor nas mãos.
+Gabo sentiu um gosto de bile e traição na boca. O mundo acabava lá fora, a cidade se afogava em sangue, e os ratos continuavam negociando queijo. Ele não sentiu raiva; sentiu uma tristeza profunda, exaustiva.
 
-E, no canto, encolhido numa cadeira, desarmado, sob a vigilância da Elena, estava o homem que ainda era o Capitão do prédio.
+Elena empurrou a porta. O policial que ajudara na escada permaneceu no corredor, ouvindo a gravação junto com eles.
 
-— Escutem — disse Gabo, e a voz saiu rouca e cansada, e ele decidiu deixar sair assim. — Vocês têm três informações e todas as três são ruins.
+O estrondo fez Vilar pular e derrubar uma barra de ouro. Ele levou a mão ao coldre da cintura, instinto puro, mas parou ao ver o colega de plantão testemunhando a cena. A Caronte permanecia fechada na bolsa.
 
-Ninguém falou.
+— O voo foi cancelado, Jonas — disse Gabo, sua voz fria e calma.
 
-— A primeira: eles acham que a lei acabou porque a luz apagou. A segunda: o Capitão Vilar tentou negociar a entrega deste prédio, e vocês todos sabem disso, e é por isso que ele está sentado ali e não aqui. — Ele deixou passar dois segundos. — A terceira é que eu não sou o comandante de vocês. Eu sou um inspetor rebaixado com o joelho quebrado que apareceu aqui na terça.
+— Moretti... — Vilar empalideceu, parecendo encolher dentro da farda. — Você... disseram que você estava morto na Zona Morta.
 
-Um dos rapazes riu, nervoso.
+— Infelizmente para você, eu sou difícil de matar. — O agente empurrou a cadeira para dentro. Elena e Val entraram logo atrás. — Vendendo a delegacia para o Sindicato, Jonas? Depois de trinta anos de serviço? Depois de tudo que passamos?
 
-— Então por que a gente ia te ouvir? — perguntou um sargento grisalho, sem agressividade, com legítima curiosidade profissional.
+— Não tem mais delegacia, Gabo! — gritou Vilar, o suor escorrendo pela careca brilhante. — Acabou! A Aeterna caiu, mas o Sindicato vai herdar as cinzas! Eles estão vindo com blindados, com ciborgues de guerra! Eles vão nos massacrar! Eu só estou tentando salvar minha esposa, meus filhos!
 
-— Não é para me ouvir. É para olhar para o lado.
+— Salvando sua pele — corrigiu Gabo, indicando a mochila para que o agente a afastasse. — Enquanto seus homens, aqueles garotos lá embaixo, seguram barricadas com paus e pedras achando que o "Capitão" tem um plano. Você não ia levá-los, ia?
 
-Gabo apontou o megafone para o saguão, para as duzentas pessoas deitadas em colchões nos corredores, para as crianças, para as três velhas sentadas juntas perto da porta do banheiro.
+Vilar baixou os olhos.
 
-— Não tem para onde levar essa gente. Não tem reforço, não tem rádio, não tem Cidade Alta que atenda. A porta é essa. — Ele baixou o megafone e falou sem ele, e por isso todos se calaram para ouvir. — Hoje a gente desenha a linha aqui, ou não desenha em lugar nenhum nunca mais.
+— Não havia lugar para todos. Era eu ou ninguém.
 
-O que subiu não foi grito de guerra. Foi um murmúrio feio e cansado de homens concordando. Serviu.
+O agente aproximou a cadeira da mesa. Ele olhou para o rádio, onde a luz de "transmissão ativa" ainda piscava.
 
-— **POSIÇÕES!** — gritou o sargento grisalho, tomando o comando da defesa. Elena recolheu sua câmera e ficou com a evacuação do corredor. — Atirador no segundo andar, dois por janela, um atira e um observa! Contenção no saguão! Charlie nos fundos, e nos fundos ninguém atira sem confirmar alvo, tem casa colada na parede!
+— O Sindicato quer entrar? — Gabo sorriu, um esgar que não chegou aos olhos.
 
----
+Ele pegou o rádio.
 
-O tiroteio começou às 00h52 e não parou até as 06h10. Não foi uma batalha. Foi mais de cinco horas de trabalho.
+— Atenção, Sindicato — disse Gabo no microfone. — Aqui é o Detetive Moretti. O Capitão Vilar pediu demissão.
 
-Ondas: eles vinham, apanhavam, recuavam, bebiam alguma coisa, voltavam. Entre uma e outra havia intervalos de vinte minutos em que dava para ouvir a chuva de novo, e nesses intervalos os feridos gritavam dos dois lados da rua, e os dos dois lados gritavam igual.
+Do outro lado, houve um silêncio, seguido por uma risada seca.
 
-O saguão cheirava a pólvora queimada, urina e pó de concreto. Cada bala que batia na fachada arrancava uma nuvem fina de cimento que descia e se assentava na boca de quem estava embaixo, e no fim da noite todo mundo lá dentro cuspia cinza.
+— Moretti. A lenda. — A voz era de Kael, o Cirurgião. — Vilar era um covarde, mas era útil. Você é apenas um obstáculo. Nós vamos entrar, detetive. E vamos esfolar cada policial aí dentro.
 
-Empurraram Gabo até a coluna leste, fora da linha direta das janelas. Com a Caronte apoiada numa mesa e ajuda para recarregar os dois canos, disparou onze vezes durante os intervalos do ataque. Cada recuo fazia a mão esquerda abrir; não saiu daquela posição.
+— Venham — disse Gabo. — As portas estão abertas. Mas tragam sacos para corpos. Muitos deles.
 
-Duas pessoas morreram dentro da delegacia.
+Gabo soltou o transmissor. Elena guardou a frequência e o áudio: aquele rádio ainda podia chamar ajuda. A voz de Kael estava mais áspera do que na Torre; sobrevivera, mas não tinham confirmado como saíra de lá.
 
-O primeiro foi o policial Damião Reis, vinte e seis anos, atingido na garganta na janela do segundo andar à uma e onze da manhã. Levou nove minutos e a Dra. Nise ainda não estava naquele prédio, e ninguém ali sabia fazer nada além de apertar.
+Vilar olhava para ele, aterrorizado.
 
-A segunda foi uma senhora de setenta e dois anos que estava dormindo no corredor e que uma bala perdida encontrou depois de atravessar uma janela e duas paredes de gesso. Ela morreu sem acordar. Foi, de longe, a melhor morte daquela noite, e Gabo pensou nisso na hora e se envergonhou de ter pensado.
+— Você nos condenou! Eles são centenas!
 
----
+— Não, Jonas. Eu nos dei uma chance de lutar. — O sargento da porta retirou a arma de Vilar e a guardou. Não devolveria o comando ao homem que acabara de oferecer o prédio. — Você tem uma escolha agora. Você pode morrer como um covarde encurralado tentando fugir com ouro roubado, ou pode morrer como um policial defendendo sua casa.
 
-Às três e quarenta, a Val gritou pelo rádio.
+Vilar olhou para as próprias mãos vazias. Ele olhou para o ouro no chão, depois para Gabo.
 
-— Gabo! Vibração pesada! Está vindo da Nove, é grande, é muito grande — é caminhão!
+— Eu não sou como você, Gabo. Eu não quero ser mártir.
 
-Ele olhou pela fresta. Um caminhão de lixo, blindado com chapa de aço soldada por cima da cabine, subindo a avenida vazia em segunda marcha, ganhando velocidade, mirando as portas principais.
+— Ninguém quer. Mas hoje, é o único cargo disponível.
 
-— **ELENA! O LANÇADOR!**
+Sirenes começaram a tocar lá fora, seguidas pelo som inconfundível de um veículo blindado arrebentando a barricada de concreto. Tiros começaram a estalar.
 
-O sargento apareceu na varanda interna com o lançador de quarenta milímetros retirado do arsenal. Elena ficou junto dele, vendo o caminhão pela janela.
+— Eles chegaram — disse Elena, engatilhando sua pistola.
 
-— Gás na cabine! — gritou Gabo. — Ele vai desviar sozinho!
+Gabo olhou para Vilar.
 
-O sargento mirou. Elena pediu que esperasse para ver a cabine. O sargento hesitou e disparou antes de conseguir distinguir o motorista.
+— Levante-se, Capitão. Seus homens precisam de você.
 
-A granada entrou pela janela lateral quebrada e a cabine encheu de branco em menos de um segundo. O caminhão guinou para a esquerda, derrapou no asfalto molhado, pegou o poste de luz de raspão e o derrubou, e parou de nariz numa vitrine a nove metros da entrada.
+Vilar respirou fundo. Pegou o boné da mesa e pediu autorização ao sargento para ir ao arsenal sob escolta. O medo ainda estava lá, mas a vergonha parecia ter endurecido sua espinha.
 
-As barricadas aguentaram. Alguém no saguão gritou de alívio.
+— O arsenal pesado está no subsolo — disse Vilar, a voz firme pela primeira vez. — Tenho minas terrestres e duas metralhadoras giratórias apreendidas.
 
----
+Gabo assentiu.
 
-O bando recuou às seis e dez, quando o céu começou a mudar de preto para aquele cinza que em Baía Cinzenta faz as vezes de amanhecer.
+— Vamos fazer o Ninho da Serpente virar um inferno para eles.
 
-Quatro policiais foram verificar o caminhão, mantendo o restante do grupo atrás da barricada. Depois da inspeção inicial, levaram Gabo na cadeira até o ponto de onde podia observar a cabine, sem deixá-lo aproximar da carga.
-
-A cabine ainda estava com gás dentro. Eles esperaram, abriram a porta com um gancho, e o resto do gás saiu num rolo lento. O motorista estava caído sobre o volante.
-
-Tinha dezessete ou dezoito anos. Estava sem camisa. E tinha os dois pulsos presos ao aro do volante com abraçadeiras de nylon — quatro delas, apertadas até o plástico entrar na pele, marcando fundo.
-
-Alguém tinha algemado um menino num caminhão, apontado para uma porta e mandado acelerar.
-
-O peito estava comprimido contra o volante. O choque podia ter matado o rapaz; dali, sem exame, ninguém sabia se o gás também contribuíra. As abraçadeiras mostravam que ele não conseguira soltar o volante.
-
-O sargento grisalho olhou aquilo, tirou o boné e ficou com o boné na mão. Gabo não fez nada disso. Ficou olhando as abraçadeiras.
-
-— Chama a Elena — ele disse.
-
-— Inspetor, ela não precisa—
-
-— **Chama a Elena.**
-
----
-
-Elena e o sargento vieram, olharam e ficaram até acabar de ver. O sargento que disparara manteve o boné nas mãos.
-
-— Eu ia disparar de qualquer jeito — disse ele.
-
-— Eu sei.
-
-— Se eu não disparasse, aquilo entrava no saguão com duzentas pessoas deitadas no chão.
-
-— Eu ouvi a ordem — disse Elena. — E vou registrar quem atirou e o que conseguimos ver.
-
-— Então por que chamou a gente aqui? — perguntou o sargento.
-
-Gabo demorou a responder, e quando respondeu não foi para machucar. Foi a coisa mais parecida com um presente que ele sabia dar.
-
-— Porque hoje eu atirei num rapaz que tinha largado a arma. A Elena me fez olhar. — Gabo manteve as mãos sobre o colo. — Não vou usar o que fiz para esconder o que aconteceu aqui.
-
-Elena não chorou ali. Ela agachou, tirou o canivete do bolso e cortou as quatro abraçadeiras, uma por uma, para tirar o menino do volante com os braços livres. Foi a única coisa que ainda dava para fazer, e ela fez.
-
----
-
-Quando o sol cinzento subiu de vez, o chão da avenida estava coberto de cápsulas de latão, brilhando na água como um tapete que alguém tivesse derrubado.
-
-Contaram trinta e um corpos do lado de fora. Dois do lado de dentro. Onze feridos sem transporte confirmado, à espera de tratamento que o posto não tinha como fornecer.
-
-A delegacia estava de pé. A linha azul não tinha sido cruzada.
-
-Levaram a cadeira de Gabo até a entrada, com a escopeta descarregada no colo e olhou aquilo tudo, e não sentiu vitória nenhuma. Sentiu uma coisa muito mais perigosa: sentiu que tinha funcionado.
-
-Atrás dele, dentro do prédio, trinta e um policiais começaram a chamá-lo de senhor.
+O primeiro tiro atravessou a porta e apagou a única lâmpada do corredor. No escuro, do outro lado da parede, alguém começou a cantar o hino da corporação. Vilar cuspiu no chão e foi na frente.

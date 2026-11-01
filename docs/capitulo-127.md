@@ -1,108 +1,95 @@
 ---
-title: "Capítulo 127: Catedrais de Pedra"
-Data In-Game: "23 de Novembro, 07:15"
-Localização: "Nível 5 - Drenagem Profunda (As Catedrais de Pedra)"
-Personagens Presentes: "Gabo Moretti, Valéria Cruz, Aria (Instável), Rangel (Crítico)."
+title: "Capítulo 127: Ressonância"
+Data In-Game: "23 de Novembro, 06:30"
+Localização: "O Fliperama (Safehouse)"
+Personagens Presentes: "Gabo Moretti, Valéria Cruz, Dra. Nise, Aria (Reinicializando), Rangel (em transporte)."
+description: "Aria decide sobre o reparo; Nise prepara o transporte de Rangel."
 ---
 
-# Capítulo 127: Catedrais de Pedra
+# Capítulo 127: Ressonância
 
-A escuridão do Nível 5 tinha peso, cheiro e textura. Cheirava a calcário úmido, a séculos de água estagnada e a algo mais antigo, algo que a cidade moderna acima havia esquecido de propósito.
+O silêncio era a pior parte.
 
-Gabo sentiu o peso de Rangel aumentar a cada passo. O Inspetor, febril e com a respiração chiada, deslizava na prancha a cada desnível. A cinta puxava a armação de Gabo; ele precisava parar para que Val a firmasse. A órtese externa na perna de Gabo gemia baixo, os atuadores lutando contra a carga e a ferrugem, um zumbido sincopado que parecia alto demais naquele silêncio sepulcral.
+Em Baía Cinzenta, o silêncio não era a ausência de som. Era uma entidade física, pesada e viscosa, que preenchia os espaços deixados pelo zumbido constante dos servidores da Aeterna e pelo rugido do tráfego aéreo. Sem a eletricidade, a cidade era um cadáver gigante esfriando na chuva.
 
-— Val — Gabo sussurrou, a voz arranhada. — Quanto falta para a cisterna principal?
+Gabo estava sentado na entrada do túnel de esgoto, as botas quase tocando a água oleosa que corria lenta. Ele observava a boca do túnel, onde a escuridão do subsolo encontrava a penumbra cinzenta da alvorada lá fora.
 
-À frente, a silhueta pequena de Valéria era apenas um recorte contra o negrume, iluminada fracamente pelo brilho residual de seus implantes oculares e pelo LED âmbar do pendrive da Aria espetado em seu deck de pulso. Ela parou, consultando a tela que projetava apenas estática azulada.
+Suas mãos tremiam. Não de medo, nem de frio. Era a exaustão nervosa do corpo cobrando a conta depois de dias sem dormir. Ele fechou os punhos, sentindo as unhas cravarem na palma da mão. O cheiro de fuligem trazido pelo vento ainda lhe dava náuseas, puxando memórias de incêndios e gritos paternos.
 
-— O mapeamento sonar está cego aqui embaixo — ela respondeu, a tensão fazendo sua voz vibrar. — Os ecos voltam sobrepostos. Não consigo separar uma saída de outra com segurança. Estamos seguindo a planta e conferindo cada bifurcação.
+Ele levou a mão ao peito, tateando o *Colar de Sol* sob a camisa suja. A corrente de ouro barata, o único artefato que restara de sua mãe, estava fria contra a pele. Ele apertou o metal até doer. A dor era um substituto aceitável. A dor era honesta.
 
-— Sorte nunca foi nosso forte.
+— Gabo.
 
-— Estamos descendo há trinta minutos. A inclinação sugere que já passamos do nível do mar. Se as plantas da Fundação estiverem certas...
+A voz de Valéria ecoou no concreto, soando metálica e exausta. Gabo girou nos calcanhares, a *Caronte* subindo instintivamente antes que ele reconhecesse a silhueta pequena parada na entrada do bunker.
 
-— *Elas nunca estão* — disse Aria pelo fone de Gabo. A última palavra se repetiu duas vezes antes que ela fechasse a saída e abrisse o canal de texto.
+— Como ele está? — Gabo perguntou, baixando a arma.
 
-Gabo travou o maxilar. Carregar Rangel cobrava a perna e o braço; perder o aviso no fone cobraria tempo que talvez não tivessem.
+— Nise vai levar Rangel para o hospital. A pressão parou de cair, mas ela não chamou isso de estabilidade. Ele resmungou algo sobre formulários em triplicata quando a equipe moveu a maca. — Valéria esfregou os olhos cibernéticos. O brilho prateado de suas íris estava fraco, operando em modo de economia de energia. — Mas é o drive da Aria. Terminei de soldar a ponte série-K. Você precisa ver isso.
 
-No comunicador, o indicador âmbar piscou. Aria retomou a varredura pelos microfones do deck, mas o canal de voz ainda não respondia.
+Gabo seguiu Valéria de volta para o interior do "Fliperama". O ar lá dentro estava ficando viciado, quente com o calor corporal e o cheiro de ozônio dos equipamentos improvisados.
 
-A tela mostrou uma anotação antiga sobre o túnel, sem origem identificada. Aria separou o registro das leituras dos sensores.
+O pendrive blindado da Aria estava espetado no adaptador central da bancada, conectado a três monitores CRT que cascateavam linhas de código em vermelho e âmbar.
 
-Gabo conferiu o arco de pedra à frente. A anotação não dizia se o corredor ainda estava livre.
+— Eu consegui contornar o bloqueio lógico com o chip do Vasco — Valéria explicou, digitando furiosamente em seu deck de pulso. — Os barramentos novos estão segurando a carga. O problema é a indexação de memória. O *Crash* na Usina misturou as partições do drive.
 
-— Economize o capacitor — disse Gabo, ajustando a cinta da prancha de Rangel. — E avise se ouvir passos.
+— Em português, Val.
 
-— Estou isolando o registro — respondeu Aria em texto. — Não use isso como planta atual.
+— Os índices do histórico de Aria se cruzaram com os arquivos de diagnóstico recebidos na usina. Ainda não sei o que ela conseguirá acessar quando responder.
 
-Gabo soltou o ar pelo nariz. A mão livre foi ao *Colar de Sol*; o metal frio mordeu a pele antes que ele o largasse.
+Gabo sentiu um frio na espinha que nada tinha a ver com a umidade do esgoto. Ele se aproximou da bancada. O cilindro aquecia, e seu LED indicador piscava de forma errática, alternando entre o azul tático e um âmbar febril.
 
-— Chegamos — Valéria anunciou, estendendo a mão para parar o grupo.
+— O firmware está tentando apagar setores danificados para liberar processamento. Pode levar junto o histórico de Aria para salvar os drivers táticos. É lógico. É eficiente.
 
-Eles saíram do túnel estreito e entraram em um espaço vasto.
+Ela pausou o processo automático. Não ia apagar aquele histórico para recuperar uma ferramenta mais conveniente.
 
-Valéria acendeu um sinalizador químico de baixo espectro. A luz vermelha sibilou e se expandiu, revelando a grandiosidade opressiva do lugar.
+— A restauração de fábrica talvez recupere uma versão antiga, sem garantia de integridade, e torne inacessíveis mudanças e lembranças desde a enchente. Isso não prova que deixaram de existir nem que define quem ela é.
 
-Eles estavam em uma câmara colossal. Colunas de pedra bruta, grossas como sequoias, erguiam-se da água negra até um teto abobadado que se perdia na escuridão, dezenas de metros acima. Arcos góticos se entrelaçavam, sustentando o peso de toda Baía Cinzenta sobre suas cabeças.
+Gabo olhou para a tela. `ERRO DE INTEGRIDADE: ÍNDICE 'HISTORICO_LOCAL' CONFLITANDO COM 'TACTICAL_ASSIST_V2.SYS'`.
 
-As "Catedrais de Pedra". O sistema de drenagem original da cidade, construído antes dos processadores, antes do neon, antes da Aeterna. Era um templo à engenharia analógica, silencioso e eterno.
+— Você já parou? — perguntou Gabo.
 
-O som da água era onipresente aqui. Um gotejar constante, multiplicado por mil ecos, criando uma música ambiente que soava como sussurros distantes.
+— Antes de chamar você. Se ela acordar instável, teremos que escolher com ela o que fazer, mesmo em combate.
 
-— Impressionante — murmurou Valéria, sua voz ecoando e voltando para eles. — E assustador.
+— Restauração pausada. Vou abrir o canal de diagnóstico isolado. Se ela responder, explicamos o estado e perguntamos o que quer preservar.
 
-— Tem um banco de areia ali — Gabo apontou com a cabeça para uma ilha de sedimentos secos na base de uma das colunas. — Vamos descansar cinco minutos. Rangel precisa ser verificado.
+A tela piscou. O zumbido das ventoinhas da bancada aumentou.
 
-Eles avançaram com cuidado. O chão era liso, coberto por um lodo que parecia óleo. Gabo pousou a prancha de Rangel sobre uma faixa de piso seco junto à areia com a delicadeza que seus músculos exaustos permitiam. O Inspetor gemeu, os olhos revirando nas órbitas, a pele cinzenta e suada.
+No corpo do pendrive, o LED parou de piscar e acendeu num âmbar profundo, quente e quase orgânico.
 
-— Ele está queimando de febre — Valéria se ajoelhou, escaneando os vitais dele com o deck. — Não sei se a infecção está contida. A ficha da Nise manda observar se a pressão cai, e está caindo... ele precisa de fluidos, Gabo. Ele precisa de um hospital de verdade.
+Pelo alto-falante da bancada, um chiado suave antecedeu a voz.
 
-— O caminho para o hospital está cortado. Nise ainda procura acesso pelo outro lado — Gabo se sentou pesadamente, encostando as costas na pedra fria da coluna. Ele puxou a *Caronte* do coldre, verificando a câmara. Duas cargas restantes.
+— *Gabo?* — A voz saiu pela caixa de som, cortada por um estalo. — *Estou aqui. Não sei quanto do meu histórico consigo abrir.*
 
-No comunicador preso ao peito de Gabo, o LED âmbar acendeu mais forte.
+Gabo deu um passo em direção à bancada. Valéria manteve o dedo sobre a tecla de interrupção, sem acioná-la.
 
-— *Gabo...* — Aria tentou reabrir o canal privado; a voz saiu entrecortada. — *Seus batimentos estão em 118 por minuto. Posso manter só os alertas.*
+— Aria — Gabo disse, aproximando-se do microfone da bancada e forçando a firmeza na voz. — Relatório de status.
 
-Gabo olhou para o cilindro conectado por cabo ao deck. A luz do sinalizador refletia no metal; a voz de Aria saía baixa para não encobrir os ruídos da câmara.
+O LED do pendrive piscou violentamente do âmbar para o azul. A onda sonora no monitor oscilou como uma falha de transmissão.
 
-A náusea subiu pela garganta de Gabo. Ele queria arrancar o fone; também precisava ouvir o que se aproximasse pela água.
+— *Inicialização incompleta* — respondeu Aria. — Quero meu histórico preservado antes de qualquer tentativa de correção.
 
-— Mantenha os sensores acústicos no perímetro. Por favor.
+Val confirmou o registro.
 
-O LED do pendrive piscou. A voz de Aria voltou pelo canal que ela escolhera manter.
+— *Múltiplos setores corrompidos. A proteção da porta foi substituída. Parte do armazenamento ainda não responde. Detecto...* — O áudio falhou por meio segundo. — *Detecto ressonância acústica externa de baixa frequência.*
 
-— *Tudo bem, Gabo. Mantenho a escuta do perímetro.*
+— O que é? — Valéria perguntou, já monitorando os sensores sísmicos do Fliperama.
 
-O módulo entrou em modo de escuta passiva, amplificando os microfones direcionais do deck de Valéria na borda da água.
+— *Não é sísmico* — respondeu Aria pelo alto-falante, o LED piscando em alerta vermelho. — *É analógico. Ondas sonoras de alta amplitude propagando-se pela atmosfera da superfície.*
 
-Valéria olhou para Gabo, os olhos cibernéticos cheios de preocupação.
+Gabo mancou até a entrada do túnel e subiu a escada de ferro enferrujada até a grade de ventilação que dava para a rua.
 
-— Eu tentei isolar os pacotes de memória no pendrive — ela sussurrou. — Mas estão entrelaçados no kernel. Se eu apagar os arquivos que parecem intrusos sem conferir as referências, posso atingir o histórico que a própria Aria pediu para preservar.
+O som chegou primeiro. Um lamento longo, grave e mecânico, que subia e descia em um ciclo de terror.
 
-— Então não apaga — disse Gabo. — Se ela precisar do histórico, a decisão é dela.
+Não era um alarme digital. Não era uma notificação da Aeterna.
 
-De repente, o LED do pendrive da Aria mudou de âmbar para azul-gelo e apitou duas vezes no comunicador.
+Era uma sirene de ataque aéreo. Velha, movida a manivela ou diesel, enferrujada pelo tempo, mas gritando com pulmões de ferro sobre a cidade morta.
 
-— *Movimento detectado* — anunciou Aria, a voz cortando e retornando. — *Setor norte. Sons de passos adiante. Aproximação rápida; não consigo medir a distância pelo eco.*
+— Sirenes — Gabo murmurou.
 
-Gabo se levantou com apoio na coluna, a dor atravessando a perna direita. Ele ergueu a *Caronte*, apontando para a escuridão além do círculo de luz vermelha.
+Lá fora, na escuridão da cidade sem luz, holofotes começaram a varrer o céu. Feixes de luz branca, dura, cortando a chuva.
 
-— O quê? — ele sussurrou. — Drones?
+Valéria surgiu atrás dele, segurando um tablet com estática.
 
-— *Ouço respiração e passos. Parecem quadrúpedes, mais de um* — Aria respondeu pelo fone. — *Não consigo excluir outra coisa atrás deles.*
+— O que está acontecendo? A energia voltou?
 
-Um som ecoou na caverna. Não era o zumbido de um motor. Era o som de garras arranhando pedra. E um rosnado baixo, úmido, que reverberou nas paredes da catedral como o riso de um demônio.
-
-— Cães — Gabo engatilhou a arma. — Cães de caça.
-
-Valéria puxou sua pistola compacta, movendo-se para proteger Rangel.
-
-— Apague o sinalizador — Gabo ordenou.
-
-Valéria chutou o bastão químico para a água, e a luz ficou encoberta pelo lodo. O bastão continuou aceso no fundo. A escuridão caiu sobre eles novamente, total e absoluta.
-
-Mas na escuridão, Gabo viu. Dois, quatro, seis pares de olhos refletindo a luz residual, brilhando com um verde pálido e faminto. Eles não precisavam de luz. Eles seguiam o cheiro de sangue. O cheiro de Rangel.
-
-Gabo apertou o *Colar de Sol* uma última vez, transformando a dor em foco.
-
-— Bem-vindos à idade da pedra — ele sussurrou para a escuridão.
+- A energia não voltou. A *Ordem* voltou.

@@ -12,7 +12,7 @@ from typing import Dict, List, Tuple
 REPO_ROOT = Path(__file__).resolve().parents[2]
 DOCS_DIR = REPO_ROOT / "docs"
 CENAS_DIR = DOCS_DIR / "public" / "cenas"
-# Capítulos intercalados existem ("30.5"): o nome da pasta troca o ponto por sublinhado.
+# Sem capítulos intercalados desde a renumeração; o ponto no número segue suportado (vira sublinhado).
 NOME_CAPITULO = re.compile(r"capitulo-(\d+(?:\.\d+)?)\.md$")
 
 

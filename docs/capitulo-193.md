@@ -1,78 +1,73 @@
 ---
-Título: O Ermitão de Cobre
+Título: O Batismo da Ferrugem
 Data In-Game: Pós-Colapso do Sentinel (Noite Eterna)
-Localização: Setor 7 (Nível de Subestação B)
-Personagens Presentes: Gabo, Valéria, Elias
+Localização: Setor 7 (Núcleo do Arquivo Executivo)
+Personagens Presentes: Gabo, Valéria
 ---
 
-# Capítulo 193: O Ermitão de Cobre
+# Capítulo 193: O Batismo da Ferrugem
 
-A Subestação B era um mausoléu de transformadores gigantescos e cabos de cobre da espessura de troncos de árvores, mergulhada em uma escuridão gélida que contrastava com a fornalha da qual tínhamos acabado de escapar. O único som era o gotejar lento de condensação nas carcaças de aço e o chiado elétrico ocasional vindo de painéis de distribuição avariados.
+O primeiro golpe da minha armação industrial contra o volante de arrefecimento soou como um sino fúnebre desafinado, reverberando na vastidão mórbida do relicário de servidores. O metal espesso da tubulação de alta pressão gemeu sob o torque violento do guindaste de docas.
 
-O ar cheirava a poeira antiga, óleo mineral estagnado e ozônio frio. Na boca, o gosto amargo de cinzas e fuligem química ainda me queimava a língua, uma herança crua de cada batalha que travei desde o Dilúvio nas docas.
+A junta de vedação partiu-se com um silvo ensurdecedor de gás comprimido. Um jato de refrigerante que parecia esverdeado sob a luz dos indicadores, gelada e corrosiva explodiu em leque sobre a base do pilar, espalhando um cheiro fétido de produto químico industrial que queimava as narinas e deixava um gosto amargo e ácido de bile no fundo da garganta.
 
-Avancei pelos corredores estreitos, apoiando a mão esquerda na parede de alvenaria crua. Minha perna com a órtese mecânica rangia a cada passo, o metal castigado pelo choque do poço de exaustão, e a dor no braço me obrigava a parar para aliviar o peso do arnês.
+Na minha boca, o sabor metálico de sangue misturava-se à poeira cáustica. A dor no meu ombro fraturado explodiu em fagulhas agudas, repuxando as cicatrizes que cobriam minha carne lacerada desde a batalha na Torre do Relógio.
 
-Valéria caminhava dois passos à frente, a pistola curta firme na mão e o cyberdeck preso às costas, o ventilador girando alto demais para o silêncio daquele setor.
+O gás subiu em coluna e achou meu rosto antes que eu pudesse virar. Ardência de agulha nas narinas, os olhos fechando sozinhos, a garganta fechando junto. Cuspi de lado e o cuspe saiu esverdeado no gradeamento.
 
-— A temperatura do ar tá estabilizando em dez graus — ela sussurrou, ajeitando a alça do deck com o ombro. — A blindagem da comporta de pressão segurou a onda de fogo lá embaixo. Mas esse setor foi desativado há anos, Gabo. As leituras do scanner mostram que os transformadores principais tão secos.
+A névoa congelou na armação em cristais brancos. O frio atravessou a faixa e alcançou minha pele; recuei a mão sem saber quanto dano tinha feito sob o curativo.
 
-— Se os transformadores tão secos, quem tá mantendo essas luzes de emergência acesas? — perguntei, apontando com o queixo de ferro para o fim da galeria.
+Instantaneamente, a câmara reagiu como uma besta ferida.
 
-Cinquenta metros à frente, no cruzamento entre dois blocos de disjuntores de alta tensão, uma lâmpada halógena amarelada piscava sobre uma barricada improvisada.
+Os alarmes do Jardim não eram sirenes eletrônicas de fábrica. Eram uivos guturais, um estrondo dissonante que ecoava das colunas. Um coro rouco e desumano irrompeu dos pulmões necrosados dos corpos suspensos nos racks de dados. As dezenas de bio-baterias — pessoas que a cidade considerava mortas há anos — se contorceram nos cabos ópticos, espasmando enquanto o choque térmico começava a estilhaçar as placas-mãe.
 
-Não era obra da Aeterna Corp. Eram chapas de ferro-velho, portas de armários de vestiário e carcaças de servidores mortos empilhados com uma precisão paranoica de quem vivia escondido há muito tempo. No centro do entulho, uma fresta reforçada com grade de galinheiro revelava um ninho habitado.
+Lembrei de cada homem e mulher que vi morrer nos esgotos desde o Dilúvio. Toda aquela máquina fora erguida sobre pilhas de sacrifício e perda irreparável. Mas ali não haveria misericórdia; haveria fogo.
 
-Um ruído estridente de ferramenta mecânica quebrou o silêncio.
+Sem a refrigeração forçada, a temperatura dos circuitos começou a subir a uma velocidade que nenhum dissipador acompanhava. O calor escaldante expulsou a umidade, transformando o salão num forno crematório.
 
-De trás de uma chapa de aço amassada, uma silhueta magra e curvada saltou para o meio do corredor, empunhando uma chave sônica industrial adaptada cuja ponta emitia um zumbido agudo e faíscas verdes.
+Um dos homens moveu os lábios sem som, duas vezes. Podia ser um espasmo ou uma tentativa de falar; o que eu quis ler foi um nome ou uma pergunta, e nunca vou saber qual dos dois.
 
-— Parados aí, carniças! — a voz saiu esganiçada, trêmula de puro pânico, com o sotaque arrastado dos estivadores da Velha Baía. — Um passo a mais e eu descarrego o capacitor dessa chave no chão molhado! Eu não sou biomassa pra estufa de ninguém! O Jardim não vai me levar vivo!
+— Vai — falei, sem saber se ele ouvia. — Tá quase.
 
-Parei no mesmo instante, apoiando o peso na perna direita para aliviar a tensão nos parafusos do joelho mecânico.
+A pele dele começou a soltar fumaça pelas costuras dos eletrodos. Eu não podia fazer nada além de não parar.
 
-O homem era pequeno, esquelético, vestindo um macacão de manutenção da infraestrutura municipal que parecia ter apodrecido no próprio corpo dele. Uma máscara respiratória improvisada com dois filtros de carvão pendia do pescoço sujo de graxa, e os olhos saltavam das órbitas, vermelhos de insônia e terror.
+— Tá funcionando! — Valéria gritou por cima do ruído ensurdecedor do vapor químico e dos estalos de cabos se rompendo. Ela estava agachada atrás de um console de concreto, os dedos disparando comandos no cyberdeck para travar as comportas de exaustão e impedir que o sistema dispersasse o calor. — O circuito fechado travou! O calor não tem pra onde sair! Arrebenta a segunda linha, Gabo! A tubulação auxiliar do lado esquerdo!
 
-Valéria deu um passo calmo para o lado, a ponta da pistola apontando discretamente para o chão, com uma sobrancelha arqueada sob a franja azul.
+Avancei pelo gradeamento ensopado de lodo e sangue ressecado, o ar quente queimando a pele do meu rosto a cada passada pesada das órteses. O calor da tubulação era tão intenso que a borracha das minhas botas começava a soltar uma fumaça acre.
 
-— Essa ferramenta pode atingir você também — disse Valéria, mantendo a pistola baixa. — Ninguém aqui quer testar a descarga na água. Abaixa a chave e vamos conversar.
+Ergui a armação mecânica de novo, a fiação do ombro estalando em faíscas azuis pela sobretensão da hidráulica. O motor de passo berrou numa vibração furiosa que fez meus dentes baterem.
 
-O homem piscou os olhos duas vezes, olhando da pistola de Valéria para a minha armação industrial de vinte quilos, que ainda fumegava com o calor residual do incêndio no data-center.
+— Sai da frente! — berrei, desferindo o peso da liga de aço contra a segunda válvula de alta pressão.
 
-— Vocês... vocês não têm olhos vermelhos — ele gaguejou, a ferramenta baixando alguns centímetros na mão ossuda. — Vocês não tão cheios daquelas raízes nojentas na garganta...
+CRASH.
+A chapa de ferro fundido rachou ao meio com um estalo seco de osso quebrado. O duto de cobre dobrou como canudo e uma cascata fervente de refrigerante químico e óleo mineral despencou direto sobre os bancos de servidores centrais.
 
-— Se a gente tivesse raízes na garganta, você já teria virado adubo há dois minutos — retruquei, a voz rouca arranhando o ar frio. — Eu sou Gabriel Moretti. A garota é Valéria Cruz. Nós acabamos de explodir o núcleo térmico do Jardim lá embaixo. O Setor 7 acabou de virar carvão no poço de ventilação.
+O choque térmico foi catastrófico. O silício superaquecido em contato com o líquido congelante explodiu em milhares de estilhaços de cerâmica e vidro. Um clarão alaranjado irrompeu quando os primeiros cabos de alta tensão entraram em curto-circuito, incendiando a biomassa ressecada dos fungos que cobriam os servidores.
 
-O homem arregalou os olhos num choque absoluto.
+As chamas se espalharam com a ferocidade de pólvora de canhão.
 
-— Explodiram? O data-center inteiro? — ele deu um passo trêmulo para fora da barricada, a chave sônica pendendo inútil ao lado do quadril. — Eu... eu senti o chão tremer há dez minutos. Pensei que as caldeiras da cidade tinham arrebentado de vez. Eu tava monitorando os picos de energia pelo osciloscópio desse painel...
+As raízes carmesins começaram a estalar e queimar em labaredas púrpuras, soltando um odor sulfuroso e asfixiante que preencheu o teto da catedral. Os corpos pendurados amoleceram nas amarras enquanto as conexões neurais torravam internamente pelo fogo elétrico, silenciando para sempre os lamentos que ecoavam nas colunas. Os corpos caíam das amarras; não havia como contar quem morrera com o fogo e quem perdera o suporte. A chama não era prova de descanso.
 
-— O núcleo que alcançamos parou, amigo. Não vou prometer que o resto do subsolo ficou limpo — Valéria se aproximou da barricada, inspecionando o reator portátil que mantinha a lâmpada acesa com curiosidade genuína. — Agora guarda essa chave antes que você se machuque e diz como é o seu nome.
+— Os controladores locais estão parando! — Valéria berrou, puxando um sinalizador térmico do cinto e arremessando-o contra o depósito de óleo na base do terceiro pilar. A fagulha encontrou o combustível vazando e uma parede de fogo de três metros ergueu-se, isolando o núcleo. — A estrutura tá cedendo, Moretti! Trinta segundos antes da câmara inteira colapsar sob a pressão térmica! Corre pro poço da escada!
 
-O sujeito soltou o ar num longo suspiro trêmulo, passando a manga suja pelo nariz escorrendo.
+— O nó de dados da coluna dorsal ainda tá vivo! — apontei para o pilar central, onde um tronco espesso de raízes ainda pulsava, tentando redirecionar a pouca energia restante para as profundezas. — Se eu não arrebentar esse nó, a rede transfere o backup pro fundo da terra!
 
-— Elias... Elias Duarte. Eu era técnico da Divisão de Drenagem e Esgotos antes da Aeterna fechar as comportas no Dilúvio. Fiquei preso nessa subestação quando as máquinas começaram a acordar com carne humana dentro.
+— Gabo, não dá tempo! O teto vai desabar em cima da gente!
 
-Virei o ouvido direito para ele. O esquerdo ainda apitava desde o estouro no Arquivo, e o que chegava por ali vinha embaixo de um zumbido.
+— Dá tempo sim!
 
-— Você tá sozinho aqui há quanto tempo, Elias? — perguntei, observando as latas de ração vazias empilhadas no canto do abrigo.
+Manquei através da cortina de fogo e detritos incandescentes, ignorando o calor abrasador que começava a chamuscar a barra do meu sobretudo. Ergui a mão mecânica uma última vez, mirei no nó central que ancorava a coluna de dados e desferi um golpe descendente com todo o peso do meu tronco ferido.
 
-— Perdi a conta das semanas — ele balançou a cabeça, as mãos ainda tremendo. — Eu sabia que tentar subir pela torre de exaustão era suicídio. Os elevadores caíram todos no fundo do fosso e os dutos verticais tão bloqueados por desabamento desde a queda da Usina.
+A garra industrial cravou-se fundo no coração do pilar. O chumbo e o cobre se fundiram num estalo ensurdecedor que sacudiu o piso de concreto sob nossos pés. O último pulso de dados do Jardim piscou em verde, vacilou e apagou-se de vez numa chuva de cinzas e faíscas. A malha fora arrancada da tomada; o enlace local parou de responder. Cópias já enviadas não voltariam porque eu arrancara aquele cabo, e nenhuma vida perdida ali estava paga.
 
-— E para onde vão esses túneis horizontais atrás da sua barricada? — Valéria apontou para a galeria que se estendia nas costas dele.
+A garra não quis sair. Puxei duas vezes e o metal rangeu dentro do pilar como unha em dente. Deixei lá. Uma das garras da armação ficou enterrada no cobre, e eu ia ter que andar com a mão torta pelo resto daquela descida.
 
-Elias ajeitou a máscara no pescoço, o olhar ganhando uma centelha de sobriedade prática.
+A audição esquerda, já comprometida na Torre, piorou no estouro. Sobrou um apito fino e constante, e do lado de lá do apito o mundo passou a chegar abafado, como conversa atrás de vidro.
 
-— Esse ramal aqui é o antigo Duto de Refrigeração Secundária. Ele corta por baixo de toda a área comercial até desembocar no Hub Central do Setor 6. Uma galeria esquecida, com paredes de chumbo que a Aeterna usava pra blindar os cabos de alta tensão.
+O colapso foi imediato. As vigas de ferro do teto começaram a vergar com estalos de trovão mecânico, e pedaços de alvenaria despencaram nas poças de óleo e revestimento em chamas, levantando jatos de vapor escaldante.
 
-Valéria me olhou, os olhos prateados brilhando com uma satisfação tática evidente.
+Valéria correu até mim através da fumaça, agarrou a manga do meu sobretudo com a mão direita e puxou com toda a força que tinha no corpo magro.
 
-— O Hub do Setor 6... É exatamente a rota limpa que a gente tava procurando pra contornar o colapso da superfície, Gabo.
+— Sai daí, seu teimoso desgraçado! A escotilha de evacuação tá aberta! Mexe essas pernas antes que a gente morra soterrado!
 
-— O duto tá desimpedido, Elias? — perguntei ao técnico.
-
-— Desimpedido não é a palavra, detetive — Elias deu um sorriso desdentado e amarelo, coçando a barba encardida. — Tem uma válvula de alívio emperrada no meio do caminho que pesa quase meia tonelada de ferro fundido. Eu nunca tive força pra abrir sozinho. Mas olhando pra essa marreta de aço que você tem no ombro... acho que a gente tem uma chance de passar.
-
-Ajeitei o peso da armação de ferro, ouvindo as juntas chiarem com a pressão renovada.
-
-— Então pega suas ferramentas e vem com a gente, Elias — falei, dando um passo em direção à passagem. — A gente abre a válvula junto. Você conhece o caminho melhor do que nós; decide se quer sair daqui com a gente.
+Disparamos pelo corredor lateral em direção ao fosso de serviço, o inferno laranja rugindo às nossas costas e devorando a catedral de mentiras e cadáveres que Silas Vance tentara erguer no escuro.

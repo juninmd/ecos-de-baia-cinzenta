@@ -1,67 +1,84 @@
 ---
-image: /cenas/capitulo_185/cena_4.jpg
-Título: O Verdor Metálico
-Data In-Game: Pós-Colapso do Sentinel (Noite Eterna)
-Localização: Setor 7 (Complexo Hidropônico Subterrâneo)
+Título: Carniça de Metal
+Data In-Game: Indeterminada (Pós-Colapso da Aeterna)
+Localização: Distrito 4 (Ruínas da Superfície)
 Personagens Presentes: Gabo, Valéria
 ---
 
-# Capítulo 185: O Verdor Metálico
+# Capítulo 185: Carniça de Metal
 
-Atrás dos silos, encontramos o portão arrombado da têxtil que o piloto indicara. O mapa no núcleo apontava para a estufa; Val conferiu a placa do poço, testou a alimentação de reserva e acionou o elevador de carga.
+O cemitério de carcaças industriais se estendia como um mar de esqueletos de aço sob a chuva fina e venenosa do Distrito 4. Cada passo que dávamos na lama oleosa soava como uma confissão clandestina. Eu estava no limite físico; o peso da nova armação arrastava meu ombro direito para baixo, um pêndulo de liga metálica bruta que repuxava minhas costelas a cada passada claudicante.
 
-O elevador parou com um solavanco brutal, acompanhado por um rangido que soou como a espinha dorsal de um guindaste enferrujado se partindo sob peso excessivo. As portas corrediças de aço reforçado se abriram com lentidão relutante, vomitando uma lufada de ar viciado que nos atingiu como um soco térmico.
+Valéria caminhava dois metros à minha esquerda, os olhos prateados perscrutando as ruínas de uma oficina mecânica abandonada.
 
-Não era o ar seco e gelado da superfície do Distrito 4, nem o odor pungente de asfalto podre que deixáramos para trás. Era terra fértil empapada em adubo químico, decomposição vegetal acelerada e ozônio elétrico de alta voltagem. Um calor úmido, pegajoso, que grudou instantaneamente no couro do meu sobretudo e fez o suor frio escorrer pelas minhas têmporas.
+— Pára, Gabo — ela sussurrou de repente, a voz firme e cortante. — Desliga o sensor térmico do casaco. Agora.
 
-Valéria deu o primeiro passo para fora da cabine, os olhos ópticos prateados emitindo cliques rápidos de foco e abertura. Os filamentos de LED azul trançados em seu corte bob assimétrico refletiram-se nas poças de condensação do piso de gradeamento metálico.
+Joguei meu corpo contra o casco tombado de um antigo ônibus de transporte corporativo. A lataria fria e enferrujada manchou a manga do meu sobretudo, mas o abrigo era sólido.
 
-— Santo Deus da tecnologia suja... — o sussurro dela escapou com uma mistura genuína de reverência estética e pavor absoluto. — Olha a escala disso aqui, Moretti.
+— O que você pegou no scanner? — perguntei, sentindo o ar frio queimar meus brônquios cansados.
 
-O Complexo Hidropônico do Setor 7 abria-se diante de nós como uma catedral profana escavada sob a rocha da arcologia.
+— Um motor a combustão pesado, falhando na retomada. Não sei o combustível só pelo ruído — Valéria se agachou ao meu lado, os LEDs azuis da franja piscando numa cadência rápida. Ela abriu a tampa do cyberdeck e conectou a antena direcional. — O ruído do pistão tá vindo pela transversal da fábrica de baterias. Três assinaturas biométricas em cima de um chassi tubular. Saqueadores motorizados da Zona Sul.
 
-Três níveis monumentais de calhas de cultivo suspensas estendiam-se por mais de duzentos metros sob abóbadas de concreto reforçado. Outrora, aquelas galerias foram o orgulho agronômico da Aeterna Corp, o santuário estéril onde hortaliças e frutas geneticamente desenhadas eram cultivadas com ar filtrado para abastecer exclusivamente as mesas dos executivos do Distrito de Prata.
+O som áspero e ruidoso de um motor desregulado começou a ecoar pelos galpões em ruínas.
 
-Agora, o império dos vegetais puros havia sido violentado pela mutação do Jardim de Silas Vance.
+Entre os esqueletos de vigas de ferro, o veículo despontou. Era um buggy de guerra artesanal, montado com tubos de aço soldados, pneus largos de trator roubados das docas e chapas de blindagem arrebitadas na lateral. No banco dianteiro, um homem com máscara de filtro duplo pilotava com uma mão no volante e outra na alavanca de marchas; atrás, dois atiradores empunhavam carabinas de caça com canos oxidados, farejando as ruínas com a avidez de hienas mecânicas.
 
-Uma floresta de biomassa bioluminescente tomara conta de cada viga, calha e passarela. Raízes grossas como tubulações de esgoto serpenteavam sobre as bandejas hidropônicas, emitindo uma pulsação azul-esmeralda contínua que iluminava o ambiente com uma penumbra febril. Folhagens deformadas, com nervuras translúcidas que conduziam fluidos químicos fluorescentes, desciam do teto em cortinas espessas que gotejavam sobre o lodo do chão.
+— Eles tão seguindo o rastro das nossas botas na lama — Valéria apontou para o chão, onde a pegada pesada do meu pé metálico havia aberto uma vala funda no barro. — Não dá pra despistar na corrida. Aquele motor pega sessenta por hora mesmo no cascalho.
 
-— A colônia não tá apenas crescendo aqui embaixo — falei, sentindo o peso assimétrico da armação repuxar minha escápula. A tração do arnês no ombro e a dor no fixador eram vivas e reais, mantendo meus reflexos tensos na penumbra. — Ela tomou a infraestrutura inteira da estufa.
+— Então a gente para o motor — falei, apoiando a mão esquerda na coronha de *Caronte*.
 
-— Tomou e melhorou — Valéria avançou dois passos, o cyberdeck seguro sob o braço esquerdo enquanto a mão direita empunhava a lanterna tática. O facho cortou a névoa esverdeada, revelando um detalhe perturbador nos troncos das raízes. — Gabo... aproxima o olho. Olha onde as gavinhas tão se enroscando.
+— Parar o motor como, gênio? — ela me encarou, uma sobrancelha erguida, com aquele deboche afiado que a mantinha sã. — Você quer que eu jogue meu deck embaixo da roda deles? Se você der um tiro de doze no bloco do motor a essa distância, os estilhaços de blindagem voltam na nossa cara.
 
-Aproximei-me da mureta da passarela superior. Sob a casca vegetal translúcida, vi feixes de cabos coaxiais e fitas de fibra óptica arrancados das canaletas elétricas das paredes. O fungo havia envolvido os barramentos de dados, usando a malha de cobre como guia para espalhar suas hifas pelos três andares do complexo.
+— O ônibus está preso num cavalete de manutenção com o calço rachado junto à roda — apontei com o queixo de ferro para a frente do buggy. — Se eu soltar o calço, a carcaça desce pela inclinação entre nós e eles. Não vou tentar parar um carro com o osso do meu braço.
 
-— O Jardim tá usando a rede física da Aeterna como sistema nervoso central — Valéria explicou, os dedos correndo rápidos pelo teclado do deck. Os bipes do aparelho soavam abafados pelo ar espesso. — As bombas de circulação química ainda tão operando com energia residual do reator geotérmico. A praga tá bombeando nutrientes sintéticos e eletricidade para os controladores misturados ao tecido vegetal. O modelo de fazenda de processamento combina com o que vimos, mas precisamos separar alimentação, dados e suporte das pessoas antes de cortar qualquer um deles.
+Valéria olhou pela fresta da lataria do ônibus, os olhos ópticos dando um clique audível de zoom.
 
-— E cadê o poder de cálculo? — apontei com a mão de aço para o fundo da estufa principal, onde a escuridão se adensava. — Planta não calcula rota de transmissão sozinha.
+— Se o calço travar, você larga a ferramenta e recua — disse Val. — Eu não vou conseguir tirar você debaixo desse ônibus.
 
-Valéria ergueu o facho da lanterna na direção que apontei. O círculo de luz branca atravessou uma cortina de folhas venenosas e congelou.
+— Então cobre a lateral enquanto eu solto o calço. Não vou alcançar a sarjeta se tiver de desviar de tiro também.
 
-A respiração dela travou na garganta.
+Ela soltou um suspiro irritado, puxando o ferrolho da sua pistola com um estalo limpo e metálico que ecoou na escuridão sob o ônibus.
 
-Suspensos pelas calhas superiores de irrigação, a quatro metros do piso, havia dezenas de corpos humanos. Não eram catadores mortos jogados no lixo; estavam dispostos em fileiras geométricas perfeitas, como frutos em um pomar macabro. Cada um deles tinha a coluna cervical perfurada por raízes espessas que desciam do teto, as cabeças caídas para a frente, as órbitas brilhando com minúsculos filamentos ópticos que piscavam num ritmo sincopado.
+— Assim que o ônibus se mover, eu cubro a saída. Não antes. — Ela encostou a arma na lataria. — E você larga a ferramenta, Moretti. O suporte não segura um ônibus e você sabe disso.
 
-— Alguns usam uniformes de manutenção da Aeterna — Valéria sussurrou. — As raízes chegam aos controladores, mas não sei o que estão fazendo com essas pessoas, nem quando foram presas aqui.
+— Justo.
 
-— O mesmo horror que vimos na usina com os Drenados — cerrei o punho mecânico pesado, sentindo as engrenagens gemerem sob a pressão da hidráulica. O estalo seco do ferro ecoou nas vigas altas, reverberando na vastidão da estufa. — O Silas pode ter virado cinzas, mas o código que ele plantou continua colhendo gente.
+O buggy acelerou, os pneus jogando jatos de lama negra contra as paredes destruídas. O piloto avistou a ponta do meu sobretudo saindo de trás do ônibus e deu uma guinada selvagem, acelerando a fundo para nos esmagar contra a carcaça de ferro.
 
-Valéria desligou a lanterna para não atrair a atenção dos nós bioelétricos. A luz ambiente das raízes desenhava o perfil anguloso do rosto dela, tenso, os dentes cravados no lábio inferior.
+Esperei até sentir a vibração do motor tremer no meu osso da mandíbula. Cinquenta metros. Trinta metros. Dez metros.
 
-— O pacote de dados daquela mulher morta no beco apontava direto pro núcleo de controle térmico — ela disse, apontando para uma estrutura cúbica de concreto blindado que se erguia no centro do segundo pavimento, quase completamente engolida por trepadeiras fosforescentes. — O esquema mostra válvulas de refluxo na sala das caldeiras. Elas podem interromper parte da irrigação, mas não sabemos quanto da colônia depende desse circuito.
+Fiquei atrás da carcaça e encaixei a ferramenta no calço quebrado. O atuador externo empurrou a alavanca, com a carga recebida pelo arnês, e mesmo assim senti o fixador puxar a pele. Val chamou que o buggy estava perto demais.
 
-— E as pessoas penduradas nas calhas?
+O calço saiu. O ônibus escorregou pela inclinação curta, raspando a lateral no concreto. Eu me deixei cair para fora do caminho.
 
-Valéria olhou para a fileira de corpos estáticos na penumbra, os olhos prateados pesados com a amargura de quem já viu mortes demais para a sua idade.
+O piloto freou e virou. A roda direita pegou um vergalhão exposto na borda do asfalto; o buggy bateu na carcaça e tombou. Não foi meu braço que recebeu o impacto. O ruído do choque me deixou sem ouvir a primeira ordem de Val.
 
-— Eu não consigo avaliar o córtex pela câmera, Gabo. Eles podem estar vivos e dependentes do circuito. O que encontramos na usina não nos dá licença para chamar estes de casca. Vou procurar como separar o suporte do comando antes de tocar nas válvulas.
+Os dois atiradores tentaram sair pela lateral que ficara para cima, ainda com as carabinas. Val atirou antes que terminassem de erguê-las.
 
-Encarei o labirinto de passarelas enferrujadas que descia até o núcleo de concreto. O ar estava ficando cada vez mais pesado, carregado com esporos microscópicos que faziam a garganta pinicar com um gosto metálico.
+Dois disparos secos cortaram o vapor sibilante durante a tentativa de sair do veículo.
 
-— Então vamos descer, Val. Mantém o deck pronto pra abrir as travas das portas e fica atrás de mim.
+Valéria emergiu da fumaça como um espectro de couro e neons azuis. Ela disparou apoiada na carcaça do ônibus, usando a mão direita. A esquerda rígida só firmava o deck contra o corpo. Os dois atiradores tombaram inertes na lama antes de conseguirem erguer os rifles.
 
-Ela puxou o ferrolho da pistola, conferindo a câmara com aquele estalo firme e profissional que sempre me devolvia o foco.
+O piloto do veículo, atordoado pelo capotamento e queimado pelo vapor da água fervente, rastejava para fora dos destroços, tentando puxar uma chave de boca pesada da cintura.
 
-— Atrás da mureta, com você parado e o suporte travado, talvez a gente consiga pensar, detetive — ela deu um sorriso curto, afiado como navalha, ajustando a alça do cyberdeck nas costas. — Só tenta não escorregar no lodo com esse pé de chumbo. Se essa floresta de pesadelo acordar, a gente vai precisar correr mais do que o seu joelho aguenta.
+Valéria caminhou até ele com passos calmos, pisou com a bota de ferro direto no pulso do homem — arrancando um uivo de dor — e encostou o cano ainda fumegante da pistola no centro da máscara de gás dele.
 
-Deixamos o patamar do elevador e começamos a descer a escadaria de serviço, mergulhando na névoa fosforescente daquele pomar profano, onde a linha entre carne humana e máquina corporativa havia sido apagada para sempre.
+— Solta a ferramenta, carniceiro — a voz dela soou gelada, mas com aquele veneno cortante de quem dominava a situação. — Um espasmo e eu abro um buraco de ventilação novo no meio da sua testa.
+
+O homem soltou o ferro no cascalho ensopado, os olhos arregalados de terror por trás das lentes plásticas riscadas.
+
+— P-piedade... a gente só tava patrulhando o setor...
+
+— Patrulhando o setor caçando carcaça viva, né seu verme? — Valéria se abaixou, arrancando o rádio transmissor analógico preso na gola dele com um puxão seco. — Qual é o caminho limpo pros trilhos subterrâneos do Setor 7? Responde rápido antes que meu dedo canse de segurar o gatilho.
+
+— O... o túnel de carga da têxtil! — o homem gaguejou, o ar saindo em silvos pela válvula da máscara. — A duzentos metros à esquerda, atrás dos silos de armazenamento de grãos. O portão tá arrombado, mas... tem coisa viva lá embaixo! Raízes azuis! Elas pegaram o nosso grupo de reconhecimento ontem!
+
+Valéria me olhou por cima do ombro. Eu estava apoiado no casco do ônibus, fora da fumaça, conferindo a faixa da mão imobilizada. Havia sangue novo na borda do fixador. Ela me fez sentar e trocou a cobertura externa com a última gaze seca do bolso; as outras continuavam seladas no estojo. Eu não tinha como saber se a tração deslocara o osso. Meu corpo estava gastando mais material que a arma.
+
+— Raízes azuis — ela disse, desativando o rádio do homem com um golpe no concreto. — Exatamente onde a gente precisa ir. O complexo hidropônico.
+
+Ela afastou a ferramenta com a bota, amarrou as mãos do piloto com a cinta solta do buggy e o puxou para fora da poça. O homem ficou consciente, gritando por socorro. Val guardou a posição no mapa antes de se afastar; não podia prometer que alguém o encontraria.
+
+— Deixou o sujeito vivo? — perguntei, ajeitando o sobretudo.
+
+— Matar gasta bala que a gente não tem — ela guardou a arma no coldre e veio até mim, segurando meu antebraço de ferro para checar a folga da bucha. — Ele está rendido e a arma está longe. Não preciso inventar outra razão para não atirar. Agora anda, Moretti. A água desse radiador vai atrair outros bichos em menos de dez minutos.

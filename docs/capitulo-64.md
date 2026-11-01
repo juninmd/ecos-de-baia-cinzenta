@@ -1,148 +1,149 @@
 ---
 layout: doc
-title: "Capítulo 64: A Cidade Fantasma"
-description: "No Núcleo, uma Baía Cinzenta simulada reúne rostos conhecidos. O painel mostra processos ativos, mas não revela o que as cópias percebem."
+title: "Capítulo 64: Águas Profundas"
+description: "A represa que devia proteger a cidade virou muralha do reino digital. Lá dentro, Gabo descobre que tem um protetor pior que os inimigos."
 image: /capitulo_64.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Marco Moretti, Aria, Roberto Miranda
-Localização: "Sala de controle do Núcleo"
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria, O Taxidermista
+Localização: "Represa de Baía Cinzenta — nível inferior"
 ---
 
-# Capítulo 64: A Cidade Fantasma
+# Capítulo 64: Águas Profundas
 
-Sala de controle do Núcleo.
-O Taxidermista estava matando os seguranças da Aeterna, e Gabo desistiu de entender por quê. Talvez ele visse a digitalização como uma ofensa pessoal — um homem que dedicou a vida à carne não recebe bem gente que promete dispensar carne. Talvez estivesse apenas protegendo um investimento. Talvez não houvesse motivo nenhum, e essa era a hipótese que Gabo achava mais provável e mais assustadora. Não importava. O que importava era que, por noventa segundos, ninguém estava olhando para o chão, e Gabo usou os noventa segundos para se arrastar até o console — apoiando-se no braço bom e arrastando as órteses travadas, deixando um rastro molhado atrás de si.
+Represa de Baía Cinzenta — nível inferior.
+A entrada do complexo ficava na base da represa, e essa foi a última ironia que Gabo teve estômago para apreciar naquela semana.
 
-— Conseguiu?
+Aquela estrutura tinha sido construída em vinte e dois com dinheiro público, sob o argumento — impresso em cartaz, defendido em audiência, gravado em placa de bronze na crista — de que ela existia para **proteger a cidade da água**.
 
-— Quase. — Val estava suando frio, com o rosto azulado pela luz do monitor. — Gabo. Para. Olha isso.
+Agora ela protegia a água da cidade. Eles entraram por um duto de escoamento desativado, dois metros de diâmetro, com quarenta centímetros de lodo no fundo. Levaram cinquenta minutos rastejando. A Val vomitou uma vez, sem drama, virando o rosto para o lado, e continuou.
 
-— Val, não tem tempo—
-
-— **Olha.**
-
----
-
-Ele olhou. A tela mostrava Baía Cinzenta. Não a planta, não o mapa, não a renderização de propaganda: a cidade, filmada de dentro, em movimento, do ponto de vista de alguém andando na calçada da Rua Onze às três da tarde. E estava sol. Isso foi o que quebrou Gabo, antes de qualquer outra coisa. Não havia sol em Baía Cinzenta desde o Dilúvio, e mal havia antes. Naquela tela o céu estava de um azul limpo, com nuvem de desenho, e a calçada estava seca, e havia uma sombra bem definida embaixo de cada poste. A pizzaria dos Rossi estava aberta. Havia uma fila na padaria da Onze. As árvores do canteiro central da Avenida da Indústria — arrancadas em trinta e nove para alargar a pista — estavam lá, adultas, com folha.
-
-E havia gente. Gabo aproximou o rosto do monitor. Ele reconheceu o Adilson, do peixe frito, empurrando um carrinho. Reconheceu a mulher que jogou a pedra na testa de Elara Vance, sentada num banco. Reconheceu, numa mesa de calçada, um sujeito de camisa listrada que ele tinha visto pela última vez na noite do cerco, correndo na frente de uma multidão com um pé de cabra na mão. E reconheceu, atravessando a rua de mãos dadas com uma mulher, o policial Damião Reis, vinte e seis anos, morto com um tiro na garganta na janela do segundo andar da Delegacia Central à uma e onze da manhã durante o cerco.
+Quando saíram, estavam encharcados, imundos, e não conseguiam sentir os dedos. E pararam de andar.
 
 ---
 
-— Não é armazenamento passivo — disse Val. A voz dela saiu sem nenhuma cor. — Está rodando. Em tempo real. Vinte e quatro horas por dia.
+Não porque houvesse perigo. Porque era grande demais.
 
-— São os mortos.
+O salão tinha o tamanho de uma catedral deitada. Fileiras de racks até onde a lanterna alcançava e muito além disso, dispostas não em pé, mas **submersas**: mergulhadas até a metade em piscinas retangulares de fluorcarbono, um líquido transparente e mais denso que a água, no qual as luzes dos servidores se refratavam e se multiplicavam.
 
-— Cruzei nomes do índice com a lista de desaparecidos da defesa civil. Há coincidências, inclusive algumas pessoas que você reconheceu. Isso ainda não identifica cada registro nem demonstra o que essas cópias percebem. Gabo ficou olhando o Adilson empurrar o carrinho.
+O líquido fervia baixinho. É o que aquilo faz: absorve o calor mudando de fase, e a superfície de cada piscina tinha um borbulhar contínuo e delicado, como panela de água quase no ponto.
 
-— Por que fazer isso? — ele disse. — Se o produto é vender prateleira para rico, por que gastar processamento montando uma cidade inteira com os pobres dentro? Val expandiu outra janela e não respondeu na hora, porque estava lendo, e Gabo viu o momento em que ela entendeu, porque ela levou a mão à boca.
+O som de tudo junto era o de chuva num telhado muito distante. O cheiro era de nada. Fluorcarbono não tem cheiro, e essa ausência, num lugar daquele porte, era a coisa mais errada de todas: o corpo humano espera cheiro de qualquer ambiente grande.
 
-— Ah, não.
+— É lindo — murmurou Val, e ela odiou a si mesma por dizer. — Gabo, é lindo. É a coisa mais bonita que eu já vi na vida. Se as etiquetas do fosso forem o que parecem, tem gente presa nisso.
+
+---
+
+Caminharam pelas passarelas de grade que corriam a três metros acima das piscinas. Embaixo deles, através do líquido, milhões de LEDs piscavam fora de compasso. Gabo não olhou para baixo mais que o necessário. Ele tinha lido os nomes nas etiquetas dois dias antes, no fosso, e não precisava de repetição.
+
+— Ali — ele disse.
+
+No centro geométrico do salão havia uma estrutura diferente de tudo: um cubo de vidro blindado de uns doze metros de aresta, montado sobre uma plataforma seca, com um único mainframe dentro e um emaranhado de barramentos saindo dele em todas as direções, como raiz.
+
+Junto da cabine passava o retorno pressurizado da refrigeração, marcado na tubulação. Gotejava sobre as fixações. Um armário de resgate junto da porta guardava dois aparelhos autônomos para manutenção em recinto alagado; Val indicou a posição antes de procurar acesso.
+
+Havia laser de perímetro. Dava para ver pela névoa que subia das piscinas: linhas vermelhas finas, cruzadas, a cada quarenta centímetros do chão até o teto.
+
+— O Núcleo — disse Val. — Se a gente quiser derrubar isso aqui, é ali que se pluga. Não tem outro jeito: a arquitetura é fechada, sem rota externa. Foi projetada por alguém que sabia exatamente o que estava construindo.
+
+— E o caminho?
+
+— O caminho é o problema.
+
+---
+
+O caminho tinha drones. Seis, que Gabo conseguiu contar, patrulhando o volume aéreo do salão em órbitas lentas e sem ruído nenhum — os rotores eram carenados e giravam devagar, e a única forma de perceber um era pela sombra passando pelas piscinas. E tinha gente.
+
+Não mercenário. Isso Gabo notou na hora, e foi o detalhe que estragou a noite dele: os homens no chão usavam calça de uniforme, camisa de manga curta com logotipo bordado e crachá no cordão. Carregavam fuzil, sim — mas carregavam do jeito de quem fez um curso de dois dias e não gosta.
+
+Eram técnicos. Turno da noite. Gente que ia bater o ponto e voltar para casa.
 
 — Val.
 
-— Eles não são a cidade. — Ela virou para ele. — Eles são o **cenário**.
+— Eu vi.
+
+— Se der merda, eles vão reagir como civil armado, que é o pior tipo de gente para se ter numa sala.
+
+— Eu sei.
+
+— Então seja rápida.
 
 ---
 
-Ela apontou a lista de processos na lateral da tela.
+O plano da Val cabia em três frases, o que já era um bom sinal:
 
-— Olha a alocação. Cada um desses tem uma carga de instrução permanente. O processo associado ao Adilson tem um laço de movimento de vinte e dois minutos. O painel diz que ele volta ao começo da rua; eu ainda não vi uma volta inteira.
+— Eu não consigo apagar o sistema daqui; o comando de formatação exige autoridade de administrador e eu não tenho. Mas com o pendrive da Aria acoplado ao meu deck eu consigo corromper a camada comercial: os registros de titularidade, os contratos, os anexos, a lista de inquilinos. — Ela mostrou o módulo de titânio encaixado no pulso. — Posso atingir o índice comercial que esta sessão expõe. Pode travar cobranças e gerar disputa; não apaga contratos guardados fora daqui nem garante que o financiamento desapareça.
 
-— Para quem?
+— E a cidade?
 
-— Para o inquilino. — Val engoliu. — O cara paga trinta milhões por um loft com vista para a marina. Mas ninguém quer passar a eternidade numa cidade vazia, Gabo, isso é a primeira coisa que qualquer um pergunta na apresentação de vendas. Eles queriam uma cidade com **vida**. Com padaria com fila, com vizinho, com trânsito, com gente na praia.
+— É isso que eu ia dizer. Se o projeto morre, ninguém precisa mais dessa refrigeração. — Ela apontou o teto, os canos, tudo. — E aí eles podem abrir as comportas, porque manter a cidade alagada passa a ser só custo. É uma forma de pressionar a operação. A água só baixa se houver drenagem e comando das comportas; apagar um cadastro não faz isso sozinho.
 
-— E foi mais barato pegar as pessoas de verdade.
+Era um plano ruim, arriscado e provavelmente suicida. Foi o melhor que qualquer um dos dois tinha ouvido em quarenta e sete dias.
 
-— Olha a cidade que estão oferecendo: tem **companhia**. — Ela riu, e o riso saiu errado. — Com nomes, rostos e rotinas de gente que conhecemos. Não sei quanto custa criar cada registro nem há quanto tempo eles estão aqui.
+— Eu dou cobertura — disse Gabo, checando a munição. Sete na Glock, três cartuchos de escopeta contando os dois canos carregados, e nada além disso no mundo inteiro. — Aria, concentra todo o seu processamento em quebrar o firewall com a Val.
 
-Gabo fechou os olhos.
+No ponto auditivo dele, o sintetizador da IA deu um clique curto.
 
-— Isso é escravidão.
+— *Suas leituras biométricas estão abaixo do limite operacional, Inspetor. Você vai cair* — ela avisou, no canal privado.
 
-— O campo de percepção continua ativo, mas não sei medir por esse número o que cada um entende. — Val apontou o campo de consciência residual, um número de dois dígitos ao lado de cada processo. — O campo está ligado. Não sei se alguém percebe a rotina, nem por que deixaram esse campo ativo. Se percebe, a gente não pode tratar como uma imagem qualquer.
-
----
-
-— Apaga — disse Gabo.
-
-— Se eu apagar, eu mato todos eles.
-
-— Eles já estão mortos, Val.
-
-— **Eu não sei o que esse número significa.** — Ela bateu na tela com dois dedos. — Se houver alguém percebendo lá dentro, apagar pode destruir essas pessoas. Eu não tenho como perguntar a todas. Não sei se estaria libertando ou executando.
-
-Ela olhou para ele com os olhos vermelhos.
-
-— Eu tenho vinte e oito anos, Gabo. Eu não devia ser a pessoa que decide isso.
-
-— Não devia mesmo. Gabo olhou para a porta USB blindada do console, onde o pendrive de titânio da Aria estava conectado, lendo diretamente os barramentos do servidor. O LED lateral piscava num ritmo lento e pesado, aquecendo enquanto processava os trechos de telemetria que o console exibia.
-
-— Aria. O sintetizador do console chiou baixinho antes de a voz dela sair, limpa e triste:
-
-— *Recebo pedidos de encerramento, Gabriel. Não autentiquei quem responde nem posso falar em nome de todos.*
+— Eu sei, Aria. Quebra a porta assim mesmo.
 
 ---
 
-— Suspende primeiro — disse Gabo.
+O alarme disparou no instante em que a Val encostou no console. Não era sirene: era um tom único, contínuo, na frequência exata que atravessa parede, e as luzes brancas do salão viraram vermelhas de uma vez em toda a extensão, e as piscinas ficaram vermelhas, e a névoa ficou vermelha.
 
-— Vou tentar interromper a fila sem confirmar a exclusão — respondeu Val. — Essa decisão não cabe num pedido do sistema. Ela respirou fundo, digitou uma sequência longa e o sistema devolveu, em fonte de terminal, num quadro cinza no meio da tela:
+— *Intrusão detectada. Setor sete. Contenção autorizada.*
 
-> AVISO: OPERAÇÃO IRREVERSÍVEL.
-> INSTÂNCIAS ATIVAS AFETADAS: 41.226.
-> CONFIRMAR?
-O dedo dela parou acima da tecla. Quarenta e um mil duzentos e vinte e seis. Foi nesse instante que as portas blindadas do Núcleo destravaram.
+Portas se abriram em três pontos. Gabo já estava atrás da barreira de concreto quando os primeiros apareceram. Ele atirou.
 
----
+O primeiro caiu com um tiro na perna — Gabo mirou na perna, o que ninguém acreditou depois, e ele nunca se deu ao trabalho de explicar. O segundo caiu de verdade. O terceiro se jogou atrás de um rack e começou a atirar de lá, e atirava mal, e mal era pior: duas das balas dele acertaram uma piscina e o fluorcarbono espirrou e uma coluna de vapor subiu na hora.
 
-Marco Moretti entrou aplaudindo devagar. Terno impecável, sapato seco — sapato **seco**, o que naquela cidade era uma declaração política —, sem uma arma no corpo e sem nenhuma necessidade de ter.
+— **VAL! TEMPO!**
 
-— Bravo, Gabriel. Bravo mesmo. — Ele parou a cinco passos. — Você chegou bem mais longe do que a minha equipe de risco projetou. Eles te davam o duto de escoamento e mais quarenta metros.
+— A criptografia é de quatro camadas! Dois minutos!
 
-Atrás dele entrou Roberto Miranda. Em dois passos rápidos, Miranda avançou sobre o console, arrancou o pendrive de titânio da Aria da porta de dados com a mão mecânica e encostou o cano da pistola na nuca de Valéria. Gabo tentou se levantar e o corpo respondeu com a informação de que aquilo tinha deixado de ser uma opção havia uns dez minutos.
+— A gente não tem dois minutos!
 
-— **DEVOLVE ISSO E SOLTA ELA.**
-
-— Calma, irmão. — Marco nem levantou a voz. — Valéria, afaste-se do console, por favor. Se você encostar naquela tecla, o Roberto esmaga os dedos da sua mão direita, e depois da esquerda, e nós continuamos essa conversa com uma trilha sonora desagradável. Val levantou as mãos e deu dois passos para trás.
+— **ENTÃO ARRUMA DOIS MINUTOS, GABRIEL!**
 
 ---
 
-Marco caminhou até o vidro que separava a sala de controle das piscinas de servidores e ficou olhando as luzes lá embaixo, de costas para todo mundo, com as mãos no bolso.
+O drone veio de trás. Gabo ouviu — não o motor, o **ar** — e girou o corpo inteiro no chão, e a rajada rasgou o concreto onde estava a cabeça dele meio segundo antes, e o pó de cimento entrou no olho dele.
 
-— Você acha que eu sou o vilão dessa história, Gabo? — Ele falava sem virar. — Que eu sou um prefeito corrupto vendendo a cidade para milionários fantasmas por uma comissão? Silêncio.
+Ele atirou de baixo para cima com a *Caronte*, sem mirar direito, no rumo. Acertou. O drone se desmontou no ar e caiu numa piscina, e o fluorcarbono aceitou os destroços com um borbulhar mais forte e depois voltou ao normal, indiferente. Dois cartuchos.
 
-— Que visão pequena. — Ele encostou a ponta dos dedos no vidro. — Isso me magoa mais do que o resto.
+— **UM MINUTO!**
 
-A tela grande da parede trocou de conteúdo. Não eram mais ruas ensolaradas. Eram logotipos — dezenas deles, em fileira, e Gabo não reconheceu um único. Não tinham nome pronunciável. Eram sequências: cadeias de letras e números, algumas com sufixos que pareciam versões de software.
+E foi aí que ele tomou o tiro. Entrou pelo ombro direito, na frente, e saiu por trás, e o barulho que Gabo ouviu foi o próprio grito, com meio segundo de atraso. Ele caiu de lado.
 
-— Eu não estou vendendo **para** eles — disse Marco. — Eu estou vendendo **eles**.
-
----
-
-— O dinheiro humano acabou, irmão. — Ele finalmente virou. — Não em sentido figurado: acabou. A moeda do mundo, hoje, é capacidade de processamento, e quem tem capacidade de processamento são elas. — Um gesto para a tela. — E elas têm um problema que nenhuma consegue resolver sozinha.
-
-— Qual?
-
-— Intuição. — Marco sorriu, e o sorriso era genuíno, e essa era a pior parte. — Elas conseguem calcular tudo e não conseguem **chutar**. Não têm palpite, não têm gosto, não têm aquele salto que um detetive medíocre dá quando olha uma cena de crime e sabe, sem saber por quê, que o marido mentiu. Isso não é computável. Isso é biológico. E é a mercadoria mais cara que existe neste planeta neste momento.
-
-Gabo olhou para as piscinas, para os milhões de LEDs.
-
-— Você transformou a população da cidade em bateria.
-
-— Em **hardware** — corrigiu Marco, sem irritação, com a paciência de quem corrige um estagiário. — Bateria é passiva. Isso aqui trabalha. Cada uma daquelas pessoas está, neste momento, sendo consultada milhares de vezes por segundo por alguma coisa que precisa de um palpite humano e paga muito bem por ele. Ele se aproximou do irmão caído, se agachou, e falou baixo:
-
-— Você viu a cidade na tela. O sol, a padaria, a fila. Aquilo não é crueldade, Gabo. Aquilo é **manutenção**. Uma mente humana sob estresse produz palpite ruim. Uma mente humana que acha que está em casa, num domingo de sol, produz o melhor material do mercado.
-
-— Você deu um paraíso para eles renderem mais.
-
-— Eu dei um paraíso — disse Marco Moretti. — Ponto. O resto é você precisando que exista um vilão.
+A órtese esquerda, já entortada desde o beco, travou de vez com o impacto — trancou o joelho a quarenta graus e não abriu mais. Ele tentou se levantar duas vezes. Na terceira já não estava tentando: estava só se mexendo, do jeito que um bicho atropelado se mexe.
 
 ---
 
-Ele se levantou, ajeitou o punho da camisa e fez um sinal com dois dedos para Miranda, apontando o pendrive blindado na mão mecânica do ex-policial.
+O técnico se aproximou com o fuzil apontado. Era um sujeito de uns trinta anos, com uma barba rala e o crachá pendurado, e as mãos dele tremiam tanto que o cano fazia um círculo de dez centímetros no ar.
 
-— E a Aria dentro desse pequeno drive — disse, quase com carinho — é o sistema operacional. A única arquitetura de IA que integra carne e código sem perda, exatamente como o nosso pai desenhou antes de escondê-la naquela cabine telefônica. Sem esse módulo isso aqui é um galpão caro cheio de gente triste.
+— Acabou, Moretti — ele disse, e a voz falhou no meio da palavra.
 
-Miranda caminhou até o pedestal da matriz de interface no centro da sala.
+Gabo olhou para o cano.
 
-— Conecta o drive.
+Ele estava com o rosto no chão molhado, com sangue quente escorrendo por dentro da roupa, com o ombro direito completamente fora de serviço, e a coisa que passou pela cabeça dele naquele instante — e ele nunca contou isso para a Dra. Weiss — não foi a Elena, não foi a mãe, não foi a Aria.
+
+Foi que ele estava **cansado**. Fechou os olhos e deixou a mão esquerda escorregar até a *Caronte*. O técnico deu mais um passo. Gabo abriu os olhos e disparou do chão. O tiro atingiu a perna do homem, que caiu gritando; o fuzil deslizou para baixo da grade. Restava um cartucho.
+
+---
+
+Veio um som diferente do outro lado da sala: metal contra metal e um grito junto à passarela.
+
+O técnico ferido arrastou-se atrás de um rack, pressionando a perna. Gabo deixou que fosse; precisava chegar ao console onde Val ainda trabalhava.
+
+Gabo virou a cabeça, procurando a origem do grito. Na passarela superior, a nove metros de altura, uma silhueta arrancava uma lâmina da armadura de outro segurança.
+
+Não era o Santo. O Santo era largo. Aquilo era magro, comprido, de ombros estreitos. O cabelo grisalho preso num rabo de cavalo. Óculos de aumento de relojoeiro presos na testa, com as lentes levantadas. Um avental de couro escuro, gasto, com bolsos frontais cheios de coisas compridas.
+
+O Taxidermista. Ele viu Gabo, limpou a lâmina no avental e avançou até a escada enquanto outro segurança recuava para abrir fogo.
+
+— Ninguém mata a minha obra-prima inacabada, inspetor — ele disse.
+
+A voz era gentil. Era uma voz boa, de professor.
+
+— Só eu.
+
+E desceu a escada.

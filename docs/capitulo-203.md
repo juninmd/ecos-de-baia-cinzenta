@@ -1,60 +1,70 @@
 ---
-Título: Sombras de Aeterna
+Título: Degraus de Sangue e Ferrugem
 Data In-Game: Pós-Colapso do Sentinel (Noite Eterna)
-Localização: Corredores Secundários de Manutenção do Setor 6
+Localização: Catacumbas do Setor 6 - Poço de Elevação Principal
 Personagens Presentes: Gabo, Valéria, Elias
 ---
 
-# Capítulo 203: Sombras de Aeterna
+# Capítulo 203: Degraus de Sangue e Ferrugem
 
-O arrasto dos meus coturnos pelo chão de concreto produzia um som áspero, quase rítmico, como uma lixa desgastando uma lâmina velha. Minha perna direita dependia do suporte rígido da órtese avariada, cujas engrenagens soltavam um silvo asmático a cada passada que eu forçava para a frente. O braço mecânico de sucata instalado por Vasco, embora bem atado pelas bandagens improvisadas de Valéria, pesava como chumbo morto no meu flanco, e a palma cortada latejava contra a coronha. Precisei parar para mudar a pegada antes de continuar.
+A escada de manutenção de emergência cheirava a ferro cru, óleo rançoso e séculos de abandono sob a cidade afundada. Cada barra transversal estava encrustada por uma crosta espessa de óxido escamoso e um lodo vegetal que parecia pulsar em espasmos lentos. Elias subia na frente, testando os apoios antes de passar o peso. A bota enfaixada alcançava o degrau com dificuldade; quando escorregava, ele parava até firmar a outra perna.
 
-O corredor de concreto continuou sua trajetória monótona por quase cem metros até curvar-se bruscamente à esquerda. Foi ali que a frieza estéril da arquitetura corporativa encontrou seu primeiro túmulo.
+Eu subia logo abaixo dele. Não por cavalheirismo de manual policial, mas por cálculo prático: se Elias entrasse em choque e despencasse, a guia de segurança que Elias passara pelos apoios era a barreira entre ele e uma queda livre de quarenta metros até a laje das catacumbas. Valéria fechava a coluna, cinco degraus abaixo de mim, o cyberdeck preso ao colete e os fios holográficos azuis da franja emitindo pulsos curtos e ritmados contra o abismo escuro.
 
-A luz azulada que escapava das ópticas do cyberdeck de Valéria cortou a escuridão e revelou um rasgo violento na estrutura do túnel. Não se tratava do avanço biológico do Jardim que tínhamos combatido nos níveis superiores; era uma corrosão coberta por camadas de poeira antiga, parecida com a Praga de Ferro que havíamos visto no enclave.
+— Para de olhar pros próprios pés, Elias, — ordenei, a voz raspando na garganta seca como lixa sobre zinco. — Olha pro degrau seguinte. Um por um. Respira pelo nariz e não solta o metal antes de travar o calcanhar.
 
-O concreto estava estourado de dentro para fora, como se veias subterrâneas de ferrugem tivessem se expandido em espasmos febris. O óxido avermelhado não se limitava a manchar as tubulações mestras — ele as havia triturado em uma crosta escamosa que se soltava em placas soltas, acumulando montes de pó metálico no piso. No centro do colapso, duas gigantescas portas corta-fogo de aço temperado jaziam torcidas para fora dos trilhos, comidas por uma corrosão química que parecia ter fervido o metal antes de esfriar.
+— Tem coisas se mexendo lá embaixo, Moretti... — A voz do técnico tremia tanto que o eco no poço parecia uma transmissão corrompida. — Elas não tão só rastejando. Tão farejando o calor dos nossos corpos.
 
-— Olha pra isso... — sussurrou Valéria, diminuindo o passo e se agachando perto de uma viga decepada. Ela correu a ponta enluvada dos dedos sobre a poeira alaranjada, esfregando os grãos entre o polegar e o indicador antes de levar à altura dos olhos prateados. — Corrosão catalítica acelerada. Parece a corrosão que vimos no enclave. Só que estas marcas estão por baixo de camadas antigas. Se são do expurgo de trinta e oito, alguém já tinha usado algo parecido antes do Jardim.
+— Deixa que farejem, Elias, — cortou Valéria, a voz ácida com aquele timbre cortante de sarcasmo da Zona Baixa que me lembrava os becos da Doca Três. — Se alguma aberração com mandíbula de soldador tentar subir na minha bota, eu enfio uma descarga de quatrocentos volts no processador dela. Menos choro e mais músculo nesse quadril, garoto. Você é engenheiro, não um pacote de correio.
 
-— Níveis de contenção da Praga de Ferro? — perguntei, segurando a *Caronte* pelo cano curto e apoiando o peso na soleira.
+O peso da armação que Vasco acoplara ao fixador puxava meu ombro direito para baixo. Mantive o braço junto ao tronco; cada degrau fazia o arnês ranger e repuxava o curativo. Minha perna direita ardia onde a órtese improvisada mordia a carne machucada, uma lembrança persistente das docas e do colapso da Torre Aeterna.
 
-— Pior que isso, Moretti, — ela disse, levantando-se e jogando para trás a franja de fios azuis reluzentes com um sacudir de cabeça impaciente. — Os trincos têm marcas de calor e metal depositado pelo lado de fora. Podem ter soldado a porta. Eu não sei quando nem com qual processo.
+O ar vertical que subia do fundo era gélido, fétido, carregado de esporos que pinicavam a traqueia. A sensação sufocante de confinamento ameaçava apertar minha garganta, mas não havia espaço para fraqueza mental. Havia apenas a gravidade, a ferrugem e a distância até a próxima escotilha.
 
-Elias deu dois passos à frente, mantendo-se colado às minhas costas como se a escuridão pudesse mordê-lo a qualquer descuido. O rapaz esticou o pescoço sobre meu ombro, o rosto pálido refletindo a penumbra avermelhada.
+— Movimento rápido na marca de sessenta metros, subindo em espiral pelas guias dos cabos, — alertou Valéria, o tom endurecendo sem perder o veneno nos lábios. — Três assinaturas térmicas. Rápidas demais para operários da colmeia. São quimeras batedoras. O Jardim tá mandando os cães de caça.
 
-— Isso... isso foi no expurgo de trinta e oito? — perguntou ele, a voz quebrando. — Meu avô dizia que fecharam o Setor Seis por causa de uma falha de ventilação...
+— Quanto falta pra escotilha de transbordo? — perguntei, mantendo o braço direito junto ao peito enquanto firmava a mão esquerda na barra.
 
-— O relatório pode ter escondido o que houve, Elias. Seu avô talvez tenha repetido a única versão que deixaram circular, — Valéria rebateu com aquele riso seco e sem humor dos sobreviventes da Zona Baixa. — A Aeterna já usou linguagem de manutenção para esconder mortes. Precisamos de registros antes de dizer quantas pessoas ficaram aqui.
+— Quinze metros acima do nariz empinado do Elias, — ela disparou, subindo dois degraus de uma vez com a agilidade quase felina de quem passou a adolescência pulando telhados de lata sob a chuva ácida. — O trinco mecânico tá bloqueado por um contraventamento antigo. A gente vai ter que arrombar na força bruta.
 
-Avancei com cuidado através do vão retorcido das portas duplas, meus passos levantando uma névoa fina de ferrugem que ardia nas narinas e deixava um gosto metálico de cobre na língua.
+— O que está vendo, Elias? — perguntei, tentando ouvir a resposta acima das garras.
 
-Do outro lado, a escala do massacre se revelou em toda a sua crueza.
+A resposta demorou. As solas de borracha de Elias congelaram. Eu bati a testa contra o couro das costas dele, sentindo o tremor febril que sacudia toda a sua caixa torácica.
 
-Estávamos no mezanino superior de uma imensa câmara logística. O espaço era colossal, com teto sustentado por arcos industriais que se perdiam nas sombras a vinte metros de altura. Uma iluminação de emergência residual — globos âmbar amarelados piscando com a frequência fraca de baterias atômicas moribundas — riscava a penumbra, desenhando sombras compridas sobre o piso de carga.
+— Eu... eu não consigo, Gabo... — balbuciou ele, os dedos brancos grudados no ferro oxidado. — O degrau do meio... apodreceu. É só casca de ferrugem. Vai estalar. Vai quebrar tudo.
 
-E no chão daquele armazém, dezenas de máquinas jaziam estripadas.
+Olhei para cima, apertando os olhos contra a poeira fina que caía do teto do túnel. A barra horizontal em que ele precisava apoiar o peso estava corroída até a espessura de um graveto, comida pelo ácido do lodo vegetal. Mais acima, na penumbra azulada das raízes que rasgavam o concreto, vi o primeiro brilho de ópticas corrompidas. Quatro olhos mecânicos facetados, montados sobre uma carcaça de drone de vigilância fundida a fibras musculares sintéticas e espasmos de pernas articuladas de aço. Uma aranha de dois metros, descendo pelas vigas mestras com velocidade obscena.
 
-Eram drones industriais pesados, empilhadeiras automáticas de esteiras duplas e carregadores hidráulicos de seis metros de comprimento — a espinha dorsal de ferro que escavara os alicerces de Baía Cinzenta antes do Dilúvio. Mas eles não haviam apenas oxidado onde pararam. Estavam despedaçados. Chapas de blindagem de dez centímetros tinham sido arrancadas como cascas de laranja; esteiras de lagarta de aço maciço estavam partidas e enroladas em nós cegos, e cabos de força pendiam das carcaças abertas como vísceras desidratadas de monstros pré-históricos.
+— A solda do canto parece mais inteira — falei. — Você consegue alcançar sem pôr peso no meio?
 
-— Que merda aconteceu aqui? — murmurei, descendo o primeiro lance de escadas de serviço com a órtese estalando em protesto.
+Um guincho eletrônico estridente rasgou o poço de elevação. A quimera se projetou no vazio, caindo dez metros em queda livre antes de enterrar três garras de tungstênio diretamente nos rebites da escada, a menos de quatro metros acima da cabeça de Elias. A vibração do choque percorreu toda a estrutura de ferro, arrancando nuvens de fuligem vermelha.
 
-— Pânico de silício, — respondeu Valéria, saltando os últimos degraus com leveza e apontando a lanterna tática para um drone virado de barriga para cima, com a cabine de comando amassada contra o chão. — Olha as marcas de impacto nos para-choques frontais. Há marcas de impactos entre unidades, mas não sei em que ordem aconteceram.
+— Elias! — berrou Valéria.
 
-Elias tropeçou em um duto de óleo rachado, soltando um arquejo assustado antes de se apoiar no chassi de um trator adormecido.
+Elias testou o canto com a bota boa e tentou avançar, mas a ferrugem esfarelou. A guia esticou e tomou o peso antes da queda virar um mergulho; o tranco me puxou contra a barra. Ele bateu a canela na viga e ficou suspenso, sem ar.
 
-— Por que máquinas autônomas fariam isso? Elas têm diretrizes de prevenção de colisão...
+— Não solta a linha! — gritei.
 
-— Se isso tiver relação com a corrosão, — Valéria explicou, tirando um cabo de interface do cyberdeck e plugando na porta de teste calcinada de um manipulador hidráulico, — os registros mostram falhas de proximidade e comandos repetidos de movimento. Não consigo reconstruir o que os sensores detectaram.
+A mão esquerda de Elias ainda alcançava o apoio lateral. Em vez de esperar que eu o içasse, ele agarrou a guia, encontrou a emenda da escada e travou o pé bom contra a parede. O movimento fez a corda correr um palmo pelo mosquetão. Minha mão de carne, cravada no vergalhão de trás, deslizou e abriu a palma; o pistão do ombro uivou quando tentei conter o balanço. Eu não tinha força para levantá-lo sozinho. Valéria prendeu a guia no apoio inferior, e só então Elias conseguiu subir o joelho até a viga e recuperar o degrau.
 
-A tela portátil de Valéria cuspiu uma torrente de códigos corrompidos em vermelho fosforescente, iluminando suas feições angulosas e concentradas.
+Elias recuperou o apoio, puxando ar em goles curtos. Eu mantive a mão na barra; a palma aberta deixava sangue no ferro. Valéria passou a guia pelo apoio abaixo de nós antes de voltar a mirar a criatura.
 
-— Elas enlouqueceram, — continuei, sentindo o peso sombrio daquele lugar fechar-se sobre o meu peito. — Pelo menos algumas continuaram se movendo com os sensores falhando. E a porta...
+A aranha biomecânica não esperou. Ela saltou sobre os degraus em nossa direção, as mandíbulas pneumáticas abrindo em cruz para decapitar Elias.
 
-— Há marcas de calor nas portas, — completou Valéria, puxando o cabo de volta com um estalo limpo e me encarando com os olhos prateados arregalados de admiração macabra. — Há impactos perto das chapas, mas isso não prova que todas chegaram aqui juntas ou que a porta já estava fechada.
+Valéria ergueu a pistola compacta com a mão direita, apoiando as costas contra o vazio, e disparou três tiros certeiros no bloco de articulação da criatura. Faíscas azuis explodiram no joelho de titânio do monstro, desequilibrando seu salto.
 
-O silêncio do armazém voltou a nos envolver, quebrado apenas pelo gotejar esporádico de condensação ácida que caía das vigas do teto sobre as carcaças de aço. O ar cheirava a graxa rançosa queimada, mofo e pó ferroso acumulado ao longo de quatro décadas de escuridão.
+— Agora, brutamontes! — gritou ela, os olhos prateados faiscando.
 
-— Tem uma saída do outro lado do pátio, — disse Elias, apontando com o dedo trêmulo para os fundos do armazém, onde um vão monumental de descarga conduzia para os túneis inferiores de resfriamento. — O portão de carga do Setor Seis.
+Com Elias preso pela guia e os pés outra vez junto à parede úmida, soltei a perna esquerda do degrau e desferi um chute de baixo para cima. O impacto do calcanhar de ferro forjado atingiu a face do drone com o estrondo de uma marreta em um cofre. Componentes ópticos estilhaçaram, fios soltaram fumaça cáustica e o animal cibernético perdeu a sustentação, despencando aos guinchos no poço escuro até se esborrachar com um estalo úmido lá embaixo.
 
-— Então vamos nos mover antes que a poeira assente de vez, — avisei, erguendo a *Caronte* e destravando a mira. — Se essa pilha de sucata ensinou alguma coisa sobre a Aeterna, é que eles nunca deixam um cemitério sem tranca. Fiquem juntos e vigiem as sombras. O chão aqui tá coberto de restos de máquinas que morreram com medo; a gente não quer se juntar a elas.
+O esforço arrancou o último fôlego dos meus pulmões. O sangue gotejava da minha palma rasgada sobre a testa de Elias.
+
+— Ainda vivo? — perguntei entre dentes.
+
+— V-vivo... — soluçou ele, encontrando apoio para os pés no degrau de canto.
+
+— Ótimo. Porque se você morrer antes de abrir aquela escotilha, eu te jogo no poço de novo, — Valéria ameaçou, empurrando a cintura dele para o alto com o ombro firme. — Anda, Elias. Três metros. Usa a gravidade contra eles antes que o resto da matilha chegue.
+
+Subimos os últimos degraus como animais feridos. Cheguei à escotilha de ferro fundido, enfiei a ponta dos garras de aço da armação na fresta entre a chapa e o batente e puxei com toda a pressão do acumulador hidráulico. O pino de ferro estalou, a trava quebrou e a tampa escancarou para dentro com um estrondo de alívio.
+
+Joguei Elias para o chão de concreto do corredor, Valéria saltou em seguida cobrindo a retaguarda com um último disparo que ricocheteou nos cabos, e eu me atirei para o interior, batendo a escotilha de ferro atrás de nós bem no momento em que dezenas de garras mecânicas batiam do lado de fora, arranhando a blindagem em uma fúria estéril.

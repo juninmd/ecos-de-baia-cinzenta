@@ -20,5 +20,8 @@
 ### ⏳ Linha do Tempo
 
 * **Parte XIV:** Desperto nos laboratórios da Aeterna como fruto do Projeto Gênesis, assumindo a liderança das operações de reestruturação sistêmica da cidade.
+* **Capítulo 250:** Depõe como testemunha na Mesa. Diz que o corpo é uma cópia e que a memória é a única coisa que pode afirmar. No Estudo Moretti, "Eu era o pai e era o responsável pelo controle". Admite a autorização de 2035 que escolheu a família. Registra que o sinal 902.4 é a sua manutenção e que Krell pode cortá-lo.
+* **Capítulo 254:** Morre no saguão do Cine Arcádia quando o pulso 902.4 cai, sem tiro nem queda: o anel azul apaga. Brito, pelo rádio a bordo da *Concórdia*, atribui a falha a "um equipamento de manutenção". Valéria: a frequência é a da chave mestra, o que prova de onde veio o comando, não quem apertou o botão.
+* **Atualidade:** Desligado em 254.
 
 ---

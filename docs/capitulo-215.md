@@ -1,62 +1,80 @@
 ---
-Título: Os Alicerces do Inferno
+Título: O Peso da Maquinaria
 Data In-Game: Pós-Colapso do Sentinel (Noite Eterna)
-Localização: Acesso Subterrâneo, Setor 6
+Localização: Portões do Hub Principal, Setor 6
 Personagens Presentes: Gabo, Valéria, Elias
 ---
 
-# Capítulo 215: Os Alicerces do Inferno
+# Capítulo 215: O Peso da Maquinaria
 
-O silêncio do Hub Principal pesava como chumbo derretido sobre os nossos ombros. As palavras de Valéria continuavam suspensas no ar filtrado, frias e incontestáveis, ecoando entre as colunas de servidores adormecidos: *a porta dos fundos para o porão do inferno*.
+Ultrapassar a muralha de raízes e cabos estilhaçados foi como deslizar pela traqueia congelada de um monstro pré-histórico. Do outro lado da fenda aberta pelo pulso sônico e pela escopeta, o duto de resfriamento abria-se em um átrio colossal de concreto pré-moldado, sustentado por pilares cilíndricos de aço naval que se erguiam até sombras inacessíveis trinta metros acima.
 
-Ajustei a jaqueta de sarja manchada sobre o peito, sentindo o peso da armação mecânica que Vasco acoplara ao fixador instalado pela equipe. O músculo esfolado latejava em um ritmo surdo e constante sob as ataduras, onde ferimentos recentes continuavam sangrando em silêncio. As cicatrizes do Dilúvio queimavam como se o tempo não tivesse passado desde que a Torre Aeterna desabou e metade da cidade morreu afogada sob a lama ácida. Perdi amigos, quase perdi o braço e quase perdi o juízo. Precisei parar para ajustar o arnês antes de seguir.
+No fundo da câmara, avultava a monumental abóbada do Portão do Hub Principal do Setor Seis.
 
-Caminhamos em direção ao quadrante nordeste do salão com passos medidos. A cada passada, minha órtese quebrou a rigidez do silêncio com um ruído áspero de ferro desgastado. O pé direito pousava de chapa, o esquerdo procurava o chão como quem desce uma escada no escuro, e a assimetria cobrava juros no quadril a cada metro. Ali, afastada das baias de computação, uma imensa escotilha circular de aço naval repousava chumbada diretamente na laje de concreto usinado.
+Era uma estrutura maciça de chumbo e titânio, projetada pelos arquitetos da Aeterna Corp para isolar as centrais de processamento executivo contra bombardeios ou levantes populares armados antes da queda da cidade. A blindagem de quatrocentos milímetros exibia cicatrizes rasas de corrosão e arranhões de garras antigas, mas permanecia intacta. O problema não era a couraça; era o mecanismo de abertura.
 
-A blindagem tinha anéis de vedação de quatrocentos milímetros e travas de pressão semelhantes às de um submarino de alta profundidade. O metal em volta estava impecável: sem ferrugem, sem lodo do Jardim, sem marcas de garras. Era um ponto cego no mapa da cidade, intocado pelo colapso biológico que devorara os distritos superiores.
+Um mezanino de vigas de carga desabara sobre o console principal durante o colapso, esmagando os leitores biométricos e os teclados em uma massa disforme de vidro quebrado e plástico derretido.
 
-— O poço de manutenção geológica primária, — Valéria anunciou, ajoelhando-se diante da consola de acionamento embutida no batente. Seus dedos de hacker voaram pelas chaves analógicas, enquanto os fios azuis da franja emitiam pulsos curtos e compassados. — Este poço foi perfurado na rocha basáltica original antes da drenagem do pântano em mil novecentos e vinte e dois. Não é infraestrutura da Aeterna; é a fundação da própria Baía Cinzenta.
+— Terminal de acesso eletrônico totalmente aniquilado, — disse Valéria, iluminando a ruína com a lanterna do cyberdeck. Os reflexos azuis da franja desenhavam contornos afiados em suas bochechas pálidas, manchadas de fuligem. — Os relés primários estão mortos e o cabo mestre foi decepado pela viga. Não tem porta de entrada pra hackear por aqui, detetive.
 
-Elias ajoelhou-se ao lado dela, iluminando as placas de identificação rebitadas no aço com sua lanterna de inspeção. O rapaz correu os dedos sobre as letras gravadas em baixo-relevo.
+— Tem que haver um bypass mecânico de segurança, — respondi, apoiando a *Caronte* na parede e soltando o ar pesado. O braço direito latejava sob o fixador ao qual Vasco acoplara a armação; meus músculos continuavam sangrando sob a bandagem encharcada, mas o frio polar anestesiava a periferia do ferimento. — Vi válvulas de alívio nos outros setores deste complexo. Procurem a mesma marca no batente.
 
-— 'Companhia Construtora e Hidráulica de Baía Cinzenta — Eixo de Sondagem Zero', — leu ele, a voz carregada de assombro. — Abriram uma sondagem para estudar a rocha antes de assentar os pilares. A placa não diz quando ampliaram o poço. Isso aqui desce quatrocentos metros em queda livre até o leito rochoso.
+Elias apontou o feixe de sua lanterna para o canto inferior direito do portal.
 
-— E como a gente desce quatrocentos metros sem arrebentar no fundo? — perguntei, apoiando a *Caronte* na soleira e confirmando os dois cartuchos que ainda estavam na câmara.
+— Ali! — exclamou o garoto, aproximando-se com cuidado das pilhas de entulho. — A válvula de override manual! Mas tá emperrada... tem uma crosta de gelo de três dedos cobrindo os dentes da engrenagem.
 
-— Tem uma gaiola de carga industrial suspensa por cabos de aço trançado de duas polegadas, — Valéria explicou, puxando uma alavanca de liberação manual com um estalo seco. — O motor de tração é alimentado por um contrapeso de chumbo e a linha geotérmica de serviço. A boa notícia é que o sistema não depende da rede elétrica corrompida da cidade.
+A roda de manobra, pintada em um vermelho industrial descascado, tinha quase um metro de diâmetro e estava embutida na alvenaria de concreto reforçado. Um indicador analógico de pressão acusava seis mil libras por polegada quadrada travando os pistões de titânio do batente.
 
-— E a má notícia? — indaguei, erguendo uma sobrancelha.
+— A pressão está alta — disse Valéria, olhando o manômetro. Elias leu a placa de manutenção no batente. — A abertura manual descarrega o acumulador — explicou ele. — Sem a bomba, não consigo garantir que a porta volte a fechar. O corredor frio vai ficar ligado ao Hub.
 
-— A má notícia, detetive, é que os freios pneumáticos de emergência não veem graxa nova desde a época em que seu pai ainda usava calças curtas, — ela disparou com aquele meio-sorriso mordaz que sempre desafiava a gravidade. — Se o cabo romper durante a descida, nós vamos aprender a voar em velocidade terminal até a Arca Zero.
+Elias olhou para a passagem fria que tínhamos acabado de cruzar. — Se deixarmos aberto, qualquer coisa pode seguir a gente.
 
-Elias levantou-se, tirando um jogo de chaves e o testador sônico da mochila. Ele examinou o tambor do guincho através de uma grade de inspeção.
+— E se ficarmos aqui, não chegamos ao arquivo — disse Val. — Podemos marcar a porta e procurar outra saída lá dentro.
 
-— Os cabos de sustentação tão lubrificados com parafina pesada, — o garoto analisou, apontando a luz para o mecanismo. — Não vejo oxidação nos fios externos. A alma do cabo eu não consigo examinar daqui. Mas o regulador centrífugo tá com a mola de recuo travada por poeira estática. Se eu destravar a mola com um pulso de vibração sônica, podemos testar o regulador sem carga e descer com o freio manual ao alcance. Isso não certifica o cabo.
+Eu queria responder que voltaríamos para fechá-la. Olhei para o manômetro e deixei a promessa quieta. Elias apontou uma barra de corrimão caída junto ao mezanino; ele e Val foram buscá-la enquanto eu conferia o apoio da órtese.
 
-Valéria olhou para mim, os olhos prateados faiscando de aprovação genuína.
+Eles trouxeram a barra arrastando. Elias poupou o tornozelo enfaixado na volta e esperou até Val firmar a outra ponta.
 
-— Viu só, Moretti? Eu disse que trazer um técnico de manutenção assustado era o melhor investimento tático da semana.
+— Encaixa a ponta entre os raios da roda de manobra, — instruí, passando a barra pelo centro da válvula até travar contra o concreto da parede. — Valéria, pega o pé de cabra de titânio e enfia na lingueta de retenção da engrenagem para impedir o recuo do pinhão.
 
-— O garoto conquistou o lugar dele na equipe faz tempo, Val, — afirmei, dando um tapinha encorajador no ombro de Elias. — Mostra pra essa máquina velha como o pessoal da manutenção trabalha.
+— Entendido, brutamontes, — ela respondeu com um meio-sorriso mordaz, ajoelhando-se perto do eixo inferior e forçando a cunha metálica na fresta entre as engrenagens congeladas. — Se isso estalar e voltar na minha cara, eu atiro na sua perna boa assim que a porta abrir.
 
-Elias engoliu em seco, assentiu com determinação e aproximou a ponta de cerâmica da ferramenta sônica do tambor do regulador. Ele disparou uma sequência curta de pulsos acústicos modulados.
+— Justo, — concordei, posicionando meus pés no chão de concreto.
 
-O zumbido agudo ressoou pelo metal. A poeira cinzenta que selava o mecanismo desfez-se em uma nuvem fina, e a mola mestre de aço temperado destravou-se com um clique limpo e sonoro, engatando as sapatas de freio nos trilhos verticais do poço.
+Firmei a mão de carne na ponta da barra de ferro, enquanto as garras de ferro da armação de sucata se fechavam ao redor do aço maciço com a força inexorável do atuador hidráulico. Elias se posicionou ao meu lado, agarrando a alavanca com as duas mãos e fincando as solas dos coturnos na soleira de ferro.
 
-Na mesma hora, Valéria girou a válvula mestre da escotilha.
+— No três, — comandei. — Um... dois... força!
 
-O ar comprimido escapou com um rugido ensurdecedor de descompressão, soltando uma lufada de vento gelado, límpido e seco que subiu das profundezas da terra. O cheiro era puramente mineral: rocha vulcânica antiga, basalto fraturado e a umidade silenciosa de cavernas seladas há milhões de anos. Não havia o fedor de lixo da superfície, nem o cheiro de óleo queimado das fábricas da Aeterna. Era o hálito da terra nua, anterior a qualquer pecado construído pelo homem.
+Lançamos todo o peso dos nossos corpos sobre a barra.
 
-A tampa de aço ergueu-se sobre pistões pneumáticos, revelando a boca do poço e a gaiola de manutenção. Elias pediu que deixássemos a plataforma vazia e acionou o teste por um trecho curto. O regulador acionou as sapatas e a gaiola parou; ele rearmou o mecanismo e verificou o freio manual antes de recolhê-la. O ensaio não mostrava o estado interno do cabo.
+Os servos da minha armação uivaram em um tom agudo e ensurdecedor, os pistões soltando um jato fino de vapor quando o óleo interno ferveu sob a sobrecarga extrema. O metal da alavanca rangeu, curvando-se sob a pressão monumental. Minha clavícula mandou um raio de dor ardente pela espinha, mas mantive a pressão, trincando os dentes até quase rachar o esmalte.
 
-— Plataforma posicionada e pronta para embarque, — Valéria anunciou, passando a alça do cyberdeck pelo peito e sacando sua pistola curta com movimentos metódicos. — Última chamada pro expresso do subsolo profundo. Quem ficar pra trás perde o apocalipse.
+— A trava tá cedendo! — Valéria gritou da base, golpeando o pinhão com uma chave de boca pesada para quebrar os cristais de gelo que colavam os dentes. — Mais um tranco! Agora!
 
-— Ninguém fica pra trás, — declarei, segurando a grade da gaiola com a mão de sucata e entrando no elevador. O piso de ripas de aço rangeu sob o meu peso, mas as correntes de sustentação retesaram com firmeza.
+Elias soltou um grito rouco, puxando com cada grama de músculo que tinha nos braços magros. Dei o empuxo final com o quadril e a perna mecânica, transferindo todo o torque do motor de sucata para o centro do eixo.
 
-Elias entrou logo em seguida, segurando-se ao corrimão central com os nós dos dedos brancos de tensão. Valéria fechou a formação, puxando a grade pantográfica da gaiola e travando o trinco interno com um estalo definitivo.
+Um estalo colossal ecoou pela câmara, como o estampido seco de uma detonação controlada.
 
-— Segurem onde puderem, rapazes, — ela avisou, com os olhos fixos na alavanca de descida. — A gravidade tá prestes a cobrar a conta.
+A crosta de gelo e ferrugem estilhaçou-se em milhares de estilhaços afiados. A roda de manobra girou um quarto de volta, depois meia volta, girando cada vez mais rápido sob o fluxo do fluido hidráulico que finalmente encontrou vazão pelos cilindros de alívio.
 
-Ela empurrou a alavanca para a frente.
+Um som grave, subterrâneo e contínuo de contrapesos de chumbo deslizando por guias verticais fez o chão vibrar sob nossos pés.
 
-Com um tranco que fez nossos estômagos subirem até a garganta, a gaiola despencou no abismo, mergulhando na escuridão eterna do poço geológico enquanto as luzes do Hub Principal sumiam rapidamente acima de nossas cabeças.
+As gigantescas folhas blindadas do Portão do Hub Principal soltaram um suspiro sibilante de descompressão pneumática e começaram a se afastar lentamente para dentro das paredes de concreto, centímetro por centímetro.
+
+Do interior da abertura, não veio o bafo pútrido do Jardim nem o ar polar de amônia que nos torturava há horas.
+
+Veio uma corrente de ar tépido, filtrado, seco e com o cheiro esquecido de ozônio limpo, carpete estático e estações de trabalho de silício seladas no auge do poder corporativo. O sistema ainda renovava o ar. O Dilúvio e a queda da Torre tinham destruído bairros inteiros neste ano; alguém pagara para que aquele corredor continuasse respirando.
+
+Soltamos a barra de ferro, que caiu no piso de concreto com um tinido estridente de alívio. Caí de joelhos, ofegante, com o peito subindo e descendo em espasmos pesados enquanto a fumaça tênue da sobrecarga subia dos atuadores do meu ombro postiço.
+
+Valéria guardou a cunha de titânio, levantou-se limpando a fuligem da testa e me encarou com os olhos prateados brilhando de admiração e respeito. Ela estendeu a mão para me ajudar a levantar.
+
+— Eu retiro o que disse sobre a sua física de rua, Moretti. Pra um fóssil do DPBC, até que você entende de alavancas.
+
+— Eu sou pago pra empurrar as coisas que não querem se mover, Val, — respondi com um meio-sorriso cansado, aceitando o apoio firme dela e me pondo de pé. — E você não é nada má pra uma ladra de terminais que dizia odiar trabalho mecânico.
+
+Elias olhava boquiaberto para o interior iluminado do Hub Principal, onde monitores antigos piscavam em verde suave no fim de um saguão imenso.
+
+— A gente conseguiu... nós estamos dentro do centro de comando.
+
+— Nós entramos, garoto, — afirmei, pegando a *Caronte* e destravando a alça nas costas. — Agora vamos descobrir que segredos a Aeterna escondeu nos alicerces mais profundos dessa cidade antes que as portas decidam se fechar de novo.

@@ -101,7 +101,7 @@ Se o índice de violência não cair em seis meses, eu mesmo desligo isso.
 
 Gabo se sentou. No papel, o pai tinha um cargo que os relatos de coragem nunca mencionavam: **Consultor de Segurança Sênior**. Deu a Valéria espaço para fotografar a página inteira, incluindo o carimbo de recebimento, e não só a assinatura.
 
-No verso havia duas colunas: **amostra extraída** e **parente em campo — comparação**. Na segunda, uma linha de inventário: **setor familiar / REF-0 / manter referência viva; não extrair**. Nenhum nome acompanhava a chave. Val fotografou também o verso.
+No verso havia duas colunas: **amostra extraída** e **parente em campo — comparação**. Na segunda, uma linha de inventário: **setor familiar / REF-0 / manter referência viva; não extrair**. Nenhum nome acompanhava a chave. Val fotografou também o verso. Ao pé dele, num carimbo de outra tinta que ninguém comentou, vinha uma terceira linha: **FUTURO / bolsa ativa / tutor designado**. Parecia ficha de escola, e era isso que a tornava estranha numa tabela de extração.
 
 — Compatibilidade de quê? — perguntou Nise. — Aqui não pedem outro doador. Mandam comparar alguém que extraíram com um parente que precisam manter fora da máquina.
 

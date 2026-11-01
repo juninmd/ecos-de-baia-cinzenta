@@ -1,142 +1,86 @@
 ---
 image: /capitulo_41.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Valéria "Val" Cruz
-Localização: "Avenida da Indústria, Distrito Baixo (enchente)"
+Localização: "Cemitério dos Esquecidos, Setor 7 (túmulo de Dante Moretti)"
 ---
-# Capítulo 41: Maré Alta
+# Capítulo 41: O Céu Quebrou
 
-A chuva não parava. Não era mais água caindo; era o oceano decidindo que a terra lhe pertencia.
+O Cemitério dos Esquecidos parecia mais abandonado do que nunca. Sem os drones de manutenção para podar a vegetação mutante, o mato já começava a engolir as lápides digitais apagadas. Raízes finas e acinzentadas — produto de alguma semente que escapara dos laboratórios da Aeterna — serpenteavam pelas rachaduras do mármore sintético, consumindo os nomes dos mortos.
 
-Baía Cinzenta foi construída sobre pântano por gente que sabia que era pântano e construiu assim mesmo, porque o terreno era barato e a próxima administração que resolvesse. Os diques do Distrito Baixo foram erguidos no ano vinte e dois, projetados para uma maré centenária, com manutenção prevista a cada oito anos.
+Vinte e três dias depois da queda da Torre, Gabo estava diante do túmulo de Dante Moretti. O verdadeiro túmulo, onde estavam os restos recuperados por uma equipe de remoção dois dias antes. Gabo acompanhara a identificação na cadeira; o lacre e o registro da retirada ficaram com as demais provas. Não tinha como refazer o trajeto pessoalmente.
 
-A última manutenção foi em quarenta e um. Gabo sabia disso porque tinha lido no relatório que o Rangel arquivou, e que ninguém mais leu.
+A cerimônia havia sido patética. Só ele, Elena e Val. Três pessoas para enterrar o homem que um dia comandara mil policiais. O capelão robótico que costumava presidir os funerais estava desligado, então Gabo improvisou algo sobre poeira e descanso. As palavras soaram ocas, vazias como o caixão antes de receberem o corpo.
 
-Em menos de três horas, os Níveis 1 ao 10 tinham desaparecido.
+— Você conseguiu, pai — disse Gabo para a terra revirada, os dedos tamborilando nervosamente na coxa. — A chuva parou.
 
----
+Era mentira. E ele sabia.
 
-Elena parou o Cobalt no trecho alto da Avenida da Indústria. A pista abaixo já não existia. Gabo permanecia no banco do passageiro, com a perna direita imobilizada.
+A chuva ácida que martelava Baía Cinzenta há três décadas mudara de padrão nas últimas três semanas, quando os satélites de controle climático da Aeterna foram desativados no colapso. Mas o que veio em seu lugar era pior.
 
-No lugar dela havia um rio marrom de dois metros correndo em direção ao mar, carregando tudo que a cidade tinha deixado solto: contêineres de lixo, motos, um caixa eletrônico arrancado da parede, um sofá de três lugares girando devagar como se estivesse pensando.
+Gabo olhou para o céu.
 
-Nos carros abandonados abaixo da rampa, a água batia nas portas. No trecho alto, a chuva entrava pelas vedações rachadas, e o carro cheirava a óleo queimado, esgoto e o cheiro específico e inconfundível de sarjeta revirada - doce, quente, orgânico.
+As nuvens não eram mais o manto cinza uniforme e controlado do Smog industrial. Eram negras, turbulentas, girando em padrões caóticos que ele nunca tinha visto em sua vida. Formações que pareciam rostos distorcidos, bocas abertas em gritos silenciosos. Pareciam feridas abertas no próprio firmamento, infectadas e supurando luz púrpura nos intervalos entre trovões.
 
-— Não entra nessa água — disse Gabo a Elena. — O motor não segura um carro que perdeu o chão. Val, tem rota acima da avenida?
+O vento mudara também. Não era mais a brisa úmida e previsível da costa controlada. Era quente. Úmido de um jeito diferente — carregado de sal, ozônio e algo que Gabo não conseguia identificar. Cheirava a eletricidade estática, enxofre e mar podre.
 
-— Do que? — Valéria estava no banco de trás com o deck no colo, tentando puxar qualquer coisa da rede e conseguindo estática. — Não tem sinal de nada. Nem sirene, nem rádio municipal, nem alerta de evacuação. Gabo, ninguém **avisou** essas pessoas.
+A pressão atmosférica fazia seus ouvidos estalarem. Suas cicatrizes — as velhas e as novas — latejavam em sincronia com os relâmpagos que cortavam o horizonte.
 
-— Eu sei.
+Uma gota caiu em sua mão estendida. Grossa. Morna. Viscosa. Não era água limpa. Era cinza escuro, quase negro, como se o próprio céu estivesse sangrando óleo.
 
-— O sistema de alerta é automatizado, ele devia ter disparado sozinho—
+Gabo limpou a mão no sobretudo, sentindo o tecido absorver a substância pegajosa.
 
-— O sistema de alerta é da Aeterna, Val. — Elena desviou de um poste caído no piso ainda exposto. — E a Aeterna não avisa quem não paga.
+— O clima está quebrando — murmurou ele, mais para si mesmo do que para o túmulo. — Sem a Aeterna para controlar as barreiras de tempestade e os ionizadores atmosféricos... a natureza está cobrando a dívida. Trinta anos de manipulação. Trinta anos de sequestro do ciclo das águas. E agora o planeta quer de volta. Com juros.
 
-Elena parou junto ao guarda-corpo e ergueu a câmera sem fotografar. Só olhando pelo visor, do jeito que ela faz quando não quer olhar direto.
+Um trovão sacudiu o chão. Não o estalo elétrico seco que Gabo conhecia desde criança — o som domesticado das tempestades artificiais. Este era um rugido profundo, geológico, vindo das entranhas do céu, fazendo seus dentes vibrarem e seu estômago revirar.
 
-— Ali — ela disse.
+Os pássaros — os poucos que sobreviviam no ecossistema devastado da cidade — levantaram voo em massa dos carvalhos mutantes do cemitério, uma nuvem negra de corvos sintéticos e garças de plástico biológico fugindo de algo que seus instintos programados não conseguiam processar.
 
----
+Gabo sentiu um arrepio subir pela espinha. Não de frio. De pressentimento.
 
-O transporte escolar estava tombado de lado a uns quarenta metros, encalhado num canteiro central que ainda resistia. A água já cobria as janelas. Em cima da lataria, agachadas, havia treze crianças e dois adultos, e um deles agitava a lanterna do celular num arco desesperado.
+Quando ele voltou para o Cobalt, estacionado no portão enferrujado do cemitério, Valéria estava do lado de fora, de pé na lama, olhando para o horizonte sul com um binóculo analógico que haviam recuperado do escritório de evidências da delegacia.
 
-O ônibus estava tremendo. Não de vento. A correnteza estava empurrando, e o canteiro estava cedendo.
+— Gabo... — A voz dela estava estranha. Não assustada. Reverente. Como quem observa um deus acordando. — Olha aquilo.
 
-— Aquilo vai sair do lugar — disse Elena.
+Elena segurou o binóculo diante dos olhos de Gabo e ajustou o foco para ele.
 
-— Vai. — Gabo apontou o pilar da rampa. — Precisamos de uma linha até o canteiro.
+O que viu fez seu sangue gelar.
 
-Elena avançou apenas sobre o piso exposto e estacionou atrás de um pilar. Dois moradores que puxavam uma balsa de portas vieram quando ela chamou. O adulto no ônibus alcançou a corda lançada por um deles. O carro ficou em terreno firme, como ponto de apoio. Gabo não conseguiria puxar ninguém; podia conferir a linha e avisar quando um nó começasse a ceder.
+Uma parede de nuvens roxas se erguia sobre o mar, avançando em direção à costa com a velocidade de um trem desgovernado. Era colossal — não era uma formação meteorológica, era uma muralha. Três quilômetros de altura, talvez mais. O topo se perdia nas camadas superiores da atmosfera, brilhando com descargas elétricas internas que iluminavam a massa como um crânio translúcido revelando sinapses de um cérebro gigante.
 
-— Elena! Corda!
+Relâmpagos vermelhos dançavam dentro da massa de nuvens. Não azuis ou brancos como os normais. Vermelhos. Como sangue arterial. Como fúria.
 
-Ela já estava no trecho seco da rampa. Trinta e três anos e nenhum treinamento de resgate, com a ponta livre da corda e a chuva batendo horizontal na cara dela.
+— O que diabos é aquilo? — perguntou Elena, ainda segurando o binóculo para Gabo.
 
-— **AMARRA NAS CRIANÇAS PRIMEIRO!** — ela gritou, e a voz dela cortou o barulho da água. — MENOR PRIMEIRO! DEPOIS OS ADULTOS!
+— Uma tempestade enorme — disse Val. O tablet recebia o barômetro local; isso não media o vento no mar nem fornecia categoria do ciclone. — A pressão está caindo. Sem radar e boletim confirmado, eu só posso dizer o que estamos vendo.
 
-O homem da lanterna hesitou.
+Ela olhou para Gabo, e ele viu o medo nos olhos dela. Mesmo assim, ela continuou conferindo o aparelho.
 
-— A gente não sabe nadar—
+— A leitura do barômetro está fora da faixa que eu calibrei. Pode ser o sensor. Não vou esperar descobrir aqui no cemitério.
 
-— **NINGUÉM AQUI VAI NADAR! AMARRA!**
+— É o Dilúvio — disse Gabo, sentindo um arrepio na espinha que não tinha nada a ver com o frio. A palavra saiu de sua boca antes que ele pudesse processá-la, vinda de algum lugar primitivo de sua mente. — A conta chegou.
 
----
+Ele lembrou das histórias que sua avó contava. De um tempo antes das corporações controlarem o tempo. De tempestades que varriam cidades. De enchentes que reorganizavam a geografia. De um mundo onde a natureza era senhora, não escrava.
 
-Levou dezenove minutos.
+Esse mundo estava voltando. E ele não seria gentil.
 
-O adulto do ônibus prendia a linha, e os moradores traziam as crianças para a rampa. Elena as recebia junto do guarda-corpo. Val indicava onde sentar, protegendo o ombro. Gabo contava quem ainda estava no teto. O Cobalt não sairia dali levando dezoito pessoas.
+O rádio da polícia no painel do Cobalt chiou, a estática cortada por uma voz que Gabo reconheceu — Capitão Vilar, a voz carregada de um pânico que o velho nunca demonstrara nem mesmo sob fogo cruzado.
 
-Uma. Duas. Cinco. Nove.
+— *Código Vermelho. Atenção todas as unidades disponíveis. As comportas do dique sul estão apresentando falha estrutural crítica. Repito: falha estrutural nas comportas do sul. A pressão da maré anormal está além dos parâmetros de projeto. Estimativa de ruptura em menos de quatro horas. A água está subindo. Os setores baixos estão sendo evacuados. Isso não é um exercício. Repito: isso NÃO é um exercício.*
 
-A décima escorregou.
+Gabo olhou para Elena. Para Val. Para o horizonte onde a muralha de nuvens roxas continuava avançando, devorando o céu.
 
-Foi uma menina de uns sete anos, com um casaco amarelo grande demais, e o nó frouxou no meio da travessia e ela saiu do laço e a correnteza pegou ela como pega uma folha.
+Ele suspirou — um som pesado, de quem aceita mais um peso em ombros já sobrecarregados — e aceitou a ajuda de Elena para passar da cadeira ao banco do passageiro. Val guardou a Caronte atrás. A escopeta bateu no estofado rasgado com um som metálico familiar.
 
-Elena pulou.
+A paz tinha durado vinte e três dias. Vinte e três dias desde a queda da Torre. Vinte e três dias de uma liberdade frágil e sangrenta. Ele deveria ter sabido que era bom demais para durar.
 
-Não houve discussão, não houve aviso, não houve um segundo de cálculo. Ela largou a ponta livre e entrou na água junto da rampa, e Gabo gritou o nome dela e o grito não serviu para nada.
+— Vamos — disse ele, enquanto Elena ligava o motor do Cobalt. O carro tossiu, engasgou, depois rugiu com a determinação de uma máquina que se recusava a morrer. — Temos que voltar para a delegacia e coordenar a evacuação. Levar todo mundo para os andares altos. Antes que essa cidade vire um aquário.
 
-Vinte segundos. Vinte segundos em que Gabo ficou preso ao banco, incapaz de oferecer um braço ou alcançar a água, e aprendeu uma coisa sobre si mesmo que ele ia levar quinze anos para admitir: que ele preferia, naquele instante, que a menina se afogasse.
+— E depois? — perguntou Elena, ajeitando-se ao volante.
 
-Elena emergiu oito metros abaixo, agarrada num poste de sinalização, com o casaco amarelo preso no braço e a criança dentro dele.
+Gabo olhou pelo retrovisor. O primeiro raio vermelho cortou o horizonte, seguido por um trovão que fez os vidros do carro vibrarem.
 
-Val apontou o poste aos moradores. Eles lançaram outra ponta e puxaram as duas para a rampa.
+— Depois... a gente nada.
 
-Quando Elena voltou ao piso da rampa, cuspindo água, ela olhou para ele através do para-brisa e viu no rosto dele exatamente o que tinha passado ali.
+Elena pisou no acelerador. O Cobalt disparou pela estrada enlameada do cemitério, deixando para trás os mortos que, pela primeira vez em suas eternidades silenciosas, teriam companhia em massa.
 
-Não disse nada. Nunca disse.
-
----
-
-As últimas três crianças e os dois adultos vieram em seis minutos.
-
-O último homem tinha acabado de soltar a corda quando o canteiro central cedeu. O ônibus escolar girou lentamente, quase com elegância, e a correnteza levou dezoito toneladas de aço avenida abaixo como se fosse uma caixa de papelão. Bateu no pilar do viaduto duzentos metros adiante com um som que Gabo sentiu no peito antes de ouvir, e afundou.
-
-Ninguém no carro falou.
-
-Uma criança começou a chorar e as outras não.
-
----
-
-Eram treze crianças e dois adultos resgatados, além de Gabo, Val e Elena. As crianças se apertavam junto dos adultos no trecho alto, aguardando as balsas dos moradores. O Cobalt receberia o homem da lanterna e a menina que engolira água, além do trio, e um cheiro insuportável de roupa molhada, xixi e medo — que tem cheiro, e é metálico, e gruda.
-
-— O dique não rompeu — disse o homem da lanterna, no banco de trás, tremendo tanto que os dentes batiam. — Eu trabalho na Companhia de Águas. Eu **vi**. Não rompeu.
-
-Gabo olhou para ele pelo retrovisor.
-
-— Como assim, não rompeu?
-
-— As comportas abriram. — O homem apertou os olhos, como quem tenta desver uma coisa. — As três, uma depois da outra. Tem um alarme que toca antes da abertura programada, e o alarme tocou, moço. O alarme tocou e ninguém mandou tocar.
-
-Elena virou o corpo inteiro no banco.
-
-— O senhor está dizendo que alguém abriu.
-
-— Eu estou dizendo que aquilo foi **operado**.
-
-— O rádio da polícia disse falha estrutural — falou Elena. — Eu ouvi o Vilar dizer isso antes de a gente entrar na avenida. Falha estrutural crítica, ruptura em quatro horas.
-
-— Falha estrutural não toca alarme de abertura — disse o homem. — E não abre três comportas em sequência. Eu estava na sala de controle quando a de Leste subiu, moça. Tinha gente ali que não devia estar.
-
-Valéria parou de mexer no deck.
-
-E Gabo, com as mãos sobre o colo e um rio no lugar da avenida, sentiu a coisa fria e conhecida se instalar no estômago — a mesma coisa que ele sentia quando um caso deixava de ser tragédia e virava crime.
-
----
-
-— Para onde? — perguntou Elena, baixo, para ele não ouvirem atrás.
-
-Gabo olhou o retrovisor. Dezoito pessoas. Três horas de combustível. Uma cidade virando lago.
-
-E, muito ao longe, atrás da cortina de chuva, a silhueta do Distrito Alto — seco, iluminado, com as luzes todas acesas, porque lá em cima a energia nunca cai.
-
-— Delegacia Central — ele disse. — É alto, é seco e tem gerador.
-
-— E depois?
-
-— Depois eu quero saber quem operou aquela comporta.
-
-Elena levou o Cobalt pelo trecho alto. Os demais seguiram nas balsas até a escada do abrigo indicada pelo rádio; os moradores ficaram de conferir a chegada. Isso ainda não era confirmação de que todos alcançariam a delegacia.
-
-Atrás deles, o Distrito Baixo — o bairro onde Gabo nasceu, onde a mãe dele tinha criado três filhos, onde ficava a pizzaria dos Rossi e a catedral do Padre Miguel e o barraco setenta e um da Vila do Porto Velho — desapareceu debaixo de dois metros de água em três horas e onze minutos.
-
-E o alarme tinha tocado.
+O Dilúvio estava chegando. E Baía Cinzenta, a cidade que sobrevivera a tudo, estava prestes a descobrir que algumas dívidas não podem ser negociadas.

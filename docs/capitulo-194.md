@@ -1,73 +1,72 @@
 ---
-Título: O Preço da Manutenção
+Título: A Ascensão das Cinzas
 Data In-Game: Pós-Colapso do Sentinel (Noite Eterna)
-Localização: Setor 7 (Nível de Subestação B)
-Personagens Presentes: Gabo, Valéria, Elias
+Localização: Setor 7 (Fosso de Evacuação do Arquivo Executivo)
+Personagens Presentes: Gabo, Valéria
 ---
 
-# Capítulo 194: O Preço da Manutenção
+# Capítulo 194: A Ascensão das Cinzas
 
-Elias escolheu sair conosco. Recolheu a chave, uma cinta de manutenção enrolada e o óleo de sua bancada antes de nos conduzir pelo labirinto de transformadores inativos da Subestação B. O piso de concreto vibrava com um tremor rítmico, os reflexos das explosões distantes no data-center subindo pelas paredes como relâmpagos mecânicos abafados.
+O lodo fervia atrás de nós, um oceano vermelho de biologia corrompida evaporando na fornalha do Arquivo Executivo. O colapso térmico das bio-baterias do Jardim expelia um vapor espesso, alaranjado e cáustico no fosso de ventilação por onde tentávamos escapar. O calor subia como uma maré de forja industrial, empurrando o ar para cima em lufadas sufocantes de carne vegetal torrada e silício derretido.
 
-O ar cheirava a poeira metálica aquecida, enxofre e graxa velha, deixando aquele gosto amargo e azedo de fuligem no fundo da garganta. A cada passada pesada, a órtese da minha perna direita rangia alto, e o braço fraturado doía a cada mudança de direção. Eu precisava que Elias repetisse as instruções quando o apito no ouvido esquerdo cobria sua voz.
+O cheiro fétido de amônia e fuligem impregnava o poço, deixando um gosto amargo e azedo de fuligem colado na minha língua. Cada respirada parecia lixar a garganta por dentro, e o suor misturado com sangue quente escorria das cicatrizes do meu ombro ferido.
 
-— A torre principal de exaustão perdeu a pressurização quando vocês romperam os dutos de amônia lá embaixo — Elias explicava num sussurro esganiçado, correndo com as costas curvadas e olhando para trás a cada dez passos. — O fogo do núcleo tá sugando o oxigênio do fosso mestre. Se a gente tentar subir pelos poços normais de elevador, o ar superaquecido cozinha nossos pulmões antes do terceiro lance de escadas.
+A escada de emergência de ferro fundido tremia sob as vibrações das explosões secundárias que estouravam vinte metros abaixo das nossas solas. O estrondo contínuo da alvenaria despencando nas poças de refrigerante fazia o ar zumbir nos tímpanos.
 
-— A gente não vai subir pelo fosso mestre, Elias — Valéria cortou com firmeza, conferindo a telemetria do cyberdeck preso ao peito. — O scanner térmico tá mostrando que a temperatura da laje abaixo dos nossos pés já bateu oitenta graus. Não consigo ver como estão as vigas por dentro. Você conhece outra saída?
+— Não para, Gabo! — a voz de Valéria ecoou cinco degraus acima de mim, rouca e tossindo pela fumaça química. Os LEDs da franja dela cortavam a névoa cinzenta como vaga-lumes presos numa tempestade de cinzas. — A onda de sobrepressão vai subir por esse tubo em menos de um minuto! Se a gente estiver no meio da chaminé quando o gás pegar fogo, o ar quente derrete a carne dos nossos ossos!
 
-Elias engoliu seco, os dedos encardidos apertando a alça da máscara de respiração no peito.
+— A minha perna tá derrapando na fuligem — rosnei, cravando a mão de carne no degrau áspero e oxidado enquanto apoiava a bota na travessa seguinte. A armação sustentava o braço fraturado, mas não podia me içar.
 
-— Conheço um duto, mas não sei quanto tempo a estrutura aguenta.
+O ferro da escada estava escaldante, transferindo calor através do couro gasto das minhas luvas. A cada degrau conquistado, o fixador no meu braço latejava com o deslocamento do arnês, mas eu mantinha a cadência fixa, recusando-me a olhar para o abismo de chamas que lambia as paredes do poço.
 
-— Mostra o caminho — pedi, ajustando o correame de *Caronte* por baixo do sobretudo rasgado.
+Valéria estendeu a mão enluvada para baixo, engatando os dedos no colarinho do meu sobretudo rasgado para me ajudar a vencer o desnível de uma viga torcida pelo calor.
 
-Elias virou à esquerda num corredor de paredes espessas de chumbo, parando diante de uma escada helicoidal de ferro fundido que subia em direção ao teto abobadado.
+— Põe o pé direito na travessa de concreto, Moretti! Força!
 
-— Aqui. Os dutos de refrigeração forçada — ele apontou com a ponta da ferramenta para uma escotilha circular de um metro e meio de diâmetro chumbada na parede superior. — Esse conduíte foi construído pela Aeterna durante a expansão industrial de trinta anos atrás. Ele contorna o fosso de exaustão principal e deságua direto nas catacumbas sob o Distrito Comercial do Setor 6. Uma galeria completamente isolada da rede de esgoto da baixa.
+Apoiei a bota na laje lateral e me lancei para a plataforma superior de serviço da Subestação B. Caí de joelhos no piso de chapa de aço, o peito arfando como um fole arrebentado, os pulmões ardendo com a mistura de amônia e poeira de carvão. Minha perna com a órtese mecânica estalou alto, o metal quebrado rangendo sob a pressão.
 
-— E qual é o problema dele? — Valéria perguntou, estreitando os olhos ópticos prateados ao mirar o maquinário.
+Atrás de nós, a escotilha de isolamento de pressão da subestação barrava o corredor. Uma porta maciça de duas folhas de aço naval de quatro polegadas de espessura, projetada para conter explosões de transformadores de alta voltagem.
 
-— O problema é aquela maldita roda de alívio — Elias subiu os primeiros degraus da escada com agilidade de rato.
+Ela estava trancada por travas de sobrepressão de emergência que haviam disparado quando o incêndio começou lá embaixo.
 
-Subimos logo atrás dele. A temperatura subia a cada degrau, e o cheiro sufocante de metal aquecido tornava o ar cada vez mais áspero para respirar.
+Valéria correu até a caixa de comando manual, puxando a tampa de proteção com a ponta da faca tática.
 
-No patamar superior, a escotilha circular estava lacrada por uma válvula mecânica monumental. Uma roda de ferro fundido de um metro de diâmetro, presa a um fuso roscado da grossura da minha coxa, completamente incrustada por trinta anos de ferrugem, cal e salitre seco.
+— As travas de alívio tão soldadas pela fuligem! — ela gritou, os olhos prateados analisando as cavilhas de travamento hidráulico emperradas no batente. — O relé térmico desligou o motor elétrico! A gente precisa romper os pinos mecânicos de retenção na força bruta antes que o fogo alcance a base dessa plataforma!
 
-Valéria encostou a mão enluvada no volante, tentando forçar a rotação no sentido horário. O metal nem sequer vibrou.
+Olhei para baixo pelo vão da grade. Uma língua de fogo roxo e azul subia pelo fosso, consumindo os cabos de suspensão como pavios de dinamite. O ar estalava com a pressão crescente do metano confinado. Não havia como saber quando a próxima explosão chegaria. Se a comporta não abrisse, morreríamos cozidos como ratos encurralados.
 
-— Tá congelada — ela praguejou entre dentes, os LEDs da franja piscando em vermelho de advertência. — A rosca parece presa pela corrosão. Se a gente forçar de uma vez, pode quebrar o volante e perder o acionamento.
+— Afasta da soleira, Valéria!
 
-— Deixa eu tentar com o torque da armação — dei um passo à frente, erguendo a estrutura industrial pesada.
+Val expôs o mecanismo manual da porta de pressão. Havia uma haste de destravamento junto às cavilhas, separada do motor térmico. Encaixei a ferramenta no ponto de alavanca enquanto ela tirava o pino de retenção, sem tentar romper duas polegadas de aço com meu braço quebrado.
 
-— Espera, Moretti! — Valéria pôs a mão direita na armação para me deter. — Se forçar de uma vez, pode quebrar o volante ou puxar seu fixador. Elias, como você trabalhava nessa rosca?
+Travei a postura, respirei fundo a cinza que cobria a sala e comandei a descarga pneumática máxima da junta de Vasco.
 
-— Com óleo e vibração curta — disse Elias. — Nunca consegui força para terminar o giro sozinho.
+BOOM-CLANG!
+A haste puxou o conjunto das cavilhas. Uma recuou inteira; a outra parou na metade. A trava soltou um silvo e Val gritou para que eu mantivesse o apoio enquanto ela liberava o último encaixe.
 
-Ele mostrou a conexão gasta da chave. Valéria ofereceu a saída auxiliar do deck; Elias aceitou e acompanhou enquanto ela prendia a presilha.
+Mais um avanço da alavanca. O encaixe corroído se soltou com um estalo. A folha de blindagem deslizou pesadamente para o lado, abrindo uma fresta escura que dava acesso aos túneis superiores da subestação.
 
-— Vamos tentar soltar a rosca antes de pôr peso nela — disse Val. — Se o metal ceder ou aquecer demais, a gente para.
+— Entra! Agora! — berrei, empurrando Valéria pelo vão estreito antes de me atirar para o outro lado com o ombro metálico à frente.
 
-Elias sacou uma lata amassada de desengripante industrial do cinto e esguichou um jato espesso sobre o fuso oxidado.
+No segundo exato em que meu sobretudo cruzou a soleira, a onda de choque térmico do núcleo alcançou o topo do fosso.
 
-Valéria encostou a ponta da chave sônica no centro da porca mestre e acionou o gatilho.
+Uma bola de fogo alaranjada explodiu contra a parte externa da comporta, lançando um jato ensurdecedor de labaredas e estilhaços incandescentes pelo vão. Apoiando as costas e o braço de ferro contra a chapa maciça, puxei a alavanca do contrapeso de fechamento antes de a pressão crescer, até que o ferrolho manual de emergência bateu no encaixe com um estrondo definitivo.
 
-Um zumbido agudo, quase imperceptível ao ouvido humano mas doloroso nos dentes, ecoou pela câmara. O metal do volante começou a vibrar violentamente, e uma nuvem fina de ferrugem avermelhada se esfarelou das ranhuras da rosca, borbulhando junto com o óleo penetrante.
+CLANK.
+A porta vibrou violentamente por três segundos sob o impacto da explosão no fosso, mas a blindagem de aço naval segurou a deflagração. O calor arrefeceu na face interna da chapa.
 
-— Mexeu um pouco — disse Elias, tocando o volante depois que Val desligou a ferramenta. — Tenta devagar, Gabo. Se a roda entortar, larga.
+Desabei de costas contra a parede de concreto gélido do Nível B, escorregando até o chão ensopado de água limpa de drenagem.
 
-Aproximei-me da plataforma, posicionei minhas botas nas travessas de ferro e envolvi a roda com a garra mecânica da armação. Travei os motores hidráulicos no limite máximo de compressão. Meus dentes bateram, o fixador repuxou meu braço ferido quando forcei o giro com o peso do meu tronco inteiro como alavanca.
+O silêncio do túnel superior caiu sobre nós como um manto pesado e restaurador. Não havia uivos de fungos, nem alarmes de sobreaquecimento, nem o calor sufocante da fornalha biológica. Havia apenas o ar frio e estéril de uma subestação abandonada e o eco ritmado da nossa respiração entrecortada.
 
-CREEEEAAAAK.
-O metal gemeu num grito estridente de atrito vencido. O salitre cedeu, a graxa ferveu nas ranhuras e o volante completou o primeiro quarto de volta.
+Valéria estava sentada ao meu lado, as costas apoiadas na mesma parede, a jaqueta de couro fumegando de leve com a cinza residual. Ela tirou o capuz, sacudindo a poeira das pontas desfiadas do cabelo escuro. Os fios de LED azul na franja voltaram a pulsar num tom suave, regular e calmo.
 
-Mais um tranco. As engrenagens internas estalaram, liberando o contrapeso de duas toneladas com um estrondo mecânico que fez o ar tremer. A comporta circular pesada deslizou para dentro do batente, revelando a escuridão ampla e fria do duto de ventilação do Setor 6.
+Ela virou o rosto para mim, limpando uma mancha escura de fuligem da bochecha com as costas da mão, e soltou uma risada rouca e cansada que ecoou pela galeria vazia.
 
-Uma corrente de ar fresco, sem fumaça e sem calor, soprou contra nossos rostos suados.
+— Você tem o pior estilo de demolição que eu já vi na minha vida, Moretti — ela murmurou, a voz trêmula de alívio e adrenalina. — Mas o Jardim... o Jardim virou cinza lá embaixo. O enlace desta colônia caiu. Não sei o que sobrou do outro lado, nem quem ainda conseguiríamos tirar de lá.
 
-Valéria devolveu a chave a Elias. Ele conferiu a bobina antes de guardá-la no cinto.
+Olhei para a minha mão de carne, ainda tremendo com o choque residual do esforço, e depois para o aço fosco da armação externa, que esfriava lentamente com o toque da umidade do chão.
 
-— Belo trabalho — ela disse, olhando primeiro para Elias e depois para mim.
+— Aquele painel parou, Val. Não sei o que chegou às comportas antes. O resto vai continuar na conta.
 
-— Obrigado pela chave, Elias — falei, recuperando o fôlego enquanto aliviava a pressão da garra. — Agora vamos entrar antes que essa subestação desmorone de vez.
-
-Elias foi o primeiro a saltar para dentro do duto, seguido por Valéria e por mim. Selamos a escotilha às nossas costas bem no instante em que o piso inferior da subestação colapsava num rugido de fogo e concreto triturado, deixando para trás a sepultura do Jardim e avançando firmes rumo ao coração do Setor 6.
+— É — ela apoiou a cabeça no meu ombro mecânico por dois segundos, fechando os olhos antes de se endireitar com sua habitual postura desafiadora. — A gente cumpriu. Agora vamos achar um canto seco pra recarregar meu deck antes que o resto da cidade descubra que a gente acabou de explodir o porão do Setor 7.

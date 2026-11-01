@@ -127,4 +127,4 @@ traz prompt com o retrato canônico, seed e o caminho `docs/public/capitulo_N.jp
 ele, usa a cena com mais elenco - capa de figurante não vende capítulo.
 
 Capítulo que já tem cena pode usar a própria cena como capa (`image: /cenas/capitulo_N/cena_1.jpg`)
-sem gastar quota. É o que fazem os capítulos 109-119 e 175-230.
+sem gastar quota. É o que fazem os capítulos 111-121 e 177-233.

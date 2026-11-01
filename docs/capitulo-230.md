@@ -1,151 +1,142 @@
 ---
 image: /cenas/capitulo_230/cena_1.jpg
-Título: A Conta Antiga
-Data In-Game: Terceira noite na Velha Baía
-Localização: Galpão de Impressão, Velha Baía
-Personagens Presentes: Gabo, Valéria, Elias, Elena, Dra. Elara Vance
+Título: O Grupo de Controle
+Data In-Game: Segunda madrugada na Velha Baía
+Localização: Galpão de Impressão, Velha Baía (Superfície)
+Personagens Presentes: Gabo, Valéria, Elias, Dra. Elara Vance, Elena
 ---
 
-# Capítulo 230: A Conta Antiga
+# Capítulo 230: O Grupo de Controle
 
-Enterramos o Duarte às quatro da tarde, num terreno atrás do galpão, porque não havia mais cemitério e nem quem administrasse um. A irmã dele chegou de Setor 9 no fim do dia. Tinha dezenove anos e veio a pé. Ficou olhando o monte de terra por muito tempo, e depois perguntou à Elena se o irmão tinha morrido fazendo alguma coisa importante, e a Elena disse que sim, e não era mentira, e mesmo assim eu tive que sair de perto. Fiquei no pátio até escurecer, olhando a marca que a cinta laranja deixou na grade.
+A primeira tiragem começou às quatro e dez. A capa trazia uma rubrica firme e o número quarenta e sete mil trezentos e onze, com a ressalva: admissões apontadas pelo índice; trezentos originais examinados, rubricas ainda não autenticadas. Papel barato, tinta que manchava o polegar. A rotativa batia contra minhas costas enquanto eu esperava sentado entre caixas. Elias voltou do arquivo com o índice de retenções aberto.
 
-O cheiro não saía. Não era o do rapaz — era o **dele**: sabão industrial e água parada, um odor de lavanderia de presídio que ficou grudado no ferro do portão e que o vento do canal não levava. Cada vez que a brisa virava, vinha de novo, azedo e limpo ao mesmo tempo, e o gosto disso descia pela garganta e assentava como moeda velha na língua. Ao longe, as prensas continuavam batendo. *Tchunc-tchunc-tchunc.* O mundo imprimindo a acusação de um homem enquanto o filho de outra mulher jazia debaixo da terra recém-virada. A Elena veio quando as prensas pararam. Sentou no cascalho, do meu lado, com dois copos e uma garrafa de alguma coisa que tinha sido uísque em outra vida. Serviu os dois. Não me entregou o meu; deixou no chão, ao meu alcance.
-
-— Fala.
-
----
-
-E eu falei.
-
-— Barraco setenta e um. Vinte e três de agosto. Eu era o policial de plantão e cheguei quarenta minutos depois do chamado. Peguei o copo. Não bebi.
-
-— A Cleuza Braga estava no chão da cozinha, entre o fogão e a mesa. Trinta e quatro anos. Ele tinha usado uma chave de grifo de vinte e quatro polegadas, dessas de encanador, e depois sentou na cadeira e esperou a viatura chegar. Nem lavou a mão.
-
-— Ele confessou na hora?
-
-— Confessou três vezes. Na cozinha, na viatura e na delegacia. — Tomei um gole. Ardeu como querosene. — E aí veio a enchente de setembro. O depósito de perícia do Distrito Baixo ficou com um metro e meio de água por três dias. Perdemos duzentos e onze processos. O dele foi um.
-
-— A confissão não valia?
-
-— A defesa contestou como foi colhida, e o juiz desconsiderou aqueles depoimentos. Eu li a decisão como se ela me desse licença para fabricar o que faltava. — Dei de ombros com o ombro que ainda funciona. — Sobrou a vizinha. Dona Zélia, do setenta e três, que viu ele entrar com a chave de grifo na mão. Ela ia depor.
-
-— E?
-
-— O Sindicato controlava a vila. Alguém explicou pra ela como funcionava. Ela voltou atrás na véspera, disse que tinha se confundido, que era outro homem, que estava escuro. — Olhei para o copo. — E aí não sobrou nada. Nem prova material, nem confissão válida, nem testemunha. Ele ia sair em quinze dias, Elena. Um homem que matou a esposa com uma chave de grifo ia sair andando e voltar para a mesma vila onde estava a filha de quatro anos dele.
-
-— Então você plantou a faca.
-
-— Então eu plantei a faca. Falar em voz alta foi mais fácil do que eu imaginei em catorze anos de ensaio, e isso me deixou pior.
-
-— Peguei uma faca de cozinha da casa dele, do escorredor, na noite da perícia. Passei nela o sangue do laudo velho, que ainda estava na câmara fria porque o depósito de amostras ficava no segundo andar e o segundo andar não alagou. Coloquei na caixa d'água. E na segunda busca eu mandei o perito subir no telhado.
-
-— Você mandou o perito subir no telhado.
-
-— Eu disse que era procedimento padrão em barraco de laje. — Ri, e o som saiu horrível. — Não é. Era o jeito de fazer uma busca parecer rotina quando eu já sabia onde a peça ia estar.
-
-Elena ficou olhando para a frente.
-
-— Quantos anos ele pegou?
-
-— Vinte e dois. Cumpriu catorze.
+— Gabo. — Ele estava branco. — Essa aqui não é de admissão.
 
 ---
 
-Ela demorou muito para falar de novo.
+O índice remetia a REF-0, mas não dizia a prateleira. Na sequência, 001 aparecia duas vezes e 002 faltava. A folha de movimentação registrava a segunda 001 como retirada para auditoria, sem baixa. Elias seguiu a duplicata até o vão atrás dos mapas de estantes. Caixa menor, reforçada nos cantos, fita preta e etiqueta recosturada:
 
-— Gabo, eu preciso perguntar uma coisa e você vai odiar a pergunta.
+ESTUDO LONGITUDINAL 001 — LINHAGEM DE REFERÊNCIA / REF-0
+ACESSO: DIRETORIA E AUDITORIA
 
-— Pergunta.
+Val abriu no deck a fotografia do verso da autorização guardada por Nise e a do recibo de Isadora. Pôs as duas ao lado do índice: setor familiar, REF-0, retenção de uma unidade viva. Os campos coincidiam; a caixa podia explicar por que tinham sido repetidos, ou só repetir a mesma mentira com mais papel.
+A Dra. Elara Vance rodou a cadeira até a mesa antes que eu pedisse. Ela olhou para a caixa por um tempo desagradavelmente longo.
 
-— Você fez isso outras vezes? E essa foi a que doeu.
-
-— Não. — Olhei para ela. — Uma vez. Uma vez só, em quatorze anos de polícia, e eu escolhi bem, e é isso que torna a coisa pior.
-
-— Por que pior?
-
-— Porque se eu tivesse feito trinta vezes, eu seria um policial corrupto e a conta seria simples. — Bebi o resto. — Eu fiz uma vez, num caso em que eu tinha certeza absoluta, contra um homem que confessou três vezes e era culpado sem sombra de dúvida. Se existe alguma vez em que valia a pena, era essa. Era o melhor caso possível para se cruzar aquela linha.
-
-Deixei o copo no chão.
-
-— E olha onde a gente está.
+— Eu esperava que vocês não achassem essa.\
+— Doutora.\
+— Não por vergonha, inspetor. Por tempo. — Ela apoiou as mãos na tampa. — Esta caixa não fecha a acusação; só mostra o que a Aeterna tentava medir.\
+— Abre. Ela abriu.
 
 ---
 
-— A Bia descobriu, — Elena disse. Não era pergunta.
+Não eram fichas. Eram **pastas de acompanhamento**. Grossas, com abas coloridas, do tipo que hospital usa para paciente crônico. E cada uma tinha um nome.
 
-— A Bia era boa. Boa de verdade, não boa de discurso. — Fechei os olhos. — Ela pegou o inquérito nove anos depois, num arquivamento de rotina, e viu que o laudo de exame da faca tinha sido registrado dois dias antes da apreensão oficial dela. Um erro de dois dias que ninguém nunca ia notar, porque ninguém lê inquérito arquivado.
+MORETTI, D.
+MORETTI, H.
+MORETTI, M.
+ELENA — CONTATO CONJUGAL / ARQUIVO DE VIGILÂNCIA
+MORETTI, C.
+ANEXO TÉCNICO — MÓDULO AUTÔNOMO ARIA (SETOR 7)
+E, no fundo, sozinha, mais gorda que todas as outras juntas, com a aba já sem cor de tanto ser manuseada:
 
-— Ela te confrontou.
+MORETTI, G.
+Fiquei olhando para cinco pastas com o meu sobrenome, mais a pasta da Elena, dentro de um arquivo corporativo.
 
-— Numa lanchonete na Rua Ferrugem, com o inquérito em cima da mesa, entre o café dela e o meu. — Eu conseguia ver a mesa. Ainda consigo. — Ela não gritou. A Bia nunca gritava. Ela disse: *"Você tem uma semana para levar isso à Corregedoria. Se você levar, eu vou com você e eu falo por você."*
-
-— E você não levou.
-
-— Eu não levei.
-
+— Explica, — falei. E a minha voz não estava boa. A Dra. Vance puxou a pasta do meu pai e abriu na primeira página.\
+— Lázaro tinha um defeito: **deriva**. A mente extraída degradava; em seis meses virava ruído, em dois anos já não correspondia a ninguém.\
+— Então não conseguiam manter as pessoas — disse Elena.\
+— O produto estragava, senhora. Para medir a perda, comparavam a mente extraída com outra parecida: uma referência viva, de preferência parente de primeiro grau. — A Vance virou a página. — A hipótese de que parentesco aproximaria os padrões nunca foi validada; os próprios arquivos mostram deriva entre familiares.\
+— Coletavam famílias.\
+— Uma nesta série. — Ela sustentou meu olhar. — O protocolo escolheu a sua como referência.\
 — Por quê?
 
-— Porque eu tinha razão. — A palavra saiu como pedra. — Porque o homem era culpado, Elena, e ele ia sair, e a filha dele estava naquela vila, e eu passei a semana inteira construindo o argumento de que estar certo é mais importante que estar limpo. E no sétimo dia eu tinha o argumento pronto e ele era perfeito e eu acreditei nele.
-
-— E ela terminou com você.
-
-— Ela terminou comigo. — Engoli. — E seis meses depois o Miranda matou ela num galpão, e todo mundo, incluindo eu, passou cinco anos achando que o que quebrou o Gabriel Moretti foi a morte da Bia.
-
-Olhei para a Elena.
-
-— Não foi. O que quebrou foi ela ter morrido antes de eu ter a chance de fazer a coisa certa. Enquanto ela estava viva, eu adiava para um dia em que ela fosse comigo. Quando ela morreu, eu usei a morte dela como desculpa para continuar calado. E aí eu tive que virar o cara que estava certo, para sempre, porque a alternativa era ser o cara que perdeu a mulher e mentiu.
+— Por causa da assinatura do seu pai.
 
 ---
 
-A Valéria apareceu na porta do galpão. Ficou lá, sem entrar, com aquela imobilidade absoluta.
+Ela girou um documento timbrado para mim: autorização, vinte e um anos antes, de testes beta do sinal de saneamento comportamental no Distrito 4. No rodapé, reconheci a assinatura de Dante:
 
-— Você ouviu tudo, — falei.
+Dante Moretti — Consultor de Segurança Sênior.
+— Ele assinou, — falei.
 
-— Ouvi.
-
-— E?
-
-— Estou processando a implicação operacional.
-
-— Fala em português, Val. Ela entrou. Parou a dois metros.
-
-— Eu revi meus registros dos meses em que estivemos juntos com essa informação nova, — ela disse. — Em onze ocasiões você recusou atalhos que teriam salvado tempo e reduzido risco. Eu classifiquei essas recusas como ineficiência moral e as registrei como custo. — Uma pausa. — Talvez você estivesse evitando repetir isso. Eu não tinha essa informação quando registrei as recusas.
-
-Eu não tinha resposta.
-
-— Isso muda a sua avaliação sobre mim?
-
-— Muda o modelo, não a avaliação. — Nenhuma inflexão. — Você é mais previsível do que eu calculava, e mais caro. Ambos são úteis de saber. Ela olhou para o portão. Para a marca da cinta na grade.
-
-— O problema tático permanece o mesmo. Braga anunciou um prazo e ameaçou Elias. Precisamos de vigilância, abrigo para os trabalhadores e um lugar de custódia. Não vou tratar a ameaça dele como prova de que nada disso pode funcionar. Amanhã às onze ele cobra do Elias.
-
-— Eu sei.
-
-— Você vai ao portão.
-
-— Vou.
-
-— A probabilidade de você resolver isso sem matá-lo é—
-
-— **Não me diz o número.** Ela fechou a boca.
+— A justificativa anexada à seleção diz: *consultor signatário; exposição administrativa em caso de denúncia*. — Ela virou a folha para que Elena lesse. — Krell apostou que Dante teria medo de confessar a própria participação. Não escolheu uma família superior às outras; escolheu uma que julgava poder calar.\
+— E depois da prisão, em 2041?\
+— Não sei quanto ele conseguiu alterar. A fita não prova que cada falha da máquina foi obra dele. O registro só mostra a saída que lhe restou: agir como vírus, não como testemunha.
 
 ---
 
-A Dra. Elara Vance falou do escuro, e eu tinha esquecido que ela estava ali.
+Fui abrindo as pastas.
 
-— Inspetor.
+**MORETTI, H.** — Helena. Trinta e oito páginas de rotina; nenhuma extração. *Não coletar: a remoção desestabilizaria a unidade familiar.* A enchente ficou classificada como *perda não programada, ambiental.*\
+**MORETTI, M.** — Marco. *Cooperativo. Baixa prioridade de coleta.* Meu irmão fora classificado como barato.\
+**MORETTI, C.** — Clara, nascida depois do início do estudo: *Manter em observação. Não interferir.*
 
-— Doutora. A cadeira de aço rangeu quando ela se aproximou até a beira da luz.
+ANEXO TÉCNICO — MÓDULO AUTÔNOMO ARIA (PORTA DE SERVIÇO SETOR 7).
+Não consegui abrir esse de primeira. Elena veio, sentou no chão do meu lado, pegou a pasta da minha mão e abriu ela mesma. Leu em silêncio, com o queixo travado. Depois fechou e ficou com a pasta no colo, as duas mãos por cima, como quem segura uma prova de crime que pesa demais.
 
-— O senhor passou dois dias me olhando como quem olha lixo, — ela disse. — Porque eu assinei um memorando dizendo que uma coisa indefensável devia ser feita em escala, já que ia ser feita de todo jeito.
+— A Aeterna sabia da cabine — disse Elena, lendo a nota: *D. Moretti contribuiu com código para unidade autônoma em hardware portátil; durante a inundação, o componente foi registrado no terminal da Via Costeira. A autoria da rotina de ejeção não foi confirmada.*
 
-— Doutora, agora não.
+— O despacho manda não recolher o pendrive e mantê-lo comigo para observar a resposta ao suporte tático. Chamaram a morte da minha mãe de perda ambiental; meu uso do módulo, de dado de campo. Elena manteve a pasta fechada no colo.
 
-— Agora exatamente. — A voz dela não subiu, mas ficou dura. — O senhor plantou uma faca porque tinha certeza. Eu recomendei escala porque tinha certeza. Nós dois olhamos para uma regra, achamos que sabíamos mais que ela, e cobramos a diferença dos outros.
+---
 
-Ela deixou aquilo assentar.
+Sobrou a minha. Peguei a pasta **MORETTI, G.** e ela tinha o peso de um tijolo. Vinte e um anos de acompanhamento. Fotos — eu de uniforme, eu na formatura, eu saindo do hospital depois da Torre do Relógio, eu carregando o corpo da Bia. Relatórios de conduta. Transcrições da Dra. Weiss, que eu julgava privadas. O carimbo de acesso corporativo provava que a Aeterna incorporara o material à vigilância; não mostrava quem o transcrevera ou consultara, nem se Weiss consentira ou sequer soubera. E, na capa interna, o carimbo de status. Não era **ADMITIDO**, como nas fichas de admissão examinadas lá fora. Não era **COLETADO**. Era:
 
-— A única distinção entre nós é a quantidade de zeros. E eu, ao contrário do senhor, não passei catorze anos fingindo que a distinção era de natureza. Elena olhou para mim. Eu não consegui olhar para ela.
+EM CAMPO — NÃO COLETAR — GRUPO DE CONTROLE
+E abaixo, a rubrica. A mesma de sempre. Renovada a cada exercício, vinte e uma vezes, vinte e uma linhas: vinte e um anos de um homem autorizando que eu não fosse coletado. A folha não dizia quem tentara me prender nem quem falhara.
 
-— O senhor vai ao portão amanhã, — a Vance continuou. — E vai encontrar um homem que construiu a vida inteira em cima de uma frase verdadeira. Não subestime isso, inspetor. Gente com uma frase verdadeira é a coisa mais difícil de matar que existe.
+V. KRELL. V. KRELL. V. KRELL
+
+---
+
+— Aqui estão suas sessões, Gabo — disse Elena, sem desviar os olhos da pasta. — O carimbo prova que a Aeterna incorporou o material à vigilância. Não prova que a doutora Weiss autorizou, soube ou entregou qualquer coisa. Valéria pediu uma folha de registro e anotou a localização da pasta, o carimbo e a chave REF-0. Disse que requisitaria a trilha de acesso e a lista de cópias antes de publicar os trechos. Elena assinou como testemunha. Não era resposta para Weiss; era o primeiro modo de deixar a violação verificável.
+
+Eu não gritei. Queria ter gritado.
+
+— Doutora. — Minha voz saiu de muito longe. — O que é grupo de controle. Ela demorou a responder.
+
+— É o membro da linhagem que **não** se coleta, — ela disse. — Um estudo de deriva precisa de uma referência viva. Uma mente da mesma linhagem, exposta ao mesmo ambiente, submetida ao mesmo estresse — mas **nunca extraída**. Sem ela, não há contra o que medir a degradação das outras.
+
+— Então a alternativa é simples: REF-0 podia ser só uma reserva de compatibilidade — disse Valéria. — A chave e a renovação anual provam retenção corporativa, não que Krell escolheu cada confronto nem que o protocolo comandou cada fuga.
+
+— Mas vinte e uma renovações com a rubrica dele não são só uma etiqueta — falei, mantendo o dedo na coluna que acabara de ler.
+
+— São indícios que convergem — disse a doutora. — Não provam a intenção por trás de cada ordem. O registro de campo pode estar incompleto ou ter sido escrito para justificar decisões depois. Publiquem a distinção e preservem as folhas; não chamem suspeita de sentença.
+
+— Diz o resto.
+
+— Inspetor—
+
+— **Diz o resto.**
+
+— O resto o senhor já sabe. — Lembrei do vapor na Capela, da tubulação que eu atingira para tirar Miranda da linha de tiro. Kael continuou atirando. Um papel mandando me preservar não tinha aberto aquela passagem. Isadora já dissera pela boca do meu irmão: *ele não quer te matar, quer te possuir.* Querer não era o mesmo que controlar o que aconteceu.
+
+— Val, — falei. — Confirma. Valéria estava parada há um tempo, imóvel, com o prateado dos olhos fixo na pasta.
+
+— Cruzei os relatórios de incidente com sua ficha — ela disse. — Há referências ao protocolo, mas não encontrei ordens operacionais para cada confronto. Quero os registros de origem antes de publicar qualquer ligação.
+
+— Então ele sabia?
+
+— Não sei se ele leu esses relatórios. A rubrica registra a renovação, mas ainda precisa ser autenticada; não prova que ele tenha lido os relatórios. Eu ri. Saiu quebrado.
+
+— Ele queria me manter vivo.
+
+— Queria uma referência **medível**, — corrigiu a Vance. — A rubrica atribuída a ele registra a renovação do protocolo por vinte e um anos; não revela o que sente por você. Talvez hesite em perder essa referência. Não conte com isso como proteção.
+
+---
+
+A rotativa batia. Ninguém pediu que eu respondesse.
+
+— Então ele tem um problema. Elena virou a cabeça.
+
+— Como?
+
+— Ele tem um problema, — repeti, e me levantei, com o joelho e a perna e o ombro e o braço reclamando todos ao mesmo tempo. — Ele me queria vivo para medir. Agora vai ter que escolher o que fazer comigo. Apontei com a mão que me sobrou para a porta do galpão, para o barulho, para as pilhas.
+
+— Doze mil cópias estão saindo hoje. Amanhã saem mais doze. Na sexta são cinquenta mil, em onze assentamentos, com o nome dele na capa e o número embaixo. Fechei a pasta.
+
+— Pela primeira vez em vinte e um anos, o grupo de controle contaminou o experimento. A Dra. Elara Vance me olhou por um segundo inteiro. E então ela sorriu — aquele sorriso feio, sem alegria nenhuma, de auditora conferindo um número que finalmente fecha.
+
+— Agora ele tem um motivo para vir pessoalmente — ela disse. — Não uma obrigação.
+
+— É. — Enrolei o Colar de Sol no punho. — Vai.
