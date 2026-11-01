@@ -1,106 +1,124 @@
 ---
-Título: A Terra Vermelha
-Data In-Game: Sétima tarde na Velha Baía
-Localização: Terreno Atrás do Galpão de Impressão, Velha Baía
-Personagens Presentes: Gabo, Valéria, Elias, Dra. Elara Vance
+Título: O Lado B
+Data In-Game: Sétima madrugada na Velha Baía
+Localização: Subestação Orla Norte em Chamas, Velha Baía
+Personagens Presentes: Gabo, Valéria, Elias, Elena
 ---
 
-# Capítulo 239: A Terra Vermelha
+# Capítulo 239: O Lado B
 
-Voltamos ao galpão depois que Elias e dois trabalhadores examinaram a drenagem sob o prédio. Não acharam fogo nem sinais de descarga naquele trecho; o restante da linha ainda precisava de inspeção.
+O som do rádio chegou antes da fumaça.
 
-A terra da Velha Baía não é preta como a do interior. É vermelha, pesada de minério de ferro e sal, daquele tipo que gruda na pá e pesa o dobro a cada golpe.
+A cinco quilômetros da costa, enquanto o jipe a diesel de Elias subia aos trancos pelas pistas esburacadas da Orla Norte, o rádio de painel chiou, estalou e explodiu na voz limpa da Dra. Vance. Não era apenas no nosso carro. Pelas janelas das oficinas abandonadas e dos casebres de estivadores, pontos de luz amarela acendiam na escuridão. Velhos rádios de pilha, alto-falantes de doca, comunicadores civis sintonizados na frequência de emergência.
 
-Enterramos Elena ao lado do monte de pedras de Duarte, atrás do galpão de impressão, onde a encosta de barro desce suave até encontrar as poças de óleo da praia morta. Dois montes de terra fresca separados por quatro metros de capim cinzento. Duas pessoas que pagaram a conta da mesma tiragem.
+Naquela parte da orla, havia gente acordando para ouvir os nomes de seus carrascos.
 
-Elias cavou a maior parte, parando para aliviar o tornozelo antes de recomeçar.
+— O transmissor entrou em regime de ressonância — disse Valéria, debruçada sobre o para-brisa trincado. Os sensores óticos dela refletiam o clarão avermelhado que tingia a linha do horizonte. — O sinal está distorcendo e perdendo potência. Não consigo medir a saída do transmissor daqui.
 
-Eu tentei ajudar com a pá curta, usando apenas o braço esquerdo enquanto o ombro direito ardia na tipoia a cada impulso do quadril, mas o joelho emperrado pela órtese falseava no barro mole. No sexto golpe, a pá escapou dos meus dedos e caiu na vala com um estalo oco. O gosto amargo de bile e ferrugem subiu à minha garganta.
+Quando dobramos a curva do quebra-mar, vimos a carcaça da subestação.
 
-Fiquei de pé na beira da cova, respirando pelo nariz, sentindo a chuva bater no meu rosto.
+A ala de potência tinha desabado. A sala de transmissão ainda estava de pé, separada pela parede corta-fogo. O que restava era uma cratera incandescente de metal e alvenaria retorcida, cuspindo labaredas azuis de óleo isolante contra o céu de chuva. A explosão do banco de capacitores havia arrancado a ala oeste como quem corta uma lata de sardinha. Três veículos blindados da força de contenção da Aeterna estavam reduzidos a carcaças de aço negro, com os pneus queimando em poças de borracha líquida.
 
-Não era a chuva ácida da cidade baixa. Era água fria, limpa pela primeira vez desde que o Dilúvio abriu as comportas meses atrás, descendo das nuvens cinzentas que começavam a se abrir no horizonte leste.
+Os drones sentinelas jaziam espalhados pelo cascalho como besouros pisoteados. Nenhum deles operava. A perda do alimentador derrubara os sentinelas ligados àquela subestação. Não sabíamos quantos outros continuavam operando além da orla.
 
-Valéria deu dois passos à frente. Ajoelhou-se na lama vermelha e usou a pá de Elias com a mão direita; a proteção da esquerda só servia de apoio no cabo. Tirou a terra solta, devagar, sem forçar os dedos que não obedeciam. O barro cobriu o cromado dos antebraços dela e manchou as juntas de cerâmica sintética.
+Elena havia cumprido o que prometeu: ela mantivera a transmissão tempo bastante para alguém repeti-la.
 
-— Profundidade atual: um metro e setenta — disse Valéria. Os olhos prateados dela piscaram com uma luz fraca, sem estabilidade. — A cota fica acima da marca das marés que Elias encontrou. Vamos reforçar o monte contra a chuva.
+— Para o carro, Elias — ordenei, batendo com a mão esquerda na chapa da porta.
 
-— Obrigado, Val — falei.
+O freio cantou no cascalho úmido. Esperei Elias parar e me ajudar a descer. A urgência não destravava o joelho.
 
-Ela parou com as mãos mergulhadas na terra. Ficou olhando para os próprios dedos mecânicos manchados de barro vermelho.
+A dor no meu ombro foi uma facada que me fez perder o fôlego, mas forcei a perna direita a avançar, arrastando a órtese travada entre vergalhões retorcidos e cacos de vidro blindado. O ar fedia a borracha queimada, óleo isolante e cabelo chamuscado. Um calor abafado, quase vulcânico, subia das grelhas de ventilação abertas.
 
-— Há uma inconsistência no registro — ela murmurou. O tom não era o do Modo de Segurança. Era mais lento, hesitante, como se faltasse uma palavra. — Encontramos Elena sem sinais de circulação. Eu sei o que aconteceu com o corpo. Mas continuo esperando que ela entre pela porta para corrigir uma data. Esse atraso não aparece no relatório do berço.
+— Gabriel — a voz de Valéria veio atrás de mim, mecânica e compassada. — Leitura de radiação térmica no piso de comando: setenta e oito graus. Risco de colapso estrutural do teto.
 
-Olhei para a ciborgue. Para o rosto jovem de pele pálida, onde duas faixas de LED azul estalavam com ruído estático.
+— Fica atrás, Val.
 
-— Isso se chama luto, Valéria — disse a Dra. Vance, que permanecia na cadeira de rodas improvisada, apoiada no parapeito de madeira da doca. — Os engenheiros da Aeterna chamavam de resíduo emocional não quantificável. Meu pai chamou o sofrimento alheio de falha para justificar o que fez. Nenhum implante precisa explicar por que a ausência dela dói.
+A comporta de aço marítimo estava arrancada de suas dobradiças, tombada sobre um monte de escombros de alvenaria.
 
-Valéria não respondeu. Fechou os punhos cobertos de terra e saiu da vala com um salto curto, sem olhar para nenhum de nós.
+Entrei na sala de comando.
 
----
+A fumaça preta acumulava-se no teto, mas a chuva fria que descia pelo rombo da laje atravessava a fumaça sem torná-la respirável. Valéria me passou o equipamento de resgate do jipe antes de entrarmos. No centro do recinto, o console de baquelite verde continuava brilhando com relés incandescentes, sustentando o sinal que subia para a torre como um coração artificial teimoso.
 
-Trouxemos o corpo de Elena enrolado em uma lona de algodão cru, daquelas usadas para cobrir os fardos de papel das prensas. Não havia caixão de madeira na Velha Baía, e nem faria sentido arranjar um: Elena sempre odiou caixas fechadas. Ela passou a vida arrombando arquivos e abrindo portas seladas para deixar o vento entrar.
+Apoiada na base do transmissor, sentada sobre o piso de borracha alagado, estava Elena.
 
-Descemos a lona com as cintas de poliéster que sobraram do caminhão de Elias.
+A *Caronte* repousava ao lado de sua coxa, com a culatra aberta e dois cartuchos deflagrados fumegando no cascalho — a mesma arma que ela havia empunhado na Torre e que eu carregava desde o Dilúvio. A jaqueta verde-oliva estava empapada de um vermelho escuro e pesado que escorria até o chão, colorindo a poça de água salobra em que ela descansava as pernas esticadas.
 
-Quando a lona assentou no fundo da cova vermelha, a Dra. Vance se aproximou na cadeira de rodas até a beira. Tirou do bolso do casaco o crachá de repórter de Elena — um pedaço de plástico laminado com uma foto desbotada tirada no saguão da prefeitura, antes de a cidade rachar ao meio.
+Ela não estava se mexendo.
 
-A doutora soltou o crachá. O plástico caiu sem ruído sobre o peito coberto de lona.
+O queixo estava caído sobre o peito. As mechas do cabelo castanho claro estavam coladas na testa molhada de suor e fuligem. Lembrei-me da carta que ela me deixara antes de cruzar o perímetro, quando prometera levar a verdade para fora da cúpula para que os arquivos nunca morressem. Em sua mão direita, apertada contra o peito com os nós dos dedos brancos de esforço, repousava o gravador de microcassete de plástico cinza.
 
-— Há sessenta e um anos, a Aeterna prometia cuidar dos mortos. Depois aprendeu a conservar mentes vivas em cofres e chamá-las de patrimônio corporativo — a voz da velha ressoou com a clareza de uma sentença judicial. — Essa mulher enterrou o silêncio da Aeterna antes que pudessem colocá-la numa gaveta. Se existir alguma justiça na história que sobrou desta praia, o nome dela vai ser lido muito depois de a última torre de vidro ruir.
+Caí de joelhos ao lado dela.
 
-Elias começou a jogar a terra de volta.
+O impacto do cascalho estourou a dor no meu menisco remendado, mas eu não senti nada além do frio repentino que tomou minha nuca.
 
-O som do barro caindo sobre a lona crua bateu como pedradas no meu estômago. *Tump. Tump. Tump.*
+— Elena.
 
-Cada pá de terra cobria um pedaço da mulher que me conheceu antes de eu ser o detetive mutilado que a cidade usou como aríete. Cobria a garota que apagava o cigarro antes de se sentar ao meu lado, porque eu me recusava a fumar nas escadarias do porto; a jornalista que me chamou de estúpido quando eu tentei desarmar uma carga de fósforo branco com as próprias mãos; a mulher que cruzou a cerca de arame farpado com quatro cadernos de anotações no peito para montar a imprensa que nos libertaria.
+Estendi a mão esquerda e toquei a lateral do pescoço dela, logo abaixo da linha da mandíbula suja de carvão. A pele ainda guardava o calor da sala em chamas, mas não havia pulso. Apenas o silêncio liso e absoluto de quem cruzou a linha sem retorno.
 
-Fiquei até a terra nivelar.
+Valéria ajoelhou-se do outro lado. Os dedos da mão direita de Val tocaram a carótida de Elena por alguns segundos antes de conferir o monitor portátil de resgate.
 
-Quando Elias colocou a última pedra sobre o monte, o sol da tarde finalmente rompeu a cortina de fumaça da Orla Norte.
+— Sem sinais de circulação detectáveis nesta avaliação. Hora em que a encontramos: quatro e vinte e sete — declarou Valéria. Houve uma pausa incomum na modulação de sua voz sintética. Ela interrompeu a frase para respirar e olhou para mim antes de continuar. — Os ferimentos balísticos e a perda de sangue são compatíveis com choque hipovolêmico; não posso determinar a causa clínica sem exame. O transmissor ainda opera, mas está falhando. Vamos tirar os dois daqui.
 
-Era uma luz fraca, dourada e amarga, que fazia a lama brilhar como cobre polido.
+Atrás de nós, Elias tirou o boné de estivador da cabeça e deu dois passos para trás, encostando-se na parede de concreto descascada.
 
-Passei a mão esquerda pelo pescoço. Tirei o cordão fino de latão do bolso da camisa e o passei pela cabeça, deixando o pingente redondo repousar no meu peito, logo ao lado do "Colar de Sol" que minha mãe Helena tinha deixado comigo antes do Dilúvio.
+Fiquei olhando para o rosto dela.
 
-Dois metais frios batendo contra o osso do meu esterno a cada batida do meu coração cansado.
+Elena parecia mais jovem assim, sem a tensão que repuxava os cantos de sua boca toda vez que ela olhava para as minhas cicatrizes ou conferia o nível de água nos porões. Não havia horror na expressão dela. Havia apenas uma determinação teimosa, petrificada no formato de seus lábios entreabertos.
 
-— E agora, inspetor? — perguntou a Dra. Vance, olhando para o sul, onde a carcaça da cúpula de Baía Cinzenta ainda projetava sua sombra de ferro sobre o mar.
+Eu não sabia tudo o que acontecera ali dentro. Ela tinha chegado ao transmissor e a voz da doutora ainda saía dos rádios. O resto estava espalhado pela sala, entre os cartuchos e os estilhaços.
 
-— Agora a gente termina a tiragem — respondi. A voz saiu limpa, sem a tremedeira dos últimos três dias. — O rádio da Elena abriu o caminho, mas o papel precisa chegar nas mãos de quem não tem antena. Doze mil cópias hoje. Amanhã, o que as prensas e o papel permitirem.
+Valéria voltou com Elias e uma lona de resgate. Ele recolheu a Caronte; Val conferiu a coronha antes de levá-la ao jipe. Prendemos Elena na lona e a levamos para fora, devagar, afastando-nos da parede ameaçada. Eu quis carregar mais peso do que podia; Elias segurou a outra ponta quando meu joelho cedeu. Só no jipe, com a porta fechada contra a chuva, puxei o gravador de microcassete de seus dedos.
 
-Elias limpou o suor da testa com o antebraço sujo de graxa.
+A carcaça plástica estava quente ao toque, marcada com a impressão digital de sangue que ela havia deixado ao pressionar o botão de parada. O contador marcava poucos minutos de gravação. O transporte tinha parado.
 
-— Os caminhões do Setor 4 chegam antes das nove, Gabo. O capitão Vilar mandou dizer que a estrada da serra está aberta. Ele não vem; com um braço só não faz a serra de noite, mas mandou a rota conferida.
+Desconectei o pequeno fone de ouvido de plástico que vinha enrolado no corpo do aparelho. Encaixei o fone no ouvido direito; o esquerdo já não me entregava aquela voz inteira.
 
-— Avisa a eles para carregarem até o teto — falei. — E que a Clara pegue a carga do Setor 9. Ela sabe com quem falar sem assustar ninguém.
+Apertei o botão de rebobinar. O zumbido agudo das engrenagens plásticas durou quinze segundos.
 
-Elias tirou do bolso o mapa protegido em plástico. No verso, a localização dos três trabalhadores da galeria ainda estava legível. Copiou a localização para outra folha e a entregou ao operador do rádio, para que pedisse ao pessoal do Setor 4 uma verificação quando houvesse acesso; guardou o mapa. Não sabíamos os nomes nem se uma equipe conseguiria chegar ao nicho. Depois ele foi até o rádio, poupando o tornozelo.
+Parei. Apertei o *PLAY*.
 
-Virei as costas para a cova.
+O estalo característico do cabeçote magnético soou no meu tímpano, seguido por um ruído de fundo ensurdecedor — o rugido dos maçaricos corporativos cortando a porta, o alarme de emergência da subestação uivando em dois tons e o chiar contínuo da alta tensão da antena.
 
-O joelho doeu quando forcei a perna direita na subida da rampa, e a pontada no braço fraturado me lembrou que a *Caronte* estava guardada com as coisas de Elena. Senti falta da voz de Aria, da maneira como discordava antes de me ajudar a enxergar a próxima esquina. Eu era um homem manco, com um braço preso na tipóia e gente demais para lembrar.
+Depois, a respiração de Elena.
 
-A pasta ainda existia. Eu não precisava aceitar o lugar que ela tinha reservado para mim.
+Curta. Quebrada por uma tosse molhada.
 
-Entrei no galpão.
+— Gabriel — a voz dela chegou como se ela estivesse sentada no banco do carona do velho *Cobalt*, numa daquelas noites chuvosas antes do colapso de tudo. — Se você está ouvindo isso, liguei a difusão e isolei a purga no quadro. Não sei quanto vai durar nem se funcionou em toda a linha. Peçam aos assentamentos que retransmitam e preservem as matrizes.
 
-A rotativa de Elena já estava ligada, batendo no seu ritmo surdo e honesto, *tchunc-tchunc-tchunc*, cuspindo as páginas que precisavam chegar aos assentamentos antes do meio-dia de amanhã.
+Ela tossiu, um som úmido e áspero que fez meu estômago revirar.
 
-Puxei o primeiro caderno ainda quente de tinta. Na capa, ao lado do número de admissões, estava a ressalva que Elena exigira. Passei o polegar pela frase até borrar uma letra.
+— Lado A — ela continuou, recobrando a postura profissional da repórter que nunca errou uma data de arquivo. — A frequência de retorno da chave mestra de Krell é nove-zero-dois ponto quatro. Os registros que separei no galpão indicam um repetidor ligado ao iate executivo no setor marítimo de Ponto Zero. Não confirmam que ele esteja a bordo. Está tudo registrado no minidisc dentro da coronha oca da *Caronte*. Leva isso para a Dra. Vance. Ela sabe como decodificar os contratos de concessão.
 
-Na primeira página, embaixo do índice, o retângulo do selo continuava vazio, e a linha miúda que Elena tinha mandado compor dizia: *certificação solicitada e recusada nesta data*. Meu irmão não assinou. Não fechou a estrada também. Era o mais perto de justiça que aquele papel ia chegar, e o papel saía assim mesmo, com o buraco no lugar da assinatura.
+O disco na coronha. Eu tinha visto aquilo entrar na arma, no galpão, e não tinha perguntado.
 
-Valéria entrou depois de mim. Trazia a caixa com o disco que Elena escondera na coronha.
+O som de metal sendo rasgado ecoou na fita. Uma nova rajada atingiu o painel perto do microfone. Elena gemeu; ela começara a gravar já ferida.
 
-— A doutora pode tentar ler isto quando terminar de registrar as fitas — disse. — Quero uma cópia de trabalho e o original lacrado. O repetidor pode apontar para um iate; não prova quem estava nele.
+Silêncio por cinco segundos intermináveis. Eu prendi a respiração, temendo que a gravação tivesse acabado ali.
 
-— Eu quero saber quem estava.
+Então, o estalo do interruptor. A respiração dela voltou, mais baixa agora, quase um sussurro contra a membrana plástica do gravador.
 
-— Eu também. Mas antes precisamos de alguém para examinar seu braço. A equipe do Setor 4 respondeu ao meu pedido; chega com os caminhões. — Ela colocou a caixa fora do alcance da tinta. — Eu vou ficar com os registros até a doutora poder conferir.
+— Lado B, Gabriel.
 
-Eu ia dizer que não havia tempo. Olhei a página outra vez, a letra borrada onde Elena tinha insistido numa distinção que eu queria pular. Assenti.
+A voz dela amoleceu. Perdeu a armadura de campo, perdeu a dureza das manchetes.
 
-Uma operadora da prensa parou ao meu lado com um bloco de anotações. Queria ouvir Val, os guardas e o abrigo do Setor 4 sobre Braga; depois ouviria a mim. Dei a ela o caderno dele e indiquei a caixa com a cinta e o registro da custódia. Ela anotou sem prometer o que publicaria.
+— Eu fui embora porque você usou meu nome sem me contar e depois quis escolher o risco por mim. Eu também tinha medo de ver você morrer devagar. As duas coisas eram verdade. Ter medo não fez de mim uma espectadora, Gabriel. Eu escolhi vir até aqui porque precisava transmitir aqueles nomes. Queria voltar.
 
-Do outro lado da mesa, o rádio chiou. Uma voz pediu a repetição do endereço onde podia encontrar os originais. Valéria pegou o microfone. Eu segurei o caderno aberto para ela ler.
+Uma pausa longa. O som do sangue pingando nas lajotas da sala.
+
+— Não carregue minha escolha como se tivesse sido uma ordem sua. A culpa pelo que fizeram com Baía Cinzenta não é sua. Isso não apaga o que você fez; você ainda tem que responder por isso. Você nunca foi o grupo de controle do Krell por escolha; você ainda pode decidir o que fazer com aquilo que eles registraram. Não deixa eles te transformarem num número de pasta. Você é o Gabriel Moretti. O homem que me beijava na balsa do cais e que não sabia mentir sobre o preço do pão.
+
+Sua voz vacilou, quase apagada pelo uivo final do banco de capacitores.
+
+— O cordão de latão... fica com ele. O número gravado atrás identifica nossa velha caixa postal; a chave está presa no bolso interno da jaqueta. Tem algumas cartas que eu escrevi quando achava que a gente ia envelhecer juntos. Guarda isso. Mas agora... quando o sol nascer, desliga o rádio, Gabriel. Enterra o que precisa ser enterrado. E vai viver.
+
+O mecanismo rodou em falso no final da fita plástica. *Clack.*
+
+O silêncio desceu sobre o fone.
+
+Tirei o fone do ouvido devagar. O vento entrava pela janela do jipe, trazendo o cheiro salgado do mar e da chuva.
+
+Aproximei minha mão do peito dela e desatei o cordão fino que prendia o pingente redondo de latão. O metal estava morno do sangue dela. Fechei os dedos ao redor da peça e apertei até que as bordas cortassem a palma da minha mão.
+
+Não gritei. Não quebrei nada.
+
+Apenas encostei minha testa contra a dela, ali no banco do jipe, sob a lona de resgate, e deixei as lágrimas lavarem a fuligem do meu rosto.

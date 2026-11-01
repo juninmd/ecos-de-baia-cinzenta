@@ -92,7 +92,7 @@ O Imperador acorda, manda subir oito Leviatãs, e a **Fase 2 nunca se completa**
 |---|---|
 | [x] | Fechar o destino dos oito Leviatãs — **feito no cap. 47**: um afunda reto no canal, outro encalha num banco de areia que não existia quando a Arca dormiu, e o que chega à Orla Norte sobe o aterro mancando com seis pernas boas e vazando óleo. Oito viram seis por decrepitude, sem que ninguém dispare um tiro |
 | [x] | Dar desfecho ao Arthur Vance — **feito no cap. 47/73**: ele nunca chega à cidade. Fala com Baía Cinzenta por transmissão, perguntando pelo filho Silas, e a Arca N.O.A. é vaporizada no cap. 73 por três hastes de tungstênio que o próprio Gabo redireciona |
-| [x] | **Cap. 235 — "Ponto Zero"** (10/10): o eco do 72, cobrado 161 capítulos depois. Elara encontra a transcrição das transmissões da Arca e descobre que o pai passou 96 dias fazendo chamada nominal para máquinas afundadas, com uma cápsula de ascensão operacional ao lado que ele nunca usou. E que **Gabo foi quem apertou** — sem saber que havia um homem no alvo. Ela se recusa a condená-lo (*"o senhor trocou quarenta mil por uma"*) e se recusa a aceitar a absolvição que o pai deixou na última linha |
+| [x] | **Cap. 236 — "Ponto Zero"** (10/10): o eco do 72, cobrado 161 capítulos depois. Elara encontra a transcrição das transmissões da Arca e descobre que o pai passou 96 dias fazendo chamada nominal para máquinas afundadas, com uma cápsula de ascensão operacional ao lado que ele nunca usou. E que **Gabo foi quem apertou** — sem saber que havia um homem no alvo. Ela se recusa a condená-lo (*"o senhor trocou quarenta mil por uma"*) e se recusa a aceitar a absolvição que o pai deixou na última linha |
 
 ### Bloco B — o arco do Dilúvio (caps. 33–66) — ✅ concluído
 

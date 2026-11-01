@@ -57,9 +57,9 @@
 
 | Personagem & Arco | Descrição & Localização | Imagem |
 | --- | --- | --- |
-| **Bia (Cap. 232)** | Na lanchonete confrontando Gabo com o inquérito forjado sob luz de neon. | ![Bia Confronto](/cenas/capitulo_232/cena_1.jpg) |
+| **Bia (Cap. 233)** | Na lanchonete confrontando Gabo com o inquérito forjado sob luz de neon. | ![Bia Confronto](/cenas/capitulo_233/cena_1.jpg) |
 | **Braga (Cap. 1)** | Nas docas de contêineres com macacão naval, crachá e chave de estiva pesada. | ![Braga Docas](/cenas/capitulo_1/cena_6.jpg) |
-| **Braga (Cap. 231)** | Postura defensiva tensa atrás de empilhadeira em armazém portuário escuro. | ![Braga Armazém](/cenas/capitulo_231/cena_4.jpg) |
+| **Braga (Cap. 232)** | Postura defensiva tensa atrás de empilhadeira em armazém portuário escuro. | ![Braga Armazém](/cenas/capitulo_232/cena_4.jpg) |
 | **Miranda (Cap. 10)** | Detetive parceiro na viatura sob chuva e poste com jaqueta de couro e revólver. | ![Miranda Detetive](/cenas/capitulo_10/cena_4.jpg) |
 | **Miranda (Cap. 105)** | Ciborgue grotesco com placas mecânicas e servomotores em ruínas subterrâneas. | ![Miranda Ciborgue](/cenas/capitulo_105/cena_4.jpg) |
 | **Jonas (Cap. 3)** | Capitão veterano no gabinete da Delegacia sob ventilador de teto e dossiês. | ![Jonas Gabinete](/cenas/capitulo_3/cena_5.jpg) |

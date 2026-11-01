@@ -1,151 +1,150 @@
 ---
-image: /cenas/capitulo_232/cena_1.jpg
-Título: A Conta Antiga
-Data In-Game: Terceira noite na Velha Baía
-Localização: Galpão de Impressão, Velha Baía
-Personagens Presentes: Gabo, Valéria, Elias, Elena, Dra. Elara Vance
+image: /cenas/capitulo_232/cena_4.jpg
+Título: O Homem no Portão
+Data In-Game: Terceira manhã na Velha Baía
+Localização: Galpão de Impressão e Pátio Externo, Velha Baía
+Personagens Presentes: Gabo, Valéria, Elias, Elena, Anselmo Braga, Dra. Elara Vance
 ---
 
-# Capítulo 232: A Conta Antiga
+# Capítulo 232: O Homem no Portão
 
-Enterramos o Duarte às quatro da tarde, num terreno atrás do galpão, porque não havia mais cemitério e nem quem administrasse um. A irmã dele chegou de Setor 9 no fim do dia. Tinha dezenove anos e veio a pé. Ficou olhando o monte de terra por muito tempo, e depois perguntou à Elena se o irmão tinha morrido fazendo alguma coisa importante, e a Elena disse que sim, e não era mentira, e mesmo assim eu tive que sair de perto. Fiquei no pátio até escurecer, olhando a marca que a cinta laranja deixou na grade.
+O primeiro corpo apareceu antes do café. Não era um corpo de guerra. Eu já vi guerra. Corpo de guerra é feio de um jeito apressado — o tiro que pegou onde deu, a queda que torceu o que torceu. Aquilo ali era o oposto: era um corpo **arrumado**. O rapaz tinha uns vinte e cinco anos e trabalhava numa das prensas da Elena. Chamava-se Duarte Falcão. Estava sentado, encostado no portão de grade do pátio, com as pernas esticadas e as mãos no colo, e alguém tinha fechado os olhos dele com cuidado. Do peito para baixo, uma cinta de carga de poliéster laranja passava três voltas em torno dele e da grade, prendendo os dois. E no lado direito, na altura das costelas, havia uma catraca de aço — dessas de amarrar contêiner em navio, que qualquer estivador do Porto Velho sabe usar de olhos fechados. O roquete estava travado no último dente.
 
-O cheiro não saía. Não era o do rapaz — era o **dele**: sabão industrial e água parada, um odor de lavanderia de presídio que ficou grudado no ferro do portão e que o vento do canal não levava. Cada vez que a brisa virava, vinha de novo, azedo e limpo ao mesmo tempo, e o gosto disso descia pela garganta e assentava como moeda velha na língua. Ao longe, as prensas continuavam batendo. *Tchunc-tchunc-tchunc.* O mundo imprimindo a acusação de um homem enquanto o filho de outra mulher jazia debaixo da terra recém-virada. A Elena veio quando as prensas pararam. Sentou no cascalho, do meu lado, com dois copos e uma garrafa de alguma coisa que tinha sido uísque em outra vida. Serviu os dois. Não me entregou o meu; deixou no chão, ao meu alcance.
+— Compressão torácica progressiva, — Valéria disse, agachada ao lado. — Há marcas compatíveis com aperto da cinta. Só daqui eu não sei a duração nem a sequência.
 
-— Fala.
+Elias virou de costas e vomitou no cascalho.
 
----
+— Ele estava consciente? — perguntei.
 
-E eu falei.
+— Não consigo afirmar. Vou registrar o que encontramos antes de tirar a cinta. Elena chegou correndo, viu, e parou. Não gritou. Ficou muito quieta, do jeito que ela fica.
 
-— Barraco setenta e um. Vinte e três de agosto. Eu era o policial de plantão e cheguei quarenta minutos depois do chamado. Peguei o copo. Não bebi.
+— Duarte, — ela disse. — Ele operava a rotativa. Tinha uma irmã em Setor 9.
 
-— A Cleuza Braga estava no chão da cozinha, entre o fogão e a mesa. Trinta e quatro anos. Ele tinha usado uma chave de grifo de vinte e quatro polegadas, dessas de encanador, e depois sentou na cadeira e esperou a viatura chegar. Nem lavou a mão.
+E foi aí que eu vi o papel. Estava dobrado em quatro e enfiado no bolso do peito do rapaz, com uma pontinha para fora, exatamente no ângulo em que alguém deixa quando quer que seja encontrado. Letra de fôrma, caprichada, feita com lápis e régua invisível.
 
-— Ele confessou na hora?
+"Este não devia. Peço desculpas à família. Vim pelo Sr. Gabriel Moretti e ele não estava no portão. Voltarei às onze. — A. Braga."
+Li três vezes. Elena olhou por cima do meu ombro.
 
-— Confessou três vezes. Na cozinha, na viatura e na delegacia. — Tomei um gole. Ardeu como querosene. — E aí veio a enchente de setembro. O depósito de perícia do Distrito Baixo ficou com um metro e meio de água por três dias. Perdemos duzentos e onze processos. O dele foi um.
-
-— A confissão não valia?
-
-— A defesa contestou como foi colhida, e o juiz desconsiderou aqueles depoimentos. Eu li a decisão como se ela me desse licença para fabricar o que faltava. — Dei de ombros com o ombro que ainda funciona. — Sobrou a vizinha. Dona Zélia, do setenta e três, que viu ele entrar com a chave de grifo na mão. Ela ia depor.
-
-— E?
-
-— O Sindicato controlava a vila. Alguém explicou pra ela como funcionava. Ela voltou atrás na véspera, disse que tinha se confundido, que era outro homem, que estava escuro. — Olhei para o copo. — E aí não sobrou nada. Nem prova material, nem confissão válida, nem testemunha. Ele ia sair em quinze dias, Elena. Um homem que matou a esposa com uma chave de grifo ia sair andando e voltar para a mesma vila onde estava a filha de quatro anos dele.
-
-— Então você plantou a faca.
-
-— Então eu plantei a faca. Falar em voz alta foi mais fácil do que eu imaginei em catorze anos de ensaio, e isso me deixou pior.
-
-— Peguei uma faca de cozinha da casa dele, do escorredor, na noite da perícia. Passei nela o sangue do laudo velho, que ainda estava na câmara fria porque o depósito de amostras ficava no segundo andar e o segundo andar não alagou. Coloquei na caixa d'água. E na segunda busca eu mandei o perito subir no telhado.
-
-— Você mandou o perito subir no telhado.
-
-— Eu disse que era procedimento padrão em barraco de laje. — Ri, e o som saiu horrível. — Não é. Era o jeito de fazer uma busca parecer rotina quando eu já sabia onde a peça ia estar.
-
-Elena ficou olhando para a frente.
-
-— Quantos anos ele pegou?
-
-— Vinte e dois. Cumpriu catorze.
+— Gabo. Quem é A. Braga? E a minha boca ficou seca de um jeito que não tinha nada a ver com febre.
 
 ---
 
-Ela demorou muito para falar de novo.
+Ele chegou às onze em ponto. Não pela estrada, onde a Valéria tinha posicionado o único ponto de observação que a gente conseguiu montar. Veio pelo canal de drenagem, a pé, com água pela canela, e subiu o barranco devagar, do jeito de quem já subiu muito barranco e sabe que pressa é o que quebra tornozelo. Parou a vinte metros do portão. Ficou lá. Um homem enorme. Não gordo — **grande**, com uma armação de ombros que devia ter tido cento e vinte quilos em cima um dia, e agora tinha uns oitenta. A pele sobrava. Macacão azul-marinho de estivador, desbotado até quase branco nos joelhos. Botas de biqueira. Cabeça raspada à máquina, com uma cicatriz atravessando o topo do crânio como uma costura mal feita. Nas mãos, nada. As mãos, aliás, eram a pior parte: os dedos tortos, os nós inchados e brancos, a direita meio fechada de um jeito que não abria mais. Ele levantou a mão esquerda. Aberta. Devagar.
 
-— Gabo, eu preciso perguntar uma coisa e você vai odiar a pergunta.
+— Bom dia, — ele disse. E a voz saiu baixa, razoável, educada. Uma voz de balcão de repartição. — O senhor é o Sr. Gabriel Moretti?
 
-— Pergunta.
+Valéria já estava com a *Caronte* no ombro, mira travada no peito dele.
 
-— Você fez isso outras vezes? E essa foi a que doeu.
+— Sou.
 
-— Não. — Olhei para ela. — Uma vez. Uma vez só, em quatorze anos de polícia, e eu escolhi bem, e é isso que torna a coisa pior.
+— Anselmo Braga. — Ele apontou para si mesmo com dois dedos, como quem se identifica numa fila. — O senhor não vai lembrar de mim de cara. Faz catorze anos e eu era mais gordo.
 
-— Por que pior?
+— Eu lembro. Alguma coisa mudou no rosto dele. Não foi sorriso. Foi alívio.
 
-— Porque se eu tivesse feito trinta vezes, eu seria um policial corrupto e a conta seria simples. — Bebi o resto. — Eu fiz uma vez, num caso em que eu tinha certeza absoluta, contra um homem que confessou três vezes e era culpado sem sombra de dúvida. Se existe alguma vez em que valia a pena, era essa. Era o melhor caso possível para se cruzar aquela linha.
-
-Deixei o copo no chão.
-
-— E olha onde a gente está.
+— Ah. — Ele assentiu devagar. — Isso ajuda. Eu tinha um discurso pro caso do senhor não lembrar, e era um discurso ruim.
 
 ---
 
-— A Bia descobriu, — Elena disse. Não era pergunta.
+— O senhor matou um rapaz meu, — falei.
 
-— A Bia era boa. Boa de verdade, não boa de discurso. — Fechei os olhos. — Ela pegou o inquérito nove anos depois, num arquivamento de rotina, e viu que o laudo de exame da faca tinha sido registrado dois dias antes da apreensão oficial dela. Um erro de dois dias que ninguém nunca ia notar, porque ninguém lê inquérito arquivado.
+— Matei. — Sem hesitar. — Duarte Falcão, vinte e seis anos, operador de prensa. Não tinha dívida comigo. Eu precisava que o senhor viesse ao portão e não sabia outro jeito de mandar recado. — Ele inclinou a cabeça um grau. — Foi errado e eu vou pagar por isso também. Mas eu tinha que fazer.
 
-— Ela te confrontou.
+— *"Tinha que fazer."*
 
-— Numa lanchonete na Rua Ferrugem, com o inquérito em cima da mesa, entre o café dela e o meu. — Eu conseguia ver a mesa. Ainda consigo. — Ela não gritou. A Bia nunca gritava. Ela disse: *"Você tem uma semana para levar isso à Corregedoria. Se você levar, eu vou com você e eu falo por você."*
+— Sim, senhor.
 
-— E você não levou.
+— Você amarrou um menino numa grade e foi apertando o roquete. De quanto em quanto tempo?
 
-— Eu não levei.
+— Vinte, — ele corrigiu, sem defesa nenhuma na voz, como quem corrige um número numa nota fiscal. — Foi de vinte em vinte. Eu não gosto de fazer rápido, porque rápido é raiva, e raiva erra. Eu não erro.
 
-— Por quê?
+Elias fez um som atrás de mim. Braga olhou para ele. Depois para a Elena. Depois para a Valéria e a arma. Depois para a Dra. Vance na cadeira de aço, na sombra do galpão. Um por um, com atenção. Contando.
 
-— Porque eu tinha razão. — A palavra saiu como pedra. — Porque o homem era culpado, Elena, e ele ia sair, e a filha dele estava naquela vila, e eu passei a semana inteira construindo o argumento de que estar certo é mais importante que estar limpo. E no sétimo dia eu tinha o argumento pronto e ele era perfeito e eu acreditei nele.
+— A senhora da cadeira eu não conheço, — ele disse. — A moça das lentes eu não conheço. O rapaz de macacão não deve nada. A jornalista... — ele parou. — A jornalista é a ex-esposa do senhor?
 
-— E ela terminou com você.
+— Não responde, — falei para a Elena, sem virar.
 
-— Ela terminou comigo. — Engoli. — E seis meses depois o Miranda matou ela num galpão, e todo mundo, incluindo eu, passou cinco anos achando que o que quebrou o Gabriel Moretti foi a morte da Bia.
+— Não precisa responder, — disse Braga. — Já respondeu. — E anotou alguma coisa num caderninho de bolso, com um lápis pequeno, apoiando na coxa. Eu senti o gelo descer.
 
-Olhei para a Elena.
+— Você não vai encostar em nenhum deles.
 
-— Não foi. O que quebrou foi ela ter morrido antes de eu ter a chance de fazer a coisa certa. Enquanto ela estava viva, eu adiava para um dia em que ela fosse comigo. Quando ela morreu, eu usei a morte dela como desculpa para continuar calado. E aí eu tive que virar o cara que estava certo, para sempre, porque a alternativa era ser o cara que perdeu a mulher e mentiu.
+— Espero não precisar, Sr. Moretti. Eu não vim por eles. — Ele guardou o caderninho. — Eu vim pelo senhor. Mas eu já aprendi que homem como o senhor não para por ameaça e não vem por convite. Homem como o senhor só vem quando a conta chega em quem ele protege.
 
----
+Ele falou aquilo do mesmo jeito que falou "bom dia".
 
-A Valéria apareceu na porta do galpão. Ficou lá, sem entrar, com aquela imobilidade absoluta.
-
-— Você ouviu tudo, — falei.
-
-— Ouvi.
-
-— E?
-
-— Estou processando a implicação operacional.
-
-— Fala em português, Val. Ela entrou. Parou a dois metros.
-
-— Eu revi meus registros dos meses em que estivemos juntos com essa informação nova, — ela disse. — Em onze ocasiões você recusou atalhos que teriam salvado tempo e reduzido risco. Eu classifiquei essas recusas como ineficiência moral e as registrei como custo. — Uma pausa. — Talvez você estivesse evitando repetir isso. Eu não tinha essa informação quando registrei as recusas.
-
-Eu não tinha resposta.
-
-— Isso muda a sua avaliação sobre mim?
-
-— Muda o modelo, não a avaliação. — Nenhuma inflexão. — Você é mais previsível do que eu calculava, e mais caro. Ambos são úteis de saber. Ela olhou para o portão. Para a marca da cinta na grade.
-
-— O problema tático permanece o mesmo. Braga anunciou um prazo e ameaçou Elias. Precisamos de vigilância, abrigo para os trabalhadores e um lugar de custódia. Não vou tratar a ameaça dele como prova de que nada disso pode funcionar. Amanhã às onze ele cobra do Elias.
-
-— Eu sei.
-
-— Você vai ao portão.
-
-— Vou.
-
-— A probabilidade de você resolver isso sem matá-lo é—
-
-— **Não me diz o número.** Ela fechou a boca.
+— Então eu vou cobrar de quem estiver ao lado do senhor, um por vez, até o senhor sentar comigo e conversar até o fim. Não é ameaça. É cronograma.
 
 ---
 
-A Dra. Elara Vance falou do escuro, e eu tinha esquecido que ela estava ali.
+— Que conta? — Elena perguntou.
 
-— Inspetor.
+Ela deu um passo à frente, e eu tentei segurar o braço dela e não consegui, porque o meu direito estava quebrado na tipóia. Braga olhou para ela com um respeito que era pior que desprezo.
 
-— Doutora. A cadeira de aço rangeu quando ela se aproximou até a beira da luz.
+— A senhora não sabe.
 
-— O senhor passou dois dias me olhando como quem olha lixo, — ela disse. — Porque eu assinei um memorando dizendo que uma coisa indefensável devia ser feita em escala, já que ia ser feita de todo jeito.
+— Eu estou perguntando.
 
-— Doutora, agora não.
+— Vinte e três de agosto, catorze anos atrás. — Ele falou a data como quem recita placa de carro decorada. — Barraco setenta e um, Vila do Porto Velho. Eu discuti com a minha mulher, a Cleuza, e eu bati nela com o que tinha na mão, e ela morreu no chão da cozinha enquanto eu ainda estava com a mão erguida.
 
-— Agora exatamente. — A voz dela não subiu, mas ficou dura. — O senhor plantou uma faca porque tinha certeza. Eu recomendei escala porque tinha certeza. Nós dois olhamos para uma regra, achamos que sabíamos mais que ela, e cobramos a diferença dos outros.
+Silêncio absoluto no pátio.
 
-Ela deixou aquilo assentar.
+— Eu fiz isso, — disse Braga. — Isso é verdade. Eu nunca neguei, nem na delegacia, nem no júri, nem nos catorze anos. Podem escrever no jornal da senhora.
 
-— A única distinção entre nós é a quantidade de zeros. E eu, ao contrário do senhor, não passei catorze anos fingindo que a distinção era de natureza. Elena olhou para mim. Eu não consegui olhar para ela.
+— Então o senhor foi preso, — disse Elena. — O sistema funcionou.
 
-— O senhor vai ao portão amanhã, — a Vance continuou. — E vai encontrar um homem que construiu a vida inteira em cima de uma frase verdadeira. Não subestime isso, inspetor. Gente com uma frase verdadeira é a coisa mais difícil de matar que existe.
+— Não, senhora. Ele virou os olhos pequenos e parados para mim.
+
+— A perícia se perdeu na enchente daquele ano. A única testemunha era a vizinha e ela voltou atrás com medo do Sindicato. Não sobrou prova nenhuma. Eu ia sair em quinze dias e eu sabia disso, e o Sr. Moretti sabia disso.
+
+Ele apontou para mim com o queixo. Sem raiva.
+
+— Aí apareceu uma faca na caixa d'água do barraco, com o sangue dela, que não estava lá quando eu fui levado. O ar sumiu do pátio.
+
+— Gabo, — Elena disse. Baixinho. — Isso é verdade?
+
+Eu não respondi. E não responder foi responder, e eu vi o rosto dela mudar, e eu preferia ter levado um tiro.
+
+---
+
+— Eu não estou aqui reclamando de injustiça, — Braga continuou, e agora a voz dele estava até mais gentil, o que era insuportável. — Eu era culpado. A cadeia era minha por direito. Se o senhor tivesse trabalhado mais um mês e achado prova de verdade, eu não teria nada a dizer, e eu não estaria neste pátio.
+
+Ele deu um passo à frente. Valéria travou o dedo no gatilho e eu levantei a mão para ela esperar.
+
+— O que eu tenho a dizer é outra coisa, Sr. Moretti, e é uma coisa só, e eu esperei catorze anos para dizer na cara do senhor.
+
+Mais um passo.
+
+— Nós dois quebramos a mesma lei. Ele parou.
+
+— Eu matei uma pessoa. O senhor forjou um inquérito. São crimes diferentes de tamanho, eu sei, e eu não vim comparar tamanho. — A mão torta dele se levantou, e ele contou nos dedos, devagar, dois dedos. — Eu vim comparar o resto. Porque eu paguei catorze anos, e o senhor virou herói da cidade.
+
+— Você matou sua mulher.
+
+— Matei. — Assentiu. — E o senhor mentiu num documento oficial para me prender por isso, e depois foi dormir, e continuou dormindo por catorze anos, e nunca contou pra ninguém. — Ele inclinou a cabeça. — Nem pra moça que descobriu, não é? A policial. Aquela que morreu.
+
+Eu parei de respirar.
+
+— Como é que você sabe da Bia?
+
+— Cadeia é cheia de gente com tempo, Sr. Moretti. E o senhor tem inimigos que gostam de falar. — Ele deu de ombros, e o gesto foi quase simpático. — Ela terminou com o senhor por causa disso, não foi? Não foi por o senhor ser violento. Foi porque ela leu o meu inquérito e viu a data errada.
+
+---
+
+Eu andei até o portão. Passei por cima do Duarte sem olhar, porque olhar ia me quebrar e eu não podia quebrar ali. Parei a três metros dele. Perto o suficiente para sentir o cheiro — sabão industrial e água parada, o cheiro de catorze anos de lavanderia de presídio, o tipo de cheiro que não sai mais da pessoa.
+
+— O que você quer, Braga. E ele me respondeu com uma paciência que eu vou ouvir pelo resto da vida:
+
+— Eu quero que o senhor faça comigo o que fez com todo mundo, Sr. Moretti. — Ele abriu os braços, devagar, a esquerda inteira e a direita meio fechada. — Sem lei, sem processo, sem prova. Do jeito que o senhor gosta.
+
+— Você quer que eu te mate.
+
+— Eu quero que o senhor **descubra** que sempre pôde. — Os olhos pequenos não piscaram nem uma vez. — E que a única coisa que separava o senhor de mim era a sorte de a cidade te chamar de detetive.
+
+Ele recuou um passo. Depois outro. Sem tirar os olhos.
+
+— Amanhã às onze eu volto, — disse. — E se o senhor não estiver no portão, eu vou cobrar do rapaz de macacão, que não deve nada, e a culpa vai ser minha e do senhor em partes iguais.
+
+Ele desceu o barranco de costas até chegar na água.
+
+— Tenha um bom dia, senhora, — falou para a Elena, com a cabeça baixa. — Sinto muito pelo seu funcionário.
+
+E foi embora pelo canal, com a água pela canela, sem pressa nenhuma, como um homem indo para o turno.

@@ -2,7 +2,7 @@
 
 ![Anselmo Braga](/personagens/braga.png)
 
-* **Status:** Morto 232, executado rendido por Gabo. Antagonista pessoal independente; ameaça Elias após matar Duarte 229. A possibilidade de custódia comunicada 231 foi recusada por Gabo, cuja decisão a imprensa registra.
+* **Status:** Morto 235, executado rendido por Gabo. Antagonista pessoal independente; ameaça Elias após matar Duarte 232. A possibilidade de custódia comunicada 234 foi recusada por Gabo, cuja decisão a imprensa registra.
 * **Alcunha:** "O Justo" — como ele mesmo se chama, e sem nenhuma ironia.
 * **Idade:** 57 anos
 * **Altura:** 1,96 m
@@ -26,19 +26,25 @@ Catorze anos antes do Capítulo 1, Anselmo Braga matou a própria esposa numa di
 
 Gabo plantou a prova. Uma faca com sangue, colocada onde a busca ia achar. Ele sabia que Braga era culpado, sabia que ia sair, e decidiu que a verdade valia mais que o procedimento.
 
-**Foi essa a linha que Beatriz Vargas descobriu.** Não foi a violência genérica, não foram os dentes quebrados: foi um inquérito forjado. Ela deu a Gabo uma semana para se entregar à Corregedoria. Ele não se entregou. Ela terminou o namoro seis meses antes de morrer, e morreu antes de decidir o que fazer com o que sabia. **Gabo evitou contar a fraude inteira, inclusive nas sessões de Weiss; a confissão registrada ocorre no capítulo 232.**
+**Foi essa a linha que Beatriz Vargas descobriu.** Não foi a violência genérica, não foram os dentes quebrados: foi um inquérito forjado. Ela deu a Gabo uma semana para se entregar à Corregedoria. Ele não se entregou. Ela terminou o namoro seis meses antes de morrer, e morreu antes de decidir o que fazer com o que sabia. **Gabo evitou contar a fraude inteira, inclusive nas sessões de Weiss; a confissão registrada ocorre no capítulo 233.**
 
-Braga entrou no Fosso com uma filha de quatro anos, **Marta**, que ficou com uma tia. Saiu catorze anos depois, quando as portas do presídio cederam, três meses antes do encontro no capítulo 233. No Setor 11, um vizinho lhe contou que Marta morrera no Dilúvio aos dezoito, num abrigo superlotado e fechado por fora. O destino chega por esse relato; a fraude policial não diminui a responsabilidade dele pela morte de Cleuza.
+Braga entrou no Fosso com uma filha de quatro anos, **Marta**, que ficou com uma tia. Saiu catorze anos depois, quando as portas do presídio cederam, três meses antes do encontro no capítulo 234. No Setor 11, um vizinho lhe contou que Marta morrera no Dilúvio aos dezoito, num abrigo superlotado e fechado por fora. O destino chega por esse relato; a fraude policial não diminui a responsabilidade dele pela morte de Cleuza.
 
 Ainda preso, no mês do Dilúvio, soube por um agente chamado Peçanha que o detetive também perdera a mãe naquela enchente. A conversa não ocorreu anos antes: Helena morreu durante os acontecimentos da série. Não identificar automaticamente esse agente com o tenente Aldo Peçanha do enclave de Vilar.
 
 **É por isso que ele é insubstituível na história:** Braga é o único antagonista que não pertence à lore corporativa da Aeterna. Ele cobra de Gabo, de homem para homem, os catorze anos que uma prova forjada tirou dele e da filha.
 
+### 📓 O caderninho (Livros 1-4)
+
+* **Nove mortes no total:** Duarte Falcão, marcado "este não devia", e oito nomes a decifrar (246). Nina cobra os oito outros (246, 251).
+* **A cifra:** é de turno, no formato de cartório. A primeira entrada é "A.T., 14 de março" (246). Em 253, cinco dos oito estão decifrados (iniciais, datas, dois escrivães e um guarda); três ainda não têm iniciais.
+* **A primeira entrada:** A.T. é Antônio Teixeira, escrivão do fórum de Baía Cinzenta, caso 2042, morto em 14 de março. É a primeira porta da pena de Gabo (256).
+
 ### ⚠️ Regras de uso (não violar)
 
 1. **Ele nunca corre e nunca grita.** Se uma cena tem Braga correndo ou perdendo a paciência, a cena está errada.
 2. **A conta dele não é justiça.** Mata Duarte Falcão mesmo admitindo que o operador não tinha dívida: usa a morte como recado para Gabo. A polidez e a confissão não tornam seu método coerente com inocência de terceiros nem desculpam o homicídio de Cleuza.
-3. **Ele pode ser contido.** Há vigilância voluntária e oferta de transferência para custódia comunitária em 231/232. A precariedade cobra recursos e espera; não torna inevitável a execução. Preservar a alternativa que Gabo recusa.
+3. **Ele pode ser contido.** Há vigilância voluntária e oferta de transferência para custódia comunitária em 234/235. A precariedade cobra recursos e espera; não torna inevitável a execução. Preservar a alternativa que Gabo recusa.
 4. **Ele não tem ligação com a Aeterna.** Nunca o use como agente de Krell, nem deixe Krell mandar nele. O valor dele é justamente estar fora do tabuleiro.
 5. **A morte dele tem que ser escolha deliberada de Gabo**, não legítima defesa. Se for acidente ou luta justa, o personagem foi desperdiçado.
 

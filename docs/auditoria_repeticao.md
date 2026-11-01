@@ -6,7 +6,7 @@
 
 ## Expressões repetidas
 
-- **que nao tinha nada a ver com** — 4 capítulos: cap 41, cap 140, cap 220, cap 231
+- **que nao tinha nada a ver com** — 4 capítulos: cap 41, cap 140, cap 220, cap 232
 - **o pendrive blindado de titanio da aria** — 4 capítulos: cap 90, cap 96, cap 97, cap 118
 - **que nada tinha a ver com a** — 4 capítulos: cap 103, cap 125, cap 127, cap 218
 - **de valeria o pendrive blindado de aria** — 4 capítulos: cap 134, cap 153, cap 161, cap 166

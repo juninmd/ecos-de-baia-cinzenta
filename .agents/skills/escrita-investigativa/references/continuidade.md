@@ -9,7 +9,7 @@ linhas de evolução. `docs/arcos.md` organiza o desenho do livro. Consulte tamb
 
 Resumos não têm necessariamente a mesma data de atualização. No estado examinado
 em 2026-10-20, `GEMINI.md` contém uma tabela intitulada pós-capítulo 111 que também
-inclui a morte de Elena no 235, além de descrições divergentes da fase de Valéria.
+inclui a morte de Elena no 239, além de descrições divergentes da fase de Valéria.
 Não transforme a posição de um parágrafo ou a palavra "atual" em regra temporal.
 
 Quando houver conflito, registre as duas afirmações e suas passagens; confira a
@@ -49,7 +49,7 @@ o personagem e a prosa não podem conhecer esse futuro.
   devolver a assistente ativa ao grupo sem uma mudança canônica expressamente autorizada.
 - Bio-Dante não equivale ao Dante original. Verificar limites de memória e fatos
   que ele teve oportunidade de aprender, em vez de lhe dar conhecimento universal.
-- Elena tem um destino registrado nos capítulos 237–239. Uma revisão anterior
+- Elena tem um destino registrado nos capítulos 238–240. Uma revisão anterior
   não a trata como morta antes do acontecimento; uma continuação posterior não
   a põe agindo viva no presente. Memória, gravação e flashback precisam ser legíveis.
 

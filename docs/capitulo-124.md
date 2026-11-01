@@ -48,7 +48,7 @@ Ele levou a mão ao peito e agarrou o *Colar de Sol* sob a camisa. Apertou o met
 
 — Alguns índices estão cruzados — disse Valéria. — Há registros recebidos da usina junto dos arquivos de origem e do histórico de Aria. Não sei se ela consegue acessá-los ou como vai reconhecê-los.
 
-O cilindro aberto na morsa mostrava os circuitos expostos. Valéria não desviava os olhos deles.
+O cilindro aberto na morsa mostrava os circuitos expostos. Valéria não desviava os olhos deles. No canto do monitor, por cima do ombro dela, Gabo viu uma segunda janela: pulso de manutenção, 902.4 MHz, um estalo a cada quatro segundos, origem no nível do tanque. Ela a fechou, anotou o número num pedaço de papel e o dobrou duas vezes. Nenhuma equipe confirmara a retirada do corpo.
 
 — Se eu fechar o curto e reinicializar o pendrive agora, pode ser que a assistente tática suba. Ou pode reproduzir arquivos que não são a voz dela. Essa é a nossa dívida.
 

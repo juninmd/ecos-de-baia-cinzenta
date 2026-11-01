@@ -1,19 +1,13 @@
 """Elenco de vozes: cada personagem fala sempre com a mesma voz (edge-tts, grátis)."""
 from typing import Dict, Optional, Tuple
 
-# Voz fixa para os principais — a identidade sonora é tão canônica quanto a visual.
-ELENCO: Dict[str, Tuple[str, str, str]] = {
-    "Gabriel \"Gabo\" Moretti": ("pt-BR-AntonioNeural", "-8%", "-6Hz"),
-    "Valéria \"Val\" Cruz": ("pt-BR-FranciscaNeural", "+6%", "+8Hz"),
-    "Elena Moretti": ("pt-BR-ThalitaMultilingualNeural", "+0%", "+0Hz"),
-    "Aria": ("pt-BR-ThalitaMultilingualNeural", "-4%", "-12Hz"),
-    "Aria Moretti": ("pt-BR-ThalitaMultilingualNeural", "-4%", "-12Hz"),
-    "Aria Moretti (Unidade Autônoma)": ("pt-BR-ThalitaMultilingualNeural", "-4%", "-12Hz"),
-    "Inspetor Rangel": ("pt-PT-DuarteNeural", "+0%", "+6Hz"),
-    "Diretor Dantas": ("en-US-BrianMultilingualNeural", "-10%", "-10Hz"),
-    "Capitão Jonas Vilar": ("en-US-AndrewMultilingualNeural", "-6%", "-4Hz"),
-    "O Taxidermista (Alvo Prioritário #1)": ("it-IT-GiuseppeMultilingualNeural", "-14%", "-16Hz"),
-}
+from scripts.daily_telegram.elenco import CASTING
+
+# Voz fixa por personagem: a identidade sonora é tão canônica quanto a visual (elenco.py).
+ELENCO: Dict[str, Tuple[str, str, str]] = {nome: v[:3] for nome, v in CASTING.items()}
+for _alias in ("Aria Moretti", "Aria Moretti (Unidade Autônoma)"):
+    ELENCO[_alias] = ELENCO["Aria"]
+ELENCO["O Taxidermista (Alvo Prioritário #1)"] = ELENCO["O Taxidermista"]
 
 NARRADOR = ("pt-BR-AntonioNeural", "-6%", "-4Hz")  # Gabo narra em primeira pessoa
 

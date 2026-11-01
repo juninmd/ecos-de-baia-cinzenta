@@ -29,4 +29,4 @@ def test_catalogo_lista_individualmente_o_casal_rossi():
     rows = re.findall(r"^\| ([^|]+) \| ([^|]+) \|$", catalog, re.M)
     names = {name.strip() for name, _ in rows}
     assert {"Enzo Rossi", "Sofia Rossi", "Gabriel «Gabo» Moretti", "Valéria «Val» Cruz"} <= names
-    assert len(rows[2:]) == 36  # O casal tem duas linhas, além das 34 fichas individuais.
+    assert len(rows[2:]) == 40  # O casal tem duas linhas, além das 38 fichas individuais.

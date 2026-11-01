@@ -38,10 +38,10 @@ export default {
             text: 'Parte XXIV: A Rubrica',
             collapsed: true,
             items: [
-  { text: 'Capítulo 228: A Mulher de Fora', link: '/capitulo-228' }, { text: 'Capítulo 229: O Estagiário', link: '/capitulo-229' }, { text: 'Capítulo 230: O Grupo de Controle', link: '/capitulo-230' },
-  { text: 'Capítulo 231: O Homem no Portão', link: '/capitulo-231' }, { text: 'Capítulo 232: A Conta Antiga', link: '/capitulo-232' }, { text: 'Capítulo 233: Catraca', link: '/capitulo-233' },
-  { text: 'Capítulo 234: O Justo', link: '/capitulo-234' }, { text: 'Capítulo 235: Ponto Zero', link: '/capitulo-235' }, { text: 'Capítulo 236: Fé Pública', link: '/capitulo-236' }, { text: 'Capítulo 237: O Fio Cortado', link: '/capitulo-237' },
-  { text: 'Capítulo 238: O Lado B', link: '/capitulo-238' }, { text: 'Capítulo 239: A Terra Vermelha', link: '/capitulo-239' },
+  { text: 'Capítulo 228: A Mulher de Fora', link: '/capitulo-228' }, { text: 'Capítulo 229: O Estagiário', link: '/capitulo-229' }, { text: 'Capítulo 230: O Grupo de Controle', link: '/capitulo-230' }, { text: 'Capítulo 231: O Número que Falta', link: '/capitulo-231' },
+  { text: 'Capítulo 232: O Homem no Portão', link: '/capitulo-232' }, { text: 'Capítulo 233: A Conta Antiga', link: '/capitulo-233' }, { text: 'Capítulo 234: Catraca', link: '/capitulo-234' },
+  { text: 'Capítulo 235: O Justo', link: '/capitulo-235' }, { text: 'Capítulo 236: Ponto Zero', link: '/capitulo-236' }, { text: 'Capítulo 237: Fé Pública', link: '/capitulo-237' }, { text: 'Capítulo 238: O Fio Cortado', link: '/capitulo-238' },
+  { text: 'Capítulo 239: O Lado B', link: '/capitulo-239' }, { text: 'Capítulo 240: A Terra Vermelha', link: '/capitulo-240' },
             ]
           },
         ]

@@ -26,6 +26,11 @@
 * **Capítulo 220:** Ao respirar ar filtrado pela primeira vez em catorze meses, senta no chão e chora sem vergonha nenhuma. É o primeiro gesto humano espontâneo do arco — e serve de contraste direto com o Modo de Segurança de Valéria.
 * **Capítulo 224 (A Escolha) — o ponto alto dele:** Encontra sozinho um elevador de serviço funcional até a superfície e monta a fuga: mochila, água, lanterna de dínamo, rota planejada. Fica com o dedo no botão e **não aperta** — não por heroísmo, mas porque descobre que não sobrou ninguém lá em cima para quem contar, e que os únicos dois seres que confirmam sua sanidade estão morrendo oitocentos metros abaixo. Aperta o botão de **descer**. Gabo lhe diz, pela única vez no livro, o que pensa de verdade sobre coragem.
 * **Capítulos 225-227:** Gira a segunda chave do berço de Elara (sem ele, ela nunca acorda — ele *é* o teste que ela projetou). Faz o trabalho de dois homens no carregamento do arquivo, segura a cabeça de Gabo enquanto Valéria serra as travas da armação de aço presa ao osso fraturado falando besteira no ouvido dele para dar-lhe uma voz humana, e é o primeiro a sair da cápsula na Velha Baía.
-* **Atualidade:** Vivo, na superfície, sem nada além do que carrega — e é o único dos quatro que ainda funciona como pessoa normal.
+* **Capítulo 242:** Lê a Carta em voz alta na mesa da prensa, porque o Art. 2 manda. Treme tanto que as palavras chegam em pedaços.
+* **Capítulos 245-246:** Mantém o rádio de ondas curtas aberto e ouve Brito pedir o salvo-conduto. Decifra com Valéria a cifra de turnos do caderninho de Braga.
+* **Capítulo 247:** Dirige o caminhão do Setor 4 até o cais. Recebe a Glock de Gabo e a guarda no porta-luvas, tremendo.
+* **Capítulos 253-254:** Cinco dos oito nomes do caderninho estão decifrados (iniciais, datas, dois escrivães e um guarda); três ainda não têm iniciais (253). Mantém o rádio aberto no saguão, sem sair da cabine.
+* **Capítulos 255-256:** No patamar do Arcádia, vê o iate sair. Em 256 espera no caminhão, a duas quadras da casa da viúva: "Alguém tem que lembrar onde o carro está."
+* **Atualidade:** Vivo, na superfície, sem nada além do que carrega — e é o único dos quatro que ainda funciona como pessoa normal. Em 256 segue vivo e aguarda no caminhão do Setor 4.
 
 ---

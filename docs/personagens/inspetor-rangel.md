@@ -23,6 +23,6 @@
 * **Capítulo 107:** Testemunha o retorno de Dante, que reativa sua máquina de escrever elétrica e os sistemas da delegacia.
 * **Capítulo 108:** Torna-se o braço direito executivo de Dante, sobrecarregado pela velocidade de processamento do novo Comandante.
 * **Capítulo 112:** Abandona o distintivo e foge para o subsolo com a resistência. Torna-se fugitivo procurado pela Aeterna.
-* **Atualidade:** Falecido 150. Ferimento no ombro, cuidados tentados por Nise 124 e tentativa de transporte 125 interrompida 126. Prancha, cintas e guincho 141–145. Tentam reanimá-lo 150; registram nome e localização 151. Sem garantia de diagnóstico hepático ou previsão exata da morte.
+* **Atualidade:** Falecido 152. Ferimento no ombro, cuidados tentados por Nise 126 e tentativa de transporte 127 interrompida 128. Prancha, cintas e guincho 143–147. Tentam reanimá-lo 152; registram nome e localização 153. Sem garantia de diagnóstico hepático ou previsão exata da morte.
 
 ---

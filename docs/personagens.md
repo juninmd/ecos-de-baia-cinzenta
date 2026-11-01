@@ -2,7 +2,7 @@
 
 # Dossiê de Personagens
 
-Atualizado após o capítulo 239. [Cargos e ocupações](/cargos_personagens.md) · [Galeria visual](/variacoes_personagens.md).
+Atualizado após o capítulo 240. [Cargos e ocupações](/cargos_personagens.md) · [Galeria visual](/variacoes_personagens.md).
 
 ## 🎭 Mapa de Papéis Narrativos
 
@@ -147,3 +147,19 @@ Atualizado após o capítulo 239. [Cargos e ocupações](/cargos_personagens.md)
 ## Cidadão Shadowban
 
 <!--@include: ./personagens/cidadao-shadowban.md -->
+
+## Ísis Nogueira
+
+<!--@include: ./personagens/isis-nogueira.md -->
+
+## Nina Duarte
+
+<!--@include: ./personagens/nina-duarte.md -->
+
+## Teresa "Tê" Prado
+
+<!--@include: ./personagens/tere-prado.md -->
+
+## Saulo Brito
+
+<!--@include: ./personagens/saulo-brito.md -->

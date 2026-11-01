@@ -19,5 +19,8 @@
 ### ⏳ Linha do Tempo
 
 * **Geral:** Médica legista e aliada de longa data. Manteve o departamento de patologia funcionando mesmo sem eletricidade.
+* **Capítulo 246:** Tira a tala do braço direito de Gabo: o osso consolidou torto e o nervo ainda está duvidoso. "A dor é a contabilidade. Não tente pagar mais cedo." Gabo terá a força de metade de um braço bom.
+* **Capítulo 253:** No camarim do Cine Arcádia, acompanha Valéria no uso do módulo de restauração, sem prometer resultado: "Pode devolver só a dor."
+* **Atualidade:** Atende no Setor 4 após 252, no ambulatório montado sobre a mesa de costura do camarim.
 
 ---
