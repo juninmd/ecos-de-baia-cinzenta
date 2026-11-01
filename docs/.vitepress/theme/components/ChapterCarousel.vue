@@ -50,7 +50,8 @@ const onKey = (e) => {
     <div ref="track" class="carousel-track" tabindex="0" @scroll.passive="onScroll" @keydown="onKey">
       <figure v-for="(src, i) in images" :key="src" class="carousel-slide" role="group"
         aria-roledescription="slide" :aria-label="`${i + 1} de ${total}`">
-        <img class="chapter-cover" :src="loaded.has(i) ? src : undefined" :alt="`${title}: imagem ${i + 1} de ${total}`"
+        <!-- src antes de class: tests/chapter_cover_build.test.mjs confere a capa no HTML pré-renderizado. -->
+        <img :src="loaded.has(i) ? src : undefined" class="chapter-cover" :alt="`${title}: imagem ${i + 1} de ${total}`"
           :fetchpriority="i === 0 ? 'high' : undefined" decoding="async" draggable="false" />
       </figure>
     </div>
