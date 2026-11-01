@@ -432,7 +432,7 @@ body.reader-mode-active .vp-doc {
 /* Font scale variable application */
 body.reader-mode-active .vp-doc p {
   font-size: calc(1.18rem * var(--reader-font-scale, 1));
-  line-height: 1.95;
+  line-height: 1.85;
 }
 
 body.reader-mode-active .vp-doc h1 {
