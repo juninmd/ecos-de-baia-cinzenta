@@ -1,8 +1,8 @@
 /* Leitura confortável em telas largas, tablets e celulares. */
 .vp-doc p {
   max-width: 68ch;
-  font-size: clamp(1.05rem, 1rem + 0.25vw, 1.16rem);
-  line-height: 1.9;
+  font-size: clamp(1.06rem, 1rem + 0.3vw, 1.18rem);
+  line-height: 1.78;
   text-align: left;
   hyphens: auto;
   text-wrap: pretty;
@@ -32,7 +32,7 @@
   }
 
   .vp-doc p {
-    line-height: 1.82;
+    line-height: 1.72;
   }
 
   .reader-fab {
@@ -106,4 +106,42 @@
   font-size: 0.7rem;
   letter-spacing: 0.14em;
   text-transform: uppercase;
+}
+
+/* Tipografia: Literata (desenhada para leitura longa) com ajuste óptico por tamanho. */
+.vp-doc {
+  font-optical-sizing: auto;
+  font-kerning: normal;
+  font-variant-ligatures: common-ligatures contextual;
+}
+
+.vp-doc p {
+  letter-spacing: 0;
+  word-spacing: 0.02em;
+}
+
+/* Título de capítulo: Orbitron em peso 600 e trilha menor, para o título longo não virar muro de caixa-alta. */
+.vp-doc h1 {
+  font-weight: 600;
+  letter-spacing: 0.03em;
+}
+
+.vp-doc h2 {
+  letter-spacing: 0.02em;
+}
+
+/* Itálico real (Literata 1,400..700) em pensamento e ênfase; sem o brilho que borrava a letra fina. */
+.dark .vp-doc em {
+  text-shadow: none;
+}
+
+/* Colunas de número alinhadas nas tabelas (Ritmo, Tom, capítulos). */
+.vp-doc td,
+.vp-doc th {
+  font-variant-numeric: tabular-nums;
+}
+
+.vp-doc code,
+.vp-doc kbd {
+  font-variant-ligatures: none;
 }
