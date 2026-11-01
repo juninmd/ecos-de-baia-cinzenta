@@ -78,6 +78,13 @@ export default withMermaid(defineConfig({
       { text: 'Sobre o Autor', link: '/sobre-o-autor' }
     ],
     sidebar: sidebar,
+    docFooter: { prev: 'Capítulo anterior', next: 'Próximo capítulo' },
+    outline: { label: 'Nesta página' },
+    returnToTopLabel: 'Voltar ao topo',
+    sidebarMenuLabel: 'Menu',
+    darkModeSwitchLabel: 'Tema',
+    lightModeSwitchTitle: 'Mudar para o tema claro',
+    darkModeSwitchTitle: 'Mudar para o tema escuro',
     socialLinks: [
     ]
   },

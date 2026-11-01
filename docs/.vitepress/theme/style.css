@@ -570,8 +570,12 @@
     margin: 1.5rem 0;
   }
 
+  /* Capitular flutuante: letra grande inline estica só a primeira linha. */
   .vp-doc p:first-of-type::first-letter {
-    font-size: 3em;
+    float: left;
+    font-size: 3.1em;
+    line-height: 0.82;
+    padding: 0.06em 0.1em 0 0;
   }
 
   .dark .VPHero::before {

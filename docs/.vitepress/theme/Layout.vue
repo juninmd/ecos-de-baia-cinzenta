@@ -3,15 +3,15 @@ import DefaultTheme from 'vitepress/theme'
 import AudioPlayer from './AudioPlayer.vue'
 import LazaroTerminal from './components/LazaroTerminal.vue'
 import { useData, useRouter } from 'vitepress'
-import { ref, onMounted, onUnmounted, computed } from 'vue'
+import { ref, onMounted, onUnmounted, computed, watch, nextTick } from 'vue'
+import { buildChapterIndex, neighbors } from './chapter-index.mjs'
 
 const { Layout } = DefaultTheme
-const { frontmatter, page } = useData()
+const { frontmatter, page, theme } = useData()
 const router = useRouter()
 
-// Configuration constants
-const MAX_CHAPTER = 114
 const WORDS_PER_MINUTE = 200
+const chapterIndex = computed(() => buildChapterIndex(theme.value.sidebar))
 
 const isTerminalOpen = ref(false)
 const isReaderMode = ref(false)
@@ -66,31 +66,22 @@ const calculateReadingTime = () => {
 
 // Navigation between chapters
 const currentChapterNumber = computed(() => {
-  const match = page.value.filePath?.match(/\/capitulo-(\d+)\.md$/)
+  // relativePath não tem barra inicial ("capitulo-250.md"); filePath/regex com "/" nunca casava.
+  const match = page.value.relativePath?.match(/(?:^|\/)capitulo-(\d+)\.md$/)
   return match ? parseInt(match[1]) : null
 })
 
-const hasNextChapter = computed(() => {
-  return currentChapterNumber.value !== null && currentChapterNumber.value < MAX_CHAPTER
-})
+const around = computed(() => neighbors(chapterIndex.value, currentChapterNumber.value))
+const prevChapter = computed(() => around.value.prev)
+const nextChapter = computed(() => around.value.next)
 
-const hasPrevChapter = computed(() => {
-  return currentChapterNumber.value !== null && currentChapterNumber.value > 1
-})
-
-const goToNextChapter = () => {
-  if (hasNextChapter.value) {
-    router.go(`/capitulo-${currentChapterNumber.value + 1}`)
-    window.scrollTo(0, 0)
-  }
+const goTo = async (chapter) => {
+  if (!chapter) return
+  await router.go(chapter.link)
+  window.scrollTo(0, 0)
 }
-
-const goToPrevChapter = () => {
-  if (hasPrevChapter.value) {
-    router.go(`/capitulo-${currentChapterNumber.value - 1}`)
-    window.scrollTo(0, 0)
-  }
-}
+const goToNextChapter = () => goTo(nextChapter.value)
+const goToPrevChapter = () => goTo(prevChapter.value)
 
 const handleKeydown = (e) => {
   // Toggle on '`' (backtick) or Ctrl+K
@@ -167,6 +158,13 @@ onMounted(() => {
   document.documentElement.style.setProperty('--reader-font-scale', 1)
 })
 
+// Tempo de leitura e altura do documento pertencem à página aberta, não ao primeiro mount.
+watch(() => page.value.relativePath, () => nextTick(() => {
+  calculateReadingTime()
+  calculateDocHeight()
+  progress.value = 0
+}))
+
 onUnmounted(() => {
   window.removeEventListener('keydown', handleKeydown)
   window.removeEventListener('resize', calculateDocHeight)
@@ -196,32 +194,6 @@ onUnmounted(() => {
       <AudioPlayer />
     </template>
 
-    <!-- Chapter Navigation -->
-    <template #doc-after>
-      <div class="chapter-navigation">
-        <button 
-          v-if="hasPrevChapter" 
-          @click="goToPrevChapter" 
-          class="chapter-nav-btn prev"
-          aria-label="Capítulo Anterior"
-        >
-          <span class="nav-arrow">←</span>
-          <span class="nav-label">Capítulo {{ currentChapterNumber - 1 }}</span>
-        </button>
-        <div v-else class="chapter-nav-spacer"></div>
-        
-        <button 
-          v-if="hasNextChapter" 
-          @click="goToNextChapter" 
-          class="chapter-nav-btn next"
-          aria-label="Próximo Capítulo"
-        >
-          <span class="nav-label">Capítulo {{ currentChapterNumber + 1 }}</span>
-          <span class="nav-arrow">→</span>
-        </button>
-        <div v-else class="chapter-nav-spacer"></div>
-      </div>
-    </template>
 
     <!-- Floating Action Buttons -->
     <template #layout-bottom>
@@ -402,59 +374,6 @@ body.reader-mode-active .reader-fab {
   font-size: 1.1rem;
 }
 
-/* ===== CHAPTER NAVIGATION ===== */
-.chapter-navigation {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-top: 4rem;
-  padding-top: 2rem;
-  border-top: 1px solid var(--vp-c-divider);
-  gap: 1rem;
-}
-
-.chapter-nav-btn {
-  display: flex;
-  align-items: center;
-  gap: 0.75rem;
-  padding: 1rem 1.5rem;
-  background: linear-gradient(135deg, rgba(168, 85, 247, 0.1) 0%, rgba(6, 182, 212, 0.05) 100%);
-  border: 1px solid rgba(168, 85, 247, 0.3);
-  border-radius: 8px;
-  color: var(--vp-c-text-1);
-  font-family: var(--vp-font-family-display);
-  font-size: 0.95rem;
-  font-weight: 500;
-  cursor: pointer;
-  transition: all 0.3s ease;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-}
-
-.chapter-nav-btn:hover {
-  background: linear-gradient(135deg, rgba(168, 85, 247, 0.2) 0%, rgba(6, 182, 212, 0.1) 100%);
-  border-color: var(--neon-purple);
-  transform: translateY(-2px);
-  box-shadow: 0 4px 20px rgba(168, 85, 247, 0.3);
-}
-
-.chapter-nav-btn .nav-arrow {
-  font-size: 1.3rem;
-  transition: transform 0.3s ease;
-}
-
-.chapter-nav-btn.prev:hover .nav-arrow {
-  transform: translateX(-4px);
-}
-
-.chapter-nav-btn.next:hover .nav-arrow {
-  transform: translateX(4px);
-}
-
-.chapter-nav-spacer {
-  width: 1px;
-}
-
 /* ===== FONT SIZE CONTROLS ===== */
 .font-controls {
   position: fixed;
@@ -530,16 +449,6 @@ body.reader-mode-active .vp-doc h3 {
 
 /* Mobile Responsive */
 @media (max-width: 768px) {
-  .chapter-navigation {
-    flex-direction: column;
-    gap: 1rem;
-  }
-  
-  .chapter-nav-btn {
-    width: 100%;
-    justify-content: center;
-  }
-  
   .font-controls {
     right: 12px;
     bottom: 140px;

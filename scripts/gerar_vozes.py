@@ -59,6 +59,7 @@ def gerar(refazer: bool) -> list[str]:
 
 def escrever_tabela() -> None:
     linhas = [
+        "---\npageClass: pagina-larga\naside: false\n---\n",
         "# Vozes do elenco\n",
         "Cada personagem tem uma identidade sonora única: a trinca *voz, ritmo e tom* nunca se repete",
         "(travado por `tests/test_vozes_unicas.py`). A voz de um personagem não muda entre capítulos.",
