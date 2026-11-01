@@ -2,6 +2,7 @@ import { fileURLToPath } from 'node:url'
 import sidebar from './navigation/sidebar'
 import { socialMeta } from './social-meta.mjs'
 import { prefixCoverPath } from './cover-path.mjs'
+import { chapterImages } from './chapter-gallery.mjs'
 import { stripDiagramHints } from './preload-hints.mjs'
 ﻿import { defineConfig } from 'vitepress'
 import { withMermaid } from 'vitepress-plugin-mermaid'
@@ -10,6 +11,8 @@ import { withMermaid } from 'vitepress-plugin-mermaid'
 // virem diagramas. Sem ele, o VitePress renderiza tudo como bloco de código.
 // O destino informa o prefixo para servir também em /<nome-do-repo>/.
 const base = process.env.VITEPRESS_BASE || '/'
+
+const publicDir = fileURLToPath(new URL('../public', import.meta.url))
 
 export default withMermaid(defineConfig({
   // Dossiês editoriais contêm o desfecho do livro e notas de revisão. Sem esta
@@ -26,6 +29,9 @@ export default withMermaid(defineConfig({
   transformPageData: (pageData) => {
     const image = pageData.frontmatter.image
     if (typeof image === 'string') pageData.frontmatter.image = prefixCoverPath(image, base)
+    // Carrossel do cabeçalho: capa + cenas aprovadas (só quando há mais de uma imagem).
+    const gallery = chapterImages({ publicDir, relativePath: pageData.relativePath, cover: image, base })
+    if (gallery.length > 1) pageData.frontmatter.gallery = gallery
   },
   base,
   vite: {
